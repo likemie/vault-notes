@@ -10,7 +10,7 @@ aliases:
 summary: "二战后美国形成的由国家科学基金会（NSF）与国防部（ONR/DARPA）、能源部（AEC/DOE）、卫生与公众服务部（NIH）、宇航局（NASA）等多家任务导向型联邦机构共同构成的去中心化科研资助体制；突破了布什报告设想的单一集权基金会模式，各机构采用多元评审标准与差异化使命，为大学研究人员提供了多重资助申请渠道与高风险学术容错空间。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Office of Naval Research]]"
   - "[[Department of Energy]]"
+  - "[[ASEAN Economic Community]]"
   - "[[National Institutes of Health]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Office of Scientific Research and Development]]"
@@ -44,6 +45,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Industry-University Cooperative Research Centers]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -53,13 +55,13 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Pluralistic Federal Funding System
-> 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 AEC、国立卫生研究院 [[National Institutes of Health|NIH]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 [[ASEAN Economic Community|AEC]]、国立卫生研究院 [[National Institutes of Health|NIH]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 > [!concept-lens] 概念透镜
 > - **制度本质** 政治妥协与冷战防务需求交织催生的非单一中心科研资源配置生态。
@@ -127,7 +129,7 @@ updated: 2026-10-22
 > - **冷战繁荣与[[Big Science|大科学]]扩展（1950–1975）— 人造卫星危机与体制升级**
 >   1957 年苏联发射 [[Sputnik Shock 1957|Sputnik]] 卫星引发全美震动，NSF 预算两年内激增 250%；国会通过《[[National Defense Education Act of 1958|1958年国防教育法]]案》（NDEA）赋予 NSF 科学课程改革与研究生资助使命；联邦设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如伯克利实验室、费米实验室），构筑国家级[[Megascience Installations|大科学装置]]共享网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–39)]]
 > - **产学协同与现代重组（1975 年至今）— 危机纠偏与[[Technology Transfer|技术转移]]**
->   越战后尼克松裁撤科学顾问引发政学危机；福特总统签署法案正式设立白宫[[Office of Science and Technology Policy|科学技术政策办公室]]（OSTP, 1976）恢复顶层协调；面对经济滞胀，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），国会通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，形成纯基础探索（NSF）与战略使命资助（[[National Institutes of Health|NIH]]/DOD/[[Department of Energy|DOE]]）并行的成熟多元生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–42)]]
+>   越战后尼克松裁撤科学顾问引发政学危机；福特总统签署法案正式设立白宫[[Office of Science and Technology Policy|科学技术政策办公室]]（OSTP, 1976）恢复顶层协调；面对经济滞胀，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），国会通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，形成纯基础探索（NSF）与战略使命资助（[[National Institutes of Health|NIH]]/[[Department of Defense|DOD]]/[[Department of Energy|DOE]]）并行的成熟多元生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–42)]]
 
 ---
 

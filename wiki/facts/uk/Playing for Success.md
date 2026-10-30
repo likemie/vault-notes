@@ -8,7 +8,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,7 +21,9 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Student Motivation]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods:
@@ -40,11 +42,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!info] 背景
-> Playing for Success 是英国一项在著名足球俱乐部场地设立**学习支持中心（study support centres）** 的教育项目。该项目针对成绩不佳（underachieving）的中小学生，利用足球俱乐部的声望和设施来激发学生的学习动机。项目由 Sharp et al. (2003) 代表英国教育与技能部（[[Department for Education]] and Skills）进行了系统评估([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–121]])。
+> Playing for Success 是英国一项在著名足球俱乐部场地设立**学习支持中心（study support centres）** 的教育项目。该项目针对成绩不佳（underachieving）的中小学生，利用足球俱乐部的声望和设施来激发学生的[[Student Motivation|学习动机]]。项目由 Sharp et al. (2003) 代表英国教育与技能部（[[Department for Education]] and Skills）进行了系统评估([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–121]])。
 >
 > 该项目在 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目中被作为源研究之一——其异常高的[[Effect Size\|效应量]]（数学 0.80）被并入一个整体平均效应量 0.17（约 +2 个月额外进步），由此成为 [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] 揭示[[Meta-meta-analysis\|元-元分析]]程序缺陷的关键案例（pp. 120–123）。
 
@@ -83,7 +85,7 @@ updated: 2026-10-26
 > > "Pupils who attend are given an opportunity that makes them the envy of their friends." (Sharp et al., 2003, pp. 113–120, cited in [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 121]])
 
 > [!success] 影响与后果
-> Playing for Success 案例在学术文献中已成为**说明[[Meta-meta-analysis\|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size\|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership\|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导实践决策。
+> Playing for Success 案例在学术[[Document|文献]]中已成为**说明[[Meta-meta-analysis\|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size\|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership\|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导实践决策。
 
 > [!example] 相关概念／政策
 > - [[EEF Teaching and Learning Toolkit]] — Playing for Success 被卷入的[[Meta-meta-analysis\|元-元分析]]工具

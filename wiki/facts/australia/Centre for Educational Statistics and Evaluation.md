@@ -10,9 +10,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "Sydney, Australia"
@@ -42,6 +42,7 @@ related_persons: []
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[NAPLAN]]"
   - "[[Gonski 2.0]]"
   - "[[Evidence Network]]"
   - "[[Social Ventures Australia]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-22
 > **新南威尔士州教育统计与评估中心（Centre for Educational Statistics and Evaluation, [[Comparative Education Society in Europe\|CESE]] NSW）** 是澳大利亚新南威尔士州教育部（NSW Department of Education）于 2012 年设立的州属专门化教育实证数据与科研评估机构，系全澳首个在州级行政科层内部建立的综合性教育证据中介实体。该机构通过整合全州基础教育学业大数据、开展大规模干预评估及发布《最有效实践指南》（*What Works Best*），旨在为学校教学与政府政策提供客观数据基底，并在机制上充当了国家级证据经纪机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）创设的地方科层母本（Lewis & Hogan, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2012 年成立；正值全澳推行《国家全民读写算术测评》（NAPLAN）与学校问责深化之际，新州政府旨在打破教育行政与数据评估脱节的困局，设立统一的数据驱动科研中枢。
+> - **成立时间 / 创设背景** 2012 年成立；正值全澳推行《国家全民读写算术测评》（[[NAPLAN]]）与学校问责深化之际，新州政府旨在打破教育行政与数据评估脱节的困局，设立统一的数据驱动科研中枢。
 > - **总部地点 / 业务辐射** 澳大利亚悉尼；直接服务新南威尔士州公立学校系统（逾 2200 所学校与 80 万学生），其循证指南辐射全澳。
 > - **法人属性与经费基础** 州政府教育部内部常设法定研究评估机构；全部经费来自新南威尔士州财政预算拨款。
 > - **核心宗旨与法定职责** 搜集、分析并向一线教师与教育行政当局提供高质量实证数据与因果科研证据，评估重[[Grandes Ecoles|大学校]]教育改革举措的实际成效。

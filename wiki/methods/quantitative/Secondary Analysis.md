@@ -8,7 +8,7 @@ summary: "对已有数据集或官方行政与跨国评估数据库进行的进�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Response Bias]]"
   - "[[Research Question]]"
+  - "[[Document]]"
+  - "[[Epistemic Governance]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
@@ -51,8 +53,11 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[EU]]"
+  - "[[Eurydice]]"
   - "[[TIMSS]]"
   - "[[Bologna Process]]"
+  - "[[World Bank]]"
+  - "[[EdStats]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
@@ -60,13 +65,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Secondary Analysis
-> **二手分析（Secondary Analysis，又称二次分析）** 是指对已有数据集、官方行政记录或跨国大规模评估数据库进行的进一步挖掘与重新分析，以不同于原始调查的解释视角、理论假设或比较框架推进对现实规律的理解（Hakim, 1982）。在比较教育与[[Policy Science in Comparative Education|政策科学]]中，研究者通过对国际组织（如[[OECD|经合组织]] [[PISA]]、[[EU|欧盟]] Eurydice 数据库）及国家官方普查与学业评估数据展开二手分析，能够绕过高昂的一手调研成本，系统透视教育政策执行偏差、跨国趋同假象与弱势群体学业抗拒机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–333)]]
+> **二手分析（Secondary Analysis，又称二次分析）** 是指对已有数据集、官方行政记录或跨国大规模评估数据库进行的进一步挖掘与重新分析，以不同于原始调查的解释视角、理论假设或比较框架推进对现实规律的理解（Hakim, 1982）。在比较教育与[[Policy Science in Comparative Education|政策科学]]中，研究者通过对国际组织（如[[OECD|经合组织]] [[PISA]]、[[EU|欧盟]] [[Eurydice]] 数据库）及国家官方普查与学业评估数据展开二手分析，能够绕过高昂的一手调研成本，系统透视教育政策执行偏差、跨国趋同假象与弱势群体学业抗拒机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–333)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 他人为其他[[Research Purpose|研究目的]]或官方行政管理已收集并整理的数据集，包括人口普查数据、国际大规模测评数据库（PISA、[[TIMSS]]）、超国家政策监测网络（Eurydice）、全国性学业质量监测报告以及高校行政人事统计记录。
@@ -137,7 +142,7 @@ updated: 2026-10-29
 > |:-----|:-----|:-----|
 > | [[Comparative Policy Analysis]] | 关联方法 | 二手分析为跨国比较政策分析提供大[[Sample Size Determination\|样本量]]化指标与官方统计基底支撑。 |
 > | [[Trend Study]] | 关联方法 | 二手分析常用于对多期普查或重复横截面测评展开跨时间演进趋势分析。 |
-> | [[Systematic Review]] | 互补方法 | 系统综述聚焦于同行评审文献的综合，而二手分析直接对原始数据微观库展开计算。 |
+> | [[Systematic Review]] | 互补方法 | 系统综述聚焦于同行评审[[Document\|文献]]的综合，而二手分析直接对原始数据微观库展开计算。 |
 > | [[PISA]] | 事实 | 二手分析在比较教育研究中最常调用的跨国大规模评估数据库之一。 |
 
 ---
@@ -145,6 +150,6 @@ updated: 2026-10-29
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 以英国全国儿童发展研究（NCDS）等大型队列数据为例，说明二手分析如何通过新路径挖掘原始研究未涵盖的发现。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 针对西班牙国家[[Evaluation Research|评估研究]]所与教育部官方统计展开二手分析，提取初中 33% 失败率与高校 95% 近亲繁殖数据，系统揭露均质综合学制与博洛尼亚对标的制度病理。
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对世界银行年度研究汇编（1973–2009）与 EdStats 数据库展开二手分析，实证解构世行教育认知治理的演变（pp. 3–6）。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对[[World Bank|世界银行]]年度研究汇编（1973–2009）与 [[EdStats]] 数据库展开二手分析，实证解构世行教育[[Epistemic Governance|认知治理]]的演变（pp. 3–6）。
 
 ---

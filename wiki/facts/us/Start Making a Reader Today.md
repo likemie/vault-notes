@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Sense of School Belonging]]"
   - "[[Self-Efficacy]]"
   - "[[Response to Proven Instruction]]"
 related_theories: []
@@ -37,7 +38,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James C. Scott]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -48,13 +50,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **SMART（Start Making a Reader Today，今日起步做读者）** 是由美国俄勒冈州非营利读写组织发起、俄勒冈大学斯科特·贝克（Scott K. Baker）与拉塞尔·格斯滕（Russell Gersten）学术团队评估的小学早期社区无偿志愿者一对一伴读干预方案；其核心目标是动员社会广泛的民间义工力量，为小学一至二年级面临阅读失败边缘的处境不利儿童提供高频、持续的个别化伴读关怀，通过结构化伴读规程建立儿童对书面语言的积极依恋与字词识别能力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **SMART（Start Making a Reader Today，今日起步做读者）** 是由美国俄勒冈州非营利读写组织发起、俄勒冈大学[[James C. Scott|斯科特]]·贝克（Scott K. Baker）与拉塞尔·格斯滕（Russell Gersten）学术团队评估的小学早期社区无偿志愿者一对一伴读干预方案；其核心目标是动员社会广泛的民间义工力量，为小学一至二年级面临阅读失败边缘的处境不利儿童提供高频、持续的个别化伴读关怀，通过结构化伴读规程建立儿童对书面语言的积极依恋与字词识别能力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 创立于 1992 年，经俄勒冈州教育与慈善网络常态化运作三十余年，累计覆盖全州数百所公立小学、服务逾 25 万名弱势儿童。
@@ -100,7 +102,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心实证结论
 > - **显著的标准化阅读因果[[Effect Size\|效应量]]** 在长达两年的严格纵向因果评估中，接受 SMART 伴读的学生在连贯单词阅读与全篇理解测验上取得了平均 $+0.42$ 的显著因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **极高的社会成本效益比** 方案完全不需要向辅导者支付薪酬，学校仅需分摊极少的图书和管理杂费，生均成本仅为专业教师模式的几十分之一。
-> - **社会资本与情感支撑增益** 追踪显示，除了[[Academic Achievement\|学业成绩]]提升外，弱势儿童在学校归属感、阅读[[Self-Efficacy\|自我效能感]]及人际信任方面均呈现出显著优于对照组的正向变化。
+> - **社会资本与情感支撑增益** 追踪显示，除了[[Academic Achievement\|学业成绩]]提升外，弱势儿童在[[Sense of School Belonging|学校归属感]]、阅读[[Self-Efficacy\|自我效能感]]及人际信任方面均呈现出显著优于对照组的正向变化。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.42** 纵向随机对照评估测得的平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

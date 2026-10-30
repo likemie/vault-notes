@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[Institutional Displacement]]"
   - "[[Embedded Network Governance]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Bureaucracy]]"
   - "[[Pragmatic Paradigm]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-10-26
 > - **理论路径** 与克里斯托弗·安塞尔（Christopher Ansell）共同奠定[[Developmental Network State|发展型网络国家]]理论，为[[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）等学者实证发展“[[Embedded Network Governance|嵌入型网络治理]]”提供了奠基性分析架构。
 > - **方法路径** 倡导结合法规政策演进、联邦财政支出分类与行业创新奖项（如 R&D 100 大奖）追踪的制度政治经济学分析[[Paradigm|范式]]。
 > - **政策路径** 深刻启发了当代关于美国国家战略、[[CHIPS and Science Act|芯片法案]]及[[Inflation Reduction Act|通胀削减法案]]的公共讨论，为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）的“创业型国家”（Entrepreneurial State）理论提供了先驱性证据支持。
-> - **跨国／跨领域传播** 其对波兰尼思想的当代重构广泛影响了社会学、政治学、国际关系与公共政策学界，成为剖析当代[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）与新自由主义悖论的经典文献。
+> - **跨国／跨领域传播** 其对波兰尼思想的当代重构广泛影响了社会学、政治学、国际关系与公共政策学界，成为剖析当代[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）与新自由主义悖论的经典[[Document|文献]]。
 
 > [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 提出“隐藏的发展型国家”命题，系统梳理 1980 年代以来美国联邦科研网络对高科技产业的结构性重塑与制度张力。

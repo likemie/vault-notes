@@ -32,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -51,6 +51,6 @@ updated: 2026-10-22
 > [!note|notitle]
 > 长线思维（long-range thinking）是产业参与 PoP 项目的关键价值所在。产业研发和业务发展部门帮助研究团队将创新聚焦于他们识别的市场需求，并与创始团队建立富有成效的关系——当投资或其他实质性支持的时机成熟时，这种预先建立的关系使后续合作更加顺畅（p.149）。
 
-> [!example] 政府主导的 PoP 案例：NSF I-Corps
+> [!example] 政府主导的 PoP 案例：[[NSF I-Corps]]
 > [[NSF I-Corps]] 项目是政府主导的概念验证与创业培训的典型代表。该项目自 2011 年启动以来已孵化了超过 1,000 家初创企业，累计获得超过 $760 million 的后续融资（[[National Science Foundation\|NSF]], 2024，转引自 p.149）。其核心是教授学者创业思维，而非仅仅提供推进科学的资金。NSF 主任 Sethuraman Panchanathan 表示："成功不总是以是否创建了创业企业来衡量，也以如何将创业思维应用于你生活中所做的所有事情来衡量"（p.149）。
 

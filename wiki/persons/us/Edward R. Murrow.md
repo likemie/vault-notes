@@ -9,7 +9,7 @@ summary: "美国传奇广播电视记者、新闻战地播报先驱与公共知�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/intellectual-courage
   - theme/democracy
 related_concepts:
+  - "[[Public Diplomacy]]"
   - "[[Paradigm]]"
   - "[[Hard Belief]]"
   - "[[Technological Agnosticism]]"
@@ -36,13 +37,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国著名广播电视新闻记者、战地记者，哥伦比亚广播公司（CBS）新闻部奠基人，美国公共外交事务官员。
+> - **身份位置** 美国著名广播电视新闻记者、战地记者，哥伦比亚广播公司（CBS）新闻部奠基人，美国[[Public Diplomacy|公共外交]]事务官员。
 > - **核心角色** 20 世纪新闻专业主义与公共媒介道德监督的典范，在二战伦敦空袭期间确立战地实况转播[[Paradigm|范式]]，并在 1950 年代冷战麦卡锡主义泛滥期勇于运用大众传媒捍卫宪政自由与理性常识。
 > - **代表贡献** 开创调查性新闻节目《现在请看》（*See It Now*）；在 1954 年 3 月 9 日发表公开挑战参议员约瑟夫·麦卡锡（Joseph McCarthy）的历史性演讲，唤醒公众的民主自省与反抗勇气。
 

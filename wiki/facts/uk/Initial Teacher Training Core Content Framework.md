@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
   - "[[Evidence Era]]"
+  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[Formative Assessment]]"
   - "[[Output-Oriented Governance]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-10-26
 > - **2015 年** — [[Carter Review of Initial Teacher Training\|卡特审查]]发布独立报告，明确建议中央政府制定全国统一的[[Initial Teacher Training\|初始教师培训]]核心课程框架。
 > - **2016 年** — 英国教育部发布《卓越教育无处不在》（*Educational Excellence Everywhere*）白皮书，正式采纳卡特审查建议。
 > - **2019 年 1 月** — 英国教育部发布《教师招聘与留任战略》及《早期职业框架》（ECF）。
-> - **2019 年 11 月** — 英国教育部正式颁布《初始教师培训核心内容框架》（CCF），并附带独立专家组审查的实证文献清单。
+> - **2019 年 11 月** — 英国教育部正式颁布《初始教师培训核心内容框架》（CCF），并附带独立专家组审查的实证[[Document|文献]]清单。
 > - **2020 年 9 月** — CCF 在英格兰全境所有初始教师培训机构中全面强制推行。
 > - **2024 年** — 英国教育部将 CCF 与 ECF 合并升级为统一的《初始教师培训与早期职业框架》（ITTECF）。
 

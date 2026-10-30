@@ -8,7 +8,7 @@ summary: "德国慕尼黑工业大学与希尔德斯海姆大学经验教育研�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 27
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,9 +28,11 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Category Mistake]]"
   - "[[Data Infrastructure]]"
+  - "[[Collaborative Learning]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Direct Instruction]]"
   - "[[Publication Bias]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1998–2004** 慕尼黑大学（LMU）、图宾根大学与牛津大学攻读教育学、哲学与修辞学，聚焦教学心理学与学习科学。
-> - **2004–2006** 图宾根知识媒体研究所（IWM）担任科研人员，参与计算机支持的协作学习（CSCL）与技术赋能认知工具研发。
+> - **2004–2006** 图宾根知识媒体研究所（IWM）担任科研人员，参与计算机支持的[[Collaborative Learning|协作学习]]（CSCL）与技术赋能认知工具研发。
 > - **2006–2015** 慕尼黑大学（LMU）[[Experiential Learning|经验教育]]学与教育心理学教席科研人员，2009 年获哲学博士学位（Dr. phil.），2013 年完成特许任教资格论文（Habilitation）。
 > - **2015–2018** 任职于慕尼黑工业大学（TUM）教育学院，担任实证教学研究课题组骨干；针对[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》德语译本在德语国家引发的巨大政策震荡，主导启动对全书附录 A 与附录 B 原始数据的反向追踪工程。
 > - **2016** 在德语教育科学顶尖权威期刊《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*, ZfE）发表重磅审稿长文《有远见和令人印象深刻——但也有弹性？对哈蒂〈可见的学习〉方法论的批判》，系统奠定其在教育计量方法学领域的代表性学术地位。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
@@ -92,7 +94,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 实证教育学与[[Evidence-Based Education|循证教育]]决策必须建立在无偏且严密的统计数学推导与正确的因果[[Ontology|本体论]]之上；任何缺乏精度加权、忽视文献重叠、混淆测度指标并抹平情境调节[[Variable|变量]]的宏观二阶[[Meta-meta-analysis|元综合]]，不仅无法带来累积性知识进步，反而会借由数字精确性的科学假象制造严重的政策与教学误导；必须将实证结果归档与商业学术期刊体制彻底解耦，由学术界共建共享全量开放的标准化证据[[Data Infrastructure|数据基础设施]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
+> 实证教育学与[[Evidence-Based Education|循证教育]]决策必须建立在无偏且严密的统计数学推导与正确的因果[[Ontology|本体论]]之上；任何缺乏精度加权、忽视[[Document|文献]]重叠、混淆测度指标并抹平情境调节[[Variable|变量]]的宏观二阶[[Meta-meta-analysis|元综合]]，不仅无法带来累积性知识进步，反而会借由数字精确性的科学假象制造严重的政策与教学误导；必须将实证结果归档与商业学术期刊体制彻底解耦，由学术界共建共享全量开放的标准化证据[[Data Infrastructure|数据基础设施]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 
 > [!citation-card] 中央证据数据库建议
 > 因此，我们建议收集实证研究的方法和结果——无论期刊出版与否——并以标准化和[[Meta-analysis|元分析]]可用的格式在中央数据库中提供它们。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 21, 35)]]

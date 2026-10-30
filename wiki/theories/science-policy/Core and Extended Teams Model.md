@@ -8,7 +8,7 @@ aliases:
 summary: "解释当代科学中团队规模分布从经典泊松分布向重尾幂律分布演进的双重生成模型；区分随机招募成员的小型核心团队与依赖高产学者声誉累积优势快速聚集成员的扩展团队，揭示两类团队在长期存续性与知识生产中的互补分工。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 15
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,17 +22,20 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Knowledge Production]]"
   - "[[Metascience]]"
-  - "[[Disruption Index]]"
-related_theories:
-  - "[[Team Assembly Model]]"
+  - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
+  - "[[Paradigm]]"
+  - "[[Innovation Ecosystem]]"
+related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Disruption Index]]"
 related_instruments: []
 related_persons:
   - "[[Stasa Milojevic]]"
+  - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Lingfei Wu]]"
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[CERN]]"
@@ -49,7 +52,7 @@ updated: 2026-10-30
 
 > [!theory-position] 理论定位
 > - **解释对象** 科学界科研团队规模在过去半个世纪中经历的结构性膨胀，以及团队人数概率分布形态的根本性变迁。
-> - **理论问题** 解释为何现代科学团队规模分布超越了传统泊松分布的简单平移，涌现出覆盖数十至上千名学者的重尾幂律分布。
+> - **理论问题** 解释为何现代科学团队规模分布超越了传统泊松分布的简单平移，[[Emergence|涌现]]出覆盖数十至上千名学者的重尾幂律分布。
 > - **理论类型** 统计物理演化模型、生成性组织增长理论与科学学宏观动力学模型。
 > - **知识位置** 处于[[Bibliometric Analysis|文献计量学]]、组织社会学与复杂网络统计动力学的交汇点，揭示[[Big Science|大科学]]时代微观团队集聚与宏观规模法则的内在机制。
 
@@ -97,8 +100,8 @@ updated: 2026-10-30
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 科技资助政策应当如何在大型重大攻坚工程与青年科学家独立探索之间分配经费？高校科研管理应如何设计差异化的团队支持机制？
-> - **分析对象与单位** 基础科学实验室、重大科技基础设施联盟与高校研究中心；分析单位为团队历时性署名规模、成员招募动态与产出类型。
+> - **[[Research Question|研究问题]]** 科技资助政策应当如何在大型重大攻坚工程与青年科学家独立探索之间分配经费？高校科研管理应如何设计差异化的团队支持机制？
+> - **分析对象与单位** 基础科学实验室、重大科技基础设施联盟与高校研究中心；[[Unit of Analysis|分析单位]]为团队历时性署名规模、成员招募动态与产出类型。
 > - **需要的材料** 历时性学术成果全量合署数据集、团队规模历史分布曲线、主导学者学术资历与课题经费结构。
 > - **解释目标** 诊断学科生态中团队规模结构是否失衡，防范资助单一偏向大型工程导致小团队源头颠覆力的衰竭。
 
@@ -133,7 +136,7 @@ updated: 2026-10-30
 > > 围绕科技政策大额支持大团队是否危及颠覆性创新展开争论。
 > >
 > > - **规模集中派** 认为大团队资源利用率高、产出高被引成果的概率更为稳定，符合重大科技竞争的国家战略诉求。
-> > - **生态平衡派（Wu et al., 2019; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021]]）** 证实大团队倾向于发展既有范式，而小团队主导开拓全新概念领域；若政策单一偏爱大团队，将造成科学创新生态的源头活水枯竭。
+> > - **生态平衡派（Wu et al., 2019; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021]]）** 证实大团队倾向于发展既有[[Paradigm|范式]]，而小团队主导开拓全新概念领域；若政策单一偏爱大团队，将造成科学[[Innovation Ecosystem|创新生态]]的源头活水枯竭。
 
 ---
 

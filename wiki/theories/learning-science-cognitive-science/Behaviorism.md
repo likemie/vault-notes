@@ -9,10 +9,10 @@ aliases:
 summary: "主张心理学与学习科学应聚焦于可观察、可测量的外显行为及其与环境刺激的函数关系，通过强化排程、程序化教学与矫正性反馈控制行为习得，构成了当代实证主义技术理性教学工程与输入—输出评价体系的深层心理学源流"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 47
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - behaviorism
   - learning-theory
@@ -27,11 +27,13 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Student Motivation]]"
   - "[[Paradigm]]"
   - "[[Feedback]]"
   - "[[Technical Rationality]]"
   - "[[Intentionality]]"
   - "[[Neo-Taylorism]]"
+  - "[[Programmed Instruction]]"
   - "[[Gamification]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
@@ -42,6 +44,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Socioeconomic Status]]"
+  - "[[Document]]"
   - "[[Construct]]"
   - "[[Creativity]]"
   - "[[Determinism]]"
@@ -77,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （行为主义）
@@ -97,7 +100,7 @@ updated: 2026-10-22
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 约翰·华生（John B. Watson, 1913）发表《行为主义者眼中的心理学》（*Psychology as the Behaviorist Views It*）确立外显行为纲领；[[B. F. Skinner|伯尔赫斯·弗雷德里克·斯金纳]]（[[B. F. Skinner]], 1938, 1953, 1954, 1958）出版《有机体的行为》（*The Behavior of Organisms*）、《科学与人类行为》（*Science and Human Behavior*）并发表《学习的科学与教学的艺术》（*The Science of Learning and the Art of Teaching*），创立操作性条件反射体系与教学机器技术。
-> - **原初问题** 传统学校教学依赖厌恶性强制与惩罚控制，教师反馈严重滞后且缺乏差异化进度支持，导致多数学生学习动机低落与习得效率低下；内省心理学无法提供可重复验证的操作工具。
+> - **原初问题** 传统学校教学依赖厌恶性强制与惩罚控制，教师反馈严重滞后且缺乏差异化进度支持，导致多数[[Student Motivation|学生学习动机]]低落与习得效率低下；内省心理学无法提供可重复验证的操作工具。
 > - **理论资源与材料** 伊万·巴甫洛夫（Ivan Pavlov）的唾液分泌条件反射实验、爱德华·桑代克（Edward Thorndike）的联结主义效果律，以及斯金纳箱（Skinner Box）中针对鸽子与白鼠在不同强化排程下的高频压杆与啄键实验数据。
 > - **形成路径** 斯金纳区分了环境诱发的应答性行为（Respondent Behavior）与有机体主动发出的操作性行为（Operant Behavior），证明行为频率主要受其后继结果（Consequences）所决定；进而将动物实验室中确立的强化原理迁移至人类语言与符号学习，构想出以“小步子呈现—主动反应—即时确认”为特征的机械教学设备与分步教材。
 
@@ -121,7 +124,7 @@ updated: 2026-10-22
 > | 强化排程（Schedules of Reinforcement） | 分类/规则 | 区分连续强化、定比强化、变比强化、定时强化与变时强化，规定刺激呈现的频次与抗消退特性。 |
 > | 小步子原则（Small Steps Principle） | 教学方法 | 将复杂的终点行为分解为认知负荷极低的渐进微型知识单元，确保极高应答正确率。 |
 > | 即时矫正[[Feedback\|反馈]]（Immediate Corrective Feedback） | 控制机制 | 在行为发生瞬间提供对错判读或正向确认，抑制错误联结并加固达标行为。 |
-> | 程序化教学与教学机器（Programmed Instruction & Teaching Machines） | 工具/技术 | [[B. F. Skinner\|斯金纳]]发明的自动化物理载体与文本系统，支持学习者独立按自身节奏完成知识自定步调习得。 |
+> | 程序化教学与教学机器（[[Programmed Instruction]] & Teaching Machines） | 工具/技术 | [[B. F. Skinner\|斯金纳]]发明的自动化物理载体与文本系统，支持学习者独立按自身节奏完成知识自定步调习得。 |
 > | [[Criterion-Referenced Test\|标准参照测验]]（Criterion-Referenced Measurement） | 评价方法 | [[Robert Glaser\|格拉泽]]提出的绝对胜任力测评，以目标达成度评估个体行为输出。 |
 > | 四要素教学系统模型（Instructional System Model） | [[Analytic Framework\|分析框架]] | 整合教学目标、起点行为、教学规程与评价回路的完整输入—输出控制架构。 |
 
@@ -221,7 +224,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 哈蒂《[[Visible Learning\|可见的学习]]》反馈类目附录 A 核心元分析文献 | 概念效度与文献学逐项审查 | 反馈[[Construct\|构念]]与测量工具对齐度 | 占总受试者 92.4% 的 5 项元分析中，有 4 项未曾测量真正的反馈 | 质性文献学考证确定 | 揭示哈蒂将行为强化与教师亲和力粗暴混编为反馈，构建了失真的 $d = 0.73$ 假象 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 哈蒂《[[Visible Learning\|可见的学习]]》反馈类目附录 A 核心元分析文献 | 概念效度与[[Document\|文献]]学逐项审查 | 反馈[[Construct\|构念]]与测量工具对齐度 | 占总受试者 92.4% 的 5 项元分析中，有 4 项未曾测量真正的反馈 | 质性文献学考证确定 | 揭示哈蒂将行为强化与教师亲和力粗暴混编为反馈，构建了失真的 $d = 0.73$ 假象 |
 > | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]]; Schüll (2014) | 现代算法驱动教育 App 与自适应平台 | 关键技术人类学与设计文本分析 | 行为主义操作反射机制植入 | 商业教育软件普遍沿用老虎机变比率强化逻辑促成强迫性使用 | 案例与工业设计规范考证 | 证实当代数字化教学环境依然深度依赖[[B. F. Skinner\|斯金纳]]式的行为塑造技术以维系用户留存 |
 
 ---

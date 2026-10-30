@@ -10,7 +10,7 @@ aliases:
 summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并揭示供需倒挂与系统性协调机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
   - "[[Dependent Variable]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-22
 > - **解释对象** 解释教育研究证据在政策制定和学校教学实践中为何被利用或被搁置，识别推动研究采纳的促成机制与阻碍[[Research Translation\|研究转化]]的结构性障壁。
 > - **理论问题** 回应[[Evidence-Based Education\|循证教育]]与[[Knowledge Mobilisation\|知识动员]]领域长期存在的要素孤立化与机制碎片化困境，厘清因素（Factors）、机制（Mechanisms）、障壁（Barriers）、干预（Interventions）与战略（Strategies）之间的逻辑层级与交互模式。
 > - **理论类型** 跨领域中层机制分类学与多维度系统[[Analytic Framework\|分析框架]]。
-> - **知识位置** 渊源于卫生政策、公共管理与司法等跨行业证据利用文献（Humphries et al., 2014; Oliver et al., 2014; Nutley et al., 2009），由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）研究员 [[José Manuel Torres]] 在教育知识动员研究中拓展并系统[[Operationalization\|操作化]]为涵盖政策制定与学校实践的双情境类型学。
+> - **知识位置** 渊源于卫生政策、公共管理与司法等跨行业证据利用[[Document|文献]]（Humphries et al., 2014; Oliver et al., 2014; Nutley et al., 2009），由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）研究员 [[José Manuel Torres]] 在教育知识动员研究中拓展并系统[[Operationalization\|操作化]]为涵盖政策制定与学校实践的双情境类型学。
 
 > [!claim] 核心主张
 > 教育[[Research Utilization\|研究利用]]并非由单一的研究供给质量或个体态度单向决定，而是深嵌于由信息、互动、个体特征、结构与组织、文化五大维度交织构成的复杂生态之中；孤立、单向的线性干预（如单纯增加研究成果摘要分发）无法自主驱动实质性采纳，必须依托结构性制度保障、持续能力建设与高位系统协调战略，将微观促成机制与宏观科研生产协同对齐，方能有效化解现实阻碍。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 105–108, 118–120)]]

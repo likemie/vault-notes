@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Competitiveness]]"
   - "[[Big Science]]"
+  - "[[Document]]"
   - "[[University-Based Research Center]]"
   - "[[Refined Mastery]]"
 related_theories: []
@@ -33,7 +34,6 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
-  - "[[Chinese Academy of Sciences]]"
 related_persons:
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +53,7 @@ updated: 2026-10-22
 > - **代表贡献** 推动将国家战略竞争力嵌入联邦科学政策；与[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）结成政治盟友，击退国会剥离 NSF 工程项目的议案并在白宫行政管理和预算局（OMB）财政紧缩阻力下为 ERC 争取到初始拨款。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–372)]]
 
 > [!citation-card] 人物定位的关键来源
-> 凯沃思在促成工程研究中心计划中扮演了极其关键的政治角色。从 1983 年国家[[Chinese Academy of Sciences|科学院]]科学、工程与公共政策委员会（COSEPUP）研讨会开始，他敏锐地认识到计算机在设计与制造中的战略价值，并同布洛赫建立了深厚的战略盟友关系，将 ERC 视为提升美国工业竞争力的杀手锏。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–371)]]
+> 凯沃思在促成工程研究中心计划中扮演了极其关键的政治角色。从 1983 年国家科学院科学、工程与公共政策委员会（COSEPUP）研讨会开始，他敏锐地认识到计算机在设计与制造中的战略价值，并同布洛赫建立了深厚的战略盟友关系，将 ERC 视为提升美国工业竞争力的杀手锏。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–371)]]
 >
 > *George Keyworth played a big role. From the time in 1983 when we had a COSEPUP session... he was very interested in that. We had established a very good relationship with Keyworth and our common denominator was the semiconductor industry. (Bloch in Bozeman & Boardman, 2004, p. 371)*
 
@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 > [!thought-timeline] 思想发展
 > - **1981–1985 — 白宫科技政策与[[Competitiveness|国家竞争力]]重构期** 此阶段核心回应冷战时期美苏争霸与美日高科技贸易战的双重危机，主张打破大学纯理论探索与产业实际需求的脱节。
->   - **代表文献** *Improving the U.S. Position in International Industrial Competitiveness* (1986)。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 377)]]
+>   - **代表[[Document|文献]]** *Improving the U.S. Position in International Industrial Competitiveness* (1986)。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 377)]]
 >   - **关键概念／方法** [[Competitiveness]]、[[University-Based Research Center]]、[[Big Science]]。
 >   - **阶段转向** 强调联邦资助必须从单一资助自由探索基础研究，转向通过大学跨学科中心连接产业前沿技术。
 > - **1986–2000s — 后冷战产业竞争力与信息网络期** 深入探讨数字技术革命、互联网普及与全球知识产权竞争，倡导以市场为导向释放高科技产业创新潜能。

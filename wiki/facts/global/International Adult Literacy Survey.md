@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Critical Pedagogy]]"
   - "[[Governing by Numbers]]"
+  - "[[Comparative Turn in Education Policy]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Situative Perspective]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -137,4 +138,4 @@ updated: 2026-10-22
 > | [[Governing by Numbers]] | Concept | 揭示 IALS 如何借由量化数据开创跨国软性治理权力的理论框架。 |
 > | [[Human Capital Theory]] | Theory | 支撑 IALS 将成人素养等同于国家生产力储备的经济学理论基础。 |
 > | [[Sotiria Grek]] | Person | 剖析 IALS 如何为 PISA 奠定脱离课程评价[[Paradigm\|范式]]的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 论述 IALS 作为经合组织比较转向前奏与技术治教起点的实证文献。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 论述 IALS 作为经合组织[[Comparative Turn in Education Policy\|比较转向]]前奏与技术治教起点的实证文献。 |

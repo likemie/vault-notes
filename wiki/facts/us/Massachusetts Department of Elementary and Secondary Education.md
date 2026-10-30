@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - accountability
 related_concepts:
   - "[[Data Infrastructure]]"
+  - "[[Charter Schools]]"
   - "[[Academic Achievement]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-10-20
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 源起于 1837 年由[[Horace Mann\|霍勒斯·曼]]（Horace Mann）推动创设的马萨诸塞州教育委员会（Massachusetts Board of Education），历经多次州政体制改革，于 2008 年在《公立教育重组法案》下正式重构为当前的中小学教育部。
-> - **总部地点 / 业务辐射** 机构总部位于马萨诸塞州摩顿（Malden），法定管辖范围覆盖全州逾 300 个公立学区、近 2000 所公立中小学及特许学校。
+> - **总部地点 / 业务辐射** 机构总部位于马萨诸塞州摩顿（Malden），法定管辖范围覆盖全州逾 300 个公立学区、近 2000 所公立中小学及[[Charter Schools|特许学校]]。
 > - **法人属性与经费基础** 州政府内阁级公立行政机关，运作资金依托马萨诸塞州财政年度教育专项拨款及联邦[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案配套资助。
 > - **核心宗旨与法定职责** 确保全州所有学生获得平等的优质公立教育机会，制定全州课程框架、教师资格认证标准，执行全州标准化学生学业评价（MCAS），并依照联邦与州法律实施学区绩效督导及低绩效学校行政托管接管[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 2, 8)]]。
 

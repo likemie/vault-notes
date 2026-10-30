@@ -9,7 +9,7 @@ title: "Argument_Hattie_2017_SLM"
 argument_key: "Argument_Hattie_2017_SLM"
 argument_display_title: "Educators are not uncritical believers of a cult figure"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
+  - "[[Learning Strategies]]"
   - "[[Phronesis]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -50,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2017
 doi: ""
 citation_aliases:
@@ -72,7 +73,7 @@ citation_aliases:
 > [!example] 论证结构
 > 1. 援引学术批评传统：以 Said(1993)的公共知识分子角色和新西兰《教育法》的"[[Critic and Conscience of Society]]"条款为学术批评的伦理基础，主张"每个[[Paradigm\|范式]]或猜想都应被测试至毁灭"，正反合（thesis-antithesis-synthesis）是学术之水的本然成分
 > 2. 以 Popper [[Falsification\|证伪主义]]定位 VL：声称 VL 包含许多"大胆猜想"，因此"容易被证伪"，但迄今尚未有批评者证伪其核心猜想
-> 3. 列举 VL 核心猜想（声称未被批评的部分）：通过学生眼睛看学习、学生成为自身教师、[[Success Criteria\|成功标准]]、"Know thy impact"、关系与信任以允许错误浮现、给予与接收反馈、学科语境下的学习策略、学校成为邀请性场所、关注学生学习生活
+> 3. 列举 VL 核心猜想（声称未被批评的部分）：通过学生眼睛看学习、学生成为自身教师、[[Success Criteria\|成功标准]]、"Know thy impact"、关系与信任以允许错误浮现、给予与接收反馈、学科语境下的[[Learning Strategies|学习策略]]、学校成为邀请性场所、关注学生学习生活
 > 4. 逐条回应 Eacott 的三项主张：
 >    - 主张一（条件使[[Cult of the Guru\|大师崇拜]]成为可能）：Hattie 反驳 Eacott 嘲笑严谨性、稳健性和效率追求
 >    - 主张二（数据吸引行政人员）：Hattie 描述[[Meta-meta-analysis\|元-元分析]]的方法论严谨性，强调 VL 核心思想被教师和[[School Leadership\|学校领导]]欢迎

@@ -9,7 +9,7 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 23
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -33,9 +33,12 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Rote Learning]]"
+  - "[[Document]]"
   - "[[Epistemic Stances]]"
   - "[[Learning Analytics]]"
+  - "[[Collaborative Learning]]"
   - "[[Working Memory]]"
+  - "[[Massive Open Online Courses]]"
   - "[[Analytical Stance]]"
   - "[[Problem Solving]]"
 related_theories:
@@ -48,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +108,7 @@ updated: 2026-10-22
 > ```
 
 > [!exegesis]- 教育研究例子
-> 在高等教育跨学科研究型教学中，学生围绕复杂气候变化议题展开探究。学生并不直接[[Rote Learning\|死记硬背]]环境科学、经济学与政策分析的离散术语，而是利用 ChatGPT 作为连通主义智能中继节点，快速建立经济模型与气象数据之间的概念关联；随后学生通过多源文献核对与同行评审检验这些连接的合理性，最终生成兼具原创性与实证严密性的政策方案（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 11–12]]）。
+> 在高等教育跨学科研究型教学中，学生围绕复杂气候变化议题展开探究。学生并不直接[[Rote Learning\|死记硬背]]环境科学、经济学与政策分析的离散术语，而是利用 ChatGPT 作为连通主义智能中继节点，快速建立经济模型与气象数据之间的概念关联；随后学生通过多源[[Document|文献]]核对与同行评审检验这些连接的合理性，最终生成兼具原创性与实证严密性的政策方案（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 11–12]]）。
 
 ---
 
@@ -123,7 +126,7 @@ updated: 2026-10-22
 ---
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 在线协作学习、开放式探究课程、生成式 AI 辅助研究、跨学科综合与数字素养培育。
+> - **适合解释** 在线[[Collaborative Learning|协作学习]]、开放式探究课程、生成式 AI 辅助研究、跨学科综合与数字素养培育。
 > - **谨慎使用** 早期基础符号习得（如初阶识字、基础算术规则内化），此类知识高度依赖内部[[Working Memory\|工作记忆]]的图式自动化。
 > - **不适合解释** 纯内部主观感知体验、潜意识情绪加工或孤立无技术的封闭心理测试。
 > - **常见误用** 误以为连通主义完全否定内部认知加工，将所有思考活动等同于外部网络搜索或盲目外包。
@@ -132,7 +135,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 发展脉络
 > - **2005 年 理论发轫** George Siemens 发表 *Connectivism: A Learning Theory for the Digital Age*，正式确立理论基石。
-> - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证网络化自主协同学习。
+> - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义[[Massive Open Online Courses|大规模开放在线课程]]（CCK08），验证网络化自主协同学习。
 > - **2010 年代 [[Learning Analytics\|学习分析学]]整合** 理论与复杂网络科学、学习分析学（Learning Analytics）深度融合。
 > - **2020 年代 生成式 AI 与[[Man-Computer Symbiosis|人机共生]]网络** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
 

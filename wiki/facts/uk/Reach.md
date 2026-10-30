@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,17 +26,21 @@ tags:
   - theme/one-to-one-tutoring
   - theme/eef-trial
 related_concepts:
+  - "[[Structured Teaching]]"
   - "[[Decodification]]"
+  - "[[Business as Usual]]"
+  - "[[Implementation Fidelity]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Academic Achievement]]"
-  - "[[Business as Usual]]"
-  - "[[Response to Proven Instruction]]"
+  - "[[Grade Retention]]"
+  - "[[Construct]]"
+  - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
-  - "[[Randomised Controlled Trials]]"
-  - "[[Effect Size]]"
   - "[[Cluster Randomized Trials]]"
+  - "[[Effect Size]]"
+  - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -48,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
@@ -65,18 +69,18 @@ updated: 2026-10-28
 ---
 
 > [!claim] 核心干预／机制假说
-> 由系统受训的教学助教对七年级落后新生实施每周多次、每次 30–45 分钟的一对一精读与词汇理解辅导，通过结构化教学规程与即时诊断反馈，能够产生高达 $+0.40$ 以上的因果效应量，显著消除初中入门阶段的学业适应不良。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
+> 由系统受训的教学助教对七年级落后新生实施每周多次、每次 30–45 分钟的一对一精读与词汇理解辅导，通过[[Structured Teaching|结构化教学]]规程与即时诊断反馈，能够产生高达 $+0.40$ 以上的因果[[Effect Size|效应量]]，显著消除初中入门阶段的学业适应不良。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 加快七年级阅读落后学生的追赶速度，消除早期词汇与阅读理解鸿沟，避免次生性学科学习失败。
 > - **覆盖对象** 七年级阅读落后新生（小学毕业统考处于后 20% 分位段的弱势学生群体）。
 > - **干预措施** 结合精准诊断与分级读本匹配，助教每日组织 1 对 1 高密度对话式辅导，包含显性语音拼读、生词[[Decodification|解码]]、基于上下文推断词义及段落主旨概括训练。
-> - **实施控制** 采用校内或校际整群随机对照试验（Cluster RCT），设置严格的常规教学对照组（[[Business as Usual]]），并由校级协调员对辅导日志实施保真度质控。
+> - **实施控制** 采用校内或校际整群[[Randomised Controlled Trials|随机对照试验]]（Cluster RCT），设置严格的常规教学对照组（[[Business as Usual]]），并由校级协调员对辅导日志[[Implementation Fidelity|实施保真度]]质控。
 
 > [!citation-card] 斯莱文论 Reach 助教一对一辅导的实证效益
-> 在高年级（六至七年级）助教一对一辅导中，Reach 项目在英国 EEF 严格的随机对照试验中取得了高达 +0.42 的学业效应量，完全达到了《每一个学生成功法》（ESSA）强证据标准。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
+> 在高年级（六至七年级）助教一对一辅导中，Reach 项目在英国 EEF 严格的随机对照试验中取得了高达 +0.42 的学业效应量，完全达到了《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）强[[Evidence Standards|证据标准]]。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
 >
-> *One-to-one tutoring by Teaching Assistants was also effective in secondary transition. Reach, evaluated with Grade 6–7 students in England, produced an effect size of +0.42, qualifying for the Strong rating under ESSA.*
+> *One-to-one tutoring by [[Teaching Assistant|Teaching Assistants]] was also effective in secondary transition. Reach, evaluated with Grade 6–7 students in England, produced an effect size of +0.42, qualifying for the Strong rating under ESSA.*
 
 ---
 
@@ -120,7 +124,7 @@ updated: 2026-10-28
 > [!debates] 核心争议与学术反思
 >
 > > [!axis] 助教干预有效性争议（结构化规程 vs 随意使用）
-> > 英国早期 DISS 项目（Deployment and Impact of Support Staff）曾指出助教对学业成绩存在零效应甚至负效应。
+> > 英国早期 DISS 项目（Deployment and Impact of Support Staff）曾指出助教对[[Academic Achievement|学业成绩]]存在零效应甚至负效应。
 > >
 > > - **传统怀疑视角** 认为助教缺乏学科专业教师资格，随意使用助教可能将学困生与优质课堂教学隔离。
 > > - **Reach 实证回应** 证明助教效能取决于使用方式：当助教接受针对性读写培训并遵循高度结构化的 1 对 1 教学规程时，能释放出极高的因果补偿效益。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
@@ -129,7 +133,7 @@ updated: 2026-10-28
 > > 一对一辅导模式在产生高效应量的同时，伴随着相对较高的人力投入与排课协调成本。
 > >
 > > - **资源约束质疑** 在财政紧缩背景下，学校能否长期维系专职助教一对一辅导岗位存在现实挑战。
-> > - **循证政策辩护** 早期过渡期的精准干预能有效避免后续巨额的特殊教育转介与留级支出，具备良好的长周期综合效益。
+> > - **循证政策辩护** 早期过渡期的精准干预能有效避免后续巨额的特殊教育转介与[[Grade Retention|留级]]支出，具备良好的长周期综合效益。
 
 > [!lessons] 经验教训与实施启示
 > - **结构化培训是指南落地的先决条件** 助教干预成效高度取决于方案是否提供了易于遵循且经过验证的结构化教学材料与诊断工具，系统的专业指导能够弥补助教非专业教师背景的局限。
@@ -145,7 +149,7 @@ updated: 2026-10-28
 > | [[Teaching Assistant]] | Concept | 方案的核心实施主体，证实了结构化培训能将助教转化为高成效辅导力量。 |
 > | [[Randomised Controlled Trials]] | Method | 验证方案取得 $+0.42$ 因果学业效应量的核心实证评估方法。 |
 > | [[Every Student Succeeds Act]] | Fact (Policy) | 美国联邦证据法案，将 Reach 评定为 Tier 1 强证据方案。 |
-> | [[Decodification]] | Concept | 方案针对落后学生重点训练的基础词汇解码与拼读构念。 |
-> | [[Academic Achievement]] | Concept | 方案评估的核心因变量，体现为标准化阅读测验分数的显著提升。 |
+> | [[Decodification]] | Concept | 方案针对落后学生重点训练的基础词汇解码与拼读[[Construct\|构念]]。 |
+> | [[Academic Achievement]] | Concept | 方案评估的核心[[Dependent Variable\|因变量]]，体现为标准化阅读测验分数的显著提升。 |
 > | [[Perry Beeches]] | Fact (Program) | 同受 EEF 资助并取得显著成效的英国中学衔接期助教辅导强证据方案。 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | Argument | 国际循证领军论著，将 Reach 列为高年级助教一对一辅导标杆方案。 |

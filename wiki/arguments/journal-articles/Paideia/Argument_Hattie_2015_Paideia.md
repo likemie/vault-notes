@@ -9,9 +9,9 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 16
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9–21."
@@ -31,11 +31,14 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Falsification]]"
+  - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Direct Instruction]]"
+  - "[[Web-Based Learning]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
   - "[[Success Criteria]]"
+  - "[[Self Explanation]]"
 related_theories: []
 related_methods:
   - "[[Research Synthesis]]"
@@ -44,14 +47,15 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Questionnaire]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[NAPLAN]]"
 related_arguments: []
 sources:
   - "[[sources/Hattie_2015_Paideia|Hattie_2015_Paideia]]"
 part_of: ""
 status: draft
 created: 2026-05-21
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -71,7 +75,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：理论回应、方法论辩护与研究项目回顾。
-> - 材料：Hattie 早期心理测量研究、800+ 到 1200+ 项[[Meta-analysis\|元分析]]综合、[[Visible Learning]] 系列出版物、学校实施案例，以及围绕该项目出现的批评文献。
+> - 材料：Hattie 早期心理测量研究、800+ 到 1200+ 项[[Meta-analysis\|元分析]]综合、[[Visible Learning]] 系列出版物、学校实施案例，以及围绕该项目出现的批评[[Document|文献]]。
 > - 写作路径：先说明 Visible Learning 的形成背景，再解释 d = 0.40、教师评估自身影响、学校集体评价文化，最后集中回应[[Effect Size\|效应量]]、低效应项目、研究质量和学习概念四类批评。
 >
 > 这不是一篇新的实证研究。它更像 Hattie 对自己研究项目的“方法论说明书”：哪些批评他接受，哪些批评他认为是误读，以及 Visible Learning 应该怎样被学校使用。
@@ -91,9 +95,9 @@ citation_aliases:
 >
 > 4. [[Visible Learning]] 用 d = 0.40 作为平均参考点，因为它来自所有可见教育影响的累积平均值；高于 0.40 表示高于平均影响，低于 0.40 表示低于平均影响。
 > 5. Hattie 强调，这个数值不是“只要站在课堂前就自然产生 0.40”，而是和有意设计、改进、调整、创新有关。
-> 6. 他还提醒读者不要过度泛化。澳大利亚 NAPLAN 数据中，学生一年平均增长约 d = 0.40，但小学约 d = 0.55，中学约 d = 0.25；也就是说，年级和结果类型会改变我们对“足够大”的判断。
+> 6. 他还提醒读者不要过度泛化。澳大利亚 [[NAPLAN]] 数据中，学生一年平均增长约 d = 0.40，但小学约 d = 0.55，中学约 d = 0.25；也就是说，年级和结果类型会改变我们对“足够大”的判断。
 >
-> 简单说，0.40 像体检指标里的参考范围：它提醒你哪里值得追问，但不能替代医生判断。网络学习的平均效应若只有 d = 0.18，也未必无价值；它可能应该和同类网络学习研究比较，而不是机械地拿 0.40 判死刑。
+> 简单说，0.40 像体检指标里的参考范围：它提醒你哪里值得追问，但不能替代医生判断。[[Web-Based Learning|网络学习]]的平均效应若只有 d = 0.18，也未必无价值；它可能应该和同类网络学习研究比较，而不是机械地拿 0.40 判死刑。
 >
 > ### 三、核心转向：教师不是收集数据的人，而是解释证据的人
 >
@@ -146,7 +150,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > ### 自我辩护文本的立场限制
 >
-> 这篇文章由 Hattie 本人撰写，功能上是一篇方法论辩护和项目说明。因此它非常适合理解 [[Visible Learning]] 的自我解释，却不能替代独立批判文献。尤其在讨论批评时，文章倾向于把部分批评界定为误读、个人攻击或不良学术批评，这可能压缩了对强批评的细读空间。
+> 这篇文章由 Hattie 本人撰写，功能上是一篇方法论辩护和项目说明。因此它非常适合理解 [[Visible Learning]] 的[[Self Explanation|自我解释]]，却不能替代独立批判文献。尤其在讨论批评时，文章倾向于把部分批评界定为误读、个人攻击或不良学术批评，这可能压缩了对强批评的细读空间。
 >
 > ### 对研究质量问题的处理仍偏概括
 >

@@ -11,9 +11,9 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2019–2024"
 initiator_organization: "Monash University & Paul Ramsay Foundation"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Research Utilization]]"
   - "[[Professional Learning Community]]"
+  - "[[Document]]"
   - "[[Discipline-Based Theory]]"
   - "[[Research Translation]]"
   - "[[Translational Research]]"
@@ -71,7 +72,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域开展跨界 [[PRISMA]] [[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献），由 4 位研究员多轮交叉质评，并邀请包括 [[Centre for Evidence and Implementation]]（CEI）在内的跨部门专家网络研讨，确立[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE），奠定跨[[Discipline-Based Theory\|学科理论]]基石。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 133–158)]]
+> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域开展跨界 [[PRISMA]] [[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]（初检 10,813 篇 $\to$ 纳入 112 篇核心[[Document|文献]]），由 4 位研究员多轮交叉质评，并邀请包括 [[Centre for Evidence and Implementation]]（CEI）在内的跨部门专家网络研讨，确立[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE），奠定跨[[Discipline-Based Theory\|学科理论]]基石。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 133–158)]]
 > - **2020–2021 — 学校实证调查期** 开展两轮大规模标准化[[Questionnaire\|问卷调查]]（Survey 1 样本 492 人，聚焦认知与使用行为；Survey 2 样本 414 人，聚焦促成与阻碍因素）以及 27 场深入访谈（29 位教育工作者），深入剖析一线使用质量的实际表征与制度瓶颈。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, pp. 184, 199]]）
 > - **2022–2024 — 工具开发与系统辐射期** 与[[OECD\|经合组织]]（[[OECD]]）合作发布国际专著章节，面向全澳学校推广[[Research Utilization\|研究使用]]质量诊断量表与专业发展支持工具，推动系统层减负与政策支持。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, pp. 182–199]]）
 

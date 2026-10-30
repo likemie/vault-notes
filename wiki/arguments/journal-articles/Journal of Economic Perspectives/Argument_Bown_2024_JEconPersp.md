@@ -3,7 +3,7 @@ summary: "系统回顾全球半导体产业从早期美国主导、日本崛起�
 type: argument
 authors:
   - "Bown, C. P."
-  - "Wang, D."
+  - "[[Dashun Wang|Wang, D.]]"
 source_language: en
 citation: "Bown, C. P., & Wang, D. (2024). Semiconductors and modern industrial policy. Journal of Economic Perspectives, 38(4), 81–110. https://doi.org/10.1257/jep.38.4.81"
 year: 2024

@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学与公共政策教授，杜伦大学证据�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Operationalization]]"
   - "[[Evidence-Based Education]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-10-26
 
 ---
 
-> [!work-line] 代表性文献与关键成果
+> [!work-line] 代表性[[Document|文献]]与关键成果
 > - **2020 — *What is the evidence on the best way to get evidence into use in education?*** 领衔完成对公共政策与教育领域证据转化应用有效性的系统[[Literature Review\|文献综述]]，提出两维度转化模型与[[Engineered Evidence\|工程化证据]]进路。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 570–610)]]
 > - **2018 — *Education Policy: Evidence of Equity and Effectiveness*** 系统阐述因果研究可[[Reliability\|信度]]评估架构与质评筛子（[[Gorard's Trustworthiness Sieve\|Gorard's Sieve]]）的[[Operationalization\|操作化]]技术规程。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 576)]]
 > - **2017 — *The Broken Promise of Education Exploitation, Impact and What Works*** 深入反思[[Evidence-Based Education\|循证教育]]运动中影响力夸大与单项研究盲从的系统性弊端。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 573)]]

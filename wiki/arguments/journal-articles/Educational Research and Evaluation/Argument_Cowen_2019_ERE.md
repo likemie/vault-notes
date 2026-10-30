@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Knowledge Questions]]"
   - "[[External Validity]]"
+  - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Champ]]"
@@ -62,7 +63,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2019
 doi: ""
 citation_aliases:
@@ -85,7 +86,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法** 理论综合 + 制度分析
 > - **论证结构**
->   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]的[[Epistemology\|认识论]]限度
+>   1. 从 Cartwright/Deaton et al.哲学[[Document|文献]]中澄清 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]的[[Epistemology\|认识论]]限度
 >   2. 引入 Tullock [[Bureaucracy|官僚制]]模型作为[[Analytic Framework\|分析框架]]
 >   3. 将 [[Evidence-Based Education\|EBE]]（尤其 UK 的 [[Education Endowment Foundation\|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力

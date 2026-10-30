@@ -9,7 +9,7 @@ summary: "德国与以色列比较教育学家、课程改革理论家，曾任�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Determinism]]"
   - "[[Variable]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 罗宾逊核心学术命题归纳
-> | 命题类型 | 核心指向 | 理论对手 / 对照立场 | 关键文献 |
+> | 命题类型 | 核心指向 | 理论对手 / 对照立场 | 关键[[Document\|文献]] |
 > |---|---|---|---|
 > | **命题一：经验社会学比较** | 跨国学制比较必须建立在宏观社会结构与社会进程分析基石之上 | 传统孤立的历史考据与纯思辨哲学描述 | *Schulreform im gesellschaftlichen Prozess* (1970/1975) |
 > | **命题二：激进政策咨询干预** | 比较学者应积极起草法案蓝图，发挥直接的国家政策咨询导向功能 | 劳威斯的[[Navigation Metaphor in Comparative Education\|航海隐喻]]模式（中立审慎、不干预决策） | [[Argument_Mitter_2009_Europe\|Mitter (2009, pp. 95–96)]] |

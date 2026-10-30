@@ -5,7 +5,7 @@ summary: "Creswell 提出的文献组织工具，以层级结构、流程图或�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#fef3c7"
@@ -13,6 +13,7 @@ cssclasses:
   - method-manual
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
   - "[[Variable]]"
@@ -29,11 +30,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 文献地图（Literature Map）是 Creswell 提出的一种文献组织工具，以可视化方式呈现已有研究的分类与分组关系，并将研究者计划开展的研究置于这一文献体系之中。它既帮助研究者理解自己的研究如何补充、延伸或复制已有研究，也可用于向学位委员会汇报、在学术会议上展示，或为期刊投稿组织[[Literature Review\|文献综述]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
+> [[Document|文献]]地图（Literature Map）是 Creswell 提出的一种文献组织工具，以可视化方式呈现已有研究的分类与分组关系，并将研究者计划开展的研究置于这一文献体系之中。它既帮助研究者理解自己的研究如何补充、延伸或复制已有研究，也可用于向学位委员会汇报、在学术会议上展示，或为期刊投稿组织[[Literature Review\|文献综述]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 文献地图本质上是一幅"文献的视觉摘要"，读者能够从中一目了然地看到：该领域已有哪些研究方向、各个方向中包含哪些关键文献，以及计划研究填补了哪个缺口。
 
@@ -41,7 +42,7 @@ updated: 2026-10-29
 
 ## 呈现形式
 
-文献地图可以有多种呈现形式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
+[[Document|文献]]地图可以有多种呈现形式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 - **层级结构（Hierarchical）** 自上而下展开文献分类，最顶层是广泛的[[Research Topic|研究主题]]，逐层缩小至具体分支，最底端放置计划研究的定位。这是最常见的呈现形式。
 - **流程图（Flowchart）** 从左到右展开文献脉络，最右侧推进计划研究。
@@ -49,7 +50,7 @@ updated: 2026-10-29
 
 ## 研究程序
 
-设计文献地图的推荐步骤([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
+设计[[Document|文献]]地图的推荐步骤([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 1. **确定顶层主题** 在层级结构的最顶端框中放入研究的大主题。这个主题是文献地图所归属的广泛研究领域。
 2. **通过计算机搜索定位研究** 搜索数据库，获取文献副本，并将其组织为几个主要子主题（通常为 3 个或更多，取决于该主题的文献数量和发表情况）。

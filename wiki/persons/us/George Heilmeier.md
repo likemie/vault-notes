@@ -7,7 +7,7 @@ summary: "美国工程师、发明家与科技政策管理者，液晶显示（L
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[DARPA]]"
+  - "[[Swedish National Agency for Education]]"
   - "[[Mansfield Amendment 1969]]"
   - "[[ARPA-E]]"
 related_arguments:
@@ -41,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国（US），电子工程师、发明家、国防科研高级管理者；曾任美国无线电公司（RCA）研究员、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）局长（1975–1977）、德州仪器（Texas Instruments）高级研发副总裁兼首席技术官、贝尔通信研究公司（Bellcore）董事长兼首席执行官；美国国家工程院（NAE）院士。
+> - **身份位置** 美国（US），电子工程师、发明家、国防科研高级管理者；曾任美国无线电公司（RCA）研究员、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）局长（1975–1977）、德州仪器（Texas Instruments）高级研发副总裁兼首席技术官、贝尔通信研究公司（Bellcore）董事长兼首席执行官；美国国家工程院（[[Swedish National Agency for Education|NAE]]）院士。
 > - **核心角色** 在科技政策与国防研发管理网络中，海尔迈耶是连接前沿工业研发与国家战略性科研资助的关键制度奠基者；首创了评估高风险、高回报前沿科研立项的黄金标准准则。
 > - **代表贡献** 发明液晶显示（Liquid Crystal Display, LCD）基础工作原理（动态散射模式，DSM）；创立颠覆性科研项目立项黄金法则 [[Heilmeier Catechism]]（海尔迈耶[[Questionnaire|问卷]]）；在任 DARPA 局长期间果断资助隐形战机验证机（Have Blue / F-117）与空基红外监视等里程碑项目。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 

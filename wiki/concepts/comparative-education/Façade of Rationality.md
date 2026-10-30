@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-10-29
 
 ---
 
-> [!concept-proposition] 命题一｜信息过载并未自发消除决策歧义，反而强化了对量化理性表象的[[Discourse|话语]]依附
+> [!concept-proposition] 命题一｜信息过载并未自发消除决策歧义，反而强化了对量化[[Façade of Rationality|理性表象]]的[[Discourse|话语]]依附
 > **探讨维度　决策生态与信息冗余** 探讨海量研究证据供给与政策系统决策需求之间的结构性脱节，阐明为何更多的实证数据无法促成理性启蒙，反而促使政治系统依附于量化表象。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]

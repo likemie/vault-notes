@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Literature Review]]"
   - "[[Saturation]]"
+  - "[[Document]]"
   - "[[Predictive Validity]]"
   - "[[Heterogeneity]]"
   - "[[Hawthorne Effect]]"
@@ -77,7 +78,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ## 定义
@@ -191,7 +192,7 @@ Teach 历经两年的三阶段迭代式预测试规程如下：
 > [!proc] Teach 工具的三阶段预测试与架构迭代规程
 > 1. **第一阶段 [[Literature Review|文献综述]]与专家审查精简（Conceptual Screening）**
 >    - 初始由 22 名全球顶尖学者组成的技术顾问委员会从 5 套主流工具（Gill et al., 2016）中提炼出 43 项微观教学行为；
->    - 经过[[Saturation|理论饱和]]度筛选初步压缩至 25 项，再经实证文献审查凝练为 14 项核心要素，开发出第一代原型量表。
+>    - 经过[[Saturation|理论饱和]]度筛选初步压缩至 25 项，再经实证[[Document|文献]]审查凝练为 14 项核心要素，开发出第一代原型量表。
 > 2. **第二阶段 跨国现场与视频预测试诊断认知过载（Pilot Feasibility & Diagnostic Shift）**
 >    - 原型工具试图要求观察员**同时对教学行为的“发生频率”与“实施质量”进行编码**（例如既要统计教师提问了多少次高阶问题，又要实时评定每次提问的认知深度）；
 >    - 在巴基斯坦、乌拉圭现场以及跨 7 个中低收入国家教学录像的实地测试中，观察员反馈出极其严重的认知负荷过载（Cognitive Overload），导致评分者间一致率极低且数据严重失真；
@@ -268,7 +269,7 @@ Teach 历经两年的三阶段迭代式预测试规程如下：
 本 vault 中围绕预测试理论与实证应用的代表性研究索引如下。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在调查与实验设计中系统提炼预测试的标准化六步质控操作程序。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在调查与[[Experimental Research|实验设计]]中系统提炼预测试的标准化六步质控操作程序。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 经典教育研究方法著作；在第 20 章系统界定[[Questionnaire|问卷]]预测试的双重类型（格式/覆盖范围与统计缩减）；并在第 24 章论述测验自编过程中预测试对[[Item Analysis|题目分析]]的强制必要性。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，完整记录工具历时两年的三阶段跨国预测试历程，详述通过预测试发现观察员认知过载并完成双轨架构重构的方法学实践。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 科学经济学实证研究，揭示国家科研同行评审对预实验数据的过度依赖如何诱发学术避险并形成进入壁垒。

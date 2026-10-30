@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,8 +37,10 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Discursive Institutionalism]]"
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -68,7 +70,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心干预／机制假说
-> 算法自动诊断与人类教师现场干预相结合的“人机共育”（Teacher-AI Teaming）模式，其促学成效显著超越纯算法干预或传统无技术支持的纯教师巡视。通过在算法探测到深层认知困难时即刻向教师推送结构化警报，教师能够针对具体学生的技能瓶颈实施适时[[Direct Instruction\|直接讲授]]（Just-in-Time DI），促使学生在后续探究中迅速修正策略并达成精熟。（Dickler et al., 2021）
+> 算法自动诊断与人类教师现场干预相结合的“人机共育”（Teacher-AI Teaming）模式，其促学成效显著超越纯算法干预或传统无技术支持的纯教师巡视。通过在算法探测到深层认知困难时即刻向教师推送结构化警报，教师能够针对具体学生的技能瓶颈实施适时[[Direct Instruction\|直接讲授]]（Just-in-Time [[Discursive Institutionalism|DI]]），促使学生在后续探究中迅速修正策略并达成精熟。（Dickler et al., 2021）
 
 > [!policy-design] 方案设计
 > - **核心功能目标** 实现秒级学生受挫检测、认知障碍分类诊断、按需介入策略推荐与师生交互记录。
@@ -108,7 +110,7 @@ updated: 2026-10-26
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

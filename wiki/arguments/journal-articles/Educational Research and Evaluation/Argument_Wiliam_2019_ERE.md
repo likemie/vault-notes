@@ -9,7 +9,7 @@ title: "Argument_Wiliam_2019_ERE"
 argument_key: "Argument_Wiliam_2019_ERE"
 argument_display_title: "Some reflections on the role of evidence in improving education"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Category Mistake]]"
   - "[[Tracking]]"
@@ -52,7 +53,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2019
 doi: ""
 citation_aliases:
@@ -68,7 +69,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education\|哲学分析]]与[[Reflexivity\|反思性]]综合
 > - 样本：不适用
-> - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部文献
+> - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部[[Document|文献]]
 
 > [!example] 核心论证
 > 1. **[[Evidence-Based Education\|EBE]] 的极端立场均不可成立** 既不能主张只有 [[Randomised Controlled Trials\|RCT]] 证据才能被严肃对待，也不能主张 EBE 整个构想是[[Category Mistake|范畴错误]]。必须在此两极之间寻找更细致的位置。

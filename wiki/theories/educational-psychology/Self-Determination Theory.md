@@ -7,7 +7,7 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Student Motivation]]"
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
   - "[[Student Engagement]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （自我决定理论）
@@ -73,7 +74,7 @@ updated: 2026-10-22
 > - **知识位置** 由 Edward L. Deci 和 Richard M. Ryan 于 20 世纪 70–80 年代确立，是当代教育心理学、学习科学与教育技术领域最具影响力的动机[[Paradigm\|范式]]之一。
 
 > [!claim] 核心主张
-> 自我决定理论主张，人是具有整合性自我发展潜能的主动有机体；其高质量的行为投入、[[Surface and Deep Learning\|深层学习]]与心理繁荣，取决于社会或技术环境在多大程度上支持其**自主性（Autonomy）**、**胜任感（Competence）** 与**归属感（Relatedness）** 这三大基本心理需求；在教育技术情境中，当工具从外在控制转向提供自适应选择、即时正向反馈与无评判交互时，学生的学习动机便能沿自决连续体内化为强大的自主投入。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
+> 自我决定理论主张，人是具有整合性自我发展潜能的主动有机体；其高质量的行为投入、[[Surface and Deep Learning\|深层学习]]与心理繁荣，取决于社会或技术环境在多大程度上支持其**自主性（Autonomy）**、**胜任感（Competence）** 与**归属感（Relatedness）** 这三大基本心理需求；在教育技术情境中，当工具从外在控制转向提供自适应选择、即时正向反馈与无评判交互时，学生的[[Student Motivation|学习动机]]便能沿自决连续体内化为强大的自主投入。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
 
 > [!citation-card] 关键表述
 > 这一对[[Academic Achievement\|学业成绩]]和[[Affective Outcomes\|情感动机]]维度的显著促学效应，有力支持了自我决定理论与[[Control-Value Theory\|控制-价值理论]]，凸显了生成式 AI 如何满足学习者的基本心理需求（即自主性、胜任感与归属感）并促进[[Student Engagement\|学习投入]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 16)]]

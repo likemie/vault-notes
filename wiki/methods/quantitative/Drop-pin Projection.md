@@ -12,7 +12,7 @@ summary: "一种用于测度与可视化科研人员全生命周期学术发表�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,18 +24,21 @@ tags:
   - method/scientometrics
   - method/computational-geometry
 related_concepts:
-  - "[[Scientific Productivity]]"
-  - "[[Conceptual Innovators]]"
-  - "[[Experimental Innovators]]"
   - "[[Counterfactual]]"
+  - "[[Scientific Productivity]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
+  - "[[Creativity]]"
 related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
-  - "[[Career Shuffling Method]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Author Name Disambiguation]]"
+  - "[[Career Shuffling Method]]"
 related_instruments: []
 related_persons:
-  - "[[Roberta Sinatra]]"
   - "[[Kenneth G. Wilson]]"
 related_facts: []
 related_arguments:
@@ -49,31 +52,31 @@ updated: 2026-10-30
 ---
 
 > [!def] Drop-pin Projection
-> 学者生涯图钉投影法是一种用于将科研人员复杂多维的出版轨迹与长效影响力时间序列进行规范化降维与几何映射的方法。该方法将学者独立发表首篇成果的公历年份设定为学术年龄零点（$t=0$），后续产出的每篇论著按其在学术职业中所处的相对年限锚定在横轴时间线上，以一根垂直竖线（图钉）呈现；图钉的垂直高度严格等于该成果刊出后十年的累积被引频次（$c_{10}$），从而将个体的学术生涯形式化为一组离散的时序图钉序列，为后续检验影响力时机分布与实施反事实置换提供了基础数据载体。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
+> 学者生涯图钉投影法是一种用于将科研人员复杂多维的出版轨迹与长效影响力时间序列进行规范化降维与几何映射的方法。该方法将学者独立发表首篇成果的公历年份设定为学术年龄零点（$t=0$），后续产出的每篇论著按其在学术职业中所处的相对年限锚定在横轴时间线上，以一根垂直竖线（图钉）呈现；图钉的垂直高度严格等于该成果刊出后十年的累积被引频次（$c_{10}$），从而将个体的学术生涯形式化为一组离散的时序图钉序列，为后续检验影响力时机分布与实施[[Counterfactual|反事实]]置换提供了基础数据载体。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 链接被测的 [[Scientific Productivity]]，度量学者全生命周期作品的时序发表节奏与长期影响力空间结构。
 > - **问题类型** 学术生涯时序轨迹结构化、离散发表数据降维映射与反事实模拟前置表征。
-> - **分析单位** 拥有连续公开发表记录的科研学者、技术发明家或艺术家个体。
+> - **[[Unit of Analysis|分析单位]]** 拥有连续公开发表记录的科研学者、技术发明家或艺术家个体。
 > - **输入数据** 经算法同名消歧后的学者个人出版物全量时间序列、发表年份与标准化长期引文计数（如十年引文 $c_{10}$）。
 > - **输出形式** 离散时空坐标序列 $\{(t_i, c_{10}(i))\}$、代表作巅峰坐标 $(t^*, c_{10}^*)$ 以及代表作序列位次比值 $N^*/N$。
 
 > [!citation-card] 图钉投影法对学术生涯的规范表达
-> 图 5-1a 展示了 1982 年诺贝尔物理学奖得主肯尼斯·G·威尔逊（Kenneth G. Wilson）的科研生涯。我们将其首篇成果发表作为其学术时间线的起点，此后每当他发表一篇论著，就在其学术生涯的相应时点（学术年龄）添加一枚图钉。每枚图钉的高度展示了该成果的学术影响，以成果发表十年后所获得的累积引用数近似表示。这种图钉视图使我们能够将每位科学家的学术生涯统一表达为一组图钉序列。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
+> 图 5-1a 展示了 1982 年诺贝尔物理学奖得主[[Kenneth G. Wilson|肯尼斯·G·威尔逊]]（Kenneth G. Wilson）的科研生涯。我们将其首篇成果发表作为其学术时间线的起点，此后每当他发表一篇论著，就在其学术生涯的相应时点（学术年龄）添加一枚图钉。每枚图钉的高度展示了该成果的学术影响，以成果发表十年后所获得的累积引用数近似表示。这种图钉视图使我们能够将每位科学家的学术生涯统一表达为一组图钉序列。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
 >
 > *Figure 5.1a shows the scientific career of Kenneth G. Wilson, the 1982 Nobel laureate in physics. We treat his first publication as the start of his academic timeline, and every time he publishes another paper, we add one more pin at the corresponding time point (academic age) in his career. The heights of each pin shows the paper's impact, approximated by the number of citations the paper received 10 years after its publication. This "drop pin" view allows us to represent the career of every scientist as a sequence of pins...*
 
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 选取发表后十年累积被引数（$c_{10}$）作为图钉高度，平滑了成果面世初期的短期引文噪声，兼顾了科学成果长程检验的稳定性与跨世代横向可比性。
+> - **[[Construct Validity|构念效度]]** 选取发表后十年累积被引数（$c_{10}$）作为图钉高度，平滑了成果面世初期的短期引文噪声，兼顾了科学成果长程检验的稳定性与跨世代横向可比性。
 > - **研究者判断** 学术年龄零点（$t=0$）的界定门槛、十年引用窗口 $c_{10}$ 的选用，以及纳入分析样本的职业持续年限截断（如要求学者生涯跨度不少于 20 年且发文量不少于 20 篇）。
-> - **有效性标准** 依赖于大规模文献计量数据库（如 Web of Science、APS）中同名学者消歧算法的高精度与高查全率。
-> - **不声称回答的问题** 该方法属于纯粹的时序几何映射与描述工具，本身不识别单篇成果取得高引用的微观因果机制，亦不直接解释不同学者个体间的资质异质性。
+> - **有效性标准** 依赖于大规模[[Document|文献]]计量数据库（如 Web of Science、APS）中同名学者消歧算法的高精度与高查全率。
+> - **不声称回答的问题** 该方法属于纯粹的时序几何映射与描述工具，本身不识别单篇成果取得高引用的微观因果机制，亦不直接解释不同学者个体间的资质[[Heterogeneity|异质性]]。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis]]（文献计量分析）、计算社会学时序分析。
-> - **前置步骤** 基于机器学习的学者姓名消歧、文献引文网络十年窗口截断与历时归一化。
+> - **前置步骤** 基于机器学习的学者[[Author Name Disambiguation|姓名消歧]]、文献引文网络十年窗口截断与历时归一化。
 > - **支撑后续** [[Career Shuffling Method]]（生涯序列随机置换法）、相对发表位次均匀分布检验。
 
 ---
@@ -150,7 +153,7 @@ updated: 2026-10-30
 ---
 
 > [!method-fit] 适用场景与比较优势
-> - **克服精英名单抽样偏差** 既往创造力研究主要局限于诺贝尔奖得主等极少数名家，图钉投影依托算法消歧可规模化应用于普通科研人员，完整还原学术共同体的全景样态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–53)]]
+> - **克服精英名单抽样偏差** 既往[[Creativity|创造力]]研究主要局限于诺贝尔奖得主等极少数名家，图钉投影依托算法消歧可规模化应用于普通科研人员，完整还原学术共同体的全景样态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–53)]]
 > - **无缝连接反事实打乱算法** 图钉坐标的形式化使得研究者能够在保持图钉横向位置与数量（生产力）完全不变的前提下，通过对图钉高度进行蒙特卡洛洗牌，快速构建生涯序列置换反事实零模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–54)]]
 
 ---
@@ -162,4 +165,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 运用图钉投影法重构 2,856 位长周期物理学家的学术生涯，以此作为检验随机影响法则的基准前置数据结构。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 运用图钉投影法重构 2,856 位长周期物理学家的学术生涯，以此作为检验[[Random Impact Rule|随机影响法则]]的基准前置数据结构。

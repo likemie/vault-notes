@@ -30,15 +30,15 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Matching]]"
-  - "[[Experimental Research]]"
   - "[[Repeated Measures Design]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Matched Pairs Design
@@ -52,7 +52,7 @@ updated: 2026-10-29
 > - **[[Unit of Analysis\|分析单位]]** 配对个体——分析以配对为单位（如配对 t 检验）。
 > - **输出形式** 配对比较的处理效应估计 + [[Effect Size\|效应量]]。
 
-> [!method-position] 在实验设计中的位置
+> [!method-position] 在[[Experimental Research|实验设计]]中的位置
 > - **与纯[[Random Assignment\|随机化]]的关系** 随机化在整个[[Variable\|变量]]范围内产生等价性（Smith, 1991, p. 215），但需要**足够大的样本**才能有效运作。配对设计在小样本中提供了额外的保障——即使随机化偶然失衡，配对确保了关键变量上的等价。
 > - **有效性标准** 比纯随机化在小样本中更稳健——匹配变量上的组间差异被强制消除。但控制力仍弱于大样本随机化（因为只控制了命名变量）。
 > - **不能回答的问题** 未匹配的变量仍可能混淆结果——配对设计不能替代大样本和随机化，只是在样本受限时的补偿策略。

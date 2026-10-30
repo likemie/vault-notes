@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 1
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
   - policy/transparency
 related_concepts:
   - "[[Clinical Trial]]"
+  - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 内容
@@ -48,7 +49,7 @@ updated: 2026-10-22
 
 对于[[Clinical Trial|临床试验]]支付，存在一项重要例外：某些研究相关支付可申请延迟公开（delayed publication），以保护研究结果正式发表前的保密信息（pp.208–209）。这一例外平衡了透明度和产业方对专有数据的保护需求。
 
-> [!warning] 对产学合作的影响
+> [!warning] 对[[University-Industry Collaboration|产学合作]]的影响
 > Sunshine Act 直接影响了产学在[[Clinical Trial\|临床试验]]中的合作关系。大学医学中心的教师（作为医生）从产业方获得的演讲费、咨询费和研究资助均需公开披露，这使得原本不透明的财务关系暴露于公众监督之下。对于学术机构而言，这增加了一层合规义务——不仅需要管理利益冲突本身，还需要确保披露信息的准确性和完整性（pp.208–209）。
 
 ---

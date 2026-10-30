@@ -10,9 +10,9 @@ summary: "实验研究中使实验者或受试者不知道受试者所属研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -28,12 +28,14 @@ related_concepts:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
+  - "[[Randomised Controlled Trials]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Blinding
@@ -91,7 +93,7 @@ updated: 2026-10-29
 > [!case] 教育实验中的"误导"策略
 > 在检验一种新的阅读教学方法时，如果直接告知学生"你们在参与实验"，学生可能因被选中而格外努力，混淆教学方法的真实效果。一种策略是告知所有学生这是常规课堂活动，实际测量的是阅读能力——但研究真正关注的是教学方法的效果。学生因被研究而产生的额外努力被引导到了错误的方向，不会系统地偏向某一组（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 315]]）。
 
-> [!case] 学术同行评审中的双盲与单盲随机对照实验
+> [!case] 学术同行评审中的双盲与单盲[[Randomised Controlled Trials|随机对照实验]]
 > 在学术成果评价中，审稿人常因学者学术声望产生正向偏倚。WSDM 2017 国际学术会议设计了严谨的双盲随机实验，将每篇投稿文稿同时分配给两名知晓学者身份的单盲审稿人与两名不知学者身份的双盲审稿人独立评审。结果证实，知名学者在单盲评审中的录用率较双盲组显著高出 63%，顶尖高校高出 58%，顶尖企业高出 110%，通过盲法控制严格证实了单盲评审中声望偏见对文稿录用的实质因果扭曲（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 30–31]]）。
 
 ---

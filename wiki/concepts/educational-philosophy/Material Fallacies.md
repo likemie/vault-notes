@@ -5,7 +5,7 @@ aliases:
 summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -40,7 +41,7 @@ updated: 2026-10-22
 > > "Just as in practical logic, public policy [[Discourse]] becomes problematic when the terms used are ambiguous, unclear or vague."（ONeill, 2012, p.153）
 
 > [!abstract] 口号化
-> Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策[[Discourse|话语]]中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）等术语虽然在最初源自对研究文献的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
+> Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策[[Discourse|话语]]中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）等术语虽然在最初源自对研究[[Document|文献]]的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
 
 
 > [!abstract] 代理概念

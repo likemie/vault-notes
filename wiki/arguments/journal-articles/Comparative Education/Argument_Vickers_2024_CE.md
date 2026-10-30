@@ -51,11 +51,11 @@ related_persons:
   - "[[Jiang Shigong]]"
 related_facts:
   - "[[National Security Law]]"
+  - "[[National Education]]"
   - "[[Citizenship and Social Development]]"
   - "[[Liberal Studies]]"
   - "[[Youth Development Blueprint]]"
   - "[[My Pledge to Act]]"
-  - "[[National Education]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments: []
 sources:
@@ -63,7 +63,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-25
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2024
 doi: "10.1080/03050068.2023.2212351"
 citation_aliases:
@@ -73,7 +73,7 @@ citation_aliases:
 ---
 
 > [!question]
-> 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education\|通识教育]]科（[[Liberal Studies]]）。这一课程替代仅是对官方身份认同[[Discourse|话语]]的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？
+> 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，[[National Education|国民教育]]的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education\|通识教育]]科（[[Liberal Studies]]）。这一课程替代仅是对官方身份认同[[Discourse|话语]]的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？
 
 > [!claim] 核心主张
 > 通识教育科向公民与社会发展科的转变并非课程微调，而是一场深刻的[[Paradigm|范式]]转换（paradigm shift）。学校教育的使命已从培养能在多元社会中行使判断力的自主公民，彻底转变为灌输与中央意志高度统一、抹除能动性的爱国臣民。这一灌输体系与制度层面的压制以及课外的[[Psychologisation\|心理化]]（psychologisation）治理机制协同运作，共同消解了集体政治能动性。

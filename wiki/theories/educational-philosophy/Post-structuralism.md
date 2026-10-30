@@ -4,7 +4,7 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Empiricism]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
@@ -52,7 +53,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 围绕后结构主义形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **主体能动性命题** | 个体并非既定结构的提线木偶，而是承载阶级、性别等内在多重张力的能动主体 | 锚定参与者自我认同、捕捉主体内在矛盾与[[Heterogeneity\|异质性]] | Foucault; Derrida; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 29)]] |
 > | **数据文本表演命题** | 观察、对话与人工制品皆为通过话语建构和表演的话语与文本，意义多重开放 | [[Discourse Analysis\|话语分析]]、文本细读、意义去中心化 | Francis (2010); Burman and Parker (1993) |

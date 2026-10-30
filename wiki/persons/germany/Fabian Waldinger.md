@@ -9,10 +9,10 @@ summary: "德籍应用微观经济学与科学学学者，慕尼黑大学应用�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1977"
 died: ""
 lifespan: "1977–至今"
@@ -23,17 +23,25 @@ tags:
   - theme/peer-effects
   - method/natural-experiment
 related_concepts:
-  - "[[Peer Effects in Science]]"
-  - "[[Invisible College]]"
+  - "[[Causality]]"
+  - "[[Paradigm]]"
   - "[[Reflection Problem]]"
-related_theories: []
+  - "[[Scientific Productivity]]"
+  - "[[Peer Effects in Science]]"
+  - "[[Variable]]"
+  - "[[Invisible College]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Observation Method]]"
   - "[[Difference-in-Differences]]"
+  - "[[Bibliometric Analysis]]"
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
   - "[[Pierre Azoulay]]"
-related_facts: []
+related_facts:
+  - "[[Nazi Purge of University Scholars]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
@@ -46,10 +54,10 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 德籍劳动经济学与科学经济学学者，伦敦政治经济学院（LSE）经济学博士，慕尼黑大学（LMU Munich）经济学系讲席教授，欧洲经济政策研究中心（CEPR）特聘研究员。
-> - **核心角色** 科学学因果推断与历史准自然实验分析范式的开拓者；利用档案数据重构被外生政治或战争冲击阻断的科研网络，突破了传统观察研究难以剥离反射问题与环境混杂的瓶颈。
+> - **核心角色** 科学学[[Causality|因果推断]]与历史准自然实验分析[[Paradigm|范式]]的开拓者；利用档案数据重构被外生政治或战争冲击阻断的科研网络，突破了传统[[Observation Method|观察研究]]难以剥离[[Reflection Problem|反射问题]]与环境混杂的瓶颈。
 > - **代表贡献** 依托 1933 年纳粹德国大规模清洗解聘大学犹太学者的历史自然实验，系统度量同行学者流失对留守科学家长期生产力的因果净抑制效应。
 
-> [!citation-card] 瓦尔丁格论纳粹驱逐学者对科研生产力的外生破坏
+> [!citation-card] 瓦尔丁格论纳粹驱逐学者对[[Scientific Productivity|科研生产力]]的外生破坏
 > 纳粹政府大规模解聘大学教授的政治冲击提供了一个罕见的外生实验场景。一位高于平均水准的学术伙伴遭到驱逐，导致留守德国教授在物理学与化学领域的科研生产力分别永久萎缩 13% 与 16.5%。实证清楚表明，失去普通科研同伴尚可应对，但失去卓越的学术伙伴对科研生产力构成了毁灭性的打击。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
 >
 > *Waldinger utilized the dismissal of Jewish scientists in Nazi Germany (1933) as an exogenous shock to quantify peer effects and localized knowledge spillovers... losing an outstanding collaborator is highly detrimental, permanently depressing the productivity of surviving scientists.*
@@ -61,28 +69,28 @@ updated: 2026-10-30
 > - **2008** 在伦敦政治经济学院获得经济学博士学位。
 > - **2008–2012** 任教于英国华威大学经济学系（University of Warwick）。
 > - **2010** 在《经济学季刊》（*QJE*）发表《同行质量与教师产出：来自二战前德国大学被解聘学者的证据》，引发科学学与劳动经济学界广泛关注。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 101)]]
-> - **2012** 在顶级期刊《经济研究评论》（*Review of Economic Studies*）发表《科学中的同伴效应：来自纳粹德国解雇科学家的证据》，系统确立同伴效应的因果量化边界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 98)]]
+> - **2012** 在顶级期刊《经济研究评论》（*Review of Economic Studies*）发表《[[Peer Effects in Science|科学中的同伴效应]]：来自纳粹德国解雇科学家的证据》，系统确立同伴效应的因果量化边界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 98)]]
 > - **2012–2018** 任教于伦敦政治经济学院担任副教授。
-> - **2016** 在《经济学与统计学评论》（*REStat*）发表《炸弹、大脑与科学》，分析二战物理轰炸对大学人力资本与物理资本的异质冲击。
+> - **2016** 在《经济学与统计学评论》（*REStat*）发表《炸弹、大脑与科学》，分析二战物理轰炸对大学[[Human Capital Theory|人力资本]]与物理资本的异质冲击。
 > - **2018–至今** 加盟慕尼黑大学经济学系出任应用微观经济学终身讲席教授。
 
 ---
 
 > [!work-line] 主要著作
-> - **2012 — *Peer Effects in Science: Evidence from the Dismissal of Scientists in Nazi Germany*（《经济研究评论》）** 科学计量因果推断标杆论著。利用 1933 年纳粹清洗犹太教职这一外生事件，构建双重差分模型排除反射问题与自选择内生性，证实高水平学术伙伴对维系学者生产力具有不可替代的因果作用。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 98)]]
+> - **2012 — *Peer Effects in Science: Evidence from the [[Nazi Purge of University Scholars|Dismissal of Scientists in Nazi Germany]]*（《经济研究评论》）** 科学计量因果推断标杆论著。利用 1933 年纳粹清洗犹太教职这一外生事件，构建[[Difference-in-Differences|双重差分]]模型排除反射问题与自选择内生性，证实高水平学术伙伴对维系学者生产力具有不可替代的因果作用。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 98)]]
 > - **2010 — *Quality Matters: The Expulsion of Professors and the Consequences for PhD Student Outcomes in Nazi Germany*（《政治经济学期刊》）** 追踪被清洗导师对其指导的博士生后续长达三十年生涯轨迹的因果损耗，确立了卓越导师在师承网络中的代际人力资本传递价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 101)]]
 > - **2016 — *Bombs, Brains, and Science: The Role of Human and Physical Capital for the Creation of Scientific Knowledge*（《经济学与统计学评论》）** 比对二战盟军轰炸摧毁实验室仪器（物理资本）与驱逐顶尖科学家（人力资本）的恢复期，证实顶尖学者的人力资本不可替代，物理建筑摧毁可迅速重建，而学术网络的瓦解造成数十年的学术衰退。
 
 ---
 
 > [!claim] 核心思想
-> 法比安·瓦尔丁格（Fabian Waldinger）主张，科学卓越高度依赖由高水平同行交织而成的微观智识生态，这种生态脆弱且极度难以复制。在没有外生准自然实验的常规环境下，优秀学者主动聚集与资源倾斜往往制造出虚假的同伴带动表象；唯有通过外生破坏性冲击剥离混杂变量，才能证实高水平科研同伴的实质性思想溢出是维系学科繁荣的生命线。
+> 法比安·瓦尔丁格（Fabian Waldinger）主张，科学卓越高度依赖由高水平同行交织而成的微观智识生态，这种生态脆弱且极度难以复制。在没有外生准自然实验的常规环境下，优秀学者主动聚集与资源倾斜往往制造出虚假的同伴带动表象；唯有通过外生破坏性冲击剥离混杂[[Variable|变量]]，才能证实高水平科研同伴的实质性思想溢出是维系学科繁荣的生命线。
 
 ---
 
 > [!influence-path] 影响路径
-> - **方法路径** 将微观计量经济学的准自然实验与双重差分工具深度引入科学计量学，彻底革新了传统仅依赖相关分析与简单回归的同伴效应研究范式。
-> - **理论路径** 与皮埃尔·阿祖莱（Pierre Azoulay）的明星猝逝模型形成互补，分别从“微观同伴外生离世”与“宏观院系人才清洗”两端夯实了无形学院客观实在性的实证基础。
+> - **方法路径** 将微观计量经济学的准自然实验与双重差分工具深度引入[[Bibliometric Analysis|科学计量学]]，彻底革新了传统仅依赖相关分析与简单回归的同伴效应研究范式。
+> - **理论路径** 与[[Pierre Azoulay|皮埃尔·阿祖莱]]（Pierre Azoulay）的明星猝逝模型形成互补，分别从“微观同伴外生离世”与“宏观院系人才清洗”两端夯实了[[Invisible College|无形学院]]客观实在性的实证基础。
 > - **政策路径** 为评估战争动荡、科研人员跨国流失以及高校学科带头人流失的长期系统性代价提供了严密的量化评估框架。
 
 ---

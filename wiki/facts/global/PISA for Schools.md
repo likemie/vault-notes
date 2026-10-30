@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -31,16 +31,19 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Socioeconomic Status]]"
   - "[[School Leadership]]"
+  - "[[Academic Anxiety]]"
   - "[[Self-Efficacy]]"
   - "[[Epistemology]]"
   - "[[Commensuration]]"
   - "[[Champ]]"
   - "[[Reliability]]"
+  - "[[Teacher Support for Students]]"
   - "[[Positional Good]]"
   - "[[Epistemic Governance]]"
   - "[[Cognitive Authority]]"
   - "[[Topological Spatialisation]]"
   - "[[Exogenous Privatisation]]"
+  - "[[Document]]"
   - "[[School Autonomy]]"
 related_theories: []
 related_methods:
@@ -65,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -87,7 +90,7 @@ updated: 2026-10-22
 > [!policy-design] 测评方案设计
 > - **统一量表锚定** 试题完全依托主线 [[PISA]] 的测验[[Construct|构念]]与[[Item Response Theory|项目反应理论]]量表研制，将单所学校的分数分布直接锚定在 PISA 经典的 500 分均值与 6 个能力等级基准之上。
 > - **定制化校级报告** 每所参测学校均可获得一份长达 150 页的专属《学校诊断报告》，详细呈现本校在阅读、数学与科学上的平均表现，清晰标注本校若作为一个独立系统将在全球 PISA 排行榜上所处的大致位次（例如与芬兰、上海、新加坡或德国平均水平的绝对差距）。
-> - **过程与环境测量** 整合学校气候（School Climate）、学业焦虑度、学生[[Self-Efficacy|自我效能感]]、纪律氛围与师生关系问卷指标，向管理层提供处方化建议。
+> - **过程与环境测量** 整合学校气候（School Climate）、[[Academic Anxiety|学业焦虑]]度、学生[[Self-Efficacy|自我效能感]]、纪律氛围与师生关系问卷指标，向管理层提供处方化建议。
 > - **实施模式演进** 从早期的纸笔测验逐步全面过渡为在线计算机化自适应测评平台，实现测验预约、施测监控与自动生成报告的快速流转。
 
 > [!citation-card] [[Epistemology|认识论]]治理在基层学校的渗透
@@ -126,7 +129,7 @@ updated: 2026-10-22
 > [!indicators] 评估指标体系
 > - **校级均分与素养等级** 学校 15 岁学生在阅读、数学、科学上的 [[Item Response Theory|IRT]] 转换均分及在 6 个能力等级中的百分比分布。
 > - **全球基准对标度** 本校表现与 [[OECD]] 平均水平、全球顶尖国家（如芬兰、日本）以及同等[[Socioeconomic Status|社会经济背景]]学校的相对差距。
-> - **学校学习环境指数** 纪律氛围指数、教师支持指数、学生学业归属感与社会情绪福祉指标。
+> - **学校学习环境指数** 纪律氛围指数、[[Teacher Support for Students|教师支持]]指数、学生学业归属感与社会情绪福祉指标。
 
 > [!finding-cards] 学界实证批评与治理审视
 > - **去脉络化与[[Epistemology|认识论]]规训** 实证表明，学校版 [[PISA]] 将生动的育人空间抽空为冰冷的数据孤岛；量化报告看似客观科学，实则掩盖了学校深处的社区阶级矛盾与文化特异性，对微观实践构成了深度认识论规训。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]
@@ -149,7 +152,7 @@ updated: 2026-10-22
 > | [[School Leadership]] | 概念 | 学校版 PISA 重点渗透、动员并实施自我规训的关键微观行动群体。 |
 > | [[Exogenous Privatisation]] | 概念 | 批判学校版 PISA 依托特许经营将跨国评估服务外包给营利性机构的外生私有化概念工具。 |
 > | [[Argument_Huang_2020_APJE\|Huang and Kan (2020)]] | 论证 | 剖析学校版 PISA [[Epistemology\|认识论]]治理、空间通约与去情境化弊端的实证文献。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 论证 | 剖析经合组织依托 PISA for Schools 等衍生产品扩张商业市场与品牌霸权的文献。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 论证 | 剖析经合组织依托 PISA for Schools 等衍生产品扩张商业市场与品牌霸权的[[Document\|文献]]。 |
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | 论证 | 剖析[[School Autonomy\|学校自主]]直连国际数据库、推动微观基层自主对标的文献。 |
 
 ---

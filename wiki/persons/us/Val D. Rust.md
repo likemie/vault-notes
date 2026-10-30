@@ -9,7 +9,7 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Intercultural Education]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Theoretical Perspective]]"
   - "[[Postpositivism]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-10-22
 > - **1934** 出生于美国犹他州。早年求学于杨百翰大学（Brigham Young University）攻读历史学，随后在斯坦福大学与明尼苏达大学深造。
 > - **1967** 在密歇根大学师从美国著名教育史学家与比较教育奠基人[[Claude A. Eggertsen|克劳德·埃格特森]]（Claude A. Eggertsen），完成博士论文《一战以来德国对外国教育的兴趣》（*German Interest in Foreign Education Since World War I*），开创[[Intercultural Education|跨文化教育]]双向影响的专精研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1969** 加入加州大学洛杉矶分校（UCLA）教育研究生院，历任助理教授、副教授、正教授，主持比较与[[International Education|国际教育]]研究中心，培养了跨越数十年的跨国博士生团队。
-> - **1988–1989** 当选并出任美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长，发表多篇反思学科[[Epistemology|认识论]]基础与方法演化的会长演说与纲领性文献。
+> - **1988–1989** 当选并出任美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长，发表多篇反思学科[[Epistemology|认识论]]基础与方法演化的会长演说与纲领性[[Document|文献]]。
 > - **1990s–2000s** 深入开展挪威教育改革长程制度追踪、德美双向[[Policy Borrowing|教育借用]]比较，并主持 UCLA 团队对全球比较教育主流期刊的研究策略与[[Theoretical Perspective|理论取向]]展开大规模文献计量调查。
 > - **2009** 携手博士生布莱恩·约翰斯通（Brian Johnstone）与卡琳·阿拉夫（Carine Allaf），为《比较教育学国际手册》撰写学科反思专章，系统总结学科发端、方法演进与全球化批判前沿。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–138)]]
 

@@ -10,9 +10,9 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "大学联盟 / 区域高校网络"
 headquarters: "曼谷（泰国）"
@@ -41,22 +41,25 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[Southeast Asian Higher Education Common Space]]"
   - "[[EU]]"
+  - "[[SHARE Programme]]"
   - "[[SEAMEO RIHED]]"
+  - "[[SEAMEO]]"
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> [[ASEAN|东南亚国家联盟]]框架下的区域旗舰高校自治网络；通过推动成员国 30 所顶尖[[Research Universities|研究型大学]]在具体学科上的微观协同、东盟学分转移系统（ACTS）及质量保障体系（AUN-QA），确立了以大学自主结网和务实合作为重心的东南亚高等教育[[Pragmatic Paradigm|实用主义]]区域治理[[Paradigm|范式]]。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+> [[ASEAN|东南亚国家联盟]]框架下的区域旗舰高校自治网络；通过推动成员国 30 所顶尖[[Research Universities|研究型大学]]在具体学科上的微观协同、[[ASEAN Credit Transfer System|东盟学分转移系统]]（ACTS）及质量保障体系（AUN-QA），确立了以大学自主结网和务实合作为重心的东南亚高等教育[[Pragmatic Paradigm|实用主义]]区域治理[[Paradigm|范式]]。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1992 年第四届东盟峰会正式提议筹建，1995 年各成员国常任秘书与高校代表正式签署章程确立架构；旨在冷战后东盟扩员背景下，通过顶尖大学间的学术资源共享强化区域认同并服务东盟一体化进程。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
@@ -87,7 +90,7 @@ updated: 2026-10-29
 >
 >   - **2007** 正式发布《AUN 质量保障指南》（AUN-QA Manual），确立院校与专业双层评估规程。
 >   - **2011** 启动东盟学分转移系统（ACTS），提供在线跨校课程互认与学分折算服务。
->   - **2015 至今** 深度参与[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]建设，与[[EU|欧盟]] SHARE 项目展开政策对话并坚守本土质保主导权。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
+>   - **2015 至今** 深度参与[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]建设，与[[EU|欧盟]] [[SHARE Programme|SHARE 项目]]展开政策对话并坚守本土质保主导权。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
 
 ---
 
@@ -142,7 +145,7 @@ updated: 2026-10-29
 > > - **联盟立场辩护** AUN 理事会强调，顶尖大学结网旨在通过标杆效应打造高水准学科高地，探索先行先试的学分与质保样板，并逐步通过外围网络向全域辐射。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 >
 > > [!axis] 高校自治结网与政府部委权威的职能分治
-> > 围绕 AUN 与政府间机构 SEAMEO RIHED 之间的制度分立究竟是治理碎片化还是制度理性设计展开博弈。
+> > 围绕 AUN 与政府间机构 [[SEAMEO]] RIHED 之间的制度分立究竟是治理碎片化还是制度理性设计展开博弈。
 > > - **碎片化批评论** 外部观察者常批评东南亚缺乏类似欧洲[[Bologna Process|博洛尼亚进程]]的统一领导旗舰，各机构各行其是导致学分与质保体系多头重叠。
 > > - **制度理性分析** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 证实，东盟成员国刻意维持 AUN 与 RIHED 互不隶属的组织分工，严格区分主权政府官员与高校代表的决策权限，这一设计旨在践行[[ASEAN Way|东盟方式]]并有效防范超国家集权官僚的产生。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
 

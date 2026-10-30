@@ -9,7 +9,7 @@ summary: "美国比较教育史学家与教育史学者，比较教育学会（C
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Positivism]]"
+  - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 美国二十世纪著名比较教育史学家、教育史学者，纽约大学与宾夕法尼亚大学教育学讲席教授，美国比较教育学会（[[Comparative and International Education Society|CIES]]，原 CES）创始人兼首任会长，《比较教育评论》（CER）创刊编辑。
 > - **核心角色** 比较教育学从战前史学传统向战后建制化学科过渡时期的“历史良心”与制度奠基人；长期捍卫一手[[Primary and Secondary Documents|原始文献]]考据的人文史学传统，抵制无视文化脉络的纯量化[[Positivism|实证主义]]浪潮。
-> - **代表贡献** 创立美国比较教育学术共同体建制；挖掘并系统编目上起古典古代、下至十九世纪的跨国教育文献遗产；与斯图尔特·E·弗雷泽（Stewart E. Fraser）合著权威史料集《国际与比较教育史》（1968）。
+> - **代表贡献** 创立美国比较教育学术共同体建制；挖掘并系统编目上起古典古代、下至十九世纪的跨国教育[[Document|文献]]遗产；与斯图尔特·E·弗雷泽（Stewart E. Fraser）合著权威史料集《国际与比较教育史》（1968）。
 
 > [!citation-card] 编目古典[[Intercultural Education|跨文化教育]]文献的历史使命
 > 斯图尔特·E·弗雷泽与威廉·W·布里克曼提醒我们，学界对前几个世纪有关国际与比较教育的浩瀚著作正在形成愈发清晰的认识。比较教育学者的首要任务之一，正是以某种系统的方式对这些古代文献进行编目。（p.122）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 122)]]

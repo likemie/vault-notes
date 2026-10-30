@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Global Citizenship]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Big Ideas]]"
   - "[[Artefact]]"
   - "[[Epistemic Ascent]]"
@@ -66,7 +67,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2023
 doi: ""
 citation_aliases:
@@ -190,7 +191,7 @@ citation_aliases:
 > **三种再脉络化原则之间的张力**
 > - 毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在矛盾——两者建立在不同的[[Ontology\|本体论]]和认识论基础上(Hikuroa, 2017; Stewart, 2022)
 > - 高期望原则要求教师「将学习者带出其直接经验、激发好奇心、打开新视野」，这可能与强烈的地方化倾向存在矛盾
-> - 教育部声称「课程受到知识景观和一系列课程理论洞见的启发」，但课程文件中并未提供具体的文献引用来说明所借鉴的教育理论是什么，特别是关于学习如何发生的理论
+> - 教育部声称「课程受到知识景观和一系列课程理论洞见的启发」，但课程文件中并未提供具体的[[Document|文献]]引用来说明所借鉴的教育理论是什么，特别是关于学习如何发生的理论
 
 ---
 

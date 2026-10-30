@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'promising student' at the outset: The digitization and management of student success in the competitive university"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Stakeholder University]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
@@ -63,7 +64,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -85,7 +86,7 @@ citation_aliases:
 > [!info] 研究方法
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment\|OSA]] 操作手册的[[Discourse Analysis\|话语分析]]。
 > - 方法：话语分析（[[Discourse]] analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
-> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
+> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究[[Document|文献]]（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频(2020)
 
 > [!example] 论证结构

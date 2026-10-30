@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Test Scoring and Weighting]]"
   - "[[Trust Calibration]]"
+  - "[[Document]]"
   - "[[High-Stakes Testing]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Informed Consent]]"
@@ -96,7 +97,7 @@ related_methods:
 related_instruments: []
 status: draft
 created: 2026-07-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -965,7 +966,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 > - **难度对等** 编制后测时避免使一组比另一组更容易完成
 > - **水平一致** 两次测验的难度水平必须相同
 
-测验数据不仅是实验研究模型的核心特征，还可能作为[[Questionnaire|问卷]]、访谈和文献材料的一部分出现。
+测验数据不仅是实验研究模型的核心特征，还可能作为[[Questionnaire|问卷]]、访谈和[[Document|文献]]材料的一部分出现。
 
 ---
 

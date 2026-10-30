@@ -12,9 +12,9 @@ summary: "以真实情境中的多轮迭代循环为核心的混合方法论：�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
+  - "[[Legitimate Peripheral Participation]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Semi-structured Interview]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-10-29
 > 3. **奠定坚实理论根基** 必须将学习科学理论作为专业发展活动与课程设计的首要架构支柱。
 > 4. **留足显性与有机社交时空** 在紧凑技术报告之外，预留充足且有保障的正式与非正式面对面网络拓展时间。
 > 5. **贯穿全程反思环节** 在活动前（预选调研）、活动中（小组对话）与活动后（反思[[Questionnaire|问卷]]）持续嵌入结构化反思支架。
-> 6. **包容合法边缘参与者** 保持耐心，尊重不同学者的参与节奏；容许部分教师先作为观察者与倾听者逐步沉浸。
+> 6. **包容合法[[Legitimate Peripheral Participation|边缘参与]]者** 保持耐心，尊重不同学者的参与节奏；容许部分教师先作为观察者与倾听者逐步沉浸。
 > 7. **聚焦新范式碰撞共创** 紧扣国家级前沿框架与颠覆性议题，精心设计激发深层思想碰撞的协作生成时刻。
 > 8. **赋能学者为变革培育者** 将参会教师与科研人员视为主导变革的领导者与创新学习者，激发其自驱力。
 > 9. **搭建校企前沿对话桥梁** 深刻认识到深度合作往往始于一次面对面对话，为产业界直接对接高校科研梯队与拔尖人才创造经常性机会。

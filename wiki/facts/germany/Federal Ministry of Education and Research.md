@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research-Practice Gap]]"
+  - "[[Document]]"
   - "[[Data Infrastructure]]"
 related_theories: []
 related_methods: []
@@ -59,6 +60,7 @@ related_facts:
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Chemie im Kontext]]"
+  - "[[Physik im Kontext]]"
   - "[[SINUS]]"
   - "[[Clearing House Unterricht]]"
   - "[[Max Planck Society]]"
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +93,7 @@ updated: 2026-10-22
 > [!dev-timeline] 组织发展历程
 > - **1955–1969 — 战后科技重建与早期设立** 1955 年设立联邦原子事务部，标志着联邦层面介入尖端科技研发资助；1962 年扩展为联邦科学研究部，重点恢复与壮大国家科研基础设施。
 > - **1969–1994 — 教育职能确立与部委分立** 1969 年德国修订《基本法》（Grundgesetz）赋予联邦在高等教育扩招与职业教育立法上的有限权力，分立设立联邦教育与科学部（BMBW）和联邦研究与技术部（BMFT）。
-> - **1994–2009 — 两德统一部委合并与 [[PISA]] 震荡响应** 1994 年两部正式合并为现行体制的 BMBF；2000 年首轮 [[PISA]] 震荡后，BMBF 突破德国各州文化主权与传统联邦制否决点的束缚，依托危机动员发起全国性全日制学校投资计划（IZBB，投入 40 亿欧元联邦专项资金资助各州扩建全日制学校），并协同各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）制定国家教育标准（Bildungsstandards）与设立教育质量发展所（[[Institute for Educational Quality Improvement|IQB]]），深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）建设，联合资助国家教育报告（Bildungsbericht）编制，并重点立项资助直接对接测评模型的教学创新项目（如 [[Chemie im Kontext\|CHIK]]、PIKO 与 [[SINUS]]）（BMBF, 2007; [[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 29–30]]；[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, p. 275]]）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
+> - **1994–2009 — 两德统一部委合并与 [[PISA]] 震荡响应** 1994 年两部正式合并为现行体制的 BMBF；2000 年首轮 [[PISA]] 震荡后，BMBF 突破德国各州文化主权与传统联邦制否决点的束缚，依托危机动员发起全国性全日制学校投资计划（IZBB，投入 40 亿欧元联邦专项资金资助各州扩建全日制学校），并协同各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]]）制定国家教育标准（Bildungsstandards）与设立教育质量发展所（[[Institute for Educational Quality Improvement|IQB]]），深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）建设，联合资助国家教育报告（Bildungsbericht）编制，并重点立项资助直接对接测评模型的教学创新项目（如 [[Chemie im Kontext\|CHIK]]、[[Physik im Kontext|PIKO]] 与 [[SINUS]]）（BMBF, 2007; [[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 29–30]]；[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, p. 275]]）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、教师教育攻坚与循证中介孵化** 2010 年联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 在慕尼黑工业大学（TUM）正式创设[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）；依据 2013 年联邦-州行政协议（Bund-Länder-Vereinbarung, BLV）联合各州推出“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，总预算 5 亿欧元）；2017 年发布新一期《实证教育研究框架规划》（Rahmenprogramm empirische Bildungsforschung），首次将“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）确立为国家专项资助重点；同年专项立项并出资孵化慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），确立德语区教育证据转化国家级基础设施。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 10, 12–13)]]
 
 ---
@@ -193,7 +195,7 @@ updated: 2026-10-22
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | Argument | 剖析 BMBF 如何利用 2000 年 PISA 冲击冲破各州文化主权束缚，推行 40 亿欧元全日制学校计划（IZBB）并协同确立国家教育标准。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证文献。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证[[Document\|文献]]。 |
 > | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | Argument | 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure\|数据基础设施]]中的联邦治理定位。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm\|范式]]治理张力。 |

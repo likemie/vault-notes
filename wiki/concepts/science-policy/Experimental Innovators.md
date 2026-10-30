@@ -14,29 +14,37 @@ aliases:
 summary: "由戴维·加伦森（David Galenson）提出并由本杰明·琼斯（Benjamin F. Jones）扩展至科学学的认知进路分类；指依据归纳积累、一手经验素材收集与持续试错、在长期技能打磨后于学术或创作生涯中晚期达到成就巅峰的研究者与创意从业者。"
 type: concept
 domain: "science-policy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-of-science
   - theme/creativity
   - theme/scientific-career
   - concept/innovation-type
 related_concepts:
+  - "[[Big Science]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Emergence]]"
   - "[[Conceptual Innovators]]"
-related_theories:
-  - "[[Burden of Knowledge]]"
-  - "[[Random Impact Rule]]"
-related_methods: []
+  - "[[Paradigm]]"
+  - "[[Variable]]"
+related_theories: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[David Galenson]]"
-  - "[[Benjamin F. Jones]]"
   - "[[John B. Fenn]]"
+  - "[[Werner Heisenberg]]"
+  - "[[Benjamin F. Jones]]"
+  - "[[David Galenson]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -46,7 +54,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Experimental Innovators
-> 实验型创新者是指依据归纳积累、一手经验素材收集与持续实验试错，在经历长期技能打磨后于学术或创作生涯中晚期迎来成就巅峰的研究者与创意从业者。该群体依赖扎实的实地观测、反常事实搜集或实验设备反复调制，其重大科学突破往往随着经验与默会知识的深厚积累而自然涌现，典型代表包括查尔斯·达尔文（Charles Darwin）与约翰·B·芬恩（John B. Fenn）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
+> 实验型创新者是指依据归纳积累、一手经验素材收集与持续实验试错，在经历长期技能打磨后于学术或创作生涯中晚期迎来成就巅峰的研究者与创意从业者。该群体依赖扎实的实地观测、反常事实搜集或实验设备反复调制，其重[[Big Science|大科学]]突破往往随着经验与[[Tacit Knowledge|默会知识]]的深厚积累而自然[[Emergence|涌现]]，典型代表包括查尔斯·达尔文（Charles Darwin）与[[John B. Fenn|约翰·B·芬恩]]（John B. Fenn）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示经验试错与素材沉潜进路对创新者巅峰产出时序所施加的经验累积约束。
@@ -69,7 +77,7 @@ updated: 2026-10-30
 > |---|---|---|---|
 > | **认知逻辑** | 归纳推理、经验试错、一手素材长期积累 | 演绎推理、先验公理化、形式模型推导 | 假定学科门类决定创新早晚（如物理早熟、医学晚成） |
 > | **素材积累门槛** | 对一手素材依赖极高，需要长期观察与设备调试 | 对经验积累依赖低，追求先验逻辑自洽与极简性 | 忽视同一学科内部理论家与实验家的巨大时序差异 |
-> | **范式突破机制** | 凭借海量反常经验事实与细致观测实现渐进式突围 | 在涉足范式初期摆脱既有教条的思维定势禁锢 | 将创新规律简单归因于学科知识存量规模 |
+> | **[[Paradigm\|范式]]突破机制** | 凭借海量反常经验事实与细致观测实现渐进式突围 | 在涉足范式初期摆脱既有教条的思维定势禁锢 | 将创新规律简单归因于学科知识存量规模 |
 > | **生涯巅峰年龄** | 集中于学术生涯中晚期（通常为 45–65 岁） | 集中于学术生涯早期（通常为 25–35 岁） | 1985 年后物理学诺奖成果产出年龄已反超医学 |
 > | **科学代表人物** | 查尔斯·达尔文、[[John B. Fenn\|约翰·B·芬恩]] | [[Werner Heisenberg\|沃纳·海森堡]]、阿尔伯特·爱因斯坦 | 威廉·劳伦斯·布拉格（25 岁 X 射线晶体学突破） |
 > | **艺术代表人物** | 保罗·塞尚、米开朗基罗、马克·吐温 | 巴勃罗·毕加索、安迪·沃霍尔 | 弗兰克·劳埃德·赖特、罗伯特·弗罗斯特 |
@@ -98,16 +106,16 @@ updated: 2026-10-30
 > [!concept-proposition] 命题一｜经验积累与长期试错推动实验型学者在学术生涯中晚期达到成就巅峰
 > **探讨维度　经验沉潜与生命周期达峰** 探讨经验归纳进路对科学产出时序的微观塑造，证实一手素材积累深度直接决定突破时机。
 
-> [!claim] Jones, B. F.
-> **实验型学者的成熟期峰值** 经济学诺贝尔奖得主计量分析表明，实验型实证学者的平均成就年龄达 56.0 岁，无人在入行前十年完成代表作，较概念型学者推迟 20.2 岁；自然科学诺贝尔奖得主中经验型学者代表作平均年龄为 39.9 岁，显著晚于理论学者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
+> [!claim] [[Benjamin F. Jones|Jones, B. F.]]
+> **实验型学者的成熟期峰值** 经济学诺贝尔奖得主计量分析表明，实验型实证学者的平均成就年龄达 56.0 岁，无人在入行前十年完成代表作，较[[Conceptual Innovators|概念型学者]]推迟 20.2 岁；自然科学诺贝尔奖得主中经验型学者代表作平均年龄为 39.9 岁，显著晚于理论学者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
 
 ---
 
 > [!concept-proposition] 命题二｜实验型创新的大器晚成规律在跨领域实践中呈现波特陈酿效应
 > **探讨维度　创意生命周期的跨领域同构性** 探讨经验归纳与长期技艺打磨在艺术创作与科学探索中的同构演进规律。
 
-> [!claim] Galenson, D. W.
-> **实验型创新的波特陈酿效应** 实验型创新好比经历数十年橡木桶熟化的波特陈酿，必须耗费漫长岁月打磨技艺与收集材料，例如历经多年解剖沉潜创作《创世纪》的米开朗基罗、50 岁方出版《物种起源》的达尔文、大器晚成的塞尚与赖特、退休后开发出电喷雾质谱仪并于 85 岁获诺贝尔奖的约翰·B·芬恩。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 48–49, 56–58)]]
+> [!claim] [[David Galenson|Galenson, D.]] W.
+> **实验型创新的波特陈酿效应** 实验型创新好比经历数十年橡木桶熟化的波特陈酿，必须耗费漫长岁月打磨技艺与收集材料，例如历经多年解剖沉潜创作《创世纪》的米开朗基罗、50 岁方出版《物种起源》的达尔文、大器晚成的塞尚与赖特、退休后开发出电喷雾质谱仪并于 85 岁获诺贝尔奖的[[John B. Fenn|约翰·B·芬恩]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 48–49, 56–58)]]
 
 ---
 
@@ -122,7 +130,7 @@ updated: 2026-10-30
 > [!dev-timeline] 概念演变
 > - **2001–2006 — 艺术经济学提出** [[David Galenson|戴维·加伦森]]（David Galenson）在研究现代艺术拍卖与文学创作时首次界定实验型创新者，以大器晚成的保罗·塞尚为典型。
 > - **2010 — 科学学实证拓展** 本杰明·F·琼斯（Benjamin F. Jones）将实验型创新者引入科技发明家与诺贝尔奖得主计量分析，证实经验实证学者在生涯中晚期迎来巅峰。
-> - **2021 — 科学学系统整合** 王大顺与阿尔伯特-拉斯洛·巴拉巴西将实验型创新者整合入科研生涯动力学框架，揭示经验积累对晚期突破的决定性支撑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
+> - **2021 — 科学学系统整合** [[Dashun Wang|王大顺]]与阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]将实验型创新者整合入科研生涯动力学框架，揭示经验积累对晚期突破的决定性支撑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 
 ---
 
@@ -139,10 +147,10 @@ updated: 2026-10-30
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Jones (2010)]] | 经济学诺贝尔奖得主群体 | 历史档案计量分析 | 做出获奖代表作的平均年龄 | 实验型学者 56.0 岁（0% 在入行前 10 年达峰） | 显著晚于概念型学者 20.2 岁 | 仅限经济学诺奖得主样本 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Jones (2010)]] | 自然科学诺贝尔奖得主群体 | 跨学科比较回归 | 做出代表作的平均年龄 | 经验型学者 39.9 岁（较理论学者晚 4.6 岁） | 回归控制历史阶段后显著（p < 0.05） | 经验学者定义包含实验与观测研究 |

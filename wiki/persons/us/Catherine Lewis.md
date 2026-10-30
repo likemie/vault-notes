@@ -7,7 +7,7 @@ summary: "美国教育研究者，改进科学教育化引介者，为教育研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Scientific Method]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -32,11 +33,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** Catherine Lewis，美国教育研究者，以对[[Improvement Science\|改进科学]]（Improvement Science）在教育中应用的倡导著称。其 2015 年在 *Educational Researcher* 上发表的"什么是改进科学？我们在教育中需要它吗？"一文，是向教育研究界引介改进[[Scientific Method\|科学方法]]论的关键文献。
+> - **身份位置** Catherine Lewis，美国教育研究者，以对[[Improvement Science\|改进科学]]（Improvement Science）在教育中应用的倡导著称。其 2015 年在 *Educational Researcher* 上发表的"什么是改进科学？我们在教育中需要它吗？"一文，是向教育研究界引介改进[[Scientific Method\|科学方法]]论的关键[[Document|文献]]。
 
 > [!info] 核心思想
 > Lewis (2015) 将[[Improvement Science\|改进科学]]定位为教育研究中系统性研究资助的替代[[Paradigm\|范式]]，强调其与传统实验方法在核心假设上的差异——特别是对情境变异性、人类行动者视角和持续反馈循环的关注。

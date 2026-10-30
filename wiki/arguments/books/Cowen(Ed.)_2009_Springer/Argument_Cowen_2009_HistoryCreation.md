@@ -7,7 +7,7 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On history and on the creation of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Comparative History of Comparative Education]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Academic Iconography]]"
   - "[[Disciplinary Institutionalization]]"
@@ -66,6 +67,7 @@ related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
   - "[[World Council of Comparative Education Societies]]"
+  - "[[National Education]]"
   - "[[UNESCO]]"
 related_arguments: []
 sources:
@@ -73,7 +75,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -81,7 +83,7 @@ updated: 2026-10-26
 > 比较教育学在经历数十年的制度化发展并确立专业合法性之后，在何种意义上作为一个历史对象而真实存在？当早期学者所依赖的经典起源叙事完成了赋予学科职业合法性的使命后，当下的比较教育学史编纂面临哪些深层结构性瓶颈？如何超越孤立、碎片且西方中心的国别学科史，走向具有批判自觉与多中心视野的[[Comparative History of Comparative Education\|比较教育学的比较史]]（Comparative History of Comparative Education）？（pp.7–8）
 
 > [!claim] 核心主张
-> 早期的经典学科史本质上是赋予学者学术归属感与专业合法性的功能性起源叙事；真实的学科历史充斥着大量未被照见的隐蔽档案与边缘主体，深陷能见度不足、学术激励与制度资助匮乏、以及文献档案密度极低的三重困境。真正的学科史编纂必须转向[[Comparative History of Comparative Education\|比较教育学的比较史]]，将拉美等非西方经验、女性学者及国别元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）纳入考察，解构以[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）为代表的[[Academic Iconography\|学科肖像学]]（Academic Iconography）崇拜，并确立由未来关切重塑历史提问的诠释学自觉。（pp.7–10）
+> 早期的经典学科史本质上是赋予学者学术归属感与专业合法性的功能性起源叙事；真实的学科历史充斥着大量未被照见的隐蔽档案与边缘主体，深陷能见度不足、学术激励与制度资助匮乏、以及[[Document|文献]]档案密度极低的三重困境。真正的学科史编纂必须转向[[Comparative History of Comparative Education\|比较教育学的比较史]]，将拉美等非西方经验、女性学者及国别元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）纳入考察，解构以[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）为代表的[[Academic Iconography\|学科肖像学]]（Academic Iconography）崇拜，并确立由未来关切重塑历史提问的诠释学自觉。（pp.7–10）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学学科史编纂学（Historiography of Comparative Education）、经典起源叙事、跨国学术网络与肖像学建构。
@@ -209,7 +211,7 @@ updated: 2026-10-26
 
 > [!exegesis]- 拉美教育先驱与被遮蔽女性学者的历史考察
 > 考恩强调，一部名副其实的比较教育学比较史必须正视两类触目惊心的结构性空白：
-> 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷国民教育体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey\|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
+> 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷[[National Education|国民教育]]体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey\|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
 > 2. **女性在[[Disciplinary Institutionalization|学科建制]]中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后跨国教育交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
 
 为将宏观倡议转化为可执行的学术实践，考恩提出了依托大型基金会（如 Gulbenkian 或 Hoover Foundation）资助的跨国协同研究架构，由 Harold Noah、Max Eckstein、[[Andreas Kazamias]]、Wolfgang Mitter 与瓦尔·鲁斯特（[[Val D. Rust|Val Rust]]）等资深学者组成学术顾问委员会（Advisory Board），指导研究团队系统推进五大探究维度：

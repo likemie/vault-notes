@@ -7,7 +7,7 @@ aliases:
 summary: "跨国学习比较中的概念，指美国学生倾向以能力解释成就而东亚学生倾向以努力解释成就的系统性文化差异"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
   - "[[Homework]]"
+  - "[[Document]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -82,7 +83,7 @@ updated: 2026-10-22
 [[Stevenson and Stigler]] 的研究激发了更多比较研究：
 
 - **Seishin and Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与努力，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
-- **努力作为稳定因素** 香港研究者发现，在西方动机文献中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
+- **努力作为稳定因素** 香港研究者发现，在西方动机[[Document|文献]]中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
 - **日本教学优势** Stigler 领导的视频研究比较了美、日、德三国课堂教学，结论是日本教学法确实优于西方对应方([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
 - **家庭因素** 研究显示亚裔父母表达了比欧裔美国父母更高的学术期望（通常要求全 A），为子女报名更多的课后和周末补习项目，并更密切地监控家庭学习([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
 

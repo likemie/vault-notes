@@ -30,10 +30,10 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Covariance]]"
   - "[[Quasi-Experimental Designs]]"
@@ -44,11 +44,11 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Pretest-Posttest Control Group Design
-> 前后测控制组设计（Pretest-Posttest Control Group Design）是最经典的[[True Experimental Design\|真实验设计]]：参与者通过[[Random Assignment\|随机分配]]分为实验组和控制组，两组均接受前测（O₁ 和 O₃）和后测（O₂ 和 O₄），仅实验组接受干预（X）。因果效应的估计量为 (O₂−O₁) − (O₄−O₃)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 317–319]]）。
+> 前[[Pre-test and Post-test|后测]]控制组设计（Pretest-Posttest Control Group Design）是最经典的[[True Experimental Design\|真实验设计]]：参与者通过[[Random Assignment\|随机分配]]分为实验组和控制组，两组均接受前测（O₁ 和 O₃）和后测（O₂ 和 O₄），仅实验组接受干预（X）。因果效应的估计量为 (O₂−O₁) − (O₄−O₃)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 317–319]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至实验组和控制组的参与者。

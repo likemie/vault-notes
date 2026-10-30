@@ -9,7 +9,7 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 33
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Return on Investment]]"
   - "[[Educational Decentralization]]"
+  - "[[School Vouchers]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Geopolitics]]"
   - "[[Creativity]]"
@@ -62,6 +63,7 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
+  - "[[World Social Forum]]"
   - "[[International Monetary Fund]]"
   - "[[Education for All]]"
 related_arguments:
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -127,7 +129,7 @@ updated: 2026-10-22
 > [!theory-proposition] 命题三｜异质分散的跨国进步运动能够依托网络连带推动世界体系向真正的全球社会民主转型
 > **解释** 面对新自由主义资本主义造成的全面不平等，单一民族国家内部的个别工人抗争往往易被分化瓦解；然而，当原住民土地权利运动、女权主义反贫困倡议、工会劳工权益保障以及[[Popular Education|民众教育]]网络通过跨国多边连带交汇在一起时，不同群体在差异中确立共同追求，从而打破中心与边缘的区隔，为在体系动荡期重构更具包容性与社会正义的全球社会民主体制创造了历史窗口。[[Argument_Arnove_2009_WorldSystems|(Chase-Dunn, 1999; Chase-Dunn & Boswell, 2000; Arnove, 2009, pp. 114–115)]]
 >
-> **应用实例** 世界社会论坛（World Social Forum）期间，全球南方各国民间学者与基层教育者协同起草《反思教育全球化宣言》，提出建立保障全民免费公平教育的全球替代方案。
+> **应用实例** [[World Social Forum|世界社会论坛]]（World Social Forum）期间，全球南方各国民间学者与基层教育者协同起草《反思教育全球化宣言》，提出建立保障全民免费公平教育的全球替代方案。
 
 ---
 
@@ -180,7 +182,7 @@ updated: 2026-10-22
 >   - **D2.1｜经济资本积累与市场效率导向（Economic Accumulation & Productivity）**
 >     将教育服务于全球资本积累循环与劳动力市场弹性需求。
 >     - **D2.1.1｜[[Human Capital Theory|人力资本]]与私有化效益指标**
->       - **含义** 强调教育的[[Return on Investment|投资回报]]率，推行教育券、全面收费与私立化竞争。
+>       - **含义** 强调教育的[[Return on Investment|投资回报]]率，推行[[School Vouchers|教育券]]、全面收费与私立化竞争。
 >       - **观察线索** 政策文本高频使用“效率”、“[[Costs Benefits Ratio in Research Ethics|成本收益比]]”、“基于绩效的问责”与“技能供给”。
 >       - **判读规则** 改革以提高经济生产率与优化劳动力市场配置为唯一核心目标，支持经济积累取向。
 >       - **归属与出处** 依据教育改革拓扑模型（Paulston & Leroy, 1980）。

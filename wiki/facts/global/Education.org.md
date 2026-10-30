@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/research-translation
   - theme/sdg-4
 related_concepts:
+  - "[[Document]]"
   - "[[Knowledge Mediation]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-26
 > Education.org 是一家成立于 2020 年的国际独立非营利教育证据中介基金会与智库（隶属于瑞士 Insights for Education 基金会架构）。该机构以“弥合教育科研与一线决策断层”为法定宗旨，专注于将全球学术实证与前线教师实践经验合成为契合决策情境的行动方案。在[[UNESCO|联合国教科文组织]]全球证据利用战略审查中，Education.org 与教育实证构建倡议（[[Building Evidence in Education|BE2]]）、[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）并列，被选树为在政治“快车道”与科研“慢车道”之间发挥桥接作用的典型“中间车道”国际中介实体。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14, 19, 57)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2020 年正式上线运营，针对长期以来教育政策决策依赖零散经验、而学术界海量文献晦涩繁杂且无法直接指导国家规划的结构性矛盾发起设立。
+> - **成立时间 / 创设背景** 2020 年正式上线运营，针对长期以来教育政策决策依赖零散经验、而学术界海量[[Document|文献]]晦涩繁杂且无法直接指导国家规划的结构性矛盾发起设立。
 > - **总部地点 / 国际团队** 法定注册地位于瑞士苏黎世，核心专业团队分布于日内瓦、伦敦、巴黎及内罗毕等多地。
 > - **法人属性与管理领导** 独立的免税国际慈善信托基金会，由前 UNESCO [[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）所长苏珊·格兰特·路易斯（Dr. Suzanne Grant Lewis）出任教育科学与政策负责人，汇聚了前教育部官员、发展经济学家与资深规划师。
 > - **核心宗旨与法定职责** 汇聚同行评审文献与未发表的优质前线实践证据，通过严谨方法学提炼出可操作的政策洞见，辅助中低收入国家决策者优化公共预算与改革设计。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14, 57)]]

@@ -7,7 +7,7 @@ summary: "德裔美籍著名政治哲学家、思想家，20世纪最具原创�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Banality of Evil]]"
   - "[[Bureaucracy]]"
+  - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1906** 出生于德国下诺曼底汉诺威附近的林登（Linden），在柯尼斯堡成长；青年时期展现出非凡的古典语文学与哲学天赋。
 > - **1924–1928** 先后在马尔堡大学师从马丁·海德格尔（Martin Heidegger）、在弗莱堡大学师从[[Edmund Husserl|埃德蒙德·胡塞尔]]（Edmund Husserl），最终在海德堡大学卡尔·雅斯贝尔斯（Karl Jaspers）指导下完成博士论文《圣奥古斯丁爱之概念》（*Der Liebesbegriff bei Augustin*）。
-> - **1933** 纳粹上台后因参与反纳粹犹太复国主义地下文献收集遭盖世太保逮捕，随后流亡法国巴黎，投身青年移民救助机构。
+> - **1933** 纳粹上台后因参与反纳粹犹太复国主义地下[[Document|文献]]收集遭盖世太保逮捕，随后流亡法国巴黎，投身青年移民救助机构。
 > - **1941** 逃离维希法国集中营，流亡到达美国纽约；此后十年作为无国籍流亡学者在学术界与出版界艰难求索。
 > - **1951** 获得美国国籍；出版划时代巨著《极权主义的起源》，系统奠定其世界级政治理论家地位。
 > - **1958** 出版《人的境况》，确立行动（Action）、劳动（Labor）与工作（Work）的三元哲学框架与公共领域理论。

@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Operationalization]]"
   - "[[Knowledge Transfer]]"
+  - "[[Document]]"
   - "[[Praxis]]"
   - "[[Normal School]]"
 related_theories: []
@@ -52,6 +53,7 @@ related_facts:
   - "[[1904 Educational System]]"
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
 sources:
@@ -59,7 +61,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2024
 doi: "10.1080/03050068.2024.2346654"
 citation_aliases:
@@ -107,7 +109,7 @@ citation_aliases:
 > | **民国教育法规与官方文本**<br>Official Legislation & Decrees | 分析1922年《学校系统改革案》（Decree on Reforming the Educational System）、1919年全国教育联合会决议案、1923年《新学制小学课程纲要草案总说明》等官方制度文本，考察转译阶段的制度编码。 |
 > | **教育期刊与报刊档案**<br>Periodical & Archival Analysis | 针对《新教育》（1919–1925）、《新教育评论》（1925–1928）、《教育杂志》、《新闻报》、《解放与改造》、《教育潮》等民国核心期刊进行文本检索与[[Discourse Analysis\|话语分析]]，重建改革者内部的学术论争与代际转向。 |
 
-> [!sample-panel]- 历史文献与史料构成
+> [!sample-panel]- 历史[[Document|文献]]与史料构成
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **演讲记录样本** | 杜威在华两年间巡回11个省份的讲演记录、口译与笔录整理文本。 |
@@ -168,7 +170,7 @@ citation_aliases:
 > - **1915–1918 — 新教育概念的激进转折**早期泛指西方与日本教育的新教育一词，在五四前夕与新文化运动的民主与科学口号深度绑定，明确转向民主教育与儿童中心立场。
 > - **1919年2月 — 《新教育》创刊与杜威受邀**[[Jiang Menglin\|蒋梦麟]]主编的《新教育》创刊，哥伦比亚大学[[Normal School\|师范学院]]留美群体（蒋梦麟、[[Tao Xingzhi\|陶行知]]、[[Hu Shi\|胡适]]）联合邀请导师杜威访华。创刊号《本誌之宗旨》宣称新教育旨在“养成健全人格，创造进步社会”，使民主光辉“永远照耀世界”（"Purpose" 1919, p.1）。
 > - **1919–1921 — 激进三段论的形成与温和警告的淹没**编辑部成员蒋琦（1919）曾警告新教育对旧教育应“修正而非对立、演进而非原创”。但这一温和建言迅速被激进逻辑淹没——激进派构建了“旧社会已腐烂 → 唯有新教育能造新国民 → 教育不必迁就现实而应改造社会”的三段论。蒋梦麟（1919e）断言“新旧调和，殆无余地”，主张将学生隔离于不良社会环境，在学校建立“理想国的理想公民”。
-> - **1919–1921 — 杜威巡回讲演与被选择性接收**杜威在华两年间巡回11省讲演200余场，明确提出实验主义（experimentalism）作为调和新旧的中介，强调教育重组“只能零碎地、一次一步地完成”（a step at a time），警告不可全盘推倒现有制度，民主需从地方社区自我改善做起（Dewey [1919–1921] 2007, pp.191–196, 251）。然而，这一一步一个脚印的方法论劝诫被急于求成的民国精英忽略。
+> - **1919–1921 — 杜威巡回讲演与被选择性接收**杜威在华两年间巡回11省讲演200余场，明确提出实验主义（experimentalism）作为调和新旧的中介，强调教育重组“只能零碎地、一次一步地完成”（a [[Skills Toward Employment and Productivity|step]] at a time），警告不可全盘推倒现有制度，民主需从地方社区自我改善做起（Dewey [1919–1921] 2007, pp.191–196, 251）。然而，这一一步一个脚印的方法论劝诫被急于求成的民国精英忽略。
 
 > [!exegesis]- 形象比喻：局部修葺旧房与推倒重建新楼的路线之争
 > 蒋梦麟等激进派的教育改革设想类似于“旧房破烂漏水，必须全盘推倒，按最现代的美式图纸重建一座新楼”。而杜威在华演讲传达的真实立场则是“住户仍住在旧房中，不能让他们流离失所；必须一间房一间房地修缮（piecemeal），在修缮中根据住户的实际生活需求调整方案”。

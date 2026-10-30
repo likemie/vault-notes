@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Attrition]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 六大清算中心对 CIS 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 清算中心 | 最终底线评级结论 | 核心支撑实证池与文献来源 | 评级推导机制与方法学裁量依据 |
+> | 清算中心 | 最终底线评级结论 | 核心支撑实证池与[[Document\|文献]]来源 | 评级推导机制与方法学裁量依据 |
 > |:---|:---|:---|:---|
 > | **[[National Dropout Prevention Center\|NDPC]]** | **Strong Evidence**<br>(强力推荐·最高级) | 声称依据多项学生级 [[Randomised Controlled Trials\|RCT]] 和 1 项学校级 [[Quasi-Experimental Designs\|QED]] | **未公开具体篇目**；宣称项目在出勤、[[Academic Achievement\|GPA]]、学分、初中读写及高中防辍上全面卓越。 |
 > | **PPN** | **Promising（有望）**<br>(历史认证推荐) | Urban Institute 评估报告 (Rossman & Morley, 1995) | 基于多地点准[[Experimental Research\|实验研究]]，但**干预组与比较组完全未实施任何匹配控制**。 |

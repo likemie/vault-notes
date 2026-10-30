@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Positivism]]"
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Scientific Method]]"
   - "[[School Autonomy]]"
   - "[[School Leadership]]"
@@ -86,7 +87,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2018
 doi: 10.1002/berj.3338
 citation_aliases:
@@ -133,7 +134,7 @@ citation_aliases:
 > |----------|------|
 > | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
 > | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
-> | **理论文献样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
+> | **理论[[Document\|文献]]样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
 

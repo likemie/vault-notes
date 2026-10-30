@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,12 +26,16 @@ tags:
 related_concepts:
   - "[[Megascience Installations]]"
   - "[[Paradigm]]"
+  - "[[National Innovation System]]"
   - "[[Research Universities]]"
   - "[[Big Science]]"
+  - "[[Convergence Research]]"
   - "[[Knowledge Production]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Natural Science Foundation of China]]"
+  - "[[Project 211]]"
+  - "[[Project 985]]"
   - "[[China S&T Innovation Policy Evolution]]"
   - "[[Academic Ranking of World Universities]]"
 related_arguments:
@@ -39,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -71,10 +75,10 @@ updated: 2026-10-26
 >
 > - **1986–至今** **科技体制改革与国家双轨竞合**
 >
->   随着国家创新体系改革与现代大学制度推进，中科院与高校系统形成了竞合格局。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+>   随着[[National Innovation System|国家创新体系]]改革与现代大学制度推进，中科院与高校系统形成了竞合格局。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 >
 >   - **1986** 中国仿照[[National Science Foundation|美国国家科学基金会]]（NSF）设立[[National Natural Science Foundation of China|国家自然科学基金委员会]]（NSFC），推行竞争性面上与重点项目评审。
->   - **1990s** 随着国家“211工程”与“985工程”启动，顶尖[[Research Universities|研究型大学]]迅速崛起，但在国家学术研发支出与[[Big Science|大科学]]设施布局上，中科院仍稳固占据着至少三分之二的体量。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+>   - **1990s** 随着国家“[[Project 211|211工程]]”与“[[Project 985|985工程]]”启动，顶尖[[Research Universities|研究型大学]]迅速崛起，但在国家学术研发支出与[[Big Science|大科学]]设施布局上，中科院仍稳固占据着至少三分之二的体量。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 ---
 
@@ -106,7 +110,7 @@ updated: 2026-10-26
 
 > [!finding-cards] 关键成效与辐射影响
 > - **国家战略科技任务支撑** 集中力量的组织建制保障了国家重大战略科研任务的高效攻关与关键领域突破。
-> - **科教融合研究生培养范式** 中科院自设研究生院并依托实体研究所开展高层次人才培养，弥补了传统苏联科学院不带研究生的缺陷，形成独特的东亚科研院所办学体制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+> - **科教[[Convergence Research|融合研究]]生培养范式** 中科院自设研究生院并依托实体研究所开展高层次人才培养，弥补了传统苏联科学院不带研究生的缺陷，形成独特的东亚科研院所办学体制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 > [!stat-cards]- 核心规模数据
 > - **>66%** 占据国家学术研发支出与[[Big Science|大科学]]设施体量份额。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]

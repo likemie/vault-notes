@@ -13,7 +13,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ tags:
   - theme/policy-borrowing
 related_concepts:
   - "[[Intangible Spiritual Forces]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-26
 > - **外部学者与特约撰稿网络** 广泛委托大学学者、地方督学及外国本土教育专家撰写国别专题报告，构建起早期跨国政策研究共同体。
 
 > [!pathways] 业务运行机制
-> - **实地调研与立法文献考据** 结合一手官方立法公文、视学规程、课程标准与一线学校实地考察。
+> - **实地调研与立法[[Document|文献]]考据** 结合一手官方立法公文、视学规程、课程标准与一线学校实地考察。
 > - **以核心参照系为枢纽展开对比** 米特指出，OSIR 并非泛泛罗列全球琐碎信息，而是以德国等工业强国为核心参照系，紧扣英国面临的工业竞争现实开展结构化对比。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
 > - **政策转化与地方咨询** 调研成果不仅汇编出版为国家报告，更通过官方咨询渠道直接指导地方教育当局（LEAs）的中等学校重构。
 

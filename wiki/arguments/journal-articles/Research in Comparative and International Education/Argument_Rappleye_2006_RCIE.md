@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Interpretivism]]"
   - "[[Concept Mapping]]"
+  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Coding Education]]"
 related_theories: []
@@ -59,7 +60,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2006
 doi: ""
 citation_aliases:
@@ -199,7 +200,7 @@ citation_aliases:
 >
 > ### 第五步：阻力侧——结构阻力与抵制行动者
 >
-> 这是概念地图相对于既有文献最原创的贡献。既有研究几乎只关注"为什么某国教育有吸引力"，却很少追问"为什么某国教育没有吸引力"或"为什么转移没有发生"。这种不对称的关注，部分源于"吸引力"（attraction）这个词本身的暗示，它让研究者不自觉地只看向被吸引的一方。
+> 这是概念地图相对于既有[[Document|文献]]最原创的贡献。既有研究几乎只关注"为什么某国教育有吸引力"，却很少追问"为什么某国教育没有吸引力"或"为什么转移没有发生"。这种不对称的关注，部分源于"吸引力"（attraction）这个词本身的暗示，它让研究者不自觉地只看向被吸引的一方。
 >
 > 与推力侧对称，阻力侧也分结构层和人的层面：
 >

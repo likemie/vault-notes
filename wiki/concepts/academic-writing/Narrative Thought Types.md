@@ -4,7 +4,7 @@ aliases: ["叙事思想类型", "Tarshis narrative thoughts", "umbrella thoughts
 summary: "Tarshis (1982) 提出的学术叙事四层结构框架，将文本中的思想按功能分为伞式思想、大思想、小思想和注意力思想四种类型，用于诊断和改善学术写作者常见的结构失衡问题"
 type: concept
 domain: "academic-writing"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -13,6 +13,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -22,7 +23,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -56,7 +57,7 @@ updated: 2026-10-22
 
 注意力思想在学术文本中的具体体现是"路标"（road signs），如[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和假设（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。好的研究计划会在叙事中不时暂停，插入注意力思想来组织读者对即将呈现内容的预期，这种暂停本质上是为读者提供导航信息。
 
-组织性段落（organizing paragraph）是注意力思想在段落层面的典型形式，通常出现在[[Literature Review|文献综述]]的开头和结尾：开头段落告诉读者将覆盖哪些主题及其顺序，结尾段落总结读者应记住的核心要点。缺少组织性段落时，读者只能在没有地图的情况下穿行于大量文献之中。
+组织性段落（organizing paragraph）是注意力思想在段落层面的典型形式，通常出现在[[Literature Review|文献综述]]的开头和结尾：开头段落告诉读者将覆盖哪些主题及其顺序，结尾段落总结读者应记住的核心要点。缺少组织性段落时，读者只能在没有地图的情况下穿行于大量[[Document|文献]]之中。
 
 > [!example] 联邦基金申请中的注意力思想
 > 好的基金申请书是注意力思想的典范使用场景。申请书中，写作者会在叙事中不时暂停，提供对即将呈现内容的清晰预览。评审者需要在短时间内理解复杂的研究方案，良好的注意力思想设计直接关系到申请的成功率。

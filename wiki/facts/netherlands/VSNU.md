@@ -12,7 +12,7 @@ subtype: organization
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Steering at a Distance]]"
   - "[[Academic Freedom]]"
+  - "[[Document]]"
   - "[[Policy Network]]"
 related_theories:
   - "[[Neocorporatism]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-30
 ---
 
 ---
@@ -106,5 +107,5 @@ updated: 2026-10-15
 
 ---
 
-> [!evidence-grid] 相关文献索引
+> [!evidence-grid] 相关[[Document|文献]]索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证阐述 VSNU 在荷兰大学紧缩谈判与同行质量保障体系创制中的制度角色，剖析其作为[[Policy Network|政策网络]]核心节点的协商功能。

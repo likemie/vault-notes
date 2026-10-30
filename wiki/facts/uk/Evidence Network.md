@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[What Works Movement]]"
   - "[[School Leadership]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-10-26
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨部门循证政策文献库** 整合教育、社会关怀与刑事司法跨学科前沿实证，形成英国最早的跨领域循证方法论指引。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 331–333)]]
+> - **跨部门循证政策[[Document|文献]]库** 整合教育、社会关怀与刑事司法跨学科前沿实证，形成英国最早的跨领域循证方法论指引。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 331–333)]]
 > - **政策简报与实践指南体系** 针对处境不利学生学业干预、学校领导力与课堂评价等关键议题发布面向决策者的高密度摘要。
 > - **跨界研讨与专业对话平台** 常态化举办学术界、智库与政府官员共同参与的政策研讨会，构建非交易性的制度化互动空间。
 

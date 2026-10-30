@@ -9,7 +9,7 @@ summary: "美国著名演化经济学家、创新经济学哥伦比亚学派领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Chris Freeman]]"
   - "[[Bengt-Åke Lundvall]]"
 related_facts:
+  - "[[European Commission]]"
   - "[[National Science Foundation]]"
   - "[[National Academy of Sciences]]"
   - "[[OECD]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > [!citation-card] 人物定位的关键来源
 > 正如对十几个国家创新系统的主要比较研究所阐明的那样（Nelson (ed.), 1993），国家创新系统的差异在美、日、欧之间以及欧洲各国内部同样极其显著；形式增长理论与数学模型无法提供有效解释，因为最有趣的现象全部被局限在无法被令人满意地分解的‘余值’（residual）之中，并涉及深层的系统互依性（Nelson, 1973）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15, 20)]]
 >
-> *Differences in national systems are also very important between Japan, the United States and the EC and between European countries themselves, as the major comparative study between more than a dozen national systems of innovation illustrates (Nelson (ed.), 1993)... Nor did formal growth theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved (Nelson, 1973).*
+> *Differences in national systems are also very important between Japan, the United States and the [[European Commission|EC]] and between European countries themselves, as the major comparative study between more than a dozen national systems of innovation illustrates (Nelson (ed.), 1993)... Nor did formal growth theory and models provide much help since most of the interesting phenomena were confined to a 'residual' which could not be satisfactorily disaggregated and because of the interdependencies involved (Nelson, 1973).*
 
 ---
 

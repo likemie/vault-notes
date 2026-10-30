@@ -9,7 +9,7 @@ aliases:
 summary: "约翰·科特提出的组织变革领导力经典理论，将成功的复杂组织变革提炼为营造变革氛围、动员全员参与、实施并固化变革三大阶段与八个递进步骤。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_methods:
 related_persons:
   - "[[Kurt Lewin]]"
 related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[CHIPS and Science Act]]"
   - "[[Texas A&M Semiconductor Institute]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-22
 > - **知识位置** 植根于卢因（[[Kurt Lewin]]）变革三阶段论（解冻—变革—再冻结），发展为现代组织管理与高等教育学术治理变革的主流领导力[[Analytic Framework|分析框架]]。
 
 > [!claim] 核心判断
-> 科特八步变革模型（Kotter's 8-Step Change Model）主张深层组织变革必须遵循不可颠倒的递进次序；变革若要成功，领导层必须首先在组织内部**营造变革氛围**（建立紧迫感、组建领导专班、制定战略愿景），进而**动员赋能全员**克服障碍，最终通过创造短期成效将变革**巩固并固化于[[Organizational Culture|组织文化]]与常态化制度**之中。在高校有组织科研应对国家重大科技战略转型中，该理论解释了为什么必须率先设立跨学科专班打破传统学系孤岛并最终制度化为实体研究院。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
+> 科特八步变革模型（Kotter's 8-[[Skills Toward Employment and Productivity|Step]] Change Model）主张深层组织变革必须遵循不可颠倒的递进次序；变革若要成功，领导层必须首先在组织内部**营造变革氛围**（建立紧迫感、组建领导专班、制定战略愿景），进而**动员赋能全员**克服障碍，最终通过创造短期成效将变革**巩固并固化于[[Organizational Culture|组织文化]]与常态化制度**之中。在高校有组织科研应对国家重大科技战略转型中，该理论解释了为什么必须率先设立跨学科专班打破传统学系孤岛并最终制度化为实体研究院。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
 
 ---
 

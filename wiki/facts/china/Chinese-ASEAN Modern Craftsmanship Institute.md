@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Internationalization of Vocational Education]]"
   - "[[Industry-Education Integration Community]]"
   - "[[Emergent Talents]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-10-26
 > | [[Internationalization of Vocational Education]] | Concept | 现代工匠学院所体现的职业教育高水平制度型对外开放。 |
 > | [[Industry-Education Integration Community]] | Concept | 现代工匠学院作为校企协同实体化办学平台所依托的组织形态。 |
 > | [[Emergent Talents]] | Concept | 现代工匠学院重点面向产业链需求培育的目标人才规格。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 系统记录现代工匠学院部区协同模式与在东盟布局 17 所案例的核心论证文献。 |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 系统记录现代工匠学院部区协同模式与在东盟布局 17 所案例的核心论证[[Document\|文献]]。 |
 
 ---
 

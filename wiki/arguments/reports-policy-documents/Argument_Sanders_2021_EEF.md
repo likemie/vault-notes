@@ -1,7 +1,19 @@
 ---
 summary: "学校集群随机试验未发现综合成绩收益，原五年级队列阅读单项呈负向显著结果，免费校餐资格亚组估计不确定"
 type: "argument"
-authors: ["Sanders, M.", "Ní Chonaire, A.", "Tamma, F.", "Groot, B.", "Carr, D.", "Heal, J.", "Wiese, J.", "Breathnach, S.", "Crouch, L.", "Barnard, M.", "Wright, H.", "Lawrence, J."]
+authors:
+  - "Sanders, M."
+  - "Ní Chonaire, A."
+  - "Tamma, F."
+  - "Groot, B."
+  - "Carr, D."
+  - "Heal, J."
+  - "Wiese, J."
+  - "Breathnach, S."
+  - "Crouch, L."
+  - "Barnard, M."
+  - "Wright, H."
+  - "Lawrence, J."
 source_language: "en"
 citation: "Sanders, M., Ní Chonaire, A., Tamma, F., Groot, B., Carr, D., Heal, J., Wiese, J., Breathnach, S., Crouch, L., Barnard, M., Wright, H., & Lawrence, J. (2021). Visible Classroom: Re-grant evaluation report. Education Endowment Foundation."
 year: 2021
@@ -12,29 +24,42 @@ citation_aliases:
 isbn: ""
 tags: ["eef", "visible-classroom", "teacher-professional-development"]
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Cluster Randomized Trials]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Ordinary Least Squares]]"
+  - "[[Standard Error]]"
   - "[[Complier Average Causal Effect]]"
+  - "[[Random Assignment]]"
   - "[[Semi-structured Interview]]"
+  - "[[Implementation and Process Evaluation]]"
+  - "[[Sample Size Determination]]"
+  - "[[Effect Size]]"
 related_facts:
   - "[[Visible Classroom Programme]]"
+  - "[[National Pupil Database]]"
 related_arguments: []
 sources:
   - "[[sources/Sanders_2021_EEF/Sanders_2021_EEF|Sanders_2021_EEF]]"
+related_concepts:
+  - "[[Free School Meals]]"
+  - "[[Initial Teacher Training]]"
+  - "[[Variable]]"
 status: "active"
 created: "2026-10-28"
-updated: "2026-10-28"
+updated: 2026-10-30
 subtype: "report"
 publication_type: "report"
 title: "Argument_Sanders_2021_EEF"
 argument_key: "Argument_Sanders_2021_EEF"
 argument_display_title: "Visible Classroom: Re-grant evaluation report"
 argument_kind: "report"
-argument_related_count: 4
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
 publisher: "Education Endowment Foundation"
-issuing_organization: "Education Endowment Foundation"
+issuing_organization: "[[Education Endowment Foundation]]"
 ---
 
 ---
@@ -43,16 +68,16 @@ issuing_organization: "Education Endowment Foundation"
 > 在开发团队提供培训、转写编码与反馈的条件下，[[Visible Classroom Programme|可见课堂项目]]能否改善小学学生的数学与阅读成绩；实施参与和学校反馈文化如何影响教师使用项目？
 
 > [!claim] 综合成绩收益缺少试验支持，原五年级队列阅读结果提示负向影响
-> 两个入组队列的数学与阅读综合成绩点估计均为负，95% 置信区间包含零。单科分析中，原五年级队列的阅读成绩呈负向显著结果。免费校餐资格亚组的综合成绩效应均未达统计显著，区间仍容纳正向和负向影响。（pp. 4–5, 32–35）
+> 两个入组队列的数学与阅读综合成绩点估计均为负，95% [[Confidence Interval|置信区间]]包含零。单科分析中，原五年级队列的阅读成绩呈负向显著结果。[[Free School Meals|免费校餐]]资格亚组的综合成绩效应均未达统计显著，区间仍容纳正向和负向影响。（pp. 4–5, 32–35）
 
 > [!method-panel] 研究设计与估计对象
 >
 > | 方法 | 实施与解释 |
 > | --- | --- |
 > | [[Cluster Randomized Trials\|集群随机试验]]（Cluster Randomized Trial） | 学校随机进入干预或常规教学组；按校级免费校餐资格比例、2010—2011 年第一关键阶段成绩及名额准入方式分层，交付团队不参与分配。 |
-> | 意向治疗分析（Intention-to-Treat Analysis，ITT） | 普通最小二乘回归控制分层变量和学生第一关键阶段成绩，标准误按学校聚类；按入组年级分别估计，以调整后的回归系数和未调整总方差计算 Hedges g。 |
-> | 亚组与敏感性分析 | 免费校餐资格按国家学生数据库（National Pupil Database，NPD）的 EVERFSM_6_P 指标界定；缺失基线按学校均值插补，再排除缺失基线学生复核。 |
-> | [[Complier Average Causal Effect\|顺从者平均因果效应]]（Complier Average Causal Effect，CACE） | 以随机分组为工具，用两阶段最小二乘估计依从效应；累计至少十次录课或第二年至少五次视为达标。 |
+> | [[Intent-to-Treat Analysis\|意向治疗分析]]（Intention-to-Treat Analysis，[[Initial Teacher Training\|ITT]]） | [[Ordinary Least Squares\|普通最小二乘回归]]控制分层[[Variable\|变量]]和学生第一关键阶段成绩，[[Standard Error\|标准误]]按学校聚类；按入组年级分别估计，以调整后的回归系数和未调整总方差计算 Hedges g。 |
+> | 亚组与敏感性分析 | 免费校餐资格按[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）的 EVERFSM_6_P 指标界定；缺失基线按学校均值插补，再排除缺失基线学生复核。 |
+> | [[Complier Average Causal Effect\|顺从者平均因果效应]]（Complier Average Causal Effect，CACE） | 以[[Random Assignment\|随机分组]]为工具，用两阶段最小二乘估计依从效应；累计至少十次录课或第二年至少五次视为达标。 |
 > | [[Semi-structured Interview\|半结构化访谈]]（Semi-structured Interview） | 目的抽样覆盖教师和导师的不同角色与参与程度，逐行编码后组织主题，辅以培训观察及材料审阅。 |
 >
 > （pp. 13–20）
@@ -80,8 +105,8 @@ issuing_organization: "Education Endowment Foundation"
 ### 延长实施保留了学校随机分配，但两个队列的暴露时间不同
 
 > [!policy-design] 实施与设计变更
-> - **招募与分配** 154 校申请、138 校合格，112 校签署备忘录，随机分配前再有 26 校退出，最终 86 校进入随机分配。（p. 14）
-> - **时间** 招募为 2016 年 4—9 月，2016 年 9 月随机分配，9—10 月培训，干预全面实施为 2016 年 9 月至 2018 年 6 月；2017 年和 2018 年 5—7 月开展过程评估。（pp. 21–22）
+> - **招募与分配** 154 校申请、138 校合格，112 校签署备忘录，[[Random Assignment|随机分配]]前再有 26 校退出，最终 86 校进入随机分配。（p. 14）
+> - **时间** 招募为 2016 年 4—9 月，2016 年 9 月随机分配，9—10 月培训，干预全面实施为 2016 年 9 月至 2018 年 6 月；2017 年和 2018 年 5—7 月开展[[Implementation and Process Evaluation|过程评估]]。（pp. 21–22）
 > - **延长原因** 招募不足和功效担忧使一个学年延长为两个学年；决定延长时尚不知道首年结果。原五年级队列因而可能在第二年继续接触干预，原六年级队列在首年离开小学。（pp. 13, 15, 52）
 > - **剂量变更** 首年三轮、最多十五次录课；次年降为两轮、最多六次。分析依从标准增加了第二年至少五次的路径，137 名教师（81%）达标。（pp. 18, 20, 36）
 
@@ -103,7 +128,7 @@ issuing_organization: "Education Endowment Foundation"
 
 > [!effect-summary] 主要与单科分析（表 15、17）
 >
-> | 队列与指标 | 干预组均值（95% 置信区间） | 对照组均值（95% 置信区间） | Hedges g（95% 置信区间） | p | 样本量 |
+> | 队列与指标 | 干预组均值（95% [[Confidence Interval\|置信区间]]） | 对照组均值（95% 置信区间） | Hedges g（95% 置信区间） | p | [[Sample Size Determination\|样本量]] |
 > | --- | --- | --- | --- | ---: | ---: |
 > | 原五年级，数学与阅读综合 | 109.32（107.86, 110.78） | 113.79（112.34, 115.23） | −0.09（−0.22, 0.04） | 0.191 | 3,337 |
 > | 原六年级，数学与阅读综合 | 106.68（105.22, 108.13） | 109.71（108.21, 111.22） | −0.05（−0.19, 0.09） | 0.55 | 3,597 |
@@ -114,13 +139,13 @@ issuing_organization: "Education Endowment Foundation"
 >
 > 每个年级内，各指标的干预组／对照组样本数分别相同。综合成绩属于主要分析，单科属于预设次要分析。报告将两个综合成绩点估计均换算为少进步一个月，将原五年级阅读换算为少进步两个月；主要结果获四级证据强度，因缺少对照校教学实践信息扣一级。（pp. 4–5, 17, 32–34）
 
-> [!ref-table]- 综合成绩效应量的计算参数（表 16、19）
+> [!ref-table]- 综合成绩[[Effect Size|效应量]]的计算参数（表 16、19）
 >
 > | 对象 | 未调整均值差 | 调整后均值差 | 干预组方差 | 对照组方差 | 合并方差 |
 > | --- | ---: | ---: | ---: | ---: | ---: |
 > | 原五年级全体 | −4.47 | −2.64 | 922.34 | 907.24 | 914.78 |
 > | 原六年级全体 | −3.04 | −1.38 | 1,028.40 | 1,020.50 | 1,024.59 |
-> | 原五年级免费校餐资格亚组 | −6.77 | −0.94 | 1,072.23 | 994.11 | 1,034.44 |
+> | 原五年级[[Free School Meals\|免费校餐]]资格亚组 | −6.77 | −0.94 | 1,072.23 | 994.11 | 1,034.44 |
 > | 原六年级免费校餐资格亚组 | −2.01 | 1.15 | 1,170.08 | 1,114.81 | 1,144.38 |
 >
 > 调整后均值差为模型处理系数，人口方差均未提供。（pp. 32, 35）
@@ -146,7 +171,7 @@ issuing_organization: "Education Endowment Foundation"
 
 > [!ref-table]- 排除缺失第一关键阶段成绩的敏感性分析（表 20–21）
 >
-> | 指标 | 原五年级系数（学校聚类标准误） | n | 原六年级系数（学校聚类标准误） | n |
+> | 指标 | 原五年级系数（学校聚类[[Standard Error\|标准误]]） | n | 原六年级系数（学校聚类标准误） | n |
 > | --- | --- | ---: | --- | ---: |
 > | 数学与阅读综合 | −2.717（2.004） | 3,225 | −1.489（2.267） | 3,425 |
 > | 数学 | −1.546（1.563） | 3,225 | −0.756（1.780） | 3,425 |
@@ -158,7 +183,7 @@ issuing_organization: "Education Endowment Foundation"
 >
 > | 分析 | 原五年级系数（学校聚类标准误） | n | 原六年级系数（学校聚类标准误） | n |
 > | --- | --- | ---: | --- | ---: |
-> | CACE | −3.780（2.855） | 3,337 | −1.965（3.232） | 3,597 |
+> | [[Complier Average Causal Effect\|CACE]] | −3.780（2.855） | 3,337 | −1.965（3.232） | 3,597 |
 > | 每增加一次录课的描述性关联 | −0.279（0.170） | 1,387 | −0.171（0.186） | 1,579 |
 >
 > 两项分析在两个队列均未达统计显著。CACE 第一阶段 F 为 34.4 与 50.9；剂量分析仅纳入教师实际上传录课的学生，录课次数可能与教师动机相关，回归系数不足以识别多录一课的因果效应。（pp. 18, 36–37）

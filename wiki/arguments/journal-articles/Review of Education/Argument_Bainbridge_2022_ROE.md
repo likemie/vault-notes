@@ -11,9 +11,9 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Review of Education
 citation: "Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335."
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Comprehensive Education]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
+  - "[[Free School Meals]]"
   - "[[Open-Mindedness]]"
   - "[[Research Scope]]"
   - "[[Internal and External Generalizability]]"
@@ -52,7 +54,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -106,7 +108,7 @@ citation_aliases:
 
 ## 论证结构
 
-1. **[[Literature Review|文献综述]]三阶段** 审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的文献 → 提供选择性教育研究证据与政党宣言概述
+1. **[[Literature Review|文献综述]]三阶段** 审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的[[Document|文献]] → 提供选择性教育研究证据与政党宣言概述
 2. **[[Descriptive Analysis|描述统计]]分析（Findings 1）** 以 NVivo 编码议会辩论，识别主题频率和党派分布，发现"好学校"[[Discourse|话语]]的主导地位——164 次提及，保守党 125 vs 工党 30
 3. **轶事分析（Findings 2）** 识别议会辩论中轶事证据的使用模式——保守党使用[[Grammar School|文法学校]]轶事的频率是工党两倍以上（18 vs 8）；31/67 次轶事直接关涉文法学校
 4. **[[Carnivalesque Analysis|嘉年华式分析]]（Findings 3）** 以玩味态度外推政策逻辑——若所有 [[Ofsted]] 评级 good/outstanding 学校均获同等扩展资金，总预算将超 £84 亿
@@ -166,7 +168,7 @@ citation_aliases:
 对 2016 年"教育与社会流动性"辩论的详细论证分析（73 次提及文法学校，19 次非轶事证据交换）揭示了五种证据回应模式：
 
 **模式 1：证据被接受并回应**（6 次）
-- 例：Siobhain McDonagh MP (Labour) 以证据回应 Justine Greening 的证据——"currently only 3% of kids on free school meals go to grammar schools"
+- 例：Siobhain McDonagh MP (Labour) 以证据回应 Justine Greening 的证据——"currently only 3% of kids on [[Free School Meals|free school meals]] go to grammar schools"
 
 **模式 2：证据被回避**（6 次）
 - 当被直接要求提供证据时（"give us one piece of evidence that suggests that grammar schools would improve educational outcomes"），Greening 以"We know that…"开头回避，代之以 Ofsted 评级话语——"1.4 million more children are being taught in schools that are good or outstanding than in 2010"

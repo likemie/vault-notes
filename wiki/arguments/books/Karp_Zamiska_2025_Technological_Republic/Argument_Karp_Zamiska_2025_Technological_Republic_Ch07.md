@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_display_title: "A balloon cut loose"
 argument_kind: "book-chapter"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Grandes Ecoles]]"
   - "[[Paradigm]]"
+  - "[[Diversity Courses]]"
   - "[[Value Neutrality]]"
   - "[[Cultural Relativism]]"
   - "[[Epoché]]"
@@ -83,7 +84,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -159,7 +160,7 @@ updated: 2026-10-22
 > - **1968年冬春 — 时代剧震与合法性危机** 越战春季攻势（Tet Offensive）瓦解美国必胜信念；马丁·路德·金（Martin Luther King Jr.）与罗伯特·F·肯尼迪（Robert F. Kennedy）相继遇刺身亡，[[Grandes Ecoles|大学校]]园爆发广泛反战与民权抗议。传统大叙事与社会现实产生不可调和的撕裂。
 > - **1968年11月 — 帕克委员会裁定已死或垂死** 斯坦福大学十人教育研究委员会（包含教授、行政人员及一名哲学系本科生）发布报告，裁定西方文明必修课模式在全美范围内已处于已死或垂死（dead or dying）状态。
 > - **1969年 — 斯坦福正式终止西方文明必修课** 《斯坦福日报》评论该课程的谢幕伴随着一声叹息而非一声轰鸣（with a whimper and not a bang）；正如历史学家吉尔伯特·阿拉迪斯（Gilbert Allardyce）所总结，抗议学生遭遇的是早已准备好撤退的教授会（pp. 87–88）。
-> - **1976年12月 — 历史学会年会正式宣告旧[[Paradigm|范式]]终结** 切耶特发表标志性演说，西方正典大纲被广泛拆解，全美高校转向自由选修与多元文化课程模式（pp. 83, 86–87）。
+> - **1976年12月 — 历史学会年会正式宣告旧[[Paradigm|范式]]终结** 切耶特发表标志性演说，西方正典大纲被广泛拆解，全美高校转向自由选修与[[Diversity Courses|多元文化课程]]模式（pp. 83, 86–87）。
 
 > [!case] 图斯曼质疑选目武断性与编辑特权
 > 在课程拆解过程中，批评者往往聚焦于大纲选目的武断性。例如加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（[[Joseph Tussman]]）在1968年发问：既然选了柏拉图，为何不选[[Aristotle|亚里士多德]]？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选马克思？（p. 88）。然而，这种技术性的篇目编辑争议掩盖了更为本质的文明断裂。

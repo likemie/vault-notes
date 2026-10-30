@@ -32,21 +32,23 @@ related_methods:
   - "[[Critical Companion]]"
 related_persons: []
 related_facts:
+  - "[[National Research Council]]"
   - "[[OECD]]"
+  - "[[European Commission]]"
 related_arguments: []
 sources:
   - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch15_Zelinka_2022|Ch15_Zelinka_2022]]"
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and subjectivities of the (new) geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -71,7 +73,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > 该章采用批判性[[Discourse Analysis\|话语分析]]（critical [[Discourse]] analysis）方法，具体做法为：
-> - **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年。
+> - **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, [[National Research Council|NRC]], ATCS, WEF, [[OECD]], [[European Commission|EC]]），时间跨度超过 15 年。
 > - **[[Critical Companion\|批判性伴随]]（critical companion）** 不提供传统的系统性[[Literature Review\|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
 > - **精细化分析（fine-grained analysis）** 在总体检视后，聚焦三组"张力对"（tension-pairs）来更细致地揭示主体性的生产过程(p.260)。
 

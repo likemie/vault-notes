@@ -8,7 +8,7 @@ summary: "英国比较政治学家（1933–2019），斯特拉斯克莱德大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,8 @@ tags:
   - theme/lesson-drawing
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Document]]"
+  - "[[Construct]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Externalization]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-10-26
 > - **1958** 获英国牛津大学（Lincoln College）政治学博士学位，随后留英从事学术，逐渐成为英国比较政治学研究的领军人物。
 > - **1966–2005** 在英国格拉斯哥斯特拉斯克莱德大学担任政治学教授，建立并长期主持跨国选举与政府比较研究项目（CSPP，Centre for the Study of Public Policy）。
 > - **1976–1979** 担任英国政治研究学会（Political Studies Association）主席，推动比较方法论在英国政治学界的制度化。
-> - **1993** 出版《从别处汲取经验：政策转移指南》（*Lesson-Drawing in Public Policy: A Guide to Learning from Abroad*），系统奠定政策经验汲取理论的[[Analytic Framework\|分析框架]]，成为比较政策与教育[[Policy Borrowing\|政策借用]]研究的必读奠基文献。
+> - **1993** 出版《从别处汲取经验：政策转移指南》（*Lesson-Drawing in Public Policy: A Guide to Learning from Abroad*），系统奠定政策经验汲取理论的[[Analytic Framework\|分析框架]]，成为比较政策与教育[[Policy Borrowing\|政策借用]]研究的必读奠基[[Document|文献]]。
 > - **2005** 转任荣休教授，持续发表关于选举政治与政策比较的著述。
 > - **2019** 在英国辞世，享年 86 岁。
 
@@ -98,7 +100,7 @@ updated: 2026-10-26
 > 罗斯的核心论点之一是：政策学习从外部寻找经验的冲动，往往由国内政策危机、公众对现行政策的强烈不满或日益迫切的政策失败感所触发，而非单纯来自对他国成功案例的仰慕。这意味着"外部参照"本质上是一种主权国家自主建构的政治合法化工具，而非被动的知识输入。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
 
 > [!claim] 经验汲取在微观科层与发展情境下的延伸与边界
-> 戴安·斯通等人拓展并审视了罗斯的经验汲取构念在跨国流动中的多维表现：
+> 戴安·斯通等人拓展并审视了罗斯的经验汲取[[Construct|构念]]在跨国流动中的多维表现：
 > - **微观行政科层中的日常经验汲取** 在重大立法与政治倡议之外，政府内部的统计分析师、法务顾问与议会研究员通过日常比对跨国规章条例与实操案例，在操作细节上稳步推进规程微调，构成了政策经验汲取最普遍的日常机制。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 6)]]
 > - **非对称权力情境下的理论适用边界** 罗斯经典经验汲取模型预设了主权国家具备充分行政能力开展自主理性的方案搜寻与自由采择；但在全球南方与低收入国家情境下，国家能力的局限与多边援助机构的资金绑定，常使经验汲取异化为对外部标准化模板的被动依附。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 4, 11–12)]]
 

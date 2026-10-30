@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 背景
@@ -55,7 +56,7 @@ updated: 2026-10-22
 >
 > ### 教师质量的量化后果([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, p.7]])
 >
-> Wiliam 提供了此前文献中未充分量化的教师质量恶化数据：
+> Wiliam 提供了此前[[Document|文献]]中未充分量化的教师质量恶化数据：
 >
 > - 加州未认证教师比例从 1990 年的**约 1/200** 飙升至 1997 年的**约 1/8（Jepsen & Rivkin, 2002）**
 > - 新教师和未认证教师并非在全州范围内[[Random Assignment\|随机分配]]——Randy Ross (1999) 记录了许多有经验的教师**离开城市学校**到更富裕地区担任新设立的职位

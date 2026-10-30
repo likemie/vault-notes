@@ -8,7 +8,7 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientifically Based Research]]"
   - "[[Research Utilization]]"
+  - "[[Document]]"
 related_theories:
   - "[[Six-Stage Model of Policymaking]]"
   - "[[Research Utilization Models]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -230,7 +231,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 奠基性文献：提出教育研究者政策导航框架，系统剖析[[Policymaking Chronosystem\|政策制定时间系统]]、四阶段介入机会窗口与[[Legislative Policy Brief\|立法政策简报]]机制。
+> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 奠基性[[Document|文献]]：提出教育研究者政策导航框架，系统剖析[[Policymaking Chronosystem\|政策制定时间系统]]、四阶段介入机会窗口与[[Legislative Policy Brief\|立法政策简报]]机制。
 > - Oakley et al. (2013) — 理论前提：[[Six-Stage Model of Policymaking\|公共政策六阶段模型]]（Oakley 等），为四阶段导航框架提供阶段论基础。
 > - Weiss (1977, 1989) — 理论源头：论证政策制定关乎价值选择，以及国会常设委员会幕僚利用研究证据的长远视野。
 > - Nutley et al. (2002) — 四维证据吸纳框架：个人、研究契合、制度情境与政策执行可逆性。

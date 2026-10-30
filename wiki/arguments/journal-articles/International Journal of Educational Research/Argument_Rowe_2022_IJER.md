@@ -48,6 +48,7 @@ related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"
   - "[[David Gonski]]"
+  - "[[Diana Crane]]"
   - "[[Michael Gove]]"
   - "[[Michael Barber]]"
   - "[[Sir Kevan Collins]]"
@@ -74,14 +75,14 @@ sources:
 part_of:
 status: completed
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -185,7 +186,7 @@ issuing_organization: ""
 #### 1. 澳大利亚社会创投的十年游说轨迹与原型试验
 
 > [!dev-timeline] AERO 创生的十年关键政策演变（2002–2021, pp. 3–9）
-> - **2002 — SVA 创立** 在国家推行鼓励企业慈善立法背景下，由麦肯锡公司（McKinsey & Company）前高管罗伯特·麦克莱恩（Robert McLean）发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），注册为担保有限公司，引入风投资本纪律。
+> - **2002 — SVA 创立** 在国家推行鼓励企业慈善立法背景下，由麦肯锡公司（McKinsey & Company）前高管罗伯特·麦[[Diana Crane|克莱恩]]（Robert McLean）发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），注册为担保有限公司，引入风投资本纪律。
 > - **2011 — 英国设立 EEF** 英国教育大臣 [[Michael Gove]] 在前麦肯锡全球总裁 [[Michael Barber]] 理念影响下，利用缩减免费学生校餐的沉淀资金注资 1.25 亿英镑设立英国教育捐赠基金会（EEF）。
 > - **2014 — 试验原型 [[Evidence for Learning\|E4L]] 启动** 英国 EEF 与澳大利亚联邦银行联合出资，支持 SVA 成立全资中介子公司[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L），由商业律师 Matthew Deeble 掌舵，率先本土化 EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，作为国家证据经纪人的试验样板。
 > - **2016 — 生产力委员会[[National Education Evidence Base Inquiry\|国家教育证据基础审查]]** 联邦财长 Scott Morrison 委托生产力委员会开展国家教育证据基础审查；同期 SVA 董事 Richard Spencer 获委任为委员会社会政策专员；SVA 提交 50 页专项建议书，报告最终建议以英国 EEF 为蓝本建立本土机构。

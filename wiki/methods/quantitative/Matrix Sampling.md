@@ -11,7 +11,7 @@ summary: "大规模教育评估与心理测量中的试卷分本与抽样分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Commensuration]]"
   - "[[Technical Rationality]]"
 related_theories:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-10-29
 > | [[National Assessment of Educational Progress]] | 事实 | 率先在国家教育评估中系统引入矩阵抽样与群体推断的先驱项目。 |
 > | [[Australian Council for Educational Research]] | 事实 | 长期为 PISA 设计平衡不完全区组试卷架构的核心技术承包机构。 |
 > | [[Educational Testing Service]] | 事实 | 开创矩阵抽样与似真值[[Imputation Methods\|插补方法]]论体系的专业测量机构。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 脱离课程体系、依托矩阵抽样与数理建模构建跨国治理权威的文献。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 脱离课程体系、依托矩阵抽样与数理建模构建跨国治理权威的[[Document\|文献]]。 |
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析[[OECD\|经合组织]]如何将矩阵试卷研发外包给 ACER 并固定技术规程的文献。 |
 
 ---

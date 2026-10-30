@@ -8,10 +8,10 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环"
 type: concept
 domain: "higher-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - matthew-effect
   - higher-education
@@ -24,9 +24,15 @@ related_concepts:
   - "[[Quasi-markets in Higher Education]]"
   - "[[Non-monetary Competition]]"
   - "[[Return on Investment]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Variable]]"
+  - "[[Scientific Credit]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Pilot Testing]]"
+related_persons:
+  - "[[Dorothy Swaine Thomas]]"
 related_facts:
   - "[[Research Excellence Framework]]"
   - "[[Engineering Research Centers]]"
@@ -86,8 +92,8 @@ Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：�
 
 在科学界的奖励与承认系统维度，马太效应导致学术声誉向知名学者过度集中（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 147–150]]）：
 - **交流渠道与奖励渠道的分离** Merton（1968）将马太效应划分为两大运作渠道：一是学术交流渠道（以瑞利勋爵论文被拒为例，声望充当质量与可见度信号）；二是学术奖励系统（以沙特尔的伯纳德“站在巨人肩膀上”的名言被普遍误归于牛顿为例，探讨学术突破的优先权归属）（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, p. 148]]）。
-- **多作者合著中的声望吸附** 著名科学社会学家 Harriet Zuckerman（1977）对诺贝尔奖得主的访谈揭示：“世界在给予承认的方式上极其奇特，它往往把荣誉直接赋予已经成名的人。”当学术资历悬殊的学者共同署名时，知名学者即便仅提供了平台或宏观指导，共同体依然倾向于将成果的所有权归于成名学者，导致年轻学者的实质劳动被系统性遮蔽（如《美国的儿童》一书中多萝西·斯温·托马斯的理论贡献被长期忽略）（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 147–150]]）。
-- **青年学者合作的两难困境** 青年学者与顶尖导师或资深专家合署论著面临结构性悖论：与知名学者合著能够大幅提高文稿被同行阅读、接受与引用的概率，并能借此习得宝贵的默会知识；然而在学术声誉分配层面，该成果往往被永久打上资深学者的个人烙印，导致青年学者难以确立独立的学术贡献与领导地位（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 149–150]]）。
+- **多作者合著中的声望吸附** 著名科学社会学家 Harriet Zuckerman（1977）对诺贝尔奖得主的访谈揭示：“世界在给予承认的方式上极其奇特，它往往把荣誉直接赋予已经成名的人。”当学术资历悬殊的学者共同署名时，知名学者即便仅提供了平台或宏观指导，共同体依然倾向于将成果的所有权归于成名学者，导致年轻学者的实质劳动被系统性遮蔽（如《美国的儿童》一书中[[Dorothy Swaine Thomas|多萝西·斯温·托马斯]]的理论贡献被长期忽略）（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 147–150]]）。
+- **青年学者合作的两难困境** 青年学者与顶尖导师或资深专家合署论著面临结构性悖论：与知名学者合著能够大幅提高文稿被同行阅读、接受与引用的概率，并能借此习得宝贵的[[Tacit Knowledge|默会知识]]；然而在学术声誉分配层面，该成果往往被永久打上资深学者的个人烙印，导致青年学者难以确立独立的学术贡献与领导地位（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 149–150]]）。
 
 > [!warning] 为什么公平竞争加剧了马太效应？
 > 一个反直觉的发现是：表面上制造公平竞争的评估和排名制度，实际上**加速了**而非遏制了马太效应。原因在于：
@@ -100,18 +106,18 @@ Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：�
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | WSDM 2017 国际学术会议同行评审（同一文稿双向分流评审） | 随机对照双盲与单盲实验 | 知名学者与顶尖机构在单盲相对于双盲环境下的录用率优势 | 知名学者单盲录用率较双盲高 63%；顶尖大学高 58%；顶尖企业署名学者高 110% | 计算机领域顶级会议全量随机实验 | 证实评审人对高声望学者与机构存在显著正向倾斜的疑罪从无偏倚 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 维基百科前 1% 高产编辑社群随机实验 | 随机现场干预实验 | 随机赋予外生荣誉星章对后续编辑产出与真实荣誉获取的影响 | 实验组编辑中位数生产力提升 60%，且后续 90 天内赢得真实荣誉勋章显著增多 | 排除初始天赋差异的严格因果干预 | 证明外生赋予的声望认可独立于内在能力，直接启动自我强化的累积优势 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 维基百科前 1% 高产编辑社群随机实验 | 随机现场干[[Pilot Testing\|预实验]] | 随机赋予外生荣誉星章对后续编辑产出与真实荣誉获取的影响 | 实验组编辑中位数生产力提升 60%，且后续 90 天内赢得真实荣誉勋章显著增多 | 排除初始天赋差异的严格因果干预 | 证明外生赋予的声望认可独立于内在能力，直接启动自我强化的累积优势 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 物理学家引文网络追踪（顶尖学者 vs 助理教授） | 引文动态跨越模型 | 成果发表初期学术声望推动引用的经验阈值 $c_x$ | 顶尖学者跨越阈值 $c_x \approx 40$ 次引用；助理教授为 $c_x \approx 10$ 次引用 | 经验引文增长率拟合 | 证实声望仅在成果面世初期发挥 4 倍提振功能，长期依然取决于成果内在质量 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 阐述高等教育准市场与绩效评估机制如何推动学术资源向已有优势机构集中，形成制度化的学术马太效应。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合同行评审随机实验、早期引文跨越模型与维基百科现场干预，提供学术声望在微观成果评价与学术承认中诱发马太效应的直接因果证据。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合同行评审随机实验、早期引文跨越模型与维基百科现场干预，提供学术声望在微观成果评价与[[Scientific Credit|学术承认]]中诱发马太效应的直接因果证据。
 

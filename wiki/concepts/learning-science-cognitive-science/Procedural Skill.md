@@ -8,10 +8,10 @@ aliases:
 summary: "指个体在具体任务情境中应用规则、执行标准化操作序列与自动化解决良构问题的能力体系，在自适应教学微提示与刻意练习中极易实现图式编译与自动化运作。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - learning-science
   - cognitive-psychology
@@ -28,10 +28,12 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
+  - "[[Deliberate Practice]]"
   - "[[Working Memory]]"
   - "[[Dialogue in Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -69,7 +71,7 @@ updated: 2026-10-25
 > |---|---|---|---|
 > | **布鲁姆对应层级** | 识记（Remember）与理解（Understand） | 应用（Apply）与程序性分析 | 分析（Analyze）、评价（Evaluate）与创造（Create） |
 > | **表征形式** | 事实[[Concept Mapping\|命题网络]]、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity\|反思性]][[Metacognition\|元认知]]与发散模型 |
-> | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与刻意练习）** | 增益高度依赖显性[[Scaffolding\|教学支架]]与反思量规 |
+> | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与[[Deliberate Practice\|刻意练习]]）** | 增益高度依赖显性[[Scaffolding\|教学支架]]与反思量规 |
 
 ---
 
@@ -95,7 +97,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 结果变量（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | Hedges' $g$ | k = 42 | <span class="mx-bar ef-bar" title="Hedges' g 0.391"><span class="b8"></span></span>0.391 | [0.197, 0.584] | $Q = 409.56, I^2 = 90.0\%, p < .001$ |
 >

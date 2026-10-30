@@ -11,7 +11,7 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ tags:
   - theme/effect-size
   - field/research-methodology
 related_concepts:
-  - "[[Institutional Conversion]]"
   - "[[Variable]]"
   - "[[Scale of Measurement]]"
   - "[[Unit of Analysis]]"
@@ -63,13 +62,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Effect Size Conversion
-> [[Effect Size Conversion\|效应量转换]]（[[Effect Size]] [[Institutional Conversion|conversion]]）指在[[Meta-analysis\|元分析]]（Meta-analysis）与定量证据合成中，运用数学统计模型将来自不同研究设计、测量工具与数据类型（如实验组对照组均值差、相关系数、独立样本 $t$ 检验、二分[[Variable\|变量]]联列表等）的原始统计量，统一转换为可比较的标准化[[Effect Size\|效应量]]指标（如[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$、标准化均值差 $d$ 或 $g$）的系统化计算程序与数学推导体系。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
+> [[Effect Size Conversion\|效应量转换]]（[[Effect Size]] conversion）指在[[Meta-analysis\|元分析]]（Meta-analysis）与定量证据合成中，运用数学统计模型将来自不同研究设计、测量工具与数据类型（如实验组对照组均值差、相关系数、独立样本 $t$ 检验、二分[[Variable\|变量]]联列表等）的原始统计量，统一转换为可比较的标准化[[Effect Size\|效应量]]指标（如[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$、标准化均值差 $d$ 或 $g$）的系统化计算程序与数学推导体系。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 原始实证研究所汇报的各类[[Descriptive Analysis\|描述统计]]量与推断统计量（如均值、标准差、相关系数、[[Sample Size Determination\|样本量]]、$t$ 值、$F$ 值、卡方值、比值比等）。

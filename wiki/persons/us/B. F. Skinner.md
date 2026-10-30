@@ -8,7 +8,7 @@ summary: "美国著名心理学家，操作性行为主义奠基人，教学机�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
   - instructional-technology
   - learning-theory
 related_concepts:
+  - "[[Programmed Instruction]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Creativity]]"
   - "[[Neo-Taylorism]]"
+  - "[[Student Motivation]]"
   - "[[Operationalization]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （伯尔赫斯·弗雷德里克·斯金纳）
@@ -71,7 +73,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名心理学家、新[[Behaviorism|行为主义]]领衔人物，哈佛大学心理学系教授，美国国家科学奖章获得者。
 > - **核心角色** 创立操作性条件反射理论，系统阐明强化排程规律并研制出机械教学机器与程序教材，是将行为工程学全面引入教育与社会控制领域的思想中枢；其输入—输出与强化反馈机制直接开启了后世教学系统工程的大门。
-> - **代表贡献** 创立操作性条件反射（Operant Conditioning）体系与三项偶联框架（前因—行为—后果）；发明教学机器（Teaching Machines）并确立程序化教学（Programmed Instruction）的小步子、主动应答、即时确认与自定步调原则；其理论经学生[[Robert Glaser|罗伯特·格拉泽]]（[[Robert Glaser]]）中介，深刻形塑了[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中构建的可见[[Feedback|教学反馈]]回路。
+> - **代表贡献** 创立操作性条件反射（Operant Conditioning）体系与三项偶联框架（前因—行为—后果）；发明教学机器（Teaching Machines）并确立程序化教学（[[Programmed Instruction]]）的小步子、主动应答、即时确认与自定步调原则；其理论经学生[[Robert Glaser|罗伯特·格拉泽]]（[[Robert Glaser]]）中介，深刻形塑了[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中构建的可见[[Feedback|教学反馈]]回路。
 
 > [!citation-card] 斯金纳在实证教育理论中的思想史定位
 > 哈蒂早期在确立学生学习模型时，依附于格拉泽的教学系统论，而格拉泽的思想完全扎根于斯金纳的操作性条件反射体系。斯金纳将学习定义为外显行为在环境强化刺激下的频率改变，这种追求确定性因果控制的工程学逻辑，构成了当代实证[[Evidence-Based Education|循证教育]]深层隐匿的[[Technical Rationality|技术理性]]底色。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]
@@ -144,7 +146,7 @@ updated: 2026-10-22
 > > - **工程[[Positivism|实证主义]]倡导者** 视即时反馈与目标分解为提高教育效率、保障弱势群体达标的科学手段。
 > > - **[[Critical Theory|批判理论]]学派（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 论证斯金纳的[[Technical Rationality|技术理性]]回路消解了师生间的主体间承认，抽空了个体寻求生命意义的[[Intentionality|意向性]]，最终使教育沦为服务于[[Neo-Taylorism|新泰勒主义]]量化问责与行为操纵的管理工具。
 >
-> > [!axis] 学习动机异化：内在求知欲 vs 外在强化依赖
+> > [!axis] [[Student Motivation|学习动机]]异化：内在求知欲 vs 外在强化依赖
 > > 争论过度依赖外部奖励是否会损害学生长期的内在学习兴趣。
 > >
 > > - **行为主义设计者** 认为强化物能迅速启动并维持学业任务介入。

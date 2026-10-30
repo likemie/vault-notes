@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!example] ANT 分析
+> [!example] [[Actor-Network Theory|ANT]] 分析
 > [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] 使用[[Actor-Network Theory\|行动者网络理论]]分析 PCI，展示了传统[[Analytic Framework\|分析框架]]难以察觉的权力关系
 >
 > - **课堂延迟**。课堂系统性地延迟 15 到 20 分钟，原因是让每台电脑就位并通过 E-Learning Class 软件连接内部网络所需的冗长设置。

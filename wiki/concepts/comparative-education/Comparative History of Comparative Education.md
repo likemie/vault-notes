@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学学科史编纂方法论纲领，主张超越孤立的国别学科史与合法性起源神话，将比较视野、多中心历史、边缘学者与批判史学反思引入学科发展研究"
 type: concept
 domain: "comparative-education"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - subject/comparative-education
   - theme/historiography
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Perpetual Peace]]"
   - "[[Value Neutrality]]"
   - "[[Policy Borrowing]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -158,7 +157,7 @@ updated: 2026-10-29
 > **探讨维度　现代主义发端与母题解构** 探讨如何通过细读 19 世纪原始文本，解构将比较教育学发端单向度归结为实证[[Empiricism\|经验主义]]的辉格史叙事。
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism\|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，其二是[[Victor Cousin\|维克多·库森]]（Victor Cousin）与[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism\|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙[[Geisteswissenschaften|人文科学]]（*sciences humaines*）与全人道德重生的[[Perpetual Peace\|世界主义和平]]工程，而非 20 世纪[[Value Neutrality\|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
+> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism\|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，其二是[[Victor Cousin\|维克多·库森]]（Victor Cousin）与[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism\|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的[[Perpetual Peace\|世界主义和平]]工程，而非 20 世纪[[Value Neutrality\|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
 
 ---
 

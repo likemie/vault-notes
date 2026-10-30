@@ -8,9 +8,9 @@ aliases:
 summary: "由美国国家科学基金会资助、田纳西理工大学研发的跨学科真实情境表现性测验，由高校教师团队评分，将创造性问题解决与新信息整合内嵌于批判性思维评估中。"
 type: instrument
 instrument_type: test
-instrument_related_count: 9
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 10
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -33,6 +33,7 @@ tags:
   - performance-assessment
 related_concepts:
   - "[[Critical Thinking Assessment]]"
+  - "[[Scoring Rubrics]]"
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
   - "[[Creativity]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-16
 > - **工具类型** 基于教师校准的真实情境表现性测验（Faculty-Scored Real-World Performance Assessment）。
 > - **开发者与年份** Barry Stein, Ada Haynes, et al.（Tennessee Tech University / 美国国家科学基金会 NSF 资助, 2007）。
 > - **测量目的** 测量大学生在跨学科真实情境中的批判性分析、[[Creative Problem Solving\|创造性问题解决]]与有效沟通能力，促进高校教师通过参与评分校准（Calibration）提升教学评价素养。
-> - **实施方式** 纸笔测试（限时 60 分钟），试卷由经过培训认证的高校跨学科任课教师团队依据精细评分量规进行集体盲评。
+> - **实施方式** 纸笔测试（限时 60 分钟），试卷由经过培训认证的高校跨学科任课教师团队依据精细[[Scoring Rubrics|评分量规]]进行集体盲评。
 
 ---
 

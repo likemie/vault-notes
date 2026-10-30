@@ -9,7 +9,7 @@ title: "Argument_Hattie_2010_NZJES"
 argument_key: "Argument_Hattie_2010_NZJES"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Learning Styles]]"
   - "[[External Validity]]"
+  - "[[Document]]"
   - "[[Research Scope]]"
   - "[[Academic Engagement]]"
   - "[[Value Neutrality]]"
@@ -51,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2010
 doi: ""
 citation_aliases:
@@ -79,7 +80,7 @@ citation_aliases:
 >
 > **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如[[Learning Styles|学习风格]]研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题。
 >
-> **关于偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"。
+> **关于偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等[[Document|文献]]表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"。
 >
 > **关于 d=0.40 关节点** Hattie 承认该截断值"perhaps it was arbitrary, but it was certainly not capricious"——这是基于 800+ 元分析的经验平均值，用作理解"高于和低于此效应的共同特征"的叙事工具，而非不可逾越的绝对阈值。书中多处强调不应做非此即彼的截断结论。
 >

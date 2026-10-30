@@ -9,7 +9,7 @@ summary: "美国加州大学圣巴巴拉分校心理学杰出教授，当代教�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Discovery Learning]]"
+  - "[[Document]]"
   - "[[Direct Instruction]]"
   - "[[Working Memory]]"
   - "[[Independent Knowing]]"
@@ -47,11 +48,11 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!def] 学者生平与定位
-> 理查德·E·梅耶（Richard E. Mayer，1947–至今）是美国当代著名认知心理学家、学习科学与教育心理学学者，加州大学圣巴巴拉分校（University of California, Santa Barbara, UCSB）心理学杰出教授，美国心理学会（APA）前教育心理学分会主席。Mayer 是当代[[International Education\|国际教育]]心理学界被引用次数最高的学者之一，其最卓越的学术贡献在于创立了**多媒体学习认知理论（Cognitive Theory of Multimedia Learning, CTML）** 并实证提炼了十二项多媒体教学设计原则；同时，其在 2004 年发表的关于[[Discovery Learning\|纯发现学习]]的“三振出局”经典文献，深刻重塑了国际科学探究与[[Direct Instruction\|直接教学]]大论战的理论格局（Mayer, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
+> 理查德·E·梅耶（Richard E. Mayer，1947–至今）是美国当代著名认知心理学家、学习科学与教育心理学学者，加州大学圣巴巴拉分校（University of California, Santa Barbara, UCSB）心理学杰出教授，美国心理学会（APA）前教育心理学分会主席。Mayer 是当代[[International Education\|国际教育]]心理学界被引用次数最高的学者之一，其最卓越的学术贡献在于创立了**多媒体学习认知理论（Cognitive Theory of Multimedia Learning, CTML）** 并实证提炼了十二项多媒体教学设计原则；同时，其在 2004 年发表的关于[[Discovery Learning\|纯发现学习]]的“三振出局”经典[[Document|文献]]，深刻重塑了国际科学探究与[[Direct Instruction\|直接教学]]大论战的理论格局（Mayer, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
 
 ---
 

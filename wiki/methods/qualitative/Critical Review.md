@@ -8,9 +8,9 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -20,7 +20,9 @@ tags:
   - method/research-synthesis
   - method/conceptual-analysis
 related_concepts:
+  - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Conceptual Innovators]]"
   - "[[Epistemology]]"
   - "[[Interpretivism]]"
   - "[[Research Topic]]"
@@ -33,6 +35,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Co-Teaching]]"
   - "[[Institutional Layering]]"
 related_methods:
   - "[[Research Synthesis]]"
@@ -46,22 +49,22 @@ related_arguments:
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
 related_instruments:
   - "[[PRISMA]]"
 related_facts:
   - "[[Education Resources Information Center]]"
+  - "[[PISA]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Critical Review
-> 批判性综述（Critical Review）是一种建立在广泛文献梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性[[Research Synthesis|研究综合]]方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层假设和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 2–3]]）。
+> 批判性综述（Critical Review）是一种建立在广泛[[Document|文献]]梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性[[Research Synthesis|研究综合]]方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层假设和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 2–3]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 既有学术文献的核心概念界定、底层理论假设、问题提出方式、实证研究设计与政策推论逻辑。
@@ -72,7 +75,7 @@ updated: 2026-10-29
 > [!citation-card] 关键定义
 > 批判性综述通常建立在对研究文献的广泛审查之上，但超越对已识别文章的单纯描述，往往以概念创新为目标。批判性综述通常分析和综合既有研究的特定方面，经常挑战既有模型或思想流派，同时对既有研究提供新的阐释。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 2–3)]]
 >
-> *A critical review typically builds on an extensive review of the research but goes beyond mere descriptions of the identified articles, often with the aim of conceptual innovation. A critical review typically presents analyses and synthesises selected aspects of existing research, often challenging existing models or schools of thought while offering a new interpretation of existing research.*
+> *A critical review typically builds on an extensive review of the research but goes beyond mere descriptions of the identified articles, often with the aim of [[Conceptual Innovators|conceptual innovation]]. A critical review typically presents analyses and synthesises selected aspects of existing research, often challenging existing models or schools of thought while offering a new interpretation of existing research.*
 
 ---
 
@@ -140,8 +143,8 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学视角系统检索 2000–2020 年间 PISA 政策影响的理论与经验文献，解构其跨国软治理机制并构建二元分析象限（pp. 418–420）。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学视角系统检索 2000–2020 年间 [[PISA]] 政策影响的理论与经验文献，解构其跨国软治理机制并构建二元分析象限（pp. 418–420）。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 结合 [[PRISMA]] 检索与多维概念分析对 34 篇教育中[[Research Utilization|研究使用]]文献进行全文本解构，揭示[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]局限并提出[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]框架（pp. 2–8）。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 运用批判整合性综述界定[[Epistemic Dependence|认识依赖]][[Construct|构念]]，提出六维诊断标准与四条社会技术路径以确立关系性[[Epistemic Agency|认识主体性]]规范内涵（pp. 1–15）。
-> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 运用批判性综述反驳关于[[Direct Instruction|直接教学]]全面优于探究的主张，确立[[Inquiry-Based Learning|指导式探究]]的循证效能与两者协同教学模型。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 运用批判性综述反驳关于[[Direct Instruction|直接教学]]全面优于探究的主张，确立[[Inquiry-Based Learning|指导式探究]]的循证效能与两者[[Co-Teaching|协同教学]]模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 运用定性批判性综述审视 60 年间 166 篇文献，系统梳理[[Institutional Layering|制度分层]]演进传统并厘清其与制度再生产的理论边界（pp. 9–14）。

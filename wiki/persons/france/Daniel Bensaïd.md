@@ -11,7 +11,7 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -48,10 +48,12 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+related_facts:
+  - "[[World Social Forum]]"
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-10-25
 > - **1968** 作为“三二二运动”（Mouvement du 22 Mars）核心发起人之一，与丹尼尔·科恩-本迪（Daniel Cohn-Bendit）共同引爆了席卷全法的“五月风暴”学生与工人总罢工。
 > - **1969–1990s** 长期作为法国革命共产主义同盟（LCR）与第四国际核心领导人，同时任教于具有激进批判学术传统的巴黎第八大学哲学系，开创非教条主义马克思主义哲学研究。
 > - **1995** 出版哲学代表作《不合时宜的马克思：一次批判冒险的辉煌与贫困》（*Marx l'intempestif*），在苏东剧变后西方“[[End of History Thesis|历史终结论]]”甚嚣尘上的逆境中，系统重构马克思主义时间哲学与危机理论。
-> - **2000s** 积极投身世界社会论坛（WSF）与反新自由主义全球化抵抗运动，其哲学思想成为连接欧洲批判哲学与拉美被压迫者教育学的重要桥梁。
+> - **2000s** 积极投身[[World Social Forum|世界社会论坛]]（WSF）与反新自由主义全球化抵抗运动，其哲学思想成为连接欧洲批判哲学与拉美被压迫者教育学的重要桥梁。
 > - **2010** 因长年罹患重病于巴黎逝世，享年 63 岁，被法国学术界与左翼思想界公认为“一代人中最具道德勇气与思想深度的哲学家”。
 
 ---

@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[School Autonomy]]"
   - "[[School Choice]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Cluster Randomized Trials]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -150,4 +151,4 @@ updated: 2026-10-26
 > | [[School Choice]] | 概念 | 实践领域；涉及作息与编班等学校层面的宏观组织与体制决策。 |
 > | [[Randomised Controlled Trials]] | 方法 | 试验方法；该项目展示了[[Cluster Randomized Trials\|集群随机对照试验]]在面临复杂社会互嵌时的实施瓶颈。 |
 > | [[National Pupil Database]] | 事实 | 数据基础；准实验替代方案赖以追踪学业长效收益的国家行政数据库。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源文献；将 Teensleep 确立为反思干预方案可接受度、招募可行性审查与早期试点必要性的核心案例。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源[[Document\|文献]]；将 Teensleep 确立为反思干预方案可接受度、招募可行性审查与早期试点必要性的核心案例。 |

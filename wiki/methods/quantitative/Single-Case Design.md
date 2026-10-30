@@ -8,7 +8,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
   - "[[Analytic Generalization]]"
+  - "[[Document]]"
   - "[[Theories of Policy Change]]"
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
@@ -45,6 +46,7 @@ related_theories:
 related_methods:
   - "[[Case Study]]"
   - "[[Repeated Measures Design]]"
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[ABAB Design]]"
   - "[[Research Synthesis]]"
@@ -64,7 +66,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ## 概念辨析：两种含义
@@ -79,7 +81,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > | [[Unit of Analysis\|分析单位]] | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
 > | [[Causality\|因果]]逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
 > | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization\|分析性推广]]，案例不是样本 |
-> | 代表文献 | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
+> | 代表[[Document\|文献]] | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
 > | 核心风险 | 推广性受限，单一研究不足以支撑[[Theories of Policy Change\|政策变革]] | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
 
 本条目聚焦量化实验传统中的 SCD。个案研究中的单案例设计见 [[Case Study]] 和 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]]。
@@ -94,7 +96,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科。
 
 > [!method-position] [[Epistemology\|认识论]]立场
-> SCD 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的[[Causality\|因果推断]]逻辑与组间实验设计（[[Randomised Controlled Trials\|RCT]]、准实验）一致：通过控制对[[Internal Validity\|内部效度]]的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])。
+> SCD 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的[[Causality\|因果推断]]逻辑与组间[[Experimental Research|实验设计]]（[[Randomised Controlled Trials\|RCT]]、准实验）一致：通过控制对[[Internal Validity\|内部效度]]的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])。
 >
 > > 例：在一个 [[ABAB Design\|ABAB 设计]]中，通过交替引入和撤除干预，研究者可以排除成熟效应（随时间自然改善）和历史效应（外部事件）作为行为变化的替代解释。
 >
@@ -133,7 +135,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 ## 内部效度与外部效度的关系
 
 
-[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）** 只有通过内部效度门槛的研究才进入后续的推广性评估。
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是[[Experimental Research|实验设计]]的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）** 只有通过内部效度门槛的研究才进入后续的推广性评估。
 
 > 例：如果一项 [[ABAB Design\|ABAB 设计]]的基线阶段数据点不足或测量[[Reliability\|信度]]存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 

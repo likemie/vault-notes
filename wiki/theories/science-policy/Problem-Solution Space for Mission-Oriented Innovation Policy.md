@@ -10,7 +10,7 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 27
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - science-policy
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Document]]"
   - "[[Wicked Problem]]"
   - "[[Grand Challenges]]"
   - "[[Transformative System Failures]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Problem of Many Hands]]"
   - "[[Causality]]"
   - "[[Public Value]]"
+  - "[[Deliberative Space]]"
   - "[[Determinism]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -55,14 +57,14 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** [[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）在应对复杂社会挑战时，如何识别社会问题与创新解决方案两端的特征错位，并通过差异化的政策路径推动两者走向合法化收敛。
-> - **理论问题** 回应既有使命政策文献过度预设问题共识明确且技术方案可行（即阿波罗登月式的工程确定性思维）、忽视重大社会系统转型中价值撕裂、部门管辖冲突与认知未知的理论盲区。
+> - **理论问题** 回应既有使命政策[[Document|文献]]过度预设问题共识明确且技术方案可行（即阿波罗登月式的工程确定性思维）、忽视重大社会系统转型中价值撕裂、部门管辖冲突与认知未知的理论盲区。
 > - **理论类型** 属于中观制度[[Analytic Framework|分析框架]]与政策过程理论（Policy Process Theory）。
 > - **知识位置** 深度融合了规划学与公共管理中的[[Wicked Problem|棘手问题]]理论（Rittel & Webber, 1973）、科技政策中的变革性系统转型框架（Weber & Rohracher, 2012; Schot & Steinmueller, 2018）以及多层级社会–技术转型视角（Geels, 2004）。
 
@@ -249,7 +251,7 @@ updated: 2026-10-22
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 国家与区域层面的重大科技创新专项、绿色低碳转型政策、智慧城市与新兴数字技术治理、跨部门公共卫生政策等具有高度系统复杂性与社会外部性的战略议题。
-> - **成立条件** 政策环境具备一定程度的民主审议空间、多元利益表达渠道以及政府具备跨部门协同与政策工具调配能力。
+> - **成立条件** 政策环境具备一定程度的民主[[Deliberative Space|审议空间]]、多元利益表达渠道以及政府具备跨部门协同与政策工具调配能力。
 > - **解释不足** 对微观层面的政党选举周期、突发性地缘危机对政策收敛过程的破坏性中断缺乏内生微观机制解释；对非民主体制下的政策收敛逻辑解释力有待检验。
 > - **转化困难** 争议性、复杂性与不确定性的阈值划分（如从“发散”到“收敛”的界限）在实证中难以完全量化，往往依赖[[Qualitative Content Analysis|质性文本分析]]与主观专家判断。
 > - **不能直接推出** 理论无法单凭矩阵分类自动生成唯一的最佳政策工具清单，必须结合具体的国别制度背景、财政承受力与产业技术成熟度进行权变分析。

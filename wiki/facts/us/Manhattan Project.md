@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Alexander Karp]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Einstein-Szilard Letter]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-22
 > 曼哈顿工程（Manhattan Project）是二战期间美国政府由[[Michael Fullan|富兰]]克林·D. 罗斯福（[[Franklin D. Roosevelt]]）总统授权、[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领导的美国[[Office of Scientific Research and Development|科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]）统筹、陆军工兵部队与顶级科学家联合执行的绝密原子弹研制计划。该工程不仅直接加速了二战的终结，更确立了国家战略意志与顶尖科学共同体深度结盟的[[Technological Republic|技术共和国]]原型，构建了主导后半个世纪国际政治格局的原子威慑体系与[[Hard Power|硬实力]]基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 
 > [!program-context] 项目背景与动员参数
-> - **立项时间 / 周期** 始于 1939 年 8 月爱因斯坦信函引发的战略预警，1942 年正式列入军工工程，1945 年成功完成三位一体（Trinity）核试验并交付实战部署，1946 年底转交民事原子能委员会（Atomic Energy Commission, AEC）。
+> - **立项时间 / 周期** 始于 1939 年 8 月爱因斯坦信函引发的战略预警，1942 年正式列入军工工程，1945 年成功完成三位一体（Trinity）核试验并交付实战部署，1946 年底转交民事原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）。
 > - **发起方与资助机制** 由美国联邦政府与战时军费预算直接托底，总投资约 20 亿美元（相当于当时美国 GDP 的近 1%），采用“国家定向采购 + 成本加成合同”保障军民科研协作。
 > - **覆盖范围与对象** 汇聚全美顶尖大学（加州大学伯克利分校、芝加哥大学、哥伦比亚大学、麻省理工学院）、工业巨头（杜邦公司、通用电气、西屋电气）及逾 13 万名工程师、物理学家与技术工人。
 > - **核心问题导向** 应对纳粹德国潜在的核裂变军事威胁，以绝对的科技领先确立压倒性的战略威慑力量。

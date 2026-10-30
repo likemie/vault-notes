@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 137
+argument_related_count: 139
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Internal Validity]]"
+  - "[[Document]]"
   - "[[Descriptive Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Theoretical Validity]]"
@@ -93,7 +94,6 @@ related_concepts:
   - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Metainferences]]"
   - "[[Order Effects]]"
-  - "[[Institutional Conversion]]"
   - "[[Axiology]]"
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
@@ -111,6 +111,8 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Familiarization]]"
   - "[[Research Purpose]]"
+  - "[[Teacher Expectations]]"
+  - "[[Learning Strategies]]"
   - "[[Test Validity]]"
   - "[[Champ]]"
   - "[[Deception in Research]]"
@@ -173,7 +175,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 > [!logic-map]- 章节论证结构
 > ```mermaid
@@ -278,7 +280,7 @@ Lincoln and Guba (1985) 提出了质性研究效度的四项核心标准，每�
 > - **同伴汇报（[[Peer Debriefing]]）** 将研究暴露于无利害关系的同行面前进行交叉审问式检验
 > - **[[Negative Case Analysis\|负面案例分析]]（negative case analysis）** 系统检验不符合已有假设的案例以修正和完善理论
 > - **结构互证（structural corroboration）** 即[[Triangulation\|三角验证]]，在方法、来源、研究者和理论之间交叉检验
-> - **参照材料充分性（referential material adequacy）** 充分引用领域内标准文献作为发现的外部参照（pp.160–161）
+> - **参照材料充分性（referential material adequacy）** 充分引用领域内标准[[Document|文献]]作为发现的外部参照（pp.160–161）
 
 ---
 
@@ -890,7 +892,7 @@ Onwuegbuzie and Johnson (2006) 主张在混合方法研究中用 **"合法化"�
 >   一种方法的**弱点**在多大程度上被另一种方法的**优势**所补偿——并适当加权这些优势和弱势
 > - **顺序（Sequential）**
 >   在多大程度上能最小化数据收集和分析产生的"**[[Metainferences\|元推断]]**"（meta-inferences）的 **[[Order Effects\|顺序效应]]（量化-质性还是质性-量化）**，使得对调量化与质性数据的顺序和推断顺序不会削弱"元推断"的解释力
-> - **转换（[[Institutional Conversion|conversion]]）**
+> - **转换（conversion）**
 >   将数值数据**质化（[[Data Transformation\|qualitizing]]）** 或将质性数据**量化（quantitizing）** 在多大程度上有助于产出稳健的"元推断"
 > - **范式混合（Paradigmatic mixing）**
 >   综合本体论、[[Epistemology\|认识论]]、[[Axiology\|价值论]]、方法论和修辞学信念与实践来产出有用结果的成功程度——特别是当范式之间存在张力时
@@ -1377,14 +1379,14 @@ Feldt and Brennan (1993) 提出四类信度威胁：
 > - **物理、情感、社会条件** 特别是如果不熟悉。只要可能，学生应在**熟悉的**环境中在正常学校条件下接受测试。外来噪音、考官在室内走动和室内干扰都对测试者的分数有显著影响——特别是较年轻的学生（Gipps, 1994）。
 > - **霍桑效应** 简单告知学生这是评估情境就足以干扰表现——朝好的或坏的方向（两种情况下都不能公平反映其通常能力）。
 > - **干扰** 包括多余信息。
-> - **学生感知考官期望（Haladyna, 1997; Tombari & Borich, 1999; Stiggins, 2001）** 学生倾向于给出他们认为教师期望的回答，这种期望效应可能正面也可能负面地扭曲测验表现。
+> - **学生感知考官期望（Haladyna, 1997; Tombari & Borich, 1999; Stiggins, 2001）** 学生倾向于给出他们认为[[Teacher Expectations|教师期望]]的回答，这种期望效应可能正面也可能负面地扭曲测验表现。
 > - **时间效应** 有些学生在早上更精力充沛、更有能力集中注意力（Stiggins, 2001）。
 > - **学生对问题的理解** 学生可能知道正确答案但没有推断出这是问题所要求的。
 > - **问题之间的变异性** 学生可能在测试同一内容的不同问题上有不同表现。Black (1998) 认为，两个对专家来说似乎以不同方式问同一问题的问题——在学生看来可能被视为**完全不同的问题**。
 > - **练习效应** 学生（和教师）练习类似测试的材料——即使分数提高了——可能使他们更擅长**应对测试**，但结果可能不体现**真实能力的提高**。
 > - **技能的可迁移性** 学生可能在测试中能执行特定技能，但不能在更广泛的学习情境中选择或执行它。
 > - **文化、族裔和性别背景** 影响评估任务或活动对学生的有意义程度——有意义性影响表现。
-> - **学生个性** 和学习策略/风格。
+> - **学生个性** 和[[Learning Strategies|学习策略]]/风格。
 
 ---
 

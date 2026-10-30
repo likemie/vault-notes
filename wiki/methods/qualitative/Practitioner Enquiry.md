@@ -9,7 +9,7 @@ summary: "一线教师与教育领导者在自身真实教育情境中开展的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/knowledge-mobilisation
   - action-research
 related_concepts:
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Unit of Analysis]]"
   - "[[Contributory Expertise]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
   - "[[Theoretical Perspective]]"
   - "[[Empiricism]]"
+  - "[[Differentiated Instruction]]"
   - "[[School Leadership]]"
   - "[[Counterfactual]]"
   - "[[Interactional Expertise]]"
@@ -61,13 +63,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Practitioner Enquiry
-> **实践者探究（Practitioner Enquiry / Practitioner Inquiry）**，亦称教师探究，指一线教育工作者（教师、中小学校长及教育管理者）在自身所处的微观教育与课堂情境中，以批判反思为动力、以改善学生学习与优化教学为目的，自主发起并系统实施的实证探究方法（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 3, 14–16]]；Menter et al., 2011；Cochran-Smith & Lytle, 2009）。该方法主张突破外来专家自上而下的线性知识灌输，将教师定位为情境化知识的共创者与研究者，通过在真实课堂中界定问题、收集分析多维证据、批判性对话学术文献并迭代教学策略，实现实践手艺与学术理论的有机融合。
+> **实践者探究（Practitioner Enquiry / Practitioner Inquiry）**，亦称教师探究，指一线教育工作者（教师、中小学校长及教育管理者）在自身所处的微观教育与课堂情境中，以批判反思为动力、以改善学生学习与优化教学为目的，自主发起并系统实施的实证探究方法（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 3, 14–16]]；Menter et al., 2011；Cochran-Smith & Lytle, 2009）。该方法主张突破外来专家自上而下的线性知识灌输，将教师定位为情境化知识的共创者与研究者，通过在真实课堂中界定问题、收集分析多维证据、批判性对话学术[[Document|文献]]并迭代教学策略，实现实践手艺与学术理论的有机融合。
 
 > [!method-scope] 方法范围
 > - **研究对象** 真实的校本教学实践、课堂师生互动、生源[[Heterogeneity\|异质性]]学情、课程干预方案的本土适切性以及学校组织微观改进过程。
@@ -117,7 +119,7 @@ updated: 2026-10-29
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 教师专业发展、校本课程改革、差异化教学设计、评估外部商业证据包在具体学校中的实际效用，以及在低利害治理环境中推动自下而上的教学创新（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 20–21]]）。
+> - **适合使用** 教师专业发展、校本课程改革、[[Differentiated Instruction|差异化教学]]设计、评估外部商业证据包在具体学校中的实际效用，以及在低利害治理环境中推动自下而上的教学创新（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 20–21]]）。
 > - **谨慎使用** 缺乏[[School Leadership\|学校领导]]层时间编制支持（如代课教师配置）或处于极端高利害行政问责压力的学校，探究容易被异化为走过场的表面文章。
 > - **不适合使用** 宏观国家级教育政策的大规模因果效应评估，或跨地区横向排名的标准化统考。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育学概念，由 Robert Cowen 提出，指国家机器、社会分层与政治未来愿景在大约十年内同时崩解与重建的压缩历史时刻，此时教育被赋予摧毁过去与重构未来的核心象征性功能"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Vergegenkunft]]"
   - "[[Artefact]]"
   - "[[Positivism]]"
+  - "[[Religious Schools]]"
   - "[[Pragmatic Paradigm]]"
   - "[[New Public Management]]"
   - "[[Operationalization]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-16
 > - **1917年（俄国十月革命：统一劳动学校与新无产阶级）**
 >   苏维埃政权粉碎了沙皇时代的宗教与古典文科教育，在卢纳察尔斯基和克鲁普斯卡娅主导下创立“统一劳动学校”。教育被定义为消灭阶级压迫、灌输历史唯物主义与培养社会主义新人的政治模具，全面转向服务于国家工业化与集体化的综合技术教育。
 > - **1920年代（土耳其凯末尔改革：政教分离与世俗断裂）**
->   穆斯塔法·凯末尔在奥斯曼帝国废墟上推行西方化。通过《统一教育法》（1924年）关闭所有伊斯兰宗教学校，强行用拉丁字母替代阿拉伯字母，实现国家意志与伊斯兰宗教神权的彻底决裂，使教育成为世俗民族国家的工具。
+>   穆斯塔法·凯末尔在奥斯曼帝国废墟上推行西方化。通过《统一教育法》（1924年）关闭所有伊斯兰[[Religious Schools|宗教学校]]，强行用拉丁字母替代阿拉伯字母，实现国家意志与伊斯兰宗教神权的彻底决裂，使教育成为世俗民族国家的工具。
 > - **20世纪至今（中国现代转型：多重[[Epistemology\|认识论]]的本土化改写）**
 >   自1905年废除[[Civil Service Examination\|科举]]起，中国经历效仿日德、1920年代迎合美国[[Pragmatic Paradigm\|实用主义]]（[[John Dewey\|杜威]]访华）、1950年代引进苏联凯洛夫教育学模式及改革开放后的中西融合。中国学校体系反复被置于政治重建的核心，外来的科学与政治理念同本土的历史文化基因（如国家中心传统、儒家伦理）进行深度的博弈、融合与本土化改写。
 

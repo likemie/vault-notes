@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 112
-fact_related_level: 11
-fact_related_stars: "💎💎💎⭐⭐"
+fact_related_count: 122
+fact_related_level: 12
+fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -47,14 +47,19 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[School Autonomy]]"
   - "[[Knowledge Production]]"
+  - "[[Conditional Cash Transfers]]"
   - "[[Learning Crisis]]"
+  - "[[Policy Ambassador]]"
   - "[[Multilateral Development Bank]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Going Native]]"
   - "[[Refined Mastery]]"
   - "[[Policy Borrowing]]"
+  - "[[Smart Buys]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Market Fundamentalism]]"
   - "[[International Education]]"
   - "[[Selective Affinity]]"
@@ -67,9 +72,12 @@ related_concepts:
   - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Technical Rationality]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Heterogeneity]]"
+  - "[[Aidland]]"
+  - "[[Policy Mobility]]"
+  - "[[Intellectual Capital]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
   - "[[Endogenous Privatisation]]"
   - "[[Exogenous Privatisation]]"
@@ -77,8 +85,9 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[State Educational Sovereignty]]"
   - "[[Epistemic Governance]]"
-  - "[[Policy Ambassador]]"
   - "[[South-South Cooperation]]"
+  - "[[Triangular Cooperation]]"
+  - "[[Mutual Learning]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
@@ -117,6 +126,7 @@ related_facts:
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[Educational Knowledge Management System]]"
   - "[[Global Development Network]]"
+  - "[[Participatory Budgeting]]"
   - "[[Open Knowledge Repository]]"
   - "[[Skills Toward Employment and Productivity]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -150,7 +160,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -203,7 +213,7 @@ updated: 2026-10-26
 >   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024b, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
->   - **2000s** 将巴西阿雷格里港首创的参与式预算（Participatory Budgeting）正式写入世行公民参与治理指南，确立南方城市微观民主创新在全球治理中的开拓者地位；同时全面吸纳拉美有条件现金转移支付（CCTs）模型（如巴西家庭补贴与墨西哥发展计划），将其作为旗舰减贫方案向撒哈拉以南非洲与东南亚推广。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 200, 204)]]
+>   - **2000s** 将巴西阿雷格里港首创的[[Participatory Budgeting|参与式预算]]（Participatory Budgeting）正式写入世行公民参与治理指南，确立南方城市微观民主创新在全球治理中的开拓者地位；同时全面吸纳拉美[[Conditional Cash Transfers|有条件现金转移支付]]（CCTs）模型（如巴西家庭补贴与墨西哥发展计划），将其作为旗舰减贫方案向撒哈拉以南非洲与东南亚推广。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 200, 204)]]
 >   - **2010s** 形成拉美减贫专家向世行等国际多边机构的人事循环通道，曾主导拉美本土减贫与社会发展的高级技术官僚进入世行担任高级官员或长期核心顾问，推动南方本土政策社群参与重塑全球旗舰议程。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
 >   - **2010–2014** 启动开放发展倡议与[[Open Knowledge Repository|开放知识库]]（OKR），实施 [[Skills Toward Employment and Productivity|STEP]] 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 [[Systems Approach for Better Education Results|SABER]] 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 >   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 545, 548)]]
@@ -223,7 +233,7 @@ updated: 2026-10-26
 > - **执行机构（行长 / 教育全球业务局）** 传统上由美国提名行长领导庞大官僚官制，下设教育全球业务局（Education Global Practice, EGP），配备数百名专职教育经济学家与任务团队负责人（TTL），直接主导国别教育贷款准备与政策对话。
 > - **专家与审议委员会** [[Development Economics Vice Presidency|发展经济学研究局]]（DEC）、独立评价局（IEG），负责开展微观计量经济学评估、[[Randomised Controlled Trials|RCT]] 评估及对已结项教育贷款的问责审计。
 > - **会员与外部利益相关者** 189 个成员国教育部主要作为借款方与政策谈判对手，通过国别伙伴关系框架（CPF）接受世行政策审议。
-> - **南方政策社群与政策大使网络** 吸引并吸纳曾亲自主导巴西、智利、哥伦比亚与墨西哥减贫和教育改革的本土高级技术官僚与政策学者，担任常驻高级官员或核心顾问，在机构内部形成深具影响力的政策社群。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
+> - **南方政策社群与[[Policy Ambassador|政策大使]]网络** 吸引并吸纳曾亲自主导巴西、智利、哥伦比亚与墨西哥减贫和教育改革的本土高级技术官僚与政策学者，担任常驻高级官员或核心顾问，在机构内部形成深具影响力的政策社群。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
 
 世界银行在组织官僚文化上呈现出与区域开发银行截然不同的智识特征与政策推行风格：
 
@@ -256,13 +266,13 @@ updated: 2026-10-26
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；联合[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）研制的“智能购买”（Smart Buys）成本效益分级清单；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
+> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；联合[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）研制的“[[Smart Buys|智能购买]]”（Smart Buys）成本效益分级清单；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 > - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；[[Learning Crisis|学习贫困]]测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542, 548)]]
 > - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《2024 年世界银行年度报告》；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024b, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 > [!citation-card] 世界银行教育自主政策研究的独立宣言
-> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育文献与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, p. 542]])
+> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育[[Document|文献]]与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, p. 542]])
 >
 > *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
 
@@ -289,7 +299,7 @@ updated: 2026-10-26
 > - **189** （个） 截至目前的正式成员国总数。
 > - **15–30 yr** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
 > - **1 pp** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
-> - **1/3** 1980 年代世界银行激进强推结构调整政策附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
+> - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542, 548)]]
 > - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
 > - **3×** 世界银行教育学术产出达到全球前 13 所高产大学均值的倍数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
@@ -355,10 +365,10 @@ updated: 2026-10-26
 > > - **批判学者（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 指出世行主导的实证话语将证据塑造成资源约束下的“智能购买”，高度倚重量化实验与因果评估模型；该技术理性框架将教育简化为具有明确价格标签的商品，在假定一线教师能力不足的赤字视角下开出标准处方，压抑了[[Teacher Professional Agency|教师专业能动性]]，并割裂了全球实证供给与地方实践生态。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
 > > - **世行循证倡导** 强调在受援国财政空间极度逼仄的背景下，依托前沿因果证据与成本效益核算能帮助发展中国家精准规避低效支出，确保资金优先投向经过严谨检验的高回报教学干预。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 >
-> > [!axis] 多边机构知识聚合 vs 本土异质性抹平与“援助国度”官僚封闭
+> > [!axis] 多边机构知识聚合 vs 本土[[Heterogeneity|异质性]]抹平与“[[Aidland|援助国度]]”官僚封闭
 > > 探讨世界银行等国际多边机构在吸纳南方政策创新时究竟是促进了全球扩散，还是造成了本土经验的技术化剪裁与异质性抹平。
 > >
-> > - **批判政策流动视角（Mosse, 2011; [[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 指出世行虽然投入庞大智力资本搜寻与筛选全球前沿方案并赋予其全球合法性，但往往将复杂多元的地方实践强行剪裁为标准化的“最佳实践清单”（Best Practice），抹平了本土制度情境的异质性；同时滋生“援助国度”（Aidland）封闭官僚文化，将南方政策大使收编入主流新自由主义话语体系，导致扎根基层的原初经验被技术化稀释。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 237–239)]]
+> > - **批判[[Policy Mobility|政策流动]]视角（Mosse, 2011; [[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 指出世行虽然投入庞大[[Intellectual Capital|智力资本]]搜寻与筛选全球前沿方案并赋予其全球合法性，但往往将复杂多元的地方实践强行剪裁为标准化的“最佳实践清单”（Best Practice），抹平了本土制度情境的异质性；同时滋生“援助国度”（Aidland）封闭官僚文化，将南方政策大使收编入主流新自由主义话语体系，导致扎根基层的原初经验被技术化稀释。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 237–239)]]
 > > - **多边机构治理辩护** 强调将地方创新提炼为标准化操作手册与量规是跨国规模化推广、确保项目可问责性与防范治理失败的必要技术手段。
 >
 > > [!citation-card] 卡诺伊与比奇论世行成本效益模型与知识银行的制度愿景借贷
@@ -429,4 +439,4 @@ updated: 2026-10-26
 > | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。 |
 > | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] | Argument | 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。 |
 > | [[Policy Ambassador]] | 概念 | 主导南方本土减贫与教育创新并进入世行等机构推动全球议程设置的跨国政策使者。 |
-> | [[South-South Cooperation]] | 概念 | 世行在多边技术援助与三方合作中逐步吸纳的南方互学互鉴合作模式。 |
+> | [[South-South Cooperation]] | 概念 | 世行在多边技术援助与[[Triangular Cooperation\|三方合作]]中逐步吸纳的南方[[Mutual Learning\|互学互鉴]]合作模式。 |

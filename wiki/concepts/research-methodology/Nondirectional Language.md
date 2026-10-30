@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中不使用暗示结果方向的词语的原则，由 McCracken (1988) 提出，要求访谈者和目的陈述写作者让受访者自主描述经验，避免使用成功的、有益的、积极的等预设方向性结果的词汇"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - paradigm/constructivist
 related_concepts:
   - "[[Purpose Statement]]"
+  - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Discovery Learning]]"
   - "[[Constructivist Paradigm]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -53,7 +54,7 @@ updated: 2026-10-22
 > **方向性语言 vs 非方向性语言** 方向性语言暗示某种结果优于另一种（如"成功的自我表达""有益的干预效果"）；非方向性语言保持中立（如"自我表达经验""干预的效果"）。两者的区别不在于语法而在于预设——方向性语言已经为研究结果预先划定了"理想方向"。
 
 > [!example|notitle]
-> **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research\|质性研究]]方法论文献中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement\|目的陈述]]写作的语境中，两者指向同一实践原则。
+> **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research\|质性研究]]方法论[[Document|文献]]中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement\|目的陈述]]写作的语境中，两者指向同一实践原则。
 
 > [!abstract] 应避免的方向性词语
 

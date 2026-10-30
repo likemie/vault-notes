@@ -8,7 +8,7 @@ aliases:
 summary: "探讨后福特制时期资本积累逻辑向非物质劳动、知识与心智能力转移的批判政治经济学理论，揭示教育与学习如何被吸纳为劳动力交换价值增殖的润滑剂与发展主义强制工具。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Competitiveness]]"
   - "[[International Education]]"
+  - "[[Document]]"
   - "[[Grandes Ecoles]]"
   - "[[Learner Autonomy]]"
   - "[[Research Question]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-30
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-21
 > **应用实例** 在中小学课堂中，学生将学习精力过度聚焦于能够在标准化考试中换取升学优势的表面做题技巧与测验表现，而对学科内容本身所蕴含的哲学惊奇、审美震撼与历史关怀逐渐钝化。
 
 > [!theory-proposition] 命题三｜[[Developmentalism|发展主义]]强制与自我管理律令将受教育者从被动服从主体重塑为自负盈亏的高弹性学习代理人
-> **解释** 认知资本主义的治理艺术有别于传统福特制工厂的流水线外在肉体惩戒，它依赖将控制机制深度内化为主体的自发行动。通过发展主义意识形态，系统确立起“任何人均不可宣称自身已学全一切、必须终身处于持续更新”的绝对律令。受教育者主动戴上“雇员面具”，在无须外在强制命令的情境下自主寻找文献、自主设计探究课题、自主诊断学习成效，被塑造为对自身[[Human Capital Theory|人力资本]]盈亏全权负责的理性经济人，丧失了停顿反思与抗拒异化的空间。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 8–9)]]
+> **解释** 认知资本主义的治理艺术有别于传统福特制工厂的流水线外在肉体惩戒，它依赖将控制机制深度内化为主体的自发行动。通过发展主义意识形态，系统确立起“任何人均不可宣称自身已学全一切、必须终身处于持续更新”的绝对律令。受教育者主动戴上“雇员面具”，在无须外在强制命令的情境下自主寻找[[Document|文献]]、自主设计探究课题、自主诊断学习成效，被塑造为对自身[[Human Capital Theory|人力资本]]盈亏全权负责的理性经济人，丧失了停顿反思与抗拒异化的空间。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 8–9)]]
 >
 > **应用实例** [[Grandes Ecoles|大学校]]园与职场培训中广泛普及的“个人职业发展档案”与“[[Learner Autonomy|自主学习]]合同”，要求个体持续反思自身的技能短板并自发规划补缺，使无休止的自我剥削呈现为积极进取的自主成长。
 

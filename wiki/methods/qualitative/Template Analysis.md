@@ -7,7 +7,7 @@ summary: "一种结合归纳开放编码与演提先验理论模板的质性文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
   - method/qualitative
   - method/coding
 related_concepts:
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -45,13 +46,13 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Template Analysis
-> 模板分析（Template Analysis）是由 Nigel King et al. 提出并完善的一种[[Qualitative Content Analysis\|质性文本分析]]方法。其核心在于将归纳性的[[Open Coding|开放编码]]（[[Open Coding]]）与基于先验理论/文献概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview\|质性访谈]]或文档数据。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
+> 模板分析（Template Analysis）是由 Nigel King et al. 提出并完善的一种[[Qualitative Content Analysis\|质性文本分析]]方法。其核心在于将归纳性的[[Open Coding|开放编码]]（[[Open Coding]]）与基于先验理论/[[Document|文献]]概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview\|质性访谈]]或文档数据。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 质性访谈[[Transcription in Qualitative Research\|转录]]稿、教研文档、观察[[Field Notes\|田野笔记]]与政策文本。

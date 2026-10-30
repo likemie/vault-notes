@@ -14,9 +14,9 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 107
-method_related_level: 10
-method_related_stars: "💎💎💎⭐"
+method_related_count: 118
+method_related_level: 11
+method_related_stars: "💎💎💎⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -26,6 +26,7 @@ tags:
   - theme/meta-meta-analysis
   - field/research-methodology
 related_concepts:
+  - "[[Document]]"
   - "[[Sampling Error]]"
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
@@ -42,39 +43,45 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Visible Learning]]"
   - "[[Cooperative Learning]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Metascience]]"
   - "[[Creativity]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Integrated Curriculum Programs]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
   - "[[Socioeconomic Status]]"
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[School Leadership]]"
+  - "[[Teacher Effects]]"
   - "[[Zone of Desired Effects]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Incommensurability]]"
   - "[[Category Mistake]]"
+  - "[[Spaced Practice]]"
   - "[[Epistemology]]"
   - "[[Commensuration]]"
   - "[[Effective Teaching]]"
+  - "[[Teacher Subject Matter Knowledge]]"
   - "[[Predictive Validity]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Affective Outcomes]]"
-  - "[[Problem-Based Learning]]"
   - "[[Theoretical Knowledge]]"
   - "[[Clinical Skills]]"
   - "[[Critical Thinking]]"
   - "[[Automated Data Extraction]]"
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
-  - "[[Metascience]]"
+  - "[[Web-Based Learning]]"
   - "[[Critique of Meta-meta-analysis]]"
   - "[[Replication in Education Research]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
+  - "[[Punctuated Equilibrium Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Stability vs. Variability Dilemma]]"
 related_methods:
@@ -85,23 +92,27 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
+  - "[[Qualitative Research]]"
+  - "[[Research Synthesis]]"
+  - "[[Ethnography]]"
+  - "[[Random-Effects Model]]"
   - "[[Thematic Synthesis]]"
   - "[[Fixed-Effect Model]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Random-Effects Model]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Trim and Fill Method]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Umbrella Review]]"
   - "[[Corrected Covered Area]]"
+  - "[[Three-Level Meta-Analysis]]"
   - "[[Fail-Safe N]]"
   - "[[Funnel Plot]]"
   - "[[Egger Regression Test]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
-  - "[[Research Synthesis]]"
   - "[[Standard Error]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Pearson Product-Moment Correlation]]"
+  - "[[Experimental Research]]"
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
   - "[[Comparative Meta-synthesis]]"
@@ -142,13 +153,13 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Meta-meta-analysis
-> [[Meta-meta-analysis\|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期文献称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis\|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size\|效应量]]（及其背后的[[Sampling Error\|抽样误差]]结构）为[[Unit of Analysis\|分析单位]]，旨在估计宏观领域效应量基准、比较不同[[Construct\|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity\|异质性]]的深层来源。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 2)]]
+> [[Meta-meta-analysis\|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期[[Document|文献]]称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis\|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size\|效应量]]（及其背后的[[Sampling Error\|抽样误差]]结构）为[[Unit of Analysis\|分析单位]]，旨在估计宏观领域效应量基准、比较不同[[Construct\|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity\|异质性]]的深层来源。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 2)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发表或灰色文献中关于特定主题的系统评价与一阶元分析汇总效应量矩阵。
@@ -170,12 +181,12 @@ updated: 2026-10-29
 > | **Mega-analysis** | Smith (1982) | 强调在样本与文献规模上的超级扩展。当代统计学中 mega-analysis 多指合并各研究个体参与者数据（Individual Participant Data, IPD）后统一分析，与元-元分析含义不同。 |
 > | **Super-analysis** | Dillon (1982) | 强调统计抽象层级上的超越。 |
 > | **Super-synthesis** | Sipe and Curlette (1996) | 强调跨元分析的系统综合过程。 |
-> | **Meta-synthesis** | Sipe and Curlette (1996)；[[Argument_Higgins_2016_ROE\|Higgins (2016)]] 沿用 | 跨元分析综合的统称。质性研究传统中 meta-synthesis 另指质性研究综合（如元民族志），与本条目不同。 |
+> | **Meta-synthesis** | Sipe and Curlette (1996)；[[Argument_Higgins_2016_ROE\|Higgins (2016)]] 沿用 | 跨元分析综合的统称。[[Qualitative Research\|质性研究]]传统中 meta-synthesis 另指质性[[Research Synthesis\|研究综合]]（如元[[Ethnography\|民族志]]），与本条目不同。 |
 > | **Second-Order Meta-Analysis (SOMA)** | Schmidt and Oh (2013); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | Schmidt and Oh 强调估计二阶[[Sampling Error\|抽样误差]]，即各元分析平均效应之间的变异有多少只是一阶元分析样本有限所致；近年文献多在多水平与稳健方差框架下沿用该术语。 |
 
 > [!concept-lens] [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 的两种用法区分
 > [[Argument_Higgins_2016_ROE\|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose\|研究目的]]：
-> 1. **方法学过程研究** 将元分析作为[[Unit of Analysis\|分析单位]]来研究元分析过程本身的统计特征、[[Publication Bias\|发表偏倚]]与报告质量 (e.g., Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993)。Cafri et al. (2010) 也属此类：该研究虽以 meta-meta-analysis 为题，但做的是收集 *Psychological Bulletin* 1995–2005 年发表的元分析，检查它们的统计功效、I 型错误率和固定/随机效应模型的选择，评估的是“元分析做得规不规范”，并不合并效应量来回答“某类干预效果多大”；
+> 1. **方法学过程研究** 将元分析作为[[Unit of Analysis\|分析单位]]来研究元分析过程本身的统计特征、[[Publication Bias\|发表偏倚]]与报告质量 (e.g., Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993)。Cafri et al. (2010) 也属此类：该研究虽以 meta-meta-analysis 为题，但做的是收集 *Psychological Bulletin* 1995–2005 年发表的元分析，检查它们的统计功效、I 型错误率和固定/[[Random-Effects Model|随机效应模型]]的选择，评估的是“元分析做得规不规范”，并不合并效应量来回答“某类干预效果多大”；
 > 2. **实[[Thematic Synthesis\|质性主题综合]]** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论(e.g., Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ\|Runco et al., 2026]])。后者必须解决深刻的[[Construct\|构念]]可比性与[[Heterogeneity\|异质性]]挑战。
 
 > [!contrast-table] 二阶元分析三代方法谱系多维对比
@@ -209,14 +220,14 @@ updated: 2026-10-29
 >   - **2012** Cooper and Koenka (2012) 在 *American Psychologist* 阐述[[Umbrella Review|综述之综述]]的方法学规范。
 >   - **2014** Pieper et al. (2014) 提出[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA）量化重叠。
 >   - **2016** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应模型推导出六项方法论规范。
->   - **2026** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]、[[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]]、[[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 将该做法用于[[Cooperative Learning\|合作学习]]、问题本位学习与 AI 教育应用。
+>   - **2026** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]、[[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]]、[[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 将该做法用于[[Cooperative Learning\|合作学习]]、[[Problem-Based Learning|问题本位学习]]与 AI 教育应用。
 >
-> - **2010–至今** **第三代：多水平稳健建模与元科学审计**
+> - **2010–至今** **第三代：多水平稳健建模与[[Metascience|元科学]]审计**
 >
 >   以三水平模型分解变异、以[[Robust Variance Estimation\|稳健方差估计]]（RVE）处理集群内依赖，同时用[[Preregistration|预注册]]全库审计检验[[Chain of Evidence|证据链]]能否追溯与复现。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025)]]
 >
 >   - **2010** Hedges et al. (2010) 将 RVE 引入元分析。
->   - **2013** Van den Noortgate et al. (2013) 建立三水平元分析模型；Schmidt and Oh (2013) 提出估计二阶[[Sampling Error\|抽样误差]]的心理测量路线，与多水平路线平行。
+>   - **2013** Van den Noortgate et al. (2013) 建立[[Three-Level Meta-Analysis|三水平元分析]]模型；Schmidt and Oh (2013) 提出估计二阶[[Sampling Error\|抽样误差]]的心理测量路线，与多水平路线平行。
 >   - **2014** Cheung (2014) 以结构方程模型框架实现三水平元分析。
 >   - **2015** Tipton (2015) 与 Tipton and Pustejovsky (2015) 给出 RVE 小样本校正。
 >   - **2022** Pustejovsky and Tipton (2022) 提出[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）作为 RVE 工作模型。
@@ -231,7 +242,7 @@ updated: 2026-10-29
 > | 领域分组 | 涵盖维度与特征 | 一阶[[Meta-analysis\|元分析]]数量 | 平均效应量（Cohen's $d$） |
 > |---|---|---|---|
 > | **教师（Teacher）** | 教师期望、[[Student-Teacher Relationship\|师生关系]]、清晰度、微格教学 | 31 项元分析 | **$d = 0.49$** |
-> | **课程（Curricula）** | 阅读干预、数学方案、整合课程、户外项目 | 144 项元分析 | **$d = 0.45$** |
+> | **课程（Curricula）** | 阅读干预、数学方案、[[Integrated Curriculum Programs\|整合课程]]、户外项目 | 144 项元分析 | **$d = 0.45$** |
 > | **教学方法（Teaching）** | 反馈、[[Direct Instruction\|直接教学]]、合作学习、[[Metacognition\|元认知]]策略 | 365 项元分析 | **$d = 0.42$** |
 > | **学生（Student）** | 先前成就、动机倾向、自我概念、认知能力 | 139 项元分析 | **$d = 0.40$** |
 > | **家庭（Home）** | [[Socioeconomic Status\|社会经济地位]]、家庭环境、父母参与 | 36 项元分析 | **$d = 0.31$** |
@@ -240,7 +251,7 @@ updated: 2026-10-29
 > [!tip] 影响气压计的四个判定区间
 > 1. **负面效应区（$d < 0$）** 对学业产生阻碍或倒退（如留级 $d = -0.16$、暑期滑坡）；
 > 2. **发展效应区（$0.0 \le d \le 0.15$）** 学生不接受干预仅随生理成熟与自然生长产生的基线进步；
-> 3. **教师效应区（$0.15 < d \le 0.40$）** 普通教师常规教学能够达到的平均年度进步幅度；
+> 3. **[[Teacher Effects|教师效应]]区（$0.15 < d \le 0.40$）** 普通教师常规教学能够达到的平均年度进步幅度；
 > 4. **[[Zone of Desired Effects|期望效应区]]（$d > 0.40$）** 超越常规教学效果的卓越干预门槛（即 Hattie 设定的“关节点” Hinge Point）。
 
 ---
@@ -257,7 +268,7 @@ updated: 2026-10-29
 > |:---|:---|:---|
 > | **[[Inverse-Variance Weighting\|经典逆方差加权（IVW）]]**<br><small>精度加权基础算法</small> | 解决简单算术平均扭曲估计精度的问题，依据抽样方差与研究间异质性方差的倒数（$w_i^* = \frac{1}{v_i + \tau^2}$）分配权重，实现合成效应量方差最小化。 | 观察 95% 置信区间是否跨 0 及 $p < .05$；通过 $Q$ 统计量（$p < .05$）与 $I^2$ 指数 (Higgins et al., 2003)（$25\%/50\%/75\%$ 分别对应低/中/高度异质性）判定跨研究离散度。 |
 > | **[[Corrected Covered Area\|校正覆盖面积（CCA）]]**<br><small>初级研究重叠量化标准</small> | Pieper et al. (2014)提出。以初级研究为行、综述为列建立引用矩阵，$CCA = \frac{N - r}{rc - r}$（$N$ 为矩阵中全部纳入次数含重复，$r$ 为去重后初级研究数，$c$ 为综述数），即扣除每项研究的首次出现后计算重复冗余比例。 | **四级判定阈值(Pieper et al., 2014)** $0–5\%$ 轻微重叠；$6–10\%$ 中等重叠；$11–15\%$ 高度重叠；$>15\%$ 极高重叠。Pieper et al. 未规定排除红线；以 $10\%$ 或 $15\%$ 作为排除或敏感性分析门槛属各研究自定，需在方案中预先说明。 |
-> | **[[GROOVE\|系统评价重叠图形表征工具（GROOVE）]]**<br><small>重叠审计与热力图诊断工具</small> | 解决人工排查大样本二阶证据库文献重叠繁琐且难以可视化的痛点，Pérez-Bracchiglione et al. (2022)开发的 Excel 工具，自动生成两两配对 CCA 矩阵与四色色彩热力图，指导精准去重。 | **可视化色块诊断** 绿色表示轻微重叠，黄色表示中等重叠，橙色与红色警示高度与极高重叠；识别并剔除 $CCA > 10\%$ 的冗余节点。 |
+> | **[[GROOVE\|系统评价重叠图形表征工具（GROOVE）]]**<br><small>重叠审计与热力图诊断工具</small> | 解决人工排查大样本二阶证据库[[Document\|文献]]重叠繁琐且难以可视化的痛点，Pérez-Bracchiglione et al. (2022)开发的 Excel 工具，自动生成两两配对 CCA 矩阵与四色色彩热力图，指导精准去重。 | **可视化色块诊断** 绿色表示轻微重叠，黄色表示中等重叠，橙色与红色警示高度与极高重叠；识别并剔除 $CCA > 10\%$ 的冗余节点。 |
 > | **[[Fail-Safe N\|经典失安全系数（Fail-Safe N）]]**<br><small>抽屉文件极端敏感性测试</small> | 解决潜在未发表阴性研究威胁的判断问题，通过计算将当前显著合并效应拉低至不显著所需零效应隐藏研究篇数，设定 $5k + 10$ 安全判定门槛。 | **Rosenthal (1979)安全准则** 若计算值 **$N_{\text{fs}} > 5k + 10$**（$k$ 为纳入研究数），则判定发表偏倚极难颠覆当前结论；反之则提示证据稳健性较脆弱。该法假定缺失研究效应恰为零且忽略异质性，Cochrane 手册不推荐单独依赖。 |
 > | **[[Trim and Fill Method\|剪补法（Trim & Fill / DTTF）]]**<br><small>非参数[[Funnel Plot\|漏斗图]]偏倚填补校正</small> | 解决单侧[[Publication Bias\|发表偏倚]]导致漏斗图不对称与[[Effect Size\|效应量]]高估的问题，Duval and Tweedie (2000)提出，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | **填补数与效应量变动判断** 若估计缺失研究数 **$k_{\text{miss}} = 0$** 且校正后效应量无变化，未提示漏斗图不对称（不等于确证无偏倚）；若 $k_{\text{miss}} > 0$，对比填补后效应量点估计降幅与 95% CI 是否仍显著。 |
 > | **[[Egger Regression Test\|经典艾格回归检验（Egger's Test）]]**<br><small>参数化漏斗图不对称与[[Small Study Effects\|小研究效应]]检验</small> | Egger et al. (1997)提出。以标准化效应量对精度回归：$\frac{y_i}{SE_i} = \beta_0 + \beta_1 \frac{1}{SE_i} + \varepsilon_i$，截距 $\beta_0$ 偏离 0 即提示漏斗图不对称；等价写法为以 $SE_i$ 为预测变量的加权回归 $y_i = b_0 + b_1 SE_i$，此时由斜率 $b_1$ 检验。 | **回归截距显著性判定** 检验截距 $\beta_0$；若 **$p < .05$**（Egger et al. 建议放宽至 $p < .10$），提示存在小研究效应或发表偏倚；否则未检出显著不对称。纳入数 $k < 10$ 时检验力不足。 |
@@ -270,17 +281,17 @@ updated: 2026-10-29
 > [!concept-lens] 第三代方法适用情境
 > 适用于存在多结果重叠依赖、一阶元分析内部嵌套多重效应量集群（Clusters）、初级研究无法完全去重以及[[Heterogeneity\|异质性]]极高的大型复杂宏观[[Research Synthesis|证据综合]]。
 
-> [!formula-step] [[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]　方差分解与三水平加权工作模型
+> [!formula-step] [[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）　方差分解与三水平加权工作模型
 > $$y_{ij} = \mu + u_j + v_{ij} + e_{ij}, \quad u_j \sim N(0, \tau^2), \quad v_{ij} \sim N(0, \omega^2)$$
 > $$\operatorname{Cov}(e_{ij}, e_{hj}) = \rho\sqrt{V_{ij}V_{hj}}$$
 >
-> **符号** $u_j$ 为 Level 3 跨元分析变异，$v_{ij}$ 为 Level 2 元分析内效应量间变异，$e_{ij}$ 为 Level 1 抽样误差（方差 $V_{ij}$ 已知），$\rho$ 为同一集群内抽样误差的假定相关。(Pustejovsky & Tipton, 2022)
+> **符号** $u_j$ 为 Level 3 跨元分析变异，$v_{ij}$ 为 Level 2 元分析内效应量间变异，$e_{ij}$ 为 Level 1 [[Sampling Error|抽样误差]]（方差 $V_{ij}$ 已知），$\rho$ 为同一集群内抽样误差的假定相关。(Pustejovsky & Tipton, 2022)
 >
 > **解决的问题** 同时处理相关效应与层级效应的**双重依赖问题**，工作模型近似正确时给出接近最优的权重矩阵 $\mathbf{W}$。
 >
 > **判断标准** 报告 $\tau^2$、$\omega^2$ 及各水平 $I^2$ 分布(Cheung, 2014)；以似然比检验比较三水平模型与去掉 $\tau^2$ 或 $\omega^2$ 的简化模型，判断多水平建模是否必要；$\rho$ 为假定值，应做敏感性分析。
 
-> [!formula-step] [[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]　稳健统计推断与[[Standard Error\|标准误]]校正
+> [!formula-step] [[Robust Variance Estimation|稳健方差估计]]（RVE / 三明治估计量）　稳健统计推断与[[Standard Error\|标准误]]校正
 > $$\hat{\mathbf{V}}^{R} = \underbrace{(\mathbf{X}'\mathbf{W}\mathbf{X})^{-1}}_{\text{bread}} \underbrace{\left(\sum_j \mathbf{X}_j'\mathbf{W}_j\mathbf{A}_j\mathbf{e}_j\mathbf{e}_j'\mathbf{A}_j\mathbf{W}_j\mathbf{X}_j\right)}_{\text{meat}} \underbrace{(\mathbf{X}'\mathbf{W}\mathbf{X})^{-1}}_{\text{bread}}$$
 >
 > **符号** $\mathbf{W}$ 为工作模型（如 CHE）给出的权重矩阵，$\mathbf{e}_j$ 为集群 $j$ 的残差向量，$\mathbf{A}_j$ 为 CR2 偏差校正矩阵。(Hedges et al., 2010)
@@ -289,16 +300,16 @@ updated: 2026-10-29
 >
 > **判断标准** 单系数检验用 Satterthwaite 自由度 $t$ 检验，多参数检验用 HTZ 检验(Tipton & Pustejovsky, 2015)；有效自由度 $\text{df} < 4$ 时结果不可信(Tipton, 2015)。
 
-> [!formula-step] [[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]　多水平[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正
+> [!formula-step] [[Multilevel Egger's Test|多水平艾格检验]]（Multilevel Egger's Test）　多水平[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正
 > $$y_{ij} = \beta_0 + \beta_1 SE_{ij} + u_j + v_{ij} + e_{ij}$$
 >
-> **解决的问题** 将 $SE_{ij}$ 作为调节变量纳入三水平模型并以 RVE 推断，避免把集群内聚集误判为偏倚。(Fernández-Castilla et al., 2021; Rodgers & Pustejovsky, 2021)
+> **解决的问题** 将 $SE_{ij}$ 作为调节[[Variable|变量]]纳入三水平模型并以 RVE 推断，避免把集群内聚集误判为偏倚。(Fernández-Castilla et al., 2021; Rodgers & Pustejovsky, 2021)
 >
 > **判断标准**
 > 1. 斜率 $\beta_1$：$p < .05$ 提示存在小研究效应（不等同于发表偏倚）；
-> 2. 截距 $\beta_0$：$SE \to 0$ 时的外推效应量，即 PET 型校正估计。真实效应不为零时 PET 常偏于低估，可改用以 $SE^2$ 为预测变量的 PEESE(Stanley & Doucouliagos, 2014)。
+> 2. 截距 $\beta_0$：$SE \to 0$ 时的外推效应量，即 [[Punctuated Equilibrium Theory|PET]] 型校正估计。真实效应不为零时 PET 常偏于低估，可改用以 $SE^2$ 为[[Independent Variable|预测变量]]的 PEESE(Stanley & Doucouliagos, 2014)。
 
-> [!formula-step] [[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]　全领域[[Heterogeneity\|异质性]]来源多水平分解与调节检验
+> [!formula-step] [[Second-Order Meta-Regression|二阶元回归]]（Second-Order [[Meta-regression|Meta-Regression]]）　全领域[[Heterogeneity\|异质性]]来源多水平分解与调节检验
 > $$y_{ij} = \beta_0 + \sum_{k} \beta_k x_{kij} + u_j + v_{ij} + e_{ij}, \qquad R^2_{(3)} = \frac{\tau^2_{0} - \tau^2_{1}}{\tau^2_{0}}, \quad R^2_{(2)} = \frac{\omega^2_{0} - \omega^2_{1}}{\omega^2_{0}}$$
 >
 > **符号** $x_{kij}$ 为调节变量；下标 0、1 分别表示不含与含调节变量的模型。
@@ -312,7 +323,7 @@ updated: 2026-10-29
 > [!proc] 现代二阶[[Meta-analysis\|元分析]]六步标准操作规程
 > 1. **前置 [[PICO Framework|PICO]] [[Construct|构念]]对齐与多数据库检索** 检索主流学术数据库与灰色文献，依据 [[PICO Framework|PICO]] 框架严格界定研究人群、干预措施、对照组属性（活跃对照 vs 照常对照）与学业成果构念，严格排除缺乏定量合并矩阵或构念严重错位的元分析；遵循 [[PRISMA]] 声明透明报告筛选流程。
 > 2. **[[AMSTAR]] 方法学质量评估** 采用改编的 AMSTAR 准则，[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 的改编版为 12 项（原版 AMSTAR 为 11 项，AMSTAR 2 为 16 项）进行双人独立编码（一致率 $\ge 95\%$），设定得分阈值（如 $\ge 0.75$）作为高质量指示[[Variable\|变量]]。
-> 3. **[[Effect Size|效应量]]标准化转换与可比性核查** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，严格审查实验设计类型，杜绝将组内（Within-Subject）与组间（Between-Subject）设计效应量混为一谈(Morris & DeShon, 2002)，并运用 Fisher's $z$ 变换实现方差稳定化。
+> 3. **[[Effect Size|效应量]]标准化转换与可比性核查** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，严格审查[[Experimental Research|实验设计]]类型，杜绝将组内（Within-Subject）与组间（Between-Subject）设计效应量混为一谈(Morris & DeShon, 2002)，并运用 Fisher's $z$ 变换实现方差稳定化。
 > 4. **多水平 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 稳健方差建模** 设定同一集群内效应量抽样误差的相关系数 $\rho$，[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 取 0.8，应在合理区间内做敏感性分析，运用经验残差构造三明治估计量，计算稳健[[Standard Error\|标准误]]与小样本 $F$ 检验。
 > 5. **多水平改进艾格回归偏倚检验与校正** 检验[[Small Study Effects\|小研究效应]]并根据回归模型截距输出偏倚校正后的二阶效应量点估计值与[[Confidence Interval\|置信区间]]。
 > 6. **二阶[[Meta-regression\|元回归]]与亚组调节变量检验** 纳入[[Construct\|理论构念]]类型、[[Independent Variable\|自变量]]/[[Dependent Variable\|结果变量]]角色、研究设计等调节变量，全面分解效应[[Heterogeneity\|异质性]]来源。
@@ -357,7 +368,7 @@ updated: 2026-10-29
 >
 > **代数展开与等价性推导** 将一级效应量公式 (5) 与二级逆方差权重公式 (8) 代入二级合成公式 (7)：分子项展开为 $\sum_{j=1}^m \left( \sum_{i=1}^{k_j} w_{ji} \right) \cdot \left[ \frac{\sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{i=1}^{k_j} w_{ji}} \right] = \sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji} d_{ji}$；分母项展开为 $\sum_{j=1}^m W_j = \sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji}$。分式分子分母与公式 (3) 完全一致，代数上恒等证明 $D = \bar{d}$ 且 $v_D = v_{\bar{d}}$。
 >
-> **前提条件与注意事项** 若把 $\bar{d}$ 定义为对全部 $(j, i)$ 记录（含重复）求和，$D = \bar{d}$ 是对任意分组都成立的代数恒等式；它之所以等于“每项原始研究只计一次”的正确一级合并，前提是各一级元分析纳入的原始研究互不重叠（$\forall j_1 \neq j_2, \text{Studies}(j_1) \cap \text{Studies}(j_2) = \emptyset$），且两级都采用相同的固定效应权重 $w_{ji} = 1/v_{ji}$。一旦存在重叠，重复研究被多次计权，点估计偏向这些研究，公式 (9) 又忽略协方差项而低估真实方差。在随机效应模型下，各元分析的 $\tau_j^2$ 互不相同，两步合成与一步合成一般不再等价。
+> **前提条件与注意事项** 若把 $\bar{d}$ 定义为对全部 $(j, i)$ 记录（含重复）求和，$D = \bar{d}$ 是对任意分组都成立的代数恒等式；它之所以等于“每项原始研究只计一次”的正确一级合并，前提是各一级元分析纳入的原始研究互不重叠（$\forall j_1 \neq j_2, \text{Studies}(j_1) \cap \text{Studies}(j_2) = \emptyset$），且两级都采用相同的固定效应权重 $w_{ji} = 1/v_{ji}$。一旦存在重叠，重复研究被多次计权，点估计偏向这些研究，公式 (9) 又忽略协方差项而低估真实方差。在[[Random-Effects Model|随机效应模型]]下，各元分析的 $\tau_j^2$ 互不相同，两步合成与一步合成一般不再等价。
 
 > [!math-principle] 二级[[Fixed-Effect Model|固定效应模型]]的统计数学公理与协方差失效机理
 > - **等价性公理** 只有当各一级元分析纳入的主要研究完全不重叠时，二级加权合成在数学上才等价于对全体原始研究进行一次性直接合并。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37–38)]]
@@ -447,13 +458,13 @@ updated: 2026-10-29
 > - **综合教学方案（Comprehensive Pedagogical Programs）**
 >   学校层面的宏观教学模式（如[[Direct Instruction|直接教学]]），比较基线为常态传统讲授，测试时间跨度常以学期或学年计。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
 > - **微观设计变体（Micro-Level Instructional Variations）**
->   相同教学法内部的特定参数调节（如分散练习），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
+>   相同教学法内部的特定参数调节（如[[Spaced Practice|分散练习]]），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
 
 > [!critique] [[Argument_Terhart_2011_JCS|Terhart (2011)]] · 货币比附谬误与修补金字塔双重困境
 > 德国教育学者[[Ewald Terhart|埃瓦尔德·特哈特]][[Argument_Terhart_2011_JCS|(Terhart, 2011)]]从方法学审计与[[Epistemology|认识论]]哲学高度审视了二阶粗放综合（Mega-analysis）的推论困境：
 > 1. **货币比附谬误与经验信息不可逆损耗** 金钱可以通过不同渠道汇集并将不同货币无损折算，但来自不同设计、不同情境的教学实证研究无法实现此类无损[[Commensuration|通约]]；二阶综合将已经高度压缩的元分析数据再次累加，原始详尽的经验信息与情境控制参数在反复累加中消失殆尽，累加层级越高，证据的真实稳健性反而越发降低（pp. 429, 436）；
 > 2. **时滞脱节与关键结论的系统性滞后** 初级实证研究发表通常比一阶元分析早约 5 年，而二阶综合纳入的一阶元分析往往发表于 10 至 20 年前；这种跨越数十年的时间滞后使二阶综合脱离前沿教学实际，导致其关键发现面临系统性过时风险（pp. 428–429）；
-> 3. **[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说的双重困境** 二阶超级综合在认识论上陷入两难：对于报告的绝大多数通用[[Effective Teaching|有效教学]]因素（如清晰讲授、反馈、目标导向），其实质上仅是对数十年来教育教科书既有常识的渐近逼近，缺乏新知识增量（稳定性假说）；而在特定关键领域，基于陈旧文献所得出的否定性推论（如声称教师专业知识与教育背景影响微弱）已被最新严谨实证（如德国 [[COACTIV]] 项目证实教师学科知识与学科教学法知识的决定性价值）全面颠覆（变异性假说）（pp. 436–437）；
+> 3. **[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说的双重困境** 二阶超级综合在认识论上陷入两难：对于报告的绝大多数通用[[Effective Teaching|有效教学]]因素（如清晰讲授、反馈、目标导向），其实质上仅是对数十年来教育教科书既有常识的渐近逼近，缺乏新知识增量（稳定性假说）；而在特定关键领域，基于陈旧文献所得出的否定性推论（如声称教师专业知识与教育背景影响微弱）已被最新严谨实证（如德国 [[COACTIV]] 项目证实[[Teacher Subject Matter Knowledge|教师学科知识]]与学科教学法知识的决定性价值）全面颠覆（变异性假说）（pp. 436–437）；
 > 4. **终结圣杯神话的金字塔隐喻** 二阶元分析未曾寻获掌控教学成效的终极法则（圣杯），其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法轻易移位；另一方面局部不断受损、整体需无休止扩建修复，始终处于临时性与未完成状态（p. 437）。
 
 ---
@@ -499,7 +510,7 @@ updated: 2026-10-29
 > - **[[Problem-Based Learning\|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size\|效应量]]），在[[Random-Effects Model\|随机效应模型]]下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制文献重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect\|调节效应]]。
 > - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area\|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Random-Effects Model\|随机效应模型]]下以经典[[Inverse-Variance Weighting\|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
 > - **大语言模型二阶元分析[[Automated Data Extraction\|自动化数据提取]]** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 基于《[[Visible Learning\|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination\|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm\|范式]]。
-> - **[[Fixed-Effect Model|固定效应]]等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致网络学习排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
+> - **[[Fixed-Effect Model|固定效应]]等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致[[Web-Based Learning|网络学习]]排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
 > - **二阶元分析全库[[Metascience|元科学]]质量与复现性审计** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 与伞状综述规范，对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 PICO 纳入标准，301 项中仅 2 项可复现数据提取（<1% 复现率），44% 报告效应量在原始报告中缺失，为二阶元分析方法学规范与质量控制提供了里程碑式全量审计实证。
 > - **二阶元综合效应量离散度与同质性检验** [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%$）对《可见的学习》133 项效应量展开统计测算，证实全库变差系数达 $56.87\%$（严重突破 $33\%$ 阈值），实证揭示第一代粗放二阶综合在未经同质性控制下输出单一线性均值与关节点的数理缺陷（pp. 238–241）。
 

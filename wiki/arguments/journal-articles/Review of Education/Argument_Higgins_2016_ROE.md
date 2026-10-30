@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_ROE"
 argument_key: "Argument_Higgins_2016_ROE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -25,12 +25,14 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Homework]]"
   - "[[Whole Language]]"
   - "[[Creativity]]"
   - "[[International Education]]"
   - "[[Variable]]"
+  - "[[Mastery Learning]]"
   - "[[Individualised Instruction]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
@@ -58,6 +60,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Analysis of Variance]]"
   - "[[Systematic Review]]"
+  - "[[Experimental Research]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Comparative Meta-synthesis]]"
@@ -85,7 +88,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-06-08'
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2016
 doi: ""
 citation_aliases:
@@ -107,7 +110,7 @@ citation_aliases:
 ---
 
 > [!info] 研究方法
-> 本文为方法论综述，不涉及实证数据收集。作者通过系统性追溯[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]的发展历史，评述关键方法论文献，并以[[EEF Teaching and Learning Toolkit]]为例说明元综合在教育政策中的应用。
+> 本文为方法论综述，不涉及实证数据收集。作者通过系统性追溯[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]的发展历史，评述关键方法论[[Document|文献]]，并以[[EEF Teaching and Learning Toolkit]]为例说明元综合在教育政策中的应用。
 
 ---
 
@@ -148,7 +151,7 @@ Ronald Fisher 在[[Analysis of Variance|方差分析]]等技术上的发展为�
 1940年，Pratt and Rhine 在杜克大学发表了对 145 项超感知觉实验的[[Systematic Review|系统性综述]]，覆盖 1882 至 1939 年间的所有已发表报告(Pratt et al., 1940)。超感知觉（Extra-Sensory Perception, ESP）是指不通过已知感官渠道获取信息的假设能力。这是最早的系统性跨研究合并尝试之一。
 
 > [!note] Pratt and Rhine 的方法论进步
-> 他们的分析在当时堪称严谨。他们从实验设计和条件的角度审视数据，讨论了结果是否可能由偶然因素、正常的视听触觉感知或实验误差造成。他们还将类似实验的结果聚类进行亚组分析。为了证明分析的稳健性，他们估计了未发表论文对总体汇总效果的影响——这就是今天所说的"文件抽屉问题"，即[[Publication Bias\|发表偏差]]对元分析结论的影响。
+> 他们的分析在当时堪称严谨。他们从[[Experimental Research|实验设计]]和条件的角度审视数据，讨论了结果是否可能由偶然因素、正常的视听触觉感知或实验误差造成。他们还将类似实验的结果聚类进行亚组分析。为了证明分析的稳健性，他们估计了未发表论文对总体汇总效果的影响——这就是今天所说的"文件抽屉问题"，即[[Publication Bias\|发表偏差]]对元分析结论的影响。
 
 然而，他们基于所汇总的证据得出结论，认为 ESP 确实存在。后世对此持怀疑态度，原因包括基础研究的设计缺陷、[[Publication Bias|发表偏差]]和可能的选择性报告。但最重要的原因是，尽管有人尝试，这些发现未能被重复验证。这说明他们所积累的研究中的显著结果可能来自偶然（在 95% [[Confidence Interval|置信水平]]下，每 20 项研究中就有 1 项会出现这种情况）、设计缺陷、错误，甚至造假。
 
@@ -172,7 +175,7 @@ Ronald Fisher 在[[Analysis of Variance|方差分析]]等技术上的发展为�
 
 ### 6. 早期的统计综合尝试
 
-1950 至 1960 年代，多位研究者尝试用参数统计技术来汇总不同研究的结果。Underwood(1957)用百分比汇总记忆和遗忘研究中的干扰和信息不保留数据。Erlenmeyer-Kimling and Jarvik(1963)对 99 个代表亲属间智力相似程度的相关系数应用了统计技术。Kulik and Kulik(1989)识别了这些方法与[[Meta-analysis|元分析]]的三个共同特征：从文献中汇总多项研究、用共同尺度报告发现、尝试根据研究特征解释结果变异。
+1950 至 1960 年代，多位研究者尝试用参数统计技术来汇总不同研究的结果。Underwood(1957)用百分比汇总记忆和遗忘研究中的干扰和信息不保留数据。Erlenmeyer-Kimling and Jarvik(1963)对 99 个代表亲属间智力相似程度的相关系数应用了统计技术。Kulik and Kulik(1989)识别了这些方法与[[Meta-analysis|元分析]]的三个共同特征：从[[Document|文献]]中汇总多项研究、用共同尺度报告发现、尝试根据研究特征解释结果变异。
 
 ---
 
@@ -288,7 +291,7 @@ Hattie 将这一工作推进了一步。他汇总了 Fraser et al.(1987)中报�
 
 > [!abstract] Hattie 的三个总体发现
 > **第一**，创新作为改善学习质量的有意识尝试，与成就提高相关，是大多数效果背后的共同主题。
-> **第二**，反馈是改善成就的最强大单一影响。强化的[[Effect Size\|效应量]]为 1.13，补救与反馈为 0.65，掌握学习为 0.50。
+> **第二**，反馈是改善成就的最强大单一影响。强化的[[Effect Size\|效应量]]为 1.13，补救与反馈为 0.65，[[Mastery Learning|掌握学习]]为 0.50。
 > **第三**，最不成功的创新是试图[[Individualised Instruction\|个别化教学]]的尝试。个别化教学的平均效应量仅为 0.14，程序化教学为 0.18。这在当时尤为重要，因为学生大约三分之二的在校时间在独自学习。
 
 Hattie 引入了"通用连续体"（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40，标准差为 0.13。他将 Fraser et al.(1987)中报告的相关系数转换为标准化平均差异，正如 Bloom 此前为辅导所做的那样。

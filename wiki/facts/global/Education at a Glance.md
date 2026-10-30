@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - level/k12
   - educational-governance
 related_concepts:
+  - "[[Document]]"
   - "[[Governing by Numbers]]"
   - "[[Commensuration]]"
   - "[[Operationalization]]"
@@ -59,13 +60,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 《教育概览》（Education at a Glance, EAG）是[[OECD|经济合作与发展组织]]（OECD）自 1992 年起出版的年度旗舰数据报告，被誉为全球教育系统量化比较的权威文献。该报告由[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络研发生产，系统呈现成员国与伙伴国在教育产出、财政人力投入、入学升学以及学校环境维度的数百项指标，标志着西方世界教育治理从二战后粗放的劳动力预测全面转向现代“[[Governing by Numbers|数字治理]]”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
+> 《教育概览》（Education at a Glance, EAG）是[[OECD|经济合作与发展组织]]（OECD）自 1992 年起出版的年度旗舰数据报告，被誉为全球教育系统量化比较的权威[[Document|文献]]。该报告由[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络研发生产，系统呈现成员国与伙伴国在教育产出、财政人力投入、入学升学以及学校环境维度的数百项指标，标志着西方世界教育治理从二战后粗放的劳动力预测全面转向现代“[[Governing by Numbers|数字治理]]”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1992 年首版面世；此后每年秋季定期发布最新年度报告，迄今已连续出版逾三十年。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]

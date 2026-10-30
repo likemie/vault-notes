@@ -43,6 +43,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Student Attitude]]"
+  - "[[Document]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Procedural Skill]]"
   - "[[Curiosity-Driven Research]]"
@@ -85,14 +86,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-23
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -174,7 +175,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **方法定位**<br>Second-Order Meta-Analysis | 以整合元分析统计结果为目标，将一阶[[Meta-analysis\|元分析]]报告的分析单位（独立[[Effect Size\|效应量]]）作为二阶综合的分析单位，在[[Random-Effects Model\|随机效应模型]]下进行整合（Oh, 2020; Schmidt & Oh, 2013）。 |
 > | **文献检索与筛选**<br>Systematic Search & Screening | 检索 Scopus、Web of Science、MEDLINE、ERIC、Academic Search Ultimate、Google Scholar 与 ProQuest；使用“problem based”或“[[Problem-Based Learning\|PBL]]”与“meta-analysis”“meta analytic”“systematic review”关键词组合；遵循系统综述和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses，PRISMA）指南。检索得 495 项，去重后 43 项，按标准筛选后最终纳入 20 项元分析。 |
-> | **纳入与排除标准**<br>Inclusion & Exclusion Criteria | 六项标准涵盖文献语言与时限、干预与对照要求、统计信息、文献重叠、教育阶段与对照组类型，具体判定见下方序号表。 |
+> | **纳入与排除标准**<br>Inclusion & Exclusion Criteria | 六项标准涵盖[[Document\|文献]]语言与时限、干预与对照要求、统计信息、文献重叠、教育阶段与对照组类型，具体判定见下方序号表。 |
 > | **方法学质量评估**<br>Quality Assessment | 采用修订版[[AMSTAR\|系统评价质量评估工具]]（Revised Assessment of Multiple Systematic Reviews，R-AMSTAR，Kung et al., 2010）评估元分析质量；量表 11 个章节，剔除 8A 与 8B 临床适用条目（各 1 分）不计分；质量得分作为调节[[Variable\|变量]]参与统计检验。 |
 > | **数据提取与双人编码**<br>Data Extraction & Coding | 以 MS Excel 开发编码表；两位研究者独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经讨论，无法达成一致者征询专家意见后决定。 |
 > | **效应量选择与转换**<br>Effect Size Selection & Conversion | 标准化均差（Standardized Mean Difference，SMD）、Cohen's d 与 Hedges' g 在大样本下等价（Goulet-Pelletier & Cousineau, 2018）；数据集中 $k = 47$ 个报告 SMD、$k = 2$ 个报告比值比（Odds Ratio，OR）、$k = 1$ 个报告 Hedges' g，OR 转换为 SMD 后纳入分析；统计软件为 CMA 3.0。 |

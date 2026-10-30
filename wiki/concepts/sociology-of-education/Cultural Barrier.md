@@ -6,7 +6,7 @@ aliases:
 summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,9 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Cultural Capital]]"
+  - "[[Habitus]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
@@ -36,13 +38,14 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
   - "[[Didier Eribon]]"
-related_facts: []
+related_facts:
+  - "[[Double First-Class Initiative]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -59,7 +62,7 @@ updated: 2026-10-22
 >
 
 > [!info] 理论基础
-> - [[Pierre Bourdieu]] — 文化障碍概念直接源于布迪厄对[[Cultural Capital\|文化资本]]、习性和[[Champ\|场域]]的分析。布迪厄和帕斯隆指出："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Bourdieu & Passeron, 1979, pp.21-22）
+> - [[Pierre Bourdieu]] — 文化障碍概念直接源于布迪厄对[[Cultural Capital\|文化资本]]、[[Habitus|习性]]和[[Champ\|场域]]的分析。布迪厄和帕斯隆指出："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Bourdieu & Passeron, 1979, pp.21-22）
 >
 
 > [!success] 实证发现
@@ -69,7 +72,7 @@ updated: 2026-10-22
 >
 
 > [!example] 相关案例
-> - 中国双一流高校中，来自农村和贫困地区的学生面对着与城市中产阶级同学截然不同的文化参照系：他们可能对出国留学的申请程序、教授的推荐信文化、实习的经济成本和人脉积累方式毫无概念，而这些问题在他们的家庭和原初社交圈中几乎无人能够解答（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
+> - 中国[[Double First-Class Initiative|双一流]]高校中，来自农村和贫困地区的学生面对着与城市中产阶级同学截然不同的文化参照系：他们可能对[[Study Abroad|出国留学]]的申请程序、教授的推荐信文化、实习的经济成本和人脉积累方式毫无概念，而这些问题在他们的家庭和原初社交圈中几乎无人能够解答（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 
 
 > [!example] 社交融入的文化语码障碍
@@ -101,7 +104,7 @@ updated: 2026-10-22
 
 [[Cultural Disorientation|文化迷失]]是第二重文化障碍，典型特征是[[Champ|场域]]的剧烈转换造成了内在自我的冲突，继而引发了行动目标和策略的迷失([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])：
 
-- **习性裂化** 寒门学子既脱离原来生长的环境，接触了许多新鲜观念和事物；又在名校新获得的身份和自我认知不断被原先的自我和社会关系所干扰，自我认同时刻处于不稳定或撕裂状态——"产生一种习性分裂的体验"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
+- **[[Habitus|习性]]裂化** 寒门学子既脱离原来生长的环境，接触了许多新鲜观念和事物；又在名校新获得的身份和自我认知不断被原先的自我和社会关系所干扰，自我认同时刻处于不稳定或撕裂状态——"产生一种习性分裂的体验"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
 - **文化知识的缺失** 不了解精英大学和劳动力市场中的"游戏规则"，不清楚如何为自身发展赢得优势，也不倾向于对外寻求帮助（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Lareau, 2015; Calarco, 2011）
 - **价值感混乱与投入无方向** 价值感的混乱和无规划的投入容易导致直觉依赖者在毕业前夕迷失无从，陷入无准备状态。寒门学子应对的策略常常是固守自己熟悉的学业成功，而放弃所不熟悉的课外社会性活动，容易在未经仔细省察真正志趣前就匆忙踏上直升研究生或博士的道路([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 

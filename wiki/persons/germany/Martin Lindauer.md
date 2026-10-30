@@ -7,7 +7,7 @@ summary: "德国动物行为学家与社会生物学家，慕尼黑大学动物�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ tags:
   - theme/collective-behavior
   - region/germany
 related_concepts:
-  - "[[Geisteswissenschaften]]"
   - "[[Dance Language of Bees]]"
   - "[[Swarm Intelligence]]"
   - "[[Edge Autonomy]]"
@@ -40,13 +39,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国动物行为学家、感官生理学家与社会生物学先驱；慕尼黑大学动物学研究所研究员，法兰克福大学教授与维尔茨堡大学动物学研究所所长，巴伐利亚科学与[[Geisteswissenschaften|人文科学]]院院士。
+> - **身份位置** 德国动物行为学家、感官生理学家与社会生物学先驱；慕尼黑大学动物学研究所研究员，法兰克福大学教授与维尔茨堡大学动物学研究所所长，巴伐利亚科学与人文科学院院士。
 > - **核心角色** 作为[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]得主[[Karl von Frisch|卡尔·冯·弗里施]]（[[Karl von Frisch]]）的核心弟子与长期合作者，林道尔将经典行为生理学与群体生态学相结合，开创性地揭示了蜜蜂在无中央首领指挥下的集体决策机制与筑巢地点民主协商过程。
 > - **代表贡献** 1951 年在慕尼黑主导实施[[Eck Swarm Experiment|埃克蜂群实验]]（[[Eck Swarm Experiment]]），系统解析了[[Dance Language of Bees|蜜蜂舞蹈语言]]（[[Dance Language of Bees]]）在房产侦察与群体投票中的调解机制，证实了[[Swarm Intelligence|群智能]]（[[Swarm Intelligence]]）中[[Edge Autonomy|边缘自治]]（[[Edge Autonomy]]）信息向全局共识演化的生物学自组织原理。
 

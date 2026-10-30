@@ -9,7 +9,7 @@ summary: "拉美著名人类学家，智利科学院院士，墨西哥国立自�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,9 +23,11 @@ tags:
   - neoliberalism
   - region/chile
 related_concepts:
+  - "[[School Vouchers]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
 related_theories:
   - "[[Conditioned State Theory]]"
 related_methods:
@@ -40,22 +42,22 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[Chicago Boys]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 拉美著名社会人类学家、城市人类学开拓者；智利[[Chinese Academy of Sciences|科学院]]院士、墨西哥国立自治大学（UNAM）[[Ethnography|人类学研究]]所荣休高级研究员，曾任拉丁美洲人类学学会会长。
-> - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了新自由主义极端市场化、教育券制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
+> - **身份位置** 拉美著名社会人类学家、城市人类学开拓者；智利科学院院士、墨西哥国立自治大学（UNAM）[[Ethnography|人类学研究]]所荣休高级研究员，曾任拉丁美洲人类学学会会长。
+> - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了新自由主义极端市场化、[[School Vouchers|教育券]]制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
 > - **代表贡献** 提出拉美边缘群体与中产阶级互助生存网络模型；出版《边缘人如何生存：墨西哥城棚户区的互助网络》（1975/1977）与《智利中产阶级：新自由主义下的生存斗争》（与安娜·梅尔尼克合著，1991）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论洛姆尼茨等学者对新自由主义结构调整与智利社会危机的实证剖析
@@ -70,9 +72,9 @@ updated: 2026-10-22
 > - **1950 年代** 毕业于智利大学，投身社会学与人类学[[Fieldwork|田野调查]]。
 > - **1970–1974** 在墨西哥国立自治大学（UNAM）师从人类学大师，完成具有世界性声誉的墨西哥城贫民窟人类学博士研究。
 > - **1975** 出版《边缘人如何生存》（*Cómo sobreviven los marginados*），由墨西哥著名学者出版社（Siglo XXI）出版，被誉为拉美非正式经济研究经典。
-> - **1980 年代** 针对智利皮诺切特军政权引入“芝加哥男孩”极端新自由主义改革展开实地田野调查，追踪中产阶级教师、公务员与专业人士在公共[[Educational Privatisation|教育私有化]]下的断崖式衰退。
+> - **1980 年代** 针对智利皮诺切特军政权引入“[[Chicago Boys|芝加哥男孩]]”极端新自由主义改革展开实地田野调查，追踪中产阶级教师、公务员与专业人士在公共[[Educational Privatisation|教育私有化]]下的断崖式衰退。
 > - **1991** 在美国出版专著《智利中产阶级：新自由主义下的生存斗争》（*Chile's Middle Class: A Struggle for Survival in the Face of Neoliberalism*）。
-> - **2006** 当选智利[[Chinese Academy of Sciences|科学院]]院士。
+> - **2006** 当选智利科学院院士。
 > - **2019** 病逝于墨西哥城，享年 86 岁。
 
 ---
@@ -101,7 +103,7 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **人类学与教育实证研究** 其[[Ethnography|民族志]]方法深刻启发了比较教育学界开展“新自由主义教育改革的微观民族志”，证明了宏观经济指标繁荣与微观社会生活苦难之间的尖锐悖论。
-> - **拉美政策批判** 成为批判学者与学生抗议运动（如 2011 智利企鹅革命与学生运动）反思皮诺切特教育券遗产的经典实证基准文献。
+> - **拉美政策批判** 成为批判学者与学生抗议运动（如 2011 智利企鹅革命与学生运动）反思皮诺切特教育券遗产的经典实证基准[[Document|文献]]。
 
 ---
 

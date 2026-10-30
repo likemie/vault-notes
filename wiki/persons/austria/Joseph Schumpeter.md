@@ -3,7 +3,7 @@ summary: "奥地利裔美国著名经济学家，演化经济学与现代创新�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creative Destruction]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Organizational Ambidexterity]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-30
 title: Joseph Schumpeter
 aliases:
   - "Schumpeter, J."
@@ -77,7 +78,7 @@ aliases:
 
 > [!contrast-table] 熊彼特思想在现代科技政策与治理理论中的映射
 >
-> | 理论领域 | 承接概念 / 理论工具 | 理论功能与跨学科转化 | 代表学者与文献 |
+> | 理论领域 | 承接概念 / 理论工具 | 理论功能与跨学科转化 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **[[Public Dynamic Capabilities\|公共部门动态能力]]** | [[Public Dynamic Capabilities\|公共部门动态能力理论]] | 将熊彼特企业双元探索能力迁移至国家治理，与韦伯国家能力综合，构建国家、政策与行政三层公共动态能力矩阵。 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **[[Evolutionary Economics\|演化经济学]]流派** | [[Evolutionary Economics\|现代演化经济学]] | 引入非完全竞争、[[Bounded Rationality\|有限理性]]与搜寻例规，奠定国家[[Systems of Innovation\|创新系统]]与技术–经济[[Paradigm\|范式]]变迁理论。 | Nelson and Winter (1982); Perez (2002) |

@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Habitus]]"
   - "[[Research Question]]"
   - "[[Heterogeneity]]"
   - "[[Critical Pedagogy]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Blended Learning]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Direct Instruction]]"
+  - "[[Integrated Curriculum Programs]]"
   - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
@@ -68,7 +70,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -130,7 +132,7 @@ updated: 2026-10-22
 ---
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
-> - **[[Ontology\|本体论]]** [[Critical Thinking\|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化习性的产物。
+> - **[[Ontology\|本体论]]** [[Critical Thinking\|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化[[Habitus|习性]]的产物。
 > - **认识论** 本理论依赖教育心理学实证研究（实验、准实验、[[Meta-analysis\|元分析]]）的证据，将教学效果的[[Operationalization\|操作化]]定义为学生在标准化测量上的得分变化。
 > - **方法含义** 支持使用[[Randomised Controlled Trials\|随机对照试验]]、[[Quasi-Experimental Designs\|准实验设计]]和元分析来检验不同教学路径的效果；需要有效的批判性思维测量工具（如 [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]] 等）。
 > - **不能直接推出的东西** 不能从"显性教学更有效"直接推出"应在所有学校强制开设批判性思维独立课程"——这一推论需要额外的政策分析（课程空间、教师供给、资源成本和公平性考量）。也不能推出"学科教师不需要教授批判性思维"——理想状态是在独立课程和跨学科融入之间建立互补关系。
@@ -190,7 +192,7 @@ updated: 2026-10-22
 >
 > | 一阶元分析 | 理论检验角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 显性混合模式（独立显性教学 + 学科融入）实证增益最高，确立显性整合课程优势 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 显性混合模式（独立显性教学 + 学科融入）实证增益最高，确立显性[[Integrated Curriculum Programs\|整合课程]]优势 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | 教学干预策略组合：单独真实性（A）vs 单独[[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$；D $g+ = 0.23$；A+D $g+ = 0.32$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师指导发挥关键催化功能 |
 
 ---

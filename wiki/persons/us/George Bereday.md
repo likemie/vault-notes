@@ -11,10 +11,10 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 39
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1920"
 died: "1983"
 lifespan: "1920–1983"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Comparative History of Comparative Education]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Scientific Explanation]]"
   - "[[Working Hypothesis]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -118,7 +117,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心思想
-> 比较教育学是一门立足于“教育的地理学视角”（geographical perspective of education）、融合[[Geisteswissenschaften|人文科学]]与社会科学工具的[[Comparative Education as a Cross-Sectional Area|交叉学科]]。学科不应再停留在直觉性的游记白描或主观价值偏好上，而必须遵循严密的经验归纳程序。区域研究（区域事实的系统描述与历史人文解释）是比较研究必不可少的基础，但真正的跨国比较研究必须通过横向标准并列，在同一[[Analytic Framework\|分析框架]]下开展综合分析（total analysis），从而揭示“所有教育体制据以构建的内在普遍力量”，最终推导出具有[[Scientific Explanation\|科学解释]]力的跨国普遍法则或结构类型学。
+> 比较教育学是一门立足于“教育的地理学视角”（geographical perspective of education）、融合人文科学与社会科学工具的[[Comparative Education as a Cross-Sectional Area|交叉学科]]。学科不应再停留在直觉性的游记白描或主观价值偏好上，而必须遵循严密的经验归纳程序。区域研究（区域事实的系统描述与历史人文解释）是比较研究必不可少的基础，但真正的跨国比较研究必须通过横向标准并列，在同一[[Analytic Framework\|分析框架]]下开展综合分析（total analysis），从而揭示“所有教育体制据以构建的内在普遍力量”，最终推导出具有[[Scientific Explanation\|科学解释]]力的跨国普遍法则或结构类型学。
 
 > [!proc] 乔治·贝雷迪比较研究四步归纳程序
 > 1. **地理与制度描述（Description）** 系统搜集特定国家的地理环境、人口结构、学制法令与基础教育统计，建立完整详实的客观事实档案，属于单国区域研究的实证起点。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 61)]]

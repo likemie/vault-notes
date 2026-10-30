@@ -9,7 +9,7 @@ summary: "台湾师范大学讲座教授、学习科学与教育技术领域国�
 type: person
 nationality: taiwan
 person_region: "taiwan"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Web-Based Learning]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 中国台湾学习科学与教育技术学者，台湾师范大学学习科学跨国顶尖研究中心讲座教授、教育学院院长，国际权威期刊 *Computers & Education* 与 *International Journal of Science Education* 前主编/主编。
 > - **核心角色** 在学习者科学[[Epistemological Beliefs\|认识论信念]]、网络化学习环境认知机制以及[[Man-Computer Symbiosis|人机协同]][[Knowledge Building Theory|知识建构]]研究中发挥奠基性枢纽作用。
-> - **代表贡献** 提出网络学习[[Epistemology\|认识论]]两大假说（Tsai, 2004）；开创基于认识[[Network Analysis\|网络分析]]的学习交互研究；建构人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
+> - **代表贡献** 提出[[Web-Based Learning|网络学习]][[Epistemology\|认识论]]两大假说（Tsai, 2004）；开创基于认识[[Network Analysis\|网络分析]]的学习交互研究；建构人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 
 > [!citation-card] [[Man-Computer Symbiosis|人机共生]]学习环境中的认识调适定位
 > 在人工智能中介的学习环境中，学习者并非单向接受机器输出，而是通过动态调适认识立场与交互策略，与智能系统建立共享的[[Epistemic Agency\|认识能动性]]，实现双向的智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 360)]]

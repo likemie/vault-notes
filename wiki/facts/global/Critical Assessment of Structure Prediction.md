@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Industrial Commons]]"
   - "[[Metascience]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
@@ -44,13 +45,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **蛋白质结构预测关键评估（Critical Assessment of Protein Structure Prediction, CASP）** 是全球结构生物学与计算生物学领域最具公信力的两年一度盲测评估项目与基准检验平台，于 1994 年由马里兰大学约翰·莫尔特（John Moult）与克日什托夫·菲德利斯（Krzysztof Fidelis）等学者正式创设。CASP 通过纯盲测实验设计与严密的量化打分标准，客观裁决全球各研究团队从一维氨基酸序列预测三维空间构型的计算精度，彻底终结了计算生物学界长期存在的“自测自夸”自娱自乐困境。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 22)]]
+> **蛋白质结构预测关键评估（Critical Assessment of Protein Structure Prediction, CASP）** 是全球结构生物学与计算生物学领域最具公信力的两年一度盲测评估项目与基准检验平台，于 1994 年由马里兰大学约翰·莫尔特（John Moult）与克日什托夫·菲德利斯（Krzysztof Fidelis）等学者正式创设。CASP 通过纯盲测[[Experimental Research|实验设计]]与严密的量化打分标准，客观裁决全球各研究团队从一维氨基酸序列预测三维空间构型的计算精度，彻底终结了计算生物学界长期存在的“自测自夸”自娱自乐困境。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 22)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1994 年启动首届（CASP1），每两年举办一届，迄今已连续举办十余届（包括 CASP13/14/15/16 等关键里程碑）。

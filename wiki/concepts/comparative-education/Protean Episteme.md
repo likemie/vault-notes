@@ -19,7 +19,6 @@ tags:
   - theme/historiography
   - paradigm/pluralism
 related_concepts:
-  - "[[Geisteswissenschaften]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Comparative Educations]]"
   - "[[Scientism]]"
   - "[[Whiggism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Variable]]"
   - "[[Positivism]]"
   - "[[Research Topic]]"
@@ -83,13 +83,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Protean Episteme
-> **普罗透斯式认识体系（Protean Episteme）** 是由希腊裔比较教育史学家[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）借用古希腊神话中能够随心所欲变换形态的海神普罗透斯（Proteus）隐喻，界定比较教育学作为一门多学科交叉“[[Geisteswissenschaften|人文科学]]”（Human Science, *Vergleichende Erziehungswissenschaft*）的本质[[Epistemology|认识论]]特征。该概念指明：比较教育学在两百余年的历史演化中从来不是单一面向或单音调的知识体系，而是如同身披不同颜色认识论、方法论和意识形态丝线织就的各异装束，随着不同历史时代的智识思潮、研究风尚与文化诉求而持续变换其面貌、研究重点与论述代际。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
+> **普罗透斯式认识体系（Protean Episteme）** 是由希腊裔比较教育史学家[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）借用古希腊神话中能够随心所欲变换形态的海神普罗透斯（Proteus）隐喻，界定比较教育学作为一门多学科交叉“人文科学”（Human Science, *Vergleichende Erziehungswissenschaft*）的本质[[Epistemology|认识论]]特征。该概念指明：比较教育学在两百余年的历史演化中从来不是单一面向或单音调的知识体系，而是如同身披不同颜色认识论、方法论和意识形态丝线织就的各异装束，随着不同历史时代的智识思潮、研究风尚与文化诉求而持续变换其面貌、研究重点与论述代际。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉比较教育学[[Knowledge Production|知识生产]]与方法论形态因应时代智识与政治语境而高度变异的认识论特质。
@@ -118,7 +118,7 @@ updated: 2026-10-29
 ---
 
 > [!feature] 核心要素
-> - **跨学科[[Geisteswissenschaften|人文科学]]属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于[[Behaviorism|行为主义]]量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
+> - **跨学科人文科学属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于[[Behaviorism|行为主义]]量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
 > - **汉斯式广义教育科学与精神科学溯源（Hansian Erziehungswissenschaft and Human Science [[ROOTS]]）** 普罗透斯式认识体系承继[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）对“教育科学（*Vergleichende Erziehungswissenschaft*）”的广义界定与欧陆[[Geisteswissenschaften|精神科学]]传统，将“科学”确立为跨学科、多视角的人文学术综合，坚决抗拒英语世界将科学降格为行为主义量化实证的狭隘专断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–141)]]
 > - **时代思潮与意识形态编织（Weaving of Cultural Strands and Ideological Fads）** 学科的方法论面貌与[[Research Topic|研究主题]]深刻折射出特定历史阶段的智识潮流（如启蒙理性、战后现代性工程、冷战对抗、全球化市场化）与统治阶级治理诉求。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 > - **代际演替与论述类型更迭（Succession of [[Discourse]] Generations）** [[Knowledge Production|知识生产]]不是单一累加，而是呈现为不同代际之间围绕“科学 vs 艺术”、“解释 vs 预测”、“宏观国家 vs 微观学校”展开的周期性论辩与话语重塑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 140)]]

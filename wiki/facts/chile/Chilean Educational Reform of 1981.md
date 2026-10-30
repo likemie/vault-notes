@@ -12,7 +12,7 @@ subtype: event
 region: "chile"
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - neoliberalism
   - region/chile
 related_concepts:
+  - "[[School Vouchers]]"
   - "[[Subsidiarity Principle]]"
   - "[[Educational Privatisation]]"
   - "[[Endogenous Privatisation]]"
@@ -37,6 +38,7 @@ related_instruments: []
 related_persons:
   - "[[Larissa Adler Lomnitz]]"
 related_facts:
+  - "[[Chicago Boys]]"
   - "[[World Bank]]"
   - "[[Latin American Debt Crisis of 1982]]"
 related_arguments:
@@ -44,17 +46,17 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1981 年智利教育改革是人类现代教育史上首个在全国范围内激进落地的新自由主义教育券与全面私有化实验，标志着国家彻底放弃公立教育统筹保障职能、以市场竞争逻辑重构公共服务的转折点。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85)]]
+> 1981 年智利教育改革是人类现代教育史上首个在全国范围内激进落地的新自由主义[[School Vouchers|教育券]]与全面私有化实验，标志着国家彻底放弃公立教育统筹保障职能、以市场竞争逻辑重构公共服务的转折点。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1980–1981 年颁布启动并持续主导智利教育体制数十年；覆盖智利全国初等、中等及高等教育体系。
-> - **核心当事主体** 智利皮诺切特（Augusto Pinochet）军事独裁政权、“芝加哥男孩”（Chicago Boys）技术官僚团队、私立营利性学校集团。
+> - **核心当事主体** 智利皮诺切特（Augusto Pinochet）军事独裁政权、“[[Chicago Boys|芝加哥男孩]]”（Chicago Boys）技术官僚团队、私立营利性学校集团。
 > - **深层制度与社会背景** 1973 年政变后，军政府全面清洗左翼教师与学者，采纳弗里德曼与新自由主义经济学的极端处方，将教育视作私人[[Human Capital Theory|人力资本]]投资而非公民权利。
 > - **直接导火索** 1980 年军政府强行通过新宪法，确立了削减国家公共职能的从属性原则（[[Subsidiarity Principle|Principle of Subsidiarity]]）。
 

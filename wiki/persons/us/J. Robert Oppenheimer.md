@@ -10,7 +10,7 @@ summary: "美国理论物理学家，二战期间曼哈顿工程洛斯阿拉莫�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[Manhattan Project]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Institute for Advanced Study]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[Federally Funded Research and Development Centers]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-26
 > [!person-profile] 人物档案
 > - **身份位置** J. 罗伯特·奥本海默（J. Robert Oppenheimer, 1904–1967）是美国理论物理学家，加利福尼亚大学伯克利分校物理学教授，二战期间受命担任[[Manhattan Project|曼哈顿工程]]新墨西哥州洛斯阿拉莫斯实验室（Y计划）科学主任。
 > - **核心角色** 主持研制了人类历史上第一批核裂变武器，被称为“原子弹之父”；开创了 20 世纪美国由国家战略目标驱动、高度集中的[[Big Science|大科学]]研发模式，成为战时科研动员与国家安全战略深度融合的标志性人物；其在战时践行的[[Engineering Pragmatism|工程实用主义]]与战后对核扩散及人类道德困境的深刻反思，构成了现代科技与大国地缘博弈关系的核心思想透镜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–40)]]
-> - **代表贡献** 领导[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室成功研制原子弹，主导 1945 年 7 月“三位一体”（Trinity）核试验；开创军政学产协同攻坚机制；战后出任美国原子能委员会（AEC）总顾问委员会主席与[[Institute for Advanced Study|普林斯顿高等研究院]]院长，推动理论物理前沿探索与国际核军控倡议。
+> - **代表贡献** 领导[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室成功研制原子弹，主导 1945 年 7 月“三位一体”（Trinity）核试验；开创军政学产协同攻坚机制；战后出任美国原子能委员会（[[ASEAN Economic Community|AEC]]）总顾问委员会主席与[[Institute for Advanced Study|普林斯顿高等研究院]]院长，推动理论物理前沿探索与国际核军控倡议。
 
 > [!citation-card] 战时科研动员与地缘格局重塑
 > 奥本海默将原子弹视为一项更为根本的基础科学探索的体现。正是对非定向学术探索的执着，与战时集中资源和行动意志的结合，催生了那个时代最具决定性影响的武器，并深刻塑造了此后至少半个世纪的国际大国关系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 16)]]

@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Research Universities]]"
+  - "[[Document]]"
   - "[[International Education]]"
   - "[[Student Mobility]]"
   - "[[Discourse]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-22
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2004 年 11 月在英国伦敦首次公开发布，随后以年度为周期向全球高等教育界持续扩散。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 > - **核心当事主体** 英国《泰晤士高等教育》（Times Higher Education）编辑团队与泰晤士高等教育商业咨询机构（早期合作方为 Quacquarelli Symonds, QS，后期数据合作方涵盖汤森路透与爱思唯尔 Scopus）；参与同行声誉评议的全球学者；各国高等教育管理部门与顶尖[[Research Universities|研究型大学]]。
-> - **深层制度与社会背景** 2003 年上海交通大学推出全部基于硬科学文献计量与诺奖指标的 ARWU 榜单，引发欧美老牌学府震动；[[International Education|国际教育]]市场化与[[Student Mobility|跨国学生流动]]规模空前扩张，亟需一套兼顾传统人文学科声誉与教学环境的多维度跨国综合评估工具。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
+> - **深层制度与社会背景** 2003 年上海交通大学推出全部基于硬科学[[Document|文献]]计量与诺奖指标的 ARWU 榜单，引发欧美老牌学府震动；[[International Education|国际教育]]市场化与[[Student Mobility|跨国学生流动]]规模空前扩张，亟需一套兼顾传统人文学科声誉与教学环境的多维度跨国综合评估工具。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
 > - **直接导火索 / 触发事件** ARWU 纯科研指标体系对英国及欧洲人文社科见长的高校形成不利冲击，英国高教界急需制定兼顾声誉与教学产出的跨国排名以争夺全球留学生市场与[[Discourse|话语]]权。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 
 ---

@@ -8,7 +8,7 @@ summary: "质性访谈中用于指导问题提问和记录回答的一至两页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -50,10 +50,12 @@ related_methods:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!example] 图9.2：访谈协议或指南示例
@@ -73,7 +75,7 @@ updated: 2026-10-29
 > [!citation-card] 关键定义
 > 访谈提纲的构建涉及将研究目标转化为具体问题。第一步是写下要研究的[[Variable\|变量]]，变量告诉研究者从哪里开始（Tuckman, 1972）。构建时需考虑问题格式、回答模式、提示和追问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 418–420]]）。
 >
-> *The first step in constructing interview questions is to specify your variables by name. Your variables are what you are trying to measure. They tell you where to begin. (Tuckman, 1972)*
+> *The first [[Skills Toward Employment and Productivity|step]] in constructing interview questions is to specify your variables by name. Your variables are what you are trying to measure. They tell you where to begin. (Tuckman, 1972)*
 
 ---
 

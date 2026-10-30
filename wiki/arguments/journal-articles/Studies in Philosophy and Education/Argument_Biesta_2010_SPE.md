@@ -9,9 +9,9 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'what works' still won't work: From evidence-based education to value-based education"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Studies in Philosophy and Education
 citation: "Biesta, G. J. J. (2010). Why 'what works' still won't work: From evidence-based education to value-based education. Studies in Philosophy and Education, 29(5), 491–503."
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
+  - "[[Document]]"
   - "[[Deficit Framing]]"
   - "[[Ontology]]"
   - "[[Causality]]"
@@ -54,7 +55,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2010
 doi: ""
 citation_aliases:
@@ -78,7 +79,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**[[Philosophical Analysis in Education]] — 以三个维度（[[Epistemology\|认识论]]、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构** 每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
-> - **数据来源** 哲学文献（Dewey、Latour）、系统理论、教育研究方法论文献
+> - **数据来源** 哲学[[Document|文献]]（Dewey、Latour）、系统理论、教育研究方法论文献
 
 > [!example] 核心论证
 > ### 三重[[Deficit Framing\|缺陷框架]]

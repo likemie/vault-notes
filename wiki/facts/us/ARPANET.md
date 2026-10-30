@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[J. C. R. Licklider]]"
+  - "[[Mark Newman]]"
   - "[[David C. Mowery]]"
 related_facts:
   - "[[DARPA]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **1960年代初–1968年 — 理论奠基与先导发包** 利克莱德提出[[Man-Computer Symbiosis|人机共生]]与分布式网络蓝图，伦纳德·克兰罗克与保罗·巴兰建立分组交换理论；1968 年底 [[DARPA]] 将首批接口信息处理机（IMP）研制合同授予麻省理工学院教授创立的新兴工程企业博尔特-贝拉内克-纽曼（BBN）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
+> - **1960年代初–1968年 — 理论奠基与先导发包** 利克莱德提出[[Man-Computer Symbiosis|人机共生]]与分布式网络蓝图，伦纳德·克兰罗克与保罗·巴兰建立分组交换理论；1968 年底 [[DARPA]] 将首批接口信息处理机（IMP）研制合同授予麻省理工学院教授创立的新兴工程企业博尔特-贝拉内克-[[Mark Newman|纽曼]]（BBN）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1969年–1975年 — 原型联网与网络跨域扩散** 1969 年秋实现 UCLA 与 SRI 之间的首次数据包传输；随后网络以指数级速度接入斯坦福、哈佛、MIT 等名校与军工实验室，至 1975 年实现超过 100 处异构学术节点联网。
 > - **1974年–1983年 — 协议标准化与向互联网跃迁** 1974 年由 DARPA 资助的罗伯特·卡恩（Robert Kahn）与文顿·瑟夫（Vinton Cerf）发表传输控制协议与网际协议（TCP/IP）规范，并将该技术无偿公开在公共领域；1983 年 1 月 1 日阿帕网全面将底层网络控制协议（NCP）切换为 TCP/IP，标志着现代多网络互联互联网的正式诞生。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 39)]]
 > - **1983年–1990年 — 军民分轨与退役解耦** 1983 年阿帕网军用节点剥离为独立的国防数据网（MILNET），剩余学术节点于 1986 年由国家科学基金会网络（NSFNET）接管扩展，ARPANET 于 1990 年正式退役。

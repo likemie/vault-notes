@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Production]]"
+  - "[[Mode 2 Knowledge Production]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Max Planck Society]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -89,4 +90,4 @@ updated: 2026-10-22
 > | [[Max Planck Society]] | Fact (Organization) | 德国科技体制中主导纯基础探索的平行学会，与弗劳恩霍夫构成“基础-应用”双翼。 |
 > | [[Technology Transfer]] | Concept | 弗劳恩霍夫学会履行的核心国家功能。 |
 > | [[CNRS]] | Fact (Organization) | 法国兼顾基础与应用但未截然拆分的对等国家科研机构。 |
-> | [[Knowledge Production]] | Concept | 针对产业实践导向模式二知识生产的制度化实践模式。 |
+> | [[Knowledge Production]] | Concept | 针对产业实践导向[[Mode 2 Knowledge Production\|模式二知识生产]]的制度化实践模式。 |

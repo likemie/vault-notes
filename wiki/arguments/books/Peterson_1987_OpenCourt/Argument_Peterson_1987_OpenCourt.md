@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -30,7 +30,9 @@ tags:
   - theme/institution-building
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Teacher Collaboration]]"
   - "[[Terminal Courses]]"
+  - "[[Teacher Support for Students]]"
   - "[[International Education]]"
   - "[[Whole Person Education]]"
   - "[[General Education]]"
@@ -41,6 +43,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[International Qualification Recognition]]"
   - "[[Network Governance]]"
+  - "[[Document]]"
   - "[[International Schools]]"
   - "[[Reliability]]"
   - "[[Advanced Placement Program]]"
@@ -79,7 +82,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -98,8 +101,8 @@ updated: 2026-10-26
 
 > [!monograph-thesis] 全书核心主张
 > - **问题起点** 战后相互依存、民族隔阂与跨国流动，把共同生活、共同学习和升学资格连接为同一教育问题。
-> - **核心解释** 个人倡议需要通过教师协作、组织资源、课程与评价、大学承认及持续融资，才能成为可运行的跨国制度；地方适应与共同规则共同维持扩展。
-> - **收束判断** 成功运行和规模增长不能替代教育价值审查。[[Terminal Courses|终结性课程]]、教师支持、文化平衡、奖学金与公共资助，关系到制度能否持续服务其原有目标；战争预防效果仍需独立证据（第1—8章，pp. 1–217）。
+> - **核心解释** 个人倡议需要通过[[Teacher Collaboration|教师协作]]、组织资源、课程与评价、大学承认及持续融资，才能成为可运行的跨国制度；地方适应与共同规则共同维持扩展。
+> - **收束判断** 成功运行和规模增长不能替代教育价值审查。[[Terminal Courses|终结性课程]]、[[Teacher Support for Students|教师支持]]、文化平衡、奖学金与公共资助，关系到制度能否持续服务其原有目标；战争预防效果仍需独立证据（第1—8章，pp. 1–217）。
 
 ---
 
@@ -113,7 +116,7 @@ updated: 2026-10-26
 这些工具用于追踪制度形成和解释决策，材料性质限制了可得结论的强度。
 
 > [!monograph-method] 历史叙事与材料边界
-> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、早期组织记录、利奇与马丁·梅耶（Martin Mayer）的同时代记述、政府协商和章末历史文献。
+> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、早期组织记录、利奇与马丁·梅耶（Martin Mayer）的同时代记述、政府协商和章末历史[[Document|文献]]。
 > - **分析策略** 以关键行动者、课程比较、学校案例、资金变化和资格障碍，追踪创校、试验、常设治理、区域扩展与目标回检。
 > - **方法边界** 前言明确界定为个人记录，非官方历史。制度采纳、考试人数、学校规模和参与者解释可以说明运行条件，不能替代外部史料核验或独立的学习效果研究。
 

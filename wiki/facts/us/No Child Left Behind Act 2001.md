@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 79
-fact_related_level: 7
-fact_related_stars: "💎💎⭐"
+fact_related_count: 80
+fact_related_level: 8
+fact_related_stars: "💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 issuing_organization: "[[United States Department of Education|美国联邦教育部（U.S. Department of Education & U.S. Congress）]]"
 tags:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reading Programs]]"
   - "[[Student Mobility]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Socioeconomic Status]]"
   - "[[Transiency]]"
   - "[[Instrument Constituencies]]"
@@ -112,7 +113,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 政策时间线
 > - **2001** NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965|ESEA]] 的重新授权法案。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
-> - **2002** 布什总统于 1 月正式签署生效。罗伯特·E·斯拉文（Robert E. Slavin）发表专题分析，指出 NCLB 法定“[[Scientifically Based Research|科学本位研究]]”概念界定缺乏[[Operationalization|操作化]]标准，任何教学项目都能寻得支持性文献，尚未产生实质性实践约束。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 16, 18–19)]]
+> - **2002** 布什总统于 1 月正式签署生效。罗伯特·E·斯拉文（Robert E. Slavin）发表专题分析，指出 NCLB 法定“[[Scientifically Based Research|科学本位研究]]”概念界定缺乏[[Operationalization|操作化]]标准，任何教学项目都能寻得支持性[[Document|文献]]，尚未产生实质性实践约束。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 16, 18–19)]]
 > - **2003** 美国教育研究协会（[[American Educational Research Association|AERA]]）前主席罗伯特·林恩（Robert Linn）发表会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
 > - **2002–2014** NCLB 的 [[Adequate Yearly Progress|AYP]] 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线诱发各州下调及格切分点（竞相向下沉沦）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **2011** 奥巴马政府启动《[[Race to the Top|力争上游]]》（RTTT）并出台 ESEA 灵活性豁免，要求各州采纳统一学术标准（如 [[Common Core State Standards|CCSS]]）并试点将学生统考成绩与教师评价解聘挂钩的增值模型（VAM）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]

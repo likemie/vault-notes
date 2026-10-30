@@ -10,7 +10,7 @@ summary: "使用相似测量工具评估同一构念时所得结果的一致性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_theories: []
 related_methods:
   - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Experimental Research]]"
   - "[[Test-Retest Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Internal Consistency]]"
@@ -39,17 +40,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Parallel-Forms Reliability
-> 复本信度是使用相似测量工具所得测量结果的一致性程度——即使用同一测量目标的不同测量工具（如两套难度、结构和内容相当的平行[[Questionnaire\|问卷]]），对同一组受试者施测，所得结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。
+> 复本[[Reliability|信度]]是使用相似测量工具所得测量结果的一致性程度——即使用同一测量目标的不同测量工具（如两套难度、结构和内容相当的平行[[Questionnaire\|问卷]]），对同一组受试者施测，所得结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 复本信度是[[Reliability\|信度]]作为**等值性（equivalence）** 的[[Operationalization\|操作化]]形式——衡量不同但等价工具之间分数的一致性，属于"跨形式之间一致性的等值系数"。
-> - **用途** 在需要避免[[Order Effects\|练习效应]]的重复测量场景中（如前[[Pre-test and Post-test\|后测]]实验设计），使用两套平行版本替代同一工具重复施测。实验中的前测和后测预设了这种信度。
+> - **用途** 在需要避免[[Order Effects\|练习效应]]的重复测量场景中（如前[[Pre-test and Post-test\|后测]][[Experimental Research|实验设计]]），使用两套平行版本替代同一工具重复施测。实验中的前测和后测预设了这种信度。
 > - **边界** 复本信度不同于[[Test-Retest Reliability\|重测信度]]——重测是同一工具跨时间，复本是不同工具跨形式。它要求不同测量工具在测试目标和结构上高度一致，否则计算缺乏科学性。
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 44
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Visible Learning]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Teacher Professional Agency]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Socioeconomic Status]]"
   - "[[Homework]]"
+  - "[[Student Motivation]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Cognitive Constructivism]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 （全语言）
@@ -134,7 +136,7 @@ updated: 2026-10-25
 > **教育变量连续谱与编码敏感性导致结论截然相反** 约翰·[[Ivan Snook|斯努克]]（Ivan Snook）等学者以全语言教学为例，系统指出了教育实证元分析的重大方法论隐患：
 > 1. **非医药式化学离散性** 在医学实验中，药物 A 与药物 B 的化学组分清晰分明；但在教育中，“以儿童为中心的全语言”与“以教师为中心的拼读教学”是一个连续谱系（continuum），不存在天然的操作化边界，必然依赖研究者的主观价值判断。
 > 2. **编码规则导致元分析截然对立** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中坦承：两项评估全语言教学效果的元分析，所纳入的[[Primary and Secondary Documents|原始文献]]高度重合，但得出的合并结论却截然相反；这一戏剧性分歧完全源于作者对几项关键初级研究的分类分歧，以及对“何为全语言”的具体编码口径不同（Hattie, 2009, p. 137）。
-> 3. **算术平均对方法论冲突的暴力掩盖** 斯努克等与奥康纳指出，面对底层文献界定弹性与极化分歧（如 Jeynes & Littell 报告纯全语言 $d = 0.83$，而 Stahl & Miller 混入[[Behaviorism|行为主义]]早期研究报告 $d = 0.09$），哈蒂未加审视地将互相矛盾的元分析简单进行算术平均得出 $d = 0.06$，在政策上草率定性为“影响微不足道”，用统计平庸化掩盖了深刻的概念界定危机。
+> 3. **算术平均对方法论冲突的暴力掩盖** 斯努克等与奥康纳指出，面对底层[[Document|文献]]界定弹性与极化分歧（如 Jeynes & Littell 报告纯全语言 $d = 0.83$，而 Stahl & Miller 混入[[Behaviorism|行为主义]]早期研究报告 $d = 0.09$），哈蒂未加审视地将互相矛盾的元分析简单进行算术平均得出 $d = 0.06$，在政策上草率定性为“影响微不足道”，用统计平庸化掩盖了深刻的概念界定危机。
 
 ---
 
@@ -215,7 +217,7 @@ updated: 2026-10-25
 > | Jeynes and Littell (2000)（引自 O'Connor, 2020） | 低收入（低 [[Socioeconomic Status\|SES]]）学童阅读教学样本 | 元分析（严格筛选符合严格全语言标准的研究） | “纯粹全语言”（无技能切片、无全班统一[[Homework\|作业]]、无孤立技能操练）vs 传统教学 | 弱势儿童在阅读理解与整体读写素养上表现出大幅优势 | $d = 0.83$（高正向效应） | 证实当完全落实全语言哲学而非混合切片教学时，对弱势儿童阅读具有强促进效能（pp. 146–147） |
 > | Stahl and Miller (1989)（引自 Hattie, 2009） | 早期阅读实证文献综合 | 元分析 | 早期[[Language Experience Approach\|语言经验法]]（LEA）及全语言 vs 传统技能教学 | 总体合并效应接近于零 | $d = 0.09$ | 混入了全语言运动诞生前的[[Behaviorism\|行为主义]]准备研究，存在严重概念分类污染（p. 144） |
 > | Gee (1995)（引自 O'Connor, 2020） | 中小学生阅读[[Intervention Research\|干预研究]] | 元分析 | 全语言干预 vs 对照组常规教学 | 原文报告显著正向促进效应 | 原文 $d = 0.65$；被 Hattie 手动修正为 $d = 0$ | 揭示二阶综合研究者通过非对称删除正面个案强行将效应量清零的方法论偏倚（p. 148） |
-> | Dahl and Freppon (1994) | 低收入内城区小学 8 个班级（幼儿园至一年级）两年追踪 | 准实验队列[[Cohort Study\|追踪研究]] | 全语言班 vs 技能本位传统班 | 标准化测验分数相当，但全语言班学生在自主读写兴趣、句法与词汇生成复杂度及学习所有权（ownership）上显著领先 | 质性与行为显著优势 | 证实纸笔测验分数难以捕捉全语言培养的高阶语言功能与长远学习动机（pp. 146–147） |
+> | Dahl and Freppon (1994) | 低收入内城区小学 8 个班级（幼儿园至一年级）两年追踪 | 准实验队列[[Cohort Study\|追踪研究]] | 全语言班 vs 技能本位传统班 | 标准化测验分数相当，但全语言班学生在自主读写兴趣、句法与词汇生成复杂度及学习所有权（ownership）上显著领先 | 质性与行为显著优势 | 证实纸笔测验分数难以捕捉全语言培养的高阶语言功能与长远[[Student Motivation\|学习动机]]（pp. 146–147） |
 > | Trachtenburg and Ferruggia (1989) | 处境不利阅读困难初学者 | 准实验教学干预 | 故事大书共享阅读结合文学情境化拼读教具制作 | 词汇量与阅读理解获得实质性飞跃 | $d = 1.70$（极高效益） | 高效案例因包含情境化[[Decodification\|解码]]被 Hattie 选择性排除在全语言分析之外（p. 148） |
 > | Hattie (2009)（引自 [[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 97]]） | 综合 4 项存在严重分歧的元分析（0.09, 0.15, 0.65, -0.65） | [[Meta-meta-analysis\|二阶元分析]]简单算术平均 | 全语言教学 vs 常规阅读教学 | 报告加权平均效应量极低 | $d = 0.06$（影响可忽略） | [[Ivan Snook\|斯努克]]等指出底层元分析因编码标准不同而结论对立，简单平均掩盖了真实的方法论危机 |
 

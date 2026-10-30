@@ -10,7 +10,7 @@ summary: "政治学与比较政治学中用于案例内质性因果推断的核�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Internal Validity]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Document]]"
   - "[[Internal and External Generalizability]]"
   - "[[Professional Judgment]]"
 related_theories:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-29
 ---
 
 > [!proc] 过程追踪通用分析规程
-> 1. **界定因果疑问与候选假说** 明确待解释的[[Dependent Variable|因变量]]（如政策从僵局到火速采纳），系统梳理现有学术文献，提出两种或以上相互竞争的因果机制假说（如“纯粹科学证据驱动假说”对立于“政治利益交换与财政勒索假说”）。
+> 1. **界定因果疑问与候选假说** 明确待解释的[[Dependent Variable|因变量]]（如政策从僵局到火速采纳），系统梳理现有学术[[Document|文献]]，提出两种或以上相互竞争的因果机制假说（如“纯粹科学证据驱动假说”对立于“政治利益交换与财政勒索假说”）。
 > 2. **建立微观因果机制的理论预期步骤** 将从起点到终点的[[Causal Processes|因果过程]]解构成可观察的微观中介节点（$A \to B \to C \to D$），并预测若该机制真实发生，应当留下何种具体的文本线索、制度会议与通信痕迹。
 > 3. **搜集密集的多源证据** 开展大规模[[Elite Interview|精英访谈]]、搜集非公开备忘录、法案初稿修订痕迹与行政统计报告，还原完整的时间轴与决策动作。
 > 4. **运用贝叶斯逻辑检验[[Chain of Evidence|证据链]]条** 审查各节点之间是否存在逻辑跳跃或事实断裂，排查是否存在未被预料的混杂因素或反向因果。

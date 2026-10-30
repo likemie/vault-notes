@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-10-29
 > [!concept-proposition] 命题二｜学习学与[[Comparative Pedagogy|比较教学论]]的微观综合构成当代比较教育抵御新自由主义功利化的重要屏障
 
 > [!claim] 命题核心主张
-> 面对全球跨国标准化排名与金融资本逻辑对教育的侵蚀，英国学者开创的学习学与[[Comparative Pedagogy|比较教学论]]坚守了质性田野、[[Ethnography|民族志]]观察与文化解释学传统，将研究重心牢牢锚定在有血有肉的师生交往上，展现了比较教育作为“[[Geisteswissenschaften|人文科学]]”（Human Science, *Geisteswissenschaften*）的独特尊严与生命力。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 155)]]
+> 面对全球跨国标准化排名与金融资本逻辑对教育的侵蚀，英国学者开创的学习学与[[Comparative Pedagogy|比较教学论]]坚守了质性田野、[[Ethnography|民族志]]观察与文化解释学传统，将研究重心牢牢锚定在有血有肉的师生交往上，展现了比较教育作为“人文科学”（Human Science, *[[Geisteswissenschaften]]*）的独特尊严与生命力。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 155)]]
 
 ---
 

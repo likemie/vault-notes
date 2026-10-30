@@ -6,7 +6,7 @@ aliases:
 summary: "由 Lederman 等人开发的开放式问卷与半结构化访谈测量工具，评估被试在科学暂定性、经验性、创造性等七个科学本质维度的形式认识论观点，并划分为素朴观、过渡观与知情观三种认知水平。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 22
+instrument_related_count: 23
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Design-Based Research]]"
+  - "[[Experimental Research]]"
   - "[[Discourse Analysis]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Transcription in Qualitative Research]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -109,7 +110,7 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 > | 1 | 经验基础与科学界定 | 什么是科学？科学与物理、化学等其他学科或非科学探索（如艺术、宗教）有何本质区别？ | 科学研究是否必须包含实验？如果某些科学（如天文学、古生物学）无法做对照实验，它们如何算作科学？ | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 638)]] |
 > | 2 | 科学理论与定律 | 科学理论与科学定律之间有什么区别？理论在获得足够证据支持后会变成定律吗？ | 请举出一个科学定律与一个科学理论的例子，说明它们各自的作用。 | 同上 |
 > | 3 | 科学知识暂定性 | 科学理论在确立之后还会发生改变吗？如果会，为什么科学家还要投入精力去学习和使用它们？ | 请举出科学理论发生重大改变的历史案例，并解释改变的原因（新数据还是新解释角度）。 | 同上 |
-> | 4 | [[Creativity\|创造性]]与想象力 | 科学家在进行科学调查和实验设计时是否会运用创造力和想象力？在数据收集后又是否会运用？ | 创造力和想象力是在提出假说阶段运用，还是贯穿于数据解释和模型构建的全过程？ | 同上 |
+> | 4 | [[Creativity\|创造性]]与想象力 | 科学家在进行科学调查和[[Experimental Research\|实验设计]]时是否会运用创造力和想象力？在数据收集后又是否会运用？ | 创造力和想象力是在提出假说阶段运用，还是贯穿于数据解释和模型构建的全过程？ | 同上 |
 > | 5 | 理论负载与主观性 | 针对恐龙灭绝的原因，古生物学家和地质学家面对相同的化石和地层数据，为何会得出截然不同的结论？ | 科学家面对相同数据得出不同结论是因为数据不全，还是因为各自的[[Theoretical Standpoint\|理论立场]]与先验信念不同？ | 同上 |
 
 ---

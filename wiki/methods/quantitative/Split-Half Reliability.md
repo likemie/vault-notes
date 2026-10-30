@@ -34,13 +34,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Split-Half Reliability
-> 折半信度是把测量项目分成对等两半所测结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。它是一种估计[[Internal Consistency\|内部一致性]]的方法，只需一次施测即可完成——将一份量表的条目按一定规则分为两半，分别计分，计算两半个分之间的相关，再通过校正公式推估整份量表的信度。
+> 折半[[Reliability|信度]]是把测量项目分成对等两半所测结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。它是一种估计[[Internal Consistency\|内部一致性]]的方法，只需一次施测即可完成——将一份量表的条目按一定规则分为两半，分别计分，计算两半个分之间的相关，再通过校正公式推估整份量表的信度。
 
 > [!concept-lens] 概念透镜
 > - **含义** 折半信度是[[Internal Consistency\|内部一致性]]的一种估计策略。它将量表的"条目间一致性"问题转化为"两半个分间的一致性"问题，然后通过统计校正还原为全量表的信度估计。

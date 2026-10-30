@@ -8,7 +8,7 @@ aliases:
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Document]]"
   - "[[Zero-Sum Competition]]"
   - "[[Homework]]"
   - "[[Tracking]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -82,7 +83,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 ---
 
 > [!tip] 文化根源
-> Li 综合研究文献，提出了西方 nerd [[Peer-Supported Learning|同伴文化]]得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
+> Li 综合研究[[Document|文献]]，提出了西方 nerd [[Peer-Supported Learning|同伴文化]]得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 ### 1. 固定自我观
 

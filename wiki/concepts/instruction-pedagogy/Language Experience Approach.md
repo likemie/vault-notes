@@ -5,17 +5,19 @@ aliases:
 summary: "基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - language-experience-approach
   - literacy
   - subject/curriculum
   - level/k12
 related_concepts:
+  - "[[Early Literacy Approaches]]"
   - "[[Whole Language]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -31,7 +33,7 @@ related_arguments: []
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2020
 doi: ""
 citation_aliases: []
@@ -40,7 +42,7 @@ citation_aliases: []
 ---
 
 > [!def] Language Experience Approach
-> 语言经验法（Language Experience Approach, LEA）是一种将儿童自身的口语经验与读写学习紧密结合的早期读写教学方法。该方法由 R. V. 艾伦（R. V. Allen, 1964）系统阐述，其核心是“将阅读和其他沟通技能在教学中整合在一起” (p.144)。
+> 语言经验法（Language Experience Approach, LEA）是一种将儿童自身的口语经验与读写学习紧密结合的[[Early Literacy Approaches|早期读写教学]]方法。该方法由 R. V. 艾伦（R. V. Allen, 1964）系统阐述，其核心是“将阅读和其他沟通技能在教学中整合在一起” (p.144)。
 
 > [!concept-lens] 概念透镜
 > - **含义** 儿童的个人经验和口头表达是识字的基础，阅读应当从儿童自己说出、教师记录并转化为文字的文本开始，建立意义、声音与符号的自然连接 (p.144)。
@@ -72,7 +74,7 @@ citation_aliases: []
 > 语言经验法在后期实证研究汇总中，多次被错误等同于[[Whole Language\|全语言]]，导致了证据库污染：
 > 
 > - **[[Steven Stahl\|斯塔尔]]与米勒的混淆 (Stahl & Miller, 1989)** 在其关于全语言的元分析中，他们承认两者存在“重要的差异”，但仍将它们强行合并为“全语言/语言经验法”进行[[Effect Size\|效应量]]统计。这直接导致 1960 年代（全语言诞生前）的研究被算作全语言的证据 (p.144)。
-> - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的文献 (p.145)。然而，[[John Hattie\|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
+> - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的[[Document|文献]] (p.145)。然而，[[John Hattie\|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
 > - **麦基与洛马斯的批判 (McGee & Lomax, 1990)** 他们明确指出：“语言经验法是全语言的重要前身，但检验语言经验法的研究结果绝不能用于对全语言进行推断” (p.144)。
  
 > [!case] 证据污染案例：Brazziel and Terrell (1962) [[Behaviorism|行为主义]]研究

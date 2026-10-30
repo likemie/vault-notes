@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[United States Congress]]"
   - "[[Office of Scientific Research and Development]]"
+  - "[[ASEAN Economic Community]]"
   - "[[National Institutes of Health]]"
   - "[[DARPA]]"
   - "[[Institute for Advanced Study]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1946–1950 — 填补立法真空与多元分布式资助网络奠基** 在 [[National Science Foundation|NSF]] 历经五年政治博弈尚未成立期间，ONR 承担了全美大学近半数的联邦基础科学资助，挽救了一大批战后濒临断炊的物理与化学实验室；与随后组建的原子能委员会（AEC）及扩张后的国立卫生研究院（[[National Institutes of Health|NIH]]）共同构成了战后美国去中心化、多部门并行的分布式资助网络原型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1946–1950 — 填补立法真空与多元分布式资助网络奠基** 在 [[National Science Foundation|NSF]] 历经五年政治博弈尚未成立期间，ONR 承担了全美大学近半数的联邦基础科学资助，挽救了一大批战后濒临断炊的物理与化学实验室；与随后组建的原子能委员会（[[ASEAN Economic Community|AEC]]）及扩张后的国立卫生研究院（[[National Institutes of Health|NIH]]）共同构成了战后美国去中心化、多部门并行的分布式资助网络原型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1950–1970 年代 — 冷战黄金期与国防资助[[Paradigm|范式]]扩散** 随着苏联人造卫星危机爆发与科技政策“黄金十年”（1957–1967）到来，ONR 的项目主管自由裁量模式被陆军、空军及高级研究计划局（[[DARPA]]）广泛借鉴；该机构早期资助催生了激光器（查尔斯·汤斯团队）、回旋加速器及战后第一代电子计算机软硬件体系（哈佛 Mark II/III、MIT 旋风计算机、[[Institute for Advanced Study|普林斯顿高等研究院]]计算机等）的系统性突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 > - **1980 年代至今 — 聚焦颠覆性基础前沿与深海战略** 持续深耕自主无人系统、量子信息科学、合成生物学及深海极端环境探测，继续保持其作为美军前瞻科学探针的独特敏锐度。
 

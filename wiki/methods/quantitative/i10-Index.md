@@ -9,7 +9,7 @@ summary: "由 Google Scholar 于 2011 年推出的文献计量指标，定义为
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -30,7 +30,9 @@ related_methods:
   - "[[h-Index]]"
   - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -72,7 +74,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2011 年 — 官方推出** Google Scholar 推出学者引文个人主页（Google Scholar Citations/Profiles），首次将 i10 指数与总被引频次、h 指数共同作为三大官方标准指标。
-> - **2021 年 — 科学学系统化归纳** 王大顺与巴拉巴西在专著中评述当前学术评价指标体系，确认其作为工业界大规模采纳的少数标准化代表指标之一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> - **2021 年 — 科学学系统化归纳** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在专著中评述当前学术评价指标体系，确认其作为工业界大规模采纳的少数标准化代表指标之一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 ---
 

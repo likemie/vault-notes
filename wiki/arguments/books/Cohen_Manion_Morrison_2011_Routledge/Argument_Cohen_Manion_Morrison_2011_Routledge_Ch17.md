@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: Research Methods in Education
 publication_place: London
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Tacit Knowledge]]"
   - "[[Fitness for Purpose]]"
   - "[[External Validity]]"
@@ -110,7 +111,7 @@ related_theories:
   - "[[Realist Evaluation]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 > [!knowledge-map] 第17章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_17_Concept_Map.jpg)
@@ -160,7 +161,7 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 从 Cochrane 到 Campbell：循证实践的制度扩散
-> - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和文献记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
+> - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和[[Document|文献]]记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
 > - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心，Fitz-Gibbon and Tymms 展示了指标系统如何与实验方法结合，为"我们如何知道什么有效？"提供因果推断证据（Fitz-Gibbon, 1999, p. 33）（pp. 337–338）。
 > - **2000 — Campbell 协作网成立** SPECTR 注册库转移至 Campbell 协作网，成为 Cochrane 在教育和社会科学领域的平行机构（p. 330）。
 

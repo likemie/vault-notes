@@ -6,7 +6,7 @@ summary: "古希腊哲学家，提出目的论、习惯化道德培养与实践�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Habituation]]"
   - "[[General Education]]"
   - "[[Critical Thinking]]"
+  - "[[Habitus]]"
   - "[[Western Civilization Course]]"
   - "[[Canon Wars]]"
   - "[[Critical Pedagogy]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-10-22
 > 亚里士多德在《尼各马可伦理学》中指出万物皆有其固有目的（Telos）——例如刀具的 Telos 是切割；同理，人类的 Telos 是理性沉思，这是将人类与其他动物区分开来的特殊功能（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 4]]）。教育的终极目标在于培育年轻人的实用理性与知性德性，使其实现这一终极目的。
 
 > [!case] 案例：建筑师与奏琴手的习惯化（Habituation）
-> 亚里士多德提出“人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢”（*Nicomachean Ethics* 1103a33）（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 4]]）。在教学论上，这意味着教育行政或学校管理者制定学生应当学习的内容，教师执行该日程，学生通过重复行为养成习性——学生无需质疑教育系统本身的合法性。
+> 亚里士多德提出“人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢”（*Nicomachean Ethics* 1103a33）（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 4]]）。在教学论上，这意味着教育行政或学校管理者制定学生应当学习的内容，教师执行该日程，学生通过重复行为养成[[Habitus|习性]]——学生无需质疑教育系统本身的合法性。
 
 > [!case] 案例：《政治学》中的阶层隔绝与对女性奴隶的排斥
 > 在《政治学》中，亚里士多德同意古希腊诗人索福克勒斯的名言“沉默是女性的光彩”（*Politics* 1260a30）（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 5]]）。他认为只有特定男性公民能够成为理性思考者，而女性与奴隶被排除在批判性思维之外，从而在制度上维护了既有的阶层与统治秩序。

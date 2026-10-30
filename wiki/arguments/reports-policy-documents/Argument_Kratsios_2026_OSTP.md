@@ -134,6 +134,7 @@ related_facts:
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[Accelerating Medicines Partnership]]"
   - "[[Activate Fellowship]]"
+  - "[[Laser Interferometer Gravitational-Wave Observatory]]"
   - "[[Transformational AI Models Consortium]]"
 related_arguments: []
 sources:
@@ -141,14 +142,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-10-30
 subtype: report
 publication_type: report
 title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 111
+argument_related_count: 112
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -645,7 +646,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 大学教育日益将理论建模与动手实践割裂，培育出大量擅长数学抽象却无法维护实验仪器的毕业生。
 
 > [!case] 诺贝尔物理学奖得主魏斯的学徒经历与实验技艺
-> 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在青年时期曾深入学习机械加工、钎焊与电路[[Assemblage|组装]]，他将这段技艺训练归纳为实验科学中的即兴技艺。正是这种精湛的仪器建造直觉，使他能够亲手设计出激光干涉引力波天文台（Laser Interferometer Gravitational-Wave Observatory, LIGO）原型机，在时空尺度上探测到十亿光年外的黑洞并合引力波（p. 51）。
+> 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在青年时期曾深入学习机械加工、钎焊与电路[[Assemblage|组装]]，他将这段技艺训练归纳为实验科学中的即兴技艺。正是这种精湛的仪器建造直觉，使他能够亲手设计出[[Laser Interferometer Gravitational-Wave Observatory|激光干涉引力波天文台]]（Laser Interferometer Gravitational-Wave Observatory, LIGO）原型机，在时空尺度上探测到十亿光年外的黑洞并合引力波（p. 51）。
 
 > [!sub-claim] 3. 打破单一学术阶梯垄断并建立多元科研参与路径
 

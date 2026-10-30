@@ -8,7 +8,7 @@ aliases:
 summary: "用于伞状综述与二阶元分析中量化、探索与可视化初级研究重叠的图形表征工具，基于校正覆盖面积（CCA）矩阵生成结构化热力图与成对重叠诊断"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 11
+instrument_related_count: 12
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ tags:
   - overlap-analysis
 related_concepts:
   - "[[Primary and Secondary Documents]]"
+  - "[[Document]]"
   - "[[Chain of Evidence]]"
   - "[[Internal Validity]]"
 related_theories: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-16
 > | **总体校正覆盖面积（Overall CCA）** | $$CCA = \frac{N - r}{r(c - 1)}$$ | 衡量全数据集内所有纳入[[Meta-analysis\|元分析]]作为一个整体时的总体重复包含水平。 | $< 5\%$ 轻微；$5\%–10\%$ 中等；$10\%–15\%$ 高度；$\ge 15\%$ 极高重叠（通常以 $10\%$ 为排除警戒线）。 |
 > | **成对重叠矩阵（Pairwise CCA Matrix）** | 两两综述间独立的 $2 \times r_{ij}$ 交叉子矩阵计算 | 定位具体哪两项元分析之间存在高度重复，识别关键重叠源头。 | 若特定两项元分析间 $CCA > 10\%$，触发成对剔除或亚组敏感性合并。 |
 > | **初级研究结构分布热力图（Heatmap Display）** | 红/橙/黄/绿四色编码的矩阵色块图 | 直观呈现各一阶元分析对初级研究的覆盖广度与聚集重叠区域。 | 绿色表示轻微重叠，黄色表示中等重叠，橙色与红色警示高度与极高重叠。 |
-> | **文献筛选与敏感性决策节点** | 逐步剔除模拟与重新计算模块 | 模拟剔除重叠元分析后全数据集 CCA 的变动轨迹，辅助制定排除策略。 | 优先剔除研究范围狭窄、发表年份陈旧或 [[AMSTAR]] 方法学质量评分较低的元分析。 |
+> | **[[Document\|文献]]筛选与敏感性决策节点** | 逐步剔除模拟与重新计算模块 | 模拟剔除重叠元分析后全数据集 CCA 的变动轨迹，辅助制定排除策略。 | 优先剔除研究范围狭窄、发表年份陈旧或 [[AMSTAR]] 方法学质量评分较低的元分析。 |
 
 ---
 

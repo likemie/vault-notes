@@ -10,7 +10,7 @@ summary: "由 Jorge E. Hirsch (2019) 提出的文献计量修正指标；在构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jorge E. Hirsch]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -77,7 +79,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2019 — 指标首创** 希尔施在文献计量学专业论著中正式提出 $h_\alpha$ 指数与科学领导力比率 $h_\alpha / h$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
-> - **2021 — 科学学系统化评介** 王大顺与巴拉巴西在教材中将其作为应对“合作网络搭便车扭曲”的最优解决路径。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> - **2021 — 科学学系统化评介** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在教材中将其作为应对“合作网络搭便车扭曲”的最优解决路径。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制"
 type: concept
 domain: "chinese-philosophy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - theme/cross-cultural-learning
   - theme/learning-motivation
 related_concepts:
+  - "[[Student Motivation]]"
   - "[[Faust]]"
   - "[[Ways of Knowing]]"
   - "[[Enculturation]]"
@@ -41,11 +42,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 好學心（hao-xue-xin, heart and mind for wanting to learn）是一个中国本土学习概念，指一个人内在的、自发的求知欲望与向学之心。[[Jin Li]] 在博士论文研究中以该概念替代西方心理学的"成就动机"（achievement motivation），并随后将其发展为描述中国学习模型的核心概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix–x]])。
+> 好學心（hao-xue-xin, heart and mind for wanting to learn）是一个中国本土学习概念，指一个人内在的、自发的求知欲望与向学之心。[[Jin Li]] 在博士论文研究中以该概念替代西方心理学的"成就动机"（[[Student Motivation|achievement motivation]]），并随后将其发展为描述中国学习模型的核心概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix–x]])。
 
 > [!quote|notitle]
 > Li 及其中国同侪尝试为 hao-xue-xin 寻找更好的英文翻译但未能成功，最终保留了"heart and mind for wanting to learn"这一略显拗口的译文，因为他们认为"该翻译在含义和情感上是准确的，而且对我们来说是有共鸣的"([[Argument_Li_2012_Cambridge\|Li, 2012, p.x]])。
@@ -79,7 +80,7 @@ updated: 2026-10-22
 
 Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可这一概念([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。在后续比较研究中，好學心逐步成为代表中国学习模型的核心概念，与欧裔美国精英学生的西方学习概念形成系统性对比。
 
-> [!note] 文化濡化：概念的隐形传递
+> [!note] [[Enculturation|文化濡化]]：概念的隐形传递
 > 好學心及其所嵌入的中国学习传统六主题，通过 [[Enculturation\|文化濡化]]（enculturation）而非政治灌输代代相传——即通过日常抚养与互动中的隐性传递，而非明确说教([[Argument_Li_2012_Cambridge\|Li, 2012, p.12]])。Li 的父母在文革期间以"古人说"代替"[[Confucius\|孔子]]说"来引用儒家语录、教室中长期张贴"好好学习，天天向上"和"书山有路勤为径，学海无涯苦作舟"等标语，均被 Li 视为濡化超越政治体制运作的例证。濡化的详细机制与理论来源见 [[Enculturation]]。
 
 ---

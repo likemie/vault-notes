@@ -10,10 +10,10 @@ aliases:
 summary: "质性研究中询问核心现象的主要开放性问题，通常一至两个，以 what 或 how 开头，使用探索性动词并避免方向性语言，辅以五至七个子问题收窄焦点用于数据收集"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
 related_concepts:
@@ -21,9 +21,11 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Research Writing Script]]"
   - "[[Construct]]"
+  - "[[Mutual Learning]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -43,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -75,7 +77,7 @@ Miles and Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitati
 > 5. **聚焦单一[[Central Phenomenon\|核心现象]]或概念** 深入研究一个焦点
 > 6. **使用探索性动词** report/reflect（[[Narrative Research\|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis\|描述性分析]]）
 > 7. **预计问题会演变**[[Qualitative Research\|质性研究]]中的问题处于持续审查和重写的状态
-> 8. **使用[[Open-Mindedness|开放性]]问题** 除非质性路径另有要求，否则不引用文献或理论
+> 8. **使用[[Open-Mindedness|开放性]]问题** 除非质性路径另有要求，否则不引用[[Document|文献]]或理论
 > 9. **指定参与者和研究场所** 如果信息尚未提供
 
 ---
@@ -84,7 +86,7 @@ Miles and Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitati
 
 不同质性路径对核心问题的具体形式有不同要求（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
-- **[[Ethnography|民族志]]** Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。[[Critical Ethnography|批判民族志]]的[[Research Question|研究问题]]可建立在已有文献体系之上（Thomas, 1993）。
+- **[[Ethnography|民族志]]** Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。[[Critical Ethnography|批判民族志]]的[[Research Question|研究问题]]可建立在已有[[Document|文献]]体系之上（Thomas, 1993）。
 - **[[Phenomenology|现象学]]** 问题通常不加特定文献引用或问题类型学地宽泛陈述。Moustakas (1994) 建议询问参与者经历了什么，以及在什么情境下经历。现象学示例："What is it like for a mother to live with a teenage child who is dying of cancer?"（Nieswiadomy, 1993, p.151）
 - **[[Grounded Theory|扎根理论]]** 问题指向生成关于某一过程的理论，如"在医院环境中，照顾者和病人如何互动？"
 - **[[Case Study|案例研究]]** 问题可包括对案例的描述以及研究案例中[[Emergence|涌现]]的主题
@@ -106,7 +108,7 @@ Miles and Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitati
 >
 > "How do participants engage in an intergenerational playgroup (IGP) within the context of a residential aged care facility (RACF)?"（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 >
-> 分析中[[Emergence\|涌现]]的主题包括相互学习（learning from each other）、欣赏当下体验（appreciating experience in the moment）和通过游戏建立连接（connecting through play）。
+> 分析中[[Emergence\|涌现]]的主题包括[[Mutual Learning|相互学习]]（learning from each other）、欣赏当下体验（appreciating experience in the moment）和通过游戏建立连接（connecting through play）。
 
 > [!example] 质性子问题范例
 > Creswell & Bàez (2020) 以校园多样性氛围为例展示了子问题如何细分核心问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：

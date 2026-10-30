@@ -10,7 +10,7 @@ aliases:
 summary: "描述学术丑闻、撤稿危机与制度危机发生时声望资本对学者产生非对称性反噬与失衡责任分担的社会学机制；实证表明知名学者因学术欺诈撤稿所遭受的历史既往代表作引文损失远高于不知名同行，而在诚实错误下惩罚差异消失；在合著撤稿中则呈现出资深学者全身而退、青年学者承担毁灭性职业责任的残酷转嫁不对称。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/scientific-misconduct
 related_concepts:
   - "[[Construct]]"
+  - "[[Scientific Credit]]"
   - "[[Paradigm]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Document]]"
@@ -49,7 +50,7 @@ updated: 2026-10-30
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉学术负面危机爆发时声誉资本对个体引文资产的负向反噬及团队内部的不平等惩罚分流。
-> - **用途** 揭示学术承认与问责体系的深层结构性缺陷，破除声望永远单向赋能的简化认知。
+> - **用途** 揭示[[Scientific Credit|学术承认]]与问责体系的深层结构性缺陷，破除声望永远单向赋能的简化认知。
 > - **边界** 适用于同行评议正式撤稿与公认学术丑闻情境，不适用于常规学术争鸣、[[Paradigm|范式]]迭代或正常的理论修正过程。
 
 > [!citation-card] 撤稿对学者生涯的逆向冲击

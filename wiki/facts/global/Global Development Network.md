@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
+  - "[[Politics of Knowledge]]"
   - "[[South-South Cooperation]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
@@ -37,7 +38,8 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James Wolfensohn]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -56,7 +58,7 @@ updated: 2026-10-26
 > 全球发展网络（Global Development Network，GDN）是由[[World Bank\|世界银行]]于 1999 年发起创设的国际公共政策与社会科学研究网络组织；其立项初衷旨在通过直接资助全球南方发展中国家本土学者与智库开展高水平应用政策研究，推动世界银行从传统的资本借贷实体向“[[Knowledge Bank\|知识银行]]”（Knowledge Bank）转型，是跨国多边机构探索去中心化[[Knowledge Production\|知识生产]]的代表性制度试验。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1999 年 12 月在德国波恩召开的首届全球发展会议上由世界银行时任行长詹姆斯·沃尔芬森（James Wolfensohn）倡导成立，直接回应国际社会对世界银行政策知识过度由华盛顿总部官僚垄断的普遍批评。（Stone, 2000; p.543）
+> - **成立时间 / 创设背景** 1999 年 12 月在德国波恩召开的首届全球发展会议上由世界银行时任行长[[James Wolfensohn|詹姆斯·沃尔芬森]]（James Wolfensohn）倡导成立，直接回应国际社会对世界银行政策知识过度由华盛顿总部官僚垄断的普遍批评。（Stone, 2000; p.543）
 > - **总部地点 / 业务辐射** 初始设于美国华盛顿特区世界银行总部；2001 年重组为独立国际非政府组织，2005 年将国际秘书处永久迁至印度新德里，辐射拉美、非洲、南亚与东欧等转型经济体。
 > - **法人属性与经费基础** 独立的国际非营利机构；初始依托世界银行发展赠款机制（DGF）全额孵化，后续多元化吸纳美英澳双边发展署与私人基金会的专项研究资助。
 > - **核心宗旨与法定职责** 增强发展中国家社会科学学者的独立研究能力，培育本土政策智库生态，推动高质量实证证据直接服务于借贷国国内公共政策制定与减贫实践。
@@ -99,7 +101,7 @@ updated: 2026-10-26
 > - **政策制度渗透受挫** 原初设想的国别本土研究直接影响内阁决策机制未能落地，反被[[World Bank\|世行]]总部集中研发的 [[Systems Approach for Better Education Results\|SABER]] 等指标全面边缘化。
 
 > [!finding-cards] 关键成效与制度反思
-> - **揭示去中心化知识承诺的脆弱性** GDN 的兴衰历程成为比较教育学与国际关系学中审视国际组织知识政治的经典教材，生动揭示了多边银行在修辞上宣扬“本土自主”与在实践中厉行“总部集权”的深刻结构性矛盾。
+> - **揭示去中心化知识承诺的脆弱性** GDN 的兴衰历程成为比较教育学与国际关系学中审视国际组织[[Politics of Knowledge|知识政治]]的经典教材，生动揭示了多边银行在修辞上宣扬“本土自主”与在实践中厉行“总部集权”的深刻结构性矛盾。
 > - **实证本土专家的工具化降格** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]深刻指出，GDN 的边缘化标志着世界银行最终放弃了真正扶植国别自主[[Knowledge Production\|知识生产]]的尝试；大型跨国指标体系牢牢掌控在华盛顿精英手中，发展中国家学者沦为仅仅负责采集基线数据和翻译本土政策语篇的廉价技术劳动力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]
 > - **维系南南学术对话微弱网络** 尽管失去了世行核心业务的依托，GDN 依托其独立法人的韧性，在亚太、非洲与拉美青年学者之间依然搭建起跨区域的[[South-South Cooperation|南南合作]]学术网络。
 

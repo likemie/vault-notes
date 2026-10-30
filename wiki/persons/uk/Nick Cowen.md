@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -55,7 +56,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -101,4 +102,4 @@ updated: 2026-10-22
 > [!warning] 学术批评
 > - **"为什么是现在"的解释有限**[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 坦承 Tullock 模型只能对 [[Evidence-Based Education\|EBE]] 的历史时机提供尝试性假说——其优势在于解释制度功能（EBE 解决了什么官僚问题），劣势在于解释历史时机（为什么是 21 世纪初）。
 > - **实证样本的偏差**[[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] 的教师访谈样本有意偏向已积极关注证据的教师群体，不能代表全体教师，结论的推广需谨慎。
-> - **政策建议未经验证**Cowen et al. 提出的政策建议（如增加 CPD 时间、改革教师培训）是基于访谈和文献的推断，尚未经过实证检验。
+> - **政策建议未经验证**Cowen et al. 提出的政策建议（如增加 CPD 时间、改革教师培训）是基于访谈和[[Document|文献]]的推断，尚未经过实证检验。

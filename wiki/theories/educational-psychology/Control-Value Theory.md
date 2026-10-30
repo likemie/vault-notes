@@ -8,10 +8,10 @@ aliases:
 summary: "当代学业情绪与学习动机的核心认知-评价理论，主张个体对学习活动及其结果的控制感评价与价值感评价是激发和调节成就情绪（如享受、希望、焦虑、无聊等）的决定性认知中介，进而深远影响认知策略、自我调节与学业产出。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 29
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 32
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-psychology
   - achievement-emotions
@@ -23,11 +23,13 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Academic Engagement]]"
   - "[[International Education]]"
+  - "[[Academic Emotions]]"
   - "[[Paradigm]]"
   - "[[Student Engagement]]"
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
   - "[[Self-Efficacy]]"
+  - "[[Academic Anxiety]]"
   - "[[Self-Regulated Learning]]"
   - "[[Working Memory]]"
   - "[[Problem Solving]]"
@@ -40,6 +42,7 @@ related_concepts:
   - "[[Metacognitive Laziness]]"
   - "[[Heterogeneity]]"
   - "[[Metacognition]]"
+  - "[[Document]]"
   - "[[AI Agent in Education]]"
 related_theories:
   - "[[Self-Determination Theory]]"
@@ -58,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （控制-价值理论）
@@ -69,7 +72,7 @@ updated: 2026-10-22
 > - **解释对象** 学习者在教育情境中所体验到的成就情绪（Achievement Emotions，包括希望、[[Pride in Learning\|自豪]]、享受、焦虑、羞愧、绝望、无聊等）的前因、内在认知评价机制及其对[[Academic Engagement\|学业投入]]、认知策略与成就结果的深层作用。
 > - **理论问题** 克服以往动机与认知研究长期忽视“情绪（Affect）”维度的弊病，阐释情绪并非不可捉摸的非理性副产品，而是由特定的情境线索与认知评价系统决定的、具有高度结构化功能的动力中介。
 > - **理论类型** 中层认知-动机-情绪整合理论（Integrative Cognitive-Motivational Theory of Emotion）。
-> - **知识位置** 由德国教育心理学家 Reinhard Pekrun 于 2000 年代初系统提出并完善（Pekrun, 2000, 2006, 2014），是[[International Education\|国际教育]]研究、课堂教学与智能学习技术[[Domain Analysis\|领域分析]]学业情绪与心理状态的首要[[Paradigm\|范式]]。
+> - **知识位置** 由德国教育心理学家 Reinhard Pekrun 于 2000 年代初系统提出并完善（Pekrun, 2000, 2006, 2014），是[[International Education\|国际教育]]研究、课堂教学与智能学习技术[[Domain Analysis\|领域分析]][[Academic Emotions|学业情绪]]与心理状态的首要[[Paradigm\|范式]]。
 
 > [!claim] 核心主张
 > 控制-价值理论主张，**主观控制感评价（Control Appraisals）** 与**任务价值感评价（VALUE Appraisals）** 是诱发和分化学业情绪的近端决定因素（Proximal Determinants）；当学习环境提升个体对学习过程/结果的可控感，并赋予活动内在或工具性价值时，将系统激发积极的高唤醒情绪（如学习享受、希望），抑制消极阻滞情绪（如课业焦虑、无聊与绝望），进而赋能高阶策略运用与深度[[Student Engagement\|学习投入]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
@@ -97,7 +100,7 @@ updated: 2026-10-22
 > - **前提一** 学习者对学习事件的感知并非被动接受，而是持续进行“我是否能掌控它（控制感）”和“它对我是否有意义（价值感）”的双重认知加工。
 > - **前提二** 不同的控制感与价值感组合诱发出截然不同的效价与唤醒度的成就情绪。
 >   > [!evidence-grid]- 证据
->   > - **Pekrun 经典矩阵检验** Pekrun et al. (2014) 在大样本大学生纵向追踪中证实，高控制感 + 高内在价值产生最高水平的学习享受（Enjoyment）；低控制感 + 高失败代价产生强烈学业焦虑（Anxiety）；极低控制感或极低价值则导致无聊（Boredom）或绝望。
+>   > - **Pekrun 经典矩阵检验** Pekrun et al. (2014) 在大样本大学生纵向追踪中证实，高控制感 + 高内在价值产生最高水平的学习享受（Enjoyment）；低控制感 + 高失败代价产生强烈[[Academic Anxiety|学业焦虑]]（Anxiety）；极低控制感或极低价值则导致无聊（Boredom）或绝望。
 >   > - **AI 情感促学实证** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] [[Meta-analysis\|元分析]]证实生成式 AI 显著拉升[[Affective Outcomes\|情感动机]]（$g^+ = 0.617$），即时答疑与自主探究大幅提升了学生对学习任务的可控预期与可用价值。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 16)]]
 > - **推导** ① 学习情境呈现 $\to$ ② 学习者激活控制与价值评价 $\to$ ③ 高控制结合高价值即刻诱发积极高唤醒的“学习享受”与“成功希望”，同时阻断焦虑回路。
 
@@ -165,7 +168,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 发展脉络
 > - **2000–2002 — 理论初创** Reinhard Pekrun 提出控制-价值理论核心架构，打破以往单一关注考试焦虑的局限，构建涵盖多维学业情绪的整体图景。
-> - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑文献 *The Control-VALUE Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
+> - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑[[Document|文献]] *The Control-VALUE Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
 > - **2014 — 跨文化与实证深化** Pekrun 等人出版专著并发布 AEQ 系列量表，在全球范围内验证控制-价值评价机制的普适性。
 > - **2025 — AI 教育时代的理论应用** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 将 CVT 与 [[Self-Determination Theory\|SDT]] 并列为解释生成式 AI 改善大学生[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）的核心理论，指出自适应 AI 工具重塑了学习者的过程控制感与学习效能体验。
 

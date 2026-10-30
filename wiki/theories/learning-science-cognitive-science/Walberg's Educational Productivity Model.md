@@ -6,7 +6,7 @@ aliases:
 summary: "Herbert Walberg 提出的九因素教育生产力理论，试图通过量化合成识别影响学生学业成就和态度的关键因素，是教育研究中最早被大规模元综合检验的理论框架"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Home Environment]]"
   - "[[Individualised Instruction]]"
   - "[[International Education]]"
   - "[[Visible Learning]]"
@@ -36,7 +37,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 核心命题
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > - 学生参与学习的时间和频率
 >
 > **Environmental 因素（环境条件）**
-> - 家庭环境
+> - [[Home Environment|家庭环境]]
 > - 同伴群体影响
 > - 学校和社区的物理与社会环境
 >

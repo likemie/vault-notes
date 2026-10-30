@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Workforce Development]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Causality]]"
   - "[[Sponsored Research Agreement]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-10-26
 > [!finding-cards] 核心业务矩阵
 > - **联邦教育重新授权法案（Reauthorization Bills）** 周期性重构并授权 [[Elementary and Secondary Education Act of 1965\|ESEA]]/[[Every Student Succeeds Act\|ESSA]]、IDEA、柏金斯职业教育法（Perkins CTE）等数百亿美元规模的联邦拨款法案。
 > - **委员会正式立法报告（Committee Reports）** 伴随每项法案出台的详尽解读文件，系统汇总两党辩论要点、实证证据支持来源与立法意图阐释，是未来联邦法院裁判与教育部制定规章的最高司法参照。
-> - **监督审查听证卷宗（Oversight Records）** 汇集全美教育前沿学术证词与审计数据的庞大公有文献库，常年为全美智库与高校提供第一手政策原始档案。
+> - **监督审查听证卷宗（Oversight Records）** 汇集全美教育前沿学术证词与审计数据的庞大公有[[Document|文献]]库，常年为全美智库与高校提供第一手政策原始档案。
 > - **两党政策磋商与跨部门协调** 在参议院相应委员会（HELP Committee）及白宫行政团队之间协调立法折衷方案。
 
 ---

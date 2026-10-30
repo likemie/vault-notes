@@ -25,6 +25,7 @@ tags:
   - theme/hard-power
 related_concepts:
   - "[[Engineering Education]]"
+  - "[[Document]]"
   - "[[Total War]]"
   - "[[Long Peace]]"
   - "[[Hard Power]]"
@@ -39,7 +40,6 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Erich Ludendorff]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[Manhattan Project]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
@@ -47,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 瑞典化学家、工业家、军工发明家，瑞典皇家[[Chinese Academy of Sciences|科学院]]院士，诺贝尔奖（包括物理学、化学、生理学或医学、文学及和平奖）创设人。
+> - **身份位置** 瑞典化学家、工业家、军工发明家，瑞典皇家科学院院士，诺贝尔奖（包括物理学、化学、生理学或医学、文学及和平奖）创设人。
 > - **核心角色** 现代工业爆破技术与军用烈性炸药的奠基人；提出了技术发展引发“终极恐怖止战”的现实主义威慑假说。
 > - **代表贡献** 1866 年发明达纳炸药（Dynamite，硝化甘油硅藻土混合炸药）与雷管引信；建立全球跨国军工与民用炸药商业帝国；立下遗嘱设立诺贝尔奖；其威慑思想在 1945 年[[Manhattan Project|曼哈顿工程]]与核时代被[[J. Robert Oppenheimer|奥本海默]]等科学家重新激活。
 
@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!work-line] 主要专利与思想文献
+> [!work-line] 主要专利与思想[[Document|文献]]
 > - **1867 — *Improved Explosive Compound (Dynamite Patent)*** 解决硝化甘油运输与引爆安全问题，开启全球矿山开采、运河与铁路建设的工业爆破革命。
 > - **1876 — *Blasting Gelatin Patent*** 发明胶质炸药（Gelignite），大幅提升爆破能量密度。
 > - **1887 — *Ballistite Patent*** 发明军用无烟双基火药，直接改变 19 世纪末步枪弹药与火炮射程。

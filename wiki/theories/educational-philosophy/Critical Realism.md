@@ -5,7 +5,7 @@ aliases:
 summary: "罗伊·巴斯卡（Roy Bhaskar）创立的科学哲学与社会科学方法论框架。主张实在界、实际界与经验界的分层本体论，将因果关系确立为开放系统中潜在因果机制的激活或阻断；在教育研究与政策分析中，既用于解构循证教育与随机对照试验的均值黑箱，又通过“解释性批判”穿透表层修辞、揭示教育作为大国地缘博弈与意识形态推进工具的深层因果机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 57
+theory_related_count: 58
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[National Rejuvenation Narrative]]"
   - "[[Research Question]]"
   - "[[Geopolitics]]"
+  - "[[Document]]"
   - "[[Interdiscursivity]]"
   - "[[Shape-Shifting]]"
   - "[[Student Motivation]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-26
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 该理论适合回答“一项复杂的教育干预或政策为何在某些情境下有效而在另一些情境下失效”、“表层政策[[Discourse|话语]]与深层国家战略因果机制之间存在何种脱节与张力”。
 > - **分析对象与单位** 涵盖教育项目评估情境、学校管理日常制度、师生互动过程、宏观政策文本集群及跨国教育治理机制。
-> - **需要的材料** 统计评估数据（经验界）、项目具体执行日志与行动者[[Qualitative Interview|质性访谈]]（实际界）、制度结构规程、财政资助渠道与[[Geopolitics|地缘政治]]经济文献（实在界）。
+> - **需要的材料** 统计评估数据（经验界）、项目具体执行日志与行动者[[Qualitative Interview|质性访谈]]（实际界）、制度结构规程、财政资助渠道与[[Geopolitics|地缘政治]]经济[[Document|文献]]（实在界）。
 > - **解释目标** 穿透均值统计或宣称话语的表层黑箱，识别情境（Context）、机制（Mechanism）与结果（Outcome）的互动构型，开展规范性制度批判。
 
 > [!theory-framework] 批判实在论多层级[[Analytic Framework|分析框架]]

@@ -5,7 +5,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 31
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -18,6 +18,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Politics of Knowledge]]"
   - "[[Knowledge Capitalism]]"
   - "[[Entrepreneurial University]]"
   - "[[New Public Management]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-22
 > - **解释对象** 高等教育机构与学术人员日益卷入市场和类市场活动（专利商业化、[[University-Industry Collaboration|产学合作]]、竞争性项目拨款、学生贷款金融化与软钱雇佣），学术生产与资本积累逻辑深度绑定的制度转型过程。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
 > - **理论问题** 回应传统大学自治论与功能主义高等教育观对高校组织转型的解释盲区，破除将大学视为远离市场与政治力量象牙塔的浪漫假象。
 > - **理论类型** 批判性制度政治经济学理论与高等教育组织变迁[[Analytic Framework|分析框架]]。
-> - **知识位置** 处于高等教育社会学、公共政策与马克思主义知识政治经济学交汇处，与[[Knowledge Capitalism|知识资本主义]]、[[Entrepreneurial University|创业型大学]]及[[New Public Management|新公共管理]]紧密关联。
+> - **知识位置** 处于高等教育社会学、公共政策与马克思主义[[Politics of Knowledge|知识政治]]经济学交汇处，与[[Knowledge Capitalism|知识资本主义]]、[[Entrepreneurial University|创业型大学]]及[[New Public Management|新公共管理]]紧密关联。
 
 > [!claim] 核心判断
 > 大学不再是超脱于资本积累之外的传统学术庇护所，而是深度演化为具有自利动机的经济行动者；高校通过重构内部组织治理（商场空间租赁、扣取间接成本、设置软钱岗位）以及外包学术劳动力（依赖低薪博士后与研究生），将学术追求全面嵌入外部竞争性资金获取与资本增殖循环之中。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]

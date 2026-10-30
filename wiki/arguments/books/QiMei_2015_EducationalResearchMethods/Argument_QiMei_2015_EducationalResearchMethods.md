@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 127
+argument_related_count: 128
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
+  - "[[Document]]"
   - "[[Abstract]]"
   - "[[Research Writing Script]]"
   - "[[Concept Mapping]]"
@@ -165,7 +166,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -180,7 +181,7 @@ updated: 2026-10-22
 > | 第8章 [[Grounded Theory\|扎根理论]]及其应用 | 扎根理论的起源与特点、四种编码程序（[[Open Coding\|初始编码]]→[[Axial Coding\|轴心编码]]→聚焦编码→理论编码）、理论性抽样与理论建构、在教育研究中的适用性。 | [[Grounded Theory]]、[[Coding in Qualitative Research]]、[[Theoretical Sampling]] |
 > | 第9章 [[Action Research\|行动研究]] | 行动研究的定义与四项关键特征、[[Kurt Lewin\|勒温]]螺旋循环与凯米斯改进模型、九步研究过程、头脑风暴/三角形观察/中立主席三种方法、研究报告与叙事报告两种表述。 | [[Action Research]] |
 > | 第10章 统计分析 | 变量分类与编码、基础统计分析（频数/集中趋势/离散程度/交叉分析）、假设检验（[[t-test\|t检验]]/[[Chi-Squared Test\|卡方检验]]/[[Analysis of Variance\|方差分析]]）、SPSS操作实例。 | [[Descriptive Analysis]]、[[Statistical Significance]]、[[Effect Size]] |
-> | 第11章 研究报告的撰写 | 研究报告的总体框架与基本格式（题目/署名/摘要/关键词/正文/参考文献）、不同类型报告的正文结构差异与撰写要求。 | [[Abstract]]、[[Research Writing Script]] |
+> | 第11章 研究报告的撰写 | 研究报告的总体框架与基本格式（题目/署名/摘要/关键词/正文/参考[[Document\|文献]]）、不同类型报告的正文结构差异与撰写要求。 | [[Abstract]]、[[Research Writing Script]] |
 
 > [!knowledge-map] 知识路线图
 > ![](https://img.mylikemie.icu/books/QiMei_2015_EducationalResearchMethods/figures/Figure_Knowledge_Map.jpg)

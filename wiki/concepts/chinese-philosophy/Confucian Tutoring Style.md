@@ -7,10 +7,10 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/learning
   - theme/parenting
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Discourse]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -103,7 +104,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 一个重要澄清：不是"专制型"教养
-> 西方文献长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况** 台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍([[Argument_Li_2012_Cambridge\|Li, 2012]])**。
+> 西方[[Document|文献]]长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况** 台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍([[Argument_Li_2012_Cambridge\|Li, 2012]])**。
 
 > [!example|notitle]
 > 一位七岁台湾女儿在母亲刚开口批评她不认真写字时，立即反击："只有你在说话，我还没说话呢！"母亲立刻让步并邀请女儿说话。女儿此后通过实际写字展示她的能力，母亲也给予了认可([[Argument_Li_2012_Cambridge\|Li, 2012]])。

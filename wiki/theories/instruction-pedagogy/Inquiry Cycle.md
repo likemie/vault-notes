@@ -9,7 +9,7 @@ aliases:
 summary: "科学教育与探究式学习的元阶段理论模型，由 Margus Pedaste 领衔通过系统综述整合数十种探究框架确立，由定向、概念化（质疑与假设生成）、调查（规划、探索、实验与数据解释）、结论与贯穿始终的反思讨论五大核心阶段构成"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 31
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Reflective Thinking]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[CER Framework]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -177,7 +178,7 @@ updated: 2026-10-22
 > - **1910 年代 — [[John Dewey\|杜威]]五步思维法雏形** 约翰·杜威在《我们怎样思维》（How We Think）中提出[[Reflective Thinking\|反思性思维]]五步法（情境困惑、界定问题、提出假设、推理发展、检验假设），奠定探究阶段论思想源头。
 > - **1970–1980 年代 — 早期学习环（Learning Cycle）建立** 卡普拉斯（Karplus）与阿特金（Atkin）提出 SCIS 三阶段科学学习环（探索 ➔ 概念引入 ➔ 概念应用），成为理科探究教学的原型。
 > - **1980–1990 年代 — BSCS 5E 教学模型风靡** 拜比（Bybee）领衔提出 5E 模型（参与 Engagement、探索 Exploration、解释 Explanation、精致 Elaboration、评价 Evaluation），成为全美课程标准的主导[[Paradigm\|范式]]。
-> - **2015 — Pedaste et al. [[Systematic Review\|系统综述]]确立现代探究循环模型** 佩达斯特团队通过严格元文献综合，整合 32 种框架的术语混乱，正式确立五主阶段、次级阶段与双向回流机制的标准探究循环模型（Pedaste et al., 2015）。
+> - **2015 — Pedaste et al. [[Systematic Review\|系统综述]]确立现代探究循环模型** 佩达斯特团队通过严格元[[Document|文献]]综合，整合 32 种框架的术语混乱，正式确立五主阶段、次级阶段与双向回流机制的标准探究循环模型（Pedaste et al., 2015）。
 > - **2023 — De Jong et al. 里程碑综述将其作为指导探究的循证支柱** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 在《教育研究评论》将探究循环作为破除“探究等于放任盲目试错”的关键论据，确立其作为连接学生主动建构与教师指导的通用基底。
 
 ---

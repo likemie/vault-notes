@@ -2,7 +2,7 @@
 summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的创新政策演进理论，借鉴尼采精神三变隐喻，系统梳理使命政策从后发追赶的社会经济奠基（骆驼）、冷战大科学的技术攻关（狮子）到应对重大社会挑战的敏捷实验型社会-技术转型（儿童）三个历史代际的演进规律与组织能力要求。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Embedded Autonomy]]"
   - "[[Picking the Willing]]"
+  - "[[Science Programs]]"
   - "[[New Public Management]]"
   - "[[Wicked Problem]]"
   - "[[Grand Challenges]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-30
 title: Three Generations of Mission-Oriented Policy
 aliases:
   - 三代使命导向政策理论
@@ -111,7 +112,7 @@ aliases:
 > - **法国二战后现代化委员会** 法国计划署（[[French Modernisation Commissions|Commissariat Général du Plan]]）推行[[Picking the Willing|挑选意愿者]]（Picking the willing）策略，动员最具进取心的大企业共商投资。
 
 > [!theory-proposition] 命题二｜第二代使命政策：以国家安全与[[Big Science|大科学]]突破为核心的技术攻关（狮子形态）
-> **解释** 20 世纪 40 至 60 年代的美欧国家在冷战和军备竞赛背景下，依靠单一层级化国家实验室部署大科学项目。这种模式由具备强烈主权意识的政客与极具远见的英雄式科技主管领导，创造了巨大的技术突破与产业外溢效应。然而，该模式对纯技术以外的社会问题（如城市衰落、环境污染）缺乏敏捷响应力，且在缺乏公共采购对接的民用领域难以自发扩散，最终因[[New Public Management|新公共管理]]（New Public Management, NPM）改革对成本效率的片面追求而走向衰落。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+> **解释** 20 世纪 40 至 60 年代的美欧国家在冷战和军备竞赛背景下，依靠单一层级化国家实验室部署大[[Science Programs|科学项目]]。这种模式由具备强烈主权意识的政客与极具远见的英雄式科技主管领导，创造了巨大的技术突破与产业外溢效应。然而，该模式对纯技术以外的社会问题（如城市衰落、环境污染）缺乏敏捷响应力，且在缺乏公共采购对接的民用领域难以自发扩散，最终因[[New Public Management|新公共管理]]（New Public Management, NPM）改革对成本效率的片面追求而走向衰落。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 >
 > **典型案例** 
 > - **美国[[Manhattan Project|曼哈顿工程]]与[[Apollo Program|阿波罗计划]]** 依托中央集权指挥链与海量公共财政投入，攻克特定物理与航空航天工程极限。

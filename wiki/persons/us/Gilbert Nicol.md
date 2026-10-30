@@ -8,7 +8,7 @@ summary: "国际文凭北美公司长期执行主任，以教育规划和筹资�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Theory of Knowledge]]"
   - "[[Heterogeneity]]"
+  - "[[Teacher Support for Students]]"
   - "[[Advanced Placement Program]]"
 related_facts:
   - "[[International Baccalaureate North America]]"
@@ -35,7 +36,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-22
 > - **跨国路径** 在北美地方自主环境中发展区域推广模式，同时维持日内瓦对课程与考试的国际控制。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 140–152)]]
 
 > [!person-network] 关系网络
-> - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和教师支持。
+> - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和[[Teacher Support for Students|教师支持]]。
 > - **课程组织** [[International Baccalaureate]] — 把国际课程转化为北美学校可理解、申请和实施的项目。
 > - **组织发起者** [[Fred Block|布洛克]]·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。
 > - **先行学校教师** 联合国[[International Schools\|国际学校]]、弗朗西斯·刘易斯高中和皮尔逊书院教师承担早期工作坊教学，形成校际实施网络。

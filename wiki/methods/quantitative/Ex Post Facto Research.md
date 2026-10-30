@@ -7,7 +7,7 @@ summary: "一种回溯性非实验研究设计，通过观察已发生的因变�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,8 +31,10 @@ related_concepts:
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
   - "[[Alternative Hypothesis]]"
   - "[[Effective Teaching]]"
+  - "[[Document]]"
   - "[[Falsification]]"
   - "[[Interaction Effect]]"
+  - "[[Single-sex Schools]]"
   - "[[Counterfactual]]"
 related_methods:
   - "[[Random Assignment]]"
@@ -52,7 +54,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -115,7 +117,7 @@ updated: 2026-10-29
 Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316）：
 
 > [!proc] Lord（1973, p. 6）的八阶段程序
-> 1. **界定问题并回顾文献** 明确研究领域，通过文献了解前人研究的问题、障碍和发现。
+> 1. **界定问题并回顾[[Document|文献]]** 明确研究领域，通过文献了解前人研究的问题、障碍和发现。
 > 2. **陈述假设与前提** 明确待检验的假设以及假设和研究程序所基于的前提假设。
 > 3. **选择被试与数据收集方法** 确定抽样策略和数据收集工具。
 > 4. **建立分类标准与类别** 建立尽可能无歧义的数据分类标准，使关系和相似性能被发现。
@@ -149,7 +151,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 > - 教师特征与教学效能的关系
 > - 政治/宗教归属与态度的关系
 > - 学校成就与社会阶层、种族、性别、智力等自变量的关系
-> - Stables（1990）大样本研究混合与单性别学校学生差异
+> - Stables（1990）大样本研究混合与[[Single-sex Schools|单性别学校]]学生差异
 > - Arnold and Atkins（1991）小样本研究听障学生的社会与情感适应
 
 ---

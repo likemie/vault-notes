@@ -9,7 +9,7 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,21 +21,20 @@ tags:
   - student-mobility
   - region/southeast-asia
 related_concepts:
-  - "[[People-to-People Connectivity]]"
   - "[[Student Mobility]]"
+  - "[[Competitiveness]]"
+  - "[[People-to-People Connectivity]]"
   - "[[Global Regionalisms]]"
-  - "[[State Educational Sovereignty]]"
-related_theories:
-  - "[[Comparative Regionalism]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
   - "[[ASEAN Economic Community]]"
-  - "[[Southeast Asian Higher Education Common Space]]"
   - "[[ASEAN University Network]]"
   - "[[SEAMEO RIHED]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
   - "[[ASEAN Credit Transfer System]]"
   - "[[AIMS Programme]]"
 related_arguments:
@@ -43,13 +42,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2010 年 10 月在越南河内举行的第 17 届东盟峰会上由东盟十国国家元首与政府首脑共同审议通过；后续由东盟互联互通协调委员会（ACCC）统筹推进，并于 2016 年颁布更新版本《东盟互联互通总体规划 2025》（MPAC 2025）。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 154)]]
+> - **发布时间 / 发布主体** 2010 年 10 月在越南河内举行的第 17 届[[ASEAN|东盟]]峰会上由东盟十国国家元首与政府首脑共同审议通过；后续由东盟互联互通协调委员会（ACCC）统筹推进，并于 2016 年颁布更新版本《东盟互联互通总体规划 2025》（MPAC 2025）。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 154)]]
 > - **适用地区 / 对象** 覆盖东盟全部 10 个成员国；业务涉及交通基建、海关通关、信息技术、高等教育、跨国旅游与技术劳动力流动等多个协作领域。
 > - **问题背景** 配合 2015 年建成[[ASEAN Economic Community|东盟经济共同体]]的政治日程，着力解决成员国内部交通基础设施网络断裂、跨国规制标准壁垒以及民间与学术交流渠道狭窄等结构性制约。
 > - **制度位置** 作为指导东盟政治安全、经济与社会文化三大共同体建设的顶层综合战略框架，为人文交流与教育协调确立了跨部门优先行动方向。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 154)]]
@@ -57,10 +56,10 @@ updated: 2026-10-29
 ---
 
 > [!claim] 政策核心
-> 《东盟互联互通总体规划》（Master Plan on ASEAN Connectivity, MPAC）通过确立物理互联、制度互联与人与人互联三大支柱，将学术交流与学生流动确立为最高层级的政治战略议题，为东南亚在维持各国制度差异的前提下探索包容性高等教育共同空间提供了宏观政策依托。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 154)]]
+> 《东盟互联互通总体规划》（Master Plan on ASEAN Connectivity, MPAC）通过确立物理互联、制度互联与人与人互联三大支柱，将学术交流与[[Student Mobility|学生流动]]确立为最高层级的政治战略议题，为东南亚在维持各国制度差异的前提下探索包容性高等教育共同空间提供了宏观政策依托。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 154)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 促进东盟内部人员、货物、服务与投资的自由无缝流动，降低跨国交易与交往成本，增强东盟作为单一区域生产基地与人文共同体的整体竞争力。
+> - **政策目标** 促进东盟内部人员、货物、服务与投资的自由无缝流动，降低跨国交易与交往成本，增强东盟作为单一区域生产基地与人文共同体的整体[[Competitiveness|竞争力]]。
 > - **适用对象** 成员国交通、贸易、移民与教育行政部门、大学办学机构、研究人员以及跨国求学的青年学生。
 > - **政策工具** 设立重点优先实施项目库、跨领域部际协调矩阵、国家互联互通协调机构（NCC）与多边开发伙伴技术援助专项基金。
 > - **约束机制** 依托东盟互联互通协调委员会开展年度监测与成效审议，采取自愿申报、同行磋商与项目示范相结合的柔性实施方式。

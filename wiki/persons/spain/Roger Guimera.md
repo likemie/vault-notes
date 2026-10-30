@@ -10,7 +10,7 @@ summary: "西班牙统计物理学家与复杂网络科学家，加泰罗尼亚�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,20 +22,22 @@ tags:
   - theme/complex-networks
   - theme/team-science
 related_concepts:
-  - "[[Team Science]]"
+  - "[[Paradigm]]"
+  - "[[Assemblage]]"
   - "[[Coauthorship Network]]"
+  - "[[Emergence]]"
+  - "[[AI Agent in Education]]"
+  - "[[Team Science]]"
   - "[[Giant Component]]"
 related_theories:
   - "[[Team Assembly Model]]"
-  - "[[Small-World Collaboration Model]]"
 related_methods:
-  - "[[Network Analysis]]"
+  - "[[Internet-Based Experiments]]"
 related_instruments: []
 related_persons:
   - "[[Brian Uzzi]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Institute for Advanced Study]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
@@ -47,12 +49,12 @@ updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 西班牙统计物理学家与网络科学家；加泰罗尼亚高等研究院（ICREA）研究教授、罗维拉-维尔吉利大学（Universitat Rovira i Virgili）正教授。
-> - **核心角色** 探索社会网络微观生成机制与宏观拓扑相变的代表学者；将统计物理学建模范式成功引入科学合作与创意团队组织研究。
+> - **身份位置** 西班牙统计物理学家与网络科学家；加泰罗尼亚[[Institute for Advanced Study|高等研究院]]（ICREA）研究教授、罗维拉-维尔吉利大学（Universitat Rovira i Virgili）正教授。
+> - **核心角色** 探索社会网络微观生成机制与宏观拓扑相变的代表学者；将统计物理学建模[[Paradigm|范式]]成功引入科学合作与创意团队组织研究。
 > - **代表贡献** 领衔提出[[Team Assembly Model|团队组装模型]]，通过资历参数 $p$ 与重复倾向参数 $q$ 量化团队成员构成，揭示团队经验积淀与认知多样性对学术影响力的决定性作用。
 
-> [!citation-card] 团队组装微观机制对创新产出的调控
-> 团队组建规则同时决定了宏观合著网络的连通拓扑与微观团队的研究质量。资历参数保障了成果水准，而过高的重复合作参数则会因思维定势造成团队创新活力的系统性折损。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121, 254–256)]]
+> [!citation-card] 团队[[Assemblage|组装]]微观机制对创新产出的调控
+> 团队组建规则同时决定了宏观[[Coauthorship Network|合著网络]]的连通拓扑与微观团队的研究质量。资历参数保障了成果水准，而过高的重复合作参数则会因思维定势造成团队创新活力的系统性折损。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121, 254–256)]]
 >
 > *Across economics, ecology, and social psychology, there is consistent evidence that a journal’s impact factor is positively correlated with the incumbency parameter p, but negatively correlated with the diversity parameter, q.*
 
@@ -60,9 +62,9 @@ updated: 2026-10-30
 
 > [!timeline] 生平与职涯
 > - **2003** 获得巴塞罗那大学物理学博士学位。
-> - **2003–2008** 于美国西北大学从事博士后研究，与 Luís A. N. Amaral 和 Brian Uzzi 开展跨学科合作。
+> - **2003–2008** 于美国西北大学从事博士后研究，与 Luís A. N. Amaral 和 [[Brian Uzzi]] 开展跨学科合作。
 > - **2005** 领衔在《科学》（*Science*）发表关于团队组装微观机制与合作网络结构的奠基性论著。
-> - **2008–至今** 担任加泰罗尼亚高等研究院（ICREA）研究教授，主持复杂系统与生物计算网络实验室。
+> - **2008–至今** 担任加泰罗尼亚高等研究院（ICREA）研究教授，主持复杂系统与生物计算[[Internet-Based Experiments|网络实验]]室。
 
 ---
 
@@ -73,7 +75,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 罗杰·吉梅拉（Roger Guimerà）主张，科学与创意团队的产出绩效以及学界的全局拓扑结构，是由微观层面的招募与组配规则内生驱动的动力学过程。通过调控吸纳在任老手的概率（资历参数 $p$）以及老手重复启用既往搭档的概率（重复倾向参数 $q$），微观组装行为直接塑造宏观[[Giant Component|巨构件]]的相变涌现，并决定了团队维持信任默契与引入异质知识的最优认知平衡。
+> 罗杰·吉梅拉（Roger Guimerà）主张，科学与创意团队的产出绩效以及学界的全局拓扑结构，是由微观层面的招募与组配规则内生驱动的动力学过程。通过调控吸纳在任老手的概率（资历参数 $p$）以及老手重复启用既往搭档的概率（重复倾向参数 $q$），微观组装行为直接塑造宏观巨构件的相变[[Emergence|涌现]]，并决定了团队维持信任默契与引入异质知识的最优认知平衡。
 
 > [!citation-card] 微观组装驱动宏观网络拓扑相变
 > 合作网络从离散碎片向全连通巨构件的转变，源自个体学者在组队时对在任老手与既往搭档的微观概率选择。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–120)]]
@@ -82,7 +84,7 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **理论路径** 将统计物理学的相变理论与渗透模型拓展至科学学与组织社会学，开创了团队生成动力学研究传统。
-> - **方法路径** 确立基于多智能体微观参数拟合与宏观网络拓扑对比的计算模拟实证范式。
+> - **方法路径** 确立基于多[[AI Agent in Education|智能体]]微观参数拟合与宏观网络拓扑对比的计算模拟实证范式。
 > - **政策路径** 为科技基金项目遴选、科研团队资历梯度配置与跨领域协同创新提供量化管理工具。
 
 > [!evidence-grid-a] 相关研究索引
@@ -92,7 +94,7 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **合作学者** [[Brian Uzzi]] — 长期科研伙伴，共同探索百老汇音乐剧与跨学科科学团队组装动力学。
-> - **合作学者** Luís A. N. Amaral — 博士后导师与长期科研伙伴，共同开创复杂系统与团队科学交叉研究。
+> - **合作学者** Luís A. N. Amaral — 博士后导师与长期科研伙伴，共同开创复杂系统与[[Team Science|团队科学]]交叉研究。
 
 ---
 

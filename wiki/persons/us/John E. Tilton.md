@@ -10,7 +10,7 @@ summary: "美国著名产业经济学家，哥伦比亚大学与科罗拉多矿�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - science-policy
   - technology-diffusion
 related_concepts:
+  - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Paradigm]]"
   - "[[Second-Sourcing]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与学术历程
 > - **1960年代末–1970年代初** 于华盛顿哥伦比亚特区[[Brookings Institution|布鲁金斯学会]]担任研究员，开展战后美国与西欧、日本半导体工业技术演进与跨国扩散的大规模定量与制度考据。
-> - **1971年** 在[[Brookings Institution|布鲁金斯学会]]出版奠基性专著《技术国际扩散：半导体案例》，成为全球科技政策与产业组织学者研究半导体产业不可或缺的权威文献。
+> - **1971年** 在[[Brookings Institution|布鲁金斯学会]]出版奠基性专著《技术国际扩散：半导体案例》，成为全球科技政策与产业组织学者研究半导体产业不可或缺的权威[[Document|文献]]。
 > - **1980年代–2010年代** 长期任教于科罗拉多矿业学院与智利天主教大学，在矿产资源经济学、全球大宗商品周期及跨国[[Technology Transfer|技术转移]]领域发表百余篇高水平论著，当选未来资源研究所（RFF）资深学者。
 
 ---

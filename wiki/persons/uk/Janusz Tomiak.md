@@ -9,7 +9,7 @@ summary: "波兰裔英国比较教育学家，伦敦大学教育研究院（IOE�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/historiography
   - theme/institutional-history
 related_concepts:
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Positivism]]"
 related_theories: []
@@ -40,19 +41,20 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 波兰裔英国著名比较教育学家、苏联与中东欧教育研究专家，伦敦大学教育研究院（Institute of Education, IOE）比较教育学系副教授（Reader）兼伦敦大学斯拉夫和东欧研究学院（School of Slavonic and East European Studies, SSEES）教授；[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）核心理事。
-> - **核心角色** 战后伦敦大学比较教育“文化主义”（Culturalist）学派与中东欧社会主义教育体制研究的核心领军学者。[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，托米亚克在伦敦大学 IOE 内部与[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）、约瑟夫·劳威斯（[[Joseph Lauwerys]]）及[[Edmund King|埃德蒙·金]]（[[Edmund King]]）共同构成了坚守文化与历史脉络的学者群像；同时，在冷战铁幕对峙与意识形态偏见的背景下，托米亚克凭借深厚的斯拉夫语言文献功底，开创了跨越地缘阵营的客观实证研究。
+> - **核心角色** 战后伦敦大学比较教育“文化主义”（Culturalist）学派与中东欧社会主义教育体制研究的核心领军学者。[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，托米亚克在伦敦大学 IOE 内部与[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）、约瑟夫·劳威斯（[[Joseph Lauwerys]]）及[[Edmund King|埃德蒙·金]]（[[Edmund King]]）共同构成了坚守文化与历史脉络的学者群像；同时，在冷战铁幕对峙与意识形态偏见的背景下，托米亚克凭借深厚的斯拉夫语言[[Document|文献]]功底，开创了跨越地缘阵营的客观实证研究。
 > - **代表贡献**
 >   - **开辟西方苏联教育研究高地** 出版《苏联教育》（*The Soviet Union*, 1972）、编著《1980年代的苏联教育》（*Soviet Education in the 1980s*, 1983）等经典著作，成为英语世界把握苏联教育政策与体制演变最权威的学术参考文献。
 >   - **坚守文化主义与一手档案考证** 抵御冷战宣传与教条反共脸谱化论调，坚持以大量苏联官方统计报表、教育法案公文与课程大纲等[[Primary and Secondary Documents|一手文献]]进行深度历史情境化解读。
@@ -77,7 +79,7 @@ updated: 2026-10-20
 ---
 
 > [!work-line] 代表性学术著作
-> - **1972 — *The Soviet Union*（《苏联教育》，世界教育丛书）** 系统勾勒了自十月革命至勃列日涅夫时期苏联国民教育体系的组织结构、各级学校分流机制与马克思列宁主义教育学思想的落地形态。
+> - **1972 — *The Soviet Union*（《苏联教育》，世界教育丛书）** 系统勾勒了自十月革命至勃列日涅夫时期苏联[[National Education|国民教育]]体系的组织结构、各级学校分流机制与马克思列宁主义教育学思想的落地形态。
 > - **1983 — *Soviet Education in the 1980s*（《1980年代的苏联教育》）** 深入分析停滞时期苏联教育在科技人才培养、普及十年制中等教育与意识形态规训之间面临的深层结构性矛盾。
 > - **1986 — *Western Perspectives on Soviet Education in the 1980s*（《西方视角下的1980年代苏联教育》）** 汇集英美法德一流专家的多学科研究成果，力图超越冷战宣传偏见，构建客观严密的苏联教育解释学框架。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 domain: "chinese-philosophy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -18,6 +18,7 @@ tags:
   - level/k12
   - level/higher-ed
 related_concepts:
+  - "[[Document]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
   - "[[Take the World Upon Oneself]]"
@@ -71,11 +72,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> "中国学习者"（Chinese learner）在学术文献中有两个相互关联但不完全重叠的用法：
+> "中国学习者"（Chinese learner）在学术[[Document|文献]]中有两个相互关联但不完全重叠的用法：
 >
 > **1. 文化学习模型（cultural learning model）**[[Argument_Li_2012_Cambridge\|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues\|学习美德]]为个人能动性，以[[Self-Cultivation\|修身]]为终身项目，以[[Take the World Upon Oneself\|以天下为己任]]为社会归属。这一用法描述的是**文化理想型（ideal type）**，而非任何个体学习者的描述([[Argument_Li_2012_Cambridge\|Li, 2012, pp.57-58]])。
 >

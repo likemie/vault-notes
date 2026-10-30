@@ -9,7 +9,7 @@ title: "Argument_Fredens_2015_Paideia"
 argument_key: "Argument_Fredens_2015_Paideia"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Creativity]]"
   - "[[Working Memory]]"
+  - "[[Teacher Personality]]"
 related_theories: []
 related_methods:
   - "[[Cognitive Task Analysis]]"
@@ -43,7 +44,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -114,7 +115,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 书评未对 Hattie & Yates 的[[Meta-analysis\|元分析]]方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
 > - 作为丹麦语出版物中的书评，其读者群主要限于北欧教育界
-> - 书评的补充性批评（默认网络功能、教师人格重要性）来自 Fredens 自身的脑科学和医学背景，非来自被评书籍
+> - 书评的补充性批评（默认网络功能、[[Teacher Personality|教师人格]]重要性）来自 Fredens 自身的脑科学和医学背景，非来自被评书籍
 
 ## 来源
 

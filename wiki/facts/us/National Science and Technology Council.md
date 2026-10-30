@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Pluralistic Federal Funding System]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Research Universities]]"
 related_theories:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!caution] 机构缩写辨析
@@ -141,7 +142,7 @@ updated: 2026-10-26
 > > - **集权统筹视角** 在大国竞争与战略产业博弈背景下，唯有依托 NSTC 的白宫内阁级权威，才能打破五角大楼、能源部与卫生部之间的利益藩篱，避免巨额公共资金分散消耗。
 > > - **部门自主与分散资助视角** 批评者指出，美国战后科研的生机恰恰源于分布式[[Pluralistic Federal Funding System|多元资助体系]]的自由竞争；过度依赖 NSTC 的自上而下行政协调，容易演变为白宫幕僚的政治化指令，压抑基层科学家自主立项的学术弹性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
-> [!citation-card] 代表性批评与反思文献
+> [!citation-card] 代表性批评与反思[[Document|文献]]
 > 在分散化资助体制下，各部门各自为政往往带来资源浪费与重大技术方向的缺位；但自上而下的白宫集中协调若被特定政党意识形态绑架，则可能削弱科研共同体长远探索的专业独立性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
 >
 > *Under a decentralized funding system, departmental silos often cause resource waste and gaps in strategic direction; yet top-down White House coordination, if politicized, risks compromising the professional autonomy of scientific inquiry.*

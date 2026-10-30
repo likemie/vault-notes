@@ -9,7 +9,7 @@ summary: "美国复杂系统科学与科学计量学者，加利福尼亚大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -31,6 +31,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert K. Merton]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[National Academy of Sciences]]"
 related_arguments:
@@ -85,5 +86,5 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **学术合作** Santo Fortunato — 共同推导声望速度阈值模型。
-> - **学术合作** Albert-László Barabási — 在科学学与网络科学领域开展长期科研合作。
+> - **学术合作** [[Albert-László Barabási]] — 在科学学与网络科学领域开展长期科研合作。
 > - **概念关联** [[Reputation Velocity Threshold Model]] — 彼得森主导创立的量化方法模型。

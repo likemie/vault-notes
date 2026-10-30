@@ -14,10 +14,10 @@ aliases:
 summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科学实在论评估理论与实验范式，主张干预通过在特定背景中向受试者提供资源并激活其推理而产生非线性结果，倡导以多臂析因设计与过程评估打破因果黑箱，并将评估核心拓展至观察者制度位置与时间尺度对变迁定性的深层制约。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 49
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 51
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/evaluation
   - method/evaluation
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Self-Efficacy]]"
+  - "[[Co-Teaching]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -50,6 +51,7 @@ related_theories:
   - "[[Pluralism]]"
   - "[[Theory of Change]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Analytic Framework]]"
   - "[[Systematic Review]]"
@@ -80,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -88,7 +90,7 @@ updated: 2026-10-22
 > [!theory-position] 理论定位
 > - **解释对象** 社会政策、教育干预及制度变革项目在复杂社会生态系统中的因果实现机制与成效演变。
 > - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量干预是否有效的扁平化经验规律（休谟恒常相继因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的深层评估需求，以及破解政策变迁定性在激进与渐进之间的假性二元对立。
-> - **理论类型** 科学实在论评估理论、中层解释框架与前沿实验设计[[Paradigm|范式]]。
+> - **理论类型** 科学实在论评估理论、中层解释框架与前沿[[Experimental Research|实验设计]][[Paradigm|范式]]。
 > - **知识位置** 由英国学者[[Ray Pawson|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）奠定理论基石，哲学渊源为[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]；后经克里斯·博内尔（Chris Bonell et al., 2012）等学者发展为结合定量试验的“现实主义试验”（Realist Trials）前沿范式（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）；并在政策与制度变迁研究中被拓展为多维时空观察透镜（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）。
 
 > [!claim] 核心判断
@@ -150,7 +152,7 @@ updated: 2026-10-22
 > [!theory-proposition] 命题四｜去情境化统计聚合抹杀机制变异，[[Meta-analysis|元分析]][[Effect Size|效应量]]无法充当单一政策依据（去情境化批判）
 > **解释** 将脱离具体情境的研究结果简单粗暴地放入[[Meta-analysis|元分析]]中计算平均[[Effect Size|效应量]]是朴素[[Empiricism|经验主义]]的严重盲视。这种“数据洗涤”抹杀了导致干预成败的关键微观机制与学校生态背景，掩盖了不同群体或亚组间的结构性差异（Pawson, 2006；[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]]）。
 >
-> **应用实例** 早期 [[EEF Teaching and Learning Toolkit|EEF Toolkit]] [[Meta-meta-analysis|元-元分析]]汇总出教学助理项目“低影响、高成本”（平均效应量仅 $+0.08$），掩盖了优秀实践中协同教学带来的巨大提振与恶劣环境中将学生推给无资质助教带来的负面剥夺，导致政策制定者作出盲目裁撤助理岗位的粗暴决策（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
+> **应用实例** 早期 [[EEF Teaching and Learning Toolkit|EEF Toolkit]] [[Meta-meta-analysis|元-元分析]]汇总出教学助理项目“低影响、高成本”（平均效应量仅 $+0.08$），掩盖了优秀实践中[[Co-Teaching|协同教学]]带来的巨大提振与恶劣环境中将学生推给无资质助教带来的负面剥夺，导致政策制定者作出盲目裁撤助理岗位的粗暴决策（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
 
 > [!theory-proposition] 命题五｜政策变迁与干预性质取决于观察者的制度位置与评估时间尺度（实在论多维观察假说）
 > **解释** 在政策与制度演进中，不仅干预结果取决于受试者的能动推理，而且对“变革是否发生及变迁性质为何”本身的定性判断也具有深刻的情境相对性。借鉴 Pawson and Tilley（1997）的“何种方案在何种情境中对谁有效”，实在论政策评估将其拓展为“对谁而言、在何种情境下构成了何种变迁”（what is change, for whom, and in what context?）。微观行动者（处于体制内部直接承受规制变动的基层执行者）感受到的激进断裂，在宏观决策者（纵览顶层政策妥协的部委官员）眼中可能仅为渐进调适，在长期历史学家眼中则可能属于[[Path Dependence|路径依赖]]下的微小延续。若脱离主体的位置与时间跨度，任何对政策变迁激进还是渐进的定性评估都将陷入假性对立（Van der Heijden et al., 2007; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）。

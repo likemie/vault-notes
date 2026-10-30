@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_facts:
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[Genesis Mission]]"
   - "[[Manhattan Project]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Loan Programs Office]]"
   - "[[Human Genome Project]]"
   - "[[EUV LLC]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-22
 > 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系（汇聚约 4 万名科学家与工程师，年研发预算约 200 亿美元），DOE 构成了美国物理科学、先进材料、高性能计算以及大型重大科技基础设施领域的头号公共资助者与研发组织者。在科技政策与国家战略中，DOE 既是冷战[[Big Science|大科学工程]]与颠覆性[[Research Translation|技术转化]]的母体，也是国家微电子战略中微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）联合主席单位，统筹全美纳米科学研究中心（NSRCs）与极低能耗半导体前沿攻关，并作为[[Genesis Mission|创世纪计划]]（Genesis Mission）人工智能科研超级平台的战略中枢。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 19, 61–63)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，整合二战[[Manhattan Project|曼哈顿工程]]以来的能源研发署（ERDA）、联邦能源署（FEA）及原子能委员会（AEC）等机构，以应对 1970 年代石油危机暴露出的国家能源安全脆弱性。
+> - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，整合二战[[Manhattan Project|曼哈顿工程]]以来的能源研发署（ERDA）、联邦能源署（FEA）及原子能委员会（[[ASEAN Economic Community|AEC]]）等机构，以应对 1970 年代石油危机暴露出的国家能源安全脆弱性。
 > - **总部地点 / 业务辐射** 总部位于美国华盛顿特区福里斯特尔大厦，业务管辖覆盖全美 17 所多学科国家实验室、国家核安全局（NNSA）以及上百所[[Research Universities|研究型大学]]与私营工业的前沿技术攻关网络。
 > - **法人属性与经费基础** 联邦内阁级政府行政机关；下设科学办公室（Office of Science）管理巨额外延基础与物质科学基金，贷款项目办公室（[[Loan Programs Office|LPO]]）主导数百亿美元的国家清洁技术金融担保，并在国家安全总统备忘录授权下牵头建设跨机构的美国科学与安全平台（American Science and Security Platform, ASSP）。
 > - **核心宗旨与法定职责** “推进美国国家安全与经济繁荣”，通过攻克能源、环境、先进制造和核安全领域的关键科学与工程[[Grand Challenges|重大挑战]]，推动变革性科学发现、尖端工业转化与战略制造自主。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63)]]

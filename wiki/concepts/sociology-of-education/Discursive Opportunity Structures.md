@@ -4,7 +4,7 @@ aliases: ["话语性机会结构", "话语机会结构", "discursive and institu
 summary: "Parreira do Amaral & Dale (2015) 提出的教育治理分析概念，区分制度性机会结构和话语性机会结构——后者指话语框定思维与行动可能性的方式，调节全球高等教育中服务、职位和实践的可及性"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -12,6 +12,7 @@ tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme
 related_concepts:
   - "[[Discourse]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Geopolitics]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Self-Entrepreneur]]"
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -44,7 +45,7 @@ updated: 2026-10-22
 
 二者的关系并非并列而是叠加：个体同时面对制度性约束和话语性框定，话语性机会结构决定了哪些思维和行动路径被视为"可欲的"、"合理的"或"可行的"——从而在制度性结构之外，以更隐蔽的方式调节教育轨迹的可及性([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.253]])。
 
-> [!abstract] 在知识地缘政治分析中的应用
+> [!abstract] 在知识[[Geopolitics|地缘政治分析]]中的应用
 > [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, pp.253-254, 264-265)]]将[[Discourse|话语]]性机会结构概念用于分析 21 世纪 [[Single-Case Design\|SCD]] 如何作为（新）[[Geopolitics of Knowledge\|知识地缘政治]]的治理工具运作：
 
 SCD 话语通过界定"未来所需的关键技能"，塑造了个体在全球高等教育中的话语性机会结构——它决定了：

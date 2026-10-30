@@ -8,7 +8,7 @@ summary: "由 Gough（2007）提出的系统综述证据评价方法，通过方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Interpretivism]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Evidence Standards]]"
   - "[[Evidence Ecosystem]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-10-29
 > - **不声称回答的问题** WoE 框架评价的是研究对综述问题的证据贡献，不直接替代实质性数据综合；不能独立生成综述结论，须与主题综合、[[Framework Synthesis\|框架综合]]或[[Meta-analysis\|元分析]]等综合技术配合使用。
 
 > [!method-stack] 方法层级
-> - **研究设计** 嵌入[[Systematic Review\|系统综述]]流程之内，作为文献筛选后、数据提取与综合前的结构化质量与适切性评价环节。
+> - **研究设计** 嵌入[[Systematic Review\|系统综述]]流程之内，作为[[Document|文献]]筛选后、数据提取与综合前的结构化质量与适切性评价环节。
 > - **数据收集** 依据事先制定的评价准则，对每项纳入研究的方法学信息（研究设计、样本、测量、偏倚控制）和情境信息（研究人群、干预内容、实施情境与综述问题的匹配度）进行系统提取。
 > - **分析方法** 双人独立评分、协商修正、按维度分层汇总，最终给出综合权重裁决（WoE-D），形成可供综合分析使用的证据质量矩阵。
 > - **辅助技术** 结构化评价表格、[[Qualitative Codebook\|编码手册]]与团队协商备忘录；在 [[EPPI-Centre]] 系统综述软件（EPPI-Reviewer）中可嵌入结构化 WoE 评分模块。

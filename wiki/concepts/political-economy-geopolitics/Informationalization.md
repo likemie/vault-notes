@@ -8,7 +8,7 @@ aliases:
 summary: "以知识和信息为基础优化生产要素组合与使用的发展模式（Castells, 1996）。在宏观政治经济学中与依赖物质投入的工业化形成鲜明对照，要求信息自由流动与水平网络协同；在教育治理中表现为国家将数字基础设施、数据测评与教学服务向科技企业与商业中介外包，重塑公共教育的物质与权力基础。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,11 +27,14 @@ related_concepts:
   - "[[State Vertical]]"
   - "[[Public-Private Partnership]]"
   - "[[Educational Privatisation]]"
+  - "[[One-on-one Laptops]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Space of Flows]]"
   - "[[Venture Philanthropy]]"
   - "[[Discourse]]"
+  - "[[Personalized Learning]]"
 related_theories:
   - "[[Informationalism]]"
   - "[[Network Society]]"
@@ -51,7 +54,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-12
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -125,12 +128,12 @@ updated: 2026-10-22
 > 探讨教育信息化如何从纯粹的教学法革新演变为跨国科技资本与咨询中介重塑公立教育生态的制度通道。
 
 > [!claim] O'Neill, J., Duffy, C., & Fernando, S.
-> **数字基建外包与家庭办学成本转嫁** [[John O'Neill|约翰·奥尼尔]]等学者在解构新西兰近十余年教育私有化进程时指出，教育信息化构成了新自由主义重构公立教育的隐蔽杠杆。以奥克兰马奈卡拉尼信托（[[Manaiakalani Education Trust]]）和 [[CORE Education]] 为代表的实践表明，政府以“提升原住民与弱势学生数字素养”为道德旗帜，将学校数字化转型整体打包为商业外包项目。一方面，跨国科技巨头（三星电子、电信商 Spark）和私营教育咨询公司借信息化通道直接进驻公立学校，开辟了设备采购、云端订阅与教师培训的盈利准市场；另一方面，项目推行的“一人一机”要求公立学校和弱势家庭自行承担硬件购置与网络运维成本，实质上以“技术赋能”之名行“公共教育资助责任外包与成本向下转嫁”之实。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27, 47)]]
+> **数字基建外包与家庭办学成本转嫁** [[John O'Neill|约翰·奥尼尔]]等学者在解构新西兰近十余年教育私有化进程时指出，教育信息化构成了新自由主义重构公立教育的隐蔽杠杆。以奥克兰马奈卡拉尼信托（[[Manaiakalani Education Trust]]）和 [[CORE Education]] 为代表的实践表明，政府以“提升原住民与弱势学生数字素养”为道德旗帜，将学校数字化转型整体打包为商业外包项目。一方面，跨国科技巨头（三星电子、电信商 Spark）和私营教育咨询公司借信息化通道直接进驻公立学校，开辟了设备采购、云端订阅与教师培训的盈利准市场；另一方面，项目推行的“[[One-on-one Laptops|一人一机]]”要求公立学校和弱势家庭自行承担硬件购置与网络运维成本，实质上以“技术赋能”之名行“公共教育资助责任外包与成本向下转嫁”之实。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27, 47)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **网络前提命题** | 信息自由流动与扁平去中心化协同是要素重组优化与生产力[[Emergence\|涌现]]的制度基石 | 宏观[[Knowledge-Based Economy\|知识经济]]体制构建、产学研跨界协同网络 | Castells (1996); [[Argument_Chan_2015_Intersect\|Chan (2015)]] |
 > | **制度结构阻滞命题** | 垂直行政集权与信息管控窒息横向试错，使物质工业强国错失信息化[[Paradigm\|范式]]转换 | 计划经济转型困境、后工业社会创新机制比较 | [[Argument_Chan_2015_Intersect\|Chan (2015, pp. 2–3, 8–9)]] |
@@ -172,7 +175,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|:---|:---|
 > | **[[CORE Education]]** | 注册慈善信托全资控股的商业有限责任公司（双层架构） | 承揽教育部数字学习研发、全国教育网络（N4L）运维支持、ULearn 研讨会 | 集团年营收 2277 万纽币；员工 180 人 | 营收 98.7% 依赖政府外包合同；对外实际慈善捐赠仅占总收入 1.3%（pp. 94–95） | 揭示国家将公共教育信息化核心研发与基建全额向商业化实体外包，形成营利性依赖 |
 > | **马奈卡拉尼教育信托（[[Manaiakalani Education Trust\|MET]]）** | 社区学校集群联合设立的非营利教育信托 | 推动低收入社区学校开展 1:1 Chromebook 数字化教学与无线网状网络覆盖 | 获 [[NEXT Foundation\|NEXT 基金会]]数百万纽币专款；教育部对等支持 | 设立专门设备基金，强制要求低收入毛利与太平洋岛裔家庭每周分期支付 3.5–4.5 纽币购买电脑（pp. 9, 27） | 假借数字赋能之名，将公共办学硬件与网络基础设施成本实质性向下转嫁给弱势贫困家庭 |
-> | **在线教学与学习测评工具（[[Assessment Tools for Teaching and Learning\|e-asTTle]]）** | 新西兰教育部主导开发的国家自适应评价系统 | 基础教育信息化核心评估软件，实现个性化学习诊断与纵向数据追踪 | 教育部财政全额资助开发；后通过商业招标外包 | 测评系统运维与商业题库维护被跨国教育资本与外包咨询公司深度介入（pp. 87–88） | 成为量化因果交付与绩效治理的数字监控杠杆，加速公立教育测评外包私有化 |
+> | **在线教学与学习测评工具（[[Assessment Tools for Teaching and Learning\|e-asTTle]]）** | 新西兰教育部主导开发的国家自适应评价系统 | 基础教育信息化核心评估软件，实现[[Personalized Learning\|个性化学习]]诊断与纵向数据追踪 | 教育部财政全额资助开发；后通过商业招标外包 | 测评系统运维与商业题库维护被跨国教育资本与外包咨询公司深度介入（pp. 87–88） | 成为量化因果交付与绩效治理的数字监控杠杆，加速公立教育测评外包私有化 |
 
 ---
 

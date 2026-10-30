@@ -11,11 +11,11 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: European Commission
+issuing_organization: "[[European Commission]]"
 tags:
   - fact/policy
   - region/eu
@@ -26,47 +26,50 @@ tags:
   - human-capital
 related_concepts:
   - "[[Competitiveness]]"
+  - "[[Discourse]]"
   - "[[Lifelong Learning]]"
-  - "[[Employability]]"
-  - "[[Europe of Knowledge]]"
+  - "[[Further Education]]"
   - "[[Subsidiarity Principle]]"
-  - "[[State Educational Sovereignty]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[EU]]"
   - "[[European Commission]]"
-  - "[[European Employment Strategy]]"
+  - "[[EU]]"
+  - "[[World Trade Organization]]"
+  - "[[GATS and Trade in Education Services]]"
   - "[[Teaching and Learning - Towards the Learning Society]]"
+  - "[[European Employment Strategy]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1993 年 12 月由[[European Commission|欧盟委员会]]发布（时任委员会主席雅克·德洛尔主持起草），题为《增长、竞争力、就业：迈向 21 世纪的挑战与前行之道》（*Growth, Competitiveness, Employment: The Challenges and Ways Forward into the 21st Century*）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
-> - **适用地区 / 对象** 覆盖欧洲共同体全体成员国的经济、就业与教育培训宏观规划。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
+> - **发布时间 / 发布主体** 1993 年 12 月由[[European Commission|欧盟委员会]]发布（时任委员会主席雅克·德洛尔主持起草），题为《增长、[[Competitiveness|竞争力]]、就业：迈向 21 世纪的挑战与前行之道》（*Growth, Competitiveness, Employment: The Challenges and Ways Forward into the 21st Century*）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
+> - **适用地区 / 对象** 覆盖[[EU|欧洲共同体]]全体成员国的经济、就业与教育培训宏观规划。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 > - **问题背景** 1990 年代初期欧洲面临严峻的结构性失业危机与工业滞胀，叠加[[World Trade Organization|世界贸易组织]]（WTO）与[[GATS and Trade in Education Services|服务贸易总协定]]（GATS）带来的全球市场开放压力，欧洲在技术与经济竞争力上面临落后于美国和日本的深层焦虑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
-> - **制度位置** 在《马斯特里赫特条约》第 126 条明文禁止教育立法协调、限制欧委会直接权能的背景下，白皮书通过将教育转化为经济议题，构成了欧委会重塑教育政策话语并介入成员国教育事务的关键转折点。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–483)]]
+> - **制度位置** 在《马斯特里赫特条约》第 126 条明文禁止教育立法协调、限制欧委会直接权能的背景下，白皮书通过将教育转化为经济议题，构成了欧委会重塑教育政策[[Discourse|话语]]并介入成员国教育事务的关键转折点。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–483)]]
 
 ---
 
 > [!claim] 政策核心
-> 《增长、竞争力、就业》白皮书首次将教育与培训明确确立为欧洲新经济增长模型的核心基石，提出通过终身学习与继续培训的全面化、系统化，改造既有教育培训体系以适应全球经贸竞争与弹性生产组织需求。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
+> 《增长、竞争力、就业》白皮书首次将教育与培训明确确立为欧洲新经济增长模型的核心基石，提出通过[[Lifelong Learning|终身学习]]与继续培训的全面化、系统化，改造既有教育培训体系以适应全球经贸竞争与弹性生产组织需求。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 确立欧洲新增长模型的基本要求与长期目标，克服欧洲技术与竞争力鸿沟，以教育和培训驱动经济增长、创造就业岗位并保障基本机会均等。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
 > - **核心机制** 推动[[Lifelong Learning|终身学习]]（Lifelong Learning）与继续培训（Continuing Training）的全面普及与制度化，要求教育体系根据劳动力市场变动需求展开结构性重组。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
-> - **适用对象** 成员国职业技术教育与继续教育机构、普通教育体系、企业雇主与全体在职及潜在劳动者。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
+> - **适用对象** 成员国职业技术教育与[[Further Education|继续教育]]机构、普通教育体系、企业雇主与全体在职及潜在劳动者。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 > - **政策工具** 确立欧盟层面行动计划指南，依托共同体资助网络，推动教育培训与劳动力市场、社会伙伴的跨界协同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 
 > [!citation-card] 关键条文
@@ -77,11 +80,11 @@ updated: 2026-10-28
 ---
 
 > [!timeline] 政策时间线
-> - **1992** 《马斯特里赫特条约》签署，第 126 条确立教育领域的辅助性原则，禁止法律协调。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–482)]]
+> - **1992** 《马斯特里赫特条约》签署，第 126 条确立教育领域的[[Subsidiarity Principle|辅助性原则]]，禁止法律协调。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–482)]]
 > - **1993** 欧盟委员会正式发布《增长、竞争力、就业》白皮书，首次将教育培训上升为欧洲经济增长核心。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
-> - **1995** 欧委会出台[[Teaching and Learning - Towards the Learning Society|《教与学：迈向学习型社会》]]白皮书，进一步深化市场导向与人力资源投资设计。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> - **1995** 欧委会出台《[[Teaching and Learning - Towards the Learning Society|教与学：迈向学习型社会]]》白皮书，进一步深化市场导向与人力资源投资设计。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 > - **1997** 卢森堡欧洲理事会确立[[European Employment Strategy|欧洲就业战略]]，将白皮书倡导的就业导向教育原则制度化。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484–485)]]
-> - **2000** 里斯本欧洲理事会正式采纳新经济增长模型，确立建设全球最具竞争力的知识经济体战略目标。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–488)]]
+> - **2000** 里斯本欧洲理事会正式采纳新经济增长模型，确立建设全球最具竞争力的[[Knowledge-Based Economy|知识经济]]体战略目标。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–488)]]
 
 ---
 
@@ -93,14 +96,14 @@ updated: 2026-10-28
 > [!pathways] 实施路径
 > - **议题建构与危机动员** 通过白皮书将失业与滞胀归因于技能短缺和教育适应不良，论证超国家协调的必要性。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 > - **战略对接与项目联动** 将白皮书原则嵌入共同体行动计划与跨国合作网络，引导成员国教育改革。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
-> - **制度演进与范式扩散** 推动欧盟治理从传统法律管辖权争端转向经由就业与经济协调实现政策趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–485)]]
+> - **制度演进与[[Paradigm|范式]]扩散** 推动欧盟治理从传统法律管辖权争端转向经由就业与经济协调实现政策趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–485)]]
 
 ---
 
 > [!finding-cards] 效果与评价
 > - **实现教育角色认知的根本转向** 促使欧洲政策界打破将教育视作福利国家财政负担的传统观念，转而确立教育作为化解经济危机与推动资本积累核心要素的新定位。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 > - **确立终身学习的经济主义导向** 率先确立终身学习全面化与体系化议程，将其首要目标锚定于劳动力灵活性与就业市场流动性。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
-> - **奠定超国家治理与就业战略基石** 白皮书确立的“增长—竞争力—就业”三位一体框架，直接孕育了 1997 年欧洲就业战略与 2000 年里斯本战略。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–485)]]
+> - **奠定超国家治理与就业战略基石** 白皮书确立的“增长—竞争力—就业”三位一体框架，直接孕育了 1997 年欧洲就业战略与 2000 年[[Lisbon Strategy|里斯本战略]]。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–485)]]
 
 ---
 

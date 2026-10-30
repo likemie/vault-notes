@@ -12,7 +12,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -26,31 +26,29 @@ tags:
   - education-governance
   - region/europe
 related_concepts:
-  - "[[Global Regionalisms]]"
   - "[[Student Mobility]]"
   - "[[State Educational Sovereignty]]"
-related_theories:
-  - "[[Comparative Regionalism]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Erasmus Programme]]"
-  - "[[European Commission]]"
   - "[[EU]]"
+  - "[[European Commission]]"
+  - "[[Erasmus Programme]]"
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 欧洲联盟法院（Court of Justice of the European Union, CJEU / ECJ）是[[EU|欧洲联盟]]最高司法审判机关，总部设于卢森堡；通过先例裁判与条约解释确保欧盟法律在所有成员国获得统一遵守；在 1980 年代通过扩张性司法解释将大学高等教育纳入共同体法律管辖范围，突破了成员国对教育主权的绝对排他防守，为[[European Commission|欧盟委员会]]合法介入高等教育政策并创设[[Erasmus Programme|伊拉斯谟计划]]提供了关键的司法支点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 146, 148, 150)]]
+> [[EU|欧洲联盟]]法院（Court of Justice of the European Union, CJEU / ECJ）是[[EU|欧洲联盟]]最高司法审判机关，总部设于卢森堡；通过先例裁判与条约解释确保欧盟法律在所有成员国获得统一遵守；在 1980 年代通过扩张性司法解释将大学高等教育纳入共同体法律管辖范围，突破了成员国对教育主权的绝对排他防守，为[[European Commission|欧盟委员会]]合法介入高等教育政策并创设[[Erasmus Programme|伊拉斯谟计划]]提供了关键的司法支点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 146, 148, 150)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1952 年依据《巴黎条约》作为欧洲煤钢共同体法院创设，1957 年《罗马条约》将其确立为欧洲三大共同体的统一司法机构，后续随 1993 年马斯特里赫特条约与 2009 年里斯本条约完成现代化架构重塑。
@@ -70,7 +68,7 @@ updated: 2026-10-29
 >   借助对“职业培训”条款的扩张性司法解释，打开共同体介入高等教育的法律缺口。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 146, 148, 150)]]
 >
 >   - **1985** 在格拉维耶案（Gravier v. City of Liège, Case 293/83）中裁定，针对非本国欧盟学生收取歧视性额外学费违反条约，将高等教育学习认定为职业培训组成部分。
->   - **1989** 在伊拉斯谟案（Commission v. Council, Case 242/87）中确认，大学教育总体服务于职业准备，欧盟委员会有权动用职业培训预算资助跨国学生流动项目。
+>   - **1989** 在伊拉斯谟案（Commission v. Council, Case 242/87）中确认，大学教育总体服务于职业准备，欧盟委员会有权动用职业培训预算资助[[Student Mobility|跨国学生流动]]项目。
 >
 > - **1990 年代–至今** **条约承认与现代高教司法协调**
 >
@@ -97,11 +95,11 @@ updated: 2026-10-29
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 司法能动性与民族国家教育主权的边界博弈
+> > [!axis] 司法能动性与民族[[State Educational Sovereignty|国家教育主权]]的边界博弈
 > > 欧洲法院通过司法判例渐进蚕食成员国教育主权的现象，在欧洲一体化宪政理论中引发长期论辩。
 > >
 > > - **主权侵蚀与司法越权质疑** 批评视角指出，欧洲法院通过扩大“职业培训”词义将大学教育强行纳入规制，变相架空了条约原本限制共同体干预普通教育的宪制设计，体现了超国家官僚对国内教育自主权的渗透。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 146)]]
-> > - **消除市场壁垒与促进权利平等** 辩护视角认为，高等教育歧视性壁垒直接阻碍了欧洲统一大市场的劳动力自由机动；法院先例裁判打破了成员国在教育政策上的闭关自守，为后续博洛尼亚进程与全欧教育一体化注入了内生动力。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 146, 150)]]
+> > - **消除市场壁垒与促进权利平等** 辩护视角认为，高等教育歧视性壁垒直接阻碍了欧洲统一大市场的劳动力自由机动；法院先例裁判打破了成员国在教育政策上的闭关自守，为后续[[Bologna Process|博洛尼亚进程]]与全欧教育一体化注入了内生动力。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 146, 150)]]
 
 ---
 

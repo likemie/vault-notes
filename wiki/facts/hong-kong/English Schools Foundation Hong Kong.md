@@ -11,9 +11,9 @@ subtype: organization
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "organization"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 法定非营利教育机构
 headquarters: "香港"
@@ -24,9 +24,14 @@ tags:
   - level/k12
   - theme/international-schools
 related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[Champ]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[Chinese Learner]]"
+  - "[[Paradigm]]"
+  - "[[General Education]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -37,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -49,7 +54,7 @@ updated: 2026-10-22
 > - **成立时间 / 创设背景** 1967 年由香港政府制定专有条例设立，初衷是为在港英国公务员、商人与专业人士子女提供能衔接英国本土教育体系的公立标准英语教育，早期严格规定本地华人学生比例不得超过总学额的 10%。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 4)]]
 > - **总部地点 / 业务辐射** 设于中国香港，办学网络覆盖全港主要区域，涵盖 22 所幼儿园、小学、中学及一贯制学校。
 > - **法人属性与经费基础** 法定非营利教育信托实体；历史上曾长期接受香港政府经常性财政资助（Subvention），后逐步转向自负盈亏与学费资助独立运作模式。
-> - **核心宗旨** 提供全面英语教学环境与国际文凭（IB）等跨国通用课程，培养具备双语能力与全球视野的多元文化学习者。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 4–5)]]
+> - **核心宗旨** 提供全面英语教学环境与[[International Baccalaureate|国际文凭]]（IB）等跨国通用课程，培养具备双语能力与全球视野的多元文化学习者。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 4–5)]]
 
 ---
 
@@ -87,13 +92,13 @@ updated: 2026-10-22
 
 > [!finding-cards] 办学实体与课程矩阵
 > - **全龄段国际化学校网络** 统筹管理包括九龙小学、沙田小学、英皇佐治五世学校（KGV）、港岛中学、沙田学院在内的 22 所教育机构。
-> - **全英语沉浸与普通话课程** 为学生构建全天候英语学术交往场域，同时在人文学科与语言必修模块中深度嵌入普通话与中国文化学习体系。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 4)]]
+> - **全英语沉浸与普通话课程** 为学生构建全天候英语学术交往[[Champ|场域]]，同时在人文学科与语言必修模块中深度嵌入普通话与中国文化学习体系。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 4)]]
 > - **通往全球名校的升学立交桥** 毕业生大量考入英国罗素集团、美国常春藤盟校及香港本地顶尖大学，成为本地优质生源的重要孵化基地。
 
 ---
 
 > [!finding-cards] 关键成效与辐射影响
-> - **突破传统二元划分的“第四文化”空间** 华人学习者的规模化融入，消解了“传统外籍侨生”与“本地公立生”的刻板二分法，促成学生处于兼具本土中国认同与跨国流动特征的“[[Fourth Culture|第四文化]]”认同生态。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 4)]]
+> - **突破传统二元划分的“[[Fourth Culture|第四文化]]”空间** 华人学习者的规模化融入，消解了“传统外籍侨生”与“本地公立生”的刻板二分法，促成学生处于兼具本土中国认同与跨国流动特征的“[[Fourth Culture|第四文化]]”认同生态。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 4)]]
 > - **重塑香港国际化人才培养格局** 为跨国企业派驻人员、内地新移民精英与本地专业人士家庭提供了稳定的高质量英语教育选择，巩固了香港作为跨国商业枢纽的引才吸引力。
 
 ---
@@ -117,6 +122,6 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[International Schools]] | Concept | ESF 构成了香港乃至亚太地区最具历史代表性的国际化办学团体之一。 |
 > | [[Fourth Culture]] | Concept | ESF 华裔学生的身份认同呈现典型的跨文化第四文化混合空间。 |
-> | [[Chinese Learner]] | Concept | ESF 的生源演变挑战了对华人学习者的单一范式界定。 |
-> | [[Liberal Studies]] | Fact (Policy) | 香港公立高中的通识教育科目，与 ESF 推行的国际化博雅课程形成对比。 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] | Argument | 剖析 ESF 华人学生涌入、普通话转向与第四文化认同形成的核心论证文献。 |
+> | [[Chinese Learner]] | Concept | ESF 的生源演变挑战了对华人学习者的单一[[Paradigm\|范式]]界定。 |
+> | [[Liberal Studies]] | Fact (Policy) | 香港公立高中的[[General Education\|通识教育]]科目，与 ESF 推行的国际化博雅课程形成对比。 |
+> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] | Argument | 剖析 ESF 华人学生涌入、普通话转向与第四文化认同形成的核心论证[[Document\|文献]]。 |

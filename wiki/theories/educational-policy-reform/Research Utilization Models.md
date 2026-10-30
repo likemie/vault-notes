@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 54
+theory_related_count: 57
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[New Public Management]]"
   - "[[Homework]]"
+  - "[[Teacher Questioning]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -55,9 +56,11 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Research Question]]"
   - "[[Operationalization]]"
+  - "[[Teacher Collaboration]]"
   - "[[Professional Judgment]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
 related_theories:
   - "[[Ecosystem for Research-Engaged Schools]]"
   - "[[Theory of Planned Behavior]]"
@@ -82,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -178,7 +181,7 @@ updated: 2026-10-26
 > [!exegesis]- 教育研究例子
 > **以学校推行形成性评价（Formative Assessment）改革为例说明三类模型的运作差异**
 > 1. **工具性问题解决模型** 学校发现学生数学两极分化严重（明确问题），检索到 Black and Wiliam (1998) 的[[Meta-analysis\|元分析]]结论与具体策略（研究输入），直接在下学期教案模板中强制加入“每堂课必须包含 2 次出堂测验卡”（直接工具性落地）。
-> 2. **概念性启蒙渗透模型** 教师们在几年内陆续阅读了多篇讨论评估的通俗文章，潜移默化地改变了对考试的看法，认识到“测试不是为了给学生打等级，而是为了发现教学盲点”，从而在日常批改[[Homework\|作业]]和课堂提问时更加关注学生的思维卡点，即使他们并未严格执行任何标准化的评估工具方案。
+> 2. **概念性启蒙渗透模型** 教师们在几年内陆续阅读了多篇讨论评估的通俗文章，潜移默化地改变了对考试的看法，认识到“测试不是为了给学生打等级，而是为了发现教学盲点”，从而在日常批改[[Homework\|作业]]和[[Teacher Questioning|课堂提问]]时更加关注学生的思维卡点，即使他们并未严格执行任何标准化的评估工具方案。
 > 3. **象征性/战术政治模型** 为了应对上级督导评估中的“现代化教学”指标，学校在公开课和宣传展板上大量印刷“全面落实形成性评价”标语并装订厚重的档案盒，但教师常规授课依然完全延续传统讲授灌输，研究成果沦为应付检查的符号盾牌。
 
 ---
@@ -221,7 +224,7 @@ updated: 2026-10-26
 > - **1991 — 过程模型重构** Weiss 在公共政策研究中提炼出研发、问题解决、互动与战术四类政策过程模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen et al., 2011, p. 43]]）。
 > - **2007 — 跨部门体系化** Nutley, Walter & Davies 出版专著 *Using Evidence: How research can inform public services*，整合公共卫生、社会工作与教育研究中的证据利用机制，确立当代循证实践理论骨架。
 > - **2023 — 测量操作化落地** Kazancı Tınmaz & Sezgin 将研究利用模型与[[Theory of Planned Behavior\|计划行为理论]]深度融合，成功编制 20 题四维度[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS），实证揭示做研究与读期刊的双轨赋能路径（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023]]）。
-> - **2026 — 协作生态拓展** Hagevold et al. 在《Educational Research Review》发表综述，运用研究利用类型学剖析国际教师协作参与科研的深层整合与浅层合规机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）。
+> - **2026 — 协作生态拓展** Hagevold et al. 在《Educational Research Review》发表综述，运用研究利用类型学剖析国际[[Teacher Collaboration|教师协作]]参与科研的深层整合与浅层合规机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）。
 
 ---
 
@@ -248,5 +251,5 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 将[[Research Utilization\|研究利用]]模型与[[Theory of Planned Behavior\|计划行为理论]]结合，开发并验证 20 题 4 维度的[[Research Literacy Scale for Teachers\|教师研究素养量表]]，证实研究技能是连接积极态度与实际使用的关键知觉控制枢纽，且做研究与读期刊具有双轨赋能效应。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 在关于教师协作参与科研的[[Framework Synthesis\|框架综合]]中，运用 Weiss 的研究利用分类区分深度整合与浅层象征性合规，揭示信任与制度支持在促成互动模型中的决定性作用。
-> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用文献对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用[[Document|文献]]对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen, Manion & Morrison (2011, Ch. 3)]] — 系统评述 Weiss (1991b) 的政策研究利用四模型（研发、[[Problem Solving\|问题解决]]、互动、战术），探讨教育研究与政策制定之间的多重复杂关系。

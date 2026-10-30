@@ -7,7 +7,7 @@ summary: "新西兰梅西大学教育学院教授、批判教育政策学者，2
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
+  - "[[Document]]"
   - "[[New Managerialism]]"
   - "[[Knowledge Production]]"
   - "[[International Education]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-22
 ---
 
 > [!work-line] 主要著作
-> - **2012 — *Open Letter on Proposed [[Class Size]] Increases in New Zealand Schools*** 针对新西兰政府依据可见学习[[Effect Size|效应量]]拟扩大班额的政策动向，系统梳理 Glass et al. 原始[[Meta-analysis|元分析]]实证文献，指出盲目扩班对处境不利学生的长期损害。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
+> - **2012 — *Open Letter on Proposed [[Class Size]] Increases in New Zealand Schools*** 针对新西兰政府依据可见学习[[Effect Size|效应量]]拟扩大班额的政策动向，系统梳理 Glass et al. 原始[[Meta-analysis|元分析]]实证[[Document|文献]]，指出盲目扩班对处境不利学生的长期损害。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 > - **2016 — *A Political Economy of Education in New Zealand*** 深入剖析新西兰 1989 年权力下放以来的公共资产私有化与中介机构扩张，以[[Cognition Education|认知教育]]公司为案例，首次完整披露官方财政档案中记录的咨询酬金流向。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 
 ---

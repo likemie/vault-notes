@@ -9,7 +9,7 @@ summary: "美国第四任总统，政治哲学家，美国宪法之父，《联�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Technological Republic]]"
+  - "[[Document]]"
   - "[[Civic Religion]]"
   - "[[Procedural Piety]]"
 related_theories: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!work-line] 主要著作与文献
+> [!work-line] 主要著作与[[Document|文献]]
 > - **1787–1788 — 《联邦党人文集》（*The Federalist Papers*, 尤其是 No. 10 & No. 51）** 论证在广土众民的大共和国中如何利用分权、野心制约野心（"Ambition must be made to counteract ambition"）来化解派系冲突与暴民政治。
 > - **1787 — 《1787年制宪会议国会薪酬辩论记录》（*Writings of James Madison*, Vol. 3）** 提出公职自定报酬系道德不体面的断言，奠定了美国宪法第二十七修正案（1992 年最终批准：禁止议员自定当届生效薪酬）的思想雏形。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 > - **1789 — 《权利法案》（*United States Bill of Rights*）** 确立[[Civic Religion|公民宗教]]信仰、言论自由与程序正义等基本宪法权利边界。

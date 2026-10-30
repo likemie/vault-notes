@@ -9,7 +9,7 @@ title: "Argument_Eacott_2015_EPT"
 argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Doxa]]"
   - "[[Epistemological Break]]"
   - "[[Definition of Terms]]"
@@ -44,7 +45,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-10-24
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -55,11 +56,11 @@ citation_aliases:
 > 教育行政学者作为嵌入且具身于其研究对象（教育行政）中的行动者，其"智识凝视"（intellectual gaze）如何被这一嵌入位置所塑造？教育行政研究如何通过 Bourdieu 的[[Epistemology\|认识论]]框架重新建立"科学"探究的可能性？
 
 > [!abstract] 理论框架
-> 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的[[Epistemology\|认识论]]维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*(p.313)。
+> 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的[[Epistemology\|认识论]]维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*。
 >
 > Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情**。
 >
-> 核心不满：大多数教育行政中的 Bourdieu 式研究优先使用[[Champ\|场域]]-习性-资本等思维工具，但未能处理 Bourdieu 的认识论预备——这导致这类研究"难以超越学校教育的行政管理的（再）生产本质"。
+> 核心不满：大多数教育行政中的 Bourdieu 式研究优先使用[[Champ\|场域]]-[[Habitus|习性]]-资本等思维工具，但未能处理 Bourdieu 的认识论预备——这导致这类研究"难以超越学校教育的行政管理的（再）生产本质"。
 
 > [!info] 研究方法
 > - **方法** 理论介入（theoretical intervention），非经验研究

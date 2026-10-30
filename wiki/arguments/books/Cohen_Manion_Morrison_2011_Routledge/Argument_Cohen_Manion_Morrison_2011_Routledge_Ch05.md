@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -28,6 +28,7 @@ tags:
   - topic/ethics
 related_concepts:
   - "[[Concept Mapping]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Covert Research]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -82,6 +83,7 @@ related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
   - "[[American Educational Research Association]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[British Educational Research Association]]"
 related_arguments: []
 sources:
@@ -89,7 +91,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 > [!logic-map]- 论证结构
 > ```mermaid
@@ -129,7 +131,7 @@ updated: 2026-10-22
 #### 5.1.1 问题起点：伦理从何而来？
 
 > [!nav] 导览
-> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关文献的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence\|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
+> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关[[Document|文献]]的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence\|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
 
 > [!chapter-question] 伦理问题的六个来源
 > 伦理问题可能出现在研究的每个阶段（Oliver, 2003, p. 17）（pp.75–76）：
@@ -990,7 +992,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > [!info] 5.16.1 监管的四个层级
 > 伦理监管存在于多个层面（pp.116–129）：立法、大学和其他机构的伦理审查委员会（可能构成计划开展研究的主要障碍）、专业团体和协会的伦理守则，以及研究者个人的伦理。所有这些构成重要的监管机制。所有研究者，从本科生到前沿专业研究者，都必须认知并遵守管辖其实践的伦理守则和法规（pp.116–118）。
 
-英国1984年和1998年的《数据保护法》（Data Protection Acts）规定：为"历史和研究"目的持有的数据被豁免于赋予个人访问关于自身的个人数据的权利的原则——前提是数据不以识别个人的形式提供。研究数据还部分豁免于另外两项原则：此类数据可无限期持有，数据用于研究目的无需在数据收集时披露（pp.117–118）。
+英国1984年和1998年的《数据保护法》（Data Protection [[ASEAN Credit Transfer System|Acts]]）规定：为"历史和研究"目的持有的数据被豁免于赋予个人访问关于自身的个人数据的权利的原则——前提是数据不以识别个人的形式提供。研究数据还部分豁免于另外两项原则：此类数据可无限期持有，数据用于研究目的无需在数据收集时披露（pp.117–118）。
 
 ---
 

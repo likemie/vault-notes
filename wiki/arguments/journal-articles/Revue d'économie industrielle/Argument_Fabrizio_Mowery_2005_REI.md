@@ -53,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kenneth Burke]]"
+  - "[[Mark Newman]]"
 related_facts:
   - "[[Department of Defense]]"
   - "[[DARPA]]"
@@ -71,14 +72,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -266,7 +267,7 @@ issuing_organization: ""
 互联网从实验室原型走向全球通用基础设施，是国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], DARPA）分散资助与公共领域政策的典型范例。
 
 > [!method-position] 互联网关键创新的国防培育路径
-> - **分布式分组交换与 BBN 小企业合同** 1960 年代初麻省理工学院的伦纳德·克兰罗克（Leonard Kleinrock）与兰德公司的保罗·巴兰（Paul Baran）提出分组交换理论；1968 年底 DARPA 将[[ARPANET|阿帕网]]（[[ARPANET|Advanced Research Projects Agency Network]], ARPANET）关键的接口信息处理机制造合同授予了由麻省理工学院教授创立的小型工程技术公司博尔特-贝拉内克-纽曼（Bolt, Beranek and Newman, BBN），而非传统电信寡头。
+> - **分布式分组交换与 BBN 小企业合同** 1960 年代初麻省理工学院的伦纳德·克兰罗克（Leonard Kleinrock）与兰德公司的保罗·巴兰（Paul Baran）提出分组交换理论；1968 年底 DARPA 将[[ARPANET|阿帕网]]（[[ARPANET|Advanced Research Projects Agency Network]], ARPANET）关键的接口信息处理机制造合同授予了由麻省理工学院教授创立的小型工程技术公司博尔特-贝拉内克-[[Mark Newman|纽曼]]（Bolt, Beranek and Newman, BBN），而非传统电信寡头。
 > - **TCP/IP 协议置于公共领域** 1974 年由 DARPA 资助的罗伯特·卡恩（Robert Kahn）与文顿·瑟夫（Vinton Cerf）发表了传输控制协议与网际协议（Transmission Control Protocol/Internet Protocol, TCP/IP）规范；军方与学者坚持将其置于公共领域（Public Domain），不申请专利垄断；正是这种零许可壁垒的开放性，击败了 IBM 的系统网络架构（Systems Network Architecture, [[Network Analysis|SNA]]）及数字设备公司（Digital Equipment Corporation, DEC）的 DECNET 等专有标准，确立了全球互联网开放架构。
 > - **大规模部署与小企业合同赋能** 相比于英国与法国小规模的原型网络，美国军方资助了跨越 100 多个大学与国防科研节点的实体网络部署，同时向 BBN 等初创企业发放核心开发与采购合同，极大刺激了网络硬件与软件生态的技术竞争。
 

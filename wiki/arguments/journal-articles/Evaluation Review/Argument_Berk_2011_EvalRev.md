@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_EvalRev"
 argument_key: "Argument_Berk_2011_EvalRev"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
@@ -39,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
@@ -59,7 +61,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2011
 doi: ""
 citation_aliases:
@@ -72,12 +74,12 @@ citation_aliases:
 > [!abstract] 理论框架
 > Berk 不依赖单一理论框架，而是基于[[Evaluation Research\|评估研究]]方法论的演进历史进行[[Reflexivity\|反思性]]分析。他的论证锚定在：
 > - **[[Potential Outcomes Framework\|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）** 作为因果效应定义的概念基础
-> - **Campbell and Stanley (1963)** 的四种效度框架作为实验设计评估的参照
+> - **Campbell and Stanley (1963)** 的四种效度框架作为[[Experimental Research|实验设计]]评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
 > [!info] 研究方法
 > - **方法**[[Reflexivity\|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review\|文献综述]]
-> - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research\|评估研究]]论文、[[Causality\|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
+> - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research\|评估研究]]论文、[[Causality\|因果推断]]方法论[[Document|文献]]（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 > [!example] 核心论证
 > Berk 的论证围绕五个方法论战场展开，每个战场都存在证据与垃圾之间的张力：

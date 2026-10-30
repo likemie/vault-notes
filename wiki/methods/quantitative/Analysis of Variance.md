@@ -12,7 +12,7 @@ summary: "基于方差分解比较两组或多组连续变量均值差异的推�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -40,7 +40,10 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Construct]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Document]]"
   - "[[Falsification]]"
+  - "[[Flipped Classrooms]]"
+  - "[[Student Motivation]]"
   - "[[Heterogeneity]]"
   - "[[Metacognition]]"
 related_theories:
@@ -69,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -83,7 +86,7 @@ updated: 2026-10-29
 > - **[[Unit of Analysis\|分析单位]]** 参与实验或调查的被试个体、教学班级、学校、干预组与对照组。
 > - **输出形式** 变异分解表（ANOVA Table）、$F$ 统计量、组间自由度 $df_{\text{between}}$、误差自由度 $df_{\text{within}}$、$p$ 值、事后多重比较（Post-Hoc Tests，如 Tukey HSD、Bonferroni、Scheffé）以及方差解释[[Effect Size\|效应量]]（$\eta^2$、偏 $\eta_p^2$、$\omega^2$）。
 
-> [!citation-card] 实验设计中的标准推断统计选择
+> [!citation-card] [[Experimental Research|实验设计]]中的标准推断统计选择
 > 在[[Experimental Research\|实验研究]]设计中，当[[Independent Variable\|自变量]]为包含两个或多个水平的分类变量、因变量为连续数值变量时，方差分析（ANOVA）及其衍生方法（ANCOVA、MANOVA）是比较组间处理效应最标准且最广泛使用的参数推断统计方法族。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8, Table 8.3)]]
 >
 > *ANOVA is the primary statistical technique in experimental research for comparing group means on continuous outcome variables across categorical factor levels.*
@@ -221,7 +224,7 @@ updated: 2026-10-29
 >   - **ChatGPT 回复** *"Both formulas are mathematically equivalent under a balanced design where each of the $p$ groups has [[Sample Size Determination\|sample size]] $n$ (total sample $N = np$). The first formula uses the sums of squares directly from the ANOVA table, while the second formula derives $\omega^2$ directly from the $F$-statistic and sample sizes. Both formulas adjust for the positive sample bias of $\eta^2$..."*
 >   - **学生多轮追问** 学生并未追问“哪个公式才是唯一正确答案”，而是进一步追问参数含义：*"In the second formula, what does $p$ represent? Does $n$ refer to the sample size per group or total sample size? How does this formula perform in unbalanced designs?"*
 >   - **ChatGPT 回答** 澄清 $p$ 为组数（水平数），$n$ 为单组样本量；在非平衡设计中通常推荐使用基于离差平方和的第一种通用公式。
-> - **[[Epistemology\|认识论]]机制诊断** 展现出鲜明的多元论（[[Multiplist]]）特征。学生认识到同一统计学概念在不同文献与推导视角下存在多种合法形式，能够主动通过多轮人机追问探究公式背后的等价条件与参数边界，克服了非黑即白的绝对论盲从；但多元论者的局限在于倾向于将所有形式视为“各具合理性”，较少进一步进行排他性优劣裁决或主动寻找极端边界条件进行[[Falsification\|证伪]]。
+> - **[[Epistemology\|认识论]]机制诊断** 展现出鲜明的多元论（[[Multiplist]]）特征。学生认识到同一统计学概念在不同[[Document|文献]]与推导视角下存在多种合法形式，能够主动通过多轮人机追问探究公式背后的等价条件与参数边界，克服了非黑即白的绝对论盲从；但多元论者的局限在于倾向于将所有形式视为“各具合理性”，较少进一步进行排他性优劣裁决或主动寻找极端边界条件进行[[Falsification\|证伪]]。
 
 > [!figure]- 图2：Student B 与 ChatGPT 的交互对话记录（多元论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig2_Student_B_Interaction_Dialog.jpg)
@@ -230,8 +233,8 @@ updated: 2026-10-29
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   - [[Experimental Research\|实验研究]]与准实验中比较 3 组或更多组被试在连续数值[[Dependent Variable\|结果变量]]上的平均水平差异（如传统教学法 vs 翻转课堂 vs AI 辅助教学的[[Pre-test and Post-test\|后测]]均值对比）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
->   - [[Factorial Design\|因子设计]]中同时检验两个或多个[[Independent Variable\|自变量]]（如教学模式 $\times$ 学习动机水平）对成绩的独立贡献及两者之间是否存在[[Interaction Effect\|交互效应]]。
+>   - [[Experimental Research\|实验研究]]与准实验中比较 3 组或更多组被试在连续数值[[Dependent Variable\|结果变量]]上的平均水平差异（如传统教学法 vs [[Flipped Classrooms|翻转课堂]] vs AI 辅助教学的[[Pre-test and Post-test\|后测]]均值对比）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
+>   - [[Factorial Design\|因子设计]]中同时检验两个或多个[[Independent Variable\|自变量]]（如教学模式 $\times$ [[Student Motivation|学习动机]]水平）对成绩的独立贡献及两者之间是否存在[[Interaction Effect\|交互效应]]。
 >   - [[Sample Size Determination\|样本量]]中等以上且经检验满足正态性与方差齐性假定的连续测量数据。
 > - **谨慎使用**
 >   - 方差不齐（Levene 检验 $p < .05$）：必须报告 Welch's ANOVA 与 Games-Howell 事后检验结果。

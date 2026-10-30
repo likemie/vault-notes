@@ -11,7 +11,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,23 +37,28 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[SEAMEO]]"
   - "[[UNESCO]]"
   - "[[ASEAN]]"
   - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[ASEAN Education Ministers Meeting]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Bologna Process]]"
+  - "[[AIMS Programme]]"
   - "[[ASEAN University Network]]"
+  - "[[SHARE Programme]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）是东南亚教育部长组织设立的自治专门中心；代表成员国教育部门的政府权威，致力于推进覆盖全域高校的宏观政策对话、跨国质量保障框架对接以及[[Student Mobility|学生流动]]试点，构成了东南亚高等教育政府间多边治理与空间协调的核心政策枢纽。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+> [[SEAMEO|东南亚教育部长组织]]高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）是东南亚教育部长组织设立的自治专门中心；代表成员国教育部门的政府权威，致力于推进覆盖全域高校的宏观政策对话、跨国质量保障框架对接以及[[Student Mobility|学生流动]]试点，构成了东南亚高等教育政府间多边治理与空间协调的核心政策枢纽。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 组织雏形源于 1959 年[[UNESCO|联合国教科文组织]]、国际大学协会与福特基金会的联合倡议，1970 年在新加坡正式设立，后于 1985 年暂停运作；1993 年东南亚教育部长组织（SEAMEO）部长理事会正式决定在泰国曼谷重建该中心，以应对冷战后东南亚高等教育扩张与区域一体化协调诉求。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
@@ -77,14 +82,14 @@ updated: 2026-10-29
 >   SEAMEO 理事会正式在曼谷重建中心，确立服务于主权国家教育行政决策层的多边协调定位。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 >
 >   - **1993** SEAMEO 理事会通过决议，在曼谷重建高等教育与发展区域中心。
->   - **2006** 东盟教育部长会议（ASED）机制重新激活，RIHED 与东盟部委机制开启紧密政策协同。
+>   - **2006** [[ASEAN Education Ministers Meeting|东盟教育部长会议]]（ASED）机制重新激活，RIHED 与东盟部委机制开启紧密政策协同。
 >
 > - **2008–至今** **共同空间蓝图与多边试点拓展**
 >
->   受东盟经济共同体（AEC）建成目标推动，承担区域高教测绘并主导多边试点项目。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]
+>   受[[ASEAN Economic Community|东盟经济共同体]]（AEC）建成目标推动，承担区域高教测绘并主导多边试点项目。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]
 >
 >   - **2008** 发布《高等教育趋同：[[Bologna Process|博洛尼亚进程]]的经验教训》测绘报告，明确提示规避欧洲自上而下的同构趋同路径，并提出“迈向东南亚高等教育共同空间”蓝图。
->   - **2010** 发起马印泰（M-I-T）学生流动试点，后升级为覆盖多国的亚洲国际学生流动计划（AIMS）。
+>   - **2010** 发起马印泰（M-I-T）学生流动试点，后升级为覆盖多国的[[AIMS Programme|亚洲国际学生流动计划]]（AIMS）。
 >   - **2012** 发布东南亚国家质保模型研究报告，推进国家资格框架与东盟资历参考框架（AQRF）对标。
 >   - **2024** 协同东盟正式联合签署《东南亚高等教育共同空间宣言》，将长期培育的政策架构固化为区域最高政治承诺。
 
@@ -94,7 +99,7 @@ updated: 2026-10-29
 > - **决策机构（理事会，Governing Board）** 最高权力机构，由各成员国教育部部长委派的高级教育行政官员组成，负责审议中长期战略规划、批准年度工作项目与财务预算。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **执行机构（常设秘书处）** 设于曼谷，由中心主任统领专业研究员与行政团队，负责政策监测、跨国试点管理与国际联络。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **跨部门政策协同网络** 深度对接东盟高级教育官员会议（SOM-ED）与东盟教育部长会议（ASED），形成政府部委层面的紧密联动。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
-> - **外部合作伙伴网络** 与联合国教科文组织曼谷办事处、[[ASEAN University Network|东盟大学联盟]]秘书处及欧洲伙伴（如 SHARE 项目）保持常态化政策对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
+> - **外部合作伙伴网络** 与联合国教科文组织曼谷办事处、[[ASEAN University Network|东盟大学联盟]]秘书处及欧洲伙伴（如 [[SHARE Programme|SHARE 项目]]）保持常态化政策对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
 
 > [!pathways] 业务运行机制
 > - **部委议程对接与共识凝聚** 依据各成员国教育部面临的发展瓶颈设定优先议题，遵循协商一致的“[[ASEAN Way|东盟方式]]”，在充分尊重国家主权的前提下拟定合作指南。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–153)]]

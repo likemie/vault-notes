@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - theme/educational-borrowing
   - theme/nineteenth-century
 related_concepts:
+  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Auslandspadagogik]]"
   - "[[Refined Mastery]]"
@@ -53,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 ## 背景
 
-《欧洲初等公共教育报告》（*Report on Elementary Public Instruction in Europe*，通常简称《斯托报告》）是 19 世纪美国[[Common School Movement|公学运动]]西进边疆时最具政治影响力的官方文献之一：
+《欧洲初等公共教育报告》（*Report on Elementary Public Instruction in Europe*，通常简称《斯托报告》）是 19 世纪美国[[Common School Movement|公学运动]]西进边疆时最具政治影响力的官方[[Document|文献]]之一：
 
 > [!policy-context] 政策与历史背景
 > - **调查主体与官方授权** 1836 年俄亥俄州议会正式通过联合决议，委派即将赴欧为莱恩神学院采购图书的古典文献学者兼教育家[[Calvin Stowe\|卡尔文·斯托]]（Calvin Stowe, 1802–1886）担任州官方教育特使，正式委托其在欧洲期间收集“关于公共教学与教育体制的、对俄亥俄州有益的各种事实与信息”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31; Knight, 1930:248)]]
@@ -115,7 +116,7 @@ updated: 2026-10-22
 > - **[[Discourse|话语]]功能** 作为击碎“公立学校是专制集权与违宪抢劫”借口的强力“政治合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 
 > [!pathways] 实施路径：从俄亥俄官方报告到全美公学立法的转译机制
-> - **立法动员的跨州引爆点** 斯托报告不仅直接推动了俄亥俄州自身的公学法案，更通过马萨诸塞州、宾夕法尼亚州等五州议会的官方再版决议，演化为一场席卷全美的公共政策文献大动员。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）
+> - **立法动员的跨州引爆点** 斯托报告不仅直接推动了俄亥俄州自身的公学法案，更通过马萨诸塞州、宾夕法尼亚州等五州议会的官方再版决议，演化为一场席卷全美的公共政策[[Document|文献]]大动员。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）
 > - **作为合法化依据的借用功能** 卡洛扬纳基与卡扎米亚斯指出，斯托与曼一样，绝非机械将普鲁士法律法典直接移植到美利坚，而是将普鲁士在无文盲、专业师资与高素质道德教学上的无可辩驳事实，转译为说服议会投票支持公税办学与设立公立[[Normal School\|师范学校]]的政治资本。（pp. 33–34）
 
 ---

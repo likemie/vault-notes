@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 75
+method_related_count: 74
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#fef3c7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Heterogeneity]]"
   - "[[Decodification]]"
-  - "[[Institutional Conversion]]"
   - "[[Problem Finding]]"
   - "[[Open-Mindedness]]"
   - "[[Construct]]"
@@ -104,7 +103,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -213,7 +212,7 @@ updated: 2026-10-29
 >   - **顺序混合设计（Sequential Design）** 两类方法一先一后推进，前一阶段的产出直接决定后一阶段的设计输入。
 >   - **准混合设计（Quasi-[[Between-Subjects and Within-Subjects Designs\|mixed design]]）** 两种数据均被收集，但各自独立回答不同的子[[Research Question\|研究问题]]，分析过程中不发生实质性整合。
 > - **深度互动与系统贯通维度（高度整合）**
->   - **转换混合设计（[[Institutional Conversion|conversion]] Mixed Design）** 在平行推进过程中，实时将一种形态的数据转化为另一种形态（如[[Coding in Qualitative Research\|质性编码]]频次化）并开展联动运算。
+>   - **转换混合设计（conversion Mixed Design）** 在平行推进过程中，实时将一种形态的数据转化为另一种形态（如[[Coding in Qualitative Research\|质性编码]]频次化）并开展联动运算。
 >   - **多层混合设计（Multilevel / Hierarchical Mixed Design）** 在生态系统的不同层级运用不同方法（例如在微观学生层采集标准化测试分，在中观学校层开展[[In-depth Interview\|深度访谈]]）。
 >   - **完全整合混合设计（Fully Integrated Mixed Design）** 混合逻辑贯穿从[[Problem Finding\|问题界定]]、抽样、工具研制到数据解析的所有环节，呈现高度迭代与共生融合。
 

@@ -10,7 +10,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Output-Oriented Governance]]"
   - "[[Scaffolding]]"
+  - "[[Document]]"
   - "[[Transfer Science]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-10-26
 > > - **治理启示** 教师教育转移绝不能降格为单向知识搬运的被动容器，而必须确立为高校科研人员与一线实践者在多范式平衡中开展平等双向对话的战略性试验场。
 
 > [!lessons] 经验教训与启示
-> - **中介转译需要专业载体与时间减负** 仅在师范课程中灌输科研理论无法促成实践转变；必须如 CHU 所展示的那样，通过精炼的 Kurzreviews、配套微课与术语[[Scaffolding\|脚手架]]，直接减轻师生查阅厚重外文文献的认知负荷。
+> - **中介转译需要专业载体与时间减负** 仅在师范课程中灌输科研理论无法促成实践转变；必须如 CHU 所展示的那样，通过精炼的 Kurzreviews、配套微课与术语[[Scaffolding\|脚手架]]，直接减轻师生查阅厚重外文[[Document|文献]]的认知负荷。
 > - **必须锁定教师教育者作为关键乘数** 师资培养的突破口不在于直接面对全德数十万分散的一线在岗教师，而在于赋能大学授课教师与实习指导教官，依托教学法研讨课实现规模化倍增。
 
 ---

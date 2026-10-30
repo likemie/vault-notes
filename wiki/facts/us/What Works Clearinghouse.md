@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 89
-fact_related_level: 8
-fact_related_stars: "💎💎⭐⭐"
+fact_related_count: 90
+fact_related_level: 9
+fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: "government-clearinghouse"
 headquarters: "Washington, D.C., USA"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
+  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Attrition]]"
   - "[[Causality]]"
@@ -127,7 +128,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-10-26
 
 > [!policy-context] 资助体系与国家级技术保障
 > - **超 1 亿美元联邦累计投入** 联邦政府持续稳定的研发与运维投入，使其拥有全美最庞大的常设方法论委员会与外包合同研究专家库([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
-> - **公共智库外包协作网络** 由 Mathematica Policy Research、SRI International、Development Services Group (DSG) 等权威第三方智库以联邦采购合同形式承担常态化文献编码与质量审查，构筑了抵御政党更迭的专业操作防火墙([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
+> - **公共智库外包协作网络** 由 Mathematica Policy Research、SRI International、Development Services Group (DSG) 等权威第三方智库以联邦采购合同形式承担常态化[[Document|文献]]编码与质量审查，构筑了抵御政党更迭的专业操作防火墙([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 ---
 

@@ -7,7 +7,7 @@ summary: "中国当代哲学家，中国社会科学院哲学研究所研究员�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Epistemic Governance]]"
   - "[[Abstract]]"
+  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Unit of Analysis]]"
   - "[[Sinicisation]]"
@@ -45,9 +46,9 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[Belt and Road Initiative]]"
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments:
@@ -56,13 +57,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国当代哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员、学部委员。
+> - **身份位置** 中国当代哲学家，中国社会科学院哲学研究所研究员、学部委员。
 > - **核心角色** 以现代政治哲学[[Paradigm|范式]]重构先秦“天下”观念的代表学者，主张以“无外部”的[[Tianxia Heuristic|天下体系]]作为替代西方威斯特伐利亚民族国家主权秩序与联合国体系的世界制度方案；其理论为当代“[[Community of Shared Future for Mankind|构建人类命运共同体]]”与国族复兴[[Discourse|话语]]提供了哲学资源，并被国际高等教育学界引入作为跨国[[Epistemic Governance|知识治理]]的“天下启发式”[[Analytic Framework|分析框架]]；在政治人类学与少数民族研究中，其关于异族征服与文化同化的哲学论辩则成为[[Necropolitics|死亡政治]]与同化美化批判的焦点。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 106–107]]；[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024, pp. 1703–1705]])
 > - **代表贡献** 提出“[[Tianxia Heuristic|天下体系]]”（无外部世界制度哲学）、“神性中国与配天”旋风向心模型，以及将族群征服去暴力化的“逐鹿中原”与“文化成为”（becoming）命题。
 
@@ -75,12 +76,12 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1961** 出生于广东汕头。
-> - **1982** 毕业于中国人民大学哲学系；后进入中国社会[[Chinese Academy of Sciences|科学院]]研究生院深造，师从李泽厚，获哲学硕士学位，毕业后留所从事哲学研究。
+> - **1982** 毕业于中国人民大学哲学系；后进入中国社会科学院研究生院深造，师从李泽厚，获哲学硕士学位，毕业后留所从事哲学研究。
 > - **2005** 发表专著《[[Tianxia Heuristic|天下体系]]：世界制度哲学导论》，首次系统地将中国古典“天下”观念转化为现代政治哲学[[Discourse|话语]]，提出超越威斯特伐利亚国家体系的“无外部”世界制度构想。
 > - **2016** 发表《天下：一种可能世界秩序的天下体系》，进一步深化其“旋风式”文明吸纳机制与“配天”哲学体系。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
-> - **2019** 出版《惠此中国：作为一个神性概念的中国》，结合考古发现与先秦文献，系统阐发“神性中国”概念与“逐鹿中原”的历史哲学隐喻。
+> - **2019** 出版《惠此中国：作为一个神性概念的中国》，结合考古发现与先秦[[Document|文献]]，系统阐发“神性中国”概念与“逐鹿中原”的历史哲学隐喻。
 > - **2021** 加州大学出版社出版其著作英文版 *All Under Heaven: The Tianxia System for a Possible World Order*，在全球政治哲学、国际关系与比较教育领域引发广泛关注与跨学科争鸣。
-> - **2022–2024** 思想被西蒙·马金森（Simon Marginson）与杨锐（Yang Rui）等学者转译为比较教育学与高等教育学界的“天下启发式”[[Analytic Framework|分析框架]]；同时成为乌拉迪恩·布拉格（Uradyn E. Bulag）在《比较教育》期刊中解构同化修辞与[[Necropolitics|死亡政治]]的核心文本。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
+> - **2022–2024** 思想被西蒙·马金森（Simon Marginson）与[[Rui Yang|杨锐]]（Yang Rui）等学者转译为比较教育学与高等教育学界的“天下启发式”[[Analytic Framework|分析框架]]；同时成为乌拉迪恩·布拉格（Uradyn E. Bulag）在《比较教育》期刊中解构同化修辞与[[Necropolitics|死亡政治]]的核心文本。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
 ---
 
@@ -152,7 +153,7 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会[[Chinese Academy of Sciences|科学院]]研究生院时期的导师，其“积淀说”与实践美学深刻影响了赵汀阳对中华文明本体连续性的思考。
+> - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会科学院研究生院时期的导师，其“积淀说”与实践美学深刻影响了赵汀阳对中华文明本体连续性的思考。
 > - **学界引介者** 西蒙·马金森（Simon Marginson） — 英国牛津大学高等教育学者，在跨国高等教育与全球学术秩序研究中借用赵汀阳天下理论提炼[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]。
 > - **学界引介者** 杨锐（Yang Rui） — 香港大学比较教育学者，将天下体系引入中国现代大学模式建构与全球[[Knowledge Transfer|知识转移]]关系的分析中。
 > - **理论解构者** 乌拉迪恩·布拉格（Uradyn E. Bulag） — 剑桥大学社会人类学家，从[[Necropolitics|死亡政治]]、后殖民批判与族群政策实践对其天下哲学展开系统解构。

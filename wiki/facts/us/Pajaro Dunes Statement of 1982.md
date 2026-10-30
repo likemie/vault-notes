@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -28,12 +28,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[ASEAN Credit Transfer System]]"
 related_arguments:
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 背景
@@ -46,7 +47,7 @@ updated: 2026-10-22
 > 该声明在 Bayh-Dole Act 颁布后不久发布，目的是在大学-产业合作快速扩张的初期就建立规范性框架（Unauthored, 1982, cited in [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.268]]）。
 
 > [!note] 影响与后果
-> Pajaro Dunes Statement 的透明性原则至今仍是美国大学处理[[University-Industry Collaboration\|产学合作]]协议时的基本立场。这一原则与公立大学所受的州公共信息法案（state public information acts）形成互补——后者可能要求大学披露与私营企业研究关系的相关信息。两者共同构成产学合作透明性的制度基础（p.268）。
+> Pajaro Dunes Statement 的透明性原则至今仍是美国大学处理[[University-Industry Collaboration\|产学合作]]协议时的基本立场。这一原则与公立大学所受的州公共信息法案（state public information [[ASEAN Credit Transfer System|acts]]）形成互补——后者可能要求大学披露与私营企业研究关系的相关信息。两者共同构成产学合作透明性的制度基础（p.268）。
 
 > [!example] 相关概念
 > - [[Bayh-Dole Act of 1980]]

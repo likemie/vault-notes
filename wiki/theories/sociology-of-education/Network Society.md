@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Performativity]]"
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Hard Power]]"
   - "[[Variable]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-10-26
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 适合分析高等教育国际合作的权力机制变迁；国际组织教育政策如何在跨国网络中扩散；跨国科研合作中多元利益的融合与张力；全球教育改革口号与地方学校微观实践的断裂。
 > - **分析对象与单位** 跨国研究团队、国际多边政策倡议联盟、高校科研流动网络、微观课堂与政策文本的接口。
-> - **需要的材料** ① 跨国科研项目合作协议与人员流动轨迹；② 国际组织政策报告与跨国评估指标文本；③ 政策制定者、学者及一线教师的访谈实录；④ 合作网络成员的文献合著与引文网络数据。
+> - **需要的材料** ① 跨国科研项目合作协议与人员流动轨迹；② 国际组织政策报告与跨国评估指标文本；③ 政策制定者、学者及一线教师的访谈实录；④ 合作网络成员的[[Document|文献]]合著与引文网络数据。
 > - **解释目标** 揭示从等级制向网络化转变过程中的权力再分配，判读网络流动是否造成对本土场所空间的剥离与异化。
 
 > [!theory-framework] 命题转化为分析维度

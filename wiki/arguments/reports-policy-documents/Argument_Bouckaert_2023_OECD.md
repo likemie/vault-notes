@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 115
+argument_related_count: 117
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Learning Gain]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Academic Achievement]]"
   - "[[Problem Solving]]"
@@ -120,6 +121,7 @@ related_facts:
   - "[[KoKoHs Program]]"
   - "[[TECO Project]]"
   - "[[HEFCE Learning Gain Project]]"
+  - "[[European University Association]]"
   - "[[CRITHINKEDU Project]]"
   - "[[CALOHEE Project]]"
   - "[[CREATES Project]]"
@@ -156,7 +158,7 @@ sources:
 issuing_organization: "[[OECD]]"
 status: draft
 created: 2026-08-26
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -192,7 +194,7 @@ updated: 2026-10-26
 > |------|----------------|
 > | **政策[[Documentary Analysis\|文献分析]]**<br>Documentary Analysis | 系统检索与编码全球 152 个国家的教育战略文献，深度剖析 [[OECD]] 成员国的[[Higher Education Act of 1965\|高等教育法]]案、国家资格框架（如[[European Qualifications Framework\|欧洲高等教育区资格框架]]（Framework for Qualifications of the [[Bologna Process\|European Higher Education Area]], QF-EHEA）、新西兰资格框架（New Zealand Qualifications Framework, NZQF）、澳大利亚资格框架（Australian Qualifications Framework, AQF）、苏格兰学分与资格框架（Scottish Credit and Qualifications Framework, SCQF）与质量保障指南（如欧洲高等教育区质量保障标准与指南（Standards and Guidelines for Quality Assurance in the European Higher Education Area, ESG 2015）、英国高等教育质量保障署（Quality Assurance Agency for Higher Education, QAA）指南）。（pp. 5–18） |
 > | **测评工具与国家科研项目案例分析**<br>Case & Instrument Analysis | 比较分析跨国通用与专业测评工具（[[Collegiate Learning Assessment\|大学学习评估]]（Collegiate Learning Assessment, CLA / CLA+）、[[Watson-Glaser Critical Thinking Appraisal\|沃森-格拉瑟批判性思维评估]]（Watson-Glaser Critical Thinking Appraisal, WGCTA）、[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（Torrance Tests of Creative Thinking, TTCT）、[[VALUE Rubrics\|本科生教育学习成果有效评估]]（Valid Assessment of Learning in Undergraduate Education, VALUE）量规）以及德、意、英、美等国国家级评价研发项目（[[KoKoHs Program\|德国高等教育能力建模与测量计划]]（Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor, KoKoHs）、[[TECO Project\|意大利大学生素养测验]]（Test sulle Competenze, TECO）、[[HEFCE Learning Gain Project\|英国学习增益项目]]（Learning Gain）、美国州际新教师评估与支持联盟（Interstate New Teacher Assessment and Support Consortium, InTASC）标准）。（pp. 16–18, 21–28） |
-> | **跨国院校调查实证综合**<br>Survey Synthesis | 综合分析全美大学与学院协会（Association of American Colleges and Universities, AAC&U / Hart Research Associates, 2016，325 所高校）与欧洲大学协会（European University Association, EUA Trends 2018，43 国 303 所大学）等大规模院校实证数据。（pp. 27–29） |
+> | **跨国院校调查实证综合**<br>Survey Synthesis | 综合分析全美大学与学院协会（Association of American Colleges and Universities, AAC&U / Hart Research Associates, 2016，325 所高校）与[[European University Association\|欧洲大学协会]]（European University Association, EUA Trends 2018，43 国 303 所大学）等大规模院校实证数据。（pp. 27–29） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -222,7 +224,7 @@ updated: 2026-10-26
 
 > [!chain-link] 导论核心论点与问题意识推进
 > - **学业评价决定认知导向与精力分配** 学业评价承担着总结性认证、管理性监测与形成性促学三重根本目的；作为牵引教学的高利害指挥棒，评价[[Paradigm\|范式]]直接决定师生的精力分配并塑造学生深层或[[Surface and Deep Learning\|表层学习]]策略的选择。（p. 4）
-> - **高阶思维的战略地位与非对称关注** 21 世纪[[Knowledge-Based Economy\|知识经济]]确立了[[Creativity\|创造力]]与批判性思维的[[21st Century Skills and Competencies Discourse\|核心素养]]地位；然而既有文献对两者的关注极不均衡，[[Creativity Assessment\|创造力评价]]极度边缘化，批判性思维虽积累了大量测评，但在高等教育日常教学中仍严重缺乏[[Operationalization\|操作化]]支撑。（pp. 4–5）
+> - **高阶思维的战略地位与非对称关注** 21 世纪[[Knowledge-Based Economy\|知识经济]]确立了[[Creativity\|创造力]]与批判性思维的[[21st Century Skills and Competencies Discourse\|核心素养]]地位；然而既有[[Document|文献]]对两者的关注极不均衡，[[Creativity Assessment\|创造力评价]]极度边缘化，批判性思维虽积累了大量测评，但在高等教育日常教学中仍严重缺乏[[Operationalization\|操作化]]支撑。（pp. 4–5）
 > - **高调倡导与实证“增益匮乏”的制度悖论** 大规模纵向实证研究一致揭示，尽管大学教师普遍将批判性思维列为首要目标，学生在校期间的实际高阶思维增益却极其微弱（Bok, 2006; Arum & Roksa, 2011; Huber & Kuncel, 2016），暴露出评价范式创新作为突破高教质量瓶颈核心动能的紧迫性。（p. 5）
 
 > [!contrast-table] 高等教育学业评价的三重目的与运作机制对比

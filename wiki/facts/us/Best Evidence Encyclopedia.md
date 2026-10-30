@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Evidence Standards]]"
   - "[[Technology Infusion]]"
+  - "[[Document]]"
   - "[[Business as Usual]]"
   - "[[Paradigm]]"
   - "[[Peer-Supported Learning]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-26
 
 > [!actor-grid] 组织治理架构
 > - **学术领袖与主任团队** 由[[Robert Slavin\|罗伯特·斯莱文]]与 CRRE 资深教授团队统筹，主持学科[[Meta-analysis\|元分析]]选题与方法学规程研制。
-> - **专职编码与质评团队** 由 JHU 专职博士后与研究员组成，执行统一的文献筛选与[[Effect Size\|效应量]]加权编码规程。
+> - **专职编码与质评团队** 由 JHU 专职博士后与研究员组成，执行统一的[[Document|文献]]筛选与[[Effect Size\|效应量]]加权编码规程。
 > - **国际同行评议网络** 综述成果均经过国际顶级同行评议期刊匿名评审后正式发表，确保学术公信力。
 
 > [!pathways] [[Best Evidence Synthesis\|最佳证据综合]]（BES）审查机制

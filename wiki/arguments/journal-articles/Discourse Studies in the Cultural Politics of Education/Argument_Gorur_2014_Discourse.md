@@ -9,7 +9,7 @@ title: "Argument_Gorur_2014_Discourse"
 argument_key: "Argument_Gorur_2014_Discourse"
 argument_display_title: "Producing calculable worlds: education at a glance"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Performativity]]"
   - "[[Knowledge Co-production]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Performance Indicators]]"
   - "[[Assemblage]]"
@@ -37,6 +38,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Norberto Bottani]]"
+  - "[[Stephen P. Heyneman]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education at a Glance]]"
@@ -48,7 +50,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2014
 doi: ""
 citation_aliases:
@@ -64,8 +66,8 @@ citation_aliases:
 > - **共同生产（[[Knowledge Co-production\|co-production]]）(Jasanoff, 2004)** — 科学与治理相互构成的[[Analytic Framework\|分析框架]]
 
 > [!info] 研究方法
-> - **方法** 追踪"科学在行动"的实践(Latour, 1987, 1999)；文献档案分析
-> - **数据来源**[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 [[UNESCO]] 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录
+> - **方法** 追踪"科学在行动"的实践(Latour, 1987, 1999)；[[Document|文献]]档案分析
+> - **数据来源**[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 [[UNESCO]] 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 [[Stephen P. Heyneman|Stephen Heyneman]]（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录
 
 > [!example] 核心论证
 > 1. **前提/观察**[[OECD]] 的[[International Education\|国际教育]]指标（[[Education at a Glance\|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识

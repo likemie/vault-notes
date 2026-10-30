@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Conatus]]"
   - "[[Halo Effect]]"
+  - "[[Document]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Personal Construct Theory]]"
@@ -70,7 +71,7 @@ related_persons:
   - "[[George Kelly]]"
 status: draft
 created: 2026-07-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -627,7 +628,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!warning] 困难五：理论与方法的持续张力
 > Repertory grid 的权威著作（Bannister & Mair, 1968; Fransella & Bannister, 1977; Jankowicz, 2003; Fransella et al., 2004）都从 [[Personal Construct Theory]] 的视角撰写，强调理论对技术使用的重要性。然而大多数 repertory grid 研究以纯粹方法论和无理论的方式使用网格，仅顺带提及 Kelly 作为起源者。理论可以用于理解网格中正在发生的事情，但并非使用网格的必要条件（p. 18）。
 >
-> 真正的弊端是术语过多。例如，Bannister 将构念间平均相关命名为强度（intensity），这一术语常使外部研究者困惑，同样的统计量在其他领域有普遍理解的名称，但在个人建构文献中被赋予了一个专属术语。
+> 真正的弊端是术语过多。例如，Bannister 将构念间平均相关命名为强度（intensity），这一术语常使外部研究者困惑，同样的统计量在其他领域有普遍理解的名称，但在个人建构[[Document|文献]]中被赋予了一个专属术语。
 
 > [!warning] 困难六：阶梯法的特殊问题
 > - Butt（1995）指出了阶梯法在过程层面的问题

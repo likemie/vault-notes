@@ -30,12 +30,12 @@ related_concepts:
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Matched Pairs Design]]"
   - "[[Random Assignment]]"
   - "[[Causal Modeling]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Propensity Score Matching]]"
-  - "[[Experimental Research]]"
   - "[[Covariate Adjustment]]"
   - "[[Non-intervention Research]]"
   - "[[Ex Post Facto Research]]"
@@ -49,13 +49,13 @@ related_facts:
 confidence: low
 status: draft
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Matching
 > 匹配（Matching）在教育研究方法论中有两种不同但互补的用途（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）：
 >
-> **作为实验设计技术** 在真实验的[[Matched Pairs Design\|配对设计]]中，先在关键[[Variable\|变量]]上配对参与者，再[[Random Assignment\|随机分配]]每对成员至实验组和控制组——随机化发生在配对层面。在准实验中，匹配是增强组间可比性的主要手段。
+> **作为[[Experimental Research|实验设计]]技术** 在真实验的[[Matched Pairs Design\|配对设计]]中，先在关键[[Variable\|变量]]上配对参与者，再[[Random Assignment\|随机分配]]每对成员至实验组和控制组——随机化发生在配对层面。在准实验中，匹配是增强组间可比性的主要手段。
 >
 > **作为观察性研究技术** 在处理组和对照组之间匹配协变量分布相似的研究对象，使两组在可观测特征上变得可比。[[Argument_Berk_2011_EvalRev\|Berk (2011)]] 推荐其为[[Causal Modeling\|因果建模]]（SEM）的替代方法——"更少依赖不可检验的假设，更多受实证诊断约束"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.198]])。
 

@@ -7,16 +7,17 @@ aliases:
 summary: "混合方法研究方案或报告中必须包含的陈述，说明整合两类数据库的意图（为何整合）和程序（如何通过具体设计实施整合），应出现在方法部分或引言部分"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - mixed-methods
   - research-writing
 related_concepts:
   - "[[Research Question]]"
+  - "[[Research Writing Script]]"
   - "[[Purpose Statement]]"
   - "[[Mixed Methods Question]]"
   - "[[Operationalization]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -43,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!tip] 写作脚本
+> [!tip] [[Research Writing Script|写作脚本]]
 > 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.251–252]])。
 
 **[[Convergent Design|聚敛式设计]]**

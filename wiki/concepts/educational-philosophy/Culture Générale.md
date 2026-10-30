@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-29
 
 ---
 
-> [!concept-proposition] 命题一｜普通文化通过文理融通与官能磨砺培育具有普遍理性与严整思维的智性心智
+> [!concept-proposition] 命题一｜[[Culture Générale|普通文化]]通过文理融通与官能磨砺培育具有普遍理性与严整思维的智性心智
 > **探讨维度　课程[[Epistemology\|认识论]]与心智训练维度** 该命题探讨[[Culture Générale|普通文化]]如何打破人文学科与自然科学的二元对立，依据[[Faculty Psychology\|官能心理学]]构建文理整合的心智训练机制。
 
 > [!claim] [[Victor Cousin\|Cousin, V.]]

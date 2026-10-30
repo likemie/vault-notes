@@ -14,7 +14,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-10-22
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Horace Mann]] | 人物 | 论战的核心主角，[[Common School Movement\|公学运动]]领袖。 |
-> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 直接引爆这场全美大论战的导火索文献。 |
+> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 直接引爆这场全美大论战的导火索[[Document\|文献]]。 |
 > | [[Common School Movement]] | 概念 | 本次论战是公学运动击溃传统保守派阻抗的最关键一役。 |
 > | [[Grammar School]] | 机构 | 论战反方的制度大本营，代表传统新英格兰学术保守派。 |
 > | [[Normal School]] | 概念 | 论战后在全美加速普及的专业师资培训机构。 |

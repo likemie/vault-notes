@@ -6,7 +6,7 @@ summary: "在项目实施过程中持续收集多源证据并反馈给利益相�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 12
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -20,10 +20,12 @@ tags:
 - evidence-informed-practice
 related_concepts:
   - "[[Formative Assessment]]"
+  - "[[Epistemic Stances]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
   - "[[Technology Infusion]]"
+  - "[[Whole-School Improvement]]"
   - "[[Absorptive Capacity]]"
 related_theories: []
 related_methods:
@@ -39,7 +41,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -47,7 +49,7 @@ updated: 2026-10-29
 
 在复杂教育改革中，[[Formative Assessment|形成性评价]]的作用不是替代因果研究，而是补足严格实验难以回答的问题：项目有没有真正落地，教师和学生如何体验，实施里程碑是否达到，地方利益相关者是否理解证据并据此调整实践([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.121-124]])。
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemic Stances|认识论立场]]
 > [[Formative Assessment\|形成性评价]]把证据视为改进过程中的反馈，而不是一次性裁决。它默认教育项目会在真实组织中被不断解释、调整和再实施，因此评价者需要同时关注实施过程、短期输出、长期结果和利益相关者理解([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.121-124]])。
 
 这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入实践后，需要和地方目标、[[Professional Judgment|专业判断]]、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.121-123]])。
@@ -64,7 +66,7 @@ updated: 2026-10-29
 > [!success] 适用场景
 > [[Formative Assessment\|形成性评价]]适合用于多组件、长周期、跨学校或跨学区的改革项目，尤其是无法设置纯控制组、无法把项目影响与其他课程和组织变化完全分离的情境([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.113-115, 124]])。
 
-适用场景包括[[Technology Infusion|技术融入]]、全校改进、课程与专业发展组合项目、跨部门合作项目等。此类改革往往需要先判断“项目是否按计划发生”，再判断“结果是否已经出现”；形成性评价可以帮助避免过早把项目成功只等同于标准化成就提升([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.115, 121-123]])。
+适用场景包括[[Technology Infusion|技术融入]]、[[Whole-School Improvement|全校改进]]、课程与专业发展组合项目、跨部门合作项目等。此类改革往往需要先判断“项目是否按计划发生”，再判断“结果是否已经出现”；形成性评价可以帮助避免过早把项目成功只等同于标准化成就提升([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.115, 121-123]])。
 
 > [!warning] 局限性
 > [[Formative Assessment\|形成性评价]]不等同于因果证明。[[Students and Teachers Accessing Tomorrow\|STAT]] 的多源形成性评价能显示项目实施进展、利益相关者反应和若干中间结果，但由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，无法证明 STAT 的单独因果效果([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.124]])。

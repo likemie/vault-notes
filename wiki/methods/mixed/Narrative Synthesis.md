@@ -7,7 +7,7 @@ summary: "由 Jennie Popay et al.（2006）系统化制定的系统综述证据�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -20,6 +20,7 @@ tags:
   - theme/qualitative-synthesis
 related_concepts:
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Narrative Synthesis
-> 叙事综合（Narrative Synthesis）是一种在[[Systematic Review\|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity\|异质性]]文献证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 136–138)]]
+> 叙事综合（Narrative Synthesis）是一种在[[Systematic Review\|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity\|异质性]][[Document|文献]]证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 136–138)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 涵盖定量实验、质性个案、[[Mixed Methods Research\|混合方法]]评估、政策文本、实施过程评价等高度异质性的多源研究文献与实证数据。

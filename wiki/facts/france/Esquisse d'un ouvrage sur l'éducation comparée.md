@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
   - theme/nineteenth-century
 related_concepts:
   - "[[International Education]]"
+  - "[[Document]]"
   - "[[Scientific Method]]"
   - "[[Faculty Psychology]]"
   - "[[Boarding Schools]]"
@@ -57,14 +58,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
 
 ## 背景
 
-《[[Esquisse d'un ouvrage sur l'éducation comparée|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse d'un ouvrage sur l'éducation comparée, et séries de questions sur l'éducation*，常简称《计划》或 *Esquisse*）是现代比较教育学与[[International Education|国际教育]]的奠基性文献：
+《[[Esquisse d'un ouvrage sur l'éducation comparée|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse d'un ouvrage sur l'éducation comparée, et séries de questions sur l'éducation*，常简称《计划》或 *Esquisse*）是现代比较教育学与[[International Education|国际教育]]的奠基性[[Document|文献]]：
 
 > [!policy-context] 政策与历史背景
 > - **发布时间 / 作者背景** 1816 年底至 1817 年初由法国启蒙自由主义学者、前雅各宾派国民公会战地记者[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris, 1775–1848）在巴黎初等教育协会主办的《教育学报》（*Journal d'éducation*）上分期连载发表，并印发单行本独立发行。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 13)]]
@@ -86,7 +87,7 @@ updated: 2026-10-25
 > [!policy-design] 调查架构：六大领域与比较观察表
 > - **六大教育考察领域（Six Educational Areas）**
 >   1. **初等与大众教育（Primary and Common Education）** 涵盖学校数量与经费、学生入学年龄与入学率、师范培养与俸禄晋升、体育卫生与疫苗接种、道德与宗教教育、基于[[Faculty Psychology\|官能心理学]]的心智智力训练等。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 15]]）
->   2. **中等与古典教育（Secondary and Classical Education）** 涵盖文理中学及[[Boarding Schools\|寄宿学校]]建制、课程设置、古典文献研读、修辞与法律学习、道德陶冶与身体锻炼等。（p. 15）
+>   2. **中等与古典教育（Secondary and Classical Education）** 涵盖文理中学及[[Boarding Schools\|寄宿学校]]建制、课程设置、古典[[Document|文献]]研读、修辞与法律学习、道德陶冶与身体锻炼等。（p. 15）
 >   3. **高等与科学教育（Higher and Scientific Education）** 大学专门学院与科研组织。（p. 15）
 >   4. **[[Normal School\|师范教育]]（Normal Education）** 独立师范学院的教学法训练。（p. 15）
 >   5. **女子教育（Education of Girls）** 女性在家庭与社会中的专门教化。（p. 15）
@@ -118,7 +119,7 @@ updated: 2026-10-25
 
 > [!timeline] 文本产生、遗忘与重新发掘时间线
 > - **1816–1817** 《计划》在《教育学报》分期连载，并出版两卷本单行本（朱利安仅完成了前两个领域即初等与中等教育的完整[[Questionnaire\|问卷]]题项编制）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 15)]]
-> - **1817–1930s** 长期沉寂与历史遗忘：由于缺乏主权国家的行政财力支撑与常设机构承接，《计划》出版后在 19 世纪欧陆并未演化为大规模的实地调研项目，文献在图书馆书架上湮没了整整一个多世纪。（p. 11）
+> - **1817–1930s** 长期沉寂与历史遗忘：由于缺乏主权国家的行政财力支撑与常设机构承接，《计划》出版后在 19 世纪欧陆并未演化为大规模的实地调研项目，[[Document|文献]]在图书馆书架上湮没了整整一个多世纪。（p. 11）
 > - **1935–1943** 偶然重新发掘：在[[International Education\|国际教育]]局（IBE）第一任局长[[Jean Piaget\|皮亚杰]]（Jean Piaget）与研究学者佩罗塞尔（P. Rosselló）等人的发掘下，《计划》重新面世，国际比较教育学界正式追认朱利安为“比较教育学之父”。（Fraser, 1964; Gautherin, 1993）
 > - **1964** 斯特沃特·弗雷泽（Stewart Fraser）将《计划》英译并在哥伦比亚大学出版（*Jullien's Plan for Comparative Education 1816–1817*），引发英美学界的系统研讨与[[Positivism\|实证主义]]重新诠释。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 35)]]
 > - **1990s–2000s** 思想史回归：帕尔默（R. R. Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）等学者突破单纯实证主义视角，将其置于法国大革命、启蒙自由主义与欧洲“[[Geisteswissenschaften|精神科学]]”脉络中进行历史唯物主义与人文主义重估。（pp. 16–20）
@@ -162,7 +163,7 @@ updated: 2026-10-25
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Marc-Antoine Jullien]] | 人物 | 本文献作者，比较教育学奠基人与[[International Education\|国际教育]]思想先驱。 |
-> | [[Scientific Method]] | 概念 | 本文献试图将培根归纳法与解剖学类比作为教育研究的实证方法论基石。 |
+> | [[Scientific Method]] | 概念 | 本[[Document\|文献]]试图将培根归纳法与解剖学类比作为教育研究的实证方法论基石。 |
 > | [[Positivism]] | 概念 | 本文献确立了比较教育作为“准实证科学”的早期经验分类取向。 |
 > | [[Faculty Psychology]] | 概念 | 本文献[[Questionnaire\|问卷]]设计所依托的心灵官能自主生长心理学基础。 |
 > | [[Proto-Scientific Motif]] | 概念 | 本书是准科学母题的奠基文本，首创问卷表与比较观察表。 |

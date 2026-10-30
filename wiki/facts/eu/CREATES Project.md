@@ -10,9 +10,9 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2017–2020"
 initiator_organization: "欧洲联盟委员会（European Commission）"
@@ -22,57 +22,66 @@ tags:
   - theme/student-centered-learning
   - theme/higher-order-thinking
 related_concepts:
-  - "[[Inquiry-Based Learning]]"
-  - "[[Self-Directed Learning]]"
-  - "[[Scoring Rubrics]]"
-  - "[[Peer Assessment]]"
-  - "[[Paradigm]]"
-  - "[[Creativity]]"
+  - "[[Learner Autonomy]]"
   - "[[Liberal Education]]"
-  - "[[Active Learning]]"
-  - "[[Formative Assessment]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Peer Assessment]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Problem Solving]]"
+  - "[[Paradigm]]"
+  - "[[Self-Directed Learning]]"
+  - "[[Personalized Learning]]"
+  - "[[Scoring Rubrics]]"
+  - "[[Metacognition]]"
+  - "[[Formative Assessment]]"
+  - "[[Creativity]]"
+  - "[[Academic Engagement]]"
+  - "[[Wicked Problem]]"
 related_theories:
   - "[[Creative Problem Solving]]"
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Erasmus Programme]]"
+  - "[[EU]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 欧洲共创自主学习项目（Creating Responsive, Engaging and Active Tertiary Education with Students, CREATES）是由[[European Commission|欧盟委员会]]通过[[Erasmus Programme|伊拉斯谟+]]（Erasmus+）战略合作伙伴计划资助的跨国高等教育教学改革先锋项目（2017–2020）。项目联合荷兰、德国、英国等 6 所欧洲文理学院，聚焦本科拔尖博雅教育创新，旨在研制并推广以学生为中心、自主探究与师生共创为核心的成套教学与评价工具包。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
+> 欧洲共创[[Learner Autonomy|自主学习]]项目（Creating Responsive, Engaging and Active Tertiary Education with Students, CREATES）是由[[European Commission|欧盟委员会]]通过伊拉斯谟+（[[Erasmus Programme|Erasmus+]]）战略合作伙伴计划资助的跨国高等教育教学改革先锋项目（2017–2020）。项目联合荷兰、德国、英国等 6 所欧洲文理学院，聚焦本科拔尖[[Liberal Education|博雅教育]]创新，旨在研制并推广以学生为中心、自主探究与师生共创为核心的成套教学与评价工具包。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2017 年立项启动，执行周期为 2017 至 2020 年，现已结项并作为开源教育资源（OER）持续向全欧高校开放。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
 > - **发起方与资助机制** 由欧盟委员会通过 Erasmus+ 高等教育战略合作伙伴基金全额竞争性资助，由荷兰马斯特里赫特大学大学学院（University College Maastricht）牵头协调。
 > - **覆盖范围与对象** 联合德国弗莱堡大学学院、荷兰乌得勒支大学学院、英国伦敦国王学院等 6 所欧洲顶尖跨学科人才培养实验区，辐射全欧本科与研究生跨学科教学团队。
-> - **核心问题导向** 传统大学本科教学普遍存在单向知识讲授与考核标准封闭僵化等问题，迫切需要将以学生为中心的主动[[Inquiry-Based Learning|探究学习]]转化为可操作的微观课程与评价工具，以破解高阶思维培养难以在课堂落地的实践难题。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
+> - **核心问题导向** 传统大学本科教学普遍存在单向知识讲授与考核标准封闭僵化等问题，迫切需要将以学生为中心的主动[[Inquiry-Based Learning|探究学习]]转化为可操作的微观课程与评价工具，以破解[[Higher-Order Thinking Skills|高阶思维]]培养难以在课堂落地的实践难题。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
 
 ---
 
 > [!claim] 核心干预／机制假说
-> 项目假定将学业评价从教师单向裁决转变为师生合作的“评价共创（Co-creating Assessment）”，通过赋予学生参与界定考核标准、反思学习过程与开展结构化同伴互评的自主权，能够显著激发深层学习动机，有效培育批判性反思与创新问题解决等高阶思维能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
+> 项目假定将学业评价从教师单向裁决转变为师生合作的“评价共创（Co-creating Assessment）”，通过赋予学生参与界定考核标准、反思学习过程与开展结构化[[Peer Assessment|同伴互评]]的自主权，能够显著激发[[Surface and Deep Learning|深层学习]]动机，有效培育批判性反思与创新[[Problem Solving|问题解决]]等高阶思维能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
 
 > [!policy-design] 方案设计与 4 大工具包架构
-> - **项目目标** 开发模块化、开箱即用的共创工具包，推动本科教学向“响应式、投入式与主动式（Responsive, Engaging and Active）”范式转型。
-> - **自主课程设计工具包（Toolkit 1: Self-Directed Learning）** 提供学生自主选课与个性化学习路径规划指南，支持学生在导师指导下设计定制化跨学科培养方案。
-> - **共创式评分量规工具包（Toolkit 2: Co-creating Assessment Rubrics）** 提供师生共同商定评价维度与表现等级的操作规程，使考核准则向学生完全透明并转化为自我监控工具。
+> - **项目目标** 开发模块化、开箱即用的共创工具包，推动本科教学向“响应式、投入式与主动式（Responsive, Engaging and Active）”[[Paradigm|范式]]转型。
+> - **自主课程设计工具包（Toolkit 1: [[Self-Directed Learning]]）** 提供学生自主选课与[[Personalized Learning|个性化学习]]路径规划指南，支持学生在导师指导下设计定制化跨学科培养方案。
+> - **共创式[[Scoring Rubrics|评分量规]]工具包（Toolkit 2: Co-creating Assessment Rubrics）** 提供师生共同商定评价维度与表现等级的操作规程，使考核准则向学生完全透明并转化为自我监控工具。
 > - **学生主导研讨工具包（Toolkit 3: Student-Led Seminars）** 建立由学生自主轮流担任研讨主持人、设置探究议题并引导同伴深度批判辩论的教学指南。
-> - **多元同伴互评工具包（Toolkit 4: Peer Assessment & Reflection）** 构建双向同伴反馈与元认知反思日志框架，强化形成性评价的育人功能。
+> - **多元同伴互评工具包（Toolkit 4: Peer Assessment & Reflection）** 构建双向同伴反馈与[[Metacognition|元认知]]反思日志框架，强化[[Formative Assessment|形成性评价]]的育人功能。
 
 > [!citation-card] CREATES 评价共创宣言
-> 学业考核不应局限于教师单向度的裁判，而应当成为学生与教师共同设计评价标准、反思学习过程并激发创造性潜能的合作性探究过程。
+> 学业考核不应局限于教师单向度的裁判，而应当成为学生与教师共同设计评价标准、反思学习过程并激发[[Creativity|创造性]]潜能的合作性探究过程。
 >
 > *Assessment should move from teacher-directed grading to co-created assessment where students participate in defining criteria, assessing their own progress, and developing high-level critical and creative agency.*
 
@@ -93,15 +102,15 @@ updated: 2026-10-28
 
 > [!pathways] 实施路径与管理
 > - **跨学科协作研发** 汇聚认知心理学、教育学与各专业学术带头人，联合提炼文理学院小班研讨与自主探究的微观操作规程。
-> - **行动研究迭代验证** 在真实课堂环境中开展多轮行动研究，收集师生使用反馈以持续降低工具包的操作门槛。
+> - **[[Action Research|行动研究]]迭代验证** 在真实课堂环境中开展多轮行动研究，收集师生使用反馈以持续降低工具包的操作门槛。
 > - **开源数字化共享** 搭建多语言交互式网络平台，将所有工具、表格、量规范本与实施视频免费开放给全球高等教育界。
 
 ---
 
 > [!indicators] 评估指标体系
-> - **投入与产出指标** 欧盟资助经费执行率、成套工具包（4 套）研发完成度、线上资源下载与访问量。
+> - **投入与产出指标** [[EU|欧盟]]资助经费执行率、成套工具包（4 套）研发完成度、线上资源下载与访问量。
 > - **过程参与指标** 参与先导实验的课程门数、完成共创量规编制的学生覆盖面、同伴互评依从性。
-> - **能力提升指标** 学生自我导向学习能力量表增值、批判性与创造性思维表现评定、课程满意度与学业投入度。
+> - **能力提升指标** 学生自我导向学习能力量表增值、批判性与创造性思维表现评定、课程满意度与[[Academic Engagement|学业投入]]度。
 
 > [!finding-cards] 核心实证结论
 > - **打破评价黑箱并显著提升高阶认知投入** 实证反馈表明，参与量规共创的学生展现出更强的元认知监控能力，对复杂问题的批判性剖析与创新解决深度明显优于传统对照课堂。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
@@ -132,7 +141,7 @@ updated: 2026-10-28
 > | [[Peer Assessment]] | 概念 | 工具包 4 采用的多元同伴互评与元认知反馈机制。 |
 > | [[Formative Assessment]] | 概念 | 项目通过师生共创量规推进的核心过程性评价理念。 |
 > | [[Higher-Order Thinking Skills]] | 概念 | 项目旨在提升的批判性与创造性高阶认知能力。 |
-> | [[Creative Problem Solving]] | 理论 | 指导工具包设计与复杂劣构问题解决的认知理论支撑。 |
-> | [[Erasmus Programme]] | 政策事实 | 资助该跨国战略合作伙伴项目的欧盟核心教育行动计划。 |
+> | [[Creative Problem Solving]] | 理论 | 指导工具包设计与复杂[[Wicked Problem\|劣构问题]]解决的认知理论支撑。 |
+> | [[Erasmus Programme]] | 政策事实 | 资助该跨国战略合作伙伴项目的欧盟[[CORE Education\|核心教育]]行动计划。 |
 > | [[EU]] | 组织事实 | 项目的立项资助与宏观政策支持主体。 |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 论证 | 将 CREATES 作为欧盟利用财政资助孵化高校前沿评价与共创技术的代表性案例。 |

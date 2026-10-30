@@ -10,10 +10,10 @@ summary: "信息科学家与科学计量学家，印第安纳大学布鲁明顿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1977"
 lifespan: "c. 1977–至今"
 tags:
@@ -22,18 +22,20 @@ tags:
   - theme/science-of-science
   - theme/team-science
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Big Science]]"
   - "[[Team Science]]"
+  - "[[Heterogeneity]]"
   - "[[Scientific Productivity]]"
 related_theories:
   - "[[Core and Extended Teams Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-related_facts: []
+  - "[[Derek de Solla Price]]"
+related_facts:
+  - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
@@ -45,7 +47,7 @@ updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国信息科学家、科学计量学学者；印第安纳大学布鲁明顿分校信息与计算学院正教授、网络与系统科学中心核心成员。
+> - **身份位置** 美国信息科学家、[[Bibliometric Analysis|科学计量学]]学者；印第安纳大学布鲁明顿分校信息与计算学院正教授、网络与系统科学中心核心成员。
 > - **核心角色** 探索科学合作组织形态变迁与团队规模概率分布数理法则的前沿学者。
 > - **代表贡献** 创立[[Core and Extended Teams Model|核心与扩展团队模型]]，揭示科研团队规模从泊松分布向幂律重尾分布变迁的双模微观动力学机制。
 
@@ -59,7 +61,7 @@ updated: 2026-10-30
 > [!timeline] 生平与职涯
 > - **2009** 获得加利福尼亚大学洛杉矶分校（UCLA）信息学博士学位。
 > - **2009–至今** 任职于印第安纳大学布鲁明顿分校，历任助理教授、副教授及正教授。
-> - **2014** 在《美国国家科学院院刊》（*PNAS*）发表关于团队组织与知识生产动力学的里程碑论著，确立团队规模双模态演化模型。
+> - **2014** 在《[[National Academy of Sciences|美国国家科学院]]院刊》（*PNAS*）发表关于团队组织与[[Knowledge Production|知识生产]]动力学的里程碑论著，确立团队规模双模态演化模型。
 
 ---
 
@@ -78,8 +80,8 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 为大科学时代的科研组织规模变迁提供了解析函数与微观生成机制，奠定了团队双模分工理论基础。
-> - **方法路径** 将概率论中的混合分布拟合（泊松分布与幂律分布最大似然比检验）引入团队科学大数据分析。
+> - **理论路径** 为[[Big Science|大科学]]时代的科研组织规模变迁提供了解析函数与微观生成机制，奠定了团队双模分工理论基础。
+> - **方法路径** 将概率论中的混合分布拟合（泊松分布与幂律分布最大似然比检验）引入[[Team Science|团队科学]]大数据分析。
 > - **政策路径** 为科研资助机构规划核心研究室与项目流动聘用人员的梯队经费配比提供定量支撑。
 
 > [!evidence-grid-a] 相关研究索引
@@ -98,5 +100,5 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Core and Extended Teams Model]] | 理论 | 独立形式化提出解释团队规模泊松与幂律双模态演化的核心理论模型。 |
-> | [[Team Science]] | 概念 | 揭示大科学时代团队组织结构的二元异质性与生产力优先连接机制。 |
+> | [[Team Science]] | 概念 | 揭示大科学时代团队组织结构的二元[[Heterogeneity\|异质性]]与生产力优先连接机制。 |
 > | [[Scientific Productivity]] | 概念 | 形式化建模团队资深学者生产力与吸附扩展成员规模的正比增长关系。 |

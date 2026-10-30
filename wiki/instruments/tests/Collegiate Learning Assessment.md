@@ -9,7 +9,7 @@ aliases:
 summary: "由美国援助教育理事会开发的标准化表现性评价工具，采用真实情境表现任务与选答题评估大学生的批判性思维、分析推理、问题解决与书面沟通能力"
 type: instrument
 instrument_type: test
-instrument_related_count: 20
+instrument_related_count: 21
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Learning Gain]]"
   - "[[Reliability]]"
+  - "[[Scoring Rubrics]]"
   - "[[Document]]"
   - "[[Going Native]]"
   - "[[Construct]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-19
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-19
 >
 > | 维度 | 题项数 / 模块 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **表现任务：分析推理与评价（Analytic Reasoning & Evaluation）** | 1 项综合任务（含文档库） | 评估信息的[[Reliability\|可靠性]]、辨别事实与偏见、识别证据缺口与权衡对立解释的能力。 | 6 分量表评分量规（Rubric-based scoring） |
+> | **表现任务：分析推理与评价（Analytic Reasoning & Evaluation）** | 1 项综合任务（含文档库） | 评估信息的[[Reliability\|可靠性]]、辨别事实与偏见、识别证据缺口与权衡对立解释的能力。 | 6 分量表[[Scoring Rubrics\|评分量规]]（Rubric-based scoring） |
 > | **表现任务：[[Problem Solving\|问题解决]]（Problem Solving）** | 同上 | 综合多源信息、形成可行方案并对潜在后果进行逻辑推演的能力。 | 6 分量表评分量规 |
 > | **表现任务：书面有效沟通（Writing Effectiveness）** | 同上 | 观点明确、论证结构严密、逻辑连贯且用词精准的论述表达能力。 | 6 分量表评分量规 |
 > | **表现任务：写作规范（Writing Mechanics）** | 同上 | 语法、标点、拼写及句式结构的规范性与专业性。 | 6 分量表评分量规 |

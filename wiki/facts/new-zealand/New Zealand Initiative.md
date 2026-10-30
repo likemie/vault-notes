@@ -11,9 +11,9 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "think-tank"
 headquarters: "Wellington, New Zealand"
@@ -28,12 +28,14 @@ related_concepts:
   - "[[Educational Privatisation]]"
   - "[[School Choice]]"
   - "[[New Public Management]]"
+  - "[[Charter Schools]]"
   - "[[Grandes Ecoles]]"
   - "[[Research Problem]]"
   - "[[Discourse]]"
   - "[[Performance Pay]]"
   - "[[Public-Private Partnership]]"
   - "[[Competitiveness]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Policy Network]]"
 related_theories:
@@ -52,7 +54,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-10-22
 >
 >   合并成立新西兰倡议（NZI），完成从传统商业游说团向“独立思想领导力研究机构”的转型，深度介入国家党执政时期的基础教育改革。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
 >
->   - **2012 年** 智库正式成立，积极游说引入美英特许学校与自由学校模式。
+>   - **2012 年** 智库正式成立，积极游说引入美英[[Charter Schools|特许学校]]与自由学校模式。
 >   - **2013–2014 年** 全力为新西兰创设特许学校（[[Partnership Schools Kura Hourua]]）提供政策辩护与评估报告。
 >   - **2014–2016 年** 发布系列教师政策报告，极力主张打破全国统一工会薪资协议并实行绩效挂钩。
 
@@ -134,7 +136,7 @@ updated: 2026-10-22
 > > - **批评视角（批判教育社会学）** 智库所鼓吹的特许学校、校舍公私合营（[[Public-Private Partnership|PPP]]）与数字工具采购，直接为出资赞助它的银行、建筑财团、跨国科技企业开辟了庞大的政府采购商机，其“非游说”宣称仅是一种精密的公关修辞。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53, 70–71)]]
 > > - **智库立场（正方）** 坚称研究严格立足实证经济学证据，不代表任何特定企业利益，其主张是提升国家[[Human Capital Theory|人力资本]][[Competitiveness|竞争力]]的唯一出路。
 
-> [!citation-card] 代表性批评与反思文献
+> [!citation-card] 代表性批评与反思[[Document|文献]]
 > 在新西兰，自由意志主义‘亲市场’智库新西兰倡议自 2012 年以来积极重塑品牌，将其自身包装为研究与思想领袖型政策行动者……虽然其会员涵盖了新西兰主要跨国银行、电信与咨询财团，却声称自己在政策辩论中不代表任何具体行业利益，从而为特许学校与市场化问责提供了源源不断的政策正当性修辞。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
 >
 > *NZI has energetically rebranded to position itself as a research and thought leadership policy actor, in an effort to position itself centrally within the local modernising the state [[Discourse]]... bringing a pro-market perspective without pushing specific companies' interests.*

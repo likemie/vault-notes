@@ -10,9 +10,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2009–至今"
 initiator_organization: "[[SEAMEO RIHED]]"
@@ -26,17 +26,15 @@ tags:
 related_concepts:
   - "[[Student Mobility]]"
   - "[[ASEAN Way]]"
-  - "[[Global Regionalisms]]"
-  - "[[State Educational Sovereignty]]"
-related_theories:
-  - "[[Comparative Regionalism]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[SEAMEO RIHED]]"
-  - "[[SEAMEO]]"
   - "[[Erasmus Programme]]"
+  - "[[ASEAN Economic Community]]"
+  - "[[SEAMEO]]"
   - "[[Southeast Asian Higher Education Common Space]]"
   - "[[ASEAN University Network]]"
 related_arguments:
@@ -44,13 +42,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 亚洲国际学生流动计划（Asian International Mobility for Students, AIMS）是由[[SEAMEO RIHED|东南亚教育部长组织高教中心]]主导发起并协调运营的区域多边学生流动项目；旨在通过政府间学分互认协议与配套资助支持，促进东南亚及东亚国家高校本科生开展学期制跨境学习，构成东南亚高教自愿政策协调与多边流动的代表性旗舰机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
+> 亚洲国际[[Student Mobility|学生流动]]计划（Asian International Mobility for Students, AIMS）是由[[SEAMEO RIHED|东南亚教育部长组织高教中心]]主导发起并协调运营的区域多边学生流动项目；旨在通过政府间学分互认协议与配套资助支持，促进东南亚及东亚国家高校本科生开展学期制跨境学习，构成东南亚高教自愿政策协调与多边流动的代表性旗舰机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 154)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 启动于 2009 年（前身为马来西亚、印度尼西亚与泰国联合实施的 M-I-T 流动试点计划），2012 年正式更名为 AIMS 并实现全域扩容，目前常态化多边运行。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
@@ -66,7 +64,7 @@ updated: 2026-10-29
 > [!policy-design] 方案设计
 > - **项目目标** 推进区域内重点高校本科生在特定学科门类开展为期一至两学期的跨境互惠交流；促进校际课程体系衔接与学术互信。
 > - **覆盖对象** 参与国教育部推荐并经评估认定的高等院校，重点选拔农学、工程、国际商务、语言文化、环境科学等指定专业方向的全日制本科生。
-> - **干预措施** 实行接收学校学费全免、学分双向对等认定；派出方政府或院校提供往返交通与生活补助；SEAMEO RIHED 提供统一的学分转换指南与跨国协调支持。
+> - **干预措施** 实行接收学校学费全免、学分双向对等认定；派出方政府或院校提供往返交通与生活补助；[[SEAMEO]] RIHED 提供统一的学分转换指南与跨国协调支持。
 > - **实施控制** 设立年度指导委员会会议（Steering Committee Meeting），监督各专业学科群的交换规模与质量；通过院校互访与同行评估保障教学大纲的契合度。
 
 ---

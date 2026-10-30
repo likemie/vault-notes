@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,9 +27,11 @@ tags:
   - policy-analysis
   - evidence-based-policy
 related_concepts:
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Demand-side Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Charter Schools]]"
   - "[[Homework]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -78,7 +80,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 组织发展历程
 > - **1916–1960年代 — 现代公共行政奠基与马歇尔计划参与** 早期参与起草《1921年预算与会计法案》建立现代联邦预算制度；二战后受国务院委托开展马歇尔计划执行评估，成为塑造战后美国内外政策的核心智囊。
-> - **1970年代 — 产业组织与高科技扩散实证研究先驱** 出版著名学者[[John E. Tilton|约翰·E·蒂尔顿]]（John E. Tilton, 1971）的权威专著《技术国际扩散：半导体案例》（*International Diffusion of Technology: The Case of Semiconductors*），详尽揭示联邦政府采购如何帮助新创非电子管企业打破传统巨头垄断并占领全美近七成市场，成为战后高科技产业经济学与科技政策研究的奠基文献。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
+> - **1970年代 — 产业组织与高科技扩散实证研究先驱** 出版著名学者[[John E. Tilton|约翰·E·蒂尔顿]]（John E. Tilton, 1971）的权威专著《技术国际扩散：半导体案例》（*International Diffusion of Technology: The Case of Semiconductors*），详尽揭示联邦政府采购如何帮助新创非电子管企业打破传统巨头垄断并占领全美近七成市场，成为战后高科技产业经济学与科技政策研究的奠基[[Document|文献]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 > - **1980年代–1990年代 — 国内治理深化与布朗教育政策中心创设** 设立布朗教育政策中心，创设《布朗教育政策年度报告》（*Brown Center Report on American Education*），专注于以大[[Sample Size Determination|样本量]]化数据追踪美国公立学校真实表现与政策干预效能。
 > - **2000年代–至今 — 领衔国家标准怀疑派论战与实证反思** 在[[Institute of Education Sciences|教育科学研究院]]（IES）首任院长[[Grover Whitehurst|格罗弗·怀特赫斯特]]（Grover J. Whitehurst）与资深研究员汤姆·洛夫利斯（[[Theory of Mind|ToM]] Loveless）主持下，针对 [[Common Core State Standards|CCSS]] 的理论假说与政策效能开展长达数年的实证检验，成为挑战主流教育改革共识的标志性学术基地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
@@ -98,7 +100,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **半导体技术扩散与政府采购重构市场专著（Tilton, 1971）** [[John E. Tilton|蒂尔顿]]在布鲁金斯学会出版的开创性研究，系统剖析了 1957–1966 年间美国半导体市场结构的剧烈演变，实证证实国防部按技术性能而非既往声誉发包的采购机制，使新进入市场的非电子管企业市场份额从 40% 跃升至 64%–69%，成为揭示[[Demand-side Innovation Policy|需求侧创新政策]]与[[Market Shaping and Creating|市场塑造]]机制的权威实证源头。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
-> - **《布朗教育政策年度报告》（Brown Center Report on American Education）** 由汤姆·洛夫利斯长期主笔，连续多年对特许学校、[[Homework|家庭作业]]、课程标准等焦点议题进行实证量化评估。
+> - **《布朗教育政策年度报告》（Brown Center Report on American Education）** 由汤姆·洛夫利斯长期主笔，连续多年对[[Charter Schools|特许学校]]、[[Homework|家庭作业]]、课程标准等焦点议题进行实证量化评估。
 > - **“标准无效论”里程碑实证研究（Loveless, 2012; Whitehurst, 2009）** 深入分析 50 州长达十余年的大纲评级与统考表现，实证得出“各州课程大纲严格度评级与学生 [[National Assessment of Educational Progress|NAEP]] 成绩之间完全不存在相关性（$r \approx 0$）”，被学界誉为戳破标准提分神话的代表性文献。
 > - **《别忘了课程本身》（Don't Forget Curriculum, Whitehurst, 2009）** 怀特赫斯特从政策实效出发，尖锐指出与其把数以亿计的资金浪费在空洞的宏观课标争吵上，不如把钱花在经过严谨对照实验检验的高质量具体教材与教法上。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > - **循证社会政策评估专栏（Evidence Speaks）** 长期面向全美立法者普及[[Causality|因果推断]]逻辑与严谨科学证据审查准则。

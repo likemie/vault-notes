@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -58,7 +58,7 @@ updated: 2026-10-22
 > - **2000** 毕业于芝加哥大学，获经济学学士学位。
 > - **2008** 创立 FiveThirtyEight 网站，在2008年与2012年美国总统大选中实现对50个州选举人票的精准预测。
 > - **2012** 出版畅销著作《信号与噪声：大数据时代预测的艺术与科学》（*The Signal and the Noise*）。
-> - **2024** 出版专著《在边缘：拿一切冒险的艺术》（*On the Edge: The Art of Risking Everything*），提出风险决策社群中的“脱钩思维”（[[Cognitive Decoupling|decoupling]]）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]
+> - **2024** 出版专著《在边缘：拿一切冒险的艺术》（*On the Edge: The Art of Risking Everything*），提出风险决策社群中的“脱钩思维”（decoupling）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]
 
 ---
 

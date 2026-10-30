@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际金融组织直属高级发展研究与统计智库机构
 headquarters: 美国华盛顿（Washington, D.C., United States）
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Discourse]]"
   - "[[Data Infrastructure]]"
+  - "[[Document]]"
   - "[[Cognitive Authority]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 # Development Economics Vice Presidency
@@ -136,7 +137,7 @@ updated: 2026-10-23
 
 > [!indicators] 影响力维度与指标
 > - **专职编制与预算强度** 专职研究人员数（122 名）、四年期专属研发预算规模（2.44 亿美元）。
-> - **学术文献产出总量** 累计专著、期刊与工作文稿规模（全行逾 19,000 份，教育领域逾 6,900 份）。
+> - **学术[[Document|文献]]产出总量** 累计专著、期刊与工作文稿规模（全行逾 19,000 份，教育领域逾 6,900 份）。
 > - **学术网络辐射与免费赠阅** [[World Bank Economic Review|WBER]] 向非[[OECD|经合组织]]国家学术人员及公共机构免费赠阅量（9,500 余份）。
 
 > [!finding-cards] 关键成效与辐射影响
@@ -159,7 +160,7 @@ updated: 2026-10-23
 > > 学界围绕 DEC 生产的实证知识究竟属于纯粹客观科学，还是在为[[World Bank|世界银行]]的借贷政策与特定经济偏好提供技术包装的争论。
 > >
 > > - **批评观点** 批评者指出，DEC 的研究成果经常受到世行运营部门的微妙约束，偏离行方主流政策偏好的实证发现容易被边际化。
-> > - **回应辩护** DEC 管理层强调其研究部门享有学术探索空间，专职研究员在顶级期刊的发表不受贷款项目指标约束，持续生产了大量揭示传统结构调整局限性的自我反思文献。
+> > - **回应辩护** DEC 管理层强调其研究部门享有学术探索空间，专职研究员在顶级期刊的发表不受贷款项目指标约束，持续生产了大量揭示传统结构调整局限性的自我反思[[Document|文献]]。
 >
 > > [!axis] 自指性引用与[[Epistemology|认识论]]单一化争议
 > > 关于 DEC 是否构建了自我强化的知识流通圈子的学术审视。

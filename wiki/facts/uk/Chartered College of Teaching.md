@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Research Literacy]]"
   - "[[Formative Assessment]]"
+  - "[[Document]]"
   - "[[Gatekeepers]]"
   - "[[Rationalized Myth]]"
   - "[[Transfer Translation Transformation]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!claim] 核心定位
@@ -85,7 +86,7 @@ updated: 2026-10-26
 > [!finding-cards] 核心产品与业务矩阵
 > - **特许教师资格认证（CTeach）** 为具有卓越教学实践与循证[[Research Literacy\|研究素养]]的资深教师颁发国家级专业特许资质，树立教学专业标杆。
 > - **旗舰期刊《Impact》** 创办同行评议与实践导向并重的专业刊物，每期围绕特定循证教学主题（如认知科学应用、全员全纳教育、[[Formative Assessment\|形成性评价]]）整合最新学术研究与案例分析。
-> - **循证教学资源库与研讨网络** 建设面向全体会员的在线科研资源库、文献速览平台与跨校教师专业学习社群。
+> - **循证教学资源库与研讨网络** 建设面向全体会员的在线科研资源库、[[Document|文献]]速览平台与跨校教师专业学习社群。
 
 > [!citation-card] [[Policy Network\|政策网络]]中被赋权的专业代言机构
 > 英国教育部积极支持创设诸如特许教学学院（Chartered College of Teaching）和[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council）等新型专业团体，并与它们保持密切合作，赋予其在政策咨询中的核心角色。[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]

@@ -11,7 +11,7 @@ summary: "质性研究中系统记录研究全过程证据与决策链条的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Trustworthiness]]"
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Meaningful Human Control]]"
@@ -64,7 +65,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-29
 在[[Interpretive Paradigm|自然主义探究]]体系中，系统化审计追踪建立在六大结构性档案支柱之上（Lincoln & Guba, 1985；Onwuegbuzie & Leech, 2006；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, pp. 162–163, 206]]）：
 
 > [!feature] [[Qualitative Research\|质性研究]]审计追踪的六大档案支柱
-> - **原始数据档案（Raw Data）** 包含未经任何理论裁剪的现场影音记录、逐字文本[[Transcription in Qualitative Research\|转录]]稿（[[Transcription in Qualitative Research]]）、实地观察手记、未加工的政策文献与档案资料（[[Primary and Secondary Documents]]），作为全部后续推论的物质基底。
+> - **原始数据档案（Raw Data）** 包含未经任何理论裁剪的现场影音记录、逐字文本[[Transcription in Qualitative Research\|转录]]稿（[[Transcription in Qualitative Research]]）、实地观察手记、未加工的政策[[Document|文献]]与档案资料（[[Primary and Secondary Documents]]），作为全部后续推论的物质基底。
 > - **分析记录与[[Data Reduction\|数据缩减]]（Analysis Records & Data Reduction）** 记录原始文本向结构化概念转化的完整痕迹，包括逐段解释性评注、初始粗编码清单、层级编码树迭代记录、多轮归并去重操作与分析备忘录（data reduction and analysis [[Memos]]）。
 > - **数据重构与综合产物（Reconstruction & Synthesis Products）** 记录高级范畴聚合与命题生成过程，涵盖主题范畴定义、符号关系[[Domain Analysis\|领域分析]]表（domain analysis sheet）、因果网络图（causal networks）与阶段性研究报告。
 > - **探究过程操作日志（Process Notes）** 系统记载研究展开过程中的方法论抉择、田野突发情况应对策略、抽样方案调整理由及信效度控制措施，确保探究程序的一致性。
@@ -232,5 +233,5 @@ updated: 2026-10-29
 
 ---
 
-> [!evidence-grid-a] 经典理论与实证文献索引
+> [!evidence-grid-a] 经典理论与实证[[Document|文献]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与[[Meaningful Human Control|人在回路]]的计算化审计追踪责任（Ch. 30）。

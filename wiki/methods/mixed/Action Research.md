@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 65
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Concurrency of Learning]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
   - "[[Research Problem]]"
@@ -90,7 +91,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-10-29
 > [!proc] 综合八阶段操作程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 279–280]]）
 > 1. **识别、评价和表述问题** 从日常教学情境中明确亟待改进的核心议题或创新需求。
 > 2. **初步讨论与多方协商** 利益相关方共同商议，明确研究目标、指导假设与合作伦理边界。
-> 3. **审查相关研究文献** 研读既有文献，借鉴类似干预的成熟程序与教训。
+> 3. **审查相关研究[[Document|文献]]** 研读既有文献，借鉴类似干预的成熟程序与教训。
 > 4. **重新界定并聚焦问题** 将宽泛问题提炼为具体可检验的假设或行动目标。
 > 5. **选择研究设计与程序** 确定抽样、材料、教学方案与资源配置，灵活嵌入准实验、[[Questionnaire\|问卷]]或案例分析。
 > 6. **确立持续评价标准** 制定明确、可操作的形成性与总结性评价准则。

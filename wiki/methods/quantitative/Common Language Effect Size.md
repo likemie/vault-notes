@@ -11,7 +11,7 @@ summary: "将两组连续分布标准化均值差转化为二项超越概率的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Visible Learning]]"
   - "[[Discourse]]"
+  - "[[Document]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Random Sampling]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-10-18'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 （普通语言[[Effect Size|效应量]]）
@@ -199,7 +200,7 @@ updated: 2026-10-29
 > | [[Effect Size Conversion]] | 支撑方法 | 提供标准化均值差、相关系数与 CLES 之间跨尺度换算的完整数学模型。 |
 > | [[Meta-analysis]] | 应用场景 | 二阶证据合成中将技术化统计量翻译为实践者通用[[Discourse\|话语]]的关键工具。 |
 > | [[Standard Error]] | 诊断检验 | 评估 CLES 估计精度的基础抽样离散指标。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 关键文献 | 从数理统计学视角系统审计 CLES 计算失范，揭示负概率与超额概率数学崩溃。 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 关键[[Document\|文献]] | 从数理统计学视角系统审计 CLES 计算失范，揭示负概率与超额概率数学崩溃。 |
 
 ---
 

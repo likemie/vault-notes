@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evidence Culture]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Communities of Practice]]"
+  - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!info] 背景
@@ -51,7 +52,7 @@ updated: 2026-10-26
 > EBTN 的运作重点是横向交流：教师、大学研究者和其他教育相关者通过网络分享证据、想法和实践培训，而不是由单一清算中心向学校单向发布评级([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 > [!success] 效果与评价
-> EBTN 展示了 [[Evidence-Informed Practice\|证据知情实践]] 中[[Communities of Practice|实践社群]]的一面：研究证据需要进入教师之间的交流和专业学习，才能从文献或数据库转化为课堂行动([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
+> EBTN 展示了 [[Evidence-Informed Practice\|证据知情实践]] 中[[Communities of Practice|实践社群]]的一面：研究证据需要进入教师之间的交流和专业学习，才能从[[Document|文献]]或数据库转化为课堂行动([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 > [!warning] 争议与评论
 > 教师网络有助于传播证据，但其质量取决于网络中证据筛选、解释和培训机制。[[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] 提醒，欧洲需要更清晰的发展路线图和支持材料，而不是只依靠分散倡议([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.41-42]])。

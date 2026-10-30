@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
 related_methods: []
 related_facts:
   - "[[DARPA]]"
+  - "[[Department of Defense]]"
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[National Semiconductor Technology Center]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-22
 > [!citation-card] 借助 DARPA 工具箱模式打破设计工具准入瓶颈
 > 扩大大学与小微企业获取设计工具与知识产权核的途径至关重要。DARPA 工具箱计划与国防部快速可靠微电子原型（RAMP）工作是促进研发界获取设计工具与成熟知识产权的典范案例。
 >
-> *Broader partnerships with EDA vendors to make design tools, including high-level synthesis tools, available to more university and small-business researchers at significantly reduced cost... The DARPA Toolbox Initiative and the DOD Rapid Assured Microelectronics Prototypes (RAMP) efforts are examples of facilitating access to design tools and proven IP for the R&D community.* [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 24)]]
+> *Broader partnerships with EDA vendors to make design tools, including high-level synthesis tools, available to more university and small-business researchers at significantly reduced cost... The DARPA Toolbox Initiative and the [[Department of Defense|DOD]] Rapid Assured Microelectronics Prototypes (RAMP) efforts are examples of facilitating access to design tools and proven IP for the R&D community.* [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 24)]]
 
 ---
 

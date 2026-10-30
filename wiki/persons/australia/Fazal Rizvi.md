@@ -7,7 +7,7 @@ summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 51
+person_related_count: 53
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -48,9 +48,11 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[New Public Management]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[Public Diplomacy]]"
   - "[[Paradigm]]"
   - "[[Governing by Numbers]]"
   - "[[Methodological Nationalism]]"
+  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Policy Network]]"
   - "[[International Education Hubs]]"
@@ -82,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -134,7 +136,7 @@ updated: 2026-10-22
 > - **知识经济的全球社会想象** 结合泰勒与阿帕杜莱的想象理论，揭示经合组织如何将日常竞争焦虑与经济增长叙事交织在一起，建构出[[Doxa|不言自明]]的政策常识；通过 [[PISA]] 构筑全球可[[Commensuration|通约]]的等值空间与数字即政策治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–448)]]
 > - **亚洲崛起作为独立因果动力** 区别于将亚洲仅仅视为全球资本主义扩张受体或例证的西方中心论视角，强调亚洲经济腾飞与地缘政治位移本身就是主动塑造全球知识秩序、重构跨国大学形态的关键[[Independent Variable|自变量]]。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 89–90)]]
 > - **国际化理性的双重结构：发展主义 vs 市场理性** 揭示驱动[[Internationalization of Higher Education|高等教育国际化]]的两种对立逻辑：早期基于现代化援助、技术支持与跨文化理解的“发展主义理性”，逐步被将留学生视为全额付费创收来源与出口产业的“市场理性”所排挤和取代，成为加速[[New Public Management|新公共管理]]（New Public Management, NPM）在大学渗透的核心催化剂。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
-> - **[[Transnational Research Collaboration|跨国研究合作]]中的多重理性缝合** 剖析推动[[Transnational Research Collaboration|跨国研究合作]]的四重异质诉求——个体学者的纯粹学术兴趣、大学机构的全球声誉与基建考量、主权国家的对外贸易与公共外交，如何在现代政策[[Discourse|话语]]中被无缝拼接进同一套协同创新叙事中。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
+> - **[[Transnational Research Collaboration|跨国研究合作]]中的多重理性缝合** 剖析推动[[Transnational Research Collaboration|跨国研究合作]]的四重异质诉求——个体学者的纯粹学术兴趣、大学机构的全球声誉与基建考量、主权国家的对外贸易与[[Public Diplomacy|公共外交]]，如何在现代政策[[Discourse|话语]]中被无缝拼接进同一套协同创新叙事中。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
 
 ---
 
@@ -142,7 +144,7 @@ updated: 2026-10-22
 > - **理论路径** 与 [[Bob Lingard]] 共同奠定批判性全球教育政策研究的核心[[Paradigm|范式]]，提出[[Social Imaginary|社会想象]]分析进路与[[Governing by Numbers|数字治理]]批判框架；率先将[[Critical Geopolitics|批判地缘政治学]]引入高等教育与[[Geopolitics of Knowledge|知识地缘政治]]分析，开辟国际化双重理性研究前沿。
 > - **方法路径** 结合后殖民文化理论、批判政策[[Discourse Analysis|话语分析]]与多标度空间分析，打破[[Methodological Nationalism|方法论民族主义]]的局限，提供追踪国际学生跨国流动、教育政策本土转译与制度[[Discourse|话语]]杂糅的质性批判分析示范。
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
-> - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考文献。
+> - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考[[Document|文献]]。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统解构[[OECD|经合组织]]从 1960–1990 年社会民主多元协商到[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] 数字治理的历史演进与理论机制。

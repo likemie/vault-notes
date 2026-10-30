@@ -7,7 +7,7 @@ summary: "斯坦福大学教育学与艺术学荣休教授、美国著名课程�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Tyler Rationale]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Effective Teaching]]"
 related_theories:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **思想渊源** [[John Dewey]] — 继承杜威经验自然主义、艺术即经验的哲学精髓。
 > - **学术论敌** [[Behaviorism|行为主义]]目标派（如 Mager, Popham）及[[Positivism|实证主义]]技术规训论者（如 [[David Carnine]]） — 围绕课程目标能否被预先行为化、教学是否属于流水线技术操作展开深刻论战。
-> - **当代呼应者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引其 1983 年经典文献，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。
+> - **当代呼应者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引其 1983 年经典[[Document|文献]]，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。
 
 ---
 

@@ -11,7 +11,7 @@ summary: "基于潜在特质与概率函数的现代心理测量与测验理论�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Paradigm]]"
   - "[[Center of Calculation]]"
+  - "[[Document]]"
   - "[[Data Infrastructure]]"
   - "[[Topological Spatialisation]]"
 related_theories:
@@ -62,7 +63,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -205,7 +206,7 @@ updated: 2026-10-29
 > | [[Commensuration]] | 概念 | IRT 是教育治理中将异质学生表现通约为一维连续量尺的技术机器。 |
 > | [[Center of Calculation]] | 概念 | 计算中心（如 [[Institute for Educational Quality Improvement\|IQB]]）依托 IRT 参数标定掌控国家教育质量的认知定义权。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 德国 IQB 运用 IRT 研发国家题库并标定 5 级能力模型。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al., 2011]] | Argument | 教材第 24 章系统阐述 IRT 基础原理、样本无关性与 Rasch 模型的文献。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al., 2011]] | Argument | 教材第 24 章系统阐述 IRT 基础原理、样本无关性与 Rasch 模型的[[Document\|文献]]。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 IRT 在德国教育标准跨尺度[[Data Infrastructure\|数据基础设施]]中实现[[Governing at a Distance\|远处治理]]的文献。 |
 
 ---

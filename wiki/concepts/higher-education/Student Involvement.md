@@ -6,7 +6,7 @@ aliases:
 summary: "Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Student Engagement]]"
   - "[[Variable]]"
+  - "[[Extracurricular Activities]]"
   - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
   - "[[Paradigm]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-22
 ---
 
 > [!example] 概念辨析
-> - vs [[Student Engagement]]（Kuh, 1991）— 两者"异曲同工"，核心假设一致，但侧重不同：Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**——涉入既是过程描述也是结果预测[[Variable\|变量]]；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**——不仅关注学生做了什么，也关注学校如何通过课程设计、课外活动和服务体系来推动学生投入（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Astin, 1984, 1993; Kuh, 1991）
+> - vs [[Student Engagement]]（Kuh, 1991）— 两者"异曲同工"，核心假设一致，但侧重不同：Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**——涉入既是过程描述也是结果预测[[Variable\|变量]]；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**——不仅关注学生做了什么，也关注学校如何通过课程设计、[[Extracurricular Activities|课外活动]]和服务体系来推动学生投入（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Astin, 1984, 1993; Kuh, 1991）
 > - 在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的"投入过程"框架中，Astin 提供了投入的**能量维度**（学生将多少精力投入何处），Kuh 提供了投入的**行为[[Operationalization\|操作化]]**（在教育性活动中的时间和精力分配），二者并列使用
 
 ---

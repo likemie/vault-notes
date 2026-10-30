@@ -9,7 +9,7 @@ summary: "美国比较历史社会学家与政治学家，哈佛大学政府与�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,20 +45,19 @@ related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代比较历史社会学家与政治学家，哈佛大学政府学与社会学维克多·S·托马斯讲席教授（Victor S. Thomas Professor of Government and Sociology），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，曾任美国政治学会（APSA）主席与社会科学史学会（SSHA）主席，[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism）奠基人之一。
+> - **身份位置** 美国当代比较历史社会学家与政治学家，哈佛大学政府学与社会学维克多·S·托马斯讲席教授（Victor S. Thomas Professor of Government and Sociology），美国文理科学院（[[American Association for the Advancement of Science|AAAS]]）院士，曾任美国政治学会（APSA）主席与社会科学史学会（SSHA）主席，[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism）奠基人之一。
 > - **核心角色** 在当代宏观社会科学发展史上，斯考切波是“找回国家”（Bringing the State Back In）学术运动的核心旗手与宏观历史比较分析方法的典范确立者；其理论研究将制度界定为内嵌权力不对称性与不平等资源配置的政治工具，从根本上打破了[[Structural Functionalism|结构功能主义]]与[[Rational Action Theory|理性选择理论]]对制度“中性协调功能”的假设预设；在《[[Theory of Gradual Institutional Change|渐进制度变迁理论]]》中，马奥尼与特伦直接以斯考切波（1992）的论断为基石，将制度确立为具有分配后果与权力含义的非中性载体。
 > - **代表贡献** 出版比较历史分析奠基之作《国家与社会革命》（*States and Social Revolutions*，1979）；主编《找回国家》（*Bringing the State Back In*，1985）；出版社会政策与福利制度经典《保护士兵与母亲》（*Protecting Soldiers and Mothers*，1992）；倡导比较历史分析（CHA）的宏观因果构型方法。
 

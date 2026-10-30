@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Scale in Higher Education]]"
+  - "[[Document]]"
   - "[[Champ]]"
   - "[[Avatar]]"
   - "[[Methodological Nationalism]]"
@@ -73,7 +74,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-12'
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2025
 doi: ""
 citation_aliases:
@@ -134,7 +135,7 @@ citation_aliases:
 >
 > **分析策略** 论文采用"先建立理论框架，再用框架组织历史叙述"的两段式结构。前三分之一建立空间[[Ontology\|本体论]]、[[Scale in Higher Education\|尺度分析]]和[[Geopolitics|地缘政治理论]]；后三分之二以该框架组织两个历史阶段的叙述分析。
 >
-> **资料来源** 广泛援引人文地理学（Massey, Lefebvre, Harvey）、高等教育研究（Cantwell, Hazelkorn, Knight, Rizvi）、政治经济学（Gramsci, Wallerstein, Crouch）、国际关系（Sakwa, Zhao）和历史学（Heather & Rapley）等多学科学术文献和统计数据。但论文未说明文献筛选标准、覆盖范围或系统检索策略，读者难以评估其叙述的选择性偏差。
+> **资料来源** 广泛援引人文地理学（Massey, Lefebvre, Harvey）、高等教育研究（Cantwell, Hazelkorn, Knight, Rizvi）、政治经济学（Gramsci, Wallerstein, Crouch）、国际关系（Sakwa, Zhao）和历史学（Heather & Rapley）等多学科学术[[Document|文献]]和统计数据。但论文未说明文献筛选标准、覆盖范围或系统检索策略，读者难以评估其叙述的选择性偏差。
 >
 > **方法的优势与局限** 理论化历史综合的长处在于能提供宏观图景和长时段分析，将分散的经验现象整合进统一的解释框架。局限在于，对具体国家、机构或政策的分析以宏观叙事为主，缺乏深入的[[Case Study\|案例研究]]。
 

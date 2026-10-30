@@ -9,7 +9,7 @@ subtype: policy
 region: bolivia
 fact_region: "bolivia"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - region/latin-america
   - level/k12
 related_concepts:
+  - "[[Diversity Courses]]"
   - "[[Discourse]]"
   - "[[Floating Signifier]]"
   - "[[Educated Identity]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 实施进路与现实阻力
-> - **普遍性进路** 将原住民语言和文化定义为每一个儿童教育的核心组成部分，不论其具体的族裔背景为何。这彻底打破了传统的“边缘附加式”多元文化课程设计，将其嵌入国家核心课程的地基。
+> - **普遍性进路** 将原住民语言和文化定义为每一个儿童教育的核心组成部分，不论其具体的族裔背景为何。这彻底打破了传统的“边缘附加式”[[Diversity Courses|多元文化课程]]设计，将其嵌入国家核心课程的地基。
 > - **制度性阻力** 尽管官方[[Discourse|话语]]实现了反殖民转向，但改革在各级教育机构的实际落地上面临严峻的结构性挑战，根深蒂固的种族主义、性别歧视和语言歧视持续存在于系统的各个层面，制约着政策逻辑的转化。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE\|Beech, 2009a, pp. 359–360]])
 
 ---

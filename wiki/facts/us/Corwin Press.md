@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,9 +25,11 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Classroom Management]]"
+  - "[[Differentiated Instruction]]"
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
   - "[[Barometer of Achievement]]"
+  - "[[Teacher Qualifications]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-10-22
 > [!org-evolution] 组织发展历程
 > - **1990–2000 年代** **专业教育书籍出版奠基期**
 >
->   作为 [[Sage]] 旗下的独立出版品牌，主要面向北美中小学校长与教师发行[[Classroom Management|课堂管理]]、差异化教学及领导力指导丛书。
+>   作为 [[Sage]] 旗下的独立出版品牌，主要面向北美中小学校长与教师发行[[Classroom Management|课堂管理]]、[[Differentiated Instruction|差异化教学]]及领导力指导丛书。
 >
 > - **2010–2017 年** **切入循证品牌跨国代理**
 >
@@ -96,7 +98,7 @@ updated: 2026-10-22
 
 > [!stat-cards]- 核心规模数据
 > - **\$50,000,000 USD** 考文出版社围绕可见学习品牌相关业务产生的年营业额估算达 5000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
-> - **\$2,750 USD** 单人获取可见学习认证教师资质的培训考核费用。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
+> - **\$2,750 USD** 单人获取可见学习认证[[Teacher Qualifications|教师资质]]的培训考核费用。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 > - **\$369 USD** 考文出版社举办的可见学习年度研讨会单人注册费。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 > - **\$9.95–\$285 USD** 考文出版社发售的可见学习相关图书、工作手册及资源工具包售价区间。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 

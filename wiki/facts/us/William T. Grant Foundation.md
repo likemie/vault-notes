@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Metascience]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Internal Validity]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-26
 > - **全美教育研究-实践伙伴关系网络（NNERPP）扶持** 为连接各学区与高校的跨界 RPP 组织提供核心孵化与能力建设支持。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 221)]]
 
 > [!citation-card] 威廉·T·格兰特基金会使命与[[Democratising Evidence\|证据民主化]]宗旨
-> 长期以来，研究者与科研出资方对科研议题的设定拥有不成比例的支配权，导致研究往往只服务于填补学术期刊文献的空白，而非解决实践或政策的真实困境。如果我们把学生及其所在社区视为教育研究的最终受益人，那么他们的切身利益就必须处于研究设计的中心。推进证据民主化意味着科研议题必须由包括边缘社区在内的多元利益相关者共同审议决定。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
+> 长期以来，研究者与科研出资方对科研议题的设定拥有不成比例的支配权，导致研究往往只服务于填补学术期刊[[Document|文献]]的空白，而非解决实践或政策的真实困境。如果我们把学生及其所在社区视为教育研究的最终受益人，那么他们的切身利益就必须处于研究设计的中心。推进证据民主化意味着科研议题必须由包括边缘社区在内的多元利益相关者共同审议决定。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 >
 > *For far too long, researchers and research funders have had outsized influence on research agendas, and thus it is unsurprising that research is more likely to fill gaps in the academic literature than inform practice or policy dilemmas... If we see students and their communities as beneficiaries of education, then their interests should be at the centre of education research.* (Tseng, 2022; cited in Bangs et al., 2022, pp. 220–221)
 

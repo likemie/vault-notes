@@ -7,7 +7,7 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 52
+person_related_count: 54
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Ontology]]"
   - "[[Geometries of Insertion]]"
+  - "[[Document]]"
   - "[[Academic Iconography]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
@@ -67,6 +68,7 @@ related_persons:
   - "[[Jason Beech]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[PISA]]"
   - "[[Regional University Alliances]]"
   - "[[CREATES Project]]"
@@ -81,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -128,7 +130,7 @@ updated: 2026-10-22
 >   - **关键概念** [[Transfer Translation Transformation\|3T 框架]]、形变（Shape-Shifting）、[[Geometries of Insertion\|嵌入几何学]]。
 >   - **阶段转向** 打破了“忠实移植”的二元论，将跨国流动解构为转移、转译和转化的演变过程。以嵌入几何学的伦理追问收尾，将分析推向规范层面。
 > - **2009 — 学科史批判与[[Comparative History of Comparative Education\|比较教育学比较史]]阶段**
->   系统反思比较教育学史作为学科合法性起源神话的局限性，揭示隐蔽历史、制度支持不足与文献密度匮乏三重困境，倡导超越单一线性国别叙事。
+>   系统反思比较教育学史作为学科合法性起源神话的局限性，揭示隐蔽历史、制度支持不足与[[Document|文献]]密度匮乏三重困境，倡导超越单一线性国别叙事。
 >   - **代表著作** *On History and on The Creation of Comparative Education* (2009)。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–10)]]
 >   - **关键概念** [[Comparative History of Comparative Education\|比较教育学的比较史]]、[[Academic Iconography\|学科肖像学]]批判、历史哲学诠释学悖论（未来决定过去）。
 >   - **阶段转向** 将批判锋芒从外部[[Policy Borrowing\|政策借用]]转向学科内部的历史建构，主张挖掘边缘学者档案（含女性学者）、剖析国别元[[Epistemology\|认识论假设]]，并打破对学术图腾（如[[Michael Sadler\|萨德勒]]）的迷信。
@@ -156,7 +158,7 @@ updated: 2026-10-22
 > [!citation-card] 2023年学科学术与伦理重组诊断
 > 译文：我们积累了过多惯例化的自我合法化方式；是时候摆脱关于我们过去的舒适陈词滥调，注意到未来至少在隐喻意义上已经是现在，而且是紧迫的。我们能否通过对“受教育身份”的追问，给予我们足够的道德清晰性和确定性，来见证我们以“教育”之名对世界上的孩子们做了什么？
 > 
-> 原文：*We have accumulated too many routinised ways to legitimate our academic identity; it is time to step away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent. ... what is an 'educated identity' – does that give us enough moral clarity and certitude to bear witness about what we do to the children of the world in the name of 'education'?* ([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 326, p. 336]])
+> 原文：*We have accumulated too many routinised ways to legitimate our academic identity; it is time to [[Skills Toward Employment and Productivity|step]] away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent. ... what is an 'educated identity' – does that give us enough moral clarity and certitude to bear witness about what we do to the children of the world in the name of 'education'?* ([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 326, p. 336]])
 
 ---
 

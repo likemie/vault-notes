@@ -9,9 +9,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "大学联盟 / 跨国学术合作组织"
 headquarters: "中国北京"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Paradigm]]"
   - "[[Epistemic Governance]]"
+  - "[[Document]]"
   - "[[Geopolitics]]"
   - "[[Construct]]"
   - "[[Knowledge Diplomacy]]"
@@ -45,6 +46,7 @@ related_persons: []
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[ASEAN]]"
+  - "[[ASEAN University Network]]"
   - "[[University Alliance of the Silk Road]]"
 related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -122,7 +124,7 @@ updated: 2026-10-22
 > [!finding-cards] 关键成效与辐射影响
 > - **凝聚亚洲高等教育[[Discourse|话语]]权** 汇聚区域代表性旗舰学府，构建起不依赖欧美传统主导体系的自主对话与学术议题研制平台。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1703)]]
 > - **[[Knowledge Power|知识权力]][[Paradigm|范式]]的制度化呈现** 凭借严格准入、精英聚焦与定向高额资助，展示了国家通过知识领导力重塑区域治理与学术规则的知识权力路径。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1704)]]
-> - **塑造区域高等教育核心枢纽** 成员高校普遍在[[ASEAN|东盟]]大学网络（AUN）与环太平洋大学联盟（APRU）中占据关键枢纽位置，推动亚洲高水平学术网络交叠融合。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
+> - **塑造区域高等教育核心枢纽** 成员高校普遍在[[ASEAN|东盟]]大学网络（[[ASEAN University Network|AUN]]）与环太平洋大学联盟（APRU）中占据关键枢纽位置，推动亚洲高水平学术网络交叠融合。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 
 > [!stat-cards]- 核心规模数据
 > - **15 / 13** 正式成员高校总数（所）与覆盖的国家和地区数量（个），均为亚洲旗舰[[Research Universities|研究型大学]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
@@ -147,7 +149,7 @@ updated: 2026-10-22
 > > - **权力非对称反思** 指出联合资助要求与议程设置往往由牵头高校及其战略利益主导，呈现出由中心向外围辐射的[[Epistemic Governance|知识治理]]特征。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1703)]]
 
 > [!citation-card] 代表性理论反思
-> 知识权力代表了国际关系[[Belt and Road Initiative|一带一路]]文献中的[[Geopolitics|地缘政治]]观点，用以指称中国通过知识领导力生成权力的战略举措；在亚洲大学联盟的实践中，其排他性网络架构与精英研究合作直接映射了这一追求知识领导力的战略路径。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697, 1702–1703)]]
+> 知识权力代表了国际关系[[Belt and Road Initiative|一带一路]][[Document|文献]]中的[[Geopolitics|地缘政治]]观点，用以指称中国通过知识领导力生成权力的战略举措；在亚洲大学联盟的实践中，其排他性网络架构与精英研究合作直接映射了这一追求知识领导力的战略路径。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697, 1702–1703)]]
 >
 > *In China's case, we propose that the concept of knowledge power represents the geopolitical viewpoint in IR's BRI literature [...] can be used to refer to China-initiated developments to generate power through knowledge leadership.*
 

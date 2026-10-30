@@ -9,7 +9,7 @@ aliases:
 summary: "一个自变量对因变量的因果效应依赖于另一个自变量或调节变量水平的非可加性现象，是因子设计与条件性因果推断的核心，揭示了教学干预在不同学习者特征与情境中的异质性机制"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Scaffolding]]"
   - "[[Productive Failure]]"
+  - "[[Student Motivation]]"
   - "[[Visible Learning]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -60,7 +61,7 @@ related_persons:
   - "[[John Hattie]]"
 status: active
 created: 2026-07-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!def] Interaction Effect
@@ -116,7 +117,7 @@ updated: 2026-10-26
 
 ---
 
-> [!case] 性别 × 年龄对数学学习动机的交互效应
+> [!case] 性别 × 年龄对数学[[Student Motivation|学习动机]]的交互效应
 > 以性别和年龄为两个[[Independent Variable\|自变量]]研究数学学习动机时（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch16, Figure 16.3），男女之间的动机差异并非恒定不变，而是随年龄增长发生显著分化——在低年龄段男女动机基线差异极小，进入青春期后差异急剧扩大。如果研究者仅报告性别的主效应，会得出“男生与女生在数学动机上存在系统性差异”的笼统论断；但引入交互效应后则揭示出该结论仅在特定发展年龄段成立，避免了简单化概括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 324]]）。
 
 > [!case] 数字化仿真微世界中交互探索与即时解释的交互

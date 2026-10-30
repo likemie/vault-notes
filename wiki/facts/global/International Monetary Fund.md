@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
   - "[[Development Education]]"
+  - "[[School Vouchers]]"
   - "[[Heterogeneity]]"
   - "[[Pact of Domination]]"
   - "[[Educational Multilateralism]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-10-22
 > > [!axis] 意识形态阴谋全能统治 vs. 制度执行脱节与吸纳能力短板
 > > 争论跨国机构教育政策失灵的根源究竟是恶意的外部新自由主义同谋，还是宏观设计与微观行政现实脱节的官僚短板。
 > >
-> > - **意识形态同谋论（左翼批判学者）** 认为 IMF 与世行有意识地通过[[Policy Conditionalities|贷款附加条件]]肢解民族国家教育部，强推私有化与教育券以服务跨国资本积累。
+> > - **意识形态同谋论（左翼批判学者）** 认为 IMF 与世行有意识地通过[[Policy Conditionalities|贷款附加条件]]肢解民族国家教育部，强推私有化与[[School Vouchers|教育券]]以服务跨国资本积累。
 > > - **执行脱节论（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 强调绝大多数外部批判是“错位”的；多边金融机构在教育上的根本挫败是高调政策构想在繁冗报销、反腐恐慌与地方行政虚弱中陷入泥潭，而非存在一个无所不能的幕后操纵阴谋。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 468, 474)]]
 >
 > > [!axis] 统一结构调整处方 vs. 发展中国家[[Heterogeneity|异质性]]制度承载力

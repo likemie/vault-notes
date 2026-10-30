@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Heterogeneous Integration]]"
   - "[[Counterpart Funds]]"
   - "[[University-Based Research Center]]"
+  - "[[Document]]"
 related_persons:
   - "[[Fred Block]]"
   - "[[Erich Bloch]]"
@@ -49,6 +50,7 @@ related_persons:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Academy of Sciences]]"
+  - "[[Swedish National Agency for Education]]"
   - "[[DARPA]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Joint University Microelectronics Program 2.0]]"
@@ -68,7 +70,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-22
 > 工程研究中心（Engineering Research Centers, ERC）是[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）于 1984 年正式设立的跨学科[[University-Industry Collaboration|产学合作]]科研资助计划，标志着美国联邦基础研究资助体系发生深刻结构性转向：从传统以院系为基底、单一首席研究员（Principal Investigator, PI）驱动的纯学科自由探索模式，转向以[[Big Science|大科学]]中心为基底（Center-based）、跨学科整合、产业界深度嵌入与重构工程人才培养的战略性协同创新体系。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1983 年[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）小组建议设立，1984 年美国国家工程院（National Academy of Engineering, NAE）发布指南，首批资助自 1985 年起落地，常态化长效运行至今并演进至第四代（Gen-4 ERC）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
+> - **立项时间 / 周期** 1983 年[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）小组建议设立，1984 年美国国家工程院（National Academy of Engineering, [[Swedish National Agency for Education|NAE]]）发布指南，首批资助自 1985 年起落地，常态化长效运行至今并演进至第四代（Gen-4 ERC）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **发起方与资助机制** 由 NSF 主导发起并出资，采用合作研究协议（Cooperative Research Agreements）机制；单中心总预算中 NSF 资助约占 30%，其余由产业界会员费、其他联邦机构、大学及州政府共同配比；设立长效[[Sunset Provisions|日落条款]]与竞争性再申请机制。（pp. 366, 369, 374）
 > - **覆盖范围与对象** 累计资助 80 余个中心，涵盖微电子与智能制造、生物工程、能源系统及量子技术等战略领域，辐射全美数十所顶尖[[Research Universities|研究型大学]]与数百家高科技领军企业，并与 [[DARPA]]/[[Semiconductor Research Corporation|SRC]] 的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校协同网络深度咬合。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **核心问题导向** 应对 1980 年代新兴工业化国家（如日本、韩国）在微电子与先进制造上的竞争危机；在当代则进一步承接大国地缘博弈与[[Securitization of Technology|技术安全化]]使命，跨越工程转化“[[Valley of Death|死亡之谷]]”。
@@ -184,4 +186,4 @@ updated: 2026-10-22
 > | [[Fred Block]] | Person | 揭示 ERC 撬动 1:10 资本杠杆并作为发展型网络国家微观靶向载体的经济社会学家。 |
 > | [[Erich Bloch]] | Person | 担任 NSF 主任期间力排众议顶层设计并强力推进 ERC 创立落地的关键领导者。 |
 > | [[Nam Pyo Suh]] | Person | 担任 NSF 工程学副主任期间协助布洛赫奠定 ERC 概念框架的麻省理工学院知名工程学者。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家微观靶向与资本杠杆维度剖析 ERC 制度演进的理论文献。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家微观靶向与资本杠杆维度剖析 ERC 制度演进的理论[[Document\|文献]]。 |

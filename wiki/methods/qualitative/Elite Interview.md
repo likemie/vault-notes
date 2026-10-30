@@ -10,7 +10,7 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Reliability]]"
   - "[[Interpretive Validity]]"
+  - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Research Question]]"
   - "[[Open-Mindedness]]"
@@ -36,6 +37,8 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Champ]]"
   - "[[Policy-Based Evidence-Making]]"
+  - "[[Epistemic Infrastructure]]"
+  - "[[Discourse]]"
   - "[[Evidence Era]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -60,6 +63,10 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[European Commission]]"
+  - "[[OECD]]"
+  - "[[EU]]"
+  - "[[European Education Area]]"
   - "[[Evidence Network]]"
   - "[[HM Treasury]]"
 related_arguments:
@@ -72,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -101,7 +108,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性政策[[Case Study\|案例研究]]、制度变迁历史追溯、多源证据整合设计。
-> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]提纲、开放式深度对话、背景文献预先研判、[[Informed Consent\|知情同意]]与匿名保护协议。
+> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]提纲、开放式深度对话、背景[[Document|文献]]预先研判、[[Informed Consent\|知情同意]]与匿名保护协议。
 > - **分析方法** [[Coding in Qualitative Research\|质性编码]]、主题分析、跨受访者横向比对、叙事重构。
 > - **辅助技术**
 >   - 抽样技术：[[Snowball Sampling\|滚雪球抽样]]、[[Purposeful Sampling\|立意抽样]]与关键知情人矩阵设计。
@@ -161,8 +168,8 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样深度访谈欧洲高等教育质保协会、注册局、欧盟委员会及经合组织现任与前任高层官员，解析欧洲高教质保认识论基础设施的演变格局与组织博弈。
-> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对欧盟委员会教育文化总司、委员会主席内阁与欧盟理事会 9 位高级官员开展深度半结构化访谈，通过归纳主题分析与话语解读追踪欧洲教育区战略议程中的理念协调与机构博弈。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样深度访谈欧洲高等教育质保协会、注册局、[[European Commission|欧盟委员会]]及[[OECD|经合组织]]现任与前任高层官员，解析欧洲高教质保[[Epistemic Infrastructure|认识论基础设施]]的演变格局与组织博弈。
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对欧盟委员会教育文化总司、委员会主席内阁与[[EU|欧盟]]理事会 9 位高级官员开展深度半结构化访谈，通过归纳主题分析与[[Discourse|话语]]解读追踪[[European Education Area|欧洲教育区]]战略议程中的理念协调与机构博弈。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 深度访谈 33 位国际组织主管、教育部委高层与全球[[Evidence Network|证据网络]]负责人等关键知情人，定性解析证据利用中的制度瓶颈、资助政治与中介运作机制（pp. 18, 20）。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。

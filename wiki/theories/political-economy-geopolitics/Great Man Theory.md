@@ -9,7 +9,7 @@ aliases:
 summary: "19世纪苏格兰历史学家托马斯·卡莱尔系统阐述的历史哲学理论。主张历史的根本动力源于极少数具有卓越远见、道德勇气与非凡意志的领袖与实干天才（如先知、英雄与建国者），其决断是点燃时代燃料的闪电。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Red Tape]]"
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-10-22
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释为何在相同资源、技术底座与制度框架下，不同国家或科技组织会产生截然不同的战略发展轨迹与创新产出。
 > - **分析对象与单位** 观察关键政治领袖、科技企业创始人及重大工程项目总师的决断行为与[[Organizational Culture|组织文化]]印记。
-> - **需要的材料** 历史文献、关键决策时刻的会议记录、政策白皮书、工程攻关实录及人物访谈。
+> - **需要的材料** 历史[[Document|文献]]、关键决策时刻的会议记录、政策白皮书、工程攻关实录及人物访谈。
 > - **解释目标** 评估领袖个人意志在打破科层避险惯性与实现跨越式突破中的贡献度。
 
 > [!theory-framework] 伟人理论分析维度

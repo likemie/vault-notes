@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -36,8 +36,8 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Open-Mindedness]]"
   - "[[Boarding Schools]]"
-  - "[[Institutional Conversion]]"
   - "[[Flow]]"
+  - "[[Institutional Conversion]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[School Leadership]]"
   - "[[Reliability]]"
@@ -53,12 +53,14 @@ related_persons:
   - "[[Desmond Hoare]]"
   - "[[Alec Peterson]]"
   - "[[Lee Kuan Yew]]"
+  - "[[Diana Crane]]"
   - "[[Rob Kitchin]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[William T. Grant Foundation]]"
   - "[[Education Resources Information Center]]"
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
+  - "[[National Education]]"
   - "[[Waterford Kamhlaba Admission to United World Colleges]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
 sources:
@@ -67,7 +69,7 @@ related_methods:
   - "[[Fieldwork]]"
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -156,7 +158,7 @@ updated: 2026-10-22
 > [!evidence-grid] 四个案例分别检验不同制度组合
 > - **新加坡** 检验 [[United World Colleges\|UWC]] 能否进入既有全龄[[International Schools\|国际学校]]，以少数奖学金生、IB 和教育理念影响更广泛的缴费学生。
 > - **加拿大** 检验国家纪念（national memorial）、政府资本和外国学生奖学金能否建立接近公共教育的经典寄宿书院。
-> - **沃特福德** 检验一所价值相近、反种族隔离、全龄且主要收费的既有学校能否经关联、课程转换（curriculum [[Institutional Conversion|conversion]]）和财政协商加入。
+> - **沃特福德** 检验一所价值相近、反种族隔离、全龄且主要收费的既有学校能否经关联、课程转换（curriculum conversion）和财政协商加入。
 > - **亚得里亚海** 检验中央与地区政府支持、全奖政策（full-scholarship policy）和村落嵌入能否形成另一种经典书院（pp. 110–129）。
 
 ---
@@ -404,7 +406,7 @@ updated: 2026-10-22
 > - **军事撤出与设施移交** 英国撤出苏伊士以东后，圣约翰英军学校和包含学校、医院的樟宜皇家空军基地（Royal Air Force base at Changi）移交新加坡，短暂形成现成校园机会。
 > - **外籍社群需求不确定** 圣约翰原有 1,000 个学额和 320 个寄宿位，研究委员会起初担[[Flow\|心流]]动的外籍家庭不足以支撑这一规模，尤其难以维持十一、十二年级。
 > - **东道国教育政策** 新加坡公民原则上不得进入私立学校。教育部长愿为十名 UWC 奖学金生作例外，学校董事会后来认为继续施压可能引发政治风险。
-> - **国家建构次序** [[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）把普及和巩固国民教育置于国际教育之前，认为新国家必须先形成共同国家制度，才能承担国际学校的公共责任。
+> - **国家建构次序** [[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）把普及和巩固[[National Education|国民教育]]置于国际教育之前，认为新国家必须先形成共同国家制度，才能承担国际学校的公共责任。
 > - **区域教育压力** 新加坡政府希望国际[[Boarding Schools\|寄宿学校]]（boarding schools）吸收部分马来西亚华人家庭需求，减少其对本国学校学额的压力，但这不等同于政府愿意资助 UWC 奖学金。
 > - **外籍学校转型** 英国社群偏好英国公学模式，学生国籍日益多样又要求课程能够通向不同国家大学，国际化与原有家庭预期之间存在冲突（pp. 110–115）。
 
@@ -496,7 +498,7 @@ updated: 2026-10-22
 > [!actor-grid] 创办联盟中的职责互补
 > - **莱斯特与玛丽昂·皮尔逊（Maryon Pearson）** 提供和平与国际合作的国家象征。莱斯特·皮尔逊推动约翰·尼科尔接手项目，玛丽昂·皮尔逊则在其去世后支持以青年共同生活代替雕像或纪念建筑。
 > - **罗伯特·休斯顿（Robert Houston）与加拿大国家委员会** 继续在安大略进行专业化选拔和奖学金筹措，并把新书院建设责任交给西部组织，减少东西部职责冲突。
-> - **杰克·克莱恩（Jack Clyne）** 以西海岸商业与政治影响力支持创办委员会，使加拿大项目获得地方精英网络。
+> - **杰克·[[Diana Crane|克莱恩]]（Jack Clyne）** 以西海岸商业与政治影响力支持创办委员会，使加拿大项目获得地方精英网络。
 > - **约翰·尼科尔** 接管创校推进，协调政府、筹资者和东西部委员会，并以强势承诺把土地开发与募资变成不可轻易撤回的进程。
 > - **杰克·马修斯** 放弃安大略莱克菲尔德学校（Lakefield School）校长职位，在书院尚不存在时出任负责人，把森林村落、师生平等和 IB 升学需要纳入设计。
 > - **戴维·威尔斯与吉姆·库茨（Jim Cootes）** 前者承担前期风险资本和购地费用，后者领导奖学金筹款委员会，分别支持资本建设和学生进入。

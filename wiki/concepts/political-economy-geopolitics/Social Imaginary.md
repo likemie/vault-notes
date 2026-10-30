@@ -11,7 +11,7 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 68
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Student Mobility]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Document]]"
   - "[[Banal Imperialism]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Grand Theory]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -249,7 +250,7 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]] 1960–2008 年官方旗舰出版物（如 1995 *Governance in Transition*、1996 *The Knowledge-Based Economy*、PISA 技术报告） | 历史比较政策社会学与[[Critical Discourse Analysis\|批判话语分析]] | 社会想象、[[Economic Fundamentalism\|经济基要主义]]、跨国[[Space of Equivalence\|等值空间]]、远处掌舵 | 1995 年报告确立[[New Public Management\|新公共管理]]原则；1996 年报告正式将知识内生化并确立“知其操作”与[[Lifelong Learning\|终身学习]][[Discourse\|话语]]；[[PISA]] 2000 起构建 500 分跨国均值等值空间；性别与社会资本议题在文本中完全被生产率与就业率话语吸纳 | 证实经合组织从战后社会民主协商平台演进为具有独立政治议程的跨国政策行动者，通过[[Knowledge-Based Economy\|知识经济]]社会想象与[[Governing by Numbers\|数字治理]]重塑全球教育政策议程 | 聚焦宏观超国家文本与治理话语演变，不涵盖课堂微观互动数据 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 过去三十年亚洲主要高等教育系统与跨国留学政策话语演变（中国、印度、新加坡及西方接收国） | [[Critical Geopolitics\|批判地缘政治学]]与多标度话语分析 | 国际化双重理性（[[Developmentalism\|发展主义]] vs 市场理性）、跨国科研合作理性缝合 | 国际[[Student Mobility\|学生流动]]从战后援助性质的奖学金模式全面转向全额学费出口产业；跨国科研合作话语中学者兴趣、大学声誉、国家外贸与公共外交四重理性无缝融合 | 论证亚洲崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge\|知识地缘政治]]格局的独立因果力量 | 侧重宏观与中观地缘战略话语，微观留学生主体经验有待延伸 |
-> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | 冷战及后冷战时代比较教育学科代表性文献与国际组织咨询历史档案 | 学科史与[[Wight's Three Traditions of International Theory\|国际关系理论]]透镜分析 | 知识新帝国、[[Banal Imperialism\|平庸帝国主义]]、[[Navigation Metaphor in Comparative Education\|航海隐喻]]解构 | 经合组织从 [[Mediterranean Regional Project\|MRP]] 项目到 PISA，系统收编战后欧洲超然比较教育学界网络；比较学者从提供多元制度图景的“航海家”退化为对标量化排名的技术官僚 | 证实超国家组织通过量化基准与政策话语深刻重塑了比较教育学科的[[Knowledge Production\|知识生产]]与咨询伦理 | 聚焦学科史与[[Epistemology\|认识论]]反思 |
+> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | 冷战及后冷战时代比较教育学科代表性[[Document\|文献]]与国际组织咨询历史档案 | 学科史与[[Wight's Three Traditions of International Theory\|国际关系理论]]透镜分析 | 知识新帝国、[[Banal Imperialism\|平庸帝国主义]]、[[Navigation Metaphor in Comparative Education\|航海隐喻]]解构 | 经合组织从 [[Mediterranean Regional Project\|MRP]] 项目到 PISA，系统收编战后欧洲超然比较教育学界网络；比较学者从提供多元制度图景的“航海家”退化为对标量化排名的技术官僚 | 证实超国家组织通过量化基准与政策话语深刻重塑了比较教育学科的[[Knowledge Production\|知识生产]]与咨询伦理 | 聚焦学科史与[[Epistemology\|认识论]]反思 |
 
 ---
 

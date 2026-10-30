@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -1272,7 +1272,7 @@ updated: 2026-10-29
 
 ---
 
-> [!abstract] Li 话语分析的总体技术特征
+> [!abstract] Li [[Discourse Analysis|话语分析]]的总体技术特征
 > 1. **建立共性基线再展示差异** 先识别三种跨文化共同特征，在共性的地基上展示差异
 > 2. **平行对比** 对每一对 EA and TW 对话保持分析维度一致，让差异在相同框架中自然显现
 > 3. **追踪因果方向** 不仅看母亲说了什么，更看母亲将对话**引向何处**——EA 终点是"你聪明/你[[Pride in Learning\|骄傲]]吗？"，TW 终点是"你还可以怎么更好？"

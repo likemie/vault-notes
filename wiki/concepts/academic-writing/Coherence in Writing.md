@@ -7,7 +7,7 @@ aliases:
 summary: "Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本组织原则，要求观念相互联结、句子间逻辑推进、段落间自然衔接，可通过钩眼技术逐句检查，在句子、段落和章节三个层面运作"
 type: concept
 domain: "academic-writing"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Reliability]]"
   - "[[Central Phenomenon]]"
+  - "[[Grit]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -80,5 +81,5 @@ updated: 2026-09-11
 术语一致性（consistent terms）是文本连贯性的前提条件。[[Quantitative Research|量化研究]]中为[[Variable|变量]]使用一致名称，[[Qualitative Research|质性研究]]中为研究现象使用一致名称。同义词替换是连贯性的大敌，当术语发生即便微小的变动，读者就需要监控语义的微妙偏移，这会打断阅读流并引发对研究可[[Reliability|信度]]的质疑（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
 > [!example] 质性研究中的术语一致
-> 如果一项质性研究的[[Central Phenomenon\|核心现象]]被命名为"teacher resilience"，那么整个研究计划中都应使用这一术语，而非在引言中用"teacher resilience"、在方法部分换成"teacher perseverance"、在讨论中又改用"teacher grit"。每次术语变动都要求读者自行判断这些词是否指代同一现象，这直接损害文本的可信度。
+> 如果一项质性研究的[[Central Phenomenon\|核心现象]]被命名为"teacher resilience"，那么整个研究计划中都应使用这一术语，而非在引言中用"teacher resilience"、在方法部分换成"teacher perseverance"、在讨论中又改用"teacher [[Grit|grit]]"。每次术语变动都要求读者自行判断这些词是否指代同一现象，这直接损害文本的可信度。
 

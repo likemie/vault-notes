@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2019_NordSTEP"
 argument_key: "Argument_Qvortrup_2019_NordSTEP"
 argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Technology Deficit of Education]]"
   - "[[Reflexivity]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Causality]]"
@@ -50,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2019
 doi: ""
 citation_aliases:
@@ -72,7 +73,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）——以论辩和分析为主要方法
-> - 分析策略：以 Alexander (2011) 的四种批判性政策[[Discourse|话语]]（二分法、嘲弄、神话、无意义）为框架，分析丹麦 Hattie 批评文献的修辞特征
+> - 分析策略：以 Alexander (2011) 的四种批判性政策[[Discourse|话语]]（二分法、嘲弄、神话、无意义）为框架，分析丹麦 Hattie 批评[[Document|文献]]的修辞特征
 > - [[Epistemology\|认识论]]立场："观察位置"(von Foerster, 1984; Thyssen, 2012)——不同的理论代表不同的观察位置和透镜，不同观察产生不同图像，相互补充而非排斥
 
 > [!example] 核心论证

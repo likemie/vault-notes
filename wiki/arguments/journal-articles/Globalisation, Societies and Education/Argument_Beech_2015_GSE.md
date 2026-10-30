@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Posthumanism]]"
   - "[[Assemblage]]"
+  - "[[Interactive Whiteboards]]"
   - "[[Effective Teaching]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -64,7 +65,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -168,7 +169,7 @@ citation_aliases:
 > **打破二元对立**。社会与自然、物质与文化、技术与社会、全球与地方等区分被视为效果而非基础假设。特别是，它们被视为网络效果。社会是一个具有无限规模互联性的组装，通过其关系支撑着我们世界的意义。
 
 > [!example] 教室中的 ANT
-> 以一间配备交互式白板的教室为例。白板不仅是教学工具，它连接了白板制造商、软件开发商、学校采购部门、教师培训项目、教育技术顾问、学生、家长等行动者。白板改变了教师的教学方式（从板书到展示），改变了学生的学习方式（从抄写到互动），甚至改变了课堂的物理布局。如果白板故障，整个课堂网络就会崩溃。白板不是中性的工具，它在施加权力、定义什么算作[[Effective Teaching\|有效教学]]。当白板被替换为平板电脑时，新的网络介入，教学实践随之改变。
+> 以一间配备[[Interactive Whiteboards|交互式白板]]的教室为例。白板不仅是教学工具，它连接了白板制造商、软件开发商、学校采购部门、教师培训项目、教育技术顾问、学生、家长等行动者。白板改变了教师的教学方式（从板书到展示），改变了学生的学习方式（从抄写到互动），甚至改变了课堂的物理布局。如果白板故障，整个课堂网络就会崩溃。白板不是中性的工具，它在施加权力、定义什么算作[[Effective Teaching\|有效教学]]。当白板被替换为平板电脑时，新的网络介入，教学实践随之改变。
 
 ---
 

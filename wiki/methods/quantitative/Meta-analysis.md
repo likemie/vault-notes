@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 120
+method_related_count: 123
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Bildung]]"
   - "[[Critique of Meta-analysis]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Months of Progress]]"
   - "[[Variable]]"
@@ -54,6 +55,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
   - "[[External Validity]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Reliability]]"
   - "[[Generative Artificial Intelligence]]"
@@ -62,6 +64,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Collaborative Learning]]"
   - "[[Graphic Organizer]]"
   - "[[AI Agent in Education]]"
   - "[[Authentic Instruction]]"
@@ -103,11 +106,11 @@ related_methods:
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Pairwise Wald Tests]]"
   - "[[Statistical Significance]]"
+  - "[[Experimental Research]]"
   - "[[Repeated Measures Design]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Intercoder Agreement]]"
   - "[[Correlational Research]]"
-  - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
 related_persons:
   - "[[Gene Glass]]"
@@ -148,7 +151,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -179,7 +182,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** 针对量化试验研究的[[Systematic Review|系统综述]]与[[Research Synthesis|证据综合]]（Systematic Review & Meta-analysis）。
-> - **数据收集** 数据库全面检索（[[PRISMA]] 规程）、文献筛选、特征编码与效应量矩阵提取。
+> - **数据收集** 数据库全面检索（[[PRISMA]] 规程）、[[Document|文献]]筛选、特征编码与效应量矩阵提取。
 > - **分析方法** 逆方差加权平均、[[Fixed-Effect Model|固定效应模型]]、[[Random-Effects Model|随机效应模型]]、多水平元分析（Three-Level Model）、稳健方差估计（RVE）、元回归分析（Meta-regression）。
 > - **辅助技术** Cochran's [[Cochran's Q Test|Q 检验]]、$I^2$ 统计量、[[Forest Plot|森林图]]、[[Funnel Plot|漏斗图]]、Egger 回归检验、[[Trim and Fill Method|剪补法]]（Trim & Fill）、[[Fail-Safe N|失安全数]]（Fail-Safe N）、[[Leave-One-Out Sensitivity Analysis|留一法敏感性分析]]。
 
@@ -266,7 +269,7 @@ updated: 2026-10-29
 > 1. **初级[[Access and Acceptance in Research|研究准入]]门槛、[[PICO Framework|PICO]] [[Construct|构念]]对齐与[[Effect Size|效应量]]标准化**
 >    - **PICO 构念对齐与准入红线** 必须依据 [[PICO Framework|PICO]] 框架严格定义纳入与排除标准，区分活跃对照组与[[Business as Usual|常规对照组]]，防范基线异质性造成效应量失真；
 >    - **基线等效性前置筛查** 对准实验（[[Quasi-Experimental Designs|QED]]）与高流失[[Randomised Controlled Trials|随机对照试验]]计算基线等效性均数差 $d_{\text{baseline}}$。执行门槛：$|d| > 0.25$ 即刻剔除，$0.05 < |d| \le 0.25$ 必须在模型中控制前测协变量；
->    - **实验设计可[[Commensuration|通约]]性审查** 严格区分组间设计与组内/[[Repeated Measures Design|重复测量设计]]，因标准差计算基础不同（Morris & DeShon, 2002），严禁未经协方差调整直接合并；
+>    - **[[Experimental Research|实验设计]]可[[Commensuration|通约]]性审查** 严格区分组间设计与组内/[[Repeated Measures Design|重复测量设计]]，因标准差计算基础不同（Morris & DeShon, 2002），严禁未经协方差调整直接合并；
 >    - **测量工具信效度审查** 排除与干预过度重叠的自利性自编测验；
 >    - **编码质控与量纲统一** 双人独立编码，类别编码报告 Cohen's $\kappa$、连续编码报告[[Intraclass Correlation Coefficient|组内相关系数]]（ICC）检验[[Intercoder Agreement|编码一致性]]（Holsti 百分比一致率不校正机会一致，只宜辅助报告），统一转换为 Hedges' $g$ 或 Fisher's $z$（相关系数）；
 >    - **标准误与标准差除数混淆防范** 严防误将 $\text{SE}$ 当作 $\text{SD}$ 作为分母除数（会导致效应量畸变 $\sqrt{n}$ 倍；[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
@@ -366,7 +369,7 @@ updated: 2026-10-29
 > - **再编码以拆解异质性** 针对元分析混合不同质量、学段与国别研究带来的异质性，EEF 组织编码团队对工具包底层的初级研究逐项再编码，提取效应量、样本特征、干预时长与测量信息，建立可持续更新的数据库，使结论可以按研究特征拆解，而不只依赖一阶元分析报告的平均值 ([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 54–55]])。
 
 > [!case] 元分析的教师向转译：Hillmayr et al. (2020) 与 [[Clearing House Unterricht|CHU]] 简评 ([[Argument_Knogler_2025_BB|Knogler et al., 2025]])
-> - **证据基础** Hillmayr et al. (2020) 在 *Computers & Education* 发表的元分析综合 92 项实验与准[[Experimental Research|实验研究]]，报告数字化工具对中学数理学业成绩（$g = 0.65$）与学科态度（$g = 0.45$）的中等正向效应，并发现教师培训是正向调节[[Variable|变量]]。
+> - **证据基础** Hillmayr et al. (2020) 在 *Computers & Education* 发表的元分析综合 92 项实验与准[[Experimental Research|实验研究]]，报告数字化工具对中学数理学业成绩（$g = 0.65$）与[[Attitude Towards Content Domains|学科态度]]（$g = 0.45$）的中等正向效应，并发现教师培训是正向调节[[Variable|变量]]。
 > - **转译方式** 德国教学研究清算中心（[[Clearing House Unterricht|CHU]]）把这篇统计报告改写为面向教师的简评（Kurzreview）：标题改为实践问题，首页设置标准化的核心参数框，统计术语链接到在线术语表，并把工具归纳为操练软件、[[Intelligent Tutoring Systems|智能辅导系统]]、模拟建模工具、超媒体系统、教育游戏与协作工具六类 ([[Argument_Knogler_2025_BB|Knogler et al., 2025, pp. 14–15]])。
 
 ---
@@ -396,7 +399,7 @@ updated: 2026-10-29
 > [!evidence-grid] 研究案例索引
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability|信度]]元分析为经验基底提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm|范式]]。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用[[Random-Effects Model|随机效应模型]]综合 29 项实验与准[[Experimental Research|实验研究]]（59 个[[Effect Size|效应量]]），评估[[Generative Artificial Intelligence|生成式人工智能]]对学生[[Higher-Order Thinking Skills|高阶思维]]（涵盖[[Problem Solving|问题解决能力]]、[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）的总体促进效应（Hedges' $g = 0.609$），并系统检验干预时长、学段、教学方法与[[Self-Regulated Learning|自主调节学习]]能力的[[Interaction Effect|调节效应]]。
-> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持协作学习（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 依据[[Third Generation Activity Theory|活动理论]]移动计算机支持[[Collaborative Learning|协作学习]]（AT-MCSCL）框架对 57 项实验与准[[Experimental Research|实验研究]]（97 个[[Effect Size|效应量]]，$N = 5{,}389$）实施随机效应元分析，严格控制[[Pre-test and Post-test|前测]][[Baseline Standardized Mean Difference|基线等效性]]（$d < 0.25$），评估生成式人工智能对大学生成果的综合效应（$g^+ = 0.804$），并系统检验 17 个调节变量及剪补法发表偏倚校正（校正后 $g^+ = 0.321$）。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用[[Random-Effects Model|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 采用随机效应模型综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），评估 AI [[AI Agent in Education|智能体]]对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及智能体形态、学段、学科和干预时长的[[Interaction Effect|调节效应]]。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准实验研究，运用随机效应模型与混合效应亚组调节检验，确立对话、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。

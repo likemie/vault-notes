@@ -10,7 +10,7 @@ aliases:
 summary: "由法国哲学家勒内·吉拉尔创立的文化人类学理论；提出人类欲望具有非自主的三角模仿结构（主体、榜样/中介者与客体），揭示了同侪群体间由模仿引发的从众竞争、同质化恶性内耗与替罪羊机制，对批判商业投机跟风、揭示模仿对颠覆性创新的致命毒性具有重要解释力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scapegoat Mechanism]]"
   - "[[Research Question]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Habitus]]"
   - "[[Engineering Mindset]]"
 related_theories: []
 related_methods:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -160,6 +161,6 @@ updated: 2026-10-22
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|
 > | [[Creativity]] | 概念 | 模仿理论揭示了扼杀真正从无到有创造力的模仿毒性与从众机制。 |
-> | [[Critical Thinking Disposition]] | 概念 | 批判性思维倾向要求抵御模仿从众本能，保持独立审慎的探究习性。 |
+> | [[Critical Thinking Disposition]] | 概念 | 批判性思维倾向要求抵御模仿从众本能，保持独立审慎的探究[[Habitus\|习性]]。 |
 > | [[Engineering Mindset]] | 概念 | 将“摆脱衍生模仿、直面物理现实”作为工程创新的根本认知基石。 |
 > | [[René Girard]] | 人物 | 创立模仿理论与三角欲望模型的法国思想家。 |

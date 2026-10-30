@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 193
+argument_related_count: 195
 argument_related_level: 19
 argument_related_stars: "💎💎💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Metainferences]]"
   - "[[Integration Statement]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Determinism]]"
   - "[[Positivism]]"
@@ -86,6 +87,7 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Research Purpose]]"
   - "[[Interpretivism]]"
+  - "[[Time Management]]"
   - "[[Narrative Thought Types]]"
   - "[[Self-Efficacy]]"
   - "[[Descriptive Research Question]]"
@@ -223,7 +225,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -266,13 +268,13 @@ citation_aliases:
 > “本书不是一本详细的方法论教材；相反，我们强调研究设计的核心特征。我们试图将研究简化为其核心理念，以便研究者能够规划一项彻底而深思熟虑的研究。”
 > ("This book is not a detailed method text; instead, we highlight the essential features of research design. We have attempted to reduce research to its core ideas so that researchers can plan a thorough and thoughtful study.")（前言）
 
-在格式上，教材聚焦研究设计的核心要素，不展开完整的操作方法细节。量化方法聚焦常用的调查和实验设计；质性方法涵盖[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和[[Case Study|案例研究]]；混合方法则介绍聚敛式（convergent）、解释性序列（explanatory sequential）和探索性序列（exploratory sequential）三种核心设计。第六版新增了更具包容性的语言表述、每章开头的学习目标、量化方法章节的重组与扩充、三个方法章节采用一致的结构顺序、混合方法章节的内容更新，以及改进后的写作练习。
+在格式上，教材聚焦研究设计的核心要素，不展开完整的操作方法细节。量化方法聚焦常用的调查和[[Experimental Research|实验设计]]；质性方法涵盖[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和[[Case Study|案例研究]]；混合方法则介绍聚敛式（convergent）、解释性序列（explanatory sequential）和探索性序列（exploratory sequential）三种核心设计。第六版新增了更具包容性的语言表述、每章开头的学习目标、量化方法章节的重组与扩充、三个方法章节采用一致的结构顺序、混合方法章节的内容更新，以及改进后的写作练习。
 
 > [!quote|notitle]
 > “设计一项研究是一个困难且耗时的过程。本书不一定会让这个过程变得更容易或更快，但它可以提供在研究中有用的具体技能、关于该过程所涉及步骤的知识，以及撰写学术研究的实用指南。”
 > ("Designing a study is a difficult and time-consuming process. This book will not necessarily make the process easier or faster, but it can provide specific skills useful in research, knowledge about the steps involved in the process, and a practical guide to composing and writing scholarly research.")（前言）
 
-全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述文献、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
+全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述[[Document|文献]]、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
 
 > [!quote|notitle]
 > “第一部分讨论了在设计研究计划或方案之前必须考虑的几个初步因素。这些考虑涉及选择合适的研究路径、审查文献以将拟议的研究置于现有文献之中、决定是否在研究中使用理论，以及在开始时就采用良好的写作和伦理实践。”
@@ -756,7 +758,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 
 **写作过程**涉及三个关键框架。Franklin (1986) 的三阶段模型将写作分解为大纲、草稿并排序段落、编辑打磨每句话，三个阶段对应不同的认知任务。Elbow (1973) 建议用一小时写四稿（每 15 分钟一稿）。Zinsser (1983) 区分了"砖匠"和"先全倒出来"两类写作者，两极之间有迭代改进的中间路径。
 
-**[[Writing Habit|写作习惯]]** 围绕"每天都写"这一核心原则展开(Boice, 1990, pp.77–78)，九项策略覆盖时间审计、定时写作、拆解任务、进度图表和同伴分享等层面。物理环境同样参与习惯建立：Dillard (1989, pp.26–27) 刻意选择没有风景的房间以集中注意力，与 Boice 的时间管理策略形成互补。
+**[[Writing Habit|写作习惯]]** 围绕"每天都写"这一核心原则展开(Boice, 1990, pp.77–78)，九项策略覆盖时间审计、定时写作、拆解任务、进度图表和同伴分享等层面。物理环境同样参与习惯建立：Dillard (1989, pp.26–27) 刻意选择没有风景的房间以集中注意力，与 Boice 的[[Time Management|时间管理]]策略形成互补。
 
 > [!quote|notitle]
 > “人需要一个没有风景的房间，这样想象力才能在黑暗中与记忆相遇。”

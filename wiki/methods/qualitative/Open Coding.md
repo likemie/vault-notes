@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的基础切片与概念化阶段，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Document]]"
   - "[[Meaningful Human Control]]"
   - "[[Construct]]"
   - "[[Variable]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Grounded Theory\|扎根理论]]、[[Qualitative Content Analysis\|质性内容分析]]、探索性多[[Case Study\|案例研究]]。
-> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]、非介入性文献收集、现场[[Qualitative Observation\|田野观察]]记录。
+> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]、非介入性[[Document|文献]]收集、现场[[Qualitative Observation\|田野观察]]记录。
 > - **分析方法** 逐行微观切片、本土编码抽取、[[Constant Comparison\|持续比较法]]、属性维度化展开、设问分析。
 > - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA）页边标注、高亮编码工具、大语言模型[[Meaningful Human Control|人在回路]]（HITL）语义初筛。
 

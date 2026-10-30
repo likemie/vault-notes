@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 48
+method_related_count: 47
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -32,10 +32,9 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Visible Learning]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Rich and Thick Description]]"
   - "[[Class Size]]"
+  - "[[Self-reported Grades]]"
   - "[[Heterogeneity]]"
-  - "[[National Rejuvenation Narrative]]"
   - "[[Grand Theory]]"
   - "[[Evidence Standards]]"
   - "[[Geopolitics]]"
@@ -63,22 +62,22 @@ related_methods:
   - "[[Critical Discourse Analysis]]"
   - "[[Documentary Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Plato]]"
-  - "[[Stephen Ball]]"
+related_persons: []
 related_facts:
   - "[[National Reading Panel]]"
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Belt and Road Initiative]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -129,9 +128,9 @@ updated: 2026-10-29
 
 > [!proc] 质性分析程序
 > 1. **全周期档案初读与文本历时对比** 对比法案草案、听证记录、政商游说档案与妥协条文在核心术语（如阅读定义、科研标准）上的字句增删与法律内涵漂移，建立政策演化的基础线索。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 5)]]
-> 2. **话语权力谱系与词频量化编码** 编码谁的证词被采纳为立法要点、谁被排斥为偏见；结合计量文本挖掘统计核心议题词频（如 95 次班级规模对 6 次自我报告成绩），揭示官方将特定高成本议题矮化、将低成本个体干预过度神话的话语偏向。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
-> 3. **指标逆向工程与政商财务流向取证** 深入官方指标底层核查算法与效应量合成假设，排查简单算术平均对异质性的掩盖；调取商业咨询公司报表、学区采购合同追踪学者兼职董事薪酬与特许权版税（Royalties）等政商旋转门资本流转。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 30–32)]]
-> 4. **政策驱动力—工具—价值三维批判综合与三角互证** 运用三角互证整合国会记录、督察长调查报告与出版商年报；结合鲍尔与禹钟晸模型，从政策驱动力（大国竞争与政权合法性）、推进工具（行政指令、主权补贴与对口用工绑定）及深层意识形态价值（宏大叙事与发展模式输出）三个维度解构深层因果机制，为受压制的教育者构筑民主反制策略。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–692)]]
+> 2. **话语权力谱系与词频量化编码** 编码谁的证词被采纳为立法要点、谁被排斥为偏见；结合计量文本挖掘统计核心议题词频（如 95 次[[Class Size|班级规模]]对 6 次[[Self-reported Grades|自我报告成绩]]），揭示官方将特定高成本议题矮化、将低成本个体干预过度神话的话语偏向。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
+> 3. **指标逆向工程与政商财务流向取证** 深入官方指标底层核查算法与效应量合成假设，排查简单算术平均对[[Heterogeneity|异质性]]的掩盖；调取商业咨询公司报表、学区采购合同追踪学者兼职董事薪酬与特许权版税（Royalties）等政商旋转门资本流转。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 30–32)]]
+> 4. **政策驱动力—工具—价值三维批判综合与三角互证** 运用三角互证整合国会记录、督察长调查报告与出版商年报；结合鲍尔与禹钟晸模型，从政策驱动力（大国竞争与政权合法性）、推进工具（行政指令、主权补贴与对口用工绑定）及深层意识形态价值（[[Grand Theory|宏大叙事]]与发展模式输出）三个维度解构深层因果机制，为受压制的教育者构筑民主反制策略。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–692)]]
 
 ---
 
@@ -169,4 +168,4 @@ updated: 2026-10-29
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，解构新西兰 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]紧缩议程（pp. 23–36）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维[[Discourse Analysis|话语分析]]、政策三维视角（驱动力、工具、价值）与巴斯卡[[Explanatory Critique|解释性批判]]，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高等教育政策的文本框架、地缘[[Hard Power|硬实力]]配套与国家复兴[[Grand Theory|宏大叙事]]（pp. 677–699）。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学批判分析视角，解构 PISA 测评框架背后的新自由主义意识形态预设及其作为跨国治理工具的运作逻辑（pp. 418–419）。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学批判分析视角，解构 [[PISA]] 测评框架背后的新自由主义意识形态预设及其作为跨国治理工具的运作逻辑（pp. 418–419）。

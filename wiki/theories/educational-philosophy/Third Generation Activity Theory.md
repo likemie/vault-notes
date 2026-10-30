@@ -15,7 +15,7 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 50
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Artefact]]"
+  - "[[Lecturing]]"
+  - "[[Collaborative Learning]]"
   - "[[Heterogeneity]]"
   - "[[Learner-Centred Education]]"
   - "[[Decodification]]"
@@ -82,7 +84,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -109,9 +111,9 @@ updated: 2026-10-26
 > - **客体（Object）**
 >   活动系统所指向的意图、目标与动机，如提升考试成绩、推行探究教学或培养[[Higher-Order Thinking Skills\|高阶思维]]。
 > - **中介工具（Mediating Tools）**
->   主体用于达成客体的符号与物质[[Artefact\|人工制品]]，如讲授法、测试卷、对话研讨或 ChatGPT。
+>   主体用于达成客体的符号与物质[[Artefact\|人工制品]]，如[[Lecturing|讲授法]]、测试卷、对话研讨或 ChatGPT。
 > - **共同体（Community）**
->   主体所嵌入的社会关系网络，如家长、教育主管部门、教师同行、人机协作学习共同体。
+>   主体所嵌入的社会关系网络，如家长、教育主管部门、教师同行、人机[[Collaborative Learning|协作学习]]共同体。
 > - **规则（Rules）**
 >   规范活动系统运行的显性或隐性制度，如绩效考核、升学考试规定、学术诚信与提示词追踪规制。
 > - **劳动分工（Division of Labor）**

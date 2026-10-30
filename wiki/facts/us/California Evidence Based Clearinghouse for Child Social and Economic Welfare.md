@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Dependent Variable]]"
   - "[[Iatrogenic Effects in Education]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-16
 > CEBC 由加州政府直接拨款资助，由雷迪儿童医院（Rady Children's Hospital-San Diego）下属的儿童与家庭强化中心负责运营。
 >
 > - **公共福利与教育跨界** 旨在解决儿童福利系统内儿童面临的严重学业滞后、创伤应激与家庭不稳定问题，将循证医学标准无缝嵌入社会工作与基础教育支持项目。
-> - **严格限定同行评审文献** CEBC 实行文献准入硬性门槛：所有作为评级依据的研究必须发表于同行评审的学术期刊（Peer-Reviewed Journals），完全排除未发表的内部委托评估报告或商业白皮书([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> - **严格限定同行评审[[Document|文献]]** CEBC 实行文献准入硬性门槛：所有作为评级依据的研究必须发表于同行评审的学术期刊（Peer-Reviewed Journals），完全排除未发表的内部委托评估报告或商业白皮书([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "执行功能的核心下属成分，指个体有意识地抑制内在优势冲动反应、抵御无关刺激干扰并将注意集中于当前目标的能力，在复杂数字化探究与科学模拟学习中起决定性信息过滤与调节作用"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Cognitive Inhibition]]"
   - "[[Incubation]]"
   - "[[Constructed Knowledge]]"
+  - "[[Document]]"
   - "[[Computer Simulation]]"
   - "[[Activity Traps]]"
   - "[[Control of Variables Strategy]]"
@@ -49,7 +50,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!def] Inhibitory Control
@@ -91,7 +92,7 @@ updated: 2026-10-26
 ### 1. 探究技能与概念获得的实证方差解释
 
 > [!effect-table]- 抑制控制在科学探究中的实证效应
-> | 研究文献 | 样本学段与情境 | 关键测量与分析 | 实证因果发现 | 统计表现与方差贡献率 | 教学启示 |
+> | 研究[[Document\|文献]] | 样本学段与情境 | 关键测量与分析 | 实证因果发现 | 统计表现与方差贡献率 | 教学启示 |
 > |---|---|---|---|---|---|
 > | Kwon and Lawson (2000) | 高中科学学生（14 课时探究式物理/生物课程单元） | 神经心理学抑制控制测试与科学探究技能、概念理解[[Pre-test and Post-test\|后测]] | 学生的抑制控制能力不仅显著预测探究技能表现，更直接制约概念获得的增益幅度 | 独立解释探究技能测试得分 **29% 的方差**；独立解释概念增益 **28% 的方差** | 证实抑制控制是开展科学探究所必需的基础认知能力（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） |
 > | Homer and Plass (2014) | 高中化学学生（基于高交互微世界开展仿真探索学习） | 区分高抑制控制组与低抑制控制组在领域知识测试与迁移题上的表现 | 高抑制控制学生在面对陌生情境的迁移测验（Transfer Items）上显著超越低抑制控制同伴 | 迁移题组间差异显著（$p < .01$） | 高抑制控制个体能自发抑制表面浅层知觉特征的干扰，抽取深层因果原理（同上引文） |

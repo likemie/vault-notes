@@ -39,6 +39,7 @@ related_concepts:
   - "[[Creative Self-Efficacy]]"
   - "[[Creativity Assessment]]"
   - "[[Unit of Analysis]]"
+  - "[[Document]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
@@ -100,16 +101,16 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Thinking Skills and Creativity"
 book_title: ""
@@ -191,7 +192,7 @@ issuing_organization: ""
 
 > [!search-protocol] 检索与纳入方案
 > - **数据库** PsycINFO、Academic Search Ultimate、ProQuest、ScienceDirect。
-> - **关键词** "creativity"、"creative"、"creativ*" 与 "critical thinking"，使用高级检索排除书籍章节、综述与非同行评审文献。
+> - **关键词** "creativity"、"creative"、"creativ*" 与 "critical thinking"，使用高级检索排除书籍章节、综述与非同行评审[[Document|文献]]。
 > - **纳入** 同行评审期刊论文与公开学位论文；须同时包含创造力与批判性思维两种测量、报告两者定量相关、且样本为学生。
 > - **文献量** 在 Park et al. (2023) 综述数据基础上新增 16 项发表、剔除 4 项不合标准的研究，最终纳入 29 项发表。
 

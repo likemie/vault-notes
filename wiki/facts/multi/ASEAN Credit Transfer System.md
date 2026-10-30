@@ -9,9 +9,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "[[ASEAN University Network]]"
@@ -24,14 +24,13 @@ tags:
 related_concepts:
   - "[[Student Mobility]]"
   - "[[Research Universities]]"
-  - "[[Global Regionalisms]]"
-  - "[[ASEAN Way]]"
-related_theories:
-  - "[[Comparative Regionalism]]"
+  - "[[Demonstration Effect]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[ASEAN]]"
   - "[[ASEAN University Network]]"
   - "[[AIMS Programme]]"
   - "[[Southeast Asian Higher Education Common Space]]"
@@ -41,13 +40,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 东盟学分转移系统（ASEAN Credit Transfer System, ACTS）是由[[ASEAN University Network|东盟大学联盟]]（AUN）自主研发并运行的学术学分互认与学生流动管理平台；面向 AUN 成员高校本科生与研究生，旨在通过统一的学分折算规范与在线管理系统促进校际学分互认，构成东南亚顶尖研究型大学微观务实协同的标志性政策工具。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 153)]]
+> [[ASEAN|东盟]]学分转移系统（ASEAN Credit Transfer System, ACTS）是由[[ASEAN University Network|东盟大学联盟]]（AUN）自主研发并运行的学术学分互认与[[Student Mobility|学生流动]]管理平台；面向 AUN 成员高校本科生与研究生，旨在通过统一的学分折算规范与在线管理系统促进校际学分互认，构成东南亚顶尖[[Research Universities|研究型大学]]微观务实协同的标志性政策工具。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 153)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年左右由 AUN 组织研发并正式投入运行，依托在线系统常态化运营。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
@@ -101,7 +100,7 @@ updated: 2026-10-29
 > > ACTS 仅对 30 所成员大学开放的特许属性，在区域高教治理中引发了关于代表性的学术讨论。
 > >
 > > - **精英局限与马太效应批评** 批评观点指出，ACTS 仅服务于极少数顶尖研究型大学，无法惠及广大的地方性及私立高校，强化了区域内高等教育的资源壁垒。
-> > - **务实试验与示范效应辩护** 辩护观点强调，在东南亚制度多样性极高且缺乏超国家行政权力的情境下，优先在顶尖名校小范围试行微观学分互认，是兼顾制度可行性与学术声誉的务实策略。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 153)]]
+> > - **务实试验与[[Demonstration Effect|示范效应]]辩护** 辩护观点强调，在东南亚制度多样性极高且缺乏超国家行政权力的情境下，优先在顶尖名校小范围试行微观学分互认，是兼顾制度可行性与学术声誉的务实策略。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151, 153)]]
 
 ---
 

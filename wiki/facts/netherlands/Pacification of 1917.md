@@ -13,7 +13,7 @@ subtype: event
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
   - theme/educational-policy
   - region/europe
 related_concepts:
+  - "[[Religious Schools]]"
   - "[[Pillarization]]"
   - "[[Policy Network]]"
   - "[[Steering at a Distance]]"
@@ -38,13 +39,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1917 年大妥协（The Pacification of 1917，荷文：*De Pacificatie van 1917*）是荷兰宪政与现代教育史上的分水岭事件。它通过精巧的跨阵营政治交换，彻底终结了 19 世纪中叶以来围绕国家教育控制权撕裂社会的“学校论争（Schoolstrijd）”；在宪法第 23 条中将“教育自由（Freedom of Education）”升格为根本公民权利，确立了私立宗教学校享有与公立学校 100% 财政全额平等资助的宪法原则，系统奠定了荷兰[[Pillarization|柱状化]]（Pillarization）制度与现代高教[[Policy Network|政策网络]]的历史底色。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–143)]]
+> 1917 年大妥协（The Pacification of 1917，荷文：*De Pacificatie van 1917*）是荷兰宪政与现代教育史上的分水岭事件。它通过精巧的跨阵营政治交换，彻底终结了 19 世纪中叶以来围绕国家教育控制权撕裂社会的“学校论争（Schoolstrijd）”；在宪法第 23 条中将“教育自由（Freedom of Education）”升格为根本公民权利，确立了私立[[Religious Schools|宗教学校]]享有与公立学校 100% 财政全额平等资助的宪法原则，系统奠定了荷兰[[Pillarization|柱状化]]（Pillarization）制度与现代高教[[Policy Network|政策网络]]的历史底色。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–143)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1913–1917 年，荷兰海牙（国会与政府所在地）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 142)]]

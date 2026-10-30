@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - theme/educational-borrowing
   - theme/nineteenth-century
 related_concepts:
+  - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
@@ -53,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 ## 背景
 
-《马萨诸塞州教育委员会第七次年度报告》（*Seventh Annual Report of the Secretary of the Board of Education*，通常简称《第七次年度报告》）是 19 世纪美国公立学校运动中最富国际视野与政治战斗力的历史文献：
+《马萨诸塞州教育委员会第七次年度报告》（*Seventh Annual Report of the Secretary of the Board of Education*，通常简称《第七次年度报告》）是 19 世纪美国公立学校运动中最富国际视野与政治战斗力的历史[[Document|文献]]：
 
 > [!policy-context] 政策与历史背景
 > - **发布时间 / 调查主体** 1844 年 1 月由马萨诸塞州教育委员会首任秘书[[Horace Mann\|霍勒斯·曼]]（Horace Mann, 1796–1859）正式向州教育委员会及州立法机构提交；该报告基于曼于 1843 年自费赴欧洲为期五个月的深度实地教育考察（历经英国、爱尔兰、法国、荷兰以及德意志诸邦，尤以普鲁士和萨克森为主）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31; Downs, 1974:88)]]
@@ -151,7 +152,7 @@ updated: 2026-10-22
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Horace Mann]] | 人物 | 本报告作者，美国公立学校之父。 |
-> | [[Common School Movement]] | 概念 | 本报告构成了公学运动争取政治与道义合法性的纲领性文献。 |
+> | [[Common School Movement]] | 概念 | 本报告构成了公学运动争取政治与道义合法性的纲领性[[Document\|文献]]。 |
 > | [[Boston Schoolmasters Controversy]] | 事件 | 本报告直接激发的全美最著名的教育论战。 |
 > | [[Report on the State of Public Instruction in Prussia]] | 政策 | [[Victor Cousin\|库森]]报告的美译本直接激发了曼赴欧考察普鲁士学校的学术雄心。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策 | 曼在报告中所高度盛赞的普鲁士初等义务教育与[[Normal School\|师范学院]]建制的法律母体。 |

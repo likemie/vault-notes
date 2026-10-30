@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Knowledge Mediation]]"
   - "[[Learning Crisis]]"
   - "[[Test Validity]]"
   - "[[Reliability]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-26
 > [!citation-card] [[UNICEF\|儿童基金会]]以微观家庭数据与弱势关怀参与全球中介治理
 > 联合国儿童基金会等机构在[[Policy Brokerage\|政策中介]]领域的介入，展现了不同于传统[[OECD\|经合组织]]与[[World Bank\|世界银行]]的独特路径。通过深耕前沿未开垦的政策议题（如[[Social-Emotional Learning\|社会情感学习]] SEL、女童权益与家庭微观福祉），并依托多指标聚类调查（MICS）等家庭入户工具，儿童基金会为全球教育治理注入了强烈的底层公平与人道关怀底色，迫使其他庞大多边机构在宏观经济规划中必须直面最脆弱边缘群体的生存处境。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
 >
-> *The five main IOs in education bundle their knowledge brokerage instruments differently. Identifying new, untapped thematic priorities, such as social-emotional learning (first promoted by UNICEF), enables the organisation to demarcate its territory and extol its comparative advantage in global governance.*
+> *The five main IOs in education bundle their [[Knowledge Mediation|knowledge brokerage]] instruments differently. Identifying new, untapped thematic priorities, such as social-emotional learning (first promoted by UNICEF), enables the organisation to demarcate its territory and extol its comparative advantage in global governance.*
 
 ---
 

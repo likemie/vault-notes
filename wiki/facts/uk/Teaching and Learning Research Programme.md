@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Professional Learning Community]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Document]]"
   - "[[Scientific Literacy]]"
   - "[[Champ]]"
   - "[[Self-Improving School System]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-26
 ---
 
 > [!finding-cards] 核心实证结论
-> - **伙伴关系显著提高知识采纳意愿** 相比传统的被动文献分发，由研究者与一线教师结对共创的教学干预，在学校层面的落地依从度（Fidelity）与常态化保留率显著提高。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
+> - **伙伴关系显著提高知识采纳意愿** 相比传统的被动[[Document|文献]]分发，由研究者与一线教师结对共创的教学干预，在学校层面的落地依从度（Fidelity）与常态化保留率显著提高。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
 > - **全系统能力建设奠定[[Scientific Literacy\|证据素养]]基础** 培育了一批兼具研究严谨性与一线亲和力的中介学者与教研骨干，初步打破了大学与中小学之间的“制度鸿沟”。
 > - **学校外源研究运用能力提升有限** 后续长效评估（Greany, 2015; Saunders, 2015; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）表明，TLRP 等巨额投资对学校常态化实践的综合影响好坏参半。虽然在督导推动下学校使用内部学情数据的能力大幅增强，但学校常态化检索、理解与转化“外部学术研究”或“评价实证”的专业能力并未发生根本性跃升。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 119)]]
 

@@ -9,7 +9,7 @@ summary: "美国政治学家与历史社会学家，西北大学政治学与社�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Epistemology]]"
+  - "[[Zone of Discretion]]"
   - "[[Variable]]"
   - "[[Veto Possibilities]]"
   - "[[Strategic Compliance]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 制度本质上是具有非对称资源分配后果的权力工具，其稳定性并非源自技术效率的最优均衡，而是依赖持续的政治动员与利益协调；成文规则与实际执行之间存在不可消除的内生模糊性与裁量空间，使规则遵从成为充满微观博弈的动态[[Variable|变量]]；在宏观[[Veto Possibilities|否决可能性]]与制度裁量权的语境筛选下，微观行动者（[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]）通过边际累积驱动置换、层叠、漂移与转换四类演进模式，打破了将变迁局限于外生危机断裂的机械二元论（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15, 28–31]]）。
+> 制度本质上是具有非对称资源分配后果的权力工具，其稳定性并非源自技术效率的最优均衡，而是依赖持续的政治动员与利益协调；成文规则与实际执行之间存在不可消除的内生模糊性与[[Zone of Discretion|裁量空间]]，使规则遵从成为充满微观博弈的动态[[Variable|变量]]；在宏观[[Veto Possibilities|否决可能性]]与制度裁量权的语境筛选下，微观行动者（[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]）通过边际累积驱动置换、层叠、漂移与转换四类演进模式，打破了将变迁局限于外生危机断裂的机械二元论（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15, 28–31]]）。
 
 > [!citation-card] 规则遵从的动态博弈与内生模糊性
 > 规则存在不可消除的模糊性，成文规则与现实落实之间存在永久缝隙；遵从不是常数而是动态博弈。监督与执法的组织分离使得行动者能够在解释和执行的软肋中利用自由裁量权撬动渐进演化。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]

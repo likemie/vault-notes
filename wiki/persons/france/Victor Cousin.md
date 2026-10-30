@@ -8,10 +8,10 @@ summary: "法国哲学家、七月王朝教育决策者，作为比较教育第�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1792"
 died: "1867"
 lifespan: "1792–1867"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Faculty Psychology]]"
   - "[[Popular Education]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Interpretivism]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-30
 ---
 
 ## 简介
@@ -211,7 +212,7 @@ updated: 2026-10-21
 
 ---
 
-> [!citation-card] 《外国季刊评论》论国民教育如同常备陆海军
+> [!citation-card] 《外国季刊评论》论[[National Education|国民教育]]如同常备陆海军
 > [[Report on the State of Public Instruction in Prussia\|库森报告]]以实实在在的完全实践成功有力证明：国民教育制度绝非不着边际的空想，不是做梦的哲学家凭空捏造的幻影；而是一种确保所有儿童接受初等教育的制度模式，国家建立和维持这一体系的必要性，丝毫不亚于维持一支陆军或海军。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 27)]]；引自 Knight (1930:116)
 >
 > *Cousin’s report was an incontestable proof, 'by the solid and substantial argument of complete practical success', that a system of [[National Education]] was not visionary ... but a mode of insuring the elementary instruction of all children, which may be established and maintained not less than any army or navy.*
@@ -232,7 +233,7 @@ updated: 2026-10-21
 > *...they used them not just as models to be imitated or 'borrowed', but also as legitimating rationales in their efforts to persuade their respective legislatures to establish and finance public educational systems.*
 
 > [!citation-card] Hinsdale 与 Rust 等人论库森报告的深远跨大西洋影响
-> 伯克·欣斯代尔（Burke A. Hinsdale）评价库森的普鲁士教育报告所产生的直接与间接影响，"就整个美国历史而言超越了任何其他教育文献的成果"。[[Argument_Rust_2009_Reflections\|Rust et al. (2009, p. 124)]]；引自 Hinsdale (1906)
+> 伯克·欣斯代尔（Burke A. Hinsdale）评价库森的普鲁士教育报告所产生的直接与间接影响，"就整个美国历史而言超越了任何其他教育[[Document|文献]]的成果"。[[Argument_Rust_2009_Reflections\|Rust et al. (2009, p. 124)]]；引自 Hinsdale (1906)
 >
 > *Cousin's report 'produced results, direct and indirect, that far surpass in importance the results produced by any other educational volume in the whole history of the country'.*
 
@@ -278,7 +279,7 @@ updated: 2026-10-21
 > > - **Harold Noah and Max Eckstein (1969) / George Bereday (1964)** 将库森归入前科学的“[[Artefact\|器物]]借用期（borrowing phase）”，批评其主要依赖官方条文与行政文本汇编，属于缺乏严格因果控制与定量分析的非批判性记述。
 > > - **Brian Holmes (1965) / Pella Kaloyannaki and Andreas Kazamias (2009)** 肯定其开创了官方行政借用的典范，但指出其报告主要关注普鲁士官僚机器的运行机制，缺乏对制度深嵌于普鲁士容克贵族政体历史文化情境的深层解释，带有较强的制度[[Pragmatic Paradigm\|实用主义]]工具色彩。
 
-围绕库森借用[[Paradigm|范式]]的局限与认识论批判，相关学术文献记录了进一步的反思：
+围绕库森借用[[Paradigm|范式]]的局限与认识论批判，相关学术[[Document|文献]]记录了进一步的反思：
 
 > [!critique] 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 梳理了学界对其折衷主义服务大资产阶级统治意识形态的批判，以及其实定法移植模式在深层历史解释力上的不足。

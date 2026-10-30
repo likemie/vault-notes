@@ -8,9 +8,9 @@ aliases:
 summary: "由国际同行方法学专家组研制的系统综述与元分析优先报告条目清单，包含27项核心核查条目与四阶段文献流转图，为证据综合提供从数据库检索、去重、初筛、全文合格性审阅到最终纳入全流程的方法学透明度与报告合规性标准。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 39
-instrument_related_level: 3
-instrument_related_stars: "💎"
+instrument_related_count: 41
+instrument_related_level: 4
+instrument_related_stars: "💎⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -38,6 +38,7 @@ tags:
   - theme/research-transparency
 related_concepts:
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Flow]]"
   - "[[Literature Search]]"
   - "[[Abstract]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Adjunct Aids]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
@@ -85,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-30
 ---
 
 ---
@@ -97,7 +99,7 @@ updated: 2026-10-17
 > - **实施方式** 自陈核查（Self-Report）或同行评议专家审核，由系统综述作者在撰写报告时自查填报各条目对应页码，期刊编辑与审稿人据此核验合规性。
 
 > [!citation-card] PRISMA 2020 声明与方法学使命
-> 系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）是一套旨在提升系统综述与元分析研究透明度、规范性与可复现性的国际权威方法学标准与报告指南。PRISMA 体系由核心报告检查清单（涵盖 27 项条目）和四阶段文献流转图（PRISMA [[Flow]] Diagram）构成，要求研究者系统记录从文献数据库检索、去重、标题摘要初筛、全文合格性审阅到最终纳入证据合成的完整决策路径与排除缘由。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4–5)]]
+> 系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）是一套旨在提升系统综述与元分析研究透明度、规范性与可复现性的国际权威方法学标准与报告指南。PRISMA 体系由核心报告检查清单（涵盖 27 项条目）和四阶段[[Document|文献]]流转图（PRISMA [[Flow]] Diagram）构成，要求研究者系统记录从文献数据库检索、去重、标题摘要初筛、全文合格性审阅到最终纳入证据合成的完整决策路径与排除缘由。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4–5)]]
 >
 > *"The [[Literature Search]] and screening strictly adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement... through systematic identification, screening, eligibility, and inclusion phases."*
 
@@ -157,7 +159,7 @@ updated: 2026-10-17
 > | **Item 24** | [[Preregistration\|预注册]]与方案获取（Registration & Protocol） | 报告综述在 PROSPERO 等平台的预注册编号与公开协议网址 | 防范研究者在看到数据后随意篡改分析计划 |
 > | **Item 25** | 资助与支持（Support） | 明确披露研究资助方及其在综述构思、执行与撰写过程中的角色 | 防范资助方学术干预与商业利益冲突 |
 > | **Item 26** | 利益冲突声明（Competing Interests） | 明确声明全体作者是否存在与本综述主题相关的财务或非财务利益冲突 | 切断利益绑定导致的学术倾向性偏倚 |
-> | **Item 27** | 数据与代码共享（Availability of Materials） | 说明原始提取数据矩阵、分析脚本代码及辅助材料的公开获取途径 | 落实完全开放科学与证据可计算复现 |
+> | **Item 27** | 数据与代码共享（Availability of Materials） | 说明原始提取数据矩阵、分析脚本代码及[[Adjunct Aids\|辅助材料]]的公开获取途径 | 落实完全开放科学与证据可计算复现 |
 
 > [!proc] PRISMA 四阶段标准流转程序
 > 1. **识别阶段（Identification）** 确定检索关键词布尔组合，跨中英文核心数据库检索并记录各库命中篇数，汇入文献管理软件完成自动与人工去重。

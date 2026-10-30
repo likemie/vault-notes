@@ -8,7 +8,7 @@ summary: "统计过程控制（Statistical Process Control, SPC）是由休哈�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Fieldwork]]"
+  - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Industrial Benchmarking]]"
   - "[[Time Series Design]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-10-29
 > - **偏误来源** 抽样不当导致组内混入系统性变异、对非正态数据机械套用正态常数引发虚警率激增。
 > - **适用边界** 控制图只能判定“系统是否异常”，无法自动推断“异常由何产生”，必须配合物理失效分析或一线定性[[Fieldwork|实地调查]]。
 > - **误用风险** “过度调整陷阱”——管理者将正常的偶然波动误判为系统故障而频繁调整工艺参数，反而人为向系统注入额外变异（戴明漏斗实验）。
-> - **补救方式** 采用严格的有理子组抽样法则，结合因果鱼骨图（Ishikawa Diagram）与实验设计（[[Department of Energy|DOE]]）开展后续根因溯源。
+> - **补救方式** 采用严格的有理子组抽样法则，结合因果鱼骨图（Ishikawa Diagram）与[[Experimental Research|实验设计]]（[[Department of Energy|DOE]]）开展后续根因溯源。
 
 ---
 

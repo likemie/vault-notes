@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Initial Teacher Training]]"
+  - "[[Document]]"
   - "[[Policy Brokerage]]"
   - "[[Formative Assessment]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!policy-context] 政策背景
@@ -74,7 +75,7 @@ updated: 2026-10-26
 > - **约束机制** 结合英国教育标准局（[[Ofsted]]）的专项督导评级，并将核心内容达标与培训机构办学资质认证挂钩。
 
 > [!citation-card] 审查对研究导向临床实践的吸纳与转译
-> 卡特审查明确吸纳了牛津大学学者关于“以研究为导向的临床实践”的学术文献，但该研究在政府部门内部的传播主要依赖[[Policy Brokerage\|政策中介]]的口口相传与审查文本的引介，而非公务员直接阅读原著。[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 95]]
+> 卡特审查明确吸纳了牛津大学学者关于“以研究为导向的临床实践”的学术[[Document|文献]]，但该研究在政府部门内部的传播主要依赖[[Policy Brokerage\|政策中介]]的口口相传与审查文本的引介，而非公务员直接阅读原著。[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 95]]
 >
 > *While we interviewed a government employee, she spoke about the influence of an article by two members of Oxford University academic staff on clinical practices, following a citation of their work in the Carter Review.*
 

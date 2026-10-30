@@ -11,7 +11,7 @@ aliases:
 summary: "指官僚体制与公共文化中将行政规章、程序合规与道德纯洁性置于实质治理成果之上的教条化倾向。卡普与扎米斯卡以此批判西方公共部门深陷形式主义合规与道德表演、将公职人员预设为无欲苦行僧、并借由微小合规瑕疵对实干领袖发起道德猎巫，从而导致治理能力瘫痪与人才逆向淘汰的深层体制病理。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -44,6 +44,7 @@ related_persons:
   - "[[Kenneth Burke]]"
   - "[[Plato]]"
   - "[[James Madison]]"
+  - "[[Harvey C. Lehman]]"
   - "[[Hyman Rickover]]"
 related_facts: []
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -187,7 +188,7 @@ updated: 2026-10-29
 > |---|---|---|---|
 > | **美联储主席与国会议员低薪制（2023–2024）** | 美联储主席年薪约 19 万美元，国会议员约 17.4 万美元；对标私营金融高管与顶级律师存在数倍乃至数十倍差距 | 政坛沦为无需生计担忧的亿万富豪俱乐部（西北大学统计富豪参政率达 11%），普通议员靠煽动极化与社交媒体博眼球以谋求离职变现 | 证实程序虔敬将公职预设为圣职导致了严重的阶层固化与治理平庸（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska, 2025, pp. 179–181]]） |
 > | **新加坡内阁与公务员市场对标（[[Lee Kuan Yew\|李光耀]]改革）** | 1994 年立法确立部长与高官薪酬与私营银行、法律顶尖从业者挂钩，2007 年部长平均年薪达 126 万美元 | 打造全球最高效、廉洁、敏捷的公共行政体系，彻底解决公共部门顶尖人才匮乏问题 | 证明承认人性现实激励、破除圣徒迷思是提升国家治理能力的制度基石（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska, 2025, pp. 181–183]]） |
-> | **海曼·里克弗与通用动力纪念品公案（1985）** | 63 年军旅生涯缔造核海军，1961–1977 年收受通用动力价值 67,628 美元的日常纪念品（咖啡杯、剃须刀、百科全书等） | 遭海军部长莱曼公开声讨为“堕落”，遭主流媒体借合规程序发起道德猎巫，一代战略功勋惨遭排挤退休 | 典型展现了程序虔敬如何借助微观合规瑕疵将实干家异化为替罪羊（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska, 2025, pp. 185–186]]） |
+> | **海曼·里克弗与通用动力纪念品公案（1985）** | 63 年军旅生涯缔造核海军，1961–1977 年收受通用动力价值 67,628 美元的日常纪念品（咖啡杯、剃须刀、百科全书等） | 遭海军部长[[Harvey C. Lehman\|莱曼]]公开声讨为“堕落”，遭主流媒体借合规程序发起道德猎巫，一代战略功勋惨遭排挤退休 | 典型展现了程序虔敬如何借助微观合规瑕疵将实干家异化为替罪羊（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska, 2025, pp. 185–186]]） |
 
 ---
 

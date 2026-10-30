@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 55
+method_related_count: 59
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,10 +41,12 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Response Bias]]"
+  - "[[Flow]]"
   - "[[Causality]]"
   - "[[Heterogeneity]]"
   - "[[Common Method Variance]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Language Skills]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Multiple Regression]]"
@@ -78,12 +80,14 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-related_facts: []
-related_theories: []
+related_facts:
+  - "[[UN Sustainable Development Goals]]"
+related_theories:
+  - "[[Societies of Control]]"
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -145,7 +149,7 @@ updated: 2026-10-29
 > [!software-impl] 软件实现
 > - **数据处理** 数据清洗、反向题重编码、缺失值多重插补（Multiple [[Imputation Methods|Imputation]]）、变量标准化。
 > - **推荐软件** R（`lavaan`, `psych`, `survey`）、Python（`pandas`, `statsmodels`）、SPSS、Mplus、Stata。
-> - **核心流程** 建立代码本 $\rightarrow$ 导入与核验数据 $\rightarrow$ 因子结构探索与验证 $\rightarrow$ 计算信效度 $\rightarrow$ 拟合假设模型 $\rightarrow$ 导出分析表格。
+> - **核[[Flow|心流]]程** 建立代码本 $\rightarrow$ 导入与核验数据 $\rightarrow$ 因子结构探索与验证 $\rightarrow$ 计算信效度 $\rightarrow$ 拟合假设模型 $\rightarrow$ 导出分析表格。
 > - **报告标准** 完整报告问卷回收率与有效率、量表信效度检验参数、统计模型估计值与 95% [[Confidence Interval|置信区间]]。
 
 ---
@@ -161,7 +165,7 @@ updated: 2026-10-29
 > - **偏误来源** 社会赞许偏差（Social Desirability Bias）、中心化趋中倾向、极端[[Response Bias|回应偏差]]、无回答偏差、回忆误差以及引导性措辞引发的系统性偏倚。
 > - **适用边界** 仅能测量受访者的自陈观点与报告认知，无法直接代表真实生活中的客观行为；结构化题项限制了参与者自由表达深层意义的空间。
 > - **误用风险** 将统计相关性草率解读为因果结论；忽视词语固有的语义歧义（不同受访者对同一量表等级的心理阈值存在[[Heterogeneity|异质性]]）；忽视未应答群体的系统性差异。
-> - **补救方式** 实施严格的多阶段[[Pilot Testing|预测试]]（认知访谈与统计检验）；采用反向题与匿名设计控制社会赞许性；检验并控制[[Common Method Variance|共同方法偏差]]（Common Method Bias）。
+> - **补救方式** 实施严格的多阶段[[Pilot Testing|预测试]]（认知访谈与统计检验）；采用反向题与匿名设计[[Societies of Control|控制社会]]赞许性；检验并控制[[Common Method Variance|共同方法偏差]]（Common Method Bias）。
 
 ---
 
@@ -179,7 +183,7 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 采用联合国六种官方语言设计多语种在线问卷，收集覆盖 103 国 898 名政策利益相关者的数据，系统测评全球 654 个证据平台的使用习惯与 SDG 4 目标支撑度（pp. 18–20）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 采用联合国六种官方语言设计多语种在线问卷，收集覆盖 103 国 898 名政策利益相关者的数据，系统测评全球 654 个证据平台的使用习惯与 [[UN Sustainable Development Goals|SDG 4]] 目标支撑度（pp. 18–20）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch. 20)]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 编制四因素 14 题的基线问卷，经预测试检验[[Face Validity|表面效度]]与[[Construct Validity|建构效度]]后以在线方式施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice|证据知情实践]]准备状态。
-> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 12 国政商学界政策精英设计多语言能力与偏好问卷，结合交叉表与均值比较量化评估三大外语的地位阶梯与职业驱动意向（pp. 27, 33）。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 12 国政商学界政策精英设计多[[Language Skills|语言能力]]与偏好问卷，结合交叉表与均值比较量化评估三大外语的地位阶梯与职业驱动意向（pp. 27, 33）。

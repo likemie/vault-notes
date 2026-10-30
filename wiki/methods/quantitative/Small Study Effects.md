@@ -9,9 +9,9 @@ summary: "指元分析中小样本研究系统性报告比大样本研究更大�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -20,6 +20,7 @@ tags:
   - topic/quantitative-methods
   - theme/meta-analysis
 related_concepts:
+  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Presence]]"
   - "[[Sampling Error]]"
@@ -55,13 +56,13 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Small Study Effects
-> [[Small Study Effects\|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination\|样本量]]（即较大[[Standard Error\|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance\|统计显著性]]的[[Effect Size\|效应量]]。** 这一现象由 Sterne et al. (2000)、Sterne and Egger (2005) 以及 [[Argument_Runco_2026_CRJ\|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot\|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括文献[[Publication Bias\|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
+> [[Small Study Effects\|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination\|样本量]]（即较大[[Standard Error\|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance\|统计显著性]]的[[Effect Size\|效应量]]。** 这一现象由 Sterne et al. (2000)、Sterne and Egger (2005) 以及 [[Argument_Runco_2026_CRJ\|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot\|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括[[Document|文献]][[Publication Bias\|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向实证文献库中效应量大小与研究精度（标准误）之间存在的系统性虚假依赖关系。
@@ -122,7 +123,7 @@ updated: 2026-10-29
 ### 命题二　多水平艾格回归截距检验确立了创造力全领域偏倚校正后的真实效应基准
 
 > [!concept-lens] [[Meta-meta-analysis\|二阶元分析]]中的小研究效应确证与校正
-> 探讨在大规模二阶[[Meta-analysis\|元分析]]中如何运用改进艾格回归消除文献依赖与小研究偏倚。
+> 探讨在大规模二阶[[Meta-analysis\|元分析]]中如何运用改进艾格回归消除[[Document|文献]]依赖与小研究偏倚。
 
 > [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Pustejovsky and Rodgers (2019)
 > **二阶截距偏倚校正** 在对 52 项[[Creativity\|创造力]]一阶元分析（164 个效应量）的二阶综合中，多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]配合[[Robust Variance Estimation\|稳健方差估计]]（CHE + RVE）检验显示，标准误斜率项高度显著（$F(1, 10.9) = 15.7, p = .002$），确证了创造力文献库中显著存在小研究效应；经截距外推校正后，创造力全领域的真实无偏二阶效应量确立为 **$r = 0.17$**（95% [[Confidence Interval\|置信区间]] $[0.11, 0.22]$），为全领域各细分[[Construct\|构念]]提供了可靠的参照原点。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–6)]]

@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Social Deafness]]"
   - "[[Big Science]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[Solomon Asch]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Solomon Asch\|所罗门·阿施]] | 人物 | 实验设计者与主持心理学家。 |
+> | [[Solomon Asch\|所罗门·阿施]] | 人物 | [[Experimental Research\|实验设计]]者与主持心理学家。 |
 > | [[Milgram Obedience Experiment\|米尔格拉姆服从实验]] | 事实 | 承继阿施从众[[Paradigm\|范式]]，将研究推向对权威致命指令服从的经典实验。 |
 > | [[Deception in Research\|研究中的欺骗]] | 概念 | 阿施实验所采用的核心信息遮蔽与同谋伪装方法学手段。 |
 > | [[Institutional Review Board\|机构审查委员会]] | 概念 | 战后因反思阿施与米尔格拉姆实验伦理风险而建立的法定伦理审查机制。 |

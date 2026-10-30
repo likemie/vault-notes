@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Differentiated Instruction]]"
   - "[[Implementation Fidelity]]"
   - "[[Business as Usual]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Counterfactual]]"
   - "[[Teacher Collaboration]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-26
 > - **对照组常态对照** 对照组学校维持常规学区教研与日常教学安排（[[Business as Usual]]），不接受“Using Data”项目组的系统培训与专项外部辅导。
 
 > [!citation-card] 戈拉德等对佛罗里达数据使用试验因果断裂的评述
-> 该研究是全文献库中极少数达到 4 级最高可[[Reliability\|信度]]评级的顶级教育 [[Randomised Controlled Trials\|RCT]]。试验在 2011–2013 年间覆盖佛罗里达州 60 所公立小学，失访率极低且数据质量优异。干预组学校接受了极其密集的专业发展培训与常态化专家技术援助，系统指导 4 年级和 5 年级教师如何解读学生测试数据并优化数学教学。过程评估显示实施保真度极高，教师在[[Data Literacy\|数据素养]]、教学态度及跨教师专业协作行为上呈现出暴发式增长（[[Effect Size\|效应量]]高达 0.69 至 0.76）。然而全州统一数学统考成绩表明，干预组学生的整体数学成绩增益净值为零（效应量为 0.02），与对照组无统计差异。强[[Counterfactual\|反事实]]证据表明：彻底改变教师研讨行为与数据意识，未能转化为学生[[Academic Achievement\|学业成绩]]的真实增长。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
+> 该研究是全[[Document|文献]]库中极少数达到 4 级最高可[[Reliability\|信度]]评级的顶级教育 [[Randomised Controlled Trials\|RCT]]。试验在 2011–2013 年间覆盖佛罗里达州 60 所公立小学，失访率极低且数据质量优异。干预组学校接受了极其密集的专业发展培训与常态化专家技术援助，系统指导 4 年级和 5 年级教师如何解读学生测试数据并优化数学教学。过程评估显示实施保真度极高，教师在[[Data Literacy\|数据素养]]、教学态度及跨教师专业协作行为上呈现出暴发式增长（[[Effect Size\|效应量]]高达 0.69 至 0.76）。然而全州统一数学统考成绩表明，干预组学生的整体数学成绩增益净值为零（效应量为 0.02），与对照组无统计差异。强[[Counterfactual\|反事实]]证据表明：彻底改变教师研讨行为与数据意识，未能转化为学生[[Academic Achievement\|学业成绩]]的真实增长。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
 >
 > *Cavalluzzo et al. (2014) evaluated the Using Data intervention in 60 schools over two years. This was an exceptionally well-conducted study... Implementation was good and teachers reported substantial improvement in data use, collaborative practice, and attitudes (effect sizes 0.69 to 0.76). Yet there was no impact on student mathematics achievement (effect size 0.02).*
 

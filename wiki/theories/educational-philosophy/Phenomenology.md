@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统与认识论框架，关注意识如何主动赋予世界意义，揭示具身感知与日常生活世界的主体间性本质，是诠释范式与质性研究的三大核心支柱之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 51
+theory_related_count: 50
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Intentionality]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Causality]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +105,7 @@ updated: 2026-10-22
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 埃德蒙·胡塞尔（[[Edmund Husserl]]）在《逻辑研究》（*Logical Investigations*, 1900–1901）与《纯粹现象学通论》（*Ideas I*, 1913）中奠定先验现象学基础，确立“回到事物本身”的纲领与[[Intentionality|意向性]]结构；莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）在《知觉现象学》（*Phenomenology of Perception*, 1945）中完成知觉具身转向；[[Alfred Schutz|阿尔弗雷德·舒茨]]（Alfred Schutz）在《社会世界的意义构成》（*The Phenomenology of the Social World*, 1932/1967）中将现象学转化为解释日常交往的社会学[[Analytic Framework|分析框架]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 23–25)]]
-> - **原初问题** 面对 19 世纪末自然科学[[Positivism|实证主义]]对哲学与[[Geisteswissenschaften|人文科学]]的吞噬，人类精神体验被物理主义和心理主义机械化降维。胡塞尔旨在为所有科学寻找绝对确定的阿基米德支点，证明人类经验不仅具有物理[[Causality|因果性]]，更拥有自主的意义构成性。
+> - **原初问题** 面对 19 世纪末自然科学[[Positivism|实证主义]]对哲学与人文科学的吞噬，人类精神体验被物理主义和心理主义机械化降维。胡塞尔旨在为所有科学寻找绝对确定的阿基米德支点，证明人类经验不仅具有物理[[Causality|因果性]]，更拥有自主的意义构成性。
 > - **理论资源与材料** 批判继承[[René Descartes|笛卡尔]]的普遍怀疑与布伦塔诺（Franz Brentano）的意向性概念；舒茨则[[Creativity|创造性]]结合了[[Max Weber|马克斯·韦伯]]的“理解社会学”（Verstehen）与柏格森的时间之流哲学。
 > - **形成路径** 通过实施[[Epoché|现象学悬置]]（[[Epoché]]），将外部世界是否存在形而上判断放入括号，直接对准纯粹意识经验之流（Noesis-Noema 结构），由此发现了日常生活的“生活世界”（Lebenswelt）是一切科学理论未经反思的原初地基。
 

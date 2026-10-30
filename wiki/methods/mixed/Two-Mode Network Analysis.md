@@ -11,7 +11,7 @@ summary: "用于刻画并分析两类异质性行动实体（如决策人员与�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Mode 2 Knowledge Production]]"
   - "[[Epistemology]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-29
 > 两模网络分析（Two-Mode Network Analysis，亦称二部从属网络分析，Bipartite Affiliation Network Analysis）是社会网络分析（SNA）中用于处理两组具有[[Heterogeneity|异质性]]实体之间二元关系的数学建模与可视化方法。不同于仅包含单一同质行动者（如“学者—学者”合作）的单模网络（One-Mode Network），两模网络包含两个互不相交的节点集合（如“决策人员集”与“证据主体平台集”），边仅存在于两类不同节点之间，用于表征个人对特定组织、事件或知识资源的从属、参与或日常咨询行为。在公共政策[[Output-Oriented Governance|循证治理]]研究中，该方法被用于实证测绘决策者日常查阅证据平台的拓扑连通度，诊断宏观知识生态的离散度与核心—边缘分化格局。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 22–24, 60–61)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 个人行动者与集体实体（机构、会议、政策文献、证据平台）之间的从属、参与或调阅互动关系。
+> - **研究对象** 个人行动者与集体实体（机构、会议、政策[[Document|文献]]、证据平台）之间的从属、参与或调阅互动关系。
 > - **问题类型** 适合回答两类实体之间的从属模式、知识资源的分布集中度、宏观网络的系统连通性与结构性孤立现象。
 > - **[[Unit of Analysis|分析单位]]** 行动者节点（Mode 1）、实体事件节点（[[Mode 2 Knowledge Production|Mode 2]]）以及二者之间的关联边（Affiliation Ties）。
 > - **输出形式** 二部图拓扑图谱、关联发生矩阵、度中心度分布表、网络密度系数与独立连通分量子图。

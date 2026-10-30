@@ -8,7 +8,7 @@ summary: "德国历史学家与历史哲学家，比勒费尔德学派核心人�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,13 +39,14 @@ related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[Niklas Luhmann]]"
   - "[[B. F. Skinner]]"
-related_facts: []
+related_facts:
+  - "[[ASEAN Credit Transfer System]]"
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-22
 > [!debates] 学术争议
 >
 > > [!axis] 德国概念史进路 vs 剑桥学派语境主义历史学
-> > 剑桥学派代表人物波考克（J.G.A. Pocock）与[[B. F. Skinner|斯金纳]]（Quentin Skinner）批评德国概念史过于聚焦孤立概念的内在演进与超文本结构，忽略了具体言语行为（Speech Acts）与微观历史语境；科塞勒克阵营则反驳指出，核心概念不仅是语境中的修辞，更内含了多层历史时间（Zeitschichten），能够揭示言语行为背后宏大的社会结构变迁。
+> > 剑桥学派代表人物波考克（J.G.A. Pocock）与[[B. F. Skinner|斯金纳]]（Quentin Skinner）批评德国概念史过于聚焦孤立概念的内在演进与超文本结构，忽略了具体言语行为（Speech [[ASEAN Credit Transfer System|Acts]]）与微观历史语境；科塞勒克阵营则反驳指出，核心概念不仅是语境中的修辞，更内含了多层历史时间（Zeitschichten），能够揭示言语行为背后宏大的社会结构变迁。
 > >
 > > - **剑桥学派立场** 强调历史行为者的言语意图与具体语境。
 > > - **科塞勒克概念史立场** 强调概念作为多层历史时间累积的长时段语义学张力。

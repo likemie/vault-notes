@@ -9,7 +9,7 @@ summary: "德国比较教育学家与国际教育交流专家，黑森州教育�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - region/germany
 related_concepts:
   - "[[International Education]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
   - "[[Progressive Education]]"
@@ -58,14 +59,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名比较教育学家、教育管理与[[International Education|国际教育]]交流专家，黑森州教育部资深督学，波恩联邦教育工作中心（Pädagogische Arbeitsstelle）首任主任，[[UNESCO|联合国教科文组织]]（UNESCO）汉堡教育研究所主要倡建者之一。
-> - **核心角色** 战后西德比较教育学的学科奠基人之一。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）指出，在德国大学正式广泛创设计算教席之前，西德第一时期的比较教育主要由[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与弗朗茨·希尔克的个人开拓性专著奠定基石。希尔克不仅在体制上推动了战后德国与国际教育体系的文献重建与信息交换，更在方法论上首次系统提炼出比较教育学的 **“[[Bereday's Comparative Method|四步比较法]]”**。
+> - **核心角色** 战后西德比较教育学的学科奠基人之一。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）指出，在德国大学正式广泛创设计算教席之前，西德第一时期的比较教育主要由[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与弗朗茨·希尔克的个人开拓性专著奠定基石。希尔克不仅在体制上推动了战后德国与国际教育体系的[[Document|文献]]重建与信息交换，更在方法论上首次系统提炼出比较教育学的 **“[[Bereday's Comparative Method|四步比较法]]”**。
 > - **代表贡献**
 >   - **创立“四步比较方法论”** 系统提出比较研究遵循“描述（Beschreibung）➔ 解释（Interpretation）➔ 并置（Nebeneinanderstellung）➔ 比较（Vergleich）”四个严格递进的科学认知阶梯，该框架后被贝雷迪（[[George Bereday]]）借鉴并普及为西方比较教育学界最经典的通用[[Paradigm|范式]]。
 >   - **出版学科奠基专著** 1962 年出版《比较教育学：历史、理论与实践导论》（*Vergleichende Pädagogik: Eine Einführung in ihre Geschichte, Theorie und [[Praxis]]*），成为战后欧陆比较教育学史的权威经典。

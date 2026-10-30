@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预措施 | PBL 对理论性知识的促进效应 | Cohen's $d$ | E = 15 | <span class="mx-bar ef-bar" title="Cohen's d 0.59"><span class="b12"></span></span>0.59 | [0.37, 0.81] | Q_b(6) = 14.65, p = .02 |
 >

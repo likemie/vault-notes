@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 14
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,11 +26,12 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Problem-Posing Education]]"
   - "[[Problem Solving]]"
+  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Doxa]]"
+  - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Reflexivity]]"
-  - "[[Habitus]]"
 related_theories: []
 related_methods:
   - "[[Critical Policy Analysis]]"
@@ -39,13 +40,14 @@ related_persons:
 related_facts:
   - "[[CORE Education]]"
   - "[[Melbourne Declaration]]"
+  - "[[NAPLAN]]"
 related_arguments: []
 sources:
   - "[[sources/Eacott_2011_JEAH|Eacott_2011_JEAH]]"
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2011
 doi: ""
 citation_aliases:
@@ -55,7 +57,7 @@ citation_aliases:
 > [!question]
 > 在管理主义时代，澳大利亚新南威尔士州（NSW）公立学校系统的校长培养方案如何建构了特定的校长身份？这种身份建构服务于什么目的？是否存在替代性的领导力培养路径？
 
-Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）而非"组织[[Problem Solving|问题解决]]"（organisational problem solving）的替代性领导习性。
+Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）而非"组织[[Problem Solving|问题解决]]"（organisational problem solving）的替代性领导[[Habitus|习性]]。
 
 
 > [!abstract] 理论框架
@@ -72,7 +74,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 > [!info] 研究方法
 > - **方法** 理论性／[[Critical Policy Analysis|批判性政策分析]]（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例** NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
-> - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术文献
+> - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术[[Document|文献]]
 > - **立场声明** 论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场
 
 
@@ -92,7 +94,7 @@ Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'hi
 - NSW 立法规定校长对学校的"有效和高效运行"负责——以经济语言表述的政策声明
 - *Leading and Managing*(NSW DET, 2000)文件明确将校长定位为"对 Director-General 负责学生成果质量"，"在教育社区背景下"行使问责——校长成为"系统议程的地方面孔"
 - NSW 教师学院专业标准（如 6.4.4 "批判性审查最佳实践研究"、7.4.6 "在所有沟通中呈现学校的正面形象"）体现了 Taylor 主义遗产（"最佳实践"）和市场意识形态（学校形象维护）
-- 通过国家测试制度（NAPLAN）、即将出台的国家课程、MySchool 网站的建立，"国家对教育的管理主义项目几乎完成"
+- 通过国家测试制度（[[NAPLAN]]）、即将出台的国家课程、MySchool 网站的建立，"国家对教育的管理主义项目几乎完成"
 
 ### 第三步：Bourdieu 揭示的结构性困境
 

@@ -9,7 +9,7 @@ summary: "伦敦大学国王学院比较教育学讲座教授，欧洲比较教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Brian Holmes]]"
   - "[[Robert Cowen]]"
+  - "[[James C. Scott]]"
   - "[[Michael Sadler]]"
   - "[[Nicholas Hans]]"
 related_facts:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-22
 > - **1967** **发表反预测长文挑起英格兰实证论辩** 在《比较教育》（*Comparative Education*）发表经典论辩长文，对[[Brian Holmes\|布赖恩·霍姆斯]]的[[Problem Approach\|问题法]]与“预测作为科学划界标准”发起猛烈清算，拉开“金—霍姆斯预测大论战”序幕。米特指出，这场交锋深嵌于席卷全欧的[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）之中，折射出金坚守的文化语境传统与霍姆斯[[Critical Dualism|批判二元论]]之间的深刻张力。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]；[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 92–93)]]
 > - **1968** 出版方法论代表作《比较研究与教育决策》（*Comparative Studies and Educational Decision*），系统确立[[Policy Science in Comparative Education\|政策科学]]与“关键决策时刻”操作框架。
 > - **1970年代初** 领衔大规模跨国后义务教育研究项目（Post-Compulsory Education），为西欧多国政府与国际组织提供宏观政策咨询。
-> - **1979–1980** 在英格兰比较教育“方法论大分裂”（the fracturing）中公开撰文试图规训玛格丽特·斯科特福德·阿彻的结构社会学研究，引发学界关于学科边界守旧性与排他性的深度反思。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
+> - **1979–1980** 在英格兰比较教育“方法论大分裂”（the fracturing）中公开撰文试图规训玛格丽特·[[James C. Scott|斯科特]]福德·阿彻的结构社会学研究，引发学界关于学科边界守旧性与排他性的深度反思。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 > - **2002** 逝世于英国，享年 88 岁。
 
 ---

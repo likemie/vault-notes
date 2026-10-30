@@ -8,7 +8,7 @@ summary: "美国印第安纳大学杰出教授、学习科学前国际学会主�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - theme/cscl
 related_concepts:
   - "[[Problem-Based Learning]]"
+  - "[[Collaborative Learning]]"
   - "[[Scaffolding]]"
   - "[[International Education]]"
   - "[[Constructivist Paradigm]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Homework]]"
   - "[[Anchored Instruction]]"
+  - "[[Document]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
   - "[[Concept Mapping]]"
@@ -53,14 +55,14 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国印第安纳大学布鲁明顿分校（Indiana University Bloomington）教育与认知科学杰出讲席教授（Distinguished Professor），学习科学研究中心主任，国际学习科学学会（ISLS）前主席与终身会士（ISLS Inaugural Fellow）。
-> - **核心角色** 当代问题导向学习（[[Problem-Based Learning]], PBL）、计算机支持协作学习（Computer-Supported Collaborative Learning, CSCL）与[[Scaffolding\|认知支架]]时序理论的国际领袖。她长期致力于解构复杂系统中的深层因果认知建构；在[[International Education\|国际教育]]界关于探究教学有效性的历史论辩中，她与[[Clark A. Chinn\|克拉克·钦]]（[[Clark A. Chinn]]）两度扮演关键领导角色，系统击碎了认知负荷派将探究歪曲为“无指导放任”的预设，被誉为捍卫[[Constructivist Paradigm\|建构主义]]循证教学[[Paradigm\|范式]]的旗帜性学者。
+> - **核心角色** 当代问题导向学习（[[Problem-Based Learning]], PBL）、计算机支持[[Collaborative Learning|协作学习]]（Computer-Supported Collaborative Learning, CSCL）与[[Scaffolding\|认知支架]]时序理论的国际领袖。她长期致力于解构复杂系统中的深层因果认知建构；在[[International Education\|国际教育]]界关于探究教学有效性的历史论辩中，她与[[Clark A. Chinn\|克拉克·钦]]（[[Clark A. Chinn]]）两度扮演关键领导角色，系统击碎了认知负荷派将探究歪曲为“无指导放任”的预设，被誉为捍卫[[Constructivist Paradigm\|建构主义]]循证教学[[Paradigm\|范式]]的旗帜性学者。
 > - **代表贡献** 发表 PBL 领域的经典里程碑综述（Hmelo-Silver, 2004，引用近万次）；与 Duncan 和 Chinn 联合发表 2007 年对认知负荷学派的纲领性反驳论文；提出理解生物与生态复杂系统的“结构-行为-功能”（SBF）理论框架；深度构建[[Productive Failure\|生产性失败]]与[[Problem Solving\|问题解决]]的现代教学时序协同模型（Hmelo-Silver, Kapur, & Hamstra, 2018）。
 
 > [!citation-card] 人物定位的关键来源
@@ -74,7 +76,7 @@ updated: 2026-10-22
 > - **1980 年代** 最初接受[[Homework\|作业]]治疗与康复医学训练，深刻体会到临床医学教育中传统灌输教学与真实病理诊疗脱节的弊端，萌发对问题导向学习的研究热情。
 > - **1990 年代初** 于范德堡大学（Vanderbilt University）获得认知心理学与教育学博士学位，师从约翰·布兰斯福德（John D. Bransford），沉浸于[[Anchored Instruction\|抛锚式教学]]（Anchored Instruction）与[[Situative Perspective\|情境认知]]理论。
 > - **1998–2013** 任教于罗格斯大学（Rutgers University），与[[Clark A. Chinn\|克拉克·钦]]等密切合作，深耕科学课堂中的复杂系统因果表征与探究支架。
-> - **2007** 与 Ravit Golan Duncan、Clark A. Chinn 联名在《教育心理学家》发表重磅论文，系统反驳 Kirschner, Sweller, & Clark (2006) 关于最小指导教学失败的论调，成为当代学习科学发展史的分水岭文献。
+> - **2007** 与 Ravit Golan Duncan、Clark A. Chinn 联名在《教育心理学家》发表重磅论文，系统反驳 Kirschner, Sweller, & Clark (2006) 关于最小指导教学失败的论调，成为当代学习科学发展史的分水岭[[Document|文献]]。
 > - **2014–至今** 加盟印第安纳大学担任杰出教授，当选国际学习科学学会（ISLS）主席，主持多项 [[National Science Foundation\|NSF]] 资助的人工智能协作探究重大项目。
 > - **2018** 与马努·卡普尔等联合提炼基于[[Problem Solving\|问题解决]]与[[Productive Failure\|生产性失败]]的现代时序教学模型。
 > - **2023** 与 [[Ton de Jong]] 等联合发表《Let’s talk evidence》，作为核心作者系统整合探究与[[Direct Instruction\|直接教学]]协同[[Paradigm\|范式]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023)]]

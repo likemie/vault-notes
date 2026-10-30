@@ -7,7 +7,7 @@ summary: "美国心理学家与统计学家，行为科学统计功效分析与�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Null Hypothesis]]"
+  - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Sampling Error]]"
@@ -38,6 +39,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
+  - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -87,9 +89,9 @@ updated: 2026-10-22
 ---
 
 > [!work-line] 主要著作
-> - **1969/1988 — *[[Power Analysis|statistical power analysis]] for the Behavioral Sciences*** 行为科学统计功效与[[Effect Size|效应量]]分析的圣经，系统阐释 Cohen's $d$ 的数学公式，提供不同实验设计下的[[Sample Size Determination|样本量]]估算速查表。
+> - **1969/1988 — *[[Power Analysis|statistical power analysis]] for the Behavioral Sciences*** 行为科学统计功效与[[Effect Size|效应量]]分析的圣经，系统阐释 Cohen's $d$ 的数学公式，提供不同[[Experimental Research|实验设计]]下的[[Sample Size Determination|样本量]]估算速查表。
 > - **1990 — *Things I Have Learned (So Far)*** 反思心理学[[Quantitative Research|定量研究]]中的普遍谬误，强调少即是多（Less is more）、图形化呈现与对数据实质意义的尊重。
-> - **1992 — *A power primer*** 发表在 *Psychological Bulletin* 的经典文献，为研究者提供小（0.2）、中（0.5）、大（0.8）效应量的常用经验参照，并特别警示这些标签必须依据具体研究领域和情境调整。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 43–44)]]
+> - **1992 — *A power primer*** 发表在 *Psychological Bulletin* 的经典[[Document|文献]]，为研究者提供小（0.2）、中（0.5）、大（0.8）效应量的常用经验参照，并特别警示这些标签必须依据具体研究领域和情境调整。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 43–44)]]
 > - **1994 — *The Earth Is Round ($p < .05$)*** 批判统计学界对 $p < .05$ 机械阈值的崇拜，论证显著性检验无法证明[[Hypothesis|研究假设]]成立，主张全面转向效应量与[[Confidence Interval|置信区间]]。
 
 ---

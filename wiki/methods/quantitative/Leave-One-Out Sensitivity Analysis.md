@@ -11,7 +11,7 @@ summary: "元分析与统计建模中基于刀切法（Jackknife）原理的稳�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[AI Agent in Education]]"
 related_theories: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-10-29
 > | **自动化程度** | 完全自动化迭代，无需人工预设分组 | 依赖研究者预先设定的分组标签 | 依赖非参数迭代算法 |
 
 > [!warning] 适用边界与警示
-> 1. **无法识别多研究集群偏倚** 若数据集中存在来自同一实验团队或同一地区的 3 至 5 篇相似高偏倚文献，逐一剔除单篇文献无法打破集群效应，需配合留多法（Leave-Group-Out）或三水平多层建模。
+> 1. **无法识别多研究集群偏倚** 若数据集中存在来自同一实验团队或同一地区的 3 至 5 篇相似高偏倚[[Document|文献]]，逐一剔除单篇文献无法打破集群效应，需配合留多法（Leave-Group-Out）或三水平多层建模。
 > 2. **不可作为随意剔除文献的借口** 留一法用于稳健性压力测试与异质性归因，不能据此直接将拉低[[Effect Size\|效应量]]的正常研究随意从[[Meta-analysis\|元分析]]全集中永久删除，除非经核查该研究确存在严重录入错误或方案违背。
 > 3. **不能替代方法学质评** 留一法检验的是统计数值的抗扰动性，无法直接替代基于 Cochrane RoB 2 或 ROBINS-I 工具对[[Primary and Secondary Documents\|初级文献]][[Internal Validity\|内部效度]]与偏倚风险的实质审查。
 

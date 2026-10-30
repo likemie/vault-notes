@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -19,10 +19,12 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
+  - "[[Self-reported Grades]]"
   - "[[Class Size]]"
   - "[[Socioeconomic Status]]"
   - "[[Whole Language]]"
@@ -30,6 +32,7 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Metacognition]]"
   - "[[Category Mistake]]"
+  - "[[Extracurricular Activities]]"
   - "[[Causality]]"
   - "[[School Leadership]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -47,6 +50,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Fixed-Effect Model]]"
   - "[[Intervention Research]]"
+  - "[[Experimental Research]]"
   - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
 related_persons:
@@ -56,6 +60,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
   - "[[Reach]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[Playing for Success]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
@@ -76,7 +81,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -124,7 +129,7 @@ updated: 2026-10-22
 > [!ref-table] [[Evidence-Based Education\|EBE]] 支持者的防御策略（[[Argument_Simpson_2019_ERE\|Simpson, 2019]]）
 > [[Argument_Simpson_2019_ERE\|Simpson (2019, pp. 106–108)]]引用 Freedman（2009）识别的统计论证被揭露缺陷后的防御策略清单：
 >
-> | 防御策略 | 效应量文献中的表现 |
+> | 防御策略 | 效应量[[Document\|文献]]中的表现 |
 > | --- | --- |
 > | 假设是合理的 | Schneider and Preckel（2017）和 Higgins and Katsipataki（2016）列出假设但不检验其是否成立 |
 > | 假设不重要 | "许多继续使用效应量代表教育有效性的人似乎无法区分有缺陷的论证和某些结论可能碰巧正确的可能性"（p. 107） |
@@ -180,7 +185,7 @@ updated: 2026-10-22
 > **读法** $r$ 为相关系数。$r = 0.196$ 即可转换得到 $d = 0.4$（《可见的学习》的[[Zone of Desired Effects|期望效应区]]），但在简单线性回归中这仅对应 $r^2 = 0.0385$——仅 3.85% 的变异被解释，96.15% 为未解释的随机噪音。转换在 $r$ 接近 1 时迅速膨胀。
 
 > [!critique-method] 转换公式的误用
-> [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, p.242)]]揭示了 Hattie 使用最多的效应量计算技巧的深层问题。Hattie 用此公式获得"[[Creativity\|创造力]]对学业成功的影响"（Kim, 2005），实际是 IQ 与[[Creativity Assessment\|创造力测试]]的相关；"自我报告成绩"（《可见的学习》中最强效应量）是一组报告成绩与实际成绩之间的相关，完全未测量干预效果（p.242）。
+> [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, p.242)]]揭示了 Hattie 使用最多的效应量计算技巧的深层问题。Hattie 用此公式获得"[[Creativity\|创造力]]对学业成功的影响"（Kim, 2005），实际是 IQ 与[[Creativity Assessment\|创造力测试]]的相关；"[[Self-reported Grades|自我报告成绩]]"（《可见的学习》中最强效应量）是一组报告成绩与实际成绩之间的相关，完全未测量干预效果（p.242）。
 
 ---
 
@@ -255,7 +260,7 @@ updated: 2026-10-22
 > 研究者自编测试效应量比标准化测试平均高约 40%（p.12）；测试长度翻倍可膨胀效应量 20%–100%+。反馈元分析中仅 9/68 效应量用标准化测试，早期干预元分析中 37/39 个——反馈效应量系统性更高，不是因为反馈更有效（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.11–14]]）。
 
 > [!critique-fatal] 效应量应更名为"效应清晰度"
-> [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017, p.14)]]提出效应量"名字起得不好"——应称为**效应清晰度（effect clarity）**。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——如 Lipsey and Hurley（2009）推荐的"最小化组内变异以使处理差异更突出"——这是良好实验设计，但与干预的教育价值无关。
+> [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017, p.14)]]提出效应量"名字起得不好"——应称为**效应清晰度（effect clarity）**。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——如 Lipsey and Hurley（2009）推荐的"最小化组内变异以使处理差异更突出"——这是良好[[Experimental Research|实验设计]]，但与干预的教育价值无关。
 
 ---
 
@@ -297,7 +302,7 @@ updated: 2026-10-22
 > [!critique-fatal] 类别错误：效应量测量的是试验清晰度
 > Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个类别错误。按身高而非腿长选购裤子是较小的[[Category Mistake|范畴错误]]（两者有相关性）；按姓氏长度选购裤子是较大的范畴错误（无相关）。效应量作为教育影响力的代理属于后者——"几乎没有明显的理由相信教育影响力与研究清晰度密切相关"（[[Argument_Simpson_2019_ERE\|Simpson, 2019, pp. 105–106]]）。
 >
-> **CPR 反例** 教人心脏复苏术——在正确情境下字面意义上救命——如果在异质样本上测试、使用标准化急救测试、与有效替代教学法比较，可能产生很小的效应量。"如果我们把效应量解读为实践显著性而非试验清晰度，我们可能拒绝一个实际上非常重要的方法。"（p. 106）
+> **[[Committee of Permanent Representatives to ASEAN|CPR]] 反例** 教人心脏复苏术——在正确情境下字面意义上救命——如果在异质样本上测试、使用标准化急救测试、与有效替代教学法比较，可能产生很小的效应量。"如果我们把效应量解读为实践显著性而非试验清晰度，我们可能拒绝一个实际上非常重要的方法。"（p. 106）
 
 ---
 
@@ -310,7 +315,7 @@ updated: 2026-10-22
 > "我们最大的挑战是驯服我们发现中的变异，不是通过颁布这样或那样的标准协议，而是通过描述和解释我们发现中的变异性。元分析的结果永远不应该是平均值；它应该是一张图。"（Glass, cited in Robinson, 2004; cited in Wrigley & McCusker, 2019, p. 119）
 
 > [!example] EEF Toolkit 体育参与案例
-> [[EEF Teaching and Learning Toolkit]] 报告体育参与的平均效应量为 0.17（约 +2 个月进步）。追踪其三级数据来源发现（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–123]]）：该 0.17 是对四个效应量（来自三个元分析）加权平均得来；其中 Newman et al.（2010）报告的 0.80（数学）来自[[Playing for Success]]，一个在著名足球场进行的包含一对一辅导、专用 ICT 设备和个性化课程的高度资源密集型项目，与普通"体育参与"几乎不可比；Shulruf（2010）的源元分析主要结论恰恰是"没有稳健证据表明课外活动与学生成果之间存在[[Causality\|因果关系]]"（p. 607）。
+> [[EEF Teaching and Learning Toolkit]] 报告体育参与的平均效应量为 0.17（约 +2 个月进步）。追踪其三级数据来源发现（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–123]]）：该 0.17 是对四个效应量（来自三个元分析）加权平均得来；其中 Newman et al.（2010）报告的 0.80（数学）来自[[Playing for Success]]，一个在著名足球场进行的包含一对一辅导、专用 ICT 设备和个性化课程的高度资源密集型项目，与普通"体育参与"几乎不可比；Shulruf（2010）的源元分析主要结论恰恰是"没有稳健证据表明[[Extracurricular Activities|课外活动]]与学生成果之间存在[[Causality\|因果关系]]"（p. 607）。
 
 **"苹果和橙子"问题** 根本不同的干预措施被聚合产生单一平均效应量，违背 Glass 最初的警告([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 118–119]])。
 

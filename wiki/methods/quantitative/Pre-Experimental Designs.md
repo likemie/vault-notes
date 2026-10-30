@@ -39,11 +39,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 前实验设计（Pre-Experimental Designs）是[[Experimental Research\|实验研究]]中[[Internal Validity\|内部效度]]最低的一类设计。这类[[Design-Based Research\|设计研究]]单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
+> 前[[Experimental Research|实验设计]]（Pre-Experimental Designs）是[[Experimental Research\|实验研究]]中[[Internal Validity\|内部效度]]最低的一类设计。这类[[Design-Based Research\|设计研究]]单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!example] 方法变体
 > 前实验设计包含以下四种主要变体（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8, Example 8.1），使用 Campbell and Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：

@@ -8,7 +8,7 @@ aliases:
 summary: "由克鲁格与德尼西提出的反馈干预理论，主张反馈通过调节任务学习、任务动机与自我三个层级的注意力分配发挥作用，揭示了反馈具有高度情境脆弱性与超过三分之一的负向抑制效应，构成了现代教学反馈与绩效控制研究的关键理论基石"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 30
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Visible Learning]]"
   - "[[Learning Gain]]"
+  - "[[Task Complexity]]"
+  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[Sense of Shame]]"
   - "[[Research Question]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （反馈干预理论）
@@ -84,9 +86,9 @@ updated: 2026-10-22
 
 > [!dev-timeline] 理论演变历程
 > - **1996 — FIT 原初理论确立** 克鲁格与德尼西正式界定三层级控制架构，确立任务注意焦点对绩效的关键调节作用，实证揭示反馈干预中存在 38% 的负效应。
-> - **1998 — 任务复杂性与认知负荷扩展** 克鲁格与德尼西（Kluger & DeNisi, 1998）进一步将任务复杂性（Task Complexity）与计算机化自适应反馈引入模型，阐明复杂推理任务比机械识记任务更容易受到反馈的不利干扰。
+> - **1998 — 任务复杂性与认知负荷扩展** 克鲁格与德尼西（Kluger & DeNisi, 1998）进一步将任务复杂性（[[Task Complexity]]）与计算机化自适应反馈引入模型，阐明复杂推理任务比机械识记任务更容易受到反馈的不利干扰。
 > - **2007 — [[John Hattie|哈蒂]]与蒂姆珀利借用与简化** 哈蒂与蒂姆珀利（Hattie & Timperley, 2007）吸收 FIT 的分层思想，提出任务层、过程层、自我调节层与自我层的四层级模型，但抽离了 FIT 对负效应机制的警示，营造了反馈普遍强效的乐观叙事。
-> - **2021 — 批判视角的思想史质检** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）将 FIT 元分析数据与哈蒂《[[Visible Learning|可见的学习]]》进行逐项文献学对比，指出 FIT 是哈蒂支撑体系中唯一契合定义的元分析，证实哈蒂将 FIT 仅 0.38 的中低均值与 38% 负效应湮没在其他异质非反馈研究的高均值中，严重背离了 FIT 的理论初衷。
+> - **2021 — 批判视角的思想史质检** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）将 FIT 元分析数据与哈蒂《[[Visible Learning|可见的学习]]》进行逐项[[Document|文献]]学对比，指出 FIT 是哈蒂支撑体系中唯一契合定义的元分析，证实哈蒂将 FIT 仅 0.38 的中低均值与 38% 负效应湮没在其他异质非反馈研究的高均值中，严重背离了 FIT 的理论初衷。
 
 ---
 

@@ -9,9 +9,9 @@ subtype: organization
 region: asia
 fact_region: "asia"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "区域教育规划科研与培训机构网络"
 headquarters: "新德里（印度，常设秘书处）"
@@ -25,6 +25,7 @@ tags:
   - theme/south-south-cooperation
 related_concepts:
   - "[[South-South Cooperation]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
@@ -37,12 +38,13 @@ related_facts:
   - "[[CORE Education]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[SEAMEO]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -67,9 +69,9 @@ updated: 2026-10-26
 ---
 
 > [!actor-grid] 组织治理架构
-> - **会员机构网络** 汇聚亚洲 20 余所核心国家级规划与行政学院（如印度 NIEPA、[[Ministry of Education of the People's Republic of China|中国教育部]]教育发展研究中心/教科院、斯里兰卡国立教育学院 NIE、菲律宾 SEAMEO INNOTECH 等）。
+> - **会员机构网络** 汇聚亚洲 20 余所核心国家级规划与行政学院（如印度 NIEPA、[[Ministry of Education of the People's Republic of China|中国教育部]]教育发展研究中心/教科院、斯里兰卡国立教育学院 NIE、菲律宾 [[SEAMEO]] INNOTECH 等）。
 > - **轮值协调机制** 设立指导委员会，由成员机构负责人轮流执掌，定期商定联合研究题目与跨国研修安排。
-> - **IIEP 联合技术支撑** UNESCO IIEP 长期作为技术观察员与顾问机构，提供方法论与最新国际比较文献支持。
+> - **IIEP 联合技术支撑** UNESCO IIEP 长期作为技术观察员与顾问机构，提供方法论与最新国际比较[[Document|文献]]支持。
 
 ---
 

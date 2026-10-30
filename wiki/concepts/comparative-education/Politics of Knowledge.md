@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与欧盟治理研究中，指将科研、创新、教育与培训重新界定为关乎地缘政治与经济竞争力的“核心无形投资”，进而通过超国家宏观议程整合并掌舵成员国教育政策的话语与制度范式；它打破了传统教育作为文化自治与公共福利的边界，为里斯本战略和全景敞视式软法监控奠定了宏观政策矩阵。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,47 +20,49 @@ tags:
   - knowledge-economy
   - educational-governance
 related_concepts:
+  - "[[Geopolitics]]"
+  - "[[Paradigm]]"
   - "[[Europe of Knowledge]]"
+  - "[[Critical Pedagogy]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[European Education Space]]"
+  - "[[Open Method of Coordination]]"
+  - "[[Discourse]]"
+  - "[[Knowledge Production]]"
   - "[[Competitiveness]]"
-  - "[[Lifelong Learning]]"
-  - "[[Employability]]"
-  - "[[Regimes of Truth]]"
+  - "[[Epistemology]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Epistemic Inequality]]"
   - "[[Technologies of Surveillance]]"
+  - "[[European Education Space]]"
+  - "[[Document]]"
   - "[[Aggressive Intergovernmentalism]]"
 related_theories:
   - "[[Human Capital Theory]]"
-  - "[[Governmentality]]"
   - "[[Panopticism]]"
-related_methods:
-  - "[[Critical Discourse Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Lisbon Strategy]]"
-  - "[[EU]]"
   - "[[European Commission]]"
-  - "[[Teaching and Learning - Towards the Learning Society]]"
-  - "[[Growth, Competitiveness, Employment]]"
-  - "[[Education and Training 2010]]"
+  - "[[EU]]"
+  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Politics of Knowledge
-> **知识政治（Politics of Knowledge）** 在比较教育学与跨国政策研究中，特指一种将科学研究、技术创新、教育与职业培训重构为直接关乎超国家实体经济增长与地缘政治存亡的“核心无形投资”（immaterial investments），并借此建立跨国协调与监控矩阵的政策范式。该概念由欧盟委员会在 1997 年《2000 年议程》（*Agenda 2000*）中正式提出，并在《迈向知识欧洲》（*Towards a Europe of Knowledge*）中系统阐发，后经帕西亚斯（George Pasias）与鲁萨基斯（Yannis Roussakis）等批判教育学者深入剖析。知识政治把教育政策与欧盟的经贸、就业及社会凝聚议程紧密绑定，完成了教育从国家文化自治领域向欧洲知识经济战略中枢的制度性转轨，为 2000 年[[Lisbon Strategy|里斯本战略]]及[[Open Method of Coordination|开放协调法]]（OMC）监控体系搭建了核心话语网络与制度母体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
+> **知识政治（Politics of Knowledge）** 在比较教育学与跨国政策研究中，特指一种将科学研究、技术创新、教育与职业培训重构为直接关乎超国家实体经济增长与[[Geopolitics|地缘政治]]存亡的“核心无形投资”（immaterial investments），并借此建立跨国协调与监控矩阵的政策[[Paradigm|范式]]。该概念由[[European Commission|欧盟委员会]]在 1997 年《2000 年议程》（*Agenda 2000*）中正式提出，并在《迈向[[Europe of Knowledge|知识欧洲]]》（*Towards a Europe of Knowledge*）中系统阐发，后经帕西亚斯（George Pasias）与鲁萨基斯（Yannis Roussakis）等[[Critical Pedagogy|批判教育学]]者深入剖析。知识政治把教育政策与[[EU|欧盟]]的经贸、就业及社会凝聚议程紧密绑定，完成了教育从国家文化自治领域向欧洲[[Knowledge-Based Economy|知识经济]]战略中枢的制度性转轨，为 2000 年[[Lisbon Strategy|里斯本战略]]及[[Open Method of Coordination|开放协调法]]（OMC）监控体系搭建了核心[[Discourse|话语]]网络与制度母体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向把知识生产、传播与应用转化为超国家经济竞争与政治权力运作核心筹码的制度建构过程。
-> - **用途** 帮助研究者透视超国家机构如何利用“知识关乎未来存亡”的战略叙事，突破传统条约主权管辖限制，将分散的教育部门纳入统一的经贸竞争力框架。
-> - **边界** 侧重政策话语与治理维度的权力运作，区别于认识论层面的知识社会学，亦不同于宏观批判维度的知识地缘政治（[[Geopolitics of Knowledge]]）。
+> - **含义** 指向把[[Knowledge Production|知识生产]]、传播与应用转化为超国家经济竞争与政治权力运作核心筹码的制度建构过程。
+> - **用途** 帮助研究者透视超国家机构如何利用“知识关乎未来存亡”的战略叙事，突破传统条约主权管辖限制，将分散的教育部门纳入统一的经贸[[Competitiveness|竞争力]]框架。
+> - **边界** 侧重政策话语与治理维度的权力运作，区别于[[Epistemology|认识论]]层面的知识社会学，亦不同于宏观批判维度的[[Geopolitics of Knowledge|知识地缘政治]]（[[Geopolitics of Knowledge]]）。
 
 > [!citation-card] 关键表述
 > 只要技术研究、教育与培训构成了至关重要的无形投资，那么“知识政治”（涵盖创新、研究、教育与培训）就对欧洲的未来具有决定性影响。
@@ -69,7 +71,7 @@ updated: 2026-10-28
 
 > [!boundary]- 概念边界
 > - 不等于知识经济（[[Knowledge-Based Economy]]）：知识经济描述的是以知识与信息为核心生产要素的客观经济形态与产业结构；知识政治则是政治精英与治理机构为适应并塑造该形态而开展的话语建构、资源调配与监控权力安排。
-> - 不等于知识地缘政治（[[Geopolitics of Knowledge]]）：知识地缘政治侧重全球南方与北方之间中心—边缘知识等级秩序与认识论霸权的批判；欧洲知识政治特指欧盟内部整合科研、教育与产业以强化整体资本主义竞争优势的超国家治理议程。
+> - 不等于知识地缘政治（[[Geopolitics of Knowledge]]）：知识地缘政治侧重全球南方与北方之间中心—边缘知识等级秩序与[[Epistemic Inequality|认识论霸权]]的批判；欧洲知识政治特指欧盟内部整合科研、教育与产业以强化整体资本主义竞争优势的超国家治理议程。
 
 ---
 
@@ -78,7 +80,7 @@ updated: 2026-10-28
 > |---|---|---|---|
 > | **概念性质** | 政策治理与权力运作的范式项目 | 宏观经济与生产方式的形态描述 | 宏观政策话语与象征政治空间图景 |
 > | **核心机制** | 将教育与科研定性为无形投资并实施战略协调 | 知识作为首要生产要素驱动生产力与创新 | 融合知识、公民身份与就业三大政策维度 |
-> | **分析焦点** | 目标、实践与软法监视技术的权力母体 | 产业结构升级、技术密集型就业与产学研协作 | 超国家认同建构与欧洲教育空间的成型 |
+> | **分析焦点** | 目标、实践与软法[[Technologies of Surveillance\|监视技术]]的权力母体 | 产业结构升级、技术密集型就业与产学研协作 | 超国家认同建构与[[European Education Space\|欧洲教育空间]]的成型 |
 
 ---
 
@@ -117,7 +119,7 @@ updated: 2026-10-28
 > > - **批判比较教育学者（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）** 指出知识政治的话语建构从实质上确立了经济理性对教育领域的全面支配，使知识的评价尺度完全依附于其资本增殖能力。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
 
 > [!citation-card] 代表性评论
-> 这一文献中的知识政治，对于主导 1997 年后时期的核心政策言说与政策实践构成了根本基础。可以说，它们构成了 2000 年采纳的里斯本战略所占据的目标、实践与技术的母体。
+> 这一[[Document|文献]]中的知识政治，对于主导 1997 年后时期的核心政策言说与政策实践构成了根本基础。可以说，它们构成了 2000 年采纳的里斯本战略所占据的目标、实践与技术的母体。
 >
 > *The politics of knowledge in this document have been fundamental to the central policy talk and policy practices which have dominated the post-1997 period. It can be argued that they constitute the matrix of the objectives, the practices and the technologies occupied by the Lisbon Strategy, which was adopted in 2000.* ([[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, p. 486]])
 

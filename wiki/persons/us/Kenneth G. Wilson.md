@@ -9,10 +9,10 @@ summary: "美籍理论物理学家、1982 年诺贝尔物理学奖得主，曾�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1936"
 died: "2013"
 lifespan: "1936–2013"
@@ -21,15 +21,23 @@ tags:
   - theme/theoretical-physics
   - theme/science-of-science
   - theme/scientific-career
-related_concepts: []
+related_concepts:
+  - "[[Center of Calculation]]"
+  - "[[Emergence]]"
+  - "[[Paradigm]]"
+  - "[[Big Science]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
-  - "[[Career Shuffling Method]]"
   - "[[Drop-pin Projection]]"
+  - "[[Career Shuffling Method]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+related_facts:
+  - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
@@ -41,12 +49,12 @@ updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍理论物理学家，美国国家科学院院士，曾任康奈尔大学讲席教授与超级计算中心创始主任。
+> - **身份位置** 美籍理论物理学家，[[National Academy of Sciences|美国国家科学院]]院士，曾任康奈尔大学讲席教授与超级[[Center of Calculation|计算中心]]创始主任。
 > - **核心角色** 量子场论与统计物理相变理论的革命性领军人物；在现代科学学中作为学者个体学术生涯被引轨迹投影的标准典型案例。
-> - **代表贡献** 创立算符乘积展开与重整化群方法，荣获 1982 年诺贝尔物理学奖；其 48 篇论著的发表时间与十年引文高度被作为阐述生涯打乱模型与随机影响规律的参照蓝本。
+> - **代表贡献** 创立算符乘积展开与重整化群方法，荣获 1982 年诺贝尔物理学奖；其 48 篇论著的发表时间与十年引文高度被作为阐述生涯打乱模型与[[Random Impact Rule|随机影响规律]]的参照蓝本。
 
-> [!citation-card] 王大顺与巴拉巴西论威尔逊的学术生涯[[Drop-pin Projection|图钉投影]]
-> 威尔逊的学术时间线始于他的第一篇论著。每当他发表一篇新成果，就在对应年份插入一枚图钉，图钉的高度精确反映该论著发表后十年的被引数量。威尔逊最具影响力的代表作发表于 1974 年，即入行第 9 年，也是其全部 48 篇论著中的第 17 篇。通过随机打乱这些图钉的位置，可以检验重大影响的涌现是否受发表时间次序的内在约束。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
+> [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论威尔逊的学术生涯[[Drop-pin Projection|图钉投影]]
+> 威尔逊的学术时间线始于他的第一篇论著。每当他发表一篇新成果，就在对应年份插入一枚图钉，图钉的高度精确反映该论著发表后十年的被引数量。威尔逊最具影响力的代表作发表于 1974 年，即入行第 9 年，也是其全部 48 篇论著中的第 17 篇。通过随机打乱这些图钉的位置，可以检验重大影响的[[Emergence|涌现]]是否受发表时间次序的内在约束。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
 >
 > *This 'drop pin' view allows us to represent the career of every scientist in the same way... Wilson's highest impact paper was published in 1974, 9 years after his first publication; it is the 17th of his 48 papers, hence t* = 9, N* = 17, N = 48.*
 
@@ -75,9 +83,9 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论物理路径** 创立重整化群方法，打通从微观量子场论到宏观相变临界现象的跨尺度计算桥梁，彻底改写凝聚态与高能物理学研究范式。
-> - **计算科学路径** 极力倡导大科学计算在基础物理中的应用，创办康奈尔超级计算中心并推动格点量子色动力学数值模拟。
-> - **科学学与计量学路径** 其 48 篇紧凑论著序列被选定为图钉投影法的标准演示范式，为全样本学者反事实生涯打乱实验奠定微观基准。
+> - **理论物理路径** 创立重整化群方法，打通从微观量子场论到宏观相变临界现象的跨尺度计算桥梁，彻底改写凝聚态与高能物理学[[Paradigm|研究范式]]。
+> - **计算科学路径** 极力倡导[[Big Science|大科学]]计算在基础物理中的应用，创办康奈尔超级计算中心并推动格点量子色动力学数值模拟。
+> - **科学学与计量学路径** 其 48 篇紧凑论著序列被选定为图钉投影法的标准演示范式，为全样本学者[[Counterfactual|反事实]]生涯打乱实验奠定微观基准。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 以威尔逊的真实发表轨迹与随机打乱轨迹进行直观投影对照，作为全书阐释随机影响法则的代表性案例。

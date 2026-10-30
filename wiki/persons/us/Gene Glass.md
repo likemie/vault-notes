@@ -8,7 +8,7 @@ summary: "美国教育心理学家与统计学家 1976年创造元分析一词�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Publication Bias]]"
   - "[[Epistemology]]"
+  - "[[Differentiated Instruction]]"
   - "[[Empiricism]]"
   - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Research Scope]]"
   - "[[Epistemic Value]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Incommensurability]]"
   - "[[Falsification]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -107,7 +109,7 @@ updated: 2026-10-22
 > [!math-def] 标准化[[Effect Size|效应量]]测度：Glass's $\Delta$ 的数理设定与除数逻辑
 > 格拉斯针对实验干预与对照设计的元分析提出标准化均值差度量 Glass's $\Delta$：
 > $$\Delta = \frac{\bar{x}_E - \bar{x}_C}{s_C}$$
-> 式中 $\bar{x}_E$ 与 $\bar{x}_C$ 分别为实验组与对照组的均值，$s_C$ 为对照组的标准差。格拉斯坚持**以对照组标准差 $s_C$ 作为唯一除数**，其统计学立论在于：实验干预极可能同时改变实验组内部的分散程度（例如差异化教学可能拉大高低能力者差距而扩大方差，或补救辅导可能压制离群值而缩小方差，即 $s_E \neq s_C$）。若采用两组合并标准差（$s_{\text{pooled}}$），效应量的分母将被干预效应所污染；唯有未受干预触碰的对照组标准差，才能提供反映总体变异的纯净基线度量。这一设定与[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）的 $d$（假定方差齐性采用 $s_{\text{pooled}}$）构成早期实证量化综合的两大经典基石。
+> 式中 $\bar{x}_E$ 与 $\bar{x}_C$ 分别为实验组与对照组的均值，$s_C$ 为对照组的标准差。格拉斯坚持**以对照组标准差 $s_C$ 作为唯一除数**，其统计学立论在于：实验干预极可能同时改变实验组内部的分散程度（例如[[Differentiated Instruction|差异化教学]]可能拉大高低能力者差距而扩大方差，或补救辅导可能压制离群值而缩小方差，即 $s_E \neq s_C$）。若采用两组合并标准差（$s_{\text{pooled}}$），效应量的分母将被干预效应所污染；唯有未受干预触碰的对照组标准差，才能提供反映总体变异的纯净基线度量。这一设定与[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）的 $d$（假定方差齐性采用 $s_{\text{pooled}}$）构成早期实证量化综合的两大经典基石。
 
 > [!citation-card] 混合苹果与橙子的科学辩护
 > 当然它混合了苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
@@ -178,7 +180,7 @@ updated: 2026-10-22
 > *Synthesizing evidence across research boundaries is not aimed at erasing differences between studies, but at understanding what conditions produce fluctuations in effects. Exploring the distribution of variability itself is the irreplaceable epistemological value of meta-analysis.*
 
 > [!citation-card] [[Class Size|班级规模]]实验证据的政策篡改
-> 哈蒂声称从格拉斯与史密斯（1979）的元分析中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]，但 Glass 与 Smith 在该文献正文中根本没有报告过该数值……[[John Hattie|哈蒂]]极有可能是单独截取了曲线最右端极其平缓的局部尾部，从而将班级规模在小班阶段呈现的急剧攀升收益完全抹杀。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 32–33)]]
+> 哈蒂声称从格拉斯与史密斯（1979）的元分析中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]，但 Glass 与 Smith 在该[[Document|文献]]正文中根本没有报告过该数值……[[John Hattie|哈蒂]]极有可能是单独截取了曲线最右端极其平缓的局部尾部，从而将班级规模在小班阶段呈现的急剧攀升收益完全抹杀。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 32–33)]]
 >
 > *Hattie claimed to extract a meager effect size of d=0.09 from Glass and Smith's (1979) meta-analysis, yet Glass and Smith never reported this figure in their text... Hattie most likely isolated the far right, extremely flat tail of the curve, completely erasing the dramatic gains achieved when reducing class sizes to smaller levels.*
 

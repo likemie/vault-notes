@@ -7,7 +7,7 @@ aliases:
 summary: "将数字设备和资源常规嵌入课堂教学的系统性改革，评价难点在于技术不是单一干预而会与课程、教师发展和组织条件交互"
 type: concept
 domain: "educational-technology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Homework]]"
+  - "[[Personalized Learning]]"
   - "[[Success Criteria]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > - BCPS 的 [[Students and Teachers Accessing Tomorrow\|STAT]] 案例显示，技术融入在教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致积极进展，但英语语言艺术和数学成就证据并不明确([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.118-123]])。
 
 > [!warning] 争议与批评
-> 技术融入的效果很难被严格隔离。学区范围改革往往没有纯粹控制组，技术应用也与教师专业发展、个性化学习、课程改革和领导变化交织在一起；即使发现结果改善，也难以判断究竟是哪一部分起了作用([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.114]])。
+> 技术融入的效果很难被严格隔离。学区范围改革往往没有纯粹控制组，技术应用也与教师专业发展、[[Personalized Learning|个性化学习]]、课程改革和领导变化交织在一起；即使发现结果改善，也难以判断究竟是哪一部分起了作用([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.114]])。
 
 > [!warning|notitle]
 > 以学生成就作为唯一[[Success Criteria\|成功标准]]会压缩技术融入的教育目标。技术融入可能同时追求学生动机、教师时间释放、教学多样化、技术技能发展和技术可及性公平；这些目标不一定会在短期标准化测验中表现为显著成就提升([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.110-113, 123]])。

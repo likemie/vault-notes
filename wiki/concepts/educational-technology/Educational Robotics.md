@@ -9,10 +9,10 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-technology
   - ai-in-education
@@ -35,7 +35,9 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Paradigm]]"
   - "[[Dependent Variable]]"
+  - "[[Variable]]"
   - "[[AI Agent in Education]]"
+  - "[[Game-Based Learning]]"
 related_theories: []
 related_methods:
   - "[[Time Series Design]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 > [!def] Educational Robotics
@@ -128,11 +130,11 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
 >
-> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 具身多模态互动，对学前至小学阶段语言听说伴读与[[Game-Based Learning|游戏化学习]]增益尤为显著
 
 ---
 

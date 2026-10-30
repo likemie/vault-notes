@@ -10,7 +10,7 @@ summary: "美籍物理学家与发明家，1956 年诺贝尔物理学奖得主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
+  - "[[Scientific Credit]]"
   - "[[Research Topic]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-29
 > > [!axis] 晚年遗传智力论引发的严厉批判
 > > 肖克利在职业生涯晚期公开发表关于种族与智商遗传倾向的非专业言论，主张激进优生政策，遭到遗传学、心理学与人类学界的一致驳斥与强烈谴责。
 > >
-> > - **美国国家科学院与学术界声明（1970s）** 肖克利相关观点缺乏严肃科学证据支撑，违背经验实证规范，对其科学声誉造成了不可逆转的损害。
+> > - **美国国家科学院与学术界声明（1970s）** 肖克利相关观点缺乏严肃科学证据支撑，违背经验实证规范，对其[[Scientific Credit|科学声誉]]造成了不可逆转的损害。
 
 ---
 

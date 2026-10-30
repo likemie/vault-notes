@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 107
-argument_related_level: 10
-argument_related_stars: "💎💎💎⭐"
+argument_related_count: 113
+argument_related_level: 11
+argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: 金榜题名之后：大学生出路分化之谜
 publication_place: 上海
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Epoché]]"
   - "[[Cultural Capital]]"
+  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Academic and Social Integration]]"
   - "[[Academic Engagement]]"
@@ -47,9 +48,10 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Grandes Ecoles]]"
-  - "[[Habitus]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Credential Inflation]]"
+  - "[[Study Abroad]]"
   - "[[Employability]]"
   - "[[Socioeconomic Status]]"
   - "[[Theoretical Perspective]]"
@@ -60,6 +62,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
+  - "[[Extracurricular Activities]]"
   - "[[Language Skills]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Symbolic Boundary]]"
@@ -72,12 +75,14 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Objectivism]]"
   - "[[Internal Validity]]"
+  - "[[Adjustment to College]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Coherence in Writing]]"
   - "[[Chain of Evidence]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Structural Holes]]"
+  - "[[Home Environment]]"
   - "[[Self-Authorship]]"
   - "[[Quality Education]]"
   - "[[Peidu]]"
@@ -135,6 +140,7 @@ related_facts:
   - "[[Coleman Report 1966]]"
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[China College Graduate Employment Reform]]"
+  - "[[Double First-Class Initiative]]"
 related_arguments: []
 sources:
   - "[[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]"
@@ -143,7 +149,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2023
 doi: ""
 citation_aliases:
@@ -163,7 +169,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > 全书整合三条理论脉络，建构"资本化过程—投入过程—价值选择过程"三层嵌套[[Analytic Framework\|分析框架]]：
 
-- **[[Pierre Bourdieu]]**（习性／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入大学时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。
+- **[[Pierre Bourdieu]]**（[[Habitus|习性]]／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入大学时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。
 
 - **高等教育过程理论（[[Academic and Social Integration|Tinto 融入理论]] + Kuh 投入理论）**— 框定学生在校期间的能动性空间，以"[[Academic Engagement|学业投入]]"和"[[Social Engagement|社会性投入]]"为双轴分析两种模式的行为差异。
 
@@ -253,7 +259,7 @@ citation_aliases:
 
 ### 第一章 迷宫
 
-**本章性质：** 纯[[Literature Review|文献综述]]章。以已有研究和统计数据为据，为读者勾勒精英大学这一"游戏场"的基本布局和竞争规则。所有发现均来自**以往文献**，尚未进入本书自身的质性分析。
+**本章性质：** 纯[[Literature Review|文献综述]]章。以已有研究和统计数据为据，为读者勾勒精英大学这一"游戏场"的基本布局和竞争规则。所有发现均来自**以往[[Document|文献]]**，尚未进入本书自身的质性分析。
 
 **核心论证链：** 当代精英大学是一个布迪厄意义上的"游戏场"（[[Champ]]）→ 这个场域的"游戏规则"对学生提出了特定的隐性要求 → 不同阶层出身的学生在获知和满足这些要求方面面临天差地别的难度。
 
@@ -289,7 +295,7 @@ citation_aliases:
 **趋势二：全球化引发"出国潮" → 跨境竞争的新维度**
 
 - 2003 年取消自费留学审批和费用征收（刘国福，2009）
-- 2018 年出国留学总数 66.21 万人（教育部数据），中国为全球最大留学生来源国
+- 2018 年[[Study Abroad|出国留学]]总数 66.21 万人（教育部数据），中国为全球最大留学生来源国
 - 北京大学、复旦大学等 4 所部属高校毕业生出国深造率超 30%（《中国留学发展趋势报告》，2017）
 
 出国的隐性要求链条：优秀学业记录 + 托福/GRE + 教授推荐信 + 个人陈述 + 研究经历 + 境外交流经历 + 留学中介费用（动辄数万元）+ 海外生活开支。"选校、编写简历、撰写申请文书、准备面试……是一项事无巨细的系统工程，需要花费 1 至 2 年甚至更长的时间"（引康娜和蔡立佳, 2016）。
@@ -311,7 +317,7 @@ citation_aliases:
 
 **第三步：绘出迷宫的地图——三条出口及其筹码体系**
 
-对历年双一流高校毕业生就业质量报告的观察：毕业出路基本分为三条——出国留学、国内读研、求职就业。三条出口坐落在迷宫尽头的不同方位，各自对筹码的要求不同：
+对历年[[Double First-Class Initiative|双一流]]高校毕业生就业质量报告的观察：毕业出路基本分为三条——出国留学、国内读研、求职就业。三条出口坐落在迷宫尽头的不同方位，各自对筹码的要求不同：
 
 | 出口 | 关键筹码 | 准备时间线 | 隐性要求 |
 |------|---------|-----------|---------|
@@ -401,7 +407,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 在社会学家眼中，大学这个竞技场"绝不是公平公正的"：
 
-- **经济资本** 充分参与校园活动需要强大经济支持；贫困学生须打工兼职 → 挤出课外活动和实践机会
+- **经济资本** 充分参与校园活动需要强大经济支持；贫困学生须打工兼职 → 挤出[[Extracurricular Activities|课外活动]]和实践机会
 - **社会资本** 嵌入人际关系的社会网络对学业表现、满意度、阶级意识形成有重要影响；学生社交网络 + 家庭社会关系 → 关键作用在求职、婚恋、置业等（引 Arum, Budig & Roksa, 2008, Lareau & Cox, 2011, Bian, 1997）
 - **文化资本（最核心）** 继承自家庭的文化资本（[[Language Skills|语言能力]]、审美偏好、文化意识、知识）解释学校成功。教育系统不仅不中立，更是"实施与优势阶层具有某种'亲缘关系'的文化专断，从而以隐蔽方式合法化再生产秩序"（引 Bourdieu & Passeron, 1977, 1979）
 
@@ -654,7 +660,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 | 题号 | 问题 | 理论意图 |
 |------|------|---------|
 | 1 | 请简要谈谈你的家庭、求学经历 | 建立生活史基线，识别关键转折点和重要他人 |
-| 2 | 你从小到大一直是优等生吗？ | 探测学业自我概念的稳定性——优等生身份的连续／断裂为后续大学适应提供参照 |
+| 2 | 你从小到大一直是优等生吗？ | 探测学业自我概念的稳定性——优等生身份的连续／断裂为后续[[Adjustment to College\|大学适应]]提供参照 |
 | 3 | 你如何解释自己的优秀？ | 开放性问题——考察被访者是否将成功归因于个人努力（个体化叙事）还是结构性因素（社会叙事），此为[[Habitus]]的反映 |
 | 4 | 父母对你从小抱有什么样的期望？他们是怎样培养你的？ | 探测家庭教育模式——是"协作培养"（concerted cultivation）还是"自然成长"（accomplishment of natural growth），揭示早期文化资本积累模式 |
 | 5 | 父母追求什么样的人生价值？他们对你的人生追求有何引导？ | 操作化"家庭文化传递"——父母的价值取向如何形塑子女的价值图式（深层内化 vs 浅层知晓） |
@@ -761,7 +767,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 ### 第三章 家境
 
-**本章定位：** 全书三层论证结构的第一层——"家境的影响"。对应分析框架中最外层的**资本化过程** 家庭赋予的经济、文化、社会资源如何转化为学生在大学场域中的初始竞争优势或劣势。核心论点为：[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]并非个体自由选择的结果，而是不同阶层习性在大学前教育经历和家庭环境中深刻具身化而形成的系统性倾向差异。
+**本章定位：** 全书三层论证结构的第一层——"家境的影响"。对应分析框架中最外层的**资本化过程** 家庭赋予的经济、文化、社会资源如何转化为学生在大学场域中的初始竞争优势或劣势。核心论点为：[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]并非个体自由选择的结果，而是不同阶层习性在大学前教育经历和[[Home Environment|家庭环境]]中深刻具身化而形成的系统性倾向差异。
 
 **本章论证结构：** 现象呈现（两极个案对比）→ 概念建构（两种实践模式的定义与维表）→ 成因分析（中学教育经历 + 父母决策角色）→ 场域冲击（选专业、大学初体验）→ 理论收束（迷宫游戏比喻）。
 

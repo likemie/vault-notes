@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划的实操评估概念，涵盖研究准入、研究者自身、时间、资源、研究影响力和研究范围六个约束维度，以及对应的九项自检清单，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Informed Consent]]"
   - "[[Research Topic]]"
+  - "[[Student Depression]]"
   - "[[Literature Review]]"
+  - "[[Student Motivation]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Creativity]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!def] Research Practicability
@@ -77,7 +79,7 @@ updated: 2026-10-22
 > 除了准入对象，研究者自身也需要纳入考量。需要考虑人格适配（人格、性情、同理心是否匹配该研究类型）、技能适配（人际关系技能、情商、情感智力是否足够）、毅力适配、专长适配和投入适配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 > [!case] 研究者人格与[[Research Topic\|研究主题]]的灾难性失配
-> 一位研究者想研究学生抑郁症，但她内心认为学生只是懒惰或工作回避，把情绪低落当作借口，即拒绝承认抑郁症作为临床状况或病理障碍的严重性。这样的研究者去研究抑郁症，对研究者和参与者都可能是灾难。同样，毅力有限或即将移居海外时，选择长期投入的研究也不明智。
+> 一位研究者想研究[[Student Depression|学生抑郁]]症，但她内心认为学生只是懒惰或工作回避，把情绪低落当作借口，即拒绝承认抑郁症作为临床状况或病理障碍的严重性。这样的研究者去研究抑郁症，对研究者和参与者都可能是灾难。同样，毅力有限或即将移居海外时，选择长期投入的研究也不明智。
 
 专长不足时，[[Literature Review|文献综述]]是建立专长的第一步——研究者须通过文献综述展示对该领域的充分了解，知道该做什么、找什么、在哪做、何时做和如何做。
 
@@ -108,7 +110,7 @@ updated: 2026-10-22
 > [!claim] 窄而深，而非宽而浅
 > 一项研究应保持狭窄和有限的范围，以实现可管理性和严谨性。俗话说吃大象的最佳方式是一次一口。没有边界的课题会在任何地方漫游，实际上哪里也去不了（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
-> [!case] 范围失控的典型：学生生物学学习动机研究
+> [!case] 范围失控的典型：学生生物学[[Student Motivation|学习动机]]研究
 > 如果要研究学生生物学学习动机，不仅涉及识别大量自[[Variable\|变量]]，还需处理可能的数据过载，并确保所有动机理论都被纳入——这迅速失控，成为不可能完成的任务。正确的做法是：处理一到两种动机理论，限定明确的[[Independent Variable\|自变量]]范围，针对特定年龄段或特定经验类型的学生。
 
 > [!success] 小样本窄聚焦的成功案例

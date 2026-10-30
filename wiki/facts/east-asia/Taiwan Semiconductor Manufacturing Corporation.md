@@ -11,7 +11,7 @@ subtype: organization
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Agglomeration Externalities]]"
   - "[[Strategic Autonomy]]"
   - "[[Research Universities]]"
+  - "[[Document]]"
   - "[[Policy Conditionalities]]"
   - "[[National Innovation System]]"
   - "[[Pilot Scale Platform]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-10-22
 > | [[Learning by Doing]] | Concept | 晶圆制造良率提升的组织化学习曲线是台积电拉大与追赶者制程成本代差的核心动力。 |
 > | [[Strategic Autonomy]] | Concept | 美欧引进台积电设厂的深层战略动因，在于摆脱对单一地缘热点的先进制程制造依赖以实现供应链自主。 |
 > | [[Research Universities]] | Concept | 作为城市与区域创新网络的[[Anchor Institution\|锚定机构]]（如 ASU），为台积电等晶圆制造龙头集聚提供多级工程人才支撑。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析大学作为锚定机构吸引台积电入驻凤凰城并重塑城市创新网络的制度文献。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析大学作为锚定机构吸引台积电入驻凤凰城并重塑城市创新网络的制度[[Document\|文献]]。 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心（[[National Science and Technology Council\|NSTC]]）中试研发网络与纯代工巨头（TSMC）及产业界多方协同的战略机制。 |
 
 ---

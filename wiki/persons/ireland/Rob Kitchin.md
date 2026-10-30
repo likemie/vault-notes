@@ -8,7 +8,7 @@ summary: "爱尔兰梅努斯大学社会科学研究所教授，批判性数据�
 type: person
 nationality: ireland
 person_region: "ireland"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Habitus]]"
   - "[[Science and Technology Studies]]"
+  - "[[Document]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Emergence]]"
 related_theories: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **合作者** Tracey Lauriault — 加拿大卡尔顿大学学者，共同撰写批判性数据研究纲领性文献。
+> - **合作者** Tracey Lauriault — 加拿大卡尔顿大学学者，共同撰写批判性数据研究纲领性[[Document|文献]]。
 > - **合作者** Martin Dodge — 英国曼彻斯特大学地理学者，共同奠定代码/空间与地图绘制批判研究。
 > - **思想受益与扩展者** [[Sigrid Hartong]] — 将基钦的[[Data Infrastructure\|数据汇聚体]]框架全面引入学校监测与教育行政基础设施分析。
 

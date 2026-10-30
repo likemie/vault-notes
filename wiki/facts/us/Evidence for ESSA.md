@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Document]]"
   - "[[Preregistration]]"
   - "[[Developer-Made Measures]]"
   - "[[Statistical Analysis Plan]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-26
 > - **方案研发与出版机构** 大学研究中心、非营利机构与商业教育出版商，提供原始评估数据并接受独立复核。
 
 > [!pathways] 证据审查与快速上线规程
-> - **文献雷达扫描** 建立持续追踪机制，在新实证论文、政府技术报告或会议成果发布后 1 个月内完成抓取。
+> - **[[Document|文献]]雷达扫描** 建立持续追踪机制，在新实证论文、政府技术报告或会议成果发布后 1 个月内完成抓取。
 > - **五大约束门控** 严格核验研究是否满足独立测验、$\ge 12$ 周周期、第三方评估、[[Preregistration\|预注册]]及多层模型等核心门槛。
 > - **瓷砖卡片生成** 将通过审查的项目转化为直观的交互瓷砖卡片（Tile），展示受试人群、耗材成本与教师培训配套。
 

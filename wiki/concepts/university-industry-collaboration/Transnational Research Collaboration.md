@@ -6,7 +6,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Competitiveness]]"
+  - "[[Public Diplomacy]]"
   - "[[University-Industry Collaboration]]"
   - "[[Return on Investment]]"
   - "[[Geopolitics]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -65,7 +66,7 @@ updated: 2026-10-22
 >   1. **学术理性**（个体研究者层面）：获取国际资源、数据和研究设施，在高影响力国际期刊发表
 >   2. **制度理性**（机构层面）：满足研究基础设施需求、进行国际绩效对标、提升全球声誉和排名
 >   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济[[Competitiveness|竞争力]]
->   4. **外交理性**（国家层面）：将研究合作作为公共外交工具，维护和拓展国际关系网络
+>   4. **外交理性**（国家层面）：将研究合作作为[[Public Diplomacy|公共外交]]工具，维护和拓展国际关系网络
 > - **网络化转型** Castells (1996) 的[[Network Society\|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
 > - **国际[[University-Industry Collaboration\|产学合作]]的五维挑战** [[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al. (2025)]]从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
 >   1. **目标与激励对齐（Strategy/Alignment）** 大学追求科学发现和发表，产业看重[[Return on Investment\|投资回报]]；双方对价值的理解偏差更多源于感知而非现实，通过增加沟通可以缓解（pp.311–312）

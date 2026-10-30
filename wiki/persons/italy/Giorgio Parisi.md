@@ -7,7 +7,7 @@ summary: "意大利理论物理学家，罗马第一大学教授，2021年诺贝
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -31,20 +31,19 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 意大利理论物理学家、统计物理泰斗与复杂系统专家；罗马第一大学理论物理学名誉教授，法国[[Chinese Academy of Sciences|科学院]]、[[National Academy of Sciences|美国国家科学院]]外籍院士与意大利猞猁之眼国家科学院院长。
+> - **身份位置** 意大利理论物理学家、统计物理泰斗与复杂系统专家；罗马第一大学理论物理学名誉教授，法国科学院、[[National Academy of Sciences|美国国家科学院]]外籍院士与意大利猞猁之眼国家科学院院长。
 > - **核心角色** 2021 年因“发现从原子到行星尺度的物理系统中无序与波动的相互作用”荣获诺贝尔物理学奖；开创性地将统计物理与无序自旋玻璃模型跨界应用于生命与生物群体协同行为，揭示了大规模动物集群运动中的非线性自组织机制。
 > - **代表贡献** 领导“椋鸟飞行项目”（Starling Flocking Project），在罗马马西莫宫屋顶部署三维高速摄像阵列，证实椋鸟群体呈现盘状结构且运动转向由处于群边缘的外围个体率先发起并以极高速度在全群瞬时传播，为[[Swarm Intelligence|群智能]]（[[Swarm Intelligence]]）与[[Edge Autonomy|边缘自治]]（[[Edge Autonomy]]）提供了深层物理学与自组织解释。
 

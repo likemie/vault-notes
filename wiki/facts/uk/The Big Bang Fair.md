@@ -11,7 +11,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Public Engagement with Science]]"
   - "[[Rote Learning]]"
+  - "[[Student Motivation]]"
   - "[[Creativity]]"
   - "[[Informal Science Learning]]"
   - "[[Paradigm]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-26
 
 > [!policy-design] 启示
 > - **重大工业投资必须联动早期教育外展** 制造业巨头若仅在项目后期进行公关宣传，极易引发公众疏离；依托大爆炸博览会等全国性平台开展早期接触，是企业培育本土高技能未来人才队伍的长期生产性投资。
-> - **以赛事驱动真实探究替代[[Rote Learning\|死记硬背]]** 博览会竞赛机制证明，当赋予青少年自主命题、动手解决劣构工程问题的空间时，青少年的内在学习动机与[[Creativity\|创造力]]将得到最大程度释放，弥补了应试大纲对动手实验课时的挤压。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
+> - **以赛事驱动真实探究替代[[Rote Learning\|死记硬背]]** 博览会竞赛机制证明，当赋予青少年自主命题、动手解决劣构工程问题的空间时，青少年的内在[[Student Motivation|学习动机]]与[[Creativity\|创造力]]将得到最大程度释放，弥补了应试大纲对动手实验课时的挤压。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
 
 ---
 

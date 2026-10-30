@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 36
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Research Question]]"
   - "[[Policy Conditionalities]]"
+  - "[[School Vouchers]]"
   - "[[Determinism]]"
   - "[[Champ]]"
   - "[[Operationalization]]"
@@ -42,6 +43,7 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[Hegemony]]"
   - "[[Neocorporatism]]"
+  - "[[Neo-Weberian State]]"
   - "[[Strategic Bargaining Theory]]"
   - "[[State Corporatism]]"
 related_methods:
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -158,7 +160,7 @@ updated: 2026-10-22
 > | 命题四（本土政治生存否决边界） | **政策博弈与主权否决维度**<br>当外部国际金融机构条件与国内政治生存冲突时，国家表现为被动屈从还是行使实质否决？ | [[Policy Conditionalities\|贷款附加条件]]停摆率、内阁向工会妥协法令、争议性贷款违约或搁置档案。 | 若国家无条件牺牲本土社会承受力强推紧缩，支持代用国家受限判断；若国家主动叫停或变相架空外部条件以维系政治生存，表明受限性存在本土政治边界。 |
 
 > [!exegesis]- 智利皮诺切特军政权新自由主义教育重组的政治社会学分析
-> - **现象与问题** 智利在 1970–1980 年代军政府统治下，率先推行激进的学校分权化、教育券私有化与使用者付费，导致社会发生剧烈分化。
+> - **现象与问题** 智利在 1970–1980 年代军政府统治下，率先推行激进的学校分权化、[[School Vouchers|教育券]]私有化与使用者付费，导致社会发生剧烈分化。
 > - **维度与材料** 
 >   1. *政权性质*：[[Larissa Adler Lomnitz|洛姆尼茨]]与梅尔尼克（Lomnitz & Melnick, 1991）的人类学调查表明，军政权排斥工农与教师参与，依附于跨国新自由主义经济精英；
 >   2. *外部规训*：教育政策严格执行[[International Monetary Fund|国际货币基金组织]]与世界银行的紧缩方案；
@@ -186,7 +188,7 @@ updated: 2026-10-22
 > > - **[[Carlos Alberto Torres]]（2009）** 外围国家的教育现实是依附受制下的双轨固化，世界文化理论掩盖了资本积累的历史不平等。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
 >
 > > [!axis] 国家自主性与结构[[Determinism|决定论]]
-> > 新韦伯主义学者质疑受限国家理论过度受制于马克思主义经济决定论，抹杀了民族国家行政官僚相对独立的制度能动性。
+> > [[Neo-Weberian State|新韦伯主义]]学者质疑受限国家理论过度受制于马克思主义经济决定论，抹杀了民族国家行政官僚相对独立的制度能动性。
 > >
 > > - **Theda Skocpol（1985）** 现代国家拥有独立的行政、财政与安全利益，不能简单还原为资本积累或统治阶级的代用工具。
 > > - **Martin Carnoy（1992）** 在第三世界外围情境中，国家的财政与外债命脉受制于跨国资本，脱离依附现实空谈国家自主性是虚伪的。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–74)]]

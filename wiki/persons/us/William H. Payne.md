@@ -9,7 +9,7 @@ summary: "美国教育学家，密歇根大学首任教学科学与艺术讲座�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
+  - "[[Document]]"
   - "[[Positivism]]"
   - "[[Scientific Paradigm]]"
   - "[[Influences Across Cultures]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-26
 > [!influence-path] 影响路径
 > - **大学建制化路径** 1879 年佩恩教席的确立，打破了美国高等教育长期将[[Normal School|师范教育]]排斥在综合性大学之外的传统偏见，开启了密歇根、威斯康星、哥伦比亚等顶尖大学相继建立教育学系或师资培养学院的制度化浪潮。
 > - **比较教育萌芽路径** 佩恩在大学教育学发端之初就选择以“欧洲教育制度与学校”为首讲主题，确立了跨国考察在美国大学教育科学专业中的基石地位，直接启发了后世哥伦比亚大学等机构系统设立比较教育独立教席与研究生项目。
-> - **史学文献引介路径** 翻译出版贡佩雷的教育史著作，为 19 世纪末英语学界提供了第一批系统探讨欧洲大陆学制沿革的标准教科书，滋养了早期比较教育学者的人文历史底色。
+> - **史学[[Document|文献]]引介路径** 翻译出版贡佩雷的教育史著作，为 19 世纪末英语学界提供了第一批系统探讨欧洲大陆学制沿革的标准教科书，滋养了早期比较教育学者的人文历史底色。
 
 ---
 

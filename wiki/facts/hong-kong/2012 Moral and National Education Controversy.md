@@ -33,11 +33,11 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 背景
-> 2012 年，香港特区政府尝试为中小学引入**德育及国民教育科（Moral and [[National Education]], MNE）**，作为独立必修科目。该政策在回归后香港政治紧张局势加剧的背景下提出，旨在系统性地培养香港青少年对中华人民共和国的国家认同感。
+> 2012 年，香港特区政府尝试为中小学引入**德育及[[National Education|国民教育]]科（Moral and [[National Education]], MNE）**，作为独立必修科目。该政策在回归后香港政治紧张局势加剧的背景下提出，旨在系统性地培养香港青少年对中华人民共和国的国家认同感。
 
 > [!note] 经过
 > - **2012 年初** — 特区政府公布 MNE 课程指引，建议中小学于 2012-2013 学年开始引入该科目

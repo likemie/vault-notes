@@ -10,7 +10,7 @@ summary: "美籍经济学家，芝加哥大学经济学教授，美国国家经�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,20 +24,26 @@ tags:
   - theme/science-of-science
   - theme/scientific-career
 related_concepts:
-  - "[[Conceptual Innovators]]"
-  - "[[Experimental Innovators]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Conceptual Innovators]]"
+  - "[[Experimental Innovators]]"
+  - "[[Abstract]]"
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
 related_theories:
-  - "[[Burden of Knowledge]]"
-  - "[[Random Impact Rule]]"
-related_methods: []
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Werner Heisenberg]]"
-  - "[[John B. Fenn]]"
   - "[[Benjamin F. Jones]]"
-related_facts: []
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+  - "[[John B. Fenn]]"
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
@@ -50,13 +56,13 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍计量经济学家与艺术经济学家，芝加哥大学经济学教授，美国国家经济研究局（NBER）研究员。
-> - **核心角色** 创造力双模态分类体系的奠基人；将拍卖市场拍卖价格与教科书插图引用等经济学计量工具引入人类巅峰创造力生命周期研究，为理解学术峰值年龄方差提供了认识论维度的微观解释框架。
+> - **核心角色** [[Creativity|创造力]]双模态分类体系的奠基人；将拍卖市场拍卖价格与教科书插图引用等经济学计量工具引入人类巅峰创造力生命周期研究，为理解学术峰值年龄方差提供了[[Epistemology|认识论]]维度的微观解释框架。
 > - **代表贡献** 提出并实证检验[[Conceptual Innovators|概念型创新者]]与[[Experimental Innovators|实验型创新者]]两分法，揭示演绎与经验两类学者在巅峰产出年龄上存在的二十年规律性差距。
 
 > [!citation-card] 加伦森论两类创造力风格的本质分歧
 > 学术创造力广义上存在两个极端取向：概念型与实验型。实验型创新者采用归纳方式推进工作，从经验事实中持续积累知识，高度依赖前人积累并展现出更强的经验实证属性；概念型创新者采用演绎方式推进工作，运用先验抽象公理，研究展现出深厚的理论性与逻辑推理属性。这种方法论分歧直接决定了学者在生命周期的何时产出最佳代表作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 46)]]
 >
-> *There are, broadly speaking, two polar extremes in scholarly creativity: conceptual and experimental. Experimental innovators work inductively, accumulating knowledge from experience. This type of work relies heavily on the works of others and tends to be more empirical. Conceptual innovators work deductively, applying abstract principles. Consequently, their work tended to be more theoretical and derived from a priori logic. This distinction between experimental and conceptual creativity suggests that the nature of the work a scientist does affects when they do their best work.*
+> *There are, broadly speaking, two polar extremes in scholarly creativity: conceptual and experimental. Experimental innovators work inductively, accumulating knowledge from experience. This type of work relies heavily on the works of others and tends to be more empirical. Conceptual innovators work deductively, applying [[Abstract|abstract]] principles. Consequently, their work tended to be more theoretical and derived from a priori logic. This distinction between experimental and conceptual creativity suggests that the nature of the work a scientist does affects when they do their best work.*
 
 ---
 
@@ -75,24 +81,24 @@ updated: 2026-10-30
 > [!work-line] 主要著作
 > - **2001 — *Painting Outside the Lines: Patterns of Creativity in Modern Art*（哈佛大学出版社）** 运用画作拍卖价格峰值与教科书插图频次，实证揭示现代视觉艺术家在创造力达峰年龄上的两极分化。
 > - **2006 — *Old Masters and Young Geniuses: The Two Life Cycles of Artistic Creativity*（普林斯顿大学出版社）** 形式化确立概念型与实验型分类学，系统分析诺贝尔经济学奖得主完成奠基论著时的职业阶段。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
-> - **2006 — *Analyzing Artistic Creativity*（《应用经济学杂志》）** 阐释艺术经济学对广义人力资本理论与知识生产函数的拓展意义。
+> - **2006 — *Analyzing Artistic Creativity*（《应用经济学杂志》）** 阐释艺术经济学对广义[[Human Capital Theory|人力资本理论]]与[[Knowledge Production|知识生产]]函数的拓展意义。
 
 ---
 
 > [!claim] 核心思想
-> 戴维·加伦森（David Galenson）主张，人类最高智力成就的生命周期分布取决于其探索进路的内在认识论性质。概念型创新者依赖明确先验公理与演绎推理，追求以全新范式颠覆旧有教条，缺乏传统经验束缚的年轻阶段构成其突破的黄金期；实验型创新者依赖长期经验试错与素材归纳，其认知目标在反复摸索中逐步清晰，持久的专业积累赋予其不可替代的后发优势。
+> 戴维·加伦森（David Galenson）主张，人类最高智力成就的生命周期分布取决于其探索进路的内在认识论性质。概念型创新者依赖明确先验公理与演绎推理，追求以全新[[Paradigm|范式]]颠覆旧有教条，缺乏传统经验束缚的年轻阶段构成其突破的黄金期；实验型创新者依赖长期经验试错与素材归纳，其认知目标在反复摸索中逐步清晰，持久的专业积累赋予其不可替代的后发优势。
 
 > [!citation-card] 科隆啤酒与波特陈酿的创造力隐喻
-> 概念型成果犹如科隆啤酒，发酵周期短且应当在新鲜时开怀畅饮；实验型成果好比波特陈酿，必须在橡木桶中经历数十年熟化方能显现醇厚风味。加伦森用这一隐喻形象地概括了爱因斯坦、海森堡等理论先锋与达尔文等经验巨匠在成就节奏上的本质差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 48)]]
+> 概念型成果犹如科隆啤酒，发酵周期短且应当在新鲜时开怀畅饮；实验型成果好比波特陈酿，必须在橡木桶中经历数十年熟化方能显现醇厚风味。加伦森用这一隐喻形象地概括了爱因斯坦、[[Werner Heisenberg|海森堡]]等理论先锋与达尔文等经验巨匠在成就节奏上的本质差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 48)]]
 >
-> *Galenson's theory of experimental and conceptual innovators offers a compelling metaphor: Kölsch versus port wine. Conceptual innovations are like Kölsch – brewed quickly and best consumed fresh. Experimental innovations, by contrast, are like port wine – they take decades of aging to achieve their full flavor.*
+> *Galenson's theory of experimental and conceptual innovators offers a compelling metaphor: Kölsch versus port wine. Conceptual innovations are like Kölsch – brewed quickly and best consumed fresh. Experimental innovations, by contrast, are like port wine – they take decades of aging to [[Achieve|achieve]] their full flavor.*
 
 ---
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创性打破了传统心理学将创造力视作同质单峰函数的固有假说，为科学哲学与科学社会学提供了分类精细的认识论解释范式。
 > - **方法路径** 将定量实证经济学工具（如拍卖价格时间序列、艺术史教材引用计数、诺贝尔奖成果时序分析）跨界引入人文学科与科学学研究。
-> - **跨学科传播** 成果被本杰明·F·琼斯（Benjamin F. Jones）、王大顺与巴拉巴西等科学学者深度吸收，成为当代科学学生涯动力学理论体系的基石构件。
+> - **跨学科传播** 成果被[[Benjamin F. Jones|本杰明·F·琼斯]]（Benjamin F. Jones）、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]等科学学者深度吸收，成为当代科学学生涯动力学理论体系的基石构件。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 全书第 4 章核心章节直接采用加伦森的双模态创新理论，解释理论物理学家早慧与实验生物学家大器晚成的经验鸿沟。
@@ -109,7 +115,7 @@ updated: 2026-10-30
 > [!debates] 学术争议
 >
 > > [!axis] 连续探索谱系 vs 二元离散类型
-> > 艺术史学家与部分心理学家指出，许多大师在其全生涯中兼具演绎推理与长期经验积累，二元划分可能低估了个体创作探索的复杂性；加伦森与科学计量学者通过大样本统计表明，两极分类在宏观峰值年龄上展现出极为稳健的经验分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
+> > 艺术史学家与部分心理学家指出，许多大师在其全生涯中兼具演绎推理与长期经验积累，二元划分可能低估了个体创作探索的复杂性；加伦森与[[Bibliometric Analysis|科学计量学]]者通过大样本统计表明，两极分类在宏观峰值年龄上展现出极为稳健的经验分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
 
 ---
 

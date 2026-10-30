@@ -52,6 +52,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Phronesis]]"
+  - "[[Document]]"
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
   - "[[Explicit Critical Thinking Instruction]]"
@@ -90,14 +91,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-24
-updated: 2026-10-23
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -364,7 +365,7 @@ issuing_organization: ""
 > [!citation-card] [[Authentic Instruction\|真实性教学]]的[[John Dewey\|杜威]]渊源
 > 杜威（1907）指出，为了将观念用作思考（乃至[[Critical Thinking\|批判性思维]]）的工具，必须在对学生而言显得真实的具体问题情境中学习观念的意义。正如他尖锐指出的：“能够言之有物与不得不说点什么之间，存在着天壤之别。”
 >
-> *Dewey (1907) felt that in order to be able to use an idea as a tool for thinking (and, by extension, for CT), it was essential that one learned the significance of the idea in the context of a problem that appeared genuine to the student. As he noted, acerbically, “There is all the difference in the world between having something to say and having to say something” (p. 67).*
+> *Dewey (1907) felt that in order to be able to use an idea as a tool for thinking (and, by extension, for CT), it was essential that one learned the significance of the idea in the context of a problem that appeared genuine to the student. As he noted, acerbically, “There is all the difference in the world between having something to say and having to say something”.*
 
 > [!citation-card] [[Mentorship\|导师制]]的催化功能
 > 导师制在单独分析时并未产生特别强的效果。根据这些结果，导师制似乎在批判性思维教学中发挥了催化剂（catalytic capacity）的作用；它可以以强有力的方式增强其他策略，但如果孤立实施，则不会特别成功。
@@ -375,7 +376,7 @@ issuing_organization: ""
 
 > [!warning] 自述局限
 > 1. **标准化测验[[Construct\|构念]]代表性局限** [[Meta-analysis\|元分析]]所纳入的大多数通用测验主要测量相对狭窄的认知技能频带，可能未能完全覆盖某些批判哲学学者所主张的具身化、深层反思与复杂[[Phronesis\|实践智慧]]。
-> 2. **少数负向干预机制待解** 数据集中存在少数干预效果低于对照组的研究（占 23.5%），元分析仅能对文献中明确报告的[[Variable\|变量]]进行编码汇总，未能完全穷尽导致干预失败的深层课堂生态与教师实施质量变量。
+> 2. **少数负向干预机制待解** 数据集中存在少数干预效果低于对照组的研究（占 23.5%），元分析仅能对[[Document|文献]]中明确报告的[[Variable\|变量]]进行编码汇总，未能完全穷尽导致干预失败的深层课堂生态与教师实施质量变量。
 > 3. **长期追踪与迁移证据不足** 纳入研究多数为学期或课程内的短期测量，缺乏关于[[Critical Thinking\|批判性思维]]在跨年度及真实生活情境中长程迁移与持续维持的追踪数据。
 
 ---

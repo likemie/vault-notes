@@ -10,7 +10,7 @@ subtype: organization
 region: "india"
 fact_region: "india"
 fact_kind: "organization"
-fact_related_count: 1
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -26,16 +26,23 @@ tags:
   - theme/educational-diplomacy
 related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
+related_concepts:
+  - "[[Educational Diplomacy]]"
+  - "[[Cultural Diplomacy]]"
+related_persons:
+  - "[[Confucius]]"
+related_facts:
+  - "[[American Spaces]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 印度文化关系委员会（Indian Council for Cultural Relations, ICCR）是印度政府外交部（Ministry of External Affairs, MEA）直属的法定半自主文化与教育外交专门机构，统筹负责制定和实施印度对外文化交流政策、管理跨国官方留学生全额奖学金计划，并在海外建立和运营印度文化中心网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
+> 印度文化关系委员会（Indian Council for Cultural Relations, ICCR）是印度政府外交部（Ministry of External Affairs, MEA）直属的法定半自主文化与[[Educational Diplomacy|教育外交]]专门机构，统筹负责制定和实施印度对外文化交流政策、管理跨国官方留学生全额奖学金计划，并在海外建立和运营印度文化中心网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1950 年由印度首任教育部长毛拉纳·阿布尔·卡拉姆·阿扎德（Maulana Abul Kalam Azad）倡导创设，旨在复兴独立后印度的国际文化纽带与亚非团结。
@@ -62,7 +69,7 @@ updated: 2026-10-26
 > - **传统医药与文化专项奖学金（AYUSH Scholarship Scheme）** 设立阿育吠陀、瑜伽与传统医学专项全额资助，定向吸引东南亚、南亚与中亚青年赴印度国立医药高等院校研修。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 38 注34)]]
 > - **海外印度文化中心（Indian Cultural Centres）** 在海外独立选址或依托重点大学设立文化空间，常年开设免费英语提高班、印地语教学与文化学术工作坊。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 30–31)]]
 
-> [!citation-card] 文化外交与智力纽带
+> [!citation-card] [[Cultural Diplomacy|文化外交]]与智力纽带
 > 印度通过外交部与印度文化关系委员会运营了多达 18 项政府奖学金项目，向周边邻国及中亚提供数千个涵盖学费、生活与差旅补贴的资助名额，积极将高等教育与文化中心作为在欧亚大陆展开大国地缘博弈的战略支柱。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26)]]
 >
 > *We identified 18 Indian government programs offering 2,896 scholarships under the auspices of the ICCR and MEA, advertising not only tuition fees, but also subsidizing housing and living costs to compete across the region.*
@@ -84,7 +91,7 @@ updated: 2026-10-26
 > | **马尔代夫** | 4 项 | 75 名 | 1 所 | 印度洋战略要冲 |
 
 > [!implication] 地缘竞争特征
-> 在南亚与中亚地区，ICCR 采取了高额奖学金与小规模文化中心并行的非对称竞争策略；虽然其文化中心总数（8 所，占全区 3.7%）显著少于美国空间（92 所）与中国孔子机构（65 所），但在阿富汗投放了多达 1,500 个奖学金名额，在尼泊尔、斯里兰卡与孟加拉国深度绑定其传统英联邦教育资源网络，在印太与中亚接合部构成了抗衡外部大国渗透的坚挺网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
+> 在南亚与中亚地区，ICCR 采取了高额奖学金与小规模文化中心并行的非对称竞争策略；虽然其文化中心总数（8 所，占全区 3.7%）显著少于[[American Spaces|美国空间]]（92 所）与中国[[Confucius|孔子]]机构（65 所），但在阿富汗投放了多达 1,500 个奖学金名额，在尼泊尔、斯里兰卡与孟加拉国深度绑定其传统英联邦教育资源网络，在印太与中亚接合部构成了抗衡外部大国渗透的坚挺网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
 
 ---
 

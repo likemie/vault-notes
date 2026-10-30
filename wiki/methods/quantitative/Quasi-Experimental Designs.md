@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 85
+method_related_count: 86
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Preregistration]]"
   - "[[Logic Model]]"
+  - "[[School Calendar Modification]]"
   - "[[Socioeconomic Status]]"
   - "[[Incommensurability]]"
   - "[[Metascience]]"
@@ -67,6 +68,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Time Series Design]]"
   - "[[Regression Discontinuity Design]]"
@@ -80,7 +82,6 @@ related_methods:
   - "[[Matching]]"
   - "[[Analysis of Covariance]]"
   - "[[Hierarchical Linear Model]]"
-  - "[[Experimental Research]]"
   - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Meta-analysis]]"
@@ -118,13 +119,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Quasi-Experimental Designs
-> **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment\|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design\|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design\|regression discontinuity]]），系统操纵[[Independent Variable\|自变量]]以检验因果假设的量化实验设计方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 317–318]]）。
+> **准[[Experimental Research|实验设计]]（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment\|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design\|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design\|regression discontinuity]]），系统操纵[[Independent Variable\|自变量]]以检验因果假设的量化实验设计方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 317–318]]）。
 >
 > 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）** 法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）** 标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 162–163]]）。
 
@@ -254,7 +255,7 @@ updated: 2026-10-29
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 自然班级和完整学校建制不可随意打散拆分时；学校强烈抵制被[[Random Assignment\|随机分配]]宏观组织决策（如[[Tracking\|能力分组]]分流、作息制度变革、校历调整）时；利用行政区划、政策试点边界或考试录取分数线开展回溯性因果评估时；弱势群体补偿性项目（伦理上不允许设立无支持的空白对照组）（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]；[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]）。
+> - **适合使用** 自然班级和完整学校建制不可随意打散拆分时；学校强烈抵制被[[Random Assignment\|随机分配]]宏观组织决策（如[[Tracking\|能力分组]]分流、作息制度变革、[[School Calendar Modification|校历调整]]）时；利用行政区划、政策试点边界或考试录取分数线开展回溯性因果评估时；弱势群体补偿性项目（伦理上不允许设立无支持的空白对照组）（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]；[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]）。
 > - **谨慎使用** 候选对照组与干预组在学区财政、生源[[Socioeconomic Status|社会经济地位]]上存在系统性鸿沟且无法通过统计匹配消除时；[[Attrition\|样本流失]]率极高且存在严重差异性流失时；需要向目标学段之外进行跨学段外推时（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 177–178]]）。
 > - **不适合使用** 完全缺乏基线[[Pre-test and Post-test\|前测]]数据、无法通过历史档案构建可信对照的单组事后研究；旨在推断复杂教育系统内深层主观体验、文化生态或哲学意义的[[Qualitative Research\|质性研究]]。
 

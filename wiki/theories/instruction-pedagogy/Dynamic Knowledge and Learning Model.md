@@ -5,7 +5,7 @@ aliases:
 summary: "用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
 related_theories:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -93,7 +94,7 @@ updated: 2026-10-22
 
 > [!warning] 争议与批评
 > - Qvortrup 的模型是对 [[Visible Learning]] 的内部修正：它承认 VL 的学习结果概念不够清楚，但仍维护[[Meta-analysis\|元分析]]和[[Effect Size\|效应量]]比较的基本合法性([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.27–33]])。
-> - 模型主要由理论文献推导而来，论文未提供[[Classroom Observation|课堂观察]]、测试工具或实证数据来验证四阶知识能否被稳定识别或测量([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.29–33]])。
+> - 模型主要由理论[[Document|文献]]推导而来，论文未提供[[Classroom Observation|课堂观察]]、测试工具或实证数据来验证四阶知识能否被稳定识别或测量([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.29–33]])。
 
 > [!example] 相关案例／政策
 > - [[Visible Learning]] — 该模型直接回应 Hattie 的学习结果概念，尤其是表层、深层和概念性知识在[[Meta-analysis\|元分析]]中如何被测量的问题。

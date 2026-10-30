@@ -10,7 +10,7 @@ aliases:
 summary: "社会科学研究中的结构性倾向：研究下（studying down）指向无权群体——更容易进入、敏感性更低；研究上（studying up）指向有权群体——方法论难度更高但平衡了学术知识生产的权力不对称"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Discourse]]"
   - "[[Knowledge Power]]"
+  - "[[Politics of Knowledge]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
@@ -33,7 +34,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!def] Researching Up and Researching Down
@@ -59,7 +60,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 命题一：研究倾向的结构性不对称复制了[[Knowledge Power|知识权力]]不平等
-> Lee (1993, p. 8) 的观察——社会科学倾向于研究下而非研究上——不仅是一个方法论事实，更是一个知识政治学问题：当学术注意力系统性地避开权力中心时，研究就默许了权力的不透明运作。
+> Lee (1993, p. 8) 的观察——社会科学倾向于研究下而非研究上——不仅是一个方法论事实，更是一个[[Politics of Knowledge|知识政治]]学问题：当学术注意力系统性地避开权力中心时，研究就默许了权力的不透明运作。
 
 > [!claim] 命题二：研究上需要不同的方法论准备
 > McHugh (1994) 强调研究者必须像受访者一样充分了解情况，访谈应是有见识者之间的交流。Fitz and Halpin (1994) 展示了双访谈者配置、[[Semi-structured Interview\|半结构化访谈]]和应对顾问团的必要性。研究上不是研究下的简单镜像反转——它需要一套专门的方法论工具。

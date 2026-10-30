@@ -11,7 +11,7 @@ aliases:
 summary: "正式假设检验中预测变量间存在显著关系的假设形式，最好写为方向性形式以明确预期关系的方向，与零假设成对构成统计检验的完整框架，通常以H₁表示。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Independent Variable]]"
+  - "[[Hypothesis]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Dependent Variable]]"
   - "[[Research Writing Script]]"
@@ -39,14 +40,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 > [!def] Alternative Hypothesis
 > 备择假设是正式假设检验中预测[[Variable\|变量]]间存在显著关系的假设形式，通常写作 H₁。备择假设通常在[[Null Hypothesis\|零假设]]被拒绝时得到支持——即如果[[Null Hypothesis\|零假设]]不被支持，则备择假设被支持（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 备择假设是研究者真正想要支持的主张——它[[Independent Variable\|预测变量]]之间存在某种关系或差异，是研究假设的实质内容。
+> - **含义** 备择假设是研究者真正想要支持的主张——它[[Independent Variable\|预测变量]]之间存在某种关系或差异，是[[Hypothesis|研究假设]]的实质内容。
 > - **用途** 为研究提供可检验的方向性预测，决定研究设计和统计检验的类型（单尾或双尾）。
 > - **边界** 备择假设不能代替完整的理论说明，也没有预设因果方向。它在统计上只能被"支持"而非"证实"。
 

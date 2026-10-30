@@ -9,7 +9,7 @@ summary: "Campbell和Stanley（1963）提出的用于图示实验设计的经典
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
   - quantitative-research
   - notation
 related_concepts:
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
@@ -40,11 +41,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> Campbell and Stanley 符号系统（Campbell & Stanley Notation System）是 Campbell and Stanley (1963, p.6) 在其经典著作 Experimental and [[Quasi-Experimental Designs]] for Research 中提出的一套用于图示实验设计的标准化符号。该符号系统至今仍在[[Experimental Research\|实验研究]]方法论文献中广泛使用，Creswell & Creswell (2022, Ch8) 将其作为报告实验设计方案的推荐工具。
+> Campbell and Stanley 符号系统（Campbell & Stanley Notation System）是 Campbell and Stanley (1963, p.6) 在其经典著作 Experimental and [[Quasi-Experimental Designs]] for Research 中提出的一套用于图示[[Experimental Research|实验设计]]的标准化符号。该符号系统至今仍在[[Experimental Research\|实验研究]]方法论[[Document|文献]]中广泛使用，Creswell & Creswell (2022, Ch8) 将其作为报告实验设计方案的推荐工具。
 
 > [!abstract] 核心要素
 > Campbell and Stanley (1963, p.6) 的七条符号规则（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_display_title: "“The next thousand years”"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Determinism]]"
   - "[[Discourse]]"
+  - "[[Grit]]"
   - "[[Geopolitics]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -238,7 +239,7 @@ updated: 2026-10-26
 > 18 世纪巴黎先贤祠（Panthéon）正门二十二根科林斯石柱上铭刻的题词“献给伟人，祖国感谢你们”（*Aux Grands Hommes La Patrie Reconnaissante*），体现了对杰出历史人物的尊崇（Black, 1873; p. 197）。
 
 > [!critique] 批判当代文化对领导力与英雄品格的过度解构
-> 卡莱尔所处时代确实存在将历史过度简化为单一男性的局限，理应摒弃其中的偏狭观念；但当代西方文化的偏颇在于走入另一个极端——在反思历史偏见的同时，把人类对卓越品质、崇高美德与坚毅领导力的敬畏一并抛弃（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 197–198]]）。
+> 卡莱尔所处时代确实存在将历史过度简化为单一男性的局限，理应摒弃其中的偏狭观念；但当代西方文化的偏颇在于走入另一个极端——在反思历史偏见的同时，把人类对卓越品质、崇高美德与[[Grit|坚毅]]领导力的敬畏一并抛弃（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 197–198]]）。
 > 伦敦政经学院社会学教授[[Richard Sennett|理查德·桑内特]]（[[Richard Sennett]]）在 1994 年提出摆脱国家认同之恶（Sennett, 1994）；哲学家[[Martha Nussbaum|玛莎·努斯鲍姆]]（[[Martha Nussbaum]]）更在[[Cosmopolitanism|世界主义]]旗号下将爱国[[Pride in Learning|自豪]]感斥为在道德上具有危险性，主张将忠诚转向抽象的全人类世界共同体（Nussbaum, 1994; pp. 198）。这种过早废除民族国家的[[Post-Nationalism|后国家主义]]思潮使民主政体失去了面对严峻现实挑战的精神动员能力。
 
 ---

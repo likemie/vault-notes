@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 90
+fact_related_count: 91
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Return on Investment]]"
   - "[[Geopolitics]]"
   - "[[Development Education]]"
@@ -124,7 +125,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -221,7 +222,7 @@ updated: 2026-10-26
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 经常性预算年均约 3–4 亿美元，全球雇员与专家约 2,500 人；覆盖 194 个成员国，建立超 800 个教科文组织大学教席和数千所联系学校网络（Associated Schools Project Network，ASPnet）。
-> - **学术与[[Knowledge Production|知识生产]]** ISCED 成为全球所有国家官方统计的母体基准；[[Global Education Monitoring Report|GEMR]] 报告被各国学者、联合国大会及发展机构公认为最权威的全球教育政策审议文献。
+> - **学术与[[Knowledge Production|知识生产]]** ISCED 成为全球所有国家官方统计的母体基准；[[Global Education Monitoring Report|GEMR]] 报告被各国学者、联合国大会及发展机构公认为最权威的全球教育政策审议[[Document|文献]]。
 > - **政策与制度渗透** 主导确立了 EFA 和 [[UN Sustainable Development Goals|SDG 4]] 全球政治共识，促使数十个发展中国家将“免费普及初等教育”、“受教育权”写入国家宪法与基础教育法案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!finding-cards] 关键成效与辐射影响

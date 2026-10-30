@@ -12,7 +12,7 @@ aliases:
 summary: "学习科学经典理论，由斯卡达马利亚与贝莱特提出；主张教学的核心不在于记忆现成事实，而在于引导学习者作为协作共同体对作为公共制品的观点进行持续改进，承担集体认知责任，并在反思性结构化中实现深层科学探究"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 40
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -26,8 +26,10 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemology]]"
+  - "[[Collaborative Learning]]"
   - "[[Theory of Knowledge]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Intentionality]]"
   - "[[Creativity]]"
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -81,7 +83,7 @@ updated: 2026-10-26
 > - **解释对象** 学习者共同体如何在协作互动与数字化网络工具支持下，像专业科学研究团队一样创造、发展与持续改进公共知识产品。
 > - **理论问题** 批判传统学校教育将教学降格为向个体头脑灌输现成信息的信道传递模式（Transmission Model）或仅关注个体心智转变的狭隘[[Constructivist Paradigm|建构主义]]，回应如何在基础教育课堂中培育适应知识社会的核心创新素养与[[Epistemic Agency|认识能动性]]。
 > - **理论类型** 整合教学法、社会[[Epistemology|认识论]]与学习环境设计的综合性学习科学理论与规范[[Analytic Framework|分析框架]]。
-> - **知识位置** 植根于社会文化历史学派（[[Lev Vygotsky|维果茨基]]）与波普尔（[[Karl Popper]]）的世界 3（客观知识世界）哲学，与情境学习（Situated Learning）、分布式认知（Distributed Cognition）及计算机支持的协作学习（Computer-Supported Collaborative Learning, CSCL）深度交融。
+> - **知识位置** 植根于社会文化历史学派（[[Lev Vygotsky|维果茨基]]）与波普尔（[[Karl Popper]]）的世界 3（客观知识世界）哲学，与情境学习（Situated Learning）、分布式认知（Distributed Cognition）及计算机支持的[[Collaborative Learning|协作学习]]（Computer-Supported Collaborative Learning, CSCL）深度交融。
 
 > [!claim] 核心判断
 > 知识建构理论的核心主张在于：学校课堂完全能够且应当成为真实的知识创造社群。学生的学习活动不应是对成熟学者结论的肤浅摹仿，而应是通过提出真实问题、生成多元假设、在公共平台（如[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF））上将观点作为可修改的客观对象，通过持续的社会化[[Discourse|话语]]对话实现观点的不断改进（Idea Improvement），进而实质性推进整个共同体的集体知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–892)]]
@@ -89,7 +91,7 @@ updated: 2026-10-26
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 玛琳·斯卡达马利亚（[[Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter]]）在 1990 年代初提出，里程碑文献包括 *Higher Order Knowledge Acquisition in Computer-Supported Collaborative Learning Environments* (1991)、*Computer Support for Knowledge-Building Communities* (1994) 及 *Knowledge Building: Theory, Pedagogy, and Technology* (2006)。
+> - **提出者与原始文本** 玛琳·斯卡达马利亚（[[Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter]]）在 1990 年代初提出，里程碑[[Document|文献]]包括 *Higher Order Knowledge Acquisition in Computer-Supported Collaborative Learning Environments* (1991)、*Computer Support for Knowledge-Building Communities* (1994) 及 *Knowledge Building: Theory, Pedagogy, and Technology* (2006)。
 > - **原初问题** 认知心理学研究发现，专家在写作和[[Problem Solving|复杂问题解决]]中展现出高度的知识转化（Knowledge Transforming）与[[Intentionality|意向性]]学习（Intentional Learning），而普通学生则陷入低阶的知识陈述（Knowledge Telling）；如何借助技术支持将专家团队的[[Creativity|创造性]][[Knowledge Production|知识生产]]机制普及至普通课堂成为核心问题。
 > - **理论资源与材料** 汲取波普尔的世界 3 概念（将观点作为可批判改进的客体）、[[Lev Vygotsky|维果茨基]]（Lev Vygotsky）的社会文化中介理论以及真实科学实验室的知识学研究。
 > - **形成路径** 从最初开发计算机支持的意向学习环境（Computer-Supported Intentional Learning Environment, CSILE）软件，到提炼 12 条知识建构教学设计原则，逐步发展为贯通[[Epistemology|认识论]]、教学法与技术环境的系统[[Paradigm|范式]]。

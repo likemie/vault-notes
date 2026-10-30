@@ -9,7 +9,7 @@ summary: "智利公共政策与教育研究学者，经合组织教育研究与�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[Self-report Bias]]"
   - "[[Research-Policy Gap]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-25
 ---
 
 > [!claim] 核心思想
-> Torres 认为，教育研究的生产与应用并非单一的单向[[Technology Transfer\|技术转移]]，而是一个嵌入在复杂政治与组织生态中的多层次关系网络。证据转化的有效性取决于“因素-机制-干预-战略”四层级结构的协调：单一的“信息分发干预”（如建立文献库或发布政策简报）无法自动突破时间错配、制度动机匮乏与文化抗拒等深层系统阻碍；只有将个体认知、组织吸收容量与系统治理激励统整起来的“互动与链接机制”，才能实现持续的证据动员。
+> Torres 认为，教育研究的生产与应用并非单一的单向[[Technology Transfer\|技术转移]]，而是一个嵌入在复杂政治与组织生态中的多层次关系网络。证据转化的有效性取决于“因素-机制-干预-战略”四层级结构的协调：单一的“信息分发干预”（如建立[[Document|文献]]库或发布政策简报）无法自动突破时间错配、制度动机匮乏与文化抗拒等深层系统阻碍；只有将个体认知、组织吸收容量与系统治理激励统整起来的“互动与链接机制”，才能实现持续的证据动员。
 
 > [!citation-card] [[Knowledge Mobilisation\|知识动员]]的层级架构与治理超越
 > 在系统层面推动[[Research Utilization\|研究利用]]，不仅需要识别阻碍研究利用的要素，更需要理解这些要素在个体、组织与系统层级如何转化为具体的作用机制。各教育系统普遍部署了大量的信息分发与能力建设计制，然而缺乏系统性的跨部门协调战略与关系网络构建，致使研究供给与政策实践需求之间形成了结构性的倒挂脱节。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 104–105)]]

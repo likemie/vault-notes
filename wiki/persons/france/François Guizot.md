@@ -10,7 +10,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 15
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -41,6 +42,7 @@ related_persons:
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
+  - "[[National Education]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -56,7 +58,7 @@ updated: 2026-10-25
 > [!person-profile] 人物档案
 > - **身份位置** 法国七月王朝（1830–1848）公共教育部部长（1832–1837）、外交大臣、首相（1847–1848），著名立宪自由派历史学家与政治思想家。
 > - **核心角色** 法国现代国民公共教育体系与法制框架的奠基人，折衷自由主义政策精英；在政治上致力于将法国大革命的人道成果与立宪君主制的政治秩序相融合。
-> - **代表贡献** 主持颁布具有划时代意义的《1833 年[[Guizot Law of 1833\|基佐法案]]》（*Loi Guizot*），宣告教育旨趣在于“获取国民教育的最高福祉（the greatest good to be derived from educating the people）”；强制全境三万余市镇设立公立初小、各省设立公立[[Normal School\|师范学校]]、确立专职皇家视学制度并法定承认教学自由（*la liberté d'enseignement*），亲手缔造了法国现代国民公学体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
+> - **代表贡献** 主持颁布具有划时代意义的《1833 年[[Guizot Law of 1833\|基佐法案]]》（*Loi Guizot*），宣告教育旨趣在于“获取[[National Education|国民教育]]的最高福祉（the greatest good to be derived from educating the people）”；强制全境三万余市镇设立公立初小、各省设立公立[[Normal School\|师范学校]]、确立专职皇家视学制度并法定承认教学自由（*la liberté d'enseignement*），亲手缔造了法国现代国民公学体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 
 > [!citation-card] 人物定位的关键来源：[[François Guizot|基佐]]对国民教育最高福祉的政治承诺
 > 基佐在向法国国民议会阐述其教育立法构想时庄严宣告：国家对民众进行公共教育的最高目标，绝非出于狭隘功利，而是为了达致“从国民教育中汲取最大公共福祉”；唯有使普及公共教育成为社会大厦的稳固基石，自由立宪政体与文明繁荣方可免于内乱与专制覆辙。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 29)]]；引自 Brewer (1971:17)
@@ -154,6 +156,6 @@ updated: 2026-10-25
 > | [[Normal School]] | 概念 | 法定强制全法各省必须设立公立师范学校，开启国家师资专业化时代。 |
 > | [[Educational Meliorism]] | 概念 | 以改良主义与国民教育最高福祉为立法动因，将外国经验用作行政改良杠杆。 |
 > | [[Guizot Law of 1833]] | 政策事实 | [[François Guizot\|基佐]]亲手缔造并颁布的国民教育奠基法案。 |
-> | [[Report on the State of Public Instruction in Prussia]] | 历史文献 | 委派[[Victor Cousin\|库森]]赴德完成的考察报告，构成基佐法案的直接知识来源。 |
+> | [[Report on the State of Public Instruction in Prussia]] | 历史[[Document\|文献]] | 委派[[Victor Cousin\|库森]]赴德完成的考察报告，构成基佐法案的直接知识来源。 |
 > | [[Victor Cousin]] | 人物 | 基佐的核心智囊，受托起草法案条文并提炼公共资源法哲学。 |
 > | [[Johann Wilhelm Süvern]] | 人物 | 普鲁士 1819 年草案起草者，为基佐立法提供核心原型。 |

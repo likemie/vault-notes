@@ -8,7 +8,7 @@ summary: "美国印第安纳大学教育心理学名誉教授，全美学校纪�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Falsification]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-26
 > [!work-line] 代表性学术论著
 > - **2000 — *The Zero Tolerance Policy: An Overview*** 系统梳理了全美学校将刑法领域的“零容忍”机械移植入教育系统后的实践后果，首次指明严苛惩戒不仅无助于减少暴力，反而导致普通轻微违纪学生被大规模剥夺受教育权。
 > - **2002 — *The Color of Discipline: Sources of Racial and Gender Disproportionality in School Punishment*** 基于数十万样本的实证研究，证明在控制了违纪行为严重性与[[Socioeconomic Status|社会经济地位]]后，非裔学生因主观判定性质的违规（如“不敬”、“挑衅”）被停学处分的概率显著高于白人同侪，确凿论证了系统性制度偏见的存在。
-> - **2008 — *Are Zero Tolerance Policies Effective in the Schools? An Evidentiary Review and Recommendations*** 代表美国心理学会工作组发布的权威循证审查，全面[[Falsification\|证伪]]了“驱逐违纪学生有助于提升其他学生[[Academic Achievement\|学业成绩]]”的政策假设，成为全美学界与立法界反思惩戒制度的分水岭文献。
+> - **2008 — *Are Zero Tolerance Policies Effective in the Schools? An Evidentiary Review and Recommendations*** 代表美国心理学会工作组发布的权威循证审查，全面[[Falsification\|证伪]]了“驱逐违纪学生有助于提升其他学生[[Academic Achievement\|学业成绩]]”的政策假设，成为全美学界与立法界反思惩戒制度的分水岭[[Document|文献]]。
 > - **2016 — *Inequalities in School Discipline: Research and Recommended Solutions*** 总结数十年干预经验，系统提出结合多层级支持系统与恢复性正义的可替代执行路径。
 
 ---

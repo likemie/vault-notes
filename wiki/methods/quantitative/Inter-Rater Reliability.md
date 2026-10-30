@@ -10,7 +10,7 @@ summary: "多位独立评判者使用同一工具对相同对象评分时彼此�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 62
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Observer Drift]]"
   - "[[Halo Effect]]"
   - "[[Construct Validity]]"
+  - "[[Document]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
@@ -90,7 +91,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: active
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Inter-Rater Reliability
@@ -122,7 +123,7 @@ updated: 2026-10-29
 在研究方法架构中，评分者间信度构成了连接微观[[Qualitative Observation|质性观察]]与宏观计量分析的质量中介层。
 
 > [!method-stack] 测量架构与信度类型谱系
-> - **研究设计** 结构化[[Classroom Observation|课堂观察]]、大规模教育调查、标准化测验阅卷、[[Qualitative Content Analysis|质性内容分析]]、[[Systematic Review|系统综述]]文献筛选。
+> - **研究设计** 结构化[[Classroom Observation|课堂观察]]、大规模教育调查、标准化测验阅卷、[[Qualitative Content Analysis|质性内容分析]]、[[Systematic Review|系统综述]][[Document|文献]]筛选。
 > - **数据收集** 现场瞬时定格快照、连续时段行为记录、主观试卷评分、访谈[[Transcription in Qualitative Research|转录]]稿类目赋码。
 > - **分析方法** 边际偶合校正分析、交叉矩阵[[Chi-Squared Test|卡方检验]]、双向[[Random-Effects Model|随机效应]]方差分解、容差邻域一致性分析。
 > - **辅助技术** 
@@ -255,7 +256,7 @@ updated: 2026-10-29
 评分者间[[Reliability|信度]]的引入必须与[[Paradigm|研究范式]]、设计结构及评判者规模保持严格的适切性。
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究设计中涉及多位观察者对行为进行编码或评定时（如课堂[[Observation Method\|观察研究]]、临床行为评定）；[[Qualitative Research\|质性研究]]的[[Content Analysis\|内容分析]]中多位编码者对文本进行编码时；系统性[[Literature Review\|文献综述]]和[[Meta-analysis\|元分析]]中多位筛选者独立筛选文献时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 8)]]
+> - **适合使用** 研究设计中涉及多位观察者对行为进行编码或评定时（如课堂[[Observation Method\|观察研究]]、临床行为评定）；[[Qualitative Research\|质性研究]]的[[Content Analysis\|内容分析]]中多位编码者对文本进行编码时；系统性[[Literature Review\|文献综述]]和[[Meta-analysis\|元分析]]中多位筛选者独立筛选[[Document|文献]]时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 8)]]
 > - **谨慎使用** 在严格的[[Constructivist Paradigm\|建构主义]]质性研究中，假设不同研究者应产生相同解释的前提可能与[[Paradigm\|研究范式]]冲突（Lincoln & Guba, 1985, p. 307）。
 > - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间信度不适用，此时应关注评分者[[Internal Consistency\|内部一致性]]（intra-rater reliability）。
 

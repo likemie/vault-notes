@@ -10,7 +10,7 @@ summary: "法裔美籍实证经济学家与科学学学者，麻省理工学院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,15 +27,18 @@ related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[The 41st Chair]]"
   - "[[Star Scientists]]"
-  - "[[Age and High-Growth Entrepreneurship]]"
+  - "[[Invisible College]]"
   - "[[Paradigm]]"
+  - "[[Goliath's Shadow]]"
+  - "[[Age and High-Growth Entrepreneurship]]"
   - "[[Creativity]]"
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Invisible College]]"
   - "[[Peer Effects in Science]]"
   - "[[Reflection Problem]]"
-related_theories: []
+related_theories:
+  - "[[Planck's Principle]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Descriptive Analysis]]"
@@ -54,6 +57,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: "2026-10-29"
@@ -83,7 +87,7 @@ updated: 2026-10-30
 > - **2010** 在《经济学季刊》（QJE）发表《超级巨星陨落》（*Superstar Extinction*），开创利用明星学者意外逝世外生冲击测度知识扩散与合作网络脆弱性的因果分析[[Paradigm|范式]]，实证证实学术合作同行质量调整产出率下降 5% 至 8%，为[[Invisible College|无形学院]]的客观存在确立因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 > - **2011** 在《美国经济评论》（AER）发表针对 HHMI 资助模式的研究，证实对早期失败的宽容与长周期支持显著提升高风险探索性成果的产出概率。
 > - **2014** 在《管理科学》（*Management Science*）发表《马太效应：事实还是神话？》（*Matthew: Effect or Fable?*），依托 HHMI 评选准自然实验证实外生声望符号具备独立于个体天资的引文因果力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–37)]]
-> - **2019** 在《美国经济评论》（AER）发表《科学真理真的随着反对者死去而胜利吗？》（*Does Science Advance One Funeral at a Time?*），通过 452 位生命科学明星学者猝逝准自然实验实证检验普朗克原理，揭示“歌利亚阴影”阻碍新人进场的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
+> - **2019** 在《美国经济评论》（AER）发表《科学真理真的随着反对者死去而胜利吗？》（*Does Science Advance One Funeral at a Time?*），通过 452 位生命科学明星学者猝逝准自然实验实证检验[[Planck's Principle|普朗克原理]]，揭示“[[Goliath's Shadow|歌利亚阴影]]”阻碍新人进场的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 > - **2020** 在《美国经济评论：洞见》（*AER: Insights*）发表《年龄与高成长创业》（[[Age and High-Growth Entrepreneurship]]），运用美国 270 万初创企业全量税收与人口档案证实，全美增长最快的前 0.1% 高科技企业创始人平均年龄为 45 岁，打破硅谷年轻极客神话。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 58–59)]]
 
 ---
@@ -113,14 +117,14 @@ updated: 2026-10-30
 > - **政策路径** 其实证研究为科技基金管理提供了决策依据，推动科研资助体系从短期项目制向长期支持杰出个人的资助模式转型。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]] 援引其 HHMI 准实验设计，在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit 02]] 援引普朗克原理检验，在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]] 援引明星学者猝逝准实验确证无形学院的因果实在性。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]] 援引其 HHMI [[Quasi-Experimental Designs|准实验设计]]，在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit 02]] 援引普朗克原理检验，在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]] 援引明星学者猝逝准实验确证无形学院的因果实在性。
 
 ---
 
 > [!person-network] 关系网络
 > - **博士导师** [[David C. Mowery|大卫·莫厄里]]（David Mowery）— 加州大学伯克利分校技术经济学学者，指导其进入创新实证研究。
 > - **学术对话** [[Robert K. Merton|罗伯特·K·默顿]] — 为默顿学派提出的学术马太效应与第四十一把交椅假说提供严格的计量经济学因果识别支撑。
-> - **合作学者** [[Benjamin F. Jones]] 与米什金等 — 共同开展科学家年龄、创业全量人口普查与科技人力资本计量研究。
+> - **合作学者** [[Benjamin F. Jones]] 与米什金等 — 共同开展科学家年龄、创业全量人口普查与科技[[Human Capital Theory|人力资本]]计量研究。
 
 ---
 
@@ -140,5 +144,5 @@ updated: 2026-10-30
 > | [[Peer Effects in Science]] | 概念 | 运用匹配双重差分模型剥离选择偏误，因果识别学术伙伴的质量溢出。 |
 > | [[Reflection Problem]] | 概念 | 运用外生突发冲击突破曼斯基反射问题中的同时性与共有混杂障碍。 |
 > | [[Age and High-Growth Entrepreneurship]] | 概念 | 基于 270 万全量微观普查与税收数据证实极速成长型初创企业创始人的中年经验优势。 |
-> | [[Quasi-Experimental Designs]] | 方法 | 倡导将断点回归与准自然实验方法深度引入科学经济学与科学学研究。 |
+> | [[Quasi-Experimental Designs]] | 方法 | 倡导将[[Regression Discontinuity Design\|断点回归]]与准自然实验方法深度引入科学经济学与科学学研究。 |
 > | [[Difference-in-Differences]] | 方法 | 结合外生突发事件冲击构建匹配 DID 模型，开创学术网络因果识别实证范式。 |

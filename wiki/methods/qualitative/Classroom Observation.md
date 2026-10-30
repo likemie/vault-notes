@@ -10,7 +10,7 @@ summary: "研究者或评价者深入真实或录制的课堂教学现场，依�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Construct Validity]]"
   - "[[Predictive Validity]]"
+  - "[[Instructional Coaching]]"
   - "[[Peer-Supported Learning]]"
   - "[[Informed Consent]]"
   - "[[Professional Judgment]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-29
 教学观察在教育实证研究的设计框架中呈现多维的方法层级结构。
 
 > [!method-stack] 方法层级
-> - **研究设计** 外部评价性观察、临床指导型观察（Instructional Coaching）、[[Peer-Supported Learning|同伴互助]]听评课、大规模教育系统诊断监测。
+> - **研究设计** 外部评价性观察、临床指导型观察（[[Instructional Coaching]]）、[[Peer-Supported Learning|同伴互助]]听评课、大规模教育系统诊断监测。
 > - **数据收集** 低推论[[Time Sampling|时间抽样]]快照、事件抽样、高推论行为锚定量表、质性连续描述性笔记、多机位音视频同步录制。
 > - **分析方法** 类别编码频数统计、等级量规[[Item Response Theory|项目反应理论]]（IRT）多面 Rasch 分析、[[Hierarchical Linear Model|分层线性模型]]（HLM）及增值模型（VAM）[[Covariate Adjustment|协变量控制]]。
 > - **辅助技术** 移动端触屏编码软件、观察员视频认证考核系统、录像切片微格分析平台。

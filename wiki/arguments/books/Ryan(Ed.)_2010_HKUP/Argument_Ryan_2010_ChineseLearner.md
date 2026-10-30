@@ -9,9 +9,9 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese learner: Misconceptions and realities"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 citation: "Ryan, J. (2010). The Chinese learner: Misconceptions and realities. In J. Ryan & G. Slethaug (Eds.), International education and the Chinese learner (pp. 37–56). Hong Kong University Press."
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Teacher Mobility]]"
   - "[[Critical Thinking]]"
@@ -63,7 +64,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2010
 doi: ""
 citation_aliases:
@@ -82,7 +83,7 @@ citation_aliases:
 > - [[Constructivist Paradigm\|建构主义]]学习理论 — 作为理解跨文化教学中先前经验如何影响学习的理论参照
 
 > [!info] 研究方法
-> - 类型：理论讨论与文献批判综述
+> - 类型：理论讨论与[[Document|文献]]批判综述
 > - 方法：对"[[Chinese Learner\|中国学习者]]"西方文献的系统性[[Discourse Analysis\|话语分析]]，兼以作者个人跨文化教学和研究的[[Reflexivity\|反思性]]经验为佐证
 > - 数据来源：西方教育学界关于中国/[[Confucian Heritage Cultures\|CHC]] 学习者的研究文献；作者在中国、澳大利亚、英国作为国际学生和教师的亲身经历
 

@@ -8,7 +8,7 @@ summary: "美国教育心理学家与学习科学家，罗格斯大学教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 40
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -37,14 +37,17 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Epistemological Beliefs]]"
   - "[[Authentic Science Practices]]"
+  - "[[Co-Teaching]]"
   - "[[Epistemic Aims]]"
   - "[[Reliability]]"
   - "[[Epistemic Dependence]]"
   - "[[Evaluative Judgement]]"
+  - "[[Programmed Instruction]]"
   - "[[Epistemic Value]]"
   - "[[Working Memory]]"
   - "[[Structured Teaching]]"
   - "[[Class Size]]"
+  - "[[Document]]"
 related_theories:
   - "[[Reliabilism]]"
   - "[[Virtue Epistemology]]"
@@ -70,7 +73,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -109,7 +112,7 @@ updated: 2026-10-22
 >   - **阶段转向** 从描述学生有什么[[Epistemological Beliefs\|认识论信念]]，转向指导学生在[[Authentic Science Practices|真实科学实践]]中如何运用与反思认识准则。
 > - **2020 年代至今 — [[Epistemic Agency\|认识能动性]]、论证实质与循证教学辩护阶段** 聚焦论证质量的认识论实质评价，倡导赋予边缘群体学生认识能动权；联合全球学者对抗[[Direct Instruction\|直接教学]]绝对化思潮，确立[[Inquiry-Based Learning\|指导式探究]]与直接教学时序整合的新框架。
 >   - **代表著作** *Evaluating the quality of argumentation: The role of epistemic ideals and reliable processes* (2025); *Let’s talk evidence – The case for combining inquiry-based and direct instruction* (2023, 共同作者).
->   - **关键概念／方法** [[Epistemic Agency\|认识能动性]]、认识正义、论证质量认识论评价、时序协同教学。
+>   - **关键概念／方法** [[Epistemic Agency\|认识能动性]]、认识正义、论证质量认识论评价、时序[[Co-Teaching|协同教学]]。
 >   - **阶段转向** 将认识论认知模型与科学教育政策、社会公平及循证教学大辩论紧密绑定。
 
 ---
@@ -162,7 +165,7 @@ updated: 2026-10-22
 > > [!axis] 科学论证评价：句法形式套话 vs [[Epistemology\|认识论]]实质洞察
 > > 争论科学论证应当依据图尔敏结构（主张、数据、保证）打分，还是依据证据因果机制与[[Epistemic Ideals\|认识论理想]]评定。
 > >
-> > - **形式句法派立场** 强调论证的外在结构规范与连接词完整性，便于大规模量化评分与程序教学。
+> > - **形式句法派立场** 强调论证的外在结构规范与连接词完整性，便于大规模量化评分与[[Programmed Instruction|程序教学]]。
 > > - **Chinn and Duncan（2025）** 指出过分看重句法套话会导致仪式化表演，容易误伤使用日常口语但具备深刻因果洞察的弱势学生，主张从句法评价走向实质认识论评价。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]
 >
 > > [!axis] [[Inquiry-Based Learning\|指导式探究]]的[[Epistemic Value\|认识论价值]] vs 认知负荷派的[[Direct Instruction\|直接教学]]优越论
@@ -188,4 +191,4 @@ updated: 2026-10-22
 > | [[Epistemic Agency]] | 概念 | 将认识主体性从行为参与深化为元[[Epistemology\|认识论]]审议与因果准则共建。 |
 > | [[PRACCIS]] | 项目 | 主持研发的大型科学探究课程，将 AIR 认知模型转化为实践支架。 |
 > | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 论证 | 确立基于[[Epistemic Ideals\|认识论理想]]与可靠过程的论证质量评价新[[Paradigm\|范式]]。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 联合发表系统反驳文献，确立指导式探究的循证优越性。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 联合发表系统反驳[[Document\|文献]]，确立指导式探究的循证优越性。 |

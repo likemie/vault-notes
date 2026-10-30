@@ -21,6 +21,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Alumni Engagement]]"
   - "[[Executive Education]]"
+  - "[[Triangular Cooperation]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Translational Research]]"
   - "[[Master Agreement]]"
@@ -41,16 +42,16 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book
 title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_key: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_display_title: "Connecting, exploring, uncovering, and building partnerships"
 argument_kind: "book"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -121,7 +122,7 @@ citation_aliases:
    - 提升州政府对大学研究专长的认知，使州政府在制定经济政策时将大学纳入考量；
    - 提升访问国家对大学专长的认知，为后续国际合作铺路；
    - 建立与访问国家产业和创新团体的直接联系，绕过中间环节接触决策者；
-   - 开拓三方合作前景：大学、企业与访问国家的大学形成三角联盟；
+   - 开拓[[Triangular Cooperation|三方合作]]前景：大学、企业与访问国家的大学形成三角联盟；
    - 建立与代表团中其他成员（企业、政府、其他大学）的联系，这些人在访问结束后可能成为合作者。
 
 ---

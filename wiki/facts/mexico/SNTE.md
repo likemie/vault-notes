@@ -11,7 +11,7 @@ subtype: organization
 region: "mexico"
 fact_region: "mexico"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,28 +26,27 @@ tags:
   - region/mexico
 related_concepts:
   - "[[Normal School]]"
+  - "[[Educational Decentralization]]"
   - "[[Performance Pay]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Popular Education]]"
 related_theories:
   - "[[State Corporatism]]"
   - "[[Neocorporatism]]"
-  - "[[Hegemony]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Alianza por la Calidad de la Educación]]"
   - "[[World Bank]]"
-  - "[[INEA]]"
   - "[[PISA]]"
+  - "[[INEA]]"
+  - "[[Alianza por la Calidad de la Educación]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +65,7 @@ updated: 2026-10-27
 > [!dev-timeline] 组织发展历程
 > - **1943–1970 年代 — 法团整合与政党绑定** 确立为革命制度党（PRI）的劳工法团部门支柱；工会领导层直接参与国民议会席位分配与教育部官员任命，形成高度官僚化的领袖专权体制。
 > - **1979–1989 年代 — 异议反抗与新霸权确立** 南部贫困州基层激进教师发起“全国教师协调委员会”（CNTE）抗议运动；1989 年总统萨利纳斯扶植埃尔巴·埃丝特·戈尔迪略掌权，工会转型为更具技术威权特征的跨党派政治掮客。
-> - **1990 年代–2012 — 新自由主义妥协与编制垄断** 深度参与 1992 年教育分权改革；在[[World Bank|世界银行]]与国家推行教师考评及[[Performance Pay|绩效工资]]时，工会利用其选票动员能力捍卫工会既得编制与经济特权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **1990 年代–2012 — 新自由主义妥协与编制垄断** 深度参与 1992 年[[Educational Decentralization|教育分权]]改革；在[[World Bank|世界银行]]与国家推行教师考评及[[Performance Pay|绩效工资]]时，工会利用其选票动员能力捍卫工会既得编制与经济特权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 > - **2013–至今 — [[PISA]] 冲击倒逼与国家统考改革** 面对墨西哥在 PISA 中长期位列榜尾的危机，政府以国际排位为政策外在化依据，打破 SNTE 对教师编制买卖、世袭与人事任命的垄断，推行全国教师竞争性考评与专业教学服务（SPD）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 64, 69–70)]]
 
 ---

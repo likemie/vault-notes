@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -206,7 +207,7 @@ updated: 2026-10-23
 > | [[Policy Entrepreneur]] | Concept | 运用 TIMSS 证据将课程缺陷与国家竞争力危机相联系以推动政策议程的行动者理论。 |
 > | [[Research Utilization]] | Concept | 阐释 TIMSS 数据在宏观议程设置中发挥概念性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]功能的理论框架。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 TIMSS 纯量化产出测试的机制缺失。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证文献。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证[[Document\|文献]]。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊文献。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | Argument | 引用 TIMSS 与 PISA 纵向常态成长实证数据反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的方法学审计文献。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 ACER 等机构垄断 TIMSS 核心合同引发欧洲抗议及 TIMSS 震荡催生 SINUS 的机制。 |

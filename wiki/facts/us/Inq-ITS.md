@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Direct Instruction]]"
-related_theories: []
+related_theories:
+  - "[[Discursive Institutionalism]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -150,5 +151,5 @@ updated: 2026-10-26
 > | [[Computer Simulation]] | 概念 | 虚拟实验仿真微世界构成了 Inq-ITS 开展数据挖掘与学生探究的底层环境。 |
 > | [[Web-based Inquiry Science Environment]] | 事实 | 与 WISE 并列为全美最受推崇的现代技术增强科学探究平台。 |
 > | [[Control of Variables Strategy]] | 概念 | 变量控制策略是 Inq-ITS 核心算法诊断与自动[[Scaffolding\|脚手架]]推送的最主要目标技能。 |
-> | [[Direct Instruction]] | 概念 | 系统在学生遇到瓶颈时适时推送即时直接讲授（Just-in-Time DI），实现协同。 |
+> | [[Direct Instruction]] | 概念 | 系统在学生遇到瓶颈时适时推送即时直接讲授（Just-in-Time [[Discursive Institutionalism\|DI]]），实现协同。 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述系统引用 Inq-ITS 作为 AI 技术化解探究与直接指导对立的典范。 |

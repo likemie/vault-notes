@@ -10,7 +10,7 @@ subtype: infrastructure
 region: global
 fact_region: "global"
 fact_kind: "infrastructure"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ tags:
   - theme/educational-policy
   - theme/sdg-4
 related_concepts:
+  - "[[Document]]"
   - "[[Development Education]]"
   - "[[Regional URE Hubs]]"
   - "[[Knowledge Mediation]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 平台定位
-> Planipolis 是[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（[[UNESCO]] IIEP）于 2006 年建立并持续维护的全球官方教育政策与规划数字化门户平台。该平台作为连接成员国教育行政机构与国际发展共同体的开放基础设施，系统汇聚全球 190 多个国家官方发布的教育部门规划（Education Sector Plans, ESPs）、国家应急过渡计划及关键教育立法，在联合国教科文组织全球证据利用调研中被列为教育政策文献清算与跨国同伴借鉴的标准门户。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 51)]]
+> Planipolis 是[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（[[UNESCO]] IIEP）于 2006 年建立并持续维护的全球官方教育政策与规划数字化门户平台。该平台作为连接成员国教育行政机构与国际发展共同体的开放基础设施，系统汇聚全球 190 多个国家官方发布的教育部门规划（Education Sector Plans, ESPs）、国家应急过渡计划及关键教育立法，在联合国教科文组织全球证据利用调研中被列为教育政策[[Document|文献]]清算与跨国同伴借鉴的标准门户。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 51)]]
 
 > [!program-context] 平台背景
 > - **立项时间 / 运营周期** 2006 年正式上线运营，由 IIEP 巴黎总部信息与文献中心常态化更新与维护，至今持续运行。

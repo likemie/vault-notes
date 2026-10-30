@@ -10,7 +10,7 @@ summary: "法国哲学家、人类学家与文化理论家，法兰西学术院�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 12
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,10 +27,12 @@ tags:
 related_concepts:
   - "[[Scapegoat Mechanism]]"
   - "[[Creativity]]"
+  - "[[Document]]"
   - "[[Enlightenment]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Habitus]]"
   - "[[Engineering Mindset]]"
 related_theories:
   - "[[Mimetic Theory]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-10-25
 
 > [!timeline] 生平与职涯
 > - **1923** 出生于法国阿维尼翁。
-> - **1947** 毕业于巴黎文献学院（École Nationale des Chartes），同年赴美深造，在印第安纳大学获得历史学博士学位。
+> - **1947** 毕业于巴黎[[Document|文献]]学院（École Nationale des Chartes），同年赴美深造，在印第安纳大学获得历史学博士学位。
 > - **1961** 出版代表作《浪漫的谎言与小说的真实》（*Deceit, Desire and the Novel*），首次系统提出欲望的三角模仿模型。
 > - **1972** 出版《暴力与神圣》（*Violence and the Sacred*），将模仿欲望扩展为人类文明起源与[[Scapegoat Mechanism|替罪羊机制]]的宏大人类学假说。
 > - **1981–1995** 任教于斯坦福大学，其关于模仿竞争与垄断创新的讲座深刻影响了硅谷早期学者与创业家。
@@ -128,7 +130,7 @@ updated: 2026-10-25
 > |:-----|:-----|:-----|
 > | [[Mimetic Theory]] | 理论 | [[René Girard\|吉拉尔]]创立的核心文化人类学与欲望理论体系。 |
 > | [[Creativity]] | 概念 | 模仿理论揭示了扼杀真正从无到有创造力的模仿毒性与从众机制。 |
-> | [[Critical Thinking Disposition]] | 概念 | 批判性思维倾向要求抵御模仿从众本能，保持独立审慎的探究习性。 |
+> | [[Critical Thinking Disposition]] | 概念 | 批判性思维倾向要求抵御模仿从众本能，保持独立审慎的探究[[Habitus\|习性]]。 |
 > | [[Engineering Mindset]] | 概念 | 将“摆脱衍生模仿、直面物理现实”作为工程创新的根本认知基石。 |
 > | [[Peter Thiel]] | 人物 | 吉拉尔的学生，将模仿理论转化为科技创业哲学与非共识投资法则。 |
 > | [[Alexander Karp]] | 人物 | 运用吉拉尔模型批判科技创投同质化、倡导从无到有工程创新的思想家。 |

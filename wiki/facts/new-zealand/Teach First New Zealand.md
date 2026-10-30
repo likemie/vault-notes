@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,12 +27,14 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Initial Teacher Training]]"
   - "[[Socioeconomic Status]]"
+  - "[[Triangular Cooperation]]"
   - "[[Discourse]]"
   - "[[Incubation]]"
   - "[[Grandes Ecoles]]"
   - "[[STEM Education]]"
   - "[[Venture Philanthropy]]"
   - "[[Educational Privatisation]]"
+  - "[[Charter Schools]]"
   - "[[School Choice]]"
   - "[[Response-ability]]"
   - "[[Public-Private Partnership]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **创设时间与发起方** 2010 年启动可行性研究，2011 年正式登记为慈善信托，2013 年迎来首批学员。由在英国接受过教师培训的教育企业家肖恩·萨顿（Shaun Sutton）与新西兰政商界人士联合发起。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 28, 54)]]
 > - **辐射范围与目标学校** 集中安置于奥克兰（Auckland）和北地（Northland）的 40 所低 decile 公立中学，其中 90% 的合作岗位设立在 decile 1 至 3 的极端弱势学校。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 53)]]
-> - **三方合作制度架构** 项目以奥克兰大学（University of Auckland，负责学业文凭认证）、新西兰教育部（Ministry of Education, MoE，负责岗位薪酬与宏观准入）以及总部位于纽约的全球先行者网络（Teach for All，负责品牌特许与治理标准）三方伙伴关系形式联合运营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 28)]]
+> - **[[Triangular Cooperation|三方合作]]制度架构** 项目以奥克兰大学（University of Auckland，负责学业文凭认证）、新西兰教育部（Ministry of Education, MoE，负责岗位薪酬与宏观准入）以及总部位于纽约的全球先行者网络（Teach for All，负责品牌特许与治理标准）三方伙伴关系形式联合运营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 28)]]
 > - **法定宗旨与[[Discourse|话语]]表述** 短期目标是在弱势中学空缺岗位上派驻高素质青年人才，提供为期两年的浸入式教学服务；长期目标是“在教育界及跨行业全领域培育致力于消除教育不平等的领袖网络”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 53)]]
 
 ---
@@ -140,7 +142,7 @@ updated: 2026-10-22
 > > [!axis] 跨国对冲基金资本与[[Educational Privatisation|教育私有化]]意识形态输出
 > > 批判学者奥尼尔（[[John O'Neill]]）等揭示，TFNZ 表面上是由本土爱心人士发起的反贫困公益项目，但其关键始创资本和持续命脉来自于**美国对冲基金亿万富翁朱利安·罗伯逊（Julian Robertson）主导的奥特亚罗瓦基金会（Aotearoa Foundation）**。
 > >
-> > - **批判揭露** Aotearoa Foundation 注册于纽约且母体设立于开曼群岛（Cayman Islands），其受托人罗伯逊名下的罗伯逊基金会（Robertson Foundation，净资产超 5.75 亿美元）长期作为美国特许学校运动与激进[[School Choice|择校]]改革的最大金主之一（累计向 KIPP、Harlem Children's Zone 及 Teach For All 注入数千万美元）。通过 TFNZ，跨国金融资本成功在新西兰搭建了宣传市场化师训、削弱公立师资垄断的跨国制度滩头阵地。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 28, 54)]]
+> > - **批判揭露** Aotearoa Foundation 注册于纽约且母体设立于开曼群岛（Cayman Islands），其受托人罗伯逊名下的罗伯逊基金会（Robertson Foundation，净资产超 5.75 亿美元）长期作为美国[[Charter Schools|特许学校]]运动与激进[[School Choice|择校]]改革的最大金主之一（累计向 KIPP、Harlem Children's Zone 及 Teach For All 注入数千万美元）。通过 TFNZ，跨国金融资本成功在新西兰搭建了宣传市场化师训、削弱公立师资垄断的跨国制度滩头阵地。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 28, 54)]]
 >
 > > [!axis] 隐性公共财政兜底与成本转嫁假象
 > > 宣传[[Discourse|话语]]常将 TFNZ 标榜为“无需纳税人过多负担的企业慈善伙伴关系”，但财务穿透分析表明，**新西兰政府与公共财政承担了该项目绝大部分隐性成本**。

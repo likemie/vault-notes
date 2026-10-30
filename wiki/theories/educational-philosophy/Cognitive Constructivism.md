@@ -7,7 +7,7 @@ aliases:
 summary: "一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
+  - "[[Legitimate Peripheral Participation]]"
   - "[[Transformative Learning Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-10-22
 > > 争论认知究其本质是驻留在个体头脑中的内部表征，还是根植于物理与社会情境脉络中的参与活动。
 > >
 > > - **情境主义（[[Situative Perspective]]）** 批评个体认知建构主义犯了严重的脱域（decontextualized）错误，指出离开社会互动网络与真实[[Communities of Practice|实践共同体]]，头脑内部的孤立图式毫无生机。
-> > - **[[Integrative Pluralism|整合多元主义]]（[[Integrative Pluralism]]）与现代学习科学** 主张二者互补：情境学习解释了个体如何作为合法边缘参与者进入共同体，而认知建构主义则精确刻画了个体在参与过程中如何进行内部认知图式与信念的主动重构。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
+> > - **[[Integrative Pluralism|整合多元主义]]（[[Integrative Pluralism]]）与现代学习科学** 主张二者互补：情境学习解释了个体如何作为合法[[Legitimate Peripheral Participation|边缘参与]]者进入共同体，而认知建构主义则精确刻画了个体在参与过程中如何进行内部认知图式与信念的主动重构。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
 
 > [!warning] 测量的方法论悖论
 > Sandoval (2016) 尖锐地指出了认知建构派在早期[[Epistemology|认识论]]测量中的“脱域悖论”：大量使用的去情境化自陈量表，要求受试者将日常实践中处于缄默状态的隐性承诺强行转化为抽象陈述，难以真实反映复杂情境下的认知动态。现代化研究因而转向以[[Design-Based Research|设计研究]]与自然情境任务为载体观察认知建构。

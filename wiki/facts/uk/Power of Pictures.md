@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,17 +20,19 @@ tags:
   - "region/uk"
   - "literacy"
   - "whole-class-approach"
-related_concepts: []
+related_concepts:
+  - "[[Teacher Support for Students]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
@@ -45,7 +47,7 @@ updated: 2026-10-28
 ---
 
 > [!policy-design] 干预方案
-> - **学习活动** 图画书写绘人员培训教师并与学生开展工作坊，随后教师支持学生创作自己的图画书故事，促进写作。
+> - **学习活动** 图画书写绘人员培训教师并与学生开展工作坊，随后[[Teacher Support for Students|教师支持]]学生创作自己的图画书故事，促进写作。
 
 [方案与实施安排](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/power-of-pictures#nav-how-is-it-implemented)
 

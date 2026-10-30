@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 50
+fact_related_count: 51
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -60,6 +60,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Office of Naval Research]]"
   - "[[National Institutes of Health]]"
   - "[[President's Science Advisory Committee]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 报告编制与契约演变历程
 > - **1944–1945 — 战时动员与报告起草呈递** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展起草；1945 年 7 月将报告《科学——无止境的边疆》呈交继任总统杜鲁门，将战时研发合同经验升华为国家科学资助蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1057–1058)]]
-> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（[[ASEAN Economic Community|AEC]]）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法[[Paradigm|范式]]固化** 美苏对抗将国家安全确立为资助科学的统摄性合法性来源，科学家精英通过[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长，二分法与单向线性范式成为联邦预算编制的黄金法则，直接催生了[[ARPANET|阿帕网]]、早期人工智能与硅谷半导体微电子革命的底层硬件基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1990s–2000s — 冷战终结、赤字攀升与[[Pasteur's Quadrant|巴斯德象限]]的再签约妥协** 安全红利消退与财政紧缩迫使科学界回应经济回报与社会问责诉求；唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|巴斯德象限]]，确立用启发性基础研究的合法性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 刚性绩效问责与[[Research Security|科研安全]]壁垒** GPRAMA 法案出台与 NSF 强化“更广泛的影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审门槛，叠加生物医学[[Reproducibility Crisis|可重复性危机]]与《[[CHIPS and Science Act|芯片与科学法案]]》，终结了基础科学无需自证的免检地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]

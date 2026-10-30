@@ -12,9 +12,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2014–2017"
 initiator_organization: "[[Education Endowment Foundation]]"
@@ -27,6 +27,7 @@ tags:
   - evidence-based-education
   - region/uk
 related_concepts:
+  - "[[Document]]"
   - "[[Self-control]]"
   - "[[Causality]]"
   - "[[Reliability]]"
@@ -65,13 +66,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学研究团队开展的大规模系统文献审查与测量工具库建构工程，旨在系统梳理、评定并准入儿童与青少年非认知、心理韧性及社会情感技能的标准化测量工具，为高规范教育试验提供可信的测量学基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学研究团队开展的大规模系统[[Document|文献]]审查与测量工具库建构工程，旨在系统梳理、评定并准入儿童与青少年非认知、心理韧性及社会情感技能的标准化测量工具，为高规范教育试验提供可信的测量学基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2014 年立项启动，2017 年正式发布综述成果与数据库成果（Wigelsworth et al., 2017）。

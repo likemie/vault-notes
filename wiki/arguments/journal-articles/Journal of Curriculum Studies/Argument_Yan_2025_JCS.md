@@ -10,9 +10,9 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Constructed Knowledge]]"
@@ -66,8 +67,8 @@ related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
   - "[[Institute of Education Sciences]]"
-  - "[[ROOTS]]"
   - "[[National Education]]"
+  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 sources:
@@ -75,7 +76,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2025
 doi: ""
 citation_aliases:
@@ -94,7 +95,7 @@ citation_aliases:
 > [!abstract] 三层[[Analytic Framework\|分析框架]]
 > 分析以 Cuban 课程[[Theory of Change\|变革理论]]为起点，辅以 [[World Society Theory\|世界文化理论]] 和 [[Policy Borrowing\|政策借用]] 框架，并引入 Tröhler(2023)的国家利益驱动论作为废除阶段的核心解释。
 >
-> **Cuban(1992)的三因素模型**。Cuban 在分析美国课程变革史时识别出三个外部驱动力：[[Progressive Education\|进步教育]]运动、冷战与国防、立法与法律决定。将此框架搬到香港语境中检验，三个因素的权重在 LS 的诞生与废除两个阶段发生了戏剧性变化。Cuban 还强调课程变革本质上是政治过程，涉及权力、控制、联盟、讨价还价和妥协(p. 224)。
+> **Cuban(1992)的三因素模型**。Cuban 在分析美国课程变革史时识别出三个外部驱动力：[[Progressive Education\|进步教育]]运动、冷战与国防、立法与法律决定。将此框架搬到香港语境中检验，三个因素的权重在 LS 的诞生与废除两个阶段发生了戏剧性变化。Cuban 还强调课程变革本质上是政治过程，涉及权力、控制、联盟、讨价还价和妥协。
 >
 > **[[World Society Theory\|世界文化理论]](Meyer et al., 1997)**。全球学校模式正在趋同，各国课程日益相似。LS 的诞生表面上支撑了这一假设，因为港府在推行改革时大量引用全球趋势和海外课程模式。但这些引用更可能是修辞手段而非变革动因。
 >
@@ -107,7 +108,7 @@ citation_aliases:
 ---
 
 > [!info] [[Historical Document Analysis of Curriculum\|历史文献分析]]
-> - **方法**[[Historical Document Analysis of Curriculum\|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术文献进行系统分析
+> - **方法**[[Historical Document Analysis of Curriculum\|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术[[Document|文献]]进行系统分析
 > - **数据来源** 《[[General Education\|通识教育]]科课程及评估指引》(2007)、《[[Citizenship and Social Development\|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 LS 的学术文献
 > - **分析范围** 限定在"意图课程"（intended curriculum）层面，即国家定义的官方课程，不涉及课堂实施或学生学习成果
 > - **时间跨度** 1997 年回归至 2021 年公民与社会发展科（CSD）实施，覆盖 LS 从酝酿到废除的全周期
@@ -211,7 +212,7 @@ LS 的创立过程是一个漫长的协商过程，港府试图通过充分的�
 
 **LS 持续被建构为社会运动的成因**
 
-LS 自 2009 年引入以来，一直被本地亲中政治力量质疑为年轻人参与社会运动的原因。2012 年德育及国民教育科争议(Morris & Vickers, 2015)、2014 年雨伞运动(Fung & Su, 2016)、2016 年旺角骚乱(Fung & Liang, 2018)中，LS 都被指为"罪魁祸首"。但这些批评在当时主要来自本地政治力量，尚未形成全国性的协调攻势。
+LS 自 2009 年引入以来，一直被本地亲中政治力量质疑为年轻人参与社会运动的原因。2012 年德育及[[National Education|国民教育]]科争议(Morris & Vickers, 2015)、2014 年雨伞运动(Fung & Su, 2016)、2016 年旺角骚乱(Fung & Liang, 2018)中，LS 都被指为"罪魁祸首"。但这些批评在当时主要来自本地政治力量，尚未形成全国性的协调攻势。
 
 ---
 

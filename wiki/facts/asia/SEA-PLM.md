@@ -10,7 +10,7 @@ subtype: program
 region: asia
 fact_region: "asia"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[SEAMEO]]"
   - "[[UNICEF]]"
   - "[[ASEAN]]"
   - "[[UN Sustainable Development Goals]]"
@@ -50,13 +51,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 东南亚初等教育学习指标（Southeast Asia Primary Learning Metrics, SEA-PLM）是 2014 年由东南亚教育部长组织（SEAMEO）秘书处与[[UNICEF|联合国儿童基金会]]东亚及太平洋区域办事处（UNICEF EAPRO）联合创立的区域大规模小学学业测评项目。该测评专门针对东南亚国家五年级（初小高年级）学生，测量其在母语或官方教学语言下的阅读、写作、数学表现，并开创性地将[[Global Citizenship|全球公民]]素养（Global Citizenship）纳入跨国评估框架，是[[ASEAN|东南亚国家联盟]]（东盟）内部最具制度代表性的初等学力监测工具。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
+> 东南亚初等教育学习指标（Southeast Asia Primary Learning Metrics, SEA-PLM）是 2014 年由[[SEAMEO|东南亚教育部长组织]]（SEAMEO）秘书处与[[UNICEF|联合国儿童基金会]]东亚及太平洋区域办事处（UNICEF EAPRO）联合创立的区域大规模小学学业测评项目。该测评专门针对东南亚国家五年级（初小高年级）学生，测量其在母语或官方教学语言下的阅读、写作、数学表现，并开创性地将[[Global Citizenship|全球公民]]素养（Global Citizenship）纳入跨国评估框架，是[[ASEAN|东南亚国家联盟]]（东盟）内部最具制度代表性的初等学力监测工具。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2014 年启动研发，2019 年实施首轮基准测评（SEA-PLM 2019），常态化按 4–5 年轮次推进，并筹划后续跟踪测试。

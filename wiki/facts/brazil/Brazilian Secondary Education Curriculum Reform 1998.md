@@ -35,7 +35,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Lifelong Learning]]"
   - "[[Problem Solving]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Floating Signifier]]"
   - "[[Policy Mobility]]"
   - "[[Governance by Spin]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Educational Decentralization]]"
   - "[[School Autonomy]]"
+  - "[[Document]]"
   - "[[Global Educational Discourse]]"
 related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-10-26
 >   - **三大知识领域重组** 将既有课程划归三大整合领域：
 >     1. 语言、编码及其技术（Languages, Codes and their Technologies，涵盖葡萄牙语、文学、外语、艺术与体育）；
 >     2. 自然科学、数学及其技术（Natural Sciences, Mathematics and their Technologies，涵盖数学、物理、化学与生物）；
->     3. [[Geisteswissenschaften|人文科学]]及其技术（Human Sciences and their Technologies，涵盖历史、地理、哲学与社会学）。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
+>     3. 人文科学及其技术（Human Sciences and their Technologies，涵盖历史、地理、哲学与社会学）。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 >   - **跨学科工作口号（Interdisciplinary Work）** 将跨学科确立为组织教学的核心技术机制，以此作为重构 12–14 门独立学科的法定正当性理由。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 >   - **核心通用能力规定** 围绕五大基础能力（掌握符号语言、理解社会自然现象、解决复杂情境问题、建构论证逻辑与制定行动方案）编排教学目标。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 > - **约束机制与内部结构并置**
@@ -203,7 +203,7 @@ updated: 2026-10-26
 > | [[Educational Decentralization]] | 概念 | 国际机构五大支柱模型的核心组成，在巴西与课程自主权共同推行但诱发基层行政脱节。 |
 > | [[School Autonomy]] | 概念 | 配合课程大纲改革下放给基层的决策自主权，在微观教学中面临评价机制与资源匮乏的制约。 |
 > | [[Jason Beech]] | 人物 | 深入拉美开展田野调研、系统解构此项改革理论内涵与话语机制的代表性学者。 |
-> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 论证 | 系统记录并理论解构巴西 1998 年课程改革三大领域与 14 门学科矛盾并置的经典文献。 |
+> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 论证 | 系统记录并理论解构巴西 1998 年课程改革三大领域与 14 门学科矛盾并置的经典[[Document\|文献]]。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 记录[[Global Educational Discourse\|全球教育话语]]在巴西微观遭遇、教师实训行政瘫痪及五位置模型的经典论证文献。 |
 
 ---

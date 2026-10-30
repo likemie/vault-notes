@@ -7,7 +7,7 @@ aliases:
 summary: "儒学学习传统第二主题，从修身出发承担社会与天下责任的道德使命，孟子首倡、朱熹系统化、近现代演化为救國救民"
 type: concept
 domain: "chinese-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Benevolence]]"
   - "[[The Great Learning]]"
+  - "[[Academic-Administrator Entrepreneurs]]"
   - "[[Avatar]]"
   - "[[Sage]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -65,7 +66,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 > [!note] 概念演变
 > - **[[Mencius\|孟子]]（ca. 372–289 BCE）** 首个明确提出"以天下为己任"——"承担天下的重量"。坚持独立于政治权力的独立教师身份，"在这一点上与[[Socrates\|苏格拉底]]不无相似"([[Argument_Li_2012_Cambridge\|Li, 2012, p.45]])
 > - **[[Zhu Xi\|朱熹]]（1130–1200）** 在《大学》中整合了[[The Great Learning\|八条目]]的系统路径：格物→致知→诚意→正心→[[Self-Cultivation\|修身]]→齐家→治国→平天下。后两步体现了以天下为己任([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-47]])
-> - **[[Civil Service Examination\|科举]]时代** 学者型官员（scholar-officials）是以天下为己任的制度[[Avatar\|化身]]——"几乎所有[[Neo-Confucianism\|新儒家]]学者都是朝廷官员"([[Argument_Li_2012_Cambridge\|Li, 2012, p.47]])
+> - **[[Civil Service Examination\|科举]]时代** [[Academic-Administrator Entrepreneurs|学者型官员]]（scholar-officials）是以天下为己任的制度[[Avatar\|化身]]——"几乎所有[[Neo-Confucianism\|新儒家]]学者都是朝廷官员"([[Argument_Li_2012_Cambridge\|Li, 2012, p.47]])
 > - **近现代（19 世纪末至今）** "以天下为己任"在民族危机中演化为"救國救民"——许多知识分子和学生将自己视为变革的能动者，赴欧美和日本学习科学和民主思想。国民党和共产党的许多创始领袖正是这批留学归国学生。赴海外留学的座右铭就是"救國救民"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.48-49]])
 
 ---

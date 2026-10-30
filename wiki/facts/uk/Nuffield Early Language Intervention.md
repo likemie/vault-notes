@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,23 +21,27 @@ tags:
   - "communication-and-language"
   - "early-years"
   - "targeted-approach"
-related_concepts: []
+related_concepts:
+  - "[[Language Skills]]"
+  - "[[Phonological Awareness]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[NELI Preschool]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 纳菲尔德早期语言干预（Nuffield Early Language Intervention，NELI）面向入学班中语言能力较弱的 4—5 岁儿童。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/nuffield-early-language-intervention)
+> 纳菲尔德早期语言干预（Nuffield Early Language Intervention，NELI）面向入学班中[[Language Skills|语言能力]]较弱的 4—5 岁儿童。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/nuffield-early-language-intervention)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>
@@ -46,7 +50,7 @@ updated: 2026-10-28
 ---
 
 > [!policy-design] 干预方案
-> - **学习活动** 以脚本化小组和个别活动发展词汇、主动倾听与叙事能力，后半段增加少量语音意识及字母语音知识内容。
+> - **学习活动** 以脚本化小组和个别活动发展词汇、主动倾听与叙事能力，后半段增加少量[[Phonological Awareness|语音意识]]及字母语音知识内容。
 
 [方案与实施安排](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/nuffield-early-language-intervention#nav-how-is-it-implemented)
 

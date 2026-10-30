@@ -15,7 +15,7 @@ summary: "一种让参与者在具身虚构情境或人机协同中扮演特定�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 46
+method_related_count: 47
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Shadow Hierarchy]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Authentic Assessment]]"
   - "[[Scaffolding]]"
   - "[[Visible Learning]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-10-29
 > [!ref-table]- 代表性实证、准实验与组织实践案例
 > <span class="concept-empirical-studies-table-marker" aria-hidden="true"></span>
 >
-> | 研究与实践文献 | 实施领域与设计 | 主要发现与指标 | 理论与方法启示 |
+> | 研究与实践[[Document\|文献]] | 实施领域与设计 | 主要发现与指标 | 理论与方法启示 |
 > |---|---|---|---|
 > | McCarthy and Anderson (2000) | 大学历史与政治学准实验比较（角色扮演 vs 传统讲授） | 角色扮演组后续标准评估得分显著更高（政治学均值差 $+0.8$，历史 $+1.0$） | 证实角色扮演对深层概念理解与多重视角采择的促进作用。 |
 > | Sellers (2002) | 研究生护理教育两小时“热座”期末考核 | 学习成果达成度高，学生对考核有效性评分达 $6.68–7.0$ / $7.0$ | 证明角色扮演可作为高质量的综合[[Authentic Assessment\|表现性评价]]工具。 |

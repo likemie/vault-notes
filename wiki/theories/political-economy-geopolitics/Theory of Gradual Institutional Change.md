@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷克、凯瑟琳·希伦与詹姆斯·马奥尼先后奠定；突破传统间断均衡模型将制度视为静态稳态的偏误，将制度界定为具有权力分配后果的社会规制；基于成文规则与基层执行之间的内生缝隙，系统建构置换、分层、漂移、转换与耗竭五大变迁形态，并通过否决门槛、执行裁量权与微观行动者联盟动力学，解释常态历史时期的颠覆性质变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 38
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/institutionalism
   - theme/institutional-change
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Displacement]]"
   - "[[Institutional Layering]]"
-  - "[[Institutional Conversion]]"
   - "[[Institutional Exhaustion]]"
   - "[[Liberalization]]"
   - "[[Veto Possibilities]]"
@@ -33,8 +32,11 @@ related_concepts:
   - "[[Symbionts]]"
   - "[[Opportunists]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Document]]"
   - "[[Variable]]"
+  - "[[Institutional Conversion]]"
   - "[[Strategic Compliance]]"
+  - "[[Zone of Discretion]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
 related_theories:
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -88,9 +90,9 @@ updated: 2026-10-22
 > - **形成路径** 首先将制度界定为依赖第三方强制力的社会规制体系，揭示规则设计与基层落实之间的结构性张力，建构过程（渐进/突发）与结果（延续/断裂）的二维属性矩阵，提炼五大渐进演进形态；随后引入微观行动者遵从博弈与否决点环境，形成完整的中观解释理论。
 
 > [!dev-timeline] 理论演进与学术扩展
-> - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
+> - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（conversion）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
 > - **2009 年 — 因果建模与行动者整合** 马奥尼与希伦建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”二维因果矩阵，将[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类变革行动者及同盟动力学引入模型，确立中观因果解释规范。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2011 年 — [[Policy Science in Comparative Education|政策科学]]对话与指标审视** 耶龙·[[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）系统梳理六十年期刊文献，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具[[Variable|变量]]精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
+> - **2011 年 — [[Policy Science in Comparative Education|政策科学]]对话与指标审视** 耶龙·[[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）系统梳理六十年期刊[[Document|文献]]，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具[[Variable|变量]]精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-10-22
 > **应用实例** 德国提前退休政策（Vorruhestand）原本为化解煤钢产业危机而设，但当其被泛化为全社会解决失业的万灵丹后，退休人员急剧膨胀，缴费人员严重缩水，常规运作自身彻底吃光了财政支撑根基，展现了典型的[[Institutional Exhaustion|制度耗竭]]机制。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 29–30]]）
 
 > [!theory-proposition] 命题四｜[[Veto Possibilities|政治否决阻力]]与[[Enforcement Discretion|制度裁量空间]]共同筛选主导行动者并限定演进路径
-> **解释** 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的解释执行裁量空间（高/低）构成双维空间，限定了四类演进模式并筛选出优势行动者：强否决+低裁量驱动[[Institutional Layering|制度分层]]，由表面守法但暗中增补新规的[[Subversives|颠覆者]]主导；强否决+高裁量驱动[[Institutional Drift|制度漂移]]，由利用漏洞寄生套利的[[Symbionts|共生者]]主导；弱否决+低裁量驱动[[Institutional Displacement|制度置换]]，由公开违规挑战现状的[[Insurrectionaries|起义者]]主导；弱否决+高裁量驱动[[Institutional Conversion|制度转换]]，由相机抉择利用模糊性的[[Opportunists|机会主义者]]主导。成功的制度演进往往依赖于跨阵营策略性政治联盟的构建。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–31)]]
+> **解释** 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的解释执行[[Zone of Discretion|裁量空间]]（高/低）构成双维空间，限定了四类演进模式并筛选出优势行动者：强否决+低裁量驱动[[Institutional Layering|制度分层]]，由表面守法但暗中增补新规的[[Subversives|颠覆者]]主导；强否决+高裁量驱动[[Institutional Drift|制度漂移]]，由利用漏洞寄生套利的[[Symbionts|共生者]]主导；弱否决+低裁量驱动[[Institutional Displacement|制度置换]]，由公开违规挑战现状的[[Insurrectionaries|起义者]]主导；弱否决+高裁量驱动[[Institutional Conversion|制度转换]]，由相机抉择利用模糊性的[[Opportunists|机会主义者]]主导。成功的制度演进往往依赖于跨阵营策略性政治联盟的构建。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–31)]]
 >
 > **应用实例** 巴西军政府时期的激进卫生改革者作为颠覆者，表面服从威权行政体系，利用基层偏远地区的治理真空分层建立自治诊所网络，直至民主化转型时期顺势重塑了全国公立医疗体制。（示例：Falleti 巴西卫生改革案例，Mahoney & Thelen, 2009, pp. 26, 30–31）
 

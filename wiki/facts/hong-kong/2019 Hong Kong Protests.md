@@ -11,7 +11,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -27,18 +27,19 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Xu_2024_CE]]"
   - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 背景
-> 2019 年反修例运动爆发前，香港与中央政府之间的张力已在多次事件中持续累积。2012 年的反国民教育运动迫使港府撤回德育及国民教育科；2014 年的雨伞运动进一步暴露了中心与边缘在政治认同上的深层分歧([[Argument_Xu_2024_CE\|Xu, 2024, p.578]])。与此同时，中央政府对香港教育——尤其是中国历史教育——的干预力度已在逐步加大：2013 年要求审查和修订中国历史教科书，2018 年将中国历史从其他科目中独立设置([[Argument_Xu_2024_CE\|Xu, 2024, pp.578–579]])。
+> 2019 年反修例运动爆发前，香港与中央政府之间的张力已在多次事件中持续累积。2012 年的反[[National Education|国民教育]]运动迫使港府撤回德育及国民教育科；2014 年的雨伞运动进一步暴露了中心与边缘在政治认同上的深层分歧([[Argument_Xu_2024_CE\|Xu, 2024, p.578]])。与此同时，中央政府对香港教育——尤其是中国历史教育——的干预力度已在逐步加大：2013 年要求审查和修订中国历史教科书，2018 年将中国历史从其他科目中独立设置([[Argument_Xu_2024_CE\|Xu, 2024, pp.578–579]])。
 >
 > 在这一背景下，2019 年初港府提出的《逃犯条例修订草案》成为点燃大规模抗议的导火索。运动的规模和年轻人的参与度远超此前任何一次社会运动，使中共将其定性为国家安全危机——这一框架为随后的系统性教育干预提供了合法性([[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p.488]])。
 

@@ -10,9 +10,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "多边教育与产教协同组织"
 headquarters: "广西南宁"
@@ -27,35 +27,38 @@ tags:
   - region/southeast-asia
   - level/international
 related_concepts:
+  - "[[Student Mobility]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Industry-Education Integration Community]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[ASEAN]]"
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[China-ASEAN Education Cooperation Week]]"
   - "[[Luban Workshop]]"
-  - "[[ASEAN]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 中国—东盟职业教育联合会（China-ASEAN Federation for Vocational Education, CAFEV）是由中国与东盟各国职业院校、应用技术大学、科研机构与骨干企业共同组建的跨国多边教育合作组织，旨在破除单校点状合作瓶颈，搭建集政策对话、产教融合、专业标准互认与师资共培于一体的综合性协作平台。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 293–294)]]
+> 中国—[[ASEAN|东盟]]职业教育联合会（China-ASEAN Federation for Vocational Education, CAFEV）是由中国与东盟各国职业院校、应用技术大学、科研机构与骨干企业共同组建的跨国多边教育合作组织，旨在破除单校点状合作瓶颈，搭建集政策对话、产教融合、专业标准互认与师资共培于一体的综合性协作平台。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 293–294)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 依托 2018–2022 年实施的“中国—东盟双百职校强强合作旗舰计划”，于 2023 年正式联合发起创设，以回应区域自贸全面深化后产业链对复合技能人才的紧迫需求。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 294)]]
 > - **总部地点 / 业务辐射** 秘书处常设于广西南宁，业务覆盖中国各省区骨干职业院校与东盟十国（文莱、柬埔寨、印尼、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国、越南）的技术院校及涉外企业。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 294)]]
 > - **法人属性与经费基础** 在教育主管部门指导下的跨国非营利性教育协作联盟；经费依托政府专项办会资助、院校会员互惠投入与涉外企业项目配套。
-> - **核心宗旨与法定职责** 落实《中国—东盟战略伙伴关系2030年愿景》，推进双向学生流动、专业学分互认、优质课程资源数字化共享及跨国现代工匠学院建设。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 298–300)]]
+> - **核心宗旨与法定职责** 落实《中国—东盟战略伙伴关系2030年愿景》，推进双向[[Student Mobility|学生流动]]、专业学分互认、优质课程资源数字化共享及跨国[[Chinese-ASEAN Modern Craftsmanship Institute|现代工匠学院]]建设。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 298–300)]]
 
 ---
 
@@ -130,7 +133,7 @@ updated: 2026-10-26
 > | [[Belt and Road Initiative]] | Fact (Program) | 联合会开展跨国技能人才培养与互联互通的宏观战略情境。 |
 > | [[Internationalization of Vocational Education]] | Concept | 联合会旨在推进的核心现代职业教育制度化转型进程。 |
 > | [[Industry-Education Integration Community]] | Concept | 联合会所推动的实体化跨区域产教组织形态。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 记录联合会创设发起规模、双百计划历程及多边生态构建路径的核心文献。 |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 记录联合会创设发起规模、双百计划历程及多边生态构建路径的核心[[Document\|文献]]。 |
 
 ---
 

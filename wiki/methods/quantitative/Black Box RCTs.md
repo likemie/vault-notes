@@ -8,7 +8,7 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
 - methodology
 - paradigm/positivist
 related_concepts:
+  - "[[Teacher Support for Students]]"
   - "[[Clinical Trial]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Utilization]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -73,7 +74,7 @@ updated: 2026-10-29
 >
 > 提高学生成就依赖于教师和校长的有效活动（Hattie & Anderman, 2013）。黑箱 RCT 几乎不提供信息来指导这些从业者的日常活动。在黑箱方法中，教师是向学生受试者成功交付项目设计的**管道**——极少数 RCT 设计考虑到实施者的经验([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 301]])。
 >
-> 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育实践可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有教师支持时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。
+> 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育实践可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有[[Teacher Support for Students|教师支持]]时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。
 >
 > **2. 实施薄弱与规模扩展失败**
 >

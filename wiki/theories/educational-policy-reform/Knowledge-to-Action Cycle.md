@@ -9,7 +9,7 @@ aliases:
 summary: "由伊恩·格雷厄姆等于2006年提出的实施科学经典过程模型，将知识转化解构为核心漏斗状的知识创造圈（知识探究、实证合成、知识工具）与外围环形的行动周期（问题界定、情境调整、障碍评估、干预定制、使用监测、效果评估及长效维持），在联合国教科文组织全球战略审查中被列为跨部门循证研究共被引图谱中居于核心的经典理论坐标。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - theme/evidence-informed-policy
   - theme/research-utilization
 related_concepts:
+  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Concept Mapping]]"
   - "[[Research Translation]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-10-26
 > - **解释对象** 科学证据向公共政策与实践行动转化的全流程机制，以及研究成果在跨越政学鸿沟时经历的认知加工与实践调适。
 > - **理论类型** 实施科学过程模型（Process Model）与知识转化[[Analytic Framework|分析框架]]。
 > - **核心问题** 揭示科学研究从初始分散产出走向决策实施的阶段性规律，破解“证据产出丰富但政策吸收滞后”的结构性阻滞。
-> - **学术坐标** 由加拿大卫生研究院（CIHR）学者伊恩·格雷厄姆（Ian D. Graham et al., 2006）在医学与公共卫生领域奠基，在[[UNESCO|联合国教科文组织]]全球证据利用审查中被确认为跨部门文献计量共被引网络中的核心理论坐标。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 30–31)]]
+> - **学术坐标** 由加拿大卫生研究院（CIHR）学者伊恩·格雷厄姆（Ian D. Graham et al., 2006）在医学与公共卫生领域奠基，在[[UNESCO|联合国教科文组织]]全球证据利用审查中被确认为跨部门[[Document|文献]]计量共被引网络中的核心理论坐标。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 30–31)]]
 
 > [!claim] 核心主张
 > 知识向行动的转化是一个高度迭代、动态交织的双重循环系统。模型将[[Research Utilization|知识利用]]拆解为中央倒漏斗状的“知识创造圈”（Knowledge Creation）与外围环绕的七阶段“行动周期”（Action Cycle）：知识只有经过从初级研究到实证合成、再到定制化工具的逐级精炼，并在政策端完成情境适配、障碍诊断与自适应实施监测，才能真正实现制度化采纳与行动改善。

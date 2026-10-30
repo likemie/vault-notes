@@ -10,7 +10,7 @@ aliases:
 summary: "描述学术同行评审流程中评审人与编辑受学者学术声望、隶属机构名望或地域外生标签影响而系统性偏离客观质量评价的认知偏误与制度困境；大规模随机对照试验确证单盲评审赋予名校顶尖团队显著更高的录用优势（达 1.76 倍），而引入自选双盲制度则反常诱发逆向选择，使主动隐去署名信息的普通机构成果遭遇更低的初筛送审与最终录用概率。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Scientific Credit]]"
   - "[[Discourse]]"
   - "[[Conference-Centric Publication Model]]"
   - "[[Matthew Effect in Academia]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-29
 ## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜单盲评审机制赋予高声望机构学者显著的超额录用因果优势
-> **探讨维度　[[Randomised Controlled Trials|随机对照实验]]确证声望偏倚[[Causality|因果性]]** 探讨[[Blinding|盲法]]控制如何消除不可观测混淆[[Variable|变量]]并揭示学术承认的体制特权。
+> **探讨维度　[[Randomised Controlled Trials|随机对照实验]]确证声望偏倚[[Causality|因果性]]** 探讨[[Blinding|盲法]]控制如何消除不可观测混淆[[Variable|变量]]并揭示[[Scientific Credit|学术承认]]的体制特权。
 
 > [!claim] Tomkins et al. (2017)
 > **单盲体制对知名学者的录用倾斜** Tomkins et al. (2017) 在网络搜索与数据挖掘顶级会议（WSDM）开展的大规模随机对照双轨实验证实，在相同投稿质量控制下，单盲轨道的评审专家对知名学者领导团队的成果评分显著高于双盲轨道；知名团队在单盲评审中的最终录用概率是双盲条件下的 1.76 倍，且来自顶尖知名学府的投稿在单盲下同样享有显著统计优势。这以严格因果试验证实单盲评审中存在强烈的正向声望溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]

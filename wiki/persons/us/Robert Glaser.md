@@ -7,7 +7,7 @@ summary: "美国教育心理学与教学设计理论家，程序化教学与标�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
   - behaviorism
   - assessment
 related_concepts:
+  - "[[Programmed Instruction]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Intentionality]]"
   - "[[Neo-Taylorism]]"
+  - "[[Document]]"
   - "[[Constructivist Paradigm]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Feedback]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （罗伯特·格拉泽）
@@ -61,7 +63,7 @@ updated: 2026-10-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、教学设计理论家，匹兹堡大学杰出教授，匹兹堡大学学习研究与发展中心（Learning Research and Development Center, LRDC）创办人。
-> - **核心角色** 承袭[[Behaviorism|行为主义]]心理学与工程系统论传统，开创了个别化程序教学模型与[[Criterion-Referenced Test|标准参照测验]]，是连接[[B. F. Skinner|斯金纳]]操作性条件反射与当代教学设计工程的关键理论枢纽；其系统控制模型直接启发了[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的早期教学论建模。
+> - **核心角色** 承袭[[Behaviorism|行为主义]]心理学与工程系统论传统，开创了个别化[[Programmed Instruction|程序教学]]模型与[[Criterion-Referenced Test|标准参照测验]]，是连接[[B. F. Skinner|斯金纳]]操作性条件反射与当代教学设计工程的关键理论枢纽；其系统控制模型直接启发了[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的早期教学论建模。
 > - **代表贡献** 首倡标准参照测验（Criterion-Referenced Measurement, CRM），确立以行为目标达成度替代常模群体排名的测评[[Paradigm|范式]]；构建包含起点行为评估、教学过程干预与矫正性反馈回路的四要素教学设计系统；作为早期理论源头深刻形塑了《[[Visible Learning|可见的学习]]》对教学效能与反馈机制的工程学界定。
 
 > [!citation-card] 格拉泽在[[Didaktik|教学理论]]思想史中的定位
@@ -121,7 +123,7 @@ updated: 2026-10-22
 > > [!axis] 思想史考证：[[Behaviorism|行为主义]]技术理性 vs [[Radical Constructivism|激进建构主义]]误读
 > > 辨析[[John Hattie|哈蒂]]援引格拉泽的学术归宿。
 > >
-> > - **勒默尔（Rømer, 2019）的误读** 将早年文献引用的 Glaser 误认为激进[[Constructivist Paradigm|建构主义]]奠基人恩斯特·冯·格拉瑟斯费尔德（[[Ernst von Glasersfeld]]），断言可见学习追求的是封闭的心智自组织。
+> > - **勒默尔（Rømer, 2019）的误读** 将早年[[Document|文献]]引用的 Glaser 误认为激进[[Constructivist Paradigm|建构主义]]奠基人恩斯特·冯·格拉瑟斯费尔德（[[Ernst von Glasersfeld]]），断言可见学习追求的是封闭的心智自组织。
 > > - **尼尔森等（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）的纠偏** 确凿考证出哈蒂（Hattie, 1987）依据的是罗伯特·格拉泽（Robert Glaser），证实可见学习的核心理论预设始终是行为主义的技术理性，而非建构主义（p. 4）。
 
 ---

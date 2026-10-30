@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - theme/global-governance
   - theme/educational-policy
 related_concepts:
+  - "[[Structural Adjustment Programs]]"
   - "[[Learning Crisis]]"
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-23
 
 > [!dev-timeline] 组织发展历程
 > - **1960–1970s — 优惠信贷窗口创设与基础教育试点拓展** 1960 年国际开发协会正式签署成立协定；初期确立了偿还期长达 50 年（后调整为 35–40 年）、含 10 年宽限期、零利率且仅收取 0.75% 承诺管理费的超长期软贷款标准。1962 年向突尼斯发放首笔中等教育援助贷款，拉开了[[World Bank|世界银行]]集团涉足教育事业的序幕。在罗伯特·麦克纳马拉（Robert McNamara）执政时期，协会大幅扩大了向亚非拉新独立贫困国家的初等教育、农业职业教育与乡村校舍建设资金投放。
-> - **1980s–1990s — 结构调整配合、受限主权与[[Education for All|全民教育]]议程确立** 20 世纪 80 年代[[Latin American Debt Crisis of 1982|拉美债务危机]]与非洲经济衰退期间，协会深度参与推行结构调整计划（SAPs），将优惠贷款的发放与受援国紧缩公共财政、削减教育编制及引入用户分摊费用捆绑，导致最贫困国家教育普及进程遭受波折。1990 年宗迪恩世界[[Education for All|全民教育]]大会确立后，协会迅速转向初等基础教育普及（Primary Education），成为撒哈拉以南非洲和南亚普及基础教育的绝对核心资金支柱；同时建立“重债穷国减债倡议”（HIPC），免除极度贫困国家的不可持续多边债务。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 474)]]
+> - **1980s–1990s — 结构调整配合、受限主权与[[Education for All|全民教育]]议程确立** 20 世纪 80 年代[[Latin American Debt Crisis of 1982|拉美债务危机]]与非洲经济衰退期间，协会深度参与推行结构调整计划（[[Structural Adjustment Programs|SAPs]]），将优惠贷款的发放与受援国紧缩公共财政、削减教育编制及引入用户分摊费用捆绑，导致最贫困国家教育普及进程遭受波折。1990 年宗迪恩世界[[Education for All|全民教育]]大会确立后，协会迅速转向初等基础教育普及（Primary Education），成为撒哈拉以南非洲和南亚普及基础教育的绝对核心资金支柱；同时建立“重债穷国减债倡议”（HIPC），免除极度贫困国家的不可持续多边债务。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 474)]]
 > - **2000s–至今 — [[Global Partnership for Education|全民教育快车道倡议]]、混合融资模式与[[Learning Crisis|学习危机]]应对** 2000 年达喀尔世界教育论坛与联合国千年发展目标（MDGs）设立后，协会联合各主要捐助国设立全民教育快车道倡议（FTI，后改组为[[Global Partnership for Education|全球教育伙伴关系]]），为无力自主筹集教育预算的贫困国提供托底赠款。2016 年（IDA18 补充周期）开创性地获得 AAA 国际信用评级并首次进入国际债券市场发行混合融资债券，放大捐助国资本杠杆。近年来，协会重点应对撒哈拉以南非洲与受冲突影响地区的“学习贫困”（Learning Poverty）危机，全面加大无偿赠款（Grants）在脆弱和受冲突影响局势（Fragile and Conflict-affected Situations, FCS）国家教育支出中的占比。
 
 ---

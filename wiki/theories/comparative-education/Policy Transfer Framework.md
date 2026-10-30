@@ -8,7 +8,7 @@ aliases:
 summary: "由戴维·多洛维茨与戴维·马什系统建构的比较公共政策与政策科学分析框架，围绕转移主体、动机、客体、来源、程度与制约因素六大维度，解构知识、制度安排与治理工具跨越管辖边界的流动与本土重塑机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Welfare-to-Work]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-10-25
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 戴维·多洛维茨与戴维·马什（David Dolowitz & David Marsh）在 1996 年与 2000 年的奠基性文献中确立该框架（Dolowitz & Marsh, 1996, 2000）。
+> - **提出者与原始文本** 戴维·多洛维茨与戴维·马什（David Dolowitz & David Marsh）在 1996 年与 2000 年的奠基性[[Document|文献]]中确立该框架（Dolowitz & Marsh, 1996, 2000）。
 > - **原初问题** 既有政策文献在解释政策跨辖区扩散时，往往割裂微观能动者的经验借鉴（如[[Richard Rose|理查德·罗斯]]的主张）与宏观结构的[[Institutional Isomorphism|制度同构]]压力。
 > - **理论资源与材料** 综合了理查德·罗斯（Richard Rose）关于经验借鉴（Lesson-Drawing）的规范探讨、新制度主义政治学以及跨国公共行政变革的多国实证案例。
 > - **形成路径** 将跨国政策采纳过程拆解为谁、为何、何物、何处、程度、限制与失败 6 个相互关联的核心设问，构建起系统化的多维分析矩阵。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 331–333)]]

@@ -9,9 +9,9 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Encuentros sobre Educación"
 citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101."
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Creativity Training]]"
   - "[[Abstract]]"
+  - "[[Document]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -61,7 +62,7 @@ sources:
   - "[[sources/Schulte_2009_EncuentrosEducacion|Schulte_2009_EncuentrosEducacion]]"
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2009
 doi: ""
 citation_aliases:
@@ -289,7 +290,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 ---
 
 > [!warning] 自述局限
-> - 该研究的分析素材以公开发表的中文文献为主，对各个时期实际政策制定过程的链接为间接推断，未系统利用未公开的档案材料或内部政策讨论记录
+> - 该研究的分析素材以公开发表的中文[[Document|文献]]为主，对各个时期实际政策制定过程的链接为间接推断，未系统利用未公开的档案材料或内部政策讨论记录
 > - 不同时段资料覆盖不均衡：民国时期和 1980 年代的出版物较为丰富，1950–1960 年代因政治环境限制，可获得的文本在数量和类型上存在偏差；1990 年代后的资料量大但选择性较强
 > - 该研究聚焦于学术精英和官方出版物中的[[John Dewey\|杜威]][[Discourse|话语]]，未涉及课堂实践层面。教师在日常教学中如何理解和使用杜威、杜威思想在非正式教育空间中的传播，均不在分析范围内
 

@@ -9,7 +9,7 @@ summary: "美国教育史学家与比较教育学家，密歇根大学比较教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Champ]]"
   - "[[Influences Across Cultures]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Scientific Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -94,7 +93,7 @@ updated: 2026-10-26
 > 教育制度从来不是孤立封闭的民族产物，任何试图脱离世界文明交融与跨国文化互渗来理解本国教育传统的企图都是狭隘且危险的。历史学的人文考据传统必须打破国界藩篱；比较教育学真正的生命力在于将历史纵深的批判眼光与横向跨文化的全球视野相融合。学者唯有超越单一国别立场的自满，以共情且理性的学术姿态审视异域文明的教化实践，才能在全球化时代为国际理解与和平筑牢思想防线。
 
 > [!citation-card] 埃格特森论跨国比较对历史研究狭隘性的克服
-> 孤立考察一个国家的教育体系，往往会让人将暂时的、地域性的偶然制度当成永恒的真理；唯有置身于跨国比较的宏大广角镜中，教育史才能真正成为启迪智慧的[[Geisteswissenschaften|人文科学]]。
+> 孤立考察一个国家的教育体系，往往会让人将暂时的、地域性的偶然制度当成永恒的真理；唯有置身于跨国比较的宏大广角镜中，教育史才能真正成为启迪智慧的人文科学。
 >
 > *"To study education in isolation from the world is to mistake the parochial for the universal; only through cross-cultural comparison does the history of education realize its liberating mission."* (Eggertsen, cit. in Rust, 1987)
 

@@ -8,10 +8,10 @@ summary: "美国早期著名计算机工程师、反文化活动家、硬件黑�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1945"
 died: ""
 lifespan: "1945–至今"
@@ -23,6 +23,7 @@ tags:
   - theme/hardware-engineering
   - region/us
 related_concepts:
+  - "[[Home Environment]]"
   - "[[Counterculture Computing]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-22
 ---
 
 > [!timeline] 生平与职涯发展
-> - **1945年** 出生于美国宾夕法尼亚州费城，成长于深具左翼与民权政治意识的家庭环境。
+> - **1945年** 出生于美国宾夕法尼亚州费城，成长于深具左翼与民权政治意识的[[Home Environment|家庭环境]]。
 > - **1964–1972年** 在加利福尼亚大学伯克利分校求学期间深度投身“自由言论运动”（Free Speech Movement）与反越战抗议浪潮，曾担任伯克利反主流地下刊物《伯克利倒爷》（*Berkeley Barb*）的军事编辑。
 > - **1973年** 在伯克利主导设立“社区记忆”（Community Memory）公共计算项目，在唱片店与公社门口放置免费检索终端，探索去中心化的公共信息平权。
 > - **1975年** 在加州门洛帕克主持成立[[Homebrew Computer Club|家酿计算机俱乐部]]，开创“映射阶段”（Mapping Session）自组织机制，为苹果创始人[[Steve Jobs|史蒂夫·乔布斯]]与沃兹尼亚克等数百名早期极客提供电路图与硬件开源互助网络。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]

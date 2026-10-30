@@ -7,7 +7,7 @@ aliases:
 summary: "因果模型中对变量的结构区分：外生变量不被模型中其他变量所引起，内生变量受模型中其他变量的影响。与递归/非递归模型和因果网络密切相关"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
 related_theories: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -41,7 +42,7 @@ updated: 2026-10-22
 在 Blalock 所倡导的[[Causal Modeling|因果建模]]传统中，视觉模型从左到右排列[[Variable|变量]]，独立的外生变量位于最左侧，内生变量位于中段和右侧。箭头从外生变量流出，流向内生变量和最终的[[Dependent Variable|因变量]]。这种区分帮助研究者明确模型的因果结构，理清哪些变量是"给定"的起点，哪些变量是模型试图解释的中间或终结环节。
 
 > [!example|notitle]
-> Jungnickel (1990) 在研究药学院教师研究生产力的因果模型中，从护理学文献（Megel et al., 1987）中改编了一个理论框架。该模型将所有外生变量置于最左侧，包括：
+> Jungnickel (1990) 在研究药学院教师研究生产力的因果模型中，从护理学[[Document|文献]]（Megel et al., 1987）中改编了一个理论框架。该模型将所有外生变量置于最左侧，包括：
 > - 人口统计学变量（demographic variables）
 > - 机构终身教职标准（institutional tenure standards）
 > - 终身教职轨聘任（tenure-track appointment）

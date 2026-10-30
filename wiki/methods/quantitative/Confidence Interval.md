@@ -10,7 +10,7 @@ summary: "围绕点估计给出的区间估计形式，由置信水平和标准�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -26,9 +26,9 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Variable]]"
   - "[[Construct]]"
-  - "[[Reliability]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Heterogeneity]]"
   - "[[Interpretive Validity]]"
@@ -43,9 +43,7 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Prediction Interval]]"
   - "[[Statistical Significance]]"
-  - "[[Fixed-Effect Model]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Random Sampling]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Rasch Measurement]]"
 related_instruments:
@@ -113,7 +111,7 @@ updated: 2026-10-30
 > [!method-stack] 方法层级
 > - **上位方法** 统计推断（Statistical Inference）、参数估计理论。
 > - **前置步骤** [[Standard Error|标准误]]计算、抽样分布设定（渐近正态分布、$t$ 分布）、置信水平设定。
-> - **变体与扩展** Student's $t$ 小样本置信区间、非参数 Bootstrap 置信区间、效应量标准化置信区间（Cohen's $d$, Hedges' $g$）、逆方差加权联合置信区间。
+> - **变体与扩展** Student's $t$ 小样本置信区间、非参数 Bootstrap 置信区间、效应量标准化置信区间（Cohen's $d$, Hedges' $g$）、[[Inverse-Variance Weighting|逆方差加权]]联合置信区间。
 
 > [!formula-set]- 置信区间计算与推断推导流程
 > ```mermaid
@@ -240,7 +238,7 @@ updated: 2026-10-30
 >   - **教育证据向决策者传播转化** 实践者往往难以直观理解连续区间统计意义；英美[[Educational Brokerage Agency|证据中介机构]]（如英国 [[Education Endowment Foundation|EEF]]）常在保留底层 95% CI 的同时，在前端工具包中折叠转换为“额外学习月数”并辅以[[EEF Padlock Security Rating|挂锁安全评级]]。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 56–58)]]
 > - **不适合使用**
 >   - [[Sample Size Determination|样本量]]极小且严重偏离正态分布、无有效大样本近似方差的数据集（应改用 Bootstrap 置信区间或精确置信区间）。
->   - 存在严重集群依赖或文献重叠却未做方差校正的数据集（计算出的经典 CI 属于虚假置信区间）。
+>   - 存在严重集群依赖或[[Document|文献]]重叠却未做方差校正的数据集（计算出的经典 CI 属于虚假置信区间）。
 
 ---
 

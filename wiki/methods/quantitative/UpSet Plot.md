@@ -8,7 +8,7 @@ summary: "一种基于矩阵点阵与条形图的定量多集合交集可视化�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
   - method/set-theory
 related_concepts:
   - "[[Unit of Analysis]]"
+  - "[[Document]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Decodification]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-10-29
 > [!method-scope] 方法范围
 > - **研究对象** 多个分类集合、多评分者判断、多模型预测标签、二值多标签属性或复杂子群组合。
 > - **问题类型** 适合回答集合间交集规模分布、多源数据共识程度、评分者间分歧结构、错误聚集模式与属性归因。
-> - **[[Unit of Analysis\|分析单位]]** 数据点、观测样本、文献篇目、基因位点、题项编码或特征集合。
+> - **[[Unit of Analysis\|分析单位]]** 数据点、观测样本、[[Document|文献]]篇目、基因位点、题项编码或特征集合。
 > - **输出形式** 按频数或属性排序的非重叠子集交集图谱、成员从属矩阵与边际集合规模对比图。
 
 > [!citation-card] 集合交集可视化的核心规范

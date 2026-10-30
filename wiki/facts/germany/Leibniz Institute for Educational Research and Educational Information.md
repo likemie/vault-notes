@@ -15,7 +15,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -34,7 +34,9 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Comprehensive Education]]"
+  - "[[Test-Based Accountability]]"
   - "[[Experiential Learning]]"
+  - "[[Document]]"
   - "[[Total War]]"
   - "[[Bildung]]"
   - "[[Further Education]]"
@@ -48,6 +50,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
   - "[[Problem Solving]]"
+  - "[[Differentiated Instruction]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -75,17 +78,17 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 莱布尼茨教育研究与教育信息研究所（德语：Leibniz-Institut für Bildungsforschung und Bildungsinformation, 缩写为 DIPF；曾用名：德国[[International Education\|国际教育]]研究所 German Institute for International Educational Research）是德意志联邦共和国历史最悠久、规模最大的国家级非大学实证教育研究与教育信息基础设施中枢。米特（[[Wolfgang Mitter]]）指出，DIPF 与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]共同构成了战后西德大学体系之外的两大国家级比较教育实体研究支柱。研究所作为莱布尼茨学会（Leibniz Association）核心成员，受[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）与[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合资助与委托，主导编撰德国国家[[Comprehensive Education|综合教育]]报告（Bildungsbericht）、研发技术支持测评（TBA），并协同慕尼黑工业大学（TUM）与基尔莱布尼茨科学与数学教育研究所（IPN）共同组建[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]；[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]；[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> 莱布尼茨教育研究与教育信息研究所（德语：Leibniz-Institut für Bildungsforschung und Bildungsinformation, 缩写为 DIPF；曾用名：德国[[International Education\|国际教育]]研究所 German Institute for International Educational Research）是德意志联邦共和国历史最悠久、规模最大的国家级非大学实证教育研究与教育信息基础设施中枢。米特（[[Wolfgang Mitter]]）指出，DIPF 与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]共同构成了战后西德大学体系之外的两大国家级比较教育实体研究支柱。研究所作为莱布尼茨学会（Leibniz Association）核心成员，受[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）与[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合资助与委托，主导编撰德国国家[[Comprehensive Education|综合教育]]报告（Bildungsbericht）、研发技术支持测评（[[Test-Based Accountability|TBA]]），并协同慕尼黑工业大学（TUM）与基尔莱布尼茨科学与数学教育研究所（IPN）共同组建[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]；[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]；[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1951 年创设于美占区法兰克福（初名国际教育研究高等学校 Hochschule für Internationale Pädagogische Forschung），旨在战后引入现代[[Experiential Learning\|经验教育]]科学与跨国比较方法重建德国教育学术；1964 年转制为跨州联合资助的德国国际教育研究所（DIPF）；2018 年正式更名为莱布尼茨教育研究与教育信息研究所，强化其数字时代教育信息学与基础设施职能。
-> - **总部地点与业务辐射** 设法兰克福（主园区，聚焦实证教育研究与信息学）与柏林（教育史研究图书馆 BBF 园区，聚焦历史与文献档案）；业务辐射全德 16 个联邦州，并承担多项[[EU|欧盟]]与国际跨国测评技术支撑。
+> - **总部地点与业务辐射** 设法兰克福（主园区，聚焦实证教育研究与信息学）与柏林（教育史研究图书馆 BBF 园区，聚焦历史与[[Document|文献]]档案）；业务辐射全德 16 个联邦州，并承担多项[[EU|欧盟]]与国际跨国测评技术支撑。
 > - **法人属性与经费基础** 属于公法资助的独立学术机构，依托联邦与各州政府联合科学委员会（GWK）机制由 BMBF 与 16 州各按 50% 比例实行长期稳定联合财政拨款。
 > - **核心宗旨与法定职责** 致力于将严谨的实证教育科学研究与前沿的数字信息基础设施深度融合，为教育决策层、学术界与公众提供全生命周期的国家教育系统监测知识、科学数据托管与开放教育资源服务。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140, 145)]]
 
@@ -153,7 +156,7 @@ updated: 2026-10-22
 > > 争论计算机化测评（TBA）是否将复杂丰富的师生课堂互动过度简化为屏幕点击与反应时算法。
 > >
 > > - **[[Critical Pedagogy\|批判教育学]]者** 担忧过度依赖技术驱动测评会导致教育评价沦为算法工程学。
-> > - **DIPF 技术团队** 阐明过程性数据（Process Data）挖掘有助于揭示学生的深度[[Problem Solving\|问题解决]]策略与试错路径，为差异化教学提供前所未有的认知微观证据。
+> > - **DIPF 技术团队** 阐明过程性数据（Process Data）挖掘有助于揭示学生的深度[[Problem Solving\|问题解决]]策略与试错路径，为[[Differentiated Instruction|差异化教学]]提供前所未有的认知微观证据。
 
 ---
 

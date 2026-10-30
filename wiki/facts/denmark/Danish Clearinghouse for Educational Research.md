@@ -9,7 +9,7 @@ subtype: organization
 region: denmark
 fact_region: "denmark"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Education]]"
   - "[[Research Translation]]"
+  - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Return on Investment]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 组织发展与兴衰历程
-> - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review\|系统综述]]技术标准与文献编码规程([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
+> - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review\|系统综述]]技术标准与[[Document|文献]]编码规程([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **2007 — 确立为 [[OECD]] 国际标杆样本** 经合组织在 2007 年标志性研究报告中将该中心列为全球 6 家核心中介机构之一，赞誉其在非英语国家推动[[Evidence-Based Policy-Making|循证决策]]的先驱探索([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])。
 > - **2008–2015 — 跨国网络参与与成果高产期** 深度加入欧洲教育证据知情政策与实践网络（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），针对包容教育、小班化教学、教师合作与学生心理福祉连续发布数十部丹麦语系统综述，成为北欧循证政策的重要智力依托。
 > - **2017 — 资助中断与彻底关停** 伴随丹麦政党轮替与新一届政府财政紧缩，教育科研资助重心发生重组；政府决定不再续签 2–3 年期的清算中心资助合同，该中心因缺乏独立捐赠基金与法定预算而被迫于 2017 年彻底关停（Closed in 2017）([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])。

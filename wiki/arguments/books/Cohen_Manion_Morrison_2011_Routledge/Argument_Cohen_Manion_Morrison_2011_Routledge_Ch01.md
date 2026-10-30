@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 131
+argument_related_count: 132
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -162,6 +162,7 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
+  - "[[Harvey C. Lehman]]"
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -170,7 +171,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-06-16
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 ---
 
@@ -774,7 +775,7 @@ updated: 2026-10-29
 > - **实践驱动与“有效即真理”** 实用主义不沉溺于纯粹抽象的思辨争鸣，而是紧紧扣住现实实践问题的有效解决（Denscombe, 2008; Feilzer, 2010）。探究方法的优劣唯一取决于其能否交付切实的洞见。
 > - **实在的单一性与[[Multiplicity\|多重性]]并存** 实用主义承认客观世界的规律性，同时也接纳主观建构的多重意义，在科学主义与人本主义之间建立务实张力。
 > - **目的适切性** 研究设计的灵魂是[[Research Question\|研究问题]]，探究方法完全服从于[[Research Purpose\|研究目的]]（Greenfield, 1975；p. 655）。方法论的折衷与多元选择，绝非无原则的“怎么都行”，而是拥有极其严密的实践检验标准。
-> - **相互阐发原则** 艾伦·布莱曼（Alan Bryman）强调，真正的混合方法绝非简单地在同一报告中机械罗列数值与引文，而必须实现量化与质性维度的 **“相互阐发”** 与深层融合（Bryman, 2007a）。
+> - **相互阐发原则** 艾伦·布[[Harvey C. Lehman|莱曼]]（Alan Bryman）强调，真正的混合方法绝非简单地在同一报告中机械罗列数值与引文，而必须实现量化与质性维度的 **“相互阐发”** 与深层融合（Bryman, 2007a）。
 
 > [!case] 质性动因对统计数字的深度解码：“学校像监狱”案例
 > 在教育测量中，“学校像监狱”的调查案例展现了量化统计背后的质性多义性（p. 681）：

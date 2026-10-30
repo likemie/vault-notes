@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,23 +20,26 @@ tags:
   - "region/uk"
   - "cross-curriculum"
   - "whole-school-approach"
-related_concepts: []
+related_concepts:
+  - "[[Formative Assessment]]"
+  - "[[Learner Autonomy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 嵌入式形成性评价项目（Embedding Formative Assessment，EFA）面向全校教师；原成效评估考察中学十一年级学生。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/embedding-formative-assessment)
+> 嵌入式[[Formative Assessment|形成性评价]]项目（Embedding Formative Assessment，EFA）面向全校教师；原成效评估考察中学十一年级学生。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/embedding-formative-assessment)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>
@@ -45,7 +48,7 @@ updated: 2026-10-28
 ---
 
 > [!policy-design] 干预方案
-> - **学习活动** 围绕学习目标、学习证据、同伴支持、自主学习与反馈开展研修，教师在课堂尝试评价方法并相互观课。
+> - **学习活动** 围绕学习目标、学习证据、同伴支持、[[Learner Autonomy|自主学习]]与反馈开展研修，教师在课堂尝试评价方法并相互观课。
 
 [方案与实施安排](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/embedding-formative-assessment#nav-how-is-it-implemented)
 

@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Venture Philanthropy]]"
   - "[[International Education]]"
+  - "[[Document]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Systems of Innovation]]"
@@ -78,7 +79,7 @@ related_methods:
 related_persons: []
 status: draft
 created: 2026-06-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -473,7 +474,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 自述局限
-> 本书在成稿过程中参阅了政府部门的发展规划、总结报告和文献资料，获得了广东省科学技术厅一手材料的支持。但作为政策研究类著作，存在以下局限：模型的理论检验主要基于定性分析，缺乏大规模定量数据验证；国际比较以三[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]为主，未涵盖新兴经济体的湾区建设经验；对策建议的可行性和效果有待实践检验。编者表示"创新是引领发展的第一动力，研究科技创新双循环生态系统正当其时"，将在总结经验的基础上实现理论创新，再应用理论指导区域创新实践（前言）。
+> 本书在成稿过程中参阅了政府部门的发展规划、总结报告和[[Document|文献]]资料，获得了广东省科学技术厅一手材料的支持。但作为政策研究类著作，存在以下局限：模型的理论检验主要基于定性分析，缺乏大规模定量数据验证；国际比较以三[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]为主，未涵盖新兴经济体的湾区建设经验；对策建议的可行性和效果有待实践检验。编者表示"创新是引领发展的第一动力，研究科技创新双循环生态系统正当其时"，将在总结经验的基础上实现理论创新，再应用理论指导区域创新实践（前言）。
 
 ---
 ## 来源

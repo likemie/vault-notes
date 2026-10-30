@@ -9,10 +9,10 @@ aliases:
 summary: "19 世纪早期欧美官方教育考察者所采取的一种描述性比较取向，将外国具体学校机构与教学管理规程孤立于社会历史脉络之外进行白描记录与政策借用，后被萨德勒等学者批判并推动学科发生文化转向"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - theme/methodology
@@ -41,13 +41,14 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Andreas Kazamias]]"
-related_facts: []
+related_facts:
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-22
 > > 争论焦点在于外国学校经验是否具备跨国可移植性。
 > >
 > > - **以校为中心借用者** 假设优秀的教学法与学校组织形式具有通用效能，可以通过立法自上而下嫁接移植。
-> > - **历史学派学者（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、卡扎米亚斯）** 强调国民教育体系是活生生的有机体，任何脱离其本土社会土壤的学校制度嫁接都必然遭遇排异反应乃至导致制度灾难。
+> > - **历史学派学者（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、卡扎米亚斯）** 强调[[National Education|国民教育]]体系是活生生的有机体，任何脱离其本土社会土壤的学校制度嫁接都必然遭遇排异反应乃至导致制度灾难。
 
 > [!citation-card] 萨德勒论校外事物对校内事物的支配
 > 因此，如果我们打算研究外国教育制度，我们绝不能只将目光盯在砖石构建的学校建筑上，亦不能仅仅关注教师和学生；我们必须走到大街上，走进人们的家庭中，探寻究竟是什么不可捉摸、无形的心灵精神力量，在现实中支撑着学校制度并决定着它的实际效能……在研究外国教育制度时，我们不应忘记：校外的事物比校内的事物更为重要，并且支配和解释着校内的事物。一个国家的教育体系是一个活生生的有机体。[[Argument_Kazamias_2009_HistoricalReflections|(Sadler, 1900; Kazamias, 2009a, pp. 141–142)]]

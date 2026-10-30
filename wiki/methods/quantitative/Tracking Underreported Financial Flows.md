@@ -9,9 +9,9 @@ summary: "由 AidData 开发的系统化非官方披露跨境资金流追踪方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -21,40 +21,52 @@ tags:
   - theme/public-diplomacy
   - theme/geocoding
 related_concepts:
-  - "[[Geopolitics]]"
+  - "[[Tracking]]"
+  - "[[Unit of Analysis]]"
   - "[[Public Diplomacy]]"
+  - "[[Epistemology]]"
+  - "[[Falsification]]"
+  - "[[Reliability]]"
+  - "[[Causality]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Geopolitics]]"
 related_facts:
+  - "[[TUFF]]"
   - "[[AidData]]"
+  - "[[OECD]]"
+  - "[[Luban Workshop]]"
 related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
+related_methods:
+  - "[[Triangulation]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Tracking Underreported Financial Flows
-> 未充分报告资金流追踪法（Tracking Underreported Financial Flows, TUFF）是由威廉与玛丽学院 AidData 研究实验室开发的一套标准化量化数据搜集与空间编码方法，旨在系统收集、清洗和交叉验证非经济合作与发展组织发展援助委员会（OECD-DAC）成员国对外提供的发展金融、官方援助、教育援建与人力资源培训项目数据。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 77–78)]]
+> 未充分报告资金流追踪法（[[Tracking]] Underreported Financial Flows, [[TUFF]]）是由威廉与玛丽学院 [[AidData]] 研究实验室开发的一套标准化量化数据搜集与空间编码方法，旨在系统收集、清洗和交叉验证非[[OECD|经济合作与发展组织]]发展援助委员会（OECD-DAC）成员国对外提供的发展金融、官方援助、教育援建与人力资源培训项目数据。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 77–78)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 未加入国际发展援助透明度机制的国家所实施的跨境资助、贷款、校舍援建、全额奖学金发放、职业技术培训中心及语言文化机构。
 > - **问题类型** 回答跨境官方资金的投入规模测度、历时演变趋势、受援部门结构分配以及次国家空间地理集聚特征。
-> - **分析单位** 单个援助/合作项目交易记录、受援国次国家行政区（一级或二级行政区划）以及国家年份面板。
+> - **[[Unit of Analysis|分析单位]]** 单个援助/合作项目交易记录、受援国次国家行政区（一级或二级行政区划）以及国家年份面板。
 > - **输出形式** 具备经纬度地理标记、项目生命周期状态、折算为可比美元价值的项目级微观交易数据库。
 
 > [!citation-card] 开放信源与空间三角测量
-> TUFF 方法依托开放来源情报体系，综合政府公报、多语种媒体报道、使领馆公开记录与受援国议会问辩，通过多重交叉核对消除非官方申报带来的信息不透明，将发展金融与公共外交数据精准锚定至次国家空间坐标。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 77)]]
+> TUFF 方法依托开放来源情报体系，综合政府公报、多语种媒体报道、使领馆公开记录与受援国议会问辩，通过多重交叉核对消除非官方申报带来的信息不透明，将发展金融与[[Public Diplomacy|公共外交]]数据精准锚定至次国家空间坐标。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 77)]]
 >
-> *The TUFF methodology uses a multi-stage tracking and synthesis protocol to gather and triangulate open-source information about opaque financial flows, converting project records into geocoded datasets for subnational empirical analysis.*
+> *The TUFF methodology uses a multi-stage tracking and synthesis protocol to gather and [[Triangulation|triangulate]] open-source information about opaque financial flows, converting project records into geocoded datasets for subnational empirical analysis.*
 
 ---
 
-> [!method-position] 认识论与方法定位
-> - **知识观** 视非透明制度环境下的跨境资金流动为可通过多源公开信息碎片重构的可观察事实，坚持开放透明与可证伪的数据构建原则。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 视非透明制度环境下的跨境资金流动为可通过多源公开信息碎片重构的可观察事实，坚持开放透明与可[[Falsification|证伪]]的数据构建原则。
 > - **研究者角色** 研究者通过制定严格的信源准入标准、独立背靠背双重编码与第三方复核规则，最大限度剔除单一主观报告带来的偏倚。
-> - **有效性标准** 遵循测量效度与内部信度标准，要求每个项目具备可溯源的原始凭证链接，并设置 1 至 8 级空间精度代码评估地理定位的不确定性。
+> - **有效性标准** 遵循测量效度与内部[[Reliability|信度]]标准，要求每个项目具备可溯源的原始凭证链接，并设置 1 至 8 级空间精度代码评估地理定位的不确定性。
 > - **不声称回答的问题** 该方法本身属于描述性与空间测度工具，仅提供资金与项目分布的事实度量，不能直接作为政策效应因果识别的充分依据。
 
 > [!method-stack] 方法层级
@@ -70,12 +82,12 @@ updated: 2026-10-29
 > 2. 构建多语种公开信源爬取索引，覆盖政府官方公报、使领馆网站与本地权威媒体。
 > 3. 对抓取到的项目信息进行去重整合，提取项目名称、资助金额、实施主体与地理位置。
 > 4. 执行双独立研究员背靠背交叉验证，评定项目实施状态与地理定位精度代码。
-> 5. 产出标准化项目级微观数据库，支持空间自相关分析与计量经济学因果推断。
+> 5. 产出标准化项目级微观数据库，支持空间自相关分析与计量经济学[[Causality|因果推断]]。
 
 > [!method-stack] 数据结构与编码标准
 > - **生命周期分类** 项目被严格界定为四个互斥状态：正式认捐（Pledged）、协议承诺（Committed）、具体实施中（Implementing）以及竣工交付（Completed）。在测度实际落地成效时，通常仅采纳后两个状态。
 > - **空间精度分级** 采用 1 至 8 级地理代码：
->   - **代码 1** 精确物理坐标点（如特定大学校区、医院或特定鲁班工坊大楼）。
+>   - **代码 1** 精确物理坐标点（如特定[[Grandes Ecoles|大学校]]区、医院或特定[[Luban Workshop|鲁班工坊]]大楼）。
 >   - **代码 2** 位于特定点状设施周边 25 公里半径内。
 >   - **代码 3** 次国家二级行政区（县或自治市）。
 >   - **代码 4** 次国家一级行政区（省或邦）。

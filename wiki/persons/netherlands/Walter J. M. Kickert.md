@@ -11,7 +11,7 @@ summary: "荷兰伊拉斯谟大学公共管理学荣休教授，欧洲网络治�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Public Value]]"
 related_theories:
   - "[[Neocorporatism]]"
+  - "[[Neo-Weberian State]]"
   - "[[Educational Governance Framework]]"
 related_facts:
   - "[[Erasmus Programme]]"
@@ -54,7 +55,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-10-22
 >   - **代表著作** 1995 年发表 *Steering at a Distance: A New Paradigm of Public Governance in Dutch Higher Education*；1997 年合著出版 *Managing Complex Networks: Strategies for the Public Sector*。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–157)]]
 >   - **关键概念／方法** [[Network Governance]]、[[Policy Network]]、网络构建与协调规则。
 >   - **阶段转向** 从单个部门的行政改革经验全面升华为面向整个公共部门的复杂网络治理理论，正式确立多理性主体自组织协商的[[Analytic Framework|分析框架]]。
-> - **2000 年代至今 — 比较欧洲公共部门改革与行政传统演进** 聚焦欧洲多国公共管理体制比较，系统反思英美[[New Public Management|新公共管理]]（NPM）与欧洲大陆“新韦伯国家”（NWS）模式的制度分野。
+> - **2000 年代至今 — 比较欧洲公共部门改革与行政传统演进** 聚焦欧洲多国公共管理体制比较，系统反思英美[[New Public Management|新公共管理]]（NPM）与欧洲大陆“新韦伯国家”（[[Neo-Weberian State|NWS]]）模式的制度分野。
 >   - **代表著作** *Public Management Reform in Central and Eastern Europe* (2007); *The Public Sector in the Southern European Countries* (2008)。
 >   - **关键概念／方法** [[New Public Management]]、[[Bureaucracy]]、行政传统比较分析。
 >   - **阶段转向** 从抽象网络理论下沉至欧洲各国内生制度与历史传统的深层比较，强化了公共改革对具体宪制与政治文化的依赖性反思。

@@ -7,7 +7,7 @@ aliases:
 summary: "解释大学生如何通过学术融入与社交融入逐步稳定留在高等教育体系中的学生发展概念，强调归属感与参与质量的重要性"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Academic Achievement]]"
+  - "[[Extracurricular Activities]]"
   - "[[Construct]]"
   - "[[Theoretical Standpoint]]"
   - "[[Goal-Controlled Mode]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -104,7 +105,7 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 > [!success] 实证发现
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]第4章以 Tinto 的融入理论为核心[[Analytic Framework\|分析框架]]，揭示两种模式下的融入差异：
 >   - **目标掌控者** 主动且策略性地融入学业和社交活动，但融入程度取决于生涯目标需要——学业融入被功能化（绩点只是门槛），社会性融入被工具化（职业探索和简历建设）
-> - **直觉依赖者** 社交融入被习惯性忽略——弱势背景大学生往往对校园社交和课外活动保持拒斥感，将其视作对学习主业的干扰（，引 Bergerson, 2007; 谢爱磊, 2016; Stuber, 2011）
+> - **直觉依赖者** 社交融入被习惯性忽略——弱势背景大学生往往对校园社交和[[Extracurricular Activities|课外活动]]保持拒斥感，将其视作对学习主业的干扰（，引 Bergerson, 2007; 谢爱磊, 2016; Stuber, 2011）
 > - [[Yajun Zheng\|郑雅君]]的[[Operationalization\|操作化]]设计通过多指标[[Triangulation\|三角互证]]测量了分离（P1 个人生活史）、转折（P2-Q3 适应困难）、习得（P2-Q4 主动融入）、学业融入（[[Academic Achievement\|GPA]] + 归属感自评）和社交融入（交友数量 + 师生交流频率 + 学生组织职务）五个[[Construct\|构念]]。详见 [[Student Engagement]]
 > - 转变者案例揭示了社交融入在打破原有模式中的关键角色——梓桐通过讲座和学术小圈子逐渐移入学术价值图式，高程通过学生工作确立公共服务志向。相反的，禹海因长期缺乏社交融入（与同学"没有真正意义上的深入接触"、与老师"不会觉得很亲近"），直到高年级仍未建立清晰的职业方向意识。这意味着社交融入维度对直觉依赖者而言不仅是"学业成功的辅助条件"，更可能是触发整个模式转换的**初始杠杆**
 

@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Rational-Control Rhetoric]]"
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
@@ -67,6 +68,7 @@ related_persons:
   - "[[Herbert A. Simon]]"
   - "[[Scott Eacott]]"
 related_facts:
+  - "[[NAPLAN]]"
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[TIMSS]]"
@@ -79,7 +81,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 ---
 
@@ -88,7 +90,7 @@ updated: 2026-10-23
 > 
 > 经验与学术层面的谜题在于：为什么哈蒂的[[Meta-meta-analysis\|元-元分析]]（VL）在经历了一系列严厉的方法论技术质询后，非但没有在政策与实践中被边缘化，反而成为澳大利亚教育系统中有史以来传播规模最广、接受度最高、且被制度性深锁的教育铁律？
 > 
-> 这个谜题可以还原为一个具体的学校管理场景：一位普通的澳大利亚公立学校校长，在面对 NAPLAN 与 [[PISA]] 成绩下滑的外部政治恐慌、以及日常事务缠身的行政压力时，如何通过哈蒂提供的[[Effect Size\|效应量]]账本（以效应量大于等于 0.40 作为投资收益标准），以一种科学化、符号化的行政方式去管理教师的课堂教学并重构其专业生活？
+> 这个谜题可以还原为一个具体的学校管理场景：一位普通的澳大利亚公立学校校长，在面对 [[NAPLAN]] 与 [[PISA]] 成绩下滑的外部政治恐慌、以及日常事务缠身的行政压力时，如何通过哈蒂提供的[[Effect Size\|效应量]]账本（以效应量大于等于 0.40 作为投资收益标准），以一种科学化、符号化的行政方式去管理教师的课堂教学并重构其专业生活？
 
 > [!feature] 一页读懂
 > - **对象** 澳大利亚[[School Leadership\|学校领导力]]实践、哈蒂的VL品牌与国家行政权力的结盟。
@@ -120,7 +122,7 @@ updated: 2026-10-23
 > |----------|------|
 > | **政策与商业文本** | 澳大利亚《墨尔本宣言》（MCEETYA 2008）、[[Australian Institute for Teaching and School Leadership\|AITSL]] 国家教师与校长专业标准、ACEL 官方商业声明与出版物。 |
 > | **测试绩效体系** | NAPLAN（国家评估计划）、[[PISA]]（国际学生评估项目）、TIMSS（国际数学和科学趋势研究）的历史分析文本。 |
-> | **历史比较对象** | 20 世纪初弗雷德里克·泰勒的科学管理体系、20 世纪初以库伯利（Ellwood Cubberly）等为代表的美国教育行政学文献。 |
+> | **历史比较对象** | 20 世纪初弗雷德里克·泰勒的科学管理体系、20 世纪初以库伯利（Ellwood Cubberly）等为代表的美国教育行政学[[Document\|文献]]。 |
 
 ---
 

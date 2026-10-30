@@ -7,7 +7,7 @@ aliases:
 summary: "大学参与政府组织的国际商务出访活动，借此直接接触海外企业决策者、展示研究能力并催化国际产学合作的连接机制"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Triangular Cooperation]]"
   - "[[Industry Advisory Board]]"
 related_theories: []
 related_methods: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -46,7 +47,7 @@ updated: 2026-10-22
 1. **提升州政府对大学研究专长的认知** 州政府在制定经济政策和发展战略时，会将大学的科研能力纳入考量。
 2. **提升访问国家对大学专长的认知** 为后续独立开展国际合作铺路，大学不再只是"随团出访的无名机构"。
 3. **建立与访问国家产业和创新团体的直接联系** 绕过层层中介，直接面对有决策权的企业高管和创新机构负责人。
-4. **开拓三方合作前景** 大学、本国企业与访问国家大学可以形成三角联盟——例如，美国大学与日本企业合作研究，同时与日本大学联合培养学生。
+4. **开拓[[Triangular Cooperation|三方合作]]前景** 大学、本国企业与访问国家大学可以形成三角联盟——例如，美国大学与日本企业合作研究，同时与日本大学联合培养学生。
 5. **建立代表团内部网络** 代表团中的企业、政府和其他大学代表在出访期间建立的联系，可能在访问结束后转化为国内合作项目。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "描述东亚与部分社会高强度应试选拔的术语。在儒家文化圈中，它是应对亲情道德与公共公平冲突的功能性防腐方案，亦是吸收和转化外来学制的强力重力场"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Shape-Shifting]]"
   - "[[Paradigm]]"
+  - "[[Extracurricular Activities]]"
   - "[[Self-Cultivation]]"
   - "[[Academic Engagement]]"
   - "[[Academic Achievement]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-09-22
+updated: 2026-10-30
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-09-22
 > [!contrast-table] 概念辨析：考试地狱与相关选拔[[Paradigm\|范式]]的对比
 > | 维度 | 考试地狱 (Examination Hell) | [[Civil Service Examination\|科举制]] (Imperial Exam) | 西方综合评估 (Holistic Review) |
 > | :--- | :--- | :--- | :--- |
-> | **核心基础** | 现代学校制度下的高风险纸笔考分竞争。 | 古代官僚选拔中的经典文本默写与策论。 | 结合学术、课外活动、推荐信的多元评估。 |
+> | **核心基础** | 现代学校制度下的高风险纸笔考分竞争。 | 古代官僚选拔中的经典文本默写与策论。 | 结合学术、[[Extracurricular Activities\|课外活动]]、推荐信的多元评估。 |
 > | **社会公平机制** | 通过**去人性化**的纯粹考分排除关系干扰。 | 通过糊名、易书等国家行政机制维护公正。 | 依赖评估人员的专业主观判断。 |
 > | **道德两难应对** | 彻底剥离人情压力，学生独自承担后果。 | 将国家大义置于家族之上，仍受宗族渗透。 | 易受社会资本与熟人网络关系资本的操纵。 |
 

@@ -13,7 +13,7 @@ subtype: system
 region: germany
 fact_region: "germany"
 fact_kind: "system"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#e5e7eb"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
   - "[[Process Knowledge]]"
+  - "[[Document]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Developmental Network State]]"
@@ -58,7 +59,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-10-22
 > | [[Process Knowledge]] | Concept | 双元制旨在车间生产一线传承并活化的非文本化默会制造工艺诀窍。 |
 > | [[Research Universities]] | Concept | 德国与双元制职业教育体系并行、专注于前沿基础理论研究的高等学术机构。 |
 > | [[Entrepreneurial University]] | Concept | 慕尼黑工大与柏林工大等德国顶尖工科高校向产业实践与高科技孵化拓展的办学形态。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 系统论述德国三方协同技能体系与美国低工资外包道路反差的经典文献。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 系统论述德国三方协同技能体系与美国低工资外包道路反差的经典[[Document\|文献]]。 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 系统考证德国工艺学校历史源流与隐性制造知识传承的经典文献。 |
 
 ---

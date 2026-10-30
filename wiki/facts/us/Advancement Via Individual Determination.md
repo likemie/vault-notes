@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Tracking]]"
+  - "[[Learning Strategies]]"
   - "[[Advanced Placement Program]]"
   - "[[Homework]]"
   - "[[Implementation Fidelity]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心干预／机制假说
-> AVID 假定中等[[Academic Achievement\|学业表现]]的弱势学生并非缺乏智力潜能，而是缺乏高阶学习策略与社会资本支持；通过将学生置于高难度严格学术课程（如荣誉课程与 [[Advanced Placement Program\|大学先修课程]]）中，并在日常课表中提供一门密集辅导的 AVID 选修课作为支架，能促发学生完成从被动受助向自主学业规划的转变。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
+> AVID 假定中等[[Academic Achievement\|学业表现]]的弱势学生并非缺乏智力潜能，而是缺乏高阶[[Learning Strategies|学习策略]]与社会资本支持；通过将学生置于高难度严格学术课程（如荣誉课程与 [[Advanced Placement Program\|大学先修课程]]）中，并在日常课表中提供一门密集辅导的 AVID 选修课作为支架，能促发学生完成从被动受助向自主学业规划的转变。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
 
 > [!policy-design] 方案设计
 > - **选修支持课程（AVID Elective）** 学生在常规必修课之外，每天参加一节专门的 AVID 选修课，接受系统的学业技能与心理素质训练。

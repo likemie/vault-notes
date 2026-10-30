@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -45,13 +45,14 @@ related_facts:
   - "[[ASEAN Charter]]"
   - "[[European Commission]]"
   - "[[EU]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-29
 > - **部长会议预备与议题协调** 每周或隔周举行例会，为东盟外长会与三大共同体理事会筛选待讨论政策议题。
 > - **外部对话伙伴行动计划** 牵头起草并推进东盟与美、中、日、韩、印等多边伙伴的合作行动方案（如《东盟—美国合作行动计划》）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 > - **“东盟+3”大使级多边机制** 常态化开展东盟十国与中日韩三国驻东盟代表之间的多边闭门会商。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
-> - **共同体蓝图实施监督建议** 跟踪落实 2015 年东盟经济共同体蓝图及互联互通总体规划的相关政策指标。
+> - **共同体蓝图实施监督建议** 跟踪落实 2015 年[[ASEAN Economic Community|东盟经济共同体]]蓝图及互联互通总体规划的相关政策指标。
 
 > [!citation-card] 《东盟宪章》第 12 条关于设立常驻代表委员会的法定条款
 > 各成员国应向东盟派驻一名大使级常驻代表，设在雅加达。十名常驻代表共同组成常驻代表委员会（CPR），其法定职责包括：支持东盟共同体理事会与各部门部长级机构的工作；与东盟国家秘书处及各部门部长级机构开展协调；与东盟秘书长及东盟秘书处保持紧密协作；代表东盟与外部对话伙伴展开经常性联络。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]

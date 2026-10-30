@@ -9,7 +9,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,33 +22,34 @@ tags:
   - regional-cooperation
   - region/southeast-asia
 related_concepts:
+  - "[[Lifelong Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[ASEAN Way]]"
-  - "[[Global Regionalisms]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[People-to-People Connectivity]]"
-related_theories:
-  - "[[Comparative Regionalism]]"
+  - "[[Educational Multilateralism]]"
+  - "[[Student Mobility]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
-  - "[[SEAMEO]]"
   - "[[ASEAN University Network]]"
-  - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[SEAMEO]]"
+  - "[[Cram Schools]]"
   - "[[Master Plan on ASEAN Connectivity]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 东盟教育部长会议（ASEAN Education Ministers Meeting, ASED）是[[ASEAN|东南亚国家联盟]]框架下最高级别的教育常设政府间协商机制；直属于东盟社会文化共同体理事会，负责凝聚成员国教育政策共识、制定全域教育战略工作计划，并对[[ASEAN University Network|东盟大学联盟]]（AUN）等下属专门机构行使政策指导与审议职责。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+> [[ASEAN|东盟]]教育部长会议（ASEAN Education Ministers Meeting, ASED）是[[ASEAN|东南亚国家联盟]]框架下最高级别的教育常设政府间协商机制；直属于东盟社会文化共同体理事会，负责凝聚成员国教育政策共识、制定全域教育战略工作计划，并对[[ASEAN University Network|东盟大学联盟]]（AUN）等下属专门机构行使政策指导与审议职责。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1967 年东盟成立后设立，但因早期成员国聚焦政治安全防卫与边境稳定，教育议题长期从属于宏观外交框架，该机制陷入长达近四十年的停摆状态；2006 年面对东盟共同体建设深化诉求重新激活并常态化运转。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
@@ -68,17 +69,17 @@ updated: 2026-10-29
 >
 > - **2006–2014 年** **机制重启与行动计划制度化**
 >
->   配合东盟共同体路线图全面激活部长级机制，开启五年期教育工作规划。
+>   配合东盟共同体路线图全面激[[Cram Schools|活部]]长级机制，开启五年期教育工作规划。
 >
 >   - **2006** 在新加坡举行第一届正式激活后的 ASED 会议，确立优先行动领域。
 >   - **2010** 配合[[Master Plan on ASEAN Connectivity|东盟互联互通总体规划]]，出台支持学生跨境流动的多边决议。
 >
 > - **2015 年–至今** **共同体建成与高教空间共建**
 >
->   监督东盟教育五年工作计划执行，协同推进东南亚高等教育共同空间建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+>   监督东盟教育五年工作计划执行，协同推进[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 >
->   - **2016** 通过《东盟教育工作计划 2016–2020》，重点强化终身学习与高等教育质保体系。
->   - **2020 年代** 深化数字化教育转型与区域间跨大洲教育对话。
+>   - **2016** 通过《东盟教育工作计划 2016–2020》，重点强化[[Lifelong Learning|终身学习]]与高等教育质保体系。
+>   - **2020 年代** 深化数字化教育转型与区域间跨大洲[[Dialogue in Education|教育对话]]。
 
 ---
 
@@ -100,7 +101,7 @@ updated: 2026-10-29
 > > ASED 重启后，东南亚形成了 ASED 与 SEAMEO 理事会两大政府间教育部长级会议平级并存的双轨格局。
 > >
 > > - **职能重合与外交互动负担** 批评观点指出，东盟十国教育部长在两个互不隶属的机制中频繁出席类似主题的峰会，造成了议程与文书资源的重复占用。
-> > - **主权防御与多元制度弹性** 辩护观点强调，东南亚国家刻意保持各机构之间的职能分立与平级并立，符合防范权力集中的传统考量，为多边教育治理提供了更多的制度试验空间。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
+> > - **主权防御与多元制度弹性** 辩护观点强调，东南亚国家刻意保持各机构之间的职能分立与平级并立，符合防范权力集中的传统考量，为[[Educational Multilateralism|多边教育治理]]提供了更多的制度试验空间。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
 
 ---
 
@@ -112,5 +113,5 @@ updated: 2026-10-29
 > | [[SEAMEO]] | Fact (Organization) | 与 ASED 平行并存且长期分担多边教育合作职能的区域组织。 |
 > | [[ASEAN University Network]] | Fact (Organization) | ASED 下属并向其汇报工作进展的区域精英大学联盟。 |
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Program) | ASED 参与审议并协同推进的宏观高等教育协调空间。 |
-> | [[Master Plan on ASEAN Connectivity]] | Fact (Policy) | ASED 制定学生流动与教育交流政策的重要顶层依据。 |
+> | [[Master Plan on ASEAN Connectivity]] | Fact (Policy) | ASED 制定[[Student Mobility\|学生流动]]与教育交流政策的重要顶层依据。 |
 > | [[ASEAN Way]] | Concept | 指导 ASED 部长级会议协商一致与决策运行的核心规范。 |

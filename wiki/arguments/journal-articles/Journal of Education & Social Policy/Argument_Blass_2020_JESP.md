@@ -9,7 +9,7 @@ title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Self-reported Grades]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Critical Thinking]]"
   - "[[Literature Review]]"
@@ -44,7 +45,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2020
 doi: ""
 citation_aliases:
@@ -66,7 +67,7 @@ citation_aliases:
 >
 > ### 1. 方法论
 >
-> - **不加权平均问题**Arnold (2011, p.219) 指出 Hattie 使用不加权平均值汇总 800 项[[Meta-analysis\|元分析]]的[[Effect Size\|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后自我报告成绩的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析
+> - **不加权平均问题**Arnold (2011, p.219) 指出 Hattie 使用不加权平均值汇总 800 项[[Meta-analysis\|元分析]]的[[Effect Size\|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后[[Self-reported Grades|自我报告成绩]]的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析
 > - **Blass 本人的附录抽查** 在[[Inquiry-Based Learning\|探究式教学]]中，4 项贡献研究中有 3 项仅适用于科学、1 项关于[[Critical Thinking\|批判性思维]]技能。深入看：一项关于教师教育(Sweitzer & Anderson, 1983)、一项关于评估方法对结果的影响(Shymansky, Hedges & Woodworth, 1990)、一项是未发表论文(Smith, 1996)、一项关于方法的"新颖性"(Bangert-Drowns, 1992)——没有一项直接比较探究式教学与其他教学方法
 > - **PBL 元分析的情境错配** 8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析(Newman, 2004)、1 项是[[Literature Review\|文献综述]](Albanese & Mitchell, 1993)。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响
 >

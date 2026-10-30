@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - region/uk
   - level/primary
 related_concepts:
+  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Evidence-Based Education]]"
@@ -47,7 +48,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-10-26
 > [!program-context] 试验背景
 > - **实施时间 / 评估团队** 杜伦大学教育证据中心（See, Gorard & Siddiqui, 2016）于 2014–2015 学年在英格兰东北部组织开展。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 594–596)]]
 > - **覆盖对象** 英格兰地方教育当局辖区内的 9 所合作公立小学集群（Partnership Primary Schools）的全校任课教师及其在读学生。
-> - **核心问题导向** 检验“教师直接研读专业科研文献并自主开展[[Action Research\|行动研究]]能否有效改进课堂教学并提升学生[[Academic Achievement\|学业成就]]”，旨在对英美学界长期推崇的“[[Teacher-as-Researcher\|教师即研究者]]”假说开展直接的实证因果检验。
+> - **核心问题导向** 检验“教师直接研读专业科研[[Document|文献]]并自主开展[[Action Research\|行动研究]]能否有效改进课堂教学并提升学生[[Academic Achievement\|学业成就]]”，旨在对英美学界长期推崇的“[[Teacher-as-Researcher\|教师即研究者]]”假说开展直接的实证因果检验。
 > - **制度位置** 本试验是全球[[Evidence-Based Education\|循证教育]]领域极其罕见的、针对“教师自主行动研究模式”设立[[Counterfactual\|反事实]]对照组的大规模实证评估案例之一。
 
 ---

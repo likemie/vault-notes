@@ -9,7 +9,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 50
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Influences Across Cultures]]"
   - "[[Postpositivism]]"
   - "[[Construct]]"
+  - "[[Document]]"
   - "[[Comparative Pedagogy]]"
   - "[[Artefact]]"
   - "[[State Educational Sovereignty]]"
@@ -73,6 +74,7 @@ related_persons:
 related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
   - "[[UNESCO]]"
+  - "[[National Education]]"
   - "[[Revue encyclopédique]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -103,7 +105,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1775** 出生于巴黎受过良好古典人文学科教养的知识阶层家庭，与美洲独立战争爆发同年。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 19)]]
 > - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受启蒙理性思潮激励。
-> - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将国民教育视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
+> - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将[[National Education|国民教育]]视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
 > - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **1817** 发表比较教育奠基之作《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire\|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
@@ -168,7 +170,7 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开启了比较教育学[[Positivism\|实证主义]]与[[Scientism\|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
+> - **理论路径** 开启了比较教育学[[Positivism\|实证主义]]与[[Scientism\|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆人文科学传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 > - **方法路径** 首创了涵盖初等大众至中等古典等六大领域的结构化多题项[[Questionnaire\|问卷]]与横向比较观察表，为跨国[[Performance Indicators\|教育指标]]体系与大规模统计调查奠定了方法原型。
 > - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School\|师范学院]]以及多语种[[International Education\|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和[[UNESCO\|联合国教科文组织]]（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
 > - **世界和平与跨国治理** 突破 19 世纪民族国家的孤立竞争思维，开创了通过跨国教育经验互鉴消弭沙文主义偏见、以比较文明抗衡野蛮战争残余的国际和平教育与全球教育治理先驱传统。（pp. 22–24）
@@ -195,7 +197,7 @@ updated: 2026-10-22
 >
 > *Jullien, the internationalist and the cosmopolitis (world citizen), does not only merit Palmer’s characterisation of 'apostle of civilisation', he could also, quite justifiably, be called 'apostle of peace'.*
 
-> [!citation-card] 弗雷泽论《计划》的科学文献价值与历史局限
+> [!citation-card] 弗雷泽论《计划》的科学[[Document|文献]]价值与历史局限
 > 尽管在 19 世纪朱利安未必算得上比较教育学的首要发起者或核心阐释者，且技术与事实上他从未发展出一套彻底的比较教育学方法论，生前也未能见到国际教育机构建立；但他被广泛公认为最早将这些极具价值的构想熔铸为一部具备如此巨大潜在体量初稿的先驱之一，以至于今天的比较科学绝无法忽视他；他的《计划》是这门科学中最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
 >
 > *While Jullien may not necessarily qualify as the principal instigator or exponent of [[Comparative Pedagogy]] in the nineteenth century his Plan remains one of the most important [[Artefact\|artifacts]] in the science. Technically, and in fact, Jullien never developed a thoroughgoing comparative methodology in education, nor did he live to see his ideas for institutes of international education become established, but he has been widely identified as one of the first to consolidate these useful ideas into a preliminary draft of such potential magnitude that he cannot be ignored today.*
@@ -235,7 +237,7 @@ updated: 2026-10-22
 
 > [!debates] 学术争议
 >
-> > [!axis] 现代[[Value Neutrality\|价值中立]]实证论 vs 启蒙欧陆[[Geisteswissenschaften|人文科学]][[Paradigm\|范式]]
+> > [!axis] 现代[[Value Neutrality\|价值中立]]实证论 vs 启蒙欧陆人文科学[[Paradigm\|范式]]
 > > 20 世纪下半叶科学[[Positivism\|实证主义]]学者批评朱利安的[[Questionnaire\|问卷]]过度冗长、复杂，且充斥着强烈的主观道德预设和诱导性提问，未能实现真正的价值中立与客观经验测量。围绕这一批评，学界形成了两种根本对立的[[Epistemology\|认识论]]评价视角：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–18)]]
 > >
 > > - **Harold Noah and Max Eckstein (1969)** 认为朱利安对教育正当目标的预先假设严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）

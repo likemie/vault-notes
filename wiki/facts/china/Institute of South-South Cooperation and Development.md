@@ -10,9 +10,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "学术研究与高等教育机构 / 国家智库"
 headquarters: "中国北京（北京大学）"
@@ -29,12 +29,14 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Presence]]"
   - "[[Paradigm]]"
+  - "[[Mutual Learning]]"
   - "[[Knowledge Production]]"
   - "[[Washington Consensus]]"
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Chinese Exceptionalism]]"
+  - "[[Active Learning]]"
   - "[[Creativity]]"
   - "[[Construct]]"
 related_theories: []
@@ -42,6 +44,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Kenneth King]]"
+  - "[[Rui Yang]]"
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Initiative]]"
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -100,7 +103,7 @@ updated: 2026-10-26
 > - **南南发展案例库与系列研究报告** 系统梳理全球南方国家经济发展的成功案例与政策教训，出版自主编纂的国别研究集刊与智库政策简报。
 
 > [!citation-card] 合作[[Paradigm|范式]]的制度化深化
-> 2015年[[Forum on China-Africa Cooperation|中非合作论坛]]约翰内斯堡峰会提议设立[[South-South Cooperation|南南合作]]与发展学院，2016年该学院在北京大学正式开办；2018年北京峰会进一步巩固了其作为面向全球南方培养高端战略人才的常设制度平台地位。这标志着对非教育合作跳出了零散的短期职业技术培训，将合作重心提升至发展中国家治国理政经验与现代化道路的深层互学互鉴。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> 2015年[[Forum on China-Africa Cooperation|中非合作论坛]]约翰内斯堡峰会提议设立[[South-South Cooperation|南南合作]]与发展学院，2016年该学院在北京大学正式开办；2018年北京峰会进一步巩固了其作为面向全球南方培养高端战略人才的常设制度平台地位。这标志着对非教育合作跳出了零散的短期职业技术培训，将合作重心提升至发展中国家治国理政经验与现代化道路的深层[[Mutual Learning|互学互鉴]]。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
 >
 > *The 2015 Johannesburg FOCAC Summit proposed the establishment of an Institute of South-South Cooperation and Development, which was formally launched at Peking University in 2016; the 2018 Beijing Summit consolidated its status as a permanent institutional platform for cultivating high-level strategic leaders across the Global South. This signifies that educational cooperation with Africa shifted beyond fragmented short-term vocational training, elevating its focus toward deep mutual learning on state governance experiences and modernization pathways.*
 
@@ -115,8 +118,8 @@ updated: 2026-10-26
 > - **对非教育合作层次的历史性提升** 金（[[Kenneth King]]）指出，南南学院的创立打破了传统对外援助仅局限于普通本专科学历资助或基层工匠短训的刻板边界，将合作阵地直接推向发展中国家的核心决策大脑。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
 > - **自主发展[[Knowledge Production|知识生产]]与国际传播** 依托北京大学深厚的学科积淀，学院成功构建了一套不同于[[Washington Consensus|华盛顿共识]]的发展政策[[Discourse|话语]]，为全球南方探索独立自主的发展道路提供了系统的知识参照体系。
 > - **跨国战略互信与[[People-to-People Connectivity|民心相通]]的深层纽带** 培育了一大批深刻理解中国改革开放逻辑、认同[[South-South Cooperation|南南合作]]平权理念的国际青年治理领袖，构成了跨国重大经贸与产能投资最坚实的社会精英桥梁。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–229)]]
-> - **[[Pragmatic Paradigm|实用主义]]中国治理经验的文化认同** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，南南学院通过深度比较中国经济体制改革、对外开放及[[Belt and Road Initiative|一带一路倡议]]实践，有效促进了东南亚及全球南方学员对中国当代发展模式与治理道路的实质性认同，成为展示实用主义[[Chinese Exceptionalism|中国例外论]]卓越与善意的代表性窗口（pp. 1051–1052）。
-> - **发展阶段同频共鸣与特区模式学习意愿** 朱克金与杨锐（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023]]）基于中柬案例实证发现，南南学院专门为国际学员定制的经济特区开发与社会转型研讨课程获得受训官员高度评价；柬埔寨受访官员明确指出本国公务员系统普遍认为自身发展阶段类似于中国三十年前的改革开放初期，展现出对中国兼顾政治稳定与经济繁荣治理经验的自发共鸣与主动学习意向（pp. 649–650）。
+> - **[[Pragmatic Paradigm|实用主义]]中国治理经验的文化认同** 朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，南南学院通过深度比较中国经济体制改革、对外开放及[[Belt and Road Initiative|一带一路倡议]]实践，有效促进了东南亚及全球南方学员对中国当代发展模式与治理道路的实质性认同，成为展示实用主义[[Chinese Exceptionalism|中国例外论]]卓越与善意的代表性窗口（pp. 1051–1052）。
+> - **发展阶段同频共鸣与特区模式学习意愿** 朱克金与杨锐（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023]]）基于中柬案例实证发现，南南学院专门为国际学员定制的经济特区开发与社会转型研讨课程获得受训官员高度评价；柬埔寨受访官员明确指出本国公务员系统普遍认为自身发展阶段类似于中国三十年前的改革开放初期，展现出对中国兼顾政治稳定与经济繁荣治理经验的自发共鸣与[[Active Learning|主动学习]]意向（pp. 649–650）。
 
 ---
 

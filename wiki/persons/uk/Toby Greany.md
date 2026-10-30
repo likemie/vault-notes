@@ -7,7 +7,7 @@ summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Construct]]"
   - "[[Research-Engaged School]]"
+  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Inquiry Cycle]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -126,4 +127,4 @@ updated: 2026-10-22
 > | [[The Importance of Teaching]] | 事实 | 系统解构 2010 年白皮书确立的自我改进系统目标与横向[[Network Governance\|网络治理]]预设。 |
 > | [[Ofsted]] | 事实 | 尖锐批评现行督导框架对学校循证自改进的制度性压制，提出督导指标重构方案。 |
 > | [[Research Learning Communities]] | 事实 | 与[[Chris Brown\|克里斯·布朗]]共同主持该项目的实证检验与跨校合作网络追踪。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | 论证 | 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心文献。 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | 论证 | 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心[[Document\|文献]]。 |

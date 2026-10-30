@@ -8,7 +8,7 @@ summary: "新西兰坎特伯雷大学教育学教授，课堂生态学与学习�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Document]]"
 related_theories:
   - "[[Popper's Three Worlds Theory]]"
   - "[[Knowledge Building Theory]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （格雷厄姆·纳撒尔）
@@ -103,4 +104,4 @@ updated: 2026-10-22
 > | [[Visible Learning]] | 概念 | 其[[Classroom Observation\|课堂观察]]发现构成[[John Hattie\|哈蒂]]界定可见性与主张从教师讲授转向学生影响的核心事实支柱。 |
 > | [[Visible Classroom]] | 测量工具 | 依据纳撒尔盲区定律所研发的课堂客观音频即时[[Transcription in Qualitative Research\|转录]]与编码诊断系统。 |
 > | [[John Hattie]] | 人物 | 在理论建构中系统吸纳纳撒尔发现的学术同行。 |
-> | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 论证 | 权威记录纳撒尔实证观察对全球可见学习理论体系形成关键影响的学术文献。 |
+> | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 论证 | 权威记录纳撒尔实证观察对全球可见学习理论体系形成关键影响的学术[[Document\|文献]]。 |

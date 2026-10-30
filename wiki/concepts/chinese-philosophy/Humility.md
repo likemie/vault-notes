@@ -7,7 +7,7 @@ aliases:
 summary: "东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力"
 type: concept
 domain: "chinese-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Pride in Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Ideal Learner]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > [!example] 概念辨析
 > **谦逊 vs 低自尊** 二者本质上不同。谦逊是一种内在力量，使人能够准确审视自身不足并寻求改进；低自尊则是对自身价值的负面评价。研究反复发现东亚学习者在自尊量表上得分偏低但[[Academic Achievement\|学业成就]]偏高——这一"悖论"可能源于测量工具将谦逊误判为低自尊([[Argument_Li_2012_Cambridge\|Li, 2012, p.80 注释]])。
 
-**谦逊 vs 谦虚（modesty）** Tangney 等学者区分了这两个概念——谦逊是个人内在力量，谦虚更多涉及外在表现（如着装、性别相关行为）。但跨文化研究中，东亚谦虚偏向（modesty bias）与西方自我增强偏向（self-enhancing bias）的文献常将二者混用([[Argument_Li_2012_Cambridge|Li, 2012, p.80 注释]])。
+**谦逊 vs 谦虚（modesty）** Tangney 等学者区分了这两个概念——谦逊是个人内在力量，谦虚更多涉及外在表现（如着装、性别相关行为）。但跨文化研究中，东亚谦虚偏向（modesty bias）与西方自我增强偏向（self-enhancing bias）的[[Document|文献]]常将二者混用([[Argument_Li_2012_Cambridge|Li, 2012, p.80 注释]])。
 
 ---
 

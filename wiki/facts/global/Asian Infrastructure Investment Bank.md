@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -27,10 +27,12 @@ tags:
 related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[South-South Cooperation]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts:
   - "[[World Bank]]"
   - "[[English Schools Foundation Hong Kong]]"
@@ -41,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +88,7 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 实体投资出海对人才培养的溢出拉动
-> - **资本与工程出海拉动高教定向育人** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，以亚投行 1000 亿美元资本金为支撑的多边融资机制带动了中国对东南亚重大物理基础设施（公路、电网、水利与港口）的直接投资；这些重大工程在落地过程中亟需通晓中文、掌握国际工程技术标准且熟悉属地社会的复合型技术人才，直接刺激了面向[[ASEAN|东盟]]各国的工科留学生扩招与定向奖学金设立。（pp. 1050–1051）
+> - **资本与工程出海拉动高教定向育人** 朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，以亚投行 1000 亿美元资本金为支撑的多边融资机制带动了中国对东南亚重大物理基础设施（公路、电网、水利与港口）的直接投资；这些重大工程在落地过程中亟需通晓中文、掌握国际工程技术标准且熟悉属地社会的复合型技术人才，直接刺激了面向[[ASEAN|东盟]]各国的工科留学生扩招与定向奖学金设立。（pp. 1050–1051）
 > - **资源配置的不对称失衡** 实证调研同时发现，大国对外合作资源向以亚投行和工程承包为代表的硬性基础设施高度倾斜（对柬基建援助达 11.60 亿美元），而文教社会[[Comparative Education as a Cross-Sectional Area|交叉领域]]仅为 4.92 亿美元，显示出物质资本投入与深层人文交流之间存在阶段性结构落差。（pp. 1053–1054）
 
 ---
@@ -98,4 +100,4 @@ updated: 2026-10-22
 > | [[Belt and Road Initiative]] | Fact (Program) | 亚投行为一带一路跨国基础设施互联互通提供核心多边融资保障。 |
 > | [[South-South Cooperation]] | Concept | 践行新型南南发展融资模式，探索超越西方霸权借贷条件的多边金融公共产品。 |
 > | [[ASEAN]] | Fact (Organization) | 东南亚各国是亚投行早期项目落地与区域一体化互联互通的首要受益方。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 论述亚投行金融资本如何拉动涉外高教人才需求及透视基建与文教投资结构失衡的实证文献。 |
+> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 论述亚投行金融资本如何拉动涉外高教人才需求及透视基建与文教投资结构失衡的实证[[Document\|文献]]。 |

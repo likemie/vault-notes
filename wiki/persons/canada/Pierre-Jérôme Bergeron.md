@@ -8,10 +8,10 @@ summary: "加拿大统计学者与咨询顾问，渥太华大学数学与统计�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1975"
 died: ""
 lifespan: "c. 1975–至今"
@@ -25,12 +25,14 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
+  - "[[Adjustment to College]]"
   - "[[Problem Finding]]"
   - "[[Class Size]]"
   - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -41,7 +43,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -49,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +67,7 @@ updated: 2026-10-22
 > [!work-line] 主要著作
 > - **2015 — *Teaching [[Theory of Knowledge|TOK]]: An Evaluation of the Impact of the Theory of Knowledge Course on [[Critical Thinking]] and Academic Success*** 评估[[International Baccalaureate|国际文凭]]课程核心项目对学生批判性思维与学业发展的实际影响 [[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015)]]。
 > - **2017 — *How to Engage in Pseudoscience With Real Data: A Criticism of [[John Hattie]]'s Arguments in [[Visible Learning]] From the Perspective of a Statistician*** 系统审查[[Meta-meta-analysis|二阶元分析]]中的普通语言[[Effect Size|效应量]]负概率、基线反转、三种效应量公式矛盾排名与相关换算爆炸 [[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]。
-> - **2019 — *The Theory of Knowledge Course: What Impact on Academic Success in the International Baccalaureate?*** 检验 TOK 课程参与对 IB 文凭总分与大学适应性的长效实证关系 [[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019)]]。
+> - **2019 — *The Theory of Knowledge Course: What Impact on Academic Success in the International Baccalaureate?*** 检验 TOK 课程参与对 IB 文凭总分与[[Adjustment to College|大学适应]]性的长效实证关系 [[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019)]]。
 
 ---
 
@@ -90,7 +93,7 @@ updated: 2026-10-22
 > [!citation-card] 拒绝伪科学与全周期统计咨询原则
 > 显而易见，[[John Hattie|约翰·哈蒂]]及其团队既不具备也不掌握开展有效统计分析所必需的专业知识与核心技能。任何研究者都不应沿袭此种方法，学术界绝不能接纳伪科学。这一局面令人深感遗憾，因为依靠数百项[[Meta-analysis|元分析]]的数据完全能够开展真正的科学研究。解决途径是在数据收集前、收集中以及收集后，特别是在研究的每一步都向统计学家咨询。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 245)]]
 >
-> *It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience. This is most unfortunate, since it is possible to do real science with data from hundreds of meta-analyses... we must consult with a statistician before data collection. And during data collection. And after. But mostly, at each step of the study.*
+> *It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience. This is most unfortunate, since it is possible to do real science with data from hundreds of meta-analyses... we must consult with a statistician before data collection. And during data collection. And after. But mostly, at each [[Skills Toward Employment and Productivity|step]] of the study.*
 
 ---
 
@@ -103,7 +106,7 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **方法路径** 为教育领域对[[Meta-meta-analysis|二阶元分析]]与宏观[[Effect Size|效应量]]排名的统计审计提供了受控数值反证[[Paradigm|范式]]，确立了不同计算公式维度丢失与基线敏感性的诊断检验规程。
-> - **政策与争论路径** 成为全球学界反思《[[Visible Learning|可见的学习]]》证据神话的核心统计学文献，促使多国[[Evidence-Based Education|循证教育]]智库重新审视效应量跨设计聚合的技术合法性。
+> - **政策与争论路径** 成为全球学界反思《[[Visible Learning|可见的学习]]》证据神话的核心统计学[[Document|文献]]，促使多国[[Evidence-Based Education|循证教育]]智库重新审视效应量跨设计聚合的技术合法性。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从统计学视角解构 Visible Learning，证实三类效应量公式对同一数据产出不可调和的矛盾排名，判定其方法论为伪科学。

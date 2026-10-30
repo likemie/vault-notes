@@ -17,13 +17,13 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Research Universities]]"
+  - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Barrier]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Graduation Pathway Typology]]"
-  - "[[Habitus]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Soft Power]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +62,7 @@ updated: 2026-10-22
 > [!quote|notitle]
 > "直觉依赖模式下的大学生则从未见过迷宫的地图，对其中隐含的规则也不甚了了，更谈不上提前规划路线，因而更可能在里面绕弯子"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 
-该模式在低社会阶层家庭出身的大学生中更为普遍，是阶层习性在高等教育[[Champ|场域]]中的另一种表达形式。
+该模式在低社会阶层家庭出身的大学生中更为普遍，是阶层[[Habitus|习性]]在高等教育[[Champ|场域]]中的另一种表达形式。
 
 ---
 

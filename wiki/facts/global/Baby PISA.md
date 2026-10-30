@@ -13,7 +13,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
+  - "[[Phonological Awareness]]"
   - "[[Self-control]]"
   - "[[Executive Function]]"
   - "[[Working Memory]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Affective Outcomes]]"
   - "[[Technical Rationality]]"
+  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Lifelong Learning]]"
   - "[[Test-Based Accountability]]"
@@ -76,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -98,7 +100,7 @@ updated: 2026-10-22
 > [!policy-design] 测评设计与实施控制
 > - **项目目标** 建立全球通用的 5 岁儿童发展测评基准，测量早期发展指标对个体未来[[Academic Achievement\|学业成就]]与社会经济福祉的预测效能。
 > - **测评领域[[Construct\|构念]]** 设定四大核心发展支柱：
->   - **早期读写能力（Emergent Literacy）** 包含口头表达、语音意识与词汇理解；
+>   - **早期读写能力（Emergent Literacy）** 包含口头表达、[[Phonological Awareness|语音意识]]与词汇理解；
 >   - **早期数理素养（Emergent Numeracy）** 包含计数、数字感知、形状识别与简单推理；
 >   - **自我调节（[[Self-control\|self-regulation]] / [[Executive Function]]）** 包含[[Working Memory\|工作记忆]]、[[Inhibitory Control\|抑制控制]]与注意力切换；
 >   - **[[Social-Emotional Learning\|社会情感能力]]（Social-Emotional Skills）** 重点测量同理心认知、情绪识别与亲社会行为。
@@ -170,7 +172,7 @@ updated: 2026-10-22
 > - **文化错配与西方中心主义偏见** 测评指标根植于欧美发达市场经济体的核心理念，以盎格鲁-撒克逊中产阶级的养育规范作为全球通用的“良好发展”标尺，严重贬抑了原住民社群及非西方文化中多元的儿童成长观（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 > - **北欧诸国抵制所揭示的政治合法性缺陷** 传统上在儿童福祉与早期教育质量上享誉全球的北欧国家集体拒绝参与该项目，不仅形成了对 OECD 霸权的强力反弹，更证明了全球学前教育领域对抵制“一刀切”量化规制的学术与专业共识。
 
-> [!citation-card] 代表性批评文献
+> [!citation-card] 代表性批评[[Document|文献]]
 > [[Yong Zhao\|赵勇]]（[[Yong Zhao]]）深刻揭示了 Baby PISA 背后 PISA 帝国无限扩张的危险本质：
 > 
 > Baby PISA 意味着 PISA 企业将不仅成为学校质量的仲裁者，更成为学前班、社区和家庭质量的仲裁者……加上评估 16 至 65 岁技能的 PIAAC，PISA 企业将成为从学前班到高中再到退休的全球教育政治、政策和实践中最有影响力的单一机构。（[[Argument_Zhao_2020_JEC\|Zhao, 2020, p. 21]]）

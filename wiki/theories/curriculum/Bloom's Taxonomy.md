@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
+  - "[[Scoring Rubrics]]"
   - "[[Cooperative Learning]]"
   - "[[SOLO Taxonomy]]"
 related_theories:
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -199,7 +200,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 依托修订版布鲁姆认知目标分类学，将 AI [[AI Agent in Education\|智能体]]的干预成果精准[[Operationalization\|操作化]]为技能类（$g = 0.391$）、知识类（$g = 0.344$）与[[Higher-Order Thinking Skills\|高阶思维]]（$g = 0.540, p = .066$），揭示了智能体技术在不同认知层级上的差异化效能。
-> - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 运用修订版布鲁姆分类法检查[[International Baccalaureate\|国际文凭]]项目（国际文凭大学预科项目, [[IB Diploma Programme\|IBDP]]）指南中的命令词层级，审视[[Critical Thinking\|批判性思维]]要求是否在课程指南、评估目标与评分量规之间实现有效对齐。
+> - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 运用修订版布鲁姆分类法检查[[International Baccalaureate\|国际文凭]]项目（国际文凭大学预科项目, [[IB Diploma Programme\|IBDP]]）指南中的命令词层级，审视[[Critical Thinking\|批判性思维]]要求是否在课程指南、评估目标与[[Scoring Rubrics|评分量规]]之间实现有效对齐。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 基于布鲁姆三维框架与认知分层，在[[Meta-meta-analysis\|二阶元分析]]中细化评估[[Cooperative Learning\|合作学习]]对学生高阶思维（$ES = 0.76$）与[[Academic Achievement\|学业成就]]的宏观促进价值。
 > - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 依托布鲁姆目标分类学与五维 HOTS 架构，综合 19 项 AIEd 一阶[[Meta-analysis\|元分析]]评估人工智能对分析、评价等高阶认知产出的干预成效。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 依修订版布鲁姆分类学，将生成式 AI 促学成效分为[[Critical Thinking\|批判性思维]]（g = 0.691）、[[Problem Solving\|问题解决]]（g = 0.745）与[[Creativity\|创造力]]（g = 0.444）三个层级。

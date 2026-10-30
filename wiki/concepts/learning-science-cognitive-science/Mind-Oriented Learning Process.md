@@ -8,10 +8,10 @@ aliases:
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/western
   - theme/learning-process
@@ -20,15 +20,19 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
+  - "[[Extracurricular Activities]]"
+  - "[[Learning Strategies]]"
   - "[[Western Learner]]"
   - "[[Self-Regulated Learning]]"
   - "[[Metacognition]]"
+  - "[[Time Management]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
   - "[[Problem Solving]]"
   - "[[Scientific Method]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Emotional Intelligence]]"
   - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Examined Life]]"
@@ -45,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -73,16 +77,16 @@ updated: 2026-10-22
 - 外出实地考察：博物馆、水族馆、天文台、历史遗址、发电厂、工厂等
 
 **课外与校外**的[[Active Learning|主动学习]]场景同样丰富([[Argument_Li_2012_Cambridge|Li, 2012, p.109]])：
-- 形式多样的课外活动项目（绘画、雕塑、乐器、制书、珠宝制作、舞蹈、体育）——本质上都是"做中学"
+- 形式多样的[[Extracurricular Activities|课外活动]]项目（绘画、雕塑、乐器、制书、珠宝制作、舞蹈、体育）——本质上都是"做中学"
 - 暑假营会与有组织的旅行
 - 互动式博物馆，如费城的"请触摸博物馆"（Please Touch Museum），鼓励儿童触碰、拆解、组合、实验与探索([[Argument_Li_2012_Cambridge|Li, 2012, p.110]])
 
 **典范案例** 蒙台梭利学校、受 [[John Dewey]] 哲学影响的 Shady Hill School and Putney School，尤其是意大利 Reggio Emilia 的学前学校——儿童以感官、好奇心、经验和问题与世界互动，通过画画、搭建、调查和设计来学习([[Argument_Li_2012_Cambridge|Li, 2012, pp.109-110]])。例如，雨后踩到水坑引发儿童研究水面和镜子如何反射物体，进而画下自己的倒影([[Argument_Li_2012_Cambridge|Li, 2012, p.109]])。
 
-**心理层面**的学习策略尤为重要。[[Western Learner|西方学习者]]使用三类[[Self-Regulated Learning|自我调节学习]]策略（Pintrich 等人分类，转引自 Li, 2012, pp.109-110）：
+**心理层面**的[[Learning Strategies|学习策略]]尤为重要。[[Western Learner|西方学习者]]使用三类[[Self-Regulated Learning|自我调节学习]]策略（Pintrich 等人分类，转引自 Li, 2012, pp.109-110）：
 - 认知策略：复述（如反复背诵、使用闪卡）、精加工（如改写概念、总结阅读材料）、组织（如列提纲、分类、整合材料）
 - [[Metacognition|元认知]]策略：计划（设定目标与步骤）、监控（追踪进展与理解程度）、调节（根据理解调整复习）
-- 资源策略：时间管理、维持有利学习环境、调控努力、同伴学习、求助
+- 资源策略：[[Time Management|时间管理]]、维持有利学习环境、调控努力、同伴学习、求助
 
 这些策略在西方学习者中的使用频率高于亚洲学习者([[Argument_Li_2012_Cambridge|Li, 2012, p.110]])。
 
@@ -145,7 +149,7 @@ updated: 2026-10-22
 **学前与学校阶段([[Argument_Li_2012_Cambridge|Li, 2012, pp.121-122]])**
 - 西方学前学校普遍鼓励儿童表达自己：经常询问儿童感受如何、是否喜欢某个活动、有什么想法和建议
 - 教师告诉儿童"没有对错答案"，说什么都可以
-- 情绪智力概念引入后（1990 年代），学前学校努力帮助儿童将情绪用语言表达出来，而非直接行动
+- [[Emotional Intelligence|情绪智力]]概念引入后（1990 年代），学前学校努力帮助儿童将情绪用语言表达出来，而非直接行动
 - 小学阶段开始学习书面表达：写故事、描述家庭、提出自己的想法
 - 中学阶段学习论证性写作（essay writing）：提出论点、收集证据、呈现反方论证、论证己方优势
 - 辩论训练：分组持相反立场、开放式辩论、辩论队、校际竞赛

@@ -9,7 +9,7 @@ aliases:
 summary: "经合组织（OECD）在 PISA 2018 测评周期中确立的多维跨学科综合素养框架，评估青少年审视地方、全球和跨文化议题，理解与欣赏不同视角与世界观，与不同文化背景者进行开放、得体和有效互动，以及为了集体福祉与可持续发展采取行动的综合能力；由包含情境化认知任务的直接认知测验与学生背景问卷两部分组成，展现出从工具性劳动力技能向跨文化公民素养与全球社会责任的范式拓展，但也引发了学界关于西方价值观预设与量化治理的激烈争论。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,13 +24,14 @@ tags:
   - theme/global-citizenship
   - theme/intercultural-education
 related_concepts:
+  - "[[Global Citizenship]]"
+  - "[[Language Skills]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Self-Efficacy]]"
   - "[[Ontology]]"
   - "[[Humility]]"
   - "[[Sustainability Education]]"
-  - "[[Global Citizenship]]"
   - "[[Public Value]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Knowledge-Based Economy]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[PISA Creative Thinking]]"
   - "[[Cross-cultural Validity]]"
   - "[[Space of Equivalence]]"
+  - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -55,15 +57,15 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
 
 > [!concept-lens] 概念透镜
 > - **含义** 评估个体在相互依存的全球化世界中分析全球议题、理解多元文化视角、进行有效跨文化互动并采取负责任行动的多维综合能力框架。
-> - **用途** 用于指导大规模跨国教育评价从工具性学科技能向全球公民素养拓展，指导中小学跨学科课程研发与国际理解教育实践。
-> - **边界** 属于教育评价中的综合素养框架，不直接等同于单一语言能力或单纯的道德道德说教。
+> - **用途** 用于指导大规模跨国教育评价从工具性学科技能向[[Global Citizenship|全球公民]]素养拓展，指导中小学跨学科课程研发与国际理解教育实践。
+> - **边界** 属于教育评价中的综合素养框架，不直接等同于单一[[Language Skills|语言能力]]或单纯的道德道德说教。
 
 > [!def] PISA Global Competence
 > **[[PISA]] 全球胜任力（PISA Global Competence）** 是[[OECD|经济合作与发展组织]]（OECD）于 2018 年国际学生评估项目（[[PISA]]）中正式推出的多维跨学科素养测评框架。该[[Construct|构念]]将全球胜任力界定为个体综合调动知识、认知技能、态度与价值观，以实现四大核心维度的综合能力系统：审视具有地方、全球与文化重要性的议题；理解并欣赏多元主体所持有的不同视角与世界观；与来自不同文化背景的人士建立开放、得体且有效的跨文化互动；为了所有人共同的福祉与可持续发展采取负责任的行动。该框架直接响应了联合国 2030 [[UN Sustainable Development Goals|可持续发展目标]]（SDG 4.7），标志着 PISA 测评从传统狭隘的读写数理工具性技能，拓展至兼具跨文化理解、公民参与和道德反思的综合育人[[Paradigm|范式]]。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
@@ -119,7 +121,7 @@ updated: 2026-10-23
 > | [[Cross-cultural Validity]] | 概念 | 全球胜任力测评在跨国移植中面临的核心方法学检验挑战。 |
 > | [[Space of Equivalence]] | 概念 | 揭示将多元异质世界观压缩为统一量表排位之技术本质的[[Critical Theory\|批判理论]]。 |
 > | [[UNESCO]] | 事实 | 主导推进全球公民教育（GCED）与 [[UN Sustainable Development Goals\|SDG 4]].7 国际倡议的联合国核心机构。 |
-> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 剖析 PISA 不断扩张评估构念以维系自身跨国威权与商业帝国运转的批判文献。 |
+> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 剖析 PISA 不断扩张评估构念以维系自身跨国威权与商业帝国运转的批判[[Document\|文献]]。 |
 
 ---
 

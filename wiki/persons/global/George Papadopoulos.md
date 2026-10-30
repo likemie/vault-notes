@@ -9,10 +9,10 @@ summary: "希腊裔国际教育政策专家与历史学家，经合组织（OECD
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1926"
 died: ""
 lifespan: "1926–至今"
@@ -24,6 +24,7 @@ tags:
   - global-education-governance
 related_concepts:
   - "[[International Education]]"
+  - "[[Document]]"
   - "[[Comprehensive Education]]"
   - "[[State Educational Sovereignty]]"
   - "[[Knowledge-Based Economy]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-22
 > - **1968** 深度参与筹划与创建[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI），推动经合组织摆脱狭隘的冷战科技人力竞赛，全面探索经济增长的定性维度与教育的多元社会文化目标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
 > - **1970s–1980s** 长期担任经合组织教育副司长兼CERI副主任，主导教育委员会政策审议，组织覆盖18个教育细分领域的跨国专题研究与国别同行审查。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 439–440)]]
 > - **1990** 从经合组织高级行政职位卸任，随后受委托系统整理战后三十年经合组织教育档案。
-> - **1994** 出版里程碑式史学专著《1960–1990年的教育：经合组织视角》，成为后世学者研究[[International Education|国际教育]]组织演进的基准文献。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 437)]]
+> - **1994** 出版里程碑式史学专著《1960–1990年的教育：经合组织视角》，成为后世学者研究[[International Education|国际教育]]组织演进的基准[[Document|文献]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 437)]]
 
 ---
 

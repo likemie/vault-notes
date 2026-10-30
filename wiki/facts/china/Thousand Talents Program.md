@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Asymmetric Brain Circulation]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-10
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -159,5 +160,5 @@ updated: 2026-10-26
 > | [[US-China Economic and Security Review Commission]] | Fact (Organization) | 系统监控并推动[[United States Congress\|美国国会]]对千人计划展开立法审查的关键机构。 |
 > | [[Sino-American Trade War]] | Fact (Event) | 千人计划受到全面地缘政治化审视的宏观经贸冲突背景。 |
 > | [[Made in China 2025]] | Fact (Policy) | 与千人计划引智方向紧密协同的国家高科技产业发展规划。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录千人计划自 2008 年设立以来引进逾 7,600 名顶尖科学家、显著充实国内前沿科研实力的政策文献。 |
+> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录千人计划自 2008 年设立以来引进逾 7,600 名顶尖科学家、显著充实国内前沿科研实力的政策[[Document\|文献]]。 |
 > | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | Argument | 剖析千人计划在中美知识地缘政治冲突中关于权力、资源与意识形态深层张力的代表性论著。 |

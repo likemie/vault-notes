@@ -6,7 +6,7 @@ aliases:
 summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
 - discipline/anthropology
 related_concepts:
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
+  - "[[Student Motivation]]"
   - "[[Nerd]]"
   - "[[Peer-Supported Learning]]"
   - "[[Intellectual-Social Divide]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -86,7 +87,7 @@ updated: 2026-10-22
 
 **文化信念支撑**。这种行为背后是"近朱者赤，近墨者黑"的信念——年幼的儿童尤其容易受环境影响。家长和教育者因此积极鼓励孩子接近好学生，远离不良行为者。这种对同伴的选择性接近并非出于功利目的，而是建立在一个文化前提之上：好学习意味着好品德——因此与好学生交友是道德上的明智选择([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 
-**西方对照**。相比之下，欧裔美国及其他族裔家长很少使用"邻居的好学生"作为调动子女学习动机的策略。这一差异并非偶然——在 固定智力观和 [[Nerd]] [[Peer-Supported Learning|同伴文化]]的背景下，[[Intellectual-Social Divide|知性-社交二分]]使"别人学习比你好"的暗示不仅无法激发努力，反而可能被解读为"你天生不如人"，加剧子女对自身能力的怀疑([[Argument_Li_2012_Cambridge|Li, 2012, pp.108]])。
+**西方对照**。相比之下，欧裔美国及其他族裔家长很少使用"邻居的好学生"作为调动子女[[Student Motivation|学习动机]]的策略。这一差异并非偶然——在 固定智力观和 [[Nerd]] [[Peer-Supported Learning|同伴文化]]的背景下，[[Intellectual-Social Divide|知性-社交二分]]使"别人学习比你好"的暗示不仅无法激发努力，反而可能被解读为"你天生不如人"，加剧子女对自身能力的怀疑([[Argument_Li_2012_Cambridge|Li, 2012, pp.108]])。
 
 ---
 

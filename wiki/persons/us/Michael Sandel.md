@@ -9,7 +9,7 @@ summary: "美国著名政治哲学家、哈佛大学讲座教授，当代社群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,7 +41,6 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05]]"
@@ -49,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名政治哲学家、哈佛大学政府系政治哲学讲座教授，当代西方社群主义（Communitarianism）学派核心代表人物，美国文理[[Chinese Academy of Sciences|科学院]]院士。
+> - **身份位置** 美国当代著名政治哲学家、哈佛大学政府系政治哲学讲座教授，当代西方社群主义（Communitarianism）学派核心代表人物，美国文理科学院院士。
 > - **核心角色** 20 世纪晚期以来西方政治哲学关于正义、权利与善观念（the Good）大论战的主力思想家，以系统批判[[John Rawls|罗尔斯]]式程序自由主义国家道德中立原则及市场逻辑无度扩张著称。
 > - **代表贡献** 出版奠基性理论著作《自由主义与正义的局限》（*Liberalism and the Limits of Justice*, 1982/1998）、《民主的不满》（*Democracy's Discontent*, 1996）、《金钱不能买什么：市场的道德界限》（*What Money Can't Buy: The Moral Limits of Markets*, 2012）与《精英的傲慢》（*The Tyranny of Merit*, 2020）；揭示自由主义放弃实质性道德辩护所导致的公共道德真空，提出“[[Market Triumphalism|市场必胜论]]”（Market Triumphalism）批判。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 

@@ -7,7 +7,7 @@ summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Democratising Evidence]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Document]]"
   - "[[Metascience]]"
   - "[[Boundary Spanner]]"
   - "[[Knowledge Production]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > - **代表贡献** 发起并领导威廉·T·格兰特基金会“研究证据利用”战略专项，资助超过 60 项实证课题；系统阐释长效[[Research-Practice Partnership\|研究-实践伙伴关系]]（Research-Practice Partnership, [[Research-Practice Partnership\|RPP]]）运行规程，倡导重构学术评价与资助交付机制以支持弱势社群自我赋权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
 > [!citation-card] 人物定位的关键来源
-> 如果教育研究的核心目标是改善实践与政策，那么研究议程就应当聚焦关键的实践与政策关切。遗憾的是，现实往往反其道而行之。长期以来，研究者和科研资助机构对研究议程拥有过大的影响力，因而研究往往更多是在填补学术文献空白，而非回应实践或政策两难。（pp. 220–221）
+> 如果教育研究的核心目标是改善实践与政策，那么研究议程就应当聚焦关键的实践与政策关切。遗憾的是，现实往往反其道而行之。长期以来，研究者和科研资助机构对研究议程拥有过大的影响力，因而研究往往更多是在填补学术[[Document|文献]]空白，而非回应实践或政策两难。（pp. 220–221）
 >
 > *If the central goal of education research is to improve practice and policy, then research agendas should focus on key practice and policy concerns. Unfortunately, that is more often the exception than the rule. For far too long, researchers and research funders have had outsized influence on research agendas, and thus it is unsurprising that research is more likely to fill gaps in the academic literature than inform practice or policy dilemmas.*
 

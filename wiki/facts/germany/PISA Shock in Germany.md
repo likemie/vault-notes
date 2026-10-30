@@ -46,7 +46,6 @@ related_instruments: []
 related_persons:
   - "[[Sigrid Hartong]]"
 related_facts:
-  - "[[Klieme Report]]"
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -54,6 +53,7 @@ related_facts:
   - "[[SINUS]]"
   - "[[Chemie im Kontext]]"
   - "[[Physik im Kontext]]"
+  - "[[Klieme Report]]"
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Vergleichsarbeiten]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -84,7 +84,7 @@ updated: 2026-10-27
 
 > [!dev-timeline] 事件推进历程
 > - **2001–2002 — 震荡爆发与紧急政治动员** 2001 年 12 月主流媒体全面引爆“教育大国衰落”焦虑，德国媒体累计刊发报道达 687 个版面（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 29]]）；[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 迅速打破党派门户之见，于 2002 年通过“七大优先行动领域”，并设立情境化理科教学改进项目（[[SINUS]]、[[Chemie im Kontext|CHIK]] 与 [[Physik im Kontext|PIKO]]）直接对接测评框架。（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]；[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 136–138]]）
-> - **2003–2006 — 产出标准确立与[[Data Infrastructure|数据基础设施]]装配** 依据[[Klieme Report|《克利姆报告》]]（Klieme Report）于 2003–2004 年颁布首批国家教育标准（NES）；2004 年在柏林洪堡大学创立[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年 KMK 颁布《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》（Gesamtstrategie zum Bildungsmonitoring），建立三级联动监测体系。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
+> - **2003–2006 — 产出标准确立与[[Data Infrastructure|数据基础设施]]装配** 依据《[[Klieme Report|克利姆报告]]》（Klieme Report）于 2003–2004 年颁布首批国家教育标准（NES）；2004 年在柏林洪堡大学创立[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年 KMK 颁布《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》（Gesamtstrategie zum Bildungsmonitoring），建立三级联动监测体系。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
 > - **2006–2015 — 科层理性常态化与学业指标回升** 官员转向针对前置假设的实证分析，设立专职数据分析编制；联邦投资 40 亿欧元推动全日制学校普及。至 2012–2015 年周期，德国 [[PISA]] 成绩稳步回升至 [[OECD]] 均线以上，社会阶层差距显著收窄。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–492)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---

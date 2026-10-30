@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Decodification]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Document]]"
   - "[[Direct Instruction]]"
   - "[[Clinical Trial]]"
   - "[[Whole Language]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心业务矩阵与里程碑产出
 > - **国家早期阅读长期纵向追踪计划** 覆盖数万名高风险儿童的跨年代追踪实验，产出了奠定早期拼读必要性的大量认知心理学论文。
-> - **牵头组建并主持[[National Reading Panel|国家阅读委员会]]（NRP, 1997–2000）** 协同联邦教育部出资召集 14 人全国专家组，制定文献筛选因果标准，最终发布《教儿童阅读》里程碑报告。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
+> - **牵头组建并主持[[National Reading Panel|国家阅读委员会]]（NRP, 1997–2000）** 协同联邦教育部出资召集 14 人全国专家组，制定[[Document|文献]]筛选因果标准，最终发布《教儿童阅读》里程碑报告。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
 > - **向联邦立法输出排他性法定定义** 直接促成了 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与 2001 年 [[No Child Left Behind Act 2001|NCLB]] 法案中关于“阅读”与“科学本位阅读研究”（SBRR）的成文法定义。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 5, 8)]]
 
 > [!citation-card] [[G. Reid Lyon|里德·里昂]]在国会听证会上的实证宣示（G. Reid Lyon, 1997）

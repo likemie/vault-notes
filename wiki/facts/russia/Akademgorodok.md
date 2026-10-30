@@ -7,7 +7,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -23,14 +23,13 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -45,7 +44,7 @@ updated: 2026-10-22
 
 > [!note] 赫鲁晓夫时期（1950s末–1964）
 > - 赫鲁晓夫访美后决定模仿美国[[Grandes Ecoles|大学校]]园模式，在新西伯利亚建造大型科学中心。
-> - Akademgorodok 集中了苏联[[Chinese Academy of Sciences|科学院]]西伯利亚分院的众多研究所，试图通过空间集聚促进跨学科合作。
+> - Akademgorodok 集中了苏联科学院西伯利亚分院的众多研究所，试图通过空间集聚促进跨学科合作。
 > - 科学城在初期取得了一定成功，多个学科在前沿水平运作（Josephson, 1991）。
 
 > [!note] 勃列日涅夫时期（1964–1982）
@@ -67,7 +66,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 争议与评论
-> Akademgorodok 的失败也包含一个悖论：如果[[Chinese Academy of Sciences|科学院]]不是独立于中央指令经济发展，它会被[[State Vertical\|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在国家主义体制内进行局部改革的根本困境。
+> Akademgorodok 的失败也包含一个悖论：如果科学院不是独立于中央指令经济发展，它会被[[State Vertical\|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在国家主义体制内进行局部改革的根本困境。
 
 ---
 

@@ -13887,6 +13887,8 @@
     "Legrain et al., 2019": "Legrain et al., 2019",
     "Legro (1990)": "Legro, 1990",
     "Legro, 1990": "Legro, 1990",
+    "Lehman (1953)": "Lehman, 1953",
+    "Lehman, 1953": "Lehman, 1953",
     "Lehmann (2007)": "Lehmann, 2007",
     "Lehmann, 2007": "Lehmann, 2007",
     "Lehmbruch & Schmitter (1982)": "Lehmbruch & Schmitter, 1982",
@@ -128063,6 +128065,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "An evaluation of an after-school partnership program  The effects on young children's performance"
+    },
+    "Lehman, 1953": {
+      "aliases": [
+        "Lehman, 1953",
+        "Lehman (1953)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lehman, 1953"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+      ],
+      "title": ""
     },
     "Lehmann, 2007": {
       "aliases": [

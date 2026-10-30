@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315–327"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Social Cloning]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Discipline-Based Theory]]"
   - "[[Positivism]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Enlightenment]]"
   - "[[Artefact]]"
+  - "[[Religious Schools]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Research Question]]"
   - "[[Literature Review]]"
@@ -73,7 +75,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2009
 doi: ""
 citation_aliases:
@@ -118,7 +120,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文献样本** | 比较教育经典文本及当代[[Policy Borrowing\|政策借用]]理论文献。 |
+> | **[[Document\|文献]]样本** | 比较教育经典文本及当代[[Policy Borrowing\|政策借用]]理论文献。 |
 > | **案例情境** | 英格兰大学改革（1990年代至今）、战后盟军占领下的德日改革（1945年之后）、加拿大与澳大利亚等移民社会的建构历史。 |
 > | **时空特征** | 结合长时段历史分析与冷战、战后重建及新自由主义审计文化等特定历史节点。 |
 
@@ -181,7 +183,7 @@ citation_aliases:
 > - **1889年（巴西宣布共和：实证主义救国）** 废除奴隶制并宣布共和后，巴西精英集团急于摆脱传统葡萄牙神权统治与天主教会在教育上的垄断。他们引入了法国哲学家[[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte）的实证主义（Positivism），将秩序与进步写入国旗，并以此为纲领对中等和高等教育进行世俗化、科学化改革，企图利用实证科学来训练新型的技术官僚，以加速工业化进程。
 > - **1910年（墨西哥革命：乡村学校与民族塑造）** 随着资产阶级革命与农民起义推翻独裁统治，新成立的联邦政府将教育局长何塞·巴斯孔塞洛斯（José Vasconcelos）主导的乡村学校与文化传教团作为重建国家认同的核心手段。学校被赋予了创造宇宙种族（Mestizaje，混血认同）的认识论使命，通过艺术、手工业和世俗理性教育，将边缘化的印第安农民阶级强行整合进统一的现代革命国家机器，以此消解传统天主教会对地方社会的绝对控制。
 > - **1917年（俄国十月革命：社会主义新人的模具）** 苏维埃政权彻底粉碎了沙皇时代的宗教与古典文科教育，在卢纳察尔斯基和克鲁普斯卡娅的领导下，创立了统一劳动学校。教育被定义为消灭阶级压迫、灌输历史唯物主义与培养无产阶级社会主义新人的单一政治模具，全面转向服务于国家工业化与集体化生存斗争的综合技术教育。
-> - **1920年代（土耳其凯末尔改革：世俗化大决裂）** 穆斯塔法·凯末尔在奥斯曼帝国的废墟上强力推行西方化改革。通过《统一教育法》（1924年）并推行世俗混合教育，土耳其关闭了所有伊斯兰宗教学校（Madrasas），强行用拉丁字母替代阿拉伯字母，实现国家意志与宗教神权的彻底决裂。
+> - **1920年代（土耳其凯末尔改革：世俗化大决裂）** 穆斯塔法·凯末尔在奥斯曼帝国的废墟上强力推行西方化改革。通过《统一教育法》（1924年）并推行世俗混合教育，土耳其关闭了所有伊斯兰[[Religious Schools|宗教学校]]（Madrasas），强行用拉丁字母替代阿拉伯字母，实现国家意志与宗教神权的彻底决裂。
 > - **20世纪至今（中国现代转型：多重认识论的交叠移植）** 从1905年废除[[Civil Service Examination\|科举]]、效仿日本/德国学制，到1920年代迎合美国[[Pragmatic Paradigm\|实用主义]]（[[John Dewey\|杜威]]访华），再到1950年代一边倒全盘引进苏联凯洛夫教育学模式，以及改革开放后的中西融合。中国学校体系反复被置于政治重建与意识形态整合的焦点，外来的科学与政治理念同本土的历史文化基因（如国家中心传统、儒家伦理）进行深度的博弈、融合与本土化改写。
 ### 第三步：形变问题，我们缺乏描述教育制度形状的词汇
 

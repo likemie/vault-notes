@@ -10,9 +10,9 @@ summary: "由英国天体物理学家 Arthur Eddington 提出的离散累加成�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -33,6 +33,8 @@ related_instruments: []
 related_persons:
   - "[[Arthur Eddington]]"
   - "[[Jorge E. Hirsch]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -75,7 +77,7 @@ updated: 2026-10-30
 > [!dev-timeline] 方法演变
 > - **1940 年代 — 概念形成** 亚瑟·爱丁顿在其晚年系统记录个人自行车长途骑行日志，至 1944 年去世前达到 $E = 87$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 20)]]
 > - **2005 年 — 科学计量学同构映射** [[Jorge E. Hirsch|乔治·希尔施]]提出 $h$ 指数后，学界将其算法源流追溯至爱丁顿数。
-> - **2021 年 — 科学学系统化阐述** 王大顺与巴拉巴西在专著中将埃丁顿数作为解析 $h$ 指数“阶梯上升阻力”与“长程战略规划”的核心参照。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 20)]]
+> - **2021 年 — 科学学系统化阐述** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在专著中将埃丁顿数作为解析 $h$ 指数“阶梯上升阻力”与“长程战略规划”的核心参照。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 20)]]
 
 ---
 

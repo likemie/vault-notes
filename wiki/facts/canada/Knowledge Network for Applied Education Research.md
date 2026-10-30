@@ -10,7 +10,7 @@ subtype: policy
 region: canada
 fact_region: "canada"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,7 +21,9 @@ tags:
   - theme/evidence-informed-practice
   - theme/research-practice-partnership
 related_concepts:
+  - "[[Epistemic Infrastructure]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Document]]"
   - "[[Boundary Spanner]]"
   - "[[Research-Practice Partnership]]"
   - "[[Seed Funding]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -51,12 +53,12 @@ updated: 2026-10-16
 > - **建立时间 / 发起主体** 2010 年由加拿大安大略省教育部（Ontario Ministry of Education）提供全额专项资助，由多伦多大学安大略教育研究院（OISE, University of Toronto）与西安大略大学（Western University）联合主持建立。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 > - **覆盖范围与对象** 覆盖安大略省全境 72 个公立英语与法语教育局（School Boards）、数十所大学教育学院、教师专业协会、教师工会及全省数十万中小学师生。
 > - **问题背景** 长期以来，安省高校产出的大量高水平教育科研成果沉睡在学术期刊中，而中小学教师在推进数学与全纳教育改革时缺乏经过转译的接地气证据，双方处于严重脱节的“两个孤立世界”。
-> - **制度定位** 安大略省实施全系统教育改革的核心知识基础设施与旗舰平台，被公认为国际全系统[[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation, KMb）的典范范例。
+> - **制度定位** 安大略省实施全系统教育改革的核心[[Epistemic Infrastructure|知识基础设施]]与旗舰平台，被公认为国际全系统[[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation, KMb）的典范范例。
 
 ---
 
 > [!claim] 核心设计哲学
-> KNAER 摒弃了由大学向中小学单向输送文献的技术-理性供给模式，构建了集“**优质知识产品 ＋ 跨界协作关系 ＋ 全系统能力建设**”于一体的三位一体全系统[[Knowledge Mobilisation\|知识动员]]战略，通过建立专题知识网络（Thematic Knowledge Networks）与派遣[[Boundary Spanner\|跨界中介者]]，实现研究者与实践者的共同知识创造。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–131)]]
+> KNAER 摒弃了由大学向中小学单向输送[[Document|文献]]的技术-理性供给模式，构建了集“**优质知识产品 ＋ 跨界协作关系 ＋ 全系统能力建设**”于一体的三位一体全系统[[Knowledge Mobilisation\|知识动员]]战略，通过建立专题知识网络（Thematic Knowledge Networks）与派遣[[Boundary Spanner\|跨界中介者]]，实现研究者与实践者的共同知识创造。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 > [!policy-design] 三位一体核心支柱
 > - **支柱一：优质知识产品（Quality Products）** 联合学者与骨干教师，将复杂的同行评议论文与[[Systematic Review\|系统综述]]二次开发为直观的教学工具包、视频微课与实践指南，确保信息易读、易懂、易上手。

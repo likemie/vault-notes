@@ -6,7 +6,7 @@ aliases:
 summary: "Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Observation]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[William H. McNeill]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-22
 
 > [!critique] 外部批评
 > - **对[[Epistemology\|认识论]]实质与伪科学论述的结构性失明** 拉维特·格兰·邓肯与[[Clark A. Chinn\|克拉克·钦]]系统指出，CER 框架属于典型的句法结构主义评价进路。它仅核对是否包含部件，却无法甄别部件本身的认识论真伪。在当下的反疫苗宣传与全球变暖否定论文本中，作者完全能够提供结构齐备的主张、精挑细选的伪证据（Cherry-picked data）以及听起来言之凿凿的推理；在 CER 框架下这些劣质论证反而会被打出满分。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204)]]
-> - **割裂学科实体知识与方法因果条件** CER 框架容易将论证技能抽离为一般性的逻辑表征技巧，忽略了科学论证必须依托于深厚的领域实体知识，以及对野外观察、实验设计中因果[[Reliable Epistemic Processes\|可靠过程]]的严格审视。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207–208, 221–222)]]
+> - **割裂学科实体知识与方法因果条件** CER 框架容易将论证技能抽离为一般性的逻辑表征技巧，忽略了科学论证必须依托于深厚的领域实体知识，以及对野外观察、[[Experimental Research|实验设计]]中因果[[Reliable Epistemic Processes\|可靠过程]]的严格审视。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207–208, 221–222)]]
 
 ---
 

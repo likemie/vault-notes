@@ -9,7 +9,7 @@ aliases:
 summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 31
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Multilateral Development Bank]]"
   - "[[Counterpart Funds]]"
+  - "[[New Public Management]]"
   - "[[Co-Design]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Research Question]]"
   - "[[Research Universities]]"
+  - "[[Giant Component]]"
   - "[[Determinism]]"
   - "[[Market Failure]]"
   - "[[Rule Ambiguity]]"
@@ -40,6 +42,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Historical Institutionalism]]"
   - "[[Techno-economic Paradigm]]"
+  - "[[Neo-Weberian State]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -57,10 +60,11 @@ related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: medium
 status: draft
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -87,7 +91,7 @@ updated: 2026-10-29
 > - **2000 — 政治学与制度主义扩展** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000）将路径依赖模型系统迁移至政治学与公共政策分析，指出政治制度具有比经济市场更高的转换成本与更强的权力自我强化机制。
 > - **2009 — 国际主权借贷契约惯性与审计锁定拓展** [[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）将路径依赖理论运用于超国家[[Multilateral Development Bank|多边开发银行]]的主权教育贷款治理，揭示契约惰性与[[Counterpart Funds|对等配套资金]]在抵御借款国内阁政客短视更迭的积极减震功能，以及放贷流水线指标与报销审计程序如何造成灾难性的合规锁定与“白色大象”。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 458, 470–472)]]
 > - **2014–2026 — 开源生态与“教育即标准”机制拓展** Krste Asanović 与 David Patterson（2014）推动 RISC-V 架构发展，卓泽林进一步揭示大学如何通过课程教学体系、教材编写与跨层级工程人才培养，将开源指令集架构直接内生化为新一代软硬件开发者的认知事实标准，在全球范围内形成反向锁定与技术生态主导权。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
-> - **2019 — 国家行政传统对政策工具折射的路径依赖** 安东尼·维格（Antoni Verger）等学者揭示不同国家的历史行政传统（如英美新公共管理体制与欧洲大陆新韦伯主义体制）构成强大的制度路径依赖，系统性过滤与折射全球流动的标准化测验问责工具，抑制了全球政策走向同质模式。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 262–263)]]
+> - **2019 — 国家行政传统对政策工具折射的路径依赖** 安东尼·维格（Antoni Verger）等学者揭示不同国家的历史行政传统（如英美[[New Public Management|新公共管理]]体制与欧洲大陆[[Neo-Weberian State|新韦伯主义]]体制）构成强大的制度路径依赖，系统性过滤与折射全球流动的标准化测验问责工具，抑制了全球政策走向同质模式。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 262–263)]]
 
 ---
 
@@ -155,7 +159,7 @@ updated: 2026-10-29
 > - **维度与材料**
 >   1. *初始分叉点*：2010 年加州大学伯克利分校因传统商业架构授权繁琐且昂贵，启动开源精简指令集研发；
 >   2. *教育嵌入*：Patterson 等学者将 RISC-V 写入主流计算机体系结构教材，并在全球数百所[[Research Universities|研究型大学]]推广教学实验板卡；
->   3. *网络外部性与自强化*：培养出的大批工程师在进入英伟达、高通、阿里巴巴等企业后自发选择 RISC-V 进行嵌入式与 AI 加速芯片开发，推动软件工具链（GCC/LLVM、Linux 操作系统核心）快速完善；
+>   3. *网络外部性与自强化*：培养出的大批工程师在进入英伟达、高通、阿里巴巴等企业后自发选择 RISC-V 进行嵌入式与 AI 加速芯片开发，推动软件工具链（[[Giant Component|GCC]]/LLVM、Linux 操作系统核心）快速完善；
 >   4. *产业锁定与生态突围*：随着汽车电子与物联网设备对低功耗定制芯片需求爆发，RISC-V 凭借极高的生态兼容性与零授权壁垒，锁定了万物互联时代的底层技术标准。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 > - **综合判读** 该案例证明，技术标准的竞争胜负并不单取决于商业巨头的资本投入，研究型大学依托科教融合与[[Engineering Education|工程教育]]网络，能够在基础架构层实现“教育即标准”的路径锁定突围。
 > - **结论强度** 路径依赖理论有效解释了 RISC-V 生态的跨越式扩张动力，但其在高性能服务器芯片领域的全面替代仍受制于既有 x86 庞大软件遗产的高昂转换成本。

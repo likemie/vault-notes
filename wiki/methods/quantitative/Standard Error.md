@@ -10,7 +10,7 @@ summary: "度量样本统计量抽样分布离散度与估计精度的核心统�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Publication Bias]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
@@ -42,6 +43,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Forest Plot]]"
   - "[[Causal Modeling]]"
+  - "[[Experimental Research]]"
   - "[[Fixed-Effect Model]]"
   - "[[Research Synthesis]]"
   - "[[Robust Variance Estimation]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -83,7 +85,7 @@ updated: 2026-10-29
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** SE 度量的是从有限经验样本推断广义总体时固有的客观[[Random Sampling|随机抽样]]波动，体现了实证科学推断知识的概率性与渐近性。
-> - **研究者角色** 要求研究者根据具体数据结构（单样本均值、分类比例、独立双组实验设计或两级[[Meta-analysis|元分析]]）严密推导对应方差公式，严格防范将标准误与标准差（SD）混淆作为除数的计量事故。
+> - **研究者角色** 要求研究者根据具体数据结构（单样本均值、分类比例、独立双组[[Experimental Research|实验设计]]或两级[[Meta-analysis|元分析]]）严密推导对应方差公式，严格防范将标准误与标准差（SD）混淆作为除数的计量事故。
 > - **有效性标准** 满足大样本渐近正态性、无偏性、与[[Sample Size Determination|样本量]]方差相容性；在两级汇总中满足抽样独立性。
 > - **不声称回答的问题** SE 仅度量随机[[Sampling Error|抽样误差]]，完全不能反映选择偏倚、测量工具系统误差或[[Publication Bias|发表偏倚]]等非随机性系统扭曲。
 
@@ -164,7 +166,7 @@ updated: 2026-10-29
 >
 > **充要条件与注意事项**
 > - 该公式成立的唯一充要条件是纳入的所有底层主要研究**完全独立且互不重叠**；
-> - 严禁对纳入文献的标准误直接取简单算术平均，否则将严重违反信息累加原理并得出荒谬的膨胀误差。
+> - 严禁对纳入[[Document|文献]]的标准误直接取简单算术平均，否则将严重违反信息累加原理并得出荒谬的膨胀误差。
 
 > [!math-principle] 标准误的统计数学公理与常见误用机理
 > - **精度累加公理** 在合法元分析中，联合标准误必小于最小子项：$\text{SE}_D < \min(\text{SE}_j)$。若合并后的标准误反而大于某单项高精度研究，证明发生了算术平均违背。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 30)]]

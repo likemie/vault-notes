@@ -9,7 +9,7 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Document]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
@@ -61,7 +62,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -145,5 +146,5 @@ updated: 2026-10-22
 > | [[DARPA]] | Fact (Org) | 展现卓越公共部门动态能力、依托项目经理制引领颠覆性创新的标杆机构。 |
 > | [[Rainer Kattel]] | Person | 联合[[Mariana Mazzucato\|马祖卡托]]系统建构公共部门动态能力[[Analytic Framework\|理论分析框架]]的核心学者。 |
 > | [[Mariana Mazzucato]] | Person | 正式建构公共部门动态能力理论并将其应用于全球创新治理转型的核心学者。 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基文献。 |
+> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基[[Document\|文献]]。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 奠定使命导向政策中公共动态能力与机构学习理论地位的核心文献。 |

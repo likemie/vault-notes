@@ -13,7 +13,7 @@ subtype: program
 region: sweden
 fact_region: "sweden"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Theoretical Knowledge]]"
   - "[[Third Space Discourse]]"
+  - "[[Document]]"
   - "[[Institutional Drift]]"
   - "[[Research-Practice Partnership]]"
   - "[[Causality]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心实证结论
 > - **确立[[Third Space Discourse\|第三空间话语]]优势** 独立评估表明，高成效的项目并未强求教师变成职业科学家或学者变成中小学教员，而是在两者相遇处形成了超越二元对立的杂合型第三空间[[Discourse|话语]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
-> - **提升一线教师科研素养** 显著增强了一线教师对实证文献的批判性阅读与评价能力，激发了日常教学反思与探究动能。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
+> - **提升一线教师科研素养** 显著增强了一线教师对实证[[Document|文献]]的批判性阅读与评价能力，激发了日常教学反思与探究动能。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 > - **识别发展性漂移风险** 评估警示，随着项目推进，若缺乏严格的学术方法把关，实践伙伴关系极易出现偏重表面组织活动而忽视科学证据效力的发展性漂移（Developmental [[Institutional Drift|drift]]）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
 
 > [!stat-cards]- 关键规模数据

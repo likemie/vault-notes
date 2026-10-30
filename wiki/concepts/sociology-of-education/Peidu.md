@@ -7,7 +7,7 @@ aliases:
 summary: "中国农村家庭为子女选择城镇学校而迁入县城或乡镇陪读的做法，本质上是一种通过地理迁移实现的择校行为，按家庭社会经济地位呈现明显的分层分选，中上层家庭的迁出加速了农村学校的衰败。"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,10 @@ fact_tags:
   - theme/urbanisation
 related_concepts:
   - "[[School Choice]]"
+  - "[[Charter Schools]]"
+  - "[[School Vouchers]]"
   - "[[Cultural Capital]]"
+  - "[[School Finances]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods: []
@@ -32,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -47,7 +50,7 @@ updated: 2026-10-22
 
 > [!boundary]- 核心概念辨析与边界
 > - **与常规[[School Choice\|择校]]（School Choice）的对比**
->   国际语境下的择校通常由教育市场化、多元化政策（如特许学校、教育券）驱动，而中国的陪读现象则是由地方政府以优质教育资源向城镇集中来推进人口城镇化的发展战略所引导的。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 303–304)]]
+>   国际语境下的择校通常由教育市场化、多元化政策（如[[Charter Schools|特许学校]]、[[School Vouchers|教育券]]）驱动，而中国的陪读现象则是由地方政府以优质教育资源向城镇集中来推进人口城镇化的发展战略所引导的。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 303–304)]]
 > - **与常规劳动力迁移（Labor Migration）的对比**
 >   陪读迁移的核心动机在于子女教育，而非在迁入地寻求就业或改善居住水平。陪读的成年人（如母亲或祖辈）在城镇租房居住，通常不进入当地劳动力市场，家庭经济开支依赖在外地（如沿海城市）务工的父亲，呈现出家庭内部劳动力与抚育功能跨区域折叠的特殊空间结构。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 307)]]
 
@@ -74,7 +77,7 @@ updated: 2026-10-22
 > [!warning] 农村学校的衰退循环
 > 陪读现象作为中上层家庭用脚投票的结果，带走了农村最具资源优势的生源与家长支持，使留在原地的农村学校陷入不可逆转的恶性衰退循环。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 311–312)]]
 > 
-> - **经费锐减** 公立学校经费按在籍学生数核定拨付，生源大规模向县城流失导致农村学校经费断崖式下跌，日常运转困难，硬件损坏无钱修缮。
+> - **经费锐减** 公立[[School Finances|学校经费]]按在籍学生数核定拨付，生源大规模向县城流失导致农村学校经费断崖式下跌，日常运转困难，硬件损坏无钱修缮。
 > - **优秀教师流失** 县城学校规模膨胀导致县城师资短缺，教育局通过公开借调、抽调形式将乡镇和村小年轻、优秀的骨干教师调入城里，农村学校只留下临近退休、教学热情较低的高龄教师。
 > - **班级教学氛围恶化** 留校生源在学习成绩、家庭支持上均处于最弱势阶层，[[Class Size\|班级规模]]缩减到极小（如仅有 5 人），导致小组讨论、生生互动等常规教学活动无法开展，进一步挫伤了留守教师的教学积极性。
 > - **信任危机与加速关闭** 软硬件的衰退使得农村学校的教学质量持续走低，彻底摧毁了剩余村民的信任，进而加速了农村家庭的逃离与学校的最终关闭。

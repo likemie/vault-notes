@@ -9,7 +9,7 @@ aliases:
 summary: "卡扎米亚斯概括历史-哲学-文化与自由人文主义学派的核心元理论范畴，主张比较教育学必须超越将教育降格为技术性学校教育规训（schooling）的工具主义，建构以人（Anthropos）与文化全人教化（Paideia / Bildung）为核心的人本认识论，直面人类生存的政治与伦理危机。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paideia]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Technical Rationality]]"
   - "[[Performance Indicators]]"
   - "[[Positivism]]"
@@ -61,13 +60,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Humanistic Episteme
-> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义人文科学（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育学在认知对象与终极目的上的最高哲学定位：研究的焦点不是冷冰冰的体制条文与量化指标，而是制度背后作为主体的人之生成与生存境况。

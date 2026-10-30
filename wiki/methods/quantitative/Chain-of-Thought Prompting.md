@@ -10,7 +10,7 @@ summary: "通过引导大语言模型显式生成逐步推理路径以解决复�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,7 +27,9 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Scoring Rubrics]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Externalization]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
@@ -45,7 +47,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Zhao_2025_JIntell]]"
@@ -53,13 +56,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Chain-of-Thought Prompting
-> 思维链提示（Chain-of-Thought Prompting, CoT）是一种通过在提示词（Prompts）中显式引入分步骤中间推理轨迹（Step-by-Step Reasoning Trajectories），引导大语言模型（Large Language Models, LLMs）将复杂、多步骤的认知推理任务分解为连贯推理序列的提示工程方法。在教育与[[Man-Computer Symbiosis|人机协同]]学习视域下，CoT 不仅是提升算法在数学、统计学与逻辑推理准确率的技术工具，更是将模型黑盒式的直接答案输出转化为外显化、可观察、可模仿的认识[[Scaffolding\|脚手架]]（Cognitive Scaffolding）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 2–4)]]
+> 思维链提示（Chain-of-Thought Prompting, CoT）是一种通过在提示词（Prompts）中显式引入分步骤中间推理轨迹（[[Skills Toward Employment and Productivity|Step]]-by-Step Reasoning Trajectories），引导大语言模型（Large Language Models, LLMs）将复杂、多步骤的认知推理任务分解为连贯推理序列的提示工程方法。在教育与[[Man-Computer Symbiosis|人机协同]]学习视域下，CoT 不仅是提升算法在数学、统计学与逻辑推理准确率的技术工具，更是将模型黑盒式的直接答案输出转化为外显化、可观察、可模仿的认识[[Scaffolding\|脚手架]]（Cognitive Scaffolding）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 2–4)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 大语言模型的人机交互提示语、复杂推理任务（如统计推论、算法设计、数理证明、逻辑论辩）及学习者的思维链外显记录。
@@ -82,7 +85,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** 人工智能教育应用（AIEd）、[[Man-Computer Symbiosis|人机协同]]学习实验、提示工程对比研究。
-> - **数据收集** 人机多轮对话日志、思维链提示模板、分步推理评分量规。
+> - **数据收集** 人机多轮对话日志、思维链提示模板、分步推理[[Scoring Rubrics|评分量规]]。
 > - **分析方法**
 >   - 零样本思维链（Zero-Shot CoT，如提示语 `"Let's think step by step"`）
 >   - 少样本思维链（Few-Shot CoT，在提示中提供 2–3 个带分步推理的标准范例）
@@ -95,7 +98,7 @@ updated: 2026-10-29
 > 1. **任务分解与问题表征** 明确复杂学科任务的核心目标，识别出解决该任务所必需的逻辑子步骤（如在统计假设检验中分解为：假设陈述 $\to$ 尺度诊断 $\to$ 公式选择 $\to$ 自由度与统计量计算 $\to$ 结论裁决）。
 > 2. **提示词模板构建** 选择适宜的 CoT [[Paradigm\|范式]]（零样本或少样本），在提示语中显式嵌入分步要求指令（如：“请按步骤推导[[Analysis of Variance\|方差分析]][[Effect Size\|效应量]] $\omega^2$ 的公式等价性，并明确每个参数在平衡设计下的含义”）。
 > 3. **人机多轮质询与中间链条审查** 学习者逐一审查大模型输出的各推导步骤，针对模糊或存疑环节发起定向追问。
-> 4. **结合外部证据溯源核验** 将思维链中的推导前提与教材、期刊文献或原始数据实施交叉比对，排查逻辑跳跃或虚假假设。
+> 4. **结合外部证据溯源核验** 将思维链中的推导前提与教材、期刊[[Document|文献]]或原始数据实施交叉比对，排查逻辑跳跃或虚假假设。
 > 5. **整合反思与知识内化** 总结解题图式，将[[Externalization\|外化]]的机器思维链转化为个体内在的高阶[[Problem Solving\|问题解决]]策略。
 
 > [!formula-step] 公式步骤　思维链概率生成与分步条件依赖模型

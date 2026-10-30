@@ -7,9 +7,9 @@ title: "Argument_Popkewitz_2005_Palgrave"
 argument_key: "Argument_Popkewitz_2005_Palgrave"
 argument_display_title: "Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education"
 argument_kind: "edited-volume"
-argument_related_count: 9
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 10
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -25,6 +25,7 @@ citation: "Popkewitz, T. S. (Ed.). (2005). Inventing the modern self and John De
 tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-reading"]
 related_concepts:
   - "[[Pragmatic Paradigm]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Presence]]"
@@ -40,7 +41,7 @@ sources:
   - "[[books/Popkewitz_2005_Palgrave/Popkewitz_2005_Palgrave|Popkewitz_2005_Palgrave]]"
 status: "draft"
 created: "2026-10-11"
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 > [!volume-profile] 阅读档案
@@ -58,7 +59,7 @@ updated: 2026-10-20
 > - **第五部分，第 11–12 章** 亚洲与小亚细亚；包含中国与日本。
 
 > [!chapter-roadmap] 阅读进度
-> - **准备完成** 十二章已转换为十二个 TXT，注释与其中的文献引用随所属章节保留。
+> - **准备完成** 十二章已转换为十二个 TXT，注释与其中的[[Document|文献]]引用随所属章节保留。
 > - **阅读顺序** 从第 1 章开始，再按原书各地域部分推进。
 > - **当前进度** 尚未建立章节论证页；具体主张、证据评价及跨章比较留待分章解读。
 

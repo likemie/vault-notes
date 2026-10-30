@@ -10,10 +10,10 @@ aliases:
 summary: "源于欧陆与拉美的教育知识传统，将知识界定为由学科分类、客观事实与经典概念构成的系统体系，核心在于知识讲授与理性记忆。1990年代跨国治理中，它被国际组织推行的‘全球教育话语’判定为落后僵化，并被能力本位课程强行替代；但在阿根廷等国，废除统编大纲、下放课程自主权因缺乏专业配套，诱发教师集体翻抄商业教辅目录备课的反常恶果，致使国家课程主权向出版资本让渡。"
 type: concept
 domain: "curriculum"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum
   - theme/sociology-of-knowledge
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Rote Learning]]"
   - "[[Liberal Education]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -79,7 +78,7 @@ updated: 2026-10-29
 > *For example, international agencies promoted in the 1980s and 1990s an education based on the development of competencies. This type of education is very different from the traditional encyclopaedic definition of knowledge in the Argentine and Brazilian educational systems, where education was very much based on the transmission of facts and information that students should remember. Thus, given these differences, it was not only some aspects of these educational systems that were seen as being inefficient. The view was that the whole system had to be changed...*
 
 > [!boundary]- 概念边界
-> - 不等于 僵化[[Rote Learning|死记硬背]]（Rote Learning） — 百科全书式知识传统源于欧洲启蒙主义[[Liberal Education|博雅教育]]，追求学科事实与[[Geisteswissenschaften|人文科学]]精神的系统融通；死记硬背仅为其教学执行失灵时的退化病态，不可等同于该传统的哲学核心。
+> - 不等于 僵化[[Rote Learning|死记硬背]]（Rote Learning） — 百科全书式知识传统源于欧洲启蒙主义[[Liberal Education|博雅教育]]，追求学科事实与人文科学精神的系统融通；死记硬背仅为其教学执行失灵时的退化病态，不可等同于该传统的哲学核心。
 > - 不等于 [[Pragmatic Paradigm|实用主义]]技能培训（Vocational / Competency Training） — 后者以劳动力市场岗位任务达标为导向，排斥非功利性的深厚博雅学术与历史事实积淀。
 
 ---

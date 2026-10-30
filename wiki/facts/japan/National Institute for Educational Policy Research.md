@@ -10,9 +10,9 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "政府资助独立行政法人"
 headquarters: "日本东京千代田区（Chiyoda, Tokyo）"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Evaluation Research]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-26
 > - **教育政策研究与综合** 针对文部科学省政策优先领域，开展教育课程改革、学校管理、教师培训、教育公平等议题的实证研究与国际比较分析，产出政策简报与研究报告。
 > - **全国学力调查实施** 承担日本全国学力与学习状况调查的设计、实施与数据分析工作，每年为全国约 200 万名小学六年级与初中三年级学生提供学力测评数据支撑。
 > - **国际大规模测评协调** 作为 OECD PISA、TALIS（[[Teaching and Learning International Survey]]）等项目的日本国家协调机构，负责日本参与国际测评的抽样设计、测试工具本土化与数据提交工作。
-> - **数据库与知识服务** 维护教育统计数据库（e-[[Students and Teachers Accessing Tomorrow\|STAT]] 教育系列）与教育政策文献库，面向研究者、政策制定者与公众提供开放数据检索服务。
+> - **数据库与知识服务** 维护教育统计数据库（e-[[Students and Teachers Accessing Tomorrow\|STAT]] 教育系列）与教育政策[[Document|文献]]库，面向研究者、政策制定者与公众提供开放数据检索服务。
 
 ---
 

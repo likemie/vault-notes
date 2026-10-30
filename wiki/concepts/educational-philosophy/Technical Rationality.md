@@ -170,7 +170,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -273,7 +273,7 @@ updated: 2026-10-29
 > **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management\|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的[[Intentionality|意向性]]，剥夺了教师的[[Professional Judgment\|专业判断]]权，最终诱发深层的系统[[Legitimation Crisis|合法化危机]]。
 
 > [!claim] [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]]
-> **技术官僚理性对全人教化与[[Geisteswissenschaften|人文科学]]传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。现代主义实证学者将[[Scientific Method\|科学方法]]、[[Empiricism\|经验主义]]、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观规训与经济人力产出测算，系统抹杀了以人为中心的古典全人教化（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> **技术官僚理性对全人教化与人文科学传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。现代主义实证学者将[[Scientific Method\|科学方法]]、[[Empiricism\|经验主义]]、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观规训与经济人力产出测算，系统抹杀了以人为中心的古典全人教化（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **教师教育政策中的[[Epistemological Break\|认识论断裂]]与守门把关** 在当代[[Evidence Era\|证据时代]]，技术理性演化为一种主导性的[[Rationalized Myth\|合理化神话]]。政府部门在推行教师教育改革时，假定实验室与随机试验中的教学规程可以无损、线性地转译为一线通用标准，在实践中导致了严重的认识论断裂；更为深层的是，技术理性被官方充当守门工具，通过[[Carter Review of Initial Teacher Training\|卡特审查]]等程序定向筛选符合执政偏好的证据，使技术治理实质上沦为[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–96)]]
@@ -391,7 +391,7 @@ updated: 2026-10-29
 > [!critique] 外部批评
 > - **消除[[Intentionality|主体意向性]]与价值神圣化** 将教师和学生还原为刺激-反应输入输出变量，预设既定目标不容置疑，排斥对教育伦理目的的追问。
 > - **去情境化有效性追求的合法化悖论** 越是以技术理性手段追求去情境化的“[[Effective Teaching|有效教学]]”，越容易削弱师生的内在认同，诱发职业倦怠与意义危机。
-> - **对比较教育[[Geisteswissenschaften|人文科学]]属性的系统剥离** 卡扎米亚斯针砭指出技术官僚理性抹杀了历史深度与文化脉络，使比较研究退化为无[[Reflexivity|反思性]]的官僚测量工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
+> - **对比较教育人文科学属性的系统剥离** 卡扎米亚斯针砭指出技术官僚理性抹杀了历史深度与文化脉络，使比较研究退化为无[[Reflexivity|反思性]]的官僚测量工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
 > - **[[Epistemological Break|认识论断裂]]与逆向合法化工具** 忽视科研转化中的情境衰减，使技术理性退化为服务于既定政治议程的合理化外壳。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, p. 96)]]
 
 > [!warning] 适用局限

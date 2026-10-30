@@ -10,7 +10,7 @@ summary: "由布赖恩·霍姆斯开创的比较教育学假说-演绎方法论�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[National Character]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
   - "[[Refined Mastery]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-29
 
 ## 资料与分析
 
-问题法在资料处理上展现出显著的跨学科综合特征，拒绝将研究材料窄化为单一的量化统计指标，将规范文献与制度运行实态紧密融合：
+问题法在资料处理上展现出显著的跨学科综合特征，拒绝将研究材料窄化为单一的量化统计指标，将规范[[Document|文献]]与制度运行实态紧密融合：
 
 > [!method-panel] 资料来源与情境分析策略
 > | 资料与分析维度 | 来源与处理方式 |

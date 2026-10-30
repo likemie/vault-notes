@@ -5,7 +5,7 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 15
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,15 +18,18 @@ tags:
 related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Counterfactual]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Causality]]"
   - "[[Learning Gain]]"
+  - "[[School Finances]]"
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
   - "[[Longitudinal Study]]"
+  - "[[Experimental Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
@@ -39,7 +42,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 核心主张
@@ -79,7 +82,7 @@ updated: 2026-10-22
 > | 视角 | 学校的角色 | 核心代表 |
 > |------|----------|---------|
 > | 再生产理论（Reproduction） | 学校传递已有的不平等 | [[Pierre Bourdieu\|Bourdieu]] (1977); Bowles and Gintis (1976) |
-> | 加剧理论（Exacerbation） | 学校不仅再生产且放大不平等 | Kozol (1992); 教师质量差异文献 |
+> | 加剧理论（Exacerbation） | 学校不仅再生产且放大不平等 | Kozol (1992); 教师质量差异[[Document\|文献]] |
 > | Coleman 报告立场 | 学校对成就差距作用很小 | Coleman et al. (1966); Jencks (1972) |
 > | 折射框架（Refraction） | 学校沿不同维度以不同方式塑造不平等 | [[Argument_Downey_2016_SoE\|Downey and Condron (2016)]] |
 >
@@ -93,7 +96,7 @@ updated: 2026-10-22
 
 > [!info] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Postpositivism\|后实证主义]]——承认学校效应的[[Causality\|因果推断]]需要严格方法（[[Seasonal Comparison\|季节性比较]]作为自然实验），同时重视将学校效应置于更广泛的社会分层系统中进行情境化理解
-> - **核心方法论**[[Seasonal Comparison]] — 利用学年 vs 暑假的自然实验设计
+> - **核心方法论**[[Seasonal Comparison]] — 利用学年 vs 暑假的自然[[Experimental Research|实验设计]]
 > - **与传统方法的区别** 反对仅通过统计控制家庭背景或预测[[Learning Gain\|学习增值]]来分离学校效应——这些方法系统性高估学校效应，因为大多数影响儿童学习的非学校特征在大规模调查中无法测量([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.3]])
 
 > [!warning] 补偿性是否被夸大？
@@ -112,7 +115,7 @@ updated: 2026-10-22
 
 
 > [!warning] 政治含义的争议
-> 对学校补偿性的强调是否为保守派提供了缩减学校经费的借口？Downey & Condron 明确反对这种解读，但承认存在这种风险。Spring (2013) 的观点值得关注：学校改革"本质上保守，因为它避免了劳动与资本之间更核心的冲突"，学校政策为改革者的能量提供了"冷却"场所，几乎不可能动摇现有权力结构（cited in Downey & Condron, 2016, p.11）。
+> 对学校补偿性的强调是否为保守派提供了缩减[[School Finances|学校经费]]的借口？Downey & Condron 明确反对这种解读，但承认存在这种风险。Spring (2013) 的观点值得关注：学校改革"本质上保守，因为它避免了劳动与资本之间更核心的冲突"，学校政策为改革者的能量提供了"冷却"场所，几乎不可能动摇现有权力结构（cited in Downey & Condron, 2016, p.11）。
 
 > [!success] 应用领域
 > - [[Coleman Report 1966]] — 折射框架是在 Coleman Report 发布 50 年后对其核心问题的重新回答

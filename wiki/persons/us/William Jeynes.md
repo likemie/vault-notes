@@ -10,10 +10,10 @@ summary: "美国保守派教育学者、元分析专家与福音派传教士，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Socioeconomic Status]]"
+  - "[[Charter Schools]]"
+  - "[[Religious Schools]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -38,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -50,7 +52,7 @@ updated: 2026-10-22
 > - **阅读边界** 本页关注他在全语言评估中的方法论特征、数据争议、以及其学术研究背后的宗教与政治意识形态偏见。
 
 > [!citation-card] 人物定位的关键来源
-> “杰尼斯的出版物（其中八篇被用于《VL》）包括：‘公立学校、公立特许学校和私立宗教学校对学生成绩影响的元分析’……在接受杰尼斯对全语言的 -0.65 [[Effect Size\|效应量]]之前，哈蒂本应考虑作者的潜在偏见是否在研究的选择与解释中发挥了作用。” ([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.147]])
+> “杰尼斯的出版物（其中八篇被用于《VL》）包括：‘公立学校、公立[[Charter Schools|特许学校]]和私立[[Religious Schools|宗教学校]]对学生成绩影响的元分析’……在接受杰尼斯对全语言的 -0.65 [[Effect Size\|效应量]]之前，哈蒂本应考虑作者的潜在偏见是否在研究的选择与解释中发挥了作用。” ([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.147]])
 >
 > “Jeynes’s publications (eight of which are used in Visible Learning) include: ‘A Meta-Analysis on the Effects and Contributions of Public, Public Charter, and Religious Schools on Student Outcomes’... Before accepting Jeynes’s -0.65 effect size for whole language, Hattie ought to have considered the possibility of whether author bias could have played any role in the selection and interpretation of the research studies...”
 

@@ -9,7 +9,7 @@ summary: "收集多种量化数据来源或多种质性数据来源的研究方�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#fef3c7"
@@ -20,6 +20,7 @@ tags:
   - mixed-methods
 related_concepts:
   - "[[Integration in Mixed Methods]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -60,7 +61,7 @@ updated: 2026-10-29
 > - 一项研究同时使用问卷调查（量化）和深度访谈（质性），并在分析阶段将两组数据整合
 
 > [!warning] 术语混淆
-> 在混合方法研究发展的早期文献中，multimethod 和 mixed methods 曾被混用。Creswell (2022) 指出，虽然 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等术语都曾在文献中出现，但"mixed methods"一词已在领域内通过大量著作获得了最广泛的认可，而"multimethod"则被明确定义为不跨数据类型的研究。
+> 在混合方法研究发展的早期[[Document|文献]]中，multimethod 和 mixed methods 曾被混用。Creswell (2022) 指出，虽然 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等术语都曾在文献中出现，但"mixed methods"一词已在领域内通过大量著作获得了最广泛的认可，而"multimethod"则被明确定义为不跨数据类型的研究。
 
 ## 与混合方法的边界
 

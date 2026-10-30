@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Decentralization]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -124,6 +125,6 @@ updated: 2026-10-22
 > | [[Bill & Melinda Gates Foundation]] | 慈善基金 | 亨特研究所推进 CCSS 全国协调网络的核心战略资助方。 |
 > | [[American Federation of Teachers]] | 教师工会 | 参与亨特研究所每周策略协调会议并参与草案审读的工会伙伴。 |
 > | [[National Education Association]] | 教师工会 | 参与亨特研究所例行推进会议并就条文提出专业修改建议的工会实体。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录亨特研究所如何组织 [[National Research Council\|NRC]] 研讨会及 14 家机构每周协同的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录亨特研究所如何组织 [[National Research Council\|NRC]] 研讨会及 14 家机构每周协同的研究。 |
 
 ---

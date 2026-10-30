@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Transfer Science]]"
   - "[[Working Knowledge]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -161,6 +162,6 @@ updated: 2026-10-26
 > | [[Evidence-Based Education]] | Concept | 总体战略是德国教育体系贯彻循证教育政策的最高纲领。 |
 > | [[Topological Spatialisation]] | Concept | 总体战略依托跨尺度[[Data Infrastructure\|数据基础设施]]实现了教育政策空间的拓扑重组。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析总体战略下 IQB 作为[[Center of Calculation\|计算中心]]与跨尺度绩效[[Data Infrastructure\|数据基础设施]]的拓扑重组。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估总体战略在各州教育部日常落实机制中的代表性文献。 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估总体战略在各州教育部日常落实机制中的代表性[[Document\|文献]]。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析总体战略下新治理工具在单体学校的成效缺失，阐明 2015 年修订增设[[Knowledge Transfer\|知识转移]]专章的治理背景与中层研训机构的转化职能。 |
 

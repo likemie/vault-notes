@@ -9,7 +9,7 @@ summary: "美国政治学家，耶鲁大学政治学讲席教授，美国文理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,7 +41,6 @@ related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +74,7 @@ updated: 2026-10-22
 > - **2005** 在[[Wolfgang Streeck|施特雷克]]与希伦合编的《制度变迁的超越》中撰写核心章节《政策漂移：美国福利国家紧缩的隐秘政治》，提出“否决门槛 × 制度特征”双维变迁[[Analytic Framework|分析框架]]，被马奥尼与希伦（2009）直接吸收为理论原型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 40–82)]]
 > - **2006** 出版专著《大风险转移》（*The Great Risk Shift*，牛津大学出版社），深刻论证美国中产阶级经济不安全感的制度根源，引发全美政策界巨大共鸣。
 > - **2010** 与[[Paul Pierson|保罗·皮尔逊]]合著出版《赢家通吃的政治》（*Winner-Take-All Politics*，西蒙与舒斯特出版社），入选《纽约时报》畅销书。
-> - **2011–至今** 长期担任耶鲁大学政策与社会研究所（ISPS）所长，当选美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士。
+> - **2011–至今** 长期担任耶鲁大学政策与社会研究所（ISPS）所长，当选美国文理科学院（[[American Association for the Advancement of Science|AAAS]]）院士。
 
 ---
 

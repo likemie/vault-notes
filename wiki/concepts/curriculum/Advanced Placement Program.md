@@ -8,7 +8,7 @@ aliases:
 summary: "由美国大学理事会建立的高中大学水平单科课程与考试体系，以外部评价支持大学分班或学分，并构成国际文凭进入北美高中的重要制度先例与比较对象。"
 type: concept
 domain: "curriculum"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
+  - "[[Teacher Collaboration]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
@@ -31,7 +32,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-10-22
 > |---|---|---|
 > | **基本单位** | 单一高级学科 | 六学科与共同核心组成的完整文凭，也提供单科证书 |
 > | **跨学科要求** | 不要求各科组成共同方案 | 以[[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]和社会服务连接课程整体 |
-> | **学校准备** | 可局部加入既有课程 | 语言与数学准备常向低年级延伸，并要求较强教师协作 |
+> | **学校准备** | 可局部加入既有课程 | 语言与数学准备常向低年级延伸，并要求较强[[Teacher Collaboration\|教师协作]] |
 > | **资格功能** | 主要支持大学分班或学分 | 同时支持大学入学、分班与跨国资格承认 |
 >
 > AP 已证明地方高中可以采用外部高级课程与考试，为 IB 进入北美公立体系提供制度先例。IB 的完整性也带来更大的教师劳动、学校成本和学生课程约束。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 136, 139–140)]]

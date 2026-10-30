@@ -10,9 +10,9 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 27
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
 tags:
 - visible-learning
@@ -28,12 +28,14 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[School Effectiveness]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Champ]]"
   - "[[School Leadership]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
   - "[[Ecological Validity]]"
   - "[[Normal School]]"
+  - "[[Teacher Subject Matter Knowledge]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Theoretical Perspective]]"
 related_theories:
@@ -47,6 +49,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Scott Eacott]]"
 related_facts:
+  - "[[National Education]]"
   - "[[Bologna Process]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[CREATES Project]]"
@@ -56,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +69,7 @@ updated: 2026-10-22
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2017年出版，其思想争鸣与政策影响持续至2019年及以后；地理范围辐射全俄罗斯联邦及独联体俄语教育学术空间。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 232)]]
-> - **核心当事主体** 莫斯科“国民教育”（Natsional'noe obrazovanie）出版社（隶属启蒙教育集团 Prosveshchenie）、[[John Hattie|约翰·哈蒂]]（John Hattie）、俄罗斯高等经济大学（HSE）主办刊物《教育研究》（*Voprosy obrazovaniya*）、俄罗斯学者（N.A. Borisenko、I.V. Vachkov、E.A. Sokolova、M.A. Golovchin）及广大中小学教师。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
+> - **核心当事主体** 莫斯科“[[National Education|国民教育]]”（Natsional'noe obrazovanie）出版社（隶属启蒙教育集团 Prosveshchenie）、[[John Hattie|约翰·哈蒂]]（John Hattie）、俄罗斯高等经济大学（HSE）主办刊物《教育研究》（*Voprosy obrazovaniya*）、俄罗斯学者（N.A. Borisenko、I.V. Vachkov、E.A. Sokolova、M.A. Golovchin）及广大中小学教师。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
 > - **深层制度与社会背景** 俄罗斯国家项目“教育”（National Project "Education"）加速推进，力图构建现代数字与技术素养环境；但与此同时，盲目移植自西方的多项创新（如统一国家考试 USE、[[Bologna Process|博洛尼亚进程]]）在本土遭遇水土不服，USE 仅获三分之一教师认可，使教育改革深陷“制度陷阱”。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229–230)]]
 > - **直接导火索 / 触发事件** 俄罗斯联邦国家教育标准（Federal State Educational Standards, FSES）要求全面培养学生的[[Critical Thinking|批判性思维]]与自主能力，促使俄教育界急切寻找具有量化实证支撑的教学效能与质量监控模型。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
 
@@ -86,7 +89,7 @@ updated: 2026-10-22
 > *Hattie, J. (2017). Vidimoe obuchenie: sintez rezul'tatov bolee 800 meta-analizov v otnoshenii dostizhenii [Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement]. Moscow: Natsional'noe obrazovanie. 496 p.*
 
 > [!citation-card] Borisenko 权威正面书评
-> 《可见的学习》的出版是近年来翻译教育文献出版领域的主要事件之一。迄今为止，这是唯一一部对影响学童教育成就的最重要因素进行系统评估的科学著作。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237, citing Borisenko, 2018)]]
+> 《可见的学习》的出版是近年来翻译教育[[Document|文献]]出版领域的主要事件之一。迄今为止，这是唯一一部对影响学童教育成就的最重要因素进行系统评估的科学著作。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237, citing Borisenko, 2018)]]
 >
 > *"The publication of 'Visible Learning' is one of the main events in the [[Champ|field]] of publishing translated pedagogical literature in recent years. She notes that so far it is the only scientific work 'in which the most important factors affecting the educational achievements of schoolchildren are evaluated'."*
 
@@ -143,7 +146,7 @@ updated: 2026-10-22
 > > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** 该书忽视[[Ecological Validity|生态效度]]与因果机制，强行推行将引发[[Panopticism|全景敞视]]式行政监控，构成深重的制度陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 237–241)]]
 >
 > > [!axis] 教师角色认同之争（组织调节者 vs. 学科知识权威）
-> > [[John Hattie|哈蒂]]将教师学科知识（$d=0.09$）与学历（$d=0.11$）贬低为次要、主张教师转变为学习调节者的观点，与俄罗斯传统教学论体系发生剧烈碰撞。
+> > [[John Hattie|哈蒂]]将[[Teacher Subject Matter Knowledge|教师学科知识]]（$d=0.09$）与学历（$d=0.11$）贬低为次要、主张教师转变为学习调节者的观点，与俄罗斯传统教学论体系发生剧烈碰撞。
 > >
 > > - **亲西方新思潮视角** 契合以学生为中心的[[Inquiry-Based Learning|探究学习]]，瓦解传统教师专制，暗合 2016 年降低非师范门槛的开放政策。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]
 > > - **教学论传统坚守视角** 盲目否定专业学科素养与高校[[Normal School|师范教育]]，是对教师天职认同的致命打击，导致严重的去专业化。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]

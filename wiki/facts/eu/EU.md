@@ -12,9 +12,9 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 44
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
 org_type: supranational
 headquarters: "布鲁塞尔（比利时）"
@@ -36,15 +36,17 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Lifelong Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Performance Indicators]]"
   - "[[Academic Attrition]]"
   - "[[Peer Pressure]]"
   - "[[Policy Network]]"
   - "[[European Education Space]]"
   - "[[Governing by Numbers]]"
-  - "[[Performance Indicators]]"
   - "[[Champ]]"
+  - "[[Document]]"
   - "[[Knowledge Mediation]]"
 related_theories:
+  - "[[Panopticism]]"
   - "[[Pluri-Scalar Governance]]"
 related_methods: []
 related_persons:
@@ -57,25 +59,29 @@ related_facts:
   - "[[Erasmus Programme]]"
   - "[[Lisbon Strategy]]"
   - "[[OECD]]"
+  - "[[European Education Area]]"
+  - "[[EU Skills Agenda]]"
+  - "[[European Semester]]"
+  - "[[English Schools Foundation Hong Kong]]"
+  - "[[Coreper]]"
   - "[[European Qualifications Framework]]"
   - "[[European Standards and Guidelines]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Evidence Network]]"
   - "[[Horizon Europe]]"
   - "[[National Education]]"
-  - "[[EU Skills Agenda]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Rambla_2022_Springer]]"
-  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
-  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -84,7 +90,7 @@ updated: 2026-10-29
 > 欧洲联盟（European Union, EU，简称欧盟）是由 27 个欧洲国家组成的超国家政治与经济实体。在教育政策领域，受制于《马斯特里赫特条约》确立的“[[Subsidiarity Principle|辅助性原则]]”（Subsidiarity），欧盟无权制定具有硬性法律约束力的指令性大纲；但其依托“最佳实践”同伴交流、量化指标基准监控以及构建欧洲高等教育区的[[Bologna Process|博洛尼亚进程]]，形成了兼具隐蔽性与强穿透力的超国家软法治理体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 法律基石** 1993 年 11 月 1 日《马斯特里赫特条约》（Treaty on European Union）正式生效，标志着欧洲联盟在欧洲共同体（EC）基础上正式建立。
+> - **成立时间 / 法律基石** 1993 年 11 月 1 日《马斯特里赫特条约》（Treaty on European Union）正式生效，标志着欧洲联盟在欧洲共同体（[[European Commission|EC]]）基础上正式建立。
 > - **总部地点 / 机构设置** 总部设于比利时布鲁塞尔；核心决策机构包括欧洲理事会（European Council）、欧盟理事会（Council of the European Union）、欧洲议会（European Parliament）及执行机构[[European Commission|欧洲联盟委员会]]（European Commission，主管教育事务的为教育、青年、体育与文化总司 DG EAC 与 [[Eurydice]] 分析网络）。
 > - **教育赋权边界（辅助性原则）** 《马斯特里赫特条约》第 126 条（后重编为第 165 条）明确规定：共同体的行动旨在通过鼓励成员国之间的合作并支持其行动来促进优质教育的发展，同时充分尊重成员国对教学内容与教育体系组织的专属主权职责，排除任何法律法规的指令性协调。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
@@ -111,14 +117,14 @@ updated: 2026-10-29
 >   欧盟确立将欧洲建构为“全球最具[[Competitiveness|竞争力]][[Knowledge-Based Economy|知识经济]]体”的战略目标，全面推行开放协调法（Open Method of Coordination, OMC），将量化指标、基准线与同行评议引入各成员国基础与高等教育监测，并与[[OECD|经合组织]]建立跨机构共生同盟。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32–35)]]
 >
 >   - **2000** 发布《里斯本战略》，正式引入开放协调法（OMC）。
->   - **2002** 确立由“凝视技术”（常设指标工作组）、“绩效技术”（基准线比对与记分牌）与“治理技术”（同行评审与自评）构成的“欧洲教育全景敞视”网络，将国家改革全面纳入超国家量化监控体系。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 488–493)]]
+>   - **2002** 确立由“凝视技术”（常设指标工作组）、“绩效技术”（基准线比对与记分牌）与“治理技术”（同行评审与自评）构成的“欧洲教育[[Panopticism|全景敞视]]”网络，将国家改革全面纳入超国家量化监控体系。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 488–493)]]
 >   - **2006** 欧洲议会与理事会发布《[[Lifelong Learning|终身学习]][[21st Century Skills and Competencies Discourse|核心素养]]建议书》，确立八项跨国通用关键素养。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, p. 39)]]
 >
-> - **2010 年至今** **欧洲教育区（EEA）与双转型战略**
+> - **2010 年至今** **[[European Education Area|欧洲教育区]]（EEA）与双转型战略**
 >
->   出台《欧洲 2020 战略》与《欧洲技能议程》，将教育政策紧密捆绑绿色与数字化双转型，设立 2025 年建成欧洲教育区（European Education Area）的顶层目标。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 164–175)]]
+>   出台《欧洲 2020 战略》与《[[EU Skills Agenda|欧洲技能议程]]》，将教育政策紧密捆绑绿色与数字化双转型，设立 2025 年建成欧洲教育区（European Education Area）的顶层目标。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 164–175)]]
 >
->   - **2021** 欧盟理事会通过《欧洲教育区 2030 战略框架决议》（2021/C 66/01），重申条约第 165 条的辅助性原则与成员国对教育体系的完全专属权；各成员国行使共识否决权，排除了设立超国家集中管理委员会的提议，并将教育指标挂钩欧洲学期国别建议与欧洲社会基金（ESF+）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 860–862)]]
+>   - **2021** 欧盟理事会通过《欧洲教育区 2030 战略框架决议》（2021/C 66/01），重申条约第 165 条的辅助性原则与成员国对教育体系的完全专属权；各成员国行使共识否决权，排除了设立超国家集中管理委员会的提议，并将[[Performance Indicators|教育指标]]挂钩[[European Semester|欧洲学期]]国别建议与欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]+）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 860–862)]]
 
 ---
 
@@ -179,7 +185,7 @@ updated: 2026-10-29
 > | [[António Nóvoa]] | 人物 | 葡萄牙比较教育学者，深入解构欧盟最佳实践修辞、指标基准与教育空间建构的权威学者。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，在五位置[[Champ\|场域]]模型中将欧盟指认为深刻重构跨国教育空间的超国家行动者。 |
 > | [[OECD]] | 事实 | 跨机构共生同盟，欧盟深度资助并采信经合组织测评数据推进软性治理。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证文献。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证[[Document\|文献]]。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 剖析欧盟如何在[[Subsidiarity Principle\|辅助性原则]]约束下通过三重机制渗透国家教育政策的核心论证文献。 |
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 论证 | 剖析[[EU Skills Agenda\|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。 |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation\|知识中介]]网络与 Eurydice 推动证据知情教育政策。 |

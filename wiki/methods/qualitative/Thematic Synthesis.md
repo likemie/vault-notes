@@ -9,7 +9,7 @@ summary: "一种专门用于系统综述中整合质性与混合方法研究证�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - methodology
   - evidence-based-education
 related_concepts:
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Unit of Analysis]]"
   - "[[Creativity]]"
@@ -67,13 +68,13 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Thematic Synthesis
-> 主题综合法（Thematic Synthesis）是由 James Thomas 与 Angela Harden 于 2008 年提出的一种专门用于[[Systematic Review\|系统综述]]中的质性证据整合方法。该方法结合了传统[[Qualitative Research\|质性研究]]中的主题分析（Thematic Analysis）与元[[Ethnography\|民族志]]的综合逻辑，通过对初级研究的结果（Findings）进行“逐行自由编码（Line-by-Line Coding）”、“归纳描述性主题（Descriptive Themes）”以及“生成超越原文献的分析性主题（Analytical Themes）”三个阶段，将来自多元定性、定量描述与[[Mixed Methods Research\|混合方法研究]]的分散发现转化为具有理论解释力的新见解（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 4–5]]）。
+> 主题综合法（Thematic Synthesis）是由 James Thomas 与 Angela Harden 于 2008 年提出的一种专门用于[[Systematic Review\|系统综述]]中的质性证据整合方法。该方法结合了传统[[Qualitative Research\|质性研究]]中的主题分析（Thematic Analysis）与元[[Ethnography\|民族志]]的综合逻辑，通过对初级研究的结果（Findings）进行“逐行自由编码（Line-by-Line Coding）”、“归纳描述性主题（Descriptive Themes）”以及“生成超越原[[Document|文献]]的分析性主题（Analytical Themes）”三个阶段，将来自多元定性、定量描述与[[Mixed Methods Research\|混合方法研究]]的分散发现转化为具有理论解释力的新见解（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 4–5]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 纳入系统综述的初级实证文献中的质性文本、访谈引语、观察记录、自陈调查描述性结果与作者的讨论发现。

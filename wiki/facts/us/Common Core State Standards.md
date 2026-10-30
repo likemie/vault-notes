@@ -12,9 +12,9 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[National Governors Association]] & [[Council of Chief State School Officers]]"
 tags:
@@ -30,9 +30,9 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Discourse]]"
-  - "[[Evidence-Based Policy-Making]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Professional Judgment]]"
   - "[[Problem Finding]]"
   - "[[Test-Based Accountability]]"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons:
+  - "[[Stanley Milgram]]"
   - "[[William H. Schmidt]]"
 related_facts:
   - "[[National Governors Association]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-24
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-10-27
 > > [!axis] 学术严苛度与学科知识取舍争议
 > > 争论焦点在于通用标准的学术门槛是否达到了全美最先进州的既有水准，以及是否有确凿证据表明其能支撑大学理工科学习。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
 > >
-> > - **R. 詹姆斯·米尔格拉姆（R. James Milgram，2010）** 认为新标准在高年级未包含微积分预备内容，数学严谨度低于加利福尼亚州原有标准，因而拒绝在最终报告上签字。
+> > - **R. 詹姆斯·[[Stanley Milgram|米尔格拉姆]]（R. James Milgram，2010）** 认为新标准在高年级未包含微积分预备内容，数学严谨度低于加利福尼亚州原有标准，因而拒绝在最终报告上签字。
 > > - **桑德拉·斯托茨基（Sandra Stotsky，2010）** 批评语文标准大幅削减经典文学名著比例、过多增加非虚构实用文本，学术水准不及马萨诸塞州原有标准，同样拒绝签署背书。
 >
 > > [!axis] 早期儿童身心发育的发展适宜性争议

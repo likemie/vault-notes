@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -167,7 +167,7 @@ updated: 2026-10-29
 
 ---
 
-> [!concept-proposition] 命题一｜悬置要求中止对外部实在的自然态度以回到事物本身的纯粹意识显现
+> [!concept-proposition] 命题一｜[[Epoché|悬置]]要求中止对外部实在的自然态度以回到事物本身的纯粹意识显现
 > **探讨维度　[[Epistemology|认识论]]奠基维度** 本命题确立[[Epoché|悬置]]作为破除[[Positivism|实证主义]]自然主义教条的首要哲学动作，论证知识的基础始于意识对现象的直接领悟。
 
 > [!claim] Husserl, E.

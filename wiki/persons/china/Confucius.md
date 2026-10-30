@@ -8,10 +8,10 @@ summary: "中国春秋时期思想家、教育家，儒学创始人，以修身�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 42
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "551 BCE"
 died: "479 BCE"
 lifespan: "551 BCE – 479 BCE"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Action Better Than Words]]"
   - "[[Paradigm]]"
+  - "[[Sage]]"
   - "[[Ritual Propriety]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Benevolence]]"
@@ -38,12 +39,13 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Selective Affinity]]"
   - "[[Learner-Centred Education]]"
+  - "[[Public Diplomacy]]"
+  - "[[Discourse]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Recontextualization]]"
-  - "[[Discourse]]"
-  - "[[Sage]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Hierarchy]]"
+  - "[[Educational Diplomacy]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
@@ -51,12 +53,13 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lev Vygotsky]]"
+  - "[[John Dewey]]"
   - "[[Mencius]]"
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
-  - "[[John Dewey]]"
   - "[[Jin Li]]"
 related_facts:
+  - "[[Confucian Revival in China]]"
   - "[[Confucius Institute]]"
   - "[[Civil Service Examination]]"
   - "[[Gaokao]]"
@@ -70,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -92,13 +95,13 @@ updated: 2026-10-22
 > - **前 6 世纪中后期** 编订六经（诗、书、礼、乐、易、春秋），整理前代哲学、政府、人伦、道德、历史与诗乐文本。
 > - **前 6 世纪末** 打破贵族官学垄断，创办私学，招收弟子约 3,000 人（贤人七十二），宣告“有教无类”——无论社会背景与经济阶层，人人享有受教育的权利。
 > - **479 BCE** 逝世，享年 72 岁。后世被历代帝王与学者尊称为“万世师表”[[Argument_Li_2012_Cambridge|(Li, 2012, p. 9)]]。
-> - **当代（1980s至今）** 随着儒家文化复兴，孔子形象被当代官方确立为中华优秀传统文化的核心符号，在全球通过[[Confucius Institute|孔子学院]]推广为国家[[Soft Power|软实力]]，并在学校课程中被打造为国家认同的正统基石[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]；但在具有特殊宗教传统的海外国家（如马尔代夫），其世俗圣贤名称因宗教敏感性促使对外机构采取去符号化的变通命名[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 32 注40)]]。
+> - **当代（1980s至今）** 随着[[Confucian Revival in China|儒家文化复兴]]，孔子形象被当代官方确立为中华优秀传统文化的核心符号，在全球通过[[Confucius Institute|孔子学院]]推广为国家[[Soft Power|软实力]]，并在学校课程中被打造为国家认同的正统基石[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]；但在具有特殊宗教传统的海外国家（如马尔代夫），其世俗[[Sage|圣贤]]名称因宗教敏感性促使对外机构采取去符号化的变通命名[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 32 注40)]]。
 
 ---
 
 > [!thought-timeline] 思想发展
 > - **十五志学至三十而立 — 确立修身志向** 学习古礼与乐舞，由外部社会规范内化为立身之本。
->   - **代表著作** 编订《六经》（诗、书、[[Ritual Propriety|礼]]、乐、易、春秋），整理华夏古典人伦与制度文本。
+>   - **代表著作** 编订《六经》（诗、书、礼、乐、易、春秋），整理华夏古典人伦与制度文本。
 >   - **关键概念／方法** [[Self-Cultivation]]、[[Ritual Propriety]]。
 >   - **阶段转向** 由承袭古代既定宗法礼乐，转向探索礼乐背后的道德主体性基础。
 > - **四十不惑至五十知天命 — 创办私学与仁的体系化** 打破贵族官学垄断，提出仁与[[Junzi|君子]]理想，建立包含孝敬、[[Five Cardinal Relationships|五伦]]与讷言敏行的伦理体系。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 37–41)]]
@@ -127,12 +130,12 @@ updated: 2026-10-22
 > - **理论路径** 奠定[[Confucian Learning Tradition|儒家学习传统]]与东亚学习模型，塑造了集“[[Self-Cultivation|修身]]-好学-好德”于一体的人性论与学习哲学。[[Argument_Li_2012_Cambridge|(Li, 2012)]]
 > - **方法路径** 倡导“不愤不启，不悱不发”的启发式[[Dialogue in Education|对话教学]]（dialogic teaching），强调高阶思考与社会互动的契合。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]
 > - **政策与课程路径** [[Civil Service Examination|科举]]制与现代[[Gaokao|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu|中华民族]]传统文化”的代表，选入英语教材“英雄画廊”，并将《论语》塑造为正统[[Official Knowledge|官方知识]]与对外[[Soft Power|软实力]]符号。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]
-> - **跨国／跨领域传播** 在跨国[[Policy Borrowing|政策借用]]中与西方心理学产生[[Selective Affinity|选择性亲和]]（如与[[Lev Vygotsky|维果茨基]]社会文化理论在 [[Learner-Centred Education|LCE]] 改革中的互惠共振）[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 596, 602)]]；在公共外交中作为全球孔子学院与中小学孔子课堂的文化旗舰品牌，但在特定伊斯兰文化背景（如马尔代夫）中因古代圣贤命名的宗教敏感性而促使官方采取设立“普通话语言学习中心”等去符号化变通策略。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 32 注40)]]
+> - **跨国／跨领域传播** 在跨国[[Policy Borrowing|政策借用]]中与西方心理学产生[[Selective Affinity|选择性亲和]]（如与[[Lev Vygotsky|维果茨基]]社会文化理论在 [[Learner-Centred Education|LCE]] 改革中的互惠共振）[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 596, 602)]]；在[[Public Diplomacy|公共外交]]中作为全球孔子学院与中小学孔子课堂的文化旗舰品牌，但在特定伊斯兰文化背景（如马尔代夫）中因古代圣贤命名的宗教敏感性而促使官方采取设立“普通[[Discourse|话语]]言学习中心”等去符号化变通策略。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 32 注40)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统追踪孔子的[[Primary and Secondary Documents|原始文献]]，建构东亚与西方文化学习模型的对比框架。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的本土化赋能。
-> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization|再脉络化]]与反转调用。
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录蔡元培等学者在[[John Dewey|杜威]]访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization|再脉络化]]与反转调用。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 实证揭示当代 217 册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 剖析政治[[Discourse|话语]]（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 统计孔子学院与中小学孔子课堂在南亚与中亚的网点竞逐（65 所），揭示以“孔子”命名的文化机构在伊斯兰传统国家（马尔代夫）引发的宗教敏感性与去符号化变通策略（pp. 30–32）。
@@ -187,4 +190,4 @@ updated: 2026-10-22
 > | [[Confucian Learning Tradition]] | 理论 | 奠定东亚 2,500 年学习传统与社会伦理。 |
 > | [[Official Knowledge]] | 概念 | 在当代教科书中被塑造成国家认同的正统基石。 |
 > | [[Recontextualization]] | 概念 | 充当跨文化[[Policy Borrowing]]中[[Selective Affinity]]的思想资源。 |
-> | [[Confucius Institute]] | 机构 | 以后世孔子之名建立的跨国语言文化与教育外交旗舰载体。 |
+> | [[Confucius Institute]] | 机构 | 以后世孔子之名建立的跨国语言文化与[[Educational Diplomacy\|教育外交]]旗舰载体。 |

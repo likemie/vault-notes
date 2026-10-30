@@ -17,6 +17,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Translational Research]]"
   - "[[Academic Freedom]]"
+  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Data Infrastructure]]"
   - "[[Grandes Ecoles]]"
@@ -40,6 +41,7 @@ related_theories:
 related_methods:
   - "[[Cohort Study]]"
   - "[[Effect Size]]"
+  - "[[Experimental Research]]"
 related_persons:
   - "[[Jim Spohrer]]"
 related_facts:
@@ -54,14 +56,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, incentives, rewards, and culture for impact"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -143,7 +145,7 @@ citation_aliases:
 
 > 想一想教育局评估与大学合作项目的效果。局长关心的是"这个项目有没有帮我们在市里拿奖"，这是短期的、有形的、政治性的预期。校长关心的是"教师培训后课堂有没有变化"，这是中期的、行为的、专业性的预期。教师关心的是"培训有没有占用我太多周末时间"，这是个人的、即时的、负面的感知。同一个合作项目，在不同利益相关者眼中是完全不同的事情。如果度量只捕捉了其中一个视角，比如只看获奖数量，另外两个维度的信息就完全丢失了。
 
-6. 激励在组织和个人两个层面同时起作用，这也是文献反复确认的一点。学术人员参与产学合作的动机往往偏向研究拓展而非商业化(D'este & Perkmann, 2011, 转引自 p.87)，这意味着企业光给钱不足以激励教师深度投入，教师需要的是研究上的协同和学术上的收获。但组织层面的激励同样不可忽视(Link & Siegel, 2005, 转引自 p.87)，大学需要制度性地认可产学合作对教师职业发展的价值，比如将产学合作成果纳入职称评审的考量范围，而不只是附属的"社会服务"。如果只有组织层面的激励（如校方签了合作协议）而教师个人缺乏动机，比如合作内容与他的研究方向关联不大、或者合作挤占了他写论文的时间，组织层面看似"建立了合作"，个人层面实际是"零执行"(Rajalo & Vadi, 2017, 转引自 p.87)。
+6. 激励在组织和个人两个层面同时起作用，这也是[[Document|文献]]反复确认的一点。学术人员参与产学合作的动机往往偏向研究拓展而非商业化(D'este & Perkmann, 2011, 转引自 p.87)，这意味着企业光给钱不足以激励教师深度投入，教师需要的是研究上的协同和学术上的收获。但组织层面的激励同样不可忽视(Link & Siegel, 2005, 转引自 p.87)，大学需要制度性地认可产学合作对教师职业发展的价值，比如将产学合作成果纳入职称评审的考量范围，而不只是附属的"社会服务"。如果只有组织层面的激励（如校方签了合作协议）而教师个人缺乏动机，比如合作内容与他的研究方向关联不大、或者合作挤占了他写论文的时间，组织层面看似"建立了合作"，个人层面实际是"零执行"(Rajalo & Vadi, 2017, 转引自 p.87)。
 
 7. 信任与互敬是成功的基础，合同保障是必要的补充(Hemmert et al., 2014, 转引自 pp.87–88)。信任本身也在演化。当一些企业的市场力量堪比国家时，"感知到的公平性"（perceived fairness）成为信任建设中日益重要的因素(Clauss et al., 2024, 转引自 p.88)。当合作一方明显比另一方强大得多，弱势方会格外关注收益分配是否公平，而不只是收益的绝对大小。
 
@@ -232,7 +234,7 @@ citation_aliases:
 
 22. 这引出了 T 型技能（[[T-Shaped Skills]]）的需求：纵向的"|"代表在某一学科领域内的深度[[Problem Solving|问题解决能力]]；横向的"—"代表跨学科的广泛沟通能力(Donofrio & DeMarco, 2022, 转引自 p.96)。传统的大学学位项目擅长培养 I 型人才（只有深度），[[General Education|通识教育]]课程试图提供广度但往往流于浅尝辄止，产学合作需要的人才恰恰是同时具备两者的 T 型人才。
 
-> 一个有 T 型技能的教育研究者，不仅懂得教育实验设计和统计分析（深度），还能理解 AI 工程师在开发自适应学习系统时的技术约束和思维方式（广度）。这样才能在"AI+教育"的[[Comparative Education as a Cross-Sectional Area|交叉领域]]中有效地充当桥梁角色，既不被工程师视为不懂技术的外行，又不被教育实践者视为只懂算法的技术控。
+> 一个有 T 型技能的教育研究者，不仅懂得教育[[Experimental Research|实验设计]]和统计分析（深度），还能理解 AI 工程师在开发自适应学习系统时的技术约束和思维方式（广度）。这样才能在"AI+教育"的[[Comparative Education as a Cross-Sectional Area|交叉领域]]中有效地充当桥梁角色，既不被工程师视为不懂技术的外行，又不被教育实践者视为只懂算法的技术控。
 
 23. 作者指出，弥合这两个挑战不仅需要大学和企业的努力，也需要政府资助机构的支持。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）的技术、创新与伙伴关系部门（Technology, Innovation and Partnerships, [[Directorate for Technology, Innovation and Partnerships|TIP]]）首次允许企业作为 NSF 提案的主要受资助方，而不只能作为大学的合作方(p.96)。NSF 的融合加速器项目（Convergence Accelerator）和工程研究愿景联盟（Engineering Research Visioning Alliance, ERVA）也在推动跨学科研究和[[Engineering Education|工程教育]]方向的重构(pp.96–97)。这些制度安排的意义在于，它们承认了传统"大学做研究→企业做产品"线性分工的失效，转而支持从研究到产品整个链条中的多方协作。
 

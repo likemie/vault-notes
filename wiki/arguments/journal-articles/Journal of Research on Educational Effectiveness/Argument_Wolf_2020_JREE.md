@@ -13,9 +13,9 @@ title: "Argument_Wolf_2020_JREE"
 argument_key: "Argument_Wolf_2020_JREE"
 argument_display_title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 21
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Research on Educational Effectiveness
 citation: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447."
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
+  - "[[Document]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -47,6 +48,7 @@ related_methods:
   - "[[Fixed-Effect Model]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[Every Student Succeeds Act]]"
@@ -57,7 +59,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2020
 doi: ""
 citation_aliases:
@@ -68,7 +70,7 @@ citation_aliases:
 > 开发者委托或实施的教育项目评估是否比独立第三方评估产生系统性更大的[[Effect Size\|效应量]]？如果存在差异，这些差异可否由可观测的研究设计特征（研究设计、测量类型、[[Sample Size Determination\|样本量]]、年级段、项目类型等）解释——还是开发者的干预本身更有效？
 
 > [!abstract] 理论框架
-> 研究以 [[Every Student Succeeds Act\|ESSA]] 2015 通过后开发者经济激励增强为背景，将 Simmons et al. (2011) 的"[[Researcher Degrees of Freedom\|研究者自由度]]"和[[Publication Bias\|发表偏倚]](Polanin et al., 2016)作为解释[[Developer Effect\|开发者效应]]的理论机制，并参考医学领域关于药企资助偏倚(Lundh et al., 2017; Lexchin, 2012)的文献作为类比框架。
+> 研究以 [[Every Student Succeeds Act\|ESSA]] 2015 通过后开发者经济激励增强为背景，将 Simmons et al. (2011) 的"[[Researcher Degrees of Freedom\|研究者自由度]]"和[[Publication Bias\|发表偏倚]](Polanin et al., 2016)作为解释[[Developer Effect\|开发者效应]]的理论机制，并参考医学领域关于药企资助偏倚(Lundh et al., 2017; Lexchin, 2012)的[[Document|文献]]作为类比框架。
 
 > [!info] 研究方法
 > - **方法**[[Meta-analysis]]（多元[[Meta-regression\|元回归]]，multivariate meta-regression），使用 [[Robust Variance Estimation]] (RVE) 处理[[Effect Size\|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
@@ -90,7 +92,7 @@ citation_aliases:
 > - **[[Effect Size\|效应量]]分布[[Heterogeneity\|异质性]]** 独立研究 95% [[Prediction Interval\|预测区间]] (−0.452, +0.788)；开发者研究 (−0.311, +0.929)
 > - **[[Publication Bias\|发表偏倚]]** Vevea-Hedges 校正后开发者-独立研究差异从 0.115 降至 0.076，约 66% 的差异可归因于发表偏倚
 > - **描述性差异** 开发者研究更倾向[[Quasi-Experimental Designs\|准实验设计]]（51% vs. 15%）、自编测量（29% vs. 8%）、更小[[Sample Size Determination\|样本量]]（均值 392 vs. 659），控制后效应仍在
-> - **敏感性分析** 移除研究生研究、仅实验设计、仅准实验设计——[[Developer Effect\|开发者效应]]均持续存在且大小相似
+> - **敏感性分析** 移除研究生研究、仅[[Experimental Research|实验设计]]、仅准实验设计——[[Developer Effect\|开发者效应]]均持续存在且大小相似
 
 > [!quote] 关键引用
 > > “我们发现了‘开发商效应’的证据，即由开发商执行或委托的项目评估所产生的平均[[Effect Size\|效应量]]，显著大于由独立第三方进行的评估。”

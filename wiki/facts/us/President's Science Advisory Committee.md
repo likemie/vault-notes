@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Cognitive Authority]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Document]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_facts:
@@ -60,7 +61,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -160,7 +161,7 @@ updated: 2026-10-26
 
 > [!evidence-grid-a] 相关研究
 >
-> | 研究文献 | 核心发现与论述 | 对应页码 |
+> | 研究[[Document\|文献]] | 核心发现与论述 | 对应页码 |
 > |:---|:---|:---|
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 从[[Social Contract of Science\|科学社会契约]]演化视角，论证 1957 年艾森豪威尔组建 PSAC 如何标志着学术精英作为“国家理性”[[Avatar\|化身]]进入白宫决策中枢，开创“高自治—高嵌入”科技治理结构巅峰；并系统提炼维系该黄金时期的五大制度支柱。 | pp. 1058–1059, 1062–1063 |
 > | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] | 详尽梳理二战后至 1970 年代白宫总统科学顾问制度的兴衰历程，分析 PSAC 的创设、黄金期运转机制以及因反战政治对立导致尼克松下令解散的制度教训。 | pp. 38–39 |

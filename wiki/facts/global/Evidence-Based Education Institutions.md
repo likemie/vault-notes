@@ -8,7 +8,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
@@ -68,7 +69,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -179,4 +180,4 @@ updated: 2026-10-26
 > | [[Educational Evidence Clearinghouses]] | 证据清算中心的概念化讨论 |
 > | [[Systematic Review]] | 各类机构共同依赖的核心方法论 |
 > | [[Meta-analysis]] | [[Research Synthesis\|研究综合]]的核心统计方法 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]] | 首次系统列举循证教育制度基础设施的文献 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]] | 首次系统列举循证教育制度基础设施的[[Document\|文献]] |

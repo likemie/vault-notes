@@ -11,9 +11,9 @@ summary: "由 Alexander M. Petersen et al. (2014) 提出的文献计量微观动
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -35,6 +35,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Alexander M. Petersen]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[National Academy of Sciences]]"
 related_arguments:
@@ -77,7 +79,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2014 — 模型首创提出** 彼得森团队在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）发表长周期追踪成果，基于物理学高被引学者与青年学者数据确立分段方程与 $c_x$ 阈值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
-> - **2021 — 科学学理论体系整合** 王大顺与巴拉巴西在教材中将该模型作为解决学术引文冷启动机制与声望边界的标准分析工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
+> - **2021 — 科学学理论体系整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在教材中将该模型作为解决学术引文冷启动机制与声望边界的标准分析工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
 
 ---
 

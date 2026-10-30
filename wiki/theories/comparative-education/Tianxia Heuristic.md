@@ -11,7 +11,7 @@ aliases:
 summary: "源自中国古典天下观并由马金森、杨锐等学者转译至比较与高等教育领域的理论启发式框架，构想无边界、关系性互联的全球知识空间，旨在容纳和而不同以及等级与平等的辩证共生，为超越西方民族国家中心主义二元对立提供非西方认识论与空间治理本体论。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Zhao Tingyang]]"
+  - "[[Rui Yang]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[University Alliance of the Silk Road]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-22
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 思想源头来自中国古典先秦天下秩序观；哲学家[[Zhao Tingyang|赵汀阳]]（Zhao Tingyang, 2006, 2016）在《天下体系：世界制度哲学导论》中将其重构为超越西方威斯特伐利亚民族国家主权体系的世界制度哲学；西蒙·马金森（Simon Marginson, 2022）与杨锐（Rui Yang）等学者（Yang et al., 2022）进而将其转译为高等教育学界的天下启发式[[Analytic Framework|分析框架]]（Tianxia Heuristic）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
+> - **提出者与原始文本** 思想源头来自中国古典先秦天下秩序观；哲学家[[Zhao Tingyang|赵汀阳]]（Zhao Tingyang, 2006, 2016）在《天下体系：世界制度哲学导论》中将其重构为超越西方威斯特伐利亚民族国家主权体系的世界制度哲学；西蒙·马金森（Simon Marginson, 2022）与[[Rui Yang|杨锐]]（Rui Yang）等学者（Yang et al., 2022）进而将其转译为高等教育学界的天下启发式[[Analytic Framework|分析框架]]（Tianxia Heuristic）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 > - **原初问题** 既有国际关系[[Geopolitics|地缘政治视角]]习惯将跨国高教倡议判定为谋求霸权的[[Knowledge Power|知识权力]]工具，而[[Developmentalism|发展主义叙事]]则将其简化为利他援助的[[Knowledge Diplomacy|知识外交]]平台，导致分析工具陷入非此即彼的二元僵局。
 > - **理论资源与材料** 汲取先秦儒家天下一家与和而不同的哲学命题，对话当代全球知识网络拓扑结构与中国高校牵头组建[[Belt and Road Initiative|一带一路]]多边大学联盟的实证案例。
 > - **形成路径** 从哲学[[Ontology|本体论]]层面的以世界为尺度构想，下沉至高等教育空间治理的[[Operationalization|操作化]]启发框架，提炼网络关系、层级平衡与自愿认同等分析维度。

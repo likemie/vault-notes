@@ -9,9 +9,9 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 69
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 71
+method_related_level: 7
+method_related_stars: "💎💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -39,12 +39,14 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Active Learning]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Prior Achievement]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence Standards]]"
   - "[[Evidence Era]]"
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
+  - "[[Self-reported Grades]]"
   - "[[Recommendations for Practice]]"
   - "[[Champ]]"
   - "[[Self-Regulated Learning]]"
@@ -63,6 +65,7 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Propensity Score Matching]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
   - "[[Ordinary Least Squares]]"
   - "[[Qualitative Observation]]"
   - "[[Questionnaire]]"
@@ -75,7 +78,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Meta-regression]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
@@ -99,7 +101,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -121,7 +123,7 @@ updated: 2026-10-29
 > [!concept-lens] 概念辨析：观察性研究（Observational Study）与相关性研究（Correlational Research）的范畴区隔
 > - **[[Causality\|因果推断]]维度的上位与下位关系**
 >   - 在现代因果推断框架（如鲁宾因果模型）与计量经济学中，**观察性研究（Observational Study）** 是一个**上位总称（Umbrella Term）**，指代处理[[Variable\|变量]]源于受试对象自主选择或自然暴露、缺乏研究者随机指派的经验研究。在此视角下，严格控制选择偏误的高级设计（如[[Difference-in-Differences\|双重差分法]]、[[Regression Discontinuity Design\|断点回归]]、[[Propensity Score Matching\|倾向得分匹配]]等[[Quasi-Experimental Designs\|准实验设计]]）在广义上皆属于观察性研究的前沿分支。
->   - 相比之下，**相关性研究（Correlational Research）** 是量化非实验设计中的一个**具体类型（Specific Design）**，侧重于直接测量变量间的共变关系（Covariation）与统计关联，通常采用[[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS）[[Multiple Regression\|多元回归]]或[[Causal Modeling\|结构方程建模]]，并不依赖准实验的外生断点或政策冲击。
+>   - 相比之下，**相关性研究（Correlational Research）** 是量化非[[Experimental Research|实验设计]]中的一个**具体类型（Specific Design）**，侧重于直接测量变量间的共变关系（Covariation）与统计关联，通常采用[[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS）[[Multiple Regression\|多元回归]]或[[Causal Modeling\|结构方程建模]]，并不依赖准实验的外生断点或政策冲击。
 > - **教育研究实践中的双重语境**
 >   - 在微观课堂教学研究中，“观察”（Observation）常被用作资料收集技术的代称（如课堂编码规程、[[Qualitative Observation\|质性观察]]法、结构化行为观察）。
 >   - 在宏观政策证据学与期刊编码中（如 [[Argument_Brady_2023_EPR\|Brady et al., 2023]]），“观察/相关研究”常被并列作为非实验[[Quantitative Research\|量化研究]]的统称，用以对应无需操纵[[Independent Variable\|自变量]]的经验常态数据。而在 [[Every Student Succeeds Act\|ESSA]] 法定分级中，政策条文明确将 Tier III 锁定为“具备选择偏误统计控制的相关性研究”，确立了其规范的定量方法学界标。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
@@ -207,7 +209,7 @@ updated: 2026-10-29
 > [!eval-framework] 法定分级与审评准则对比
 > - **[[Every Student Succeeds Act\|ESSA]] Tier III（Promising Evidence，有希望证据）法定准则**
 >   - 根据 ESSA 联邦法案规定，合规的 Tier III 相关性研究必须是 **“设计良好且实施良好、具备统计控制选择偏误的相关研究（Well-designed and well-implemented correlational study with statistical controls for selection bias）”**。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 162)]]
->   - **底线控制要求** 必须在统计模型中强制控制学习者的**基线先前[[Academic Achievement\|学业成绩]]（Prior Achievement/Pre-test）** 以及核心人口统计学[[Variable\|变量]]（如贫困状态、特殊教育资格等），未作基线控制的粗糙横截面相关研究不符合 Tier III 资质。
+>   - **底线控制要求** 必须在统计模型中强制控制学习者的**基线先前[[Academic Achievement\|学业成绩]]（[[Prior Achievement]]/Pre-test）** 以及核心人口统计学[[Variable\|变量]]（如贫困状态、特殊教育资格等），未作基线控制的粗糙横截面相关研究不符合 Tier III 资质。
 >   - **样本要求** 需具备大样本或多地点分布，以保证足够的统计检出力与生态代表性。
 > - **[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）审评边界**
 >   - WWC 证据审查规范主要聚焦于具有因果对照组的研究（[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT） 与 [[Quasi-Experimental Designs\|准实验设计]]（Quasi-[[Experimental Research\|experimental design]], QED））；单纯的相关性研究在 WWC 体系中通常被评定为“未达到 WWC [[Evidence Standards\|证据标准]]（Does Not Meet WWC Standards）”，无法获取 WWC 最高等级评级。
@@ -236,7 +238,7 @@ updated: 2026-10-29
 > - **换算公式的发散爆炸与弱相关虚增** 借助公式 $d = \frac{2r}{\sqrt{1-r^2}}$ 将双变量相关系数 $r$ 换算为 Cohen's $d$，在数学上存在极端敏感的非线性缺陷。当相关系数接近 1 时，分母收敛于 0 导致 $d$ 值发散至无穷大；更为严重的是，该公式对弱相关赋予了极高的[[Effect Size|效应量]]假象：仅需 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$（被[[John Hattie|哈蒂]]奉为代表一年教学进展的[[Zone of Desired Effects|期望效应区分水岭]]）。然而在一[[Meta-regression|元回归]]模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 3.85\%$，剩余 $96.15\%$ 全属未解释的随机噪声。
 > - **横截面相关与预测自相关伪装为干预因果** 伯杰龙与里瓦尔审计指出，将相关性研究作为因果干预进行二阶综合，构成了混淆相关与因果的典型案例：
 >   1. **智商与[[Creativity|创造力]]的横向相关** 金（Kim, 2005）的[[Meta-analysis|元分析]]被包装为创造力对学业成就的强大干预效应，实质上仅度量了智商测验与创造力测验之间的横截面相关，完全缺乏任何干预教学或前[[Pre-test and Post-test|后测]]净增益。
->   2. **自我报告成绩的预测自相关** 全书排名第一的“学生自我报告成绩”（$d = 1.44$），实质上仅是学生对自身分数的预估与期末真实成绩之间的预测自相关，从未设计对照组或进行干预操纵。
+>   2. **[[Self-reported Grades|自我报告成绩]]的预测自相关** 全书排名第一的“学生自我报告成绩”（$d = 1.44$），实质上仅是学生对自身分数的预估与期末真实成绩之间的预测自相关，从未设计对照组或进行干预操纵。
 >   将此类相关性研究硬性换算并与实验干预混同排榜，是用真实数据搭建的因果伪科学纸牌屋。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 242, 245)]]
 
 > [!critique] 统计修辞挤压与[[Recommendations for Practice\|实践建议]]膨胀（基于 Brady et al., 2023）

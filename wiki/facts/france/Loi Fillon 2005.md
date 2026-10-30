@@ -12,7 +12,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -38,7 +38,6 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[PISA Response in France]]"
   - "[[National Education]]"
   - "[[OECD]]"
   - "[[PISA]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -58,7 +57,7 @@ updated: 2026-10-27
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2005 年 4 月 23 日由法国国民议会正式通过并颁布，由让-皮埃尔·拉法兰政府[[National Education|国民教育]]部长弗朗索瓦·菲永（François Fillon）主导推进。
 > - **适用地区 / 对象** 法国全境初等教育学校与初中（Collège）、普通及技术高中（Lycée）。
-> - **问题背景** 2000 年代初法国面临[[OECD|经济合作与发展组织]]（OECD）[[PISA|国际学生评估项目]]（PISA）与[[EU|欧盟]][[Lisbon Strategy|里斯本战略]]的跨国政策期望。尽管在[[PISA Response in France|法国对 PISA 的早期政策回应]]中，中央教育科层最初对测评结果表现出相对冷淡，但随后的评估揭示出法国学生在基础阅读技能上的社会经济阶层分化日益严重，且中等教育普及未能有效打破弱势群体流动瓶颈。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **问题背景** 2000 年代初法国面临[[OECD|经济合作与发展组织]]（OECD）[[PISA|国际学生评估项目]]（PISA）与[[EU|欧盟]][[Lisbon Strategy|里斯本战略]]的跨国政策期望。尽管在法国对 PISA 的早期政策回应中，中央教育科层最初对测评结果表现出相对冷淡，但随后的评估揭示出法国学生在基础阅读技能上的社会经济阶层分化日益严重，且中等教育普及未能有效打破弱势群体流动瓶颈。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **制度位置** 承接 1989 年《若斯潘教育指导法》，为法国新世纪“知识、技能与文化共同基底”（Socle commun de connaissances et de compétences）奠定首要法定基石。
 
 ---

@@ -9,10 +9,10 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1907"
 died: "1990"
 lifespan: "1907–1990"
@@ -52,6 +52,7 @@ related_persons:
 related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Comparative and International Education Society]]"
+  - "[[National Education]]"
   - "[[World Bank]]"
   - "[[IEA]]"
 related_arguments:
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-10-22
 > 探讨学校教育在宏观人才选拔与劳动力再生产中的客观功能。
 
 > [!claim] Anderson, C. A.; Bowman, M. J.
-> **教育在社会结构分层与经济增长中的功能纽带** 安德森与鲍曼论证指出，现代国民教育体系的核心功能在于实现社会成员的客观选拔与社会分流。教育扩张与[[Human Capital Theory|人力资本]]投资直接关联着工业化国家的经济增长与第三世界国家的现代化进程；必须通过跨国统计建立教育存量与国民收入之间的定量关联，为国家宏观规划提供实证支撑。
+> **教育在社会结构分层与经济增长中的功能纽带** 安德森与鲍曼论证指出，现代[[National Education|国民教育]]体系的核心功能在于实现社会成员的客观选拔与社会分流。教育扩张与[[Human Capital Theory|人力资本]]投资直接关联着工业化国家的经济增长与第三世界国家的现代化进程；必须通过跨国统计建立教育存量与国民收入之间的定量关联，为国家宏观规划提供实证支撑。
 
 ---
 

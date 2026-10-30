@@ -10,7 +10,7 @@ aliases:
 summary: "古代东亚以中华帝国为中心的区域国际关系与地缘政治秩序模型。经典费正清模型主张其为基于文化优越感与王化道德感召的阶序同化体系；现代修正派学者（康灿雄、周方银、濮德培等）则解构其为中心与边缘在非对称权力格局下通过仪式化厚往薄来与边境互市管理互动、维持长久区域和平并实现利益互惠的务实制度安排。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Geopolitics]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Chinese Exceptionalism]]"
   - "[[Discourse]]"
   - "[[Hard Power]]"
@@ -39,13 +40,14 @@ related_instruments: []
 related_persons:
   - "[[John King Fairbank]]"
   - "[[Suyan Pan]]"
+  - "[[Rui Yang]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-10-22
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 现代西方学术脉络下的理论建构始于美国历史学家[[John King Fairbank|费正清]]（John King Fairbank）与邓嗣禹（Ssu-yü Têng）于 1941 年发表的经典文献《清代朝贡体系论》（*On the Ch'ing Tributary System*），以及费正清 1942 年发表的《朝贡贸易与中国对外交往》（*Tributary Trade and China's Relations with the West*）。
+> - **提出者与原始文本** 现代西方学术脉络下的理论建构始于美国历史学家[[John King Fairbank|费正清]]（John King Fairbank）与邓嗣禹（Ssu-yü Têng）于 1941 年发表的经典[[Document|文献]]《清代朝贡体系论》（*On the Ch'ing Tributary System*），以及费正清 1942 年发表的《朝贡贸易与中国对外交往》（*Tributary Trade and China's Relations with the West*）。
 > - **原初问题** 试图解释 19 世纪鸦片战争前夕大清帝国为何坚持以叩头、朝觐与天朝上国礼制处理对外通商交往，以及传统中国对外关系的根本组织原则。
 > - **理论资源与材料** 广泛借用明清两代《大清会典》、礼部则例、藩部档案以及西方外交官使华记录；以传统儒家“天下”、“德化”、“差序格局”与天朝礼制为理论思想来源。
 > - **形成路径** 费正清将传统中国的对外礼仪交往概念化为一套以“华夏中心主义（Sino-centrism）”为轴心、将一切对外贸易包装为朝贡纳贡的系统性制度网络。
@@ -72,7 +74,7 @@ updated: 2026-10-22
 > - **2010 年 — 康灿雄东亚和平秩序论** 康灿雄（David Kang, 2010）在《西方的东亚之前》中扩展该理论，论证等级制朝贡体系促成了东亚长达数百年的结构性和平，反驳西方无政府冲突公理。
 > - **2011–2015 年 — 非对称互惠与利益协调修正** 周方银（Zhou, 2011）、沃马克（Brantly Womack, 2012）与濮德培（Peter Perdue, 2015）等学者指出，朝贡体系本质是中央与周边管理非对称关系的双向协调机制，周边国家具有高度策略自主性，参与朝贡重在换取边境安全与经贸红利。
 > - **2017–2018 年 — [[Suyan Pan|潘苏燕]]与卢天佑开创高等教育新朝贡框架** 潘苏燕等学者（Pan & Lo, 2017, 2018）将古代朝贡逻辑移植至当代，构建涵盖[[Chinese Exceptionalism|中国例外论]]、经贸外交联动、高教输出与形象塑造的当代分析工具。
-> - **2025 年 — 朱俊成与杨锐实证解构与修正** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证论证古代朝贡的“文化同化”预设在当代高教中并不成立，确立了当代传播治理经验以寻求“文化认同”的新机制。
+> - **2025 年 — 朱俊成与[[Rui Yang|杨锐]]实证解构与修正** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证论证古代朝贡的“文化同化”预设在当代高教中并不成立，确立了当代传播治理经验以寻求“文化认同”的新机制。
 
 ---
 
@@ -103,7 +105,7 @@ updated: 2026-10-22
 ### 命题二　朝贡逻辑在现代转型中转化为融合科技实力与大国礼遇的实用主义例外论模式
 
 > [!theory-proposition] 命题二｜历史心智的当代演进与制度性张力
-> **解释** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）论证指出，古代朝贡的历史心智在当代大国对外拓展中依然投下深远投射。它一方面促使大学成为展示科技[[Hard Power|硬实力]]与大国宽仁善意的展演窗口，通过全额奖学金与生活礼遇吸纳周边留学生；另一方面，过于依赖自上而下的外交经贸动员，容易导致跨国合作重宏观签约而轻微观实质学术合作，诱发合作协议虚置与超国民待遇削弱学术水准的现实张力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
+> **解释** 朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）论证指出，古代朝贡的历史心智在当代大国对外拓展中依然投下深远投射。它一方面促使大学成为展示科技[[Hard Power|硬实力]]与大国宽仁善意的展演窗口，通过全额奖学金与生活礼遇吸纳周边留学生；另一方面，过于依赖自上而下的外交经贸动员，容易导致跨国合作重宏观签约而轻微观实质学术合作，诱发合作协议虚置与超国民待遇削弱学术水准的现实张力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
 >
 > **应用实例** 当代中柬高等教育合作中，中国高校扩招理工科留学生并给予全额资助以展示卓越与善意；但部分校际合作因缺乏学术动力而沦为纸面协议，体现出朝贡历史心智与现代高等教育学术本质之间的张力。
 

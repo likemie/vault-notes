@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Commensuration]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Invisible College]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Focused Research Organization]]"
@@ -58,6 +59,8 @@ related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Derek de Solla Price]]"
 related_facts:
   - "[[Fast Grants]]"
@@ -77,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -156,7 +159,7 @@ updated: 2026-10-29
 > **探讨维度　计算科学学与学术机制建模维度** 探讨如何利用全量[[Document|文献]]计量大数据、复杂网络科学与因果模型，揭示[[Scientific Productivity|学者生产力]]、[[Evaluative Validity|评价效度]]与声誉承认背后的微观动力学机制。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang and Barabási (2021)]]
-> **大数据计算与学术机制建模命题** 王大顺与巴拉巴西确立了定量微观科学学（Science of Science）的实证[[Paradigm|研究范式]]。通过对跨世纪数千万学者与论著大数据的建模分析，证实科学知识爆炸主要源于科研队伍基数的膨胀，而个体生产力服从多重能力乘法放大的对数正态长尾分布；同时实证检验了 $h$ 指数在预测学者未来科研卓越度上的长期效度，并揭示了同行评审中资深学者的声望信号如何诱发选择性正向偏见。计算科学学通过微观机制建模，为理解学术分层与优化科研评价体系提供了坚实的实证基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–14, 21–23, 28–30)]]
+> **大数据计算与学术机制建模命题** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]确立了定量微观科学学（Science of Science）的实证[[Paradigm|研究范式]]。通过对跨世纪数千万学者与论著大数据的建模分析，证实科学知识爆炸主要源于科研队伍基数的膨胀，而个体生产力服从多重能力乘法放大的对数正态长尾分布；同时实证检验了 $h$ 指数在预测学者未来科研卓越度上的长期效度，并揭示了同行评审中资深学者的声望信号如何诱发选择性正向偏见。计算科学学通过微观机制建模，为理解学术分层与优化科研评价体系提供了坚实的实证基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–14, 21–23, 28–30)]]
 
 ---
 
@@ -172,7 +175,7 @@ updated: 2026-10-29
 ---
 
 > [!dev-timeline] 概念与制度演进
-> - **1960s–1980s — [[Bibliometric Analysis|科学计量学]]与科学学奠基（[[Derek de Solla Price|普赖斯]]学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与无形学院（Invisible Colleges）运作规律。
+> - **1960s–1980s — [[Bibliometric Analysis|科学计量学]]与科学学奠基（[[Derek de Solla Price|普赖斯]]学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与[[Invisible College|无形学院]]（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万学术出版物与科研人员大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]

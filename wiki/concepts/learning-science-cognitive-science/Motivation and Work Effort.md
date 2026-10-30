@@ -5,7 +5,7 @@ aliases:
 summary: "学生在校学习中的成功动机和努力投入水平，用于描述其对学习任务的投入程度、坚持性和成就导向。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Student Motivation]]"
   - "[[Homework]]"
   - "[[Feedback]]"
   - "[[Variable]]"
@@ -31,14 +32,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
 > Motivation and Work Effort 指学生在学校学习中的目标投入与持续努力程度。
 
 > [!note-] 历史沿革
-> - 学习动机与努力投入常被视为连接课堂过程与学习结果的关键中介。
+> - [[Student Motivation|学习动机]]与努力投入常被视为连接课堂过程与学习结果的关键中介。
 
 > [!abstract] 核心要素
 > - 成功动机：学生追求学业达成与进步的目标取向（Lekhal_2015_Paideia）。
@@ -61,7 +62,7 @@ updated: 2026-10-22
 - 后续可补充教师评定与学生自评一致性以及不同教学法下的纵向变化证据。
 
 > [!warning] 争议与批评
-> - 若仅依赖教师评定，学习动机与努力投入评分可能混合真实投入差异与评价者印象偏差（Lekhal_2015_Paideia）。
+> - 若仅依赖教师评定，[[Student Motivation|学习动机]]与努力投入评分可能混合真实投入差异与评价者印象偏差（Lekhal_2015_Paideia）。
 
 > [!example] 相关案例／政策
 > - [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]]

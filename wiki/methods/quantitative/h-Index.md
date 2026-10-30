@@ -8,9 +8,9 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标，以学者至�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -32,10 +32,11 @@ related_theories:
   - "[[Q-Model]]"
 related_methods:
   - "[[Author Name Disambiguation]]"
+  - "[[Receiver Operating Characteristic Analysis]]"
+  - "[[Q-Factor]]"
   - "[[Bibliometric Analysis]]"
   - "[[g-Index]]"
   - "[[o-Index]]"
-  - "[[Q-Factor]]"
   - "[[Shockley's Multiplicative Hurdle Model]]"
 related_instruments: []
 related_persons:
@@ -45,6 +46,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-29"
@@ -73,7 +75,7 @@ updated: 2026-10-30
 > [!method-position] 方法定位
 > - **[[Construct Validity|构念效度]]** $h$ 只计入同时满足数量与被引门槛的核心成果，代表学者持续产出受关注成果的能力；越过门槛之后的超额引用、门槛以下的成果以及教学、指导、评审等非[[Document|文献]]贡献都不进入数值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–27)]]
 > - **研究者判断** 选择哪个数据库、统计哪些成果类型、是否剔除自引、如何消歧，都会改变 $h$ 的数值。
-> - **有效性标准** [[Predictive Validity|预测效度]]是主要支撑。希尔施（Hirsch, 2007）对凝聚态物理学者 24 年发表记录的追踪显示，在预测未来累积引用与新作影响时，前 12 年的 $h$ 优于发文总量、总被引与篇均被引。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]] 在诺贝尔奖得主预测竞赛中，受试者工作特征（Receiver Operating Characteristic, ROC）分析显示 $h$ 指数的预测曲线下面积（Area Under the Curve, AUC）仅次于 [[Q-Factor|Q 因子]]，显著高于总被引频次与发文篇数，证实其对长期顶尖学术成就具备稳健的区分效能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
+> - **有效性标准** [[Predictive Validity|预测效度]]是主要支撑。希尔施（Hirsch, 2007）对凝聚态物理学者 24 年发表记录的追踪显示，在预测未来累积引用与新作影响时，前 12 年的 $h$ 优于发文总量、总被引与篇均被引。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]] 在诺贝尔奖得主预测竞赛中，受试者工作特征（[[Receiver Operating Characteristic Analysis|Receiver Operating Characteristic]], ROC）分析显示 $h$ 指数的预测曲线下面积（Area Under the Curve, AUC）仅次于 [[Q-Factor|Q 因子]]，显著高于总被引频次与发文篇数，证实其对长期顶尖学术成就具备稳健的区分效能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
 > - **不声称回答的问题** 不能比较不同学科学者的高低，不能识别合著中的实际贡献，也不能单独证明某项成果的原创性。
 
 > [!method-stack] 方法层级

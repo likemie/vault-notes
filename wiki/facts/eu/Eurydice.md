@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,7 +31,9 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Research Utilization]]"
   - "[[Performance Indicators]]"
+  - "[[Document]]"
   - "[[International Education]]"
+  - "[[Epistemic Infrastructure]]"
   - "[[Subsidiarity Principle]]"
   - "[[Governing by Numbers]]"
 related_theories: []
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +108,7 @@ updated: 2026-10-26
 
 > [!pathways] 业务运行机制
 > - **议程设置** 依据欧洲理事会战略决议及[[European Commission|欧盟委员会]]年度工作重点，经各成员国教育部协商确定跨国比较的优先专题。
-> - **研究与开发** 欧洲单元拟定标准化比较矩阵，由国家单元依据法定文献与行政记录填报，经交互核对与定性交叉校验形成全欧报告。
+> - **研究与开发** 欧洲单元拟定标准化比较矩阵，由国家单元依据法定[[Document|文献]]与行政记录填报，经交互核对与定性交叉校验形成全欧报告。
 > - **质量控制与透明度** 所有比较术语与分类标准严格对接[[International Education|国际教育]]标准分类法（ISCED），报告草案须经各成员国政府官方代表逐条签字确证后方予发布。
 
 ---
@@ -128,7 +130,7 @@ updated: 2026-10-26
 > - **制度化抗衡机制** 在布鲁塞尔技术官僚倾向采信单一量化指标直接干预政策的倾向面前，坚守情境化制度阐释的学术底线。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 34)]]
 
 > [!finding-cards] 关键体制影响
-> - **构筑超国家教育空间的知识基础设施** 在缺乏集中教育立法权的宪制约束下，Eurydice 提供的比较事实使各成员国在遵循[[Subsidiarity Principle|辅助性原则]]的同时，能够以客观证据对标邻国改革经验。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
+> - **构筑超国家教育空间的[[Epistemic Infrastructure|知识基础设施]]** 在缺乏集中教育立法权的宪制约束下，Eurydice 提供的比较事实使各成员国在遵循[[Subsidiarity Principle|辅助性原则]]的同时，能够以客观证据对标邻国改革经验。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
 > - **抵制单一数字排名的治理窄化** 当欧盟委员会官员倾向将复杂教育政策压缩为早期辍学率或 [[PISA]] 读写薄弱率等少数硬性干预指标时，Eurydice 专家坚持多维定性分析，维护了欧洲教育体系的多元文化价值。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 34)]]
 
 ---

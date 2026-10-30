@@ -8,7 +8,7 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 53
+theory_related_count: 54
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Unit of Analysis]]"
+  - "[[Boundary Spanner]]"
   - "[[Policy Borrowing]]"
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -179,7 +180,7 @@ updated: 2026-10-22
 > | **网络脆断机制（命题一与三）** | **脆弱性与断裂暴露**<br>网络在何种条件下会暴露其拼装本质？哪些节点是潜在断裂点？ | 系统技术故障记录、财务审计漏洞、民间信息公开申请（FOI）、人事变动。 | 寻找使网络日常运转中断的危机事件；当非人类节点失灵导致后台博弈被置于聚光灯下时，即可确认装配的脆弱性边界。 |
 
 > [!exegesis]- 澳大利亚[[Educational Brokerage Agency|证据中介机构]]（[[Australian Education Research Organisation|AERO]]）的[[Network Ethnography|网络民族志]]解构
-> - **现象与问题** 澳大利亚教育研究组织（AERO）宣称自身为“超党派、客观中立的独立证据经纪人”，旨在依靠严格的[[Randomised Controlled Trials\|随机对照试验]]量规消除课堂政治分歧。研究旨在探究其客观中立表象背后的真实治理网络。
+> - **现象与问题** 澳大利亚教育研究组织（AERO）宣称自身为“超党派、客观中立的独立[[Boundary Spanner|证据经纪人]]”，旨在依靠严格的[[Randomised Controlled Trials\|随机对照试验]]量规消除课堂政治分歧。研究旨在探究其客观中立表象背后的真实治理网络。
 > - **维度与材料** 罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）运用 ANT 与网络[[Ethnography\|民族志]]方法，采集了四类异质材料：① ASIC 付费提取的企业登记档案与公司章程；② 《公共治理、绩效与问责规则》2020 年修正案；③ 跨国[[Venture Philanthropy\|风险慈善]]机构（[[Social Ventures Australia\|SVA]]、英国 [[Education Endowment Foundation\|EEF]]、[[Sutton Trust\|萨顿信托]]）历年财务报表；④ 董事会成员跨机构多重任职名单。
 > - **综合判读** 
 >   1. **耐用材料识别** AERO 的法律底座并非政府部委事业单位，而是依据《公司法》注册的“担保有限公司”；章程第 6 条与第 8 条明文规定董事须具备与慈善界合作资质。

@@ -11,9 +11,9 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2005–至今"
 initiator_organization: "欧洲委员会教育文化总司"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[European Education Space]]"
   - "[[Discursive Field]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,6 +43,7 @@ related_persons:
 related_facts:
   - "[[EU]]"
   - "[[Lisbon Strategy]]"
+  - "[[Education and Training 2010]]"
   - "[[European Commission]]"
   - "[[PISA]]"
   - "[[ROOTS]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -61,7 +63,7 @@ updated: 2026-10-26
 > [[EU|欧盟]]同行学习活动（Peer-Learning Activities, PLAs）是欧洲委员会教育与文化总司在[[Lisbon Strategy|里斯本战略]]与[[Open Method of Coordination|开放协调法]]（OMC）框架下设立的常态化政策交流机制。该项目通过组织成员国教育专家赴高绩效国家开展实地考察与政策对话，旨在促进国家间“最佳实践”辨识与自下而上的政策学习。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 33–34)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2005 年前后正式制度化启动，作为“教育与培训 2010/2020”（ET 2010/2020）工作规划的核心实践机制并持续至今。
+> - **立项时间 / 周期** 2005 年前后正式制度化启动，作为“[[Education and Training 2010|教育与培训 2010]]/2020”（ET 2010/2020）工作规划的核心实践机制并持续至今。
 > - **发起方与资助机制** [[European Commission|欧盟委员会]]教育文化总司全额设立专项旅行与研讨预算，为成员国专家团提供资助。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 > - **覆盖范围与对象** 欧盟全体成员国教育部指定的高级政策顾问、课程专家与教育研究员。
 > - **核心问题导向** 在欧洲联盟条约禁止超国家强制立法的宪制约束下，探索软性推动各成员国教育体系互相借鉴、对齐欧洲战略基准的可行途径。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 33)]]
@@ -139,4 +141,4 @@ updated: 2026-10-26
 > | [[European Education Space]] | Concept | 同行学习活动致力于在实践层面加以编织的超国家[[Discursive Field\|话语空间]]。 |
 > | [[Individualised Instruction]] | Concept | 成员国专家赴芬兰考察中重点探讨的典型教学经验。 |
 > | [[Sotiria Grek]] | Person | 访谈欧盟官员并揭示同行学习活动方法论缺陷与表象模仿局限的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析同行学习活动中芬兰经验跨国转移脱嵌悖论的实证文献。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析同行学习活动中芬兰经验跨国转移脱嵌悖论的实证[[Document\|文献]]。 |

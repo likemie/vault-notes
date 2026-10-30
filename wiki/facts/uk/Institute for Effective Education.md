@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemic Governance]]"
   - "[[Reusability Paradox]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Informed Practice]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-10-26
 > 1. **非营利中介的财务可持续性脆弱** 作为大学依托型独立机构，IEE 缺乏类似 [[Education Endowment Foundation\|EEF]] 拥有 1.25 亿英镑长期留本基金（Endowment）的制度保障，高度依赖外部周期性资助，导致其在资助到期后难以维持独立的实体法人运作。
 > 2. **情境化转译对教师时间的沉重消耗** 尽管提供了 Evidence in Brief，一线教师依然普遍缺乏消化证据所需的制度化工时保障。
 
-> [!citation-card] 代表性反思文献
+> [!citation-card] 代表性反思[[Document|文献]]
 > “Evidence 4 Impact 等平台切实降低了实践者获取证据的门槛，但项目有效性证据进入不同国家和学校时，仍必须审慎权衡课程、语言、学段与本地情境条件的巨大[[Heterogeneity\|异质性]]。”[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 35–36)]]
 >
 > *Platforms like Evidence 4 Impact reduce the threshold for accessing evidence, but when intervention evidence enters different national contexts, it must still confront the reusability paradox across diverse curricula, languages, and local conditions.*

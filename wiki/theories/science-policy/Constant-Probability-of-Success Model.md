@@ -10,40 +10,52 @@ aliases:
 summary: "由 Dean Keith Simonton (1977, 1988) 提出的创造力与科学产出认知模型；指出在学术与艺术全生涯中，高影响杰作产出量与总产出规模保持严格恒定比例，单位尝试成功率终身恒定，高产时期涌现更多杰出成就完全源于尝试总次数的扩张，为随机影响法则提供了微观试错机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 2
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 14
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/science-of-science
   - theme/creativity
   - theory/science-policy
   - theme/scientometrics
-related_concepts: []
+related_concepts:
+  - "[[Creativity]]"
+  - "[[Emergence]]"
+  - "[[Epistemology]]"
+  - "[[Research Question]]"
+  - "[[Deliberate Practice]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Random Impact Rule]]"
-related_methods: []
+  - "[[Hot Hand Fallacy]]"
+related_methods:
+  - "[[Random Sampling]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dean Keith Simonton]]"
+  - "[[Roberta Sinatra]]"
+  - "[[Dashun Wang]]"
+  - "[[Lu Liu]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 科学、文学、音乐与视觉艺术等创造性职业全生命周期中高质量杰作产出的数量与时序分布规律。
+> - **解释对象** 科学、文学、音乐与视觉艺术等[[Creativity|创造性]]职业全生命周期中高质量杰作产出的数量与时序分布规律。
 > - **理论问题** 回答高产创造者之所以屡获殊荣，究竟是因为其具备更高的单次产出命中率，还是源于持续不断的试错与作品产出规模。
 > - **理论类型** 达尔文主义创造力概率生成模型与科学计量认知机制。
-> - **知识位置** 奠基于创造力心理学认知模型，并在当代被计算科学学大数据作为微观机制引入随机影响法则。
+> - **知识位置** 奠基于创造力心理学认知模型，并在当代被计算科学学大数据作为微观机制引入[[Random Impact Rule|随机影响法则]]。
 
 > [!claim] 核心判断
-> 创造性学者产出具有划时代意义重大突破的概率，与其在特定时期内产出的成果总量保持严格的恒定比例。任何个体无法在事前精确预知哪一项具体构想能够最终取得巨大社会反响，高质量作品的涌现服从均等概率的随机抽样规律。某一时期产出的杰作更多，完全是因为该时期尝试探索并推向发表的项目总量更为庞大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> 创造性学者产出具有划时代意义重大突破的概率，与其在特定时期内产出的成果总量保持严格的恒定比例。任何个体无法在事前精确预知哪一项具体构想能够最终取得巨大社会反响，高质量作品的[[Emergence|涌现]]服从均等概率的[[Random Sampling|随机抽样]]规律。某一时期产出的杰作更多，完全是因为该时期尝试探索并推向发表的项目总量更为庞大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 
 ---
 
@@ -56,8 +68,8 @@ updated: 2026-10-29
 > [!dev-timeline] 理论演进与扩展脉络
 > - **1977 — 恒定成功概率假说的提出** 西蒙顿通过古典音乐大师历史数据确立杰作产出与产出总量成线性正比的经验关系。
 > - **1988 — 达尔文主义科学天才模型** 专著《科学天才》将假说拓展至科学探索，论证科学构想的产生类似于生物基因突变，前沿突破在微观上具有不可预知的盲目性。
-> - **2016 — 科学学大数据的全量证实** 罗伯塔·西纳特拉（Roberta Sinatra）与王大顺等人通过数万名科学家的纵向引文大数据分析，将该模型作为微观前提直接推导出全领域的随机影响法则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
-> - **2018 — 跨科学、艺术与电影三界确证** 刘路与王大顺等人在《自然》（*Nature*）证实跨学科科学家、艺术家与导演的高质量作品分布全部支持成功恒定概率模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> - **2016 — 科学学大数据的全量证实** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）与[[Dashun Wang|王大顺]]等人通过数万名科学家的纵向引文大数据分析，将该模型作为微观前提直接推导出全领域的随机影响法则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> - **2018 — 跨科学、艺术与电影三界确证** [[Lu Liu|刘路]]与王大顺等人在《自然》（*Nature*）证实跨学科科学家、艺术家与导演的高质量作品分布全部支持成功恒定概率模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 
 ---
 
@@ -67,7 +79,7 @@ updated: 2026-10-29
 > |:-----|:-----|:--------------|
 > | 恒定命中率（Constant Hit Rate, $p$） | 参数 | 假定每位学者单次尝试转化为代表作的概率终身保持平稳。 |
 > | 试错规模效应（Volume of Trials） | 机制 | 产出杰作总量依赖于总产出基数的达尔文式规模效应。 |
-> | 盲目变异与保留（BVSR） | 认识论构件 | 假定突破性构想的涌现具有微观不可预测性，需通过海量尝试接受筛选。 |
+> | 盲目变异与保留（BVSR） | [[Epistemology\|认识论]]构件 | 假定突破性构想的涌现具有微观不可预测性，需通过海量尝试接受筛选。 |
 > | [[Random Impact Rule\|随机影响规律]] | 上位理论 | 将恒定概率模型与长周期引文动力学相结合形成的科学学生涯理论。 |
 
 ---
@@ -85,7 +97,7 @@ updated: 2026-10-29
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 解析科研评价体制中过度惩罚探索失败与短期功利考核对前沿创新的阻滞效应。
+> - **[[Research Question|研究问题]]** 解析科研评价体制中过度惩罚探索失败与短期功利考核对前沿创新的阻滞效应。
 > - **分析对象与单位** 学术人员与创造性从业者全生命周期发表列表、成果引用分布与代表作比率。
 > - **需要的材料** 连续追踪的学者全量作品清单、被引频次与各类评奖入围记录。
 > - **解释目标** 为制定宽容早期试错、鼓励高频探索、保障中长期研究自由度的科研基金支持体系提供理论支撑。
@@ -112,13 +124,13 @@ updated: 2026-10-29
 > [!debates] 理论争议
 >
 > > [!axis] 达尔文盲目试错 vs 专业专精直觉提升
-> > 西蒙顿坚持达尔文式的变异假说，认为前沿突破微观上不可精确预测，只能靠海量尝试堆砌概率；专长发展理论主张通过长年刻意练习能够内化高超的直觉心智模型，从而在成熟期实现高命中率。
+> > 西蒙顿坚持达尔文式的变异假说，认为前沿突破微观上不可精确预测，只能靠海量尝试堆砌概率；专长发展理论主张通过长年[[Deliberate Practice|刻意练习]]能够内化高超的直觉心智模型，从而在成熟期实现高命中率。
 > >
 > > - **Dean Keith Simonton（1988）** 主张科学构想类似盲目突变，单次成功率终身保持恒定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 55)]]
 > > - **Anders Ericsson et al.（1993）** 强调刻意练习提升个体专业直觉与判断精度。
 >
 > > [!axis] 独立等概率抽样 vs 连胜热手累积反馈
-> > 恒定概率模型假定各次尝试独立无偏；连胜效应（Hot Hand）研究表明在某些特定阶段学者可能因心理状态、资源集中或范式红利出现局部的成功率陡升。
+> > 恒定概率模型假定各次尝试独立无偏；连胜效应（[[Hot Hand Fallacy|Hot Hand]]）研究表明在某些特定阶段学者可能因心理状态、资源集中或[[Paradigm|范式]]红利出现局部的成功率陡升。
 
 ---
 

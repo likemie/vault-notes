@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[PISA Shock]]"
   - "[[Academic Achievement]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Epistemic Infrastructure]]"
   - "[[Data Infrastructure]]"
   - "[[Champ]]"
   - "[[Competitiveness]]"
   - "[[Topological Spatialisation]]"
+  - "[[Document]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
@@ -51,6 +53,7 @@ related_facts:
   - "[[PIRLS]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[EdStats]]"
   - "[[CORE Education]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
@@ -60,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +108,7 @@ updated: 2026-10-22
 > - **[[Vergleichsarbeiten\|校际比较测试]]（VERA-3 / VERA-8）全国题库与在线任务系统**
 >   为全德普查式 VERA 测试提供经过标准化校准的统一试题，并运营对齐国家标准的数字化教学资源库，直接为微观教学提供诊断与备考支架（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
 > - **教育研究数据中心（Forschungsdatenzentrum, FDZ）**
->   全德国教育实证领域最顶级的国家级数据仓储中枢，系统集成并长期托管 [[PISA]]、[[TIMSS]]、[[PIRLS]] 及 IQB 自身所有周期的原始微观数据，成为全德实证教育研究最重要的知识基础设施（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 144]]）。
+>   全德国教育实证领域最顶级的国家级数据仓储中枢，系统集成并长期托管 [[PISA]]、[[TIMSS]]、[[PIRLS]] 及 IQB 自身所有周期的原始微观数据，成为全德实证教育研究最重要的[[Epistemic Infrastructure|知识基础设施]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 144]]）。
 
 > [!citation-card] IQB 官方对研究数据中心（FDZ）的使命界定
 > FDZ 作为国家[[Data Infrastructure\|数据基础设施]]中枢，不仅提供数据托管，更通过方法学培训引领学术生态：
@@ -118,7 +121,7 @@ updated: 2026-10-22
 
 > [!indicators] 影响力维度与政策渗透
 > - **全国 16 州 100% 覆盖** IQB 研发的国家标准体系与 [[Vergleichsarbeiten\|VERA]] 题库在全德所有公立中小学实现了全覆盖，终结了各州标准老死不相往来的离散历史。
-> - **国家[[Data Infrastructure\|数据基础设施]]的集约化整合** 通过 FDZ 的集成运作，德国成功建立起可与美国国家教育统计中心（National Center for Education Statistics, NCES）或英国打通的集约化教育数据仓储，极大提升了本国实证教育学的国际[[Competitiveness|竞争力]]。
+> - **国家[[Data Infrastructure\|数据基础设施]]的集约化整合** 通过 FDZ 的集成运作，德国成功建立起可与美国国家教育统计中心（National Center for [[EdStats|Education Statistics]], NCES）或英国打通的集约化教育数据仓储，极大提升了本国实证教育学的国际[[Competitiveness|竞争力]]。
 > - **重构联邦教育治理权力拓扑** 尽管德国宪法未设立联邦教育部对基础教育的直接管辖权，IQB 依托数据标准和题库，在各州之间搭建起事实上的国家计算与协调中枢，实现了[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–145]]）。
 
 > [!finding-cards] 关键成效与治理形态
@@ -155,5 +158,5 @@ updated: 2026-10-22
 > | [[PISA]] | Fact (Program) | 催生 IQB 成立的根本性国际危机事件，其数据集由 IQB FDZ 集成管理。 |
 > | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 汉堡州立监测机构（IfBQ），在州级层面落实 IQB 标准与 VERA 实施。 |
 > | [[Sigrid Hartong]] | Person | 深入剖析 IQB 机构崛起、计算中心机制与政策拓扑重组的核心研究者。 |
-> | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心文献。 |
+> | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心[[Document\|文献]]。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering, 2009]] | Argument | 记录 IQB 早期创设背景及其在各州教育部日常落实机制中的文献。 |

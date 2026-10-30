@@ -9,7 +9,7 @@ aliases:
 summary: "由区域性多边组织或地缘国家教育部联盟主导，针对特定大洲或次区域基础教育学生开展的跨国标准化能力测评范式。相较于经济合作与发展组织的PISA等全球测评，区域测评聚焦于发展中国家基础读写与算术基准，使用区域主体教学语言，旨在通过地缘同伴互学凝聚政治改革共识，同时规避全球排名的名次焦虑。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[IEA]]"
+  - "[[SEAMEO]]"
   - "[[PISA for Development]]"
   - "[[Teaching and Learning International Survey]]"
 related_arguments:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-26
 > [!feature] 核心特征与治理功能
 > - **锚定低收入情境学力底线** 测验题目侧重小学 2–6 年级的基础识字与基本数学运算，有效避免全球 PISA 测验中低收入发展中国家大面积出现零分或底线效应的问题。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 > - **适配区域主体教学语言** 广泛采用西班牙语、法语、葡萄牙语或特定区域通用民族语言组织试题翻译与效度审查，降低外源语言障碍带来的测量偏差。
-> - **培育地缘部委同伴互学生态** 依托区域多边机构（如 CONFEMEN、SEAMEO、OREALC）建立跨国国家协调员（National Research Coordinators）常态化技术磋商网络，增强各教育部委对评估结果的制度信任。
+> - **培育地缘部委同伴互学生态** 依托区域多边机构（如 CONFEMEN、[[SEAMEO]]、OREALC）建立跨国国家协调员（National Research Coordinators）常态化技术磋商网络，增强各教育部委对评估结果的制度信任。
 
 ---
 

@@ -10,7 +10,7 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Lesson Study]]"
+  - "[[Inclusive Education]]"
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Discourse]]"
   - "[[Performativity]]"
@@ -51,7 +53,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2020
 doi: ""
 citation_aliases:
@@ -76,9 +78,9 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法** 理论性／批判性[[Discourse Analysis\|话语分析]]（非实证[[Lesson Study\|课堂研究]]）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
-> - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究
+> - **分析视角** 作者的立场来自包容性教育（[[Inclusive Education|inclusive education]]），具体领域为残疾研究和性别研究
 > - **数据来源** Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
-> - **局限性（作者自认）** 由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review\|文献综述]]
+> - **局限性（作者自认）** 由于专门批评 VL 文化政治的[[Document|文献]]匮乏，论文直接进入批评而非常规[[Literature Review\|文献综述]]
 
 > [!example] 核心论证
 > 论文以七个批判性论点逐层展开（作者明确表示"七"这个数字本身即是对 VL 中充斥的管理[[Discourse|话语]]——测量、[[Performativity|表演性]]和"交付"——的挑衅性和反讽性回应）：

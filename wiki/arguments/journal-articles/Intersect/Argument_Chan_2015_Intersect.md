@@ -21,6 +21,7 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[Soviet Statism]]"
   - "[[State Vertical]]"
+  - "[[Document]]"
   - "[[Falsification]]"
   - "[[Total War]]"
   - "[[Creativity]]"
@@ -56,16 +57,16 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Intersect
 book_title: ""
@@ -114,7 +115,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **历史分析**<br>Historical Analysis | 基于对苏联经济、科技政策和制度结构的二手文献综合分析，以 Castells 的[[Informationalism\|信息主义]]—[[Soviet Statism\|国家主义]]框架组织证据。 |
-> | **文献来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
+> | **[[Document\|文献]]来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
 
 该文是一篇历史分析性论文，通过理论[[Framework Synthesis|框架综合]]已有研究证据，对苏联技术落后提出结构性解释。非实证研究，属思辨—综合类文献。
 

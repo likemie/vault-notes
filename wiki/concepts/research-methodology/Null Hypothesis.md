@@ -9,15 +9,16 @@ aliases:
 summary: "正式假设检验中预测总体中变量间不存在关系或组间不存在显著差异的假设形式，与备择假设成对构成统计检验的完整框架，通常以H₀表示。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -34,14 +35,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 > [!def] Null Hypothesis
 > 零假设是正式假设检验中的一种基本假设形式，预测在总体中[[Variable\|变量]]间不存在关系或组间不存在显著差异。其目的是通过陈述一个否定性预期来反驳理论，通常写作 H₀（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 零假设是统计检验中被尝试拒绝的稻草人命题。它所陈述的是如果研究假设不成立、世界按照随机状态运作时数据应该呈现的模式。
+> - **含义** 零假设是统计检验中被尝试拒绝的稻草人命题。它所陈述的是如果[[Hypothesis|研究假设]]不成立、世界按照随机状态运作时数据应该呈现的模式。
 > - **用途** 为假设检验提供可操作的否定基线——通过检验数据是否显著偏离零假设预测，间接支持[[Alternative Hypothesis\|备择假设]]。
 > - **边界** 零假设不是研究者真正主张的理论，不用于直接支持研究结论。在研究方案写作中通常不单独列出零假设。
 

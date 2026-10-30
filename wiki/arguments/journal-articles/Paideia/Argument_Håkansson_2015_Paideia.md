@@ -9,9 +9,9 @@ title: "Argument_Håkansson_2015_Paideia"
 argument_key: "Argument_Håkansson_2015_Paideia"
 argument_display_title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
 argument_kind: "journal-article"
-argument_related_count: 8
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 10
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Håkansson, J. (2015). Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet. Paideia, 9, 52–60."
@@ -26,7 +26,9 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Source of Knowledge]]"
   - "[[Effective Teaching]]"
+  - "[[Teacher Collaboration]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -40,7 +42,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-20'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -52,7 +54,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Visible Learning]] — 文章把 Hattie 视为推动瑞典重新聚焦课堂教学与教师影响力的关键催化剂，但不是唯一[[Source of Knowledge\|知识来源]]；Håkansson 特别强调，Hattie 的[[Meta-meta-analysis\|元-元分析]]应放回更广泛的教学研究综述传统中理解。
-> - [[Effective Teaching]] — 文中真正关心的是“什么样的教学更可能改善学生成绩”这一有效教学问题，并把课堂近端策略、清晰目标、反馈、课堂领导和教师协作都纳入这一框架。
+> - [[Effective Teaching]] — 文中真正关心的是“什么样的教学更可能改善学生成绩”这一有效教学问题，并把课堂近端策略、清晰目标、反馈、课堂领导和[[Teacher Collaboration|教师协作]]都纳入这一框架。
 
 > [!info] 研究方法
 > - 方法：政策分析 + 研究综述 + 地方跟踪研究讨论。
@@ -105,7 +107,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 文章不是严格的因果评估，而是把研究综述、政策变化和一项进行中的地方研究放在一起讨论，因此更适合识别改进方向与机制，不足以证明 Hattie 直接造成了哪些结果。
 > - Håkansson 明确承认，国家项目和课堂近端策略最终会产生什么效果仍不确定，因为地方学校文化和具体情境会强烈影响改革落实。
-> - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与转化过程；如果要评估 VL 本身的统计与[[Epistemology\|认识论]]问题，还需要与 Allerup et al.文献并读。
+> - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与转化过程；如果要评估 VL 本身的统计与[[Epistemology\|认识论]]问题，还需要与 Allerup et al.[[Document|文献]]并读。
 
 ## 来源
 

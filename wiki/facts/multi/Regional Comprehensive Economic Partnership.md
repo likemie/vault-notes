@@ -9,7 +9,7 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Industry-Education Integration Community]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -37,13 +38,14 @@ related_persons: []
 related_facts:
   - "[[ASEAN]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Master Plan on ASEAN Connectivity]]"
   - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
 related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -52,7 +54,7 @@ updated: 2026-10-26
 > - **发布时间 / 发布主体** 2012 年由[[ASEAN|东南亚国家联盟]]（ASEAN）正式发起，中国、日本、韩国、澳大利亚、新西兰与东盟十国等 15 个亚太国家于 2020 年 11 月正式签署，2022 年 1 月 1 日正式生效实施。
 > - **适用地区 / 对象** 覆盖亚太地区 15 个成员国，辐射全产业链跨国经贸投资、知识产权、服务贸易及跨境人员流动与教育要素配置。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291)]]
 > - **问题背景** 应对全球贸易保护主义壁垒，整合亚太既有碎片化的双边自贸协定规则，构筑高水平制度型对外开放框架。
-> - **制度位置** 全球人口最多、经贸规模最大的自由贸易协定，与共建[[Belt and Road Initiative|一带一路]]及东盟互联互通总体规划形成制度衔接。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 292)]]
+> - **制度位置** 全球人口最多、经贸规模最大的自由贸易协定，与共建[[Belt and Road Initiative|一带一路]]及[[Master Plan on ASEAN Connectivity|东盟互联互通总体规划]]形成制度衔接。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 292)]]
 
 ---
 
@@ -122,7 +124,7 @@ updated: 2026-10-26
 > | [[Belt and Road Initiative]] | Fact (Program) | 与 RCEP 形成空间叠加与政策协同的重大跨国合作倡议。 |
 > | [[Internationalization of Vocational Education]] | Concept | RCEP 驱动下成员国重塑人才培养与跨境流动格局的核心机制。 |
 > | [[Industry-Education Integration Community]] | Concept | 服务 RCEP 产业链重组需求而构建的跨区域产教合作载体。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 探讨 RCEP 落地驱动中国—东盟经贸增长与职业教育制度型开放的代表性文献。 |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 探讨 RCEP 落地驱动中国—东盟经贸增长与职业教育制度型开放的代表性[[Document\|文献]]。 |
 
 ---
 

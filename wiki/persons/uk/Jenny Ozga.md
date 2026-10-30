@@ -8,7 +8,7 @@ summary: "英国著名教育政策社会学家，牛津大学教育学系荣休�
 type: person
 subtype: scholar
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Positivism]]"
   - "[[Knowledge Transfer]]"
+  - "[[Document]]"
   - "[[Bureaucracy]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Governing by Numbers]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-26
 >   - **代表著作** *Governing Knowledge: Research Steering and Research Quality* (2008); *[[Knowledge Transfer]] and Transformation: Moving Knowledge from Research to Policy* (2011)。
 >   - **核心议题** 治理知识（Governing Knowledge）、知识构成政策（Knowledge Forming Policy）、软治理网络。
 > - **2010年代至今 — 比较督导与规制国家反思阶段** 协同青年学者深入英格兰、苏格兰与北欧学校督导现场，揭示数字监测与督导机制的共谋。
->   - **代表文献** *Chameleon and Post-[[Bureaucracy|bureaucracy]]: Changing Knowledge About Healthcare and Education in Seven European Countries* (with Issakyan, 2008)。
+>   - **代表[[Document|文献]]** *Chameleon and Post-[[Bureaucracy|bureaucracy]]: Changing Knowledge About Healthcare and Education in Seven European Countries* (with Issakyan, 2008)。
 
 ---
 

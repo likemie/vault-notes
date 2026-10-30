@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Scientism]]"
   - "[[Empiricism]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
   - "[[Discourse]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-26
 > - **1969** 获美国芝加哥大学经济学博士学位，深受西奥多·舒尔茨（Theodore Schultz）与加里·贝克尔（Gary Becker）[[Human Capital Theory\|人力资本理论]]熏陶。
 > - **1970–1981** 任教于伦敦政治经济学院（LSE）比较教育与经济学系，1973 年出版里程碑著作《教育收益率：国际比较》，奠定跨国教育回报率计算的经验分析规程。
 > - **1981–1998** 加入[[World Bank\|世界银行]]，历任教育研究处处长、人力资源与社会发展局首席顾问及教育政策部主管；期间主持起草 1980 年代及 1990 年代世行教育旗舰战略，推动世界银行脱离[[UNESCO\|教科文组织]]的技术依附。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
-> - **1998–至今** 离开世行后曾当选希腊议会议员，并持续担任欧洲大学研究所（EUI）、世界银行与国际智库的特聘资深顾问，2018 年与哈里·帕特里诺斯联合发布涵盖 60 年文献的全球[[Return on Investment\|教育投资回报率]]综述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
+> - **1998–至今** 离开世行后曾当选希腊议会议员，并持续担任欧洲大学研究所（EUI）、世界银行与国际智库的特聘资深顾问，2018 年与哈里·帕特里诺斯联合发布涵盖 60 年[[Document|文献]]的全球[[Return on Investment\|教育投资回报率]]综述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 
 ---
 

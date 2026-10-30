@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,23 +20,26 @@ tags:
   - "region/uk"
   - "reading"
   - "targeted-approach"
-related_concepts: []
+related_concepts:
+  - "[[Reading Programs]]"
+  - "[[Decodification]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 费舍尔家族信托（Fischer Family Trust，FFT）的互惠阅读项目面向能够解码但阅读理解困难的小学五、六年级学生。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/fft-reciprocal-reading)
+> 费舍尔家族信托（Fischer Family Trust，FFT）的互惠[[Reading Programs|阅读项目]]面向能够[[Decodification|解码]]但阅读理解困难的小学五、六年级学生。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/fft-reciprocal-reading)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>

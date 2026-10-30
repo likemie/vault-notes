@@ -6,10 +6,10 @@ summary: "芬兰著名教育学者、教育政策顾问，全球教育改革运�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1959"
 died: ""
 lifespan: "1959–至今"
@@ -21,6 +21,7 @@ tags:
   - critique
 related_concepts:
   - "[[Global Education Reform Movement]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[High-Stakes Testing]]"
   - "[[Pride in Learning]]"
@@ -48,14 +49,14 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 芬兰国际知名教育学者、比较教育政策顾问，曾任芬兰教育部国际交流中心（CIMO）主任、哈佛大学教育研究生院客座教授、墨尔本大学教育学教授。
-> - **核心角色** 在当代全球教育改革辩论网络中担任另类进步道路与反新自由主义旗手角色；率先提炼出[[Global Education Reform Movement|全球教育改革运动]]（GERM）概念，成为全球批判教育政策分析的基石文献。
+> - **核心角色** 在当代全球教育改革辩论网络中担任另类进步道路与反新自由主义旗手角色；率先提炼出[[Global Education Reform Movement|全球教育改革运动]]（GERM）概念，成为全球批判教育政策分析的基石[[Document|文献]]。
 > - **代表贡献** 提出全球教育改革运动（GERM）诊断框架；著有国际畅销学术专著《芬兰传奇》（*Finnish Lessons*）；系统阐发以专业信任、合作文化与全人发展抵制商业问责的芬兰[[Paradigm|范式]]。
 
 > [!citation-card] 萨尔伯格对全球教育改革运动的诊断

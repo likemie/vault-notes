@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Active Learning]]"
+  - "[[Extracurricular Activities]]"
   - "[[Critical Thinking]]"
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -103,7 +104,7 @@ updated: 2026-10-22
 
 ---
 
-> [!abstract] 心智导向的学习过程
+> [!abstract] [[Mind-Oriented Learning Process|心智导向]]的学习过程
 > Li 在第 4 章中进一步详细描述了西方学习者在实际学习中遵循的四个关键过程，它们共同构成了 Figure 4.1 的"[[Mind-Oriented Learning Process\|心智导向学习过程]]"模型([[Argument_Li_2012_Cambridge\|Li, 2012, pp.108-124]])。这四个过程不是孤立的步骤，而是一个相互增强的系统——每个过程强化其他过程。
 
 > [!info] 1. 主动参与（Active Engagement）
@@ -114,7 +115,7 @@ updated: 2026-10-22
 >
 > **2. 校外实地考察（fieldtrips）** 全班学生前往真实场景——博物馆、水族馆、天文台、历史遗址、电厂、工厂。学生在现场做笔记，之后讨论和写作所学内容([[Argument_Li_2012_Cambridge\|Li, 2012, p.109]])。
 >
-> **3. 课外活动项目** 公立和私立学校提供各种"做中学"的活动——绘画、雕塑、演奏乐器、制作书籍、制作首饰、舞蹈、运动。暑假期间还有各种营地和旅行，许多有强烈的"做中学"成分。
+> **3. [[Extracurricular Activities|课外活动]]项目** 公立和私立学校提供各种"做中学"的活动——绘画、雕塑、演奏乐器、制作书籍、制作首饰、舞蹈、运动。暑假期间还有各种营地和旅行，许多有强烈的"做中学"成分。
 
 > [!tip] 西方学前教育的典范
 > Li 特别指出 Montessori 学校、受 Dewey 哲学启发的学校（如 Shady Hill School and Putney School）、以及 Reggio Emilia 学前教育——这些学校对"儿童作为主动学习者的本质"的强调，令非西方（甚至西方）访客感到震撼。儿童"用他们的感官、好奇心、经验和对周围世界的问题"来学习——雨后踩进水坑引出对水和镜子如何反射事物的研究；研究超市这样的现代人造环境，收集信息、采访经理和顾客、提出改进建议([[Argument_Li_2012_Cambridge\|Li, 2012, pp.109-110]])。
@@ -133,7 +134,7 @@ updated: 2026-10-22
 > - 诺贝尔博物馆（斯德哥尔摩）保存了每位诺贝尔奖得主的自传，其中大多数详细描述了他们的探究起源
 > - 学校的英语和社会科课程明确要求学生"调查和分析话题"而非简单记忆事实——例如"一个老师可能要求学生研究埃及金字塔是如何建造的"
 
-> [!info] 3. 思考与批判性思维（Thinking and Critical Thinking）
+> [!info] 3. 思考与[[Critical Thinking|批判性思维]]（Thinking and Critical Thinking）
 > 思考（thinking）是西方知识传统的核心——强调逻辑、推理、分析、综合等心智操作。[[Critical Thinking\|批判性思维]]（critical thinking）在此基础上更进一步，要求质疑一切被视为理所当然的东西，包括权威和既有的知识体系([[Argument_Li_2012_Cambridge\|Li, 2012, pp.121-124]])。
 
 > [!quote|notitle]

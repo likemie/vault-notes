@@ -13,7 +13,7 @@ subtype: event
 region: japan
 fact_region: "japan"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -40,13 +40,14 @@ related_persons:
   - "[[Jason Beech]]"
 related_facts:
   - "[[Education for All]]"
+  - "[[National Education]]"
   - "[[Imperial Universities]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-22
 > - **时间跨度 / 空间地理** 1868 年明治维新开启，1872 年（明治五年）颁布《学制》正式奠基，覆盖日本列岛全境（废藩置县后确立全国 8 大学区）。
 > - **核心当事主体** 明治政府文部省元老（木户孝允、森有礼、大木乔任）、岩仓使节团欧美考察先锋、受聘管理在日机构的欧美专家（外籍顾问御雇外国人）。
 > - **深层制度与社会背景** 德川幕府长达两百余年的锁国体制终结，国内面临深刻的半殖民地化威胁；各藩原有的藩校与寺子屋缺乏统一度量与近代科技内容，无法提供工业强国所需的现代劳动力。
-> - **直接导火索 / 触发事件** 1853 年美国佩里舰队“黑船来航”，以坚船利炮彻底击碎幕府国防幻象，使日本精英将西方科技优势深刻归因于其背后的现代国民教育体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
+> - **直接导火索 / 触发事件** 1853 年美国佩里舰队“黑船来航”，以坚船利炮彻底击碎幕府国防幻象，使日本精英将西方科技优势深刻归因于其背后的现代[[National Education|国民教育]]体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
 

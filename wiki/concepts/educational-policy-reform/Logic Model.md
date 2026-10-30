@@ -8,7 +8,7 @@ aliases:
 summary: "把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具，用于形成共享预期并组织形成性反馈。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Counterfactual]]"
+  - "[[Epistemic Stances]]"
   - "[[Competitiveness]]"
   - "[[Technology Infusion]]"
   - "[[Implementation Fidelity]]"
@@ -38,7 +39,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -50,7 +51,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 
 在[[University-Industry Collaboration|产学合作]]领域，逻辑模型被应用于评估伙伴关系的绩效——迫使评估者明确投资的理由和目标，区分计划工作（包括所需投入和由此实现的活动）、产生的输出，以及这些输出最终对组织和更广泛系统产生的影响。任何伙伴关系投资绩效的评估还应反思考量的”[[Counterfactual|反事实]]”——在没有这些投资的情况下会实现什么结果和影响（即”影响的额外性”，additionality of impacts）（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, p.23]]）。
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemic Stances|认识论立场]]
 > 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接因果箭头。它允许评价者同时关注实施过程和结果变化，并把形成性反馈重新带回项目投入和实施调整([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.115]])。
 
 在 [[Students and Teachers Accessing Tomorrow]] 的评价模型中，信息既从过程流向结果，也从[[Formative Program Evaluation|形成性项目评价]]数据回流到投入和实施过程。这种双向结构使逻辑模型成为[[Formative Program Evaluation|形成性项目评价]]和持续改进之间的桥梁([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.115]])。

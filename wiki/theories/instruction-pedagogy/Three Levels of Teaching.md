@@ -7,7 +7,7 @@ aliases:
 summary: "一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Student Engagement]]"
   - "[[Classroom Management]]"
+  - "[[Note-Taking]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-10-22
 >
 > - **学生是什么**
 >
->   教师负责掌握并清楚讲述内容，学生负责听课、记笔记、阅读和在考试中复述。学生没有学会时，原因被定位为学生缺陷。
+>   教师负责掌握并清楚讲述内容，学生负责听课、[[Note-Taking|记笔记]]、阅读和在考试中复述。学生没有学会时，原因被定位为学生缺陷。
 >
 > - **教师做什么**
 >

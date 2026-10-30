@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Determinism]]"
   - "[[Rationalized Myth]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Organizational Actorhood]]"
   - "[[Falsification]]"
   - "[[Otherhood]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
   - "[[Red Tape]]"
+  - "[[Document]]"
   - "[[Recontextualization]]"
   - "[[Geopolitics]]"
 related_theories:
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-10-22
 > - **学术重镇与发源** 斯坦福大学社会学系与教育学院（Stanford University），发轫于 20 世纪 70 年代，为社会学新制度主义（Sociological Institutionalism）与世界社会研究的学术大本营。
 > - **领军人物与代表学者** 奠基领袖为[[John W. Meyer|约翰·迈耶]]（John W. Meyer）；核心学者包括布赖恩·罗恩（Brian Rowan）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）；后继学者涵盖戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank）等。
 > - **核心研究纲领** 突破传统社会科学中的技术功能论（效率[[Determinism|决定论]]）与经济冲突论（阶级支配论），主张现代民族国家组织与大众教育体系并非微观生产力协调的产物，而是由超越国界的启蒙理性“[[Cultural Models|世界文化模型]]”与合法性仪式塑造而成；揭示普世规范扩散中的非强制同构与政策去耦合机制。
-> - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural [[Cognitive Decoupling|decoupling]]）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
+> - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural decoupling）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
 
 > [!citation-card] 斯坦福学派的核心理论渊源
 > 斯坦福学派的新制度主义社会学理论，将现代大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物；主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，构成了战后比较教育学中最为系统宏大的共识论学术传统。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 101–104)]]
@@ -105,13 +105,13 @@ updated: 2026-10-22
 > | **[[Organizational Actorhood\|组织行动者身份]]的建构** | 现代组织并非天然拥有独立意图的实体，而是被世界文化塑造成具备理性自主与社会责任的责任主体。 | 外部制度环境赋予组织自主权、战略规划与问责要求，推动学校与大学向具备完整管理边界的“完全组织”演进。 | 现代大学普遍建立独立的品牌传播、战略规划与社会责任部门，深陷评估[[Red Tape\|繁文缛节]]与形式化治理。 |
 
 
-> [!work-line] 学派代表性经典文献
+> [!work-line] 学派代表性经典[[Document|文献]]
 > - **1977 — *Institutionalized Organizations: Formal Structure as Myth and Ceremony***（Meyer & Rowan）开创组织社会学新制度主义，界定制度神话与仪式性合规。
 > - **1977 — *The World Educational Revolution, 1950–1970***（Meyer, Ramirez, Rubinson, & Boli-Bennett）首次以全球大样本实证检验证明大众教育扩张与国家工业化脱钩。
 > - **1987 — *The Political Construction of Mass Schooling: European Origins and Worldwide Spread***（Ramirez & Boli）揭示大众教育起源于欧洲民族国家确立成员身份与地缘防御的政治动员。
 > - **1997 — *World Society and the Nation-State***（Meyer, Boli, Thomas, & Ramirez）确立[[World Society Theory|世界社会理论]][[Paradigm|范式]]，系统论证世界文化模型驱动主权国家同构。
 > - **2000 — *The 'Actors' of Modern Society: The Cultural Construction of Social Agency***（Meyer & Jepperson）提出 [[Otherhood]] 理论，解构科学与专业代理人的规范输出机制。
-> - **2012 — *From Policy to Practice: The [[Cognitive Decoupling|decoupling]] of International Human Rights Law***（Bromley & Powell）系统发展政策-实践去耦合与手段-目标去耦合的双层[[Analytic Framework|分析框架]]。
+> - **2012 — *From Policy to Practice: The decoupling of International Human Rights Law***（Bromley & Powell）系统发展政策-实践去耦合与手段-目标去耦合的双层[[Analytic Framework|分析框架]]。
 
 ---
 

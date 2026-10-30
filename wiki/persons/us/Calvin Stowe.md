@@ -13,7 +13,7 @@ summary: "19世纪北美圣经学者与教育改革家，受俄亥俄州议会�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
   - theme/common-school
   - theme/educational-reform
 related_concepts:
+  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Auslandspadagogik]]"
@@ -52,14 +53,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 ## 简介
 
-卡尔文·斯托（Calvin Ellis Stowe, 1802–1886）是 19 世纪美利坚合众国著名教育思想家、古典学者与圣经文献学家。作为北美[[Common School Movement|公学运动]]的关键推手之一，他与[[Horace Mann|霍勒斯·曼]]（Horace Mann）和[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）并称为 19 世纪前期美国外国教育考察的三大代表人物。
+卡尔文·斯托（Calvin Ellis Stowe, 1802–1886）是 19 世纪美利坚合众国著名教育思想家、古典学者与圣经[[Document|文献]]学家。作为北美[[Common School Movement|公学运动]]的关键推手之一，他与[[Horace Mann|霍勒斯·曼]]（Horace Mann）和[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）并称为 19 世纪前期美国外国教育考察的三大代表人物。
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育思想家、圣经文学教授、俄亥俄州教育考察专员；19 世纪前期美国公学运动在俄亥俄与中西部边疆各州的代表人物。
@@ -95,7 +96,7 @@ updated: 2026-10-22
 斯托的比较教育与政策考察文本高度聚焦于 1836 年欧洲之行的政策成果，体现了典型的政策导向行政改良特征：
 
 > [!work-line] 主要著作
-> - **1837 — *[[Report on Elementary Public Instruction in Europe]]*** 斯托最著名、最具历史影响力的比较考察文献。报告详尽梳理了普鲁士、符腾堡、巴伐利亚等德意志各邦与法国、英国的初等学校建制、课程大纲、师资培训与国家督导机制，着力阐明非共和政体的君主国家如何成功实现普及全民初等教育，为美国各州建立公共学校提供了无可争议的可行性论据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–32)]]
+> - **1837 — *[[Report on Elementary Public Instruction in Europe]]*** 斯托最著名、最具历史影响力的比较考察[[Document|文献]]。报告详尽梳理了普鲁士、符腾堡、巴伐利亚等德意志各邦与法国、英国的初等学校建制、课程大纲、师资培训与国家督导机制，着力阐明非共和政体的君主国家如何成功实现普及全民初等教育，为美国各州建立公共学校提供了无可争议的可行性论据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–32)]]
 
 ---
 
@@ -120,7 +121,7 @@ updated: 2026-10-22
 斯托的思想与报告构成了美国公共教育史上从私人办学走向国家公共建制的重要转折点：
 
 > [!influence-path] 影响路径
-> - **政策立法路径** 斯托 1837 年报告直接推动了俄亥俄州初等公学立法的通过，确立了州立学校总监职位与公税供养原则；该报告跨越阿巴拉契亚山脉，被宾夕法尼亚、马萨诸塞等州议会官方印发，成为 19 世纪 30 年代美国各州议会辩论公校法案时引用频次最高的域外权威文献。
+> - **政策立法路径** 斯托 1837 年报告直接推动了俄亥俄州初等公学立法的通过，确立了州立学校总监职位与公税供养原则；该报告跨越阿巴拉契亚山脉，被宾夕法尼亚、马萨诸塞等州议会官方印发，成为 19 世纪 30 年代美国各州议会辩论公校法案时引用频次最高的域外权威[[Document|文献]]。
 > - **方法与学科路径** 斯托的欧洲调查确立了美国早期[[Auslandspadagogik\|外国教育学]]的调查规范：由民选立法机关授权官方调研，以详实的描述性记述（学校分布、师资待遇、课表与教学法）反哺本土法案设计，构成了从旅行见闻走向行政调查的过渡桥梁。
 > - **跨国思想转译** 斯托成功破除了美国公众对“借用欧洲专制君主国教育经验会腐蚀美利坚自由共和精神”的狭隘偏见，将普鲁士公学的技术卓越性（师范专业化、直观教学法与国民道德感）与政治专制外壳剥离开来，开创了美国借用欧陆经验的[[Pragmatic Paradigm\|实用主义]]修辞传统。
 

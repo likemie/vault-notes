@@ -10,7 +10,7 @@ summary: "由 Wineburg 与 McGrew (2019) 提出的网络信息与证据核验方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,10 +22,12 @@ tags:
   - theme/ai-literacy
   - theme/epistemology
 related_concepts:
+  - "[[Reading Strategies]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Unit of Analysis]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Chain of Evidence]]"
   - "[[Counterfactual]]"
   - "[[Dialogue in Education]]"
@@ -55,10 +57,10 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
-（横向阅读法 / 侧向阅读策略）
+（横向阅读法 / 侧向[[Reading Strategies|阅读策略]]）
 
 ---
 
@@ -82,7 +84,7 @@ updated: 2026-10-29
 > - **知识观** 认为数字化时代的任何单一文本或算法输出在认识论上都具有情境性、利益相关性与潜在脆弱性；文本的客观真实性不能单凭内部语义的自洽性来保证，必须通过外部独立网络的交叉审问来确证。
 > - **研究者与求知者角色** 从被动的“文本信息吸收者”转变为主动的“[[Internet-based Survey\|网络调查]]员与认识论法官”，行使怀疑与[[Triangulation\|三角互证]]的能动权。
 > - **有效性标准** 遵循[[Qualitative Research\|质性研究]]的可[[Reliability\|信度]]（Credibility）与证实性（Confirmability）标准，要求断言必须具备来自异质独立信源的交叉重合证据。
-> - **不声称回答的问题** 横向阅读不负责直接生成原始学术假说，也不替代深度的领域专业文献[[Meta-analysis\|元分析]]，其核心功能在于批判性过滤与信度裁决。
+> - **不声称回答的问题** 横向阅读不负责直接生成原始学术假说，也不替代深度的领域专业[[Document|文献]][[Meta-analysis\|元分析]]，其核心功能在于批判性过滤与信度裁决。
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性文本考证、数字民俗学、批判性[[Discourse Analysis\|话语分析]]与网络公民推理。

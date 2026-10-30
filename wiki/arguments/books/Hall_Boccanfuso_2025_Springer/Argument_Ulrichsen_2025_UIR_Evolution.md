@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of university-industry relationships for driving innovation"
 argument_kind: "book"
-argument_related_count: 44
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Professors of Practice]]"
   - "[[Seed Funding]]"
   - "[[Technology Transfer Office]]"
+  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
@@ -69,6 +70,7 @@ related_facts:
   - "[[MIT Radiation Laboratory]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Bell Labs]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
@@ -78,7 +80,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2025
 doi: ""
 citation_aliases:
@@ -186,7 +188,7 @@ Schot and Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Parad
 | 时期 | 大学的状态 | 例证 |
 |------|----------|----------|
 | 1800s | 许多大学从创立起就服务工业和地方经济 | MIT(1861)以"理工学院"命名，体现产业导向的办学宗旨 |
-| 1862/1890 | 美国 Morrill Acts 赠地建大学，设农业推广站 | 大学专家直接解决农民生产问题，形成研究-推广反馈循环 |
+| 1862/1890 | 美国 Morrill [[ASEAN Credit Transfer System\|Acts]] 赠地建大学，设农业推广站 | 大学专家直接解决农民生产问题，形成研究-推广反馈循环 |
 | 二战后–1970s | 政府研究资金暴涨，大学反而和产业"脱钩" | 获得 [[National Science Foundation\|NSF]] 大额拨款的教授不再需要对接企业的短期需求 |
 | 1980s–1990s | 政府通过 Bayh-Dole et al.政策"重新激活"产学链接 | [[Technology Transfer\|技术转移办公室（TTO）]]开始出现，在此之前几乎不存在 |
 | 2000s 至今 | "[[Third Mission\|第三使命]]"正式制度化 | 英国大学的"[[Knowledge Exchange\|知识交流]]副校长"、内部种子基金、大学科技园区 |
@@ -329,7 +331,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 > [!warning] 自述局限
 > 本章作为综述性章节，未明确陈述自身方法局限。但可识别以下边界条件：
 > - 分析主要聚焦美国、英国和部分欧洲国家，对中国之外的亚洲国家、非洲和拉丁美洲的 UIR 演变涉及有限
-> - 影响 UIR 的因素框架整合自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使文献间的可比性受限(p.49)
+> - 影响 UIR 的因素框架整合自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使[[Document|文献]]间的可比性受限(p.49)
 > - "[[Transformative Change\|变革转型]]"政策[[Paradigm\|范式]]仍处早期阶段，其实施证据有限——目前更接近一种规范性愿景而非已验证的政策框架(Lindner et al., 2024)(p.34)
 
 ---

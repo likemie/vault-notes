@@ -9,10 +9,10 @@ aliases:
 summary: "科学学与创造力研究中指学者、艺术家与导演在其职业生涯中出现的短期高集中度卓越产出时期。实证表明约 90% 的科研人员经历至少一次爆发期，大多具有终身唯一性，平均持续约 3.7–4 年；爆发期在学术生涯中的起始时机随机分布，爆发期间发文数量保持平稳，产出表现为成果单篇质量与影响力的集中提高。"
 type: concept
 domain: "science-policy"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-of-science
   - theme/scientific-career
@@ -25,17 +25,24 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Paradigm]]"
   - "[[Incubation]]"
+  - "[[Metascience]]"
+  - "[[Big Science]]"
+  - "[[Interaction Effect]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Random Impact Rule]]"
+  - "[[Hot Hand Fallacy]]"
   - "[[Hot-Streak Model]]"
   - "[[Burstiness in Human Activities]]"
-  - "[[Hot Hand Fallacy]]"
 related_methods:
   - "[[Pilot Testing]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[John B. Fenn]]"
   - "[[Lu Liu]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+  - "[[John B. Fenn]]"
 related_facts:
   - "[[National Institutes of Health]]"
 related_arguments:
@@ -102,7 +109,7 @@ updated: 2026-10-30
 > [!concept-proposition] 命题一｜学术爆发期在全生涯时序上的随机分布打破了青年[[Creativity|创造力]]垄断假说
 > **探讨维度　时序发生机制与年龄脱钩** 科学计量与创造力研究长期面临早年辉煌与大器晚成的经验争论。大数据分析表明，虽然爆发期内部的成果紧密相连，但爆发期本身在学者一生中的出现位置在统计上是均匀随机的。这一规律与[[Random Impact Rule|随机影响法则]]融贯统一，破除了创造力仅属于年轻时代的生物学宿命论。
 
-> [!claim] Liu, L., Wang, D., & Barabási, A.-L.
+> [!claim] [[Lu Liu|Liu, L.]], [[Dashun Wang|Wang, D.]], & [[Albert-László Barabási|Barabási, A.-L.]]
 > **爆发期起点与学者年龄统计独立** 刘路、王大顺与巴拉巴西基于数万名科学家的大样本实证指出，爆发期在个体学术生涯轴线上的分布不依赖于入行年限或生理年龄。如果爆发期出现在生涯早期，则造就青年成名；若出现在生涯晚期，则体现为典型的大器晚成。诺贝尔化学奖得主[[John B. Fenn|约翰·B·芬恩]]年过花甲被强制退休后，在 67 岁至 72 岁迎来毕生唯一的 5 年爆发期（1984–1989），完成电喷雾电离技术的系列突破。这表明研究人员步入高龄后并不必然失去颠覆性创新的可能，维持探索即可保有迎接爆发期的潜质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 79–80)]]
 
 ---
@@ -133,24 +140,24 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 概念演变
-> - **1985 — 体育认知心理学中的“热手谬误”** 吉洛维奇（Thomas Gilovich）等通过篮球投篮数据提出“热手谬误”（Hot Hand Fallacy），认为连中现象符合随机序列局部聚集。
-> - **2018 — 大数据科学学确立学术爆发期** 刘路（Lu Liu）、王大顺与巴拉巴西基于跨学科科学家、艺术家及导演的全生命周期大数据，建立[[Hot-Streak Model|爆发期模型]]，证实创造力爆发期是真实存在的非平稳局域激发态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–77)]]
-> - **2021 — 探索－利用机制与科技政策拓展** 王大顺与巴拉巴西在《科学的科学》中系统阐释爆发期的“探索后利用”认知驱动机制，并反思基金资助滞后与青年刚性年龄门槛对晚发型人才的淘汰效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 77–80)]]
+> - **1985 — 体育认知心理学中的“热手谬误”** 吉洛维奇（Thomas Gilovich）等通过篮球投篮数据提出“热手谬误”（[[Hot Hand Fallacy]]），认为连中现象符合随机序列局部聚集。
+> - **2018 — 大数据科学学确立学术爆发期** 刘路（Lu Liu）、王大顺与巴拉巴西基于跨学科科学家、艺术家及导演的全生命周期大数据，建立爆发期模型，证实创造力爆发期是真实存在的非平稳局域激发态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–77)]]
+> - **2021 — 探索－利用机制与科技政策拓展** 王大顺与巴拉巴西在《[[Metascience|科学的科学]]》中系统阐释爆发期的“探索后利用”认知驱动机制，并反思基金资助滞后与青年刚性年龄门槛对晚发型人才的淘汰效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 77–80)]]
 
 ---
 
 > [!warning|limits] 适用局限
 > - 爆发期检测依赖长周期的学者全量发表与被引记录，难以对刚入行的年轻学者开展即时预测。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–77)]]
-> - 模型基于个体为核心单元测度代表作序列，在数千人参与的大型粒子对撞机或跨国大科学协作网络中，个人爆发期与团队周期的交互作用仍有待进一步界定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 75–76)]]
+> - 模型基于个体为核心单元测度代表作序列，在数千人参与的大型粒子对撞机或跨国[[Big Science|大科学]]协作网络中，个人爆发期与团队周期的[[Interaction Effect|交互作用]]仍有待进一步界定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 75–76)]]
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 20,040 位科学家、3,480 位艺术家、6,233 位电影导演全生命周期产出记录 | 代表作联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$ 与变点检测识别 | 前两大代表作紧邻发表概率、爆发期经历比例与持续窗口 | 前两大代表作紧邻发表概率比随机预期高出 57%（1.57 倍）；90% 科学家、91% 艺术家、82% 导演经历至少 1 次爆发期，68% 终身仅 1 次；爆发期平均持续约 3.7–4 年（艺术影视约 5 年） | 显著偏离独立无偏模型（$p < .001$） | 证实爆发期是跨创造性领域的普遍动力学特征，且绝大多数个体终身仅有单次爆发窗口 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 经历爆发期的跨学科科学家队列（按生涯发文时序测度） | 爆发期内外发文频次与引文影响对比 | 发文年均篇数与单篇影响对比 | 爆发期内个体发文频次与非爆发期无统计学差异；代表作引文影响系统性跳升至基线高位状态 | 发文量差异无统计学显著性（$p > .10$） | 证实爆发期源于单篇研究质量与影响力的集中跳跃，而非发文数量维度的产能激增 |

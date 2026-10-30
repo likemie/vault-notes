@@ -10,7 +10,7 @@ subtype: program
 region: canada
 fact_region: "canada"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,12 +38,13 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[EdStats]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 加拿大教育部长理事会（CMEC）统筹省际政治意愿，联邦政府通过统计局提供专项技术资金支持。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
-> - **研发与数据中心** 加拿大统计局教育统计中心（Centre for Education Statistics）负责微观数据采集、权重计算、统计建模与年度分析发布。
+> - **研发与数据中心** 加拿大统计局教育统计中心（Centre for [[EdStats|Education Statistics]]）负责微观数据采集、权重计算、统计建模与年度分析发布。
 > - **一线执行机构** 各省及地区教育部负责统筹省内抽样学校组织、配合 [[PISA]] 实施与政策改进方案落地。
 > - **受试与受益对象** 全加各省 15 岁中学生群体与关注教育质量、教师培训标准的学校系统。
 

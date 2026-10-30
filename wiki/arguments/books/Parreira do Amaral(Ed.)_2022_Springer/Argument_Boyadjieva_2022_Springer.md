@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
+  - "[[Document]]"
   - "[[Hidden Curriculum]]"
   - "[[Research Universities]]"
   - "[[Employability]]"
@@ -60,7 +61,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-11
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -81,7 +82,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法类型** 规范性概念分析 + 批判性政策评论。研究先构建一个理论模型（多维使命模型），再以该模型为"检验标准"去审查 全球排名系统，识别后者在哪些维度上系统地偏离了高等教育的完整使命。
-> - **资料来源** 排名系统文件（[[Academic Ranking of World Universities\|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析(DeYoung & Baas, 2012)。
+> - **资料来源** 排名系统文件（[[Academic Ranking of World Universities\|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究[[Document|文献]]（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析(DeYoung & Baas, 2012)。
 
 
 > [!example] 论证结构

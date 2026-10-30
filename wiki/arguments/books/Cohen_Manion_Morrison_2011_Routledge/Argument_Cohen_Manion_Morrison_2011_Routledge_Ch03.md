@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Dialogue in Education]]"
   - "[[Positivism]]"
+  - "[[Politics of Knowledge]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -68,7 +69,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 > [!logic-map]- 第3章总体论证结构
 > ```mermaid
@@ -457,7 +458,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 
 这一批评进入了认识论辩论的核心领域：
 
-> [!evidence-grid] 知识政治学的三个追问
+> [!evidence-grid] [[Politics of Knowledge|知识政治]]学的三个追问
 > - **谁定义"知识传统"和学科边界？** 哪些群体的知识被承认为"科学的""严谨的""有价值的"？哪些群体的知识被标记为"主观的""轶事的""不可靠的"？
 > - **什么构成可接受的研究焦点和方法论？** 为什么某些研究问题（如课堂互动、学生认知）更容易获得资助，而另一些问题（如学校如何再生产种族不平等）被边缘化？
 > - **研究发现将如何被使用？** 研究是否会——无论研究者意图如何——服务于巩固既有权力结构的利益？

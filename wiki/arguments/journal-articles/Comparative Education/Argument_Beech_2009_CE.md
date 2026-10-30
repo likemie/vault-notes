@@ -36,6 +36,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Commensuration]]"
+  - "[[Document]]"
   - "[[Post-Fordism]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -78,7 +78,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
@@ -212,7 +212,7 @@ Castells 据此区分了两种空间逻辑：
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文献样本** | [[OECD]]（1990）、UNESCO（1996）等超国家组织的核心报告，以及阿根廷（2006）、巴西中等教育课程指南（1998）等国家政策与法律文本。 |
+> | **[[Document\|文献]]样本** | [[OECD]]（1990）、UNESCO（1996）等超国家组织的核心报告，以及阿根廷（2006）、巴西中等教育课程指南（1998）等国家政策与法律文本。 |
 > | **访谈样本** | 阿根廷和巴西的若干教师教育者（Teacher Educators），这群人直接负责培养未来的中小学教师。 |
 > | **经验案例** | [[Bolivian Education Reform 1994\|玻利维亚1994年教育改革]]、阿根廷跨文化双语教育项目、布宜诺斯艾利斯郊区（棚户区与富人区毗邻）的学校实践环境。 |
 
@@ -346,7 +346,7 @@ Castells 据此区分了两种空间逻辑：
 > [!case] 巴西 1990 年代课程改革：革新与保守的共存
 > 1990 年代阿根廷、巴西和智利的中等教育改革中，官方修辞强烈批判传统的百科全书主义（强调事实知识的[[Rote Learning\|死记硬背]]），宣布转向“能力导向课程”(Braslavsky, 1998; Berger Filho, 2001; Cox, 2004)。
 > 
-> 巴西教育部（Ministerio da Educação，MEC，1998）出台的中等教育指南将课程重组为三大领域（语言、自然科学与数学、[[Geisteswissenschaften|人文科学]]及其技术），并大力宣传“跨学科工作（interdisciplinary work）”的革新口号，以打破去语境化、割裂的传统分科模式。
+> 巴西教育部（Ministerio da Educação，MEC，1998）出台的中等教育指南将课程重组为三大领域（语言、自然科学与数学、人文科学及其技术），并大力宣传“跨学科工作（interdisciplinary work）”的革新口号，以打破去语境化、割裂的传统分科模式。
 > 
 > 然而，深入分析其课程文件的细则会发现：虽然在名义上以三大跨学科领域为基本结构，但每一个领域内部又被细分为多个传统科目（如物理、化学、历史等）。所有这些科目加在一起，不多不少正好是 14 门，与改革前的百科全书式分科结构完全相同。跨学科能力发展（革新）与百科全书式分科知识（保守）在同一份官方文件中达成了奇妙的和平共存。
 

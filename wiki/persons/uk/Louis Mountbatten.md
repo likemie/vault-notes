@@ -8,10 +8,10 @@ summary: "英国海军将领与公共人物，1968年后把联合世界书院从
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1900"
 died: "1979"
 lifespan: "1900–1979"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
+  - "[[Document]]"
 related_persons:
   - "[[Desmond Hoare]]"
   - "[[Kurt Hahn]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -118,6 +119,6 @@ updated: 2026-10-22
 > 人物形象主要来自同事和运动参与者亚历克·彼特森（[[Alec Peterson]]）的回忆，并包含作者对菲利普·齐格勒传记的转述。材料详细呈现组织者眼中的工作方式和贡献，却不能单独代表各国委员会、政府、学校员工或学生对蒙巴顿的评价。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–130)]]
 
 
-> [!evidence-grid] 文献与论证索引
+> [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–130)]] — 记录蒙巴顿的国际组织、政治动员、筹款及成员扩展工作。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–214, 216–217)]] — 将扩展放在和平目标、财政承诺与政府责任中讨论，并区分制度贡献与宏观效果宣称。

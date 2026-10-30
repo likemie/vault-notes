@@ -3,10 +3,10 @@ title: Xenophon
 type: person
 status: stable
 created: 2026-10-01
-updated: 2026-10-16
+updated: 2026-10-30
 nationality: greece
 person_region: "greece"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ summary: "古希腊历史学家、军人与哲学家，苏格拉底的学生，�
 aliases:
   - 色诺芬
 related_concepts:
+  - "[[Document]]"
   - "[[Liberal Education]]"
   - "[[Scientific Paradigm]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_persons:
 ---
 
 > [!abstract] 学者生平
-> **色诺芬（Xenophon，约前 430–前 354）**，古希腊著名的历史学家、军事家、哲学家，[[Socrates|苏格拉底]]（[[Socrates|苏格拉底]]）的重要门徒之一。出身雅典贵族，早年受教于苏格拉底；后作为雇佣军参与波斯王子小居鲁士争夺王位的长征，在希腊万名雇佣军首领遭背叛杀害后，临危受命率军历经艰险横穿敌境成功撤退，并写就军事历史名篇《长征记》（*Anabasis*）。晚年定居伯罗奔尼撒，著有大量关于历史、政治、哲学、苏格拉底言行与教育体制的经典文献。
+> **色诺芬（Xenophon，约前 430–前 354）**，古希腊著名的历史学家、军事家、哲学家，[[Socrates|苏格拉底]]（[[Socrates|苏格拉底]]）的重要门徒之一。出身雅典贵族，早年受教于苏格拉底；后作为雇佣军参与波斯王子小居鲁士争夺王位的长征，在希腊万名雇佣军首领遭背叛杀害后，临危受命率军历经艰险横穿敌境成功撤退，并写就军事历史名篇《长征记》（*Anabasis*）。晚年定居伯罗奔尼撒，著有大量关于历史、政治、哲学、苏格拉底言行与教育体制的经典[[Document|文献]]。
 
 在比较教育思想史与学科编年史中，色诺芬被视为古希腊世界最早系统记录并比较异邦教育制度与育人模式的代表人物之一。
 

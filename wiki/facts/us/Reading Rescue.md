@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,10 +25,12 @@ tags:
   - tier-3-intervention
   - region/us
 related_concepts:
+  - "[[Tutoring Interventions]]"
   - "[[Scaffolding]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Decodification]]"
+  - "[[Phonological Awareness]]"
   - "[[Response to Proven Instruction]]"
 related_theories: []
 related_methods:
@@ -46,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Reading Rescue（阅读营救）** 是由纽约市立大学（City University of New York, CUNY）著名阅读认知心理学家林妮娅·埃里（Linnea C. Ehri）与诺拉·德[[John Rex\|雷克斯]]勒（Nora Drexler）等学者联合研发、全美多地公立小学广泛采纳的早期读写一对一辅导干预项目；其核心目标是依托埃里享誉学界的词汇阅读认知阶段理论，通过校本专业读写协调员对普通教学助教（TA）与校园非专业支持人员开展系统带教，为小学一年级处于严重阅读障碍边缘的处境不利儿童提供高密度、个别化的每日 30 分钟精准救济。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **Reading Rescue（阅读营救）** 是由纽约市立大学（City University of New York, CUNY）著名阅读认知心理学家林妮娅·埃里（Linnea C. Ehri）与诺拉·德[[John Rex\|雷克斯]]勒（Nora Drexler）等学者联合研发、全美多地公立小学广泛采纳的早期读写一对一[[Tutoring Interventions|辅导干预]]项目；其核心目标是依托埃里享誉学界的词汇阅读认知阶段理论，通过校本专业读写协调员对普通教学助教（TA）与校园非专业支持人员开展系统带教，为小学一年级处于严重阅读障碍边缘的处境不利儿童提供高密度、个别化的每日 30 分钟精准救济。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 1990 年代末，2000 年代初在纽约市高贫困公立学校全面试点并开展系统实证评估，常态化运用于纽约市及其他城市学区逾二十年。
@@ -97,7 +99,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心实证结论
 > - **高达 +0.81 的超常学业[[Effect Size\|效应量]]** 在埃里等（Ehri et al., 2007）主导的实证评估中，接受 Reading Rescue 辅导的一年级弱势儿童在全美独立标准化阅读测验（如 Woodcock Reading Mastery Tests）上取得了平均 $+0.81$ 的超大因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Moderate 等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
-> - **对双语及语言少数群体的卓越保护力** 实证研究显示，该方案对母语非英语（ELs）的弱势儿童展现出尤为强劲的补偿成效，显著克服了因家庭语言环境劣势带来的语音意识滞后。
+> - **对双语及语言少数群体的卓越保护力** 实证研究显示，该方案对母语非英语（ELs）的弱势儿童展现出尤为强劲的补偿成效，显著克服了因家庭语言环境劣势带来的[[Phonological Awareness|语音意识]]滞后。
 > - **极高的经济可行性与师资扩展性** 借由“一名专业协调员带教数名非专业助教”的杠杆机制，单校受益儿童人数扩大了 4 至 6 倍，用工成本仅为全职外聘阅读专家模式的分之一。
 
 > [!stat-cards]- 关键实证数据

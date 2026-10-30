@@ -10,9 +10,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[ASEAN]]"
 year: 2007
@@ -44,14 +44,16 @@ related_facts:
   - "[[EU]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[ASEAN Intergovernmental Commission on Human Rights]]"
+  - "[[ASEAN Economic Community]]"
   - "[[ASEAN Regional Forum]]"
+  - "[[Court of Justice of the European Union]]"
   - "[[Coreper]]"
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +93,7 @@ updated: 2026-10-29
 > [!actor-grid] 实施角色分工
 > - **最高决策主体（东盟首脑峰会）** 由十国领导人组成，每年举行两次会议，确立重大战略方针并拥有最终裁决权。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 > - **综合统筹主体（东盟协调理事会）** 由成员国外交部长组成，负责为峰会做准备并监督宪章条款的跨部门协调。
-> - **支柱业务主体（三大共同体理事会）** 统领政治安全（APSC）、经济（AEC）、社会文化（ASCC）各自配置下的部长级专门委员会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
+> - **支柱业务主体（三大共同体理事会）** 统领政治安全（APSC）、经济（[[ASEAN Economic Community|AEC]]）、社会文化（ASCC）各自配置下的部长级专门委员会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 > - **常设日常中介（CPR 与秘书处）** [[Committee of Permanent Representatives to ASEAN|常驻东盟代表委员会]]（CPR）负责常态化业务对接，东盟秘书处承担行政执行与记录保障。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 532–533)]]
 
 > [!pathways] 实施路径
@@ -109,7 +111,7 @@ updated: 2026-10-29
 > [!finding-cards] 效果与评价
 > - **确立现代国际组织法定外壳** 结束了东盟长达 40 年缺乏条约法地位的历史，为东南亚在国际多边体系中以统一实体行动确立了宪制基石。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 > - **强化亚太地缘合作的东盟中心地位** 宪章确立的[[Open-Mindedness|开放性]]多边合作机制，巩固了东盟主导东亚峰会、东盟+3 及[[ASEAN Regional Forum|东盟地区论坛]]的政治合法性。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 528–529)]]
-> - **履约机制空心化瓶颈** 缺乏类似欧洲法院的超国家司法审判实体与多数表决规程，导致宪章倡导的规则约束高度依赖成员国自觉配合，集体问责能力受到严格制约。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523–524)]]
+> - **履约机制空心化瓶颈** 缺乏类似[[Court of Justice of the European Union|欧洲法院]]的超国家司法审判实体与多数表决规程，导致宪章倡导的规则约束高度依赖成员国自觉配合，集体问责能力受到严格制约。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523–524)]]
 
 > [!stat-cards]- 核心数据
 > - **10** （个） 签署并批准《东盟宪章》的东南亚主权成员国数量。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 522)]]

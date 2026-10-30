@@ -7,7 +7,7 @@ summary: "德国当代著名哲学家、社会理论家，法兰克福学派第�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Intentionality]]"
   - "[[Infusion Approach]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （阿克塞尔·霍耐特）
@@ -78,7 +79,7 @@ updated: 2026-10-22
 > - **2003** 与美国批判女权主义哲学家南希·弗雷泽（Nancy Fraser）展开载入当代政治哲学史的“再分配还是承认”世纪大论战，出版合著《再分配还是承认？一个政治-哲学交换》（*Redistribution or Recognition?*）。
 > - **2008** 出版《物化：[[Recognition Theory|承认理论]]的重构》（*Reification: A New Look at an Old Idea*），将存在论层面的原初承认确立为社会交往的第一基石。
 > - **2011** 出版法哲学巨著《自由的权利》（*Das Recht der Freiheit*），系统论证现代民主社会三大领域的社会自由实现。
-> - **2021** 丹麦学者尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）将霍耐特的承认理论与舍恩[[Technical Rationality|技术理性]]批判相结合，对可见学习底层实证数据开展文献学质检，引发全球[[Evidence-Based Education|循证教育]]界对[[Intentionality|主体意向性]]消解的深刻反思。
+> - **2021** 丹麦学者尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）将霍耐特的承认理论与舍恩[[Technical Rationality|技术理性]]批判相结合，对可见学习底层实证数据开展[[Document|文献]]学质检，引发全球[[Evidence-Based Education|循证教育]]界对[[Intentionality|主体意向性]]消解的深刻反思。
 
 ---
 

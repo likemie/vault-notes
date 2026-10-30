@@ -8,7 +8,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Chain of Evidence]]"
 related_theories: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-16
 > PPN 由兰德公司儿童与政策倡议中心发起，受到威廉与弗洛拉·惠普尔基金会等多家慈善基金支持。
 >
 > - **先驱性循证平台** 在 [[What Works Clearinghouse\|WWC]] 成立之前，PPN 与 [[Blueprints for Healthy Youth Development\|Blueprints]] 共同开创了美国早期循证项目独立评级[[Paradigm\|范式]]。
-> - **全美政策参考书** 结项后发布的《改善儿童生活的行之有效与有前景实践指南》（RAND Tools TL145）成为[[Evidence-Based Education\|循证教育]]与社会干预的重要历史文献基准。
+> - **全美政策参考书** 结项后发布的《改善儿童生活的行之有效与有前景实践指南》（RAND Tools TL145）成为[[Evidence-Based Education\|循证教育]]与社会干预的重要历史[[Document|文献]]基准。
 
 ---
 

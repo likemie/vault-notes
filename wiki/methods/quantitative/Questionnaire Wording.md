@@ -37,11 +37,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Questionnaire Wording
-> 问卷措辞（Questionnaire Wording）指[[Questionnaire\|问卷]]题项的语言表述方式，包括用词选择、句子结构、语气和隐含假设。措辞不当可能系统性偏差受访者的回答，甚至使数据完全无法使用。理想问卷应具备与好法律相同的属性：**清晰、无歧义和工作可行**——减少参与者和数据分析者的潜在错误，激励参与者，并尽可能确保受访者讲真话（Davidson, 1970）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 157–163]]）。
+> [[Questionnaire|问卷]]措辞（Questionnaire Wording）指[[Questionnaire\|问卷]]题项的语言表述方式，包括用词选择、句子结构、语气和隐含假设。措辞不当可能系统性偏差受访者的回答，甚至使数据完全无法使用。理想问卷应具备与好法律相同的属性：**清晰、无歧义和工作可行**——减少参与者和数据分析者的潜在错误，激励参与者，并尽可能确保受访者讲真话（Davidson, 1970）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 157–163]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 问卷措辞不是美化语言的修辞练习，而是方法论层面的偏差控制——措辞方式决定了受访者如何理解问题、参照什么标准做出判断、以及最终给出什么类型的回答。措辞是问题和回答之间的翻译层。

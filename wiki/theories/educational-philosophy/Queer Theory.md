@@ -5,7 +5,7 @@ aliases:
 summary: "建立在并超越女性主义与同性恋研究的批判理论视角；将身份界定为相对于主导规范的反对性位置性而非先验本质，通过解构正常与越轨的权力分类体系，直接质询制度化规范并关注阶级、族裔与残障交织的差异政治。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 12
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,20 +21,27 @@ tags:
   - educational-philosophy
 related_concepts:
   - "[[Discourse]]"
-  - "[[Construct]]"
-  - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Performativity]]"
+  - "[[Analytical Stance]]"
+  - "[[Construct]]"
+  - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
+  - "[[School Bullying]]"
+  - "[[Reflexivity]]"
+  - "[[Operationalization]]"
+  - "[[Variable]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
   - "[[Postmodernism]]"
   - "[[Post-colonial Theory]]"
 related_methods:
-  - "[[Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
 related_instruments: []
-related_persons:
-  - "[[David Halperin]]"
-  - "[[Eve Kosofsky Sedgwick]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
@@ -49,7 +56,7 @@ updated: 2026-10-30
 > [!theory-position] 理论定位
 > - **解释对象** 性别、性取向与身份表达的社会建构机制，以及制度化规范对“越轨”行为的分类、收编与压制过程。
 > - **理论问题** 既有女性主义与身份政治往往假定固定、统一的本质主义身份范畴，反向巩固了二元对立的分类体系；酷儿理论致力于解构分类背后的规范权力。
-> - **理论类型** 批判视角与后结构主义解构框架（Critical & Deconstructive Framework）。
+> - **理论类型** 批判视角与[[Post-structuralism|后结构主义]]解构框架（Critical & Deconstructive Framework）。
 > - **知识位置** 隶属于[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]哲学谱系，与女性主义理论、[[Post-colonial Theory|后殖民理论]]共同构成身份与差异政治的批判分析工具。
 
 > [!claim] 核心判断
@@ -60,12 +67,12 @@ updated: 2026-10-30
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 20 世纪 90 年代初由特雷莎·德·劳雷蒂斯（Teresa de Lauretis）、朱迪斯·巴特勒（Judith Butler）、伊芙·科索夫斯基·塞奇威克（Eve Kosofsky Sedgwick, 1990）与戴维·霍尔珀林（David Halperin, 1997）等学者在批判女性主义与同性恋研究的本质主义倾向中系统奠基。
 > - **原初问题** 传统同性恋平权运动与部分早期女性主义倾向于将性少数群体作为某种既定的固定范畴进行合法化争取，这种策略不自觉地将异性恋二元规范确立为不可动摇的参照系。
-> - **理论资源与材料** 汲取福柯《性史》中关于权力、话语与性规范建构的考古学批判，德里达的解构主义哲学，以及激进女性主义对父权制异性恋正统性的质疑。
+> - **理论资源与材料** 汲取福柯《性史》中关于权力、[[Discourse|话语]]与性规范建构的考古学批判，德里达的解构主义哲学，以及激进女性主义对父权制异性恋正统性的质疑。
 > - **形成路径** 从“追问个体拥有何种身份”转向“追问何种规范系统在制造正常与变态的界限”；霍尔珀林（Halperin, 1997）系统形式化了“酷儿即位置性”的核心定义，使该视角从具体的性政治拓展为审视一切正统规范的批判认知工具。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1990 — 本质主义身份范畴的解构** 塞奇威克（Sedgwick, 1990）发表《密室认识论》（*Epistemology of the Closet*），巴特勒发表《性别麻烦》，确立性别的后天扮演性（performativity）与语言建构性。
-> - **1997 — 位置性定义的正式确立** 戴维·霍尔珀林（Halperin, 1997）在《圣福柯》中提出位置性命题，切断酷儿与固定生理或心理本质的捆绑，确立其作为对立性批判立场的知识属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Halperin, 1997 via Cohen et al., 2011, p. 414)]]
+> - **1990 — 本质主义身份范畴的解构** 塞奇威克（Sedgwick, 1990）发表《密室[[Epistemology|认识论]]》（*Epistemology of the Closet*），巴特勒发表《性别麻烦》，确立性别的后天扮演性（[[Performativity|performativity]]）与语言建构性。
+> - **1997 — 位置性定义的正式确立** 戴维·霍尔珀林（Halperin, 1997）在《圣福柯》中提出位置性命题，切断酷儿与固定生理或心理本质的捆绑，确立其作为对立性[[Analytical Stance|批判立场]]的知识属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Halperin, 1997 via Cohen et al., 2011, p. 414)]]
 > - **2010s 至今 — 教育研究中的交织性与制度批判应用** 教育学者将酷儿视角引入学校社会学，系统剖析二元性别校规、隐含异性恋正统的性教育课程以及校园日常霸凌中的微观权力运作。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 414)]]
 
 ---
@@ -74,7 +81,7 @@ updated: 2026-10-30
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
-> | **位置性（Positionality）** | 核心构念 | 将身份界定为相对于主导规范的反对立场，超越内在固有的生理或心理本质。 |
+> | **位置性（Positionality）** | 核心[[Construct\|构念]] | 将身份界定为相对于主导规范的反对立场，超越内在固有的生理或心理本质。 |
 > | **异性恋正统性（Heteronormativity）** | 分析重点 | 将男女二元对应与异性恋模式自然化、正统化并贬抑其他存在的隐性制度规范。 |
 > | **越轨与分类意识形态** | 权力机制 | 统治阶级通过设立“正常 vs 异常”的二元分类标签，实现对群体行为的社会规训与区隔。 |
 > | **交织性中介（Intersectionality）** | 分析维度 | 揭示性别与性取向压迫必然与社会阶级、族裔背景、肤色及残障等不平等相互渗透交织。 |
@@ -96,9 +103,9 @@ updated: 2026-10-30
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 学校教育制度与课程文本中潜藏着何种未受审视的正常化规范？教育政策如何将特定群体建构为“偏差”或“越轨”？
-> - **分析对象与单位** 校园管理制度、校规文本、性教育教材、课堂师生话语互动；分析单位为分类范畴、二元对立话语与越轨惩戒事件。
-> - **需要的材料** 政策文本、校服与空间管理细则、师生日常言语交谈转录、校园欺凌与辅导个案记录。
+> - **[[Research Question|研究问题]]** 学校教育制度与课程文本中潜藏着何种未受审视的正常化规范？教育政策如何将特定群体建构为“偏差”或“越轨”？
+> - **分析对象与单位** 校园管理制度、校规文本、性教育教材、课堂师生话语互动；[[Unit of Analysis|分析单位]]为分类范畴、二元对立话语与越轨惩戒事件。
+> - **需要的材料** 政策文本、校服与空间管理细则、师生日常言语交谈[[Transcription in Qualitative Research|转录]]、[[School Bullying|校园欺凌]]与辅导个案记录。
 > - **解释目标** 揭露看似中立的教育规范背后的排他性权力运作，支持多样化与个体独特性的制度空间拓展。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -113,16 +120,16 @@ updated: 2026-10-30
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 涉及性别规范、身体规训、边缘群体排斥以及文化正统性再生产的教育制度与微观话语互动。
-> - **成立条件** 研究者具备高度反思性，能够解构自身的研究语言与预设范畴。
-> - **解释不足** 过度强调流动态与去范畴化，容易削弱集体政治行动的组织动员基础；在推进具体法律权益与资源分配政策时面临操作化困难。
-> - **转化困难** “无本质的位置性”构念高度抽象，在量化实证研究中极难直接转化为具有信效度的标准化测量变量。
+> - **成立条件** 研究者具备高度[[Reflexivity|反思性]]，能够解构自身的研究语言与预设范畴。
+> - **解释不足** 过度强调流动态与去范畴化，容易削弱集体政治行动的组织动员基础；在推进具体法律权益与资源分配政策时面临[[Operationalization|操作化]]困难。
+> - **转化困难** “无本质的位置性”构念高度抽象，在量化实证研究中极难直接转化为具有信效度的标准化测量[[Variable|变量]]。
 > - **不能直接推出** 解构主导规范并不倡导毫无公共秩序的极端虚无主义，亦不能直接替代对宏观经济分配正义的制度建构。
 
 ---
 
 > [!debates] 理论争议
 >
-> > [!axis] 激进解构去范畴化 vs 实用主义平权诉求
+> > [!axis] 激进解构去范畴化 vs [[Pragmatic Paradigm|实用主义]]平权诉求
 > > 围绕彻底解构身份标签是否会导致平权运动丧失政治法律主体展开争鸣。
 > >
 > > - **实用主义平权派** 主张在现有法律框架下，必须保留明确的身份范畴（如同性伴侣、反歧视条款保护群体），才能有效争取权益与提起司法诉讼。
@@ -137,4 +144,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 将酷儿理论纳入批判范式谱系，系统梳理霍尔珀林关于位置性而非实在性的定义，确立其在教育研究中质询正统规范的分析价值（p. 414）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 将酷儿理论纳入批判[[Paradigm|范式]]谱系，系统梳理霍尔珀林关于位置性而非实在性的定义，确立其在教育研究中质询正统规范的分析价值（p. 414）。

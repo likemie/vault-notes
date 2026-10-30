@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -39,8 +39,10 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Innovation Hub]]"
   - "[[Heterogeneity]]"
+  - "[[Lecturing]]"
   - "[[Evidence-Based Education]]"
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Teacher Qualifications]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -180,7 +182,7 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 >
 > [!lessons] 经验教训与启示
 > 1. **政策推广必须考量要素供给弹性** 缩减班级规模（CSR）不是单纯的物理空间再分配，其成败高度受制于劳动力市场中合格教师的供给存量。脱离教师质量的盲目扩班，极易重蹈加州政策失灵的覆辙。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 7)]]
-> 2. **班级空间缩编必须联动教学法转型** 若教师在 15 人的小班中依然机械沿用面向 30 人大班的单一讲授法，小班的师生互动潜力便无法激活；必须同步为教师配备针对性的小组协作与[[Individualised Instruction\|个别化教学]]专业发展培训。
+> 2. **班级空间缩编必须联动教学法转型** 若教师在 15 人的小班中依然机械沿用面向 30 人大班的单一[[Lecturing|讲授法]]，小班的师生互动潜力便无法激活；必须同步为教师配备针对性的小组协作与[[Individualised Instruction\|个别化教学]]专业发展培训。
 > 3. **防范元分析平均值掩盖非线性阈值红利** 不能以跨学段、跨学科的全局平均效应量（$d \approx 0.20$）直接否定低年级起步阶段及弱势族群面临的超常补偿红利（$d > 0.60$）。
 
 ---
@@ -196,6 +198,6 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 > | [[Evidence-Based Education]] | Concept | STAR 揭示了循证教育在从“实验室证据”走向真实世界公共政策外推时的结构性局限。 |
 > | [[Visible Learning]] | Concept | Snook 等学者以 STAR 项目的强[[Effect Size\|效应量]]为武器，深度质疑 Hattie 对班级规模的[[Meta-analysis\|元分析]]评级。 |
 > | [[Effect Size]] | Concept | STAR 的大效应量（0.62–0.66）与跨[[Research Synthesis\|研究综合]]均值（约 0.20）的张力构成了效应量方法论辩论的名篇。 |
-> | [[Programme Fidelity vs Adaptation]] | Concept | 真实政策实施中家长施压调班与教师资质稀释体现了干预依从度与本土适应的冲突。 |
+> | [[Programme Fidelity vs Adaptation]] | Concept | 真实政策实施中家长施压调班与[[Teacher Qualifications\|教师资质]]稀释体现了干预依从度与本土适应的冲突。 |
 > | [[Picking Up the Pace]] | Fact (Program) | 新西兰本土小学低段类似小班干预，印证了小班化与教学法革新协同增益的机制。 |
 > | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | Argument | [[John Hattie\|哈蒂]]在第二回合辩论中对 Snook 就 STAR 项目元分析效应量低估批判的回应与均值辩护。 |

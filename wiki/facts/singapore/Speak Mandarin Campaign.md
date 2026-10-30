@@ -9,7 +9,7 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,7 +21,8 @@ tags:
   - theme/national-identity
   - theme/nation-building
   - region/singapore
-related_concepts: []
+related_concepts:
+  - "[[Dialect Use]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Imagined Community]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心干预假说
-> 通过在教育体系与公共传媒中强力推行标准华语并全面限制方言使用，能够有效减轻下一代的语言学习负荷，消解按方言划分的地缘帮派壁垒，建立起兼顾全球化商业沟通（英语）与东方伦理根基（华语）的国家文化人格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> 通过在教育体系与公共传媒中强力推行标准华语并全面限制[[Dialect Use|方言使用]]，能够有效减轻下一代的语言学习负荷，消解按方言划分的地缘帮派壁垒，建立起兼顾全球化商业沟通（英语）与东方伦理根基（华语）的国家文化人格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 促使所有华裔新加坡人以标准华语作为家庭、社群与公共交往的共同语言，全面取代汉语方言。

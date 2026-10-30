@@ -8,7 +8,7 @@ summary: "美国思想家、散文家与诗人，19世纪超验主义运动领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,12 +25,15 @@ tags:
 related_concepts:
   - "[[Externalization]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Epistemic Resources]]"
+  - "[[Agile Governance]]"
   - "[[Engineering Mindset]]"
   - "[[Technological Republic]]"
   - "[[Positivism]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Habitus]]"
   - "[[Creativity]]"
-  - "[[Epistemology]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -45,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -98,12 +101,12 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定美国超验主义哲学传统，直接启迪杜威实用主义认识论；其倡导的自立与动态求真哲学被现代工程学界吸收为重要认识论资源。
+> - **理论路径** 奠定美国超验主义哲学传统，直接启迪[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]；其倡导的自立与动态求真哲学被现代工程学界吸收为重要[[Epistemic Resources|认识论资源]]。
 > - **方法路径** 倡导面向物理现实与具体实践的行动主义认识论，警惕盲从先验教条与理论惯性。
-> - **文化与实践路径** 深刻影响现代高科技研发与工程文化，成为抵御组织内部平庸顺从压力、鼓励快速止损与敏捷试错的哲学武器。
+> - **文化与实践路径** 深刻影响现代高科技研发与工程文化，成为抵御组织内部平庸顺从压力、鼓励快速止损与[[Agile Governance|敏捷试错]]的哲学武器。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 阐释爱默生《论自信》中非顺从与抛弃理论尸体思想，将其转化为现代工程思维快速止损与迭代创新的哲学根基（pp. 158–159）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 阐释爱默生《论自信》中非顺从与抛弃理论尸体思想，将其转化为现代[[Engineering Mindset|工程思维]]快速止损与迭代创新的哲学根基（pp. 158–159）。
 
 ---
 
@@ -134,7 +137,7 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|
-> | [[Critical Thinking Disposition]] | 概念 | 爱默生的非从众与抛弃理论尸体构成了批判性心智习性的重要哲学渊源。 |
+> | [[Critical Thinking Disposition]] | 概念 | 爱默生的非从众与抛弃理论尸体构成了批判性心智[[Habitus\|习性]]的重要哲学渊源。 |
 > | [[Creativity]] | 概念 | 其反抗既有共识、倡导无中生有的创造哲学被用于阐释颠覆性创造力。 |
 > | [[Engineering Mindset]] | 概念 | 其果断弃绝错误理论的思想被转化为工程研发快速止损与迭代的[[Epistemology\|认识论]]基础。 |
 > | [[John Dewey]] | 人物 | 继承爱默生的经验实践与反教条传统，系统构建[[Pragmatic Paradigm\|实用主义]]认识论的大师。 |

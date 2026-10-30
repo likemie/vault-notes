@@ -27,6 +27,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Enlightenment]]"
   - "[[Geisteswissenschaften]]"
@@ -81,6 +82,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Janusz Tomiak]]"
   - "[[Robert Cowen]]"
+  - "[[Diana Crane]]"
   - "[[Edmund King]]"
   - "[[Friedrich Schneider]]"
   - "[[Oskar Anweiler]]"
@@ -110,6 +112,7 @@ related_facts:
   - "[[Max Planck Institute for Human Development]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
+  - "[[National Education]]"
   - "[[Office of Special Inquiries and Reports]]"
   - "[[British Association for International and Comparative Education]]"
   - "[[Mediterranean Society of Comparative Education]]"
@@ -124,14 +127,14 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 96
+argument_related_count: 99
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -177,7 +180,7 @@ publisher: "Springer"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文献与文本样本** | 涵盖 19 世纪经典著作（Jullien, Dilthey）、20 世纪学科奠基专著（Sadler, Hans, Schneider, [[Franz Hilker\|Hilker]], Lauwerys, Holmes, Robinsohn, King, Anweiler, Schriewer）以及当代前沿文献与学会论文集（1994 哥本哈根、2006 格拉纳达）。（pp.98–99） |
+> | **[[Document\|文献]]与文本样本** | 涵盖 19 世纪经典著作（Jullien, Dilthey）、20 世纪学科奠基专著（Sadler, Hans, Schneider, [[Franz Hilker\|Hilker]], Lauwerys, Holmes, Robinsohn, King, Anweiler, Schriewer）以及当代前沿文献与学会论文集（1994 哥本哈根、2006 格拉纳达）。（pp.98–99） |
 > | **机构与组织样本** | 英国伦敦大学教育研究院（Institute of Education, IOE）、国王学院、牛津大学、剑桥大学；德国汉堡大学、波鸿大学、海德堡大学、[[Leibniz Institute for Educational Research and Educational Information\|德国国际教育研究所]]（Deutsches Institut für Internationale Pädagogische Forschung, DIPF）、[[Max Planck Institute for Human Development\|柏林马克斯·普朗克教育研究所]]、柏林洪堡大学；法国国际教学研究中心（Centre international d'études pédagogiques, CIEP）；[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）及各国国家、区域和语言学会；国际组织：[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（OECD）、国际教育成就评价协会（IEA）、[[World Bank\|世界银行]]（World Bank）。（pp.89–92） |
 > | **历史时空覆盖** | 覆盖 19 世纪拿破仑战争后、一战后、二战后冷战时期、两德统一与东欧剧变、世纪之交欧洲一体化深入推进全周期。（pp.87–98） |
 
@@ -214,7 +217,7 @@ publisher: "Springer"
 19 世纪民族国家的崛起，将公共教育主权牢牢锚定在领土边界之内，确立了比较教育最基本的经验容器。（p.87）
 
 > [!claim] 民族国家对教育主权的垄断奠定了比较教育的经验容器
-> 19 世纪初，[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）曾构想在神圣同盟的欧洲版图内建立跨国教育比较体系，寄望以实证数据促进欧洲的和平治理。然而，这一启蒙主义构想很快被法国大革命后席卷全欧的民族国家浪潮所取代。（p.87）在整个 19 和 20 世纪，民族国家确立了对公共教育主权的全面垄断，使得以领土为边界的国民教育体制成为比较教育最主要、最持久的[[Unit of Analysis|分析单元]]。（pp.87, 94）
+> 19 世纪初，[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）曾构想在神圣同盟的欧洲版图内建立跨国教育比较体系，寄望以实证数据促进欧洲的和平治理。然而，这一启蒙主义构想很快被法国大革命后席卷全欧的民族国家浪潮所取代。（p.87）在整个 19 和 20 世纪，民族国家确立了对公共教育主权的全面垄断，使得以领土为边界的[[National Education|国民教育]]体制成为比较教育最主要、最持久的[[Unit of Analysis|分析单元]]。（pp.87, 94）
 
 然而，欧洲比较教育学者从未放弃对共同精神传统的追寻。在国别制度的多样性背后，欧洲统一性的文化理想始终发挥着向心凝聚作用。（p.88）
 
@@ -240,7 +243,7 @@ publisher: "Springer"
 在大学教席与实体机构层面，英国与德国构成了 20 世纪欧洲比较教育的两大支柱性核心，并在战后逐步向全欧扩散：（pp.89–91）
 
 > [!line-a] 英国学术脉络：从[[Michael Sadler|萨德勒]]遗产到伦敦大学教育研究院知识高地
-> 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设[[Office of Special Inquiries and Reports|特别查询与报告办公室]]（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、[[Janusz Tomiak|雅努什·托米亚克]]（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦克莱恩（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
+> 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设[[Office of Special Inquiries and Reports|特别查询与报告办公室]]（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、[[Janusz Tomiak|雅努什·托米亚克]]（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦[[Diana Crane|克莱恩]]（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
 
 > [!line-b] 德国学术脉络：从天主教人文全景到冷战阵营研究与两德融合
 > 德国比较教育早期主要依靠[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）的个人专著奠基。战后，汉堡大学、马堡大学、海德堡大学、波鸿鲁尔大学（[[Oskar Anweiler|奥斯卡·安维勒]]、阿迪克）、明斯特大学，以及[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF，舒尔策、[[Wolfgang Mitter|沃尔夫冈·米特]]）和[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（罗宾逊、戈尔德施密特）先后设立教席与研究实体。两德统一后，西德部分大学虽因财政紧缩出现教席收缩，但学科重心向东部转移，柏林洪堡大学（[[Jurgen Schriewer|于尔根·施里韦尔]]主持）、莱比锡大学（赫尔纳）与德累斯顿工业大学（瓦特坎普）成为新的学术重镇。（pp.89–90）

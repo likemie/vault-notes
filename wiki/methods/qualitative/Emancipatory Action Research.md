@@ -8,7 +8,7 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Dialogue in Education]]"
+  - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Knowledge Building Theory]]"
@@ -55,13 +56,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Emancipatory Action Research
-> 解放性行动研究是[[Action Research\|行动研究]]中最激进的分支，以[[Jürgen Habermas\|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）的[[Critical Theory\|批判理论]]为[[Epistemology\|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 272–280)]]
+> 解放性[[Action Research|行动研究]]是[[Action Research\|行动研究]]中最激进的分支，以[[Jürgen Habermas\|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）的[[Critical Theory\|批判理论]]为[[Epistemology\|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 272–280)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 阻碍参与者自主与自由的制度性和人际性约束——不合法的压制、支配和控制结构。
@@ -236,4 +237,4 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research\|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation\|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心文献。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research\|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation\|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心[[Document|文献]]。

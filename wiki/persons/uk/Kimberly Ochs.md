@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策借用与跨国吸引类型学共同�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Discourse]]"
   - "[[Concept Mapping]]"
+  - "[[Document]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -64,7 +65,7 @@ updated: 2026-10-22
 
 
 > [!info] 四种吸引力"火花"
-> Ochs (2005) 将既有文献中使用外国范例的动机分类为四种（引自 Rappleye, 2006, p. 233）：
+> Ochs (2005) 将既有[[Document|文献]]中使用外国范例的动机分类为四种（引自 Rappleye, 2006, p. 233）：
 > 1. **警示（Caution）** — 用外国范例警示不要进行教育改革
 > 2. **颂扬（Glorify）** — 通过国际比较颂扬本国现行教育
 > 3. **合法化（Legitimate）** — 用外国范例为国内改革方案提供正当性

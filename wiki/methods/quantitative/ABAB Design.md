@@ -27,20 +27,20 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Research Question]]"
 related_methods:
-  - "[[Statistical Significance]]"
   - "[[Single-Case Design]]"
-  - "[[Repeated Measures Design]]"
   - "[[Experimental Research]]"
+  - "[[Statistical Significance]]"
+  - "[[Repeated Measures Design]]"
   - "[[Random Assignment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] ABAB Design
-> ABAB 设计（ABAB Design，亦称撤回设计或逆转设计）是单一案研究的核心实验格式，由 Kazdin (1982) 系统阐述。它通过四个阶段的交替——基线（A₁）、干预（B₁）、撤除（A₂）、再引入（B₂）——来建立个体层面的[[Causality\|因果推断]]。每个阶段内进行多次重复观测，行为变化与干预的引入和撤除精确对应时，干预效应得到有力确认（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 328–330]]）。
+> ABAB 设计（ABAB Design，亦称撤回设计或逆转设计）是[[Single-Case Design|单一案研究]]的核心实验格式，由 Kazdin (1982) 系统阐述。它通过四个阶段的交替——基线（A₁）、干预（B₁）、撤除（A₂）、再引入（B₂）——来建立个体层面的[[Causality\|因果推断]]。每个阶段内进行多次重复观测，行为变化与干预的引入和撤除精确对应时，干预效应得到有力确认（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 328–330]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 单个个体或小群体——在特殊教育、临床心理学、行为干预中最常用。
@@ -48,7 +48,7 @@ updated: 2026-10-29
 > - **[[Unit of Analysis\|分析单位]]** 个体行为在时间维度上的重复测量数据。
 > - **输出形式** 四阶段的行为变化折线图（视觉分析）。
 
-> [!method-position] 在实验设计谱系中的位置
+> [!method-position] 在[[Experimental Research|实验设计]]谱系中的位置
 > - **[[Causality\|因果推断]]逻辑** 如果只是 A→B，行为改善可能来自干预，也可能来自成熟或历史。撤除干预回到 A₂ 是关键——如果行为也随之回到基线，就排除了成熟和历史的替代解释。B₂ 是对 B₁ 的复制——两次独立验证使因果推断的可[[Reliability\|信度]]大幅提升。
 > - **有效性标准** 通过可逆性排除替代解释——因果推断力来自阶段间行为变化的**精确对应**，而非组间比较或[[Statistical Significance\|统计显著性]]。
 > - **不能回答的问题** 无法推广到其他个体或情境（推广性受限）；无法区分干预的多个成分（如果干预是复合的）。

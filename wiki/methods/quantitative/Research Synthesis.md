@@ -8,7 +8,7 @@ summary: "研究综合是系统检索、严格评估并整合针对特定研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - meta-analysis
 related_concepts:
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Network]]"
   - "[[Epistemology]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-29
 > 研究综合（Research Synthesis，亦称证据综合 Evidence Synthesis）是一个涵盖性方法家族与学术伞式术语，指运用系统、显式且可复现的方法，对针对特定[[Research Question|研究问题]]或公共政策议题的多项独立原始实证研究进行全面检索、方法学质量严格审查、信息提取与智力整合，旨在形成超越单一研究局限的高阶科学证据或决策咨询报告。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 针对特定主题公开发表或未发表的原始实证研究文献（期刊成果、硕博学位成果、学术专著、评估报告、预印本等）。
+> - **研究对象** 针对特定主题公开发表或未发表的原始实证研究[[Document|文献]]（期刊成果、硕博学位成果、学术专著、评估报告、预印本等）。
 > - **问题类型** 因果效应检验（干预措施是否有效）、[[Phenomenology|现象学]]解释（参与者体验与机制理解）、综合评价（政策方案比较）与证据基础诊断。
 > - **[[Unit of Analysis|分析单位]]** 独立的初级研究（Primary Study）或独立的[[Effect Size|效应量]]估计值（Effect Size）。
 > - **输出形式** 综合效应量估计与[[Confidence Interval|置信区间]]（量化[[Meta-analysis|元分析]]）、质性主题框架（元[[Ethnography|民族志]]/质性元整合）、证据图谱（Evidence Map）或结构化政策简报。

@@ -57,18 +57,18 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 欧洲经济合作组织（Organisation for European Economic Co-operation, OEEC；简称欧洲经合组织）是 1948 年为协调美国《马歇尔计划》（Marshall Plan）战后欧洲重建援助而建立的政府间多边经济协调实体，也是 1961 年改组成立的[[OECD|经济合作与发展组织]]（OECD）的制度母体。该机构在冷战格局下被学者定性为“经济版 NATO”，承担着以跨国经济一体化强化西方阵营内部凝聚力的核心地缘功能；在其组织章程中，教育虽未获得独立的行政部门，但通过早期[[Human Capital Theory|人力资本]]逻辑被赋予服务于经济生产力与科技人力储备的“推论性职能”（inferred role），成为西方多边经济治理吸纳教育议程的历史起点。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 58)]]
+> 欧洲经济合作组织（Organisation for European Economic Co-operation, OEEC；简称欧洲[[OECD|经合组织]]）是 1948 年为协调美国《马歇尔计划》（Marshall Plan）战后欧洲重建援助而建立的政府间多边经济协调实体，也是 1961 年改组成立的[[OECD|经济合作与发展组织]]（OECD）的制度母体。该机构在冷战格局下被学者定性为“经济版 NATO”，承担着以跨国经济一体化强化西方阵营内部凝聚力的核心地缘功能；在其组织章程中，教育虽未获得独立的行政部门，但通过早期[[Human Capital Theory|人力资本]]逻辑被赋予服务于经济生产力与科技人力储备的“推论性职能”（inferred role），成为西方多边经济治理吸纳教育议程的历史起点。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 58)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1948 年 4 月 16 日由西欧 18 国在巴黎签署公约正式成立。直接历史契机为战后欧洲基础设施重建、美元荒危机以及冷战初期西方阵营对抗苏联主导的经济互助委员会（CMEA）的迫切需求。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
@@ -144,7 +144,7 @@ updated: 2026-10-27
 > > - **世界体系学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）** 强调 OEEC 作为“经济版 NATO”，其援助附加条件迫使西欧向美国跨国资本敞开市场，固化了跨大西洋等级支配秩序。
 > > - **主流经济史学家** 认为 OEEC 成功培育了欧洲内部的多边协作习惯，直接催生了欧洲煤钢共同体与后续欧洲一体化进程。
 >
-> > [!axis] 善意专业援助与发展主义支配
+> > [!axis] 善意专业援助与[[Developmentalism|发展主义]]支配
 > > 围绕 OEEC 及其改组后的[[OECD|经合组织]]早期对非核心区与第三世界国家的“发展援助”究竟是无害的科学专业赋能，还是剥离本土政治语境的发展主义宰制展开交锋。
 > >
 > > - **学科史[[Positivism|实证主义]]辩护（Noah & Eckstein, 1969）** 坚信国际多边机构向战后欧洲及发展中国家输送资金与规划技术，标志着跨国[[Policy Borrowing|教育借用]]告别了 19 世纪业余慈善家的道德激情，进入由技术官僚与专业统计专家掌舵的“专业主义”理性时代。
@@ -162,7 +162,7 @@ updated: 2026-10-27
 > | [[1960 Bellagio Conference]] | Fact (Event) | OEEC 时代最重要的教育经济学峰会，确立了[[Human Capital Theory\|人力资本]]投资的多边共识。 |
 > | [[Mediterranean Regional Project]] | Fact (Program) | OEEC/OECD 早期运用[[Manpower Requirements Approach\|人力需求法]]指导国家教育扩张的标志性试验项目。 |
 > | [[Education-for-Mandates]] | Concept | OEEC 将教育完全绑定于经济复兴与冷战军备的典型使命性教育嵌入机制。 |
-> | [[Technical Rationality]] | Concept | OEEC 科技人力办公室及其后续教育规划所倚重的客观专家化与社会技术认识论根基。 |
+> | [[Technical Rationality]] | Concept | OEEC 科技人力办公室及其后续教育规划所倚重的客观专家化与社会技术[[Epistemology\|认识论]]根基。 |
 > | [[Fazal Rizvi]] | Person | 批判政策社会学家；实证追溯 OEEC 科技人力办公室向经合组织教育治理转型的代表学者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 438–439)]] |
 > | [[Bob Lingard]] | Person | 与里兹维合作系统考察 OEEC 地缘博弈遗产与超国家教育政策变迁的代表学者。 |
 > | [[Robert Cowen]] | Person | 批判揭示战后国际机构“善意贷款方”迷思与理论贫困现象的代表学者。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 344)]] |

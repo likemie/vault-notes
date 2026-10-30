@@ -11,9 +11,9 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 26
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 33
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[ASEAN]] & [[SEAMEO RIHED]]"
 tags:
@@ -48,9 +48,16 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[SEAMEO RIHED]]"
+  - "[[SEAMEO]]"
   - "[[ASEAN]]"
+  - "[[Master Plan on ASEAN Connectivity]]"
   - "[[ASEAN University Network]]"
+  - "[[ASEAN Economic Community]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[EU]]"
+  - "[[SHARE Programme]]"
+  - "[[ASEAN Education Ministers Meeting]]"
+  - "[[AIMS Programme]]"
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
@@ -58,15 +65,15 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2008 年[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（SEAMEO RIHED）发布区域高教空间规划报告（Towards a Southeast Asian Higher Education Common Space），正式提出构建共同空间蓝图；2010 年代伴随[[ASEAN|东盟]]互联互通总体规划（Master Plan on ASEAN Connectivity）推进，该架构演进为包容既有分散项目的弹性平台；2024 年[[ASEAN|东南亚国家联盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）正式联合签署《东南亚高等教育共同空间宣言》，将共同空间确立为区域层面的联合政策框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
+> - **发布时间 / 发布主体** 2008 年[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（[[SEAMEO]] RIHED）发布区域高教空间规划报告（Towards a Southeast Asian Higher Education Common Space），正式提出构建共同空间蓝图；2010 年代伴随[[ASEAN|东盟]]互联互通总体规划（[[Master Plan on ASEAN Connectivity]]）推进，该架构演进为包容既有分散项目的弹性平台；2024 年[[ASEAN|东南亚国家联盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）正式联合签署《东南亚高等教育共同空间宣言》，将共同空间确立为区域层面的联合政策框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 > - **适用地区 / 对象** 东南亚 11 个国家（东盟 10 国及东帝汶）的高等教育行政部门、公立与私立大学、质保中介机构（如 [[ASEAN University Network|AUN]]-QA、AQAN）及跨国流动师生群体。
-> - **问题背景** 东南亚各国高等教育体制具有显著的[[Heterogeneity|异质性]]，后殖民历史遗留导致多国体制互不兼容，长期缺乏全域通用的学位与学分互认体系；2007 年东盟峰会确立 2015 年建成东盟经济共同体（AEC）的期限，横向倒逼社会文化支柱加快疏通高技能人才跨境流动与资历对接堵点；全球[[Geopolitics|地缘政治]]冲突加剧导致传统西方留学目的地安全审查趋严，促使东南亚寻求构筑内生性的学术流动走廊。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
+> - **问题背景** 东南亚各国高等教育体制具有显著的[[Heterogeneity|异质性]]，后殖民历史遗留导致多国体制互不兼容，长期缺乏全域通用的学位与学分互认体系；2007 年东盟峰会确立 2015 年建成[[ASEAN Economic Community|东盟经济共同体]]（AEC）的期限，横向倒逼社会文化支柱加快疏通高技能人才跨境流动与资历对接堵点；全球[[Geopolitics|地缘政治]]冲突加剧导致传统西方留学目的地安全审查趋严，促使东南亚寻求构筑内生性的学术流动走廊。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 > - **制度位置** 东南亚共同空间植根于“[[ASEAN Way|东盟方式]]”（ASEAN Way）与不干涉内政原则；作为非强制性、去中心化的自愿协调网络，其制度定位在于连接并包容精英高校网络（[[ASEAN University Network|AUN]]）与政府部委平台（[[SEAMEO RIHED]]）已有的多元机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
 
 ---
@@ -78,7 +85,7 @@ updated: 2026-10-29
 > - **政策目标** 在尊重各成员国宪制体制与教育自主权的前提下，促进区域内学历互认、学分互转与师生机动性，提升东南亚高等教育的区域自立能力与国际吸引力，服务于东盟经济与社会文化共同体建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 > - **适用对象** 成员国教育部、[[ASEAN University Network|东盟大学联盟]] 30 所[[Research Universities|研究型大学]]及区域内其他公私立院校、区域质保认证网络以及跨国流动学生。
 > - **政策工具**
->   - **弹性学分转换系统** 东盟大学联盟研制的东盟学分转移系统（ACTS）与 SEAMEO RIHED 主导的亚洲国际[[Student Mobility|学生流动]]计划（AIMS）并行推进，采用双边或多边自愿试点模式折算学分。
+>   - **弹性学分转换系统** 东盟大学联盟研制的[[ASEAN Credit Transfer System|东盟学分转移系统]]（ACTS）与 SEAMEO RIHED 主导的亚洲国际[[Student Mobility|学生流动]]计划（AIMS）并行推进，采用双边或多边自愿试点模式折算学分。
 >   - **分布式质量保障架构** 推广《AUN 质量保障指南》（AUN-QA）与东盟质量保障网络（AQAN）区域原则，侧重院校内部评估能力建设，规避强制性的超国家标准对齐。
 >   - **东盟资历参考框架（AQRF）** 建立基于学习成果的跨国自愿对标平台，作为连接各国国家资格框架的跨国翻译参考。
 >   - **人员互联互通计划** 依托东盟互联互通总体规划（[[People-to-People Connectivity]]），通过专项奖学金与交换项目促进次区域学术流动。
@@ -94,20 +101,20 @@ updated: 2026-10-29
 > [!timeline] 政策时间线
 > - **1990 年代** 1993 年 SEAMEO 在曼谷恢复设立高等教育中心（RIHED），1995 年东盟峰会设立[[ASEAN University Network|东盟大学联盟]]（AUN），确立高校与部委双轨分工格局。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
 > - **2007–2008** 东盟峰会确立 2015 年建成东盟经济共同体（AEC）目标；2008 年 SEAMEO RIHED 发布区域规划报告，正式提出构建“东南亚高等教育共同空间”倡议，并明确警惕博洛尼亚式同构趋同。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–153)]]
-> - **2010 年代** 采纳《东盟互联互通总体规划 2025》，将共同空间嵌入“人文联通”维度；2015 年启动[[EU|欧盟]]-东盟 SHARE 项目，推动学分互认与质保对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
+> - **2010 年代** 采纳《东盟互联互通总体规划 2025》，将共同空间嵌入“人文联通”维度；2015 年启动[[EU|欧盟]]-东盟 [[SHARE Programme|SHARE 项目]]，推动学分互认与质保对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
 > - **2024** 东盟与东南亚教育部长组织联合签署《东南亚高等教育共同空间宣言》，确立新时期区域高教一体化政治共识。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 
 ---
 
 > [!actor-grid] 实施角色分工
-> - **政府间部委平台（[[SEAMEO RIHED]] / ASED）** 代表成员国教育部主权权威，负责宏观政策对话、国家资格框架对齐与全域性试点示范。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
+> - **政府间部委平台（[[SEAMEO RIHED]] / [[ASEAN Education Ministers Meeting|ASED]]）** 代表成员国教育部主权权威，负责宏观政策对话、国家资格框架对齐与全域性试点示范。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
 > - **精英高校网络（[[ASEAN University Network|东盟大学联盟]]）** 代表各成员国 30 所顶尖研究型大学，自主开发 ACTS 学分系统与 AUN-QA 质保框架，主导微观学科协同。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
 > - **区域质保与评估组织（AQAN）** 协调各国国家质保机构，推动跨国质量互信与同行评估经验交流。
 > - **外部合作伙伴（欧盟 SHARE 项目等）** 提供资金与技术支持，但在政策主导权上受制于东南亚本土防卫与协商机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 155–156)]]
 
 > [!pathways] 实施路径
 > - **双轨平行推进** 部委级宏观政策对话与精英高校微观网络协同同步展开，各自保持功能自治，防范职能混杂与超国家集权。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
-> - **自愿试点与渐进拓展** 从少数国家或院校的小范围试点起步（如 AIMS 项目最初源于马印泰三国试点），在验证可行性后逐步向全域推广。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
+> - **自愿试点与渐进拓展** 从少数国家或院校的小范围试点起步（如 [[AIMS Programme|AIMS 项目]]最初源于马印泰三国试点），在验证可行性后逐步向全域推广。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
 > - **底层底线互通替代统一立法** 各国不制定全域统一的硬性高教法案，采用国家资格框架与 AQRF 的跨国对标，实现各异质体系间的柔性对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–155)]]
 
 ---

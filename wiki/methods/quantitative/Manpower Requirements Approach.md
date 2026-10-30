@@ -10,7 +10,7 @@ summary: "一种在宏观教育与经济规划中运用的定量预测方法。�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,13 +45,14 @@ related_facts:
   - "[[OECD]]"
   - "[[Mediterranean Regional Project]]"
   - "[[Alliance for Progress]]"
+  - "[[EdStats]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-29
 > [!citation-card] 经合组织早期人力规划的技术官僚属性与五年计划模仿
 > 在这一重新定位的浪潮中，该组织投入了大量资源来开发教育统计数据，并利用控制论和[[Human Capital Theory\|人力资本理论]]，探索如何通过更有效的规划来优化教育。经合组织在 20 世纪 60 年代至 70 年代初的人力规划呈现出相对技术官僚化的特征，模仿了共产主义阵营的多年度五年计划模式，极度专注于对劳动力市场需求的精确预测。随着时间推移，指标乃至基准的开发逐步形成了其自身的独立生命力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 >
-> *In the wake of this repositioning, the organisation poured considerable resources into developing education statistics and figuring out how education could be optimised by utilizing more effective planning, drawing on cybernetics and human capital theory (Popkewitz 2022). Mimicking the multi-year plans of the communist world, the OECD’s manpower planning in the 1960s and early 1970s was relatively technocratic and preoccupied with forecasting labour market needs. Over time, the development of indicators, and eventually benchmarks, took on a life of their own.*
+> *In the wake of this repositioning, the organisation poured considerable resources into developing [[EdStats|education statistics]] and figuring out how education could be optimised by utilizing more effective planning, drawing on cybernetics and human capital theory (Popkewitz 2022). Mimicking the multi-year plans of the communist world, the OECD’s manpower planning in the 1960s and early 1970s was relatively technocratic and preoccupied with forecasting labour market needs. Over time, the development of indicators, and eventually benchmarks, took on a life of their own.*
 
 ---
 

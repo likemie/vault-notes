@@ -27,6 +27,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Measurement Alignment]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Document]]"
   - "[[Sampling Error]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Aims]]"
@@ -59,6 +60,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Source of Knowledge]]"
   - "[[Reliability]]"
+  - "[[Student Motivation]]"
   - "[[Self-Regulated Learning]]"
   - "[[Publication Bias]]"
   - "[[Causality]]"
@@ -91,6 +93,7 @@ related_facts:
   - "[[Education Resources Information Center]]"
   - "[[Gaokao]]"
   - "[[Free Semester System]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Hofer_1997_RER]]"
@@ -101,14 +104,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-20
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -128,7 +131,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 韩国 K-12 阶段（小学、初中、高中）中小学生群体及 18 项量化实证研究中的 512 个相关效应量，覆盖 6,312 名韩国学生。
-> - **张力** 普遍主义发展模型（认知成熟度随年龄与受教育阶段单调递增）与东亚[[Examination-Oriented Education\|应试教育]]生态（高学段高压应试与补习刷题阻断高阶认知转化）之间的现实张力；西方实证文献强调的“测量颗粒度对齐法则与高阶认知特异性”与东亚全域性“修养与努力文化”之间的跨文化张力。
+> - **张力** 普遍主义发展模型（认知成熟度随年龄与受教育阶段单调递增）与东亚[[Examination-Oriented Education\|应试教育]]生态（高学段高压应试与补习刷题阻断高阶认知转化）之间的现实张力；西方实证[[Document|文献]]强调的“测量颗粒度对齐法则与高阶认知特异性”与东亚全域性“修养与努力文化”之间的跨文化张力。
 > - **贡献** 首次在非西方/东亚特定文化背景下采用[[Three-Level Meta-Analysis\|三层元分析]]模型，彻底克服了单项研究报告多个效应量造成的统计依赖性；精确分解了[[Sampling Error\|抽样误差]]、研究内变异与研究间变异，不仅提供了东亚情境的元分析基准值，而且通过“学段倒挂”和“全成果类型均一促进”深化了认识论认知的文化情境理论。
 
 ---
@@ -387,7 +390,7 @@ issuing_organization: ""
 > 认识论构念维度显著调节效应量大小（$F(7, 498) = 3.193, p = 0.002$）；处于外围的学习本质（速度、能力）充当近端动机桥梁，处于核心的认识本质（确证、来源）驱动证据评估，而属于[[Ontology\|本体论]]维度的知识本质（简单性、确定性）因距离即时学习任务最远而预测力最弱。
 
 > [!chain-link] 证据到判断
-> - **总体构念聚合优势** 总体认识论认知总分（Total EC, $r = 0.288$）通过多维度聚合降低测量误差，预测力最高。
+> - **总体构念聚合优势** 总体认识论认知总分（Total [[European Commission|EC]], $r = 0.288$）通过多维度聚合降低测量误差，预测力最高。
 > - **学习本质的近端驱动** 学习速度（$r = 0.207$）与学习能力（$r = 0.174$）直接关联增量智力观与自我效能，迅速转化为行动坚持力。
 > - **认识本质的证据评估** 知识确证（$r = 0.187$）与[[Source of Knowledge\|知识来源]]（$r = 0.185$）支撑对复杂信息的反思加工与来源批判。
 > - **知识本体信念的效能衰减** 知识简单性（$r = 0.157$）、死记硬背（$r = 0.142$）与知识确定性（$r = 0.122$）属于抽象哲学世界观，对具体学科任务的直接驱动力最弱。
@@ -442,7 +445,7 @@ issuing_organization: ""
 > | **双极量表 (Bipolar scale)** | 248 | 0.222 | [.140, .302] | $F(1, 510) = 1.984$ | 0.159 |
 > | **独立分量表 (Separate scale)** | 264 | 0.112 | [-.021, .241] | | |
 > | **低阶认知成果 (Lower order)** | 55 | 0.208 | [.126, .288] | $F(3, 508) = 0.300$ | 0.828 |
-> | **学习动机与情感 (Motivation/affect)** | 109 | 0.189 | [.106, .269] | | |
+> | **[[Student Motivation\|学习动机]]与情感 (Motivation/affect)** | 109 | 0.189 | [.106, .269] | | |
 > | **高阶认知成果 (Higher order)** | 184 | 0.188 | [.106, .268] | | |
 > | **[[Self-Regulated Learning\|自我调节学习]] (Self-regulation)** | 164 | 0.186 | [.108, .261] | | |
 

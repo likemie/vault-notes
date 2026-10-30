@@ -9,7 +9,7 @@ summary: "用于分析纵向追踪与群聚相关数据的半参数半回归方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -51,7 +51,8 @@ related_methods:
   - "[[Simple Difference in Means Model]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James C. Scott]]"
 related_facts:
   - "[[Advanced Technological Education]]"
   - "[[Education Endowment Foundation]]"
@@ -60,13 +61,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Generalized Estimating Equations
-> **广义估计方程（Generalized Estimating Equations，简称 GEE）** 是由生物统计学家孔英·梁（Kung-Yee Liang）与斯科特·泽格（Scott L. Zeger）于 1986 年开创的一种用于处理纵向重复测量（Longitudinal Data）与群聚分层数据（Clustered Data）的半参数化回归估计方法。GEE 是广义线性模型（GLM）在非独立相关数据领域的扩展，其核心特征是**群体平均模型（Population-Averaged / Marginal Model）**。该方法不假定[[Dependent Variable\|因变量]]的完全联合概率分布，仅指定结果[[Variable\|变量]]的边际均值与方差函数，并引入一个“工作相关矩阵”（Working Correlation Matrix）来近似组内相关结构；即便该工作相关结构被错误设定，GEE 依托 Huber-White 三明治经验方差估计量，依然能够保证大样本下回归参数的一致性与[[Standard Error\|标准误]]的渐进有效性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **广义估计方程（Generalized Estimating Equations，简称 GEE）** 是由生物统计学家孔英·梁（Kung-Yee Liang）与[[James C. Scott|斯科特]]·泽格（Scott L. Zeger）于 1986 年开创的一种用于处理纵向重复测量（Longitudinal Data）与群聚分层数据（Clustered Data）的半参数化回归估计方法。GEE 是广义线性模型（GLM）在非独立相关数据领域的扩展，其核心特征是**群体平均模型（Population-Averaged / Marginal Model）**。该方法不假定[[Dependent Variable\|因变量]]的完全联合概率分布，仅指定结果[[Variable\|变量]]的边际均值与方差函数，并引入一个“工作相关矩阵”（Working Correlation Matrix）来近似组内相关结构；即便该工作相关结构被错误设定，GEE 依托 Huber-White 三明治经验方差估计量，依然能够保证大样本下回归参数的一致性与[[Standard Error\|标准误]]的渐进有效性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含集群内部相关性的多层数据（如嵌套于学校或班级的学生考分）以及针对同一受试者的多期纵向追踪面板。

@@ -9,10 +9,10 @@ summary: "德国理论物理学家、量子论创立者、诺贝尔物理学奖�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1858"
 died: "1947"
 lifespan: "1858–1947"
@@ -24,25 +24,23 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Scientific Paradigm]]"
-  - "[[Hard Belief]]"
-  - "[[Positivism]]"
-  - "[[Technological Agnosticism]]"
   - "[[Goliath's Shadow]]"
+  - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Planck's Principle]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Thomas Kuhn]]"
 related_facts:
   - "[[Max Planck Society]]"
 related_arguments:
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +72,7 @@ updated: 2026-10-29
 > [!work-line] 主要论著
 > - **1900 — *Ueber eine Verbesserung der Wienschen Spectralgleichung*** 提出黑体辐射量子公式。
 > - **1906 — *Vorlesungen über die Theorie der Wärmestrahlung*** 热辐射理论讲义，奠定量子统计基础。
-> - **1948 — *Scientific Autobiography and Other Papers*** 回顾量子革命心路历程，提出范式更替与科学真理确立的代际更迭规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 49)]]
+> - **1948 — *Scientific Autobiography and Other Papers*** 回顾量子革命心路历程，提出[[Paradigm|范式]]更替与科学真理确立的代际更迭规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 49)]]
 
 ---
 
@@ -85,7 +83,7 @@ updated: 2026-10-29
 
 > [!influence-path] 影响路径
 > - **理论路径** 能量量子化假说直接引爆 20 世纪现代物理学革命，催生爱因斯坦光电效应理论、玻尔原子模型与量子力学体系。
-> - **认识论与科学社会学路径** 《科学自传》中的代际更迭思想直接启发了托马斯·库恩（Thomas Kuhn）的科学革命与范式转移理论，并在当代演化为科学学检验学术权威歌利亚阴影的实证基石。
+> - **认识论与科学社会学路径** 《科学自传》中的代际更迭思想直接启发了[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn）的科学革命与范式转移理论，并在当代演化为科学学检验学术权威[[Goliath's Shadow|歌利亚阴影]]的实证基石。
 > - **制度化路径** 领导威廉皇帝学会，战后改组为马克斯·普朗克科学促进学会，成为全球基础科学研究的卓越重镇。
 
 > [!evidence-grid-a] 相关研究索引
@@ -113,6 +111,6 @@ updated: 2026-10-29
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Planck's Principle]] | 理论 | 提出科学新真理依靠旧权威自然退场而取得承认的代际演进理论。 |
-> | [[Epistemology]] | 概念 | 提出科学范式代际演进与认知阻滞的认识论机制。 |
+> | [[Epistemology]] | 概念 | 提出[[Scientific Paradigm\|科学范式]]代际演进与认知阻滞的认识论机制。 |
 > | [[Goliath's Shadow]] | 概念 | 普朗克原理在当代因果检验中衍生出领袖学者抑制竞争的理论构件。 |
 > | [[Max Planck Society]] | 机构 | 曾长期担任其前身威廉皇帝学会会长，并在战后以其姓名重组为德国顶尖科研学会。 |

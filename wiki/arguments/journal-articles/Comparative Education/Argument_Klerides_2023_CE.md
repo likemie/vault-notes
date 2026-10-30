@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Agendas of Attention]]"
@@ -90,7 +91,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -103,7 +104,7 @@ citation_aliases:
 > 比较教育与国际关系之间存在着深层的学科纠缠，这种纠缠贯穿了学术界的各个维度。比较教育往往以民族国家为分析的逻辑起点，追求基于他国经验的本国教育进步，倡导通过国际合作促进世界和平，探索跨国身份与[[Knowledge Production\|知识生产]]网络，并在全球与地方的互动中解读教育的不平等。比较教育学者选择居住和工作的地点、给专业学术学会起的名称、所在院系的机构归属以及专业期刊编委会的国籍构成，都深刻反映了当下或正在发生转变的国际关系格局。
 > 
 > 然而，一个显著的学术悖论贯穿始终：比较教育从未系统性地运用[[Wight's Three Traditions of International Theory\|国际关系理论]]的透镜来阐述自身的学科身份、历史和未来。纠缠如此之深，理论自觉如此之少，这种不对称性本身就值得追问。这之所以构成悖论，还因为三个现实条件使这种理论自觉变得既需要也可行：
-> 1. 这种纠缠本身一直支撑着比较教育的历史文献。
+> 1. 这种纠缠本身一直支撑着比较教育的历史[[Document|文献]]。
 > 2. 纠缠深刻地形塑了当下的学术可能性。
 > 3. 纠缠正将比较教育引向具有[[Path Dependence|路径依赖]]性质的未来。
 > 

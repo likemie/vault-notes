@@ -10,7 +10,7 @@ summary: "奥地利著名动物行为学家、鸟类学家，经典习性学（E
 type: person
 nationality: "austria"
 person_region: "austria"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ tags:
   - theme/pecking-order
   - theme/organizational-culture
 related_concepts:
+  - "[[Habitus]]"
   - "[[Pecking Order]]"
   - "[[Status Transactions]]"
   - "[[Bureaucracy]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 奥地利动物学家、动物心理学家，比较行为学与经典习性学（Ethology）奠基人，[[Max Planck|马克斯·普朗克]]行为生理学研究所所长，1973 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]共同得主（与[[Karl von Frisch|卡尔·冯·弗里施]]、尼古拉斯·廷伯根共获）。
+> - **身份位置** 奥地利动物学家、动物心理学家，比较行为学与经典[[Habitus|习性]]学（Ethology）奠基人，[[Max Planck|马克斯·普朗克]]行为生理学研究所所长，1973 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]共同得主（与[[Karl von Frisch|卡尔·冯·弗里施]]、尼古拉斯·廷伯根共获）。
 > - **核心角色** 揭示本能行为模式、幼体印刻机制（Imprinting）以及鸟类与哺乳动物社会内部的[[Pecking Order|支配等级]]结构；以细腻生动的野外与半野外动物群体长期观察著称。
 > - **代表贡献** 著有科普与行为学名著《所罗门王的指环》（*King Solomon's Ring*, 1949）与《论攻击》（*On Aggression*, 1963）；详尽描绘了寒鸦（Jackdaws）等群居动物中极度严苛、不容逾越的啄序支配等级，对现代人际互动理论与组织社会学产生了深远影响。
 

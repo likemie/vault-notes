@@ -10,7 +10,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - policy/evaluation
 related_concepts:
   - "[[New Public Management]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Performance Pay]]"
   - "[[Epistemology]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 政策核心
-> 《斯科特报告》（全称 *Report on the Enquiry into the Quality of Teaching*）是一份措辞强硬的里程碑调查文献。它一方面直面社会诉求，确认新西兰迫切需要建立教师教学表现的测量手段；另一方面高度审慎地指出，开发此类指标将是一个极其“漫长而复杂（lengthy and complex）”的过程，为此郑重建议依托大学设立专门国家级研究单位攻坚研发可靠工具，坚决反对在测量工具缺位时盲目推行粗暴的工效挂钩。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
+> 《斯科特报告》（全称 *Report on the Enquiry into the Quality of Teaching*）是一份措辞强硬的里程碑调查[[Document|文献]]。它一方面直面社会诉求，确认新西兰迫切需要建立教师教学表现的测量手段；另一方面高度审慎地指出，开发此类指标将是一个极其“漫长而复杂（lengthy and complex）”的过程，为此郑重建议依托大学设立专门国家级研究单位攻坚研发可靠工具，坚决反对在测量工具缺位时盲目推行粗暴的工效挂钩。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 探索开发能够客观反映教师复杂教学胜任力与育人成效的科学测量工具，为未来教学改进与审慎激励提供制度基准。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]

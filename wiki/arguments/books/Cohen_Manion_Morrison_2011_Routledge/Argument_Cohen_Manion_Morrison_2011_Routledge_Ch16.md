@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 87
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -51,8 +51,13 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Research Question]]"
   - "[[Attrition]]"
+  - "[[Student Motivation]]"
   - "[[Order Effects]]"
+  - "[[Lecturing]]"
+  - "[[Flipped Classrooms]]"
   - "[[Internal Validity]]"
+  - "[[Diversity Courses]]"
+  - "[[School Climate Effects]]"
   - "[[Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Construct]]"
@@ -114,7 +119,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[PANDA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -125,7 +131,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 > [!knowledge-map] 第16章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)
@@ -464,7 +470,7 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 
 #### 因子设计
 
-[[Factorial Design|因子设计]]适用于两个或多个自变量同时作用于因变量的情境（pp. 323–324）。例如，考试成绩可能是**资源可用性**（有限、中等、高三个水平）和**学习动机**（低、中、高三个水平）两个自变量共同作用的结果。
+[[Factorial Design|因子设计]]适用于两个或多个自变量同时作用于因变量的情境（pp. 323–324）。例如，考试成绩可能是**资源可用性**（有限、中等、高三个水平）和 **[[Student Motivation|学习动机]]**（低、中、高三个水平）两个自变量共同作用的结果。
 
 每个自变量的每个水平组合构成一个实验组，共 3 × 3 = 9 组：
 
@@ -539,7 +545,7 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 > 适用于顺序效应被认为不重要或不太可能时，或无法确定个体差异是否会掩盖处理效应时（p. 326）。
 
 > [!example] 适合重复测量设计的研究场景
-> - **教学方法比较** 同一批学生在三个不同单元分别接受讲授法、讨论法和翻转课堂教学，比较三种方法对单元测验成绩的影响。前提是三个单元难度相当、前一方法的效应不会延续到下一单元（通过拉丁方排列安排方法顺序）。
+> - **教学方法比较** 同一批学生在三个不同单元分别接受[[Lecturing|讲授法]]、讨论法和[[Flipped Classrooms|翻转课堂]]教学，比较三种方法对单元测验成绩的影响。前提是三个单元难度相当、前一方法的效应不会延续到下一单元（通过拉丁方排列安排方法顺序）。
 > - **反馈类型研究** 同一组学生在三次写作任务后分别收到即时反馈、延迟反馈和无反馈，比较三次修改稿的质量差异。每位学生经历全部三种反馈条件，个体写作能力的差异被自动控制。
 > - **多感官学习材料比较** 同一组被试分别通过纯文字、图文混合和视频三种材料学习同一主题的三个独立知识点，测试即时回忆和理解深度。知识点必须彼此独立以避免学习迁移。
 > - **药物剂量交叉试验** 同一组患者在三个治疗期内依次接受低剂量、高剂量和安慰剂，每期间隔足够的洗脱期（washout period）。每位患者作为自身对照，消除了患者间体质差异的混淆。
@@ -566,7 +572,7 @@ Campbell and Stanley (1963) 将单组前后测设计描述为展示混淆变量�
 > [!critique-method] 教育实验 vs 物理实验的控制鸿沟
 > 一位物理学家对金属棒加热，可以自信地将观察到的膨胀归因于温度升高，因为在实验室的范围内，她已**排除（即控制）了所有其他外部变异来源（Pilliner, 1973）**。
 >
-> 同样的控制程度在教育实验中**永远无法达到**。以一项为期十周的多元文化课程项目为例——即使后测显示对少数族裔的态度比前测更宽容，可能的影响因素绝不限于课程本身：学生特征、教师特征、学校氛围、课堂组织方式、课程材料的呈现方式、态度测量的方式，以及学期内校内外发生的上千件其他事件，都可能对观察到的态度差异产生影响（p. 327）。
+> 同样的控制程度在教育实验中**永远无法达到**。以一项为期十周的[[Diversity Courses|多元文化课程]]项目为例——即使后测显示对少数族裔的态度比前测更宽容，可能的影响因素绝不限于课程本身：学生特征、教师特征、[[School Climate Effects|学校氛围]]、课堂组织方式、课程材料的呈现方式、态度测量的方式，以及学期内校内外发生的上千件其他事件，都可能对观察到的态度差异产生影响（p. 327）。
 
 ---
 
@@ -880,7 +886,7 @@ Mason et al. (1992) 的[[Longitudinal Study|纵向研究]]（1984–1992）在�
 
 Bhadwal and Panda (1991) 在印度农村以更稳健的实验设计检验通过改变教学策略来改善学生表现。
 
-> [!design-notation] Bhadwal & Panda 研究：前后测对照组设计
+> [!design-notation] Bhadwal & [[PANDA|Panda]] 研究：前后测对照组设计
 > 参与者按[[Socioeconomic Status|社会经济背景]]和非语言 IQ 匹配后随机分配至实验组和两个控制组（p. 337）：
 >
 > - **实验组** *R* ==O₁== `X` ==O₂==

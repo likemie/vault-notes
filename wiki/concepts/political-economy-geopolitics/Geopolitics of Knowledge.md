@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 90
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -67,12 +67,14 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Research Question]]"
+  - "[[Public Diplomacy]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Success Criteria]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
+  - "[[Epistemic Inequality]]"
   - "[[Technological Catch-up]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -115,7 +117,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -307,7 +309,7 @@ updated: 2026-10-22
 >   机构的声誉和基础设施需求——通过国际合作提升排名位置和国际可见度
 > - **贸易促进**（经济部长话语）
 >   国家的贸易和外交目标——研究合作作为双边经济关系的软性基础设施
-> - **公共外交**（外交部长话语）
+> - **[[Public Diplomacy|公共外交]]**（外交部长话语）
 >   国家[[Soft Power\|软实力]]投射——通过高等教育合作建立持续性跨国信任关系
 
 这种多重编码使得[[Transnational Research Collaboration|跨国研究合作]]成为一个不同行动者都能从中找到合法性的话语[[Champ|场域]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
@@ -392,7 +394,7 @@ updated: 2026-10-22
 > 2. **排名作为知识秩序的认识论装置** 全球排名通过定义"卓越"的评价标准，将特定知识生产模式（英语发表、引用量逻辑、西方期刊体系）确立为普遍规范，对不符合这一知识型的机构进行系统性惩罚（详见 [[#全球排名作为 GPK 的核心治理机制]]）
 
 > [!tension] 认识论挑战：去殖民转向
-> Mignolo（2009）的"认识论不服从"挑战了 GPK 认识论霸权的合法性：通过转换"推理的地理"，去殖民学者揭示西方中心的 GPK 概念本身即带有殖民性。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral（2022, pp.39–40）]]指出，批判地缘政治学传统与去殖民传统在此形成根本分歧——前者聚焦空间想象的建构，后者则质疑认识论本身的殖民性。详见 [[#争议与批评]]
+> Mignolo（2009）的"认识论不服从"挑战了 GPK [[Epistemic Inequality|认识论霸权]]的合法性：通过转换"推理的地理"，去殖民学者揭示西方中心的 GPK 概念本身即带有殖民性。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral（2022, pp.39–40）]]指出，批判地缘政治学传统与去殖民传统在此形成根本分歧——前者聚焦空间想象的建构，后者则质疑认识论本身的殖民性。详见 [[#争议与批评]]
 
 
 ---

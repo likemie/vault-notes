@@ -10,9 +10,9 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2013–至今"
 initiator_organization: "European Commission"
@@ -21,23 +21,33 @@ tags:
   - region/eu
   - theme/data-infrastructure
   - theme/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Epistemic Infrastructure]]"
+  - "[[Data Infrastructure]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[European Commission]]"
+  - "[[Database of External Quality Assurance Results]]"
+  - "[[OECD]]"
+  - "[[EU]]"
+  - "[[European Quality Assurance Register for Higher Education]]"
+  - "[[European Education Area]]"
+related_arguments:
+  - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 欧盟委员会发起并资助建设的欧洲高等教育机构微观统计数据库项目；通过建立统一的高校分类识别编码与指标体系，汇聚全欧数千所高等教育机构的基础属性、办学规模与财务科研数据，为欧洲高等教育政策制定与跨国数据库互联提供底账支撑。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]
+> [[European Commission|欧盟委员会]]发起并资助建设的欧洲高等教育机构微观统计数据库项目；通过建立统一的高校分类识别编码与指标体系，汇聚全欧数千所高等教育机构的基础属性、办学规模与财务科研数据，为欧洲高等教育政策制定与跨国数据库互联提供底账支撑。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2013 年启动试点研发并持续推进，现已进入常态化多期迭代运营阶段。
@@ -66,15 +76,15 @@ updated: 2026-10-28
 > [!dev-timeline] 项目推进历程
 > - **2013–2015 — 框架研制与可行性试点期** 确立欧洲高校识别标准与数据收集模板，完成首批先导国别数据的采集与清洗。
 > - **2015–2019 — 全欧推广与常规发布期** 覆盖国家扩展至近 40 国，上线开放检索门户，定期发布欧洲高等教育全景统计指标。
-> - **2020–至今 — 跨系统互联与生态融合期** 深度融入欧洲教育数据生态，通过 DEQAR Connect 项目与质保数据库实现编码对齐，并与经合组织（OECD）跨国高教数据体系展开衔接。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224, 227)]]
+> - **2020–至今 — 跨系统互联与生态融合期** 深度融入欧洲教育数据生态，通过 [[Database of External Quality Assurance Results|DEQAR]] Connect 项目与质保数据库实现编码对齐，并与[[OECD|经合组织]]（OECD）跨国高教数据体系展开衔接。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224, 227)]]
 
 ---
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[European Commission|欧盟委员会]]负责项目规划、战略导向设定与长期专项资金保障。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224, 228)]]
 > - **技术研发联合体** 瑞士卢加诺大学等多所欧洲高校及科研机构承担数据库架构搭建、数据核查与技术开发。
-> - **跨国战略伙伴** [[OECD|经合组织]]自项目启动之初即加入顾问委员会，利用 ETER 经验拓展面向非欧盟成员国的可比数据集。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 227)]]
-> - **应用协作部门** 与欧洲高等教育质量保障注册局（EQAR）协同打通机构数据底账，支持 DEQAR 数据库构建。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 224)]]
+> - **跨国战略伙伴** [[OECD|经合组织]]自项目启动之初即加入顾问委员会，利用 ETER 经验拓展面向非[[EU|欧盟]]成员国的可比数据集。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 227)]]
+> - **应用协作部门** 与[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（EQAR）协同打通机构数据底账，支持 DEQAR 数据库构建。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 224)]]
 
 > [!pathways] 实施路径与管理
 > - **底层数据映射** 将各国异质的高校层级与类型系统标准化归入统一的欧洲分类矩阵。
@@ -119,4 +129,4 @@ updated: 2026-10-28
 > | [[Epistemic Infrastructure]] | Concept | ETER 构成欧洲高等教育质量治理认识论基础设施中的基础底账与数字载体。 |
 > | [[Data Infrastructure]] | Concept | ETER 建设所体现的跨国教育数据基础设施标准化运作。 |
 > | [[European Education Area]] | Fact (Policy) | ETER 为欧盟推进 2030 欧洲教育区建设提供的微观统计基础。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 剖析 ETER 如何作为微观机构基准支撑全欧高教认识论基础设施的核心文献。 |
+> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 剖析 ETER 如何作为微观机构基准支撑全欧高教认识论基础设施的核心[[Document\|文献]]。 |

@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[PICO Framework]]"
   - "[[Literature Search]]"
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Class Size]]"
   - "[[Heterogeneity]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 > [!institution-card] 机构概况与使命
@@ -74,7 +75,7 @@ updated: 2026-10-16
 > - **强制研究方案[[Preregistration|预注册]]** 在综述开展前锁定[[Research Question|研究问题]]与分析计划，遏制事后数据窥探；
 > - **[[PICO Framework|PICO]] 门禁原则** 严格界定受试人群（P）、干预手段（I）、对照基线（C）与测度结果（O），坚决排除与干预因果不匹配的非实验性描述相关；
 > - **穷尽式灰色[[Literature Search|文献检索]]** 全面纳入未发表报告与硕博论文以最大限度控制[[Publication Bias|发表偏倚]]；
-> - **双人独立筛选与质量风险评估** 确保文献[[Intercoder Agreement|编码一致性]]与[[Effect Size|效应量]]可审计性。
+> - **双人独立筛选与质量风险评估** 确保[[Document|文献]][[Intercoder Agreement|编码一致性]]与[[Effect Size|效应量]]可审计性。
 
 > [!success] 促进理性比较与成本效益权衡
 > 坎贝尔协作组织代表了[[Evidence-Based Education|循证教育]]中“先系统综合多源研究、再辅助政策理性研判”的审慎路径：

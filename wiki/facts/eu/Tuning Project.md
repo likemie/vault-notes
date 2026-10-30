@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[EU]]"
   - "[[European Commission]]"
+  - "[[European University Association]]"
   - "[[Bologna Process]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"
@@ -46,14 +47,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2000 年由西班牙德乌斯托大学（University of Deusto）与荷兰格罗宁根大学（University of Groningen）牵头在全欧启动。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
-> - **关键主体** [[EU|欧盟]]委员会（[[European Commission]]）、欧洲大学协会（[[Epistemological Understanding Assessment\|EUA]]）及全欧数百所大学学科带头人。
+> - **关键主体** [[EU|欧盟]]委员会（[[European Commission]]）、[[European University Association|欧洲大学协会]]（[[Epistemological Understanding Assessment\|EUA]]）及全欧数百所大学学科带头人。
 > - **制度背景** 1999 年《[[Bologna Process\|博洛尼亚宣言]]》确立了建立欧洲高等教育区（EHEA）的目标，但各国学位与课程结构极度异质，缺乏可比的能力与学习成果语言。
 > - **触发条件** 跨国学术同行自下而上协同研制一套以学习成果（Learning Outcomes）和核心胜任力为基准的课程调整与对齐工具。
 

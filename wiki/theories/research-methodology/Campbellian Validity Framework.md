@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -98,7 +98,7 @@ updated: 2026-10-26
 > **排除替代解释是因果推断的核心，[[Internal Validity\|内部效度]]是因果成立的必要前提，而跨方法与跨评价者收敛是[[Construct Validity\|构念效度]]的经验基准**。任何声称产生因果证据的设计，均须通过系统识别并排除对因果关系的竞争性威胁来建立内部效度；进而，当评估某一制度化特质（如“基于证据”）时，不同独立测量方法之间必须展示出高度的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp. 461–462]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 4, 26]])。
 
 > [!citation-card] 关键表述
-> 内部效度，即干预与[[Dependent Variable\|结果变量]]之间因果关系的有效程度，是实验设计的[[Necessary and Sufficient Conditions\|必要条件]]（sin qua non）。如果无法证明给定干预对结果负责，那么考察证据能否推广到不同情境就毫无意义。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, p. 461)]]
+> 内部效度，即干预与[[Dependent Variable\|结果变量]]之间因果关系的有效程度，是[[Experimental Research|实验设计]]的[[Necessary and Sufficient Conditions\|必要条件]]（sin qua non）。如果无法证明给定干预对结果负责，那么考察证据能否推广到不同情境就毫无意义。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, p. 461)]]
 >
 > *Internal validity, or the degree to which a causal relationship exists between a treatment and outcome [[Variable]] is valid, is the sin qua non of [[Experimental Research\|experimental design]]. (Shadish et al., 2002)*
 

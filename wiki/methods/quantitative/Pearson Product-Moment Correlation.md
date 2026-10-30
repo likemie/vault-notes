@@ -12,9 +12,9 @@ summary: "测量两个连续变量间双变量线性关联强度与方向的推�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -41,9 +41,11 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Zone of Desired Effects]]"
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Category Mistake]]"
   - "[[Creativity]]"
   - "[[Creativity Training]]"
+  - "[[Self-reported Grades]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -193,12 +195,12 @@ updated: 2026-10-29
 > 皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]）与利桑·里瓦尔（Lysanne Rivard）针对《[[Visible Learning|可见的学习]]》展开的数理审查表明，将 Pearson 相关系数无约束地转换为 Cohen's $d$ 带来了严重的数理失真与算法崩溃现象（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 242–245]]）：
 > - **弱相关机械放大至[[Zone of Desired Effects|期望效应区]]** 公式在弱相关区间呈现陡峭斜率，仅需 $r = 0.196$ 的微弱关联即可换算出 $d = 0.40$ 的期望效应门槛。然而其对应的一[[Meta-regression|元回归]]决定系数仅为 $R^2 = 3.85\%$，表明存在高达 96.15% 的无法解释随机噪声。以此为基准指导教育政策决策，存在将微弱噪声定性为重大干预成效的风险。
 > - **零变异对照组极限发散** 在受控随机模拟实验中，保持成绩完全未变的对照组由于各学生增量均为 0，前后成绩自相关达到 $r = 1.0$。若套用相关换算公式，该对照组将产出 $d = +\infty$ 的理论极大值，由此产生未施加任何教学干预的对照组在排行榜上超越全部实验教学法的数学反常。
-> - **双列相关前置条件的系统性违背**Borenstein et al. (2009) 明确指出该换算仅适用于二分[[Variable|变量]]与连续变量的双列相关模型；若在实际文献合成中无视二分切割条件与连续正态假定，直接对常规 Pearson $r$ 进行代入，属于数理推导层面的操作越界。
+> - **双列相关前置条件的系统性违背**Borenstein et al. (2009) 明确指出该换算仅适用于二分[[Variable|变量]]与连续变量的双列相关模型；若在实际[[Document|文献]]合成中无视二分切割条件与连续正态假定，直接对常规 Pearson $r$ 进行代入，属于数理推导层面的操作越界。
 
 > [!critique-method] 相关关系伪装因果干预的[[Category Mistake|范畴错误]]
 > 将横截面[[Correlational Research|相关性研究]]数据借助公式换算包装为实验干预[[Effect Size|效应量]]，构成了严重的范畴错误（[[Category Mistake|范畴错误]]）与因果混淆（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 242]]）：
 > - **[[Creativity|创造力]]实证错位** 在[[Meta-meta-analysis|二阶元分析]]中，金（Kim, 2005）的[[Meta-analysis|元分析]]被包装为[[Creativity|创造力]]对[[Academic Achievement|学业成就]]的强大因果干预；然而原始研究所汇集的证据实质上仅是智商测验（IQ）与创造力量表得分之间的横向静态相关，从未测量[[Creativity Training|创造力培养]]或教学训练带来的实验增量。
-> - **自我报告成绩榜首失范** 在教育排行榜中常年位列榜首的学生自我报告成绩（Self-reported grades），其原始数据仅为学生自我预估成绩与真实期末成绩之间的双变量自相关；该数据反映的是学生对自己能力的评估准确性，缺乏实施自我预估组与未实施预估组之间的因果对照，将其换算为干预效应量并列入排行榜首位，构成了将预测一致性偷换为教学效能的逻辑谬误。
+> - **[[Self-reported Grades|自我报告成绩]]榜首失范** 在教育排行榜中常年位列榜首的学生自我报告成绩（Self-reported grades），其原始数据仅为学生自我预估成绩与真实期末成绩之间的双变量自相关；该数据反映的是学生对自己能力的评估准确性，缺乏实施自我预估组与未实施预估组之间的因果对照，将其换算为干预效应量并列入排行榜首位，构成了将预测一致性偷换为教学效能的逻辑谬误。
 
 ---
 

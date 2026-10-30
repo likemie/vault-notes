@@ -30,6 +30,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
+  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Learning Strategies]]"
   - "[[Wicked Problem]]"
   - "[[Theoretical Validity]]"
+  - "[[Student Motivation]]"
   - "[[Socioeconomic Status]]"
   - "[[Epistemological Understanding]]"
   - "[[Justification for Knowing]]"
@@ -92,14 +94,14 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -155,7 +157,7 @@ issuing_organization: ""
 > |----------|------|
 > | **[[Study Population and Sample\|研究样本]]** | 132 项非[[Experimental Research\|实验研究]]，151 个独立样本，752 个[[Effect Size\|效应量]]，共 55,418 名参与者。 |
 > | **样本阶段** | 大学生最多（68 个样本），其次为高中（39 个），小学（8 个）、初中（10 个）、研究生（4 个）及职前教师（10 个）。 |
-> | **文献清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
+> | **[[Document\|文献]]清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
 
 > [!index-table]- 表 4：研究报告中编码的信息
 > | 类别 (Category) | 编码指标 (Codes) |
@@ -395,7 +397,7 @@ issuing_organization: ""
 >     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning\|深层学习]]策略（Deep [[Learning Strategies]]），从而在高阶任务中取得卓越表现；
 >     2. **塑造路径（高阶思维实践 → 认识论认知）** 课堂中开放式探究、辩论和[[Wicked Problem|劣构问题]]（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。
 > - **机制四：构念特异性与确证[[Theoretical Validity\|理论有效性]]（Theoretical Validity）**
->   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛学习动机、一般智力或[[Socioeconomic Status|社会经济地位]]的虚假代理变量”的观点。
+>   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛[[Student Motivation|学习动机]]、一般智力或[[Socioeconomic Status|社会经济地位]]的虚假代理变量”的观点。
 >   - 如果认识论认知只是泛化智力或动机的代理，它应该对所有考试（包括死记硬背与机械计算）均表现出均匀的中等相关；
 >   - 唯独与高阶任务强相关、与低阶任务脱节的阶梯断层，恰恰证明了认识论认知具有精确、独立的构念解释边界，其核心功能正是为高阶认知加工提供元认知监控与规范性导引。
 

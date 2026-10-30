@@ -20,9 +20,9 @@ tags:
 related_concepts:
   - "[[Emergence]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Order Effects]]"
-  - "[[Institutional Conversion]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -37,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 > [!dimension] 三种混合方法设计中的元推论
 > - **[[Convergent Design\|聚敛式设计]]**（聚焦于比较和确认）
->   研究者检视[[Joint Display\|联合展示]]中各行（不同得分水平在某一主题上的差异）或各列（不同主题之间得分模式的差异），判断量化和质性结果是否互相确认（confirmation）、显示一致（concordance）或不一致（discordance）、是否超越了单一数据库能提供的知识、是否与已有文献关联、是否对理论有启示。
+>   研究者检视[[Joint Display\|联合展示]]中各行（不同得分水平在某一主题上的差异）或各列（不同主题之间得分模式的差异），判断量化和质性结果是否互相确认（confirmation）、显示一致（concordance）或不一致（discordance）、是否超越了单一数据库能提供的知识、是否与已有[[Document|文献]]关联、是否对理论有启示。
 > - **[[Explanatory Sequential Design\|解释性序列设计]]**（聚焦于延伸和细化）
 >   元推论代表对量化结果的延伸——质性主题解释了某一得分水平的成因或机制。不同于聚敛式设计中的"确认或一致"，解释性序列的元推论是量化结果的质性深化。元推论也可能帮助构建未来更好的量化评估工具。
 > - **[[Exploratory Sequential Design\|探索性序列设计]]**（聚焦于检验和适切性）
@@ -102,7 +102,7 @@ Onwuegbuzie and Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]�
 > [!dimension] 与元推断相关的合法化维度
 > - **顺序合法化（Sequential legitimation）**
 >   在多大程度上能最小化数据收集和分析产生的元推断的 **[[Order Effects\|顺序效应]]**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
-> - **转换合法化（[[Institutional Conversion|conversion]] legitimation）**
+> - **转换合法化（conversion legitimation）**
 >   将数值数据**质化（[[Data Transformation\|qualitizing]]）** 或将质性数据**量化（quantitizing）** 在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability\|信度]]。
 > - **政治合法化（Political legitimation）**
 >   受众在多大程度上**接受**量化和质性方法组合所产生的元推断——合法化不仅是方法论问题，也是社会接受度问题。

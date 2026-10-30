@@ -11,10 +11,10 @@ summary: "美籍心理学家，俄亥俄大学心理学教授；人类创造力�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1889"
 died: "1965"
 lifespan: "1889–1965"
@@ -25,19 +25,24 @@ tags:
   - theme/creativity
   - theme/scientific-career
 related_concepts:
-  - "[[Scientific Productivity]]"
   - "[[Creativity]]"
+  - "[[Big Science]]"
+  - "[[Paradigm]]"
+  - "[[Counterfactual]]"
+  - "[[Scientific Productivity]]"
+  - "[[Learning Economy]]"
   - "[[The Graying of Science]]"
-related_theories:
-  - "[[Burden of Knowledge]]"
-  - "[[Random Impact Rule]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benjamin F. Jones]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -48,8 +53,8 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍发展心理学家与教育心理学家，俄亥俄大学心理学教授，美国心理学会（APA）成员。
-> - **核心角色** 科学学与创造力生命周期经验统计的先驱奠基人；历时近三十年搜集跨越数个世纪的历史档案，系统测定人类在各智力与创造力领域的成就年龄分布。
-> - **代表贡献** 撰写经典里程碑著作《年龄与成就》（*Age and Achievement*, 1953），确立了重大科学发现、技术发明与文学艺术创作在 30 至 40 岁达到经验峰值的宏观倒 U 型曲线。
+> - **核心角色** 科学学与[[Creativity|创造力]]生命周期经验统计的先驱奠基人；历时近三十年搜集跨越数个世纪的历史档案，系统测定人类在各智力与创造力领域的成就年龄分布。
+> - **代表贡献** 撰写经典里程碑著作《年龄与成就》（*Age and Achievement*, 1953），确立了重[[Big Science|大科学]]发现、技术发明与文学艺术创作在 30 至 40 岁达到经验峰值的宏观倒 U 型曲线。
 
 > [!citation-card] 莱曼论人类创造力巅峰的中年集聚
 > 自乔治·M·比尔德（George M. Beard）于 1874 年首次估测人类卓越成就多发生在 35 至 40 岁之后，哈维·C·莱曼（Harvey C. Lehman）耗费约三十年时间深耕这一课题，将其毕生研究提炼于 1953 年出版的《年龄与成就》一书中。自那以来，跨学科研究不断验证并丰富了这一图景，揭示出高度稳健的普遍经验模式：无论考察何种创造力领域或采用何种成就界定标准，个体的最佳代表作普遍在中年阶段产出，大致落在 30 至 40 岁之间。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 40)]]
@@ -84,11 +89,11 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **理论路径** 终结了此前主要基于个人传记与轶事的朴素天才论，开创了基于大样本历史档案与计量人口统计的创造力科学传统。
-> - **方法路径** 确立了以“第一项重大突破发生年龄”与“毕生最高成就代表作发表时序”为核心指标的计量心理学范式。
-> - **科学学继承** 为[[Benjamin F. Jones|本杰明·F·琼斯]]（Benjamin F. Jones）的知识负担假说、王大顺与巴拉巴西关于科学家成就轨迹的探索提供了核心历史经验参照点。
+> - **方法路径** 确立了以“第一项重大突破发生年龄”与“毕生最高成就代表作发表时序”为核心指标的计量心理学[[Paradigm|范式]]。
+> - **科学学继承** 为[[Benjamin F. Jones|本杰明·F·琼斯]]（Benjamin F. Jones）的知识负担假说、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]关于科学家成就轨迹的探索提供了核心历史经验参照点。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将莱曼 1953 年的经典发现作为现代科学学生涯动力学研究的历史起点，进而引入反事实随机置换模型展开深层机制解构。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将莱曼 1953 年的经典发现作为现代科学学生涯动力学研究的历史起点，进而引入[[Counterfactual|反事实]]随机置换模型展开深层机制解构。
 
 ---
 
@@ -109,6 +114,6 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Scientific Productivity]] | 概念 | 首次跨领域实证绘制科学家全生命周期生产力与巅峰成就经验曲线。 |
+> | [[Scientific Productivity]] | 概念 | 首次跨领域实证绘制科学家全生命周期生产力与巅峰成就[[Learning Economy\|经验曲线]]。 |
 > | [[The Graying of Science]] | 概念 | 奠定了科学界年龄与卓越成就关联分析的基础经验问题意识。 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02]] | 论证 | 构成第四章关于年龄与科学成就经验规律的历史理论源头。 |

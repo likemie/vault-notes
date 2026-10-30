@@ -11,9 +11,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Sense about Science
 tags:
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Critical Thinking]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Scientific Literacy]]"
   - "[[Public Engagement with Science]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-10-26
 ---
 
 > [!feature] 三大标志性公众教育与学者培育支柱
-> - **“向证据要答案”（Ask for Evidence）公民[[Critical Thinking\|批判性思维]]教育行动** 针对铺天盖地的商业宣传、健康谣言与政客主张，为中小学师生、大学生及广大公众提供标准化的证据核验指南，鼓励公众主动致信商业机构、媒体与政府部门索要原始学术文献。
+> - **“向证据要答案”（Ask for Evidence）公民[[Critical Thinking\|批判性思维]]教育行动** 针对铺天盖地的商业宣传、健康谣言与政客主张，为中小学师生、大学生及广大公众提供标准化的证据核验指南，鼓励公众主动致信商业机构、媒体与政府部门索要原始学术[[Document|文献]]。
 > - **“青年科学之声”（Voice of Young Science, VoYS）早期学者实训网络** 面向全英及欧洲各大高校的数万名跨学科硕博研究生与博士后，定期开展高强度科学传播实战工作坊，训练青年学者在面对公众舆论误导与尖锐政治争议时捍卫科学求真的专业能力。
 > - **《证据透明度审查框架》（Transparency of Evidence）** 与英国智库政府研究所（Institute for Government, IfG）联合研制，设立“诊断、证据、权衡、评价”四维审核标准，常态化对中央政府各部委重大政策的循证透明度进行独立[[External Auditor\|外部审计]]。
 

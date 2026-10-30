@@ -5,7 +5,7 @@ aliases:
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -98,7 +99,7 @@ updated: 2026-10-22
 > - 在 28 个同时有开发者和独立研究的干预中，27/28 的开发者的平均[[Effect Size\|效应量]]方向性更大([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 438]])
 > - 开发者研究更倾向使用[[Quasi-Experimental Designs\|准实验设计]]（51% vs. 15%）、研究者/[[Developer-Made Measures\|开发者自编测量]]（29% vs. 8%）和更小[[Sample Size Determination\|样本量]]（均值 392 vs. 659）([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 434–436]])
 > - 开发者研究平均发表年份更早([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 436]])
-> - 敏感性分析（移除研究生研究、仅实验设计、仅准实验设计）均未改变开发者效应的大小和方向([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 441]])
+> - 敏感性分析（移除研究生研究、仅[[Experimental Research|实验设计]]、仅准实验设计）均未改变开发者效应的大小和方向([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 441]])
 
 > [!warning] 争议与批评
 > - **因果不确定性** [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 442)]] 明确承认"我们无法确定此开发者效应的来源"，研究本质上是描述性的而非[[Causality\|因果性]]的

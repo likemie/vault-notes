@@ -7,7 +7,7 @@ aliases:
 summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,12 +18,13 @@ tags:
   - paradigm/interpretivist
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Habitus]]"
   - "[[Praxis]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Creativity]]"
-  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-22
 
 ### 争论的诊断：意识层次的混淆
 
-Vaisey 指出，工具箱[[Paradigm|范式]]的问题在于假定了文化与行动的关联**必然在意识层面进行**。援引 Giddens 和Bourdieu——动机或习性完全可能是无意识的——工具箱范式所假设的文化运用者形象（灵活熟练、审时度势）只在有意识的、深思熟虑的认知层面成立（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
+Vaisey 指出，工具箱[[Paradigm|范式]]的问题在于假定了文化与行动的关联**必然在意识层面进行**。援引 Giddens 和Bourdieu——动机或[[Habitus|习性]]完全可能是无意识的——工具箱范式所假设的文化运用者形象（灵活熟练、审时度势）只在有意识的、深思熟虑的认知层面成立（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
 
 ### 双过程认知机制
 
@@ -97,7 +98,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 ---
 
-> [!info] 认识论立场
+> [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology\|本体论]]** 文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的实践意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的习性概念（作为深层内化）和 Swidler 的[[Culture as Toolkit\|文化工具箱]]（作为浅层内化）（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Vaisey, 2009）。
 > - **方法论**Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和[[Discourse Analysis\|话语分析]]获取。
 

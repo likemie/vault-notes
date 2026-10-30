@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something happened while nobody was looking: The growth of international education and the Chinese learner"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Document]]"
+  - "[[Study Abroad]]"
   - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[Scientific Literacy]]"
@@ -48,7 +50,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2010
 doi: ""
 citation_aliases:
@@ -68,9 +70,9 @@ citation_aliases:
 > Slethaug 默认预设了"[[Knowledge-Based Economy\|知识经济]]"（Knowledge-Based Economy）的存在——即一个国家的国际[[Competitiveness|竞争力]]，取决于其生产知识而非仅生产商品的能力。这个预设是理解他整个论证的钥匙：为什么[[International Education\|国际教育]]值得关注？因为教育产出=知识产出=国家竞争力。
 
 > [!info] 研究方法
-> 汇集来自 [[OECD]]、IIE（[[International Education\|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术文献的分析，拼接出一幅国际教育发展的全景图。
+> 汇集来自 [[OECD]]、IIE（[[International Education\|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术[[Document|文献]]的分析，拼接出一幅国际教育发展的全景图。
 >
-> 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability\|可靠性]]。
+> 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国[[Study Abroad|出国留学]]生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability\|可靠性]]。
 
 > [!example] 论证结构
 > Slethaug 的论证分为六个递进步骤，从最宏观的"教育为什么是地方事务"开始，一步步推到"[[International Education\|国际教育]]在无人察觉中爆炸了"和"[[Chinese Learner\|中国学习者]]的复杂性被低估了"。每一步都有具体的例子支撑。

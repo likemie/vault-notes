@@ -6,7 +6,7 @@ aliases:
 summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Zhonghua Minzu]]"
   - "[[Membership-Creating Function of Education]]"
+  - "[[Document]]"
   - "[[Sinicisation]]"
   - "[[Patriotic Education]]"
   - "[[Paradigm]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 核心主张
@@ -76,7 +77,7 @@ updated: 2026-10-22
 
 
 > [!abstract] 中国的边疆教育案例
-> | 地区 | 核心策略 | 关键文献 |
+> | 地区 | 核心策略 | 关键[[Document\|文献]] |
 > |------|---------|---------|
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold and Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |

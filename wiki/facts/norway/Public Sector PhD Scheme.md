@@ -11,9 +11,9 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2014至今"
 initiator_organization: "挪威研究理事会（Research Council of Norway / Norges forskningsråd）"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Embedded Researcher]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Mediation]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -132,4 +133,4 @@ updated: 2026-10-22
 > | [[Knowledge Mediation]] | Concept | 计划培养的复合型人才直接承担部内知识中介与政策翻译功能。 |
 > | [[Kunnskapssenter for utdanning]] | Fact (Organization) | 挪威国家教育知识中心，与该计划联合构筑挪威教育循证中枢。 |
 > | [[Doctoral Grant for Teachers]] | Fact (Program) | 荷兰针对中小学一线教师的博士资助计划，形成行政端 vs 实践端的机制互补。 |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 详细记述并分析该计划的来源文献。 |
+> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 详细记述并分析该计划的来源[[Document\|文献]]。 |

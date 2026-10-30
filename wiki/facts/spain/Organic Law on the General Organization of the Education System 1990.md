@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Academic Achievement]]"
   - "[[Competitiveness]]"
+  - "[[Student Motivation]]"
 related_facts:
   - "[[General Act of Education of 1970]]"
   - "[[Institute of Education Sciences]]"
@@ -45,7 +46,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-10-22
 
 > [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论 1990 年 LOGSE 均质学制的实证后果**
-> 1990 年法律要求所有学生在 16 岁之前修习完全相同的课程。其后果在教育界是众所周知的：它在学校内部创造了一大批缺乏任何学习动机的学业抗拒者，使得初中最后两年成为冲突多发的温床；高达三分之一的学生在 16 岁遭遇学业失败，而达到卓越学术水平的学生不足 4%。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
+> 1990 年法律要求所有学生在 16 岁之前修习完全相同的课程。其后果在教育界是众所周知的：它在学校内部创造了一大批缺乏任何[[Student Motivation|学习动机]]的学业抗拒者，使得初中最后两年成为冲突多发的温床；高达三分之一的学生在 16 岁遭遇学业失败，而达到卓越学术水平的学生不足 4%。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 >
 > *The 1990 Law, while amplifying obligatory education to 16 years of age also applied to all students up to this age an identical curriculum. The consequences are well known in the education world... large masses of student objectors in schools... a failure rate of 33% at 16 years of age... fewer than 4% with excellent results.*
 

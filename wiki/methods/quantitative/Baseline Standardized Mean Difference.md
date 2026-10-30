@@ -10,9 +10,9 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Heterogeneity]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Interaction Effect]]"
   - "[[Implementation Fidelity]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Socioeconomic Status]]"
+  - "[[Student Motivation]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +98,7 @@ updated: 2026-10-29
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 循证评价坚持“[[Causality\|因果推断]]的可比性依赖于[[Counterfactual\|反事实]]构造的无偏性”。在非[[Random Assignment\|随机分配]]的准实验情境下，若未严格证明组间起点等价，[[Pre-test and Post-test\|后测]]观察到的组间差异必然混杂了不可观测的初始能力和环境禀赋差异。
-> - **研究者角色** 研究者必须执行标准化的前端硬性门槛筛选，避免将研究者对初级研究的个人偏好引入文献池。
+> - **研究者角色** 研究者必须执行标准化的前端硬性门槛筛选，避免将研究者对初级研究的个人偏好引入[[Document|文献]]池。
 > - **有效性标准** 核心保障研究的[[Internal Validity\|内部效度]]（Internal Validity）与统计结论效度，为[[Campbellian Validity Framework\|坎贝尔效度体系]]中抵御“选择-成熟[[Interaction Effect\|交互作用]]”（Selection-Maturation Interaction）提供量化屏障。
 > - **不声称回答的问题** 基线等效仅证明两组在所测量的观测[[Variable\|变量]]上起点相当，不能完全排除未测量的深层心理特质差异，亦不能替代对实验[[Implementation Fidelity\|实施保真度]]（Implementation Fidelity）与磨蚀偏倚（[[Attrition\|attrition bias]]）的审查。
 
@@ -163,7 +165,7 @@ updated: 2026-10-29
 > [!warning] 为什么 $|d_{\text{baseline}}| > 0.25$ 时 ANCOVA 统计校正会失效？
 > 1. **潜在分布质性异质性** 当组间基线差异超过 $0.25$ 个标准差时，两组学生通常来自质性不同的群体（如重点班 vs 普通班）。此时测验工具可能在高端出现“[[Floor and Ceiling Effects\|天花板效应]]”或在低端出现“地板效应”，严重扭曲分数的等距性。
 > 2. **违背回归斜率齐性假定（Homogeneity of Regression Slopes）** 协[[Analysis of Variance\|方差分析]]的核心假定是两组的前测-后测回归斜率完全平行。当初始能力差距过大时，能力强组的认知增速往往远高于薄弱组（马太效应），导致斜率异质，强行线性调整会产生严重的人为估计偏差。
-> 3. **高维未测混杂的投射** $0.25$ SD 的巨大落差往往是家庭[[Socioeconomic Status|社会经济地位]]、前期累积学业资本与学习动机的综合外显，单凭单一前测分数的线性扣除绝不可能彻底剔除这些高维多重共线性变量的影响。
+> 3. **高维未测混杂的投射** $0.25$ SD 的巨大落差往往是家庭[[Socioeconomic Status|社会经济地位]]、前期累积学业资本与[[Student Motivation|学习动机]]的综合外显，单凭单一前测分数的线性扣除绝不可能彻底剔除这些高维多重共线性变量的影响。
 
 ---
 

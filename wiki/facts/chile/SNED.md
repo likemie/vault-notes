@@ -11,7 +11,7 @@ subtype: program
 region: "chile"
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Test-Based Accountability]]"
   - "[[Institutional Layering]]"
+  - "[[School Vouchers]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -133,4 +134,4 @@ updated: 2026-10-22
 > | [[Docentemás]] | Fact (Program) | 针对教师个体教学实践维度的考评系统，与针对学校团队的 SNED 互为对照。 |
 > | [[Value-Added Model]] | Method | SNED 在评估校际进步度指标时所运用的计量学统计方法构件。 |
 > | [[Test-Based Accountability]] | Concept | SNED 物质奖金机制所深植的基于测验的高利害绩效问责框架。 |
-> | [[Institutional Layering]] | Concept | 解释在原有市场教育券框架上追加教师绩效奖金这一增量规则的制度变迁范畴。 |
+> | [[Institutional Layering]] | Concept | 解释在原有市场[[School Vouchers\|教育券]]框架上追加教师绩效奖金这一增量规则的制度变迁范畴。 |

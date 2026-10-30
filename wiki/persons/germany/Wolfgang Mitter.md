@@ -7,7 +7,7 @@ summary: "德国比较教育学家，曾任法兰克福德国国际教育研究�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Rich and Thick Description]]"
+  - "[[Document]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
   - "[[Comprehensive Education]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1927** **纳霍德出生与中欧多文化历史底色** 出生于捷克斯洛伐克纳霍德（Náchod），深受中欧多民族、多语言与复杂历史传统的浸润。
-> - **1954** **美因茨大学获博士学位奠定斯拉夫史学根基** 在德国美因茨大学完成博士学业，专攻欧洲历史学、斯拉夫语言文学与教育学，奠定了其开展东西欧教育体制[[Rich and Thick Description|深描]]的文献学与历史发生学基础。
+> - **1954** **美因茨大学获博士学位奠定斯拉夫史学根基** 在德国美因茨大学完成博士学业，专攻欧洲历史学、斯拉夫语言文学与教育学，奠定了其开展东西欧教育体制[[Rich and Thick Description|深描]]的[[Document|文献]]学与历史发生学基础。
 > - **1972–1995** **执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 确立国家级非大学比较研究中枢** 出任德国[[International Education|国际教育]]研究所（DIPF）所长兼比较教育研究部主任，与瓦尔特·舒尔策（Walter Schultze）共同开辟专门比较教育研究实体与学术教席，成为西德大学体系之外最重要的国家学术智库。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
 > - **1981–1985** **主政[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）架设冷战学术桥梁** 当选并连任欧洲比较教育学会（CESE）会长，恪守学者个人会员制原则，积极打破东西欧阵营壁垒，促成铁幕两侧教育学者的制度化对话。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]
 > - **1991–1996** **主政[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）引领全球网络重组** 在柏林墙倒塌与苏东剧变后出任 WCCES 会长，组织协调后社会主义国家的教育体制转型评估，推动跨大洲学术对话与理论重构。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]

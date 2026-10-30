@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由内森·卡普兰于 1979 年提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，后拓展为包含快慢车道与双重反馈回路断裂的知识治理模型，是政策中介、边界跨越者与研究利用理论的奠基性元框架。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 52
+theory_related_count: 53
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Knowledge Co-production]]"
   - "[[Knowledge Mediation]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Legislative Policy Brief]]"
   - "[[Governing by Numbers]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-26
 > [!dev-timeline] 理论版本与贡献
 > - **1979 — 内森·卡普兰确立两社区元模型** Caplan (1979) 实证揭示学术界与决策层在奖酬、时间表与价值取向上的结构性差异，奠定[[Research Utilization|研究利用]]的文化制度阻滞解释框架。
 > - **1980s–1990s — 智库兴起与多元知识利用模型分化** [[Carol Weiss|卡罗尔·韦斯]]（Carol Weiss, 1979）与 Caplan (1991) 细化知识利用类型（工具性、概念性与象征性），研究重心转向中间桥梁机构的制度设计与[[Knowledge Co-production|协同生产]]机制。
-> - **2019 — 对二元割裂隐喻的反思与解构** 麦基洛普等（Mackillop, Downe, & Quarmby, 2019）系统检视[[Knowledge Mediation|知识中介]]文献，指出将科学设想为纯粹真理、将政治设想为实用行动的二元划分遮蔽了两界内部的[[Heterogeneity|异质性]]以及知识与权力的互构关系。
+> - **2019 — 对二元割裂隐喻的反思与解构** 麦基洛普等（Mackillop, Downe, & Quarmby, 2019）系统检视[[Knowledge Mediation|知识中介]][[Document|文献]]，指出将科学设想为纯粹真理、将政治设想为实用行动的二元划分遮蔽了两界内部的[[Heterogeneity|异质性]]以及知识与权力的互构关系。
 > - **2020 — 国会山实践视角与法条化跨界技术** [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 提出局内人跨界分析框架，揭示学者与议员引证行为的对称性偏好，确立沉浸式国会政策研究员与[[Legislative Policy Brief|立法政策简报]]示范法条化的高阶跨界机制。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代政策中介与[[Soft Power by Hard Facts|硬事实软权力]]** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] 将理论运用于全球教育治理，揭示国际组织兼具[[Knowledge Production|知识生产]]、推介与出资的多重角色，论证中介机构在证据过剩环境下凭借硬事实构筑[[Façade of Rationality|理性表象]]的权力运作实质。
 > - **2024 — [[Fast and Slow Lanes Model|快慢车道模型]]确立与双重反馈回路断裂揭示** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 为[[UNESCO|联合国教科文组织]]撰写全球监测背景报告，提出知识治理的“快车道（政策界）-慢车道（学术界）-中间车道（中介机构）”三轨模型，实证揭示研究生产与政策决策、全球供给与本土需求之间的双重反馈回路断裂，系统阐明部委内设常设[[Educational Brokerage Agency|知识经纪机构]]化解两难的制度路径。

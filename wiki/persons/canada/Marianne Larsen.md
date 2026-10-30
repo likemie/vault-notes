@@ -7,7 +7,7 @@ summary: "加拿大比较教育与教育史学家，西安大略大学荣休教�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Student Mobility]]"
   - "[[Space Production]]"
+  - "[[Service Learning]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Protean Episteme]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-22
 >   - **关键概念／方法** 新文化史、规训权力、主体化机制。
 >   - **阶段转向** 展现了后结构主义比较史学在具体微观教育主题上的强大解释力。
 > - **2014–至今 — 空间转向与全球教育正义** 融合地理学与社会学空间理论，考察全球化背景下国际志愿支教、[[Student Mobility|学生流动]]与跨国公民认同的[[Space Production|空间生产]]逻辑。
->   - **代表著作** *Spatializing International and Comparative Education* (2014); *International Service Learning: Engaging Host Communities* (2015)。
+>   - **代表著作** *Spatializing International and Comparative Education* (2014); *International [[Service Learning]]: Engaging Host Communities* (2015)。
 >   - **关键概念／方法** 空间转向（Spatial Turn）、[[Global Citizenship|全球公民教育]]、跨文化同理心。
 >   - **阶段转向** 从历史时间轴的纵向批判延伸至全球空间轴的横向正义构建。
 

@@ -12,8 +12,8 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 authors:
-  - "Wang, D."
-  - "Barabási, A.-L."
+  - "[[Dashun Wang|Wang, D.]]"
+  - "[[Albert-László Barabási|Barabási, A.-L.]]"
 source_language: "en"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"

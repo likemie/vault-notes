@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,23 +21,26 @@ tags:
   - "maths"
   - "early-years"
   - "whole-class-approach"
-related_concepts: []
+related_concepts:
+  - "[[Jigsaw]]"
+  - "[[Early Numeracy Approaches]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 入学班数学拼图项目（Reception Jigsaw）面向入学班教师与助教，并包括一年级工作人员。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/reception-jigsaw)
+> 入学班数学拼图项目（Reception [[Jigsaw]]）面向入学班教师与助教，并包括一年级工作人员。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/reception-jigsaw)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>
@@ -46,7 +49,7 @@ updated: 2026-10-28
 ---
 
 > [!policy-design] 干预方案
-> - **学习活动** 以到校培训和指导帮助教师运用早期数学教学原则，并根据学校需要调整指导内容。
+> - **学习活动** 以到校培训和指导帮助教师运用[[Early Numeracy Approaches|早期数学教学]]原则，并根据学校需要调整指导内容。
 
 [方案与实施安排](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/reception-jigsaw#nav-how-is-it-implemented)
 

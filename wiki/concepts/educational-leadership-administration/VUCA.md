@@ -4,7 +4,7 @@ aliases: ["波动性-不确定性-复杂性-模糊性", "VUCA 框架", "VUCA环�
 summary: "描述 21 世纪组织与社会环境的四维概念，分别指波动性、不确定性、复杂性和模糊性，也可作为将结构性问题个体化的治理话语工具"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -13,6 +13,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Discourse]]"
   - "[[Causality]]"
+  - "[[Geopolitics]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[21st Century Skills and Competencies Discourse]]"
 related_theories:
@@ -26,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -40,7 +41,7 @@ updated: 2026-10-22
 > - **复杂性（Complexity）** 多重因素交织——教育、经济、技术、政治等多系统相互缠绕，单线因果分析失效
 > - **模糊性（Ambiguity）**[[Causality\|因果关系]]不明确——面对同一现象存在多种竞争性解读，缺乏共识性框架（Hughes, 2018, p.xiv, cit. by Zelinka, 2022, p.264）
 
-> [!abstract] 在知识地缘政治中的功能
+> [!abstract] 在知识[[Geopolitics|地缘政治]]中的功能
 > [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, pp.264-265)]]在分析全球治理技术时，将 VUCA 定位为三重运作机制的第一步——**问题化与个体化（problematizing and individualizing）**
 
 VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观条件——"波动性、不确定性、复杂性、模糊性"。这组条件一旦被接受为不可改变的背景，其隐含的政策方向便自然浮现：既然环境不可控，唯一能做的是让个体具备应对环境的能力。

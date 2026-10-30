@@ -12,7 +12,7 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 50
+method_related_count: 52
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Reliability]]"
   - "[[Unit of Analysis]]"
+  - "[[Document]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -55,6 +56,7 @@ related_methods:
   - "[[Item Analysis]]"
   - "[[Exploratory Factor Analysis]]"
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Experimental Research]]"
   - "[[Delphi Technique]]"
   - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
@@ -82,7 +84,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -97,7 +99,7 @@ updated: 2026-10-29
 > - **输出形式** 标准化量表手册（包含题项清单、作答等级与计分指南）、探索性因子载荷矩阵、验证性结构方程模型拟合参数、[[Average Variance Extracted\|平均方差抽取量]]（AVE）与[[Composite Reliability\|组合信度]]（CR）效度矩阵、跨组测量等值性阶梯报告及常模参照基准。
 
 > [!citation-card] 关键定义
-> 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论文献中界定构念边界并生成初始题池，通过专家[[Content Validity Index\|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis\|项目分析]]与[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity\|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
+> 现代量表编制是一个多阶段、迭代演进的严格科学流程：研究者首先从理论[[Document|文献]]中界定构念边界并生成初始题池，通过专家[[Content Validity Index\|内容效度指数]]（CVI）评审与目标群体认知访谈进行初筛；随后在样本 1 中执行[[Item Analysis\|项目分析]]与[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）精简题项并探索潜在维度；最后在独立样本 2 中运用[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）确证一阶与高阶因子结构，检验[[Convergent and Discriminant Validity\|收敛效度]]（AVE ≥ .50）与区分效度（Fornell-Larcker 准则），并确立跨群体的严格测量等值性。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
 >
 > *Scale development is an iterative, multi-phase methodology in which researchers define construct boundaries, generate item pools, evaluate content validity via expert panels, and administer the instrument across independent samples to conduct EFA for dimension discovery and CFA for structural verification, convergent/discriminant validity, and measurement invariance.*
 
@@ -107,7 +109,7 @@ updated: 2026-10-29
 > - **知识观** 潜在特质（Latent Trait）虽不可直接观测，但可以通过一组具有[[Reflexivity\|反思性]]（Reflective）或形成性（Formative）的外显行为指标进行概率性、线性加权推断。
 > - **研究者角色** 研究者必须在[[Construct\|构念]]界定、题项编制、因子截断标准选择及模型误差协方差修正中保持高度的理论自觉与方法学反思，严禁陷入纯粹数据驱动的机械拟合。
 > - **有效性标准** 遵循严密的测量学阶梯：[[Face Validity\|表面效度]] $\rightarrow$ [[Content Validity\|内容效度]]（[[Content Validity Index\|CVI]] / CVR） $\rightarrow$ 探索性[[Construct Validity\|结构效度]]（EFA） $\rightarrow$ 验证性结构效度（[[Confirmatory Factor Analysis\|CFA]]） $\rightarrow$ 收敛与[[Convergent and Discriminant Validity\|区分效度]]（[[Average Variance Extracted\|AVE]] / CR / Fornell-Larcker 准则） $\rightarrow$ 跨群体[[Measurement Invariance\|测量等值性]]。
-> - **不声称回答的问题** 量表本身仅提供测量构念的有效工具，量表得分之间的相关或群体差异无法直接推断[[Causality\|因果关系]]，需进一步结合实验设计或纵向追踪模型。
+> - **不声称回答的问题** 量表本身仅提供测量构念的有效工具，量表得分之间的相关或群体差异无法直接推断[[Causality\|因果关系]]，需进一步结合[[Experimental Research|实验设计]]或纵向追踪模型。
 
 > [!method-stack] 方法层级
 > - **研究设计** 心理测量工具开发设计、两阶段双独立样本横断面调查设计。
@@ -323,4 +325,4 @@ updated: 2026-10-29
 > | [[Composite Reliability]] | 评估指标 | 阶段三用于结构方程模型中精确估计潜变量[[Internal Consistency\|内部一致性]]的合成信度指标。 |
 > | [[Measurement Invariance]] | 高级方法 | 阶段三用于确立测量工具跨群体（如性别、文化）[[External Validity\|可推广性]]的等值性检验方法。 |
 > | [[Research Literacy Scale for Teachers]] | 测量工具 | 严格践行量表编制八步规范与心理测量学验证的典范测量工具。 |
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 论证文献 | 提供量表编制全流程实证数据与心理测量指标报告的代表论文。 |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 论证[[Document\|文献]] | 提供量表编制全流程实证数据与心理测量指标报告的代表论文。 |

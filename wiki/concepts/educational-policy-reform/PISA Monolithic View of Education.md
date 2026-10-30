@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇与斯约伯格等针对经合组织 PISA 提出的批判性学术构念，指 PISA 预设存在一套独立于各民族国家历史传统、社会结构与发展情境的普适教育质量评价标准，将少数 OECD 发达市场经济体的现实偏好强加于全球近 200 个多样性社会。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemic Inequality]]"
   - "[[PISA Distorted View of Education]]"
   - "[[Competitiveness]]"
+  - "[[Whole Person Education]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Policy Borrowing]]"
   - "[[Problem Solving]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-29
 > |---|---|---|---|
 > | **关注焦点** | 普适性指标前设与西方市场中心主义偏见 | 教育根本目的被全盘还原为狭隘经济[[Competitiveness\|竞争力]] | 强调教育深植于民族国家历史文化容器之中 |
 > | **批判矛头** | 抹杀全球近 200 个异质社会的发展与文化多样性 | 边缘化人文、艺术、公民身份与身心健康 | 抵制超国家技术官僚推行的去情境化指标治理 |
-> | **理论渊源** | [[Post-colonial Theory\|后殖民理论]]与批判比较教育学（Sjøberg; Zhao） | 批判教育社会学与全人教育哲学（Zhao 2020） | [[Michael Sadler\|萨德勒]]（Sadler）文化借用传统与米特尔[[Navigation Metaphor in Comparative Education\|航海隐喻]] |
+> | **理论渊源** | [[Post-colonial Theory\|后殖民理论]]与批判比较教育学（Sjøberg; Zhao） | 批判教育社会学与[[Whole Person Education\|全人教育]]哲学（Zhao 2020） | [[Michael Sadler\|萨德勒]]（Sadler）文化借用传统与米特尔[[Navigation Metaphor in Comparative Education\|航海隐喻]] |
 
 ---
 

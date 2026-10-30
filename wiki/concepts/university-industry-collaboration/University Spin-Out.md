@@ -11,7 +11,7 @@ aliases:
 summary: "基于大学研究项目产生的知识产权而创建的初创企业，区别于学生宿舍创业，面临 IP 所有权约束、风险融资缺口和技术就绪度不足等结构性挑战"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Extracurricular Activities]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Performance Indicators]]"
   - "[[Corporate Venture Capital]]"
@@ -36,7 +37,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -47,7 +48,7 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 > - vs 一般初创企业（Startup）— 一般初创企业可在任何环境中诞生；大学衍生企业特指基于大学研究 IP 创建的初创企业，需通过[[Technology Transfer\|大学技术转移]]办公室进行知识产权许可（p.142）
-> - vs 学生创业（Student Entrepreneurship）— 学生创业可能是课堂项目或课外活动的结果，通常不涉及大学拥有的 IP；大学衍生企业以教员或研究人员的实验室研究为基础（pp.141-142）
+> - vs 学生创业（Student Entrepreneurship）— 学生创业可能是课堂项目或[[Extracurricular Activities|课外活动]]的结果，通常不涉及大学拥有的 IP；大学衍生企业以教员或研究人员的实验室研究为基础（pp.141-142）
 
 > [!warning] 赞助研究中的 IP 所有权约束
 > [[Sponsored Research Agreement|产业赞助研究]]（[[Sponsored Research Agreement\|sponsored research]]）中，赞助企业通常要求对研究成果的知识产权拥有排他性权利，以防止竞争对手使用。这种知识产权的捆绑使衍生企业难以灵活运营和创新——外部投资者将 IP 限制和赞助方在股权结构表中的位置视为危险信号（red flag）。缺乏进入资本市场的渠道，衍生企业只能依赖原始赞助方的资金，而企业的年度预算、领导层变动和与初创企业生命周期不匹配的[[Performance Indicators\|绩效指标]]往往导致这些项目在成功之前被终止（pp.143-144）。
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > - **传统风投要求成熟团队** 风投基金偏好经验丰富的团队、已验证的技术和巨大的市场机会。至少 75% 的风投投资会失败（Pullman, 2023），因此投资者需要足够的回报潜力来证明风险是合理的（pp.145-146）
 > - **天使投资人的局限性** 天使投资人通常兼职投资、不主动寻找交易、只在本地区域投资，使得在正确的时间找到匹配的投资人很困难（p.146）
 
-> [!warning] 技术就绪度不足
+> [!warning] [[Technology Readiness Level|技术就绪度]]不足
 > 大多数大学衍生企业的[[Technology Readiness Level\|技术就绪度]]（Technical Readiness Level, TRL）不足以满足企业试点项目的要求。这形成了一个"第二十二条军规"（Catch-22）：初创企业需要通过企业试点项目来验证技术并提高 TRL，但企业只愿意在 TRL 足够高时才投入资源进行试点（p.145）。
 
 > [!warning] 市场驱动的价值创造不足

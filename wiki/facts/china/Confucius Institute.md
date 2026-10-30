@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2004–至今"
 initiator_organization: "国家汉语国际推广领导小组办公室 / 中国国际中文教育基金会"
@@ -25,6 +25,7 @@ tags:
   - geopolitics
   - level/international
 related_concepts:
+  - "[[Public Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Language Skills]]"
   - "[[Research Universities]]"
@@ -34,14 +35,17 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Outward-Oriented Internationalization]]"
   - "[[Hard Power]]"
+  - "[[Document]]"
+  - "[[Geopolitics]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Interview]]"
 related_instruments: []
 related_persons:
   - "[[Confucius]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
-  - "[[Chinese Academy of Sciences]]"
+  - "[[American Spaces]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Custer_2021_AidData]]"
@@ -52,13 +56,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> [[Confucius|孔子]]学院（Confucius Institute, CI）是中国官方推动语言文化走出去与发展公共外交的旗舰性教育国际合作工程。依托“中外高校对口合作、双方按需共建”的独特模式，在海外高等院校与教育机构中开办语言教学与文化交流平台，旨在增进世界各国对中国语言文化的认知，深化国际人文交流与民间友谊。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> [[Confucius|孔子]]学院（Confucius Institute, CI）是中国官方推动语言文化走出去与发展[[Public Diplomacy|公共外交]]的旗舰性教育国际合作工程。依托“中外高校对口合作、双方按需共建”的独特模式，在海外高等院校与教育机构中开办语言教学与文化交流平台，旨在增进世界各国对中国语言文化的认知，深化国际人文交流与民间友谊。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2004年首家海外孔子学院在韩国首尔正式挂牌，经历二十余年全球网络扩张与深度治理重组，当前处于机制转型与常态化运营阶段。
@@ -128,7 +132,7 @@ updated: 2026-10-26
 > - **65** （个） 截至2021年中国在南亚与中亚13国布设的孔子机构总数（含28所孔子学院与37所孔子课堂），占区域外国文化中心总数的 30%（仅次于美国的 42%）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 24)]]
 > - **25** （个） 截至2021年吉尔吉斯斯坦境内的孔子机构总数，占全吉外国文化中心总数的 64%，形成高度集中的语言基地。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–25)]]
 > - **2** （所） 乌兹别克斯坦对孔子学院设置的法定数量上限（分别设于塔什干与撒马尔罕）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26)]]
-> - **27** （个） 截至2017年柬埔寨皇家[[Chinese Academy of Sciences|科学院]]孔子学院在全柬设立的教学班与下设课堂总数，展现出在东南亚周边国家的密集下沉办学网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1047)]]
+> - **27** （个） 截至2017年柬埔寨皇家科学院孔子学院在全柬设立的教学班与下设课堂总数，展现出在东南亚周边国家的密集下沉办学网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1047)]]
 > - **31** （所） 截至 2021 年中国在东南亚地区设立并运营的孔子学院总数，深度嵌入在地大学建制。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
 
 ---
@@ -148,7 +152,7 @@ updated: 2026-10-26
 > >
 > > - **[[Cultural Diplomacy|文化外交]]视角** 认为语言学习能带来长久的文化共情与民间亲近感，是积累长期社会信任的基石。
 > > - **批判政治经济学立场** 认为如果对外大战略在深层展现出浓厚的地缘经济工具化色彩，表层的语言文化传播往往难逃战略攻势的刻板定性；一旦地缘互信受挫，单纯的语言机构极易受到波及。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
-> > - **区域大国竞争与本土社会阻力** 在南亚面临英国文化教育协会与美国空间的竞争，在中亚直面俄罗斯文化中心深厚的历史语言网络；在马尔代夫等保守社会，由于孔子塑像及非伊斯兰文化标识引发宗教审查阻力，机构被迫更名以淡化文化标签。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–26, 60)]]
+> > - **区域大国竞争与本土社会阻力** 在南亚面临英国文化教育协会与[[American Spaces|美国空间]]的竞争，在中亚直面俄罗斯文化中心深厚的历史语言网络；在马尔代夫等保守社会，由于孔子塑像及非伊斯兰文化标识引发宗教审查阻力，机构被迫更名以淡化文化标签。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–26, 60)]]
 > > - **[[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]]** 基于中柬孔子学院师生与管理层知情人访谈指出，青年主动报考孔院学习中文的核心动因在于中资企业与工业园区带来的就业岗位与收入增长等功利预期；这种实用性参与构成了有效载体，促使受众自发关注并认同中国现代科技与经济发展模式。
 
 > [!lessons] 经验教训与启示
@@ -164,8 +168,8 @@ updated: 2026-10-26
 > | [[Internationalization of Higher Education]] | Concept | [[Confucius\|孔子]]学院是中国早期[[Outward-Oriented Internationalization\|外向型高等教育国际化]]与文化走出去的标志性实践载体。 |
 > | [[Hard Power]] | Concept | 剖析文化[[Soft Power\|软实力]]传播机制与国家硬实力支撑之间相互依存的理论透镜。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 孔子学院自 2016 年起深度嵌入一带一路沿线人文交流与语言互通布局。 |
-> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理“一带一路”沿线国家孔子学院布局规模与中非教育合作网络演进的代表性文献。 |
+> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理“一带一路”沿线国家孔子学院布局规模与中非教育合作网络演进的代表性[[Document\|文献]]。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证审视柬埔寨孔子学院下设课堂网络、本土化教材编撰及文化传播向当代科技生活转型的田野文献。 |
 > | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 测度南亚与中亚 13 国孔子学院与孔子课堂分布格局，揭示其集中于大都市与首都、次国家覆盖有限的实证特征。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 考察孔子学院在东南亚的 31 所机构布局，揭示其嵌入在地大学的办学模式与地缘政治争议。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 针对柬埔寨皇家科学院孔子学院师生开展质性访谈，揭示功利性就业驱动作为青年学习中文核心动因及其向现代发展模式认同转化的机制。 |
+> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 考察孔子学院在东南亚的 31 所机构布局，揭示其嵌入在地大学的办学模式与[[Geopolitics\|地缘政治]]争议。 |
+> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 针对柬埔寨皇家科学院孔子学院师生开展[[Qualitative Interview\|质性访谈]]，揭示功利性就业驱动作为青年学习中文核心动因及其向现代发展模式认同转化的机制。 |

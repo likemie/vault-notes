@@ -11,7 +11,7 @@ aliases:
 summary: "由戴维·加伦森（David Galenson）提出并由本杰明·琼斯（Benjamin F. Jones）扩展至科学学的认知进路分类；指依据先验逻辑与抽象公理系统展开演绎推演、倾向于在涉足特定领域初期打破既定范式并于学术生涯早期达到成就巅峰的研究者与创意从业者。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Experimental Innovators]]"
   - "[[Determinism]]"
   - "[[Scientific Paradigm]]"
   - "[[Tacit Knowledge]]"
@@ -33,10 +34,12 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[David Galenson]]"
   - "[[Werner Heisenberg]]"
   - "[[John B. Fenn]]"
   - "[[Benjamin F. Jones]]"
+  - "[[David Galenson]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
@@ -110,7 +113,7 @@ updated: 2026-10-30
 > [!concept-proposition] 命题二｜概念型创新的早熟规律在跨领域创意生产中具备普适同构性
 > **探讨维度　创意生命周期的跨领域同构性** 探讨演绎先验早熟特征在艺术、文学与自然科学之间的跨领域一致性。
 
-> [!claim] Galenson, D. W.
+> [!claim] [[David Galenson|Galenson, D.]] W.
 > **概念型创新的科隆啤酒效应** 概念型创新好比发酵迅速、新鲜明快的科隆啤酒，青年创新者以敏锐的先验直觉快速打破传统，例如 26 岁创作《阿维尼翁的少女》的毕加索、20 岁出头提出狭义相对论的爱因斯坦、24 岁建立量子矩阵力学的[[Werner Heisenberg|海森堡]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 48–49)]]
 
 ---
@@ -126,7 +129,7 @@ updated: 2026-10-30
 > [!dev-timeline] 概念演变
 > - **2001–2006 — 艺术经济学提出** [[David Galenson|戴维·加伦森]]（David Galenson）在研究现代艺术拍卖与文学创作时首次界定概念型创新者，以早熟的毕加索为代表。
 > - **2010 — 科学学实证拓展** 本杰明·F·琼斯（Benjamin F. Jones）将概念型创新者引入科技发明家与诺贝尔奖得主计量分析，证实理论学者在生涯早期存在系统性突破优势。
-> - **2021 — 科学学系统整合** 王大顺与阿尔伯特-拉斯洛·巴拉巴西将概念型创新者整合入科研生涯动力学框架，用以解构学科[[Determinism|决定论]]的刻板印象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
+> - **2021 — 科学学系统整合** [[Dashun Wang|王大顺]]与阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]将概念型创新者整合入科研生涯动力学框架，用以解构学科[[Determinism|决定论]]的刻板印象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 
 ---
 
@@ -148,7 +151,7 @@ updated: 2026-10-30
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Jones (2010)]] | 经济学诺贝尔奖得主群体 | 历史档案计量分析 | 做出获奖代表作的平均年龄 | 概念型学者 35.8 岁（75% 在入行前 10 年达峰） | 显著早于实验型学者 20.2 岁 | 仅限经济学诺奖得主样本 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Jones (2010)]] | 经济学诺贝尔奖得主群体 | 历史档案计量分析 | 做出获奖代表作的平均年龄 | 概念型学者 35.8 岁（75% 在入行前 10 年达峰） | 显著早于[[Experimental Innovators\|实验型学者]] 20.2 岁 | 仅限经济学诺奖得主样本 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Jones (2010)]] | 自然科学诺贝尔奖得主群体 | 跨学科比较回归 | 做出代表作的平均年龄 | 理论型学者 35.3 岁 | 回归控制历史阶段后显著（p < 0.05） | 理论学者归入概念型范畴 |
 
 ---

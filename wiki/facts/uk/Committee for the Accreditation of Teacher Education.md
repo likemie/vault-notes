@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Document]]"
   - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-26
 > >
 > > - **批判社会学立场** 指责 CATE 将社会不平等与正义议题从师训中抹除，使教师沦为[[Cognitive Deskilling|去技能化]]的国家规程执行工。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]
 
-> [!citation-card] 代表性批评文献
+> [!citation-card] 代表性批评[[Document|文献]]
 > CATE 的设立将教育社会学和其他基础学科边缘化，把它们定性为与教学实践无关甚至在政治上危险的学说，从根本上重塑了教师的知识构成与专业认同。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]
 >
 > *CATE marginalized sociology of education as irrelevant or politically hazardous, turning teacher preparation into technical skills training.*

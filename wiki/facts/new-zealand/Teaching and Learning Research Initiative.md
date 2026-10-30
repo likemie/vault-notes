@@ -10,9 +10,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2003 年至今"
 initiator_organization: "新西兰政府（New Zealand Government）/ 新西兰教育部"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Communities of Practice]]"
   - "[[Research Utilization]]"
+  - "[[Student Motivation]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Academic Achievement]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Paradigm]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +107,7 @@ updated: 2026-10-20
 > [!finding-cards] 核心实证结论
 > - **微观教学实践与反思深度转变** 基于对历史受资助项目负责人及参与教师的[[Random Sampling\|随机抽样]][[Questionnaire\|问卷]]与[[In-depth Interview\|深度访谈]]评估，参与教师普遍自陈其日常教学理念、专业信心与课堂师生互动发生了深刻且持久的积极转变。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 109)]]
 > - **跨界研究—[[Communities of Practice|实践共同体]]沉淀** 成功打造了跨越 400 余名核心学者与一线教师的学术-实践复合网络，使新西兰成为 [[OECD]] 国家中在教学实践端促进[[Research Utilization\|研究利用]]机制最为丰富的系统之一。
-> - **能力建设对学生学业的多维正向收益** Cordingley (2016) 的实证综合研究表明，此类伴随专业能力建设的深度教研干预，对学生的学习动机、学科态度、测验表现、自主组织与协作解决问题能力具有统计学显著的正向促进效果。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
+> - **能力建设对学生学业的多维正向收益** Cordingley (2016) 的实证综合研究表明，此类伴随专业能力建设的深度教研干预，对学生的[[Student Motivation|学习动机]]、[[Attitude Towards Content Domains|学科态度]]、测验表现、自主组织与协作解决问题能力具有统计学显著的正向促进效果。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
 
 > [!stat-cards]- 关键实证与跨国对比数据
 > - **167** （重点资助） 截至 2022 年 TLRI 累计立项资助 167 个长期合作研究项目，发布超过 150 部公开研究报告。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 109)]]

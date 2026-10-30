@@ -39,13 +39,13 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 巴西国家教育研究院（Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP）是巴西联邦教育部下属的国家教育评价与统计机构。2004 年起它负责实施全国学生[[Academic Achievement|学业成就]]测试（[[Exame Nacional de Desempenho dos Estudantes|ENADE]]），使巴西成为少数持续实施国家级大学毕业学业成果统考的国家之一。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
+> [[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira|巴西国家教育研究院]]（Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP）是巴西联邦教育部下属的国家教育评价与统计机构。2004 年起它负责实施全国学生[[Academic Achievement|学业成就]]测试（[[Exame Nacional de Desempenho dos Estudantes|ENADE]]），使巴西成为少数持续实施国家级大学毕业学业成果统考的国家之一。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 总部地点** 1937 年设立，后以教育家阿尼西奥·特谢拉（Anísio Teixeira）命名，总部位于巴[[Thomas D. Seeley|西利]]亚。

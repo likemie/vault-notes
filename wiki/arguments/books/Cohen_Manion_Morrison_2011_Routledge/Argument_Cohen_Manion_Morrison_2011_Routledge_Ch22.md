@@ -12,10 +12,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 46
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
 publisher: "Routledge"
@@ -42,8 +42,11 @@ related_concepts:
   - "[[Social Episodes]]"
   - "[[Tacit Knowledge]]"
   - "[[Falsification]]"
+  - "[[Six Degrees of Separation]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
+  - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[Ideal Speech Situation]]"
   - "[[Definition of Terms]]"
@@ -66,6 +69,7 @@ related_methods:
   - "[[Data Reduction]]"
   - "[[Content Analysis]]"
   - "[[Qualitative Experience-Sampling Method]]"
+  - "[[Experience Sampling Method]]"
   - "[[Questionnaire]]"
   - "[[Cross-checking]]"
   - "[[Member Tests]]"
@@ -85,7 +89,7 @@ related_facts:
   - "[[Achieve]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 ---
 
@@ -196,7 +200,7 @@ updated: 2026-10-25
 
 Kitwood（1977）发展的[[Qualitative Experience-Sampling Method|质性经验取样法]]是引发和分析陈述的一种具体质性技术（pp.445–447）：
 
-> [!seq-table] Box 22.3　经验取样法的 15 种生活情境（Kitwood, 1977）
+> [!seq-table] Box 22.3　[[Experience Sampling Method|经验取样法]]的 15 种生活情境（Kitwood, 1977）
 > | 情境描述 | 
 > |----------|
 > | 当你与他人之间产生了误解…… |
@@ -287,7 +291,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > - **Maria** 是幽灵，不做选择也不被选择
 
 > [!info] 社会计量学的后续影响
-> Milgram 的"小世界"实验和"六度分隔"发现（Travers & Milgram, 1969）正是这种思路的延伸。此后 Barabási（2002）、Buchanan（2003）和 Watts（2003）进一步揭示了人类在不同社会语境中的本质连接性。互联网搜索引擎使用枢纽作为主要组织原则；教育领域师生通过社交网站进行学术讨论和专业发展。写作时搜 [ERIC 数据库](https://www.eric.ed.gov/) 可获得超过 1,000 篇关于社交网络的参考文献（p.451）。
+> Milgram 的"小世界"实验和"[[Six Degrees of Separation|六度分隔]]"发现（Travers & Milgram, 1969）正是这种思路的延伸。此后 Barabási（2002）、Buchanan（2003）和 Watts（2003）进一步揭示了人类在不同社会语境中的本质连接性。互联网搜索引擎使用枢纽作为主要组织原则；教育领域师生通过社交网站进行学术讨论和专业发展。写作时搜 [ERIC 数据库](https://www.eric.ed.gov/) 可获得超过 1,000 篇关于社交网络的参考[[Document|文献]]（p.451）。
 
 ---
 
@@ -338,7 +342,7 @@ Bliss et al.（1983）识别了评判网络充分性的若干标准（p.453）�
 > [!feature] 网络分析的评判标准（Bliss et al., 1983）
 > - **效度与[[Reliability\|信度]]** 效度：描述系统在种类上适当且足够完整和忠实。信度：人们在使用网络系统时存在可接受的同意水平
 > - **网络效用** 细节的充分性：清晰性、完整性和自洽性
-> - **可学习性** 网络是否易于教授给他人，这对传达分析术语至关重要
+> - **可学[[Habitus|习性]]** 网络是否易于教授给他人，这对传达分析术语至关重要
 > - **可检验性** 两种形式：
 >     - 将网络作为理论对照数据检验
 >     - 通过网络将数据对照理论或预期来检验
@@ -540,7 +544,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 > [!citation-card] Kitwood 论经验取样的[[Epistemology\|认识论]]立场
 > 因为[[Qualitative Experience-Sampling Method\|质性经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification\|证伪]]。（第22章, p.447）
 >
-> *Because the [[Qualitative Experience-Sampling Method|experience-sampling method]] avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
+> *Because the experience-sampling method avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
 
 > [!citation-card] Menzel 论多重意义
 > 大多数行为可以被赋予多种意义，其中不止一种可能同时有效。因此坚持确定一个行为的那个意义是谬误的。也不能说当一个人识别出行为的一个意义（或者说研究者乐于指定为真实意义的那个意义）时，解释行为的任务就完成了。（第22章, pp.461–462）

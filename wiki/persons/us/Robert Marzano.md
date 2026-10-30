@@ -8,7 +8,7 @@ summary: "美国教育学者，循证教育与教学改革先驱，首创将元�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ tags:
 - region/us
 related_concepts:
   - "[[School Effectiveness]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Metacognition]]"
   - "[[Reliability]]"
@@ -52,14 +53,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 罗伯特·J·马扎诺（Robert J. Marzano, 1946–）是美国当代著名教育研究者、教育评价专家，Marzano Resources 创始人，曾长期任职于美国中大陆地区教育与学习实验室（Mid-Continent Research for Education and Learning, McREL）。
-> - **核心角色** 马扎诺是将[[Meta-analysis|元分析]]方法规模化引入基础教育与[[School Effectiveness|学校效能]]研究的开创性学者。他在2000年率先将数理元分析工具全面运用于学校改革实证文献的量化综合，提出了“学校效应”（school effects）的分析概念与五层级学校效能模型，直接奠定了后续[[John Hattie]]《[[Visible Learning|可见的学习]]》等[[Meta-meta-analysis|二阶元分析]]的学理基础。
+> - **核心角色** 马扎诺是将[[Meta-analysis|元分析]]方法规模化引入基础教育与[[School Effectiveness|学校效能]]研究的开创性学者。他在2000年率先将数理元分析工具全面运用于学校改革实证[[Document|文献]]的量化综合，提出了“学校效应”（school effects）的分析概念与五层级学校效能模型，直接奠定了后续[[John Hattie]]《[[Visible Learning|可见的学习]]》等[[Meta-meta-analysis|二阶元分析]]的学理基础。
 > - **代表贡献** 首创理论驱动的教学策略元综合框架；在《学校改革新纪元》（2000）中综合 4,057 项效应维度提出学校效能五层级；发展马扎诺教育目标新分类学（Marzano Taxonomy），替代并扩展传统[[Bloom's Taxonomy|布鲁姆分类学]]中的[[Metacognition|元认知]]与自我系统。
 
 > [!citation-card] 人物定位的关键来源

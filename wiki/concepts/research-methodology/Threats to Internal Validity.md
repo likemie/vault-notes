@@ -6,10 +6,10 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - method/research-methods
   - theme/validity
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Type I and Type II Errors]]"
   - "[[Attrition]]"
+  - "[[Classroom Breaks]]"
   - "[[Null Hypothesis]]"
   - "[[Descriptive Validity]]"
   - "[[Hawthorne Effect]]"
@@ -39,6 +40,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Experimental Research]]"
   - "[[Ethnography]]"
   - "[[Negative Case Analysis]]"
 related_arguments:
@@ -47,7 +49,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +108,7 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 >   研究工具本身对参与者产生的效应。例如观察者的在场改变被观察者的行为，[[Questionnaire\|问卷]]中的问题措辞引发受试者的防御性回答。与前述威胁不同，工具反应性关注的是工具本身作为"处理"的一部分对参与者行为的影响。
 
 > [!example] 处理威胁的案例
-> **处理扩散（Diffusion of Treatment）** 同一所学校内，实验班使用新教学法，对照班使用传统教学法。课间休息时实验班的学生把新方法教给了对照班的朋友，导致对照班也部分接触了处理。两组结果因此趋同，处理效应被低估。将实验组和对照组放在不同学校可以解决，但成本更高。
+> **处理扩散（Diffusion of Treatment）** 同一所学校内，实验班使用新教学法，对照班使用传统教学法。[[Classroom Breaks|课间休息]]时实验班的学生把新方法教给了对照班的朋友，导致对照班也部分接触了处理。两组结果因此趋同，处理效应被低估。将实验组和对照组放在不同学校可以解决，但成本更高。
 >
 > **补偿性怨恨（Compensatory/Resentful Demoralization）** 学校推行一项新的免费午餐计划，只有实验班学生可以领取。对照班学生知道后感到不公平，在后期测试中消极应答或故意表现差，导致组间差异被人为放大。应对方式是承诺实验结束后给予对照组同等待遇。
 >
@@ -165,7 +167,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 > [!contrast-table] 量化与[[Qualitative Research\|质性研究]]处理[[Internal Validity\|内部效度]]威胁的不同逻辑
 > | 维度 | [[Quantitative Research\|量化研究]] | 质性研究 |
 > |---|---|---|
-> | **核心策略** | 通过实验设计和统计控制**排除**混淆因素 | 通过方法论反思和多元验证**纳入并管理**多重解释 |
+> | **核心策略** | 通过[[Experimental Research\|实验设计]]和统计控制**排除**混淆因素 | 通过方法论反思和多元验证**纳入并管理**多重解释 |
 > | **对时间和变化的态度** | 历史、成熟等时间效应被视为**需要控制的威胁** | [[Ethnography\|民族志研究]]**将变化纳入研究设计**，允许现象随时间演变（p.168） |
 > | **观察者效应** | 通过双盲、标准化程序来**消除**研究者影响 | 通过长期田野参与使观察者在场变得**被视为理所当然**来减少影响 |
 > | **对异常案例的态度** | 统计上排除异常值（outliers）以提高模型拟合度 | 通过[[Negative Case Analysis\|负面案例分析]]保留并深入理解异常案例，以修正理论 |

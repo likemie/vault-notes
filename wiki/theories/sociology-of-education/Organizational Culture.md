@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性，以及工程实效文化与官僚自保文化对创新荒漠的决定性塑造。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 61
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Evidence Culture]]"
   - "[[Hypothesis]]"
   - "[[Embedded Network Governance]]"
   - "[[Research Impact]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -260,7 +261,7 @@ updated: 2026-10-22
 > - **2010 — 前沿科技创新组织中的文化与非正式制度解耦研究** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）将组织文化与制度主义理论拓展至前沿国家资助机构（[[DARPA]]），实证揭示上层正式采办文化重构与微观非正式治理制度之间的解耦与韧性连续性。
 > - **2010 — 纳入复杂系统第三代[[Knowledge Mobilisation|知识动员]]理论** Best & Holmes 将组织文化与反馈回路确立为理解知识动员从线性传递转向自适应系统的关键支柱。
 > - **2011 — 教育质性与[[Visual Research Methods|视觉研究方法]]论引入** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] 将 Schein 三层次模型引入教育研究方法论，系统阐释如何阅读学校物理器物与环境空间背后的组织叙事。
-> - **2022 — [[OECD]] 跨国实证测度与证据文化断层诊断** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]通过 8 项量表在 29 国 37 系统实证揭示了表层高理念认同（4.46 分）与深层信任赤字（3.40 分）的断裂（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）。
+> - **2022 — [[OECD]] 跨国实证测度与[[Evidence Culture|证据文化]]断层诊断** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]通过 8 项量表在 29 国 37 系统实证揭示了表层高理念认同（4.46 分）与深层信任赤字（3.40 分）的断裂（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）。
 > - **2025 — 国家能力与工程[[Organizational Culture Change|组织文化重塑]][[Technological Republic|技术共和国]]** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）将组织文化理论引入地缘战略与国家治理能力分析，揭示官僚防御文化对创新的制度性阻绝，提出吸纳使命驱动与实质成败问责的工程文化以消除[[Innovation Desert|创新荒漠]]；并在第 18 章结合实证金融与专利计量，阐明创始人审美品味、长程资产托管与全员股权所有权文化对突破性创新的决定性优势。
 
 ---

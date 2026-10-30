@@ -8,7 +8,7 @@ summary: "学习科学与教育技术学者，纽约州立大学奥尔巴尼分�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
   - theme/epistemic-agency
   - cscl
 related_concepts:
+  - "[[Collaborative Learning]]"
   - "[[Epistemic Agency]]"
   - "[[Reflective Structuration]]"
   - "[[Theory of Knowledge]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Epistemic Responsibility]]"
   - "[[Opportunistic Collaboration]]"
   - "[[Emergence]]"
+  - "[[Teacher Support for Students]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Scientific Explanation]]"
@@ -55,14 +57,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍华裔学习科学与教育技术学者，纽约州立大学奥尔巴尼分校（University at Albany, State University of New York）教育理论与实践系副教授，曾任教于北京师范大学心理学院。
-> - **核心角色** [[Knowledge Building Theory|知识建构理论]]与计算机支持的协作学习（Computer-Supported Collaborative Learning, CSCL）领域的核心代表人物之一，长期致力于将玛琳·斯卡达马利亚（[[Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter]]）开创的知识建构教学法向课堂真实复杂实践推进，系统阐明了学习者[[Epistemic Agency|认识能动性]]的微观运作与宏观演化机制。
+> - **核心角色** [[Knowledge Building Theory|知识建构理论]]与计算机支持的[[Collaborative Learning|协作学习]]（Computer-Supported Collaborative Learning, CSCL）领域的核心代表人物之一，长期致力于将玛琳·斯卡达马利亚（[[Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter]]）开创的知识建构教学法向课堂真实复杂实践推进，系统阐明了学习者[[Epistemic Agency|认识能动性]]的微观运作与宏观演化机制。
 > - **代表贡献** 提出[[Reflective Structuration|反思性结构化]]（Reflective Structuration）理论框架，开发探究线索分析（Inquiry Threads Analysis）[[Coding in Qualitative Research|质性编码]]与可视化方法，深化了基于[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF）的协作知识建构设计原则。
 
 > [!citation-card] 学习者认识能动性的结构化定位
@@ -98,7 +100,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心思想
-> 张建伟主张，真实的科学教育必须将学习者培育为知识创造共同体中的能动主体。探究教学不能依赖僵化预设的固定活动流程，也不能滑向无序的自由放任，而必须依托[[Reflective Structuration|反思性结构化]]机制：学生在教师支持下，依据持续推进的探究进展与出现的认知缺口，动态协商并重塑集体问题领域（Wondering Areas）与弹性合作构型，使结构本身成为承载并驱动[[Epistemic Agency|认识能动性]]不断深化的媒介。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–894)]]
+> 张建伟主张，真实的科学教育必须将学习者培育为知识创造共同体中的能动主体。探究教学不能依赖僵化预设的固定活动流程，也不能滑向无序的自由放任，而必须依托[[Reflective Structuration|反思性结构化]]机制：学生在[[Teacher Support for Students|教师支持]]下，依据持续推进的探究进展与出现的认知缺口，动态协商并重塑集体问题领域（Wondering Areas）与弹性合作构型，使结构本身成为承载并驱动[[Epistemic Agency|认识能动性]]不断深化的媒介。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–894)]]
 
 > [!citation-card] 反思性结构化作为认识能动性的社会突现机制
 > 知识创造团队应对的是[[Creativity|创造性]]过程中突现、不确定与不断展开的本质，鼓励所有参与者提出多元观点并展现领导力，借助灵活的观点互动与[[Opportunistic Collaboration|自组织协作]]进行探究。反思性结构化为年轻学生在课堂中行使高阶认识能动性提供了清晰的社会与时间机制。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891, 894)]]

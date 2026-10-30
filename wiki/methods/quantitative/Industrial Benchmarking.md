@@ -11,7 +11,7 @@ summary: "通过系统测量与标准化跨企业或跨国生产制造绩效指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 > [!ref-table]- 跨国半导体制造标杆实证数据（加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目）
 >
-> | 技术制程 / 制造指标 | 美国厂商（US） | 日本厂商（Japan） | 欧洲厂商（Europe） | 亚太厂商（Korea/Taiwan） | 差距与收敛特征 | 来源文献 |
+> | 技术制程 / 制造指标 | 美国厂商（US） | 日本厂商（Japan） | 欧洲厂商（Europe） | 亚太厂商（Korea/Taiwan） | 差距与收敛特征 | 来源[[Document\|文献]] |
 > |:---|:---|:---|:---|:---|:---|:---|
 > | 0.7–0.9 微米 CMOS 逻辑缺陷密度（个/$\text{cm}^2$） | 0.40–0.60 | 0.30–0.45 | 0.60–0.90 | 0.50–0.70 | 美日差距在 1990 年代中叶显著收敛 | Macher et al. (1998, Figure 2) |
 > | 0.7–0.9 微米 CMOS 探针良率（%） | 85%–92% | 88%–94% | 75%–85% | 80%–88% | 美国领先厂良率追平日本顶级产线 | Macher et al. (1998, Figure 3) |

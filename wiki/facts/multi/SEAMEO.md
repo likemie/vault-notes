@@ -9,7 +9,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,10 +23,9 @@ tags:
   - regional-cooperation
   - region/southeast-asia
 related_concepts:
-  - "[[ASEAN Way]]"
-  - "[[Global Regionalisms]]"
-  - "[[State Educational Sovereignty]]"
   - "[[Student Mobility]]"
+  - "[[ASEAN Way]]"
+  - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[Comparative Regionalism]]"
 related_methods: []
@@ -34,17 +33,20 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
+  - "[[ASEAN Education Ministers Meeting]]"
   - "[[SEAMEO RIHED]]"
-  - "[[AIMS Programme]]"
-  - "[[ASEAN University Network]]"
   - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[AIMS Programme]]"
+  - "[[EU]]"
   - "[[UNESCO]]"
+  - "[[SEA-PLM]]"
+  - "[[ASEAN University Network]]"
 related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +55,7 @@ updated: 2026-10-29
 > 东南亚教育部长组织（Southeast Asian Ministers of Education Organisation, SEAMEO）是东南亚区域内历史悠久的政府间公约组织；在法律与行政上独立于[[ASEAN|东盟]]官僚体系，通过教育部长理事会建立多边共识，统筹专业区域中心推进教育、科学与文化领域的政策对话与项目试点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1965 年 11 月由老挝、马来西亚、菲律宾、新加坡、泰国和南越六国教育部长在曼谷签署宪章创立，早于 1967 年东盟的建立。在东盟成立初期教育议题从属于政治外交且东盟教育部长会议长期停摆的背景下，SEAMEO 独立维系着东南亚政府间实质教育合作网络。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
+> - **成立时间 / 创设背景** 1965 年 11 月由老挝、马来西亚、菲律宾、新加坡、泰国和南越六国教育部长在曼谷签署宪章创立，早于 1967 年东盟的建立。在东盟成立初期教育议题从属于政治外交且[[ASEAN Education Ministers Meeting|东盟教育部长会议]]长期停摆的背景下，SEAMEO 独立维系着东南亚政府间实质教育合作网络。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
 > - **总部地点 / 业务辐射** 常设秘书处（SEAMES）设于泰国曼谷；会员覆盖东南亚全部 11 个国家（东盟十国及东帝汶），同时拥有澳大利亚、加拿大、德国、新西兰等联系会员国及合作附属机构。
 > - **法人属性与经费基础** 独立的区域性政府间国际法实体；运行经费主要由成员国政府分摊会费及国际伙伴专项项目基金构成，其独立法人地位使其决策不受东盟秘书处指挥。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **核心宗旨与法定职责** 促进各成员国在教育、科学与文化领域的区域协作，增进人民相互理解，提升区域人力资源开发与治理能力。
@@ -66,7 +68,7 @@ updated: 2026-10-29
 >   确立政府间多边教育协作骨架，在东盟正式高教机制缺位时期承担区域合作主体职能。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147, 151)]]
 >
 >   - **1965** 东南亚教育部长理事会曼谷会议通过组织宪章。
->   - **1970** 在新加坡设立高等教育与发展区域中心（RIHED），首次将多边职能延伸至高等教育领域。
+>   - **1970** 在新加坡设立高等教育与发展区域中心（[[SEAMEO RIHED|RIHED]]），首次将多边职能延伸至高等教育领域。
 >
 > - **1990–2000 年代** **专业中心重组与高等教育功能复兴**
 >
@@ -77,10 +79,10 @@ updated: 2026-10-29
 >
 > - **2010 年代–至今** **共同空间共建与跨区域多边对接**
 >
->   协同东盟推进东南亚高等教育共同空间，主导跨国学生流动网络与跨大洲政策对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+>   协同东盟推进[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]，主导[[Student Mobility|跨国学生流动]]网络与跨大洲政策对话。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 >
->   - **2009** 启动跨国学生流动试点，后续扩容升级为亚洲国际学生流动计划（[[AIMS Programme]]）。
->   - **2015** 与欧盟等域外伙伴展开对话，推动区域间高等教育多边对接。
+>   - **2009** 启动跨国学生流动试点，后续扩容升级为[[AIMS Programme|亚洲国际学生流动计划]]（[[AIMS Programme]]）。
+>   - **2015** 与[[EU|欧盟]]等域外伙伴展开对话，推动区域间高等教育多边对接。
 
 ---
 
@@ -92,7 +94,7 @@ updated: 2026-10-29
 
 > [!pathways] 业务运行机制
 > - **议程设置** 通过两年一度的部长理事会战略研讨与高级官员会议（HOM），确定区域教育发展的优先战略议程。
-> - **多边协商与试点先行** 坚持[[ASEAN Way|东盟方式]]的协商传统，尊重各国国家教育主权，通常以自愿参与的跨国先导项目进行制度检验，再扩大推广。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
+> - **多边协商与试点先行** 坚持[[ASEAN Way|东盟方式]]的协商传统，尊重各国[[State Educational Sovereignty|国家教育主权]]，通常以自愿参与的跨国先导项目进行制度检验，再扩大推广。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–152)]]
 > - **跨部门柔性协作** 联合成员国教育部门、高校机构与国际组织开展技术对话，规避强制性法律束缚。
 
 ---
@@ -100,7 +102,7 @@ updated: 2026-10-29
 > [!finding-cards] 核心产品与业务矩阵
 > - **高等教育政策与质保对接** 依托[[SEAMEO RIHED]]研制《国家质量保障框架对接指南》及区域高等教育空间规划报告。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **区域学生流动旗舰项目** 创设并运作[[AIMS Programme|亚洲国际学生流动计划]]，为区域内高校本科生学分互认与双向流动提供多边框架。
-> - **基础教育学业素养监测** 联合联合国教科文组织设立东南亚小学学业素养监测项目（SEA-PLM），提供区域性基础教育质量实证基线。
+> - **基础教育学业素养监测** 联合[[UNESCO|联合国教科文组织]]设立东南亚小学学业素养监测项目（[[SEA-PLM]]），提供区域性基础教育质量实证基线。
 
 ---
 

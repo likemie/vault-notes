@@ -9,7 +9,7 @@ aliases:
 summary: "由美国教育考试服务中心（ETS）开发的通识教育与核心素养标准化测评工具，综合测量大学生在批判性思维、阅读、写作与数学领域的学业增益。"
 type: instrument
 instrument_type: test
-instrument_related_count: 11
+instrument_related_count: 12
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Learning Gain]]"
   - "[[Critical Thinking]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Construct]]"
 related_theories: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-16
 ---
 
 > [!instrument-items] 作答规则
-> - **题项形式** 基于人文、社会科学与自然科学真实文献节选的情境[[Multiple-Choice Questions\|选择题]]。
+> - **题项形式** 基于人文、社会科学与自然科学真实[[Document|文献]]节选的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 量表分范围为 400–500 分，提供 3 个熟练度水平等级（Proficiency Levels 1, 2, 3）与全美大学增值常模基准。
 

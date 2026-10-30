@@ -6,7 +6,7 @@ summary: "用于测试特定行为机制或理论路径的小规模现场实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Black Box RCTs]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -100,7 +101,7 @@ updated: 2026-10-29
 
 > [!info] 理论基础
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 机制实验通过关注因果机制而非完整项目，直接回应 Cartwright 的外推挑战（it-works-somewhere → it-will-work-for-us）
-> - **发展经济学的[[Random Assignment\|随机化]]传统** — Duflo, Glennerster, & Kremer (2006) 的方法论指导明确强调理论在实验设计和结果解释中的必要作用
+> - **发展经济学的[[Random Assignment\|随机化]]传统** — Duflo, Glennerster, & Kremer (2006) 的方法论指导明确强调理论在[[Experimental Research|实验设计]]和结果解释中的必要作用
 
 > [!success] 实证发现
 > - 在教育中采用机制实验的系统性实证检验仍处于早期阶段——[[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 主要提供方法论论证和操作框架，而非实证结果

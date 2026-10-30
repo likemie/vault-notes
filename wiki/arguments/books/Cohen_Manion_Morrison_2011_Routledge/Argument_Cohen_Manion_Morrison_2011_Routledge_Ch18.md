@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 62
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 book_title: Research Methods in Education
 publication_place: London
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Teacher-as-Researcher]]"
+  - "[[Learning Strategies]]"
   - "[[Typification]]"
   - "[[Problem Solving]]"
   - "[[Research Question]]"
@@ -54,12 +55,14 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Epistemology]]"
   - "[[Ideal Speech Situation]]"
+  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Humility]]"
+  - "[[Epistemic Inequality]]"
   - "[[Theoretical Perspective]]"
   - "[[Emergence]]"
   - "[[Formative Assessment]]"
@@ -100,7 +103,7 @@ related_persons:
 related_instruments: []
 status: draft
 created: 2026-07-18
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 > [!knowledge-map] 第18章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_18_Concept_Map.jpg)
@@ -137,7 +140,7 @@ updated: 2026-10-26
 
 > [!feature] 行动研究的主要应用领域
 > - **教学方法** 以发现法取代传统教学方法
-> - **学习策略** 采用整合式学习方法取代单一学科的教学与学习方式
+> - **[[Learning Strategies|学习策略]]** 采用整合式学习方法取代单一学科的教学与学习方式
 > - **评价程序** 改进持续性评价方法
 > - **态度与价值观** 鼓励更积极的工作态度，或在生活某方面调整学生的价值体系
 > - **教师持续专业发展** 提升教学技能、发展新的学习方法、增强分析能力、提高自我意识
@@ -401,7 +404,7 @@ PAR 的研究者角色（Weiskopf & Laske, 1996, p. 132–133）：促进者、�
 本节系统阐述[[Emancipatory Action Research|解放性行动研究]]的理论框架与实践程序——从哈贝马斯知识构成性兴趣出发建构的三分类型学、Zuber-Skerritt 四步循环与 Kincheloe 七步过程、[[Ideal Speech Situation|理想言说情境]]的六个前提，以及来自多位批评者的 17 条批评。
 
 > [!info] 批判理论渊源
-> 大量行动研究文献借鉴了法兰克福学派的[[Critical Theory\|批判理论]]（见第2章），尤其是哈贝马斯的工作。Weiskopf and Laske（1996, p. 123）在德国传统中将行动研究明确地定位为一种批判性社会科学。利用哈贝马斯关于知识构成性兴趣（knowledge-constitutive interests, 1972, 1974）的早期写作，可以建构行动研究的三分类型学（pp. 272–280）。
+> 大量行动研究[[Document|文献]]借鉴了法兰克福学派的[[Critical Theory\|批判理论]]（见第2章），尤其是哈贝马斯的工作。Weiskopf and Laske（1996, p. 123）在德国传统中将行动研究明确地定位为一种批判性社会科学。利用哈贝马斯关于知识构成性兴趣（knowledge-constitutive interests, 1972, 1974）的早期写作，可以建构行动研究的三分类型学（pp. 272–280）。
 
 > [!contrast-table] 行动研究的三种类型（Grundy, 1987）
 > | 维度 | 技术性（Technical） | 实践性（Practical） | 解放性（Emancipatory） |
@@ -484,7 +487,7 @@ Kemmis（1997, p. 177）区分了行动研究中的两个阵营（pp. 276–277�
 > - **高估共识导向研究的可取性** 以共识为目标的取向忽视了权力本身的复杂性，共识可能只是强势声音压制异议的结果
 > - **权力不能仅凭理性重新分配** 结构性的权力不平等不能仅靠理性辩论来消解，需要制度层面的变革
 > - **对群体理解天真** 颂扬群体胜于个体，特别是内群体而非外群体，忽视了群体内部同样存在权力等级和排斥机制
-> - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility\|谦逊]]，以另一种形式的认识论霸权取代实证主义的霸权
+> - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility\|谦逊]]，以另一种形式的[[Epistemic Inequality|认识论霸权]]取代实证主义的霸权
 > - **将批判理论的权威特权化** 以批判理论的权威压制其他[[Theoretical Perspective\|理论视角]]和方法论取向，形成新的知识垄断
 
 > [!critique] 实践后果与可行性

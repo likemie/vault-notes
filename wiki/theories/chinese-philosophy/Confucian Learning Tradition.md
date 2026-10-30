@@ -7,7 +7,7 @@ aliases:
 summary: "东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题"
 type: theory
 theory_field: "chinese-philosophy"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Discourse]]"
   - "[[Grice's Conversational Maxims]]"
+  - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Sage]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!tip] 核心主张
@@ -104,7 +105,7 @@ updated: 2026-10-22
 
 ---
 
-> [!info] 认识论立场
+> [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology\|本体论]]** 人性根植于社会关系之中——一个人不仅是 Jenny（或 David），更重要的是一个女儿、姐妹、妻子、母亲、姑姑、老师、同事等等([[Argument_Li_2012_Cambridge\|Li, 2012, pp.37-38]])。自我不是孤立的权利个体，而是**承载角色的角色人（role-bearing person, Rosemont 语）**
 > - **[[Epistemology\|认识论]]** 知与行不可分离——[[Wang Yangming\|王阳明]]认为，一个人必须不懈地实践自己所知道的，才能达成[[Sage\|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge\|Li, 2012, p.44]])。Ames and Rosemont 指出，[[Confucius\|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])
 > - **目标的[[Open-Mindedness|开放性]]** 学习过程是开放的、需要个人[[Creativity\|创造性]]的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge\|Li, 2012, p.41]])

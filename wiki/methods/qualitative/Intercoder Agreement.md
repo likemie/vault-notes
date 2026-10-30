@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - reliability
 related_concepts:
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Qualitative Reliability]]"
   - "[[Homework]]"
@@ -72,13 +73,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Intercoder Agreement
-> **编码者间一致性（Intercoder Agreement，又称编码者间[[Reliability\|信度]]、intercoder reliability）** 是[[Qualitative Research\|质性研究]]、[[Content Analysis\|内容分析]]与[[Meta-analysis\|元分析]]编码中评估分析质量与[[Measurement Invariance\|测量等值性]]的关键[[Reliability\|信度]]规程：指两名或多名独立编码者在面对相同的数据文本段落或文献特征时，依据预先设定的编码方案独立赋予相同或相近范畴代码的重叠程度（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 573–574]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9, p. 215]]）。
+> **编码者间一致性（Intercoder Agreement，又称编码者间[[Reliability\|信度]]、intercoder reliability）** 是[[Qualitative Research\|质性研究]]、[[Content Analysis\|内容分析]]与[[Meta-analysis\|元分析]]编码中评估分析质量与[[Measurement Invariance\|测量等值性]]的关键[[Reliability\|信度]]规程：指两名或多名独立编码者在面对相同的数据文本段落或[[Document|文献]]特征时，依据预先设定的编码方案独立赋予相同或相近范畴代码的重叠程度（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 573–574]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9, p. 215]]）。
 >
 > 编码者间一致性的核心价值在于检验编码规则的清晰度与可操作性——即一套编码方案能否引导不同的研究者对相同的经验现象作出高度吻合的分类与意义赋予。在内容分析与元分析中，编码信度直接决定了全案综合结论的客观性与可复验性。
 
@@ -147,7 +148,7 @@ updated: 2026-10-29
 
 ### 学界公认的信度门槛体系
 
-在经验研究中，编码[[Reliability|信度]]达到何种水平方可接受，文献提供了两套被广泛引用的经典基准：
+在经验研究中，编码[[Reliability|信度]]达到何种水平方可接受，[[Document|文献]]提供了两套被广泛引用的经典基准：
 
 > [!stat-cards]- 质性与元分析两大信度量化门槛
 > - **80%** （Miles and Huberman（1994）的质性一致性底线） 在质性数据分析中，两位独立编码者对相同文本片段的编码一致性比率至少应当达到 **80%**，方可被视为具备良好的[[Qualitative Reliability\|质性信度]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9]]）。
@@ -166,7 +167,7 @@ updated: 2026-10-29
 >
 > > [!col-l] 文本来源与语言多义性威胁
 > > - **1. 有意与无意证据混淆（Witting vs Unwitting）** 有意证据是文本撰写者明确意图传达的内容；无意证据则是研究者间接推导出的潜台词，后者极易掺杂编码者的主观臆测（Robson, 1993, p. 273）。
-> > - **2. 非科研目的的文本意图** 文献多为行政宣传、个人申辩或制度应对而写，原撰写者的真实意图容易扭曲编码判断。
+> > - **2. 非科研目的的文本意图** [[Document|文献]]多为行政宣传、个人申辩或制度应对而写，原撰写者的真实意图容易扭曲编码判断。
 > > - **3. 留存材料的选择性与偏颇性** 归档文献往往存在幸存者偏差与立场倾向，天然具有非中立性。
 > > - **4. 缺乏外部三角印证** 孤立文本难以找到平行证据进行交叉验证。
 > > - **5. 同形多义词多价性（Homographs）** 同一单词具有多重截然不同的语义（如英文 school 可指学校建筑、艺术流派、专业学院、训育行为或鱼群），脱离语境赋码极易致错。

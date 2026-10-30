@@ -32,6 +32,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Progressive Education]]"
   - "[[Teacher Qualifications]]"
+  - "[[Document]]"
   - "[[International Baccalaureate]]"
   - "[[Policy Window]]"
   - "[[Cross-National Attraction]]"
@@ -45,7 +46,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[School Choice]]"
   - "[[Determinism]]"
-  - "[[Document]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-10-26
 >   - 1982 委员会在全美举行多场公开听证会，广泛搜集学界、企业界与公众对公立中学基础学科软弱、[[Teacher Qualifications|教师资质]]不足与有效学习时间偏短的抱怨。
 >   - 1983-04 委员会正式向里根总统呈交报告《国家处于危险之中：教育改革势在必行》，以开篇震撼性的军事战争隐喻将教育提升至国家生存安全战略高度。
 > - **1983–1988 — 国内政策震荡与跨国经验汲取** 说明全美各州核心学术课程改革浪潮与对日本教育的密集危机化借用。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
->   - 1983-05 报告在全美引发狂风暴雨般的公共辩论，成为里根政府最轰动的国内政策文献；促使全美各州迅速出台强化高中毕业核心学术课程（“新五门基础课程”）的硬性规定，并为[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美公立高中的合法化采纳打开了[[Policy Window|政策窗口]]。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
+>   - 1983-05 报告在全美引发狂风暴雨般的公共辩论，成为里根政府最轰动的国内政策[[Document|文献]]；促使全美各州迅速出台强化高中毕业核心学术课程（“新五门基础课程”）的硬性规定，并为[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美公立高中的合法化采纳打开了[[Policy Window|政策窗口]]。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 >   - 1984–1987 美国教育界与联邦政府对日本教育爆发高强度的[[Cross-National Attraction\|跨国吸引力]]与危机化（Scandalization）操作，将日本高强度课程、长学时与全国统一标准树立为正面镜像，并于 1987 年由联邦教育部专设发布《今日日本教育》（*Japanese Education Today*）。
 > - **1987 至今 — 跨国指标委托与全球[[Governing by Numbers\|数字治理]]制度化** 说明美国推动[[OECD\|经合组织]]创建指标项目，开启全球教育治数而治的跨国演变。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 >   - 1987–1988 面对国内各州数据缺乏可比性及跨国实证的匮乏，美国联邦政府直接向经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD）施压并注资，力推创建[[International Education\|国际教育]]指标；[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）正式设立[[International Indicators of Education Systems\|国际教育系统指标项目]]（International Indicators of Education Systems，INES）。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 12)]]

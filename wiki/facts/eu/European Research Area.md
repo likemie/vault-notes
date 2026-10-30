@@ -9,7 +9,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_facts:
   - "[[Horizon Europe]]"
   - "[[CNRS]]"
   - "[[Max Planck Society]]"
+  - "[[European Universities Initiative]]"
   - "[[Engineering Research Centers]]"
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -44,7 +45,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-26
 
 > [!policy-design] 方案设计
 > - **项目目标** 建设一体化的泛欧内部科研市场，提升欧洲研发投资占 GDP 比例至 3%，重构欧洲在全球科技创新网络中的领军地位。
-> - **覆盖对象** 欧洲大学联盟、公立科研机构独立学者、跨国创新联合体（Consortia）及产业研发中心。
+> - **覆盖对象** [[European Universities Initiative|欧洲大学联盟]]、公立科研机构独立学者、跨国创新联合体（Consortia）及产业研发中心。
 > - **干预措施** 设立“玛丽·居里行动计划”（Marie Curie Actions）支持跨国学者流动；建立欧洲研究理事会（[[Engineering Research Centers|ERC]]）实施基于独立同行评议的无国界前沿探索资助；制定跨国工程与专业资质统一互认标准（如意大利工学学位在德国免试执业）。
 > - **实施控制** 实行[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC），建立 ERA 年度进展指标监测看板，定期评估各国科研政策趋同度与开放度。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 

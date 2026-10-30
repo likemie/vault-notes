@@ -8,7 +8,7 @@ summary: "一种无监督或半监督的多变量统计降维技术，用于在�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Simplicity of Knowledge]]"
 related_theories: []
 related_methods:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -159,7 +160,7 @@ updated: 2026-10-29
 > [!ref-table]- 关键实证测量与因子结构
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 样本规模与抽取范围 | 提取与旋转方法 | 检验参数 | 提取出的因子[[Construct\|构念]]与测量题项 | 因子[[Reliability\|信度]]与方差解释 | 治理实务应用 |
+> | 研究[[Document\|文献]] | 样本规模与抽取范围 | 提取与旋转方法 | 检验参数 | 提取出的因子[[Construct\|构念]]与测量题项 | 因子[[Reliability\|信度]]与方差解释 | 治理实务应用 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 24)]] | 奥地利施泰尔马克州普通公立义务教育学校校长（$N = 362$） | 主轴因子法（Principal Axis Factoring, PAF）结合斜交 Promax 旋转 | $\text{KMO} = 0.81$（良好）；Bartlett 球形检验 $p < .001$ | **从 22 项治理工具中提取出 5 个公共因子**（剔除 3 项低载荷题项）：<br>1. **学校督导与质量对话（Schulaufsicht / SQA）**（4 题）<br>2. **产出监控与循证规制（Evidenzbasierte Steuerung）**（5 题）<br>3. **治理资源追加与自主权（Ressourcen / Autonomie）**（3 题）<br>4. **校内协同与人事发展（Interne Kooperation）**（4 题）<br>5. **专业进修与跨校网络（Fortbildung / Netzwerke）**（3 题） | 累积方差解释率 $42.1\%$；各因子 Cronbach's $\alpha$ 介于 $0.60$ 至 $0.74$ | 提炼出指标标准化因子得分，作为后续 $k$ 均值聚类分析（Cluster Analysis）的直接输入特征，成功将校长分化为循证型、资源型与弱发展型三类群体 |
 

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[DARPA Model]]"
   - "[[Embedded Network Governance]]"
+  - "[[Document]]"
 related_theories:
   - "[[Technological Trajectories]]"
 related_methods: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -104,4 +105,4 @@ updated: 2026-10-22
 > | [[Information Science and Technology Study Group]] | Fact (Org) | DSRC 在信息技术与计算机领域的姊妹前沿研判组织。 |
 > | [[Embedded Network Governance]] | Concept | DSRC 为公共代理人嵌入学术共同体并重构合作网络提供了制度化平台。 |
 > | [[DARPA]] | Fact (Org) | DSRC 的设立与直接出资主管机构。 |
-> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 实证解构 DSRC 运作形态与项目经理微观机制的核心文献。 |
+> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 实证解构 DSRC 运作形态与项目经理微观机制的核心[[Document\|文献]]。 |

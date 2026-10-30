@@ -11,9 +11,9 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -61,10 +61,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Grek_2024_EERJ]]"
 related_theories: []
-related_facts: []
+related_facts:
+  - "[[European Association for Quality Assurance in Higher Education]]"
+  - "[[European Quality Assurance Register for Higher Education]]"
+  - "[[European Commission]]"
+  - "[[OECD]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -172,4 +176,4 @@ updated: 2026-10-29
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025, p. 305)]] — 招募公立学校教师作为转介起点（种子），通过滚雪球抽样获取进城[[Peidu|陪读]]与留守乡村的农村家庭访谈样本。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍滚雪球、受访者驱动与声誉滚雪球抽样及其系统偏差；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Ch. 9]] 讨论用网络化绕过[[Gatekeepers|守门人]]接触特殊群体，及其同质性偏差。
-> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样在欧洲高等教育质保政策网络中逐层招募 ENQA、EQAR、欧盟委员会及经合组织的高级决策官员，揭示决策精英幕后互动与组织共生机制。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样在欧洲高等教育质保政策网络中逐层招募 [[European Association for Quality Assurance in Higher Education|ENQA]]、[[European Quality Assurance Register for Higher Education|EQAR]]、[[European Commission|欧盟委员会]]及[[OECD|经合组织]]的高级决策官员，揭示决策精英幕后互动与组织共生机制。

@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 120
+fact_related_count: 122
 fact_related_level: 12
 fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Interactional Expertise]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Public-Private Partnership]]"
   - "[[Venture Philanthropy]]"
@@ -123,6 +124,7 @@ related_facts:
   - "[[ISRCTN]]"
   - "[[Evidence for Education Network]]"
   - "[[SPECTRUM]]"
+  - "[[Maths Champions]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[What Works Clearinghouse]]"
@@ -153,7 +155,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -299,7 +301,7 @@ updated: 2026-10-26
 > - **全球跨国证据主体认知度进入前十五** 在涵盖 103 国教育政策制定者与高级规划专家的全球战略审查中，EEF 名列全球认知度最高的证据主体第 14 位，并且是全球认知度前 15 强中唯一的单一主权国家级循证中介实体，印证了其依托《教学与学习工具包》及国际伙伴网络跨越国界的深远政策声誉。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 22–24)]]
 > - **学校覆盖率与动员广度** 截至官方最新发布的评估报告（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)），全英格兰已有超过五分之四（80%）的公立中小学实际参与过 EEF 资助的项目；累计资助超过 400 项教育干预试验与先导试点，构建起全球覆盖密度最高的单体教育实证试验网络。
 > - **校长决策渗透率** 约 85% 的英格兰中小学校长报告在制定针对处境不利学生的学业支持战略及使用 [[Pupil Premium]] 预算时，主动参考并采用了 EEF 发布的权威指南（Guidance Reports）与工具包建议（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)；[[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, p. 111]]）。
-> - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
+> - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 [[Maths Champions]]）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
 > - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation\|AERO]]、澳大利亚 [[Evidence for Learning\|E4L]] 以及拉美 [[SUMMA]] 等国家与跨国中介机构。
 > - **跨国政策[[Discourse|话语]]权** 其[[Evidence Standards\|证据标准]]直接被英美澳等国纳入入职教师培训（[[Initial Teacher Training]]，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])。
 > - **美国联邦审计的国际权威认可** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的实证审计，在 4 个核心公共证据库中明确将 EEF 纳入并列，与美国本土的[[What Works Clearinghouse\|有效干预清算中心]]（WWC）及 [[Evidence for ESSA]] 平台同等对待，系统检索其覆盖 129 项采购实践的证据记录，表明 EEF 已超越英国本土，成为国际学界追踪 K-12 教育证据体时不可回避的全球性权威参照库（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 165–166, 170]]）。
@@ -407,7 +409,7 @@ updated: 2026-10-26
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | EEF 与必和必拓基金会联合开展的全球证据生态扩张五年战略旗舰项目。 |
 > | [[Evidence for Education Network]] | Fact (Organization) | EEF 牵头组建并常设协调的全球多边教育[[Evidence Network\|证据网络]]（覆盖 20 国）。 |
 > | [[SUMMA]] | Fact (Organization) | EEF 在拉美和加勒比地区的核心海外镜像伙伴，合作推进工具包西葡双语转译与本土试验。 |
-> | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据文献与大纲要求。 |
+> | [[Strong Beginnings Report]] | Fact (Policy) | 澳大利亚教师教育改革大纲，直接采纳了 EEF 推荐的证据[[Document\|文献]]与大纲要求。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方清算中心，与 EEF 并列为国际[[Evidence-Based Education\|循证教育]]的两大顶级旗舰。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
 > | [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |

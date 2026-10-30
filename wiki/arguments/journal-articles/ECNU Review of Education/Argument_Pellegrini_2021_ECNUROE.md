@@ -10,9 +10,9 @@ title: "Argument_Pellegrini_2021_ECNUROE"
 argument_key: "Argument_Pellegrini_2021_ECNUROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25–45. https://doi.org/10.1177/2096531120924670"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Literature Review]]"
+  - "[[Evidence Culture]]"
+  - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Mobilisation]]"
@@ -50,7 +52,9 @@ related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Every Student Succeeds Act]]"
   - "[[EU]]"
+  - "[[Eurydice]]"
   - "[[Azione LIM]]"
+  - "[[Education and Training 2020]]"
   - "[[EPPI-Centre]]"
   - "[[Education Endowment Foundation]]"
   - "[[Strategic School Improvement Fund]]"
@@ -71,7 +75,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2021
 doi: ""
 citation_aliases:
@@ -90,7 +94,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：政策文件分析与[[Literature Review\|文献综述]]。
-> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和证据文化的文献。
+> - 数据来源：欧洲委员会、[[Eurydice]] et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和[[Evidence Culture|证据文化]]的[[Document|文献]]。
 > - 分析对象：[[EU|欧盟]]和 Eurydice 网络成员国中促进[[Research Utilization\|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战。
 
 > [!example] 核心论证
@@ -106,7 +110,7 @@ citation_aliases:
 
 ### 第二步：欧洲建立了若干证据中介和研究网络
 
-4. 2009 年 ET 2020 将进展监测与[[Evidence-Based Policy-Making|证据本位政策制定]]联系起来；同年欧盟发起[[Knowledge Mediation|知识中介]]网络提案，2010-2013 年 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 项目调查欧洲国家如何连接研究与政策。
+4. 2009 年 [[Education and Training 2020|ET 2020]] 将进展监测与[[Evidence-Based Policy-Making|证据本位政策制定]]联系起来；同年欧盟发起[[Knowledge Mediation|知识中介]]网络提案，2010-2013 年 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 项目调查欧洲国家如何连接研究与政策。
 5. EIPPEE 发现欧洲活动很多、路径多样，但跨欧洲层面的合作和协调较少；它建议加强研究证据与政策之间的联系、提升研究质量和可用性、扩展系统综述、建设研究生产到使用系统中的能力，并增加政治和财政承诺。
 6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[Education Endowment Foundation|EEF]]、[[Strategic School Improvement Fund|SSIF]] and TLIF 等机制推动[[Research Utilization|证据使用]]。
 

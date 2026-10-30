@@ -45,13 +45,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 智利教师专业表现评估系统（Sistema de Evaluación del Desempeño Profesional Docente，通称 Docentemás）是智利面向全国市镇公立学校教师建立的常态化专业评价项目。该项目于 2003 年由中央政府与全国教师工会协商达成框架协议，标志着教师考评正式被纳入国家宏观教育问责框架。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
+> [[Docentemás|智利教师专业表现评估系统]]（Sistema de Evaluación del Desempeño Profesional Docente，通称 Docentemás）是智利面向全国市镇公立学校教师建立的常态化专业评价项目。该项目于 2003 年由中央政府与全国教师工会协商达成框架协议，标志着教师考评正式被纳入国家宏观教育问责框架。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2003 年由教育部与工会签署三方协议设立，2004 年正式开展第一轮全国施测，常态化周期性运行至今。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]

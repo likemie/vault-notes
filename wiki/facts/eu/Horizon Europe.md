@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[EU]]"
+  - "[[European Education Area]]"
   - "[[Lund Declaration 2009]]"
   - "[[Engineering Research Centers]]"
   - "[[Horizon Europe Missions]]"
@@ -71,14 +72,14 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2021 年 4 月由欧洲议会与欧洲理事会正式立法通过《建立“地平线欧洲”研究与创新框架计划条例》（Regulation (EU) 2021/695），追溯自 2021 年 1 月 1 日起生效，执行期至 2027 年 12 月 31 日。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
-> - **适用地区 / 对象** 覆盖[[EU|欧盟]] 27 个成员国、欧洲经济区（EEA）国家以及数十个签署联系国协议的全球第三方经济体；面向大学研究机构、国家级科研院所、跨国科技企业、初创中小企业及非营利组织。
+> - **适用地区 / 对象** 覆盖[[EU|欧盟]] 27 个成员国、欧洲经济区（[[European Education Area|EEA]]）国家以及数十个签署联系国协议的全球第三方经济体；面向大学研究机构、国家级科研院所、跨国科技企业、初创中小企业及非营利组织。
 > - **问题背景** 欧洲长期面临科研成果商业转化乏力（“欧洲悖论”，European Paradox）、高科技风险投资规模不足，以及应对气候变化、公共卫生和老龄化等全球重大危机缺乏跨国联合动员机制等多重制度瓶颈。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 > - **制度位置** 承接第七研发框架计划（FP7, 2007–2013）与“地平线 2020”（Horizon 2020 / FP8, 2014–2020），全面吸纳《[[Lund Declaration 2009|隆德宣言 2009]]》关于挑战导向研究的共识，并将玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）的使命导向政策架构制度化为欧盟核心科技宪章。
 

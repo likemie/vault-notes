@@ -33,8 +33,8 @@ related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Cultural Models]]"
 related_methods:
-  - "[[Ethnography]]"
   - "[[Qualitative Research]]"
+  - "[[Ethnography]]"
   - "[[Prototype Methods]]"
   - "[[Cluster Analysis]]"
 related_persons: []
@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!def] Emic and Etic
@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!entry-map] 在质性研究中的位置
+> [!entry-map] 在[[Qualitative Research|质性研究]]中的位置
 >
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|

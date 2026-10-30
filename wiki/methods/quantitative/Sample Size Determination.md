@@ -10,7 +10,7 @@ summary: "研究设计中确定样本大小的决策过程，权衡统计功效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Heterogeneity]]"
   - "[[Metascience]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-29
 > [!def] Sample Size Determination
 > **样本量确定（Sample Size Determination）** 是指在实证研究设计阶段，研究者依据[[Research Purpose|研究目的]]、总体规模与[[Heterogeneity|异质性]]、期望统计功效（Power, $1-\beta$）、名义显著性水平（$\alpha$）、容许误差界线（[[Confidence Interval|margin of error]]）以及具体统计模型要求，科学测算并规划所需观测案例规模（学生个体、教师、学校或集群）的量化决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
 >
-> 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，受试样本量（$N$ 或 $n$）不仅是计算[[Effect Size|效应量]]精度与逆方差权重（$w_i = 1/v_i$）的数学输入，更是[[Metascience|元科学]]质量审计中核验底层文献数据提取可复现性的生命线。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
+> 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，受试样本量（$N$ 或 $n$）不仅是计算[[Effect Size|效应量]]精度与逆方差权重（$w_i = 1/v_i$）的数学输入，更是[[Metascience|元科学]]质量审计中核验底层[[Document|文献]]数据提取可复现性的生命线。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 抽样设计中的个体、自然班级、学校集群、元分析中的受试者总体（$N$）。
@@ -147,7 +148,7 @@ updated: 2026-10-29
 ### 命题二　二阶证据综合中伴随样本量的失真暴露了底层提取质量的系统性溃败
 
 > [!concept-lens] [[Meta-meta-analysis|二阶元分析]]与证据库审计中的样本量准确度危机
-> 探讨宏观[[Research Synthesis|证据综合]]项目在[[Transcription in Qualitative Research|转录]]一阶文献时样本量报告的[[Reliability|信度]]危机。
+> 探讨宏观[[Research Synthesis|证据综合]]项目在[[Transcription in Qualitative Research|转录]]一阶[[Document|文献]]时样本量报告的[[Reliability|信度]]危机。
 
 > [!claim] Kalmendal, A.
 > **二阶[[Meta-analysis|元分析]]中伴随受试样本量的高失误率证实了底层数据整理机制的系统性失效。** 对《[[Visible Learning|可见的学习]]》全库开展的独立复现检验显示，在 301 项可查影响因素中，仅有 2 项能成功复现。即使在[[Effect Size|效应量]]数值勉强核对正确的少数案例中，伴随的学生受试样本量错误率仍高达 **72%**。大量的学生样本量在原文中完全不存在，充斥着无根据的人为主观估算。样本量的虚假膨胀与胡乱拼凑直接扭曲了宏观证据的综合权重，构成了二阶综合面临的最根本[[Metascience|元科学]]质量危机。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]

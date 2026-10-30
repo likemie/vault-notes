@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,17 +20,20 @@ tags:
   - "region/uk"
   - "maths"
   - "whole-school-approach"
-related_concepts: []
+related_concepts:
+  - "[[Problem Solving]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
+  - "[[Mathematics Mastery Primary]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
@@ -45,7 +48,7 @@ updated: 2026-10-28
 ---
 
 > [!policy-design] 干预方案
-> - **学习活动** 通过整套课程和教师发展支持学生理解数学概念，强调问题解决、数学语言与推理。
+> - **学习活动** 通过整套课程和教师发展支持学生理解数学概念，强调[[Problem Solving|问题解决]]、数学语言与推理。
 
 [方案与实施安排](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/mathematics-mastery-secondary#nav-how-is-it-implemented)
 

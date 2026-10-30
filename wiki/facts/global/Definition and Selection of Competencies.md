@@ -37,10 +37,10 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
 related_theories: []
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-10-26
 > - **1997–1999 — 理论立项与跨学科概念奠基期** [[OECD\|经合组织]]教育委员会委托瑞士联邦统计局设立项目秘书处；1999 年在日内瓦召开首届 DeSeCo 国际研讨会，邀请人类学家、社会学家（如 Franz Weinert）与经济学家对[[21st Century Skills and Competencies Discourse\|核心素养]]展开[[Ontology\|本体论]]与[[Epistemology\|认识论]]论证。
 > - **2000–2001 — 国家政策审议与国别咨询扩展期** 伴随第一轮 [[PISA]] 测验的实施，DeSeCo 面向经合组织各成员国展开大规模国别政策咨询，出版首部里程碑专著《定义和选择关键能力》（*Defining and Selecting Key Competencies*, 2001），系统总结各学派对素养概念的争论。
 > - **2002–2003 — 框架统合、终期成果发布与机制化交割** 2003 年出版终期综合报告《为了成功人生与健全社会的核心素养》（*Key Competencies for a Successful Life and a Well-Functioning Society*），正式确立三大能力范畴；随后项目秘书处宣告解散，其研发成果机制化交割给经合组织教育与技能司，全面融入 PISA 测评与各成员国课程改革。
-> - **2004–至今 — 全球扩散与北欧政策渗透** [[EU|欧盟]]委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
+> - **2004–至今 — 全球扩散与北欧政策渗透** [[EU|欧盟]]委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威[[Document|文献]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 ---
 
@@ -145,7 +145,7 @@ updated: 2026-10-26
 >
 > [!lessons] 经验教训与启示
 > - **理论建构的政治生命力** DeSeCo 的成功表明，国际组织必须依托长周期的跨[[Discipline-Based Theory|学科基础理论]]沉淀，才能为后续的大规模指标规制赢得长达数十年的学理合法性。
-> - **主权政策转译的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（[[Cognitive Decoupling|decoupling]]）。
+> - **主权政策转译的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（decoupling）。
 
 ---
 

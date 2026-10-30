@@ -11,7 +11,7 @@ summary: "元分析与统计综合中最核心的最优加权方法，依据各�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Variable]]"
   - "[[Sampling Error]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Visible Learning]]"
   - "[[Cooperative Learning]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-10-29
 > $$\sum_{j=1}^m W_j = \sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji}$$
 > 分式分子分母与公式 $\bar{d}$ 完全一致，严格证明了在固定效应模型下 $D = \bar{d}$ 且 $v_D = v_{\bar{d}}$。
 >
-> **充要条件与协方差失效机理** 该代数等价定理成立的充要条件是各一级元分析纳入的原始研究完全独立且互斥（$\forall j_1 \neq j_2, \text{Studies}(j_1) \cap \text{Studies}(j_2) = \emptyset$）。一旦存在文献重叠（Primary study overlap），跨元分析的一级效应量之间将产生协方差交叉项（$\text{Cov}(d_{j_1}, d_{j_2}) > 0$），导致逆方差理论方差公式失效，计算出的方差远小于实际方差，造成统计检验虚假显著与假阳性风险暴增。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37–38)]]
+> **充要条件与协方差失效机理** 该代数等价定理成立的充要条件是各一级元分析纳入的原始研究完全独立且互斥（$\forall j_1 \neq j_2, \text{Studies}(j_1) \cap \text{Studies}(j_2) = \emptyset$）。一旦存在[[Document|文献]]重叠（Primary study overlap），跨元分析的一级效应量之间将产生协方差交叉项（$\text{Cov}(d_{j_1}, d_{j_2}) > 0$），导致逆方差理论方差公式失效，计算出的方差远小于实际方差，造成统计检验虚假显著与假阳性风险暴增。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37–38)]]
 
 ---
 

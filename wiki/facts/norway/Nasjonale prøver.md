@@ -13,7 +13,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - theme/standardized-testing
   - theme/accountability
 related_concepts:
+  - "[[School Finances]]"
   - "[[School Choice]]"
   - "[[Soft Accountability]]"
   - "[[Transparency Bypass]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-27
 > - **立项时间 / 周期** 2004 年由挪威议会立法启动，历经 2005 年停滞整顿，2007 年全面重启并常态化运行至今。
 > - **发起方与资助机制** 由挪威教育部发起、挪威教育与培训局（Utdanningsdirektoratet, Udir）组织执行，国家财政全额资助。
 > - **覆盖范围与对象** 面向全国所有公立与私立基础教育学校的 5 年级、8 年级与 9 年级全体在籍学生，主要施测阅读、数学计算与英语能力。
-> - **核心问题导向** 回应 1990 年代挪威将基础教育财权与管理权下放至市镇（Municipalities）后出现的中央宏观质量失控，以及 2001 年首轮 [[PISA]] 测评成绩平庸引发的[[PISA Shock in Norway|“PISA 震荡”（PISA-sjokket）]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
+> - **核心问题导向** 回应 1990 年代挪威将基础教育财权与管理权下放至市镇（Municipalities）后出现的中央宏观质量失控，以及 2001 年首轮 [[PISA]] 测评成绩平庸引发的“PISA 震荡”（[[PISA Shock in Norway|PISA-sjokket]]）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
 
 ---
 
@@ -71,7 +72,7 @@ updated: 2026-10-27
 > - **项目目标** 测查学生在国家课程大纲（Kunnskapsløftet）基本技能维度的达成情况，监控市政分权体制下的区域教育公平。
 > - **覆盖对象** 5 年级（初小阶段）、8 年级（高小升初中交接阶段）与 9 年级学生，采取全员普查形式（Census-based）。
 > - **施测与分析模式** 采用计算机化自适应测评（CBT），基于[[Item Response Theory|项目反应理论]]划分不同能力等级区间，向学校反馈多维达成度雷达图。
-> - **法定结果应用限制** 2005 年法令明文禁止中央政府或国家测评机构根据测试成绩编制或发布官方学校排行榜，明确承诺不与学校经费预算或教师人事任免挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255, 258)]]
+> - **法定结果应用限制** 2005 年法令明文禁止中央政府或国家测评机构根据测试成绩编制或发布官方学校排行榜，明确承诺不与[[School Finances|学校经费]]预算或教师人事任免挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255, 258)]]
 
 ---
 

@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Updating and Monitoring]]"
   - "[[Literature Review]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Inhibitory Control]]"
   - "[[Working Memory]]"
   - "[[Zone of Desired Effects]]"
@@ -62,7 +63,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2017
 doi: ""
 citation_aliases:
@@ -104,7 +105,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文献样本池** | 覆盖 1950 年代至 2017 年间发表的认知心理学、神经科学及教育管理文献。 |
+> | **[[Document\|文献]]样本池** | 覆盖 1950 年代至 2017 年间发表的认知心理学、神经科学及教育管理文献。 |
 > | **测评任务范围** | 包含 A非B任务 (A-not-B Task, 0–2岁)、Stroop式日夜任务与维度变化卡片分类任务 (Day-Night & DCCS Tasks, 3–5岁)、守恒任务与 Go/No-Go 任务 (Conservation & Go/No-Go Tasks, 7–11岁)、威斯康星卡片分类任务与 Keep-track 任务 (WCST & Keep-track Tasks, 11–16岁) 等代表性行为学测试。 |
 > | **大脑解剖样本** | 包含尸检解剖数据 (如背外侧前额叶皮层 [[Prefrontal Cortex\|Dorsolateral Prefrontal Cortex, dlPFC]] 锥体细胞) 以及不同年龄段儿童与成人的神经成像扫描数据。 |
 

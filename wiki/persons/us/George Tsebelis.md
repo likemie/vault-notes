@@ -8,7 +8,7 @@ summary: "美籍希腊裔政治学家，密歇根大学政治学讲席教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
   - "[[Rule Ambiguity]]"
+  - "[[Zone of Discretion]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Historical Institutionalism]]"
@@ -43,21 +44,21 @@ related_persons:
   - "[[Kathleen Thelen]]"
   - "[[Peter A. Hall]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[EU]]"
+  - "[[Court of Justice of the European Union]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍希腊裔比较政治学家，密歇根大学（University of Michigan）阿纳托尔·拉波波特政治学讲席教授（Anatol Rapoport Collegiate Professor of Political Science），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，当代理性选择制度主义与比较宪政分析代表人物。
+> - **身份位置** 美籍希腊裔比较政治学家，密歇根大学（University of Michigan）阿纳托尔·拉波波特政治学讲席教授（Anatol Rapoport Collegiate Professor of Political Science），美国文理科学院（[[American Association for the Advancement of Science|AAAS]]）院士，当代理性选择制度主义与比较宪政分析代表人物。
 > - **核心角色** 在比较制度分析与形式政治理论网络中担任理论奠基节点；开创享誉学界的“否决玩家理论”（Veto Players Theory），将多国繁复宪政体制简化为统一的博弈分析模型，为比较政治学提供了解释政策稳定性与制度刚性的通用测量标尺；在[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中被[[James Mahoney|马奥尼]]与希伦采纳为界定宏观环境“[[Veto Possibilities|否决可能性]]”的直接理论基石。
 > - **代表贡献** 出版里程碑专著《否决玩家：政治制度如何运作》（*Veto Players: How Political Institutions Work*，2002），形式化界定制度性与党派性否决者、核心区（winset）与政策稳定性的因果链条；出版《嵌套博弈》（*Nested Games*，1990），解释看似非理性的政治行为在多重竞技场博弈下的理性逻辑。
 
@@ -76,7 +77,7 @@ updated: 2026-10-22
 > - **2002** 出版代表作《否决玩家：政治制度如何运作》（*Veto Players*，普林斯顿大学出版社），构建跨越总统制与议会制、联邦制与单一制的制度分析大一统理论，引发全球政治学界广泛引用与检验。
 > - **2007** 加盟密歇根大学（University of Michigan）政治学系，出任阿纳托尔·拉波波特政治学讲席教授。
 > - **2009** 其否决者理论被[[James Mahoney|马奥尼]]与希伦系统整合进[[Historical Institutionalism|历史制度主义]]分析，确立为[[Theory of Gradual Institutional Change|渐进制度变迁理论]]二维矩阵的解释[[Variable|变量]]之一。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 19)]]
-> - **2016** 当选美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences）院士。
+> - **2016** 当选美国文理科学院（American Academy of Arts and Sciences）院士。
 
 ---
 
@@ -90,7 +91,7 @@ updated: 2026-10-22
 >   - **关键概念／方法** 否决玩家（Veto Players）、制度性否决者、党派性否决者、无差别曲线、胜集（Winset）。
 >   - **阶段转向** 摆脱了传统比较政治学沉溺于“总统制 vs 议会制”宏观二元对立的分类泥潭，提炼出具有连续[[Variable|变量]]特征的“否决玩家数量”与“意识形态距离”，实现体制分析维度的形式化统一。
 > - **2000年代末至今 — 跨[[Paradigm|范式]]对话与[[EU|欧盟]]宪政改革博弈** 回应[[Historical Institutionalism|历史制度主义]]与实证宪政学批评，深化对规则变更难度与司法裁量博弈的形式化建模。
->   - **代表著作** 参与历史制度主义前沿对话，研究欧盟立法程序中的议程设置权与欧洲法院的司法裁量权。
+>   - **代表著作** 参与历史制度主义前沿对话，研究欧盟立法程序中的议程设置权与[[Court of Justice of the European Union|欧洲法院]]的司法裁量权。
 >   - **关键概念／方法** 议程设置者优势、修宪门槛、司法否决。
 >   - **阶段转向** 从静态政策核心区模型扩展到包含时间维度与议程掌控的动态博弈，为分析规则内生修改难度与司法解释提供理论工具。
 
@@ -132,7 +133,7 @@ updated: 2026-10-22
 > > - **James Mahoney and Kathleen Thelen（2009）** 茨贝利斯混淆了“正式法律文本维持不变”与“制度实质功能未发生改变”；在强否决阻力封杀正式修法时，行动者并不会坐以待毙，而是会利用[[Enforcement Discretion|执行裁量权]]转向[[Institutional Layering|制度层叠]]或放任[[Institutional Drift|制度漂移]]，以隐蔽渐进方式摧毁旧制度的实质功能。（p. 19）
 
 > [!warning] 未解问题与边界
-> 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该假设忽视了[[Rule Ambiguity|规则内生模糊性]]与执行层面的自由裁量空间，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。
+> 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该假设忽视了[[Rule Ambiguity|规则内生模糊性]]与执行层面的[[Zone of Discretion|自由裁量空间]]，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。
 
 ---
 

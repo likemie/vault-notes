@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -71,6 +71,7 @@ related_methods:
   - "[[Semantic Differential]]"
   - "[[Likert Scale]]"
   - "[[Telephone Interview]]"
+  - "[[Contingency Questions]]"
   - "[[Cronbach's Alpha]]"
   - "[[Internal Consistency]]"
   - "[[Sample Size Determination]]"
@@ -81,7 +82,7 @@ related_facts:
   - "[[GEMS Education]]"
 status: draft
 created: 2026-07-20
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 > [!knowledge-map] 第20章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_20_Concept_Map.jpg)
@@ -629,7 +630,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 ---
 
-> [!def] 条件题、过滤题与分支题
+> [!def] [[Contingency Questions|条件题]]、过滤题与分支题
 > 条件题依赖于对前面问题的回答（如如果你对第（1）题的回答是是，请跳至第（4）题）。前面的问题充当**过滤器**，后面的问题是条件性的，是前面问题的**分支**。一些问卷用文字写明跳至的问题号，另一些用箭头指示（pp. 151–153）。
 
 > [!warning] Redline et al.（2002）的关键研究发现

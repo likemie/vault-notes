@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,8 @@ tags:
   - teaching-assistants
   - region/uk
 related_concepts:
+  - "[[Tutoring Interventions]]"
+  - "[[Free School Meals]]"
   - "[[Business as Usual]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Response to Proven Instruction]]"
@@ -40,6 +42,7 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Causality]]"
   - "[[Teaching Assistant]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Efficacy Trial]]"
@@ -68,13 +71,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Catch Up Numeracy** 是由英国教育慈善机构 Catch Up 依据牛津大学安·道克（Ann Dowker）的儿童数学认知发展理论研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学数学针对性个别化辅导干预项目。该项目旨在通过经过系统培训的教师或助教，为小学三至六年级（7 至 11 岁）存在数学学习困难的弱势学生提供结构化的一对一精准辅导。在跨国政策扩散中，该项目被[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）列入美国《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据目录，作为初等数学 Tier 3 助教密集个别辅导的标杆方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]; Hodgen et al. (2019)
+> **Catch Up Numeracy** 是由英国教育慈善机构 Catch Up 依据牛津大学安·道克（Ann Dowker）的儿童数学认知发展理论研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学数学针对性个别化[[Tutoring Interventions|辅导干预]]项目。该项目旨在通过经过系统培训的教师或助教，为小学三至六年级（7 至 11 岁）存在数学学习困难的弱势学生提供结构化的一对一精准辅导。在跨国政策扩散中，该项目被[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）列入美国《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据目录，作为初等数学 Tier 3 助教密集个别辅导的标杆方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]; Hodgen et al. (2019)
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2012 年启动早期[[Efficacy Trial\|效力试验]]探索；2016 年立项开展大规模多学区[[Cluster Randomized Trials\|集群随机对照试验]]，由诺丁汉大学杰里米·霍奇森（Jeremy Hodgen）团队独立评估，于 2019 年发布终期评估报告（Hodgen et al., 2019）。
@@ -89,7 +92,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计
 > - **项目目标** 帮助小学中高年级数学滞后学生掌握基础数感、进位规则与算术推理，提升标准化数学考试表现。
-> - **覆盖对象** 小学三年级至五年级经诊断需要额外数学支持的学生，重点覆盖享受免费学校午餐（Free School Meals, FSM）的处境不利学生。
+> - **覆盖对象** 小学三年级至五年级经诊断需要额外数学支持的学生，重点覆盖享受免费学校午餐（[[Free School Meals]], FSM）的处境不利学生。
 > - **干预措施** 
 >   1. **十维细化诊断测评** 辅导前对学生在计数、数字符号识别、估算、位值理解、加法与减法运算等 10 项细分成分进行一对一测评；
 >   2. **高度结构化微辅导递送** 助教根据诊断结果，每周进行两次 15 分钟的密集一对一辅导，综合运用实物操作学具、数学对话与个性化练习纸；
@@ -161,5 +164,5 @@ updated: 2026-10-22
 > | [[Teaching Assistant]] | 概念 | 核心递送人员；项目探索了由助教提供高频结构化辅导的有效性与组织边界。 |
 > | [[Response to Proven Instruction]] | 概念 | 理论归宿；在斯莱文 RTPI 三层架构中作为 Tier 3 密集辅导的代表性强证据方案。 |
 > | [[Every Student Succeeds Act]] | 事实 | 法定标准；该项目在多中心评估中达到 ESSA 强证据（Strong）标准。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源文献；将 Catch Up Numeracy 确立为反思商业测验心理计量缺陷的关键证据。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源[[Document\|文献]]；将 Catch Up Numeracy 确立为反思商业测验心理计量缺陷的关键证据。 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]] | 论证 | 来源文献；将 Catch Up Numeracy 确立为初等数学助教 1:1 密集辅导的强证据代表方案。 |

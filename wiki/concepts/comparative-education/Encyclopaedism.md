@@ -5,10 +5,10 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum-theory
   - theme/educational-tradition
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
-  - "[[Geisteswissenschaften]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -132,7 +131,7 @@ updated: 2026-10-29
 > 课程改革的难点在于教师必须具有主动留下空白的勇气。Becker 1979 年回顾德国改革时指出，教师即使知道知识爆炸已使全面覆盖失去可能，仍可能按照旧有知识正典规划课堂，使共同核心与选项在实施中重新变成内容清单。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
 
 > [!case] 巴西 1990 年代课程改革中的名义退场
-> [[Brazilian Secondary Education Curriculum Reform 1998\|巴西中等教育课程改革]]以基本能力、技能和跨学科工作组织课程，名义结构由十二至十四门独立学科改为语言及其技术、自然科学与数学及其技术、[[Geisteswissenschaften|人文科学]]及其技术三大领域。这样的表述回应了对记忆学习、去语境化知识和割裂分科的批评。
+> [[Brazilian Secondary Education Curriculum Reform 1998\|巴西中等教育课程改革]]以基本能力、技能和跨学科工作组织课程，名义结构由十二至十四门独立学科改为语言及其技术、自然科学与数学及其技术、人文科学及其技术三大领域。这样的表述回应了对记忆学习、去语境化知识和割裂分科的批评。
 >
 > 三大领域内部随后又被细分为物理、化学、历史等传统科目，合计仍为十四门。能力导向与跨学科语言改变了课程的公开正当性，教师岗位和学科边界则维持既有安排。百科全书主义在这里表现为可与改革语言共存的深层组织逻辑。[[Argument_Beech_2009_CE\|Beech (2009a, pp. 355–357)]]
 

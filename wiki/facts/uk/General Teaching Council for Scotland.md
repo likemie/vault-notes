@@ -10,7 +10,7 @@ subtype: organization
 region: "uk"
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Initial Teacher Training]]"
+  - "[[Document]]"
   - "[[School Leadership]]"
   - "[[Literature Search]]"
   - "[[Contributory Expertise]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-22
 > [!pathways] 业务运行机制
 > - **教师专业更新（Professional Update, PU）机制** 每五年为周期，要求全体在职教师在持续专业学习（PRD）中开展基于反思与证据的探究，经校领导确认后完成资格更新，取代外部惩罚性重新考核。
 > - **[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）嵌入** 将探究精神确立为专业行动的核心机制，要求教师在真实课堂中界定问题、收集证据、反思教学并与大学学者开展合作。
-> - **学术文献直接赋权（Education Source 接入）** GTCS 直接出资为全苏格兰注册教师采购 EBSCO Education Source 全文数据库访问权限，打破学术期刊付费墙，使一线教师无需依赖商业摘要即可直接查阅原始学术成果（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 14]]）。
+> - **学术[[Document|文献]]直接赋权（Education Source 接入）** GTCS 直接出资为全苏格兰注册教师采购 EBSCO Education Source 全文数据库访问权限，打破学术期刊付费墙，使一线教师无需依赖商业摘要即可直接查阅原始学术成果（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 14]]）。
 
 ---
 

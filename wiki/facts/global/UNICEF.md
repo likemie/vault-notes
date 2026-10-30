@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Policy Brokerage]]"
+  - "[[Smart Buys]]"
   - "[[Learning Crisis]]"
   - "[[Knowledge Production]]"
   - "[[Counseling Effects]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-26
 > - **1946–1989 — 人道战后紧急救援与儿童基本生存保障期** 早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步意识到儿童心智发展与基础初等教育对阻断代际贫困的关键意义，开始资助农村小学初级卫生与女童识字培训。
 > - **1989–2000 — 《儿童权利公约》与[[Education for All|全民教育]]（EFA）联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO|教科文组织]]、[[World Bank|世行]]在泰国宗迪恩联合发起《[[Education for All|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, p. 541]]）。在此期间，儿童基金会深度介入全球南方基础教育能力建设，在印度等地资助开创性的小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实儿童受教育权（Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
 > - **2000–2015 — 女童教育倡议与爱生学校模式全球推广期** 发起联合国女童教育倡议（UNGEI），推动撒哈拉以南非洲和南亚女童入学率跨越式提升；系统研发并推广“爱生学校”（Child-Friendly Schools, CFS）标准框架，倡导健康、安全、保护儿童免受暴力的人文教学环境。
-> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱、数据契约共治与全球证据咨询** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟；2020 年起联合世界银行、英国外交部（FCDO）与美国国际开发署（USAID）共同发起设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP），资助发布中低收入国家教育改革“智能购买”（Smart Buys）分级循证指引；同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
+> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱、数据契约共治与全球证据咨询** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟；2020 年起联合世界银行、英国外交部（FCDO）与美国国际开发署（USAID）共同发起设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP），资助发布中低收入国家教育改革“[[Smart Buys|智能购买]]”（Smart Buys）分级循证指引；同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 ---
 

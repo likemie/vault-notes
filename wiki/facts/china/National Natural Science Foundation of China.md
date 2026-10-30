@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-10-22
 > [!tension] 竞争性同行评议科学基金 vs 计划体制行政指令拨款
 > - **科技资源配置[[Paradigm|范式]]的根本转变**
 >   在 NSFC 成立前，中国科技预算高度依赖部委按行政编制切块下达，资金极易固化于既有体制内大型院所；NSFC 的设立将“项目导向与科学家个人学术水平”置于核心，为高校青年学者脱颖而出提供了极为关键的体制赛道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
-> - **促进大学与[[Chinese Academy of Sciences|科学院]]的横向竞争共生**
+> - **促进大学与科学院的横向竞争共生**
 >   NSFC 的开放申请机制有力推动了[[Chinese Academy of Sciences|中国科学院]]与教育部直属[[Research Universities|研究型大学]]在同一起跑线上展开学术质量竞争，极大激活了中国高水平大学的基础研究活力，推动中国科学论文发表与前沿探索在 20 世纪末至 21 世纪初迎来爆发式增长。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 ---

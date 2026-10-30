@@ -11,7 +11,7 @@ summary: "同时操纵两个或多个自变量以检验主效应与交互效应�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Unit of Analysis]]"
   - "[[Implementation Fidelity]]"
+  - "[[Student Motivation]]"
   - "[[Dependent Variable]]"
   - "[[Business as Usual]]"
   - "[[Type I and Type II Errors]]"
@@ -66,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Factorial Design
@@ -99,7 +100,7 @@ updated: 2026-10-29
 > | 自[[Variable\|变量]] | 水平 1 | 水平 2 | 水平 3 |
 > |---|---|---|---|
 > | **资源可用性** | 有限（1） | 中等（2） | 高（3） |
-> | **学习动机** | 低（4） | 中等（5） | 高（6） |
+> | **[[Student Motivation\|学习动机]]** | 低（4） | 中等（5） | 高（6） |
 
 九种组合为两个自变量各水平的全交叉：1+4, 1+5, 1+6, 2+4, 2+5, 2+6, 3+4, 3+5, 3+6，共 9 个实验组。例如，可能发现有限资源+低动机对考试成绩有显著负面影响，而中等+高资源没有——因子设计的价值正在于揭示这类条件性效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。
 

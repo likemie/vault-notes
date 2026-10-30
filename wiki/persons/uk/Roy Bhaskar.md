@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Empiricism]]"
   - "[[Explanatory Critique]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Emergence]]"
   - "[[Scientific Explanation]]"
   - "[[Positivism]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +90,7 @@ updated: 2026-10-22
 
 > [!work-line] 主要著作
 > - **1978 — *A Realist Theory of Science*** 系统阐明先验实在论（Transcendental Realism），提出区分实在域、实际域与经验域的三层[[Ontology|本体论]]，论证深层因果机制独立于经验观察模式。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
-> - **1979 — *The Possibility of Naturalism: A Philosophical Critique of the Contemporary [[Geisteswissenschaften|Human Sciences]]*** 确立批判自然主义（Critical Naturalism），论证社会结构对个体能动性的[[Emergence|涌现]]权力与转换性社会行动模型（TMSA）。
+> - **1979 — *The Possibility of Naturalism: A Philosophical Critique of the Contemporary Human Sciences*** 确立批判自然主义（Critical Naturalism），论证社会结构对个体能动性的[[Emergence|涌现]]权力与转换性社会行动模型（TMSA）。
 > - **1986 — *Scientific Realism and Human Emancipation*** 建立[[Explanatory Critique|解释性批判]]（Explanatory Critique）框架，阐明对虚假信念与意识形态结构根源的[[Scientific Explanation|科学解释]]直接构成对其进行规范性批判与社会解放实践的正当依据。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682)]]
 
 ---

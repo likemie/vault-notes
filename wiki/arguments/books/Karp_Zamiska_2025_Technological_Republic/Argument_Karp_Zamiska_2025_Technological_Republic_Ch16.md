@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_display_title: "“Piety and Its Price”"
 argument_kind: "book-chapter"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -53,16 +53,18 @@ related_persons:
   - "[[Hyman Rickover]]"
   - "[[Kenneth Burke]]"
   - "[[James Madison]]"
+  - "[[Harvey C. Lehman]]"
   - "[[Saint Benedict]]"
   - "[[Plato]]"
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
   - "[[United States Congress]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Gaokao]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -88,7 +90,7 @@ updated: 2026-10-26
 >
 > - **通用动力小礼品调查公案与程序合规对实战功勋的审判**
 >
->   详述 1985 年海军审查委员会披露里科弗在十六年间收受通用动力公司总值 67,628 美元的小额礼品与日用纪念品的公案；剖析海军部长约翰·莱曼与《纽约时报》社论借程序瑕疵发起的道德声讨，对比威廉·普罗克斯迈尔参议员与《时代》周刊对实质历史战功的坚定辩护，揭示体制对瑕疵实干家的残酷排斥（pp. 185–186）。
+>   详述 1985 年海军审查委员会披露里科弗在十六年间收受通用动力公司总值 67,628 美元的小额礼品与日用纪念品的公案；剖析海军部长约翰·[[Harvey C. Lehman|莱曼]]与《纽约时报》社论借程序瑕疵发起的道德声讨，对比威廉·普罗克斯迈尔参议员与《时代》周刊对实质历史战功的坚定辩护，揭示体制对瑕疵实干家的残酷排斥（pp. 185–186）。
 >
 > - **道德纯洁性狂热与伯克替罪羊机制的集体心理排毒**
 >
@@ -170,7 +172,7 @@ updated: 2026-10-26
 > - **战术性能飞跃** 鹦鹉螺号对常规空中侦测与反潜打击近乎完全免疫，航速超越常规鱼雷，将潜艇由短时下潜的水面舰转化为可长期隐匿大洋深处的战略核威慑中枢，为美国奠定了延续至今的海上战略优势（pp. 183–184）。
 
 > [!case] 里科弗上将打破海军规章与建造鹦鹉螺号
-> 1953 年 5 月 31 日晚，在爱达荷州沙漠试验场，埃德温·金特纳（Edwin E. Kintner）与美国原子能委员会（Atomic Energy Commission, AEC）托马斯·默里（Thomas E. Murray）启动了小型潜艇核反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W），拉开了美苏潜艇动力技术代差竞争的序幕（pp. 183–184）。里科弗上将性格桀骜，在 1984 年哥伦比亚广播公司（Columbia Broadcasting System, CBS）《60分钟》（*60 Minutes*）节目接受黛安·索耶（Diane Sawyer）采访时自嘲只有花栗鼠般的亲和力。当副官手捧海军规章手册汇报流程时，里科弗直接命令其滚出去并把规章手册烧掉，留下了掷地有声的信条：我的职责不是在体制内合规工作，我的职责是把事情真正做成；吉米·卡特（Jimmy Carter）总统回忆，尽管曾恨透了里科弗的严厉，但除生父外没有任何人对自己的生命产生过如此深沉的影响（p. 185）。
+> 1953 年 5 月 31 日晚，在爱达荷州沙漠试验场，埃德温·金特纳（Edwin E. Kintner）与美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）托马斯·默里（Thomas E. Murray）启动了小型潜艇核反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W），拉开了美苏潜艇动力技术代差竞争的序幕（pp. 183–184）。里科弗上将性格桀骜，在 1984 年哥伦比亚广播公司（Columbia Broadcasting System, CBS）《60分钟》（*60 Minutes*）节目接受黛安·索耶（Diane Sawyer）采访时自嘲只有花栗鼠般的亲和力。当副官手捧海军规章手册汇报流程时，里科弗直接命令其滚出去并把规章手册烧掉，留下了掷地有声的信条：我的职责不是在体制内合规工作，我的职责是把事情真正做成；吉米·卡特（Jimmy Carter）总统回忆，尽管曾恨透了里科弗的严厉，但除生父外没有任何人对自己的生命产生过如此深沉的影响（p. 185）。
 
 这项彻底颠覆现代海战形态的历史性工程，完全由时任海军准将里科弗以近乎狂热的进取心一手缔造（pp. 184–185）。
 
@@ -212,7 +214,7 @@ updated: 2026-10-26
 > [!debates] 官僚合规审判与战略战功辩护的对立争鸣
 >
 > > [!axis] 官僚程序派：指控特权自大与跌落神坛
-> > 海军部长约翰·莱曼（John Lehman）公开将此事件定性为里科弗的跌落神坛；《纽约时报》（1985）发表社论指责其自以为凌驾于规则之上，认为这种信念虽促成其崇高成就，却孕育了深刻的判断缺陷，借由微小合规程序否定其一生的卓越品格。
+> > 海军部长约翰·[[Harvey C. Lehman|莱曼]]（John Lehman）公开将此事件定性为里科弗的跌落神坛；《纽约时报》（1985）发表社论指责其自以为凌驾于规则之上，认为这种信念虽促成其崇高成就，却孕育了深刻的判断缺陷，借由微小合规程序否定其一生的卓越品格。
 >
 > > [!axis] 战略实战派：捍卫核海军之父的不朽战功
 > > 威廉·普罗克斯迈尔（William Proxmire）参议员坚决捍卫老友，直言当如今掌管海军的平庸官僚被历史彻底遗忘之后，里科弗作为核海军之父与国防承包舞弊不屈斗士的英名仍将永载史册；《时代》周刊（1986）悼词亦客观指出，里科弗的傲慢无法掩盖其粗粝天才乃是美国在原子能时代黎明期最伟大的战略资产（p. 186）。

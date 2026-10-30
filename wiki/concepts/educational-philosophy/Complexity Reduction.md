@@ -5,7 +5,7 @@ aliases:
 summary: "通过减少系统中的可用选项数量使社会情境变得更可预测的过程，常用于分析权力如何组织选择空间。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Synectics]]"
+  - "[[Document]]"
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -111,5 +112,5 @@ updated: 2026-10-22
 > [!warning] "减少选项"是否总是权力行使？
 > 教育本身就涉及基于专业知识和伦理判断的选择限制（如[[Teacher Choices\|教师选择]]特定教学策略而非放任学生随意选择）——这在什么情况下是合法的专业行为，在什么情况下构成非法的权力行使？复杂性化简框架需要进一步区分"基于专业的化简"与"基于控制的化简"。
 >
-> **目前状态** 此张力在教育专业化文献中有相关讨论（如专业自主权 vs 问责制的边界），但尚未在复杂性化简框架内系统回应。
+> **目前状态** 此张力在教育专业化[[Document|文献]]中有相关讨论（如专业自主权 vs 问责制的边界），但尚未在复杂性化简框架内系统回应。
 

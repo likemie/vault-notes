@@ -41,18 +41,18 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Gaokao]]"
   - "[[National Security Law]]"
+  - "[[National Education]]"
   - "[[Youth Development Blueprint]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[My Pledge to Act]]"
   - "[[Liberal Studies]]"
-  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Vickers_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-10-22
 >   - 2019-07 中国内地及本地亲北京官媒集中攻击[[General Education\|通识教育]]科，指控其教科书夹带私货，定性为社会政治危机的病根（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 488–490]]）。
 >   - 2019-12 特区政府行政长官称香港教育不能再是不设防的鸡笼，前特首董建华公开称通识科在其任内引入是失败，施加行政压力。
 > - **2020 — 国安法实施与政策突然反转**
->   - 2020-06 全国人大正式颁布实施[[National Security Law\|香港国安法]]，确立了强制国民教育的法定地位（p.141）。
+>   - 2020-06 全国人大正式颁布实施[[National Security Law\|香港国安法]]，确立了强制[[National Education|国民教育]]的法定地位（p.141）。
 >   - 2020-08 教育局宣布对通识教科书提供一次性专业咨询服务，实施临时性内容审查。
 >   - 2020-09 课程检统专责小组发布最终报告，建议通识科保留为必修科，仅进行微调。
 >   - 2020-11 港府突然宣布废除通识科并用新的CSD取代，这无公众咨询的行政转折暗示了国安法的直接推动（p.148）。

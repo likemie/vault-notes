@@ -12,7 +12,7 @@ subtype: event
 region: "latin-america"
 fact_region: "latin-america"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Educational Privatisation]]"
   - "[[Paradigm]]"
+  - "[[School Vouchers]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Conditioned State Theory]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 > |---|---|---|
 > | **国家角色** | 积极扩大公立学校建设的投资型国家 | 削减教育财政开支、推卸统筹责任的[[Conditioned State Theory\|受限国家]] |
 > | **教育地位** | 支撑工业化转型与政权合法性的公共品 | 由个人买单的自负盈亏[[Human Capital Theory\|人力资本]]商品 |
-> | **政策取向** | 追求全民基础教育普及与高等教育扩招 | 强推使用者付费、公立学校分权化与教育券私有化 |
+> | **政策取向** | 追求全民基础教育普及与高等教育扩招 | 强推使用者付费、公立学校分权化与[[School Vouchers\|教育券]]私有化 |
 > | **社会后果** | 虽存在双轨但中产阶级受教育规模激增 | 公立学校破败，贫民与工薪中产陷入生存与负债危机 |
 
 ---

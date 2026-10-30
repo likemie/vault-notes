@@ -6,7 +6,7 @@ aliases:
 summary: "Caraça、Lundvall and Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Habitus]]"
   - "[[Knowledge Exchange]]"
   - "[[Global Policy Space]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-26
 > [!example] 概念辨析
 > - vs **[[Linear Model of Innovation\|线性创新模型]]** — 线性模型预设科学→技术→经济的单向因果链。多通道模型认为创新可从任何地方开始，科学只是多元[[Source of Knowledge\|知识来源]]中的一种，且创新依赖于企业与环境之间的多通道互动学习。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 862–865)]]
 > - vs **[[Chain-linked Model\|链式模型]]（Kline & Rosenberg）**— 链式模型超越了线性预设，但未明确承认组织维度和制度环境。多通道模型在保留链式模型核心洞见的基础上，加入了螺旋式学习、三类知识池和界面三个新要素。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 863–864)]]
-> - vs **[[Innovation Ecosystem\|创新生态系统]]** — 创新生态系统强调创新发生的多层次网络环境。多通道模型提供了更具体的机制——界面和知识池——来解释企业如何与该环境进行学习性互动。
+> - vs **[[Innovation Ecosystem\|创新生态系统]]** — 创新生态系统强调创新发生的多层次网络环境。多通道模型提供了更具体的机制——界面和知识池——来解释企业如何与该环境进行学[[Habitus|习性]]互动。
 
 ---
 

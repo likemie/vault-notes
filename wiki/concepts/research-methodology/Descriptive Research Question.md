@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!tip] 写作脚本
+> [!tip] [[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的描述性[[Quantitative Research\|量化研究]]问题[[Research Writing Script\|写作脚本]]：
 >
 > "What is the frequency and variation of scores on ____（[[Variable\|变量]]名称____）for ____（参与者____）in the study?"

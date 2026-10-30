@@ -7,7 +7,7 @@ title: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_key: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_display_title: "The global reception of John Dewey's thought: Multiple refractions through time and space"
 argument_kind: "edited-volume"
-argument_related_count: 5
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
@@ -27,15 +27,17 @@ tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-
 related_concepts:
   - "[[Recontextualization]]"
   - "[[Discourse]]"
+  - "[[Document]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Jurgen Schriewer]]"
   - "[[Jeremy Rappleye]]"
+  - "[[James C. Scott]]"
 sources:
   - "[[books/BrunoJofre_Schriewer_2012_Routledge/BrunoJofre_Schriewer_2012_Routledge|BrunoJofre_Schriewer_2012_Routledge]]"
 status: "draft"
 created: "2026-10-10"
-updated: "2026-10-10"
+updated: 2026-10-30
 ---
 
 > [!volume-profile] 阅读档案
@@ -78,11 +80,11 @@ updated: "2026-10-10"
 > - **第 9 章，杜威与李普曼之争及其在德国的接受** A “New Republic”? The Debate between John Dewey and Walter Lippmann and Its Reception in Pre- and Postwar Germany。Norbert Grube，原书 pp. 196–214。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Ch09_Grube_Dewey_Lippmann_and_Germany.txt)。待解读。
 
 > [!chapter-index] 原文入口
-> - **后记，跨国阅读杜威思想中的交汇、对立与构型** Afterword: Intersections, Oppositions, and Configurations in the Transnational Readings of Dewey。James Scott Johnston，原书 pp. 215–228。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Afterword_Johnston_Transnational_Readings_of_Dewey.txt)。待解读。
+> - **后记，跨国阅读杜威思想中的交汇、对立与构型** Afterword: Intersections, Oppositions, and Configurations in the Transnational Readings of Dewey。[[James C. Scott|James Scott]] Johnston，原书 pp. 215–228。[TXT](../../../../raw/BrunoJofre_Schriewer_2012_Routledge_txt/Afterword_Johnston_Transnational_Readings_of_Dewey.txt)。待解读。
 
 > [!volume-limits] 文本整理与引用边界
 > - **前置材料** 前言、致谢及原始发表说明并入第 1 章，明确标为全书补充材料。
-> - **公共附录** 作者简介与完整参考文献并入后记，供所有章节追溯来源。
+> - **公共附录** 作者简介与完整参考[[Document|文献]]并入后记，供所有章节追溯来源。
 > - **页码定位** TXT 中 `[p. N]` 为原书页码，`[PDF page M]` 为文件内的一基页序；正文页序为原书页码加 18。
 > - **识别质量** 原文件为扫描版，TXT 使用已有文字识别层，可能保留拼写、重音符号与注释编号的识别错误。精确引文、图像与表格应回到 PDF 核对。
 > - **证据归属** 后续引用以章节作者及章节论证页为单位；总页面仅承担导航功能。

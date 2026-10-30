@@ -8,7 +8,7 @@ summary: "美国著名教育哲学家、心理学家与高阶思维测评先驱�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Habitus]]"
   - "[[Construct]]"
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 > [!work-line] 主要代表作与测评工具
 > - **1990 — *[[Critical Thinking]]: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction (The Delphi Report)*** 美国哲学学会里程碑共识报告，系统奠定了六大技能与七大倾向的理论框架。
 > - **1990 — *[[California Critical Thinking Skills Test\|California Critical Thinking Skills Test (CCTST)]]*** 首个严格依据德尔菲技能架构编制的标准化客观技能测试。
-> - **1992 — *[[California Critical Thinking Disposition Inventory]] (CCTDI)*** 与 Noreen Facione et al. 合作开发，成为全球测量[[Critical Thinking Disposition\|批判精神]]与思维习性的金标准量表。
+> - **1992 — *[[California Critical Thinking Disposition Inventory]] (CCTDI)*** 与 Noreen Facione et al. 合作开发，成为全球测量[[Critical Thinking Disposition\|批判精神]]与思维[[Habitus|习性]]的金标准量表。
 > - **1994 — *Holistic Critical Thinking Scoring Rubric (HCTSR)*** 开发针对复杂长篇论述与口头答辩的整体性评价量规。
 > - **2007 — *Thinking and Reasoning in Human Decision Making*** 出版专著，探讨双系统认知理论（Dual-process Theory）在批判性思维中的应用。
 

@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 70
+person_related_count: 71
 person_related_level: 7
 person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
@@ -86,6 +86,7 @@ related_persons:
 related_facts:
   - "[[New Education Movement]]"
   - "[[1922 Educational System Reform]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[New Culture Movement]]"
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -101,7 +102,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-10-22
 > [!citation-card] 教育的重组与建设性本质
 > 教育的工作是建设性的。教育的重组……只能零碎地完成，一步一个脚印。（Dewey [1916] 2018, pp.146–147, 287）
 >
-> *The work of education is constructive. A reorganization of education ... can only be accomplished piecemeal, a step at a time.*
+> *The work of education is constructive. A reorganization of education ... can only be accomplished piecemeal, a [[Skills Toward Employment and Productivity|step]] at a time.*
 
 ---
 

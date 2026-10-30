@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -67,6 +67,7 @@ related_persons:
   - "[[William W. Brickman]]"
   - "[[Val D. Rust]]"
 related_facts:
+  - "[[National Education]]"
   - "[[Grammar School]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
@@ -78,7 +79,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-10-22
 >   - **关键概念** [[Paideia\|古典教化]]（*Paideia*）、西方四大文化思潮、受过教育的人。
 >   - **阶段转向** 建立以西方文明演进四大阶段为精神史坐标的宏观比较史学体系，为现代[[Normal School\|师范教育]]与战后新兴国家提供文明镜鉴。
 
-在 1961 年代表作《国家教育》中，乌利希系统剖析了塑造西方文明与现代国民教育体系的四大文化思潮演进脉络。
+在 1961 年代表作《国家教育》中，乌利希系统剖析了塑造西方文明与现代[[National Education|国民教育]]体系的四大文化思潮演进脉络。
 
 > [!phase] Ulich (1961) 在 *The Education of Nations* 中的西方文明四阶段演进脉络
 > - **中世纪主义的超国家神学大一统（Medievalism）**

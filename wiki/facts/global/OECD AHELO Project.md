@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Document]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-10-22
 > - **立项时间 / 周期** 2008 年正式立项开展可行性研究（Feasibility Study），于 2012 年发布可行性研究总结报告，2013–2015 年在成员国与学术界争议中终止机制化推广。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]
 > - **发起方与资助机制** 由经合组织教育政策委员会与[[Institutional Management in Higher Education|高等教育机构管理计划]]（IMHE）统筹发起，经费主要依托参测国政府自愿资助、相关高校配套及外部基金会赞助；受 2008 年全球金融危机冲击，项目面临严峻的财政制约。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]
 > - **覆盖范围与对象** 覆盖全球 17 个国家和地区的近 250 所高等院校、300 余位多国专家及逾万名本科毕业生样本。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 200)]]
-> - **核心问题导向** 当时既有的[[Global Universities Rankings|全球大学排名]]几乎全盘依赖科研产出与文献被引指标（如 [[Academic Ranking of World Universities|ARWU]]），缺乏衡量本科教学质量与学生实际学习成果的跨国指标，经合组织试图确立跨国统一的高教质量评估基准。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
+> - **核心问题导向** 当时既有的[[Global Universities Rankings|全球大学排名]]几乎全盘依赖科研产出与[[Document|文献]]被引指标（如 [[Academic Ranking of World Universities|ARWU]]），缺乏衡量本科教学质量与学生实际学习成果的跨国指标，经合组织试图确立跨国统一的高教质量评估基准。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
 
 ---
 

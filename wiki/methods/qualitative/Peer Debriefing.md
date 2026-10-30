@@ -9,7 +9,7 @@ summary: "Lincoln 与 Guba 确立的质性研究可信性效度策略：研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Epistemic Value]]"
-  - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -173,4 +172,4 @@ updated: 2026-10-29
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 在质性效度框架中系统阐述同行汇报的四维质询功能（诚实性、假设检验、盲点排查与下一步确定）（Ch. 10, p. 167）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在质性研究设计中界定同行审议作为恶魔代言人的批判角色及其与外部审计的方法分工（Ch. 9, p. 213）。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 在科学实践与课堂话语分析中引入同行审议机制，阐释知识建构由私人主张向公共知识合法化的社会认识论转化过程（pp. 143–144）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 在科学实践与课堂话语分析中引入同行审议机制，阐释[[Knowledge Building Theory|知识建构]]由私人主张向公共知识合法化的社会认识论转化过程（pp. 143–144）。

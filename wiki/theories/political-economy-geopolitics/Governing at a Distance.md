@@ -11,10 +11,10 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 48
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - social-theory
   - governmentality
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Strategic Compliance]]"
   - "[[Steering at a Distance]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Grandes Ecoles]]"
   - "[[Output-Oriented Governance]]"
   - "[[Educational Brokerage Agency]]"
@@ -59,6 +60,7 @@ related_persons:
   - "[[Nikolas Rose]]"
   - "[[Bruno Latour]]"
   - "[[António Nóvoa]]"
+  - "[[Jenny Ozga]]"
   - "[[Sigrid Hartong]]"
   - "[[Eleftherios Klerides]]"
   - "[[Walter J. M. Kickert]]"
@@ -79,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -103,7 +105,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 理论版本与贡献
 > - **1992 — 政治社会学框架确立** Rose & Miller 将治理术空间化与技术化，界定“转译”、“专业知识”与“技术网络”为远处治理三大支柱。（Rose & Miller, 1992）
-> - **2003–2009 — 数字与指标治理转型** [[António Nóvoa|安东尼奥·诺沃亚]]（António Nóvoa）与珍妮·奥兹加（Jenny Ozga）将理论引入比较教育学，提出“以数据行使治理”（[[Governing by Numbers]]），揭示跨国教育基准如何构成新型远处治理平台。（Nóvoa & Yariv-Mashal, 2003; Ozga, 2009）
+> - **2003–2009 — 数字与指标治理转型** [[António Nóvoa|安东尼奥·诺沃亚]]（António Nóvoa）与[[Jenny Ozga|珍妮·奥兹加]]（Jenny Ozga）将理论引入比较教育学，提出“以数据行使治理”（[[Governing by Numbers]]），揭示跨国教育基准如何构成新型远处治理平台。（Nóvoa & Yariv-Mashal, 2003; Ozga, 2009）
 > - **2018 — [[Topological Spatialisation\|拓扑空间化]]与国家计算中心重组** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）整合 [[Actor-Network Theory\|ANT]] 计算中心与拓扑地理学，剖析德国在各州享有文化宪政主权且禁止公开排名的体制下，如何通过设立国家计算中心（[[Institute for Educational Quality Improvement\|IQB]]）与拓扑[[Data Infrastructure\|数据基础设施]]（[[Vergleichsarbeiten\|VERA]]）实现跨尺度的远处治理。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–146]]）
 > - **2022–2023 — 全球[[Geopolitics|地缘政治]]与微观学术主体性批判** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）解构国际组织测评作为分散权威下的地缘规训工具；米哈尔·泽林卡（Michal Zelinka）揭示单一受试设计（[[Single-Case Design\|SCD]]）等因果量规如何远距塑造学者的自我认知。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]；[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 251–260]]）
 
@@ -185,7 +187,7 @@ updated: 2026-10-26
 
 > [!boundary]- 理论边界与谱系辨析：远处治理 vs [[Steering at a Distance|远距离操纵]]（Steering at a Distance）
 > - **学术谱系分流** 远处治理（Governing at a Distance）植根于福柯[[Governmentality|治理术]]与拉图尔科学知识社会学，是由 Rose and Miller (1992) 开创的批判政治社会学理论；而在欧陆公共行政学界同期兴起的 远距离操纵（Steering at a Distance）（源自荷兰 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书，由 Frans van Vught 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） 等人理论化），则是一套旨在解决高校专业网络直接行政命令失灵的实证制度设计与管理[[Paradigm|范式]]。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继演变。
-> - **文献中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用本理论的“[[Center of Calculation|计算中心]]”、“转译”与“自我规训”视角，对现实中声称扩[[Grandes Ecoles|大学校]]自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
+> - **[[Document|文献]]中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用本理论的“[[Center of Calculation|计算中心]]”、“转译”与“自我规训”视角，对现实中声称扩[[Grandes Ecoles|大学校]]自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
 
 ---
 

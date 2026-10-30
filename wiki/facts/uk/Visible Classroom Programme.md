@@ -8,7 +8,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 4
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,9 +21,13 @@ tags:
   - feedback
   - digital-technology
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Individualised Instruction]]"
+  - "[[Captions and Subtitles]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Implementation and Process Evaluation]]"
 related_instruments:
   - "[[Visible Classroom]]"
 related_persons: []
@@ -35,13 +39,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-28
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 可见课堂项目（Visible Classroom）通过课程语音转写与个性化教学反馈支持小学教师改进课堂实践，目标为改善学生的数学与阅读学习。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）先后资助试点研究与效能试验。[试点介绍](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom) · [效能试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015)
+> [[Visible Classroom|可见课堂]]项目（Visible Classroom）通过课程语音转写与[[Individualised Instruction|个性化教学]]反馈支持小学教师改进课堂实践，目标为改善学生的数学与阅读学习。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）先后资助试点研究与效能试验。[试点介绍](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom) · [效能试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015)
 
 > [!program-context] 项目背景
 > - **实施周期** 从试点开发转入效能评估，两期试验均已结束。
@@ -52,7 +56,7 @@ updated: 2026-10-29
 ---
 
 > [!claim] 核心干预假说
-> 项目预设教师理解反馈、设定教学目标并与同事讨论后，逐步调整教学实践；学生也可通过实时字幕增加理解教学指令的机会。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 10–11, 15–20)]]
+> 项目预设教师理解反馈、设定教学目标并与同事讨论后，逐步调整教学实践；学生也可通过实时[[Captions and Subtitles|字幕]]增加理解教学指令的机会。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 10–11, 15–20)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 支持教师反思和改进课堂实践，并检验学生数学与阅读学习的变化。
@@ -63,7 +67,7 @@ updated: 2026-10-29
 ---
 
 > [!timeline] 项目推进历程
-> - **2014—2015｜第一期试点** 试用实时字幕与教学反馈，评估支持其可行性，并提出改进交付方式。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 5, 25–27)]]
+> - **2014—2015｜第一期试点** 试用实时字幕与[[Feedback|教学反馈]]，评估支持其可行性，并提出改进交付方式。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 5, 25–27)]]
 > - **2016—2018｜第二期效能试验** 改用教师录课与导师对话，开展学校随机试验，并延长一年完成追踪。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 13, 20–21)]]
 > - **2019—2021｜评估报告** 学生资料获取延迟后完成分析，形成第二期完整报告。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 21–22)]]
 
@@ -72,7 +76,7 @@ updated: 2026-10-29
 > [!actor-grid] 实施协同矩阵
 > - **开发与支持方** 墨尔本大学团队分析课堂记录并生成反馈，Ai-Media 提供转写和技术平台。
 > - **交付与协调方** 首期由 Nesta 与大学团队招募、培训和管理学校；第二期由学校、学生与教师网络（The Schools, Students and Teachers Network，SSAT）负责招募与使用支持。
-> - **独立评估方** 英国国家社会研究中心（National Centre for Social Research，NatCen）在试点中收集访谈与观察资料，向干预团队反馈实施问题；后续由行为洞察团队（Behavioural Insights Team，BIT）开展学业效果与过程评估。
+> - **独立评估方** 英国国家社会研究中心（National Centre for Social Research，NatCen）在试点中收集访谈与观察资料，向干预团队反馈实施问题；后续由行为洞察团队（Behavioural Insights Team，BIT）开展学业效果与[[Implementation and Process Evaluation|过程评估]]。
 > - **校内参与者** 教师提交课堂记录并反思反馈，指定导师支持专业讨论；试点学生共享平板阅读字幕并提交小组反馈。
 
 > [!pathways] 实施路径与管理

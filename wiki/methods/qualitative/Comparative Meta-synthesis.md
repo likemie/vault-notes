@@ -7,7 +7,7 @@ summary: "通过跨元分析比较来得出推论的综合方法，旨在回答�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Visible Learning]]"
+  - "[[Epistemic Stances]]"
+  - "[[Epistemology]]"
   - "[[Creativity]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
@@ -44,7 +46,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -78,8 +80,8 @@ updated: 2026-10-29
 
 ---
 
-> [!abstract] 认识论立场
-> 比较性[[Meta-meta-analysis\|元综合]]面临的核心认识论问题是：将已聚合的结果再次聚合在原则上是否合理。[[Argument_Higgins_2016_ROE\|Higgins (2016)]]指出，任何推论都直接取决于元综合所包含的内容。在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉）。同样，跨[[Meta-analysis\|元分析]]比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论（p.41）。
+> [!abstract] [[Epistemic Stances|认识论立场]]
+> 比较性[[Meta-meta-analysis\|元综合]]面临的核心[[Epistemology|认识论]]问题是：将已聚合的结果再次聚合在原则上是否合理。[[Argument_Higgins_2016_ROE\|Higgins (2016)]]指出，任何推论都直接取决于元综合所包含的内容。在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉）。同样，跨[[Meta-analysis\|元分析]]比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论（p.41）。
 
 > [!note] 推论层级的约束
 > 比较性元综合的推论只能在聚合层级上成立。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用[[Creativity\|创造力]]和意象教学、教授[[Transcription in Qualitative Research\|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.41]])。

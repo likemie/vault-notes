@@ -47,8 +47,8 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Epistemology]]"
   - "[[Critical Dualism]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
+  - "[[Geisteswissenschaften]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -222,7 +222,7 @@ updated: 2026-10-26
 > > 战后比较教育学核心范式大论战。诺亚与埃克斯坦坚决主张将教育现象解构为社会科学[[Variable|变量]]进行跨国假说检验与统计测量，批判历史学派依赖私人洞察力且缺乏判定因素重要性的客观标准；以卡扎米亚斯为代表的学者则批评其实证模型严重脱离具体的历史文化语境，抽空了教育制度背后的精神价值与政治哲学维度，重申广义科学观（*Wissenschaft*）与有限工作假设的合法性。
 > >
 > > - **Harold Noah and Max Eckstein（1969）** 主张寻求教育与社会之间的普遍[[Nomothetic|通则式]]因果定律，指出历史结论本质上是待检验假说。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
-> > - **Andreas [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]]** 批评[[Positivism|实证主义范式]]建立在狭隘的英语 Science 偏见之上，捍卫历史比较的[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]
+> > - **Andreas [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]]** 批评[[Positivism|实证主义范式]]建立在狭隘的英语 Science 偏见之上，捍卫历史比较的人文科学传统。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]
 >
 > > [!axis] 变量函数共变 vs 假说-演绎[[Vignettes in Research|情境问题法]]
 > > 战后英美[[Scientific Paradigm|科学范式]]内部的方法论路线分歧。诺亚与埃克斯坦立足美国社会科学实证主义传统，主张通过经验归纳与多国跨系统统计，寻求[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的函数共变关系，并强调因果解释是比较教育研究的终极目标；霍姆斯则坚持波普尔[[Critical Dualism|批判二元论]]与假说-演绎法，批判纯粹经验归纳与共变关系的盲目性，主张通过问题分析、假说提出与情境逻辑理性重建（$L + I = P$）来预测教育政策的制度阻滞与非预期后果。

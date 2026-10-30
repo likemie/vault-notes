@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Paradigm]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Document]]"
   - "[[Reflexivity]]"
 related_facts:
   - "[[PISA]]"
@@ -65,7 +66,7 @@ related_methods: []
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-10-22
 > | [[Vergleichsarbeiten]] | Fact (Program) | IfBQ 负责在汉堡组织实施的全德跨州能力比较测试（VERA）。 |
 > | [[Ofsted]] | Fact (Organization) | 英格兰高利害外部督导机构，与 IfBQ 的低利害形成性监测模式构成鲜明制度对照。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国国家级[[Educational Evidence Clearinghouses\|证据清算中心]]，与 IfBQ 呈现出不同的循证支持生态与中介机制。 |
-> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] | Argument | 深入剖析 IfBQ 数据基础设施、社会指数算法及其在汉堡教育治理中实践张力的核心文献。 |
+> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] | Argument | 深入剖析 IfBQ 数据基础设施、社会指数算法及其在汉堡教育治理中实践张力的核心[[Document\|文献]]。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证对比揭示 IfBQ 低利害形成性监测如何促进校长[[Reflexivity\|反思性]]证据利用与案例会商的文献。 |
 
 ---

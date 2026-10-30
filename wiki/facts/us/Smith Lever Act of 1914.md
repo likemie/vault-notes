@@ -30,12 +30,12 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 内容
 Smith Lever Act 于 1914 年通过，在 [[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）建立的赠地大学体系中进一步设立了农业推广服务（agricultural extension services）。它使用联邦资金直接支持美国的农业产业，"通过连接研究与实际应用来开发和改良作物"（p.11）。Boccanfuso and Hall（2025）指出，这一推广服务"延续至今"。
 
-> [!note] 在产学合作史中的位置
+> [!note] 在[[University-Industry Collaboration|产学合作]]史中的位置
 Smith Lever Act 是 [[Morrill Land-Grant Act of 1862|Morrill Act]] 约五十年后的制度延伸。如果说 Morrill Act 建立了面向工业阶层的实践教育大学，Smith Lever Act 则更进一步——在机构内部建立直接面向产业的应用研究、教育和培训体系。这可以看作[[University-Industry Collaboration|产学合作]]中"bridging research and practical application"（桥接研究与实际应用）的早期制度模型（p.11）。
 

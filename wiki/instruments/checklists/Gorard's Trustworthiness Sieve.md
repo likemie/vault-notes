@@ -10,7 +10,7 @@ aliases:
 summary: "英国杜伦大学学者斯蒂芬·戈拉德研发的因果研究质评核查表与可信度分级规程，依据研究设计、样本规模、数据缺失与测量质量四个维度进行非补偿性逐级筛查并划定0至4级评级"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 15
+instrument_related_count: 16
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Trustworthiness]]"
   - "[[Reliability]]"
   - "[[Evaluation Research]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-10-26
 > [!instrument-profile] Gorard's [[Trustworthiness]] Sieve
 > - **工具类型** 方法学质评核查表与实证因果证据可[[Reliability\|信度]]评估分级规程。
 > - **开发者与年份** [[Stephen Gorard]] (2014, 2018)，系统应用于英国教育实证研究评估与[[Systematic Review\|系统综述]]质评中。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 576)]]
-> - **测量目的** 用于核查实证研究（尤其是因果评估与干预试验）的核心设计质量与偏倚风险，[[Evaluation Research\|评估研究]]断言的可信度，判断文献能否作为公共政策与教育实践的循证依据。
+> - **测量目的** 用于核查实证研究（尤其是因果评估与干预试验）的核心设计质量与偏倚风险，[[Evaluation Research\|评估研究]]断言的可信度，判断[[Document|文献]]能否作为公共政策与教育实践的循证依据。
 > - **实施方式** 由评估专家对照原始研究报告，从左至右依次核查四个维度的客观特征，按非补偿性逐级下移规则裁定 0 至 4 级的综合序数等级。
 
 ---

@@ -7,7 +7,7 @@ summary: "英国利兹大学社会研究方法论名誉教授，科学实在论�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Evidence-Based Education]]"
   - "[[Institutional Layering]]"
+  - "[[Document]]"
   - "[[Counterfactual]]"
 related_theories:
   - "[[Realist Evaluation]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-10-22
 > - **师承与哲学渊源** [[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）— [[Critical Realism|批判实在论]]奠基人，为波森提供深层[[Ontology|本体论]]与生成性因果哲学的基石。
 > - **核心学术合作者** 尼克·蒂利（Nick Tilley）— 英国犯罪学学者，与波森共同创立[[Realist Evaluation|实在论评估理论]]大厦与 CMO 模型。
 > - **教育批判继承者** [[Terry Wrigley]] — 将波森的实在论综合与开放系统命题引入教育政策研究，发起对[[Evidence-Based Education|循证教育]]排行榜的学术批判。
-> - **制度分析拓展者** [[Jeroen van der Heijden]] — 将波森关于“何为变迁、对谁而言、在何种情境下”的实在论评估原理引入建筑规制与[[Institutional Layering|制度层叠]]文献，论证观察者位置与时间跨度对变迁性质的决定作用。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
+> - **制度分析拓展者** [[Jeroen van der Heijden]] — 将波森关于“何为变迁、对谁而言、在何种情境下”的实在论评估原理引入建筑规制与[[Institutional Layering|制度层叠]][[Document|文献]]，论证观察者位置与时间跨度对变迁性质的决定作用。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 
 ---
 

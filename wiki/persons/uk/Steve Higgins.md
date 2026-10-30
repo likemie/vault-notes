@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学教授，循证教育与元分析方法学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Analysis of Covariance]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Experimental Research]]"
   - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-10-22
 > [!debates] 学术争议
 >
 > > [!axis] 通用[[Effect Size\|效应量]]联盟表 vs 试验设计灵敏度操纵（Simpson vs Higgins）
-> > 争论焦点在于[[Meta-meta-analysis\|二阶元分析]]工具包是否能真实反映不同教学策略的优劣，还是沦为研究者操纵实验设计的虚假排位。
+> > 争论焦点在于[[Meta-meta-analysis\|二阶元分析]]工具包是否能真实反映不同教学策略的优劣，还是沦为研究者操纵[[Experimental Research|实验设计]]的虚假排位。
 > >
 > > - **[[Adrian Simpson]]（阿德里安·辛普森）（2017）** 认为效应量高度受对照组选择、样本方差缩减与非标准化测试灵敏度的操纵，工具包联盟表实质是“研究设计对操纵开放程度的排名”，跨策略比较属于类别错误。[[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, pp. 450–466)]]
 > > - **Steve [[Argument_Higgins_2016_ROE|Higgins (2016)]]** 承认跨[[Meta-analysis\|元分析]]比较存在局限，但辩护称在真实决策环境中，结合挂锁证据星级与成本估计的二阶综合，是防止政策制定者受商业噱头蒙蔽的最优务实方案。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–53)]]

@@ -10,7 +10,7 @@ summary: "教育研究中基础的资料收集方法，通过系统地看和记�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Causal Processes]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Experimental Research]]"
   - "[[Participant Observation]]"
   - "[[Non-participant Observation]]"
   - "[[Structured Observation]]"
@@ -71,7 +72,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-29
 > - **知识观** 科学观察基于明确清晰的理论假设，假设中的[[Variable\|变量]]可以被[[Operationalization\|操作化]]界定。这与人类学观察（以文化阐释为基础，变量不能预先清晰界定）形成对照。
 > - **研究者角色** 研究者根据研究设计进行有目的、有计划的观察，尽量保持[[Value Neutrality\|价值中立]]。同时需考虑观察者自身的特征——性别、性取向、族裔、阶级、外貌、年龄、语言、人格、气质、态度、人际行为、对情境的熟悉程度等——这些都可能影响观察，尤其是参与式观察（cf. Kawulich, 2005, p. 7）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。
 > - **有效性标准** 观察工具的[[Reliability\|信度]]和效度、观察程序的标准化、观察记录的准确性和完整性
-> - **不声称回答的问题** 单纯的观察不能直接确立[[Causality\|因果关系]]（需要结合实验设计）；不能替代对研究对象内在心理过程的直接测量
+> - **不声称回答的问题** 单纯的观察不能直接确立[[Causality\|因果关系]]（需要结合[[Experimental Research|实验设计]]）；不能替代对研究对象内在心理过程的直接测量
 
 > [!method-stack] 方法层级
 > - **研究设计** 自然观察、实验观察、[[Participant Observation\|参与观察]]、[[Non-participant Observation\|非参与观察]]、[[Structured Observation\|结构式观察]]、非结构式观察
@@ -395,7 +396,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 > [!method-fit] 适用判断
 > - **适合使用** 需要收集研究对象在自然情境下的外显行为数据；需要对教育现象的发展过程进行系统描述；课堂互动研究；儿童发展研究
 > - **谨慎使用** 研究对象的内心状态和主观体验（需结合访谈等方法）；涉及大范围、长周期的现象（需考虑人力和时间成本）
-> - **不适合使用** 仅靠观察无法直接确立[[Causality\|因果关系]]（需结合实验设计）；无法观察的历史事件或无法进入的封闭场景
+> - **不适合使用** 仅靠观察无法直接确立[[Causality\|因果关系]]（需结合[[Experimental Research|实验设计]]）；无法观察的历史事件或无法进入的封闭场景
 
 > [!warning] Bailey（1994, pp. 244–246）指出的观察局限
 > - **缺乏控制** 在自然环境中观察，研究者无法像实验那样操纵或控制[[Variable\|变量]]

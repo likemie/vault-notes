@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Epistemology]]"
+  - "[[Summer School]]"
   - "[[Homework]]"
   - "[[School Choice]]"
   - "[[Intercultural Education]]"
@@ -75,7 +76,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -396,7 +397,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > | [[Creativity, Action, Service\|CASS]] | 让创造、身体活动和社会服务进入完整教育 | 学校提供机会与指导，拟以档案而非分数增强记录 | 定义稀释、学校间文化差异、强制参与制造形式主义（pp. 178–185） |
 
 > [!case] TOK 用少量加减分避免被忽视，也避免变成第七门考试学科
-> TOK 由法国哲学传统参与塑造，又明确不等同于哲学史、[[Epistemology|认识论]]专课或符号逻辑。学校享有较大设计自由，并可因地方文化省略部分内容；教师热情通过每年约 35–40 人的暑期学校维持。为防止课程被忽视，优秀表现奖励 1 分，完全不参与扣 1 分；为避免成为第七门考试学科，早期共同试卷由外部命题、校内评分和外部调节组成，1985 年改为提交课程[[Homework|作业]]样本进行调节。2,227 名文凭考生中，620 人获奖励分，58 人被扣分（pp. 178–180）。
+> TOK 由法国哲学传统参与塑造，又明确不等同于哲学史、[[Epistemology|认识论]]专课或符号逻辑。学校享有较大设计自由，并可因地方文化省略部分内容；教师热情通过每年约 35–40 人的[[Summer School|暑期学校]]维持。为防止课程被忽视，优秀表现奖励 1 分，完全不参与扣 1 分；为避免成为第七门考试学科，早期共同试卷由外部命题、校内评分和外部调节组成，1985 年改为提交课程[[Homework|作业]]样本进行调节。2,227 名文凭考生中，620 人获奖励分，58 人被扣分（pp. 178–180）。
 
 > [!question] TOK 问题样例显示课程重视跨学科推理
 > - 如果道德规范只是其所在社会的惯例，追求一个更公正的社会是否仍有意义？

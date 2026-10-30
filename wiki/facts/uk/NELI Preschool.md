@@ -9,7 +9,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -23,21 +23,24 @@ tags:
   - "whole-school-approach"
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Nuffield Early Language Intervention]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 纳菲尔德早期语言干预（Nuffield Early Language Intervention，NELI）的学前方案面向3—4 岁儿童。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/neli-preschool)
+> [[Nuffield Early Language Intervention|纳菲尔德早期语言干预]]（Nuffield Early Language Intervention，NELI）的学前方案面向3—4 岁儿童。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/neli-preschool)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>
@@ -84,7 +87,7 @@ updated: 2026-10-28
 ---
 
 > [!lessons] 实施条件与适用范围
-> - **实施条件** 需要充足人员和安静的小组活动空间；LanguageScreen 用于前后测及筛选定向支持对象。
+> - **实施条件** 需要充足人员和安静的小组活动空间；LanguageScreen 用于前[[Pre-test and Post-test|后测]]及筛选定向支持对象。
 
 [项目实施资料](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/neli-preschool#nav-how-is-it-implemented)
 

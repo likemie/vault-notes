@@ -11,9 +11,9 @@ subtype: event
 region: chile
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -23,8 +23,10 @@ tags:
   - theme/standardized-testing
 related_concepts:
   - "[[Critical Pedagogy]]"
+  - "[[School Vouchers]]"
   - "[[School Choice]]"
   - "[[Firewall Effect]]"
+  - "[[School Climate Effects]]"
   - "[[Data Infrastructure]]"
 related_theories:
   - "[[Historical Institutionalism]]"
@@ -40,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-30
 ---
 
 ---
@@ -51,7 +53,7 @@ updated: 2026-10-21
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2014 年至 2016 年；发源并席卷智利全国各主要大区与首都圣地亚哥。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **核心当事主体** [[Critical Pedagogy|批判教育学]]者（Campos-Martínez & Guerrero-Morales, 2016）、智利全国教师工会（Colegio de Profesores de Chile）、大中学生联合会及家长[[Alliance for Progress|进步联盟]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
-> - **深层制度与社会背景** 自 1988 年创设以来，[[SIMCE]] 统考被深度嵌入智利教育券制度与准市场[[School Choice|择校]]体系中；统考成绩公开发布排位表，并与教师绩效奖金及学校关停接管挂钩，导致基础教育出现严重的应试教学、学校选择性排斥弱势生源以及按社会经济阶层高度分化的教育隔离格局。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258, 261)]]
+> - **深层制度与社会背景** 自 1988 年创设以来，[[SIMCE]] 统考被深度嵌入智利[[School Vouchers|教育券]]制度与准市场[[School Choice|择校]]体系中；统考成绩公开发布排位表，并与教师绩效奖金及学校关停接管挂钩，导致基础教育出现严重的应试教学、学校选择性排斥弱势生源以及按社会经济阶层高度分化的教育隔离格局。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258, 261)]]
 > - **直接导火索 / 触发事件** 智利教育部持续扩张 SIMCE 的测验科目与学段覆盖（从基础教育拓展至学前与高中各年级），并计划依据统考结果对表现处于后 20% 的学校施加更严苛的行政督导与关校威胁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257, 261)]]
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-21
 ---
 
 > [!citation-card] 智利停止 [[SIMCE]] 运动倡议立场
-> 在智利，一个名为“停止 SIMCE”的由学生、教师和批判学者组成的反测验联盟，借助社交媒体揭露了国家标准化评估（SIMCE）对学校教学和学校氛围的负面影响。该运动向教育部施压，促使其成立特别委员会审查 SIMCE，并成功推动了测验频次的削减。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> 在智利，一个名为“停止 SIMCE”的由学生、教师和批判学者组成的反测验联盟，借助社交媒体揭露了国家标准化评估（SIMCE）对学校教学和[[School Climate Effects|学校氛围]]的负面影响。该运动向教育部施压，促使其成立特别委员会审查 SIMCE，并成功推动了测验频次的削减。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 >
 > *In Chile, an anti-testing alliance called 'Alto al SIMCE' (Stop SIMCE) formed by students, teachers and critical scholars used social media to expose the negative effects of the national standardized assessment on school pedagogy and school climate. The campaign pressured the Ministry of Education to set up a special committee to review SIMCE and successfully obtained a reduction in the number of tests.*
 

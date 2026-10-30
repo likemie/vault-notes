@@ -7,7 +7,7 @@ title: "Argument_Matthews(Ed.)_2018_Springer"
 argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, philosophy and science teaching: New perspectives"
 argument_kind: "edited-volume"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Demonstration Effect]]"
+  - "[[Document]]"
   - "[[Epistemic Stances]]"
   - "[[Scientific Literacy]]"
   - "[[Research Problem]]"
@@ -71,7 +72,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -194,7 +195,7 @@ updated: 2026-10-16
 > - **优先处理章节**
 >   - **Ch. 01** Argument_Matthews_2018_FengShui — 迈克尔·马修斯（Michael R. Matthews）对风水迷信、科学与伪科学界分以及科学教育世界观重塑责任的核心论证，直接奠定全书反思[[Cultural Relativism|文化相对主义]]的基调。
 >   - **Ch. 02** Argument_Nola_2018_EnlightenmentTruths — 罗伯特·诺拉（Robert Nola）运用当代分析哲学对启蒙抽象名词化陷阱进行的概念清算与流行病学属性模型，是全书的理论枢纽。
->   - **Ch. 04** Argument_McCarthy_2018_CSSEAppraisal — 克里斯汀·麦卡锡（Christine L. McCarthy）对文化科学教育研究（CSSE）与后现代[[Constructivist Paradigm\|建构主义]]的哲学解构，属于科学教育哲学争论的标志性文献。
+>   - **Ch. 04** Argument_McCarthy_2018_CSSEAppraisal — 克里斯汀·麦卡锡（Christine L. McCarthy）对文化科学教育研究（CSSE）与后现代[[Constructivist Paradigm\|建构主义]]的哲学解构，属于科学教育哲学争论的标志性[[Document|文献]]。
 >   - **Ch. 11** Argument_Hansson_2018_IndoctrinationHiddenCurriculum — 莉娜·汉森（Lena Hansson）关于[[Hidden Curriculum|隐性课程]]、唯[[Scientism\|科学主义]]扭曲形象与教条灌输的分析。
 > - **后续推进章节**
 >   - **Ch. 03** Argument_Peker_Taskin_2018_TurkeyEnlightenment — 奥斯曼帝国与现代土耳其[[Enlightenment\|启蒙运动]]与科学教育历史演进案例。
@@ -235,7 +236,7 @@ updated: 2026-10-16
 > [!volume-contribution] 整体贡献
 > - **[[Research Problem\|研究议题]]贡献** 将[[Enlightenment\|启蒙运动]]遗产、世界观理性教育以及防范教条灌输三大长期被边缘化的主题，正式拉回国际科学教育研究的核心议程，拓宽了[[Nature of Science\|科学本质]]（NOS）探讨的理论视野。
 > - **理论与方法贡献** 坚决抵制了后现代相对主义对科学客观性的消解，确立了方法论自然主义与可错主义实在论的哲学防线；同时搭建起科学哲学（[[Epistemology\|认识论]]）与教育心理学（[[Self-Regulated Learning\|自我调节学习]]）、课程论（四支柱模型）之间的微观机制通道。
-> - **资料价值** 既包含马赫 1890 年珍贵文献的首个英译本与土耳其科学教育现代化的一手历史材料，又为中学生能量、光学与演化论教学提供了经同行评审的课程研发范例。
+> - **资料价值** 既包含马赫 1890 年珍贵[[Document|文献]]的首个英译本与土耳其科学教育现代化的一手历史材料，又为中学生能量、光学与演化论教学提供了经同行评审的课程研发范例。
 
 使用本总览页时须明确其结构性质与引用边界。
 

@@ -9,9 +9,9 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 26
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 33
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Journal of Educational Change
 citation: "Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against PISA. Journal of Educational Change, 21(1), 13–24."
@@ -21,6 +21,7 @@ tags:
   - paradigm/critical
   - level/k12
 related_concepts:
+  - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
   - "[[International Education]]"
@@ -28,10 +29,16 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Construct]]"
   - "[[Problem Solving]]"
+  - "[[PISA Distorted View of Education]]"
+  - "[[Student Well-being]]"
   - "[[Humility]]"
   - "[[PISA Global Competence]]"
   - "[[PISA Creative Thinking]]"
   - "[[Creativity]]"
+  - "[[PISA Made-up Claim]]"
+  - "[[PISA Monolithic View of Education]]"
+  - "[[PISA Score Negative Correlation]]"
+  - "[[PISA Glorifying Authoritarian Education]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
@@ -57,7 +64,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2020
 doi: ""
 citation_aliases:
@@ -74,7 +81,7 @@ citation_aliases:
 ---
 
 > [!abstract] 理论框架
-> 这是一篇综述文章，系统梳理近二十年来对 [[PISA]] 的批评。[[Yong Zhao]] 采用的方法是文献综合，将分散在学术期刊和技术报告中的批评汇集为一篇非技术性语言的总结。专注于 PISA 的三个根本缺陷：其对教育的基本观点、其实施、以及其对全球教育的解释和影响。
+> 这是一篇综述文章，系统梳理近二十年来对 [[PISA]] 的批评。[[Yong Zhao]] 采用的方法是[[Document|文献]]综合，将分散在学术期刊和技术报告中的批评汇集为一篇非技术性语言的总结。专注于 PISA 的三个根本缺陷：其对教育的基本观点、其实施、以及其对全球教育的解释和影响。
 
 ---
 
@@ -138,13 +145,13 @@ PISA 的基本前提是假设存在一套在所有社会中普遍有价值的技
 
 ### 第五步：PISA 分数与兴趣的负相关
 
-扭曲的教育观导致了一个持续的模式，即 PISA 分数与学生兴趣和态度之间存在负相关。许多研究者发现，PISA 高分国家的学生似乎对被测学科的兴趣更低、态度更不积极。
+[[PISA Distorted View of Education|扭曲的教育观]]导致了一个持续的模式，即 PISA 分数与学生兴趣和态度之间存在负相关。许多研究者发现，PISA 高分国家的学生似乎对被测学科的兴趣更低、态度更不积极。
 
 > [!success] 多项实证发现
 > - PISA 科学分数与未来科学取向和未来科学工作有显著负相关（Kjærnsli and Lie 2011）。
 > - 更高的 PISA 分数被发现与更低的创业信心和能力相关（Campbell 2013; Zhao 2012）。
 > - PISA 高分的教育系统似乎有更威权的取向（Shirley 2017; Zhao 2014, 2016b）。
-> - PISA 分数被发现与学生幸福感有负相关（Shirley 2017; Zhao 2014, 2016b），这一发现最终在 2017 年的 PISA 报告中被公开承认（OECD 2017）。
+> - PISA 分数被发现与[[Student Well-being|学生幸福感]]有负相关（Shirley 2017; Zhao 2014, 2016b），这一发现最终在 2017 年的 PISA 报告中被公开承认（OECD 2017）。
 
 这些发现基本上表明 PISA 只测量了教育的一个非常窄的方面，忽视了教育系统的更广泛责任。追求窄化定义的教育目的可能以更广泛的教育目的为代价。
 
@@ -212,11 +219,11 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 ---
 
 > [!success] 主要发现
-> - **捏造的主张**。[[PISA]] 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
-> - **单一教育观**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家，非 OECD 国家面临更大的错配。
+> - **[[PISA Made-up Claim|捏造的主张]]**。[[PISA]] 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
+> - **[[PISA Monolithic View of Education|单一教育观]]**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家，非 OECD 国家面临更大的错配。
 > - **扭曲的教育观**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
-> - **分数负相关**。PISA 高分国家的学生表现出更低的学科兴趣、更低的幸福感、更低的创业信心。
-> - **美化威权教育**。PISA 将威权教育系统中的自我谴责特质美化为教育卓越的秘密，实际上这是威权社会否认社会责任的工具。
+> - **[[PISA Score Negative Correlation|分数负相关]]**。PISA 高分国家的学生表现出更低的学科兴趣、更低的幸福感、更低的创业信心。
+> - **[[PISA Glorifying Authoritarian Education|美化威权教育]]**。PISA 将威权教育系统中的自我谴责特质美化为教育卓越的秘密，实际上这是威权社会否认社会责任的工具。
 > - **实施缺陷**。抽样问题（年龄 vs 年级、代表性、学生排除）和评估偏差（语言、文化、题目格式）挑战了 PISA 的科学性声称。
 > - **批评的困境**。批评对 PISA 的影响力几乎没有影响，PISA 的力量仍在扩张。
 

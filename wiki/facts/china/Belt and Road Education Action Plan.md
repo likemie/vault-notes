@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Public Diplomacy]]"
   - "[[Policy Framing]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Realism]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -205,5 +206,5 @@ updated: 2026-10-26
 > | [[Critical Policy Analysis]] | 方法 | 运用批判性政策分析视角穿透政策文本表层修辞，解构其驱动力、推进工具与价值导向。 |
 > | [[Discourse Analysis]] | 方法 | 采用三维话语模型解构政策文本、话语实践与宏观社会结构之间的辩证关联。 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 论证 | 运用[[Critical Discourse Analysis\|批判性政策话语分析]]解构本政策的框架化策略与[[Geopolitics\|地缘政治]]内涵的核心文献。 |
-> | [[Argument_King_2020_ECNUROE\|King (2020)]] | 论证 | 对比中非合作论坛与本政策人力资源承诺、揭示教育互联互通宏观蓝图的代表性文献。 |
+> | [[Argument_King_2020_ECNUROE\|King (2020)]] | 论证 | 对比中非合作论坛与本政策人力资源承诺、揭示教育互联互通宏观蓝图的代表性[[Document\|文献]]。 |
 > | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 论证 | 实证追踪南亚与中亚教育援助项目、奖学金供给、英文授课课程拓展及签证便利化举措的代表性报告。 |

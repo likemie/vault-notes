@@ -9,9 +9,9 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "教育慈善信托 / 公私混合治理实体"
 headquarters: "Auckland, New Zealand"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
+  - "[[One-on-one Laptops]]"
   - "[[Homework]]"
   - "[[Technology Infusion]]"
   - "[[Learner Autonomy]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-22
 > - **协作研发与中介网络** 与奥克兰大学教育学院等学术智库合作开展效果评估，并同[[Cognition Education|认知教育]]（Cognition Education）等商业教育服务中介维持密切业务往来，形成教师数字教学能力培养与认证链条。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 89)]]
 
 > [!pathways] 业务运行机制
-> - **数字基础设施与硬件准入** 协同科技企业为薄弱校架设无线宽带网络与数字化学习云端平台，推行一人一机数字化教学法。
+> - **数字基础设施与硬件准入** 协同科技企业为薄弱校架设无线宽带网络与数字化学习云端平台，推行[[One-on-one Laptops|一人一机]]数字化教学法。
 > - **跨区集群孵化与标准输出** 以塔马基集群为核心孵化器，研制覆盖数字扫盲与自主探究的课程教学规程，随后向全国其他低分校区进行整体打包输出。
 > - **政商协同与自下而上的政策借道** 借助慈善信托不受公立学校官僚体制直接管辖的制度空间，快速测试商业数字化软件与硬件集成方案，反向为国家数字化教育政策制定提供样板示范。
 

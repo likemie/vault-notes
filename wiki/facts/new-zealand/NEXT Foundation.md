@@ -9,7 +9,7 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,8 +27,11 @@ related_concepts:
   - "[[Social Impact Investing]]"
   - "[[Return on Investment]]"
   - "[[School Leadership]]"
+  - "[[Charter Schools]]"
+  - "[[Academic-Administrator Entrepreneurs]]"
   - "[[Indirect Costs of Research]]"
   - "[[Informationalization]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -47,7 +50,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -82,7 +85,7 @@ updated: 2026-10-22
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Directors）** 前微软全球首席财务官兼通用汽车副董事长克里斯·利德尔（Chris Liddell）担任董事会主席；成员包括普华永道前高级合伙人、安永前合伙人等商界精英。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 > - **高级执行团队（Executive Team）** 由新西兰最大本土风投 Direct Capital 联合创始人比尔·科莫德（Bill Kermode）出任首席执行官，前瑞士信贷第一波士顿投行家出任投资总监。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
-> - **教育咨询专家委员会** 吸纳科[[Cognition Education|认知教育信托]]人兼 [[Teach First New Zealand|TFNZ]] 高级顾问 Margaret Bendall、特许学校委员会委员兼 [[New Zealand Initiative|NZI]] 顾问 John Taylor 等跨界学者官员。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
+> - **教育咨询专家委员会** 吸纳科[[Cognition Education|认知教育信托]]人兼 [[Teach First New Zealand|TFNZ]] 高级顾问 Margaret Bendall、[[Charter Schools|特许学校]]委员会委员兼 [[New Zealand Initiative|NZI]] 顾问 John Taylor 等跨界[[Academic-Administrator Entrepreneurs|学者官员]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
 
 > [!pathways] 业务运行机制
 > - **风险投资式尽职调查** 拒绝公开被动接受零散资助申请，由投资团队主动物色能够实现全系统规模扩张且具有显著辐射效应的教育项目并展开严格的商业尽调。
@@ -128,7 +131,7 @@ updated: 2026-10-22
 > > - **批评视角（批判教育社会学）** NEXT 基金会依靠金融风投逻辑，将公费教育资助同企业化里程碑考核挂钩，加剧了基层学校对私人财富的结构性依附；十年散尽后薄弱校面临资金断崖风险。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–57)]]
 > > - **机构立场（正方）** 传统公立官僚体系效率低下且墨守成规，风险慈善以企业效率和严格评估推动系统创新，为弱势群体提供了原本无法获取的优质教育资源。
 
-> [!citation-card] 代表性批评与反思文献
+> [!citation-card] 代表性批评与反思[[Document|文献]]
 > 与[[Foundation North|北方基金会]]追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取‘十年散尽本金’激进策略的内克斯特基金会（NEXT Foundation）……其董事会汇聚了前微软 CFO、风投创始人与投行家，将私营企业高管派驻薄弱学校，标志着金融化管理逻辑对公立学校内部治理的深度介入。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–55)]]
 >
 > *NEXT combines corporate and community based charitable trusts with diverse objectives, creating opportunities for the private sector to significantly influence education policy and services delivery in the public sector... mobile and fluid across charitable, local government and NGO entities.*

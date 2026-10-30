@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[DARPA Model]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -118,4 +119,4 @@ updated: 2026-10-22
 > | [[DARPA]] | Fact (Org) | CRA 在联邦政府层面长期对话、合作并实施政策监督的核心机构。 |
 > | [[Tony Tether]] | Person | 2001–2009 年推行采办激进重组并引发 CRA 全国抗议的时任局长。 |
 > | [[National Science Foundation]] | Fact (Org) | CRA 推动承接和扩大大学基础计算科研资助的核心联邦伙伴机构。 |
-> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 实证记录 CRA 抗议背景并展开理论深层反思的核心文献。 |
+> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 实证记录 CRA 抗议背景并展开理论深层反思的核心[[Document\|文献]]。 |

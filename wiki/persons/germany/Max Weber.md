@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Selective Affinity]]"
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
   - "[[Corporate Education]]"
+  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-10-22
 > - **1889–1897 早期法律史与农业经济政策探索期** 此阶段聚焦商法史与农业制度史，探寻法律规范、土地秩序与经济行动之间的历史关联。
 >   - **代表著作** 《中世纪贸易公司史》（1889）、《罗马农业史》（1891）、《易北河以东农业工人状况》（1892）、《民族国家与国民经济政策》（1895）。
 >   - **关键概念／方法** 共同体与社会化、农业制度与理性法律、民族国家利益。
->   - **阶段转向** 从传统罗马法文献考据转向国民经济学与社会政策经验调查，为后续支配社会学与资本主义研究奠基。
+>   - **阶段转向** 从传统罗马法[[Document|文献]]考据转向国民经济学与社会政策经验调查，为后续支配社会学与资本主义研究奠基。
 > - **1904–1910 方法论突破与宗教社会学破题期** 此阶段重构社会科学[[Epistemology\|认识论]]，探索现代西方文明理性化的文化伦理诱因。
 >   - **代表著作** 《社会科学和社会政策知识的“客观性”》（1904）、《新教伦理与资本主义精神》（1904–1905）。
 >   - **关键概念／方法** 价值关联与[[Value Neutrality\|价值中立]]、理想类型、[[Selective Affinity\|选择性亲和]]、入世禁欲、天职伦理。
@@ -186,7 +188,7 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创理解社会学传统；深刻启发法兰克福学派对工具理性异化的批判；[[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）继承其支配合法性关照，建构习性与[[Champ\|场域]]实践理论；[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）以其价值观驱动模式为对照，建构[[Culture as Toolkit\|文化工具箱]]理论。
+> - **理论路径** 开创理解社会学传统；深刻启发法兰克福学派对工具理性异化的批判；[[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）继承其支配合法性关照，建构[[Habitus|习性]]与[[Champ\|场域]]实践理论；[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）以其价值观驱动模式为对照，建构[[Culture as Toolkit\|文化工具箱]]理论。
 > - **方法路径** 确立理想类型、价值关联与[[Value Neutrality\|价值中立]]的方法论规程，强调文化科学研究中主观意义阐释与客观因果验证的统一。
 > - **组织与政策路径** [[Tullock's Bureaucracy Theory\|官僚制理论]]成为公共行政与组织社会学的奠基基石；权力与合法权威的区分为新制度主义的[[Institutional Isomorphism\|制度同构]]机制提供核心分析透镜。
 > - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。

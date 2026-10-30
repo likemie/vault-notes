@@ -7,7 +7,7 @@ aliases:
 summary: "世界银行特有的政策知识打包与中介模式，指将分散于全球各地的政策项目经验集中汇编入库、贴标分类后向各国政府按需推送的政策借鉴服务机制。与 OECD 外向型横向国别比较模式相对，世界银行以自身历史项目组合作为知识仓库，形成高度自指的经验汲取循环。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
   - "[[Façade of Rationality]]"
+  - "[[Document]]"
   - "[[Governing by Numbers]]"
 related_theories: []
 related_methods: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-26
 > > - **世界银行立场** 强调最佳实践仓库是开放知识共享平台，各国政府可自主选取，并非强制性规制。
 
 > [!warning] 概念边界
-> "最佳实践仓储"不同于简单的案例数据库（如学术文献库），其关键特征在于与贷款条件、技术援助协议和政策对话深度绑定，使"推荐"在实质上具备强制性经济激励。与此对照，[[OECD]] 的"同行评议"（Peer Reviews）机制虽同为政策[[Knowledge Mediation\|知识中介]]工具，但以自愿参与和软性劝导为主，不与贷款条件挂钩。
+> "最佳实践仓储"不同于简单的案例数据库（如学术[[Document|文献]]库），其关键特征在于与贷款条件、技术援助协议和政策对话深度绑定，使"推荐"在实质上具备强制性经济激励。与此对照，[[OECD]] 的"同行评议"（Peer Reviews）机制虽同为政策[[Knowledge Mediation\|知识中介]]工具，但以自愿参与和软性劝导为主，不与贷款条件挂钩。
 
 ---
 

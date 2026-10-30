@@ -9,7 +9,7 @@ aliases:
 summary: "由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Creativity Assessment]]"
   - "[[Gatekeepers]]"
 related_methods:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-10-22
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用作统领创造力研究方案的宏观元框架，确保[[Independent Variable\|自变量]]、中介[[Variable\|变量]]、调节变量与[[Dependent Variable\|因变量]]涵盖完整 4P 维度。
-> - **作为分析工具** 转化为文献编码、[[Meta-analysis\|元分析]]调节矩阵构建、课程评估方案设计（如输入-环境-过程-产出分析）。
+> - **作为分析工具** 转化为[[Document|文献]]编码、[[Meta-analysis\|元分析]]调节矩阵构建、课程评估方案设计（如输入-环境-过程-产出分析）。
 > - **作为批判视角** 揭示仅依赖单一标准化发散测验（忽视环境与产品）或仅凭产品获奖结果（忽视个体潜能与过程）的研究设计缺陷。
 > - **报告方式** 结构化呈现研究在人、过程、产品与环境四个层面的[[Operationalization\|操作化]]指标与实证关联路径。
 

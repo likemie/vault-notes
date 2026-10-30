@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08"
 argument_display_title: "“Flawed systems”"
 argument_kind: "book-chapter"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_persons:
   - "[[J. Robert Oppenheimer]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[James C. Scott]]"
 related_facts:
   - "[[Homebrew Computer Club]]"
   - "[[The Middle Americans]]"
@@ -63,7 +64,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -174,7 +175,7 @@ updated: 2026-10-26
 > [[Steve Jobs|史蒂夫·乔布斯]]（[[Steve Jobs]]）是美国消退期反文化运动与计算机工程融合的典型代表。他在里德学院钻研书法排版并将艺术审美注入硬件设计，在招募百事可乐总裁约翰·斯卡利（John Sculley）时发出“卖糖水还是改变世界”的时代之问。然而，乔布斯所领导的技术革命在本质上是亲密的与个人的：其核心在于打造将个人从企业与政府上层建筑依赖中解放出来的随身便携设备（如手机与个人电脑），使其成为个体心智的物理延伸。乔布斯对构建推进国家战略事业的工具毫无兴趣；苹果公司甚至在重大刑事案件中公开拒绝联邦调查局（FBI）解锁 iPhone 的要求，展现了亲密个人技术对国家主权权力的深层防卫（pp. 100–102）。
 
 > [!case] 苹果《1984》广告：反体制解放符号的商业化包装
-> - **打破奥威尔式老大哥屏幕** 1984 年苹果由雷德利·斯科特（Ridley Scott）执导的 Macintosh 标志性广告，生动展现了一位身穿鲜艳运动短裤的女性用铁锤砸碎老大哥的集中控制屏幕，象征着 17 磅便携电脑对抗 IBM 笨重机房大型机对个体自由的奴役。
+> - **打破奥威尔式老大哥屏幕** 1984 年苹果由雷德利·[[James C. Scott|斯科特]]（Ridley Scott）执导的 Macintosh 标志性广告，生动展现了一位身穿鲜艳运动短裤的女性用铁锤砸碎老大哥的集中控制屏幕，象征着 17 磅便携电脑对抗 IBM 笨重机房大型机对个体自由的奴役。
 > - **对政府与商业巨头监控的预警** 广告初稿直言不讳地警告：“大企业和大政府中潜伏着怪兽般的计算机，掌握着从旅馆住宿到银行账户的一切个人隐私。”其核心诉求明确无误：个人微机应当成为抗衡政府与工业体制权力的制衡力量，绝非以牺牲个人利益为代价去推进机构利益（pp. 101–102）。
 
 ---

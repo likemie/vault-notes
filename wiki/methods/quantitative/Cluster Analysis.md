@@ -11,7 +11,7 @@ summary: "一种用于将异质性样本依据多维变量特征相似度划分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Output-Oriented Governance]]"
   - "[[Evidence-Based School Development]]"
+  - "[[Public Diplomacy]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Intraclass Correlation Coefficient]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -147,4 +148,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 运用 $k$ 均值聚类分析对奥地利 362 名中小学校长对 22 项治理工具的态度进行分群，从 2 至 5 个聚类方案中选定具有最高方差分离度与理论解释力的 3 聚类解（[[Evidence-Based School Development\|循证学校发展]]型、资源驱动发展型与弱发展取向型）。
-> - [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] — 运用层次聚类分析将南亚中亚对象国划分为“汲取型”、“微调型”与“回避型”三大次国家公共外交模式，并基于民调数据归纳民众认可度的分类格局。
+> - [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] — 运用层次聚类分析将南亚中亚对象国划分为“汲取型”、“微调型”与“回避型”三大次国家[[Public Diplomacy|公共外交]]模式，并基于民调数据归纳民众认可度的分类格局。

@@ -8,7 +8,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Free School Meals]]"
   - "[[Selective Education]]"
 related_theories: []
 related_methods: []
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ## 定义
@@ -54,7 +55,7 @@ Grammar school（文法学校）是英格兰现行选择性中等教育制度中
 
 - **选拔性招生** 依据 11-plus 考试成绩筛选学生，与综合学校（comprehensive school）形成制度对照([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
 - **[[Ofsted]] 高评级集中** 163 所文法学校中 159 所获 [[Ofsted]]"良好"或"优秀"评级，这一评级后被议会辩论用作"文法学校是好学校"的道德化证据([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.18]])
-- **弱势学生代表不足** 仅 3% 的免费校餐资格儿童就读于文法学校，而文法学校至少 25% 的免费校餐儿童与富裕同伴的学业差距在校期间被消除([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.20–21, 23]])
+- **弱势学生代表不足** 仅 3% 的[[Free School Meals|免费校餐]]资格儿童就读于文法学校，而文法学校至少 25% 的免费校餐儿童与富裕同伴的学业差距在校期间被消除([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.20–21, 23]])
 - **不成比例的议会关注** 尽管仅占中学的约 5%，文法学校在 2015–2019 年议会辩论中被提及 992 次，而约 3200 所综合学校仅被提及 109 次([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])
 
 > [!info] 核心数据

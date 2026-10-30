@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Zone of Proximal Development]]"
   - "[[Dependent Variable]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Quasi-Experimental Designs]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 > [!def] Conversational AI in Education
@@ -102,7 +103,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 对话式智能体（Conversational AI） | Hedges' $g$ | k = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.468"><span class="b9"></span></span>0.468 | [0.008, 0.645] | $p < .05$ |
 >

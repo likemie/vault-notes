@@ -8,7 +8,7 @@ aliases:
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Academic Freedom]]"
   - "[[Discourse]]"
+  - "[[Religious Schools]]"
   - "[[Creativity]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Ontology]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -65,7 +66,7 @@ updated: 2026-10-22
 > - **[[Epistemology\|认识论]]自主性** — 科学领域有自己独立的规范和评估标准（同行评议、引用影响、可重复性），不完全随政治风向变化。2018–2024 年中美政治紧张期间，中美科学家联合发表依然巨大——科学合作的惯性来自认识论层面的自主逻辑([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 11]])
 > - **制度自主性** — 大学有自己的治理结构、学术传统和组织身份。这些制度特征不会因拨款政策的短期变化而立即改变。例如，一所大学的学术文化可能需要数十年才能形成或改变，远长于政治或经济周期([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 8, 13–14]])
 > - **知识分子的双重角色** — Gramsci 指出，文化部门的知识分子既可以服务于霸权（有机知识分子，organic intellectuals），也可以生产反霸权思想。同一位科学家可能上午为政府的国防项目提供咨询，下午在学术期刊上批评政府的科技政策——这种双重能力正是半自主性的具体体现([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 13–14]])
-> - **半自主性的历史基础** — 大学的双重空间性——同时扎根在地和国家又跨越边界——是半自主性在制度层面的历史基础。从北印度佛教寺院到中世纪伊斯兰宗教学校到欧洲大学，高等教育机构从未完全从属于单一政治权威([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
+> - **半自主性的历史基础** — 大学的双重空间性——同时扎根在地和国家又跨越边界——是半自主性在制度层面的历史基础。从北印度佛教寺院到中世纪伊斯兰[[Religious Schools|宗教学校]]到欧洲大学，高等教育机构从未完全从属于单一政治权威([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
 
 ---
 

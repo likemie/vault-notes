@@ -10,7 +10,7 @@ aliases:
 summary: "中国学习模型中的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程"
 type: concept
 domain: "chinese-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
+  - "[[Social Support]]"
   - "[[Western Learner]]"
   - "[[Study Population and Sample]]"
   - "[[Ideal Learner]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -69,7 +70,7 @@ updated: 2026-10-22
 立志最独特的文化特征是**见证人（witnesses）机制([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-92]])** 学习者在做出决心后，常与家人、密友或教师分享学习目标。这些见证人负责监督决心与后续行动之间的一致性——立志由此从私人心理事件转化为**社会契约**。
 
 > [!tip] 与西方个人抱负的差异
-> 部分欧裔美国受访者也触及了个人抱负，但这些描述并非呈现为一个有意识的、社会协作的过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.94]])。立志在中国模型中的独特性在于：它是一个被文化明确**命名、鼓励和社会支持**的过程——不是一个人关起门来做的决定。
+> 部分欧裔美国受访者也触及了个人抱负，但这些描述并非呈现为一个有意识的、社会协作的过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.94]])。立志在中国模型中的独特性在于：它是一个被文化明确**命名、鼓励和[[Social Support|社会支持]]** 的过程——不是一个人关起门来做的决定。
 
 ---
 

@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,23 +20,27 @@ tags:
   - "region/uk"
   - "reading"
   - "whole-class-approach"
-related_concepts: []
+related_concepts:
+  - "[[Learning Strategies]]"
+  - "[[Student Absenteeism]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Peer-Assisted Learning Strategies]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 英国同伴辅助学习策略项目（Peer Assisted Learning Strategies – UK，PALS-UK）面向第二、第三关键阶段学生；原评估版本面向五年级。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/pals-uk)
+> 英国[[Peer-Assisted Learning Strategies|同伴辅助学习策略]]项目（Peer Assisted [[Learning Strategies]] – UK，PALS-UK）面向第二、第三关键阶段学生；原评估版本面向五年级。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/pals-uk)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>
@@ -92,7 +96,7 @@ updated: 2026-10-28
 ---
 
 > [!lessons] 实施条件与适用范围
-> - **实施条件** 方案覆盖部分阅读学习内容；学生缺勤、校内时间安排和配对管理会影响实施。
+> - **实施条件** 方案覆盖部分阅读学习内容；[[Student Absenteeism|学生缺勤]]、校内时间安排和配对管理会影响实施。
 
 [项目实施资料](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/pals-uk#nav-how-is-it-implemented)
 

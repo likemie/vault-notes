@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[ASEAN Credit Transfer System]]"
   - "[[OECD]]"
   - "[[Education at a Glance]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -64,13 +65,13 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
 > [[Performativity]] of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.7, 17–18]])。
 >
-> > "As soon as the measurement exercise begins, it acts upon the world, changing priorities and influencing behaviours, policies and practices."([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.7]])
+> > "As soon as the measurement exercise begins, it [[ASEAN Credit Transfer System|acts]] upon the world, changing priorities and influencing behaviours, policies and practices."([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.7]])
 
 > [!note-] 历史沿革
 > - Woolgar (1991a, 1991b) 将 [[Performativity]] 整合进 [[Sociology of Measurement]] 框架([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6–7]])

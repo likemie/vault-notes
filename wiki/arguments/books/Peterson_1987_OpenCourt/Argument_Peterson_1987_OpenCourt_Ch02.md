@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
+  - "[[Research Problem]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[General Education]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge Questions]]"
   - "[[Open-Mindedness]]"
@@ -79,7 +79,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-10-23
 > [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的创立是一项分布式制度创新，经过了战后[[International Schools\|国际学校]]需求、日内瓦教师合作、独立考试组织、跨国课程设计、学校与家庭试验及大学有限承认等环节。课程、考试、组织、资金、学校参与和大学承认共同把国际主义理想转化为制度事实（pp. 15–31）。
 
 > [!phase] 本章讲述的故事
-> 故事从 1925 年一份没有得到回应的国际毕业会考[[Questionnaire\|问卷]]开始。战后国际学校扩张和大学入学竞争，使旧设想成为实际需要；1960 年代初，日内瓦教师从历史和社会研究难题发动课程合作，随后建立[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）、取得基金资助并扩大跨国治理。课程改革者在各国传统之间形成六学科、双语和知识论（[[Theory of Knowledge]]，TOK）方案，九所学校愿意承担试验风险。1967 年塞夫尔会议再把课程方案、考试原则、学校批准和大学有限承认组合成六年试验，最终使 29 名学生在 1970 年用正式 IB 成绩申请大学（pp. 15–31）。
+> 故事从 1925 年一份没有得到回应的国际毕业会考[[Questionnaire\|问卷]]开始。战后国际学校扩张和大学入学竞争，使旧设想成为实际需要；1960 年代初，日内瓦教师从历史和社会[[Research Problem|研究难题]]发动课程合作，随后建立[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）、取得基金资助并扩大跨国治理。课程改革者在各国传统之间形成六学科、双语和[[Theory of Knowledge|知识论]]（[[Theory of Knowledge]]，TOK）方案，九所学校愿意承担试验风险。1967 年塞夫尔会议再把课程方案、考试原则、学校批准和大学有限承认组合成六年试验，最终使 29 名学生在 1970 年用正式 IB 成绩申请大学（pp. 15–31）。
 
 > [!framework-table] 章节概念工具
 >
@@ -494,7 +494,7 @@ updated: 2026-10-23
 > 1. **语言与逻辑** 原称逻辑符号，后来修订为 Language and Logic。
 > 2. **科学活动与科学概念的形成** 通过示例考察科学知识怎样产生。
 > 3. **数学与现实** 讨论数学形式与现实世界之间的关系。
-> 4. **[[Geisteswissenschaften|人文科学]]的构成** 通过一个例子分析人文科学如何建立研究对象和解释。
+> 4. **人文科学的构成** 通过一个例子分析人文科学如何建立研究对象和解释。
 > 5. **历史知识** 考察史料、解释、视角与历史主张的根据。
 > 6. **道德与政治判断的性质和基础** 区分事实陈述、价值判断及其论证根据。
 > 7. **审美判断的性质和基础** 探索审美经验是否以及如何获得公共讨论的理由。

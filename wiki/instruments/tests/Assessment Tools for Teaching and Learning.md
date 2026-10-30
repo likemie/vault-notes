@@ -6,7 +6,7 @@ aliases:
 summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性"
 type: instrument
 instrument_type: test
-instrument_related_count: 31
+instrument_related_count: 32
 instrument_related_level: 3
 instrument_related_stars: "💎"
 instrument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[SOLO Taxonomy]]"
   - "[[Tracking]]"
   - "[[Critical Pedagogy]]"
+  - "[[Teacher Effects]]"
   - "[[Zone of Desired Effects]]"
   - "[[Performativity]]"
   - "[[School Leadership]]"
@@ -65,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-10-22
 > [!mechanism] 行政监控架构与管理图表视觉迁移
 > 除了面向课堂教师的形成性反馈功能，[[Critical Pedagogy|批判教育学]]者揭示了 asTTle 系统在制度设计上的双重功能：
 > 1. **全网实时监控网络（Networked Managerial Monitoring）** [[John Hattie|哈蒂]]等人在系统技术文档中明确规划，asTTle 第 4 版具备完全网络化功能，使校级与学区管理者能够跨越 6 个学科全网实时追踪所有教师使用该软件的频次、进度与班级数据（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]], citing Hattie et al., 2003）。
-> 2. **[[Barometer of Achievement|气压计图表]]（Barometer Graphics）的视觉迁移** 后来风靡全球并在《[[Visible Learning|可见的学习]]》中作为标志性图腾出现的半圆形气压计图表（Barometer graphic），直接移植自 asTTle 系统的管理界面。该图表通过将教师效应划分为反转效应、发展效应、教师典型效应与[[Zone of Desired Effects|期望效应区]]（Zone of Desired Effects），将复杂的师生互动机械化还原为仪表盘读数（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
+> 2. **[[Barometer of Achievement|气压计图表]]（Barometer Graphics）的视觉迁移** 后来风靡全球并在《[[Visible Learning|可见的学习]]》中作为标志性图腾出现的半圆形气压计图表（Barometer graphic），直接移植自 asTTle 系统的管理界面。该图表通过将[[Teacher Effects|教师效应]]划分为反转效应、发展效应、教师典型效应与[[Zone of Desired Effects|期望效应区]]（Zone of Desired Effects），将复杂的师生互动机械化还原为仪表盘读数（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
 > 3. **全景监视与新泰勒制控制** 这种将日常教学活动转化为即时数据流的架构，使基层教师处于时刻可被核查、比对与评估的[[Panopticism|全景敞视]]状态之中，为自上而下的技术官僚规训提供了基础设施（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）。
 
 ---

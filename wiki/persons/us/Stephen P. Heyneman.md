@@ -10,7 +10,7 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Educational Multilateralism]]"
   - "[[Washington Consensus]]"
+  - "[[Document]]"
   - "[[Socioeconomic Status]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-10-23
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓宽了比较教育政治经济学对国际多边官僚组织的内部机制批判，成为反思“[[Washington Consensus|华盛顿共识]]”教育政策的关键文献基准。
+> - **理论路径** 拓宽了比较教育政治经济学对国际多边官僚组织的内部机制批判，成为反思“[[Washington Consensus|华盛顿共识]]”教育政策的关键[[Document|文献]]基准。
 > - **实证路径** 海尼曼-洛克斯利效应成为国际学生评价与教育社会学争论数十年的经典假说，持续引发关于学校效应与家庭资本权重的全球再检验。
 > - **政策反思路径** 推动了[[UNESCO|联合国教科文组织]]、[[Global Partnership for Education|全球教育伙伴关系]]等机构重新审视以人为本的人道主义教育目标，对冲单纯金融资本逻辑。
 

@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 63
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Discourse]]"
+  - "[[Differentiated Instruction]]"
   - "[[Research Question]]"
   - "[[Competitiveness]]"
   - "[[Disciplina and Doctrina]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-10-22
 > [!theory-proposition] 命题四｜真正解放要求打破单向技术灌输，统整功能、沟通与批判三类研究并开辟多阵线民主实践
 > **解释** 批判理论强调，单纯的思想批判若脱离了现实经验与集体行动，极易沦为书斋内的道德清谈；而被动接受自上而下的政策指令则必然导致专业主体的异化与政治无能感。解放的达成必须要求行动者将批判反思转化为具体的实践（[[Praxis]]）。在认识层面上，必须统整关注现实后果的功能主义研究、关注[[Discourse|话语]]博弈的沟通性研究以及反思权力根源的批判性研究；在行动层面上，必须在本土合宪抵制（如拒绝附条件专项拨款）、跨界公众结盟（联合学生、家长与维权团体）以及学术伦理对质（拒绝兼任商业出版商顾问）中构筑多元反制网络，以参与式民主击碎寡头垄断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–276)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
 >
-> **应用实例** 在面对联邦政府附带苛刻拼读教学要求的巨额专款诱惑时，具有批判意识的学区和教师群体通过召开公众听证会向社区家长揭露商业教材背后的利益输送，并在学区董事会决议中行使宪法权利主动放弃该笔附条件专款，成功保卫了校本差异化教学探索的专业自主空间。
+> **应用实例** 在面对联邦政府附带苛刻拼读教学要求的巨额专款诱惑时，具有批判意识的学区和教师群体通过召开公众听证会向社区家长揭露商业教材背后的利益输送，并在学区董事会决议中行使宪法权利主动放弃该笔附条件专款，成功保卫了校本[[Differentiated Instruction|差异化教学]]探索的专业自主空间。
 
 ---
 

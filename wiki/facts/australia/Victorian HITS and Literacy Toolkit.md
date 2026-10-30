@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Didaktik]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -67,7 +68,7 @@ part_of: ""
 confidence: high
 status: stable
 created: 2026-05-03
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2017
 doi: ""
 citation_aliases: []
@@ -228,5 +229,5 @@ citation_aliases: []
 > | [[Thomas B. Fordham Institute]] | 智库机构 | 倡导教育医学化与清单控制的保守派智库，其逻辑在维州政策中得到彻底制度化落地。 |
 > | [[Whole Language]] | [[Didaktik\|教学理论]] | 在维州读写工具包中因被[[John Hattie\|哈蒂]]错误低估而遭到边缘化的阅读教学哲学。 |
 > | [[Global Education Reform Movement]] | 宏观运动 | 驱动维多利亚州教育部推行标准化、商业化与可审计问责政策的宏观背景。 |
-> | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | 实证文献 | 维州教师帕特里克·奥康纳审查 HITS [[Chain of Evidence\|证据链]]漏洞与[[Meta-analysis\|元分析]]假科学的研究。 |
+> | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | 实证[[Document\|文献]] | 维州教师帕特里克·奥康纳审查 HITS [[Chain of Evidence\|证据链]]漏洞与[[Meta-analysis\|元分析]]假科学的研究。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 批判文献 | 揭示维州 HITS 如何演变为破坏教师专业互信、打造加盟连锁学校的技术规训工具。 |

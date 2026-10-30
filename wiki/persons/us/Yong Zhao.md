@@ -7,7 +7,7 @@ summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[PISA Distorted View of Education]]"
   - "[[PISA Score Negative Correlation]]"
   - "[[PISA Glorifying Authoritarian Education]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -81,11 +82,11 @@ updated: 2026-10-22
 > [!tip] PISA 系统性批评
 > 对 [[PISA]] 的批评涵盖三个根本缺陷([[Argument_Zhao_2020_JEC\|Zhao, 2020]])：
 >
-> **捏造的主张（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
+> **[[PISA Made-up Claim|捏造的主张]]（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
 >
-> **单一教育观（[[PISA Monolithic View of Education]]）**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家。
+> **[[PISA Monolithic View of Education|单一教育观]]（[[PISA Monolithic View of Education]]）**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家。
 >
-> **扭曲的教育观（[[PISA Distorted View of Education]]）**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
+> **[[PISA Distorted View of Education|扭曲的教育观]]（[[PISA Distorted View of Education]]）**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
 >
 > 此外，PISA 高分与学生兴趣、幸福感、创业信心之间存在负相关（[[PISA Score Negative Correlation]]），[[PISA Glorifying Authoritarian Education\|PISA 美化威权教育]]系统中的自我谴责特质（[[PISA Glorifying Authoritarian Education]]），以及 PISA 实施中存在抽样问题、评估偏差和 Rasch 模型适用性问题。
 
@@ -108,7 +109,7 @@ updated: 2026-10-22
 ---
 
 > [!success] 影响
-> - 对 [[PISA]]/[[TIMSS]] 跨国比较的副作用分析，揭示东亚教育体系在考试成绩上世界第一但学生自信心和学科态度世界最低的矛盾。
+> - 对 [[PISA]]/[[TIMSS]] 跨国比较的副作用分析，揭示东亚教育体系在考试成绩上世界第一但学生自信心和[[Attitude Towards Content Domains|学科态度]]世界最低的矛盾。
 > - 系统性 PISA 批评为教育政策研究提供了非技术性语言的综合框架，将分散在学术期刊和技术报告中的批评汇集为一处。
 > - 教育副作用框架为反思标准化改革和[[Evidence-Based Education\|证据本位教育]]提供了批判性视角。
 

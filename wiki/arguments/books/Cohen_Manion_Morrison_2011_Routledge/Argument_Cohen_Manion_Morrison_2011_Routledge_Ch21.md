@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -41,12 +41,14 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Variable]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Fitness for Purpose]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
   - "[[Cooperative Learning]]"
+  - "[[Collaborative Learning]]"
   - "[[Construct]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
@@ -57,6 +59,7 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Gatekeepers]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Note-Taking]]"
   - "[[Commensuration]]"
   - "[[Reflexivity]]"
   - "[[Informed Consent]]"
@@ -89,7 +92,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -201,7 +204,7 @@ Oppenheim（1992, pp. 81–82）补充：访谈比问卷有更高回应率（受
 
 ### 21.4 访谈的类型
 
-访谈到底有多少种类型，很大程度上取决于参考了哪些文献。以下是不同学者提出的分类体系（pp.413–414）：
+访谈到底有多少种类型，很大程度上取决于参考了哪些[[Document|文献]]。以下是不同学者提出的分类体系（pp.413–414）：
 
 > [!taxonomy] 不同学者列出的访谈类型
 > | 来源 | 所列类型 |
@@ -373,7 +376,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 >
 > **受访者** 但有些学生想过轻松的生活，不会让教师知道需要帮助，而会请朋友帮忙。
 >
-> **研究者（控制学生[[Cooperative Learning\|合作学习]]）** 但学生无论如何都这样做——经常互相帮助——这当然是好事——协作学习和互相帮助，学生彼此学习效果很好。
+> **研究者（控制学生[[Cooperative Learning\|合作学习]]）** 但学生无论如何都这样做——经常互相帮助——这当然是好事——[[Collaborative Learning|协作学习]]和互相帮助，学生彼此学习效果很好。
 >
 > **受访者** 听着，我就是不想让我的孩子和能力更差的孩子一起学习，仅此而已。
 
@@ -891,7 +894,7 @@ Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体
 > [!evidence-grid] 四种可组合工具（Witzel, 2000）
 > - **结构化短问卷** 用于收集参与者事实性数据（年龄、性别、职业、教育）
 > - **访谈提纲** 含引导问题，用于结构化访谈进程
-> - **录音设备** 确保记录准确，让访谈者免于记笔记，专注于讨论
+> - **录音设备** 确保记录准确，让访谈者免于[[Note-Taking|记笔记]]，专注于讨论
 > - **访谈后感想** 在访谈后立即撰写，含反思、要点、观察和解释
 
 ---

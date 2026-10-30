@@ -8,7 +8,7 @@ aliases:
 summary: "采用开放论述题形式评估个体在复杂论证语境中逻辑推理与论据评估能力的经典测验，要求受测者对一封致市长的公开信逐段进行批判性评估并提出综合论证。"
 type: instrument
 instrument_type: test
-instrument_related_count: 5
+instrument_related_count: 6
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
+  - "[[Scoring Rubrics]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -92,4 +93,4 @@ updated: 2026-10-16
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始英文版 | 英语（美国） | 高中高年级与大学生 | 9 个段落任务 | 奠定开放书信论文测验的标准格式与评分量规 | Ennis and Weir (1985) |
+> | 原始英文版 | 英语（美国） | 高中高年级与大学生 | 9 个段落任务 | 奠定开放书信论文测验的标准格式与[[Scoring Rubrics\|评分量规]] | Ennis and Weir (1985) |

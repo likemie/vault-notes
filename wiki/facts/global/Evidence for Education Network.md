@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
 org_type: "global-evidence-network"
 headquarters: "London, UK"
@@ -27,9 +27,10 @@ tags:
 related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Research Utilization]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[Incubation]]"
   - "[[Counterfactual]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
@@ -37,8 +38,8 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
-  - "[[Document]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Policy Mobility]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-26
 > - **成立时间 / 创设背景** 2023 年正式制度化设立。前身为 EEF 自 2014 年起逐步拓展的国际双边合作网络，以及 2018–2025 年由必和必拓基金会全额资助的“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”战略项目；为推动项目成果长效维系，各主权伙伴决定将松散的阶段性资助项目升格为常设的全球多边机制。
 > - **总部协调 / 业务辐射** 秘书处由英国伦敦的 EEF 国际团队承担协调职能，网络官方平台面向全球开放；常态业务辐射欧洲、拉丁美洲、中东与北非、撒哈拉以南非洲及大洋洲等 20 个国家和地区。
 > - **法人属性与经费基础** 采用去中心化、多中心的跨国伙伴联盟网络架构。早期依托必和必拓基金会专项战略慈善资金（BHP Foundation Education Equity Programme）孵化支持，各成员机构依托所在国主权财政拨款、多边国际组织竞争性资助（如 [[Global Partnership for Education\|GPE]]、[[International Development Research Centre|IDRC]]）与本国独立慈善资本共同维持日常运转。
-> - **核心宗旨与法定职责** 确立教育公平为最高价值基石；依托“[[Research Utilization\|证据使用]]、证据动员、证据生成”三大支柱，制定跨国通用的实证合成标准，支持发展中国家与中等收入国家建立自主可控的本土“[[Educational Brokerage Agency\|证据经纪人]]”，阻遏伪科学和商业低效软件对公共教育的侵害。
+> - **核心宗旨与法定职责** 确立教育公平为最高价值基石；依托“[[Research Utilization\|证据使用]]、证据动员、证据生成”三大支柱，制定跨国通用的实证合成标准，支持发展中国家与中等收入国家建立自主可控的本土“[[Boundary Spanner|证据经纪人]]”，阻遏伪科学和商业低效软件对公共教育的侵害。
 
 ---
 
@@ -104,7 +105,7 @@ updated: 2026-10-26
 > - **学术与方法论协同网络** 由跨国专家与评估团队组成，协调统一各语言版本工具包的方法学透明度标准（如证据[[EEF Padlock Security Rating\|挂锁安全评级]]、[[Counterfactual\|反事实]]设计规范与[[Effect Size\|效应量]]计算校准）。
 
 > [!pathways] 核心业务三大支柱（Three Pillars of EEN）
-> 1. **证据利用与语境化（Evidence Use）** 系统转译并本土化全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究文献深层融合，打破单向西方中心主义局限。
+> 1. **证据利用与语境化（Evidence Use）** 系统转译并本土化全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究[[Document|文献]]深层融合，打破单向西方中心主义局限。
 > 2. **证据动员与专业赋能（Evidence Mobilisation）** 将枯燥复杂的统计报告提炼为面向一线教师与校长的操作性指南；通过与教育部、教师学院合作，将证据规程嵌入在职培训课程体系。
 > 3. **本土证据生成与孵化（Evidence Generation）** 面对发展中国家高水平干预稀缺的挑战，资助与指导本土研究团队开展严谨的前置试点（Pilot Studies）与因果实验，填补全球南方因果实证空白。
 

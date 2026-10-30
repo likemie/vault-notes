@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Business as Usual]]"
   - "[[Statistical Analysis Plan]]"
+  - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Theoretical Standpoint]]"
   - "[[Zero-Sum Competition]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2014–2015 — 国际经验借鉴与方案论证** 汲取印度等发展中经济体关于教师[[Performance Pay\|绩效工资]]显著提振成绩的实证文献（如 Muralidharan & Sundararaman, 2011），[[Education Endowment Foundation\|EEF]] 决策层论证在英国引入绩效激励试验的可行性。
+> - **2014–2015 — 国际经验借鉴与方案论证** 汲取印度等发展中经济体关于教师[[Performance Pay\|绩效工资]]显著提振成绩的实证[[Document|文献]]（如 Muralidharan & Sundararaman, 2011），[[Education Endowment Foundation\|EEF]] 决策层论证在英国引入绩效激励试验的可行性。
 > - **2015–2016 — 招募启动与全系统伦理抵制** 兰德欧洲评估团队与干预开发方启动全英公立中学招募，然而方案一经公开便遭遇全国校长协会与教师工会的严厉谴责，多数校长拒绝在学校内部制造金钱待遇的人为分裂。
 > - **2017 — 招募彻底流产与里程碑式《关闭报告》发布** 在多次放宽招募标准与延期仍无法招到最低[[Sample Size Determination\|样本量]]后，EEF 宣布终止试验；评估团队出具《招募失败因素分析与关闭报告》（Closure Report; Sutherland et al., 2017），开创了循证资助机构正式公布失败试验教训的先河。
 > - **2018–至今 — 确立前置伦理与可行性审查制度** ICR 试验的关闭促使 EEF 全面重构立项机制，建立强制性的“干预可行性与参与者伦理可接受度审查机制”，杜绝未经文化适配的机械模型移植。

@@ -7,10 +7,10 @@ summary: "乔治城大学麦考特公共政策学院教授、前世界银行发�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1972"
 died: ""
 lifespan: "c. 1972–至今"
@@ -22,10 +22,19 @@ tags:
   - region/us
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[School Choice]]"
+  - "[[Learning Gain]]"
+  - "[[Market Failure]]"
+  - "[[Causality]]"
+  - "[[Development Education]]"
+  - "[[International Education]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Knowledge Production]]"
   - "[[Epistemic Governance]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -36,20 +45,20 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 发展经济学家与教育微观计量学者，乔治城大学麦考特公共政策学院教授、沃尔什外交学院全球健康教授，古根海姆学者，曾任[[World Bank|世界银行]][[Development Economics Vice Presidency|发展经济学研究局]]（DEC）首席经济学家长达十余年。
-> - **核心角色** 发展中国家初等教育市场化治理与循证政策实验前沿开拓者；长期领导巴基斯坦旁遮普学校学业成就纵向追踪项目（LEAPS），开创性应用大规模随机对照试验（RCT）检验教育信息透明度对学校办学竞争的因果影响。
-> - **代表贡献** 确立了教育市场学业成绩公开报告单（Report Cards）对打破择校信息壁垒与刺激学校提质降费的因果机制；荣获世界银行首届研究科学院杰出科研奖，被迈克·扎普（Mike Zapp）作为世界银行行使“知识表彰（Celebrating Knowledge）”维度的顶级代表成果。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
+> - **核心角色** 发展中国家初等教育市场化治理与循证政策实验前沿开拓者；长期领导巴基斯坦旁遮普学校[[Academic Achievement|学业成就]]纵向追踪项目（LEAPS），开创性应用大规模[[Randomised Controlled Trials|随机对照试验]]（RCT）检验教育信息透明度对学校办学竞争的因果影响。
+> - **代表贡献** 确立了教育市场学业成绩公开报告单（Report Cards）对打破[[School Choice|择校]]信息壁垒与刺激学校提质降费的因果机制；荣获世界银行首届研究科学院杰出科研奖，被迈克·扎普（Mike Zapp）作为世界银行行使“知识表彰（Celebrating Knowledge）”维度的顶级代表成果。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 > [!citation-card] 达斯论教育市场中的学业成绩信息披露
 > 在信息严重不对称的发展中国家低收费私立教育市场中，向家长提供清晰标准化的学校与儿童学业测评报告单，能够消除家长的搜寻与监督成本，激励私立学校通过降低学费与提高教学质量展开良性竞争，使全体学生学业表现平均提升 0.11 个标准差。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 >
-> *Providing school and child test scores to parents and schools through report cards reduces market frictions, leading to fee reductions and learning gains across both public and private schools in low-income settings.*
+> *Providing school and child test scores to parents and schools through report cards reduces market frictions, leading to fee reductions and [[Learning Gain|learning gains]] across both public and private schools in low-income settings.*
 
 ---
 
@@ -70,15 +79,15 @@ updated: 2026-10-23
 > - **2000 年代初 — 教育与医疗服务质量微观度量阶段** 聚焦发展中国家前线公共服务递送的真实质量缺陷，开创针对教师缺勤、知识水平与真实课堂互动的隐蔽微观测量工具。
 >   - **代表著作** "Teacher Absence in India: A Snapshot" (2006); "Learning and Educational Achievements in Punjab Schools (LEAPS)" (2007)。
 >   - **关键方法** 微观现场审计、非预先通知随访、能力基线测验。
-> - **2010 年代 — 教育市场信息中介与准实验治理阶段** 深入探究低收入国家蓬勃发展的低收费私立学校市场，实证检验信息赋权对克服市场失灵的因果效能。
+> - **2010 年代 — 教育市场信息中介与准实验治理阶段** 深入探究低收入国家蓬勃发展的低收费私立学校市场，实证检验信息赋权对克服[[Market Failure|市场失灵]]的因果效能。
 >   - **代表著作** *Report Cards: The Impact of Providing School and Child Test Scores on Educational Markets* (2017)。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 >   - **关键概念** 报告单干预（Report Cards）、信息摩擦（Information Frictions）、教育市场竞争。
-> - **2020 年代至今 — 复杂系统能力建设与政策因果推断阶段** 探讨在国家治理能力较弱情境下，如何通过精准微观激励与制度协同巩固后疫情时代的基础教育恢复。
+> - **2020 年代至今 — 复杂系统能力建设与政策[[Causality|因果推断]]阶段** 探讨在国家治理能力较弱情境下，如何通过精准微观激励与制度协同巩固后疫情时代的基础教育恢复。
 
 ---
 
 > [!claim] 核心思想
-> 发展中国家教育质量困境深层植根于普遍存在的信息摩擦与前线问责机制失灵；通过向家庭与社区提供真实、可比的学生学业评价信息，能够打破传统行政封闭与市场垄断，促使公立与私立办学机构在透明竞争中内生性改进教学效能。
+> [[Development Education|发展中国家教育]]质量困境深层植根于普遍存在的信息摩擦与前线问责机制失灵；通过向家庭与社区提供真实、可比的学生学业评价信息，能够打破传统行政封闭与市场垄断，促使公立与私立办学机构在透明竞争中内生性改进教学效能。
 
 > [!citation-card] 达斯论发展中国家教育政策实验
 > 改善基础教育的政策设计必须建立在对本土教育市场微观行为主体的严谨实证理解之上。简单的资金补贴若脱离了透明的质量度量与激励约束，往往无法转化为真实的学习产出增益。
@@ -88,8 +97,8 @@ updated: 2026-10-23
 ---
 
 > [!influence-path] 影响路径
-> - **实证方法创新** 将严格的大规模随机对照试验（RCT）与产业组织微观计量模型深度结合，树立了国际教育政策评估的方法学新标杆。
-> - **世行循证治理示范** 达斯的研究代表了世界银行发展经济学研究局（DEC）内部最高学术水准的实证科研力量，直接支撑了世行向各国政府推行教育问责与质量监测体系。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5, 9)]]
+> - **实证方法创新** 将严格的大规模随机对照试验（RCT）与产业组织微观计量模型深度结合，树立了[[International Education|国际教育]]政策评估的方法学新标杆。
+> - **世行[[Output-Oriented Governance|循证治理]]示范** 达斯的研究代表了世界银行发展经济学研究局（DEC）内部最高学术水准的实证科研力量，直接支撑了世行向各国政府推行教育问责与质量监测体系。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5, 9)]]
 > - **政策干预实践落地** 推动巴基斯坦及多个南亚、非洲借款国建立了面向家长公开的学校学业测评通报制度，重塑了基层教育生态。
 
 > [!citation-card] 扎普论达斯研究在世行认知表彰中的定位
@@ -101,8 +110,8 @@ updated: 2026-10-23
 
 > [!person-network] 关系网络
 > - **学术合作学者** Tahir Andrabi（波莫纳学院教授）、Asim Ijaz Khwaja（哈佛大学肯尼迪学院教授） — 长期合作主持 LEAPS 课题团队。
-> - **机构中枢** [[World Bank]]、[[Development Economics Vice Presidency]] — 任职并承担核心实证知识生产的主要国际机构。
-> - **认知治理分析者** 迈克·扎普（Mike Zapp） — 将达斯的获奖研究作为世行仪式性认可与认知治理维度的经验证据。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
+> - **机构中枢** [[World Bank]]、[[Development Economics Vice Presidency]] — 任职并承担核心实证[[Knowledge Production|知识生产]]的主要国际机构。
+> - **[[Epistemic Governance|认知治理]]分析者** 迈克·扎普（Mike Zapp） — 将达斯的获奖研究作为世行仪式性认可与认知治理维度的经验证据。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 ---
 
@@ -122,6 +131,6 @@ updated: 2026-10-23
 > |:-----|:-----|:-----|
 > | [[Academic Achievement]] | 概念 | 开创面向教育市场公开学生学业成绩的微观信息干预模型。 |
 > | [[Epistemic Governance]] | 概念 | 其成果被扎普用作世行通过学术表彰行使认知治理的实证代表。 |
-> | [[Randomised Controlled Trials]] | 方法 | 长期在南亚乡村教育现场践行大规模田野因果推断实验设计。 |
+> | [[Randomised Controlled Trials]] | 方法 | 长期在南亚乡村教育现场践行大规模田野因果推断[[Experimental Research\|实验设计]]。 |
 > | [[Development Economics Vice Presidency]] | 组织事实 | 达斯长期任职并主导微观教育政策实证研究的世行核心部门。 |
 > | [[World Bank]] | 组织事实 | 为其提供长期课题资助、数据支持并授予卓越学术奖项的国际组织。 |

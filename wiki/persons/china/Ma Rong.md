@@ -22,6 +22,7 @@ related_concepts:
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Institutional Conversion]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -29,14 +30,13 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Fei Xiaotong]]"
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -83,12 +83,12 @@ updated: 2026-10-22
 ### 民族去政治化与族群化
 
 - **名实之辨** 马戎指出，将英语中的 ethnic group 翻译为“民族”是一个重大的制度性失误，它在中国体制中培育了类似“主权体”的民族国家实体，为地方分裂主义留下了制度隐患。他主张将其改译为“族群”，限制其在政治和领土层面的自治特权。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 101]])
-- **社会建构论的政策转换** 其理论立论于西方社会建构学说，认为既然现有的少数民族划分是 1950 年代民族识别的政治建构产物，那么国家在今天完全有理由通过社会工程将其去建构，从而推行同一同化政策。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 103]])
+- **社会建构论的[[Institutional Conversion|政策转换]]** 其理论立论于西方社会建构学说，认为既然现有的少数民族划分是 1950 年代民族识别的政治建构产物，那么国家在今天完全有理由通过社会工程将其去建构，从而推行同一同化政策。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 103]])
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底挑战了以中国社会[[Chinese Academy of Sciences|科学院]]民族所为代表的传统马列主义民族理论[[Paradigm\|范式]]，形成了去政治化的新生代民族社会学研究传统。
+> - **理论路径** 彻底挑战了以中国社会科学院民族所为代表的传统马列主义民族理论[[Paradigm\|范式]]，形成了去政治化的新生代民族社会学研究传统。
 > - **政策路径** 为胡鞍钢和胡联合提出的[[Second-generation Ethnic Policy\|第二代民族政策]]构想提供了最直接的理论支撑，在事实上推动了国家自 2012 年以来在新疆、西藏和内蒙古收紧自治管理、推广国家通用语言的进程。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 
 ---

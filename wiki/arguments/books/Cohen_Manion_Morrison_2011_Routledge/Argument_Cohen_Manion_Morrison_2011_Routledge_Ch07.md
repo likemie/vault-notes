@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 76
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Emergence]]"
   - "[[Causality]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Literature Review]]"
   - "[[Research Question]]"
   - "[[Champ]]"
@@ -56,6 +57,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Artefact]]"
   - "[[Learning Styles]]"
+  - "[[Record Keeping]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
@@ -112,7 +114,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_instruments: []
 status: draft
 created: 2026-06-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 > [!logic-map]- 论证结构
 > ```mermaid
@@ -193,7 +195,7 @@ updated: 2026-10-22
 > | 互动论与民族志 | — | 关注符号互动、文化意义生产 |
 > | [[Complexity Theory\|复杂性理论]] | 自组织[[Emergence\|涌现]]和不可预测的相互作用 | 理解多重[[Causality\|因果]]方向、需要整体性理解现象并通过互动过程和结果来审查 |
 > | [[Ideology Critique\|意识形态批判]] | 现象在权力关系和不平等中被组织 | 明确政治性，批判意识形态根基，结合批判与参与行动以推动社会正义 |
-> | 混合方法 | 现象复杂到单一方法可能产生片面理解 | 实用主义的方法组合——顺序、平行或综合——以充分把握现象的多重面向 |
+> | 混合方法 | 现象复杂到单一方法可能产生片面理解 | [[Pragmatic Paradigm\|实用主义]]的方法组合——顺序、平行或综合——以充分把握现象的多重面向 |
 
 > [!claim] 从机械操作到知识反思
 > 研究者不仅需要考虑所研究现象的本质，还需要考虑支撑它的本体论前提和认识论基础。正是这些反思和决策，将研究规划从单纯的机械操作，转变为对知识本质和存在本质的追问（p.120）。
@@ -494,7 +496,7 @@ updated: 2026-10-22
 >   - 连续性的**性质（nature）**，什么样的连续性
 >   - 连续性的**成功程度（degree of success）**，有多成功
 >   - 连续性的**责任归属（responsibility）**，谁负责
->   - 连续性的**记录保存与文档（record keeping）**
+>   - 连续性的**记录保存与文档（[[Record Keeping|record keeping]]）**
 >   - 支持连续性的**可用资源（resources）**
 > - **进一步细化** 性质 → 提供信息的程度；程度 → 根据标准的测量；成功水平 → 做出判断
 

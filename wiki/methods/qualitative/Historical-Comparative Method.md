@@ -37,11 +37,11 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Document]]"
   - "[[Technological Catch-up]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Borrowing]]"
   - "[[Institutional Drift]]"
-  - "[[Institutional Conversion]]"
   - "[[Institutional Layering]]"
   - "[[Geopolitics]]"
   - "[[State Educational Sovereignty]]"
@@ -124,7 +124,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Historical-Comparative Method
@@ -177,7 +177,7 @@ updated: 2026-10-29
 > | **资料边界** | 聚焦国家制度奠基期、关键立法节点、工业与科学战略重构期以及文明转型危机期；严格划分一手文献（[[Primary and Secondary Documents\|Primary Documents]]）与后世二手研究（Secondary Literature）。 |
 
 > [!proc] 质性史料分析与因果推导程序
-> 1. **外在考证（External Criticism）** 严密核定历史文献的原始载体、署名作者、撰写时间、版本源流与真伪完整性，排除伪造与年代错置。
+> 1. **外在考证（External Criticism）** 严密核定历史[[Document|文献]]的原始载体、署名作者、撰写时间、版本源流与真伪完整性，排除伪造与年代错置。
 > 2. **内在考证（Internal Criticism）** 深度考掘文本字里行间的真实语义、修辞策略与作者意图，结合时代背景辨析立法陈述背后的隐秘利益博弈与阶级诉求。
 > 3. **因素结构化分解（Factorial Analysis）** 依据[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans, 1949）三维框架，将纷繁史料归纳为自然因素（语言、地理、种族）、宗教因素（天主教、新教、东正教）与世俗动因（人文主义、民族主义、民主平等）。
 > 4. **跨国矩阵对照与类型学提炼** 建立国别-历史时段-制度维度的跨国对照矩阵，提炼理想类型（如双轨制精英教育 vs 单轨制大众教育；去中心化分层竞争科研体制 vs 中央集权部属院所分立科研体制；后发追赶型骆驼形态 vs [[Big Science|大科学]]狮子形态 vs 敏捷实验孩童形态）。
@@ -207,13 +207,13 @@ updated: 2026-10-29
 >   - 剖析重大教育法令（如 1862 年《赠地法案》、1950 年《NSF 法案》、1980 年《拜杜法案》）与现代学校形态的历史发生学渊源；
 >   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）；
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的[[Path Dependence|路径依赖]]与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；
->   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期[[Process Tracing|过程追踪]]识别[[Institutional Drift|制度漂移]]（Drift）、规则转换（[[Institutional Conversion|conversion]]）与分层（[[Institutional Layering|layering]]）等深层[[Theory of Gradual Institutional Change|渐进制度变迁]]形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
+>   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期[[Process Tracing|过程追踪]]识别[[Institutional Drift|制度漂移]]（Drift）、规则转换（conversion）与分层（[[Institutional Layering|layering]]）等深层[[Theory of Gradual Institutional Change|渐进制度变迁]]形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
 >   - 建立跨国教育与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
 >   - 剖析冷战或[[Geopolitics|地缘政治]]分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
 > - **谨慎使用**
 >   - 评估短期具体教学干预或政策实施的微观即时成效（需结合量化或[[Mixed Methods Research|混合方法]]）；
->   - 史料散佚断裂、官方文献被高度意识形态化且缺乏第三方佐证的历史时期；
+>   - 史料散佚断裂、官方[[Document|文献]]被高度意识形态化且缺乏第三方佐证的历史时期；
 >   - 容易诱发文化本质主义偏见与[[National Character|国民性格]]刻板印象的跨国对比研究。
 > - **不适合使用**
 >   - 试图脱离社会历史情境推导放之四海皆准的普遍[[Behaviorism|行为主义]]规律；
@@ -230,7 +230,7 @@ updated: 2026-10-29
 > - **偏误来源**
 >   - **[[Whiggism|辉格史观]]（Whiggism）** 容易以当代民主改良的应然愿望裁剪复杂的历史实然事实，造成史料的偏颇解读（Butterfield, 1931; Kazamias, 1961）；
 >   - **[[National Character|国民性格]]（[[National Character]]）[[Construct|构念]]滥用** 易将复杂的阶级政治与制度利益博弈轻率归咎于虚无飘渺的心理特质，陷入同义反复的套套逻辑；
->   - **文献幸存者偏误** 留存至今的历史档案多出自官方精英与行政机构，容易遮蔽基层教师、边缘群体与弱势阶层的真实教育体验。
+>   - **[[Document|文献]]幸存者偏误** 留存至今的历史档案多出自官方精英与行政机构，容易遮蔽基层教师、边缘群体与弱势阶层的真实教育体验。
 > - **适用边界** 提炼出的理论概括属于“非普适[[Working Hypothesis|探索性假说]]”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。
 > - **误用风险** 在缺乏扎实史料支撑时，极易退化为主观臆断与缺乏证据基础的宏大玄想，招致实证学派关于“涉嫌神秘主义”的严厉指责（Epstein, 1970）。
 > - **补救方式** 坚持[[Primary and Secondary Documents|一手文献]]与二手研究的多重[[Triangulation|三角互证]]；公开反思研究者的价值前设与[[Theoretical Perspective|理论视角]]；引入中程社会学理论规范因果机制推导。
@@ -258,7 +258,7 @@ updated: 2026-10-29
 > | [[National Character\|国民性]] | 概念 | 经典解释[[Construct\|构念]]；历史比较学派早期将其作为[[Independent Variable\|自变量]]，战后经历了严密的方法论解构与反思。 |
 > | [[Qualitative Research\|质性研究]] | 方法 | 上位方法族系；历史比较法代表了宏观质性与历史比较分析的经典范式。 |
 > | [[Case Study\|个案研究]] | 方法 | 支撑方法；历史比较法的多国横向对比往往建立在深入扎实的国别案例追踪之上。 |
-> | [[Primary and Secondary Documents\|一手文献]] | 概念 | 核心材料依据；一手档案考据与二手学术史文献是历史比较法展开的经验底座。 |
+> | [[Primary and Secondary Documents\|一手文献]] | 概念 | 核心材料依据；一手档案考据与二手学术史[[Document\|文献]]是历史比较法展开的经验底座。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 价值旨归；历史比较探究秉持古典改良主义精神，旨在通过历史镜鉴促进现实制度的审慎革新。 |
 > | [[Wolfgang Streeck\|沃尔夫冈·施特雷克]] | 人物 | 经济社会学家；运用历史比较分析揭示先进资本主义体制内生演化与[[Liberalization\|自由化]]轨迹的代表人物。 |
 > | [[Kathleen Thelen\|凯瑟琳·希伦]] | 人物 | 比较历史分析与[[Historical Institutionalism\|历史制度主义]]代表学者；运用历史比较法系统建构渐进制度变迁形态学。 |

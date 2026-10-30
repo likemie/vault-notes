@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Grandes Ecoles]]"
+  - "[[Flipped Classrooms]]"
   - "[[Homework]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ## 背景
@@ -72,7 +73,7 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 
 ### 教学法：完全主动学习
 
-Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座被定性为"教学上有害"。替代方案是"彻底翻转课堂"（fully flipped classroom）：所有讲座内容和[[Homework|作业]]在课前通过在线平台在家完成，课堂时间全部用于互动讨论。教授被要求每次发言不超过几分钟，主要角色是引导讨论而非讲授知识（Thompson & Parreira do Amaral, 2022, p.3）。
+Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座被定性为"教学上有害"。替代方案是"彻底[[Flipped Classrooms|翻转课堂]]"（fully flipped classroom）：所有讲座内容和[[Homework|作业]]在课前通过在线平台在家完成，课堂时间全部用于互动讨论。教授被要求每次发言不超过几分钟，主要角色是引导讨论而非讲授知识（Thompson & Parreira do Amaral, 2022, p.3）。
 
 这一模式声称基于"学习科学"（learning science）的发现：被动听讲的学习效果远低于主动参与。课堂以研讨会形式进行，每班不超过 20 名学生，以保证每个学生的充分参与([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])。
 
@@ -107,7 +108,7 @@ Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统
 
 - **相关性（Relevance）** 毕业生虽完成学业但未为生活做好准备。传统大学传授学科知识而非实用能力——"在大多数机构，你可以毕业而无需'[[Critical Thinking|批判性思维]]'"（Kosslyn & Nelson, 2018a, p.3）。Minerva 以四核心能力框架替代学科课程，培养"学生可用于适应变化世界和实现自身目标的智识工具"，不针对特定工作岗位培训
 - **高成本（High Costs）** 美国高等教育学费在过去三十年间增长远超通胀。Minerva 通过剥离物理基础设施、学科部门和管理层级将学费压缩至传统名校的约三分之一，同时声称保持小班教学（每班 < 20 人）和完整的支持服务（体验式学习、指导、心理健康、住宿）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
-- **效率（Efficiency）** 美国大学面临严重的辍学率和分数膨胀问题。Minerva 的对策是基于"学习科学"发现设计课程，通过"完全[[Active Learning|主动学习]]"和"彻底翻转课堂"消除被动听讲，并提供个性化关注和密集监控以追踪学生进展([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
+- **效率（Efficiency）** 美国大学面临严重的辍学率和分数膨胀问题。Minerva 的对策是基于"学习科学"发现设计课程，通过"完全[[Active Learning|主动学习]]"和"彻底[[Flipped Classrooms|翻转课堂]]"消除被动听讲，并提供个性化关注和密集监控以追踪学生进展([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
 - **可及性（Access）** 全球大多数合格学生无法负担高质量高等教育机构。Minerva 承诺接受所有合格学生，不以民族、性别或其他人口类别平衡录取——"所有符合我们高录取标准的合格申请人将被录取，无论其支付能力如何"。无力支付学费的学生"获得工作学习、适度贷款和助学金的组合"（Kosslyn & Nelson, 2018a, p.8, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.47]]）
 
 ---

@@ -26,18 +26,18 @@ tags:
   - theme/coauthorship-networks
 related_concepts:
   - "[[Coauthorship Network]]"
-  - "[[Invisible College]]"
-  - "[[Giant Component]]"
-  - "[[Team Science]]"
-  - "[[Clustering Coefficient]]"
-related_theories:
-  - "[[Small-World Collaboration Model]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Polymath]]"
+  - "[[Co-affiliation]]"
+  - "[[Interpretive Validity]]"
+  - "[[Paradigm]]"
+related_theories: []
 related_methods:
   - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
+  - "[[Author Name Disambiguation]]"
 related_instruments: []
-related_persons:
-  - "[[Mark Newman]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -55,7 +55,7 @@ updated: 2026-10-30
 > [!method-scope] 方法范围
 > - **测量或估计对象** 刻画 [[Coauthorship Network]] 中的局域学派派系社区结构与学者跨界嵌入特征。
 > - **问题类型** 复杂网络拓扑模式识别、重叠社群结构划分与网络社群动态演进追踪。
-> - **分析单位** 网络节点（学者/科研人员）、连边（合署合作关系）以及局域全连通子图（$k$-团）。
+> - **[[Unit of Analysis|分析单位]]** 网络节点（学者/科研人员）、连边（合署合作关系）以及局域全连通子图（$k$-团）。
 > - **输入数据** 无向无权或加权网络邻接矩阵、合著关系列表或科研项目联合署名元数据。
 > - **输出形式** 若干由节点构成的重叠社区集合、每个社区包含的节点清单，以及识别出的未嵌入任何显著派系的游离节点。
 
@@ -67,21 +67,21 @@ updated: 2026-10-30
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 传统模块度优化算法基于严格互斥划分假设，强行将每个学者划入唯一样本组，遮蔽了跨学科通才与多课题组兼职的客观现实。团渗流法以局部完全图为凝聚核心，准确还原了现实科研组织多重从属性与跨界桥接的实质拓扑。
+> - **[[Construct Validity|构念效度]]** 传统模块度优化算法基于严格互斥划分假设，强行将每个学者划入唯一样本组，遮蔽了跨学科[[Polymath|通才]]与多课题组兼职的客观现实。团渗流法以局部完全图为凝聚核心，准确还原了现实科研组织[[Co-affiliation|多重从属性]]与跨界桥接的实质拓扑。
 > - **研究者判断** 核心参数 $k$（团的节点规模阈值）的选择由研究者决定。$k$ 取值过小时（如 $k=3$ 即三角形），社区容易发生过度渗流而合并为一个庞大巨集团；$k$ 取值过大时（如 $k \ge 6$），门槛过高导致绝大多数节点无法成团而沦为未分类黑点。通常依据网络度分布与渗流相变临界点选取中等参数（如 $k=3$ 或 $k=4$）。
-> - **有效性标准** 内部子图完全连通性（团内密度为 1）、社区重叠度、渗流集团稳定性以及对学科实际学派构成的解释效度。
+> - **有效性标准** 内部子图完全连通性（团内密度为 1）、社区重叠度、渗流集团稳定性以及对学科实际学派构成的[[Interpretive Validity|解释效度]]。
 > - **不声称回答的问题** 该算法属于纯拓扑结构划分工具，不能直接度量社区内部思想共识的深浅，亦无法依据社区规模直接推断学派的学术影响力高低或因果突破能力。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Network Analysis]]（复杂网络分析）中的社区发现方法族（Community Detection Algorithms）。
-> - **前置步骤** 学者实体消歧（Author Name Disambiguation）、合著邻接矩阵构建、极大完全子图（Maximal Cliques）搜索算法。
+> - **前置步骤** 学者实体消歧（[[Author Name Disambiguation]]）、合著邻接矩阵构建、极大完全子图（Maximal Cliques）搜索算法。
 > - **变体与扩展** 加权团渗流算法（Weighted CPM，引入边权重门槛过滤低频合作）、二部图团渗流算法（处理学者与论著附属网络）、动态演化团渗流算法（Sequential CPM，追踪学派随时间的产生、分裂与消亡）。
 
 ---
 
 > [!dev-timeline] 方法演变
 > - **1973 — 图论极大团搜索算法建立** 科恩·布朗（Coen Bron）与约普·克博斯（Joep Kerbosch）提出 Bron-Kerbosch 深度优先分支定界算法，确立了在无向图中枚举全部极大团的标准计算框架。
-> - **2005 — 团渗流算法提出并确立重叠社区范式** 盖尔盖伊·保洛（Gergely Palla）、伊姆雷·德雷尼（Imre Derényi）、伊勒什·法尔卡什（Illés Farkas）与陶马什·维切克（Tamás Vicsek）在《自然》（*Nature*）刊发奠基性成果，正式提出团渗流算法，开创了重叠社区发现的全局拓扑分析范式。
+> - **2005 — 团渗流算法提出并确立重叠社区[[Paradigm|范式]]** 盖尔盖伊·保洛（Gergely Palla）、伊姆雷·德雷尼（Imre Derényi）、伊勒什·法尔卡什（Illés Farkas）与陶马什·维切克（Tamás Vicsek）在《自然》（*Nature*）刊发奠基性成果，正式提出团渗流算法，开创了重叠社区发现的全局拓扑分析范式。
 > - **2007 — 社群动态演进追踪模型** Palla 等人在《自然》（*Nature*）将团渗流法扩展至时间序列，通过康奈尔大学 arXiv 物理学逾 3 万名学者合著网络实测，揭示出大型科研群体的渐进代谢与微型研究小组的剧烈存亡动力学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Palla et al., 2005; Wang & Barabási, 2021, p. 104)]]
 
 ---

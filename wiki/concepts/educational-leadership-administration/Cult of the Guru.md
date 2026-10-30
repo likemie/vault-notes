@@ -5,10 +5,10 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - cult-of-the-guru
   - school-leadership
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Cult of Efficiency]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
+  - "[[Document]]"
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Falsification]]"
   - "[[Success Criteria]]"
+  - "[[Learning Strategies]]"
   - "[[Phronesis]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -47,6 +49,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Corwin Press]]"
+  - "[[NAPLAN]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -62,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -82,12 +85,12 @@ updated: 2026-10-22
 > [[Argument_Eacott_2017_SLM\|Eacott (2017, p.414-419)]]识别了使大师崇拜成为可能的三个相互关联的条件：
 >
 > **（1）特定的时间条件（temporal conditions）**
-> - 澳大利亚教育系统在 NAPLAN/[[PISA]]/[[TIMSS]] 评估中感知到学生成绩持续下降，创造了"需要知道什么有效、甚至什么最有效"的紧迫性([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.415-416]])
+> - 澳大利亚教育系统在 [[NAPLAN]]/[[PISA]]/[[TIMSS]] 评估中感知到学生成绩持续下降，创造了"需要知道什么有效、甚至什么最有效"的紧迫性([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.415-416]])
 > - 管理修辞围绕理性/控制逻辑凝聚，而非规范性/抱负性逻辑——前者在缓慢下降时主导，后者在急剧衰退时主导([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.415, citing Abrahamson, 1997]]; Hartley, 2010)
 > - 此前的大规模教学改革（QSRLS、New Basics、Quality Teaching）聚焦课程/教学/评估三系统，但[[School Leadership\|学校领导]]的实际教学领导时间极少——需要的是能"用行政语言说话"的证据([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.416]])
 >
 > **（2）Hattie 的工作用行政语言说话**
-> - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis\|元分析]]为教育行政文献引入[[Effect Size\|效应量]]语言，打破[[Transformative Leadership\|变革型领导力]]的主导地位，推动[[Instructional Leadership\|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.417-418]])
+> - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis\|元分析]]为教育行政[[Document|文献]]引入[[Effect Size\|效应量]]语言，打破[[Transformative Leadership\|变革型领导力]]的主导地位，推动[[Instructional Leadership\|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.417-418]])
 > - Hattie 的[[Meta-meta-analysis\|元-元分析]]填补了这一空白：800+ 元分析、52,637 项研究、138 个因素按效应量排名——"终于有了用行政语言说话的研究"而非教学模型([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.418]])
 > - d=0.40 等同于一个学年的换算使行政人员可以按"[[Return on Investment\|投资回报]]"逻辑决策——在何处投资、何处不投资，成为学校行政的核心计算([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.418-419]])
 >
@@ -123,7 +126,7 @@ updated: 2026-10-22
 >
 > **（1）援引学术批评传统。** Hattie 以 Said（1993）的公共知识分子角色和新西兰《教育法》的"[[Critic and Conscience of Society]]"条款为学术批评的伦理基础，主张"每个[[Paradigm\|范式]]或猜想都应被测试至毁灭，其作者、追随者和使用者应当面对公共问责"([[Argument_Hattie_2017_SLM\|Hattie, 2017, p.427-428]])。Hattie 声称他将 [[Argument_Snook_2009_NZJES|Snook et al.（2009）]]——"最好的批评之一"——用作自身课程的教学文本，以此论证自己欢迎批评（p.428）。
 >
-> **（2）以 Popper [[Falsification\|证伪主义]]定位 VL。** Hattie 声称 Popper（1959）的证伪主义是其方法论的核心哲学基础——VL 包含许多"大胆猜想"，因此"容易被证伪"。他列举了一系列声称"尚未被任何批评者证伪"的核心猜想：通过学生眼睛看学习、学生成为自身教师、[[Success Criteria\|成功标准]]的价值、"Know thy impact"的前提、关系与信任的角色、给予与接收反馈的力量、学科语境下学习策略的焦点、使学校成为邀请性场所、关注学生学习生活([[Argument_Hattie_2017_SLM\|Hattie, 2017, p.428]])。
+> **（2）以 Popper [[Falsification\|证伪主义]]定位 VL。** Hattie 声称 Popper（1959）的证伪主义是其方法论的核心哲学基础——VL 包含许多"大胆猜想"，因此"容易被证伪"。他列举了一系列声称"尚未被任何批评者证伪"的核心猜想：通过学生眼睛看学习、学生成为自身教师、[[Success Criteria\|成功标准]]的价值、"Know thy impact"的前提、关系与信任的角色、给予与接收反馈的力量、学科语境下[[Learning Strategies|学习策略]]的焦点、使学校成为邀请性场所、关注学生学习生活([[Argument_Hattie_2017_SLM\|Hattie, 2017, p.428]])。
 >
 > **（3）否认"大师崇拜"的存在。** Hattie 以 ACEL 网站列出了许多其他讲者、论文和批评者为证据，逐条回应 Eacott 的三项主张：（a）针对 Eacott 主张 Hattie 的工作因满足泰勒主义效率追求而获得接受——Hattie 反驳 Eacott 在"嘲笑严谨性和稳健性"（p.428-429）；（b）针对 Eacott 主张 VL 数据吸引行政人员——Hattie 坚持[[Meta-analysis\|元分析]]综合的严谨性，声称 VL 的核心思想被教师和[[School Leadership\|学校领导]]欢迎（p.429）；（c）针对 Eacott 主张学校领导力已屈服于大师崇拜——Hattie 称"Eacott 不必担心；有很多批评我工作的人；有很多部门官员和政客使用我之外的来源；有教师和学校领导选择 VL 之外的信息"（p.430）。
 >

@@ -10,9 +10,9 @@ subtype: organization
 region: sweden
 fact_region: "sweden"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 established: "2008"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
+  - "[[School Bullying]]"
+  - "[[State Simplification]]"
   - "[[Reflexivity]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -42,9 +44,12 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
+  - "[[James C. Scott]]"
   - "[[Jean Piaget]]"
   - "[[Basil Bernstein]]"
 related_facts:
+  - "[[Swedish National Agency for Education]]"
+  - "[[PISA]]"
   - "[[Ofsted]]"
   - "[[Swedish Institute for Educational Research]]"
   - "[[PISA Shock in Sweden]]"
@@ -53,16 +58,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 瑞典学校督察局（Swedish Schools Inspectorate；瑞典语 Skolinspektionen）是瑞典中央政府于 2008 年秋设立的国家[[School Inspection|学校督导]]机构，承接原属瑞典国家教育局（National Agency for Education, NAE）的督导职能。督察局负责对学前教育、义务教育、高中、成人教育与特殊学校开展外部督导，并以《教育法》中“科学依据与经验验证”（scientific grounds and proven experience）的要求为制度起点，把教育研究、研究者与[[Scientific Method|科学方法]]纳入督导流程。它因此成为观察[[Research Utilization|研究使用]]如何进入国家教育治理的关键中介。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–647)]]
+> 瑞典学校督察局（Swedish Schools Inspectorate；瑞典语 Skolinspektionen）是瑞典中央政府于 2008 年秋设立的国家[[School Inspection|学校督导]]机构，承接原属[[Swedish National Agency for Education|瑞典国家教育局]]（National Agency for Education, NAE）的督导职能。督察局负责对学前教育、义务教育、高中、成人教育与特殊学校开展外部督导，并以《教育法》中“科学依据与经验验证”（scientific grounds and proven experience）的要求为制度起点，把教育研究、研究者与[[Scientific Method|科学方法]]纳入督导流程。它因此成为观察[[Research Utilization|研究使用]]如何进入国家教育治理的关键中介。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–647)]]
 
 > [!org-context] 机构背景
-> - **成立时间与制度背景** 瑞典学校督导在缺席十余年后于 2003 年重新引入，由政府委托 NAE 以六年一轮的方式实施。2008 年秋，新的独立督导机构督察局开始运作。作为新设国家机构，督察局面临政府提高学生整体学业水平、提升学科知识与保障等值性的强烈政治要求，特别是面对 2000 年代瑞典学生在国际测试中的急剧下滑以及后续演变为全国危机的[[PISA Shock in Sweden|瑞典 PISA 震荡]]，督察局从头设计和开发各类督导流程，承担起强化中央规制与纠偏过度市场化的职能。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
+> - **成立时间与制度背景** 瑞典学校督导在缺席十余年后于 2003 年重新引入，由政府委托 NAE 以六年一轮的方式实施。2008 年秋，新的独立督导机构督察局开始运作。作为新设国家机构，督察局面临政府提高学生整体学业水平、提升学科知识与保障等值性的强烈政治要求，特别是面对 2000 年代瑞典学生在国际测试中的急剧下滑以及后续演变为全国危机的瑞典 [[PISA]] 震荡，督察局从头设计和开发各类督导流程，承担起强化中央规制与纠偏过度市场化的职能。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **法律依据** 瑞典《教育法》（Education Act, SFS 2010:800）第 1 章第 5 节要求学校教育建立在“科学依据与经验验证”之上。2011 年 7 月起，督察局还可对不服从其决定的办学机构使用罚款等制裁。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648)]]
 > - **督导范围** 督察局按三年一轮，对学前教育、小学与中学、成人教育及特殊学校按比例开展督导。大学与大学学院由另一督导机构负责，不在督察局委托范围内。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **核心宗旨** 通过常规督导、质量审计、投诉处理与独立学校许可，检查学校与办学机构是否符合国家目标、法规与质量标准；同时以研究综述、判断标准与报告，向学校、办学机构与公众传达何为良好实践。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–649)]]
@@ -89,7 +94,7 @@ updated: 2026-10-27
 > [!pathways] 业务运行机制
 > - **常规督导（Regular Supervision）** 对全部学校与办学机构按三年一轮开展。督导围绕四大评估领域：[[Academic Achievement|学业成绩]]或目标达成、教育领导与发展、学习环境、学生个人权利。评估领域与指标由工作组从成功学校研究中提炼，经高层管理协商后写入督导指令与学校指南。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 647–648)]]
 > - **质量审计（Quality Audit）** 对学校系统中特定且界定明确的问题领域开展深度审计，抽样约 30 所学校，其发现被视为对该问题领域具有全国代表性。审计以国家目标与指南为基础，更强调质量面向与学校发展；流程包括内部指令、知识综述、法律框架、项目计划、参考研究者、参考组、内部与外部质量保障，以及最终报告。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 649)]]
-> - **投诉处理** 处理个人就学校问题（如校园欺凌）提出的投诉，并据此开展调查与判断。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
+> - **投诉处理** 处理个人就学校问题（如[[School Bullying|校园欺凌]]）提出的投诉，并据此开展调查与判断。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **独立学校许可** 管理独立学校的办学许可，审查其是否符合法定条件。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **术语与流程标准化** 委托哥德堡大学评价专家编制术语表，统一质量审计概念；发布《质量审计流程说明》，以“促进评估工作中良好而统一的质量”为目标。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 
@@ -140,7 +145,7 @@ updated: 2026-10-27
 > > 争论评估领域、知识综述与“良好范例”究竟为学校提供了清晰可循的质量标准，还是把复杂教育实践简化为可行政控制的单一方向。
 > >
 > > - **标准清晰论** 认为统一评估领域与判断标准有助于学校理解国家期望、开展自查并改进实践。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 653)]]
-> > - **国家简化论** 依据斯科特的国家简化概念指出，督察局为便于行政控制而把复杂现实压缩为可计量、可比较的分类，矛盾研究与情境差异被排除，某些实践方向因此显得唯一且可控。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
+> > - **[[State Simplification|国家简化]]论** 依据[[James C. Scott|斯科特]]的国家简化概念指出，督察局为便于行政控制而把复杂现实压缩为可计量、可比较的分类，矛盾研究与情境差异被排除，某些实践方向因此显得唯一且可控。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 >
 > > [!axis] 研究者参与还是研究者被收编
 > > 争论延请研究者参与质量审计，究竟提升了审计的[[Reflexivity|反思性]]与专业性，还是把研究者变成机构结论的合法化资源。

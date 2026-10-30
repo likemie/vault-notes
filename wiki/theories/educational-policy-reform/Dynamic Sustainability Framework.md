@@ -6,10 +6,10 @@ aliases:
 summary: "由 David A. Chambers、Russell E. Glasgow 与 Kurt C. Stange（2013）提出的实施科学与系统变革理论，彻底颠覆干预成效随时间衰减的传统‘电压降’假设，主张干预措施、实践现场与宏观生态系统三者处于持续的自适应调适、双向学习与动态拟合之中，以实现长效可持续性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-policy-reform
   - theme/implementation-science
@@ -21,7 +21,10 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Phronesis]]"
+  - "[[Teacher Collaboration]]"
+  - "[[Mutual Learning]]"
   - "[[Metacognition]]"
+  - "[[Peer Assessment]]"
   - "[[Business as Usual]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -95,8 +98,8 @@ updated: 2026-10-26
 > - **前提一** 高质量证据利用不是被动采纳，而是结合本土情境对干预方案展开“深思熟虑的参与和实施”。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 143–144)]]
 >   > [!evidence-grid]- 证据
 >   > - **跨领域综述验证** 卫生保健与教育领域综述表明，获得长期维系且成效显著的变革，均允许实践者根据学生特征与学校资源调整干预载体，同时坚守关键教学机制。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, p. 140)]]
-> - **前提二** 组织自身需建立反馈学习结构，促使实践现场的组织流程、教师协作文化向干预需求发生适配性演化。
-> - **推导** 可持续性是干预（Intervention）、组织（Practice Setting）与生态系统（Ecological System）相互学习、双向塑造的结果；适切调适增强了干预与本土情境的契合度，从而提升长期干预成效。
+> - **前提二** 组织自身需建立反馈学习结构，促使实践现场的组织流程、[[Teacher Collaboration|教师协作]]文化向干预需求发生适配性演化。
+> - **推导** 可持续性是干预（Intervention）、组织（Practice Setting）与生态系统（Ecological System）[[Mutual Learning|相互学习]]、双向塑造的结果；适切调适增强了干预与本土情境的契合度，从而提升长期干预成效。
 
 > [!proposition-chain] 核心命题三｜高质量适切调适必须以维系干预的核心功能为边界，警惕瓦解因果链条的无效漂移
 > - **前提一** 干预的有效性取决于特定的理论作用机制（如支架式反馈、[[Metacognition\|元认知]]唤醒）；若关键机制被剔除，干预便丧失科学依据。
@@ -128,7 +131,7 @@ updated: 2026-10-26
 > ```
 
 > [!exegesis]- 教育研究例子
-> 某初中引入一项基于[[Cognitive Load Theory\|认知负荷理论]]的实证数学分层教学方案。初始实验方案设计为每周三次课后一对一电脑辅导，但该校缺乏专属机房且课后师资紧张。学校未生硬照搬导致项目搁置，而是识别出该方案的核心功能在于“即时诊断性反馈与个性化变式练习”，随后将其形态调适为课内小组合作探究中的纸质微反馈单与同伴互评。这一调适既保留了因果核心，又高度契合学校日常运作节律，使干预方案历经多年仍稳固运行在[[Business as Usual\|常态教学]]体系中。
+> 某初中引入一项基于[[Cognitive Load Theory\|认知负荷理论]]的实证数学分层教学方案。初始实验方案设计为每周三次课后一对一电脑辅导，但该校缺乏专属机房且课后师资紧张。学校未生硬照搬导致项目搁置，而是识别出该方案的核心功能在于“即时诊断性反馈与个性化变式练习”，随后将其形态调适为课内小组合作探究中的纸质微反馈单与[[Peer Assessment|同伴互评]]。这一调适既保留了因果核心，又高度契合学校日常运作节律，使干预方案历经多年仍稳固运行在[[Business as Usual\|常态教学]]体系中。
 
 ---
 

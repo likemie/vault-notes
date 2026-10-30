@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Scientific Explanation]]"
+  - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
@@ -48,25 +49,24 @@ related_persons:
   - "[[James Madison]]"
   - "[[Peter Thiel]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[Common Core State Standards]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家，密歇根大学（University of Michigan）政治学荣休教授，美国文理[[Chinese Academy of Sciences|科学院]]院士，古根海姆学者。
+> - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家，密歇根大学（University of Michigan）政治学荣休教授，美国文理科学院院士，古根海姆学者。
 > - **核心角色** [[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework, MSF）的奠基人，公共政策议程设置（Agenda Setting）领域的集大成者。他将组织决策的“垃圾桶模型”[[Creativity|创造性]]拓展至宏观国家治理，确立了[[Policy Window|政策之窗]]与[[Policy Entrepreneur|政策企业家]]两个核心分析构件，成为全球政策[[Scientific Explanation|科学解释]]非线性变迁的经典坐标。
 > - **代表贡献** 创立[[Multiple Streams Framework|多源流分析框架]]；系统阐述[[Policy Window|政策之窗]]与[[Policy Entrepreneur|政策企业家]]；出版里程碑著作《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*）。
 
 > [!citation-card] 金登关于议程设置与政策企业家理论的奠基性定性
-> 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）指出，约翰·W·金登在其关于议程设置的开创性著作中，详尽阐述了分散事实与主观解释在将特定情境界定为政策问题时的复杂互动。金登揭示出，尽管统计指标或科研文献能够指认出客观现状，但在界定政策问题时始终存在着认知解释要素，这一要素鲜明体现在哪些数据被突出强调、如何被解释以及何种因素被认定为危机的根源。
+> 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）指出，约翰·W·金登在其关于议程设置的开创性著作中，详尽阐述了分散事实与主观解释在将特定情境界定为政策问题时的复杂互动。金登揭示出，尽管统计指标或科研[[Document|文献]]能够指认出客观现状，但在界定政策问题时始终存在着认知解释要素，这一要素鲜明体现在哪些数据被突出强调、如何被解释以及何种因素被认定为危机的根源。
 >
 > *In his seminal work on agenda setting, John Kingdon (1995) details the interplay between disparate facts and their interpretation in the process of defining a given situation as a policy problem. Indicator data or a body of research may identify a problem... At the same time, 'there is a perceptual interpretative element' in defining policy problems (Kingdon 1995, 110). That element is manifested in what data are highlighted, how they are interpreted, and in what factors are identified as causing the problem.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 4)]]
 

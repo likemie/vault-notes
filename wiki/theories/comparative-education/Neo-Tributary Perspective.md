@@ -8,7 +8,7 @@ aliases:
 summary: "借鉴中国古代朝贡体系历史逻辑解释当代权力投射与跨国高等教育拓展的理论分析框架，聚焦中国例外论、经贸与外交交织、文化认同探索及形象塑造四大支柱，揭示国家权力借由高教网络在周边区域构建不对称合作秩序的动力机制与内在张力"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 33
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Geopolitics]]"
   - "[[Knowledge Exchange]]"
+  - "[[Public Diplomacy]]"
   - "[[Chinese Exceptionalism]]"
   - "[[Cultural Recognition]]"
   - "[[Pragmatic Paradigm]]"
@@ -42,6 +43,9 @@ related_theories:
   - "[[Tianxia Heuristic]]"
   - "[[Tributary System]]"
 related_facts:
+  - "[[Project 211]]"
+  - "[[Project 985]]"
+  - "[[Double First-Class Initiative]]"
   - "[[Belt and Road Initiative]]"
   - "[[Institute of South-South Cooperation and Development]]"
   - "[[ASEAN]]"
@@ -57,10 +61,11 @@ related_methods:
 related_persons:
   - "[[John King Fairbank]]"
   - "[[Suyan Pan]]"
+  - "[[Rui Yang]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -79,8 +84,8 @@ updated: 2026-10-22
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 思想源头来自[[John King Fairbank|费正清]]（John King Fairbank）等历史学家对古代东亚[[Tributary System|朝贡体系]]的经典阐释（Fairbank, 1942; Fairbank & Têng, 1941）；21 世纪初雅克（Martin Jacques, 2012）与卡拉汉（William Callahan, 2012）将朝贡隐喻引入中国大国崛起战略讨论；[[Suyan Pan|潘苏燕]]（Suyan Pan）与卢天佑（Joe Tin-yau Lo）在 2017 年与 2018 年正式系统化提出面向高等教育领域的新朝贡[[Analytic Framework|分析框架]]（Pan & Lo, 2017, 2018）。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044–1045)]]
 > - **原初问题** 既有研究过度依赖源自冷战时期的西方[[Geopolitics|地缘政治]]语汇，未能深入挖掘中国数千年朝贡治理传统及其对当代周边睦邻政策与对外[[Knowledge Exchange|知识交流]]的深层文化影响。
-> - **理论资源与材料** 吸收费正清模型中关于非强制性层级秩序、文化中心主义、朝贡贸易互惠等核心假定，结合中国高水平大学建设、211工程、985工程、双一流建设以及[[Belt and Road Initiative|一带一路倡议]]对外合作政策文本。
-> - **形成路径** 将古代朝贡体系的朝觐仪轨、互惠贸易、儒学化育与朝廷威望四项功能，映射转化为现代大国公共外交中的[[Chinese Exceptionalism|中国例外论]]、首脑互访搭台经贸、教育与语言输出、人道援助与形象塑造四大操作维度，并确立高等教育为连接这四项维度的核心纽带。
+> - **理论资源与材料** 吸收费正清模型中关于非强制性层级秩序、文化中心主义、朝贡贸易互惠等核心假定，结合中国高水平大学建设、[[Project 211|211工程]]、[[Project 985|985工程]]、[[Double First-Class Initiative|双一流建设]]以及[[Belt and Road Initiative|一带一路倡议]]对外合作政策文本。
+> - **形成路径** 将古代朝贡体系的朝觐仪轨、互惠贸易、儒学化育与朝廷威望四项功能，映射转化为现代大国[[Public Diplomacy|公共外交]]中的[[Chinese Exceptionalism|中国例外论]]、首脑互访搭台经贸、教育与语言输出、人道援助与形象塑造四大操作维度，并确立高等教育为连接这四项维度的核心纽带。
 
 > [!dev-timeline] 理论版本与贡献
 > - **2017–2018 年 Pan 与 Lo 奠定高等教育新朝贡框架** 系统构建由中国例外论、经贸与外交交织、语言文化输出、国际形象塑造组成的四维分析架构，确立大学作为知识创新策源地与地缘战略支点的复合功能。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044–1046)]]
@@ -112,7 +117,7 @@ updated: 2026-10-22
 > **应用实例** 云南省教育厅指派大理大学与[[Royal University of Phnom Penh|金边皇家大学]]合建汉语中心，落实桥头堡对外开放战略；[[Confucius Institute|孔子学院]]直接为中国免税品集团等中资企业定向培训柬籍员工。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050–1051)]]
 
 > [!theory-proposition] 命题三｜高教输出追求当代发展治理模式的文化认同而非传统文明同化
-> **解释** 朱柯锦与杨锐在 2025 年修正了[[Suyan Pan|潘苏燕]]等学者早期沿袭[[John King Fairbank|费正清]]模型的文化同化假设。实证调查表明，周边弱小受访国家并未被同化于儒家传统伦理，中国高教对外传播重点亦已转向以《中国概况》、移动支付、数字经济与基础设施发展经验为代表的当代国家治理叙事，旨在争取对其作为补充性现代化方案的客观认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
+> **解释** 朱柯锦与[[Rui Yang|杨锐]]在 2025 年修正了[[Suyan Pan|潘苏燕]]等学者早期沿袭[[John King Fairbank|费正清]]模型的文化同化假设。实证调查表明，周边弱小受访国家并未被同化于儒家传统伦理，中国高教对外传播重点亦已转向以《中国概况》、移动支付、数字经济与基础设施发展经验为代表的当代国家治理叙事，旨在争取对其作为补充性现代化方案的客观认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
 >
 > **应用实例** 2017 年后教育部调整来华留学生必修的《中国概况》课程大纲，当代国情与古代知识点比例达 1.2:1；孔子学院编写《[[Belt and Road Initiative|一带一路]]·文化先行》教材，重点引入移动支付、共享单车等当代生活方式。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1049)]]
 

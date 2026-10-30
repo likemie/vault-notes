@@ -7,9 +7,9 @@ title: "Argument_Terhart_2014_Kallmeyer"
 argument_key: "Argument_Terhart_2014_Kallmeyer"
 argument_display_title: "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen"
 argument_kind: "edited-volume"
-argument_related_count: 9
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 10
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Cooperative Learning]]"
   - "[[Problem Solving]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Didaktik]]"
 related_methods:
@@ -38,7 +39,7 @@ related_persons:
   - "[[Hilbert Meyer]]"
 status: "draft"
 created: "2026-10-17"
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 > [!volume-profile] 阅读档案
@@ -57,7 +58,7 @@ updated: 2026-10-20
 以上分组便于阅读导航，保留原目录顺序，不是原书另设的分部。
 
 > [!chapter-roadmap] 阅读进度
-> - **准备完成** 十一篇文章已分别转换为十一个 TXT，原有脚注与参考文献随文章保留。
+> - **准备完成** 十一篇文章已分别转换为十一个 TXT，原有脚注与参考[[Document|文献]]随文章保留。
 > - **阅读顺序** 按目录从第 1 篇开始推进。
 > - **当前进度** 尚未建立章节论证页，具体主张、证据评价与跨篇综合留待逐篇解读。
 

@@ -8,7 +8,7 @@ summary: "瑞士心理学家与哲学家，认知发展阶段理论与发生认�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 32
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -27,8 +27,11 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Self-control]]"
   - "[[Emergence]]"
+  - "[[Paradigm]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
+  - "[[School Inspection]]"
+  - "[[Technical Rationality]]"
   - "[[Working Memory]]"
   - "[[Domain Specificity]]"
   - "[[Areas of Knowledge]]"
@@ -42,7 +45,8 @@ related_theories:
   - "[[Neo-Piagetian Theories]]"
   - "[[Behaviorism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_persons:
   - "[[Alfred Binet]]"
   - "[[Jean-Jacques Rousseau]]"
@@ -52,7 +56,8 @@ related_persons:
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
-related_facts: []
+related_facts:
+  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
@@ -60,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -125,14 +130,14 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 奠定现代认知发展心理学与[[Constructivist Paradigm|建构主义范式]]的理论基石，催生了[[Neo-Piagetian Theories|新皮亚杰理论]]（Neo-Piagetian Theories）以及关于认知平衡化动力机制的持续探索。
-> - **方法路径** 创立“临床访谈法”（Clinical Method），将开放观察、实物操作与启发式反诘融为一体，为质性儿童思维与概念建构研究树立了方法学范式。
+> - **方法路径** 创立“临床访谈法”（Clinical Method），将开放观察、实物操作与启发式反诘融为一体，为质性儿童思维与概念建构研究树立了方法学[[Paradigm|范式]]。
 > - **政策与实践路径** 深刻重塑了全球学前教育与K-12课程设计，确立了发展适宜性实践（Developmentally Appropriate Practice, DAP）原则与以动手探究为中心的活动课程传统。
-> - **跨国传播与论辩** 理论在当代教育研究中持续焕发活力：克沃特鲁普（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]）以皮亚杰的同化与顺应阐释知识形态之间的动态互动；博尔顿与[[John Hattie|哈蒂]]（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017]]）将皮亚杰阶段过渡与[[Prefrontal Cortex|前额叶皮层]]生理发育和[[Executive Function|执行功能]]对齐；塞格霍姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, p. 650]]）借助皮亚杰关于“科学思维是持续建构与重组的过程而非静态实体”的认识论论断，批判国家教育督导机构将学术研究冻结为静态“当前知识状态”的技术理性倾向。
+> - **跨国传播与论辩** 理论在当代教育研究中持续焕发活力：克沃特鲁普（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]）以皮亚杰的同化与顺应阐释知识形态之间的动态互动；博尔顿与[[John Hattie|哈蒂]]（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017]]）将皮亚杰阶段过渡与[[Prefrontal Cortex|前额叶皮层]]生理发育和[[Executive Function|执行功能]]对齐；塞格霍姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, p. 650]]）借助皮亚杰关于“科学思维是持续建构与重组的过程而非静态实体”的认识论论断，批判国家[[School Inspection|教育督导]]机构将学术研究冻结为静态“当前知识状态”的[[Technical Rationality|技术理性]]倾向。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 探究皮亚杰认知发展阶段与儿童大脑前额叶皮层发育及执行功能之间的神经生理对应机制。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 运用皮亚杰图式同化与顺应理论，论证知识形式相互影响的复杂动态性。
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 援引皮亚杰关于科学思维属于动态建构过程的发生认识论观点，批评瑞典学校督察局将教育研究固化为静态客观常模并压制学术演进的科层简化倾向（p. 650）。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 援引皮亚杰关于科学思维属于动态建构过程的发生认识论观点，批评[[Swedish Schools Inspectorate|瑞典学校督察局]]将教育研究固化为静态客观常模并压制学术演进的科层简化倾向（p. 650）。
 
 ---
 
@@ -146,7 +151,7 @@ updated: 2026-10-22
 > [!debates] 学术争议
 >
 > > [!axis] 阶段普遍性与[[Domain Specificity|领域特殊性]]之争
-> > 批评者（如 Flavell, 1982; Case, 1992）指出皮亚杰高估了发展阶段的整体性与同步性，忽略了儿童在不同[[Areas of Knowledge|知识领域]]中发展速度的高度[[Heterogeneity|异质性]]，并指出精巧的实验设计显示幼儿实际上具备更早的心理表征与推理能力。
+> > 批评者（如 Flavell, 1982; Case, 1992）指出皮亚杰高估了发展阶段的整体性与同步性，忽略了儿童在不同[[Areas of Knowledge|知识领域]]中发展速度的高度[[Heterogeneity|异质性]]，并指出精巧的[[Experimental Research|实验设计]]显示幼儿实际上具备更早的心理表征与推理能力。
 >
 > > [!axis] 社会文化脉络与语言塑造作用的相对[[Epoché|悬置]]
 > > [[Lev Vygotsky|维果茨基]]学派与跨文化心理学者批评皮亚杰将认知发展主要归因于个体与物理环境的相互作用，对社会交往、文化中介工具与语言符号系统的决定性塑造功能关注相对不足。

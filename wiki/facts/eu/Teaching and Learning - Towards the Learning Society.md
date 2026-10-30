@@ -12,11 +12,11 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: European Commission
+issuing_organization: "[[European Commission]]"
 tags:
   - fact/policy
   - region/eu
@@ -27,11 +27,11 @@ tags:
   - educational-evaluation
 related_concepts:
   - "[[Lifelong Learning]]"
-  - "[[Europe of Knowledge]]"
+  - "[[Discourse]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
-  - "[[Employability]]"
-  - "[[Subsidiarity Principle]]"
-  - "[[State Educational Sovereignty]]"
+  - "[[Europe of Knowledge]]"
+  - "[[Performance Indicators]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governmentality]]"
@@ -39,34 +39,39 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[EU]]"
   - "[[European Commission]]"
+  - "[[EU]]"
   - "[[Growth, Competitiveness, Employment]]"
-  - "[[European Employment Strategy]]"
   - "[[Lisbon Strategy]]"
+  - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
+  - "[[Leonardo da Vinci Programme]]"
+  - "[[Socrates Programme]]"
+  - "[[European Employment Strategy]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1995 年 11 月由[[European Commission|欧盟委员会]]正式通过并发布（由负责科研、教育与培训事务的时任委员埃迪特·克勒松主导编制），题为《教与学：迈向学习型社会》（*Teaching and Learning - Towards the Learning Society*）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
-> - **适用地区 / 对象** 覆盖欧盟全体成员国的基础教育、高等教育、职业技术教育与成人继续培训体系。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> - **适用地区 / 对象** 覆盖[[EU|欧盟]]全体成员国的基础教育、高等教育、职业技术教育与成人继续培训体系。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 > - **问题背景** 白皮书预设欧洲正经历三大“剧变因素”（factors of upheaval）：经济“全球化”（globalisation）、“信息社会”（information society）的崛起，以及“技术科学”（techno-science）的迅猛发展，断言传统封闭僵化的教育体系无法提供知识社会所需的技能储备。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
-> - **制度位置** 承接 1993 年[[Growth, Competitiveness, Employment|《增长、竞争力、就业》]]白皮书，直接为欧洲经济转型制定人力资源开发战略，在 1996 年“欧洲终身学习年”前夕确立了欧盟教育现代化的指导蓝图。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> - **制度位置** 承接 1993 年《[[Growth, Competitiveness, Employment|增长、竞争力、就业]]》白皮书，直接为欧洲经济转型制定人力资源开发战略，在 1996 年“欧洲[[Lifelong Learning|终身学习]]年”前夕确立了欧盟教育现代化的指导蓝图。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 
 ---
 
 > [!claim] 政策核心
-> 《教与学：迈向学习型社会》系统构建了以新自由主义为底色的“市场导向话语”，明确主张对人力资源与知识进行资本化投资，倡导开发灵活技能、推行非正式资格认证、建立学校与企业紧密对接机制，并主张削减公共财政支出，引导受教育者自筹或共同出资，基于可量化的绩效产出分配教育经费。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> 《教与学：迈向学习型社会》系统构建了以新自由主义为底色的“市场导向[[Discourse|话语]]”，明确主张对人力资源与知识进行资本化投资，倡导开发灵活技能、推行非正式资格认证、建立学校与企业紧密对接机制，并主张削减公共财政支出，引导受教育者自筹或共同出资，基于可量化的绩效产出分配教育经费。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 构建适应未来欧洲知识社会与知识经济的人力资源开发战略，通过掌握基础知识与专业技能提升劳动者的就业竞争力，维护社会凝聚。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
+> - **政策目标** 构建适应未来欧洲知识社会与[[Knowledge-Based Economy|知识经济]]的人力资源开发战略，通过掌握基础知识与专业技能提升劳动者的就业[[Competitiveness|竞争力]]，维护社会凝聚。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
 > - **关键核心概念** 白皮书集中铸造并确立了一组核心词汇群：[[Competitiveness|竞争力]]（competitiveness）、适应性（adaptability）、弹性（elasticity）、灵活性（flexibility）、质量（quality）、认证（certification）与评估（evaluation）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
 > - **结构性改革主张** 
 >   1. **灵活技能与继续培训** 优先开发具备高迁移性与弹性的跨领域技能，大幅拓宽终身继续培训渠道；
@@ -83,11 +88,11 @@ updated: 2026-10-28
 ---
 
 > [!timeline] 政策时间线
-> - **1993** 欧盟委员会发布[[Growth, Competitiveness, Employment|《增长、竞争力、就业》]]白皮书，提出重构教育体系服务经济增长。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
+> - **1993** 欧盟委员会发布《增长、竞争力、就业》白皮书，提出重构教育体系服务经济增长。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–483)]]
 > - **1995** 欧盟委员会正式发布《教与学：迈向学习型社会》白皮书，全面阐释市场导向话语与人力资源投资战略。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 > - **1996** 欧盟将 1996 年定为“欧洲终身学习年”（European Year of Lifelong Learning），向全欧推广白皮书确立的终身技能开发理念。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
-> - **1997** 欧委会发布《迈向知识欧洲》（*Towards the Europe of Knowledge*），将白皮书成果整合进教育、培训与青年行动纲领。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 485–487)]]
-> - **2000** 里斯本战略正式将建设知识社会与提高人力资本投资列为全欧战略核心。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–488)]]
+> - **1997** 欧委会发布《迈向[[Europe of Knowledge|知识欧洲]]》（*Towards the Europe of Knowledge*），将白皮书成果整合进教育、培训与青年行动纲领。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 485–487)]]
+> - **2000** [[Lisbon Strategy|里斯本战略]]正式将建设知识社会与提高[[Human Capital Theory|人力资本]]投资列为全欧战略核心。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–488)]]
 
 ---
 
@@ -97,7 +102,7 @@ updated: 2026-10-28
 > - **政策客体与受众** 全体求学者、在职职工、失业待业人员以及技能需求型产业部门。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 
 > [!pathways] 实施路径
-> - **理念倡导与话语建构** 吸纳经合组织（OECD）、世界银行（World Bank）与国际货币基金组织（IMF）的新自由主义理念，在白皮书中推行以市场效率为导向的教育叙事。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
+> - **理念倡导与话语建构** 吸纳[[OECD|经合组织]]（OECD）、[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（IMF）的新自由主义理念，在白皮书中推行以市场效率为导向的教育叙事。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
 > - **校企合作与资格试验** 依托[[Leonardo da Vinci Programme|达芬奇计划]]与[[Socrates Programme|苏格拉底计划]]等共同体行动网络，资助企业参与的技能培训与资格认证示范试点。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 485)]]
 > - **绩效评价制度引导** 鼓励成员国采用量化指标监测教育成效，推动以结果为基础的财政拨付制度转型。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 
@@ -132,6 +137,6 @@ updated: 2026-10-28
 > | [[Europe of Knowledge]] | 概念 | 白皮书试图勾勒的未来图景，但被学者批评为体现了新自由主义对知识社会的狭隘建构。 |
 > | [[Lifelong Learning]] | 概念 | 白皮书将终身学习阐释为劳动者持续自负盈亏投资人力资本的机制。 |
 > | [[Human Capital Theory]] | 理论 | 白皮书倡导知识投资与技能资本化的核心理论支柱。 |
-> | [[Governmentality]] | 理论 | 白皮书通过绩效指标、自筹资金与自我责任对求学者进行主体塑造的治理机制。 |
+> | [[Governmentality]] | 理论 | 白皮书通过[[Performance Indicators\|绩效指标]]、自筹资金与自我责任对求学者进行主体塑造的治理机制。 |
 > | [[Growth, Competitiveness, Employment]] | 政策 | 1993 年发布的先行纲领白皮书，为其奠定了增长模型基石。 |
 > | [[European Employment Strategy]] | 政策 | 1997 年落实白皮书中可就业性与适应性要求的超国家政策框架。 |

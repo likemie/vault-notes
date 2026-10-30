@@ -8,7 +8,7 @@ summary: "系统综述的一种质性证据综合方法，以先验框架组织�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - methodology
 related_concepts:
   - "[[Emergence]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-29
 > 框架综合（Framework Synthesis）是[[Systematic Review\|系统综述]]中处理多样化实证证据的一种质性综合方法：研究者先基于既有理论或概念框架构建一个先验的"最佳拟合"[[Analytic Framework\|分析框架]]，再以该框架作为[[Open Coding|初始编码]]与数据组织的模板，在综合过程中允许新主题从数据中[[Emergence\|涌现]]并迭代修订框架（Brunton et al., 2020; Booth et al., 2022; Gough et al., 2017）。框架综合源于框架分析（Framework Analysis），后者最初用于分析研究数据以服务政策议题（Gale et al., 2013）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 已发表的实证研究文献，可涵盖定量、质性与[[Mixed Methods Research\|混合方法]]设计；纳入研究的结果章节与部分讨论章节。
+> - **研究对象** 已发表的实证研究[[Document|文献]]，可涵盖定量、质性与[[Mixed Methods Research\|混合方法]]设计；纳入研究的结果章节与部分讨论章节。
 > - **问题类型** 适合回答描述性、解释性与整合性问题，尤其是"现象如何被框定""什么条件促进或阻碍某个过程"这类需要理论透镜的问题。
 > - **[[Unit of Analysis\|分析单位]]** 单项研究（study-level）为基本分析单位，研究内的数据段为编码单位；不同层级的主题是综合输出单位。
 > - **输出形式** 映射到先验框架的结构化主题、跨框架层级的横切机制，以及修订后的框架或理论模型。

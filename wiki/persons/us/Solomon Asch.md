@@ -9,7 +9,7 @@ summary: "波兰裔美籍著名社会心理学与格式塔心理学先驱，因�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Social Deafness]]"
   - "[[Technological Republic]]"
+  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_persons:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -130,4 +131,4 @@ updated: 2026-10-22
 > | [[Milgram Obedience Experiment]] | 事实 | 承继阿施[[Paradigm\|范式]]并推向权威服从的经典研究。 |
 > | [[Social Deafness]] | 概念 | 抵御阿施实验所揭示的从众压力的核心心理机制。 |
 > | [[Engineering Mindset]] | 概念 | 卡普用以克服从众弱点的微观[[Organizational Culture\|组织文化]]范式。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] | 论证 | 深入探讨阿施实验对重构科技共和国工程文化的论证文献。 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] | 论证 | 深入探讨阿施实验对重构科技共和国工程文化的论证[[Document\|文献]]。 |

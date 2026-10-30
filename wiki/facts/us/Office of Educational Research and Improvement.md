@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - theme/research-policy-nexus
 related_concepts:
   - "[[Literature Search]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-26
 > - **行政领导核心** 由美国总统任命并经参议院确认的助理教育部长（Assistant Secretary）主持全面工作，直接对联邦教育部长负责。
 > - **统计监测分支** 统摄国家教育统计中心（National Center for [[EdStats|Education Statistics]], NCES），由统计专员（Commissioner）领导，负责全国教育数据普查与监测。
 > - **外部咨询与监督** 依据 1994 年立法设立国家教育研究政策与优先事项委员会（NERPPB），由来自高校、学区与政策界的 15 名外部学者与专家组成，负责设定国家科研优先主题与[[External Auditor|外部审计]]。
-> - **区域转化与扩散网络** 通过 10 所区域教育实验室（RELs）和全国 [[Education Resources Information Center|ERIC]] 文献信息交流所（Clearinghouses）搭建贯通全美各州的科研成果转化与咨询网络。
+> - **区域转化与扩散网络** 通过 10 所区域教育实验室（RELs）和全国 [[Education Resources Information Center|ERIC]] [[Document|文献]]信息交流所（Clearinghouses）搭建贯通全美各州的科研成果转化与咨询网络。
 
 > [!pathways] 业务运行机制
 > - **行政主导的项目立项与资助** OERI 时代重大科研项目多由联邦行政部门根据政策议程拟定优先资助指南，外部同行评议对立项决策的决定权相对有限，极易受到执政党更替与意识形态政策导向的左右。

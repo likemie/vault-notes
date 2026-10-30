@@ -8,7 +8,7 @@ summary: "美国政治学家，加州大学伯克利分校讲席教授，美国�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,7 +44,6 @@ related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
@@ -52,13 +51,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国历史政治学家与比较政治经济学家，加州大学伯克利分校（University of California, Berkeley）约翰·格罗斯政治学讲席教授（John Gross Professor of Political Science），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，当代[[Historical Institutionalism|历史制度主义]]与[[Path Dependence|路径依赖理论]]头号集大成者。
+> - **身份位置** 美国历史政治学家与比较政治经济学家，加州大学伯克利分校（University of California, Berkeley）约翰·格罗斯政治学讲席教授（John Gross Professor of Political Science），美国文理科学院（[[American Association for the Advancement of Science|AAAS]]）院士，当代[[Historical Institutionalism|历史制度主义]]与[[Path Dependence|路径依赖理论]]头号集大成者。
 > - **核心角色** 在现代政治科学关于“时间、历史性与制度因果”的理论网络中担任枢纽奠基人；系统将经济学中的规模报酬递增概念引入政治学，出版里程碑专著《时间中的政治》（*Politics in Time*，2004），将历史时间性、次序敏感性与自强化过程确立为实证政治分析的核心[[Paradigm|范式]]；其关于福利国家因制度锁定而难以削减的经典论断，直接作为理论对话靶子促成了施特雷克与希伦（2005）对“连续性偏误”的批判与渐进变迁形态学的诞生；在渐进演化机制中，皮尔逊[[Creativity|创造性]]地提出并命名了[[Subversives|颠覆者]]所依托的**地下室白蚁机制（Termites in the Basement）**。
 > - **代表贡献** 发表学科经典论文《报酬递增、路径依赖与政治学研究》（*Increasing Returns, Path Dependence, and the Study of Politics*，2000）；出版专著《拆解福利国家？》（*Dismantling the Welfare State?*，1994）；出版《时间中的政治》（*Politics in Time*，2004）；与[[Jacob S. Hacker|雅各布·S·哈克]]合著《赢家通吃的政治》（2010）。
 

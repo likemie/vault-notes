@@ -8,7 +8,7 @@ summary: "美籍华裔复杂系统与计算社会科学家，美国西北大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Causality]]"
+  - "[[Assemblage]]"
   - "[[Research Topic]]"
 related_theories:
   - "[[Q-Model]]"
@@ -37,12 +38,12 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Bibliometric Analysis]]"
   - "[[Descriptive Analysis]]"
-  - "[[Q-Factor]]"
   - "[[Disruption Index]]"
 related_instruments: []
 related_persons:
   - "[[Albert-László Barabási]]"
-  - "[[William Shockley]]"
+  - "[[James A. Evans]]"
+  - "[[Lingfei Wu]]"
 related_facts:
   - "[[Microsoft Academic Graph]]"
   - "[[National Science Foundation]]"
@@ -107,7 +108,7 @@ updated: 2026-10-30
 > - **政策路径** 其关于团队规模配置、青年科研基金资助容错机制以及热手效应的量化结论，被[[National Science Foundation|美国国家科学基金会]]（NSF）与各大私立基金会广泛引为科技评价改革实证依据。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐释科学学生产力稳态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队规模规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）与组装多样性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐释科学学生产力稳态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队规模规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）与[[Assemblage|组装]]多样性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]）。
 
 ---
 

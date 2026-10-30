@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Document]]"
 related_theories: []
 related_persons:
   - "[[Mariana Mazzucato]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -152,5 +153,5 @@ updated: 2026-10-26
 > | [[Citizen Science]] | Concept | 推动公众从被动受众转变为[[Horizon Europe\|地平线欧洲]]使命共创与监督者的社会参与载体。 |
 > | [[UN Sustainable Development Goals]] | Fact (Goal) | 地平线欧洲五大战略使命直接锚定的全球宏观治理目标。 |
 > | [[Mariana Mazzucato]] | Person | 地平线欧洲战略使命体系的核心理论奠基者与欧盟官方咨询报告起草人。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 详述使命导向政策五大实施准则与“无塑海洋”推演案例的核心文献。 |
+> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 详述使命导向政策五大实施准则与“无塑海洋”推演案例的核心[[Document\|文献]]。 |
 > | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] | Argument | 从[[Geopolitics of Knowledge\|知识地缘政治]]与学科[[Epistemology\|认识论]]自主性视角批判评估 Horizon Europe Missions 的重要文献。 |

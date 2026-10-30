@@ -9,10 +9,10 @@ summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1972"
 died: ""
 lifespan: "1972–至今"
@@ -22,22 +22,32 @@ tags:
   - theme/science-of-science
   - theme/science-policy
 related_concepts:
-  - "[[Conceptual Innovators]]"
+  - "[[Response to Intervention]]"
   - "[[Experimental Innovators]]"
+  - "[[Multi-University]]"
+  - "[[Polymath]]"
+  - "[[Assemblage]]"
+  - "[[Paradigm]]"
+  - "[[Team Science]]"
+  - "[[Conceptual Innovators]]"
   - "[[The Graying of Science]]"
   - "[[Age and High-Growth Entrepreneurship]]"
-  - "[[Team Science]]"
 related_theories:
   - "[[Burden of Knowledge]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Relative Team Impact]]"
 related_instruments: []
 related_persons:
+  - "[[Stefan Wuchty]]"
   - "[[Brian Uzzi]]"
-related_facts: []
+related_facts:
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -63,16 +73,16 @@ updated: 2026-10-30
 > - **1995** 毕业于普林斯顿大学，获公共与国际事务学士学位；随后获罗德奖学金赴牛津大学深造。
 > - **2003** 在麻省理工学院获得经济学博士学位。
 > - **2003–至今** 任教于西北大学凯洛格管理学院。
-> - **2007** 与 Wuchty 和 Uzzi 在《科学》发表《团队在科学生产中日益占据主导地位》，揭示跨学科科学与专利向团队科研的根本转型及相对团队影响力（RTI）优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **2007** 与 Wuchty 和 Uzzi 在《科学》发表《团队在科学生产中日益占据主导地位》，揭示跨学科科学与专利向团队科研的根本转型及[[Relative Team Impact|相对团队影响力]]（[[Response to Intervention|RTI]]）优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2008** 在《科学》发表跨校科研合作网络研究，证实跨院校跨地域合作成为增长最快且引文溢价最高的科研组织形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
 > - **2009** 在《经济研究评论》发表《知识负担与“死亡发明家”生命周期》，确立知识门槛上升对学者全生命周期产出效能的约束模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 44–45)]]
-> - **2010** 在《经济学与统计学评论》（*Review of Economics and Statistics*）发表针对 20 世纪重大发明的年龄分布研究，揭示理论型与经验型创新的生命周期分化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
+> - **2010** 在《经济学与统计学评论》（*Review of Economics and Statistics*）发表针对 20 世纪重大发明的年龄分布研究，揭示理论型与[[Experimental Innovators|经验型创新]]的生命周期分化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
 
 ---
 
 > [!work-line] 主要论著
-> - **2007 — *The Increasing Dominance of Teams in the Production of Knowledge*（《科学》）** 与 Stefan Wuchty 和 [[Brian Uzzi]] 合作，分析 1,990 万篇期刊论著与 210 万件专利，提出相对团队影响力（RTI），证实团队产出在几乎所有科学门类中的全面引文超越。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **2008 — *Multi-University Research Teams: Shifting Ground, Diverse Contributors, or Extreme Collaborators?*（《科学》）** 证实跨校科研团队在过去三十年间迅猛崛起，其产出顶级成果的几率显著超越单一机构内部合作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
+> - **2007 — *The Increasing Dominance of Teams in the Production of Knowledge*（《科学》）** 与 [[Stefan Wuchty]] 和 [[Brian Uzzi]] 合作，分析 1,990 万篇期刊论著与 210 万件专利，提出相对团队影响力（RTI），证实团队产出在几乎所有科学门类中的全面引文超越。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **2008 — *[[Multi-University]] Research Teams: Shifting Ground, Diverse Contributors, or Extreme Collaborators?*（《科学》）** 证实跨校科研团队在过去三十年间迅猛崛起，其产出顶级成果的几率显著超越单一机构内部合作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
 > - **2009 — *The Burden of Knowledge and the "Death of the Inventor" Life Cycle*（《经济研究评论》）** 形式化推导了知识前沿扩张推迟科研活跃起始年龄并压低研发人均产出的微观机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 44–45)]]
 > - **2010 — *Age and Great Invention*（《经济学与统计学评论》）** 运用诺贝尔奖得主与大发明家全量数据库，揭示创新巅峰年龄后移 6 岁并实证检验了理论学者与经验学者的生命周期差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 40–48)]]
 
@@ -81,18 +91,18 @@ updated: 2026-10-30
 > [!claim] 核心思想
 > 本杰明·F·琼斯（Benjamin F. Jones）主张，科学创新的组织形式演变与个体产出规律深植于人类知识存量的几何级增长。面对个人有限生理认知能力与无限知识海洋的根本矛盾，知识负担迫使学者推迟独立产出时间，并驱动现代科学从个体孤胆探索走向多学科大规模团队协作。
 
-> [!citation-card] 琼斯论通才消亡与团队分工拼图
-> 知识存量膨胀导致单个创新者无法再掌握相邻领域的工具，迫使学者极度专业化，导致通才消亡；这倒逼科研人员通过团队协作组装异质分工拼图，以攻克复杂的科学前沿。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
+> [!citation-card] 琼斯论[[Polymath|通才]]消亡与团队分工拼图
+> 知识存量膨胀导致单个创新者无法再掌握相邻领域的工具，迫使学者极度专业化，导致通才消亡；这倒逼科研人员通过团队协作[[Assemblage|组装]]异质分工拼图，以攻克复杂的科学前沿。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓展内生经济增长理论，在宏观研发增长模型中补足了人力资本攀爬前沿的微观摩擦成本与有效创新窗口约束。
-> - **方法路径** 融合专利数据库、诺贝尔奖全样本履历与计量经济学准自然实验（如世界大战受训阻断），确立宏观创新经济学实证范式。
-> - **政策路径** 直接影响美国科学基金会（NSF）与国立卫生研究院（NIH）针对青年学者早期独立资助的政策制定，推动跨学科团队资助倾斜。
+> - **理论路径** 拓展内生经济增长理论，在宏观研发增长模型中补足了[[Human Capital Theory|人力资本]]攀爬前沿的微观摩擦成本与有效创新窗口约束。
+> - **方法路径** 融合专利数据库、诺贝尔奖全样本履历与计量经济学准自然实验（如世界大战受训阻断），确立宏观创新经济学实证[[Paradigm|范式]]。
+> - **政策路径** 直接影响美国科学基金会（[[National Science Foundation|NSF]]）与国立卫生研究院（[[National Institutes of Health|NIH]]）针对青年学者早期独立资助的政策制定，推动跨学科团队资助倾斜。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 深入引用琼斯关于知识负担理论与年龄成就曲线的实证，并深度引用其关于团队科学主导地位（RTI）与跨校合作网络扩张的奠基研究。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 深入引用琼斯关于知识负担理论与年龄成就曲线的实证，并深度引用其关于[[Team Science|团队科学]]主导地位（RTI）与跨校合作网络扩张的奠基研究。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,7 @@ related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
 related_facts:
+  - "[[Laser Interferometer Gravitational-Wave Observatory]]"
   - "[[Skills Toward Employment and Productivity]]"
   - "[[Workforce Pell Grants 2025]]"
 related_arguments:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-29
 > [!feature] 过程知识的核心生产与传递机制
 > - **人身近距接触与现场浸润** 科学社会学家哈里·科林斯（Harry Collins）对 1970 年代横向激发大气压（TEA）激光器实验室复制史的考察表明：仅凭公开论文与图纸，全球无一实验室能够成功复现；所有成功者均曾亲自派遣学者进驻原作者实验室与技师共同调试，且复现者往往无法用语言穷尽其所习得的手法。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **研发与制造的物理邻近性（Physical Proximity）** 半导体物理学家从产线良率攻坚中提炼前沿理论难题，机器人工程师在数控机床旁依据切削振动即时修改机械结构设计；科学研究与实体生产的近距离互动构成了知识迭代的生命线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
-> - **学徒动手技艺先于理论抽象** 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（LIGO）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
+> - **学徒动手技艺先于理论抽象** 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（[[Laser Interferometer Gravitational-Wave Observatory|LIGO]]）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 
 ---
 
@@ -157,6 +158,6 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，系统提出过程知识理论框架，阐释技术三形态、激光复现与 LIGO 技艺案例，主张以社区学院、[[Apprenticeship|学徒制]]与区域[[Innovation Hub|创新中心]]守护国家制造公地。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，系统提出过程知识理论框架，阐释技术三形态、激光复现与 [[Laser Interferometer Gravitational-Wave Observatory|LIGO]] 技艺案例，主张以社区学院、[[Apprenticeship|学徒制]]与区域[[Innovation Hub|创新中心]]守护国家制造公地。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — [[Evolutionary Economics|演化经济学]]经典[[Document|文献]]，详尽论证车间工艺学习、[[Total Quality Management|全面质量管理]]与现场[[Learning by Doing|干中学]]是战后东亚跨越式[[Technological Catch-up|技术追赶]]的核心动力，深刻批判西方轻视过程知识的单纯研发指标论。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 批判线性模型深层文化偏见，论证工程发明与仪器研制对基础理论探索的前提使能作用。

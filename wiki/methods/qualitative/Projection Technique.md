@@ -8,7 +8,7 @@ summary: "通过媒介（如虚拟世界中的化身）让个体外化自我、�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-10-29
 > [!method-fit] 适用判断
 > - **适合使用** 涉及敏感或争议性议题的研究（如公民身份、宗教认同、政治价值观）；需要探索个体内在世界如何[[Externalization\|外化]]和被讨论的情境；真实世界群体互动可能因伦理或实践原因不可行的情境。[[Virtual World\|虚拟世界]]中的投射技术具有独特优势：[[Avatar\|化身]]提供的匿名性降低了对自我审查和群体期望的敏感性，参与者在安全环境中更愿意公开、诚实和真实地表达观点。经典投射技术（如图片、玩偶、画画）特别适合**儿童访谈**——避免直接提问可能引发的偏差回答（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 459–460]]），也适合**沟通困难者和边缘群体**——提供替代沟通方式，将焦点从[[Deficiencies Model for an Introduction\|缺陷模型]]转向积极模型（Kelly, 2007, pp. 25–28）。
 > - **谨慎使用** 虚拟世界版本需要确保技术基础设施到位；经典版本中，研究者对投射内容的诠释可能引入偏见——儿童先评论种族还是性别，不等同于其真实态度层级。
-> - **不适合使用** 需要严格控制[[Variable\|变量]]的实验设计；参与者无法获得技术接入或技术素养不足的情境（虚拟世界版本）；需要用封闭式问题获取精确测量数据的情境。
+> - **不适合使用** 需要严格控制[[Variable\|变量]]的[[Experimental Research|实验设计]]；参与者无法获得技术接入或技术素养不足的情境（虚拟世界版本）；需要用封闭式问题获取精确测量数据的情境。
 
 ---
 

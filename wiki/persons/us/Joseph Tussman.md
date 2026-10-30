@@ -6,7 +6,7 @@ summary: "美国哲学家、教育理论家，加州大学伯克利分校哲学�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Western Civilization Course]]"
   - "[[Canon Wars]]"
   - "[[Technological Republic]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -105,5 +106,5 @@ updated: 2026-10-22
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Western Civilization Course]] | 概念 | 深度参与加州大学通识核心课程改革并提出经典质问。 |
-> | [[Canon Wars]] | 概念 | 1968 年质问大纲选目特权，成为经典之争的关键文献记录。 |
+> | [[Canon Wars]] | 概念 | 1968 年质问大纲选目特权，成为经典之争的关键[[Document\|文献]]记录。 |
 > | [[1968 Stanford Western Civ Reform]] | 事实 | 与斯坦福改革处于同一历史时期，反映了西海岸高校正典必修模式的系统危机。 |

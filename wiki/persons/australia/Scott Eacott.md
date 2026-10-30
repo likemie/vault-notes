@@ -8,7 +8,7 @@ summary: "澳大利亚教育行政学者，关系取向组织理论与领导力�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
+  - "[[Habitus]]"
   - "[[School Leadership]]"
   - "[[Construct]]"
   - "[[Technical Rationality]]"
@@ -48,6 +49,7 @@ related_methods:
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[John Hattie]]"
+  - "[[James C. Scott]]"
   - "[[Klaus Nielsen]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -75,14 +77,14 @@ updated: 2026-10-22
 > - **代表贡献** 新泰勒主义教育治理批判、平行独白理论、关系取向教育组织理论（*Beyond Leadership*）。
 
 > [!citation-card] 人物定位的关键来源
-> 斯科特·埃考特专注于教育行政与领导力领域的社会[[Epistemology|认识论]]、组织理论和学术实践逻辑研究。他将布迪厄的社会理论和认识论概念引入教育行政研究，提出了关于教育领导力[[Knowledge Production|知识生产]]条件的系统性反思。他自述从不回避坚定的学术主张，这一鲜明学术风格使他的工作在学术界引发了强烈的正面共鸣与争议反弹。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 774, 776)]]
+> [[James C. Scott|斯科特]]·埃考特专注于教育行政与领导力领域的社会[[Epistemology|认识论]]、组织理论和学术实践逻辑研究。他将布迪厄的社会理论和认识论概念引入教育行政研究，提出了关于教育领导力[[Knowledge Production|知识生产]]条件的系统性反思。他自述从不回避坚定的学术主张，这一鲜明学术风格使他的工作在学术界引发了强烈的正面共鸣与争议反弹。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 774, 776)]]
 >
 > *Scott Eacott works on social epistemology, organizational theory and the logic of academic practice in educational administration and leadership, bringing Bourdieu's concepts to bear on the conditions of knowledge production.*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **2011** 发表于 *Journal of Educational Administration and History*，以[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与习性框架剖析新南威尔士州校长培养计划，揭示管理主义对校长角色的工具化规训。[[Argument_Eacott_2011_JEAH|(Eacott, 2011)]]
+> - **2011** 发表于 *Journal of Educational Administration and History*，以[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与[[Habitus|习性]]框架剖析新南威尔士州校长培养计划，揭示管理主义对校长角色的工具化规训。[[Argument_Eacott_2011_JEAH|(Eacott, 2011)]]
 > - **2015** 发表于 *Educational Philosophy and Theory*，论述教育行政学者自身的具身嵌入性塑造其智识凝视，奠定教育领导力社会[[Epistemology|认识论]]基础。[[Argument_Eacott_2015_EPT|(Eacott, 2015)]]
 > - **2017** 发表于 *[[School Leadership]] & Management*，发表里程碑论文《学校领导力与[[Cult of the Guru|大师崇拜]]：[[John Hattie|哈蒂]]的[[Neo-Taylorism|新泰勒主义]]》，引发跨国学术轰动，并引发同行向 UNSW 科研副校长正式投诉与哈蒂本人的公开反驳。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]
 > - **2018** 出版学术专著 *Beyond Leadership: A Relational Approach to Organizational Theory in Education*（Springer 出版社），系统阐述关系取向组织理论。

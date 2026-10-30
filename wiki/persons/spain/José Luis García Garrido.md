@@ -9,7 +9,7 @@ summary: "西班牙比较教育学家，曾任欧洲比较教育学会主席与�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - region/spain
   - theme/educational-policy
 related_concepts:
+  - "[[Distance Education]]"
   - "[[Evaluation Research]]"
   - "[[Comprehensive Education]]"
   - "[[Academic Inbreeding]]"
@@ -39,13 +40,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 西班牙比较教育学家、教育政策学者，西班牙国家远程教育大学（National University of Distance Education, UNED）比较教育学荣休教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, [[Comparative Education Society in Europe|CESE]]）主席（1988–1992）及西班牙国家教育质量与[[Evaluation Research|评估研究]]所（National Institute for Quality and Evaluation, INCE）主任。
+> - **身份位置** 西班牙比较教育学家、教育政策学者，西班牙国家[[Distance Education|远程教育]]大学（National University of Distance Education, UNED）比较教育学荣休教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, [[Comparative Education Society in Europe|CESE]]）主席（1988–1992）及西班牙国家教育质量与[[Evaluation Research|评估研究]]所（National Institute for Quality and Evaluation, INCE）主任。
 > - **核心角色** 西班牙当代比较教育研究与政策评论的关键奠基人；在欧洲一体化进程中系统审视西班牙教育的制度同质化、百年孤立主义传统、行政过度分权危机与质量短板。
 > - **代表贡献** 提出西班牙教育史中亲欧主义与孤立主义的双重张力；解构狂热地方分权造成的制度解体隐患；批判[[Comprehensive Education|综合中学制]]延长的均质化弊端。
 

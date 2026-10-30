@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Teacher Support for Students]]"
   - "[[Advanced Placement Program]]"
+  - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[Twelfth-Grade Slump]]"
   - "[[Magnet Schools]]"
@@ -41,7 +42,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Liberal Education]]"
   - "[[Achievement and Aptitude Tests]]"
-  - "[[Theory of Knowledge]]"
   - "[[Foreign Languages]]"
   - "[[Hawthorne Effect]]"
   - "[[Service Learning]]"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Educational Decentralization]]"
   - "[[Policy Window]]"
   - "[[Heterogeneity]]"
+  - "[[Student Motivation]]"
   - "[[Preregistration]]"
   - "[[Extracurricular Activities]]"
   - "[[Creativity]]"
@@ -80,7 +81,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 ---
 
@@ -132,7 +133,7 @@ updated: 2026-10-23
 
 > [!factors] 推动北美扩张的五项条件
 > - **地方课程自主权（local curriculum autonomy）** 美国和加拿大的课程与成绩标准主要由学校和学区掌握，公立高中无需等待全国课程改革即可采用 IB。相同机制在中央课程或统一考试体系中较难出现（pp. 134–136）。
-> - **[[Advanced Placement Program\|大学先修课程项目]]（Advanced Placement Program，AP）** AP 已为高中提供外部课程与大学分班考试的制度先例，也帮助大学理事会与 IB 建立合作；IB 的差异在于整套课程、知识论、[[Extended Essay\|拓展论文]]和社会服务，而非学生自选若干强项科目（pp. 136, 139–140）。
+> - **[[Advanced Placement Program\|大学先修课程项目]]（Advanced Placement Program，AP）** AP 已为高中提供外部课程与大学分班考试的制度先例，也帮助大学理事会与 IB 建立合作；IB 的差异在于整套课程、[[Theory of Knowledge|知识论]]、[[Extended Essay\|拓展论文]]和社会服务，而非学生自选若干强项科目（pp. 136, 139–140）。
 > - **教育质量危机（crisis of educational standards）** 对“[[Twelfth-Grade Slump\|十二年级滑坡]]”、优秀学生缺少挑战以及学术标准下降的担忧，为学校寻找严格课程提供动机；1983 年的《[[A Nation at Risk 1983\|国家处于危险中]]》把这一问题推向公共议程（pp. 136–139）。
 > - **区域法人化（regional incorporation）** [[International Baccalaureate North America\|IBNA]] 作为纽约非营利法人可向北美基金会募资、聘用高层董事并为本地推广编列预算，同时由日内瓦继续控制课程与考试标准（pp. 140–147）。
 > - **教师实施网络（teacher implementation network）** 介绍会促成学校考虑申请，培训工作坊则让有经验教师、考官与新校教师分享课程知识。教师支持与教师额外劳动之间的平衡决定采用能否持续（pp. 149–152）。
@@ -593,7 +594,7 @@ updated: 2026-10-23
 
 > [!case] Ashbury：把国际课程嵌入安大略省毕业制度
 > - **学校背景** Ashbury 于 1891 年在渥太华创办，最初仿照英国公学，学生由 17 人增至约 450 人并含寄宿生；学生虽以加拿大人为主，也来自加勒比、中国、东欧、香港、拉丁美洲、马来西亚、中东、斯堪的纳维亚、英国和美国。
-> - **采用动机** 1975 年引入 IB，学校强调课外学习动机、对资优学生的挑战、国际成绩标准、大学承认、分班利益和结构化课程，并明确把 IB 理解为教育体系而非一组考试。
+> - **采用动机** 1975 年引入 IB，学校强调课外[[Student Motivation|学习动机]]、对资优学生的挑战、国际成绩标准、大学承认、分班利益和结构化课程，并明确把 IB 理解为教育体系而非一组考试。
 > - **课程嵌入** 安大略省高中毕业要求高度分权并依赖教师评价，学生可以用共同课程同时取得省级与国际资格。教师把 TOK 发展为十三年级哲学课程，获得省教育部学分承认；完整文凭作为核心，外围学生参加单科 IB 考试并计入省毕业课程。
 > - **规模变化** 1985 年十二年级 60 人中，12 人为完整文凭考生，64 人次注册单科考试；1986 年[[Preregistration\|预注册]]显示完整文凭可能增至 20 人。
 > - **解释边界** Ashbury 是收费私立学校且只有小规模奖学金，却与公立磁石学校共享学术卓越目标。案例说明不同财政形式可以采用同一课程，不能据此推断参与机会相同（pp. 156–157）。

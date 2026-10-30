@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2025年11月启动，设定十年生产率翻倍目标"
 initiator_organization: "美国能源部（DOE）"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Research Universities]]"
+  - "[[Document]]"
   - "[[Process Knowledge]]"
   - "[[Data Infrastructure]]"
   - "[[Gold Standard Science]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 理论定位与治理启示
-> - **生成能力必须与核验能力同等规模扩大** 创世纪计划被定位为一台具有空前发现产能的“科学生成器”；但[[Michael Kratsios|克拉齐奥斯]]报告强调，若上游文献充斥不可复现的错误结论，AI 模型将产生灾难性的虚假共识。因此，该计划必须与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》严格配对，通过机器可读的代码复现包与自动化协议同步构筑“核验基础设施”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
+> - **生成能力必须与核验能力同等规模扩大** 创世纪计划被定位为一台具有空前发现产能的“科学生成器”；但[[Michael Kratsios|克拉齐奥斯]]报告强调，若上游[[Document|文献]]充斥不可复现的错误结论，AI 模型将产生灾难性的虚假共识。因此，该计划必须与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》严格配对，通过机器可读的代码复现包与自动化协议同步构筑“核验基础设施”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
 > - **以采购规模倒逼仪器接口开放与标准化** 长期以来科学仪器行业的封闭生态导致数据格式碎片化，阻碍了自动化实验流水线搭建；创世纪计划依托国家实验室庞大的仪器采购规模，强制推行通用数据交换标准与开放 API 接口。
 > - **[[Process Knowledge|过程知识]]与实体制造的最终约束** 即使算法与假设生成完全智能化，材料与器件的最终定型仍深植于熟练工匠的排障手感与实体产线工程能力之中，凸显了[[Process Knowledge|过程知识]]在智能时代的不可替代性。
 

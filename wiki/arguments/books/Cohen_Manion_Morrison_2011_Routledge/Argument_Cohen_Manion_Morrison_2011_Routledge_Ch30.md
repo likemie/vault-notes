@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -35,7 +35,9 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Working Memory]]"
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
+  - "[[Text Generation]]"
   - "[[Emergence]]"
   - "[[Research Purpose]]"
   - "[[Reflexivity]]"
@@ -61,6 +63,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
+  - "[[Social Support]]"
   - "[[Falsification]]"
   - "[[School Leadership]]"
   - "[[Operationalization]]"
@@ -82,6 +85,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Data Display]]"
   - "[[Accounts]]"
+  - "[[Experimental Research]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Multi-phase Sampling]]"
   - "[[Random Sampling]]"
@@ -102,7 +106,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-09-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -116,9 +120,9 @@ updated: 2026-10-22
 > [!abstract] Box 30.1　议题清单
 > - **编码** 编码的界定与检索功能、覆盖材料面向、描述性编码分类、编码迭代与[[Working Memory\|工作记忆]]负荷限制、[[Open Coding\|开放编码]]、分析编码、[[Axial Coding\|主轴编码]]、[[Selective Coding\|选择性编码]]、编码包容层级、表格化数据比较分析（表30.1）与去情境化风险。
 > - **什么是内容分析？** 严格定义、文本性质、非介入性特征、公开可检验性、量质结合取向、三大推论任务与语言建构事实分类。
-> - **内容分析的操作规程** Flick 的七阶段模型、11步标准化操作流程（确定[[Research Question\|研究问题]]、文本总体与抽样、文献生成情境、[[Unit of Analysis\|分析单位]]、编码与范畴构建、[[Domain Analysis\|领域分析]]、Mayring 三类内容分析进路、统计与质性数据分析、理论生成）。
+> - **内容分析的操作规程** Flick 的七阶段模型、11步标准化操作流程（确定[[Research Question\|研究问题]]、文本总体与抽样、[[Document|文献]]生成情境、[[Unit of Analysis\|分析单位]]、编码与范畴构建、[[Domain Analysis\|领域分析]]、Mayring 三类内容分析进路、统计与质性数据分析、理论生成）。
 > - **内容分析的实操范例** 教师工作压力案例的五阶段分析：提取评注并粗赋码（33条陈述）、确定四大主题领域、画线计频、组内二级细分归组以消除重叠，以及提炼14项实质性理论洞见。
-> - **内容分析的信度与效度** 14项信度威胁（有意与无意证据、文本生成意图、同形多义词、聚合尺度反比规律等）以及预设范畴体系与经验归纳[[Emergence\|涌现]]的方法论论辩。
+> - **内容分析的信度与效度** 14项信度威胁（有意与无意证据、[[Text Generation|文本生成]]意图、同形多义词、聚合尺度反比规律等）以及预设范畴体系与经验归纳[[Emergence\|涌现]]的方法论论辩。
 
 > [!question] 核心问题
 > - **[[Coding in Qualitative Research|质性编码]]的本质是什么，如何建立从描述到理论的编码层级？** 编码如何充当类似书籍索引系统的功能，开放编码、分析编码、主轴编码与选择性编码如何层层递进，工作记忆容量限制如何影响编码迭代？
@@ -303,7 +307,7 @@ updated: 2026-10-22
 > - **用途** 兼具非介入性观察、大规模文献缩减、开放题编码、主题频次统计与文化趋势推断，广泛应用于跨学科社会结构与互动研究（Weber, 1990；Anderson & Arsenault, 1998）。
 > - **边界** 仅适用于留存的永久性文本；文本不具备独立于读者的自明客观性，脱离语境的机械字面统计容易导致深层语义误判。
 
-内容分析最初起源于对大众传媒和公共政治演说的分析，随后扩展至所有形式的结构化与非结构化传播材料。罗伯特·韦伯（Robert Weber）指出，内容分析可广泛应用于文化、社会结构与社会互动的[[Comparative Education as a Cross-Sectional Area|交叉领域]]、实验设计中[[Dependent Variable|因变量]]的生成，以及将特定群体作为社会缩影的微观考察（Weber, 1990, p. 11）。
+内容分析最初起源于对大众传媒和公共政治演说的分析，随后扩展至所有形式的结构化与非结构化传播材料。罗伯特·韦伯（Robert Weber）指出，内容分析可广泛应用于文化、社会结构与社会互动的[[Comparative Education as a Cross-Sectional Area|交叉领域]]、[[Experimental Research|实验设计]]中[[Dependent Variable|因变量]]的生成，以及将特定群体作为社会缩影的微观考察（Weber, 1990, p. 11）。
 
 > [!strength] 内容分析的核心方法优势与学术特征（pp. 563–564）
 > - **非介入性观察技术（Unobtrusive Technique）** 研究者可以在不介入、不打扰行动者的情况下静默观察与分析，避免了研究者在场带来的[[Hawthorne Effect\|霍桑效应]]与观察者反应偏差（Robson, 1993, p. 280；Krippendorff, 2004, p. 40）。
@@ -536,7 +540,7 @@ updated: 2026-10-22
 > - **原因领域（CAUSE）四维解构** 引入组织社会学透镜细分为个人因素（12 项次，内心体验与无力感）、人际因素（7 项次，同事推诿与信任破裂）、管理因素（6 项次，领导失职与体制失控）以及专业事务（14 项次，常规负荷与诚信坚守）。
 > - **性质领域（NATURE）主客二分** 划分为客观系统特征（多任务死局、滚雪球累积、恶性循环）与主观体验规律（重要性认知赋权、关系亲密度调节）。
 > - **结果领域（OUTCOME）三层分离** 细分为生理层面（严重失眠）、躯体层面（生理反应与自毁行为加剧）与心理层面（情绪恼怒与挫败）。
-> - **应对领域（HANDLING）两极映射** 细分为身体排解（体育锻炼）与社会支持（同伴陪伴与社会团结）。
+> - **应对领域（HANDLING）两极映射** 细分为身体排解（体育锻炼）与[[Social Support|社会支持]]（同伴陪伴与社会团结）。
 > - **双重赋码系统化解** 复合属性在多维坐标中获得准确定位：例如第 31 条自伤行为在结果领域定位为躯体后果，在应对领域归为消极排解；第 21 条诚信妥协同时映射到人际信任与专业事务两大范畴。
 
 多维包容重构将离散子议题整合为层级架构（pp. 572–573）：

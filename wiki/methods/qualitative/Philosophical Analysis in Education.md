@@ -7,7 +7,7 @@ summary: "通过概念区分、逻辑推理和哲学论证分析教育政策与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Empiricism]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Technical Rationality]]"
   - "[[Category Mistake]]"
@@ -61,7 +62,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** 规范性哲学探究、概念分析与批判话语审视。
-> - **数据收集** 经典哲学文献、政策法规文本、实证研究论文与实践论述材料。
+> - **数据收集** 经典哲学[[Document|文献]]、政策法规文本、实证研究论文与实践论述材料。
 > - **分析方法** 范畴区分、内在批判、还原论辨析、假说反思与结构性归谬推导。
 > - **辅助技术** 概念史梳理、隐喻分析与思想实验。
 

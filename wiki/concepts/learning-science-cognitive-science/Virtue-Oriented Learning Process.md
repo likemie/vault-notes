@@ -8,7 +8,7 @@ aliases:
 summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心、专心、尊师和谦虚等学习美德组织学习行为，目标是通过美德实践实现自我完善"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Student Attitude]]"
   - "[[Self-Cultivation]]"
+  - "[[Note-Taking]]"
   - "[[Homework]]"
   - "[[Familiarization]]"
   - "[[Chinese Learner]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -73,7 +74,7 @@ updated: 2026-10-22
 诚心／认真是整个学习过程的入场门槛。它意味着学习者从内心真正重视学习、严肃对待学习，放低自我、敞开心扉、接受教导([[Argument_Li_2012_Cambridge|Li, 2012, pp.124-125]])。
 
 **课堂中的表现**包括([[Argument_Li_2012_Cambridge|Li, 2012, pp.124-125]])：
-- 即使非常年幼的学前儿童也需配合教师：被要求坐好、听讲、看黑板、记笔记、回答问题、做[[Homework|作业]]时，不应抗拒
+- 即使非常年幼的学前儿童也需配合教师：被要求坐好、听讲、看黑板、[[Note-Taking|记笔记]]、回答问题、做[[Homework|作业]]时，不应抗拒
 - 不应干扰教学和其他儿童的学习——不闲聊、不笑闹、不离座、不随意离开教室
 - 这种"合作"不仅是为自己的学习负责，更是尊重其他儿童"学习的权利"
 

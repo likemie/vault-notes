@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Research Question]]"
   - "[[Agendas of Attention]]"
+  - "[[Teacher Questioning]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Thomas Theorem]]"
@@ -66,7 +67,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -162,7 +163,7 @@ updated: 2026-10-22
 > | 意义建构公设（Blumer, 1969; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, p. 25]]） | **主观意义与事物定义** 行动者如何用自己的语言定义当前的人、事物或任务？他们赋予了何种情感与价值属性？ | 受访者自发使用的隐喻、代称、俚语；关于“这意味着什么”的解释性陈述。 | 严禁套用预设量化量表；以受访者本土词汇（Emic）为准判定其意义赋予结构。 |
 > | 动态涌现公设（Woods, 1979; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, p. 26]]） | **面对面协商与策略妥协** 互动双方在冲突或规则分歧时如何进行试探？妥协是如何逐步达成的？ | 会话停顿、打断、反讽、笑声、妥协性提议、策略性退让过程记录。 | 规则若未经过互动磨合，极易沦为空洞形式；出现双方策略调整表明动态协商正在发生。 |
 > | [[Role-playing\|角色扮演]]与[[Reflexivity\|反身性]]（Mead, 1934; Goffman, 1959） | **前台表演与印象管理** 行动者在不同受众面前采取了何种角色扮演策略？如何掩饰与公开展现？ | 办公室前台言行 vs 休息室后台吐槽；在权威[[Agendas of Attention\|在场与缺席]]时的姿态转换。 | 区分前台公开表态与后台私人叙事；二者落差反映印象管理的策略深度与制度张力。 |
-> | 托马斯定理与情境定义（Thomas, 1928; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, p. 27]]） | **标签化与自证预言** 教师对学生的标签（如“差生”、“捣蛋鬼”）如何被互动双方共同坐实并产生实际后果？ | 评语文本、课堂提问偏好、被标签化学生的顺应性或反叛性回应。 | 标签一旦被双方在互动中接受为真实[[Thomas Theorem\|情境定义]]，其后果便具有客观实在性。 |
+> | 托马斯定理与情境定义（Thomas, 1928; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, p. 27]]） | **标签化与自证预言** 教师对学生的标签（如“差生”、“捣蛋鬼”）如何被互动双方共同坐实并产生实际后果？ | 评语文本、[[Teacher Questioning\|课堂提问]]偏好、被标签化学生的顺应性或反叛性回应。 | 标签一旦被双方在互动中接受为真实[[Thomas Theorem\|情境定义]]，其后果便具有客观实在性。 |
 
 ---
 

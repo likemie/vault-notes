@@ -33,7 +33,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -69,6 +69,6 @@ updated: 2026-10-22
 ---
 
 > [!tension] 催化效度的争议核心
-> - **效度作为政治工具** 支持者认为催化效度使研究与其对社会的伦理责任保持一致。Lather 将其与 Freire 的"意识化"（[[Conscientization]]）概念相联系——研究应赋权参与者理解和转变他们被压迫的处境。
+> - **效度作为政治工具** 支持者认为催化效度使研究与其对社会的伦理责任保持一致。Lather 将其与 Freire 的"[[Conscientization|意识化]]"（[[Conscientization]]）概念相联系——研究应赋权参与者理解和转变他们被压迫的处境。
 > - **效度作为方法论语境依赖** 批评者质疑：如果研究没有导致可验证的行动后果——是因为研究本身无效，还是因为政治和制度性障碍阻止了变革？催化效度将方法论问题与政治条件混淆了。此外，强制研究者采取特定的意识形态立场可能构成另一种形式的学术权力行使——用一种正统取代另一种正统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
 

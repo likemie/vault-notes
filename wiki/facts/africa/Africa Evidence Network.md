@@ -10,7 +10,7 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Research Utilization]]"
   - "[[Mentorship]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-26
 ---
 
 > [!pathways] 业务运行机制与证据利用
-> - **线性产出分发路径（Linear Pathway）** 维护政策研究[[Open Knowledge Repository|开放知识库]]，汇集全非本土研究成果，定期向决策者推送政策简报与主题文献清单。
+> - **线性产出分发路径（Linear Pathway）** 维护政策研究[[Open Knowledge Repository|开放知识库]]，汇集全非本土研究成果，定期向决策者推送政策简报与主题[[Document|文献]]清单。
 > - **关系性社群连接路径（Relational Pathway）** 常态化组织 EVIDENCE 双年会、研讨会及能力工作坊，建立跨越学者与决策层的人际信任与双向对话空间。
 > - **系统性制度建设路径（Systemic Pathway）** 协助政府部门构建循证流程规范、制度化数据架构与循证咨询审议规程，提高公共机构消化实证的组织承载力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 15)]]
 

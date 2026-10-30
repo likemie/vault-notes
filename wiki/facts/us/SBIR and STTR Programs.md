@@ -14,7 +14,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Seed Funding]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods: []
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-10-26
 > | [[Activate Fellowship]] | Fact (Program) | 能源部支持的硬科技科学家创业孵化器，与 SBIR 形成紧密选题与资金接力联动。 |
 > | [[Competitiveness]] | Concept | 1980 年代初美国出台 SBIR 促进中小企业技术创新的核心国家战略诉求。 |
 > | [[Seed Funding]] | Concept | SBIR 第一阶段资助在国家[[Innovation Ecosystem\|创新生态]]中所履行的早期概念验证功能。 |
-> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025]] | Argument | 详述 SBIR/STTR 作为非稀释性资助与客户声音验证机制的核心文献。 |
+> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025]] | Argument | 详述 SBIR/STTR 作为非稀释性资助与客户声音验证机制的核心[[Document\|文献]]。 |
 > | [[Argument_Cheng_2026_KeJiChuangXin\|程楠等, 2026]] | Argument | 剖析 SBIR/STTR 法定预算提取比例与三位一体管理体制的核心文献。 |
 > | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004]] | Argument | 论述 1980 年代国家科技政策演化脉络与 NSF 工程学部资助格局的核心文献。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 提出统筹 SBIR/STTR 与空军 [[AFVentures]] 私人资本匹配及实验室创业计划以加速硬科技转化的白宫战略文献。 |

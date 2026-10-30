@@ -7,7 +7,7 @@ summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Cognitive Capitalism]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 未解问题与边界
-> - **学术论证风格的个人化取向** Larsen 本人明确指出其代表作属于“个人化哲学论文”（Personal essay），其批判进路立足于概念澄清与哲学思辨，未采用对[[John Hattie|哈蒂]]批评文献的全面计量综合，因而在经验证据层面保持了明确的理论侧重。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2–3)]]
+> - **学术论证风格的个人化取向** Larsen 本人明确指出其代表作属于“个人化哲学论文”（Personal essay），其批判进路立足于概念澄清与哲学思辨，未采用对[[John Hattie|哈蒂]]批评[[Document|文献]]的全面计量综合，因而在经验证据层面保持了明确的理论侧重。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2–3)]]
 > - **替代方案的建构成熟度** 其提出的 [[Bildung]] 与具身化替代框架自称为“从侧翼发起的突围尝试”，如何将宏大的哲学理念切实转化为中小学日常教学论指引，仍需后续经验与理论研究的进一步充实。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
 
 ---

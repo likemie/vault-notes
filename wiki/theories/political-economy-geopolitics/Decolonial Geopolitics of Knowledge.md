@@ -5,7 +5,7 @@ aliases:
 summary: "从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Knowledge Transfer]]"
   - "[[Decodification]]"
+  - "[[Epistemic Stances]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Praxis]]"
   - "[[Knowledge-Based Economy]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!tip] 核心主张
@@ -101,7 +102,7 @@ updated: 2026-10-22
 
 ---
 
-> [!info] 认识论立场
+> [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology\|本体论]]** 实在不是单一的——存在多种同时有效的现实和存在方式（ontological [[Pluralism]]）。欧洲现代性只是其中一种，不是普遍的基准
 > - **[[Epistemology\|认识论]]** 所有知识都"位于"（situated）特定的地理-历史-政治位置中——不存在"无处所的"普遍知识。西方认识论将自身呈现为普遍有效，正是其霸权运作的核心机制——通过隐藏自身的位置性来主张普遍性
 > - **常用方法** 历史[[Discourse Analysis\|话语分析]]、殖民[[Archival Research\|档案研究]]、反叙事（counter-narrative）建构、参与式[[Action Research\|行动研究]]

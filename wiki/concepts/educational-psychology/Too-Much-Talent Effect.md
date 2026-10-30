@@ -8,10 +8,25 @@ aliases:
 summary: "描述团队内部高天赋、高威望或顶尖成员比例过高反而导致整体绩效下滑的组织与心理学现象；在需要高度任务相互依存性与紧密协调的场景中尤为剧烈，其核心机制在于多位权威个体之间争夺主导权所引发的地位内耗与协调破裂。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
+related_concepts:
+  - "[[Team Science]]"
+  - "[[Discourse]]"
+  - "[[Assemblage]]"
+  - "[[Metascience]]"
+  - "[[Variable]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Effect Size]]"
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -24,7 +39,7 @@ updated: 2026-10-30
 > 人才过剩效应（Too-Much-Talent Effect）是指在高度依赖成员紧密协调与任务相互依存性的团队中，顶尖成员比例过高反而导致整体产出与绩效下滑的组织心理学现象。该效应由组织行为学家与心理学家基于职业体育与高等教育科研团队大数据系统提出，揭示顶尖个体因争夺学术主导权与声望垄断引发的地位竞争和协调破裂。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向团队微观权力拓扑与分工生态的非线性失衡，强调个体人力资本的简单叠加不等于集体协同效能。
+> - **含义** 指向团队微观权力拓扑与分工生态的非线性失衡，强调个体[[Human Capital Theory|人力资本]]的简单叠加不等于集体协同效能。
 > - **用途** 帮助科研机构管理者、学科带头人与项目团队反思单纯重金延揽大牌学者的引智策略，评估团队内部任务互依度与协同生态。
 > - **边界** 该效应高度依赖于任务相互依存度；在各自独立作战、仅需汇总结果的弱互依任务中，该负向效应并不成立。
 
@@ -34,7 +49,7 @@ updated: 2026-10-30
 > *What unfolded in Duke’s English department is often described by psychologists as the too-much-talent effect, and it applies to several other team settings as well... Alas, it seemed that professors in the all-star department had not been busy with research or teaching, but with waging ego-fueled wars against one another.*
 
 > [!boundary]- 概念边界
-> - 不等于 团队科学中的常规跨学科语言误解与沟通摩擦 — 人才过剩效应特指由个体声望过高与地位对立引发的结构性排斥，而非专业知识壁垒导致的理解障碍。
+> - 不等于 [[Team Science|团队科学]]中的常规跨学科语言误解与沟通摩擦 — 人才过剩效应特指由个体声望过高与地位对立引发的结构性排斥，而非专业知识壁垒导致的理解障碍。
 > - 不适用于 独立汇总型任务 — 在不需要成员高频互动的模块化任务中，汇聚顶尖人才能直接带来产出最大化，不触发该效应。
 
 ---
@@ -74,7 +89,7 @@ updated: 2026-10-30
 > **探讨维度　权力博弈与协调破裂机制** 探讨团队顶尖成员比例与整体胜率及协作产出的非线性关联规律。
 
 > [!claim] Swaab, R. I. et al.
-> **倒 U 形绩效曲线与主导权争夺** 罗德里克·斯瓦布（Roderick I. Swaab）等实证检验了顶尖人才比例对团队胜率的非线性影响。在任务相互依存度极高的团队中，人才占比与绩效呈倒 U 形关系；顶尖成员比例过高时，人人争夺话语主导权，角色模糊与战术协调破裂系统性拉低整体水准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 113)]]
+> **倒 U 形绩效曲线与主导权争夺** 罗德里克·斯瓦布（Roderick I. Swaab）等实证检验了顶尖人才比例对团队胜率的非线性影响。在任务相互依存度极高的团队中，人才占比与绩效呈倒 U 形关系；顶尖成员比例过高时，人人争夺[[Discourse|话语]]主导权，角色模糊与战术协调破裂系统性拉低整体水准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 113)]]
 
 ---
 
@@ -98,7 +113,7 @@ updated: 2026-10-30
 > - **1984–1998 — 杜克大学英语系盛极而衰历程** 杜克大学斥巨资引进文学界全明星教员，学科排名迅速登顶，但随后陷入恶性宗派纷争走向瓦解，成为高等教育界经典案例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
 > - **1996 — 家禽繁育超级母鸡对照实验确立** 威廉·缪尔（William M. Muir）发表家禽繁育实验，系统确立个体单兵选拔与群体协同选拔的生产力分水岭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 110–111)]]
 > - **2014 — 人才过剩效应数理模型提出** 罗德里克·斯瓦布（Roderick I. Swaab）等人在《心理科学》（Psychological Science）正式形式化 Too-Much-Talent Effect，确立任务互依度的倒 U 形调节模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 113)]]
-> - **2021 — 科学学团队组装理论整合** 王大顺与巴拉巴西在《科学的科学》将该效应作为科研团队配置与多样性优势的理论基石，系统剖析精英主义引智的制度误区。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 110–114)]]
+> - **2021 — 科学学团队[[Assemblage|组装]]理论整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在《[[Metascience|科学的科学]]》将该效应作为科研团队配置与多样性优势的理论基石，系统剖析精英主义引智的制度误区。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 110–114)]]
 
 ---
 
@@ -109,10 +124,10 @@ updated: 2026-10-30
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Swaab et al. (2014)]] | NBA 多个赛季全量球员数据与胜率矩阵；FIFA 世界杯球队全样本 | 计量非线性回归模型 | 顶级球星占比与比赛胜率、助攻协作表现的关联 | 篮球与足球领域顶尖球星占比与胜率均呈显著倒 U 形非线性关联（胜率在顶尖人才占比超过临界值后显著下滑）；棒球领域呈单调线性正相关 | $p < 0.05$ | 检验高互依与低互依团队的调节效应 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Muir (1996)]] | 普渡大学家禽六代选择育种对照实验（超级母鸡组 vs 群体高产组） | 动物遗传多代选择对照实验 | 六代后成活率与全笼产蛋总量 | 超级母鸡组仅存活 3 只（成活率 33.3%），产蛋量极度萎缩；高产团队组全员存活且产蛋量实现爆发式增长 | 世代方差统计显著 | 群体生产力演化微观机理验证 |

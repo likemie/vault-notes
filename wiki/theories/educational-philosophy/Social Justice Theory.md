@@ -8,7 +8,7 @@ aliases:
 summary: "混合方法研究中以变革和赋权为导向的理论类型，为边缘化和未被充分代表的人群发声，承认知识的非中立性和人类利益的普遍影响"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/social-justice
 related_concepts:
   - "[[Theoretical Perspective]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Discipline-Based Theory]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -56,7 +57,7 @@ updated: 2026-10-22
 > [!abstract|notitle]
 > 1. 在研究开头段落中指明框架（如女性主义、[[Participatory Research\|参与式研究]]）
 > 2. 在研究早期提及该框架与边缘化或未被充分代表的社区的关系，以及该社区面临的具体问题（如压迫、权力）
-> 3. 将该框架置于理论文献体系之中（如女性主义文献或种族文献）
+> 3. 将该框架置于理论[[Document|文献]]体系之中（如女性主义文献或种族文献）
 > 4. 让相关社区参与研究（如参与数据收集）
 > 5. 在[[Research Question\|研究问题]]中采取立场——倡导性导向（如"不平等确实存在，研究将着手证实它"）
 > 6. 在变革性框架内推进量化与质性方法的收集、分析和整合

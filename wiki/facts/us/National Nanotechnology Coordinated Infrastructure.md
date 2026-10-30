@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[Microelectronics Commons]]"
+  - "[[Department of Defense]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
 related_arguments:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心实证结论与战略功能
 > - **实现前沿微电子科研普惠化（Democratizing Science）** 打破尖端微纳加工高昂设备资本壁垒，使非传统[[Research Universities|研究型大学]]与缺乏经费的青年学者均能低成本验证新型材料与原型构型。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 38)]]
 > - **构建全美微纳制造中试底座** 16 个核心节点汇聚数千种先进制备与表征设备，为纳米晶体管、量子比特、宽禁带半导体与微机电系统（MEMS）提供从概念到物理原型的验证通道。（pp. 21–23）
-> - **无缝对接跨部门[[Research Translation|技术转化]]漏斗** 承接 [[National Science Foundation|NSF]] 基础科学探索成果，向国防部[[Microelectronics Commons|微电子共用体]]（DOD Microelectronics Commons）与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）输送高可行性原型。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 48)]]
+> - **无缝对接跨部门[[Research Translation|技术转化]]漏斗** 承接 [[National Science Foundation|NSF]] 基础科学探索成果，向国防部[[Microelectronics Commons|微电子共用体]]（[[Department of Defense|DOD]] Microelectronics Commons）与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）输送高可行性原型。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 48)]]
 
 > [!stat-cards]- 关键规模数据
 > - **16** （个） 分布于全美核心科技走廊的国家级微纳制造与表征学术枢纽节点。

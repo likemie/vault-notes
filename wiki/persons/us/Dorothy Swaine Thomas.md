@@ -9,7 +9,7 @@ summary: "美籍社会学家与人口学家，宾夕法尼亚大学社会学讲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,12 +22,10 @@ tags:
   - theme/sociology-of-science
   - theme/demography
   - theme/scientific-credit
-related_concepts:
-  - "[[Scientific Credit]]"
-  - "[[Matthew Effect in Academia]]"
-  - "[[Collaboration Penalty for Women]]"
+related_concepts: []
 related_theories:
   - "[[Thomas Theorem]]"
+  - "[[Symbolic Interactionism]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -68,5 +66,5 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要著作
-> - **1928 — *The Child in America: Behavior Problems and Programs*** 与威廉·伊萨克·托马斯合著；通过对儿童偏差行为的实证追踪，在第 572 页明确提出情境定义公理，奠定了微观社会学与符号互动论的方法论基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 147)]]
+> - **1928 — *The Child in America: Behavior Problems and Programs*** 与威廉·伊萨克·托马斯合著；通过对儿童偏差行为的实证追踪，在第 572 页明确提出情境定义公理，奠定了微观社会学与[[Symbolic Interactionism|符号互动论]]的方法论基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 147)]]
 > - **1946 — *The Spoilage*** 与理查德·西田合著；系统分析二战期间被强行拘留在安置中心的日裔美国人所承受的经济被剥夺与公民身份瓦解过程。

@@ -9,7 +9,7 @@ summary: "英国/马耳他认知学者、心理学家与思维技术先驱，侧
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -43,14 +43,15 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Alex Osborn]]"
-related_facts: []
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Runco_2026_CRJ]]"
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-22
 > - **1950 年代** 作为罗德学者前往牛津大学基督教会学院攻读心理学与生理学，获得荣誉硕士学位，随后获得剑桥大学医学博士学位（Ph.D.）。
 > - **1967 年** 出版《The Use of [[Lateral Thinking]]》，正式提出“侧向思维”[[Construct\|构念]]，掀起全球关于打破逻辑线性思考的思维革命。
 > - **1969 年** 出版重磅学术代表作《The Mechanism of Mind》，先驱性地提出大脑作为自组织非对称模式形成系统的脑神经动力学理论。
-> - **1970 年** 出版《Lateral Thinking: [[Creativity]] Step by Step》，正式确立 PO 激发、随机词输入与侧向谜题等结构化心智工具。
+> - **1970 年** 出版《Lateral Thinking: [[Creativity]] [[Skills Toward Employment and Productivity|Step]] by Step》，正式确立 PO 激发、随机词输入与侧向谜题等结构化心智工具。
 > - **1985 年** 创立并推广“六顶思考帽（Six Thinking Hats）”，被广泛采纳为全球 500 强企业、政府内阁与中小学[[Creativity Training\|创造力教育]]的官方标准工具。
 > - **2021 年** 逝世于马耳他，享年 88 岁，被誉为“思维领域的达芬奇”。
 

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_display_title: "“An aesthetic point of view”"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Junzi]]"
   - "[[Civic Rituals]]"
+  - "[[Grit]]"
   - "[[Hard Power]]"
   - "[[Soft Belief]]"
   - "[[General Education]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -76,7 +77,7 @@ updated: 2026-10-22
 > 在当代文化普遍解构审美标准与[[Grand Theory|宏大叙事]]的背景下，放弃对美、真理与卓越生活的价值判断为何会削弱前沿科技的[[Creativity|创造力]]？荷马史诗中奥德修斯自缚船桅以抗拒塞壬诱惑的意象，如何阐明自愿自我约束对于突破性创新的决定性作用？实证金融学与专利计量研究如何证实了创始人掌舵在超额资本回报与重大技术专利上的长期主义优势？硅谷在 1990 年代首创的全员股权分配模式为何构成打破传统雇佣异化的所有权社会创新？[[Cultural Relativism|文化相对主义]]、[[Effective Altruism|有效利他主义]]与形式[[Value Neutrality|价值中立]]如何导致了当代公共生活的道德虚无与认同瓦解？在面临颠覆性技术竞争的历史关口，重铸[[Technological Republic|技术共和国]]为何必须将自由市场的个人[[Creativity|创造力]]与具体的伦理美德（如儒家[[Junzi|君子]]品德）及国民[[Civic Rituals|公民仪式]]紧密结合？
 
 > [!claim] 核心主张
-> 前沿软件构建高度依赖审美品味与艺术直觉。然而，当代西方文化出于对精英特权的解构，将审美与伦理评判贬低为单纯的地位争夺，滑入所有文化同等有效的[[Cultural Relativism|文化相对主义]]（Ruth Benedict, 1934）与[[Effective Altruism|有效利他主义]]的空洞功利计算；列奥·施特劳斯（Leo Strauss）警示的科学道德迟钝与[[John Rawls|约翰·罗尔斯]]（John Rawls）的形式程序中立进一步抽空了公共生活的文化特质与崇高追求。与委员会妥协与经理人合规治理不同，突破性技术创新依赖具备审美品味的创始人：法伦布拉赫（Rüdiger Fahlenbrach, 2009）与普渡大学（Joon Mahn Lee et al., 2016）的实证数据证实，创始人掌舵的企业在年化超额回报（高出 4.4%）与高价值核心专利（高出 31%）上显著超越同行。如同奥德修斯为抗拒塞壬塞耳自缚，创始人通过对单一愿景的执着承诺与自愿限制选择灵活性，配合耶鲁捐赠基金大卫·斯文森（David Swensen）式的长程资产托管视野，有效抵御了资本市场的季度短期主义。硅谷在 1990 年代推行的全员员工股权模式开创了劳动者共享成果的所有权社会，成为现代高科技公社的典范。面对颠覆性技术竞争的历史关口，制造国家的[[Civic Rituals|公民仪式]]（公立教育大纲、国民防卫服役、共同语言）不容继续荒废，必须汲取[[Lee Kuan Yew|李光耀]]在新加坡弘扬儒家君子美德的治国智慧，在自由市场个人创造力与崇高集体体验之间达成和解，以坚毅的[[Hard Power|硬实力]]与深厚的实质信念克服[[Soft Belief|软信念]]，重铸技术共和国（pp. 205–218）。
+> 前沿软件构建高度依赖审美品味与艺术直觉。然而，当代西方文化出于对精英特权的解构，将审美与伦理评判贬低为单纯的地位争夺，滑入所有文化同等有效的[[Cultural Relativism|文化相对主义]]（Ruth Benedict, 1934）与[[Effective Altruism|有效利他主义]]的空洞功利计算；列奥·施特劳斯（Leo Strauss）警示的科学道德迟钝与[[John Rawls|约翰·罗尔斯]]（John Rawls）的形式程序中立进一步抽空了公共生活的文化特质与崇高追求。与委员会妥协与经理人合规治理不同，突破性技术创新依赖具备审美品味的创始人：法伦布拉赫（Rüdiger Fahlenbrach, 2009）与普渡大学（Joon Mahn Lee et al., 2016）的实证数据证实，创始人掌舵的企业在年化超额回报（高出 4.4%）与高价值核心专利（高出 31%）上显著超越同行。如同奥德修斯为抗拒塞壬塞耳自缚，创始人通过对单一愿景的执着承诺与自愿限制选择灵活性，配合耶鲁捐赠基金大卫·斯文森（David Swensen）式的长程资产托管视野，有效抵御了资本市场的季度短期主义。硅谷在 1990 年代推行的全员员工股权模式开创了劳动者共享成果的所有权社会，成为现代高科技公社的典范。面对颠覆性技术竞争的历史关口，制造国家的[[Civic Rituals|公民仪式]]（公立教育大纲、国民防卫服役、共同语言）不容继续荒废，必须汲取[[Lee Kuan Yew|李光耀]]在新加坡弘扬儒家君子美德的治国智慧，在自由市场个人创造力与崇高集体体验之间达成和解，以[[Grit|坚毅]]的[[Hard Power|硬实力]]与深厚的实质信念克服[[Soft Belief|软信念]]，重铸技术共和国（pp. 205–218）。
 
 > [!phase] 章节论证推进脉络
 >

@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Scaffolding]]"
   - "[[Evidence Standards]]"
+  - "[[Document]]"
   - "[[Teacher Qualifications]]"
   - "[[Business as Usual]]"
   - "[[Response to Proven Instruction]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-26
 > [!dev-timeline] Numbers Count 发展历程
 > - **2007–2010 — 国家先导试验与全英学区铺开** 英国教育部启动 Every Child Counts 战略，在英格兰数百所公立学校试点建立 Numbers Count 专职辅导教室，初步建立起全国专业教师培训网络。
 > - **2011–2013 — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）独立大样本整群 [[Randomised Controlled Trials\|RCT]] 评估** 约克大学卡罗尔·托格森（Carole Torgerson et al., 2013）团队受 EEF 资助开展多中心随机对照试验，测得稳健且显著的因果学业增益，获 EEF 极高[[EEF Padlock Security Rating\|证据安全性评级]]。
-> - **2015–至今 — 跨国证据采纳与纳入 [[Every Student Succeeds Act\|ESSA]] 强证据** 斯莱文团队在全面审查国际实证文献后，将 Numbers Count 作为初等数学 Tier 3 专业教师辅导的标杆列入 Table 2，确立其在英美循证改革学术脉络中的经典地位。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> - **2015–至今 — 跨国证据采纳与纳入 [[Every Student Succeeds Act\|ESSA]] 强证据** 斯莱文团队在全面审查国际实证[[Document|文献]]后，将 Numbers Count 作为初等数学 Tier 3 专业教师辅导的标杆列入 Table 2，确立其在英美循证改革学术脉络中的经典地位。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 

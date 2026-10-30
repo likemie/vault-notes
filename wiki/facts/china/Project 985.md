@@ -11,7 +11,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Megascience Installations]]"
+  - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Soft Power]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-26
 > - **产出与结果指标** 自然科学与工程技术国际权威期刊发文量、国际高被引科学家数量、国际权威大学排行榜位次、国家最高科学技术奖及三大科技奖励获奖情况。
 
 > [!finding-cards] 核心实证结论
-> - **科研学术产出与国际排位显著攀升** 39 所高校在国际顶级期刊的发文总量与被引频次出现高速增长，多所标杆院校在世界大学排行榜中跨入全球前百强行列，中国科技文献总量在 2018 年实现全面超越。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
+> - **科研学术产出与国际排位显著攀升** 39 所高校在国际顶级期刊的发文总量与被引频次出现高速增长，多所标杆院校在世界大学排行榜中跨入全球前百强行列，中国科技[[Document|文献]]总量在 2018 年实现全面超越。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
 > - **大科学装置与自主创新平台全面升级** 依托专项支持建立了一批国家实验室和国家重大科技基础设施，在航空航天、超级计算、材料科学及生物医药等关键战略领域突破多项核心技术。
 > - **世界一流大学引才聚才网络快速成型** 优厚薪酬与优质实验平台协同运作，有效吸引了大批高水平留学人员全职回流，奠定了参与国际科技竞争的领军人才基石。
 

@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Theoretical Knowledge]]"
   - "[[Neuromyth]]"
+  - "[[Document]]"
+  - "[[Student Well-being]]"
   - "[[Pedagogical Subject]]"
   - "[[Reform Pedagogy]]"
   - "[[Competitiveness]]"
@@ -92,7 +94,7 @@ sources:
 part_of: ''
 status: stable
 created: '2026-05-04'
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 ---
 
@@ -253,7 +255,7 @@ updated: 2026-10-23
 
 > [!critique-method] 课堂八成不可见：哈蒂自认局限带来的逻辑矛盾
 > - **自认局限的数据漏洞** 哈蒂与齐勒（2017）坦承：在课堂发生的全部事件中，仅有 20% 是教师能够直接观察到的，其余 80% 均处于隐秘不显状态。
-> - **缺乏依据的经验臆测** 这一二八开的比例没有任何严谨经验证据或文献支撑；且考虑到学生复杂的内在身心活动与同伴互动，20% 的可观察估计显然过于夸大。
+> - **缺乏依据的经验臆测** 这一二八开的比例没有任何严谨经验证据或[[Document|文献]]支撑；且考虑到学生复杂的内在身心活动与同伴互动，20% 的可观察估计显然过于夸大。
 > - **致命的逻辑跳跃与自我辩护** 哈蒂等人将本应构成方法警示的巨大盲区，反手改造为要求各界资助并开展更多可见学习研究的借口——声称正因 80% 不可见，才需要投入更多资金开发技术使其达到可见状态，从而陷入自我论证的循环陷阱。
 
 #### 2. 追求课堂完全透明承袭了自上而下的监视传统
@@ -264,7 +266,7 @@ updated: 2026-10-23
 > 1. **神学起点：全知全能上帝的绝对穿透** 北非早期教父圣奥古斯丁在《忏悔录》第三卷中提出著名命题：上帝审视我，比我审视内心更为幽深，上帝居于我之顶巅更崇高之处（*interior intimo meo, superior summo meo*）。
 > 2. **权力机制：持续凝视与强迫自我审判** [[Peter Sloterdijk|彼得·斯洛特戴克]]（Peter Sloterdijk）在《后上帝时代》中解构该传统，指出这套神学修辞催生了来自上方的恒常监视（Dauerbeobachtung）与内化于心的强迫自省（Zwang zur Selbstbeobachtung）。
 > 3. **世俗化转移：从神职代行到管理理性** 伴随世俗化进程，全知全视（*omnes videndes*）的神权被移交给启蒙时代的规划师、统计官僚与政治家。
-> 4. **当代终局：算法统治与 [[PISA]] 测验体制** 现代教育测评、学生幸福感指数与算法监控全面接管神权凝视，了解自身影响（know thy impact）的技术律令将学校从精神自由探究的场所异化为数据规训工厂。
+> 4. **当代终局：算法统治与 [[PISA]] 测验体制** 现代教育测评、[[Student Well-being|学生幸福感]]指数与算法监控全面接管神权凝视，了解自身影响（know thy impact）的技术律令将学校从精神自由探究的场所异化为数据规训工厂。
 
 视觉监控机制要求学生将一切内在心智外显化，在方法层面伴随着无法弥补的盲区。
 

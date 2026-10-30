@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）对比较教育学术史中不断重演的四类理论与方法论偏差的批判性诊断，包括进步假设、地方主义、借用成瘾与科学混乱"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Epistemology]]"
   - "[[Geopolitics]]"
+  - "[[Document]]"
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
   - "[[Screening Off]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -42,7 +43,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 指比较教育研究中四种根深蒂固、阻碍理论原创性与地缘政治敏感度的思维定势与方法论偏差。
-> - **用途** 作为诊断与自省工具，用以透视和清理比较教育文献中代代相传、被包装成理论创新的陈旧思维包袱。
+> - **用途** 作为诊断与自省工具，用以透视和清理比较教育[[Document|文献]]中代代相传、被包装成理论创新的陈旧思维包袱。
 > - **边界** 主要用于诊断和反思学科史及方法论研究中的倾向性偏差，而非个案的具体操作失误。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 328)]]
 
 ---

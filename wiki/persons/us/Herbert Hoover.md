@@ -9,7 +9,7 @@ summary: "美国第31任总统、采矿工程师与人道主义救济专家，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
+  - "[[Document]]"
   - "[[Technical Rationality]]"
   - "[[Epistemology]]"
   - "[[Innovation Desert]]"
@@ -50,14 +51,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国第31任总统（1929–1933年在任），专业采矿工程师，斯坦福大学首届（1895届）地质与采矿工程专业毕业生，国际人道主义救济专家与现代工业标准化倡导者。
-> - **核心角色** 在美国政治史与工程职业史上兼具专业工程师与国家元首的双重身份；其对工程活动面对物理现实的直接责任机制与不可伪饰性的经典论述，被现代科技哲学与[[Technological Republic|技术共和国]]理论确立为剖析[[Engineering Mindset|工程思维]]本质的基石文献。
+> - **核心角色** 在美国政治史与工程职业史上兼具专业工程师与国家元首的双重身份；其对工程活动面对物理现实的直接责任机制与不可伪饰性的经典论述，被现代科技哲学与[[Technological Republic|技术共和国]]理论确立为剖析[[Engineering Mindset|工程思维]]本质的基石[[Document|文献]]。
 > - **代表贡献** 领导一战欧洲战后人道救济与密西西比大洪水救援；在担任商务部长期间主导美国工业规格统一与无线电规范；在回忆录中系统阐明工程师面对客观物理结果的极端透明性与不可推诿的责任对称性（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, p. 160]]）。
 
 > [!citation-card] 工程师面对客观现实结果的直接责任与不可推诿性

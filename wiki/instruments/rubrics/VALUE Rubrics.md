@@ -8,7 +8,7 @@ aliases:
 summary: "由美国大学与学院协会组织数百名学者研发的16套通识学习成果评价量规，涵盖批判性思维与创造性思维等高阶认知素养的阶梯式表现标准"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 15
+instrument_related_count: 16
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#ffedd5"
@@ -30,6 +30,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Authentic Assessment]]"
+  - "[[Scoring Rubrics]]"
   - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
@@ -53,13 +54,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
 
 > [!instrument-profile] AAC&U VALUE Rubrics（Valid Assessment of Learning in Undergraduate Education）
-> - **工具类型** [[Authentic Assessment\|表现性评价]]标准与质性评分量规套件（Performance Assessment Scoring Rubrics）。
+> - **工具类型** [[Authentic Assessment\|表现性评价]]标准与质性[[Scoring Rubrics|评分量规]]套件（Performance Assessment Scoring Rubrics）。
 > - **开发者与年份** 美国大学与学院协会（Association of American Colleges and Universities, AAC&U; Rhodes, 2009）。
 > - **测量目的** 评估本科生在[[General Education\|通识教育]]与专业学习中达到的 16 项核心学习成果（涵盖[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、[[Problem Solving\|问题解决]]、公民参与等），作为标准化纸笔测验的校本[[Authentic Assessment\|真实性评价]]替代方案。
 > - **实施方式** 基于课程嵌入式真实学业作品（Authentic Student Work，如学术论文、设计项目、研究报告、反思档案袋）开展质性评审与表现分级。

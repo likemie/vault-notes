@@ -9,7 +9,7 @@ aliases:
 summary: "在数学、经济学、金融学与高能粒子物理学等学科中长期占据主导地位的合著署名规范，将合作者按姓氏首字母次序排列而不标示各自贡献序位。该惯例植根于学术探索不可分割的集体研讨哲学，设定了极为严苛的实质署名门槛并有效降低了挂名作者发生率；然而其完全抹平位次信息的特征亦为学术共同体的主观推断留下了真空，极易激活无意识偏见并诱发严峻的学术性别合作惩罚。"
 type: concept
 domain: "science-policy"
-related_count: 9
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,17 +19,15 @@ tags:
   - theme/scientometrics
   - theme/academic-norms
 related_concepts:
-  - "[[Scientific Credit]]"
+  - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Collaboration Penalty for Women]]"
-  - "[[Matthew Effect in Academia]]"
-  - "[[Coauthorship Network]]"
+  - "[[Big Science]]"
+  - "[[Clinical Trial]]"
 related_theories: []
-related_methods:
-  - "[[Collective Credit Allocation Algorithm]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
   - "[[Heather Sarsons]]"
 related_facts: []
 related_arguments:
@@ -46,7 +44,7 @@ updated: 2026-10-30
 > **按姓氏字母顺序署名（Alphabetical Authorship）** 是指学术期刊论文将全体合著者的姓名严格依其拉丁姓氏英文字母顺序排列的发表规范。与根据实际科研劳动量排定第一作者与通讯作者的贡献序位制不同，字母序署名在形式上将所有合署学者视作对整项研究享有完全对等贡献与连带责任的共同体成员。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 141–142)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指涉特定学科传统中用于淡化个体劳动切分、强调知识生产整体性的文献署名制度。
+> - **含义** 指涉特定学科传统中用于淡化个体劳动切分、强调[[Knowledge Production|知识生产]]整体性的[[Document|文献]]署名制度。
 > - **用途** 帮助理解学科知识生产特征与署名规范之间的嵌合关系，揭示署名格式对同行评议与人事评聘启发式推断的深层塑造。
 > - **边界** 仅适用于有意识采纳字母序传统的学科情境；跨学科论著或偶发性出现的字母巧合序列需经统计基准剔除后方能准确定性。
 
@@ -92,7 +90,7 @@ updated: 2026-10-30
 > **探讨维度　署名制度对学术劳动力市场的结构性扭曲** 探讨署名透明度的缺失如何促使职称晋升体系退回基于身份刻板印象的归因模式。
 
 > [!claim] Sarsons (2017)
-> **字母序制度是滋生女性学术合作惩罚的制度温床** 萨森斯对比经济学与社会学两大领域的实证分析指出，经济学全面沿用字母序署名，致使终身教职委员会无法判断团队论著的具体分工，进而习惯性地将主导贡献归功于资历更深或符合传统刻板印象的男性学者；相反，社会学坚持根据贡献位次署名，明确标注第一作者，有效消除了评议专家的主观猜测空间，使得两性在终身教职通过率上保持对等。这确证了署名信息的模糊性而非合作本身造成了女性学者的职业困境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 145–146)]]
+> **字母序制度是滋生[[Collaboration Penalty for Women|女性学术合作惩罚]]的制度温床** [[Heather Sarsons|萨森斯]]对比经济学与社会学两大领域的实证分析指出，经济学全面沿用字母序署名，致使终身教职委员会无法判断团队论著的具体分工，进而习惯性地将主导贡献归功于资历更深或符合传统刻板印象的男性学者；相反，社会学坚持根据贡献位次署名，明确标注第一作者，有效消除了评议专家的主观猜测空间，使得两性在终身教职通过率上保持对等。这确证了署名信息的模糊性而非合作本身造成了女性学者的职业困境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 145–146)]]
 
 ---
 
@@ -101,12 +99,12 @@ updated: 2026-10-30
 > [!ref-table]- 字母序署名学科分布实证基准表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 学科门类 | 字母序论文占比 | 学科规范特征 | 知识生产与分工形态 |
+> | 学科门类 | 字母序论文占比 | 学科规范特征 | [[Knowledge Production\|知识生产]]与分工形态 |
 > |---|---|---|---|
 > | **数学（Mathematics）** | 72.8%–73.3% | 极高集中；倡导研讨成果不可分割 | 纯理论推导，少有大规模实验与技术辅助分工 |
 > | **金融学（Finance）** | 68.3% | 显著主导；遵循平权署名传统 | 理论建模与实证分析结合，合著者通常不超过 3–4 人 |
 > | **经济学（Economics）** | 57.4% | 主导地位；字母序为行业铁律 | 重视独立单兵产出，合署面临严格贡献质疑 |
-> | **粒子物理与场论（Particles & Fields）** | 57.4% | 大科学主导；数百人团队均按字母排序 | 超大型加速器实验协作，个体贡献难以按人头线性区分 |
+> | **粒子物理与场论（Particles & Fields）** | 57.4% | [[Big Science\|大科学]]主导；数百人团队均按字母排序 | 超大型加速器实验协作，个体贡献难以按人头线性区分 |
 > | **应用数学（Mathematics, Applied）** | 44.7% | 混合形态；受工程与计算学科影响 | 算法实现与数学证明并重，分工逐步显性化 |
 > | **生物化学与分子生物学** | 0.1% | 极低（几乎绝迹）；严格遵循贡献序位制 | 第一作者主导实验，末位通讯主持经费与平台 |
-> | **综合与普通医学** | 0.2% | 极低；全面推行六大贡献类别自述 | 临床试验与队列观察，分工细致且包含多级辅助人员 |
+> | **综合与普通医学** | 0.2% | 极低；全面推行六大贡献类别自述 | [[Clinical Trial\|临床试验]]与队列观察，分工细致且包含多级辅助人员 |

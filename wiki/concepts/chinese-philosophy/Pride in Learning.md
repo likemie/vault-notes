@@ -9,7 +9,7 @@ aliases:
 summary: "学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面"
 type: concept
 domain: "chinese-philosophy"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Humility]]"
   - "[[Western Learner]]"
+  - "[[Socratic Tutoring Style]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -66,7 +67,7 @@ updated: 2026-10-22
 - 体验取样研究显示：当东亚人感到骄傲时，同时会伴随内疚、烦躁、悲伤和担忧等不愉快情绪——统计上骄傲具有正负双重因子载荷([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])
 - Li 对学龄前儿童的研究发现，年仅五岁的中国儿童就已表现出"傲慢担忧"（arrogance concern）——担心高成就者会变得骄傲自满，无法继续自我完善([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])
 
-> [!success] 苏格拉底式辅导中的骄傲社会化
+> [!success] [[Socratic Tutoring Style|苏格拉底式辅导]]中的骄傲社会化
 > Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 在[[Discourse Analysis|话语分析]]中，欧裔美国母亲将骄傲定位为对学习成就的**标准情感反应**。一个典型例子是母亲与八岁儿子 Ian 的对话：Ian 在班上出色地呈现了莎士比亚的《罗密欧与朱丽叶》，"每个人都印象深刻"。母亲明确指出两种骄傲：

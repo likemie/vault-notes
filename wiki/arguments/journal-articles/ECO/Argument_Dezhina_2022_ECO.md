@@ -24,7 +24,6 @@ related_concepts:
   - "[[Asymmetric Brain Circulation]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Big Science]]"
   - "[[South-South Cooperation]]"
 related_theories: []
@@ -47,16 +46,16 @@ sources:
 part_of:
 status: draft
 created: '2026-06-26'
-updated: 2026-10-23
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards autarky in Russian science through the prism of international cooperation"
 argument_kind: "journal-article"
-argument_related_count: 20
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "ECO"
 book_title: ""
@@ -201,7 +200,7 @@ issuing_organization: ""
 > - **境外基金会的撤出与封禁** 2021年，资助青年学者的“奥克斯福德俄罗斯基金”（Oxford Russia Fund）被宣布为非友好组织，外部竞争性资助渠道基本归零。
 >   - **国内私立资助的缺位** 仅存的民营基金（如哈莫夫尼基基金会年预算仅1800万卢布）杯水车薪，无法填补外资撤离的巨大空白。
 > - **国家基金的行政合并与垄断化**
-> - **基金归并整合进程** 2016年将[[Geisteswissenschaften|人文科学]]基金（RHF）并入基础研究基金（RFBR），2021年进一步取消RFBR的核心通道，将其预算业务并入俄罗斯科学基金（RSF），实现了[[Consolidation of Russian State Science Funds\|国家竞争性基金的行政垄断化整合]]。
+> - **基金归并整合进程** 2016年将人文科学基金（RHF）并入基础研究基金（RFBR），2021年进一步取消RFBR的核心通道，将其预算业务并入俄罗斯科学基金（RSF），实现了[[Consolidation of Russian State Science Funds\|国家竞争性基金的行政垄断化整合]]。
 >   - **单一买方垄断的形成** 资助权收归RSF一家机构垄断，消除了多渠道资助的试错和容错空间。
 > - **行政意志的直接干预** 垄断导致国家能直接以行政意志干预科研方向，并在评估中系统性下调国际合作的权重。
 

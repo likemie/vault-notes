@@ -10,7 +10,7 @@ summary: "美国心理学家与计算机科学先驱，DARPA信息处理技术�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Mark Newman]]"
   - "[[Jack Douglas]]"
 related_facts:
   - "[[DARPA]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 > - **1915** 出生于美国密苏里州圣路易斯。
 > - **1942** 获罗彻斯特大学心理声学博士学位；二战期间在哈佛大学心理声学实验室从事军用通信抗噪与机载语音传输研究。
 > - **1950** 任教于麻省理工学院，参与林肯实验室[[Semi-Automatic Ground Environment|半自动地面防空系统]]（[[Sage]]）研制，深入探索实时雷达数据显示屏与人机交互操作界面。
-> - **1957** 加入声学工程与咨询公司博尔特-贝拉内克-纽曼（Bolt Beranek and Newman, BBN），转向数字计算机交互探索。
+> - **1957** 加入声学工程与咨询公司博尔特-贝拉内克-[[Mark Newman|纽曼]]（Bolt Beranek and Newman, BBN），转向数字计算机交互探索。
 > - **1960** 在美国空军资助下发表里程碑论文《[[Man-Computer Symbiosis|人机共生]]》（*Man-Computer Symbiosis*），首次将计算机器定义为人类心智的实时共生伙伴。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1962–1964** 出任高级研究计划局（[[DARPA|ARPA]]）行为科学与指挥控制部门主管，创立信息处理技术办公室（IPTO），提出星际计算机网络（Intergalactic Computer Network）构想，将巨额国防经费投向分时系统与网络通信。
 > - **1968** 与罗伯特·泰勒（Robert Taylor）发表《作为通信媒介的计算机》（*The Computer as a Communication Device*），预见全球协作网络时代的到来。

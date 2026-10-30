@@ -7,7 +7,7 @@ aliases:
 summary: "由卡森等人于 2003 年开发的自陈式客观创造性成果评估工具，涵盖视觉艺术、音乐、文学、发明等 10 大领域的终身创造性成就与社会公认标志。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 8
+instrument_related_count: 9
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
+  - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > | 编号 | 题项陈述（科学发现维度） | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
 > | 0 | 我在科学领域没有接受过专门训练或没有展现过特殊兴趣。 | 勾选 | 0 分 | Carson et al. (2003) |
-> | 1 | 我经常阅读科学文献并自主开展科学小实验。 | 勾选 | 1 分 | 同上 |
+> | 1 | 我经常阅读科学[[Document\|文献]]并自主开展科学小实验。 | 勾选 | 1 分 | 同上 |
 > | 2 | 我在中小学或大学举办的科学竞赛中获得过奖励。 | 勾选 | 2 分 | 同上 |
 > | 3 | 我在同行评审的学术期刊上独立或合作发表过研究论文。 | 勾选 | 3 分 | 同上 |
 > | 4 | 我的科研成果被国家级或国际权威专业媒体报道。 | 勾选 | 4 分 | 同上 |

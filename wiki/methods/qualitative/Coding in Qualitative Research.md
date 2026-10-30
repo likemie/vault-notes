@@ -8,7 +8,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 74
+method_related_count: 76
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Epoché]]"
@@ -30,10 +31,10 @@ related_concepts:
   - "[[Visual Data]]"
   - "[[Meaningful Human Control]]"
   - "[[Champ]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Central Phenomenon]]"
+  - "[[School Bullying]]"
   - "[[Working Memory]]"
   - "[[Discourse]]"
   - "[[Chain of Evidence]]"
@@ -81,6 +82,7 @@ related_methods:
   - "[[Narrative Research]]"
   - "[[Accounts]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Interpretive Policy Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Template Analysis]]"
 related_instruments:
@@ -102,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -111,7 +113,7 @@ updated: 2026-10-29
 > 质性编码（Coding）是将经验数据（访谈录音逐字稿、[[Qualitative Observation\|田野观察]]笔记、历史档案、政策公文、视听影像等多模态资料）系统拆解切片，并为表达相同意涵、指涉同一现象或体现特定属性的文本片段赋予概念化标签或范畴代码的分析规程（Kerlinger, 1970；Strauss & Corbin, 1990；Miles & Huberman, 1994；Gibbs, 2007；Flick, 2009；Rossman & Rallis, 2012；Creswell & Creswell, 2022）。编码不仅充当类似书籍索引系统的高效数据检索机制，支持海量材料的经济化[[Data Reduction\|数据缩减]]，更是构建概念数据网络、在经验事实与解释性理论之间架设桥梁的核心分析基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 559–560)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Participant Observation\|参与观察]]记录、政策公文、历史档案、实物文献、日记、开放式[[Questionnaire\|问卷]]作答，以及照片、视频等多模态经验材料。
+> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Participant Observation\|参与观察]]记录、政策公文、历史档案、实物[[Document|文献]]、日记、开放式[[Questionnaire\|问卷]]作答，以及照片、视频等多模态经验材料。
 > - **核心功能** 实现数据经济化缩减与检索，提炼关键主题，识别经验模式与因果机制，建构概念关系网络并发展[[Grounded Theory\|扎根理论]]。
 > - **[[Unit of Analysis\|分析单位]]** 微观字词、短语、单句、语义意群、段落、完整事件，或多模态影像的构图元素。
 > - **典型输出** 编码清单、[[Qualitative Codebook\|质性编码手册]]、范畴包容层级树、[[Axial Coding\|主轴编码]]六要素[[Paradigm\|范式]]模型、核心[[Story Line\|故事线]]与交叉比较矩阵。
@@ -180,7 +182,7 @@ updated: 2026-10-29
 > > 识别并确立整合所有已建范畴的单一核心范畴（core category），将其余范畴系统关联至核心范畴并接受经验数据验证。选择性编码遵循五步循环迭代：深度把握主要[[Story Line\|故事线]]（story line）➔ 提炼核心范畴 ➔ 建立维度关联 ➔ 依据经验数据逐一验证 ➔ 填补范畴空缺以实现概念密度（conceptual density）与[[Saturation\|理论饱和]]。
 
 > [!quad-grid] Creswell 四类质性编码类型
-> - **预期编码（Expected）** 基于文献和常识，读者预期会出现的常规编码（如校园欺凌研究中的“对自我的态度”）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9)]]
+> - **预期编码（Expected）** 基于文献和常识，读者预期会出现的常规编码（如[[School Bullying|校园欺凌]]研究中的“对自我的态度”）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9)]]
 > - **意外编码（Surprising）** 研究前无法预见、在数据收集中意外发现的编码（如领导力研究中发现“地理变暖对办公室位置的影响”）。
 > - **概念性兴趣编码（Unusual/Conceptual Interest）** 具有特殊概念意义的不寻常编码（如校园枪击案研究中的“再触发”）。
 > - **预设编码（Predetermined）** 基于理论框架预先设定，辅以[[Qualitative Codebook\|质性编码手册]]严格管理的演绎性编码。
@@ -320,7 +322,7 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 遵循解释性政策分析架构，在段落与章节层级展开多轮质性编码，结合先验五维框架与归纳式类属提炼，系统解析超国家政策文本中的话语隐喻与制度条件（pp. 343–344）。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 遵循[[Interpretive Policy Analysis|解释性政策分析]]架构，在段落与章节层级展开多轮质性编码，结合先验五维框架与归纳式类属提炼，系统解析超国家政策文本中的话语隐喻与制度条件（pp. 343–344）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统阐释[[Grounded Theory\|扎根理论]]四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过[[Emergence\|涌现]]式编码揭示“再触发”深层主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Classroom Observation|课堂观察]]与[[In-depth Interview\|深度访谈]]，示范如何在教育[[Qualitative Research\|质性研究]]中通过多级编码程序自下而上提炼本土概念与建构理论[[Analytic Framework\|分析框架]]。

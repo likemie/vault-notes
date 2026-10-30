@@ -10,7 +10,7 @@ aliases:
 summary: "指涉科研人员在量化考核导向下，将一项原本连贯完整的研究发现人为拆解割裂为多个仅满足基本发表门槛的最小数据单元分别投递的发表策略；该现象虚假推高了学者表观生产力，却稀释了单篇文献的知识增量与平均长程被引影响力。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,9 @@ related_theories: []
 related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -41,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +93,7 @@ updated: 2026-10-29
 > [!claim] Broad, W. J.
 > **考核导向诱发计量投机** 威廉·J·布罗德指出，当科研资助与职称评定过度锚定于发表篇数时，研究者倾向于将完整突破打碎为多个最小可发表单元，通过追求发表篇数实现个人收益最大化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
 
-> [!claim] Wang, D. & Barabási, A.-L.
+> [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **发文量与长远学术卓越的预测脱节** 王大顺与巴拉巴西论证指出，高产学者中仅极少数能够产出具有恒久影响的奠基性成果，切香肠策略在制造发文量虚假繁荣的同时，严重破坏了发文计数对长远学术卓越的预测[[Reliability|信度]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
 
 ---

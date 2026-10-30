@@ -11,9 +11,9 @@ summary: "一种用于评估公共政策或教育干预因果效应的准实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -23,6 +23,7 @@ tags:
   - method/causal-inference
   - method/quasi-experiment
 related_concepts:
+  - "[[Star Scientists]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -33,23 +34,26 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Internal Validity]]"
   - "[[Performance Indicators]]"
+  - "[[Academic Achievement]]"
+  - "[[Invisible College]]"
   - "[[School Choice]]"
   - "[[Reliability]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Document]]"
   - "[[Reflection Problem]]"
   - "[[Peer Effects in Science]]"
-  - "[[Invisible College]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Propensity Score Matching]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Matching]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Fixed-Effect Model]]"
   - "[[Multiple Regression]]"
   - "[[Effect Size]]"
@@ -65,7 +69,6 @@ related_facts:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: 2026-09-15
@@ -78,7 +81,7 @@ updated: 2026-10-30
 > **双重差分法（Difference-in-Differences，简称 DID）** 是计量经济学与实证教育政策研究中最核心的准实验因果识别方法之一。其基本思想是：在缺乏人为[[Random Assignment\|随机分配]]的情况下，利用外生政策冲击在时间维度与人群维度的自然差异，分别计算处理组在政策出台前后的纵向变动量，以及对照组在同期内的纵向变动量，进而通过**两次做差（差分的差分）** 剥离宏观时间趋势与固有群体差异，识别出政策本身的净因果效应（Net Causal Effect）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 经历政策冲击或制度改革的学校、学区、地区或学生群体的纵向面板数据（Panel Data）或多时期重复截面数据（Repeated Cross-sections）；以及科学学与劳动经济学中经历外生突发冲击（如明星科学家猝逝、地缘变动外流、院系学者解聘）的学术合作网络与院系纵向追踪数据。
+> - **研究对象** 经历政策冲击或制度改革的学校、学区、地区或学生群体的纵向面板数据（Panel Data）或多时期重复截面数据（Repeated Cross-sections）；以及科学学与劳动经济学中经历外生突发冲击（如[[Star Scientists|明星科学家]]猝逝、地缘变动外流、院系学者解聘）的学术合作网络与院系纵向追踪数据。
 > - **问题类型** 因果效应评估与溢出效应识别问题（回答“某项宏观结构性政策、办学体制转型或教育经费改革对学生成就平均带来多大净变化”，或“突发事件冲击下卓越同行对学者科研产出的真实因果溢出多大”）。
 > - **[[Unit of Analysis\|分析单位]]** 学生个体、学校、多学院信托（MAT）、学区、地方行政区、学者个体或科研院系。
 > - **输出形式** 平均处理效应（ATT）、动态事件研究时间路径系数、政策交互项回归估计值 $\beta_{\text{DID}}$ 及其[[Standard Error\|标准误]]与[[Confidence Interval\|置信区间]]。
@@ -156,7 +159,7 @@ updated: 2026-10-30
 > >
 > > > [!geogebra] 双重差分因果识别与反事实分解动态模拟
 > > > - **横轴** 时间周期 $t$（$t=2$ 为政策前 Pre，$t=4.5$ 为政策干预节点，$t=7$ 为政策后 Post）
-> > > - **纵轴** 产出结果均值 $Y$（学业表现或科研产出）
+> > > - **纵轴** 产出结果均值 $Y$（[[Academic Achievement|学业表现]]或科研产出）
 > > > - **滑块 β_DID** 政策净因果效应（绿色，调节实际事后产出）
 > > > - **滑块 λ (ΔY_C)** 宏观时间趋势与自然增长（蓝色，调节全系统共有演进斜率）
 > > > - **滑块 α** 初始组间基线差距（紫色，呈现固有生源与禀赋选择偏差）
@@ -200,7 +203,7 @@ updated: 2026-10-30
 > - **适合使用**
 >   - 宏观体制与办学机制变革（如英格兰学校转制为多学院信托 MAT、公立学校特许化改革）；
 >   - 区域性或全国分批落地的重大教育财政、生均拨款调整（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）；
->   - 依托外生突发冲击（如明星学者意外离世、地缘变动人才外流、政治性教员驱逐）的准自然实验，比较关联群体与对照组在冲击前后的动态变化，排除选择效应与同时性混杂，识别学术界同伴溢出效应与无形学院影响；[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 98–101)]]
+>   - 依托外生突发冲击（如明星学者意外离世、地缘变动人才外流、政治性教员驱逐）的准自然实验，比较关联群体与对照组在冲击前后的动态变化，排除选择效应与同时性混杂，识别学术界同伴溢出效应与[[Invisible College|无形学院]]影响；[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 98–101)]]
 >   - 无法实施人为[[Random Assignment\|随机分配]]，但能获取国家级纵向普查面板大数据的评估课题。
 > - **谨慎使用**
 >   - 政策出台前两组已呈现显著发散趋势的研究（严重违反平行趋势假定）；
@@ -230,7 +233,7 @@ updated: 2026-10-30
 > > - **田野决策派抗辩** 现实世界中绝大多数重大战略决策（如学区兼并、校长负责制、学费减免）根本不可能进行人为随机试验。[[Education Endowment Foundation\|EEF]] 创立“[[Researching School Choices\|研究学校选择]]”资助流，正是承认 DID 等准实验是连接循证科学与真实宏观教育决策的生命线（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
 >
 > > [!axis] 传统面板 TWFE vs [[Heterogeneity\|异质性]]稳健估计革命
-> > 近年来计量经济学界对过去几十年发表的交错 DID 文献的系统反思。
+> > 近年来计量经济学界对过去几十年发表的交错 DID [[Document|文献]]的系统反思。
 > >
 > > - **传统回归习惯** 研究者习惯简单运行含双向[[Fixed-Effect Model|固定效应]]的 [[Ordinary Least Squares\|OLS]] 交互项回归。
 > > - **新计量[[Paradigm\|范式]]确立** 学界已达成共识：在交错落地政策中必须弃用传统 TWFE，全面转向异质性稳健估计量以根除负权重风险。
@@ -251,7 +254,7 @@ updated: 2026-10-30
 > | [[Pierre Azoulay]] | 代表学者 | 运用匹配 DID 与明星学者猝逝等准自然实验，开创同伴效应与学术网络因果识别实证范式。 |
 > | [[Reflection Problem]] | 概念 | DID 结合准自然实验用于实证克服的选择效应与同时性反向因果难题。 |
 > | [[Peer Effects in Science]] | 概念 | DID 模型用于识别与测度的学术同行真实因果溢出效应。 |
-> | [[Invisible College]] | 概念 | DID 准自然实验实证支持的无形思想学术纽带构念。 |
+> | [[Invisible College]] | 概念 | DID 准自然实验实证支持的无形思想学术纽带[[Construct\|构念]]。 |
 
 ---
 

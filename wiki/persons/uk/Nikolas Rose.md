@@ -8,7 +8,7 @@ summary: "英国著名社会学家、政治理论家，伦敦国王学院荣休�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Psychologisation]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
+  - "[[Lifelong Learning]]"
   - "[[Causal Over-determination]]"
   - "[[Analytical Stance]]"
   - "[[Discourse]]"
@@ -46,11 +47,12 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Jenny Ozga]]"
   - "[[Stephen Ball]]"
   - "[[Alain Desrosières]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[PISA]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
@@ -58,13 +60,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国当代著名社会学家、社会思想家，英国社会[[Chinese Academy of Sciences|科学院]]院士（FAcSS），伦敦国王学院（King's College London）社会科学、健康与医学系荣休教授，曾任伦敦政治经济学院（LSE）社会学系主任及生物科学、生物医学与社会研究中心（BIOS）联席主任。
+> - **身份位置** 英国当代著名社会学家、社会思想家，英国社会科学院院士（FAcSS），伦敦国王学院（King's College London）社会科学、健康与医学系荣休教授，曾任伦敦政治经济学院（LSE）社会学系主任及生物科学、生物医学与社会研究中心（BIOS）联席主任。
 > - **核心角色** 当代西方批判[[Governmentality|治理术]]研究（Governmentality Studies）与高级自由主义（Advanced Liberalism）理论的核心思想家。在政策社会学与跨国治理分析中，其“[[Governing at a Distance|远处治理]]”与“数字即政策”理论构成了剖析超国家量化监控与绩效主义重构公共教育的核心[[Epistemology|认识论]]武器。
 > - **代表贡献** 发展了新自由主义“远处治理”（[[Governing at a Distance]]）理论，系统论证“数字即政策”（Policy as Numbers）与[[Governing by Numbers|数字治理]]技术，阐释心理学、精神医学与生命科学如何将社会控制内在化为行动者的“自我技术”（Technologies of the Self）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
@@ -113,13 +115,13 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论路径** 极大地丰富并系统化了盎格鲁-撒克逊学界对福柯“[[Governmentality|治理术]]”（Governmentality）的阐释，建立了高级自由主义、远处统治与计算权力的经典[[Analytic Framework|分析框架]]。
 > - **方法路径** 倡导“政治技术学分析”（Analytics of Government），主张通过解构[[Questionnaire|问卷]]量表、会计报表、测评指标与算法分类来追踪权力在毛细血管层面的运作。
-> - **政策路径** 成为全球批判政策社会学与教育政治经济学的旗帜性理论源头；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、珍妮·奥兹加（Jenny Ozga）与史蒂芬·鲍尔（[[Stephen Ball]]）广泛汲取其理论解构国际组织的教育绩效监控体系。
+> - **政策路径** 成为全球批判政策社会学与教育政治经济学的旗帜性理论源头；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、[[Jenny Ozga|珍妮·奥兹加]]（Jenny Ozga）与史蒂芬·鲍尔（[[Stephen Ball]]）广泛汲取其理论解构国际组织的教育绩效监控体系。
 > - **跨国／跨领域传播** 其论著被译为十余种语言，不仅在社会学与政治学领域产生震荡，更深刻渗透至法学、医学社会学、地理学与比较教育学。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用罗斯的“数字即政策”理论，论证 [[PISA]] 如何通过隐匿政治决断确立免于质疑的治理权威。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴罗斯空间治理理论，剖析现代国家如何通过统计制图与规训容器对人口流动实施精细监控。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25–28)]] — 结合罗斯的“远处治理”与自我技术理论，阐明经合组织如何运用数字治理将终身学习前置至基础教育，将适应经济竞争的风险转嫁给受教育个体并驱动其自我调节。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25–28)]] — 结合罗斯的“远处治理”与自我技术理论，阐明[[OECD|经合组织]]如何运用数字治理将[[Lifelong Learning|终身学习]]前置至基础教育，将适应经济竞争的风险转嫁给受教育个体并驱动其自我调节。
 
 ---
 

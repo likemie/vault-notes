@@ -9,7 +9,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Paradigm]]"
   - "[[Student Mobility]]"
+  - "[[Document]]"
   - "[[Tracking]]"
 related_theories: []
 related_methods:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-10-22
 > >
 > > - **学者审视（[[Argument_King_2020_ECNUROE|King, 2020]]）** 指出全洲性承诺不直接指定受援国，实际获益程度高度取决于具体国家与出资国的双边经贸战略紧密度，重大工程沿线国家更易获得高规格教育设施投入。[[Argument_King_2020_ECNUROE|(King, 2020, p. 225)]]
 
-> [!citation-card] 代表性批评与反思文献
+> [!citation-card] 代表性批评与反思[[Document|文献]]
 > 中非合作论坛的运行机制展现出极强的公关与象征特征；但长时段追踪其实际承诺与落地机制可以发现，制度化的双边磋商与部际协调使其成为具备切实交付能力的多边合作载体。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 223, 225)]]
 >
 > *While some critics argue that FOCAC operates with significant symbolism and spin, empirical [[Tracking|tracking]] of bilateral delivery mechanisms reveals substantive implementation.*

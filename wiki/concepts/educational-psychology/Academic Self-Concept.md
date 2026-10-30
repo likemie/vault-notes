@@ -7,7 +7,7 @@ aliases:
 summary: "个体对自己学术能力的整体感知和评价，既受实际成绩影响也反向影响学习动机和投入，是学业成就的中介变量和代理指标"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - metax
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Student Motivation]]"
   - "[[Variable]]"
   - "[[Self-Efficacy]]"
   - "[[Domain Specificity]]"
@@ -33,11 +34,11 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 > [!def] Academic Self-Concept
-> 学术自我概念（academic self-concept）是个体对自己学术能力的整体感知和评价，反映学生在多大程度上认为自己是有能力的、成功的学习者（Marsh, 1992）。它与实际[[Academic Achievement\|学业成绩]]交互影响——成绩塑造自我概念，自我概念又反过来影响学习动机、投入和后续[[Academic Achievement\|学业表现]]（Byrne & Worth-Gavin, 1996）。
+> 学术自我概念（academic self-concept）是个体对自己学术能力的整体感知和评价，反映学生在多大程度上认为自己是有能力的、成功的学习者（Marsh, 1992）。它与实际[[Academic Achievement\|学业成绩]]交互影响——成绩塑造自我概念，自我概念又反过来影响[[Student Motivation|学习动机]]、投入和后续[[Academic Achievement\|学业表现]]（Byrne & Worth-Gavin, 1996）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 学术自我概念是学生对自身学术能力的主观信念，而非可直接观测的成绩指标。

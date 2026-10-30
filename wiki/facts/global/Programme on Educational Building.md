@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Achievement]]"
+  - "[[Personalized Learning]]"
   - "[[Technical Rationality]]"
   - "[[Hidden Curriculum]]"
   - "[[Critical Thinking]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心实证结论
 > - **证实物理空间环境对[[Academic Achievement|学业成就]]的显著影响** 实证评估表明，优良的自然采光、室内空气质量与声学环境能够显著提升学生的课堂专注度与阅读学习表现，空间质量直接关涉教育产出。
-> - **打破传统单向排列的讲台式教室垄断** 项目[[Case Study|案例研究]]有力推动了“L型教室”、学习街（Learning Streets）与跨学科探索区在全球范围的普及，为小组协作探究与个性化学习提供了物理载体。
+> - **打破传统单向排列的讲台式教室垄断** 项目[[Case Study|案例研究]]有力推动了“L型教室”、学习街（Learning Streets）与跨学科探索区在全球范围的普及，为小组协作探究与[[Personalized Learning|个性化学习]]提供了物理载体。
 > - **确立基建规划的长期成本节约理念** 证明在初期设计中适度增加环保材料与采光优化投资，能够在建筑物 30–50 年生命周期中回收数倍于初期成本的运营费用。
 
 > [!stat-cards]- 关键规模数据

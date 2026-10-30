@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "独立智库 / 教育改革技术组织"
 headquarters: "美国华盛顿哥伦比亚特区"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-10-22
 > > - **外部质疑视角** 批评统一课标与高难度统考客观上为大型教育出版与测试机构（如培生集团 Pearson）创造了庞大的教材替换与数字化题库采购市场。
 > > - **实证政策分析** 指出 Achieve 主要提供标准研制规范与各州微观比对等公共技术工具，跨州统测的核心制度意图在于提升各州评价结果的可比性与透明度。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18, 21)]]
 
-> [!citation-card] 代表性批评与反思文献
+> [!citation-card] 代表性批评与反思[[Document|文献]]
 > 对 Achieve 等智库主导的课标改革批评者指出，这种自上而下由商界精英和州长联盟推动的问责体系，将学校办学目标紧紧捆绑在标准测验与劳动力供给指标上，可能导致教育教学过度应试化与课程多样性的压缩。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–23)]]
 >
 > *Critics argued that standards-based reform driven by business-governor coalitions narrowed the purpose of schooling to market readiness and test accountability, compressing curricular breadth.*

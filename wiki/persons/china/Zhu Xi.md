@@ -8,7 +8,7 @@ summary: "南宋理学家，程朱理学集大成者。编纂四书并将其确�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[The Great Learning]]"
+  - "[[Academic-Administrator Entrepreneurs]]"
   - "[[Official Knowledge]]"
   - "[[Sage]]"
   - "[[Creativity]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1130** — 出生于南宋徽州婺源（今属江西）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 44)]]。
 > - **南宋中后期** — 深受[[Cheng Brothers\|程颢]]与程颐兄弟思想影响，继承并升华北宋理学，形成“程朱学派”（Cheng-Zhu School）。
-> - **仕途与讲学** — 担任朝廷官员与地方官，属于典型的“学者型官员”（scholar-official）；创办与主持白鹿洞书院等教育机构，推动理学传播[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47)]]。
+> - **仕途与讲学** — 担任朝廷官员与地方官，属于典型的“[[Academic-Administrator Entrepreneurs|学者型官员]]”（scholar-official）；创办与主持白鹿洞书院等教育机构，推动理学传播[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47)]]。
 > - **1200** — 逝世。元代起其《四书集注》被指定为[[Civil Service Examination\|科举]]考试的官方标准教材。
 > - **当代课程呈现** — 朱熹的思想及其对四书的编纂在当代高中历史与社会必修教材中被列为[[Official Knowledge\|官方知识]]重点，作为中华文明理学正统被正面讲授[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
 

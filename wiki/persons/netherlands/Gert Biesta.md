@@ -8,7 +8,7 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Interpretive Paradigm]]"
   - "[[New Public Management]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1957** 出生于荷兰，接受教育哲学与社会学训练。
 > - **2003** 与尼古拉斯·伯布利斯（Nicholas Burbules）合作出版《[[Pragmatic Paradigm|实用主义]]与教育研究》，系统奠定基于[[John Dewey|杜威]]交易[[Epistemology|认识论]]（[[Transactional Epistemology]]）的哲学基础。
-> - **2007** 发表论文 *Why 'what works' won't work*，首次提出[[Evidence-Based Education|循证教育]]的“民主缺陷”，成为全球批判[[Positivism|实证主义]]循证[[Paradigm|范式]]的标志性文献。
+> - **2007** 发表论文 *Why 'what works' won't work*，首次提出[[Evidence-Based Education|循证教育]]的“民主缺陷”，成为全球批判[[Positivism|实证主义]]循证[[Paradigm|范式]]的标志性[[Document|文献]]。
 > - **2010** 出版代表作《测量时代的好教育》（*Good Education in an Age of Measurement*），确立资格化、社会化与主体化三维目的论框架，并在 *Studies in Philosophy and Education* 发表教育三重[[Deficiencies Model for an Introduction|缺陷模型]]（[[Argument_Biesta_2010_SPE|Biesta, 2010]]）。
 > - **2013** 提出“被动性”（Passivity）与“被教导”（being taught）概念，将教学界定为个体向外部世界开放的“礼物”。
 > - **2017** 出版《重新发现教学》（*The Rediscovery of Teaching*），深入反思以学代教的“[[Learnification|学习化]]”危机，捍卫教师在主体显现中的核心引导地位。

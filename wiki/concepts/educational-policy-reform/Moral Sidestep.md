@@ -5,7 +5,7 @@ aliases:
 summary: "以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ## 定义
@@ -41,7 +42,7 @@ Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避
 
 ## 两种类型
 
-道德侧步在文献中表现为两种不同的运作机制——回避型与建构型。二者的核心区分在于：侧步是**被动回避证据**还是**主动建构替代[[Discourse|话语]]**。
+道德侧步在[[Document|文献]]中表现为两种不同的运作机制——回避型与建构型。二者的核心区分在于：侧步是**被动回避证据**还是**主动建构替代[[Discourse|话语]]**。
 
 ### 回避型道德侧步（Evasive Moral Sidestep）
 

@@ -10,7 +10,7 @@ summary: "在存在不完全依从（Non-compliance）的实验中，通过工�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Charter Schools]]"
   - "[[Attrition]]"
   - "[[Construct Validity]]"
 related_theories:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-10-29
 
 ---
 
-> [!case] 特许学校抽签入学与 CACE 估计（Angrist et al., 2002）
+> [!case] [[Charter Schools|特许学校]]抽签入学与 CACE 估计（Angrist et al., 2002）
 > 某城市优质特许学校提供 200 个入学名额，400 名申请者参与随机摇号：
 > - **分配与顺从** 200 名中签者中，160 人实际报到入学（顺从），40 人因搬家放弃（Never-Takers）；200 名未中签者中，全部入读普通公立校（无 Defiers，顺从率 $\text{[[Initial Teacher Training\|ITT]]}_D = 80\%$）。
 > - **效应计算** 中签对全体申请者的 ITT 提分效应为 $+0.24\text{ SD}$；运用 CACE 计算特许学校对真正入读学生的净增益为 $\text{CACE} = +0.24 / 0.80 = \mathbf{+0.30\text{ SD}}$。

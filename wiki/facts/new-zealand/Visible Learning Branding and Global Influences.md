@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 64
+fact_related_count: 65
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
+  - "[[Teacher Collaboration]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Critical Pedagogy]]"
@@ -99,7 +100,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 （[[Visible Learning|可见的学习]]品牌化与全球影响）
@@ -182,7 +183,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **新西兰 — 课程改革、财政误用与“投资教育成功”（[[Institute of Education Sciences|IES]]）** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 154–157]]）。2014 年国家党政府投入 **3.59 亿新西兰元** 启动“投资教育成功”（Investing in Educational Success, IES）旗舰计划，设立跨校“学习共同体”（Communities of Learning, CoL / Kāhui Ako）以分享循证教学实践；其核心政策蓝图直接源于 Hattie 的合作专业精神与可见学习理论框架；在 2015 年新西兰教育节（NZ Festival of Education）上，[[Cognition Education|认知教育信托]]出资赞助 Hattie 与 [[Michael Fullan]] 登台演讲，形成了公共政策重构、私营商业培训与学术领袖互为背书的协同同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 13, 21–22, 89)]]
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_JSR|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳、[[Legitimation Crisis|合法化危机]]与激烈反弹** 丹麦在 2000 年代加入 [[PISA]] 后面临巨大的教育合法化压力；2014 年丹麦议会通过划时代的小学改革法案（Folkeskole Reform 2014），教育部与地方市镇协会（KL）斥巨资引进[[John Hattie|哈蒂]]模式，将办学宗旨明确改写为确保学生掌握尽可能多的知识，全盘吸纳哈蒂式产出效能叙事。然而，由于该法案将延长学生在校课时与强制剥夺教师备课时间、激化劳资停工对抗相绑定，政府反复将哈蒂的元分析包装为不可违背的“客观科学铁律”，以此压制一线教师与工会的合理抗议。[[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 深刻揭示，丹麦政界对哈蒂品牌的狂热追捧实质上是将技术理性作为防御国家教育[[Legitimation Crisis|合法化危机]]的工具掩体。这一行政硬推不仅引发大批骨干教师辞职流失，更促成丹麦学者出版批判文集《[[Hattie på dansk]]》，激起全国性学术与政治大论战。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86–87)]]
-> - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与教师协作的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
+> - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与[[Teacher Collaboration|教师协作]]的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
 > - **俄罗斯 — 译著传播、制度陷阱与“拒绝借用”** 2017 年国家出版集团（Prosveshchenie）推出俄文版并试图与俄罗斯联邦国家教育标准（FSES）对接；然而，以 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]为代表的本土学者通过变差系数（\sigma = 56.87\%$）实测揭示其数据集极度不均匀，并结合俄罗斯教师社会地位偏低（仅 16% 认同职业声望）与 79% 教师受困于报表剧增的严峻现实，指出盲目推行基于可见学习的量化问责将使学校沦为行政全景监控车间并激化师资流失危机，因此明确向政策当局提出“拒绝采纳”该模式的理性审慎建议（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230, 237–241)]]
 
 ---

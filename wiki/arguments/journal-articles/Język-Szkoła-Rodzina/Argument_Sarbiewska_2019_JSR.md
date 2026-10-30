@@ -9,7 +9,7 @@ title: "Argument_Sarbiewska_2019_JSR"
 argument_key: "Argument_Sarbiewska_2019_JSR"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
@@ -46,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2019
 doi: ""
 citation_aliases:
@@ -64,7 +65,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Literature Review\|文献综述]]与政策分析
 > - 范围：新西兰和澳大利亚教育系统（1980s–2019）
-> - 数据来源：政府报告、学术文献、[[PISA]] 数据、教育政策文件
+> - 数据来源：政府报告、学术[[Document|文献]]、[[PISA]] 数据、教育政策文件
 
 > [!example] 核心论证
 > 1. **前提／观察** 新西兰和澳大利亚自 1980 年代起停止忽视研究数据，开始将教育政策建立在教育研究结果之上

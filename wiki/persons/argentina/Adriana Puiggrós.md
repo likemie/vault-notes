@@ -8,7 +8,7 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
   - "[[Champ]]"
+  - "[[School Vouchers]]"
   - "[[Critical Pedagogy]]"
   - "[[Praxis]]"
   - "[[Endogenous Privatisation]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-25
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创了拉美批判教育史学派与 APPEAL 研究纲领，直接影响了整个伊比利亚美洲关于正规教育与非正规[[Popular Education|民众教育]]冲突演变的理论建构；其关于“[[Pedagogical Subject|教育主体]]”的分析被托雷斯等学者深度整合入国家[[Critical Theory|批判理论]]。
-> - **政策路径** 作为副部长和教育局长直接参与阿根廷全国[[General Act of Education of 1970|普通教育法]]修订与公立师资培训体系改革，坚决抵制极端新自由主义教育券实验。
+> - **政策路径** 作为副部长和教育局长直接参与阿根廷全国[[General Act of Education of 1970|普通教育法]]修订与公立师资培训体系改革，坚决抵制极端新自由主义[[School Vouchers|教育券]]实验。
 > - **跨国／跨领域传播** 思想广泛辐射墨西哥、巴西、智利及北美比较教育学界，被视为拉美与全球[[Critical Pedagogy|批判教育学]]对话的代表性桥梁学者之一。
 
 ---

@@ -8,7 +8,7 @@ summary: "系统收集和分析机构网站公开内容的研究方法，通过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - "method/document-analysis"
   - "paradigm/interpretivist"
 related_concepts:
+  - "[[Epistemic Stances]]"
   - "[[Interpretivism]]"
   - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
@@ -45,13 +46,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
 网站[[Content Analysis|内容分析]]（Website Content Analysis）是一种系统收集和分析机构网站公开内容的研究方法，通过对网页文本、组织结构描述、职能说明和术语使用的系统审查，揭示组织如何对外呈现其结构、职能和战略定位。与一般的访谈或[[Questionnaire|问卷调查]]不同，网站分析利用的是组织**主动对外公开且经过内部审核**的内容——这些内容不仅反映组织的实际运作，也反映组织希望外界如何看待它（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemic Stances|认识论立场]]
 网站[[Content Analysis|内容分析]]属于 **[[Interpretivism|解释主义]]（interpretivist）** 研究[[Paradigm|范式]]，通常不追求统计推断或因果识别。其核心假设是：组织网站的公开内容是一种经过精心策划的"自我呈现"（self-presentation）——它既不完全等同于组织的实际运作（可能夸大或省略某些职能），也不完全是虚构（因为它受到组织内部审核和外部期待的约束）。研究的任务不是简单地"相信"或"否定"网站内容，而是解读组织通过网站**选择呈现什么、忽略什么、强调什么**，以及这些选择所反映的组织逻辑和制度环境（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
 
 > [!example] 研究程序

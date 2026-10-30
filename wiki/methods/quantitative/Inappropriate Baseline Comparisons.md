@@ -11,7 +11,7 @@ summary: "在实验、元分析与证据综合中因缺乏明确、对称或对�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reproducibility Crisis]]"
   - "[[Counterfactual]]"
   - "[[Unit of Analysis]]"
+  - "[[Document]]"
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 （不当基线比较）
@@ -85,7 +86,7 @@ updated: 2026-10-29
 > - **输出形式** 基线参照系审计报告、符号对偶反转敏感性分析、加权调整后净效应估计量。
 
 > [!citation-card] 科学研究中不当基线比较的系统性危害
-> 在科学文献中，最常见也最具破坏力的[[Type I and Type II Errors|统计错误]]之一便是对基线比较的不当处理。效应量尽管缺乏物理度量单位，但本质上是一个提供相对比较的无量纲测度。如果不明确比较的目标基线人群与反事实状态，研究者便能轻易通过选择单向基准，将其实质上微弱甚至有害的操作包装为正面干预成果，造成巨大的政策误导。[[Argument_Bergeron_2017_MJE|(Allison et al., 2016, p. 27; Bergeron & Rivard, 2017, pp. 240–241)]]
+> 在科学[[Document|文献]]中，最常见也最具破坏力的[[Type I and Type II Errors|统计错误]]之一便是对基线比较的不当处理。效应量尽管缺乏物理度量单位，但本质上是一个提供相对比较的无量纲测度。如果不明确比较的目标基线人群与反事实状态，研究者便能轻易通过选择单向基准，将其实质上微弱甚至有害的操作包装为正面干预成果，造成巨大的政策误导。[[Argument_Bergeron_2017_MJE|(Allison et al., 2016, p. 27; Bergeron & Rivard, 2017, pp. 240–241)]]
 >
 > *“The fundamental problem here is that every effect size, despite the absence of a unit, is a relative measure that provides a comparison to a set, group, or baseline population, even if it may be implicit. Inappropriate baseline comparisons constitute a tragedy of errors in science.”*
 
@@ -141,7 +142,7 @@ updated: 2026-10-29
 
 伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 241–242]]）指出，不当基线比较不仅体现在双样本公式中，更深层地体现在宏观汇总时混淆了两类完全不同的总体：
 1. **现实中影响学业成果的客观因素总体（Population of Influences）**；
-2. **学者恰好就这些因素发表了一阶[[Meta-analysis|元分析]]的文献总体（Population of Studies）**。
+2. **学者恰好就这些因素发表了一阶[[Meta-analysis|元分析]]的[[Document|文献]]总体（Population of Studies）**。
 
 > [!concept-lens] 鱼子酱物价指数隐喻（The Caviar Price Index Metaphor）
 > 假定经济学家进入一家大型杂货店，将店内所有上架商品的价格变动不加权地求算术平均，得出“海鲜类商品对普通家庭账单影响最大”的结论，理由是顶级鱼子酱的价格极其昂贵。

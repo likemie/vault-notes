@@ -12,9 +12,9 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the most of the evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: Durham University
 citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the most of the evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015–03, Durham University."
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Learning Styles]]"
   - "[[Evaluation Research]]"
+  - "[[Document]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Tullock's Bureaucracy Theory]]"
@@ -57,7 +58,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -128,7 +129,7 @@ citation_aliases:
 > - 论文自身承认：样本非平衡，有意偏向积极参与 EBP 辩论的教师，因此结论不具统计代表性(p.22)
 > - [[Literature Review\|文献综述]]非系统性，基于非正式检索(p.4)
 > - 研究未系统性地探讨教师不参与证据的原因——样本中几乎没有对证据完全漠视的教师
-> - 政策建议部分未经过实证检验，属于基于访谈和文献的推断
+> - 政策建议部分未经过实证检验，属于基于访谈和[[Document|文献]]的推断
 
 ## 来源
 

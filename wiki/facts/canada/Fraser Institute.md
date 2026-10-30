@@ -10,7 +10,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Policy Network]]"
   - "[[Transparency Bypass]]"
+  - "[[School Vouchers]]"
+  - "[[Charter Schools]]"
   - "[[Global Universities Rankings]]"
   - "[[Soft Accountability]]"
   - "[[Socioeconomic Status]]"
@@ -40,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-30
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-10-21
 > [!finding-cards] 核心产品与业务矩阵
 > - **学校报告卡体系（Fraser Institute School Report Cards）** 覆盖加拿大多个主要省份数千所公立、独立与私立中小学的年度绩效排位指南。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - **世界经济自由度指数（Economic Freedom of the World）** 联合跨国学术网络编撰的全球各国自由市场制度年度评估报告。
-> - **教育选择与教育券倡导丛书** 系统出版论证特许学校、教育补贴券与私立教育竞争优势的政策研究专著。
+> - **教育选择与[[School Vouchers|教育券]]倡导丛书** 系统出版论证[[Charter Schools|特许学校]]、教育补贴券与私立教育竞争优势的政策研究专著。
 
 > [!citation-card] 智库推动民间问责的[[Transparency Bypass|透明度绕道机制]]
 > 在加拿大不列颠哥伦比亚省，省教育部采取了温和的评估方式并明确拒绝公布官方排位表，但一家保守派智库（弗雷泽研究所）通过动用信息自由申请获取学校评估数据，并常年在媒体上发布年度学校排名，系统性绕过了官方政策。[[Argument_Verger_2019_Discourse|(Simmonds & Webb, 2013; cited in Verger et al., 2019, p. 258)]]

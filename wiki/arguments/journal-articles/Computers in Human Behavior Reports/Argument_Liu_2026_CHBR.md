@@ -7,9 +7,9 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 67
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Ji Liu|Liu, J.]]"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Educational Robotics]]"
   - "[[AI Agent in Education]]"
   - "[[Conversational AI in Education]]"
+  - "[[Document]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Variable]]"
@@ -53,7 +54,9 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Generative AI Agent in Education]]"
   - "[[Publication Bias]]"
+  - "[[Reciprocal Teaching]]"
   - "[[Gamification]]"
+  - "[[Coding Education]]"
   - "[[General Education]]"
   - "[[Divergent Thinking]]"
   - "[[Literature Search]]"
@@ -110,12 +113,12 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
 > [!question]
-> 随着人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）在教育中的迅速普及，[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|教育机器人]]、生成式[[AI Agent in Education\|智能体]]及[[Conversational AI in Education\|对话式智能体]]等各类教育智能体（Artificial Intelligence Agents in Education, AI Agent）正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证文献关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）等细分认知领域系统检验其效能差异。需要通过定量[[Meta-analysis\|元分析]]回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable\|变量]]如何影响这一效能？
+> 随着人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）在教育中的迅速普及，[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|教育机器人]]、生成式[[AI Agent in Education\|智能体]]及[[Conversational AI in Education\|对话式智能体]]等各类教育智能体（Artificial Intelligence Agents in Education, AI Agent）正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证[[Document|文献]]关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）等细分认知领域系统检验其效能差异。需要通过定量[[Meta-analysis\|元分析]]回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable\|变量]]如何影响这一效能？
 
 > [!claim] 核心主张
 > AI 智能体对 K-12 学生的认知学习成果具有统计学显著的中等正向促进效应（$g = 0.404, p < .001$）；在认知分类上，技能类结果（$g = 0.391, p < .001$）与知识类结果（$g = 0.344, p = .026$）获得稳定显著提升，而高阶思维技能效应量虽高但异质性极大且未达统计显著（$g = 0.540, p = .066$）；学段与学科在其中发挥显著调节作用，高小学段（$g = 0.877$）及语言读写（$g = 0.830$）和艺术创造学科（$g = 0.755$）展现出最强干预敏感度。
@@ -182,7 +185,7 @@ updated: 2026-10-26
 > | **Feng and Wang (2023)** | 中国 | 85 (44/41) | 高小学段 | 双语教育（中英文阅读伴读） | 24周 (120课时, 112分/次) | 技能类 (3) | 0.76 | 0.06 |
 > | **Zhexenova et al. (2020)** | 哈萨克斯坦 | 41 (19/19) | 低小学段 | 哈萨克语（机器人书写与字母教学） | 未报告 (30分/次) | 知识类 (1) | 0.17 | 0.09 |
 > | **Wongwatkit and Panjaburee (2024)** | 泰国 | 336 (未报告) | 初中阶段 | 计算机科学（数字素养概念与工具技能） | 未报告 | 技能类 (1) | 0.54 | 0.01 |
-> | **Chen et al. (2024)** | 中国 | 80 (41/39) | 高小学段 | 语文（古诗词交互式教学） | 4周 (20分/次) | 技能类 + [[Higher-Order Thinking Skills\|高阶思维]] (2) | 1.15 | 0.06 |
+> | **Chen et al. (2024)** | 中国 | 80 (41/39) | 高小学段 | 语文（古诗词[[Reciprocal Teaching\|交互式教学]]） | 4周 (20分/次) | 技能类 + [[Higher-Order Thinking Skills\|高阶思维]] (2) | 1.15 | 0.06 |
 > | **Bachiri et al. (2023)** | 摩洛哥 | 100 (54/46) | 高小学段 | 跨学科数字内容（[[Gamification\|游戏化]]自适应评估） | 3周 | 技能类 (1) | 0.68 | 0.04 |
 > | **Chen et al. (2022)** | 中国台湾 | 60 (未报告) | 高小学段 | 艺术（色彩绘画创作） | 未报告 | 技能类 (1) | 1.07 | 0.08 |
 > | **Pareto et al. (2022)** | 瑞典 | 20 (10/10) | 小初混龄 | 数学（卡牌算术自适应对战） | 1周 (2课时, 70分/次) | 技能类 (1) | 0.24 | 0.19 |
@@ -197,7 +200,7 @@ updated: 2026-10-26
 > | **Kwon et al. (2023)** | 韩国 | 75 (38/37) | 高小学段 | EFL 英语（写作微练习） | 15周 (10课时, 15分/次) | 技能类 (1) | 0.18 | 0.05 |
 > | **Khazanchi et al. (2025)** | 美国 | 58 (32/26) | 初中阶段 | 数学（个性化智能练习平台） | 5周 (25课时, 50分/次) | 知识类 (1) | 0.05 | 0.09 |
 > | **Sapan and Uzun (2024)** | 土耳其 | 66 (28/38) | 高中学段 | EFL 英语（段落写作智能助手） | 3周 (6课时, 40分/次) | 知识类 + 技能类 (2) | 0.08 | 0.06 |
-> | **Yang et al. (2025)** | 中国 | 153 (未报告) | 高中学段 | 计算机科学（编程教育） | 6周 (12课时) | 技能类 (1) | -0.13 | 0.03 |
+> | **Yang et al. (2025)** | 中国 | 153 (未报告) | 高中学段 | 计算机科学（[[Coding Education\|编程教育]]） | 6周 (12课时) | 技能类 (1) | -0.13 | 0.03 |
 > | **Baha et al. (2024)** | 摩洛哥 | 72 (38/34) | 高中学段 | 信息技术（编程语言概念学习） | 未报告 (120分/次) | 知识类 (1) | 0.13 | 0.06 |
 > | **Liu and Chen (2023)** | 中国 | 72 (未报告) | 高小学段 | EFL 英语（词汇自适应习得） | 11周 (90分/次) | 知识类 (1) | 0.45 | 0.06 |
 > | **Klar (2025)** | 德国 | 106 (48/54) | 高中学段 | [[General Education\|通识教育]]（自适应内容呈现） | 未报告 (20分/次) | 知识类 (1) | -0.09 | 0.04 |

@@ -10,7 +10,7 @@ summary: "用于同时检验一个或多个分类自变量对两个或多个相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Metainferences]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Student Motivation]]"
   - "[[Interaction Effect]]"
   - "[[Unit of Analysis]]"
   - "[[Type I and Type II Errors]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-29
 > **多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（Multivariate Analysis of Variance, MANOVA）** 是一种拓展单变量[[Analysis of Variance\|方差分析]]（ANOVA）的多[[Metainferences\|元推断]]统计方法。它用于在一个或多个分类[[Independent Variable\|自变量]]（因子）的设计下，同时评估多个连续[[Dependent Variable\|因变量]]构成的向量均值在各组间是否存在显著差异。通过将多个相关因变量线性组合为一个或多个综合潜变量，MANOVA 能够在最大化组间变异与组内变异比率的同时，有效控制多重检验导致的族系一类错误率膨胀，并捕捉单个因变量无法单独显现的多维交互结构。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 315–317)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 包含 1 个或多个分类自变量（如教学干预组别、年级、教师科研经历）以及 2 个或以上具有理论相关性的连续数值型因变量（如多维学习动机、多维度素养得分、不同认知层次成绩）。
+> - **研究对象** 包含 1 个或多个分类自变量（如教学干预组别、年级、教师科研经历）以及 2 个或以上具有理论相关性的连续数值型因变量（如多维[[Student Motivation|学习动机]]、多维度素养得分、不同认知层次成绩）。
 > - **问题类型** 组间多维差异检验、多因子主效应与[[Interaction Effect\|交互效应]]识别、综合干预的多维效果评价。
 > - **[[Unit of Analysis\|分析单位]]** 个体被试（学生、教师、管理者）或聚合组织单元（班级、学校、学区）。
 > - **输出形式** 多元检验统计量（Wilks' $\Lambda$、Pillai's Trace、Hotelling-Lawley Trace、Roy's Largest Root）、$F$ 近似值与自由度、$p$ 显著性水平、多元偏[[Effect Size\|效应量]]（Partial $\eta^2$）、各分维度单变量 ANOVA 后续检验及事后多重比较结果。

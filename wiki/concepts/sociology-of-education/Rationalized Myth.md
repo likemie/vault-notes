@@ -8,7 +8,7 @@ aliases:
 summary: "组织社会学与新制度主义核心概念，指在特定制度环境中被广泛接受为理性、正当和有效的规则与信念，作为文化认知框架为组织实践赋予合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
-  - "[[Cognitive Decoupling]]"
   - "[[New Public Management]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Determinism]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -71,7 +70,7 @@ updated: 2026-10-16
 > - **形式理性伪装**
 >   采用高度专业化、科学化、量化或法律化的形式叙述，使其在表象上具备不可辩驳的现代性与客观性。
 > - **仪式化遵从**
->   组织通过公开采纳、展示与引用这些神话来满足制度环境的期望，往往与内部实际操作产生脱耦（[[Cognitive Decoupling|decoupling]]）。
+>   组织通过公开采纳、展示与引用这些神话来满足制度环境的期望，往往与内部实际操作产生脱耦（decoupling）。
 > - **文化认知嵌入**
 >   深入行动者的潜意识认知图式，使偏离该神话的行为被视为非理性、不专业或缺乏正当性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 92)]]
 

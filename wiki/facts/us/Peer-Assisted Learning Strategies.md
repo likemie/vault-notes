@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Implementation Fidelity]]"
   - "[[Evidence Standards]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Dependent Variable]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-10-26
 > [!dev-timeline] 项目推进与实证演进
 > - **1990s — 基础模型构建与先导试验期** Fuchs 夫妇团队针对小学读写与数学学习障碍研发最初的互惠辅导流程，在田纳西州学区开展小样本干[[Pilot Testing\|预测试]]，确立音素[[Decodification\|解码]]与互惠辅导规则。
 > - **2000–2010 — 跨学段拓展与多中心 [[Randomised Controlled Trials\|RCT]] 验证** 获得联邦 OSEP 与 [[Institute of Education Sciences\|IES]] 资助，拓展至学前班（Kindergarten PALS）与高中阶段；开展多项严格的整群随机对照试验（如 McMaster et al., 2005; Sáenz et al., 2005），证实对英语学习者与学困生的显著效果。
-> - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 循证分级与跨清算所审查分歧** 对接《每个学生都成功法案》（ESSA）[[Evidence Standards\|证据标准]]，被约翰斯·霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）和 [[Evidence for ESSA]] 评定为中等/强证据方案；同时成为国际循证中介机构间文献割裂与标准差异的典型研究案型。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]
+> - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 循证分级与跨清算所审查分歧** 对接《每个学生都成功法案》（ESSA）[[Evidence Standards\|证据标准]]，被约翰斯·霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）和 [[Evidence for ESSA]] 评定为中等/强证据方案；同时成为国际循证中介机构间[[Document|文献]]割裂与标准差异的典型研究案型。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]
 
 ---
 

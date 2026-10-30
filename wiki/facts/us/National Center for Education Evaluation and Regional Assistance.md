@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Evaluator Independence]]"
   - "[[Charter Schools]]"
   - "[[Response to Intervention]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-10-26
 >   1. **评估处（Evaluation Division）** — 直接监管联邦重大法定项目的独立外部第三方评价合同；
 >   2. **[[What Works Clearinghouse\|有效干预清算中心]]（WWC Branch）** — 负责[[Evidence Standards\|证据标准]]手册研发、认证系统评价员资格与干预指南编写；
 >   3. **区域教育实验室处（RELs Branch）** — 统管全美 10 个跨州区域实验室，开展地方性合作研究与技术援助；
->   4. **国家教育图书馆与 [[Education Resources Information Center\|ERIC]] 处** — 维护全球最大的开放获取教育文献数据库。
+>   4. **国家教育图书馆与 [[Education Resources Information Center\|ERIC]] 处** — 维护全球最大的开放获取教育[[Document|文献]]数据库。
 > - **外部科学咨询理事会** 由国家教育科学委员会（National Board for Education Sciences, NBES）提供同行评议监督与战略指导。
 
 > [!pathways] 业务运行机制与独立性制度特征

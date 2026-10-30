@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Praxis]]"
+  - "[[Student Motivation]]"
   - "[[Conatus]]"
   - "[[Discourse]]"
   - "[[Variable]]"
@@ -58,14 +59,14 @@ related_persons:
   - "[[John Biggs]]"
 status: draft
 created: 2026-07-28
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -134,7 +135,7 @@ issuing_organization: ""
 ### 一　把解释焦点转向学习活动，教师才有可能干预学习过程
 
 > [!claim] 学习取向描述学生在具体情境中如何学习
-> 扩招后的学生群体在学术投入、先备知识和学习动机上更加多样。若把这些差异视为固定缺陷，教师只能筛选或责备学生；若认为学习结果来自学生当前的学习活动与教学情境之间的互动，教师就可以通过课程设计影响学生的学习过程。
+> 扩招后的学生群体在学术投入、先备知识和[[Student Motivation|学习动机]]上更加多样。若把这些差异视为固定缺陷，教师只能筛选或责备学生；若认为学习结果来自学生当前的学习活动与教学情境之间的互动，教师就可以通过课程设计影响学生的学习过程。
 
 > [!contrast-table] Susan and Robert 在同一讲座中的活动差异
 > | 维度 | Susan | Robert |

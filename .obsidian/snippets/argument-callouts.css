@@ -23746,3 +23746,86 @@ body.theme-dark .markdown-rendered .eef-pending, body.theme-dark .callout.callou
 body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="evaluation"] > .callout-title .callout-title-inner::before {
   content: "EEF Project Evaluation" !important;
 }
+
+/* >>> FRAMEWORK-METHOD REFINEMENT · 2026-10-30
+   Scoped overrides outside the generated v4 layer; preserve Markdown and other tables. */
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) {
+  container-type: inline-size;
+  padding: 1rem 1.2rem !important;
+  background: var(--background-primary) !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):hover { border-color: var(--background-modifier-border) !important; box-shadow: none !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title {
+  padding: 0 !important; margin: 0 0 .8rem !important; border: 0 !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]).is-collapsed > .callout-title { margin-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner::before {
+  display: none !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner {
+  padding-left: .65rem !important;
+  border-left: 3px solid var(--ac-accent, rgb(var(--callout-color))) !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content { padding: 0 !important; overflow-x: auto !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(.table-wrapper, .el-table) {
+  margin: 0 !important; padding: 0 !important; border: 0 !important;
+  border-radius: 0 !important; box-shadow: none !important; background: transparent !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table {
+  display: table !important; width: 100% !important; min-width: 0 !important;
+  table-layout: auto !important; border-collapse: collapse !important; border-spacing: 0 !important;
+  border: 0 !important; border-radius: 0 !important; background: transparent !important;
+  box-shadow: none !important; font-size: 1em !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td) {
+  padding: .85rem .75rem !important; border: 0 !important;
+  border-bottom: 1px solid var(--background-modifier-border) !important;
+  border-radius: 0 !important; background: transparent !important;
+  color: var(--text-normal) !important; font-size: 1em !important;
+  line-height: 1.75 !important; vertical-align: top !important;
+  white-space: normal !important; word-break: normal !important; overflow-wrap: anywhere !important;
+  box-shadow: none !important; letter-spacing: normal !important;
+  transition: background-color 140ms ease !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content th {
+  padding-top: .1rem !important; padding-bottom: .55rem !important;
+  color: var(--text-muted) !important; font-size: .82em !important; font-weight: 500 !important;
+  text-align: left !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td):first-child { padding-left: 0 !important; min-width: 0 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td):last-child { padding-right: 0 !important; }
+/* Only two-column tables receive a label column; wider method tables keep their natural layout. */
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) :is(th, td):first-child {
+  width: 27% !important; padding-right: 1.25rem !important; font-weight: 600 !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content td strong { font-size: 1em !important; font-weight: 600 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content td p { margin: 0 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content tbody tr { background: transparent !important; transform: none !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content tbody tr:last-child > td { border-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content tbody tr:is(:hover, :focus-within) > td {
+  background: color-mix(in srgb, rgb(var(--callout-color)) 4%, transparent) !important;
+  box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content a.internal-link { text-decoration-style: solid; text-underline-offset: .18em; }
+@container (max-width: 520px) {
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) { display: block !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) thead { display: none !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) tbody { display: block !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr {
+    display: block !important; padding: .85rem 0 !important;
+    border-bottom: 1px solid var(--background-modifier-border) !important;
+  }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr:last-child { border-bottom: 0 !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) td {
+    display: block !important; width: auto !important; padding: 0 !important; border: 0 !important;
+  }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) td:first-child { padding-bottom: .4rem !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td) { transition: none !important; }
+}
+/* <<< FRAMEWORK-METHOD REFINEMENT */

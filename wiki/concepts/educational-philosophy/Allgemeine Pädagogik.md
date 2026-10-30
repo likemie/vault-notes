@@ -52,7 +52,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-10-29
 
 ---
 
-> [!concept-proposition] 命题一｜普通教育学作为母体学科为教育科学及其分支领域筑牢规范教化与哲学本体防线
+> [!concept-proposition] 命题一｜[[Allgemeine Pädagogik|普通教育学]]作为母体学科为教育科学及其分支领域筑牢规范教化与哲学本体防线
 > **探讨维度　母体奠基与规范抵御维度** 探讨[[Allgemeine Pädagogik|普通教育学]]如何作为欧陆教育科学的母体中枢，为应用和分支学科提供价值防护。在技术官僚主义与唯经济效益论的冲击下，普通教育学维系了教育以人为本的核心尊严。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]

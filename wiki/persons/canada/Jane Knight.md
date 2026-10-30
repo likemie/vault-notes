@@ -7,7 +7,7 @@ summary: "加拿大国际高等教育学者，系统界定高等教育国际化�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Knowledge Power]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Engineering Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Securitization of Technology]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论路径** 开创了[[Knowledge Diplomacy|知识外交]]概念体系，为国际高等教育研究提供了区别于国际关系现实主义权力博弈的规范性解释工具；其[[International Education Hubs|国际教育枢纽]]三类型学成为分析跨境高教空间集聚的基础模型。
 > - **方法路径** 建构了涵盖意图、行动者、原则、模式与活动的五要素[[Analytic Framework|分析框架]]，为质性多[[Case Study|案例研究]]与跨国政策比较提供了可[[Operationalization|操作化]]的判读维度。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
-> - **政策路径** 其学术定义广泛进入[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与各国高教主管部门政策文献，深刻影响了新加坡、马来西亚、阿联酋等国建设区域教育枢纽的战略规划。
+> - **政策路径** 其学术定义广泛进入[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与各国高教主管部门政策[[Document|文献]]，深刻影响了新加坡、马来西亚、阿联酋等国建设区域教育枢纽的战略规划。
 > - **跨国／跨领域传播** 思想在全球南方与发展中国家研究中获得深度引申；中国学者与国际学者运用其框架系统检验“[[Belt and Road Initiative|一带一路]]”多边大学联盟与定向工程人才联合培养的互惠实效。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
 
 > [!evidence-grid-a] 相关研究索引

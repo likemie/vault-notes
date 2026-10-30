@@ -8,7 +8,7 @@ aliases:
 summary: "跨伦理哲学、教育学与研究方法论的双重概念：在亚里士多德伦理学中指通过重复实践形成德性与服从习惯；在观察研究中指通过长期驻留消除参与者反应性的策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Presence]]"
   - "[[Covert Research]]"
+  - "[[Habitus]]"
   - "[[Praxis]]"
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
@@ -35,14 +36,15 @@ related_persons:
   - "[[Aristotle]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
-related_facts: []
+related_facts:
+  - "[[ASEAN Credit Transfer System]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: high
 status: active
 created: 2026-07-24
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
@@ -60,7 +62,7 @@ updated: 2026-10-20
 > [!citation-card] 关键表述：亚里士多德关于习惯化的经典论述
 > 人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢。（*Nicomachean Ethics* 1103a33；引自 Darwish, 2009, p. 4）
 >
-> *Men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics 1103a33)*
+> *Men become builders by building and lyre-players by playing the lyre; so too we become just by doing just [[ASEAN Credit Transfer System|acts]], temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics 1103a33)*
 
 ---
 
@@ -89,7 +91,7 @@ updated: 2026-10-20
 > [!contrast-table] 习惯化在两大语境下的维度对比
 > | 维度 | 德性伦理与教育哲学（[[Aristotle\|亚里士多德]]） | [[Qualitative Observation\|质性观察]]研究方法论（Cohen et al.） |
 > |------|--------------------------------|----------------------------------|
-> | **核心目标** | 培养道德习性、社会秩序与知性德性 | 消除参与者警惕感，恢复自然真实行为 |
+> | **核心目标** | 培养道德[[Habitus\|习性]]、社会秩序与知性德性 | 消除参与者警惕感，恢复自然真实行为 |
 > | **动因** | 外部权威设定与自我重复[[Praxis\|实践]] | 时间累积带来的心理适应与新奇感消退 |
 > | **批判／挑战** | 被[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]批判易导向被动服从与阶层固化 | 需要较高的现场时间成本，且无法保证完全习惯化 |
 

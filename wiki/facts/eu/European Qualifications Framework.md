@@ -12,9 +12,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "欧洲议会与欧盟理事会（European Parliament and Council of the European Union）"
 tags:
@@ -24,53 +24,62 @@ tags:
   - theme/higher-order-thinking
   - comparative-education/european-dimension
 related_concepts:
-  - "[[Problem Solving]]"
+  - "[[Lifelong Learning]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Wicked Problem]]"
-  - "[[Paradigm]]"
-  - "[[Policy Borrowing]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Subsidiarity Principle]]"
-related_theories: []
+  - "[[Europe of Knowledge]]"
+  - "[[Critical Thinking]]"
+  - "[[Policy Borrowing]]"
+  - "[[Commensuration]]"
+  - "[[Problem Solving]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Discourse]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+  - "[[Panopticism]]"
+  - "[[Behaviorism]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
+  - "[[Bologna Process]]"
   - "[[ASEAN]]"
   - "[[Comparative Education Society in Europe]]"
-  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
-  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2008 年 4 月由欧洲议会和[[EU|欧盟]]理事会以联合建议案形式正式通过，2017 年 5 月颁布修订建议案；由欧洲议会与欧盟理事会联合发布，并由欧盟委员会联合各成员国推进实施。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
-> - **适用地区 / 对象** 覆盖欧洲高等教育区及欧盟 38 个参与国的所有教育与培训阶段（涵盖普通基础教育、职业教育与高等教育，以及正规与非正规终身学习）。
+> - **发布时间 / 发布主体** 2008 年 4 月由欧洲议会和[[EU|欧盟]]理事会以联合建议案形式正式通过，2017 年 5 月颁布修订建议案；由欧洲议会与欧盟理事会联合发布，并由[[European Commission|欧盟委员会]]联合各成员国推进实施。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
+> - **适用地区 / 对象** 覆盖欧洲高等教育区及欧盟 38 个参与国的所有教育与培训阶段（涵盖普通基础教育、职业教育与高等教育，以及正规与非正规[[Lifelong Learning|终身学习]]）。
 > - **问题背景** 欧洲各国传统的文凭规格、学制时长与认证标准高度分化，阻碍了劳动力与学生在欧洲单一市场内的自由流动；传统以课时量和学制长度为核心的投入导向评价无法表征真实的跨国能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
 > - **制度位置** 在欧盟教育治理中，EQF 与欧洲学分互认体系（ECTS）、欧洲技能护照（Europass）共同构成依据《欧洲联盟条约》第 126 与 127 条设立的官方资格互认机制网络，作为对接并对标各国国家资格框架（National Qualifications Frameworks, NQFs）的最高元框架。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 
 ---
 
 > [!claim] 政策核心
-> 欧洲资格框架（European Qualifications Framework, EQF）确立了以“学习成果（Learning Outcomes）”为本位的 8 级阶梯式进阶架构，以知识、技能与自主责任三维指标界定资格层级，旨在消除成员国之间的学历资格壁垒，促进欧洲单一市场内人力资本的自由流动与终身学习体系贯通。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
+> 欧洲资格框架（European Qualifications Framework, EQF）确立了以“学习成果（Learning Outcomes）”为本位的 8 级阶梯式进阶架构，以知识、技能与自主责任三维指标界定资格层级，旨在消除成员国之间的学历资格壁垒，促进欧洲单一市场内[[Human Capital Theory|人力资本]]的自由流动与终身学习体系贯通。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 确立透明度与可比性的跨国资格参照转换机制，打破职业教育与普通教育的制度壁垒，推动以学习成果为导向的教育培训现代化改革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
 > - **适用对象** 欧盟及参与国各级教育培训机构、受教育者、雇主、劳动力市场管理部门以及国家资格认证机构。
 > - **三维学习成果与 8 级阶梯架构** 框架基于三维成果指标界定各层级能力，不设统一课程内容或学制时长：
->   - **知识（Knowledge）** 从基础事实知识递进至学科前沿的批判性理论知识；
+>   - **知识（Knowledge）** 从基础事实知识递进至学科前沿的批判性[[Theoretical Knowledge|理论知识]]；
 >   - **技能（Skills）** 从基本认知与实践技能递进至解决复杂与[[Wicked Problem|劣构问题]]的创新技能；
 >   - **自主与责任（Responsibility and Autonomy）** 从受直接监督递进至在不可预测语境中引领复杂战略变革与自律决策。
->   - **高等教育衔接（第 6–8 级）** 第 6 级对标学士学位（Bachelor），第 7 级对标硕士学位（Master），第 8 级对标博士学位（Doctorate），与博洛尼亚进程的高等教育区资格框架（QF-EHEA）全面兼容。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
+>   - **高等教育衔接（第 6–8 级）** 第 6 级对标学士学位（Bachelor），第 7 级对标硕士学位（Master），第 8 级对标博士学位（Doctorate），与[[Bologna Process|博洛尼亚进程]]的高等教育区资格框架（QF-EHEA）全面兼容。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
 > - **约束机制** 依据[[Subsidiarity Principle|辅助性原则]]采用自愿对标的软法建议形式，通过国家对标报告同行评审与公开透明机制实施柔性引导。
 
 > [!citation-card] 欧洲议会与理事会论建立欧洲终身学习资格框架
@@ -81,7 +90,7 @@ updated: 2026-10-28
 ---
 
 > [!timeline] 政策时间线
-> - **2000** 里斯本欧洲理事会提出促进劳动力流动与知识欧洲建设目标，启动建立通用资格透明度机制的议程。
+> - **2000** 里斯本欧洲理事会提出促进劳动力流动与[[Europe of Knowledge|知识欧洲]]建设目标，启动建立通用资格透明度机制的议程。
 > - **2004** 马斯特里赫特公报呼吁开发涵盖职业教育与普通教育的欧洲资格框架。
 > - **2008** 欧洲议会与欧盟理事会正式通过《关于建立欧洲终身学习资格框架的建议》（2008/C 111/01）。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
 > - **2017** 欧洲议会与理事会通过全面修订建议（2017/C 189/03），深化学习成果描述，强化非正规学习认证与第三方国家资格对齐。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
@@ -105,7 +114,7 @@ updated: 2026-10-28
 
 > [!indicators] 评价指标
 > - **覆盖广度** 参与国家数量及完成国家资格框架立法的成员国比例。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 13)]]
-> - **学习成果采纳度** 高等院校与职业教育机构在教学大纲中采用批判性思维与创新技能指标的覆盖率。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
+> - **学习成果采纳度** 高等院校与职业教育机构在教学大纲中采用[[Critical Thinking|批判性思维]]与创新技能指标的覆盖率。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–13)]]
 > - **跨境流动便利度** 学习者与劳动力持本土文凭在欧洲单一市场内获得雇主或院校对等认可的效率。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 
 > [!finding-cards] 效果与评价
@@ -124,16 +133,16 @@ updated: 2026-10-28
 
 > [!debates] 政策争议
 >
-> > [!axis] 自愿转换元工具 vs 隐性超国家全景敞视规训
+> > [!axis] 自愿转换元工具 vs 隐性超国家[[Panopticism|全景敞视]]规训
 > > 争论 EQF 究竟是中立的自愿翻译转换器，还是超国家技术专家对成员国教育实施远距离监控的软治理技术。
 > >
 > > - **欧盟官方立场** 坚称 EQF 严格遵循[[Subsidiarity Principle|辅助性原则]]，不干预国家课程设置或取代本土文凭体系，旨在为公民流动提供透明度工具。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
-> > - **批判学者立场** 揭示将所有教育成果折算为可通约的市场化与技术化技能描述符，实质上构成了超国家全景敞视监控的重要一环，暗中推行了教育性质的资本化重构。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> > - **批判学者立场** 揭示将所有教育成果折算为可[[Commensuration|通约]]的市场化与技术化技能描述符，实质上构成了超国家全景敞视监控的重要一环，暗中推行了教育性质的资本化重构。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 >
 > > [!axis] 学习成果标准化通约 vs 学科情境与人文思辨复杂性
 > > 争论高度通约的学习成果阶梯是否会导致教育过度窄化为劳动力市场功能主义。
 > >
-> > - **高等教育批判学者** 担忧将哲学、人文等学科的复杂思辨简化为行为主义能力描述符，容易削弱大学的人文批判与自主探索传统。
+> > - **高等教育批判学者** 担忧将哲学、人文等学科的复杂思辨简化为[[Behaviorism|行为主义]]能力描述符，容易削弱大学的人文批判与自主探索传统。
 > > - **政策制定者与雇主联盟** 强调明确的成果阶梯是保障劳动力市场用人匹配、降低跨国雇佣信息不对称的必要标准。
 
 > [!citation-card] 米特论欧洲资格框架与比较教育的“务实欧洲维度”
@@ -156,4 +165,4 @@ updated: 2026-10-28
 > | [[Comparative Education Society in Europe]] | 组织事实 | 欧洲比较教育学者追踪 EQF 跨国借用与制度趋同的重要学术平台。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 98)]] |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 论证 | 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与高阶思维能力对齐机制。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 论述后冷战时期欧洲比较教育学会如何将 EQF 与博洛尼亚进程确立为务实欧洲维度的核心经验基石。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 揭示 EQF 作为官方网络中的资格互认机制，如何配合新自由主义话语服务于劳动力流动与软法全景敞视治理。 |
+> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 揭示 EQF 作为官方网络中的资格互认机制，如何配合新自由主义[[Discourse\|话语]]服务于劳动力流动与软法全景敞视治理。 |

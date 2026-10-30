@@ -30,11 +30,11 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Visual Data]]"
   - "[[Artefact]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Document]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Chain of Evidence]]"
@@ -75,7 +75,7 @@ related_facts:
   - "[[Schulen im Team]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -120,7 +120,7 @@ updated: 2026-10-22
 > - **口述来源的兴起**
 >   近二十年间，基于对教师和学生等受访者的访谈并由受访者回忆自身经验作为历史证据的口述来源，在近期历史研究中越来越受重视（Humphries, 1981; Gardner, 2003）。
 > - **文献分析的核心地位**
->   另一方面，文献分析始终是现代历史研究最具特征和最传统的方法。正如 Scott（1990, p. 1）所论断的：处理文献来源材料被广泛视为专业历史学家的标志。
+>   另一方面，文献分析始终是现代历史研究最具特征和最传统的方法。正如 Scott（1990, p. 1）所论断的：处理[[Document|文献]]来源材料被广泛视为专业历史学家的标志。
 > - **核心技艺的反思缺失**
 >   然而，专业历史学家往往并不对这一核心技艺进行深入反思。John Tosh 指出，历史学生过去通常没有接受过关于其学科性质的正式指导（Tosh, 2002: xix）。在教育研究以及其他社会研究领域，文献的使用长期被视为不如访谈、[[Questionnaire\|问卷]]和直接观察技术重要（Burton, 2000）。
 > - **方法论的空白**

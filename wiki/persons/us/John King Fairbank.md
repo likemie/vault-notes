@@ -8,10 +8,10 @@ summary: "美国著名历史学家、汉学家，哈佛大学费正清东亚研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1907"
 died: "1991"
 lifespan: "1907–1991"
@@ -23,6 +23,7 @@ tags:
   - theme/international-relations
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Cultural Hierarchy]]"
   - "[[Falsification]]"
   - "[[Geopolitics]]"
@@ -33,14 +34,15 @@ related_theories:
 related_methods:
   - "[[Documentary Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-10-22
 > - **1929** 获威斯康星大学学士学位，随后作为罗德学者赴英国牛津大学深造，师从马士（H. B. Morse）等学者研习中国近代海关史与对外条约关系。
 > - **1932–1936** 旅居中国北京，在北京大学与清华大学进修中文并搜集清代档案，与蒋廷黻、金岳霖、梁思成等中国学者密切交往。
 > - **1936** 获牛津大学哲学博士学位，受聘于哈佛大学历史系任教，开设首批系统性东亚历史课程。
-> - **1941–1942** 发表奠基性文献《清代[[Tributary System|朝贡体系]]论》（与邓嗣禹合著）及《朝贡贸易与中国对外交往》，正式确立朝贡体系经典理论模型。
+> - **1941–1942** 发表奠基性[[Document|文献]]《清代[[Tributary System|朝贡体系]]论》（与邓嗣禹合著）及《朝贡贸易与中国对外交往》，正式确立朝贡体系经典理论模型。
 > - **1955** 在哈佛大学创设东亚研究中心（1977 年更名为费正清东亚研究中心），培养了包括柯文（Paul Cohen）、孔飞力（Philip Kuhn）等在内的数代顶尖中国学家。
 > - **1991** 于马萨诸塞州剑桥逝世，享年 84 岁。
 
@@ -106,7 +108,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术合作同行** 邓嗣禹 — 早期合著《清代[[Tributary System|朝贡体系]]论》与《中国对西方的反应》的核心学术搭档。
 > - **学生／传承者** 柯文、孔飞力 — 继承并深化其中国史学脉络的哈佛学派顶尖门生。
-> - **理论修正者** 康灿雄、濮德培、Zhu, K.、Yang, R. — 批判并修正其华夏中心同化假设与单向支配论调的现代学者。
+> - **理论修正者** 康灿雄、濮德培、Zhu, K.、[[Rui Yang|Yang, R.]] — 批判并修正其华夏中心同化假设与单向支配论调的现代学者。
 > - **机构实体** 哈佛大学费正清中国研究中心 — 费正清亲手创设的全球中国学研究重镇。
 
 ---

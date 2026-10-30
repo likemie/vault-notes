@@ -17,9 +17,11 @@ related_concepts:
   - "[[Horizontal Knowledge Structure]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Scientific Credit]]"
   - "[[Educational Meliorism]]"
   - "[[Discourse]]"
   - "[[Literature Review]]"
@@ -36,14 +38,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -65,7 +67,7 @@ citation_aliases:
 > - Bourdieu 的[[Champ\|场域]]视角：教育社会学被看作一个围绕声望、职位、出版、身份和意识形态承诺展开竞争的学术场域；谁能说话、谁被听见，本身就是[[Knowledge Production\|知识生产]]的条件。
 
 > [!info] 研究方法
-> 这是一篇理论性学科史与知识社会学分析，不是经验研究。材料包括英国教育社会学的代表性文献、机构位置、政策事件和学术争论；论证重点是把这些材料组织成三个历史片段：1930-1960 年代的 [[Political Arithmetic]]、1970 年代的 [[New Sociology of Education]]、1980 年代以后通向政策研究和 [[School Effectiveness]] 的转向。
+> 这是一篇理论性学科史与知识社会学分析，不是经验研究。材料包括英国教育社会学的代表性[[Document|文献]]、机构位置、政策事件和学术争论；论证重点是把这些材料组织成三个历史片段：1930-1960 年代的 [[Political Arithmetic]]、1970 年代的 [[New Sociology of Education]]、1980 年代以后通向政策研究和 [[School Effectiveness]] 的转向。
 
 > [!example] 论证结构
 > ### 主题一：教育社会学本身就是一个需要解释的知识[[Champ\|场域]]
@@ -74,7 +76,7 @@ citation_aliases:
 >
 > 2. Bernstein 的“[[Horizontal Knowledge Structure\|横向知识结构]]”解释了为什么教育社会学容易分裂为多个专门语言：每一种语言都有自己的问题、方法、判断标准和说话者，彼此之间难以完全翻译。
 >
-> 3. Bourdieu 式场域视角进一步说明，这些语言竞争不是纯理论争论，也牵涉职位、资助、期刊、身份和学术承认。例如，女性、有色人种、同性恋和残障学者重做教育社会学边界时，同时是在争取理论可见性和学术位置。
+> 3. Bourdieu 式场域视角进一步说明，这些语言竞争不是纯理论争论，也牵涉职位、资助、期刊、身份和[[Scientific Credit|学术承认]]。例如，女性、有色人种、同性恋和残障学者重做教育社会学边界时，同时是在争取理论可见性和学术位置。
 >
 > 这一主题先建立论证地基：如果教育社会学自身就是一个权力和知识交织的场域，那么它的历史就不能只写成理论进步史，而要写成研究目光如何生成、竞争和改变对象的历史。
 >

@@ -10,7 +10,7 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -35,7 +35,9 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reflexivity]]"
   - "[[Qualitative Validity]]"
+  - "[[Virtual World]]"
   - "[[Critical Thinking]]"
+  - "[[Man-Computer Symbiosis]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -49,6 +51,7 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
   - "[[Questionnaire]]"
+  - "[[Semi-structured Interview]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -59,7 +62,7 @@ related_arguments:
 related_instruments: []
 status: draft
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -87,7 +90,7 @@ updated: 2026-10-29
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 三角验证基于一个隐含的[[Epistemic Stances\|认识论立场]]——存在一个可以通过多种方法逼近的现象，且多种不完美方法的**交叉**比单一方法更接近现象本身。这一立场与严格的[[Constructivist Paradigm\|建构主义]]之间存在张力。
 > - **研究者角色** 研究者从单一方法的使用者转变为**方法策略师**——主动选择对比度大的方法来交叉检验发现，意识到每一种方法本身都是一副选择性滤镜（Smith, 1975）。
-> - **有效性标准** 三角验证主要服务于 **[[Concurrent Validity\|共时效度]]（concurrent validity）** 和 **[[Convergent and Discriminant Validity\|聚合效度]]（convergent validity）**——当不同方法产生基本一致的结果时，研究者对发现的置[[Reliability\|信度]]增加。同时桥接效度与信度——方法间三角验证体现了“同一目标的独立测量相互印证”这一逻辑（Campbell & Fiske, 1959）。
+> - **有效性标准** 三角验证主要服务于 **[[Concurrent Validity\|共时效度]]（concurrent validity）** 和 **聚合效度（[[Convergent and Discriminant Validity|convergent validity]]）**——当不同方法产生基本一致的结果时，研究者对发现的置[[Reliability\|信度]]增加。同时桥接效度与信度——方法间三角验证体现了“同一目标的独立测量相互印证”这一逻辑（Campbell & Fiske, 1959）。
 > - **不声称回答的问题** 三角验证不能保证达到客观真理——Lincoln and Guba (1985, p. 315) 将其重新功能化为[[Interpretive Paradigm\|自然主义探究]]中**数据的检查**（而非效度的证明）；它也不能自动解决由研究者偏见或理论预设引入的系统性偏差。
 
 > [!method-stack] 方法层级
@@ -181,7 +184,7 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 在[[Qualitative Research|质性研究]]中介绍三角验证作为基础效度策略，阐释多数据源汇聚建构主题的程序。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详述 Denzin (1970) 六种类型框架并回应批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），并在虚拟世界研究中探讨多渠道数据三角验证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Ch. 19]]）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详述 Denzin (1970) 六种类型框架并回应批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），并在[[Virtual World|虚拟世界]]研究中探讨多渠道数据三角验证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Ch. 19]]）。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 采用三阶段汇聚设计结合问卷调查、质性案例与组间比较，检验 ToK 与[[Critical Thinking|批判性思维]]的关系。
-> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 在科学教育人机协同研究中，结合课堂录像、交互提示词日志、反思访谈与田野手记实现多源数据三角互证。
-> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合留学生统计年鉴、合作备忘录政策文本、跨国民调与媒体报道，对 40 位知情人的半结构化访谈口述数据展开多源三角互证。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 在科学教育[[Man-Computer Symbiosis|人机协同]]研究中，结合课堂录像、交互提示词日志、反思访谈与田野手记实现多源数据三角互证。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合留学生统计年鉴、合作备忘录政策文本、跨国民调与媒体报道，对 40 位知情人的[[Semi-structured Interview|半结构化访谈]]口述数据展开多源三角互证。

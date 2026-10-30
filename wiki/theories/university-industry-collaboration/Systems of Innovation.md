@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 85
+theory_related_count: 86
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Problem Solving]]"
   - "[[Learning by Doing]]"
+  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Industrial District]]"
   - "[[Open-Mindedness]]"
@@ -113,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-10-26
 > **应用实例** 在高端制造与工程机械领域，创新极少直接来自大学理论物理学家的纯理论推导，而是企业工程师与供应商、最终用户以及大学工程系研究人员在反复试错与调试中共同攻关的结果；这印证了多主体双向反馈才是技术演进的核心机制。
 
 > [!theory-proposition] 命题二｜显性知识只是冰山一角，[[Tacit Knowledge|隐性知识]]在网络界面的转移与[[Absorptive Capacity|吸收能力]]共同决定系统绩效
-> **解释** 专利文献、学术论文与技术标准等编码化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其转译为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
+> **解释** 专利[[Document|文献]]、学术论文与技术标准等编码化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其转译为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
 >
 > **应用实例** 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟[[Industrial District|工业区]]（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
 

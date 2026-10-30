@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,9 +36,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
-  - "[[Predictive Validity]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -47,14 +45,12 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Disruption Index]]"
 related_instruments: []
-related_persons:
-  - "[[Derek de Solla Price]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -101,7 +97,7 @@ updated: 2026-10-30
 > 5. **聚类提取与拓扑分析** 应用网络社团结构探测算法划分知识子群，计算关键节点的中心度指标，识别桥接不同聚类的枢纽节点。
 > 6. **质性研读与理论阐释** 调取各聚类中的高被引文献展开精读，结合学科制度史对量化图谱揭示的学派分化与演进机制进行实质阐述。
 
-> [!method-stack] 数据与变量
+> [!method-stack] 数据与[[Variable|变量]]
 > - **数据结构** 纵向时间序列文献题录数据、非对称引文有向网络、对称共引/共词无向加权网络。
 > - **样本与单位** 经检索式筛选的全部目标成果记录；分析单位为单篇论著、学者、机构或关键词。
 > - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、相对引文影响因子、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。

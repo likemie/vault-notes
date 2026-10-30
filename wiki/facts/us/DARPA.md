@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 69
-fact_related_level: 6
-fact_related_stars: "💎💎"
+fact_related_count: 70
+fact_related_level: 7
+fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: 联邦国防与国家安全颠覆性研发机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia）
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Hard Power]]"
+  - "[[Document]]"
   - "[[National Innovation System]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -106,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -215,7 +216,7 @@ updated: 2026-10-26
 > | [[David C. Mowery]] | Person | 深入分析 DARPA 历史资助成效、软件规制与半导体联盟治理的核心学者。 |
 > | [[Fred Block]] | Person | 经济社会学家，将 DARPA 定性为美国[[Developmental Network State\|发展型网络国家]]（DNS）与早期技术跨界经纪的核心范本。 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 详尽剖析 DARPA 设立 [[MOSIS]] 原型制造平台与资助 Sematech 联合体跨越[[Valley of Death\|死亡之谷]]的微观制度机制。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 DARPA 联合 SRC 推进 JUMP 2.0 跨校协作网络并支撑美国半导体体系角色重构的文献。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 DARPA 联合 SRC 推进 JUMP 2.0 跨校协作网络并支撑美国半导体体系角色重构的[[Document\|文献]]。 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心战略构想、跨机构研发协同机制及对 DARPA 历史中试与工具共享模式的制度演化。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立全美微电子全谱系研发战略，将 DARPA ERI 2.0、微系统[[Hardware Security\|硬件安全]]（AISS/SSITH）与 EEI/AFVentures 风险分担机制纳入国家级中试与产业转化四大核心支柱。 |
 

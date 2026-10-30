@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: advisory-group
 headquarters: "阿灵顿（Arlington, VA）"
@@ -37,7 +37,6 @@ related_persons: []
 related_facts:
   - "[[DARPA]]"
   - "[[ARPANET]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Defense Sciences Research Council]]"
   - "[[Computing Research Association]]"
 related_arguments:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -55,7 +54,7 @@ updated: 2026-10-22
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1987 年，旨在延续 DARPA 信息处理技术办公室（IPTO）自[[ARPANET|阿帕网]]（ARPANET）时代以来的探索传统，使国家信息科研投资与大学前沿计算机科学界保持实时同频。
-> - **总部地点 / 业务辐射** 依托 DARPA 信息创新办公室（I2O）运行，辐射全美顶尖计算机[[Chinese Academy of Sciences|科学院]]系与国家实验室。
+> - **总部地点 / 业务辐射** 依托 DARPA 信息创新办公室（I2O）运行，辐射全美顶尖计算机科学院系与国家实验室。
 > - **法人属性与经费基础** 属于 DARPA 全额资助的常设特设专家研究网络。
 > - **核心宗旨与法定职责** 跨越学术界与国防军工界壁垒，前瞻识别具有战略改变潜力的信息科学突破方向，孵化颠覆性研究计划指南。
 

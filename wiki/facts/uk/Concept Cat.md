@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,17 +20,19 @@ tags:
   - "region/uk"
   - "communication-and-language"
   - "whole-class-approach"
-related_concepts: []
+related_concepts:
+  - "[[Language Skills]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
@@ -83,7 +85,7 @@ updated: 2026-10-28
 ---
 
 > [!lessons] 实施条件与适用范围
-> - **实施条件** 语言能力低于平均水平的儿童接受额外支持；全班回顾帮助巩固词汇。
+> - **实施条件** [[Language Skills|语言能力]]低于平均水平的儿童接受额外支持；全班回顾帮助巩固词汇。
 
 [项目实施资料](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/concept-cat#nav-how-is-it-implemented)
 

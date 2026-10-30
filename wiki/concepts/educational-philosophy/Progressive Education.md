@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Test-Based Accountability]]"
+  - "[[Lecturing]]"
   - "[[Epistemology]]"
   - "[[Learner-Centred Education]]"
   - "[[Direct Instruction]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Variable]]"
+  - "[[Document]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Cognitive Load Theory]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-10-26
 > *"progressive educational reform's goal as the replace of the strict academic style of teaching that stressed obedience into an educational system that was more focused on the child's development"* Zilversmit (1993, p. 18, 引自 [[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p. 102]])
 
 > [!boundary]- 概念边界
-> - 不等于 传统服从式讲授法（Traditional Gymnasium Style） — 旧式教学以教师为中心、分配阅读与背诵检查，进步教育旨在从根本上替代这种服从式体系。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
+> - 不等于 传统服从式[[Lecturing|讲授法]]（Traditional Gymnasium Style） — 旧式教学以教师为中心、分配阅读与背诵检查，进步教育旨在从根本上替代这种服从式体系。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
 > - 不等于 自由放任教学 — 进步教育强调教师作为设计者、促进者（facilitator）与探究支架提供者，而非放弃教学引导。
 > - 不等于 [[Constructivist Paradigm\|建构主义]] — 建构主义是其[[Epistemology\|认识论]]基础之一，而进步教育涵盖更广泛的社会政治目标、课程结构与民主育人愿景。
 
@@ -205,7 +207,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] | 1920–1930 年代美苏进步教育交流历史文献、Dewey and Shatskii 通信 | 历史比较与[[Documentary Analysis\|文献分析]] | 进步教育方法、民主 vs 阶级意识育人目标、跨国接触 | Shatskii 在苏俄建成了规模最大的农村进步教育实验，但因阶级意识分歧于 1930 年代被官方全面否定 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦美苏早期进步教育交流史 |
+> | [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] | 1920–1930 年代美苏进步教育交流历史[[Document\|文献]]、Dewey and Shatskii 通信 | 历史比较与[[Documentary Analysis\|文献分析]] | 进步教育方法、民主 vs 阶级意识育人目标、跨国接触 | Shatskii 在苏俄建成了规模最大的农村进步教育实验，但因阶级意识分歧于 1930 年代被官方全面否定 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦美苏早期进步教育交流史 |
 > | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]]/进步教育系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将进步探究法[[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
 
 ---

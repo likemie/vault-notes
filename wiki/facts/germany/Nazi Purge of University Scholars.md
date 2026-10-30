@@ -11,9 +11,9 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -22,10 +22,14 @@ tags:
   - theme/peer-effects
   - theme/invisible-college
 related_concepts:
-  - "[[Invisible College]]"
-  - "[[Peer Effects in Science]]"
+  - "[[Coauthorship Network]]"
   - "[[Reflection Problem]]"
+  - "[[Variable]]"
   - "[[Scientific Productivity]]"
+  - "[[Invisible College]]"
+  - "[[Heterogeneity]]"
+  - "[[Peer Effects in Science]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Difference-in-Differences]]"
@@ -56,13 +60,13 @@ updated: 2026-10-30
 
 > [!dev-timeline] 事件推进历程
 > - **1933 — 法令出台与首波清洗** 《职业官僚恢复法》第 3 条“雅利安条款”生效，哥廷根大学、柏林大学、法兰克福大学等数理科学重镇在数月内丧失了三分之一顶尖教授骨干。
-> - **1934–1938 — 清洗扩散与全网波及** 纳粹当局持续扩大撤职范围，清洗范围波及助理教员与实验室青年科学家，大批学者被迫流亡英美等国，德国本土各学科合著网络被系统性切断。
-> - **2010 — 科学学准自然实验重构** 经济学家[[Fabian Waldinger|法比安·瓦尔丁格]]（Waldinger, 2010）利用该历史事件的外生突发属性，构建包含 1925 至 1938 年全德科学教授发表的纵向面板，克服了曼斯基[[Reflection Problem|反射问题]]中的同时性偏差与遗漏变量混杂。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
+> - **1934–1938 — 清洗扩散与全网波及** 纳粹当局持续扩大撤职范围，清洗范围波及助理教员与实验室青年科学家，大批学者被迫流亡英美等国，德国本土各学科[[Coauthorship Network|合著网络]]被系统性切断。
+> - **2010 — 科学学准自然实验重构** 经济学家[[Fabian Waldinger|法比安·瓦尔丁格]]（Waldinger, 2010）利用该历史事件的外生突发属性，构建包含 1925 至 1938 年全德科学教授发表的纵向面板，克服了曼斯基[[Reflection Problem|反射问题]]中的同时性偏差与遗漏[[Variable|变量]]混杂。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
 
 ---
 
-> [!citation-card] 瓦尔丁格实证解聘冲击对德国学者生产力的因果衰退
-> 这与纳粹政府在 1925 至 1938 年间解聘同事后对德国科学教授同伴效应的研究结果一致。失去一位平均水准的合著者，使德国教授在物理学领域的生产力下降约 13%，在化学领域下降 16.5%。但高于平均水平的合著者离职导致了更为严重的生产力损失。这些合著者不一定是同一大学的同事，往往分布在德国各地的不同机构和城市。这些结果印证了在科学领域无形学院与学者所在的正式大学同样重要。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
+> [!citation-card] 瓦尔丁格实证解聘冲击对德国[[Scientific Productivity|学者生产力]]的因果衰退
+> 这与纳粹政府在 1925 至 1938 年间解聘同事后对德国科学教授同伴效应的研究结果一致。失去一位平均水准的合著者，使德国教授在物理学领域的生产力下降约 13%，在化学领域下降 16.5%。但高于平均水平的合著者离职导致了更为严重的生产力损失。这些合著者不一定是同一大学的同事，往往分布在德国各地的不同机构和城市。这些结果印证了在科学领域[[Invisible College|无形学院]]与学者所在的正式大学同样重要。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
 >
 > *This finding is consistent with research examining the peer effects on science professors in Germany, after the Nazi government dismissed their colleagues between 1925 and 1938. The loss of a coauthor of average quality reduced a German professor's productivity by about 13 percent in physics and 16.5 percent in chemistry. But, once again, the loss of the higher-than-average coauthors led to a much larger productivity loss. To be clear, these coauthors were not necessarily colleagues in the same university but were often located in different institutions and cities across Germany. Once again, these results speak to the idea that, at least in science, the "invisible college" is as important as the formal college in which we reside.*
 
@@ -72,7 +76,7 @@ updated: 2026-10-30
 > | 考察维度 | 物理学领域受冲击表现 | 化学领域受冲击表现 |
 > |---|---|---|
 > | **全职同伴流失平均效应** | 生产力永久下滑约 13% | 生产力永久下滑约 16.5% |
-> | **同行质量异质性** | 流失高于均值的顶尖合著者造成大幅额外产出损失 | 流失高于均值的顶尖合著者造成大幅额外产出损失 |
+> | **同行质量[[Heterogeneity\|异质性]]** | 流失高于均值的顶尖合著者造成大幅额外产出损失 | 流失高于均值的顶尖合著者造成大幅额外产出损失 |
 > | **空间分布特性** | 影响主要沿着跨城市学术思想合作网络传导，不局限于同系工位相邻 | 影响主要沿着跨城市学术思想合作网络传导，不局限于同系工位相邻 |
 > | **方法论定性价值** | 证实合作同伴流失是外生因果驱动，确立思想网络的实在性 | 证实合作同伴流失是外生因果驱动，确立思想网络的实在性 |
 
@@ -85,7 +89,7 @@ updated: 2026-10-30
 > | [[Invisible College]] | 概念 | 事件证实学术共同体的实质是由跨地域思想脉络维系，而非单纯物理校园。 |
 > | [[Reflection Problem]] | 概念 | 外部政治冲击的突发性提供了击穿社会学反射问题的外生工具变量。 |
 > | [[Peer Effects in Science]] | 概念 | 事件量化了顶尖学术同侪流失对科学留守者科研生产力的不可逆损失。 |
-> | [[Difference-in-Differences]] | 方法 | 瓦尔丁格评估该历史冲击所采用的双重差分准自然实验计量范式。 |
+> | [[Difference-in-Differences]] | 方法 | 瓦尔丁格评估该历史冲击所采用的双重差分准自然实验计量[[Paradigm\|范式]]。 |
 > | [[Fabian Waldinger]] | 人物 | 挖掘该历史事件并完成开创性同伴效应因果度量的核心学者。 |
 
 ---

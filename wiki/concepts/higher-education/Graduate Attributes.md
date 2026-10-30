@@ -9,10 +9,10 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - graduate-attributes
 - ideal-graduate
@@ -21,6 +21,7 @@ tags:
 - doctoral-education
 related_concepts:
   - "[[Employability]]"
+  - "[[Document]]"
   - "[[Global Citizenship]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
+  - "[[Time Management]]"
   - "[[Language Skills]]"
   - "[[Operationalization]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -55,7 +57,7 @@ updated: 2026-10-22
 > [!info|notitle]
 > 在博士层次，Senekal, Munnik, and Frantz（2022）的[[Systematic Review\|系统综述]]将博士毕业生特质定义为"毕业生完成博士学位后所拥有的品质、技能和能力"（引自 Spronken-Smith et al., 2024, p.87）。这一定义强调博士毕业生特质的**整体性**——不仅是研究技能，还包括人际、组织、公民和职业发展等多维能力。
 
-文献中亦使用 graduate outcomes、graduate skills、graduate qualities、graduate capabilities 等术语，与 graduate attributes 基本同义（Barrie et al., 2009; 引自 Wong et al., 2022, p.1341）。
+[[Document|文献]]中亦使用 graduate outcomes、graduate skills、graduate qualities、graduate capabilities 等术语，与 graduate attributes 基本同义（Barrie et al., 2009; 引自 Wong et al., 2022, p.1341）。
 
 > [!quote|notitle]
 > "the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution"（Bowden et al., 2000, p.3）
@@ -103,7 +105,7 @@ updated: 2026-10-22
 - **批判性自我意识**（55%）：自我导向、自我调节、自我反思、自我改进
 - **情商** 识别假设与偏见、理解行为与态度、质疑自身与他人的视角
 - **适应性** 在不熟悉或不确定的环境中保持自主、负责和敏捷；49% 的大学将[[Problem Solving|问题解决]]应用于新的/复杂情境
-- **组织与时间管理** 按时完成任务、在压力下高效工作
+- **组织与[[Time Management|时间管理]]** 按时完成任务、在压力下高效工作
 
 博士层次，[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的研究显示自信心的发展-应用差值为 0.9（发展 3.4 vs. 应用 4.3）（p.93）。七域分类中的"个人资源fulness"域包含个人品质（热情、动机、诚信、自我反思、灵活、创新、坚韧、独立）、自我管理（时间管理、工作-生活平衡、响应变化）和学术声誉（终身学习承诺、学者身份认同）（p.98, Table 5）。
 

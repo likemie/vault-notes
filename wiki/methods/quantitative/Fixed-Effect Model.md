@@ -10,7 +10,7 @@ summary: "假定所有纳入研究共享同一个恒定真实效应的统计合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -26,11 +26,13 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Implementation Fidelity]]"
   - "[[Heterogeneity]]"
   - "[[Clinical Trial]]"
   - "[[Visible Learning]]"
+  - "[[Web-Based Learning]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
@@ -40,13 +42,13 @@ related_methods:
   - "[[Inverse-Variance Weighting]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Experimental Research]]"
   - "[[Random-Effects Model]]"
   - "[[Between-Study Variance]]"
   - "[[Prediction Interval]]"
   - "[[Random Sampling]]"
   - "[[Meta-meta-analysis]]"
   - "[[Sample Size Determination]]"
-  - "[[Experimental Research]]"
   - "[[Cochran's Q Test]]"
   - "[[I-squared Statistic]]"
   - "[[Robust Variance Estimation]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -84,7 +86,7 @@ updated: 2026-10-29
 > *The fixed-effect model assumes that all studies share a single true effect size, with observed differences arising solely from sampling error.*
 
 > [!citation-card] 两级固定效应代数等价性定理
-> 二级固定效应元分析在数学上等价于单级直接合成，其充要条件是各一级元分析纳入的样本完全独立且互不重叠；一旦存在重复文献，经典方差公式失效且标准误会被严重低估。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
+> 二级固定效应元分析在数学上等价于单级直接合成，其充要条件是各一级元分析纳入的样本完全独立且互不重叠；一旦存在重复[[Document|文献]]，经典方差公式失效且标准误会被严重低估。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
 >
 > *Unter der Annahme eines festen Effekts entspricht die zweistufige Metaanalyse algebraisch der einstufigen direkten Synthese aller Primärstudien, vorausgesetzt, die Studienmengen überschneiden sich nicht.*
 
@@ -92,7 +94,7 @@ updated: 2026-10-29
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 预设外部世界存在唯一的“客观真实效应”（One True Effect），经验研究的变异被视为随机干扰噪声，追求对普遍常数的高精度逼近。
-> - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与实验设计可比性；在二级[[Research Synthesis|证据综合]]中必须逐一核查底层主要研究的完全独立性。
+> - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与[[Experimental Research|实验设计]]可比性；在二级[[Research Synthesis|证据综合]]中必须逐一核查底层主要研究的完全独立性。
 > - **有效性标准** 统计推断有效性依赖于同质性检验假设成立（Cochran's $Q$ 检验不显著且 $I^2 \approx 0\%$）；统计推论严格封闭于纳入的 $k$ 项特定研究本身，不得向广义超总体推论。
 > - **不声称回答的问题** 无法解释或容纳因教学情境、[[Implementation Fidelity|实施保真度]]与被试群体[[Heterogeneity|异质性]]导致的真实[[Effect Size|效应量]]离散。
 
@@ -178,7 +180,7 @@ updated: 2026-10-29
 
 > [!case] 关键案例重构：[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 对固定效应模型违背与排名雪崩的审计
 > - **宣称模型与实际操作背离** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中声明采用固定效应模型（Hattie, 2009, p. 12），假定所有研究估计同一个恒定效应。
-> - **文献重叠与等价性瓦解** 在网络学习领域，纳入的 Olson and Wisher (2002) 包含 15 项研究，其中 14 项（重叠率达 93.3%）与另一项纳入的 Sitzmann et al. (2006) 完全重复。固定效应独立性假定被彻底破坏。
+> - **文献重叠与等价性瓦解** 在[[Web-Based Learning|网络学习]]领域，纳入的 Olson and Wisher (2002) 包含 15 项研究，其中 14 项（重叠率达 93.3%）与另一项纳入的 Sitzmann et al. (2006) 完全重复。固定效应独立性假定被彻底破坏。
 > - **简单平均与排名雪崩** 哈蒂忽略重叠且放弃[[Inverse-Variance Weighting|逆方差加权]]，直接取简单算术平均，得出综合[[Effect Size|效应量]] $d = 0.59$（全书高居第 26 位）；经[[Christof Wecker|韦克尔]]等人剔除重复文献并执行规范逆方差加权后，真实综合效应量暴跌至 $d = 0.23$，在 138 个因素中的排位由第 26 位雪崩至第 98 位，大幅跌落 72 名并跌破 $0.40$ 关节点，实证证实了固定效应模型违规操作对政策排名的误导性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
 
 > [!case] 关键案例重构：Levie and Lentz (1982) 违背固定效应加权规范

@@ -23,12 +23,12 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Epistemology]]"
   - "[[Allgemeine Pädagogik]]"
+  - "[[Document]]"
   - "[[Bildung]]"
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Institutional Displacement]]"
-  - "[[Document]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Geisteswissenschaften]]"
   - "[[State Educational Sovereignty]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -71,7 +71,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1925** **波兰劳维奇出生与东欧历史渊源** 出生于波兰劳维奇（Łowicz），早年经历造就了其对东欧语言、历史与社会政治生态的深邃洞察。
 > - **1954** **汉堡大学获博士学位奠定苏维埃史学权威** 在汉堡大学完成博士论文，系统研究 1905–1921 年俄国苏维埃委员会运动的起源与制度演进，出版奠基性专著《俄国的苏维埃运动》（*Die Rätebewegung in Russland 1905–1921*）。
-> - **1964–1990** **执掌波鸿鲁尔大学确立全欧东欧教育研究中枢** 出任波鸿鲁尔大学比较教育学教授，创建并领导东欧教育研究室（Arbeitsstelle für vergleichende Bildungsforschung），汇集海量俄语与东欧教育档案文献，成为冷战时期西方世界研究社会主义教育体制无可替代的学术高地。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90, 93)]]
+> - **1964–1990** **执掌波鸿鲁尔大学确立全欧东欧教育研究中枢** 出任波鸿鲁尔大学比较教育学教授，创建并领导东欧教育研究室（Arbeitsstelle für vergleichende Bildungsforschung），汇集海量俄语与东欧教育档案[[Document|文献]]，成为冷战时期西方世界研究社会主义教育体制无可替代的学术高地。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90, 93)]]
 > - **1967** **发表经典构想确立“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”学术定位** 发表代表作《比较教育学的构想》（*Konzeptionen der Vergleichenden Pädagogik*），正式提出比较教育是依附于[[Allgemeine Pädagogik|普通教育学]]母体、同时向历史学与社会学纵深切入的交叉领域（Querschnittsbereich）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > - **1980年代末–1990** **领衔两德教育体制宏大比较实证工程** 受西德联邦教育与科学部委托，主持大型国家课题并出版《联邦德国与民主德国的教育比较》（*Vergleich von [[Bildung]] und Erziehung in der Bundesrepublik Deutschland und in der Deutschen Demokratischen Republik*），以客观严密的文献与数据剖析两德学制的意识形态分歧与结构异同。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 > - **2020** **逝世于德国波鸿与学派学术定论** 逝世于德国波鸿，享年 94 岁。学术界高度评价其以严密的文献学方法开创了理性、克制的比较制度社会学传统。
@@ -134,7 +134,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术同盟与德国学术领袖** [[Wolfgang Mitter]] — 战后西德比较教育学界的双子领袖，安维勒坐镇波鸿鲁尔大学，米特执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]]，共同开创东欧教育研究并维系 DGfE 比较分会建制。
 > - **学术继承者与[[Paradigm|范式]]推进者** 克里斯[[Peter Thiel|蒂尔]]·阿迪克（Christel Adick） — 安维勒在波鸿鲁尔大学教席的继任者，将安维勒的东欧极权体制剖析传统拓展为对全球化与[[Stanford School|斯坦福学派]][[World-Systems Theory|世界体系理论]]的研究。
-> - **精神源流先驱** [[Friedrich Schneider]]、[[Nicholas Hans]] — 承继德国[[Geisteswissenschaften|精神科学]]与历史学派传统，但在具体研究中摆脱了前代的形而上学玄思，走向扎实的制度文献学考证。
+> - **精神源流先驱** [[Friedrich Schneider]]、[[Nicholas Hans]] — 承继德国[[Geisteswissenschaften|精神科学]]与历史学派传统，但在具体研究中摆脱了前代的形而上学玄思，走向扎实的制度[[Document|文献]]学考证。
 > - **机构阵地** 波鸿鲁尔大学（东欧教育研究中心主任）、德国教育学会（DGfE 比较分会奠基人）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE 骨干成员）。
 
 ---

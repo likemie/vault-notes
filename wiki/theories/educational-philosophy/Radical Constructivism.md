@@ -5,7 +5,7 @@ aliases:
 summary: "由冯·格拉泽斯费尔德创立的认识论与学习哲学，主张知识是认知主体对其经验世界的适切性组织，强调主观适应性检验，在教育学中引发了关于教学本质、文化规范与技术理性边界的深刻争鸣"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemic Commitments]]"
   - "[[Metacognition]]"
   - "[[Discourse]]"
+  - "[[Learning Strategies]]"
   - "[[Rote Learning]]"
   - "[[Problem Solving]]"
   - "[[Theoretical Perspective]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （激进[[Constructivist Paradigm|建构主义]]）
@@ -161,7 +162,7 @@ updated: 2026-10-22
 ---
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 辨析强调学习者主动意义生成、个体化学习策略及批判传统[[Rote Learning|死记硬背]]的教学革新方案；透视纯粹学生中心主义在课程设计中的[[Epistemology|认识论]]盲区。
+> - **适合分析** 辨析强调学习者主动意义生成、个体化[[Learning Strategies|学习策略]]及批判传统[[Rote Learning|死记硬背]]的教学革新方案；透视纯粹学生中心主义在课程设计中的[[Epistemology|认识论]]盲区。
 > - **成立条件** 适用于以个人认知发展为核心目标的学科概念转化过程，要求研究者具备扎实的认识论反思能力。
 > - **解释不足** 无法合理阐释人类知识的代际传承、文化共识的建构机制以及语言符号系统对思维的深刻塑造，回避了教育社会学关切的阶层再生产与权力规训。
 > - **转化困难** 在大规模学校教育中全面贯彻激进[[Constructivist Paradigm|建构主义]]会导致评估标准彻底相对主义化，使国家层面的学业基准与公平性监测失去参照系。

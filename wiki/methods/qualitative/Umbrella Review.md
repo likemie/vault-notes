@@ -9,7 +9,7 @@ summary: "对已有系统综述和元分析进行高阶再综合的方法学体�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Interpretive Validity]]"
   - "[[Construct]]"
   - "[[Gatekeepers]]"
@@ -47,6 +48,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Corrected Covered Area]]"
   - "[[Confidence Interval]]"
+  - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Standard Error]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-10-29
 ---
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 秉承宏观循证综合视角，认为单一试验或孤立[[Meta-analysis|元分析]]因情境局限难以支撑广泛政策推论，必须通过多重综述的横向映射识别普遍规律与情境边界。然而，伞状综述高度依赖底层文献的[[Interpretive Validity|解释效度]]与[[Construct|构念]]一致性；若底层综述存在定义滑移，顶层综合将陷入虚假精确。
+> - **知识观** 秉承宏观循证综合视角，认为单一试验或孤立[[Meta-analysis|元分析]]因情境局限难以支撑广泛政策推论，必须通过多重综述的横向映射识别普遍规律与情境边界。然而，伞状综述高度依赖底层[[Document|文献]]的[[Interpretive Validity|解释效度]]与[[Construct|构念]]一致性；若底层综述存在定义滑移，顶层综合将陷入虚假精确。
 > - **研究者角色** 从“一手数据分析者”转变为“二阶证据[[Gatekeepers|把关人]]与审计者”，核心任务在于确立纳入标准的同质性、辨析概念边界并核验底层[[Chain of Evidence|证据链]]的可溯源性。
 > - **有效性标准** 遵循 [[PRISMA]] 声明与 Campbell 协作网 MECCIR 规范，以研究对象（Population）、干预措施（Intervention）、对照条件（Comparison）与结局指标（Outcome）的 [[PICO Framework|PICO]] 框架对齐为核心准入门槛，严格评估文献重叠率（如[[Corrected Covered Area|校正覆盖面积]] CCA）与报告质量。
 > - **不声称回答的问题** 不能脱离底层初级试验直接解释微观因果机制，无法消除由低质一阶综述输入导致的根本性偏差（“垃圾进，垃圾出”）。
@@ -109,7 +111,7 @@ updated: 2026-10-29
 > 1. **协议[[Preregistration|预注册]]与 [[PICO Framework|PICO]] 准入红线界定** 依据 Campbell MECCIR 规范公开发布研究方案，严格界定 PICO 四要素。明确排除对象偏离（如混入成人样本）、干预定义失真、对照条件模糊（混淆常规教学与活跃创新教学）以及结局指标错位的综述。
 > 2. **全库系统检索与文献去重筛选** 检索学术数据库与权威机构报告，遵循 [[PRISMA]] 四阶段流程图记录筛选过程；建立已纳入综述的初级实证文献全量索引矩阵，计算初级研究重复引用率。
 > 3. **[[AMSTAR]] 方法学质量独立双重评估** 运用 AMSTAR / AMSTAR-2 量表对纳入的一阶[[Meta-analysis|元分析]]开展双人盲审编码，重点审查检索策略透明度、文献排除清单、[[Publication Bias|发表偏倚]]检验及利益冲突披露。
-> 4. **[[Effect Size|效应量]]提取与可比性核查** 提取汇总效应量、[[Confidence Interval|置信区间]]与样本规模；严格核查实验设计可比性，杜绝将组内前[[Pre-test and Post-test|后测]]设计（Within-Subject）与独立组间实验（Between-Subject）直接混同（Morris & DeShon, 2002）。
+> 4. **[[Effect Size|效应量]]提取与可比性核查** 提取汇总效应量、[[Confidence Interval|置信区间]]与样本规模；严格核查[[Experimental Research|实验设计]]可比性，杜绝将组内前[[Pre-test and Post-test|后测]]设计（Within-Subject）与独立组间实验（Between-Subject）直接混同（Morris & DeShon, 2002）。
 > 5. **证据分级、重叠校正与实践转译** 采用证据确定性分级（如 GRADE 或 [[Education Endowment Foundation|EEF]] 挂锁评级），根据 [[Corrected Covered Area|CCA]] 热力图剔除严重冗余综述，将高确定性因果证据转化为实践者易懂的政策参数。
 
 ---

@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
+  - "[[Institutional Mimesis]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -207,5 +208,5 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统重构公学运动作为"政策导向行政改良主义"的经典[[Paradigm|范式]]，深度剖析霍勒斯·曼、斯托与巴纳德如何将欧陆经验转译为击退本土保守势力的政治合法化依据。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 在比较教育学科史脉络中确认美国公学制度模仿普鲁士国民学校，阐明"恶政与良教在自然上可分"作为方法论公理如何回应保守派对引进专制工具的指控。[(Rust et al., 2009, pp. 124–125)]
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 在比较教育学科史脉络中确认美国公学[[Institutional Mimesis|制度模仿]]普鲁士国民学校，阐明"恶政与良教在自然上可分"作为方法论公理如何回应保守派对引进专制工具的指控。[(Rust et al., 2009, pp. 124–125)]
 \n

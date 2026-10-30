@@ -9,7 +9,7 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Positivism]]"
   - "[[Data Infrastructure]]"
+  - "[[Technical Rationality]]"
   - "[[Performativity]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-10-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[Alain Desrosières|德罗西埃]]的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25–26)]] — 结合德罗西埃的等价空间学说，揭示经合组织如何运用统计测量技术构建跨国等价空间，将复杂的国内政策争议置换为中立的技术理性排位以实现远距离治理。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25–26)]] — 结合德罗西埃的等价空间学说，揭示经合组织如何运用统计测量技术构建跨国等价空间，将复杂的国内政策争议置换为中立的[[Technical Rationality|技术理性]]排位以实现远距离治理。
 
 ---
 

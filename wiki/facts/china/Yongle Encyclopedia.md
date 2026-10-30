@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1403–1408年（明永乐元年至永乐六年）"
 initiator_organization: "明朝朝廷（明成祖朱棣敕修）"
@@ -23,15 +23,23 @@ tags:
   - theme/knowledge-management
   - theme/history-of-knowledge
 related_concepts:
+  - "[[Document]]"
+  - "[[Metascience]]"
+  - "[[Knowledge Production]]"
+  - "[[Big Science]]"
+  - "[[Epistemic Governance]]"
   - "[[Team Science]]"
   - "[[Coauthorship Network]]"
-  - "[[Document]]"
 related_theories:
   - "[[Burden of Knowledge]]"
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+related_facts:
+  - "[[Manhattan Project]]"
+  - "[[Apollo Program]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
@@ -43,7 +51,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心定位
-> 《永乐大典》（Yongle Encyclopedia，或称永乐大典编纂工程）是 15 世纪初由中国明朝宫廷主导、动员逾 2,000 名文人学者协同推进的古代国家级超大规模文献类书汇编工程。在科学学（Science of Science）与知识社会学视阈下，该工程是前现代人类突破个人脑力极限、通过高度严密的分工协同整理全量文明知识的典范案例，实证确立了大规模团队知识生产跨越技术形态与历史周期的普适特征，超越了将团队模式局限于 20 世纪大科学的传统视野。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
+> 《永乐大典》（Yongle Encyclopedia，或称永乐大典编纂工程）是 15 世纪初由中国明朝宫廷主导、动员逾 2,000 名文人学者协同推进的古代国家级超大规模[[Document|文献]]类书汇编工程。在科学学（[[Metascience|Science of Science]]）与知识社会学视阈下，该工程是前现代人类突破个人脑力极限、通过高度严密的分工协同整理全量文明知识的典范案例，实证确立了大规模团队[[Knowledge Production|知识生产]]跨越技术形态与历史周期的普适特征，超越了将团队模式局限于 20 世纪[[Big Science|大科学]]的传统视野。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 
 > [!program-context] 历史背景与组织编制
 > - **立项背景与敕修旨意** 明成祖朱棣于 1403 年（永乐元年）即位后下旨修书，意在“凡书契以来经史子集百家之书，至于天文、地志、阴阳、医卜、僧道、技艺之言，备辑为一书，毋厌浩繁”。初修本定名《文献大成》，因篇幅有限未达宏愿，遂于 1405 年增派重臣姚广孝与解缙共同主持重修。
@@ -69,8 +77,8 @@ updated: 2026-10-30
 ---
 
 > [!significance] 科学学与知识史价值
-> - **打破大科学协作的时代偏见** 现代科学常将千人级科研团队视为 20 世纪大科学（如曼哈顿工程、阿波罗计划）的产物。王大顺与巴拉巴西以此案证实，早在 600 年前的人类文明中，面对浩瀚的[[Burden of Knowledge|知识负担]]，学者便自发组织起高度精密的多层级团队分工，完成了单兵作战绝无可能企及的文明级工程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
-> - **前现代知识治理的组织范例** 工程展现了集中化制度动员力与模块化协作技术结合的效能，为理解知识存储介质升级前夕的学者群体协作网络提供了珍贵的历史人类学范本。
+> - **打破大科学协作的时代偏见** 现代科学常将千人级科研团队视为 20 世纪大科学（如[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]）的产物。[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]以此案证实，早在 600 年前的人类文明中，面对浩瀚的知识负担，学者便自发组织起高度精密的多层级团队分工，完成了单兵作战绝无可能企及的文明级工程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
+> - **前现代[[Epistemic Governance|知识治理]]的组织范例** 工程展现了集中化制度动员力与模块化协作技术结合的效能，为理解知识存储介质升级前夕的学者群体协作网络提供了珍贵的历史人类学范本。
 
 ---
 

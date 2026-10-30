@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 53
+fact_related_count: 54
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -23,6 +23,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Document]]"
   - "[[Falsification]]"
   - "[[Knowledge Mediation]]"
   - "[[School Leadership]]"
@@ -84,7 +85,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-26
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由英国中央政府内阁办公室（[[Cabinet Office]]）正式倡导并联合相关中央部委协调设立，其政策前驱探索可追溯至 2011 年创设的英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及更早期的循证医学与政策实践。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 3–4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
 > - **适用地区 / 对象** 覆盖全英格兰及联合王国公共服务治理体系；服务对象涵盖中央部委决策官员、地方政府行政主管，以及基础教育学校校长与教师、临床医生与护理人员、警务长官与一线巡警、社会工作者和流浪救助一线人员等专业从业者。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
-> - **问题背景** 回应公共政策制定与专业实践中长期存在的“[[Evidence-Based Policy-Making|循证决策]]赤字”与“学术研究碎片化”危机：大学与科研机构每年产出海量学术文献，但决策端与实践端难以低成本获取、筛选与消化；公共财政资金大量流向未经因果检验甚至已被[[Falsification\|证伪]]的无效干预方案；学术界缺乏将因果证据转化为实践行动处方的中介转译桥梁。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
+> - **问题背景** 回应公共政策制定与专业实践中长期存在的“[[Evidence-Based Policy-Making|循证决策]]赤字”与“学术研究碎片化”危机：大学与科研机构每年产出海量学术[[Document|文献]]，但决策端与实践端难以低成本获取、筛选与消化；公共财政资金大量流向未经因果检验甚至已被[[Falsification\|证伪]]的无效干预方案；学术界缺乏将因果证据转化为实践行动处方的中介转译桥梁。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
 > - **制度位置** 标志着证据本位政策（Evidence-Based Policy, EBP）在英国公共治理体系中的国家级制度化复兴；作为独立或半独立的专门[[Knowledge Mediation\|知识中介]]网络（Specialist Knowledge Intermediary Network），处于中央部委政策制定与基层公共服务一线之间，承担供需双向转译、[[Research Synthesis|证据综合]]评级与干预因果试验的制度枢纽职能。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–148)]]
 
 ---

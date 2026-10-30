@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -237,7 +237,7 @@ updated: 2026-10-29
 > **文明思想史中抵御技术异化的全人防线与德国教化悲剧** 科技革命与工业化大生产打破了古典[[Liberal Education\|文雅教育]]对社会生活的垄断，带来了工具理性的恶性膨胀与人的深层异化。德国历史的发展呈现出洪堡新人文主义全人教化（*Bildung*）理想与军国主义威权国家机器之间的悲剧性分裂；比较研究必须立足两千年西方思想史长河，将教育定位于抵御技术机械化、唤醒人（*Anthropos*）之神圣尊严的最后屏障。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52)]]；引自 Ulich (1961)
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **以广义文化教化超越狭隘学校教育与[[Technical Rationality|技术理性]]** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与乌利希等奠基学者将教育锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中，拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling）；比较教育学本质上是以人为中心的“[[Geisteswissenschaften|人文科学]]”（[[Humanistic Episteme]]），在技术官僚理性主义将学校降格为[[Human Capital Theory|人力资本]]加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
+> **以广义文化教化超越狭隘学校教育与[[Technical Rationality|技术理性]]** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与乌利希等奠基学者将教育锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中，拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling）；比较教育学本质上是以人为中心的“人文科学”（[[Humanistic Episteme]]），在技术官僚理性主义将学校降格为[[Human Capital Theory|人力资本]]加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!claim] [[Matthew Arnold\|Arnold, M.]]
 > **国家干预与古典教化作为抵御庸俗放任的屏障** 面对维多利亚时代自由放任资本主义所滋生的缺乏甜蜜与光明（Sweetness and Light）的市侩庸人（Philistines），马修·阿诺德（Matthew Arnold）论证指出，唯有依靠现代国家的积极干预，将涵盖古典人文精神的普遍教化确立为公共教育的灵魂，才能抵御社会的野蛮化堕落。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 38–39)]]

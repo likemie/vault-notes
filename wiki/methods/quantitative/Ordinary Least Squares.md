@@ -11,7 +11,7 @@ summary: "线性回归参数估计的最经典基准模型，通过最小化观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 45
+method_related_count: 47
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
+  - "[[Free School Meals]]"
+  - "[[Locus of Control]]"
   - "[[Effective Sample Size]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -134,7 +136,7 @@ updated: 2026-10-30
 >   - 因变量 $Y_i$：[[Pre-test and Post-test\|后测]]标准化考试成绩或连续型测量指标。
 >   - 处理变量 $T_i$：实验组与对照组分配指示变量（0/1）。
 >   - 基线前测 $Y_{\text{pre},i}$：干预实施前采集的同构[[Academic Achievement\|学业成绩]]（核心协变量）。
->   - 背景协变量 $\mathbf{Z}_i$：学生性别、特殊教育需求（SEN）、免费校餐资格（FSM）等。
+>   - 背景协变量 $\mathbf{Z}_i$：学生性别、特殊教育需求（SEN）、[[Free School Meals|免费校餐]]资格（FSM）等。
 > - **诊断与检验** Breusch-Pagan 异方差检验、Durbin-Watson 自相关检验、Cook's 距离高杠杆异常值剔除敏感性分析。
 
 > [!formula-step] 公式步骤　OLS 矩阵参数估计与几何正交投影
@@ -160,7 +162,7 @@ updated: 2026-10-30
 > > - **横轴** 自变量 $x$。
 > > - **纵轴** 因变量 $y$。
 > > - **蓝点** 15 个可拖动的示例观测，不代表实证研究数据。
-> > - **红线与红色控制点** 候选预测直线；移动两个控制点可调整截距和斜率。
+> > - **红线与红色[[Locus of Control|控制点]]** 候选预测直线；移动两个控制点可调整截距和斜率。
 > > - **黑色竖线** 各观测到候选直线的纵向残差。
 > > - **SSE 读数** 当前候选直线的残差平方和与 OLS 解的最小残差平方和。
 > > - **蓝线** 勾选“显示 OLS 拟合线”后出现的最小二乘拟合线。

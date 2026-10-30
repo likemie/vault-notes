@@ -6,7 +6,7 @@ aliases:
 summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
+  - "[[Deliberative Space]]"
   - "[[Selectivity]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -38,6 +39,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Education and Training 2020]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[YOUNG_ADULLLT]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -79,7 +81,7 @@ updated: 2026-10-22
 - [[OECD]]：传播"投资研发→培养[[Creativity|创造力]]→高比例青年完成高等教育→经济增长"的良性循环叙事
 - 《全球教育报告》：提出[[UN Sustainable Development Goals|可持续发展目标]]之间相互关联的假设，强调教育、创新、减贫、健康等目标间的互利关系
 
-> 例：欧盟的 Education and Training 2020 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这一因果叙事不经独立实证检验，而是作为政策工具的内在成分被嵌入指标体系([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。
+> 例：欧盟的 [[Education and Training 2020]] 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这一因果叙事不经独立实证检验，而是作为政策工具的内在成分被嵌入指标体系([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。
 
 ### 作为绩效指标的认知内核
 
@@ -119,7 +121,7 @@ updated: 2026-10-22
 > [!warning] 争议与批评
 > - **因果链条未经检验** 许多政策[[Theory of Change\|变革理论]]的核心因果假设（如"促进创新将自然带动教育改善"）并未经过严格的实证检验，而是作为政策工具的内在成分被嵌入。Pawson（2006）的[[Realist Evaluation\|实在论评估]]本身正是对这种"黑箱"思维的批判性回应([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165]])
 > - **同质化风险** 通用变革理论将高度异质的区域和国家纳入同一因果框架，忽视地方特定情境、制度传统和权力结构的决定性影响。如将北欧的"公私民合作"预设为所有区域应效仿的最佳实践，但南欧地区连基础的[[Policy Network\|政策网络]]结构都尚未建立([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172–174]])
-> - **民主审议空间的压缩** 当变革理论被嵌入指标并自然化为"客观事实"时，本应经过民主审议的价值选择（"我们希望培养什么样的公民？"）被技术化为"数据告诉我们该怎么做"。详见 [[Selectivity]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175–176]])
+> - **民主[[Deliberative Space|审议空间]]的压缩** 当变革理论被嵌入指标并自然化为"客观事实"时，本应经过民主审议的价值选择（"我们希望培养什么样的公民？"）被技术化为"数据告诉我们该怎么做"。详见 [[Selectivity]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175–176]])
 
 > [!example] 相关案例／政策
 > - [[Innovation Union]] — 其核心[[Theory of Change\|变革理论]]是"[[Innovation Ecosystem\|创新生态]]体系"与"教育培训体系"的协同演化

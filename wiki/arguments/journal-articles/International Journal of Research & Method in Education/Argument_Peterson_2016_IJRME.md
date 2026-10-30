@@ -9,7 +9,7 @@ title: "Argument_Peterson_2016_IJRME"
 argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
   - "[[Research Utilization]]"
@@ -54,7 +55,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2016
 doi: ""
 citation_aliases:
@@ -71,7 +72,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：[[Literature Review\|文献综述]]（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
-> - 范围：证据创造、证据本位实践和教育研究伙伴关系的文献
+> - 范围：证据创造、证据本位实践和教育研究伙伴关系的[[Document|文献]]
 > - 对话对象：主要参与美国 i3 拨款和英国 [[Education Endowment Foundation\|EEF]] 的相关人员
 
 > [!example] 核心论证

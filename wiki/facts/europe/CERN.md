@@ -11,7 +11,7 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,15 +28,19 @@ tags:
   - theme/team-science
 related_concepts:
   - "[[Big Science]]"
+  - "[[Competitiveness]]"
+  - "[[Center of Calculation]]"
+  - "[[General Purpose Technology]]"
   - "[[New Public Management]]"
-  - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Paradigm]]"
   - "[[Public Dynamic Capabilities]]"
+  - "[[Mission-Oriented Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
-  - "[[Core and Extended Teams Model]]"
-  - "[[Team Assembly Model]]"
 related_theories:
-  - "[[Three Generations of Mission-Oriented Policy]]"
-related_methods: []
+  - "[[Punctuated Equilibrium Theory]]"
+  - "[[Core and Extended Teams Model]]"
+related_methods:
+  - "[[Statistical Process Control]]"
 related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"
@@ -59,7 +63,7 @@ updated: 2026-10-30
 > 欧洲核子研究组织（European Organization for Nuclear Research / CERN）是 1954 年由欧洲 12 国联合创设、总部设于瑞士日内瓦的全球顶级跨国[[Big Science|大科学]]基础研究机构；其核心使命是为全球粒子物理学界提供超越单国财政与工程极限的巨型科研基础设施（如大型强子对撞机 [Large Hadron Collider, LHC]），以探索物质基本组成与宇宙演化规律。在科技政策与科学学视阈中，CERN 不仅依托战略性公共采购与供应链技术学习机制在民用工业领域催生巨额外溢效应，其数千名物理学家联合攻关的实验合作组更成为剖析现代巨型扩展团队（Extended Teams）微观演化与超级署名现象的标志性范例。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1954 年 9 月在[[UNESCO|联合国教科文组织]]倡议与推动下由 12 个欧洲创始国签署公约成立，旨在汇聚战后欧洲破碎分散的科研资源与物理人才，重塑欧洲在基础物理前沿的全球竞争力。
+> - **成立时间 / 创设背景** 1954 年 9 月在[[UNESCO|联合国教科文组织]]倡议与推动下由 12 个欧洲创始国签署公约成立，旨在汇聚战后欧洲破碎分散的科研资源与物理人才，重塑欧洲在基础物理前沿的全球[[Competitiveness|竞争力]]。
 > - **总部地点 / 业务辐射** 总部与主实验园区横跨瑞士日内瓦西北郊与法国边境，地下隧道设施深入地下 50 至 175 米；业务网络辐射全球 110 余个国家、上千所高校科研机构与逾 1.7 万名访问研究人员。
 > - **法人属性与经费基础** 属于跨国超国家公法实体，享有外交豁免与治外法权；年度运行预算逾 12 亿瑞士法郎，主要由 23 个正式成员国依照国民净收入比例固定分摊。
 > - **核心宗旨与法定职责** 组织公约明文确立其宗旨为纯粹和平目的的高能粒子物理基础理论与实验探索，所有研究成果与技术数据完全面向全球科学界公开共享，严禁用于军事目的。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
@@ -95,13 +99,13 @@ updated: 2026-10-30
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 CERN Council）** 治理最高权力机构，由各成员国派出两名官方代表（一位政府外交代表、一位国家科学顾问）组成；负责审议批准战略规划、年度预算、重大科研基建项目及新成员国准入。
 > - **执行管理层（Directorate & Management）** 由理事会任命的总干事（Director-General）领导执行委员会，负责实验室日常运营、工程施工、束流运行及安全合规。
-> - **科学政策委员会（Scientific Policy Committee, SPC）** 由全球顶尖独立物理学家组成，独立评估各实验提案的科学价值与工程可行性，向理事会提供客观审议意见。
+> - **科学政策委员会（Scientific Policy Committee, [[Statistical Process Control|SPC]]）** 由全球顶尖独立物理学家组成，独立评估各实验提案的科学价值与工程可行性，向理事会提供客观审议意见。
 > - **跨国实验合作组自治网络（Experiment Collaborations）** ATLAS、CMS、ALICE、LHCb 等独立大型探测器团队实行自组织管理架构，自选发言人（Spokesperson）与协调委员会，独立管理各自数千名学者的署名规则与任务分工。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
 
 > [!pathways] 业务运行机制与供应链协同
 > - **严苛的高门槛技术规格定制（First-of-a-Kind Procurement Specifications）** CERN 巨型实验装置所需的高纯度超导线圈、极限超高真空阀门与极端耐辐射探测器在既有市场上均无成熟产品，促使招标规程设定超越商业基准的技术指标，倒逼投标企业开展先导性联合研发。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 > - **深度交互式供应链技术学习（Interactive Supply Chain Learning）** CERN 工程师深入制造企业一线生产车间，与供应商工程师共同攻坚材料配比与精密公差，充当企业的技术咨询顾问与高阶试验平台。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
-> - **前沿技术的非受限民用扩散（Unconstrained Civil Diffusion）** 采购合同明确排除排他性军事用途限制，允许参与企业将攻关积累的精密加工、射频加速与传感器工艺快速移植至正电子发射断层扫描（PET）医疗设备与工业检测设备。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
+> - **前沿技术的非受限民用扩散（Unconstrained Civil Diffusion）** 采购合同明确排除排他性军事用途限制，允许参与企业将攻关积累的精密加工、射频加速与传感器工艺快速移植至正电子发射断层扫描（[[Punctuated Equilibrium Theory|PET]]）医疗设备与工业检测设备。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 > - **扩展团队的吸附与动态轮换（Extended Team Assembly Mechanism）** CERN 大型实验团队遵循幂律重尾分布的扩展团队生成机制；团队依靠既有重大声望与顶尖仪器持续吸纳全球研究生、博士后与青年工程师，通过人员高频流动与结构化分工维持超大规模工程的适应力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 126–127)]]
 
 ---
@@ -109,7 +113,7 @@ updated: 2026-10-30
 > [!finding-cards] 核心装置与业务矩阵
 > - **大型强子对撞机（Large Hadron Collider, LHC）** 建于地下 100 米、周长 27 公里的环形超导粒子加速器，设计质子对撞质心能量达 13 至 14 TeV，探索基本粒子结构。
 > - **ATLAS 与 CMS 万人级通用探测器** 两套相互独立且相互校验的巨型多用途粒子探测系统，汇聚全球数百所大学团队开展希格斯物理、超对称及暗物质候选粒子探测。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
-> - **全球 LHC 计算网格（Worldwide LHC Computing Grid, WLCG）** 链接全球 40 余国 170 多个分布式计算中心的高性能网格计算系统，年处理对撞数据超过数十 PB。
+> - **全球 LHC 计算网格（Worldwide LHC Computing Grid, WLCG）** 链接全球 40 余国 170 多个分布式[[Center of Calculation|计算中心]]的高性能网格计算系统，年处理对撞数据超过数十 PB。
 > - **开放知识资产与基础软件平台** 研制开发 ROOT 科学数据分析系统、Geant4 粒子模拟框架，并在全球科学界无偿开源，构建高能物理计算底层生态。
 
 > [!citation-card] 创设公约法定宗旨
@@ -121,7 +125,7 @@ updated: 2026-10-30
 
 > [!indicators] 影响力维度与指标
 > - **基础前沿突破与大科学极值** 证实标准模型预言的希格斯玻色子；催生 5,154 名物理学家联合署名论著，在《物理评论快报》33 页篇幅中占去 24 页署名与机构名录，刷新人类单篇成果署名人数纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
-> - **民用通用技术催化与社会经济外溢** 1989 年诞生于日内瓦园区的万维网彻底重构人类社会信息传播与全球数字经济形态；高精度超导磁体与粒子束控制技术有力支撑全球医学放疗设备制造。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
+> - **民用[[General Purpose Technology|通用技术]]催化与社会经济外溢** 1989 年诞生于日内瓦园区的万维网彻底重构人类社会信息传播与全球数字经济形态；高精度超导磁体与粒子束控制技术有力支撑全球医学放疗设备制造。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 > - **供应链企业能力跨代升级** 计量研究表明，获得 CERN 高技术采购合同的工业企业在研发强度、专利申请率与商业销售额上均获得持续显著增益。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 
 > [!contrast-table] CERN 大科学采购模式与常规政府商业采购对比
@@ -164,7 +168,7 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Big Science]] | Concept | CERN 建设运营大型强子对撞机所属的核心科研组织范式。 |
+> | [[Big Science]] | Concept | CERN 建设运营大型强子对撞机所属的核心科研组织[[Paradigm\|范式]]。 |
 > | [[Core and Extended Teams Model]] | Theory | 科学学用来解释 CERN 5,154 人巨型合作组生成与演化规律的理论模型。 |
 > | [[Public Dynamic Capabilities]] | Concept | CERN 展现了公共机构在统筹战略基建与采购学习中的动态组织能力。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 为公共投资通过需求侧采购拉动私营产业技术升级提供了实证支撑。 |

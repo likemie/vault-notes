@@ -8,7 +8,7 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Ascent]]"
   - "[[Socioeconomic Status]]"
   - "[[Determinism]]"
+  - "[[Document]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Theory of Mind]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -130,6 +131,6 @@ updated: 2026-10-22
 > | [[TIMSS]] | 国际测评 | 担任全美研究协调员，将跨国课程数据转译为推动国家改革的实证武器。 |
 > | [[National Governors Association]] | 组织机构 | 作为核心学术顾问直接向全美州长协会宣讲国际对标经验。 |
 > | [[Achieve]] | 智库机构 | 深度参与 Achieve 主导的国际对标咨询委员会并共同起草奠基性白皮书。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录施密特作为学者型[[Policy Entrepreneur\|政策企业家]]在 CCSS 各阶段动员研究证据的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录施密特作为学者型[[Policy Entrepreneur\|政策企业家]]在 CCSS 各阶段动员研究证据的研究。 |
 
 ---

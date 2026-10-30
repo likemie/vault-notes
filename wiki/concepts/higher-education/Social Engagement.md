@@ -5,10 +5,10 @@ aliases:
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 domain: "higher-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - social-engagement
 - student-engagement
@@ -16,11 +16,13 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Student Engagement]]"
+  - "[[Extracurricular Activities]]"
   - "[[Academic Engagement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Economy of Experience]]"
   - "[[Operationalization]]"
+  - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
@@ -41,13 +43,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!info] 定义
-> 社会性投入（Social Engagement）是[[Student Engagement\|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Yajun Zheng\|郑雅君]]（2023）的"大学过程"[[Analytic Framework\|分析框架]]中，社会性投入与[[Academic Engagement\|学业投入]]并列构成"投入过程"的两大分析轴。
+> 社会性投入（Social Engagement）是[[Student Engagement\|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、[[Extracurricular Activities|课外活动]]、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Yajun Zheng\|郑雅君]]（2023）的"大学过程"[[Analytic Framework\|分析框架]]中，社会性投入与[[Academic Engagement\|学业投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote|notitle]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
@@ -66,7 +68,7 @@ updated: 2026-10-22
 > - **1993 社交融入** Tinto 在融入理论中提出社交融入（Social integration），定义为学生发现大学社交环境与自身偏好相协调的程度（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - **1991 行为[[Operationalization\|操作化]]** Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（，引 Kuh, 1991）
 > - **2003 [[Employability\|就业力]]转向** Brown & Hesketh 将社会性投入与[[Employability\|就业力]]关联——在[[Knowledge-Based Economy\|知识经济]]时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（，引 Brown & Hesketh, 2003, 2004）
-> - **2023 中国研究深化**[[Yajun Zheng\|郑雅君]]揭示社会性投入在两种习性模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**
+> - **2023 中国研究深化**[[Yajun Zheng\|郑雅君]]揭示社会性投入在两种[[Habitus|习性]]模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**
 
 ---
 

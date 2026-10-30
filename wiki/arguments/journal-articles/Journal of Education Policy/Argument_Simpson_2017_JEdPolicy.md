@@ -9,7 +9,7 @@ title: "Argument_Simpson_2017_JEdPolicy"
 argument_key: "Argument_Simpson_2017_JEdPolicy"
 argument_display_title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Null Hypothesis]]"
   - "[[Homework]]"
@@ -43,6 +44,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Cronbach's Alpha]]"
   - "[[Sample Size Determination]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -53,7 +55,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-24
+updated: 2026-10-30
 year: 2017
 doi: ""
 citation_aliases:
@@ -74,7 +76,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法** 概念分析与技术论证（conceptual analysis + technical demonstration）
-> - **论证工具** 一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
+> - **论证工具** 一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究[[Document|文献]]中的真实案例
 > - **数据来源** 已发表的[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]（Marzano 1998; Hattie 2009; Higgins et al. 2013/[[Education Endowment Foundation\|EEF]] Toolkit），以及纳入这些综合的原始研究
 
 > [!example] 核心论证
@@ -153,9 +155,9 @@ citation_aliases:
 > [!success] 主要发现
 > - **[[Effect Size\|效应量]]测量的是试验清晰度（experimental clarity），不是教育有效性** 大 d 表示在特定比较组、特定样本和特定测量的条件下组间差异"很清晰"——但清晰度不等于重要性或教育显著性
 > - **三个系统性偏差随研究领域变化** 比较组选择、范围限制和测量设计的自由度在不同教育领域中系统性不同，使得某些领域的效应量始终高于其他领域——无论其教育影响力如何
-> - **偏差不是随机噪声** "good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination\|sample size]]) to enhance the sensitivity of their experiments"——研究者做出增加效应量的设计决策是良好实验设计的体现，但这些决策的自由度因领域而异
+> - **偏差不是随机噪声** "good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination\|sample size]]) to enhance the sensitivity of their experiments"——研究者做出增加效应量的设计决策是良好[[Experimental Research|实验设计]]的体现，但这些决策的自由度因领域而异
 > - **联盟表是"对研究设计操纵开放程度的等级"** 效应量排名较高的领域是那些研究者更容易通过方法论选择使教育上可能不重要的差异显得突出的领域
-> - **仅在同一比较组、同一样本范围、同一测量工具和同一分析的极端条件下，合并效应量才具有意义**——"在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"(p.15, 2019)
+> - **仅在同一比较组、同一样本范围、同一测量工具和同一分析的极端条件下，合并效应量才具有意义**——"在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"
 
 > [!quote] 关键引用
 > > “标准化[[Effect Size\|效应量]]不是教育影响力的衡量标准，因为从这个过程中产生的更大的数字并不意味着更大的教育影响力。相反，排名靠前的领域……是研究者能设计出更敏感实验的领域。”

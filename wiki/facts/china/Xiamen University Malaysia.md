@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[South-South Cooperation]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -156,4 +157,4 @@ updated: 2026-10-26
 > | [[Double First-Class Initiative]] | Fact (Policy) | 厦门大学作为国家双一流建设高校承担走出去与服务国家大战略的顶层政策依托。 |
 > | [[ASEAN]] | Fact (Organization) | 厦大马校办学所在区位与重点辐射的东南亚十国区域治理平台。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 厦大马校深度融入并服务的一带一路[[People-to-People Connectivity\|民心相通]]与互联互通战略工程。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 剖析厦门大学马来西亚分校作为中国高教外交实体支柱与中马友谊之桥的代表性文献。 |
+> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 剖析厦门大学马来西亚分校作为中国高教外交实体支柱与中马友谊之桥的代表性[[Document\|文献]]。 |

@@ -5,10 +5,10 @@ aliases:
 summary: "因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 9
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - potential-outcomes-framework
 - causal-inference
@@ -16,6 +16,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > - **1974** — Donald Rubin 将 Neyman 的公式扩展至社会科学领域，提出"Rubin 因果模型"（Rubin, 1986）
 > - **1986** — Paul Holland 发表 "Statistics and Causal Inference"，提出"没有操纵就没有因果"（no causation without manipulation）的核心命题
 > - **2000** — Judea Pearl 出版 *Causality: Models, Reasoning and Inference*，引入有向无环图（DAG）作为因果推断的补充形式化工具
-> - [[Argument_Berk_2011_EvalRev\|Berk (2011, p.193)]] 指出，尽管存在异议者（如 Dawid, 2000），源自 Neyman 论文的潜在结果公式已主导了因果推断的技术文献
+> - [[Argument_Berk_2011_EvalRev\|Berk (2011, p.193)]] 指出，尽管存在异议者（如 Dawid, 2000），源自 Neyman 论文的潜在结果公式已主导了因果推断的技术[[Document|文献]]
 
 > [!abstract] 因果效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.193]])。

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[School Climate Effects]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-26
 > 鉴于美军官兵及其家属面临高频次跨州调防、海外部署与战斗创伤等特殊压力，随军子女在基础教育阶段普遍面临适应困难。
 >
 > - **联邦三方联合资助** 获得国防部与农业部持续拨款支持，为各军种家庭支援项目与国防部海外军人子女学校系统（DoDEA）提供循证项目采购依据。
-> - **同行评审文献硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> - **同行评审[[Document|文献]]硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 ---
 

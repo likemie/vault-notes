@@ -11,11 +11,12 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 related_concepts:
+  - "[[Academic-Administrator Entrepreneurs]]"
   - "[[Self-Cultivation]]"
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
@@ -31,14 +32,14 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
 
 > [!event-context] 科举制度历史档案
 > - **时间跨度** 7 世纪（隋唐）至 1905 年（清末），在国家层面延续超过 1300 年。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 47–48)]]
-> - **关键主体** 朝廷、学者型官员（scholar-officials）、知识分子与广大考生群体。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 48)]]
+> - **关键主体** 朝廷、[[Academic-Administrator Entrepreneurs|学者型官员]]（scholar-officials）、知识分子与广大考生群体。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 48)]]
 > - **制度起源** 从汉代地方察举制演变为基于统一公开考试的常态化选拔体系。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47)]]
 > - **核心功能** 连接儒家[[Self-Cultivation\|修身]]理想与国家治理体系，构建基于能力本位（meritocracy）的社会阶层流动通道。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 593–594)]]
 

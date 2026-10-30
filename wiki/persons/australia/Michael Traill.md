@@ -8,7 +8,7 @@ summary: "澳大利亚前麦格理银行银行家、社会创投（SVA）创会�
 type: person
 nationality: "australia"
 person_region: "australia"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Return on Investment]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Epoché]]"
@@ -38,6 +39,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Diana Crane]]"
   - "[[David Gonski]]"
   - "[[Michael Barber]]"
 related_facts:
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-10-26
 
 > [!timeline] 生平与职涯
 > - **1986–2002** 任职于麦格理银行（Macquarie Bank），晋升为执行董事并联合创立麦格理直接投资部门（Macquarie Direct Investment），主导多项私募股权与风险资本运作。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 520)]]
-> - **2002** 与麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦克莱恩（Robert McLean）等人共同发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），出任首任首席执行官，将商业银行纪律引入非营利领域。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524)]]
+> - **2002** 与麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦[[Diana Crane|克莱恩]]（Robert McLean）等人共同发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），出任首任首席执行官，将商业银行纪律引入非营利领域。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524)]]
 > - **2010** 因在[[Social Impact Investing\|社会投资]]与非营利治理领域的活动获颁澳大利亚员佐勋章（Member of the Order of Australia, AM）。
 > - **2013–2018** 在首期 Gonski 审查报告建议推动下，主导创立[[Australian Schools Plus\|澳大利亚学校加计划]]（Schools Plus）并出任首任董事长，推动联邦议会通过专项税法修正案赋予其覆盖全澳的[[Deductible Gift Recipient\|第一类可扣税赠款人]]（Deductible Gift Recipient Item 1, DGR1）特许资质。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 525, 530)]]
 > - **2014** 从 SVA 首席执行官职位卸任，随后代表机构在联邦议会发表政策演讲，持续以政策游说者身份推动国家[[Evidence-Based Education\|循证教育]]中介设立。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 526)]]
@@ -81,7 +83,7 @@ updated: 2026-10-26
 
 > [!work-line] 主要著作
 > - **2014 — *Investing in Social Change*** 系统阐释以资本投资取代无偿赠款的[[Venture Philanthropy\|风险慈善]]理念，论证社会效益测度与[[Return on Investment\|投资回报率]]（[[Return on Investment\|ROI]]）对公共部门效能提升的必要性。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 526)]]
-> - **2016 — *Jumping Ship: From the World of Corporate Australia to the Heart of [[Social Impact Investing\|Social Investment]]*** 记录从麦格理银行投行家向全澳顶级风险慈善枢纽操盘手的角色转换；详细剖析 [[Social Ventures Australia\|SVA]] 多层控股法人设计、跨国募款网络、闭门政策协商及政商精英共生机制，成为教育政策社会学解构澳大利亚异层治理与[[Policy Network\|政策网络]]的第一手核心文献。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526, 533)]]
+> - **2016 — *Jumping Ship: From the World of Corporate Australia to the Heart of [[Social Impact Investing\|Social Investment]]*** 记录从麦格理银行投行家向全澳顶级风险慈善枢纽操盘手的角色转换；详细剖析 [[Social Ventures Australia\|SVA]] 多层控股法人设计、跨国募款网络、闭门政策协商及政商精英共生机制，成为教育政策社会学解构澳大利亚异层治理与[[Policy Network\|政策网络]]的第一手核心[[Document|文献]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526, 533)]]
 
 ---
 

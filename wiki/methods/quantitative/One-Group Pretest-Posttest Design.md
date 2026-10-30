@@ -6,7 +6,7 @@ summary: "前实验设计中仅对单一组进行前测、干预和后测的设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,11 +20,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Unit of Analysis]]"
+  - "[[School Climate Effects]]"
+  - "[[Diversity Courses]]"
   - "[[Causality]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[Pre-Experimental Designs]]"
   - "[[Random Assignment]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Quasi-Experimental Designs]]"
 related_arguments:
@@ -32,11 +34,11 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] One-Group Pretest-Posttest Design
-> 单组前后测设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs\|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment\|随机分配]]，Campbell and Stanley (1963) 将其列为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 326–327]]）。
+> 单组前[[Pre-test and Post-test|后测]]设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs\|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment\|随机分配]]，Campbell and Stanley (1963) 将其列为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 326–327]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 单一组参与者——通常是已有班级或自然群体。
@@ -45,7 +47,7 @@ updated: 2026-10-29
 > - **输出形式** 前后测均值比较，通常以配对 t 检验报告。
 
 > [!method-position] 在[[Pre-Experimental Designs\|前实验设计]]中的位置
-> - **为何是坏例子** 教育实验永远无法达到物理科学中的控制水平。一位物理学家加热金属棒可以自信地将膨胀归因于温度升高——因为她在实验室内排除了所有其他变异来源（Pilliner, 1973）。同样的控制程度在教育实验中永远无法达到：学生特征、教师特征、学校氛围、课堂组织、测量方式、学期内的上千件其他事件都可能影响前[[Pre-test and Post-test\|后测]]差异。
+> - **为何是坏例子** 教育实验永远无法达到物理科学中的控制水平。一位物理学家加热金属棒可以自信地将膨胀归因于温度升高——因为她在实验室内排除了所有其他变异来源（Pilliner, 1973）。同样的控制程度在教育实验中永远无法达到：学生特征、教师特征、[[School Climate Effects|学校氛围]]、课堂组织、测量方式、学期内的上千件其他事件都可能影响前[[Pre-test and Post-test\|后测]]差异。
 > - **有效性标准** [[Internal Validity\|内部效度]]极低——无法区分干预效果与成熟、历史、测验效应、工具变化和回归均值的混淆。
 > - **不能回答的问题** 无法回答"变化是否由干预导致"——只能报告"干预前后发生了变化"，但变化可能有十几个替代解释。
 
@@ -63,7 +65,7 @@ updated: 2026-10-29
 > [!critique-method] 教育实验 vs 物理实验的控制鸿沟
 > 一位物理学家对金属棒加热，可以自信地将观察到的膨胀归因于温度升高，因为在实验室的范围内，她已**排除（即控制）了所有其他外部变异来源**（Pilliner, 1973）。
 >
-> 同样的控制程度在教育实验中**永远无法达到**。以一项为期十周的多元文化课程项目为例——即使后测显示对少数族裔的态度比前测更宽容，可能的影响因素绝不限于课程本身：学生特征、教师特征、学校氛围、课堂组织方式、课程材料的呈现方式、态度测量的方式，以及学期内校内外发生的上千件其他事件，都可能对观察到的态度差异产生影响（p. 327）。
+> 同样的控制程度在教育实验中**永远无法达到**。以一项为期十周的[[Diversity Courses|多元文化课程]]项目为例——即使后测显示对少数族裔的态度比前测更宽容，可能的影响因素绝不限于课程本身：学生特征、教师特征、学校氛围、课堂组织方式、课程材料的呈现方式、态度测量的方式，以及学期内校内外发生的上千件其他事件，都可能对观察到的态度差异产生影响（p. 327）。
 
 > [!method-fit] 适用判断
 > - **适合使用** 初步探索性研究中资源和条件不足以实施真实验时；教学情境中的初步评估；作为更严格设计的预备阶段。

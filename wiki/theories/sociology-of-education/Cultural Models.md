@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -22,6 +22,7 @@ tags:
   - world-society
 related_concepts:
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Ideal Learner]]"
   - "[[Dual School System]]"
   - "[[Falsification]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
+  - "[[Institutional Mimesis]]"
   - "[[Self-Cultivation]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-10-22
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 认知人类学学者 Holland and Quinn (1987) 与 Shore (1996) 奠定了文化模型的基本概念；[[Jin Li|李瑾]]（Jin Li, 2012）在《文化之思》（*Cultural Foundations of Learning*）中将其系统[[Operationalization|操作化]]为学习文化模型；[[John W. Meyer|约翰·迈耶]]等（Meyer, Kamens, & Benavot, 1992; Meyer et al., 1997）与[[Robert Arnove|罗伯特·阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）、[[Liliana Esther Olmos|奥尔莫斯]]、托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将其扩展并反思为解释跨国现代性与教育制度扩散的宏观世界文化模型。
 > - **原初问题** 为什么不同文化背景的儿童与家长对学习的动机理解存在系统性差异；为什么全球南方的现代学校制度与课程门类会采纳惊人一致的西方文化信念。
-> - **理论资源与材料** 汇聚了认知语言学原型理论、儒家与[[Socrates|苏格拉底]]知识传统文献、跨文化词汇调查、[[Ideal Learner|理想学习者]]画像、二战后全球民族国家教育统计数据及多国课堂[[Ethnography|民族志]]。
+> - **理论资源与材料** 汇聚了认知语言学原型理论、儒家与[[Socrates|苏格拉底]]知识传统[[Document|文献]]、跨文化词汇调查、[[Ideal Learner|理想学习者]]画像、二战后全球民族国家教育统计数据及多国课堂[[Ethnography|民族志]]。
 
 > [!dev-timeline] 理论演变与扩展
 > - **1987 — 人类学认知模型确立** Holland & Quinn 出版《语言与文化中的文化模型》，确立了文化图式作为知识组织和意义建构共享工具的理论地位。
@@ -154,7 +156,7 @@ updated: 2026-10-22
 > - **[[Research Question|研究问题]]** 适合解释微观跨文化学习行为的信念根源，以及宏观国家教育改革[[Discourse|话语]]的跨国同质化与本土变异机制。
 > - **分析对象与单位** 微观为个体的学习话语与理想原型；宏观为主权国家的政策文本、官方课程纲要、国际组织借贷备忘录及课堂日常实践。
 > - **需要的材料** 质性语言词汇、[[In-depth Interview|深度访谈]]、教科书道德画像、国家教育宏观规划文本、教学课时统计表与课堂[[Ethnography|民族志]]记录。
-> - **解释目标** 识别深层文化模型的构成维度，厘清表层制度模仿、国家中介过滤与微观社会结构之间的解耦或张力。
+> - **解释目标** 识别深层文化模型的构成维度，厘清表层[[Institutional Mimesis|制度模仿]]、国家中介过滤与微观社会结构之间的解耦或张力。
 
 > [!theory-framework] 文化模型多层分析维度与判读矩阵
 >

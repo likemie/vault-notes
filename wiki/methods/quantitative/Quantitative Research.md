@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 84
+method_related_count: 85
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Scale of Measurement]]"
   - "[[Hypothesis]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Independent Variable]]"
   - "[[Study Population and Sample]]"
@@ -115,7 +116,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-10-29
 ---
 
 > [!proc] 量化研究通用程序
-> 1. 明确理论框架与[[Hypothesis\|研究假设]]：从既有文献中提炼核心[[Construct\|构念]]，推导出可检验、可[[Falsification\|证伪]]的定向理论假说或[[Research Question\|研究问题]]。
+> 1. 明确理论框架与[[Hypothesis\|研究假设]]：从既有[[Document|文献]]中提炼核心[[Construct\|构念]]，推导出可检验、可[[Falsification\|证伪]]的定向理论假说或[[Research Question\|研究问题]]。
 > 2. 构念[[Operationalization\|操作化]]与指标界定：将抽象构念转化为离散的[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、控制[[Variable\|变量]]、调节变量与中介变量，明确[[Scale of Measurement\|测量尺度]]。
 > 3. 工具开发与测量标定：选用或编制具有良好信效度的标准化量表或[[Questionnaire\|问卷]]，进行[[Pilot Testing\|预测试]]与测量学检验。
 > 4. 样本设计与数据采集：界定[[Study Population and Sample\|目标总体]]，依据功效分析确定[[Sample Size Determination\|样本量]]，实施严格的[[Random Sampling\|概率抽样]]或实验分组（如[[Random Assignment\|随机分配]]），收集标准化数值数据。

@@ -9,7 +9,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - level/national
 related_concepts:
   - "[[Normal School]]"
+  - "[[Document]]"
   - "[[Education Going Global]]"
   - "[[Industry-Education Integration Community]]"
   - "[[Emergent Talents]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-26
 > [!org-evolution] 组织发展历程
 > - **2013–2018** **基地创设与双边比较基础奠定**
 >
->   获批部区共建重点基地，系统开展东盟国家职业教育体制、法律规制与技术人才培养现状的文献梳理与基线调研。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 287–288)]]
+>   获批部区共建重点基地，系统开展东盟国家职业教育体制、法律规制与技术人才培养现状的[[Document|文献]]梳理与基线调研。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 287–288)]]
 >
 >   - **2013** 中心正式挂牌创设，确立服务周边外交与[[Education Going Global|职教出海]]的战略目标。
 >   - **2016** 开展首批东盟国家职业教育体制横向比较研究，参与起草地方职教对外开放行动细则。

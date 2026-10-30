@@ -9,10 +9,10 @@ aliases:
 summary: "由 Marcia C. Linn 领衔创立的科学教育建构主义教学设计与认知评估理论，主张学习者通过引出前概念、引入新想法、发展证据判别标准与反思整合四个协同机制，将离散经验演进为连贯的科学因果网络"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 29
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: "instruction-pedagogy"
 theory_domain: "instruction-pedagogy"
 tags:
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Concept Mapping]]"
   - "[[Scientific Explanation]]"
+  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Direct Instruction]]"
   - "[[Interaction Effect]]"
@@ -60,7 +61,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!def] Knowledge Integration
@@ -124,7 +125,7 @@ updated: 2026-10-22
 知识整合[[Framework for Teaching|教学框架]]在过去二十余年中开展了跨越数十所学区的大样本受控实验与[[Cohort Study|追踪研究]]，证实其在打破刻板事实灌输、促进概念深层迁移上的稳健实效：
 
 > [!effect-table]- 知识整合框架实证数据表
-> | 研究文献 | 比较条件或干预设计 | 样本规模 | 关键因果发现 | [[Effect Size\|效应量]]与统计学表现 | 理论与政策意义 |
+> | 研究[[Document\|文献]] | 比较条件或干预设计 | 样本规模 | 关键因果发现 | [[Effect Size\|效应量]]与统计学表现 | 理论与政策意义 |
 > |---|---|---|---|---|---|
 > | Linn et al. (2006) | 基于 [[Web-based Inquiry Science Environment\|WISE]] 平台的知识整合课程单元 vs 传统教材讲授对照组 | 跨学区 8,000 余名初中科学学生（涵盖多样化族裔） | KI 探究组在概念理解、因果论证与[[Problem Solving\|复杂问题解决]]上全面显著优于传统对照组；对初始学业处于弱势的学生具有显著补偿促进作用 | 显著跨年级学习增益（$p < .001$） | 证实宏观课程级项目式探究完全能兼顾知识广度与概念深度（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） |
 > | Gerard et al. (2016) | 结合自动 NLP 评分引擎的自适应即时引导 vs 静态文本反馈 | 大规模初高中探究课堂准实验 | 嵌入 KI 理念的自动化动态诊断使教师能即时识别全班概念盲区，学生修改解释后的整合得分显著提升 | 效应量达中到高水平（$d = 0.45 \sim 0.65$） | 确立人工智能与[[Learning Analytics\|学习分析]]在赋能规模化知识整合教学中的核心可行性 |

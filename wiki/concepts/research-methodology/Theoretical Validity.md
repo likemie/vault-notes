@@ -6,7 +6,7 @@ aliases:
 summary: "Maxwell 质性效度类型之一，关注研究者带入研究的理论建构能在多大程度上解释所研究的现象，理论在此被视为解释，构念是所有参与者而非仅仅是研究者的构念"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Descriptive Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Emergence]]"
+  - "[[Document]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Peer Debriefing]]"
@@ -29,7 +30,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-10-22
 > [!contrast-table] 理论效度 vs [[Construct Validity\|构念效度]]
 > | 维度 | 理论效度（Maxwell, 质性） | [[Construct Validity\|构念效度]]（Campbell & Fiske, 量化） |
 > |---|---|---|
-> | **[[Construct\|构念]]来源** | 研究者和被研究者**双方**的构念 | 研究者**预先定义**的构念，通过理论和文献确定 |
+> | **[[Construct\|构念]]来源** | 研究者和被研究者**双方**的构念 | 研究者**预先定义**的构念，通过理论和[[Document\|文献]]确定 |
 > | **验证方式** | 理论在多大程度上解释了现象——通过参与者验证、[[Triangulation\|三角验证]]和[[Peer Debriefing\|同行汇报]]来增强 | 通过收敛和区分技术、因子分析等统计方法来检验 |
 > | **目标** | **解释**——为什么现象如此发生？ | **测量**——工具是否测量了正确的构念？ |
 > | **灵活性** | 构念可以在研究过程中修正和重新定义 | 构念通常在研究设计阶段确定，在数据收集后保持不变 |

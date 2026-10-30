@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,9 +27,10 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[School Autonomy]]"
+  - "[[Epistemic Governance]]"
+  - "[[Research Translation]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
-  - "[[Cognitive Decoupling]]"
   - "[[New Public Management]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Global Education Governing Complex]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -111,9 +112,9 @@ updated: 2026-10-26
 
 > [!finding-cards] 核心实证结论
 > - **主要效应（自指性循环运作）** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）利用[[World Education Reform Database\|世界教育改革数据库]]（WERD）证实，世界银行的政策报告在推介建议时呈现高度的自指性，极少汲取非世行体系的跨国经验，并反复循环引用自身在 SABER 中归档的最佳实践方案。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
-> - **认知治理与全球对标效应** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，SABER 设立从“潜伏级”至“领先级”的四级成熟度量规，成为人类历史上首个意图跨越发展水平全面对标主权国家教育体系的多元基准工具，其在 2014 年一年内即在百余国开展逾 200 次诊断，将外部实证研究转译为刚性评级指标。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
+> - **[[Epistemic Governance|认知治理]]与全球对标效应** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，SABER 设立从“潜伏级”至“领先级”的四级成熟度量规，成为人类历史上首个意图跨越发展水平全面对标主权国家教育体系的多元基准工具，其在 2014 年一年内即在百余国开展逾 200 次诊断，将外部实证[[Research Translation|研究转译]]为刚性评级指标。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 > - **[[Heterogeneity\|异质性]]效应（对本土[[Knowledge Production\|知识生产]]的边缘化）** 施泰纳-哈姆西等指出，SABER 等集权式全球指标数据库的确立，直接导致旨在赋权全球南方本土学者的[[Global Development Network\|全球发展网络]]（GDN）被架空，发展中国家专家沦为为华盛顿总部填报数据的“翻译员与信息员”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]
-> - **边界条件** 评分基于中央层面的法定文本与行政法令，难以准确测量地方官僚执行中的脱耦（[[Cognitive Decoupling|decoupling]]）与非正式协商实践。
+> - **边界条件** 评分基于中央层面的法定文本与行政法令，难以准确测量地方官僚执行中的脱耦（decoupling）与非正式协商实践。
 
 > [!stat-cards]- 关键实证数据
 > - **13** （个） 标准化教育政策评估领域。

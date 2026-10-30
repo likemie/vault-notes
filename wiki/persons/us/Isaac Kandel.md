@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -26,9 +26,10 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[National Character]]"
   - "[[Scientism]]"
+  - "[[Grit]]"
   - "[[Independent Variable]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Intangible Spiritual Forces]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Academic Freedom]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-22
 > - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以国家意志、民族主义与[[National Character\|民族性格]]为轴心的分析体系；奠定教育制度因果探究三阶段程序；创办并独立主持《教育年鉴》21 卷；出版战后集大成续作《教育的新时代》（*The New Era in Education*, 1955）。
 
 > [!citation-card] 贝雷迪与卡扎米亚斯论坎德尔作为博雅人文学者泰斗与国家变量开创者
-> 坎德尔是笃信直觉与人文洞见的博雅人文学者典范，兼具欧洲与美国的双重文明修养，是博雅大学人文学者一代的参天灯塔与指路明灯；他既非死板的[[Scientism|科学主义]]者，亦非咬文嚼字的学究，其坚毅的犹太精神与博雅学养将永远指引后人。在学科史上，他首次打破仅将政治视作外在背景的描述传统，将国家确立为统领全局的首要情境解释[[Independent Variable|自变量]]，推动比较教育学奠基为探究国家意志与观念形态的因果解释性[[Geisteswissenschaften|人文科学]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 45–48; citing Bereday, 1966, pp. 147–150)]]
+> 坎德尔是笃信直觉与人文洞见的博雅人文学者典范，兼具欧洲与美国的双重文明修养，是博雅大学人文学者一代的参天灯塔与指路明灯；他既非死板的[[Scientism|科学主义]]者，亦非咬文嚼字的学究，其[[Grit|坚毅]]的犹太精神与博雅学养将永远指引后人。在学科史上，他首次打破仅将政治视作外在背景的描述传统，将国家确立为统领全局的首要情境解释[[Independent Variable|自变量]]，推动比较教育学奠基为探究国家意志与观念形态的因果解释性人文科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 45–48; citing Bereday, 1966, pp. 147–150)]]
 >
 > *Kandel was a towering lighthouse of that humanist generation of university scholars. He was neither a hard-nosed scientist nor a pedantic semanticist, but a man of liberal learning who believed in intuition and human insight... a blend of European culture and American vitality whose pure and steadfast spirit remains an enduring guide for comparative education.*
 
@@ -110,7 +111,7 @@ updated: 2026-10-22
 > - **1908–1910** **哥伦比亚大学博士深造与横跨三大学脉** 赴美在哥伦比亚大学[[Normal School\|师范学院]]师从教育史权威保罗·门罗（Paul Monroe），1910 年以德国教师培训史研究获得哲学博士学位，融汇英国博雅文人情怀、德国哲理思辨深度与美国开阔的制度视野。
 > - **1914–1923** **卡内基基金会十年[[Fieldwork\|实地调查]]与经验事实奠基** 出任卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）专职研究员，十年间深入全美各地与欧洲多国，系统开展教师养老金制度、中等教育课程改革与学校管理体制调查，积累了庞大扎实的第一手制度事实。
 > - **1923** **参与创立哥大国际研究所并开创研究生培养** 在保罗·门罗倡议下参与创立哥伦比亚大学师范学院国际研究所（International Institute），受聘为比较教育学教授，开创全球现代跨国比较教育研究生专业培养体系。
-> - **1924–1944** **主持编纂 21 卷《教育年鉴》百科全书式记录** 独立创办并主持编纂国际研究所《教育年鉴》（*Educational Yearbook*，共 21 卷），系统记录两次世界大战之间全球数十个主要国家的制度变迁、法案改革与课程演进，成为 20 世纪前半叶记录全球教育演进最重要的权威文献库。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
+> - **1924–1944** **主持编纂 21 卷《教育年鉴》百科全书式记录** 独立创办并主持编纂国际研究所《教育年鉴》（*Educational Yearbook*，共 21 卷），系统记录两次世界大战之间全球数十个主要国家的制度变迁、法案改革与课程演进，成为 20 世纪前半叶记录全球教育演进最重要的权威[[Document|文献]]库。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 > - **1933** **划时代巨著《比较教育》确立国家解释[[Variable\|变量]]** 出版划时代代表作《比较教育》（*Comparative Education*），系统奠定历史-[[Philosophical Analysis in Education\|哲学分析]][[Paradigm\|范式]]，在学科史上首次将国家（The State）确立为统领全局的核心情境解释变量，并提出规范的因果探究三阶段流程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 45–48)]]
 > - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education\|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的[[Cultural Nationalism vs. Political Nationalism\|文化民族主义]]抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 1963: 385; 2009b: 48–49, 引自 Kazamias, 2009b)]]
 > - **1937** **大洋洲巡回讲学与跨国民主教育咨询** 受[[Australian Council for Educational Research\|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER）与新西兰政府邀请赴大洋洲展开学术巡讲与教育考察，在墨尔本大学等地发表演讲，系统指导英联邦国家反思过度中央集权体制，探索兼顾地方自主与教育机会均等的现代公共教育方案。

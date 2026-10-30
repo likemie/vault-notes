@@ -5,7 +5,7 @@ aliases:
 summary: "一种细粒度、情境敏感的微观认知图式。该概念主张个体并不拥有跨情境稳定的宏大信念阶段，而是根据当下的活动任务与框架，动态激活并调配不同的底层认知资源。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Evaluativist]]"
   - "[[Epistemological Beliefs]]"
   - "[[Rote Learning]]"
+  - "[[Learning Strategies]]"
   - "[[Practical Epistemology]]"
   - "[[Domain Specificity]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-22
 > > - **资源派（微观情境派）** 认为试图测量跨情境稳定的信念本身就是在测量一种错觉。但也承认，要捕捉瞬间激活的微观资源，只能依赖深度的[[Discourse Analysis\|话语分析]]或视频刺激回顾，这带来了极大的“推论难题（inference problem）”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 >
 > > [!critique] 外部批评
-> > - **理论边界过于宽泛（概念混淆）** [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] 指出，Hammer & Elby 对微观资源的定义可能过度泛化。例如，他们将“[[Rote Learning\|死记硬背]]（memorize）”等纯粹的学习策略也视为一种认识论资源，这导致了“关于知识本质的信念”与“关于学习策略的信念”之间的严重混淆。
+> > - **理论边界过于宽泛（概念混淆）** [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] 指出，Hammer & Elby 对微观资源的定义可能过度泛化。例如，他们将“[[Rote Learning\|死记硬背]]（memorize）”等纯粹的[[Learning Strategies|学习策略]]也视为一种认识论资源，这导致了“关于知识本质的信念”与“关于学习策略的信念”之间的严重混淆。
 > > - **忽视学科探究的特异性** 像“知识是实体”这样极度一般性的微观资源，无法解释科学与历史等不同学科在探究实践上的根本差异。基于此批评，[[Argument_Sandoval_2005_SE\|Sandoval (2005)]] 提出了[[Practical Epistemology\|实践认识论]]，它吸收了“情境触发”的优势，但将概念范围严格限制在特定学科的探究形式上。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 648)]]
 
 ---

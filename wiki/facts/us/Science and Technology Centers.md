@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,7 +39,6 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
   - "[[National Academy of Sciences]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Industry-University Cooperative Research Centers]]"
 related_arguments:
   - "[[Argument_Bozeman_2004_JTT]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +71,7 @@ updated: 2026-10-22
 > - **干预措施** [[National Science Foundation|NSF]] 提供为期 5 年并可竞争性延长至 10 年的高强度资助（2003 财年工程学学部子支出即达约 796 万美元，全基金会总资助达数千万美元）；要求中心设立教育与公众参与网络，整合共享前沿实验设施。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **实施控制** 实行严格的期中实地考察与同行专家评估；贯彻[[Sunset Provisions|日落条款]]，要求中心在 10 年资助期满前自建多元外部造血机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 374)]]
 
-> [!citation-card] 1987 年布洛赫致信国家[[Chinese Academy of Sciences|科学院]]论 STC 的机制继承
+> [!citation-card] 1987 年布洛赫致信国家科学院论 STC 的机制继承
 > 1987 年，NSF 主任[[Erich Bloch|埃里希·布洛赫]]致信国家科学院院长弗兰克·普雷斯，明确指出新设立的科学技术中心（STC）正是[[Engineering Research Centers|工程研究中心]]（ERC）模式向更广泛自然科学领域的直接衍生。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 >
 > *In 1987, Erich Bloch wrote a letter to [[National Academy of Sciences]] president Frank Press stating that the newly minted Science and Technology Centers were a direct spin-off of the ERCs. ([[Argument_Bozeman_2004_JTT|Bozeman & Boardman, 2004, p. 369]])*

@@ -9,9 +9,9 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 77
-method_related_level: 7
-method_related_stars: "💎💎⭐"
+method_related_count: 94
+method_related_level: 9
+method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -21,6 +21,7 @@ tags:
   - comparative-education
   - analytic-tradition
 related_concepts:
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Recontextualization]]"
@@ -43,13 +44,19 @@ related_concepts:
   - "[[Explanatory Critique]]"
   - "[[Hard Power]]"
   - "[[Epistemic Governance]]"
+  - "[[Research Utilization]]"
+  - "[[Evidence Culture]]"
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[Central Question]]"
   - "[[Causality]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Knowledge Power]]"
+  - "[[Evidence-Based Education]]"
   - "[[Policy Conditionalities]]"
   - "[[Policy Network]]"
+  - "[[Open Method of Coordination]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -57,11 +64,15 @@ related_theories:
   - "[[Conditioned State Theory]]"
   - "[[Critical Realism]]"
   - "[[Tianxia Heuristic]]"
+  - "[[Panopticism]]"
+  - "[[Governmentality]]"
   - "[[Policy Transfer Framework]]"
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Dependency Theory]]"
   - "[[Social Contract of Science]]"
   - "[[Neo-Tributary Perspective]]"
+  - "[[Three Pillars of Institutions]]"
+  - "[[Educational Governance Framework]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Descriptive Methods]]"
@@ -87,7 +98,12 @@ related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
 related_facts:
+  - "[[OECD]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
   - "[[Belt and Road Initiative]]"
+  - "[[PISA]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -98,22 +114,23 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Zapp_2017_IJED]]"
-  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Analytic Framework
-> 分析框架（Analytic Framework）是在[[Qualitative Research|质性研究]]与比较制度分析中，运用已有文献中成熟的“分析传统”（analytic tradition）或理论预设作为解释结构，对田野资料、访谈文本、历史档案或跨国政策进行系统编码、维度拆解与因果解释的方法学路径。它超越参与者的日常经验叙述，为经验材料提供更具理论解释力和结构张力的分析支架。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
+> 分析框架（Analytic Framework）是在[[Qualitative Research|质性研究]]与比较制度分析中，运用已有[[Document|文献]]中成熟的“分析传统”（analytic tradition）或理论预设作为解释结构，对田野资料、访谈文本、历史档案或跨国政策进行系统编码、维度拆解与因果解释的方法学路径。它超越参与者的日常经验叙述，为经验材料提供更具理论解释力和结构张力的分析支架。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 访谈实录、观察笔记、历史文献、跨国教育政策文本、制度演化档案与统计指标序列。
@@ -175,10 +192,10 @@ updated: 2026-10-29
 > | **政策转移两阶段分析框架** | 将跨国[[Policy Borrowing\|政策借用]]拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合[[Evidence-Based Policy-Making\|循证政策制定]]机会结构解构外来方案的筛选与落地机制 | 解释跨国[[Policy Mobility\|政策流动]]如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
 > | **四维[[Critical Policy Analysis\|批判性政策分析]]框架** | 融合费尔克拉夫[[Critical Discourse Analysis\|批判话语分析]]三维模型、[[Policy Framing\|政策框架化]]（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡[[Critical Realism\|批判实在论]][[Explanatory Critique\|解释性批判]] | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘[[Hard Power\|硬实力]]配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |
 > | **[[Tianxia Heuristic\|天下启发式]]双轨分析框架** | 融合天下秩序观（关系性互联与和而不同）与批判性[[Epistemic Governance\|知识治理]]，区分大众开放网络与精英排他联盟，解析知识权力与知识外交的互补机制 | 解构新兴大国如何通过多轨大学联盟超越西方“霸权对抗与务实合作”二元论 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024, pp. 1699–1704)]] |
-> | **超国家证据利用五维分析框架** | 涵盖研究与证据界定、行动者定位、证据使用形态（工具/概念/象征）、整合与转译机制、系统与制度条件五大维度，追踪政策话语建构 | 解构超国家组织如何战略性推介特定证据形态、建构证据文化并形塑各层决策社群 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026, pp. 342–344)]] |
-> | **多标量跨国政策循环分析框架** | 引入发展合作透镜，整合政策大使、代表性知识与南南技术协作，追踪政策模型在多标量与多向度网络中的循环流动 | 跨国政策流动如何超越西方中心与国家主义假设、全球南方制度创新如何实现跨国扩散 | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020, pp. 2–4, 15–16)]] |
+> | **超国家证据利用五维分析框架** | 涵盖研究与证据界定、行动者定位、[[Research Utilization\|证据使用]]形态（工具/概念/象征）、整合与转译机制、系统与制度条件五大维度，追踪政策话语建构 | 解构超国家组织如何战略性推介特定证据形态、建构[[Evidence Culture\|证据文化]]并形塑各层决策社群 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026, pp. 342–344)]] |
+> | **多标量跨国政策循环分析框架** | 引入发展合作透镜，整合[[Policy Ambassador\|政策大使]]、[[Representational Knowledge\|代表性知识]]与南南技术协作，追踪政策模型在多标量与多向度网络中的循环流动 | 跨国政策流动如何超越西方中心与国家主义假设、全球南方制度创新如何实现跨国扩散 | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020, pp. 2–4, 15–16)]] |
 > | **政策反应二维四象限分析框架** | 以政策指引程度（高/低）与政策背书强度（强/弱）为双轴建立类型学矩阵，系统映射主权国家应对跨国治理工具的差异化吸纳与防御策略 | 跨国比较教育治理中主权国家对全球评估工具的多元政策回应机制与本土制度重构 | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021, pp. 419–420)]] |
-> | **超国家教育全景敞视分析框架** | 融合福柯权力-知识理论、[[Governmentality\|治理术]]与全景敞视机制，从欧洲教育空间、知识社会与经济、知识政治及全景敞视建筑四层级拆解软治理技术规程 | 解构超国家一体化中非民选专家如何借助软法协调、指标监测与同行排位构建跨国规训监控网络 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009, pp. 480–481, 486–487)]] |
+> | **超国家教育[[Panopticism\|全景敞视]]分析框架** | 融合福柯权力-知识理论、[[Governmentality\|治理术]]与全景敞视机制，从欧洲教育空间、知识社会与经济、知识政治及全景敞视建筑四层级拆解软治理技术规程 | 解构超国家一体化中非民选专家如何借助软法协调、指标监测与同行排位构建跨国规训监控网络 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009, pp. 480–481, 486–487)]] |
 
 > [!proc] 质性分析程序
 > 1. **初读与分段清洗** 熟悉一手材料，标注与[[Central Question|核心研究问题]]相关的关键事件与表述。
@@ -218,8 +235,8 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 构建涵盖证据概念界定、行动者角色、证据使用形态、整合转译机制与系统制度条件的五维分析框架，系统解构经合组织、联合国教科文组织与世界银行官方话语对证据文化的战略性塑造（pp. 342–344）。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构循证教育改革在规划与实施阶段的结构性赤字（p. 17）。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 构建涵盖证据概念界定、行动者角色、证据使用形态、整合转译机制与系统制度条件的五维分析框架，系统解构[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]官方话语对证据文化的战略性塑造（pp. 342–344）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构[[Evidence-Based Education|循证教育]]改革在规划与实施阶段的结构性赤字（p. 17）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。
@@ -230,7 +247,7 @@ updated: 2026-10-29
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合[[Critical Discourse Analysis|批判话语分析]]、[[Policy Framing|政策框架化]]、政策三维视角及[[Explanatory Critique|解释性批判]]的四维分析框架，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高教政策的深层因果机制（pp. 680–687）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合[[Tianxia Heuristic|天下启发式]]秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用四支柱高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]检验中柬合作案例，修正原框架的文化同化预设并揭示地缘经贸制度张力（pp. 1045–1046, 1050–1054）。
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 整合制度三支柱与治理工具分类构建国际组织全球教育认知治理分析框架，实证解构世界银行知识权力机制（pp. 2, 5）。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 整合[[Three Pillars of Institutions|制度三支柱]]与治理工具分类构建国际组织全球教育认知[[Educational Governance Framework|治理分析框架]]，实证解构世界银行知识权力机制（pp. 2, 5）。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 引入发展合作透镜构建多标量跨国政策循环分析框架，系统解构全球南方制度创新外溢机制。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 构建以政策指引与政策背书为轴的二维四象限分析框架，系统解构多国应对 PISA 治理压力的政策反应类型学与传导机制（pp. 419–420）。
-> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 融合福柯权力-知识理论与全景敞视主义构建四层级超国家教育治理分析框架，系统解构欧盟开放协调法背后的软法监视与专家控制技术。（pp. 480–481, 486–487, 492–493）
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 构建以政策指引与政策背书为轴的二维四象限分析框架，系统解构多国应对 [[PISA]] 治理压力的政策反应类型学与传导机制（pp. 419–420）。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 融合福柯权力-知识理论与全景敞视主义构建四层级超国家教育治理分析框架，系统解构[[EU|欧盟]][[Open Method of Coordination|开放协调法]]背后的软法监视与专家控制技术。（pp. 480–481, 486–487, 492–493）

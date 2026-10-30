@@ -9,7 +9,7 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
   - "[[AI Agent in Education]]"
+  - "[[Deliberate Practice]]"
   - "[[Scaffolding]]"
   - "[[Generative AI Agent in Education]]"
   - "[[Generative Artificial Intelligence]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Construct Validity]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -123,7 +125,7 @@ updated: 2026-10-25
 > |---|---|---|---|---|
 > | **核心关切** | **问题形式化与算法化求解** | 熟练执行特定良构操作序列 | 审视论据真伪与逻辑偏误 | 跨情境深度分析、综合与创造 |
 > | **典型心智操作** | 分解、模式识别、抽象、算法设计 | 规则匹配、自动化计算、语法编写 | 假设识别、论点评价、推论验证 | 劣构问题表征、[[Metacognition\|元认知]]反思、方案重构 |
-> | **技术中介作用** | 借助 AI [[AI Agent in Education\|智能体]]/编程环境进行动态调试 | 借助自适应提示进行分步刻意练习 | 借助多重视角对比工具进行反思审视 | 借助[[Scaffolding\|脚手架]]与探究量规促进深度建构 |
+> | **技术中介作用** | 借助 AI [[AI Agent in Education\|智能体]]/编程环境进行动态调试 | 借助自适应提示进行分步[[Deliberate Practice\|刻意练习]] | 借助多重视角对比工具进行反思审视 | 借助[[Scaffolding\|脚手架]]与探究量规促进深度建构 |
 > | **主要测评工具** | [[Computational Thinking Scale\|计算思维量表（CTS）]]、Bebras 测验 | 代码测试通过率、步骤得分、WCPM | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA 测验]]、CCTDI 量表 | 开放项目评审、质性表现量规 |
 
 ---
@@ -139,7 +141,7 @@ updated: 2026-10-25
 > | Ye et al. (2025) | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.16"><span class="b3"></span></span>0.16 | $p < .05$ | 编程[[AI Agent in Education\|智能体]]即时语法纠错 vs. 传统讲授教学 | 代码逻辑结构与算法设计表现 | $N = 78$ | — | 实验设计；即时线索提示辅助基础算法规则内化 |
 > | Yilmaz and Karaoglan Yilmaz (2023) | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.58"><span class="b12"></span></span>0.58 | $p < .01$ | 提示词驱动[[Generative Artificial Intelligence\|生成式 AI]] 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy\|自我效能]] | $N = 86$ | — | 准实验设计；提示词工程训练显著提升算法思维水平 |
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

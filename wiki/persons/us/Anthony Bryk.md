@@ -7,7 +7,7 @@ summary: "美国教育研究者与组织改进学者，卡内基教学促进基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Pragmatism in China]]"
+  - "[[Mutual Learning]]"
   - "[[Discourse]]"
   - "[[Paradigm Wars]]"
   - "[[Internal Validity]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-22
 > 传统的 “什么有效” 范式（以[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCTs）为中心）存在重大局限：它生成的证据通常仅适用于宏观的、非此即彼的二选一决策，易导致学校机械套用去情境化的 “证据包” 却以失败告终。教育情境中各因素相互依赖，学校应当关注具体实践中互动和过程如何产生变革，而非盲目复制无情境的程序性方案。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300, 306]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]])
 
 > [!pathways] 核心命题三：网络化改进共同体 (Networked Improvement Communities, NICs)
-> 为了在复杂的情境中探寻改进路径，研究者与一线教师必须组成协同运作的 NICs。该共同体围绕共同商定的具体教育问题，利用持续的系统反馈循环，观察和记录学习者对其环境的感知与行为变化。各成员学校共享关于微小改变的实践洞见，在变异中相互学习，让适合的改变被接受为 “改进”，不适合的改变被及时拒绝。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]])
+> 为了在复杂的情境中探寻改进路径，研究者与一线教师必须组成协同运作的 NICs。该共同体围绕共同商定的具体教育问题，利用持续的系统反馈循环，观察和记录学习者对其环境的感知与行为变化。各成员学校共享关于微小改变的实践洞见，在变异中[[Mutual Learning|相互学习]]，让适合的改变被接受为 “改进”，不适合的改变被及时拒绝。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]])
 
 > [!citation-card] [[Improvement Science\|改进科学]]的系统与变异视角
 > 改进科学的关键方面包括将教育实践作为系统来研究，关注跨情境的变异性，并从变异性中学习。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])

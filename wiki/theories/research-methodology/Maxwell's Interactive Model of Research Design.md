@@ -4,12 +4,13 @@ aliases: ["Maxwell互动研究设计模型", "Maxwell's interactive model", "Max
 summary: "Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
 tags: [method/research-design, source/textbook, paradigm/qualitative]
 related_concepts:
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Sage]]"
   - "[[Research Question]]"
@@ -38,12 +39,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 研究设计如何在实际研究中形成和演变，而非作为一次性完成的线性计划。
-> - **理论问题** 回应线性研究设计模型（量化：文献→假设→设计→数据→分析→结论；质性：主题→文献→设计→田野→数据→分析→理论）的不足，指出实际研究设计是非线性、互动和[[Emergence\|涌现]]的。
+> - **理论问题** 回应线性研究设计模型（量化：[[Document|文献]]→假设→设计→数据→分析→结论；质性：主题→文献→设计→田野→数据→分析→理论）的不足，指出实际研究设计是非线性、互动和[[Emergence\|涌现]]的。
 > - **理论类型** 中层方法论框架（middle-range methodological framework），属于研究设计理论。
 > - **知识位置**[[Qualitative Research\|质性研究]]方法论传统，代表文献为 Maxwell, J.A. (2005). *Qualitative Research Design: An Interactive Approach* (2nd ed.). [[Sage]]. 在 Cohen et al. (2011, Ch.7, pp.5–6) 中被引用和讨论。
 

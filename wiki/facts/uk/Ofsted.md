@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 57
+fact_related_count: 58
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Evidence Culture]]"
   - "[[Reflexivity]]"
   - "[[Business as Usual]]"
+  - "[[Document]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence Ecosystem]]"
   - "[[Test-Based Accountability]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-07
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-10-26
 > - **测量效度与非复现性缺陷** 学界多次实证检验表明，不同督学团队在同一所学校可能给出大相径庭的评级，检查结果受督导当周的偶然事件和观察者主观偏好强烈干扰；单一概括性定级将极其复杂的学校生态压缩为一维标签，严重误导公众判断。
 > - **高利害问责对证据生态的系统性挤占** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150–151)]]与[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]共同指出，当一个教育系统的办学底线完全由惩罚性督导定义时，学校将不可避免地形成防御性合规文化，不仅阻断了基于自驱探索的专业共同体建设，更使以[[Systematic Review\|系统综述]]为代表的高质量学术证据沦为应付官方审查的包装工具。
 
-> [!citation-card] 代表性批判文献
+> [!citation-card] 代表性批判[[Document|文献]]
 > [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]精辟揭示了 Ofsted 技术评级被政治话语异化的本质：
 > 
 > “好学校”话语是一种源自 Ofsted 的证据化立场，这使得它愈加具有欺骗性；它是一种披着证据语言外衣的道德侧步。（[[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p. 28]]）

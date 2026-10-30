@@ -10,7 +10,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -138,4 +139,4 @@ updated: 2026-10-26
 > | [[Test-Based Accountability]] | Concept | 高考构成中国教育高利害考试问责系统的核心硬约束。 |
 > | [[Learner-Centred Education]] | Concept | 统一高考大纲设定了 LCE 权力共享维度的结构硬边界。 |
 > | [[Examination-Oriented Education]] | Concept | 高考的高利害选拔机制直接催生的高强度应试教育形态。 |
-> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | Argument | 实证检验重点高中在高考硬约束下转译践行以学生为中心教学法的核心文献。 |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | Argument | 实证检验重点高中在高考硬约束下转译践行以学生为中心教学法的核心[[Document\|文献]]。 |

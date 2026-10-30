@@ -7,9 +7,9 @@ summary: "由 Stefan Wuchty, Benjamin F. Jones 与 Brian Uzzi (2007) 提出的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 19
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -20,16 +20,28 @@ tags:
   - theme/team-science
   - bibliometrics
 related_concepts:
+  - "[[Response to Intervention]]"
   - "[[Team Science]]"
+  - "[[Unit of Analysis]]"
+  - "[[SOLO Taxonomy]]"
+  - "[[Champ]]"
+  - "[[Construct Validity]]"
+  - "[[Internal Validity]]"
+  - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Scientific Productivity]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Burden of Knowledge]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons:
-  - "[[Brian Uzzi]]"
+  - "[[Stefan Wuchty]]"
   - "[[Benjamin F. Jones]]"
+  - "[[Brian Uzzi]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -42,35 +54,35 @@ updated: 2026-10-30
 ---
 
 > [!def] Relative Team Impact
-> 相对团队影响力（Relative Team Impact, RTI）是测度团队科研成果相对于单人独立成果被引优势的量化比值指标。其计算规则为：在给定的学科领域与发表年份内，将团队署名成果的算术平均被引频次除以单人独立署名成果的算术平均被引频次，输出一个无量纲的相对比值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 86)]]
+> 相对团队影响力（Relative Team Impact, [[Response to Intervention|RTI]]）是测度团队科研成果相对于单人独立成果被引优势的量化比值指标。其计算规则为：在给定的学科领域与发表年份内，将团队署名成果的算术平均被引频次除以单人独立署名成果的算术平均被引频次，输出一个无量纲的相对比值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 86)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** [[Team Science|团队科学]]（Team Science）生产模式相对于单人研究的引文溢价与学术影响力增益。
 > - **问题类型** 比较、评价、描述与跨时序趋势测度。
-> - **分析单位** 学科领域年度切片、科研机构、国家或技术专利分类。
+> - **[[Unit of Analysis|分析单位]]** 学科领域年度切片、科研机构、国家或技术专利分类。
 > - **输入数据** 出版物或专利的署名学者人数，以及统计窗口内的累计被引频次。
 > - **输出形式** 正实数比值（RTI）。
 
 > [!citation-card] 相对团队影响力的基准定义
 > 相对团队影响力（RTI）代表团队署名成果所获得的平均被引次数除以同领域单人署名成果获得的平均被引次数。比值为 1 意味着团队与单人成果具有相当的影响力。折线呈现给定年份整个领域的算术平均 RTI。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 86)]]
 >
-> *The relative team impact (RTI) represents the mean number of citations received by team-authored work divided by the mean number of citations received by solo-authored work in the same field. A ratio of 1 implies that team- and solo-authored work have comparable impact. The lines present the arithmetic average of RTI in a given year for the entire field.*
+> *The relative team impact (RTI) represents the mean number of citations received by team-authored work divided by the mean number of citations received by [[SOLO Taxonomy|solo]]-authored work in the same [[Champ|field]]. A ratio of 1 implies that team- and solo-authored work have comparable impact. The lines present the arithmetic average of RTI in a given year for the entire field.*
 
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** RTI 直接反映文献计量学意义上的均值引文溢价，能够敏感捕捉宏观学术生产体系中知识组合方式对学术反响的结构性影响。
+> - **[[Construct Validity|构念效度]]** RTI 直接反映[[Bibliometric Analysis|文献计量学]]意义上的均值引文溢价，能够敏感捕捉宏观学术生产体系中知识组合方式对学术反响的结构性影响。
 > - **研究者判断** 跨学科引文尺度的归一化基准、统计分析切片的时间窗口，以及是否剔除署名学者自引。
-> - **有效性标准** 内部效度取决于自引剔除前后的估计稳健性；在剔除全部署名自引后，RTI 大于 1 的优势依然保持稳定，排除了多人合著自引膨胀的机械性干扰。
+> - **有效性标准** [[Internal Validity|内部效度]]取决于自引剔除前后的估计稳健性；在剔除全部署名自引后，RTI 大于 1 的优势依然保持稳定，排除了多人合著自引膨胀的机械性干扰。
 > - **不声称回答的问题** 该指标测度的是宏观聚合层面的平均引文差异，不能直接推断微观单项成果的科学真理性或个别团队内部的协作质量。
 
 > [!method-stack] 方法层级
-> - **上位方法** [[Bibliometric Analysis|文献计量学分析]]（Bibliometric Analysis）。
+> - **上位方法** 文献计量学分析（Bibliometric Analysis）。
 > - **前置步骤** 署名形态分类（单人独立 vs 多人合作）、学科分类匹配、引文窗口统计与自引清洗。
 > - **变体与扩展** 极端引文倍率比值（如在被引达到 1,000 次以上的顶尖层级中团队成果相对单人成果的入选几率比）。
 
 > [!dev-timeline] 方法演变
-> - **2007 — 指标创立** 斯特凡·乌赫蒂（Stefan Wuchty）、本杰明·F·琼斯（Benjamin F. Jones）与布赖恩·乌齐（Brian Uzzi）在《科学》（*Science*）发表的成果中建立 RTI 指标，测算 1,990 万篇期刊论著与 210 万件专利，证实所有学科门类的团队论著均展现出持续高于单人成果的被引优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **2007 — 指标创立** 斯特凡·乌赫蒂（[[Stefan Wuchty]]）、[[Benjamin F. Jones|本杰明·F·琼斯]]（Benjamin F. Jones）与[[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）在《科学》（*Science*）发表的成果中建立 RTI 指标，测算 1,990 万篇期刊论著与 210 万件专利，证实所有学科门类的团队论著均展现出持续高于单人成果的被引优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 
 ---
 
@@ -107,14 +119,14 @@ updated: 2026-10-30
 > > > - **红线** 理论相对团队影响力增长轨迹 $\text{RTI}(s) = 1 + \beta (s - 1)^\alpha$
 > > > - **基准参照线** 灰虚线（$\text{RTI} = 1.0$ 平价线）、绿虚线（$\text{RTI} \approx 1.4$ 人文社科均值）、蓝虚线（$\text{RTI} \approx 2.1$ 自然科学与工程均值）
 > > >
-> > > 拖动滑块 $s$ 可直观验证团队协作的引文倍增效应：当 $s=1$ 时落于平价基准线（$\text{RTI} = 1.0$）；随规模增加，红线迅速跨入超额被引区间。调整学科增益系数 $\beta$ 可呈现不同学科的异质性（人文社科 $\beta \approx 0.35$ 增益平缓，自然科学与工程 $\beta \approx 0.85$ 陡峭攀升）。
+> > > 拖动滑块 $s$ 可直观验证团队协作的引文倍增效应：当 $s=1$ 时落于平价基准线（$\text{RTI} = 1.0$）；随规模增加，红线迅速跨入超额被引区间。调整学科增益系数 $\beta$ 可呈现不同学科的[[Heterogeneity|异质性]]（人文社科 $\beta \approx 0.35$ 增益平缓，自然科学与工程 $\beta \approx 0.85$ 陡峭攀升）。
 > > >
 > > > ![[wiki/assets/geogebra/relative_team_impact.ggb]]
 
 > [!software-impl] 软件实现
 > - **数据来源** Web of Science、Scopus、OpenAlex 或美国专利商标局（USPTO）数据库。
 > - **核心包或命令** Python (`pandas`, `numpy`), R (`dplyr`, `data.table`)。
-> - **实现流程** 提取文献题录元数据，依据署名人数字段将样本划分为单人组与团队组，按学科代码与出版年分组汇总被引均值，两列相除生成 RTI。
+> - **实现流程** 提取[[Document|文献]]题录元数据，依据署名人数字段将样本划分为单人组与团队组，按学科代码与出版年分组汇总被引均值，两列相除生成 RTI。
 > - **报告标准** 明确汇报学科分类标准、成果类型（仅 Article 或包含 Review）、引文窗口统计截至年份以及是否剔除自引。
 
 > [!formula] Python 计算骨架
@@ -149,7 +161,7 @@ updated: 2026-10-30
 
 > [!method-fit] 适用判断
 > - **适合使用** 评估不同科研组织形式、学科门类、资助模式对学术成果影响力的宏观作用机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **谨慎使用** 合作模式极少、绝大多数成果为单人撰写的人文学科细分方向，单人与团队样本量极度失衡可能放大统计波动。
+> - **谨慎使用** 合作模式极少、绝大多数成果为单人撰写的人文学科细分方向，单人与团队[[Sample Size Determination|样本量]]极度失衡可能放大统计波动。
 > - **不适合使用** 微观层面上单一团队或单项具体成果的横向绩效考核，不能以宏观 RTI 比值代替微观同行评议。
 
 > [!ref-table]- 参照基准与阈值
@@ -174,9 +186,9 @@ updated: 2026-10-30
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Team Science]] | 概念 | RTI 测度对象的核心概念载体，量化展示团队科学相对于单人研究的影响力溢价。 |
-> | [[Scientific Productivity]] | 概念 | RTI 所测度的科研成果产出效能与学术影响力的构念支撑。 |
+> | [[Scientific Productivity]] | 概念 | RTI 所测度的科研成果产出效能与学术影响力的[[Construct\|构念]]支撑。 |
 > | [[Burden of Knowledge]] | 理论 | 为团队科学崛起与 RTI 持续大于 1 提供认知与分工机制层面的理论解释。 |
-> | [[Bibliometric Analysis]] | 上位方法 | RTI 指标依托的文献计量学分析范式。 |
+> | [[Bibliometric Analysis]] | 上位方法 | RTI 指标依托的文献计量学分析[[Paradigm\|范式]]。 |
 > | [[Brian Uzzi]] | 人物 | RTI 指标的共同提出者与倡导者。 |
 > | [[Benjamin F. Jones]] | 人物 | RTI 指标的共同提出者与科学学经济学者。 |
 

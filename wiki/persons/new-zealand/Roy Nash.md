@@ -8,7 +8,7 @@ summary: "新西兰批判教育社会学者、批判实在论方法论学者、�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Determinism]]"
   - "[[International Education]]"
+  - "[[Teacher Expectations]]"
   - "[[Cultural Capital]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-22
 ---
 
 > [!work-line] 主要著作
-> - **1973 — *Classrooms Observed*** 运用微观观察与[[In-depth Interview|深度访谈]]揭示教师期望与标签效应如何影响学生学业产出。
+> - **1973 — *Classrooms Observed*** 运用微观观察与[[In-depth Interview|深度访谈]]揭示[[Teacher Expectations|教师期望]]与标签效应如何影响学生学业产出。
 > - **1980 — *Schooling in Rural Societies*** 剖析乡村教育生态与社区[[Cultural Capital|文化资本]]对教育机会的塑造。
 > - **1990 — *Schools and Social Reproduction*** 结合新西兰本土实证，反思[[Pierre Bourdieu|布迪厄]]文化再生产理论在南太平洋社会中的适用性与局限。
 > - **2003 — *Social Class and Education in New Zealand*** 汇聚数十年纵向数据，通过方差分解系统论证家庭阶级资源、文化资本与早期认知发展对教育不平等的支配性影响。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]

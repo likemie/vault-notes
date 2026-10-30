@@ -8,10 +8,10 @@ aliases:
 summary: "旨在培养学生在真实物理、经济与社会多重约束下运用科学与数学原理进行系统设计、优化集成、原型迭代与排障工艺的专门教育范式；涵盖从狭隘学科分立向跨学科系统工程、车间手艺传承、开源事实标准嵌入（教育即标准）以及国家微电子战略统筹的微凭证至拔尖博士三级全谱系产教融合梯队的深层范式演进。"
 type: concept
 domain: "higher-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/higher-education
   - theme/curriculum-instruction
@@ -69,6 +69,7 @@ related_facts:
   - "[[Albany NanoTech Complex]]"
   - "[[National Science Foundation]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[Laser Interferometer Gravitational-Wave Observatory]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[Advanced Technological Education]]"
   - "[[Natcast]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-10-29
 > **探讨维度　[[Process Knowledge|过程知识]]、仪器建造技艺与现场排障** 探讨在人工智能大幅降低理论建模与代码编写门槛的背景下，工程教育为何必须回归实体制造与动手排障技艺。
 
 > [!claim] Kratsios, M.
-> **手艺重振与排障直觉论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，长期让渡实体制造导致工程教育培育出大量擅长数学抽象却无法维护实验仪器的毕业生。如同 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）依托机械加工与电路[[Assemblage|组装]]即兴技艺亲手建造激光干涉引力波天文台（LIGO）原型机一样，最尖端的科技突破深植于无法被文字编码的默会[[Process Knowledge|过程知识]]与排障手感之中。工程教育必须将车间操作、现场[[Apprenticeship|学徒制]]与产业攻坚正式内嵌于课程与学位考核，通过工业博士奖学金、国家实验室[[Practitioner-in-Residence|驻校实践者项目]]及社区学院[[Community College Strategic Anchoring|区域技能枢纽]]，全面重构工程教育的动手实践根基。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]
+> **手艺重振与排障直觉论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，长期让渡实体制造导致工程教育培育出大量擅长数学抽象却无法维护实验仪器的毕业生。如同 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）依托机械加工与电路[[Assemblage|组装]]即兴技艺亲手建造[[Laser Interferometer Gravitational-Wave Observatory|激光干涉引力波天文台]]（LIGO）原型机一样，最尖端的科技突破深植于无法被文字编码的默会[[Process Knowledge|过程知识]]与排障手感之中。工程教育必须将车间操作、现场[[Apprenticeship|学徒制]]与产业攻坚正式内嵌于课程与学位考核，通过工业博士奖学金、国家实验室[[Practitioner-in-Residence|驻校实践者项目]]及社区学院[[Community College Strategic Anchoring|区域技能枢纽]]，全面重构工程教育的动手实践根基。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]
 
 ---
 

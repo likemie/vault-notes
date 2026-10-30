@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Lesson Study]]"
+  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Ways of Knowing]]"
   - "[[Research Purpose]]"
@@ -65,6 +66,7 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Covert Research]]"
   - "[[Champ]]"
+  - "[[Note-Taking]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
   - "[[Presence]]"
@@ -99,9 +101,11 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 status: draft
 created: 2026-07-11
-updated: 2026-10-22
+updated: 2026-10-30
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -179,7 +183,7 @@ Hitchcock & Hughes（1995, pp. 317, 319）从两个互补角度描述个案研�
 > [!contrast-table] 个案研究与历史研究的区别
 > | 维度 | 个案研究 | 历史研究 |
 > |---|---|---|
-> | 数据来源 | 直接观察、访谈参与者，可接触活着的当事人 | 依赖档案、文献、二手记录，当事人通常已不在世 |
+> | 数据来源 | 直接观察、访谈参与者，可接触活着的当事人 | 依赖档案、[[Document\|文献]]、二手记录，当事人通常已不在世 |
 > | 与研究对象的关系 | 研究者可进入现场，与参与者互动 | 研究者与研究对象之间存在时间距离，无法直接接触 |
 > | 核心优势 | 捕捉正在进行中的行为和当下感知（Yin, 2009, p. 11） | 追溯长时段的变化脉络和制度演变 |
 > | 数据类型 | 多种类型混合（观察、访谈、文件、实物，Robson, 2002, p. 178） | 以文献和档案为主 |
@@ -272,7 +276,7 @@ Dyer（1995, pp. 50–52）指出阅读个案研究时必须意识到选择过�
 > - **允许推广** 允许对实例或从实例到类别的推广。独特优势在于关注案例本身的微妙性和复杂性
 > - **识别社会真理的复杂性和嵌入性** 通过仔细关注社会情境，呈现参与者观点之间的差异或冲突。最好的个案研究能为替代解释提供支持
 > - **形成可再解释的档案** 作为产品可形成足够丰富的描述性材料档案，供后续重新解释
-> - **通向行动的步骤（a step to action）** 开始于行动世界并为之做出贡献。见解可直接解释和投入使用：人员自我发展、机构内部反馈、[[Formative Assessment\|形成性评价]]和教育政策制定
+> - **通向行动的步骤（a [[Skills Toward Employment and Productivity|step]] to action）** 开始于行动世界并为之做出贡献。见解可直接解释和投入使用：人员自我发展、机构内部反馈、[[Formative Assessment\|形成性评价]]和教育政策制定
 > - **更公开可及的形式** 以更公开可及的形式呈现数据，语言和形式不那么深奥、不那么依赖专业解释。能服务多重受众，减少读者对未陈述隐含假设的依赖，让读者自己判断研究的含义
 
 > [!evidence-grid] Box 14.2 Nisbet and Watt（1984）的七项优势
@@ -585,7 +589,7 @@ Yin（2009, p. 143）指出数据分析是一个迭代过程，研究者必须�
 > - **制作多份副本** 建议至少制作两份田野笔记副本，最好在母版上打字以供复制。一份原件保留供参考，其他副本可用作草稿进行剪切、重组织和重写
 > - **充分详细** 笔记应足够充分，以便数月后能充分唤起对任何描述事件的合理生动的画面。这可能意味着至少在每次观察后书写至少几页单倍行距的打字页
 
-Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志叙述中实际执行的这种笔记方式，是从非结构化观察研究的本质中生长出来的。Wolcott承认记笔记帮助他对抗在观察校长每天无尽的会议时有时感到的极度无聊。偶尔一系列事件发生得如此之快，Wolcott只能做粗略笔记，随后补充更完整的叙述。一条有用的提示：**在先前观察的笔记完成之前，绝不要恢复观察**。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。何时记录数据只是Walker（1980）列出的若干实际问题之一（p.296）。
+Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志叙述中实际执行的这种笔记方式，是从非结构化观察研究的本质中生长出来的。Wolcott承认[[Note-Taking|记笔记]]帮助他对抗在观察校长每天无尽的会议时有时感到的极度无聊。偶尔一系列事件发生得如此之快，Wolcott只能做粗略笔记，随后补充更完整的叙述。一条有用的提示：**在先前观察的笔记完成之前，绝不要恢复观察**。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。何时记录数据只是Walker（1980）列出的若干实际问题之一（p.296）。
 
 ---
 

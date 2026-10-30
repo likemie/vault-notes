@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Reliability]]"
   - "[[Construct]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Causality]]"
   - "[[Praxis]]"
@@ -127,7 +128,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -140,7 +141,7 @@ updated: 2026-10-26
 > 总体目标是从教育科学实践的制度语境出发，检验“基于证据（evidence-based）”这一概念的 [[Construct Validity\|构念效度]] 与 [[Reliability\|可靠性]]：如果清算中心声称能识别并传播关于教育干预因果效应的可靠知识，那么不同清算中心对同一项目的有效性评级至少应具备高度收敛性。
 
 > [!claim] 核心主张
-> 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct\|构念]]仅具有有限的 [[Construct Validity\|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials\|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于[[Research Synthesis|证据综合]]门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入文献集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践。
+> 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct\|构念]]仅具有有限的 [[Construct Validity\|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials\|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于[[Research Synthesis|证据综合]]门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入[[Document|文献]]集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美英 43 个候选机构中筛选出的 12 个评估学前至大学（Pre-Kindergarten to College, pre-K to College）教育干预有效性的教育清算中心，以及由 10 个清算中心评估的 1,359 个去重教育项目与 429 个多重评级对。

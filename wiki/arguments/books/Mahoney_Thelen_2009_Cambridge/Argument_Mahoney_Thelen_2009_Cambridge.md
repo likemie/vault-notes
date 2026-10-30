@@ -7,9 +7,9 @@ title: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_key: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_display_title: "Explaining institutional change: Ambiguity, agency, and power"
 argument_kind: "edited-volume"
-argument_related_count: 9
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 10
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -25,6 +25,7 @@ isbn: "9780511658440"
 citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge University Press."
 tags: ["theme/institutional-change", "theme/historical-institutionalism", "theme/book-reading"]
 related_concepts:
+  - "[[Document]]"
   - "[[Rule Ambiguity]]"
   - "[[Creativity]]"
 related_theories:
@@ -42,7 +43,7 @@ sources:
   - "[[books/Mahoney_Thelen_2009_Cambridge/Mahoney_Thelen_2009_Cambridge|Mahoney_Thelen_2009_Cambridge]]"
 status: "draft"
 created: "2026-10-11"
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!volume-profile] 阅读档案
@@ -63,7 +64,7 @@ updated: 2026-10-26
 > - **第 7 章，制度主义比较** 理性主义与社会学视角下的[[Historical Institutionalism|历史制度主义]]。
 
 > [!chapter-roadmap] 阅读进度
-> - **准备完成** 七章已转换为七个 TXT，每章包含原有脚注和参考文献。
+> - **准备完成** 七章已转换为七个 TXT，每章包含原有脚注和参考[[Document|文献]]。
 > - **阅读顺序** 从第 1 章理论导论开始，按原书次序阅读第 2–6 章，最后阅读第 7 章。
 > - **当前进度** 第 1 章理论导论已完成解读（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]）；第 2–6 章经验章节与第 7 章制度主义比较章节待解读。
 

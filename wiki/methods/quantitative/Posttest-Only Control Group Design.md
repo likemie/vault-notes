@@ -9,7 +9,7 @@ summary: "真实验设计的变体，随机分配后无前测、仅后测，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -26,22 +26,23 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
 related_methods:
+  - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Sample Size Determination]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
+  - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Posttest-Only Control Group Design
-> 仅后测控制组设计（Posttest-Only Control Group Design）是[[True Experimental Design\|真实验设计]]的变体：参与者通过[[Random Assignment\|随机分配]]分为实验组和控制组，**不进行前测**，仅实验组接受干预（X），两组均接受后测。因果效应通过比较两组后测均值来估计（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 320]]）。
+> 仅[[Pre-test and Post-test|后测]]控制组设计（Posttest-Only Control Group Design）是[[True Experimental Design\|真实验设计]]的变体：参与者通过[[Random Assignment\|随机分配]]分为实验组和控制组，**不进行前测**，仅实验组接受干预（X），两组均接受后测。因果效应通过比较两组后测均值来估计（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 320]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至实验组和控制组的参与者——不进行前测。
@@ -88,4 +89,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch8)]] — 将仅[[Pre-test and Post-test\|后测]]控制组设计列为[[True Experimental Design\|真实验设计]]的四种基本类型之一。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 在真实验设计部分系统介绍仅后测设计的符号表示和应用场景。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 在真[[Experimental Research|实验设计]]部分系统介绍仅后测设计的符号表示和应用场景。

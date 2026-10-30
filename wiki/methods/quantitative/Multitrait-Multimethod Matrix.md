@@ -11,7 +11,7 @@ summary: "Campbell & Fiske (1959) 提出的经典测量效度检验矩阵，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Student Motivation]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-29
 ---
 
 > [!proc] MTMM 分析标准六步法
-> 1. **选取目标特质与对照特质** 确定至少两个具有清晰理论界限的特质（例如 $T_1$ 学习动机，$T_2$ 焦虑水平）。
+> 1. **选取目标特质与对照特质** 确定至少两个具有清晰理论界限的特质（例如 $T_1$ [[Student Motivation|学习动机]]，$T_2$ 焦虑水平）。
 > 2. **选取相互独立的方法** 确定至少两种测量介质或独立评价主体（例如 $M_1$ 学生自陈量表，$M_2$ 教师观察量规）。
 > 3. **采集全交叉测量数据** 对同一批样本或对象同时实施全部特质-方法组合测量（$T_1M_1, T_2M_1, T_1M_2, T_2M_2$）。
 > 4. **构建 MTMM 相关矩阵** 计算全部成对相关系数，并在对角线填入各工具的单特质-同方法[[Reliability\|信度]]系数（Reliability Diagonal）。

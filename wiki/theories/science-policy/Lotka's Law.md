@@ -10,7 +10,7 @@ aliases:
 summary: "由 Alfred J. Lotka (1926) 提出的描述科学生产力宏观分布的经验统计定律；指出产出 N 篇学术论著的学者数量大致遵循反比平方幂律 P(N) = C / N^α（其中 α ≈ 2），约 60% 的学者终生仅产出 1 篇论著，揭示了科研知识生产高度集中于极少数多产精英的核心特征。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -33,13 +33,14 @@ related_instruments: []
 related_persons:
   - "[[Alfred J. Lotka]]"
   - "[[William Shockley]]"
-related_facts: []
+related_facts:
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-29
 > [!theory-proposition] 命题二｜有限数据规模对区分幂律与对数正态分布构成统计识别瓶颈
 > **解释** 洛特卡定律作为纯经验观察总结，受制于 1926 年的数据采集规模，在尾部数据处理上难以严格区分连续无界幂律与重尾对数正态分布。后续以[[William Shockley|威廉·肖克利]]（William Shockley）为代表的研究表明，当[[Sample Size Determination|样本量]]充足且引入微观认知因果机制时，生产力数据在中等偏高产区间更契合对数正态分布，并受人类生理时间上界的约束而在极端尾部出现截断。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 12)]]
 >
-> **应用实例** 文献计量学者在拟合现代大规模引文数据库（如微软学术图谱、Web of Science）时，需要借助拟合优度检验与赤池信息量准则（AIC）对比洛特卡幂律与对数正态模型，避免直接套用简单反平方公式而误判超高产学者的真实分布形态。
+> **应用实例** 文献计量学者在拟合现代大规模引文数据库（如[[Microsoft Academic Graph|微软学术图谱]]、Web of Science）时，需要借助拟合优度检验与赤池信息量准则（AIC）对比洛特卡幂律与对数正态模型，避免直接套用简单反平方公式而误判超高产学者的真实分布形态。
 
 ---
 

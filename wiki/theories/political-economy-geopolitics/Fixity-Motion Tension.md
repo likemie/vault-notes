@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -112,7 +112,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 ---
 
-> [!success] Moisio 在知识经济化中的应用
+> [!success] Moisio 在[[Knowledge-Based Economization|知识经济化]]中的应用
 > [[Argument_Moisio_2022_Springer\|Moisio (2022)]]将该张力应用于分析当代[[Knowledge-Based Economy\|知识经济]]化，揭示了以下几个关键动态：
 
 

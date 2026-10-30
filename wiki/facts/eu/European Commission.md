@@ -11,9 +11,9 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 45
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-organization
 headquarters: "布鲁塞尔（比利时）"
@@ -25,51 +25,67 @@ tags:
   - theme/industrial-policy
   - theme/open-method-of-coordination
 related_concepts:
-  - "[[Knowledge Mediation]]"
-  - "[[European Education Space]]"
-  - "[[Governing by Numbers]]"
-  - "[[Orchestrator State]]"
-  - "[[Knowledge Co-production]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Regimes of Truth]]"
+  - "[[Discourse]]"
   - "[[Open Method of Coordination]]"
-  - "[[Performance Indicators]]"
-  - "[[Lifelong Learning]]"
+  - "[[Orchestrator State]]"
+  - "[[Strategic Autonomy]]"
   - "[[Competitiveness]]"
+  - "[[Lifelong Learning]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Academic Attrition]]"
+  - "[[Employability]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Politics of Knowledge]]"
+  - "[[Geopolitics]]"
+  - "[[Performance Indicators]]"
+  - "[[European Education Space]]"
+  - "[[Knowledge Co-production]]"
+  - "[[Document]]"
 related_theories:
   - "[[Panopticism]]"
-  - "[[Governmentality]]"
   - "[[Human Capital Theory]]"
+  - "[[Governmentality]]"
+  - "[[Path Dependence]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[EU]]"
-  - "[[OECD]]"
-  - "[[Eurydice]]"
-  - "[[Europe 2020 Strategy]]"
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[Important Projects of Common European Interest]]"
+  - "[[Erasmus Programme]]"
+  - "[[Growth, Competitiveness, Employment]]"
+  - "[[Teaching and Learning - Towards the Learning Society]]"
   - "[[Lisbon Strategy]]"
+  - "[[OECD]]"
   - "[[PISA]]"
+  - "[[European Education Area]]"
+  - "[[EU Skills Agenda]]"
   - "[[European Chips Act]]"
+  - "[[Important Projects of Common European Interest]]"
+  - "[[European Semester]]"
+  - "[[Eurydice]]"
+  - "[[Education and Training 2010]]"
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[Horizon Europe]]"
 related_arguments:
-  - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Rambla_2022_Springer]]"
-  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
-  - "[[Argument_Bulfone_2024_IAI]]"
-  - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 欧洲联盟委员会（European Commission，简称欧盟委员会或欧委会）是欧洲联盟的超国家常设执行机构。在教育与培训领域，受制于《马斯特里赫特条约》确立的[[Subsidiarity Principle|辅助性原则]]，欧委会无权推行统一的指令性立法；欧委会通过设立专门主管机构（第 22 总司，后改组为教育、青年、体育与文化总司 DG EAC）、研制政策白皮书与真理政制话语、出台滚动议程以及全面运作[[Open Method of Coordination|开放协调法]]（OMC），将分散的成员国纳入由指标常设工作组、基准线记分牌与同行评审构筑的超国家“全景敞视”监视网络，实现了无需法律制裁的高效软治理；在产业政策中，欧委会作为“[[Orchestrator State|协调型国家]]”通过国家援助审批与欧洲共同利益重大项目协同推进微电子技术与战略自主。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 488–493)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> [[EU|欧洲联盟]]委员会（European Commission，简称欧盟委员会或欧委会）是欧洲联盟的超国家常设执行机构。在教育与培训领域，受制于《马斯特里赫特条约》确立的[[Subsidiarity Principle|辅助性原则]]，欧委会无权推行统一的指令性立法；欧委会通过设立专门主管机构（第 22 总司，后改组为教育、青年、体育与文化总司 DG EAC）、研制政策白皮书与[[Regimes of Truth|真理政制]][[Discourse|话语]]、出台滚动议程以及全面运作[[Open Method of Coordination|开放协调法]]（OMC），将分散的成员国纳入由指标常设工作组、基准线记分牌与同行评审构筑的超国家“[[Panopticism|全景敞视]]”监视网络，实现了无需法律制裁的高效软治理；在产业政策中，欧委会作为“[[Orchestrator State|协调型国家]]”通过国家援助审批与欧洲共同利益重大项目协同推进微电子技术与[[Strategic Autonomy|战略自主]]。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 488–493)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 演进起点** 1958 年依据《罗马条约》作为欧洲经济共同体委员会设立，1967 年合并欧洲煤钢共同体与原子能共同体执行机构成立统一的欧洲共同体委员会，1993 年马斯特里赫特条约生效后成为欧洲联盟委员会。
@@ -85,43 +101,43 @@ updated: 2026-10-28
 >   作为经济共同体执行机构，欧委会早期行动严格受限于劳动力自由流动背景下的职业技能培训条款，普通学校教育被各国坚决排斥在委员会职权之外。
 >
 >   - **1958** 欧洲经济共同体委员会成立，依据《罗马条约》第 128 条获得职业培训协调权。
->   - **1987** 欧委会克服成员国阻力设立“伊拉斯谟计划”（Erasmus），迈出跨国高等教育交流第一步。
+>   - **1987** 欧委会克服成员国阻力设立“[[Erasmus Programme|伊拉斯谟计划]]”（Erasmus），迈出跨国高等教育交流第一步。
 >
 > - **1993–1999** **条约合法化挫折、行政专设与白皮书话语转向**
 >
 >   《马斯特里赫特条约》将教育正式写入条约但附带严苛的辅助性原则；欧委会面临批准公投危机，转而诉诸文化象征动员与经济新自由主义理念重构教育性质。
 >
 >   - **1992–1993** 出台五份关于欧洲公民身份、社会团结与民主赤字的咨询文件，借用想象共同体理念赋予教育形塑欧洲认同的政治象征使命。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 482)]]
->   - **1993 与 1995** 欧委会相继发布德洛尔白皮书《增长、竞争力、就业》与克雷松白皮书《教与学：迈向学习型社会》，将教育重塑为提升经济竞争力的“无形投资”并确立终身学习话语。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
+>   - **1993 与 1995** 欧委会相继发布德洛尔白皮书《[[Growth, Competitiveness, Employment|增长、竞争力、就业]]》与克雷松白皮书《[[Teaching and Learning - Towards the Learning Society|教与学：迈向学习型社会]]》，将教育重塑为提升经济[[Competitiveness|竞争力]]的“无形投资”并确立[[Lifelong Learning|终身学习]]话语。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
 >   - **1995** 欧委会正式设立主管教育、培训与青年的第 22 总司（DG XXII，后改组为 DG EAC），试图建立教育行政中枢。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–482)]]
 >   - **1999** 欧盟教育理事会通过关于滚动议程（Rolling Agenda）的决议，打破传统行动计划的科层僵局，确立以经验共享与最佳实践为核心的工作程序。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 488)]]
 >
-> - **2000–2010** **里斯本战略、开放协调法与全景敞视软治理确立**
+> - **2000–2010** **[[Lisbon Strategy|里斯本战略]]、开放协调法与全景敞视软治理确立**
 >
 >   里斯本欧洲理事会特别峰会后，欧委会获得软协调授权，全面运用开放协调法（OMC）将各成员国改革纳入量化指标与基准线监控。
 >
->   - **2000** 启动《里斯本战略》，欧委会提出面向知识经济的教育基准框架。
->   - **2002** 欧委会设立常设指标工作组（Standing Group on Indicators and Benchmarks, SGIB），联合欧洲统计局（Eurostat）制定早期离校率低于 10% 等五大核心基准线。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 489–492)]]
->   - **2000 年代中期** 欧委会与经合组织结成深度共生同盟，资助并采信 PISA 等测评数据推动成员国内部改革。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23, 32–34)]]
+>   - **2000** 启动《里斯本战略》，欧委会提出面向[[Knowledge-Based Economy|知识经济]]的教育基准框架。
+>   - **2002** 欧委会设立常设指标工作组（Standing Group on Indicators and Benchmarks, SGIB），联合欧洲统计局（Eurostat）制定[[Academic Attrition|早期离校]]率低于 10% 等五大核心基准线。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 489–492)]]
+>   - **2000 年代中期** 欧委会与[[OECD|经合组织]]结成深度共生同盟，资助并采信 [[PISA]] 等测评数据推动成员国内部改革。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23, 32–34)]]
 >
-> - **2010 年至今** **欧洲教育区建设与产业战略自主协调**
+> - **2010 年至今** **[[European Education Area|欧洲教育区]]建设与产业战略自主协调**
 >
->   出台《欧洲 2020 战略》与《欧洲技能议程》，设立 2025 年建成欧洲教育区（EEA）的顶层框架；在地缘科技博弈中主导《欧洲芯片法案》并审批微电子重大项目。
+>   出台《欧洲 2020 战略》与《[[EU Skills Agenda|欧洲技能议程]]》，设立 2025 年建成欧洲教育区（EEA）的顶层框架；在地缘科技博弈中主导《[[European Chips Act|欧洲芯片法案]]》并审批微电子重大项目。
 >
 >   - **2020–2021** 欧委会发布《在 2025 年前建成欧洲教育区》公报（COM(2020) 625 final），尝试以“社会包容”重构政策议程并设立集中化治理平台；但该倡议遭到欧盟理事会纠偏，理事会决议推翻了委员会对终身学习的边缘化定位，将欧委会治理工具重新锁定在去立法的传统开放协调法（OMC）框架内。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
->   - **2023** 批准微电子与通信技术欧洲共同利益重大项目（IPCEI ME/CT），推进防卫性半导体产业战略。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+>   - **2023** 批准微电子与通信技术欧洲共同利益重大项目（[[Important Projects of Common European Interest|IPCEI ME/CT]]），推进防卫性半导体产业战略。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
 
 > [!actor-grid] 组织治理架构
 > - **委员学院（College of Commissioners）** 政治领导最高中枢，由 27 位各成员国提名的委员组成，负责审查并批准所有跨国教育战略通信、立法草案与白皮书。
 > - **专门业务总司（DG EAC 与 DG CNECT）** 教育、青年、体育与文化总司（DG EAC，前身为第 22 总司 DG XXII）主管日常教育战略与 OMC 推进；通信网络、内容和技术总司（DG CNECT）主导数字化与芯片产业政策。
-> - **跨总司管辖权分割（DG EAC 与 DG EMPL）** 欧委会内部教育与劳动力市场职能被制度化割裂：DG EAC 主管基础教育与高等教育，而职业教育与培训（VET）、技能议程与成人学习由就业总司（DG EMPL）管辖；此外，宏观欧洲学期监控由经济金融总司（DG-Economy）把控，导致委员会在推进一体化教育战略时面临内部科层协调壁垒。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]]
-> - **常设指标工作组与专家网络** 设立常设指标与基准工作组（SGIB），吸纳各国技术官僚与数据专家确定衡量公尺；协同运行欧洲教育信息网络（[[Eurydice]]）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 489–490)]]
+> - **跨总司管辖权分割（DG EAC 与 DG EMPL）** 欧委会内部教育与劳动力市场职能被制度化割裂：DG EAC 主管基础教育与高等教育，而职业教育与培训（VET）、技能议程与成人学习由就业总司（DG EMPL）管辖；此外，宏观[[European Semester|欧洲学期]]监控由经济金融总司（DG-Economy）把控，导致委员会在推进一体化教育战略时面临内部科层协调壁垒。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]]
+> - **常设指标工作组与专家网络** 设立常设指标与基准工作组（SGIB），吸纳各国技术官僚与数据专家确定衡量公尺；协同运行[[Eurydice|欧洲教育信息网络]]（[[Eurydice]]）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 489–490)]]
 > - **成员国常设对接与同行评审网** 组织各成员国教育部门司局级官员召开常态化同行评审会议，负责评估各国《国家改革计划》（NRPs）与教育达标自评报告。
 
 > [!pathways] 业务运行机制与软治理技术
-> - **真理政制话语建构（Regimes of Truth）** 欧委会通过出台权威白皮书与政策战略，确立以“质量”、“卓越”、“就业能力”与“终身学习”为核心的话语谱系，将宏观经济竞争逻辑自然化为无可动摇的教育改革准则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 484–486)]]
+> - **真理政制话语建构（Regimes of Truth）** 欧委会通过出台权威白皮书与政策战略，确立以“质量”、“卓越”、“[[Employability|就业能力]]”与“终身学习”为核心的话语谱系，将宏观经济竞争逻辑自然化为无可动摇的教育改革准则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 484–486)]]
 > - **凝视技术（Technologies of the Gaze）** 设立常设指标工作组，制定涵盖早期离校率、高等教育普及率、终身学习参与度等跨国统一指标，依托密集数据采集形成强光照射，使各国教育现实完全置于超国家机构审视之下。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 490–492)]]
 > - **绩效技术（Technologies of Performance）** 发布年度达标记分牌（Scoreboards）与国家排行榜，利用最佳实践转移与公开曝光机制，促成成员国之间的横向攀比与声誉压力。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–493)]]
 > - **治理技术（Technologies of Governance）** 实施同行评审（Peer Review）与国家自评机制，诱导各国官员将外部量化指标内化为本国教育规划逻辑，完成自愿式的自我规训。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
@@ -129,24 +145,24 @@ updated: 2026-10-28
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **政策白皮书与战略框架** 发布 1993 年与 1995 年关键白皮书、《教育与培训 2010/2020》工作规划与《欧洲技能议程》。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
+> - **政策白皮书与战略框架** 发布 1993 年与 1995 年关键白皮书、《[[Education and Training 2010|教育与培训 2010]]/2020》工作规划与《欧洲技能议程》。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
 > - **开放协调法基准线与监测系统** 研制发布覆盖基础教育与高等教育的欧洲五大核心基准线体系及年度《教育与培训监测报告》（Education and Training Monitor）。
-> - **证据中介网络与数据库** 运行 Eurydice 定性政策数据库；资助 EIPEE 与 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国知识中介网络推广循证决策。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 67–68)]]
-> - **高科技国家援助协调工具** 协调设立微电子欧洲共同利益重大项目（IPCEI ME/CT），推进《欧洲芯片法案》。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> - **证据中介网络与数据库** 运行 Eurydice 定性政策数据库；资助 EIPEE 与 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国[[Knowledge Mediation|知识中介]]网络推广[[Evidence-Based Policy-Making|循证决策]]。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 67–68)]]
+> - **高科技国家援助协调工具** 协调设立微电子欧洲共同利益重大项目（IPCEI ME/CT），推进《欧洲[[CHIPS and Science Act|芯片法案]]》。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!citation-card] 欧委会界定教育作为欧洲未来的关键无形投资
-> 1997 年欧委会在《2000 年议程》中正式提出知识政治命题：信息技术与经济全球化促成了无形产品的主导地位，科研与教育培训构成最核心的无形投资，决定着欧洲未来的地缘政治前途。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
+> 1997 年欧委会在《2000 年议程》中正式提出[[Politics of Knowledge|知识政治]]命题：信息技术与经济全球化促成了无形产品的主导地位，科研与教育培训构成最核心的无形投资，决定着欧洲未来的[[Geopolitics|地缘政治]]前途。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487)]]
 
 ---
 
 > [!indicators] 影响力维度与指标
 > - **软治理网络覆盖** 统筹 27 个成员国每年数千名教育专家与官员的常态化同行评审会议。
 > - **指标约束强度** 欧盟教育基准线成为南欧、中东欧等成员国制定本国五年国家教育战略的核心对齐公尺。
-> - **预算与资助辐射** 统筹 Erasmus+（约 260 亿欧元）与地平线欧洲科研框架（近千亿欧元）的资金分配。
+> - **预算与资助辐射** 统筹 Erasmus+（约 260 亿欧元）与[[Horizon Europe|地平线欧洲]]科研框架（近千亿欧元）的资金分配。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **构建超国家全景敞视规训网络** 巧妙绕过条约禁止统一立法的宪制束缚，依托数据可见性与指标强光照射，在缺乏直接行政制裁的情形下实现了成员国教育政策与治理体系的深度趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
-> - **推动教育向人力资本无形投资转型** 深刻改变了欧洲战后将教育视作福利消费开支的传统观念，将教育重塑为提升国际竞争力的核心生产力手段，并将就业风险转嫁至自负盈亏的学习者个体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
+> - **推动教育向[[Human Capital Theory|人力资本]]无形投资转型** 深刻改变了欧洲战后将教育视作福利消费开支的传统观念，将教育重塑为提升国际竞争力的核心生产力手段，并将就业风险转嫁至自负盈亏的学习者个体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
 > - **协调型国家模式落地产业治理** 在半导体等高科技产业中担当协调者，通过撮合跨国公私研发网络与国家补贴合规审查维系欧洲内部市场统一。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
@@ -175,10 +191,10 @@ updated: 2026-10-28
 > | [[European Education Space]] | 概念 | 欧委会软治理旨在建构的超国家政策与符号空间。 |
 > | [[Panopticism]] | 理论 | 帕西亚斯与鲁萨基斯用于解构欧委会软法监控体系的核心权力理论。 |
 > | [[Governmentality]] | 理论 | 解释欧委会如何通过真理政制引导成员国自愿合规的治理术理论。 |
-> | [[Eurydice]] | 事实 | 与欧委会合作生产教育信息与政策比较数据库的欧洲网络。 |
+> | [[Eurydice]] | 事实 | 与欧委会[[Knowledge Co-production\|合作生产]]教育信息与政策比较数据库的欧洲网络。 |
 > | [[European Chips Act]] | 事实 | 欧委会主导推进的半导体战略自主产业法案。 |
 > | [[Orchestrator State]] | 概念 | 描述欧委会在高科技产业政策中撮合与审批补贴的协调型角色。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 剖析欧委会如何通过全景敞视软治理与真理政制重构欧洲教育空间的代表性文献。 |
+> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 剖析欧委会如何通过全景敞视软治理与真理政制重构欧洲教育空间的代表性[[Document\|文献]]。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧委会与经合组织制度共生、依托指标采购制作欧洲教育空间的实证文献。 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 论证 | 考察欧委会在芯片政策中协调型角色与国家援助审批的实证文献。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | 论证 | 剖析欧委会在欧洲教育区战略中面临的跨总司分割、成员国阻力及开放协调法路径依赖的文献。 |
+> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | 论证 | 剖析欧委会在欧洲教育区战略中面临的跨总司分割、成员国阻力及开放协调法[[Path Dependence\|路径依赖]]的文献。 |

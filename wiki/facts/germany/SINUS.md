@@ -11,9 +11,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 25
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 33
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1998–2007"
 initiator_organization: "联邦与各州教育规划与科研促进委员会（Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung, BLK）"
@@ -26,17 +26,25 @@ tags:
   - transfer-science
   - blk
 related_concepts:
+  - "[[Teacher Collaboration]]"
   - "[[Paradigm]]"
   - "[[Business as Usual]]"
   - "[[Recontextualization]]"
   - "[[Habitus]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
   - "[[Transfer Science]]"
+  - "[[School Autonomy]]"
+  - "[[Problem Solving]]"
+  - "[[Self-Efficacy]]"
   - "[[Rote Learning]]"
   - "[[Open-Mindedness]]"
-  - "[[Self-Efficacy]]"
   - "[[Professional Judgment]]"
   - "[[Absorptive Capacity]]"
+  - "[[Variable]]"
+  - "[[Research Translation]]"
+  - "[[Metascience]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Complexity Theory]]"
@@ -60,17 +68,17 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学莱布尼茨科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校教师协作网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
+> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学莱布尼茨科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1998 年正式立项启动先导试验（1998–2003 年）；因成效显著，随后扩展为面向全德的规模化推广计划“SINUS-Transfer”（2003–2007 年），并进一步延伸至小学阶段（2009–2013 年）。
-> - **发起方与资助机制** 由 BLK 统筹确立联邦-州联合资助架构，由[[Federal Ministry of Education and Research|联邦教育与研究部]]（BMBF）与各参与联邦州财政共同注资配比；在 PISA 震荡后，BMBF 追加专项研究资助支持其全德扩张，基尔大学 IPN 研究所牵头学术研发与效果评估。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
+> - **发起方与资助机制** 由 BLK 统筹确立联邦-州联合资助架构，由联邦教育与研究部（[[Federal Ministry of Education and Research|BMBF]]）与各参与联邦州财政共同注资配比；在 PISA 震荡后，BMBF 追加专项研究资助支持其全德扩张，基尔大学 IPN 研究所牵头学术研发与效果评估。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
 > - **覆盖范围与对象** 首期试点覆盖全德 180 所中学，至 SINUS-Transfer 阶段扩展至数千所学校与上万名数理教师，形成了辐射全德的多层级教研网络。
 > - **核心问题导向** 破除德国传统数理课堂中过度依赖孤立计算、缺乏认知激活、排斥错误探索以及各校教师闭门单打独斗的体制弊端，探索如何将前沿教学实证发现转化为广大中小学可吸收的[[Business as Usual|常态教学]]行为。
 
@@ -80,7 +88,7 @@ updated: 2026-10-22
 > 教学质量的根本改进无法通过自上而下的行政命令或理论宣讲达成，而必须依靠结构化的“教学发展模块”为教师提供反思支架，并将单体学校嵌入跨校专业教研网络，使一线教师在平等的同侪共研与[[Recontextualization|本土重构]]中重塑专业信念与教学[[Habitus|惯习]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 11)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 提升中小学数理教学效率与学生高阶思维，培育以问题为导向、接纳错误与注重探究的新型课堂教学文化。
+> - **项目目标** 提升中小学数理教学效率与学生[[Higher-Order Thinking Skills|高阶思维]]，培育以问题为导向、接纳错误与注重探究的新型课堂教学文化。
 > - **覆盖对象** 全德文理中学、实科中学与综合中学的数学、物理、化学、生物任课教师与受试学生。
 > - **十一大教学发展模块（Elf Module）** 项目提炼出 11 个具有明确认知心理学与教学论支撑的主题模块，包括：题目文化的重塑（Aufgabenkultur）、以错误为契机的反馈文化（Fehlerkultur）、自主探究与[[Metacognition|元认知]]学习（Selbstbestimmtes Lernen）、跨学科实践与实验探究（Forschendes Lernen）、认知激活与差异化分层教学（Differenzierung）等。各校可根据自身校情灵活选取 2–3 个模块作为阶段攻坚焦点。
 > - **跨校教研网络（Schulnetzwerke）** 打破单体学校孤立状态，由地理位置相邻的 2–4 所学校结成基层教研联合体（Set）。每个联合体由学科教研组长和骨干教师组成，定期展开协同备课、互访听课与案例剖析。
@@ -110,14 +118,14 @@ updated: 2026-10-22
 > [!pathways] 实施路径与管理
 > - **纵向专业支架与研修** 大学研究团队与州立机构定期向区域协调员提供最新认知心理学与教学论支架，避免一线探索偏离科学前沿。
 > - **跨校同侪网络横向联动** 建立相邻学校组成的教研联合体（Set），通过同侪互访、集体备课与课堂实录剖析，形成专业信任与经验共享机制。
-> - **校本选择与动态重构** 赋予单体学校自主选配 11 个模块中特定攻坚主题的权力，鼓励教师根据本校学情对教学设计进行自适应微调。
+> - **校本选择与动态重构** 赋予单体[[School Autonomy|学校自主]]选配 11 个模块中特定攻坚主题的权力，鼓励教师根据本校学情对教学设计进行自适应微调。
 
 ---
 
 > [!indicators] 评估指标体系
 > - **投入与网络指标** 参与学校总数、跨校教研联合体（Set）密度、BMBF 与各州专项目标拨款落实率。
 > - **过程与依从性指标** 教师对开放式题目与探究任务的使用频率、跨校研讨活动出勤率、教学常规转变持续度。
-> - **产出与学力指标** 学生的数学与科学概念掌握度、问题解决能力增值、学科兴趣与学业自我效能感。
+> - **产出与学力指标** 学生的数学与科学概念掌握度、[[Problem Solving|问题解决能力]]增值、学科兴趣与学业[[Self-Efficacy|自我效能感]]。
 
 > [!finding-cards] 核心实证结论
 > - **微观教学文化的积极转变** 实证追踪表明，参与 SINUS 的教师在课堂上显著减少了[[Rote Learning|死记硬背]]式灌输，增加了高认知负荷的[[Open-Mindedness|开放性]]问题与合作探究任务；学生在理科学习兴趣、概念理解深度与[[Self-Efficacy|自我效能感]]上均录得显著提升。
@@ -141,7 +149,7 @@ updated: 2026-10-22
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 随着项目行政规模扩大，缺乏持续专业支架的薄弱学校极易退化为表面合规，无法触及深层教学信念与课堂实践转变。
-> - **对未来改革的启示** 大型教育改革必须将单体学校的组织文化与吸收能力作为核心变量纳入考量，通过长效性网络机制与中介平台提供持续专业支持。
+> - **对未来改革的启示** 大型教育改革必须将单体学校的组织文化与吸收能力作为核心[[Variable|变量]]纳入考量，通过长效性网络机制与中介平台提供持续专业支持。
 
 ---
 
@@ -156,10 +164,10 @@ updated: 2026-10-22
 > | [[PISA]] | Fact (Program) | PISA 2000 震荡进一步强化了德国对数理教学转型的危机意识并推动 SINUS 规模化扩散。 |
 > | [[PISA Shock in Germany]] | Fact (Event) | 德国 PISA 冲击，直接促使联邦与各州将 SINUS 确立为应对理科质量危机的核心干预举措。 |
 > | [[Qualitätsoffensive Lehrerbildung]] | Fact (Program) | 德国继 SINUS 之后启动的更大规模国家级教师教育专项，吸纳了网络化教研与证据中介经验。 |
-> | [[Clearing House Unterricht]] | Fact (Organization) | 慕尼黑工业大学教学证据清算平台，继承了 SINUS 将实证研究转化为课堂可用知识的机制。 |
-> | [[Transfer Science]] | Theory | 将 SINUS 等大型试验的转移过程、阻抗机制与网络条件作为核心研究对象的新兴元科学范式。 |
+> | [[Clearing House Unterricht]] | Fact (Organization) | 慕尼黑工业大学教学证据清算平台，继承了 SINUS 将实证[[Research Translation\|研究转化]]为课堂可用知识的机制。 |
+> | [[Transfer Science]] | Theory | 将 SINUS 等大型试验的转移过程、阻抗机制与网络条件作为核心研究对象的新兴[[Metascience\|元科学]]范式。 |
 > | [[Absorptive Capacity]] | Concept | 单体学校消化吸收 SINUS 创新模块的组织能力门槛。 |
 > | [[Recontextualization]] | Concept | 外部教学发展模块在特定学校文化中被选择性同化与本土重构的理论机制。 |
-> | [[Complexity Theory]] | Theory | 解释跨校协作网络自组织涌现与大规模自上而下推广中非线性衰减的系统理论。 |
+> | [[Complexity Theory]] | Theory | 解释跨校协作网络自组织[[Emergence\|涌现]]与大规模自上而下推广中非线性衰减的系统理论。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 将 SINUS 与 SINUS-Transfer 确立为德语区转移科学与模型试验研究的奠基性历史坐标。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 PISA 震荡后德国联邦教育部追加资助将 SINUS 确立为应对数理危机核心干预的政策机制。 |

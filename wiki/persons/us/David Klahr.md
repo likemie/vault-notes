@@ -8,7 +8,7 @@ summary: "美国卡耐基梅隆大学认知心理学与学习科学荣休讲席�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,6 +42,7 @@ related_arguments:
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
 related_facts:
   - "[[American Educational Research Association]]"
 related_theories:
@@ -49,7 +50,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!def] 学者生平与定位
@@ -101,7 +102,7 @@ Klahr 的实证研究构成了[[International Education|国际教育]]学界探�
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Control of Variables Strategy]] | 概念 | Klahr 是变量控制策略教学实验设计与认知机制评估的开创者。 |
+> | [[Control of Variables Strategy]] | 概念 | Klahr 是变量控制策略教学[[Experimental Research\|实验设计]]与认知机制评估的开创者。 |
 > | [[Inquiry-Based Learning]] | 概念 | Klahr 的实验深刻触发了学习科学界关于探究教学中指导时机与形式的全面反思。 |
 > | [[Direct Instruction]] | 概念 | 其 2004 年论文常被直接讲授倡导派援引为核心证据，但后续研究深化了对其局限的认识。 |
 > | [[Discovery Learning]] | 概念 | Klahr 实验中的对照组对比了无指导发现与显性讲授的习得差异。 |

@@ -9,7 +9,7 @@ summary: "新西兰教育政策家与跨国治理专家，新西兰首任女性�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,13 +42,14 @@ related_facts:
   - "[[World Bank]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Educational Knowledge Management System]]"
+  - "[[Strategic Compact]]"
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 # Maris O'Rourke
@@ -63,7 +64,7 @@ updated: 2026-10-23
 > - **代表贡献** 主持落地新西兰彻底撤销传统教育部的分权改革；在世界银行首倡并构建[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）与教育咨询服务部（EAS），奠定世行“[[Knowledge Bank|知识银行]]”教育业务基础。
 
 > [!citation-card] 奥罗克与世行首个教育知识系统的确立
-> 在玛丽斯·奥罗克（1995–2001 年在任）的主持下，世界银行创建了首个教育知识管理系统（EKMS）。奥罗克此前曾担任新西兰首位教育总监，并领导了该国以市场为导向的‘明日学校’改革。在世界银行行长[[James Wolfensohn|沃尔芬森]]的战略契约改革下，教育部门被选为全行知识转型的首批试点，设立了由 250 名专家组成的咨询服务部，将新西兰的市场化治理经验与跨国知识中介紧密结合。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> 在玛丽斯·奥罗克（1995–2001 年在任）的主持下，世界银行创建了首个教育知识管理系统（EKMS）。奥罗克此前曾担任新西兰首位教育总监，并领导了该国以市场为导向的‘明日学校’改革。在世界银行行长[[James Wolfensohn|沃尔芬森]]的[[Strategic Compact|战略契约]]改革下，教育部门被选为全行知识转型的首批试点，设立了由 250 名专家组成的咨询服务部，将新西兰的市场化治理经验与跨国知识中介紧密结合。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 >
 > *Under Maris O'Rourke (1995–2001), previously New Zealand's first Secretary for Education who spearheaded the market-oriented 'Tomorrow's Schools' reforms, the Bank created the first Knowledge Management System in education (EKMS). Education was chosen as the pilot sector for the entire Bank's knowledge transformation under Wolfensohn's Strategic Compact.*
 
@@ -76,7 +77,7 @@ updated: 2026-10-23
 > - **1980 年代中叶** 步入新西兰政界，出任教育部长皮克林咨询团队核心专家，深度参与“皮克林工作组”旨在瓦解中央集权[[Bureaucracy|科层制]]的[[New Public Management|新公共管理]]方案研拟。
 > - **1989 年** 获任命为新西兰首任教育总监（Secretary for Education），负责全面推行以学校董事会自治与直接[[School Choice|择校]]为特征的“明日学校”法案，撤销原有官僚部门，重组新教育署。
 > - **1995 年** 获得[[World Bank|世界银行]]常务管理层延揽，正式出任世界银行首任教育总监，领导华盛顿总部教育专业队伍。
-> - **1996–2000 年** 紧密配合行长[[James Wolfensohn|沃尔芬森]]的“战略契约”倡议，主导构建全行首个[[Educational Knowledge Management System|教育知识管理系统]]（EKMS），开创教育咨询服务台与全球主题小组运作模式。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **1996–2000 年** 紧密配合行长[[James Wolfensohn|沃尔芬森]]的“[[Strategic Compact|战略契约]]”倡议，主导构建全行首个[[Educational Knowledge Management System|教育知识管理系统]]（EKMS），开创教育咨询服务台与全球主题小组运作模式。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 > - **2001 年后** 卸任世行职务后，出任跨国独立咨询顾问与多家[[International Education|国际教育]]基金会理事，持续参与发展中国家公立[[Educational Decentralization|教育分权]]治理方案设计。
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-23
 
 > [!person-network] 关系网络
 > - **关键领导与授权者** [[James Wolfensohn]] — 世界银行行长，授权奥罗克将教育部门选为全行知识转型的试点先驱。
-> - **政策协同伙伴** 沃尔芬森战略契约执行团队、新西兰工党与国家党联合改革内阁。
+> - **政策协同伙伴** 沃尔芬森[[Strategic Compact|战略契约]]执行团队、新西兰工党与国家党联合改革内阁。
 > - **机构实体** [[World Bank]]、[[Educational Knowledge Management System]]。
 
 ---

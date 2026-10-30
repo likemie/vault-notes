@@ -9,14 +9,14 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
-updated: 2026-10-22
+updated: 2026-10-30
 tags:
   - person/political-scientist
   - person/policy-scholar
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Document]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Developmental Network State]]"
@@ -166,7 +167,7 @@ created: 2026-10-02
 
 ---
 
-> [!evidence-grid-a] 相关文献索引
+> [!evidence-grid-a] 相关[[Document|文献]]索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中吸收斯托克斯[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，从后工业政治经济学视角论证现代重大突破均发生在[[Use-Inspired Basic Research|应用启发的基础研究]]象限，为联邦跨部门公共研发网络主动介入[[Valley of Death|死亡之谷]]、开展概念验证与网络撮合确立了技术[[Epistemology|认识论]]基石。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为白宫 2026 年科技体制重构报告的核心理论支柱，论证晶体管、信息论、AlphaFold 及量子器件的双重驱动特征，并以此为依据提出重组联邦资助机构、设立中等规模工程科学组织与闭环自主实验室的系统方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论述斯托克斯[[Pasteur's Quadrant|巴斯德象限]]如何成为 1990 年代美国应对冷战终结与赤字攀升、推动科学与社会“重新签约”并构建复合型契约的核心[[Epistemology|认识论]]支柱。

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Informed Consent]]"
   - "[[Emergence]]"
+  - "[[Note-Taking]]"
   - "[[Central Phenomenon]]"
   - "[[Construct]]"
 related_theories:
@@ -84,7 +85,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -302,7 +303,7 @@ updated: 2026-10-22
 > 质性数据体量大且需系统化处理，利用计算设施组织、编码与检索数据仍然很有用。LeCompte and Preissle（1993）概括了信息技术支持质性研究的多种方式（亦见 Tesch, 1990; Gibbs, 2007, Ch8）。（28.4）
 
 > [!feature] CAQDAS 的主要用途
-> - **记录与转录** 记笔记；导入与管理已由 AI 转写或人工整理的访谈文本。
+> - **记录与转录** [[Note-Taking|记笔记]]；导入与管理已由 AI 转写或人工整理的访谈文本。
 > - **管理与存储** 有序管理与存储数据；编辑、扩展或修订田野笔记；存储并校对数据；整理与分段数据并制作副本。
 > - **搜索与检索** 文本搜索与检索；搜索词或短语并检索文本；搜索以特定（如时间）顺序出现的数据片段。
 > - **编码与分类** 编码数据并把编码排列为层级（树）与节点；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元附加识别标签；按研究者决定或自然语言划分数据单元。

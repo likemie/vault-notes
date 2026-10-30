@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Brainstorming]]"
   - "[[Counterfactual]]"
   - "[[Primary and Secondary Documents]]"
@@ -43,6 +44,7 @@ related_theories:
   - "[[Inquiry Cycle]]"
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Network Analysis]]"
   - "[[Longitudinal Study]]"
   - "[[Questionnaire]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -88,7 +90,7 @@ updated: 2026-10-22
 > [!policy-design] 方案设计
 > - **项目目标** 培育教师的[[Analytical Stance\|批判性分析立场]]与[[Research Literacy\|研究素养]]，打破校际孤岛，建立跨校知识共享与循证教学文化。
 > - **参与架构与集群规模** 采取校际集群研讨机制，干预组 60 所小学被划分为 10 个 RLC 集群（每组 5–6 所学校），每校选派 2 名“证据带头人”（Evidence Champions，学科骨干）与 1 名校级领导（校长或副校长）组成三人攻关组，统筹学术转译与校内资源协调。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 126)]]
-> - **外部协调支架** 由大学研究者担任外部协调员（Facilitators），在两年项目期内每学年主持 4 次全天跨校工作坊（共 8 次），提供经过提炼转译的学术成果综述、分析协议与课堂实验设计模板。
+> - **外部协调支架** 由大学研究者担任外部协调员（Facilitators），在两年项目期内每学年主持 4 次全天跨校工作坊（共 8 次），提供经过提炼转译的学术成果综述、分析协议与课堂[[Experimental Research|实验设计]]模板。
 > - **实施控制** 采用[[Network Analysis\|社会网络分析]]（SNA）与[[Longitudinal Study\|纵向调查]]量表追踪信息流动态势，监测研究证据在教师人际网络中的扩散深度。
 
 > [!proc] RLC 三步“学习对话”与四阶段跨校研修流程
@@ -120,7 +122,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 实施角色分工
-> - **大学研究与协调机构** 伦敦大学学院教育学院团队，负责梳理高等级文献、研制转译工具包并主持跨校研讨。
+> - **大学研究与协调机构** 伦敦大学学院教育学院团队，负责梳理高等级[[Document|文献]]、研制转译工具包并主持跨校研讨。
 > - **校级证据带头人** 骨干任课教师，承担前沿实证文献学习、课堂教学微型试验与同伴引领职责。
 > - **校级领导者** 参与团队的校长或教导主任，负责调配排课工时、提供教学试错心理安全感并推进全校扩散。
 > - **校际教研共同体** 结对学校构成的跨校教研网络，提供外部参照系、跨界[[Brainstorming\|头脑风暴]]与批判性友伴支持。

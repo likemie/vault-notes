@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: 2010–至今
 initiator_organization: 密尔沃基男孩女孩俱乐部（Boys & Girls Clubs）/ 全美服务队（AmeriCorps）
@@ -27,7 +27,10 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Tutoring Interventions]]"
+  - "[[Phonemic Awareness]]"
   - "[[Direct Instruction]]"
+  - "[[Reading Strategies]]"
   - "[[Response to Proven Instruction]]"
 related_theories: []
 related_methods:
@@ -44,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **SPARK Literacy（SPARK 读写项目）** 是由威斯康星州大密尔沃基男孩女孩俱乐部（Boys & Girls Clubs of Greater Milwaukee）与全美服务队（AmeriCorps）联合发起运营、密尔沃基公立学区广泛采纳的早期读写一对一辅导干预方案；其核心战略是招募有志于教育公益的大学毕业生与青年全职服务队成员，通过支付基础生活津贴（有偿志愿者）并配备专业读写教练，为学前班至小学二年级处于严重阅读障碍边缘的极度弱势儿童提供高频、密集的校内与课后个别化辅导。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **SPARK Literacy（SPARK 读写项目）** 是由威斯康星州大密尔沃基男孩女孩俱乐部（Boys & Girls Clubs of Greater Milwaukee）与全美服务队（AmeriCorps）联合发起运营、密尔沃基公立学区广泛采纳的早期读写一对一[[Tutoring Interventions|辅导干预]]方案；其核心战略是招募有志于教育公益的大学毕业生与青年全职服务队成员，通过支付基础生活津贴（有偿志愿者）并配备专业读写教练，为学前班至小学二年级处于严重阅读障碍边缘的极度弱势儿童提供高频、密集的校内与课后个别化辅导。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 创立于 2010 年，依托联邦服务与社区参与基金（CNCS / AmeriCorps）专项支持，在密尔沃基高贫困城市小学网络深度运行至今逾十余年。
@@ -65,8 +68,8 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计与教学规程
 > - **模块化读写技能链条** 30 分钟课程严格涵盖三大核心环节：
->   - **音素意识与拼读[[Direct Instruction\|直接教学]]（10 分钟）** 系统操练字母音形匹配与多音节词汇分解。
->   - **引导式分级文本阅读（15 分钟）** 借助精选分级读本出声朗读，志愿者提供即时纠错并点拨阅读策略。
+>   - **[[Phonemic Awareness|音素意识]]与拼读[[Direct Instruction\|直接教学]]（10 分钟）** 系统操练字母音形匹配与多音节词汇分解。
+>   - **引导式分级文本阅读（15 分钟）** 借助精选分级读本出声朗读，志愿者提供即时纠错并点拨[[Reading Strategies|阅读策略]]。
 >   - **拓展写作与理解应答（5 分钟）** 简短书写当堂核心句段，强化拼读与语篇记忆绑定。
 > - **全职校本教练带教机制** 每个项目学校常驻一名专职 SPARK 项目主管（具备教育学背景），每天进行现场巡回看课并抽检辅导记录。
 

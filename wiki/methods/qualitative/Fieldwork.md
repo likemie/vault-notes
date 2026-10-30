@@ -10,7 +10,7 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Interpretivism]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Empiricism]]"
   - "[[Variable]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** 传统教育[[Ethnography|民族志]]（Educational Ethnography）、微观田野民族志（Micro-ethnography）、多地点跨国比较田野设计（Multi-site Comparative Fieldwork）。
-> - **数据收集** [[Participant Observation|参与观察]]、深度[[Semi-structured Interview|半结构化访谈]]、非正式偶遇交谈、实物与文献档案搜集、详细撰写[[Field Notes|田野笔记]]。
+> - **数据收集** [[Participant Observation|参与观察]]、深度[[Semi-structured Interview|半结构化访谈]]、非正式偶遇交谈、实物与[[Document|文献]]档案搜集、详细撰写[[Field Notes|田野笔记]]。
 > - **分析方法** 质性三级编码（开放、主轴、选择）、类属分析（Categorical Analysis）、情境[[Narrative Analysis|叙事分析]]（Contextual Analysis）。
 > - **辅助技术** 逐字稿音频[[Transcription in Qualitative Research|转录]]、反思性田野日志、进出场关系协议与伦理审查防线。
 

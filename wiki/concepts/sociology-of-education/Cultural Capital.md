@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接提升学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
+  - "[[Dashun Wang]]"
   - "[[Roy Nash]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 （文化资本）
@@ -166,7 +167,7 @@ updated: 2026-10-29
 > [!concept-proposition] 命题三｜中国县域政策化择校中文化资本因程序简化而弱化并向社会关系妥协
 > **探讨维度　政策化与小城市择校维度** 探讨在中国县域城镇化主导的择校迁移中，由于入学手续高度简化与熟人社会的权力逻辑，文化资本的独立技术门槛作用受限，让位于社会资本的关系交涉。
 
-> [!claim] Teng, Y. & Wang, D.
+> [!claim] Teng, Y. & [[Dashun Wang|Wang, D.]]
 > **文化资本的边缘化与妥协** 在县城小学的入学筛选中，由于不设立面试或复杂评估程序，学校信息高度透明，中产阶级所擅长的文化技术优势无从施展。尽管高学历父母有更强的教育期望，但在具体获取稀缺重点学校学位时，文化资本必须向以权力关系变现为核心的社会资本退让，通过熟人关系施压完成入学。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 310)]]
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "通过互联网以数字形式访问的一手文献（Guardian, 2003）。大多数虚拟文献对研究有价值，但政府和组织的官方网站可能将文献以对自身有利的方式呈现。许多历史学家不完全信服数字文献的优点，指出其失去了原始纸质文献的直接性和物质感（Schama, 1999）。"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
   - method/research-methods
   - source/textbook
 related_concepts:
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
 related_theories: []
 related_methods:
@@ -27,13 +28,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Virtual Documents
-> 虚拟文献（virtual documents）指通过互联网以数字形式访问的[[Primary and Secondary Documents\|一手文献]]——即"一点鼠标即可获取"的历史或当代文献（Guardian, 2003）。它们是文献数字化和在线档案扩散的产物，在保持一手文献的内容特征的同时，改变了文献的物质载体和访问方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(pp. 11–12)]]
+> 虚拟[[Document|文献]]（virtual documents）指通过互联网以数字形式访问的[[Primary and Secondary Documents\|一手文献]]——即"一点鼠标即可获取"的历史或当代文献（Guardian, 2003）。它们是文献数字化和在线档案扩散的产物，在保持一手文献的内容特征的同时，改变了文献的物质载体和访问方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(pp. 11–12)]]
 
 > [!citation-card] 关键表述
 > 一点鼠标即可获取的虚拟文献。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(Guardian, 2003, 转引自 p. 12)]]

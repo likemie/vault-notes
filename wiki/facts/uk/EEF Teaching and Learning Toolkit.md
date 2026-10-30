@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 77
+fact_related_count: 78
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[School Autonomy]]"
   - "[[Learning Styles]]"
+  - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[School Leadership]]"
   - "[[Metacognition]]"
@@ -110,7 +111,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-10-26
 > [!policy-context] 政策背景
 > - **研发渊源与资金背景** 初始工作基于 2008 至 2011 年间[[Economic and Social Research Council|英国经济与社会研究理事会]]（ESRC）研究者发展计划编制的教育干预发现[[Meta-analysis\|元分析]]数据库；2011 年英国政府设立旨在改善经济弱势学生学业差距的“[[Pupil Premium\|学生津贴]]”（Pupil Premium）专项公共资金，[[Sutton Trust\|萨顿信托]]（Sutton Trust）与杜伦大学学者合作编制了一系列[[Abstract\|研究摘要]]指导[[School Autonomy|学校自主]]规划津贴用途；同年伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）依托教育部 1.25 亿英镑留本基金创设，该成果被正式升格为常态化运营、持续动态更新的整合型工具包平台。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 46)]]; [[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
 > - **适用地区与对象** 覆盖全英格兰中小学教育体系；核心服务对象为中小学校长、学校高级领导团队（SLT）、一线教师与教研员，旨在指导学校管理层将公共教育经费投向最具实证支持的有效实践。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]
-> - **问题背景** 回应基础教育中长期存在的教育神话泛滥（如[[Learning Styles|学习风格]]理论、脑科学商业宣传）与学术文献碎片化危机，破除实践者检索与解读统计学[[Effect Size\|效应量]]的专业门槛，为学校自主决策提供透明客观的因果证据标尺。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
+> - **问题背景** 回应基础教育中长期存在的教育神话泛滥（如[[Learning Styles|学习风格]]理论、脑科学商业宣传）与学术[[Document|文献]]碎片化危机，破除实践者检索与解读统计学[[Effect Size\|效应量]]的专业门槛，为学校自主决策提供透明客观的因果证据标尺。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
 > - **制度位置与欧洲证据生态定位** [[Department for Education|英国教育部]]官方报告将 EEF Toolkit 列为官方认可的核心证据来源之一；在欧洲证据基础设施（[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 32–33]]）中，Toolkit 被确立为连接因果试验资助、通用策略综述与区域[[Research Schools Network\|研究学校网络]]（RSN）推广的枢纽性中介载体。
 
 ---

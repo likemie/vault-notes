@@ -8,7 +8,7 @@ aliases:
 summary: "教育实证研究向实践转化的最高介入形态，指将因果证据直接封装进高结构化教学工件（如预制教案与软件规程）或法定制度要求（拨款门槛），免除一线教师自行检索解读统计证据的认知负荷"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,8 +23,10 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Document]]"
   - "[[Feedback]]"
   - "[[Reliability]]"
+  - "[[Teacher Questioning]]"
   - "[[Effective Teaching]]"
   - "[[Implementation Fidelity]]"
   - "[[Initial Teacher Training]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （工程化证据）
@@ -73,7 +75,7 @@ updated: 2026-10-22
 > *Teachers probably need clearer guidance, professional development, and modelling of effective strategies on the [[Research Utilization\|Use of Research Evidence]], to improve attainment. There needs to be some more engineered format to translate research evidence into practical guidance for teachers — which could be in the form of lesson plans or protocols — that are simply used by teachers without the need for them to understand or appreciate the underlying evidence base.*
 
 > [!boundary]- 概念边界辨析
-> - **不等于[[Knowledge Mobilisation\|知识动员]]中的改写证据（Modified Evidence）** 改写证据仅对学术文献做文字摘要、图表简化或工具包汇总，仍要求使用者自行完成从理解到课堂行动的再创造；工程化证据则直接产出行动方案本身，将因果活性成分固化于教具与规程之中。
+> - **不等于[[Knowledge Mobilisation\|知识动员]]中的改写证据（Modified Evidence）** 改写证据仅对学术[[Document|文献]]做文字摘要、图表简化或工具包汇总，仍要求使用者自行完成从理解到课堂行动的再创造；工程化证据则直接产出行动方案本身，将因果活性成分固化于教具与规程之中。
 > - **不等于普通的课程教材编写** 工程化证据必须以严密因果试验（如高质量[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT））验证确凿有效的干预机制为核心输入，且工件内部设计严格锁定因果活性成分。
 > - **不等于去专业化的教学控制** 工程化证据的核心意图在于免除实践者承担力不能及的统计审计与方法学甄别负担，使教师能将有限的认知资源集中于高质量师生互动与情境化[[Feedback\|教学反馈]]，而非取代教师的育人职能。
 
@@ -102,7 +104,7 @@ updated: 2026-10-22
 
 > [!dimension] 证据工程化的三层实践架构
 > - **微观教学工件封装层（Micro-pedagogical Artefacts）**
->   将经过严格因果检验的教学认知机制，直接预制封装进分步脚本化教案、教学辅助软件、课堂提问顺序与自适应纠错工件中。一线教师无需理解底层复杂的[[Multiple Regression\|多元回归]]模型，即可在课堂实操中精准落实[[Effective Teaching\|有效教学]]行为（如 Doabler et al., 2014 的核心数学脚本教案）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 596–598)]]
+>   将经过严格因果检验的教学认知机制，直接预制封装进分步脚本化教案、教学辅助软件、[[Teacher Questioning|课堂提问]]顺序与自适应纠错工件中。一线教师无需理解底层复杂的[[Multiple Regression\|多元回归]]模型，即可在课堂实操中精准落实[[Effective Teaching\|有效教学]]行为（如 Doabler et al., 2014 的核心数学脚本教案）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 596–598)]]
 > - **中观组织支持与实施支架层（Implementation Scaffolds）**
 >   配套建立专家技术支持热线、标准化服务台与高保真度操作规程，为使用工程化工件的学校提供实时技术援助，确保教学工件在跨情境落地时维持极高的[[Implementation Fidelity\|实施保真度]]（Implementation Fidelity）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 578)]]
 > - **宏观法定治理与财政约束层（Macro-statutory Governance）**

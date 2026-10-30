@@ -11,9 +11,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Department for Education]]"
 tags:
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Self-Improving School System]]"
+  - "[[Document]]"
   - "[[Evidence Era]]"
   - "[[Initial Teacher Training]]"
   - "[[Policy Borrowing]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-26
 > - **发布时间 / 发布主体** 由[[Department for Education|英国教育部]]（Department for Education, DfE）于 2010 年 11 月正式发布，为保守党—自由民主党联合政府成立后推出的纲领性教育白皮书。
 > - **适用地区 / 对象** 适用于英格兰公立中小学教育系统与教师教育体系，重构中央政府、地方教育局（Local Authorities）、大学高等教育机构（HEIs）、[[School Leadership\|学校领导]]者与一线教师的权责分配。
 > - **问题背景** 白皮书旨在彻底终结新工党执政时期（1997–2010）以中央指令、国家半官方机构（Quangos）及大批咨询顾问为主导的自上而下干预模式。政府研判认为，试图强求学校对中央举措达成“机械服从”，反而极大地削弱了学校系统的内生自我改进能力。
-> - **制度位置** 该白皮书是英格兰由“中央指令改进”转向[[Self-Improving School System\|自我改进学校系统]]（Self-Improving School System, SISS）的制度分水岭，也是英格兰教育治理从以督导数据为中心的“测量时代”迈向以学术文献与因果实验为标志的[[Evidence Era\|证据时代]]的历史转折点。它直接奠定了后续学院化扩张（Multi-Academy Trusts, MATs）、[[Teaching Schools\|教学学校]]指定、校本[[Initial Teacher Training\|初始教师培训]]（SCITT 与 School Direct）扩容以及 2011 年设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等一系列重大国家体制变革的法定基石。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 119–120)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
+> - **制度位置** 该白皮书是英格兰由“中央指令改进”转向[[Self-Improving School System\|自我改进学校系统]]（Self-Improving School System, SISS）的制度分水岭，也是英格兰教育治理从以督导数据为中心的“测量时代”迈向以学术[[Document|文献]]与因果实验为标志的[[Evidence Era\|证据时代]]的历史转折点。它直接奠定了后续学院化扩张（Multi-Academy Trusts, MATs）、[[Teaching Schools\|教学学校]]指定、校本[[Initial Teacher Training\|初始教师培训]]（SCITT 与 School Direct）扩容以及 2011 年设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等一系列重大国家体制变革的法定基石。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 119–120)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 ---
 

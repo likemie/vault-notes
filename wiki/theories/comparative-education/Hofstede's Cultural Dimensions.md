@@ -8,7 +8,7 @@ aliases:
 summary: "国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 50
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Mind and Its Wonders]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Teacher Questioning]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Positivism]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Socioeconomic Status]]"
   - "[[Control of Variables Strategy]]"
+  - "[[Document]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Orientalism]]"
@@ -76,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!theory-position] 理论定位
@@ -206,7 +208,7 @@ updated: 2026-10-22
 > > - **文化维度调节检验与量化数据** 该[[Meta-analysis\|元分析]]依据 Hofstede 文化维度指标，以权力距离指数 55 为门槛对 57 项[[Experimental Research\|实验研究]]开展[[Meta-analysis\|元分析]]亚组调节检验（$Q_B = 10.573, df = 1, p = 0.001^{**}$），呈现出极为鲜明的文化分化：
 > >   - **高权力距离文化（PDI > 55）** 纳入 89 项[[Effect Size\|效应量]]，合并效应达高度显著的大效应水平（$k = 89$, Hedges' $g^+ = 0.859$, $95\%\ \text{CI}\ [0.678, 1.039]$, $SE = 0.092$）；
 > >   - **低权力距离文化（PDI < 55）** 仅纳入 8 项效应量，合并效应极小且未达统计显著（$k = 8$, Hedges' $g^+ = 0.236$, $95\%\ \text{CI}\ [-0.094, 0.565]$, $SE = 0.168$）。
-> > - **机制解构：权力壁垒破除效应** 在高权力距离文化中，传统师生等级森严容易诱发学生的“提问恐惧”与面子心理，课堂提问被赋予沉重的社交与评价风险；生成式 AI 提供了一个去权威化、完全匿名、即时且不带任何评价偏见的互动中介（Yilmaz & Yilmaz, 2023b），使学生得以在完全心理安全的场域中自由表达疑惑与开展自主探究；相比之下，低权力距离文化本身师生关系已高度平等开放，AI 作为求助中介的边际平权增益有限。该实证研究强有力地证实了文化维度作为教育技术促学成效宏观调节变量的解释力。
+> > - **机制解构：权力壁垒破除效应** 在高权力距离文化中，传统师生等级森严容易诱发学生的“提问恐惧”与面子心理，[[Teacher Questioning|课堂提问]]被赋予沉重的社交与评价风险；生成式 AI 提供了一个去权威化、完全匿名、即时且不带任何评价偏见的互动中介（Yilmaz & Yilmaz, 2023b），使学生得以在完全心理安全的场域中自由表达疑惑与开展自主探究；相比之下，低权力距离文化本身师生关系已高度平等开放，AI 作为求助中介的边际平权增益有限。该实证研究强有力地证实了文化维度作为教育技术促学成效宏观调节变量的解释力。
 
 ---
 
@@ -283,5 +285,5 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 在生成式 AI 促学[[Meta-analysis\|元分析]]中以 Hofstede 权力距离为调节[[Variable\|变量]]，发现高权力距离文化效应显著更大（g = 0.859 vs 0.236）。
 > - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 运用 Hofstede 对丹麦文化的刻画提出跨文化教学差异假设，结合丹麦 [[Science Foundation Ireland|SFI]] 报告与高绩效学校实证检验国际[[Effective Teaching\|有效教学]]综合在丹麦的适切性，发现核心有效教学质量跨文化稳健，且社会阶层比国家文化更具解释力。
-> - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 针对西方文献中广泛存在的“[[Chinese Learner\|中国学习者]]”刻板印象展开深层[[Discourse|话语]]解构，批判援引 Hofstede 文化维度进行“文化地图绘制”所带来的本质化倾向，深度剖析了第五维度“儒家工作动力”的历史政治建构与教育实践危害。
+> - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 针对西方[[Document|文献]]中广泛存在的“[[Chinese Learner\|中国学习者]]”刻板印象展开深层[[Discourse|话语]]解构，批判援引 Hofstede 文化维度进行“文化地图绘制”所带来的本质化倾向，深度剖析了第五维度“儒家工作动力”的历史政治建构与教育实践危害。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 在教育研究方法跨文化比较章节中全面评述 Hofstede 文化维度理论的演进史与测量逻辑，重点辨析了跨国抽样局限以及将国家聚合指标套用于微观个体时所引发的[[Ecological Fallacy\|生态谬误]]。

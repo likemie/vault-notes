@@ -12,7 +12,7 @@ aliases:
 summary: "本意为促进发展的教育或心理干预在实施后反而对受试者产生系统性负面损害或越轨行为加剧的现象，在循证清算体系中被设立为不可豁免的一票否决红线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,9 +23,11 @@ tags:
   - unintended-consequences
   - peer-contagion
 related_concepts:
+  - "[[Counseling Effects]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Learned Helplessness]]"
   - "[[Institutional Displacement]]"
+  - "[[Student Motivation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Internal Validity]]"
   - "[[Falsification]]"
@@ -49,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Iatrogenic Effects in Education
-> **教育中的医源性伤害（Iatrogenic Effects in Education）**，借用自临床医学术语（意指由治疗行为本身引发的疾病或损伤），是指教育、心理辅导与青少年发展干预方案在设计初衷为“促进学业、预防辍学或纠正不良行为”的前提下，由于干预机制失调、同伴负向强化或结构性挤压，在实际实施后**反而导致受试者出现学业滑坡、心理创伤、反社会行为恶化或越轨升级的系统性负面因果效应**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]])。
+> **教育中的医源性伤害（Iatrogenic Effects in Education）**，借用自临床医学术语（意指由治疗行为本身引发的疾病或损伤），是指教育、[[Counseling Effects|心理辅导]]与青少年发展干预方案在设计初衷为“促进学业、预防辍学或纠正不良行为”的前提下，由于干预机制失调、同伴负向强化或结构性挤压，在实际实施后**反而导致受试者出现学业滑坡、心理创伤、反社会行为恶化或越轨升级的系统性负面因果效应**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]])。
 >
 > 在国际循证清算体系中，医源性伤害被视作不可豁免的**最高伦理与准入红线**。以 [[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 为代表的严格机构明确规定：任何候选项目只要在核心使命领域或随访期内被证实存在统计显著或实质重要的负向效应（Negative Treatment Effects），将直接实施**一票否决**并标记为“无效或有害（Iatrogenic / Non-certified）”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
 
@@ -76,7 +78,7 @@ updated: 2026-10-22
 > 2. **标签化效应与[[Learned Helplessness\|习得性无助]]（Stigmatization & Self-Fulfilling Prophecy）**
 >    - 将学困生强制抽离出常规班级进行低阶补救教学（Pull-out Remediation），容易使学生被同伴和教师贴上“差生”标签，破坏其学业自尊心与归属感，诱发破罐子破摔的消极应对。
 > 3. **教学时间挤压与学科偏食（Instructional [[Institutional Displacement|displacement]]）**
->    - 过度拉长某一单项高强度干预的时间（如每日 2.5 小时机械式阅读集训），系统性挤占了科学、艺术、体育及自主探索的时间，造成认知广度受损与学习动机倦怠。
+>    - 过度拉长某一单项高强度干预的时间（如每日 2.5 小时机械式阅读集训），系统性挤占了科学、艺术、体育及自主探索的时间，造成认知广度受损与[[Student Motivation|学习动机]]倦怠。
 
 ---
 

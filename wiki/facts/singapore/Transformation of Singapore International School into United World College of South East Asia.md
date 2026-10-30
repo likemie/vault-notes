@@ -10,7 +10,7 @@ subtype: event
 region: singapore
 fact_region: "singapore"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_persons:
   - "[[Desmond Hoare]]"
 related_facts:
   - "[[United World Colleges]]"
+  - "[[National Education]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
   - "[[Founding of Lester B. Pearson College]]"
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -43,7 +44,7 @@ updated: 2026-10-22
 > [!event-context] 事件背景
 > - **时间／地点** 1970 至 1975 年，新加坡圣约翰学校（St John’s School）、樟宜皇家空军基地（Royal Air Force base at Changi）及其后形成的新加坡[[International Schools\|国际学校]]（Singapore International School）。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 110–117)]]
 > - **关键主体** [[United World Colleges\|联合世界书院]]（United World Colleges，UWC）、[[Louis Mountbatten\|路易斯·蒙巴顿]]（Louis Mountbatten）、[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）、罗伊·贝内特（Roy Bennett）、罗宾·汉基（Robin Hankey）、[[Desmond Hoare\|德斯蒙德·霍尔]]（Desmond Hoare）及新加坡国际学校董事会。
-> - **制度背景** 英国撤出苏伊士以东后，原英军学校和樟宜设施出现移交机会。新加坡同时优先建设国民教育，并限制本国公民进入私立学校。
+> - **制度背景** 英国撤出苏伊士以东后，原英军学校和樟宜设施出现移交机会。新加坡同时优先建设[[National Education|国民教育]]，并限制本国公民进入私立学校。
 > - **触发条件** UWC 希望建立东南亚书院，新加坡国际学校则需要足够生源和课程支撑高中部。双方资源互补，但在校址、学生年龄、缴费结构和整校目标上存在明显差异。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 110–111)]]
 
 项目先后形成樟宜独立寄宿书院、圣约翰校内独立高中部和整校加入三种方案。每次转换都不是名称调整，而是对土地、资本、招生和治理条件的重新组合。最终接纳整所全龄国际学校，说明成员资格开始依据共同课程、领导人员、奖学金、服务活动和持续组织承诺综合判断。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 111–117)]]

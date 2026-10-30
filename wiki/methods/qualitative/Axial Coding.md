@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的三级编码枢纽，在开放编码�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Meaningful Human Control]]"
   - "[[Scaffolding]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Grounded Theory\|扎根理论]]（施特劳斯学派）、质性[[Case Study\|案例研究]]、[[Process Tracing|过程追踪分析]]。
-> - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]记录、[[Reflexivity\|反思性]]自述、组织文献。
+> - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]记录、[[Reflexivity\|反思性]]自述、组织[[Document|文献]]。
 > - **分析方法** [[Open Coding\|开放编码]]、[[Paradigm\|范式]]模型匹配、[[Constant Comparison\|持续比较法]]、属性维度化展开、[[Domain Analysis\|领域分析]]。
 > - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）网络视图模型、[[Causality\|因果关系]]图、理论备忘录（[[Memos]]）、大语言模型[[Meaningful Human Control|人在回路]]（HITL）关系矩阵抽取。
 
@@ -201,6 +202,6 @@ updated: 2026-10-29
 
 ---
 
-> [!evidence-grid-a] 经典理论与方法文献索引
+> [!evidence-grid-a] 经典理论与方法[[Document|文献]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述主轴编码在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将主轴编码定位为系统化质性分析中连接[[Open Coding\|开放编码]]范畴与叙事[[Story Line\|故事线]]解释的核心分析步骤（Ch. 9）。

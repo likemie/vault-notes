@@ -6,7 +6,7 @@ aliases:
 summary: "管理修辞分类学中的核心概念，指在组织面临慢性、缓慢绩效下滑时，系统自发采用的强调标准化、逻辑化和确定性控制的技术性改进话语。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_methods:
   - "[[Effect Size]]"
 related_persons: []
 related_facts:
+  - "[[NAPLAN]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-20
 > ```
 
 > [!line-a] 命题一：慢性危机与理性修辞的自发激活（Chronic Decline & Rational Activation）
-> 当教育系统面临国际或国家标准化测试成绩（如 NAPLAN、[[PISA]]、[[TIMSS]]）的慢性衰退时，系统内部会产生对理性控制的强烈饥渴，自发地用[[Technical Rationality\|技术理性]]的[[Discourse|话语]]来填补管理决策的真空。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 415]])
+> 当教育系统面临国际或国家标准化测试成绩（如 [[NAPLAN]]、[[PISA]]、[[TIMSS]]）的慢性衰退时，系统内部会产生对理性控制的强烈饥渴，自发地用[[Technical Rationality\|技术理性]]的[[Discourse|话语]]来填补管理决策的真空。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 415]])
 
 > [!line-b] 命题二：对“唯一正确方法”与[[Return on Investment\|投资回报]]的狂热追求（The Taylorist Search for Hinge-Points）
 > 与命题一的逻辑关系在于，理性话语被具体的量化工具所介导。理性/控制修辞天然继承了泰勒制的基因，将教学降维为可度量、可计算的[[Variable\|变量]]清单。它通过建立如[[Effect Size\|效应量]] $d = 0.40$ 的“铰链点”，使学校管理者能够像财务审计一样评估教学的投资回报率（ROI），从而对教师实施微观控制。([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 418–419]])

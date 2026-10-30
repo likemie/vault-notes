@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - theme/elementary-education
   - theme/nineteenth-century
 related_concepts:
+  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Influences Across Cultures]]"
 related_theories: []
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定性
-> 《欧洲教育报告》（*Report on Education in Europe, to the Trustees of the Girard College for Orphans*，通常简称为 *Education in Europe*）是 1839 年由美国科学家兼教育家[[Alexander Dallas Bache|亚历山大·达拉斯·贝奇]]（[[Alexander Dallas Bache]]）出版的长达 666 页的里程碑式实地考察专著。该报告是 19 世纪美国学者对欧洲教育开展的规模最大、数据最精确的实地调研文献，与[[Report on the State of Public Instruction in Prussia|库森报告]]、[[Report on Elementary Public Instruction in Europe|斯托报告]]及曼报告共同构成了促成美国[[Common School Movement|公共学校运动]]与现代师范学制落地的四大文献支柱。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
+> 《欧洲教育报告》（*Report on Education in Europe, to the Trustees of the Girard College for Orphans*，通常简称为 *Education in Europe*）是 1839 年由美国科学家兼教育家[[Alexander Dallas Bache|亚历山大·达拉斯·贝奇]]（[[Alexander Dallas Bache]]）出版的长达 666 页的里程碑式实地考察专著。该报告是 19 世纪美国学者对欧洲教育开展的规模最大、数据最精确的实地调研[[Document|文献]]，与[[Report on the State of Public Instruction in Prussia|库森报告]]、[[Report on Elementary Public Instruction in Europe|斯托报告]]及曼报告共同构成了促成美国[[Common School Movement|公共学校运动]]与现代师范学制落地的四大文献支柱。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
 
 > [!policy-context] 政策背景
 > - **受托背景与调研周期** 1836 年费城吉拉德孤儿学院创立，董事会特派校长贝奇赴欧洲考察孤儿教养、初等义务教育与实科职业学校。贝奇于 1836 至 1838 年间历时两年，深入英国、法国、普鲁士、奥地利、荷兰、瑞士与意大利，考察了 278 所学校。

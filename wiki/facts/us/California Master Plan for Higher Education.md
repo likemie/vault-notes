@@ -32,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 内容
@@ -41,7 +41,7 @@ updated: 2026-10-22
 > - **加州州立大学（California State Universities, CSU）** 侧重本科教学和应用型人才培养
 > - **加州大学（University of California, UC）** 侧重研究、博士教育和专业学位，包括 UC Berkeley、UC San Francisco 等世界顶尖[[Research Universities|研究型大学]]
 
-> [!note] 与创新生态系统的关系
+> [!note] 与[[Innovation Ecosystem|创新生态系统]]的关系
 > Scott and Kirst（2017）在 Higher Education and Silicon Valley 中指出，基于地点的[[Innovation Ecosystem\|创新生态系统]]需要一系列学院和大学，而非仅一所精英大学。加州高等教育总体规划下的三层体系共同支撑了硅谷创新经济的人才需求——不仅是公司创始人，还包括"整个劳动力队伍"（the entirety of the workforce）（p.12）。
 
 > [!quote|notitle]

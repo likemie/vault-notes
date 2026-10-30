@@ -43,13 +43,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Participatory Action Research
-> 参与式行动研究是[[Action Research\|行动研究]]的一个分支，以集体参与和民主方式运作，旨在赋权参与者、改变不平等的权力关系，并追求社会正义和解放。它不仅是研究方法，更是政治活动——人们为自己、通过自己、与自己一起行动和研究（Grundy, 1987, p. 142）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 270–272)]]
+> 参与式[[Action Research|行动研究]]是[[Action Research\|行动研究]]的一个分支，以集体参与和民主方式运作，旨在赋权参与者、改变不平等的权力关系，并追求社会正义和解放。它不仅是研究方法，更是政治活动——人们为自己、通过自己、与自己一起行动和研究（Grundy, 1987, p. 142）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 270–272)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 权力不平等、社会排斥、教育不平等、性别和种族歧视、决策中的无权状态、学生对社会再生产课程的不满、教育精英主义等基层关切的变革议题。

@@ -11,7 +11,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -32,11 +32,13 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Socioeconomic Status]]"
   - "[[Grandes Ecoles]]"
+  - "[[Mastery Learning]]"
   - "[[Epistemology]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[Co-affiliation]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Assemblage]]"
   - "[[Relational Space]]"
   - "[[Network Governance]]"
@@ -59,6 +61,7 @@ related_arguments:
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons:
+  - "[[Diana Crane]]"
   - "[[Michael Traill]]"
   - "[[Michael Barber]]"
   - "[[David Gonski]]"
@@ -66,7 +69,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -75,7 +78,7 @@ updated: 2026-10-22
 > 澳大利亚[[Social Impact Investing\|社会影响力投资]]市场的领军[[Venture Philanthropy\|风险慈善]]机构与智库咨询实体，旨在将风险投资与私募股权纪律、工具及支持模式引入社会创业与公共教育改革，充当连接跨国企业资本、大型基金会、国家决策层与一线学校的[[Policy Network\|政策网络]]中枢，推进[[Philanthrocapitalism\|慈善资本主义]]的异层治理与市场缔造实践（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–522]]）。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2002 年由麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦克莱恩（Robert McLean）发起，联合安保集团（Australian Mutual Provident Society, [[Accelerating Medicines Partnership|AMP]]）、善心社（The Benevolent Society）及斯密斯家庭（The Smith Family）共同创设，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任首席执行官（Traill, 2016; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520, 524]]）。
+> - **成立时间 / 创设背景** 2002 年由麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦[[Diana Crane|克莱恩]]（Robert McLean）发起，联合安保集团（Australian Mutual Provident Society, [[Accelerating Medicines Partnership|AMP]]）、善心社（The Benevolent Society）及斯密斯家庭（The Smith Family）共同创设，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任首席执行官（Traill, 2016; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520, 524]]）。
 > - **总部地点 / 业务辐射** 总部位于悉尼与墨尔本，业务辐射全澳各州与领地，并在教育、就业、住房与社会影响力投资领域深度布局。
 > - **法人属性与经费基础** 依据《2001年公司法》注册为担保有限公司，具备注册非营利慈善组织与第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质；管理资产逾 1.5 亿澳元，下设 4 家全资子公司构建多层控股架构；2021 财年吸纳政府直接财政补贴 121.6 万澳元、企业与慈善捐赠 600 万澳元，旗下专业咨询部门年均营业额近 1000 万澳元（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 524, 527–528]]）。
 > - **核心宗旨与法定职责** 宣称致力于消除社会不利处境、提升社会[[Return on Investment\|投资回报]]（Social Return on Investment, SROI），将风投和私募股权纪律植入社会与教育公益，通过提供商业咨询、构建证据量规与孵化中介实体统摄治理权力。
@@ -106,18 +109,18 @@ updated: 2026-10-22
 > [!actor-grid] 组织治理架构与核心从属网络
 > - **决策机构（董事会与政商旋转门）** 董事会由跨国商业银行高管、麦肯锡顾问与大型基金会理事主导；前任董事及顾问频繁向官方关键决策委员会流动（如 Richard Spencer 出任生产力委员会专员，[[Michael Traill]] 出任总理内阁部[[Social Impact Investing\|社会影响力投资]]工作组成员，Lisa Paul 前联邦教育部次长同时兼任 SVA 与 [[Australian Schools Plus\|Schools Plus]] 董事，Belinda Hutchinson 担任 APS 董事兼悉尼[[Grandes Ecoles|大学校]]监）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7, 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **执行机构（SVA 咨询部与创投团队）** 运营年营业额达 1000 万澳元的收费商业咨询部门（SVA Consulting），直接向各级部委、公立学区与非营利机构提供战略规划，将企业管理模式深植于公共服务系统（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
-> - **子公司网络与四层控股架构** 经由澳大利亚证券与投资委员会（ASIC）监管档案确认，SVA 建立了涵盖 SVA Nominees、SVA Nominees No. 2、Mastery Learning、Newpin 等 4 家全资子公司，并在历史上创立分拆了[[Australian Philanthropic Services|澳大利亚慈善服务社]]（APS），构建了分层规避风险与承接资金的组织装配（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
+> - **子公司网络与四层控股架构** 经由澳大利亚证券与投资委员会（ASIC）监管档案确认，SVA 建立了涵盖 SVA Nominees、SVA Nominees No. 2、[[Mastery Learning]]、Newpin 等 4 家全资子公司，并在历史上创立分拆了[[Australian Philanthropic Services|澳大利亚慈善服务社]]（APS），构建了分层规避风险与承接资金的组织装配（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
 > - **跨国资助与资本盟友** 深度整合跨国铁矿石巨头[[BHP Foundation\|必和必拓基金会]]、英国[[Sutton Trust\|萨顿信托]]、[[Impetus\|动力基金会]]以及美洲银行、麦格理银行、高盛集团、普华永道等全球金融与咨询资本，并联合澳大利亚联邦银行与三星集团开展学校项目（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 
 > [!pathways] 运行机制与[[Epistemology\|认识论]]粘合剂
-> - **金融化认识论统摄** SVA 在[[Policy Network\|政策网络]]中普及买入、[[Educational Brokerage Agency\|证据经纪人]]与社会[[Return on Investment\|投资回报]]率（SROI）等金融从业术语；正如其[[Venture Philanthropy\|风险慈善]]领袖在主旨演讲中所言，“金钱是我们对话的通用货币”（Money is the currency of our conversation），以商业投行语系统摄公共教育治理逻辑（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
+> - **金融化认识论统摄** SVA 在[[Policy Network\|政策网络]]中普及买入、[[Boundary Spanner|证据经纪人]]与社会[[Return on Investment\|投资回报]]率（SROI）等金融从业术语；正如其[[Venture Philanthropy\|风险慈善]]领袖在主旨演讲中所言，“金钱是我们对话的通用货币”（Money is the currency of our conversation），以商业投行语系统摄公共教育治理逻辑（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **原型试验与政策外溢** 先以民间资金在子公司 [[Evidence for Learning\|E4L]] 试行英国 [[Education Endowment Foundation\|EEF]] 工具包模型，待积累地方案例后再通过政府审查报告推动国家财政全额接盘，实现由私到公的制度化跨越（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **避税通道装配与政商闭门磋商** 通过游说专门修改税法为关联实体争取 [[Deductible Gift Recipient\|DGR1]] 特许资质，直接与总理幕僚长闭门协商政策，并接受高达 1500 万澳元的保密竞标资助，锁定国家政策导向（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 526–527, 530]]）。
 
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **全澳教育[[Educational Brokerage Agency\|证据经纪人]]原型（[[Evidence for Learning\|E4L]] 与工具包）** 设立全资子公司证据学习中心（E4L），全面本土化英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等学校系统试点，开辟了将量化 [[Randomised Controlled Trials\|RCT]] 与月度学习进展作为核心指标的评级体系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
+> - **全澳教育证据经纪人原型（[[Evidence for Learning\|E4L]] 与工具包）** 设立全资子公司证据学习中心（E4L），全面本土化英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等学校系统试点，开辟了将量化 [[Randomised Controlled Trials\|RCT]] 与月度学习进展作为核心指标的评级体系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **公立学校筹款中介孵化（[[Australian Schools Plus\|Schools Plus]]）** 2013 年主导设立全澳首家面向公立学校的企业免税捐赠实体，游说联邦专门通过《2014年税收与养老金法律修正案（第5号措施）》赋予 [[Deductible Gift Recipient\|DGR1]] 资质并注入 500 万澳元启动资金（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **弱势学校商业化重塑（亮点学校连接项目）** 联合联邦政府、澳大利亚联邦银行与三星集团赞助，率先对全澳 50 所低[[Socioeconomic Status|社会经济地位]]公立学校展开商业重组与领导力改造试点（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 > - **国家政策审查专项建议书** 针对 2016 年联邦生产力委员会调查提交 50 页深度建议书，并在 [[Gonski 2.0]] 审查中深度发力，主导将“设立独立国家教育证据机构”写入官方建议第 23 条（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。

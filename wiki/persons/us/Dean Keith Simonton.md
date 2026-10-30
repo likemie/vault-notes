@@ -10,7 +10,7 @@ summary: "美籍创造力心理学家与历史计量学先驱，加利福尼亚�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,11 +22,17 @@ tags:
   - theme/creativity
   - theme/psychology-of-science
   - theme/historiometry
-related_concepts: []
+related_concepts:
+  - "[[Creativity]]"
+  - "[[Emergence]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Deliberate Practice]]"
 related_theories:
   - "[[Constant-Probability-of-Success Model]]"
   - "[[Random Impact Rule]]"
-related_methods: []
+related_methods:
+  - "[[Random Sampling]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -41,9 +47,9 @@ updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍创造力心理学家与历史计量学者，加利福尼亚大学戴维斯分校心理学系杰出教授，曾任美国心理学会（APA）第 10 分会主席。
+> - **身份位置** 美籍[[Creativity|创造力]]心理学家与历史计量学者，加利福尼亚大学戴维斯分校心理学系杰出教授，曾任美国心理学会（APA）第 10 分会主席。
 > - **核心角色** 达尔文主义创造力进路与科学心理学的开创者，率先将严谨统计学方法用于分析人类历史上伟大天才的作品序列。
-> - **代表贡献** 提出[[Constant-Probability-of-Success Model|成功恒定概率模型]]，论证杰作涌现率与成果总量的线性恒定关系；撰写《科学天才》、《创造力：认知、个人、发展与社会视角》等奠基性专著。
+> - **代表贡献** 提出[[Constant-Probability-of-Success Model|成功恒定概率模型]]，论证杰作[[Emergence|涌现]]率与成果总量的线性恒定关系；撰写《科学天才》、《创造力：认知、个人、发展与社会视角》等奠基性专著。
 
 > [!citation-card] 西蒙顿论天才产出的盲目性与规模效应
 > 杰出探究者的单位成功率并不随职业资历而质性提升。前沿突破具有类似于达尔文盲目变异的微观不确定性，顶尖学者之所以能在历史上留下更多传世杰作，核心在于他们投入了远超同侪的试错规模并保持着极高的产出频次。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
@@ -75,8 +81,8 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 将坎贝尔的盲目变异与选择性保留（BVSR）框架形式化，构建创造力心理学中的达尔文主义模型，为科学学随机影响法则提供微观认知基石。
-> - **方法路径** 开创历史计量学（Historiometry），通过对历史档案、生平传记与全量作品目录的统计编码，开辟心理学大样本长周期定量实证研究范式。
+> - **理论路径** 将坎贝尔的盲目变异与选择性保留（BVSR）框架形式化，构建创造力心理学中的达尔文主义模型，为科学学[[Random Impact Rule|随机影响法则]]提供微观认知基石。
+> - **方法路径** 开创历史计量学（Historiometry），通过对历史档案、生平传记与全量作品目录的统计编码，开辟心理学大样本长周期定量实证[[Paradigm|研究范式]]。
 > - **计算科学学扩展路径** 启发当代计算科学学者将认知试错模型扩展至数万名学者与艺术家的海量大数据引文追踪。
 
 > [!evidence-grid-a] 相关研究索引
@@ -85,8 +91,8 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - **理论源流** 唐纳德·T·坎贝尔（Donald T. Campbell）— 吸收其演化认识论与盲目变异与保留思想。
-> - **学术对话者** 安德斯·埃里克森（Anders Ericsson）— 围绕刻意练习专长积累与达尔文随机试错开展持久学术论辩。
+> - **理论源流** 唐纳德·T·坎贝尔（Donald T. Campbell）— 吸收其演化[[Epistemology|认识论]]与盲目变异与保留思想。
+> - **学术对话者** 安德斯·埃里克森（Anders Ericsson）— 围绕[[Deliberate Practice|刻意练习]]专长积累与达尔文随机试错开展持久学术论辩。
 
 ---
 
@@ -102,4 +108,4 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Constant-Probability-of-Success Model]] | 理论 | 提出并形式化成功恒定概率模型，确立代表作产出与总产出规模成正比规律。 |
-> | [[Random Impact Rule]] | 理论 | 为科学学随机影响法则提供微观认知试错与等概率抽样机制支撑。 |
+> | [[Random Impact Rule]] | 理论 | 为科学学随机影响法则提供微观认知试错与等[[Random Sampling\|概率抽样]]机制支撑。 |

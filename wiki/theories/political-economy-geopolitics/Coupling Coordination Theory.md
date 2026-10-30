@@ -6,7 +6,7 @@ aliases:
 summary: "源于系统论的多系统协同发展理论，认为若干子系统之间通过相互作用形成耦合关系，系统整体发展水平取决于耦合强度和各自发展水平的协调程度"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 12
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Spatial Sortings]]"
+  - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
@@ -28,6 +29,7 @@ related_methods:
   - "[[Coupling Coordination Model]]"
   - "[[LISA Time Path]]"
   - "[[LISA Spatiotemporal Transition]]"
+  - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -63,14 +65,14 @@ updated: 2026-10-22
 
 ---
 
-> [!info] 认识论立场
+> [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology\|本体论]]** 系统论导向——现实由若干相互关联的子系统构成，系统整体的性质不能还原为子系统性质的简单加总
 > - **[[Epistemology\|认识论]]** [[Postpositivism\|后实证主义]]倾向——通过构建指标体系和数学模型（耦合度 $C$、协调度 $D$）对系统状态进行定量描述，但不宣称达到了对因果机制的完全把握
 > - **常用研究方法**[[Coupling Coordination Model]]、综合评价指标体系构建、[[LISA Time Path]]和[[LISA Spatiotemporal Transition]]等时空分析方法
 
 ---
 
-> [!abstract] 分析框架
+> [!abstract] [[Analytic Framework|分析框架]]
 > 耦合协调理论在实证研究中通常转化为以下分析维度：
 > - **耦合度 $C$** 衡量子系统间相互作用的强度，通过比较几何平均值与算术平均值的偏离程度计算
 > - **协调度 $D = \sqrt{C \times T}$** 综合评估耦合强度和各自发展水平，$T$ 为加权综合发展指数

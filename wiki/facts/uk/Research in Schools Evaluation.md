@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Business as Usual]]"
   - "[[Socioeconomic Status]]"
   - "[[Literature Search]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 核心干预／机制假说
-> 假定通过在中学内部选拔并培训专职研究骨干，由其负责系统检索、筛选优质教育实证证据并向数学与英语教研组开展同行转译与教学指导，能够有效克服教师个体检索文献的时间与专业素养壁垒，进而转化为中考统考成绩的稳步增长。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
+> 假定通过在中学内部选拔并培训专职研究骨干，由其负责系统检索、筛选优质教育实证证据并向数学与英语教研组开展同行转译与教学指导，能够有效克服教师个体检索[[Document|文献]]的时间与专业素养壁垒，进而转化为中考统考成绩的稳步增长。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, p. 592)]]
 
 > [!policy-design] 方案设计
 > - **骨干选拔与外部赋能** 各项目校推选 1–2 名骨干教师担任校内“研究骨干”（Research Leads），接受外部专业循证培训，学习如何检索、评估与解读因果实证文献。

@@ -7,7 +7,7 @@ summary: "丹麦理论心理学家，社会实践学习与 Visible Learning 批�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Legitimation Crisis]]"
@@ -54,7 +55,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -102,7 +103,7 @@ updated: 2026-10-22
 
 
 > [!info] VL 对学生意向性的系统性边缘化（2021, IRTP）
-> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education\|EBE]] 批判文献中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际对话被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
+> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education\|EBE]] 批判[[Document|文献]]中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际对话被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
 
 > [!success] 主要贡献
 > - [[Technical Rationality]] — 识别技术理性作为 VL/[[Evidence-Based Education\|EBE]] 的深层理论内核，建立 Skinner→Glaser→Hattie 的理论传承链

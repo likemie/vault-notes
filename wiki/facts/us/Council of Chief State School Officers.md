@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - educational-administration
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Document]]"
   - "[[College and Career Readiness]]"
   - "[[Learning Progression]]"
   - "[[Professional Judgment]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 > - **最高权力机构（董事会）** 由全体州首席教育官按地区与资历选举产生的董事会（Board of Directors）行使治理权，设主席、当选主席与前任主席，确保政策延续性。
 > - **行政执行中枢（执行主任与秘书处）** 由全职执行主任（Executive Director）领导，下设标准研制、学业评估、教师效能、数据系统与政府关系等业务专网。
 > - **跨州专题网络（SCASS 网）** 设立州协同评估与学生标准网（State Collaborative on Assessment and Student Standards, SCASS），为各州学科教研专员提供常态化同行研讨平台。
-> - **独立质量验证委员会** 联合 [[National Governors Association|NGA]] 遴选并资助由 29 位跨学科顶尖学者、测量专家与特级教师组成的外部把关委员会，审查标准是否具备扎实的学术文献依据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
+> - **独立质量验证委员会** 联合 [[National Governors Association|NGA]] 遴选并资助由 29 位跨学科顶尖学者、测量专家与特级教师组成的外部把关委员会，审查标准是否具备扎实的学术[[Document|文献]]依据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
 
 > [!pathways] 业务运行机制
 > - **确立科学至上与去政治化防卫策略** 针对以往课程大纲陷入党派与利益集团无休止争吵的历史教训，威洛伊特在研制初期公开立下规矩：新标准坚决拒绝利益政治谈判，一切修订必须以学术文献和实证数据为唯一裁决依据，用技术门槛阻挡外部意识形态游说。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 13)]]

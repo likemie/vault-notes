@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Fred Block]]"
 related_facts:
+  - "[[ASEAN Economic Community]]"
   - "[[Office of Naval Research]]"
   - "[[National Science Foundation]]"
   - "[[Human Genome Project]]"
@@ -74,6 +75,7 @@ related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -83,7 +85,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心定位
-> 国立卫生研究院（National Institutes of Health, NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于卫生与公众服务部（Department of Health and Human Services, HHS）；作为战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的健康使命基石，与原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）及国家科学基金会（[[National Science Foundation]], NSF）并立，在[[Social Contract of Science|科学社会契约]]框架下推进基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> 国立卫生研究院（National Institutes of Health, NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于卫生与公众服务部（Department of Health and Human Services, HHS）；作为战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的健康使命基石，与原子能委员会（[[ASEAN Economic Community|AEC]]）、[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）及国家科学基金会（[[National Science Foundation]], NSF）并立，在[[Social Contract of Science|科学社会契约]]框架下推进基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 前身为 1887 年在纽约斯塔滕岛建立的海员卫生检验实验室，1891 年迁至华盛顿特区，1930 年通过《兰斯德尔法案》（Ransdell Act）正式重组命名为国家卫生研究院（NIH），旨在为控制烈性传染病与提升国家公共卫生水平提供科学支撑。

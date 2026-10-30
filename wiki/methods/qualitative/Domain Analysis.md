@@ -8,7 +8,7 @@ summary: "质性数据与内容分析中将离散分析单元与微观编码归�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Construct]]"
   - "[[Causality]]"
   - "[[Feedback]]"
+  - "[[Document]]"
   - "[[Meaningful Human Control]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflexivity]]"
+  - "[[Extracurricular Activities]]"
   - "[[Reliability]]"
   - "[[Discourse]]"
   - "[[Hypothesis]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -183,7 +185,7 @@ updated: 2026-10-29
 ---
 
 > [!contrast-table] 领域分析核心理论命题总览
-> | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与文献出处 |
+> | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与[[Document\|文献]]出处 |
 > |---|---|---|---|
 > | **认知语法命题** | 文化经验不是离散要素的堆叠，而是由有限的通用语义关系组织而成的结构化知识系统 | 语义关系矩阵、本土象征系统投射 | Spradley (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] |
 > | **层级同质命题** | 数据分析与理论推论必须严格保持在同一概念抽象层级上展开，严禁混淆上位领域与下位细目 | 包容层级归并（Subsumption）、节点与编码分离 | Krippendorff (2004); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 566)]] |
@@ -206,7 +208,7 @@ updated: 2026-10-29
 > > 争论领域范畴的提炼应当完全忠实于受访者的本土语言（In vivo / Folk terms），还是允许研究者以理论前见自上而下施加外来分析范畴。
 > >
 > > - **Spradley (1979)** 坚守本土立场，主张领域分析的核心使命是揭示行动者自身的文化知识，覆盖词与下位词必须尽量使用当事人的原话与象征符号。
-> > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 567)]]** 提出严厉警示：研究者在建构编码与范畴时极易将自身偏见与前设强加给数据。例如在分析课外活动收益时，若研究者先验设立“认知”与“非认知”对立范畴，就会人为割裂二者的内在共生关联，使分析沦为研究者自身先验偏好的循环论证。
+> > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 567)]]** 提出严厉警示：研究者在建构编码与范畴时极易将自身偏见与前设强加给数据。例如在分析[[Extracurricular Activities|课外活动]]收益时，若研究者先验设立“认知”与“非认知”对立范畴，就会人为割裂二者的内在共生关联，使分析沦为研究者自身先验偏好的循环论证。
 >
 > > [!axis] 范畴绝对互斥（Mutual Exclusivity） vs 质性多义重叠（Polysemic Overlap）
 > > 争论领域范畴之间是否应当像量化[[Content Analysis\|内容分析]]那样追求严格的边界排他性。
@@ -274,7 +276,7 @@ updated: 2026-10-29
 ---
 
 > [!rel-table] 关联知识实体
-> | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |
+> | 关联实体 | 实体类型 | 关联本质说明 | [[Document\|文献]]出处 |
 > |---|---|---|---|
 > | [[Unit of Analysis\|分析单位]] | 概念 | 分析单位构成了领域分析的前置基准；领域分析是对已切分分析单位与初级编码的上位语义聚合。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, p. 440)]] |
 > | [[Coding in Qualitative Research\|质性研究编码]] | 方法 | 编码赋予具体文本微观概念标签，领域分析提供宏观聚合容器，二者构成质性数据从碎片到结构的进阶链条。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 560)]] |

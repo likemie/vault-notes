@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **随机实验设计与质控规程** 研制的大规模社会政策[[Random Assignment|随机分配]]操作标准被视作国际实证评估标杆。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
+> - **随机[[Experimental Research|实验设计]]与质控规程** 研制的大规模社会政策[[Random Assignment|随机分配]]操作标准被视作国际实证评估标杆。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **旗舰评估项目** 主导全美与跨国的[[Employment Retention and Advancement|就业留任与晋升]]（ERA）、学习者留存促进项目等大型现场实验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **权威评估报告体系** 定期发布的多卷本实验追踪分析报告，成为英美政府调整公共预算的重要循证依据。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]
 

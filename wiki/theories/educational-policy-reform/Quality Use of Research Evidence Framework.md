@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 62
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - region/australia
 related_concepts:
   - "[[Research Utilization]]"
+  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
   - "[[Evidence-Informed Practice]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Deliberative Space]]"
   - "[[Academic Achievement]]"
   - "[[School Autonomy]]"
   - "[[Evidence-Based Education]]"
@@ -95,11 +97,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如文献阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
+> - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如[[Document|文献]]阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework\|分析框架]]与规范性实践指引。
 > - **知识位置** 源自澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review\|系统综述]]奠基成果（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022]]），并被[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022]]）。
@@ -193,7 +195,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - **前提一** QURE 框架的核心内核是由适切研究证据与审慎参与及实施构成的双向互连构件；证据质量具有情境特异性，取决于具体教育问题、学校背景与使用意图，单纯方法学严谨不足以保障适切性。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 185–186)]]
 >   > [!evidence-grid]- 证据
 >   > - **澳大利亚特教现场实证** 专职特教教师 Alex 在教学中确立适切性三重审问机制（“预期成效何在？与学校特殊情境有多大契合度？我和同事有多大可能妥善付诸实施？”），表明证据必须情境化检验。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, p. 187)]]
->   > - **[[Systematic Review\|系统综述]]多维归纳** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 综述证实，适切证据在经验文献中表现为情境匹配、实践实用、来源整合与方法可[[Reliability\|信度]]四大维度的交汇。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 11)]]
+>   > - **[[Systematic Review\|系统综述]]多维归纳** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 综述证实，适切证据在经验[[Document|文献]]中表现为情境匹配、实践实用、来源整合与方法可[[Reliability\|信度]]四大维度的交汇。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 11)]]
 > - **前提二** 高质量使用要求实践者对研究展开批判审视、集体审议与渐进式课堂整合；脱离审慎实施的单纯引用容易蜕化为追逐潮流、证实偏见或行政强加等劣质使用。
 >   > [!evidence-grid]- 证据
 >   > - **一线教育者质性对照** 906 名教育者明确指出，劣质使用表现为在社交媒体偶然看到即盲目套用、管理层头脑发热强加新点子、以及教师抱持僵化防卫心态；高质量使用则以坚实证据积累、开放探究心智与师生减负为特征。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, Table 9.1, p. 190)]]
@@ -312,7 +314,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 基础教育与高等教育中教师教学改进、学校教研制度建设、教育行政部门政策审议与跨国[[Knowledge Mobilisation\|知识动员]]生态；解释[[Research Utilization\|研究使用]]过程中的质量维度、动力机制与系统障壁。
-> - **谨慎使用** 在高度自上而下、中央集权指令型管理或极端问责制环境中，由于一线缺乏自主审议空间，深思熟虑参与极易被形式化表演与行政合规所掩盖，需配合权力[[Critical Theory\|批判理论]]加以审视。
+> - **谨慎使用** 在高度自上而下、中央集权指令型管理或极端问责制环境中，由于一线缺乏自主[[Deliberative Space|审议空间]]，深思熟虑参与极易被形式化表演与行政合规所掩盖，需配合权力[[Critical Theory\|批判理论]]加以审视。
 > - **不适合解释** 不能单独解释某项具体课程或心理干预对学生[[Academic Achievement\|学业成绩]]的绝对[[Effect Size\|效应量]]大小，也不能替代严格的微观课堂互动微观分析。
 > - **常见误用** 将 QURE 简化为一份“好学校检查清单”逐项打勾；或将框架提出的六大特征当成已经普遍存在的经验事实，忽视其高度依赖制度保障的脆弱性。
 

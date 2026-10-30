@@ -26,11 +26,11 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
-  - "[[Cognitive Decoupling]]"
   - "[[International Education]]"
   - "[[Educational Decentralization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Hidden Curriculum]]"
   - "[[Areas of Knowledge]]"
 related_theories:
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-10-22
 > - **2000s — 分权改革下国家大纲落地的阶层分化** 从宏观跨国模型深入具体国家教育系统内部，揭示政策落地的[[Heterogeneity|异质性]]。
 >   - **代表著作** "The social construction of the local school curriculum: Patterns of diversity and uniformity in Israeli junior high schools" (2001, with N. Resh)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108, 116)]]
 >   - **关键概念／理论** 课程本土社会建构、[[School Autonomy|学校自主权]]悖论、阶层差异调节。
->   - **阶段转向** 承认地方背景（如学校阶层生态、资源动员力）对宏观政策存在重大中介作用，丰富了新制度主义对脱耦（[[Cognitive Decoupling|decoupling]]）现象的微观解释。
+>   - **阶段转向** 承认地方背景（如学校阶层生态、资源动员力）对宏观政策存在重大中介作用，丰富了新制度主义对脱耦（decoupling）现象的微观解释。
 > - **2010s–至今 — [[International Education|国际教育]]监测与[[Global Citizenship|全球公民教育]]指标化** 将理论研究与全球多边治理监测深度融合。
 >   - **代表著作** [[UNESCO]] GEM Report 2016: *Education for People and Planet* (2016)。
 >   - **关键概念／理论** 全球教育监测、[[UN Sustainable Development Goals|可持续发展目标]]指标化。
@@ -110,7 +110,7 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了新制度主义世界文化论从“国家法律体系分析”向“核心课程知识社会学”的纵深开拓。
-> - **实证与数据库路径** 建立了覆盖全球百余个国家长达一个世纪的初等与中等教育课程课时纵向历史数据库，成为国际课程史量化比较研究的奠基文献。
+> - **实证与数据库路径** 建立了覆盖全球百余个国家长达一个世纪的初等与中等教育课程课时纵向历史数据库，成为国际课程史量化比较研究的奠基[[Document|文献]]。
 > - **全球治理政策路径** 领导[[UNESCO|联合国教科文组织]] GEM Report，奠定了全球[[Education for All|全民教育]]与 [[UN Sustainable Development Goals|SDG 4]] 进展监测的国际循证基准。
 
 ---

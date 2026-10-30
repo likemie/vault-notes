@@ -6,7 +6,7 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Geopolitical Subject]]"
   - "[[Research Problem]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Immigrant Status]]"
   - "[[Causality]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
@@ -48,7 +49,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -161,7 +162,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 > [!warning] 概念层面
 > - 空间分选的概念仍处于发展初期——Moisio 本人的章节更多是提出研究议程而非提供系统的经验验证。
-> - 概念主要关注经济逻辑驱动的空间不平等，对社会文化维度（如种族、性别、移民身份）与空间分选的交叉作用讨论有限。
+> - 概念主要关注经济逻辑驱动的空间不平等，对社会文化维度（如种族、性别、[[Immigrant Status|移民身份]]）与空间分选的交叉作用讨论有限。
 
 > [!warning] 实证与尺度层面
 > - **教育枢纽中的分选尺度问题**[[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] 的案例显示空间分选不仅发生在国家之间（新加坡 vs 东南亚邻国），也发生在**同一国家内部（阿布扎比 vs 迪拜 vs 阿联酋其他酋长国）**——但 Moisio 的原始框架主要在宏观枢纽-边缘尺度上运作，对次国家尺度的内部分选关注不足（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.206–211]]）。

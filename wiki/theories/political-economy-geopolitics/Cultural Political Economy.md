@@ -6,7 +6,7 @@ aliases:
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Policy Framing]]"
   - "[[Hard Power]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Spatial Sortings]]"
   - "[[Explanatory Critique]]"
@@ -65,7 +66,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-10-22
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 宏观国家战略变迁、跨国高等教育区域扩张、政策[[Discourse|话语]]与[[Geopolitics|地缘政治]]互动、[[Knowledge-Based Economy|知识经济]]治理体制转型等兼具强烈意识形态修辞与重度资源配置的情境。
-> - **成立条件** 研究者必须同时具备文献符号解构与宏观政治经济体制剖析的双重分析能力，研究对象需兼具充足的话语文本语料与可追踪的物质制度痕迹。
+> - **成立条件** 研究者必须同时具备[[Document|文献]]符号解构与宏观政治经济体制剖析的双重分析能力，研究对象需兼具充足的话语文本语料与可追踪的物质制度痕迹。
 > - **解释不足** 理论擅长捕捉宏观国家与中观制度的演进轨迹，对微观行动者（如普通师生、基层劳工）的日常主体性能动性与微观情感抗争关照有限。
 > - **转化困难** 在经验研究中实现符号维度与物质维度的“真正相互构成”难度极高；实证分析极易滑向分别描述文化修辞与经济利益的机械二元拼贴。
 > - **不能直接推出** 理论无法仅凭政策话语的强势霸权直接推导在地实施的必然成功；受制于在地市民社会抵制与外部地缘摩擦，符号展演常面临破产风险。

@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Working Memory]]"
   - "[[Creativity]]"
+  - "[[Document]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Research Question]]"
   - "[[Learning Analytics]]"
@@ -54,7 +55,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-22
 > [!theory-proposition] 命题二｜[[Cognitive Offloading\|认知卸载]]是心智适应环境的核心策略而非认知缺陷
 > **解释** 人脑并非孤立全能的信息库，生物进化塑造了人类大脑善于将记忆、导航与模式存储外包给环境人造物的生物特性。通过将繁重的维持性记忆或机械运算卸载至外部媒介，人类能够最大化释放宝贵的工作记忆资源，投入到需要反思审思、目标监控与[[Creativity\|创造性]]整合的高阶任务之中。因此，工具性卸载本身是智能成熟的标志，而非心智懒惰的赤字。Clark (2025); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–5)]]
 >
-> **应用实例** 学术论文写作中，研究者利用文献管理软件储存数千篇论文的元数据与引用索引，从而将注意力完全集中于观点对话与论证建构，这属于高度自适应的认知卸载。
+> **应用实例** 学术论文写作中，研究者利用[[Document|文献]]管理软件储存数千篇论文的元数据与引用索引，从而将注意力完全集中于观点对话与论证建构，这属于高度自适应的认知卸载。
 
 > [!theory-proposition] 命题三｜良性认知延展依赖于人机耦合中评价性控制权的有效维系
 > **解释** 外部工具的整合并不必然自动导致心智的发展延展。唯有当使用者满足“信任与粘合标准”，即外部信息能够随时恢复、因果逻辑可以被理解并接受审查，且使用者始终掌握最终的[[Evaluative Judgement\|评价性判断]]与接纳决策时，技术中介才属于生产性延展；如果外部系统以黑箱形式直接裁决知识优劣或消解探究冲突，学习者便失去了中间认识动作，延展系统将退化为支配与被支配的有害[[Epistemic Dependence\|认识依赖]]。Clark and Chalmers (1998, p. 17); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–7)]]

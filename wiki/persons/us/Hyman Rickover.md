@@ -10,7 +10,7 @@ summary: "美国海军四星上将，被誉为核海军之父；领导开发了�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -32,13 +32,15 @@ related_concepts:
   - "[[Scapegoat Mechanism]]"
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
+  - "[[ASEAN Economic Community]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
-related_persons: []
+related_persons:
+  - "[[Harvey C. Lehman]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -59,7 +61,7 @@ updated: 2026-10-22
 > - **1900** 出生于当时隶属于俄罗斯帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
 > - **1906** 随家人移民美国纽约。
 > - **1922** 毕业于美国海军学院，随后在哥伦比亚大学获得电气工程硕士学位。
-> - **1940 年代后期** 出任美国海军反应堆部门负责人，同时兼任美国原子能委员会（Atomic Energy Commission, AEC）海军反应堆主管，开启潜艇核动力推进研发。
+> - **1940 年代后期** 出任美国海军反应堆部门负责人，同时兼任美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）海军反应堆主管，开启潜艇核动力推进研发。
 > - **1953** 在爱达荷州沙漠监督完成小型舰载核反应堆陆上样机动力试验。
 > - **1955** 世界上首艘核动力潜艇鹦鹉螺号成功首航，确立美军数十年的水下绝对战略均势优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 > - **1982** 服役长达 63 年后以四星上将军衔正式退役。
@@ -87,7 +89,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **工程合作者** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
 > - **政治盟友／辩护者** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在公案中坚定捍卫里科弗战功。
-> - **批评者／行政上级** 约翰·莱曼（John Lehman）— 海军部长，在 1980 年代初主导对里科弗的合规审查。
+> - **批评者／行政上级** 约翰·[[Harvey C. Lehman|莱曼]]（John Lehman）— 海军部长，在 1980 年代初主导对里科弗的合规审查。
 > - **任职机构与主导工程** [[USS Nautilus Submarine Development]] — 领导研制世界首艘核潜艇“鹦鹉螺号”；美国海军核动力局（Naval Reactors）。
 
 ---

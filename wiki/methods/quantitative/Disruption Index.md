@@ -11,7 +11,7 @@ summary: "一种用于量化科研成果或发明专利是开拓新方向还是�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,10 +24,12 @@ tags:
   - theme/bibliometrics
 related_concepts:
   - "[[Document]]"
+  - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
-  - "[[Paradigm]]"
+  - "[[Value Neutrality]]"
   - "[[Knowledge Production]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
 related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
@@ -35,7 +37,9 @@ related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
+  - "[[James A. Evans]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
@@ -77,7 +81,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2017 — 基础定义提出** Russell J. Funk 与 Jason Owen-Smith 在创新研究中首次形式化 CD 指数算法，用于评估医学发明专利的[[Technological Trajectories|技术轨道]]路线变革。
-> - **2019 — 大数据扩展与规律发现** 吴令飞、[[Dashun Wang|王大顺]]与詹姆斯·埃文斯（Wu, Wang, & Evans, 2019）将该指标推广至 6,000 万篇论著、专利与软件项目，揭示小团队倾向于颠覆科学而大团队倾向于发展科学的组织规模分化规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
+> - **2019 — 大数据扩展与规律发现** [[Lingfei Wu|吴令飞]]、[[Dashun Wang|王大顺]]与[[James A. Evans|詹姆斯·埃文斯]]（Wu, Wang, & Evans, 2019）将该指标推广至 6,000 万篇论著、专利与软件项目，揭示小团队倾向于颠覆科学而大团队倾向于发展科学的组织规模分化规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 
 ---
 
@@ -109,7 +113,7 @@ updated: 2026-10-30
 > > | 读法 | 正值倾向 | $D > 0$（趋近 1）表明成果开辟新方向，后继研究倾向于绕过先驱文献直接引用该工作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 129)]] |
 > > | 读法 | 负值倾向 | $D < 0$（趋近 -1）表明成果巩固既有范式，后继研究倾向于将其与先驱文献共同引用。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 129)]] |
 > > | 读法 | 零值均势 | $D = 0$（或 $n_i = n_j$）表明成果在颠覆开拓与累积巩固之间达成均势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 130)]] |
-> > | 注意 | 价值中立 | 指数仅区分工作类型而非科学质量的高低，实验验证理论的重大突破常表现为高度负值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 130)]] |
+> > | 注意 | [[Value Neutrality\|价值中立]] | 指数仅区分工作类型而非科学质量的高低，实验验证理论的重大突破常表现为高度负值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 130)]] |
 > > | 注意 | 时滞效应 | 原创新概念常经历较长的承认延迟，短期引文窗口内的 $D$ 值波动较大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 131)]] |
 
 ---
@@ -127,7 +131,7 @@ updated: 2026-10-30
 
 > [!method-fit] 适用判断
 > - **适合使用** 科技创新政策评估、科研资助资助组合优化、学科范式演化计量、团队规模与结构绩效比较。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
-> - **谨慎使用** 新兴交叉学科或小众冷门领域，由于施引文献基数过小（分母接近 0），$D$ 值波动极易受单篇偶然引用的干扰。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 130)]]
+> - **谨慎使用** 新兴[[Comparative Education as a Cross-Sectional Area|交叉学科]]或小众冷门领域，由于施引文献基数过小（分母接近 0），$D$ 值波动极易受单篇偶然引用的干扰。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 130)]]
 > - **不适合使用** 不适合用于直接替代科研质量同行评议，亦不适合在未做年代与学科基准校准的情况下跨学科直接比对绝对数值。
 
 ---

@@ -8,7 +8,7 @@ summary: "阿根廷与澳大利亚批判比较教育学者，蒙纳士大学副�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 52
+person_related_count: 53
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
+  - "[[Document]]"
   - "[[Categorical Funding]]"
   - "[[Epistemic Stances]]"
   - "[[Policy Borrowing]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-10-26
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创比较教育学的“空间转向”（Spatial Turn），[[Creativity|创造性]]融合[[Basil Bernstein|伯恩斯坦]]语篇控制权、卡斯特[[Space of Flows|流动空间]]理论与[[Actor-Network Theory|行动者网络理论]]（[[Actor-Network Theory|ANT]]），重构了超越地理毗连性的跨国政策流通[[Paradigm|范式]]。
-> - **方法路径** 发展出超越传统国家间静态对比的“跨层级[[Discourse|话语]]多维追踪法”，打通国际机构战略白皮书（[[Discourse Analysis|话语分析]]）、国家法规文献（[[Documentary Analysis|文献分析]]）与中小学田野一线访谈（[[In-depth Interview|深度访谈]]），确立了宏观政治经济批判与微观[[Recontextualization|再情境化]]相整合的实证典范。
+> - **方法路径** 发展出超越传统国家间静态对比的“跨层级[[Discourse|话语]]多维追踪法”，打通国际机构战略白皮书（[[Discourse Analysis|话语分析]]）、国家法规[[Document|文献]]（[[Documentary Analysis|文献分析]]）与中小学田野一线访谈（[[In-depth Interview|深度访谈]]），确立了宏观政治经济批判与微观[[Recontextualization|再情境化]]相整合的实证典范。
 > - **政策批判路径** 深刻解构[[World Bank|世界银行]]与[[OECD|经合组织]]在拉美及南方国家推销的“新自由主义万灵药”神话，为全球南方抵制外来政策规训、探索内生性教育制度改革提供了扎实的理论支点。
 > - **学术共同体建设** 作为阿根廷及拉美比较教育学界连接国际顶尖学界的领军学者，积极推动拉美批判教育社会学的国际对话，有力提升了南方学者在全球[[Knowledge Production|知识生产]]中的能见度与话语权。
 

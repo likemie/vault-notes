@@ -8,7 +8,7 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 35
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Objectivism]]"
   - "[[Educational Meliorism]]"
+  - "[[Document]]"
   - "[[International Education]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm Wars]]"
+  - "[[Self Explanation]]"
   - "[[Emergence]]"
   - "[[Falsification]]"
 related_theories:
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ## 简介
@@ -171,7 +173,7 @@ updated: 2026-10-20
 > - **现代性教育科学化路径** 启蒙现代性时期的教育改革者深受孔德实证精神感召。比较教育学奠基人[[Marc-Antoine Jullien\|马克-安托万·朱利安]]与孔德遥相呼应，将教育确立为“整个社会大厦的真正基石”，主张以严谨的分析式问题表与比较观察表诊断各国教育缺陷，确立了通过客观经验调查医治社会道德危机、实现全人教化与社会改良（[[Educational Meliorism]]）的古典现代主义范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 13–14]]
 > - **跨国与跨领域传播** 在英国，其思想受到古典自由主义思想家约翰·斯图尔特·密尔（J. S. Mill）的高度推崇与批判性转化；在拉丁美洲，其实证哲学成为 19 世纪末巴西、墨西哥等国世俗精英推翻封建神权与建设现代化国家的官方指导思想，巴西国旗上的名言“秩序与进步”（Ordem e Progresso）即直接镌刻着孔德的实证格言。
 
-孔德的学说在当代社会科学与教育哲学文献中持续引发深度反思与对话。
+孔德的学说在当代社会科学与教育哲学[[Document|文献]]中持续引发深度反思与对话。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1)]] 详尽剖析孔德实证主义的认识论原则、方法论统一假说以及西方教育研究范式从实证到反实证的演化脉络。
@@ -210,7 +212,7 @@ updated: 2026-10-20
 > > 争论焦点在于：人类社会是否存在与自然界相同的客观因果规律？研究者能否采取冷漠中立的“主-客体二元对立”[[Paradigm\|研究范式]]？
 > > 
 > > - **孔德实证传统** 坚持自然与社会的方法论统一，主张人类行为同样服从严格的[[Determinism\|因果决定论]]，研究者应如同物理学家考察自然天体一般考察社会法则。
-> > - **反实证与诠释学派（Giddens, 1976; Kierkegaard）** 指出社会世界处于“主体-主体”（subject-subject）的双向交往关系中，人类具备独特的自我解释与意图赋义能力，实证主义强加自然科学外壳必然忽视人类能动性，犯下严重的机械决定论谬误。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, pp. 15–17]]
+> > - **反实证与诠释学派（Giddens, 1976; Kierkegaard）** 指出社会世界处于“主体-主体”（subject-subject）的双向交往关系中，人类具备独特的[[Self Explanation|自我解释]]与意图赋义能力，实证主义强加自然科学外壳必然忽视人类能动性，犯下严重的机械决定论谬误。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, pp. 15–17]]
 > 
 > > [!axis] 自然世界规律性 vs 教育与课堂微观复杂性
 > > 争论焦点在于：实证主义在自然界取得的辉煌成功，能否平移至教育与课堂教学情境？

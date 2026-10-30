@@ -10,7 +10,7 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Categorical Funding]]"
   - "[[Literature Search]]"
+  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Recommendations for Practice]]"
   - "[[Academic Achievement]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-26
 > [!actor-grid] 组织治理架构与服务流程
 > - **主管机构** [[Netherlands Initiative for Education Research\|荷兰国家教育研究所]]（NRO），受荷兰教育、文化与科学部监管与资助。
 > - **编辑与研究团队** 由 NRO 专职[[Knowledge Mediation\|知识中介]]研究员及网络合作大学研究人员组成，负责[[Literature Search\|文献检索]]、证据评级与通俗化写作。
-> - **问答委托网络** 全荷数十所大学教育学院的研究人员参与定制问答委托，按照 NRO 规定的证据质量评级标准完成文献综合报告。
+> - **问答委托网络** 全荷数十所大学教育学院的研究人员参与定制问答委托，按照 NRO 规定的证据质量评级标准完成[[Document|文献]]综合报告。
 
 > [!pathways] 核心业务运行机制
 > - **通俗化[[Abstract\|研究摘要]]数据库** 将现有荷兰语及国际高质量教育[[Research Translation\|研究转化]]为 1–2 页通俗摘要，按主题与学段分类检索，配合[[Recommendations for Practice\|实践建议]]说明（Implication for Practice）。

@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bologna Process]]"
+  - "[[Bologna Follow-Up Group]]"
   - "[[European Association for Quality Assurance in Higher Education]]"
   - "[[European Quality Assurance Register for Higher Education]]"
   - "[[European Standards and Guidelines]]"
@@ -44,13 +45,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2015 年 5 月在亚美尼亚埃里温举行的欧洲高等教育区（[[Bologna Process|European Higher Education Area]], [[Bologna Process|EHEA]]）部长级会议上正式审议通过；由博洛尼亚后续行动组（Bologna Follow-Up Group, BFUG）牵头研制，并获得[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障协会]]（ENQA）与[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（EQAR）的技术支持。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 229–230)]]
+> - **发布时间 / 发布主体** 2015 年 5 月在亚美尼亚埃里温举行的欧洲高等教育区（[[Bologna Process|European Higher Education Area]], [[Bologna Process|EHEA]]）部长级会议上正式审议通过；由[[Bologna Follow-Up Group|博洛尼亚后续行动组]]（Bologna Follow-Up Group, BFUG）牵头研制，并获得[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障协会]]（ENQA）与[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（EQAR）的技术支持。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 229–230)]]
 > - **适用地区 / 对象** 欧洲高等教育区 49 个成员国及其境内联合开办跨国学士、硕士或博士学位项目的高等教育机构，以及在 EQAR 注册的外部质量保障机构。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 229–230)]]
 > - **问题背景** 伴随跨国联合办学与联合学位（Joint Programmes）的扩展，高校联合体以往每增设一个合作国，就必须在每一个参与国分别接受该国国家质保机构的独立认证；多套国家标准的程序重叠与认证周期错位，造成了高昂的行政成本与制度阻碍。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 229–230)]]
 > - **制度位置** 该框架根植于[[Bologna Process|博洛尼亚进程]]，直接建立在《[[European Standards and Guidelines|欧洲高等教育区质量保障标准与准则]]》（ESG）与 EQAR 准入机制之上；后续成为[[European Commission|欧盟委员会]]推进[[European Universities Initiative|欧洲大学倡议]]与实现跨国联合学位互认的核心质保通道。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 229–230)]]

@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2015_Paideia"
 argument_key: "Argument_Qvortrup_2015_Paideia"
 argument_display_title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[SOLO Taxonomy]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Document]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Geisteswissenschaften]]"
   - "[[Problem Solving]]"
@@ -50,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -74,7 +75,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）与概念分析。
 > - 分析策略：先重建实证统计教育研究的历史背景，再分类回应 [[Visible Learning]] 批评，最后围绕"学习结果"这一因[[Variable\|变量]]提出概念重建方案。
-> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie and Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论文献；没有独立收集新的实证数据。
+> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie and Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论[[Document|文献]]；没有独立收集新的实证数据。
 
 > [!example] 核心论证
 > 1. **前提／观察**[[Visible Learning]] 产生巨大影响，也引发三类批评：意识形态批评反对把教学看作有意图的[[Student-Teacher Relationship\|师生关系]]并考察干预与结果的关联；方法论批评质疑不同定义的教育干预能否比较；情境批评质疑不同时间和社会地理语境中的研究能否合并。

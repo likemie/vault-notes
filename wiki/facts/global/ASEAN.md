@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 49
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -52,6 +52,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN Charter]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
   - "[[ASEAN University Network]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
@@ -61,13 +62,17 @@ related_facts:
   - "[[China-ASEAN Federation for Vocational Education]]"
   - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[Coreper]]"
+  - "[[ASEAN Education Ministers Meeting]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[EU]]"
   - "[[SEAMEO RIHED]]"
   - "[[China-ASEAN Education Cooperation Week]]"
   - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Master Plan on ASEAN Connectivity]]"
   - "[[Royal University of Phnom Penh]]"
   - "[[Asian Infrastructure Investment Bank]]"
   - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[SEAMEO]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Velasco_2022_CSJ]]"
@@ -77,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -89,7 +94,7 @@ updated: 2026-10-29
 > - **成立时间 / 创设背景** 1967 年 8 月 8 日，印度尼西亚、马来西亚、菲律宾、新加坡与泰国五国外长在曼谷签署《曼谷宣言》（东盟宣言），旨在冷战阴影下促进东南亚和平、稳定与区域协作。
 > - **总部地点 / 业务辐射** 总部设于印度尼西亚雅加达，覆盖文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国与越南等十个成员国，并延伸至“东盟+3”（中日韩）及东亚峰会等多边对话机制。
 > - **法人属性与经费基础** 依据[[ASEAN Charter|《东盟宪章》]]设立的政府间国际法实体，营运经费源自成员国法定分摊会费、东盟发展基金及多边对话伙伴的合作发展基金资助。
-> - **核心宗旨与法定职责** 维持并增进区域和平与稳定，构建涵盖“东盟政治安全共同体”、“东盟经济共同体”与“东盟社会文化共同体”的三大支柱体系；在社会文化支柱下推进教育互联互通、人力资源开发、跨国学分互认与青年流动。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
+> - **核心宗旨与法定职责** 维持并增进区域和平与稳定，构建涵盖“东盟政治安全共同体”、“[[ASEAN Economic Community|东盟经济共同体]]”与“东盟社会文化共同体”的三大支柱体系；在社会文化支柱下推进教育互联互通、人力资源开发、跨国学分互认与青年流动。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
 
 ---
 
@@ -127,8 +132,8 @@ updated: 2026-10-29
 > - **最高决策机构（东盟峰会）** 由成员国国家元首或政府首脑组成的东盟峰会（ASEAN Summit），每年召开两次，决定战略发展方针与核心政策议程。
 > - **执行与统筹机构（东盟协调理事会与秘书处）** 外交部长组成的协调理事会统领全局；设于雅加达的东盟秘书处由东盟秘书长领导，下设政治安全、经济、社会文化三个共同体事务部门。
 > - **常设预备与对外协调中介（[[Coreper|常驻代表委员会]]）** 依据[[ASEAN Charter|《东盟宪章》]]设立的常驻东盟代表委员会（CPR），由成员国派驻雅加达的大使级代表组成，负责支援三大共同体理事会、协调东盟国家秘书处并统筹与外部对话伙伴的国际合作。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
-> - **教育专门治理机制（东盟教育部长会议）** 东盟教育部长会议（ASEAN Education Ministers Meeting, ASED）及其高级别官员会议（SOM-ED），负责制定区域教育合作战略与工作计划。
-> - **高等教育协作平台（东盟大学网络）** 东盟大学网络（AUN）汇聚区域内顶尖[[Research Universities|研究型大学]]，执行高等教育质量保障评价（AUN-QA）及区域学分转换系统（ACTS）。
+> - **教育专门治理机制（[[ASEAN Education Ministers Meeting|东盟教育部长会议]]）** 东盟教育部长会议（ASEAN Education Ministers Meeting, ASED）及其高级别官员会议（SOM-ED），负责制定区域教育合作战略与工作计划。
+> - **高等教育协作平台（东盟大学网络）** 东盟大学网络（AUN）汇聚区域内顶尖[[Research Universities|研究型大学]]，执行高等教育质量保障评价（AUN-QA）及区域学分转换系统（[[ASEAN Credit Transfer System|ACTS]]）。
 
 > [!pathways] 业务运行机制
 > - **协商一致原则（Consensus）** 坚持在充分兼顾各成员国利益与舒适度的基础上形成政策共识，不采取多数表决制强加决议。
@@ -142,7 +147,7 @@ updated: 2026-10-29
 > - **东盟教育五年工作计划** 编制实施《东盟教育工作计划》（ASEAN Work Plan on Education），系统规划全域[[Lifelong Learning|终身学习]]、数字教育转型与[[Internationalization of Higher Education|高等教育国际化]]指标。
 > - **高等教育质量保障体系（AUN-QA）** 东盟大学网络开发并推行的机构与专业双层评估标准，成为东南亚各国高校质量认证与学分互认的通用基准。
 > - **[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与合作计划** 与[[Ministry of Education of the People's Republic of China|中国教育部]]及省际政府联合推进“中国—东盟教育交流周”、“双十万[[Student Mobility|学生流动]]计划”与多边联合办学项目。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
-> - **东盟互联互通总体规划（MPAC）** 推动实体基础设施、制度规制以及包括高等教育人员往来在内的[[People-to-People Connectivity|人文互联互通]]（People-to-People Connectivity）。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
+> - **[[Master Plan on ASEAN Connectivity|东盟互联互通总体规划]]（MPAC）** 推动实体基础设施、制度规制以及包括高等教育人员往来在内的[[People-to-People Connectivity|人文互联互通]]（People-to-People Connectivity）。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
 
 > [!citation-card] 《曼谷宣言》教育与学术合作宗旨
 > 促进在东南亚问题研究方面的合作；在培训和研究设施方面互相提供协作，特别是在教育、专业、技术和行政领域。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
@@ -217,7 +222,7 @@ updated: 2026-10-29
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 剖析中国—东盟职业教育高水平开放合作的价值立意、逻辑要点与产教生态圈实践进路。 |
 > | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 比较欧盟与东盟决策预备机构，剖析东盟依据《东盟宪章》设立常驻代表委员会中的制度拟态与治理局限。 |
 > | [[SEAMEO RIHED]] | Fact (Organization) | 与东盟教育机制紧密协同但保持平级分立的跨国政府间高教政策协调中心。 |
-> | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 东盟与 SEAMEO 联合推进的区域高等教育协作弹性框架。 |
+> | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 东盟与 [[SEAMEO]] 联合推进的区域高等教育协作弹性框架。 |
 > | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较欧洲与东南亚[[Global Regionalisms\|高等教育区域主义]]，剖析东盟方式与双轨治理分工的实证[[Document\|文献]]。 |
 
 ---

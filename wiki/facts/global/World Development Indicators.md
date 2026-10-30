@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Discourse]]"
   - "[[Grade Retention]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Surplus of Evidence]]"
   - "[[Policy Brokerage]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-26
 ---
 
 > [!indicators] 影响力维度与指标
-> - **数据霸权** WDI 是全球学术文献（特别是发展经济学领域）引用频次最高的宏观数据来源，也是多边援助机构进行国别比较分析时的首选基准数据库。
+> - **数据霸权** WDI 是全球学术[[Document|文献]]（特别是发展经济学领域）引用频次最高的宏观数据来源，也是多边援助机构进行国别比较分析时的首选基准数据库。
 > - **政策影响** [[World Bank\|世界银行]]通过 WDI 将教育回报率比较数据（Psacharopoulos & Patrinos 系列）直接嵌入贷款谈判的条件性诊断（Policy Diagnostic）框架，实质上将 WDI 转化为放贷合法性的统计护盾。
 > - **[[Systems Approach for Better Education Results\|SABER]] 联动** [[Systems Approach for Better Education Results\|SABER]] 评估框架直接采用 WDI 指标作为基准对比参照，将 WDI 数字进一步转化为可[[Operationalization\|操作化]]的政策处方依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 

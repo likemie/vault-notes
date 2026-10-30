@@ -8,7 +8,7 @@ aliases:
 summary: "欧盟与现代联邦制治理中的核心宪制原则。规定公共决策应在最低有效层级做出，超国家或中央机构仅在成员国与地方无法有效达成目标时方可进行从属性干预；在欧洲教育治理中，其保障了成员国对教学内容与学制组织的核心主权，但批判学者揭示欧盟如何依托数据基础设施外包与软法规训绕开该原则以深度重塑成员国政策空间。"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Aggressive Intergovernmentalism]]"
   - "[[Data Infrastructure]]"
+  - "[[Scientific Credit]]"
   - "[[European Education Space]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Policy Mobility]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-29
 > **探讨维度　数据外包与超国家软治理绕行** 探讨超国家实体在缺乏立法权的情境下，如何通过资助并嵌入第三方[[Data Infrastructure|数据基础设施]]，将数字指标转化为绕开宪制阻力的一体化治理手段。
 
 > [!claim] Grek, S.
-> **[[OECD|经合组织]]数据基础设施对欧盟辅助性立法短板的实质性补位** 索蒂里亚·格雷克（[[Sotiria Grek]]）剖析了欧盟如何通过跨机构资源互补绕过辅助性原则的硬性限制。《欧洲联盟条约》关于辅助性原则的规定严格维护成员国在教育领域的主权独立，布鲁塞尔机构既无法推行欧洲统一大纲，亦无力独立研发庞大的测评体系。面对这一宪制短板，[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查国家参与成本，并采购经合组织 50%–60% 的基础数据（依托 [[UOE Data Collection|UOE]] 联合数据集）以支持[[Lisbon Strategy|里斯本战略]]指标体系。通过将数据生产外包给具备客观科学声誉的第三方国际组织，欧盟借助跨国排名与同行比较压力，在恪守辅助性原则法律形式的前提下，有效推进了[[European Education Space|欧洲教育空间]]的深度整合。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25, 32–35)]]
+> **[[OECD|经合组织]]数据基础设施对欧盟辅助性立法短板的实质性补位** 索蒂里亚·格雷克（[[Sotiria Grek]]）剖析了欧盟如何通过跨机构资源互补绕过辅助性原则的硬性限制。《欧洲联盟条约》关于辅助性原则的规定严格维护成员国在教育领域的主权独立，布鲁塞尔机构既无法推行欧洲统一大纲，亦无力独立研发庞大的测评体系。面对这一宪制短板，[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查国家参与成本，并采购经合组织 50%–60% 的基础数据（依托 [[UOE Data Collection|UOE]] 联合数据集）以支持[[Lisbon Strategy|里斯本战略]]指标体系。通过将数据生产外包给具备客观[[Scientific Credit|科学声誉]]的第三方国际组织，欧盟借助跨国排名与同行比较压力，在恪守辅助性原则法律形式的前提下，有效推进了[[European Education Space|欧洲教育空间]]的深度整合。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25, 32–35)]]
 
 > [!claim] Grek, S. & Russell, I. (2024)
 > **[[Epistemic Infrastructure|认识论基础设施]]与微观自动化核验对辅助性原则的实质架空** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 进一步论证指出，在《欧洲联盟运行条约》第 165 条严格坚持辅助性原则并排除任何形式法令协调的宪制约束下，欧盟无法依靠自上而下的硬法指令强制推行跨境文凭与学分互认。然而，超国家治理技术已从单纯采购经合组织宏观数据，演进为由欧洲质保标准（[[European Standards and Guidelines|ESG]]）、注册局（[[European Quality Assurance Register for Higher Education|EQAR]]）以及高校与评估数据库（[[European Tertiary Education Register|ETER]] 与 [[Database of External Quality Assurance Results|DEQAR]]）构成的复合[[Epistemic Infrastructure|认识论基础设施]]。通过将微观高校档案与质保决议编码标准化，并直接嵌合各国文凭互认中心（ENIC-NARIC）的工作流，该基础设施以去政治化的技术可信性替代了逐案行政互审，在形式上完全恪守辅助性原则的前提下，达成了文凭免检流转与欧洲高等教育一体化事实管辖。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]

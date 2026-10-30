@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Attrition]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Areas of Knowledge]]"
   - "[[International Education]]"
@@ -92,7 +93,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-30
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -453,7 +454,7 @@ Borg and Gall (1979, p. 291)对队列研究和面板研究做出了关键区分�
 > | 追踪对象 | 具有共同特征的群体 | 完全相同的个体 |
 > | 抽样方式 | 选择性抽样，某些成员可能轮换 | 每轮追踪完全相同的人 |
 > | [[Attrition\|样本流失]] | 可通过补充新成员缓解 | 流失后无法替补，随时间加剧 |
-> | 术语区域 | 英国文献常用（follow-up study） | 美国文献常用 |
+> | 术语区域 | 英国[[Document\|文献]]常用（follow-up study） | 美国文献常用 |
 > | 典型实例 | 全国儿童发展研究（National Child Development Study，NCDS）（1958 年启动，追踪 1958 年某一周内在英国出生的约 17,000 人，至今仍在进行） | 英国家庭面板调查（British Household Panel Survey，BHPS）（1991 年启动，每年访谈约 5,500 个家庭的 10,000 名个体，2009 年并入更大规模的 英国理解社会研究（Understanding Society）长期追踪研究） |
 
 本章还提及以下著名纵向与重复横截面研究（pp.267–268）：

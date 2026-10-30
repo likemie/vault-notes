@@ -10,10 +10,10 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 49
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/political-economy
   - theme/science-policy
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Embedded Autonomy]]"
   - "[[Paradigm]]"
   - "[[Embedded Network Governance]]"
+  - "[[Document]]"
   - "[[Network Plasticity]]"
   - "[[Professional Judgment]]"
   - "[[Boundary Spanner]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-26
 > [!dev-timeline] 理论版本演进
 > - **2000 — 协同式网络治理[[Paradigm|范式]]确立（Christopher Ansell）** 提出网络化国家形态，强调公共部门从等级制命令转向充当网络平台的催化人与协调者。
 > - **2008 — 隐藏的发展型国家与 DNS 四大职能假说（Fred Block）** 系统论证美国战后的真实体制是去中心化的发展型网络国家，提炼出定向资源配置、开辟窗口、网络经纪与宏观便利化四大核心职能；同时基于政治经济学批判，揭示其在意识形态遮蔽下运作导致的国内制造脱节、劳工技能危机、知识虚构商品化壁垒、易受政治围剿及民主问责赤字五大深层制度弊端。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–175, 187–200)]]
-> - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与[[Technological Trajectories|技术轨道]]主动引导（[[Erica Fuchs]]）** 在《Research Policy》发表标志性论文，对经典 DNS 理论提出重大修正：批判既有文献将国家角色窄化为“消极撮合者”与“中立社区营造者”，实证证明网络国家中的公共代理人能运用[[Network Plasticity|网络可塑性]]与深厚[[Professional Judgment|专业判断]]，在不指定单一赢家的前提下**主动引导国家战略技术轨道**。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]
+> - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与[[Technological Trajectories|技术轨道]]主动引导（[[Erica Fuchs]]）** 在《Research Policy》发表标志性论文，对经典 DNS 理论提出重大修正：批判既有[[Document|文献]]将国家角色窄化为“消极撮合者”与“中立社区营造者”，实证证明网络国家中的公共代理人能运用[[Network Plasticity|网络可塑性]]与深厚[[Professional Judgment|专业判断]]，在不指定单一赢家的前提下**主动引导国家战略技术轨道**。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]
 
 ---
 

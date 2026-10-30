@@ -33,6 +33,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Cosmopolitanism]]"
   - "[[Competitiveness]]"
   - "[[Dual School System]]"
@@ -108,14 +109,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of the state, educational expansion, development, and globalizations: Marxian and critical approaches"
 argument_kind: "book-chapter"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -164,7 +165,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **理论文献样本** | 涵盖[[Martin Carnoy\|卡诺伊]]、[[Paulo Freire\|弗莱雷]]、葛兰西、萨特、[[Michael W. Apple\|阿普尔]]、[[Stephen Ball\|鲍尔]]、[[Joel Samoff\|萨莫夫]]、多斯桑托斯及[[Daniel Bensaïd\|本萨义德]]等学者的经典文本。（pp. 85–86） |
+> | **理论[[Document\|文献]]样本** | 涵盖[[Martin Carnoy\|卡诺伊]]、[[Paulo Freire\|弗莱雷]]、葛兰西、萨特、[[Michael W. Apple\|阿普尔]]、[[Stephen Ball\|鲍尔]]、[[Joel Samoff\|萨莫夫]]、多斯桑托斯及[[Daniel Bensaïd\|本萨义德]]等学者的经典文本。（pp. 85–86） |
 > | **经验与历史案例** | 重点覆盖拉丁美洲地区（墨西哥后革命国家法团体制与扫盲政策、阿根廷布宜诺斯艾利斯大学高教重构、智利新自由主义中产阶级危机）的制度演变档案。（pp. 79, 81–84） |
 > | **跨国统计与政策材料** | 世界银行教育部门政策文件、结构调整贷款协议文本、[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）/联合国拉丁美洲和加勒比经济委员会（United Nations Economic Commission for Latin America and the Caribbean, CEPAL）/联合国开发计划署（United Nations Development Programme, PNUD）历史联合统计报告。（pp. 81, 85–86） |
 

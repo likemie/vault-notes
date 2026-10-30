@@ -43,7 +43,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
+  - "[[Swedish National Agency for Education]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[Bell Labs]]"
   - "[[Department of Energy]]"
@@ -58,13 +58,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍印裔固态物理学家、应用科学教育家与科技政策学者；美国国家工程院（NAE）院士、美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士；曾任[[Bell Labs|贝尔实验室]]（Bell Labs）固态电子学研究主管、桑迪亚国家实验室（Sandia National Laboratories）研究副总裁、哈佛大学工程与应用科学学院（SEAS）首任院长，以及哈佛肯尼迪政府学院科学、技术与公共政策项目（STPP）主任。
+> - **身份位置** 美籍印裔固态物理学家、应用科学教育家与科技政策学者；美国国家工程院（[[Swedish National Agency for Education|NAE]]）院士、美国文理科学院（[[American Association for the Advancement of Science|AAAS]]）院士；曾任[[Bell Labs|贝尔实验室]]（Bell Labs）固态电子学研究主管、桑迪亚国家实验室（Sandia National Laboratories）研究副总裁、哈佛大学工程与应用科学学院（SEAS）首任院长，以及哈佛肯尼迪政府学院科学、技术与公共政策项目（STPP）主任。
 > - **核心角色** 战后线性创新[[Paradigm|范式]]与“[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]”的重要批判者；“[[Discovery-Invention Cycle|发现-发明循环]]理论”的首创者；系统论证工程技术发明与前沿物理科学发现的对称性与共生演进网络，为美国联邦科研资助管理体制与跨学科科研机构设计提供了新范式。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > - **代表贡献** 首倡发现-发明循环理论；批判[[Linear Model of Innovation|线性创新模型]]与基础/应用二分法的[[Epistemology|认识论]]偏见；推动哈佛大学工程学科独立设院改革；主导重塑[[Department of Energy|美国能源部]]（DOE）能源前沿研究中心（EFRC）等任务导向型科研资助机制。
 
@@ -117,7 +117,7 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了从单向[[Linear Model of Innovation|线性创新模型]]与静态二维[[Pasteur's Quadrant|帕斯德象限]]向长周期网状动态创新理论的演进，为理解当代硬科技创新与[[Big Science|大科学工程]]提供了核心分析工具。
-> - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与[[ARPA-E|高级能源研究计划局]]（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
+> - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家科学院（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与[[ARPA-E|高级能源研究计划局]]（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
 > [!evidence-grid-a] 相关研究索引

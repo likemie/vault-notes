@@ -6,7 +6,7 @@ aliases:
 summary: "英国人类学家高尔顿通过 1906 年普利茅斯家畜市集估重实验开创的集体智能概念；指出在个体判断独立且信息分散的情境下，离散估计的统计中位数能精准逼近客观真理；当代反思则揭示将该逻辑盲目泛化至资本市场配置会诱发投机泡沫与公共治理创新荒漠。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ tags:
   - theme/decision-science
   - theme/epistemology
 related_concepts:
-  - "[[Collective Intelligence]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Trustworthiness]]"
@@ -47,7 +46,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Wisdom of Crowds
-> [[Collective Intelligence|群体智慧]]（Wisdom of Crowds）指当大量具备多元背景且保持认知独立的个体，对某一复杂或不确定性事实进行分散估计或预测时，将所有个体的离散判断进行统计汇聚（如取中位数或均值）所得到的整体结论，其准确度往往显著优于绝大多数独立专家甚至顶尖专家的集体智能现象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
+> 群体智慧（Wisdom of Crowds）指当大量具备多元背景且保持认知独立的个体，对某一复杂或不确定性事实进行分散估计或预测时，将所有个体的离散判断进行统计汇聚（如取中位数或均值）所得到的整体结论，其准确度往往显著优于绝大多数独立专家甚至顶尖专家的集体智能现象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向分散信息在缺乏中心权威协调时，通过统计汇聚机制自发显现的高水平[[Epistemology|认识论]]准确性。
@@ -116,7 +115,7 @@ updated: 2026-10-30
 
 ---
 
-> [!concept-proposition] 命题二｜将[[Collective Intelligence|群体智慧]]盲目等同于资本市场配置效率会导致关键公共战略事业的资源空洞化
+> [!concept-proposition] 命题二｜将群体智慧盲目等同于资本市场配置效率会导致关键公共战略事业的资源空洞化
 > **探讨维度　市场盲从与战略投资错配** 剖析将“大众之声”机械套用于风险资本配置时引发的技术逃避与[[Innovation Desert|创新荒漠]]。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]

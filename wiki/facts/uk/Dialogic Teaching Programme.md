@@ -8,7 +8,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -20,23 +20,25 @@ tags:
   - "region/uk"
   - "cross-curriculum"
   - "whole-class-approach"
-related_concepts: []
+related_concepts:
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 对话教学项目（Dialogic Teaching）面向小学五年级学生及任课教师。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/dialogic-teaching)
+> [[Dialogue in Education|对话教学]]项目（Dialogic Teaching）面向小学五年级学生及任课教师。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/dialogic-teaching)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>

@@ -7,7 +7,7 @@ aliases:
 summary: "由英国公共政策学者桑德拉·纳特利等于 2002 年提出的中层分析框架，系统提炼了决定政策制定者是否关注、接纳与吸纳特定实证研究证据的四大核心维度：决策者个人特质、研究契合度、制度情境以及政策执行可行性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Epistemological Beliefs]]"
   - "[[Research Translation]]"
   - "[[Epistemology]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-21
 > [!claim] 核心主张
 > **纳特利证据吸纳四维框架（Nutley's Four-Dimension Framework for Research Uptake）** 认为：政策决策者对学术实证证据的吸纳与利用，绝非仅由研究本身的方法论严谨度或[[Effect Size\|效应量]]大小单向决定，而是由**决策者个人维度（Personal）**、**研究契合度维度（Research Fit）**、**制度情境维度（Contextual）** 以及**政策执行维度（Implementation）** 这四大[[Heterogeneity\|异质性]]力量相互交织、动态博弈的综合产物。研究者若要实现证据的实质性政策转化，必须在这四个维度上同时开展适配性重构与敏捷对齐。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
-> [!citation-card] 核心文献表述
+> [!citation-card] 核心[[Document|文献]]表述
 > 纳特利等（2002）系统总结了决定立法决策者是否倾向于关注并采纳特定研究证据的核心考量维度……如果我们要让自己的研究在政策制定中发挥实质作用，就必须调整我们的研究设计与传播方式，使其深度嵌入这一政策制定的生态环境之中。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 >
 > *Nutley et al. (2002) summarizes well some key considerations in determining whether legislators are apt to pay attention to and take-up particular research evidence... Further, we have to adjust the design of our research and communication of research findings to fit within this policymaking milieu if our work is to be useful in policymaking.*

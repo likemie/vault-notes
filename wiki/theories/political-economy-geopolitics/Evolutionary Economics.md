@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[New Public Management]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Complexity Paradox]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -231,7 +232,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]; Nelson and Winter (1982) |
 > | **技术轨迹决定命题** | 阐明不同产业因知识基础与搜寻模式差异形成稳定的分类模式 | 产业技术政策制定、创新模式分类与跨国[[Competitiveness\|竞争力]]比较 | [[Argument_Pavitt_1984_RP\|Pavitt (1984)]]; Dosi (1982, 1988) |

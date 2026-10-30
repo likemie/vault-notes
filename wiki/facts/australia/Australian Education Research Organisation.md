@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Effective Teaching]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Boundary Spanner]]"
   - "[[Professional Judgment]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -227,7 +228,7 @@ updated: 2026-10-26
 > - **生态与[[Discourse|话语]]垄断** 本土化移植英国 [[Education Endowment Foundation\|EEF]] 工具模型，依托公私网络形成对国家教育研究议程定义权的集中垄断。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
 
 > [!finding-cards] 关键成效与辐射影响
-> - **教师教育知识定义权的收拢** 成功通过证据评估框架和内部文献，掌控了职前教师大纲“大脑与学习”板块知识的官方裁决权。
+> - **教师教育知识定义权的收拢** 成功通过证据评估框架和内部[[Document|文献]]，掌控了职前教师大纲“大脑与学习”板块知识的官方裁决权。
 > - **问责机制行政强硬化的主要推手** 董事会强力推动资金惩罚与剥夺办学认证立场，将循证要求转化为大学教育学院必须对齐的硬约束。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **跨国证据垄断生态的本土化固化** 完成了英国 EEF 与美国有效性运动模式在澳大利亚公共教育决策肌理中的结构性装配。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
 

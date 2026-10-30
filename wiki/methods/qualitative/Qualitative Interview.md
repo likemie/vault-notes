@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -67,6 +67,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Sample Size Determination]]"
   - "[[Open Coding]]"
+  - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
   - "[[Probes]]"
 related_arguments:
@@ -76,7 +77,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-10-29
 > [!method-fit] 适用判断
 > - **适合使用** 适合探索参与者的主观经验、意义建构与生活世界；调查复杂制度变革中行动者的动机、策略与情感反应；探究尚未建立成熟理论的新现象；以及为微观教育实践提供丰富厚实的情境描述。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, Ch. 21)]]
 > - **谨慎使用** 在层级森严或存在显著利益冲突的组织中，受访者可能出于防御心理提供策略性陈述；跨文化访谈中需防范语言误译与文化假定；极度创伤或敏感议题须有充分的心理与伦理保护机制。
-> - **不适合使用** 寻求大样本总体参数概率推论的研究；需要严格控制混杂[[Variable|变量]]以验证因果假设的实验设计；以及仅需标准化统计计[[Quantitative Research|量的研究]]问题。
+> - **不适合使用** 寻求大样本总体参数概率推论的研究；需要严格控制混杂[[Variable|变量]]以验证因果假设的[[Experimental Research|实验设计]]；以及仅需标准化统计计[[Quantitative Research|量的研究]]问题。
 
 ---
 

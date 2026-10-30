@@ -7,7 +7,7 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Causality]]"
   - "[[Research Question]]"
 related_facts:
@@ -39,7 +40,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-29
 > - **知识观**档案研究在认识论上假设官方文件的组织方式和幸存模式本身就是历史过程的产物（而非中性的信息容器）。研究者需要同时阅读文件内容和文件的组织逻辑。
 > - **研究者角色** 研究者是档案的主动阐释者，需要在浩繁的材料中进行选择性阅读和判断，同时受到自身问题意识和时间预算的约束。
 > - **有效性标准** 档案来源的[[Internal Consistency\|内部一致性]]、不同文件系列之间的交叉验证、对文件幸存偏误的明示、以及对文件生产语境的充分理解。
-> - **不声称回答的问题** 档案研究无法直接观察事件本身（只能通过记录重构），无法弥补已遗失文献造成的证据空白，也不能假定幸存文献具有统计代表性。
+> - **不声称回答的问题** 档案研究无法直接观察事件本身（只能通过记录重构），无法弥补已遗失[[Document|文献]]造成的证据空白，也不能假定幸存文献具有统计代表性。
 
 > [!method-stack] 方法层级
 > - **研究设计** 历史[[Case Study\|个案研究]]、政策[[Process Tracing|过程追踪]]、制度变迁分析、多档案比较研究。

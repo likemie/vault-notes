@@ -11,7 +11,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Business as Usual]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Teacher Subject Matter Knowledge]]"
+  - "[[Document]]"
 related_theories:
   - "[[Stability vs. Variability Dilemma]]"
 related_methods:
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -126,9 +128,9 @@ updated: 2026-10-22
 > [!debates] 学术争议与理论对话
 >
 > > [!axis] [[Meta-meta-analysis|二阶元分析]]结论的滞后虚无 vs 严格前沿追踪的决定性实证
-> > 争论焦点在于二阶[[Meta-analysis|元分析]]所宣称的“教师学科知识影响微弱”究竟是客观规律，还是底层历史数据滞后造成的认知偏误。
+> > 争论焦点在于二阶[[Meta-analysis|元分析]]所宣称的“[[Teacher Subject Matter Knowledge|教师学科知识]]影响微弱”究竟是客观规律，还是底层历史数据滞后造成的认知偏误。
 > >
-> > - **宏观二阶元分析视角（Hattie, 2009）** 基于上世纪北美粗糙文献，认为教师专业培训（$d=0.11$）和专业知识与[[Academic Achievement|学业成绩]]关联微弱，倡导将政策资源投向通用激活行为。
+> > - **宏观二阶元分析视角（Hattie, 2009）** 基于上世纪北美粗糙[[Document|文献]]，认为教师专业培训（$d=0.11$）和专业知识与[[Academic Achievement|学业成绩]]关联微弱，倡导将政策资源投向通用激活行为。
 > > - **前沿严格追踪视角（Baumert et al., 2010; [[Argument_Terhart_2011_JCS|Terhart, 2011]]）** COACTIV 严格证实经过专业化训练的学科教学知识对深层认知具有不可替代的驱动价值。[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 437]]）借此实例作为[[Stability vs. Variability Dilemma|变异性假说]]（Stability vs. Variability Dilemma）的核心支撑，反驳宏观聚合将陈旧数据误认为终极圣杯的致命缺陷。
 
 ---

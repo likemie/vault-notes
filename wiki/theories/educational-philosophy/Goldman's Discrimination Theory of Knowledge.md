@@ -9,7 +9,7 @@ aliases:
 summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam et al. 引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 26
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,15 +30,18 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Emergence]]"
+  - "[[Document]]"
   - "[[Tracking]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
+  - "[[Teacher Effects]]"
   - "[[Implementation Fidelity]]"
   - "[[Counterfactual]]"
 related_theories:
   - "[[Reliabilism]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Experimental Research]]"
   - "[[Covariate Adjustment]]"
   - "[[Propensity Score Matching]]"
   - "[[Meta-analysis]]"
@@ -53,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -106,21 +109,21 @@ updated: 2026-10-22
 > [!theory-proposition] 命题三｜教育[[Causality\|因果推断]]的多重竞争解释赋予教育知识鲜明的局部性与暂定性
 > **解释** 教育系统是一个由无数异质[[Variable\|变量]]构成的复杂因果场。任何一项教学干预的学业增益，都存在多种相互竞争的因果解释机制（如教师分配偏差、生源溢出效应）。由于研究者往往无法在所有情境中排除这重重竞争性替代方案，教育实证知识永远只能是局部情境下的有效判断，且随着新测量变量的揭示而始终处于被修订的暂定状态。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 10)]]
 >
-> **应用实例** 过去文献曾断言[[Tracking\|能力分组]]会损伤学生成就；但当教师效能变异性的精准测量数据[[Emergence\|涌现]]后，研究者发现先前无法区分到底是分组本身导致差异，还是优质师资倾斜导致差异，从而使先前能力分组的绝对定论转化为悬而未决的暂定推断。
+> **应用实例** 过去[[Document|文献]]曾断言[[Tracking\|能力分组]]会损伤学生成就；但当教师效能变异性的精准测量数据[[Emergence\|涌现]]后，研究者发现先前无法区分到底是分组本身导致差异，还是优质师资倾斜导致差异，从而使先前能力分组的绝对定论转化为悬而未决的暂定推断。
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 检验教育实证研究与教学评估中的因果推论是否具备[[Epistemology\|认识论]]有效性，识别未被排除的潜在替代解释。
 > - **分析对象与单位** 评估一项实证研究或政策声明的“因果主张—替代解释”辩护链条。
-> - **需要的材料** 实验设计报告、控制[[Variable\|变量]]清单、测量工具敏感度说明、情境约束描述与敏感性分析数据。
+> - **需要的材料** [[Experimental Research|实验设计]]报告、控制[[Variable\|变量]]清单、测量工具敏感度说明、情境约束描述与敏感性分析数据。
 > - **解释目标** [[Evaluation Research\|评估研究]]结论是真正确立了因果知识，还是仅仅捕获了未被有效辨识的假象相关。
 
 > [!theory-framework] 知识辨识理论在教育实证审议中的分析维度
 >
 > | 理论构件 | 分析维度与核心提问 | 考察材料与可观察指标 | 判读准则与边界 |
 > |---|---|---|---|
-> | **相关替代辨析** | 该项研究所声称的干预效应，是否存在未被控制但高度相关的混淆因素？ | 研究设计中的[[Covariate Adjustment\|协变量控制]]、[[Propensity Score Matching\|倾向得分匹配]]（PSM）或随机双盲实施情况。 | 若存在显而易见但未被测量的教师效应或家庭资本差异，知识确证不成立。 |
+> | **相关替代辨析** | 该项研究所声称的干预效应，是否存在未被控制但高度相关的混淆因素？ | 研究设计中的[[Covariate Adjustment\|协变量控制]]、[[Propensity Score Matching\|倾向得分匹配]]（PSM）或随机双盲实施情况。 | 若存在显而易见但未被测量的[[Teacher Effects\|教师效应]]或家庭资本差异，知识确证不成立。 |
 > | **情境局部性检验** | 该干预在本地取得的显著正效，其背后的制度与资源条件在异地是否依然成立？ | 样本学校的师资配比、生源背景、地方政策支持与[[Implementation Fidelity\|实施忠实度]]记录。 | 替代方案的相关性随情境迁移发生改变；异地推广必须重新做辨识检验。 |
 > | **结论暂定性监控** | 随着后续更精密测量工具的出现，先前的正向效应是否面临归因重构？ | 纵向追踪数据、[[Meta-analysis\|元分析]][[Heterogeneity\|异质性]]检验结果与后续[[Counterfactual\|反事实]]复现研究。 | 保持对新[[Emergence\|涌现]]证据的开放性，防范将局部性经验教条化为普适教育法则。 |
 

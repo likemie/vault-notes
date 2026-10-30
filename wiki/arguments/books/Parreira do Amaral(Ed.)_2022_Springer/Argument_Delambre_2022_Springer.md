@@ -9,7 +9,7 @@ title: "Argument_Delambre_2022_Springer"
 argument_key: "Argument_Delambre_2022_Springer"
 argument_display_title: "Creative tension of sense and the whole approach to knowledge and practice"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Geopolitics]]"
+  - "[[Epistemic Inequality]]"
   - "[[Ganz-Methode]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Tense Society]]"
   - "[[Paradigm]]"
   - "[[Official Knowledge]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -56,7 +58,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -66,7 +68,7 @@ citation_aliases:
 > [!question]
 > 在"新"[[Geopolitics of Knowledge\|知识地缘政治]]（new [[Geopolitics of Knowledge]]）的讨论中，[[Epistemology\|认识论]]（epistemology）应扮演什么角色？面对现代性"封闭理性"（closed rationality of modernity）在全球范围内引发的多重危机——环境崩溃、社会不平等、数字转型冲击——能否构建一种不急于消解矛盾、而是在张力中思考知识与实践关系的认识论？这种认识论如何为高等教育的转型提供具体路径？(p.105–107)
 
-Delambre 的核心关切是：现有的知识[[Geopolitics|地缘政治]]讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方认识论霸权的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判转化为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
+Delambre 的核心关切是：现有的知识[[Geopolitics|地缘政治]]讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方[[Epistemic Inequality|认识论霸权]]的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判转化为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
 
 > [!abstract] 理论框架
 > - [[Creative Tension of Sense]] — 作者自建理论，作为全章核心[[Analytic Framework\|分析框架]]。该理论的出发点是一个基本观察：新事物总是在旧秩序的母体内孕育，新旧之间的"意义张力"（tension of sense）不是需要消除的故障，而是意义本身得以产生的条件。换言之，[[Creativity\|创造力]]恰恰来自张力，而非张力的消除(p.106, 111–112)
@@ -102,7 +104,7 @@ Delambre 首先建立问题的紧迫性：西方现代性的知识模式——�
 
 这是张力理论最核心的命题：**世界上不存在脱离"旧"而凭空出现的"新"**。新的知识范式、新的社会组织方式、新的人生意义——总是在旧秩序的母体中孕育，带着旧的基因又与旧产生紧张。因此，新旧之间不是线性替代关系（新取代旧），而是持久的张力关系（新在旧中生长、旧因新而改变）(p.111)。
 
-> 例：大学图书馆正在从"知识存储与沉思空间"（旧）转变为"makerspace"和"创新创业孵化器"（新）——但这个过程并非旧功能消失、新功能取而代之，而是两种功能在同一个物理空间中产生张力。学生可能同时在图书馆里翻阅经典文献和为创业比赛做 pitch deck。这种新旧共存的状态就是"张力"的具体体现（pp. 114–115）。
+> 例：大学图书馆正在从"知识存储与沉思空间"（旧）转变为"makerspace"和"创新创业孵化器"（新）——但这个过程并非旧功能消失、新功能取而代之，而是两种功能在同一个物理空间中产生张力。学生可能同时在图书馆里翻阅经典[[Document|文献]]和为创业比赛做 pitch deck。这种新旧共存的状态就是"张力"的具体体现（pp. 114–115）。
 
 ### 步骤 4：从诊断到方法 — 为什么"承载张力"而不是"解决张力"？
 

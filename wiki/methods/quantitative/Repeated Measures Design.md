@@ -10,7 +10,7 @@ summary: "真实验设计变体，同一组受试者在两种或多种实验条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,12 +25,15 @@ related_concepts:
   - "[[Variable]]"
   - "[[Order Effects]]"
   - "[[Interaction Effect]]"
+  - "[[Lecturing]]"
+  - "[[Flipped Classrooms]]"
   - "[[Threats to Internal Validity]]"
 related_methods:
   - "[[True Experimental Design]]"
   - "[[Matched Pairs Design]]"
   - "[[Analysis of Variance]]"
   - "[[Effect Size]]"
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Pilot Testing]]"
   - "[[Random-Effects Model]]"
@@ -39,7 +42,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Repeated Measures Design
@@ -51,7 +54,7 @@ updated: 2026-10-29
 > - **[[Unit of Analysis\|分析单位]]** 个体在多种条件下的重复测量数据。
 > - **输出形式** 条件间比较（重复测量 [[Analysis of Variance\|ANOVA]] 或配对 t 检验），[[Effect Size\|效应量]]估计。
 
-> [!method-position] 在实验设计中的独特位置
+> [!method-position] 在[[Experimental Research|实验设计]]中的独特位置
 > - **与组间设计的根本区别** 组间设计中，实验组和控制组是不同的人——即使[[Random Assignment\|随机化]]也只能在期望上等价，小样本中仍可能出现系统性差异。重复测量设计让**完全相同的人**接受所有条件，个体差异被自动消除，统计检验力更高（去除了个体间变异）。
 > - **有效性标准** 对个体差异的控制力最强——每个参与者作为自身对照，组内变异（个体差异）不进入误差项。
 > - **不能回答的问题** 无法用于干预效应不可逆的情境（如学习效应）——一旦参与者学会了某种技能，撤除条件后行为不会回到基线。
@@ -92,7 +95,7 @@ updated: 2026-10-29
 > - **不适合使用** 干预效应不可逆时（如学习效应——一旦学会就不会遗忘）；当顺序效应本身就是研究对象时（需使用组间设计）。
 
 > [!example] 适合重复测量设计的研究场景
-> - **教学方法比较** 同一批学生在三个单元分别接受讲授法、讨论法和翻转课堂，比较三种方法的效果。前提是三个单元难度相当、前一方法效应不会延续到下一单元。
+> - **教学方法比较** 同一批学生在三个单元分别接受[[Lecturing|讲授法]]、讨论法和[[Flipped Classrooms|翻转课堂]]，比较三种方法的效果。前提是三个单元难度相当、前一方法效应不会延续到下一单元。
 > - **反馈类型研究** 同一组学生在三次写作任务后分别收到即时反馈、延迟反馈和无反馈，比较修改稿质量。个体写作差异自动控制。
 > - **药物剂量交叉试验** 同一组患者在三个治疗期依次接受低剂量、高剂量和安慰剂，每期间隔足够的洗脱期（washout period）。患者间体质差异被消除。
 > - **界面可用性测试** 同一组用户依次使用三种界面设计完成相同任务，测量完成时间和错误率。操作熟练度差异自动控制。

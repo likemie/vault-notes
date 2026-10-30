@@ -7,7 +7,7 @@ aliases:
 summary: "由托兰斯开发的经典标准化发散思维测验，包含言语和图形两套形式，从流畅性、灵活性、独创性与精致性四个核心维度评估个体创造潜能。"
 type: instrument
 instrument_type: test
-instrument_related_count: 21
+instrument_related_count: 23
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Critical Thinking]]"
   - "[[Common Method Variance]]"
+  - "[[Variable]]"
+  - "[[Scoring Rubrics]]"
 related_theories: []
 related_methods:
   - "[[Cohort Study]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -109,7 +111,7 @@ updated: 2026-10-22
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Rose and Lin (1984) | 测验类型 | 言语 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
 > |  |  | 图形 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.36"><span class="b7"></span></span>0.36 | — | — |
@@ -122,5 +124,5 @@ updated: 2026-10-22
 
 > [!boundary]- 工具优缺点与局限
 > - **优势** 标准化常模极为庞大、跨文化可比性强、评分客观规范且具备坚实的长期[[Predictive Validity\|预测效度]]。
-> - **局限** 测验侧重于“观念生成（Ideation）”的潜能测量（流畅性、灵活性、独创性与精致性），不能完全等同于实际[[Creativity\|创造性]]产品的产出；施测受时间压力与语言熟练度影响，易受到测试焦虑干扰。在高等教育领域，此类心理测量工具难以直接嵌入日常学科课程教学，需要与基于真实作品的评分量规（如 [[VALUE Rubrics]]）和情境化表现任务互为补充。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 34)]]
+> - **局限** 测验侧重于“观念生成（Ideation）”的潜能测量（流畅性、灵活性、独创性与精致性），不能完全等同于实际[[Creativity\|创造性]]产品的产出；施测受时间压力与语言熟练度影响，易受到测试焦虑干扰。在高等教育领域，此类心理测量工具难以直接嵌入日常学科课程教学，需要与基于真实作品的[[Scoring Rubrics|评分量规]]（如 [[VALUE Rubrics]]）和情境化表现任务互为补充。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 34)]]
 

@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which vision of education for late modernity? In M"
 argument_kind: "book"
-argument_related_count: 54
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
+  - "[[Personalized Learning]]"
   - "[[Grandes Ecoles]]"
   - "[[Learner Autonomy]]"
   - "[[Self-Directed Learning]]"
@@ -81,6 +82,7 @@ related_facts:
   - "[[Regional University Alliances]]"
   - "[[League of European Research Universities]]"
   - "[[EU]]"
+  - "[[European Universities Initiative]]"
   - "[[Bologna Process]]"
 related_arguments: []
 sources:
@@ -88,7 +90,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -168,9 +170,9 @@ citation_aliases:
 >
 > > 例：撒哈拉以南非洲的偏远村庄可能没有合格的物理教师，但如果有一部能上网的手机，学生就能观看可汗学院或 Coursera 的物理课程。"Anytime, anywhere"在理想情况下是包容性的——不需要全日制在校，不需要固定时间表，对有工作、有家庭责任的学生尤其有益。但 Amos 紧接着指出，这个叙事的盲点是基础设施：没有稳定电力和网络，"anytime, anywhere"就是空话。
 >
-> **(3) 教师专业发展与新工作机会**[[Learning Analytics]]（learning analytics）和个性化学习（personalized learning）被宣称为改善学习质量的技术手段。这同时创造了一个新的劳动力市场——数据科学家、学习设计师、教育技术开发者。
+> **(3) 教师专业发展与新工作机会**[[Learning Analytics]]（learning analytics）和[[Personalized Learning|个性化学习]]（personalized learning）被宣称为改善学习质量的技术手段。这同时创造了一个新的劳动力市场——数据科学家、学习设计师、教育技术开发者。
 >
-> 数字化也在重新绘制大学的组织地图：[[Regional University Alliances]]——[[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、以及[[EU|欧盟]]委员会框架下的欧洲大学联盟（European University Alliances）——跨越国界甚至大洲边界，合作研究、推动学生和教职流动、开发联合学位项目。[[Bologna Process]] 在欧洲高等教育区内的多样化实施证明，即便在标准化压力下，大学仍然有强大的力量维持各自的运作方式。
+> 数字化也在重新绘制大学的组织地图：[[Regional University Alliances]]——[[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、以及[[EU|欧盟]]委员会框架下的[[European Universities Initiative|欧洲大学联盟]]（European University Alliances）——跨越国界甚至大洲边界，合作研究、推动学生和教职流动、开发联合学位项目。[[Bologna Process]] 在欧洲高等教育区内的多样化实施证明，即便在标准化压力下，大学仍然有强大的力量维持各自的运作方式。
 >
 > > 例：想象一所德国中型大学。它既要在 Bologna 框架下确保学位被欧洲各国承认（标准化压力），又坚持自己的考试制度和课程传统（制度惯性）。同时它加入了两个跨国联盟——一个是研究导向的 LERU，另一个是欧盟资助的欧洲大学联盟——在不同联盟中扮演不同角色。这就是 Amos 所说的"多层级地缘政治教育空间"：不是单一逻辑在运作，而是多种力量在同时拉扯。(pp.57–58)
 >

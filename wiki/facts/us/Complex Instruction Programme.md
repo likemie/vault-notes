@@ -13,9 +13,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1980s–至今"
 initiator_organization: "斯坦福大学教育研究生院（Stanford Graduate School of Education）、米什科尔茨大学、赫约凯赖斯图尔小学"
@@ -29,13 +29,16 @@ tags:
   - theme/research-practice-partnership
 related_concepts:
   - "[[Cooperative Learning]]"
+  - "[[School Desegregation]]"
   - "[[Learned Helplessness]]"
   - "[[Heterogeneity]]"
   - "[[Open-Mindedness]]"
   - "[[Problem Solving]]"
   - "[[Rote Learning]]"
   - "[[Feedback]]"
+  - "[[School Bullying]]"
   - "[[Self-Efficacy]]"
+  - "[[Inclusive Education]]"
   - "[[Construct Validity]]"
   - "[[Going Native]]"
   - "[[Research-Practice Partnership]]"
@@ -56,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -65,7 +68,7 @@ updated: 2026-10-22
 > 复合教学计划（Complex Instruction Programme，CIP）是由斯坦福大学教育研究生院社会学家伊丽莎白·G·科恩（Elizabeth G. Cohen）与雷切尔·A·洛坦（Rachel A. Lotan）教授创立的经典小组[[Cooperative Learning\|合作学习]]教学干预方案，旨在通过多维度智力任务、积极互赖规范与教师显性地位干预，消除异质课堂中因社会背景与过往学业等级造成的小组不平等互动；后经匈牙利赫约凯赖斯图尔小学结合本土弱势族裔教育深度改造，成为大学理论与中小学校本研发协同创新的典范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–215)]]
 
 > [!program-context] 项目背景
-> - **立项时间与理论源起** 20 世纪 80 年代发源于美国斯坦福大学，基于社会学“期望状态理论”（Expectation States Theory）与地位特征理论构建，重点解决学校种族融合与学业异质班级中弱势学童遭孤立边缘化的问题。
+> - **立项时间与理论源起** 20 世纪 80 年代发源于美国斯坦福大学，基于社会学“期望状态理论”（Expectation States Theory）与地位特征理论构建，重点解决[[School Desegregation|学校种族融合]]与学业异质班级中弱势学童遭孤立边缘化的问题。
 > - **跨国引进与本土化改造** 21 世纪初由匈牙利赫约凯赖斯图尔小学校长埃梅谢·K·纳吉（Emese K. Nagy）团队引入中东欧，联合米什科尔茨大学等高校研究团队，针对罗姆人（Roma）少数族裔聚集的高贫困乡村学校展开系统二次创新。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–215)]]
 > - **覆盖范围与规模** 在北美被广泛应用于双语与多元文化公立学校；在匈牙利本土化后辐射推广至全国近 200 所中小学校，成为国家公共教育系统认可的优质创新教学方案。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 > - **核心问题导向** 破解传统合作学习流于形式、高地位优等生独占发言权并主导成果、低地位弱势生陷入[[Learned Helplessness\|习得性无助]]并被同伴边缘化的结构性顽疾。
@@ -111,7 +114,7 @@ updated: 2026-10-22
 > [!indicators] 评估指标体系
 > - **过程互动指标** 低地位学童课堂举手发言率、小组内有效认知对话参与时长与同伴肯定率。
 > - **学业产出指标** 国家级标准化统考及格率、阅读理解与复杂数学[[Problem Solving\|问题解决]]增值分。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
-> - **社会情感指标** 班级同学间互选接纳度、降低校园欺凌发生率与提升弱势学生学业[[Self-Efficacy\|自我效能感]]。
+> - **社会情感指标** 班级同学间互选接纳度、降低[[School Bullying|校园欺凌]]发生率与提升弱势学生学业[[Self-Efficacy\|自我效能感]]。
 
 > [!finding-cards] 核心实证结论
 > - **显著打破班级社会地位分层** 实证表明，持续实施 CIP 能根本性扭转优等生垄断课堂发言的局面，使边缘处境学童的认知参与度达到与同伴对等的水平。
@@ -121,7 +124,7 @@ updated: 2026-10-22
 > [!stat-cards]- 关键规模数据
 > - **≈200** （所） 匈牙利公立中小学推广并稳定采纳 CIP 教学模式的校数规模。
 > - **3** （支柱） 斯坦福团队奠定的多能力任务、角色轮换与地位干预核心操作构件。
-> - **40+ yr** 该教学方案在跨国多元文化与弱势群体融合教育中接受实证检验的历史时间。
+> - **40+ yr** 该教学方案在跨国多元文化与弱势群体[[Inclusive Education|融合教育]]中接受实证检验的历史时间。
 
 ---
 

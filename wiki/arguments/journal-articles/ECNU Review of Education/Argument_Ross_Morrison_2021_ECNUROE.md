@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_key: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -33,8 +33,10 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Logic Model]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Personalized Learning]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
+  - "[[Screen Time]]"
   - "[[Classroom Management]]"
   - "[[Formative Assessment]]"
   - "[[Class Size]]"
@@ -67,7 +69,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2021
 doi: ""
 citation_aliases:
@@ -105,7 +107,7 @@ citation_aliases:
 
 4. 但正式证据标准通常把“有效”理解为：在严格控制的[[Experimental Research|实验研究]]中，对学生成就产生统计显著的正向效果。这使很多地方上有价值的结果被排除在证据视野之外。
 
-5. [[Technology Infusion|技术融入]]和其他补充性项目尤其容易遇到这个问题。它们每周使用时间可能很有限，很难在短期内让标准化测验成绩显著上升；但它们可能改善学生动机、释放教师个别辅导时间、增加个性化学习活动，或提升技术接入公平。
+5. [[Technology Infusion|技术融入]]和其他补充性项目尤其容易遇到这个问题。它们每周使用时间可能很有限，很难在短期内让标准化测验成绩显著上升；但它们可能改善学生动机、释放教师个别辅导时间、增加[[Personalized Learning|个性化学习]]活动，或提升技术接入公平。
 
 > [!example] 例子
 > 一个数学练习平台每周只用两小时。它可能让学生更愿意练习、让教师更快发现谁卡在分数运算上，但如果期末统一测验还主要受核心教材、教师水平和家庭背景影响，平台很可能无法单独显示出显著成就增益。
@@ -127,7 +129,7 @@ citation_aliases:
 
 10. 学校系统不是封闭实验室，而是由管理者、教师、学生、家长、社区和学校董事会共同作用的复杂组织。同一项目会穿过课程、问责政策、组织基础设施、领导更替和社区压力等多重过滤器，所以“项目是否有效”并不会只有一个自然答案。
 
-11. 这一步是文章从方法论批评转向解释学问题的关键：证据不只是被“发现”，也会被不同利益相关者“解释”。同一项改革可以被教师理解为教学支持，被家长理解为屏幕时间增加，被董事会成员理解为预算选择。
+11. 这一步是文章从方法论批评转向解释学问题的关键：证据不只是被“发现”，也会被不同利益相关者“解释”。同一项改革可以被教师理解为教学支持，被家长理解为[[Screen Time|屏幕时间]]增加，被董事会成员理解为预算选择。
 
 > [!example] 例子
 > 同一个平板电脑项目，技术部门看到的是设备接入率，教师看到的是[[Classroom Management\|课堂管理]]压力，家长看到的是孩子在屏幕前的时间，学区领导看到的是公平配置资源。每个人都在看“证据”，但关心的证据不是同一种。

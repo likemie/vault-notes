@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学史编纂批判概念，指学科为确立自身存在与制度合法性，将特定历史人物、标志性演讲或文本神圣化为起源图腾的社会建构机制，常伴随对历史复杂性与理论混淆的遮蔽。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
   - theme/sociology-of-knowledge
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Scientific Credit]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Avatar]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-29
 
 > [!boundary]- 概念边界
 > - **不等于学术思想史（Intellectual History）** 思想史旨在还原思想生成的具体历史脉络、论争语境与概念流变；学科肖像学则侧重批判学科为满足自身建制与正统性需求而人为固定、拔高的象征符号。
-> - **不等于学科客观声誉（Academic Reputation）** 学术声誉基于学术界同行的实质性学术承认；学科肖像学侧重揭示象征符号被神圣化背后的权力建构与传统发明。
+> - **不等于学科客观声誉（Academic Reputation）** 学术声誉基于学术界同行的实质性[[Scientific Credit|学术承认]]；学科肖像学侧重揭示象征符号被神圣化背后的权力建构与传统发明。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Civic Rituals]]"
   - "[[Cosmopolitanism]]"
   - "[[Enlightenment]]"
+  - "[[Document]]"
   - "[[One Country, Two Systems]]"
   - "[[Technological Republic]]"
   - "[[Everyday Plebiscite]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-26
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）于 1983 年出版奠基著作《想象的共同体：民族主义的起源与散布》（*Imagined Communities: Reflections on the Origin and Spread of Nationalism*）。
 > - **原初问题** 面对 20 世纪 70 年代末社会主义国家之间的武装冲突（如中越战争、柬越战争），既有的自由主义与马克思主义阶级理论均无法合理解释民族主义展现出的强大情感动员力与牺牲意愿。
-> - **理论资源与材料** 欧洲[[Enlightenment|启蒙运动]]、神圣宗教共同体与王权王朝的衰落史料、东南亚殖民地行政与教育巡游档案、拉丁美洲土生白人（Creole）先驱的印刷报刊与民族独立运动文献。
+> - **理论资源与材料** 欧洲[[Enlightenment|启蒙运动]]、神圣宗教共同体与王权王朝的衰落史料、东南亚殖民地行政与教育巡游档案、拉丁美洲土生白人（Creole）先驱的印刷报刊与民族独立运动[[Document|文献]]。
 > - **形成路径** 安德森结合资本主义印刷出版物的大规模流通与近代语言标准化，揭示出“小说”与“报纸”如何创造出在均匀、空洞时间中并进的“同时性”体验，进而将民族论证为一种在心理与文化层面被想象出来的有限主权共同体。
 
 > [!dev-timeline] 理论演变与跨学科扩展

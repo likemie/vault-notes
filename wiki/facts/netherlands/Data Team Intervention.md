@@ -11,7 +11,7 @@ subtype: program
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Data-Based Decision Making]]"
   - "[[Grade Retention]]"
+  - "[[Teacher Collaboration]]"
   - "[[Data Literacy]]"
   - "[[Empiricism]]"
   - "[[School Leadership]]"
@@ -57,7 +58,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心干预／机制假说
-> 项目假定：通过外部大学研究教练的结构化支架，引导跨层级教师团队经历八步严谨探究规程，能够将学校原始数据转化为深层归因信息并重塑教师协作文化，从而显著提升教师的[[Data Literacy\|数据素养]]与教学效能，最终带动学生学业成果改善。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
+> 项目假定：通过外部大学研究教练的结构化支架，引导跨层级教师团队经历八步严谨探究规程，能够将学校原始数据转化为深层归因信息并重塑[[Teacher Collaboration|教师协作]]文化，从而显著提升教师的[[Data Literacy\|数据素养]]与教学效能，最终带动学生学业成果改善。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 破除[[Empiricism\|经验主义]]盲目摸索，提升教师多源数据质检与实证成因归因能力，建立数据知情的校本持续改进循环。

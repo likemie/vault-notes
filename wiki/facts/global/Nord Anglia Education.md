@@ -12,7 +12,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -44,13 +44,14 @@ related_persons:
 related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[UNICEF]]"
+  - "[[National Education]]"
   - "[[GEMS Education]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-22
 
 > [!indicators] 影响力维度与比较教育启示
 > - **从本土公共服务外包到全球资本输出** 比奇揭示了教育市场化的跨国溢出路径：国内[[New Public Management|新公共管理]]与 [[Public-Private Partnership|PPP]] 改革孵化了高度专业化的营利性教育实体，这些实体随后摆脱对本国单一财政的依赖，反向出海重构全球教育版图。
-> - **超国家精英空间对民族[[State Educational Sovereignty|国家教育主权]]的蚕食** 诺德安达构建的全球连锁学校系统使富裕阶层子女彻底与驻在国的公共国民教育体系解耦，依托全球通用资格认证进入世界顶尖大学，成为休·劳德所述全球阶级再生产的物理容器。
+> - **超国家精英空间对民族[[State Educational Sovereignty|国家教育主权]]的蚕食** 诺德安达构建的全球连锁学校系统使富裕阶层子女彻底与驻在国的公共[[National Education|国民教育]]体系解耦，依托全球通用资格认证进入世界顶尖大学，成为休·劳德所述全球阶级再生产的物理容器。
 > - **[[Pluri-Scalar Governance|多标度治理]]视角下的企业行动者崛起** 证明在[[Pluri-Scalar Governance|多标度教育治理]]格局中，政策创制与实施的主体已从传统的主权国家政府、双边外交渠道扩展至具备强大资本游说与课程打包能力的营利性企业。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 
 ---

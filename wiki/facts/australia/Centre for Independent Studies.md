@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Progressive Education]]"
   - "[[Initial Teacher Training]]"
+  - "[[Document]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-15
 > [!timeline] 机构发展与关键活动
 > - 1976 成立，开始通过出版物、公共论坛和[[Policy Network\|政策网络]]，长期倡导自由市场与保守主义经济及社会政策大纲。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
 > - 2021 出资赞助并出版了教育心理学家 [[John Sweller]] 撰写的 Analysis Paper 24《为什么[[Inquiry-Based Learning\|探究式学习]]有害学生学习》，作为攻击[[Progressive Education\|进步主义教育]]大纲的游说手册。
-> - 2023 其资助出版的研究报告（Sweller, 2021）通过人事交叉通道（巴金汉的双重身份）被直接吸纳并强制嵌入联邦《强劲开端》报告附录D中，上升为法定[[Initial Teacher Training\|初始教师教育]]（ITE）认证核心课程的指定参考文献。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
+> - 2023 其资助出版的研究报告（Sweller, 2021）通过人事交叉通道（巴金汉的双重身份）被直接吸纳并强制嵌入联邦《强劲开端》报告附录D中，上升为法定[[Initial Teacher Training\|初始教师教育]]（ITE）认证核心课程的指定参考[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
 
 ---
 

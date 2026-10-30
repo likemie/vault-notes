@@ -38,7 +38,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-10-27
 
 > [!finding-cards] 核心实证结论
 > - **首次试验的测验敏感度** 首次试验的阶段末数学测验未检测到相应优势；评估摘要提出，测验敏感度及所覆盖内容的差别可能影响结果。[首次评估结论](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber)
-> - **免费校餐资格学生** 第二次试验为进一步考察享有[[Free School Meals|免费校餐]]资格的学生而开展。
+> - **[[Free School Meals|免费校餐]]资格学生** 第二次试验为进一步考察享有[[Free School Meals|免费校餐]]资格的学生而开展。
 > - **第二次试验的报告口径** 第二次试验的评估摘要未注明[[Effect Size|效应量]]类型及各行显著性检验信息。[第二次评估摘要](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial)
 
 ---

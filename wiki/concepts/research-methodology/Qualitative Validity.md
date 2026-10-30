@@ -6,10 +6,10 @@ aliases:
 summary: "质性研究中研究者通过特定程序检查研究发现准确性的标准，与量化效度、信度和推广度的含义不同"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - qualitative-research
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[External Validity]]"
+  - "[[Document]]"
   - "[[Trustworthiness]]"
   - "[[Evaluation Research]]"
   - "[[Rich and Thick Description]]"
@@ -42,11 +43,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 质性效度（Qualitative Validity）是指研究者通过采用特定程序来检查研究发现准确性的标准。它在[[Qualitative Research\|质性研究]]中的含义与[[Quantitative Research\|量化研究]]不同，也不是[[Reliability\|信度]]（考察稳定性）或推广度（将结果应用于新情境、人群或样本的[[External Validity\|外部效度]]）的对应物。质性文献中存在大量讨论效度的术语，如可信度（[[Trustworthiness]]）、真实性（authenticity）和可信性（credibility）（Creswell & Miller, 2000; Lincoln et al., 2011）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.213）。
+> 质性效度（Qualitative Validity）是指研究者通过采用特定程序来检查研究发现准确性的标准。它在[[Qualitative Research\|质性研究]]中的含义与[[Quantitative Research\|量化研究]]不同，也不是[[Reliability\|信度]]（考察稳定性）或推广度（将结果应用于新情境、人群或样本的[[External Validity\|外部效度]]）的对应物。质性[[Document|文献]]中存在大量讨论效度的术语，如可信度（[[Trustworthiness]]）、真实性（authenticity）和可信性（credibility）（Creswell & Miller, 2000; Lincoln et al., 2011）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.213）。
 
 效度被认为是质性研究的优势之一，其基础是确定研究发现在研究者、参与者或读者看来是否准确（Creswell & Miller, 2000; 引自 Creswell & Creswell, 2022, Ch9）。
 

@@ -10,9 +10,9 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/china
@@ -33,12 +33,13 @@ related_persons:
 related_facts:
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 背景
@@ -63,7 +64,7 @@ updated: 2026-10-22
 > 以蒋琦等人为代表，认为新教育对旧教育应是"修正而非对立，演进而非原创"（Jiang Qi 1919, pp.358–359）。教育进步应以解决实际社会经济问题为前提，教育改革必须结合实情。
 
 > [!success] 影响与后果
-> - 推动了 1922 年学制改革，废除了民国元年的固定教育宗旨（"重道德、实利、军国民教育"），代之以七项灵活标准([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
+> - 推动了 1922 年学制改革，废除了民国元年的固定教育宗旨（"重道德、实利、军[[National Education|国民教育]]"），代之以七项灵活标准([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 > - 使 [[John Dewey\|杜威]]的儿童中心教学法和课程整合思想进入中国教育实践，如 1923 年课程引入学分制、将历史、地理、公民、卫生合并为"社会"科([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.618]])。
 > - 1923 年后从"民主"原则转向"[[Scientific Attitude\|科学态度]]"，为民国教育从激进变革转向国情优先的渐进路线提供了过渡机制([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.619–621]])。
 

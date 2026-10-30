@@ -21,6 +21,7 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
@@ -52,16 +53,16 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book
 title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 journal: ""
@@ -88,7 +89,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > 采用实践导向的综述与案例分析，非实证研究。方法包括：
-> - 对国际 UI 合作文献和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership\|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
+> - 对国际 UI 合作[[Document|文献]]和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership\|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
 > - 一手实践经验来源于 Mars（Wolf and Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
 > - 三个[[Case Study\|案例研究]]：水稻干湿交替灌溉（Alternate Wetting and Drying, AWD）、[[African Orphan Crops Consortium\|非洲孤儿作物联盟]]（African Orphan Crops Consortium, AOCC）、[[Innovation Institute for Food and Health\|食品与健康创新研究所]]（Innovation Institute for Food and Health, IIFH）
 

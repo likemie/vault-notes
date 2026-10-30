@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Massive Open Online Courses]]"
   - "[[Experiential Learning]]"
   - "[[Distance Education]]"
+  - "[[Document]]"
   - "[[Flipped Classrooms]]"
   - "[[Homework]]"
   - "[[Cognitive Authority]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 # Open Learning Campus
@@ -103,7 +104,7 @@ updated: 2026-10-23
 > [!dev-timeline] 项目推进历程
 > - **2000–2012 — [[Distance Education|远程教育]]网络与电子学院探索期** 依托[[Global Development Learning Network|全球发展学习网络]]（GDLN）与电子学院（e-Institute）开展小范围视频连线研修。
 > - **2013–2016 — OLC 平台创设与名校生态拓展期** 2013 年正式挂牌 OLC，接入 Coursera 与 edX 生态，开设百余门教育与治理微课程。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 8)]]
-> - **2016–至今 — 云端泛在学习与微证书常态化运行期** 2016 年全行发布新版 OLC，深度联动[[Open Knowledge Repository|开放知识库]]文献与[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）诊断案例，构建全天候数字化培训生态。
+> - **2016–至今 — 云端泛在学习与微证书常态化运行期** 2016 年全行发布新版 OLC，深度联动[[Open Knowledge Repository|开放知识库]][[Document|文献]]与[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）诊断案例，构建全天候数字化培训生态。
 
 ---
 
@@ -173,7 +174,7 @@ updated: 2026-10-23
 > | [[School Autonomy]] | 概念 | OLC 在线研修微课程中重点讲授的核心政策处方之一。 |
 > | [[Epistemic Governance]] | 概念 | OLC 依托专业培训实施认知规训与社会化的[[Analytic Framework\|理论分析框架]]。 |
 > | [[Cognitive Authority]] | 概念 | OLC 通过学术认证与专家培训确立的世界银行教育[[Discourse\|话语]]权威。 |
-> | [[Open Knowledge Repository]] | 项目事实 | OLC 课程教学参考资料与文献的主要数字仓储来源。 |
+> | [[Open Knowledge Repository]] | 项目事实 | OLC 课程教学参考资料与[[Document\|文献]]的主要数字仓储来源。 |
 
 ---
 

@@ -46,10 +46,10 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Yutori Education]]"
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
+  - "[[Yutori Education]]"
   - "[[National Institute for Educational Policy Research]]"
   - "[[National Education]]"
   - "[[Cram Schools]]"
@@ -59,13 +59,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定性
-> 日本 [[PISA]] 震荡（PISAショック, [[PISA Shock]] in Japan）特指 2004 年底与 2007 年底[[OECD|经济合作与发展组织]]（OECD）公布国际学生评估项目（PISA 2003 与 PISA 2006）测试结果后在日本社会、教育学界与政界引爆的全国性危机论战与政策转向。不同于德国对体制和组织层面的震荡重构，日本的 PISA 震荡在教育政策社会学上属于典型的**政策背书 × 范围广**形态：[[Ministry of Education, Culture, Sports, Science and Technology|文部科学省]]与保守派政界将跨国测评数据武器化，借此克服阻力全面终结 1980 年代以来的[[Yutori Education|“宽松教育”]]（ゆとり教育），取消综合学习时间、恢复周六排课并增加教材厚度与课时；同时在课程[[Construct|构念]]上吸纳 PISA 读解力，确立“扎实学力”（確かな学力）标准并恢复全国学力调查。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
+> 日本 [[PISA]] 震荡（PISAショック, [[PISA Shock]] in Japan）特指 2004 年底与 2007 年底[[OECD|经济合作与发展组织]]（OECD）公布国际学生评估项目（PISA 2003 与 PISA 2006）测试结果后在日本社会、教育学界与政界引爆的全国性危机论战与政策转向。不同于德国对体制和组织层面的震荡重构，日本的 PISA 震荡在教育政策社会学上属于典型的**政策背书 × 范围广**形态：[[Ministry of Education, Culture, Sports, Science and Technology|文部科学省]]与保守派政界将跨国测评数据武器化，借此克服阻力全面终结 1980 年代以来的“[[Yutori Education|宽松教育]]”（ゆとり教育），取消综合学习时间、恢复周六排课并增加教材厚度与课时；同时在课程[[Construct|构念]]上吸纳 PISA 读解力，确立“扎实学力”（確かな学力）标准并恢复全国学力调查。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2003 年底测试至 2008 年新指导要领颁布，深远影响日本全国基础教育学制与[[Ministry of Education, Culture, Sports, Science and Technology|文部科学省]]（MEXT）政策。

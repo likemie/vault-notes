@@ -8,7 +8,7 @@ aliases:
 summary: "由帕特丽夏·布罗姆利等学者基于全球147国6700项教育改革大数据计量证实、并在施泰纳-哈姆西报告中用于诊断证据利用转型的宏观理论构念，揭示全球新自由主义教育改革浪潮在2000年前后达峰并在2017年前后陷入停滞的全球现象，解释了国际多边组织近年来从倡导自上而下宏观制度立法转向投资中观与基层学校创新规模化的治理转向。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Institutional Exhaustion]]"
   - "[[Construct]]"
   - "[[Absorptive Capacity]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Paradigm]]"
   - "[[Washington Consensus]]"
   - "[[Fast and Slow Lanes Model]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -69,7 +68,7 @@ updated: 2026-10-26
 
 > [!feature] 核心表现特征
 > - **宏观立法趋同停滞** 国家教育部委对外部输入的宏观改革模板产生审美疲劳，纯粹宣布宏观指标的法案出台频次显著回落。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
-> - **末梢[[Absorptive Capacity|吸收能力]]过载与制度脱节** 一线学校与教师面对重叠累加的外部评估指标产生疲态，形式合规与实际课堂实践之间出现明显的制度脱节（[[Cognitive Decoupling|Decoupling]]）。
+> - **末梢[[Absorptive Capacity|吸收能力]]过载与制度脱节** 一线学校与教师面对重叠累加的外部评估指标产生疲态，形式合规与实际课堂实践之间出现明显的制度脱节（Decoupling）。
 > - **治理需求向中观规划层转移** 政策研究需求从部长的立法听证，下沉至督导员、教研员与学区长（meso-level officials）的具体实施与干预落地支持。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 17)]]
 
 ---

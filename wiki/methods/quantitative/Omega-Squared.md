@@ -7,7 +7,7 @@ summary: "方差分析中用于估计自变量解释总体方差比例的无偏�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Effective Sample Size]]"
   - "[[Interaction Effect]]"
 related_theories: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-29
 > **欧米茄平方（Omega-Squared, $\omega^2$）** 是在单因素或多因素[[Analysis of Variance\|方差分析]]（Analysis of Variance, ANOVA）中用于度量分类[[Independent Variable\|自变量]]（自[[Variable\|变量]]处理或分组）解释连续[[Dependent Variable\|因变量]]总变异比例的总体[[Effect Size\|效应量]]估计量。由统计学家威廉·海斯（William L. Hays, 1963）系统提出，它通过从组间平方和中扣除由随机误差引起的变异，有效克服了传统样本决定系数 Eta-Squared（$\eta^2$）在小样本或多组设计中系统性高估总体效应的样本偏倚。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 27)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 实验设计、准[[Experimental Research\|实验研究]]或[[Questionnaire\|问卷调查]]中的组间均值比较数据（方差分析模型）。
+> - **研究对象** [[Experimental Research|实验设计]]、准[[Experimental Research\|实验研究]]或[[Questionnaire\|问卷调查]]中的组间均值比较数据（方差分析模型）。
 > - **问题类型** 因果效应强度估计、组间差异实际重要性评估、总体方差贡献率测度。
 > - **[[Unit of Analysis\|分析单位]]** 包含分类自变量分组标签与连续因变量得分的观测个体（如学生、教师、学校）。
 > - **输出形式** 介于 $0$ 到 $1$ 之间的无量纲连续比例统计量（若计算值为负则通常约定截断为 $0$），表示因变量总体方差中可归因于自变量处理的净百分比。
@@ -104,7 +105,7 @@ updated: 2026-10-29
 > - $k$ 为[[Independent Variable\|自变量]]水平数（组别数）。
 
 > [!formula-step] 公式推导二　基于 $F$ 检验统计量与自由度的等价表达
-> 在发表文献中，若仅报告了方差分析检验统计量 $F$ 值与自由度，可直接通过下式换算 $\omega^2$：
+> 在发表[[Document|文献]]中，若仅报告了方差分析检验统计量 $F$ 值与自由度，可直接通过下式换算 $\omega^2$：
 > $$\omega^2 = \frac{df_{\text{between}}(F - 1)}{df_{\text{between}}(F - 1) + N}$$
 > 其中 $N$ 为全样本总[[Effective Sample Size\|有效样本量]]。
 > 当 $F < 1$ 时，分子为负数，代数计算结果为负值，在实证报告中通常截断记录为 $\omega^2 = .00$。

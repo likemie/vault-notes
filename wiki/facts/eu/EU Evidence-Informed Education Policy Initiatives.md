@@ -11,10 +11,10 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 49
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 51
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: "[[European Commission]]"
 tags:
   - region/eu
@@ -58,7 +58,9 @@ related_persons: []
 related_facts:
   - "[[EU]]"
   - "[[European Commission]]"
+  - "[[European Education Area]]"
   - "[[Eurydice]]"
+  - "[[Education and Training 2020]]"
   - "[[EPPI-Centre]]"
   - "[[Education Endowment Foundation]]"
   - "[[Danish Clearinghouse for Educational Research]]"
@@ -79,14 +81,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年起由[[EU|欧洲联盟]]委员会（[[European Commission]]）与欧洲联盟理事会（Council of the European Union）陆续发布系列政策结论与工作文件([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26, 28]])。
-> - **适用地区 / 对象** 覆盖欧盟 27 个成员国及欧洲经济区（EEA）主权国家教育体系，涵盖各级教育决策部门、大学研究机构、国家级证据中介与一线学校。
+> - **适用地区 / 对象** 覆盖欧盟 27 个成员国及欧洲经济区（[[European Education Area|EEA]]）主权国家教育体系，涵盖各级教育决策部门、大学研究机构、国家级证据中介与一线学校。
 > - **问题背景** 欧洲各成员国在研究成果转化、循证评价能力以及跨国证据流转上存在深刻的数字与制度鸿沟；分散零碎的国家级倡议缺乏跨欧洲协同，难以应对复杂教育不平等与技能危机。
 > - **制度位置与治理属性** 依据[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle），教育主权归属于各成员国；因此欧盟层面的证据政策并非单一强制性法案，而是通过开放协调机制（[[Open Method of Coordination]], OMC）施加软治理（Soft Governance），提供非强制的指导指引、监测基准与跨国中介资助网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 28]])。
 
@@ -113,7 +115,7 @@ updated: 2026-10-26
 > [!dev-timeline] [[EU|欧盟]]证据知情政策演化历程
 > - **2006 — 评价文化与效率公平倡议** 欧洲理事会春季结论强调建立系统评价文化；发布《欧洲教育与培训体系的效率与公平》，强调提炼与传播最佳实证实践的重要性([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 28]])。
 > - **2007 — 确立[[Knowledge Mediation\|知识中介]]三维框架** 欧洲委员会发布标志性工作文件《迈向教育与培训中更多基于知识的政策与实践》，正式确立知识创造、知识应用与知识中介的三维分析[[Paradigm\|范式]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 29]])。
-> - **2009–2015 — “教育与培训 2020”（ET 2020）框架** 将周期性指标监测与证据分析确立为实现欧盟教育战略目标的核心支撑机制。
+> - **2009–2015 — “[[Education and Training 2020|教育与培训 2020]]”（ET 2020）框架** 将周期性指标监测与证据分析确立为实现欧盟教育战略目标的核心支撑机制。
 > - **2010–2011 — EIPEE 先导项目资助** 欧盟委员会正式出资启动“欧洲教育证据知情政策项目”（EIPEE），由伦敦大学学院 [[EPPI-Centre]] 等牵头，系统摸排欧洲连接科研与决策的既有中介活动([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 58]])。
 > - **2011–2013 — EIPPEE 跨国网络全面扩容** 官方项目拓展为涵盖学校实践维度的“欧洲教育证据知情政策与实践项目”（EIPPEE），汇聚来自 23 个国家的 36 家学术与中介机构及 7 家国际附属机构，建成全欧最大的教育证据协同网络([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67]])。
 > - **2013–2020 — 自发性专业共同体转型与跨国元中介运作** 官方资助期满后，该网络转型为独立的自发性专业共同体（EIPPEE Network），依托分轨工作坊机制持续运转至 2020 年，成为国际[[Knowledge Mobilisation\|知识动员]]元治理的经典范例([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 67–68]])。

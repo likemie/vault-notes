@@ -8,7 +8,7 @@ summary: "荷兰特温特大学讲席教授、欧洲科学院院士、国际著�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,12 +25,14 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Co-Teaching]]"
   - "[[Paradigm]]"
   - "[[Discovery Learning]]"
   - "[[Scaffolding]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Epistemic Agency]]"
+  - "[[Document]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -38,7 +40,6 @@ related_theories:
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[EU]]"
 related_methods: []
 related_persons:
@@ -46,14 +47,14 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 荷兰特温特大学（University of Twente）教学技术与学习科学杰出讲席教授，欧洲[[Chinese Academy of Sciences|科学院]]院士（Member of Academia Europaea），国际学习科学学会（ISLS）会士与前理事会成员。
-> - **核心角色** 国际技术增强科学探究（Technology-Enhanced Inquiry Learning）与[[Computer Simulation\|虚拟仿真]]实验领域的领军学者。他长期专注于计算机微世界中学生科学发现推理规律、多媒体认知负荷调控与自适应支架体系研发；主持发起了欧洲规模最大的虚拟实验室生态圈 Go-Lab（及其后续项目 Next-Lab 与 Go-Ga）；在[[Direct Instruction\|直接教学]]与探究教学长达数十年的国际论争中，他是科学[[Inquiry-Based Learning\|指导式探究]]的领衔辩护人与协同教学[[Paradigm\|范式]]的构建者。
+> - **身份位置** 荷兰特温特大学（University of Twente）教学技术与学习科学杰出讲席教授，欧洲科学院院士（Member of Academia Europaea），国际学习科学学会（ISLS）会士与前理事会成员。
+> - **核心角色** 国际技术增强科学探究（Technology-Enhanced Inquiry Learning）与[[Computer Simulation\|虚拟仿真]]实验领域的领军学者。他长期专注于计算机微世界中学生科学发现推理规律、多媒体认知负荷调控与自适应支架体系研发；主持发起了欧洲规模最大的虚拟实验室生态圈 Go-Lab（及其后续项目 Next-Lab 与 Go-Ga）；在[[Direct Instruction\|直接教学]]与探究教学长达数十年的国际论争中，他是科学[[Inquiry-Based Learning\|指导式探究]]的领衔辩护人与[[Co-Teaching|协同教学]][[Paradigm\|范式]]的构建者。
 > - **代表贡献** 开创“多媒体环境中的[[Discovery Learning\|引导式发现]]学习原则”（Guided Discovery Principle）；主持构建欧洲 Go-Lab 在线探究学习生态平台；领衔发表 2023 年里程碑综述《Let’s talk evidence》，系统反驳直接教学绝对优越论。
 
 > [!citation-card] 人物定位的关键来源
@@ -89,7 +90,7 @@ updated: 2026-10-22
 > [[Inquiry-Based Learning\|探究式教学]]与[[Direct Instruction\|直接教学]]绝非水火不容的二元对立。无指导的[[Discovery Learning\|纯发现学习]]固然违背认知负荷规律，但剥夺了学生试错与[[Epistemic Agency\|认识能动性]]的纯直接灌输同样无法达成抗遗忘的深层理解。教学设计的最优路径是将精心设计的[[Scaffolding\|认知支架]]与虚拟微世界深度整合，让学生在有结构约束的环境中体验探索与挫折，并在最适宜的时机精准嵌入直接讲授，实现两种取向的功能互补与时序协同。
 
 > [!citation-card] 论探究教学与直接教学的功能互补性
-> 文献全面且正确地证明，对于获取概念性知识而言，指导式探究教学在总体成效上显著优于单一直接教学。最成功的教学实践往往是将探究置于中心，并在适当时机伴随教师精准的直接解释与模型整合。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 1)]]
+> [[Document|文献]]全面且正确地证明，对于获取概念性知识而言，指导式探究教学在总体成效上显著优于单一直接教学。最成功的教学实践往往是将探究置于中心，并在适当时机伴随教师精准的直接解释与模型整合。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 1)]]
 >
 > *A more complete and correct interpretation of the literature demonstrates that inquiry-based instruction produces better overall results for acquiring conceptual knowledge than does direct instruction... particularly when students' investigations are supplemented with direct instruction at appropriate junctures.*
 

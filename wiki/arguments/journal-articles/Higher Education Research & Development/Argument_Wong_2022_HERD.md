@@ -12,7 +12,7 @@ title: "Argument_Wong_2022_HERD"
 argument_key: "Argument_Wong_2022_HERD"
 argument_display_title: "A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Discourse]]"
   - "[[Lifelong Learning]]"
+  - "[[Time Management]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
   - "[[Research Literacy]]"
@@ -45,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -73,7 +74,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - UK 大学毕业生的四大特质[[Discourse|话语]]：
->   1. **自我意识与[[Lifelong Learning\|终身学习]]**（89% 大学）：批判性自我意识、情商、适应性、有效沟通、组织与时间管理
+>   1. **自我意识与[[Lifelong Learning\|终身学习]]**（89% 大学）：批判性自我意识、情商、适应性、有效沟通、组织与[[Time Management|时间管理]]
 >   2. **[[Employability\|就业能力]]与专业发展**（75%）：团队合作、领导力、专业知识与商业意识
 >   3. **[[Global Citizenship\|全球公民]]与参与**（70%）：社会与公民责任、平等多元包容、人际技能、环境意识
 >   4. **学术与[[Research Literacy\|研究素养]]**（66%）：学术读写能力、研究[[Procedural Knowledge\|程序知识]]与应用、[[Critical Thinking\|批判性思维]]、伦理责任

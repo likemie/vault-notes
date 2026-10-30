@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_display_title: "Research Methods in Education · Ch15"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Student Attitude]]"
   - "[[Effective Teaching]]"
+  - "[[Document]]"
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
   - "[[Research Purpose]]"
   - "[[Single-sex Schools]]"
@@ -70,7 +71,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-26
+updated: 2026-10-30
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -269,7 +270,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > | 维度 | 因果-比较设计 | 历史设计 |
 > |---|---|---|
 > | 时间焦点 | 关注当前事件 | 追溯过去事件的历史 |
-> | 数据性质 | 可直接观察和访谈当前参与者 | 依赖档案、文献和二手记录 |
+> | 数据性质 | 可直接观察和访谈当前参与者 | 依赖档案、[[Document\|文献]]和二手记录 |
 > | 与研究对象的关系 | 研究者可接触活着的当事人 | 研究者与研究对象之间存在时间距离 |
 > | 核心任务 | 比较当前组别差异，逆向搜索原因 | 基于史料重建过去情境和因果脉络 |
 

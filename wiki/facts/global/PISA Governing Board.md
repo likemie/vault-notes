@@ -12,7 +12,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,8 +29,10 @@ related_concepts:
   - "[[Test Production]]"
   - "[[Reliability]]"
   - "[[Total War]]"
+  - "[[Deliberative Space]]"
   - "[[Competitiveness]]"
   - "[[Performance Indicators]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Back Translation]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +112,7 @@ updated: 2026-10-22
 > [!debates] 核心争议交锋
 >
 > > [!axis] 技术官僚封闭性与教育民主问责争议
-> > 批评学者关注 PGB 闭门治理对一线学校、教师与公众审议空间的挤压。
+> > 批评学者关注 PGB 闭门治理对一线学校、教师与公众[[Deliberative Space|审议空间]]的挤压。
 > >
 > > - **批评视角** PGB 的闭门协商主要由[[OECD|经合组织]]官僚与各国教育部高级技术官僚主导，将复杂的教育价值取向窄化为以经济[[Competitiveness|竞争力]]为导向的技术性指标，缺乏一线教育专业人员与公众的充分参与。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 198, 203)]]
 > > - **机构立场** 坚持由参测国官方代表组成管理委员会是保障主权国家利益、维护测试国际公信力与数据安全性的最佳制度安排。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
@@ -126,4 +128,4 @@ updated: 2026-10-22
 > | [[International Indicators of Education Systems]] | Fact (Program) | BPC 创立之初所依托的母体[[Performance Indicators\|教育指标]]研发网络。 |
 > | [[Australian Council for Educational Research]] | Fact (Organization) | 接受 PGB/BPC 选拔与监管的 PISA 技术总承包联合体牵头机构。 |
 > | [[Test Production]] | Concept | PGB 在试题研发早期阶段确立跨国教育评价标准的关键治理实践。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 系统考证 BPC 设立与升格为 PGB 的官僚行政架构演进及其合法性支撑机制的权威文献。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 系统考证 BPC 设立与升格为 PGB 的官僚行政架构演进及其合法性支撑机制的权威[[Document\|文献]]。 |

@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - theme/history-of-computing
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
+  - "[[Document]]"
   - "[[Brainstorming]]"
   - "[[Paradigm]]"
   - "[[Artificial General Intelligence]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 会议推进历程
-> - **1955-08 — 会议提案起草** 麦卡锡等人向洛克菲勒基金会提交资助申请书，首次在学术文献中正式提出“人工智能”（[[Generative Artificial Intelligence|Artificial Intelligence]]）概念。
+> - **1955-08 — 会议提案起草** 麦卡锡等人向洛克菲勒基金会提交资助申请书，首次在学术[[Document|文献]]中正式提出“人工智能”（[[Generative Artificial Intelligence|Artificial Intelligence]]）概念。
 > - **1956-07–08 — 研讨会举行** 十余位数学家、神经科学家与工程师展开为期两个月的密集[[Brainstorming|脑力激荡]]，展示了世界上第一个运行的符号人工智能程序“逻辑理论家”（Logic Theorist）。
 > - **1957–1960 — 乐观预言与学科扩散** 会后以西蒙为代表的先驱乐观预测计算机将在 10 年内击败国际象棋冠军、在 20 年内胜任人类能做的一切工作，引发了战后第一波人工智能研究浪潮与国家资助。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 25–26)]]
 

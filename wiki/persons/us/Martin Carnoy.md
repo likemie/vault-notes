@@ -7,7 +7,7 @@ summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
   - "[[Analytical Stance]]"
+  - "[[School Vouchers]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
   - "[[Champ]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论路径** 开创了教育政治经济学分析[[Paradigm|范式]]，将新马克思主义[[Dependency Theory|依附论]]、调节学派与国家相对自主性理论融汇于教育研究，直接启迪了托雷斯、[[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple）与[[Stephen Ball|斯蒂芬·鲍尔]]等几代[[Critical Pedagogy|批判教育学]]者。
 > - **方法路径** 倡导将宏观政治经济学制度溯源与严格的定量计量模型相结合，展示了[[Analytical Stance|批判立场]]如何与扎实数据并存，破除了批判教育学“只思辨不实证”的学科偏见。
-> - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、教育券与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
+> - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、[[School Vouchers|教育券]]与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。

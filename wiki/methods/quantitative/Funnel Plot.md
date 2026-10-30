@@ -7,7 +7,7 @@ summary: "元分析中以效应量为横轴、研究精度（标准误或样本�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Artefact]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-29
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过散点空间几何分布对称性，快速研判是否存在由于小样本阴性结果未发表而引起的系统性证据缺失。
-> - **用途** 作为元分析文献筛选与证据稳健性质控的第一道视觉防线，指导后续是否采用参数检验（如 Egger 检验）或校正算法（如[[Trim and Fill Method\|剪补法]]）。
+> - **用途** 作为元分析[[Document|文献]]筛选与证据稳健性质控的第一道视觉防线，指导后续是否采用参数检验（如 Egger 检验）或校正算法（如[[Trim and Fill Method\|剪补法]]）。
 > - **边界** 漏斗图不对称性**并不必然等同于发表偏倚**；研究真实[[Heterogeneity\|异质性]]、研究方法论质量差异及偶然抽样波动均可导致不对称。
 
 ---

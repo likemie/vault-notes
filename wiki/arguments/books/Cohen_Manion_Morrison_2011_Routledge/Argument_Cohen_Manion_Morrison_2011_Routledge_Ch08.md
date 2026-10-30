@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -35,10 +35,12 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Attrition]]"
+  - "[[Extracurricular Activities]]"
   - "[[Sampling Error]]"
   - "[[Computer Simulation]]"
   - "[[Industrial District]]"
   - "[[Gatekeepers]]"
+  - "[[Religious Schools]]"
   - "[[Policy Network]]"
   - "[[Saturation]]"
   - "[[Internal and External Generalizability]]"
@@ -99,7 +101,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 > [!logic-map]- 章节论证结构
 > ```mermaid
@@ -298,7 +300,7 @@ Bartlett et al.（2001, pp. 48–9）还指出：
 
 > [!case] Blalock 公式：精度要求的量化
 >
-> 一位教师/研究者希望调查 1,000 名中学生对某课外活动的看法，使用 10 点量表（1 = 完全不满意，10 = 绝对精彩）。她已有自己班级 30 名学生的数据：均值 = 7.27，标准差 = 1.98。其他学生的回应预计大致相似。
+> 一位教师/研究者希望调查 1,000 名中学生对某[[Extracurricular Activities|课外活动]]的看法，使用 10 点量表（1 = 完全不满意，10 = 绝对精彩）。她已有自己班级 30 名学生的数据：均值 = 7.27，标准差 = 1.98。其他学生的回应预计大致相似。
 >
 > 她需要从 1,000 名学生中抽取多少人才算"准确"？取决于她愿意接受的精度和概率水平（Blalock, 1979, pp. 215–18）：
 >
@@ -578,7 +580,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > **代表性/可比性抽样** 典型个案、极端/偏差个案、强度抽样、最大变异抽样、同质抽样、声誉个案抽样。
 >
-> **特殊/独特个案抽样** 揭示性个案（如基要主义宗教学校、难民学校）、关键个案（如 Tripp（1993）的关键教学事件研究；Morrison（2006）以澳门为关键个案的小型国家教育研究）、政治重要个案（如 Ball（1990）对高级政治人物的访谈、Bowe et al.（1992）对英国内阁部长的访谈）、完整收集抽样（如某年级所有高成就音乐天赋学生）。
+> **特殊/独特个案抽样** 揭示性个案（如基要主义[[Religious Schools|宗教学校]]、难民学校）、关键个案（如 Tripp（1993）的关键教学事件研究；Morrison（2006）以澳门为关键个案的小型国家教育研究）、政治重要个案（如 Ball（1990）对高级政治人物的访谈、Bowe et al.（1992）对英国内阁部长的访谈）、完整收集抽样（如某年级所有高成就音乐天赋学生）。
 >
 > **顺序抽样**[[Theoretical Sampling\|理论抽样]]（[[Grounded Theory\|扎根理论]]）、确认/否定个案抽样、机会抽样、[[Snowball Sampling\|滚雪球抽样]]。
 >

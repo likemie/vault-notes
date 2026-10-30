@@ -13,7 +13,7 @@ subtype: policy
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Policy Network]]"
   - "[[Strategic Autonomy]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-30
 ---
 
 ---
@@ -114,5 +115,5 @@ updated: 2026-10-15
 
 ---
 
-> [!evidence-grid] 相关文献索引
+> [!evidence-grid] 相关[[Document|文献]]索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 系统记录荷兰 1992 年 WHW 法案的起草背景与制度内核，实证论证统一框架法在确立高校自治与[[Steering at a Distance|远距离操纵]]中的里程碑意义。

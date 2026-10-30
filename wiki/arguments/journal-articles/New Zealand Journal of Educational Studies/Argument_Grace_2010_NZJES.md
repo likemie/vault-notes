@@ -40,6 +40,7 @@ related_instruments: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Gerald Grace]]"
+  - "[[Mark Newman]]"
   - "[[Basil Bernstein]]"
   - "[[Roy Nash]]"
 related_facts:
@@ -51,14 +52,14 @@ sources:
 part_of: ""
 status: completed
 created: '2026-05-07'
-updated: 2026-10-29
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the university and the academic as 'critic and conscience of society'"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -84,7 +85,7 @@ journal: New Zealand Journal of Educational Studies
 > |---|---|
 > | **社会的批评者与良知**<br>[[Critic and Conscience of Society]] | 格雷斯 1988 年提出的规范性大学制度角色，强调大学在民主社会中承担独立的权力制衡职能，必须基于系统公正的研究向执政权力和意识形态说真话。 |
 > | **学术自由与制度防御**<br>[[Academic Freedom]] | 抵御国家权力干预、财政部原教旨主义与[[New Managerialism\|新管理主义]]渗透的制度防御机制，主张大学合法性源于其超越短期政治功利的独立批评职能。 |
-> | **大学理念与智识自主**<br>Newman's Idea of a University | 约翰·亨利·纽曼（John Henry Newman）开创的大学古典自治与智识探究传统，作为大学防范政治与意识形态利益殖民的古典学理渊源。 |
+> | **大学理念与智识自主**<br>Newman's Idea of a University | 约翰·亨利·[[Mark Newman\|纽曼]]（John Henry Newman）开创的大学古典自治与智识探究传统，作为大学防范政治与意识形态利益殖民的古典学理渊源。 |
 > | **学校无法弥补社会**<br>[[Basil Bernstein\|Bernstein's Structural Critique]] | [[Basil Bernstein\|巴西尔·伯恩斯坦]]（Basil Bernstein）1970 年经典命题，指证缺乏外部经济与结构改革时学校无法独自创造教育机会平等，树立社会良知学者的典范。 |
 > | **阶级现实主义与方差分解**<br>[[Roy Nash\|Nash's Social Class Realism]] | [[Roy Nash\|罗伊·纳什]]（Roy Nash）关于新西兰社会阶级与学业差距的批判实在论分析，强调非学校因素是理解教育成就与现实政策倡议的基石。 |
 

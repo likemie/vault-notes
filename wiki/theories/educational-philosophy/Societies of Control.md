@@ -6,7 +6,7 @@ aliases:
 summary: "Deleuze 提出的后规训权力理论，指以开放网络、算法持续调制和数据流动取代封闭机构模具规训的支配形态；在教育中表现为学习分析全程追踪、新管理主义全景监控与持续数据生产。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Online Self-Assessment]]"
   - "[[Cooperative Learning]]"
+  - "[[Service Learning]]"
   - "[[Competitiveness]]"
   - "[[Formative Assessment]]"
   - "[[Digital Self]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-22
 > [!theory-proposition] 命题二｜机构网络化与数据化：教育组织被编码为开放企业节点
 > **解释** 规训社会中原本边界清晰的家庭、学校与工厂，在控制社会中被打通为单一企业网络的编码变体。量化与数字不是中立的表征工具，而是构成网络关联、资源分配与行为促动的动力引擎；教育活动被迫服从于资本与绩效逻辑的无边界流通。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]
 >
-> **应用实例** 大学通过[[Cooperative Learning|合作学习]]项目、企业定向研发与服务学习，全面打破传统象牙塔的围墙，转变为连接学生、政府、商业资本与自动化算法的枢纽，受制于全球[[Competitiveness\|高等教育竞争力]]指标的持续调制。
+> **应用实例** 大学通过[[Cooperative Learning|合作学习]]项目、企业定向研发与[[Service Learning|服务学习]]，全面打破传统象牙塔的围墙，转变为连接学生、政府、商业资本与自动化算法的枢纽，受制于全球[[Competitiveness\|高等教育竞争力]]指标的持续调制。
 
 > [!theory-proposition] 命题三｜[[New Managerialism|新管理主义]]与持续数据生产：教育实践异化为科层自证
 > **解释** 控制社会的权力运作高度依赖“持续的数据生产”（Continuous Production of Data）。在基础教育改革中，管理者推行以追求卓越为修辞的量化指标与问责框架，迫使学校建立起高密度的指标汇报机制，将丰富复杂的师生互动退化为数据流转，诱发教育系统的严重行政病理与教师去专业化危机。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 422)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238, 240–241)]]

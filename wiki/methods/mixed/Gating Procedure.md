@@ -6,7 +6,7 @@ summary: "系统综述中的筛选程序，指只有内部效度达到门槛的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -35,21 +35,23 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Research Synthesis]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
 > 门控程序（Gating Procedure）是[[Systematic Review\|系统综述]]中的一种方法论策略：**第一步**先识别某一主题的所有相关研究；**然后**仅纳入那些具有强[[Internal Validity\|内部效度]]的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462, citing Maggin et al., 2013]])。
 >
-> > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
+> > "The first [[Skills Toward Employment and Productivity|step]] of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
 >
 > [[What Works Clearinghouse]] 对 [[Single-Case Design\|SCD]] 研究和组间[[Design-Based Research\|设计研究]]（[[Randomised Controlled Trials\|RCT]] 和准实验）均采用门控程序(WWC, 2013;)。
 >
@@ -78,7 +80,7 @@ updated: 2026-10-29
 
 [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 认为当目标是向从业者和政策制定者提供信息时——这正是 [[What Works Clearinghouse|WWC]] 的明示意图——门控程序是"合理的一个选择"（arguably a reasonable one）。
 
-其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是实验设计的[[Necessary and Sufficient Conditions|必要条件]]（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
+其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是[[Experimental Research|实验设计]]的[[Necessary and Sufficient Conditions|必要条件]]（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
 
 > 例：如果一项 [[Single-Case Design\|SCD]] 研究的基线阶段只有 2 个数据点（不足以建立稳定的基线模式），即使其场所描述和参与者特征记录得非常详细，WWC 也不会将其纳入后续的推广性分析，因为"首先需要确保有一个可靠的效果存在"。
 

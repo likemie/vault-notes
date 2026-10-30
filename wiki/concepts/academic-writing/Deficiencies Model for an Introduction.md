@@ -4,13 +4,14 @@ aliases: ["引言缺陷模型", "deficiencies model", "deficiency model of an in
 summary: "基于文献缺口构建研究必要性的四部分引言写作模板，依次为研究问题陈述、文献证据综述、文献缺陷指出和受众重要性说明，在社会科学中广泛应用"
 type: concept
 domain: "academic-writing"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Introduction]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Research Topic]]"
   - "[[Narrative Hook]]"
@@ -31,11 +32,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction\|研究引言]]写作模板，其核心思路是在已有文献的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question\|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
+> 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction\|研究引言]]写作模板，其核心思路是在已有[[Document|文献]]的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question\|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 
 之所以称为"缺陷模型"，是因为该模型的一个主要组成部分是确立既往研究中的缺陷（deficiencies）。Creswell 对已发表研究文献的回顾表明，这个结构在社会科学领域尤其流行，反复出现在许多已发表的研究中（尽管不一定按照这里呈现的顺序）。
 
@@ -51,7 +52,7 @@ updated: 2026-10-22
 
 ### 2. 综述文献中关于该问题的证据
 
-在确立研究问题之后，讨论已有文献中涉及该问题的先前研究。这一部分不是完整的[[Literature Review|文献综述]]——完整的文献综述出现在研究计划的后面部分。引言中的文献综述应该总结大的研究群组，而非逐一详述个别研究。研究者可以反思自己的[[Literature Map|文献地图]]，查看地图顶部的宽泛类别，这些类别就代表了需要总结的大研究群组。
+在确立研究问题之后，讨论已有[[Document|文献]]中涉及该问题的先前研究。这一部分不是完整的[[Literature Review|文献综述]]——完整的文献综述出现在研究计划的后面部分。引言中的文献综述应该总结大的研究群组，而非逐一详述个别研究。研究者可以反思自己的[[Literature Map|文献地图]]，查看地图顶部的宽泛类别，这些类别就代表了需要总结的大研究群组。
 
 > [!tip] 倒三角检索策略
 > 当一个研究者说"我的题目没有研究做过"时，可以用倒三角的图像来思考：倒三角的底部尖端代表计划的窄而集中的学术研究。如果从底部向上拓宽文献回顾的范围，就能找到文献，尽管它们可能与当前研究有一定距离。例如，具体到"小学阶段的风险儿童"可能研究很少，但更宽泛地看"小学风险学生"或"任何教育阶段的风险学生"可能已有研究。研究者应先总结更宽泛的文献，再以接近计划研究的狭窄研究收尾。
@@ -130,7 +131,7 @@ updated: 2026-10-22
 - **混合方法引言** 可以根据量化或质性路径（或两者结合）来撰写引言，取决于设计中哪一方的权重更大
 
 > [!note] 缺陷模型的特点
-> 该模型可以灵活调整。各部分在实际研究中不一定按照上述顺序出现，但其四个基本组成部分——问题、文献、缺陷、重要性——始终是引言的核心要素。
+> 该模型可以灵活调整。各部分在实际研究中不一定按照上述顺序出现，但其四个基本组成部分——问题、[[Document|文献]]、缺陷、重要性——始终是引言的核心要素。
 
 ---
 

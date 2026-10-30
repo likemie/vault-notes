@@ -8,7 +8,7 @@ aliases:
 summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Open-Mindedness]]"
+  - "[[Scoring Rubrics]]"
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Scaffolding]]"
@@ -48,7 +49,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （[[Reflexivity|反思性]]判断模型）
@@ -102,7 +103,7 @@ updated: 2026-10-22
 > 反思性判断能力并非静态的抽象能力，它只有在脱离现成算法与标准答案的劣构任务环境中才会被实质激活。
 
 > [!claim] [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]]
-> **劣构任务中的反思性判断瓶颈** 在良构任务（个人生活方式计划）中，因外部提供了完备的大纲与打包资料，学生无需动用高阶反思性判断即可取得良好成绩（[[Epistemology\|认识论]]三因子预测力 $R^2 = .04, p = .37$）。而在劣构任务（专案组癌症经费分配辩护）中，缺乏现成算法与评分量规的情境激活了认识动机，迫使学生动用反思性判断；此时，[[Epistemological Beliefs\|认识论信念]]中的[[Simplicity of Knowledge\|简单知识]]（SK）成为制约反思性判断得分的核心瓶颈（$\beta = -.24, R^2 = .06, p = .02$；控制确定知识后增量 $\Delta R^2 = .07, p = .02$）。坚信知识由孤立碎片构成的学生无法在头脑中容忍对立证据并进行价值权衡，导致反思性判断停滞在低阶阶段。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 320-324)]]
+> **劣构任务中的反思性判断瓶颈** 在良构任务（个人生活方式计划）中，因外部提供了完备的大纲与打包资料，学生无需动用高阶反思性判断即可取得良好成绩（[[Epistemology\|认识论]]三因子预测力 $R^2 = .04, p = .37$）。而在劣构任务（专案组癌症经费分配辩护）中，缺乏现成算法与[[Scoring Rubrics|评分量规]]的情境激活了认识动机，迫使学生动用反思性判断；此时，[[Epistemological Beliefs\|认识论信念]]中的[[Simplicity of Knowledge\|简单知识]]（SK）成为制约反思性判断得分的核心瓶颈（$\beta = -.24, R^2 = .06, p = .02$；控制确定知识后增量 $\Delta R^2 = .07, p = .02$）。坚信知识由孤立碎片构成的学生无法在头脑中容忍对立证据并进行价值权衡，导致反思性判断停滞在低阶阶段。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 320-324)]]
 
 ---
 

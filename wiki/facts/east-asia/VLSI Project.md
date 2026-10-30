@@ -13,9 +13,9 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "1976–1980"
 initiator_organization: "日本通商产业省（Ministry of International Trade and Industry, MITI）"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Academic Entrepreneurship]]"
   - "[[Discourse]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Document]]"
   - "[[Technological Catch-up]]"
   - "[[Competitiveness]]"
   - "[[Vertical Disintegration]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-10-26
 
 > [!ref-table]- 日本厂商历代 DRAM 全球市场最高份额演进（[[Argument_Macher_1998_CMR|Macher et al., 1998]], Table 1）
 >
-> | DRAM 技术代际 | 导入年份 | 日本厂商最高全球市场份额（%） | 产业竞争格局特征 | 来源文献 |
+> | DRAM 技术代际 | 导入年份 | 日本厂商最高全球市场份额（%） | 产业竞争格局特征 | 来源[[Document\|文献]] |
 > |:---|:---|:---|:---|:---|
 > | 1K DRAM | 1974 年 | 5% | 美国厂商（英特尔等）主导早期市场 | Macher et al. (1998, Table 1) |
 > | 4K DRAM | 1975 年 | 15% | 日本厂商起步跟踪与工艺探索 | Macher et al. (1998, Table 1) |

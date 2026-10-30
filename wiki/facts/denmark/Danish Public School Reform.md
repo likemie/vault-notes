@@ -12,7 +12,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Rote Learning]]"
   - "[[Learnology]]"
+  - "[[Document]]"
 related_theories:
   - "[[Legitimation Crisis]]"
   - "[[Critical Theory]]"
@@ -57,7 +58,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （丹麦 2014 年公立学校改革）
@@ -158,6 +159,6 @@ updated: 2026-10-22
 > | [[PISA]] | 事实 | 丹麦 2000 年代加入该跨国测评所引发的焦虑成为催生 2014 年教改的直接导火索。 |
 > | [[John Hattie]] | 人物 | 其可见[[Learnology\|学习学]]术体系与[[Effect Size\|效应量]]排行榜被丹麦政府奉为教改的“科学铁律”。 |
 > | [[Klaus Nielsen]] | 人物 | 丹麦批判心理学家，深入剖析丹麦 2014 年教改技术理性与合法化危机的核心学者。 |
-> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 论证 | 以丹麦 2014 年教改为例批判技术理性与合法化危机防御机制的权威期刊文献。 |
+> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 论证 | 以丹麦 2014 年教改为例批判技术理性与合法化危机防御机制的权威期刊[[Document\|文献]]。 |
 > | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] | 论证 | 记录丹麦 2014 年教改引发的“解释社群”极化对立与教师劳动法争议。 |
 > | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 论证 | 揭示丹麦 2014 年教改中三千个学习目标的细分及其引发的“学习化”异化。 |

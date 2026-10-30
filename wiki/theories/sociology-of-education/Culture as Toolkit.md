@@ -6,7 +6,7 @@ aliases:
 summary: "把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 21
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -16,11 +16,13 @@ tags:
   - paradigm/interpretivist
 related_concepts:
   - "[[Axiology]]"
+  - "[[Habitus]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[External Validity]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Epistemic Stances]]"
   - "[[Determinism]]"
   - "[[Self-Authorship]]"
   - "[[Champ]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -63,7 +65,7 @@ updated: 2026-10-22
 
 > [!abstract] 核心命题
 > - **文化的双重功能** 文化同时以两种方式影响行动——通过定义价值观来塑造行动目的（想要什么），以及通过提供文化工具来建构行动策略（如何去做）。后者是该理论区别于传统文化[[Axiology\|价值论]]的关键创新（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Swidler, 1986）。
-> - **文化工具的阶层差异** 文化工具的可及性和掌握熟练程度依习性结构的不同而有着系统性的差异。对于在客观社会结构和历史中处于特定位置的人们而言，内在化于身体的结构为某些文化工具的获得提供了固有范围。
+> - **文化工具的阶层差异** 文化工具的可及性和掌握熟练程度依[[Habitus|习性]]结构的不同而有着系统性的差异。对于在客观社会结构和历史中处于特定位置的人们而言，内在化于身体的结构为某些文化工具的获得提供了固有范围。
 > - **文化图式的迁移性** 文化图式是可迁移（transposable）和可推广的（generalizable），行动者对文化的掌握和运用是[[Creativity\|创造性]]而非完全预料的（，引 Sewell, 1992）。
 > - **惯常性与非深思熟虑性** 文化工具的使用往往是习惯性的、不经深思熟虑的——人们在日常生活中调动文化图式的方式类似于使用一件熟悉的工具，而非每次都要进行理性计算。
 > - **稳定与不稳定生活状态** Swidler 区分了两种文化时期——在**稳定生活状态（settled lives）** 中，文化为人们组织多种可能的行动提供正当性理由；在**不稳定生活状态（unsettled lives）** 中，多种强有力的外部观念对行动可能有直接的控制，但其长期影响有赖于哪种观念在竞争中得以生存（，引 Swidler, 1986）。
@@ -91,7 +93,7 @@ updated: 2026-10-22
 
 ---
 
-> [!info] 认识论立场
+> [!info] [[Epistemic Stances|认识论立场]]
 > - 该理论介于结构[[Determinism\|决定论]]和理性选择论之间：文化工具虽受社会结构位置的制约，但行动者在既定工具箱范围内仍享有[[Creativity\|创造性]]地组合与使用不同工具的能动性
 > - 与Bourdieu的实践理论高度兼容但侧重点不同：Swidler 强调文化作为可用资源的面，Bourdieu 更强调习性作为结构化结构的面向
 

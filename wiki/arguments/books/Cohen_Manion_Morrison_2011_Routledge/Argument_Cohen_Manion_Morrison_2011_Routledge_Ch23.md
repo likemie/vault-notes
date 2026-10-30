@@ -60,13 +60,13 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Causality]]"
   - "[[Dependent Variable]]"
+  - "[[Document]]"
   - "[[Hawthorne Effect]]"
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
   - "[[Observer Drift]]"
   - "[[Institutional Drift]]"
   - "[[Habituation]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -106,7 +106,7 @@ related_facts:
   - "[[British Educational Research Association]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -828,7 +828,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 
 #### 公开与隐蔽观察的伦理争议
 
-[[Covert Research|隐蔽研究]]中存在充分的文献讨论公开与隐蔽观察之间的困境。公开研究中参与者知道被观察；隐蔽研究中他们不知道。
+[[Covert Research|隐蔽研究]]中存在充分的[[Document|文献]]讨论公开与隐蔽观察之间的困境。公开研究中参与者知道被观察；隐蔽研究中他们不知道。
 
 > [!tension] 隐蔽研究的伦理张力：保护个体 vs 保护公共利益
 > - **反对隐蔽研究** 违反[[Informed Consent\|知情同意]]原则、侵犯参与者隐私和私人空间、将参与者工具化，视为研究对象而非主体，使研究者处于歪曲或否认其角色的位置（Mitchell, 1993）。
@@ -979,7 +979,7 @@ Lofland（1971, pp. 104–106）为克服信度问题提出了田野笔记书写
 >
 > 观察可以是非常有用的研究工具，但它也需要付出代价：可能需要**长时间**才能捕捉到所需行为或现象，在**时间和精力**上可能昂贵，并且容易出现**解释或推断数据含义**的困难。
 >
-> 最重要的是，这或许是本章最核心的论点，观察将**观察者置于道德领域**。仅仅将观察描述为非侵入性、非干预性技术从而推卸对参与者的责任是不够的。与[[Geisteswissenschaften|人文科学]]中的其他数据收集形式一样，**观察不是道德中立的事业**。观察者和其他研究者一样，**对参与者和研究社群都负有义务**。（23.13 节）
+> 最重要的是，这或许是本章最核心的论点，观察将**观察者置于道德领域**。仅仅将观察描述为非侵入性、非干预性技术从而推卸对参与者的责任是不够的。与人文科学中的其他数据收集形式一样，**观察不是道德中立的事业**。观察者和其他研究者一样，**对参与者和研究社群都负有义务**。（23.13 节）
 
 ---
 
@@ -1004,7 +1004,7 @@ Lofland（1971, pp. 104–106）为克服信度问题提出了田野笔记书写
 > *By being immersed in a particular context over time not only will the salient features of the situation emerge and present themselves but a more holistic view will be gathered of the interrelationships of factors. (Morrison, 1993, p. 88)*
 
 > [!citation-card] 观察不是道德中立的事业
-> 与[[Geisteswissenschaften|人文科学]]中的其他数据收集形式一样，观察不是道德中立的事业。观察者和其他研究者一样，对参与者和研究社群都负有义务。（第23章，23.13 节）
+> 与人文科学中的其他数据收集形式一样，观察不是道德中立的事业。观察者和其他研究者一样，对参与者和研究社群都负有义务。（第23章，23.13 节）
 >
 > *Like other forms of data collection in the human sciences, observation is not a morally neutral enterprise. Observers, like other researchers, have obligations to participants as well as to the research community.*
 

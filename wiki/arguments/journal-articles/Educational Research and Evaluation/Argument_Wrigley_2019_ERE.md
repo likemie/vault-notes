@@ -10,7 +10,7 @@ title: "Argument_Wrigley_2019_ERE"
 argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,11 +31,13 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Empiricism]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Emergence]]"
   - "[[Causality]]"
   - "[[Avatar]]"
   - "[[Visible Learning]]"
+  - "[[Extracurricular Activities]]"
   - "[[Hypothesis]]"
   - "[[Multiplicity]]"
 related_theories:
@@ -61,7 +63,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2019
 doi: ""
 citation_aliases:
@@ -81,7 +83,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education\|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
 > - [[Case Study\|案例研究]]：以 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元-元分析]]的三级证据聚合过程
-> - 文献[[Critical Review\|批判性综述]]：综合 Bhaskar et al.学者的批判资源
+> - [[Document|文献]][[Critical Review\|批判性综述]]：综合 Bhaskar et al.学者的批判资源
 
 > [!example] 核心论证
 > ### 1. EBT 的科学观是过分简化的"民间科学观"
@@ -94,7 +96,7 @@ citation_aliases:
 >
 > ### 3. [[Emergence\|涌现]]与开放系统
 >
-> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"(p. 34)。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现。
+> Bhaskar (1979) 论证社会结构拥有不是个体行动简单聚合的权力——"军队不只是士兵的复数"。教育是开放系统：多重力量同时作用（可能相互矛盾或加强），单一因果因素很少能解释大部分现象。人类具有意志、习惯、解释和互动能力，使得 RCT 式的封闭系统方法几乎不可能在教育中实现。
 >
 > ### 4. RCT 在教育中的结构性缺陷
 >
@@ -132,7 +134,7 @@ citation_aliases:
 >
 > - 0.17 来自平均四个效应量（Lewis 2004, p. 0.10; Shulruf 2010, p. 0.15; Newman et al. 2010, p. 0.19 学业 + 0.80 数学）
 > - Newman et al. (2010) 中 0.80 的效应量来自 [[Playing for Success]]——一项在著名足球场设立学习支持中心的高度资源密集型项目（一对一辅导、专用 ICT 套件、个性化课程），远非普通"体育参与"
-> - Shulruf (2010) 的主要结论恰恰是**没有稳健证据表明课外活动与学生成果之间存在[[Causality\|因果关系]]**(p. 607)
+> - Shulruf (2010) 的主要结论恰恰是**没有稳健证据表明[[Extracurricular Activities|课外活动]]与学生成果之间存在[[Causality\|因果关系]]**
 > - Lewis (2004) 明确警告"自我选择偏差"：参与活动的儿童可能与不参与的儿童根本不同
 >
 > > “在元分析综述的每个阶段，都在进行简化。假设被删减，研究被舍弃，项目细节被过滤掉，情境信息被消除，只利用选定的发现，计算平均值，并做出估计。”

@@ -11,7 +11,7 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - method/rve
   - statistics/variance-estimation
 related_concepts:
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
@@ -51,13 +52,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Robust Variance Estimation
-> [[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE，亦称聚类稳健方差估计 Cluster-Robust Variance Estimation, CRVE 或三明治估计量 Sandwich Estimator）是一种在[[Meta-analysis\|元分析]]（Meta-Analysis）、[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）与[[Meta-regression\|元回归]]（Meta-Regression）中处理统计依赖[[Effect Size\|效应量]]的非参数方差估计方法（Hedges, Tipton & Johnson, 2010; Tipton & Pustejovsky, 2015; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 5]]）。当研究中存在多重结果测量、同一被试纵向追踪或跨元分析文献重叠导致数据存在聚类依赖时，RVE 基于经验残差构造渐近一致的协方差三明治矩阵，无需准确获知研究内的真实相关系数矩阵，即可获得渐近无偏且稳健的[[Standard Error\|标准误]]、[[Confidence Interval\|置信区间]]及假设检验结果。
+> [[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE，亦称聚类稳健方差估计 Cluster-Robust Variance Estimation, CRVE 或三明治估计量 Sandwich Estimator）是一种在[[Meta-analysis\|元分析]]（Meta-Analysis）、[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）与[[Meta-regression\|元回归]]（Meta-Regression）中处理统计依赖[[Effect Size\|效应量]]的非参数方差估计方法（Hedges, Tipton & Johnson, 2010; Tipton & Pustejovsky, 2015; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 5]]）。当研究中存在多重结果测量、同一被试纵向追踪或跨元分析[[Document|文献]]重叠导致数据存在聚类依赖时，RVE 基于经验残差构造渐近一致的协方差三明治矩阵，无需准确获知研究内的真实相关系数矩阵，即可获得渐近无偏且稳健的[[Standard Error\|标准误]]、[[Confidence Interval\|置信区间]]及假设检验结果。
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含依赖效应量（Dependent Effect Sizes）、多重结果测量或多层嵌套结构的一阶元分析与二阶元分析数据。

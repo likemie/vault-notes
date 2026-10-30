@@ -9,7 +9,7 @@ aliases:
 summary: "由 Miranda Fricker (2007) 开创的批判性社会认识论理论，指个体或群体在作为求知者（knowers）的身份上所遭受的系统性损害与特权剥夺，核心涵盖证词不正义、诠释不正义以及教育领域的成长性认识不正义。在智能求知时代，该理论揭示了大模型语料偏倚与平台垄断对边缘群体认识主体性与知识多样性的隐蔽侵害。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Homework]]"
   - "[[Sampling Error]]"
+  - "[[Teacher Questioning]]"
   - "[[Champ]]"
   - "[[Knowledge Production]]"
   - "[[Rich and Thick Description]]"
@@ -62,7 +63,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （认识不正义理论 / 认识不公）
@@ -138,7 +139,7 @@ updated: 2026-10-22
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
-> | **证词正义维度（Fricker, 2007）** | 课堂与学术交往中，发言者的[[Reliability\|信度]]是否受到其身份标签的系统性扭曲？ | 课堂提问回应时长、同行评审盲审前后得分差异。 | 出现边缘学生提出实质合理观点却被漠视、主流学生转述即被认可时，支持证词不正义判读。 |
+> | **证词正义维度（Fricker, 2007）** | 课堂与学术交往中，发言者的[[Reliability\|信度]]是否受到其身份标签的系统性扭曲？ | [[Teacher Questioning\|课堂提问]]回应时长、同行评审盲审前后得分差异。 | 出现边缘学生提出实质合理观点却被漠视、主流学生转述即被认可时，支持证词不正义判读。 |
 > | **诠释资源维度（Fricker, 2007）** | 现行课程大纲与学术话语是否为多元经验提供了平等的表达符号资源？ | 教材概念库、考核量规对非主流文化经验的包容度。 | 课程概念完全被单一主流[[Paradigm\|范式]]垄断且将边缘体验病理化时，支持诠释不正义判读。 |
 > | **[[Formative Epistemic Injustice\|成长性认识正义]]（[[Argument_Smith_2026_SPE\|Smith, 2026]]）** | 教学安排是否保障了学生经历探究挣扎与培育评价判断的发展机会？ | 作业设计类型、教学中是否保留了思维摩擦与探究空间。 | 任务全流程追求无摩擦一键代劳、只考核精美死成果时，支持[[Formative Epistemic Injustice\|成长性认识不正义]]判读。 |
 > | **算法多样性与主权（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）** | 技术系统是否强制推行主流语言模板并惩罚本土多样性表达？ | AI 润色算法的建议接受率、非主流语料在模型中的召回率。 | 平台强推单一语言模板并导致多元表达学术失权时，支持算法认识不正义判读。 |

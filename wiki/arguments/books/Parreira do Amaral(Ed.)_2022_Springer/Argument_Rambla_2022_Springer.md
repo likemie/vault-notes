@@ -9,10 +9,10 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of education and innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#ede9fe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Rambla, X. (2022). Imaginaries of education and innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 163–178). Springer."
 publication_place: "Cham"
@@ -69,11 +69,13 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[OECD]]"
+  - "[[Education and Training 2020]]"
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[European Commission]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
+  - "[[European Education Area]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
@@ -83,7 +85,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: 2026-10-26
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -105,7 +107,7 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 >
 > - **通过互动性专业技能获取合法性(Collins, 2018)** 专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南"有效"的感知。EUROSTAT 的区域排名之所以被各国政府认真对待，并非因为其数据绝对精确，而是因为它承载了[[EU|欧盟]]统计机构的制度权威——这种权威在专家与政策制定者的持续互动中被生产和再生产(p.165)。
 > - **通过区域指标展示可测量成果** 指标将复杂的政策现实转化为直观、可比较的排名和颜色编码地图，使任何公民和政治家都能一目了然地识别自身区域在创新和教育方面的相对位置。这种可视化能力使指标成为高效的政治沟通工具。
-> - **传播共同的"[[Theory of Change\|变革理论]]"(Pawson, 2006)** 指标不仅提供分数，更承载特定的因果叙事——如 [[OECD]] 传播的"投资研发→培养[[Creativity\|创造力]]→高学历劳动力→经济增长"的良性循环叙事。欧盟的 Education and Training 2020 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这套因果叙事被嵌入指标体系中，使某些政策路径在认知上被自然化为"理所当然"(p.165–166)。详见 [[Theories of Policy Change]]。
+> - **传播共同的"[[Theory of Change\|变革理论]]"(Pawson, 2006)** 指标不仅提供分数，更承载特定的因果叙事——如 [[OECD]] 传播的"投资研发→培养[[Creativity\|创造力]]→高学历劳动力→经济增长"的良性循环叙事。欧盟的 [[Education and Training 2020]] 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这套因果叙事被嵌入指标体系中，使某些政策路径在认知上被自然化为"理所当然"(p.165–166)。详见 [[Theories of Policy Change]]。
 > - **嵌入政治关系并实施选择性(Jessop, 2007)** 指标间接重塑了政府、企业、非营利组织与公民之间的关系——通过发布排名和最佳实践，政府试图说服多元利益相关方同时展开竞争与协作来提升排名，而非通过具有约束力的立法来固定各方角色。与此同时，指标的选择性机制决定了什么被算作"进步"、什么被忽略(p.166, 174)。详见 [[Selectivity]]。
 
 > [!abstract] 变革理论(Pawson, 2006)
@@ -139,7 +141,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 >
 > **这一前提的分析意义** 整篇论证建立在一个结构性张力之上——欧盟试图以一套统一的绩效指标体系治理 28 个制度传统、经济结构和文化背景迥异的成员国，以及数百个差异更为显著的下属区域。这种"统一标准 + 巨大差异"的组合，正是 Rambla 随后将展开批判的核心矛盾所在。
 >
-> 这一制度安排的具体表现是：自 1950 年代以来，欧盟委员会即通过邀请专家参与工作坊（workshops）来制定政策指导方针。在教育领域，这些专家工作坊推动了最近获批的欧洲教育区（European Education Area），而 EUROSTAT 则基于这一专家合作网络测量了大量教育和创新指标，并据此绘制了将成员国和区域分门别类的地图(p.164)。这意味着，在政策制定者接收到"你的区域排第几"的信息之前，已经有一整套关于"谁被邀请定义什么值得测量"的制度安排先行确定了认知框架。
+> 这一制度安排的具体表现是：自 1950 年代以来，欧盟委员会即通过邀请专家参与工作坊（workshops）来制定政策指导方针。在教育领域，这些专家工作坊推动了最近获批的[[European Education Area|欧洲教育区]]（European Education Area），而 EUROSTAT 则基于这一专家合作网络测量了大量教育和创新指标，并据此绘制了将成员国和区域分门别类的地图(p.164)。这意味着，在政策制定者接收到"你的区域排第几"的信息之前，已经有一整套关于"谁被邀请定义什么值得测量"的制度安排先行确定了认知框架。
 
 > [!example] 第 2 步：确立分析工具——绩效指标的四维操作机制
 > Rambla 引入 Le Galès(2016)的政策工具理论作为分析棱镜，其核心命题为：**政策工具同时包含技术成分和权力成分，两者互相关联但不可互相还原**。技术成分（统计公式、数据采集方法、指标设计）具有自身的内在理性，但实践中通过（权力不平等的）行动者之间的社会关系被实施(p.164–165)。
@@ -152,7 +154,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > 2. **通过区域指标展示可测量成果** 指标将复杂的政策现实转化为直观、可比较的排名和颜色编码地图，使任何公民都可以一眼识别自身区域在创新和教育方面的相对位置。这种可视化能力使指标成为高效的政治沟通工具，也使其被行动者视为"客观现实"——"行动者既不能凭空发明，也不能随意改变"(p.165)。
 >    > 例：学校成绩单以单一字母或数字归纳复杂的学习过程。学生和家长看到"数学=C"后，通常追问的是"如何提高到 A"，而非"这个分数是否准确反映了我的数学能力的所有维度"。同理，区域政策制定者看到"创新=一般"后，倾向于追问"如何提升排名"，而非"排名是否捕捉了我所在区域创新的真正价值"。
 >
-> 3. **[[Theory of Change\|变革理论]]的嵌入** 指标不只是给分，还隐含了一套因果叙事。欧盟的 Education and Training 2020 战略假定：降低早期辍学率 + 促进创新 → 智能、可持续与包容性增长。这一因果链被嵌入指标体系中，使增加研发投入、降低辍学率等路径在认知上被自然化为"理所当然"。详见 [[Theories of Policy Change]](p.165–166)。
+> 3. **[[Theory of Change\|变革理论]]的嵌入** 指标不只是给分，还隐含了一套因果叙事。欧盟的 [[Education and Training 2020]] 战略假定：降低早期辍学率 + 促进创新 → 智能、可持续与包容性增长。这一因果链被嵌入指标体系中，使增加研发投入、降低辍学率等路径在认知上被自然化为"理所当然"。详见 [[Theories of Policy Change]](p.165–166)。
 >    > 例：体检报告不仅告诉患者"胆固醇偏高"，还隐含了"减少红肉摄入→降低胆固醇→健康长寿"的因果叙事。政策制定者接到 EUROSTAT 报告称"区域创新落后"时，隐含的政策建议是"增加研发支出 + 推动高校专利申请"，而非"培育社区互助创新网络"——后者根本不在指标体系内。
 >
 > 4. **政治关系的重塑与选择性的实施** 指标间接重新定义了政府、企业、非营利组织与公民之间的关系。通过发布排名和最佳实践，政府试图说服所有利益相关方同时竞争与协作来提升排名，而非通过立法固定各方的角色。与此同时，指标在 Jessop(2007)的意义上实施选择性——它们筛选政策议题的优先次序，使某些替代方案在操作上更可行，另一些则在[[Discourse|话语]]上被边缘化(p.166, 174)。详见 [[Selectivity]]。

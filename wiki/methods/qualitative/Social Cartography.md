@@ -9,7 +9,7 @@ summary: "罗兰·保尔斯顿（Rolland Paulston）开创的比较教育质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Concept Mapping]]"
+  - "[[Document]]"
   - "[[Epistemic Stances]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-29
 > | 学者应用谱系 | 包含 Beech (2002)、Dussel et al. (2000)、English (2004)、Epstein (2006)、Gordon and Lahelma (1996)、Ninnes and Burnett (2003)、Nóvoa & Lawn (2002) 等。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 360)]] |
 
 > [!proc] 质性分析程序
-> 1. **话语界定与文本解构** 系统初读研究领域的代表性文献，提取各学派关于现实本体、[[Epistemic Stances|认识论立场]]与方法论规程的核心命题。
+> 1. **话语界定与文本解构** 系统初读研究领域的代表性[[Document|文献]]，提取各学派关于现实本体、[[Epistemic Stances|认识论立场]]与方法论规程的核心命题。
 > 2. **确立多极范式轴线** 提炼具有辨识度的核心张力轴（如现代主义—[[Postmodernism|后现代主义]]、功能均衡—冲突抗争、结构决定—能动建构，或全球流动—本土圈禁）。
 > 3. **绘制空间拓扑隐喻图** 根据各学术流派或政策主张在核心张力轴上的立场距离，将其标注为相互重叠或分离的空间气泡、岛屿或区域。
 > 4. **辨析边界重叠与知识断裂** 细致考察不同范式交界处的混合话语，识别未被既有范式覆盖的空白盲区与新兴边缘思想。

@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Clinical Trial]]"
+  - "[[Document]]"
   - "[[Mnemonic Strategies]]"
   - "[[Scientifically Based Research]]"
   - "[[Evidence-Based Reform]]"
@@ -45,14 +46,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -78,7 +79,7 @@ issuing_organization: ""
 > [!info] 研究方法
 > - **方法** 政策分析与方法论论证（非实证研究）
 > - **发表于** 2002 年 [[American Educational Research Association\|AERA]] 年会 Dewitt Wallace-Reader's Digest 杰出讲座
-> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001\|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment\|随机化]]评估经验）
+> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001\|NCLB]] 法案文本、OERI 战略计划）、方法论[[Document|文献]]、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment\|随机化]]评估经验）
 
 ---
 

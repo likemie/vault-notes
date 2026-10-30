@@ -9,7 +9,7 @@ aliases:
 summary: "斯托克斯（Stokes, 1997）提出的二维科研动机分类框架，以追求基础机理理解与考虑现实实际应用两个独立维度正交构建四象限，打破了线性科技发展观与基础/应用二分法，为产学研协作、国家发展型网络国家干预与国际科研合作提供了认识论基石。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
   - "[[Valley of Death]]"
+  - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Use-Inspired Basic Research]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-26
 > - **形成路径** 将“追求基础认知”与“考虑实际应用”抽象为两个独立的二元正交维度，构建出涵盖四个理想类型的 2×2 矩阵，正式赋予兼具机理追求与现实使命的科研活动以独立的[[Epistemology|认识论]]地位。
 
 > [!dev-timeline] 理论演变与应用扩展
-> - **1997 — 原著理论奠基** 斯托克斯系统提出四象限矩阵与《巴斯德象限》，成为现代科技政策学与科研分类领域引用最广的奠基文献。
+> - **1997 — 原著理论奠基** 斯托克斯系统提出四象限矩阵与《巴斯德象限》，成为现代科技政策学与科研分类领域引用最广的奠基[[Document|文献]]。
 > - **2008 — [[Developmental Network State|发展型网络国家]]认识论基石** [[Fred Block|弗雷德·布洛克]]（Fred Block）在《政治与社会》中将巴斯德象限模型确立为美国发展型网络国家（DNS）的认识论依据：当代信息技术、生物制药与先进制造均深植于巴斯德象限，推翻了市场能够自发实现转化的线性神话，证实公共机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]）主动搭建[[Pilot Scale Platform|中试平台]]与产学研合作联合体的制度正当性。[[Argument_Block_2008_PS|(Block, 2008, pp. 173–174)]]
 > - **2013 — 动态反馈循环理论修正** 纳拉亚纳穆尔提等（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）在《科学与技术问题》指出，斯托克斯模型仍保留了基础与应用的静态二分语汇，容易沦为项目申报时的静态动机标签；主张用工程发明与科学发现动态双向流转的[[Discovery-Invention Cycle|发现-发明循环]]理论进一步深化。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
 > - **2025 — 国际[[University-Industry Collaboration|产学合作]]（UI）认识论锚固** 沃尔夫等（[[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025]]）在施普林格出版的研究中，运用斯托克斯模型为跨国校企联合攻关（如 Mars 与 UC Davis 开展的气候智慧型水稻及作物基因组研究）提供认识论定位，论证巴斯德象限是整合大学基础探索能力与跨国产业应用需求的最优组织界面。[[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, pp. 310–311)]]

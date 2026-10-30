@@ -6,7 +6,7 @@ aliases:
 summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,7 +18,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Professional Judgment]]"
+  - "[[Document]]"
   - "[[Tacit Knowledge]]"
+  - "[[Home Environment]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Education]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -63,14 +65,14 @@ updated: 2026-10-22
 > > "The knowledge of the particular circumstances of time and place." — Friedrich Hayek (1945, p. 521), 引自 [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.13)]]
 
 > [!note-] 历史沿革
-> 本地知识的概念在证据本位政策文献中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment\|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review\|系统综述]]发现"非正式证据"——包括本地数据和[[Tacit Knowledge|默会知识]]——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])。
+> 本地知识的概念在证据本位政策[[Document|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment\|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review\|系统综述]]发现"非正式证据"——包括本地数据和[[Tacit Knowledge|默会知识]]——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])。
 
 > [!abstract] 核心要素
 > 本地知识不是“凭感觉反对研究”，而是把外部证据翻译成可行动判断时必须补上的情境信息。它至少包含三类知识：情境诊断知识、证据翻译知识、采购与实施知识。
 
 ### 情境诊断知识
 
-本地知识首先帮助学校判断“我们到底面对什么问题”。它包括对学生群体特征、学校文化、个别学生需求、家庭环境、社区政治和制度约束的具体了解([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.23-28]])。如果没有这一步，学校可能把一个外地有效的方案用于自己并不真正面对的问题上；Wiliam 因此把“这解决我们面临的问题吗？”放在[[Research Utilization|证据使用]]的第一个问题([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.12]])。
+本地知识首先帮助学校判断“我们到底面对什么问题”。它包括对学生群体特征、学校文化、个别学生需求、[[Home Environment|家庭环境]]、社区政治和制度约束的具体了解([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.23-28]])。如果没有这一步，学校可能把一个外地有效的方案用于自己并不真正面对的问题上；Wiliam 因此把“这解决我们面临的问题吗？”放在[[Research Utilization|证据使用]]的第一个问题([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.12]])。
 
 ### 证据翻译知识
 

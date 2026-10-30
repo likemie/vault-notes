@@ -9,7 +9,7 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -47,10 +47,12 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
+  - "[[Epistemic Inequality]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
   - "[[Techno-Utopianism]]"
   - "[[Student Mobility]]"
+  - "[[Document]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -62,13 +64,14 @@ related_persons:
   - "[[Walter Mignolo]]"
 related_facts:
   - "[[EU]]"
+  - "[[Regional Comprehensive Economic Partnership]]"
 related_arguments: []
 sources:
   - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022|Ch3_Parreira do Amaral_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -106,7 +109,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 - 后殖民/去殖民批判则将注意力引向认识论本身的政治性——它追问的不只是"谁在想象和建构世界空间"，而是"谁的知识被认定为知识，什么认识论被排除在外"。这揭示了一个被"创新"话语掩盖的深层后果：当前的[[Knowledge-Based Economization|知识经济化]]并非认识论中立——它在制度层面系统性地稳定和固化了特定的（[[Positivism|实证主义]]、[[Empiricism|经验主义]]）认识论范式，并通过"创新"话语使其成为唯一合理的选择。例：在 [[EU]] Horizon 2020 框架下，SSH 研究被取消独立资助渠道，要求"直接为政策证据基础做贡献"(p.42)——这意味着 SSH 研究只有在其能够为技术创新和经济[[Competitiveness|竞争力]]提供工具性贡献时才被视为有价值，而纯理论、批判性或非工具性的研究被制度性地边缘化。从去殖民视角看，这正是西方认识论等级秩序——自然科学为"真正的知识"，人文学科为"辅助性知识"——在当代研究治理中的再生产
 
 综合起来，本章强调当前形势中两个维度的共构性：
-1. 古典的领土权力博弈并未消失——大国的势力范围竞争以技术竞争和区域贸易协定（如 RCEP）的新形式持续运作(pp.37–38)
+1. 古典的领土权力博弈并未消失——大国的势力范围竞争以技术竞争和区域贸易协定（如 [[Regional Comprehensive Economic Partnership|RCEP]]）的新形式持续运作(pp.37–38)
 2. 关系性和网络化的"[[Hub and Flow Imaginaries|枢纽与流动想象]]"（[[Hub and Flow Imaginaries]]）正在构成知识社会的核心空间组织逻辑(pp.37–38)
 
 > [!example] 论证结构
@@ -129,7 +132,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 - Minerva 项目（§3.4.2）：以 Minerva 为案例展示"有意图的大学"的颠覆性想象——针对 relevance（毕业生缺乏生活准备）、成本（高学费和基础设施）、效率（辍学率/分数膨胀）、可及性（全球合格学生无法负担高质量机构）四大问题的技术解决方案。核心特征包括：无校园、完全在线教学、四核心能力（[[Critical Thinking|批判性思维]]、[[Creativity|创造性]]思维、有效沟通、有效互动）、积极学习论坛（ALF）监控平台、全球城市沉浸、约三分之一的传统名校学费。尽管目前运营规模仍小，但其作为"为了世界的利益"（for the sake of the world）的"元食谱书"（meta-recipe book）的弥赛亚式定位，为高等教育提供了不仅一种颠覆性想象，更是一套可复制的制度设计和运营模型(pp.45–48)
 
 **第五步（§3.5 结论）：影响与关切。** 综合讨论新知识地缘政治对高等教育的多层次影响：
-- [[Epistemology|认识论]]影响：知识密集型资本主义不仅青睐特定的[[Positivism|实证主义]]/[[Empiricism|经验主义]]认识论和方法论，还赋予特定学科领域和知识类型以优先权——这实质上持续了 [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]所批判的西方认识论霸权(pp.39, 48–49)
+- [[Epistemology|认识论]]影响：知识密集型资本主义不仅青睐特定的[[Positivism|实证主义]]/[[Empiricism|经验主义]]认识论和方法论，还赋予特定学科领域和知识类型以优先权——这实质上持续了 [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]所批判的西方[[Epistemic Inequality|认识论霸权]](pp.39, 48–49)
 - 治理影响：高等教育的政策与治理被纳入全球、区域和国家层面的复杂互动，产生不可预见的颠覆性效应——高等教育与社会、国家和经济之间的关系被重新配置。[[Global Regionalisms|全球区域主义]]与 [[Global Education Industry|GEI]] 分别从超国家政策语境和私有经济推力两个方向加剧了这一趋势
 - 主体性影响：需要关注被生产的新型主体性——创新性的、创业性的、连接性的——以及部署的治理技术；这些对学术人员的工作条件和学术生涯同样产生深远影响
 - 学科反思：从比较与国际（高等）教育的视角，这一现象召唤学者关注高等教育政策日益增加的复杂性——"全球"与"地方"、"话语"与"物质"之间的互动，以及科学和教育在认识论治理（[[Epistemic Governance]]）和社会认识论（social epistemology）层面所受的深层影响(pp.48–49)
@@ -149,7 +152,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 > [!warning] 局限性与批评
 - 本章为概念性/理论性章节，未包含实证研究方法——所举案例（IEHs、Minerva）作为例证而非系统实证分析使用，其代表性和推广性有待独立检验
-- 后殖民/去殖民脉络主要以 1990–2000 年代的经典文献(Dussel, 1993; Mignolo, 2002)为基础，未充分纳入近年"南方[[Epistemology|认识论]]"(Connell, 2007, 2019)和"多元世界"建构(Escobar, 2018; Reiter, 2019)领域的最新发展
+- 后殖民/去殖民脉络主要以 1990–2000 年代的经典[[Document|文献]](Dussel, 1993; Mignolo, 2002)为基础，未充分纳入近年"南方[[Epistemology|认识论]]"(Connell, 2007, 2019)和"多元世界"建构(Escobar, 2018; Reiter, 2019)领域的最新发展
 - 两大传统的综合仍处于初步阶段——前者以空间配置和政治想象为中心，后者以认识论暴力和殖民性为中心，两者在[[Ontology|本体论]]和认识论前提上的张力尚未被充分理论化
 - [[Global Education Industry|GEI]] 的分析主要建立在 Verger et al. (2016) 和 Parreira do Amaral et al. (2019) 的基础上，对 GEI 内部非西方行动者和非英语文献的覆盖有限
 

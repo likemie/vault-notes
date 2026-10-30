@@ -37,7 +37,6 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Protean Episteme]]"
   - "[[Postpositivism]]"
   - "[[Historical Amnesia]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Empiricism]]"
   - "[[Knowledge Production]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Unit of Analysis]]"
   - "[[Scholiocentric Approach]]"
   - "[[Policy Borrowing]]"
@@ -126,7 +126,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-10-29
 > 比较教育学自 18 世纪末[[Enlightenment|启蒙运动]]奠基以来，历经准科学实证、行政[[Educational Meliorism|改良主义]]、历史-哲学人文主义、战后经验实证科学化以及批判冲突[[Paradigm|范式]]的多重代际演进，其知识形态与[[Epistemology|认识论]]内核发生了怎样的流变？在世纪之交面对多元范式并存与实证技术至上的繁荣表象时，学科究竟付出了何种认识论与方法论代价？（pp.139–140, 155–156）
 
 > [!claim] 核心主张
-> 比较教育学本质上是一门多学科交叉的[[Geisteswissenschaften|人文科学]]（Human Science, *Vergleichende Erziehungswissenschaft*），表现为一种能够因应不同时代智识思潮、方法风尚与意识形态诉求而变换装束的[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）；战[[Postpositivism|后实证主义]]对单一普遍规律与预测功能的狂热追求使学科陷入抽离情境的方法论主义，而在世纪之交多元范式扩张的表象之下，学科因近乎彻底抛弃历史维度而患上了严重的[[Historical Amnesia|历史健忘症]]（Historical Amnesia），亟需通过历史学与社会科学的理性综合重申比较史学的合法性与人文关怀。（pp.139–140, 147–149, 155–156）
+> 比较教育学本质上是一门多学科交叉的人文科学（Human Science, *Vergleichende Erziehungswissenschaft*），表现为一种能够因应不同时代智识思潮、方法风尚与意识形态诉求而变换装束的[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）；战[[Postpositivism|后实证主义]]对单一普遍规律与预测功能的狂热追求使学科陷入抽离情境的方法论主义，而在世纪之交多元范式扩张的表象之下，学科因近乎彻底抛弃历史维度而患上了严重的[[Historical Amnesia|历史健忘症]]（Historical Amnesia），亟需通过历史学与社会科学的理性综合重申比较史学的合法性与人文关怀。（pp.139–140, 147–149, 155–156）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨越两个世纪的比较教育学思想史[[Document|文献]]、核心代表人物著作、方法论大论战[[Discourse|话语]]以及当代期刊研究策略计量调查。（pp.139–140, 156）
@@ -384,7 +384,7 @@ updated: 2026-10-29
 ---
 
 > [!finding-cards] 核心发现
-> 1. **[[Protean Episteme|普罗透斯式认识体系]]本质确立** 比较教育学从来不是均质单一的实证测量技术，而是一门因应不同历史时代的智识潮流、方法风尚与意识形态诉求而持续变换装束的多学科[[Geisteswissenschaften|人文科学]]，先后经历了启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验[[Positivism|实证主义]]以及批判冲突四大论述代际演替。（pp.139–140, 155）
+> 1. **[[Protean Episteme|普罗透斯式认识体系]]本质确立** 比较教育学从来不是均质单一的实证测量技术，而是一门因应不同历史时代的智识潮流、方法风尚与意识形态诉求而持续变换装束的多学科人文科学，先后经历了启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验[[Positivism|实证主义]]以及批判冲突四大论述代际演替。（pp.139–140, 155）
 > 2. **[[Empiricism|唯方法论主义]]弊端的深刻解构** 战后实证学派对超越时空的普遍因果法则与确定性预测的狂热追求，在[[Epistemology|认识论]]上异化为抽离文化情境与道德价值的方法论主义，其实质在于充当现代国家官僚规划推卸政治问责的[[Social Science as Legitimation Alibi|合法化借口]]。（pp.147–149）
 > 3. **历史假说检验的科学合法性辩护** 借鉴[[Crane Brinton|布林顿]]比较史学经验，历史研究完全能够从具体特殊事实中归纳提炼出有限范围的探索性[[Working Hypothesis|工作假说]]，并在跨情境检验中照亮未知现象，从而打破实证主义将历史学排斥于科学之外的教条壁垒。（pp.151–152）
 > 4. **[[Historical Amnesia|学科历史健忘症]]的确证与危机警告** 世纪之交实证工具与多元理论繁荣的背后付出了抛弃历史维度的沉重代价；权威期刊计量数据证实历史研究份额已跌破 5%，学科深陷严重的历史健忘症，亟需通过重构历史探索性假说实现历史学与社会科学的理性综合。（pp.155–156）
@@ -398,7 +398,7 @@ updated: 2026-10-29
 ---
 
 > [!citation-card] [[Protean Episteme|普罗透斯式认识体系]]的经典界定
-> 比较教育学这一术语并非一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“[[Geisteswissenschaften|人文科学]]”，是[[Nicholas Hans|尼古拉斯·汉斯]]意义上的教育科学（Vergleichende Erziehungswissenschaft）……如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的[[Epistemology|认识论]]、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。（pp.139–140）
+> 比较教育学这一术语并非一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“人文科学”，是[[Nicholas Hans|尼古拉斯·汉斯]]意义上的教育科学（Vergleichende Erziehungswissenschaft）……如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的[[Epistemology|认识论]]、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。（pp.139–140）
 >
 > *The term comparative education (CE) is not a mono-faceted or monophonic concept/intellectual system. It is an inter- and multidisciplinary 'human science', an episteme in Nicholas Hans' sense of Vergleichende Erziehungwissenschaft... Like the Greek mythical demigod Proteus, CE at different historical periods has donned different attire, woven by differently coloured epistemological, methodological and ideological threads. Consequently, it has appeared in a variety of guises reflecting to a large degree, the intellectual, methodological and cultural strands and fads of the times. Hence, the appellation of CE as a protean episteme (Kazamias, 2001).*
 

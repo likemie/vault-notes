@@ -7,7 +7,7 @@ summary: "英国教育学者，教育领导力知识政治与政策批判研究�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
   - helen-gunter
   - region/uk
 related_concepts:
+  - "[[Politics of Knowledge]]"
   - "[[Champ]]"
   - "[[New Public Management]]"
   - "[[Knowledge Production]]"
@@ -37,11 +38,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** Helen Gunter，英国教育研究者，以对教育领导力的[[Critical Policy Analysis|批判性政策分析]]和知识政治研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])。
+> - **身份位置** Helen Gunter，英国教育研究者，以对教育领导力的[[Critical Policy Analysis|批判性政策分析]]和[[Politics of Knowledge|知识政治]]研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])。
 
 > [!info] 核心思想
 > Gunter 的研究聚焦于教育中的**知识政治**和**权力结构**。[[Argument_Møller_2017_EERJ\|Møller (2017)]]多处引用 Gunter 来支撑其核心论证：

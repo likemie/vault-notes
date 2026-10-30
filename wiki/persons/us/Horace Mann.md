@@ -7,7 +7,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Protean Episteme]]"
   - "[[Knowledge Production]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ## 简介
@@ -282,7 +283,7 @@ updated: 2026-10-20
 > > - **正统教会与私校纳税人联盟** 加尔文主义正统派指责超宗派学校导致信仰崩塌，斥其为“无神论温床”；富裕私校纳税人抨击强制征税供养他人子弟是“对私有财产的违宪掠夺与非法没收”。
 > > - **Horace Mann (1837–1848)** 论证指出财富是社会的代际信托，儿童受教育是不可剥夺的天赋权利；公立学校秉持跨宗派的基督教共同道德底线，唯有公税公立学校才能消除宗派攻讦、弥合贫富鸿沟。
 
-相关文献系统记录了学界对曼教育实践的批评反思：
+相关[[Document|文献]]系统记录了学界对曼教育实践的批评反思：
 
 > [!critique] 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 记录了保守校长联盟对曼浮光掠影考察外国的猛烈抨击，以及[[Positivism\|实证主义]]学派对其文献缺乏严格[[Variable\|变量]]因果解释的学术评价。

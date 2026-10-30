@@ -38,7 +38,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Cosmopolitanism]]"
   - "[[Positivism]]"
   - "[[Document]]"
@@ -57,6 +56,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Rote Learning]]"
   - "[[Value Neutrality]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Leading Questions]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -118,7 +118,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 ---
 
@@ -127,7 +127,7 @@ updated: 2026-10-29
 
 > [!claim] 核心主张
 > 比较教育学的现代主义发端由后启蒙现代性[[Paradigm\|范式]]所催生的两种核心母题共同塑造：
-> 1. **准科学人道主义与改良母题** 由朱利安确立，运用比较解剖学（comparative anatomy）类比、标准化[[Questionnaire\|问卷]]与跨国比较观察表，试图将教育探究建构为欧洲大陆传统意义上的整全性[[Geisteswissenschaften|人文科学]]（sciences humaines），其经验归纳从属于全人体智德协调发展、预防流血革命与促进世界和平的[[Cosmopolitanism|世界主义]]人道工程；
+> 1. **准科学人道主义与改良母题** 由朱利安确立，运用比较解剖学（comparative anatomy）类比、标准化[[Questionnaire\|问卷]]与跨国比较观察表，试图将教育探究建构为欧洲大陆传统意义上的整全性人文科学（sciences humaines），其经验归纳从属于全人体智德协调发展、预防流血革命与促进世界和平的[[Cosmopolitanism|世界主义]]人道工程；
 > 2. **政策导向的行政改良主义母题** 由英美法教育决策者确立，在欧洲体现为库森基于普鲁士考察将外部成功经验直接制度化为法国[[Guizot Law of 1833\|1833年基佐法案]]（Guizot Law of 1833）的选择性借用，在北美则体现为霍勒斯·曼等人将欧洲初等公立学校的卓越实绩转化为**击败国内保守势力、论证自由共和政体必须普及公共教育的强大合法化依据**。（pp.11–13, 24–30, 33–34）
 
 > [!concept-lens] 阅读透镜
@@ -150,7 +150,7 @@ updated: 2026-10-29
 > [!warrant]- 理论如何支撑论证
 > 这一组理论工具构成了从[[Epistemology\|认识论]]预设到政治行动策略的严密推理桥梁：
 > 1. [[Enlightenment\|启蒙现代性范式]]与改良主义解释了朱利安、[[Victor Cousin\|库森]]与[[Horace Mann\|霍勒斯·曼]]等不同国别学者何以不约而同地将教育确立为社会大厦的基石，并试图借助跨国经验来救治各国的制度缺陷；
-> 2. [[Faculty Psychology\|心灵官能心理学]]与欧洲大陆[[Geisteswissenschaften|人文科学]]概念，合理解释了朱利安[[Questionnaire\|问卷]]中看似充满道德说教与价值偏见的题项，破除了现代[[Positivism\|实证主义]]对早期文献的脱节指责；
+> 2. [[Faculty Psychology\|心灵官能心理学]]与欧洲大陆人文科学概念，合理解释了朱利安[[Questionnaire\|问卷]]中看似充满道德说教与价值偏见的题项，破除了现代[[Positivism\|实证主义]]对早期文献的脱节指责；
 > 3. 外国教育学与政策借用框架，精准切分了欧洲大陆中央集权行政体制下的法案移植逻辑，与美洲联邦分权共和政体下地方改革者动用外部证据平抑本土争议的[[Discourse|话语]]合法化机制。（pp.17–18, 28–30, 33–34）
 
 ---
@@ -202,7 +202,7 @@ updated: 2026-10-29
 ---
 
 > [!claim|step] 论证步骤一　朱利安将比较教育奠基为服从伦理规范的准实证人文科学，以全人教化预防暴力革命并构建和平秩序
-> 朱利安将比较教育界定为一门类似于比较解剖学的准实证科学，首创标准化[[Questionnaire\|问卷]]与跨国比较观察表以推进教育事实分类；这一早期构想植根于启蒙自由主义与欧洲大陆[[Geisteswissenschaften|人文科学]]传统，旨在通过体智德协调发展实现全人重生、预防流血革命并促进国际和平。（pp.11–24）
+> 朱利安将比较教育界定为一门类似于比较解剖学的准实证科学，首创标准化[[Questionnaire\|问卷]]与跨国比较观察表以推进教育事实分类；这一早期构想植根于启蒙自由主义与欧洲大陆人文科学传统，旨在通过体智德协调发展实现全人重生、预防流血革命并促进国际和平。（pp.11–24）
 
 > [!sub-claim] 1. 朱利安借比较解剖学类比构建事实分类，设计覆盖六大领域的跨国教育观察指标体系
 
@@ -241,7 +241,7 @@ updated: 2026-10-29
 
 ---
 
-> [!sub-claim] 2. 朱利安准实证科学并非现代[[Value Neutrality|价值无涉]]实证论，而是归属欧陆二级精神科学并服从全人教化
+> [!sub-claim] 2. 朱利安准实证科学并非现代[[Value Neutrality|价值无涉]]实证论，而是归属欧陆二级[[Geisteswissenschaften|精神科学]]并服从全人教化
 
 在 20 世纪下半叶的学科史叙事中，朱利安因最早倡导建立事实分析图表而被尊为实证主义先驱。然而，当[[Behaviorism|行为主义]]实证学派以现代定量测量的“[[Value Neutrality|价值无涉]]”尺度检验其问卷时，却指认其题项充斥着大量不可容忍的主观偏见与诱导性提问：
 

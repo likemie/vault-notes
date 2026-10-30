@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - theme/research-synthesis
   - theme/evidence-based-policy
 related_concepts:
+  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Output-Oriented Governance]]"
   - "[[Paradigm]]"
@@ -65,13 +66,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）、国家工程院（[[Swedish National Agency for Education|NAE]]）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循[[United States Congress|美国国会]]法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审[[Research Synthesis|证据综合]]报告著称；在教育政策领域，NRC 既在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动初期系统审查全美基于标准的问责制实证文献并确立顶层科学合法性（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]），又在 2012 年里程碑报告《公共政策中的科学[[Research Utilization|证据使用]]》中系统提炼出学者介入[[Output-Oriented Governance|循证治理]]面临的结构性两难。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
+> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）、国家工程院（[[Swedish National Agency for Education|NAE]]）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循[[United States Congress|美国国会]]法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审[[Research Synthesis|证据综合]]报告著称；在教育政策领域，NRC 既在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动初期系统审查全美基于标准的问责制实证[[Document|文献]]并确立顶层科学合法性（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]），又在 2012 年里程碑报告《公共政策中的科学[[Research Utilization|证据使用]]》中系统提炼出学者介入[[Output-Oriented Governance|循证治理]]面临的结构性两难。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创立于 1916 年。由时任美国总统伍德罗·威尔逊（Woodrow Wilson）倡议成立，旨在将全美顶尖科学家与技术专家的智力资源组织化，为联邦政府及各州在重大公共危机与战略决策中提供独立、客观且经严格同行评审的科学咨询。

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,7 +42,8 @@ related_theories: []
 related_methods:
   - "[[Statistical Process Control]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[William Shockley]]"
 related_facts:
   - "[[Department of Defense]]"
   - "[[Bell Labs]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-26
 > 仙童半导体（Fairchild Semiconductor）是 1957 年诞生于美国加利福尼亚州[[San Francisco Bay Area|旧金山湾区]]的半导体旗舰先驱企业。作为冷战时期硅谷与国家安全军工需求深度融合的典型代表，该公司首创了平面工艺（Planar Process）、单片集成电路（Monolithic Integrated Circuit）、[[Dual In-Line Package|双列直插封装]]（Dual In-Line Package, DIP）以及[[Application Engineering|应用工程]]（Application Engineering）服务模式。其早期成长不仅直接依托中央情报局（Central Intelligence Agency, CIA）间谍侦察卫星与军工导弹合同，更推动硅微电子转化为[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT），为硅谷奠定了高科技风险投资与衍生创业（Fairchildren）生态基石。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1957 年成立。由脱离肖克利半导体实验室（Shockley Semiconductor Laboratory）的“八叛逆”（Traitorous Eight：罗伯特·诺伊斯 Robert Noyce、戈登·摩尔 Gordon Moore、让·赫尔尼 Jean Hoerni、杰·拉斯特 Jay Last、谢尔顿·罗伯茨 Sheldon Roberts、朱利叶斯·布兰克 Julius Blank、尤金·克莱纳 Eugene Kleiner 与维克托·格里尼奇 Victor Grinich）共同创办，获得纽约东海岸仙童照相机与仪器公司（Fairchild Camera and Instrument, FCI）资助。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 182)]]
+> - **成立时间 / 创设背景** 1957 年成立。由脱离[[William Shockley|肖克利]]半导体实验室（Shockley Semiconductor Laboratory）的“八叛逆”（Traitorous Eight：罗伯特·诺伊斯 Robert Noyce、戈登·摩尔 Gordon Moore、让·赫尔尼 Jean Hoerni、杰·拉斯特 Jay Last、谢尔顿·罗伯茨 Sheldon Roberts、朱利叶斯·布兰克 Julius Blank、尤金·克莱纳 Eugene Kleiner 与维克托·格里尼奇 Victor Grinich）共同创办，获得纽约东海岸仙童照相机与仪器公司（Fairchild Camera and Instrument, FCI）资助。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 182)]]
 > - **总部地点 / 业务辐射** 总部设于加州山景城与帕洛阿尔托；在加州圣拉斐尔、缅因州南波特兰及中国香港、韩国建立制造与封装分支网络，业务辐射全球军工与民用整机厂商。
 > - **法人属性与经费基础** 营利性高科技股份制企业；早期依托国防部与情报机构军工高[[Reliability|可靠性]]硅晶体管与侦察航电订单盈利，后期通过大规模民用元器件销售与离岸制造维持庞大现金流。
 > - **核心宗旨与法定职责** 研发和量产尖端高性能硅半导体元器件，为国防航电、侦察航天、商用计算机与工业控制系统提供高可靠性、低成本的微电子解决方案。

@@ -9,7 +9,7 @@ summary: "将质性数据收集嵌入实验或干预过程多个时间点的复�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Pre-test and Post-test]]"
@@ -38,11 +39,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> [[Mixed Methods Research\|混合方法]]实验（干预）设计（Mixed Methods Experimental/Intervention Design）是一种复杂混合方法设计，将质性数据收集嵌入实验或干预过程中，使参与者的个人经验得以纳入研究。这要求研究者既理解实验设计又能够严格实施实验（如[[Randomised Controlled Trials\|随机对照试验]]），同时使用质性数据来丰富对实验过程和结果的理解([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.245]])。
+> [[Mixed Methods Research\|混合方法]]实验（干预）设计（Mixed Methods Experimental/Intervention Design）是一种复杂混合方法设计，将质性数据收集嵌入实验或干预过程中，使参与者的个人经验得以纳入研究。这要求研究者既理解[[Experimental Research|实验设计]]又能够严格实施实验（如[[Randomised Controlled Trials\|随机对照试验]]），同时使用质性数据来丰富对实验过程和结果的理解([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.245]])。
 
 质性数据可以在实验的不同时间点加入（Sandelowski, 1996）：实验前、实验中或实验后。加入的时间点决定了嵌入的核心设计类型。
 

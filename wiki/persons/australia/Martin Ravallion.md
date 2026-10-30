@@ -9,7 +9,7 @@ summary: "澳大利亚著名发展经济学家、微观计量学大师（1952–
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
   - "[[Epistemic Governance]]"
   - "[[Performance Indicators]]"
 related_theories: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 # Martin Ravallion
@@ -95,7 +96,7 @@ updated: 2026-10-23
 >   - **代表专著** 《贫困的经济学：历史、衡量与政策》（The Economics of Poverty, 2016）。
 
 > [!claim] 核心思想
-> 拉瓦利安的核心学术主张是“贫困测量的客观公理化与因果推断的实证严密性”。他主张公共政策干预必须建立在严谨的微观住户调查与反事实计量对照之上，坚决反对脱离实证数据的主观空谈。在其主政[[World Bank|世行]]科研部门期间，他一方面极大地推动了世行实证学术成果的规模化产出，使世行成为全球最大的应用发展经济学思想库；另一方面，他保持着敏锐的学术自省，通过严密的文献计量审计揭示了世行出版物在不同学科中的分布结构与引用偏好，为后世学者反思国际组织的[[Epistemic Governance|认知治理]]提供了不可多得的一手实证基底。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–6)]]
+> 拉瓦利安的核心学术主张是“贫困测量的客观公理化与因果推断的实证严密性”。他主张公共政策干预必须建立在严谨的微观住户调查与反事实计量对照之上，坚决反对脱离实证数据的主观空谈。在其主政[[World Bank|世行]]科研部门期间，他一方面极大地推动了世行实证学术成果的规模化产出，使世行成为全球最大的应用发展经济学思想库；另一方面，他保持着敏锐的学术自省，通过严密的[[Document|文献]]计量审计揭示了世行出版物在不同学科中的分布结构与引用偏好，为后世学者反思国际组织的[[Epistemic Governance|认知治理]]提供了不可多得的一手实证基底。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–6)]]
 
 > [!citation-card] 拉瓦利安论严谨实证评估对政策有效性的基础价值
 > 评估一项社会发展政策是否成功，不能依赖良好的行政意愿或资金拨付规模，而必须借助精确构建的反事实对照组，测算出干预措施给目标群体带来的净增量效应。实证数据是纠正政策偏见、保障公共资金发挥减贫实效的唯一可靠防线。(Ravallion, 2001)

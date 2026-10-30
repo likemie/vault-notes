@@ -11,10 +11,10 @@ summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1775"
 died: "1829"
 lifespan: "1775–1829"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Bildung]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Recontextualization]]"
 related_theories: []
@@ -43,6 +44,7 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
 related_facts:
+  - "[[National Education]]"
   - "[[Guizot Law of 1833]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
@@ -52,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 普鲁士枢密顾问官（Geheimer Oberregierungsrat）、宗教与教育事务部学校司司长，德国新人文主义教育改革家与法制规划者。
-> - **核心角色** 普鲁士后耶拿时期（1806 年战败后）国家现代化重组与国民教育体系的制度总建筑师；将威廉·冯·洪堡（Wilhelm von Humboldt）的新人文主义全人教化理念转译为国家法律规程与行政制度架构。
+> - **核心角色** 普鲁士后耶拿时期（1806 年战败后）国家现代化重组与[[National Education|国民教育]]体系的制度总建筑师；将威廉·冯·洪堡（Wilhelm von Humboldt）的新人文主义全人教化理念转译为国家法律规程与行政制度架构。
 > - **代表贡献** 主持起草著名的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》（*Entwurf eines allgemeinen Gesetzes über die Verfassung des Schulwesens im preußischen Staate*），确立世俗国家对教育的最高监督主权、市镇法定办学义务、初等小学与市民学校[[Dual School System\|双轨学制]]架构，以及各省公立[[Normal School\|师范学校]]网络，成为[[Victor Cousin\|维克多·库森]]（Victor Cousin）赴德考察并推行法国国家教育改革的核心技术母本。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 26–29)]]
 
 > [!citation-card] 人物定位的关键来源：库森对[[Johann Wilhelm Süvern|聚芬]] 1819 年草案的极高推崇
@@ -101,7 +103,7 @@ updated: 2026-10-25
 > [!influence-path] 影响路径
 > - **德意志本土法制路径** 虽然 1819 年法案草案在国家层面未获国王正式签字成法，但其各项具体制度细则（如市镇公学经费分摊、省立师训规程、视导体制）直接成为普鲁士教育部各省行政规程的指导大纲，事实上完成了普鲁士全境初等国民教育与师资制度的规范化统一。
 > - **法国立法跨国转置路径** 1831 年法国哲学家[[Victor Cousin\|维克多·库森]]深入研究[[Johann Wilhelm Süvern|聚芬]]草案文本，以其为蓝本撰写《普鲁士公共教育现状报告》；该报告随后被七月王朝公共教育部部长[[François Guizot\|弗朗索瓦·基佐]]全盘吸收，使聚芬草案的四大支柱（国家最高监督、市镇强制设校、省立师范垄断、初等双轨层级）在法国《1833 年[[Guizot Law of 1833\|基佐法案]]》中实现实定法重构。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
-> - **跨大西洋[[Common School Movement\|公学运动]]动员** 聚芬所设计的国家世俗监督与专业化[[Normal School\|师范学校]]规程，通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的英译本以及斯托（Stowe, 1837）、曼（Mann, 1844）与巴纳德（Barnard, 1854, 1872）的欧洲考察文献传播至北美，成为美利坚公共学校运动反驳宗派割据、推动州立教育委员会立法与公立师范设立的核心域外实证依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
+> - **跨大西洋[[Common School Movement\|公学运动]]动员** 聚芬所设计的国家世俗监督与专业化[[Normal School\|师范学校]]规程，通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的英译本以及斯托（Stowe, 1837）、曼（Mann, 1844）与巴纳德（Barnard, 1854, 1872）的欧洲考察[[Document|文献]]传播至北美，成为美利坚公共学校运动反驳宗派割据、推动州立教育委员会立法与公立师范设立的核心域外实证依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 详细考证聚芬草案作为 19 世纪欧陆国家现代化建制的核心枢纽地位，以及其如何通过库森报告驱动法国实定法移植并影响北美公学运动。

@@ -11,7 +11,7 @@ summary: "伞状综述与二阶元分析中用于量化系统评价间初级研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - method/meta-meta-analysis
 related_concepts:
   - "[[Primary and Secondary Documents]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
 related_theories: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-29
 
 > [!concept-lens] 概念透镜
 > - **测量对象** 跨多个一阶[[Meta-analysis\|元分析]]或系统评价的初级研究引用矩阵（Citation Matrix）。
-> - **核心功能** 揭示二阶证据库中的文献重复包含程度，量化因重复计算同一批受试者样本而导致的[[Standard Error\|标准误]]虚假收缩与假阳性检验膨胀风险。
+> - **核心功能** 揭示二阶证据库中的[[Document|文献]]重复包含程度，量化因重复计算同一批受试者样本而导致的[[Standard Error\|标准误]]虚假收缩与假阳性检验膨胀风险。
 > - **应用决策** 为研究者筛选、合并或剔除高重叠一阶元分析提供客观的数学门槛（通常以 $CCA > 10\%$ 作为不可接受的高重叠排除界限）。
 
 ---

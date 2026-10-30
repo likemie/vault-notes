@@ -9,7 +9,7 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Deficit Framing]]"
+  - "[[Document]]"
   - "[[School Leadership]]"
   - "[[New Managerialism]]"
 related_theories: []
@@ -41,7 +42,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-10-22
 > > - **批评视角（批判教育社会学）** 跳板信托模式将薄弱学校困境单向归咎于校长缺乏商业规划技能的“缺陷框架”，掩盖了公费财政拨款不足与贫困隔离等结构性矛盾；不懂教育规律的银行家对校长进行辅导，异化了教育领导力的育人本职。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
 > > - **机构立场（正方）** 战略规划是现代组织运行的普适通用法则，商界志愿者的系统训练切实提升了校长的资源调配效率与治校信心。
 
-> [!citation-card] 代表性批评与反思文献
+> [!citation-card] 代表性批评与反思[[Document|文献]]
 > [[NEXT Foundation|NEXT 基金会]]全额出资支持跳板信托，为处于低阶学区的学校校长提供领导力与战略规划培训项目……跳板信托安排商界专业人士担任‘能力伙伴’，与校长并肩工作，协助他们为所在学校制定战略规划。跳板信托的董事会主席兼课程项目设计者正是伊恩·纳列夫——他此前是麦肯锡公司的资深合伙人，随后出任澳大利亚联邦银行首席执行官。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
 >
 > *The Springboard Trust provides business people as ‘Capacity Partners’ who work alongside the principals to assist them to develop strategic plans for their school. The Chair of Springboard Trust and designer of the programme curriculum is Ian Narev, previously a partner at McKinsey and Company, and currently CEO of Commonwealth Bank of Australia.*

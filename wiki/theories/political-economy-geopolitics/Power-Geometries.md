@@ -6,7 +6,7 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -42,12 +42,13 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
+  - "[[Double First-Class Initiative]]"
 related_arguments:
   - "[[Argument_Marginson_2025_ECNUROE]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -92,7 +93,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 争议与批评
-> - 权力几何学可能过度强调空间关系中的不平等控制，而低估了"底层"行动者的能动性——例如，亚洲国家通过大规模国家投资策略（如中国的双一流建设）正在逐步改变全球高等教育的权力地图，这说明权力几何不是固定的([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 17–20]])
+> - 权力几何学可能过度强调空间关系中的不平等控制，而低估了"底层"行动者的能动性——例如，亚洲国家通过大规模国家投资策略（如中国的[[Double First-Class Initiative|双一流建设]]）正在逐步改变全球高等教育的权力地图，这说明权力几何不是固定的([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 17–20]])
 > - 与 [[World-Systems Theory\|世界体系理论]] 的区别在于：权力几何学容许多个权力中心、多维度的不平等，以及不平等格局的历史可变性——但其[[Analytic Framework\|分析框架]]较为抽象，在经验[[Operationalization\|操作化]]上不如世界体系理论的中心-边缘分类直观([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])
 
 ---

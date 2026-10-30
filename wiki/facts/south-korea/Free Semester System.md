@@ -11,7 +11,7 @@ subtype: policy
 region: south-korea
 fact_region: "south-korea"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Formative Assessment]]"
   - "[[Progressive Education]]"
+  - "[[Student Motivation]]"
   - "[[Paradigm]]"
   - "[[Active Learning]]"
   - "[[PISA Literacy]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-10-26
 > [!indicators] 评价指标
 > - **投入指标** 覆盖全国 3200 余所初中，中央与地方设立专项体验基地经费。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **过程指标** 教师主动教学法应用比例、学生自主探究课时占比、校外生涯体验覆盖率。
-> - **结果指标** 学生学校归属感与学习动机、课堂参与度、校外补习支出波动。
+> - **结果指标** 学生学校归属感与[[Student Motivation|学习动机]]、课堂参与度、校外补习支出波动。
 
 > [!finding-cards] 效果与评价
 > - **课堂教学[[Paradigm|范式]]翻转** 显著活跃了初中课堂氛围，打破了单向[[Rote Learning|死记硬背]]灌输，推动教师转向基于讨论与探究的[[Active Learning|主动学习]]模式。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]

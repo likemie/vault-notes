@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Initial Teacher Training]]"
+  - "[[Teacher Qualifications]]"
   - "[[Normal School]]"
   - "[[Discourse]]"
   - "[[Visible Learning]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Heterogeneity]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods: []
@@ -55,7 +57,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +66,7 @@ updated: 2026-10-22
 > 澳大利亚教学与[[School Leadership|学校领导力]]研究院（Australian Institute for Teaching and School Leadership, AITSL）是澳大利亚联邦政府设立的全国性法定专业机构，于 2010 年正式运营，负责研制与推行全国教师与校长专业标准，并主导[[Initial Teacher Training|初始教师教育]]（Initial Teacher Education, ITE）项目的国家认证规程。在国家教育治理中，AITSL 扮演着连接联邦政策议程、州级教育行政与大学教师培养机构的中央协调枢纽。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2010 年由澳大利亚联邦政府注资成立（承接原 Teaching Australia 职能），旨在克服各州及领地教师资质互认壁垒，推进全国统一的教学与学校领导专业标准。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
+> - **成立时间 / 创设背景** 2010 年由澳大利亚联邦政府注资成立（承接原 Teaching Australia 职能），旨在克服各州及领地[[Teacher Qualifications|教师资质]]互认壁垒，推进全国统一的教学与学校领导专业标准。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 > - **总部地点 / 业务辐射** 总部位于澳大利亚墨尔本，业务覆盖全澳所有州与领地的公立、天主教与独立学校体系及高等教育[[Normal School|师范院校]]。
 > - **法人属性与经费基础** 依据《联邦公司法》设立的联邦政府全资公立公司（Commonwealth company），主要经费由联邦教育部拨款支持，底层数据系统与技术网络依托非营利公共机构[[Educational Services Australia|澳大利亚教育服务公司]]（ESA）运营。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **核心宗旨与法定职责** 官方宗旨在于通过提供严谨的国家标准、专业资质认证指南与循证实践资源，赋能高素质教师队伍与卓越[[School Leadership|学校领导力]]，进而促进全体澳大利亚学生学业素养的提升。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
@@ -152,4 +154,4 @@ updated: 2026-10-22
 > | [[Teacher Education Ministerial Advisory Group]] | 事实 | 巩固并扩张 AITSL 在全国 ITE 认证中主导地位的前期改革文本。 |
 > | [[Australian Education Research Organisation]] | 事实 | 与 AITSL 相互配合进行循证证据监管与大纲起草的联邦中介组织。 |
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | 论证 | 剖析 AITSL 职权扩张、智库[[Policy Network\|理念编排]]与监视治理机制的实证文献。 |
-> | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 论证 | 记录哈蒂自述 AITSL 避免短期行政运动、深耕学区中间领导治理策略的实证文献。 |
+> | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 论证 | 记录哈蒂自述 AITSL 避免短期行政运动、深耕学区中间领导治理策略的实证[[Document\|文献]]。 |

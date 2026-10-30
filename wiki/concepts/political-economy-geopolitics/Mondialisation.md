@@ -5,7 +5,7 @@ aliases:
 summary: "强调星球共同体、生命多样性和世界普遍责任的替代全球化概念，用以对抗市场驱动的单一路径全球化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - world-making
 - alternative-globalization
 related_concepts:
+  - "[[Mutual Learning]]"
   - "[[Discourse]]"
   - "[[Posthumanism]]"
 related_theories: []
@@ -27,13 +28,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
 > Mondialisation（世界化）是作为 globalisation（全球化）的**替代概念**被提出的。在 [[Argument_Amos_2022_Springer\|Amos (2022, p.61)]] 的使用中，它指的是以"对生命的顾及和对多元形式的尊重"为核心的全球意识——与将全球化等同于市场扩张、劳动力灵活化和文化同质化的主流理解形成对抗。
 >
-> > 例：Globalisation 想象的世界是：同一家连锁咖啡店出现在全球每个机场，各国大学用同样的排名指标竞争。Mondialisation 想象的世界是：每个地方有自己独特的咖啡文化和种植传统，大学各自回应所在社区和生态系统的需求，但通过跨地网络相互学习和支持。一个追求"同一"，一个追求"多元中的联结"。
+> > 例：Globalisation 想象的世界是：同一家连锁咖啡店出现在全球每个机场，各国大学用同样的排名指标竞争。Mondialisation 想象的世界是：每个地方有自己独特的咖啡文化和种植传统，大学各自回应所在社区和生态系统的需求，但通过跨地网络[[Mutual Learning|相互学习]]和支持。一个追求"同一"，一个追求"多元中的联结"。
 >
 
 > [!note-] 概念演变

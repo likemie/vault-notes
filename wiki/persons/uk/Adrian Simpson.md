@@ -7,7 +7,7 @@ summary: "英国数学教育学者和方法论批评者，效应量误用问题�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[Metacognition]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Whole Language]]"
   - "[[Heterogeneity]]"
@@ -37,6 +38,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Sample Size Determination]]"
+  - "[[Experimental Research]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
@@ -54,7 +56,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -89,7 +91,7 @@ updated: 2026-10-22
 >
 > **测量设计——聚焦度与精确度([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.11–14]])** 聚焦度——假设肥料仅对阳光下豆子有效，测量阳光下的豆子 → 更大效应量。精确度——选 5 颗 vs 10 颗豆子测量 → 后者效应量可达前者的 140%。教育中非标准化测试平均比标准化测试高约 40%（[[Education Endowment Foundation\|EEF]] Toolkit 14 项元分析）；对 α=0.75 的测试，20 题使效应量翻倍以上（Figure 3）。
 >
-> **核心洞察** 好的实验者**合法地操纵 d** 来增强实验灵敏度——这是良好实验设计的体现。但操纵自由度因教育领域而异：反馈和[[Metacognition\|元认知]]研究可限制样本、设计聚焦测试、选择无干预比较；延长学校日或校服研究无法如此。"联盟表"排名较高的领域仅是研究者**更容易设计敏感试验**的领域，而非干预更有效的领域。
+> **核心洞察** 好的实验者**合法地操纵 d** 来增强实验灵敏度——这是良好[[Experimental Research|实验设计]]的体现。但操纵自由度因教育领域而异：反馈和[[Metacognition\|元认知]]研究可限制样本、设计聚焦测试、选择无干预比较；延长学校日或校服研究无法如此。"联盟表"排名较高的领域仅是研究者**更容易设计敏感试验**的领域，而非干预更有效的领域。
 >
 > **效应量应更名为"效应清晰度"([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.14]])** 效应量"名字起得不好"——应称为 effect clarity。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——正如 Lipsey and Hurley (2009) 推荐的最小化组内变异——但这与干预的教育价值无关。
 >
@@ -115,7 +117,7 @@ updated: 2026-10-22
 >
 > Simpson 以教授 Corncrake 的寓言（"1,031 是质数：31 是质数，加上 1,000 不会改变任何东西"）开篇，说明**论证的有效性和结论的正确性必须被区分**——效应量的结论可能碰巧正确，但推导它们的论证是无效的([[Argument_Simpson_2019_ERE\|Simpson, 2019, p.99]])。
 >
-> **支持者的防御策略分析([[Argument_Simpson_2019_ERE\|Simpson, 2019, pp.106–108]])** Simpson 贡献了 [[Evidence-Based Education\|EBE]] 批判文献中一个此前未被充分发展的分析维度——EBE 支持者对批评的防御策略。他引用 Freedman（2009）识别的统计论证被揭露缺陷后的九种防御形式，并展示了它们在效应量文献中的具体表现：
+> **支持者的防御策略分析([[Argument_Simpson_2019_ERE\|Simpson, 2019, pp.106–108]])** Simpson 贡献了 [[Evidence-Based Education\|EBE]] 批判[[Document|文献]]中一个此前未被充分发展的分析维度——EBE 支持者对批评的防御策略。他引用 Freedman（2009）识别的统计论证被揭露缺陷后的九种防御形式，并展示了它们在效应量文献中的具体表现：
 >
 > | 防御策略 | 效应量文献中的表现 |
 > |---------|-----------------|

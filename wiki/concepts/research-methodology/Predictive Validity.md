@@ -8,7 +8,7 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的跨期预测能力。在教育测评中涵盖从入学考选拔、高阶创造潜能到微观课堂教学行为对学业增益的实证预测，依赖无偏效标与行为锚定规程进行验证。"
 type: concept
 domain: "research-methodology"
-related_count: 54
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -39,10 +39,10 @@ related_concepts:
   - "[[Criterion Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Consequential Validity]]"
+  - "[[Evaluative Validity]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Heterogeneity]]"
   - "[[Effective Teaching]]"
-  - "[[Q-Factor]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Classical Test Theory]]"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Second-Order Meta-Regression]]"
+  - "[[Q-Factor]]"
   - "[[Cohort Study]]"
   - "[[Fixed-Effect Model]]"
   - "[[Multiple Regression]]"
@@ -68,6 +69,8 @@ related_instruments:
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Mark A. Runco]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Plato]]"
 related_facts:
   - "[[Gaokao]]"
@@ -191,7 +194,7 @@ updated: 2026-10-30
 > **复合计量指标对未来科研产出卓越度的强预测效度命题** 希尔施（Hirsch, 2007）对凝聚态物理学者开展前后跨度各 12 年的生涯追踪表明，单纯发文量（生产力）在预测学者未来表现上效度最弱，篇均被引量次之；$h$ 指数不仅对未来 12 年累积总被引展现出最强预测力，而且在预测学者在随后 12 年发表新作的被引增量时，依然全面超越总引用与发文量，证实了将生产力与影响力卷积的复合指标具备卓越的跨期预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 
 > [!claim] Sinatra et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]]
-> **Q 因子在顶尖荣誉预测中的效度优势** Sinatra et al. 基于《物理评论》长周期物理学者引文网络构建受试者工作特征（ROC）预测竞争，评估各项指标对诺贝尔物理学奖得主的辨识效力。结果证实，表征学者个体稳定转化能力的 Q 因子取得了最高的受试者工作特征曲线下面积（AUC），预测精度显著超越 h 指数与总被引量，而单纯的发文篇数在预测顶尖荣誉上表现垫底，其 ROC 曲线接近无区分对角线。这表明在识别真正卓越的学术突破时，剥离了发文数量干扰与选题随机运气的个体均值稳态指标具备最优的预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–70)]]
+> **[[Q-Factor|Q 因子]]在顶尖荣誉预测中的效度优势** Sinatra et al. 基于《物理评论》长周期物理学者引文网络构建受试者工作特征（ROC）预测竞争，评估各项指标对诺贝尔物理学奖得主的辨识效力。结果证实，表征学者个体稳定转化能力的 Q 因子取得了最高的受试者工作特征曲线下面积（AUC），预测精度显著超越 h 指数与总被引量，而单纯的发文篇数在预测顶尖荣誉上表现垫底，其 ROC 曲线接近无区分对角线。这表明在识别真正卓越的学术突破时，剥离了发文数量干扰与选题随机运气的个体均值稳态指标具备最优的预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–70)]]
 
 ---
 
@@ -209,8 +212,8 @@ updated: 2026-10-30
 > - **1950 年代 — [[Classical Test Theory|经典测验理论]]奠基** 美国心理学会（APA）测验技术标准确立[[Criterion-related Validity|效标关联效度]]，将预测效度定为评估高风险选拔工具与[[Achievement and Aptitude Tests|能力倾向测验]]的核心准则。
 > - **1970–1980 年代 — [[Criterion Problem|效标问题]]与效标污染反思** Shapiro (1970) 与 Wolf (1994) 系统批判外部效标缺失与效标污染对预测效度推断的扭曲，推动了双盲评分与复合客观效标的设计。
 > - **1990–2000 年代 — Messick 统一效度框架** Messick 将预测效度整合进以[[Construct Validity|构念效度]]为核心的整体[[Chain of Evidence|证据链]]中，强调预测分数的社会[[Consequential Validity|后果效度]]与决策伦理。
-> - **2007 / 2021 年 — 科研评价指标长程预测效度追踪** 希尔施（Hirsch, 2007）与王大顺、巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 21–23]]）开展前后各 12 年纵向追踪，证实 $h$ 指数对学者长程新作被引增量的预测效度显著优于单纯发文量与篇均被引。
-> - **2016 / 2021 年 — 诺贝尔奖预测竞赛与科研评价效度** Sinatra et al. 与王大顺、巴拉巴西通过多指标受试者工作特征（ROC）竞争分析，证实 Q 因子在预测诺贝尔物理学奖得主上具备最高曲线下面积（AUC），显著超越 h 指数与总被引，而发文量预测效度垫底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–70)]]
+> - **2007 / 2021 年 — 科研评价指标长程预测效度追踪** 希尔施（Hirsch, 2007）与[[Dashun Wang|王大顺]]、[[Albert-László Barabási|巴拉巴西]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 21–23]]）开展前后各 12 年纵向追踪，证实 $h$ 指数对学者长程新作被引增量的预测效度显著优于单纯发文量与篇均被引。
+> - **2016 / 2021 年 — 诺贝尔奖预测竞赛与科研[[Evaluative Validity|评价效度]]** Sinatra et al. 与王大顺、巴拉巴西通过多指标受试者工作特征（ROC）竞争分析，证实 Q 因子在预测诺贝尔物理学奖得主上具备最高曲线下面积（AUC），显著超越 h 指数与总被引，而发文量预测效度垫底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–70)]]
 > - **2016–2019 年 — [[Classroom Observation|课堂观察]]工具与中低收入国家学业增值预测** Gill et al. (2016) 比较五大主流观察工具（CLASS、FFT、[[Plato]]、MQI、UTeach）的行为维度及其对[[Academic Achievement|学业表现]]的预测力；[[World Bank|世界银行]]发布 Teach 工具（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]；Molina et al., 2018），实证确立微观教学行为对学生未来学业增益（0.08–0.12 SD）的跨期预测效度，打破静态教师文凭对学业产出缺乏预测力的困局。
 > - **2020 年代 — [[Meta-meta-analysis|二阶元分析]]量化预测效度谱系** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 124 万人样本，确立高阶[[Creativity|创造潜能]]全领域预测效度的量化基准（$r = 0.29$），并证明其预测效度在各类设计中的跨模型稳健性与不对称性。
 

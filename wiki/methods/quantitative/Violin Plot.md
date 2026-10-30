@@ -7,7 +7,7 @@ summary: "一种结合箱线图与核密度估计的定量数据可视化方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-10-29
 > [!method-scope] 方法范围
 > - **研究对象** 连续型数值变量、模型预测输出、[[Effect Size\|效应量]]分布、评分数据或多组实验测量值。
 > - **问题类型** 适合回答多组别分布形状对比、分布对齐性检验、非正态性与多峰识别、以及极值与离散程度辨析。
-> - **[[Unit of Analysis\|分析单位]]** 观测值、被试得分、[[Meta-analysis\|元分析]]效应量、文献提取指标或模型参数。
+> - **[[Unit of Analysis\|分析单位]]** 观测值、被试得分、[[Meta-analysis\|元分析]]效应量、[[Document|文献]]提取指标或模型参数。
 > - **输出形式** 水平或垂直排列的多组对称密度外轮廓，内部内嵌微型箱线图、中位数标记点或散点抖动（Jitter）。
 
 > [!citation-card] 小提琴图的视觉统合逻辑

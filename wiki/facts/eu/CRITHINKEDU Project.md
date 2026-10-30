@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
   - theme/curriculum-assessment
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Formative Assessment]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 事件经过
-> - **2016 — 全欧课程大纲普查与文献梳理** 系统检索与编码欧洲 9 国大学课程大纲中[[Critical Thinking\|批判性思维]]的表征形态与教学痛点。
+> - **2016 — 全欧课程大纲普查与[[Document|文献]]梳理** 系统检索与编码欧洲 9 国大学课程大纲中[[Critical Thinking\|批判性思维]]的表征形态与教学痛点。
 > - **2017 — 研制欧洲高等教育批判性思维框架** 确立包含认知技能（分析、评价、推论）与情意倾向（求真、开放、系统性）的二维框架。
 > - **2018–2019 — 开发教学与评价指南并在全欧试点培训** 研制《高等教育课程中批判性思维教学与评价指南》，并在 9 国高校开展教师教学发展工作坊。
 

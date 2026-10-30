@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,9 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Document]]"
   - "[[Decodification]]"
+  - "[[Phonemic Awareness]]"
   - "[[Evidence Standards]]"
   - "[[Implementation Fidelity]]"
   - "[[Response to Proven Instruction]]"
@@ -48,13 +50,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Intensive Reading Remediation（密集阅读补救，文献中常称 Blachman 密集干预模型）** 是由雪城大学（Syracuse University）著名特殊教育与阅读障碍学者贝妮塔·布拉奇曼（Benita A. Blachman）领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学中低年级重度阅读困难专业教师一对一临床救济方案；其核心战略是针对小学二至三年级经过常规教学与早期初步辅导依然深陷严重阅读障碍（Dyslexia 边缘）的高危儿童，实施长达整整一学年、每日 50 分钟的高强度显性系统拼读救济。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **Intensive Reading Remediation（密集阅读补救，[[Document|文献]]中常称 Blachman 密集干预模型）** 是由雪城大学（Syracuse University）著名特殊教育与阅读障碍学者贝妮塔·布拉奇曼（Benita A. Blachman）领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学中低年级重度阅读困难专业教师一对一临床救济方案；其核心战略是针对小学二至三年级经过常规教学与早期初步辅导依然深陷严重阅读障碍（Dyslexia 边缘）的高危儿童，实施长达整整一学年、每日 50 分钟的高强度显性系统拼读救济。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 1990 年代末，在纽约州多所公立学区开展大规模[[Randomised Controlled Trials\|随机对照试验]]，2004 年发表标志性因果评估报告。
@@ -69,7 +71,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计与教学规程
 > - **五步高强度临床教学规程** 每日 50 分钟划分为：
->   - **音素意识与图素对应复习（Review of Sound-Symbol Correspondences，5 分钟）**
+>   - **[[Phonemic Awareness|音素意识]]与图素对应复习（Review of Sound-Symbol Correspondences，5 分钟）**
 >   - **音素混合与非词/规则词精准解码（Phoneme Blending and Word Reading，15 分钟）**
 >   - **高频不规则词自动识别（Sight Word Fluency，5 分钟）**
 >   - **拼写听写与句子建构（Spelling and Dictation，10 分钟）**

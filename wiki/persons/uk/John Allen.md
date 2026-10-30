@@ -7,7 +7,7 @@ summary: "英国开放大学经济与人文地理学荣休教授，拓扑空间�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Assemblage]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Policy Mobility]]"
   - "[[Governing by Numbers]]"
   - "[[Champ]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-26
 > - **1980 年代–1990 年代** 长期执教于英国开放大学地理系，专注于服务业经济地理、城市变迁与权力空间性研究。
 > - **2003 年** 出版里程碑式专著《失落的权力地理学》（*Lost Geographies of Power*），系统批判传统政治地理学中将权力等同于领土面积或资源的容器化倾向，奠定[[Relational Space\|关系性空间]]权力观。
 > - **2010 年** 与艾伦·科克伦（Allan Cochrane）合著发表《国家权力的[[Assemblage\|组装]]：政府与政治组织中的拓扑转移》（*Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*），将拓扑学与[[Assemblage\|装配理论]]全面结合，开创国家治理[[Topological Spatialisation\|拓扑重组]]新[[Paradigm\|范式]]。
-> - **2011 年** 发表经典论文《拓扑扭转：权力转移的地理学》（*Topological Twists: Power's Shifting Geographies*），成为当代社会科学与教育治理空间分析的权威引用文献。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 137)]]
+> - **2011 年** 发表经典论文《拓扑扭转：权力转移的地理学》（*Topological Twists: Power's Shifting Geographies*），成为当代社会科学与教育治理空间分析的权威引用[[Document|文献]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 137)]]
 > - **2016 年至今** 担任开放大学荣休教授，理论成果被广泛迁移至全球教育[[Policy Mobility\|政策流动]]、[[Governing by Numbers\|数字治理]]与大[[Data Infrastructure\|数据基础设施]]研究中。
 
 ---

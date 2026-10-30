@@ -6,7 +6,7 @@ aliases:
 summary: "Jacqueline Edmondson 提出的教育政策分析理论框架，将批判理论与参与式多元主义相结合，主张政策是负载权威价值观的社会建构，倡导教育者通过三类政策研究与多阵线政治策略实现实质性民主参与"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Research Question]]"
   - "[[Evidence Standards]]"
+  - "[[Differentiated Instruction]]"
   - "[[Multiplist]]"
 related_theories:
   - "[[Pluralism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!theory-position] 理论定位
@@ -123,7 +124,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|
 > | 政策的人为价值建构属性 | **政策本质与价值预设** 政策界定了何种权威生活愿景？优先赋予了谁的利益正当性？ | 法案陈述、核心词汇法定定义、受资助项目的价值偏好。 | 若政策强行将特定学术[[Paradigm\|范式]]上升为法律强制标准，表明其处于价值规制而非技术协商状态。 |
 > | 战略性公众结盟与主体结构 | **政策制定主体与权力分配** 决策圈由何种同盟控制？边缘群体的利益是否被代表？ | 听证会证人名单、委员会成员构成、闭门协商的参与方范围。 | 若决策权集中于政商医结盟的封闭圈层，基层教育者的参与多沦为形式化或象征性点缀。 |
-> | 广泛参与与平权目标 | **政策目标与社会分配** 政策旨在巩固既有统治秩序，还是促进教育公平与多元主体赋权？ | 财政资助分配流向、对不同学区与弱势群体的制度性要求。 | 观察资金是否流向少数垄断性商业机构与特定技术方案，抑或赋权学校开展差异化教学。 |
+> | 广泛参与与平权目标 | **政策目标与社会分配** 政策旨在巩固既有统治秩序，还是促进教育公平与多元主体赋权？ | 财政资助分配流向、对不同学区与弱势群体的制度性要求。 | 观察资金是否流向少数垄断性商业机构与特定技术方案，抑或赋权学校开展[[Differentiated Instruction\|差异化教学]]。 |
 > | 行动者批判能力与多阵线参与要求 | **实践策略与能动反应** 教育者是单纯顺从、消极抱怨，还是开展了地方抵制与跨界结盟？ | 地方学区对联邦项目的采纳与否决决议、专业协会联合声明、伦理对质行动。 | 地方学区的制度性拒止与跨组织联盟是判断批判性多元参与是否成型的重要经验指标。 |
 
 ---

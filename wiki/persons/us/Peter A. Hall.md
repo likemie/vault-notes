@@ -9,7 +9,7 @@ summary: "加拿大与美国政治学家，哈佛大学欧洲研究讲席教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Institutional Complementarity]]"
   - "[[Industry Affiliate Program]]"
   - "[[Epistemology]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-22
 > - **1982** 于哈佛大学（Harvard University）获政治学博士学位，留校任教，成为哈佛比较政治学学术中坚。
 > - **1986** 出版专著《治理经济》（*Governing the Economy*，牛津大学出版社），荣获伍德罗·威尔逊基金会最佳著作奖，奠定[[Historical Institutionalism|历史制度主义]]立论基石。
 > - **1993** 发表论文《政策[[Paradigm|范式]]、社会学习与国家：以英国经济政策制定为例》（*Policy Paradigms, Social Learning, and the State*），开创政策范式变迁分析路径。
-> - **1996** 与罗斯玛丽·泰勒发表《政治学与新制度主义三大学派》，厘清历史制度主义、理性选择制度主义与社会学制度主义的[[Ontology|本体论]]与方法论分野，成为政治学领域被引最高的经典文献之一。
+> - **1996** 与罗斯玛丽·泰勒发表《政治学与新制度主义三大学派》，厘清历史制度主义、理性选择制度主义与社会学制度主义的[[Ontology|本体论]]与方法论分野，成为政治学领域被引最高的经典[[Document|文献]]之一。
 > - **2001** 与戴维·索斯基斯合编出版《[[Varieties of Capitalism|资本主义多样性]]：比较优势的制度基础》（*Varieties of Capitalism*），确立当代比较政治经济学主流[[Analytic Framework|分析框架]]。
 > - **2005** [[Wolfgang Streeck|施特雷克]]与希伦出版《制度变迁的超越》，系统反思资本主义多样性（VoC）将协调市场经济假定为超稳定自平衡系统的静态偏误，促发比较政治经济学向渐进内生演化转向。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
 > - **2009** 深度参与[[James Mahoney|马奥尼]]与希伦组织的制度变迁研究项目，并为《解释制度变迁》撰写总结章《理性主义与社会学视界中的历史制度主义》，系统提炼制度分析中的微观能动性与协调博弈机制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 204–224)]]

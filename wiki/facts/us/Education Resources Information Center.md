@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - systematic-review
   - educational-research
 related_concepts:
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
   - "[[Publication Bias]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 教育资源信息中心（Education Resources Information Center, ERIC）是由[[United States Department of Education|美国联邦教育部]]（U.S. Department of Education）所属[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）出资赞助并维护的国家级、公益性教育文献数字图书馆与检索系统，是全球规模最大、历史最悠久的教育学专业文献索引与全文存储枢纽。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
+> 教育资源信息中心（Education Resources Information Center, ERIC）是由[[United States Department of Education|美国联邦教育部]]（U.S. Department of Education）所属[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）出资赞助并维护的国家级、公益性教育[[Document|文献]]数字图书馆与检索系统，是全球规模最大、历史最悠久的教育学专业文献索引与全文存储枢纽。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1964 年由美国联邦教育署（U.S. Office of Education）立项设立，作为肯尼迪与约翰逊政府“向贫困宣战”与《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》实施的配套信息基础设施，旨在集中整理并向全国开放未正式出版的教育科研报告、政府资助课题与课程实验材料。

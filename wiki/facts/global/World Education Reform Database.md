@@ -24,6 +24,7 @@ tags:
   - theme/global-database
   - theme/lesson-drawing
 related_concepts:
+  - "[[Document]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Borrowing]]"
   - "[[Reliability]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心干预／机制假说
-> 该项目确立了“政策文本系统建档与标准化计量编码”的基础设施假说：通过对全球主权国家半个多世纪以来的原始法定教育改革文献进行全景式人工与计算语言学双重标引，能够实证解构[[Global Education Governing Complex\|全球教育治理复合体]]的规制影响，并精准识别不同国际组织在向成员国推销方案时的“经验汲取（Lesson-Drawing）”特征。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
+> 该项目确立了“政策文本系统建档与标准化计量编码”的基础设施假说：通过对全球主权国家半个多世纪以来的原始法定教育改革[[Document|文献]]进行全景式人工与计算语言学双重标引，能够实证解构[[Global Education Governing Complex\|全球教育治理复合体]]的规制影响，并精准识别不同国际组织在向成员国推销方案时的“经验汲取（Lesson-Drawing）”特征。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立跨国界、跨语种、长时段的全球教育立法与国家战略全景档案，为[[World Society Theory\|世界社会理论]]、[[Policy Borrowing\|政策借用]]理论与全球治理研究提供统一的实证基底。
@@ -111,7 +111,7 @@ updated: 2026-10-26
 > [!finding-cards] 核心实证结论
 > - **主要效应** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）借助 WERD 进行文本交叉挖掘发现，[[OECD\|经合组织]]报告倾向于开展**外向型跨国对照（Outward Referencing）**，大量引证其他成员国的实操举措；而[[World Bank\|世界银行]]报告呈现极强的**自指性（Self-referential）**，反复循环引证其自建的 [[Systems Approach for Better Education Results\|SABER]] 政策库，极少吸纳非世行体系的在地实践。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 > - **[[Heterogeneity\|异质性]]效应** 布罗姆利等（Bromley et al., 2021）通过全库长时段分析证实，进入 21 世纪后，尽管全球政策数量持续激增，但在人权、社会正义等实质性人文主义维度的强调比例显著下降，取而代之的是新自由主义管理绩效与量化测评指标的泛滥。
-> - **边界条件** 数据库聚焦于国家官方颁布的法律与行政白皮书文本，对发展中国家普遍存在的政策文本与教室实际教学脱耦（[[Cognitive Decoupling|decoupling]]）现象具有解释边界。
+> - **边界条件** 数据库聚焦于国家官方颁布的法律与行政白皮书文本，对发展中国家普遍存在的政策文本与教室实际教学脱耦（decoupling）现象具有解释边界。
 
 > [!stat-cards]- 关键实证数据
 > 覆盖 147 个主权国家、收录 6,700 项正式教育改革政策文本、跨越 1960 至 2017 年长达 58 年的历史跨度。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 550)]]
@@ -120,7 +120,7 @@ updated: 2026-10-26
 
 > [!debates] 核心争议
 >
-> > [!axis] 政策文本与实际落地之间的脱节（[[Cognitive Decoupling|decoupling]]）
+> > [!axis] 政策文本与实际落地之间的脱节（decoupling）
 > > 新制度主义社会学者指出，法律文本的颁布并不等同于教室层面的真实实施。
 > >
 > > - **批判学者** 指出 WERD 记录的是“宣称的改革（Promised Reforms）”，在许多发展中国家，国家为了获取国际援助而立法，但在现实中存在严重的政策与实践脱耦。

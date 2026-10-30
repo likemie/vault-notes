@@ -7,7 +7,7 @@ summary: "美国教育心理学家，自我主导性理论提出者，为教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
+  - "[[Habitus]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -64,5 +65,5 @@ updated: 2026-10-22
 >
 
 > [!warning] 争议与批评
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]指出[[Self-Authorship\|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。[[Yajun Zheng\|郑雅君]]将自我主导性（作为个体能力）与 Bourdieu 的习性理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]指出[[Self-Authorship\|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。[[Yajun Zheng\|郑雅君]]将自我主导性（作为个体能力）与 Bourdieu 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
 >

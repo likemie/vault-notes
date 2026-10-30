@@ -5,7 +5,7 @@ aliases:
 summary: "社会心理学概念，指个体意识到针对自身群体的负面刻板印象时产生的额外情感与认知负担，进而影响表现、参与和认同。"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Intercultural Education]]"
   - "[[Chinese Learner]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Meta-Cultural Sensitivity]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -52,7 +53,7 @@ updated: 2026-10-22
 
 > [!abstract] 核心要素
 > 刻板印象威胁在教育跨文化语境中的因果链([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, pp.44, 49–50]])：
-> - **前提条件：刻板印象的存在与流通** — 西方学术文献中广泛流通着"[[Chinese Learner\|中国学习者]]被动、缺乏批判思维"等描述，构成刻板印象威胁的激活源
+> - **前提条件：刻板印象的存在与流通** — 西方学术[[Document|文献]]中广泛流通着"[[Chinese Learner\|中国学习者]]被动、缺乏批判思维"等描述，构成刻板印象威胁的激活源
 > - **威胁感知** — 当中国学习者进入以这些描述为"常识"的西方课堂，他们意识到自己被以某种简化标签看待
 > - **情感与认知负担** — 这种意识产生额外的心理负担——不仅要完成学业任务，还要应对"我是否证实了刻板印象"的隐形压力（Aronson, 2002）
 > - **去认同化（disidentification）** — 学生逐渐对该领域（如课堂讨论、批判性写作）失去兴趣和投入，因为"无论我怎么做，都会被看作那个刻板印象中的人"

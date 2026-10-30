@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_display_title: "Research Methods in Education · Ch29"
 argument_kind: "book-chapter"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -38,7 +38,9 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Surface and Deep Learning]]"
   - "[[Class Size]]"
+  - "[[Time Management]]"
   - "[[Active Learning]]"
+  - "[[Lecturing]]"
   - "[[Learning Styles]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Emergence]]"
@@ -79,7 +81,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -182,7 +184,7 @@ updated: 2026-10-22
 > |---|---|
 > | (a) | 害羞，害怕犯错、丢脸 |
 > | (b) | 对学习本身兴趣不大，更不用说英语 |
-> | (c) | 被其他科目压得负担过重，时间管理又差 |
+> | (c) | 被其他科目压得负担过重，[[Time Management\|时间管理]]又差 |
 > | (d) | 对英语的书面化本质及其与其他课程科目不相关持负面态度 |
 > | (e) | 有太多其他干扰 |
 > | (f) | 英语能力有限 |
@@ -211,7 +213,7 @@ updated: 2026-10-22
 > - **本地文化因素影响英语学习** 学生不愿在公开场合丢脸，中国人对面子的获得与维护极为看重；学生害羞、害怕犯错；考试成功的压力普遍且严重；本地文化不是英语，而是中文，其次是葡萄牙语（但后者非常有限），人们目前几乎没有说英语或用英语的需要。
 > - **英语文化知识的地位** 某些方面认为了解英语文化是学习英语的重要元素；这一看法被本样本的教师反驳。
 > - **英语的工具性需加限定** 英语被视为工具性的，但这一信息需要限定，因为许多学生英语虽弱，仍能就业与升入大学。英语作为国际语言这一事实，对学生动机或成绩的影响有限。
-> - **教学与学习的不足是成绩差的重要原因** 强调操练、死记与记忆；以被动而非[[Active Learning\|主动学习]]为主，教学是传递事实而非促进学习与理解；使用传统讲授法；依赖非常有限的教学与[[Learning Styles|学习风格]]；英语教师的学科与教学知识有限，加上缺乏足够的初始与职后教师教育；常常缺乏精心铺设的英语教与学基础；学生在英语课上使用大量中文，几乎没有用英语思考的机会，他们是在翻译，而不是用英语思考。（29.1）
+> - **教学与学习的不足是成绩差的重要原因** 强调操练、死记与记忆；以被动而非[[Active Learning\|主动学习]]为主，教学是传递事实而非促进学习与理解；使用传统[[Lecturing|讲授法]]；依赖非常有限的教学与[[Learning Styles|学习风格]]；英语教师的学科与教学知识有限，加上缺乏足够的初始与职后教师教育；常常缺乏精心铺设的英语教与学基础；学生在英语课上使用大量中文，几乎没有用英语思考的机会，他们是在翻译，而不是用英语思考。（29.1）
 
 > [!claim] 表格化呈现的双重功能
 > 以表格形式摘要与呈现数据可以同时应对[[Qualitative Research\|质性研究]]的两个议题，通过仔细的[[Data Display\|数据展示]]与评注实现[[Data Reduction\|数据缩减]]（data reduction）。表格能促使读者一眼看出两组受访者之间的相似与差异；每张表之后附希望读者注意的要点摘要，其中既包括实质性评注（关于议题本身），也包括总体性评注（关于各组受访者之间的异同）；所有表格与评注之后，又提供关键信息（key messages）的总体摘要。这是高度节选、选择性的例子，并未公正对待[[Primary and Secondary Documents\|原始文献]]的全部数据，但清楚说明了一点：以表格形式摘要与呈现数据，可以同时实现质性研究的数据缩减与评注。（29.1）

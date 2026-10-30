@@ -10,7 +10,7 @@ title: "Argument_Dachet_2021_ECNUROE"
 argument_key: "Argument_Dachet_2021_ECNUROE"
 argument_display_title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,15 +31,16 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
+  - "[[Document]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Analytic Framework]]"
+  - "[[Experimental Research]]"
   - "[[Correlational Research]]"
   - "[[Longitudinal Study]]"
   - "[[Case Study]]"
-  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
 related_persons: []
@@ -59,7 +60,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2021
 doi: ""
 citation_aliases:
@@ -72,7 +73,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的[[Paradigm\|范式]]，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和[[Epistemology\|认识论]]窄化的批评。
 > - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为[[Analytic Framework\|分析框架]]，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源。
-> - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用[[Correlational Research\|相关性研究]]、[[Longitudinal Study\|纵向研究]]或其他适合问题的问题-方法组合来判断现有最佳证据。
+> - 方法匹配而非单一证据层级：结构性教育改革很难总是用[[Experimental Research|实验设计]]评估，因此可用[[Correlational Research\|相关性研究]]、[[Longitudinal Study\|纵向研究]]或其他适合问题的问题-方法组合来判断现有最佳证据。
 
 > [!info] 研究方法
 > - 方法：叙事[[Case Study\|案例研究]]。研究以法语比利时正在进行的[[Pact for Educational Excellence\|教育卓越公约]]为案例，分析改革阶段以及作者所在研究中心在改革工作中的连续参与。
@@ -114,7 +115,7 @@ citation_aliases:
 
 ### 论证合龙：法语比利时案例是证据本位改革的边界测试
 
-按照 Slavin 三项杠杆，法语比利时只是在第一项“广泛经验证项目”上刚起步，因为本地实验研究极少；第二项“教师友好综述”也受限于缺少本地实验和英语文献使用障碍；第三项“实施资源”进展较明确，因为官方建议提出为学校实验和严格评价设置约 200 万欧元预算。
+按照 Slavin 三项杠杆，法语比利时只是在第一项“广泛经验证项目”上刚起步，因为本地实验研究极少；第二项“教师友好综述”也受限于缺少本地实验和英语[[Document|文献]]使用障碍；第三项“实施资源”进展较明确，因为官方建议提出为学校实验和严格评价设置约 200 万欧元预算。
 
 因此，[[Pact for Educational Excellence|教育卓越公约]]不是一个已经成熟的证据本位改革，而是一个妥协性制度化过程：它把证据语言写进官方文本，建立项目验证的最低标准，推动研究者与实践者合作，并开始为实验评价提供法律和财政基础。
 

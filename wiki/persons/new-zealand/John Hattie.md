@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，著有 Visible Learning，是元分析�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 160
+person_related_count: 162
 person_related_level: 16
 person_related_stars: "💎💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
+  - "[[Document]]"
   - "[[Web-Based Learning]]"
   - "[[Category Mistake]]"
   - "[[PICO Framework]]"
@@ -102,6 +103,7 @@ related_theories:
   - "[[Stability vs. Variability Dilemma]]"
   - "[[Phenomenology]]"
   - "[[Societies of Control]]"
+  - "[[Discursive Institutionalism]]"
   - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -191,7 +193,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -365,7 +367,7 @@ updated: 2026-10-26
 > >
 > > - **[[Christof Wecker]] 等人** 依据两级[[Fixed-Effect Model|固定效应模型]]代数等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审查，判定跨本体范畴的超级元分析在科学上不可行：
 > >   - *数据提取与权重失真*：混淆[[Standard Error|标准误]]与标准差使 Eisenstaedt 数据虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重被削减 53.5%；
-> >   - *文献重叠导致效应量大幅缩减*：容忍 93.3% 文献重叠致[[Web-Based Learning|网络学习]][[Effect Size|效应量]]暴跌并跌破关节点（$0.59 \to 0.23$，排名由 26 跌至 98）；
+> >   - *[[Document|文献]]重叠导致效应量大幅缩减*：容忍 93.3% 文献重叠致[[Web-Based Learning|网络学习]][[Effect Size|效应量]]暴跌并跌破关节点（$0.59 \to 0.23$，排名由 26 跌至 98）；
 > >   - *模型错配与[[Category Mistake|德甲联赛隐喻]]*：面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重错配，138 个跨本体范畴因素的比较犯了[[Category Mistake|范畴错误]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
 > > - **Bergeron 与 Rivard** 从数理统计学底层开展专业审计，确证二阶元分析存在多重不可克服的数理失范，定性其为伪科学纸牌屋：
 > >   - *初等概率计算崩溃*：[[Common Language Effect Size|普通语言效应量]]（[[Common Language Effect Size|CLES]]）汇报出负概率与超过 100% 的概率，公然违背数学公理；
@@ -388,7 +390,7 @@ updated: 2026-10-26
 > > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性[[Screening Off|屏蔽]]。
 > >
 > > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出《[[Visible Learning|可见的学习]]》之所以流行，在于其技术理性契合了教育行政系统的合法化需求而非凭借客观科学质量；批评评价理论篡位教育目的、[[Radical Constructivism|激进建构主义]]消解实质教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
-> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（DI）证据背后对[[Creativity|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
+> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（[[Discursive Institutionalism|DI]]）证据背后对[[Creativity|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
 > > - **Terhart 提出教学论实质与全景规训审视** 从德语区教学论（[[Didaktik]]）与教化传统指出，形式化学习模型抽空了学科教学内容的教育学意义；双向可见性模型在福柯视角下展现为将外显行政强制转化为内化自我监控的全景规训技术。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 
 

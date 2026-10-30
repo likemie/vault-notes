@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本、音频与图像数据组织、编�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 50
+method_related_count: 51
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - software
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-10-29
 > 质性计算机软件（Qualitative Computer Software），通常称为计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是指用于辅助[[Qualitative Research\|质性研究]]中组织、排序、存储、检索和分析文本、音频与图像数据库的专用程序与智能分析系统（Guest et al., 2012; 引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 206]]）。传统 CAQDAS（如 NVivo、MAXQDA、ATLAS.ti、Dedoose 等）的核心逻辑是“标记与检索”（code-and-retrieve），主要承担机械性管理与关系数据库支持，本身并不进行自动化的理论诠释；随着[[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型（LLM）的发展，计算工具进一步演进为具备语义理解、概念初筛与交互式探索能力的认知协同系统，但质性研究中对经验脉络的主观赋意与效度核验责任始终由人类研究者承担。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 537, 576)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Field Notes\|田野笔记]]、政策与历史文献、[[Questionnaire\|问卷]]开放式回答、音视频记录及多模态图像资料。
+> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Field Notes\|田野笔记]]、政策与历史[[Document|文献]]、[[Questionnaire\|问卷]]开放式回答、音视频记录及多模态图像资料。
 > - **问题类型** 质性数据的大规模组织管理、分类编码、主题模式识别、文本片段交叉比较、概念网络拓扑分析与[[Data Reduction\|数据缩减]]。
 > - **[[Unit of Analysis\|分析单位]]** 字词、句子、段落、意义单元、完整事件记录、多模态音画片段或跨文档案例。
 > - **输出形式** 层级编码树、主题节点矩阵、语境关键词（KWIC）清单、共现网络关系图、[[Reflexivity\|反身性]]备忘录链条与[[Audit Trail\|审计追踪]]日志。

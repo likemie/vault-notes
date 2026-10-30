@@ -11,7 +11,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Mātauranga Māori]]"
   - "[[Axiology]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-22
 > - **概念识别不足**。概念很少被明确标记，其重要性可能被忽视。专业读者可以推测哪些是概念，但这些概念可能被不同方式解读，导致教师对关键学习理念的理解产生分歧。
 > - **知识边界模糊**。[[Knowledge-that and Know-how-to\|知其然]]和知其所用的边界在某些学科中模糊。数学学科的「知道」部分包含了本应属于「做」部分的陈述，属于认识论上的类别错误。
 > - **内容特异性不足**。不同学科写作小组对内容特异性的决定不一致：数学和统计课程比英语或社会科学更具体和详细；新西兰历史课程的内容特异性最高；社会科学和英语课程的内容更为宽泛，可能导致不同学校之间学生所学内容存在差异。
-> - **对学习如何发生的忽视**。课程文件几乎完全忽略了认知科学文献的大量成果，以及认知发展与接触结构化学科知识之间的关系。
+> - **对学习如何发生的忽视**。课程文件几乎完全忽略了认知科学[[Document|文献]]的大量成果，以及认知发展与接触结构化学科知识之间的关系。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
+  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -112,7 +113,7 @@ Kline and Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 > [!tip] 理论基础
 > - [[Systems of Innovation]] — 五代模型中的第五代，也是当前主导[[Paradigm\|范式]]；两者的关系是：创新模型演变描述的是"理解方式"的历史轨迹，创新系统理论是这条轨迹上最新、最复杂的节点
 > - Kline and Rosenberg（1986）的链环模型 — 第三代耦合模型的核心来源，打破了线性思维的垄断
-> - [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]— 提出代际共存观点的关键文献，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
+> - [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]— 提出代际共存观点的关键[[Document|文献]]，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
 
 ---
 

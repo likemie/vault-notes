@@ -12,7 +12,7 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
@@ -57,7 +58,8 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[John Dewey]]"
   - "[[Val D. Rust]]"
-related_facts: []
+related_facts:
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +76,7 @@ updated: 2026-10-29
 > 贝雷迪四步比较法是由美籍波兰裔比较教育学家[[George Bereday|乔治·贝雷迪]]（[[George Bereday|George Z. F. Bereday]]）在 1964 年经典专著《教育中的比较方法》（*Comparative Method in Education*）中系统阐明的经验归纳比较程序。该方法将跨国教育研究划分为由浅入深、逻辑连贯的四个操作阶段：以搜集单国客观事实为起点的**描述（Description）**、以跨学科人文社科视角深挖制度动因的**解释（Interpretation）**、将多国事实与解释依循统一范畴横向对照并提出[[Working Hypothesis|工作假说]]的**并置（Juxtaposition）**，以及在同一[[Analytic Framework|分析框架]]下同时比对多国证据以提炼跨国通则或结构类型学的**综合分析（Comparison / Total Analysis）**。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 两个或两个以上主权国家或文化区域的国民教育制度、法令规程、课程教学实践及相关宏观社会背景数据。
+> - **研究对象** 两个或两个以上主权国家或文化区域的[[National Education|国民教育]]制度、法令规程、课程教学实践及相关宏观社会背景数据。
 > - **问题类型** 适合回答横向描述、跨国制度差异解释、跨情境类型学建构以及探寻超国家教育普遍规律的比较[[Research Question|研究问题]]。
 > - **[[Unit of Analysis|分析单位]]** 国民教育体制（National Educational System）、特定学段子系统（如初等教育、高等教育）或特定制度规程（如教师任职资格、升学考核机制）。
 > - **输出形式** 跨国国别事实档案、历史社会动因解释、横向对称对比矩阵、跨国假设检验结论及结构类型学（Typologies）。
@@ -94,7 +96,7 @@ updated: 2026-10-29
 
 > [!method-stack] 方法层级
 > - **研究设计** 多案例比较研究设计（[[Comparative Case Study]] Design）、跨国横向比较设计。
-> - **数据收集** 官方教育统计公报、法律法规文本、历史档案、实地考察记录与二手学术文献。
+> - **数据收集** 官方教育统计公报、法律法规文本、历史档案、实地考察记录与二手学术[[Document|文献]]。
 > - **分析方法** 历史解释分析、社会学功能分析、横向矩阵并置与跨国综合质性归纳。
 > - **辅助技术** 
 >   - [[Primary and Secondary Documents|原始文献]]多语种校验与跨文化语义核对；

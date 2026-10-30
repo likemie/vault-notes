@@ -11,7 +11,7 @@ summary: "在二阶元分析框架下，通过三水平CHE工作模型与RVE三�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Unit of Analysis]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Second-Order Meta-Regression
-> [[Second-Order Meta-Regression\|二阶元回归]]（Second-Order [[Meta-regression]]，亦称二阶调节分析或[[Meta-meta-analysis\|二阶元分析]]元回归 SOMA Meta-Regression）是在[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）框架下，通过将宏观理论[[Construct\|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable\|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size\|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression\|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）与[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE）三明治估计量之上运行，以克服跨元分析文献重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
+> [[Second-Order Meta-Regression\|二阶元回归]]（Second-Order [[Meta-regression]]，亦称二阶调节分析或[[Meta-meta-analysis\|二阶元分析]]元回归 SOMA Meta-Regression）是在[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）框架下，通过将宏观理论[[Construct\|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable\|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size\|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression\|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）与[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE）三明治估计量之上运行，以克服跨元分析[[Document|文献]]重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套于多个一阶元分析集群中的效应量矩阵及其关联的宏观编码协变量。

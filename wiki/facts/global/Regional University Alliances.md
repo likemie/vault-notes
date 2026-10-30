@@ -8,7 +8,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_facts:
   - "[[League of European Research Universities]]"
   - "[[EU]]"
   - "[[Horizon Europe Missions]]"
+  - "[[European Universities Initiative]]"
   - "[[Erasmus Programme]]"
   - "[[Bologna Process]]"
 related_arguments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 > [!info] 背景
@@ -54,7 +55,7 @@ updated: 2026-10-26
 >
 > - **[[League of European Research Universities\|欧洲研究型大学联盟]]（LERU, League of European [[Research Universities]]）** 以研究为导向的精英大学联盟，强调基础研究和学术卓越。LERU 在[[EU|欧盟]]研究框架计划（[[Horizon Europe Missions]]）的政策制定中发挥重要影响
 > - **The GUILD** 以"对社会负责的大学"为定位的研究型大学网络，关注研究与公共利益的结合。与 LERU 相比，GUILD 更强调大学的社会责任和包容性
-> - **欧洲大学联盟（European University Alliances）** 欧盟委员会（European Commission）框架下推动的跨国大学联盟计划，旨在通过深度制度合作创建"欧洲大学"——联合课程、无缝流动、共享资源和共同战略愿景
+> - **[[European Universities Initiative|欧洲大学联盟]]（European University Alliances）** 欧盟委员会（European Commission）框架下推动的跨国大学联盟计划，旨在通过深度制度合作创建"欧洲大学"——联合课程、无缝流动、共享资源和共同战略愿景
 >
 
 > [!abstract] 核心功能

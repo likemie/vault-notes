@@ -8,7 +8,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
   - "[[Socioeconomic Status]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -80,7 +81,7 @@ related_facts:
   - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-29
 > 元回归（Meta-regression）是在[[Meta-analysis\|元分析]]框架下，以各纳入初级研究的[[Effect Size\|效应量]]为[[Dependent Variable\|因变量]]、研究层面的特征（调节[[Variable\|变量]]）为[[Independent Variable\|自变量]]，通过加权回归分析检验调节变量对效应量[[Heterogeneity\|异质性]]解释力的统计方法体系。它将元分析的[[Interaction Effect\|调节效应]]检验从离散分类子组比较推广到连续数值变量及多元复合模型，依据各研究的抽样精度（抽样方差倒数）与研究间真实异质性方差进行广义[[Inverse-Variance Weighting\|逆方差加权]]估计。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, pp. 1098–1102)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 5–6, 10–11)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 跨原始研究的效应量矩阵及其对应的样本特征、测量工具信效度、干预参数、宏观[[Socioeconomic Status|社会经济背景]]及文献发表年份等协变量。
+> - **研究对象** 跨原始研究的效应量矩阵及其对应的样本特征、测量工具信效度、干预参数、宏观[[Socioeconomic Status|社会经济背景]]及[[Document|文献]]发表年份等协变量。
 > - **问题类型** 机制解释、异质性来源探索与因果调节识别：哪些连续型特征（如干预时长、量表[[Reliability\|信度]]、人均 GDP）或离散特征系统性预测效应量大小？
 > - **[[Unit of Analysis\|分析单位]]** 独立实证研究（Study）或独立样本（Sample），每条数据对应一项纳入元分析的效应量估计值。
 > - **输出形式** 回归截距 $\beta_0$、斜率系数 $\beta_j$、[[Standard Error\|标准误]]、95% [[Confidence Interval\|置信区间]]（CI）、模型整体检验量 $F$ 或 $Q_{\text{model}}$、残余异质性 $\tau^2_{\text{residual}}$ 及拟 $R^2$ 解释比例。

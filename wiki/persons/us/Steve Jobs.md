@@ -9,7 +9,7 @@ summary: "美国企业家、工业设计师与苹果公司联合创始人，开�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[James C. Scott]]"
   - "[[Stewart Brand]]"
   - "[[Lee Felsenstein]]"
   - "[[Steven Levy]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-22
 > - **1972年** 进入俄勒冈州波特兰的里德学院（Reed College），后退学但继续旁听书法与艺术排版课程，深入研究衬线与无衬线字体及字母组合间距（Kerning），奠定了苹果产品卓越字形与美学设计的根基。
 > - **1974年** 前往印度进行精神灵修探索；参加[[Homebrew Computer Club|家酿计算机俱乐部]]早期聚会，与斯蒂芬·沃兹尼亚克紧密合作研制微型电脑主板。
 > - **1976年** 在车库共同创立苹果电脑公司，推出 Apple I 与风靡全美的 Apple II 个人微机。
-> - **1984年** 推出具有里程碑意义的 Macintosh 电脑，并发布由雷德利·斯科特（Ridley Scott）执导的经典《1984》超级碗电视广告，宣示 17 磅便携微机对集权老大哥与 IBM 垄断体制的颠覆。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 101–102)]]
+> - **1984年** 推出具有里程碑意义的 Macintosh 电脑，并发布由雷德利·[[James C. Scott|斯科特]]（Ridley Scott）执导的经典《1984》超级碗电视广告，宣示 17 磅便携微机对集权老大哥与 IBM 垄断体制的颠覆。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 101–102)]]
 > - **1985–1996年** 离开苹果并创立 NeXT 计算机公司，收购皮克斯动画工作室（Pixar），推动 3D 电脑动画电影革命。
 > - **1997–2011年** 重返苹果并力挽狂澜，依次推出 iMac、OS X、iPod、iPhone 与 iPad，使苹果跃升为人类文明史上最具商业价值的科技巨头；2011 年逝世。
 

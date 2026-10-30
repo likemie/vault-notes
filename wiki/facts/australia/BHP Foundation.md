@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
+  - "[[Document]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
   - "[[Epistemic Governance]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-10-22
 > >
 > > - **批判学者指出** 关键专家既代表由必和必拓资助的跨国中介网络，又主导澳大利亚官方 AERO 董事会与联邦大纲评审团，这种政、学、资三位一体的人事闭环，使公共政策制定极易沦为少数资本赞助网络的闭门产物。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
-> [!citation-card] 批判政策社会学的审视文献
+> [!citation-card] 批判政策社会学的审视[[Document|文献]]
 > 澳大利亚教育研究组织（AERO）的创设及其对初任教师教育大纲的重塑，绝非单纯的专业技术决策，而是深嵌于由必和必拓基金会资助、连接英国教育捐赠基金会（EEF）的人事与制度异层治理网络之中；资本借由循证科学的合法性外衣，悄然重构了主权国家公共教育的规训机制。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 >
 > *"AERO’s inception and its subsequent influence on [[Initial Teacher Training\|Initial Teacher Education]] reforms reflect a transnational heterarchy financed by the BHP Foundation in partnership with the UK's EEF... capital exercises power by masking policy agendas beneath the veneer of evidence-based objectivity."*

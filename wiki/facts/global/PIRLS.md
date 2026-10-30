@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Total War]]"
   - "[[Reliability]]"
   - "[[School Inspection]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -125,4 +126,4 @@ updated: 2026-10-22
 > | [[Vergleichsarbeiten]] | Fact (Program) | 德国全域校际比较测试（包含 VERA-3），与 PIRLS 在小学阅读能力监测上形成宏微互补。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 PIRLS 无法穿透小学课堂日常互动的缺陷。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 协调全德 16 州参与 PIRLS 并推行全国小学阅读促进战略的国家最高协调机构。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 探讨 PIRLS 在德国各州教育部日常治理中的定位功能及其与微观工具分工的代表性实证文献。 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 探讨 PIRLS 在德国各州教育部日常治理中的定位功能及其与微观工具分工的代表性实证[[Document\|文献]]。 |

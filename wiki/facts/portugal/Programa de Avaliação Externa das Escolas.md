@@ -43,13 +43,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 葡萄牙学校外部评估计划（Programa de Avaliação Externa das Escolas，简称 PEE）是葡萄牙共和国针对全国基础教育与中等教育学校建立的制度化外部质量督导与评估体系。该项目在推进现代管理主义问责的过程中，触发了后威权民主自治传统同外部行政视导之间的深层制度冲突。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 260)]]
+> [[Programa de Avaliação Externa das Escolas|葡萄牙学校外部评估计划]]（Programa de Avaliação Externa das Escolas，简称 PEE）是葡萄牙共和国针对全国基础教育与中等教育学校建立的制度化外部质量督导与评估体系。该项目在推进现代管理主义问责的过程中，触发了后威权民主自治传统同外部行政视导之间的深层制度冲突。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 260)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2006 年由中左翼社会党[[Socrates|苏格拉底]]政府启动第一轮全国评估周期，常态化分轮次循环实施至今。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]

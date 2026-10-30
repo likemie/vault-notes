@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -31,7 +31,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[William Shockley]]"
 related_facts:
   - "[[Bell Labs]]"
   - "[[Fairchild Semiconductor]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-16
 > [!pathways] 政策传导机制
 > - **剥离垄断衍生特权** 禁止 AT&T 进军非电信商业市场，使发明晶体管的贝尔实验室母公司无法利用规模优势碾压外部初创企业。
 > - **强制专利库公共化** 零版税及低费率交叉许可打破了底层知识封锁，使得技术扩散速度远超传统知识产权保护周期。
-> - **强化[[Innovation Ecosystem|创新生态]]流动性** 配合反垄断诉讼威慑，科研人员带着贝尔实验室的技术积累自由流动至初创企业（如肖克利半导体、仙童半导体），促进了跨企业技术外溢。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 162–164)]]
+> - **强化[[Innovation Ecosystem|创新生态]]流动性** 配合反垄断诉讼威慑，科研人员带着贝尔实验室的技术积累自由流动至初创企业（如[[William Shockley|肖克利]]半导体、仙童半导体），促进了跨企业技术外溢。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 162–164)]]
 
 ---
 

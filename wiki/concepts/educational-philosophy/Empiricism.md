@@ -82,7 +82,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -232,7 +232,7 @@ updated: 2026-10-29
 > > - **量化经验学派** 坚持科学经验必须具备高精度的度量与可重复性。
 > > - **[[Phenomenology|现象学]]与[[Critical Theory|批判理论]]学者（Habermas, 1972; Horkheimer, 1972）** 批评其将丰富的生命世界经验窄化为冰冷的量化数字，陷入拜物教式的经验主义幻觉。
 >
-> > [!axis] 方法论经验主义 vs 阐释性批判[[Geisteswissenschaften|人文科学]]
+> > [!axis] 方法论经验主义 vs 阐释性批判人文科学
 > > 围绕教育探究应否全面依循自然科学一元化方法建立纯粹量化[[Scientific Method|经验科学]]展开交锋。
 > >
 > > - **方法论经验主义学派（Noah & Eckstein, 1969; Psacharopoulos, 1987）** 倡导严格的假设检验、控制调查与数学量化模型，致力于发现普遍的经验规律。

@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,10 +27,12 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Problem Solving]]"
   - "[[Homework]]"
   - "[[Empiricism]]"
+  - "[[Teacher Collaboration]]"
   - "[[Learning Gap]]"
 related_theories: []
 related_methods:
@@ -49,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-21'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -67,7 +69,7 @@ citation_aliases:
 > - [[New Public Management]] — 单纯依靠 top-down 控制、测试压力和绩效激励，难以把学校真正改进到课堂层面。更可行的路径，是把改进重心放到教师知识、协作和知识转化上。
 
 > [!info] 研究方法
-> - 方法：理论评论 + 政策论证 + 文献综合。
+> - 方法：理论评论 + 政策论证 + [[Document|文献]]综合。
 > - 资料来源：Hattie 的 [[Visible Learning]] 系列、关于教师[[Professional Judgment\|专业判断]]与学习共同体的研究，以及对证据争论和学校改进路径的[[Primary and Secondary Documents\|二手文献]]讨论。
 > - 类型：不是实证研究，也不是方法报告，而是一篇面向学校改进实践的立场性综述，重点是把多个争论串起来，说明为什么“聚焦学习并使用研究证据”会被推到教育系统改革的主线上。
 
@@ -155,7 +157,7 @@ citation_aliases:
 > 2. [[Visible Learning]] 的关键作用，不是提供一张可以直接照搬的干预排行榜，而是打破“各种教法都差不多”的惯性认知，迫使学校认真比较不同做法的学习效果。
 > 3. [[Evidence-Based Education\|循证教育]]被界定为一种“提高成功概率”的知识基础，而不是替教师自动下命令的技术系统；研究证据与 [[Professional Judgment]] 因而被处理成互补关系，而非彼此排斥。
 > 4. 改革失败常常不是因为学校缺少压力，而是因为把问题误诊成“动机不足”。[[No Child Left Behind Act 2001]] 被当作反例，用来说明单靠问责、竞争和奖惩并不会自然生成更好的教学。
-> 5. 学校改进真正稀缺的，不只是研究知识本身，而是把知识转进课堂的组织机制。能力建设、[[Knowledge Mobilisation\|知识动员]]、教师协作、[[Classroom Observation|课堂观察]]和数据使用因此被放成改革成败的关键中介。
+> 5. 学校改进真正稀缺的，不只是研究知识本身，而是把知识转进课堂的组织机制。能力建设、[[Knowledge Mobilisation\|知识动员]]、[[Teacher Collaboration|教师协作]]、[[Classroom Observation|课堂观察]]和数据使用因此被放成改革成败的关键中介。
 > 6. 价值导向不能替代关于教学效果的知识。真正困难的问题不是“教育应不应该追求好价值”，而是“这些价值怎样落实成更可能让学生学会的教学行动”。
 
 > [!info] 核心数据

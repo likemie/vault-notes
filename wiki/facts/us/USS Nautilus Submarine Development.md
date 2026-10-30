@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -37,16 +37,18 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
 related_theories:
   - "[[Organizational Culture]]"
+related_facts:
+  - "[[ASEAN Economic Community]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 由美国海军与美国原子能委员会（Atomic Energy Commission, AEC）联合发起、[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover|Hyman G. Rickover]]）海军上将直接指挥的颠覆性战略工程；旨在攻克舰载核反应堆小型化与安全控制难题，打造全球第一艘不依赖空气推进（Air-Independent Propulsion, AIP）且具备长期水下航行能力的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
+> 由美国海军与美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）联合发起、[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover|Hyman G. Rickover]]）海军上将直接指挥的颠覆性战略工程；旨在攻克舰载核反应堆小型化与安全控制难题，打造全球第一艘不依赖空气推进（Air-Independent Propulsion, AIP）且具备长期水下航行能力的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1948 年前后启动反应堆设计论证，1953 年完成陆上样机动力试验，1955 年正式服役并完成历史性潜航。

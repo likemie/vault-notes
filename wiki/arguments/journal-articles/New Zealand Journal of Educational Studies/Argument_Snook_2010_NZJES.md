@@ -13,7 +13,7 @@ title: "Argument_Snook_2010_NZJES"
 argument_key: "Argument_Snook_2010_NZJES"
 argument_display_title: "Critic and conscience of society: A reply to John Hattie"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Variable]]"
   - "[[Learning Styles]]"
+  - "[[Document]]"
   - "[[Homework]]"
   - "[[External Validity]]"
   - "[[Humility]]"
@@ -56,7 +57,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2010
 doi: ""
 citation_aliases:
@@ -81,7 +82,7 @@ citation_aliases:
 >
 > 2. **研究质量的评估** Hattie 辩称"不是一本关于研究批评的书"被误读。Snook et al. 承认他们已在 2009 年原文中指出 Hattie 有时确实评论研究质量（如[[Learning Styles|学习风格]]），但 Hattie 的原版免责声明比他后来承认的更强——"我故意未纳入关于研究属性的调节变量……不是因为不重要……而是因为别人已在别处处理过"(Hattie, 2009, p.ix, quoted p.95)
 >
-> 3. **偏差控制** Hattie 以"丰富文献"作为回应，但 Snook et al. 指出仅依赖已发表研究本身也是偏差来源——未显示显著效应或效应"方向错误"的研究往往无法发表。偏差的可能性不会被"丰富文献"的讨论所消除
+> 3. **偏差控制** Hattie 以"丰富[[Document|文献]]"作为回应，但 Snook et al. 指出仅依赖已发表研究本身也是偏差来源——未显示显著效应或效应"方向错误"的研究往往无法发表。偏差的可能性不会被"丰富文献"的讨论所消除
 >
 > 4. **平均化掩盖复杂性** 以[[Homework\|家庭作业]]为例——Hattie 最终产生 d=0.29 的平均[[Effect Size\|效应量]]，"发出家庭作业不重要的信号"，尽管他自己的数据表明家庭作业对中学生、高能力学生和某些学科非常重要。废除家庭作业可能损害许多学生的教育
 >

@@ -9,9 +9,9 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 48
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 51
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Content Validity]]"
   - "[[Determinism]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Meaningful Human Control]]"
   - "[[Interpretivism]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Recontextualization]]"
   - "[[Research Question]]"
+  - "[[Text Generation]]"
   - "[[Unit of Analysis]]"
   - "[[Classroom Management]]"
   - "[[Central Phenomenon]]"
@@ -69,6 +71,7 @@ related_instruments: []
 related_persons:
   - "[[Louis Cohen]]"
 related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[PISA]]"
   - "[[Vergleichsarbeiten]]"
 related_arguments:
@@ -78,7 +81,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -94,7 +97,7 @@ updated: 2026-10-29
 > [!citation-card] Mayring 论质性内容分析的规则性与情境性
 > 质性内容分析将自身定义为对传播脉络中的书面材料进行方法学控制的经验分析方法。它保留了内容分析中由规则主导的逐步分析程序，使分析过程具备高度透明度与互为主体复验性，同时坚决避免草率的数字化量化，始终将文本锚定于社会生成情境之中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 563)]]
 >
-> *Qualitative content analysis defines itself as an approach of empirical, methodological controlled analysis of texts within their context of communication, following content analytical rules and step by step models, without rash quantification. (Mayring, 2000, 2004)*
+> *Qualitative content analysis defines itself as an approach of empirical, methodological controlled analysis of texts within their context of communication, following content analytical rules and [[Skills Toward Employment and Productivity|step]] by step models, without rash quantification. (Mayring, 2000, 2004)*
 
 > [!boundary]- 概念边界
 > - 不等于 经典量化内容分析（Berelson, 1952） — 量化分析严格聚焦显性内容（Manifest content）与统计频次；QCA 兼顾隐性意涵[[Rich and Thick Description\|深描]]与解释性语境扩充。
@@ -110,7 +113,7 @@ updated: 2026-10-29
 > - **不声称回答的问题** QCA 不仅凭词频分布推断[[Determinism\|因果决定论]]，亦不脱离文本生产脉络进行抽象玄思。
 
 > [!method-stack] 方法层级
-> - **研究设计** 质性文本研究、探索性[[Mixed Methods Research\|混合方法]]设计、文献考据与政策[[Discourse|话语]]评估。
+> - **研究设计** 质性文本研究、探索性[[Mixed Methods Research\|混合方法]]设计、[[Document|文献]]考据与政策[[Discourse|话语]]评估。
 > - **数据收集** [[Semi-structured Interview\|半结构化访谈]][[Transcription in Qualitative Research\|转录]]、开放[[Questionnaire\|问卷]]文本、课堂互动录像文字稿、组织制度文本。
 > - **分析方法** 归纳总结性[[Content Analysis\|内容分析]]、阐释明确性内容分析、结构演绎性内容分析、形成性复核、领域归并。
 > - **辅助技术** [[Qualitative Computer Software\|CAQDAS]] 软件的编码树与交叉表功能、[[Meaningful Human Control|人在回路]]的文本分块与规则匹配。
@@ -204,7 +207,7 @@ updated: 2026-10-29
 ---
 
 > [!contrast-table] 质性内容分析核心理论命题总览
-> | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与文献出处 |
+> | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与[[Document\|文献]]出处 |
 > |---|---|---|---|
 > | **传播情境命题** | 文本意涵不能脱离其传播生成情境孤立判定，必须依据窄语境与宽语境实施控制性推论 | 阐释明确分析、传播模型映射 | Mayring (2000, 2004); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 563)]] |
 > | **形成性修正命题** | 编码范畴体系必须在分析中期经受经验数据的反向冲击与形成性修正，方能兼顾理论导向与经验敏感 | 10%–50% 暂停复核机制、编码指南迭代 | Mayring (2004); Schreier (2012) |
@@ -245,7 +248,7 @@ updated: 2026-10-29
 
 > [!proc] 质性内容分析八步操作规程
 > 1. **界定[[Research Question\|研究问题]]与材料范围** 明确研究设问，界定待分析文本材料的来源与总体边界。
-> 2. **分析文本生成情境与传播背景** 考证作者身份、受众特征、机构权力结构与文本生产的历史社会情境。
+> 2. **分析[[Text Generation|文本生成]]情境与传播背景** 考证作者身份、受众特征、机构权力结构与文本生产的历史社会情境。
 > 3. **确立[[Unit of Analysis\|分析单位]]与分析进路** 严格划定抽样单位、记录单位与语境单位，依据研究目标选取归纳总结、阐释明确或结构演绎进路。
 > 4. **编制[[Open Coding\|初始编码]]指南或确立抽象层级** 若走演绎进路，编制包含范畴定义、锚定样例与判别规则的编码指南；若走归纳进路，确立初始抽象基准层级。
 > 5. **样本试运行与推进至 10%–50% 编码** 在部分代表性文本中开展初始编码，记录遇到的模糊地带与未覆盖维度。
@@ -273,7 +276,7 @@ updated: 2026-10-29
 ---
 
 > [!rel-table] 关联知识实体
-> | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |
+> | 关联实体 | 实体类型 | 关联本质说明 | [[Document\|文献]]出处 |
 > |---|---|---|---|
 > | [[Content Analysis\|内容分析]] | 方法 | 质性内容分析脱胎于内容分析母体，是其向质性诠释与传播情境深度拓展的现代方法学分支。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 563)]] |
 > | [[Coding in Qualitative Research\|质性研究编码]] | 方法 | 编码指南中的范畴界定与锚定样例为质性编码提供了规则化、可复验的操作标准。 | Mayring (2000, 2004) |

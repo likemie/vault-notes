@@ -6,10 +6,10 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - tullock
 - bureaucracy
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Methodological Individualism]]"
+  - "[[Document]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -40,6 +41,7 @@ related_methods:
   - "[[Experimental Research]]"
 related_persons: []
 related_facts:
+  - "[[National Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
@@ -47,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 核心主张
@@ -58,7 +60,7 @@ updated: 2026-10-22
 > [!abstract] 信息失真（Information Loss）
 > 无论向上汇报或向下传达，信息逐级必然因解读错误、时间精力限制被省略或扭曲。这是 Tullock 模型中**不可消解的结构特征**，不是管理技术可解决的。
 >
-> > 例：一位教育部长无法直接了解全国每一间教室的教学质量——信息从教师→科主任→校长→学区督导→教育部官员→部长，每一层级都必须对信息进行概括、筛选和翻译。当部长最终读到"全港[[General Education\|通识教育]]科教学成效报告"时，她看到的是经过 5 层过滤的汇总数据，而非任何一间教室的实际教学。同理，当部长的决策（"强化国民教育元素"）向下传达时，每一层级都会根据自己的理解重新解读——最终教师收到的指令可能已与部长的原意有系统性偏差。[[Argument_Cowen_2019_ERE\|Cowen (2019, pp. 6–7)]] 强调，这种信息损失是层级制本身的**结构性特征**，无法通过更好的管理技术消除。
+> > 例：一位教育部长无法直接了解全国每一间教室的教学质量——信息从教师→科主任→校长→学区督导→教育部官员→部长，每一层级都必须对信息进行概括、筛选和翻译。当部长最终读到"全港[[General Education\|通识教育]]科教学成效报告"时，她看到的是经过 5 层过滤的汇总数据，而非任何一间教室的实际教学。同理，当部长的决策（"强化[[National Education|国民教育]]元素"）向下传达时，每一层级都会根据自己的理解重新解读——最终教师收到的指令可能已与部长的原意有系统性偏差。[[Argument_Cowen_2019_ERE\|Cowen (2019, pp. 6–7)]] 强调，这种信息损失是层级制本身的**结构性特征**，无法通过更好的管理技术消除。
 
 
 > [!abstract] 主权者的应对策略
@@ -135,7 +137,7 @@ updated: 2026-10-22
 > - **批评立场**Dunleavy (1991) 的官僚 career-driven 模型提供了反例——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性地向上级呈现有利数据）。单纯的知识问题模型无法解释这种策略性信息操纵。
 > - **[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的认可** Cowen 并未声称 Tullock 模型是完整的——他将其定位为对 Niskanen 自利模型的补充而非替代。知识问题和激励问题在经验上交织，但分析上区分有助于理解 [[Evidence-Based Education\|EBE]] 的吸引力：即使决策者真诚追求教育改善，他们仍会选择 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]作为透明的过滤机制。（基于 Cowen, 2019, pp. 5–8）
 >
-> **目前状态** 此张力在公共选择文献中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
+> **目前状态** 此张力在公共选择[[Document|文献]]中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
 
 
 > [!warning] 系统性解释的局限：为什么是现在？

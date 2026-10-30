@@ -5,15 +5,16 @@ aliases:
 summary: "大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Religious Schools]]"
   - "[[Methodological Nationalism]]"
   - "[[Open-Mindedness]]"
   - "[[Ontology]]"
@@ -31,11 +32,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 大学双重空间性（double spatiality of universities）是指大学同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界的双重空间特征。这一特征贯穿了从北印度佛教寺院、中世纪伊斯兰宗教学校（madrasas）到欧洲大学的高等教育历史，至今仍是大学（部分）自主性和组织身份的基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])。
+> 大学双重空间性（double spatiality of universities）是指大学同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界的双重空间特征。这一特征贯穿了从北印度佛教寺院、中世纪伊斯兰[[Religious Schools|宗教学校]]（madrasas）到欧洲大学的高等教育历史，至今仍是大学（部分）自主性和组织身份的基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])。
 
 > [!quote|notitle]
 > "They can hardly not be national, while the global scale frees them to be something of their own that does not derive from states and connects them to all institutions that combine inquiry and learning."([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])

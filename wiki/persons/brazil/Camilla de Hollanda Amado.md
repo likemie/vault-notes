@@ -7,10 +7,10 @@ summary: "巴西演员和剧场导演，社区剧场项目组织者，为教育�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1938"
 died: "2021"
 lifespan: "1938–2021"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Epistemology of Resistance]]"
   - "[[Ganz-Methode]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!person-profile] 人物档案
@@ -51,7 +52,7 @@ updated: 2026-10-22
 > - 2021 年 6 月 6 日去世，享年 82 岁
 
 > [!abstract] 主要著作与思想发展
-> 目前可获得的文献仅记录了 Amado 作为合作者和文化行动者的角色，尚未发现其个人著作或艺术创作的详细清单([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
+> 目前可获得的[[Document|文献]]仅记录了 Amado 作为合作者和文化行动者的角色，尚未发现其个人著作或艺术创作的详细清单([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
 
 > [!tip] 核心思想
 > Amado 的文化实践立场凝结于其核心梦想——**看到贫民窟知识被用于国家发展**

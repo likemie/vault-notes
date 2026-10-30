@@ -35,13 +35,13 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Paradigm]]"
   - "[[Formative Assessment]]"
+  - "[[Artificial Intelligence in Education]]"
   - "[[Computer Simulation]]"
 related_theories:
   - "[[Knowledge Integration]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[American Educational Research Association]]"
   - "[[National Science Foundation]]"
@@ -53,13 +53,13 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国加州大学伯克利分校（UC Berkeley）教育研究生院发展与认知科学荣休教授，美国国家教育[[Chinese Academy of Sciences|科学院]]（NAEd）院士，[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）会士，国际学习科学学会（ISLS）杰出贡献者。
+> - **身份位置** 美国加州大学伯克利分校（UC Berkeley）教育研究生院发展与认知科学荣休教授，美国国家教育科学院（NAEd）院士，[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）会士，国际学习科学学会（ISLS）杰出贡献者。
 > - **核心角色** 全球技术增强科学探究教育（Technology-Enhanced Science Education）与“[[Knowledge Integration\|知识整合]]”（Knowledge Integration, KI）[[Didaktik\|教学理论]]的奠基者。她开创了将交互式可视化技术、[[Authentic Science Practices|真实科学探究]]、形成性自动评价与教师专业发展深度融合的循证研究传统；所主持创立的 WISE 平台成为全美最具代表性、历时最长的大规模探究课程研发基地；长期致力于利用自适应学习技术缩小女性与少数族裔在 [[STEM Education\|STEM]] 学科中的[[Academic Achievement\|学业成就]]差距。
 > - **代表贡献** 构建“知识整合”（Knowledge Integration）教学理论框架；创立全球知名的开源探究平台 WISE；主导涵盖 8,000 余名中学生的里程碑式课程准实验（Linn et al., 2006）；率先将自然语言处理（NLP）与大语言模型引入课堂科学论述自动评估。
 
@@ -104,7 +104,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论体系建构** 创立的“[[Knowledge Integration\|知识整合]]”（Knowledge Integration）理论成为当代国际学习科学中最具影响力的科学教学设计[[Paradigm\|范式]]之一。
 > - **规模化实践创新** 历时二十余年研发的开源 WISE 平台直接服务于全球数十万师生，成为 [[National Science Foundation\|NSF]] 资助教育科研向常态课堂转化的国家级标杆。
-> - **技术前沿开拓** 率先将自然语言处理与机器学习算法应用于课堂开放式科学论述的自动化[[Formative Assessment\|形成性评价]]，奠定了教育人工智能（AIED）在科学教育领域的奠基性实践。
+> - **技术前沿开拓** 率先将自然语言处理与机器学习算法应用于课堂开放式科学论述的自动化[[Formative Assessment\|形成性评价]]，奠定了[[Artificial Intelligence in Education|教育人工智能]]（AIED）在科学教育领域的奠基性实践。
 
 ---
 

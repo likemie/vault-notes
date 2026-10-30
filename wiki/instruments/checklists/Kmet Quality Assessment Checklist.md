@@ -7,7 +7,7 @@ aliases:
 summary: "用于系统评价和元分析中评估初级定量与质性实证研究内部效度与方法学质量的 14 项标准化核查清单"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 15
+instrument_related_count: 16
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -29,6 +29,7 @@ tags:
   - methodology
 related_concepts:
   - "[[Internal Validity]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Research Question]]"
   - "[[Graphic Organizer]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-10-16
 > - **工具类型** 实证研究方法学质量与偏倚风险核查清单（Checklist / Rubric）。
 > - **开发者与年份** Kmet, Lee, & Cook (2004)（Alberta Heritage Foundation for Medical Research）。
 > - **测量目的** 在[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]中，标准化评估初级定量与质性实证研究的[[Internal Validity\|内部效度]]、研究设计严密性、测量信效度与控制充分性。
-> - **实施方式** 由两名研究者独立背对背审阅文献全文并评分，计算[[Intercoder Agreement\|编码者间一致性]][[Reliability\|信度]]，通过协商解决分歧。
+> - **实施方式** 由两名研究者独立背对背审阅[[Document|文献]]全文并评分，计算[[Intercoder Agreement\|编码者间一致性]][[Reliability\|信度]]，通过协商解决分歧。
 
 > [!citation-card] 关键表述
 > 两位作者运用 Kmet, Lee, and Cook's (2004) 14 项检查清单独立评估了纳入研究的方法学质量，从多个维度全面评估[[Quantitative Research\|定量研究]]的内部效度；所有 66 项初级研究得分均在 50% 以上（总分 28 分，均分 23.75 分，质量达标率为 85%）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 5)]]

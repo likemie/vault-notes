@@ -7,10 +7,10 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与关联负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 47
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 51
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/learning-science
   - theory/cognitive-psychology
@@ -26,6 +26,9 @@ related_concepts:
   - "[[Construct]]"
   - "[[Problem Solving]]"
   - "[[Paradigm]]"
+  - "[[Worked Examples]]"
+  - "[[Document]]"
+  - "[[Modality Effect]]"
   - "[[Constructivist Paradigm]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
@@ -54,6 +57,7 @@ related_concepts:
   - "[[Procedural Skill]]"
 related_theories:
   - "[[Bounded Rationality]]"
+  - "[[Discursive Institutionalism]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
@@ -72,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -97,13 +101,13 @@ updated: 2026-10-22
 > - **提出者与原始文本** 澳大利亚心理学家 [[John Sweller]] 于 1988 年在《认知科学》（*Cognitive Science*）发表奠基性论文《[[Problem Solving\|问题解决]]中的认知负荷：对教学设计的影响》（*Cognitive load during problem solving: Effects on learning*），正式确立理论雏形。
 > - **原初问题** 当时传统认知心理学普遍将无指导的解题探索（如手段—目的分析 Means-Ends Analysis）视为培养通用问题解决能力的黄金[[Paradigm\|范式]]。然而实验观察表明，初学者在面对复杂物理或数学难题时，往往耗费大量时间盲目试错却并未真正习得底层解题原理。
 > - **理论资源与材料** 借鉴 [[Herbert A. Simon]] 等人的[[Bounded Rationality\|有限理性]]（Bounded Rationality）假说与人类问题空间搜索理论，结合 George A. Miller 的[[Working Memory\|工作记忆]]容量限制研究，以及 Chase & Simon 关于国际象棋大师长时记忆图式组块（Chunking）的经典实验。
-> - **形成路径** Sweller 通过严格受控的几何与代数解题实验，对比无目标问题（Goal-Free Problems）、工作样例（Worked Examples）与传统常规解题组的学习表现，发现手段—目的分析占用了初学者全部注意力通道，剥离了图式建构所需的认知资源，从而推导出工作记忆负荷直接制约学习效能的因果解释机制。
+> - **形成路径** Sweller 通过严格受控的几何与代数解题实验，对比无目标问题（Goal-Free Problems）、工作样例（[[Worked Examples]]）与传统常规解题组的学习表现，发现手段—目的分析占用了初学者全部注意力通道，剥离了图式建构所需的认知资源，从而推导出工作记忆负荷直接制约学习效能的因果解释机制。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1988 — 理论奠基阶段** Sweller 提出手段—目的分析引发工作记忆超载，确立工作样例效应优于盲目解题的实验范式。
 > - **1990 年代 — 三维负荷模型与主观测量标准化** Paas 与 van Merriënboer 提出内在负荷（Intrinsic）、外在负荷（Extraneous）与关联负荷（Germane）的三维负荷结构，并开发 9 点李克特主观心智负荷量表。
-> - **1998 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典文献，系统总结分心效应、通道效应、冗余效应与专业反转效应（Expertise Reversal Effect）。
-> - **2006 — 最小指导批判与教学论争** Kirschner、Sweller 与 Clark 发表争议论文，断言未加指导的[[Constructivist Paradigm\|建构主义]]与[[Inquiry-Based Learning\|探究学习]]因引发工作记忆超载而彻底无效，主张回归[[Direct Instruction\|显性直接教学]]（Direct Instruction, DI）。
+> - **1998 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典[[Document|文献]]，系统总结分心效应、[[Modality Effect|通道效应]]、冗余效应与专业反转效应（Expertise Reversal Effect）。
+> - **2006 — 最小指导批判与教学论争** Kirschner、Sweller 与 Clark 发表争议论文，断言未加指导的[[Constructivist Paradigm\|建构主义]]与[[Inquiry-Based Learning\|探究学习]]因引发工作记忆超载而彻底无效，主张回归[[Direct Instruction\|显性直接教学]]（Direct Instruction, [[Discursive Institutionalism|DI]]）。
 > - **2011 — 进化心理学基础整合** Sweller 结合 David C. Geary 进化心理学，提出生物初级知识与生物次级知识划分，论证次级学科知识必须依赖显性指导教学。
 > - **2023 — 学习科学边界审视与时序协同拓展** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反驳将探究等同于极简指导的狭隘解读，指出辅以支架的指导式探究能有效管理认知负荷，且探究前置（如[[Productive Failure\|生产性失败]]）能激活图式、提高后续讲授的认知接受度。
 > - **2026 — 生成式 AI 时代：负荷双向分化与[[Epistemic Friction\|认识论摩擦]]机制** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示大语言模型（Large Language Model, LLM）在结构化设计中释放外在负荷赋能高阶探究，而在非结构化使用中切除关联负荷（认识论摩擦）导致认知侵蚀的双向分化机制。
@@ -138,7 +142,7 @@ updated: 2026-10-22
 ---
 
 > [!theory-proposition] 命题二｜教学设计的核心原则是通过优化教学呈现消除外在负荷并调控内在负荷
-> **解释** 学习者在特定时刻的总认知负荷等于内在负荷、外在负荷与关联负荷之和（$\text{Total Load} = \text{Intrinsic} + \text{Extraneous} + \text{Germane} \le \text{WM Capacity}$）。教学设计通过提供完整工作样例（样例效应）、整合空间割裂信息（分心效应）、协调视听双通道（通道效应）以及剔除重复冗余解说（冗余效应），能够最小化无关的外在负荷，使认知资源全部聚焦于图式建构。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–3)]]
+> **解释** 学习者在特定时刻的总认知负荷等于内在负荷、外在负荷与关联负荷之和（$\text{Total Load} = \text{Intrinsic} + \text{Extraneous} + \text{Germane} \le \text{WM Capacity}$）。教学设计通过提供完整工作样例（样例效应）、整合空间割裂信息（分心效应）、协调视听双通道（[[Modality Effect|通道效应]]）以及剔除重复冗余解说（冗余效应），能够最小化无关的外在负荷，使认知资源全部聚焦于图式建构。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–3)]]
 >
 > **应用实例** 在物理电路教学中，传统课本将电路图印在左页、文字解释印在右页（引发分心效应），学生视线反复切换造成外在负荷；教学改进将元器件功能直接标注在电路图对应节点旁，并配以语音同步解说，显著降低了学生的瞬时心智负荷。
 
@@ -205,7 +209,7 @@ updated: 2026-10-22
 > > - **批判政策社会学立场（Skourdoumbis & Rowe）** 批评其理论将生动的社会教育过程约化为机械的实验室数据，其非同行评审的智库报告被[[Policy Network\|政策网络]]强制推销，存在生物还原主义风险并压制了教师的专业自主反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8–11)]]
 
 > [!critique] 批评索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究论文中的文献选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究论文中的[[Document|文献]]选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评认知负荷理论在澳大利亚教师教育改革中被保守智库工具化，指出其将学生学习差异简单还原为工作记忆负荷，[[Screening Off\|屏蔽]]了教育的社会历史与文化关系维度。
 
 ---

@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，作为比较教育�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - theme/common-school
   - theme/historiography
 related_concepts:
+  - "[[Document]]"
   - "[[Scholiocentric Approach]]"
   - "[[Auslandspadagogik]]"
   - "[[General Education]]"
@@ -57,8 +58,8 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Michael Sadler]]"
 related_facts:
-  - "[[National Education in Europe]]"
   - "[[National Education]]"
+  - "[[National Education in Europe]]"
   - "[[Common School Movement]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
@@ -66,20 +67,20 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 ## 简介
 
-亨利·巴纳德（Henry Barnard, 1811–1900）是 19 世纪美利坚合众国最具国际声誉的教育家、文献学家、行政管理者，以及美国历史上首任联邦教育专员（United States Commissioner of Education）。他与[[Horace Mann|霍勒斯·曼]]（Horace Mann）并称为 19 世纪美国公学复兴运动的两大支柱。
+亨利·巴纳德（Henry Barnard, 1811–1900）是 19 世纪美利坚合众国最具国际声誉的教育家、[[Document|文献]]学家、行政管理者，以及美国历史上首任联邦教育专员（United States Commissioner of Education）。他与[[Horace Mann|霍勒斯·曼]]（Horace Mann）并称为 19 世纪美国公学复兴运动的两大支柱。
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国首任联邦教育专员、康涅狄格州与罗得岛州公共教育督办首脑、《美国教育杂志》创办人与主编；19 世纪外国教育调查与文献汇纂的集大成者。
 > - **学科代际定位** 比较教育学第一重论述代际（“启蒙准科学与行政改良代际”）美洲核心代表；与[[Victor Cousin|维克多·库森]]、霍勒斯·曼共同确立了“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察外国办学经验，并以此作为游说立法机关、争取公共财政建立国民学校体系之政治合法化依据的经典模式。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
 > - **核心角色** 在比较教育学科史上，巴纳德是将早期“[[Auslandspadagogik\|外国教育学]]”从零星的旅行见闻推向系统化、百科全书式历史描述与教育[[Ethnography\|民族志]]记录的枢纽人物。
-> - **代表贡献** 编纂出版两卷本跨国教育宏篇巨著《国民教育》（《[[National Education in Europe\|欧洲国民教育]]》（*[[National Education]] in Europe*）），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。
+> - **代表贡献** 编纂出版两卷本跨国教育宏篇巨著《[[National Education|国民教育]]》（《[[National Education in Europe\|欧洲国民教育]]》（*[[National Education]] in Europe*）），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。
 
 巴纳德以极其宏阔的视野系统梳理欧洲各国的教育制度，其工作赢得了后世学者的广泛赞誉：
 
@@ -108,7 +109,7 @@ updated: 2026-10-22
 
 ## 主要著作与思想发展
 
-巴纳德以极其惊人的毅力独立完成了 19 世纪最为浩瀚的跨国教育文献汇编：
+巴纳德以极其惊人的毅力独立完成了 19 世纪最为浩瀚的跨国教育[[Document|文献]]汇编：
 
 > [!work-line] 主要著作
 > - **1854/1872 — *[[National Education in Europe]]*** 巴纳德比较教育学的代表作。全书详尽记录了欧洲各国公共教育的历史沿革、行政架构、各级学校组织、课时分配表、教师任用条件与国家教育财政支出，被[[Brian Holmes\|布赖恩·霍姆斯]]誉为近代比较教育史上的宏伟奇迹。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 32)]]
@@ -118,10 +119,10 @@ updated: 2026-10-22
 
 ## 核心思想
 
-巴纳德的思想兼具行政[[Pragmatic Paradigm|实用主义]]与历史实证文献学的双重底色：
+巴纳德的思想兼具行政[[Pragmatic Paradigm|实用主义]]与历史实证[[Document|文献]]学的双重底色：
 
 > [!claim] 核心主张
-> 巴纳德坚信公共教育的稳固发展必须建立在翔实、准确、客观的制度事实与历史数据基础之上。他极力推崇欧洲（尤其是普鲁士）建立的由国家统一督导、覆盖全体国民、融通道德教化与学术训练的“真正国民教育（true [[National Education]]）”体系；主张通过百科全书式的跨国经验汇纂，为美利坚各州立法者提供全景式的制度参考图谱。
+> 巴纳德坚信公共教育的稳固发展必须建立在翔实、准确、客观的制度事实与历史数据基础之上。他极力推崇欧洲（尤其是普鲁士）建立的由国家统一督导、覆盖全体国民、融通道德教化与学术训练的“真正[[National Education|国民教育]]（true [[National Education]]）”体系；主张通过百科全书式的跨国经验汇纂，为美利坚各州立法者提供全景式的制度参考图谱。
 
 在对待德意志各邦的教育成就时，巴纳德尤为钦佩其将全体平民纳入国家法治化学校网络的制度魄力：
 
@@ -182,7 +183,7 @@ updated: 2026-10-22
 巴纳德在 19 世纪教育改革与学术史上处于核心网络枢纽：
 
 > [!person-network] 关系网络
-> - **改革伙伴** [[Horace Mann\|霍勒斯·曼]] 与曼密切协作，共同领导新英格兰及全美的公学复兴运动；曼主攻政治鼓动与公众演讲，巴纳德主攻文献汇纂与期刊制度化。
+> - **改革伙伴** [[Horace Mann\|霍勒斯·曼]] 与曼密切协作，共同领导新英格兰及全美的公学复兴运动；曼主攻政治鼓动与公众演讲，巴纳德主攻[[Document|文献]]汇纂与期刊制度化。
 > - **考察同道** [[Calvin Stowe\|卡尔文·斯托]]（Calvin Stowe） 共同推崇欧洲国家主导的初等公校实绩，利用彼此的考察文献为各自所在州的立法提供支持。
 > - **欧陆参照** [[Victor Cousin\|维克多·库森]]（Victor Cousin） 巴纳德深入研读并高度赞扬库森的普鲁士教育报告，将其作为美国考察与借用欧洲体制的经典范本。
 > - **方法论论敌** [[Harold Noah|哈罗德·诺亚]]（Harold Noah） 与 [[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein） 20 世纪科学实证派对巴纳德的汇纂方法提出了尖锐批评。
@@ -224,8 +225,8 @@ updated: 2026-10-22
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[National Education in Europe\|欧洲国民教育]] | 政策 / 事实 | 巴纳德比较教育学代表作，欧洲各国公共教育体制与统计百科全书。 |
-> | [[Common School Movement\|公学运动]] | 概念 | 巴纳德通过文献整理与行政实践，为全美公学运动确立了坚实的制度与理论后盾。 |
-> | [[Auslandspadagogik\|外国教育学]] | 概念 | 巴纳德的《国民教育》是 19 世纪前期外国教育学历史描述进路的最高峰。 |
+> | [[Common School Movement\|公学运动]] | 概念 | 巴纳德通过[[Document\|文献]]整理与行政实践，为全美公学运动确立了坚实的制度与理论后盾。 |
+> | [[Auslandspadagogik\|外国教育学]] | 概念 | 巴纳德的《[[National Education\|国民教育]]》是 19 世纪前期外国教育学历史描述进路的最高峰。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 巴纳德致力于通过吸取外部制度优长改善本土公共教育，体现了改良主义母题。 |
 > | [[Ethnography\|民族志]] | 方法 | 巴纳德对欧洲学校日常运作、纪律、课表与教学法的巨细靡遗的客观记述，开创了早期教育民族志的先河。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 巴纳德代表了第一代“以校为中心”（Scholiocentric）的孤立微观办学分析单位，为[[Michael Sadler\|萨德勒]]转向民族国家整体体系提供了制度史料基座。 |

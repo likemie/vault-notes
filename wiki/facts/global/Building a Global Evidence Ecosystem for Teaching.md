@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2018–2025"
 initiator_organization: "Education Endowment Foundation; BHP Foundation"
@@ -24,9 +24,11 @@ tags:
 related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[Counterfactual]]"
+  - "[[Document]]"
   - "[[Knowledge Mediation]]"
+  - "[[Reading Programs]]"
   - "[[Policy Mobility]]"
   - "[[Venture Philanthropy]]"
   - "[[Discourse]]"
@@ -59,13 +61,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> **“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”（Building a Global Evidence Ecosystem for Teaching）** 是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与跨国矿业资源寡头必和必拓旗下基金会（[[BHP Foundation]]）于 2018 年联合发起的五年期跨国教育伙伴项目。该项目旨在通过企业慈善资本的战略注入，将英国本土成型的因果证据评价[[Paradigm\|范式]]与中介网络全球化输出，支持包括澳大利亚、拉美与欧洲在内的多国建立本土化“[[Educational Brokerage Agency\|证据经纪人]]”（evidence brokers）（Collins, 2018；Edovald & Nevill, 2021；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
+> **“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”（Building a Global Evidence Ecosystem for Teaching）** 是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与跨国矿业资源寡头必和必拓旗下基金会（[[BHP Foundation]]）于 2018 年联合发起的五年期跨国教育伙伴项目。该项目旨在通过企业慈善资本的战略注入，将英国本土成型的因果证据评价[[Paradigm\|范式]]与中介网络全球化输出，支持包括澳大利亚、拉美与欧洲在内的多国建立本土化“[[Boundary Spanner|证据经纪人]]”（evidence brokers）（Collins, 2018；Edovald & Nevill, 2021；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2018–2025 年（原定 5 年，因 COVID-19 疫情延期 3 年；2026 年 1 月正式发布最终独立评估报告）。
@@ -81,7 +83,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计与实施矩阵
 > - **跨国中介孵化** 资助与扶持海外独立中介伙伴（如澳大利亚的[[Evidence for Learning\|证据学习中心]]与拉美的 [[SUMMA]]），协助其搭建本土工具包并开展实地试点。
-> - **全球证据库互联** 共享基于反事实因果标准的实证文献库，推动全球[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]数据库的统一标准化汇编。
+> - **全球证据库互联** 共享基于反事实因果标准的实证[[Document|文献]]库，推动全球[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]数据库的统一标准化汇编。
 > - **跨国人员互派与董事兼职** 推动 EEF 核心领导层（如首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]）跨国指导或直接进驻海外新兴国家证据机构董事会（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。
 
 > [!citation-card] [[BHP Foundation\|必和必拓基金会]]与 EEF 合作战略声明
@@ -96,7 +98,7 @@ updated: 2026-10-22
 > - **2018–2020 — 澳洲样板深化与 [[Australian Education Research Organisation\|AERO]] 催化** 借助该项目资金与技术输出，澳大利亚 [[Social Ventures Australia\|SVA]] 旗下的[[Evidence for Learning\|证据学习中心]]（E4L）加速推广澳洲版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等公立学区展开试验，为后续澳大利亚联邦设立国家级 AERO 提供了最核心的实践样板与舆论铺垫（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
 > - **2021–2023 — 全球网络成型与跨界交织** EEF 模式在拉美（[[SUMMA]]）、欧洲多国生根，并与[[OECD\|经济合作与发展组织]]（OECD）[[Knowledge Mediation\|知识中介]]项目形成跨国呼应；同时促成柯文·科林斯直接出任澳大利亚 AERO 首届专家董事。
 > - **2023 — 机制制度化：正式成立“[[Evidence for Education Network\|教育证据网络]]”（EEN）** EEF 将跨国合作机制正式制度化为常设多边组织“教育[[Evidence Network\|证据网络]]”（Evidence for Education Network, EEN），并在全球 20 个国家和地区吸纳核心中介伙伴（涵盖西班牙“la Caixa”基金会、智利 [[SUMMA]]、新西兰教育评估办公室 ERO、约旦拉尼娅王后基金会 QRF、喀麦隆 eBASE Africa、波兰 IBE、比利时 Leerpunt 等），将工具包成功本土化转译为西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语与法语 5 种语言版本。
-> - **2024–2025 — 证据动员与前置试点策略转向** 面对多数全球南方国家缺乏可直接进行大规模因果 [[Randomised Controlled Trials\|RCT]] 的成熟干预方案这一瓶颈，项目策略由追求直接大规模评估务实转向优先孵化本土试点（Pilot Studies，如约旦流利阅读项目、喀麦隆女童教育卫生研究、拉美 EDU-LAC 教学试点），并将工作重心向教师培训大纲与微观教学实践动员倾斜。
+> - **2024–2025 — 证据动员与前置试点策略转向** 面对多数全球南方国家缺乏可直接进行大规模因果 [[Randomised Controlled Trials\|RCT]] 的成熟干预方案这一瓶颈，项目策略由追求直接大规模评估务实转向优先孵化本土试点（Pilot Studies，如约旦流利[[Reading Programs|阅读项目]]、喀麦隆女童教育卫生研究、拉美 EDU-LAC 教学试点），并将工作重心向教师培训大纲与微观教学实践动员倾斜。
 > - **2026 — 独立评估终审报告发布（NatCen, 2026）** 英国国家社会研究中心（NatCen）于 2026 年 1 月 22 日正式发布最终独立评估报告《Building a global [[Evidence Ecosystem]] for teaching: Evaluation – Final report》，系统确立了项目在工具本土化使用与证据动员方面的全球成效，并指出后资助时代的可持续性维持、地方政府政治认同（buy-in）以及本土干预成熟度储备是全球证据生态面临的最核心现实挑战。
 
 ---

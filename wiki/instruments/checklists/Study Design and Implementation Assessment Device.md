@@ -9,7 +9,7 @@ aliases:
 summary: "有效干预清算中心（WWC）在创设初期研发的因果证据质量与实施审查核查规程，经47条学界公众评议确立量化非唯一科学声明、增设断点回归专章并规范干预测量对齐标准。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 26
+instrument_related_count: 27
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#e5e7eb"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Clinical Trial]]"
   - "[[Measurement Alignment]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-10-16
 
 ---
 
-> [!ref-table]- 使用 Study DIAD 的代表性文献
+> [!ref-table]- 使用 Study DIAD 的代表性[[Document|文献]]
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |

@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 46
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Evaluation Research]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Preregistration]]"
   - "[[Paradigm]]"
@@ -61,6 +62,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Random Sampling]]"
   - "[[Generalized Estimating Equations]]"
+  - "[[Experimental Research]]"
   - "[[Analytic Framework]]"
   - "[[Meta-analysis]]"
 related_instruments: []
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -219,13 +221,13 @@ updated: 2026-10-29
 >   - 集群数量过少（$J < 15$）时，极大似然法估计的组间方差容易发生向下偏倚，导致 ICC 点估计不稳定；
 >   - 集群规模极度非平衡且方差存在强烈[[Heterogeneity\|异质性]]的数据。
 > - **不适合使用**
->   - 严格的个体[[Random Assignment\|随机分配]]且受试者完全独立互不影响的经典实验设计；
+>   - 严格的个体[[Random Assignment\|随机分配]]且受试者完全独立互不影响的经典[[Experimental Research|实验设计]]；
 >   - 没有任何层级聚类标记的纯横截面数据。
 
 ---
 
 > [!method-limits] 方法局限
-> - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval\|置信区间]]往往极宽，依据历史文献粗略猜测 ICC 极易导致试验先期功效设计严重失实。
+> - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval\|置信区间]]往往极宽，依据历史[[Document|文献]]粗略猜测 ICC 极易导致试验先期功效设计严重失实。
 > - **集群规模不平衡时的敏感性** 经典公式假定各集群规模完全相等；当各校学生人数差距悬殊时，标准设计效应公式会低估真实的方差膨胀程度。
 > - **补救方式** 优先从官方大规模国家普查数据（如英格兰 NPD 归档）中提取先验 ICC；规模不均时采用加权设计效应公式（Eldridge et al., 2006）。
 

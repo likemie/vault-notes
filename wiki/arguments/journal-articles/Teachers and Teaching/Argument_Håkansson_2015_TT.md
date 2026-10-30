@@ -9,7 +9,7 @@ title: "Argument_Håkansson_2015_TT"
 argument_key: "Argument_Håkansson_2015_TT"
 argument_display_title: "Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Variable]]"
+  - "[[Student Motivation]]"
+  - "[[Teacher Support for Students]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
 related_theories: []
@@ -49,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2015
 doi: ""
 citation_aliases:
@@ -89,12 +91,12 @@ citation_aliases:
 > 4. 从 1990 年代中期以后，瑞典课堂里个人工作增加，全班教学和小组工作减少。更重要的是，个人工作不再只是“每个人安静做自己的题”，而逐渐变成学生自己计划、安排和排序学习任务。
 >    - **例子** 以前的个人工作更像“大家各自做同一套练习”；后来则更像“老师给一个范围，学生自己安排今天先做什么、怎么做、做到哪一步”。
 >
-> 5. 作者并没有把这种变化完全说成坏事。它的一面是学生可能更有参与感、更有选择权，也更能培养责任感和学习动机。
+> 5. 作者并没有把这种变化完全说成坏事。它的一面是学生可能更有参与感、更有选择权，也更能培养责任感和[[Student Motivation|学习动机]]。
 >
 > 6. 但另一面也很明显：学生被更早地要求自己读懂任务、自己抓重点、自己安排顺序。对学习准备更弱、基础不稳或不太会自我管理的学生来说，这就可能变成“表面自由，实际掉队”。
 >    - **例子** 如果老师说“这周你们自己安排把这个主题学完”，强一点的学生可能会自己拆任务、查资料、按时推进；弱一点的学生可能连“先做哪一步”都不清楚。
 >
-> 7. 所以后面的政策口号并不是凭空冒出来的。[[Structured Teaching]] 的兴起，本质上是在回应这样一种担忧：课堂是不是把太多学习责任过早丢给了学生，而教师支持反而变弱了。
+> 7. 所以后面的政策口号并不是凭空冒出来的。[[Structured Teaching]] 的兴起，本质上是在回应这样一种担忧：课堂是不是把太多学习责任过早丢给了学生，而[[Teacher Support for Students|教师支持]]反而变弱了。
 >
 > 8. 但作者也提醒，政策回应很容易走偏。因为一旦把问题说成“老师退太多了”，最省事的政治说法就会变成“那老师就重新站回讲台吧”。这正是文章接下来要反驳的简化路线。
 >

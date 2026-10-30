@@ -30,7 +30,6 @@ related_concepts:
   - "[[Multi-Project Wafer]]"
   - "[[Heterogeneous Integration]]"
   - "[[Process Design Kit]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Competitiveness]]"
   - "[[Emergence]]"
   - "[[Disciplinary Institutionalization]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[General Purpose Technology]]"
   - "[[Demand-side Innovation Policy]]"
+  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-10-26
 > - **科研与初创设计社群** 覆盖全美高校电子工程与计算机系所师生、国防工业研发团队及硅谷无晶圆厂初创公司。
 
 > [!pathways] 独特的多项目晶圆（MPW）流片机制
-> - **设计与制造解耦（Design-Fab [[Cognitive Decoupling|decoupling]]）** 设计人员无需掌握特定半导体厂繁杂的化学物理工艺，只需遵循标准化的设计规则；MOSIS 充当设计文件与物理代工厂之间的中立数字翻译接口。
+> - **设计与制造解耦（Design-Fab decoupling）** 设计人员无需掌握特定半导体厂繁杂的化学物理工艺，只需遵循标准化的设计规则；MOSIS 充当设计文件与物理代工厂之间的中立数字翻译接口。
 > - **多项目晶圆共享拼版（Multi-Project Wafer, MPW）** 将数十甚至数百个不同大学和机构提交的微型芯片设计合并到同一套高昂的光刻掩膜版（Mask Set）上，使各项目平摊掩膜和晶圆制造成本。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 > - **网络化敏捷提交流程（[[ARPANET]]/Internet Submission）** 开创了通过电子邮件远程提交 CIF/GDSII 芯片设计版图、数周内通过快递回寄封装测试样片的敏捷研发流程。
 
@@ -158,7 +158,7 @@ updated: 2026-10-26
 > | [[National Science Foundation]] | Fact (Organization) | 协同资助全美大学师生通过 MOSIS 开展微电子科研与教学。 |
 > | [[1956 AT&T Consent Decree]] | Fact (Policy) | 与 MOSIS 共同构成了破除垄断、促进美国半导体专业化分工的制度力量。 |
 > | [[Fred Block]] | Person | 系统揭示 MOSIS 作为隐蔽发展型网络国家微观靶向公共平台打破研发瓶颈的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家演进视角论证 MOSIS 打破芯片物理流片瓶颈的权威文献。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家演进视角论证 MOSIS 打破芯片物理流片瓶颈的权威[[Document\|文献]]。 |
 
 ---
 

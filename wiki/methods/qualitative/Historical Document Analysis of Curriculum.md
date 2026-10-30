@@ -7,7 +7,7 @@ summary: "通过系统分析课程文件、政府政策、媒体报道和学术�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 - paradigm/critical
 - paradigm/interpretivist
 related_concepts:
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Lifelong Learning]]"
@@ -44,11 +45,11 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!info] 定义
-> 课程的历史[[Documentary Analysis\|文献分析]]是一种[[Qualitative Research\|质性研究]]方法，通过系统地分析课程指引、政府文件、政策文本、媒体报道和既有学术文献，重建学校科目的演变历程，解释课程变革的政治与历史动力。
+> 课程的历史[[Documentary Analysis\|文献分析]]是一种[[Qualitative Research\|质性研究]]方法，通过系统地分析课程指引、政府文件、政策文本、媒体报道和既有学术[[Document|文献]]，重建学校科目的演变历程，解释课程变革的政治与历史动力。
 >
 > [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] 运用此方法分析了 LS 从 2009 年创立到 2021 年废除的完整历史，数据来源包括：
 > - 课程指引（LS C&A Guide, 2007; [[Citizenship and Social Development\|CSD]] C&A Guide, 2021）

@@ -17,10 +17,10 @@ aliases:
 summary: "弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的文本化知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 8
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 27
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/knowledge
   - theme/policy-process
@@ -32,10 +32,29 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Procedural Knowledge]]"
   - "[[Communities of Practice]]"
+  - "[[Science and Technology Studies]]"
+  - "[[Artefact]]"
+  - "[[Evaluation Research]]"
+  - "[[School Inspection]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Document]]"
+  - "[[Policy Network]]"
+  - "[[Socioscientific Issues]]"
+  - "[[Homework]]"
+  - "[[Paradigm]]"
+  - "[[Literature Review]]"
+  - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
+  - "[[Forensic Style of Inspection]]"
+  - "[[State Simplification]]"
+  - "[[Ontology]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Policy Borrowing]]"
 related_theories:
   - "[[Actor-Network Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -45,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +72,7 @@ updated: 2026-10-22
 > [!theory-position] 理论定位
 > - **解释对象** 政策与组织工作中知识的存在形态、流动方式与转化过程，尤其关注研究知识如何在人体经验、书面规程与现场行动之间流转与变形。
 > - **理论问题** 既有政策研究常把知识视作均质且可自由传递的客体，或仅关注文本与[[Discourse|话语]]；该理论回应为何部分知识能够跨情境标准化复制，部分知识只能随人移动，而另一些知识仅在互动现场即时生成并稍纵即逝的经验谜题。
-> - **理论类型** 知识社会学分析框架与概念工具，侧重过程机制刻画。
+> - **理论类型** 知识社会学[[Analytic Framework|分析框架]]与概念工具，侧重过程机制刻画。
 > - **知识位置** 位于政策社会学、组织知识与实践理论交叉口；承接[[Tacit Knowledge|默会知识]]对“知道如何”（[[Procedural Knowledge|knowing how]]）的关切，吸纳[[Communities of Practice|实践共同体]]与政策转译视角，侧重多重知识形态的转化链条。
 
 > [!claim] 核心判断
@@ -69,13 +88,13 @@ updated: 2026-10-22
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 理查德·弗里曼（Richard Freeman）与史蒂夫·斯特迪（Steve Sturdy）在 2014 年主编的专著《政策中的知识：具身、铭写与践行》（*Knowledge in Policy: Embodied, Inscribed, Enacted*）导论中提出知识的三相形态理论。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 644, 654)]]
 > - **原初问题** 既有政策学将知识窄化为静态实证证据或纯粹话语修辞，忽视了知识在科层组织与政策实践中如何被人体携带、如何转化为制度工具，以及如何在现场执行中被即时生产的微观机制。
-> - **理论资源与材料** 汲取波兰尼的[[Tacit Knowledge|默会知识]]理论、科学知识社会学（SSK）与科学技术论（STS）关于“铭写装置”（Inscriptions）的洞见，以及实践理论（Practice Theory）对行动即时性的强调。
-> - **形成路径** 从欧洲公共卫生、医疗与教育政策的多案例比较中，提炼出知识在人体（身体经验）、器物（文本规程）与实践（现场互动）三维空间中的存在形态与转换机制，主张知识在投入行动或付诸实施之前不具有自足意义。
+> - **理论资源与材料** 汲取波兰尼的[[Tacit Knowledge|默会知识]]理论、科学知识社会学（SSK）与科学技术论（[[Science and Technology Studies|STS]]）关于“铭写装置”（Inscriptions）的洞见，以及实践理论（Practice Theory）对行动即时性的强调。
+> - **形成路径** 从欧洲公共卫生、医疗与教育政策的多案例比较中，提炼出知识在人体（身体经验）、[[Artefact|器物]]（文本规程）与实践（现场互动）三维空间中的存在形态与转换机制，主张知识在投入行动或付诸实施之前不具有自足意义。
 
 > [!dev-timeline] 理论版本与贡献
 > - **2014 — 三种知识形态框架确立** 弗里曼与斯特迪系统建构具身、文本化（铭写）与践行知识的三相分类，揭示各形态在可移动性、稳定性与权力属性上的差异。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
-> - **2014 以后 — 知识密集型公共治理分析扩展** 广泛应用于卫生行政、专业问责与标准化评估研究，聚焦分析文本规程与一线专业自由裁量权之间的冲突与衔接。
-> - **2022 — 教育督导循证机制与文本重写扩展** 塞格霍姆等将三种知识形态引入学校督导研究，追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]常规督导与质量审计，揭示循证治理表面依赖文本化常模，实则高度依附具身技艺与践行斡旋，并揭示了终审文本清洗对践行反思的权力专断。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 644, 648, 651–654)]]
+> - **2014 以后 — 知识密集型公共治理分析扩展** 广泛应用于卫生行政、专业问责与标准化[[Evaluation Research|评估研究]]，聚焦分析文本规程与一线专业自由裁量权之间的冲突与衔接。
+> - **2022 — [[School Inspection|教育督导]]循证机制与文本重写扩展** 塞格霍姆等将三种知识形态引入学校督导研究，追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]常规督导与质量审计，揭示[[Output-Oriented Governance|循证治理]]表面依赖文本化常模，实则高度依附具身技艺与践行斡旋，并揭示了终审文本清洗对践行反思的权力专断。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 644, 648, 651–654)]]
 
 ---
 
@@ -95,12 +114,12 @@ updated: 2026-10-22
 > [!theory-proposition] 命题一｜知识以具身、文本化与践行三种形态存在并形成动态转化循环
 > **解释** 三种形态对应同一知识过程的不同阶段，不宜视为相互割裂的实体。人的身体经验可以被表述、提炼并书写为文本；文本又可在具体行动中被重新阅读、解释与修改，成为新一轮行动的依据。形态之间的转化本身构成了政策工作的实质内容。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
 >
-> **应用实例** 在学校督导指标编制中，起草工作组首先在会议中提出“考察成功学校”的构想，进而系统检索文献并提取核心要素，经高层裁量编码为面向全国学校的督导评估常模。会议中的即时提议属于践行知识，形成的指标手册属于文本化知识，而推动提议形成的一线督导经验则属于具身知识。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 647–648)]]
+> **应用实例** 在学校督导指标编制中，起草工作组首先在会议中提出“考察成功学校”的构想，进而系统检索[[Document|文献]]并提取核心要素，经高层裁量编码为面向全国学校的督导评估常模。会议中的即时提议属于践行知识，形成的指标手册属于文本化知识，而推动提议形成的一线督导经验则属于具身知识。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 647–648)]]
 
-> [!theory-proposition] 命题二｜不同知识形态具备非对称的可移动性与稳定性并适配异质治理职能
+> [!theory-proposition] 命题二｜不同知识形态具备非对称的可移动性与稳定性并适配[[Policy Network|异质治理]]职能
 > **解释** 文本化知识具备高度的可移动性与可复制性，适合形成普适标准以推进跨情境标准化治理；具身知识随人移动，适合传递难以形式化的经验直觉与情境决断；践行知识伴随互动而生，适合应对不确定性与微观转译。政策体系若过度偏废某一形态，将导致标准化僵化或情境失控。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648, 650–652)]]
 >
-> **应用实例** [[Swedish Schools Inspectorate|瑞典学校督察局]]（SSI）依托评估领域、作业指引、术语表与单一范式文献综述构建起全国统一的督查基准，展现了文本化知识的治理优势；但评估指标如何切合现场需要资深督导官员的具身经验，闭门参考组的论辩需要学者的现场践行智慧，最终调查报告出台则依赖传播秘书处的编辑裁定。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648, 650–652)]]
+> **应用实例** [[Swedish Schools Inspectorate|瑞典学校督察局]]（[[Socioscientific Issues|SSI]]）依托评估领域、[[Homework|作业]]指引、术语表与单一[[Paradigm|范式]][[Literature Review|文献综述]]构建起全国统一的督查基准，展现了文本化知识的治理优势；但评估指标如何切合现场需要资深督导官员的具身经验，闭门参考组的论辩需要学者的现场践行智慧，最终调查报告出台则依赖传播秘书处的编辑裁定。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648, 650–652)]]
 
 > [!theory-proposition] 命题三｜文本化知识在定稿前具高度可塑性且稳定文本背后由行政权力重写维系
 > **解释** 文本化知识一旦正式印发便呈现客观、中立与自洽的外观，但在进入最终文本形态之前，其经历了复杂的起草、协商、裁剪与编辑流程。哪些判断被写入条文、哪些被系统删减，深层受制于科层机构内部的权力架构与行政意志。文本的客观稳定性掩盖了其生成背后的微观权力争夺。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–653)]]
@@ -115,9 +134,9 @@ updated: 2026-10-22
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 政策机构在推进循证改革时，研究知识如何被选择、编码并具体使用？治理机构公开宣称的科学标准与其日常运作中人员的默会经验存在何种张力？
-> - **分析对象与单位** 政策起草工作组会议、专家参考组研讨实录、行政法规与评估指令文本、质量调查报告初稿与定稿修订记录。分析单位是“人员-文本-行动”的三相转换链条。
-> - **需要的材料** 深度访谈记录、会议观察现场记录、政策流程指南、评估指标体系草案与定稿、各轮次修改文本。
+> - **[[Research Question|研究问题]]** 政策机构在推进循证改革时，研究知识如何被选择、编码并具体使用？治理机构公开宣称的科学标准与其日常运作中人员的默会经验存在何种张力？
+> - **分析对象与单位** 政策起草工作组会议、专家参考组研讨实录、行政法规与评估指令文本、质量调查报告初稿与定稿修订记录。[[Unit of Analysis|分析单位]]是“人员-文本-行动”的三相转换链条。
+> - **需要的材料** [[In-depth Interview|深度访谈]]记录、会议观察现场记录、政策流程指南、评估指标体系草案与定稿、各轮次修改文本。
 > - **解释目标** 揭示证据本位政策中的知识形态流转轨迹，诊断文本化常模对真实实践的简化与裁剪效应，评估科层重写特权对学术批判意见的过滤机制。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -128,10 +147,10 @@ updated: 2026-10-22
 > | 文本化知识规范性（Freeman & Sturdy, 2014; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, pp. 646–648]]） | **制度规程固化与标准化** 哪些研究结论被转化为可跨时空流转的书面指标与操作手册？文本如何界定合规边界？ | 法律条例、督导评估指标手册、作业指引、知识综述文本。 | 存在明确书面条文支持标准化治理假设；但文本完备性不等于实际执行保真度。 |
 > | 践行知识即时性（Freeman & Sturdy, 2014; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, pp. 650–651]]） | **互动协商与临场应对** 行动者在面对面交锋中展现了何种即兴辩驳与转译技巧？哪些知识仅在会议当下存在？ | 专家组闭门研讨记录、听证交锋速记、现场观察笔记。 | 若关键结论产生于即时交锋并随会议结束消逝，支持践行知识属性；需结合后续文本追踪其留存情况。 |
 > | 知识形态双向转化（Freeman & Sturdy, 2014; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, p. 648]]） | **编码沉缩与行动激活** 口头讨论如何被压缩编码为书面文字？书面文本又如何在实地行动中被赋予具体意义？ | 初稿与过程草案演化轨迹、督导员进校解释实录。 | 发现口头提议逐步落实为法规条目表明文本化完成；若书面规程无法落地则表明转化断裂。 |
-> | 终审定稿权力重写（Smith, 2000; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, pp. 651–653]]） | **文本清洗与归因过滤** 机构在正式印发文本前执行了何种形式的文本清洗？哪些体制反思被删除、何种指控被保留？ | 初稿、征求意见稿与正式发布报告的逐段对齐比对。 | 关键体制批评被成系统切除且仅保留个体缺陷归因，支持科层取证式调查与权力重写假说。 |
+> | 终审定稿权力重写（Smith, 2000; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, pp. 651–653]]） | **文本清洗与归因过滤** 机构在正式印发文本前执行了何种形式的文本清洗？哪些体制反思被删除、何种指控被保留？ | 初稿、征求意见稿与正式发布报告的逐段对齐比对。 | 关键体制批评被成系统切除且仅保留个体缺陷归因，支持科层[[Forensic Style of Inspection\|取证式调查]]与权力重写假说。 |
 
 > [!exegesis]- 从理论到材料的一次完整分析
-> 以瑞典学校督察局专题质量审计为例。督察局首先编制项目计划书与知识综述，这是文本化知识；两位大学资深学者带着对教学情境复杂性与教师处境的理解入场，这是具身知识；在专家参考组会议上，学者针对“良好范例”设想提出强烈质疑，指出课程大纲晦涩才是教学紊乱根源，这一面对面辩难属于践行知识。会议中的学术反思一度被经办督导员写入报告草案；然而当草案流转至传播秘书处后，该处行使终审定稿权力，彻底清除了针对国家课程政策的制度批判，仅在正式发布的终审报告中保留了“教师普遍缺乏自信”的个体定性，使文本化知识再次覆盖并消解了现场的践行反思。通过三种知识形态的转化链条追踪，生动揭示了科学实证如何在科层流程中被层层筛选与定向重写，最终服务于国家简化的行政问责诉求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–652)]]
+> 以瑞典学校督察局专题质量审计为例。督察局首先编制项目计划书与知识综述，这是文本化知识；两位大学资深学者带着对教学情境复杂性与教师处境的理解入场，这是具身知识；在专家参考组会议上，学者针对“良好范例”设想提出强烈质疑，指出课程大纲晦涩才是教学紊乱根源，这一面对面辩难属于践行知识。会议中的学术反思一度被经办督导员写入报告草案；然而当草案流转至传播秘书处后，该处行使终审定稿权力，彻底清除了针对国家课程政策的制度批判，仅在正式发布的终审报告中保留了“教师普遍缺乏自信”的个体定性，使文本化知识再次覆盖并消解了现场的践行反思。通过三种知识形态的转化链条追踪，生动揭示了科学实证如何在科层流程中被层层筛选与定向重写，最终服务于[[State Simplification|国家简化]]的行政问责诉求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–652)]]
 
 ---
 
@@ -146,7 +165,7 @@ updated: 2026-10-22
 
 > [!debates] 理论争议
 >
-> > [!axis] 三种形态属于本体论分立还是实践分析侧面
+> > [!axis] 三种形态属于[[Ontology|本体论]]分立还是实践分析侧面
 > > 争论具身、文本化与践行究竟是三种异质实体，还是连续实践活动的不同分析截面。
 > >
 > > - **分析区分论（Freeman & Sturdy, 2014）** 坚守三相分类，强调不同形态对应完全不同的载体与流转逻辑，区分有助于打开政策工作内部的微观黑箱。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 644)]]
@@ -167,7 +186,7 @@ updated: 2026-10-22
 > [!critique] 批评索引
 > - **与[[Tacit Knowledge|默会知识]]理论的关系** 具身知识承接默会知识传统，但进一步强调了肉身作为知识移动物理载体的制度约束。
 > - **与[[Actor-Network Theory|行动者网络理论]]（ANT）的对话** 文本化知识吸纳了拉图尔铭写装置（Inscriptions）概念，但更聚焦于组织层级内的形态转换，未全盘采纳非人行动者对称性本体论。
-> - **与批判政策社会学的结合需求** 该理论擅长追踪形态流转，但对宏观阶级利益与国家政治经济学解释力有限，需与国家简化及政策借用理论互补。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 652–654)]]
+> - **与批判政策社会学的结合需求** 该理论擅长追踪形态流转，但对宏观阶级利益与国家政治经济学解释力有限，需与国家简化及[[Policy Borrowing|政策借用]]理论互补。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 652–654)]]
 
 ---
 

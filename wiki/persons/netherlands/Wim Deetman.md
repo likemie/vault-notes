@@ -10,7 +10,7 @@ summary: "荷兰著名政治家，基督教民主党（CDA）领袖，荷兰二�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Strategic Autonomy]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Critical Discourse Analysis]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -129,5 +130,5 @@ updated: 2026-10-22
 
 ---
 
-> [!evidence-grid] 相关文献索引
+> [!evidence-grid] 相关[[Document|文献]]索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 详尽记录德特曼大臣在 1980 年代主政期间推行 [[Higher Education Autonomy and Quality|HOAK]] 改革与 HBO 大兼并的政治策略，剖析其去政治化协商艺术与治理贡献。

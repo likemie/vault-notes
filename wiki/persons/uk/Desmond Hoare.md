@@ -7,10 +7,10 @@ summary: "英国海军工程少将、大西洋学院创校校长，以共同任�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1910"
 died: "1988"
 lifespan: "1910–1988"
@@ -21,6 +21,7 @@ tags:
   - theme/service-learning
 related_concepts:
   - "[[Teacher Support for Students]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -106,6 +107,6 @@ updated: 2026-10-23
 > [!boundary]- 区分个人主张与运动后续政策
 > 全员全额奖学金的后续承诺、各国按家庭经济能力资助的惯例，以及 [[United World Colleges|UWC]] 后来的成员决策，涉及多位领导者、政府与各校，不宜全部归于霍尔。第八章支持确认他的低成本办学和混合资助构想，但未提供这些构想的独立效果评价。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–212)]]
 
-> [!evidence-grid] 文献与论证索引
+> [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 3–9)]] — 记录创校校长的选择、专业经验、救援课程、男女同校及学术合作。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–212)]] — 回顾霍尔对低成本多样化及奖学金结构的支持，并呈现后来政策和资源限制。

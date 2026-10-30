@@ -8,7 +8,7 @@ aliases:
 summary: "雷蒙德·卡拉汉提出的概念，指20世纪初美国公立学校教育盲目引入工厂泰勒制科学管理，以行政控制与商业效率取代教育本质价值的现象"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,13 +30,14 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[PISA]]"
+  - "[[NAPLAN]]"
   - "[[Corwin Press]]"
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 核心定义
@@ -51,7 +52,7 @@ updated: 2026-10-22
 
 > [!note] 概念演变
 > - **历史缘起（20世纪初）** 在工商业崛起和进步主义时代的社会压力下，美国公立学校管理层面临着低效的猛烈指责。为自保和彰显专业性，埃尔伍德·库伯利（Ellwood Cubberly）、乔治·斯[[Michael Traill\|特雷尔]]（George Strayer）和[[Michael Fullan|富兰]]克林·博比特（Franklin Bobbit）等教育行政学开山鼻祖大量将泰勒制引入名校教育行政培训中，确立了行政事务与教学目标的永久性结构分离。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413, 416]])
-> - **现实返祖（21世纪初）** 由于 [[PISA]]/NAPLAN 测试所造成的社会性评估恐慌，当代教育行政管理者再次萌生对“科学控制与标准解药”的理性饥渴，直接导致了[[John Hattie\|约翰·哈蒂]]以[[Effect Size\|效应量]]排名为支柱的“[[Cult of the Guru\|大师崇拜]]（Cult of Hattie）”的大行其道，重演了百年前卡拉汉批判的效率悲剧。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413–414, 419]])
+> - **现实返祖（21世纪初）** 由于 [[PISA]]/[[NAPLAN]] 测试所造成的社会性评估恐慌，当代教育行政管理者再次萌生对“科学控制与标准解药”的理性饥渴，直接导致了[[John Hattie\|约翰·哈蒂]]以[[Effect Size\|效应量]]排名为支柱的“[[Cult of the Guru\|大师崇拜]]（Cult of Hattie）”的大行其道，重演了百年前卡拉汉批判的效率悲剧。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413–414, 419]])
 
 ---
 

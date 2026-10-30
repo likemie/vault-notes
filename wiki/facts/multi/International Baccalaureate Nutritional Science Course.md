@@ -7,7 +7,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Terminal Courses]]"
   - "[[International Schools]]"
+  - "[[Science Programs]]"
   - "[[International Education]]"
   - "[[Experiential Learning]]"
 related_methods:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-22
 > - **采用讨论，年份未报告** 马尼拉、雅加达和香港的学校表达较大兴趣，最终均未采用；学校未具名。
 > - **记述时状态** 课程仍在新加坡与墨西哥城作为内部第六科存在，跨校推广没有实现预期。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
-后续创新调整了资源安排，不能将其资金和成果归入营养科学项目。
+后续创新调整了资源安排，不能将其资金和成果归入营养[[Science Programs|科学项目]]。
 
 > [!timeline] 推广经验进入后续课程开发
 > - **1982年** [[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点获得英国朗特里信托与印度塔塔信托较充分支持。

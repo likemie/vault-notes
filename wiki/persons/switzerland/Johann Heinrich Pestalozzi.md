@@ -9,10 +9,10 @@ summary: "瑞士近代著名民主主义教育家与小学教学法之父，首�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1746"
 died: "1827"
 lifespan: "1746–1827"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Establishing One's Will]]"
   - "[[Educational Meliorism]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -138,6 +139,6 @@ updated: 2026-10-22
 > | [[Marc-Antoine Jullien]] | 人物 | 早期实地考察伊弗东并将其方法吸纳为比较教育[[Questionnaire\|问卷]]核心指标的学者。 |
 > | [[Horace Mann]] | 人物 | 在第七次报告与波士顿大论战中极力捍卫并推广裴斯泰洛齐方法的美国公学领袖。 |
 > | [[Calvin Stowe]] | 人物 | 在 1837 年欧洲报告中向俄亥俄州与全美议会推崇其教学法的美国教育家。 |
-> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 详尽记录普鲁士推行裴斯泰洛齐人道教学法卓越实效的官方文献。 |
+> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 详尽记录普鲁士推行裴斯泰洛齐人道教学法卓越实效的官方[[Document\|文献]]。 |
 > | [[Boston Schoolmasters Controversy]] | 事件 | 因推行裴斯泰洛齐温和人道纪律与直观教学而引发的全美教育大论战。 |
 > | [[Report on Elementary Public Instruction in Europe]] | 政策 | 斯托向全美系统推荐普鲁士裴斯泰洛齐师范模式的政策报告。 |

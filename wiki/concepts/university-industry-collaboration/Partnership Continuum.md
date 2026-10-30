@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-10-22
 
 ---
 
-> [!example] 在学术健康系统中的应用
+> [!example] 在[[Academic Health System|学术健康系统]]中的应用
 > 伙伴关系连续体在[[Academic Health System\|学术健康系统]]（AHS）中的适用方式与大学和 [[Academic Medical Center\|AMC]] 非常相似：AHS 参与从 Level 1 到 Level 3 的合作；与新伙伴的首次合作可以从任何级别进入；与同一伙伴可以同时在不同级别维持多个合作关系([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, p.188]])。
 
 > [!note] 互补视角：合作光谱（[[SPECTRUM]] of Partnerships）

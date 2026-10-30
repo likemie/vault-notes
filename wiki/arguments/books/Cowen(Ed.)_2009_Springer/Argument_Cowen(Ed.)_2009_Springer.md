@@ -7,9 +7,9 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International handbook of comparative education"
 argument_kind: "edited-volume"
-argument_related_count: 118
-argument_related_level: 11
-argument_related_stars: "💎💎💎⭐⭐"
+argument_related_count: 127
+argument_related_level: 12
+argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
 authors: []
 editors:
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Shape-Shifting]]"
+  - "[[Epistemic Inequality]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Influences Across Cultures]]"
   - "[[Financial-Intellectual Complex]]"
@@ -50,6 +51,9 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Multilateral Development Bank]]"
   - "[[Washington Consensus]]"
+  - "[[Subsidiarity Principle]]"
+  - "[[Europe of Knowledge]]"
+  - "[[Open Method of Coordination]]"
   - "[[Policy Borrowing]]"
   - "[[Space of Flows]]"
   - "[[Pragmatic Paradigm]]"
@@ -60,7 +64,6 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
-  - "[[Geisteswissenschaften]]"
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Scientific Paradigm]]"
@@ -75,6 +78,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Shadow State]]"
   - "[[Time-Space Compression]]"
+  - "[[Document]]"
   - "[[Protean Episteme]]"
   - "[[Historical Amnesia]]"
   - "[[Comprehensive Education]]"
@@ -87,6 +91,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Economic Fundamentalism]]"
+  - "[[Aggressive Intergovernmentalism]]"
   - "[[Educational Decentralization]]"
   - "[[Sadler's Garden Metaphor]]"
   - "[[Theoretical Standpoint]]"
@@ -100,6 +105,7 @@ related_theories:
   - "[[Conditioned State Theory]]"
   - "[[Pluri-Scalar Governance]]"
   - "[[Typology of Educational Responses to Globalization]]"
+  - "[[Panopticism]]"
   - "[[Governmentality]]"
   - "[[World Society Theory]]"
   - "[[State Corporatism]]"
@@ -109,9 +115,9 @@ related_theories:
   - "[[Postmodernism]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
   - "[[Comparative Case Study]]"
-  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -130,6 +136,7 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[PISA]]"
+  - "[[Lisbon Strategy]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[World Trade Organization]]"
@@ -140,6 +147,7 @@ related_facts:
   - "[[Hukou System]]"
   - "[[Schools for Migrant Children]]"
   - "[[Plyler v. Doe 1982]]"
+  - "[[European Commission]]"
   - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
@@ -152,6 +160,7 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Mitter_2009_Europe]]"
@@ -161,7 +170,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -204,7 +213,7 @@ updated: 2026-10-27
 > [!volume-tools] 理论与方法工具箱
 > - **[[Comparative History of Comparative Education]]** 作为贯穿全书历史反思的核心纲领，主张跨越单一国别视角，以多中心与批判史学反思学科自身的发展轨迹。（pp.7–10）
 > - **转移与[[Shape-Shifting\|形变]]理论** 关注教育理念与制度跨国流动过程中的本土再造与形态变异。
-> - **后殖民与去殖民视角** 质询教育现代化背后的权力依附与知识不平等。
+> - **后殖民与去殖民视角** 质询教育现代化背后的权力依附与[[Epistemic Inequality|知识不平等]]。
 > - **关键词** 学科史学编纂（Historiography）、[[Geopolitics of Knowledge\|知识地缘政治]]、国家构建、教育转移（Educational Transfer）、全球治理。
 
 ---
@@ -219,7 +228,7 @@ updated: 2026-10-27
 >   - **阅读价值** 呈现比较教育学如何从早期准科学与历史人文传统，走向 1960 年代围绕“法则、预测与经验共变”的实证科学化运动，辨析芝加哥、哥大与伦敦学派在规律性质上的[[Epistemology\|认识论]]分野，并剖析实证方法与战后国家规划合法化之间的政治共谋与[[Paradigm\|范式]]衰变；Ch. 09 进一步平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示 26 种理论范式共存的“健康[[Pluralism|多元主义]]”而非失控碎片化。
 > - **国家理论、依附性与全球化教育扩张**
 >   - **相关章节** Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]；Ch. 08 [[Argument_Arnove_2009_WorldSystems]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 11–20（Section 2 政治形态与教育系统）；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]；Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]；Ch. 34（Whitty）；Ch. 64（Dale）。
->   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选、世界体系中心-边缘依附、[[Pluri-Scalar Governance|多标度治理]]以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]与[[OECD|经合组织]]“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”规训机制的批判政治经济学解构，并开辟基层社会运动的自下而上反抗视野；Ch. 09 确立涵盖“强制再生产”的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，Ch. 28 进一步剖析[[OECD]]如何通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”并将性别平权与社会资本工具化为经济效率的附庸；Ch. 29 从圈内人高阶视角解构[[Multilateral Development Bank|多边开发银行]]（世行与泛美行）作为主权信用合作社的金融运作本质，揭示[[Washington Consensus|华盛顿共识]]在教育放贷中衍生的九大技术信条，并直指官僚报销审计与重投入轻产出的执行评估失能；Ch. 30 则以《马斯特里赫特条约》至里斯本战略为轴线，运用福柯权力-知识理论与全景敞视分析框架，揭示欧盟如何在宪制辅助性原则限制下，通过危机叙事构筑“[[Europe of Knowledge|知识欧洲]]”市场化话语，并依托开放协调法整合指标凝视、绩效评审与技术官僚治理，最终在超国家尺度建立起事实上的“欧洲教育全景敞视建筑”。
+>   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选、世界体系中心-边缘依附、[[Pluri-Scalar Governance|多标度治理]]以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]与[[OECD|经合组织]]“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”规训机制的批判政治经济学解构，并开辟基层社会运动的自下而上反抗视野；Ch. 09 确立涵盖“强制再生产”的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，Ch. 28 进一步剖析[[OECD]]如何通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”并将性别平权与社会资本工具化为经济效率的附庸；Ch. 29 从圈内人高阶视角解构[[Multilateral Development Bank|多边开发银行]]（世行与泛美行）作为主权信用合作社的金融运作本质，揭示[[Washington Consensus|华盛顿共识]]在教育放贷中衍生的九大技术信条，并直指官僚报销审计与重投入轻产出的执行评估失能；Ch. 30 则以《马斯特里赫特条约》至[[Lisbon Strategy|里斯本战略]]为轴线，运用福柯权力-知识理论与[[Panopticism|全景敞视]][[Analytic Framework|分析框架]]，揭示欧盟如何在宪制[[Subsidiarity Principle|辅助性原则]]限制下，通过危机叙事构筑“[[Europe of Knowledge|知识欧洲]]”市场化话语，并依托[[Open Method of Coordination|开放协调法]]整合指标凝视、绩效评审与技术官僚治理，最终在超国家尺度建立起事实上的“欧洲教育全景敞视建筑”。
 > - **教育转移与跨国制度流动**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 22 [[Argument_Beech_2009_GlobalGarden]]；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
 >   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去本土化分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性转译逻辑；Ch. 22 引入语篇位置与[[Space of Flows|流动空间]]视角，构建全球教育[[Champ|场域]]五位置模型，揭示多边国际组织基于[[Pragmatic Paradigm|实用主义]]对学术[[Discourse|话语]]的过度简化、拉美精英“[[Gatekeepers|守门人]]网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者；Ch. 30 进一步揭示欧盟开放协调法如何借助去立法的软法规训与指标监控，绕开宪制硬法阻碍推行成员国政策自愿趋同。
@@ -233,19 +242,19 @@ updated: 2026-10-27
 > - **已处理章节**
 >   - Ch. 02 [[Argument_Cowen_2009_HistoryCreation]]。Cowen 在该章系统诊断学科史编纂的三重困境，提倡建立 [[Comparative History of Comparative Education\|比较教育学的比较史]]。
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif\|科学人道主义母题]]与[[Victor Cousin\|维克多·库森]]（Victor Cousin）、[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism\|改良主义]]母题，揭示借用作为政治合法化依据的机制。
->   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义[[Geisteswissenschaften|人文科学]]定位、[[National Character\|国民性格]]分析[[Construct\|构念]]与历史改良主义底色，并借由[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的有限工作假设归纳法为[[Historical-Comparative Method\|历史比较法]]确立现代合法性。
+>   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character\|国民性格]]分析[[Construct\|构念]]与历史改良主义底色，并借由[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的有限工作假设归纳法为[[Historical-Comparative Method\|历史比较法]]确立现代合法性。
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
 >   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义结构调整下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
 >   - Ch. 07 [[Argument_Mitter_2009_Europe]]。Mitter 以中世纪以来的“多样性与统一性”二分法为核心结构原则，系统绘制欧洲比较教育两百年来的大学教席学术地图与专业学会网络（[[Comparative Education Society in Europe|CESE]] 跨国个人会员制及多元学会竞合），梳理三大理论[[Paradigm|范式]]演化期（文化历史全景、德国社会学[[Positivism|实证主义]]争论、多元竞争），剖析地缘空间拓展（殖民转型、东西欧冷战对峙与跨国经验比较），辨析政策咨询立场的[[Navigation Metaphor in Comparative Education|航海隐喻]]与直接干预光谱，并反思当代国际大规模测评的技术官僚规训、[[Intercultural Education|跨文化教育]]合流与“重返欧洲维度”。
 >   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾[[World-Systems Theory|世界体系分析]]（WSA）在比较教育学中的引入与演进，辨析共识取向（迈耶等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
->   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊文献计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。
+>   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊[[Document|文献]]计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。
 >   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助巴伯（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“[[Historical Amnesia|历史健忘症]]”危机，最终重申历史学与社会科学理性综合的现代合法性。
 >   - Ch. 20 [[Argument_Garcia_Garrido_2009_SpainEU]]。[[José Luis García Garrido|García Garrido]] 将西班牙教育置于[[EU|欧盟]]多国比较框架，系统梳理从[[Enlightenment|启蒙运动]]、1970 年《[[General Act of Education of 1970|普通教育法]]》到 1990 年《教育体制总组织法》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）的亲欧主义与孤立主义历史张力；对比英、美、德、法、意与北欧的权力配置路径，深刻剖析西班牙在短时间内由极度集权滑向狂热分权所导致的“行政肥胖症”与国家教育空间“解体/脱节”（disjoining）危机；并直面初中统一步调[[Comprehensive Education|综合中学制]]滞后延展催生的“学业抗拒者”现象、高中学制过短、[[Academic Inbreeding|学术近亲繁殖]]以及在博洛尼亚对标下的质量平庸，反思[[Plaintive Comparison|诉苦式比较]]与政党频繁废立政策对[[Competitiveness|国家竞争力]]的损耗。
 >   - Ch. 22 [[Argument_Beech_2009_GlobalGarden]]。Beech 运用[[Basil Bernstein|伯恩斯坦]]语篇位置理论与卡斯特[[Space of Flows|流动空间]]理论，解构全球化下超越民族国家的新型跨国行动者；系统剖析 [[UNESCO]]、世行与 [[OECD]] 如何将学术知识过度简化为包含分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量评估的单一[[Global Educational Discourse|全球教育话语]]普遍模型；构建涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置流通模型（[[Beech's Model of Discourse Circulation]]），揭示拉美“[[Gatekeepers|守门人]]群体”身份重叠对国家政策空间的闭合效应，并通过阿根廷课程自主权异化（转抄商业教辅）与巴阿两国教师实习制度冲突，实证确证抽象普遍处方落地微观机构必然遭遇结构性实践脱节。
 >   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。Sobe 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重编码（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与[[Schools for Migrant Children|打工子弟学校]]整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
 >   - Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]。Rizvi 与 Lingard 系统对比[[OECD]]在 1960–1990 年帕帕多普洛斯社会民主主义妥协期与 1990 年代中期后新自由主义期的深刻断裂，阐明[[OECD]]如何依托[[New Growth Theory|内生新增长理论]]建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，推动学习从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”与“学习型经济”转型；通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”与“数字即政策”（以跨国[[Reliability|信度]]压倒[[Construct Validity|构念效度]]）；并在“[[Economic Fundamentalism|经济基要主义]]”逻辑下将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间开放论坛蜕变为独立的跨国政策行动者。
 >   - Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]。Castro 运用机构政治经济学与长期内部决策视角，解构以[[World Bank|世界银行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育领域的双重性：既是提供廉价硬通货贷款的“资金银行”（Bank of Funds），又是试图通过结构调整附带条件与知识垄断重塑借款国政策的“理念银行”（Bank of Ideas）；系统剖析多边银行在专业官僚傲慢、忽视执行能力、偏好多重目标复杂项目及追逐教育时尚等方面的内在病理，并通过巴西、中非共和国及中东欧转轨国家的实证经验，证明外部贷款能否成功的决定性因素在于借款国的本土意愿与政治治理成熟度，而非外源性政策强制。
->   - Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]。Pasias 与 Roussakis 运用福柯权力-知识理论与全景敞视理论，解构 1992–2007 年[[EU|欧盟]]教育与培训政策的三阶段演化；揭示欧委会如何以全球化危机修辞建构市场导向的“[[Europe of Knowledge|知识欧洲]]”话语，将知识降格为易耗商品；并阐明在新千年进程中，欧盟如何以激进政府间主义与新功能主义取代防御型[[Subsidiarity Principle|辅助性原则]]，依托[[Open Method of Coordination|开放协调法]]（OMC）整合凝视技术、绩效技术与治理技术，最终在各成员国自愿合规表象下确立超国家“欧洲教育全景敞视建筑”。
+>   - Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]。Pasias 与 Roussakis 运用福柯权力-知识理论与全景敞视理论，解构 1992–2007 年[[EU|欧盟]]教育与培训政策的三阶段演化；揭示[[European Commission|欧委会]]如何以全球化危机修辞建构市场导向的“[[Europe of Knowledge|知识欧洲]]”话语，将知识降格为易耗商品；并阐明在新千年进程中，欧盟如何以[[Aggressive Intergovernmentalism|激进政府间主义]]与新功能主义取代防御型[[Subsidiarity Principle|辅助性原则]]，依托[[Open Method of Coordination|开放协调法]]（OMC）整合凝视技术、绩效技术与治理技术，最终在各成员国自愿合规表象下确立超国家“欧洲教育全景敞视建筑”。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02 至 Ch. 10 共 9 章，Section 2 收官章 Ch. 20，以及 Section 3 核心章节 Ch. 22、Ch. 23、Ch. 28、Ch. 29、Ch. 30 共 15 章；全书第一板块（Section 1 学科的创建与再造）已全部夯实收束，第二板块（Section 2 政治形态与教育系统）与第三板块（Section 3 民族、国际与全球）的核心理论、国别制度与超国家组织（OECD、世行、多边银行、欧盟）全景规训案例已全线打通并完成阶段性收官。

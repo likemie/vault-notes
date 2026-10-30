@@ -5,7 +5,7 @@ aliases:
 summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Complexity Reduction]]"
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Positivism]]"
   - "[[Ontology]]"
   - "[[Empiricism]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -87,7 +88,7 @@ updated: 2026-10-22
 > - vs [[Complexity Reduction]] — Complexity Reduction 是政治权力通过减少选项使社会情境可预测的行为；认识论断裂是研究者主动抗拒这种简化、恢复问题复杂性的方法论操作
 
 > [!info] 理论基础
-> - wiki-[[Pierre Bourdieu]] — [[Epistemology\|认识论]]断裂是 Bourdieu 反思社会学的方法论核心，与其[[Champ\|场域]]-习性-资本理论框架互为前提
+> - wiki-[[Pierre Bourdieu]] — [[Epistemology\|认识论]]断裂是 Bourdieu 反思社会学的方法论核心，与其[[Champ\|场域]]-[[Habitus|习性]]-资本理论框架互为前提
 > - [[Critical Realism]] — 与 Bhaskar 的批判实在论共享对[[Positivism\|实证主义]]科学观的批判，但 Bourdieu 的断裂更强调研究者自身的认识论条件而非[[Ontology\|本体论]]分层
 
 > [!warning] 争议与批评

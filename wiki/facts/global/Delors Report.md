@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
+  - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Geopolitics]]"
   - "[[Discourse]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-22
 > - **发布时间 / 发布主体** 1996 年由[[UNESCO|联合国教科文组织]]（UNESCO）国际 21 世纪教育委员会正式发布，委员会主席为法国前经济财政部长、[[EU|欧洲共同体]]委员会前主席雅克·德洛尔（Jacques Delors）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **适用地区 / 对象** 全球会员国各级教育决策者、国际发展机构、学校与教师，以及[[Lifelong Learning|终身教育]]实践者。
 > - **核心历史与地缘危机** 报告诞生于教科文组织深陷合法性与财务生存危机的冷战末期及后冷战初期。1984–1985 年美英两国相继退出 UNESCO，导致其预算大幅萎缩近三分之一；在[[International Education|国际教育]]议程设置上，UNESCO 的传统领导地位（Lead Agency Status）面临严重边缘化风险——北方发达成员国日益倒向[[OECD|经合组织]]的指标治理，南方外围国家则深受[[World Bank|世界银行]]巨额教育信贷与[[Human Capital Theory|人力资本理论]]规训的牵引。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, p. 348)]]
-> - **制度定位** 承继 1972 年埃德加·富尔（Edgar Faure）主持编纂的《学会生存》（*Learning to Be*），构成 UNESCO 战后第二份关于全球教育未来发展的纲领性历史文献。
+> - **制度定位** 承继 1972 年埃德加·富尔（Edgar Faure）主持编纂的《学会生存》（*Learning to Be*），构成 UNESCO 战后第二份关于全球教育未来发展的纲领性历史[[Document|文献]]。
 
 ---
 

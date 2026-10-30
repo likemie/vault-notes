@@ -38,9 +38,9 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[2019 Hong Kong Protests]]"
+  - "[[National Education]]"
   - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
-  - "[[National Education]]"
   - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 事件经过
 > - **2020 — 国安法落地与通识科危机**
->   - 2020-06-30 全国人大常委会正式颁布实施香港国安法，在教育体系中确立了强制国民教育的法定地位（p.141）。
+>   - 2020-06-30 全国人大常委会正式颁布实施香港国安法，在教育体系中确立了强制[[National Education|国民教育]]的法定地位（p.141）。
 >   - 2020-07-09 中国官方媒体集中攻击[[General Education\|通识教育]]科，将其归结为引发社会危机的根源。
 >   - 2020-09 教育局专责小组完成通识科课程检讨报告，仍建议在精简内容的前提下保留该学科。
 > - **2020–2021 — 核心科目的废除与新课程的强推**

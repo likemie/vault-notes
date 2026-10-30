@@ -35,6 +35,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Concept Mapping]]"
   - "[[Approaches to Teaching and Learning]]"
+  - "[[Document]]"
   - "[[Integrated Curriculum Programs]]"
 related_theories: []
 related_methods:
@@ -57,14 +58,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-06
-updated: 2026-10-26
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Metli_2022_IJEdReform"
 argument_key: "Argument_Metli_2022_IJEdReform"
 argument_display_title: "Concurrency of learning: Strategies and challenges of promoting coherence in the core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -190,7 +191,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning\|并发学习]]的文献有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao\|高考]]压力）。
+> 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning\|并发学习]]的[[Document|文献]]有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao\|高考]]压力）。
 
 > [!implication]- 对未来研究与实践的启示
 > - **对 IB 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme\|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。

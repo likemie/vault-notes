@@ -26,8 +26,8 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
-  - "[[Champ]]"
   - "[[Habitus]]"
+  - "[[Champ]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Self-Driven Mode]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-10-22
 ---
 
 > [!tip] 核心思想
-> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration\|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital\|文化资本]]与习性理论）和文化社会学（韦伯价值理性、[[Ann Swidler]] [[Culture as Toolkit\|文化工具箱]]、[[Dual-Process Model of Culture in Action\|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework\|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
+> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration\|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital\|文化资本]]与[[Habitus|习性]]理论）和文化社会学（韦伯价值理性、[[Ann Swidler]] [[Culture as Toolkit\|文化工具箱]]、[[Dual-Process Model of Culture in Action\|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework\|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
 
 > [!quote|notitle]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])

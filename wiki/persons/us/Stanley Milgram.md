@@ -8,7 +8,7 @@ summary: "美国著名社会心理学家，曾在耶鲁大学主持极具震撼�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,8 @@ tags:
   - region/us
 related_concepts:
   - "[[Banality of Evil]]"
+  - "[[Six Degrees of Separation]]"
+  - "[[Document]]"
   - "[[Constructive Disobedience]]"
   - "[[Deception in Research]]"
   - "[[Institutional Review Board]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -54,7 +56,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会心理学家，曾任耶鲁大学心理学助理教授、哈佛大学社会关系系助理教授、纽约市立大学研究生中心心理学特聘教授。
 > - **核心角色** 20 世纪下半叶最具颠覆性与争议性的实验心理学家，曾师从[[Solomon Asch|所罗门·阿施]]（Solomon Asch），将社会心理学从众研究推进至极端权威指令下的道德服从与情境压力机制。
-> - **代表贡献** 1961 年在耶鲁大学设计并实施经典的[[Milgram Obedience Experiment|米尔格拉姆服从实验]]，出版代表作《对权威的服从》（*Obedience to Authority*），系统阐明了代理态（Agentic State）理论与[[Banality of Evil|平庸之恶]]的微观心理动力学；同时提出著名的“六度分离”（Six Degrees of Separation）小世界网络假说。
+> - **代表贡献** 1961 年在耶鲁大学设计并实施经典的[[Milgram Obedience Experiment|米尔格拉姆服从实验]]，出版代表作《对权威的服从》（*Obedience to Authority*），系统阐明了代理态（Agentic State）理论与[[Banality of Evil|平庸之恶]]的微观心理动力学；同时提出著名的“[[Six Degrees of Separation|六度分离]]”（Six Degrees of Separation）小世界网络假说。
 
 > [!citation-card] 米尔格拉姆论服从者的茶会礼貌与道德脱敏
 > 他以为自己正在杀死一个人，但他却使用的是茶会上的言辞。彬彬有礼与顺从的基调被一丝不苟地保持着。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 134–135)]]
@@ -76,7 +78,7 @@ updated: 2026-10-22
 > [!work-line] 主要著作与标志性论文
 > - **1963 — *Behavioral Study of Obedience*** 在《变态与社会心理学期刊》发表耶鲁服从实验首批基准数据（65% 参与者施加 450 伏最大电击），震动全球心理学界与伦理学界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 133)]]
 > - **1967 — *The Small World Problem*** 在《今日心理学》发表小世界现象研究，确立了社交网络中六度分离假说的实验基石。
-> - **1974 — *Obedience to Authority: An Experimental View*** 系统总结服从实验的 18 种情境变式，正式确立“代理态理论”，成为社会科学探讨权威与个体的经典文献。
+> - **1974 — *Obedience to Authority: An Experimental View*** 系统总结服从实验的 18 种情境变式，正式确立“代理态理论”，成为社会科学探讨权威与个体的经典[[Document|文献]]。
 > - **1977 — *The Individual in a Social World: Essays and Experiments*** 汇集其在城市环境心理学、去个性化与社会网络动态领域的开创性论述。
 
 ---

@@ -1,7 +1,7 @@
 ---
 authors:
-  - "Wang, D."
-  - "Barabási, A.-L."
+  - "[[Dashun Wang|Wang, D.]]"
+  - "[[Albert-László Barabási|Barabási, A.-L.]]"
 source_language: en
 summary: "阐明科研生涯量化规律的核心机制：宏观知识库爆炸由科研队伍基数扩张驱动，而学者人均年发文量长期维持在约2篇；科研生产力的长尾分布源于八重关卡概率连乘的肖克利跨栏模型；h指数兼顾发表规模与引用深度，具备可靠的长程前瞻预测效度；同行评审与早期引用存在显著声望偏倚，严格因果实验证实外生荣誉能独立启动繁殖成功的马太效应循环。"
 type: argument
@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Status Bias in Peer Review]]"
   - "[[Causality]]"
+  - "[[Coauthorship Network]]"
   - "[[Big Science]]"
   - "[[Knowledge Exchange]]"
   - "[[Conference-Centric Publication Model]]"
@@ -76,6 +77,7 @@ related_instruments: []
 related_persons:
   - "[[William Shockley]]"
   - "[[Derek de Solla Price]]"
+  - "[[Paul Erdős]]"
   - "[[Alfred J. Lotka]]"
   - "[[Wayne Dennis]]"
   - "[[Jorge E. Hirsch]]"
@@ -143,7 +145,7 @@ updated: 2026-10-30
 > |---|---|
 > | **全量文献样本** | 1900–2015 年间 5,300 万名学者、近 9,000 万篇跨学科论著；1996–2011 年间 1,500 万发表学者全量追踪。 |
 > | **实验与微观样本** | WSDM 2017 会议数百篇投稿双向分流审稿；IETF 协议评审档案；霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）入选者与近距离落选对照组；维基百科前 1% 高产编辑随机抽取样本。 |
-> | **材料情境** | 涵盖物理、数学、化学、计算机、生物医学与人文社会科学跨学科对比；控制多学者合著网络演化。 |
+> | **材料情境** | 涵盖物理、数学、化学、计算机、生物医学与人文社会科学跨学科对比；控制多学者[[Coauthorship Network\|合著网络]]演化。 |
 
 ---
 
@@ -223,7 +225,7 @@ updated: 2026-10-30
 > [!contrast-table] 竞技技能与科研产出的分布特征对比
 > | 维度 | 竞技技能（有界高斯分布） | 科研产出（厚尾对数正态分布） |
 > |---|---|---|
-> | **典型案例** | 2016 里约奥运男子百米决赛：博尔特 9.81s，加特林 9.89s，德·格拉斯 9.91s | 埃尔德什生涯 1,475 篇，同领域普通学者仅 2–3 篇，极值与均值之比超 700 倍 |
+> | **典型案例** | 2016 里约奥运男子百米决赛：博尔特 9.81s，加特林 9.89s，德·格拉斯 9.91s | [[Paul Erdős\|埃尔德什]]生涯 1,475 篇，同领域普通学者仅 2–3 篇，极值与均值之比超 700 倍 |
 > | **极值差异** | 顶尖与次顶尖之间差距不足 1% | 顶尖与均值之间差距超过 700 倍 |
 > | **分布形态** | 有界的窄峰高斯正态分布 | 无界的长尾对数正态分布 |
 > | **解释机制** | 单一生理能力的随机变异 | 八重关卡能力的概率连乘放大 |

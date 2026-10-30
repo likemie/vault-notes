@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,17 +25,22 @@ tags:
   - cambodia
 related_concepts:
   - "[[Normal School]]"
+  - "[[Public Diplomacy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Champ]]"
+  - "[[Soft Power]]"
 related_theories:
   - "[[Neo-Tributary Perspective]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Semi-structured Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts:
   - "[[ASEAN]]"
+  - "[[ASEAN University Network]]"
+  - "[[Double First-Class Initiative]]"
   - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
@@ -43,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -79,10 +84,10 @@ updated: 2026-10-26
 >
 > - **2000–至今** **国际化转型与对外合作拓展**
 >
->   全面融入[[ASEAN|东盟]]大学联盟（AUN），广泛拓展与日、欧、中等国高校的双边合作，成为大国高教公共外交与对外援助的核心承接实体。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046–1048)]]
+>   全面融入[[ASEAN|东盟]]大学联盟（[[ASEAN University Network|AUN]]），广泛拓展与日、欧、中等国高校的双边合作，成为大国高教[[Public Diplomacy|公共外交]]与对外援助的核心承接实体。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046–1048)]]
 >
 >   - **2011** 与大理大学合作成立 RUPP-大理大学汉语中心。
->   - **2017** 与多所中国双一流大学签署全面合作备忘录（MOU），落地华为 ICT 认证实训体系。
+>   - **2017** 与多所中国[[Double First-Class Initiative|双一流]]大学签署全面合作备忘录（MOU），落地华为 ICT 认证实训体系。
 
 ---
 
@@ -95,7 +100,7 @@ updated: 2026-10-26
 ---
 
 > [!finding-cards] 跨国高教互动的关键支点与机制张力
-> - **多边高教合作与援助承接旗舰** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，金边皇家大学是中柬高教交往的最核心支点。学校先后与 10 所中国高水平大学签署合作备忘录（其中 7 所位于中国西南省份），建立了实体化汉语中心并系统引入高科技企业工程师认证课程。（pp. 1046–1047, 1051）
+> - **多边高教合作与援助承接旗舰** 朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，金边皇家大学是中柬高教交往的最核心支点。学校先后与 10 所中国高水平大学签署合作备忘录（其中 7 所位于中国西南省份），建立了实体化汉语中心并系统引入高科技企业工程师认证课程。（pp. 1046–1047, 1051）
 > - **自上而下政策动员与微观学术落地脱节** 受访的该校管理层（I34、I36、I37）直言，部分中国重点高校仅将签约视作自身国际化考绩指标或双边外交破冰象征，在协议签署后缺乏实质性的联合科研与跟进落实，导致校际谅解备忘录流于形式，未能充分满足受援国在工程科学领域的深层学术发展诉求。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, p. 647)]]; [[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1051)]]
 > - **受援国自主理性与多方借力能动性** 该校在接受涉华工程技术与语言援助的同时，保持了与日本国际协力机构（JICA）及欧洲 [[Erasmus Programme|Erasmus]] 项目的多元平衡合作，展现出发展中国家旗舰学府借助外部地缘博弈主动获取国家发展资源的策略性自主。（pp. 1047–1048, 1054）
 
@@ -118,5 +123,5 @@ updated: 2026-10-26
 > | [[Internationalization of Higher Education]] | Concept | 金边皇家大学是战后东南亚高等教育国际化与对外援助重构的代表性案例。 |
 > | [[Neo-Tributary Perspective]] | Theory | 作为实证检验新朝贡[[Analytic Framework\|分析框架]]中经贸外交主导与高教协议虚置的核心案例[[Champ\|场域]]。 |
 > | [[ASEAN]] | Fact (Organization) | 柬埔寨国家旗舰大学作为东盟大学网络重要成员融入区域高教一体化。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 针对金边皇家大学管理层与师生开展半结构化访谈，考察高教合作项目中的新兴软实力资源与校际协议形式化张力。 |
+> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 针对金边皇家大学管理层与师生开展[[Semi-structured Interview\|半结构化访谈]]，考察高教合作项目中的新兴[[Soft Power\|软实力]]资源与校际协议形式化张力。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 针对金边皇家大学数十位校领导、院系主管及青年学者开展[[Semi-structured Interview\|半结构化访谈]]与实证剖析的代表性文献。 |

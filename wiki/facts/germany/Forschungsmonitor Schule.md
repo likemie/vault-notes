@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/clearinghouse
   - theme/research-practice-transfer
 related_concepts:
+  - "[[Document]]"
   - "[[School Inspection]]"
   - "[[Heterogeneity]]"
   - "[[Classroom Management]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-22
 > 德国学校研究监测平台（Forschungsmonitor Schule, FMS）是由德国各联邦州教师研训州立研究所（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）与州立教育质量保障机构联合创设的跨区域教育实证研究中介与清算平台（Manitius & Rosendahl, 2018; Bieber et al., 2018）。其核心使命是面向一线中小学教师、师范生、大学与进修机构教师教育者（Lehrkräftebildner*innen）以及各级教育行政管理人员，提供跨学科、实践导向的当代教育实证研究书评与简要述评。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 平台于 2018 年前后在德国各州文教合作框架下正式上线，全德 16 州立研究所发表联合立场文件（Bieber et al., 2018），旨在打破教育科学文献与基础教育一线实践之间的壁垒，为教育系统各级行动者提供经受方法学检验的实用研究信息。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> - **成立时间与创设背景** 平台于 2018 年前后在德国各州文教合作框架下正式上线，全德 16 州立研究所发表联合立场文件（Bieber et al., 2018），旨在打破教育科学[[Document|文献]]与基础教育一线实践之间的壁垒，为教育系统各级行动者提供经受方法学检验的实用研究信息。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > - **总部地点与官方门户** 依托德国各州教育科研与研训支持机构协同运营；官方门户为 [www.forschungsmonitor-schule.de](https://www.forschungsmonitor-schule.de/)，面向全德语区教育界提供开放获取服务。
 > - **法人属性与经费基础** 属于各联邦州公共教育行政与研训系统联合支持的公益性学术服务实体，依托各州公共财政与教师教育专项资金保障常态化运行。
 > - **核心宗旨与服务对象** 宗旨在于促进科研成果转化为专业行动，服务对象全面覆盖职前师范生、在岗中小学教师、高校与进修机构教师教育者以及各级[[School Inspection\|教育督导]]与行政管理人员。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]

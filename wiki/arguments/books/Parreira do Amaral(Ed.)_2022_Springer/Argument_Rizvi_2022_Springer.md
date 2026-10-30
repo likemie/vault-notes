@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -41,14 +41,17 @@ related_concepts:
   - "[[Endogenous Privatisation]]"
   - "[[Doxa]]"
   - "[[Knowledge Co-production]]"
+  - "[[Public Diplomacy]]"
   - "[[Champ]]"
   - "[[Teacher Mobility]]"
   - "[[Student Mobility]]"
+  - "[[Online Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Transfer]]"
   - "[[Internationalization of Higher Education]]"
   - "[[New Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Post-colonial Theory]]"
@@ -77,7 +80,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-22
+updated: 2026-10-30
 year: 2022
 doi: ""
 citation_aliases:
@@ -315,7 +318,7 @@ Rizvi 将这四重理性逐一拆解：
 >
 > **第三重：国家政府层面（经济理性）**
 > - 与贸易目标挂钩
-> - 现代公共外交工具
+> - 现代[[Public Diplomacy|公共外交]]工具
 > - "当研究人员跨越国家边界合作时，他们不仅为全球[[Knowledge Production\|知识生产]]做贡献，也在维持一种合作文化，这种文化有助于更和谐的国际关系"(Ang et al., 2015, p.43, p.98)
 >
 > **第四重：跨文化与外交层面**
@@ -354,7 +357,7 @@ Rizvi 援引 Benkler (2006) 和 Castells (1996) 为这些变化提供理论表�
 
 **暴露的矛盾二：创新能力与想象力的脱节**
 
-Rizvi 指出：疫情确实为创新创造了空间，但这个空间"没有被广泛用于重新思考在线教育学、从根本上改革学生参与和[[Student-Teacher Relationship|师生关系]]的性质、重新想象知识所有权与创造分配利用的过程、重新概念化学习本身"(p.101)。大学展示了非凡的技术适应能力——师生以惊人的速度接受了技术教学工具——但这种适应是**表面的**。"恢复"话语集中在如何阻止学生人数下降、扩大来源国、重新思考招生技术和向政府施压改变签证条件上——核心问题是"如何让商业模式继续运转"，而不是"这个商业模式本身是否有问题"。
+Rizvi 指出：疫情确实为创新创造了空间，但这个空间"没有被广泛用于重新思考[[Online Education|在线教育]]学、从根本上改革学生参与和[[Student-Teacher Relationship|师生关系]]的性质、重新想象知识所有权与创造分配利用的过程、重新概念化学习本身"(p.101)。大学展示了非凡的技术适应能力——师生以惊人的速度接受了技术教学工具——但这种适应是**表面的**。"恢复"话语集中在如何阻止学生人数下降、扩大来源国、重新思考招生技术和向政府施压改变签证条件上——核心问题是"如何让商业模式继续运转"，而不是"这个商业模式本身是否有问题"。
 
 > 大学把疫情当作需要熬过去的"寒冬"，而不是需要借机转型的"入口"（portal）。
 
@@ -439,7 +442,7 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 > ("The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity"))(Henry Report, 2012, p.1, pp.99–100)
 
 > [!warning] 局限性与批评
-> - **实证基础薄弱** 本章未提供系统的实证数据来支持"亚洲崛起重塑全球高等教育架构"这一核心主张。论证主要基于文献综合和概念推演。例如，Rizvi 断言国际化的理性已从[[Developmentalism|发展主义]]转向市场理性，但没有提供系统的政策文本分析或访谈数据来支撑这一判断——读者需要依赖 Rizvi 提供的案例（如澳大利亚）来推断这一转变的普遍性。
+> - **实证基础薄弱** 本章未提供系统的实证数据来支持"亚洲崛起重塑全球高等教育架构"这一核心主张。论证主要基于[[Document|文献]]综合和概念推演。例如，Rizvi 断言国际化的理性已从[[Developmentalism|发展主义]]转向市场理性，但没有提供系统的政策文本分析或访谈数据来支撑这一判断——读者需要依赖 Rizvi 提供的案例（如澳大利亚）来推断这一转变的普遍性。
 > - **亚洲内部差异性处理较为概括** 将"亚洲"作为一个整体讨论——"亚洲中产阶级"、"亚洲高等教育系统"——可能掩盖了东亚（日韩台）、东南亚（新马泰印尼越南）和南亚（印度巴基斯坦孟加拉）之间在经济发展阶段、高等教育治理模式、殖民遗产和文化传统上的显著差异。例如，印度的国际[[Student Mobility|学生流动]]模式与中国存在根本不同，但 Rizvi 没有对此进行区分讨论。
 > - **未充分讨论亚洲内部权力不对称** 虽然 Rizvi 批评了西方与亚洲之间的不对称关系，但他未充分讨论亚洲内部——特别是中国在亚洲高等教育中的主导地位及其对周边国家人才流失和学术依赖的影响。他提到了中国将高等教育"用作全球影响力的工具"(p.102)，但没有展开分析这对亚洲其他国家高等教育自主性的影响。
 > - **"后疫情新国际化"愿景缺乏操作性** Rizvi 的结论部分提出了"对称性跨国连接"、"多元知识传统"等方向性原则，但这些原则如何从理念转化为制度和实践——例如，如何在实际的大学预算、排名压力和[[Geopolitics|地缘政治]]现实约束下实现"超越商业逻辑的国际化"——未得到具体讨论。

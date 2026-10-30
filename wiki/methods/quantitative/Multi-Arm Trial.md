@@ -11,9 +11,9 @@ summary: "包含三个或更多平行实验组（实验臂）的随机对照试�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -43,6 +43,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -71,13 +72,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Multi-Arm Trial
-> **多臂试验（Multi-Arm Trial，亦称多臂[[Randomised Controlled Trials\|随机对照试验]] Multi-Arm RCT）** 是指在单一试验方案中包含**三个或更多平行实验组（实验臂，Arms）** 的高级实验设计架构。最经典的多臂形态是“多个互斥的处理组共享一个公共对照组”（Multi-Arm Single-Control Design，如 $K$ 个处理臂对比 1 个对照臂）。该设计通过在同一实验背景下同时检验多种竞争性干预策略、不同实施剂量或不同递送载体，不仅能大幅节省招募独立对照组的样本与财务成本，还能通过直接的头对头（Head-to-Head）比较确立最优实践方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
+> **多臂试验（Multi-Arm Trial，亦称多臂[[Randomised Controlled Trials\|随机对照试验]] Multi-Arm RCT）** 是指在单一试验方案中包含**三个或更多平行实验组（实验臂，Arms）** 的高级[[Experimental Research|实验设计]]架构。最经典的多臂形态是“多个互斥的处理组共享一个公共对照组”（Multi-Arm Single-Control Design，如 $K$ 个处理臂对比 1 个对照臂）。该设计通过在同一实验背景下同时检验多种竞争性干预策略、不同实施剂量或不同递送载体，不仅能大幅节省招募独立对照组的样本与财务成本，还能通过直接的头对头（Head-to-Head）比较确立最优实践方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 被[[Random Assignment\|随机分配]]至不同干预臂或对照臂的个体受试者或集群单位（学校/班级）。

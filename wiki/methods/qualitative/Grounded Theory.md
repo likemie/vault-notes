@@ -9,7 +9,7 @@ summary: "源自社会学的经典质性研究设计，通过理论抽样、多�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 60
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Constructivist Paradigm]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Dialogue in Education]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-10-29
 > | **代表学者** | 巴尼·格拉瑟（Barney Glaser, 1978, 1992） | 安塞尔姆·施特劳斯、朱丽叶·科宾（Strauss & Corbin, 1990） | 凯西·查尔马兹（Kathy Charmaz, 2006, 2014） |
 > | **认识论倾向** | [[Critical Realism\|批判实在论]] / [[Objectivism\|客观主义]]（理论外在于研究者等待被发掘） | [[Pragmatic Paradigm\|实用主义]] / [[Postpositivism\|后实证主义]]（系统化规程保证客观性与[[Reliability\|信度]]） | [[Constructivist Paradigm\|建构主义]]（意义与理论由研究者与参与者共同建构） |
 > | **编码程序** | 实质编码（开放、选择性）与理论编码家族，排斥主轴模型 | 严格的三级编码阶梯：[[Open Coding\|开放编码]] ➔ [[Axial Coding\|主轴编码]] ➔ [[Selective Coding\|选择性编码]] | 初始编码（逐词、逐行）与聚焦编码，灵活开放 |
-> | **[[Literature Review\|文献回顾]]时机** | 严禁在编码前阅读文献，防止理论偏见规约数据 | 允许早期查阅文献以激发理论敏感度，但不可照搬框架 | 承认研究者带着前见进入田野，将文献作为平行的反思[[Dialogue in Education\|对话]]材料 |
+> | **[[Literature Review\|文献回顾]]时机** | 严禁在编码前阅读[[Document\|文献]]，防止理论偏见规约数据 | 允许早期查阅文献以激发理论敏感度，但不可照搬框架 | 承认研究者带着前见进入田野，将文献作为平行的反思[[Dialogue in Education\|对话]]材料 |
 > | **研究者角色** | [[Value Neutrality\|价值中立]]的客观发现者与数据破译者 | 系统规范的科学分析者与[[Causality\|因果关系]]建模者 | [[Reflexivity\|反思性]]参与者、意义共建者与多重声部倾听者 |
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-29
 扎根理论的研究流程构成一个高度交织、往复穿梭的迭代闭合回路，核心包含六大关键分析支柱（Strauss & Corbin, 1990；Creswell & Creswell, 2022；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 560–562]]）：
 
 ### 1. 理论抽样（Theoretical Sampling）
-[[Theoretical Sampling|理论抽样]]不是预先按照人口学特征确定样本规模的[[Random Sampling|概率抽样]]，而是由正在生成的理论逻辑引导的数据收集过程。分析者在编码过程中识别出哪些概念范畴尚未充分明晰、哪些关系尚存疑点，据此有针对性地决定下一步去何处寻找新的受访者、事件或文献，直至理论关系被完全阐明。
+[[Theoretical Sampling|理论抽样]]不是预先按照人口学特征确定样本规模的[[Random Sampling|概率抽样]]，而是由正在生成的理论逻辑引导的数据收集过程。分析者在编码过程中识别出哪些概念范畴尚未充分明晰、哪些关系尚存疑点，据此有针对性地决定下一步去何处寻找新的受访者、事件或[[Document|文献]]，直至理论关系被完全阐明。
 
 ---
 
@@ -254,7 +255,7 @@ updated: 2026-10-29
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 现有学术文献对某一社会现象、心理转变或互动过程缺乏成熟理论解释，或既有理论无法适配本土新情境的研究；旨在建构中微观解释机制的探索性探究。
+> - **适合使用** 现有学术[[Document|文献]]对某一社会现象、心理转变或互动过程缺乏成熟理论解释，或既有理论无法适配本土新情境的研究；旨在建构中微观解释机制的探索性探究。
 > - **谨慎使用** 涉及极高学术风险或严格受制于固定资助周期的项目（[[Theoretical Sampling\|理论抽样]]和多轮饱和检验导致研究时长不可精确预见）。
 > - **不适合使用** 旨在检验既定形式假说的纯量化实证研究，或仅需要对封闭文本开展词频描述性统计的[[Content Analysis\|内容分析]]。
 

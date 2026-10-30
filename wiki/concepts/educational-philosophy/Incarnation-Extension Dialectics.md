@@ -7,10 +7,10 @@ aliases:
 summary: "由斯滕·内珀·拉森提出的现象学教育哲学构念，用以替代可见学习等还原论模型。该构念将学习界定为身心综合在身体具身化（化入具身习惯与默会经验）与向外延展（拓展在世行动自由与世界理解空间）之间的双向生成运动，从现象学生存论视角复兴全人教化（Bildung）传统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/educational-philosophy
   - incarnation-extension-dialectics
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Pedagogical Subject]]"
   - "[[Participatory Sense-Making]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Construct]]"
   - "[[Visible Learning]]"
   - "[[Creativity]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -198,7 +197,7 @@ updated: 2026-10-29
 > - **1945 年 — 梅洛-庞蒂《知觉现象学》奠定身体主体性** 法国哲学家莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）提出“活体身体”（le corps propre）作为人类体验世界的核心锚点，打破主客二元对立，奠定知觉现象学基石。
 > - **1990 年代初 — 瓦雷拉等人倡导具身认知科学（Embodied Cognition）** [[Francisco Varela|弗朗西斯科·瓦雷拉]]（Francisco Varela）、埃文·汤普森（Evan Thompson）与埃莉诺·罗施（Eleanor Rosch）出版《具身心智》（The Embodied Mind），提出行动中认知与涉入机制（Enactivism），推动认知科学发生身体转向。
 > - **2000 年代中 — [[Thomas Fuchs|托马斯·福克斯]]系统建构生态精神病理学与身体记忆理论** 德国海德堡大学教授托马斯·福克斯（Thomas Fuchs）深入区分活生生体验到的身体（Leib）与解剖学物理肉体（Körper），提出具身化、[[Participatory Sense-Making|相互具身]]化与身体记忆在知觉经验中的主导地位。
-> - **2009 年 — 希茨-约翰斯通倡导哲学与[[Geisteswissenschaften|人文科学]]的“肉身转向”（Corporeal Turn）** 现象学家玛克辛·希茨-约翰斯通系统阐发“运动中思考”（Thinking in Movement），确立活生生的动态运动是人类感知、概念形成与自由行动的本体来源。
+> - **2009 年 — 希茨-约翰斯通倡导哲学与人文科学的“肉身转向”（Corporeal Turn）** 现象学家玛克辛·希茨-约翰斯通系统阐发“运动中思考”（Thinking in Movement），确立活生生的动态运动是人类感知、概念形成与自由行动的本体来源。
 > - **2019 年 — [[Steen Nepper Larsen|斯滕·内珀·拉森]]正式确立“具身-延展辩证法”教育[[Construct|构念]]** 拉森在《作为[[Learnification|学习化]]的可见学习》（[[Visible Learning]] as Learnification）中，将身体现象学[[Creativity|创造性]]地引入对当代量化教育测量学的批判，确立具身化与延展的双向循环机制，作为复兴德国教化传统的全新哲学支柱。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 9–10)]]
 
 ---

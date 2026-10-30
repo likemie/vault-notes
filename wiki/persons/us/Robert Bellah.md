@@ -8,7 +8,7 @@ summary: "美国著名宗教社会学家、加州大学伯克利分校社会学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Civic Religion]]"
+  - "[[Habitus]]"
   - "[[Technological Republic]]"
   - "[[Soft Belief]]"
   - "[[Hard Belief]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名宗教社会学家，加州大学伯克利分校福特社会学教授（Elliott Professor of Sociology emeritus），美国国家人文奖章获得者。
 > - **核心角色** 当代[[Civic Religion|公民宗教]]（Civil Religion）理论与社群主义文化批判的核心奠基人。
-> - **代表贡献** 创立美国[[Civic Religion|公民宗教]]概念，揭示支撑民主宪政共同体的非排他性世俗信仰体系；主笔经典社会学著作《心灵的习性》（*Habits of the Heart*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> - **代表贡献** 创立美国[[Civic Religion|公民宗教]]概念，揭示支撑民主宪政共同体的非排他性世俗信仰体系；主笔经典社会学著作《心灵的[[Habitus|习性]]》（*Habits of the Heart*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!citation-card] 人物定位的关键来源
 > 正如罗伯特·贝拉（Robert Bellah）在 1967 年所写，美国确实“在教会体制之外且与教会截然不同地存在着一套精致且高度制度化的公民宗教”。他提出论点认为，“这种宗教——或者更准确地说，这种宗教维度——具有其自身的严肃性与完整性，并且需要像对待任何宗教一样给予同样的关怀与理解”。一套松散的“圣经原型”，包括来自出埃及记、牺牲以及复活的故事，或许是一个起点，但当代精英文化甚至对公共生活中的这些微小参照也日益持怀疑和轻蔑态度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]

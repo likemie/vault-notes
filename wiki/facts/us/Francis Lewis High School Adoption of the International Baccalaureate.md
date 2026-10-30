@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Reliability]]"
+  - "[[Teacher Support for Students]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -71,6 +72,6 @@ updated: 2026-10-22
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Baccalaureate]] | 概念 | 被学校用作面向优秀学生的完整高中课程。 |
-> | [[International Baccalaureate North America]] | 组织 | 后续把先锋学校经验纳入区域推广和教师支持。 |
+> | [[International Baccalaureate North America]] | 组织 | 后续把先锋学校经验纳入区域推广和[[Teacher Support for Students\|教师支持]]。 |
 > | [[International Schools]] | 概念 | 联合国国际学校提供最初现场示范，但其组织环境不同于公立高中。 |
 

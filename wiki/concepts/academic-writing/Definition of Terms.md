@@ -4,7 +4,7 @@ aliases: ["术语定义", "操作性定义", "operational definition", "defining
 summary: "研究计划中对关键术语的精确界定，遵循操作化、首次出现即定义、使用文献约定语言等原则，在量化、质性和混合方法研究中有不同的处理策略"
 type: concept
 domain: "academic-writing"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -12,6 +12,7 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Literature Review]]"
   - "[[Emergence]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 > [!info] 定义与目的
@@ -48,7 +49,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 1. **首次出现即定义** 术语在文中第一次出现时就应给出定义，使读者从一开始就清楚其含义。
 2. **使用[[Operationalization|操作化]]定义** 定义应写在一个具体的、操作化或应用层面，而非抽象的概念层面。操作化定义使用具体语言，精确说明研究者在研究中如何使用该术语。
-3. **使用文献中的约定语言** 定义应基于研究文献中已有的约定语言，而非自行发明（Locke et al., 2014）。如果某一术语在文献中没有精确的约定定义，才可使用日常语言，但必须给出清晰定义并在整个计划和研究中一致使用。
+3. **使用[[Document|文献]]中的约定语言** 定义应基于研究文献中已有的约定语言，而非自行发明（Locke et al., 2014）。如果某一术语在文献中没有精确的约定定义，才可使用日常语言，但必须给出清晰定义并在整个计划和研究中一致使用。
 4. **不定义日常语言中的术语** 只定义领域外人士可能不理解和超出日常语言用法的术语（Locke et al., 2014）。
 
 ---
@@ -71,7 +72,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ### 量化研究
 
-在演绎模式下，[[Quantitative Research|量化研究]]在开头即提供广泛的术语定义，通常放在独立的"Definition of Terms"章节中（通常不超过两到三页）。研究者力求全面定义所有相关术语，并采用文献中已有的约定定义。术语被赋予不变的含义（Locke et al., 2014）。
+在演绎模式下，[[Quantitative Research|量化研究]]在开头即提供广泛的术语定义，通常放在独立的"Definition of Terms"章节中（通常不超过两到三页）。研究者力求全面定义所有相关术语，并采用[[Document|文献]]中已有的约定定义。术语被赋予不变的含义（Locke et al., 2014）。
 
 ### 质性研究
 

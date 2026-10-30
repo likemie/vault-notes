@@ -8,7 +8,7 @@ aliases:
 summary: "学习动机策略问卷中用于测量学生自报批判性思维策略使用的五题分量表"
 type: instrument
 instrument_type: scale
-instrument_related_count: 5
+instrument_related_count: 6
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Student Motivation]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods:
@@ -42,13 +43,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
 
 > [!instrument-profile] MSLQ [[Critical Thinking\|批判性思维]]分量表
-> - **工具类型** 学习动机策略[[Questionnaire\|问卷]]中的五题自陈分量表。
+> - **工具类型** [[Student Motivation|学习动机]]策略[[Questionnaire\|问卷]]中的五题自陈分量表。
 > - **开发者与年份** Pintrich et al. (1993)。
 > - **测量目的** 测量学生自报的批判性思维策略使用，可作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照。
 > - **实施方式** 自陈。

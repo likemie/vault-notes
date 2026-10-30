@@ -7,7 +7,7 @@ summary: "香港比较与高等教育学者，香港浸会大学教授。开创�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,9 +40,11 @@ related_methods:
   - "[[Fieldwork]]"
 related_instruments: []
 related_persons:
+  - "[[Rui Yang]]"
   - "[[John King Fairbank]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[Confucius Institute]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -72,7 +74,7 @@ updated: 2026-10-22
 > - **2007–2012** 任教于香港浸会大学，重点开展关于中国大学国际化、学生跨界流动及公民身份认同的实证研究。
 > - **2013** 发表《中国大学走出去与[[Soft Power|软实力]]投射》等系列成果，开始探索中国古代天下与朝贡历史经验对现代高教外向拓展的理论启发。
 > - **2017–2018** 与卢天佑（Joe Tin-yau Lo）相继在国际主流学术期刊发表《以[[Neo-Tributary Perspective|新朝贡视角]]重新概念化中国作为全球大国的崛起》（2017）与《高等教育与中国全球崛起：新朝贡视角》（2018），正式奠定高等教育新朝贡[[Analytic Framework|分析框架]]。
-> - **2025** 其理论框架成为朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）等学者开展实证检验、深化反思与[[Paradigm|范式]]整合的核心理论基石。
+> - **2025** 其理论框架成为朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）等学者开展实证检验、深化反思与[[Paradigm|范式]]整合的核心理论基石。
 
 ---
 
@@ -93,7 +95,7 @@ updated: 2026-10-22
 > [!citation-card] 大学作为新朝贡体系的连接纽带
 > 高等教育被精准定位为[[Neo-Tributary Perspective|新朝贡分析框架]]的枢纽。大学不仅为对外经贸合作定向培育专业技术与跨文化人才，更向外界展示国家的卓越与善意，在塑造大国形象中发挥着战略支点功能。[[Argument_Zhu_Yang_2025_HE|(Pan & Lo, 2018, 引自 Zhu & Yang, 2025, pp. 1045–1046)]]
 >
-> *Higher education acts as a nexus of neo-tributary framework, where universities demonstrate excellence and [[Benevolence|benevolence]] to [[Construct|construct]] an attractive image while facilitating trade and diplomatic outreach.*
+> *Higher education [[ASEAN Credit Transfer System|acts]] as a nexus of neo-tributary framework, where universities demonstrate excellence and [[Benevolence|benevolence]] to [[Construct|construct]] an attractive image while facilitating trade and diplomatic outreach.*
 
 ---
 

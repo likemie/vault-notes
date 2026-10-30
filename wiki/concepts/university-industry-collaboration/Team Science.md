@@ -6,34 +6,43 @@ aliases:
 summary: "以跨学科、跨机构或大规模协同为特征的科研组织范式；依托前沿知识负担加重与大型复杂仪器驱动，团队模式在当代科学中确立了主导地位，享有显著的相对团队影响力与超额引文溢价，同时也面临沟通协调成本与声望层级固化的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 26
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/research-collaboration
   - theme/university-industry-collaboration
   - theme/team-science
   - theme/science-of-science
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
+  - "[[Big Science]]"
+  - "[[SOLO Taxonomy]]"
+  - "[[Response to Intervention]]"
+  - "[[Polymath]]"
+  - "[[Nature of Innovation]]"
+  - "[[Assemblage]]"
+  - "[[Too-Much-Talent Effect]]"
+  - "[[Document]]"
+  - "[[Epistemology]]"
   - "[[Invisible College]]"
-  - "[[Peer Effects in Science]]"
   - "[[Coauthorship Network]]"
-  - "[[Scientific Productivity]]"
-  - "[[Creativity]]"
-  - "[[T-Shaped Skills]]"
-  - "[[Applied Medical Innovation]]"
-  - "[[Physician-Scientist]]"
 related_theories:
   - "[[Burden of Knowledge]]"
   - "[[Small-World Collaboration Model]]"
 related_methods:
   - "[[Relative Team Impact]]"
-  - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
+  - "[[Disruption Index]]"
 related_instruments: []
 related_persons:
   - "[[Benjamin F. Jones]]"
+  - "[[Stefan Wuchty]]"
+  - "[[Lingfei Wu]]"
+  - "[[James A. Evans]]"
+  - "[[Roger Guimera]]"
   - "[[Brian Uzzi]]"
 related_facts: []
 related_arguments:
@@ -48,17 +57,17 @@ updated: 2026-10-30
 ---
 
 > [!def] Team Science
-> 团队科学（Team Science）是指以跨学科、跨机构乃至大规模科研人员协同为组织特征的现代知识生产范式。该模式旨在整合异质性专业知识、共享大型尖端实验装置，以攻克单一学者或孤立学科无法独立解决的前沿复杂问题，其学术成果在产出规模与影响力层级上已全面超越传统个体研究。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–88)]]
+> 团队科学（Team Science）是指以跨学科、跨机构乃至大规模科研人员协同为组织特征的现代[[Knowledge Production|知识生产]][[Paradigm|范式]]。该模式旨在整合[[Heterogeneity|异质性]]专业知识、共享大型尖端实验装置，以攻克单一学者或孤立学科无法独立解决的前沿复杂问题，其学术成果在产出规模与影响力层级上已全面超越传统个体研究。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–88)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向科研劳动力组织的集体化转向，涵盖从实验室微观课题小组到跨国大科学工程的协同网络。
+> - **含义** 指向科研劳动力组织的集体化转向，涵盖从实验室微观课题小组到跨国[[Big Science|大科学工程]]的协同网络。
 > - **用途** 帮助研究者透视现代科学从个人探索走向网络化协同的结构演进，评估科研合作带来的学术溢价与协调成本。
 > - **边界** 不适用于一切缺乏实质知识重组的挂名式集合；不应忽视团队内部的沟通摩擦与贡献分配张力。
 
 > [!citation-card|notitle] 团队主导地位的确立
 > 科学探索模式在过去半个世纪完成了从孤胆学者向协同团队的结构性转换。跨学科大数据实证表明，团队不仅主导了学术成果的数量扩张，更系统性掌控了最具颠覆性的顶尖科学突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–87)]]
 >
-> *Teams increasingly dominate the production of knowledge in science and technology... teams have higher impact and produce more frequently novel combinations of existing knowledge than solo authors.*
+> *Teams increasingly dominate the production of knowledge in science and technology... teams have higher impact and produce more frequently novel combinations of existing knowledge than [[SOLO Taxonomy|solo]] authors.*
 
 > [!boundary]- 概念边界
 > - 不等于行政性科研实体：团队科学由共同攻关的科研问题和知识互补性驱动，可以跨越大学实体院系甚至国家界限临时或长期组建。
@@ -78,7 +87,7 @@ updated: 2026-10-30
 
 > [!feature] 核心要素
 > - **团队生产模式的全面主导** 在科学与工程领域，团队成果占比从 1955 年的约 50% 攀升至 2000 年的 80%；在社会科学领域，团队成果占比从 17.5% 上升至 51.5%，跨越了协作主导的分水岭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **相对团队影响力的系统性占优** 依托[[Relative Team Impact|相对团队影响力]]（Relative Team Impact, RTI）测度表明，团队论著在全部历史时期与学科门类均获得高于单人的篇均被引；在理工科斩获 1,000 次以上引用的概率是单人的 6.3 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–87)]]
+> - **[[Relative Team Impact|相对团队影响力]]的系统性占优** 依托[[Relative Team Impact|相对团队影响力]]（Relative Team Impact, [[Response to Intervention|RTI]]）测度表明，团队论著在全部历史时期与学科门类均获得高于单人的篇均被引；在理工科斩获 1,000 次以上引用的概率是单人的 6.3 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–87)]]
 > - **非共识知识重组与创新溢价** 团队能够整合多元异质知识，将罕见非典型知识组合嵌入熟悉范式的概率比单人成果高出 37.7%，这构成了其斩获顶尖突破的认知基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 86–87)]]
 > - **跨校合作崛起与声望分层固化** 跨校合作份额在三十年间翻两番达到 32.8% 以上，带来更高的引文溢价；但学者物色伙伴遵循学术声望同质匹配，使顶尖科研资源加速向精英名校同盟聚拢。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–93)]]
 
@@ -102,13 +111,13 @@ updated: 2026-10-30
 ---
 
 > [!concept-proposition] 命题一｜知识存量扩张与仪器复杂化促成了团队生产对单人模式的历史替代
-> **探讨维度　科学生产组织演化的底层动力** 围绕科研范式转型究竟由纯粹社会偏好驱动还是由物质与认知规律决定的机制分歧展开。
+> **探讨维度　科学生产组织演化的底层动力** 围绕科研[[Paradigm|范式]]转型究竟由纯粹社会偏好驱动还是由物质与认知规律决定的机制分歧展开。
 
-> [!claim] Jones, B. F.
-> **知识负担倒逼专业化分工** 人类知识存量的几何级增长大幅拉长了学者抵达前沿所需的受训年限，独立学者日益局限于细分分支导致通才消亡；学者唯有通过团队合作跨界拼接专业知识碎片，方能维系颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
+> [!claim] [[Benjamin F. Jones|Jones, B. F.]]
+> **知识负担倒逼专业化分工** 人类知识存量的几何级增长大幅拉长了学者抵达前沿所需的受训年限，独立学者日益局限于细分分支导致[[Polymath|通才]]消亡；学者唯有通过团队合作跨界拼接专业知识碎片，方能维系颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 
-> [!claim] Wuchty, S.
-> **大科学工程对人力资源的客观汇聚** 现代物理与生命科学依赖大型对撞机或高通量测序等巨额设备，单一学者或机构无法独立承担建设与运维，客观迫使科学界走向超大规模团队协同。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–88)]]
+> [!claim] [[Stefan Wuchty|Wuchty, S.]]
+> **[[Big Science|大科学工程]]对人力资源的客观汇聚** 现代物理与生命科学依赖大型对撞机或高通量测序等巨额设备，单一学者或机构无法独立承担建设与运维，客观迫使科学界走向超大规模团队协同。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–88)]]
 
 ---
 
@@ -116,18 +125,18 @@ updated: 2026-10-30
 > **探讨维度　跨界协作效益与社会结构不平等** 探讨跨机构与跨国团队合作在消融地理阻隔时对学术不平等的加剧效应。
 
 > [!claim] Jones, B. F.
-> **跨校合作溢价与声望同质分层** 跨校合作能够引入异质性智力资源并产出显著高于同校合作的被引表现；但学者在选择跨校伙伴时严格遵循学术声望匹配原则，加速了资源与荣誉向顶尖精英大学群体聚集。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 91–93)]]
+> **跨校合作溢价与声望同质分层** 跨校合作能够引入[[Heterogeneity|异质性]]智力资源并产出显著高于同校合作的被引表现；但学者在选择跨校伙伴时严格遵循学术声望匹配原则，加速了资源与荣誉向顶尖精英大学群体聚集。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 91–93)]]
 
 ---
 
 > [!concept-proposition] 命题三｜团队规模与人员组配机制调控创新形态（小团队颠覆、大团队发展）
-> **探讨维度　团队规模法则与创新本质的分野** 探讨不同规模与组装模式的团队在科学探索中承担的差异化功能。
+> **探讨维度　团队规模法则与[[Nature of Innovation|创新本质]]的分野** 探讨不同规模与[[Assemblage|组装]]模式的团队在科学探索中承担的差异化功能。
 
-> [!claim] Wu, L. & Evans, J. A.
-> **规模决定颠覆度与发展度分工** 大团队倾向于推进近期热门与已被公认的科技成果，享受更高的即时被引；而小团队与个体探索者更深入地汲取陈旧与非共识知识，其颠覆性指数显著占优，承担着开辟全新学科范式的关键使命。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
+> [!claim] [[Lingfei Wu|Wu, L.]] & [[James A. Evans|Evans, J. A.]]
+> **规模决定颠覆度与发展度分工** 大团队倾向于推进近期热门与已被公认的科技成果，享受更高的即时被引；而小团队与个体探索者更深入地汲取陈旧与非共识知识，其[[Disruption Index|颠覆性指数]]显著占优，承担着开辟全新学科范式的关键使命。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 
-> [!claim] Guimerà, R. & Uzzi, B.
-> **资历积淀与新锐思维的黄金配比** 团队成功依赖于资深在任老手与初入新秀的动态组装；过度堆砌全明星学者容易诱发人才过剩效应与地位冲突，而长期封闭抱团则会因认知同质化抑制颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–121)]]
+> [!claim] [[Roger Guimera|Guimerà, R.]] & [[Brian Uzzi|Uzzi, B.]]
+> **资历积淀与新锐思维的黄金配比** 团队成功依赖于资深在任老手与初入新秀的动态组装；过度堆砌全明星学者容易诱发[[Too-Much-Talent Effect|人才过剩效应]]与地位冲突，而长期封闭抱团则会因认知同质化抑制颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–121)]]
 
 ---
 
@@ -142,7 +151,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 概念演变
 > - **1950s–1960s — 单人独著黄金期** 经典科学时代以爱因斯坦等学者为代表，顶尖突破主要由个体独立完成。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–82)]]
-> - **2007 — 团队主导地位的大数据确立** Wuchty、Jones 与 Uzzi 在《科学》发表奠基研究，系统量化团队在科技文献与专利中的主导格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **2007 — 团队主导地位的大数据确立** Wuchty、Jones 与 Uzzi 在《科学》发表奠基研究，系统量化团队在科技[[Document|文献]]与专利中的主导格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2008–2013 — 跨校网络与知识重组深化** 实证揭示跨校合作的引文溢价机制，以及团队引入非典型知识重组的认知优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 86–92)]]
 > - **2019 — 团队规模与颠覆性分工发现** Wu、Wang 与 Evans 依托颠覆性指数证实小团队颠覆既有科学、大团队推进既有科学的技术分工规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 
@@ -170,7 +179,7 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Burden of Knowledge]] | 理论 | 阐明人类知识存量爆炸导致通才消亡，奠定团队分工协作的认识论基础。 |
+> | [[Burden of Knowledge]] | 理论 | 阐明人类知识存量爆炸导致通才消亡，奠定团队分工协作的[[Epistemology\|认识论]]基础。 |
 > | [[Small-World Collaboration Model]] | 理论 | 刻画团队嵌入在复杂网络中的小世界拓扑与倒 U 形创新绩效机制。 |
 > | [[Relative Team Impact]] | 方法 | 建立评价团队论著相对于单人论著引文优势的标准化文献计量指标。 |
 > | [[Invisible College]] | 概念 | 揭示跨校与跨国团队科学在思想网络层面的非正式学术共同体本质。 |

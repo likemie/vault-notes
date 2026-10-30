@@ -10,7 +10,7 @@ summary: "心理测量学与大规模标准化测验中用于诊断题目偏差�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Interaction Effect]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Cultural Validity]]"
 related_theories: []
 related_methods:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-29
 > | [[Space of Equivalence]] | 概念 | 批判跨国评估试图利用 DIF 统计净化抹平文化[[Heterogeneity\|异质性]]、虚构等值空间的理论透镜。 |
 > | [[PISA]] | 事实 | 广泛应用国际 DIF 检验、同时在学界遭遇最激烈文化偏倚指责的大规模跨国测评。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 依托统计规程抹平文化多样性、建立跨国[[Commensuration\|通约]]技术界面的文献。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析跨国测评试题直接移植中遭遇的跨文化水土不服与测量效度危机的文献。 |
+> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析跨国测评试题直接移植中遭遇的跨文化水土不服与测量效度危机的[[Document\|文献]]。 |
 
 ---
 

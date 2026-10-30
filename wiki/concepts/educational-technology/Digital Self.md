@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-20'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -70,7 +70,7 @@ Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说�
 
 但这种"翻译"（translation）同时是一种**不充分复杂的碎片化（insufficiently complex fragmentation）**——只处理数字建模和用户画像所需的要素，遗漏了人的复杂性(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
 
-> [!abstract] 与数字最优的差异
+> [!abstract] 与[[Digital Optimum|数字最优]]的差异
 > 数字自我的治理效果依赖于与"[[Digital Optimum\|数字最优]]"（digital optimum）之间的差异：
 
 - **[[Digital Optimum|数字最优]]** 算法理性在持续优化和标准化评估过程中产生的"完美起点"理想形象——它传递具体期望（如"外语专业的学生应该有过海外语言经历"），并构成一个参照标准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])

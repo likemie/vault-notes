@@ -10,9 +10,9 @@ summary: "大规模跨国与国家教育评估（如 PISA、NAEP）中用于群�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -24,11 +24,13 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Socioeconomic Status]]"
+  - "[[Student Motivation]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Sampling Error]]"
   - "[[Independent Variable]]"
+  - "[[Document]]"
   - "[[Model Dependency]]"
   - "[[School Effectiveness]]"
   - "[[Paradigm]]"
@@ -60,13 +62,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Plausible Values
-> **似真值（Plausible Values, PV）** 是大规模教育评估（如[[PISA|国际学生评估项目]]，[[PISA]]；美国国家教育进展评估，[[National Assessment of Educational Progress|NAEP]]）中用于宏观群体特征估计的贝叶斯多重插补统计技术。在大规模评估采用[[Matrix Sampling|矩阵抽样]]设计时，每位受试者仅作答题库中的一部分题项，导致单人能力水平的极大似然估计或后验期望估计（EAP）伴随极大的测量误差。似真值技术通过将被试的客观试题作答反应与详尽的背景调查[[Questionnaire|问卷]][[Variable|变量]]（如家庭[[Socioeconomic Status|社会经济地位]]、学校特征、学习动机）联合建模，计算每名被试后验潜在能力分布，并从中独立抽取若干组（通常为 5 到 10 个）拟随机数值。这组数值代表了被试在给定作答表现与背景特征下可能具有的能力水平取样，用于在群体层面开展无偏的均值、方差、分位数及[[Multiple Regression|多元回归]]参数推断。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
+> **似真值（Plausible Values, PV）** 是大规模教育评估（如[[PISA|国际学生评估项目]]，[[PISA]]；美国国家教育进展评估，[[National Assessment of Educational Progress|NAEP]]）中用于宏观群体特征估计的贝叶斯多重插补统计技术。在大规模评估采用[[Matrix Sampling|矩阵抽样]]设计时，每位受试者仅作答题库中的一部分题项，导致单人能力水平的极大似然估计或后验期望估计（EAP）伴随极大的测量误差。似真值技术通过将被试的客观试题作答反应与详尽的背景调查[[Questionnaire|问卷]][[Variable|变量]]（如家庭[[Socioeconomic Status|社会经济地位]]、学校特征、[[Student Motivation|学习动机]]）联合建模，计算每名被试后验潜在能力分布，并从中独立抽取若干组（通常为 5 到 10 个）拟随机数值。这组数值代表了被试在给定作答表现与背景特征下可能具有的能力水平取样，用于在群体层面开展无偏的均值、方差、分位数及[[Multiple Regression|多元回归]]参数推断。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 矩阵抽样下受试者的不完全作答反应矩阵、背景问卷协变量向量及潜在特质连续量尺。
@@ -137,7 +139,7 @@ updated: 2026-10-29
 ---
 
 > [!method-limits] 方法局限与风险
-> - **计算分析门槛高昂** 二级研究者若缺乏专业计量训练，极易忽视 Rubin 合并准则与复杂调查复抽样权重的联立计算，导致文献中普遍存在错误使用单一 PV 汇报[[Statistical Significance|统计显著性]]的乱象。
+> - **计算分析门槛高昂** 二级研究者若缺乏专业计量训练，极易忽视 Rubin 合并准则与复杂调查复抽样权重的联立计算，导致[[Document|文献]]中普遍存在错误使用单一 PV 汇报[[Statistical Significance|统计显著性]]的乱象。
 > - **背景[[Variable|变量]]调节作用的[[Model Dependency|模型依赖性]]** 似真值的生成依赖于数据管理方建立的先验回归模型；如果原始调查未采集特定文化变量，该变量在后续统计推断中的方差可能被平滑或稀释。
 > - **公众沟通中的黑箱与反直觉特征** 向政策制定者与社会公众解释“为什么同一个学生会有 10 个不同的测验分数”面临巨大的沟通障碍，常引发外界对数据人工编造或算法操纵的质疑。
 

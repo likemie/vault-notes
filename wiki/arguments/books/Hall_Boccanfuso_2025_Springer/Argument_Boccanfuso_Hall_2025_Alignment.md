@@ -16,6 +16,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
+  - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Cooperative Education]]"
@@ -53,7 +54,6 @@ related_facts:
   - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Chinese Academy of Sciences]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025|Ch1_Boccanfuso_Hall_2025]]"
@@ -62,7 +62,7 @@ related_instruments:
   - "[[Heilmeier Catechism]]"
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_Alignment"
@@ -96,7 +96,7 @@ citation_aliases:
 
 > [!info] 研究方法
 - 类型：导论性书籍章节，兼有[[Literature Review|文献综述]]、历史分析和框架建构
-- 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
+- 方法：基于既有[[Document|文献]]和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
 
 ---
@@ -269,7 +269,7 @@ UI 合作面临的合同谈判挑战是 UIDP 的起源。2003 年，GUIRR 发起
 
 2012 年，UIDP 发布了 [[Partnership Continuum]]（伙伴关系连续体）——展示产学合作不同模式的图谱，使人们意识到企业和大学可以通过多种方式合作，而不仅仅是赞助研究(p.16)。
 
-2015 年，UIDP 从国家[[Chinese Academy of Sciences|科学院]]"毕业"成为独立的非营利组织。2016 年启动国际扩展试点，邀请牛津、多伦多和东京大学加入。截至 2025 年本书出版，UIDP 拥有超过 60 个出版物，12% 的会员为非美国组织(pp.19–20)。
+2015 年，UIDP 从国家科学院"毕业"成为独立的非营利组织。2016 年启动国际扩展试点，邀请牛津、多伦多和东京大学加入。截至 2025 年本书出版，UIDP 拥有超过 60 个出版物，12% 的会员为非美国组织(pp.19–20)。
 
 UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的项目申请书，由项目委员会（董事会成员、大学代表和企业代表组成）审批，聘请专家起草初稿，工作组反馈，再经同行评审和审批——一整套流程确保了产品的质量和社区共识(pp.17–18)。
 

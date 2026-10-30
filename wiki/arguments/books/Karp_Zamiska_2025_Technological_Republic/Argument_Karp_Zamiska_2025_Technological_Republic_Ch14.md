@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14"
 argument_display_title: "“A Cloud or a Clock”"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -72,6 +72,7 @@ related_persons:
   - "[[Sigmund Freud]]"
 related_methods:
   - "[[Five Whys]]"
+  - "[[Experimental Research]]"
 related_facts:
   - "[[Operation Paperclip]]"
   - "[[Palantir Technologies]]"
@@ -79,7 +80,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -211,7 +212,7 @@ updated: 2026-10-26
 ### 四、 复杂历史与社会系统的演变如同流动云团，概率思维的预测准确度显著优于决定论教条
 
 > [!case] 挪威大鼠迷宫实验：人类对概率策略的抗拒与[[Determinism|决定论]]认知偏见
-> - **实验设计与任务** 宾夕法尼亚大学心理学教授[[Philip Tetlock|菲利普·泰特洛克]]（[[Philip Tetlock]]）在《专家政治判断》中回顾了一项对比实验：将耶鲁大学本科生与一只挪威大鼠放入 60% 概率左侧、40% 概率右侧出现食物的随机迷宫中。
+> - **[[Experimental Research|实验设计]]与任务** 宾夕法尼亚大学心理学教授[[Philip Tetlock|菲利普·泰特洛克]]（[[Philip Tetlock]]）在《专家政治判断》中回顾了一项对比实验：将耶鲁大学本科生与一只挪威大鼠放入 60% 概率左侧、40% 概率右侧出现食物的随机迷宫中。
 > - **策略分歧与结果** 耶鲁学生试图推断食物隐藏背后的规律与复杂模式，预测每一次的具体位置；大鼠则专注于获取食物，每次稳定选择概率较高的左侧。最终大鼠以 60% 的命中率显著战胜了耶鲁学生。
 > - **[[Epistemology|认识论]]启示** 人类深层具有追求[[Determinism|决定论]]因果规律的倾向，往往抗拒承认误差不可避免性的概率策略；在复杂动态系统中，过度执着于自洽理论反而会带来严重的认知盲区（p. 162）。
 

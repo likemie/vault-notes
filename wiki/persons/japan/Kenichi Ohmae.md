@@ -7,10 +7,10 @@ summary: "日本著名管理学家、战略咨询家、经济评论家，麦肯�
 type: person
 nationality: japan
 person_region: "japan"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1943"
 died: ""
 lifespan: "1943–至今"
@@ -32,10 +32,12 @@ related_persons:
   - "[[Bengt-Åke Lundvall]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
+related_facts:
+  - "[[European Commission]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -48,7 +50,7 @@ updated: 2026-10-22
 > [!citation-card] 人物定位的关键来源
 > 大前研一（Ohmae, 1990）在其《无国界的世界》一书中主张，在所谓‘互联经济’（ILE）——由美国、欧共体和日本构成的‘三极’，现在再加上新兴工业化国家——之中，国家疆界正在‘融化消失’。这种互联经济已经‘如此强大，以至于吞噬了绝大多数消费者与企业，使传统国家边界几乎消逝，并将官僚、政客和军人推向了夕阳产业的地位’。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 15)]]
 >
-> *Ohmae (1990) in his book The Borderless World argues that national frontiers are 'melting away' in what he calls the 'ILE' (inter-linked economy)—the triad of USA, EC and Japan, now being joined by NICs. This 'ILE' is becoming 'so powerful that it has swallowed most consumers and corporations, made traditional national borders almost disappear, and pushed bureaucrats, politicians and the military towards the status of declining industries'.*
+> *Ohmae (1990) in his book The Borderless World argues that national frontiers are 'melting away' in what he calls the 'ILE' (inter-linked economy)—the triad of USA, [[European Commission|EC]] and Japan, now being joined by NICs. This 'ILE' is becoming 'so powerful that it has swallowed most consumers and corporations, made traditional national borders almost disappear, and pushed bureaucrats, politicians and the military towards the status of declining industries'.*
 
 ---
 

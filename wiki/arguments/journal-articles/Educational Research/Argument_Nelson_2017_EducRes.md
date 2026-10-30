@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_EducRes"
 argument_key: "Argument_Nelson_2017_EducRes"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,6 +53,8 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Discourse]]"
   - "[[Formative Assessment]]"
+  - "[[Differentiated Instruction]]"
+  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
@@ -99,7 +101,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 ---
 
@@ -214,8 +216,8 @@ updated: 2026-10-23
 > |---|---|---|---|
 > | **[[Professional Judgment\|专业判断]]** | 教师基于专业经验、伦理价值、情境理解与教学反思形成的审议判断。 | 决策整合的枢纽；将抽象研究与统计数据情境化，权衡教育目的与适切性。 | 缺乏严谨证据约束时易退化为主观偏见或经验直觉。 |
 > | **系统层面数据** | 学校、学区、省州或国家层面的行政管理、学业测评与督导评估数据。 | 提供宏观基准线与系统性发展信号，支持宏观资源调配与问题诊断。 | 单独主导易导致唯分数论与自上而下的行政技术官僚主义问责。 |
-> | **课堂数据** | [[Formative Assessment\|形成性评估]]、课堂观察记录、学生作业表现与师生互动质性反馈。 | 反映微观教学现场即时动态，为差异化教学与过程性调整提供形成性依据。 | 容易过度依赖终结性测试，缺乏多源定性[[Triangulation\|三角验证]]。 |
-> | **研究证据** | 经学术研究程序系统产出的知识，涵盖实证研究、理论综合与二阶文献。 | 提供普适性规律、干预机制解释与概率性效果参考，拓展教师认知视野。 | 脱离情境直接套用会导致教条化执行与实践水土不服。 |
+> | **课堂数据** | [[Formative Assessment\|形成性评估]]、课堂观察记录、学生作业表现与师生互动质性反馈。 | 反映微观教学现场即时动态，为[[Differentiated Instruction\|差异化教学]]与过程性调整提供形成性依据。 | 容易过度依赖终结性测试，缺乏多源定性[[Triangulation\|三角验证]]。 |
+> | **研究证据** | 经学术研究程序系统产出的知识，涵盖实证研究、理论综合与二阶[[Document\|文献]]。 | 提供普适性规律、干预机制解释与概率性效果参考，拓展教师认知视野。 | 脱离情境直接套用会导致教条化执行与实践水土不服。 |
 >
 > **图表解读** 四类要素相互支撑，专业判断是整合的核心枢纽；EIP 追求的是四者的动态平衡而非单一驱动。
 

@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -42,12 +42,13 @@ related_facts:
   - "[[ASEAN Regional Forum]]"
   - "[[Coreper]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
+  - "[[Court of Justice of the European Union]]"
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-29
 > |:---|:---|:---|
 > | **主权取向** | 绝对捍卫国家主权与不干涉内政 | 成员国将关键立法与司法权力让渡给超国家中枢 |
 > | **决策机制** | 协商一致（Consensus）与一票否决 | 多数表决机制与超国家法规直接优先效力 |
-> | **争端裁决** | 依赖双边自愿协商，高等委员会必须全票启动 | 欧洲法院拥有强制管辖权与违约侵权直接判决权 |
+> | **争端裁决** | 依赖双边自愿协商，高等委员会必须全票启动 | [[Court of Justice of the European Union\|欧洲法院]]拥有强制管辖权与违约侵权直接判决权 |
 > | **借用边界** | 构筑防范超国家机构移植的深层护栏 | 建立在战后民族国家功能救赎基础之上的独特制度产物 |
 >
 > **关键分歧** [[Philomena Murray|菲洛梅娜·默里]]与爱德华·莫克森-布朗指出，正是由于 TAC 所确立的绝对不干预原则与主权防卫传统具有强大制度惯性，使得东盟在通过《东盟宪章》借鉴欧盟架构时，难以直接复制基于主权让渡与深层[[Engrenage|齿轮啮合]]（[[Engrenage]]）的超国家决策机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 524, 528)]]

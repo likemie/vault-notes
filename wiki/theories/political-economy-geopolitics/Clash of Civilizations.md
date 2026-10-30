@@ -7,7 +7,7 @@ aliases:
 summary: "塞缪尔·亨廷顿提出的地缘政治理论，主张冷战后人类冲突的核心根源不再是意识形态或经济，而是文化与文明的断层线；将世界划分为七至八个主要文明板块，并预言伊斯兰与儒家文明对西方霸权的挑战；卡普与扎米斯卡进一步指出，学术界对该简化模型的全盘抵制产生了严重的副作用，导致关于文化在国际关系、经济产出与国家能力中实质作用的严肃探讨在高校中沦为学术禁区。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[De-Westernisation]]"
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Student Mobility]]"
   - "[[Going Native]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-10-22
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 国际高等教育合作壁垒、跨国科技转化受阻、区域防务同盟凝聚力及国家战略认同的形成机制。
 > - **分析对象与单位** 跨国文明板块、国家安全决策集团、跨国教育体系、大学通识课程政策。
-> - **需要的材料** 文明断层线地缘分布、跨国学术流动数据、通识正典改革文献、科技外包与地缘安全采办档案。
+> - **需要的材料** 文明断层线地缘分布、跨国学术流动数据、通识正典改革[[Document|文献]]、科技外包与地缘安全采办档案。
 > - **解释目标** 评估地缘文化摩擦对技术采办与国家合法性的结构性约束。
 
 > [!theory-framework] 命题如何转化为分析维度

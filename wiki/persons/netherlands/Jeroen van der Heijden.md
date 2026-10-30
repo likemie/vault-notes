@@ -8,7 +8,7 @@ summary: "荷兰著名公共管理与规制治理学者，新西兰惠灵顿维�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - region/netherlands
 related_concepts:
   - "[[Institutional Layering]]"
+  - "[[Document]]"
   - "[[Regulatory Ratchet]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-20
 > - **出生年份** 1977 年
 > - **国籍与学术脉系** 荷兰（Netherlands）；现任新西兰惠灵顿维多利亚大学政府学院规制实践讲席教授（Chair in Regulatory Practice, Victoria University of Wellington），代尔夫特理工大学技术、政策与管理学院客座研究员，澳大利亚国家大学规制与全球治理学院兼聘学者。
 > - **研究领域** 规制治理（Regulatory Governance）、环境与城市气候政策、比较历史制度分析、科学实在论政策评估。
-> - **学术贡献概述** 范德海登是国际规制治理与比较制度分析领域的领军学者。他系统考证了[[Historical Institutionalism|历史制度主义]]中[[Institutional Layering|制度层叠]]概念的六十年跨学科文献前史，提炼出机构增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化脉络；通过解构荷兰《住房法》建筑规制执行史，他将[[Ray Pawson|雷·波森]]的[[Realist Evaluation|实在论评估]]原理拓展至制度分析领域，提出“变迁定性取决于主体的制度位置与时间尺度”这一化解突变论与渐变论对立的经典[[Epistemology|认识论]]命题；同时，他撰写了《城市气候治理创新》（剑桥大学出版社, 2017）等多部专著，开创性地将比较制度机制应用于全球可持续发展与韧性城市治理研究。
+> - **学术贡献概述** 范德海登是国际规制治理与比较制度分析领域的领军学者。他系统考证了[[Historical Institutionalism|历史制度主义]]中[[Institutional Layering|制度层叠]]概念的六十年跨学科[[Document|文献]]前史，提炼出机构增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化脉络；通过解构荷兰《住房法》建筑规制执行史，他将[[Ray Pawson|雷·波森]]的[[Realist Evaluation|实在论评估]]原理拓展至制度分析领域，提出“变迁定性取决于主体的制度位置与时间尺度”这一化解突变论与渐变论对立的经典[[Epistemology|认识论]]命题；同时，他撰写了《城市气候治理创新》（剑桥大学出版社, 2017）等多部专著，开创性地将比较制度机制应用于全球可持续发展与韧性城市治理研究。
 
 ---
 

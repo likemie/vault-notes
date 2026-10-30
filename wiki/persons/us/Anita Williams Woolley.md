@@ -10,10 +10,10 @@ summary: "美国组织心理学家与行为科学家，卡耐基梅隆大学泰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1974"
 lifespan: "c. 1974–至今"
 tags:
@@ -23,14 +23,19 @@ tags:
   - theme/team-science
 related_concepts:
   - "[[Collective Intelligence]]"
-  - "[[Team Science]]"
+  - "[[Construct]]"
+  - "[[Determinism]]"
+  - "[[Paradigm]]"
+  - "[[Problem Solving]]"
+  - "[[Emergence]]"
+  - "[[Discourse]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Too-Much-Talent Effect]]"
+  - "[[Team Science]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
@@ -45,9 +50,9 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 美国组织行为学与协作认知学者；卡耐基梅隆大学泰珀商学院（Tepper School of Business）组织心理学讲席教授、副院长。
 > - **核心角色** 群体协同机制、协作认知与团队微观互动结构的前沿领军学者。
-> - **代表贡献** 领衔确立[[Collective Intelligence|集体智慧]]（$c$ 因子）的心理测量学构念，证实群体效能由社会敏感度与沟通均衡度决定，脱离单体成员智商总和。
+> - **代表贡献** 领衔确立[[Collective Intelligence|集体智慧]]（$c$ 因子）的心理测量学[[Construct|构念]]，证实群体效能由社会敏感度与沟通均衡度决定，脱离单体成员智商总和。
 
-> [!citation-card] 团队效能的结构与互动决定论
+> [!citation-card] 团队效能的结构与互动[[Determinism|决定论]]
 > 群体胜任多样化复杂任务的能力，取决于团队内部的人员构成与交互方式，脱离个体成员特质的机械累加。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 >
 > *These results suggest that a team’s ability to perform well depends primarily on the composition of the team and the way team members interact, rather than the characteristics of individual team members.*
@@ -62,13 +67,13 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要著作
-> - **2010 — *Evidence for a collective intelligence factor in the performance of human groups* (*Science*)** 奠定集体智慧测量的实验范式，实证揭示群体协同效能的核心社会心理学机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> - **2010 — *Evidence for a collective intelligence factor in the performance of human groups* (*Science*)** 奠定集体智慧测量的实验[[Paradigm|范式]]，实证揭示群体协同效能的核心社会心理学机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 > - **2015 — *Collective intelligence and group learning* (*Current Directions in Psychological Science*)** 阐明人际知觉与互动结构转化为团队适应性学习能力的认知途径。
 
 ---
 
 > [!claim] 核心思想
-> 阿妮塔·威廉姆斯·伍利（Anita Williams Woolley）主张，团队的综合问题解决效能是微观人际互动结构内生决定的系统涌现属性，独立于单体智力的简单加总。高度协同的团队展现出类比于个体一般智商 $g$ 的集体智慧 $c$ 因子；决定该因子高低的关键在于成员的人际共情敏感度（社会感知力）以及话语沟通权的均等化分布。
+> 阿妮塔·威廉姆斯·伍利（Anita Williams Woolley）主张，团队的综合[[Problem Solving|问题解决]]效能是微观人际互动结构内生决定的系统[[Emergence|涌现]]属性，独立于单体智力的简单加总。高度协同的团队展现出类比于个体一般智商 $g$ 的集体智慧 $c$ 因子；决定该因子高低的关键在于成员的人际共情敏感度（社会感知力）以及[[Discourse|话语]]沟通权的均等化分布。
 
 > [!citation-card] 互动结构与集体认知涌现
 > 团队智力的核心在于成员之间的微观互惠协同，均衡的互动流向与敏锐的心理感知是群体超越单体能力极限的组织基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
@@ -78,7 +83,7 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 将个体心理学的一般智力理论拓展为群体认知层面的集体智慧理论，重塑了组织行为学对团队生产力的解释框架。
 > - **方法路径** 开发跨领域多任务电池结合眼部读心测验（RMET）与发言均等度音频分析的实验测量规程。
-> - **政策路径** 为高科技研发团队组建、复杂工程人机协同系统设计及企业多元包容管理提供实证依据。
+> - **政策路径** 为高科技研发团队组建、复杂工程[[Man-Computer Symbiosis|人机协同]]系统设计及企业多元包容管理提供实证依据。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 阐释伍利关于集体智慧控制实验的里程碑发现，指出团队绩效取决于成员社会敏感度与发言均衡性（p. 117）。

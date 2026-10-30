@@ -20,6 +20,7 @@ related_concepts:
   - "[[Physician-Scientist]]"
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
+  - "[[Document]]"
   - "[[Technology Transfer Office]]"
   - "[[Valley of Death]]"
   - "[[Competitiveness]]"
@@ -47,14 +48,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-23
+updated: 2026-10-30
 subtype: book-chapter
 publication_type: book
 title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -88,7 +89,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 类型：观点性书籍章节（perspective chapter），包含一个历史性的[[Case Study\|案例研究]]
-> - 方法：基于作者在 Houston Methodist 研究所（Houston Methodist Research Institute, HMRI）的从业经验（Swick 为研究发展副主任, Jones 为 HMRI 总裁兼首席执行官），结合文献引用和对 TAVR [[University-Industry Collaboration\|产学合作]]历程的历史案例分析
+> - 方法：基于作者在 Houston Methodist 研究所（Houston Methodist Research Institute, HMRI）的从业经验（Swick 为研究发展副主任, Jones 为 HMRI 总裁兼首席执行官），结合[[Document|文献]]引用和对 TAVR [[University-Industry Collaboration\|产学合作]]历程的历史案例分析
 > - 案例：Houston Methodist DeBakey 心脏与血管中心与 Medtronic 合作开发 TAVR 的产学合作历程(pp.192–194)
 > - 未报告独立的实证数据；论点主要通过概念建构、文献对话和案例说明展开
 

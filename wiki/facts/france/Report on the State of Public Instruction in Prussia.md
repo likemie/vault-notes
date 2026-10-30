@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
   - theme/elementary-education
   - theme/nineteenth-century
 related_concepts:
+  - "[[Document]]"
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
@@ -58,14 +59,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 ## 背景
 
-1831 年[[Victor Cousin|维克多·库森]]的《普鲁士公共教育状况报告》是 19 世纪比较教育学科萌芽期最富国际声誉与制度实效的官方文献：
+1831 年[[Victor Cousin|维克多·库森]]的《普鲁士公共教育状况报告》是 19 世纪比较教育学科萌芽期最富国际声誉与制度实效的官方[[Document|文献]]：
 
 > [!policy-context] 政策背景
 > - **发布时间 / 调查主体** 1831 年由法国索邦大学哲学教授兼公共教育最高委员会委员[[Victor Cousin\|维克多·库森]]（Victor Cousin, 1792–1867）受法国七月王朝政府正式委派，作为外交特使赴德意志[[Fieldwork\|实地调查]]；1831–1832 年以《德国若干国家特别是普鲁士公共教育状况报告》（*Rapport sur l'état de l'instruction publique dans quelques pays de l'Allemagne et particulièrement en Prusse*）正式结集由公共教育部出版。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–27; Brewer, 1971, p. 36)]]
@@ -111,7 +112,7 @@ updated: 2026-10-22
 > - **1831.11** 库森完成第一阶段调查，向法国公共教育部递交初步考察报告，引起政界强烈震撼。
 > - **1832** 报告由法国皇家印刷局正式出版两卷本全书（*Rapport sur l'état de l'instruction publique*）。
 > - **1833** 库森基于该报告主笔起草《初等教育法》，国民议会顺利审议通过，史称 [[Guizot Law of 1833\|1833年基佐法案]]。（pp. 28–30）
-> - **1834** 英国著名女学者萨拉·奥斯汀将报告译为英文在伦敦出版，成为英国国会教育调查委员会与边沁功利主义法学派的必读文献。（pp. 27, 31）
+> - **1834** 英国著名女学者萨拉·奥斯汀将报告译为英文在伦敦出版，成为英国国会教育调查委员会与边沁功利主义法学派的必读[[Document|文献]]。（pp. 27, 31）
 > - **1835** 美国纽约州立大学联合委员会委员奥维尔·泰勒在纽约出版美版译本，全美教育改革家竞相研读。
 > - **1836–1844** 库森报告的英美版本直接启发了[[Calvin Stowe\|卡尔文·斯托]]（1837 年赴欧考察报告）、[[Horace Mann\|霍勒斯·曼]]（1843 年第七号年度报告）与[[Henry Barnard\|亨利·巴纳德]]（1854 年《国民教育》），掀起北美公学立法浪潮。（pp. 31–34）
 
@@ -119,7 +120,7 @@ updated: 2026-10-22
 
 ## 跨国传播与制度外溢路径
 
-[[Victor Cousin|库森]]报告展现了 19 世纪比较教育文献从“官方外交咨询”跃升为“跨国政策合法化弹药”的典型转译链条：
+[[Victor Cousin|库森]]报告展现了 19 世纪比较教育[[Document|文献]]从“官方外交咨询”跃升为“跨国政策合法化弹药”的典型转译链条：
 
 > [!pathways] 跨国转译与制度扩散的三重路径
 > - **法国本土法制化路径** 库森不仅是考察者，更是立法起草者。他将报告中提炼的普鲁士 [[Prussian Draft Education Law of 1819\|聚芬法案]]四大支柱 毫无阻碍地转译为法国本土法典，使 [[Guizot Law of 1833\|基佐法案]] 成为近代法国公立教育制度的奠基石。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 28–29]]; Brewer, 1971:58）

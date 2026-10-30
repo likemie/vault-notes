@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 40
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Marginal Gains Hypothesis]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Mathematics Intervention Programs]]"
+  - "[[Triangular Cooperation]]"
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Clinical Trial]]"
@@ -41,9 +43,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Output-Oriented Governance]]"
   - "[[Scientism]]"
+  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
   - "[[Metacognition]]"
+  - "[[Collaborative Learning]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -73,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 （张志强）
@@ -93,8 +97,8 @@ updated: 2026-10-22
 ---
 
 > [!timeline] 生平与职涯
-> - **2000 年代初 — 约翰霍普金斯大学 CRRE 时期** 长期在美国 Johns Hopkins University [[Evidence-Based Education\|证据本位教育]]改革中心担任核心研究者，与 [[Robert Slavin]] 紧密合作，深度参与全美大规模整体学校改革（如 [[Success for All]]）与 K-12 阅读、数学干预项目的一阶与[[Meta-meta-analysis\|二阶元分析]]研发。
-> - **2010 年代 — 回港任教与循证教育跨国网络搭建** 加盟香港中文大学教育学院，担任教授兼教育行政与政策学系系主任；发起建立 Johns Hopkins-CUHK-NNU（约翰霍普金斯-港中大-南京师大）三方合作机制，建立面向全球华人的 [[Best Evidence in Brief\|BEiB]] 循证教育知识库，推动中文教育实证研究与国际[[Causality\|因果推断]]标准对话。
+> - **2000 年代初 — 约翰霍普金斯大学 CRRE 时期** 长期在美国 Johns Hopkins University [[Evidence-Based Education\|证据本位教育]]改革中心担任核心研究者，与 [[Robert Slavin]] 紧密合作，深度参与全美大规模整体学校改革（如 [[Success for All]]）与 K-12 阅读、[[Mathematics Intervention Programs|数学干预项目]]的一阶与[[Meta-meta-analysis\|二阶元分析]]研发。
+> - **2010 年代 — 回港任教与循证教育跨国网络搭建** 加盟香港中文大学教育学院，担任教授兼教育行政与政策学系系主任；发起建立 Johns Hopkins-CUHK-NNU（约翰霍普金斯-港中大-南京师大）[[Triangular Cooperation|三方合作]]机制，建立面向全球华人的 [[Best Evidence in Brief\|BEiB]] 循证教育知识库，推动中文教育实证研究与国际[[Causality\|因果推断]]标准对话。
 > - **2021 — 主导《ECNU Review of Education》全球循证改革特刊** 与 [[Chen Xie]] 联合主编特刊 *[[Evidence-Based Reform]] in Education: Global Perspectives*，以四大活动框架组织全球 7 国学者，并联合 Slavin 与[[Tengteng Zhuang\|庄腾腾]]系统回应华语学界对[[Positivism\|实证主义]]的质疑（[[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021]]；[[Argument_Cheung_2021_ECNUROE\|Cheung & Xie, 2021]]）。
 > - **2025 — 拓展至前沿智能教育循证评价** 在权威顶刊 *Educational Research Review* 发表针对高校生成式 AI 学习产出的[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]），首次在 AIED 综述中引入严格的 [[Baseline Standardized Mean Difference\|基线等效性]]门槛（$d < 0.25$）与 [[Third Generation Activity Theory\|AT-MCSCL]] 活动理论框架，确立[[Marginal Gains Hypothesis\|教育技术边际效益假说]]。
 
@@ -159,7 +163,7 @@ updated: 2026-10-22
 > > - **张志强与 Slavin（2021）** 明确回应：RCT 并非万能，但若缺乏对具体项目的严密实验检验，教育改革将永远在“时尚钟摆”中盲目循环；倡导融合严格定量因果与质性机制解释。
 >
 > > [!axis] 生成式 AI 促学潜力的“乐观主义膨胀” vs “客观基准收敛”
-> > 围绕早期文献动辄报告大[[Effect Size\|效应量]]（$g > 1.0$）的学术分歧。
+> > 围绕早期[[Document|文献]]动辄报告大[[Effect Size\|效应量]]（$g > 1.0$）的学术分歧。
 > >
 > > - **乐观派综述学者** 宣称生成式 AI 是全方位颠覆教学的通用加速器。
 > > - **张志强团队（2025）** 严谨指出既有乐观估计存在未控基线与[[Publication Bias\|发表偏倚]]的虚高，经[[Trim and Fill Method\|剪补法]]后真实基准为 $g^+ = 0.321$，必须警惕[[Metacognitive Laziness\|元认知惰性]]风险。
@@ -176,7 +180,7 @@ updated: 2026-10-22
 > | [[Evidence-Based Reform]] | 概念 | 长期合作倡导与推进的政策与研究纲领。 |
 > | [[Marginal Gains Hypothesis]] | 概念 | 在 2025 年[[Meta-analysis\|元分析]]中通过 ICT 与 SES [[Interaction Effect\|调节效应]]正式实证确立的假说。 |
 > | [[Metacognitive Laziness]] | 概念 | 在 2025 年论文中用以解释 AI 环境下[[Metacognition\|元认知]]未获显著促进的核心机制。 |
-> | [[Third Generation Activity Theory]] | 理论 | 将第三代活动理论扩展应用于移动计算机支持协作学习（AT-MCSCL 框架）。 |
+> | [[Third Generation Activity Theory]] | 理论 | 将第三代活动理论扩展应用于移动计算机支持[[Collaborative Learning\|协作学习]]（AT-MCSCL 框架）。 |
 > | [[Baseline Standardized Mean Difference]] | 方法 | 严格践行并确立为 AI 元分析准入的基线等效控制门槛（$d < 0.25$）。 |
 > | [[Best Evidence in Brief]] | 事实 | 领导建设面向海外华人的中文[[Evidence-Based Education\|循证教育]]传播网络。 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 论证 | 主导完成的高等教育生成式 AI [[Experimental Research\|实验研究]]元分析旗舰论文。 |

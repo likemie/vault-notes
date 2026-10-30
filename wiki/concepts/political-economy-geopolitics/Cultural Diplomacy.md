@@ -7,7 +7,7 @@ aliases:
 summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Soft Power]]"
   - "[[International Education Hubs]]"
+  - "[[Public Diplomacy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 定义
@@ -55,7 +56,7 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 - vs [[Soft Power|软实力]]（Soft Power）：软实力是文化外交的**理论基础**——Nye (2005) 提出的"通过吸引力而非强制力影响他者"的概念框架。高等教育中的文化外交是软实力在高等教育领域的具体运作形式
-- vs 公共外交（Public Diplomacy）：公共外交面向外国公众；高等教育文化外交同时面向**精英层**（通过培育他国未来政治和商业领袖）和**公众层**（通过博物馆、文化机构改善国家形象）
+- vs [[Public Diplomacy|公共外交]]（Public Diplomacy）：公共外交面向外国公众；高等教育文化外交同时面向**精英层**（通过培育他国未来政治和商业领袖）和**公众层**（通过博物馆、文化机构改善国家形象）
 - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化以院校层面的跨境流动与合作为核心；高等教育文化外交是**国家层面**的、以[[Geopolitics|地缘政治]]目标为导向的战略性活动——大学在其中是工具而非主体
 - vs [[International Education Hubs|IEH]] 的政治经济维度：政治经济维度追求直接经济回报（教育出口收入、[[Knowledge-Based Economy|知识经济]]毕业生供给）；文化外交维度追求**间接的、符号性的**回报（国际声誉、软实力排名、区域影响力）。两者在同一枢纽项目中共存，但不一定协调
 

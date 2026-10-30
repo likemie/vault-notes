@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Falsification]]"
   - "[[Credential Inflation]]"
@@ -31,7 +32,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Bureaucracy]]"
   - "[[Postpositivism]]"
-  - "[[Habitus]]"
   - "[[Strategic Compliance]]"
   - "[[Variable]]"
 related_theories:
@@ -64,7 +64,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-10-22
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 奠基区分** 布东（Boudon, 1974）提出“首属效应”（Primary Effects，家庭资源通过影响早期学业能力造成的差异）与“次属效应”（Secondary Effects，在控制[[Academic Achievement|学业成绩]]后不同阶层自愿升学决策的分化），为理性行动理论界定了核心解释领地。
 > - **1997 — 形式化数理模型建立** 布林与戈德索普（Breen & Goldthorpe, 1997）建立形式化决策模型，将相对风险规避（RRA）确立为次属效应的微观核心，确立了教育分流点的理性计算方程。
-> - **1997 — [[Pragmatic Paradigm|实用主义]]与习性修正** 霍德金森与斯帕克斯（Phil Hodkinson & Andrew C. Sparkes, 1997）结合布迪厄的习性与[[Champ|场域]]理论，指出理性选择并非完全信息下的冰冷计算，而是受限于个体视野（Horizons for Action）的[[Pragmatic Paradigm|实用主义]]决策，决策信息本身深受家庭背景扭曲。
+> - **1997 — [[Pragmatic Paradigm|实用主义]]与[[Habitus|习性]]修正** 霍德金森与斯帕克斯（Phil Hodkinson & Andrew C. Sparkes, 1997）结合布迪厄的习性与[[Champ|场域]]理论，指出理性选择并非完全信息下的冰冷计算，而是受限于个体视野（Horizons for Action）的[[Pragmatic Paradigm|实用主义]]决策，决策信息本身深受家庭背景扭曲。
 > - **1999 — 跨文化检验与反向[[Falsification|证伪]]** 彼得·德梅拉斯（Peter Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）在巴布亚新几内亚佩雷村的[[Fieldwork|田野研究]]指出，当外部劳动力市场破产与现代[[Credential Inflation|文凭通胀]]并存时，边缘乡村青年主动放弃升学、集体嘲讽考学者并颂扬传统渔猎生活，实证[[Falsification|证伪]]了脱离本土文化情境的西方抽象[[Cost-Benefit Analysis|成本效益分析]]与理性选择假设。
 > - **2007 — 严谨推理与经验排除** 戈德索普（Goldthorpe, 2007）运用七步推理法，以多波次队列数据检验该理论模型，系统排除了马克思主义阶级决定论、自由主义技术功能论与文化内化论三种竞争假说。
 > - **2023 — 文化社会学批判与中国在地拓展** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将理性行动理论置于中国拔尖大学寒门学子的生涯追踪中，揭示纯粹效用计算视角无法涵盖大学生的情感动能、意义追寻与[[Cultural Barrier|文化障碍]]。

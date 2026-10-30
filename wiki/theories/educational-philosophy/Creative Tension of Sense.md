@@ -8,7 +8,7 @@ aliases:
 summary: "Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ganz-Methode]]"
   - "[[Ecomuseology]]"
+  - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology of Resistance]]"
   - "[[Official Knowledge]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!tip] 核心主张
@@ -70,7 +71,7 @@ updated: 2026-10-22
 > - 理论建构受到 Enrique Leff 的环境理性（environmental rationality）、Boaventura de Sousa Santos 的南方[[Epistemology\|认识论]]（Epistemologies of the South）、Enrique Dussel 的超现代性（transmodernity）以及 [[Walter Mignolo]] 的[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]等思想的影响([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–109]])
 > - 2022 年，Delambre 在 Parreira do Amaral & Thompson 主编的 *Geopolitical Transformations in Higher Education* 论文集中以章节形式系统阐述该理论及其方法论 [[Ganz-Methode]]([[Argument_Delambre_2022_Springer\|Delambre, 2022]])
 
-> [!info] 认识论立场
+> [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology\|本体论]]** 现实不是静止的，而是始终处于新旧张力之中。不存在脱离张力的"纯粹"新或旧，现实的本质就是运动中的张力关系([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.111–112]])
 > - **[[Epistemology\|认识论]]** 反对现代性的封闭理性和主客二分。主张认识论、存在论与诠释学三者不可分离——在张力认识论中，不存在现成的语言来捕捉[[Ganz-Methode\|整体进路]]的全部，因此允许"神秘"、"惊喜"、"着迷"、"脆弱"和"不可控"的出现([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.113]])
 > - **方法论取向** 以 [[Ganz-Methode]]（整体方法）为实践维度，从具体情境中的意义张力出发，强调承载而非解决张力。该方法不是中立的分析工具，而是深度介入性的——要求参与者同时暴露"生命价值"与"死亡价值"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112–113, 117–118]])

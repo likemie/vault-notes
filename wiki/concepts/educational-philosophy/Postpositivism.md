@@ -9,7 +9,7 @@ aliases:
 summary: "一种挑战经典实证主义绝对确定性与机械决定论的研究哲学立场，主张知识具有本质上的推测性、理论负荷性与可错性；在承认客观实在持续存在的同时包容多元实在与情境阐释，倡导以非普适探索性假说推进科学反思与广义人文探究。"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paideia]]"
   - "[[Empiricism]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Scientific Paradigm]]"
   - "[[Emergence]]"
   - "[[Paradigm Wars]]"
@@ -94,7 +93,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ## 定义
@@ -199,7 +198,7 @@ updated: 2026-10-29
 > **后实证经验研究的概率[[Determinism\|决定论]]与推测性检验** 后实证主义虽保留[[Quantitative Research\|量化研究]]对[[Causality\|因果关系]]的探索，但彻底告别了机械决定论与绝对真理诉求；在教育与社会探究中，原因仅仅在一定概率上决定结果。研究者从理论假设出发收集经验数据，研究结果只能提供支持或削弱假设的暂时性证据，永远无法提供一劳永逸的最终证明；因此，量化研究的核心姿态应当是严格审视方法论偏误并不断完善理论。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 7)]]
 
 > [!concept-proposition] 命题二｜后实证认识论破除狭隘实证科学垄断并将广义科学范畴向人文探究开放
-> **探讨维度　科学概念溯源与跨文化认识论体系重建** 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”[[Discourse|话语]]的技术性垄断，恢复欧陆博大[[Geisteswissenschaften|人文科学]]传统的合法地位。
+> **探讨维度　科学概念溯源与跨文化认识论体系重建** 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”[[Discourse|话语]]的技术性垄断，恢复欧陆博大人文科学传统的合法地位。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
 > **德语 Wissenschaft 与希腊语 Episteme 破除英语 Science 的实证霸权** 20 世纪 60 年代实证学派对历史与哲学比较传统的贬斥，根源于其将“科学”（Science）狭隘垄断为自然科学与数理统计实证主义的语义霸权。在欧洲大陆思想史中，德语词 *Wissenschaft* 与古希腊词 *Episteme* 始终指代统辖自然、社会、文化与人文学科的系统化、规范化理性知识体系。一旦突破英语 *Science* 的技术狭义化，关注制度历史演化根由与文化意涵的历史比较探究，完全符合规范科学的严密标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]

@@ -13,7 +13,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 42
+fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[People-to-People Connectivity]]"
   - "[[Community of Shared Future for Mankind]]"
+  - "[[Financial Diplomacy]]"
+  - "[[Public Diplomacy]]"
   - "[[Emergence]]"
   - "[[Outward-Oriented Internationalization]]"
   - "[[Research Universities]]"
@@ -46,6 +48,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Multi-University]]"
+  - "[[Document]]"
 related_theories:
   - "[[Tianxia Heuristic]]"
 related_methods:
@@ -58,9 +61,11 @@ related_facts:
   - "[[Asian Infrastructure Investment Bank]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Luban Workshop]]"
+  - "[[Confucius Institute]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Asian Universities Alliance]]"
+  - "[[Silk Road Scholarship]]"
   - "[[ASEAN]]"
   - "[[World Bank]]"
   - "[[Asia-Africa Growth Corridor]]"
@@ -77,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -99,7 +104,7 @@ updated: 2026-10-26
 > [!policy-design] 方案设计
 > - **项目目标** 构建以“五通”（政策沟通、设施联通、贸易畅通、资金融通、[[People-to-People Connectivity|民心相通]]）为核心支柱的多边经济走廊，推动构建[[Community of Shared Future for Mankind|人类命运共同体]]。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 678)]]
 > - **覆盖对象** 沿线新兴经济体与发展中国家，涵盖能源交通枢纽、自贸港口、产业园区与高等教育合作网络。
-> - **干预措施** 基建工程承包、产能投资基金、本币结算互换、境外合作园区，配套的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》、跨国大学联盟建设、[[Luban Workshop|鲁班工坊]]技能实训输出，面向油气、水电与路桥等关键基建工程推行的校企跨国定向培养机制（如 1+4 贯通模式、1+3+1 校企联合培养与 2+2 双学位协同培养），以及在南亚与中亚走廊建设中将金融外交（累计超1260亿美元）与公共外交深度绑定，通过留学生奖学金、孔子学院、鲁班工坊等教育人文网络培育本土技术力量与亲华精英，缓解沿线国家对大规模基建引发的劳动力挤出与债务依赖焦虑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–193)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10, 24–27)]]
+> - **干预措施** 基建工程承包、产能投资基金、本币结算互换、境外合作园区，配套的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》、跨国大学联盟建设、[[Luban Workshop|鲁班工坊]]技能实训输出，面向油气、水电与路桥等关键基建工程推行的校企跨国定向培养机制（如 1+4 贯通模式、1+3+1 校企联合培养与 2+2 双学位协同培养），以及在南亚与中亚走廊建设中将[[Financial Diplomacy|金融外交]]（累计超1260亿美元）与[[Public Diplomacy|公共外交]]深度绑定，通过留学生奖学金、[[Confucius Institute|孔子学院]]、鲁班工坊等教育人文网络培育本土技术力量与亲华精英，缓解沿线国家对大规模基建引发的劳动力挤出与债务依赖焦虑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–193)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10, 24–27)]]
 > - **实施控制** 依托双边政府间合作备忘录、多边峰会磋商机制、重大联合项目工作组与第三方市场合作协议保障项目推进。
 
 > [!citation-card] 一带一路互联互通战略构想（NDRC, 2015）
@@ -134,7 +139,7 @@ updated: 2026-10-26
 
 > [!indicators] 评估指标体系
 > - **经贸与基建产出** 沿线互联互通工程完工数、中欧班列开行频次、双边贸易投资总额。
-> - **[[International Education|国际教育]]合作规模** 学历互认协议签署国数量、来华留学生规模及一带一路奖学金覆盖面。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
+> - **[[International Education|国际教育]]合作规模** 学历互认协议签署国数量、来华留学生规模及[[Silk Road Scholarship|一带一路奖学金]]覆盖面。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
 > - **高校联盟组织制度** 联盟吸纳成员高校总数、覆盖国别广度、常设科研资助总额与校长理事会治理效能。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1702)]]
 
 > [!finding-cards] 核心实证结论
@@ -198,7 +203,7 @@ updated: 2026-10-26
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 剖析[[Forum on China-Africa Cooperation\|中非合作论坛]]与“一带一路”教育行动深度交织及多边教育互联互通机制的实证文献。 |
 > | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 结合中柬高教个案实证揭示“一带一路”作为催化剂，在经贸投资拉动下放大现代生活、前沿科技与发展模式等软实力资源的机制。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与[[Tianxia Heuristic\|天下观]]视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
-> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性文献。 |
+> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性[[Document\|文献]]。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 结合区域自贸与全面战略伙伴关系大局，系统论述共建“一带一路”走廊下职业教育高水平开放的四级政策链条与产教生态协同路径（pp. 286–301）。 |
 
 ---

@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/national-security
   - theme/technology-policy
 related_concepts:
+  - "[[Document]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
   - "[[Winner's Fallacy]]"
@@ -37,13 +38,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定性
-> 爱因斯坦-[[Leo Szilard|西拉德]]信函（Einstein–Szilárd letter）是20世纪科学史与国家安全战略史上最具转折意义的历史文献之一。1939年8月2日，物理学家阿尔伯特·爱因斯坦（Albert Einstein）与[[Leo Szilard|利奥·西拉德]]（Leo Szilard）在纽约长岛起草密信呈送美国总统[[Michael Fullan|富兰]]克林·D. 罗斯福（[[Franklin D. Roosevelt]]），敦促美国政府警惕铀核裂变释放巨大能量并被纳粹德国制造成新型极强威力炸弹的严峻危险，呼吁政府与科学界建立永久联络机制，由此直接拉开了美国政府主导核武研发并最终促成[[Manhattan Project|曼哈顿工程]]的历史序幕。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
+> 爱因斯坦-[[Leo Szilard|西拉德]]信函（Einstein–Szilárd letter）是20世纪科学史与国家安全战略史上最具转折意义的历史[[Document|文献]]之一。1939年8月2日，物理学家阿尔伯特·爱因斯坦（Albert Einstein）与[[Leo Szilard|利奥·西拉德]]（Leo Szilard）在纽约长岛起草密信呈送美国总统[[Michael Fullan|富兰]]克林·D. 罗斯福（[[Franklin D. Roosevelt]]），敦促美国政府警惕铀核裂变释放巨大能量并被纳粹德国制造成新型极强威力炸弹的严峻危险，呼吁政府与科学界建立永久联络机制，由此直接拉开了美国政府主导核武研发并最终促成[[Manhattan Project|曼哈顿工程]]的历史序幕。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1939年8月2日签署于纽约州长岛北叉半岛佩科尼克，1939年10月11日由总统顾问亚历山大·萨克斯（Alexander Sachs）当面呈递给白宫椭圆形办公室。

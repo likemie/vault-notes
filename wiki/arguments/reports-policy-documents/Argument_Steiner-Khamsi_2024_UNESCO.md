@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 115
+argument_related_count: 116
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -105,6 +105,7 @@ related_methods:
   - "[[Deliberative Policy Dialogue]]"
 related_persons:
   - "[[Christopher Lubienski]]"
+  - "[[Diana Crane]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Global Education Cooperation Mechanism]]"
@@ -163,7 +164,7 @@ related_facts:
   - "[[Lemann Foundation]]"
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 ---
 
@@ -266,7 +267,7 @@ updated: 2026-10-29
 > 证据利用在政策全生命周期中表现出严重的前端倾斜。大约半数问卷受访者确认，研究证据仅在政策初始设计与立项阶段受到密集调阅；一旦进入涉及各利益主体博弈、中层官僚协调与基层学校落地的规划执行与规模推广阶段，针对实施过程的科学研究支持便迅速陷入真空状态。
 
 > [!case] 政策全生命周期中的实施科学赤字与规模化框架（McLean & Gargani, 2019）
-> - **政策周期的实施盲区** 罗伯特·麦克莱恩（Robert McLean）与约翰·加尔加尼（John Gargani, 2019）的规模化[[Analytic Framework|分析框架]]指出，公共干预从概念验证走向全面推广包含向上拓展（Scaling Up，政策制度化）、向外拓展（Scaling Out，覆盖人数与地域扩大）以及向深拓展（Scaling Deep，价值观念与文化规范重塑）（p. 17）。
+> - **政策周期的实施盲区** 罗伯特·麦[[Diana Crane|克莱恩]]（Robert McLean）与约翰·加尔加尼（John Gargani, 2019）的规模化[[Analytic Framework|分析框架]]指出，公共干预从概念验证走向全面推广包含向上拓展（Scaling Up，政策制度化）、向外拓展（Scaling Out，覆盖人数与地域扩大）以及向深拓展（Scaling Deep，价值观念与文化规范重塑）（p. 17）。
 > - **微观实证脱离中观规划** 当前绝大多数实验干预（如小型[[Randomised Controlled Trials|随机对照试验]]）仅能证明微观试点在理想受控状态下的有效性；在实施智库与测评研发机构（如研发早期阅读评估的 [[RTI International]] 以及深耕危机情境教育数据建模的 [[FHI 360]]）协助双边多边机构推进的国际发展项目中，一旦面对庞大的国家公立教育系统，由于缺乏对财政[[Absorptive Capacity|吸收能力]]、教师工作负荷以及地方官僚博弈的中观规划研究，这些试验结论往往在推广阶段彻底失效（pp. 17–19, 57）。
 > - **区域大规模测评的动员潜能（[[Regional Large-Scale Assessments|RLSAs]]）** 报告指出，经合组织与[[IEA|国际教育成就评价协会]]的全球测评，或者[[Regional Large-Scale Assessments|区域大规模学业成就测评]]（Regional Large-Scale Assessments, RLSAs，如非洲的 [[SACMEQ]] 与 [[PASEC]]、拉丁美洲的 [[LLECE]]、东南亚的 [[SEA-PLM]] 及太平洋岛国的 [[PILNA]]），高度适合用于激发公众意识并为重大变革争取政治支持，在动员政治关注方面展现出极强的情境合法性（p. 16）。
 > - **全球[[Reform Fatigue|改革疲惫]]与中观治理转向（Bromley et al., 2021）** 帕特丽夏·布罗姆利等学者对 1960–2017 年间 147 国 6,700 项教育改革的大数据分析表明，新自由主义全球宏观教育改革在 2000 年左右达峰后陷入停滞，全球教育治理步入深度的[[Reform Fatigue|教育改革疲惫]]（Reform Fatigue）与消化巩固期；多边机构因而从推动自上而下的宏观新立法，转向聚焦于中观层级（meso-level）与基层学校的创新规模化（pp. 16–17）。

@@ -12,10 +12,10 @@ summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 26
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1967"
 died: ""
 lifespan: "1967–至今"
@@ -27,14 +27,28 @@ tags:
   - theme/statistical-physics
 related_concepts:
   - "[[Metascience]]"
+  - "[[Joint Faculty Appointments]]"
+  - "[[Paradigm]]"
+  - "[[Emergence]]"
+  - "[[Coauthorship Network]]"
+  - "[[Team Science]]"
+  - "[[Document]]"
+  - "[[Predictive Validity]]"
 related_theories:
-  - "[[Preferential Attachment in Academia]]"
+  - "[[Random Impact Rule]]"
   - "[[Q-Model]]"
+  - "[[Burstiness in Human Activities]]"
+  - "[[Preferential Attachment in Academia]]"
 related_methods:
+  - "[[Quantitative Research]]"
+  - "[[Q-Factor]]"
+  - "[[Bibliometric Analysis]]"
+  - "[[Shockley's Multiplicative Hurdle Model]]"
   - "[[h-Index]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
+  - "[[William Shockley]]"
   - "[[Jorge E. Hirsch]]"
   - "[[Derek de Solla Price]]"
 related_facts:
@@ -44,7 +58,6 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -55,10 +68,10 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 匈牙利裔美籍统计物理学家与网络科学家，东北大学罗伯特·格雷·道奇网络科学讲席教授、杰出大学教授，复杂网络研究中心（CCNR）创始主任，哈佛大学医学院医学系教授。
-> - **核心角色** 当代网络科学（Network Science）的奠基宗师与科学学量化研究的领军学者，以发现无标度网络拓扑结构与优先连接动力学法则享誉国际学术界。
-> - **代表贡献** 创立无标度网络理论与 BA 优先连接模型（[[Preferential Attachment in Academia|优先连接机制]]），提出科研生涯学术影响力的随机影响法则与 [[Q-Model|Q 模型]]，与[[Dashun Wang|王大顺]]合著现代科学学经典专著《科学学》（*The Science of Science*）。
+> - **核心角色** 当代网络科学（Network Science）的奠基宗师与科学学[[Quantitative Research|量化研究]]的领军学者，以发现无标度网络拓扑结构与优先连接动力学法则享誉国际学术界。
+> - **代表贡献** 创立无标度网络理论与 BA 优先连接模型（优先连接机制），提出科研生涯学术影响力的[[Random Impact Rule|随机影响法则]]与 [[Q-Model|Q 模型]]，与[[Dashun Wang|王大顺]]合著现代科学学经典专著《科学学》（*The [[Metascience|Science of Science]]*）。
 
-> [!citation-card] 巴拉巴西论学术评价中的实质成就与承认网络
+> [!citation-card] [[Albert-László Barabási|巴拉巴西]]论学术评价中的实质成就与承认网络
 > 业绩代表学者个体在科学探索中产出的客观工作，而成功代表学术共同体对此项工作赋予的承认与可见度。因为科学业绩受个体认知与精力的物理限制难以无休止倍增，而网络拓扑中的集体承认在优先连接的作用下能够呈现指数级富集，学术影响力本质上是由学术关系网络共同决定的集体现象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 2–4)]]
 >
 > *Performance is about what you do, how well you run, or what you discover. Success is a collective measure of how a community responds to that performance... because performance is bounded, but success is unbounded.*
@@ -73,25 +86,25 @@ updated: 2026-10-30
 > - **1994–1995** 在 IBM 托马斯·J·沃森研究中心从事博士后研究。
 > - **1995–2007** 任教于圣母大学物理系，历任助理教授、副教授与霍夫曼物理学讲席教授。
 > - **1999** 在《科学》（*Science*）发表划时代论著，与雷卡·阿尔伯特（Réka Albert）提出无标度网络与优先连接机制（BA 模型）。
-> - **2007–至今** 加入东北大学出任网络科学杰出大学教授，创立复杂网络研究中心（CCNR），并在哈佛大学医学院担任联合教职。
+> - **2007–至今** 加入东北大学出任网络科学杰出大学教授，创立复杂网络研究中心（CCNR），并在哈佛大学医学院担任[[Joint Faculty Appointments|联合教职]]。
 > - **2016** 在《科学》（*Science*）发表奠基性论著，形式化提出量化科研生涯学术影响力的 Q 模型。
 > - **2021** 与王大顺在剑桥大学出版社出版专著《科学学》（*The Science of Science*）。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
 
 ---
 
 > [!thought-timeline] 思想发展
-> - **1999–2005 — 复杂网络拓扑与优先连接期** 突破传统随机图论范式，揭示真实世界网络普遍具备幂律度分布。
->   - **代表著作** *Emergence of scaling in random networks* (1999); *Linked: The New Science of Networks* (2002)。
->   - **关键概念／方法** [[Preferential Attachment in Academia|优先连接机制]]、无标度网络拓扑、幂律度分布。
+> - **1999–2005 — 复杂网络拓扑与优先连接期** 突破传统随机图论[[Paradigm|范式]]，揭示真实世界网络普遍具备幂律度分布。
+>   - **代表著作** *[[Emergence]] of scaling in random networks* (1999); *Linked: The New Science of Networks* (2002)。
+>   - **关键概念／方法** 优先连接机制、无标度网络拓扑、幂律度分布。
 >   - **阶段转向** 从平衡态统计物理模型转向以演化规则驱动的动态网络形成机理，将“富者愈富”的马太效应予以精确数理建模。
 > - **2005–2015 — 人类行为动力学与网络医学期** 探索复杂网络在时间非泊松特征与生物分子系统中的微观应用。
 >   - **代表著作** *The origin of bursts and heavy tails in human dynamics* (2005); *Network Medicine* (2011)。
->   - **关键概念／方法** 爆发性（Burstiness）、人类动力学非均匀性、亚细胞互作网络。
+>   - **关键概念／方法** 爆发性（[[Burstiness in Human Activities|Burstiness]]）、人类动力学非均匀性、亚细胞互作网络。
 >   - **阶段转向** 从宏观网络拓扑静态测度深入到微观事件发生的时间序列非线性模式。
 > - **2016–至今 — 现代科学学与成功动力学期** 系统聚焦科学界的学者职业生涯、创新网络与学术资源配置规律。
 >   - **代表著作** *Quantifying the evolution of individual scientific impact* (2016); *The Formula* (2018); *The Science of Science* (2021)。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
->   - **关键概念／方法** [[Q-Model|Q 因子模型]]、随机影响法则、[[Metascience|科学学]]。
->   - **阶段转向** 融合海量引文大数据与因果计量分析，建立贯通个体生产力、合著网络演化与社会声望承认的完整科学学理论大厦。
+>   - **关键概念／方法** [[Q-Factor|Q 因子]]模型、随机影响法则、科学学。
+>   - **阶段转向** 融合海量引文大数据与因果计量分析，建立贯通个体生产力、[[Coauthorship Network|合著网络]]演化与社会声望承认的完整科学学理论大厦。
 
 ---
 
@@ -106,19 +119,19 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创性地将复杂网络动力学引入文献计量学，彻底改变了以往将引文视为孤立计数孤岛的传统范式，建立了以节点度、拓扑连接与信息传播为基础的现代科学学理论体系。
-> - **方法路径** 倡导基于数理可解析模型（如 BA 优先连接模型、肖克利乘法跨栏模型、Q 模型）结合全量实际数据拟合的研究路线，确立了理论推导与经验检验紧密啮合的方法标准。
+> - **理论路径** 开创性地将复杂网络动力学引入[[Bibliometric Analysis|文献计量学]]，彻底改变了以往将引文视为孤立计数孤岛的传统范式，建立了以节点度、拓扑连接与信息传播为基础的现代科学学理论体系。
+> - **方法路径** 倡导基于数理可解析模型（如 BA 优先连接模型、[[Shockley's Multiplicative Hurdle Model|肖克利乘法跨栏模型]]、Q 模型）结合全量实际数据拟合的研究路线，确立了理论推导与经验检验紧密啮合的方法标准。
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著系统阐述科学学全景框架，涵盖科学生产力稳态与肖克利模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子与热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）以及团队科学分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著系统阐述科学学全景框架，涵盖科学生产力稳态与[[William Shockley|肖克利]]模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子与热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）以及[[Team Science|团队科学]]分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）。
 
 ---
 
 > [!person-network] 关系网络
 > - **指导学者与合作网络** [[Dashun Wang]] — 博士毕业生与长期紧密合作学者，二人共同撰写《科学学》专著并主导当代科学学实证研究。
 > - **学术对话与同行研讨** [[Jorge E. Hirsch]] — 深入检验并拓展希尔施 h 指数理论模型，提出基于引文跨越效应与团队合署的修正方案。
-> - **理论渊源** [[Derek de Solla Price]] — 继承并深化普赖斯关于科学文献指数激增与学术累积优势的经典命题。
+> - **理论渊源** [[Derek de Solla Price]] — 继承并深化普赖斯关于科学[[Document|文献]]指数激增与学术累积优势的经典命题。
 > - **核心数据基座** [[Microsoft Academic Graph]] — 依托其百亿级异构引文网络支撑 Q 模型拟合与科学学实证检验。
 
 ---
@@ -136,4 +149,4 @@ updated: 2026-10-30
 > | [[Metascience]] | 概念 | 将统计物理与复杂网络引入科学学，确立当代科学学理论与实证架构。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 提出无标度网络生长的优先连接模型，从数理上解释学术引文极度富集机理。 |
 > | [[Q-Model]] | 理论 | 创立科学家学术生涯影响力解构的 Q 因子模型与随机影响法则。 |
-> | [[h-Index]] | 方法 | 建立 h 指数增长解析动力学模型，厘清其在不同学科与职业生涯中的预测效度。 |
+> | [[h-Index]] | 方法 | 建立 h 指数增长解析动力学模型，厘清其在不同学科与职业生涯中的[[Predictive Validity\|预测效度]]。 |

@@ -8,9 +8,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 issuing_organization: ""
 tags:
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Evaluator Independence]]"
 related_theories:
+  - "[[Discursive Institutionalism]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Implementation and Process Evaluation]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-26
 > [!policy-design] 方案设计
 > - **项目目标** 推动高贫困学校进行全方位重构，[[Integrated Curriculum Programs|整合课程]]教材、课堂教学、形成性测评、全员专业发展与家校协同治理，系统提升全员学业达标率。
 > - **覆盖对象** 全美 [[Title I of the Elementary and Secondary Education Act\|Title I]] 高贫困公立中小学校及其全体在校师生。
-> - **干预模式** 涵盖 9 项法定核心要素的一体化全校模式，代表性方案包括全员成功（[[Success for All]]，SFA）、[[Direct Instruction\|直接教学]]（[[Direct Instruction]]，DI）、美国新学校（New American Schools）及加速学校（Accelerated Schools）等。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
+> - **干预模式** 涵盖 9 项法定核心要素的一体化全校模式，代表性方案包括全员成功（[[Success for All]]，SFA）、[[Direct Instruction\|直接教学]]（[[Direct Instruction]]，[[Discursive Institutionalism|DI]]）、美国新学校（New American Schools）及加速学校（Accelerated Schools）等。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **法定证据门槛** 明确要求所选方案必须“经过实践检验”（Proven），即具备基于实验组与对照组比较、采用标准化测验且经同行评议支持的实证有效性证据。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 
 > [!citation-card] Obey-Porter 修正案核心法定条款

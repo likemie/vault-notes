@@ -10,9 +10,9 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - region/north-america
@@ -21,6 +21,7 @@ tags:
   - theme/educational-finance
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Teacher Support for Students]]"
   - "[[Theory of Knowledge]]"
   - "[[International Schools]]"
   - "[[Advanced Placement Program]]"
@@ -36,7 +37,7 @@ related_theories: []
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-10-22
 > |---|---|---|
 > | **资金** | 向北美政府、基金会和企业筹资，保留商定比例的学校订阅费。 | 通过考试服务、课程开发和全球承认工作取得费用。 |
 > | **学校关系** | 组织介绍会、学校访问、申请与本地推广。 | 授权学校并维持国际课程标准。 |
-> | **教师支持** | 举办教师培训工作坊并补贴部分食宿与旅行。 | 派出主考官、考官和[[Theory of Knowledge\|知识论]]协调人员参与培训。 |
+> | **[[Teacher Support for Students\|教师支持]]** | 举办教师培训工作坊并补贴部分食宿与旅行。 | 派出主考官、考官和[[Theory of Knowledge\|知识论]]协调人员参与培训。 |
 > | **高教关系** | 借助董事会中的大学招生主管持续处理承认和分班。 | 在全球层面维护大学与政府承认。 |
 > | **治理** | 依法只对本身董事会负责，并按服务向 IBO 转移资金。 | 由国际理事会和执行机构控制课程与考试（pp. 140–147, 149–152）。 |
 

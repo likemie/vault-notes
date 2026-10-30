@@ -5,7 +5,7 @@ summary: "Kitwood发展的质性陈述收集与分析技术，通过15种生活�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
 related_methods:
+  - "[[Experience Sampling Method]]"
   - "[[Account Gathering]]"
   - "[[Cross-checking]]"
   - "[[Member Tests]]"
@@ -29,11 +30,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Qualitative Experience-Sampling Method
-> 质性经验取样法（Qualitative Experience-Sampling Method）是由 Kitwood（1977）发展的一种**质性[[Account Gathering\|陈述收集]]与分析技术**。该方法通过向参与者提供 15 种生活情境列表作为提示，引发他们回忆和叙述在这些情境中的个人经历，然后基于录音访谈进行详细的陈述分析。因为该方法避免审问式提问，浮现的材料比结构化访谈获得的材料更少组织化，因而要求研究者极其熟悉访谈内容，并逐步发展尝试性解释图式，在研究进行中不断修改、确认或[[Falsification\|证伪]]。
+> 质性[[Experience Sampling Method|经验取样法]]（Qualitative Experience-Sampling Method）是由 Kitwood（1977）发展的一种**质性[[Account Gathering\|陈述收集]]与分析技术**。该方法通过向参与者提供 15 种生活情境列表作为提示，引发他们回忆和叙述在这些情境中的个人经历，然后基于录音访谈进行详细的陈述分析。因为该方法避免审问式提问，浮现的材料比结构化访谈获得的材料更少组织化，因而要求研究者极其熟悉访谈内容，并逐步发展尝试性解释图式，在研究进行中不断修改、确认或[[Falsification\|证伪]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 参与者在特定生活情境中的个人经历、感受、思想和行动，以及他们如何赋予这些经历以意义。

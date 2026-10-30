@@ -11,7 +11,7 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Epistemic Governance]]"
+  - "[[Boundary Spanner]]"
   - "[[Research Question]]"
   - "[[PICO Framework]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-26
 > [!actor-grid] 组织治理架构
 > - **执行领导层** 由马凯雷雷大学知名公共卫生与政策学者担任主任，统领全职快速响应团队。
 > - **专业方法学团队** 由掌握系统综述、统计[[Meta-analysis|元分析]]、[[Qualitative Interview|质性访谈]]与卫生经济学的专职研究员组成。
-> - **政府与议会联络处** 配备专职政策转译人（Knowledge Brokers），承担部委日常议程监测与官员需求挖掘。
+> - **政府与议会联络处** 配备专职政策转译人（[[Boundary Spanner|Knowledge Brokers]]），承担部委日常议程监测与官员需求挖掘。
 > - **国际顾问委员会** 由世界卫生组织、加拿大麦克马斯特大学健康论坛及全球南方学术盟友共同提供学术质控。
 
 ---

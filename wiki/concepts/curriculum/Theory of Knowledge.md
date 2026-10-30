@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 76
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[General Education]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
-  - "[[Geisteswissenschaften]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
@@ -103,7 +102,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -150,7 +149,7 @@ updated: 2026-10-29
 > 所有学生都要考察不同学科凭什么接受一个主张，量化在各领域具有怎样的力量和限制，道德、政治、审美与宗教信念建立在什么基础上，以及这些知识形式如何关联。共同性落在反思任务和论证要求上，课程材料可以来自学生已经学习的不同学科与课堂外经验。通识教育由知识覆盖面的广度转向思维方式和判断形式的广度。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 41–48)]]
 
 > [!chain-link] 从学科经验到跨情境迁移
-> - **获得学科经验** 学生先在历史、数学、自然科学、文学或[[Geisteswissenschaften|人文科学]]中实际运用证据、模型、解释和判断。
+> - **获得学科经验** 学生先在历史、数学、自然科学、文学或人文科学中实际运用证据、模型、解释和判断。
 > - **显化知识规则** TOK 要求学生说明各学科如何形成主张、接受何种证据，以及方法和量化具有哪些边界。
 > - **比较知识形式** 学生把历史解释、科学概念、数学真理和价值判断放在同一反思空间中，识别其相似处与差异。
 > - **形成个人综合** 学生连接各科与生活经验，形成可以说明理由、承认视角限制并检验自身偏见的判断。
@@ -258,7 +257,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > [!taxonomy] 五组主题依次处理知识媒介、标准、领域、价值与真理
 > 1. **语言、思想与知识** 考察语言和思想在知识形成中的作用。
 > 2. **逻辑严谨性与知识** 考察一项主张成为知识时需要满足的逻辑严谨要求。
-> 3. **知识体系** 分别研究数学、自然科学、[[Geisteswissenschaften|人文科学]]和历史的知识形态。
+> 3. **知识体系** 分别研究数学、自然科学、人文科学和历史的知识形态。
 > 4. **价值判断与知识** 分别讨论道德判断、政治判断和审美判断。
 > 5. **知识与真理** 讨论知识主张与真理之间的关系。附录规定总体框架，学科指南负责展开各主题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Appendix 1, p. 223)]]
 
@@ -398,7 +397,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 >
 > - **1965–1970 年的初始课程制度化**
 >
->   Gerard Renaud 与 Dina Dreyfus 把 TOK 发展为独立必修的跨学科核心。1967 年塞夫尔会议接受六学科、程度和整体文凭等总体原则，1970 年首批正式考试又使课程进入真实文凭运行。第四版总指南保存的八个板块显示，初始课程已经覆盖逻辑、科学、数学、[[Geisteswissenschaften|人文科学]]、历史、价值判断与真理问题。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 29–31)]] [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
+>   Gerard Renaud 与 Dina Dreyfus 把 TOK 发展为独立必修的跨学科核心。1967 年塞夫尔会议接受六学科、程度和整体文凭等总体原则，1970 年首批正式考试又使课程进入真实文凭运行。第四版总指南保存的八个板块显示，初始课程已经覆盖逻辑、科学、数学、人文科学、历史、价值判断与真理问题。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 29–31)]] [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
 >
 > - **1970 年代至 1985 年的质量保障调整**
 >

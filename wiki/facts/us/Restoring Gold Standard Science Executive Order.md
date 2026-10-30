@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Cognitive Authority]]"
   - "[[Gold Standard Science]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
@@ -54,7 +55,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-10-26
 > - **学术自治的大幅收缩** 传统上，科研选题、假设验证与方法审议属于科学共同体的内在自主事务。该行政令将方法规范转化为行政直接干预科研选题的武器，导致学术自治由二战后[[Vannevar Bush|万尼瓦尔·布什]]模式下的“有条件自治”滑向高度政治化与安全化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 > - **契约关系的结构异化** 打破了[[Social Contract of Science|科学的社会契约]]中“国家出资、科学家自主探索、回馈长远公共利益”的默契，加速了科研体系向[[Technology-Oriented Social Contract|技术型社会契约]]的过渡，使基础研究面临短期行政效用与合规性双重挤压。
 > - **寒蝉效应与研发分化** 在公共卫生、环境科学和人文学科领域引发普遍的审查担忧与合规成本激增，迫使大学科研资源进一步向符合国家战略安全与确定性工程目标的关键技术聚集。
-> - **与[[Genesis Mission|创世纪计划]]配对的核验侧定位** 在 2026 年 7 月发布的白宫总统科学报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中，该行政令被官方定位为与人工智能旗舰计划“创世纪计划”并行的**核验侧核心支柱**。报告指出，当 AI 生成科学假设的边际成本骤降时，若科学文献本身充满无法复现的错误结论，盲目扩大科研产出将产生灾难性后果；必须依托该行政令推行机器可读的代码复现包（Machine-readable Replication Packages）、透明数据共享与全流程实验方法记录，使核验能力以与生成能力同等规模扩大。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. vi, 64–65)]]
+> - **与[[Genesis Mission|创世纪计划]]配对的核验侧定位** 在 2026 年 7 月发布的白宫总统科学报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中，该行政令被官方定位为与人工智能旗舰计划“创世纪计划”并行的**核验侧核心支柱**。报告指出，当 AI 生成科学假设的边际成本骤降时，若科学[[Document|文献]]本身充满无法复现的错误结论，盲目扩大科研产出将产生灾难性后果；必须依托该行政令推行机器可读的代码复现包（Machine-readable Replication Packages）、透明数据共享与全流程实验方法记录，使核验能力以与生成能力同等规模扩大。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. vi, 64–65)]]
 
 > [!debates] 核心争议交锋
 >

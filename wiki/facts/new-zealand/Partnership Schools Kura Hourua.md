@@ -12,7 +12,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - venture-philanthropy
   - network-governance
 related_concepts:
+  - "[[Charter Schools]]"
   - "[[Policy Window]]"
   - "[[Discourse]]"
   - "[[Socioeconomic Status]]"
@@ -50,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 核心定位
-> 伙伴学校（Partnership Schools Kura Hourua, PSKH）是新西兰于 2011 年至 2018 年间推行的本地化特许学校（Charter Schools）制度，属于由营利性商业公司或非营利慈善信托根据教育部长批准的商业合同独立运营、由国家财政全额按人头资助但享有去规制豁免特权的公费私营办学机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 20)]]
+> 伙伴学校（Partnership Schools Kura Hourua, PSKH）是新西兰于 2011 年至 2018 年间推行的本地化[[Charter Schools|特许学校]]（Charter Schools）制度，属于由营利性商业公司或非营利慈善信托根据教育部长批准的商业合同独立运营、由国家财政全额按人头资助但享有去规制豁免特权的公费私营办学机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 20)]]
 
 > [!policy-context] 制度背景
 > - **政治契机与交换筹码** 2011 年 12 月新西兰大选后，执政的国家党（National Party）因未取得国会绝对多数，被迫与持自由意志主义立场的行动党（ACT Party）签署《信任与供给协议》（Confidence and Supply Agreement）。行动党将引入英美模式特许学校作为联合执政不可退让的政治交换条件，瞬间撬开了国家[[Policy Window|政策之窗]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 20)]]

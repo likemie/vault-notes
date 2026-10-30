@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -39,12 +39,13 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
   - "[[National Institute of Standards and Technology]]"
+  - "[[PISA]]"
   - "[[National Academy of Sciences]]"
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[CHIPS and Science Act]]"
   - "[[DARPA]]"
   - "[[National Science and Technology Council]]"
-  - "[[PISA]]"
+  - "[[ARPA-E]]"
 related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
@@ -52,7 +53,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -92,9 +93,9 @@ updated: 2026-10-27
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[United States Congress|美国国会]]与联邦行政署（布什与奥巴马内阁）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
-> - **执行主体** [[National Science Foundation|国家科学基金会]]（NSF）、[[Department of Energy|能源部]]（DOE）科学办公室、[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> - **执行主体** 国家科学基金会（NSF）、能源部（DOE）科学办公室、[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **适用对象** [[Research Universities|研究型大学]]科研团队、国家实验室网络、K-12 阶段 STEM 教师与青年学者。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
-> - **政策工具** 授权预算倍增计划、ARPA-E 前沿项目、Robert Noyce 教师奖学金与跨学科创新资助。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
+> - **政策工具** 授权预算倍增计划、[[ARPA-E]] 前沿项目、Robert Noyce 教师奖学金与跨学科创新资助。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
 > [!pathways] 实施路径
 > - **联邦危机动员与两党立法** 联邦决策层在法案通过前援引国际学生评估（PISA）与跨国经济科技竞争数据动员危机感，跨党派达成强化 STEM 与科研投入的授权共识。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 66)]]

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking]]"
+  - "[[Early Literacy Approaches]]"
   - "[[Teacher Professional Agency]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心业务矩阵与学术资产
 > - **权威学术期刊集群**
->   - 《语言艺术》（*Language Arts*）——面向小学早期读写教学的旗舰期刊。
+>   - 《语言艺术》（*Language Arts*）——面向小学[[Early Literacy Approaches|早期读写教学]]的旗舰期刊。
 >   - 《英语杂志》（*English Journal*）——面向中学英语教师的经典期刊。
 >   - 《大学写作与交流》（*College Composition and Communication, CCC*）。
 > - **抵制联邦规制标志性联合声明（1997）** 联合 NRC 与 NCRLL 代表逾 10 万名教育工作者向国会发表的严正声明，提出了著名的“三个绝不”原则。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]

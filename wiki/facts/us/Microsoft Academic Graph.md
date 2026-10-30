@@ -11,9 +11,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2015–2021"
 initiator_organization: "Microsoft Research"
@@ -27,15 +27,20 @@ tags:
   - theme/open-science
   - region/us
 related_concepts:
+  - "[[Document]]"
   - "[[Metascience]]"
+  - "[[Tracking]]"
+  - "[[Creativity]]"
+  - "[[Open-Mindedness]]"
   - "[[Team Science]]"
+  - "[[Paradigm]]"
   - "[[Data Infrastructure]]"
   - "[[Scientific Productivity]]"
 related_theories:
   - "[[Q-Model]]"
 related_methods:
-  - "[[Author Name Disambiguation]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Author Name Disambiguation]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -44,13 +49,13 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 微软学术图谱（Microsoft Academic Graph, MAG）是由微软研究院（Microsoft Research）主导开发的大型知识图谱与学术文献元数据库。项目以跨学科机器可读网络形式整合全球科研实体，为计算文献计量学、跨学科知识流动分析以及现代[[Metascience|科学学]]（Science of Science）的实证研究提供公共数据基座。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9, 136)]]
+> 微软学术图谱（Microsoft Academic Graph, MAG）是由微软研究院（Microsoft Research）主导开发的大型知识图谱与学术[[Document|文献]]元数据库。项目以跨学科机器可读网络形式整合全球科研实体，为计算[[Bibliometric Analysis|文献计量学]]、跨学科知识流动分析以及现代科学学（[[Metascience|Science of Science]]）的实证研究提供公共数据基座。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9, 136)]]
 
 > [!program-context] 项目背景
 > - **官方门户与项目存档** 官方项目归档主页为 [Microsoft Academic Graph (Project Archive)](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)；社区继任开放数据门户为 [OpenAlex](https://openalex.org/)。
@@ -73,13 +78,13 @@ updated: "2026-10-30"
 > [!citation-card] 大数据科学学对全量图谱的依赖
 > 对跨越一个世纪的 5,300 万名研究者与近 9,000 万篇文献的量化追踪证实，文献总量与科研人员规模同步呈指数级扩张。学界依托微软学术图谱与科学引文索引等全量数据库，才得以首次在宏观尺度上确证：个体学者的年均发文量百年来始终维持在每年约两篇的认知稳态，宏观爆炸完全由科研队伍扩张驱动。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9, 169)]]
 >
-> *Tracking 53 million scientists and nearly 90 million papers over the past century confirms that the exponential growth in the number of scientific papers has gone hand-in-hand with an exponential increase in the number of scientists... confirming that scientists’ individual productivity has remained remarkably constant over the past century.*
+> *[[Tracking]] 53 million scientists and nearly 90 million papers over the past century confirms that the exponential growth in the number of scientific papers has gone hand-in-hand with an exponential increase in the number of scientists... confirming that scientists’ individual productivity has remained remarkably constant over the past century.*
 
 ---
 
 > [!dev-timeline] 项目推进历程
 > - **2015 年 — 系统架构发布与全量开源** 微软研究院在国际学术会议上正式公开微软学术知识图谱技术规范，向科研界免费开放全量原始数据压缩包下载。
-> - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（Sinatra et al., 2016）、创造力迸发（Liu et al., 2018）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
+> - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（Sinatra et al., 2016）、[[Creativity|创造力]]迸发（Liu et al., 2018）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 > - **2021 年 — 宣布退役与向开放科学社区移交** 微软官方于 2021 年 5 月宣布项目将在年底停运；全球开放科学组织依托其最后一版全量数据（截至 2021 年 12 月 31 日）启动数据归档与继任基础设施建设。
 > - **2022 年至今 — 衍生 OpenAlex 开放生态** 非营利机构 OurResearch 承接 MAG 的实体拓扑模式与唯一标识符体系，无缝推出全开源学术基础设施 [OpenAlex](https://openalex.org/)，使 MAG 的数据遗产得以长期维系。
 
@@ -94,7 +99,7 @@ updated: "2026-10-30"
 > [!pathways] 实施路径与管理
 > - **跨模态管道集成** 依托必应海量网页抓取学术预印本、期刊官网、学术简历与机构主页，提取结构化元数据。
 > - **云端共享与可重现机制** 借助 Azure 云平台提供统一数据下载，科研团队可利用分布式计算集群（如 Apache Spark）直接挂载分析，解决了以往大规模文献计量难以在本地单机复现的硬件瓶颈。
-> - **数据开放性承诺** 采用高度宽松的 ODC-BY 协议，允许研究人员在署名来源的前提下任意分发、再加工或商业化衍生，为科学计量学研究建立了公开共享的数据公地。
+> - **数据[[Open-Mindedness|开放性]]承诺** 采用高度宽松的 ODC-BY 协议，允许研究人员在署名来源的前提下任意分发、再加工或商业化衍生，为科学计量学研究建立了公开共享的数据公地。
 
 ---
 
@@ -120,7 +125,7 @@ updated: "2026-10-30"
 > > 科技巨头主导的大型基础设施面临企业商业战略调整带来的骤停风险。
 > >
 > > - **批评观点** 微软单方面宣布终止运营 MAG，导致大量依赖其月度更新的科研项目和分析管线陷入停摆，暴露出依赖营利性科技巨头维系科研公共产品的不稳定性。
-> > - **回应辩护** 微软在停运前提前数月公开通告，并发布最终完备全量转储，更以开放版权直接促成非营利继承者 OpenAlex 的建立，完成了从企业孵化向社区自治的范式交接。
+> > - **回应辩护** 微软在停运前提前数月公开通告，并发布最终完备全量转储，更以开放版权直接促成非营利继承者 OpenAlex 的建立，完成了从企业孵化向社区自治的[[Paradigm|范式]]交接。
 >
 > > [!axis] 爬网元数据噪声与文献类型边界争议
 > > 相比 WoS 等严格人工筛选数据库，全网自动化爬取的元数据在部分非英语文献中存在漏标或错标。
@@ -129,7 +134,7 @@ updated: "2026-10-30"
 > > - **实证应对** 科学学研究通常设置发表于同行评议期刊或权威会议的过滤门槛，结合引文网络拓扑结构过滤边缘低质节点。
 
 > [!lessons] 经验教训与启示
-> - **知识公地的不可逆价值** MAG 的实践证明，开放共享的底层数据基础设施能为一门新兴学科（科学学）的爆发式发展提供强大的动力源泉。
+> - **知识公地的不可逆价值** MAG 的实践证明，开放共享的底层[[Data Infrastructure|数据基础设施]]能为一门新兴学科（科学学）的爆发式发展提供强大的动力源泉。
 > - **向非营利公共事业转型的必要性** 基础科学数据基础设施必须逐步脱离单一商业实体的资金与战略绑定，依托高校联合体或基金会构建具备长期持久性的去中心化治理结构。
 
 ---

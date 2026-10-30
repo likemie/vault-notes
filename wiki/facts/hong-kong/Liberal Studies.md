@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Externalization]]"
   - "[[General Education]]"
+  - "[[Inquisitive Mode of Governance]]"
   - "[[Critical Thinking]]"
   - "[[Constructivist Paradigm]]"
   - "[[Multiplicity]]"
@@ -42,9 +43,9 @@ related_facts:
   - "[[Gaokao]]"
   - "[[Institute of Education Sciences]]"
   - "[[Citizenship and Social Development]]"
+  - "[[National Education]]"
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
-  - "[[National Education]]"
   - "[[My Pledge to Act]]"
   - "[[Youth Development Blueprint]]"
 related_arguments:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 政策核心
-> [[General Education\|通识教育]]科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位探究模式，不设官方统编教科书，通过独立专题探究（[[Institute of Education Sciences\|IES]]）及分级外部考评，旨在培养学生的[[Critical Thinking\|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 485]]）。
+> [[General Education\|通识教育]]科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位[[Inquisitive Mode of Governance|探究模式]]，不设官方统编教科书，通过独立专题探究（[[Institute of Education Sciences\|IES]]）及分级外部考评，旨在培养学生的[[Critical Thinking\|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 485]]）。
 
 > [!policy-design] 政策设计
 > - **设计目标** 克服灌输式应试教学，引导学生从多角度分析争议性社会议题，培养理性沟通、尊重证据、包容不同价值观的开放态度（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。
@@ -104,7 +105,7 @@ updated: 2026-10-22
 >   - 2005 特区政府发布新高中学制行动计划，确立3-3-4改革路线图。
 > - **2009–2012 — 正式推行与国教争议**
 >   - 2009-09 LS作为新高中核心必修科全面推行，Mary James等海外专家参与课程开发及国际背书（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 480]]）。
->   - 2012 德育及国民教育科争议爆发，激发社会思辨，LS教材与探讨弹性被建制派指控阻碍人心回归。
+>   - 2012 德育及[[National Education|国民教育]]科争议爆发，激发社会思辨，LS教材与探讨弹性被建制派指控阻碍人心回归。
 > - **2014–2019 — 政治指控与舆论定性**
 >   - 2014 雨伞运动后，建制派和亲中媒体指责LS是煽动年轻人参与街头政治社运的罪魁祸首。
 >   - 2019-07 [[2019 Hong Kong Protests\|反修例运动]]爆发，中国内地官媒集中发文定性LS为香港问题的病根与教唆书，港府随后收紧控制并宣布对LS教材提供专业咨询（即变相教科书审查）（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 488–489]]）。

@@ -9,10 +9,10 @@ aliases:
 summary: "成人教育与学习科学中关于个体如何通过关键反思审视并重构既有心理假设、信念图式与参照框架，从而实现根本性视角转换的理论体系。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 29
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theme/adult-learning
   - theme/higher-education
@@ -36,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[Behaviorism]]"
   - "[[Cognitive Constructivism]]"
+  - "[[Legitimate Peripheral Participation]]"
   - "[[Social Justice Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-22
 > - **解释对象** 成人学习者如何超越单纯的信息积累与既有技能训练，在遭遇引发困惑的现实挑战时，通过批判性自省重构深层认知信念与世界观。
 > - **理论问题** 传统[[Behaviorism|行为主义]]与机械认知主义将学习窄化为外在行为习惯改变或知识库线性扩充，无法解释学习者价值观、专业身份与观察现实基本框架的质性跃迁。
 > - **理论类型** 成人学习与意识发展微观解释理论、[[Reflexivity|反思性]]教育设计指导框架。
-> - **知识位置** 植根于[[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）沟通行动理论与[[Paulo Freire|弗莱雷]]（Paulo Freire）[[Conscientization|批判意识觉醒]]思想，与[[Jean Piaget|皮亚杰]][[Cognitive Constructivism|认知建构主义]]（图式顺应）及莱夫与温格情境学习理论（[[Communities of Practice|实践共同体]]合法边缘参与）并列为现代高等教育与学者发展的核心认知基石。
+> - **知识位置** 植根于[[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）沟通行动理论与[[Paulo Freire|弗莱雷]]（Paulo Freire）[[Conscientization|批判意识觉醒]]思想，与[[Jean Piaget|皮亚杰]][[Cognitive Constructivism|认知建构主义]]（图式顺应）及莱夫与温格情境学习理论（[[Communities of Practice|实践共同体]]合法[[Legitimate Peripheral Participation|边缘参与]]）并列为现代高等教育与学者发展的核心认知基石。
 
 > [!claim] 核心判断
 > 转化学习理论（Transformative Learning Theory）主张学习的核心不仅是掌握新知，而是通过对既有习惯性假设（Assumptions）的批判性反思，引发个体“参照框架”（Frame of Reference，涵盖习惯心智与具体观点）的根本性视角转换（Transformation in Perspective）。在高等教育与跨学科科研团队建设中，转化学习促使理工科学者突破狭隘的技术还原论视界，体认国家科技产业背后的宏观治理与公共政策维度，从而根本重塑其科研定位与学术使命感。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]

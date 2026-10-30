@@ -12,7 +12,7 @@ summary: "依赖于前题回答来决定后续题目是否呈现或跳转的题�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -32,10 +32,12 @@ related_arguments:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Telephone Interview]]"
+related_facts:
+  - "[[ASEAN Credit Transfer System]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Contingency Questions
@@ -49,7 +51,7 @@ updated: 2026-10-29
 > [!citation-card] 条件题的三要素
 > 条件题依赖于对前面问题的回答。前面的问题充当过滤器，后面的问题是条件性的，是前面问题的分支。（pp. 151–153）
 >
-> *A contingency question is one that depends on the response to an earlier question: the earlier question acts as a filter and the later question is contingent on it, being a branch of the earlier question.*
+> *A contingency question is one that depends on the response to an earlier question: the earlier question [[ASEAN Credit Transfer System|acts]] as a filter and the later question is contingent on it, being a branch of the earlier question.*
 
 > [!boundary]- 与相近概念的区分
 > - 不等于[[Order Effects\|顺序效应]] — 顺序效应关注的是选项/题项呈现顺序对回答的无意偏差影响；条件题是研究者有意设计的逻辑跳转机制。但条件题的**位置效应**和**夹层效应**（Redline et al., 2002）与顺序效应共享"位置影响行为"的底层机制。

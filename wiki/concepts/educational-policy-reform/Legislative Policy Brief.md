@@ -7,7 +7,7 @@ aliases:
 summary: "结合实证研究综述、政策诉求与专业律师起草的法定示范条文于一体的专业政策沟通载体，遵循极简定调原则，旨在消除科学证据与立法语言之间的制度性隔阂，直接为国会与立法机构提供可操作的法案条文草案。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Heterogeneity]]"
   - "[[Sunset Provisions]]"
+  - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Research Utilization]]"
   - "[[Policy Window]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-22
 > [!tension-table] 政策传播中的“学术审慎”与“立法定调”张力
 > | 维度 | 学术界同行评议规范 | 立法机关决策生态现实 |
 > |---|---|---|
-> | **声明表述方式** | 艾尔森等（Elson et al., 2019）批评机构声明过于笃定，主张必须详尽陈述证据分歧与未解争议 | 政策声明绝非面面俱到的中庸文献，必须被精确地定调（pitched just right）以争取支持者与公众共鸣 |
+> | **声明表述方式** | 艾尔森等（Elson et al., 2019）批评机构声明过于笃定，主张必须详尽陈述证据分歧与未解争议 | 政策声明绝非面面俱到的中庸[[Document\|文献]]，必须被精确地定调（pitched just right）以争取支持者与公众共鸣 |
 > | **怀疑与免责的后果** | 严谨求实的职业美德，避免得出武断结论 | 夹带过多犹疑不决的怀疑与保留条件，成果将瞬间被决策者搁置，导致完全缺乏证据的极端政见占据立法上风 |
 > | **[[Value Neutrality\|价值中立]]的神话** | 假定研究可作为绝对超然且独立于政治的中立引擎 | 必须放下研究中立的神话，国会的平衡是通过两党各持证据辩论达成的，而非依赖学者自我抵消（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 46]]） |
 

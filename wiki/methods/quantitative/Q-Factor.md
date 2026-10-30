@@ -10,7 +10,7 @@ summary: "由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) �
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,21 +22,28 @@ tags:
   - theme/science-of-science
   - theme/scientometrics
 related_concepts:
+  - "[[Construct]]"
   - "[[Scientific Productivity]]"
   - "[[Predictive Validity]]"
   - "[[Research Impact]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Interaction Effect]]"
 related_theories:
   - "[[Q-Model]]"
-  - "[[Random Impact Rule]]"
-  - "[[Hot-Streak Model]]"
 related_methods:
+  - "[[Receiver Operating Characteristic Analysis]]"
+  - "[[Bibliometric Analysis]]"
+  - "[[Standard Error]]"
+  - "[[Author Name Disambiguation]]"
+  - "[[Sample Size Determination]]"
   - "[[h-Index]]"
   - "[[Career Shuffling Method]]"
-  - "[[Bibliometric Analysis]]"
-  - "[[Author Name Disambiguation]]"
 related_instruments: []
 related_persons:
   - "[[Roberta Sinatra]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
@@ -52,9 +59,9 @@ updated: 2026-10-30
 > 学者个体学术能力测度指标，通过对特定研究人员全生命周期发表成果的十年累积被引量取对数后计算几何均值，并扣除学科归一化基准，形式化定义为 $Q_i = e^{\langle \log c_{10, ij} \rangle - \mu_p}$。该指标旨在剥离单一热点成果的偶发随机性，度量学者在多项研究课题中持续输出高质量论著的稳态转化能力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
 
 > [!method-scope] 方法范围
-> - **测量或估计对象** 测度科学家的个体学术能力与稳态转化水平，关联构念 [[Scientific Productivity]]、[[Predictive Validity]] 与 [[Research Impact]]。
+> - **测量或估计对象** 测度科学家的个体学术能力与稳态转化水平，关联[[Construct|构念]] [[Scientific Productivity]]、[[Predictive Validity]] 与 [[Research Impact]]。
 > - **问题类型** 个体学术成就评价、代表作潜质测度与顶级学术荣誉（如诺贝尔奖）受奖概率预测。
-> - **分析单位** 个体科学家出版全序列（通常要求长周期发表成果篇数 $N \ge 10$）。
+> - **[[Unit of Analysis|分析单位]]** 个体科学家出版全序列（通常要求长周期发表成果篇数 $N \ge 10$）。
 > - **输入数据** 个体学者消歧后的完整学术出版时间序列，以及单篇成果发表后十年的累积被引频次（$c_{10}$）。
 > - **输出形式** 正实数标量（典型值在 1 至 10 之间；数值越大代表学术转化能力越强）。
 
@@ -66,18 +73,18 @@ updated: 2026-10-30
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 基于几何均值的设计有效避免了算术平均易受单一高引暴击成果扭曲的缺陷，聚焦于科研输出的“一致性与稳定性”，契合同行专家评审中对学者综合学术水准的定性感知。
+> - **[[Construct Validity|构念效度]]** 基于几何均值的设计有效避免了算术平均易受单一高引暴击成果扭曲的缺陷，聚焦于科研输出的“一致性与稳定性”，契合同行专家评审中对学者综合学术水准的定性感知。
 > - **研究者判断** 需确定长期引文统计窗口（默认采用 10 年窗口 $c_{10}$）与学科基准归一化常数 $\mu_p$。
-> - **有效性标准** 在受试者工作特征（Receiver Operating Characteristic, ROC）曲线中，以 Q 因子排序物理学者预测诺贝尔奖得主的曲线下面积（Area Under the Curve, AUC）达到最高，显著优于总引文数、最高单篇被引数及 [[h-Index|h 指数]]。
+> - **有效性标准** 在受试者工作特征（[[Receiver Operating Characteristic Analysis|Receiver Operating Characteristic]], ROC）曲线中，以 Q 因子排序物理学者预测诺贝尔奖得主的曲线下面积（Area Under the Curve, AUC）达到最高，显著优于总引文数、最高单篇被引数及 h 指数。
 > - **不声称回答的问题** 不能直接用于仅发表两三篇论著的初级青年学者；无法反映单一成果涉及的实际产业效益与社会应用价值。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis|文献计量分析]] 与学者职业生涯动力学建模。
-> - **前置步骤** [[Author Name Disambiguation|学者同名消歧]]、成果类型清洗（剔除勘误与会议摘要）、跨学科被引标准化。
+> - **前置步骤** 学者同名消歧、成果类型清洗（剔除勘误与会议摘要）、跨学科被引标准化。
 > - **变体与扩展** 早期与晚期阶段能力指标 $Q_{early}$ 与 $Q_{late}$，用于检测学者全生命周期能力的纵向漂移与稳态检验。
 
 > [!dev-timeline] 方法演化
-> - **2016 — 指标提出与数理求解** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、王大顺与艾伯特－拉斯洛·巴拉巴西（Albert-László Barabási）在《科学》（*Science*）论著中正式给出极大似然估计形式及其对数平均解析近似式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
+> - **2016 — 指标提出与数理求解** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）在《科学》（*Science*）论著中正式给出极大似然估计形式及其对数平均解析近似式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
 > - **2016 — 诺奖预测力竞争实证** 开展多指标预测竞赛，ROC 曲线实证表明 Q 因子的排序精度超越总被引、代表作被引和 h 指数，而发文量 $N$ 的预测效能垫底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
 > - **2021 — 专家打分实验的内在机制印证** 结合经济学顶级期刊同行简历评估实验，证实同行评议本能惩罚“稀释均质质量”的低层级发表，证明学界隐性评价遵从类似 Q 因子的均质偏好而非单调递增指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–70)]]
 
@@ -126,7 +133,7 @@ updated: 2026-10-30
 > - **数据来源** Web of Science、Scopus、OpenAlex 等标准化引文数据库；需提取成果发表十年后的精确被引截断记录。
 > - **核心包或命令** Python `numpy`, `pandas`, `scipy.optimize`。
 > - **实现流程** 数据提取清洗、同名消歧、对数转换、学科常数扣除、指数还原。
-> - **报告标准** 报告学者样本纳入门槛（如 $N \ge 10$）、引文观测窗口年份、学科基准常数 $\mu_p$ 计算来源与估计标准误差。
+> - **报告标准** 报告学者样本纳入门槛（如 $N \ge 10$）、引文观测窗口年份、学科基准常数 $\mu_p$ 计算来源与估计[[Standard Error|标准误]]差。
 
 > [!formula] Python 计算骨架
 > ```python
@@ -155,7 +162,7 @@ updated: 2026-10-30
 > [!method-stack] 数据口径
 > - **数据来源** 依赖长期引文库，不同数据库（WoS vs Scopus）收录口径不同会导致数值微调。
 > - **时间与范围** 需采用发表后 10 年被引窗口（$c_{10}$）以平抑短期引文波动；剔除专著书评与简报。
-> - **清洗与归属** 严格执行姓名消歧；合著成果目前直接采用整篇论著的被引频次。
+> - **清洗与归属** 严格执行[[Author Name Disambiguation|姓名消歧]]；合著成果目前直接采用整篇论著的被引频次。
 > - **标准化** 跨学科使用必须扣除该学科同期的对数引文均值常数 $\mu_p$。
 
 ---
@@ -177,7 +184,7 @@ updated: 2026-10-30
 
 > [!method-limits] 方法局限
 > - **测量偏误** 依赖 10 年长期被引窗口（$c_{10}$），对近期新成果具有无法回避的统计时滞。
-> - **可比边界** 样本量要求较高（$N \ge 10$），对成果较少的年轻学者存在样本量不足偏误。
+> - **可比边界** [[Sample Size Determination|样本量]]要求较高（$N \ge 10$），对成果较少的年轻学者存在样本量不足偏误。
 > - **误用风险** 将其作为唯能力论考核指标，可能诱发学者为了维持高均值而主动放弃探索性高风险选题。
 > - **补救方式** 在青年时期结合前瞻性引文累积模型估算期望 $Q$ 值，并辅以代表作同行定性评议。
 
@@ -187,7 +194,7 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Scientific Productivity]] | 测量对象 | 考察生产力与转化能力之间的交互作用与正交独立关系。 |
+> | [[Scientific Productivity]] | 测量对象 | 考察生产力与转化能力之间的[[Interaction Effect\|交互作用]]与正交独立关系。 |
 > | [[Q-Model]] | 支撑理论 | Q 因子是 Q 模型中的核心微观个体转化能力参数。 |
 > | [[h-Index]] | 对比方法 | 传统单调累积指标，在预测顶尖学者效度上弱于 Q 因子且无法反映质量稀释。 |
 > | [[Career Shuffling Method]] | 检验方法 | 通过生涯序列置换构建零模型，检验 Q 因子在学术全生命周期的平稳性。 |

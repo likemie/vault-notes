@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-10-22
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 宏观与中观层面的教育科研体系治理、大学-学区伙伴关系网络、中介组织职能演化。
-> - **谨慎使用** 微观单个教师阅读文献时的心理认知过程（此时需结合 Cain 的三种声音理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
+> - **谨慎使用** 微观单个教师阅读[[Document|文献]]时的心理认知过程（此时需结合 Cain 的三种声音理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
 > - **常见误用** 误将模型中的三个三角形当成具体的三个行政办公室，忽略了 Levin 所强调的“功能流动”本质。
 
 ---

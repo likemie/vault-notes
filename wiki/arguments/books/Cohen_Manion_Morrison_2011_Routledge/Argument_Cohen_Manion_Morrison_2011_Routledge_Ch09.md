@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Confidentiality]]"
   - "[[Discourse]]"
+  - "[[Note-Taking]]"
   - "[[Screening Off]]"
   - "[[Research Purpose]]"
   - "[[Dialogue in Education]]"
@@ -79,7 +80,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_instruments: []
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 > [!logic-map]- 章节论证结构
 > ```mermaid
@@ -514,7 +515,7 @@ Fitz and Halpin (1994) 对英国政府部长的研究提供了有权者访谈的
 >
 > **双访谈者配置。** 每次访谈使用两名访谈者：一位主导提问，另一位记录并补充提问。这个配置提供了三个优势：
 > 1. **事后交叉核对**——两人可以对比各自对访谈内容的记忆和解读
-> 2. **应对受访者顾问团**——有权者的访谈中常常有顾问在场，他们监控进程并在认为合适时插入发言（p. 44），甚至自己记笔记（p. 47）。双访谈者在人数上平衡了这一不对称
+> 2. **应对受访者顾问团**——有权者的访谈中常常有顾问在场，他们监控进程并在认为合适时插入发言（p. 44），甚至自己[[Note-Taking|记笔记]]（p. 47）。双访谈者在人数上平衡了这一不对称
 > 3. **工作分配**——一人跟进主线，另一人捕捉补充问题和非语言线索
 >
 > **准入的层层面纱。** Fitz & Halpin 在访谈部长时遭遇了多层级的守门（p. 40）：人员准入（官员把守入口、行政人员决定是否进行访谈）、场所准入（"精英场所"——部长办公室或政府部门）、时间准入（忙碌受访者的时间极度稀缺）、制度惯例——"将政策制定日常从公众和学术目光中[[Screening Off\|屏蔽]]的惯例"（p. 48）、条件性准入和行为规则（"边界维持" p. 49）、以及持续的监视和不可获得性。

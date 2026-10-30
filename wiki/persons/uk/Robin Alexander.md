@@ -7,7 +7,7 @@ summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learnology]]"
   - "[[Paradigm]]"
   - "[[Effective Teaching]]"
+  - "[[Personalized Learning]]"
   - "[[Rich and Thick Description]]"
   - "[[Construct]]"
   - "[[Intangible Spiritual Forces]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-22
 ## 核心思想与学术贡献
 
 ### 1. 开创“比较教学论”（Comparative Pedagogy）
-亚历山大坚决反对战后跨国量化评估将教学法还原为孤立、机械的“[[Effective Teaching|有效教学]]技能集”。他证明，法国的“共和国普遍理性”、俄罗斯的“[[Lev Vygotsky|维果茨基]]社会文化发展”、印度的“公民责任与德性”、美国的“个人表现与自我表达”以及英国的“发展性个性化学习”，直接塑造了各国课堂内空间布局、时间节律、学生提问乃至纠错[[Discourse|话语]]的形态。教学法是文化价值的具体化体现。
+亚历山大坚决反对战后跨国量化评估将教学法还原为孤立、机械的“[[Effective Teaching|有效教学]]技能集”。他证明，法国的“共和国普遍理性”、俄罗斯的“[[Lev Vygotsky|维果茨基]]社会文化发展”、印度的“公民责任与德性”、美国的“个人表现与自我表达”以及英国的“发展性[[Personalized Learning|个性化学习]]”，直接塑造了各国课堂内空间布局、时间节律、学生提问乃至纠错[[Discourse|话语]]的形态。教学法是文化价值的具体化体现。
 
 ### 2. 创立对话教学（Dialogic Teaching）体系
 通过跨国微观课堂对比，亚历山大敏锐发现多数英美课堂充斥着“教师提问-学生简答-教师评判”（IRE/IRF）的封闭式假对话。他汲取巴赫金对话哲学与维果茨基内化理论，创立[[Dialogue in Education|对话教学]]：主张教师应通过追问、探究、累积论证与观点交锋，促发学生高级认知与批判思维的发展。

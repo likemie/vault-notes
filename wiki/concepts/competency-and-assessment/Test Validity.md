@@ -8,7 +8,7 @@ aliases:
 summary: "确保教育测验和评估工具有效性的多重效度类型体系，涵盖内容效度、效标关联效度、构念效度、共时效度、表面效度、陪审团效度、预测效度、后果效度和系统效度九种类型"
 type: concept
 domain: "competency-and-assessment"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/assessment
 related_concepts:
   - "[[Construct]]"
+  - "[[Document]]"
   - "[[Content Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Construct Validity]]"
@@ -32,7 +33,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -43,7 +44,7 @@ updated: 2026-10-22
 > [!concept-lens] 概念透镜
 > - **含义** 测验效度的核心问题是：这个测验是否测量了它声称要测量的东西——以及从测验分数中做出的推断是否合理？它是效度概念在测验和评估领域的具体应用。
 > - **用途** 在测验开发、评估设计和考试评分中，测验效度框架提供了系统审查工具质量的清单——从内容覆盖到后果使用。
-> - **边界** 测验效度不是一种独立的效度类型，而是多种通用效度类型在测验情境中的具体应用和组合。其中陪审团效度和系统效度主要出现在测验文献中，其他类型（内容、效标、构念等）在更广泛的测量情境中也适用。
+> - **边界** 测验效度不是一种独立的效度类型，而是多种通用效度类型在测验情境中的具体应用和组合。其中陪审团效度和系统效度主要出现在测验[[Document|文献]]中，其他类型（内容、效标、构念等）在更广泛的测量情境中也适用。
 
 ---
 

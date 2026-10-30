@@ -5,7 +5,7 @@ aliases:
 summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,12 +39,13 @@ related_facts:
   - "[[National Security Law]]"
   - "[[American Educational Research Association]]"
   - "[[Liberal Studies]]"
+  - "[[American Spaces]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 核心主张
@@ -101,7 +102,7 @@ updated: 2026-10-22
 > - **[[Epistemology\|认识论]]立场** [[Critical Theory\|批判理论]] —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
 > - **常用方法**[[Historical Document Analysis of Curriculum]]、[[Document]] Analysis
 
-> [!warning] 美国中心主义：分权化框架适用于中央集权体系？
+> [!warning] [[American Spaces|美国中心]]主义：分权化框架适用于中央集权体系？
 > **争议背景**Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心假设是课程变革由多个独立力量（[[Progressive Education\|进步教育]]运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
 >
 > **各方立场**

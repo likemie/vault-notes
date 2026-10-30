@@ -9,7 +9,7 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Interviewer Effects]]"
   - "[[Hawthorne Effect]]"
+  - "[[Teacher Expectations]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
@@ -34,7 +35,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-10-22
 > - **评估者-被评估者关系** 双方相互影响（Harlen, 1994）——学生回应考官的特征（性别、年龄、个性）
 > - **物理、情感和社会条件** 特别是如果不熟悉的环境——外来噪音、考官走动、干扰物都显著影响分数（Gipps, 1994）
 > - **[[Hawthorne Effect\|霍桑效应]]** 简单告知学生"这是评估情境"就足以干扰表现
-> - **学生对考官期望的感知（Haladyna, 1997; Stiggins, 2001）**——学生倾向于给出他们认为教师期望的回答
+> - **学生对考官期望的感知（Haladyna, 1997; Stiggins, 2001）**——学生倾向于给出他们认为[[Teacher Expectations|教师期望]]的回答
 > - **文化、族裔和性别背景** 影响评估任务对学生的有意义程度——有意义性影响表现
 > - **性别与题目类型的交互** 论文题涉及非个人话题偏向男孩，涉及个人和人际话题偏向女孩（Haladyna, 1997）；男孩在[[Multiple-Choice Questions\|多项选择题]]上表现更好，女孩在论文类问题表现更好
 >

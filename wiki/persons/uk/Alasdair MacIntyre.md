@@ -24,6 +24,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Construct]]"
   - "[[Enlightenment]]"
+  - "[[Document]]"
   - "[[Technological Republic]]"
   - "[[Phronesis]]"
   - "[[Civic Religion]]"
@@ -36,21 +37,20 @@ related_persons:
   - "[[John Rawls]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 苏格兰裔哲学家、当代美德伦理学复兴领袖，圣母大学哲学荣休教授，美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences, AAA&S）院士。
+> - **身份位置** 苏格兰裔哲学家、当代美德伦理学复兴领袖，圣母大学哲学荣休教授，美国文理科学院（American Academy of Arts and Sciences, AAA&S）院士。
 > - **核心角色** 当代西方批判自由主义[[Value Neutrality|价值中立]]、情感主义与后现代道德虚无主义的思想泰斗。
 > - **代表贡献** 撰写哲学经典《追寻美德》（*After Virtue*），批判现代社会面临的“[[Pluralism|淹没性多元主义]]”（pluralism which threatens to submerge us all），主张重建能够维系道德生活的社群实体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 
@@ -86,7 +86,7 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **道德哲学与政治理论路径** 成为当代美德伦理学复兴的奠基文献，与[[John Rawls|罗尔斯]]自由主义正义论展开长期学术对话。
+> - **道德哲学与政治理论路径** 成为当代美德伦理学复兴的奠基[[Document|文献]]，与[[John Rawls|罗尔斯]]自由主义正义论展开长期学术对话。
 > - **社群主义与文化批评** 深刻启发了当代社群主义学者对契约主义、工具理性与后现代道德虚无的系统反思。
 > - **现代国家与[[Technological Republic|技术共和国]]伦理重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中引述麦金太尔，批判硅谷与西方社会的道德不可知论，主张确立明确的卓越德性追求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 

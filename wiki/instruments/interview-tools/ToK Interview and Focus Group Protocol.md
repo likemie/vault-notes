@@ -6,7 +6,7 @@ aliases:
 summary: "Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，用于收集教师、学生和行政人员对 ToK 课程和批判性思维教学的看法"
 type: instrument
 instrument_type: interview-tool
-instrument_related_count: 10
+instrument_related_count: 11
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#fce7f3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Praxis]]"
   - "[[Problem Solving]]"
+  - "[[Student Motivation]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-01
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-16
 > | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |
 > |---|---|---|---|---|
 > | F1 | ToK 课程定位 | ToK 作为大学预科科目的有效性 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, Appendix A)]] |
-> | F2 | 学习动机 | 在 ToK 中取得成功的动机或缺乏动机 | — | 同上 |
+> | F2 | [[Student Motivation\|学习动机]] | 在 ToK 中取得成功的动机或缺乏动机 | — | 同上 |
 > | F3 | 高等教育准备 | ToK 作为高等教育准备 | — | 同上 |
 > | F4 | [[International Baccalaureate\|IB]] 课程结构 | ToK 作为 IB 的核心支柱 | — | 同上 |
 > | F5 | 课程体验 | ToK 的学习体验 | — | 同上 |

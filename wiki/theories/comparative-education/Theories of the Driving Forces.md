@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪前中期主导欧洲比较教育学术研究的人文主义古典范式，由弗里德里希·施奈德与尼古拉斯·汉斯奠立；该理论主张在民族国家教育体系的多样性表象背后，探寻由民族性格、地理环境、经济生产、宗教信仰与文化哲学构成的深层驱动力（Triebkräfte），揭示国家教育形态的历史发生学机制与内在趋同性。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Life Power]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Rich and Thick Description]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-17
+updated: 2026-10-30
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-10-17
 ---
 
 > [!contrast-table] 驱动力理论核心命题归纳
-> | 命题类型 | 核心指向 | 代表学者 | 关键文献 |
+> | 命题类型 | 核心指向 | 代表学者 | 关键[[Document\|文献]] |
 > |---|---|---|---|
 > | **命题一：动因发生学** | 教育体制受制于民族性格、宗教、地理与经济驱动力的复合作用 | Friedrich Schneider (1947); Nicholas Hans (1949) | *Triebkräfte der Pädagogik der Völker* |
 > | **命题二：趋同统一性** | 驱动力理论旨在发掘多样性制度表象下共享的欧洲统一文明根基 | [[Wolfgang Mitter\|Wolfgang Mitter (2009)]] | [[Argument_Mitter_2009_Europe\|Mitter (2009, pp. 88, 93)]] |

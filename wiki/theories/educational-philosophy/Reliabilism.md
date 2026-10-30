@@ -6,10 +6,10 @@ aliases:
 summary: "一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reliable Epistemic Processes]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
+  - "[[Learning Strategies]]"
   - "[[Rote Learning]]"
   - "[[Epistemic Aims]]"
 related_theories:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-10-22
 > - **[[Ontology\|本体论]]** 视认知活动为发生在自然界中的真实因果事件（causal events），社会群体的探究实践也是物质存在的活动系统。
 > - **[[Epistemology\|认识论]]** 外部主义立场。真理和确证不依赖于主体的主观透明度，而是依赖于产生信念的过程与世界实在状态之间的客观协同度。
 > - **方法含义** 强烈支持甚至要求引入实证心理学实验、社会[[Network Analysis\|网络分析]]或[[Discourse Analysis\|话语分析]]，以测量和观察认知过程的真实运作情况。
-> - **不能直接推出的东西** 可靠主义不能自动证明某个具体的学习策略（如[[Rote Learning\|死记硬背]]）一定不可靠，其[[Reliability\|可靠性]]必须针对特定的“[[Epistemic Aims\|认识目标]]”（如应对标准化考试 vs. 创新科研）在具体情境中通过实证检验来判定。
+> - **不能直接推出的东西** 可靠主义不能自动证明某个具体的[[Learning Strategies|学习策略]]（如[[Rote Learning\|死记硬背]]）一定不可靠，其[[Reliability\|可靠性]]必须针对特定的“[[Epistemic Aims\|认识目标]]”（如应对标准化考试 vs. 创新科研）在具体情境中通过实证检验来判定。
 
 > [!theory-use] 如何用于研究
 > - **作为分析工具** 在教育研究中，它常被用作扩展[[Epistemic Cognition\|认识论认知]]测量维度的工具（如分析学生是否在关注“过程的可靠性”而不是仅仅死磕“信息的真伪”）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]

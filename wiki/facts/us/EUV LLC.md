@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Apprenticeship]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
+  - "[[Legitimate Peripheral Participation]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 核心技术突破矩阵
-> - **全球首台工程测试曝光机原型（ETS, 2001）** 成功集成激光产生等离子体光源（LPP）、反射式掩模版与超高真空光学腔体，实现全视场芯片图案曝光。
+> - **全球首台工程测试曝光机原型（ETS, 2001）** 成功集成激光产生等离子体光源（[[Legitimate Peripheral Participation|LPP]]）、反射式掩模版与超高真空光学腔体，实现全视场芯片图案曝光。
 > - **原子级精度多层布拉格反射镜技术** 利弗莫尔国家实验室开发出 40 层交替沉积极薄钼硅（Mo/Si）涂层，使 13.5 纳米极紫外光的反射率由几乎为零突破至接近 70% 的理论极限。
 > - **150+ 项核心基础专利池** 在极紫外光源收集、无缺陷反射掩模基板、抗蚀剂化学放大与干涉计量领域沉淀了超过 150 项关键专利。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 44)]]
 

@@ -6,7 +6,7 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Consequential Validity]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
+  - "[[Collaborative Learning]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
   - "[[Praxis]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!def] Feminist Research
@@ -111,7 +112,7 @@ updated: 2026-10-29
 > [!principle] Webb et al.（2004）的研究方法论教学中的女性主义教学法原则
 > 1. 重构教授–学生关系——从等级走向平等和共享。
 > 2. 赋权——为了参与式民主。
-> 3. 建立社区——通过协作学习。
+> 3. 建立社区——通过[[Collaborative Learning|协作学习]]。
 > 4. 赋予个体声音特权——不仅仅是讲师的。
 > 5. 尊重个人经验的多样性——根植于性别、种族、族裔、阶级、性取向等。
 > 6. 挑战传统观点——如知识社会学。

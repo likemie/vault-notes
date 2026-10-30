@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,14 +28,17 @@ tags:
   - standards-based-reform
   - evidence-based-education
 related_concepts:
+  - "[[Charter Schools]]"
   - "[[School Choice]]"
   - "[[Discourse]]"
   - "[[College and Career Readiness]]"
   - "[[Critical Pedagogy]]"
+  - "[[Naming and Shaming in Education Governance]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Document]]"
   - "[[Policy Entrepreneur]]"
 related_theories: []
 related_methods: []
@@ -59,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -69,7 +72,7 @@ updated: 2026-10-16
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 基金会渊源始于 1959 年，1997 年经战略重组于华盛顿哥伦比亚特区设立政策研究所，旨在将原本地方性的慈善基金转型为全国性教育改革前沿智库。
-> - **总部地点 / 业务辐射** 总部设于美国首都华盛顿特区，并在俄亥俄州哥伦布设有特许学校监督与地方政策分支，业务深度影响全美各州教育政策与联邦立法。
+> - **总部地点 / 业务辐射** 总部设于美国首都华盛顿特区，并在俄亥俄州哥伦布设有[[Charter Schools|特许学校]]监督与地方政策分支，业务深度影响全美各州教育政策与联邦立法。
 > - **法人属性与经费基础** 独立的非营利研究机构（501(c)(3)）；经费依托自身基金会原始本金投资收益，并广泛吸纳[[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]、[[Douglas Walton|沃尔顿]]家族基金会等大型慈善资助。
 > - **核心宗旨与法定职责** 倡导以学术严谨度、核心传统学科、绩效问责与[[School Choice|择校]]机制（School Choice）为基石的基础教育改革，消除公立中小学学术标准的通货膨胀，为主张学术卓越与市场化问责的决策者提供基于数据的政策评估工具。
 
@@ -90,7 +93,7 @@ updated: 2026-10-16
 > - **外部顶尖学科评审委员会** 长期聘请全美顶级数学家、历史学者与文学批评家组建外部同行审读组，实施严格的学术质量审查。
 
 > [!pathways] 业务运行机制
-> - **实证评级揭丑策略** 通过将各州标准置于严格学术标尺下量化打分，以公开曝光（Naming and shaming）的方式向落后州施加立法声誉压力。
+> - **实证评级揭丑策略** 通过将各州标准置于严格学术标尺下量化打分，以公开曝光（[[Naming and Shaming in Education Governance|Naming and shaming]]）的方式向落后州施加立法声誉压力。
 > - **跨党派价值融合运作** 芬恩作为资深共和党教育幕僚，与民主党智囊及民权领袖常年开展战略合作，将保守派对“国家经济竞争实力与学术卓越”的关切同自由派对“社会机会公平”的诉求缝合在一起（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 10–11]], 21）。
 > - **微观对标分析技术输出** 联合独立研究团队对各州现行标准与拟推行新课标开展矩阵化逐条对比，为各州表决扫清技术障碍（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 17–18]]）。
 > - **意识形态[[Discourse|话语]]生产与政策推销** 通过资助反建制派研究，塑造“公立学校教师不专业、抵制科学”的叙事，为引入外部企业处方与私有化机制扫清舆论阻碍（Phelps, 2018; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
@@ -173,5 +176,5 @@ updated: 2026-10-16
 > | [[American Diploma Project]] | 政策事实 | 福特汉姆作为共同发起方推动高中基准改革的标志性先锋项目。 |
 > | [[National Governors Association]] | 组织机构 | 借助福特汉姆的保守派学术公信力动员共和党州长的行政权力中枢。 |
 > | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 承袭了福特汉姆所倡导的医学化核查清单逻辑，在澳大利亚落地的硬性教学[[Disciplina and Doctrina\|规训]]政策。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录福特汉姆总裁切斯特·芬恩作为[[Policy Entrepreneur\|政策企业家]]及出具对标报告的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录福特汉姆总裁切斯特·芬恩作为[[Policy Entrepreneur\|政策企业家]]及出具对标报告的研究。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 批判文献 | 揭露福特汉姆出版物如何通过贬抑教师专业性为公立教育市场化与商业咨询进驻铺平道路。 |

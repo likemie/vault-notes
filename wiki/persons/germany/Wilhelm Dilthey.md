@@ -8,7 +8,7 @@ summary: "德国历史主义哲学家与教育学家，柏林大学哲学教授�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Enlightenment]]"
+  - "[[Document]]"
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-30
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-15
 > 米特（[[Wolfgang Mitter]]）在梳理欧洲两百年比较教育演进史时明确指出，19 世纪确立的学术先驱形成了鲜明的两极对照格局：
 > - **一极为[[Marc-Antoine Jullien|马克-安托万·朱利安]]（[[Marc-Antoine Jullien]]）的[[Positivism|实证主义]]网格进路** 代表理性主义与[[Enlightenment|启蒙哲学]]，主张运用标准化指标体系搜集各国教育事实数据，以便在客观实证证据基础上推动各国制度的趋同与改良，成为后世[[Positivism|实证主义]]比较教育模型的原型；
 > - **另一极即威廉·狄尔泰的哲学与解释学进路** 代表历史主义与人文[[Geisteswissenschaften|精神科学]]，强调教育制度深深植根于民族历史文化土壤中，主张运用历史研究与解释学方法阐发教育现象背后的内在精神与价值关联；
-> - **教育旅行者与视学官的综合进路** [[Michael Sadler|萨德勒]]（[[Michael Sadler]]）、库赞（[[Victor Cousin]]）、阿诺德（[[Matthew Arnold]]）等人在搜集国外法律统计文献的同时，高度依赖人文训练对外国学校文化开展[[Rich and Thick Description|深描]]与情境化解读，成为朱利安与狄尔泰双重进路的实践折中者。
+> - **教育旅行者与视学官的综合进路** [[Michael Sadler|萨德勒]]（[[Michael Sadler]]）、库赞（[[Victor Cousin]]）、阿诺德（[[Matthew Arnold]]）等人在搜集国外法律统计[[Document|文献]]的同时，高度依赖人文训练对外国学校文化开展[[Rich and Thick Description|深描]]与情境化解读，成为朱利安与狄尔泰双重进路的实践折中者。
 
 > [!logic-map]- 狄尔泰对欧洲比较教育学科[[Paradigm|范式]]的奠基脉络
 > ```mermaid

@@ -10,10 +10,10 @@ summary: "美国著名产业经济学与科技政策学者，哥伦比亚大学�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1942"
 died: ""
 lifespan: "1942–至今"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Assured Demand]]"
   - "[[Learning Economy]]"
   - "[[Technological Conservatism in Mission Programs]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Demonstration Effect]]"
   - "[[Demand-side Innovation Policy]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-23
 
 > [!timeline] 生平与学术历程
 > - **1970年代** 于哥伦比亚大学与宾夕法尼亚大学开展关于制药工业创新、计算机与半导体产业演进的实证研究，深入调研[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）与国防部公共项目。
-> - **1978年** 在国际科技政策顶刊《Research Policy》发表里程碑论文《政府项目与高技术产业成长》（*Government programs and the growth of high-technology industries*），成为公共项目需求侧塑造微电子与计算机产业的经典权威文献。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
+> - **1978年** 在国际科技政策顶刊《Research Policy》发表里程碑论著《政府项目与高技术产业成长》（*Government programs and the growth of high-technology industries*），成为公共项目需求侧塑造微电子与计算机产业的经典权威[[Document|文献]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
 > - **1980年代–2000年代** 任教于罗格斯大学管理学院，持续深耕战略管理、研发管理、技术扩散与创新经济学，出版多部关于研发管理与产业[[Competitiveness|竞争力]]的经典论著。
 
 ---

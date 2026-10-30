@@ -9,7 +9,7 @@ summary: "起源于循证公共卫生治理、后被跨部门引入教育政策�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Reliability]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Open-Mindedness]]"
   - "[[Performance Pay]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-29
 ---
 
 > [!proc] 通用操作程序
-> 1. **议题界定与前置简报编制** 针对部委紧迫的改革议题，跨学科团队快速检索并系统评估全球与本土研究文献，编制严谨中立的政策证据简报（Evidence Brief for Policy），在会前两周分发至参会代表。简报必须详列问题的根源、三种可选解决路径的利弊实证以及已知的不确定性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 34–35, 81)]]
+> 1. **议题界定与前置简报编制** 针对部委紧迫的改革议题，跨学科团队快速检索并系统评估全球与本土研究[[Document|文献]]，编制严谨中立的政策证据简报（Evidence Brief for Policy），在会前两周分发至参会代表。简报必须详列问题的根源、三种可选解决路径的利弊实证以及已知的不确定性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 34–35, 81)]]
 > 2. **多元代表精准招募与配对** 严格控制参会规模（通常 15–20 人），均衡覆盖政界（分管副部长或司局级官员）、学界（实证评估专家与[[Qualitative Research|质性研究]]者）、一线从业者（校长或教师代表）以及公民社会与受影响群体代表，确保边缘群体的合法权益在审议中具有发言权。
 > 3. **确立“避风港（Safe Haven）”研讨规则** 严格遵循查塔姆研究所规则（Chatham House Rule），会议全程闭门且严禁向外界或媒体披露发言人的姓名与隶属机构代码，为身处舆论快车道的政府决策官员构筑高度安全的心理空间，促使其坦陈真实的财政预算约束与行政阻力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 34–35)]]
 > 4. **聚焦审议而非辩论表决** 议程禁止发起形式主义的投票站队，亦不容许漫无边际的长篇演说。主持人引导与会者逐一检视证据简报提出的政策选项，将学术统计数据与官员的科层运作逻辑、一线教师的实操阻力进行逐项对质碰撞。

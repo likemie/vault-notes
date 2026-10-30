@@ -11,7 +11,7 @@ summary: "科学计量学与信息计量学奠基人，耶鲁大学科学史阿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,7 +39,8 @@ related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Network Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[The Royal Society]]"
 related_arguments:
@@ -96,7 +97,7 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 普赖斯的累积优势模型直接启迪了巴拉巴西（Barabási）与阿尔伯特（Albert）提出无标度网络（Scale-Free Networks）及其优先连接机制。
+> - **理论路径** 普赖斯的累积优势模型直接启迪了[[Albert-László Barabási|巴拉巴西]]（Barabási）与阿尔伯特（Albert）提出无标度网络（Scale-Free Networks）及其优先连接机制。
 > - **方法路径** 确立以科学引文索引（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度范式。
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。
 

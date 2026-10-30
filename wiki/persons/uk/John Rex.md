@@ -9,7 +9,7 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Cognitive Authority]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-22
 
 > [!debates] 学术争议
 >
-> > [!axis] 客观视角特权 vs 行动者主体认知权威
+> > [!axis] 客观视角特权 vs 行动者主体[[Cognitive Authority|认知权威]]
 > > 围绕研究者是否有权判定当事人陷入“虚假意识”的[[Epistemology\|认识论]]争鸣。
 > >
 > > - **微观诠释学者** 指责虚假意识概念暗含知识精英主义，赋予研究者凌驾于行动者之上的特权地位，可能抹杀普通人的主体尊严与本土知识价值。

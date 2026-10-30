@@ -10,7 +10,7 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -19,8 +19,8 @@ tags:
   - paradigm/globalization
   - subject/comparative-education
 related_concepts:
-  - "[[Global Testing Culture]]"
   - "[[Otherhood]]"
+  - "[[Institutional Mimesis]]"
   - "[[Paradigm]]"
   - "[[Enlightenment]]"
   - "[[Geopolitics]]"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Epistemology]]"
   - "[[Time-Space Compression]]"
+  - "[[Epistemic Governance]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[World-Systems Theory]]"
@@ -56,9 +57,10 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Robert Arnove]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Citizenship and Social Development]]"
-  - "[[World Bank]]"
+  - "[[National Education]]"
   - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -83,7 +85,7 @@ updated: 2026-10-27
 > - **知识位置** [[Stanford School|斯坦福学派]]（Stanford School）新制度主义组织社会学，代表人物包括[[John W. Meyer|约翰·迈耶]]（John W. Meyer）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）等；在比较教育学中常与[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）开创的政治现实主义与冲突取向[[World-Systems Theory|世界体系分析]]形成鲜明学术张力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 
 > [!claim] 核心判断
-> 在世界层面存在一个由普世理性[[Cultural Models|文化模型]]、规范和认知框架构成的“世界社会”。它缺乏传统的主权中央政府与强制暴力制裁，本质上是通过“他者性（[[Otherhood]]）”机制——即国际组织、大学和科学家充当人权、进步和正义等普遍法则的无私代理人，在全球范围内输出并合法化文化模型，从而驱动主权国家为了确立自身的现代合法性而进行制度模仿、同质化采纳与结构脱耦运作。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
+> 在世界层面存在一个由普世理性[[Cultural Models|文化模型]]、规范和认知框架构成的“世界社会”。它缺乏传统的主权中央政府与强制暴力制裁，本质上是通过“他者性（[[Otherhood]]）”机制——即国际组织、大学和科学家充当人权、进步和正义等普遍法则的无私代理人，在全球范围内输出并合法化文化模型，从而驱动主权国家为了确立自身的现代合法性而进行[[Institutional Mimesis|制度模仿]]、同质化采纳与结构脱耦运作。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
 
 ---
 
@@ -99,7 +101,7 @@ updated: 2026-10-27
 > - **1997年 — 理论系统化** Meyer, Boli, Thomas and Ramirez (1997) 发表《世界社会与民族国家》，标志世界社会理论成熟，论证了国家主权形式在全球理性文化模型下的广泛趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > - **2000年 — 他者性机制** Meyer and Jepperson (2000) 提出 [[Otherhood]] 理论，阐明科学代言人与代理机构如何作为核心动力机制输出理性神话。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
 > - **2015年 — 组织能动性四维模型** Bromley and Meyer (2015) 提出 [[Organizational Actorhood]] 模型，剖析现代组织如何被建构成具备理性自主与社会责任的行动主体。
-> - **2017年 — 国际组织作为世界社会的理论家** [[Argument_Zapp_2017_IJED|Zapp (2017, p. 10)]] 结合世界社会理论的理性化与科学化传统，揭示世界银行等国际组织不仅是政策协调者，更是扮演“理论家”角色的意义生成引擎，其专业技术官僚将实证科学证据制度化为全球普适政策模型。
+> - **2017年 — 国际组织作为世界社会的理论家** [[Argument_Zapp_2017_IJED|Zapp (2017, p. 10)]] 结合世界社会理论的理性化与科学化传统，揭示[[World Bank|世界银行]]等国际组织不仅是政策协调者，更是扮演“理论家”角色的意义生成引擎，其专业技术官僚将实证科学证据制度化为全球普适政策模型。
 > - **2020–2022年 — 多边治理中的大学与知识活动** Frank and Meyer (2020) 阐明大学作为全球知识社会的关键支柱；[[Argument_Zapp_2022_Springer|Zapp (2022, pp. 148–154)]] 检验了大学通过 otherhood 机制嵌入[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）多边治理的四种具体知识活动。
 
 ---
@@ -174,7 +176,7 @@ updated: 2026-10-27
 >   - **去历史化与去政治化** 将战后世界视为凭空产生全球共识的非历史大爆炸（Big Bang），抹杀了资本主义世界经济的中心-边缘剥削、不等价交换与殖民主义历史延续性。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
 >   - **低估微观行动者的反抗能动性** 假定自上而下的单向同构，忽视了地方教师、学生与基层社区在具体实践中对全球模式的变通、抵制与重构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 > - **转化困难** “世界文化”与“理性神话”作为宏观观念[[Construct|构念]]，难以在具体的微观人际互动中予以实证测量与因果拆解。
-> - **不能直接推出** 不能仅依据国家颁布了现代教育法律或采纳了国际流行[[Discourse|话语]]，便自动推断其国民教育体系已具备同等的实质质量与社会公平效果。
+> - **不能直接推出** 不能仅依据国家颁布了现代教育法律或采纳了国际流行[[Discourse|话语]]，便自动推断其[[National Education|国民教育]]体系已具备同等的实质质量与社会公平效果。
 
 ---
 
@@ -228,7 +230,7 @@ updated: 2026-10-27
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 应用世界社会理论的理性化视角，揭示世界银行如何作为“理论家”构建全球教育认知治理。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 应用世界社会理论的理性化视角，揭示世界银行如何作为“理论家”构建全球教育[[Epistemic Governance|认知治理]]。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 梳理欧洲大众教育起源的历史脉络，论证大众教育源于主权国家确立成员身份与应对地缘竞争的防御性动员。
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 检验香港通识科创立到废除的全周期演变，揭示全球趋同[[Discourse|话语]]在主权政治危机下的工具性与可逆性。

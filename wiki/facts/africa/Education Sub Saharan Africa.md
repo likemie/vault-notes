@@ -8,7 +8,7 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[International Education]]"
   - "[[Grandes Ecoles]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-26
 ---
 
 > [!pathways] 业务运行机制与证据利用
-> - **非洲本土证据索引与开放获取（AERD）** 针对国际主流索引数据库系统性忽视非洲本土期刊的偏误，建立开放获取的同行评议文献库，为决策者提供在地化实证支撑。
+> - **非洲本土证据索引与开放获取（AERD）** 针对国际主流索引数据库系统性忽视非洲本土期刊的偏误，建立开放获取的同行评议[[Document|文献]]库，为决策者提供在地化实证支撑。
 > - **关键领域专题调查与政策简报** 围绕大学师资储备、女子理工科教育、高等教育产教融合开展深度实地调研，产出针对各国高教部长的敏捷政策洞见。
 > - **跨界对话平台与资助决策中介** 衔接非洲大学研究者、国家政策制定者与国际慈善资助机构，促使资助流向回应非洲本土优先需求。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 19, 44–46, 58)]]
 

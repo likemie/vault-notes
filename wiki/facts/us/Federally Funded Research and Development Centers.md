@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_facts:
   - "[[Department of Defense]]"
   - "[[National Science Foundation]]"
   - "[[Manhattan Project]]"
+  - "[[ASEAN Economic Community]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
@@ -59,7 +60,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 组织发展历程
 > - **1942–1947 — 战时起源与[[Manhattan Project|曼哈顿计划]]孵化** 曼哈顿计划期间，联邦政府打破自建军工基地的陈规，与加利福尼亚大学签署合同由其管理洛斯阿拉莫斯实验室（Los Alamos），与芝加哥大学签署合同管理冶金实验室（后为阿贡国家实验室），奠定了大学托管联邦战略实验室的原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
-> - **1950–1970 年代 — 冷战[[Big Science|大科学]]扩张与功能分化** 原子能委员会（AEC）与国防部大规模扩建国家实验室网络；体系内逐步分化出两类核心形态：一类是以费米国家加速器实验室（Fermi National Accelerator Laboratory）和劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）为代表的“用户[[Megascience Installations|大科学装置]]型”，另一类是以洛斯阿拉莫斯、利弗莫尔（Livermore）和桑迪亚（Sandia）为代表的“核武与国家安全防御型”。
+> - **1950–1970 年代 — 冷战[[Big Science|大科学]]扩张与功能分化** 原子能委员会（[[ASEAN Economic Community|AEC]]）与国防部大规模扩建国家实验室网络；体系内逐步分化出两类核心形态：一类是以费米国家加速器实验室（Fermi National Accelerator Laboratory）和劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）为代表的“用户[[Megascience Installations|大科学装置]]型”，另一类是以洛斯阿拉莫斯、利弗莫尔（Livermore）和桑迪亚（Sandia）为代表的“核武与国家安全防御型”。
 > - **1980 年代至今 — 任务拓展与跨学科前沿转型** 冷战结束后，原本专注于核军工的实验室普遍拓展了使命边界，深度转向先进超级计算、材料科学、可再生能源、气候环境模拟及人类基因组测序等民用前沿攻关。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **2020 年代 — [[Modern Industrial Policy|现代产业政策]]下的制度评估与新型 [[Public-Private Partnership|PPP]] 衍生** 进入 2020 年代，随着《[[CHIPS and Science Act|芯片与科学法案]]》等重大产业战略的实施，美国政府在设计[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）等新型创新中枢时系统评估了 FFRDC 模式，吸纳其战略中立性与长期公共投资优势，同时针对产业中试敏捷度与知识产权弹性演化出独立非营利运营实体（[[Natcast]]）模式。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–25)]]
 

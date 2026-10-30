@@ -8,7 +8,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Scientific Method]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Nominalism]]"
   - "[[Scaffolding]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -179,7 +180,7 @@ updated: 2026-10-22
 > - **教科书与教学普适化路径** 其编写的《研究设计》等经典教材以极致清晰的操作架构与跨学科通识范式被全球高校广泛采用，形塑了数十万跨学科研究生的学术起步训练。
 > - **跨学科医学与健康转化路径** 在密歇根大学建立 MMMP 基地，成功将[[Mixed Methods Research\|混合方法]]与[[Joint Display\|联合展示]]引入实施科学（Implementation Science）、癌症护理与公共卫生干预，克服了纯量化[[Clinical Trial\|临床试验]]忽视患者微观体验的弊端。
 
-克雷斯维尔的学说在当代权威教材与方法论文献中保持着极高的引证频次。
+克雷斯维尔的学说在当代权威教材与方法论[[Document|文献]]中保持着极高的引证频次。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 《研究设计》第六版，全面呈现世界观三维模型、量化与质性技术以及混合方法设计的最新标准化表述。

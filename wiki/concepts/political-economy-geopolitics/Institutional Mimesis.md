@@ -7,7 +7,7 @@ aliases:
 summary: "指区域或跨国组织为缓解治理赤字或争取国际合法性，主动移植并复制成熟区域一体化模板（如欧盟模式）的组织架构、决策机构与概念标签，但在缺乏实质性主权让渡与深层协商规范时容易导致纸面形式与实际运作分离的制度现象。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,14 +29,15 @@ related_theories:
 related_facts:
   - "[[EU]]"
   - "[[ASEAN]]"
-  - "[[Achieve]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[Coreper]]"
+  - "[[ASEAN Charter]]"
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: draft
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-10-29
 > [!citation-card] 制度拟态的复制限度
 > 若非欧洲区域组织试图通过制度拟态走捷径，无法保证这种模仿能够取得成效；形式的直接移植并不意味着能够自动获得支撑该机制有效运转的政治意愿与规范土壤。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 >
-> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to achieve.*
+> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the [[Committee of Permanent Representatives to ASEAN|CPR]] wishes to achieve.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Institutional Isomorphism|制度同构]] 制度同构是新制度主义解释组织[[Champ|场域]]整体结构趋同的上位宏观[[Paradigm|范式]]，包含强制型、规范型与模仿型机制；制度拟态更聚焦跨国与跨区域治理主体对外源制度形式的能动移植与象征性采纳。
@@ -88,6 +89,6 @@ updated: 2026-10-29
 ---
 
 > [!case] 典型案例：东盟对欧盟治理结构的制度拟态
-> - **形式采纳** 《东盟宪章》（2008）对标欧盟《马斯特里赫特条约》设立三大支柱，确立东盟法人地位，并依据第 12 条参照欧盟常驻代表委员会（Comité des Représentants Permanents, Coreper）在雅加达设立常驻东盟代表委员会（Committee of Permanent Representatives, CPR）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
+> - **形式采纳** [[ASEAN Charter|《东盟宪章》]]（2008）对标欧盟《马斯特里赫特条约》设立三大支柱，确立东盟法人地位，并依据第 12 条参照欧盟常驻代表委员会（Comité des Représentants Permanents, Coreper）在雅加达设立常驻东盟代表委员会（Committee of Permanent Representatives, CPR）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 > - **主权脱节** 该项拟态未移植欧盟多数表决制与超国家履约制裁权；在缅甸危机等重大治理议题上，不干预原则与绝对协商一致依然瘫痪了集体问责。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 532–534)]]
 > - **功能转向** CPR 在实践中转型为各使团在雅加达物理邻近下的非正式协调载体与对外多边伙伴对话枢纽，呈现为有限主权让渡下的适应性磋商载体。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 533–534)]]

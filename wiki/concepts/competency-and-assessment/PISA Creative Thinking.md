@@ -8,7 +8,7 @@ aliases:
 summary: "经合组织（OECD）在 PISA 2022 测评周期中正式引入的创新前沿构念与测试模块，评估 15 岁学生在真实或模拟情境中产生多样化构想、产生原创性构想以及评估与改进构想的高阶认知能力；测评涵盖书面表达、视觉表达、社会问题解决和科学问题解决四大表达与问题情境，标志着国际大规模评估从传统再现性认知技能向探索性与适应性高阶素养维度的延伸。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[PISA Global Competence]]"
+  - "[[Document]]"
   - "[[Discourse]]"
 related_theories: []
 related_methods: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-22
 > | [[PISA]] | 事实 | 正式立项、研发并推行创造性思维国际测评的主体工程。 |
 > | [[PISA Global Competence]] | 概念 | 同属于 PISA 探索新自由主义劳动力向综合公民素养拓展的前沿模块。 |
 > | [[Torrance Tests of Creative Thinking]] | 测量工具 | 启发 PISA 构念设计、历史上应用最广的经典心理学创造力纸笔测验。 |
-> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 批判 PISA 业务线不断向创造力等新领域扩张、以度量霸权笼罩全球教育的文献。 |
+> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 批判 PISA 业务线不断向创造力等新领域扩张、以度量霸权笼罩全球教育的[[Document\|文献]]。 |
 
 ---
 

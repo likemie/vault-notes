@@ -8,7 +8,7 @@ aliases:
 summary: "由伦敦大学学院EPPI中心学者兰格、特里普尼与高夫于2016年系统确立的研究利用综合框架，通过对全球改善决策者证据利用干预措施的系统综述，提炼出干预证据采纳的六大机制维度（意识、知识理解、动机态度、获取渠道、评估技能与制度机会），推动循证政策研究从规范性倡导转向对证据干预自身效果的实证检验。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Policy Fellowships and Placements]]"
   - "[[Policy Brokerage]]"
   - "[[Absorptive Capacity]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-26
 > | **意识唤起（Awareness）** | 帮助政策制定者建立对具体问题或实证价值的基本关注。 | 撰写大众博客、媒体发布会、政策议题推介会。 | 能够短期提升议题可见度，但难以单独驱动政策实质调整。 |
 > | **知识与理解（Knowledge & Understanding）** | 增进官员对证据方法论、适用边界及统计结论的深度理解。 | 政策简报（Policy Briefs）、通俗实务指南、结构化证据摘要。 | 是证据进入政策的前提，但在缺乏互动时容易造成信息超载。 |
 > | **动机与态度（Attitudes & Motivation）** | 激发决策团队采纳实证的内在认同与外部积极性。 | 同行政策审议对话、知名专家面对面研讨、循证卓越表彰。 | 显著提升官员的主动调阅意愿，建立人际学术信任。 |
-> | **获取渠道（Access）** | 降低决策者检索、获取与阅读学术文献的时间与技术门槛。 | 在线开放知识库（如 [[Planipolis]]）、实务问答热线、快速响应检索服务。 | 消除信息暗箱障碍，但对提升实际转化深度的独立作用有限。 |
+> | **获取渠道（Access）** | 降低决策者检索、获取与阅读学术[[Document\|文献]]的时间与技术门槛。 | 在线开放知识库（如 [[Planipolis]]）、实务问答热线、快速响应检索服务。 | 消除信息暗箱障碍，但对提升实际转化深度的独立作用有限。 |
 > | **技能与能力（Capabilities）** | 培养决策人员评估实证质量、辨别统计漏洞与提炼政策要点的技能。 | 实务研修班、政策分析驻访交流（[[Policy Fellowships and Placements]]）。 | 具有高持续转化成效，能重塑部委内部的证据鉴别能力。 |
 > | **制度机会与环境（Opportunity）** | 在行政规程内部确立证据调阅的法定义务与支撑空间。 | 在教育部委内部设立法定的证据评估处室、确立政策出台的实证审查门槛。 | 属于第三代系统转化的决定性支柱，能抵御政党轮替带来的政策波动。 |
 

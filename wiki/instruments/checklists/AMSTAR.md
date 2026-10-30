@@ -8,7 +8,7 @@ aliases:
 summary: "用于评估系统评价与元分析方法学质量的批判性评价规程，包含12项标准与高质量阈值判定"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 25
+instrument_related_count: 26
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#e5e7eb"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Publication Bias]]"
   - "[[Research Question]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Variable]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-30
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-16
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | 先验设计与方案注册 | 1 | 检验[[Research Question\|研究问题]]与纳入标准是否在综述开展前预先注册 | 二分类（满足得 1 分，未满足得 0 分） |
-> | [[Literature Search\|文献检索]]与筛选完整性 | 3 | 检验是否双人独立筛选提取、多数据库检索及检索灰色文献 | 二分类（每条 0/1 分） |
+> | [[Literature Search\|文献检索]]与筛选完整性 | 3 | 检验是否双人独立筛选提取、多数据库检索及检索灰色[[Document\|文献]] | 二分类（每条 0/1 分） |
 > | 纳入文献特征与透明度 | 2 | 检验是否提供纳入研究完整清单及汇总特征表或[[Forest Plot\|森林图]] | 二分类（每条 0/1 分） |
 > | 原始研究质量评估与应用 | 2 | 检验是否评估原始研究科学质量并在结论或调节分析中恰当使用 | 二分类（每条 0/1 分） |
 > | 统计综合与[[Effect Size\|效应量]]合并模型 | 2 | 检验合并方法是否恰当（[[Heterogeneity\|异质性]]检验、随机效应）及是否报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]] | 二分类（每条 0/1 分） |

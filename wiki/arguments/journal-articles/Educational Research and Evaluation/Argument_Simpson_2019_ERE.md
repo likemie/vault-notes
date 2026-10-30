@@ -9,7 +9,7 @@ title: "Argument_Simpson_2019_ERE"
 argument_key: "Argument_Simpson_2019_ERE"
 argument_display_title: "Separating arguments from conclusions: The mistaken role of effect size in educational policy research"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -41,13 +41,15 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Reach]]"
+  - "[[ASEAN Credit Transfer System]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
 related_arguments: []
 sources:
   - "[[sources/Simpson_2019_ERE|Simpson_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2019
 doi: ""
 citation_aliases:
@@ -103,7 +105,7 @@ citation_aliases:
 > - 缩短干预与测试之间的间隔
 >
 > > “清晰的敌人是噪音——任何增加实验噪音的因素……都会降低效应量。”
-> ("The enemy of clarity being noise — anything which acts to increase the noise of an experiment... will decrease effect size.")
+> ("The enemy of clarity being noise — anything which [[ASEAN Credit Transfer System|acts]] to increase the noise of an experiment... will decrease effect size.")
 >
 > ### 4. [[Category Mistake|范畴错误]]的严重程度
 >
@@ -112,7 +114,7 @@ citation_aliases:
 > - 按姓氏长度选购裤子——**较大的范畴错误**（无相关，不比随机更好）
 > - 效应量作为教育影响力的代理——属于后者：教育影响力是情境绑定的概念，效应量取决于研究者设计选择，"几乎没有明显的理由相信教育影响力与研究的清晰度（或噪声的缺乏）密切相关"
 >
-> **CPR 教学反例** 教人心脏复苏术——在正确情境下"字面意义上救命"——如果在异质样本上测试、使用标准化急救测试（而非 CPR 专项测试）、与某种较有效的替代教学法比较（而非"无 CPR 教学"对照），可能产生很小的效应量。"如果我们把效应量解读为实践显著性而非试验清晰度，我们可能拒绝一个实际上非常重要的方法。"
+> **[[Committee of Permanent Representatives to ASEAN|CPR]] 教学反例** 教人心脏复苏术——在正确情境下"字面意义上救命"——如果在异质样本上测试、使用标准化急救测试（而非 CPR 专项测试）、与某种较有效的替代教学法比较（而非"无 CPR 教学"对照），可能产生很小的效应量。"如果我们把效应量解读为实践显著性而非试验清晰度，我们可能拒绝一个实际上非常重要的方法。"
 >
 > ### 5. 效应量的合法技术角色
 >

@@ -8,7 +8,7 @@ summary: "加拿大著名教育变革与领导力学者，多伦多大学安大�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Educational Management Organisation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Teacher Collaboration]]"
   - "[[Professional Capital]]"
   - "[[Co-Design]]"
   - "[[Creativity]]"
@@ -48,7 +49,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 教育改革不是孤立的政策指令事件，而是一场由底层专业能力建设驱动的复杂系统演进；成功的全系统变革必须摒弃惩罚性问责、个体竞争与技术崇拜等“错误驱动力”，转向以教师协作专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
+> 教育改革不是孤立的政策指令事件，而是一场由底层专业能力建设驱动的复杂系统演进；成功的全系统变革必须摒弃惩罚性问责、个体竞争与技术崇拜等“错误驱动力”，转向以[[Teacher Collaboration|教师协作]]专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
 
 > [!citation-card] 全系统变革的正确驱动力与动能推进
 > 变革真正的催化剂不是外部施加的自上而下问责制，也不是购买炫目的硬件设备，而是依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累……通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）

@@ -10,7 +10,7 @@ summary: "俄勒冈大学荣休教授、直接教学法先驱，2000 年在福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,11 +31,13 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
   - "[[Empiricism]]"
+  - "[[Phonemic Awareness]]"
   - "[[Decodification]]"
   - "[[Learning Intentions]]"
   - "[[Scientism]]"
   - "[[Teacher Professional Agency]]"
 related_theories:
+  - "[[Discursive Institutionalism]]"
   - "[[Behaviorism]]"
 related_methods: []
 related_instruments: []
@@ -53,13 +55,13 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国俄勒冈大学（University of Oregon）教育学荣休教授，[[Direct Instruction|直接教学]]法（Direct Instruction, DI）的代表性领军人物与[[Evidence-Based Education|循证教育]]倡导者。
+> - **身份位置** 美国俄勒冈大学（University of Oregon）教育学荣休教授，[[Direct Instruction|直接教学]]法（Direct Instruction, [[Discursive Institutionalism|DI]]）的代表性领军人物与[[Evidence-Based Education|循证教育]]倡导者。
 > - **核心角色** 在当代教育循证规范与[[Neo-Taylorism|新泰勒主义]]技术治理网络中担任激进技术主义者角色；因极力主张教育全面效仿现代医学、严厉斥责传统教学经验为非科学而成为美国教育界争议的核心人物。
 > - **代表贡献** 与齐格弗里德·恩格尔曼（Siegfried Engelmann）共同奠定直接教学法的结构化教材系统；2000 年为保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]撰写里程碑式政策报告《为什么教育专家抵制有效做法》。
 
@@ -80,7 +82,7 @@ updated: 2026-10-22
 
 > [!work-line] 主要著作
 > - **2000 — *Why Education Experts Resist Effective Practices (And What It Would Take to Make Education More Like Medicine)*** 系统批判美国公立教育学院与教师工会对[[Behaviorism|行为主义]][[Effective Teaching|有效教学]]的抗拒，主张引入国家强制标准与医疗级干预清单，彻底打破教师自主[[Empiricism|经验主义]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
-> - **2004 — *[[Direct Instruction]] Reading* (Co-authored)** 直接教学法经典操作手册，详尽拆解音素意识、词汇[[Decodification|解码]]与流畅阅读的标准教学脚本与核查步骤。
+> - **2004 — *[[Direct Instruction]] Reading* (Co-authored)** 直接教学法经典操作手册，详尽拆解[[Phonemic Awareness|音素意识]]、词汇[[Decodification|解码]]与流畅阅读的标准教学脚本与核查步骤。
 
 ---
 

@@ -9,7 +9,7 @@ subtype: "program"
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -21,23 +21,26 @@ tags:
   - "region/uk"
   - "literacy"
   - "whole-school-approach"
-related_concepts: []
+related_concepts:
+  - "[[Cooperative Learning]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Success for All]]"
+  - "[[Education Endowment Foundation]]"
 related_arguments: []
 confidence: "medium"
 status: "draft"
 created: "2026-10-28"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ---
 
 > [!claim] 项目定位
-> 人人成功项目的英国实施版本（Success for All UK）面向英格兰小学；评估从入学班跟踪至一年级结束。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/success-for-all)
+> [[Success for All|人人成功]]项目的英国实施版本（Success for All UK）面向英格兰小学；评估从入学班跟踪至一年级结束。英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）将其列为有望项目。[项目页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/success-for-all)
 
 > [!program-context] 项目背景
 > - **立项年份** <span class="eef-pending">待核实</span>
@@ -46,7 +49,7 @@ updated: 2026-10-28
 ---
 
 > [!policy-design] 干预方案
-> - **学习活动** 将合成语音教学、持续评价、按阅读水平分组及合作学习结合，并安排家长参与和全校教师发展。
+> - **学习活动** 将合成语音教学、持续评价、按阅读水平分组及[[Cooperative Learning|合作学习]]结合，并安排家长参与和全校教师发展。
 
 [方案与实施安排](https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/success-for-all#nav-how-is-it-implemented)
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Research Utilization]]"
   - "[[Praxis]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Questionnaire]]"
   - "[[Cohort Study]]"
+  - "[[h-Index]]"
   - "[[Propensity Score Matching]]"
   - "[[Matching]]"
   - "[[Systematic Review]]"
@@ -65,7 +67,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-05
-updated: 2026-10-23
+updated: 2026-10-30
 year: 2025
 doi: ""
 citation_aliases:
@@ -107,7 +109,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 **阶段一：检索与筛选**
 
-在 Scopus and Web of Science 中以 UIC 相关术语组合检索标题、摘要和关键词，限定英文论文、2000–2022 年出版。初始命中 1,593 篇，经文档类型过滤（排除会议论文等）后保留 973 篇，去重后余 665 篇。以两个包含标准——"是否讨论 UIC 影响"和"是否提供测量机制或标准"——筛选摘要（必要时阅读全文），保留 172 篇。经全文深度阅读排除贡献深度不足的文献，最终核心文献 77 篇，再通过滚雪球策略追加 15 篇，合计分析 92 篇。
+在 Scopus and Web of Science 中以 UIC 相关术语组合检索标题、摘要和关键词，限定英文论文、2000–2022 年出版。初始命中 1,593 篇，经文档类型过滤（排除会议论文等）后保留 973 篇，去重后余 665 篇。以两个包含标准——"是否讨论 UIC 影响"和"是否提供测量机制或标准"——筛选摘要（必要时阅读全文），保留 172 篇。经全文深度阅读排除贡献深度不足的[[Document|文献]]，最终核心文献 77 篇，再通过滚雪球策略追加 15 篇，合计分析 92 篇。
 
 **阶段二：影响识别与分类**
 
@@ -332,7 +334,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > 
 > 利用网络计量指标（altmetrics）和其他数字工具，[[Cohort Study\|追踪研究]]产出在学术圈之外的传播和讨论——包括社交媒体、新闻媒体报道、政策文件和行业白皮书中的引用和提及(Bornmann, 2017)。
 > 
-> 传统引用指标（如期刊影响因子、h-index）只能捕捉学术共同体内部的关注度，但 UIC 的核心目标之一是产生社会影响——政策制定者是否参考了合作研究成果？从业者是否采纳了合作开发的新技术？患者群体是否从中受益？这些社会层面的影响不会出现在学术引用统计中，但可能在以下数字痕迹中留下信号：政府白皮书引用了合作项目的技术报告；非营利组织在社交平台上传播合作研究成果；行业媒体对合作的商业化进展做了专题报道。
+> 传统引用指标（如期刊影响因子、[[h-Index|h-index]]）只能捕捉学术共同体内部的关注度，但 UIC 的核心目标之一是产生社会影响——政策制定者是否参考了合作研究成果？从业者是否采纳了合作开发的新技术？患者群体是否从中受益？这些社会层面的影响不会出现在学术引用统计中，但可能在以下数字痕迹中留下信号：政府白皮书引用了合作项目的技术报告；非营利组织在社交平台上传播合作研究成果；行业媒体对合作的商业化进展做了专题报道。
 > 
 > Fini et al.(2018)进一步主张，数字工具可以帮助建立更高效的数据库，连接不同领域的知识，从而更全面地分析影响的广度和多样性。
 > 

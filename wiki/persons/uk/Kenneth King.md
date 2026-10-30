@@ -7,7 +7,7 @@ summary: "英国爱丁堡大学比较与国际教育荣休教授，国际技术�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[South-South Cooperation]]"
   - "[[Discourse]]"
+  - "[[Document]]"
+  - "[[Politics of Knowledge]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Geopolitics]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-10-23
 ---
 
 > [!timeline] 生平与职涯
-> - **1970年代** 执教于爱丁堡大学，聚焦非洲泛非主义教育史与非正规部门技能培训研究，奠定历史文献与[[Fieldwork|田野调查]]相结合的研究取向。
+> - **1970年代** 执教于爱丁堡大学，聚焦非洲泛非主义教育史与非正规部门技能培训研究，奠定历史[[Document|文献]]与[[Fieldwork|田野调查]]相结合的研究取向。
 > - **1986–2005** 出任爱丁堡大学非洲研究中心主任，长期主持并编辑 NORRAG 成果简报，推动国际发展组织教育援助政策的跨国批判分析。
 > - **2000年代** 持续追踪[[Forum on China-Africa Cooperation|中非合作论坛]]历届部长级会议与峰会的人力资源开发政策演变，拓展比较教育对新兴[[South-South Cooperation|南南合作]]力[[Quantitative Research|量的研究]]。
 > - **2013** 出版专著《中国对非洲的援助与[[Soft Power|软实力]]：以教育与培训为例》（*China's Aid and Soft Power in Africa: The Case of Education and Training*），系统考察[[Confucius Institute|孔子学院]]、留学生奖学金及对非职业技术培训的政策逻辑与实地效应。
@@ -87,7 +89,7 @@ updated: 2026-10-23
 >   - **代表著作** *Pan-Africanism and Education: A Study of Race Philanthropy and Education in the Southern States of America and East Africa* (1971); *The African Artisan: Education and the Informal Sector in Kenya* (1977)。
 >   - **关键概念** 泛非教育网络、非正规工匠、技能习得机制。
 >   - **阶段转向** 突破西方殖民主义教育框架，从非洲草根工匠与本土生产实践出发理解职业技能发展。
-> - **1990–2000年代 — 国际机构援助议程与知识政治学阶段**
+> - **1990–2000年代 — 国际机构援助议程与[[Politics of Knowledge|知识政治]]学阶段**
 >   系统解构多边与双边援助机构的教育分析[[Paradigm|范式]]，剖析全球知识援助背后的权力结构。
 >   - **代表著作** *Aid and Education in the Developing World: The Role of the Donor Agencies in Educational Analysis* (1991); *Knowledge Shared: [[World Bank]] Advisory Work in Education and Training* (2002)。
 >   - **关键概念** 知识援助（Knowledge Aid）、施援机构[[Discourse|话语]]、技术官僚咨询。

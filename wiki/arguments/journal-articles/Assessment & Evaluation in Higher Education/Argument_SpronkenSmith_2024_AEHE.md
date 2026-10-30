@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -35,7 +35,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Lifelong Learning]]"
+  - "[[Document]]"
   - "[[Creativity]]"
+  - "[[Time Management]]"
   - "[[Research Universities]]"
 related_theories: []
 related_methods:
@@ -55,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-26'
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 > [!question]
 > 针对高等教育机构面临的博士培养成效与质量认证压力，探讨不同国家和学科的博士毕业生，在多大程度上感知到博士阶段帮助其发展了[[Graduate Attributes\|毕业生特质]]，以及这些特质在职场中的实际应用程度，以识别博士培养中的系统性薄弱环节。
@@ -212,11 +214,11 @@ updated: 2026-10-23
 > | 素养维度 (Domain) | 子维度 (Subdomain) | 典型技能与品质示例 (Examples of attributes and skills) |
 > |---|---|---|
 > | **知识 (Knowledge)** | • 学科特定 (Discipline-specific)<br>• 跨学科 (Interdisciplinary)<br>• 专业职业 (Professional) | 评估自身原创性贡献的相关性与价值；整合两门或多门学科知识的能力；理解工作环境中的行政与运营流程。 |
-> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判文献、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。 |
+> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判[[Document\|文献]]、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。 |
 > | **沟通 (Communication)** | • 沟通原则 (Principles)<br>• 媒介与语言 (Media/Language)<br>• 学术发表 (Publication)<br>• 教学指导 (Teaching)<br>• 公众与企业 (Public/Enterprise) | 构建连贯论证、进行知识交换、向不同受众介绍研究；跨媒介与多语种沟通；理解发表流程；发展教学哲学、参与教学指导；促进公众理解、提升政策意识、了解学术成果商业化的可能性。 |
 > | **人际技能 (Interpersonal)** | • 协作团队 (Teamwork)<br>• 领导力 (Leadership) | 公开、直接且公正地与他人沟通，理解自身行为对他人的影响，有效管理关系与成功谈判，倾听他人；支持他人的学习。 |
 > | **高阶思维 (Higher-order)** | • 认知与创新 (Cognitive/Innovation) | 批判性思维、问题解决、认知能力、[[Creativity\|创造力]]与好奇心。 |
-> | **个人资源丰富性 (Resourcefulness)** | • 个人品质 (Qualities)<br>• 自我管理 (Self-management)<br>• 职业生涯管理 (Career)<br>• 学术身份 (Scholarship) | 保持研究热情与动力，诚信行事，自我反思与具备能动性，坚持不懈；自我与时间管理，关注工作与生活平衡；主动规划职业生涯、调研职业选项、建立并维护网络；终身学习，具有批判和反思实践的能力。 |
+> | **个人资源丰富性 (Resourcefulness)** | • 个人品质 (Qualities)<br>• 自我管理 (Self-management)<br>• 职业生涯管理 (Career)<br>• 学术身份 (Scholarship) | 保持研究热情与动力，诚信行事，自我反思与具备能动性，坚持不懈；自我与[[Time Management\|时间管理]]，关注工作与生活平衡；主动规划职业生涯、调研职业选项、建立并维护网络；终身学习，具有批判和反思实践的能力。 |
 > | **全球公民素养 (Global Citizenship)** | • 倡议与正义 (Advocacy)<br>• 多元素养 (Literacies) | 倡导与面向社会正义的倾向；具备数字素养、文化素养、社会沟通素养与环境素养。 |
 
 ---

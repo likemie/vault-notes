@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
   - "[[Operationalization]]"
+  - "[[Triangular Cooperation]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 > [!info] 背景
@@ -79,7 +80,7 @@ updated: 2026-10-22
 >
 > **数据收集困境**杨振东等 (2019) 列举了高质量数据获取受限、纵向数据收集成本、程序与标准不清、研究者培训不足等具体困难 (p.16)。
 >
-> **目前状态** 宣言推动了中国证据本位研究的制度化发展（论坛网络、[[Best Evidence in Brief\|BEiB]] 中文版、三方合作），但定义之争和统计主义等根本性争论仍在持续，显示方法论共识尚未达成。
+> **目前状态** 宣言推动了中国证据本位研究的制度化发展（论坛网络、[[Best Evidence in Brief\|BEiB]] 中文版、[[Triangular Cooperation|三方合作]]），但定义之争和统计主义等根本性争论仍在持续，显示方法论共识尚未达成。
 
 ## 相关概念／政策
 

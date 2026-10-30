@@ -8,7 +8,7 @@ summary: "美国当代著名教育心理学家与量化研究综合先驱，芝�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Home Environment]]"
+  - "[[Document]]"
   - "[[Intentionality]]"
   - "[[Construct]]"
 related_theories:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 （赫伯特·沃尔伯格）
@@ -109,7 +110,7 @@ updated: 2026-10-26
 
 > [!influence-path] 影响路径
 > - **[[Meta-meta-analysis|二阶元分析]]与元综合[[Paradigm|范式]]开创** 沃尔伯格与弗雷泽、[[John Hattie|哈蒂]]在 1987 年的合作是二阶[[Meta-analysis|元分析]]的历史源头，直接催生了哈蒂后续享誉全球的《[[Visible Learning|可见的学习]]》。
-> - **[[Behaviorism|行为主义]]强化实证遗产** 莱萨科夫斯基与沃尔伯格（1980, 1982）关于强化的元分析，成为 20 世纪后期为行为主义学习论提供大样本实证辩护的最重要文献。
+> - **[[Behaviorism|行为主义]]强化实证遗产** 莱萨科夫斯基与沃尔伯格（1980, 1982）关于强化的元分析，成为 20 世纪后期为行为主义学习论提供大样本实证辩护的最重要[[Document|文献]]。
 > - **政策工具箱设计借鉴** 英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation]]）创立的教学工具箱（[[EEF Teaching and Learning Toolkit]]），在设计结构上深刻吸收了沃尔伯格将干预措施按[[Effect Size|效应量]]与成本横向比较的生产力哲学。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 47)]]
 
 ---

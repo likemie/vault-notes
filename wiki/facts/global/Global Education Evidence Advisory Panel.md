@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,8 @@ tags:
   - world-bank
   - educational-development
 related_concepts:
+  - "[[Smart Buys]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Multilateral Development Bank]]"
   - "[[Causality]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 
 ---
@@ -69,13 +71,13 @@ updated: 2026-10-23
 > - **成立时间 / 创设背景** 创设于 2020 年。当时全球新冠疫情引发严重学习损失，且受援国面临严峻财政紧缩压力，四大召集机构联合组建该小组，旨在确立跨国教育投资的优先次序。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 > - **总部地点 / 业务辐射** 秘书处常设于美国华盛顿特区的世界银行总部，业务覆盖全球所有低收入和中等收入国家的教育部委、财政部门与国际发展援助主体。
 > - **法人属性与经费基础** 由多边发展机构与双边主权援助方联合出资组建的独立国际顾问专家团，资金来源于四大多边与双边召集方的联合专项赠款。
-> - **核心宗旨与法定职责** 汇集全球最具方法严谨性的教育评估证据，测算单位投入产出效益，制定“智能购买”（Smart Buys）分级投资建议清单，协助受援国政府与资助方规避低效支出。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346)]]
+> - **核心宗旨与法定职责** 汇集全球最具方法严谨性的教育评估证据，测算单位投入产出效益，制定“[[Smart Buys|智能购买]]”（Smart Buys）分级投资建议清单，协助受援国政府与资助方规避低效支出。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346)]]
 > - **官方平台与在线门户** 官方门户为 [Global Education Evidence Advisory Panel (GEEAP)](https://www.worldbank.org/en/topic/education/brief/global-education-evidence-advisory-panel)，提供核心业务信息与公开资源检索。
 
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **2020 — 联合创设与独立学术小组搭建** 世界银行、英国外交部（FCDO）、UNICEF 与 USAID 正式确立合作框架并发布章程，遴选来自全球顶尖高校与国际机构的十余位教育经济学、公共政策与量化评估学者组成首届顾问委员会，启动首轮全球教育干预因果实证文献审查。
+> - **2020 — 联合创设与独立学术小组搭建** 世界银行、英国外交部（FCDO）、UNICEF 与 USAID 正式确立合作框架并发布章程，遴选来自全球顶尖高校与国际机构的十余位教育经济学、公共政策与量化评估学者组成首届顾问委员会，启动首轮全球教育干预因果实证[[Document|文献]]审查。
 > - **2020–2022 — 首份“智能购买”报告发布与危机应对** 针对全球疫情后的学习中断危机，发布首份旗舰咨询报告《具有高成本效益的教育投入》（*Cost-Effective Approaches to Improve Global Learning*），正式确立将教育干预划分为“绝佳投资”（Great Buys）、“良好投资”（Good Buys）、“潜力投资”（Promising Buys）与“低效支出”（Bad Buys）的四级评估框架。
 > - **2023–至今 — 影响深化与全球实证[[Discourse|话语]]争议** 持续发布关于基础识字、教师专业发展及教育技术投资的专题循证简报。伴随其评估框架被广泛纳入各大[[Multilateral Development Bank|多边开发银行]]与受援国教育部门预算规划，其排他性推崇大样本[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial，RCT）与去情境化实证指引的治理模式，在学术界引发了持续的批判与审议。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 347)]]
 

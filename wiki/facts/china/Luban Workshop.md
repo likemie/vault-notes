@@ -9,7 +9,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
+  - "[[Document]]"
 related_theories:
   - "[[Dependency Theory]]"
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-10-26
 > | [[South-South Cooperation]] | Concept | 鲁班工坊所属的南南教育合作与产能协同[[Paradigm\|范式]]。 |
 > | [[Forum on China-Africa Cooperation]] | Fact (Organization) | 部署非洲10所鲁班工坊建设与提供专项外事机制支持的宏观多边平台。 |
 > | [[Hard Power]] | Concept | 依托实体装备与跨国基建产能支撑的物质性[[Education Going Global\|教育出海]]实践。 |
-> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 剖析高职院校出海与鲁班工坊配套国家地缘战略的核心实证文献。 |
+> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 剖析高职院校出海与鲁班工坊配套国家地缘战略的核心实证[[Document\|文献]]。 |
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理中非合作论坛第七届峰会鲁班工坊承诺及吉布提首站落地实证案例的文献。 |
 > | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证审视鲁班工坊在南亚与中亚的布局规模、跨国校企技术联盟网络及缓解基建用工争议功能的代表性文献。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 分析海外职教工坊从单校点状合作向产业链线面平台及产教生态圈深化的制度逻辑与实践进路。 |
