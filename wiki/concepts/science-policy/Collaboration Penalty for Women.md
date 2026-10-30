@@ -10,7 +10,7 @@ aliases:
 summary: "在推行姓氏字母序署名的学术学科中，女性学者在团队合著论著中所遭遇的系统性职业晋升折损现象。全美顶尖经济学系教员晋升实证表明，独立发表论著为男女学者带来对等的终身教职概率提升（每篇约 8% 至 9%）；然而在合署成果中，男性能获得完全对等的晋升信用，女性与女性合著的晋升回报减半，与男性合著时的终身教职回报则基本归零；而在采用贡献位次署名的社会学领域该惩罚完全消失，确证署名信息模糊性构成了无意识性别归因偏见滋生的关键制度条件。"
 type: concept
 domain: "science-policy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ tags:
   - theme/sociology-of-science
 related_concepts:
   - "[[Alphabetical Authorship]]"
-  - "[[SOLO Taxonomy]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---

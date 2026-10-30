@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 18
+argument_related_count: 11
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -29,29 +29,22 @@ tags:
   - theme/credit-allocation
   - theme/academic-inequality
 related_concepts:
-  - "[[Scientific Credit]]"
   - "[[Alphabetical Authorship]]"
   - "[[Collaboration Penalty for Women]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Scientific Credit]]"
   - "[[Reverse Matthew Effect in Academia]]"
-  - "[[Coauthorship Network]]"
-  - "[[Team Science]]"
 related_theories:
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Collective Credit Allocation Algorithm]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
   - "[[Douglas Prasher]]"
   - "[[Dorothy Swaine Thomas]]"
-  - "[[Heather Sarsons]]"
   - "[[Hua-Wei Shen]]"
-related_facts:
-  - "[[Nobel Prize in Physics]]"
-  - "[[Nobel Prize in Chemistry]]"
+  - "[[Albert-László Barabási]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[books/Wang_Barabasi_2021_Cambridge/Wang_Barabasi_2021_Cambridge|Wang_Barabasi_2021_Cambridge]]"
