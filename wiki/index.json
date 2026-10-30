@@ -11881,6 +11881,17 @@
     ]
   },
   {
+    "title": "Social Sensitivity",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Social Sensitivity.md",
+    "aliases": [
+      "社会敏感度",
+      "社交敏感性",
+      "社会共情度",
+      "社交共情敏感度"
+    ]
+  },
+  {
     "title": "Social Support",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Social Support.md",
@@ -12029,6 +12040,18 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Transfer Strategies.md",
     "aliases": [
       "迁移策略"
+    ]
+  },
+  {
+    "title": "Turn-Taking Equality",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md",
+    "aliases": [
+      "发言轮流均等性",
+      "对话轮流平等性",
+      "对话轮转均等度",
+      "Equality in Turn-Taking",
+      "Conversational Turn-Taking Equality"
     ]
   },
   {
@@ -27170,6 +27193,18 @@
       "批判性分析与推理技能测验",
       "MCAT CARS",
       "Medical College Admission Test (MCAT)"
+    ]
+  },
+  {
+    "title": "Reading the Mind in the Eyes Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Reading the Mind in the Eyes Test.md",
+    "aliases": [
+      "眼区读心测试",
+      "眼睛读心测试",
+      "RMET",
+      "Eyes Test",
+      "Reading the Mind in the Eyes"
     ]
   },
   {

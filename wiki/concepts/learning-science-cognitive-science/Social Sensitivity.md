@@ -7,21 +7,22 @@ aliases:
   - 社交共情敏感度
 summary: "在认知科学与组织心理学中，指个体准确感知、识别与推断同伴面部表情、微妙情绪及非言语社交线索的心智能力；通常由眼区读心测试（RMET）进行量化，实证证实团队成员的平均社会敏感度是决定群体集体智慧与解决复杂问题能力的核心预测指标。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/learning-science-cognitive-science
   - theme/social-cognition
   - theme/team-science
   - theme/collective-intelligence
-related_concepts:
-  - "[[Collective Intelligence]]"
-  - "[[Turn-Taking Equality]]"
-  - "[[Too-Much-Talent Effect]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments:
   - "[[Reading the Mind in the Eyes Test]]"
-related_persons:
-  - "[[Anita Williams Woolley]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
@@ -75,7 +76,7 @@ updated: 2026-10-30
 ---
 
 > [!concept-proposition] 命题一｜成员平均社会敏感度直接决定团队在多样化任务中的集体协同效能
-> **探讨维度　共情感知能力对群体智能的驱动机制** 该命题探讨社会敏感度对团队通用能力的预测价值。实证研究证实，团队整体解决问题的能力并不取决于最聪明的单兵个体，而是取决于团队成员感知同伴微观心理状态并顺畅协调的共情能力。
+> **探讨维度　共情感知能力对群体智能的驱动机制** 该命题探讨社会敏感度对团队通用能力的预测价值。实证研究证实，团队整体解决问题的能力受成员感知同伴微观心理状态并顺畅协调的共情能力驱动，最聪明的单兵个体智力均值与最高值均未达到显著预测效力。
 >
 > [!claim] Woolley, A. W.
 > **平均社会敏感度显著预测集体智慧因子** 学者基于数百组面对面团队的控制实验，测定各成员在眼区读心测试（RMET）上的得分；数据表明，团队平均社会敏感度与衡量团队通用解决问题能力的 $c$ 因子呈现高度显著的正向相关（$r = 0.26, p = 0.002$），而单兵智力均值与最高智力均未达到显著水平。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]

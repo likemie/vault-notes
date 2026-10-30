@@ -9,13 +9,17 @@ aliases:
 summary: "由西蒙·巴伦-科恩等学者研发的心智理论与社会认知标准化心理测量工具；通过呈现 36 张仅展现眼部区域的黑白面部照片，要求受测者从 4 个复杂情绪词汇中选出唯一正确匹配项；在团队科学中被用于测定团队成员的平均社会敏感度，证实其对群体集体智慧具有强大的正向预测效力。"
 type: instrument
 instrument_type: test
+instrument_related_count: 5
+instrument_related_level: 0
+instrument_related_stars: "☆"
+instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
-  - "Simon Baron-Cohen"
-  - "Sally Wheelwright"
-  - "Jacqueline Hill"
-  - "Yogesh Raste"
-  - "Ian Plumb"
+  - "Baron-Cohen, S."
+  - "Wheelwright, S."
+  - "Hill, J."
+  - "Raste, Y."
+  - "Plumb, I."
 original_year: "2001"
 languages:
   - en
@@ -29,13 +33,10 @@ tags:
   - theme/team-science
 related_concepts:
   - "[[Social Sensitivity]]"
-  - "[[Collective Intelligence]]"
-  - "[[Turn-Taking Equality]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Anita Williams Woolley]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"

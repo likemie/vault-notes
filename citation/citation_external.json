@@ -1725,6 +1725,10 @@
     "Barney Glaser, 1978": "Barney Glaser, 1978",
     "Baron (1988)": "Baron, 1988",
     "Baron, 1988": "Baron, 1988",
+    "Baron-Cohen et al. (1997)": "Baron-Cohen et al., 1997",
+    "Baron-Cohen et al. (2001)": "Baron-Cohen et al., 2001",
+    "Baron-Cohen et al., 1997": "Baron-Cohen et al., 1997",
+    "Baron-Cohen et al., 2001": "Baron-Cohen et al., 2001",
     "Baroody (2009)": "Baroody, 2009",
     "Baroody, 2009": "Baroody, 2009",
     "Baroutsis & Lingard (2016)": "Baroutsis & Lingard, 2016",
@@ -21648,6 +21652,8 @@
     "Simon (1978)": "Simon, 1978",
     "Simon (1996)": "Simon, 1996",
     "Simon (2003)": "Simon, 2003",
+    "Simon Baron-Cohen et al. (2001)": "Simon Baron-Cohen et al., 2001",
+    "Simon Baron-Cohen et al., 2001": "Simon Baron-Cohen et al., 2001",
     "Simon Marginson (2022)": "Simon Marginson, 2022",
     "Simon Marginson (2025)": "Simon Marginson, 2025",
     "Simon Marginson, 2022": "Simon Marginson, 2022",
@@ -39576,6 +39582,37 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Open-Mindedness.md"
+      ],
+      "title": ""
+    },
+    "Baron-Cohen et al., 1997": {
+      "aliases": [
+        "Baron-Cohen et al., 1997",
+        "Baron-Cohen et al. (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baron-Cohen et al., 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/tests/Reading the Mind in the Eyes Test.md"
+      ],
+      "title": ""
+    },
+    "Baron-Cohen et al., 2001": {
+      "aliases": [
+        "Baron-Cohen et al., 2001",
+        "Baron-Cohen et al. (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baron-Cohen et al., 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Social Sensitivity.md",
+        "wiki/instruments/tests/Reading the Mind in the Eyes Test.md"
       ],
       "title": ""
     },
@@ -184507,6 +184544,21 @@
       ],
       "title": ""
     },
+    "Simon Baron-Cohen et al., 2001": {
+      "aliases": [
+        "Simon Baron-Cohen et al., 2001",
+        "Simon Baron-Cohen et al. (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simon Baron-Cohen et al., 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/tests/Reading the Mind in the Eyes Test.md"
+      ],
+      "title": ""
+    },
     "Simon Marginson, 2022": {
       "aliases": [
         "Simon Marginson, 2022",
@@ -211654,7 +211706,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
-        "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
+        "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md",
+        "wiki/concepts/learning-science-cognitive-science/Social Sensitivity.md",
+        "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
       ],
       "title": ""
     },

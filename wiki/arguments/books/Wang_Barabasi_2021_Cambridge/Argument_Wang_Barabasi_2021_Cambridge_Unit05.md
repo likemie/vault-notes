@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -36,11 +36,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Assemblage]]"
   - "[[Too-Much-Talent Effect]]"
-  - "[[Team Diversity]]"
-  - "[[Hyperauthorship]]"
   - "[[Homophily]]"
+  - "[[Team Diversity]]"
   - "[[Social Sensitivity]]"
   - "[[Turn-Taking Equality]]"
+  - "[[Hyperauthorship]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Emergence]]"

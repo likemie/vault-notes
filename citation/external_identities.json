@@ -7542,6 +7542,23 @@
       ],
       "title": ""
     },
+    "Baron-Cohen et al., 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/tests/Reading the Mind in the Eyes Test.md"
+      ],
+      "title": ""
+    },
+    "Baron-Cohen et al., 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Social Sensitivity.md",
+        "wiki/instruments/tests/Reading the Mind in the Eyes Test.md"
+      ],
+      "title": ""
+    },
     "Baroody, 2009": {
       "datasets": [
         "eef-ey:early-numeracy-approaches"
@@ -95189,6 +95206,14 @@
       ],
       "title": ""
     },
+    "Simon Baron-Cohen et al., 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/tests/Reading the Mind in the Eyes Test.md"
+      ],
+      "title": ""
+    },
     "Simon Marginson, 2022": {
       "doi": "",
       "isbn": "",
@@ -111772,7 +111797,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
-        "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
+        "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md",
+        "wiki/concepts/learning-science-cognitive-science/Social Sensitivity.md",
+        "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
       ],
       "title": ""
     },

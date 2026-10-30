@@ -8,20 +8,21 @@ aliases:
   - Conversational Turn-Taking Equality
 summary: "在组织沟通与群体动力学中，指团队互动会话中成员发言频次与时间分布的均等程度（以会话轮换的方差测度）。实证研究表明，发言均等度高的团队能有效抑制单兵权威垄断，促进多元观点充分汇聚，是预测团队集体智慧卓越表现的关键行为互动指标。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/learning-science-cognitive-science
   - theme/group-dynamics
   - theme/team-science
   - theme/collective-intelligence
-related_concepts:
-  - "[[Collective Intelligence]]"
-  - "[[Social Sensitivity]]"
-  - "[[Too-Much-Talent Effect]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Anita Williams Woolley]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
