@@ -74,9 +74,11 @@ updated: 2026-10-30
 
 ---
 
-## 关联概念与理论
-
-- 核心现象：[[Team Science]]
-- 知识载体：[[Document]]
-- 拓扑呈现：[[Coauthorship Network]]
-- 理论机制：[[Burden of Knowledge]]
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Team Science]] | Concept | 知识生产的基本协同组织形式。 |
+> | [[Burden of Knowledge]] | Theory | 驱动超大规模团队分工协同以超越个人脑力极限的理论机制。 |
+> | [[Coauthorship Network]] | Concept | 编纂学者协同构成的超大规模合作拓扑。 |
+> | [[Document]] | Concept | 全书汇编的经史子集知识载体与纸本类书形态。 |

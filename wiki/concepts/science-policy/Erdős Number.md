@@ -7,10 +7,10 @@ aliases:
 summary: "在科学合著网络中测度学者与高产数学家保罗·埃尔德什之间最短合作拓扑距离的图论指标；埃尔德什本人的值为 0，其直接合著者为 1，与合著者合作过者为 2，以此类推；数学界中位数约为 5，绝大多数学者聚集在 2 至 5 之间，生动体现了科学界的异质性度分布与小世界近距连通特性。"
 type: concept
 domain: "science-policy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/network-science
@@ -20,19 +20,17 @@ related_concepts:
   - "[[Coauthorship Network]]"
   - "[[Giant Component]]"
   - "[[Clustering Coefficient]]"
-  - "[[Team Science]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
   - "[[Preferential Attachment in Academia]]"
-related_methods:
-  - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paul Erdős]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -88,21 +86,43 @@ updated: 2026-10-30
 
 ---
 
-## 围绕概念形成的命题
+> [!concept-proposition] 命题一｜埃尔德什数实测分布证实科学合作网络具有高度全局凝聚力
+> **探讨维度　学术共同体的拓扑连通性** 探讨高度分散的学术个体是否通过少数超级枢纽节点形成紧密相连的全局整体。
+
+> [!claim] Wang, D. & Barabási, A.-L.
+> **超短平均距离与全局连通** 科学家的合著网络依托超级枢纽节点的辐射形成紧密的拓扑缝合；数学界全域中位数仅为 5 步，绝大多数学者聚集在 2 至 5 步之间，表明现代科学系统是由短程连接紧密耦合的协同网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–104)]]
 
 ---
 
-> [!claim|step] 命题一　埃尔德什数的存在揭示科学合作具有高度全局凝聚力，展现整体性连通格局
-> 科学家的合著网络依托少数超级枢纽节点的辐射形成紧密的拓扑缝合；数学界全域平均距离不足 5 步，表明现代学术界具有由短程连接构成的紧密协作体。（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021, pp. 102–104]]）
+> [!concept-proposition] 命题二｜超级枢纽学者的跨界合作充当了知识扩散的拓扑捷径
+> **探讨维度　跨学科合作的网络桥接效应** 剖析高产学者的跨学科连接对降低学科间智力流动阻力的结构机制。
 
-> [!claim|step] 命题二　超级高产学者的跨学科合作充当了科学知识跨界扩散的拓扑高速公路
-> 埃尔德什庞大的合著规模不仅串联了纯数学领域，更通过与物理、计算机及生物信息学者的交叉合作，使非数学领域学者同样具备了极小的埃尔德什数，为跨学科思想交换提供了低摩擦的结构通道。（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021, pp. 107–108]]）
+> [!claim] Wang, D. & Barabási, A.-L.
+> **跨界合著通道与知识溢出** 埃尔德什庞大的合著规模不仅串联了数学界内部，更通过与物理、计算机及生物信息学者的交叉合作，使非数学领域学者同样具备了极小的埃尔德什数，充当了跨学科思想交换的高速通道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 
 ---
 
-## 关联概念与理论
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **拓扑连通性** | 衡量学术合作网络在图论意义上的全局紧凑性与低平均距离 | 学科合著网络拓扑结构分析 | Wang & Barabási |
+> | **跨界溢出效应** | 超级枢纽节点的长程跨学科连接降低知识流动阻力 | 跨学科创新扩散与科学合作 | Wang & Barabási |
 
-- 基础结构：[[Coauthorship Network]]
-- 拓扑基底：[[Giant Component]]
-- 局域组织：[[Clustering Coefficient]]
-- 理论机制：[[Small-World Collaboration Model]]、[[Preferential Attachment in Academia]]
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 第 10 章系统测算数学界埃尔德什数分布（图 10.2），阐释小世界合著网络与跨学科渗透。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Coauthorship Network]] | 概念 | 埃尔德什数计算所依附的无向学者署名网络载体。 |
+> | [[Giant Component]] | 概念 | 为有限埃尔德什数的存在提供连通性拓扑前提。 |
+> | [[Clustering Coefficient]] | 概念 | 与平均路径长度共同界定小世界网络特性的局域测度。 |
+> | [[Small-World Collaboration Model]] | 理论 | 解释科学界兼具高局部集聚与短全局距离的理论模型。 |
+> | [[Preferential Attachment in Academia]] | 理论 | 驱动超级枢纽学者吸引海量合著者从而塑造极短跳数的演化机制。 |
+> | [[Paul Erdős]] | 人物 | 拥有埃尔德什数定义零点与 512 位直接合著者的核心数学家。 |
+> | [[Bibliometric Analysis]] | 方法 | 提取合著记录并测算学者间拓扑距离的文献计量方法。 |

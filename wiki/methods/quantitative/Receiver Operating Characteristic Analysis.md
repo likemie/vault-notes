@@ -132,9 +132,16 @@ updated: 2026-10-30
 
 ---
 
-## 关联概念与理论
+> [!entry-map] 相关条目
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Predictive Validity]] | 测量对象 | ROC 分析所量化检验的核心效度构念。 |
+> | [[Q-Model]] | 理论 | 为预测模型提供底层能力稳态假设的理论框架。 |
+> | [[h-Index]] | 替代方法 | ROC 竞赛中参与精准度比对的经典基准指标。 |
+> | [[Q-Factor]] | 评价方法 | 在诺奖预测 ROC 比对中表现最优的核心计量指标。 |
 
-- 核心理论：[[Q-Model]]
-- 评价指标：[[Q-Factor]]、[[h-Index]]
-- 检验构念：[[Predictive Validity]]
-- 核心学者：[[Roberta Sinatra]]、[[Dashun Wang]]、[[Albert-László Barabási]]
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 运用 ROC 曲线与 AUC 面积系统检验五大评价指标对顶尖诺奖学者的预测有效性。

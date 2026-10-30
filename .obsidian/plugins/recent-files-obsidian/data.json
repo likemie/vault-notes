@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+    },
+    {
+      "basename": "Peer Effects in Science",
+      "path": "wiki/concepts/science-policy/Peer Effects in Science.md"
+    },
+    {
+      "basename": "Difference-in-Differences",
+      "path": "wiki/methods/quantitative/Difference-in-Differences.md"
+    },
+    {
+      "basename": "Clique Percolation Method",
+      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
+    },
+    {
+      "basename": "Network Analysis",
+      "path": "wiki/methods/mixed/Network Analysis.md"
     },
     {
       "basename": "Erdős Number",
@@ -11,10 +35,6 @@
     {
       "basename": "Clustering Coefficient",
       "path": "wiki/concepts/science-policy/Clustering Coefficient.md"
-    },
-    {
-      "basename": "Clique Percolation Method",
-      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
     },
     {
       "basename": "Death of Distance",
@@ -43,10 +63,6 @@
     {
       "basename": "Random Impact Rule",
       "path": "wiki/theories/science-policy/Random Impact Rule.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
     },
     {
       "basename": "template-concept",
@@ -83,10 +99,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
     },
     {
       "basename": "Argument_Skipp_Tanner_2015_EEF",
@@ -187,18 +199,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "template-eef",
-      "path": "wiki/templates/template-eef.md"
-    },
-    {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
-    },
-    {
-      "basename": "template-metax",
-      "path": "wiki/templates/template-metax.md"
     }
   ],
   "omittedPaths": [],

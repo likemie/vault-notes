@@ -11,7 +11,7 @@ summary: "创新经济学与科学社会学学者，佐治亚理工学院施勒�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -93,6 +93,14 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - 核心科研伙伴：[[Pierre Azoulay]]（共同探讨明星学者猝逝因果效应）、Ajay Agrawal、John McHale
-> - 核心构念：[[Peer Effects in Science]]、[[Star Scientists]]
-> - 机构依托：[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]
+> - **科研伙伴** [[Pierre Azoulay]] — 共同探讨同行学者外生离世对学术网络生产力的因果效应。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Peer Effects in Science]] | 概念 | 提出热心学者假说并实证检验智识互助对同行研究质量的非对称溢出价值。 |
+> | [[Difference-in-Differences]] | 方法 | 结合倾向得分匹配与双重差分评估学者离世对留守同行产出的因果冲击。 |
+> | [[Bibliometric Analysis]] | 方法 | 运用致谢文本挖掘与科学计量学度量不可编码的学术人际互动。 |

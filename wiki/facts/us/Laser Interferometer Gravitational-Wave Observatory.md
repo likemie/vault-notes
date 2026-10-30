@@ -78,9 +78,11 @@ updated: 2026-10-30
 
 ---
 
-## 关联概念与理论
-
-- 核心组织：[[Team Science]]
-- 合作拓扑：[[Coauthorship Network]]
-- 知识机制：[[Burden of Knowledge]]
-- 资助机构：[[National Science Foundation]]
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Team Science]] | Concept | 支撑引力波探测超大规模协作攻关的团队科学模式。 |
+> | [[Burden of Knowledge]] | Theory | 驱动物理学科向大团队与极端复杂仪器转型的底层知识负担机制。 |
+> | [[Coauthorship Network]] | Concept | 千人超署名构成的跨国超大规模合作网络拓扑。 |
+> | [[National Science Foundation]] | Fact (Organization) | 提供全额资金资助与长期战略支持的国家科学基金会。 |

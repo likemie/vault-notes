@@ -6001,6 +6001,8 @@
     "Diamond (2019)": "Diamond, 2019",
     "Diamond, 2013": "Diamond, 2013",
     "Diamond, 2019": "Diamond, 2019",
+    "Diana Crane (1972)": "Diana Crane, 1972",
+    "Diana Crane, 1972": "Diana Crane, 1972",
     "Diane F. Halpern (2010)": "Diane F. Halpern, 2010",
     "Diane F. Halpern, 2010": "Diane F. Halpern, 2010",
     "Diane Stone (2000)": "Diane Stone, 2000",
@@ -11560,6 +11562,8 @@
     "Jetschke & Murray, 2012": "Jetschke & Murray, 2012",
     "Jetschke et al. (2015)": "Jetschke et al., 2015",
     "Jetschke et al., 2015": "Jetschke et al., 2015",
+    "Jewish scientists in Nazi Germany (1933)": "Jewish scientists in Nazi Germany, 1933",
+    "Jewish scientists in Nazi Germany, 1933": "Jewish scientists in Nazi Germany, 1933",
     "Jeynes & Littell (2000a)": "Jeynes & Littell, 2000a",
     "Jeynes & Littell (2000b)": "Jeynes & Littell, 2000b",
     "Jeynes & Littell, 2000": "Jeynes & Littell, 2000a",
@@ -70797,6 +70801,21 @@
       "seen_in": [],
       "title": "Randomized control trial of Tools of the Mind  Marked benefits to kindergarten children and their teachers"
     },
+    "Diana Crane, 1972": {
+      "aliases": [
+        "Diana Crane, 1972",
+        "Diana Crane (1972)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Diana Crane, 1972"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Diane F. Halpern, 2010": {
       "aliases": [
         "Diane F. Halpern, 2010",
@@ -111375,6 +111394,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Norm Localisation.md"
+      ],
+      "title": ""
+    },
+    "Jewish scientists in Nazi Germany, 1933": {
+      "aliases": [
+        "Jewish scientists in Nazi Germany, 1933",
+        "Jewish scientists in Nazi Germany (1933)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jewish scientists in Nazi Germany, 1933"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Fabian Waldinger.md"
       ],
       "title": ""
     },

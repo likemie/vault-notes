@@ -91,21 +91,42 @@ updated: 2026-10-30
 
 ---
 
-## 围绕概念形成的命题
+> [!concept-proposition] 命题一｜巨连通分支的自发涌现将科学共同体塑造为紧密互联的协同拓扑
+> **探讨维度　学术合作网络的宏观相变** 探讨局部合作如何通过渗流机制形成覆盖全学科的全局互联骨架。
+
+> [!claim] Wang, D. & Barabási, A.-L.
+> **渗流相变与全局吸附** 在合作网络演化中，渗流机制促使全学科 80% 至 90% 的学者被吸附进同一个巨连通骨架内，消除了孤立学术群岛，构成了协同创新的有机整体。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–109)]]
 
 ---
 
-> [!claim|step] 命题一　巨连通分支的自发涌现将科学共同体塑造为紧密互联的协同拓扑
-> 在合作网络演化中，渗流机制促使全学科绝大部分学者被吸附进同一个巨连通骨架内，构成了协同创新的有机整体。（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021, pp. 107–109]]）
+> [!concept-proposition] 命题二｜处于巨连通分支之外的孤立节点面临前沿知识边缘化风险
+> **探讨维度　网络位置对知识获取的非对称影响** 剖析未能接入巨连通分支的边缘学者在信息捕获与学术认可上的结构劣势。
 
-> [!claim|step] 命题二　处于巨连通分支之外的孤岛学者面临更高的前沿知识边缘化风险
-> 由于无法接入巨连通分支的合作高速公路，滞留在外围孤立组件中的学者难以在第一时间吸纳最新的默会知识与仪器方法，其成果在能见度与跨学科影响力上处于系统性弱势。（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021, pp. 108–109]]）
+> [!claim] Wang, D. & Barabási, A.-L.
+> **拓扑脱嵌与知识滞后** 由于无法接入巨连通分支的合作通道，滞留在外围孤立组件中的学者难以在第一时间吸纳最新的默会知识与仪器方法，其成果在能见度与跨学科影响力上处于系统性弱势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 108–109)]]
 
 ---
 
-## 关联概念与理论
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **全局宏观相变** | 局部合作密度突破阈值诱发全网拓扑锁结 | 学科合著网络宏观演化与规模扩张 | Wang & Barabási |
+> | **结构边缘化** | 脱嵌于巨组件导致学术孤岛效应与知识扩散受阻 | 边缘学者与新兴未整合学科分析 | Wang & Barabási |
 
-- 基础网络：[[Coauthorship Network]]
-- 距离测度：[[Erdős Number]]
-- 局域指标：[[Clustering Coefficient]]
-- 理论支撑：[[Small-World Collaboration Model]]、[[Preferential Attachment in Academia]]
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 第 10 章第 10.3 节结合物理学与生物医学合著网络，实证剖析巨连通分支的渗流机制与 80%–90% 覆盖率。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Coauthorship Network]] | 概念 | 巨连通分支赖以涌现的学者间合署发表无向网络。 |
+> | [[Erdős Number]] | 概念 | 巨连通分支内部学者普遍拥有有限合作跳数的具体表现指标。 |
+> | [[Clustering Coefficient]] | 概念 | 刻画巨连通分支微观局域密实度的互补拓扑指标。 |
+> | [[Six Degrees of Separation]] | 概念 | 依托巨连通分支所实现的跨学科超短拓扑距离。 |
+> | [[Small-World Collaboration Model]] | 理论 | 统合巨连通性与局域高聚类的团队合作生成理论。 |
+> | [[Preferential Attachment in Academia]] | 理论 | 驱动网络中心度两极分化并加速巨组件凝聚的演化机制。 |
