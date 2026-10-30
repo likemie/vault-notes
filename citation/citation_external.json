@@ -25153,8 +25153,6 @@
     "William J. J. Gordon, 1961": "William J. J. Gordon, 1961",
     "William L. Hays (1963)": "William L. Hays, 1963",
     "William L. Hays, 1963": "William L. Hays, 1963",
-    "William M. Muir (1996)": "William M. Muir, 1996",
-    "William M. Muir, 1996": "William M. Muir, 1996",
     "William Mehrens & Elizabeth Kaminski (1989)": "William Mehrens & Elizabeth Kaminski, 1989",
     "William Mehrens & Elizabeth Kaminski, 1989": "William Mehrens & Elizabeth Kaminski, 1989",
     "William S. Robinson (1950)": "William S. Robinson, 1950",
@@ -209522,21 +209520,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Omega-Squared.md"
-      ],
-      "title": ""
-    },
-    "William M. Muir, 1996": {
-      "aliases": [
-        "William M. Muir, 1996",
-        "William M. Muir (1996)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "William M. Muir, 1996"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
       ],
       "title": ""
     },

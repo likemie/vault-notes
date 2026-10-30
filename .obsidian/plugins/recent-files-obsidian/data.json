@@ -5,12 +5,24 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
     },
     {
-      "basename": "Peer Effects in Science",
-      "path": "wiki/concepts/science-policy/Peer Effects in Science.md"
-    },
-    {
       "basename": "Difference-in-Differences",
       "path": "wiki/methods/quantitative/Difference-in-Differences.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+    },
+    {
+      "basename": "Team Assembly Model",
+      "path": "wiki/theories/science-policy/Team Assembly Model.md"
+    },
+    {
+      "basename": "Human Genome Project",
+      "path": "wiki/facts/us/Human Genome Project.md"
+    },
+    {
+      "basename": "Peer Effects in Science",
+      "path": "wiki/concepts/science-policy/Peer Effects in Science.md"
     },
     {
       "basename": "Argument_Stone_2020_PolSoc",
@@ -187,18 +199,6 @@
     {
       "basename": "Goliath's Shadow",
       "path": "wiki/concepts/science-policy/Goliath's Shadow.md"
-    },
-    {
-      "basename": "Knowledge Exchange",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Exchange.md"
-    },
-    {
-      "basename": "Bibliometric Analysis",
-      "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
-    },
-    {
-      "basename": "Status Bias in Peer Review",
-      "path": "wiki/concepts/science-policy/Status Bias in Peer Review.md"
     }
   ],
   "omittedPaths": [],
