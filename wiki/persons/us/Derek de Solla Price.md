@@ -30,7 +30,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Scientific Productivity]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Preferential Attachment in Academia]]"
@@ -45,15 +44,16 @@ related_facts:
   - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
-> [!person-profile] 人物档案
+> [!person-profile|notitle] 人物档案
 > - **身份位置** 英国裔美籍物理学家、科学史家与[[Bibliometric Analysis|科学计量学]]之父，曾任耶鲁大学阿瓦隆科学史讲席教授。
 > - **核心角色** 现代科学计量学（Scientometrics）与宏观科学学的奠基者，开创了运用数理统计与拓扑网络对科学出版物与科研队伍展开宏观定量测度的学科传统。
 > - **代表贡献** 1963 年在《小科学，[[Big Science|大科学]]》中提出科学[[Document|文献]]指数增长律与大科学演化规律，1965 年在《科学》发表《科学文献网络》首次计算出[[Citation Distribution|引文分布]]的幂律形式，1976 年提出累积优势模型（[[Preferential Attachment in Academia]]）与[[Price's Law|普赖斯平方根定律]]。
@@ -65,7 +65,7 @@ updated: 2026-10-30
 
 ---
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1922** 出生于英国伦敦莱顿。
 > - **1942** 毕业于伦敦大学，获得物理学与数学理学学士学位。
 > - **1947–1950** 任教于新加坡莱佛士学院，在整理[[The Royal Society|皇家学会]]《哲学汇刊》历史过刊时按年代堆叠成 28 摞，直观观察到文献堆叠高度呈指数级急剧上升，发现科学文献规模保持着约 10–15 年翻番的指数增长规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–162)]]
@@ -79,14 +79,14 @@ updated: 2026-10-30
 
 ---
 
-> [!work-line] 主要著作
+> [!work-line|notitle] 主要著作
 > - **1963 — *Little Science, Big Science*** 科学计量学奠基之作，系统阐明科学从个体小作坊向量化、建制化与国家资助大科学的结构转型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 8)]]
 > - **1965 — *Networks of Scientific Papers*** 首次将全量文献引文关系形式化为有向图谱，发现科学引文网络高度偏斜的厚尾拓扑结构。
 > - **1976 — *A General Theory of Bibliometric and Other Cumulative Advantage Processes*** 运用波利亚坛子模型数学推导累积优势过程，构成网络科学优先连接机制的最早前驱模型。
 
 ---
 
-> [!claim] 核心思想
+> [!claim|notitle] 核心思想
 > 科学不仅是一种思想认识成果，更是一个具备稳定宏观统计规律的物理与社会有机体。科学出版物与科研队伍总体遵循指数级扩张动力学，引文网络的拓扑链接受累积优势律（获得新引用的概率与现有引用正相关）支配，必然导致高度偏斜的精英集中分布；科学[[Knowledge Production|知识生产]]的主力高度集中于规模等于研究者总人数平方根的极少数精英核心群体。
 
 > [!citation-card] 普赖斯论引文网络的累积优势动力学
@@ -96,27 +96,34 @@ updated: 2026-10-30
 
 ---
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 普赖斯的累积优势模型直接启迪了[[Albert-László Barabási|巴拉巴西]]（Barabási）与阿尔伯特（Albert）提出无标度网络（Scale-Free Networks）及其优先连接机制。
 > - **方法路径** 确立以科学引文索引（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度范式。
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将普赖斯 1963 年对科学指数膨胀的经典洞察作为讨论[[Scientific Productivity|学者生产力]]与队伍增长的经验出发点。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）— 检视普赖斯在新加坡发现的科学文献指数增长律并反思其饱和预言，追溯其首度确立引文网络幂律分布与学术累积优势的开创性贡献。
 
 ---
 
-> [!debates] 学术争议
+> [!person-network|notitle] 关系网络
+> - **学术启发与对话** [[Albert-László Barabási]] — 继承并深化普赖斯关于科学文献指数扩张与累积优势的核心假说，建立现代优先连接理论。
+> - **合作同行** [[Eugene Garfield]] — 科学引文索引创办人，为普赖斯 1965 年引文网络研究提供全量原始引文数据库。
+> - **历史依托机构** [[The Royal Society]] — 普赖斯依托皇家学会历史文献过刊统计分析发现文献指数增长律。
+
+---
+
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 科学指数增长的物理极限与逻辑斯蒂演化
 > > 普赖斯曾基于细菌菌落养分耗尽模型，预言科学文献的指数级扩张将在 20 世纪 50 年代后迅速遭遇资源瓶颈而走向饱和停滞。
 > >
-> > - **[[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]** 指出普赖斯的增长饱和预言并未成真；Web of Science 百年出版数据显示科学产出平均每 12 年翻番的指数增长已持续逾 110 年，仅在两次世界大战期间短暂受挫。科学未曾枯竭的根源在于科学探索以思想而非物质为燃料，思想具有非消耗性与可组合繁衍性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 162–163, 173)]]
+> > - **[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]]** 指出普赖斯的增长饱和预言并未成真；Web of Science 百年出版数据显示科学产出平均每 12 年翻番的指数增长已持续逾 110 年，仅在两次世界大战期间短暂受挫。科学未曾枯竭的根源在于科学探索以思想而非物质为燃料，思想具有非消耗性与可组合繁衍性。(pp. 162–163, 173)
 > > - **Fortunato et al. (2018)** 指出单篇文献被引半衰期与注意力窗口趋于缩短，印证了普赖斯关于科学系统必将走向增长饱和的预见。
 
 ---
 
-> [!entry-map] 条目关联
+> [!entry-map|notitle] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -124,9 +131,3 @@ updated: 2026-10-30
 > | [[Preferential Attachment in Academia]] | 理论 | 1976 年首次提出引文网络累积优势数学模型，为优先连接提供学术计量学先驱形式。 |
 > | [[Scientific Productivity]] | 概念 | 提出普赖斯平方根定律，刻画学术共同体内部生产力的极端精英垄断。 |
 > | [[Bibliometric Analysis]] | 方法 | 开创运用科学引文网络与发表时间序列开展宏观量化测度的方法体系。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将普赖斯 1963 年对科学指数膨胀的经典洞察作为讨论[[Scientific Productivity|学者生产力]]与队伍增长的经验出发点。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 检视普赖斯在新加坡夜读文献发现的科学指数增长律，反思其增长饱和假说的经验偏差，追溯其首度确立引文网络幂律分布的开创贡献。

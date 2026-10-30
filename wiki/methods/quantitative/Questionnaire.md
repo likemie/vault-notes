@@ -9,9 +9,9 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 59
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 60
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -80,6 +80,7 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
 related_theories:
@@ -87,7 +88,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -183,6 +184,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 结合全球 400 位顶级生物医学科学家自我评估问卷实证，揭示学者对自身最佳突破的主观认定与客观高被引成果之间仅有 23% 重合的认知张力（p. 181）。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 采用联合国六种官方语言设计多语种在线问卷，收集覆盖 103 国 898 名政策利益相关者的数据，系统测评全球 654 个证据平台的使用习惯与 [[UN Sustainable Development Goals|SDG 4]] 目标支撑度（pp. 18–20）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch. 20)]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 编制四因素 14 题的基线问卷，经预测试检验[[Face Validity|表面效度]]与[[Construct Validity|建构效度]]后以在线方式施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice|证据知情实践]]准备状态。

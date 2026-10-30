@@ -10,7 +10,7 @@ summary: "英国统计物理学家与复杂网络领军学者，密歇根大学 
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,15 +42,16 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
-> [!person-profile] 人物档案
+> [!person-profile|notitle] 人物档案
 > - **身份位置** 英国统计物理学家与复杂网络先驱，密歇根大学 Paul Dirac 杰出大学物理学教授，圣塔菲研究所（Santa Fe Institute）外聘研究教授。
 > - **核心角色** 复杂网络科学奠基人之一，在图论算法、网络社团划分（Newman 模块度）、随机图理论及学术[[Coauthorship Network|合著网络]]经验分析上具有深远世界影响。
 > - **代表贡献** 2001 年在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）发表经典系列论著，首次系统构建并实测了现代多学科大型[[Coauthorship Network|合著网络]]，揭示出重尾度分布、高[[Clustering Coefficient|集聚系数]]与短平均路径的小世界图论拓扑。
@@ -60,7 +61,7 @@ updated: 2026-10-30
 
 ---
 
-> [!timeline] 生平与职涯
+> [!timeline|notitle] 生平与职涯
 > - **1966** 出生于英国。
 > - **1988–1991** 在英国牛津大学先后获得物理学学士、硕士与理论物理学博士学位。
 > - **1991–1996** 在美国康奈尔大学与英国牛津大学从事统计物理与凝聚态物理博士后研究。
@@ -70,34 +71,34 @@ updated: 2026-10-30
 
 ---
 
-> [!work-line] 主要著作
+> [!work-line|notitle] 主要著作
 > - **2001 — *The Structure of Scientific Collaboration Networks*（PNAS）** 首次精确测定数万名物理学者与生物学者的合著拓扑，确立了学术合作网的度分布、集聚度与[[Six Degrees of Separation|六度分隔]]经验基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–106)]]
 > - **2004 — *Finding and Evaluating Community Structure in Networks*（《物理评论 E》）** 提出网络社团结构探测的模块度（Modularity）算法，成为全网社群发现的黄金标准。
 > - **2010 — *Networks: An Introduction*（牛津大学出版社）** 撰写复杂网络领域的经典教科书，被全球高校与科研院所广泛采纳。
 
 ---
 
-> [!claim] 核心思想
+> [!claim|notitle] 核心思想
 > 马克·纽曼（Mark Newman）主张，科学共同体的组织结构服从严格的统计物理规律。学术合作不仅是知识重组的社会学契约，更在拓扑上自发演化为具有高聚集度与低平均距离的复杂网络；通过严谨的代数图论模型与大样本实证测算，能够从纷繁复杂的合作关系中清晰[[Decodification|解码]]出学科前沿的演进脉络与社团结构。
 
 ---
 
-> [!influence-path] 影响路径
+> [!influence-path|notitle] 影响路径
 > - **理论路径** 融合统计力学与离散图论，推动复杂网络从小规模玩具模型走向百万级节点真实网络的解析化研究。
 > - **方法路径** 发明模块度算法、特征向量中心性算法及随机图母函数解析工具，重塑[[Network Analysis|网络分析]]的计算方法库。
 > - **跨学科路径** 为科学学、流行病学与计算社会学提供通用的网络测度基底。
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 在第 10 章全面依托纽曼关于合著网络度分布[[Heterogeneity|异质性]]与度相关的经验测算，阐明科学协作网络的宏观物理学特征。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）— 依托纽曼关于合著网络度分布与集聚度的经验测算阐明科研协作特征（Unit 04），并引入其关于引文分布极值幂律行为的拟合论断（Unit 07, p. 179）。
 
 ---
 
-> [!person-network] 关系网络
+> [!person-network|notitle] 关系网络
 > - **合作同行** 邓肯·瓦茨（Duncan Watts）、[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási） — 共同推进复杂网络统计物理与小世界拓扑实证分析。
 
 ---
 
-> [!entry-map] 条目关联
+> [!entry-map|notitle] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
