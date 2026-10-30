@@ -9,7 +9,7 @@ aliases:
 summary: "在组织沟通与群体动力学中，指团队互动会话中成员发言频次与时间分布的均等程度（以会话轮换的方差测度）。实证研究表明，发言均等度高的团队能有效抑制单兵权威垄断，促进多元观点充分汇聚，是预测团队集体智慧卓越表现的关键行为互动指标。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 5
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -85,7 +85,7 @@ updated: 2026-10-30
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **沟通拓扑调节命题** | 发言轮换均等性能够有效促进异质信息流动并提升团队集体效能 | 团队协作、议事决策与科研攻关小组 | Woolley et al. (2010); Wang & Barabási (2021) |
+> | **沟通拓扑调节命题** | 发言轮换均等性能够有效促进异质信息流动并提升团队集体效能 | 团队协作、议事决策与科研攻关小组 | Woolley et al. (2010); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 
 ---
 

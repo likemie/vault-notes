@@ -9,7 +9,7 @@ aliases:
 summary: "衡量团队在多类异质性认知与协同任务中整体表现能力的通用潜在特质；由组织行为学借鉴个体一般智力 g 因子形式化提出，实证证实其主要由成员社会敏感度、发言轮流均等程度与女性比例决定，而与成员个体智力的平均值或最高值无强关联。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 16
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

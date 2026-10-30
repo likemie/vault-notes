@@ -8,7 +8,7 @@ aliases:
 summary: "在认知科学与组织心理学中，指个体准确感知、识别与推断同伴面部表情、微妙情绪及非言语社交线索的心智能力；通常由眼区读心测试（RMET）进行量化，实证证实团队成员的平均社会敏感度是决定群体集体智慧与解决复杂问题能力的核心预测指标。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 6
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -94,7 +94,7 @@ updated: 2026-10-30
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **群体效能预测命题** | 团队平均社会敏感度对集体智慧具有稳健的正向驱动力 | 跨学科科研团队与协同攻关组织 | Woolley et al. (2010); Wang & Barabási (2021) |
+> | **群体效能预测命题** | 团队平均社会敏感度对集体智慧具有稳健的正向驱动力 | 跨学科科研团队与协同攻关组织 | Woolley et al. (2010); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 > | **性别红利中介命题** | 女性比例对团队表现的促进效应由平均社会敏感度所中介 | 团队人员招募与性别多元配置评估 | Woolley et al. (2010); Baron-Cohen et al. (2001) |
 
 ---
