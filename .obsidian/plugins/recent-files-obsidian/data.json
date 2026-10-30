@@ -5,16 +5,24 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
     },
     {
+      "basename": "Random Impact Rule",
+      "path": "wiki/theories/science-policy/Random Impact Rule.md"
+    },
+    {
+      "basename": "Hot-Streak Model",
+      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
+    },
+    {
+      "basename": "Exploration-Exploitation in Science",
+      "path": "wiki/concepts/science-policy/Exploration-Exploitation in Science.md"
+    },
+    {
       "basename": "h-Index",
       "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
       "basename": "Q-Model",
       "path": "wiki/theories/science-policy/Q-Model.md"
-    },
-    {
-      "basename": "Hot-Streak Model",
-      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
     },
     {
       "basename": "Q-Factor",
@@ -99,10 +107,6 @@
     {
       "basename": "Drop-pin Projection",
       "path": "wiki/methods/quantitative/Drop-pin Projection.md"
-    },
-    {
-      "basename": "Random Impact Rule",
-      "path": "wiki/theories/science-policy/Random Impact Rule.md"
     },
     {
       "basename": "Conceptual Innovators",
@@ -195,10 +199,6 @@
     {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
-      "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
     }
   ],
   "omittedPaths": [],

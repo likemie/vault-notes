@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -155,6 +155,21 @@ updated: 2026-10-29
 > **结果怎么读** 系数 $\hat{\beta}_j$ 表示在控制模型中所有其他协变量保持不变（Ceteris Paribus）的前提下，解释变量 $X_j$ 每增加一个测量单位，因变量 $Y$ 的条件期望平均变动 $\hat{\beta}_j$ 个单位。
 >
 > **注意事项** 该解析解要求设计矩阵 $\mathbf{X}'\mathbf{X}$ 可逆，即解释变量之间不得存在完全共线性。
+>
+> > [!geogebra] 一元 OLS 的残差平方和
+> > - **横轴** 自变量 $x$。
+> > - **纵轴** 因变量 $y$。
+> > - **蓝点** 15 个可拖动的示例观测，不代表实证研究数据。
+> > - **红线与红色控制点** 候选预测直线；移动两个控制点可调整截距和斜率。
+> > - **黑色竖线** 各观测到候选直线的纵向残差。
+> > - **SSE 读数** 当前候选直线的残差平方和与 OLS 解的最小残差平方和。
+> > - **蓝线** 勾选“显示 OLS 拟合线”后出现的最小二乘拟合线。
+> >
+> > 先调整红色控制点，使“当前 SSE”接近“最小 SSE”，再显示蓝线比较；移动蓝点或点击“重新生成示例点”，观察最小值与拟合线如何变化。此演示对应含截距的一元回归 $\hat y=b+mx$，最小化 $\sum_i[y_i-(b+mx_i)]^2$。
+> >
+> > ![[wiki/assets/geogebra/ols_least_squares_community.ggb]]
+> >
+> > 模拟改编自 GeoGebra Institute of Southern Connecticut 的 [Interactive Linear Regression](https://www.geogebra.org/m/xC6zq7Zv)，本地版本调整中文标签和卡片布局，保留原计算规则；采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。Created with [GeoGebra®](https://www.geogebra.org/)。
 
 > [!formula-step] 公式步骤　试验[[Covariate Adjustment\|协变量调整]]回归（[[Analysis of Covariance\|ANCOVA]] 模型）
 > $$Y_i = \alpha + \tau T_i + \beta_{\text{pre}} Y_{\text{pre},i} + \mathbf{Z}_i' \boldsymbol{\gamma} + \varepsilon_i$$

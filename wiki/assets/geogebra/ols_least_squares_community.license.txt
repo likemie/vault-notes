@@ -1,0 +1,15 @@
+Interactive Linear Regression — local Chinese layout adaptation
+
+Created with GeoGebra®, by GeoGebra Institute of Southern Connecticut.
+Original activity: https://www.geogebra.org/m/xC6zq7Zv
+Original file: https://www.geogebra.org/resource/xC6zq7Zv/Pg75pNtbkwKuiQYv/material-xC6zq7Zv.ggb
+GeoGebra: https://www.geogebra.org/
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0).
+License text: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Resource license basis: https://www.geogebra.org/tos (clauses 2–3, updated November 27, 2025).
+Retrieved: 2026-10-30
+Original file SHA-256: 3c53fb1226ecdccec917814c6b20dada9177e9ac6a157f6d6427a22f6909cbd0
+
+Local changes: translated control labels and axis titles into Chinese; moved controls and SSE readouts into the card viewport; adjusted view dimensions, coordinate scales, line thickness and displayed decimal precision; added source attribution to construction metadata; removed the outdated thumbnail.
+Preserved: the original 15 example observations, all mathematical expressions and constructions, macros and scripts. These observations are demonstration data, not empirical research data. Changes to visible text expressions do not alter the underlying calculation.
+The adapted .ggb file is distributed under CC BY-NC-SA 4.0.

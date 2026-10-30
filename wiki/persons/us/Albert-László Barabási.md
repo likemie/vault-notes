@@ -110,15 +110,13 @@ updated: 2026-10-30
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, Unit 01)]] — 系统评述肖克利模型、h 指数数理机制与学术声望马太效应因果证据。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021, Unit 03)]] — 系统阐述 Q 模型的解析推导、预测稳健性与突破成果的随机影响法则。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021, Unit 04)]] — 论述科研协作网络的演进特征与团队科学分工规律。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著系统阐述科学学全景框架，涵盖科学生产力稳态与肖克利模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子与热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）以及团队科学分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）。
 
 ---
 
 > [!person-network] 关系网络
-> - **学生／继承者** [[Dashun Wang]] — 博士毕业生与长期合著者，共同撰写《科学学》专著并主导当代科学学实证研究。
-> - **合作者／对话者** [[Jorge E. Hirsch]] — 深入检验并拓展希尔施 h 指数理论模型，提出基于引文跨越效应与团队合署的修正方案。
+> - **指导学者与合作网络** [[Dashun Wang]] — 博士毕业生与长期紧密合作学者，二人共同撰写《科学学》专著并主导当代科学学实证研究。
+> - **学术对话与同行研讨** [[Jorge E. Hirsch]] — 深入检验并拓展希尔施 h 指数理论模型，提出基于引文跨越效应与团队合署的修正方案。
 > - **理论渊源** [[Derek de Solla Price]] — 继承并深化普赖斯关于科学文献指数激增与学术累积优势的经典命题。
 > - **核心数据基座** [[Microsoft Academic Graph]] — 依托其百亿级异构引文网络支撑 Q 模型拟合与科学学实证检验。
 
