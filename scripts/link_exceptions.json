@@ -341,6 +341,10 @@
     {
       "sentence": "*Dividing a paper's citations by the average number of citations for papers in the same field in the same year gives us a better measure of relative impact.",
       "target": "wiki/concepts/sociology-of-education/Champ.md"
+    },
+    {
+      "sentence": "*If we print just the first page of each of these papers and stack them on top of each other, the pile would almost reach to the top of Mt.",
+      "target": "wiki/facts/uk/Reach.md"
     }
   ]
 }

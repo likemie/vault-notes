@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 167
+fact_related_count: 168
 fact_related_level: 16
 fact_related_stars: "💎💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -201,10 +201,11 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -296,7 +297,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **跨国大规模学业与技能测评体系** 主导实施 [[PISA]]（15岁学生阅读、数学、[[Scientific Literacy\|科学素养]]测验）、[[Teaching and Learning International Survey\|TALIS]]（初中教师教学实践与[[School Leadership\|学校领导力]]调查）及 [[Programme for the International Assessment of Adult Competencies\|PIAAC]]（成年人核心认知技能调查），构建起全球最庞大的教育实证数据基准。
-> - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance\|教育概览]]》（Education at a Glance），维护[[International Indicators of Education Systems\|国际教育系统指标]]（INES）体系，提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
+> - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance\|教育概览]]》（Education at a Glance），维护[[International Indicators of Education Systems\|国际教育系统指标]]（INES）体系，提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据；系统监测成员国高等教育学术生产管道，记录 34 个成员国理学博士年授予量从 1998 年的 2.4 万人增至 2008 年的 3.4 万人（增幅逾 40%），为识别全球科研人才供需失衡与学术蓄水池积压提供实证基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 167)]]
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning\|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
 > - **[[Policy Brokerage|政策中介]]与跨国经验横向借鉴** 以 PISA 基准测验为枢纽，打包同行评议、国别政策审查与教育全球定位系统（[[Education GPS]]）数字平台，系统推介高表现国家改革经验，为成员国提供定制化政策方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 543–545)]]
