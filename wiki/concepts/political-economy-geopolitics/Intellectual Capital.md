@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -170,7 +170,7 @@ updated: 2026-10-29
 > [!dev-timeline] 概念演变
 > - **1841 — [[Friedrich List|李斯特]]创立精神/智力资本[[Paradigm|范式]]** 在《政治经济学的国民体系》中正式界定 Mental / Intellectual Capital，用于批判古典自由放任政策并指导德国工业追赶。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
 > - **1940s–1960s — [[Technological Republic|技术共和国]]时期的国家战时与战略动员** 范内瓦·布什（[[Vannevar Bush]]）与 J. C. R. 利克莱德（[[J. C. R. Licklider]]）通过 [[Office of Scientific Research and Development|OSRD]] 与 [[DARPA]] 将顶尖科学家的智力资本直接接入国家重大安全与计算架构使命，奠定现代计算工业基石。
-> - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[New Growth Theory|内生增长理论]]复兴** 随着以微电子为代表的新技术范式扩散，新增长理论将知识外溢纳入生产函数，演化经济学家将其重新界定为[[National Innovation System|国家创新系统]]的认知底座。
+> - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[New Growth Theory|内生增长理论]]复兴** 随着以微电子为代表的新技术范式扩散，新增长理论将知识外溢纳入生产函数，演化经济学家将其重新界定为[[National Innovation System|国家创新系统]]的认知基石。
 > - **1990s–2010s — [[Knowledge-Based Economy|知识经济]]与学习型经济深化** [[Bengt-Åke Lundvall|伦德瓦尔]]等学者进一步将智力资本[[Operationalization|操作化]]为全社会的“学习能力”（Learning by Interacting），成为评价现代教育体制[[Competitiveness|竞争力]]的核心指标。
 > - **2020s — 地缘科技博弈与智力资本战略重构** 亚历克斯·卡普（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]等学者指出，面对人工智能与地缘竞争新时代，必须警惕顶尖工程智力资本被浅层消费市场所俘获，主张重构国家与科技界的契约，将智力资本重新引导至国家核心能力建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–13)]]
 

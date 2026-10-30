@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-10-29
 > *The semiconductor industry is notable for its rapid cost reductions, governed by what are known as "learning economies." In semiconductor manufacturing, the experience curve indicates that unit costs decline by 20 to 30 percent each time cumulative industry experience doubles... ([[Argument_Schnee_1978_RP|Schnee, 1978, p. 7]])*
 
 > [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]等论学习经济与创新能力
-> 在全球化与技术加速变迁的环境中，个人、企业和经济体的竞争力越来越取决于其学习能力，而非静态的知识存量或传统的生产要素禀赋。学习经济不是对知识经济的替代，而是对其的深化——它强调的不是拥有多少知识，而是能够多快地学习、遗忘旧知识和吸收新知识。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 864)]]
+> 在全球化与技术加速变迁的环境中，个人、企业和经济体的竞争力越来越取决于其学习能力，而非静态的知识存量或传统的生产要素禀赋。学习经济是对知识经济的进一步深化，其核心在于考察知识获取、遗忘旧惯例与吸收新知识的动态流速，超越了单纯对静态知识存量的关注。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 864)]]
 >
 > *In the learning economy, the competitive advantage of individuals, firms, regions and countries depends on their capability to learn, and not on their static knowledge stock or factor endowments...*
 
@@ -113,7 +113,7 @@ updated: 2026-10-29
 > - **累计生产经验与良率爬坡** 微观制造中技术工人和工艺工程师通过反复调试、消除硅片瑕疵与优化光刻流程，直接将累计制造经验转化为指数级成本下降。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]
 > - **早期[[Assured Demand|确定性需求]]托底** 在产品早期由于良率极低而单价极其高昂时，公共采购充当全额包销托底买家，为企业提供跨越学习曲线所需的初始规模与试错现金流。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
 > - **经验互动学习（DUI 模式）** 在宏观创新中，企业通过与用户、供应商及同行的日常经验互动（Doing, Using and Interacting）建立学习机制，与科学研发（STI 模式）同等关键。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
-> - **多元知识池并行吸收** 创新并非依赖单一科学知识池，而是组织治理、用户营销与技术工程三大互补知识池协同学习的结果。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
+> - **多元知识池并行吸收** 创新依赖于组织治理、用户营销与技术工程三大互补知识池的协同学习，跨越了单一科学知识池的局限。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 > [!logic-map]- 学习经济的微观制造成本递减与宏观创新传导图
 > ```mermaid
@@ -158,7 +158,7 @@ updated: 2026-10-29
 > **探讨维度　双重学习模式协同机制** 探讨基于[[Learning by Doing|干中学]]的[[Experiential Learning|经验学习]]（DUI）与基于实验室研发的技术学习（STI）如何共同构成完整的创新动力系统。
 
 > [!claim] Caraça, J., Lundvall, B.-Å. & Mendonça, S.
-> **多通道互动学习对传统线性研发模型的超越** 卡拉萨等学者论证，[[Linear Model of Innovation|线性创新模型]]将科学研发投入视为技术创新的[[Necessary and Sufficient Conditions|充分条件]]，忽视了组织内部及与外部主体互动学习的决定性作用。在学习经济视阈下，基于科学技术的创新（STI 模式）必须与基于“做、用、互动”的经验创新（DUI 模式）高度协同；组织知识、用户反馈与工程改进并非科学发现的次要副产品，而是决定研发成果能否成功转化为实用生产力的同等重要的知识池。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 864–866)]]
+> **多通道互动学习对传统线性研发模型的超越** 卡拉萨等学者论证，[[Linear Model of Innovation|线性创新模型]]将科学研发投入视为技术创新的[[Necessary and Sufficient Conditions|充分条件]]，忽视了组织内部及与外部主体互动学习的决定性作用。在学习经济视阈下，基于科学技术的创新（STI 模式）必须与基于“做、用、互动”的经验创新（DUI 模式）高度协同；组织知识、用户反馈与工程改进是决定研发成果能否成功转化为实用生产力的核心互补知识池，具备独立于科学发现的重要价值。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 864–866)]]
 
 ---
 
@@ -181,7 +181,7 @@ updated: 2026-10-29
 ---
 
 > [!dev-timeline] 学习经济概念发展脉络
-> - **1962 — [[Learning by Doing|干中学]]（Learning by Doing）微观模型奠基** 肯尼斯·阿罗（Kenneth Arrow）发表经典论文，正式建立通过生产实践积累经验从而提高劳动生产率的内生增长机制。
+> - **1962 — [[Learning by Doing|干中学]]（Learning by Doing）微观模型奠基** 肯尼斯·阿罗（Kenneth Arrow）提出干中学模型，正式建立通过生产实践积累经验从而提高劳动生产率的内生增长机制。
 > - **1968–1978 — 经验曲线与高技术产业微观实证** 波士顿咨询集团（Boston Consulting Group, BCG）推广经验曲线模型；施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）结合美国微电子与计算机工业数据，确立了累计产量每翻一番成本下降 20%–30% 的半导体学习经济定律，并论证了政府采购托底在启动学习曲线中的制度功能。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
 > - **1994 — 宏观学习经济（Learning Economy）[[Paradigm|范式]]提出** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）与比约恩·约翰逊（Björn Johnson）将学习概念从车间制造扩展至宏观经济学与制度创新理论，提出以互动学习为核心特征的现代“学习型经济”分析视角。
 > - **1996 — [[OECD|经合组织]]《[[Knowledge-Based Economy|知识经济]]中的教育与增长》确立向学习型经济转型** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）在经合组织政策框架中提出，学习型经济的核心在于利用技术与他人沟通以提高生产力，财富创造取决于学习与分享创新的能力，奠定了将[[Lifelong Learning|终身学习]]作为新经济核心支柱的政策基础。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
@@ -209,9 +209,23 @@ updated: 2026-10-29
 > > - **学习扩散论** 认为全球知识网络的互联互通为发展中国家提供了快速学习与后发赶超的历史机遇。
 > > - **结构依附批评** 指出高端互动学习主要集聚于发达[[Systems of Innovation|创新系统]]节点，缺乏基础[[Absorptive Capacity|吸收能力]]的后发经济体容易沦为被动使用低端技术的依赖者。
 
+> [!warning|limits] 适用局限
+> 学习经济不适用于一次性非标准化定制产品以及缺乏工艺重复性的项目；在技术轨道发生革命性断裂时，过度依赖既有工艺的学习曲线优化容易引发组织能力陷阱与技术锁定。在宏观创新系统层面，缺乏基础前沿研发（STI）支撑的经验互动学习（DUI）难以实现根本性原始突破。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 864–866)]]
+
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!empirical-divider]
+
+> [!ref-table]- 学习经济与高技术产业成本演进实证指标
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | 1962–1973 年美国半导体与集成电路制造业（涵盖国防、航天与民用市场） | 历时性产业计量与经验曲线模型分析 | 累计制造经验翻番率、集成电路单片价格、公共采购市场份额 | 全行业累计制造经验每翻一番器件单位成本下降 20%–30%；集成电路均价从 1962 年的 50 美元降至 1968 年的 2 美元，1973 年降至 0.63 美元；美国防部与 NASA 早期全额采购份额从 1962–1963 年的 100% 降至 1968 年的 37% | — | 证实了确定性公共采购如何帮助高技术资本密集型先导制造业跨越早期高成本门槛并释放学习效应，推广至纯软件与服务业时需考虑不同的固定成本结构 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析战后美国半导体与计算机产业，实证确立了累计生产经验翻番带动器件成本剧降 20%–30% 的微观学习经济机制，揭示了公共采购在释放学习效应中的催化功能。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 构建[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为超越传统线性研发模型的宏观创新分析[[Paradigm|范式]]，系统阐释了 DUI/STI 模式与三类互补知识池的吸收机制。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 结合新增长理论剖析[[OECD|经合组织]]如何将[[Knowledge-Based Economy|知识经济]]推进为学习经济，论证学习与财富创造正相关并驱动教育治理转向[[Lifelong Learning|终身学习]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合新增长理论剖析[[OECD|经合组织]]如何将[[Knowledge-Based Economy|知识经济]]推进为学习经济，论证学习与财富创造正相关并驱动教育治理转向[[Lifelong Learning|终身学习]]。
