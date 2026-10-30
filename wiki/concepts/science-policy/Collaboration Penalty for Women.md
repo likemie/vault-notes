@@ -54,7 +54,7 @@ updated: "2026-10-30"
 > [!citation-card] [[Heather Sarsons|萨森斯]]论经济学女性学者的合作惩罚
 > 如果以单兵独立论著占比来衡量经济学家的合作倾向，完全独立工作的女性学者在获得终身教职的成功率上与男性同行完全一致。无论男女经济学者，每一篇独立发表的代表作都能使晋升终身教职的概率提升大约 8% 至 9%。然而，一旦其履历中开始出现团队合著成果，男女学者的命运便发生戏剧性分流。男性从合作研究中获得的评价信用与独立研究完全相同，合作并未对其职业前景造成任何负面影响。然而，当女性与女性合作学者共同撰写论著时，对职业晋升的促进效用不足男性的一半；而当女性学者与一位或多位男性经济学者合作时，其终身教职通过前景完全没有得到任何改善。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 145–146)]]
 >
-> *Women economists face an enormous penalty for collaborating... female economists who always work alone have exactly the same success rate for receiving tenure as their male counterparts. Indeed, for both male and female economists, each [[SOLO Taxonomy|solo]]-authored paper raises the probability of getting tenure by about 8 or 9 percent. Yet, as soon as their CVs start to include team-authored papers, the two genders part ways... when women write with female coauthors, the benefit to their career prospects is less than half that accorded to men. Things get especially dismal when women write with men. When a female economist collaborates with one or more male economists, her tenure prospects don’t improve at all.*
+> *Women economists face an enormous penalty for collaborating... female economists who always work alone have exactly the same success rate for receiving tenure as their male counterparts. Indeed, for both male and female economists, each solo-authored paper raises the probability of getting tenure by about 8 or 9 percent. Yet, as soon as their CVs start to include team-authored papers, the two genders part ways... when women write with female coauthors, the benefit to their career prospects is less than half that accorded to men. Things get especially dismal when women write with men. When a female economist collaborates with one or more male economists, her tenure prospects don’t improve at all.*
 
 > [!boundary]- 概念边界
 > - 不等于女性学者自身生产力低下：实证表明在晋升评审前，顶尖高校男女经济学者的人均发表篇数与顶刊加权影响力在统计学上无显著差异。
@@ -65,9 +65,9 @@ updated: "2026-10-30"
 > [!contrast-table] 学者合作形态对终身教职晋升回报的性别分化
 > | 论著发表形态 | 男性学者晋升终身教职概率增益 | 女性学者晋升终身教职概率增益 | 共同体隐性归因机制 |
 > |---|---|---|---|
-> | **独立发表（Solo-authored）** | 每篇稳步提升 8%–9% | 每篇稳步提升 8%–9% | 智力优先权与执行力完全清晰，评价对等 |
-> | **全同性合著（With same gender）** | 充分享受完整团队声誉回报 | 晋升回报腰折（不足男性的一半） | 合作被视为能力辅助，对女性独立攻关力产生轻微怀疑 |
-> | **跨性别合著（With opposite gender）** | 充分享受完整团队声誉回报 | 终身教职增益基本归零（斜率接近 0） | 评聘专家无意识将核心思想与主导权默认归功于男性合作学者 |
+> | **独立发表** | 每篇稳步提升 8%–9% | 每篇稳步提升 8%–9% | 智力优先权与执行力完全清晰，评价对等 |
+> | **全同性合著** | 充分享受完整团队声誉回报 | 晋升回报腰折（不足男性的一半） | 合作被视为能力辅助，对女性独立攻关力产生轻微怀疑 |
+> | **跨性别合著** | 充分享受完整团队声誉回报 | 终身教职增益基本归零（斜率接近 0） | 评聘专家无意识将核心思想与主导权默认归功于男性合作学者 |
 
 ---
 
