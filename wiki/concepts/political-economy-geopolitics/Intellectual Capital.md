@@ -72,7 +72,7 @@ updated: 2026-10-29
 ---
 
 > [!def] Intellectual Capital
-> **智力资本（Intellectual Capital，早期亦译为精神资本 Mental Capital）** 指全人类历代积累的科学发现、技术发明、工艺改良与劳动实践经验所构成的无形知识总量与社会化认知能力；它不仅体现为个体的脑力与技术素养，更沉淀于国家的技术教育建制、工业制造传统、组织学习网络与顶尖工程人才池之中，是决定一国有形物质[[Return on Investment|投资回报率]]、长期生产力繁荣与国家战略安全能力的实质根基。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–13)]]
+> **智力资本（Intellectual Capital，早期亦译为精神资本 Mental Capital）** 指全人类历代积累的科学发现、技术发明、工艺改良与劳动实践经验所构成的无形知识总量与社会化认知能力；它不仅体现为个体的脑力与技术素养，更深植于国家的技术教育建制、工业制造传统、组织学习网络与顶尖工程人才池之中，是决定一国有形物质[[Return on Investment|投资回报率]]、长期生产力繁荣与国家战略安全能力的实质根基。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–13)]]
 
 > [!concept-lens] 概念透镜
 > - **生产力视阈** 智力资本超越狭隘的即期货物与金融账户，指向嵌入在生产体系、科学机构与劳动力群体中的无形知识存量与动态学习能力，解释为何相同资本投入在不同国家会产生悬殊的经济绩效。
@@ -135,7 +135,7 @@ updated: 2026-10-29
 > **探讨维度　无形知识积累与实物资产效率的辩证关系** 探讨经济增长的驱动力究竟源于有形金融资产与设备堆砌，还是源于无形知识技能体系的长期建设。
 
 > [!claim] [[Friedrich List|List, F.]]
-> **批判斯密资本狭隘性** 亚当·斯密将资本局限于商人账目中的实物资产，遗忘了生产者的脑力与体力技能；国家的岁入并非单纯取决于物质资本总和，而是取决于吸收前人成就并加以增进的能力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 6)]]
+> **批判斯密资本狭隘性** 亚当·斯密将资本局限于商人账目中的实物资产，忽略了生产者的脑力与体力技能；李斯特强调，国家的生产力根本上取决于吸收前人成就并结合自身实践加以增进的智力积累能力，实物资产仅是无形智力资本的辅助工具。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 6)]]
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
 > **新增长理论的历史回响** 20 世纪末[[World Bank|世界银行]]（World Bank, 1991）反思二战后发展经济学时承认，对知识积累的无形投资比单纯实物资本投资更为关键，这一被所谓“新增长理论”（Romer, Grossman & Helpman）重新数学模型化的论断，早在 1841 年李斯特的智力资本学说中就已完整阐明。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]

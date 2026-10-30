@@ -109,7 +109,7 @@ updated: 2026-10-29
 > *Comparative education can be viewed as a human science (Vergleichende Erziehungswissenschaft). It is a multidisciplinary [[Champ|field]] drawing upon diverse disciplines; it has been a protean episteme, shifting its costumes according to the changing intellectual fashions and ideological needs of successive eras.*
 
 > [!boundary]- 概念边界
-> - **不等于唯心主义抽象玄思** 精神科学立足于客观历史遗存、文本文献与制度实体，强调以扎实的历史发生学批判还原生活现实，而非脱离经验的经院玄学。
+> - **不等于唯心主义抽象玄思** 精神科学立足于客观历史遗存、历史文本与制度实体，强调以扎实的历史发生学批判还原生活现实，而非脱离经验的经院玄学。
 > - **不等于反[[Scientism|科学主义]]的相对主义** 狄尔泰与后继学者致力于为精神科学构建普遍有效的[[Epistemic Ideals|认识论标准]]，主张理解拥有不同于自然科学因果定律的独立认识论尊严与学理严谨性。
 > - **不等于单一心理学内省** 精神科学的研究客体是客观精神（客观化了的文化制度、法律、语言与教育体系），个体心理体验必须置于宏观历史文化网状结构中方能显现意义。
 
