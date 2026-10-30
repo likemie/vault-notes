@@ -2589,7 +2589,9 @@
     "Bloom (1987)": "Bloom, 1987",
     "Bloom (1989)": "Bloom, 1989",
     "Bloom et al. (2008)": "Bloom et al., 2008",
+    "Bloom et al. (2020)": "Bloom et al., 2020",
     "Bloom et al., 2008": "Bloom et al., 2008",
+    "Bloom et al., 2020": "Bloom et al., 2020",
     "Bloom, 1956": "Bloom, 1956",
     "Bloom, 1976": "Bloom, 1976",
     "Bloom, 1984": "Bloom, 1984",
@@ -9723,8 +9725,10 @@
     "Hall (2005)": "Hall, 2005",
     "Hall (2017)": "Hall, 2017",
     "Hall (2019)": "Hall, 2019",
+    "Hall et al. (2005)": "Hall et al., 2005",
     "Hall et al. (2017)": "Hall et al., 2017",
     "Hall et al. (2022)": "Hall et al., 2022",
+    "Hall et al., 2005": "Hall et al., 2005",
     "Hall et al., 2017": "Hall et al., 2017",
     "Hall et al., 2022": "Hall et al., 2022",
     "Hall, 1986": "Hall, 1986",
@@ -9930,6 +9934,8 @@
     "Hargreaves, 1996": "Hargreaves, 1996",
     "Hargrove & Nietfeld (2015)": "Hargrove & Nietfeld, 2015",
     "Hargrove & Nietfeld, 2015": "Hargrove & Nietfeld, 2015",
+    "Harhoff et al. (1999)": "Harhoff et al., 1999",
+    "Harhoff et al., 1999": "Harhoff et al., 1999",
     "Haritos et al. (2004)": "Haritos et al., 2004",
     "Haritos et al., 2004": "Haritos et al., 2004",
     "Harker (1995)": "Harker, 1995",
@@ -16126,6 +16132,8 @@
     "Mickelson et al. (2013)": "Mickelson et al., 2013",
     "Mickelson et al., 2013": "Mickelson et al., 2013",
     "Mickelson, 1994": "Mickelson, 1994",
+    "Microsoft Academic Search (2018)": "Microsoft Academic Search, 2018",
+    "Microsoft Academic Search, 2018": "Microsoft Academic Search, 2018",
     "Miedama & Wardekker (1999)": "Miedama & Wardekker, 1999",
     "Miedama & Wardekker, 1999": "Miedama & Wardekker, 1999",
     "Mies (1993)": "Mies, 1993",
@@ -17147,6 +17155,7 @@
     "Newman (2001)": "Newman, 2001",
     "Newman (2004a)": "Newman, 2004a",
     "Newman (2004b)": "Newman, 2004b",
+    "Newman (2005)": "Newman, 2005",
     "Newman (2025)": "Newman, 2025",
     "Newman et al. (2010)": "Newman et al., 2010",
     "Newman et al. (2025)": "Newman et al., 2025",
@@ -17158,6 +17167,7 @@
     "Newman, 2004": "Newman, 2004a",
     "Newman, 2004a": "Newman, 2004b",
     "Newman, 2004b": "Newman, 2004b",
+    "Newman, 2005": "Newman, 2005",
     "Newman, 2025": "Newman, 2025",
     "Newton (1994)": "Newton, 1994",
     "Newton, 1994": "Newton, 1994",
@@ -22707,6 +22717,8 @@
     "Strenze, 2007": "Strenze, 2007",
     "Strike (1990)": "Strike, 1990",
     "Strike, 1990": "Strike, 1990",
+    "Stringer et al. (2008)": "Stringer et al., 2008",
+    "Stringer et al., 2008": "Stringer et al., 2008",
     "Strobel & Van Barneveld (2009)": "Strobel & Van Barneveld, 2009",
     "Strobel & Van Barneveld, 2009": "Strobel & Van Barneveld, 2009",
     "Strobl et al. (2024)": "Strobl et al., 2024",
@@ -45888,6 +45900,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
+      ],
+      "title": ""
+    },
+    "Bloom et al., 2020": {
+      "aliases": [
+        "Bloom et al., 2020",
+        "Bloom et al. (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bloom et al., 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
       ],
       "title": ""
     },
@@ -97976,6 +98003,21 @@
       ],
       "title": ""
     },
+    "Hall et al., 2005": {
+      "aliases": [
+        "Hall et al., 2005",
+        "Hall et al. (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hall et al., 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
+    },
     "Hall et al., 2017": {
       "aliases": [
         "Hall et al., 2017",
@@ -99575,6 +99617,21 @@
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md",
         "wiki/concepts/competency-and-assessment/Metacognition.md",
         "wiki/instruments/tests/Remote Associates Test.md"
+      ],
+      "title": ""
+    },
+    "Harhoff et al., 1999": {
+      "aliases": [
+        "Harhoff et al., 1999",
+        "Harhoff et al. (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Harhoff et al., 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
       ],
       "title": ""
     },
@@ -109129,7 +109186,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
       ],
       "title": ""
     },
@@ -144181,6 +144239,21 @@
       ],
       "title": ""
     },
+    "Microsoft Academic Search, 2018": {
+      "aliases": [
+        "Microsoft Academic Search, 2018",
+        "Microsoft Academic Search (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Microsoft Academic Search, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
+    },
     "Miedama & Wardekker, 1999": {
       "aliases": [
         "Miedama & Wardekker, 1999",
@@ -151729,6 +151802,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Problem-based learning: an exploration of the method and evaluation of its effectiveness in a continuing nursing education programme"
+    },
+    "Newman, 2005": {
+      "aliases": [
+        "Newman, 2005",
+        "Newman (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Newman, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
     },
     "Newman, 2025": {
       "aliases": [
@@ -164883,6 +164971,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md",
@@ -192216,6 +192305,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md",
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Stringer et al., 2008": {
+      "aliases": [
+        "Stringer et al., 2008",
+        "Stringer et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stringer et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
       ],
       "title": ""
     },
