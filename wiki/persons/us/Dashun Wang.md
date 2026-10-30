@@ -107,12 +107,13 @@ updated: 2026-10-30
 > - **政策路径** 其关于团队规模配置、青年科研基金资助容错机制以及热手效应的量化结论，被[[National Science Foundation|美国国家科学基金会]]（NSF）与各大私立基金会广泛引为科技评价改革实证依据。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著系统阐述科学学全景框架，涵盖科学生产力稳态与[[William Shockley|肖克利]]模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、[[Q-Factor|Q 因子]]与热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）以及团队科学分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐释科学学生产力稳态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队规模规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）与组装多样性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]）。
 
 ---
 
 > [!person-network] 关系网络
 > - **导师与合作学者** [[Albert-László Barabási]] — 博士导师与长期紧密学术合作伙伴，二人共同创立现代科学学理论框架并合撰专著。
+> - **合作学者** [[James A. Evans]] 与 [[Lingfei Wu]] — 长期学术伙伴，共同领导团队规模与颠覆性创新的千万级大数据研究。
 > - **机构／项目** [[Microsoft Academic Graph]] — 深度依赖并运用该超大规模图谱展开跨世纪宏观文献计量与职业生涯网络挖掘。
 
 ---
@@ -130,4 +131,5 @@ updated: 2026-10-30
 > | [[Metascience]] | 概念 | 将复杂网络与大数据分析确立为当代科学学实证研究的标准范式。 |
 > | [[Team Science]] | 概念 | 量化证明小型团队的颠覆性优势与大型团队的渐进式发展分工。 |
 > | [[Q-Model]] | 理论 | 参与阐释并检验学者单篇影响力由固有能力参数 Q 调控的恒定机制。 |
+> | [[Disruption Index]] | 方法 | 推广颠覆性指数于大规模成果、专利与代码库分析，证实小团队颠覆规律。 |
 > | [[Microsoft Academic Graph]] | 事实 | 依托全量学术知识图谱确证全球科学生产力与合作网络的百年演化律。 |

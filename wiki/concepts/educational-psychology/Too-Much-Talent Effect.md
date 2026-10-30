@@ -2,6 +2,7 @@
 title: Too-Much-Talent Effect
 aliases:
   - 人才过剩效应
+  - 过度人才效应
   - 顶尖人才过剩效应
   - 明星团队悖论
 summary: "描述团队内部高天赋、高威望或顶尖成员比例过高反而导致整体绩效下滑的组织与心理学现象；在需要高度任务相互依存性与紧密协调的场景中尤为剧烈，其核心机制在于多位权威个体之间争夺主导权所引发的地位内耗与协调破裂。"
@@ -20,7 +21,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Too-Much-Talent Effect
-> 过度人才效应（Too-Much-Talent Effect）是指在高度依赖成员紧密协调与任务相互依存性的团队中，顶尖成员比例过高反而导致整体产出与绩效下滑的组织心理学现象。该效应由组织行为学家与心理学家基于职业体育与高等教育科研团队大数据系统提出，揭示顶尖个体因争夺学术主导权与声望垄断引发的地位竞争和协调破裂。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
+> 人才过剩效应（Too-Much-Talent Effect）是指在高度依赖成员紧密协调与任务相互依存性的团队中，顶尖成员比例过高反而导致整体产出与绩效下滑的组织心理学现象。该效应由组织行为学家与心理学家基于职业体育与高等教育科研团队大数据系统提出，揭示顶尖个体因争夺学术主导权与声望垄断引发的地位竞争和协调破裂。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向团队微观权力拓扑与分工生态的非线性失衡，强调个体人力资本的简单叠加不等于集体协同效能。
@@ -28,17 +29,17 @@ updated: 2026-10-30
 > - **边界** 该效应高度依赖于任务相互依存度；在各自独立作战、仅需汇总结果的弱互依任务中，该负向效应并不成立。
 
 > [!citation-card|notitle] 杜克大学英语系的全明星破裂案例
-> 杜克大学英语系在 1980 年代末至 1990 年代初曾招募大批学界领袖，打造出享誉全美的顶尖全明星阵容。然而短短六年后，该系并未产出预期的学术繁荣，反而陷入激烈的学者自我争斗，多位核心学者公开决裂并出走，曾经的学术标杆走向瓦解。心理学将这一现象概括为过度人才效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
+> 杜克大学英语系在 1980 年代末至 1990 年代初曾招募大批学界领袖，打造出享誉全美的顶尖全明星阵容。然而短短六年后，该系并未产出预期的学术繁荣，反而陷入激烈的学者自我争斗，多位核心学者公开决裂并出走，曾经的学术标杆走向瓦解。心理学将这一现象概括为人才过剩效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
 >
 > *What unfolded in Duke’s English department is often described by psychologists as the too-much-talent effect, and it applies to several other team settings as well... Alas, it seemed that professors in the all-star department had not been busy with research or teaching, but with waging ego-fueled wars against one another.*
 
 > [!boundary]- 概念边界
-> - 不等于 团队科学中的常规跨学科语言误解与沟通摩擦 — 过度人才效应特指由个体声望过高与地位对立引发的结构性排斥，而非专业知识壁垒导致的理解障碍。
+> - 不等于 团队科学中的常规跨学科语言误解与沟通摩擦 — 人才过剩效应特指由个体声望过高与地位对立引发的结构性排斥，而非专业知识壁垒导致的理解障碍。
 > - 不适用于 独立汇总型任务 — 在不需要成员高频互动的模块化任务中，汇聚顶尖人才能直接带来产出最大化，不触发该效应。
 
 ---
 
-> [!contrast-table|notitle] 任务互依度对过度人才效应的调节对比
+> [!contrast-table|notitle] 任务互依度对人才过剩效应的调节对比
 > | 领域情境 | 任务相互依存度 | 顶尖人才占比与绩效关系 | 核心机制 |
 > |:---|:---|:---|:---|
 > | **学术科研合作** | 极高（需紧密假说论证与实验分工） | 倒 U 形曲线；过度堆砌全明星学者导致内耗与项目停滞 | 争夺项目主导权、第一署名权与学术声望分配。 |
@@ -96,7 +97,7 @@ updated: 2026-10-30
 > [!dev-timeline] 概念演变
 > - **1984–1998 — 杜克大学英语系盛极而衰历程** 杜克大学斥巨资引进文学界全明星教员，学科排名迅速登顶，但随后陷入恶性宗派纷争走向瓦解，成为高等教育界经典案例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–113)]]
 > - **1996 — 家禽繁育超级母鸡对照实验确立** 威廉·缪尔（William M. Muir）发表家禽繁育实验，系统确立个体单兵选拔与群体协同选拔的生产力分水岭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 110–111)]]
-> - **2014 — 过度人才效应数理模型提出** 罗德里克·斯瓦布（Roderick I. Swaab）等人在《心理科学》（Psychological Science）正式形式化 Too-Much-Talent Effect，确立任务互依度的倒 U 形调节模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 113)]]
+> - **2014 — 人才过剩效应数理模型提出** 罗德里克·斯瓦布（Roderick I. Swaab）等人在《心理科学》（Psychological Science）正式形式化 Too-Much-Talent Effect，确立任务互依度的倒 U 形调节模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 113)]]
 > - **2021 — 科学学团队组装理论整合** 王大顺与巴拉巴西在《科学的科学》将该效应作为科研团队配置与多样性优势的理论基石，系统剖析精英主义引智的制度误区。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 110–114)]]
 
 ---
@@ -119,4 +120,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托缪尔育种实验与斯瓦布计量模型，系统论证高互依科研攻关中全明星配置引发过度人才效应的机理。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托缪尔育种实验与斯瓦布计量模型，系统论证高互依科研攻关中全明星配置引发人才过剩效应的机理。
