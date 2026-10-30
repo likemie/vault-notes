@@ -61,12 +61,12 @@ updated: 2026-10-29
 > [!def] Document
 > 文献（Document）是对某一事件或过程的持久性记录，由个人或社会组织在具体历史情境中生产，涵盖文字文本、视觉图像、口头声音以及物质[[Artefact|人工制品]]等多维媒介形态，构成[[Documentary Analysis|文献研究]]与历史教育研究的基石[[Unit of Analysis|分析单位]]。从方法论特征来看，文献通常独立于具体研究议程而事先存在，具备不受调查情境干预的非反应性（Non-reactivity）；每份文献同时承载着生产者的意识形态立场、受众预设与制度利益，呈现特定视角下的历史叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 249–250)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向人类社会活动留存的各类人为痕迹记录，反映过去发生的事实脉络、制度运行机制与时代的价值观念。
 > - **用途** 帮助研究者克服时间与地理阻隔，探寻当代教育制度的发生学起源与演变轨迹，透视政策幕后博弈过程与未言明的声音。
 > - **边界** 文献记载的是行动者或机构对事件的选择性建构，反映特定主体的立场与意图；研究者需要结合原始生产语境综合考证，避免将文献表层陈述直接等同于客观史实全貌。
 
-> [!citation-card] 记录性与情境建构
+> [!citation-card|notitle] 关键表述
 > 文献可简要界定为对一个事件或过程的记录。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, p. 249)]]
 >
 > *A document may be defined briefly as a record of an event or process.*
@@ -78,7 +78,7 @@ updated: 2026-10-29
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 文献（Document） | [[Primary and Secondary Documents\|二手文献]] | 研究者自产资料（Researcher-produced Data） |
 > |---|---|---|---|
 > | 生产主体 | 历史参与者、机构或社会组织 | 分析一手文献的研究学者 | 研究者本人（如访谈员） |
@@ -94,13 +94,19 @@ updated: 2026-10-29
 > - **与研究关系定位** 区分自然生成的独立文献与调查干预下的自产文献；独立文献的非介入性质免除了研究者引发的[[Hawthorne Effect|霍桑效应]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, p. 250)]]
 > - **一手与二手层级** 区分事件当事人留存的直接记录与后续学者的综合阐释，其界限依据研究者的研究问题与分析视角发生动态转换。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 250–251)]]
 
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart LR
+>     A["生产主体<br>(私人/官方/媒体)"] --> E["文献记录 (Document)"]
+>     B["媒介承载<br>(文本/图像/数字)"] --> E
+>     C["独立生成<br>(非反应性特征)"] --> E
+>     D["情境层级<br>(一手见证/二手阐释)"] --> E
+>     E --> F["历史教育与制度发生学分析"]
+> ```
+
 ---
 
-## 围绕概念形成的命题
-
----
-
-> [!concept-proposition] 命题一｜文献记录兼具非反应性与立场建构性反映生产主体特定意图与受众预设
+> [!concept-proposition] 命题一｜文献记录兼具非反应性与立场建构性
 > **探讨维度　[[Text Generation|文本生成]]机制与非反应性价值** 探讨文献独立于研究者干预的[[Epistemology|认识论]]优势，以及文献内在的立场性、预设受众与权力选择机制。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011)]]

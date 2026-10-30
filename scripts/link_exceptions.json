@@ -324,5 +324,15 @@
       "sentence": "Sure, you need talented teammates, but they also must learn to work together, “to achieve something beyond the capabilities of individuals working alone”.",
       "target": "wiki/facts/us/Achieve.md"
     }
+  ],
+  "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md": [
+    {
+      "sentence": "科学文献在过去一个多世纪中究竟遵循何种宏观扩张动力学？",
+      "target": "wiki/concepts/research-methodology/Document.md"
+    },
+    {
+      "sentence": "citation-card] 普赖斯论科学文献每 12 年翻番的指数增长律",
+      "target": "wiki/concepts/research-methodology/Document.md"
+    }
   ]
 }
