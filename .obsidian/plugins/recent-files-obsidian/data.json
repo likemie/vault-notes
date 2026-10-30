@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
+    },
+    {
+      "basename": "Ordinary Least Squares",
+      "path": "wiki/methods/quantitative/Ordinary Least Squares.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
     },
@@ -97,10 +109,6 @@
       "path": "wiki/methods/quantitative/g-Index.md"
     },
     {
-      "basename": "Ordinary Least Squares",
-      "path": "wiki/methods/quantitative/Ordinary Least Squares.md"
-    },
-    {
       "basename": "Career Shuffling Method",
       "path": "wiki/methods/quantitative/Career Shuffling Method.md"
     },
@@ -127,10 +135,6 @@
     {
       "basename": "Goliath's Shadow",
       "path": "wiki/concepts/science-policy/Goliath's Shadow.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
     },
     {
       "basename": "Knowledge Exchange",
@@ -195,10 +199,6 @@
     {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
     }
   ],
   "omittedPaths": [],
