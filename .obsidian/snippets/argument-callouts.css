@@ -23832,7 +23832,77 @@ html body .callout.callout.callout.callout.callout:is([data-callout="framework-t
   }
   html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) td:first-child { width: auto !important; padding-right: 0 !important; padding-bottom: .4rem !important; }
 }
+/* Quiet motion: a shared heading rule, with different reading cues for each table. */
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) {
+  --fm-ease: cubic-bezier(.2, .65, .3, 1);
+  transition: border-color 220ms var(--fm-ease) !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title { position: relative !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute;
+  left: 0; bottom: -1px; width: 28px; height: 2px;
+  background: var(--ac-accent, rgb(var(--callout-color))) !important;
+  opacity: .55; transform: scaleX(1); transform-origin: left;
+  transition: transform 360ms var(--fm-ease), opacity 220ms ease !important;
+  pointer-events: none;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]).is-collapsed > .callout-title { border-bottom: 0 !important; padding-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]).is-collapsed > .callout-title::after { display: none !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner::before {
+  padding-left: 28px !important;
+  transition: background-size 300ms var(--fm-ease), color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):not(.is-collapsed) > .callout-content {
+  animation: fm-table-reveal 320ms var(--fm-ease) both !important;
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content tbody td {
+  transition: background-color 200ms var(--fm-ease), color 200ms ease !important;
+}
+html body .callout.callout.callout.callout.callout[data-callout="framework-table"] > .callout-content td:first-child a.internal-link {
+  text-decoration: underline solid !important;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent) !important;
+  text-decoration-thickness: 1px !important; text-underline-offset: .24em !important;
+  transition: color 180ms ease, text-decoration-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child { position: relative !important; }
+html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child::before {
+  content: ""; position: absolute; left: 0; top: .9rem; bottom: .9rem; width: 2px;
+  background: var(--ac-accent, rgb(var(--callout-color)));
+  opacity: 0; transform: scaleY(.4); transform-origin: center;
+  transition: transform 240ms var(--fm-ease), opacity 180ms ease;
+  pointer-events: none;
+}
+html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child strong {
+  display: inline-block; transition: transform 240ms var(--fm-ease), color 200ms ease !important;
+}
+@media (hover: hover) {
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):hover { border-color: color-mix(in srgb, var(--ac-accent) 30%, var(--ac-hair)) !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):not(.is-collapsed):hover > .callout-title::after { transform: scaleX(2.5); opacity: .9; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):hover > .callout-title .callout-title-inner::before { background-size: 20px 2px !important; }
+  html body .callout.callout.callout.callout.callout[data-callout="framework-table"] > .callout-content tbody tr:hover td:first-child a.internal-link {
+    color: var(--ac-ink) !important; text-decoration-color: currentColor !important;
+  }
+  html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:hover td:first-child::before { transform: scaleY(1); opacity: .75; }
+  html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:hover td:first-child strong { transform: translateX(6px); color: var(--ac-ink) !important; }
+}
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):focus-within > .callout-title::after { transform: scaleX(2.5); opacity: .9; }
+html body .callout.callout.callout.callout.callout[data-callout="framework-table"] > .callout-content a.internal-link:focus-visible {
+  outline: 2px solid var(--ac-accent); outline-offset: 3px; border-radius: 2px;
+  text-decoration-color: currentColor !important;
+}
+html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:focus-within td:first-child::before { transform: scaleY(1); opacity: .75; }
+@container (max-width: 520px) {
+  html body .callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child::before { top: .15rem; bottom: .45rem; }
+}
+@keyframes fm-table-reveal {
+  from { opacity: .65; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 @media (prefers-reduced-motion: reduce) {
-  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td) { transition: none !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout], html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] *, html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout]::before, html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout]::after, html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] *::before, html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] *::after {
+    animation: none !important; transition: none !important;
+  }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] > .callout-content { opacity: 1 !important; transform: none !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] > .callout-title::after, html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] > .callout-content tbody td:first-child strong { transform: none !important; }
 }
 /* <<< FRAMEWORK-METHOD REFINEMENT */
