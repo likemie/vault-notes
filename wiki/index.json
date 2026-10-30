@@ -21615,6 +21615,18 @@
     ]
   },
   {
+    "title": "Burstiness in Human Activities",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Burstiness in Human Activities.md",
+    "aliases": [
+      "人类行为突发性",
+      "突发动力学",
+      "爆发动力学",
+      "人类活动爆发性",
+      "Burstiness"
+    ]
+  },
+  {
     "title": "Constant-Probability-of-Success Model",
     "type": "theory",
     "path": "wiki/theories/science-policy/Constant-Probability-of-Success Model.md",
@@ -21646,6 +21658,18 @@
       "Ergas Taxonomy",
       "使命导向与扩散导向技术政策分类",
       "mission-oriented and diffusion-oriented technology policy"
+    ]
+  },
+  {
+    "title": "Hot Hand Fallacy",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Hot Hand Fallacy.md",
+    "aliases": [
+      "热手错觉",
+      "手感发热谬误",
+      "热手效应论争",
+      "Hot Hand",
+      "连胜错觉"
     ]
   },
   {
@@ -25586,6 +25610,18 @@
       "rating scales",
       "attitude scale",
       "态度量表"
+    ]
+  },
+  {
+    "title": "Receiver Operating Characteristic Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Receiver Operating Characteristic Analysis.md",
+    "aliases": [
+      "受试者工作特征分析",
+      "ROC 曲线分析",
+      "ROC 分析",
+      "ROC Curve Analysis",
+      "Receiver Operating Characteristic"
     ]
   },
   {

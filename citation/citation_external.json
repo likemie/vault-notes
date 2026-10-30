@@ -15168,8 +15168,6 @@
     "Mark Bray & R. Murray Thomas, 1995": "Mark Bray & R. Murray Thomas, 1995",
     "Mark Ginsburg (1991)": "Mark Ginsburg, 1991",
     "Mark Ginsburg, 1991": "Mark Ginsburg, 1991",
-    "Mark Newman (2001)": "Mark Newman, 2001",
-    "Mark Newman, 2001": "Mark Newman, 2001",
     "Mark Rickinson et al. (2022)": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022a": "Mark Rickinson et al., 2022",
@@ -137176,21 +137174,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
-      ],
-      "title": ""
-    },
-    "Mark Newman, 2001": {
-      "aliases": [
-        "Mark Newman, 2001",
-        "Mark Newman (2001)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mark Newman, 2001"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },

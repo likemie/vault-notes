@@ -2250,3 +2250,10 @@ body.float-outline-style.enable-bold-bar .heading-list-item::before
 .floating-toc.updating {
   opacity: 0.7;
 }
+
+/* LOCAL FLOATING TOC CALLOUT BADGES */
+/* Callouts are navigation entries, not real H2/H3 headings. */
+.floating-toc .heading-list-item[data-ftoc-callout] .text::after {
+  content: none;
+  display: none;
+}

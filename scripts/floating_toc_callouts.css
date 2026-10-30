@@ -1,0 +1,5 @@
+/* Callouts are navigation entries, not real H2/H3 headings. */
+.floating-toc .heading-list-item[data-ftoc-callout] .text::after {
+  content: none;
+  display: none;
+}

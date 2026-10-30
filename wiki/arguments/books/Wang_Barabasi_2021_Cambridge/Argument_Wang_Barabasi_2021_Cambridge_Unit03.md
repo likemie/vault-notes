@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 14
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -37,11 +37,14 @@ related_theories:
   - "[[Q-Model]]"
   - "[[Hot-Streak Model]]"
   - "[[Random Impact Rule]]"
+  - "[[Burstiness in Human Activities]]"
+  - "[[Hot Hand Fallacy]]"
 related_methods:
   - "[[Q-Factor]]"
   - "[[h-Index]]"
   - "[[Career Shuffling Method]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Receiver Operating Characteristic Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Roberta Sinatra]]"
@@ -200,7 +203,7 @@ updated: 2026-10-30
 > [!sub-claim] 2. 顶尖同行看重平均水准而非发表篇数，简历增发低档成果会导致降分
 
 > [!mechanism] 同行评审的均值稳定逻辑与平庸发表稀释效应
-> 在预测诺贝尔奖得主的 ROC 竞赛中，[[Q-Factor|Q 因子]]在区分精度上力拔头筹，超越 [[h-Index|h 指数]]与总被引，发文量 $N$ 的预测表现垫底；经济学系虚构简历随机对照实验揭示，在顶刊成果清单后增补低级别期刊发表，反而使简历评分从 8.1 显著下滑至 7.6，证实顶尖同行更看重成果均质水准，单纯多发平庸成果会招致同行降分惩罚（Sinatra et al., 2016; Heckman & Moktan, 2020, pp. 67–70; 图 6-4）。
+> 在运用[[Receiver Operating Characteristic Analysis|受试者工作特征分析]]（ROC）预测诺贝尔奖得主的评估中，[[Q-Factor|Q 因子]]在区分精度上力拔头筹，超越 [[h-Index|h 指数]]与总被引，发文量 $N$ 的预测表现垫底；经济学系虚构简历随机对照实验揭示，在顶刊成果清单后增补低级别期刊发表，反而使简历评分从 8.1 显著下滑至 7.6，证实顶尖同行更看重成果均质水准，单纯多发平庸成果会招致同行降分惩罚（Sinatra et al., 2016; Heckman & Moktan, 2020, pp. 67–70; 图 6-4）。
 
 > [!case] 经济学同行评审实验：增发低层级成果为何遭到降分惩罚
 > - **实验设计与双盲干预** Heckman 与 Moktan（2020）从全球排名前 10% 顶尖研究型大学的经济学系中随机抽选 44 所院校的知名教授担任受试者。研究人员要求教授们对一批精心虚构的应聘学者学术简历进行 1 至 10 分的打分（10 分为最高）。经济学界内部对期刊声望具有极高且稳定的共识梯度（pp. 68–69）。
@@ -211,7 +214,7 @@ updated: 2026-10-30
 
 > [!figure]- 图6-4：预测诺贝尔奖得主的 ROC 曲线对比
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_6-4_Predicting_Nobel_Laureates_ROC.jpg)
-> *基于 Q 因子、发文量 $N$、总被引 $C$、最高单篇被引 $c^\ast_{10}$ 以及 h 指数对物理学家进行排序并预测诺贝尔奖得主的 ROC 曲线。Q 因子拥有最高的受试者工作特征曲线下面积（Area Under the Curve, AUC），准确率居首；发文量 $N$ 预测精度垫底（Sinatra et al., 2016, p. 68）。*
+> *基于 Q 因子、发文量 $N$、总被引 $C$、最高单篇被引 $c^\ast_{10}$ 以及 h 指数对物理学家进行排序并预测诺贝尔奖得主的 ROC 曲线。Q 因子拥有最高的[[Receiver Operating Characteristic Analysis|受试者工作特征曲线下面积]]（Area Under the Curve, AUC），准确率居首；发文量 $N$ 预测精度垫底（Sinatra et al., 2016, p. 68）。*
 
 ---
 
@@ -240,7 +243,7 @@ updated: 2026-10-30
 
 > [!case] 爱因斯坦 1905 年奇迹年与跨领域代表作成簇实证
 > - **物理学史中的奇迹年（Annus Mirabilis）** 1905 年，26 岁的爱因斯坦在瑞士专利局工作期间，于一年之内连发 4 篇彻底重塑现代物理学版图的划时代论著：解释布朗运动（证实原子与分子真实存在）、发现光电效应（开创量子理论并于 15 年后获诺贝尔奖）、创立狭义相对论（重构时空观），并在年尾推导出质能方程 $E=mc^2$。这一现象在科学史上被视作典型的热手或爆发期表征（p. 71）。
-> - **体育心理学关于热手错觉的半世纪论争** 早期认知心理学研究认为，篮球投篮中的连中状态纯属小数定律引发的认知错觉，连续命中并不超越抛硬币的随机几率（Gilovich et al., 1985）。后续统计学研究纠正了这一结论，证实抽样偏误掩盖了真实的连中机制（Miller & Sanjurjo, 2018）。这一争论进而推动学界探究科学创造力是否存在真实的爆发期（pp. 71–72）。
+> - **体育心理学关于[[Hot Hand Fallacy|热手错觉]]的半世纪论争** 早期认知心理学研究认为，篮球投篮中的连中状态纯属小数定律引发的认知错觉，连续命中并不超越抛硬币的随机几率（Gilovich et al., 1985）。后续统计学研究纠正了这一结论，证实抽样偏误掩盖了真实的连中机制（Miller & Sanjurjo, 2018）。这一争论进而推动学界探究科学创造力是否存在真实的爆发期（pp. 71–72）。
 > - **跨领域代表作成簇的普适经验**
 >   - 影视领域：新西兰导演彼得·杰克逊（Peter Jackson）在 2001 至 2003 年间迎来为期 3 年的集中爆发期，连续推出《指环王：魔戒再现》《双塔奇兵》与《王者归来》，席卷 17 项奥斯卡奖并创下影史票房纪录（p. 75）；
 >   - 艺术领域：荷兰后印象派画家文森特·梵高（Vincent van Gogh）于 1888 年从巴黎迁居法国南部阿尔勒，在这一年内接连创作出《黄房子》《梵高的椅子》《阿尔勒的卧室》《夜间咖啡馆》《罗纳河上的星夜》以及《十二朵向日葵》等传世名作，其艺术创造力在一年内得到集中展现（pp. 75–76）。
@@ -276,7 +279,7 @@ updated: 2026-10-30
 > [!mechanism] 先探索后利用的认知策略与爆发期因果机制
 > 学者在进入爆发期前普遍表现出跨学科广泛探索未知领域的特征，从而拓宽了抽中高潜力构想的几率；一旦锁定关键突破口，学者迅速收缩战线、全力深耕利用，在数年内集中输出系列重大成果，形成了爆发期的典型节奏（pp. 77–78）。
 
-> [!note] Box 7.1 人类活动中的爆发性动力学
+> [!note] Box 7.1 [[Burstiness in Human Activities|人类活动中的爆发性动力学]]
 > > 高性能表现的集中期不仅存在于创造性活动中，在广泛的人类行为模式中同样普遍观察到爆发性（Burstiness）现象。传统泊松过程假定人类活动的发生时序属于纯粹随机事件，若该假设成立，连续两次事件之间的间隔时间应当严格服从指数分布。然而实际测量表明，绝大多数人类活动的时间间隔均服从重尾的幂律分布（Barabási, 2005; Oliveira & Barabási, 2005）。
 > > 
 > > 这意味着人类行为在时序上展现出鲜明的成簇爆发模式：个体在相对短暂的时间窗口内高频密集地执行某种动作，随后伴随漫长的平静间歇期。这种爆发性特征已在电子邮件往来、电话通信、即时消息传递乃至社会交往等多种活动中获得实证。虽然学术爆发期与行为物理学中的爆发性在测度算法上有所差异，但上述跨领域证据表明：热手现象与人类活动的复杂动力学共享相似的自组织机制，其科学启示远超狭义的学术创造力本身。（p. 77）
