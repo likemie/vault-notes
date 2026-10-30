@@ -19530,8 +19530,6 @@
     "Resnick, 1989": "Resnick, 1989",
     "Resnik (2006)": "Resnik, 2006",
     "Resnik, 2006": "Resnik, 2006",
-    "Restivo & van de Rijt (2012)": "Restivo & van de Rijt, 2012",
-    "Restivo & van de Rijt, 2012": "Restivo & van de Rijt, 2012",
     "Rethlefsen et al. (2021)": "Rethlefsen et al., 2021",
     "Rethlefsen et al., 2021": "Rethlefsen et al., 2021",
     "Reuters Institute DNR (2025)": "Reuters Institute DNR, 2025",
@@ -36697,7 +36695,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/higher-education/The 41st Chair.md",
         "wiki/concepts/science-policy/Prizewinner Retroactive Spillover Effect.md"
       ],
@@ -44396,6 +44393,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
@@ -100097,8 +100095,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },
@@ -161777,7 +161774,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/persons/us/Alexander M. Petersen.md"
       ],
       "title": ""
@@ -165287,6 +165283,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Disparity.md"
       ],
       "title": ""
@@ -169186,21 +169183,6 @@
       ],
       "title": ""
     },
-    "Restivo & van de Rijt, 2012": {
-      "aliases": [
-        "Restivo & van de Rijt, 2012",
-        "Restivo & van de Rijt (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Restivo & van de Rijt, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
-      ],
-      "title": ""
-    },
     "Rethlefsen et al., 2021": {
       "aliases": [
         "Rethlefsen et al., 2021",
@@ -171085,6 +171067,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/higher-education/The 41st Chair.md"
       ],
       "title": ""
@@ -185032,8 +185015,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/concepts/academic-writing/Conference-Centric Publication Model.md"
       ],
       "title": ""
     },
@@ -198850,7 +198832,6 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md",
         "wiki/concepts/science-policy/Status Bias in Peer Review.md"
       ],

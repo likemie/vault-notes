@@ -346,5 +346,15 @@
       "sentence": "*If we print just the first page of each of these papers and stack them on top of each other, the pile would almost reach to the top of Mt.",
       "target": "wiki/facts/uk/Reach.md"
     }
+  ],
+  "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md": [
+    {
+      "sentence": "**知识来源期刊对提取** 学术出版物的参考文献列表揭示了其思想汲取的学科知识域；提取每部出版物参考文献中出现的所有两两期刊配对 $(i, j)$ (pp.",
+      "target": "wiki/concepts/educational-psychology/Source of Knowledge.md"
+    },
+    {
+      "sentence": "**单篇突破热度导向** 大众媒体以时效性、话题性与轰动效应为筛选轴心，倾向于将初创单篇发表包装为不可动摇的重大科学裁决 (p.",
+      "target": "wiki/concepts/science-policy/Big Science.md"
+    }
   ]
 }
