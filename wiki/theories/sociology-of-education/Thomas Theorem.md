@@ -10,7 +10,7 @@ aliases:
 summary: "符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 24
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -47,13 +47,15 @@ related_persons:
   - "[[Keith Morrison]]"
   - "[[Michael Gove]]"
   - "[[John Rex]]"
+  - "[[Dorothy Swaine Thomas]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-10-22
 > - **解释对象** 社会行动者如何依据其对外部情境的主观赋意与认知界定采取行动，以及这种主观建构如何反向塑造坚固的客观社会后果。
 > - **理论问题** 回应实证[[Behaviorism|行为主义]]忽视人类主观能动性与认知诠释中介的机械论偏见，阐明主观认知信念与客观社会现实之间的双向互动与因果转化机制。
 > - **理论类型** 微观社会学奠基性定理、[[Symbolic Interactionism\|符号互动论]]核心机制、主观意义与社会行动中介理论。
-> - **知识位置** 芝加哥社会学派、符号互动论传统、教育社会学与微观课堂[[Ethnography\|民族志]]。由威廉·伊萨克·托马斯与多萝西·斯温·托马斯（W. I. Thomas & D. S. Thomas, 1928）确立，经由[[Peter Woods\|彼得·伍兹]]（Peter Woods）、[[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas）与[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（Basil Bernstein）在教育探究中深度拓展。
+> - **知识位置** 芝加哥社会学派、符号互动论传统、教育社会学与微观课堂[[Ethnography\|民族志]]。由威廉·伊萨克·托马斯与[[Dorothy Swaine Thomas|多萝西·斯温·托马斯]]（W. I. Thomas & D. S. Thomas, 1928）确立，经由[[Peter Woods\|彼得·伍兹]]（Peter Woods）、[[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas）与[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（Basil Bernstein）在教育探究中深度拓展。
 
 > [!claim] 核心主张
 > **托马斯定理（Thomas Theorem）** 指出：“如果人们将情境定义为真实的，那么这些情境在它们的结果上也是真实的。”在社会互动中，决定人类行为方式的并非外在物理环境或客观刺激的固有属性，而是行动者在特定社会传记背景下赋予该情境的主观意义。人类根据其对情境的主观界定实施行动，进而引发一系列可观察、可感知的客观制度事实与人际互动后果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 18, 25–26)]]
@@ -71,6 +73,11 @@ updated: 2026-10-22
 > 人们对事件、脉络与情境进行诠释，并基于这些事件采取行动（这呼应了托马斯著名的格言：如果人们将情境定义为真实的，那么这些情境在其结果上就是真实的——如果我相信桌子底下有一只老鼠，无论那里是否真的有老鼠，我都会表现得仿佛桌子底下确实有一只老鼠一样）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
 >
 > *People interpret events, contexts and situations, and act on the bases of those events (echoing Thomas’s (1928) famous dictum that if people define their situations as real then they are real in their consequences – if I believe there is a mouse under the table, I will act as though there is a mouse under the table, whether there is or not (Morrison, 1998)).*
+
+> [!citation-card] 定理合作者历史遮蔽与科学马太效应
+> 著名的托马斯定理及其母体论著《美国的儿童》在学术史中被近乎普遍地单方面归于威廉·伊萨克·托马斯个人名下。然而该书封面上清晰载有威廉·伊萨克·托马斯与[[Dorothy Swaine Thomas|多萝西·斯温·托马斯]]两位作者。多萝西·斯温·托马斯的理论奠基贡献在长达近一个世纪的学术传承中被严重遮蔽，成为学术共同体依据先发声誉与性别偏见进行非对称声誉分配的经典学术史范本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147–149)]]
+>
+> *Both the Thomas theorem and The Child in America are repeatedly cited as the work of W. I. Thomas alone. But the fact is, the cover of the book lists two authors: W. I. Thomas and Dorothy Swaine Thomas... Dorothy Swaine Thomas, whose contribution to The Child in America was diminished to the point of vanishing, represents this kind of credit discrimination.*
 
 > [!citation-card] 伯恩斯坦论制度性权力对情境定义的结构性强制
 > 伯恩斯坦的批评直指[[Phenomenology\|现象学]]家与常人方法学者对情境意义及其协商过程的过度关注。伯恩斯坦指出，关于此类协商意义所被忽视的关键在于，个体解释和定义情境的整个过程本身就是其所处客观环境的产物。在这种环境中必须予以考量的一个重大因素，是他人向参与者强加自身情境定义的权力。医生的诊室和校长的办公室正是权力不平等被常态化强加于不平等参与者之上的典型场所。特定个体、群体、阶级与权威说服他人接受其情境定义的能力充分证明，社会结构固然源于我们感知社会关系的方式，但它显然远不止于此。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]

@@ -11,6 +11,10 @@ aliases:
 summary: "科学社会学与科学学的核心构念，指科学共同体向学者及其成果赋予的专业承认与声望资本，充当学术奖励系统的基础通货并支配职称晋升、终身教职、科研资助与顶尖大奖的评定。在合著成为主流的现代科学中，署名名单的信息不对称导致实际科研劳动投入与共同体感知贡献产生系统性脱节，受到学科署名序位惯例、马太效应与隐性偏见的结构性调节。"
 type: concept
 domain: "science-policy"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -45,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---
@@ -79,10 +83,10 @@ updated: "2026-10-30"
 ---
 
 > [!feature] 核心要素
-> - **生产与分配的结构性脱节** 现代科研攻关高度依赖跨机构、大规模团队协作，而职称评聘与终身教职制度依然维系着单兵评估模式，造成成果贡献切分成为贯穿职业生涯的核心博弈。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–136)]]
+> - **生产与分配的结构性脱节** 现代科研攻关高度依赖跨机构、大规模团队协作，而职称评聘与终身教职制度依然维系着单兵评估模式，造成成果贡献切分成为贯穿职业生涯的核心利益协商点。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–136)]]
 > - **署名名单的信息不对称性** 读者仅凭期刊论文上排列的作者姓名，无法直接透视实验设计、代码编写、数据搜集与论文起草等具体任务的真实负荷分配。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 136)]]
 > - **责任与承认的非对称分配** 在成功成果中声望向知名资深学者集中；但在遭遇学术造假与撤稿危机时，惩罚却残酷地单向转嫁给初级青年学者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 150–151)]]
-> - **感知驱动的集体建构属性** 声誉份额并非由合作者之间的私人私下约定决定，而是由整个科学共同体基于该学者在后续历史成果中的持续独立产出所集体赋予。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]
+> - **感知驱动的集体建构属性** 声誉份额由整个科学共同体基于该学者在后续历史成果中的持续独立产出集体赋予，脱离合作者之间的私人私下约定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]
 
 > [!logic-map]- 科学信誉的分配机制
 > ```mermaid

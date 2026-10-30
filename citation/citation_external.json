@@ -5121,6 +5121,8 @@
     "Corporate Register, 2019": "Corporate Register, 2019",
     "Correll (2008)": "Correll, 2008",
     "Correll, 2008": "Correll, 2008",
+    "Corrêa et al. (2017)": "Corrêa et al., 2017",
+    "Corrêa et al., 2017": "Corrêa et al., 2017",
     "Corson (1995)": "Corson, 1995",
     "Corson, 1995": "Corson, 1995",
     "Cosden (1995)": "Cosden, 1995",
@@ -20633,6 +20635,8 @@
     "Sari Biklen, 1992": "Sari Biklen, 1992",
     "Sarkis (2004)": "Sarkis, 2004",
     "Sarkis, 2004": "Sarkis, 2004",
+    "Sarsons (2017)": "Sarsons, 2017",
+    "Sarsons, 2017": "Sarsons, 2017",
     "Sartre (1964)": "Sartre, 1964",
     "Sartre (1976)": "Sartre, 1976",
     "Sartre, 1964": "Sartre, 1964",
@@ -21381,6 +21385,8 @@
     "Shekoyan, 2009": "Shekoyan, 2009",
     "Shelton (1997)": "Shelton, 1997",
     "Shelton, 1997": "Shelton, 1997",
+    "Shen & Barabási (2014)": "Shen & Barabási, 2014",
+    "Shen & Barabási, 2014": "Shen & Barabási, 2014",
     "Shen & Chen (2025)": "Shen & Chen, 2025",
     "Shen & Chen, 2025": "Shen & Chen, 2025",
     "Shen (2022)": "Shen, 2022",
@@ -24601,6 +24607,8 @@
     "Walter Parker, 2003": "Walter Parker, 2003",
     "Walter W. Powell (1990)": "Walter W. Powell, 1990",
     "Walter W. Powell, 1990": "Walter W. Powell, 1990",
+    "Waltman (2012)": "Waltman, 2012",
+    "Waltman, 2012": "Waltman, 2012",
     "Walton (2005)": "Walton, 2005",
     "Walton, 2005": "Walton, 2005",
     "Waluyohadi (2019)": "Waluyohadi, 2019",
@@ -64344,6 +64352,22 @@
       "seen_in": [],
       "title": "A Program Evaluation of a Conversational Instruction Program for the Vocabulary Development of Four-year-old Students in Preschool Classes"
     },
+    "Corrêa et al., 2017": {
+      "aliases": [
+        "Corrêa et al., 2017",
+        "Corrêa et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Corrêa et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Scientific Credit.md"
+      ],
+      "title": ""
+    },
     "Corson, 1995": {
       "aliases": [
         "Corson, 1995",
@@ -99602,7 +99626,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""
     },
@@ -177111,6 +177136,23 @@
       "seen_in": [],
       "title": "Cognitive Tutor Algebra 1  Program evaluation"
     },
+    "Sarsons, 2017": {
+      "aliases": [
+        "Sarsons, 2017",
+        "Sarsons (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sarsons, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Alphabetical Authorship.md",
+        "wiki/concepts/science-policy/Collaboration Penalty for Women.md"
+      ],
+      "title": ""
+    },
     "Sartre, 1964": {
       "aliases": [
         "Sartre, 1964",
@@ -182582,6 +182624,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "An analysis of the impact of an at-risk treatment program on self-esteem and its effects on attitudes toward study skills, attendance, academic achievement and behavior of entering ninth-grade students"
+    },
+    "Shen & Barabási, 2014": {
+      "aliases": [
+        "Shen & Barabási, 2014",
+        "Shen & Barabási (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Shen & Barabási, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Scientific Credit.md"
+      ],
+      "title": ""
     },
     "Shen & Chen, 2025": {
       "aliases": [
@@ -205614,6 +205672,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Network Governance.md"
+      ],
+      "title": ""
+    },
+    "Waltman, 2012": {
+      "aliases": [
+        "Waltman, 2012",
+        "Waltman (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Waltman, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Alphabetical Authorship.md"
       ],
       "title": ""
     },

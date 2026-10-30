@@ -9,6 +9,10 @@ summary: "中国网络科学与计算社会学学者，中国科学院计算技�
 type: person
 nationality: china
 person_region: "china"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1982"
 died: ""
 lifespan: "1982–至今"
@@ -33,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---

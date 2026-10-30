@@ -9,6 +9,10 @@ summary: "美籍社会学家与人口学家，宾夕法尼亚大学社会学讲�
 type: person
 nationality: us
 person_region: "us"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1899"
 died: "1977"
 lifespan: "1899–1977"
@@ -33,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---

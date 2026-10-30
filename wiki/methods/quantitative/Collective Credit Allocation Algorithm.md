@@ -10,6 +10,10 @@ summary: "由沈华伟与艾伯特－拉斯洛·巴拉巴西（Shen & Barabási,
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
@@ -41,13 +45,13 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] Collective Credit Allocation Algorithm
-> **集体贡献分配算法（Collective Credit Allocation Algorithm）** 是一种通过前向施引文献网络与后向共引拓扑，客观量化多作者合作科研成果中个体学术声望份额的计算方法。该算法将目标论文全部施引文献所引用的相关成果集合界定为该主题的知识共同体本体，通过作者参与度矩阵 $A$ 与共引强度向量 $s$ 进行线性加权运算 $c = As$，以此模拟科学界在不透视内部实验细节的前提下自发涌现的声誉分配过程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 153–156)]]
+> **集体贡献分配算法（Collective Credit Allocation Algorithm）** 是一种通过前向施引文献网络与后向共引拓扑，客观量化多作者合作科研成果中个体学术声望份额的计算方法。该算法将目标论文全部施引文献所引用的相关成果集合界定为该主题的知识共同体本体，通过作者参与度矩阵 $A$ 与共引强度向量 $s$ 进行线性加权运算 $c = As$，以此模拟科学界在不透视内部实验细节的前提下自发形成的声誉分配过程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 153–156)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 多作者合作论文中各合著者获得的公认学术声誉与优先权贡献份额（[[Scientific Credit]]）。
@@ -64,7 +68,7 @@ updated: "2026-10-30"
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 输出的声誉份额真实反映了学术共同体基于引文网络形成的集体认知，能够有效穿透字母序署名或荣誉挂名所制造的表面信息障碍；但该指标无法直接检验微观实验室内部的真实劳动投入，测量的是“社会感知的归属”而非“纯物理工时的耗费”。
+> - **构念效度** 输出的声誉份额真实反映了学术共同体基于引文网络形成的集体认知，能够有效跨越字母序署名或荣誉挂名所制造的表面信息障碍；但该指标无法直接检验微观实验室内部的真实劳动投入，测量的是“社会感知的归属”而非“纯物理工时的耗费”。
 > - **研究者判断** 施引文献时间窗口的选择、自引文献的清洗规则，以及相关共引论文参与度权重的分配策略（通常按作者人数平均分摊 $1/k$）。
 > - **有效性标准** 在 63 篇包含多位合著者的历史诺贝尔奖获奖论著中，算法对最终获奖科学家的预测准确率达 81%（51 篇准确命中），且在字母序的物理学与贡献序的生物化学领域均表现出高度稳健性。
 > - **不声称回答的问题** 算法无法判断某项评奖决策在伦理道德层面是否“公正”，其功能在于揭示由客观引文结构所投射出的共同体平均认知趋势。

@@ -10,6 +10,10 @@ summary: "美籍分子生物学家，首位克隆并测序水母绿色荧光蛋�
 type: person
 nationality: us
 person_region: "us"
+person_related_count: 5
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1951"
 died: ""
 lifespan: "1951–至今"
@@ -33,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---
@@ -44,7 +48,7 @@ updated: "2026-10-30"
 > - **代表贡献** 1992 年首度克隆并完成维多利亚多管发光水母（*Aequorea victoria*）绿色荧光蛋白基因测序，为活体细胞生物成像奠定了分子生物学工具基石。
 
 > [!citation-card] 普拉谢尔与科学贡献分配的残酷反差
-> 在 2008 年 12 月的诺贝尔奖晚宴上，道格拉斯·普拉谢尔身着租来的燕尾服坐在观众席中。他曾在 1992 年首次克隆出绿色荧光蛋白，这项工作被诺贝尔基金会赞誉为生物化学的指南针。然而，普拉谢尔是以受邀客人的身份出席，并非获奖者。当广播宣布该研究荣获诺贝尔化学奖时，他正准备前往阿拉巴马州亨茨维尔的丰田经销店开礼宾面包车上班。数十年前离开科学界的决定，使他彻底从诺贝尔评奖委员会的视野中滑落。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 134–135)]]
+> 在 2008 年 12 月的诺贝尔奖晚宴上，道格拉斯·普拉谢尔身着租来的燕尾服坐在观众席中。他曾在 1992 年首次克隆出绿色荧光蛋白，这项工作被诺贝尔基金会赞誉为生物化学的指南针。然而，普拉谢尔仅以受邀客人的身份出席。当广播宣布该研究荣获诺贝尔化学奖时，他正准备前往阿拉巴马州亨茨维尔的丰田经销店开礼宾面包车上班。数十年前离开科学界的决定，使他彻底从诺贝尔评奖委员会的视野中滑落。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 134–135)]]
 >
 > *Prasher was in Stockholm to celebrate the impact his work has had on the world... However, Prasher was attending the banquet as a guest, not a prizewinner... On the morning of October 8, 2008, when Prasher heard on his kitchen radio the news that GFP-related research had won the Nobel Prize, he was just getting ready to go to work – not in a lab or university, but as a courtesy van driver at a Toyota dealership in Huntsville, Alabama... his decision to leave science decades ago also dropped him off the Nobel committee’s map.*
 

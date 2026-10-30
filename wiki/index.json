@@ -15781,6 +15781,18 @@
     ]
   },
   {
+    "title": "Alphabetical Authorship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Alphabetical Authorship.md",
+    "aliases": [
+      "按姓氏字母顺序署名",
+      "字母序署名",
+      "姓氏字母署名制",
+      "alphabetical author ordering",
+      "alphabetical ordering of authors"
+    ]
+  },
+  {
     "title": "Assured Demand",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Assured Demand.md",
@@ -15869,6 +15881,19 @@
       "科学合著网络",
       "合作出版网络",
       "scientific collaboration network"
+    ]
+  },
+  {
+    "title": "Collaboration Penalty for Women",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Collaboration Penalty for Women.md",
+    "aliases": [
+      "女性科研合作惩罚",
+      "女性合作晋升惩罚",
+      "女性学术合作惩罚",
+      "经济学女性晋升惩罚",
+      "gender collaboration penalty",
+      "tenure penalty for collaborating"
     ]
   },
   {
@@ -16625,6 +16650,20 @@
       "撤稿声誉惩罚",
       "Reverse Matthew Effect",
       "Status Penalty in Retractions"
+    ]
+  },
+  {
+    "title": "Scientific Credit",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Scientific Credit.md",
+    "aliases": [
+      "科学贡献认可",
+      "科学声誉分配",
+      "科学声誉",
+      "学术承认",
+      "科学信誉",
+      "credit allocation in science",
+      "scientific credit"
     ]
   },
   {
@@ -24286,6 +24325,18 @@
     ]
   },
   {
+    "title": "Collective Credit Allocation Algorithm",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md",
+    "aliases": [
+      "集体贡献分配算法",
+      "合作论文声誉分配模型",
+      "声誉分配算法",
+      "Shen-Barabasi Credit Allocation Algorithm",
+      "collective credit allocation"
+    ]
+  },
+  {
     "title": "Combined Weighting AHP-EWM",
     "type": "method",
     "path": "wiki/methods/quantitative/Combined Weighting AHP-EWM.md",
@@ -27494,6 +27545,17 @@
     ]
   },
   {
+    "title": "Heather Sarsons",
+    "type": "person",
+    "path": "wiki/persons/canada/Heather Sarsons.md",
+    "aliases": [
+      "希瑟·萨森斯",
+      "萨森斯",
+      "H. Sarsons",
+      "Sarsons, H."
+    ]
+  },
+  {
     "title": "Jane Knight",
     "type": "person",
     "path": "wiki/persons/canada/Jane Knight.md",
@@ -27707,6 +27769,17 @@
       "Hu, S.",
       "Hu Shih",
       "胡适之"
+    ]
+  },
+  {
+    "title": "Hua-Wei Shen",
+    "type": "person",
+    "path": "wiki/persons/china/Hua-Wei Shen.md",
+    "aliases": [
+      "沈华伟",
+      "H.-W. Shen",
+      "Shen, H.-W.",
+      "H. W. Shen"
     ]
   },
   {
@@ -30948,6 +31021,17 @@
     ]
   },
   {
+    "title": "Dorothy Swaine Thomas",
+    "type": "person",
+    "path": "wiki/persons/us/Dorothy Swaine Thomas.md",
+    "aliases": [
+      "多萝西·斯温·托马斯",
+      "多萝西·托马斯",
+      "D. S. Thomas",
+      "Thomas, D. S."
+    ]
+  },
+  {
     "title": "Douglas Hofstadter",
     "type": "person",
     "path": "wiki/persons/us/Douglas Hofstadter.md",
@@ -30956,6 +31040,18 @@
       "Douglas R. Hofstadter",
       "道格拉斯·霍夫施塔特",
       "霍夫施塔特"
+    ]
+  },
+  {
+    "title": "Douglas Prasher",
+    "type": "person",
+    "path": "wiki/persons/us/Douglas Prasher.md",
+    "aliases": [
+      "道格拉斯·普拉谢尔",
+      "普拉谢尔",
+      "D. Prasher",
+      "Prasher, D.",
+      "Douglas C. Prasher"
     ]
   },
   {
@@ -45597,6 +45693,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
-    },
-    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+    },
+    {
+      "basename": "Small-World Collaboration Model",
+      "path": "wiki/theories/science-policy/Small-World Collaboration Model.md"
+    },
+    {
+      "basename": "Difference-in-Differences",
+      "path": "wiki/methods/quantitative/Difference-in-Differences.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
     },
     {
       "basename": "Too-Much-Talent Effect",
@@ -21,16 +33,8 @@
       "path": "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
-    },
-    {
       "basename": "Reflection Problem",
       "path": "wiki/concepts/science-policy/Reflection Problem.md"
-    },
-    {
-      "basename": "Difference-in-Differences",
-      "path": "wiki/methods/quantitative/Difference-in-Differences.md"
     },
     {
       "basename": "Human Genome Project",
@@ -91,10 +95,6 @@
     {
       "basename": "Relative Team Impact",
       "path": "wiki/methods/quantitative/Relative Team Impact.md"
-    },
-    {
-      "basename": "Small-World Collaboration Model",
-      "path": "wiki/theories/science-policy/Small-World Collaboration Model.md"
     },
     {
       "basename": "Argument_Edovald_Nevill_2021_ECNUROE",

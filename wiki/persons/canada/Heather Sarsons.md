@@ -9,6 +9,10 @@ summary: "加拿大经济学家，不列颠哥伦比亚大学温哥华经济学�
 type: person
 nationality: canada
 person_region: "canada"
+person_related_count: 4
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1988"
 died: ""
 lifespan: "1988–至今"
@@ -31,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---

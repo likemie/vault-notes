@@ -9,6 +9,10 @@ aliases:
 summary: "在数学、经济学、金融学与高能粒子物理学等学科中长期占据主导地位的合著署名规范，将合作者按姓氏首字母次序排列而不标示各自贡献序位。该惯例植根于学术探索不可分割的集体研讨哲学，设定了极为严苛的实质署名门槛并有效降低了挂名作者发生率；然而其完全抹平位次信息的特征亦为学术共同体的主观推断留下了真空，极易激活无意识偏见并诱发严峻的学术性别合作惩罚。"
 type: concept
 domain: "science-policy"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -33,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-30
 ---
 
 ---
