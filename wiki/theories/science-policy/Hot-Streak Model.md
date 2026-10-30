@@ -8,7 +8,7 @@ aliases:
 summary: "由刘路（Lu Liu）与王大顺、Albert-László Barabási et al. (2018) 提出的创造性职业生涯时序动力学理论；在平稳基线学术表现之上引入局部持续的高位激发状态，解释顶尖代表作在生涯序列中显著成簇出现（前后紧邻概率达随机预期的 1.57 倍）的经验事实，并与代表作在整体生命周期中的随机影响规律统一起来。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 16
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,12 +26,11 @@ related_concepts:
   - "[[Variable]]"
   - "[[Exploration-Exploitation in Science]]"
   - "[[Research Question]]"
-  - "[[Q-Factor]]"
 related_theories:
   - "[[Random Impact Rule]]"
-  - "[[Q-Model]]"
 related_methods:
   - "[[Random Sampling]]"
+  - "[[Joint Probability Matrix of Hits]]"
 related_instruments: []
 related_persons:
   - "[[John B. Fenn]]"
@@ -77,7 +76,7 @@ updated: 2026-10-30
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Hot Streak\|学术爆发期]]（Hot Streak） | 状态[[Variable\|变量]] | 个体在职业生涯中经历的高集中度卓越产出窗口，其间成果期望影响力显著高于基准。 |
-> | 联合发生概率矩阵 $\phi(N^\ast, N^{\ast\ast})$ | 统计工具 | 测度头号代表作与次号代表作相对位置共现强度的归一化指标，对角线凸起判定时序聚集。 |
+> | [[Joint Probability Matrix of Hits|联合发生概率矩阵 $\phi(N^\ast, N^{\ast\ast})$]] | 统计工具 | 测度头号代表作与次号代表作相对位置共现强度的归一化指标，对角线凸起判定时序聚集。 |
 > | 基线表现期望（$\Gamma_0$） | 稳态参数 | 学者在平稳阶段发表成果的对数被引均值，由其固有能力 Q 决定。 |
 > | 爆发态表现期望（$\Gamma_H$） | 激发态参数 | 学者处于爆发期内的对数被引均值（满足 $\Gamma_H > \Gamma_0$）。 |
 > | 持续时间（Duration, $\Delta t$） | 几何参数 | 爆发期所覆盖的自然年限，在自然科学中分布峰值约为 3.7 至 4 年。 |

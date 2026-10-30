@@ -166,7 +166,7 @@ updated: 2026-10-30
 > > >
 > > > 拖动滑块 $\beta_{\text{DID}}$ 可直观观察政策干预如何将处理组拉离无政策的反事实平行基线；调整时间趋势 $\lambda$ 可验证宏观共有冲击对两组的同步平移；调整 $\alpha$ 可辨识单一横截面比较所包含的初始选择偏误；拖动 $\gamma$ 则能动态演示时变未观测混杂如何打破平行趋势并导致 DID 估计量产生方向性偏误。
 > > >
-> > > ![[wiki/assets/geogebra/difference_in_differences.ggb]]
+> > > ![[wiki/assets/geogebra/did_causal_model.ggb]]
 
 > [!formula-step] 公式步骤　双向固定效应面板回归模型（TWFE）
 > $$Y_{it} = \alpha_i + \lambda_t + \beta_{\text{DID}} D_{it} + \mathbf{X}_{it}' \boldsymbol{\gamma} + \varepsilon_{it}$$

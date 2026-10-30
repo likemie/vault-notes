@@ -9,7 +9,7 @@ aliases:
 summary: "认知科学、行为经济学与科学学中关于个体在经历连续成功后是否具备持续高成功概率的经典理论争论；托马斯·吉洛维奇与阿莫斯·特沃斯基等人（1985）将其定性为小数定律引发的认知偏误；米勒与桑胡尔霍（2018）在数理统计上证明传统样本计算存在系统性负偏误，证实真实手感在统计上客观存在；该争论直接启迪了科学学探究学术创造力是否存在真实的爆发期机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -25,7 +25,8 @@ related_theories:
   - "[[Hot-Streak Model]]"
   - "[[Random Impact Rule]]"
   - "[[Burstiness in Human Activities]]"
-related_methods: []
+related_methods:
+  - "[[Joint Probability Matrix of Hits]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -63,7 +64,7 @@ updated: 2026-10-30
 > |:-----|:-----|:--------------|
 > | 热手错觉（Hot Hand Fallacy） | 心理认知偏误 | 假定人类误将独立的随机波动解读为因果连续性的传统心理学假说。 |
 > | 抽样选择偏误 | 统计机制缺陷 | 揭示传统小样本条件概率估计中对连续发生事件计算产生的负向数学偏差。 |
-> | 代表作联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$ | 科学学检验工具 | 量化科研成果序列中头号高峰与次席高峰相对时序共现强度的判定工具。 |
+> | [[Joint Probability Matrix of Hits|代表作联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$]] | 科学学检验工具 | 量化科研成果序列中头号高峰与次席高峰相对时序共现强度的判定工具。 |
 > | [[Hot Streak|学术爆发期]] | 实质状态 | 科学学确立的创造力真实热手形态，体现为数年内代表作的密集落地。 |
 > | [[Hot-Streak Model]] | 衍生模型 | 将热手现象在科研全生命周期中形式化表达的动态演化模型。 |
 > | [[Random Impact Rule]] | 统计基准 | 热手错觉争论所依托的独立同分布随机零假设。 |

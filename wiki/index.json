@@ -24955,6 +24955,18 @@
     ]
   },
   {
+    "title": "Joint Probability Matrix of Hits",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Joint Probability Matrix of Hits.md",
+    "aliases": [
+      "代表作联合发生概率矩阵",
+      "代表作联合概率矩阵",
+      "代表作共现概率矩阵",
+      "Hit Co-location Matrix",
+      "Joint Probability Distribution of Hits"
+    ]
+  },
+  {
     "title": "KMO and Bartlett's Test of Sphericity",
     "type": "method",
     "path": "wiki/methods/quantitative/KMO and Bartlett's Test of Sphericity.md",
