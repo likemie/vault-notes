@@ -10,18 +10,15 @@ summary: "围绕点估计给出的区间估计形式，由置信水平和标准�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
-  - confidence-interval
-  - standard-error
-  - statistical-inference
-  - effect-size
-  - research-methodology
+  - method/quantitative
+  - method/statistical
 related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Unit of Analysis]]"
@@ -63,10 +60,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
-status: completed
+status: active
 created: 2026-05-05
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -75,9 +73,10 @@ updated: 2026-10-29
 > 置信区间（Confidence Interval, CI）是统计推断中围绕参数点估计值所构建的可能取值区间，用于表征估计精度的统计不确定性。一个 $100(1-\alpha)\%$（通常为 95%）的置信区间意味着：若在相同条件下从同一总体中进行无限次独立重复抽样并依照相同数学程序构建区间，理论上将有 $100(1-\alpha)\%$ 的区间包含真实的总体未明参数。置信区间由估计值、临界值（如 $Z$ 或 $t$ 分位数，由置信水平决定）与[[Standard Error|标准误]]三者共同确定。在抽样设计中，CI 作为边际误差（Margin of Error）约束所需[[Sample Size Determination|样本量]]；在实验报告与[[Meta-analysis|元分析]]中，CI 呈现[[Effect Size|效应量]]的不确定性边界，并作为防范假阳性与点估计虚假排名的核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 147–148)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 单均值、均值差、比率、相关系数、标准化效应量（Cohen's $d$、Hedges' $g$）以及定量[[Meta-analysis|元分析]]或[[Meta-meta-analysis|二阶元分析]]的合成效应量。
+> - **测量或估计对象** 测度单均值、均值差、比率、相关系数、标准化效应量（Cohen's $d$、Hedges' $g$）以及定量[[Meta-analysis|元分析]]或[[Meta-meta-analysis|二阶元分析]]的合成效应量。
 > - **问题类型** 用于解答参数估计的精度范围、是否能拒绝特定[[Null Hypothesis|零假设]]值（如零效应）、抽样规划中满足目标精度所需的样本容量，以及相邻排序或亚组比较是否具有统计可区分性。
 > - **[[Unit of Analysis|分析单位]]** 抽样个体、独立干预群体、原始实证研究（一阶元分析）或一阶元分析池（二阶综合）。
+> - **输入数据** 点估计值（均值、比率或效应量）、样本量、抽样标准差或已知标准误。
 > - **输出形式** 下限与上限构成的连续区间 $[L, U]$、边际误差半宽 $e$、点估计与区间[[Forest Plot|森林图]]（Forest Plot）。
 
 > [!citation-card] 置信区间的变异度表征与常规策略
@@ -88,7 +87,7 @@ updated: 2026-10-29
 ---
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 视单次实证观察所得的点估计为包含[[Sampling Error|抽样误差]]的随机[[Variable|变量]]，任何不报告不确定性边界的孤立点估计均具有认识论上的误导性（False Precision）；科学知识的客观性体现于估计精度的收敛与对不确定性的透明呈现。
+> - **知识观** 视单次实证观察所得的点估计为包含[[Sampling Error|抽样误差]]的随机[[Variable|变量]]，任何不报告不确定性边界的孤立点估计均具有认识论上的误导性（False Precision）；科学知识的客观性体现于估计精度的提高与对不确定性的透明呈现。
 > - **研究者角色** 在研究设计阶段依据精度目标审慎权衡置信水平与区间半宽以决定抽样规模；在数据分析与[[Research Synthesis|证据综合]]阶段严格基于理论方差计算置信区间，拒绝机械的 $p < 0.05$ 二分法，并如实汇报未被伪造或低估的区间宽度。
 > - **有效性标准** 覆盖概率（Coverage Probability，名义 95% CI 应真实覆盖 95% 的真值参数）、估计精度（区间越窄信息量越高）、结论稳健性。
 > - **不声称回答的问题** CI 不代表未来单一个体观测值的散布范围（该范围由[[Prediction Interval|预测区间]]定义）；CI 不能消除测量工具的系统性偏差（Systematic Bias）或混杂偏倚；CI 覆盖零值并不等同于“真实效应为零”。
@@ -111,10 +110,10 @@ updated: 2026-10-29
 
 ---
 
-> [!method-stack] 数据、[[Variable|变量]]与模型
-> - **输入数据** 点估计值（$\bar{x}$、$p$ 或[[Effect Size|效应量]] $d$）、样本容量（$n$）、抽样方差（$v = SE^2$）或跨研究权重（$W_j$）。
-> - **核心变量** 置[[Reliability|信度]] $1-\alpha$、正态临界值 $Z_{1-\alpha/2}$ 或 Student's $t$ 分位数、边际误差半宽 $e$。
-> - **推断模型** 渐近大样本正态模型、学生 $t$ 分布小样本修正模型、两级[[Fixed-Effect Model|固定效应]]跨层[[Inverse-Variance Weighting|逆方差加权]]模型。
+> [!method-stack] 方法层级
+> - **上位方法** 统计推断（Statistical Inference）、参数估计理论。
+> - **前置步骤** [[Standard Error|标准误]]计算、抽样分布设定（渐近正态分布、$t$ 分布）、置信水平设定。
+> - **变体与扩展** Student's $t$ 小样本置信区间、非参数 Bootstrap 置信区间、效应量标准化置信区间（Cohen's $d$, Hedges' $g$）、逆方差加权联合置信区间。
 
 > [!formula-set]- 置信区间计算与推断推导流程
 > ```mermaid
@@ -127,45 +126,78 @@ updated: 2026-10-29
 
 ---
 
-### 公式步骤一　抽样设计中的样本量确定与边际误差（Cohen et al., 2011）
-
-> [!formula-step] 抽样[[Sample Size Determination|样本量]]反推公式
+> [!formula-step] 步骤一　抽样设计中的样本量确定与边际误差反推
 > $$e = Z_{\alpha/2} \cdot SE = Z_{\alpha/2} \cdot \frac{\sigma}{\sqrt{n}}$$
-> 变换得到目标精度下的所需[[Sample Size Determination|样本量]]公式：
 > $$n = \left( \frac{Z_{\alpha/2} \cdot \sigma}{e} \right)^2$$
 >
-> **这个公式在做什么** 抽样设计阶段，研究者根据容许的置信水平（决定 $Z$）与希望确保的变异范围（置信区间半宽 $e$），反推获得该精度所需的最小样本量。
+> **这个公式在做什么** 抽样设计阶段，研究者根据容许的置信水平（确定 $Z_{\alpha/2}$）与期望保证的变异范围（置信区间半宽 $e$），反推获得该精度所需的最小样本容量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 147–148)]]
 >
-> **384 例天花板的数理机制** Krejcie and Morgan (1970) 广为人知的 384 例大总体样本量天花板，基于 95% 置信水平（$Z = 1.96$）、$\pm 5\%$ 置信区间（$e = 0.05$）与最大方差假设（$p = 0.5$）：
-> $$n = \frac{1.96^2 \cdot 0.5 \cdot 0.5}{0.05^2} = 384.16 \approx 384$$
-> 若研究者将置信区间精度收紧至常规民意调查所追求的 $\pm 3\%$（$e = 0.03$），样本量将骤增至：
-> $$n = \frac{1.96^2 \cdot 0.25}{0.03^2} \approx 1067$$
-> 这从数理上解释了为何民意调查普遍要求 1,000–1,500 人而非 384 人的样本量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 146–148)]]
+> **符号说明** $e$ 为容许的边际误差半宽；$Z_{\alpha/2}$ 为正态分布双侧临界分位数；$\sigma$ 为总体标准差；$n$ 为所需样本容量。
+>
+> **数学直觉** 样本量 $n$ 与边际误差 $e$ 的平方成反比：若要将置信区间半宽压缩一半（精度翻倍），所需样本容量必须扩大至 4 倍。
+>
+> > [!example]- 手算示例
+> > 在 95% 置信水平（$Z = 1.96$）与最大方差假设（$p = 0.5, \sigma^2 = 0.25$）下，容许 $\pm 5\%$ 边际误差（$e = 0.05$）时：
+> > $$n = \frac{1.96^2 \cdot 0.25}{0.05^2} = \frac{3.8416 \cdot 0.25}{0.0025} \approx 384$$
+> > 若将精度收紧至常规民意调查所追求的 $\pm 3\%$（$e = 0.03$）：
+> > $$n = \frac{1.96^2 \cdot 0.25}{0.03^2} = \frac{0.9604}{0.0009} \approx 1067$$
+>
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 精度折中 | 容许误差 $e$ 越小，估计精度越高，但所需样本容量呈平方级骤增。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|(Cohen et al., 2011, p. 147)]] |
+> > | 读法 | 水平选择 | 置信水平由 90% 升至 99% 会扩大临界值 $Z$，相同样本量下区间必然展宽。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|(Cohen et al., 2011, p. 148)]] |
+> > | 注意 | 假定独立 | 公式假定总体无限且抽样完全随机独立，有限总体需引入修正系数。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|(Cohen et al., 2011, p. 147)]] |
 
 ---
 
-### 公式步骤二　单项研究效应量标准化置信区间
-
-> [!formula-step] Cohen's $d$ 与 Hedges' $g$ 的 95% 置信区间
+> [!formula-step] 步骤二　单项实验效应量标准化置信区间构建
 > $$CI_{95\%} = [d - 1.96 \cdot SE_d, \; d + 1.96 \cdot SE_d]$$
-> 其中独立双样本实验设计的效应量[[Standard Error|标准误]]为：
 > $$SE_d = \sqrt{\frac{n_E + n_C}{n_E \cdot n_C} + \frac{d^2}{2(n_E + n_C)}}$$
 >
-> **区间重叠法则（Overlap Rule）** 当两项干预措施的点估计分别为 $d_1 = 0.72$ 与 $d_2 = 0.71$ 时，若二者的 95% 置信区间发生重叠且互含点估计值，在统计学上无法拒绝二者无差异的[[Null Hypothesis|零假设]]，点估计的细微数值差属于[[Random Sampling|随机抽样]]噪声，不能作为干预优劣的依据。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 47–48)]]
+> **这个公式在做什么** 输入独立双样本实验的处理组与对照组样本量及效应差点估计 $d$，计算效应量抽样标准误并构建 95% 置信带。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 47–48)]]
+>
+> **符号说明** $d$ 为 Cohen's $d$ 点估计值；$n_E$ 与 $n_C$ 分别为实验组与对照组样本量；$SE_d$ 为效应量抽样标准误。
+>
+> **数学直觉** 围绕点估计对称展开正负 $1.96$ 倍标准误差；样本量偏小或效应量偏大均会引起第二项方差扩张，拉宽置信区间以反映抽样不确定性。
+>
+> > [!example]- 手算示例
+> > 设实验组 $n_E = 50$，对照组 $n_C = 50$，测得效应量点估计 $d = 0.40$。代入标准误公式：
+> > $$SE_d = \sqrt{\frac{50 + 50}{50 \cdot 50} + \frac{0.40^2}{2(50 + 50)}} = \sqrt{\frac{100}{2500} + \frac{0.16}{200}} = \sqrt{0.04 + 0.0008} \approx 0.202$$
+> > 计算 95% 置信区间：
+> > $$CI_{95\%} = [0.40 - 1.96 \times 0.202, \; 0.40 + 1.96 \times 0.202] \approx [-0.00, \; 0.80]$$
+> > 区间下限跨越 0，表明在 0.05 检验水准下该效应尚未达到统计显著。
+>
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 零值检验 | 95% 置信区间若包含 0，等价于两组差异在 $p < 0.05$ 水平下不具备统计显著性。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015, p. 47)]] |
+> > | 读法 | 区间重叠 | 两项干预置信区间若发生实质重叠且互含点估计，在统计上无法判定优劣次序。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015, p. 48)]] |
+> > | 注意 | 避免点估排序 | 严禁脱离置信区间仅凭点估计排位，细微点估计差异多属随机抽样误差。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015, p. 48)]] |
 
 ---
 
-### 公式步骤三　两级证据综合中的联合置信区间与精度累加（Wecker et al., 2016）
-
-> [!formula-step] 二级固定效应[[Meta-analysis|元分析]]联合置信区间公式
-> 在[[Meta-meta-analysis|二级元分析]]中，宏观综合效应量 $D$ 的 95% 置信区间严格依据各一级元分析的[[Inverse-Variance Weighting|逆方差加权]]精度累加法则计算：
+> [!formula-step] 步骤三　多级证据综合逆方差联合置信区间
 > $$CI_D = [D - 1.96 \cdot SE_D, \; D + 1.96 \cdot SE_D]$$
-> 其中总体标准误 $SE_D$ 为：
-> $$SE_D = \sqrt{v_D} = \sqrt{\frac{1}{\sum_{j=1}^m W_j}} = \sqrt{\frac{1}{\sum_{j=1}^m \frac{1}{v_{d_j}}}}$$
+> $$SE_D = \sqrt{\frac{1}{\sum_{j=1}^m W_j}} = \sqrt{\frac{1}{\sum_{j=1}^m \frac{1}{v_{d_j}}}}$$
 >
-> **协方差失效与伪造置信区间机理** 公式成立的充要条件为各元分析包含的主要研究完全独立。若元分析间存在文献重叠（如网络学习中 93.3% 重叠），重叠主要研究诱发正协方差项：
-> $$\text{Var}(D) = \frac{\sum W_j^2 v_{d_j} + 2 \sum_{j < k} W_j W_k \text{Cov}(d_j, d_k)}{(\sum W_j)^2} > \frac{1}{\sum W_j}$$
-> 此时直接套用无协方差公式计算出的 $SE_D$ 被严重人为低估，导致构建出的 95% 置信区间虚假狭窄，产生伪造的超高精度与统计检验假阳性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 29–30, 37–38)]]
+> **这个公式在做什么** 在证据综合或元分析中，以各分项研究方差倒数（精度）为权重，累加得到合并效应量 $D$ 的总体标准误与总体置信区间。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 29–30)]]
+>
+> **符号说明** $D$ 为加权综合效应量；$W_j = 1/v_{d_j}$ 为第 $j$ 项研究的逆方差权重；$m$ 为纳入的独立研究总数；$SE_D$ 为综合效应量标准误。
+>
+> **数学直觉** 独立证据累加使分母上的信息量（总精度）持续放大，使得综合估计的标准误差显著小于任一单一研究，区间大幅收窄。
+>
+> > [!example]- 手算示例
+> > 纳入两项独立研究，方差分别为 $v_1 = 0.04$（权重 $W_1 = 25$）与 $v_2 = 0.01$（权重 $W_2 = 100$）。合并标准误为：
+> > $$SE_D = \sqrt{\frac{1}{25 + 100}} = \sqrt{\frac{1}{125}} \approx 0.089$$
+> > 若综合效应量 $D = 0.50$，则总体 95% 置信区间为 $[0.50 - 1.96 \times 0.089, \; 0.50 + 1.96 \times 0.089] \approx [0.33, \; 0.67]$。
+>
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 精度累加 | 纳入的高质量独立研究越多，总体标准误越小，合并效应量的估计区间越狭窄。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 25)]] |
+> > | 注意 | 独立性假定 | 公式成立的充要条件为纳入研究彼此独立，文献重叠会使标准误严重低估。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 29)]] |
+> > | 注意 | 协方差膨胀 | 底层样本重复时真实方差包含正协方差项，直接套用无协方差公式导致虚假精确。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 30)]] |
 
 ---
 
@@ -236,7 +268,8 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011)]] — 系统阐释置信区间与置信水平在[[Random Sampling|概率抽样]][[Sample Size Determination|样本量]]设计中的数理逻辑，剖析 384 例天花板与民调 1067 例样本容量的置信半宽推导（Ch. 8, pp. 146–148）。
-> - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 借助置信区间分析批判点估计排名的虚假精确性，对比 [[PISA]] 误差区间论证无 CI 的干预排序在统计上不可区分（pp. 47–48）。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 在[[Meta-meta-analysis|二级元分析]]规范中推导跨层[[Inverse-Variance Weighting|逆方差加权]]下的联合置信区间公式，系统批判 Hattie 隐匿置信区间与文献重叠导致虚假狭窄区间的致命统计缺陷（pp. 25, 29–30）。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 探讨英美 141 项大规模教育现场 [[Randomised Controlled Trials|RCT]] 中置信区间过宽的争议，深入反思证据中介在技术报告严谨 CI 呈现与前端工具包直观转化之间的制度张力（pp. 56–58）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011)]] — 阐释置信区间与置信水平在抽样设计中的数理逻辑，剖析 384 例天花板与民调 1067 例样本容量推导（pp. 146–148）。
+> - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 借助置信区间分析批判点估计排名的虚假精确性，对比 PISA 误差区间论证无 CI 的干预排序在统计上不可区分（pp. 47–48）。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 在二级元分析中推导逆方差联合置信区间公式，批判文献重叠导致虚假狭窄区间的致命统计缺陷（pp. 25, 29–30）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 探讨英美 141 项现场 RCT 中置信区间过宽的争议，反思证据中介在严谨 CI 呈现与直观转化之间的张力（pp. 56–58）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 跨学术期刊论著、专利与软件三大领域展示团队规模与颠覆性关系的 95% 置信区间带，揭示小团队颠覆度与大团队引用量的稳健分化（p. 131）。

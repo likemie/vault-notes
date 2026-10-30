@@ -7207,7 +7207,6 @@
     "Evans (2010)": "Evans, 2010",
     "Evans (2012)": "Evans, 2012",
     "Evans (2014)": "Evans, 2014",
-    "Evans (2019)": "Evans, 2019",
     "Evans et al. (2000)": "Evans et al., 2000",
     "Evans et al. (2011)": "Evans et al., 2011",
     "Evans et al. (2017)": "Evans et al., 2017",
@@ -7218,7 +7217,6 @@
     "Evans, 2010": "Evans, 2010",
     "Evans, 2012": "Evans, 2012",
     "Evans, 2014": "Evans, 2014",
-    "Evans, 2019": "Evans, 2019",
     "Eve Kosofsky Sedgwick (1990)": "Eve Kosofsky Sedgwick, 1990",
     "Eve Kosofsky Sedgwick, 1990": "Eve Kosofsky Sedgwick, 1990",
     "Evelyn Ruppert (2012)": "Evelyn Ruppert, 2012",
@@ -79712,21 +79710,6 @@
       "seen_in": [],
       "title": "High school–based treatment for adolescents with Attention-Deficit/Hyperactivity Disorder  Results from a pilot study examining outcomes and dosage"
     },
-    "Evans, 2019": {
-      "aliases": [
-        "Evans, 2019",
-        "Evans (2019)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Evans, 2019"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Disruption Index.md"
-      ],
-      "title": ""
-    },
     "Eve Kosofsky Sedgwick, 1990": {
       "aliases": [
         "Eve Kosofsky Sedgwick, 1990",
@@ -122763,7 +122746,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
-        "wiki/methods/quantitative/Confidence Interval.md",
         "wiki/methods/quantitative/Sample Size Determination.md"
       ],
       "title": ""

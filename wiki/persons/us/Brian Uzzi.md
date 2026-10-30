@@ -73,6 +73,7 @@ updated: 2026-10-30
 
 > [!work-line] 主要著作
 > - **2005 — *Collaboration and [[Creativity]]: The Small World Problem*（《美国社会学评论》）** 分析百老汇一个世纪的音乐剧网络，确立[[Small-World Quotient|小世界商数]] $W$ 与商业艺术表现的倒 U 形关联。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> - **2005 — *Team assembly mechanisms determine collaboration network structure and team performance* (*Science*)** 与[[Roger Guimera|吉梅拉]]等共同构建团队组装模型，量化老手与新人配比对创新团队产出绩效的影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121)]]
 > - **2007 — *The Increasing Dominance of Teams in the Production of Knowledge*（《科学》）** 分析近两千万篇论著与两百万件专利，提出相对团队影响力（RTI），证实团队生产主导现代科学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2013 — *Atypical Combinations and Scientific Impact*（《科学》）** 构建引文对共现分析算法，证实高影响突破往往植根于坚实的常规学科基石与微量非典型知识组合。
 
@@ -89,13 +90,14 @@ updated: 2026-10-30
 > - **政策路径** 为科技基金资助机构与研发部门提供团队组建与跨学科合作的拓扑结构指导。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 深度征引乌齐关于相对团队影响力（第 8 章）与百老汇小世界协作模型（第 10 章）的两大奠基成果，作为全书论证团队科学规律与网络创造力的经验支柱。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 深度征引乌齐关于相对团队影响力（Unit 04）与百老汇小世界协作模型及团队组装机制（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05, pp. 118–121]]）的经验发现。
 
 ---
 
 > [!person-network] 关系网络
 > - **合作学者** [[Benjamin F. Jones]] — 共同开展团队科学、跨校合作溢价与相对团队影响力研究。
 > - **合作学者** 斯特凡·乌赫蒂（Stefan Wuchty）— 共同建立 RTI 指标并分析全球千万级期刊论著与专利数据库。
+> - **合作学者** [[Roger Guimera|罗杰·吉梅拉]]（Roger Guimerà）— 共同建立团队组装模型并探索微观招募规则对团队绩效的影响。
 > - **对话学者** 马克·格兰诺维特（Mark Granovetter）— 继承并深化弱连带优势与关系网络嵌入性理论。
 
 ---
@@ -117,6 +119,7 @@ updated: 2026-10-30
 > | [[Team Science]] | 概念 | 共同提出相对团队影响力指标，量化确立团队科学的全面引文优势。 |
 > | [[Creativity]] | 概念 | 揭示网络拓扑与团队创意的倒 U 形规律。 |
 > | [[Coauthorship Network]] | 概念 | 将合著[[Network Analysis\|网络分析]]拓展至学术生产与艺术创作团队的宏观动力学。 |
+> | [[Team Assembly Model]] | 理论 | 合作建立团队组装生成模型，量化在任老手与重复合作倾向对学术创新的影响。 |
 > | [[Small-World Collaboration Model]] | 理论 | 提出小世界商数 $W$ 测算方法与倒 U 形创造力理论模型。 |
 > | [[Relative Team Impact]] | 方法 | 共同创立测度团队引文溢价的基准比值指标。 |
 > | [[Network Analysis]] | 方法 | 倡导计算社会学网络分析范式。 |

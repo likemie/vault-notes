@@ -1,7 +1,6 @@
 ---
 title: Too-Much-Talent Effect
 aliases:
-  - 过度人才效应
   - 人才过剩效应
   - 顶尖人才过剩效应
   - 明星团队悖论

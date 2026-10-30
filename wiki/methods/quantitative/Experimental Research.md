@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -164,9 +164,9 @@ updated: 2026-10-29
 
 > [!method-limits] 方法局限
 > - **[[Ecological Validity|生态效度]]欠缺** 实验室高度控制的情境往往抽离了复杂的人际互动与真实社会脉络，导致实验结论在自然生态中难以完全复刻。
-> - **伦理规约与操作边界约束** 现代[[Institutional Review Board|机构审查委员会]]（IRB）对涉及人类受试者的实验设置了严格的伦理门槛，高强度的情境施压或情绪操纵受到严厉限制。
+> - **伦理审查与操作边界约束** 现代[[Institutional Review Board|机构审查委员会]]（IRB）对涉及人类受试者的实验设置了严格的伦理门槛，高强度的情境施压或情绪操纵受到严厉限制。
 > - **需求特征与[[Hawthorne Effect|霍桑效应]]** 受试者在感知到自己被观察与测试时，往往主动猜测实验意图并改变自然行为反应，从而污染真实[[Causality|因果推断]]。
-> - **复杂教育系统中的[[Variable|变量]]分离困境与因果交互掩盖** 真实课堂绝非医学临床实验中可随意隔离药物 A 与药物 B 的封闭受控舱。教育干预中的核心变量（如[[Class Size|班级规模]]、教学技术、教师专业发展）具有极强的[[Interaction Effect|交互效应]]；孤立操纵单一变量的实验室思维极易在生态情境中失效，而对底层实验研究缺乏质控的粗糙[[Meta-analysis|元分析]]更会诱发严重的“垃圾进，垃圾出”（Garbage in, garbage out）政策误导。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97, 102–103)]]
+> - **复杂教育系统中的[[Variable|变量]]分离困境与因果交互掩盖** 真实课堂具有高度开放性与情境嵌套性，有别于医学临床实验中可严格隔离药物 A 与药物 B 的封闭受控环境。教育干预中的核心变量（如[[Class Size|班级规模]]、教学技术、教师专业发展）具有极强的[[Interaction Effect|交互效应]]；孤立操纵单一变量的实验室思维极易在生态情境中失效，而对底层实验研究缺乏质控的粗糙[[Meta-analysis|元分析]]更会诱发严重的“垃圾进，垃圾出”（Garbage in, garbage out）政策误导。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97, 102–103)]]
 
 ---
 
@@ -181,7 +181,7 @@ updated: 2026-10-29
 > | [[Quasi-Experimental Designs\|准实验设计]] | 替代方法 | 当现场研究无法满足完全[[Random Assignment\|随机分配]]时采用的替代设计，需辅以统计控制。 |
 > | [[Single-Subject Design\|单受试者设计]] | 补充方法 | 针对小样本或特殊个体的重复干预与撤销观测设计，用于行为矫正与特教评估。 |
 > | [[Deception in Research\|研究中的欺骗]] | 辅助技术 | 实验研究中用于控制需求特征、揭示人类深层真实心理反应的重要掩饰手段。 |
-> | [[Institutional Review Board\|机构审查委员会]] | 规约机构 | 对涉及人类受试者的实验方案进行事前前置审查的法定伦理治理机构。 |
+> | [[Institutional Review Board\|机构审查委员会]] | 治理机构 | 对涉及人类受试者的实验方案进行事前前置审查的法定伦理治理机构。 |
 
 ---
 

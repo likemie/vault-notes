@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Team Assembly Model",
-      "path": "wiki/theories/science-policy/Team Assembly Model.md"
-    },
-    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+    },
+    {
+      "basename": "Too-Much-Talent Effect",
+      "path": "wiki/concepts/educational-psychology/Too-Much-Talent Effect.md"
+    },
+    {
+      "basename": "Team Assembly Model",
+      "path": "wiki/theories/science-policy/Team Assembly Model.md"
     },
     {
       "basename": "Geisteswissenschaften",
@@ -195,10 +199,6 @@
     {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "Scientific Paradigm",
-      "path": "wiki/concepts/comparative-education/Scientific Paradigm.md"
     }
   ],
   "omittedPaths": [],
