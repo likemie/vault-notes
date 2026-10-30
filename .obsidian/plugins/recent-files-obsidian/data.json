@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
     {
+      "basename": "Geisteswissenschaften",
+      "path": "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Scientific Paradigm",
       "path": "wiki/concepts/comparative-education/Scientific Paradigm.md"
-    },
-    {
-      "basename": "Lost Winners",
-      "path": "wiki/concepts/science-policy/Lost Winners.md"
     }
   ],
   "omittedPaths": [],

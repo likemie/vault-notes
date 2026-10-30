@@ -3519,9 +3519,11 @@
     "Butera & Buchs (2019)": "Butera & Buchs, 2019",
     "Butera & Buchs, 2019": "Butera & Buchs, 2019",
     "Butler (1988)": "Butler, 1988",
+    "Butler (1990)": "Butler, 1990",
     "Butler (1991)": "Butler, 1991",
     "Butler (2024)": "Butler, 2024",
     "Butler, 1988": "Butler, 1988",
+    "Butler, 1990": "Butler, 1990",
     "Butler, 1991": "Butler, 1991",
     "Butler, 2024": "Butler, 2024",
     "Butt (1995)": "Butt, 1995",
@@ -5600,6 +5602,8 @@
     "David Dolowitz & David Marsh, 2000": "David Dolowitz & David Marsh, 2000",
     "David Graeber (2012)": "David Graeber, 2012",
     "David Graeber, 2012": "David Graeber, 2012",
+    "David Halperin (1997)": "David Halperin, 1997",
+    "David Halperin, 1997": "David Halperin, 1997",
     "David Hargreaves (1996)": "David Hargreaves, 1996",
     "David Hargreaves, 1996": "David Hargreaves, 1996",
     "David Harvey (1989)": "David Harvey, 1989",
@@ -7215,6 +7219,8 @@
     "Evans, 2012": "Evans, 2012",
     "Evans, 2014": "Evans, 2014",
     "Evans, 2019": "Evans, 2019",
+    "Eve Kosofsky Sedgwick (1990)": "Eve Kosofsky Sedgwick, 1990",
+    "Eve Kosofsky Sedgwick, 1990": "Eve Kosofsky Sedgwick, 1990",
     "Evelyn Ruppert (2012)": "Evelyn Ruppert, 2012",
     "Evelyn Ruppert, 2012": "Evelyn Ruppert, 2012",
     "Evers & Kneyber (2015)": "Evers & Kneyber, 2015",
@@ -11891,8 +11897,6 @@
     "Jones, 2020": "Jones, 2020a",
     "Jones, 2020a": "Jones, 2020b",
     "Jones, 2020b": "Jones, 2020b",
-    "Jong (2020)": "Jong, 2020",
-    "Jong, 2020": "Jong, 2020",
     "Jongsma et al. (2023)": "Jongsma et al., 2023",
     "Jongsma et al., 2023": "Jongsma et al., 2023",
     "Jonsson et al. (2015)": "Jonsson et al., 2015",
@@ -21138,6 +21142,8 @@
     "Secord, 2000": "Secord, 2000",
     "Seddon (2023)": "Seddon, 2023",
     "Seddon, 2023": "Seddon, 2023",
+    "Sedgwick (1990)": "Sedgwick, 1990",
+    "Sedgwick, 1990": "Sedgwick, 1990",
     "Sedlmeier et al. (2012)": "Sedlmeier et al., 2012",
     "Sedlmeier et al., 2012": "Sedlmeier et al., 2012",
     "See (2018)": "See, 2018",
@@ -23733,8 +23739,6 @@
     "Tretheway, 1976": "Tretheway, 1976",
     "Treu (2017)": "Treu, 2017",
     "Treu, 2017": "Treu, 2017",
-    "Tribble (2004)": "Tribble, 2004",
-    "Tribble, 2004": "Tribble, 2004",
     "Tricco et al. (2018)": "Tricco et al., 2018",
     "Tricco et al., 2018": "Tricco et al., 2018",
     "Trickey & Topping (2007)": "Trickey & Topping, 2007",
@@ -52768,6 +52772,21 @@
       ],
       "title": ""
     },
+    "Butler, 1990": {
+      "aliases": [
+        "Butler, 1990",
+        "Butler (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Butler, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Queer Theory.md"
+      ],
+      "title": ""
+    },
     "Butler, 1991": {
       "aliases": [
         "Butler, 1991",
@@ -67834,6 +67853,21 @@
       ],
       "title": ""
     },
+    "David Halperin, 1997": {
+      "aliases": [
+        "David Halperin, 1997",
+        "David Halperin (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "David Halperin, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Queer Theory.md"
+      ],
+      "title": ""
+    },
     "David Hargreaves, 1996": {
       "aliases": [
         "David Hargreaves, 1996",
@@ -79690,6 +79724,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Disruption Index.md"
+      ],
+      "title": ""
+    },
+    "Eve Kosofsky Sedgwick, 1990": {
+      "aliases": [
+        "Eve Kosofsky Sedgwick, 1990",
+        "Eve Kosofsky Sedgwick (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Eve Kosofsky Sedgwick, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Queer Theory.md"
       ],
       "title": ""
     },
@@ -95886,7 +95935,10 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
-        "wiki/concepts/science-policy/Coauthorship Network.md"
+        "wiki/concepts/educational-technology/Computer Simulation.md",
+        "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Giant Component.md",
+        "wiki/theories/science-policy/Team Assembly Model.md"
       ],
       "title": ""
     },
@@ -113729,21 +113781,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Results of a Randomized Control Trial Evaluation of the SPARK Literacy Program  An Innovative Approach that Pairs One-on-One Tutoring with Family Engagement"
-    },
-    "Jong, 2020": {
-      "aliases": [
-        "Jong, 2020",
-        "Jong (2020)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Jong, 2020"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-technology/Computer Simulation.md"
-      ],
-      "title": ""
     },
     "Jongsma et al., 2023": {
       "aliases": [
@@ -151389,6 +151426,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Giant Component.md",
         "wiki/concepts/science-policy/Six Degrees of Separation.md",
         "wiki/methods/mixed/Network Analysis.md"
       ],
@@ -169304,6 +169342,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
+        "wiki/concepts/educational-technology/Computer Simulation.md",
         "wiki/concepts/learning-science-cognitive-science/Productive Failure.md"
       ],
       "title": ""
@@ -180804,6 +180843,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
+      ],
+      "title": ""
+    },
+    "Sedgwick, 1990": {
+      "aliases": [
+        "Sedgwick, 1990",
+        "Sedgwick (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sedgwick, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Queer Theory.md"
       ],
       "title": ""
     },
@@ -199386,21 +199440,6 @@
       "seen_in": [],
       "title": "Advancing school and community engagement now for disease prevention (ASCEND)  A quasi-experimental trial of school-based interventions to prevent childhood obesity"
     },
-    "Tribble, 2004": {
-      "aliases": [
-        "Tribble, 2004",
-        "Tribble (2004)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Tribble, 2004"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-technology/Computer Simulation.md"
-      ],
-      "title": ""
-    },
     "Tricco et al., 2018": {
       "aliases": [
         "Tricco et al., 2018",
@@ -205126,7 +205165,6 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
         "wiki/concepts/educational-philosophy/Emergence.md",
-        "wiki/concepts/educational-technology/Computer Simulation.md",
         "wiki/concepts/educational-technology/Virtual World.md",
         "wiki/methods/mixed/Agent-based Modelling.md",
         "wiki/theories/educational-philosophy/Complexity Theory.md"
@@ -212040,7 +212078,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
         "wiki/concepts/science-policy/Big Science.md",
-        "wiki/facts/us/Microsoft Academic Graph.md"
+        "wiki/facts/us/Microsoft Academic Graph.md",
+        "wiki/theories/science-policy/Core and Extended Teams Model.md"
       ],
       "title": ""
     },
