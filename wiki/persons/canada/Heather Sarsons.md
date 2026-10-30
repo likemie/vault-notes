@@ -47,7 +47,7 @@ updated: 2026-10-30
 > - **代表贡献** 发现并严格量化了女性在学术科研合作中的合作惩罚，证实姓氏[[Alphabetical Authorship|字母序署名]]规则放大了晋升委员会对女性合作贡献的主观怀疑。
 
 > [!citation-card] 萨森斯论女性学者的学术合作惩罚
-> 对美国前三十所顶尖大学经济学系全量教师晋升记录的分析揭示了一个巨大的性别悬殊：近半数（48%）的女性申请者未能获得首任大学的终身教职，而男性的未通过率仅为 23%。在控制发表论文数量、期刊质量与引文等[[Variable|变量]]后，女性与男性在科研产出能力上并无统计差异。萨森斯的研究证实，造成晋升鸿沟的核心变量在于合著方式：男性在合著成果中能获得与独立成果相当的声誉回报；然而当女性与男性合著时，她们获得的终身教职晋升概率增益几乎归零。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 144–146)]]
+> 对美国前三十所顶尖大学经济学系全量教师晋升记录的分析揭示了一个巨大的性别悬殊：近半数（48%）的女性申请者未能获得首任大学的终身教职，而男性的未通过率仅为 23%。在控制发表篇数、期刊质量与引文等[[Variable|变量]]后，女性与男性在科研产出能力上并无统计差异。萨森斯的研究证实，造成晋升鸿沟的核心变量在于合著方式：男性在合著成果中能获得与独立成果相当的声誉回报；然而当女性与男性合著时，她们获得的终身教职晋升概率增益几乎归零。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 144–146)]]
 >
 > *Women economists face an enormous penalty for collaborating... Men get just as much credit for collaborative research as for [[SOLO Taxonomy|solo]] work... However, when women write with female coauthors, the benefit to their career prospects is less than half that accorded to men. Things get especially dismal when women write with men. When a female economist collaborates with one or more male economists, her tenure prospects don’t improve at all. In other words, when it comes to tenure, women get essentially zero credit if they collaborate with men.*
 
@@ -55,7 +55,7 @@ updated: 2026-10-30
 
 > [!timeline] 生平与职涯
 > - **2011** 获得不列颠哥伦比亚大学经济学学士学位。
-> - **2017** 获得哈佛大学经济学博士学位，博士论文聚焦群体合作中的劳动归属与性别差异；同年发表工作论文《群体工作的学术承认：贡献归属是否取决于性别？》。
+> - **2017** 获得哈佛大学经济学博士学位，博士学位研究聚焦群体合作中的劳动归属与性别差异；同年发表工作报告《群体工作的学术承认：贡献归属是否取决于性别？》。
 > - **2017–2018** 在普林斯顿大学产业关系部门从事博士后研究。
 > - **2018–2021** 担任芝加哥大学布斯商学院经济学助理教授、副教授。
 > - **2021–至今** 加盟不列颠哥伦比亚大学温哥华经济学院担任副教授。

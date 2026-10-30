@@ -5,7 +5,7 @@ aliases:
   - H.-W. Shen
   - Shen, H.-W.
   - H. W. Shen
-summary: "中国网络科学与计算社会学学者，中国科学院计算技术研究所研究员、博士生导师；与艾伯特－拉斯洛·巴拉巴西合作提出了基于共引网络和作者参与度矩阵的集体贡献分配算法（2014），成功预测了跨学科多作者诺贝尔奖论文的得主归属，为量化科学共同体的隐性声誉分配机制提供了计算方法。"
+summary: "中国网络科学与计算社会学学者，中国科学院计算技术研究所研究员、博士生导师；与艾伯特－拉斯洛·巴拉巴西合作提出了基于共引网络和学者参与度矩阵的集体贡献分配算法（2014），成功预测了跨学科多学者合署诺贝尔奖成果的得主归属，为量化科学共同体的隐性声誉分配机制提供了计算方法。"
 type: person
 nationality: china
 person_region: "china"
@@ -48,10 +48,10 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 中国网络科学与大数据分析学者，[[Chinese Academy of Sciences|中国科学院]]计算技术研究所网络数据科学与技术重点实验室研究员。
 > - **核心角色** 科学学、复杂网络拓扑与信息传播动力学领域的代表性学者；致力于运用统计物理与大规模图计算揭示学术成果的集体声誉形成与演化机理。
-> - **代表贡献** 与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]合作提出[[Collective Credit Allocation Algorithm|集体贡献分配算法]]，开辟了脱离主观主张、依据[[Document|文献]]引用图谱客观计算合著论著作者声誉份额的新路径。
+> - **代表贡献** 与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]合作提出[[Collective Credit Allocation Algorithm|集体贡献分配算法]]，开辟了脱离主观主张、依据[[Document|文献]]引用图谱客观计算合著论著中各学者声誉份额的新路径。
 
 > [!citation-card] 沈华伟与巴拉巴西论[[Scientific Credit|科学声誉]]的集体算法
-> 科学共同体拥有一套需要深厚领域专门知识方能运转的非正式贡献分配机制。但在学科外部，人们很难判断谁才是一项突破性发现的真正灵魂。沈华伟与巴拉巴西开发了一种捕获科学声誉集体分配过程的算法。通过追踪目标论著的前向施引网络与后向共引结构，该算法能够独立于学科规范和署名顺序，精确计算每位合著者在特定[[Research Topic|研究主题]]中的声誉份额。在应用于全部多作者诺贝尔奖获奖成果时，该算法对获奖者的预测准确率达到了 81%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 153–155)]]
+> 科学共同体拥有一套需要深厚领域专门知识方能运转的非正式贡献分配机制。但在学科外部，人们很难判断谁才是一项突破性发现的真正灵魂。沈华伟与巴拉巴西开发了一种捕获科学声誉集体分配过程的算法。通过追踪目标论著的前向施引网络与后向共引结构，该算法能够独立于学科规范和署名顺序，精确计算每位合署成员在特定[[Research Topic|研究主题]]中的声誉份额。在应用于全部多学者合署诺贝尔奖获奖成果时，该算法对获奖者的预测准确率达到了 81%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 153–155)]]
 >
 > *Thankfully, we have developed an algorithm that performs this magic, capturing the collective process through which scientific credit is allocated, and offering a tool for calculating the share of credit among coauthors for any publication... when applied to all multi-author Nobel prize-winning publications, the method correctly identified the laureates as the authors deserving the most credit 81 percent of the time.*
 
@@ -67,4 +67,4 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要著作
-> - **2014 — *Collective credit allocation in science*** 与巴拉巴西在 PNAS 联合发表；构建了包含作者参与矩阵与共引强度的矩阵连乘模型 $c = As$，解决了多作者高互依科研团队中声誉份额客观量化的基础方法难题。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]
+> - **2014 — *Collective credit allocation in science*** 与巴拉巴西在 PNAS 联合发表；构建了包含学者参与矩阵与共引强度的矩阵连乘模型 $c = As$，解决了多学者高互依科研团队中声誉份额客观量化的基础方法难题。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]

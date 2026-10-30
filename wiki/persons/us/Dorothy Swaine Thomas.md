@@ -45,8 +45,8 @@ updated: 2026-10-30
 > - **核心角色** 经验社会学研究与人口迁移计量分析的拓荒者，微观情境互动理论的重要开创者；也是科学社会学中因资历差距与性别偏见而遭到重大理论贡献系统性抹除的典型代表。
 > - **代表贡献** 1928 年与威廉·伊萨克·托马斯合著出版《美国的儿童》，在书中共同提出微观社会学奠基性论断[[Thomas Theorem|托马斯定理]]；领导关于二战期间日裔美国人拘留营的人口学与社会学调查。
 
-> [!citation-card] 托马斯定理背后的合作者遮蔽
-> 著名的托马斯定理指出：“如果人们将情境定义为真实的，那么这些情境在它们的结果上也是真实的。”这一常被视为自证预言发端的定理首次出现于《美国的儿童》一书。该书与该定理长期被学界普遍单方面归功于社会学家威廉·伊萨克·托马斯。然而该书封面上清晰印有两位作者的名字：威廉·伊萨克·托马斯与多萝西·斯温·托马斯。多萝西·斯温·托马斯对该书的贡献几乎被削减至无形，代表了学术声誉分配中的深刻不平等。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147, 149)]]
+> [!citation-card] 托马斯定理背后的合作学者遮蔽
+> 著名的托马斯定理指出：“如果人们将情境定义为真实的，那么这些情境在它们的结果上也是真实的。”这一常被视为自证预言发端的定理首次出现于《美国的儿童》一书。该书与该定理长期被学界普遍单方面归功于社会学家威廉·伊萨克·托马斯。然而该书封面上清晰印有两位署名者的名字：威廉·伊萨克·托马斯与多萝西·斯温·托马斯。多萝西·斯温·托马斯对该书的贡献几乎被削减至无形，代表了学术声誉分配中的深刻不平等。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147, 149)]]
 >
 > *Both the Thomas theorem and The Child in America are repeatedly cited as the work of W. I. Thomas alone. But the fact is, the cover of the book lists two authors: W. I. Thomas and Dorothy Swaine Thomas... Dorothy Swaine Thomas, whose contribution to The Child in America was diminished to the point of vanishing, represents this kind of credit discrimination. When the book was first published in 1928, W. I. Thomas, then 65, was the president of the American Sociological Society... Dorothy Swaine Thomas, still in her twenties, was working as W. I. Thomas' assistant and was virtually unknown to the rest of the scientific community.*
 

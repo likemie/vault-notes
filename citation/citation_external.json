@@ -21309,6 +21309,8 @@
     "Shao et al., 2023": "Shao et al., 2023",
     "Shaoqing & Shouli (2004)": "Shaoqing & Shouli, 2004",
     "Shaoqing & Shouli, 2004": "Shaoqing & Shouli, 2004",
+    "Shapin (1989)": "Shapin, 1989",
+    "Shapin, 1989": "Shapin, 1989",
     "Shapiro (1970)": "Shapiro, 1970",
     "Shapiro et al. (2006)": "Shapiro et al., 2006",
     "Shapiro et al., 2006": "Shapiro et al., 2006",
@@ -182051,6 +182053,21 @@
         "wiki/concepts/sociology-of-education/Migrant Children.md"
       ],
       "title": ""
+    },
+    "Shapin, 1989": {
+      "aliases": [
+        "Shapin, 1989",
+        "Shapin (1989)"
+      ],
+      "doi": "10.2307/27856006",
+      "identity_keys": [
+        "Shapin, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
+      ],
+      "title": "The Invisible Technician"
     },
     "Shapiro et al., 2006": {
       "aliases": [
