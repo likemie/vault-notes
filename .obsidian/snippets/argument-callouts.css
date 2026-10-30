@@ -23823,7 +23823,7 @@ html body .callout.callout.callout.callout.callout:is([data-callout="framework-t
   html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) td {
     display: block !important; width: auto !important; padding: 0 !important; border: 0 !important;
   }
-  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) td:first-child { padding-bottom: .4rem !important; }
+  html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) td:first-child { width: auto !important; padding-right: 0 !important; padding-bottom: .4rem !important; }
 }
 @media (prefers-reduced-motion: reduce) {
   html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td) { transition: none !important; }
