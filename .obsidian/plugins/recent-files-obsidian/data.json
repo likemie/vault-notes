@@ -5,12 +5,24 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
     {
-      "basename": "Hyperauthorship",
-      "path": "wiki/concepts/science-policy/Hyperauthorship.md"
+      "basename": "Team Assembly Model",
+      "path": "wiki/theories/science-policy/Team Assembly Model.md"
+    },
+    {
+      "basename": "Disruption Index",
+      "path": "wiki/methods/quantitative/Disruption Index.md"
     },
     {
       "basename": "Collective Intelligence",
       "path": "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
+    },
+    {
+      "basename": "Core and Extended Teams Model",
+      "path": "wiki/theories/science-policy/Core and Extended Teams Model.md"
+    },
+    {
+      "basename": "Hyperauthorship",
+      "path": "wiki/concepts/science-policy/Hyperauthorship.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
@@ -31,10 +43,6 @@
     {
       "basename": "Too-Much-Talent Effect",
       "path": "wiki/concepts/educational-psychology/Too-Much-Talent Effect.md"
-    },
-    {
-      "basename": "Team Assembly Model",
-      "path": "wiki/theories/science-policy/Team Assembly Model.md"
     },
     {
       "basename": "Geisteswissenschaften",
@@ -191,14 +199,6 @@
     {
       "basename": "g-Index",
       "path": "wiki/methods/quantitative/g-Index.md"
-    },
-    {
-      "basename": "Career Shuffling Method",
-      "path": "wiki/methods/quantitative/Career Shuffling Method.md"
-    },
-    {
-      "basename": "Drop-pin Projection",
-      "path": "wiki/methods/quantitative/Drop-pin Projection.md"
     }
   ],
   "omittedPaths": [],
