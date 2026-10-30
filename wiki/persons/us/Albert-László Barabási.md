@@ -12,7 +12,7 @@ summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Emergence]]"
   - "[[Coauthorship Network]]"
-  - "[[Team Science]]"
   - "[[Document]]"
   - "[[Predictive Validity]]"
 related_theories:
@@ -42,13 +41,14 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Q-Factor]]"
+  - "[[Collective Credit Allocation Algorithm]]"
   - "[[Bibliometric Analysis]]"
   - "[[Shockley's Multiplicative Hurdle Model]]"
   - "[[h-Index]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
-  - "[[William Shockley]]"
+  - "[[Hua-Wei Shen]]"
   - "[[Jorge E. Hirsch]]"
   - "[[Derek de Solla Price]]"
 related_facts:
@@ -58,6 +58,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -102,8 +103,8 @@ updated: 2026-10-30
 >   - **关键概念／方法** 爆发性（[[Burstiness in Human Activities|Burstiness]]）、人类动力学非均匀性、亚细胞互作网络。
 >   - **阶段转向** 从宏观网络拓扑静态测度深入到微观事件发生的时间序列非线性模式。
 > - **2016–至今 — 现代科学学与成功动力学期** 系统聚焦科学界的学者职业生涯、创新网络与学术资源配置规律。
->   - **代表著作** *Quantifying the evolution of individual scientific impact* (2016); *The Formula* (2018); *The Science of Science* (2021)。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
->   - **关键概念／方法** [[Q-Factor|Q 因子]]模型、随机影响法则、科学学。
+>   - **代表著作** *Collective credit allocation in science* (2014); *Quantifying the evolution of individual scientific impact* (2016); *The Formula* (2018); *The Science of Science* (2021)。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
+>   - **关键概念／方法** [[Q-Factor|Q 因子]]模型、随机影响法则、[[Collective Credit Allocation Algorithm|集体贡献分配算法]]、科学学。
 >   - **阶段转向** 融合海量引文大数据与因果计量分析，建立贯通个体生产力、[[Coauthorship Network|合著网络]]演化与社会声望承认的完整科学学理论大厦。
 
 ---
@@ -120,16 +121,16 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创性地将复杂网络动力学引入[[Bibliometric Analysis|文献计量学]]，彻底改变了以往将引文视为孤立计数孤岛的传统范式，建立了以节点度、拓扑连接与信息传播为基础的现代科学学理论体系。
-> - **方法路径** 倡导基于数理可解析模型（如 BA 优先连接模型、[[Shockley's Multiplicative Hurdle Model|肖克利乘法跨栏模型]]、Q 模型）结合全量实际数据拟合的研究路线，确立了理论推导与经验检验紧密啮合的方法标准。
+> - **方法路径** 倡导基于数理可解析模型（如 BA 优先连接模型、[[Shockley's Multiplicative Hurdle Model|肖克利乘法跨栏模型]]、Q 模型、[[Collective Credit Allocation Algorithm|集体贡献分配算法]]）结合全量实际数据拟合的研究路线，确立了理论推导与经验检验紧密啮合的方法标准。
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著系统阐述科学学全景框架，涵盖科学生产力稳态与[[William Shockley|肖克利]]模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子与热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）以及[[Team Science|团队科学]]分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著系统阐述科学学全景框架，涵盖科学生产力稳态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子与热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队科学（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）以及集体声誉分配算法（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）。
 
 ---
 
 > [!person-network] 关系网络
-> - **指导学者与合作网络** [[Dashun Wang]] — 博士毕业生与长期紧密合作学者，二人共同撰写《科学学》专著并主导当代科学学实证研究。
+> - **指导学者与合作网络** [[Dashun Wang]] — 博士毕业生与长期紧密合作学者，二人共同撰写《科学学》专著并主导当代科学学实证研究；[[Hua-Wei Shen]] — 复杂网络研究中心访问学者，合作提出多学者团队集体声誉分配算法。
 > - **学术对话与同行研讨** [[Jorge E. Hirsch]] — 深入检验并拓展希尔施 h 指数理论模型，提出基于引文跨越效应与团队合署的修正方案。
 > - **理论渊源** [[Derek de Solla Price]] — 继承并深化普赖斯关于科学[[Document|文献]]指数激增与学术累积优势的经典命题。
 > - **核心数据基座** [[Microsoft Academic Graph]] — 依托其百亿级异构引文网络支撑 Q 模型拟合与科学学实证检验。
@@ -149,4 +150,5 @@ updated: 2026-10-30
 > | [[Metascience]] | 概念 | 将统计物理与复杂网络引入科学学，确立当代科学学理论与实证架构。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 提出无标度网络生长的优先连接模型，从数理上解释学术引文极度富集机理。 |
 > | [[Q-Model]] | 理论 | 创立科学家学术生涯影响力解构的 Q 因子模型与随机影响法则。 |
+> | [[Collective Credit Allocation Algorithm]] | 方法 | 与沈华伟合作提出基于共引拓扑的团队合署成果集体声誉分配算法。 |
 > | [[h-Index]] | 方法 | 建立 h 指数增长解析动力学模型，厘清其在不同学科与职业生涯中的[[Predictive Validity\|预测效度]]。 |
