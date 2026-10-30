@@ -10,7 +10,7 @@ summary: "由 Brian Uzzi et al. (2013) 开创的文献计量学量化测度方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -22,6 +22,20 @@ tags:
   - theme/scientometrics
   - theme/science-of-science
   - theme/citation-analysis
+related_concepts:
+  - "[[Combinatorial Novelty]]"
+  - "[[Nature of Innovation]]"
+related_theories: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
+related_instruments: []
+related_persons:
+  - "[[Brian Uzzi]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+related_facts: []
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -142,6 +156,15 @@ updated: 2026-10-31
 
 ---
 
-## 使用此方法的研究
+> [!entry-map] 相关条目
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Combinatorial Novelty]] | 测量对象 | 本方法量化测度的核心理论构念。 |
+> | [[Nature of Innovation]] | 理论基础 | 阐明存量构件重组作为创新本质的理论前提。 |
+> | [[Bibliometric Analysis]] | 上位方法 | 本方法所属的文献计量与科学计量学方法家族。 |
 
-- [[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]：王大顺与巴拉巴西在《科学学的科学》第 18 章中，评介了乌齐等人基于该方法对 1,790 万篇科技论著的大数据挖掘，确立了将非典型组合根植于常规基底方能有效倍增顶尖突破概率的核心论断 (pp. 190–193)。
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 评介乌齐等人基于该方法对 1,790 万篇科技论著的大数据挖掘，确立将非典型组合根植于常规基底方能倍增顶尖突破概率的论断 (pp. 190–193)。

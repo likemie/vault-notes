@@ -10,10 +10,10 @@ aliases:
 summary: "由 Ginestra Bianconi 与 Albert-László Barabási (2001) 提出的复杂网络演化动力学理论；将成果内生适应度引入优先连接过程，确立引文吸附概率与既有连接数和适应度的乘积成正比（Π ∝ η · c），合理解释了高适应度后来者成果反超早期文献的机制，并在微观适应度服从有界高斯正态分布时自然推导出全局对数正态引文分布。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 12
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
-theory_related_color: "#bfdbfe"
+theory_related_color: "#dbeafe"
 tags:
   - theme/science-policy
   - theme/network-science
@@ -134,7 +134,7 @@ updated: 2026-10-31
 > > 争论学术成果的长周期影响力究竟由网络拓扑中的先发优先连接垄断，还是由研究实质内生质量主导。
 > >
 > > - **纯粹优先连接网络派（Price, 1976）** 强调引文网络具有强烈的历史依赖性与路径锁定，早期文献占尽时间红利形成不可逆的壁垒。
-> > - **适应度动力学派（Bianconi & Barabási, 2001; Wang & Barabási, 2021）** 指出实证中存在大量高适应度突破反超先发成果的经典案例，证明内生科学质量设定了长期竞争力的上限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
+> > - **适应度动力学派（Bianconi & Barabási, 2001; [[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021]]）** 指出实证中存在大量高适应度突破反超先发成果的经典案例，证明内生科学质量设定了长期竞争力的上限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
 >
 > > [!axis] 静态恒定适应度假定 vs 动态范式转移重估
 > > 争论将单项成果的适应度视为静态常数是否契合科学知识演化的真实特征。
