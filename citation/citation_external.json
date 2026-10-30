@@ -17001,8 +17001,6 @@
     "Negroponte, 2018": "Negroponte, 2018",
     "Neier (1979)": "Neier, 1979",
     "Neier, 1979": "Neier, 1979",
-    "Neikirk et al. (2024)": "Neikirk et al., 2024",
-    "Neikirk et al., 2024": "Neikirk et al., 2024",
     "Neil Chamberlain (1969)": "Neil Chamberlain, 1969",
     "Neil Chamberlain, 1969": "Neil Chamberlain, 1969",
     "Neil Smelser (1976)": "Neil Smelser, 1976",
@@ -58004,8 +58002,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
-        "wiki/concepts/higher-education/Mentorship.md",
-        "wiki/facts/global/Nobel Prize in Physiology or Medicine.md"
+        "wiki/concepts/higher-education/Mentorship.md"
       ],
       "title": ""
     },
@@ -150534,21 +150531,6 @@
       ],
       "title": ""
     },
-    "Neikirk et al., 2024": {
-      "aliases": [
-        "Neikirk et al., 2024",
-        "Neikirk et al. (2024)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Neikirk et al., 2024"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/global/Nobel Prize in Physiology or Medicine.md"
-      ],
-      "title": ""
-    },
     "Neil Chamberlain, 1969": {
       "aliases": [
         "Neil Chamberlain, 1969",
@@ -197853,8 +197835,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Medical Education Online/Argument_Sandrone_2025_MEO.md",
-        "wiki/concepts/higher-education/Mentorship.md",
-        "wiki/facts/global/Nobel Prize in Physiology or Medicine.md"
+        "wiki/concepts/higher-education/Mentorship.md"
       ],
       "title": ""
     },

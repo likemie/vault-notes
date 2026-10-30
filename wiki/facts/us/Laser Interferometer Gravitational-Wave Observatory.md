@@ -10,10 +10,10 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#dcfce7"
+fact_related_color: "#ede9fe"
 period: "1984年立项至今（1992年开工，2002年首期运行，2015年 Advanced LIGO 探测突破）"
 initiator_organization: "美国国家科学基金会（NSF）、加州理工学院（Caltech）与麻省理工学院（MIT）"
 tags:
@@ -169,11 +169,9 @@ updated: 2026-10-30
 > | [[National Science Foundation]] | Fact (Organization) | 为 LIGO 建设与运行提供全额资助的国家科技资助机构。 |
 > | [[CERN]] | Fact (Organization) | 同样展现万人超级署名与巨型工程大科学协作特征的欧洲核子研究中心。 |
 > | [[Dashun Wang]] | Person | 系统剖析 LIGO 超署名特征及大小团队创新生态互补法则的科学学家。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] | Argument | 详述 LIGO 发展历程、超署名特征及与爱因斯坦单人英雄主义世纪对照的研究。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] | Argument | 确立团队组织规模法则、阐明 LIGO 大团队工程攻关与小团队颠覆互补生态的研究。 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] | Argument | 详述 LIGO 发展历程、超署名特征及与爱因斯坦单人世纪对照（Unit 04），并阐明大小团队功能互补生态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Unit 05]]）。 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]] — 详述 LIGO 工程立项推进历程与千人超署名机制，通过爱因斯坦 1916 年单人手稿与 2015 年千人引力波团队的世纪对比，揭示现代科学向团队科学与大科学装置依赖的深刻演进。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托颠覆性指数全景分析确立团队规模法则，阐明大团队长于解决公认难题与工程实现、小团队长于颠覆探索的互补生态，强调资助政策必须保持两类团队的平衡。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]] — 详述 LIGO 工程推进与千人超署名机制（Unit 04），并依托颠覆性指数阐明大团队工程实现与小团队颠覆探索的互补生态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05, pp. 130–132]]）。
