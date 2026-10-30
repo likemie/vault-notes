@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,7 +39,7 @@ related_concepts:
   - "[[Erdős Number]]"
   - "[[Giant Component]]"
   - "[[Death of Distance]]"
-  - "[[Helpful Scientists]]"
+  - "[[Six Degrees of Separation]]"
   - "[[Clustering Coefficient]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
@@ -59,6 +59,7 @@ related_persons:
   - "[[Harriet Zuckerman]]"
   - "[[Stefan Wuchty]]"
   - "[[Mark Newman]]"
+  - "[[Alexander Oettl]]"
 related_facts:
   - "[[Yongle Encyclopedia]]"
   - "[[Laser Interferometer Gravitational-Wave Observatory]]"
@@ -281,7 +282,7 @@ updated: "2026-10-30"
 > - **二战前德国高校解聘学者冲击** 纳粹政府大规模解聘大学教授，一位高于平均水准的学术伙伴遭到驱逐，导致留守德国教授在物理学与化学领域的科研生产力分别永久萎缩 13% 与 16.5%（Waldinger, 2010, pp. 100–101）。
 
 > [!example] 专栏 9.3 致谢中的热心学者：概念反馈与同行支持的隐性价值
-> 顶尖学者通常以引文、专利和经费等显性指标被定义，但在学术机构内部，日常提供反馈的同行同样具有不可替代的价值。对学术论著致谢部分的大数据挖掘识别出了那些频繁在致谢中被公开致谢的[[Helpful Scientists|热心学者]]（helpful scientists; Oettl, 2012, p. 100）。实证表明，当这类热心科学家意外逝世后，其学术伙伴的论著产出质量（而非发文篇数）出现了急剧下跌，而在普通科学家离世后则无此现象；同时，提供概念实质反馈（如批评思路、概念修正与假设把关）的热心学者，其影响力显著超越仅提供仪器材料借用或实验技术支持的人员。这证实科学卓越背后存在着深层的无形社会与认知交互维度，正是无数热心学者的思想碰撞构筑了无形学院的繁荣（p. 100）。
+> 顶尖学者通常以引文、专利和经费等显性指标被定义，但在学术机构内部，日常提供反馈的同行同样具有不可替代的价值。[[Alexander Oettl|亚历山大·奥特尔]]（Alexander Oettl）对学术论著致谢部分的大数据挖掘识别出了那些频繁在致谢中被公开致谢的[[Peer Effects in Science|热心学者]]（helpful scientists; Oettl, 2012, p. 100）。实证表明，当这类热心科学家意外逝世后，其学术伙伴的论著产出质量（而非发文篇数）出现了急剧下跌，而在普通科学家离世后则无此现象；同时，提供概念实质反馈（如批评思路、概念修正与假设把关）的热心学者，其影响力显著超越仅提供仪器材料借用或实验技术支持的人员。这证实科学卓越背后存在着深层的无形社会与认知交互维度，正是无数热心学者的思想碰撞构筑了无形学院的繁荣（p. 100）。
 
 ---
 
@@ -318,7 +319,7 @@ updated: "2026-10-30"
 > [!sub-claim] 2. 适度紧密的小世界网络创新表现最好，全球绝大多数学者都连结在同一大网中
 
 > [!example] 专栏 10.1 六度分隔文学表达与小世界网络数理形式化
-> 小世界现象（small-world phenomenon）在通俗文化中常被称为六度分隔（six degrees of separation）。剧作家约翰·盖尔（John Guare）在 1990 年百老汇戏剧中写道：
+> 小世界现象（small-world phenomenon）在通俗文化中常被称为[[Six Degrees of Separation|六度分隔]]（six degrees of separation）。剧作家约翰·盖尔（John Guare）在 1990 年百老汇戏剧中写道：
 > > “这个星球上的每个人仅被另外六个人分隔开来。六度分隔。在我们与这个星球上的所有人之间……这涵盖世上的每一个人，包含知名人物，也包含热带雨林中的原住民、火地岛人与爱斯基摩人。我通过一条由六个人构成的轨迹与这个星球上的所有人相连。这是一个深邃的思想。”（Guare, 1990, p. 107）
 > 
 > 在网络科学中，邓肯·瓦茨与史蒂文·斯特罗加茨（Watts & Strogatz, 1998, pp. 106–107）形式化了该概念，指出真实网络同时具备高局域[[Clustering Coefficient|集聚系数]]与极短全局平均路径长度。

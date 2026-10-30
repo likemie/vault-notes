@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Exploration-Exploitation in Science]]"
   - "[[Predictive Validity]]"
+  - "[[Dilution Effect in Academic Evaluation]]"
 related_theories:
   - "[[Q-Model]]"
   - "[[Hot-Streak Model]]"
@@ -94,7 +95,7 @@ updated: 2026-10-30
 > |---|---|
 > | **纯运气零模型与实测协方差独立检验** | 依托物理学者引文大数据构建独立抽签的 R-model；测定构想潜力 $r$、个体能力 $Q$ 与发文量 $N$ 的协方差矩阵，检验选题运气的跨个体通用性（Sinatra et al., 2016）。 |
 > | **学者跨周期能力稳定性与 ROC 竞赛检验** | 筛选 823 位发表逾 50 篇论著的长周期学者，比对前半程 $Q_{early}$ 与后半程 $Q_{late}$ 的散点分布；利用受试者工作特征（ROC）曲线下面积比对 Q 因子、h 指数、总引文与发文量预测物理学诺贝尔奖得主的精度（Sinatra et al., 2016）。 |
-> | **顶级经济学家简历同行评审随机实地实验** | 随机抽取全球排名前 10% 顶尖研究型大学中 44 所院校的经济学教授，对虚构学术简历开展双盲评分实验，检验增发中低层级成果对同行评价的因果影响（Heckman & Moktan, 2020）。 |
+> | **顶级经济学家简历同行评审随机实地实验** | 随机抽取全球排名前 10% 顶尖研究型大学中 44 所院校的经济学教授，对虚构学术简历开展双盲评分实验，检验增发中低层级成果对同行评价的因果影响（Powdthavee et al., 2018）。 |
 > | **跨领域代表作联合概率矩阵与爆发期算法** | 提取 20,040 位科学家、3,480 位拍卖市场艺术家与 6,233 位导演全量生涯数据，计算 $\phi(N^\ast, N^{\ast\ast})$ 矩阵；设计多状态马尔可夫或变点检测算法识别 $\Gamma_0$ 向 $\Gamma_H$ 的跳跃窗口（Liu et al., 2018）。 |
 > | **NIH 基金资助时间节点与爆发期因果比对** | 匹配 NIH R01 首席研究员受资助年份与其生涯首个爆发期的起止时间，检验重大科技基金对前沿突破的激励或滞后关系（pp. 78–79）。 |
 
@@ -201,11 +202,11 @@ updated: 2026-10-30
 
 > [!sub-claim] 2. 顶尖同行看重平均水准而非发表篇数，简历增发低档成果会导致降分
 
-> [!mechanism] 同行评审的均值稳定逻辑与平庸发表稀释效应
-> 在运用[[Receiver Operating Characteristic Analysis|受试者工作特征分析]]（ROC）预测诺贝尔奖得主的评估中，[[Q-Factor|Q 因子]]在区分精度上力拔头筹，超越 [[h-Index|h 指数]]与总被引，发文量 $N$ 的预测表现垫底；经济学系虚构简历随机对照实验揭示，在顶刊成果清单后增补低级别期刊发表，反而使简历评分从 8.1 显著下滑至 7.6，证实顶尖同行更看重成果均质水准，单纯多发平庸成果会招致同行降分惩罚（Sinatra et al., 2016; Heckman & Moktan, 2020, pp. 67–70; 图 6-4）。
+> [!mechanism] 同行评审的均值稳定逻辑与[[Dilution Effect in Academic Evaluation|平庸发表稀释效应]]
+> 在运用[[Receiver Operating Characteristic Analysis|受试者工作特征分析]]（ROC）预测诺贝尔奖得主的评估中，[[Q-Factor|Q 因子]]在区分精度上力拔头筹，超越 [[h-Index|h 指数]]与总被引，发文量 $N$ 的预测表现垫底；经济学系虚构简历随机对照实验揭示，在顶刊成果清单后增补低级别期刊发表，反而使简历评分从 8.1 显著下滑至 7.6，证实顶尖同行更看重成果均质水准，单纯多发平庸成果会招致同行降分惩罚（Sinatra et al., 2016; Powdthavee et al., 2018, pp. 67–70; 图 6-4）。
 
 > [!case] 经济学同行评审实验：增发低层级成果为何遭到降分惩罚
-> - **实验设计与双盲干预** Heckman 与 Moktan（2020）从全球排名前 10% 顶尖研究型大学的经济学系中随机抽选 44 所院校的知名教授担任受试者。研究人员要求教授们对一批精心虚构的应聘学者学术简历进行 1 至 10 分的打分（10 分为最高）。经济学界内部对期刊声望具有极高且稳定的共识梯度（pp. 68–69）。
+> - **实验设计与双盲干预** 鲍德威（Nattavudh Powdthavee）等学者（Powdthavee et al., 2018）从全球排名前 10% 顶尖研究型大学的经济学系中随机抽选 44 所院校的知名教授担任受试者。研究人员要求教授们对一批精心虚构的应聘学者学术简历进行 1 至 10 分的打分（10 分为最高）。经济学界内部对期刊声望具有极高且稳定的共识梯度（pp. 68–69）。
 > - **对照组与干预组的对比结果**
 >   - 短简历组：仅列出发表于《美国经济评论》（American Economic Review, AER）、《计量经济学》（Econometrica）等顶级期刊的优秀代表作，平均评分高达 **8.1 分**；
 >   - 长简历组：包含与短简历完全相同的顶级成果，但在其后补充了一批发表于中低档正规受尊敬期刊的论著，平均评分下滑至 **7.6 分**（p. 69）。

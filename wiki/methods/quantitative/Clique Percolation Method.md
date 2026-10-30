@@ -142,6 +142,56 @@ updated: 2026-10-30
 > > | 读法 | 社区重叠度 | 当存在学者 $u \in \mathcal{C}_p \cap \mathcal{C}_q$（$p \neq q$）时，学者 $u$ 即为跨越两个学派社群的交叉学科桥梁纽带。 |
 > > | 注意 | 参数临界敏感性 | 若 $k$ 选得过低，全部 $k$-团容易发生巨连通相变，导致不同学派被机械融合成一个无法辨识局域特征的超大集团。 |
 
+> [!software-impl] 软件实现
+> - **官方原生程序** 原创团队开发的独立开源软件 **CFinder**（提供 C++ 核心算法引擎与跨平台 Java 图形界面，原生支持无向、加权、有向网络的 $k$-团渗流与社群演化追踪）。
+> - **核心包或命令** Python (`networkx.algorithms.community.k_clique_communities`)、R (`linkcomm`, `igraph`)、C++ (SNAP 复杂网络库)。
+> - **实现流程** 提取合著边列表并构建无向图；调用 `k_clique_communities(G, k)` 获得各重叠社区的节点集合；比对节点在各集合中的出现频次，分离出跨学科桥梁学者与外围游离节点。
+> - **报告标准** 明确汇报团规模参数 $k$ 的选取依据（如 $k=3$ 或 $k=4$）、网络极大连通分支覆盖率、识别出的社区总数、重叠节点比例以及未成团游离节点的统计占比。
+
+> [!formula] Python 计算骨架
+> ```python
+> import networkx as nx
+> from typing import List, Set, Dict, Any
+> 
+> def detect_overlapping_communities_cpm(
+>     edge_list: List[tuple], 
+>     k: int = 3
+> ) -> Dict[str, Any]:
+>     """使用团渗流算法 (CPM) 识别无向合著网络中的重叠社区。
+>     
+>     参数:
+>         edge_list: 合作关系边列表，形如 [("Scholar_A", "Scholar_B"), ...]
+>         k: 团的节点规模阈值 (k >= 3，默认为 3 即三角形完全子图)
+>     """
+>     # 1. 构建无向科研合署网络
+>     G = nx.Graph()
+>     G.add_edges_from(edge_list)
+>     
+>     # 2. 调用 NetworkX 内置团渗流算法枚举相邻 k-clique 连通组件
+>     communities_gen = nx.algorithms.community.k_clique_communities(G, k)
+>     communities = [set(c) for c in communities_gen]
+>     
+>     # 3. 统计各学者的社群从属度，识别跨界桥梁学者与游离节点
+>     node_membership: Dict[str, List[int]] = {node: [] for node in G.nodes()}
+>     for comm_id, comm_nodes in enumerate(communities):
+>         for node in comm_nodes:
+>             node_membership[node].append(comm_id)
+>             
+>     overlapping_scholars = {
+>         node: comms for node, comms in node_membership.items() if len(comms) > 1
+>     }
+>     isolated_scholars = {
+>         node for node, comms in node_membership.items() if len(comms) == 0
+>     }
+>     
+>     return {
+>         "total_communities": len(communities),
+>         "communities": communities,
+>         "overlapping_scholars": overlapping_scholars,
+>         "isolated_scholars": isolated_scholars
+>     }
+> ```
+
 ---
 
 > [!method-fit] 适用判断

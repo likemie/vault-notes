@@ -44972,7 +44972,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/concepts/science-policy/Scientific Productivity.md"
       ],
       "title": ""
@@ -75166,6 +75165,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Six Degrees of Separation.md",
         "wiki/methods/mixed/Network Analysis.md"
       ],
       "title": ""
@@ -77362,7 +77362,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
-        "wiki/concepts/science-policy/Helpful Scientists.md"
+        "wiki/concepts/science-policy/Helpful Scientists.md",
+        "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
       "title": ""
     },
@@ -82788,6 +82789,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/australia/Martin Ravallion.md"
+      ],
+      "title": ""
+    },
+    "Powdthavee et al., 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
+        "wiki/concepts/science-policy/Dilution Effect in Academic Evaluation.md"
       ],
       "title": ""
     },
@@ -105680,6 +105690,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Six Degrees of Separation.md",
         "wiki/theories/science-policy/Small-World Collaboration Model.md"
       ],
       "title": ""
@@ -108737,7 +108748,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/science-policy/Six Degrees of Separation.md"
       ],
       "title": ""
     },

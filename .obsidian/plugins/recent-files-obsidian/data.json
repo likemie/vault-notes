@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
     },
     {
+      "basename": "Erdős Number",
+      "path": "wiki/concepts/science-policy/Erdős Number.md"
+    },
+    {
+      "basename": "Clustering Coefficient",
+      "path": "wiki/concepts/science-policy/Clustering Coefficient.md"
+    },
+    {
+      "basename": "Clique Percolation Method",
+      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
+    },
+    {
       "basename": "Death of Distance",
       "path": "wiki/concepts/science-policy/Death of Distance.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "template-metax",
       "path": "wiki/templates/template-metax.md"
-    },
-    {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
-      "basename": "template-fact-eef-programme",
-      "path": "wiki/templates/template-fact-eef-programme.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
     }
   ],
   "omittedPaths": [],

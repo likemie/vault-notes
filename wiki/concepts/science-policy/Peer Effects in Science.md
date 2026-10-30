@@ -8,7 +8,7 @@ aliases:
 summary: "揭示科学家个体生产力与创新绩效受工作场所及学术网络中同行质量显著影响的社会与认知交互现象；涵盖明星学者引进对院系原有成员的生产力溢出、对高水平后继人才的吸附效应，以及日常提供概念反馈与批判意见的实质性同伴支持。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reflection Problem]]"
   - "[[Team Science]]"
   - "[[Coauthorship Network]]"
+  - "[[Helpful Scientists]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
 related_methods:
@@ -31,6 +32,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Pierre Azoulay]]"
+  - "[[Alexander Oettl]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -112,17 +114,27 @@ updated: 2026-10-30
 
 ---
 
+> [!concept-proposition] 命题三｜热心学者的概念性反馈构成了维系同行成果质量的深层隐性生产要素
+> **探讨维度　隐性互助与学术成果质量维护** 剖析非署名同行在概念审阅与思路把关中的实质性智识贡献。
+>
+> > [!claim] Oettl, A.
+> > **概念反馈与质量维持** 学术成果产出质量极度依赖日常非正式的思想检验。通过大数据解析医学论著致谢语料并运用猝逝准自然实验，证明频繁提供概念实质反馈（如批评思路与纠正假设）的热心科学家离世后，其学术伙伴的成果平均质量急剧下滑；相比之下，仅提供物理材料或实验工具借用的同行离世并未引发同等波动，确立了概念反馈是驱动科学质量的根本无形资产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **社会乘数效应** | 明星人才通过明亮氛围与引才磁场提振集体水准 | 高校学科带头人引进与学科建设 | Agrawal et al. (2017); Merton (1968) |
 > | **认知范式传导** | 同伴效应依赖专业知识重叠而非物理距离 | 跨机构协作与学术网络布局 | Azoulay et al. (2010); [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] |
+> | **概念性同伴溢出** | 概念反馈是维系同行成果质量的关键要素，超越技术与物质支持 | 学术同侪效应与微观实验室互动研究 | Oettl (2012) |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1968 — 明亮氛围假说** 罗伯特·默顿（Robert K. Merton）在诺贝尔奖得主访谈中首次提出卓越学者营造的明亮氛围。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 97)]]
 > - **1993 — 反射问题提出** 查尔斯·曼斯基（Charles F. Manski）形式化同伴效应识别的三重混杂难题，奠定因果推断规范。
+> - **2012 — 热心科学家构念与致谢挖掘** [[Alexander Oettl|亚历山大·奥特尔]]（Alexander Oettl）在《管理科学》发表成果，提出热心学者概念，开创利用致谢语料测度隐性同行互助的微观计量范式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 > - **2017 — 明星学者院系溢出量化确立** 阿格拉瓦尔（Ajay Agrawal）等运用全美进化生物学系 28 年面板数据，实证分离明星引进对同行生产力的因果净增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 96–97)]]
 
 ---
@@ -140,6 +152,7 @@ updated: 2026-10-30
 > |:---|:---|:---|:---|:---|
 > | Agrawal et al. (2017) | 全美 255 个进化生物学系近 15 万篇成果 | 双向固定效应模型 | 明星加盟拉动在职成员产出净增 48%（持续 8 年未见衰减），后继相关新聘学者质量提升 434% | 极高（近三十年院系面板） |
 > | Sacerdote (2001) | 达特茅斯大学随机寝室分配队列 | 随机自然实验 | 随机分配的高能力室友显著提振自身学业 GPA | 高（实验室级随机分配） |
+> | Oettl (2012) | 免疫学与医学论著致谢语料及学者意外猝逝样本 | 差分与匹配准自然实验 | 热心学者意外离世导致合作同行发表质量显著下滑，而发文数量保持平稳；仅提供物质设备支持的人员离世无此影响 | 高（致谢语料与外生离世事件） |
 > | Mas and Moretti (2009) | 超市收银员 2 年逐笔扫描记录 | 高频时间序列面板 | 高效率同行进入视线范围使普通员工扫码速度显著提高 | 高（高频客观行为记录） |
 
 ---

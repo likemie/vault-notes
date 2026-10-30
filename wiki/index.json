@@ -15961,6 +15961,18 @@
     ]
   },
   {
+    "title": "Dilution Effect in Academic Evaluation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Dilution Effect in Academic Evaluation.md",
+    "aliases": [
+      "平庸发表稀释效应",
+      "学术评价中的稀释效应",
+      "成果均值评价偏差",
+      "低档成果降分效应",
+      "Dilution Effect"
+    ]
+  },
+  {
     "title": "Directionality of Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Directionality of Innovation.md",
@@ -16630,6 +16642,18 @@
       "早期种子资助",
       "Strategic Seeding",
       "Seed money"
+    ]
+  },
+  {
+    "title": "Six Degrees of Separation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Six Degrees of Separation.md",
+    "aliases": [
+      "六度分隔",
+      "六度分离",
+      "小世界分隔",
+      "六度空间",
+      "Six Degrees of Separation Theory"
     ]
   },
   {
@@ -30285,6 +30309,17 @@
       "A. M. Petersen",
       "Petersen, A. M.",
       "Alexander Petersen"
+    ]
+  },
+  {
+    "title": "Alexander Oettl",
+    "type": "person",
+    "path": "wiki/persons/us/Alexander Oettl.md",
+    "aliases": [
+      "亚历山大·厄特尔",
+      "厄特尔",
+      "A. Oettl",
+      "Oettl, A."
     ]
   },
   {
