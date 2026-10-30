@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15"
 argument_display_title: "“Into the Desert”"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Founder Culture]]"
   - "[[Technological Escapism]]"
   - "[[Predictive Policing]]"
+  - "[[Collective Intelligence]]"
   - "[[Engineering Mindset]]"
   - "[[Performativity]]"
   - "[[Reliability]]"
@@ -73,7 +74,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 ---
 
@@ -85,7 +86,7 @@ updated: 2026-10-26
 
 > [!phase] 章节论证推进脉络
 >
-> - **群体智慧在客观测量中的效能与资本市场配置中的异化**
+> - **[[Collective Intelligence|群体智慧]]在客观测量中的效能与资本市场配置中的异化**
 >
 >   以高尔顿 1906 年普利茅斯集市公牛估重实验切入，阐明独立个体离散估计的中位数具有惊人的事实校准能力；随后指出将群体智慧盲目等同于资本市场配置逻辑会导致对社交游戏和折扣软件等泡沫的盲从，剥夺了对稀缺资源应当流向何种公共事业的严肃反思（pp. 171–172）。
 >
@@ -124,7 +125,7 @@ updated: 2026-10-26
 
 分散个体的独立估计能够在物理测量中抵消随机误差，但资本市场的稀缺资源配置本质上关乎社会价值选择，两者存在根本的机制分野。
 
-> [!contrast-table] 离散事实测量的群体智慧与资本市场资源配置机制的对比
+> [!contrast-table] 离散事实测量的[[Collective Intelligence|群体智慧]]与资本市场资源配置机制的对比
 > | 比较维度 | 离散事实测量的群体智慧 | 资本市场稀缺资源的自由配置 |
 > |:---|:---|:---|
 > | **信息输入结构** | 参与者彼此独立，基于分散经验对单一客观物理量进行估计 | 投资者高度受价格波动、市场情绪与同侪[[Demonstration Effect\|示范效应]]传染 |

@@ -11,9 +11,9 @@ subtype: program
 region: chile
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1988–至今"
 initiator_organization: "智利教育部（Ministerio de Educación de Chile, MINEDUC） / 教育质量局（Agencia de Calidad de la Educación）"
@@ -23,6 +23,7 @@ tags:
   - theme/accountability
   - region/chile
 related_concepts:
+  - "[[School Vouchers]]"
   - "[[School Choice]]"
   - "[[Criterion-Referenced Test]]"
   - "[[School Autonomy]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Institutional Layering]]"
   - "[[Educational Privatisation]]"
+  - "[[International Large-Scale Assessments]]"
   - "[[Test-Based Accountability]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -40,10 +42,10 @@ related_facts:
   - "[[Centros Concertados]]"
   - "[[Chilean Educational Reform of 1981]]"
   - "[[SNED]]"
+  - "[[PISA]]"
   - "[[Ley SEP]]"
   - "[[Alto al SIMCE]]"
   - "[[Docentemás]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
@@ -62,7 +64,7 @@ updated: 2026-10-30
 > - **立项时间 / 周期** 1988 年正式建立并首次施测，常态化运行至今。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 > - **发起方与资助机制** 由智利教育部（MINEDUC）立项并提供国家经常性预算资助，后续由独立的国家教育质量局统筹执行。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]
 > - **覆盖范围与对象** 覆盖全国所有公立学校、政府[[Centros Concertados|资助私立学校]]（Subvencionados）以及独立私立学校的 2、4、6、8 年级及高中 2 年级全体学生。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
-> - **核心问题导向** 配合 1981 年教育券改革（[[Chilean Educational Reform of 1981]]），解决家长[[School Choice|择校]]过程中的信息不对称问题，确立中央政府对全国统一课程大纲的远程质量监控。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
+> - **核心问题导向** 配合 1981 年[[School Vouchers|教育券]]改革（[[Chilean Educational Reform of 1981]]），解决家长[[School Choice|择校]]过程中的信息不对称问题，确立中央政府对全国统一课程大纲的远程质量监控。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 
 ---
 
@@ -142,7 +144,7 @@ updated: 2026-10-30
 > | [[Ley SEP]] | Fact (Policy) | 依据 SIMCE 表现对薄弱学校实施资金管控与关停制裁的优先学校补贴法案。 |
 > | [[Docentemás]] | Fact (Program) | 针对教师个人专业实践开展考核并与 SIMCE 构成多维国家问责的评估系统。 |
 > | [[Alto al SIMCE]] | Fact (Event) | 批判 SIMCE 高利害问责导致教育异化并发起联合抵制的社会运动。 |
-> | [[PISA]] | Fact (Program) | 智利国家课标改革与 SIMCE 体系对标深化的国际大规模学生评估项目。 |
+> | [[PISA]] | Fact (Program) | 智利国家课标改革与 SIMCE 体系对标深化的[[International Large-Scale Assessments\|国际大规模学生评估]]项目。 |
 > | [[Test-Based Accountability]] | Concept | SIMCE 历经分层演变所构筑的基于测验的高利害问责模式。 |
 > | [[Institutional Layering]] | Concept | 解释 SIMCE 数十年间不断叠加新指标与制裁后果的[[Theory of Gradual Institutional Change\|制度变迁理论]]构件。 |
 > | [[School Choice]] | Concept | SIMCE 成绩单所支持的家长择校与校际竞争机制。 |

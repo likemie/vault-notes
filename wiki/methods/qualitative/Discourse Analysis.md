@@ -5,9 +5,9 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 74
-method_related_level: 7
-method_related_stars: "💎💎⭐"
+method_related_count: 66
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -23,33 +23,28 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Analytical Stance]]"
   - "[[Research Question]]"
+  - "[[Text Generation]]"
   - "[[Lifelong Learning]]"
-  - "[[Epistemic Stances]]"
-  - "[[Return on Investment]]"
-  - "[[Geopolitics]]"
   - "[[Ontology]]"
-  - "[[School Autonomy]]"
-  - "[[Champ]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Policy Framing]]"
   - "[[Explanatory Critique]]"
-  - "[[Problem Finding]]"
-  - "[[Interdiscursivity]]"
-  - "[[Hard Power]]"
+  - "[[Regimes of Truth]]"
   - "[[Causality]]"
   - "[[Double Hermeneutic]]"
-  - "[[Reliability]]"
+  - "[[Policy Framing]]"
+  - "[[Champ]]"
   - "[[Ideal Speech Situation]]"
   - "[[Grand Theory]]"
+  - "[[Reliability]]"
   - "[[Scientific Explanation]]"
   - "[[Epistemological Vigilance]]"
   - "[[Epistemic Practices]]"
   - "[[South-South Cooperation]]"
+  - "[[Employability]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Human Capital Theory]]"
-  - "[[Critical Realism]]"
   - "[[Knowledge Building Theory]]"
+  - "[[Critical Realism]]"
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Ethnomethodology]]"
 related_methods:
@@ -57,19 +52,16 @@ related_methods:
   - "[[Critical Discourse Analysis]]"
   - "[[Classroom Observation]]"
   - "[[Ideology Critique]]"
-  - "[[Conversation Analysis]]"
-  - "[[Narrative Analysis]]"
-  - "[[Autobiographical Analysis]]"
   - "[[Critical Policy Analysis]]"
   - "[[Documentary Analysis]]"
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
+  - "[[Narrative Analysis]]"
   - "[[Multimodal Discourse Analysis]]"
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Jason Beech]]"
-  - "[[Norman Fairclough]]"
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
@@ -77,21 +69,21 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_King_2020_ECNUROE]]"
-  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
-  - "[[CORE Education]]"
-  - "[[Delors Report]]"
   - "[[Belt and Road Initiative]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
+  - "[[EU]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -141,8 +133,8 @@ updated: 2026-10-30
 ---
 
 > [!proc] 通用程序
-> 1. 明确研究问题、界定话语事件与文本池，选定代表性话语情境并划定情境边界。
-> 2. 收集自然发生的话语材料（课堂录音、访谈转录、政策白皮书、法律草案），保留社会情境与文本生成脉络。
+> 1. 明确[[Research Question|研究问题]]、界定话语事件与文本池，选定代表性话语情境并划定情境边界。
+> 2. 收集自然发生的话语材料（课堂录音、访谈转录、政策白皮书、法律草案），保留社会情境与[[Text Generation|文本生成]]脉络。
 > 3. 初读分配开放代码识别主导模式（Parker, 1992; Potter & Wetherell, 1987），或保留完整文本行号时序与叙事连贯性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
 > 4. 深入剖析言语行为功能、概念框架、互文引用与话语滑移机制，考察微观互动中的权力不对称与宏观意识形态建构。
 > 5. 寻求替代解释以排除竞争性假说，保持反身性审视，生成附带语言证据支持的批判性阐释报告。
@@ -157,14 +149,14 @@ updated: 2026-10-30
 
 > [!proc] 质性分析程序
 > 1. **完整文本时序保留与微观细节核对** 分段编码之外，以行号转录保留会话时序或自传事件连贯性；细致检视回合转换、评价性修辞、隐喻、代词及被省略的声音，将语言细节置于课堂规则、机构生活或职业经历中相互核对。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
-> 2. **概念架构提炼与话语滑移解构** 识别支撑政策转型的核心话语节点（如“知识经济”、“终身学习”）；解构文本如何将对全球化现实的描述性判断（“世界是什么”），不加论证地滑移为不可置疑的规范性指令（“教育必须做什么”），将平权价值重构为经济人力资本手段。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 444–445)]]
-> 3. **多边政策预设同构与话语空间排他性比对** 穿透多边机构（UNESCO、世界银行、OECD）表层修辞对峙，比对各方对未来社会的本体论预设；解剖通用改革处方的标准化捆绑，揭示国际组织如何通过“垄断定义问题”与“排他提供解方”的双重机制窄化受援国本土话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–353)]]
-> 4. **宏观社会实践因果批判与反身性替代检验** 结合费尔克拉夫三维分析与解释性批判，从驱动力、推进工具与价值导向解构文本深层地缘机制；践行反身性审视以防将话语分析本身物化（Ashmore, 1989），通过考察变异程度与反常证据系统排除竞争性解释。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–692)]]
+> 2. **概念架构提炼与话语滑移解构** 识别支撑政策转型的核心话语节点（如“知识经济”、“[[Lifelong Learning|终身学习]]”）；解构文本如何将对全球化现实的描述性判断（“世界是什么”），不加论证地滑移为不可置疑的规范性指令（“教育必须做什么”），将平权价值重构为经济[[Human Capital Theory|人力资本]]手段。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 444–445)]]
+> 3. **多边政策预设同构与话语空间排他性比对** 穿透多边机构（[[UNESCO]]、[[World Bank|世界银行]]、OECD）表层修辞对峙，比对各方对未来社会的[[Ontology|本体论]]预设；解剖通用改革处方的标准化捆绑，揭示国际组织如何通过“垄断定义问题”与“排他提供解方”的双重机制窄化受援国本土话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–353)]]
+> 4. **宏观社会实践因果批判与反身性替代检验** 结合费尔克拉夫三维分析与[[Explanatory Critique|解释性批判]]，从驱动力、推进工具与价值导向解构文本深层地缘机制；践行反身性审视以防将话语分析本身物化（Ashmore, 1989），通过考察变异程度与反常证据系统排除竞争性解释。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–692)]]
 
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；解构超国家一体化中官方白皮书将新自由主义经济竞争自然化为教育真理政制的话语技术（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；解构超国家一体化中官方白皮书将新自由主义经济竞争自然化为教育[[Regimes of Truth|真理政制]]的话语技术（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 
@@ -205,4 +197,4 @@ updated: 2026-10-30
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率手段。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]行动计划与教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析[[South-South Cooperation|南南合作]]框架下教育与人力资源开发话语由单向奖学金培训向全面能力合作与跨洲互联互通的演进机制。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合费尔克拉夫与科森话语权力理论，解构经合组织官方报告与媒体如何通过技术中立化话语将新自由主义权力关系自然化（p. 423）。
-> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用政策话语分析解构欧盟 1993 至 2007 年官方文本，揭示“就业能力”与“终身学习”如何被建构为新自由主义真理政制。（pp. 479–481, 484–486, 490–492）
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用政策话语分析解构[[EU|欧盟]] 1993 至 2007 年官方文本，揭示“[[Employability|就业能力]]”与“终身学习”如何被建构为新自由主义真理政制。（pp. 479–481, 484–486, 490–492）

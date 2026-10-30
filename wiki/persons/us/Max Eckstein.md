@@ -9,7 +9,7 @@ summary: "美籍著名比较教育学家，纽约城市大学皇后学院教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 52
+person_related_count: 54
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Nomothetic]]"
   - "[[Paradigm]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
+  - "[[Super Ties in Science]]"
   - "[[Critical Dualism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -84,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -102,7 +104,7 @@ updated: 2026-10-26
 ---
 
 > [!timeline] 生平与职涯
-> - **1926** **柏林出身与避难英国求学** 出生于德国柏林。童年时期随家庭逃离纳粹大屠杀避难英国，在伦敦接受完整的中学与高等教育，具备扎实的多语种文献素养。
+> - **1926** **柏林出身与避难英国求学** 出生于德国柏林。童年时期随家庭逃离纳粹大屠杀避难英国，在伦敦接受完整的中学与高等教育，具备扎实的多语种[[Document|文献]]素养。
 > - **1950年代** **伦敦教育学院求学与赴美深造** 在英国伦敦大学教育学院（IOE）研修教育学，后赴美国哥伦比亚大学师范学院攻读博士学位（1964），系统研究跨国学校体系的历史演变与结构功能。
 > - **1960年代初** **结识诺亚开启三十年学术合作** 在哥伦比亚大学与诺亚相识，两人结为紧密的学术伙伴，共同致力于将现代经验社会科学量化方法引入比较教育学。
 > - **1969** **出版《走向比较教育科学》确立战后第三代际哥大学派** 与诺亚联合出版里程碑名著《走向比较教育科学》（*Toward a Science of Comparative Education*），系统确立以[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]函数共变关系为核心的实证规程，将古典历史学派判定为依赖个人洞察力的前科学阶段，在第三代际实证[[Scientism|科学主义]]运动中确立哥大学派的量化纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
@@ -197,7 +199,7 @@ updated: 2026-10-26
 ---
 
 > [!person-network] 关系网络
-> - **终身学术搭档与合著者** [[Harold Noah|哈罗德·诺亚]] — 共同构筑战后比较教育科学实证大厦，合著多部里程碑文献；
+> - **[[Super Ties in Science|终身学术搭档]]与合著者** [[Harold Noah|哈罗德·诺亚]] — 共同构筑战后比较教育科学实证大厦，合著多部里程碑文献；
 > - **哥大同事与学术同侪** [[George Bereday|乔治·贝雷迪]] — 共同活跃于哥伦比亚大学及北美比较教育学界；[[Robert Cowen|罗伯特·考恩]] — 在考恩年轻时赴美任教予以热情提携；
 > - **实证科学化同盟（芝加哥学派）** [[C. Arnold Anderson|阿诺德·安德森]]、[[Philip Foster|菲利普·福斯特]] — 共同构成战后美国比较教育经验实证[[Scientism|科学主义]]运动的中坚力量；
 > - **论辩与对话者（伦敦学派）** [[Brian Holmes|布赖恩·霍姆斯]] — 围绕经验量化[[Variable|变量]]共变 vs [[Critical Dualism|批判二元论]]演绎[[Problem Approach|问题法]]展开跨大西洋论战；[[Edmund King|埃德蒙·金]]（Edmund King） — 批评实证量化模型脱离具体教育情境并走向技术伪科学；

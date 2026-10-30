@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Received Knowledge]]"
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
+  - "[[Collective Intelligence]]"
   - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[Definition of Terms]]"
@@ -50,8 +51,9 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Research Topic]]"
   - "[[Language Skills]]"
-  - "[[Gamification]]"
+  - "[[Game-Based Learning]]"
   - "[[Lifelong Learning]]"
+  - "[[Document]]"
   - "[[Active Learning]]"
   - "[[General Education]]"
   - "[[Student Engagement]]"
@@ -79,6 +81,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
+  - "[[Experimental Research]]"
   - "[[Random Sampling]]"
   - "[[Time Series Design]]"
   - "[[Inter-Rater Reliability]]"
@@ -89,11 +92,12 @@ related_persons:
   - "[[William Foote Whyte]]"
 related_facts:
   - "[[Stanford Prison Experiment]]"
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 status: draft
 created: 2026-08-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 ---
 
@@ -168,7 +172,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 >
 >   角色扮演被广泛用于教育与培训，并日益进入公司培训领域，用于探索变革管理、谈判技能、沟通技能、领导力技能、团队建设、演讲技能、管理培训、公开演讲、自信训练、绩效管理、客户服务、面试技能、压力管理、评估培训和媒体培训等议题。角色扮演、游戏与[[Computer Simulation\|计算机模拟]]是这个更广领域的三个相关活动分支，后两类不在讨论范围，聚焦于角色扮演作为教育研究技术的使用（p. 2）。
 
-在线角色扮演是一个正在蓬勃发展的领域，许多人通过玩电子游戏或参与 SimCity、Second Life、Whyville 等网站的[[Virtual World|虚拟世界]]而投身其中。这些体验通常是娱乐性的，但也可能带来有价值的教育成果，如习得集体智慧、[[Problem Solving|问题解决]]、战略思维、情境解读与想象性游戏的素养实践（Beach & Doerr-Stevens, 2009; 亦见 Gee, 2004; Shaffer, 2006），但线上角色扮演不在讨论范围（p. 2）。
+在线角色扮演是一个正在蓬勃发展的领域，许多人通过玩电子游戏或参与 SimCity、Second Life、Whyville 等网站的[[Virtual World|虚拟世界]]而投身其中。这些体验通常是娱乐性的，但也可能带来有价值的教育成果，如习得[[Collective Intelligence|集体智慧]]、[[Problem Solving|问题解决]]、战略思维、情境解读与想象性游戏的素养实践（Beach & Doerr-Stevens, 2009; 亦见 Gee, 2004; Shaffer, 2006），但线上角色扮演不在讨论范围（p. 2）。
 
 角色扮演迄今的运用成败参半，很大程度上源于对其是什么以及如何定义的困惑。英国医学期刊（*British Medical Journal*）的一份报告（Box 26.1）揭示了这种困惑。
 
@@ -294,10 +298,10 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > [!info] 无惩罚区与现实的排练
 > 角色扮演运作于无惩罚区（no-penalty zone），人们可以更自由地探索和尝试各种解决问题的方案，而不必担心结果。戏剧的功能之一是让世界更简单、更可理解，它可以是扮演或练习在真实情境中生活的一种方式，使参与者能把在虚构的戏剧世界中学到的技能付诸实践。Augusto Boal（1979, 2002）将这类戏剧活动称为现实的排练（rehearsal for reality）。在健康护理、教育、工程和社会关怀实践等专业学科中，职前和在职教育模式都依赖基于问题和基于探究的教学、学习与研究方法，角色扮演在这些领域为增强[[Case Study\|案例研究]]法和促进最佳实践模式研究提供了巨大潜力。例如，在一项比较早期教育环境中整合式课程教学方法与传统教学法的研究中，教师研究者和幼儿学习者在数周内于整个上学日投入持续的角色扮演（O'Sullivan & Murphy, 2006）（pp. 5–6）。
 
-> [!warning] [[Gamification\|游戏化学习]]的衰退
+> [!warning] [[Game-Based Learning|游戏化学习]]的衰退
 > 通过玩耍学习的观念往往与早期教育相关联，随着儿童在学制中前进并进入成年生活，想象和戏剧性游戏的机会逐渐减少。一种毫无根据的信念，即学业内容标准无法通过创造性和想象性活动达成，仍然存在，这导致游戏化学习方法几乎从教室里消失（Bergen, 2009）（p. 6）。
 
-以下是来自[[Lifelong Learning|终身教育]]文献的关于角色扮演使用价值的简要总结，涵盖十二项研究发现：
+以下是来自[[Lifelong Learning|终身教育]][[Document|文献]]的关于角色扮演使用价值的简要总结，涵盖十二项研究发现：
 
 > [!evidence-grid] 终身教育文献中的十二项发现
 > - **可迁移技能与内容知识** 角色扮演发展参与者的可迁移技能和内容知识（Cutler & Hay, 2000）
@@ -534,7 +538,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 > - **个人投入更高** 学生报告对材料的个人投入更高，通过课初在较小同伴群体中讨论内容而变得更熟悉内容
 > - **脱离角色的关键作用** 研究者强调脱离角色环节的重要性：如果没有教师在指导下帮助学生情境化地组织活动中探索的信息和视角，角色扮演的有效性将严重降低（McCarthy & Anderson, 2000, p. 285）（p. 19）
 >
-> **自述局限** 实验设计未使用[[Random Sampling\|随机样本]]，也未控制潜在的混淆因素（如教师表现的差异或组间学生的学业水平）。尽管如此，结果仍为主动学习相对于讲授和教师中心讨论的潜在效用提供了提示性证据。
+> **自述局限** [[Experimental Research|实验设计]]未使用[[Random Sampling\|随机样本]]，也未控制潜在的混淆因素（如教师表现的差异或组间学生的学业水平）。尽管如此，结果仍为主动学习相对于讲授和教师中心讨论的潜在效用提供了提示性证据。
 
 > [!case] Sellers（2002）：角色扮演作为研究生护理期末考试
 > **研究设计** 在研究生护理教育中，将角色扮演用作两小时期末考试，评估学生对护理理论课程的知识（Sellers, 2002, p. 498）。每位学生被分配一位特定的理论家（对同伴保密），并以创造、准确和真实的方式向同伴呈现该角色；同伴在口头考试后完成一份评估表。这一技术也被称为热座（hot seating，见 Neelands & Goode, 2000）。课程导师预先设定的一系列理论问题，加上学生自己的问题，被抛给被热座的学生，以识别所代表的理论家（pp. 19–20）。
@@ -582,7 +586,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 > [!citation-card] 角色扮演的虚构本质与拥抱知识
 > 所有角色扮演活动的唯一标准是要求参与者进入一个以学习为目标构思的仿佛虚构。角色扮演者不只是接收或获取知识，他们在制造知识、实践知识、体现知识：他们知道他们所知道的。（Bolton & Heathcote, 1999, pp. 57–58）（26.3，p. 5）
 >
-> *The single criterion underpinning all role-play activity is that it demands participants to step into an "as if" fiction: a fiction that has been "conceived of by a tutor, teacher, or researcher in terms of learning". Role-players are not just receiving or acquiring knowledge; they are making it, practising it and embodying it: they know what they know.*
+> *The single criterion underpinning all role-play activity is that it demands participants to [[Skills Toward Employment and Productivity|step]] into an "as if" fiction: a fiction that has been "conceived of by a tutor, teacher, or researcher in terms of learning". Role-players are not just receiving or acquiring knowledge; they are making it, practising it and embodying it: they know what they know.*
 
 > [!citation-card] 戏剧作为研究金矿
 > 当参与角色时，我们同时通过身体和语言进行表达，这种主动参与促进了情感、认知、社会和自我发展。从隐喻上说，我们正坐在一座研究金矿上。（Arnold, 1998, p. 111）（26.3，p. 5）

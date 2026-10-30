@@ -7,7 +7,7 @@ aliases:
 summary: "治理与评估社会学中的核心经验定律：当一个量化指标被选定作为决策和控制的目标时，该指标就会立即失去其作为有效衡量尺度的价值；在科研治理与教育评价中表现为学者或机构针对论文篇数、影响因子、升学率与排名等量化指标展开策略性博弈、指标刷量与功利化合规，导致指标数值虚高而实质学术卓越与教育质量倒退。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Peer Debriefing]]"
+  - "[[Disruption Index]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-10-29
 >
 > | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 18)]] | 全球 1950–2024 年数千万篇科学论文与专利数据库 | CD 指数（颠覆性与固化性指数）与论文篇数纵向追踪 | 尽管全美及全球年度发表论文总数扩大数倍，但各学科 CD 颠覆性指数呈现系统性单调下滑 | 实证检验了高利害论文篇数考核对原始颠覆性创新的抑制效应（古德哈特效应） |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 18)]] | 全球 1950–2024 年数千万篇科学论文与专利数据库 | [[Disruption Index\|CD 指数]]（颠覆性与固化性指数）与论文篇数纵向追踪 | 尽管全美及全球年度发表论文总数扩大数倍，但各学科 CD 颠覆性指数呈现系统性单调下滑 | 实证检验了高利害论文篇数考核对原始颠覆性创新的抑制效应（古德哈特效应） |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 18–19)]] | 2009 年阿尔茨海默病里程碑顶刊撤稿案例 | 顶刊引文网络与药企临床转化复现对比 | 顶刊所载靶点数据在发表 3 年内即被药企证实无法复现，但因顶刊影响因子光环在学界积累逾 800 次虚假引用，误导公共研发长达十余年 | 揭示将期刊影响因子作为质量绝对指标导致的虚假共识与巨额预算浪费 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, p. 544)]] | 全球 30 个涉教育国际组织与 [[Systems Approach for Better Education Results\|SABER]] 数据库（1600 项量化指标） | 跨国指标生产与[[Policy Borrowing\|政策借用]]追踪 | 跨国组织自产 1,120 项教育回报率实证报告并绑定结构调整贷款，促使受援国针对指标开展功利化合规 | 证实古德哈特定律在跨国教育政策借用与[[Governing by Numbers\|数字治理]]中的普遍渗透 |
 

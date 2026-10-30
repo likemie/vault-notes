@@ -1988,8 +1988,15 @@
   border-spacing: 0;
 }
 
+.callout[data-callout="method-panel"] table,
 .callout[data-callout="sample-panel"] table {
   font-size: 0.85em;
+}
+
+.callout[data-callout="method-panel"] td:first-child strong,
+.callout[data-callout="sample-panel"] td:first-child strong {
+  font-size: 0.95em;
+  font-weight: 650;
 }
 
 .callout[data-callout="method-panel"] th,

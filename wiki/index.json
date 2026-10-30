@@ -8340,6 +8340,17 @@
     ]
   },
   {
+    "title": "Too-Much-Talent Effect",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Too-Much-Talent Effect.md",
+    "aliases": [
+      "过度人才效应",
+      "人才过剩效应",
+      "顶尖人才过剩效应",
+      "明星团队悖论"
+    ]
+  },
+  {
     "title": "Transitional Knowing",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Transitional Knowing.md",
@@ -11280,6 +11291,19 @@
       "任务切换",
       "task switching",
       "set-shifting"
+    ]
+  },
+  {
+    "title": "Collective Intelligence",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md",
+    "aliases": [
+      "集体智慧",
+      "群体智慧",
+      "团队集体智力",
+      "集体智力",
+      "c-factor",
+      "c 因子"
     ]
   },
   {
@@ -16683,6 +16707,18 @@
     ]
   },
   {
+    "title": "Super Ties in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Super Ties in Science.md",
+    "aliases": [
+      "科学超级联结",
+      "超级联结",
+      "超级合作联结",
+      "终身学术搭档",
+      "Super Ties"
+    ]
+  },
+  {
     "title": "Technological Conservatism in Mission Programs",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Technological Conservatism in Mission Programs.md",
@@ -21676,6 +21712,17 @@
     ]
   },
   {
+    "title": "Core and Extended Teams Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Core and Extended Teams Model.md",
+    "aliases": [
+      "核心与扩展团队模型",
+      "核心团队与外延团队模型",
+      "Milojević 团队规模演化模型",
+      "核心与扩展团队机制"
+    ]
+  },
+  {
     "title": "Discovery-Invention Cycle",
     "type": "theory",
     "path": "wiki/theories/science-policy/Discovery-Invention Cycle.md",
@@ -21857,6 +21904,17 @@
       "科学社会契约",
       "Social Contract for Science",
       "social contract between science and society"
+    ]
+  },
+  {
+    "title": "Team Assembly Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Team Assembly Model.md",
+    "aliases": [
+      "团队组装模型",
+      "团队组建模型",
+      "Guimerà-Uzzi 团队组装机制",
+      "团队成员装配模型"
     ]
   },
   {
@@ -24486,6 +24544,19 @@
       "DIF",
       "测验题目偏倚",
       "项目功能偏侧"
+    ]
+  },
+  {
+    "title": "Disruption Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Disruption Index.md",
+    "aliases": [
+      "颠覆性指数",
+      "颠覆度指数",
+      "破缺指数",
+      "CD 指数",
+      "CD Index",
+      "Consolidated Disruption Index"
     ]
   },
   {

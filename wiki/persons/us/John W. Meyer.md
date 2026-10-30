@@ -8,7 +8,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Falsification]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge-Based Economy]]"
@@ -40,6 +39,8 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Epistemology]]"
   - "[[Geopolitics]]"
+  - "[[Document]]"
+  - "[[Cognitive Decoupling]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
@@ -60,8 +61,8 @@ related_persons:
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
-  - "[[World Bank]]"
   - "[[PISA]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Zapp_2022_Springer]]"
@@ -107,7 +108,7 @@ updated: 2026-10-30
 > [!thought-timeline] 思想发展
 > - **1970–1979 — 经验异常与[[Rationalized Myth|制度神话]]的发现：从国家内部[[Variable|变量]]到组织新制度主义** 这一时期主要回应战后跨国教育普及浪潮中出现的经验异常，即为何无论国家贫富、政体民主或专制，全球各地的学校入学率均出现步调一致的暴增，且组织内部的正式结构与实际技术活动往往严重脱节。
 >   - **代表著作** Meyer (1971) *Economic and Political Effects on National Educational Enrollment Patterns*; Meyer and Rowan (1977) *Institutionalized Organizations: Formal Structure as Myth and Ceremony*; Meyer and Hannan (1979) *National Development and the World-System: Educational, Economic, and Political Change, 1950–1970*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
->   - **关键概念／方法** 制度环境（Institutional Environments）、理性神话（Rationalized Myths）、仪式性脱节（[[Cognitive Decoupling|decoupling]]）。
+>   - **关键概念／方法** 制度环境（Institutional Environments）、理性神话（Rationalized Myths）、仪式性脱节（decoupling）。
 >   - **阶段转向** [[Falsification|证伪]]了古典现代化理论将教育扩张视作国家内部经济与政治自发需求的假定，论证组织的正式架构主要用于获取外部制度环境的合法性支持，开创了组织社会学的新制度主义[[Paradigm|范式]]。
 > - **1980–1999 — [[World Society Theory|世界社会理论]]的成熟：全球[[Cultural Models|文化模型]]与民族国家[[Institutional Isomorphism|制度同构]]** 这一阶段将研究视野从中观组织扩展至全球宏观体系，系统解释战后全球主权国家在宪法、公民身份、中小学课程设置与义务教育立法上的高度趋同现象。
 >   - **代表著作** Meyer, Kamens, & Benavot (1992) *School Knowledge for the Masses: World Models and National Primary Curricular Categories in the Twentieth Century*; Meyer, Boli, Thomas, & Ramirez (1997) *World Society and the Nation-State*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]、[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 145)]]
@@ -142,14 +143,14 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
-> - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化、政策执行落差以及国家参与 PISA 测评仪式性合法性追求的标准分析工具。
+> - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化、政策执行落差以及国家参与 [[PISA]] 测评仪式性合法性追求的标准分析工具。
 > - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代[[Research Universities|研究型大学]]向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统辨析迈耶的世界文化流派与[[Immanuel Wallerstein|沃勒斯坦]]的[[Dependency Theory|依附论]]流派，肯定迈耶在解释全球学校制度形式趋同上的奠基贡献，但批判其掩盖了核心国家对边缘国家的资本积累与阶层再生产。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）宏观跨国转向中，评述迈耶新制度主义将现代学校阐释为全球扩散的“理性化现代化与进步神话”，同时反思当代宏观实证研究对历史维度的挤压。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 全面汲取迈耶的[[Organizational Actorhood|组织能动者身份]]（Actorhood）与[[Otherhood|为他者行动]]（Otherhood）框架，实证解构现代超级研究型大学如何通过科学客观性与[[Knowledge Production|知识生产]]，在全球去中心化治理中占据独特的合法性中心地位。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用迈耶的世界文化与制度脱节（[[Cognitive Decoupling|Decoupling]]）理论，解释主权国家参与 PISA 测评以确立现代性合法地位的仪式性动因，以及由此造成的国家政策修辞与学校实际教学之间的深层脱节（p. 419）。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用迈耶的世界文化与制度脱节（Decoupling）理论，解释主权国家参与 PISA 测评以确立现代性合法地位的仪式性动因，以及由此造成的国家政策修辞与学校实际教学之间的深层脱节（p. 419）。
 
 ---
 
@@ -200,11 +201,11 @@ updated: 2026-10-30
 
 > [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判迈耶新制度主义世界文化流派过度依赖国家层面的入学率与法律文本等宏观统计指标，完全忽略了边缘国家内部触目惊心的阶级再生产机制与跨国资本掠夺。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 强调第四阶段[[Discourse|话语]]（1970–1990）虽然借助世界体系与跨国模型拓宽了宏观视野，但过度沉溺于当代实证数据集与组织趋同分析，在客观上加剧了比较教育学历史研究维度的边缘化（历史研究文献占比降至不足 5%）。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 强调第四阶段[[Discourse|话语]]（1970–1990）虽然借助世界体系与跨国模型拓宽了宏观视野，但过度沉溺于当代实证数据集与组织趋同分析，在客观上加剧了比较教育学历史研究维度的边缘化（历史研究[[Document|文献]]占比降至不足 5%）。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 指出世界社会理论过于倚重观念扩散与规范同构，可能低估了民族国家[[Hard Power|硬实力]]、地缘政治冲突以及商业资本利益对组织行为的直接强制干预。
 
 > [!warning] 未解问题与边界
-> 世界社会理论在解释全球化高潮期“形式制度高度趋同”上具有无可比拟的洞察力；然而，面对当前逆全球化浪潮、大国地缘博弈复归、民粹主义排外思潮以及“脱节”（[[Cognitive Decoupling|decoupling]]）现象背后深层的政治利益算计，该理论单纯依靠文化模型与理性化传播的[[Analytic Framework|分析框架]]展现出明显的解释边界，亟需与政治经济学批判进行更深层次的理论对话。
+> 世界社会理论在解释全球化高潮期“形式制度高度趋同”上具有无可比拟的洞察力；然而，面对当前逆全球化浪潮、大国地缘博弈复归、民粹主义排外思潮以及“脱节”（decoupling）现象背后深层的政治利益算计，该理论单纯依靠文化模型与理性化传播的[[Analytic Framework|分析框架]]展现出明显的解释边界，亟需与政治经济学批判进行更深层次的理论对话。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "美国生物学家与行为生态学家，康奈尔大学生物学名�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -32,20 +32,19 @@ related_persons:
   - "[[Karl von Frisch]]"
   - "[[Martin Lindauer]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[Eck Swarm Experiment]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国生物学家、行为生态学家与社会生物学家；康奈尔大学神经生物学与行为学系名誉教授，美国文理[[Chinese Academy of Sciences|科学院]]院士，曾获德国亚历山大·冯·洪堡高级研究奖。
+> - **身份位置** 美国生物学家、行为生态学家与社会生物学家；康奈尔大学神经生物学与行为学系名誉教授，美国文理科学院院士，曾获德国亚历山大·冯·洪堡高级研究奖。
 > - **核心角色** 当代蜜蜂[[Wisdom of Crowds|群体智慧]]与集体决策研究的最核心领军人物；系统总结与传承了德国行为生物学派（[[Karl von Frisch|卡尔·冯·弗里施]]与[[Martin Lindauer|马丁·林道尔]]）的学术遗产，通过数十年定量实验将蜂群无中心民主投票机制提升为跨学科自组织决策经典理论。
 > - **代表贡献** 出版奠基性学术专著《蜜蜂的民主》（*Honeybee Democracy*），详尽考证与重现了[[Martin Lindauer|马丁·林道尔]]在 1951 年实施的[[Eck Swarm Experiment|埃克蜂群实验]]（[[Eck Swarm Experiment]]），系统阐释了[[Swarm Intelligence|群智能]]（[[Swarm Intelligence]]）与[[Edge Autonomy|边缘自治]]（[[Edge Autonomy]]）在生物与人类组织中的应用。
 

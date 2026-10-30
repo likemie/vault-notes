@@ -7,7 +7,7 @@ summary: "英国语言学学者、社会学家，兰卡斯特大学语言学荣�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 31
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,17 +31,20 @@ related_concepts:
   - "[[Order of Discourse]]"
   - "[[Geopolitics]]"
   - "[[Social Imaginary]]"
+  - "[[Objectivism]]"
   - "[[Operationalization]]"
   - "[[Policy Framing]]"
   - "[[Education Going Global]]"
   - "[[Ontology]]"
-  - "[[Interpretive Validity]]"
   - "[[Positivism]]"
   - "[[Analytical Stance]]"
+  - "[[Interpretive Validity]]"
   - "[[Reflexivity]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Critical Realism]]"
+  - "[[Post-structuralism]]"
 related_methods:
   - "[[Critical Discourse Analysis]]"
   - "[[Discourse Analysis]]"
@@ -52,7 +55,6 @@ related_methods:
 related_persons:
   - "[[Bob Jessop]]"
   - "[[Roy Bhaskar]]"
-  - "[[Stephen Ball]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
@@ -69,7 +71,7 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 英国语言学学者、[[Critical Discourse Analysis|批判话语分析]]（Critical [[Discourse Analysis]], CDA）学派奠基人，兰卡斯特大学（Lancaster University）语言学与语言学应用荣休教授。
 > - **核心角色** 开创将语言学微观文本分析与宏观社会理论有机结合的批判性研究传统，在政策社会学、意识形态分析与社会变迁研究中承担核心方法论奠基者的枢纽角色。
-> - **代表贡献** 创立 CDA 文本—话语实践—社会实践三维分析模型；提出问题驱动的政策话语批判方法；奠定连接因果解释与规范性价值评价的[[Explanatory Critique|解释性批判]]分析[[Paradigm|范式]]。
+> - **代表贡献** 创立 CDA 文本—[[Discourse|话语实践]]—社会实践三维分析模型；提出问题驱动的政策话语批判方法；奠定连接因果解释与规范性价值评价的[[Explanatory Critique|解释性批判]]分析[[Paradigm|范式]]。
 
 > [!citation-card] 批判话语分析的学科定位
 > 批判话语分析将语言视为一种社会实践，通过考察文本、实践、社会过程与权力结构之间的多维关系，实现对社会现实的[[Scientific Explanation|科学解释]]与规范性批判。[[Argument_Woo_2023_HEP|(Fairclough, 2013b, cited in Woo, 2023, p. 680)]]
@@ -114,7 +116,7 @@ updated: 2026-10-30
 > *Imaginaries denote the element of discourses or narratives that not only represent the world as it is, but are also projective, representing possible worlds tied in to projects to change the world in particular directions.*
 
 > [!citation-card] 官方报告与媒体对新自由主义权力关系的自然化
-> 大众媒体与官方报告通过中立化语言将新自由主义权力关系自然化，掩盖了边缘群体的实质失语。政策文本的客观主义修辞实质上服务于特定社会群体的利益再生产。[[Argument_Xie_Li_Huang_2021_GEO|(Fairclough, 1998, cited in Xie et al., 2021, p. 423)]]
+> 大众媒体与官方报告通过中立化语言将新自由主义权力关系自然化，掩盖了边缘群体的实质失语。政策文本的[[Objectivism|客观主义]]修辞实质上服务于特定社会群体的利益再生产。[[Argument_Xie_Li_Huang_2021_GEO|(Fairclough, 1998, cited in Xie et al., 2021, p. 423)]]
 >
 > *Fairclough (1998) demonstrates how official reports and media discourses naturalize neoliberal social relations through ostensibly neutral technical language.*
 
@@ -126,15 +128,15 @@ updated: 2026-10-30
 > - **政策与教育学应用** 为批判性教育政策社会学提供核心分析武器；在跨国教育政策解构中，其模型被应用于剖析超国家组织报告如何通过中立语言将新自由主义权力关系自然化（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 423]]），以及剖析跨国高等教育政策的话语框架化与地缘政治意图（[[Argument_Woo_2023_HEP|Woo, 2023]]）。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将费尔克拉夫批判[[Discourse Analysis|话语分析]]三维模型与政策框架化理论改造融合，解构中国[[Belt and Road Initiative|一带一路]][[Education Going Global|高教出海]]政策的话语实践与[[Geopolitics|地缘政治]]意图。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将费尔克拉夫批判[[Discourse Analysis|话语分析]]三维模型与[[Policy Framing|政策框架化]]理论改造融合，解构中国[[Belt and Road Initiative|一带一路]][[Education Going Global|高教出海]]政策的话语实践与[[Geopolitics|地缘政治]]意图。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合费尔克拉夫（Fairclough, 1998）的批判话语分析，揭示大众媒体与官方报告如何通过中立化语言将新自由主义权力关系自然化（p. 423）。
 
 ---
 
 > [!person-network] 关系网络
-> - **师承与合作同道** [[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）、沈碧莲（Ngai-Ling Sum）— 共同推进语言符号学与[[Cultural Political Economy|文化政治经济学]]（CPE）的跨学科整合；[[Roy Bhaskar]] — 采纳批判实在论本体论与解释性批判方法作为 CDA 的哲学根基。
+> - **师承与合作同道** [[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）、沈碧莲（Ngai-Ling Sum）— 共同推进语言符号学与[[Cultural Political Economy|文化政治经济学]]（CPE）的跨学科整合；[[Roy Bhaskar]] — 采纳批判实在论[[Ontology|本体论]]与解释性批判方法作为 CDA 的哲学根基。
 > - **学生／继承者** 埃迪·吴（Eddie Woo）— 将其 CDA 三维模型应用于跨国高等教育地缘政策解构。
-> - **批评者／论敌** 实证主义量化语言学者 — 质疑批判话语分析容易受研究者先验批判立场所主导，缺乏可重复性检验。
+> - **批评者／论敌** [[Positivism|实证主义]]量化语言学者 — 质疑批判话语分析容易受研究者先验[[Analytical Stance|批判立场]]所主导，缺乏可重复性检验。
 > - **机构／运动／项目** 兰卡斯特大学语言学系 — 批判话语分析（CDA）学派的核心发源地与学术阵地。
 
 ---
@@ -148,8 +150,8 @@ updated: 2026-10-30
 > > - **实在论辩护与反思** 费尔克拉夫回应指出，CDA 依托[[Critical Realism|批判实在论]]与严格的互文性实证链条，强调分析程序公开透明与自我[[Reflexivity|反思性]]，其目标是通过严谨解释促进社会正义与公共审议。
 
 > [!critique] 批评索引
-> - 实证主义语言学家批评 CDA 缺乏形式语言学的量化信度标准，文本阐释容易退化为分析者预设政治立场的修辞证明。
-> - 部分后结构主义学者指责三维框架中的宏观“社会实践”因果解释带有批判实在论的本质主义倾向，低估了话语在本体论意义上的完全建构性。
+> - 实证主义语言学家批评 CDA 缺乏形式语言学的量化[[Reliability|信度]]标准，文本阐释容易退化为分析者预设政治立场的修辞证明。
+> - 部分[[Post-structuralism|后结构主义]]学者指责三维框架中的宏观“社会实践”因果解释带有批判实在论的本质主义倾向，低估了话语在本体论意义上的完全建构性。
 
 > [!warning] 未解问题与边界
 > 在处理多模态（图像、数字媒介、音视频）政策传播和跨文化跨语种文本互译时，微观语言学分析范畴需要进一步扩展与本土化调适。
@@ -160,7 +162,7 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Discourse Analysis\|话语分析]] | 方法 | 创立批判话语分析（CDA）及其三维分析模型，成为定性研究与话语批判的奠基方法。 |
+> | [[Discourse Analysis\|话语分析]] | 方法 | 创立批判话语分析（CDA）及其三维分析模型，成为[[Qualitative Research\|定性研究]]与话语批判的奠基方法。 |
 > | [[Critical Policy Analysis\|批判政策分析]] | 方法 | 提出问题驱动的政策话语批判范式，连接文本微观特征与宏观权力关系。 |
 > | [[Discourse\|话语]] | 概念 | 将话语界定为受权力结构约束并具备社会建构力量的符号化实践形态。 |
 > | [[Social Imaginary\|社会想象]] | 概念 | 提出话语想象（Imaginaries）概念，阐明话语对未来可能世界的投射性建构功能。 |

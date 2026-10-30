@@ -8,10 +8,10 @@ aliases:
 summary: "由刘路（Lu Liu）与王大顺、Albert-László Barabási et al. (2018) 提出的创造性职业生涯时序动力学理论；在平稳基线学术表现之上引入局部持续的高位激发状态，解释顶尖代表作在生涯序列中显著成簇出现（前后紧邻概率达随机预期的 1.57 倍）的经验事实，并与代表作在整体生命周期中的随机影响规律统一起来。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 24
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/scientific-career
@@ -26,13 +26,22 @@ related_concepts:
   - "[[Variable]]"
   - "[[Exploration-Exploitation in Science]]"
   - "[[Research Question]]"
+  - "[[Reliability]]"
+  - "[[Big Science]]"
+  - "[[Interaction Effect]]"
 related_theories:
   - "[[Random Impact Rule]]"
+  - "[[Burstiness in Human Activities]]"
+  - "[[Hot Hand Fallacy]]"
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Random Sampling]]"
   - "[[Joint Probability Matrix of Hits]]"
 related_instruments: []
 related_persons:
+  - "[[Lu Liu]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[John B. Fenn]]"
 related_facts:
   - "[[National Institutes of Health]]"
@@ -51,7 +60,7 @@ updated: 2026-10-30
 > - **解释对象** 科学家、艺术家与电影导演全生命周期职业生涯中顶尖代表作在时间轴上高度聚集的时序微观动力学。
 > - **理论问题** 解释为何在单篇成果严格服从[[Random Impact Rule|随机影响规律]]的前提下，个体最佳与次佳代表作却在发表序列中展现出极强的空间邻接聚集特征，消解[[Random Sampling|随机抽样]]假设与代表作扎堆现象之间的表象矛盾。
 > - **理论类型** 非平稳随机过程模型与生涯时序动力学解释理论。
-> - **知识位置** 科学学（[[Metascience|Science of Science]]）、计算[[Creativity|创造力]]学与行为动力学[[Comparative Education as a Cross-Sectional Area|交叉领域]]，深化了人类活动爆发动力学（Burstiness）在学术与艺术创新中的机制表达。
+> - **知识位置** 科学学（[[Metascience|Science of Science]]）、计算[[Creativity|创造力]]学与行为动力学[[Comparative Education as a Cross-Sectional Area|交叉领域]]，深化了人类活动[[Burstiness in Human Activities|爆发动力学]]（Burstiness）在学术与艺术创新中的机制表达。
 
 > [!claim] 核心判断
 > 创造性个体的职业生涯由长期的基线表现（$\Gamma_0$）与短暂的激发爆发状态（$\Gamma_H$）两阶段非平稳交替所构成。在常规阶段，学者产出服从基线水平；而在进入持续数年的爆发期（[[Hot Streak]]）时，其成果被引期望大幅提升至 $\Gamma_H$，使生涯前列的代表作在短时间内密集[[Emergence|涌现]]（顶尖两部成果前后紧邻发表的概率达随机预期的 1.57 倍）。由于爆发期在全生涯中的启动时机随机分布，宏观上依然保持了整体代表作时序的随机影响规律，实现了局域时间相关性与全域时序随机性的数理统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–77)]]
@@ -59,8 +68,8 @@ updated: 2026-10-30
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 科学学家刘路（Lu Liu）、王大顺（Dashun Wang）与复杂网络学者艾伯特－拉斯洛·巴拉巴西（Albert-László Barabási）等人在 2018 年发表于《自然》（*Nature*）的封面级论著《艺术、文化与科学职业生涯中的爆发期》（Hot Streaks in Artistic, Cultural, and Scientific Careers）中系统提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–75)]]
-> - **原初问题** 传统心理学在 1980 年代将体育与赌博中的“手感发热”（Hot Hand）定性为小数定律引发的认知错觉（Gilovich et al., 1985）；而科学学在确立[[Random Impact Rule|随机影响规律]]后，推论认为学者产出代表作后应当由于均值回归而回归平庸。然而科学史中重大成果往往连环涌现，学界急需厘清代表作之间是否存在真实的时序关联。
+> - **提出者与原始文本** 科学学家[[Lu Liu|刘路]]（Lu Liu）、[[Dashun Wang|王大顺]]（Dashun Wang）与复杂网络学者[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2018 年发表于《自然》（*Nature*）的封面级论著《艺术、文化与科学职业生涯中的爆发期》（Hot Streaks in Artistic, Cultural, and Scientific Careers）中系统提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–75)]]
+> - **原初问题** 传统心理学在 1980 年代将体育与赌博中的“手感发热”（[[Hot Hand Fallacy|Hot Hand]]）定性为小数定律引发的认知错觉（Gilovich et al., 1985）；而科学学在确立[[Random Impact Rule|随机影响规律]]后，推论认为学者产出代表作后应当由于均值回归而回归平庸。然而科学史中重大成果往往连环涌现，学界急需厘清代表作之间是否存在真实的时序关联。
 > - **理论资源与材料** 汇集横跨三个领域的长周期个体全记录：20,040 位涵盖多学科的科学家（基于引文记录）、3,480 位现代与当代艺术家（基于苏富比与佳士得拍卖成交价）以及 6,233 位电影导演（基于 IMDb 评分与票房）。
 > - **形成路径** 研究团队计算个体最佳论著 $N^\ast$ 与次佳论著 $N^{\ast\ast}$ 的归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast}) = P(N^\ast, N^{\ast\ast}) / [P(N^\ast)P(N^{\ast\ast})]$，发现矩阵对角线元素显著大于 1。研究团队随后构建爆发期模型，在学者固有对数引文期望基线 $\Gamma_0$ 基础上引入局部激发状态 $\Gamma_H$，以参数化算法从实测数据中拟合出爆发期的发生频次、持续窗口与幅度。
 
@@ -120,8 +129,8 @@ updated: 2026-10-30
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 识别具有长周期连续学术发表、艺术拍卖或影视导演职业生涯的突破窗口，评估重大科研成果的时序成簇规律。
-> - **成立条件** 要求个体具有足够长的连续产出历史（通常需 20 年以上）；依赖高信度的消歧引文记录或连续的市场表现指标。
-> - **解释不足** 模型主要从现象学层面刻画了激发态 $\Gamma_H$ 的跳跃与衰减，未能完全还原神经认知或心理动机层面的微观生物学生成机制；大科学合作项目中的多学者交互效应尚待深入建模。
+> - **成立条件** 要求个体具有足够长的连续产出历史（通常需 20 年以上）；依赖高[[Reliability|信度]]的消歧引文记录或连续的市场表现指标。
+> - **解释不足** 模型主要从[[Phenomenology|现象学]]层面刻画了激发态 $\Gamma_H$ 的跳跃与衰减，未能完全还原神经认知或心理动机层面的微观生物学生成机制；[[Big Science|大科学]]合作项目中的多学者[[Interaction Effect|交互效应]]尚待深入建模。
 > - **转化困难** 无法实现对青年学者未来何时开启爆发期的先验精准预测；对处于爆发期当中的学者，难以在其尚未结束时即时识别其终止节点。
 > - **不能直接推出** 不能将模型机械用于论证未经历爆发期即为平庸，更不能作为青年人才长聘考核的硬性筛除依据。
 

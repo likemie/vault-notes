@@ -11,7 +11,7 @@ aliases:
 summary: "知识建构理论与学习科学中的核心协作模式：学生打破固定分组与预设脚本，根据涌现的兴趣、认知需求与探究线索自发组队与流动重组，以通透边界促进全班知识共享与深度建构"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Authentic Science Practices]]"
   - "[[Metacognition]]"
   - "[[Creativity]]"
+  - "[[Collective Intelligence]]"
   - "[[Discourse]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-29
 > - **通透的小组边界（Permeable Boundaries）** 小组并非封闭壁垒，成员在深耕本组议题的同时，可随时向其他小组提供线索或寻求支持。
 > - **自组织的动态流动（Self-Organized Mobility）** 当某个问题得到解决或发现新的跨领域谜团时，学生能够自主迁移动线并组建新团队。
 > - **自发突现的[[Role-playing|角色扮演]]（Spontaneous Role Taking）** 学生无需按照固定剧本扮演角色，而是根据研讨中的认知缺口即时承担提问者、建模者、批判者或综合者功能（Heinimäki et al., 2021）。
-> - **跨界相遇的意外创生（Serendipity of Encounters）** 学生在不同专题领域的穿梭流动创造了大量偶发性思维碰撞，使局部的科学突破迅速转化为全班共享的集体智慧。
+> - **跨界相遇的意外创生（Serendipity of Encounters）** 学生在不同专题领域的穿梭流动创造了大量偶发性思维碰撞，使局部的科学突破迅速转化为全班共享的[[Collective Intelligence|集体智慧]]。
 
 > [!logic-map]- 要素关系
 > ```mermaid

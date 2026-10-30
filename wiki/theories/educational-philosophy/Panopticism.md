@@ -10,7 +10,7 @@ aliases:
 summary: "源于边沁建筑构想并由福柯系统阐述的微观权力理论，指出权力依托可见性的结构性非对称与潜在注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 31
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,13 +23,18 @@ tags:
   - theory/post-structuralism
 related_concepts:
   - "[[Critical Pedagogy]]"
+  - "[[Open Method of Coordination]]"
   - "[[Visible Learning]]"
   - "[[Performance Indicators]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Self-control]]"
   - "[[Bildung]]"
+  - "[[Peer Assessment]]"
   - "[[Performativity]]"
   - "[[Learning Intentions]]"
+  - "[[Governing by Numbers]]"
+  - "[[Commensuration]]"
+  - "[[Academic Attrition]]"
   - "[[Research Question]]"
   - "[[Pedagogical Subject]]"
   - "[[Bureaucracy]]"
@@ -49,16 +54,19 @@ related_instruments:
 related_persons:
   - "[[Ewald Terhart]]"
 related_facts:
-  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[EU]]"
   - "[[PISA]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[OECD]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
-  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
 confidence: high
 status: active
 created: 2026-10-16
@@ -87,10 +95,10 @@ updated: 2026-10-30
 > [!dev-timeline] 理论版本与贡献
 > - **1975年 — 规训全景奠基** Foucault 系统论证全景敞视建筑作为规训权力典范模型的空间拓扑、去个体化运作与心理内化机制。
 > - **1992年 — [[Societies of Control|控制社会]]扩展** Gilles Deleuze 发表《控制社会后记》，指出随着数字信息网络的发展，封闭机构的全景模具逐渐让位于无边界网络中的流动数据调制（Modulation）。
-> - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构欧盟教育与培训政策，揭示开放协调法、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
+> - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构[[EU|欧盟]]教育与培训政策，揭示[[Open Method of Coordination|开放协调法]]、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - **2011年 — 课堂双向可见性解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）将全景敞视理论用于解构《[[Visible Learning|可见的学习]]》中的“眼睛”隐喻，揭示双向可见性如何构筑现代微观全景规训。
 > - **2019–2020年 — 数字行政全景与组织病理** Golovchin、McKnight & Whitburn 与 Johnson & Janzen 将全景敞视拓展至教育测验软件（[[Assessment Tools for Teaching and Learning|asTTle]]）与[[Performance Indicators|绩效指标]]治理，批判“人人相互注视”的新行政全景敞视及其诱发的报表异化。
-> - **2021年 — 跨国测评的宏观全景凝视** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 揭示 PISA 建立起现代全球治理的全景敞视机制，通过远距离的数据可见性与国际排名凝视主权国家与学校，将受测个体塑造为顺应全球竞争需要的可教的身体。（p. 423）
+> - **2021年 — 跨国测评的宏观全景凝视** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 揭示 [[PISA]] 建立起现代全球治理的全景敞视机制，通过远距离的数据可见性与国际排名凝视主权国家与学校，将受测个体塑造为顺应全球竞争需要的可教的身体。（p. 423）
 
 ---
 
@@ -116,22 +124,22 @@ updated: 2026-10-30
 > [!theory-proposition] 命题二｜双向可见性与学生中心修辞遮蔽了教育现场微观不对称的支配关系
 > **解释** 《[[Visible Learning|可见的学习]]》倡导“教师通过学生眼睛看教学、学生成为自身教师”的双向可见性隐喻。德语教学论学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）指出，这种互看互见的互动网络实质上是将传统的外部行政统治转化为内化、去中心化的微观全景监控体系。以“学生为中心”的修辞遮蔽了课堂内部固有的师生权力不对称，同时排除了对知识实质教化（[[Bildung]]）的批判审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 429–431)]]
 >
-> **应用实例** 课堂中要求学生依据预设量表展开高频“自我打分”与“同伴互评”，使学生主动担当起审查自身与同伴学习行为的监视执行者。
+> **应用实例** 课堂中要求学生依据预设量表展开高频“自我打分”与“[[Peer Assessment|同伴互评]]”，使学生主动担当起审查自身与同伴学习行为的监视执行者。
 
 > [!theory-proposition] 命题三｜数字化指标与报表监控构建人人相互注视的新行政全景敞视
-> **解释** 当代教育治理将全景敞视技术从实体建筑迁移至云端软件与数据指标系统。教学评价软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、量化排位与在线打卡系统构建了“人人相互注视”的网络。教师被迫将大量精力投入数据生产与表单填写中以自证绩效合规，引发深刻的报表异化与表演性危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 118–122)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 44–47)]]
+> **解释** 当代教育治理将全景敞视技术从实体建筑迁移至云端软件与数据指标系统。教学评价软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、量化排位与在线打卡系统构建了“人人相互注视”的网络。教师被迫将大量精力投入数据生产与表单填写中以自证绩效合规，引发深刻的报表异化与[[Performativity|表演性危机]]。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 118–122)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 44–47)]]
 >
 > **应用实例** 澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 策略强制规定教师必须在上课铃响前在白板上端正写出当堂[[Learning Intentions|学习意图]]以备巡视抽检；俄罗斯 79% 的中学教师深陷日常官僚报表负担，严重挤压教学本职。
 
 > [!theory-proposition] 命题四｜跨国测评通过远距离数据可见性与排名凝视将学校与个体塑造为可教的身体
-> **解释** 在超国家尺度上，全景敞视技术与数字治理深度融合。大规模跨国测评通过去情境化的可通约数据、能力常模分布与国家排行榜，构建起覆盖主权国家的全球全景敞视架构。这种远距离的数据可见性将参测国、学校及受测个体置于全球公众与决策者的持续凝视之下，驱使各参与主体在名次竞争的焦虑中主动展开自我改造，生产出适应全球经济竞争需要的可教的身体（Tutorable Body）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 423)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 6–8)]]
+> **解释** 在超国家尺度上，全景敞视技术与[[Governing by Numbers|数字治理]]深度融合。大规模跨国测评通过去情境化的可[[Commensuration|通约]]数据、能力常模分布与国家排行榜，构建起覆盖主权国家的全球全景敞视架构。这种远距离的数据可见性将参测国、学校及受测个体置于全球公众与决策者的持续凝视之下，驱使各参与主体在名次竞争的焦虑中主动展开自我改造，生产出适应全球经济竞争需要的可教的身体（Tutorable Body）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 423)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 6–8)]]
 >
-> **应用实例** 经合组织发布 PISA 国际排名后，排名下滑的国家往往在全国范围内发起针对薄弱学校的问责审计，促使一线教师主动对齐国际能力量表开展针对性集训，展现了跨国数字凝视对国内教学实践与受训个体的深层规训。
+> **应用实例** [[OECD|经合组织]]发布 PISA 国际排名后，排名下滑的国家往往在全国范围内发起针对薄弱学校的问责审计，促使一线教师主动对齐国际能力量表开展针对性集训，展现了跨国数字凝视对国内教学实践与受训个体的深层规训。
 
 > [!theory-proposition] 命题五｜超国家软法治理通过整合凝视、绩效与治理技术构筑全景敞视监控网络
-> **解释** 在超国家区域一体化进程中，当宪制条约阻断了直接的立法强制权时，全景敞视主义演进为一种依托软法规制的高度精巧的监视建筑。帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，欧盟委员会通过开放协调法（OMC），将凝视技术（指标常设工作组的统一标准、数据强光照射）、绩效技术（基准线比对、记分牌排名、最佳实践转移）与治理技术（同行评审与自我评估）有机结合。这种技术网络使各成员国确信自身始终处于超国家机构与其他成员国的横向注视之下；在缺乏任何法律强制制裁的表象下，各国主动将外部量化指标内化为本国教育规划的最高法则，达成了全景敞视下的国家自我规训与政策趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
+> **解释** 在超国家区域一体化进程中，当宪制条约阻断了直接的立法强制权时，全景敞视主义演进为一种依托软法规制的高度精巧的监视建筑。帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，[[European Commission|欧盟委员会]]通过开放协调法（OMC），将凝视技术（指标常设工作组的统一标准、数据强光照射）、绩效技术（基准线比对、记分牌排名、最佳实践转移）与治理技术（同行评审与自我评估）有机结合。这种技术网络使各成员国确信自身始终处于超国家机构与其他成员国的横向注视之下；在缺乏任何法律强制制裁的表象下，各国主动将外部量化指标内化为本国教育规划的最高法则，达成了全景敞视下的国家自我规训与政策趋同。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
 >
-> **应用实例** 欧盟设立“早期离校率低于 10%”等五大核心基准线，依托常设指标工作组常态化公布成员国达标进展；即便布鲁塞尔无权下达行政处罚，南欧与中东欧成员国为规避排名落后的声誉羞辱，自发在全国范围内按照欧盟指标重组本国中学教育体制。
+> **应用实例** 欧盟设立“[[Academic Attrition|早期离校]]率低于 10%”等五大核心基准线，依托常设指标工作组常态化公布成员国达标进展；即便布鲁塞尔无权下达行政处罚，南欧与中东欧成员国为规避排名落后的声誉羞辱，自发在全国范围内按照欧盟指标重组本国中学教育体制。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者，著有《�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 54
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -21,8 +21,8 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
-  - "[[Champ]]"
   - "[[Habitus]]"
+  - "[[Champ]]"
   - "[[Cultural Capital]]"
   - "[[Language Skills]]"
   - "[[Normal School]]"
@@ -36,46 +36,47 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Liberalization]]"
   - "[[Interaction Effect]]"
+  - "[[Paradigm]]"
+  - "[[Global Educational Policy Field]]"
   - "[[Epistemological Vigilance]]"
-  - "[[Non-monetary Competition]]"
-  - "[[School Leadership]]"
   - "[[Discourse]]"
-  - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
   - "[[School Choice]]"
-  - "[[Peidu]]"
+  - "[[School Leadership]]"
   - "[[Performativity]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Paradigm]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Self Explanation]]"
+  - "[[Creative Self-Efficacy]]"
   - "[[Determinism]]"
+  - "[[Scientific Method]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
 related_theories:
-  - "[[Neo-feudalism in Higher Education]]"
-  - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
   - "[[Phenomenology]]"
-  - "[[Global Educational Policy Field]]"
+  - "[[Critical Theory]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
   - "[[Descriptive Analysis]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Claude Lévi-Strauss]]"
-  - "[[Fazal Rizvi]]"
-  - "[[Bob Lingard]]"
-  - "[[Bruno Latour]]"
   - "[[Yajun Zheng]]"
+  - "[[Bob Lingard]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bruno Latour]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
-  - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 related_facts:
   - "[[CNRS]]"
@@ -90,7 +91,7 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国社会学家、人类学家、法兰西学院教授。20 世纪后半叶最具影响力的社会理论家之一。
-> - **核心角色** 创立了以习性、[[Champ|场域]]和资本为支点的关系性实践社会学，将教育系统去神圣化，深刻揭示了学校在阶级再生产、符号暴力和阶层分化中的核心中介作用。
+> - **核心角色** 创立了以[[Habitus|习性]]、[[Champ|场域]]和资本为支点的关系性实践社会学，将教育系统去神圣化，深刻揭示了学校在阶级再生产、符号暴力和阶层分化中的核心中介作用。
 > - **代表贡献** 创立了习性（[[Habitus]]）、场域（Field）以及[[Cultural Capital|文化资本]]（Cultural Capital）等概念工具。
 
 > [!citation-card] 学校教育对主导阶级文化资本的隐性要求与专断再生产
@@ -160,10 +161,10 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底改写了战后结构主义与功利主义的对抗格局，其习性、资本与[[Champ|场域]]框架成为教育社会学、文化社会学与批判政策分析的基础[[Paradigm|范式]]语言；后继学者（Lingard & Rawolle, 2011）将其延伸至超国家层面的[[Global Educational Policy Field|全球教育政策场域]]研究。
+> - **理论路径** 彻底改写了战[[Post-structuralism|后结构主义]]与功利主义的对抗格局，其习性、资本与[[Champ|场域]]框架成为教育社会学、文化社会学与批判政策分析的基础[[Paradigm|范式]]语言；后继学者（Lingard & Rawolle, 2011）将其延伸至超国家层面的[[Global Educational Policy Field|全球教育政策场域]]研究。
 > - **方法路径** 主张超越量化实证与质性[[Phenomenology|现象学]]的二元对立，将多维对应分析（MCA）与深度[[Ethnography|民族志]]结合，为社会空间的关系性建模提供了实证模版；倡导以[[Epistemological Break|认识论断裂]]和[[Epistemological Vigilance|认识论警觉]]开展反思性研究。
 > - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立跨国教育仲裁权威。
-> - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与直觉依赖模式）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
+> - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构[[OECD|经合组织]]将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
@@ -177,30 +178,30 @@ updated: 2026-10-30
 ---
 
 > [!citation-card] 里兹维与林加德论布迪厄对新自由主义全球化意识形态工程的政治解构
-> 经合组织等国际组织将全球化本体化与物化为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进经济自由化意识形态工程的政治属性；这种修辞实现了从描述性分析向规范性、操演性概念的滑移，以“知识经济”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
+> 经合组织等国际组织将全球化本体化与物化为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进经济自由化意识形态工程的政治属性；这种修辞实现了从[[Descriptive Analysis|描述性分析]]向规范性、[[Performativity|操演性]]概念的滑移，以“[[Knowledge-Based Economy|知识经济]]”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 >
 > *...the dominant discourse of globalization is an ideological project that aims to create a global free market... It presents globalization as a fate, an inevitability, which conceals its political and ideological nature.*
 
-> [!citation-card] 郑雅君论布迪厄文化资本与精英大学隐性再生产机制
-> 家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出目标掌控模式，主动变现文化资本；弱势家庭学生则陷入直觉依赖模式，面临文化脱嵌与文化迷失。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 24–28)]]
+> [!citation-card] [[Yajun Zheng|郑雅君]]论布迪厄文化资本与精英大学隐性再生产机制
+> 家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出[[Goal-Controlled Mode|目标掌控模式]]，主动变现文化资本；弱势家庭学生则陷入直觉依赖模式，面临[[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 24–28)]]
 
 ---
 
 > [!person-network] 关系网络
 > - **学术同道与合作** Jean-Claude Passeron — 关键法兰西学术同行，合著多本教育再生产核心著作；Loïc Wacquant — 芝加哥大学社会学家，合著阐述[[Reflexivity|反思性]]社会学方法。
-> - **学生／继承者** 鲍勃·林加德（[[Bob Lingard]]）、法扎尔·里兹维（[[Fazal Rizvi]]）、肖恩·罗沃尔（Shaun Rawolle）— 拓展全球教育政策场域分析；郑雅君（[[Yajun Zheng]]）— 拓展中国高等教育习性变现研究。
-> - **批评者／论敌** Luc Boltanski — 曾为其研究室核心助手，后脱离再生产[[Paradigm|范式]]，创立强调行动者日常评判能力的[[Pragmatic Paradigm|实用主义]]社会学；[[Bruno Latour]] — 科学技术论学者，批评其采取了剥夺被调查者自我解释权的限制性姿态；Jacques Rancière — 哲学家，批判再生产学说在逻辑上无限确认了支配的不可避免，消解了底层自我解放的能动空间。
-> - **机构／运动／项目** 法兰西学院（Collège de France）、欧洲社会学中心（Centre de sociologie européenne, CSE）、《社会科学研究学术活动》（ARSS）— 实践社会学与反思性研究的制度阵地。
+> - **学生／继承者** [[Bob Lingard|鲍勃·林加德]]（[[Bob Lingard]]）、[[Fazal Rizvi|法扎尔·里兹维]]（[[Fazal Rizvi]]）、肖恩·罗沃尔（Shaun Rawolle）— 拓展全球教育政策场域分析；郑雅君（[[Yajun Zheng]]）— 拓展中国高等教育习性变现研究。
+> - **批评者／论敌** Luc Boltanski — 曾为其研究室核心助手，后脱离再生产[[Paradigm|范式]]，创立强调行动者日常评判能力的[[Pragmatic Paradigm|实用主义]]社会学；[[Bruno Latour]] — 科学技术论学者，批评其采取了剥夺被调查者[[Self Explanation|自我解释]]权的限制性姿态；Jacques Rancière — 哲学家，批判再生产学说在逻辑上无限确认了支配的不可避免，消解了底层自我解放的能动空间。
+> - **机构／运动／项目** 法兰西学院（Collège de France）、欧洲社会学中心（Centre de sociologie européenne, [[Creative Self-Efficacy|CSE]]）、《社会科学研究学术活动》（ARSS）— 实践社会学与反思性研究的制度阵地。
 
 ---
 
 > [!debates] 学术争议
 >
-> > [!axis] 再生产的结构决定论与主体能动性张力
+> > [!axis] 再生产的结构[[Determinism|决定论]]与主体能动性张力
 > > 围绕教育系统的阶级复制功能，部分批判学者与行动者指责布迪厄的理论建构偏向结构预先决定，若学校实质上是阶级结构的复制机器，则微观课程改革与主体反抗将面临解释力困境。
 > >
 > > - **行动派教育学者** 批评其削弱了民主化学校教育改善社会公平的能动信念。
-> > - **反思社会学派学者** 指出揭示客观支配结构旨在为理性变革提供经验科学依据，抵抗消极的宿命论预设。
+> > - **反思社会学派学者** 指出揭示客观支配结构旨在为理性变革提供[[Scientific Method|经验科学]]依据，抵抗消极的宿命论预设。
 >
 > > [!axis] 法国中心主义的场域预设与跨文化适用边界
 > > 批评者指出其对高雅文化品位与阶级排斥关联的经验分析高度依赖 1960 年代法国资产阶级的特殊情境，在英美多元阶层文化与非西方县域情境中，高雅文化消费并不必然能够直接折算为学业与社会地位垄断筹码。
@@ -215,7 +216,7 @@ updated: 2026-10-30
 > - 马塞尔·高谢 (2000) — 批评其思想带有粗糙的决定论色彩，未能合理解释现代社会的多元互动与自主运转机制。
 
 > [!warning] 未解问题与边界
-> 习性的具身化特性使其在面对急剧变迁、数字媒介和高度碎片化的当代社会时，面临解释力稀释的挑战。多重场域下的习性分裂、习性错置如何影响行动者的日常决策，依然是目前批判社会学研究的开放议题。同时，其高度密集、复句重叠的文风与英美实证主义流派对批判理论的排斥，也增加了其分析框架在跨学科对话中的沟通成本。
+> 习性的具身化特性使其在面对急剧变迁、数字媒介和高度碎片化的当代社会时，面临解释力稀释的挑战。多重场域下的习性分裂、习性错置如何影响行动者的日常决策，依然是目前批判社会学研究的开放议题。同时，其高度密集、复句重叠的文风与英美[[Positivism|实证主义]]流派对[[Critical Theory|批判理论]]的排斥，也增加了其[[Analytic Framework|分析框架]]在跨学科对话中的沟通成本。
 
 ---
 

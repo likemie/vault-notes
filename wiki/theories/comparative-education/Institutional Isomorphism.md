@@ -9,7 +9,7 @@ aliases:
 summary: "组织社会学新制度主义理论，阐明处于同一场域中的组织因追求制度合法性与采纳合理化神话，通过强制型、模仿型与规范型三种机制走向结构与行为模式的系统性趋同。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -22,42 +22,42 @@ related_concepts:
   - "[[Champ]]"
   - "[[Determinism]]"
   - "[[Rationalized Myth]]"
-  - "[[Cognitive Decoupling]]"
-  - "[[Corporate Education]]"
-  - "[[Corporate University]]"
-  - "[[Industry Affiliate Program]]"
-  - "[[International Education]]"
-  - "[[Policy Borrowing]]"
-  - "[[Competitiveness]]"
-  - "[[Geopolitics]]"
-  - "[[Knowledge Production]]"
-  - "[[Evidence Era]]"
-  - "[[Initial Teacher Training]]"
-  - "[[Epistemic Stances]]"
-  - "[[Ontology]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Technical Rationality]]"
-  - "[[Epistemology]]"
-  - "[[Doxa]]"
-  - "[[Otherhood]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Bureaucracy]]"
+  - "[[Causality]]"
+  - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
+  - "[[Corporate Education]]"
+  - "[[Geopolitics]]"
+  - "[[Institutional Mimesis]]"
+  - "[[Cognitive Decoupling]]"
+  - "[[Teacher Qualifications]]"
+  - "[[Industry Affiliate Program]]"
+  - "[[Corporate University]]"
+  - "[[Competitiveness]]"
+  - "[[Knowledge Production]]"
+  - "[[Research Question]]"
+  - "[[Initial Teacher Training]]"
+  - "[[Demonstration Effect]]"
+  - "[[Value Neutrality]]"
+  - "[[Global Testing Culture]]"
 related_theories:
   - "[[Rational Action Theory]]"
   - "[[World Society Theory]]"
+  - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Elite Interview]]"
+  - "[[Process Tracing]]"
 related_instruments: []
 related_persons:
-  - "[[Stanford School]]"
+  - "[[Max Weber]]"
   - "[[John W. Meyer]]"
 related_facts:
   - "[[Department for Education]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[Ofsted]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[ASEAN]]"
+  - "[[EU]]"
   - "[[PISA]]"
   - "[[Chartered College of Teaching]]"
 related_arguments:
@@ -65,6 +65,7 @@ related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: draft
 created: 2026-05-18
@@ -91,16 +92,16 @@ updated: 2026-10-30
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 保罗·迪马吉奥与沃尔特·鲍威尔（Paul J. DiMaggio & Walter W. Powell, 1983）在《美国社会学期刊》发表《铁笼再访：组织场域中的制度同构与集体理性》（*The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields*），奠定制度同构理论基石。
-> - **原初问题** 韦伯曾认为科层官僚制因具有技术效率而像“铁笼”般席卷现代社会。但在 20 世纪后期的后工业与公共部门中，许多组织在技术效率低下或因果关系模糊的情况下，依然表现出惊人相似的正式官僚架构，传统理性效率模型无法解释这一同质化现象。
-> - **理论资源与材料** 吸收马克斯·韦伯的合理化官僚制理论、迈耶与罗恩（Meyer & Rowan, 1977）关于组织正式结构反映“理性神话与仪式”的新制度主义洞察，以及对艺术博物馆、出版业和高校行政结构的历史与实证考察。
-> - **形成路径** 提出者将分析单位从单个组织转向“组织场域（organizational field）”，提炼出驱动组织趋同的三重动力机制——政治规制与资源依赖产生的强制压力、目标模糊与不确定性引发的模仿行为，以及专业化网络与职业共识促成的规范要求，完整构建起制度同构解释机制。
+> - **原初问题** 韦伯曾认为[[Bureaucracy|科层官僚制]]因具有技术效率而像“铁笼”般席卷现代社会。但在 20 世纪后期的后工业与公共部门中，许多组织在技术效率低下或[[Causality|因果关系]]模糊的情况下，依然表现出惊人相似的正式官僚架构，传统理性效率模型无法解释这一同质化现象。
+> - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的合理化[[Tullock's Bureaucracy Theory|官僚制理论]]、迈耶与罗恩（Meyer & Rowan, 1977）关于组织正式结构反映“理性神话与仪式”的新制度主义洞察，以及对艺术博物馆、出版业和高校行政结构的历史与实证考察。
+> - **形成路径** 提出者将[[Unit of Analysis|分析单位]]从单个组织转向“组织场域（organizational field）”，提炼出驱动组织趋同的三重动力机制——政治规制与资源依赖产生的强制压力、目标模糊与不确定性引发的模仿行为，以及专业化网络与职业共识促成的规范要求，完整构建起制度同构解释机制。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1977年 — 制度化神话奠基** [[John W. Meyer|约翰·迈耶]]与布赖恩·罗恩（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth|合理化神话]]。
 > - **1983年 — 三大同构机制系统确立** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ|场域]]分析[[Paradigm|范式]]。
 > - **1988年 — 制度创业与能动性反思** DiMaggio (1988) 引入“制度创业者（institutional entrepreneurs）”概念，反思同构理论过分强调环境决定论的倾向，探讨行动者如何调动资源创建或操纵制度规则。
 > - **2017年 — 高等教育科研网络同构验证** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）以全美大学微电子研究中心为实证，揭示高技术重资产背景下，各大学通过先行者标杆跟踪、模式主动示范以及教员与博士生跨校流动（Personnel Mobility），完成组织形态与治理规范的制度同构进程。（p. 297）
-> - **2021–2022年 — 跨国企业教育与跨国测评同构深化** [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示跨国公司企业教育中的权威动员机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的规范与强制同构机制；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 阐明跨国测评文化如何驱动主权国家主动接纳标准化现代教育模型并诱发制度脱耦。
+> - **2021–2022年 — 跨国[[Corporate Education|企业教育]]与跨国测评同构深化** [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示跨国公司企业教育中的权威动员机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的规范与强制同构机制；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 阐明跨国测评文化如何驱动主权国家主动接纳标准化现代教育模型并诱发制度脱耦。
 
 ---
 
@@ -120,19 +121,19 @@ updated: 2026-10-30
 > [!theory-proposition] 命题一｜强制型同构源于资源依赖关系与外部政治权威施加的法定规制要求
 > **解释** 组织在生存中高度依赖外部政治权威（如立法机关、教育行政部门）或垄断性资源提供者。当违背外部规制将面临丧失办学资质、失去生源拨款或遭受法律制裁的高昂制度成本时，组织倾向于调整内部结构以完全符合外部法定要求，促成场域内组织形态与管理流程的制度趋同。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 183)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 90–93)]]
 >
-> **应用实例** [[Department for Education|英国教育部]]通过法定教师资质标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education|CATE]] 与 [[Ofsted]] 督导审查，强制大学与教师培训机构转型为校本技能与循证合规模式，各培训机构为了确保办学资质与拨款而建立高度一致的质量监控体系；在跨国企业教育中，微软（Microsoft）利用操作系统市场的技术排他性，强制上下游生态伙伴采纳其统一的技术认证培训体系。
+> **应用实例** [[Department for Education|英国教育部]]通过法定[[Teacher Qualifications|教师资质]]标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education|CATE]] 与 [[Ofsted]] 督导审查，强制大学与教师培训机构转型为校本技能与循证合规模式，各培训机构为了确保办学资质与拨款而建立高度一致的质量监控体系；在跨国企业教育中，微软（Microsoft）利用操作系统市场的技术排他性，强制上下游生态伙伴采纳其统一的技术认证培训体系。
 
 > [!theory-proposition] 命题二｜模仿型同构是不确定性环境下以声誉标杆组织与合理化神话为参照的标准反应
 > **解释** 当组织技术面临严重模糊性、实践因果机制不明或政策未来走向充满高度不确定性时，组织难以依靠纯粹的理性计算做出最优决策。模仿场域内被公认为成功、具有现代性声望或占据领先地位的标杆组织，能以较低的探索成本为组织抵御外部质疑并赢得制度合法性，引发跨组织与跨国界的结构复制。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 184)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292, 297)]]
 >
-> **应用实例** 全美大学微电子研究中心在面临微细加工装备成本暴涨与技术路径不确定性时，康奈尔大学国家亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）主动向加州理工等 40 余所院校输出设计蓝本，推动同类科研中心在[[Industry Affiliate Program|产业联盟计划]]（CAP）等组织结构上展开广泛模仿；众多跨国公司普遍采用源自美国的“[[Corporate University|企业大学]]”称谓构建内部培训架构以获取学术声誉；在跨区域治理中，东盟与非盟为提升一体化公信力，往往以欧盟为模板开展[[Institutional Mimesis|制度拟态]]；在教育政策领域，英格兰政策制定者面对提升国家竞争力的焦虑，密集模仿 [[PISA]] 高表现国家的最佳实践。
+> **应用实例** 全美大学微电子研究中心在面临微细加工装备成本暴涨与技术路径不确定性时，康奈尔大学国家亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）主动向加州理工等 40 余所院校输出设计蓝本，推动同类科研中心在[[Industry Affiliate Program|产业联盟计划]]（CAP）等组织结构上展开广泛模仿；众多跨国公司普遍采用源自美国的“[[Corporate University|企业大学]]”称谓构建内部培训架构以获取学术声誉；在跨区域治理中，[[ASEAN|东盟]]与非盟为提升一体化公信力，往往以[[EU|欧盟]]为模板开展[[Institutional Mimesis|制度拟态]]；在教育政策领域，英格兰政策制定者面对提升[[Competitiveness|国家竞争力]]的焦虑，密集模仿 [[PISA]] 高表现国家的最佳实践。
 
 > [!theory-proposition] 命题三｜规范型同构由专业化网络、人员跨组织流动与同行正当性标准共同驱动
 > **解释** 大学专业教育、跨国行业协会与专业咨询网络为特定领域的从业者提供了标准化的认知图式与职业规范。专业人员在跨组织流动中将相同的专业理念、机台操作规程与学术准则随身带入新机构，使专业共同体确立的行业规范演进为全场域通行的实践正当性标准，推动组织结构自发对齐。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 297)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 93–94)]]
 >
 > **应用实例** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，大学微电子研究中心的实践之所以快速趋同，关键机制在于教员与博士毕业生在不同大学与科研中心之间的持续流动，前康奈尔与加州理工学者将机台计费规范、洁净室运行准则随身移植至新任职大学；跨国培训项目普遍寻求英国 CPD 认证服务或欧洲管理发展基金会（EFMD）同行评审以确立专业标准；英国政府扶植[[Chartered College of Teaching|特许教学学院]]研制教师专业标准，通过同行共同体将循证规程内化为教师专业伦理。
 
-> [!theory-proposition] 命题四｜全球尺度上的制度同构内嵌着知识生产与地缘政治的不对称权力结构
+> [!theory-proposition] 命题四｜全球尺度上的制度同构内嵌着[[Knowledge Production|知识生产]]与地缘政治的不对称权力结构
 > **解释** 当模仿型与规范型同构跨越国界在世界范围扩散时，往往伴随着深层的[[Geopolitics|地缘政治]]与[[Knowledge Production|知识生产]]不对称。占据中心地位的发达国家跨国企业或国际组织将自身的地方性知识编码为普适的合理化脚本，外围国家与地方组织在采纳这些规范时，常常面临制度修辞与本土实践的脱耦，并在无形中强化了中心-边缘的依赖关系。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 194–195)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 419)]]
 >
 > **应用实例** 在跨国企业教育中，美欧跨国企业将西方企业大学管理规范向全球南方单向输出，使本土员工在接受技能培训的同时内化了跨国资本的治理逻辑；各主权国家为了获取现代性合法地位参与 PISA 测评并借用外部政策，造成国家正式政策修辞与学校实际教学之间的深层脱节。
@@ -154,7 +155,7 @@ updated: 2026-10-30
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 处于同一行业或制度环境中的组织为何在缺乏技术效率优势时依然走向形态趋同；教育改革政策与新型办学模式如何在跨组织、跨国界网络中扩散；组织如何通过形式采纳应对外部合法性压力。
+> - **[[Research Question|研究问题]]** 处于同一行业或制度环境中的组织为何在缺乏技术效率优势时依然走向形态趋同；教育改革政策与新型办学模式如何在跨组织、跨国界网络中扩散；组织如何通过形式采纳应对外部合法性压力。
 > - **分析对象与单位** 分析对象是特定组织场域（如教师教育体系、高校科研平台、跨国企业培训体系）；分析单位是场域内部的组织结构、管理规程、考核标准以及跨组织互动关系。
 > - **需要的材料** 政府规制法案与准入资质细则；标杆组织对外公开的制度文本与章程；行业协会认证标准与专业伦理守则；教员与专业人才流动档案；组织内部执行记录与访谈。
 > - **解释目标** 识别推动组织形态趋同的强制、模仿与规范动力源，揭示合理化神话在赋予组织合法性中的功能，并审视正式结构与实际运作之间的仪式化脱耦。
@@ -178,9 +179,9 @@ updated: 2026-10-30
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 受到高度监管的公共部门（如中小学、大学、医院）及具有成熟行业协会与标杆机构的组织场域。
-> - **成立条件** 场域内存在明确的资源依赖关系、畅通的信息沟通渠道，或具有强大声誉示范效应的权威机构。
+> - **成立条件** 场域内存在明确的资源依赖关系、畅通的信息沟通渠道，或具有强大声誉[[Demonstration Effect|示范效应]]的权威机构。
 > - **解释不足** 对完全竞争市场中依靠底层技术突破实现差异化生存的创新机制解释力有限；容易低估微观行动者的反思能动性与日常抵制技巧。
-> - **转化困难** 强制、模仿与规范三种机制在经验现实中往往相互交织重叠，精确区分某一组织变革的主导同构机制需要细致的历史过程追踪。
+> - **转化困难** 强制、模仿与规范三种机制在经验现实中往往相互交织重叠，精确区分某一组织变革的主导同构机制需要细致的历史[[Process Tracing|过程追踪]]。
 > - **不能直接推出** 不能仅依据组织结构形态趋同就推断其生产效率或教育质量必然得到实质提升，也不能假定趋同消除了组织内部的利益博弈。
 
 ---
@@ -194,14 +195,14 @@ updated: 2026-10-30
 > > - **制度创业与能动性批判** 指出组织行动者（制度创业者）能够策略性操纵制度环境，利用脱耦维护内部自主性。（DiMaggio, 1988）
 >
 > > [!axis] 地缘政治与全球不平等维度的缺失
-> > 争论跨国同构过程是否具有价值中立性。
+> > 争论跨国同构过程是否具有[[Value Neutrality|价值中立]]性。
 > >
 > > - **普遍制度化立场** 将同构视为组织走向合理化与成熟的普遍演进过程。
 > > - **批判全球政治经济学立场** 强调跨国模仿与规范同构往往内嵌了西方中心主义知识霸权与跨国资本控制，加剧中心-边缘不平等。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 194–195)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 419)]]
 
 > [!critique] 批评索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 揭示传统同构理论忽略全球跨国教育扩散中知识与权力不对称的地缘政治维度。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 指出全球考试文化驱动的跨国制度趋同造成国家政策修辞与学校实际教学之间的深层制度脱离。（p. 419）
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 指出[[Global Testing Culture|全球考试文化]]驱动的跨国制度趋同造成国家政策修辞与学校实际教学之间的深层制度脱离。（p. 419）
 
 ---
 

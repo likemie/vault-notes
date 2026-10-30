@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Total War]]"
   - "[[Knowledge Transfer]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Literature Search]]"
   - "[[Transfer Science]]"
@@ -93,7 +94,7 @@ updated: 2026-10-30
 > - **研究[[Knowledge Mediation|知识中介]]与清算转译（Wissenstransfer & Brokerage）** 筛选前沿实证教育科研成果，加工为适切教学指南并通过 [[Forschungsmonitor Schule]] 平台全网分发。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 10]]
 
 > [!row-contrast] 德国代表性州立研训与质量机构（Landesinstitute）横向配置表
-> | 机构简称与全称 | 所在联邦州与总部 | 核心业务特色与治理职能 | 代表性转移成果或平台 | 关键文献与案例来源 |
+> | 机构简称与全称 | 所在联邦州与总部 | 核心业务特色与治理职能 | 代表性转移成果或平台 | 关键[[Document\|文献]]与案例来源 |
 > |---|---|---|---|---|
 > | **QUA-LiS NRW**<br>Qualitäts- und UnterstützungsAgentur – Landesinstitut für Schule NRW | 北莱茵-威斯特法伦州（索斯特） | 统筹全州课程大纲编制、教师进修、学校咨询；主导《学校发展研究文丛》出版 | 主办 2018 年 KBBB [[Knowledge Transfer\|知识转移]]大会；深度参与 FMS 平台共建 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 8)]] |
 > | **ISB Bayern**<br>Staatsinstitut für Schulqualität und Bildungsforschung | 巴伐利亚州（慕尼黑） | 办学质量监测、全州统测试卷研制、学科教学法与实证教育[[Research Translation\|研究转化]] | 研发巴伐利亚 LehrplanPLUS 课程大纲体系与数字化教学资源库 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 485)]] |

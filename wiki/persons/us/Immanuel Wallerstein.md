@@ -9,7 +9,7 @@ summary: "美国历史社会学家，世界体系分析创始人。提出资本�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Value Neutrality]]"
   - "[[Determinism]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[Dependency Theory]]"
@@ -54,8 +55,8 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: completed
 created: 2026-09-29
@@ -113,7 +114,7 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与[[Stanford School|斯坦福学派]]世界文化论正面对峙的“现实主义[[World-Systems Theory|世界体系分析]]”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
 > - **方法路径** 倡导“长时段历史分析”与跨国宏微观贯通，促使比较教育研究打破单一国家容器（[[Methodological Nationalism|方法论民族主义]]），将微观学校[[Ethnography|民族志]]与全球资本分工机制相结合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 106–107)]]
-> - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器；晚近学者重拾沃勒斯坦议程，将对 PISA 等跨国测评的技术审视深化为对全球资本主义教育治理结构的深层解构（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 485]]）。
+> - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器；晚近学者重拾沃勒斯坦议程，将对 [[PISA]] 等跨国测评的技术审视深化为对全球资本主义教育治理结构的深层解构（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 485]]）。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 全面系统梳理沃勒斯坦长时段历史观与世界体系分析对比较教育学的深层奠基，对比现实主义冲突论与斯坦福新制度主义的[[Paradigm|范式]]分歧。
@@ -161,7 +162,7 @@ updated: 2026-10-30
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 揭示第四阶段世界体系批判的学科史悖论：理论原本建立在长时段历史分析之上，但在比较教育学落地过程中却主要被用于当代宏观结构批判，与学科历史研究跌至谷底（1985–1995 年历史研究文献不足 5%）的“[[Historical Amnesia|历史健忘症]]”同频发生。
 
 > [!warning] 未解问题与边界
-> 面对当代全球价值链的高度碎片化与知识经济形态的演化，传统基于中心-边缘实物工业贸易的宏观分工模型在捕捉跨国数据资本积累与算法规训的新形式时，面临需要更新与精细化的理论挑战。
+> 面对当代全球价值链的高度碎片化与[[Knowledge-Based Economy|知识经济]]形态的演化，传统基于中心-边缘实物工业贸易的宏观分工模型在捕捉跨国数据资本积累与算法规训的新形式时，面临需要更新与精细化的理论挑战。
 
 ---
 

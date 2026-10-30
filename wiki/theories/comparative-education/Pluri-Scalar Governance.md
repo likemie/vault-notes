@@ -9,7 +9,7 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规则下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 35
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -24,15 +24,17 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Borrowing]]"
+  - "[[Institutional Mimesis]]"
   - "[[Methodological Nationalism]]"
   - "[[Rescaling]]"
   - "[[International Education]]"
   - "[[International Branch Campus]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
-  - "[[Structural Adjustment Programs]]"
-  - "[[Educational Privatisation]]"
+  - "[[Space of Flows]]"
+  - "[[Test Production]]"
   - "[[Research Question]]"
+  - "[[Charter Schools]]"
   - "[[Champ]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
@@ -57,6 +59,8 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[GEMS Education]]"
   - "[[Nord Anglia Education]]"
+  - "[[PISA]]"
+  - "[[OECD]]"
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -72,8 +76,8 @@ updated: 2026-10-30
 
 > [!theory-position] 理论定位
 > - **解释对象** 全球化时代教育公共领域在空间维度、权力主体与制度功能上的跨国重组机制，尤其是跨国服务贸易规则（如[[World Trade Organization|世贸组织]]《[[GATS and Trade in Education Services|服务贸易总协定]]》）以及跨国营利性教育服务财团对传统民族[[State Educational Sovereignty|国家教育权]]力的渗透与再领土化（Re-territorialization）过程。[[Argument_Arnove_2009_WorldSystems|(Robertson, Bonal, & Dale, 2002, cited in Arnove, 2009, pp. 110–111)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
-> - **理论问题** 传统比较教育学长期将[[Unit of Analysis|分析单位]]锚定于民族国家容器，预设政策借用（[[Policy Borrowing]]）为主权国家间单向、双边的制度模仿；多标度治理框架旨在打破这一[[Methodological Nationalism|方法论民族主义]]假定，揭示超国家经贸规制、多国私营教育财团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|诺德安达]]）与次国家行动者如何交织构成纵向穿透疆界的多标度网络，重组公共教育的治理权威。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
-> - **理论类型** 空间治理分析框架（Spatial Governance [[Analytic Framework]]）、批判政治经济学解释理论。
+> - **理论问题** 传统比较教育学长期将[[Unit of Analysis|分析单位]]锚定于民族国家容器，预设[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）为主权国家间单向、双边的[[Institutional Mimesis|制度模仿]]；多标度治理框架旨在打破这一[[Methodological Nationalism|方法论民族主义]]假定，揭示超国家经贸规制、多国私营教育财团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|诺德安达]]）与次国家行动者如何交织构成纵向穿透疆界的多标度网络，重组公共教育的治理权威。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> - **理论类型** 空间[[Educational Governance Framework|治理分析框架]]（Spatial Governance [[Analytic Framework]]）、批判政治经济学解释理论。
 > - **知识位置** 植根于地理政治经济学的空间转向（Spatial Turn）与批判比较教育学，汲取了[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）的国家空间再标度化理论（[[Rescaling]] of the State）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）的[[Globally Structured Agenda for Education|全球结构化教育议程]]（Globally Structured Agenda for Education, GSAE）。
 
 > [!claim] 核心判断
@@ -90,8 +94,8 @@ updated: 2026-10-30
 > [!dev-timeline] 理论演变与扩展
 > - **1999年 — [[Globally Structured Agenda for Education|全球结构化议程]]奠基** 罗杰·戴尔（Dale, 1999）提出全球结构化教育议程（GSAE），确立全球化通过强加、协调与渗透等非传统机制影响国家政策，奠定了超越国家容器的治理问题域。
 > - **2002年 — 三维多标度治理框架成型** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）系统确立三维多标度治理模型，提出 WTO 正在构建一个“消除边境壁垒的假想全球教育系统”，引起[[International Education|国际教育]]学界广泛反响。
-> - **2007–2009年 — 阿诺夫的世界体系整合与非对称权力批判** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2009）将多标度治理模型系统吸纳进[[World-Systems Theory|世界体系分析]]中，揭示超国家多标度规则在核心大国与边缘脆弱经济体之间造成的非对称战略空间鸿沟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
-> - **2021年 — 跨国测评与后民族国家治理图景** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 将多标度治理用于解构 PISA 跨国测评网络，揭示超国家组织、跨国商业机构与地方学区共同交织的后民族国家治理图景，批判方法论民族主义的国家容器预设。（pp. 438–439, 480）
+> - **2007–2009年 — [[Robert Arnove|阿诺夫]]的世界体系整合与非对称权力批判** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2009）将多标度治理模型系统吸纳进[[World-Systems Theory|世界体系分析]]中，揭示超国家多标度规则在核心大国与边缘脆弱经济体之间造成的非对称战略空间鸿沟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **2021年 — 跨国测评与后民族国家治理图景** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 将多标度治理用于解构 [[PISA]] 跨国测评网络，揭示超国家组织、跨国商业机构与地方学区共同交织的后民族国家治理图景，批判方法论民族主义的国家容器预设。（pp. 438–439, 480）
 
 ---
 
@@ -124,9 +128,9 @@ updated: 2026-10-30
 > **应用实例** 牙买加等加勒比小国签署 GATS 协定后，由于本国缺乏具有国际竞争力的教育服务可以输出，反而导致国内高等教育与职业培训市场被跨国营利机构迅速占领；受制于 WTO 国民待遇与市场准入条款，牙买加政府无法通过定向财政补贴优先扶持本国脆弱的公立大学，深陷教育主权外流与公共预算恶化的双重困境。
 
 > [!theory-proposition] 命题四｜跨国测评网络构建超越国家容器的后民族国家多标度治理空间
-> **解释** 大规模跨国教育评估（如 PISA）展现出后民族国家背景下的多标度治理形态。超国家组织（OECD）、跨国商业测试咨询机构、主权国家教育部与次国家地方学区在流动且相互交织的跨国网络中共同行使治理权力。这种多标度网络打破了传统将民族国家视为孤立容器的分析预设，通过跨国数据指标、政策咨询合同与本土战略借用，在流动空间中重新编织了全球教育政策的权力关系。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 438–439, 480)]]
+> **解释** 大规模跨国教育评估（如 PISA）展现出后民族国家背景下的多标度治理形态。超国家组织（[[OECD]]）、跨国商业测试咨询机构、主权国家教育部与次国家地方学区在流动且相互交织的跨国网络中共同行使治理权力。这种多标度网络打破了传统将民族国家视为孤立容器的分析预设，通过跨国数据指标、政策咨询合同与本土战略借用，在[[Space of Flows|流动空间]]中重新编织了全球教育政策的权力关系。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 438–439, 480)]]
 >
-> **应用实例** 在 PISA 测评生态中，经合组织制定全球评价框架并发布国家排行榜，皮尔逊（Pearson）等跨国商业集团承接试题研发与数字平台运营，各参测国中央教育部以此制定国家课程战略，地方学区与学校则依据数据反馈调整日常教学与资源分配，呈现出多标度实体协同运作的治理网络。
+> **应用实例** 在 PISA 测评生态中，经合组织制定全球评价框架并发布国家排行榜，皮尔逊（Pearson）等跨国商业集团承接[[Test Production|试题研发]]与数字平台运营，各参测国中央教育部以此制定国家课程战略，地方学区与学校则依据数据反馈调整日常教学与资源分配，呈现出多标度实体协同运作的治理网络。
 
 > [!mechanism-map]- 多标度教育治理运作机制图
 > ```mermaid
@@ -164,7 +168,7 @@ updated: 2026-10-30
 > |:-------------------|:-------------------------|:-----------------------|:---------------------|:-----------------|
 > | **超国家标度<br>Supranational** | 世界贸易组织（WTO）、国际货币基金组织（IMF）、[[World Bank\|世界银行]]、欧盟（EU）、经合组织（OECD） | **规制（Regulation）**<br>**筹资（Funding）** | GATS 贸易争端裁决案例、世界银行贷款附加的私有化条件清单、PISA 跨国测评指标、学历资质国际互认框架 | 若超国家准则具有强制诉讼、借贷约束力或强大的指标规训力，表明治理规制标度向上重组；需区分软法倡议与硬性条约。 |
 > | **国家标度<br>National** | 中央政府、国家教育部、国家司法机关 | **规制（Regulation）**<br>**筹资（Funding）** | 制定外资办学准入条例、划定义务教育保护红线、向公立学校拨付财政转移支付、制定国家课程应对跨国测评 | 国家保留战略协调与主权监管权威，充当连接超国家规则与本土实践的枢纽；若国家放弃筹资责任，则退缩为审计监督者。 |
-> | **次国家/地方标度<br>Subnational** | 省州政府、地方学区自治体、市立大学委员会 | **服务提供（Provision）**<br>**筹资（Funding）** | 地方学区引进外资特许学校（Charter Schools）、跨国企业参与本地职业教育供给、地方学校依据 PISA 数据调适教学 | 若地方政府因财政紧缩直接与跨国资本签约或调整课程，表明次国家标度成为多标度治理落地的主体承载空间。 |
+> | **次国家/地方标度<br>Subnational** | 省州政府、地方学区自治体、市立大学委员会 | **服务提供（Provision）**<br>**筹资（Funding）** | 地方学区引进外资[[Charter Schools\|特许学校]]（Charter Schools）、跨国企业参与本地职业教育供给、地方学校依据 PISA 数据调适教学 | 若地方政府因财政紧缩直接与跨国资本签约或调整课程，表明次国家标度成为多标度治理落地的主体承载空间。 |
 > | **跨实体/市场网络<br>Trans-institutional / Market** | 跨国营利性教育管理集团（如 [[GEMS Education\|GEMS]]、[[Nord Anglia Education\|诺德安达]]）、跨国测评企业（如培生）、非政府组织（NGOs）、社区与家庭 | **产权（Ownership）**<br>**提供（Provision）**<br>**咨询（Advisory）** | 跨国集团拥有并连锁运营多国私立学校（如 GEMS 在多国运营国际学校）、承接公共服务外包（如诺德安达承接英国学校督导与学区管理），承揽国际测验技术开发并向多国政府提供咨询（[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b, p. 344]]；[[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等, 2021, p. 439]]） | 产权所有与服务提供大幅脱离公有体制，进入市场资本交换[[Champ\|场域]]，并反向塑造超国家与国家政策议程。 |
 
 > [!exegesis]- 发展中国家高等教育跨境服务贸易准入分析
@@ -198,12 +202,12 @@ updated: 2026-10-30
 > > 围绕 [[World Trade Organization|WTO]] 等超国家多标度规则究竟是促进全球共同繁荣还是拉大南北差距展开交锋。
 > >
 > > - **世贸组织官方与主流自由贸易经济学家** 宣称消除边境壁垒将促成教育资源的最佳配置，使所有成员国享受到高质量的[[International Education|国际教育]]服务。
-> > - **世界体系与依附论批判学者** 揭露这种多边普惠话语掩盖了残酷的权力非对称性，弱小国家在超国家规制下门户大开，沦为中心国家教育输出的单向倾销地。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> > - **世界体系与[[Dependency Theory|依附论]]批判学者** 揭露这种多边普惠[[Discourse|话语]]掩盖了残酷的权力非对称性，弱小国家在超国家规制下门户大开，沦为中心国家教育输出的单向倾销地。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 >
-> > [!axis] 双边国家借用范式 vs 跨国多标量商业网络转移
+> > [!axis] 双边国家借用[[Paradigm|范式]] vs 跨国多标量商业网络转移
 > > 围绕当代比较教育应当延续主权国家间的双边借用传统，还是转向多标量空间中的网络化政策转移展开探讨。
 > >
-> > - **传统双边借用论** 关注主权国家点对点的制度移植与本土调适（如巴西对法国大学校的模仿）。
+> > - **传统双边借用论** 关注主权国家点对点的制度移植与本土调适（如巴西对[[Grandes Ecoles|法国大学校]]的模仿）。
 > > - **多标度网络转移论** 论证当代跨国教育财团、咨询智库与超国家机构打破了双边主权中介，政策方案以商业包销形式在多标度空间中自由流转，迫使比较教育重构理论透镜。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
 > [!critique] 批评索引

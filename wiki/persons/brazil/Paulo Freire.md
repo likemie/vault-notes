@@ -8,10 +8,10 @@ summary: "巴西教育家与哲学家，批判教育学奠基人，以《被压�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 36
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 48
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1921"
 died: "1997"
 lifespan: "1921–1997"
@@ -24,16 +24,19 @@ tags:
   - educational-philosophy
 related_concepts:
   - "[[Critical Pedagogy]]"
+  - "[[Value Neutrality]]"
   - "[[Liberation Theology]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[Representational Knowledge]]"
+  - "[[Paradigm]]"
   - "[[Banking Model of Education]]"
   - "[[Problem-Posing Education]]"
   - "[[Conscientization]]"
+  - "[[Discourse]]"
   - "[[Moral Dualism]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
-  - "[[Paradigm]]"
   - "[[Culture of Silence]]"
   - "[[Politicity of Education]]"
   - "[[Received Knowledge]]"
@@ -41,14 +44,21 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Ontology]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Geopolitics of Knowledge]]"
+  - "[[Technical Rationality]]"
+  - "[[Geopolitics]]"
   - "[[Forced Knowledge Transfer]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Central Phenomenon]]"
   - "[[Learned Helplessness]]"
+  - "[[Theoretical Knowledge]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[State Corporatism]]"
   - "[[Formative Epistemic Injustice]]"
+  - "[[Epistemic Injustice]]"
+  - "[[Conditioned State Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -56,7 +66,9 @@ related_persons:
   - "[[Michael W. Apple]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Val D. Rust]]"
-related_facts: []
+  - "[[Remi Adekoya]]"
+related_facts:
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Partaken_2022_Springer]]"
@@ -75,7 +87,7 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 巴西教育家、哲学家，[[Critical Pedagogy|批判教育学]]奠基人，20 世纪最具世界声誉的平民教育与解放哲学思想家之一。
-> - **核心角色** 在解放哲学与教育政治学网络中开创提问式对话模型，终结教育价值中立神话；深度融合[[Liberation Theology|解放神学]]“对穷人的优先选择”理念与基层教会基体实践，在当代知识地缘政治与国际发展合作中，充当全球南方[[Representational Knowledge|代表性知识]]向西方主流科层范式反向输出的标志性知识权威。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7, 11–13)]]
+> - **核心角色** 在解放哲学与教育政治学网络中开创提问式对话模型，终结教育[[Value Neutrality|价值中立]]神话；深度融合[[Liberation Theology|解放神学]]“对穷人的优先选择”理念与基层教会基体实践，在当代[[Geopolitics of Knowledge|知识地缘政治]]与国际发展合作中，充当全球南方[[Representational Knowledge|代表性知识]]向西方主流科层[[Paradigm|范式]]反向输出的标志性知识权威。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7, 11–13)]]
 > - **代表贡献** 奠定[[Critical Pedagogy|批判教育学]]理论体系，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]模型与[[Conscientization|批判意识觉醒]]机制。
 
 > [!citation-card] 斯通论弗莱雷代表性知识对全球主流范式的反向输出
@@ -87,9 +99,9 @@ updated: 2026-10-30
 
 > [!timeline] 生平与职涯
 > - **1921** 出生于巴西累西腓（Recife），大萧条时期的贫困童年经历促使其终身关注边缘与受压迫群体的生存境况。
-> - **1946–1959** 任伯南布哥州教育与文化局局长，在东北部赤贫地区推行工人与成人扫盲运动，初步探索结合农民日常生活词汇的话语生成教学法。
+> - **1946–1959** 任伯南布哥州教育与文化局局长，在东北部赤贫地区推行工人与成人扫盲运动，初步探索结合农民日常生活词汇的[[Discourse|话语]]生成教学法。
 > - **1961–1964** 主持累西腓大学文化普及服务处，在安吉科斯（Angicos）开展成人快速扫盲实验，创造 45 天教会 300 名农工读写的奇迹；1964 年巴西军事政变爆发，弗莱雷遭军政府逮捕监禁 70 天，随后被迫流亡。
-> - **1964–1969** 流亡智利期间参与基督教民主党政府的土地改革与联合国教科文组织特别扫盲计划，完成其奠基之作《被压迫者教育学》。
+> - **1964–1969** 流亡智利期间参与基督教民主党政府的土地改革与[[UNESCO|联合国教科文组织]]特别扫盲计划，完成其奠基之作《被压迫者教育学》。
 > - **1969–1979** 赴哈佛大学任客座教授，随后移居瑞士日内瓦，担任世界基督教协进会（World Council of Churches, WCC）特别教育顾问；在此期间深入几内亚比绍、安哥拉等非洲去殖民新独立国家提供教育改革咨询，其思想向欧美及第三世界广泛扩散。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 11–13)]]
 > - **1980–1997** 巴西实行大赦后重返祖国，任教于圣保罗天主教大学与坎皮纳斯州立大学；1989–1991 年出任圣保罗市教育局局长，在公立学校系统推行民主化课程改革；1997 年逝世于圣保罗。
 
@@ -117,7 +129,7 @@ updated: 2026-10-30
 >
 > *Through dialogue, the teacher-of-the-students and the students-of-the-teacher cease to exist and a new term emerges: teacher-student with students-teachers... They become jointly responsible for a process in which all grow.*
 
-> [!citation-card] 数智时代的异己智能审问与解放对话回响
+> [!citation-card] 数智时代的[[Alien Intelligence|异己智能]]审问与解放对话回响
 > [[Critical Pedagogy|批判教育学]]消解师生特权的对话精神在人工智能时代具有根本性的现实意义。当教育者把大语言模型误设为全知导师或共情伙伴时，便落入了数字储蓄式教育的陷阱。遵循弗莱雷的批判传统，必须打破对算法的拟人化幻想，将其界定为缺乏人类生活经验与伦理关怀的[[Alien Intelligence|异己智能]]，引导学生在对抗性审问与思维步骤全透明外显中重夺[[Epistemic Agency|认识主体性]]。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 >
 > *Drawing on Freire's critical pedagogy, we must resist digital banking models where students passively withdraw AI outputs... conceptualising AI as alien intelligence demystifies the tool, enabling students to interrogate it through showing steps and preserve their epistemic agency.*
@@ -127,16 +139,16 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论建构路径** 开创并奠定了[[Critical Pedagogy|批判教育学]]学派，深刻启发了[[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与彼得·麦克拉伦（Peter McLaren）等当代课程论学者，确立了学校作为文化政治[[Champ|场域]]的分析[[Paradigm|范式]]。
 > - **比较教育政治社会学与国家理论路径** 弗莱雷关于公共教育作为竞争性争夺场域和[[Politicity of Education|教育的政治性]]论断，为托雷斯（Torres）、卡诺伊（Carnoy）与[[Liliana Esther Olmos|奥尔莫斯]]（Olmos）等比较学者提供了批判[[Ontology|本体论]]，直接启发了将[[Dependency Theory|依附理论]]、[[State Corporatism|国家法团主义]]与教育[[Compensatory Legitimation|补偿性合法化]]相融合的比较教育国家理论。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
-> - **国际发展合作与南向知识反向流动** 斯通、波尔图·德奥利维拉与帕尔（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将弗莱雷确立为全球南方[[Representational Knowledge|代表性知识]]的典范；其思想扎根于巴西底层经验，不仅打破了全球北方技术理性官僚的知识垄断，更反向回流至西方发达民主国家，为欧美社区教育与激进批判提供了南向制度灵感。
-> - **[[Geopolitics of Knowledge|知识地缘政治]]与去殖民路径** 其[[Banking Model of Education|储蓄式教育]]批判模型被广泛应用于知识地缘政治与比较教育研究中，作为揭示殖民教育、[[Forced Knowledge Transfer|强制知识转移]]及全球北方政策霸权的批判利器。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
-> - **数智技术反思与认识正义路径** 进入生成式人工智能时期，其解放对话与去权威化思想被重新激活，用于诊断大模型代写引发的数字储蓄式教育异化与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
+> - **国际发展合作与南向知识反向流动** 斯通、波尔图·德奥利维拉与帕尔（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将弗莱雷确立为全球南方[[Representational Knowledge|代表性知识]]的典范；其思想扎根于巴西底层经验，不仅打破了全球北方[[Technical Rationality|技术理性]]官僚的知识垄断，更反向回流至西方发达民主国家，为欧美社区教育与激进批判提供了南向制度灵感。
+> - **[[Geopolitics of Knowledge|知识地缘政治]]与去殖民路径** 其[[Banking Model of Education|储蓄式教育]]批判模型被广泛应用于知识[[Geopolitics|地缘政治]]与比较教育研究中，作为揭示殖民教育、[[Forced Knowledge Transfer|强制知识转移]]及全球北方政策霸权的批判利器。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
+> - **数智技术反思与认识正义路径** 进入[[Generative Artificial Intelligence|生成式人工智能]]时期，其解放对话与去权威化思想被重新激活，用于诊断大模型代写引发的数字储蓄式教育异化与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 > - **比较教育全球化反思与解放实践路径** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将弗莱雷教育即政治与反思实践（[[Praxis]]）引入比较教育学科史反思，批判将教育等同于资本主义西方工业现代性的狭隘倾向，推动学科支持主权自决与人类福祉的人道主义解放实践。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识地缘政治分析工具，解构殖民教育中的强制知识转移机制。
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷提问式教育、批判意识觉醒与反思实践核心范畴。
-> - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷去权威对话精神，提出审问异己智能与思维全外显以抵御成长性认识不正义。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 继承弗莱雷教育政治性与争夺场域洞见，系统剖析外围受限国家教育扩张的阶级矛盾。
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识地缘政治分析工具，解构殖民教育中的强制[[Knowledge Transfer|知识转移]]机制。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷提问式教育、批判意识觉醒与反思实践[[Central Phenomenon|核心范畴]]。
+> - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷去权威对话精神，提出审问异己智能与思维全外显以抵御成长性[[Epistemic Injustice|认识不正义]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 继承弗莱雷教育政治性与争夺场域洞见，系统剖析外围[[Conditioned State Theory|受限国家]]教育扩张的阶级矛盾。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引弗莱雷教育即政治命题，解构西方现代性对教育研究的侵蚀并转向解放实践范式。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将弗莱雷批判思想界定为代表性知识典范，阐释激进南方理念对西方科层体制的反向重构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 批评《被压迫者教育学》中将暴力绝对归咎于统治者的二元论，指出否定弱者施恶潜能构成道德屈尊。
@@ -152,7 +164,7 @@ updated: 2026-10-30
 > - **思想渊源与社会教牧背景** [[Liberation Theology|解放神学]]（古斯塔沃·古铁雷斯、埃尔德·卡马拉）— 确立“对穷人的优先选择”与基层教会基体（CEBs）网络，为弗莱雷平民识字圈与意识化觉醒提供了教牧实践母体。
 > - **合作学者** 伊拉·肖尔（Ira Shor）— 共同合著《解放教育学》（1987），推动批判教育学在高等教育课堂的落地。
 > - **思想继承者** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）、彼得·麦克拉伦（Peter McLaren）— 继承其文化政治与反思实践脉络，拓展当代批判教育学与课程论。
-> - **批评者与反思者** 阿金·阿德科亚（Akin Adekoya）、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 批评其关于暴力从未由弱者发起的二元预设，警惕道德屈尊。
+> - **批评者与反思者** 阿金·[[Remi Adekoya|阿德科亚]]（Akin Adekoya）、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 批评其关于暴力从未由弱者发起的二元预设，警惕道德屈尊。
 > - **机构与实践运动** 累西腓文化普及运动、世界基督教协进会（WCC）、圣保罗公立教育改革、全球社会运动网络。
 
 ---
@@ -194,6 +206,6 @@ updated: 2026-10-30
 > | [[Conscientization]] | 概念 | 原创概念提出者，界定个体从沉默适应走向批判觉醒的心理与社会机制。 |
 > | [[Praxis]] | 概念 | 强调反思与行动辩证统一的社会实践哲学。 |
 > | [[Politicity of Education]] | 概念 | 核心理论命题，揭示教育天然具备[[Epistemology\|认识论]]、分析与伦理政治属性。 |
-> | [[Representational Knowledge]] | 概念 | 典范代表人物，其基于底层生存斗争的理论知识构成全球南方代表性知识的典型范例。 |
+> | [[Representational Knowledge]] | 概念 | 典范代表人物，其基于底层生存斗争的[[Theoretical Knowledge\|理论知识]]构成全球南方代表性知识的典型范例。 |
 > | [[Moral Dualism]] | 概念 | 《被压迫者教育学》中的二元划分被当代学者作为道德二元论的典型文本展开批判。 |
 > | [[Formative Epistemic Injustice]] | 理论 | 当代学者将其对话精神引入数智时代，反思全流程算法代劳的认识成长侵害。 |

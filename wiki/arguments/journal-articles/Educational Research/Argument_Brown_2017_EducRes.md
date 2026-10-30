@@ -52,6 +52,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Professional Learning Community]]"
   - "[[Strategic Compliance]]"
+  - "[[Collective Intelligence]]"
   - "[[Champ]]"
   - "[[Normal School]]"
 related_theories:
@@ -82,14 +83,14 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-10-30
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
 argument_key: "Argument_Brown_2017_EducRes"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -287,7 +288,7 @@ ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层
 > [!factors] ESTI 成功实施的核心支撑要素
 > - **系统性探究规程以规避认知偏差** 严格遵循八步闭环，防范教育者仅凭个人经验和直觉进行草率决策；认知心理学表明个人直觉极易受到证实偏见、近因效应与主观错觉的侵蚀，证据绝不能自我言说，必须通过严谨规程予以理性审验（Barends, Rousseau, and Briner, 2014; Katz and Dack, 2013）。
 > - **数据素养与研究素养的协同能力建设** ESTI 要求的综合能力超越了单一 DBDM 或 RITP；教师与领导者不仅需要掌握数据采集与质检的[[Data Literacy\|数据素养]]（Mandinach and Gummer, 2016），还需具备检索、评估与转译学术论文的研究素养，这要求职前教师教育与在职专业发展重新设计一体化课程框架。
-> - **协作性意义建构与[[Professional Learning Community\|专业学习共同体]]** 探究过程必须以专业学习共同体（Professional Learning Community, PLC）为载体，在高度互信的氛围中开展协作对话，打破个体反思的“盲区”（Pollard, 2008; Schön, 1984; Stoll et al., 2006）；坚决摒弃将数据与研究沦为行政考核工具的“技术性合规”模式（technical [[Strategic Compliance|compliance]]），转而激发学校教职工与大学伙伴的集体智慧（Daly, 2010; Supovitz, 2015）。
+> - **协作性意义建构与[[Professional Learning Community\|专业学习共同体]]** 探究过程必须以专业学习共同体（Professional Learning Community, PLC）为载体，在高度互信的氛围中开展协作对话，打破个体反思的“盲区”（Pollard, 2008; Schön, 1984; Stoll et al., 2006）；坚决摒弃将数据与研究沦为行政考核工具的“技术性合规”模式（technical [[Strategic Compliance|compliance]]），转而激发学校教职工与大学伙伴的[[Collective Intelligence|集体智慧]]（Daly, 2010; Supovitz, 2015）。
 
 上述要素共同构成了两界融通的深层因果链条。
 

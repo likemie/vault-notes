@@ -62,6 +62,7 @@ related_concepts:
   - "[[Steering at a Distance]]"
   - "[[Variable]]"
   - "[[Policy Borrowing]]"
+  - "[[Global Educational Policy Field]]"
   - "[[Scientific Literacy]]"
   - "[[School Leadership]]"
   - "[[Social-Emotional Learning]]"
@@ -73,6 +74,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Reference Society]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Policy Mobility]]"
   - "[[Technical Rationality]]"
   - "[[Conditional Cash Transfers]]"
@@ -105,9 +107,8 @@ related_concepts:
   - "[[Mediatised Governance]]"
   - "[[Media Logic]]"
   - "[[Rashomon Effect]]"
+  - "[[Champ]]"
   - "[[Construct]]"
-  - "[[Test Production]]"
-  - "[[Global Educational Policy Field]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
@@ -125,7 +126,6 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
   - "[[Network Analysis]]"
-  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[George Papadopoulos]]"
@@ -194,13 +194,13 @@ related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-10-14
@@ -289,7 +289,7 @@ updated: 2026-10-30
 > - **协商性政策转移与软法治理机制（Negotiated Policy Transfer）** 在跨国[[Policy Borrowing|政策借用]]连续谱中，经合组织扮演典型的协商性转移中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）。区别于超国家金融机构的直接附带条件强制，经合组织主要依托不具法律约束力的软法建议（soft law）、国别同行审议（peer review）以及对标最佳实践（best practice），通过营造横向[[Peer Pressure|同侪压力]]推动主权国家在多边协商与自愿吸纳中开展制度调适与政策改革。
 > - **[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]协同（Inquiry and Mediation Modes）** 经合组织将治理运作分解为两大互补模式：探究模式（Inquiry Mode）负责加工复杂的原始数据并建立因果解释与问题定义；调解模式（Mediation Mode）则向各国游说并推介基于[[Human Capital Theory|人力资本理论]]的最佳实践。双模协同使经合组织在不具备行政强制力与司法管辖权的情况下，通过向国内行动者提供无可争议的实证论据，间接重构主权国家内部的政治博弈与权力格局。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–271, 277–278)]]
 > - **四种治理理想型与软治理整合** 经合组织公约未包含直接的教育条款，缺乏法律治理（Legal Governance）工具与强制性财政援助机制；但通过将认知治理（定义知识与因果模型）、规范治理（树立最佳实践与同侪规训）及姑息治理（为政策合法性焦虑的国家提供外部科学客观化诊断）深度整合，构建起强大的跨国政策规制威权。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60)]]
-> - **全球教育政策场域构建与仲裁权威** 经合组织凭借去背景化、通约性与政策导向三大技术机制构建跨国等价空间，积聚巨额的统计测量资本与象征资本，将自身塑造为相对自主的[[Global Educational Policy Field|全球教育政策场域]]中的跨国仲裁者。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60, 71–72)]]
+> - **[[Global Educational Policy Field|全球教育政策场域]]构建与仲裁权威** 经合组织凭借去背景化、通约性与政策导向三大技术机制构建跨国等价空间，积聚巨额的统计测量资本与象征资本，将自身塑造为相对自主的[[Global Educational Policy Field|全球教育政策场域]]中的跨国仲裁者。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60, 71–72)]]
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
@@ -330,7 +330,7 @@ updated: 2026-10-30
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society\|参考社会]]”，引发广泛的[[Policy Borrowing\|政策借用]]。
 > - **国内政治权力格局重组** 经合组织测评数据作为外部合法性资源，赋权并强化了主权国家内部偏好与其一致的改革同盟（如财政经济部门与雇主协会），同时弱化了缺乏实证数据支撑的传统反对力量（如教师工会）的论辩[[Discourse|话语]]权，间接重构了国家教育政治的权力配置。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 277–278)]]
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）；并通过与[[EU|欧盟]]委员会建立深层跨机构共生（欧盟资助 80% 调查成本，50%–60% [[Lisbon Strategy|里斯本战略]]数据直接依赖经合组织），将比较指标建构为赋权主权国家推行国内争议性改革的准外部合法化权威（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 24–26, 32–35]]）。
-> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -446,7 +446,7 @@ updated: 2026-10-30
 > | [[Rashomon Effect]] | Concept | 解释同一批 OECD 评估数据被国际组织、本土政客与大众媒体赋予多重冲突真实的[[Epistemology\|认识论]]效应。 |
 > | [[Navigation Metaphor in Comparative Education]] | Concept | 战后比较教育坚持的超然政策咨询范式，后遭 OECD 经济主义与指标治理体系深度解构。 |
 > | [[Wolfgang Mitter]] | Person | 揭示 OECD 经济导向教育政策对欧洲比较教育学科自主性与认识论侵蚀的代表学者。 |
-> | [[Global Educational Policy Field]] | Concept | 经合组织依托测量资本与象征资本确立仲裁权威的跨国博弈场域。 |
+> | [[Global Educational Policy Field]] | Concept | 经合组织依托测量资本与象征资本确立仲裁权威的跨国博弈[[Champ\|场域]]。 |
 > | [[South-South Cooperation]] | Concept | 经合组织发展援助委员会 2011 年釜山论坛确立合法性的南南互学互鉴与技术协作模式。 |
 > | [[Policy Ambassador]] | Concept | 穿梭于多边组织网络、打破经合组织单向政策转移预设的跨国政策使者。 |
 > | [[Technical Rationality]] | Concept | 经合组织[[Policy Transfer Framework\|政策转移框架]]所预设的纯粹工具理性与科学实证主义技术范式。 |

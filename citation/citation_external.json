@@ -7195,6 +7195,7 @@
     "Evans (2010)": "Evans, 2010",
     "Evans (2012)": "Evans, 2012",
     "Evans (2014)": "Evans, 2014",
+    "Evans (2019)": "Evans, 2019",
     "Evans et al. (2000)": "Evans et al., 2000",
     "Evans et al. (2011)": "Evans et al., 2011",
     "Evans et al. (2017)": "Evans et al., 2017",
@@ -7205,6 +7206,7 @@
     "Evans, 2010": "Evans, 2010",
     "Evans, 2012": "Evans, 2012",
     "Evans, 2014": "Evans, 2014",
+    "Evans, 2019": "Evans, 2019",
     "Evelyn Ruppert (2012)": "Evelyn Ruppert, 2012",
     "Evelyn Ruppert, 2012": "Evelyn Ruppert, 2012",
     "Evers & Kneyber (2015)": "Evers & Kneyber, 2015",
@@ -36697,7 +36699,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+        "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
       ],
       "title": ""
     },
@@ -79585,6 +79587,21 @@
       "seen_in": [],
       "title": "High school–based treatment for adolescents with Attention-Deficit/Hyperactivity Disorder  Results from a pilot study examining outcomes and dosage"
     },
+    "Evans, 2019": {
+      "aliases": [
+        "Evans, 2019",
+        "Evans (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Evans, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Disruption Index.md"
+      ],
+      "title": ""
+    },
     "Evelyn Ruppert, 2012": {
       "aliases": [
         "Evelyn Ruppert, 2012",
@@ -84826,8 +84843,8 @@
         "wiki/concepts/comparative-education/Proto-Scientific Motif.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/concepts/teacher-education/Normal School.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
-        "wiki/facts/france/Revue encyclopédique.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Revue encyclopédique.md",
         "wiki/persons/france/Marc-Antoine Jullien.md"
       ],
       "title": ""
@@ -88318,7 +88335,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
       ],
       "title": ""
     },
@@ -99336,7 +99353,7 @@
         "wiki/concepts/comparative-education/Comparative History of Comparative Education.md",
         "wiki/concepts/comparative-education/Educational Meliorism.md",
         "wiki/concepts/comparative-education/Factorial Interpretive Framework.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/us/National Education in Europe.md",
         "wiki/persons/france/Marc-Antoine Jullien.md",
         "wiki/persons/france/Victor Cousin.md",
@@ -101871,7 +101888,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
         "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
-        "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+        "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
       ],
       "title": ""
     },
@@ -114451,7 +114468,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
-        "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
+        "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md"
       ],
       "title": ""
     },
@@ -152242,7 +152259,7 @@
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/concepts/higher-education/International Education.md",
         "wiki/concepts/research-methodology/Variable.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/france/Report on the State of Public Instruction in Prussia.md",
         "wiki/facts/global/Organisation for European Economic Co-operation.md",
         "wiki/facts/us/National Education in Europe.md",
@@ -157379,8 +157396,8 @@
         "wiki/concepts/educational-philosophy/Enlightenment.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
-        "wiki/facts/france/Revue encyclopédique.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Revue encyclopédique.md",
         "wiki/persons/france/Marc-Antoine Jullien.md",
         "wiki/persons/france/Victor Cousin.md",
         "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md"
@@ -165849,7 +165866,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
-        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
+        "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/persons/france/Marc-Antoine Jullien.md"
       ],
       "title": ""

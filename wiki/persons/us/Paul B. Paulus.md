@@ -8,7 +8,7 @@ summary: "美国得克萨斯大学阿灵顿分校杰出心理学教授，当代�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Paradigm]]"
   - "[[Creativity Training]]"
+  - "[[Document]]"
   - "[[Divergent Thinking]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-30
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-22
 > - **1942 年** 出生，后在爱荷华大学获得实验社会心理学博士学位，专注于人类行为、环境心理学与小群体动力学研究。
 > - **1970 年代** 加入得克萨斯大学阿灵顿分校，建立群体创新与认知实验中心，历任心理学系主任、理学院院长。
 > - **1980–1990 年代** 针对工业界对[[Brainstorming\|头脑风暴]]的盲目崇拜展开严格实验解构，发表系列关于群体生产力损失（Process Loss）与名义群体优势的突破性论文。
-> - **2000 年** 在《Applied Psychology》发表奠基性重磅文献《Groups, teams, and [[Creativity]]》，提出群体认知刺激与协同创新的整合模型。
+> - **2000 年** 在《Applied Psychology》发表奠基性重磅[[Document|文献]]《Groups, teams, and [[Creativity]]》，提出群体认知刺激与协同创新的整合模型。
 > - **2008 年** 与 J. Baruah 合作开展[[Divergent Thinking\|发散思维]]训练与书面脑力激荡准实验，论文被纳入 [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] [[Creativity Training\|创造力干预]][[Meta-analysis\|元分析]]核心样本。
 > - **2010–2020 年代** 拓展至跨学科科研团队创新、人机混合头脑风暴与神经影像学对团队心智同步性的脑科学研究。
 

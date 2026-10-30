@@ -13,7 +13,7 @@ summary: "关注语言与符号实践如何建构、维持和重塑权力关系�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -35,12 +35,16 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
+  - "[[Text Generation]]"
   - "[[Geopolitics]]"
   - "[[Explanatory Critique]]"
+  - "[[Reflexivity]]"
+  - "[[Regimes of Truth]]"
   - "[[Academic Achievement]]"
   - "[[Chain of Evidence]]"
   - "[[Ontology]]"
   - "[[Policy Network]]"
+  - "[[Europe of Knowledge]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Critical Realism]]"
@@ -60,6 +64,7 @@ related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[EU]]"
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
@@ -106,7 +111,7 @@ updated: 2026-10-30
 > [!proc] 通用程序
 > 1. 界定研究涉及的政策争议或社会议题，选定代表性文本群并划定时间跨度与分析边界。
 > 2. 开展初读与文本层细读，提取主导词汇、语法特征、隐喻策略与政策框架类型。
-> 3. 考察文本生成、传播与消费的[[Discourse|话语实践]]过程，追踪互文引用与不同话语体裁的交叉杂合。
+> 3. 考察[[Text Generation|文本生成]]、传播与消费的[[Discourse|话语实践]]过程，追踪互文引用与不同话语体裁的交叉杂合。
 > 4. 将话语实践嵌入宏观社会结构、[[Geopolitics|地缘政治]]竞争与意识形态博弈的生态中展开社会学解释。
 > 5. 综合提炼理论洞见，形成针对政策修辞张力与深层战略意图的[[Explanatory Critique|解释性批判]]报告。
 
@@ -122,12 +127,12 @@ updated: 2026-10-30
 > 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
 > 2. **话语实践层面互文性分析（Discursive Practice / Intertextuality）** 分析目标文本与其他宏观战略文本的互文引用与[[Interdiscursivity|互话语性]]网络，厘清政策立项的驱动力（最高政治意志）、推进工具（高教攻关与高职出海）与价值导向（讲好国家故事）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 > 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、发展型国家体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
-> 4. **反身性审查与多源证据互证** 引入[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]原则，对照物质制度条件与实地执行反馈，排除竞争性解释并防范过度诠释偏误。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> 4. **[[Reflexivity|反身性]]审查与多源证据互证** 引入[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]原则，对照物质制度条件与实地执行反馈，排除竞争性解释并防范过度诠释偏误。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中新自由主义真理政制的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
+> - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中新自由主义[[Regimes of Truth|真理政制]]的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
 > - **谨慎使用** 纯技术性教学流程测量、课堂微观师生语言互动的秒级编码（更宜采用[[Conversation Analysis|会话分析]] Conversation Analysis）。
 > - **不适合使用** 评估教育干预措施的大样本平均因果效应或开展跨国[[Academic Achievement|学业成绩]]排名的量化统计建模。
 
@@ -152,6 +157,6 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-知识理论与批判话语分析，解构欧盟官方白皮书与政策文本中“知识欧洲”的市场化话语建构。（pp. 479–481, 483–484）
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-知识理论与批判话语分析，解构[[EU|欧盟]]官方白皮书与政策文本中“[[Europe of Knowledge|知识欧洲]]”的市场化话语建构。（pp. 479–481, 483–484）
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、政策框架理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与[[Geopolitics|地缘政治]]逻辑。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 引入费尔克拉夫批判性话语分析视角，揭示大众媒体与官方报告如何通过技术中立化语言将新自由主义权力关系自然化（p. 423）。

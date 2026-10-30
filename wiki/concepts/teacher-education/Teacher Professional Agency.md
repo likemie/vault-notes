@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在遭遇新泰勒制规训与政策博弈时具备批判性审议与多阵线民主行动能力"
 type: concept
 domain: "teacher-education"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
   - "[[Pride in Learning]]"
+  - "[[Collective Intelligence]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
   - "[[Performativity]]"
@@ -79,7 +80,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-29
 > *"Evidence indicates that within broad curriculum frameworks, giving teachers the agency to select pedagogies and design engaging investigative work is central to creating an inspiring classroom culture. It is this professional trust and autonomy that fosters pride in teaching and forms the cornerstone of retaining specialist staff in shortage subjects."*
 
 > [!citation-card] 坎贝尔等论学校领导作为保护教师能动性的制度缓冲
-> "学校领导者构成了宏观循证干预与微观课堂实践之间的关键缓冲与转译界面。面对外部政策自上而下推行清单化改革的压力，学校领导的核心价值在于依据校本情境与教师集体智慧对外部证据进行审议与二次开发，超越机械照单打卡的执行模式，为教师的专业能动性提供组织保护与心理安全空间。"[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
+> "学校领导者构成了宏观循证干预与微观课堂实践之间的关键缓冲与转译界面。面对外部政策自上而下推行清单化改革的压力，学校领导的核心价值在于依据校本情境与教师[[Collective Intelligence|集体智慧]]对外部证据进行审议与二次开发，超越机械照单打卡的执行模式，为教师的专业能动性提供组织保护与心理安全空间。"[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
 
 > [!boundary]- 概念边界
 > - 不等于 **教学自由放任（Laissez-faire Teaching）** — 专业能动性植根于教育伦理、深思熟虑的实证依据与学科素养目标，而非缺乏专业依据的个人随兴行为。

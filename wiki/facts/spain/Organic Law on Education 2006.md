@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,19 +25,15 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Comprehensive Education]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evaluation Research]]"
-  - "[[Discourse]]"
-  - "[[Competitiveness]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Academic Achievement]]"
-  - "[[European Education Space]]"
+  - "[[Discourse]]"
   - "[[Commensuration]]"
   - "[[Educational Decentralization]]"
 related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Centros Concertados]]"
-  - "[[EU]]"
-  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
@@ -65,7 +61,7 @@ updated: 2026-10-30
 > [!policy-design] 政策设计
 > - **政策目标** 保障教育机会均等，遏止过早学力分化，确立核心能力为课程第四要素以对标国际标准，换取地方民族主义政党对中央政府的政治支持。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–329)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 65)]]
 > - **适用对象** 覆盖全体 3 至 18 岁适龄学生、公私立学校教师队伍以及 17 个自治区教育行政部门。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 328)]]
-> - **政策工具** 设立基础核心能力框架、初中课程多样化方案（Programas de Diversificación Curricular，PDC）、国家与自治区联合课程标准（中央仅保留 55% 或在双语自治区保留 45% 共通基底）、协约学校财政扶持机制，以及调整师资培训课程以对标关键能力。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–331)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 65)]]
+> - **政策工具** 设立基础核心能力框架、初中课程多样化方案（Programas de Diversificación Curricular，PDC）、国家与自治区联合课程标准（中央仅保留 55% 或在双语自治区保留 45% 共通基底）、协约学校财政扶持机制，以及调整师资培训课程以对标[[21st Century Skills and Competencies Discourse|关键能力]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–331)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 65)]]
 > - **约束机制** 取消高中阶段外部准入统考，初中毕业依据校内学业综合评定颁发文凭；设立国家教育[[Evaluation Research|评估研究]]所并推行标准化评价，但中央政府缺乏强力干预权能。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 328)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 65)]]
 
 > [!citation-card] 政治妥协下的教育体系分立隐患
