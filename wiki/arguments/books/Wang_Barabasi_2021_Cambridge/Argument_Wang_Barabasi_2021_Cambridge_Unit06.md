@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 11
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,10 @@ related_concepts:
   - "[[Collaboration Penalty for Women]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Scientific Credit]]"
+  - "[[Author Contribution Disclosures]]"
+  - "[[Co-first Authorship]]"
+  - "[[Guest Authorship]]"
+  - "[[Ghost Authorship]]"
   - "[[Reverse Matthew Effect in Academia]]"
 related_theories:
   - "[[Thomas Theorem]]"
@@ -73,8 +77,10 @@ updated: "2026-10-30"
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Scientific Credit\|科学贡献认可构念]]与单兵奖励脱节论** | 揭示现代科学建制中高度推崇个体优先权的评聘奖励系统与日益庞大的团队协作现实之间的结构性断裂（pp. 135–136）。 |
-> | **首位与末位署名启发式（First and Last Authorship）** | 解释自然科学界如何依托排位规范形成对核心执行者（首位）与学术主导者（末位通讯）的快速认知归类（pp. 137–139）。 |
+> | **[[Author Contribution Disclosures\|贡献声明制]]与首末位分工** | 阐明通过任务细分自陈检验署名顺序的制度设计，揭示首末位双核主导与中间署名同质化规律（pp. 137–139）。 |
+> | **[[Co-first Authorship\|共同第一署名制]]与引文折叠困境** | 剖析应对复杂攻关而兴起的首席并列署名规范，揭示简略引文格式对排位居次者的系统性遮蔽（pp. 140–141）。 |
 > | **[[Alphabetical Authorship\|按姓氏字母顺序署名制]]与高准入门槛** | 阐明数学与经济学基于成果不可分割哲学确立的平权署名机制，分析其对荣誉挂名者的抑制与信息透明度的剥夺（pp. 141–143）。 |
+> | **[[Guest Authorship\|挂名署名]]与[[Ghost Authorship\|幽灵署名]]异化** | 揭示大科学时代不当荣誉列名与初阶学者实质劳动被剥夺的学术伦理双重异化现象（pp. 143–144）。 |
 > | **[[Collaboration Penalty for Women\|女性科研合作惩罚]]与无意识归因偏见** | 解释在缺乏明晰位次信息的学科中，评聘专家如何习惯性将合著成果的智力主导权归属于男性合署人，造成女性晋升信用归零（pp. 144–146）。 |
 > | **[[Matthew Effect in Academia\|学术马太效应]]的双渠道运作模型** | 区分学术交流渠道（声望作为质量信号）与奖励分配渠道（声望吸附合作成果信誉），解释知名学者对合作信誉的垄断（pp. 148–150）。 |
 > | **[[Reverse Matthew Effect in Academia\|逆向马太效应]]的团队内外悖论消解** | 区分跨团队比较与团队内部比较，解释权威学者在撤稿事件中既遭受外部严惩又能在团队内部向青年学者转嫁责任的双重机制（pp. 150–151）。 |
@@ -167,13 +173,13 @@ updated: "2026-10-30"
 > | **第三及后续署名者** | 边缘协作人员，提供特定试剂、单项测试或局部建议 | 贡献广度均处于较低平台期，相互之间无统计可分性（p. 139） | 一般协作参与者，学术晋升权重相对有限 |
 
 > [!warning] 贡献自述申报的主观冲突与跨学科评聘认知盲区
-> 期刊推行的分工自述声明无法彻底消除归因模糊：
+> 期刊推行的[[Author Contribution Disclosures|贡献声明制]]（Author Contribution Disclosures）无法彻底消除归因模糊：
 > - **团队内部认知的广泛分歧** 《克罗地亚医学杂志》对 919 位通讯学者的实证调查表明，69.4% 的团队在成员具体贡献界定上存在冲突，普通团队成员勾选的贡献类别显著多于通讯学者为其认定的内容 (Marušić et al., 2006, p. 139)。
 > - **跨学科人才引进中的文化误读** 生物学与物理学将末位署名视作独立学术领导力，首位署名过多反而被视为缺乏独立带组能力；心理学与社会学则将资深导师置于首位署名排位，末位署名被视作边缘贡献。这种学科规范差异导致跨学科聘用委员会常因位次传统不同而误判候选人的科研水准（pp. 139–140）。
 > - **署名争议引发的非学术性撤稿** 2017 年发表于《基因、大脑与行为》（*Genes, Brain, and Behavior*）的一项成果因全体合署人对排位产生无法调和的争议而被期刊撤稿，证实署名利益冲突已成为威胁科研诚信的现实诱因（p. 140）。
 
 > [!challenges] 专栏 13.1｜共同首位署名的兴起与引文折叠困境
-> 过去三十年中，两名及以上合署学者声明享有共同首位署名（Joint / Co-first Authorship）身份的成果比例剧增（Box 13.1, p. 140）：
+> 过去三十年中，两名及以上合署学者声明享有[[Co-first Authorship|共同第一署名]]（Joint / Co-first Authorship）身份的成果比例剧增（Box 13.1, p. 140）：
 > - **顶刊普及率飞跃** 此类成果在 1990 年顶级生物医学期刊中尚属空白，至 2012 年，《细胞》（Cell）刊发成果中有 36.9% 为共同首位署名，《自然》（Nature）达 32.9%，《科学》（Science）达 24.9%（p. 140）。
 > - **成因驱动** 完成高难度竞争性研究需要多位核心领头研究人员共同投入高强度劳动；同时跨学科前沿探索要求互补领域的专长嵌合，单兵学者难以独立驾驭完整项目（p. 140）。
 > - **引用格式的隐性剥夺** 尽管出版物在正文扉页通过星号或上标清晰标注同等贡献，但后续文献在参考文献列表中普遍采纳首位署名者加 et al. 的折叠格式，导致排在第二位的共同首位学者在后续学术传播与引文索引中完全隐形；部分期刊（如 *Gastroenterology* 与 *Molecular Biology of the Cell*）已开始强制要求在参考文献中对共同首位学者姓名加粗，以维护学术平权（p. 140）。
@@ -210,8 +216,8 @@ updated: "2026-10-30"
 
 > [!warning] 专栏 13.2｜荣誉挂名与隐形贡献的学术伦理异化
 > 团队规模膨胀带来了显著的学术伦理问题（Box 13.2, p. 143）：
-> - **荣誉挂名（Guest Authorship）的泛滥** 对自然科学与社会科学 2,300 位首位署名学者的调查表明，33% 的学术成果包含未达到署名标准的荣誉挂名人员；这一比例随团队规模激增，由 3 人团队的 9% 剧增至 6 人以上团队的 30%，最核心的动机是协助合作学者通过聘任考核（p. 143）。
-> - **隐形贡献（Ghost Authorship）的剥夺** 超过半数的学术成果存在付出实质智力或实验劳动却未被列入署名名单的隐形贡献者；在科学史中，波义耳（Robert Boyle）等早期科学家将实验助手从成果发表中抹去（p. 143）。在现代科研中，承担繁重实验与编程工作的研究生和博士后成为最主要的受害者（p. 143）。
+> - **[[Guest Authorship|荣誉挂名]]（Guest Authorship）的泛滥** 对自然科学与社会科学 2,300 位首位署名学者的调查表明，33% 的学术成果包含未达到署名标准的荣誉挂名人员；这一比例随团队规模激增，由 3 人团队的 9% 上升至 6 人以上团队的 30%，最核心的动机是协助合作学者通过聘任考核（p. 143）。
+> - **[[Ghost Authorship|隐形贡献]]（Ghost Authorship）的剥夺** 超过半数的学术成果存在付出实质智力或实验劳动却未被列入署名名单的隐形贡献者；在科学史中，波义耳（Robert Boyle）等早期科学家将实验助手从成果发表中抹去（p. 143）。在现代科研中，承担繁重实验与编程工作的研究生和博士后成为最主要的受害者（p. 143）。
 
 > [!figure]- 图13-3：十七世纪实验室中的隐形技工图景
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_13-3_Invisible_Technicians.jpg)

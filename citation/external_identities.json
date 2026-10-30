@@ -1710,7 +1710,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Team Diversity.md"
       ],
       "title": ""
     },
@@ -17840,6 +17841,14 @@
       ],
       "title": ""
     },
+    "Castelvecchi, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Hyperauthorship.md"
+      ],
+      "title": ""
+    },
     "Castillo-Manzano et al., 2016": {
       "datasets": [
         "metax:S2355"
@@ -21879,6 +21888,14 @@
       ],
       "title": "From policy transfer to mutual learning?"
     },
+    "Conte et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Co-first Authorship.md"
+      ],
+      "title": ""
+    },
     "Contract Accord 14, 2020": {
       "doi": "",
       "isbn": "",
@@ -22541,6 +22558,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Author Contribution Disclosures.md",
         "wiki/concepts/science-policy/Scientific Credit.md"
       ],
       "title": ""
@@ -23325,6 +23343,14 @@
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wiliam_2019_ERE.md",
         "wiki/concepts/research-methodology/Validity as Inferences.md",
         "wiki/persons/uk/Dylan Wiliam.md"
+      ],
+      "title": ""
+    },
+    "Cronin, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Hyperauthorship.md"
       ],
       "title": ""
     },
@@ -35082,7 +35108,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Homophily.md",
+        "wiki/concepts/science-policy/Team Diversity.md"
       ],
       "title": ""
     },
@@ -41542,6 +41570,7 @@
         "wiki/concepts/educational-technology/Computer Simulation.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
         "wiki/concepts/science-policy/Giant Component.md",
+        "wiki/concepts/science-policy/Homophily.md",
         "wiki/theories/science-policy/Team Assembly Model.md"
       ],
       "title": ""
@@ -49216,6 +49245,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
         "wiki/concepts/educational-technology/Presence.md",
         "wiki/concepts/educational-technology/Virtual World.md"
+      ],
+      "title": ""
+    },
+    "Ilakovac et al., 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Author Contribution Disclosures.md"
       ],
       "title": ""
     },
@@ -67291,6 +67328,14 @@
       "seen_in": [],
       "title": "Perceived social support and self-regulated learning: A systematic review and meta-analysis."
     },
+    "Martinson et al., 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Guest Authorship.md"
+      ],
+      "title": ""
+    },
     "Marton & Säljö, 1976": {
       "doi": "",
       "isbn": "",
@@ -82972,7 +83017,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Team Diversity.md"
       ],
       "title": ""
     },
@@ -93708,7 +93754,8 @@
       "doi": "10.2307/27856006",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Ghost Authorship.md"
       ],
       "title": "The Invisible Technician"
     },
@@ -105866,6 +105913,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
         "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Homophily.md",
         "wiki/concepts/science-policy/Six Degrees of Separation.md",
         "wiki/concepts/science-policy/Small-World Quotient.md",
         "wiki/theories/science-policy/Small-World Collaboration Model.md"
@@ -111129,6 +111177,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of two anxiety reducing interventions on Algebra I test scores for a sample of rural high school students"
+    },
+    "Wislar et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Ghost Authorship.md",
+        "wiki/concepts/science-policy/Guest Authorship.md"
+      ],
+      "title": ""
     },
     "Wissenschaftsrat, 2004": {
       "doi": "",

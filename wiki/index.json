@@ -15805,6 +15805,21 @@
     ]
   },
   {
+    "title": "Author Contribution Disclosures",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Author Contribution Disclosures.md",
+    "aliases": [
+      "贡献声明制",
+      "贡献声明",
+      "作者贡献声明制",
+      "作者贡献声明",
+      "贡献者角色分类",
+      "贡献自陈制",
+      "author contribution sections",
+      "contributor roles taxonomy"
+    ]
+  },
+  {
     "title": "Basic-Applied Research Dichotomy",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Basic-Applied Research Dichotomy.md",
@@ -15870,6 +15885,21 @@
       "DTCO",
       "System-Technology Co-Optimization",
       "STCO"
+    ]
+  },
+  {
+    "title": "Co-first Authorship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Co-first Authorship.md",
+    "aliases": [
+      "共同第一署名",
+      "共同第一署名制",
+      "共同第一作者",
+      "共同第一作者制",
+      "联合第一署名",
+      "并列首位署名",
+      "joint first authorship",
+      "co-first authors"
     ]
   },
   {
@@ -16161,6 +16191,19 @@
     ]
   },
   {
+    "title": "Ghost Authorship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Ghost Authorship.md",
+    "aliases": [
+      "幽灵署名",
+      "影子学者",
+      "隐形贡献者",
+      "幽灵作者",
+      "隐形技术员",
+      "ghost authors"
+    ]
+  },
+  {
     "title": "Giant Component",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Giant Component.md",
@@ -16218,6 +16261,22 @@
     ]
   },
   {
+    "title": "Guest Authorship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Guest Authorship.md",
+    "aliases": [
+      "挂名署名",
+      "荣誉署名",
+      "礼遇署名",
+      "挂名学者",
+      "赠予署名",
+      "客座署名",
+      "guest authors",
+      "gift authorship",
+      "honorary authorship"
+    ]
+  },
+  {
     "title": "Hardware Security",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Hardware Security.md",
@@ -16255,6 +16314,18 @@
     ]
   },
   {
+    "title": "Homophily",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Homophily.md",
+    "aliases": [
+      "同质偏好",
+      "同质性",
+      "族裔同质偏好",
+      "学术同质偏好",
+      "Homophily in Science"
+    ]
+  },
+  {
     "title": "Hot Streak",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Hot Streak.md",
@@ -16264,6 +16335,17 @@
       "创造力爆发期",
       "热手效应 (科学学)",
       "Hot Streaks in Creative Careers"
+    ]
+  },
+  {
+    "title": "Hyperauthorship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Hyperauthorship.md",
+    "aliases": [
+      "超署名",
+      "超级署名",
+      "海量作者署名",
+      "Massive Coauthorship"
     ]
   },
   {
@@ -16764,6 +16846,17 @@
       "超级合作联结",
       "终身学术搭档",
       "Super Ties"
+    ]
+  },
+  {
+    "title": "Team Diversity",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Team Diversity.md",
+    "aliases": [
+      "团队多样性",
+      "团队多元化",
+      "科研团队多样性",
+      "Team Heterogeneity"
     ]
   },
   {

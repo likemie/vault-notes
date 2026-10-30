@@ -4041,6 +4041,8 @@
     "Castells, 2000d": "Castells, 2000d",
     "Castells, 2009": "Castells, 2009",
     "Castells, 2011": "Castells, 2011",
+    "Castelvecchi (2015)": "Castelvecchi, 2015",
+    "Castelvecchi, 2015": "Castelvecchi, 2015",
     "Castillo-Manzano et al. (2016)": "Castillo-Manzano et al., 2016",
     "Castillo-Manzano et al., 2016": "Castillo-Manzano et al., 2016",
     "Castle (1994)": "Castle, 1994",
@@ -4975,6 +4977,8 @@
     "Consolie, 1999": "Consolie, 1999",
     "Constantine & Shankland (2017)": "Constantine & Shankland, 2017",
     "Constantine & Shankland, 2017": "Constantine & Shankland, 2017",
+    "Conte et al. (2013)": "Conte et al., 2013",
+    "Conte et al., 2013": "Conte et al., 2013",
     "Contract Accord 14 (2020)": "Contract Accord 14, 2020",
     "Contract Accord 14, 2020": "Contract Accord 14, 2020",
     "Contreras (2012)": "Contreras, 2012",
@@ -5303,6 +5307,8 @@
     "Cronbach, 1949": "Cronbach, 1949",
     "Cronbach, 1970": "Cronbach, 1970",
     "Cronbach, 1971": "Cronbach, 1971",
+    "Cronin (2001)": "Cronin, 2001",
+    "Cronin, 2001": "Cronin, 2001",
     "Crook (2000)": "Crook, 2000",
     "Crook, 2000": "Crook, 2000",
     "Crooks (2008)": "Crooks, 2008",
@@ -11171,6 +11177,8 @@
     "Ihmeideh, 2020": "Ihmeideh, 2020",
     "Ijsselsteijn et al. (2000)": "Ijsselsteijn et al., 2000",
     "Ijsselsteijn et al., 2000": "Ijsselsteijn et al., 2000",
+    "Ilakovac et al. (2007)": "Ilakovac et al., 2007",
+    "Ilakovac et al., 2007": "Ilakovac et al., 2007",
     "Ilgun Dibek et al. (2024)": "Ilgun Dibek et al., 2024",
     "Ilgun Dibek et al., 2024": "Ilgun Dibek et al., 2024",
     "Ili et al. (2021)": "Ili et al., 2021",
@@ -15308,6 +15316,8 @@
     "Martinez, 2023": "Martinez, 2023",
     "Martinez-Lopez et al. (2023)": "Martinez-Lopez et al., 2023",
     "Martinez-Lopez et al., 2023": "Martinez-Lopez et al., 2023",
+    "Martinson et al. (2005)": "Martinson et al., 2005",
+    "Martinson et al., 2005": "Martinson et al., 2005",
     "Marton & Säljö (1976)": "Marton & Säljö, 1976",
     "Marton & Säljö, 1976": "Marton & Säljö, 1976",
     "Marton (1981)": "Marton, 1981",
@@ -25292,6 +25302,8 @@
     "Wisenöcker et al., 2023": "Wisenöcker et al., 2023",
     "Wisinger (2010)": "Wisinger, 2010",
     "Wisinger, 2010": "Wisinger, 2010",
+    "Wislar et al. (2011)": "Wislar et al., 2011",
+    "Wislar et al., 2011": "Wislar et al., 2011",
     "Wissenschaftsrat (2004)": "Wissenschaftsrat, 2004",
     "Wissenschaftsrat, 2004": "Wissenschaftsrat, 2004",
     "Witkin (1974)": "Witkin, 1974",
@@ -29877,7 +29889,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Team Diversity.md"
       ],
       "title": ""
     },
@@ -56685,6 +56698,21 @@
       ],
       "title": ""
     },
+    "Castelvecchi, 2015": {
+      "aliases": [
+        "Castelvecchi, 2015",
+        "Castelvecchi (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Castelvecchi, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Hyperauthorship.md"
+      ],
+      "title": ""
+    },
     "Castillo-Manzano et al., 2016": {
       "aliases": [
         "Castillo-Manzano et al., 2016",
@@ -63282,6 +63310,21 @@
       ],
       "title": "From policy transfer to mutual learning?"
     },
+    "Conte et al., 2013": {
+      "aliases": [
+        "Conte et al., 2013",
+        "Conte et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Conte et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Co-first Authorship.md"
+      ],
+      "title": ""
+    },
     "Contract Accord 14, 2020": {
       "aliases": [
         "Contract Accord 14, 2020",
@@ -64368,6 +64411,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Author Contribution Disclosures.md",
         "wiki/concepts/science-policy/Scientific Credit.md"
       ],
       "title": ""
@@ -65659,6 +65703,21 @@
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wiliam_2019_ERE.md",
         "wiki/concepts/research-methodology/Validity as Inferences.md",
         "wiki/persons/uk/Dylan Wiliam.md"
+      ],
+      "title": ""
+    },
+    "Cronin, 2001": {
+      "aliases": [
+        "Cronin, 2001",
+        "Cronin (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cronin, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Hyperauthorship.md"
       ],
       "title": ""
     },
@@ -85279,7 +85338,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Homophily.md",
+        "wiki/concepts/science-policy/Team Diversity.md"
       ],
       "title": ""
     },
@@ -95945,6 +96006,7 @@
         "wiki/concepts/educational-technology/Computer Simulation.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
         "wiki/concepts/science-policy/Giant Component.md",
+        "wiki/concepts/science-policy/Homophily.md",
         "wiki/theories/science-policy/Team Assembly Model.md"
       ],
       "title": ""
@@ -108598,6 +108660,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
         "wiki/concepts/educational-technology/Presence.md",
         "wiki/concepts/educational-technology/Virtual World.md"
+      ],
+      "title": ""
+    },
+    "Ilakovac et al., 2007": {
+      "aliases": [
+        "Ilakovac et al., 2007",
+        "Ilakovac et al. (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ilakovac et al., 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Author Contribution Disclosures.md"
       ],
       "title": ""
     },
@@ -138258,6 +138335,21 @@
       "seen_in": [],
       "title": "Perceived social support and self-regulated learning: A systematic review and meta-analysis."
     },
+    "Martinson et al., 2005": {
+      "aliases": [
+        "Martinson et al., 2005",
+        "Martinson et al. (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Martinson et al., 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Guest Authorship.md"
+      ],
+      "title": ""
+    },
     "Marton & Säljö, 1976": {
       "aliases": [
         "Marton & Säljö, 1976",
@@ -164207,7 +164299,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Team Diversity.md"
       ],
       "title": ""
     },
@@ -182064,7 +182157,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/concepts/science-policy/Ghost Authorship.md"
       ],
       "title": "The Invisible Technician"
     },
@@ -202023,6 +202117,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
         "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Homophily.md",
         "wiki/concepts/science-policy/Six Degrees of Separation.md",
         "wiki/concepts/science-policy/Small-World Quotient.md",
         "wiki/theories/science-policy/Small-World Collaboration Model.md"
@@ -210552,6 +210647,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of two anxiety reducing interventions on Algebra I test scores for a sample of rural high school students"
+    },
+    "Wislar et al., 2011": {
+      "aliases": [
+        "Wislar et al., 2011",
+        "Wislar et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wislar et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Ghost Authorship.md",
+        "wiki/concepts/science-policy/Guest Authorship.md"
+      ],
+      "title": ""
     },
     "Wissenschaftsrat, 2004": {
       "aliases": [
