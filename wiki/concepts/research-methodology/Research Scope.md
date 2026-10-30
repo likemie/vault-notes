@@ -9,7 +9,7 @@ aliases:
 summary: "研究规划中的边界管理概念，指将研究课题收窄到可管理的比例以实现严谨性和可操作性，涉及范围限定、边界设定和窄聚焦策略"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,25 +35,27 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
+  - "[[Derek de Solla Price]]"
 related_facts:
   - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: 2026-06-20
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 ---
 
 > [!def] Research Scope
-> 研究范围（Research Scope）指研究课题的边界设定——界定研究将覆盖什么、不覆盖什么。范围管理的核心原则是窄而深而非宽而浅：一项研究应保持狭窄和有限的范围，以实现可管理性（Manageability）和严谨性（Rigour）。俗话说“吃大象的最佳方式是一次一口”（The best way to eat an elephant is one bite at a time）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
+> 研究范围（Research Scope）指研究课题的边界设定，即界定研究将覆盖什么、不覆盖什么。范围管理的核心原则是窄而深而非宽而浅：一项研究应保持狭窄和有限的范围，以实现可管理性（Manageability）和严谨性（Rigour）。俗话说“吃大象的最佳方式是一次一口”（The best way to eat an elephant is one bite at a time）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
 
-> [!concept-lens] 概念透镜
-> - **含义** 研究范围不是研究的附属属性，而是研究规划的第一道纪律——选择研究课题的专业操守在于将其收窄到可管理且可研究的尺度。范围过大导致研究失控，研究失控则无法嵌入严谨性，缺乏严谨性则研究整体失效。
-> - **用途** 帮助研究者在选题阶段画出审慎的边界：清晰界定研究将做什么和不做什么。清晰、可感知、现实、公平和可管理的边界是研究成立的前提。
+> [!concept-lens|notitle]
+> - **含义** 研究范围构成研究规划的第一道纪律：选择研究课题的专业操守在于将其收窄到可管理且可研究的尺度。范围过大导致研究失控，研究失控则无法嵌入严谨性，缺乏严谨性则研究整体失效。
+> - **用途** 帮助研究者在选题阶段画出审慎的边界，清晰界定研究将做什么和不做什么。清晰、可感知、现实、公平和可管理的边界是研究成立的前提。
 > - **边界** 收窄范围不等于降低研究价值。Axline（1964）聚焦单一儿童产生心理治疗经典，[[Jean Piaget|皮亚杰]]（Piaget, 1932）观察少数儿童构建道德发展理论，均证明了窄聚焦所蕴含的重大理论力量。
 
 > [!citation-card] 吃大象：研究规划中的范围管理与边界设定
@@ -68,7 +70,7 @@ updated: 2026-10-29
 
 ---
 
-> [!contrast-table] 范围管理 vs. 选题确立 vs. 可行性评估
+> [!contrast-table|notitle]
 > | 维度 | 研究范围（Research Scope） | [[Research Topic\|研究选题]]（Research Topic） | [[Research Practicability\|研究可行性]]（Research Practicability） |
 > |---|---|---|---|
 > | **核心任务** | 划定空间、理论与对象边界；课题窄化 | 确定探究焦点、现实痛点与知识缺口 | 评估资源、准入、时间与伦理约束 |
@@ -85,9 +87,10 @@ updated: 2026-10-29
 
 范围管理是[[Research Practicability|研究可行性]]的第六个核心约束维度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, p. 91]]）。
 
-> [!case] 小样本窄聚焦的里程碑案例
+> [!case] 小样本窄聚焦与宏观范围扩展经典案例
 > - **Axline (1964)：一个孩子的革命性研究** 弗吉尼亚·阿克斯莱恩在 *Dibs in Search of Self* 中研究游戏治疗（Play Therapy）对一名儿童 Dibs 的修复效果，样本仅为**一个孩子**。通过深度个案追踪，详细展示了游戏治疗如何帮助情感受创儿童重建自我意识和人际能力，成为心理治疗与教育领域的划时代经典。
-> - **Piaget (1932)：少数几个孩子的理论革命** [[Jean Piaget|让·皮亚杰]]在 *The Moral Judgement of the Child* 中研究儿童道德判断的发展，样本仅为**少数几个孩子**。他没有采用大样本或标准化测验，而是通过[[In-depth Interview|深度访谈]]与对游戏规则的细致观察，构建了从他律道德到自律道德的发展阶段理论，深刻影响了 20 世纪发展心理学与教育学。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, p. 93)]]
+> - **Piaget (1932)：少数几个孩子的理论革命** [[Jean Piaget|让·皮亚杰]]在 *The Moral Judgement of the Child* 中研究儿童道德判断的发展，样本仅为**少数几个孩子**。他通过[[In-depth Interview|深度访谈]]与对游戏规则的细致观察，构建了从他律道德到自律道德的发展阶段理论，深刻影响了 20 世纪发展心理学与教育学。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, p. 93)]]
+> - **Price (1961)：从单刊物理合订本到跨学科总体数据库的范围推演** [[Derek de Solla Price|德里克·德索拉·普莱斯]]最初将研究范围限定在书房内 28 堆皇家学会《哲学汇刊》（*Philosophical Transactions*，1665–1950），测算出厚度翻倍的经验周期；随后系统将研究范围扩展至跨学科期刊总量、科研人员规模以及文摘数据库，验证了指数增长在宏观尺度上的普适性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, p. 161)]]
 
 > [!logic-map]- 课题窄化与方法严谨性的因果链条
 > ```mermaid
@@ -102,8 +105,6 @@ updated: 2026-10-29
 
 ## 围绕概念形成的命题
 
----
-
 > [!concept-proposition] 命题一｜研究课题窄化通向操作严谨性且窄聚焦并不导致浅薄
 > **探讨维度　课题可管理性与方法严谨性的内在关联** 探讨研究规模收窄如何充当保障研究质量与严谨性的首要方法论纪律，以及小样本研究如何实现理论[[Rich and Thick Description|深描]]。
 
@@ -112,14 +113,23 @@ updated: 2026-10-29
 
 ---
 
-> [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-> |---|---|---|---|
-> | **方法论规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位论文选题、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
+> [!concept-proposition] 命题二｜研究范围由微观个案向宏观全景扩展检验实证规律的尺度不变性
+> **探讨维度　分析尺度与经验概括效度** 考察将范围限定于局部样本或单刊档案的微观发现在扩展至跨学科宏观总体时能否保持规律自洽。
+
+> [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] / Price (1961)
+> **从微观载体向宏观总体扩展范围以验证增长定律** [[Derek de Solla Price|普莱斯]]（Price, 1961）的研究表明，严谨的研究范围界定不仅用于微观课题的落地操作，还体现在多阶段研究中审慎推演分析边界：他首先在书房内以英国皇家学会单刊合订本为狭窄研究范围，精确测算出 15 年翻倍的增长节奏；随后他将研究范围拓展至全球期刊清单、科研队伍规模及《物理学文摘》（*Physics Abstracts*），进而确立了科学文献与研发人力普遍遵从指数增长的宏观通则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, pp. 161–164)]]
 
 ---
 
-> [!debates] 学术争议
+> [!contrast-table|notitle]
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **微观规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位研究选题、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
+> | **宏观推演命题** | 研究范围从单一文献样本扩展至宏观科学系统，能够检验经验增长规律的尺度不变性 | 科学计量普查、全景文献追踪、科学学通则建构 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]]; Price (1961) |
+
+---
+
+> [!debates|notitle]
 >
 > > [!axis] 窄聚焦[[Rich and Thick Description|深描]] vs 大样本通则概括
 > > 实证研究究竟应当追求小样本、有限边界下的机制深描，还是大样本覆盖下的统计通则推论。
@@ -129,5 +139,6 @@ updated: 2026-10-29
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]] — 详析教育研究规划中的范围管理纪律，通过小样本经典研究论证窄而深的研究策略如何赋予研究以可操作性与严谨性（pp. 92–93）。
+> [!evidence-grid-a|notitle]
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011)]] — 详析教育研究规划中的范围管理纪律，通过小样本经典研究论证窄而深的研究策略如何赋予研究以可操作性与严谨性（pp. 92–93）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 记录普莱斯如何从单刊书架扩展研究范围至跨学科期刊与科研群体总体，验证指数增长通则（Ch. 7, p. 161）。

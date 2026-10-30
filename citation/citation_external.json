@@ -16271,6 +16271,8 @@
     "Minor, 2001": "Minor, 2001",
     "Mintrom (2000)": "Mintrom, 2000",
     "Mintrom, 2000": "Mintrom, 2000",
+    "Miranda & Garcia-Carpintero (2018)": "Miranda & Garcia-Carpintero, 2018",
+    "Miranda & Garcia-Carpintero, 2018": "Miranda & Garcia-Carpintero, 2018",
     "Miranda (1997)": "Miranda, 1997",
     "Miranda (2002)": "Miranda, 2002",
     "Miranda Fricker (2007)": "Miranda Fricker, 2007",
@@ -24965,6 +24967,8 @@
     "Weiss, 1991b": "Weiss, 1991b",
     "Weiss, 1995": "Weiss, 1995",
     "Weiss, 2006": "Weiss, 2006",
+    "Weitzman (1998)": "Weitzman, 1998",
+    "Weitzman, 1998": "Weitzman, 1998",
     "Welch & Hattie (1987)": "Welch & Hattie, 1987",
     "Welch & Hattie, 1987": "Welch & Hattie, 1987",
     "Welch (1990)": "Welch, 1990",
@@ -35307,7 +35311,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/competency-and-assessment/Creativity.md",
-        "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
+        "wiki/concepts/political-economy-geopolitics/Consumer Internet.md",
+        "wiki/concepts/science-policy/Eroom's Law.md"
       ],
       "title": ""
     },
@@ -45932,7 +45937,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/science-policy/Eroom's Law.md"
       ],
       "title": ""
     },
@@ -75940,7 +75946,6 @@
       "seen_in": [
         "wiki/concepts/comparative-education/Critical Dualism.md",
         "wiki/concepts/comparative-education/Scientific Paradigm.md",
-        "wiki/concepts/educational-philosophy/Falsification.md",
         "wiki/persons/uk/Edmund King.md"
       ],
       "title": ""
@@ -119973,7 +119978,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
-        "wiki/concepts/educational-philosophy/Falsification.md",
         "wiki/persons/uk/Brian Holmes.md",
         "wiki/persons/uk/Edmund King.md"
       ],
@@ -145281,6 +145285,21 @@
       ],
       "title": ""
     },
+    "Miranda & Garcia-Carpintero, 2018": {
+      "aliases": [
+        "Miranda & Garcia-Carpintero, 2018",
+        "Miranda & Garcia-Carpintero (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Miranda & Garcia-Carpintero, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Literature Review.md"
+      ],
+      "title": ""
+    },
     "Miranda Fricker, 2007": {
       "aliases": [
         "Miranda Fricker, 2007",
@@ -164972,7 +164991,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/research-methodology/Research Scope.md"
       ],
       "title": ""
     },
@@ -185211,6 +185231,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/educational-philosophy/Falsification.md",
         "wiki/concepts/research-methodology/Predictive Validity.md",
         "wiki/concepts/science-policy/Lost Winners.md",
         "wiki/concepts/science-policy/Scientific Productivity.md",
@@ -208321,6 +208342,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of multimedia environments on kindergarten children’s mathematical achievements and style of learning"
+    },
+    "Weitzman, 1998": {
+      "aliases": [
+        "Weitzman, 1998",
+        "Weitzman (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Weitzman, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Eroom's Law.md"
+      ],
+      "title": ""
     },
     "Welch & Hattie, 1987": {
       "aliases": [
