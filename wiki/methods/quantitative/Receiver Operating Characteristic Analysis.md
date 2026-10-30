@@ -10,9 +10,9 @@ summary: "源自信号检测论与机器学习、用于评估量化指标与分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -24,18 +24,13 @@ tags:
   - theme/q-factor
 related_concepts:
   - "[[Predictive Validity]]"
-  - "[[Scientific Productivity]]"
 related_theories:
   - "[[Q-Model]]"
 related_methods:
-  - "[[Q-Factor]]"
   - "[[h-Index]]"
-  - "[[Bibliometric Analysis]]"
+  - "[[Q-Factor]]"
 related_instruments: []
-related_persons:
-  - "[[Roberta Sinatra]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"

@@ -9,10 +9,10 @@ aliases:
 summary: "统计物理学与计算社会学中解释人类行为时间间隔非均匀分布的核心理论；由艾伯特－拉斯洛·巴拉巴西（2005）提出，揭示人类通信、邮件回复及创造性产出服从重尾幂律分布，表现为高强度的短暂爆发活动与漫长静默休眠交替出现的突发性（Burstiness），打破了时间均匀泊松过程的传统假设；为科学学中的学术爆发期模型提供了底层的微观统计物理机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 11
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 6
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/burstiness
@@ -21,19 +21,14 @@ tags:
   - theme/hot-streaks
 related_concepts:
   - "[[Hot Streak]]"
-  - "[[Scientific Productivity]]"
-  - "[[Creativity]]"
 related_theories:
   - "[[Hot-Streak Model]]"
-  - "[[Q-Model]]"
   - "[[Random Impact Rule]]"
-related_methods:
-  - "[[Bibliometric Analysis]]"
+  - "[[Q-Model]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Albert-László Barabási]]"
-  - "[[Dashun Wang]]"
-  - "[[Lu Liu]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"

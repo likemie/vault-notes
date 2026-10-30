@@ -9,10 +9,10 @@ summary: "复杂网络科学家与计算生物学家，迈阿密大学副教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1970"
 died: ""
 lifespan: "1970–至今"
@@ -24,19 +24,14 @@ tags:
   - theme/computational-biology
 related_concepts:
   - "[[Team Science]]"
-  - "[[Coauthorship Network]]"
-  - "[[Scientific Productivity]]"
 related_theories:
   - "[[Burden of Knowledge]]"
-  - "[[Small-World Collaboration Model]]"
 related_methods:
   - "[[Relative Team Impact]]"
-  - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Brian Uzzi]]"
   - "[[Benjamin F. Jones]]"
+  - "[[Brian Uzzi]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -90,6 +85,14 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - 核心科研伙伴：[[Brian Uzzi]]、[[Benjamin F. Jones]]
-> - 现象载体：[[Team Science]]
-> - 测度工具：[[Relative Team Impact]]
+> - **科研伙伴** [[Brian Uzzi]]、[[Benjamin F. Jones]] — 共同发表 2007 年《科学》经典论著，确立团队科学主导规律。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Team Science]] | 概念 | 首次通过海量文献与专利大数据证实团队科学取代个体科研的主导地位。 |
+> | [[Relative Team Impact]] | 方法 | 共同提出相对团队影响力测度方法，量化团队引文相较单人独立成果的系统性溢价。 |
+> | [[Burden of Knowledge]] | 理论 | 为团队科研优势提供分工深化以应对知识积累负担的理论支撑。 |

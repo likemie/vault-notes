@@ -9,7 +9,7 @@ summary: "德籍应用微观经济学与科学学学者，慕尼黑大学应用�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 9
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,12 +26,10 @@ related_concepts:
   - "[[Peer Effects in Science]]"
   - "[[Invisible College]]"
   - "[[Reflection Problem]]"
-  - "[[Scientific Productivity]]"
 related_theories: []
 related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Pierre Azoulay]]"

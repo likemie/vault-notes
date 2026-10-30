@@ -23,14 +23,14 @@ related_concepts:
 related_theories:
   - "[[Small-World Collaboration Model]]"
   - "[[Preferential Attachment in Academia]]"
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Paul Erdős]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -90,7 +90,7 @@ updated: 2026-10-30
 > **探讨维度　学术共同体的拓扑连通性** 探讨高度分散的学术个体是否通过少数超级枢纽节点形成紧密相连的全局整体。
 
 > [!claim] Wang, D. & Barabási, A.-L.
-> **超短平均距离与全局连通** 科学家的合著网络依托超级枢纽节点的辐射形成紧密的拓扑缝合；数学界全域中位数仅为 5 步，绝大多数学者聚集在 2 至 5 步之间，表明现代科学系统是由短程连接紧密耦合的协同网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–104)]]
+> **超短平均距离与全局连通** 科学家的合著网络依托超级枢纽节点的辐射形成紧密的拓扑缝合；数学界全域中位数仅为 5 步，绝大多数学者聚集在 2 至 5 步之间，表明现代科学系统是由短程连接紧密联结的协同网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–104)]]
 
 ---
 

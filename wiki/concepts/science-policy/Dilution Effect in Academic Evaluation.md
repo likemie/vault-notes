@@ -9,10 +9,10 @@ aliases:
 summary: "学术同行评审与人才评价中违背传统单调累积指标的认知决策现象；指在顶尖代表作清单之后增补中低层级正规成果，未能提升学者综合声望反而招致同行专家显著降分惩罚的心理学效应；由 Powdthavee et al.（2018）对全球排名前 10% 大学经济学知名教授的双盲实地实验所证实（短简历仅含顶刊平均得分 8.1 分，长简历增发次级刊物后评分下滑至 7.6 分）；揭示出顶尖专家在评价人才时遵循基于均值卓越的 Q 因子逻辑，而非单纯追求篇数累加的工分逻辑。"
 type: concept
 domain: "science-policy"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-policy
   - theme/peer-review
@@ -20,20 +20,14 @@ tags:
   - concept/cognitive-bias
 related_concepts:
   - "[[Predictive Validity]]"
-  - "[[Peer Effects in Science]]"
-  - "[[Scientific Productivity]]"
 related_theories:
   - "[[Q-Model]]"
 related_methods:
   - "[[Q-Factor]]"
   - "[[h-Index]]"
-  - "[[Bibliometric Analysis]]"
   - "[[Receiver Operating Characteristic Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Roberta Sinatra]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
@@ -90,10 +84,6 @@ updated: 2026-10-30
 >   G --> H["证实单调累积指标 (h 指数/篇数) 与专家心智冲突"]
 >   H --> I["印证 Q 因子基于均值稳定性的预测效度"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

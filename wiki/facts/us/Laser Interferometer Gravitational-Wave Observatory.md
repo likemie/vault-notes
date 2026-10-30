@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -24,13 +24,12 @@ tags:
   - theme/hyperauthorship
   - theme/physics
 related_concepts:
+  - "[[Big Science]]"
   - "[[Team Science]]"
   - "[[Coauthorship Network]]"
-  - "[[Scientific Productivity]]"
 related_theories:
   - "[[Burden of Knowledge]]"
-related_methods:
-  - "[[Relative Team Impact]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

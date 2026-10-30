@@ -9,7 +9,7 @@ aliases:
 summary: "科学学与创造力研究中指学者、艺术家与导演在其职业生涯中出现的短期高集中度卓越产出时期。实证表明约 90% 的科研人员经历至少一次爆发期，大多具有终身唯一性，平均持续约 3.7–4 年；爆发期在学术生涯中的起始时机随机分布，爆发期间发文数量保持平稳，产出表现为成果单篇质量与影响力的集中提高。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,19 +25,22 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Paradigm]]"
   - "[[Incubation]]"
-  - "[[Exploration-Exploitation in Science]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Hot-Streak Model]]"
+  - "[[Burstiness in Human Activities]]"
+  - "[[Hot Hand Fallacy]]"
 related_methods:
   - "[[Pilot Testing]]"
 related_instruments: []
 related_persons:
   - "[[John B. Fenn]]"
+  - "[[Lu Liu]]"
 related_facts:
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -93,10 +96,6 @@ updated: 2026-10-30
 >     D --> F["生涯第 1、2、3 代表作紧密相连"]
 >     F --> G["红利衰退，回归基线状态"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 
@@ -161,3 +160,16 @@ updated: 2026-10-30
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 大样本实证确立学术爆发期的终身唯一性、跨领域普遍性与时序随机性，揭示基金资助滞后与刚性年龄门槛的制度弊端。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Hot-Streak Model]] | 理论 | 将学术爆发期形式化为“探索－利用”动力学转移的数学模型。 |
+> | [[Random Impact Rule]] | 理论 | 爆发期所打破（局部自相关）与契合（起点随机）的独立无记忆基准规律。 |
+> | [[Burstiness in Human Activities]] | 理论 | 为创造力成簇爆发提供重尾幂律时间序列支撑的统计物理理论。 |
+> | [[Hot Hand Fallacy]] | 理论 | 爆发期研究在认知心理与篮球投掷公案中相呼应的连胜争论背景。 |
+> | [[Lu Liu]] | 人物 | 领衔开展跨界创造力大样本实证并形式化爆发期特征的学者。 |
+> | [[John B. Fenn]] | 人物 | 年逾七旬迎来爆发期并斩获诺贝尔奖的大器晚成型实证标杆案例。 |

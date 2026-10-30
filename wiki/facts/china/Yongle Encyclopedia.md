@@ -24,8 +24,8 @@ tags:
   - theme/history-of-knowledge
 related_concepts:
   - "[[Team Science]]"
-  - "[[Document]]"
   - "[[Coauthorship Network]]"
+  - "[[Document]]"
 related_theories:
   - "[[Burden of Knowledge]]"
 related_methods: []

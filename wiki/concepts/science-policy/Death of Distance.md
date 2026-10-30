@@ -8,10 +8,10 @@ aliases:
 summary: "假定现代信息通信技术的普及将彻底消除地理空间对知识生产与协作阻碍的理论假说；科学学大数据实证表明该假说并不成立：虽然跨机构与跨国合作带来了显著的引用溢价，但学术合作频率仍随物理距离呈严格的幂律衰减，面对面交流与地理邻近集聚依然是驱动深度知识创新的关键粘性要素。"
 type: concept
 domain: "science-policy"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/geography-of-science
@@ -21,17 +21,12 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Coauthorship Network]]"
   - "[[Peer Effects in Science]]"
-  - "[[Invisible College]]"
 related_theories:
   - "[[Burden of Knowledge]]"
-  - "[[Small-World Collaboration Model]]"
 related_methods:
   - "[[Relative Team Impact]]"
-  - "[[Network Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Benjamin F. Jones]]"
-  - "[[Brian Uzzi]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"

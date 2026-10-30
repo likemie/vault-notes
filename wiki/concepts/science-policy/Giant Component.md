@@ -9,10 +9,10 @@ aliases:
 summary: "复杂网络与图论中占据网络绝大多数节点的单一最大连通子图；在科学合著网络中由渗流相变自发涌现，通常囊括全学科 80%–90% 的活跃学者，消除了绝大多数孤立研究群岛，使全域学者能够通过有限几步合作路径形成紧密的学术协同网络。"
 type: concept
 domain: "science-policy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/network-science
@@ -22,16 +22,13 @@ related_concepts:
   - "[[Coauthorship Network]]"
   - "[[Erdős Number]]"
   - "[[Clustering Coefficient]]"
-  - "[[Team Science]]"
+  - "[[Six Degrees of Separation]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
   - "[[Preferential Attachment in Academia]]"
-related_methods:
-  - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Paul Erdős]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -128,5 +125,5 @@ updated: 2026-10-30
 > | [[Erdős Number]] | 概念 | 巨连通分支内部学者普遍拥有有限合作跳数的具体表现指标。 |
 > | [[Clustering Coefficient]] | 概念 | 刻画巨连通分支微观局域密实度的互补拓扑指标。 |
 > | [[Six Degrees of Separation]] | 概念 | 依托巨连通分支所实现的跨学科超短拓扑距离。 |
-> | [[Small-World Collaboration Model]] | 理论 | 统合巨连通性与局域高聚类的团队合作生成理论。 |
+> | [[Small-World Collaboration Model]] | 理论 | 结合巨连通性与局域高聚类的团队合作生成理论。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 驱动网络中心度两极分化并加速巨组件凝聚的演化机制。 |

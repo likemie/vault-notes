@@ -11,10 +11,10 @@ summary: "创新经济学与科学社会学学者，佐治亚理工学院施勒�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1978"
 died: ""
 lifespan: "1978–至今"
@@ -27,11 +27,7 @@ tags:
 related_concepts:
   - "[[Peer Effects in Science]]"
   - "[[Star Scientists]]"
-  - "[[Invisible College]]"
-  - "[[Coauthorship Network]]"
-related_theories:
-  - "[[Small-World Collaboration Model]]"
-  - "[[Burden of Knowledge]]"
+related_theories: []
 related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Bibliometric Analysis]]"

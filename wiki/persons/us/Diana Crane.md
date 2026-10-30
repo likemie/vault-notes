@@ -9,7 +9,7 @@ summary: "美国科学社会学与文化社会学家，宾夕法尼亚大学社�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,15 +25,12 @@ related_concepts:
   - "[[Invisible College]]"
   - "[[Peer Effects in Science]]"
   - "[[Coauthorship Network]]"
-related_theories:
-  - "[[Preferential Attachment in Academia]]"
-related_methods:
-  - "[[Bibliometric Analysis]]"
-  - "[[Network Analysis]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Derek de Solla Price]]"
   - "[[Robert K. Merton]]"
+  - "[[Derek de Solla Price]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"

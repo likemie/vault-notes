@@ -7,10 +7,10 @@ aliases:
 summary: "复杂网络分析中量化节点局部连边紧密程度与三元互联倾向的核心拓扑度量；定义为某个节点的邻居节点之间实际存在的连边数占可能最大连边数的比例；在科学合著网络中实测值高达 0.1–0.3（比同阶随机网络高出几个数量级），刻画了学者倾向于在小圈子、研究团队与学术学派中形成高内聚协同的局域特征。"
 type: concept
 domain: "science-policy"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/network-science
@@ -18,19 +18,15 @@ tags:
   - theme/graph-theory
 related_concepts:
   - "[[Coauthorship Network]]"
-  - "[[Erdős Number]]"
   - "[[Giant Component]]"
-  - "[[Team Science]]"
+  - "[[Erdős Number]]"
+  - "[[Six Degrees of Separation]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
-  - "[[Preferential Attachment in Academia]]"
 related_methods:
   - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Paul Erdős]]"
-  - "[[Brian Uzzi]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -130,5 +126,5 @@ updated: 2026-10-30
 > | [[Giant Component]] | 概念 | 与集聚系数共同构成小世界网络全局拓扑骨架。 |
 > | [[Erdős Number]] | 概念 | 测度与核心枢纽拓扑跳数的互补距离指标。 |
 > | [[Six Degrees of Separation]] | 概念 | 与高集聚系数并列作为小世界网络判定的两大核心准则。 |
-> | [[Small-World Collaboration Model]] | 理论 | 将高集聚与短距离统合为团队合作动力学模型的理论框架。 |
+> | [[Small-World Collaboration Model]] | 理论 | 将高集聚与短距离整合为团队合作动力学模型的理论框架。 |
 > | [[Network Analysis]] | 方法 | 计算节点三元闭包与全网平均集聚系数的基础图论分析工具。 |

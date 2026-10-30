@@ -9,10 +9,10 @@ aliases:
 summary: "认知科学、行为经济学与科学学中关于个体在经历连续成功后是否具备持续高成功概率的经典理论争论；托马斯·吉洛维奇与阿莫斯·特沃斯基等人（1985）将其定性为小数定律引发的认知偏误；米勒与桑胡尔霍（2018）在数理统计上证明传统样本计算存在系统性负偏误，证实真实手感在统计上客观存在；该争论直接启迪了科学学探究学术创造力是否存在真实的爆发期机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 10
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 5
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/hot-hand
@@ -21,18 +21,13 @@ tags:
   - theme/hot-streaks
 related_concepts:
   - "[[Hot Streak]]"
-  - "[[Scientific Productivity]]"
-  - "[[Creativity]]"
 related_theories:
   - "[[Hot-Streak Model]]"
   - "[[Random Impact Rule]]"
   - "[[Burstiness in Human Activities]]"
-related_methods:
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Lu Liu]]"
-  - "[[Dashun Wang]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"

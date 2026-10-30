@@ -10,10 +10,10 @@ summary: "英国统计物理学家与复杂网络领军学者，密歇根大学 
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1966"
 died: ""
 lifespan: "1966–至今"
@@ -26,18 +26,13 @@ tags:
 related_concepts:
   - "[[Coauthorship Network]]"
   - "[[Clustering Coefficient]]"
+  - "[[Six Degrees of Separation]]"
   - "[[Giant Component]]"
-  - "[[Erdős Number]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
-  - "[[Preferential Attachment in Academia]]"
-related_methods:
-  - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Paul Erdős]]"
-  - "[[Brian Uzzi]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -92,6 +87,16 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - 核心实体：[[Coauthorship Network]]
-> - 拓扑度量：[[Clustering Coefficient]]、[[Giant Component]]、[[Erdős Number]]
-> - 理论模型：[[Small-World Collaboration Model]]
+> - **合作同行** 邓肯·瓦茨（Duncan Watts）、艾伯特－拉斯洛·巴拉巴西（Albert-László Barabási） — 共同推进复杂网络统计物理与小世界拓扑实证分析。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Coauthorship Network]] | 概念 | 首次对跨学科百万级学者合著记录展开全景实证测算与图论建模。 |
+> | [[Six Degrees of Separation]] | 概念 | 实测揭示跨学科合著网络平均最短路径稳定落在 5 至 6 步区间。 |
+> | [[Clustering Coefficient]] | 概念 | 测算合著网络局域三元闭包概率，证实其较随机图高出数千倍的内聚特性。 |
+> | [[Giant Component]] | 概念 | 解析合著网络中的渗流相变，确立巨连通分支覆盖全域 80%–90% 学者的拓扑骨干。 |
+> | [[Small-World Collaboration Model]] | 理论 | 为合著网络兼具高聚类与短距离的小世界特征提供统计物理理论基础。 |

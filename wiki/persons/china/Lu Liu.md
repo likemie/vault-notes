@@ -8,10 +8,10 @@ summary: "计算社会科学家与科学学青年学者，宾夕法尼亚州立�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1990"
 died: ""
 lifespan: "1990–至今"
@@ -22,22 +22,16 @@ tags:
   - theme/hot-streaks
   - theme/scientific-career
 related_concepts:
-  - "[[Hot Streak]]"
   - "[[Exploration-Exploitation in Science]]"
-  - "[[Scientific Productivity]]"
-  - "[[Creativity]]"
+  - "[[Hot Streak]]"
 related_theories:
   - "[[Hot-Streak Model]]"
-  - "[[Q-Model]]"
   - "[[Random Impact Rule]]"
-related_methods:
-  - "[[Q-Factor]]"
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Roberta Sinatra]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
@@ -92,6 +86,15 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - 导师与核心科研伙伴：[[Dashun Wang]]、[[Albert-László Barabási]]
-> - 核心理论：[[Hot-Streak Model]]、[[Q-Model]]
-> - 核心概念：[[Hot Streak]]、[[Exploration-Exploitation in Science]]
+> - **导师与合作同行** [[Dashun Wang]]、[[Albert-László Barabási]] — 联合指导博士研究并合作确立爆发期模型。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Hot-Streak Model]] | 理论 | 领衔提出学术生涯爆发期理论与“探索－利用”两阶段动力学机制。 |
+> | [[Hot Streak]] | 概念 | 首次跨科学、艺术与电影三界系统度量个体创造力成簇爆发特征。 |
+> | [[Exploration-Exploitation in Science]] | 概念 | 揭示学术爆发期由前置探索转向聚焦利用的微观行为机制。 |
+> | [[Random Impact Rule]] | 理论 | 确立在全局随机影响规律之上的局部时空自相关爆发模型。 |

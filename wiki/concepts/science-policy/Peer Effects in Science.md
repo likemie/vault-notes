@@ -8,30 +8,25 @@ aliases:
 summary: "揭示科学家个体生产力与创新绩效受工作场所及学术网络中同行质量显著影响的社会与认知交互现象；涵盖明星学者引进对院系原有成员的生产力溢出、对高水平后继人才的吸附效应，以及日常提供概念反馈与批判意见的实质性同伴支持。"
 type: concept
 domain: "science-policy"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/economics-of-science
   - theme/peer-effects
   - theme/academic-careers
 related_concepts:
+  - "[[Reflection Problem]]"
   - "[[Invisible College]]"
   - "[[Scientific Productivity]]"
-  - "[[Reflection Problem]]"
   - "[[Team Science]]"
-  - "[[Coauthorship Network]]"
-  - "[[Helpful Scientists]]"
-related_theories:
-  - "[[Small-World Collaboration Model]]"
+related_theories: []
 related_methods:
   - "[[Difference-in-Differences]]"
-  - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
-  - "[[Pierre Azoulay]]"
   - "[[Alexander Oettl]]"
 related_facts: []
 related_arguments:
@@ -91,10 +86,6 @@ updated: 2026-10-30
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜名家加盟通过明亮氛围与引才吸附产生显著的社会乘数效应
 > **探讨维度　卓越个体对学术组织的系统性重塑** 围绕明星人才引进究竟属于零和挖角还是具有全局正外部性展开论证。
 
@@ -116,9 +107,8 @@ updated: 2026-10-30
 
 > [!concept-proposition] 命题三｜热心学者的概念性反馈构成了维系同行成果质量的深层隐性生产要素
 > **探讨维度　隐性互助与学术成果质量维护** 剖析非署名同行在概念审阅与思路把关中的实质性智识贡献。
->
-> > [!claim] Oettl, A.
-> > **概念反馈与质量维持** 学术成果产出质量极度依赖日常非正式的思想检验。通过大数据解析医学论著致谢语料并运用猝逝准自然实验，证明频繁提供概念实质反馈（如批评思路与纠正假设）的热心科学家离世后，其学术伙伴的成果平均质量急剧下滑；相比之下，仅提供物理材料或实验工具借用的同行离世并未引发同等波动，确立了概念反馈是驱动科学质量的根本无形资产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> [!claim] Oettl, A.
+> **概念反馈与质量维持** 学术成果产出质量极度依赖日常非正式的思想检验。通过大数据解析医学论著致谢语料并运用猝逝准自然实验，证明频繁提供概念实质反馈（如批评思路与纠正假设）的热心科学家离世后，其学术伙伴的成果平均质量急剧下滑；相比之下，仅提供物理材料或实验工具借用的同行离世并未引发同等波动，确立了概念反馈是驱动科学质量的根本无形资产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 
 ---
 

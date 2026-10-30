@@ -9,31 +9,25 @@ aliases:
 summary: "复杂网络分析与社会学中刻画全局连通性与极短平均网络距离的基础拓扑构念；源于匈牙利作家卡林蒂（1929）文学构想与社会心理学家米尔格拉姆（1967）连锁信小世界实验，在现代科学计量学中通过海量合著网络大数据得到精确验证；实测显示全球数百万科学家之间的平均最短路径长度稳定在 5 至 6 步之间（生物学 4.7 步、数学与物理学约 5.9–6.0 步），证实科学共同体内部存在极短的协同距离与高效的思想扩散捷径。"
 type: concept
 domain: "science-policy"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/network-science
   - theme/science-of-science
   - theme/coauthorship-networks
   - concept/network-topology
 related_concepts:
-  - "[[Small-World Collaboration Model]]"
   - "[[Clustering Coefficient]]"
   - "[[Giant Component]]"
   - "[[Erdős Number]]"
-  - "[[Coauthorship Network]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
-  - "[[Preferential Attachment in Academia]]"
-related_methods:
-  - "[[Network Analysis]]"
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Stanley Milgram]]"
-  - "[[Paul Erdős]]"
   - "[[Mark Newman]]"
 related_facts: []
 related_arguments:
@@ -93,10 +87,6 @@ updated: 2026-10-30
 >   G --> H["全球科学家平均仅隔 5-6 步"]
 >   H --> I["跨界异质思想超快速扩散"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 
