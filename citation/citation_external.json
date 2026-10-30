@@ -5933,8 +5933,6 @@
     "Derakhshan et al., 2024": "Derakhshan et al., 2024",
     "Derek J. de Solla Price (1965)": "Derek J. de Solla Price, 1965",
     "Derek J. de Solla Price, 1965": "Derek J. de Solla Price, 1965",
-    "Derek John de Solla Price (1965)": "Derek John de Solla Price, 1965",
-    "Derek John de Solla Price, 1965": "Derek John de Solla Price, 1965",
     "Derek de Solla Price (1963)": "Derek de Solla Price, 1963",
     "Derek de Solla Price (1965)": "Derek de Solla Price, 1965",
     "Derek de Solla Price, 1963": "Derek de Solla Price, 1963",
@@ -11263,8 +11261,6 @@
     "Irani et al., 2017": "Irani et al., 2017",
     "Irlen (2003)": "Irlen, 2003",
     "Irlen, 2003": "Irlen, 2003",
-    "Irving H. Sher (1963)": "Irving H. Sher, 1963",
-    "Irving H. Sher, 1963": "Irving H. Sher, 1963",
     "Irving Kristol (1994)": "Irving Kristol, 1994",
     "Irving Kristol, 1994": "Irving Kristol, 1994",
     "Irwin (2015)": "Irwin, 2015",
@@ -15230,8 +15226,6 @@
     "Mark Bray & R. Murray Thomas, 1995": "Mark Bray & R. Murray Thomas, 1995",
     "Mark Ginsburg (1991)": "Mark Ginsburg, 1991",
     "Mark Ginsburg, 1991": "Mark Ginsburg, 1991",
-    "Mark Newman (2005)": "Mark Newman, 2005",
-    "Mark Newman, 2005": "Mark Newman, 2005",
     "Mark Rickinson et al. (2022)": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022a": "Mark Rickinson et al., 2022",
@@ -70401,21 +70395,6 @@
       ],
       "title": ""
     },
-    "Derek John de Solla Price, 1965": {
-      "aliases": [
-        "Derek John de Solla Price, 1965",
-        "Derek John de Solla Price (1965)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Derek John de Solla Price, 1965"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
-      ],
-      "title": ""
-    },
     "Derek de Solla Price, 1963": {
       "aliases": [
         "Derek de Solla Price, 1963",
@@ -109351,21 +109330,6 @@
       "seen_in": [],
       "title": "The impact of video viewing and retelling on preliterate children's narrative comprehension"
     },
-    "Irving H. Sher, 1963": {
-      "aliases": [
-        "Irving H. Sher, 1963",
-        "Irving H. Sher (1963)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Irving H. Sher, 1963"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
-      ],
-      "title": ""
-    },
     "Irving Kristol, 1994": {
       "aliases": [
         "Irving Kristol, 1994",
@@ -137771,21 +137735,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
-      ],
-      "title": ""
-    },
-    "Mark Newman, 2005": {
-      "aliases": [
-        "Mark Newman, 2005",
-        "Mark Newman (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mark Newman, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
       ],
       "title": ""
     },
