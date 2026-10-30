@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -55,7 +55,7 @@ updated: 2026-10-30
 > - **用途** 用于科技政策学者审视科研资助资源分配的马太效应、反思基于单篇简单被引排名的评聘指标风险，以及探究学术界精英化与注意力垄断的演进规律。
 > - **边界** 适用于宏观大规模文献计量群体的结构性刻画；不宜简单等同于科研成果内在科学质量或真理含量的绝对层级，亦不等于个别学者的主观科研动机。
 
-> [!citation-card] 范·诺登等人论科学之山的极端引文极化
+> [!citation-card|notitle] 关键表述
 > 将科学引文索引收录的 5800 万篇论著首页面纸张重叠堆积，其物理高度逼近乞力马扎罗山顶。沿引文数量自顶向下排布，山体底部高达 2500 米的巨量纸张均由从未获得一次引用的成果组成；而在整座山顶的最上方，被引超过 1,000 次的全部论著仅构成顶端的 1.5 米薄层，被引超万次的旷世经典则仅占据峰顶 1.5 厘米的微小剖面。(Van Noorden et al., 2014, pp. 550–553)
 >
 > *If we print the first page of each of the 58 million papers indexed by SCI and stack them, the pile would reach nearly to the top of Mt. Kilimanjaro. The bottom 2,500 meters consists of papers that have never been cited. At the other extreme, the top 1.5 meters consists of papers with at least 1,000 citations, and just 1.5 centimeters at the very tip represents papers cited more than 10,000 times.*
@@ -94,3 +94,65 @@ updated: 2026-10-30
 >     E --> G["前1%成果被引份额百年持续走高"]
 >     E --> H["同行评议与资源配置马太极化"]
 > ```
+
+---
+
+> [!concept-proposition] 命题一｜学术文献影响力呈现出底层大体量沉没与顶层高度垄断的极端层级极化
+> **探讨维度　科学之山分层模型与注意力分配断层** 探讨文献全量堆叠中的被引分层，揭示知识沉没成本与超级名作的罕见性。
+
+> [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Van Noorden et al. (2014)]]
+> **乞力马扎罗科学之山实证测定** 理查德·范·诺登（Richard Van Noorden）等统计 Web of Science 索引的 5800 万篇全量科技论著，发现山底高达 2,500 米（占总高度 43% 以上）的文献自发表以来从未获得任何引用；而山顶被引突破 1,000 次的成果仅占 1.5 米薄层，突破 10,000 次的传世经典仅占峰顶 1.5 厘米微小截面，具象化确立了学术影响力分布的极端悬殊性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Van Noorden et al., 2014, via Wang & Barabási, 2021, pp. 174–176)]]
+
+---
+
+> [!concept-proposition] 命题二｜顶尖科学成果所占引文份额跨越百年持续攀升呈现注意力超级极化
+> **探讨维度　历史动态演化与学术马太效应加剧** 追踪长周期期刊全量引文，检验学术共同体在文献爆炸情境下注意力配置的演变轨迹。
+
+> [!claim] [[Albert-László Barabási|Barabási, A.-L.]], Song, C., & [[Dashun Wang|Wang, D.]]
+> **百年物理学顶尖引文份额翻番轨迹** 巴拉巴西、宋超明与王大顺调取《物理评论》自 1893 至 2009 年发表的逾 46 万篇全量成果，测定排名前 1% 的顶尖论著在发表次年分得的引文总份额；研究表明该份额从 1900 年代的不足 8% 翻倍攀升至 2000 年代的 20% 以上，与宏观社会财富集中走势高度镜像，反映出学术界在注意力稀缺约束下愈发借助声望与顶刊品牌作为筛选信标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Barabási et al., 2012, via Wang & Barabási, 2021, pp. 180–181)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **静态层级极化命题** | 半数文献零被引沉底，万次被引经典极度稀缺，呈金字塔实体分层 | 宏观科技文献库清查、学术成果试错冗余分析 | Van Noorden et al. (2014); [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] |
+> | **动态集中度攀升命题** | 顶尖 1% 论著吸纳的被引份额百年间持续翻番，注意力向头部超级极化 | 科学界马太效应演化、学术评价制度变迁研究 | Barabási et al. (2012); [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **1963–1965 — 科学引文索引创立与累积优势提出** 尤金·加菲尔德（Eugene Garfield）建立 SCI 数据库，普赖斯揭示学术被引的极端马太效应。
+> - **2012 — 物理学百年全量成果引文份额翻番测定** 巴拉巴西等人调取《物理评论》逾 46 万篇文献，证实前 1% 成果的次年引文份额从 8% 持续攀升至 20% 以上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Barabási et al., 2012, via Wang & Barabási, 2021, pp. 180–181)]]
+> - **2014 — 科学之山实体模型与引文分层具象化** 范·诺登等人在《自然》提出乞力马扎罗文献堆叠模型，具象呈现 5800 万篇文献的极端层级极化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Van Noorden et al., 2014, via Wang & Barabási, 2021, pp. 174–176)]]
+> - **2021 — 科学学影响力差距机制集成与去中心化背书** 王大顺与巴拉巴西在《科学学》中阐明引文差距的动力学机制，确立独立引文汇聚的集体智慧本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–183)]]
+
+---
+
+> [!debates] 学术争议
+>
+> > [!axis] 去中心化同行集体智慧 vs 代理指标杂音偏误
+> > 引文差距究竟客观映射了成果的实质科学质量，抑或仅是马太效应与计量杂音的虚假投射。
+> >
+> > - **同行集体智慧支持者（Radicchi et al., 2017; Ioannidis et al., 2014）** 论证在去中心化开放网络中，没有任何单一权威能够操纵共同体引文；数万独立学者基于研究需要写下的离散引证，汇聚成了超越个体自子情结（my-baby bias）与主观偏狭的集体智慧背书。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 181–183)]]
+> > - **计量局限与批评学者** 指出引文包含系统性综述溢价、负面反驳引用与礼貌形式主义引用，直接将原始被引等同于学术质量会导致原创劳动折损并加剧不当锦标赛竞争。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 181)]]
+
+> [!warning|limits] 适用局限
+> 引文差距刻画的是学术共同体注意力的宏观分配，受领域出版容量、综述类型偏好及先发优势显著扰动；不能作为单兵微观考核的唯一定量法则，亦不直接等同于知识成果内在的绝对学术价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 181–183)]]
+
+---
+
+> [!empirical-divider]
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Van Noorden et al. (2014)]] | Web of Science 索引的 5800 万篇全量科技论著 | 实体堆叠模型测算与层级分层统计 | 零引用、千次被引、万次被引各层文献厚度与占比 | 零被引占底部 2,500 米（43% 以上）；被引超 1,000 次占顶端 1.5 米；被引超 10,000 次占峰顶 1.5 厘米薄层；前 100 篇经典被引均超 12,000 次 | 宏观全量统计描述，揭示注意力分配极化 | 适用于科技出版物全集，展现科学探索试错冗余与极端经典稀缺性 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Barabási et al. (2012)]] | 《物理评论》（PR）自 1893 至 2009 年发表的 463,348 篇全量物理学论著 | 百年全量期刊引文网络追踪 | 排名前 1% 成果在发表次年所占引文份额 | 20 世纪初前 1% 成果引文份额约 8%；2000 年代稳步翻倍至 20% 以上 | 与同期美国顶层 1% 收入份额攀升走势高度镜像 | 证实大科学时代文献爆炸下注意力向头部顶刊与明星成果加速集聚 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 依托科学之山模型与《物理评论》百年数据，系统阐明学术影响力的极端分层极化与去中心化集体智慧背书（pp. 174–183）。

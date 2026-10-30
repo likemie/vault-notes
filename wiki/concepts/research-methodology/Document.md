@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-10-29
 > > - **传统实证取向文献研究者** 强调通过严格的考证与版本校勘剔除伪作，恢复文献中记录的客观历史事实。
 > > - **[[Linguistic Turn|语言学转向]]与[[Critical Theory|批判理论]]学者（Cohen, 1999; Codd, 1988）** 指出文献本身就是一种符号学建构，其选择呈现什么与沉默什么受制于特定的意识形态框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 254–255)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 文献仅记录了被留存与被书写的历史片段，受幸存偏误、档案遗失以及生产机构的选择性归档限制，无法完整等同于历史实践全貌；对于未曾形成书面或视觉记录的边缘群体实践与无声[[Tacit Knowledge|默会知识]]，文献分析需要与口述史或直接观察相互参照。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 252–254)]]
 
 ---
