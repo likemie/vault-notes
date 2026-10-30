@@ -21083,11 +21083,9 @@
     "Schumann (2012)": "Schumann, 2012",
     "Schumann, 2012": "Schumann, 2012",
     "Schumpeter (1908)": "Schumpeter, 1908",
-    "Schumpeter (1911)": "Schumpeter, 1911",
     "Schumpeter (1942)": "Schumpeter, 1942",
     "Schumpeter (1976)": "Schumpeter, 1976",
     "Schumpeter, 1908": "Schumpeter, 1908",
-    "Schumpeter, 1911": "Schumpeter, 1911",
     "Schumpeter, 1942": "Schumpeter, 1942",
     "Schumpeter, 1976": "Schumpeter, 1976",
     "Schunemann (2013)": "Schunemann, 2013",
@@ -24746,6 +24744,7 @@
     "Wang et al. (2014b)": "Wang et al., 2014b",
     "Wang et al. (2016a)": "Wang et al., 2016a",
     "Wang et al. (2016b)": "Wang et al., 2016b",
+    "Wang et al. (2017)": "Wang et al., 2017",
     "Wang et al. (2019)": "Wang et al., 2019",
     "Wang et al. (2020a)": "Wang et al., 2020a",
     "Wang et al. (2020b)": "Wang et al., 2020b",
@@ -24761,6 +24760,7 @@
     "Wang et al., 2016": "Wang et al., 2016a",
     "Wang et al., 2016a": "Wang et al., 2016b",
     "Wang et al., 2016b": "Wang et al., 2016b",
+    "Wang et al., 2017": "Wang et al., 2017",
     "Wang et al., 2019": "Wang et al., 2019",
     "Wang et al., 2020": "Wang et al., 2020a",
     "Wang et al., 2020a": "Wang et al., 2020b",
@@ -44396,6 +44396,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
@@ -48081,7 +48082,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Combinatorial Novelty.md"
       ],
       "title": ""
     },
@@ -50429,7 +50431,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Combinatorial Novelty.md"
       ],
       "title": ""
     },
@@ -73227,7 +73230,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/science-policy/Nature of Innovation.md",
         "wiki/persons/austria/Joseph Schumpeter.md",
         "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md",
         "wiki/theories/political-economy-geopolitics/Pavitt Taxonomy.md",
@@ -83732,7 +83734,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Nature of Innovation.md"
       ],
       "title": ""
     },
@@ -83760,7 +83763,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Combinatorial Novelty.md"
       ],
       "title": ""
     },
@@ -152045,7 +152049,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Citation Disparity.md"
       ],
       "title": ""
     },
@@ -165281,7 +165286,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Citation Disparity.md"
       ],
       "title": ""
     },
@@ -180542,21 +180548,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Methodological Individualism.md"
-      ],
-      "title": ""
-    },
-    "Schumpeter, 1911": {
-      "aliases": [
-        "Schumpeter, 1911",
-        "Schumpeter (1911)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Schumpeter, 1911"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/science-policy/Nature of Innovation.md"
       ],
       "title": ""
     },
@@ -202791,7 +202782,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Combinatorial Novelty.md"
       ],
       "title": ""
     },
@@ -206783,6 +206775,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of the intervention-response model in identifying learning disabilities and its moderators: a meta-analysis of 20 years of research."
+    },
+    "Wang et al., 2017": {
+      "aliases": [
+        "Wang et al., 2017",
+        "Wang et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wang et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Combinatorial Novelty.md"
+      ],
+      "title": ""
     },
     "Wang et al., 2019": {
       "aliases": [
@@ -215333,7 +215340,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Nature of Innovation.md"
       ],
       "title": ""
     },
