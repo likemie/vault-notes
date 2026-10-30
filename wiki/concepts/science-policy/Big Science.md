@@ -7,7 +7,7 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，现代演进为兼具超级算力、聚焦研究组织（FRO）与前竞争联合体的创新基础设施，其实证规律展现出推进渐进发展与精细攻关的显著优势，但颠覆性创新主要由敏捷小团队引领。"
 type: concept
 domain: "science-policy"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Bozeman_2004_JTT]]"
@@ -104,6 +105,11 @@ updated: 2026-10-30
 > 传统大科学主要聚焦于粒子对撞机与航天发射等国家主导工程。而在当代，一方面领军企业投入数千亿美元建设智能算力基础设施，将 Transformer 与大模型引入前沿探索；另一方面，耗资数千万美元、需数十人工程团队攻关的中等规模公共品科学（如蛋白质折叠基准、全脑连接组测绘）在大学课题组与商业企业之间形成空白，催生了聚焦研究组织（FRO）与 [[NSF X-Labs]] 等新型大科学载体。与此同时，2025 年启动的[[Genesis Mission|创世纪计划]]统筹能源部 17 所国家实验室打造“美国科学与安全平台”（ASSP），展现了大科学在 AI 驱动研发范式下的国家级系统集成。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 22–26, 61–63)]]
 >
 > *Beyond traditional national aerospace and physics projects, Big Science now encompasses massive compute clusters, mid-scale Focused Research Organizations (FROs), and the Genesis Mission marshaling 17 national laboratories for AI-driven discovery.*
+
+> [!citation-card] 普赖斯与王大顺论大科学时代的指数扩张与学术生产管道堵塞
+> 大科学不仅意味着装置与经费的巨型化，更表现为科学知识生产系统自身的指数级扩张。自普赖斯在 1963 年指出科学文献以约 10–15 年翻番的节奏持续增长以来，百余年间全球学术出版物呈现出不可阻挡的指数级扩张，形成“历史上 80% 至 90% 的科学家都生活在当代”的即时性特征。然而，学术管道的各环节扩张极不均衡：博士毕业生数量在数十年间膨胀数倍，而大学终身教职岗位数长期保持平滞，导致博士后队伍急剧堆叠，大批科研人员向产业界分流。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–171)]]
+>
+> *Big Science is defined not only by large budgets and facilities, but by the relentless exponential growth of the scientific literature and workforce. While PhD production has soared, faculty positions have remained flat, driving a massive postdoc pileup and workforce restructuring.*
 
 > [!boundary]- 概念边界
 > - 不等于 传统大学学术研究（小科学，Little Science） — 大学科研以教授个人课题组为单元、高度分权且追求自由假设探索；大科学依托集中式实验平台（如同步辐射光源、百亿亿次超算），具有严格的工程里程碑与统一预算约束。

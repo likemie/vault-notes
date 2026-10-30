@@ -7,7 +7,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_display_title: "The Science of Science"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -51,7 +52,7 @@ updated: 2026-10-30
 > - **撰写者** [[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）。
 > - **出版信息** Cambridge University Press，2021 年首版；版权页标注 2020 年。
 > - **处理粒度** `chapter-arguments`，23 章按主题合为 11 个解读单元，依次用于后续论证页。
-> - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01（第 1–3 章）、单元 02（第 4–5 章）、单元 03（第 6–7 章）、单元 04（第 8–10 章）、单元 05（第 11–12 章）与单元 06（第 13–14 章）解读。
+> - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01（第 1–3 章）、单元 02（第 4–5 章）、单元 03（第 6–7 章）、单元 04（第 8–10 章）、单元 05（第 11–12 章）、单元 06（第 13–14 章）与单元 07（第 15–16 章）解读。
 
 ---
 
@@ -63,8 +64,8 @@ updated: 2026-10-30
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|03 Q 因子与科研生涯中的高影响时期]] | 第 6–7 章；pp. 60–80，正文 21 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit03_Ch06-07_Q_Factor_and_Hot_Streaks.txt)；已解读 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|04 团队科学、学术环境与合著网络]] | 第 8–10 章；pp. 85–109，正文 25 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt)；已解读 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|05 团队组建与团队规模]] | 第 11–12 章；pp. 110–133，正文 24 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit05_Ch11-12_Team_Assembly_and_Size.txt)；已解读 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|06 科学贡献的认可与分配]] | 第 13–14 章；pp. 134–158，正文 25 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit06_Ch13-14_Scientific_Credit_and_Allocation.txt)；已解读 |
-> | 07 科学规模增长与引用分布 | 第 15–16 章；pp. 161–183，正文 23 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit07_Ch15-16_Science_Growth_and_Citation_Distribution.txt)；待解读 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|06 科学贡献的认可与分配]] | 第 13–14 章；pp. 134–158，正文 25 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_Unit06_Ch13-14_Scientific_Credit_and_Allocation.txt)；已解读 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|07 科学规模增长与引用分布]] | 第 15–16 章；pp. 161–183，正文 23 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit07_Ch15-16_Science_Growth_and_Citation_Distribution.txt)；已解读 |
 > | 08 高影响成果的形成机制 | 第 17–18 章；pp. 184–196，正文 13 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit08_Ch17-18_Formation_of_High_Impact_Research.txt)；待解读 |
 > | 09 引用随时间变化与最终影响 | 第 19–20 章；pp. 197–219，正文 23 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit09_Ch19-20_Citation_Dynamics_and_Ultimate_Impact.txt)；待解读 |
 > | 10 科学加速与人工智能 | 第 21–22 章；pp. 223–240，正文 18 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit10_Ch21-22_Accelerating_Science_and_AI.txt)；待解读 |

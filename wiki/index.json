@@ -15890,6 +15890,29 @@
     ]
   },
   {
+    "title": "Citation Disparity",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Citation Disparity.md",
+    "aliases": [
+      "引文差距",
+      "引文不平等",
+      "引用差距",
+      "学术影响力差距",
+      "Citation Inequality"
+    ]
+  },
+  {
+    "title": "Citation Distribution",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Citation Distribution.md",
+    "aliases": [
+      "引文分布",
+      "科学引文分布",
+      "论文引文分布",
+      "引用分布"
+    ]
+  },
+  {
     "title": "Clustering Coefficient",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Clustering Coefficient.md",
@@ -22096,6 +22119,17 @@
     ]
   },
   {
+    "title": "Universality of Citation Distributions",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Universality of Citation Distributions.md",
+    "aliases": [
+      "引文分布普适性",
+      "引文分布普适性规律",
+      "Citation Distribution Universality",
+      "Universality of Citation Distributions Law"
+    ]
+  },
+  {
     "title": "Bacchi's WPR Approach",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
@@ -25948,6 +25982,19 @@
       "Fuzzy RDD",
       "清晰断点回归",
       "模糊断点回归"
+    ]
+  },
+  {
+    "title": "Relative Citation Normalization",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Relative Citation Normalization.md",
+    "aliases": [
+      "相对引文标准化",
+      "相对引文比值法",
+      "相对引文标准化法",
+      "篇均引文相对标准化",
+      "Relative Citation Indicator",
+      "Field-Normalized Citation Impact"
     ]
   },
   {
@@ -31305,6 +31352,17 @@
       "恩斯特·冯·格拉泽斯费尔德",
       "冯·格拉泽斯费尔德",
       "E. von Glasersfeld"
+    ]
+  },
+  {
+    "title": "Eugene Garfield",
+    "type": "person",
+    "path": "wiki/persons/us/Eugene Garfield.md",
+    "aliases": [
+      "尤金·加菲尔德",
+      "加菲尔德",
+      "E. Garfield",
+      "Garfield, E."
     ]
   },
   {
@@ -45859,6 +45917,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Collective Credit Allocation Algorithm",
+      "path": "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "m-Quotient",
       "path": "wiki/methods/quantitative/m-Quotient.md"
-    },
-    {
-      "basename": "o-Index",
-      "path": "wiki/methods/quantitative/o-Index.md"
     }
   ],
   "omittedPaths": [],
