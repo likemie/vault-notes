@@ -10,10 +10,10 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程；整体大于部分之和且无法向下机械还原，广泛存在于生态系统、社会组织、科学引文网络、质性探究设计及万亿参数大模型认知智能演化之中。"
 type: concept
 domain: "educational-philosophy"
-related_count: 47
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/complexity-theory
   - theme/systems-thinking
@@ -154,7 +154,7 @@ updated: 2026-10-31
 > > **局部简易规则生成复杂全局多样性** 复杂适应系统的底层生成机制根植于微观主体遵循的简单局部互动规则；在去中心化的非线性交往中，秩序能够自发内生生成并取代外部机械控制，呈现“秩序是免费的”这一动力学特征。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 28–29)]]
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
-> > **去中心化微观引证决策自发涌现宏观集体智慧** 王大顺与巴拉巴西指出，学术成果的影响力评价并非由任何中心权威自上而下指定。成千上万独立研究者在微观层面上基于自身课题需求，自主决定吸收哪些前人成果并实施引证；当这些去中心化的微观引用决策在宏观引文网络中汇聚时，自发涌现出学术共同体对成果真实科学价值的集体智慧公约数，克服了学者个体在自我成果评价中普遍存在的自评偏狭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
+> > **去中心化微观引证决策自发涌现宏观集体智慧** 王大顺与巴拉巴西指出，学术成果的影响力评价脱离了中心权威的自上而下指定。成千上万独立研究者在微观层面上基于自身课题需求，自主决定吸收哪些前人成果并实施引证；当这些去中心化的微观引用决策在宏观引文网络中汇聚时，自发涌现出学术共同体对成果真实科学价值的集体智慧公约数，克服了学者个体在自我成果评价中普遍存在的自评偏狭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
 
 ---
 

@@ -20989,8 +20989,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md"
+        "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md"
       ],
       "title": ""
     },
@@ -32771,7 +32770,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
         "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md",
         "wiki/methods/mixed/Mixed Methods Research.md"
       ],
       "title": ""
@@ -38635,7 +38633,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md",
         "wiki/methods/quantitative/Meta-analysis.md",
         "wiki/persons/us/Gene Glass.md"
       ],
@@ -53178,14 +53175,6 @@
       "seen_in": [],
       "title": "An Examination of the Effects of Technology Use in Music Education and Training on Academic Achievement: A Meta-Analysis Study."
     },
-    "Kalyuga et al., 2003": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Heterogeneity.md"
-      ],
-      "title": ""
-    },
     "Kamarianakis & Webs, 2019": {
       "doi": "",
       "isbn": "",
@@ -61905,7 +61894,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
-        "wiki/concepts/educational-philosophy/Emergence.md",
         "wiki/concepts/educational-technology/Virtual World.md",
         "wiki/methods/mixed/Agent-based Modelling.md",
         "wiki/theories/educational-philosophy/Complexity Theory.md"
@@ -80394,7 +80382,6 @@
         "wiki/concepts/research-methodology/Counterfactual.md",
         "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
         "wiki/concepts/research-methodology/Critique of Meta-meta-analysis.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md",
         "wiki/methods/quantitative/Black Box RCTs.md",
         "wiki/persons/uk/Ray Pawson.md",
         "wiki/persons/uk/Terry Wrigley.md",
@@ -83408,7 +83395,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/science-policy/Big Science.md"
       ],
       "title": ""
     },
@@ -84413,6 +84401,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/research-methodology/Heterogeneity.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/methods/quantitative/h-Index.md",
@@ -85890,7 +85879,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
-        "wiki/concepts/educational-philosophy/Emergence.md",
         "wiki/methods/mixed/Agent-based Modelling.md"
       ],
       "title": ""
@@ -87353,7 +87341,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/research-methodology/Heterogeneity.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md"
       ],
       "title": ""
@@ -91749,7 +91736,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Research Universities.md"
       ],
       "title": ""
     },
@@ -93924,7 +93912,6 @@
       "doi": "10.2307/27856006",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
         "wiki/concepts/science-policy/Ghost Authorship.md"
       ],
       "title": "The Invisible Technician"
@@ -102277,14 +102264,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of metacognitive training on mathematical word-problem solving"
-    },
-    "Teplitskiy et al., 2018": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
-      ],
-      "title": ""
     },
     "Terhart, 2003": {
       "doi": "",
@@ -115311,7 +115290,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Research Universities.md"
       ],
       "title": ""
     },
