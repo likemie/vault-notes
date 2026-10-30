@@ -15975,6 +15975,19 @@
     ]
   },
   {
+    "title": "Combinatorial Novelty",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Combinatorial Novelty.md",
+    "aliases": [
+      "组合新颖性",
+      "组合式创新",
+      "非典型组合",
+      "跨界知识重组",
+      "Atypical Combinations",
+      "Combinatorial Innovation"
+    ]
+  },
+  {
     "title": "Commercial Off-The-Shelf",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Commercial Off-The-Shelf.md",
@@ -21863,6 +21876,19 @@
     ]
   },
   {
+    "title": "Bianconi-Barabási Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Bianconi-Barabási Model.md",
+    "aliases": [
+      "边康尼-巴拉巴西模型",
+      "适应度模型",
+      "网络适应度模型",
+      "学术成果适应度模型",
+      "Bianconi-Barabasi Model",
+      "Fitness Model in Complex Networks"
+    ]
+  },
+  {
     "title": "Burden of Knowledge",
     "type": "theory",
     "path": "wiki/theories/science-policy/Burden of Knowledge.md",
@@ -24485,6 +24511,18 @@
       "声誉分配算法",
       "Shen-Barabasi Credit Allocation Algorithm",
       "collective credit allocation"
+    ]
+  },
+  {
+    "title": "Combinatorial Novelty Measurement",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Combinatorial Novelty Measurement.md",
+    "aliases": [
+      "组合新颖性测度法",
+      "非典型引文对分析",
+      "期刊共引对新颖性分析",
+      "Atypical Combination Analysis",
+      "Combinatorial Novelty Metric"
     ]
   },
   {

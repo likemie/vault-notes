@@ -4690,6 +4690,8 @@
     "Clarke, 2022": "Clarke, 2022",
     "Classen et al. (2007)": "Classen et al., 2007",
     "Classen et al., 2007": "Classen et al., 2007",
+    "Clauset et al. (2009)": "Clauset et al., 2009",
+    "Clauset et al., 2009": "Clauset et al., 2009",
     "Clauss et al. (2024)": "Clauss et al., 2024",
     "Clauss et al., 2024": "Clauss et al., 2024",
     "Claxton (2013)": "Claxton, 2013",
@@ -61309,6 +61311,21 @@
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
         "wiki/concepts/research-methodology/Purpose Statement.md"
+      ],
+      "title": ""
+    },
+    "Clauset et al., 2009": {
+      "aliases": [
+        "Clauset et al., 2009",
+        "Clauset et al. (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Clauset et al., 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Universality of Citation Distributions.md"
       ],
       "title": ""
     },
