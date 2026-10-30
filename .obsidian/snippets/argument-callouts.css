@@ -23751,24 +23751,28 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
    Scoped overrides outside the generated v4 layer; preserve Markdown and other tables. */
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) {
   container-type: inline-size;
-  padding: 1rem 1.2rem !important;
-  background: var(--background-primary) !important;
-  border: 1px solid var(--background-modifier-border) !important;
-  border-radius: 8px !important;
+  padding: 1rem 1.1rem 1.1rem !important;
+  background: var(--ac-paper) !important;
+  border: 1px solid var(--ac-hair) !important;
+  border-radius: 10px !important;
   box-shadow: none !important;
   transform: none !important;
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]):hover { border-color: var(--background-modifier-border) !important; box-shadow: none !important; }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title {
-  padding: 0 !important; margin: 0 0 .8rem !important; border: 0 !important;
+  padding: 0 0 .55rem !important; margin: 0 0 .65rem !important; border: 0 !important;
+  border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important;
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]).is-collapsed > .callout-title { margin-bottom: 0 !important; }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner::before {
-  display: none !important;
+  display: block !important; margin: 0 0 .35rem !important;
+  font-family: var(--ac-sans) !important; font-size: 10.5px !important;
+  font-weight: 600 !important; letter-spacing: .12em !important;
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner {
-  padding-left: .65rem !important;
-  border-left: 3px solid var(--ac-accent, rgb(var(--callout-color))) !important;
+  padding-left: 0 !important; border-left: 0 !important;
+  font-family: var(--ac-serif) !important; font-weight: 500 !important;
+  letter-spacing: .025em !important;
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content { padding: 0 !important; overflow-x: auto !important; }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(.table-wrapper, .el-table) {
@@ -23779,14 +23783,15 @@ html body .callout.callout.callout.callout.callout:is([data-callout="framework-t
   display: table !important; width: 100% !important; min-width: 0 !important;
   table-layout: auto !important; border-collapse: collapse !important; border-spacing: 0 !important;
   border: 0 !important; border-radius: 0 !important; background: transparent !important;
-  box-shadow: none !important; font-size: 1em !important;
+  box-shadow: none !important; font-family: var(--ac-sans) !important;
+  font-size: .96em !important; font-weight: 400 !important;
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td) {
   padding: .85rem .75rem !important; border: 0 !important;
   border-bottom: 1px solid var(--background-modifier-border) !important;
   border-radius: 0 !important; background: transparent !important;
   color: var(--text-normal) !important; font-size: 1em !important;
-  line-height: 1.75 !important; vertical-align: top !important;
+  line-height: 1.8 !important; vertical-align: top !important;
   white-space: normal !important; word-break: normal !important; overflow-wrap: anywhere !important;
   box-shadow: none !important; letter-spacing: normal !important;
   transition: background-color 140ms ease !important;
@@ -23798,9 +23803,11 @@ html body .callout.callout.callout.callout.callout:is([data-callout="framework-t
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td):first-child { padding-left: 0 !important; min-width: 0 !important; }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content :is(th, td):last-child { padding-right: 0 !important; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content th:first-child { font-family: var(--ac-sans) !important; }
 /* Only two-column tables receive a label column; wider method tables keep their natural layout. */
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) :is(th, td):first-child {
-  width: 27% !important; padding-right: 1.25rem !important; font-weight: 600 !important;
+  width: 28% !important; padding-right: 1.4rem !important;
+  font-family: var(--ac-serif) !important; font-weight: 500 !important; line-height: 1.65 !important;
 }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content td strong { font-size: 1em !important; font-weight: 600 !important; }
 html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content td p { margin: 0 !important; }
@@ -23810,7 +23817,7 @@ html body .callout.callout.callout.callout.callout:is([data-callout="framework-t
   background: color-mix(in srgb, rgb(var(--callout-color)) 4%, transparent) !important;
   box-shadow: none !important;
 }
-html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content a.internal-link { text-decoration-style: solid; text-underline-offset: .18em; }
+html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content a.internal-link { font-weight: inherit !important; text-decoration-style: solid; text-decoration-thickness: 1px; text-underline-offset: .22em; }
 @container (max-width: 520px) {
   html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) { display: block !important; }
   html body .callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-content table:not(:has(tr > :nth-child(3))) thead { display: none !important; }
