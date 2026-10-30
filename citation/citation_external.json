@@ -1643,7 +1643,9 @@
     "Barabási (2002)": "Barabási, 2002",
     "Barabási (2005)": "Barabási, 2005",
     "Barabási et al. (2002)": "Barabási et al., 2002",
+    "Barabási et al. (2012)": "Barabási et al., 2012",
     "Barabási et al., 2002": "Barabási et al., 2002",
+    "Barabási et al., 2012": "Barabási et al., 2012",
     "Barabási, 2002": "Barabási, 2002",
     "Barabási, 2005": "Barabási, 2005",
     "Baram-Tsabari & Segev (2018)": "Baram-Tsabari & Segev, 2018",
@@ -5931,6 +5933,8 @@
     "Derakhshan et al., 2024": "Derakhshan et al., 2024",
     "Derek J. de Solla Price (1965)": "Derek J. de Solla Price, 1965",
     "Derek J. de Solla Price, 1965": "Derek J. de Solla Price, 1965",
+    "Derek John de Solla Price (1965)": "Derek John de Solla Price, 1965",
+    "Derek John de Solla Price, 1965": "Derek John de Solla Price, 1965",
     "Derek de Solla Price (1963)": "Derek de Solla Price, 1963",
     "Derek de Solla Price (1965)": "Derek de Solla Price, 1965",
     "Derek de Solla Price, 1963": "Derek de Solla Price, 1963",
@@ -11259,6 +11263,8 @@
     "Irani et al., 2017": "Irani et al., 2017",
     "Irlen (2003)": "Irlen, 2003",
     "Irlen, 2003": "Irlen, 2003",
+    "Irving H. Sher (1963)": "Irving H. Sher, 1963",
+    "Irving H. Sher, 1963": "Irving H. Sher, 1963",
     "Irving Kristol (1994)": "Irving Kristol, 1994",
     "Irving Kristol, 1994": "Irving Kristol, 1994",
     "Irwin (2015)": "Irwin, 2015",
@@ -15224,6 +15230,8 @@
     "Mark Bray & R. Murray Thomas, 1995": "Mark Bray & R. Murray Thomas, 1995",
     "Mark Ginsburg (1991)": "Mark Ginsburg, 1991",
     "Mark Ginsburg, 1991": "Mark Ginsburg, 1991",
+    "Mark Newman (2005)": "Mark Newman, 2005",
+    "Mark Newman, 2005": "Mark Newman, 2005",
     "Mark Rickinson et al. (2022)": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022a": "Mark Rickinson et al., 2022",
@@ -18952,7 +18960,11 @@
     "Prevoo et al., 2016": "Prevoo et al., 2016",
     "Prewett (2020)": "Prewett, 2020",
     "Prewett, 2020": "Prewett, 2020",
+    "Price (1961)": "Price, 1961",
+    "Price (1963)": "Price, 1963",
     "Price (1965)": "Price, 1965",
+    "Price, 1961": "Price, 1961",
+    "Price, 1963": "Price, 1963",
     "Price, 1965": "Price, 1965",
     "Price-Mohr (2015)": "Price-Mohr, 2015",
     "Price-Mohr, 2015": "Price-Mohr, 2015",
@@ -39015,6 +39027,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Coauthorship Network.md"
+      ],
+      "title": ""
+    },
+    "Barabási et al., 2012": {
+      "aliases": [
+        "Barabási et al., 2012",
+        "Barabási et al. (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barabási et al., 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
       ],
       "title": ""
     },
@@ -70374,6 +70401,21 @@
       ],
       "title": ""
     },
+    "Derek John de Solla Price, 1965": {
+      "aliases": [
+        "Derek John de Solla Price, 1965",
+        "Derek John de Solla Price (1965)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Derek John de Solla Price, 1965"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
+    },
     "Derek de Solla Price, 1963": {
       "aliases": [
         "Derek de Solla Price, 1963",
@@ -88347,6 +88389,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -109307,6 +109350,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The impact of video viewing and retelling on preliterate children's narrative comprehension"
+    },
+    "Irving H. Sher, 1963": {
+      "aliases": [
+        "Irving H. Sher, 1963",
+        "Irving H. Sher (1963)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Irving H. Sher, 1963"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
     },
     "Irving Kristol, 1994": {
       "aliases": [
@@ -137716,6 +137774,21 @@
       ],
       "title": ""
     },
+    "Mark Newman, 2005": {
+      "aliases": [
+        "Mark Newman, 2005",
+        "Mark Newman (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mark Newman, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
+    },
     "Mark Rickinson et al., 2022": {
       "aliases": [
         "Mark Rickinson et al., 2022",
@@ -164959,6 +165032,36 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of a social-emotional learning program  A mixed-method study of The Leader in Me"
+    },
+    "Price, 1961": {
+      "aliases": [
+        "Price, 1961",
+        "Price (1961)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Price, 1961"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
+    },
+    "Price, 1963": {
+      "aliases": [
+        "Price, 1963",
+        "Price (1963)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Price, 1963"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      ],
+      "title": ""
     },
     "Price, 1965": {
       "aliases": [
