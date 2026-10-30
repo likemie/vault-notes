@@ -15942,11 +15942,13 @@
     "Mertes, 2013": "Mertes, 2013",
     "Merton & Kendall (1946)": "Merton & Kendall, 1946",
     "Merton & Kendall, 1946": "Merton & Kendall, 1946",
+    "Merton (1948)": "Merton, 1948",
     "Merton (1949)": "Merton, 1949",
     "Merton (1968)": "Merton, 1968",
     "Merton (1982)": "Merton, 1982",
     "Merton et al. (1956)": "Merton et al., 1956",
     "Merton et al., 1956": "Merton et al., 1956",
+    "Merton, 1948": "Merton, 1948",
     "Merton, 1949": "Merton, 1949",
     "Merton, 1968": "Merton, 1968",
     "Merton, 1982": "Merton, 1982",
@@ -18428,8 +18430,6 @@
     "Peter Singer, 1975": "Peter Singer, 1975",
     "Peter Thiel (2011)": "Peter Thiel, 2011",
     "Peter Thiel, 2011": "Peter Thiel, 2011",
-    "Peter Woods (1979)": "Peter Woods, 1979",
-    "Peter Woods, 1979": "Peter Woods, 1979",
     "Peters & Waterman (1984)": "Peters & Waterman, 1984",
     "Peters & Waterman, 1984": "Peters & Waterman, 1984",
     "Peters (1964)": "Peters, 1964",
@@ -40173,8 +40173,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/persons/uk/Peter Woods.md",
-        "wiki/theories/sociology-of-education/Thomas Theorem.md"
+        "wiki/persons/uk/Peter Woods.md"
       ],
       "title": ""
     },
@@ -43566,7 +43565,8 @@
         "wiki/persons/uk/Basil Bernstein.md",
         "wiki/persons/us/Alfred Schutz.md",
         "wiki/persons/us/George Herbert Mead.md",
-        "wiki/theories/sociology-of-education/Symbolic Interactionism.md"
+        "wiki/theories/sociology-of-education/Symbolic Interactionism.md",
+        "wiki/theories/sociology-of-education/Thomas Theorem.md"
       ],
       "title": ""
     },
@@ -112798,8 +112798,7 @@
       "seen_in": [
         "wiki/methods/qualitative/Qualitative Research.md",
         "wiki/persons/uk/John Rex.md",
-        "wiki/persons/uk/Peter Woods.md",
-        "wiki/theories/sociology-of-education/Thomas Theorem.md"
+        "wiki/persons/uk/Peter Woods.md"
       ],
       "title": ""
     },
@@ -142785,6 +142784,21 @@
       ],
       "title": ""
     },
+    "Merton, 1948": {
+      "aliases": [
+        "Merton, 1948",
+        "Merton (1948)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Merton, 1948"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Thomas Theorem.md"
+      ],
+      "title": ""
+    },
     "Merton, 1949": {
       "aliases": [
         "Merton, 1949",
@@ -161049,21 +161063,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
-      ],
-      "title": ""
-    },
-    "Peter Woods, 1979": {
-      "aliases": [
-        "Peter Woods, 1979",
-        "Peter Woods (1979)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Peter Woods, 1979"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Thomas Theorem.md"
       ],
       "title": ""
     },
