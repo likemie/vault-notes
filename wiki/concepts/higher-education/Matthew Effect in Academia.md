@@ -33,6 +33,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -80,6 +81,13 @@ Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：�
 - **同行评审中的声望溢价** 在 IETF 协议评审实验中，知名高级专家姓名使协议录用率提升 9.4%；当姓名被“et al.”遮蔽时该效应下降 7.2%，表明姓名声望贡献了 77% 的合著优势；但该效应在严格预审精读样本中完全消失，表明地位信号主要在评审专家面临信息过载时发挥启发式替代功能（Simcoe & Waguespack, 2011; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 29–30]]）。在 WSDM 2017 的随机双盲与单盲对照实验中，知名学者在单盲评审中的录用率较双盲组高出 63%，顶尖高校署名学者高出 58%，顶尖科技企业署名学者高出 110%（Tomkins et al., 2017; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 30–31]]）。
 - **早期引用的跨越效应与向历史成果溢出** 在成果面世初期，顶尖知名物理学家的论著仅凭学者声望即可迅速越过 $c_x \approx 40$ 次引用的门槛，其被引概率是青年学者（$c_x \approx 10$）的 4 倍；但在跨过门槛后，声望效应逐步退场，转由成果自身内在价值与优先连接机制决定长期轨迹（Petersen et al., 2014; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 32–33]]）。此外，当学者荣获诺贝尔奖等重大认可后，其早年发表的历史旧作亦会迎来显著的被引爆发（Azoulay et al., 2014; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 33–34]]）。
 - **外生声望赋予的因果滚雪球效应** 针对维基百科前 1% 高产编辑开展的随机田野实验证实，完全随机赋予虚构荣誉勋章使实验组编辑的中位数产出提升了 60%，并在后续 90 天内赢得了显著更多来自真实社群其他成员颁发的客观荣誉勋章，提供了先发外生荣誉本身足以启动自我强化循环的直接因果证据（Restivo & van de Rijt, 2012, 2014; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 37–38]]）。
+
+### 科学奖励系统与合作成果中的声誉截留
+
+在科学界的奖励与承认系统维度，马太效应导致学术声誉向知名学者过度集中（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 147–150]]）：
+- **交流渠道与奖励渠道的分离** Merton（1968）将马太效应划分为两大运作渠道：一是学术交流渠道（以瑞利勋爵论文被拒为例，声望充当质量与可见度信号）；二是学术奖励系统（以沙特尔的伯纳德“站在巨人肩膀上”的名言被普遍误归于牛顿为例，探讨学术突破的优先权归属）（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, p. 148]]）。
+- **多作者合著中的声望吸附** 著名科学社会学家 Harriet Zuckerman（1977）对诺贝尔奖得主的访谈揭示：“世界在给予承认的方式上极其奇特，它往往把荣誉直接赋予已经成名的人。”当学术资历悬殊的学者共同署名时，知名学者即便仅提供了平台或宏观指导，共同体依然倾向于将成果的所有权归于成名学者，导致年轻学者的实质劳动被系统性遮蔽（如《美国的儿童》一书中多萝西·斯温·托马斯的理论贡献被长期忽略）（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 147–150]]）。
+- **青年学者合作的两难困境** 青年学者与顶尖导师或资深专家合署论著面临结构性悖论：与知名学者合著能够大幅提高文稿被同行阅读、接受与引用的概率，并能借此习得宝贵的默会知识；然而在学术声誉分配层面，该成果往往被永久打上资深学者的个人烙印，导致青年学者难以确立独立的学术贡献与领导地位（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási, 2021, pp. 149–150]]）。
 
 > [!warning] 为什么公平竞争加剧了马太效应？
 > 一个反直觉的发现是：表面上制造公平竞争的评估和排名制度，实际上**加速了**而非遏制了马太效应。原因在于：

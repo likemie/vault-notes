@@ -35,6 +35,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: draft
 created: "2026-10-29"
