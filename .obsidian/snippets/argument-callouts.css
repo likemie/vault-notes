@@ -24000,3 +24000,142 @@ html body .callout.callout.callout.callout.callout.callout:is([data-callout="fra
   html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] :is(td,strong,.callout-content), html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] > .callout-title::after, html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] .callout-title-inner::after { transform: none !important; opacity: 1; }
 }
 /* <<< FRAMEWORK-METHOD REFINEMENT */
+
+/* >>> SAMPLE-ARCHIVE DESIGN · 2026-10-30
+   Material snapshot as an archive folio; keep native folding and original table content. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] {
+  --sp-accent: rgb(151, 111, 53); --sp-ink: rgb(116, 79, 32); --sp-sage: rgb(72, 115, 92);
+  --sp-ease: cubic-bezier(.22,.68,.25,1);
+  --sp-edge: color-mix(in srgb, var(--sp-accent) 32%, var(--background-modifier-border));
+  --sp-soft: color-mix(in srgb, var(--background-modifier-border) 70%, transparent);
+  --ac-accent: var(--sp-accent) !important; --ac-ink: var(--sp-ink) !important;
+  container-type: inline-size; position: relative !important;
+  padding: 1.2rem 1.4rem 1.1rem !important;
+  background: var(--ac-paper) !important; background-image: none !important;
+  border: 1px solid var(--sp-edge) !important; border-radius: 10px !important;
+  box-shadow: none !important; transform: none !important;
+  transition: border-color 260ms var(--sp-ease) !important;
+}
+html body.theme-dark .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] {
+  --sp-accent: rgb(191, 156, 103); --sp-ink: rgb(218, 189, 146); --sp-sage: rgb(145, 188, 162);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]::before, html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]::after { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title {
+  position: relative !important; width: 100% !important; box-sizing: border-box;
+  align-items: flex-start !important; gap: .5rem !important;
+  padding: 0 0 .85rem !important; margin: 0 0 .45rem !important;
+  background: none !important; border: 0 !important; box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-icon { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner {
+  flex: 1 1 0% !important; min-width: 0 !important; width: auto !important; max-width: none !important;
+  position: relative !important; padding: 0 84px 0 0 !important; box-sizing: border-box;
+  font-family: var(--ac-serif) !important; font-size: 1.15em !important; font-weight: 500 !important;
+  letter-spacing: .015em !important; line-height: 1.5 !important; color: var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner::before {
+  content: "SAMPLE" !important; display: block !important; width: max-content;
+  margin: 0 0 .45rem !important; padding: 0 0 0 22px !important; border: 0 !important;
+  font: 600 10.5px/1.5 var(--ac-sans) !important; letter-spacing: .12em !important;
+  background: linear-gradient(var(--sp-accent),var(--sp-accent)) left center / 12px 2px no-repeat !important;
+  color: var(--sp-ink) !important; box-shadow: none !important; border-radius: 0 !important;
+  transition: background-size 300ms var(--sp-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner::after {
+  content: "" !important; display: block !important; position: absolute;
+  width: 64px; height: 44px; right: 0; top: 3px; pointer-events: none;
+  background: var(--sp-accent); opacity: .55; mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M8%2014V8h18l5%206h25v24H8V14Z%22/%3E%3Cpath%20d%3D%22M14%204h13l5%205h18M14%2020h34M14%2026h24M14%2032h17%22/%3E%3C/svg%3E"); mask-repeat: no-repeat; mask-size: contain;
+  transform: rotate(-4deg); transform-origin: center;
+  transition: transform 400ms var(--sp-ease), opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute;
+  bottom: 0; left: 0; width: 30px; height: 2px; background: var(--sp-accent);
+  opacity: .7; transform-origin: left; transition: transform 360ms var(--sp-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-fold { flex: 0 0 auto; align-self: center; color: var(--text-muted); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"].is-collapsed > .callout-title { padding-bottom: 0 !important; margin-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"].is-collapsed > .callout-title::after { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content { padding: 0 !important; overflow-x: auto !important; background: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]:not(.is-collapsed) > .callout-content { animation: sp-archive-open 340ms var(--sp-ease) both !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content :is(.table-wrapper,.el-table) {
+  width: 100%; padding: 0 !important; margin: 0 !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; background: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table {
+  display: table !important; width: 100% !important; min-width: 0 !important; margin: 0 !important;
+  table-layout: auto !important; border-collapse: separate !important; border-spacing: 0 .45rem !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; background: transparent !important;
+  font: 400 .96em/1.8 var(--ac-sans) !important; font-variant-numeric: tabular-nums;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content :is(th,td) {
+  padding: .9rem 1rem !important; border: 0 !important; border-radius: 0 !important;
+  background: transparent !important; color: var(--text-normal) !important; box-shadow: none !important;
+  font-size: 1em !important; font-weight: 400 !important; line-height: 1.8 !important;
+  white-space: normal !important; overflow-wrap: anywhere !important; word-break: normal !important;
+  text-align: left !important; text-align-last: auto !important; vertical-align: top !important;
+  letter-spacing: 0 !important;
+  transition: background-color 220ms ease, border-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content th {
+  padding: .2rem 1rem .4rem !important; color: var(--text-muted) !important;
+  font: 500 .8em/1.5 var(--ac-sans) !important; border-bottom: 1px solid var(--sp-soft) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content tbody tr { background: transparent !important; transform: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) :is(th,td):first-child { width: 28% !important; min-width: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody td:first-child {
+  position: relative !important; padding-right: 1.25rem !important;
+  background: color-mix(in srgb, var(--sp-accent) 6%, transparent) !important;
+  border-left: 2px solid color-mix(in srgb, var(--sp-accent) 45%, transparent) !important;
+  border-radius: 3px 0 0 3px !important; color: var(--sp-ink) !important;
+  font-family: var(--ac-serif) !important; line-height: 1.65 !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody td:first-child::after {
+  content: ""; position: absolute; top: .45rem; right: .6rem; width: 12px; height: 2px;
+  background: var(--sp-sage); opacity: .6; transform-origin: right; pointer-events: none;
+  transition: transform 260ms var(--sp-ease), opacity 220ms ease;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody td:nth-child(2) { padding-left: 1.3rem !important; border-bottom: 1px solid var(--sp-soft) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content td strong { font-size: 1em !important; font-weight: 600 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content td:first-child strong { display: inline-block; transition: transform 260ms var(--sp-ease) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content td p { margin: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content a.internal-link { color: var(--sp-sage) !important; text-underline-offset: .22em; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content a.internal-link:focus-visible { outline: 2px solid var(--sp-sage); outline-offset: 3px; }
+@media (hover: hover) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]:hover { border-color: var(--sp-accent) !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]:hover > .callout-title .callout-title-inner::before { background-size: 16px 2px !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]:hover > .callout-title .callout-title-inner::after { transform: rotate(0) translateY(-2px); opacity: .85; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"]:not(.is-collapsed):hover > .callout-title::after { transform: scaleX(2.2) !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr:hover td:first-child {
+    background: color-mix(in srgb, var(--sp-accent) 10%, transparent) !important;
+    border-left-color: var(--sp-accent) !important;
+  }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content tbody tr:hover td:first-child strong { transform: translateX(2px); }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr:hover td:first-child::after { transform: scaleX(1.6); opacity: 1; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr:hover td:nth-child(2) {
+    background: color-mix(in srgb, var(--sp-sage) 3%, transparent) !important; border-bottom-color: var(--sp-sage) !important;
+  }
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr:focus-within td:first-child::after { transform: scaleX(1.6); opacity: 1; }
+@container (max-width: 520px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))), html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody { display: block !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) thead { display: none !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr { display: block !important; margin: .8rem 0 !important; padding: 0 !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) td { display: block !important; width: auto !important; padding: .7rem .25rem !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody td:first-child { width: auto !important; padding: .5rem .8rem !important; border-radius: 3px !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody td:nth-child(2) { padding-left: .25rem !important; }
+}
+@container (max-width: 360px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner { padding-right: 60px !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner::after { width: 44px; height: 31px; top: 6px; }
+}
+@container (max-width: 260px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner { padding-right: 0 !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"] > .callout-title .callout-title-inner::after { display: none !important; }
+}
+@keyframes sp-archive-open { from { opacity: .6; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout], html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] *, html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] *::before, html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] *::after { animation: none !important; transition: none !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] :is(.callout-content,strong), html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] .callout-title-inner::after, html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] > .callout-title::after { transform: none !important; }
+}
+/* <<< SAMPLE-ARCHIVE DESIGN */

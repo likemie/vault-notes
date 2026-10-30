@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
     {
+      "basename": "Turn-Taking Equality",
+      "path": "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
+    },
+    {
       "basename": "Team Assembly Model",
       "path": "wiki/theories/science-policy/Team Assembly Model.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Shockley's Multiplicative Hurdle Model",
       "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
-    },
-    {
-      "basename": "g-Index",
-      "path": "wiki/methods/quantitative/g-Index.md"
     }
   ],
   "omittedPaths": [],
