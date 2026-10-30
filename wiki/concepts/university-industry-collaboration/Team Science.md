@@ -6,7 +6,7 @@ aliases:
 summary: "以跨学科、跨机构或大规模协同为特征的科研组织范式；依托前沿知识负担加重与大型复杂仪器驱动，团队模式在当代科学中确立了主导地位，享有显著的相对团队影响力与超额引文溢价，同时也面临沟通协调成本与声望层级固化的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,6 +38,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: 2026-06-02
@@ -119,11 +120,23 @@ updated: 2026-10-30
 
 ---
 
+> [!concept-proposition] 命题三｜团队规模与人员组配机制调控创新形态（小团队颠覆、大团队发展）
+> **探讨维度　团队规模法则与创新本质的分野** 探讨不同规模与组装模式的团队在科学探索中承担的差异化功能。
+
+> [!claim] Wu, L. & Evans, J. A.
+> **规模决定颠覆度与发展度分工** 大团队倾向于推进近期热门与已被公认的科技成果，享受更高的即时被引；而小团队与个体探索者更深入地汲取陈旧与非共识知识，其颠覆性指数显著占优，承担着开辟全新学科范式的关键使命。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
+
+> [!claim] Guimerà, R. & Uzzi, B.
+> **资历积淀与新锐思维的黄金配比** 团队成功依赖于资深在任老手与初入新秀的动态组装；过度堆砌全明星学者容易诱发过度人才效应与地位冲突，而长期封闭抱团则会因认知同质化抑制颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 111–121)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **组织范式演化机制** | 知识负担与大仪器驱动通才消亡及团队崛起 | 现代跨学科与大科学攻关 | Jones (2009); Wuchty et al. (2007) |
 > | **学术溢价与结构分层** | 跨校协作享受超额引文但强化声望同质聚集 | 跨校合作与全球科研治理 | Jones et al. (2008); [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] |
+> | **规模与组配创新分工** | 小团队颠覆范式、大团队发展范式；组装需平衡经验与新意 | 资助组合布局与团队人员组建 | [[Lingfei Wu\|Wu et al. (2019)]]; [[Roger Guimera\|Guimerà et al. (2005)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] |
 
 ---
 
@@ -131,6 +144,7 @@ updated: 2026-10-30
 > - **1950s–1960s — 单人独著黄金期** 经典科学时代以爱因斯坦等学者为代表，顶尖突破主要由个体独立完成。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–82)]]
 > - **2007 — 团队主导地位的大数据确立** Wuchty、Jones 与 Uzzi 在《科学》发表奠基研究，系统量化团队在科技文献与专利中的主导格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2008–2013 — 跨校网络与知识重组深化** 实证揭示跨校合作的引文溢价机制，以及团队引入非典型知识重组的认知优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 86–92)]]
+> - **2019 — 团队规模与颠覆性分工发现** Wu、Wang 与 Evans 依托颠覆性指数证实小团队颠覆既有科学、大团队推进既有科学的技术分工规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 
 ---
 

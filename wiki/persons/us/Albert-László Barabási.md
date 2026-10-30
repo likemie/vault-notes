@@ -12,7 +12,7 @@ summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: "2026-10-30"

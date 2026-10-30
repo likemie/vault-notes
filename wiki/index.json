@@ -29140,6 +29140,18 @@
     ]
   },
   {
+    "title": "Roger Guimera",
+    "type": "person",
+    "path": "wiki/persons/spain/Roger Guimera.md",
+    "aliases": [
+      "罗杰·吉梅拉",
+      "R. Guimerà",
+      "Guimerà, R.",
+      "R. Guimera",
+      "Guimera, R."
+    ]
+  },
+  {
     "title": "Alfred Nobel",
     "type": "person",
     "path": "wiki/persons/sweden/Alfred Nobel.md",
@@ -30499,6 +30511,18 @@
     ]
   },
   {
+    "title": "Anita Williams Woolley",
+    "type": "person",
+    "path": "wiki/persons/us/Anita Williams Woolley.md",
+    "aliases": [
+      "阿妮塔·威廉姆斯·伍利",
+      "A. W. Woolley",
+      "Woolley, A. W.",
+      "A. Woolley",
+      "Woolley, A."
+    ]
+  },
+  {
     "title": "Ann Swidler",
     "type": "person",
     "path": "wiki/persons/us/Ann Swidler.md",
@@ -31481,6 +31505,16 @@
     ]
   },
   {
+    "title": "James A. Evans",
+    "type": "person",
+    "path": "wiki/persons/us/James A. Evans.md",
+    "aliases": [
+      "詹姆斯·埃文斯",
+      "J. A. Evans",
+      "Evans, J. A."
+    ]
+  },
+  {
     "title": "James C. Scott",
     "type": "person",
     "path": "wiki/persons/us/James C. Scott.md",
@@ -31879,6 +31913,16 @@
       "利奥·西拉德",
       "西拉德",
       "Leó Szilárd"
+    ]
+  },
+  {
+    "title": "Lingfei Wu",
+    "type": "person",
+    "path": "wiki/persons/us/Lingfei Wu.md",
+    "aliases": [
+      "吴令飞",
+      "L. Wu",
+      "Wu, L."
     ]
   },
   {
@@ -32542,6 +32586,18 @@
       "斯坦利·米尔格拉姆",
       "米尔格拉姆",
       "S. Milgram"
+    ]
+  },
+  {
+    "title": "Stasa Milojevic",
+    "type": "person",
+    "path": "wiki/persons/us/Stasa Milojevic.md",
+    "aliases": [
+      "斯塔莎·米洛耶维奇",
+      "S. Milojević",
+      "Milojević, S.",
+      "S. Milojevic",
+      "Milojevic, S."
     ]
   },
   {
@@ -45478,6 +45534,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

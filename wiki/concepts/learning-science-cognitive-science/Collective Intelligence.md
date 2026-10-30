@@ -2,7 +2,6 @@
 title: Collective Intelligence
 aliases:
   - 集体智慧
-  - 群体智慧
   - 团队集体智力
   - 集体智力
   - c-factor
@@ -40,7 +39,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Collective Intelligence
-> 集体智慧（Collective Intelligence，常形式化为 $c$ 因子）是指一个群体跨越不同任务场景展现出的通用认知与协同解决问题能力。类比于心理测量学中斯皮尔曼（Charles Spearman）发现的个体一般智力（$g$ 因子），组织行为学者实证确立了群体的通用智能维度：在逻辑推演、[[Brainstorming|头脑风暴]]、复杂规划等多样化任务中表现出色的团队，在其他任务中往往同样卓越。核心研究表明，集体智慧并不主要取决于团队成员个体智力的平均值或峰值，而是由团队成员的互动结构与沟通模式深度塑造。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> 集体智慧（Collective Intelligence，常形式化为 $c$ 因子）是指一个群体跨越不同任务场景展现出的通用认知与协同解决问题能力。类比于心理测量学中斯皮尔曼（Charles Spearman）发现的个体一般智力（$g$ 因子），组织行为学者实证确立了群体的通用智能维度：在逻辑推演、[[Brainstorming|头脑风暴]]、复杂规划等多样化任务中表现出色的团队，在其他任务中往往同样卓越。核心研究表明，集体智慧脱离团队成员个体智力峰值或均值，由互动结构与沟通模式深度塑造。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识超越个体智力总和的“系统级”群体认知属性，聚焦于人际交互界面而非单体脑力。

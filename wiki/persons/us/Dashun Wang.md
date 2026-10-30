@@ -8,7 +8,7 @@ summary: "美籍华裔复杂系统与计算社会科学家，美国西北大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -51,6 +51,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: "2026-10-30"
