@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -137,12 +137,12 @@ updated: 2026-10-27
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Chilean Educational Reform of 1981]] | Fact (Policy) | SIMCE 所服务的教育券制度与[[Educational Privatisation|教育私有化]]改革基础。 |
+> | [[Chilean Educational Reform of 1981]] | Fact (Policy) | SIMCE 所服务的教育券制度与[[Educational Privatisation\|教育私有化]]改革基础。 |
 > | [[SNED]] | Fact (Program) | 依据 SIMCE 成绩与增值向排名前 25% 学校发放团队绩效奖金的制度。 |
 > | [[Ley SEP]] | Fact (Policy) | 依据 SIMCE 表现对薄弱学校实施资金管控与关停制裁的优先学校补贴法案。 |
 > | [[Docentemás]] | Fact (Program) | 针对教师个人专业实践开展考核并与 SIMCE 构成多维国家问责的评估系统。 |
 > | [[Alto al SIMCE]] | Fact (Event) | 批判 SIMCE 高利害问责导致教育异化并发起联合抵制的社会运动。 |
 > | [[PISA]] | Fact (Program) | 智利国家课标改革与 SIMCE 体系对标深化的国际大规模学生评估项目。 |
 > | [[Test-Based Accountability]] | Concept | SIMCE 历经分层演变所构筑的基于测验的高利害问责模式。 |
-> | [[Institutional Layering]] | Concept | 解释 SIMCE 数十年间不断叠加新指标与制裁后果的[[Theory of Gradual Institutional Change|制度变迁理论]]构件。 |
+> | [[Institutional Layering]] | Concept | 解释 SIMCE 数十年间不断叠加新指标与制裁后果的[[Theory of Gradual Institutional Change\|制度变迁理论]]构件。 |
 > | [[School Choice]] | Concept | SIMCE 成绩单所支持的家长择校与校际竞争机制。 |

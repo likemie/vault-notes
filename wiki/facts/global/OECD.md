@@ -204,7 +204,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -449,16 +449,16 @@ updated: 2026-10-27
 > | [[Global Educational Policy Field]] | Concept | 经合组织依托测量资本与象征资本确立仲裁权威的跨国博弈场域。 |
 > | [[South-South Cooperation]] | Concept | 经合组织发展援助委员会 2011 年釜山论坛确立合法性的南南互学互鉴与技术协作模式。 |
 > | [[Policy Ambassador]] | Concept | 穿梭于多边组织网络、打破经合组织单向政策转移预设的跨国政策使者。 |
-> | [[Technical Rationality]] | Concept | 经合组织[[Policy Transfer Framework|政策转移框架]]所预设的纯粹工具理性与科学实证主义技术范式。 |
-> | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | OECD CERI 启动的旗舰跨国调查项目，覆盖 29 国 37 个教育系统，系统摸排[[Knowledge Mobilisation|知识动员]]与证据生态治理机制。 |
-> | [[Evidence Ecosystem]] | Concept | OECD 倡导的新一代知识治理核心[[Construct|构念]]，超越线性传递与点状网络，强调全系统动态反馈与使能机制。 |
+> | [[Technical Rationality]] | Concept | 经合组织[[Policy Transfer Framework\|政策转移框架]]所预设的纯粹工具理性与科学实证主义技术范式。 |
+> | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | OECD CERI 启动的旗舰跨国调查项目，覆盖 29 国 37 个教育系统，系统摸排[[Knowledge Mobilisation\|知识动员]]与证据生态治理机制。 |
+> | [[Evidence Ecosystem]] | Concept | OECD 倡导的新一代知识治理核心[[Construct\|构念]]，超越线性传递与点状网络，强调全系统动态反馈与使能机制。 |
 > | [[National Innovation System]] | Concept | OECD 于 1990 年代官方采纳的科技政策新范式，超越单一研发投入指标，关注多主体互动学习。 |
-> | [[Chris Freeman]] | Person | [[Evolutionary Economics|演化经济学]]家，受 OECD 委托撰写早期跨国研发统计报告，后推动 OECD 科技政策转向[[Innovation Policy Paradigms|创新系统范式]]。 |
-> | [[Social Imaginary]] | Concept | OECD 自 1990 年代中期起围绕[[Knowledge-Based Economy|知识经济]]建构并跨国传播的核心话语与规范图景。 |
+> | [[Chris Freeman]] | Person | [[Evolutionary Economics\|演化经济学]]家，受 OECD 委托撰写早期跨国研发统计报告，后推动 OECD 科技政策转向[[Innovation Policy Paradigms\|创新系统范式]]。 |
+> | [[Social Imaginary]] | Concept | OECD 自 1990 年代中期起围绕[[Knowledge-Based Economy\|知识经济]]建构并跨国传播的核心话语与规范图景。 |
 > | [[Fazal Rizvi]] | Person | 批判政策社会学家，深入剖析 OECD 知识经济社会想象与全球教育政策转向的代表学者。 |
 > | [[Bob Lingard]] | Person | 教育政策社会学家，揭示 OECD 数字治理、PISA 等值空间与远处治理机制的核心学者。 |
 > | [[Global Educational Discourse]] | Concept | 经合组织与世行、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | Theory | 比奇构建的五位置流通模型，揭示经合组织等国际机构受紧迫实用主义驱动过度简化知识并参与话语中介。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
-> | [[Jason Beech]] | Person | 比较教育学者；实证剖析经合组织 1964 年拉美规划报告、五大支柱[[Discourse|话语]]共谋及对[[UNESCO|教科文组织]]领导权挤压的代表学者。 |
-> | [[Steen Nepper Larsen]] | Person | 批判经合组织[[Panopticism|全景敞视]]式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
-> | [[Andreas Schleicher]] | Person | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导[[Metacognition|元认知]]反思思维。 |
+> | [[Jason Beech]] | Person | 比较教育学者；实证剖析经合组织 1964 年拉美规划报告、五大支柱[[Discourse\|话语]]共谋及对[[UNESCO\|教科文组织]]领导权挤压的代表学者。 |
+> | [[Steen Nepper Larsen]] | Person | 批判经合组织[[Panopticism\|全景敞视]]式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
+> | [[Andreas Schleicher]] | Person | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导[[Metacognition\|元认知]]反思思维。 |

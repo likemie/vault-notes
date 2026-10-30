@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-25
+updated: 2026-10-30
 ---
 
 ---
@@ -193,7 +193,7 @@ updated: 2026-10-25
 > | [[Problem-Posing Education]] | 概念 | 原创概念提出者，倡导基于平等对话与问题化的生成性探究。 |
 > | [[Conscientization]] | 概念 | 原创概念提出者，界定个体从沉默适应走向批判觉醒的心理与社会机制。 |
 > | [[Praxis]] | 概念 | 强调反思与行动辩证统一的社会实践哲学。 |
-> | [[Politicity of Education]] | 概念 | 核心理论命题，揭示教育天然具备[[Epistemology|认识论]]、分析与伦理政治属性。 |
+> | [[Politicity of Education]] | 概念 | 核心理论命题，揭示教育天然具备[[Epistemology\|认识论]]、分析与伦理政治属性。 |
 > | [[Representational Knowledge]] | 概念 | 典范代表人物，其基于底层生存斗争的理论知识构成全球南方代表性知识的典型范例。 |
 > | [[Moral Dualism]] | 概念 | 《被压迫者教育学》中的二元划分被当代学者作为道德二元论的典型文本展开批判。 |
 > | [[Formative Epistemic Injustice]] | 理论 | 当代学者将其对话精神引入数智时代，反思全流程算法代劳的认识成长侵害。 |

@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -161,7 +161,7 @@ updated: 2026-10-27
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | KMK 创设并托付柏林洪堡大学运营的国家教育质量与测评研发中枢。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | KMK 总体战略第三支柱：全德小学与初中校际比较测试。 |
 > | [[PISA]] | Fact (Program) | KMK 总体战略第一支柱：跨国大型学生能力评估项目。 |
-> | [[TIMSS]] | Fact (Program) | KMK 总体战略第一支柱：国际数学与科学[[Trend Study|趋势研究]]。 |
+> | [[TIMSS]] | Fact (Program) | KMK 总体战略第一支柱：国际数学与科学[[Trend Study\|趋势研究]]。 |
 > | [[PIRLS]] | Fact (Program) | KMK 总体战略第一支柱：国际小学阅读素养研究。 |
 > | [[School Inspection]] | Concept | KMK 监测框架推动各州普遍建立独立学校督导制度以弥补大规模测试的过程性缺陷。 |
 > | [[Evidence-Based Education]] | Concept | KMK 总体战略是德国教育体系贯彻循证教育理念的最高制度实践平台。 |

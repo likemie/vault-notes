@@ -56,7 +56,7 @@ related_persons: []
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-30
 ---
 
 > [!claim] 核心定位
@@ -135,7 +135,7 @@ updated: 2026-10-15
 > [!entry-map] 相关条目
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Gesamtstrategie zum Bildungsmonitoring]] | 政策 | 德国国家教育监测[[Total War|总体战]]略，2015 年增设专章明确州立机构的[[Knowledge Transfer|知识转移]]法定职责。 |
+> | [[Gesamtstrategie zum Bildungsmonitoring]] | 政策 | 德国国家教育监测[[Total War\|总体战]]略，2015 年增设专章明确州立机构的[[Knowledge Transfer\|知识转移]]法定职责。 |
 > | [[Forschungsmonitor Schule]] | 机构 | 各州立研究所联合运营的跨区域教育实证研究中介与清算平台。 |
 > | [[Transfer Science]] | 概念 | 转移科学，将州立机构作为中层行动者网络配置的关键分析实体。 |
 

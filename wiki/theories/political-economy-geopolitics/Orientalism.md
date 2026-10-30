@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -97,10 +97,10 @@ updated: 2026-10-27
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | 表征的权力（Politics of Representation） | 概念 | 指统治者掌握将复杂的非西方社会简化为同质、落后客体的排他性话语权。 |
-> | 文化霸权（[[Hegemony|Cultural Hegemony]]） | 机制 | 通过制度与文化渗透，使被支配者自愿将统治者的规范秩序内化为不言自明的常识。 |
+> | 文化霸权（[[Hegemony\|Cultural Hegemony]]） | 机制 | 通过制度与文化渗透，使被支配者自愿将统治者的规范秩序内化为不言自明的常识。 |
 > | 缺陷型刻板印象（Deficit Stereotyping） | 分类 / 框架 | 将非西方群体的认知风格或行为特征预设为偏离西方常模的缺陷或病态。 |
 > | 认识论依附（Epistemological Dependency） | 状态 | 后殖民国家在获得形式上的政治独立后，在学术标准、理论工具与研究议程上依然依附西方。 |
-> | 文化等级想象（[[Cultural Hierarchy|Cultural Hierarchy]]） | 心理机制 | 认为西方知识与文凭天然等同于现代普世，非西方知识仅为地方性有待改良的等级心理。 |
+> | 文化等级想象（[[Cultural Hierarchy\|Cultural Hierarchy]]） | 心理机制 | 认为西方知识与文凭天然等同于现代普世，非西方知识仅为地方性有待改良的等级心理。 |
 > | 标签化反向挪用（Labeling Instrument） | 批判构件 | 揭示威权机制反向利用“反对东方主义”话语以掩盖本土权力冲突与剥夺行动者能动性的现象。 |
 
 ---

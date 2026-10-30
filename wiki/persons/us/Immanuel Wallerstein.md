@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 ---
@@ -169,9 +169,9 @@ updated: 2026-10-27
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[World-Systems Theory|世界体系理论]] | 理论 | 沃勒斯坦创立的核心宏观理论，奠定中心-半边缘-边缘分析架构。 |
-> | [[Unit of Analysis|分析单位]] | 概念 | 沃勒斯坦打破[[Methodological Nationalism|方法论民族主义]]，确立资本主义世界经济体为基准分析单位。 |
-> | [[Dependency Theory|依附理论]] | 理论 | 沃勒斯坦将拉美依附论吸收并系统推进为具有长时段历史维度的世界体系分析。 |
-> | [[World Society Theory|世界社会理论]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
-> | [[Institutional Layering|制度分层]] | 概念 | 理论支持；解释国际援助与教育扩张如何维系既有阶层分化与依附结构。 |
+> | [[World-Systems Theory\|世界体系理论]] | 理论 | 沃勒斯坦创立的核心宏观理论，奠定中心-半边缘-边缘分析架构。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 沃勒斯坦打破[[Methodological Nationalism\|方法论民族主义]]，确立资本主义世界经济体为基准分析单位。 |
+> | [[Dependency Theory\|依附理论]] | 理论 | 沃勒斯坦将拉美依附论吸收并系统推进为具有长时段历史维度的世界体系分析。 |
+> | [[World Society Theory\|世界社会理论]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
+> | [[Institutional Layering\|制度分层]] | 概念 | 理论支持；解释国际援助与教育扩张如何维系既有阶层分化与依附结构。 |
 > | [[PISA]] | 政策 | 治理批判；后继学者重拾沃勒斯坦议程解构跨国测评背后的全球资本主义治理结构。 |

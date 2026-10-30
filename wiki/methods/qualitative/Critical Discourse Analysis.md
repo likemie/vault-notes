@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -115,8 +115,8 @@ updated: 2026-10-29
 > |---|---|
 > | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿（[[Argument_Woo_2023_HEP\|Woo, 2023, pp. 682–684]]）；超国家机构官方白皮书、理事会峰会结论与跨国工作规划文本群（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias & Roussakis, 2009, pp. 479–481]]）。 |
 > | 抽样或选案 | 选取在政策立项、制度设计与价值动员中具有最高权威性与引导力的关键政策文本群。 |
-> | 研究者位置 | 保持批判性距离，立足教育政策学与[[Cultural Political Economy|文化政治经济学]]跨学科视角审视政策文本的话语效能。 |
-> | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
+> | 研究者位置 | 保持批判性距离，立足教育政策学与[[Cultural Political Economy\|文化政治经济学]]跨学科视角审视政策文本的话语效能。 |
+> | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative\|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
 
 > [!proc] 质性分析程序
 > 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
