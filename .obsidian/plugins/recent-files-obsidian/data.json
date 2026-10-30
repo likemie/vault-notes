@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
     },
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+    },
+    {
+      "basename": "John B. Fenn",
+      "path": "wiki/persons/us/John B. Fenn.md"
+    },
+    {
+      "basename": "Argument_Skipp_Tanner_2015_EEF",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
+    },
+    {
       "basename": "Collective Credit Allocation Algorithm",
       "path": "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
       "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
-    },
-    {
-      "basename": "John B. Fenn",
-      "path": "wiki/persons/us/John B. Fenn.md"
     },
     {
       "basename": "Turn-Taking Equality",
@@ -83,10 +91,6 @@
     {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "Argument_Skipp_Tanner_2015_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
@@ -195,10 +199,6 @@
     {
       "basename": "h-alpha Index",
       "path": "wiki/methods/quantitative/h-alpha Index.md"
-    },
-    {
-      "basename": "m-Quotient",
-      "path": "wiki/methods/quantitative/m-Quotient.md"
     }
   ],
   "omittedPaths": [],
