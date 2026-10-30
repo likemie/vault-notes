@@ -11455,6 +11455,8 @@
     "Janzen, 2003": "Janzen, 2003",
     "Jarmon et al. (2009)": "Jarmon et al., 2009",
     "Jarmon et al., 2009": "Jarmon et al., 2009",
+    "Jarrett Spiro (2005)": "Jarrett Spiro, 2005",
+    "Jarrett Spiro, 2005": "Jarrett Spiro, 2005",
     "Jarvis (1988)": "Jarvis, 1988",
     "Jarvis, 1988": "Jarvis, 1988",
     "Jasanoff (2004)": "Jasanoff, 2004",
@@ -110651,6 +110653,21 @@
       ],
       "title": ""
     },
+    "Jarrett Spiro, 2005": {
+      "aliases": [
+        "Jarrett Spiro, 2005",
+        "Jarrett Spiro (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jarrett Spiro, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Small-World Quotient.md"
+      ],
+      "title": ""
+    },
     "Jarvis, 1988": {
       "aliases": [
         "Jarvis, 1988",
@@ -201906,6 +201923,7 @@
         "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/science-policy/Coauthorship Network.md",
         "wiki/concepts/science-policy/Six Degrees of Separation.md",
+        "wiki/concepts/science-policy/Small-World Quotient.md",
         "wiki/theories/science-policy/Small-World Collaboration Model.md"
       ],
       "title": ""

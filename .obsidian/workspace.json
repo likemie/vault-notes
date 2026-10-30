@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,12 +313,35 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c2ae20d6d231fcfa",
+  "active": "a2aa5f6545a9eecb",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-010/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-010/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-011/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-011/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-009/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-009/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-003/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-003/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-007/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-007/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-008/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-008/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-004/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-006/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-006/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-004/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-005/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-005/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-001/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-001/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit05-b71884e8/batch-002/prompt.md",
+    "wiki/concepts/science-policy/Small-World Quotient.md",
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+    "wiki/concepts/science-policy/Reflection Problem.md",
     "wiki/methods/quantitative/Difference-in-Differences.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
     "wiki/theories/science-policy/Team Assembly Model.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
     "wiki/facts/us/Human Genome Project.md",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_A1-1_Assembling_Teams_in_Science.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_12-4_Small_Teams_Disrupt_Big_Teams_Develop.jpg",
@@ -338,29 +361,6 @@
     "wiki/concepts/science-policy/Super Ties in Science.md",
     "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md",
     "wiki/concepts/educational-psychology/Too-Much-Talent Effect.md",
-    "wiki/theories/science-policy/Core and Extended Teams Model.md",
-    "wiki/methods/quantitative/Disruption Index.md",
-    "wiki/concepts/science-policy/Peer Effects in Science.md",
-    "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
-    "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
-    "wiki/persons/us/John B. Fenn.md",
-    "wiki/methods/quantitative/Joint Probability Matrix of Hits.md",
-    "wiki/assets/geogebra/did_causal_model.ggb",
-    "wiki/facts/us/Laser Interferometer Gravitational-Wave Observatory.md",
-    "wiki/assets/geogebra/difference_in_differences.ggb",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
-    "wiki/methods/quantitative/Clique Percolation Method.md",
-    "wiki/methods/mixed/Network Analysis.md",
-    "wiki/persons/germany/Fabian Waldinger.md",
-    "wiki/assets/geogebra/relative_team_impact.ggb",
-    "wiki/assets/geogebra/roc_curve_science_evaluation.ggb",
-    "tmp/floating-toc-callouts/patched-prefix.sha256",
-    "tmp/floating-toc-callouts/styles.original-2.7.1.css",
-    "scripts/floating_toc_callouts.css",
-    "tests/floating_toc_callouts.test.cjs",
-    "scripts/patch_floating_toc.py",
-    "scripts/floating_toc_callouts.js",
     "未命名.canvas"
   ]
 }

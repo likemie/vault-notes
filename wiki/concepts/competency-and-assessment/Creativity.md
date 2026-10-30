@@ -11,9 +11,9 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 97
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 104
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/creativity
@@ -31,9 +31,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Academic Risk Aversion]]"
+  - "[[Team Science]]"
+  - "[[Small-World Quotient]]"
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
   - "[[Document]]"
+  - "[[Coauthorship Network]]"
   - "[[Operationalization]]"
   - "[[Open-Mindedness]]"
   - "[[Falsification]]"
@@ -63,10 +66,11 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Epistemology]]"
   - "[[Grand Theory]]"
+  - "[[Clustering Coefficient]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Heterogeneity]]"
   - "[[Champ]]"
   - "[[Criterion Problem]]"
-  - "[[Heterogeneity]]"
   - "[[Domain Specificity]]"
   - "[[Polymath]]"
   - "[[Lifestyle Technology]]"
@@ -91,6 +95,8 @@ related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
 related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Socrates]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -106,6 +112,7 @@ related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Naeem_2026_Episteme]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
@@ -157,8 +164,8 @@ updated: 2026-10-30
 >
 > *The artist Jean-Michel Basquiat, whose paintings in the 1980s demanded that the boundaries of what could be considered high art be redrawn... So much of what made his paintings original, however, would later be repurposed and recycled, almost endlessly, by a culture ravenous for even hints of the novel... There was some real art being created, some Basquiats refining their craft. But most of the companies were lifeless and derivative works.*
 
-> [!citation-card] 王大顺与巴拉巴西论协作网络拓扑对团队创造力的倒 U 形法则
-> 团队科学与艺术创作的实证表明，合作网络拓扑对集体创造力具有决定性影响。由小世界商数 $W$ 测度的小世界网络特征与团队创造力及绩效呈现典型的倒 U 形曲线：当 $W$ 过低时，网络割裂且缺乏凝聚力，异质构想难以流动融合；当 $W$ 过高时，所有团队陷入重叠度过高的同质化小圈子，形成认知回音室并扼杀原创突破；唯有在中等小世界网络拓扑下，团队才能在保障高效沟通信任的同时吸收跨集群的异质思想，最大化释放协同创造潜能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论协作网络拓扑对团队创造力的倒 U 形法则
+> [[Team Science|团队科学]]与艺术创作的实证表明，合作网络拓扑对集体创造力具有决定性影响。由[[Small-World Quotient|小世界商数]] $W$ 测度的小世界网络特征与团队创造力及绩效呈现典型的倒 U 形曲线：当 $W$ 过低时，网络割裂且缺乏凝聚力，异质构想难以流动融合；当 $W$ 过高时，所有团队陷入重叠度过高的同质化小圈子，形成认知回音室并扼杀原创突破；唯有在中等小世界网络拓扑下，团队才能在保障高效沟通信任的同时吸收跨集群的异质思想，最大化释放协同创造潜能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 >
 > *The small-world topology of collaboration networks facilitates creative success up to a point, after which hyper-cohesiveness stifles novelty and locks teams into cognitive echo chambers.*
 
@@ -167,7 +174,7 @@ updated: 2026-10-30
 > - 不等于 创新（Innovation）：创造力侧重于新颖适切构想的生成，创新侧重于构想在组织、市场或社会实践中的应用、推广与价值转化。
 > - 不等于 [[Document|文献]]发表数量（Publication Volume）：在学术建制中，论著发表数量高并不等同于高创造力；切香肠式增量发表往往反映的是规避风险的常规劳动，而非开辟新领域的突破性创造力。
 > - 不等于 衍生性商业拼贴（Derivative Pastiche）：对既有成熟技术或通信协议的表面重组、界面换皮与商业分销套利，无法等同于推动文明边界拓展的原真创造力。
-> - 区别于 单兵作战个体创造力：团队创造力依赖合著网络拓扑与多学科异质思想重组，受制于小世界网络结构中的群聚与捷径平衡。
+> - 区别于 单兵作战个体创造力：团队创造力依赖[[Coauthorship Network|合著网络]]拓扑与多学科异质思想重组，受制于小世界网络结构中的群聚与捷径平衡。
 
 ---
 
@@ -185,7 +192,7 @@ updated: 2026-10-30
 > - **创造过程（Process）** 探讨[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、顿悟、酝酿与批判性评估等内在认知加工阶段，以及 AI 假设生成与物理实验[[Falsification|证伪]]的协同。
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、科学定律或技术原型在特定领域的颠覆性与实用价值。
 > - **创造环境（Press / Environment）** 探讨物理空间、组织气候、同行评议机制、科研资助生态对高风险探索的包容或压制。
-> - **团队协作网络拓扑与集体创造力（Collaboration Network Topology & Collective Creativity）** 团队创造力不仅取决于成员个体的认知潜能，更受制于合作网络的宏观拓扑结构。以小世界商数 $W$ 表征的[[Small-World Collaboration Model|小世界协作网络]]通过局部群聚与全局捷径的拓扑张力调节异质思维输入，适度小世界网络构成了激发突破性团队创新的最佳结构基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> - **团队协作网络拓扑与集体创造力（Collaboration Network Topology & Collective Creativity）** 团队创造力不仅取决于成员个体的认知潜能，更受制于合作网络的宏观拓扑结构。以小世界商数 $W$ 表征的小世界协作网络通过局部群聚与全局捷径的拓扑张力调节异质思维输入，适度小世界网络构成了激发突破性团队创新的最佳结构基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 > - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**与**技能成分**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 277–278)]]
 > - **原真性与超越衍生性（Authentic Originality vs Derivative Pastiche）** 真正的颠覆性创造力如同巴斯奎特（Basquiat）开创涂鸦艺术，要求打破旧有[[Paradigm|范式]]并重新划定人类认知边界；而在无差别商业投机与消费主义规训下，创造力极易退化为对既有通信协议的浅层排列组合与无生命衍生作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 > - **反从众与[[Social Deafness|社交失聪]]（Counter-Conformity & Social Deafness）** 颠覆性创造力在微观心理上要求个体具备抵抗群体一致性从众压力的认知绝缘性，如莫奈因白内障促成抽象表现主义、贝多芬因耳聋开创新声响世界一般，保持对世俗舆论与同侪非难的钝感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 137–138)]]
@@ -251,7 +258,7 @@ updated: 2026-10-30
 > **探讨维度　科学学、创新经济学与科研制度激励维度** 探讨个体科研人员在生命周期各阶段的创造力演变规律，以及现行科研评价体制对高风险、高方差颠覆性创造力的抑制机制。
 
 > [!claim] Jones; Chu & Evans; Kratsios
-> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与[[Bibliometric Analysis|科学计量学]]研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（[[Salami Publishing|Salami Slicing]]）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和文献引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
+> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与[[Bibliometric Analysis|科学计量学]]研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（[[Salami Publishing|Salami Slicing]]）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和[[Document|文献]]引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
 
 ---
 
@@ -295,10 +302,10 @@ updated: 2026-10-30
 ---
 
 > [!concept-proposition] 命题九｜团队创造力与协作网络的小世界拓扑呈现倒 U 形关联，适度的小世界结构最能平衡知识凝聚与异质碰撞
-> **探讨维度　复杂网络结构、团队科学与集体创造力机制** 考察宏观合著与合作网络拓扑如何塑造中观团队层面的创新产出，检验网络小世界特征与创造力表现的非线性规律。
+> **探讨维度　复杂网络结构、[[Team Science|团队科学]]与集体创造力机制** 考察宏观合著与合作网络拓扑如何塑造中观团队层面的创新产出，检验网络小世界特征与创造力表现的非线性规律。
 >
 > [!claim] Uzzi and Spiro (2005); [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]]
-> **小世界协作网络的倒 U 形创造力法则** 基于百老汇音乐剧创作团队（1889–2004）与跨学科科研合著大数据的定量分析表明，协作网络的小世界商数 $W$（衡量局部聚集系数相对于随机网络的比值除以平均路径长度比值）与团队创造力及市场表现呈现显著的倒 U 形关联。在极低 $W$ 网络中，各个创作小组相互孤立，缺乏共享的默契与信任基础，知识流通受阻；而在极高 $W$ 的过度紧密网络（Hyper-cohesive Network）中，团队成员高度重复嵌套在狭窄的学术或创作圈子内，形成了同质化的认知回音室，对非共识创新构想产生群体排斥，导致团队创造力发生系统性衰退；唯有处于中等小世界网络中，团队既能保持紧密的内部信任以实现高效沟通，又能依托横跨不同学术群体的弱连接捷径引入异质思想，从而最大化产出兼具原创突破与广泛赞誉的卓越成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> **小世界协作网络的倒 U 形创造力法则** 基于百老汇音乐剧创作团队（1889–2004）与跨学科科研合著大数据的定量分析表明，协作网络的[[Small-World Quotient|小世界商数]] $W$（衡量局部[[Clustering Coefficient|聚集系数]]相对于随机网络的比值除以平均路径长度比值）与团队创造力及市场表现呈现显著的倒 U 形关联。在极低 $W$ 网络中，各个创作小组相互孤立，缺乏共享的默契与信任基础，知识流通受阻；而在极高 $W$ 的过度紧密网络（Hyper-cohesive Network）中，团队成员高度重复嵌套在狭窄的学术或创作圈子内，形成了同质化的认知回音室，对非共识创新构想产生群体排斥，导致团队创造力发生系统性衰退；唯有处于中等小世界网络中，团队既能保持紧密的内部信任以实现高效沟通，又能依托横跨不同学术群体的弱连接捷径引入异质思想，从而最大化产出兼具原创突破与广泛赞誉的卓越成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 
 ---
 
@@ -313,7 +320,7 @@ updated: 2026-10-30
 > | **反从众与组织不服从** | 颠覆性创造力依赖于对群体从众压力的清醒抵抗、微观认知层面的社交失聪以及组织机制对建设性不服从的制度化包容 | [[Organizational Culture\|组织文化]]设计、工程心理学、前沿科技管理与创新团队治理 | [[Solomon Asch\|Asch (1951)]]; [[Stanley Milgram\|Milgram (1963)]]; Karp & Zamiska (2025, Ch. 12) |
 > | **模仿毒性与创造傲慢** | 突破性创造是对既有产物的反叛决裂与从无到有，过度模仿演化为创造毒素，需依托创造性摩擦冲破平庸合群牢笼 | 技术创新哲学、创业生态、[[Student-Teacher Relationship\|师生关系]]与组织创造力治理 | Karp & Zamiska (2025, Ch. 14); Emerson (1841); Kris (1952) |
 > | **奥德修斯约束与长期主义** | 突破性创造依赖审美品味与非委员会决断，自愿限制灵活性的奥德修斯自我约束与长程资产托管是抵御短期主义的根本路径 | 技术治理、公司战略、长期投资与创新哲学 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 18); Fahlenbrach (2009); Lee et al. (2016) |
-> | **团队网络拓扑与创造力** | 协作网络小世界商数与团队创造力呈倒 U 形非线性关联，中等小世界拓扑最能平衡信任与异质性 | 跨学科科研团队组建、重大攻关项目组织与创意产业管理 | Uzzi and Spiro (2005); [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] |
+> | **团队网络拓扑与创造力** | 协作网络小世界商数与团队创造力呈倒 U 形非线性关联，中等小世界拓扑最能平衡信任与[[Heterogeneity\|异质性]] | 跨学科科研团队组建、重大攻关项目组织与创意产业管理 | Uzzi and Spiro (2005); [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] |
 
 ---
 
@@ -345,7 +352,7 @@ updated: 2026-10-30
 > > 争论高凝聚力的小圈子网络是否有助于增进创造力，还是会因群体盲思而损害原创性。
 > >
 > > - **高内聚信任派** 认为紧密的局部强连接能够建立深厚的同行互信，降低跨学科交流的试错成本并保障默契协作。
-> > - **小世界倒 U 形拓扑派（Uzzi & Spiro / Wang & Barabási）** 证实过度紧密的抱团网络会演化为认知回音室，导致团队创造力发生系统性衰退；唯有中等小世界网络才能兼顾沟通默契与异质思维注入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> > - **小世界倒 U 形拓扑派（Uzzi & Spiro / Wang & [[Albert-László Barabási|Barabási]]）** 证实过度紧密的抱团网络会演化为认知回音室，导致团队创造力发生系统性衰退；唯有中等小世界网络才能兼顾沟通默契与异质思维注入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 >
 > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。

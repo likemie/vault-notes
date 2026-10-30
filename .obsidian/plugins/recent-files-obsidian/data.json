@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
     },
     {
-      "basename": "Difference-in-Differences",
-      "path": "wiki/methods/quantitative/Difference-in-Differences.md"
+      "basename": "Reflection Problem",
+      "path": "wiki/concepts/science-policy/Reflection Problem.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+      "basename": "Difference-in-Differences",
+      "path": "wiki/methods/quantitative/Difference-in-Differences.md"
     },
     {
       "basename": "Team Assembly Model",
@@ -195,10 +199,6 @@
     {
       "basename": "Lost Winners",
       "path": "wiki/concepts/science-policy/Lost Winners.md"
-    },
-    {
-      "basename": "Goliath's Shadow",
-      "path": "wiki/concepts/science-policy/Goliath's Shadow.md"
     }
   ],
   "omittedPaths": [],

@@ -9,9 +9,9 @@ summary: "通过识别行动者、关系、节点和连接来测量社会与学�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 54
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 64
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
@@ -23,10 +23,14 @@ tags:
   - theme/knowledge-mobilisation
   - cscl
 related_concepts:
+  - "[[Document]]"
+  - "[[Coauthorship Network]]"
   - "[[Policy Network]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Giant Component]]"
   - "[[Public-Private Partnership]]"
   - "[[Unit of Analysis]]"
+  - "[[Small-World Quotient]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
@@ -39,19 +43,22 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Structural Holes]]"
   - "[[Rich and Thick Description]]"
+  - "[[Clustering Coefficient]]"
   - "[[Gatekeepers]]"
   - "[[Knowledge Mediation]]"
   - "[[School Leadership]]"
+  - "[[Collaborative Learning]]"
+  - "[[Knowledge Production]]"
+  - "[[Heterogeneity]]"
   - "[[Policy Brokerage]]"
   - "[[Causality]]"
   - "[[Epistemic Responsibility]]"
+  - "[[Construct]]"
   - "[[Network Governance]]"
   - "[[Exogenous Privatisation]]"
   - "[[Reflective Structuration]]"
   - "[[Ontology]]"
   - "[[Educational Privatisation]]"
-  - "[[Coauthorship Network]]"
-  - "[[Peer Effects in Science]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Complexity Theory]]"
@@ -67,8 +74,11 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Observation]]"
   - "[[Triangulation]]"
+  - "[[Explanatory Sequential Design]]"
+  - "[[Joint Display]]"
   - "[[Interactional Ethnography]]"
   - "[[Qualitative Interview]]"
+  - "[[Bibliometric Analysis]]"
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
 related_instruments: []
@@ -76,13 +86,13 @@ related_persons: []
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Custer_2021_AidData]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: 2026-07-22
@@ -92,13 +102,13 @@ updated: 2026-10-30
 ---
 
 > [!def] Network Analysis
-> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；在中观科学学与文献计量中，它用于解析学者[[Coauthorship Network|合著网络]]的拓扑结构与小世界特征（Newman, 2001; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási, 2021]]）；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与隐性私有化资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
+> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；在中观科学学与[[Document|文献]]计量中，它用于解析学者[[Coauthorship Network|合著网络]]的拓扑结构与小世界特征（Newman, 2001; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási, 2021]]）；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与隐性私有化资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会与组织网络中的行动者（Actors / 节点 Nodes，包括学生、教师、学者、政客、商业高管与学者型[[Policy Entrepreneur|政策企业家]]）、关系与纽带（Relations / 连接 Ties，包括发帖互动、共同署名合著、资源流转、跨机构兼任与商标特许授权），以及网络整体的拓扑结构特征。
-> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（派系 Cliques）、评估课堂协作知识建构中的分布式认知网络密度、测算学术合著网络的重尾度分布与巨连通分支，以及绘制新自由主义[[Public-Private Partnership|公私伙伴关系]]中的连锁董事治理同盟与跨国政策特许拓扑。
+> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（派系 Cliques）、评估课堂协作知识建构中的分布式认知网络密度、测算学术合著网络的重尾度分布与[[Giant Component|巨连通分支]]，以及绘制新自由主义[[Public-Private Partnership|公私伙伴关系]]中的连锁董事治理同盟与跨国政策特许拓扑。
 > - **[[Unit of Analysis|分析单位]]** 个体层次（自我中心网络 Ego-Network） $\to$ 对偶层次（Dyads） $\to$ 三元闭包层次（Triads） $\to$ 完整组织、科学界或跨国政策全网络（Whole Network）（Knoke & Yang, 2008, pp. 13–15; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási, 2021]]）。
-> - **典型输出** 社会关系网络图（Sociograms）、政商兼任网络图（Governance Network Maps）、合著网络拓扑图、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）与小世界商数。
+> - **典型输出** 社会关系网络图（Sociograms）、政商兼任网络图（Governance Network Maps）、合著网络拓扑图、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）与[[Small-World Quotient|小世界商数]]。
 
 > [!citation-card] 关键定义：社会网络分析的结构解释力
 > 社会网络分析试图测量和绘制社会实体之间关系的规律模式。其基本理论前提是，人们所嵌入的宏观网络结构关系比传统的个体属性更能有力地解释其行为。
@@ -135,9 +145,9 @@ updated: 2026-10-30
 > 4. **批判政策质性[[Triangulation|三角互证]]** 结合商业合同文本、政策游说简报与商标特许授权协议，对网络拓扑所揭示的[[Structural Holes|结构洞]]与核心同盟进行制度政治经济学[[Rich and Thick Description|深描]]。
 
 > [!method-stack] 整合设计
-> - **设计类型** 混合方法社会网络分析（Mixed-Methods Social Network Analysis, MMSNA），常采用解释性序列设计（Explanatory Sequential Design）或并发嵌入设计（Convergent Embedded Design）。
-> - **先后顺序** 量化先行提取网络拓扑结构（中心度、密度、聚类系数、社区划分），质性跟进深描连接背后的意义与机制；或质性进入现场搜集名录档案，量化投射网络拓扑。
-> - **整合点** 在数据收集阶段依托档案与访谈构建关系矩阵；在分析与解释阶段，将量化拓扑指标与质性话语转录、政策文本或田野观察进行联合展示（Joint Display）。
+> - **设计类型** 混合方法社会网络分析（Mixed-Methods Social Network Analysis, MMSNA），常采用[[Explanatory Sequential Design|解释性序列设计]]（Explanatory Sequential Design）或并发嵌入设计（Convergent Embedded Design）。
+> - **先后顺序** 量化先行提取网络拓扑结构（中心度、密度、[[Clustering Coefficient|聚类系数]]、社区划分），质性跟进深描连接背后的意义与机制；或质性进入现场搜集名录档案，量化投射网络拓扑。
+> - **整合点** 在数据收集阶段依托档案与访谈构建关系矩阵；在分析与解释阶段，将量化拓扑指标与质性话语转录、政策文本或田野观察进行[[Joint Display|联合展示]]（Joint Display）。
 > - **整合逻辑** 以量化结构测度刻画宏观网络形态，以质性证据解释关系生成动因，克服纯拓扑的机制黑箱与纯质性的全貌缺失。
 
 > [!formula-step] 步骤一　点度中心度（Degree Centrality）
@@ -189,9 +199,9 @@ updated: 2026-10-30
 
 > [!method-fit] 适用判断
 > - **适合使用** 
->   - 测度计算机支持的协作学习（CSCL）与课堂[[Theory of Knowledge|知识论]]坛（KF）中学生的分布式认知网络与跨组互动密度；[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903)]]
+>   - 测度计算机支持的[[Collaborative Learning|协作学习]]（CSCL）与课堂[[Theory of Knowledge|知识论]]坛（KF）中学生的分布式认知网络与跨组互动密度；[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903)]]
 >   - 分析学校内部教师专业学习社群中的同行建议寻求网络结构；
->   - 解析科学学与知识生产中的跨学科[[Coauthorship Network|合著网络]]拓扑，评估度分布重尾异质性、小世界商数与巨连通分支规律；[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
+>   - 解析科学学与[[Knowledge Production|知识生产]]中的跨学科[[Coauthorship Network|合著网络]]拓扑，评估度分布重尾[[Heterogeneity|异质性]]、小世界商数与巨连通分支规律；[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
 >   - 解析跨区域、跨国教育[[Policy Brokerage|政策中介]]机构（如 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）之间的合作与资源共享拓扑；
 >   - 识别教育改革推进中的关键[[Boundary Spanner|知识经纪人]]（Boundary Spanners）与孤立学校；
 >   - 绘制教育政策社会学中的公私跨界[[Policy Network|政策网络]]，解构政客、对冲基金、商业智库与[[Policy Entrepreneur|政策企业家]]构成的连锁董事治理拓扑与全球商标特许网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
@@ -214,7 +224,7 @@ updated: 2026-10-30
 > |:---|:---|:---|
 > | [[Knowledge Building Theory]] | 理论 | 为社会网络分析提供协作知识建构与[[Epistemic Responsibility\|集体认知责任]]的[[Epistemology\|认识论]]基础，指导识别去中心化的分布式网络。 |
 > | [[Small-World Collaboration Model]] | 理论 | 为网络分析提供合著网络小世界商数 $W$ 与团队创造力非线性关联的理论模型。 |
-> | [[Coauthorship Network]] | 概念 | 网络分析在科学学与文献计量学中测度的核心知识生产网络构念。 |
+> | [[Coauthorship Network]] | 概念 | 网络分析在科学学与[[Bibliometric Analysis\|文献计量学]]中测度的核心知识生产网络[[Construct\|构念]]。 |
 > | [[Policy Network]] | 概念 | 网络分析用于实证绘制教育治理中的多行动者政策网络、跨国流动拓扑与公私同盟结构。 |
 > | [[Network Governance]] | 概念 | 网络分析是测算和揭示公私跨界网络治理拓扑同盟与非正式权力结构的核心实证工具。 |
 > | [[Policy Entrepreneur]] | 概念 | 网络分析用于识别跨界流动的关键政策企业家节点及其在政商学界的多重兼任连线。 |

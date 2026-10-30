@@ -7,10 +7,10 @@ aliases:
 summary: "复杂网络分析中量化节点局部连边紧密程度与三元互联倾向的核心拓扑度量；定义为某个节点的邻居节点之间实际存在的连边数占可能最大连边数的比例；在科学合著网络中实测值高达 0.1–0.3（比同阶随机网络高出几个数量级），刻画了学者倾向于在小圈子、研究团队与学术学派中形成高内聚协同的局域特征。"
 type: concept
 domain: "science-policy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-of-science
   - theme/network-science
@@ -18,6 +18,10 @@ tags:
   - theme/graph-theory
 related_concepts:
   - "[[Coauthorship Network]]"
+  - "[[Emergence]]"
+  - "[[Creativity]]"
+  - "[[Knowledge Production]]"
+  - "[[Small-World Quotient]]"
   - "[[Giant Component]]"
   - "[[Erdős Number]]"
   - "[[Six Degrees of Separation]]"
@@ -26,7 +30,10 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+  - "[[Brian Uzzi]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -43,7 +50,7 @@ updated: 2026-10-30
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 刻画网络中“朋友的朋友也是朋友”或“伙伴的伙伴也在共同开展研究”的局域三元互联倾向。
-> - **用途** 用于合著网络分析中识别局部学术学派、师承网络与合作圈子的内聚密度，并与全局最短路径结合评估小世界网络的创新效能。
+> - **用途** 用于[[Coauthorship Network|合著网络]]分析中识别局部学术学派、师承网络与合作圈子的内聚密度，并与全局最短路径结合评估小世界网络的创新效能。
 > - **边界** 高集聚系数反映局域信任与协同成熟度，但过高的集聚度容易阻断外源异质知识的输入，诱发认知僵化与回音室效应。
 
 > [!citation-card] 合著网络中远超随机基准的高集聚系数
@@ -92,16 +99,16 @@ updated: 2026-10-30
 > [!concept-proposition] 命题一｜合著网络的高集聚系数揭示学术协作具有强烈的局域内聚属性
 > **探讨维度　学术合作的微观组织结构** 探讨科学家之间是随机碰撞合作还是在特定强关系小圈子中深度结网。
 
-> [!claim] Wang, D. & Barabási, A.-L.
-> **局域信任与三元闭包涌现** 科学合作网络的集聚系数较同等规模随机图高出数千倍；极高的高阶三元连通概率证实，学者优先在成熟的合作小团体与学术网络深耕，局域信任是维系复杂团队生产的社会资本基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
+> [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
+> **局域信任与三元闭包[[Emergence|涌现]]** 科学合作网络的集聚系数较同等规模随机图高出数千倍；极高的高阶三元连通概率证实，学者优先在成熟的合作小团体与学术网络深耕，局域信任是维系复杂团队生产的社会资本基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 
 ---
 
 > [!concept-proposition] 命题二｜适度的小世界集聚构成孵化突破性创新的最佳拓扑环境
-> **探讨维度　网络嵌入性与团队创造力** 剖析局部紧密聚类与全局远距捷径对知识生产与创新产出的非线性影响。
+> **探讨维度　网络嵌入性与团队[[Creativity|创造力]]** 剖析局部紧密聚类与全局远距捷径对[[Knowledge Production|知识生产]]与创新产出的非线性影响。
 
-> [!claim] Uzzi, B. & Spiro, J.
-> **集聚度的倒 U 形效应** 百老汇演艺网络与学术合著网络的经验实测表明，当集聚系数维持适度水平（小世界参数居中）时，团队既拥有充足的内部默契，又未陷入封闭的回音室，最具几率产出突破性精品成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 106–107)]]
+> [!claim] [[Brian Uzzi|Uzzi, B.]] & Spiro, J.
+> **集聚度的倒 U 形效应** 百老汇演艺网络与学术合著网络的经验实测表明，当集聚系数维持适度水平（[[Small-World Quotient|小世界参数]]居中）时，团队既拥有充足的内部默契，又未陷入封闭的回音室，最具几率产出突破性精品成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 106–107)]]
 
 ---
 

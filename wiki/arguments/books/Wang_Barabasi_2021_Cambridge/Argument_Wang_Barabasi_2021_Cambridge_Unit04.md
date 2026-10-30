@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Response to Intervention]]"
   - "[[Star Scientists]]"
+  - "[[Small-World Quotient]]"
   - "[[Team Science]]"
   - "[[Death of Distance]]"
   - "[[Document]]"
@@ -112,7 +113,7 @@ updated: "2026-10-30"
 > [!concept-lens] 阅读透镜
 > - **分析对象** 1955 至 2000 年间全球 1,990 万篇期刊论著与 210 万件专利数据库；1975 至 2005 年间 420 万篇跨校合作成果；全球 200 所顶尖高校科研合作地理拓扑；全美 255 个进化生物学系近 15 万篇教员成果；生命科学顶尖学者猝逝样本与苏联解体外流数学家队列；百老汇一个世纪的音乐剧合作全量图谱；康奈尔大学 arXiv 预印本平台逾 3 万名物理学者合著网络，以及跨物理、生物与数学领域的学科全景合作网络。
 > - **核心张力** 个人英雄主义天才叙事与[[Big Science|大科学]]时代团队协作主导之间的认知张力；地理距离在跨国合作中的物理消亡与基于学术声望的社会分层加剧之间的制度张力；观察性数据中同伴互动相关性与真实因果溢出效应之间的识别障碍（反射问题）；过度紧密的合作小圈子带来的群体盲思与过于稀疏的网络造成的知识孤岛之间的结构张力。
-> - **方法贡献** 确立评价团队引文优势的标准指标[[Relative Team Impact|相对团队影响力]]（Relative Team Impact, [[Response to Intervention|RTI]]）；引入跨校与跨国署名分解模型量化合作溢价；依托[[Star Scientists|明星科学家]]意外离世准自然实验与[[Difference-in-Differences|双重差分]]模型剥离选择效应与同时性偏误；运用复杂网络度分布拟合、团渗流社区发现算法（[[Clique Percolation Method|CPM]]）与小世界参数测算跨学科合著网络拓扑。
+> - **方法贡献** 确立评价团队引文优势的标准指标[[Relative Team Impact|相对团队影响力]]（Relative Team Impact, [[Response to Intervention|RTI]]）；引入跨校与跨国署名分解模型量化合作溢价；依托[[Star Scientists|明星科学家]]意外离世准自然实验与[[Difference-in-Differences|双重差分]]模型剥离选择效应与同时性偏误；运用复杂网络度分布拟合、团渗流社区发现算法（[[Clique Percolation Method|CPM]]）与[[Small-World Quotient|小世界参数]]测算跨学科合著网络拓扑。
 
 ---
 
@@ -355,7 +356,7 @@ updated: "2026-10-30"
 
 > [!case] 百老汇音乐剧团队合作网络与倒 U 形创造力规律
 > - **百老汇音乐剧百年大数据网络构建** 社会学家布赖恩·乌齐（Brian Uzzi）与斯皮罗分析了 1889 至 1989 年整整一个世纪百老汇制作的 474 部音乐剧创作网络，节点包括制作人、导演、编剧、作曲家、作词家与演员，当两人在同一部剧中共同工作时建立连线（Uzzi & Spiro, 2005, pp. 107–108）。
-> - **小世界商数 $W$ 的参数定义** 通过参数 $W$ 测算网络的小世界商数（包含局域聚类与全局短路径的综合偏离度）。低 $W$ 网络中团队彼此割裂孤立；高 $W$ 网络中团队高度密集缠绕；中等 $W$ 网络呈现适度小世界拓扑。
+> - **小世界商数 $W$ 的参数定义** 通过参数 $W$ 测算网络的[[Small-World Quotient|小世界商数]]（包含局域聚类与全局短路径的综合偏离度）。低 $W$ 网络中团队彼此割裂孤立；高 $W$ 网络中团队高度密集缠绕；中等 $W$ 网络呈现适度小世界拓扑。
 > - **票房与艺术评分的倒 U 形回归检验** 针对每部音乐剧的商业票房收益与剧评家艺术评分开展二次多项式回归，研究发现 $W$ 与团队绩效呈现出显著的倒 U 形非线性关联：低 $W$ 下团队无法汲取外部新灵感导致表现平庸；过高的 $W$ 则因团队过度纠缠形成同质化认知回音室，压制异常假说并引发群体盲思；唯有在中等 $W$ 值区间，适度小世界网络在保障局域信任默契的同时维持外部异质知识流动，使团队票房与艺术评分双双达到峰值（pp. 107–108）。
 
 > [!figure]- 图10-3：小世界网络拓扑对百老汇音乐剧创作团队绩效的非线性影响

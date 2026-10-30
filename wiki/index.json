@@ -16680,6 +16680,19 @@
     ]
   },
   {
+    "title": "Small-World Quotient",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Small-World Quotient.md",
+    "aliases": [
+      "小世界商数",
+      "网络小世界参数",
+      "小世界参数",
+      "小世界指数",
+      "Small-Worldness",
+      "Small-World Parameter"
+    ]
+  },
+  {
     "title": "Status Bias in Peer Review",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Status Bias in Peer Review.md",
