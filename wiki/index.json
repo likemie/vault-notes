@@ -33965,6 +33965,18 @@
     "subtype": "event"
   },
   {
+    "title": "Mencius Mother Three Moves",
+    "type": "fact",
+    "path": "wiki/facts/china/Mencius Mother Three Moves.md",
+    "aliases": [
+      "孟母三迁",
+      "孟母三迁典故",
+      "Meng Mu San Qian",
+      "Mencius' Mother Three Moves"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "National Assessment of Education Quality China 2007",
     "type": "fact",
     "path": "wiki/facts/china/National Assessment of Education Quality China 2007.md",
@@ -35629,6 +35641,18 @@
       "埃克蜂群观测",
       "埃克蜂群",
       "Eck Swarm"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Nazi Purge of University Scholars",
+    "type": "fact",
+    "path": "wiki/facts/germany/Nazi Purge of University Scholars.md",
+    "aliases": [
+      "纳粹德国高校学者清洗",
+      "纳粹解聘德国大学教授事件",
+      "1933年德国大学犹太学者解聘事件",
+      "Dismissal of Scientists in Nazi Germany"
     ],
     "subtype": "event"
   },
@@ -39205,6 +39229,18 @@
     "subtype": "event"
   },
   {
+    "title": "Post-Soviet Emigration of Mathematicians",
+    "type": "fact",
+    "path": "wiki/facts/russia/Post-Soviet Emigration of Mathematicians.md",
+    "aliases": [
+      "苏联解体数学家外流冲击",
+      "后苏联数学家移民事件",
+      "苏联解体学者外流准自然实验",
+      "Emigration of Soviet Mathematicians"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Russian Translation of Visible Learning",
     "type": "fact",
     "path": "wiki/facts/russia/Russian Translation of Visible Learning.md",
@@ -41490,6 +41526,18 @@
     "aliases": [
       "Creation of REES 2018",
       "REES设立"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Dartmouth Roommate Peer Effect Experiment",
+    "type": "fact",
+    "path": "wiki/facts/us/Dartmouth Roommate Peer Effect Experiment.md",
+    "aliases": [
+      "达特茅斯室友同伴效应实验",
+      "达特茅斯大学随机寝室分配实验",
+      "Sacerdote达特茅斯寝室同伴研究",
+      "Dartmouth Roommate Experiment"
     ],
     "subtype": "event"
   },

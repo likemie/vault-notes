@@ -24854,6 +24854,8 @@
     "Weiler, 1996": "Weiler, 1996",
     "Weimer & Vining (2017)": "Weimer & Vining, 2017",
     "Weimer & Vining, 2017": "Weimer & Vining, 2017",
+    "Weinberg (1967)": "Weinberg, 1967",
+    "Weinberg, 1967": "Weinberg, 1967",
     "Weinberger et al. (2005)": "Weinberger et al., 2005",
     "Weinberger et al., 2005": "Weinberger et al., 2005",
     "Weiner (1994)": "Weiner, 1994",
@@ -47151,7 +47153,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Invisible College.md",
-        "wiki/concepts/science-policy/Reflection Problem.md"
+        "wiki/concepts/science-policy/Reflection Problem.md",
+        "wiki/facts/russia/Post-Soviet Emigration of Mathematicians.md"
       ],
       "title": ""
     },
@@ -66669,7 +66672,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Super Ties in Science.md"
       ],
       "title": ""
     },
@@ -95882,7 +95886,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Coauthorship Network.md"
       ],
       "title": ""
     },
@@ -161185,7 +161190,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Super Ties in Science.md"
       ],
       "title": ""
     },
@@ -205084,7 +205091,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
-        "wiki/concepts/science-policy/Scientific Productivity.md"
+        "wiki/concepts/science-policy/Scientific Productivity.md",
+        "wiki/facts/germany/Nazi Purge of University Scholars.md"
       ],
       "title": ""
     },
@@ -207362,6 +207370,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/Deborah Stone.md"
+      ],
+      "title": ""
+    },
+    "Weinberg, 1967": {
+      "aliases": [
+        "Weinberg, 1967",
+        "Weinberg (1967)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Weinberg, 1967"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Big Science.md"
       ],
       "title": ""
     },
@@ -211411,7 +211434,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
       ],
       "title": ""
     },
@@ -212015,6 +212039,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Big Science.md",
         "wiki/facts/us/Microsoft Academic Graph.md"
       ],
       "title": ""

@@ -12110,7 +12110,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Invisible College.md",
-        "wiki/concepts/science-policy/Reflection Problem.md"
+        "wiki/concepts/science-policy/Reflection Problem.md",
+        "wiki/facts/russia/Post-Soviet Emigration of Mathematicians.md"
       ],
       "title": ""
     },
@@ -23933,7 +23934,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Super Ties in Science.md"
       ],
       "title": ""
     },
@@ -41514,7 +41516,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Coauthorship Network.md"
       ],
       "title": ""
     },
@@ -81163,7 +81166,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/concepts/science-policy/Super Ties in Science.md"
       ],
       "title": ""
     },
@@ -107767,7 +107772,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
-        "wiki/concepts/science-policy/Scientific Productivity.md"
+        "wiki/concepts/science-policy/Scientific Productivity.md",
+        "wiki/facts/germany/Nazi Purge of University Scholars.md"
       ],
       "title": ""
     },
@@ -109171,6 +109177,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/Deborah Stone.md"
+      ],
+      "title": ""
+    },
+    "Weinberg, 1967": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Big Science.md"
       ],
       "title": ""
     },
@@ -111646,7 +111660,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
       ],
       "title": ""
     },
@@ -112002,6 +112017,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/concepts/science-policy/Big Science.md",
         "wiki/facts/us/Microsoft Academic Graph.md"
       ],
       "title": ""

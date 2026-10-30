@@ -302,5 +302,11 @@
       "sentence": "东南亚区域高教治理相关的学术文献与官方档案在可获取性上显著少于欧洲，客观上存在材料非对称性；SHARE 项目等当代区域间合作倡议在调研期间仍处于推进阶段，其对两地权力关系的长期重塑效应尚待后续追踪研究检验。",
       "target": "wiki/methods/quantitative/Cohort Study.md"
     }
+  ],
+  "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md": [
+    {
+      "sentence": "宏观团队组装机制如何驱动跨学科合著网络的拓扑演进？",
+      "target": "wiki/concepts/comparative-education/Assemblage.md"
+    }
   ]
 }
