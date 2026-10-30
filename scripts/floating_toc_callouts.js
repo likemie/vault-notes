@@ -65,7 +65,21 @@ function __ftocCache(app, file) {
 }
 function __ftocLabel(text) { return text.replace(/&lt;/g, '<').replace(/&gt;/g, '>'); }
 function __ftocNavigate(view, line) {
-  if (view.getMode() === 'preview') view.leaf.openFile(view.file, {eState: {line, focus: false}});
+  if (view.getMode() === 'preview') {
+    view.previewMode.applyScroll(line);
+    // Resolve rendered callouts as a second step: source-line scrolling can be
+    // approximate while Obsidian virtualizes long reading views.
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      const rows = __ftocCache(view.app, view.file).headings;
+      const target = rows.find(h => h.position.start.line === line);
+      if (!target?.__ftocCallout) return;
+      const sameType = rows.filter(h => h.__ftocCallout === target.__ftocCallout);
+      const index = sameType.indexOf(target);
+      const elements = [...view.contentEl.querySelectorAll('.markdown-preview-view .callout')]
+        .filter(el => el.dataset.callout === target.__ftocCallout && !el.parentElement.closest('.callout'));
+      elements[index]?.scrollIntoView({block: 'start'});
+    }));
+  }
   else {
     const pos = {line, ch: 0};
     view.editor.setCursor(pos);

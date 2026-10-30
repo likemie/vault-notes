@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Random Impact Rule",
       "path": "wiki/theories/science-policy/Random Impact Rule.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
     },
     {
       "basename": "Ordinary Least Squares",

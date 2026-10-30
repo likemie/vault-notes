@@ -1369,3 +1369,9 @@ Concept 模板中的通用标题“概念透镜”“关键表述”“概念辨
 `[!warning|limits] 适用局限` 使用低饱和琥珀色侧线、LIMITATIONS 眉标和独立正文区，保留段落与列表结构；悬停或聚焦时边框加深。仅显式标注 `limits` 的 warning 使用该样式，普通 warning 沿用原样。深色模式提高强调色亮度，减少动态效果和打印时关闭过渡。
 
 Concept 模板的命题部分不另写“围绕概念形成的命题”二级标题。Embed Outline 按各个 callout 建立平级目录，不用该标题作为后续卡片的父节点。
+
+### Floating TOC 的 callout 适配
+
+Floating TOC 2.7.1 已增加本地适配，将顶层 callout 与原生标题合并为漂浮目录，支持搜索和点击定位。没有原生章节标题时，callout 平级排列；保留章节标题时，其下的 callout 作为下一层目录。代码块、Obsidian 注释、嵌套卡片和分隔标签不进入目录。适配不修改正文或全局标题缓存；包含 callout 的目录关闭拖拽改写正文。
+
+适配源码为 `scripts/floating_toc_callouts.js` 与 `scripts/floating_toc_callouts.css`，安装脚本为 `scripts/patch_floating_toc.py`。插件更新可能覆盖本地适配；可重新运行安装脚本，再重新加载 Floating TOC。脚本会核对补丁位置与原版备份，遇到不兼容版本或其他本地改动时停止，不强行覆盖。原版备份保存在 `tmp/floating-toc-callouts/`。模板写作规则和注释继续保留。

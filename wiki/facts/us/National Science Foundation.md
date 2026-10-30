@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 91
+fact_related_count: 92
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -126,10 +126,11 @@ related_arguments:
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 
 ---
@@ -182,6 +183,7 @@ updated: 2026-10-26
 > - **可携带式早期学者奖学金（[[Portable Fellowship|Portable Fellowships]]）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
 > - **研究者的政策实践与资助优先事项** [[American Association for the Advancement of Science|AAAS]] 科学与技术政策研究员项目及 [[American Educational Research Association|AERA]] 对教育研究者的支持，为学者提供为期一年的政策实践机会。相关讨论提出，部分研究员此后可能进入 NSF 或 [[Institute of Education Sciences|IES]] 等联邦机构，参与研究资助优先事项的设定；这是政策实践经历可能延伸出的职业路径。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
+> - **跨学科团队资助与协调成本监测** 基金会对资助项目的全流程跟踪评估显示，高度跨学科与跨机构攻关团队在发表前阶段面临显著沟通磨合障碍与协调成本，流产与未发表风险偏高；资助成效评估需警惕文献引文多样性溢价背后的幸存者偏差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 118)]]
 
 ---
 
@@ -275,10 +277,12 @@ updated: 2026-10-26
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析 NSF 产学合作中心网络（IUCRC/ERC）、首创 SBIR 种子机制及直面[[Market Fundamentalism\|市场原教旨主义]]挑战的文献。 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心的部际共治架构、全链条研发流水线及与 NSF 基础科学探索的协同机制。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子研究战略四大支柱，系统阐明 NSF 在基础材料探索、FuSe [[Co-Design\|协同设计]]计划、NNCI 开放中试设施与 ATE 技术员培养中的核心职能。 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] | Argument | 追踪 NSF 资助项目揭示跨学科攻坚团队发表前协调摩擦与幸存者偏差的实证研究。 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托 NSF 资助项目的全流程追踪档案，揭示跨学科攻坚团队面临显著的发表前沟通壁垒与协调成本，成果流产或未能发表风险偏高，印证多样性引文溢价存在幸存者偏差。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 讨论政策研究员经历如何促进研究者理解政策过程，以及进入 NSF 等联邦机构参与资助决策的可能路径。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 以工作未来项目说明 STEM 与人文社科融合，并讨论产学参与对不同学科的双向价值。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统梳理 NSF 设立 [[Industry-University Cooperative Research Centers|I/UCRC]] 与 [[Engineering Research Centers|ERC]] 的制度突破，揭示其物理学家罗兰·蒂贝茨首创 [[SBIR and STTR Programs|SBIR]] 的历史源流，并反思[[Market Fundamentalism|市场原教旨主义]]对基金会公共资助正当性的极端否定。

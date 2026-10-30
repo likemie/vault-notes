@@ -29,11 +29,13 @@ replacements = {
         'a.addClass("heading-list-item"),n.__ftocCallout&&a.setAttribute("data-ftoc-callout",n.__ftocCallout),a.setAttribute("data-level"',
     'function ke(i,e,t,n,o){!i.settings.enableDragReorder':
         'function ke(i,e,t,n,o){if(i.headingdata?.some(h=>h.__ftocCallout))return;!i.settings.enableDragReorder',
+    'requestAnimationFrame(()=>{w.scrollIntoView({block:"nearest",behavior:"smooth"})})':
+        'requestAnimationFrame(()=>{if(!c.some(h=>h.__ftocCallout))w.scrollIntoView({block:"nearest",behavior:"smooth"})})',
     'p.setAttribute("aria-label",t)': 'p.setAttribute("aria-label",__ftocLabel(t))',
     'if(m.ctrlKey||m.metaKey)Ue(e,L);else':
         'if((m.ctrlKey||m.metaKey)&&!i.headingdata?.some(h=>h.__ftocCallout))Ue(e,L);else',
 }
-expected = [1, 2, 2, 1, 1, 1, 1, 1, 1]
+expected = [1, 2, 2, 1, 1, 1, 1, 1, 1, 1]
 for (old, new), count in zip(replacements.items(), expected):
     actual = source.count(old)
     if actual != count:
