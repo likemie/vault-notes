@@ -92,7 +92,7 @@ updated: 2026-10-30
 > - **政策路径** 直接影响美国科学基金会（NSF）与国立卫生研究院（NIH）针对青年学者早期独立资助的政策制定，推动跨学科团队资助倾斜。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]] 深入引用琼斯关于知识负担理论与年龄成就曲线的实证；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]] 深度引用其关于团队科学主导地位（RTI）与跨校合作网络扩张的奠基研究。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 深入引用琼斯关于知识负担理论与年龄成就曲线的实证，并深度引用其关于团队科学主导地位（RTI）与跨校合作网络扩张的奠基研究。
 
 ---
 

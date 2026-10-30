@@ -132,4 +132,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合跨世纪诺贝尔奖得主与发明家年龄右移（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]）及跨领域创新能力萎缩与团队协作兴起（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]]），系统阐释知识负担理论的解释力。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合跨世纪诺贝尔奖得主与发明家年龄右移，以及跨领域创新能力萎缩与团队协作兴起，系统阐释知识负担理论的解释力。

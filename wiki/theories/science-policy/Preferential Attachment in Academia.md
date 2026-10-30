@@ -143,4 +143,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]] 结合引文跨越模型阐明学术优先连接机制与学者声望马太效应的交接；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]] 结合数学与生物学网络大数据，阐述青年学者选择导师驱动的优先连接如何塑造无标度重尾合作网络与超级中枢。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合引文跨越模型阐明学术优先连接机制与学者声望马太效应的交接，并依托数学与生物学网络大数据，阐述青年学者选择导师驱动的优先连接如何塑造无标度重尾合作网络与超级中枢。

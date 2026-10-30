@@ -137,4 +137,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 依托物理学者全样本及跨艺术与电影大数据确立随机影响法则（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），并通过爆发期起点的全域随机性实现宏观随机律与微观成簇聚集的数理调和（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 依托物理学者全样本及跨艺术与电影大数据确立随机影响法则，并通过爆发期起点的全域随机性实现宏观随机律与微观成簇聚集的数理调和。

@@ -9,6 +9,10 @@ aliases:
 summary: "由 Alexander Oettl (2012) 提出的科学社会学概念；指在学术成果致谢部分频繁被同行公开致谢、以提供高价值概念实质反馈（如批评思路、概念澄清与假设把关）见长的学者。实证表明热心学者意外离世会导致其科研伙伴的产出质量显著下跌而数量保持不变，揭示出无形学院中非正式智识互助的隐性社会认知维度。"
 type: concept
 domain: "science-policy"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/science-of-science

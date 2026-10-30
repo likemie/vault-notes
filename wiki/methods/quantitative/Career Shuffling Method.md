@@ -201,4 +201,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用生涯置换零模型确立随机影响法则（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），并将其拓展至早晚期能力稳态检验与代表作成簇偏离识别（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用生涯置换零模型确立随机影响法则，并将其拓展至早晚期能力稳态检验与代表作成簇偏离识别。

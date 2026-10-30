@@ -220,4 +220,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐释 h 指数的定义、增长模型与预测效度（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]]），并通过诺奖预测 ROC 竞赛与同行实验揭示其单调累积性在捕捉质量稀释上的局限（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐释 h 指数的定义、增长模型与预测效度，并通过诺奖预测 ROC 竞赛与同行实验揭示其单调累积性在捕捉质量稀释上的局限。

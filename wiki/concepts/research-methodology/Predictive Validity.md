@@ -289,7 +289,7 @@ updated: 2026-10-30
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Meta-meta-analysis|二阶元分析]]，系统证实高阶潜能测验在作为[[Independent Variable|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable|变量]]角色的调节显著性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao|高考]]与选拔性评估中的测量学准则与效标约束条件。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，系统总结微观教学行为对学生未来学业增益的跨期预测效度（0.08–0.12 SD），确立课堂实然行为优于静态文凭资质的预测源效能。
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 追踪物理学者各 12 年生涯数据（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]]），并通过诺贝尔奖多指标受试者工作特征（ROC）竞争分析（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]），证实复合计量指标与稳态转化能力具备最高预测效度，而发文量预测效度垫底。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 追踪物理学者 12 年生涯数据并开展诺贝尔奖多指标受试者工作特征（ROC）竞争分析，证实复合计量指标与稳态转化能力具备最高预测效度，而发文量预测效度垫底。
 
 ---
 

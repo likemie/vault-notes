@@ -92,7 +92,7 @@ updated: 2026-10-30
 > - **学术评价与政策路径** 论证持续资助高产年长学者的合理性，为科技资助机构破除唯年轻化年龄门槛提供了计量学证据支持。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 详尽介绍西纳特拉团队在物理学家全样本中的图钉投影与生涯打乱实验（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），以及 Q 模型构建、能力稳定性检验与诺奖预测 ROC 竞赛（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 详尽介绍西纳特拉团队在物理学家全样本中的图钉投影与生涯打乱实验，以及 Q 模型构建、能力稳定性检验与诺奖预测 ROC 竞赛。
 
 ---
 

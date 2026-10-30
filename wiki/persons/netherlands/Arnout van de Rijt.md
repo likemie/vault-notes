@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-10-29
 > - **政策路径** 为学术奖励评选与初创期科研基金配置提供了关键实证参照，论证了早期资助倾斜所具有的强大因果撬动效能。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将范德赖特等 2014 年田野实验作为第一单元终结马太效应因果争议的关键性实证里程碑。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将范德赖特等 2014 年田野实验作为终结马太效应因果争议的关键性实证里程碑。
 
 ---
 

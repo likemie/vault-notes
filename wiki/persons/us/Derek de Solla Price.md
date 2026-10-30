@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-10-29
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将普赖斯 1963 年对科学指数膨胀的经典洞察作为第一单元讨论[[Scientific Productivity|学者生产力]]与队伍增长的经验出发点。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将普赖斯 1963 年对科学指数膨胀的经典洞察作为讨论[[Scientific Productivity|学者生产力]]与队伍增长的经验出发点。
 
 ---
 

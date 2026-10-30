@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+    },
+    {
+      "basename": "Death of Distance",
+      "path": "wiki/concepts/science-policy/Death of Distance.md"
+    },
+    {
+      "basename": "Yongle Encyclopedia",
+      "path": "wiki/facts/china/Yongle Encyclopedia.md"
+    },
+    {
+      "basename": "Relative Team Impact",
+      "path": "wiki/methods/quantitative/Relative Team Impact.md"
+    },
+    {
+      "basename": "Small-World Collaboration Model",
+      "path": "wiki/theories/science-policy/Small-World Collaboration Model.md"
+    },
+    {
+      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
+      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
+    },
+    {
+      "basename": "John B. Fenn",
+      "path": "wiki/persons/us/John B. Fenn.md"
+    },
+    {
       "basename": "Random Impact Rule",
       "path": "wiki/theories/science-policy/Random Impact Rule.md"
     },
@@ -9,16 +37,8 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
-    },
-    {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
     },
     {
       "basename": "Ordinary Least Squares",
@@ -179,26 +199,6 @@
     {
       "basename": "template-person",
       "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "TEMPLATE-SPEC",
-      "path": "wiki/templates/TEMPLATE-SPEC.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
-    },
-    {
-      "basename": "template-fact-program",
-      "path": "wiki/templates/template-fact-program.md"
-    },
-    {
-      "basename": "template-fact-organization",
-      "path": "wiki/templates/template-fact-organization.md"
-    },
-    {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
     }
   ],
   "omittedPaths": [],

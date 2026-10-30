@@ -86,7 +86,7 @@ updated: 2026-10-30
 > - **科学学与生涯理论路径** 成为随机影响法则、[[Constant-Probability-of-Success Model|成功恒定概率模型]]与[[Hot-Streak Model|爆发期模型]]的标志性案例，证实爆发期可以在生涯任何阶段降临，[[Scientific Productivity|科研生产力]]是维系创新概率的关键[[Variable|变量]]；为批判现行科研资助体系依据生理年龄设置刚性资助门槛提供了关键经验反例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 78–80)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记述芬恩七旬做出诺奖成果的传奇生平，反驳创造力随年龄衰退的迷思（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），印证爆发期随时可能降临并批评资助年龄红线（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记述芬恩七旬做出诺奖成果的传奇生平，反驳创造力随年龄衰退的迷思，印证爆发期随时可能降临并批评科技资助的刚性年龄红线。
 
 ---
 

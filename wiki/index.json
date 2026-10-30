@@ -16172,6 +16172,18 @@
     ]
   },
   {
+    "title": "Helpful Scientists",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Helpful Scientists.md",
+    "aliases": [
+      "热心科学家",
+      "热心学者",
+      "致谢中的热心学者",
+      "互助型科学家",
+      "Helpful Scientist"
+    ]
+  },
+  {
     "title": "Heterogeneous Integration",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Heterogeneous Integration.md",
@@ -24093,6 +24105,20 @@
       "chi-squared test of independence",
       "卡方独立性检验",
       "卡方拟合优度检验"
+    ]
+  },
+  {
+    "title": "Clique Percolation Method",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Clique Percolation Method.md",
+    "aliases": [
+      "团渗流算法",
+      "派系渗流算法",
+      "团渗流法",
+      "重叠社区发现算法",
+      "CPM 算法",
+      "Clique Percolation",
+      "CPM"
     ]
   },
   {

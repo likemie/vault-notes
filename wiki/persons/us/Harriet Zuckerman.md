@@ -98,7 +98,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]] 深入援引其诺奖得主访谈实证，确证知名学者享有疑罪从无特权；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]] 援引其关于科学精英对团队合作具有内生偏好以获取竞争优势的实证发现。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 深入援引其诺奖得主访谈实证，确证知名学者享有同行评审疑罪从无特权，并援引其关于科学精英对团队合作具有内生偏好以获取竞争优势的实证发现。
 
 ---
 
