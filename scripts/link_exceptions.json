@@ -337,6 +337,10 @@
     {
       "sentence": "前沿热门交叉领域，兼具医学与工程双重引用输入 (p.",
       "target": "wiki/concepts/comparative-education/Comparative Education as a Cross-Sectional Area.md"
+    },
+    {
+      "sentence": "*Dividing a paper's citations by the average number of citations for papers in the same field in the same year gives us a better measure of relative impact.",
+      "target": "wiki/concepts/sociology-of-education/Champ.md"
     }
   ]
 }

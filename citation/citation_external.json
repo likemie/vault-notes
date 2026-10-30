@@ -2866,6 +2866,8 @@
     "Boudon, 1974": "Boudon, 1974",
     "Boudon, 1982": "Boudon, 1982",
     "Boudon, 2001": "Boudon, 2001",
+    "Boudreau et al. (2016)": "Boudreau et al., 2016",
+    "Boudreau et al., 2016": "Boudreau et al., 2016",
     "Bougma et al. (2013)": "Bougma et al., 2013",
     "Bougma et al., 2013": "Bougma et al., 2013",
     "Boulanger (1981)": "Boulanger, 1981",
@@ -3181,6 +3183,8 @@
     "Brock-Utne, 1996": "Brock-Utne, 1996",
     "Broer (2002)": "Broer, 2002",
     "Broer, 2002": "Broer, 2002",
+    "Bromham et al. (2016)": "Bromham et al., 2016",
+    "Bromham et al., 2016": "Bromham et al., 2016",
     "Bromley & Meyer (2015)": "Bromley & Meyer, 2015",
     "Bromley & Meyer, 2015": "Bromley & Meyer, 2015",
     "Bromley et al. (2021)": "Bromley et al., 2021",
@@ -4071,6 +4075,8 @@
     "Castronova, 2005": "Castronova, 2005",
     "Cat (1995)": "Cat, 1995",
     "Cat, 1995": "Cat, 1995",
+    "Catalini et al. (2015)": "Catalini et al., 2015",
+    "Catalini et al., 2015": "Catalini et al., 2015",
     "Cathy Amanti (1992)": "Cathy Amanti, 1992",
     "Cathy Amanti, 1992": "Cathy Amanti, 1992",
     "Cattan (2014)": "Cattan, 2014",
@@ -7741,7 +7747,9 @@
     "Fleming & Malone, 1983": "Fleming & Malone, 1983",
     "Fleming & Waguespack (2007)": "Fleming & Waguespack, 2007",
     "Fleming & Waguespack, 2007": "Fleming & Waguespack, 2007",
+    "Fleming (2001)": "Fleming, 2001",
     "Fleming (2004)": "Fleming, 2004",
+    "Fleming, 2001": "Fleming, 2001",
     "Fleming, 2004": "Fleming, 2004",
     "Fletcher (1989)": "Fletcher, 1989",
     "Fletcher, 1989": "Fletcher, 1989",
@@ -17158,6 +17166,7 @@
     "Newman (2004a)": "Newman, 2004a",
     "Newman (2004b)": "Newman, 2004b",
     "Newman (2005)": "Newman, 2005",
+    "Newman (2009)": "Newman, 2009",
     "Newman (2025)": "Newman, 2025",
     "Newman et al. (2010)": "Newman et al., 2010",
     "Newman et al. (2025)": "Newman et al., 2025",
@@ -17170,6 +17179,7 @@
     "Newman, 2004a": "Newman, 2004b",
     "Newman, 2004b": "Newman, 2004b",
     "Newman, 2005": "Newman, 2005",
+    "Newman, 2009": "Newman, 2009",
     "Newman, 2025": "Newman, 2025",
     "Newton (1994)": "Newton, 1994",
     "Newton, 1994": "Newton, 1994",
@@ -18590,8 +18600,10 @@
     "Phillips (2016)": "Phillips, 2016",
     "Phillips (2019)": "Phillips, 2019",
     "Phillips (2021)": "Phillips, 2021",
+    "Phillips et al. (1991)": "Phillips et al., 1991",
     "Phillips et al. (2001)": "Phillips et al., 2001",
     "Phillips et al. (2016)": "Phillips et al., 2016",
+    "Phillips et al., 1991": "Phillips et al., 1991",
     "Phillips et al., 2001": "Phillips et al., 2001",
     "Phillips et al., 2016": "Phillips et al., 2016",
     "Phillips, 1983": "Phillips, 1983",
@@ -18957,9 +18969,13 @@
     "Price (1961)": "Price, 1961",
     "Price (1963)": "Price, 1963",
     "Price (1965)": "Price, 1965",
+    "Price (1976)": "Price, 1976",
+    "Price Model (1976)": "Price Model, 1976",
+    "Price Model, 1976": "Price Model, 1976",
     "Price, 1961": "Price, 1961",
     "Price, 1963": "Price, 1963",
     "Price, 1965": "Price, 1965",
+    "Price, 1976": "Price, 1976",
     "Price-Mohr (2015)": "Price-Mohr, 2015",
     "Price-Mohr, 2015": "Price-Mohr, 2015",
     "Pridemore (1995)": "Pridemore, 1995",
@@ -19190,10 +19206,12 @@
     "Radford, 2008": "Radford, 2008",
     "Radhika Gorur (2016)": "Radhika Gorur, 2016",
     "Radhika Gorur, 2016": "Radhika Gorur, 2016",
+    "Radicchi (2012)": "Radicchi, 2012",
     "Radicchi et al. (2008)": "Radicchi et al., 2008",
     "Radicchi et al. (2017)": "Radicchi et al., 2017",
     "Radicchi et al., 2008": "Radicchi et al., 2008",
     "Radicchi et al., 2017": "Radicchi et al., 2017",
+    "Radicchi, 2012": "Radicchi, 2012",
     "Radkau (2005)": "Radkau, 2005",
     "Radkau, 2005": "Radkau, 2005",
     "Radwan (1997)": "Radwan, 1997",
@@ -44347,6 +44365,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
@@ -48021,6 +48040,21 @@
       ],
       "title": ""
     },
+    "Boudreau et al., 2016": {
+      "aliases": [
+        "Boudreau et al., 2016",
+        "Boudreau et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Boudreau et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+      ],
+      "title": ""
+    },
     "Bougma et al., 2013": {
       "aliases": [
         "Bougma et al., 2013",
@@ -50353,6 +50387,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of instructing the structural aspect of texts"
+    },
+    "Bromham et al., 2016": {
+      "aliases": [
+        "Bromham et al., 2016",
+        "Bromham et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bromham et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+      ],
+      "title": ""
     },
     "Bromley & Meyer, 2015": {
       "aliases": [
@@ -56967,6 +57016,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/austria/Otto Neurath.md"
+      ],
+      "title": ""
+    },
+    "Catalini et al., 2015": {
+      "aliases": [
+        "Catalini et al., 2015",
+        "Catalini et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Catalini et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
       ],
       "title": ""
     },
@@ -83595,6 +83659,21 @@
         "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md",
         "wiki/concepts/sociology-of-education/Structural Holes.md",
         "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
+      ],
+      "title": ""
+    },
+    "Fleming, 2001": {
+      "aliases": [
+        "Fleming, 2001",
+        "Fleming (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fleming, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
       ],
       "title": ""
     },
@@ -151839,6 +151918,21 @@
       ],
       "title": ""
     },
+    "Newman, 2009": {
+      "aliases": [
+        "Newman, 2009",
+        "Newman (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Newman, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+      ],
+      "title": ""
+    },
     "Newman, 2025": {
       "aliases": [
         "Newman, 2025",
@@ -162192,6 +162286,21 @@
       ],
       "title": "Researching Policy Borrowing: Some Methodological Challenges in Comparative Education"
     },
+    "Phillips et al., 1991": {
+      "aliases": [
+        "Phillips et al., 1991",
+        "Phillips et al. (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Phillips et al., 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+      ],
+      "title": ""
+    },
     "Phillips et al., 2001": {
       "aliases": [
         "Phillips et al., 2001",
@@ -164980,6 +165089,21 @@
       "seen_in": [],
       "title": "Effectiveness of a social-emotional learning program  A mixed-method study of The Leader in Me"
     },
+    "Price Model, 1976": {
+      "aliases": [
+        "Price Model, 1976",
+        "Price Model (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Price Model, 1976"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+      ],
+      "title": ""
+    },
     "Price, 1961": {
       "aliases": [
         "Price, 1961",
@@ -165028,6 +165152,21 @@
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md",
         "wiki/theories/science-policy/Universality of Citation Distributions.md"
+      ],
+      "title": ""
+    },
+    "Price, 1976": {
+      "aliases": [
+        "Price, 1976",
+        "Price (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Price, 1976"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
       ],
       "title": ""
     },
@@ -166716,6 +166855,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/research-methodology/Heterogeneity.md",
+        "wiki/concepts/research-methodology/Variable.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/methods/quantitative/h-Index.md",
@@ -166736,6 +166876,21 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Disparity.md"
+      ],
+      "title": ""
+    },
+    "Radicchi, 2012": {
+      "aliases": [
+        "Radicchi, 2012",
+        "Radicchi (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Radicchi, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
       ],
       "title": ""
     },
@@ -202519,7 +202674,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
       ],
       "title": ""
     },
