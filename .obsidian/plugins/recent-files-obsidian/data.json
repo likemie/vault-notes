@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
+      "basename": "Random Impact Rule",
+      "path": "wiki/theories/science-policy/Random Impact Rule.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
     },
     {
       "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
@@ -15,10 +23,6 @@
     {
       "basename": "Ordinary Least Squares",
       "path": "wiki/methods/quantitative/Ordinary Least Squares.md"
-    },
-    {
-      "basename": "Random Impact Rule",
-      "path": "wiki/theories/science-policy/Random Impact Rule.md"
     },
     {
       "basename": "Hot-Streak Model",
@@ -195,10 +199,6 @@
     {
       "basename": "template-fact-event",
       "path": "wiki/templates/template-fact-event.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
     }
   ],
   "omittedPaths": [],
