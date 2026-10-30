@@ -1451,6 +1451,8 @@
     "Bak & Im (2010)": "Bak & Im, 2010",
     "Bak & Im, 2010": "Bak & Im, 2010",
     "Bak (1996)": "Bak, 1996",
+    "Bak et al. (1987)": "Bak et al., 1987",
+    "Bak et al., 1987": "Bak et al., 1987",
     "Bak, 1996": "Bak, 1996",
     "Baker & Dunbar (1991)": "Baker & Dunbar, 1991",
     "Baker & Dunbar, 1991": "Baker & Dunbar, 1991",
@@ -5660,7 +5662,9 @@
     "Davis (2009)": "Davis, 2009",
     "Davis (2010)": "Davis, 2010",
     "Davis (2012)": "Davis, 2012",
+    "Davis et al. (1995)": "Davis et al., 1995",
     "Davis et al. (2012)": "Davis et al., 2012",
+    "Davis et al., 1995": "Davis et al., 1995",
     "Davis et al., 2012": "Davis et al., 2012",
     "Davis, 2000": "Davis, 2000",
     "Davis, 2004": "Davis, 2004",
@@ -18536,6 +18540,7 @@
     "Phillips (2004)": "Phillips, 2004",
     "Phillips (2006)": "Phillips, 2006",
     "Phillips (2007)": "Phillips, 2007",
+    "Phillips (2011)": "Phillips, 2011",
     "Phillips (2012)": "Phillips, 2012",
     "Phillips (2014)": "Phillips, 2014",
     "Phillips (2016)": "Phillips, 2016",
@@ -18553,6 +18558,7 @@
     "Phillips, 2004": "Phillips, 2004",
     "Phillips, 2006": "Phillips, 2006",
     "Phillips, 2007": "Phillips, 2007",
+    "Phillips, 2011": "Phillips, 2011",
     "Phillips, 2012": "Phillips, 2012",
     "Phillips, 2014": "Phillips, 2014",
     "Phillips, 2016": "Phillips, 2016",
@@ -25147,6 +25153,8 @@
     "William J. J. Gordon, 1961": "William J. J. Gordon, 1961",
     "William L. Hays (1963)": "William L. Hays, 1963",
     "William L. Hays, 1963": "William L. Hays, 1963",
+    "William M. Muir (1996)": "William M. Muir, 1996",
+    "William M. Muir, 1996": "William M. Muir, 1996",
     "William Mehrens & Elizabeth Kaminski (1989)": "William Mehrens & Elizabeth Kaminski, 1989",
     "William Mehrens & Elizabeth Kaminski, 1989": "William Mehrens & Elizabeth Kaminski, 1989",
     "William S. Robinson (1950)": "William S. Robinson, 1950",
@@ -37527,6 +37535,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of test anxiety with related variables"
+    },
+    "Bak et al., 1987": {
+      "aliases": [
+        "Bak et al., 1987",
+        "Bak et al. (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bak et al., 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+      ],
+      "title": ""
     },
     "Bak, 1996": {
       "aliases": [
@@ -68278,6 +68301,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+      ],
+      "title": ""
+    },
+    "Davis et al., 1995": {
+      "aliases": [
+        "Davis et al., 1995",
+        "Davis et al. (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Davis et al., 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
       ],
       "title": ""
     },
@@ -161875,6 +161913,21 @@
       "seen_in": [],
       "title": "Potential risks to reading posed by high-dose phonics"
     },
+    "Phillips, 2011": {
+      "aliases": [
+        "Phillips, 2011",
+        "Phillips (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Phillips, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
+      ],
+      "title": ""
+    },
     "Phillips, 2012": {
       "aliases": [
         "Phillips, 2012",
@@ -209469,6 +209522,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Omega-Squared.md"
+      ],
+      "title": ""
+    },
+    "William M. Muir, 1996": {
+      "aliases": [
+        "William M. Muir, 1996",
+        "William M. Muir (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "William M. Muir, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
       ],
       "title": ""
     },

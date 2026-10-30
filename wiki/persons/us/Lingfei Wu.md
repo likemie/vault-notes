@@ -8,11 +8,12 @@ summary: "计算社会学家与科学学学者，匹兹堡大学计算机与信�
 type: person
 nationality: us
 person_region: "us"
-born: "c. 1984"
 person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "c. 1984"
+lifespan: "c. 1984–至今"
 tags:
   - person/scholar
   - theme/science-of-science

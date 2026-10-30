@@ -10,11 +10,12 @@ summary: "信息科学家与科学计量学家，印第安纳大学布鲁明顿�
 type: person
 nationality: us
 person_region: "us"
-born: "c. 1977"
 person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "c. 1977"
+lifespan: "c. 1977–至今"
 tags:
   - person/scholar
   - theme/scientometrics

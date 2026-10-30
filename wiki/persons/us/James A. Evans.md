@@ -8,11 +8,12 @@ summary: "美国著名社会学家与计算社会科学先驱，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-born: "1971"
 person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "1971"
+lifespan: "1971–至今"
 tags:
   - person/scholar
   - theme/sociology-of-science

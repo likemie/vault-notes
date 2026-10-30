@@ -10,11 +10,12 @@ summary: "西班牙统计物理学家与复杂网络科学家，加泰罗尼亚�
 type: person
 nationality: spain
 person_region: "spain"
-born: "1976"
 person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
+born: "1976"
+lifespan: "1976–至今"
 tags:
   - person/scholar
   - theme/complex-systems
@@ -60,7 +61,7 @@ updated: 2026-10-30
 > [!timeline] 学术轨迹
 > - **2003** 获得巴塞罗那大学物理学博士学位。
 > - **2003–2008** 于美国西北大学从事博士后研究，与 Luís A. N. Amaral 和 Brian Uzzi 开展跨学科合作。
-> - **2005** 在《科学》（*Science*）发表关于团队组装微观机制与合作网络结构的奠基性论文。
+> - **2005** 在《科学》（*Science*）发表关于团队组装微观机制与合作网络结构的奠基性论著。
 > - **2008–至今** 担任加泰罗尼亚高等研究院（ICREA）研究教授，主持复杂系统与网络科学实验室。
 
 ---
