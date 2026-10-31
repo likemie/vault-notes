@@ -2,17 +2,15 @@
 title: Albert-László Barabási
 aliases:
   - 艾伯特-拉斯洛·巴拉巴西
-  - 艾伯特－拉斯洛·巴拉巴西
   - 巴拉巴西
   - A.-L. Barabási
   - Barabási, A.-L.
   - Albert-Laszlo Barabasi
-  - Barabási
 summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国东北大学复杂网络研究中心主任、哈佛大学医学院医学系教授；无标度网络与优先连接机制（BA 模型）提出者，网络科学与当代科学学（Science of Science）的奠基领军学者，建立了学术生涯 Q 模型与随机影响法则，与王大顺合著《科学学》专著。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,19 +28,21 @@ related_concepts:
   - "[[Joint Faculty Appointments]]"
   - "[[Paradigm]]"
   - "[[Emergence]]"
-  - "[[Coauthorship Network]]"
   - "[[Document]]"
+  - "[[Coauthorship Network]]"
   - "[[Predictive Validity]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Q-Model]]"
-  - "[[Burstiness in Human Activities]]"
-  - "[[Preferential Attachment in Academia]]"
   - "[[Bianconi-Barabási Model]]"
+  - "[[Burstiness in Human Activities]]"
+  - "[[Universality of Citation Distributions]]"
+  - "[[Preferential Attachment in Academia]]"
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Q-Factor]]"
   - "[[Collective Credit Allocation Algorithm]]"
+  - "[[Q-Factor]]"
+  - "[[Relative Citation Normalization]]"
   - "[[Bibliometric Analysis]]"
   - "[[Shockley's Multiplicative Hurdle Model]]"
   - "[[h-Index]]"
@@ -100,13 +100,13 @@ updated: 2026-10-31
 > - **1999–2005 — 复杂网络拓扑与优先连接期** 突破传统随机图论[[Paradigm|范式]]，揭示真实世界网络普遍具备幂律度分布。
 >   - **代表著作** *[[Emergence]] of scaling in random networks* (1999); *Competition and multiscaling in evolving networks* (2001, with Ginestra Bianconi); *Linked: The New Science of Networks* (2002)。
 >   - **关键概念／方法** 优先连接机制、[[Bianconi-Barabási Model|适应度模型]]、无标度网络拓扑、幂律度分布。
->   - **阶段转向** 从平衡态统计物理模型转向以演化规则驱动的动态网络形成机理，将成果内在适应度引入优先连接，解释后发成果超越早期文献的动态。
+>   - **阶段转向** 从平衡态统计物理模型转向以演化规则驱动的动态网络形成机理，将成果内在适应度引入优先连接，解释后发成果超越早期[[Document|文献]]的动态。
 > - **2005–2015 — 人类行为动力学与网络医学期** 探索复杂网络在时间非泊松特征与生物分子系统中的微观应用。
 >   - **代表著作** *The origin of bursts and heavy tails in human dynamics* (2005); *Network Medicine* (2011)。
 >   - **关键概念／方法** 爆发性（[[Burstiness in Human Activities|Burstiness]]）、人类动力学非均匀性、亚细胞互作网络。
 >   - **阶段转向** 从宏观网络拓扑静态测度深入到微观事件发生的时间序列非线性模式。
 > - **2016–至今 — 现代科学学与成功动力学期** 系统聚焦科学界的学者职业生涯、创新网络与学术资源配置规律。
->   - **代表著作** *Collective credit allocation in science* (2014); *Quantifying the evolution of individual scientific impact* (2016); *The Formula* (2018); *The Science of Science* (2021)。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
+>   - **代表著作** *[[Collective Credit Allocation Algorithm|Collective credit allocation]] in science* (2014); *Quantifying the evolution of individual scientific impact* (2016); *The Formula* (2018); *The Science of Science* (2021)。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
 >   - **关键概念／方法** [[Q-Factor|Q 因子]]模型、随机影响法则、[[Collective Credit Allocation Algorithm|集体贡献分配算法]]、[[Relative Citation Normalization|相对引文标准化]]、科学学。
 >   - **阶段转向** 融合海量引文大数据与因果计量分析，建立贯通个体生产力、[[Coauthorship Network|合著网络]]演化与社会声望承认的完整科学学理论大厦。
 
@@ -128,7 +128,7 @@ updated: 2026-10-31
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队合作（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）、引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）与适应度模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队合作（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）、[[Universality of Citation Distributions|引文分布普适性]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）与适应度模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）。
 
 ---
 

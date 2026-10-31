@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Metascience]]"
+  - "[[Hyperauthorship]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
   - "[[Reliability]]"
@@ -54,13 +55,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
 > [!claim] 项目定位
-> 激光干涉引力波天文台（Laser Interferometer Gravitational-Wave Observatory, LIGO）是 20 世纪末由[[National Science Foundation|美国国家科学基金会]]（NSF）全额出资、加州理工学院与麻省理工学院联合设计运维的旗舰级物理观测[[Big Science|大科学工程]]；该工程旨在通过建造地面超长基线激光干涉台站网络，实现对宇宙深空引力波信号的直接物理探测。在科学学（[[Metascience|Science of Science]]）与科研组织视阈中，LIGO 不仅是现代物理学从个体单兵作战向千人超署名（Hyperauthorship）工程模式演化的划时代里程碑，更与爱因斯坦 1916 年单人提出广义相对论理论框架形成鲜明映照，成为揭示大团队工程攻坚与小团队颠覆探索在科学[[Innovation Ecosystem|创新生态]]中互补共生法则的经典范本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–84, 86–87)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 130–132)]]
+> 激光干涉引力波天文台（Laser Interferometer Gravitational-Wave Observatory, LIGO）是 20 世纪末由[[National Science Foundation|美国国家科学基金会]]（NSF）全额出资、加州理工学院与麻省理工学院联合设计运维的旗舰级物理观测[[Big Science|大科学工程]]；该工程旨在通过建造地面超长基线激光干涉台站网络，实现对宇宙深空引力波信号的直接物理探测。在科学学（[[Metascience|Science of Science]]）与科研组织视阈中，LIGO 不仅是现代物理学从个体单兵作战向千人[[Hyperauthorship|超署名]]（Hyperauthorship）工程模式演化的划时代里程碑，更与爱因斯坦 1916 年单人提出广义相对论理论框架形成鲜明映照，成为揭示大团队工程攻坚与小团队颠覆探索在科学[[Innovation Ecosystem|创新生态]]中互补共生法则的经典范本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–84, 86–87)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 130–132)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1984 年正式获 NSF 批准立项筹备，1992 年选址开工，2002 年完成首期观测网络建设，2010 至 2015 年实施 Advanced LIGO 全面升级，目前作为常态化国际引力波观测网络持续运行。

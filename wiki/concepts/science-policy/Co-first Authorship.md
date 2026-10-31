@@ -12,7 +12,7 @@ aliases:
 summary: "学术成果署名列表中由两位或多位学者并列享有首位署名同等贡献地位的制度实践；兴起于跨学科合作与高复杂度科研团队，以解决实验与智力分工的对等承认难题；但受制于引文索引与文本格式中“et al.”惯例的折叠遮蔽，在文献传播与声誉分配中面临结构性承认赤字。"
 type: concept
 domain: "science-policy"
-related_count: 2
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,18 +21,25 @@ tags:
   - theme/scientometrics
   - theme/scientific-credit
 related_concepts:
+  - "[[Document]]"
   - "[[Alphabetical Authorship]]"
+  - "[[Grand Challenges]]"
+  - "[[Team Science]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -43,7 +50,7 @@ updated: 2026-10-30
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向团队科研中首席贡献主体的多元化与平权化署名建制。
 > - **用途** 帮助研究者透视跨学科深度合作下单一首位署名假定的破裂，以及学术引文索引系统对并列贡献信息的格式化过滤。
-> - **边界** 仅适用于同一篇成果内部显式声明的首席同等贡献，不能等同于字母序全员均权制，亦不能消除后续文献传播中的单主名引用偏误。
+> - **边界** 仅适用于同一篇成果内部显式声明的首席同等贡献，不能等同于字母序全员均权制，亦不能消除后续[[Document|文献]]传播中的单主名引用偏误。
 
 > [!citation-card|notitle] 共同第一署名的普及与信誉折损困境
 > 过去三十年间，声明共同第一署名的论著比例急剧上升，在生物医学与临床医学期刊中尤为突出。许多期刊在 1990 年尚无此类成果，而到了 2012 年，共同第一署名论著已占其全部刊发研究的 30% 以上；在顶尖综合期刊中这一比例更为显著，2012 年《细胞》达到 36.9%，《自然》达到 32.9%，《科学》达到 24.9%。然而，尽管在初次刊印论著中通过星号显式标明了同等贡献，当文献进入引文目录时，读者无法直接识别其并列地位。更严峻的是，长署名引文通常采用首位学者姓氏加“等”（et al.）的简写体式，使排名其后的共同第一署名学者在传播网络中完全隐形。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 140–141)]]
@@ -67,7 +74,7 @@ updated: 2026-10-30
 ---
 
 > [!feature] 核心要素
-> - **互补专长分工** 实验科学日益复杂，攻克重大挑战需要多位兼具不同技术栈的首席学者协同攻关，单一研究者无法独立统领全流程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
+> - **互补专长分工** 实验科学日益复杂，攻克[[Grand Challenges|重大挑战]]需要多位兼具不同技术栈的首席学者协同攻关，单一研究者无法独立统领全流程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
 > - **刊印符号声明** 通过排印层面的星号、上标或显式脚注，向学术共同体传递“贡献对等”的正式元数据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
 > - **引文索引折叠** 文后参考文献与引文网络采纳“首位学者 + et al.”格式，机械过滤掉并列声明，导致排在第二位的共同第一学者遭遇引用可见度损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 141)]]
 > - **建制改革干预** 部分先锋期刊推行强制粗体标示或规范化元数据标准，试图纠正引文传播中的结构性折损。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 141)]]
@@ -87,7 +94,7 @@ updated: 2026-10-30
 ---
 
 > [!concept-proposition] 命题一｜科研问题复杂度升级与互补分工驱动了共同第一署名的爆发性增长
-> **探讨维度　科研组织模式转型** 探讨当代团队科学从单兵作战转向复合专业协作的结构性变迁，阐述智力密集与技术门类扩张如何重构首席署名规范。
+> **探讨维度　科研组织模式转型** 探讨当代[[Team Science|团队科学]]从单兵作战转向复合专业协作的结构性变迁，阐述智力密集与技术门类扩张如何重构首席署名规范。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
 > **多核心主导协同机制** 高竞争性顶刊成果的产出依赖于多位带头学者的集中投入；随着科学问题跨越传统学科界限，重大突破往往需要多位拥有互补专门知识的学者并肩统领。单一学者已无法独立掌握推进研究所需的全部理论与技术工具，导致传统单一首席署名模式无法合理映射多核驱动的实际劳动分布，从而促成共同第一署名在生命科学顶刊中演进为主流建制实践。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
@@ -112,7 +119,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 概念演变
 > - **1990 — 制度萌芽阶段** 欧美生物医学学术期刊中几乎不存在并列首席署名手稿，学术界遵循单一首位署名传统。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
-> - **1990–2012 — 规模化普及阶段** 伴随团队规模与交叉学科爆发，临床与生物医学期刊共同第一署名占比突破 30%，在《细胞》、《自然》与《科学》等顶刊达到 25%–37%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
+> - **1990–2012 — 规模化普及阶段** 伴随团队规模与[[Comparative Education as a Cross-Sectional Area|交叉学科]]爆发，临床与生物医学期刊共同第一署名占比突破 30%，在《细胞》、《自然》与《科学》等顶刊达到 25%–37%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 140)]]
 > - **2010s — 引文格式改革倡议** 《胃肠病学》（*Gastroenterology*）与《细胞分子生物学》（*Molecular Biology of the Cell*）等期刊率先推行引文粗体标示规则，力求在被引目录中给予并列首位署名人对等能见度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 141)]]
 
 ---
@@ -128,10 +135,10 @@ updated: 2026-10-30
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|Wang and Barabási (2021)]] | 1990 与 2012 年生物医学与临床学术期刊成果库 | 纵向文献计量追踪（Conte et al., 2013） | 共同第一署名论著占比 | 1990 年近乎 0%，2012 年超过 30% | — | 显示生物医学领域共同第一署名由罕见现象转变为常态制度规范。 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit06\|Wang and Barabási (2021)]] | 2012 年国际顶尖综合与生命科学学术期刊 | 横截面期刊计量统计（Conte et al., 2013） | 顶刊共同第一署名发生率 | 《细胞》36.9%，《自然》32.9%，《科学》24.9% | — | 印证顶尖成果对跨学科团队多核心主导模式的高度依赖。 |

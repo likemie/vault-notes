@@ -9,41 +9,54 @@ aliases:
 summary: "在组织沟通与群体动力学中，指团队互动会话中成员发言频次与时间分布的均等程度（以会话轮换的方差测度）。实证研究表明，发言均等度高的团队能有效抑制单兵权威垄断，促进多元观点充分汇聚，是预测团队集体智慧卓越表现的关键行为互动指标。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 1
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/learning-science-cognitive-science
   - theme/group-dynamics
   - theme/team-science
   - theme/collective-intelligence
-related_concepts: []
+related_concepts:
+  - "[[Discourse]]"
+  - "[[Collective Intelligence]]"
+  - "[[Social Sensitivity]]"
+  - "[[Document]]"
+  - "[[Brainstorming]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Conversation Analysis]]"
+  - "[[Analytic Framework]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Anita Williams Woolley]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
 > [!def] Turn-Taking Equality
-> 在群体动力学与会话分析中，指团队协同互动过程中成员在对话发言机会、时长与轮流频次上分布的均等程度（统计上通常以成员发言次数或发言时长的方差进行反向测度）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> 在群体动力学与[[Conversation Analysis|会话分析]]中，指团队协同互动过程中成员在对话发言机会、时长与轮流频次上分布的均等程度（统计上通常以成员发言次数或发言时长的方差进行反向测度）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向群体对话交际网络中话语权的离散程度与轮替平等性。
+> - **含义** 指向群体对话交际网络中[[Discourse|话语]]权的离散程度与轮替平等性。
 > - **用途** 用于评估团队内部协作是否陷入权威垄断或单边独白，指导会议议事规程与团队互动优化。
 > - **边界** 聚焦会话参与的机会均等与多向流动，不追求机械绝对均分的时间切片，亦不否定必要的阶段性主持与总结。
 
 > [!citation-card|notitle] 发言轮流均等与群体表现
-> 团队集体智慧高度关联于成员的平均社会敏感度、对话发言轮流的均等程度，以及群体中女性成员的比例。更少出现单向垄断对话的团队，在各类任务中展现出更为优越的群体表现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> 团队[[Collective Intelligence|集体智慧]]高度关联于成员的平均[[Social Sensitivity|社会敏感度]]、对话发言轮流的均等程度，以及群体中女性成员的比例。更少出现单向垄断对话的团队，在各类任务中展现出更为优越的群体表现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 >
 > *Instead, it’s correlated with the average social sensitivity of group members, equality in the distribution of conversational turn-taking, and the proportion of females in the group. Teams with more socially sensitive people, fewer one-sided conversationalists, and more women have been shown to predictably exhibit superior group performance in a variety of tasks.*
 
@@ -77,7 +90,7 @@ updated: 2026-10-30
 > [!concept-proposition] 命题一｜会话轮换发言的均等程度显著正向预测团队集体智慧
 > **探讨维度　沟通拓扑对群体解决问题能力的调节机制** 该命题探讨话语权分配对群体认知的决定作用。实证研究证实，成员均等参与对话的团队能够最大限度整合分散信息，产出卓越的协同效能。
 
-> [!claim] Woolley, A. W.
+> [!claim] [[Anita Williams Woolley|Woolley, A. W.]]
 > **发言轮流方差与集体智慧呈显著负相关** 通过对小团队会话交流全过程的细粒度记录与分析，学者发现发言轮换的方差越大（即少数人垄断发言），团队在跨领域任务中的集体智慧因子 $c$ 越低；相反，各成员均衡轮流发声的团队展现出系统性优势，证实扁平开放的沟通结构是保障高集体智力的行为基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 
 ---
@@ -90,23 +103,23 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 概念演变
-> - **1974 年 — 会话分析学发轫** 萨克斯（Harvey Sacks）等人发表经典文献，奠定语言学与社会学中“会话轮转（Turn-Taking）”的基本分析框架。
+> - **1974 年 — 会话分析学发轫** 萨克斯（Harvey Sacks）等人发表经典[[Document|文献]]，奠定语言学与社会学中“会话轮转（Turn-Taking）”的基本[[Analytic Framework|分析框架]]。
 > - **2010 年 — 团队智能测量引入** 伍利等人在《Science》研究中通过音频记录将发言轮换方差形式化为团队行为指标，确立其对集体智慧的强预测效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
-> - **2021 年 — 科学学系统化确证** 王大顺与巴拉巴西将其作为解释科研团队避免人才过剩与内耗崩溃的关键行为法则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> - **2021 年 — 科学学系统化确证** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]将其作为解释科研团队避免人才过剩与内耗崩溃的关键行为法则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 
 ---
 
 > [!warning|limits] 适用局限
-> 发言轮流均等性适用于需要多视角审议、发散式头脑风暴与复杂综合决策的协同任务；在执行严格标准化操作、应急指挥调度或单向信息传达等科层指令情境中，过度追求发言轮流均等可能降低决策响应速度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 113, 117)]]
+> 发言轮流均等性适用于需要多视角审议、发散式[[Brainstorming|头脑风暴]]与复杂综合决策的协同任务；在执行严格标准化操作、应急指挥调度或单向信息传达等科层指令情境中，过度追求发言轮流均等可能降低决策响应速度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 113, 117)]]
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Woolley et al. (2010)]] | 699 位参与者组成的小团队，完成多领域任务电池 | 实验室微观互动观察与录音分析 | 会话轮流发言方差对集体智慧因子 $c$ 之影响 | 发言轮换方差越小（发言越均等），团队集体智慧 $c$ 因子越高（方差与 $c$ 因子呈显著负向关联） | 负相关检验显著（$p < 0.05$） | 实验室小组讨论情境，反映即时会话拓扑而非跨月跨年科研大工程 |
 

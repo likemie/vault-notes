@@ -6,7 +6,7 @@ aliases:
   - 爆发动力学
   - 人类活动爆发性
   - Burstiness
-summary: "统计物理学与计算社会学中解释人类行为时间间隔非均匀分布的核心理论；由艾伯特－拉斯洛·巴拉巴西（2005）提出，揭示人类通信、邮件回复及创造性产出服从重尾幂律分布，表现为高强度的短暂爆发活动与漫长静默休眠交替出现的突发性（Burstiness），打破了时间均匀泊松过程的传统假设；为科学学中的学术爆发期模型提供了底层的微观统计物理机制。"
+summary: "统计物理学与计算社会学中解释人类行为时间间隔非均匀分布的核心理论；由艾伯特-拉斯洛·巴拉巴西（2005）提出，揭示人类通信、邮件回复及创造性产出服从重尾幂律分布，表现为高强度的短暂爆发活动与漫长静默休眠交替出现的突发性（Burstiness），打破了时间均匀泊松过程的传统假设；为科学学中的学术爆发期模型提供了底层的微观统计物理机制。"
 type: theory
 theory_field: "science-policy"
 theory_related_count: 11
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -57,7 +57,7 @@ updated: 2026-10-30
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 复杂网络与统计物理学者[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）于 2005 年在《自然》（*Nature*）发表长篇研究《人类动力学中突发性与重尾的起源》（The Origin of Bursts and Heavy Tails in Human Dynamics）。
+> - **提出者与原始文本** 复杂网络与统计物理学者[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）于 2005 年在《自然》（*Nature*）发表长篇研究《人类动力学中突发性与重尾的起源》（The Origin of Bursts and Heavy Tails in Human Dynamics）。
 > - **原初问题** 传统社会科学与运筹学普遍假定人类日常行为如打电话、写信服从随机泊松过程，预测事件间隔应当呈现指数衰减；然而经验测算显示真实人类行为充满极端不均匀性，学界急需统一的物理微观机制模型。
 > - **机制突破** 巴拉巴西构建了基于任务排队的决策模型（Priority Queue Model）：人类基于优先级调度处理多项任务，高优先级任务催生密集爆发，低优先级任务引发漫长拖延，自发涌现出幂律重尾。
 > - **向科学学的延伸** [[Dashun Wang|王大顺]]与巴拉巴西在专著中将突发动力学引入[[Creativity|创造力]]研究，揭示代表作成簇的学术爆发期本质上是人类广泛存在的突发动力学在顶尖智力生产中的体现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–75)]]

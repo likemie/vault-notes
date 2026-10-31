@@ -10,9 +10,9 @@ summary: "由 Brian Uzzi et al. (2013) 开创的文献计量学量化测度方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 16
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -23,17 +23,26 @@ tags:
   - theme/science-of-science
   - theme/citation-analysis
 related_concepts:
+  - "[[Document]]"
   - "[[Combinatorial Novelty]]"
+  - "[[Construct]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Heterogeneity]]"
+  - "[[Convergent and Discriminant Validity]]"
+  - "[[Creativity]]"
+  - "[[Paradigm]]"
   - "[[Nature of Innovation]]"
 related_theories: []
 related_methods:
+  - "[[Random Assignment]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Brian Uzzi]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
@@ -45,13 +54,13 @@ updated: 2026-10-31
 ---
 
 > [!def] Combinatorial Novelty Measurement
-> 基于全量文献引文网络，通过统计论著参考文献列表中所有期刊共引对（journal co-citation pairs）的真实共现频次，并与保持文献出引量和期刊入引量不变的置换零模型随机期望进行对比，计算各期刊对的标准化 $z$ 分数；进而提取单项成果共引对 $z$ 分数分布的中位数与第 10 百分位数，分别量化该成果的常规性（conventionality）与非典型新颖性（novelty）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 190–193)]]
+> 基于全量[[Document|文献]]引文网络，通过统计论著参考文献列表中所有期刊共引对（journal co-citation pairs）的真实共现频次，并与保持文献出引量和期刊入引量不变的置换零模型随机期望进行对比，计算各期刊对的标准化 $z$ 分数；进而提取单项成果共引对 $z$ 分数分布的中位数与第 10 百分位数，分别量化该成果的常规性（conventionality）与非典型新颖性（novelty）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 190–193)]]
 
 > [!method-scope] 方法范围
-> - **测量或估计对象** 学术论著或发明专利在知识组合层面的结构特征，关联 [[Combinatorial Novelty]] 与常规性知识基底构念。
+> - **测量或估计对象** 学术论著或发明专利在知识组合层面的结构特征，关联 [[Combinatorial Novelty]] 与常规性知识基底[[Construct|构念]]。
 > - **问题类型** 测度、分类与回归预测（检验知识组合模式对后续引文影响与突破概率的因果或关联效应）。
-> - **分析单位** 单篇学术论著、专利发明或学者个人产出组合。
-> - **输入数据** 大规模学术数据库（如 Web of Science、Scopus、MAG）中带精确期刊标识与发表年份的参考文献列表。
+> - **[[Unit of Analysis|分析单位]]** 单篇学术论著、专利发明或学者个人产出组合。
+> - **输入数据** 大规模学术数据库（如 Web of Science、Scopus、[[Microsoft Academic Graph|MAG]]）中带精确期刊标识与发表年份的参考文献列表。
 > - **输出形式** 连续型无量纲分数（中位数常规性 $z$ 分数与第 10 百分位数新颖性 $z$ 分数），以及离散化象限分类（常规/非典型交叉类别）。
 
 > [!citation-card] 关键定义
@@ -62,20 +71,20 @@ updated: 2026-10-31
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 期刊共引对反映了不同知识分支之间的认知连接；该方法有效克服了单一依赖主观专家评审或粗粒度学科分类标签的局限，但在期刊内部高度细分的方向异质性识别上可能存在分析尺度损耗。
-> - **研究者判断** 零模型随机化算法的约束条件（是否约束发表年度、学科分布）、非典型截断阈值（通常选取下四分位数或第 10 百分位数）以及对通用综合性大刊（如 *Nature*、*Science*、*PNAS*）共引权重的平抑处理。
-> - **有效性标准** 跨学科时间序列稳健性、置换模拟迭代稳定性、对后续顶尖 1% 高引成果的受试者工作特征（ROC）区分效度。
+> - **[[Construct Validity|构念效度]]** 期刊共引对反映了不同知识分支之间的认知连接；该方法有效克服了单一依赖主观专家评审或粗粒度学科分类标签的局限，但在期刊内部高度细分的方向[[Heterogeneity|异质性]]识别上可能存在分析尺度损耗。
+> - **研究者判断** 零模型[[Random Assignment|随机化]]算法的约束条件（是否约束发表年度、学科分布）、非典型截断阈值（通常选取下四分位数或第 10 百分位数）以及对通用综合性大刊（如 *Nature*、*Science*、*PNAS*）共引权重的平抑处理。
+> - **有效性标准** 跨学科时间序列稳健性、置换模拟迭代稳定性、对后续顶尖 1% 高引成果的受试者工作特征（ROC）[[Convergent and Discriminant Validity|区分效度]]。
 > - **不声称回答的问题** 该方法测度的是知识构件配对的新颖程度，并不直接度量实证发现的真伪或理论推导的技术质量。
 
 > [!method-stack] 方法层级
-> - **上位方法** [[Bibliometric Analysis|文献计量学]]与复杂网络分析方法。
+> - **上位方法** [[Bibliometric Analysis|文献计量学]]与复杂[[Network Analysis|网络分析]]方法。
 > - **前置步骤** 期刊名称规范化与消歧、全库二部图网络构建、年度随机重连（degree-preserving bipartite randomization）。
 > - **变体与扩展** 关键词组合新颖性测度（基于申请书或摘要关键词共现）、专利技术代码分类对（CPC/IPC co-occurrence）组合测度。
 
 > [!dev-timeline] 方法演变
 > - **2001 — 技术专利发明组合测度初探** 弗莱明（Lee Fleming）利用美国专利局技术分类号的首次组合频度，初步测定发明专利的重组不确定性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
-> - **2013 — 乌齐期刊引文对双重测度体系** [[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）等人在《科学》（*Science*）正式确立中位数常规性与第 10 百分位数非典型性的双维标准化测度体系，完成对 1,790 万篇科技论著的大规模测算。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 193)]]
-> - **2015 — 团队创造力与引文新颖性解构** 李允娜（Youn-Na Lee）等将该测度扩展至科学家跨界团队协作与个体多学科背景的匹配分析。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
+> - **2013 — [[Brian Uzzi|乌齐]]期刊引文对双重测度体系** [[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）等人在《科学》（*Science*）正式确立中位数常规性与第 10 百分位数非典型性的双维标准化测度体系，完成对 1,790 万篇科技论著的大规模测算。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 193)]]
+> - **2015 — 团队[[Creativity|创造力]]与引文新颖性解构** 李允娜（Youn-Na Lee）等将该测度扩展至科学家跨界团队协作与个体多学科背景的匹配分析。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
 
 ---
 
@@ -109,7 +118,7 @@ updated: 2026-10-31
 > > [!formula-reading] 结果解读与注意事项
 > > | 类型 | 要点 | 说明 |
 > > |---|---|---|
-> > | 读法 | $z_{ij} > 0$（正向高分） | 表明期刊对属于高频共现的成熟学术共同体范式，具有极高常规性与同行熟悉度。 |
+> > | 读法 | $z_{ij} > 0$（正向高分） | 表明期刊对属于高频共现的成熟学术共同体[[Paradigm\|范式]]，具有极高常规性与同行熟悉度。 |
 > > | 读法 | $z_{ij} < 0$（负向低分） | 表明期刊对在统计上属于异质冷门配对，表征突破常规边界的非典型创新构想。 |
 > > | 注意 | 规模与稀疏性控制 | 在计算 $\mu$ 与 $\sigma$ 时必须采用严格保持单篇文献出引量和期刊被引总量的度保持随机化（degree-preserving randomization），防止因期刊整体发文体量巨大而造成人为假相关。 |
 

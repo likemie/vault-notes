@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Research Utilization]]"
+  - "[[Citation Disparity]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -44,6 +45,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
   - "[[Disruption Index]]"
+  - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -134,4 +136,4 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 基于跨世纪全量科技引文大数据测定科研生产力分布（Unit 01），反思发表成果对流产团队的幸存者盲区（Unit 05），并运用全量引文网络解构文献指数扩张律、引文差距与跨学科相对引文标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 161–181]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 基于跨世纪全量科技引文大数据测定科研生产力分布（Unit 01），反思发表成果对流产团队的幸存者盲区（Unit 05），并运用全量引文网络解构文献指数扩张律、[[Citation Disparity|引文差距]]与跨学科[[Relative Citation Normalization|相对引文标准化]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 161–181]]）。

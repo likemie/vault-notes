@@ -10,10 +10,10 @@ summary: "17世纪英国哲学家与政治家，经验主义科学哲学奠基�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1561"
 died: "1626"
 lifespan: "1561–1626"
@@ -23,20 +23,24 @@ tags:
   - theme/research-methodology
   - theme/science-of-science
 related_concepts:
-  - "[[Scientific Method]]"
-  - "[[Document]]"
-  - "[[Paradigm]]"
-  - "[[Epistemology]]"
   - "[[Empiricism]]"
+  - "[[Scientific Method]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
+  - "[[Falsification]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_persons:
   - "[[Aristotle]]"
+  - "[[John Locke]]"
+  - "[[Karl Popper]]"
 related_facts:
+  - "[[Reach]]"
   - "[[The Royal Society]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: "2026-06-13"
@@ -46,32 +50,32 @@ updated: 2026-10-31
 ---
 
 > [!person-profile|notitle] 人物档案
-> - **身份位置** 英国文艺复兴时期哲学家、法学家、政治家，曾任英国掌玺大臣与大法官，近代实验科学与经验主义哲学的开创者。
-> - **核心角色** 现代经验科学方法论的奠基人，倡导以自然观察与归纳推理取代脱离现实的三段论经院演绎，将科学探究的基础确立于客观经验证据之上。
+> - **身份位置** 英国文艺复兴时期哲学家、法学家、政治家，曾任英国掌玺大臣与大法官，近代实验科学与[[Empiricism|经验主义]]哲学的开创者。
+> - **核心角色** 现代[[Scientific Method|经验科学]]方法论的奠基人，倡导以自然观察与归纳推理取代脱离现实的三段论经院演绎，将科学探究的基础确立于客观经验证据之上。
 > - **代表贡献** 提出经验归纳法与四假相说（Idols of the Mind），在《新工具》（*Novum Organum*）中确立经验科学方法论框架，在科学思想史上提出重大创新是时代的产儿（discoveries as children of time）的先驱命题。
 
 > [!citation-card] 培根论科学作为时代的产儿
 > 真理是时间的产儿，而非权威的产儿。重大的科学发现与技术突破根植于历史环境与知识条件的逐步成熟；如同熟透的苹果总会下落，当基础理论积木与技术组件积累至临界点时，特定科学突破必然在相近时间窗内被多方独立察觉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 166)]]
 >
-> *Truth is the daughter of time, not of authority... scientific discoveries are children of time, emerging inevitably when technical and conceptual foundations reach maturity.*
+> *Truth is the daughter of time, not of authority... scientific discoveries are children of time, emerging inevitably when technical and conceptual foundations [[Reach|reach]] maturity.*
 
 ---
 
 > [!timeline|notitle] 生平与职涯
 > - **1561** 出生于英国伦敦斯特兰德区。
-> - **1573–1575** 就读于剑桥大学三一学院，在此期间对亚里士多德主义经院哲学产生深刻怀疑。
+> - **1573–1575** 就读于剑桥大学三一学院，在此期间对[[Aristotle|亚里士多德]]主义经院哲学产生深刻怀疑。
 > - **1576–1582** 在格雷律师学院学习普通法并取得大律师资格，随后步入英格兰政坛。
 > - **1605** 出版英文专著《学术的推进》（*The Advancement of Learning*），系统批评经院思辨的贫瘠，倡导重构知识体系。
 > - **1618** 被詹姆斯一世任命为英格兰大法官，并受封维鲁兰男爵（Baron Verulam）。
 > - **1620** 出版拉丁文代表作《新工具》（*Novum Organum*），正式系统提出排除法归纳推理与四假相学说。
 > - **1626** 在伦敦近郊开展用积雪冷冻鸡肉以测定低温防腐效应的实验，因受寒引发肺炎逝世。
-> - **1627** 遗作《新大西岛》（*New Atlantis*）出版，书中设想的国家科研机构“所罗门之宫”（Salomon's House）直接启迪了英国皇家学会的建立。
+> - **1627** 遗作《新大西岛》（*New Atlantis*）出版，书中设想的国家科研机构“所罗门之宫”（Salomon's House）直接启迪了[[The Royal Society|英国皇家学会]]的建立。
 
 ---
 
 > [!work-line|notitle] 主要著作
-> - **1605 — *The Advancement of Learning*** 系统梳理各门学术的分支与不足，呼吁国家资助实验研究与图书档案建设。
-> - **1620 — *Novum Organum*** 认识论与科学方法论核心著作，系统阐发归纳推理法与扫除认知偏见的四假相理论。
+> - **1605 — *The Advancement of Learning*** 系统梳理各门学术的分支与不足，呼吁国家资助[[Experimental Research|实验研究]]与图书档案建设。
+> - **1620 — *Novum Organum*** [[Epistemology|认识论]]与科学方法论核心著作，系统阐发归纳推理法与扫除认知偏见的四假相理论。
 > - **1627 — *New Atlantis*** 科学乌托邦小说，提出由国家资助、学者协同分工开展科学实验与工业技术创新的现代建制蓝图。
 
 ---
@@ -87,7 +91,7 @@ updated: 2026-10-31
 ---
 
 > [!influence-path|notitle] 影响路径
-> - **认识论路径** 确立英国经验主义认识论传统，深刻启发了约翰·洛克（John Locke）、罗伯特·波义耳（Robert Boyle）与艾萨克·牛顿（Isaac Newton）。
+> - **认识论路径** 确立英国经验主义认识论传统，深刻启发了[[John Locke|约翰·洛克]]（John Locke）、罗伯特·波义耳（Robert Boyle）与艾萨克·牛顿（Isaac Newton）。
 > - **方法论路径** 将归纳法引入实证科学探索，促进了以经验证据检验理论假设的现代科学程序成型。
 > - **科研建制化路径** 《新大西岛》中所罗门之宫的设计，为 1660 年[[The Royal Society|英国皇家学会]]的成立提供了直接的组织范本。
 > - **科学学思想路径** 奠定了科学发展受制于技术组件累积与外部历史条件的“时代产儿”假说，成为解释科学多方独立发现现象的经典理论源头。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 166)]]
@@ -107,10 +111,10 @@ updated: 2026-10-31
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 纯粹经验归纳的局限性 vs 假说演绎模型的补充
-> > 科学哲学界对培根朴素归纳法的充分性存在长期讨论。后世逻辑实证主义与证伪主义学者指出，纯粹无预设的观察难以自动生成规律，理论先导与假说演绎在科学探究中扮演着不可或缺的定向角色。
+> > 科学哲学界对培根朴素归纳法的充分性存在长期讨论。后世逻辑[[Positivism|实证主义]]与[[Falsification|证伪主义]]学者指出，纯粹无预设的观察难以自动生成规律，理论先导与假说演绎在科学探究中扮演着不可或缺的定向角色。
 > >
 > > - **大卫·休谟（David Hume）** 提出归纳怀疑论，指出从有限经验观察无法在逻辑上必然推导全称判断的真理性。
-> > - **卡尔·波普尔（Karl Popper）** 主张科学通过提出大胆猜想并寻求反驳证伪推进，反对将科学起源单纯归结为机械归纳积累。
+> > - **[[Karl Popper|卡尔·波普尔]]（Karl Popper）** 主张科学通过提出大胆猜想并寻求反驳证伪推进，反对将科学起源单纯归结为机械归纳积累。
 
 ---
 

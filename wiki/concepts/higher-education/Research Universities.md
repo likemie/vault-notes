@@ -8,7 +8,7 @@ aliases:
 summary: "19世纪下半叶在美国以洪堡模式为母本并融合赠地实用传统而崛起的现代高等教育核心组织范式；二战后经布什报告奠定联邦常规资助基础，成为国家科学技术与创新系统的战略中枢；1980年代以来在发展型网络国家中演进为跨界创新协作与早期技术孵化的法定网络枢纽，但亦面临虚构商品化产权壁垒与博士生产扩张伴随的高校教职吸纳断层。"
 type: concept
 domain: "higher-education"
-related_count: 97
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Discipline-Based Theory]]"
   - "[[Seniority Barrier in Academia]]"
-  - "[[Technology Transfer]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge Power]]"
@@ -49,24 +48,23 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Corporate R&D Labs]]"
   - "[[Market Fundamentalism]]"
-  - "[[Hard Power]]"
-  - "[[Soft Power]]"
-  - "[[International Branch Campus]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Public Diplomacy]]"
+  - "[[Technology Transfer]]"
+  - "[[Academic Pipeline]]"
   - "[[STEM Education]]"
+  - "[[Hard Power]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
   - "[[Congressional Earmarks]]"
   - "[[Research Security]]"
-  - "[[Educational Diplomacy]]"
   - "[[Reproducibility Crisis]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Gatekeepers]]"
+  - "[[PhD Overproduction in Science]]"
   - "[[Variable]]"
   - "[[Carnegie Classification of Institutions of Higher Education]]"
   - "[[Multi-Project Wafer]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Educational Diplomacy]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Chinese Academy of Sciences]]"
@@ -81,31 +79,30 @@ related_facts:
   - "[[MOSIS]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Belt and Road Initiative]]"
-  - "[[Double First-Class Initiative]]"
   - "[[CHIPS and Science Act]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Office of Scientific Research and Development]]"
-  - "[[Science A New Golden Age 2026]]"
   - "[[Genesis Mission]]"
   - "[[Department of Energy]]"
   - "[[National Institutes of Health]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[University Alliance of the Silk Road]]"
+  - "[[Double First-Class Initiative]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Kickert_1995_Governance]]"
-  - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Murphy_2026_JTS]]"
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_NIST_2023_NSTC]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Pool of Knowledge]]"
@@ -117,8 +114,6 @@ related_methods:
   - "[[Audit Trail]]"
   - "[[Documentary Analysis]]"
   - "[[Process Tracing]]"
-  - "[[Critical Discourse Analysis]]"
-  - "[[Comparative Case Study]]"
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -224,7 +219,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题六｜在地缘科技博弈与[[Securitization of Technology|技术安全化]]转向中，研究型大学的角色从知识供给者重构为国家战略体系的制度性枢纽
-> **探讨维度　战略产业体系中的角色重构与制度嵌入** 探讨在地缘政治竞争与供应链安全驱动下，研究型大学如何突破传统自由市场知识供给者的定位，作为战略节点深度嵌入国家产业生态，并在提升体系韧性的同时承受学术自主与开放合作的内在张力。
+> **探讨维度　战略产业体系中的角色重构与制度嵌入** 探讨在[[Geopolitics|地缘政治]]竞争与供应链安全驱动下，研究型大学如何突破传统自由市场知识供给者的定位，作为战略节点深度嵌入国家产业生态，并在提升体系韧性的同时承受学术自主与开放合作的内在张力。
 >
 > > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]
 > > **技术策源、制造支撑、生态整合与制度赋能的多重角色重构** 随着半导体等战略产业竞争逻辑从商业逐利转向[[Securitization of Technology|技术安全化]]，研究型大学被深度嵌入国家半导体体系。大学通过四大机制实现功能重构：在创新链上游发挥基础研究引领与标准架构塑造功能；在制造环节打破科教割裂，通过分层分类培养多级工程技能人才；在产业生态中充当区域网络编织者与中试验证缓冲池；在治理层面作为跨界协调平台承接国家使命。这一重构显著增强了国家半导体体系的组织韧性，但也加剧了学术自主、开放科学与国家安全排他性目标之间的深层制度张力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–26)]]
@@ -235,7 +230,7 @@ updated: 2026-10-31
 > **探讨维度　双轨体制下的专业多理性网络与间接操纵转型** 探讨欧洲大陆双轨高等教育体制中，研究型大学如何依托学术专业自主与多重理性结构瓦解国家中央集权行政指令，倒逼政府从科层微观规制转向以一揽子[[Block Grants|总额预算]]和事后质量评估为特征的间接[[Network Governance|网络治理]]。
 >
 > > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
-> > **多重理性网络自治倒逼国家治理范式从自上而下管制转向间接[[Steering at a Distance|远距离操纵]]** 在欧洲大陆双轨高等教育体系中，研究型大学承担前沿学术研究与理论人才培养，与从事应用型专门技能培养的高等职业教育学院存在严格法定职能分工。研究型大学本质上是由异质化学科院系构成的专业多理性去中心化[[Policy Network|政策网络]]，缺乏单一的顶层命令链。当国家教育部试图通过自上而下的中央集权规划与微观行政指令推行财政紧缩和学科裁撤时，必然遭遇大学系统的强力抵制与治理失灵。荷兰大学任务分配与集中委员会（TVC）成功通过自组织协商完成 2.57 亿荷盾的学科重组预算削减，证明去中心化网络具备超越科层官僚的自主协调能力。这直接促成政府在 1985 年《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书中彻底摒弃微观规制，转向以扩大学校办学自主权、一揽子总额拨款（Block Grants）和事后产出评估为核心的“间接远距离操纵”新治理模式。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136–138, 145–146, 148–150)]]
+> > **多重理性网络自治倒逼国家治理范式从自上而下管制转向间接[[Steering at a Distance|远距离操纵]]** 在欧洲大陆双轨高等教育体系中，研究型大学承担前沿学术研究与理论人才培养，与从事应用型专门技能培养的高等职业教育学院存在严格法定职能分工。研究型大学本质上是由异质化学科院系构成的专业多理性去中心化[[Policy Network|政策网络]]，缺乏单一的顶层命令链。当国家教育部试图通过自上而下的中央集权规划与微观行政指令推行财政紧缩和学科裁撤时，必然遭遇大学系统的强力抵制与治理失灵。荷兰大学任务分配与集中委员会（TVC）成功通过自组织协商完成 2.57 亿荷盾的学科重组预算削减，证明去中心化网络具备超越科层官僚的自主协调能力。这直接促成政府在 1985 年《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书中彻底摒弃微观规制，转向以扩[[Grandes Ecoles|大学校]]办学自主权、一揽子总额拨款（Block Grants）和事后产出评估为核心的“间接远距离操纵”新治理模式。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136–138, 145–146, 148–150)]]
 
 ---
 
@@ -255,11 +250,11 @@ updated: 2026-10-31
 
 ---
 
-> [!concept-proposition] 命题十｜研究型大学博士劳动力过度生产与教职容纳上限的冲突引发学术管道结构性分流
+> [!concept-proposition] 命题十｜研究型大学博士劳动力过度生产与教职容纳上限的冲突引发[[Academic Pipeline|学术管道]]结构性分流
 > **探讨维度　学术劳动力供求失衡与产业溢出效应** 探讨研究型大学在高层次科技人才培养上的超额供给，与高校终身聘任体制容纳空间固化之间的结构性脱节及其劳动力市场后果。
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Schillebeeckx, M. et al. & Zolas, N. et al.]]
-> > **博士劳动力管道堵塞与工业界高额薪酬溢价** 希勒贝克斯等人、佐拉斯等人以及王大顺、巴拉巴西通过对全美 1982 至 2011 年约 80 万理工博士与高校教职聘任数据的长期追踪表明，研究型大学每年培养的博士数量增长近三倍，而传统全职终身教职岗位数长期保持平滞；仅少数顶尖名校毕业生能最终留在学术界，绝大多数学者在漫长的博士后流动站后分流进入工业界。由于工业界企业雇佣者平均年薪高出学术界同行近两万美元，这种结构性脱节在事实上构成了研究型大学向国民经济实体溢出高技能劳动力的主要管道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 170–172)]]
+> > **博士劳动力管道堵塞与工业界高额薪酬溢价** 希勒贝克斯等人、佐拉斯等人以及[[Dashun Wang|王大顺]]、[[Albert-László Barabási|巴拉巴西]]通过对全美 1982 至 2011 年约 80 万理工博士与高校教职聘任数据的长期追踪表明，研究型大学每年培养的博士数量增长近三倍，而传统全职终身教职岗位数长期保持平滞；仅少数顶尖名校毕业生能最终留在学术界，绝大多数学者在漫长的博士后流动站后分流进入工业界。由于工业界企业雇佣者平均年薪高出学术界同行近两万美元，这种结构性脱节在事实上构成了研究型大学向国民经济实体溢出高技能劳动力的主要管道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 170–172)]]
 
 ---
 
@@ -267,14 +262,14 @@ updated: 2026-10-31
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **基础研究公共品载体** | 解释大学作为基础研究知识池与博士生培养核心的双重不可替代性 | 国家科技体系制度奠基与战后科学契约分析 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
-> | **国家战略产业有组织动员** | 解释大学如何通过专班机制与跨学科工作坊承接国家重大产业战略任务 | 现代产业政策落地、关键技术攻坚与 STEM 紧缺人才培育 | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] |
+> | **国家战略产业有组织动员** | 解释大学如何通过专班机制与跨学科工作坊承接国家重大产业战略任务 | 现代产业政策落地、关键技术攻坚与 [[STEM Education\|STEM]] 紧缺人才培育 | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] |
 > | **前沿产业政策制度双重性** | 揭示大学在国家挑选赢家政策中获得前沿研发红利但面临拨款落空风险 | 地缘科技竞争、国家科研管理重构与联邦预算体制分析 | [[Argument_Brint_2023_IHE\|Brint (2023)]] |
 > | **技术契约下的地位边缘化** | 揭示国家绕开大学直接组织技术能力、大学轴心地位边缘化与受限自治危机 | 技术优先导向、行政预算扣留与后布什时代科技契约转向 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 > | **行政摩擦与元科学重塑** | 揭示行政合规重负、避险主义与制造脱节，主张间接费用改革与多元机制试验 | 大学内部治理改革、早期学者赋能与黄金标准科学实施 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
-> | **战略体系角色重构与制度嵌入** | 阐明大学从知识供给者转向国家技术策源、制造支撑与生态整合枢纽及其安全化张力 | 芯片法案、半导体创新网络与技术安全化治理 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
+> | **战略体系角色重构与制度嵌入** | 阐明大学从知识供给者转向国家技术策源、制造支撑与生态整合枢纽及其安全化张力 | [[CHIPS and Science Act\|芯片法案]]、半导体创新网络与技术安全化治理 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 > | **双轨多理性网络间接治理** | 揭示大学专业多理性网络抵制单向科层指令，依托自组织协商驱动国家转向间接操纵 | 欧洲双轨高教体制改革、大学自组织重组与国家治理范式转型 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
 > | **网络国家枢纽与商品化困境** | 揭示大学作为发展型网络国家跨界枢纽托底早期创新，但受困于知识虚构商品化壁垒 | 公私研发协同网络、技术转移产权困境与跨界合作机制分析 | [[Argument_Block_2008_PS\|Block (2008)]] |
-> | **发展型国家地缘战略整编** | 阐明国家将研究型大学整编为重大战略高精尖攻坚前哨与多边精英网络制度支柱 | 跨境高等教育、国家硬实力输出与区域多边知识外交 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]]; [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] |
+> | **发展型国家地缘战略整编** | 阐明国家将研究型大学整编为重大战略高精尖攻坚前哨与多边精英网络制度支柱 | 跨境高等教育、国家[[Hard Power\|硬实力]]输出与区域多边知识外交 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]]; [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] |
 > | **博士劳动力管道梗阻与分流** | 揭示博士培养超额生产与高校教职平滞脱节，促成向工业界的分流与薪酬溢价 | 科技劳动力市场供求分析、博士后流动与高教溢出效应 | Schillebeeckx et al.; Zolas et al.; Wang & Barabási |
 
 ---
@@ -282,12 +277,12 @@ updated: 2026-10-31
 > [!dev-timeline] 概念演变
 > - **1862–1940 — 制度奠基与战前边缘期** 《[[Morrill Land-Grant Act of 1862|莫里尔赠地法案]]》奠定实用科研传统，约翰斯·霍普金斯大学（1876）开创美式研究型大学[[Paradigm|范式]]；但二战前全国科研由工业界主导，大学科研经费极其微薄且处于国家边缘。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
 > - **1940–1970 — 战时动员与黄金繁荣期** 二战 [[Office of Scientific Research and Development|OSRD]] 动员证明大学战略价值；[[Science, The Endless Frontier 1945|布什报告]]推动成立 [[National Science Foundation|NSF]]，联邦科研预算指数级增长，研究型大学确立为国家科技体系核心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–37)]]
-> - **1975–2000 — 产学合作与拜杜法案赋能** 面对越战后政学关系危机与经济滞胀，联邦通过设立 [[Industry-University Cooperative Research Centers|I/UCRC]] 及 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，推动大学建立[[Technology Transfer Office|技术转移办公室]]（TTO），构建现代产学研协同生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–42)]]
+> - **1975–2000 — [[University-Industry Collaboration|产学合作]]与拜杜法案赋能** 面对越战后政学关系危机与经济滞胀，联邦通过设立 [[Industry-University Cooperative Research Centers|I/UCRC]] 及 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，推动大学建立[[Technology Transfer Office|技术转移办公室]]（TTO），构建现代产学研协同生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–42)]]
 > - **1980s–2000s — 发展型网络国家中的去中心化协同与虚构商品化矛盾** 随着大企业中央实验室收缩，研究型大学摆脱布什时期的纯基础象牙塔定位，被《拜杜法案》、工程研究中心（ERC）与 MOSIS 拼版平台深度嵌入跨部门公私协同网络；但激进的独家专利许可亦引发波兰尼式的虚构商品化壁垒与协作梗阻。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178, 186–189, 196–198)]]
 > - **1980s–1990s — 欧洲双轨制分流与去中心化治理范式突围** 欧洲大陆打破国家科层微观干预传统；面对财政削减与学生规模扩张，荷兰研究型大学自组织协商完成 2.57 亿荷盾预算削减方案，推动国家出台《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书，确立以一揽子总额预算拨款与事后质量评估为核心的“间接远距离操纵”治理范式。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 138, 144–146, 149–150)]]
 > - **2013–2015 — 学术劳动力管道梗阻与产业溢出量化** 希勒贝克斯（Schillebeeckx et al., 2013）与佐拉斯（Zolas et al., 2015）揭示全美研究型大学博士培养规模增长三倍与新增教职停滞的脱节，以及毕业生向工业界分流与年均两万美元的薪酬溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 170–172)]]
-> - **2010–2024 — 国家战略产业再动员与组织重塑** 一方面面临学科资助极化、国会专项拨款政治分肥、学术避险主义与科研安全合规强化；另一方面，面对大国科技竞争，《[[CHIPS and Science Act|芯片与科学法案]]》通过圈定二十项前沿技术、设立 NSF 转化新部门与扩招研究生奖学金，将研究型大学推向战略产业竞争最前沿。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–6)]]
-> - **2025–2026 — 黄金标准科学、元科学改革与国家技术型契约** 白宫颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》与战略报告，针对大学行政官僚膨胀、间接成本过高及可重复性危机推行严厉治理；并通过创世纪计划推动大学与国家实验室及产业界形成新型协同网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 52–54, 61–63)]]
+> - **2010–2024 — 国家战略产业再动员与组织重塑** 一方面面临学科资助极化、[[Congressional Earmarks|国会专项拨款]]政治分肥、学术避险主义与[[Research Security|科研安全]]合规强化；另一方面，面对大国科技竞争，《[[CHIPS and Science Act|芯片与科学法案]]》通过圈定二十项前沿技术、设立 NSF 转化新部门与扩招研究生奖学金，将研究型大学推向战略产业竞争最前沿。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–6)]]
+> - **2025–2026 — 黄金标准科学、元科学改革与国家技术型契约** 白宫颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》与战略报告，针对大学行政官僚膨胀、间接成本过高及[[Reproducibility Crisis|可重复性危机]]推行严厉治理；并通过[[Genesis Mission|创世纪计划]]推动大学与国家实验室及产业界形成新型协同网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 52–54, 61–63)]]
 
 ---
 
@@ -299,8 +294,8 @@ updated: 2026-10-31
 > > - **传统学术自治论** 担忧过度绑定国家产业与国防战略会导致大学沦为政府的研发工具，损害纯理论探索的多样性。
 > > - **现代产业战略论** 强调半导体等战略高科技领域面临万亿级产业安全与百万人才缺口，大学若脱离国家重大任务将丧失战略合法性与公共资源支持。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3)]]
 >
-> > [!axis] 同行评议择优 vs 机制设计试验（金券/对人/拉动机制）
-> > 争论传统同行评议是否已成为阻碍突破性颠覆性探索的守门人机制。
+> > [!axis] 同行评议择优 vs 机制设计试验（金券/对人/[[Pull Mechanisms for Innovation|拉动机制]]）
+> > 争论传统同行评议是否已成为阻碍突破性颠覆性探索的[[Gatekeepers|守门人]]机制。
 > >
 > > - **同行评议捍卫论** 强调同行评议是维护科学共同体学术质量与去政治化的重要基石。
 > > - **元科学机制设计论** 指出在低资助率下，同行评议奖励平庸折衷共识，系统性惩罚青年学者的大胆构想；必须引入金券、对人长期资助与拉动式奖金等多元通道。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28)]]
@@ -312,7 +307,7 @@ updated: 2026-10-31
 > > - **科研减负与一线赋能论** 批评高额间接成本补贴导致大学行政编制过度扩张，私人基金会仅支付 10%–15% 费率即能正常运转；必须对间接成本设立严格上限，将宝贵财政资金直接归还一线科学家与研究生津贴。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15)]]
 
 > [!warning|limits] 适用局限
-> 研究型大学作为一种制度范式，其高效运作高度依赖充足的无限制学术研究资助、开放的研究人员流动市场与健康的科研劳动力供求生态；若强行要求其承担短期商业化盈利指标，或在博士过剩背景下固化教职编制，将不可避免地引发学术避险主义与青年人才队伍流失。
+> 研究型大学作为一种制度范式，其高效运作高度依赖充足的无限制学术研究资助、开放的研究人员流动市场与健康的科研劳动力供求生态；若强行要求其承担短期商业化盈利指标，或在[[PhD Overproduction in Science|博士过剩]]背景下固化教职编制，将不可避免地引发学术避险主义与青年人才队伍流失。
 
 ---
 
@@ -348,4 +343,4 @@ updated: 2026-10-31
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 系统梳理荷兰高等教育从中央科层微观干预向[[Policy Network|政策网络]]“间接[[Steering at a Distance|远距离操纵]]”的[[Paradigm|范式]]演进，揭示 13 所研究型大学的多重理性特征、TVC 自组织预算协商削减 2.57 亿荷盾的历史经验，以及 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书确立的一揽子总额拨款与大学全面自主权体制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 解构中国在[[Belt and Road Education Action Plan|“一带一路”教育行动]]中对 75 所直属重点研究型大学的政策统辖与分工整编，揭示高水平大学如何承担高精尖科技攻坚、海外联合实验室建设与国别智库职能，服从于国家地缘经济战略（pp. 685–687）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较分析[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]，揭示由 15 所亚洲旗舰研究型大学组成的排他性网络如何通过高额联合科研资助与闭门治理投射跨国[[Knowledge Power|知识权力]]（pp. 1698–1702）。
-> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 结合“双一流”战略与海外办学实践，阐明中国将高水平研究型大学整编为教育外交支柱、依托科研产出提升学术声誉并设立境外分校的制度逻辑（pp. 79–85）。
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 结合“[[Double First-Class Initiative|双一流]]”战略与海外办学实践，阐明中国将高水平研究型大学整编为[[Educational Diplomacy|教育外交]]支柱、依托科研产出提升学术声誉并设立境外分校的制度逻辑（pp. 79–85）。

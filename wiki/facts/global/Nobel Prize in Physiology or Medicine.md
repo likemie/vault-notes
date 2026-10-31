@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -39,6 +39,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Alfred Nobel]]"
+  - "[[Michael S. Brown]]"
+  - "[[Joseph L. Goldstein]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts: []
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-10-30
 >
 >   - **1915–1918、1921、1925** 因一战波及或当届缺乏公认重大发现，历史上共有 9 个年份未曾授奖。[[Argument_Sandrone_2025_MEO|(Sandrone, 2025, p. 3)]]
 >   - **1953–1962** 沃森与克里克阐明 DNA 双螺旋立体结构，并于 1962 年与威尔金斯联合问鼎诺奖。
->   - **1985** 迈克尔·布朗与约瑟夫·戈尔茨坦因发现低密度脂蛋白（LDL）受体与胆固醇代谢机制荣获诺奖，创造了 509 篇联名论著的诺奖级超级合作搭档典范。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 123)]]
+>   - **1985** [[Michael S. Brown|迈克尔·布朗]]与[[Joseph L. Goldstein|约瑟夫·戈尔茨坦]]因发现低密度脂蛋白（LDL）受体与胆固醇代谢机制荣获诺奖，创造了 509 篇联名论著的诺奖级超级合作搭档典范。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 123)]]
 >
 > - **1990s–至今 — 学术师承网络显化、多样性审视与三人限额争议**
 >

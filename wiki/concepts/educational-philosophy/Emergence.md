@@ -10,10 +10,10 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程；整体大于部分之和且无法向下机械还原，广泛存在于生态系统、社会组织、科学引文网络、质性探究设计及万亿参数大模型认知智能演化之中。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 47
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/complexity-theory
   - theme/systems-thinking
@@ -25,58 +25,55 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Construct]]"
+  - "[[Collective Intelligence]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Artificial General Intelligence]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Determinism]]"
   - "[[Heterogeneity]]"
-  - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Creativity]]"
-  - "[[General Purpose Technology]]"
-  - "[[Document]]"
   - "[[Emergent Design]]"
   - "[[Stochastic Parrot]]"
   - "[[Rich and Thick Description]]"
+  - "[[Document]]"
   - "[[Recommendations for Practice]]"
-  - "[[Collective Intelligence]]"
+  - "[[Research Universities]]"
+  - "[[My-Baby Bias]]"
+  - "[[General Purpose Technology]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Organizational Culture]]"
-  - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Agent-based Modelling]]"
   - "[[Progressive Focussing]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Agent-based Modelling]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Sébastien Bubeck]]"
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
   - "[[Stuart Kauffman]]"
   - "[[Egon G. Guba]]"
   - "[[Keith Morrison]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: 2026-06-13
@@ -154,7 +151,7 @@ updated: 2026-10-31
 > > **局部简易规则生成复杂全局多样性** 复杂适应系统的底层生成机制根植于微观主体遵循的简单局部互动规则；在去中心化的非线性交往中，秩序能够自发内生生成并取代外部机械控制，呈现“秩序是免费的”这一动力学特征。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 28–29)]]
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
-> > **去中心化微观引证决策自发涌现宏观集体智慧** 王大顺与巴拉巴西指出，学术成果的影响力评价脱离了中心权威的自上而下指定。成千上万独立研究者在微观层面上基于自身课题需求，自主决定吸收哪些前人成果并实施引证；当这些去中心化的微观引用决策在宏观引文网络中汇聚时，自发涌现出学术共同体对成果真实科学价值的集体智慧公约数，克服了学者个体在自我成果评价中普遍存在的自评偏狭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
+> > **去中心化微观引证决策自发涌现宏观集体智慧** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]指出，学术成果的影响力评价脱离了中心权威的自上而下指定。成千上万独立研究者在微观层面上基于自身课题需求，自主决定吸收哪些前人成果并实施引证；当这些去中心化的微观引用决策在宏观引文网络中汇聚时，自发涌现出学术共同体对成果真实科学价值的集体智慧公约数，克服了学者个体在自我成果评价中普遍存在的自评偏狭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
 
 ---
 
@@ -193,7 +190,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **自组织微观生成** | 复杂全局秩序由底层行动者遵循简单局部规则的微观互动自发派生 | 复杂适应系统、学校组织文化、计算仿真、科学引文网络 | Waldrop; Lewin; Kauffman; Reynolds; Wang & Barabási |
+> | **自组织微观生成** | 复杂全局秩序由底层行动者遵循简单局部规则的微观互动自发派生 | 复杂适应系统、学校[[Organizational Culture\|组织文化]]、计算仿真、科学引文网络 | Waldrop; Lewin; Kauffman; Reynolds; Wang & Barabási |
 > | **整体不可还原** | 涌现的高阶整体具有全新属性与不可逆质变，不可向下分解还原 | 系统哲学、教育生态系统、宏观制度演变 | Davis & Sumara; Bar-Yam; Goodwin |
 > | **质性方法论奠基** | 涌现公理贯穿理论扎根生成与研究设计的实地动态演进 | [[Interpretive Paradigm\|自然主义探究]]、扎根理论、逐步聚焦策略 | Lincoln & Guba; Glaser & Strauss; Flick |
 > | **实证因果解构** | 开放世界的动态涌现性否定受控实验保持变量恒常的逻辑基础 | [[Randomised Controlled Trials\|随机对照试验]]反思、教育干预评估 | Morrison; Kuhn |
@@ -239,8 +236,8 @@ updated: 2026-10-31
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|:---|
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Reynolds (1987) via Cohen et al. (2011)]] | 计算机拟合空间中的多主体鸟群群落 | 基于主体建模（[[Agent-based Modelling\|ABM]]）仿真实验 | 最小距离、速度匹配度、中心凝聚力三项局部规则参数 | 三条简单规则自发稳定涌现宏观集群飞行模式，碰撞率为 0 | 确定性算法下的非线性稳态 | 模拟虚拟空间中的生成秩序，推广至人类真实社会时需考虑反身能动性 |
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010–2020 年五本顶级教育心理学期刊（JEP, CE, AERJ 等）刊发文献 | 历时性文献计量与方法学编码 | [[Qualitative Research\|质性研究]]占比与[[Recommendations for Practice\|实践建议]]（RFP）分布 | 质性研究占比由 2010 年的 9% 显著攀升至 2020 年的 22% | $p < .05$ | 验证了质性探究中涌现取向在主流心理学阵地中的合法性扩张 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]] | 两所研究型大学近 2,000 位在职学者双盲认知实验与 5800 万篇 SCI 成果网络 | 双盲对照实验与引文网络拓扑测算 | 学者自评偏差与去中心化引证决策的一致性指标 | 学者对自身成果存在显著自评偏爱（自子情结）；但宏观去中心化引证涌现的被引频次与同行盲评推荐高度吻合 | $p < .01$ | 证实微观个体自评具有认知偏倚，宏观客观影响力依赖去中心化网络涌现的集体共识 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010–2020 年五本顶级教育心理学期刊（JEP, CE, AERJ 等）刊发[[Document\|文献]] | 历时性文献计量与方法学编码 | [[Qualitative Research\|质性研究]]占比与[[Recommendations for Practice\|实践建议]]（RFP）分布 | 质性研究占比由 2010 年的 9% 显著攀升至 2020 年的 22% | $p < .05$ | 验证了质性探究中涌现取向在主流心理学阵地中的合法性扩张 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]] | 两所[[Research Universities\|研究型大学]]近 2,000 位在职学者双盲认知实验与 5800 万篇 SCI 成果网络 | 双盲对照实验与引文网络拓扑测算 | 学者自评偏差与去中心化引证决策的一致性指标 | 学者对自身成果存在显著自评偏爱（[[My-Baby Bias\|自子情结]]）；但宏观去中心化引证涌现的被引频次与同行盲评推荐高度吻合 | $p < .01$ | 证实微观个体自评具有认知偏倚，宏观客观影响力依赖去中心化网络涌现的集体共识 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02\|Bubeck et al. (2023) via Karp & Zamiska (2025)]] | [[General Purpose Technology\|GPT]]-4 大语言模型高维隐空间推理测试 | 跨模态常识力学与几何代码生成实证实验 | 9 鸡蛋/电脑/瓶子/钉子立体堆叠测试、独角兽代码绘制测试 | 模型成功给出 3×3 平铺减震力学方案，代码绘图随版本演进呈现幼儿心智成熟轨迹 | 定性能力质变突破（Sparks of AGI） | 揭示超大参数规模下计算智能对人类传统心智领地的自组织涌现渗透 |
 
 ---

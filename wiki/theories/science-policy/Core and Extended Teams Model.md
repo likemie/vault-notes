@@ -8,7 +8,7 @@ aliases:
 summary: "解释当代科学中团队规模分布从经典泊松分布向重尾幂律分布演进的双重生成模型；区分随机招募成员的小型核心团队与依赖高产学者声誉累积优势快速聚集成员的扩展团队，揭示两类团队在长期存续性与知识生产中的互补分工。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
+  - "[[Guest Authorship]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
 related_theories: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-10-30
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 团队规模呈现显著两极分化、同时包含独立探索与巨型大科学实验的自然科学领域（如高能物理、天文学、分子生物学）。
 > - **成立条件** 具备长时序大样本合署数据，能够从署名列表区分核心贡献者与外延工程技术人员。
-> - **解释不足** 模型侧重团队人数的宏观统计分布拟合，对团队内部具体的权力博弈、知识分配与署名通胀（Gift Authorship）等社会学现实解释不足。
+> - **解释不足** 模型侧重团队人数的宏观统计分布拟合，对团队内部具体的权力博弈、知识分配与署名通胀（[[Guest Authorship|Gift Authorship]]）等社会学现实解释不足。
 > - **转化困难** 在人文社科等团队规模普遍极小（多为单人或 2–3 人）的领域，扩展团队的幂律生成机制不显著。
 > - **不能直接推出** 无法单凭团队规模大小断定单篇成果的质量高低，需结合颠覆性指数与具体攻坚目标综合判断。
 

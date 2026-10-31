@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-10-30
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 科学学家[[Lu Liu|刘路]]（Lu Liu）、[[Dashun Wang|王大顺]]（Dashun Wang）与复杂网络学者[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2018 年发表于《自然》（*Nature*）的封面级论著《艺术、文化与科学职业生涯中的爆发期》（Hot Streaks in Artistic, Cultural, and Scientific Careers）中系统提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–75)]]
+> - **提出者与原始文本** 科学学家[[Lu Liu|刘路]]（Lu Liu）、[[Dashun Wang|王大顺]]（Dashun Wang）与复杂网络学者[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2018 年发表于《自然》（*Nature*）的封面级论著《艺术、文化与科学职业生涯中的爆发期》（Hot Streaks in Artistic, Cultural, and Scientific Careers）中系统提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–75)]]
 > - **原初问题** 传统心理学在 1980 年代将体育与赌博中的“手感发热”（[[Hot Hand Fallacy|Hot Hand]]）定性为小数定律引发的认知错觉（Gilovich et al., 1985）；而科学学在确立[[Random Impact Rule|随机影响规律]]后，推论认为学者产出代表作后应当由于均值回归而回归平庸。然而科学史中重大成果往往连环涌现，学界急需厘清代表作之间是否存在真实的时序关联。
 > - **理论资源与材料** 汇集横跨三个领域的长周期个体全记录：20,040 位涵盖多学科的科学家（基于引文记录）、3,480 位现代与当代艺术家（基于苏富比与佳士得拍卖成交价）以及 6,233 位电影导演（基于 IMDb 评分与票房）。
 > - **形成路径** 研究团队计算个体最佳论著 $N^\ast$ 与次佳论著 $N^{\ast\ast}$ 的归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast}) = P(N^\ast, N^{\ast\ast}) / [P(N^\ast)P(N^{\ast\ast})]$，发现矩阵对角线元素显著大于 1。研究团队随后构建爆发期模型，在学者固有对数引文期望基线 $\Gamma_0$ 基础上引入局部激发状态 $\Gamma_H$，以参数化算法从实测数据中拟合出爆发期的发生频次、持续窗口与幅度。

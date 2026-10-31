@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-10-30
 > [!timeline] 生平与职涯
 > - **1983** 出生于意大利。
 > - **2012** 在卡塔尼亚大学获得理论物理学博士学位。
-> - **2012–2015** 赴美国东北大学复杂网络研究中心（CCNR）开展博士后研究，合作导师为[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）。
+> - **2012–2015** 赴美国东北大学复杂网络研究中心（CCNR）开展博士后研究，合作导师为[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）。
 > - **2015–2019** 任教于中欧大学网络科学系。
 > - **2016** 在《科学》发表封面级论著《量化个体艺术与科学职业生涯的演变》，确立随机影响法则与 Q 模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 60–67)]]
 > - **2019–至今** 担任哥本哈根信息技术大学教授。
@@ -98,7 +98,7 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - **博士后导师** 艾伯特－拉斯洛·巴拉巴西（Albert-László Barabási）— 东北大学网络科学研究中心主任，共同开创科学学研究范式。
+> - **博士后导师** 艾伯特-拉斯洛·巴拉巴西（Albert-László Barabási）— 东北大学网络科学研究中心主任，共同开创科学学研究范式。
 > - **核心合作学者** [[Dashun Wang|王大顺]]（Dashun Wang）— 共同完成学术与艺术生涯演化系列奠基研究。
 
 ---

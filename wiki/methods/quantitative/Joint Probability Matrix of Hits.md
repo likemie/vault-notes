@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2016 — 随机影响法则与独立基准确立** [[Roberta Sinatra]] et al. 提出随机影响规律，确立单篇成果在全生涯服从均匀抽样，为联合矩阵提供了基线零假设。
-> - **2018 — 《自然》刊载成果正式提出代表作联合概率矩阵** [[Lu Liu|刘路]]、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]发明归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$，首次在大样本实证中量化证实对角线峰值达到 1.57 倍，为学术爆发期提供首要实证支柱。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
+> - **2018 — 《自然》刊载成果正式提出代表作联合概率矩阵** [[Lu Liu|刘路]]、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]发明归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$，首次在大样本实证中量化证实对角线峰值达到 1.57 倍，为学术爆发期提供首要实证支柱。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 > - **2021 — 科学学专著系统推广** 王大顺与巴拉巴西在《[[Metascience|科学的科学]]》专著中将该矩阵列为检验科研、艺术与影视跨界创造力动力学的标准诊断[[Paradigm|范式]]。
 
 ---

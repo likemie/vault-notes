@@ -6,7 +6,7 @@ aliases:
 summary: "实证研究与社会科学中可被测量或观察且在不同个体、组织或系统之间发生变异的特征或属性，是构建假说与检验因果关系的基本分析单位；比较教育实证主义代际通过以概念变量替代国别专名，奠定了跨系统经验假说检验的科学基石。"
 type: concept
 domain: "research-methodology"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -35,8 +35,10 @@ related_concepts:
   - "[[Causality]]"
   - "[[Teacher Questioning]]"
   - "[[Socioeconomic Status]]"
-  - "[[Falsification]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
+  - "[[Citation Distribution]]"
+  - "[[Falsification]]"
   - "[[Research Question]]"
   - "[[Cultural Capital]]"
   - "[[Commensuration]]"
@@ -66,8 +68,8 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
-  - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Grace_2010_NZJES]]"
 confidence: high
 status: completed
 created: 2026-05-31
@@ -197,7 +199,7 @@ updated: 2026-10-31
 > **探讨维度　计量变换与跨领域尺度不变性** 考察如何通过基准无量纲化变换构建相对变量，消除不同学科与历史年代的基线差异，以检验复杂系统的普适性。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] / Radicchi et al. (2008)
-> **相对标准化变量对跨学科异质性的消解** 跨学科与跨年代的原始指标往往具有不可比的异质尺度（如不同学科篇均被引数相差达数倍至数十倍）。拉迪奇等（Radicchi et al., 2008）通过引入相对标准化变量 $c_f = c / c_0$（将单篇文献被引数 $c$ 除以同领域同发表年份的篇均被引基线 $c_0$），将原本分散且高度异质的学科数据统一重构；经此相对变量变换后，跨越数十年、涵盖所有科学领域的引文分布完全塌缩至同一对数正态曲线上，揭示出复杂科学系统在宏观层面的尺度不变普适规律[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 169–174)]]。
+> **相对标准化变量对跨学科[[Heterogeneity|异质性]]的消解** 跨学科与跨年代的原始指标往往具有不可比的异质尺度（如不同学科篇均被引数相差达数倍至数十倍）。拉迪奇等（Radicchi et al., 2008）通过引入相对标准化变量 $c_f = c / c_0$（将单篇[[Document|文献]]被引数 $c$ 除以同领域同发表年份的篇均被引基线 $c_0$），将原本分散且高度异质的学科数据统一重构；经此相对变量变换后，跨越数十年、涵盖所有科学领域的[[Citation Distribution|引文分布]]完全塌缩至同一对数正态曲线上，揭示出复杂科学系统在宏观层面的尺度不变普适规律[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 169–174)]]。
 
 ---
 

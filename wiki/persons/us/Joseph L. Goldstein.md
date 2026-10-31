@@ -9,7 +9,7 @@ summary: "美国遗传学家与分子生物学家，德克萨斯大学西南医�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,17 +21,21 @@ tags:
   - theme/science-of-science
 related_concepts:
   - "[[Super Ties in Science]]"
+  - "[[Team Science]]"
   - "[[Coauthorship Network]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
+  - "[[National Institutes of Health]]"
 related_persons:
   - "[[Michael S. Brown]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -42,7 +46,7 @@ updated: 2026-10-30
 > - **代表贡献** 与[[Michael S. Brown|迈克尔·布朗]]联合发现低密度脂蛋白（Low-Density Lipoprotein, LDL）受体，揭示胆固醇的细胞摄取与反馈调控机制，荣获1985年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]。
 
 > [!citation-card] 超级科研搭档的终身合作典范
-> 约瑟夫·戈尔茨坦（Joseph L. Goldstein）与迈克尔·布朗（Michael S. Brown）在截至2018年的学术记录中联名发表了509篇论著；戈尔茨坦仅有22篇成果没有布朗署名，两人合署比例超过95%，代表了现代生物医学中科研超级联结的最高范例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
+> 约瑟夫·戈尔茨坦（Joseph L. Goldstein）与迈克尔·布朗（Michael S. Brown）在截至2018年的学术记录中联名发表了509篇论著；戈尔茨坦仅有22篇成果没有布朗署名，两人合署比例超过95%，代表了现代生物医学中科研[[Super Ties in Science|超级联结]]的最高范例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
 
 ---
 
@@ -50,7 +54,7 @@ updated: 2026-10-30
 > - **1940** 生于美国南卡罗来纳州萨姆特市（Sumter）。
 > - **1962** 获华盛顿与李大学（Washington and Lee University）学士学位。
 > - **1966** 获德克萨斯大学西南医学中心医学博士学位（M.D.）。
-> - **1966–1970** 在马萨诸塞州总医院完成住院医师训练，随后在美国国立卫生研究院（NIH）进行博士后研究，期间与布朗结识并开启终身合作。
+> - **1966–1970** 在马萨诸塞州总医院完成住院医师训练，随后在[[National Institutes of Health|美国国立卫生研究院]]（NIH）进行博士后研究，期间与布朗结识并开启终身合作。
 > - **1972** 返回德克萨斯大学西南医学中心，正式与布朗共建实验室。
 > - **1974** 与布朗共同发现LDL受体，奠定心血管疾病分子医学的研究基础。
 > - **1985** 与迈克尔·布朗共同获得[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]。
@@ -64,7 +68,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 约瑟夫·戈尔茨坦（Joseph L. Goldstein）与[[Michael S. Brown|迈克尔·布朗]]共同建立了LDL受体的细胞生化模型，揭示细胞通过受体调节胞内胆固醇水平的精准反馈机制。二人半世纪以上的超级合作，在团队科学研究中被王大顺与巴拉巴西引述为[[Super Ties in Science|科研超级联结]]的典范：两位学者基于高度互补的遗传学与生物化学专长，加之深厚的学术信任，产出了远超常规合作预期的科学成就。
+> 约瑟夫·戈尔茨坦（Joseph L. Goldstein）与[[Michael S. Brown|迈克尔·布朗]]共同建立了LDL受体的细胞生化模型，揭示细胞通过受体调节胞内胆固醇水平的精准反馈机制。二人半世纪以上的超级合作，在[[Team Science|团队科学]]研究中被[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]引述为科研超级联结的典范：两位学者基于高度互补的遗传学与生物化学专长，加之深厚的学术信任，产出了远超常规合作预期的科学成就。
 
 ---
 

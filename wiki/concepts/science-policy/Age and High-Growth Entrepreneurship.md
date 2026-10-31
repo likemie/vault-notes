@@ -12,7 +12,7 @@ aliases:
 summary: "由皮埃尔·阿祖莱、本杰明·F·琼斯、金丹·J与哈维尔·米兰达（Azoulay, Jones, Kim & Miranda, 2020）基于 270 万家企业全量普查税收微观数据揭示的经验构念；指在极速成长与颠覆性商业创业中，创始人成功概率随实际生理年龄呈现单调递增并于中年成熟期（45 至 50 岁后期）达到顶峰，彻底否定了风险投资界与大众传媒中盲目崇拜青年神童的认知偏差。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
   - concept/age-advantage
 related_concepts:
   - "[[Creativity]]"
+  - "[[Citation Distribution]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
   - "[[Construct]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-30
 > | 比较维度 | 高成长创业年龄优势（Age and High-Growth Entrepreneurship） | 青年创业神话（Myth of the Young Entrepreneur） | [[Random Impact Rule\|随机影响规律]]（Random Impact Rule） |
 > |---|---|---|---|
 > | **核心主张** | 商业极值成功概率随年龄单调递增并在 45 至 50 岁后期达峰 | 早期未受教条束缚的年轻大脑天然拥有颠覆性创新垄断权 | 剥离生产力波动后任何一次尝试产生顶尖影响的先验概率均等 |
-> | **经验证据依托** | 涵盖 270 万家全量企业普查与 IRS 联邦税务行政追踪档案 | 传媒评奖（如 30 Under 30）与知名风险投资机构被投案例集 | 跨学科顶尖科学家、艺术家、导演终身全量作品序列与引文分布 |
+> | **经验证据依托** | 涵盖 270 万家全量企业普查与 IRS 联邦税务行政追踪档案 | 传媒评奖（如 30 Under 30）与知名风险投资机构被投案例集 | 跨学科顶尖科学家、艺术家、导演终身全量作品序列与[[Citation Distribution\|引文分布]] |
 > | **成败主导机制** | 行业特定[[Human Capital Theory\|人力资本]]、组织管理经验与市场资源网络积累 | 认知敏锐、试错机会成本低与对既定[[Paradigm\|范式]]缺乏敬畏 | 持续发文尝试的频次驱动与科研能力的固定质量因子 $Q$ |
 > | **资本配置导向** | 建议风险资本与政策基金加大对成熟资深产业骨干的倾斜 | 引导天使资本过度集中于名校退学学生或刚毕业青年群体 | 鼓励科研资助长周期稳定支持高产探索而非依据年龄截断 |
 

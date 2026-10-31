@@ -9,7 +9,7 @@ summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - theme/science-of-science
   - theme/science-policy
 related_concepts:
+  - "[[Patent Citation]]"
   - "[[Response to Intervention]]"
   - "[[Experimental Innovators]]"
   - "[[Multi-University]]"
@@ -51,14 +52,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍创新经济学家与科学学者，西北大学凯洛格管理学院战略与创业学教授，曾任白宫经济顾问委员会高级经济学家。
-> - **核心角色** 当代科学学与技术变革经济学的奠基性学者，将宏观经济学增长理论与微观科研团队及专利引文大数据深度融合。
+> - **核心角色** 当代科学学与技术变革经济学的奠基性学者，将宏观经济学增长理论与微观科研团队及[[Patent Citation|专利引文]]大数据深度融合。
 > - **代表贡献** 提出并形式化[[Burden of Knowledge|知识负担理论]]，揭示教育年限膨胀对创新窗口的挤压；系统量化 20 世纪诺贝尔奖得主与发明家的年龄分布及其结构性推移。
 
 > [!citation-card] 琼斯论攀爬知识巨人的成本

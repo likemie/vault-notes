@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-10-30
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 统计物理学者与科学学者[[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2016 年发表于《科学》（*Science*）的奠基论著《量化个体艺术与科学职业生涯的演变》（Quantifying the Evolution of Individual Artistic and Scientific Careers）中系统提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
+> - **提出者与原始文本** 统计物理学者与科学学者[[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2016 年发表于《科学》（*Science*）的奠基论著《量化个体艺术与科学职业生涯的演变》（Quantifying the Evolution of Individual Artistic and Scientific Careers）中系统提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
 > - **原初问题** 科学史与传统计量学长期记录到科学家绝大多数诺贝尔奖级突破诞生于 30 至 40 岁之间，由此衍生出创造力等同于青春的社会刻板印象；传统研究受限于名家传记的小样本手工挖掘与消歧难题，无法评判这一规律能否推广至海量普通研究人员。
 > - **理论资源与材料** 依托《物理评论》（*Physical Review*）跨越数十年的 236,884 名物理学者全量发表数据，筛选出学术生涯至少持续 20 年的 2,856 名物理学家完整引文网络，并借鉴[[Dean Keith Simonton|迪恩·凯斯·西蒙顿]]（Dean Keith Simonton）的恒定成功概率假说。
 > - **形成路径** 提出者通过为每位学者建立以学术年龄为横轴、单篇发表后十年被引数（$c_{10}$）为纵轴的[[Drop-pin Projection|图钉投影]]；随后设计随机置换实验，在保持每位学者发文年份与总篇数不变的前提下打乱所有成果的被引次序，发现置换后的[[Counterfactual|反事实]]分布曲线与真实[[Learning Economy|经验曲线]]完全重叠，从而从数理上证实了影响力的[[Random Assignment|随机分配]]特征。

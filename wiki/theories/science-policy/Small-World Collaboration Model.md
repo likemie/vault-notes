@@ -9,7 +9,7 @@ aliases:
 summary: "由 Brian Uzzi 与 Jarrett Spiro (2005) 提出的网络拓扑与团队创造力理论；指出协作网络的小世界特性（W）与团队创造力及绩效呈现倒 U 形非线性关联，适度的小世界网络拓扑在促进信息跨群流动与维持认知多样性之间达成最优平衡。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Patent Citation]]"
   - "[[Heterogeneity]]"
   - "[[Determinism]]"
   - "[[Structural Holes]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-30
 > [!dev-timeline] 理论版本与贡献
 > - **1998 — 数理基石奠定** Watts 与 Strogatz 在《自然》（*Nature*）提出小世界网络模型（WS 模型），揭示高[[Clustering Coefficient|聚类系数]]与短平均路径长度在自然与工程网络中的普遍共存。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 106–107)]]
 > - **2005 — 创意组织理论形式化** Uzzi 与 Spiro 确立小世界商数 $W$ 倒 U 形假说，实证证实百老汇音乐剧团队在网络小世界商数处于中等区间时达到票房与艺术评分双重顶峰。
-> - **2021 — 科学学[[Coauthorship Network|合著网络]]拓展** [[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）将该模型引入[[Team Science|团队科学]]与合著[[Network Analysis|网络分析]]，阐明科研人员合著网络的小世界特性如何构成为兼顾学术传统与突破性跨界重组的制度环境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> - **2021 — 科学学[[Coauthorship Network|合著网络]]拓展** [[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）将该模型引入[[Team Science|团队科学]]与合著[[Network Analysis|网络分析]]，阐明科研人员合著网络的小世界特性如何构成为兼顾学术传统与突破性跨界重组的制度环境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 
 ---
 
@@ -120,7 +121,7 @@ updated: 2026-10-30
 > | **低小世界割裂机制**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, pp. 107–108)]] | 合作网络是否存在跨学科或跨子群的桥接连线？ | 跨院系联合署名比例、外部学术伙伴占比、长程弱连带密度 | 跨群连线接近零表明处于低 $W$ 孤岛状态；提示知识流动受阻，难以支撑远距离新颖重组。 |
 > | **过度紧密回音室风险**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, p. 108)]] | 团队网络是否陷入高度封闭与人员固化？ | 团队成员重叠系数、历史共同合作频次、局域聚类系数 $C$ | $C$ 极高且成员长期固化表明处于高 $W$ 状态；易催生群体盲思，排斥异质假说与破坏性创新。 |
 > | **最优小世界拓扑判读**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, pp. 107–108)]] | 网络拓扑是否兼备模块化聚类与短平均路径？ | 小世界商数 $W$、全网平均分离步数、新成员与老成员配比 | 中等 $W$ 伴随 5 到 6 步短路径表明网络处于最优创新区间；平衡了内部执行力与外部新颖性。 |
-> | **团队创造力产出效能**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, pp. 107–108)]] | 团队成果是否展现出高被引与高颠覆性特征？ | 成果被引分位数、非共识知识组合指数、商业票房或专利引用 | 高被引爆发与新异重组高度集聚于中等 $W$ 团队；不能单独将网络指标机械等同于个体天赋。 |
+> | **团队创造力产出效能**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, pp. 107–108)]] | 团队成果是否展现出高被引与高颠覆性特征？ | 成果被引分位数、非共识知识组合指数、商业票房或[[Patent Citation\|专利引用]] | 高被引爆发与新异重组高度集聚于中等 $W$ 团队；不能单独将网络指标机械等同于个体天赋。 |
 
 ---
 

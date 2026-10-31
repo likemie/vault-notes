@@ -8,7 +8,7 @@ aliases:
 summary: "依据学术论著联合署名关系构建的复杂拓扑网络；具有跨学科异质性的重尾度分布、少数超级枢纽节点、平均路径约为 6 步的小世界特性以及覆盖 80%–90% 活跃学者的巨连通分支，其宏观相变与成果新颖度受资历传承与重复合作等微观组装规则深度调控。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
+  - "[[Homophily]]"
   - "[[Six Degrees of Separation]]"
   - "[[Giant Component]]"
   - "[[Assemblage]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-30
 > | **节点类型** | 科学家个体（唯一学者标识符） | 单篇学术成果或专利文献 | 注册用户（包含公众与机构账户） |
 > | **连接性质** | 无向边（或带权边表示共同发文篇数） | 有向边（从施引文献指向被引文献） | 有向（关注）或无向（好友） |
 > | **连带强度** | 极高，需要数月乃至数年的协同实质科研 | 适中，反映理论引用、方法借鉴或观点批判 | 极低至中等，轻量化点赞、评论或关注 |
-> | **演进机制** | 优先连接（趋向资深知名学者）与小世界聚集 | 累积引文吸附（马太效应）与新近性偏倚 | 算法信息流推送、同质性匹配与地理邻近 |
+> | **演进机制** | 优先连接（趋向资深知名学者）与小世界聚集 | 累积引文吸附（马太效应）与新近性偏倚 | 算法信息流推送、[[Homophily\|同质性]]匹配与地理邻近 |
 
 ---
 

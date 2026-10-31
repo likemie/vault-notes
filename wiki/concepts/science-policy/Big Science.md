@@ -7,10 +7,10 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，现代演进为兼具超级算力、聚焦研究组织（FRO）与前竞争联合体的创新基础设施，其实证规律展现出推进渐进发展与精细攻关的显著优势，但颠覆性创新主要由敏捷小团队引领。"
 type: concept
 domain: "science-policy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/science-policy
   - theme/innovation-studies
@@ -21,8 +21,11 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Megascience Installations]]"
   - "[[Reproducibility Crisis]]"
-  - "[[Scientific Paradigm]]"
+  - "[[Knowledge Production]]"
+  - "[[Document]]"
+  - "[[Academic Pipeline]]"
   - "[[Grand Challenges]]"
+  - "[[Scientific Paradigm]]"
   - "[[Precompetitive Research]]"
   - "[[Wicked Problem]]"
   - "[[Incommensurability]]"
@@ -34,7 +37,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Grand Theory]]"
   - "[[Mind Mapping]]"
-  - "[[Document]]"
   - "[[Commensuration]]"
   - "[[Variable]]"
   - "[[Emergence]]"
@@ -52,13 +54,13 @@ related_methods:
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Derek de Solla Price]]"
+  - "[[Dashun Wang]]"
   - "[[Chris Freeman]]"
   - "[[Lingfei Wu]]"
-  - "[[Dashun Wang]]"
   - "[[James A. Evans]]"
-  - "[[Alvin Weinberg]]"
-  - "[[Derek de Solla Price]]"
   - "[[Albert-László Barabási]]"
+  - "[[Alvin Weinberg]]"
 related_facts:
   - "[[NSF X-Labs]]"
   - "[[Genesis Mission]]"
@@ -77,10 +79,11 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Bozeman_2004_JTT]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-03
@@ -97,7 +100,7 @@ updated: 2026-10-31
 > - **用途** 帮助科技政策学者区分不同类型科技任务的组织治理构型，评估大型国家实验室、前竞争财团与[[Megascience Installations|大科学装置]]的战略效能与民用外溢机制。
 > - **边界** 适用于目标明确、工程界定清晰的物理极限与跨学科共性技术攻关；不等于分散在大学内部的自由探索型课题组，亦不等于企业以商业利润为驱动的封闭产品开发。
 
-> [!citation-card] 樊春良论大科学成本膨胀对科学社会契约的制度压力
+> [!citation-card] 樊春良论大科学成本膨胀对[[Social Contract of Science|科学社会契约]]的制度压力
 > 科学体系自身演化进一步加剧了科学社会契约的压力，如大科学模式推高科研成本，强化了外部绩效问责与政治审计；近年来学术界广泛讨论的[[Reproducibility Crisis|可重复性危机]]则削弱了部分领域的知识权威，使基础科学在为什么值得支持、如何被评价与应当解决什么问题三个层面均失去了自动的正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *大科学模式推高科研成本并强化外部问责，与可重复性危机交织，使科学正当性从自明走向不稳定且具有争议性的结构形态。*
@@ -112,8 +115,8 @@ updated: 2026-10-31
 >
 > *Beyond traditional national aerospace and physics projects, Big Science now encompasses massive compute clusters, mid-scale Focused Research Organizations (FROs), and the Genesis Mission marshaling 17 national laboratories for AI-driven discovery.*
 
-> [!citation-card] 普赖斯与王大顺论大科学时代的指数扩张与学术生产管道堵塞
-> 大科学不仅意味着装置与经费的巨型化，更表现为科学知识生产系统自身的指数级扩张。自普赖斯在 1963 年指出科学文献以约 10–15 年翻番的节奏持续增长以来，百余年间全球学术出版物呈现出不可阻挡的指数级扩张，形成“历史上 80% 至 90% 的科学家都生活在当代”的即时性特征。然而，学术管道的各环节扩张极不均衡：博士毕业生数量在数十年间膨胀数倍，而大学终身教职岗位数长期保持平滞，导致博士后队伍急剧堆叠，大批科研人员向产业界分流。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–171)]]
+> [!citation-card] [[Derek de Solla Price|普赖斯]]与[[Dashun Wang|王大顺]]论大科学时代的指数扩张与学术生产管道堵塞
+> 大科学不仅意味着装置与经费的巨型化，更表现为科学[[Knowledge Production|知识生产]]系统自身的指数级扩张。自普赖斯在 1963 年指出科学[[Document|文献]]以约 10–15 年翻番的节奏持续增长以来，百余年间全球学术出版物呈现出不可阻挡的指数级扩张，形成“历史上 80% 至 90% 的科学家都生活在当代”的即时性特征。然而，[[Academic Pipeline|学术管道]]的各环节扩张极不均衡：博士毕业生数量在数十年间膨胀数倍，而大学终身教职岗位数长期保持平滞，导致博士后队伍急剧堆叠，大批科研人员向产业界分流。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–171)]]
 >
 > *Big Science is defined not only by large budgets and facilities, but by the relentless exponential growth of the scientific literature and workforce. While PhD production has soared, faculty positions have remained flat, driving a massive postdoc pileup and workforce restructuring.*
 
@@ -134,7 +137,7 @@ updated: 2026-10-31
 
 ---
 
-> [!feature] 现代大科学范式的组织支柱
+> [!feature] 现代大[[Scientific Paradigm|科学范式]]的组织支柱
 > - **超大规模公共财政与基础设施（Macro-Financial Mobilisation & Physical Infrastructure）** 集中配置数十亿美元财政资金，建设单体大学或企业无力承担的巨型实验装置（如同步辐射光源、散裂中子源、百亿亿次超算）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 > - **垂直协同的指挥链与敏捷团队（Hierarchical Command & Agile Program Managers）** 既保留大工程集约调度的统筹优势，又引入项目经理制，赋予一线攻关团队高度的执行自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 24)]]
 > - **清晰界定的工程技术里程碑（Well-Defined Engineering Milestones）** 设定具有严格客观真值与时间节点的指标（如完成人类基因碱基对测序或合成新型高温超导材料）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44)]]
@@ -214,14 +217,14 @@ updated: 2026-10-31
 > **探讨维度　学术生产系统演进与劳动力管道梗阻** 探讨大科学时代不仅表现为实验设施巨型化，更表现为知识存量与人才生产的指数级膨胀，以及这一膨胀与大学教职吸纳能力平滞之间的结构性失调。
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
-> > **指数增长与劳动力管道结构性堵塞** 普赖斯指出大科学的核心标志之一是科学文献以约 12 年翻一番的节奏持续指数级扩张，使当代生活着历史上 80% 至 90% 的科学家。王大顺与巴拉巴西进一步揭示，大科学体系在产出大量成果的同时，推动博士培养规模在三十年间扩张了近三倍；然而，大学终身教职岗位数量长期停滞不前，导致大量青年学者在博士后流动站深度堆叠并向工业界外流，凸显了大科学时代学术生产与劳动力吸纳机制之间的体制断层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–172)]]
+> > **指数增长与劳动力管道结构性堵塞** 普赖斯指出大科学的核心标志之一是科学文献以约 12 年翻一番的节奏持续指数级扩张，使当代生活着历史上 80% 至 90% 的科学家。王大顺与[[Albert-László Barabási|巴拉巴西]]进一步揭示，大科学体系在产出大量成果的同时，推动博士培养规模在三十年间扩张了近三倍；然而，大学终身教职岗位数量长期停滞不前，导致大量青年学者在博士后流动站深度堆叠并向工业界外流，凸显了大科学时代学术生产与劳动力吸纳机制之间的体制断层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–172)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **物理目标与社会问题不可通约** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
+> | **物理目标与社会问题不可[[Commensuration\|通约]]** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **公共采购与供应链技术外溢** | 大科学长期经济价值取决于需求侧高标准采购倒逼产业工艺创新 | 国防与战略大工程民用外溢机制设计 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **军工大科学与民用创新体系脱节** | 缺乏微观互动与干中学的大科学军工投入无法转化为国民创新竞争力 | 国家创新系统演化与美苏科技体制对比 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
 > | **成本膨胀与契约合法性危机** | 巨额成本推高行政审计，终结了基础科学无需自证的免检资助特权 | 科学社会契约演变与科技政策立法 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
@@ -264,7 +267,7 @@ updated: 2026-10-31
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wu et al. (2019)]] | 1954 至 2014 年间全球 6,000 万篇期刊论著、美国专利与 GitHub 开源软件代码库 | 三元共引网络拓扑分析与颠覆性指数计算 | 团队规模对颠覆性指数与引文表现的调控效应 | 跨所有领域，被引中位数随团队规模单调递增，而平均颠覆度百分位随团队人数从 1 人递增至 50 人单调下降（期刊下降 70%，专利下降 30%，软件下降 50%）；控制研究领域后团队规模独立解释了 66% 的颠覆性变异 | 95% [[Confidence Interval\|置信区间]]稳健 | 针对全球正式出版与授权的科技产出大数据 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Milojević (2014)]] | 1961–1965 与 2006–2010 两个时期天文学全量团队发表数据 | 团队规模概率分布拟合（最大似然估计） | 团队规模分布形态演变；平均团队规模 | 1961–1965 年团队规模服从均值 1.5 人的泊松分布（无超过 8 人的团队）；2006–2010 年演变为均值 6.7 人的重尾幂律分布，涌现数百至千人超级工程团队 | 拟合优度显著 | 样本聚焦天文学观测与理论团队 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Milojević (2014)]] | 1961–1965 与 2006–2010 两个时期天文学全量团队发表数据 | 团队规模概率分布拟合（最大似然估计） | 团队规模分布形态演变；平均团队规模 | 1961–1965 年团队规模服从均值 1.5 人的泊松分布（无超过 8 人的团队）；2006–2010 年演变为均值 6.7 人的重尾幂律分布，[[Emergence\|涌现]]数百至千人超级工程团队 | 拟合优度显著 | 样本聚焦天文学观测与理论团队 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | 1900–2014 年 Web of Science 全量文献库与 1982–2011 年全美约 80 万理工博士及 10 万大学教职聘任数据库 | 指数增长拟合与学术劳动力管道追踪 | 文献翻番周期；博士授予量增幅与大学新增教职平滞趋势 | 文献数量保持约 12 年翻一番（复合年均增长率约 4.7%–6%）；博士年授予量增长近 3 倍，而大学教职岗位增长停滞，博士后出路向产业界深度分流 | 官方普查数据库核算 | 揭示大科学时代知识生产的指数扩张与高校教职吸纳之间的体制脱节 |
 
 ---

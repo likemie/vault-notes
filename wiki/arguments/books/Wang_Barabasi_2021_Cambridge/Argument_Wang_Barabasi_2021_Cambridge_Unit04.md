@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -45,12 +45,14 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Death of Distance]]"
   - "[[Document]]"
+  - "[[Patent Citation]]"
   - "[[Erdős Number]]"
   - "[[Megascience Installations]]"
   - "[[Paradigm]]"
   - "[[Polymath]]"
   - "[[Refined Mastery]]"
   - "[[Institutional Layering]]"
+  - "[[Homophily]]"
   - "[[Falsification]]"
   - "[[Academic Achievement]]"
   - "[[Peer-Supported Learning]]"
@@ -102,7 +104,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-31
 ---
 
 ---
@@ -138,7 +140,7 @@ updated: "2026-10-30"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **半世纪跨学科论著与专利引文计量分析** | 检索 1955 至 2000 年间 Web of Science 收录的 1,990 万篇科学论著与 210 万件美国专利，按单人与多人署名构建跨学科引文对比矩阵，测算相对团队影响力（RTI）并剔除自引检验（Wuchty et al., 2007）。 |
+> | **半世纪跨学科论著与[[Patent Citation\|专利引文]]计量分析** | 检索 1955 至 2000 年间 Web of Science 收录的 1,990 万篇科学论著与 210 万件美国专利，按单人与多人署名构建跨学科引文对比矩阵，测算相对团队影响力（RTI）并剔除自引检验（Wuchty et al., 2007）。 |
 > | **跨校与跨国署名地理加权引文溢价模型** | 抓取 1975 至 2005 年间 420 万篇论著，划分为单校、跨校与国际合作三种模式，比对产出高于均值被引成果的条件概率，结合全球排名前 200 所大学地理坐标构建全球科学合作拓扑演进图（Adams, 2013; Jones et al., 2008）。 |
 > | **达特茅斯随机寝室分配与收银员田野实验** | 跟踪达特茅斯大学随机分配寝室新生的平均学分绩点（Grade Point Average, GPA）联动变动，结合全国连锁超市收银员扫码速度随轮班同伴绩效波动的观测数据，验证物理面对面场景下的同伴溢出效应（Mas & Moretti, 2009; Sacerdote, 2001）。 |
 > | **生物学明星学者加盟与同行生产力追踪** | 选取 1980 至 2008 年间全美 255 个进化生物学系与 149,947 篇教师论著，运用双向固定效应模型估计明星科学家入职前后该系在职教师加权学术产出及后续新聘教师质量的变动幅度（Agrawal et al., 2017）。 |
@@ -271,7 +273,7 @@ updated: "2026-10-30"
 > - **跨校组队显著提振高水平产出概率** 同一大学内部团队发表高于均值被引成果的概率在理工科为 32.7%，在社科为 34.1%；一旦吸纳外校学者开展跨校合作，该概率分别显著提升 2.9% 与 5.8%（Jones et al., 2008, p. 91）。
 
 > [!challenges] 团队科学全球化面临的[[Institutional Layering|制度分层]]与协同成本
-> - **地理距离消亡假说与学术声望分层（Prestige Homophily）** 远程通信虽促成跨校合作爆发，但所谓“地理距离消亡”的假设被科学大数据[[Falsification|证伪]]：学者间合作概率仍随地理空间距离呈严格的幂律衰减；同时学者在跨校物色科研伙伴时普遍遵循学术声望同质匹配原则；名校学者倾向于与其他名校学者组团，导致优质科研资源加速向顶尖精英学府同盟集聚，加剧了全球科学体系内部的不平等（pp. 91–93）。
+> - **地理距离消亡假说与学术声望分层（Prestige [[Homophily]]）** 远程通信虽促成跨校合作爆发，但所谓“地理距离消亡”的假设被科学大数据[[Falsification|证伪]]：学者间合作概率仍随地理空间距离呈严格的幂律衰减；同时学者在跨校物色科研伙伴时普遍遵循学术声望同质匹配原则；名校学者倾向于与其他名校学者组团，导致优质科研资源加速向顶尖精英学府同盟集聚，加剧了全球科学体系内部的不平等（pp. 91–93）。
 > - **发展中国家智力流失与团队协调损耗（Coordination Friction）** 跨国合作使发展中国家融入国际分工的同时加剧了高端人才外流隐患；此外，团队内部达成共识的沟通磨损、协调摩擦以及贡献认可的模糊性，构成了大规模团队科研必须审慎权衡的组织成本（pp. 93–94）。
 
 ---

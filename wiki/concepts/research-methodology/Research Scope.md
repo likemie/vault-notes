@@ -9,7 +9,7 @@ aliases:
 summary: "研究规划中的边界管理概念，指将研究课题收窄到可管理的比例以实现严谨性和可操作性，涉及范围限定、边界设定和窄聚焦策略"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Rich and Thick Description]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[External Validity]]"
 related_theories: []
@@ -35,13 +36,13 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
-  - "[[Derek de Solla Price]]"
 related_facts:
   - "[[Achieve]]"
+  - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: 2026-06-20
@@ -90,7 +91,7 @@ updated: 2026-10-31
 > [!case] 小样本窄聚焦与宏观范围扩展经典案例
 > - **Axline (1964)：一个孩子的革命性研究** 弗吉尼亚·阿克斯莱恩在 *Dibs in Search of Self* 中研究游戏治疗（Play Therapy）对一名儿童 Dibs 的修复效果，样本仅为**一个孩子**。通过深度个案追踪，详细展示了游戏治疗如何帮助情感受创儿童重建自我意识和人际能力，成为心理治疗与教育领域的划时代经典。
 > - **Piaget (1932)：少数几个孩子的理论革命** [[Jean Piaget|让·皮亚杰]]在 *The Moral Judgement of the Child* 中研究儿童道德判断的发展，样本仅为**少数几个孩子**。他通过[[In-depth Interview|深度访谈]]与对游戏规则的细致观察，构建了从他律道德到自律道德的发展阶段理论，深刻影响了 20 世纪发展心理学与教育学。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, p. 93)]]
-> - **Price (1961)：从单刊物理合订本到跨学科总体数据库的范围推演** [[Derek de Solla Price|德里克·德索拉·普莱斯]]最初将研究范围限定在书房内 28 堆皇家学会《哲学汇刊》（*Philosophical Transactions*，1665–1950），测算出厚度翻倍的经验周期；随后系统将研究范围扩展至跨学科期刊总量、科研人员规模以及文摘数据库，验证了指数增长在宏观尺度上的普适性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, p. 161)]]
+> - **Price (1961)：从单刊物理合订本到跨学科总体数据库的范围推演** 德里克·德索拉·普莱斯最初将研究范围限定在书房内 28 堆[[The Royal Society|皇家学会]]《哲学汇刊》（*Philosophical Transactions*，1665–1950），测算出厚度翻倍的经验周期；随后系统将研究范围扩展至跨学科期刊总量、科研人员规模以及文摘数据库，验证了指数增长在宏观尺度上的普适性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, p. 161)]]
 
 > [!logic-map]- 课题窄化与方法严谨性的因果链条
 > ```mermaid
@@ -117,14 +118,14 @@ updated: 2026-10-31
 > **探讨维度　分析尺度与经验概括效度** 考察将范围限定于局部样本或单刊档案的微观发现在扩展至跨学科宏观总体时能否保持规律自洽。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] / Price (1961)
-> **从微观载体向宏观总体扩展范围以验证增长定律** [[Derek de Solla Price|普莱斯]]（Price, 1961）的研究表明，严谨的研究范围界定不仅用于微观课题的落地操作，还体现在多阶段研究中审慎推演分析边界：他首先在书房内以英国皇家学会单刊合订本为狭窄研究范围，精确测算出 15 年翻倍的增长节奏；随后他将研究范围拓展至全球期刊清单、科研队伍规模及《物理学文摘》（*Physics Abstracts*），进而确立了科学文献与研发人力普遍遵从指数增长的宏观通则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, pp. 161–164)]]
+> **从微观载体向宏观总体扩展范围以验证增长定律** 普莱斯（Price, 1961）的研究表明，严谨的研究范围界定不仅用于微观课题的落地操作，还体现在多阶段研究中审慎推演分析边界：他首先在书房内以[[The Royal Society|英国皇家学会]]单刊合订本为狭窄研究范围，精确测算出 15 年翻倍的增长节奏；随后他将研究范围拓展至全球期刊清单、科研队伍规模及《物理学文摘》（*Physics Abstracts*），进而确立了科学[[Document|文献]]与研发人力普遍遵从指数增长的宏观通则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, pp. 161–164)]]
 
 ---
 
 > [!contrast-table|notitle]
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位研究选题、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
+> | **微观规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位[[Research Topic\|研究选题]]、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
 > | **宏观推演命题** | 研究范围从单一文献样本扩展至宏观科学系统，能够检验经验增长规律的尺度不变性 | 科学计量普查、全景文献追踪、科学学通则建构 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]]; Price (1961) |
 
 ---

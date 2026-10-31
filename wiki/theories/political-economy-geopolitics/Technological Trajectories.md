@@ -7,10 +7,10 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 66
-theory_related_level: 6
-theory_related_stars: "💎💎"
-theory_related_color: "#fef3c7"
+theory_related_count: 59
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/evolutionary-economics
   - theme/innovation
@@ -32,11 +32,11 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Complexity Paradox]]"
+  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Wicked Problem]]"
   - "[[Market Failure]]"
   - "[[Distributed Agency]]"
-  - "[[Electronic Design Automation]]"
   - "[[Return on Investment]]"
   - "[[Technology Infusion]]"
   - "[[Embedded Network Governance]]"
@@ -45,20 +45,13 @@ related_concepts:
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Agile Governance]]"
-  - "[[Geopolitics]]"
   - "[[Determinism]]"
   - "[[Seed Funding]]"
-  - "[[Lead-and-Learn Paradigm]]"
-  - "[[Second-Sourcing]]"
-  - "[[Network Governance]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
   - "[[Bounded Rationality]]"
-  - "[[Pavitt Taxonomy]]"
-  - "[[Three Generations of Mission-Oriented Policy]]"
-  - "[[ROAR Framework]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Case Study]]"
@@ -71,14 +64,14 @@ related_persons:
   - "[[Erica Fuchs]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[David C. Mowery]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Focus Center Research Program]]"
   - "[[Government Digital Service]]"
-  - "[[Bell Labs]]"
-  - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
   - "[[Argument_Bogliacino_Pianta_2016_EconPol]]"
@@ -86,9 +79,9 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: completed
 created: 2026-06-11
@@ -123,7 +116,7 @@ updated: 2026-10-31
 > - **2016 — 跨国定量操作化与检验** 博利亚奇诺与皮安塔（[[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino & Pianta, 2016]]）基于欧洲创新调查（CIS）数据库，通过主成分分析将四大技术轨迹操作化为“技术[[Competitiveness|竞争力]]”与“成本竞争力”两个正交轴线，完成跨国大样本定量检验。
 > - **2018 — 使命导向与技术轨迹主动重塑** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）指出，面对气候危机与生态极限，创新政策不能仅被动适应既有技术轨迹，而必须依托 ROAR 治理框架设定国家战略使命，主动打破传统高碳技术轨迹的锁定，培育全新的绿色与可持续技术轨道。
 > - **2018 — 三代使命演进与跨部门轨迹协同** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）系统梳理后发追赶（骆驼）、[[Big Science|大科学]]攻坚（狮子）到社会–技术挑战（儿童）三代使命轨迹治理形态，指出应对 21 世纪棘手挑战必须依托敏捷实验与三层[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]。
-> - **2021 — 传统技术轨迹边际递减与基础科学非耗竭性** 王大顺与巴拉巴西基于跨学科文献与研发人力大数据指出，成熟工业研发与具体技术轨道因物理边界限制呈现出研发团队膨胀与人均突破效能下降的边际收益递减（如维持摩尔定律芯片密度翻倍需要 18 倍于早期的研发人力）；但基础科学探索以思想为动力，思想具有非消耗性与繁衍乘数效应，通过学科交叉与范式重组能够持续开拓全新的探索领域与技术轨道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
+> - **2021 — 传统技术轨迹边际递减与基础科学非耗竭性** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于跨学科[[Document|文献]]与研发人力大数据指出，成熟工业研发与具体技术轨道因物理边界限制呈现出研发团队膨胀与人均突破效能下降的边际收益递减（如维持摩尔定律芯片密度翻倍需要 18 倍于早期的研发人力）；但基础科学探索以思想为动力，思想具有非消耗性与繁衍乘数效应，通过学科交叉与范式重组能够持续开拓全新的探索领域与技术轨道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
 ---
 

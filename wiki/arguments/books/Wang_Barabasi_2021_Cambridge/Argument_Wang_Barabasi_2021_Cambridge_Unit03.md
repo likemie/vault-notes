@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Hot Streak]]"
   - "[[Exploration-Exploitation in Science]]"
+  - "[[Citation Distribution]]"
   - "[[Star Scientists]]"
   - "[[Document]]"
   - "[[Dilution Effect in Academic Evaluation]]"
@@ -75,7 +76,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -157,7 +158,7 @@ updated: 2026-10-30
 > [!sub-claim] 1. 纯靠运气抽不出顶尖成果，高产学者的代表作远超随机预期
 
 > [!mechanism] 纯运气零模型（R-Model）与真实引文数据的系统偏离
-> 假设每项成果的影响力如同从固定引文分布中抽取彩票的纯运气零模型（R-model）预测，高产学者最具影响力的代表作被引量 $c^*_{10}$ 将随发文篇数 $N$ 呈缓慢增长；但真实物理学家的经验数据表明，$c^*_{10}$ 随 $N$ 的增长斜率显著超越纯运气模型预测，证明高产学者不仅具有数量优势，更拥有低产学者所缺乏的高效转化特质（Sinatra et al., 2016, pp. 60–62; 图 6-1）。
+> 假设每项成果的影响力如同从固定[[Citation Distribution|引文分布]]中抽取彩票的纯运气零模型（R-model）预测，高产学者最具影响力的代表作被引量 $c^*_{10}$ 将随发文篇数 $N$ 呈缓慢增长；但真实物理学家的经验数据表明，$c^*_{10}$ 随 $N$ 的增长斜率显著超越纯运气模型预测，证明高产学者不仅具有数量优势，更拥有低产学者所缺乏的高效转化特质（Sinatra et al., 2016, pp. 60–62; 图 6-1）。
 
 > [!case] 爱因斯坦思想实验与纯偶然零模型的失效
 > - **打字机黑猩猩思想实验** 概率论经典假说指出，给予无限漫长的时间，一只在打字机前胡乱敲击的黑猩猩终究能够敲出莎士比亚的全套剧作。同理，若全球拥有足够庞大基数的科研人员，是否纯凭偶然几率便必然诞生爱因斯坦级别的[[Star Scientists|科学巨擘]]？这一命题构成了检验个体能力是否存在的核心切入口（pp. 60–61）。

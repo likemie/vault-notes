@@ -9,7 +9,7 @@ summary: "比利时数学家与信息计量学家，哈瑟尔特大学荣休教�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/research-evaluation
 related_concepts:
   - "[[Document]]"
+  - "[[Citation Distribution]]"
 related_theories:
   - "[[Lotka's Law]]"
   - "[[Price's Law]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -49,12 +50,12 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 比利时应用数学家与信息计量学家，哈瑟尔特大学与安特卫普大学荣休教授，国际[[Bibliometric Analysis|科学计量学]]与信息计量学会（ISSI）终身会员。
 > - **核心角色** 现代数理信息计量学的领路人之一，以严密的泛函分析、洛伦兹曲线与分形几何工具重塑[[Document|文献]]计量分布规律而闻名。
-> - **代表贡献** 于 2006 年创立 g 指数（弥补 h 指数对高引长尾的钝感），系统建立了文献计量学中基于分形几何的幂律分布通用积分模型与多作者合著分数评价模型。
+> - **代表贡献** 于 2006 年创立 g 指数（弥补 h 指数对高引长尾的钝感），系统建立了文献计量学中基于分形几何的幂律分布通用积分模型与多著者合著分数评价模型。
 
 > [!citation-card] 埃格论 g 指数对学术顶尖成果的权重恢复
 > 传统 h 指数将论著被引量严格限定在 h 以内，导致单篇划时代的重大学术发现与刚刚达到 h 的普通成果在评价权重上完全等同。g 指数通过引入累计被引平方准则，允许顶尖爆款成果的超额引用向下溢出，有效补偿了中下游论著的引用不足，全面恢复了厚尾知识贡献的能见度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 >
-> *Egghe proposed an improvement of the [[h-Index|h-index]]: the [[g-Index|g-index]]... Egghe argued that this approach better [[Accounts|accounts]] for the tail of the citation distribution, allowing highly cited papers to contribute more heavily to a scientist’s overall score.*
+> *Egghe proposed an improvement of the [[h-Index|h-index]]: the [[g-Index|g-index]]... Egghe argued that this approach better [[Accounts|accounts]] for the tail of the [[Citation Distribution|citation distribution]], allowing highly cited papers to contribute more heavily to a scientist’s overall score.*
 
 ---
 
@@ -62,7 +63,7 @@ updated: 2026-10-30
 > - **1981** 获安特卫普大学数学博士学位，主攻泛函分析与实分析。
 > - **1980 年代中** 转向信息计量学领域，与 Ronald Rousseau 等学者开拓信息分布数学建模，成为比利时信息计量学派核心领袖。
 > - **2001** 荣获国际科学计量学最高终身成就荣誉——德里克·约翰·德索拉·[[Derek de Solla Price|普赖斯]]纪念奖（Derek de Solla Price Award）。
-> - **2006** 在 *Scientometrics* 与 ISSI 通讯发表关于 $g$ 指数的奠基论文，迅速成为全球引用最广泛的学者评价指标之一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
+> - **2006** 在 *Scientometrics* 与 ISSI 通讯发表关于 $g$ 指数的奠基论著，迅速成为全球引用最广泛的学者评价指标之一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 > - **2007–2012** 创办 Elsevier 旗下专业旗舰学术期刊《信息计量学杂志》（*Journal of Informetrics*）并担任创刊主编。
 
 ---

@@ -11,7 +11,7 @@ summary: "科学计量学与信息计量学奠基人，耶鲁大学科学史阿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,10 +27,12 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Document]]"
-  - "[[Paradigm]]"
+  - "[[Citation Distribution]]"
+  - "[[Science Immediacy]]"
   - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Citation Disparity]]"
   - "[[Scientific Productivity]]"
-  - "[[Emergence]]"
 related_theories:
   - "[[Preferential Attachment in Academia]]"
   - "[[Price's Law]]"
@@ -39,6 +41,7 @@ related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Eugene Garfield]]"
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[The Royal Society]]"
@@ -72,8 +75,8 @@ updated: 2026-10-31
 > - **1947–1950** 任教于新加坡莱佛士学院，在整理[[The Royal Society|皇家学会]]《哲学汇刊》历史过刊时按年代堆叠成 28 摞，直观观察到文献堆叠高度呈指数级急剧上升，发现科学文献规模保持着约 10–15 年翻番的指数增长规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–162)]]
 > - **1954** 在剑桥大学完成关于古代科学仪器史的研究，获得科学史博士学位。
 > - **1959** 前往美国耶鲁大学任教，创建科学史系并出任阿瓦隆科学史讲席教授。
-> - **1963** 出版代表作《小科学，大科学》（*Little Science, Big Science*），提出著名的科学即时性命题（历史上 80% 至 90% 的科学家都生活在当代）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 163–164)]]
-> - **1965** 在《科学》（*Science*）发表奠基之作《科学文献网络》（*Networks of Scientific Papers*），依托加菲尔德与谢尔整理的引文数据首度绘制引文分布，发现其服从引文指数 $\gamma \approx 3$ 的幂律衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–176)]]
+> - **1963** 出版代表作《小科学，大科学》（*Little Science, Big Science*），提出著名的[[Science Immediacy|科学即时性命题]]（历史上 80% 至 90% 的科学家都生活在当代）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 163–164)]]
+> - **1965** 在《科学》（*Science*）发表奠基之作《科学文献网络》（*Networks of Scientific Papers*），依托[[Eugene Garfield|加菲尔德]]与谢尔整理的引文数据首度绘制引文分布，发现其服从引文指数 $\gamma \approx 3$ 的幂律衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–176)]]
 > - **1976** 发表《累积优势的一般理论》，运用数学模型严格推导引文网络中新引用向已有高引文献富集的动力学机理。
 > - **1983** 访问伦敦期间逝世。
 > - **1984** 国际科学计量学与信息计量学会（ISSI）以其姓名设立科学计量学最高国际荣誉“德里克·德索拉·普赖斯纪念奖”。
@@ -99,11 +102,11 @@ updated: 2026-10-31
 
 > [!influence-path|notitle] 影响路径
 > - **理论路径** 普赖斯的累积优势模型直接启迪了[[Albert-László Barabási|巴拉巴西]]（Barabási）与阿尔伯特（Albert）提出无标度网络（Scale-Free Networks）及其优先连接机制。
-> - **方法路径** 确立以科学引文索引（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度范式。
+> - **方法路径** 确立以科学引文索引（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度[[Paradigm|范式]]。
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 检视普赖斯在新加坡发现的文献指数增长律与饱和预言（Unit 01, 07），实证检验其 1976 年累积优势模型对引文差距和跨学科普适分布的解释力（Unit 08, pp. 184–186）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 检视普赖斯在新加坡发现的文献指数增长律与饱和预言（Unit 01, 07），实证检验其 1976 年累积优势模型对[[Citation Disparity|引文差距]]和跨学科普适分布的解释力（Unit 08, pp. 184–186）。
 
 ---
 

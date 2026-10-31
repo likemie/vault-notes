@@ -11,7 +11,7 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
   - theme/team-science
 related_concepts:
   - "[[Big Science]]"
+  - "[[Hyperauthorship]]"
   - "[[Competitiveness]]"
   - "[[Center of Calculation]]"
   - "[[General Purpose Technology]]"
@@ -54,13 +55,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
 > [!claim] 核心定位
-> 欧洲核子研究组织（European Organization for Nuclear Research / CERN）是 1954 年由欧洲 12 国联合创设、总部设于瑞士日内瓦的全球顶级跨国[[Big Science|大科学]]基础研究机构；其核心使命是为全球粒子物理学界提供超越单国财政与工程极限的巨型科研基础设施（如大型强子对撞机 [Large Hadron Collider, LHC]），以探索物质基本组成与宇宙演化规律。在科技政策与科学学视阈中，CERN 不仅依托战略性公共采购与供应链技术学习机制在民用工业领域催生巨额外溢效应，其数千名物理学家联合攻关的实验合作组更成为剖析现代巨型扩展团队（Extended Teams）微观演化与超级署名现象的标志性范例。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
+> 欧洲核子研究组织（European Organization for Nuclear Research / CERN）是 1954 年由欧洲 12 国联合创设、总部设于瑞士日内瓦的全球顶级跨国[[Big Science|大科学]]基础研究机构；其核心使命是为全球粒子物理学界提供超越单国财政与工程极限的巨型科研基础设施（如大型强子对撞机 [Large Hadron Collider, LHC]），以探索物质基本组成与宇宙演化规律。在科技政策与科学学视阈中，CERN 不仅依托战略性公共采购与供应链技术学习机制在民用工业领域催生巨额外溢效应，其数千名物理学家联合攻关的实验合作组更成为剖析现代巨型扩展团队（Extended Teams）微观演化与[[Hyperauthorship|超级署名]]现象的标志性范例。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1954 年 9 月在[[UNESCO|联合国教科文组织]]倡议与推动下由 12 个欧洲创始国签署公约成立，旨在汇聚战后欧洲破碎分散的科研资源与物理人才，重塑欧洲在基础物理前沿的全球[[Competitiveness|竞争力]]。

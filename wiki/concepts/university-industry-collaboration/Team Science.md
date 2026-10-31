@@ -6,7 +6,7 @@ aliases:
 summary: "以跨学科、跨机构或大规模协同为特征的科研组织范式；依托前沿知识负担加重与大型复杂仪器驱动，团队模式在当代科学中确立了主导地位，享有显著的相对团队影响力与超额引文溢价，同时也面临沟通协调成本与声望层级固化的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Too-Much-Talent Effect]]"
   - "[[Document]]"
+  - "[[Citation Distribution]]"
   - "[[Epistemology]]"
   - "[[Invisible College]]"
   - "[[Coauthorship Network]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-10-30
 > | 研究文献 | 分析样本 | 关键指标 | 核心量化发现 | 证据力度 |
 > |:---|:---|:---|:---|:---|
 > | Wuchty et al. (2007) | 1,990 万篇论著与 210 万件专利 | 团队成果占比变动（1955–2000） | 理工科团队成果从 50% 增至 80.0%，社科从 17.5% 增至 51.5% | 极高（全学科全量大数据） |
-> | Wuchty et al. (2007) | 科技与专利文献库 | 1,000 次以上引文相对概率 | 科学与工程领域团队成果获千次引用的概率是单人的 6.3 倍 | 极高（极值引文分布） |
+> | Wuchty et al. (2007) | 科技与专利文献库 | 1,000 次以上引文相对概率 | 科学与工程领域团队成果获千次引用的概率是单人的 6.3 倍 | 极高（极值[[Citation Distribution\|引文分布]]） |
 > | Jones et al. (2008) | 420 万篇跨校论著 | 跨校成果份额（1975–2005） | 科学与工程领域跨校合作份额翻两番达到 32.8%，社科达 34.4% | 高（三十年长周期追踪） |
 > | Cummings and Kiesler (2005) | 斯坦福大学 2,034 名教员 | 跨越 15 年科研基金获批追踪 | 团队协作显著提升基金申报成功率并带来显著更大的资助总额 | 高（十五年纵向行政数据） |
 

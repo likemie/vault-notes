@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 80
+related_count: 83
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
+  - "[[Scientific Paradigm]]"
   - "[[Variable]]"
   - "[[Scale of Measurement]]"
   - "[[Commensuration]]"
@@ -35,7 +36,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[School Inspection]]"
-  - "[[Scientific Paradigm]]"
   - "[[National Character]]"
   - "[[Governing by Numbers]]"
   - "[[Lifelong Learning]]"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Intercultural Education]]"
+  - "[[Document]]"
   - "[[Geopolitics]]"
   - "[[Politics of Knowledge]]"
   - "[[Knowledge Power]]"
@@ -68,14 +69,18 @@ related_theories:
   - "[[Tianxia Heuristic]]"
   - "[[Phenomenology]]"
 related_methods:
+  - "[[Bibliometric Analysis]]"
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Problem Approach]]"
+  - "[[Network Analysis]]"
   - "[[Mixed Methods Research]]"
-  - "[[Bibliometric Analysis]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Thomas Kuhn]]"
   - "[[Louis Cohen]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Wolfgang Mitter]]"
   - "[[Friedrich Schneider]]"
   - "[[Karl Popper]]"
@@ -85,8 +90,6 @@ related_persons:
   - "[[Sotiria Grek]]"
   - "[[Jurgen Schriewer]]"
   - "[[Robert K. Merton]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[Positivist Dispute in German Sociology]]"
   - "[[OECD]]"
@@ -97,12 +100,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: 2026-06-13
@@ -124,8 +127,8 @@ updated: 2026-10-31
 >
 > *A paradigm is a way of looking at or researching phenomena, a world view, a view of what counts as accepted or correct scientific knowledge or ways of working, an 'accepted model or pattern' (Kuhn, 1962: 23), a shared system of beliefs or set of principles, a shared consensus, identity for a community of researchers, a way of pursuing knowledge, consensus on what problems are to be investigated and how such investigations are to be conducted, typical solutions to problems, and an understanding that is more acceptable than its rivals.*
 
-> [!citation-card] 顶层奠基性成果与科学范式开辟
-> 顶层高被引论著往往代表开辟全新研究范式的奠基性突破。百年文献计量分析表明，尽管多数成果沉没于引文尾部，但少数具有范式开创力的成果在微观上重塑了学术共同体的解谜框架，并在宏观上吸纳了越来越大的被引份额。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+> [!citation-card] 顶层奠基性成果与[[Scientific Paradigm|科学范式]]开辟
+> 顶层高被引论著往往代表开辟全新研究范式的奠基性突破。百年[[Bibliometric Analysis|文献计量分析]]表明，尽管多数成果沉没于引文尾部，但少数具有范式开创力的成果在微观上重塑了学术共同体的解谜框架，并在宏观上吸纳了越来越大的被引份额。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 >
 > *Top-cited publications often represent groundbreaking discoveries that open up entirely new paradigms. Over the course of a century, these pioneer papers absorb an increasing fraction of the community's citations.*
 
@@ -175,7 +178,7 @@ updated: 2026-10-31
 > > **无法化约的异常积累引发不可逆的范式转换** 当既有范式无法解释的“异常”（anomalies）持续积累并引发普遍信任危机时，学术共同体陷入动荡，最终通过科学革命建立新范式；历史上的重大转折（托勒密地心说转向哥白尼日心说、牛顿机械力学转向相对论与演化宇宙观、[[Value Neutrality|价值中立]][[Positivism|实证主义]]转向[[Postpositivism|后实证主义]]与[[Critical Realism|批判实在论]]）均体现了这一不可逆的范式革命逻辑。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
-> > **顶尖成果对范式开辟与引文份额的长期锁定** 王大顺与巴拉巴西通过对《物理评论》跨越百余年全量出版物的追踪表明，能够引发库恩式科学革命并开辟全新研究范式的顶尖成果具有极高的引文集聚效应；在过去一个世纪中，排名前 1% 的顶尖范式成果在发表次年所吸纳的全部引文份额从 1900 年代的约 20% 稳步攀升至 2000 年代的 35%，证实了开辟新范式的突破性成果在宏观学术演化中具有对共同体注意力的深层锁定力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+> > **顶尖成果对范式开辟与引文份额的长期锁定** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]通过对《物理评论》跨越百余年全量出版物的追踪表明，能够引发库恩式科学革命并开辟全新研究范式的顶尖成果具有极高的引文集聚效应；在过去一个世纪中，排名前 1% 的顶尖范式成果在发表次年所吸纳的全部引文份额从 1900 年代的约 20% 稳步攀升至 2000 年代的 35%，证实了开辟新范式的突破性成果在宏观学术演化中具有对共同体注意力的深层锁定力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 
 ---
 
@@ -221,7 +224,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜；顶层开创成果长期锁定共同体注意力 | 自然科学与基础理论发展历史考察；引文网络分析 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; Wang & Barabási |
+> | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜；顶层开创成果长期锁定共同体注意力 | 自然科学与基础理论发展历史考察；引文[[Network Analysis\|网络分析]] | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; Wang & Barabási |
 > | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力；行政审计通过锁定单一范式消除知识争议 | 跨范式论战、研究方法争鸣、学术体制与国家质量审计 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国学术迁移 | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
 > | **评价与治理双重转换** | 评价认识论从大纲知识转向成人生活技能，超国家治理从硬法指令转向软性数字治理 | 跨国大规模测评认识论分析、超国家区域一体化治理与软法政策协调 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
@@ -235,7 +238,7 @@ updated: 2026-10-31
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
 > - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
-> - **2021 — 科学学引文网络与范式成果注意力极化** 王大顺与巴拉巴西基于跨越百年的物理学文献追踪，量化证实了开辟新范式的顶尖 1% 成果在次年所占引文份额从 20% 稳步攀升至 35%，为库恩科学革命论提供了长周期经验文献计量证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+> - **2021 — 科学学引文网络与范式成果注意力极化** 王大顺与巴拉巴西基于跨越百年的物理学[[Document|文献]]追踪，量化证实了开辟新范式的顶尖 1% 成果在次年所占引文份额从 20% 稳步攀升至 35%，为库恩科学革命论提供了长周期经验文献计量证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — [[Output-Oriented Governance|循证治理]]与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在[[Literature Review|文献综述]]中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
 
@@ -267,7 +270,7 @@ updated: 2026-10-31
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Salami Publishing]]"
   - "[[Scientific Method]]"
   - "[[Benefit of the Doubt in Peer Review]]"
+  - "[[Citation Distribution]]"
   - "[[Research Topic]]"
   - "[[Prizewinner Retroactive Spillover Effect]]"
   - "[[Reverse Matthew Effect in Academia]]"
@@ -103,7 +104,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -409,7 +410,7 @@ updated: 2026-10-30
 
 > [!figure]- 图3-1：学术声望对早期引用的跨越式促进效应
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-1_Crossover_Effect_Reputation_Citations.jpg)
-> *注：左图为不同学术年资学者新发表成果的早期被引概率与现有累积被引关系。在累积引用低于 $c_x$ 阈值时，顶尖物理学家（红线）获得引用的概率为青年学者（蓝线）的 4 倍；右图展示引文分布，一旦超越 $c_x \approx 40$ 阈值，所有学者的引用动力学曲线彻底趋同并由成果内在质量主导（p. 33）。*
+> *注：左图为不同学术年资学者新发表成果的早期被引概率与现有累积被引关系。在累积引用低于 $c_x$ 阈值时，顶尖物理学家（红线）获得引用的概率为青年学者（蓝线）的 4 倍；右图展示[[Citation Distribution|引文分布]]，一旦超越 $c_x \approx 40$ 阈值，所有学者的引用动力学曲线彻底趋同并由成果内在质量主导（p. 33）。*
 
 > [!phase] 声望效应在引用生命周期中的三阶段衰退
 > - **先发声望助推期**

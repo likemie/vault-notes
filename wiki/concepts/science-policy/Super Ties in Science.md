@@ -9,7 +9,7 @@ aliases:
 summary: "描述科研人员合作网络中极度紧密、持久且高产的深度伙伴关系的科学学概念；尽管科学界绝大多数合作属于仅维系一两年的弱联结，但平均每 25 位合署学者中即存在 1 位终身超级搭档，其成果产出速率高出常规合作 8 倍且享有显著超额引文溢价。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,10 +21,13 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Metascience]]"
   - "[[Variable]]"
+  - "[[Homophily]]"
   - "[[Document]]"
 related_methods:
   - "[[Effect Size]]"
 related_persons:
+  - "[[Michael S. Brown]]"
+  - "[[Joseph L. Goldstein]]"
   - "[[Alexander M. Petersen]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -35,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -72,7 +75,7 @@ updated: 2026-10-30
 > [!feature] 核心要素
 > - **互补性认知结构（Complementary Knowledge）** 初次合作往往选择工作风格与技能相似的熟人；而能够升华为超级联结的学者，双方必然拥有异质且高度互补的技术储备，使二人能够合力攻克单兵无法涉足的复杂前沿。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 122)]]
 > - **极高的发生概率与职业定义功能** 统计证实，9% 的生物学者与 20% 的物理学者拥有合署半数以上论著的超级搭档，确立了超级纽带作为驱动卓越科研的关键组织形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 121)]]
-> - **布朗与戈尔茨坦的诺贝尔奖典范** 德克萨斯大学西南医学中心的迈克尔·布朗（Michael S. Brown）与约瑟夫·戈尔茨坦（Joseph L. Goldstein）共同署名超过 509 篇学术论著（占各自总发表量的 95% 以上），二人合作发现低密度脂蛋白（LDL）受体荣获 1985 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]，直接催生了他汀类降脂药阿托伐他汀的面世，成为改变人类健康的超级联结典范。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
+> - **布朗与戈尔茨坦的诺贝尔奖典范** 德克萨斯大学西南医学中心的[[Michael S. Brown|迈克尔·布朗]]（Michael S. Brown）与[[Joseph L. Goldstein|约瑟夫·戈尔茨坦]]（Joseph L. Goldstein）共同署名超过 509 篇学术论著（占各自总发表量的 95% 以上），二人合作发现低密度脂蛋白（LDL）受体荣获 1985 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]，直接催生了他汀类降脂药阿托伐他汀的面世，成为改变人类健康的超级联结典范。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -118,7 +121,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 概念演变
-> - **1974 — 布朗与戈尔茨坦诺贝尔奖级超级搭档起步** 迈克尔·布朗（Michael S. Brown）与约瑟夫·戈尔茨坦（Joseph L. Goldstein）启动长达半个世纪的紧密合作，共同署名 509 篇论著并获 1985 年诺贝尔奖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
+> - **1974 — 布朗与戈尔茨坦诺贝尔奖级超级搭档起步** [[Michael S. Brown|迈克尔·布朗]]（Michael S. Brown）与[[Joseph L. Goldstein|约瑟夫·戈尔茨坦]]（Joseph L. Goldstein）启动长达半个世纪的紧密合作，共同署名 509 篇论著并获 1985 年诺贝尔奖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
 > - **2013 — 初识与长效合作的微观机制分化** 利纳斯·达兰德（Linus Dahlander）与丹尼尔·麦克法兰（Daniel A. McFarland）基于斯坦福教员网络揭示初次合作相似性与长期合作互补性的机制分水岭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 122)]]
 > - **2015 — 科学超级联结[[Construct|构念]]数理形式化** 亚历山大·彼得森（Alexander M. Petersen）在 PNAS 发文系统提出 Super Ties 构念，量化分析科研弱纽带流失与超级纽带溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 121–122)]]
 > - **2021 — 科学学团队[[Assemblage|组装]]理论整合** 王大顺与巴拉巴西在《[[Metascience|科学的科学]]》将超级联结与微观团队组配模型融为一体，确立其在科研职业发展中的核心基石地位。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 121–123)]]
@@ -138,7 +141,7 @@ updated: 2026-10-30
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Petersen (2015)]] | 细胞生物学与物理学 473 位核心学者，166,000 条合著记录 | 终身合著网络生命周期生存分析与分位数回归 | 弱纽带比例、超级联结发生率、成果发表速率与引文溢价 | 60%–80% 合作仅存活 1 年；存活超 2 年合作中 65% 在 5 年内终止；平均每 25 位合著者出现 1 位超级搭档（物理学家占 20%，生物学家占 9%）；与超级搭档合作时产出速率提升 8 倍，引文净影响高出 14 倍，平均单篇引文提升 17% | 显著（生存分析与分位数回归检验） | 样本聚焦自然科学资深学者完整合著轨迹 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Dahlander & McFarland (2013)]] | 斯坦福大学 1993 至 2007 年间 3,052 名教员发表、学生指导与基金记录 | 纵向网络微观演化回归模型 | 初次合作与长期存续合作的驱动因素对比 | 初次合作主要由物理空间邻近与人口学同质性驱动；长期存续的合作纽带则严格由异质互补专业技能与共有学术承诺所驱动 | $p < 0.01$ | 单一顶尖研究型大学组织样本 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Dahlander & McFarland (2013)]] | 斯坦福大学 1993 至 2007 年间 3,052 名教员发表、学生指导与基金记录 | 纵向网络微观演化回归模型 | 初次合作与长期存续合作的驱动因素对比 | 初次合作主要由物理空间邻近与人口学[[Homophily\|同质性]]驱动；长期存续的合作纽带则严格由异质互补专业技能与共有学术承诺所驱动 | $p < 0.01$ | 单一顶尖研究型大学组织样本 |
 
 ---
 

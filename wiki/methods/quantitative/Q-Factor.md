@@ -10,9 +10,9 @@ summary: "由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) �
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Impact]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Citation Distribution]]"
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Q-Model]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-10-30
 > - **变体与扩展** 早期与晚期阶段能力指标 $Q_{early}$ 与 $Q_{late}$，用于检测学者全生命周期能力的纵向漂移与稳态检验。
 
 > [!dev-timeline] 方法演化
-> - **2016 — 指标提出与数理求解** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）在《科学》（*Science*）论著中正式给出极大似然估计形式及其对数平均解析近似式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
+> - **2016 — 指标提出与数理求解** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）在《科学》（*Science*）论著中正式给出极大似然估计形式及其对数平均解析近似式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
 > - **2016 — 诺奖预测力竞争实证** 开展多指标预测竞赛，ROC 曲线实证表明 Q 因子的排序精度超越总被引、代表作被引和 h 指数，而发文量 $N$ 的预测效能垫底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
 > - **2021 — 专家打分实验的内在机制印证** 结合经济学顶级期刊同行简历评估实验，证实同行评议本能惩罚“稀释均质质量”的低层级发表，证明学界隐性评价遵从类似 Q 因子的均质偏好而非单调递增指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–70)]]
 
@@ -101,7 +102,7 @@ updated: 2026-10-30
 > - $\mu_p$：学科整体成果在十年窗口对数被引量的标准化常数。
 > - $Q_i$：学者个体能力因子。
 >
-> **数学直觉** 引文分布在实证上服从典型的重尾对数正态分布。直接采用算术平均容易被偶发的极端高引成果主导；取对数均值等于几何均值除以基准，能够平抑极端极大值并衡量成果分布的中心趋势，精确测度学者“平均每一篇产出”的扎实水准。
+> **数学直觉** [[Citation Distribution|引文分布]]在实证上服从典型的重尾对数正态分布。直接采用算术平均容易被偶发的极端高引成果主导；取对数均值等于几何均值除以基准，能够平抑极端极大值并衡量成果分布的中心趋势，精确测度学者“平均每一篇产出”的扎实水准。
 >
 > > [!example]- 手算示例
 > > 设学科基准 $\mu_p = 2.0$。某学者发表了 3 篇代表作，十年被引量分别为 100、150 和 80：

@@ -10,9 +10,9 @@ summary: "一种借鉴种群生态学调查原理测算互联网与数据库不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 17
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -22,15 +22,27 @@ tags:
   - method/model
   - scientometrics
 related_concepts:
+  - "[[Document]]"
+  - "[[Literature Search]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Sampling Error]]"
+  - "[[Heterogeneity]]"
   - "[[Big Science]]"
   - "[[Science Immediacy]]"
   - "[[Mountain of Science]]"
 related_theories: []
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Sample Size Determination]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Systematic Sampling]]"
+  - "[[Stratified Sampling]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
@@ -42,13 +54,13 @@ updated: 2026-10-31
 ---
 
 > [!def] Mark and Recapture Method in Scientometrics
-> 标记重捕法是一种在全域样本不可穷尽时推算文献总体规模的非参数抽样估计方法；该方法输入两个相互独立文献检索系统或数据库各自抽样捕获的文献集合（样本规模分别为 $M$ 与 $C$），通过比对二者交集确定重合捕获的文献量 $R$，依据捕获概率守恒计算重合捕获率并输出总体文献规模的点估计量 $\hat{N} = \frac{M \cdot C}{R}$ 及其置信区间。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 163)]]
+> 标记重捕法是一种在全域样本不可穷尽时推算[[Document|文献]]总体规模的非参数抽样估计方法；该方法输入两个相互独立[[Literature Search|文献检索]]系统或数据库各自抽样捕获的文献集合（样本规模分别为 $M$ 与 $C$），通过比对二者交集确定重合捕获的文献量 $R$，依据捕获概率守恒计算重合捕获率并输出总体文献规模的点估计量 $\hat{N} = \frac{M \cdot C}{R}$ 及其[[Confidence Interval|置信区间]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 163)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 互联网公开可访问或特定学术数据库未完全编目的全球科技文献总体规模（Total Volume of Scholarly Documents）。
 > - **问题类型** 总体容量无偏参数估计（Population Size Estimation）与数据库覆盖率测度。
-> - **分析单位** 科技论著、学术专著、会议报告或预印本独立条目实体。
-> - **输入数据** 两个或多个独立学术搜索引擎（如 Google Scholar、Microsoft Academic Search）通过均匀随机关键词检索抽取的文献条目标识符集合。
+> - **[[Unit of Analysis|分析单位]]** 科技论著、学术专著、会议报告或预印本独立条目实体。
+> - **输入数据** 两个或多个独立学术搜索引擎（如 Google Scholar、[[Microsoft Academic Graph|Microsoft Academic]] Search）通过均匀随机关键词检索抽取的文献条目标识符集合。
 > - **输出形式** 连续型正实数总体估计量 $\hat{N}$、查普曼小样本偏误修正值及其方差与渐近置信区间。
 
 > [!citation-card|notitle] 关键定义
@@ -59,7 +71,7 @@ updated: 2026-10-31
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 测算出的 $\hat{N}$ 代表两引擎检索抓取范围在全网重叠交集的理论极限，高度反映公开网络可索引文献体量，但未计入深度隐藏于付费防火墙之后且完全无开放元数据的沉没文献。
+> - **[[Construct Validity|构念效度]]** 测算出的 $\hat{N}$ 代表两引擎检索抓取范围在全网重叠交集的理论极限，高度反映公开网络可索引文献体量，但未计入深度隐藏于付费防火墙之后且完全无开放元数据的沉没文献。
 > - **研究者判断** 抽样检索词字典库构建、停用词过滤规则、两库相同文献跨数据库匹配消歧阈值（标题编辑距离与 DOI 比对）。
 > - **有效性标准** 两检索系统抓取行为的独立性检验、样本抽取的等概率无偏性以及重合样本识别的准确率。
 > - **不声称回答的问题** 总体估计量仅反映文献物理规模存量，不度量文献的学术质量、引用影响力或知识原创度。
@@ -89,7 +101,7 @@ updated: 2026-10-31
 > [!formula-step] 步骤一　林肯-彼得森基准总体规模估计
 > $$\hat{N} = \frac{M \cdot C}{R}$$
 >
-> **这个公式在做什么** 输入第一学术搜索引擎抽取的样本量 $M$、第二学术搜索引擎抽取的样本量 $C$，以及两样本中同时出现的重叠文献量 $R$，输出全域学术文献总量的无偏点估计值 $\hat{N}$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 163)]]
+> **这个公式在做什么** 输入第一学术搜索引擎抽取的[[Sample Size Determination|样本量]] $M$、第二学术搜索引擎抽取的样本量 $C$，以及两样本中同时出现的重叠文献量 $R$，输出全域学术文献总量的无偏点估计值 $\hat{N}$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 163)]]
 >
 > **符号说明**
 > - $\hat{N}$：全网或数据库全域学术文献总量的估计值；
@@ -128,14 +140,14 @@ updated: 2026-10-31
 >
 > **符号说明**
 > - $\hat{N}_{\text{Chapman}}$：修正后的总体规模无偏估计值；
-> - $\widehat{\mathrm{Var}}(\hat{N}_{\text{Chapman}})$：估计量的理论抽样方差，用于构建 95% 置信区间 $\hat{N} \pm 1.96 \sqrt{\widehat{\mathrm{Var}}}$。
+> - $\widehat{\mathrm{Var}}(\hat{N}_{\text{Chapman}})$：估计量的[[Theoretical Sampling|理论抽样]]方差，用于构建 95% 置信区间 $\hat{N} \pm 1.96 \sqrt{\widehat{\mathrm{Var}}}$。
 >
 > **数学直觉** 在有限样本抽样中，随机波动可能导致 $R$ 偏小，直接相除会导致极大极值；查普曼公式利用超几何分布期望的数学性质，通过在分子分母同步加入拉普拉斯平滑项，严格证明了其数学期望在样本满足 $M + C \ge N$ 时完全无偏。
 >
 > > [!example]- 手算示例
 > > 沿用前例数据 $M = 10,000$，$C = 8,000$，$R = 800$：
 > > $$\hat{N}_{\text{Chapman}} = \frac{10,001 \times 8,001}{801} - 1 \approx 99,899 \text{ 篇}$$
-> > 样本量较大时修正值与基准值高度吻合，微小下调修正了有限抽样误差。
+> > 样本量较大时修正值与基准值高度吻合，微小下调修正了有限[[Sampling Error|抽样误差]]。
 >
 > > [!formula-reading] 结果解读与注意事项
 > > | 类型 | 要点 | 说明 |
@@ -148,7 +160,7 @@ updated: 2026-10-31
 > [!software-impl] 软件实现
 > - **数据来源** Google Scholar、Microsoft Academic Search 或 OpenAlex 等学术检索系统开放接口。
 > - **核心包或命令** Python 标准库 `math`、科学计算包 `numpy`、`scipy.stats`。
-> - **实现流程** 提取两系统抽样数据列表，基于 DOI 与规范化标题计算交集，代入查普曼公式计算点估计值与 95% 置信区间。
+> - **实现流程** 提取两[[Systematic Sampling|系统抽样]]数据列表，基于 DOI 与规范化标题计算交集，代入查普曼公式计算点估计值与 95% 置信区间。
 > - **报告标准** 明确报告抽样检索词列表、两系统抽取样本数、重叠篇数、消歧算法准确度以及最终估计区间。
 
 > [!formula] Python 计算骨架
@@ -198,7 +210,7 @@ updated: 2026-10-31
 
 > [!method-fit] 适用判断
 > - **适合使用** 评估互联网开源学术文献规模、测定隐蔽学术灰色文献存量，以及核验不同文献数据库的收录完整性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 163)]]
-> - **谨慎使用** 两数据库抓取偏好高度趋同（如均优先抓取同一商业出版集团期刊）时，必须实施异质性加权校正。
+> - **谨慎使用** 两数据库抓取偏好高度趋同（如均优先抓取同一商业出版集团期刊）时，必须实施[[Heterogeneity|异质性]]加权校正。
 > - **不适合使用** 总体处于极度剧烈变动状态，或样本捕获概率与文献特征深度绑定的强选择性场景。
 
 > [!ref-table]- 参照基准与阈值
@@ -214,7 +226,7 @@ updated: 2026-10-31
 > - **测量偏误** 若高被引文献在两系统中均极易被检索到，而冷门文献双双被忽略，抽样异质性会导致重合率虚高，从而低估文献真实总体。
 > - **可比边界** 英文学术文献与非英文学术文献的抓取率存在显著鸿沟，基于英文词典抽样的估计值无法直接推广至全球多语言体系。
 > - **误用风险** 将特定搜索引擎可索引的网络公开学术资源，误读为人类历史上曾经出版过的全部纸质与闭源文献总和。
-> - **补救方式** 采用分层抽样设计（按学科、年代、语言分层估算）与多重捕获贝叶斯网络模型降低抽样偏差。
+> - **补救方式** 采用[[Stratified Sampling|分层抽样]]设计（按学科、年代、语言分层估算）与多重捕获贝叶斯网络模型降低抽样偏差。
 
 ---
 

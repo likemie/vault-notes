@@ -8,10 +8,10 @@ aliases:
 summary: "解释科研与创意团队如何从资深成员与新手组成的候选池中吸纳成员的生成性网络演化模型；通过资历参数与多样性参数量化团队成员经验累积与重复合作倾向，阐释合著网络巨连通分支的涌现机制，以及资深经验与新鲜思维配比对团队创新绩效的决定性作用。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - theme/science-of-science
@@ -22,13 +22,14 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Team Science]]"
   - "[[Creativity]]"
+  - "[[Assemblage]]"
   - "[[Heterogeneity]]"
   - "[[Giant Component]]"
   - "[[Metascience]]"
-  - "[[Clustering Coefficient]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
-  - "[[Assemblage]]"
+  - "[[Clustering Coefficient]]"
+  - "[[Social Sensitivity]]"
   - "[[Epistemic Friction]]"
   - "[[Analytical Stance]]"
 related_theories: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-30
 > [!claim] 核心判断
 > 团队[[Creativity|创造力]]高度依赖于资深老手与初入新秀之间的结构配比。通过团队规模 $m$、资历参数 $p$（在任资深者被选中的概率）与重复倾向参数 $q$（资深者选聘既往科研伙伴的概率）构筑的生成机制表明：团队成果质量与集体经验 $p$ 呈现正相关，而与重复合作倾向 $q$ 呈现负相关；仅由新手构成的团队缺乏驾驭风险的技能，而完全由旧搭档封闭抱团的团队则因认知同质化而丧失突破能力，唯有融合老手深厚经验与新锐视角的团队方能实现高水平知识产出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121, 254–256)]]
 >
-> 组装机制在微观层面决定了规模为 $m$ 的新团队中任意两名成员间四类连边的生成概率分布：
+> [[Assemblage|组装]]机制在微观层面决定了规模为 $m$ 的新团队中任意两名成员间四类连边的生成概率分布：
 > - **新手－新手连边（Newcomer–Newcomer）**
 >   $$P_{\text{new-new}} = (1 - p)^2$$
 > - **新手－老手连边（Newcomer–Incumbent）**
@@ -81,7 +82,7 @@ updated: 2026-10-30
 > [!dev-timeline] 理论版本与贡献
 > - **2005 — 原始模型创立** Guimerà et al. 确立 $p$ 与 $q$ 双参数生成机制，揭示微观组建规则对跨学科网络结构和团队表现的决定性作用。
 > - **2014 — 创意产业跨界验证** 研究者将模型推展至全球电子游戏开发与爵士乐录音历史，证实老手与新人的动态混搭是文化与科技创意领域普遍适用的通用法则。
-> - **2021 — 科学学系统化整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]在《[[Metascience|科学的科学]]》专著中将该模型确立为团队科学的核心理论基石之一，系统阐明网络凝聚与认知流动之间的张力平衡。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121, 254–256)]]
+> - **2021 — 科学学系统化整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]在《[[Metascience|科学的科学]]》专著中将该模型确立为团队科学的核心理论基石之一，系统阐明网络凝聚与认知流动之间的张力平衡。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121, 254–256)]]
 
 ---
 
@@ -125,7 +126,7 @@ updated: 2026-10-30
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 团队[[Assemblage\|组装]]经验效应（命题一；Guimerà et al., 2005） | **团队资历厚度维度（参数 $p$）**<br>团队中资深老手与初入新秀的配比如何？是否存在老手断层或全员经验匮乏？ | 团队成员的学术发端年限、历史代表作与基金项目承担记录。 | 高 $p$ 表明团队技术方法成熟且抗风险能力强；过低 $p$（全员新手）往往伴随研究方法缺陷与发表不确定性。 |
 > | 团队认知多样性效应（命题一；Wang & Barabási, 2021, p. 120） | **重复合作倾向维度（参数 $q$）**<br>老手成员是否倾向于反复与熟人搭档？是否系统吸纳新面孔？ | 团队成员之间既往共同合署成果的频次与时间跨度。 | 高 $q$ 表明存在学术小圈子抱团，知识背景重叠度高；低 $q$ 表明团队持续接入外部新鲜视角，具备更高的知识重组潜力。 |
-> | 宏观网络渗流相变（命题二；Wang & Barabási, 2021, pp. 254–256） | **全局连通网络维度（$p_c$ 与 $S$）**<br>该学科或机构集群是否跨越相变阈值形成巨连通分支？ | 全学科合著网络的拓扑连通子图分布、聚类系数与巨组件规模。 | 当老手跨界兼任率 $p > p_c$ 时，全网形成高效连通的学术共同体；若 $q$ 畸高，网络表现为局域密集但全局阻断的割裂状态。 |
+> | 宏观网络渗流相变（命题二；Wang & Barabási, 2021, pp. 254–256） | **全局连通网络维度（$p_c$ 与 $S$）**<br>该学科或机构集群是否跨越相变阈值形成巨连通分支？ | 全学科合著网络的拓扑连通子图分布、[[Clustering Coefficient\|聚类系数]]与巨组件规模。 | 当老手跨界兼任率 $p > p_c$ 时，全网形成高效连通的学术共同体；若 $q$ 畸高，网络表现为局域密集但全局阻断的割裂状态。 |
 
 ---
 
@@ -134,7 +135,7 @@ updated: 2026-10-30
 > - **成立条件** 具备长周期可追踪的合署网络数据，能够客观界定学术资历与既往合作关系。
 > - **解释不足** 假定老手与新手的转移概率外生固定，未充分考虑科研资助导向、考核指标与地理物理距离对组队决策的行政约束。
 > - **转化困难** 在缺乏客观署名记录的商业研发或贡献度模糊的行业，微观参数 $p$ 与 $q$ 难以精准计算。
-> - **不能直接推出** 理论无法单凭高 $p$ 低 $q$ 直接保证具体成果产出；团队内部的权力均等性与社会敏感度同样发挥重要调节作用。
+> - **不能直接推出** 理论无法单凭高 $p$ 低 $q$ 直接保证具体成果产出；团队内部的权力均等性与[[Social Sensitivity|社会敏感度]]同样发挥重要调节作用。
 
 ---
 

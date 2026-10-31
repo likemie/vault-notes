@@ -28,7 +28,7 @@ related_concepts:
   - "[[Clustering Coefficient]]"
   - "[[Six Degrees of Separation]]"
   - "[[Decodification]]"
-  - "[[Heterogeneity]]"
+  - "[[Citation Distribution]]"
   - "[[Giant Component]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
@@ -43,8 +43,8 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -92,12 +92,12 @@ updated: 2026-10-31
 > - **跨学科路径** 为科学学、流行病学与计算社会学提供通用的网络测度基底。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 依托纽曼合著网络实测分析科研协作（Unit 04），引入其引文分布极值幂律论断（Unit 07），并基于其 2009 年网络科学先发优势实测检验优先连接模型（Unit 08, pp. 186–187）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 依托纽曼合著网络实测分析科研协作（Unit 04），引入其[[Citation Distribution|引文分布]]极值幂律论断（Unit 07），并基于其 2009 年网络科学先发优势实测检验优先连接模型（Unit 08, pp. 186–187）。
 
 ---
 
 > [!person-network|notitle] 关系网络
-> - **合作同行** 邓肯·瓦茨（Duncan Watts）、[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási） — 共同推进复杂网络统计物理与小世界拓扑实证分析。
+> - **合作同行** 邓肯·瓦茨（Duncan Watts）、[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási） — 共同推进复杂网络统计物理与小世界拓扑实证分析。
 
 ---
 

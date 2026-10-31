@@ -26,16 +26,16 @@ related_concepts:
   - "[[Document]]"
   - "[[Team Science]]"
   - "[[Creativity]]"
+  - "[[Citation Disparity]]"
   - "[[Hot Streak]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Citation Distribution]]"
   - "[[Causality]]"
   - "[[Assemblage]]"
   - "[[Research Topic]]"
-  - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
-  - "[[Universality of Citation Distributions]]"
 related_theories:
+  - "[[Universality of Citation Distributions]]"
   - "[[Q-Model]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -53,10 +53,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -68,7 +68,7 @@ updated: 2026-10-31
 > [!person-profile|notitle] 人物档案
 > - **身份位置** 美籍华裔计算社会科学家与统计物理学者，西北大学凯洛格管理学院技术讲席教授，麦考密克工程学院工业工程与管理科学系教授，科学学与创新科学中心（CSSI）创始主任。
 > - **核心角色** 当代科学学（[[Metascience|Science of Science]]）与创新动力学的主要开拓者之一，专注于融合全量[[Document|文献]]计量大数据、图表示学习与数理建模，识别微观科研行为与宏观知识演化规律。
-> - **代表贡献** 与合作团队系统建立团队规模与颠覆性创新的反比定律（[[Team Science|团队科学]]）、量化职业生涯[[Creativity|创造力]]聚集的“热手效应”（Hot Streaks）、形式化科学生产力跨栏机制与引文极端分布规律（[[Citation Disparity|引文失衡]]与[[Universality of Citation Distributions|引文分布普适性]]），并与导师[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]合撰里程碑专著《科学学》（*The Science of Science*）。
+> - **代表贡献** 与合作团队系统建立团队规模与颠覆性创新的反比定律（[[Team Science|团队科学]]）、量化职业生涯[[Creativity|创造力]]聚集的“热手效应”（Hot Streaks）、形式化科学生产力跨栏机制与引文极端分布规律（引文失衡与[[Universality of Citation Distributions|引文分布普适性]]），并与导师[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]合撰里程碑专著《科学学》（*The Science of Science*）。
 
 > [!citation-card] 王大顺论科学学研究纲领
 > 科学学将科学本身置于实证显微镜下，借助全量机器可读元数据与复杂系统模型，把零散的科研经验升华为具备预测力与可重复性的科学规律。科学知识库的爆发式增长不仅改变了研究方式，更使系统量化发现机制、合作形态与创新路径成为可能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–3)]]
@@ -90,7 +90,7 @@ updated: 2026-10-31
 ---
 
 > [!work-line|notitle] 主要著作
-> - **2012 — *Top 1% citation disparity in century-long physics literature*** 与巴拉巴西、宋超明调取《物理评论》1893 至 2009 年逾 46 万篇成果，揭示顶层 1% 成果的引文份额从 1940 年代的 8% 持续攀升至 2000 年代的 20% 以上，定量证实科学界注意力与声望的加剧富集规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+> - **2012 — *Top 1% [[Citation Disparity|citation disparity]] in century-long physics literature*** 与巴拉巴西、宋超明调取《物理评论》1893 至 2009 年逾 46 万篇成果，揭示顶层 1% 成果的引文份额从 1940 年代的 8% 持续攀升至 2000 年代的 20% 以上，定量证实科学界注意力与声望的加剧富集规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 > - **2018 — *Hot streaks in artistic, cultural, and scientific careers*** 运用长程追踪数据揭示[[Hot Streak|创造力爆发期]]在职业生涯中随机出现，且个体内表现出高产与高引紧密成簇的动力学特征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–74)]]
 > - **2019 — *Large teams develop and small teams disrupt science and technology*** 统计分析 60 年间 6,500 万项科研出版物、专利与软件代码，确证小型团队倾向于引入前沿思想产生颠覆性创新，大型团队则倾向于深化既有成熟[[Paradigm|范式]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–95)]]
 > - **2019 — *Quantifying the dynamics of failure across science, startups and security*** 建立从早期失败到最终成功转化的数学模型，确证持续尝试过程中的有效复盘机制是促成突破的关键阈值条件。
@@ -99,7 +99,7 @@ updated: 2026-10-31
 ---
 
 > [!claim|notitle] 核心思想
-> 科学探索与创新产出蕴含着高度普适的复杂系统动力学机理。个体在科研生涯中的突破时间点在统计上服从随机分布，但创造力的爆发期高度聚类成簇；团队规模的组织架构直接约束了[[Knowledge Production|知识生产]]的认知拓扑结构，微小团队开辟学科赛道，庞大团队推进工程化延展；宏观层面的科学成果引文分布呈现跨学科、跨时代的对数正态普适性崩塌与顶层引文失衡加剧现象。通过对海量经验文献开展全景建模，政策制定者与学术界能够理解科研生态的内生演进边界。
+> 科学探索与创新产出蕴含着高度普适的复杂系统动力学机理。个体在科研生涯中的突破时间点在统计上服从随机分布，但创造力的爆发期高度聚类成簇；团队规模的组织架构直接约束了[[Knowledge Production|知识生产]]的认知拓扑结构，微小团队开辟学科赛道，庞大团队推进工程化延展；宏观层面的科学[[Citation Distribution|成果引文分布]]呈现跨学科、跨时代的对数正态普适性崩塌与顶层引文失衡加剧现象。通过对海量经验文献开展全景建模，政策制定者与学术界能够理解科研生态的内生演进边界。
 
 > [!citation-card] 王大顺论团队规模的分工定律
 > 小型团队在科研构思中具有跨越传统学科界限的结构灵活性，更倾向于提出颠覆既有学术共识的新构想；大型团队则依托充裕的专业化分工与资源冗余，更适合快速跟进并规模化发展已被初步验证的研究方向。二者共同构成了健康科学知识生态不可或缺的双重支柱。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 92–95)]]

@@ -7,9 +7,9 @@ summary: "由 Stefan Wuchty, Benjamin F. Jones 与 Brian Uzzi (2007) 提出的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
+  - "[[Citation Distribution]]"
   - "[[Scientific Productivity]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-10-30
 ---
 
 > [!method-limits] 方法局限
-> - **测量偏误** 引文分布呈现重尾偏态，算术均值容易受极少数超级引文成果拉动。
+> - **测量偏误** [[Citation Distribution|引文分布]]呈现重尾偏态，算术均值容易受极少数超级引文成果拉动。
 > - **可比边界** RTI 将所有两人及以上成果统一归入团队类，掩盖了大团队与小团队在颠覆性与渐进式创新上的内部异质性。
 > - **误用风险** 容易将宏观文献计量层面的引文溢价误读为团队协作对科学真理性的直接背书，或简单作为学术机构强行推行组团考核的依据。
 > - **补救方式** 结合分位数回归、引入极端高引成果（如 Top 1% 或被引破千篇目）的几率比分析，并细分团队规模梯度。

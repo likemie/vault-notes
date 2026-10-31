@@ -10,10 +10,10 @@ summary: "美籍分子生物学家，首位克隆并测序水母绿色荧光蛋�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1951"
 died: ""
 lifespan: "1951–至今"
@@ -23,6 +23,8 @@ tags:
   - theme/molecular-biology
   - theme/scientific-credit
 related_concepts:
+  - "[[Concierge Service]]"
+  - "[[Knowledge Production]]"
   - "[[Scientific Credit]]"
   - "[[Matthew Effect in Academia]]"
 related_theories: []
@@ -31,6 +33,8 @@ related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Peter Woods]]"
+  - "[[Jack Douglas]]"
   - "[[Albert-László Barabási]]"
   - "[[Hua-Wei Shen]]"
 related_facts:
@@ -41,18 +45,18 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍分子生物学家，曾在美国伍兹霍尔海洋研究所（Woods Hole Oceanographic Institution, WHOI）担任研究员。
+> - **身份位置** 美籍分子生物学家，曾在美国[[Peter Woods|伍兹]]霍尔海洋研究所（Woods Hole Oceanographic Institution, WHOI）担任研究员。
 > - **核心角色** 绿色荧光蛋白（Green Fluorescent Protein, GFP）生物技术革命的先驱开拓者；在科学社会学中代表着因研究经费中断而被迫脱离学术轨道、其先驱奠基贡献在最高学术荣誉分配中被边缘化的典型学者。
 > - **代表贡献** 1992 年首度克隆并完成维多利亚多管发光水母（*Aequorea victoria*）绿色荧光蛋白全长 cDNA 测序，为活体细胞生物成像奠定了分子生物学工具基石。
 
 > [!citation-card] 普拉谢尔与科学贡献分配的残酷反差
-> 在 2008 年 12 月的诺贝尔奖晚宴上，道格拉斯·普拉谢尔身着租来的燕尾服坐在观众席中。他曾在 1992 年首次克隆出绿色荧光蛋白，这项工作被诺贝尔基金会赞誉为生物化学的指南针。然而，普拉谢尔仅以受邀客人的身份出席。当广播宣布该研究荣获诺贝尔化学奖时，他正准备前往阿拉巴马州亨茨维尔的丰田经销店开礼宾面包车上班。数十年前离开科学界的决定，使他彻底从诺贝尔评奖委员会的视野中滑落。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 134–135)]]
+> 在 2008 年 12 月的诺贝尔奖晚宴上，[[Jack Douglas|道格拉斯]]·普拉谢尔身着租来的燕尾服坐在观众席中。他曾在 1992 年首次克隆出绿色荧光蛋白，这项工作被诺贝尔基金会赞誉为生物化学的指南针。然而，普拉谢尔仅以受邀客人的身份出席。当广播宣布该研究荣获诺贝尔化学奖时，他正准备前往阿拉巴马州亨茨维尔的丰田经销店开[[Concierge Service|礼宾]]面包车上班。数十年前离开科学界的决定，使他彻底从诺贝尔评奖委员会的视野中滑落。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 134–135)]]
 >
 > *Prasher was in Stockholm to celebrate the impact his work has had on the world... However, Prasher was attending the banquet as a guest, not a prizewinner... On the morning of October 8, 2008, when Prasher heard on his kitchen radio the news that GFP-related research had won the Nobel Prize, he was just getting ready to go to work – not in a lab or university, but as a courtesy van driver at a Toyota dealership in Huntsville, Alabama... his decision to leave science decades ago also dropped him off the Nobel committee’s map.*
 
@@ -76,7 +80,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 科学突破的物质载体与工具基础高度依赖学者之间不计个人私利的早期无私共享。在面临科研资助断裂、被迫脱离建制化学术轨道时，将核心实验材料全数无私馈赠给同行研究网络，能使科学共同体的整体知识生产跨越个体职业生涯中断的障碍，但这种无私贡献在排他性的最高学术奖励分配建制中往往遭受系统性遗漏。
+> 科学突破的物质载体与工具基础高度依赖学者之间不计个人私利的早期无私共享。在面临科研资助断裂、被迫脱离建制化学术轨道时，将核心实验材料全数无私馈赠给同行研究网络，能使科学共同体的整体[[Knowledge Production|知识生产]]跨越个体职业生涯中断的障碍，但这种无私贡献在排他性的最高学术奖励分配建制中往往遭受系统性遗漏。
 
 ---
 

@@ -6,11 +6,11 @@ aliases:
   - 声誉分配算法
   - Shen-Barabasi Credit Allocation Algorithm
   - collective credit allocation
-summary: "由沈华伟与艾伯特－拉斯洛·巴拉巴西（Shen & Barabási, 2014）提出的科学计量学与网络算法；依托目标成果的前向施引文献构建局部共引网络，提取相关成果集合并构建学者参与度矩阵与共引强度向量，通过矩阵乘法 c = As 计算多学者团队中各成员所享有的客观声誉份额；在诺贝尔奖多合署人获奖成果中实现了 81% 的预测准确率，揭示了学术声誉取决于突破成果发表后的持续独立产出与历史学术地位积淀的计量规律。"
+summary: "由沈华伟与艾伯特-拉斯洛·巴拉巴西（Shen & Barabási, 2014）提出的科学计量学与网络算法；依托目标成果的前向施引文献构建局部共引网络，提取相关成果集合并构建学者参与度矩阵与共引强度向量，通过矩阵乘法 c = As 计算多学者团队中各成员所享有的客观声誉份额；在诺贝尔奖多合署人获奖成果中实现了 81% 的预测准确率，揭示了学术声誉取决于突破成果发表后的持续独立产出与历史学术地位积淀的计量规律。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,26 +25,32 @@ related_concepts:
   - "[[Document]]"
   - "[[Scientific Credit]]"
   - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
   - "[[Alphabetical Authorship]]"
   - "[[Coauthorship Network]]"
+  - "[[Emergence]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Author Contribution Disclosures]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Author Name Disambiguation]]"
+  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Hua-Wei Shen]]"
   - "[[Albert-László Barabási]]"
   - "[[Dashun Wang]]"
   - "[[Douglas Prasher]]"
-related_facts: []
+related_facts:
+  - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-31
 ---
 
 ---
@@ -67,7 +73,7 @@ updated: "2026-10-30"
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 输出的声誉份额真实反映了学术共同体基于引文网络形成的集体认知，能够有效跨越[[Alphabetical Authorship|字母序署名]]或名义挂名所制造的表面信息障碍；但该指标无法直接检验微观实验室内部的真实劳动投入，测量对象是社会感知的归属，有别于纯物理工时的耗费。
+> - **[[Construct Validity|构念效度]]** 输出的声誉份额真实反映了学术共同体基于引文网络形成的集体认知，能够有效跨越[[Alphabetical Authorship|字母序署名]]或名义挂名所制造的表面信息障碍；但该指标无法直接检验微观实验室内部的真实劳动投入，测量对象是社会感知的归属，有别于纯物理工时的耗费。
 > - **研究者判断** 施引文献时间窗口的选择、自引文献的清洗规则，以及相关共引成果参与度权重的分配策略（通常按学者人数平均分摊 $1/k$）。
 > - **有效性标准** 在 63 项包含多位合署学者的历史诺贝尔奖获奖代表作中，算法对最终获奖科学家的预测准确率达 81%（51 篇准确命中），且在字母序的物理学与贡献序的生物化学领域均表现出高度稳健性。
 > - **不声称回答的问题** 算法无法判断某项评奖决策在伦理道德层面是否公正，其功能在于揭示由客观引文结构所投射出的共同体平均认知趋势。
@@ -78,7 +84,7 @@ updated: "2026-10-30"
 > - **变体与扩展** 引入引文时序衰减因子的动态贡献模型；结合学者先发 h 指数或机构声望的复合贝叶斯推断模型。
 
 > [!dev-timeline] 方法演变
-> - **2014 — 沈华伟与巴拉巴西提出算法** 成果发表于《美国国家科学院院刊》（Proceedings of the National Academy of Sciences, PNAS），奠定了基于共引矩阵的集体声誉分配基本数学架构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]
+> - **2014 — 沈华伟与巴拉巴西提出算法** 成果发表于《[[National Academy of Sciences|美国国家科学院]]院刊》（Proceedings of the National Academy of Sciences, PNAS），奠定了基于共引矩阵的集体声誉分配基本数学架构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]
 > - **2021 — 纳入科学学教材体系** [[Dashun Wang|王大顺]]与巴拉巴西将该算法作为分析团队科研声誉分配、解释诺贝尔奖遗漏争议的核心量化工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 153–158)]]
 
 ---
@@ -194,7 +200,7 @@ updated: "2026-10-30"
 
 > [!method-stack] 数据口径
 > - **数据来源** 不同引文数据库的收录深度与期刊覆盖存在差异；跨库数据混用时须进行文献标识符（DOI/PMID）统一映射。
-> - **时间与范围** 需合理界定施引文献的时间观察窗；对于发表时间较短的新成果，因引文网络尚未充分涌现，算法输出可能呈现暂态波动。
+> - **时间与范围** 需合理界定施引文献的时间观察窗；对于发表时间较短的新成果，因引文网络尚未充分[[Emergence|涌现]]，算法输出可能呈现暂态波动。
 > - **清洗与归属** 严格执行学者姓名消歧，剔除目标学者群体的成果自引，控制小团体互引网络对共引权重的非正常扰动。
 > - **标准化** 算法输出为团队内部的相对声誉份额（和为 1.0）；进行跨领域或跨成果比较时，须结合目标成果的绝对引用量与学科基准分位数。
 
@@ -208,10 +214,10 @@ updated: "2026-10-30"
 ---
 
 > [!method-limits] 方法局限
-> - **测量偏误** 引文结构深嵌于学术马太效应与权威声望之中，算法测量的是学术共同体所持有的社会感知声誉（Perceived Credit），并不等同于实验室内部绝对客观的物理工时耗费。
+> - **测量偏误** 引文结构深嵌于[[Matthew Effect in Academia|学术马太效应]]与权威声望之中，算法测量的是学术共同体所持有的社会感知声誉（Perceived Credit），并不等同于实验室内部绝对客观的物理工时耗费。
 > - **可比边界** 青年学者与资深大师合作时面临先发声誉赤字（Credit Deficit），其应得份额易被资深学者历史庞大的高引论著库所吸附与稀释。
 > - **误用风险** 将算法输出的相对引文份额机械等同于科学发现的绝对正义，或将其作为单一指标直接绑定科研人员的人事晋升与薪酬核定。
-> - **补救方式** 结合贡献者角色分类法（CRediT）声明、主要署名者与通讯联络惯例及同行定性评议，实现算法计量与微观质性证据的互补印证。
+> - **补救方式** 结合[[Author Contribution Disclosures|贡献者角色分类]]法（CRediT）声明、主要署名者与通讯联络惯例及同行定性评议，实现算法计量与微观质性证据的互补印证。
 
 ---
 
@@ -229,10 +235,10 @@ updated: "2026-10-30"
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Scientific Credit]] | 测量对象 | 本算法测度与量化分配的核心构念。 |
+> | [[Scientific Credit]] | 测量对象 | 本算法测度与量化分配的核心[[Construct\|构念]]。 |
 > | [[Alphabetical Authorship]] | 测量对象 | 算法无需依赖署名位次，克服字母序署名的归属模糊。 |
 > | [[Matthew Effect in Academia]] | 理论 | 解释先发声望如何导致声誉吸附与先发赤字。 |
-> | [[Bibliometric Analysis]] | 上位方法 | 算法依托共引网络分析与科学计量学基础方法。 |
+> | [[Bibliometric Analysis]] | 上位方法 | 算法依托共引[[Network Analysis\|网络分析]]与科学计量学基础方法。 |
 > | [[Author Name Disambiguation]] | 前置方法 | 构建学者参与矩阵前必须完成的合著学者唯一标识消歧。 |
 
 ---

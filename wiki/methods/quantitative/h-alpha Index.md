@@ -10,7 +10,7 @@ summary: "由 Jorge E. Hirsch (2019) 提出的文献计量修正指标；在构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Team Science]]"
   - "[[Big Science]]"
+  - "[[Guest Authorship]]"
 related_theories: []
 related_methods:
   - "[[h-Index]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-10-30
 > > - **灰色虚线框** 动态原生 $h$ 核心有效面积（$h \times h$ 正方形）
 > > - **绿色实线框** 动态独立领导力 $h_\alpha$ 核心有效面积（$h_\alpha \times h_\alpha$ 正方形）
 > > - **灰线** $h$ 判定对角线 $y = x$
-> > - **红点与青点** 经验对照锚点（大工程挂名学者 $h=30, h_\alpha=6$ 与小团队领军学者 $h=16, h_\alpha=16$）
+> > - **红点与青点** 经验对照锚点（大工程[[Guest Authorship|挂名学者]] $h=30, h_\alpha=6$ 与小团队领军学者 $h=16, h_\alpha=16$）
 > >
 > > 调节双滑块可直观验证希尔施的核心论断：一位参与巨型工程但缺乏独立引领的学者（如 $h=30, \alpha=0.20 \implies h_\alpha=6$），其实质科学领导力不仅远低于其表面声誉，还会被小团队独立引领者（如 $h=16, \alpha=1.00 \implies h_\alpha=16$）显著反超。
 > >

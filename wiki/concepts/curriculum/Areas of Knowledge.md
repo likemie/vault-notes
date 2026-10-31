@@ -6,7 +6,7 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Reliability]]"
   - "[[Evidence Standards]]"
+  - "[[General Education]]"
   - "[[Geisteswissenschaften]]"
   - "[[Evaluative Judgement]]"
   - "[[Document]]"
@@ -39,7 +40,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
-  - "[[General Education]]"
+  - "[[Citation Distribution]]"
   - "[[Variable]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -52,6 +53,7 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
   - "[[Deanna Kuhn]]"
+  - "[[Vilfredo Pareto]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
@@ -103,7 +105,7 @@ updated: 2026-10-31
 > - **领域与迁移的动态结合（Dynamic Integration of Domain and Transfer）** 既尊重具体学科概念与[[Evidence Standards|证据标准]]的特异性，又通过提炼通用思维结构支持跨情境的批判性迁移。
 > - **日常判断的主客观连续统（Subjective-Objective Continuum in Everyday Judgement）** 在发展心理学中扩展为从个人品味、审美、价值观到社会事实与物理事实的连续谱系，体现认识论发展的领域非同步性。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 314–319)]]
 
-> [!note] 领域比较源于通识教育与学科割裂的双重问题
+> [!note] 领域比较源于[[General Education|通识教育]]与学科割裂的双重问题
 > 1965 年形成的六学科结构让学生接触语言、数学、社会科学、实验科学和其他选修领域，以多种思维方式维持通识广度。然而，并列修读不同学科并不会自动产生统整。[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）指出，大学预备课程中的学生往往把物理与历史、文学与心理学、历史与文学分别置于封闭隔间，考试形式还会强化这种分离。与此同时，学生在各科中使用了不同证据与解释方式，却未必能明确说出这些知识形式的根据和限制。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 45–47)]]
 
 > [!chain-link] 从学科分布到知识领域比较
@@ -261,11 +263,11 @@ updated: 2026-10-31
 
 ---
 
-> [!concept-proposition] 命题六｜跨知识领域的引文计量普遍遵从帕累托重尾分布与尺度不变性
+> [!concept-proposition] 命题六｜跨知识领域的引文计量普遍遵从[[Vilfredo Pareto|帕累托]]重尾分布与尺度不变性
 > **探讨维度　学科计量与累积优势跨领域普适性** 考察不同知识领域在评价指标与影响力分布上是否存在结构性共性，以及重尾分布是否跨学科成立。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]]
-> **跨知识领域引文分布的重尾普适性** 尽管不同知识领域在概念体系、验证程序与出版周期上存在显著差异，但在影响力分布上均表现出高度一致的帕累托（Pareto）80/20 重尾特征[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–177)]]。对 Web of Science 收录的 5800 万篇文献的跨领域分析表明，物理学、医学或社会科学各领域内部均呈现极端的被引不平等：若将文献堆叠为山峰，山体基部 2,500 米全部由零被引文献构成，而获得上万次引用的顶尖文献仅占山巅 1.5 厘米。这种跨越知识领域的尺度不变性表明，累积优势机制超越了个别学科的方法论特异性，构成了科学系统通用的结构规律。
+> **跨知识领域[[Citation Distribution|引文分布]]的重尾普适性** 尽管不同知识领域在概念体系、验证程序与出版周期上存在显著差异，但在影响力分布上均表现出高度一致的帕累托（Pareto）80/20 重尾特征[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–177)]]。对 Web of Science 收录的 5800 万篇[[Document|文献]]的跨领域分析表明，物理学、医学或社会科学各领域内部均呈现极端的被引不平等：若将文献堆叠为山峰，山体基部 2,500 米全部由零被引文献构成，而获得上万次引用的顶尖文献仅占山巅 1.5 厘米。这种跨越知识领域的尺度不变性表明，累积优势机制超越了个别学科的方法论特异性，构成了科学系统通用的结构规律。
 
 ---
 

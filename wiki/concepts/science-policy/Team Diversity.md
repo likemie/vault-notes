@@ -8,35 +8,43 @@ aliases:
 summary: "在科学学与组织行为学中，指科研合作团队在成员特征上的异质性构成，涵盖族裔、国别、机构、学术年龄与学科背景等多重维度。实证研究表明团队层面的即时族裔多样性对科研成果长期被引具有显著的净提升效应，但跨机构与跨学科多元化在成果发表前亦伴随着较高的沟通与协调摩擦。"
 type: concept
 domain: "science-policy"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/team-science
   - theme/team-diversity
   - theme/metascience
 related_concepts:
+  - "[[Assemblage]]"
+  - "[[Heterogeneity]]"
+  - "[[Champ]]"
   - "[[Homophily]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Dashun Wang]]"
+related_facts:
+  - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
 > [!def] Team Diversity
-> 在科研团队组装与科学学分析中，指单项科研任务或学术成果研究成员在人口统计学特征、学术资历、隶属机构以及学科知识背景上的异质性分布状态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114–118)]]
+> 在科研团队[[Assemblage|组装]]与科学学分析中，指单项科研任务或学术成果研究成员在人口统计学特征、学术资历、隶属机构以及学科知识背景上的[[Heterogeneity|异质性]]分布状态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114–118)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向团队成员在族裔、机构、学科、性别与学术资历等多维特征上的差异度组合与知识交叉结构。
@@ -46,12 +54,12 @@ updated: 2026-10-30
 > [!citation-card|notitle] 团队多样性与学术影响力增益
 > 在控制发表年份、署名规模、学科领域、学者前期学术声望与大学排名后，多样性与科学影响力的明确关联依然稳固：团队的族裔多样性带来了 10.63% 的影响力增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 115)]]
 >
-> *Indeed, even when they controlled for publication year, number of authors, field of study, author impact level prior to publication, and university ranking, the clear association between diversity and scientific impact remained: Ethnic diversity on a team was associated with an impact gain of 10.63 percent.*
+> *Indeed, even when they controlled for publication year, number of authors, [[Champ|field]] of study, author impact level prior to publication, and university ranking, the clear association between diversity and scientific impact remained: Ethnic diversity on a team was associated with an impact gain of 10.63 percent.*
 
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 团队多样性（Team Diversity） | 个体多样性（Individual Diversity） | [[Homophily|同质偏好]]（Homophily） |
+> | 维度 | 团队多样性（Team Diversity） | 个体多样性（Individual Diversity） | [[Homophily\|同质偏好]]（Homophily） |
 > |------|----------------------------|---------------------------------|-----------------------------------|
 > | 分析对象 | 单篇论著合署名单的背景异质度 | 单一学者整个职业生涯合著者背景的多样度 | 合作网络中个体倾向寻找同质成员的组装倾向 |
 > | 核心机制 | 即时汇聚异质认知视角，促进假说交叉碰撞 | 学者自身开放合作倾向与跨界社交资本积累 | 心理安全感与沟通便利降低前期交易成本 |
@@ -93,7 +101,7 @@ updated: 2026-10-30
 > [!concept-proposition] 命题二｜即时项目组队的异质性驱动力优于个体历史社交的开放度
 > **探讨维度　集体即时组装与个体社交属性的效能分野** 该命题厘清多样性红利的微观归因。研究检验成果影响力究竟源自单篇论著合作团队的即时碰撞，还是源自具备开放社交特征的优秀学者，证实团队当下的异质组合起决定性作用。
 >
-> [!claim] Wang, D.
+> [!claim] [[Dashun Wang|Wang, D.]]
 > **单篇成果团队多样性效应系统性压倒学者个人网络多样性** 对比衡量合署学者即时构成的“团队多样性”与汇总个人历史合作谱系的“个体多样性”，即使学者自身具备跨界社交习惯，若具体某项成果由同质团队完成，其引用表现依然平庸；相反，单篇成果合署团队的即时多样性对被引数量具有更强的正向决定作用。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 115–116)]]
 
 ---
@@ -109,25 +117,24 @@ updated: 2026-10-30
 > [!dev-timeline] 概念演变
 > - **2005–2008 年 — 早期探索阶段** 研究聚焦多校合作与跨学科合作对生产力的影响，揭示跨机构合作的引文优势与前期摩擦。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 115, 118)]]
 > - **2014 年 — 族裔与人口学拓展阶段** 引入姓名学算法识别 250 万篇论著合署者族裔，确证同质合作惩罚与异质合作优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114–115)]]
-> - **2018 年 — 大数据全维确证阶段** 基于 900 万篇论著将多样性形式化为五大维度，控制变量后确立族裔多样性的稳健引文增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 115–116)]]
+> - **2018 年 — 大数据全维确证阶段** 基于 900 万篇论著将多样性形式化为五大维度，控制[[Variable|变量]]后确立族裔多样性的稳健引文增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 115–116)]]
 
 ---
 
 > [!warning|limits] 适用局限与幸存者偏差
-> 团队多样性对科学影响力的正向促进结论主要建立在已成功发表的学术出版物数据之上。美国国家科学基金会（NSF）对 500 余个科研攻关项目的全程追踪表明，多元化团队在研究启动与执行的预发表阶段，极易面临学科壁垒、术语分歧与沟通协调成本过高的问题，其项目流产或无法形成正式发表成果的风险显著高于同质团队。未跨越协调摩擦的失败团队构成了文献计量分析中的数据盲区。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 118)]]
+> 团队多样性对科学影响力的正向促进结论主要建立在已成功发表的学术出版物数据之上。[[National Science Foundation|美国国家科学基金会]]（NSF）对 500 余个科研攻关项目的全程追踪表明，多元化团队在研究启动与执行的预发表阶段，极易面临学科壁垒、术语分歧与沟通协调成本过高的问题，其项目流产或无法形成正式发表成果的风险显著高于同质团队。未跨越协调摩擦的失败团队构成了[[Bibliometric Analysis|文献计量分析]]中的数据盲区。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 118)]]
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|AlShebli et al. (2018)]] | 900 万篇论著与 600 万名科学家，覆盖 24 个学术子领域 | 观察性大数据回归分析 | 族裔、年龄、性别、机构多样性对五年被引之关联 | 族裔多样性与被引相关系数 $r = 0.77$，控制年份、领域、团队人数、既往影响力和大学排名后带来 10.63% 净引文增益 | $p < 0.001$ | 仅反映发表成功的出版样本，未覆盖发表前流产项目 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Freeman & Huang (2014)]] | 1985–2008 年美国学者发表的 250 万篇论著 | 计量经济学回归模型 | 族裔多样性对成果引用之影响 | 4–5 位不同族裔学者合署成果较纯同质团队引用高出 5%–10% | — | 美国本土学术样本，受特定移民与科研资助结构影响 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Cummings & Kiesler (2005)]] | 美国国家科学基金会（NSF）资助的 500+ 个科研项目 | 纵向追踪调查与项目绩效评估 | 团队跨机构与跨学科异质性对产出之影响 | 跨机构多元团队协调摩擦显著更高，报告的协同与项目产出显著低于单一机构团队 | — | 揭示发表前失败风险，与文献发表后的多样性高引用形成互补解释 |
 
 ---
 

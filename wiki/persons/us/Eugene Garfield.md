@@ -23,22 +23,22 @@ tags:
   - theme/citation-networks
   - theme/science-of-science
 related_concepts:
-  - "[[Citation Distribution]]"
+  - "[[Import Substitution Industrialisation]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Collective Intelligence]]"
+  - "[[Scientific Credit]]"
+  - "[[Variable]]"
   - "[[Citation Disparity]]"
-  - "[[Big Science]]"
-  - "[[Scientific Productivity]]"
+  - "[[Citation Distribution]]"
 related_theories:
   - "[[Universality of Citation Distributions]]"
-  - "[[Price's Law]]"
-  - "[[Preferential Attachment in Academia]]"
 related_methods:
-  - "[[Relative Citation Normalization]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
@@ -51,12 +51,12 @@ updated: 2026-10-31
 ---
 
 > [!person-profile|notitle] 人物档案
-> - **身份位置** 美国语言学家、信息科学家，科学信息研究所（Institute for Scientific Information, ISI）创办人，现代科学计量学与信息计量学奠基者。
-> - **核心角色** 构想并建立了全球首个结构化大规模科学引文索引系统，打破以学科分类表为主的传统主题检索模式，开创以“引文链接”映射科学思想渊源与学科交叉脉络的量化科学学范式。
-> - **代表贡献** 1955 年在《科学》发表开创性论著构想科学引文索引，1964 年正式商业化发布科学引文索引（Science Citation Index, SCI）；与欧文·H·谢尔（Irving H. Sher）整理早期引文数据，为德里克·J·德索拉·普赖斯（Derek J. de Solla Price）发现引文网络幂律分布提供数据奠基；创立期刊影响因子（Journal Impact Factor, JIF）体系。
+> - **身份位置** 美国语言学家、信息科学家，科学信息研究所（Institute for Scientific Information, [[Import Substitution Industrialisation|ISI]]）创办人，现代[[Bibliometric Analysis|科学计量学]]与信息计量学奠基者。
+> - **核心角色** 构想并建立了全球首个结构化大规模科学引文索引系统，打破以学科分类表为主的传统主题检索模式，开创以“引文链接”映射科学思想渊源与学科交叉脉络的量化科学学[[Paradigm|范式]]。
+> - **代表贡献** 1955 年在《科学》发表开创性论著构想科学引文索引，1964 年正式商业化发布科学引文索引（Science Citation Index, SCI）；与欧文·H·谢尔（Irving H. Sher）整理早期引文数据，为[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price）发现引文网络幂律分布提供数据奠基；创立期刊影响因子（Journal Impact Factor, JIF）体系。
 
 > [!citation-card] 加菲尔德论引文索引作为科学思想网络的构建逻辑
-> 科学文献构成了巨大的概念与思想交织网络，传统的按主题词分类编目方法受制于词义变迁与分类员的主观判断，难以追踪颠覆性突破在跨学科领域的真实渗透。通过系统标引每一篇出版物所引用的前人文献，能够建立起一种由科研人员通过实际引证行为自下而上勾勒的客观思想谱系网络。(Garfield, 1955, pp. 108–111)
+> 科学[[Document|文献]]构成了巨大的概念与思想交织网络，传统的按主题词分类编目方法受制于词义变迁与分类员的主观判断，难以追踪颠覆性突破在跨学科领域的真实渗透。通过系统标引每一篇出版物所引用的前人文献，能够建立起一种由科研人员通过实际引证行为自下而上勾勒的客观思想谱系网络。(Garfield, 1955, pp. 108–111)
 >
 > *The scientific literature forms a vast web of concepts. Traditional subject indexing is constrained by shifting terminologies and subjective categorization. By indexing citations, we create a network of intellectual associations built directly by active researchers themselves.*
 
@@ -85,7 +85,7 @@ updated: 2026-10-31
 ---
 
 > [!claim|notitle] 核心思想
-> 学术引文不仅是尊重知识产权与标注学术渊源的学术伦理规范，更是勾勒人类知识网络流动与学术思想传承的拓扑链环。通过大规模索引学术成果的参考文献，引文从微观上汇聚了成千上万独立研究者自主决策的去中心化同行背书，在宏观上构成了衡量学术影响力和反映共同体集体智慧的客观测度基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–183)]]
+> 学术引文不仅是尊重知识产权与标注学术渊源的学术伦理规范，更是勾勒人类知识网络流动与学术思想传承的拓扑链环。通过大规模索引学术成果的参考文献，引文从微观上汇聚了成千上万独立研究者自主决策的去中心化同行背书，在宏观上构成了衡量学术影响力和反映共同体[[Collective Intelligence|集体智慧]]的客观测度基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–183)]]
 
 > [!citation-card] 加菲尔德论引文作为学术声誉与知识流动的载体
 > 科学引文网络本质上由活跃学者个体自发投票形成。每一次引用都是对前人成果价值的背书与确认；成千上万分散的离散引用行为在宏观上汇聚为强大的客观评价力量，揭示出科学知识演化与范式更替的真实历史脉络。
@@ -95,13 +95,13 @@ updated: 2026-10-31
 ---
 
 > [!influence-path|notitle] 影响路径
-> - **理论路径** 确立将引文作为知识流动、学术承认与共同体权威测度代理变量的理论传统，奠定科学计量学理论大厦。
+> - **理论路径** 确立将引文作为知识流动、[[Scientific Credit|学术承认]]与共同体权威测度代理[[Variable|变量]]的理论传统，奠定科学计量学理论大厦。
 > - **方法路径** 发明 SCI 索引编制技术与期刊影响因子算法，使大规模文献网络拓扑分析与科学知识图谱测绘成为可能。
 > - **政策路径** 促使全球高校、科研机构与政府基金会普遍采用被引频次与引文指标开展科研绩效评估与人才选拔。
 > - **产业与基础设施路径** 创立 ISI（现科睿唯安 Clarivate / Web of Science），建立起全球科技文献数据商业化运营与跨国流通的技术标准。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 依托加菲尔德科学引文索引 5800 万篇全量数据揭示引文差距与顶层极化，阐明引文计数汇聚去中心化同行认可的集体智慧本质（pp. 169–181）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 依托加菲尔德科学引文索引 5800 万篇全量数据揭示[[Citation Disparity|引文差距]]与顶层极化，阐明引文计数汇聚去中心化同行认可的集体智慧本质（pp. 169–181）。
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-10-31
 ---
 
 > [!warning|notitle] 未解问题与边界
-> - 绝对引文频次受学科引用容量与发表年代的强烈干扰，直接进行跨学科对比会产生系统性偏差，必须依赖相对引文标准化算法进行修正。
+> - 绝对引文频次受学科引用容量与发表年代的强烈干扰，直接进行跨学科对比会产生系统性偏差，必须依赖[[Relative Citation Normalization|相对引文标准化]]算法进行修正。
 > - 引文网络无法直接区分批判性反驳引用、仪式性引证与实质性学术继承，需结合自然语言处理与全文上下文分类深入解析。
 
 ---

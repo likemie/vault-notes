@@ -11,9 +11,9 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"
@@ -63,6 +63,8 @@ related_persons:
   - "[[Anita Williams Woolley]]"
   - "[[Roger Guimera]]"
   - "[[Brian Uzzi]]"
+  - "[[Michael S. Brown]]"
+  - "[[Joseph L. Goldstein]]"
   - "[[Stasa Milojevic]]"
   - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
@@ -78,7 +80,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-31
 ---
 
 ---
@@ -193,7 +195,7 @@ updated: "2026-10-30"
 > [!contrast-table] 科学团队五大多样性维度的实证效应比对
 > | 多样性维度 | 测量指标与数据基础 | 关键计量实证结果 | 理论解释机制 |
 > |:---|:---|:---|:---|
-> | **族裔多样性** | 结合学者姓名算法推断族裔背景；覆盖 250 万篇全美论著及 100 万篇跨国论著 | 享有最强引文关联（$r = 0.77$）；严格控制年份、领域与大学声望后仍带来 10.63% 净引文增益（pp. 114–115） | 融合不同文化视角的思维框架，打破学术[[Homophily|同质偏好]]（Homophily）的思维狭隘。 |
+> | **族裔多样性** | 结合学者姓名算法推断族裔背景；覆盖 250 万篇全美论著及 100 万篇跨国论著 | 享有最强引文关联（$r = 0.77$）；严格控制年份、领域与大学声望后仍带来 10.63% 净引文增益（pp. 114–115） | 融合不同文化视角的思维框架，打破学术[[Homophily\|同质偏好]]（Homophily）的思维狭隘。 |
 > | **年龄多样性** | 依据学者首次发表时间推算学术年龄；分析全美科研人员团队构成 | 与引文呈现显著正相关（$r = 0.65$）；老中青三代梯队配比的团队表现优异（p. 116） | 资深学者的方法积淀与青年学者的敏锐思维达成有机互补。 |
 > | **机构多样性** | 识别多校联合署名模式；覆盖 420 万篇跨越三十年的全领域论著 | 跨校合作成果在几乎所有工程、自然与社科领域均具备稳定引文优势（Adams, 2013; Jones et al., 2008; p. 115） | 跨越单一大学的实验资源与仪器共享，促进异质[[Intellectual Capital\|智力资本]]对流。 |
 > | **团队即时构成与个体社交习惯的差异** | 区分单篇成果署名团队多样性与学者个人历史伙伴多样性 | 团队层面的即时多样性对最终引文的驱动作用显著高于个体层面的开放倾向（p. 115） | 影响力的提升源于当前具体攻关课题中异质思想的碰撞，而非个体的社交标签。 |
@@ -201,7 +203,7 @@ updated: "2026-10-30"
 > [!example] 集体智慧与群体协同机制
 > 心理测量学长期关注个体一般智力（$g$ 因子），而组织心理学家[[Anita Williams Woolley|阿妮塔·威廉姆斯·伍利]]（Woolley et al., 2010）通过系统的小组对照实验，测定了[[Collective Intelligence|集体智慧]]（常记作 $c$ 因子）。实测证实，团队胜任多样化复杂任务的能力超出单个成员的最高智商或平均智商，关键受三项互动特质调节：
 > 1. **成员平均[[Social Sensitivity|社会敏感度]]（Social Sensitivity）** 能够通过面部微表情敏锐察知同伴心理反馈的团队得分显著偏高；
-> 2. **会话轮换[[Turn-Taking Equality|发言的均等性]]（Equality in Turn-Taking）** 杜绝少数权威独占发言权、各方均能平等参与探讨的团队展现出最强解决问题能力；
+> 2. **会话轮换发言的均等性（Equality in Turn-Taking）** 杜绝少数权威独占发言权、各方均能平等参与探讨的团队展现出最强解决问题能力；
 > 3. **女性成员的合理占比** 女性比例更高的团队集体智慧普遍占优（统计检验表明，该效应由女性更高的平均社会敏感度所中介）（Woolley et al., 2010; p. 117）。
 
 > [!warning] 多样性团队的发表前摩擦与幸存者数据盲区
@@ -241,7 +243,7 @@ updated: "2026-10-30"
 > - **初次相识与终身搭档的机制异化** 斯坦福大学 3,052 名教员的长期跟踪证实，初次合作大多由机会巧合或技能相似性所驱动；而能够发展为跨越数十年超级联结的伙伴，双方必然具备高度异质且不可替代的专业互补性，并在长期磨合中升华为深厚的学术责任与信任（Dahlander & McFarland, 2013; p. 122）。
 
 > [!case] 布朗与戈尔茨坦（Brown & Goldstein）的诺贝尔奖级超级搭档典范
-> 德克萨斯大学西南医学中心的迈克尔·布朗（Michael S. Brown）与约瑟夫·戈尔茨坦（Joseph L. Goldstein）创造了现代生物医学界最辉煌的超级合作范式：
+> 德克萨斯大学西南医学中心的[[Michael S. Brown|迈克尔·布朗]]（Michael S. Brown）与[[Joseph L. Goldstein|约瑟夫·戈尔茨坦]]（Joseph L. Goldstein）创造了现代生物医学界最辉煌的超级合作范式：
 > - **95% 以上成果联合署名** 截至 2018 年，二人在 Web of Science 数据库中联名发表了高达 509 篇论著；在各自漫长的职业生涯中，Goldstein 仅有 22 篇成果没有 Brown 署名，而 Brown 仅有 4 篇成果没有 Goldstein 署名（pp. 122–123）。
 > - **发现低密度脂蛋白（Low-Density Lipoprotein, LDL）受体** 二人于 1974 年通力合作发现被称为坏胆固醇的低密度脂蛋白受体机制，揭示冠状动脉硬化与心血管疾病的底层病理，荣获 1985 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]（p. 123）。
 > - **造福全球人类健康** 二人的超级联结研究奠定了降胆固醇他汀类药物（Statins）的研发基础；畅销药阿托伐他汀（立普妥，Lipitor）在 14 年专利期内创造了超过 1,250 亿美元的世界药物销售纪录，拯救了全球数以千万计的心血管病患者生命（p. 123）。

@@ -11,7 +11,7 @@ summary: "文献计量学、科学学与计算社会科学领域的基础计算�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Epistemology]]"
   - "[[Big Science]]"
+  - "[[Hyperauthorship]]"
   - "[[Research Topic]]"
   - "[[Variable]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-30
 > - **同人异名与拼写变异（Spelling & Orthographic Variants）** 单一学者在出版记录中常呈现多重变体，涵盖中英文拼写差异、缩写习惯（如 J. Smith 与 John Smith）、婚姻变动更名、宗教更名、性别重置以及笔名发表。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
 > - **同名同姓的实体碰撞（Common Name Conflicts）** 常见姓名被巨量独立物理学者共享，特别在东亚姓名或英美高频姓氏中，导致简单字符匹配必然产生极端聚类膨胀。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
 > - **出版元数据严重缺失（Incomplete Metadata）** 早期期刊出版物与传统引文数据库常未记录学者的全名、二级所属院系机构、地理区位或电子邮箱，剥夺了传统消歧算法依赖的核心辅助特征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
-> - **超多署名与跨学科[[Big Science|大科学]]协作（Hyperauthorship & Interdisciplinary Collaborations）** 现代科研日益呈现数百乃至数千名学者联合署名的大团队特征，多学科与多机构的深度交织使得成功消歧其中部分署名人员无法自然延伸推断其余合作研究人员的真实身份。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
+> - **超多署名与跨学科[[Big Science|大科学]]协作（[[Hyperauthorship]] & Interdisciplinary Collaborations）** 现代科研日益呈现数百乃至数千名学者联合署名的大团队特征，多学科与多机构的深度交织使得成功消歧其中部分署名人员无法自然延伸推断其余合作研究人员的真实身份。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
 
 ---
 

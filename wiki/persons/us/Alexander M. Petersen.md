@@ -9,7 +9,7 @@ summary: "美国复杂系统科学与科学计量学者，加利福尼亚大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Metascience]]"
+  - "[[Citation Distribution]]"
   - "[[Matthew Effect in Academia]]"
 related_theories: []
 related_methods:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-30
 > [!work-line] 主要著作
 > - **2014 — *Reputation and impact in academic careers*** 联合 Santo Fortunato 等学者在 PNAS 发表，提出声望速度阈值模型，发现知名物理学者新著在 $c < 40$ 区间享受 4 倍于青年学者的早期引文溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 31–33)]]
 > - **2012 — *Persistence and uncertainty in the academic career*** 在 PNAS 发表，以纵向物理学者数据集揭示学术生涯长尾停滞与高淘汰率的幂律微观机制。
-> - **2011 — *Quantitative patterns of quality and impact in science*** 系统分析学者产出数量与成果引文分布之间的相对独立与分离现象。
+> - **2011 — *Quantitative patterns of quality and impact in science*** 系统分析学者产出数量与[[Citation Distribution|成果引文分布]]之间的相对独立与分离现象。
 
 ---
 

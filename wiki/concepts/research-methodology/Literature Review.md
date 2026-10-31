@@ -7,10 +7,10 @@ aliases:
 summary: "教育研究与社会科学中对已有研究文献开展系统检索、批判性评估与综合归纳的论证性学术实践；不仅为明确研究问题与构建理论框架提供跳板，而且在不同研究范式中承担从量化变量假设推导到质性归纳比较的差异化认识论功能。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - source/textbook
   - method/research-process
@@ -23,19 +23,19 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Literature Search]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Critical Thinking]]"
+  - "[[Construct]]"
   - "[[Definition of Terms]]"
   - "[[Concept Mapping]]"
   - "[[Reading Strategies]]"
   - "[[Paradigm]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Institutional Layering]]"
   - "[[Open-Mindedness]]"
   - "[[National Large-Scale Assessments]]"
+  - "[[Institutional Layering]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Bibliometric Analysis]]"
   - "[[Narrative Synthesis]]"
   - "[[Fieldwork]]"
   - "[[Grounded Theory]]"
@@ -101,7 +102,7 @@ updated: 2026-10-31
 > [!feature|notitle]
 > - **避免重复劳动与确立原创性（Avoiding Reinventing the Wheel）** 确保拟议研究不盲目复制已有发现，精准定位自身在领域学术坐标系中的增量价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 112)]]
 > - **确立学术信誉与合法性（Establishing Credibility & Legitimacy）** 展示研究者对领域前沿学术争鸣与关键议题的系统掌控，为研究方案赢得同行互信与方法合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
-> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键构念的[[Definition of Terms|操作性定义]]与变量因果逻辑，为后续研究搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
+> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键[[Construct|构念]]的[[Definition of Terms|操作性定义]]与变量因果逻辑，为后续研究搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
 > - **剖析知识盲区与提供研究跳板（Identifying Gaps & Providing Springboards）** 系统检视既有文献在理论解释、抽样代表性或分析工具上的局限，为提出新问题提供充足理据。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, p. 18)]]
 > - **批判综合正反论证（Critical Synthesis of Counter-Arguments）** 梳理对立学派的争鸣要点，并置呈现支持与反对的经验证据，保障文献评述的客观公正与思想深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 127)]]
 
@@ -198,7 +199,7 @@ updated: 2026-10-31
 > | **论证本质命题** | 文献综述是结构严密的累积性论证文本，超越了机械摘要拼贴 | 课题选题论证与开题设计、学位研究文献章节撰写 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
 > | **范式分化命题** | 文献综述在量化演绎、质性归纳与混合设计中承担相异的认识论角色 | 实证研究设计、质性田野设计与混合方法方案研制 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **系统规程偏误控制命题** | 透明可复现的 SLR 规程通过双盲初筛与标准化提取克服主观选择偏误 | 大规模跨国政策综述、循证综合与证据图谱绘制 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]]; Petticrew and Roberts (2006) |
-> | **知识压缩与引证溢价命题** | 综述文本充当指数膨胀知识的压缩载体并享有 2 倍被引溢价，但存在引证遮蔽风险 | 科学计量分析、文献指数爆炸应对、学术评价与功劳分配机制 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]]; Miranda and Garcia-Carpintero (2018) |
+> | **知识压缩与引证溢价命题** | 综述文本充当指数膨胀知识的压缩载体并享有 2 倍被引溢价，但存在引证遮蔽风险 | [[Bibliometric Analysis\|科学计量分析]]、文献指数爆炸应对、学术评价与功劳分配机制 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]]; Miranda and Garcia-Carpintero (2018) |
 
 ---
 
@@ -206,7 +207,7 @@ updated: 2026-10-31
 > - **1960s–1970s — 传统叙事性综述的经验化确立** 伴随现代社会科学研究的建制化发展，文献综述成为学术出版与学位研究的前置基石，主要以叙事性手法梳理学术源流与思想谱系。
 > - **1980s–1990s — 循证医学驱动与系统综述（SLR）范式兴起** 循证思潮批判传统文献综述存在主观筛选偏误，正式引入包含明确检索式、纳入排除标准与质量评估的系统文献综述方法，并逐步扩展至教育学与社会政策领域。
 > - **2000s — 教科书对综述论证本质与范式角色的系统化界定** Cohen et al. (2000/2011) 系统提出文献综述的七项目的与四步论证进路；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 明确将文献区分为量化中的[[Variable|变量]]演绎指导者、质性中的文末对照参照系以及混合设计中的动态平衡要素。
-> - **2010s 至今 — 科学计量揭示综述的被引溢价与复杂治理领域大尺度 SLR 应用** 科学计量学实证确立综述文献作为指数增长下的“知识压缩器”享有原始文献 2 倍的被引优势比（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási, 2021]]）；同时系统文献综述广泛应用于宏观教育治理与制度变迁研究（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）。
+> - **2010s 至今 — 科学计量揭示综述的被引溢价与复杂治理领域大尺度 SLR 应用** 科学计量学实证确立综述文献作为指数增长下的“知识压缩器”享有[[Primary and Secondary Documents|原始文献]] 2 倍的被引优势比（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási, 2021]]）；同时系统文献综述广泛应用于宏观教育治理与制度变迁研究（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）。
 
 ---
 
@@ -248,5 +249,5 @@ updated: 2026-10-31
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将文献综述作为研究方案的核心支柱，系统阐释其在量化变量演绎、质性文末比较与混合方法路径中的差异化设计策略（pp. 25–30）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 将文献综述作为选题论证的核心依据（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|第 6 章]]，p. 112），并系统确立由论题方向、支持证据、对立材料至批判结论的四步论证结构与写作规程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|第 7 章]]，pp. 126–128）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 系统阐明文献综述的核心任务、阅读文献的三种策略（浏览、泛读、精读）、五部分撰写结构以及避免单篇摘要堆砌的注意事项（pp. 18–20）。
-> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 遵循标准化系统文献综述（SLR）规程，基于全球 158 篇实证文献系统综合国家大规模评估与测验问责在不同政体行政传统下的制度分层与轨迹分化（p. 252）。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 遵循标准化系统文献综述（SLR）规程，基于全球 158 篇实证文献系统综合国家大规模评估与测验问责在不同政体行政传统下的[[Institutional Layering|制度分层]]与轨迹分化（p. 252）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 揭示综述文献在文献激增下的知识压缩功能，以及获得原始文献 2 倍被引溢价的计量规律与遮蔽风险（Ch. 7, pp. 165–166）。

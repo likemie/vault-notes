@@ -11,20 +11,23 @@ aliases:
 summary: "衡量团队在多类异质性认知与协同任务中整体表现能力的通用潜在特质；由组织行为学借鉴个体一般智力 g 因子形式化提出，实证证实其主要由成员社会敏感度、发言轮流均等程度与女性比例决定，而与成员个体智力的平均值或最高值无强关联。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 related_concepts:
   - "[[Brainstorming]]"
+  - "[[Social Sensitivity]]"
   - "[[Discourse]]"
   - "[[Wisdom of Crowds]]"
   - "[[Variable]]"
   - "[[Too-Much-Talent Effect]]"
+  - "[[Turn-Taking Equality]]"
   - "[[Emergence]]"
   - "[[Assemblage]]"
   - "[[Construct]]"
-related_instruments: []
+related_instruments:
+  - "[[Reading the Mind in the Eyes Test]]"
 related_methods:
   - "[[Effect Size]]"
 related_persons:
@@ -54,7 +57,7 @@ updated: 2026-10-31
 > - **边界** 解释团队应对多样化综合任务的基准效能，不直接替代特定领域专门化的技术工具或硬件实验装备。
 
 > [!citation-card|notitle] 集体智慧与个体智商的弱关联性
-> 团队集体智慧与团队成员的平均或最高个体智力之间并不存在强相关。相反，它高度关联于团队成员的平均社会敏感度、对话发言轮流的平等程度，以及团队中女性成员的比例。拥有更多具备社会同理心成员、更少出现一人垄断[[Discourse|话语]]、且女性比例更高的团队，在各类任务中系统展现出更优越的群体表现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> 团队集体智慧与团队成员的平均或最高个体智力之间并不存在强相关。相反，它高度关联于团队成员的平均[[Social Sensitivity|社会敏感度]]、对话发言轮流的平等程度，以及团队中女性成员的比例。拥有更多具备社会同理心成员、更少出现一人垄断[[Discourse|话语]]、且女性比例更高的团队，在各类任务中系统展现出更优越的群体表现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 >
 > *Interestingly, collective intelligence is not strongly correlated with the average or maximum individual intelligence of the group members. Instead, it’s correlated with the average social sensitivity of group members, equality in the distribution of conversational turn-taking, and the proportion of females in the group.*
 
@@ -76,7 +79,7 @@ updated: 2026-10-31
 
 > [!feature] 核心要素
 > - **高水平平均社会敏感度（Social Sensitivity）** 成员能够敏锐察觉同伴的面部情绪、微妙语气与认知反馈，及时化解隐性分歧并建立心理安全感。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
-> - **会话轮换发言的均等性（Equality in Turn-Taking）** 团队内部话语权分布均匀，杜绝少数权威或性格强势者主导全场，各方观点均能获得充分表达。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> - **会话轮换发言的均等性（[[Turn-Taking Equality|Equality in Turn-Taking]]）** 团队内部话语权分布均匀，杜绝少数权威或性格强势者主导全场，各方观点均能获得充分表达。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 > - **女性成员合理配比（Proportion of Females）** 实证表明女性比例较高的团队展现出更高的集体智慧，该关联在统计上主要由女性更高的平均社会敏感度所中介驱动。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 
 > [!logic-map]- 要素关系
@@ -102,7 +105,7 @@ updated: 2026-10-31
 > **探讨维度　微观沟通拓扑与共情协同调节机制** 探讨团队内部成员特质与交往模式如何塑造群体认知效率，分析社会敏感度与轮换发言对协同效能的驱动路径。
 
 > [!claim] [[Anita Williams Woolley|Woolley, A. W.]]
-> **社会敏感度与轮流发言决定集体智慧** 实验室对照测量证实，集体智慧的强弱直接取决于团队成员的平均社会敏感度（通过眼部读心测验 RMET 测量）以及会话轮流发言的均等性。在少数强势成员垄断发言的团队中，$c$ 因子得分显著偏低；而在轮流发言均等、各方均能顺畅表达异见的团队中，群体协同效能达到最优水平。此外，团队中女性成员占比与 $c$ 因子正相关，中介分析表明该效应由女性成员更高的平均社会敏感度所解释。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
+> **社会敏感度与轮流发言决定集体智慧** 实验室对照测量证实，集体智慧的强弱直接取决于团队成员的平均社会敏感度（通过眼部读心测验 [[Reading the Mind in the Eyes Test|RMET]] 测量）以及会话轮流发言的均等性。在少数强势成员垄断发言的团队中，$c$ 因子得分显著偏低；而在轮流发言均等、各方均能顺畅表达异见的团队中，群体协同效能达到最优水平。此外，团队中女性成员占比与 $c$ 因子正相关，中介分析表明该效应由女性成员更高的平均社会敏感度所解释。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
 
 ---
 

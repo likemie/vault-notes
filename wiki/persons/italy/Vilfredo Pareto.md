@@ -9,10 +9,10 @@ summary: "意大利经济学家、社会学家与哲学家，洛桑学派代表�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1848"
 died: "1923"
 lifespan: "1848–1923"
@@ -23,17 +23,20 @@ tags:
   - theme/science-of-science
   - theme/inequality
 related_concepts:
-  - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Mountain of Science]]"
+  - "[[Citation Distribution]]"
+  - "[[Variable]]"
+  - "[[Citation Disparity]]"
 related_theories:
   - "[[Price's Law]]"
-  - "[[Preferential Attachment in Academia]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
@@ -48,7 +51,7 @@ updated: 2026-10-31
 > [!person-profile|notitle] 人物档案
 > - **身份位置** 19 世纪意大利土木工程师、数理经济学家与社会学理论家，洛桑学派代表人物，曾任瑞士洛桑大学政治经济学讲席教授。
 > - **核心角色** 现代福利经济学奠基人之一，开创了关于收入分配不平等的幂律分布数学模型，其著名的 80/20 法则被跨界拓展为量化科学学中刻画引文与学术影响力极端分化的数理基准。
-> - **代表贡献** 1896 年在《政治经济学讲义》中提出财富分配的幂律公式与 80/20 法则；确立帕累托最优（Pareto Efficiency）概念；为德里克·约翰·德索拉·普赖斯（[[Derek de Solla Price]]）等学者构建科学引文网络的累积优势与肥尾分布提供了经典数理分析范式。
+> - **代表贡献** 1896 年在《政治经济学讲义》中提出财富分配的幂律公式与 80/20 法则；确立帕累托最优（Pareto Efficiency）概念；为德里克·约翰·德索拉·[[Derek de Solla Price|普赖斯]]（[[Derek de Solla Price]]）等学者构建科学引文网络的累积优势与肥尾分布提供了经典数理分析[[Paradigm|范式]]。
 
 > [!citation-card] 帕累托论财富与资源分配的幂律偏斜
 > 在不同国家和不同历史时期，个人收入与财富的分配曲线展现出高度一致的数学形态：极少数高收入群体占有了绝大部分社会财富，其累积分布函数在尾部服从稳定的幂律衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 177)]]
@@ -81,23 +84,23 @@ updated: 2026-10-31
 > 社会系统中的财富、资源、地位与声誉的宏观聚集内生性地展现出极度倾斜的无标度幂律分布；约 80% 的总体结果往往由系统中约 20% 的关键少数要素所驱动。这种由自我增强与累积不平等驱动的集中结构，不仅跨越了不同人类社会形态的财富分配，更普遍适用于科技探索网络中注意力与学术影响力的非线性分配。
 
 > [!citation-card] 科学学视域中的帕累托法则
-> 帕累托在 19 世纪末研究意大利国民收入时发现，80% 的土地由 20% 的人口持有。这一经验法则在科学文献网络中展现出惊人的重现性：学术界绝大部分的引文被引讨论，始终高度聚焦于极少数核心成果之上，形成了科学之山顶端极其陡峭的肥尾结构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 177)]]
+> 帕累托在 19 世纪末研究意大利国民收入时发现，80% 的土地由 20% 的人口持有。这一经验法则在科学[[Document|文献]]网络中展现出惊人的重现性：学术界绝大部分的引文被引讨论，始终高度聚焦于极少数核心成果之上，形成了[[Mountain of Science|科学之山]]顶端极其陡峭的肥尾结构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 177)]]
 >
 > *Pareto observed that roughly 80% of the land in Italy was owned by 20% of the population... in science, this translates into an extreme concentration of citations, where the top slice of papers captures the lion's share of community attention.*
 
 ---
 
 > [!influence-path|notitle] 影响路径
-> - **理论路径** 帕累托分布成为统计物理学与复杂网络理论中无标度拓扑的原型，直接启发了普赖斯的累积优势理论与巴拉巴西优先连接模型。
-> - **方法路径** 80/20 分布检验与幂律拟合成为科学计量学分析顶尖学术成果集中度、期刊影响因子偏度以及学者人均生产率的标准数理工具。
-> - **政策路径** 提示科技管理机构正视引文分布天然的高方差特征，破除基于平均主义高斯假设考核科研绩效的评价偏误。
+> - **理论路径** 帕累托分布成为统计物理学与复杂网络理论中无标度拓扑的原型，直接启发了普赖斯的累积优势理论与[[Albert-László Barabási|巴拉巴西]]优先连接模型。
+> - **方法路径** 80/20 分布检验与幂律拟合成为[[Bibliometric Analysis|科学计量学]]分析顶尖学术成果集中度、期刊影响因子偏度以及学者人均生产率的标准数理工具。
+> - **政策路径** 提示科技管理机构正视[[Citation Distribution|引文分布]]天然的高方差特征，破除基于平均主义高斯假设考核科研绩效的评价偏误。
 
 ---
 
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 幂律分布的生成机制：自组织临界性 vs 优先连接富集
-> > 后世复杂系统学者对帕累托幂律形态的动力学生成机理存在学术探讨。一派强调系统内部微观优先连接导致赢家通吃（Price, 1976; Barabási, 1999）；另一派主张多变量乘性随机过程或自组织临界状态同样能够在无中心调控下自然衍生幂律尾部。
+> > 后世复杂系统学者对帕累托幂律形态的动力学生成机理存在学术探讨。一派强调系统内部微观优先连接导致赢家通吃（Price, 1976; Barabási, 1999）；另一派主张多[[Variable|变量]]乘性随机过程或自组织临界状态同样能够在无中心调控下自然衍生幂律尾部。
 > >
 > > - **Vilfredo Pareto（1896）** 财富幂律分布具有跨时代与跨体制的超然稳定性，反映社会分层中能力的自然不平等。
 > > - **Derek de Solla Price（1976）** 科学界的幂律结构源于同行引用的动态马太效应，即“已有引用越多者越容易被新学者看到并再次引用”。

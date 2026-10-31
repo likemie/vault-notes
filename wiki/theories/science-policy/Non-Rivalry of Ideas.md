@@ -9,30 +9,41 @@ aliases:
 summary: "创新经济学与科学学核心理论，由 Paul Romer (1990) 在内生增长理论中奠定微观基础，并由王大顺与巴拉巴西 (Wang & Barabási, 2021) 拓展用于解释科学指数扩张的动力学机制；该理论主张科学思想具有非消耗性与非竞争性公共品属性，既有学术思想在被使用与传播过程中不仅不发生物理磨损与价值折旧，反而充当新假说繁衍母体，通过跨领域概念重组与范式重置持续开辟全新探索疆域，从根本上破解了传统物质生产要素的边际收益递减与科学增长饱和预言。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 8
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 19
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/science-of-science
   - theme/science-policy
   - theme/economics-of-science
   - theory/innovation
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Metascience]]"
   - "[[Big Science]]"
-  - "[[Science Immediacy]]"
-  - "[[Burden of Knowledge]]"
-  - "[[Technological Trajectories]]"
   - "[[Eroom's Law]]"
+  - "[[Document]]"
+  - "[[Emergence]]"
+  - "[[Research Question]]"
+  - "[[Patent Citation]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Total Factor Productivity]]"
 related_theories:
   - "[[New Growth Theory]]"
+  - "[[Technological Trajectories]]"
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -43,25 +54,25 @@ updated: 2026-10-31
 
 > [!theory-position|notitle] 理论定位
 > - **解释对象** 科学出版物与科研人员规模历经百年持续维系约 12 年翻番的指数扩张，以及学者个体人均发表率跨越世纪保持稳定甚至轻微上升的宏观动力学机制。
-> - **理论问题** 回应德里克·约翰·德索拉·普赖斯（[[Derek de Solla Price]]）关于科学增长遭遇物理资源饱和极限的悲观预言，阐明基础科学何以未如汽车内燃机或培养基细菌那样陷入边际收益递减与动力枯竭。
-> - **理论类型** 微观知识生产要素理论与宏观科学系统动力学模型。
+> - **理论问题** 回应德里克·约翰·德索拉·[[Derek de Solla Price|普赖斯]]（[[Derek de Solla Price]]）关于科学增长遭遇物理资源饱和极限的悲观预言，阐明基础科学何以未如汽车内燃机或培养基细菌那样陷入边际收益递减与动力枯竭。
+> - **理论类型** 微观[[Knowledge Production|知识生产]]要素理论与宏观科学系统动力学模型。
 > - **知识位置** 衔接宏观[[New Growth Theory|内生增长理论]]与科学学，确立了思想资本与物理生产要素之间的本质分界。
 
 > [!claim|notitle] 核心判断
-> 科学探索运行的根本要素是具备非消耗性与非竞争性的学术思想。既有思想在被运用与传播时不仅不发生物理损耗与价值折旧，反而充当新假说繁衍的母体；通过跨学科概念重组与新范式确立，科学系统持续开辟全新探索维度，使基础科学在成熟工程技术轨道遭遇边际报酬递减时依然能够维系长周期的指数繁衍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
+> 科学探索运行的根本要素是具备非消耗性与非竞争性的学术思想。既有思想在被运用与传播时不仅不发生物理损耗与价值折旧，反而充当新假说繁衍的母体；通过跨学科概念重组与新[[Paradigm|范式]]确立，科学系统持续开辟全新探索维度，使基础科学在成熟工程[[Technological Trajectories|技术轨道]]遭遇边际报酬递减时依然能够维系长周期的指数繁衍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
 ---
 
 > [!theory-origin|notitle] 提出者如何形成理论
-> - **提出者与原始文本** 诺贝尔经济学奖得主保罗·罗默（Paul Romer）在 1990 年《内生技术进步》（*Endogenous Technological Change*）中首次将思想的非竞争性（Non-Rivalry of Ideas）作为新增长理论的微观基石；王大顺与阿尔伯特-拉斯洛·巴拉巴西（Dashun Wang & Albert-László Barabási）在 2021 年《科学的科学》（*The Science of Science*）第 15 章《大科学》中，将其系统拓展至科学知识增长极限与饱和争论的解释。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
+> - **提出者与原始文本** 诺贝尔经济学奖得主保罗·罗默（Paul Romer）在 1990 年《内生技术进步》（*Endogenous Technological Change*）中首次将思想的非竞争性（Non-Rivalry of Ideas）作为新增长理论的微观基石；[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Dashun Wang & Albert-László Barabási）在 2021 年《[[Metascience|科学的科学]]》（*The Science of Science*）第 15 章《[[Big Science|大科学]]》中，将其系统拓展至科学知识增长极限与饱和争论的解释。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 > - **原初问题** 普赖斯在 1961 年与 1963 年断言科学指数增长将在 20 世纪中叶因资源耗尽而转向逻辑斯蒂饱和曲线；且微电子等工业研发数据表明维持摩尔定律需要投入 18 倍于早期的研究人员，引发了科学探索是否正在耗尽动力的宏观困惑。
 > - **理论资源与材料** 罗默的内生技术增长经济学公理，结合 Web of Science 与《物理评论》跨越百年的全量科研成果与活跃学者时间序列，以及跨学科概念文本的大规模自然语言挖掘。
 > - **形成路径** 王大顺与巴拉巴西比对物质能源系统与符号知识系统的运作差异，指出内燃机耗尽汽油、细菌耗尽培养基均源于消耗性物理要素的有限性；与此相反，科学探索以思想为原料，概念的使用不仅不折旧，反而通过组合催生更多分支，促使知识生产持续开拓全新维度。
 
 > [!dev-timeline|notitle] 理论演进与扩展脉络
-> - **1990 — 内生增长经济学奠基** Paul Romer 确立思想具有非竞争性与部分排他性，论证非竞争性思想存量与人力资本结合能够打破传统资本与劳动力规模报酬不变假定，实现持续的内生经济增长。
+> - **1990 — 内生增长经济学奠基** Paul Romer 确立思想具有非竞争性与部分排他性，论证非竞争性思想存量与[[Human Capital Theory|人力资本]]结合能够打破传统资本与劳动力规模报酬不变假定，实现持续的内生经济增长。
 > - **2020 — 既定技术轨道的收益递减实证** Nicholas Bloom et al. 测算指出，在微电子领域维持摩尔定律芯片密度翻倍所需的研究人力是 1970 年代早期的 18 倍以上，农业作物单产与制药研发（如医药界[[Eroom's Law|反摩尔定律]]）的人均研发产出率急剧下滑，证实特定技术轨道内部低垂果实确实存在采尽效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 172)]]
-> - **2021 — 科学系统全量动力学拓展** Wang & Barabási 论证虽然文献标题中独特学术短语的增长速度仅呈线性，但全学科活跃学者的人均发文率跨越百年依然稳健微升；既有思想在使用中的非消耗性繁衍克服了单一技术轨道的极限，解释了科学跨越百年依然保持生机的动力源泉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
+> - **2021 — 科学系统全量动力学拓展** Wang & Barabási 论证虽然[[Document|文献]]标题中独特学术短语的增长速度仅呈线性，但全学科活跃学者的人均发文率跨越百年依然稳健微升；既有思想在使用中的非消耗性繁衍克服了单一技术轨道的极限，解释了科学跨越百年依然保持生机的动力源泉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
 ---
 
@@ -86,7 +97,7 @@ updated: 2026-10-31
 >
 > **应用实例** 图灵计算模型与现代神经生物学概念的跨学科融合催生了人工神经网络与计算神经科学，推动了当代人工智能领域的蓬勃繁衍。
 
-> [!theory-proposition] 命题三｜单一技术轨道的边际收益递减通过新学科的涌现得到对冲
+> [!theory-proposition] 命题三｜单一技术轨道的边际收益递减通过新学科的[[Emergence|涌现]]得到对冲
 > **解释** 在界定明确的既定工程技术轨道上，创新确实面临“低垂果实被摘尽”的困境；例如维系摩尔定律芯片密度翻倍需投入 18 倍于 1970 年代早期的研发人力。然而，基础科学并不局限于单一固定轨道；当传统内燃机、微电子或经典抗生素的渐进改良逼近物理极限时，非消耗性思想的自由繁衍催生出基因编辑、再生医学与量子计算等全新学科，全面拓展了人类探索的新疆界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 >
 > **应用实例** 当硅基芯片微缩面临量子隧穿物理极限时，材料物理与生物工程的交叉探索开拓了碳纳米管芯片与类脑神经拟态计算等前沿阵地。
@@ -94,9 +105,9 @@ updated: 2026-10-31
 ---
 
 > [!theory-use|notitle] 框架入口
-> - **研究问题** 评估宏观科技发展是否存在停滞风险、判断科研资助应投向成熟技术轨道的渐进改良还是跨学科颠覆性新思想的培育。
-> - **分析对象与单位** 跨世纪全学科文献数据库、专利引用网络、前沿交叉学科演化轨迹及国家研发要素投入产出时间序列。
-> - **需要的材料** 学术出版物篇数、研究人员规模历史序列、学科分类词表演进记录以及研发支出与全要素生产率匹配数据。
+> - **[[Research Question|研究问题]]** 评估宏观科技发展是否存在停滞风险、判断科研资助应投向成熟技术轨道的渐进改良还是跨学科颠覆性新思想的培育。
+> - **分析对象与单位** 跨世纪全学科文献数据库、[[Patent Citation|专利引用]]网络、前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]演化轨迹及国家研发要素投入产出时间序列。
+> - **需要的材料** 学术出版物篇数、研究人员规模历史序列、学科分类词表演进记录以及研发支出与[[Total Factor Productivity|全要素生产率]]匹配数据。
 > - **解释目标** 揭示基础科学与工程技术在生产要素层面的本质差异，为国家中长期科技规划与基础研究颠覆性创新布局提供理论依据。
 
 > [!theory-framework|notitle] 思想非消耗性假说分析维度与判读矩阵
@@ -113,7 +124,7 @@ updated: 2026-10-31
 > [!theory-boundary|notitle] 局限性与适用边界
 > - **适合分析** 基础科学、理论探索以及开源知识网络的跨世纪长周期宏观演进趋势。
 > - **成立条件** 假定学术界维系开放获取、同行自由引用与跨学科自由流动的制度环境。
-> - **解释不足** 理论聚焦于思想本身的非消耗性，未充分展开微观学者个体承载能力受限所带来的[[Burden of Knowledge|知识负担]]、受训年限延长与认知超载阻力。
+> - **解释不足** 理论聚焦于思想本身的非消耗性，未充分展开微观学者个体承载能力受限所带来的知识负担、受训年限延长与认知超载阻力。
 > - **转化困难** 思想的实际质量与概念重组的实质突破难以直接由简单的词频或发表量指标完全测度，容易混淆渐进式灌水发表与真正范式重置。
 > - **不能直接推出** 思想非消耗性不能直接推出任何科研资助项目均能无条件实现规模报酬递增，微观科研组织依然受制于团队协作与管理效率瓶颈。
 

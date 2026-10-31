@@ -7,7 +7,7 @@ aliases:
 summary: "生物医药与科学研发经济学中的核心经验规律（摩尔定律 Moore Law 的反向拼写）：指尽管计算机算力、高通量筛选与基因测序技术呈指数级进步，通胀调整后每十亿美元研发投入所产生的新药获批数量却呈现每九年减半的长期指数级下降趋势；在更广阔的科学政策视阈下，该定律用于表征当代科研边际生产率普遍放缓、行政合规成本膨胀与既有研发组织范式陷入瓶颈的系统性困境。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Gold Standard Science]]"
   - "[[Document]]"
+  - "[[Epistemic Friction]]"
+  - "[[Total Factor Productivity]]"
   - "[[Decodification]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Clinical Trial]]"
@@ -112,7 +114,7 @@ updated: 2026-10-31
 > **探讨维度　观念经济学与知识组合复杂度** 探讨前沿观念的非穷尽本质与实际研发中研发人员指数级投入需求之间的内在张力。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] / Bloom et al. (2020)
-> **研发人力指数膨胀与非穷尽观念库的搜索摩擦** 现代实证经济学发现，维持恒定的技术进步速度需要指数级膨胀的科研人力投入（Bloom et al., 2020）：例如维持摩尔定律所需的半导体研究人员规模是 1970 年代的 18 倍，每位研究者的产出效率以年均 5.3% 的速度下降，展现出厄鲁姆定律所刻画的生产率放缓特征[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 166–167)]]。然而，科学观念具备非穷尽性（Non-exhaustible）与重组演化特征（Arthur, 2009; Weitzman, 1998），新构想的诞生持续扩充未来的组合空间。生产率放缓的实质在于，随着文献总量的指数膨胀，科研人员在浩瀚知识图谱中检索、验证与整合新组合的认知摩擦与制度阻力急剧上升。
+> **研发人力指数膨胀与非穷尽观念库的搜索摩擦** 现代实证经济学发现，维持恒定的技术进步速度需要指数级膨胀的科研人力投入（Bloom et al., 2020）：例如维持摩尔定律所需的半导体研究人员规模是 1970 年代的 18 倍，每位研究者的产出效率以年均 5.3% 的速度下降，展现出厄鲁姆定律所刻画的生产率放缓特征[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 166–167)]]。然而，科学观念具备非穷尽性（Non-exhaustible）与重组演化特征（Arthur, 2009; Weitzman, 1998），新构想的诞生持续扩充未来的组合空间。生产率放缓的实质在于，随着文献总量的指数膨胀，科研人员在浩瀚知识图谱中检索、验证与整合新组合的[[Epistemic Friction|认知摩擦]]与制度阻力急剧上升。
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-10-31
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 13)]] | 全球 1950–2020 年通胀调整后新药研发与审批数据（引自 Scannell et al., 2012） | 每 10 亿美元研发支出产出新药获批数量纵向追踪 | 1950 年来通胀调整后单位研发产出新药下降幅度达 80 倍，平均每 9 年产出效率减半 | 实证确立厄鲁姆定律的核心基准数据，展现生物医药研发效率的长期指数级衰退 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 14)]] | 1970 年代初以来全美半导体与农业研发投入普查 | 维持技术进步所需研究人员规模与农业投入产出比追踪 | 维持晶体管密度历史增长所需研究人员激增 18 倍；农业研发投入扩大 3–25 倍而产出大体持平 | 证实科研边际效率放缓构成了跨学科的普遍系统性趋势 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 16)]] | 1980–2024 年全美国立卫生研究院（[[National Institutes of Health\|NIH]]）资助项目库 | 课题负责人年龄分布纵向追踪 | 课题负责人平均年龄由 39 岁攀升至 51 岁，首次获资助者平均年龄推迟至 42 岁 | 揭示资历壁垒阻碍青年学者独立探索，加剧研发效率放缓与避险倾向 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 166–167)]] | 全美半导体行业与全行业专利与全要素生产率纵向追踪（引自 Bloom et al., 2020） | 维持常态技术增长率所需科研人员规模与个体产出率 | 维持摩尔定律所需研究人员扩大 18 倍，单兵科研产出年均衰减 5.3% | 实证揭示维持常态产出所需投入呈指数增长，验证跨领域生产率衰退规律 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 166–167)]] | 全美半导体行业与全行业专利与[[Total Factor Productivity\|全要素生产率]]纵向追踪（引自 Bloom et al., 2020） | 维持常态技术增长率所需科研人员规模与个体产出率 | 维持摩尔定律所需研究人员扩大 18 倍，单兵科研产出年均衰减 5.3% | 实证揭示维持常态产出所需投入呈指数增长，验证跨领域生产率衰退规律 |
 
 > [!example] 典型组织创新实践
 > - **帕金森病微创脑机接口与全人类免疫记忆[[Decodification|解码]]平台（[[Focused Research Organization|FRO]] 组织实践）**

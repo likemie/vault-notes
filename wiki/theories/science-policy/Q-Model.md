@@ -8,7 +8,7 @@ aliases:
 summary: "由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) 提出的科学学生涯影响生成机制理论；将学者单篇论著的学术影响形式化为课题初始潜力（r）与学者个体稳定能力因子（Q）的乘积（十年被引量由构想潜力与个体能力因子相乘决定），克服了假定学术成果纯凭抽签运气的随机模型（R-model）在解释高产学者代表作突破时的系统性偏差，揭示出普遍学术运气与个体稳态能力的共存机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Null Hypothesis]]"
   - "[[Variable]]"
+  - "[[Citation Distribution]]"
   - "[[Document]]"
   - "[[Research Question]]"
 related_theories:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-10-30
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 计算社会科学家与物理学者[[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2016 年发表于《科学》（*Science*）的奠基论著《量化个体艺术与科学职业生涯的演变》（Quantifying the Evolution of Individual Artistic and Scientific Careers）中形式化提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 61–64)]]
+> - **提出者与原始文本** 计算社会科学家与物理学者[[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2016 年发表于《科学》（*Science*）的奠基论著《量化个体艺术与科学职业生涯的演变》（Quantifying the Evolution of Individual Artistic and Scientific Careers）中形式化提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 61–64)]]
 > - **原初问题** 若重大突破在学术生涯发表序列中确实服从严格的[[Random Impact Rule|随机影响规律]]，爱因斯坦般的划时代成就究竟是数万名学者在漫长时间跨度内纯凭运气抽样的统计偶然，还是存在超越运气的个体稳态特质。
 > - **理论资源与材料** 采集涵盖 2,856 位长周期物理学家数十万篇论著的引文轨迹，构建以纯偶然抽样为基准的[[Null Hypothesis|零假设]]随机模型（R-model），并通过实测数据与理论预测的协方差结构比对展开理论迭代。
 > - **形成路径** 研究团队首先测试纯运气模型（R-model），该模型预测最高影响论著的被引量随总发文量 $N$ 的增长而温和爬升；但真实经验数据表明，真实学者的巅峰被引量 $c^*_{10}$ 随 $N$ 的增长速度显著快于纯[[Random Sampling|随机抽样]]预期。这证实高产学者具备低产学者所不具备的某种内在转化特质。研究者随后引入表征转化能力的个体参数 $Q$，通过测量协方差矩阵证实构想价值 $r$ 与能力 $Q$ 和发文量 $N$ 严格统计独立，成功推导出与经验数据高度吻合的解析曲线。
@@ -76,7 +77,7 @@ updated: 2026-10-30
 > | 构想价值参数（Idea Value, $r$） | 随机[[Variable\|变量]] | 刻画学者开启一项新课题时所遭遇的客观构想潜在价值，服从跨人群通用的分布 $P(r)$。 |
 > | [[Q-Factor\|个体能力因子]]（Q-Factor, $Q_i$） | 稳态参数 | 刻画特定研究者将抽象构想转化为高被引实体成果的内生转化能力。 |
 > | 生涯生产力（Productivity, $N$） | 决策变量 / 计数 | 学者在特定观察窗口内发表论著的总篇数，决定了从分布 $P(r)$ 中抽取构想的独立次数。 |
-> | 随机模型（R-Model） | 零模型 / 对照基准 | 假定每篇论著影响力均独立从相同引文分布中随机抽样的纯运气模型。 |
+> | 随机模型（R-Model） | 零模型 / 对照基准 | 假定每篇论著影响力均独立从相同[[Citation Distribution\|引文分布]]中随机抽样的纯运气模型。 |
 > | 十年被引量（$c_{10}$） | 结果测度 | 论著发表后十年窗口内的累积被引频次，用于消除跨学科短期波动与引文累积时滞。 |
 
 ---

@@ -10,7 +10,7 @@ summary: "美国组织心理学家与行为科学家，卡耐基梅隆大学泰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Collective Intelligence]]"
   - "[[Construct]]"
+  - "[[Social Sensitivity]]"
   - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Problem Solving]]"
@@ -34,7 +35,8 @@ related_concepts:
   - "[[Team Science]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[Reading the Mind in the Eyes Test]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -50,7 +52,7 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 美国组织行为学与协作认知学者；卡耐基梅隆大学泰珀商学院（Tepper School of Business）组织心理学讲席教授、副院长。
 > - **核心角色** 群体协同机制、协作认知与团队微观互动结构的前沿领军学者。
-> - **代表贡献** 领衔确立[[Collective Intelligence|集体智慧]]（$c$ 因子）的心理测量学[[Construct|构念]]，证实群体效能由社会敏感度与沟通均衡度决定，脱离单体成员智商总和。
+> - **代表贡献** 领衔确立[[Collective Intelligence|集体智慧]]（$c$ 因子）的心理测量学[[Construct|构念]]，证实群体效能由[[Social Sensitivity|社会敏感度]]与沟通均衡度决定，脱离单体成员智商总和。
 
 > [!citation-card] 团队效能的结构与互动[[Determinism|决定论]]
 > 群体胜任多样化复杂任务的能力，取决于团队内部的人员构成与交互方式，脱离个体成员特质的机械累加。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]
@@ -82,7 +84,7 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **理论路径** 将个体心理学的一般智力理论拓展为群体认知层面的集体智慧理论，重塑了组织行为学对团队生产力的解释框架。
-> - **方法路径** 开发跨领域多任务电池结合眼部读心测验（RMET）与发言均等度音频分析的实验测量规程。
+> - **方法路径** 开发跨领域多任务电池结合眼部读心测验（[[Reading the Mind in the Eyes Test|RMET]]）与发言均等度音频分析的实验测量规程。
 > - **政策路径** 为高科技研发团队组建、复杂工程[[Man-Computer Symbiosis|人机协同]]系统设计及企业多元包容管理提供实证依据。
 
 > [!evidence-grid-a] 相关研究索引

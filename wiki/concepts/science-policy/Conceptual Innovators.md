@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-10-30
 > [!dev-timeline] 概念演变
 > - **2001–2006 — 艺术经济学提出** [[David Galenson|戴维·加伦森]]（David Galenson）在研究现代艺术拍卖与文学创作时首次界定概念型创新者，以早熟的毕加索为代表。
 > - **2010 — 科学学实证拓展** 本杰明·F·琼斯（Benjamin F. Jones）将概念型创新者引入科技发明家与诺贝尔奖得主计量分析，证实理论学者在生涯早期存在系统性突破优势。
-> - **2021 — 科学学系统整合** [[Dashun Wang|王大顺]]与阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]将概念型创新者整合入科研生涯动力学框架，用以解构学科[[Determinism|决定论]]的刻板印象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
+> - **2021 — 科学学系统整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]将概念型创新者整合入科研生涯动力学框架，用以解构学科[[Determinism|决定论]]的刻板印象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 
 ---
 

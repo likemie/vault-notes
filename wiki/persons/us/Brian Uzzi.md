@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Team Science]]"
   - "[[Response to Intervention]]"
+  - "[[Combinatorial Novelty]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Small-World Quotient]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
   - "[[Coauthorship Network]]"
-  - "[[Combinatorial Novelty]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
   - "[[Team Assembly Model]]"
@@ -74,7 +74,7 @@ updated: 2026-10-31
 > - **1993–至今** 执教于美国西北大学凯洛格管理学院，历任副教授、讲席教授，并联合创建西北大学复杂系统研究所（NICO）。
 > - **2005** 在《美国社会学评论》（*American Sociological Review*）发表百老汇音乐剧团队合作网络实证研究，提出小世界网络协作理论与倒 U 形创意曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 > - **2007** 与 Wuchty 和 Jones 在《科学》（*Science*）发表团队科学奠基性成果，提出 RTI 指标，证实团队科研对个体研究的全面替代。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **2013** 在《科学》发表非典型跨界知识重组研究，揭示常规[[Paradigm|范式]]与新异跨界组合并存最容易孕育颠覆性突破。
+> - **2013** 在《科学》发表非典型[[Combinatorial Novelty|跨界知识重组]]研究，揭示常规[[Paradigm|范式]]与新异跨界组合并存最容易孕育颠覆性突破。
 
 ---
 
@@ -97,7 +97,7 @@ updated: 2026-10-31
 > - **政策路径** 为科技基金资助机构与研发部门提供团队组建与跨学科合作的拓扑结构指导。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 深度征引乌齐相对团队影响力（Unit 04）、团队组装机制（Unit 05）及基于 1,790 万篇论著的组合新颖性与适度平衡架构（Unit 08, pp. 190–193）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 深度征引乌齐相对团队影响力（Unit 04）、团队[[Assemblage|组装]]机制（Unit 05）及基于 1,790 万篇论著的组合新颖性与适度平衡架构（Unit 08, pp. 190–193）。
 
 ---
 

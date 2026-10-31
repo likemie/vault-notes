@@ -10,7 +10,7 @@ summary: "信息科学家与科学计量学家，印第安纳大学布鲁明顿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Filippo Radicchi]]"
   - "[[Derek de Solla Price]]"
 related_facts:
   - "[[National Academy of Sciences]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - **合作学者** 菲利波·拉迪基（Filippo Radicchi）— 共同开展学者学术生涯动力学与引文网络建模。
+> - **合作学者** [[Filippo Radicchi|菲利波·拉迪基]]（Filippo Radicchi）— 共同开展学者学术生涯动力学与引文网络建模。
 > - **学术对话** [[Derek de Solla Price]] — 继承并数理形式化普赖斯关于小科学迈向大科学的组织转型假说。
 
 ---

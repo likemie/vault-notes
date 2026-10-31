@@ -10,7 +10,7 @@ aliases:
 summary: "通过将既有不同知识领域或技术构件进行非传统重组而产生新构想的创新机制；在带来高学术影响概率的同时伴随着极高的产出方差与同行评审偏见，唯有深植于成熟常规知识之上的非典型组合方能系统性放大科学突破概率。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,27 +20,29 @@ tags:
   - theme/scientific-impact
   - theme/knowledge-recombination
 related_concepts:
+  - "[[Emergence]]"
+  - "[[Construct]]"
   - "[[Nature of Innovation]]"
-  - "[[Scientific Uncertainty]]"
-  - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
-  - "[[Knowledge Production]]"
+  - "[[Document]]"
+  - "[[Assemblage]]"
+  - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
   - "[[Creativity]]"
+  - "[[Variable]]"
 related_theories:
-  - "[[Bianconi-Barabási Model]]"
-  - "[[Preferential Attachment in Academia]]"
+  - "[[Knowledge Integration]]"
 related_methods:
-  - "[[Combinatorial Novelty Measurement]]"
-  - "[[Bibliometric Analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Brian Uzzi]]"
+  - "[[Joseph Schumpeter]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Kevin Boudreau]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -50,7 +52,7 @@ updated: 2026-10-31
 ---
 
 > [!def] Combinatorial Novelty
-> 组合新颖性（Combinatorial Novelty / 组合式创新）是指将来自不同学科、技术分支或知识传统中既有但鲜少产生交集的构件要素进行原创性重组所涌现出的新颖性。该构念确立前沿创新本质上是对存量知识的非典型整合；高组合新颖性大幅提升了成果产出极高学术影响力的概率，但也伴随着产出方差剧增、漫长认知滞后以及同行资助评审中的系统性保守偏见。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–193)]]
+> 组合新颖性（Combinatorial Novelty / 组合式创新）是指将来自不同学科、技术分支或知识传统中既有但鲜少产生交集的构件要素进行原创性重组所[[Emergence|涌现]]出的新颖性。该[[Construct|构念]]确立前沿[[Nature of Innovation|创新本质]]上是对存量知识的非典型整合；高组合新颖性大幅提升了成果产出极高学术影响力的概率，但也伴随着产出方差剧增、漫长认知滞后以及同行资助评审中的系统性保守偏见。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–193)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 刻画科学发现与技术发明中打破既有领域边界、将异质构件配对组合的程度。
@@ -58,7 +60,7 @@ updated: 2026-10-31
 > - **边界** 区别于单点突发式的无源孤立发明；组合新颖性强调新构想必然依托于既有知识存量，属于存量知识网络上的拓扑跳跃。
 
 > [!citation-card|notitle] 关键表述
-> 科学文献与专利发明中的新思想多是对既有知识的原创性综合。例如蒸汽船结合了帆船与蒸汽机，第一辆汽车结合了自行车、马车与内燃机；当代 90% 的美国专利结合了至少两个技术代码，证实发明本质上是一个组合过程。在学术论著中，将罕见共同出现的跨领域期刊引文对进行组装，标志着对前人知识的非典型组合。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–191)]]
+> 科学[[Document|文献]]与专利发明中的新思想多是对既有知识的原创性综合。例如蒸汽船结合了帆船与蒸汽机，第一辆汽车结合了自行车、马车与内燃机；当代 90% 的美国专利结合了至少两个技术代码，证实发明本质上是一个组合过程。在学术论著中，将罕见共同出现的跨领域期刊引文对进行[[Assemblage|组装]]，标志着对前人知识的非典型组合。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–191)]]
 >
 > *New ideas typically synthesize existing knowledge... invention is increasingly a combinatorial process. If a paper cites a pair of journals that are rarely brought together, it may suggest that the paper introduces a novel combination of prior work.*
 
@@ -71,16 +73,16 @@ updated: 2026-10-31
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 组合新颖性（Combinatorial Novelty） | 常规性知识（Conventional Knowledge） | 突破性影响（Scientific Impact） |
 > |---|---|---|---|
-> | **分析对象** | 跨领域文献或技术构件引证关系的异质配对程度 | 学科内部主流、高频共现的成熟理论、范式与工具 | 成果在共同体内部引发的被引扩散、范式转移与关注度 |
+> | **分析对象** | 跨领域文献或技术构件引证关系的异质配对程度 | 学科内部主流、高频共现的成熟理论、[[Paradigm\|范式]]与工具 | 成果在共同体内部引发的被引扩散、范式转移与关注度 |
 > | **核心机制** | 远距离跨界知识连接，打破思维定式 | 共享认知基底与知识可读性保障，降低同行吸收门槛 | 去中心化同行集体背书与累积声誉扩散 |
 > | **学术生态功能** | 提供探索未知边界与范式重塑的催化变异 | 维系日常科学的严谨验证与同行沟通交流效率 | 确立共同体认可的科学进展里程碑与标杆 |
 
 ---
 
 > [!feature] 核心要素
-> - **非典型跨界配对（Atypical Pairing）** 论著或专利同时引证来自两个彼此遥远、鲜有学术互引历史的领域或刊物，体现思想碰撞的异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 190–191)]]
+> - **非典型跨界配对（Atypical Pairing）** 论著或专利同时引证来自两个彼此遥远、鲜有学术互引历史的领域或刊物，体现思想碰撞的[[Heterogeneity|异质性]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 190–191)]]
 > - **新颖性悖论（Novelty Paradox）** 创新度极高的成果进入顶尖 1% 高引行列的概率大幅攀升，但产出方差同步放大，面临极高的同行负评与完全沉没风险。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 191–193)]]
-> - **适度新颖性平衡（Balanced Novelty）** 将高度非典型的跨界组合深深嵌入主流深厚的常规知识基底之中，兼顾颠覆性创造力与学术共同体的可理解性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 193)]]
+> - **适度新颖性平衡（Balanced Novelty）** 将高度非典型的跨界组合深深嵌入主流深厚的常规知识基底之中，兼顾颠覆性[[Creativity|创造力]]与学术共同体的可理解性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 193)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -97,7 +99,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题一｜非典型组合显著提升突破概率的同时急剧拉大成果方差
-> **探讨维度　跨界知识整合与不确定性扩张** 该命题探讨异质领域要素杂交对创新产出质量分布的改变，揭示高新颖性如何打破平庸正态分布并生成双向肥尾。
+> **探讨维度　跨界[[Knowledge Integration|知识整合]]与不确定性扩张** 该命题探讨异质领域要素杂交对创新产出质量分布的改变，揭示高新颖性如何打破平庸正态分布并生成双向肥尾。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Fleming, L.]]
 > **专利跨界研发的方差放大效应** 李·弗莱明（Lee Fleming）针对 17,000 余项发明专利开展大数据分析表明，合作发明人团队专业知识背景的跨界异质程度越高，专利最终商业与技术价值的方差越大；高度发散跨界的专利相比平均水平，既更有可能演化为颠覆性技术突破，也更有可能彻底沦为无价值的失败产物。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Fleming, 2007, via Wang & Barabási, 2021, pp. 191–192)]]
@@ -136,11 +138,11 @@ updated: 2026-10-31
 ---
 
 > [!dev-timeline] 概念演变
-> - **1911 — 熊彼特提出新组合命题** 熊彼特在《经济发展理论》中首次界定创新本质为既有生产要素的新组合，奠定组合式创新理论基石。
+> - **1911 — [[Joseph Schumpeter|熊彼特]]提出新组合命题** 熊彼特在《经济发展理论》中首次界定创新本质为既有生产要素的新组合，奠定组合式创新理论基石。
 > - **2001–2007 — 专利知识重组与方差扩大效应确立** 李·弗莱明（Lee Fleming）通过大规模发明专利数据库，实证确立跨学科团队重组既有技术构件时的产出方差放大规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Fleming, 2007, via Wang & Barabási, 2021, pp. 191–192)]]
 > - **2013 — 期刊共引对测度与适度新颖性架构发现** 布赖恩·乌齐（Brian Uzzi）等学者提出基于期刊共引网络 $z$ 分数的量化测度程序，在大数据中证实兼具常规基底与非典型配对的成果具有两倍以上的高引命中率。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Uzzi et al., 2013, via Wang & Barabási, 2021, pp. 190–193)]]
 > - **2016 — 基金申请与国家资助中的保守偏见证实** 布德罗与布罗姆汉姆等学者分别通过双盲实验与全量国家基金追踪，证实同行评审对高新颖性方案存在系统性打压。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Boudreau et al., 2016; Bromham et al., 2016; pp. 192–193)]]
-> - **2021 — 科学学生命力与新颖性悖论系统集成** 王大顺与巴拉巴西系统总结组合新颖性动力学，将其确立为解析成果内生适应度与突破性科学涌现的核心构架。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–193)]]
+> - **2021 — 科学学生命力与新颖性悖论系统集成** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统总结组合新颖性动力学，将其确立为解析成果内生适应度与突破性科学涌现的核心构架。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–193)]]
 
 ---
 
@@ -165,10 +167,10 @@ updated: 2026-10-31
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Uzzi et al. (2013)]] | Web of Science 收录的跨越全部科学门类的 1,790 万篇科技论著全量引文网络 | 随机置换度保持零模型对比与标准化 $z$ 分数测算 | 中位数常规性与第 10 百分位数非典型性 | 兼具高常规基底与微量非典型期刊引证对的论著，成为本领域前 1% 高引成果的超额命中概率达到普通成果的 2.1 倍（超额倍率 > 2.0x） | $p < .001$ | 确立了适度新颖性架构在全域科学文献中的普适有效性 |
 

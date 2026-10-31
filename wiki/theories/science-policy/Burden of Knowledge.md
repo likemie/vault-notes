@@ -10,10 +10,10 @@ aliases:
 summary: "由 Benjamin F. Jones (2009) 提出的创新经济学理论；指出随着人类知识存量呈指数扩张，后继学者抵达前沿所需的前置受训时间大幅延长，挤压了个体全生命周期的有效创新窗口，导致科研巅峰年龄后移与人均产出率放缓，促使科学组织转向团队协作。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 18
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/science-policy
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Team Science]]"
+  - "[[Chain of Evidence]]"
   - "[[Research Universities]]"
   - "[[Polymath]]"
   - "[[Megascience Installations]]"
@@ -32,18 +33,20 @@ related_concepts:
 related_theories:
   - "[[New Growth Theory]]"
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Benjamin F. Jones]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[CERN]]"
   - "[[Laser Interferometer Gravitational-Wave Observatory]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -73,7 +76,7 @@ updated: 2026-10-31
 > - **2009 — 理论数理确立** Jones 建立跨期决策模型，论证教育时长增加推迟了研究活跃起始年龄（从 20 世纪初的 23 岁推迟到 20 世纪末的 31 岁），并证明两次世界大战中断博士受训对后续创新产生断崖式推迟。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 44–45)]]
 > - **2010 — [[Team Science|团队科学]]作为制度应对** Jones 进一步指出，单个学者面对庞大知识库只能转向窄深专业化，促使多学科互补科研团队成为克服知识负担的核心制度安排。
 > - **2014 — 科学荣誉滞后与授奖年龄危机** Fortunato 等人揭示伴随知识检验门槛抬升，成果发表至获得诺贝尔奖的等待期从 20 年以下上升至半数以上超过 20 年，危及奖项制度存续。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 45)]]
-> - **2021 — 博士学位受训与证据链条膨胀实证** 王大顺与巴拉巴西系统综述显示知识负担不仅体现在年龄右移，更直接显影于前置科研产出要求：1950 至 1990 年间美欧理科博士学位论著篇幅从 100 页翻番至近 200 页，论著篇均参考文献激增，生物学顶刊实验图版数量三十年间增长 2 至 4 倍，全美理工博士毕业中位年限延长至 7.2 年且超四成中途流失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 167–168)]]
+> - **2021 — 博士学位受训与[[Chain of Evidence|证据链]]条膨胀实证** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]][[Systematic Review|系统综述]]显示知识负担不仅体现在年龄右移，更直接显影于前置科研产出要求：1950 至 1990 年间美欧理科博士学位论著篇幅从 100 页翻番至近 200 页，论著篇均参考文献激增，生物学顶刊实验图版数量三十年间增长 2 至 4 倍，全美理工博士毕业中位年限延长至 7.2 年且超四成中途流失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 167–168)]]
 
 ---
 

@@ -10,7 +10,7 @@ summary: "新西兰裔英国核物理学家，近代核物理学之父，1908 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,12 +24,15 @@ tags:
   - theme/scientific-priority
   - theme/scholarly-communication
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Letters Format]]"
+  - "[[Megascience Installations]]"
+  - "[[Document]]"
   - "[[Science Immediacy]]"
   - "[[Big Science]]"
-  - "[[Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -46,7 +49,7 @@ updated: 2026-10-31
 
 > [!person-profile|notitle] 人物档案
 > - **身份位置** 新西兰裔英国实验物理学家，近代核物理学奠基人，1908 年诺贝尔化学奖得主，曾任[[The Royal Society|英国皇家学会]]会长（1925–1930）与剑桥大学卡文迪许实验室主任（1919–1937）。
-> - **核心角色** 实验原子物理学的开创者与现代学术交流体制的改革者；面对 20 世纪初优先权竞争的加剧，开创了利用顶刊读者栏目快速刊发完整科研成果的交流范式。
+> - **核心角色** 实验原子物理学的开创者与现代学术交流体制的改革者；面对 20 世纪初优先权竞争的加剧，开创了利用顶刊读者栏目快速刊发完整科研成果的交流[[Paradigm|范式]]。
 > - **代表贡献** 发现放射性衰变规律并提出半衰期概念；1911 年提出原子的核式行星结构模型；1919 年实现人类首次人工核反应；在学术发表机制上开创了现代物理学期刊标志性的[[Letters Format|快报发表范式]]。
 
 > [!citation-card] 卢瑟福论科学发现的首发优先权竞逐
@@ -88,7 +91,7 @@ updated: 2026-10-31
 
 > [!influence-path|notitle] 影响路径
 > - **理论路径** 确立原子核概念与放射性衰变规律，奠定了现代量子力学、凝聚态物理与核工程的理论母体。
-> - **方法路径** 开创高能粒子轰击与散射探测实验范式，为后世大科学装置与粒子加速器的发展指明了技术路线。
+> - **方法路径** 开创高能粒子轰击与散射探测实验范式，为后世[[Megascience Installations|大科学装置]]与粒子加速器的发展指明了技术路线。
 > - **建制与传播路径** 开辟学术期刊快报体裁先河，推动世界顶尖物理学会与商业出版集团确立加急快速审稿与短篇快报栏目。
 
 ---
@@ -96,10 +99,10 @@ updated: 2026-10-31
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 快报加急通道：首发确权敏捷性 vs 同行评审严谨性
-> > 学术界关于快报发表格式的利弊长期存在讨论。一派强调快报栏目能够在全球竞争中保障青年学者的优先发现权并加速科学扩散 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021)]]；另一派指出极短的篇幅限制与压缩的审稿周期容易牺牲实验细节与复现步骤，导致低质抢发与争议文献增加。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 165–166)]]
+> > 学术界关于快报发表格式的利弊长期存在讨论。一派强调快报栏目能够在全球竞争中保障青年学者的优先发现权并加速科学扩散 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021)]]；另一派指出极短的篇幅限制与压缩的审稿周期容易牺牲实验细节与复现步骤，导致低质抢发与争议[[Document|文献]]增加。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 165–166)]]
 > >
 > > - **Ernest Rutherford（1900）** 科学首发权的竞争容不得缓慢周期的延误，必须借助即时出版通道抢占发现高地。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 165)]]
-> > - **后世科学计量学家** 快报体裁的泛滥在一定程度上催生了以追逐发表速度为导向的学术短期行为，需依托后续详尽全文给予复核补充。
+> > - **后世[[Bibliometric Analysis|科学计量学]]家** 快报体裁的泛滥在一定程度上催生了以追逐发表速度为导向的学术短期行为，需依托后续详尽全文给予复核补充。
 
 ---
 

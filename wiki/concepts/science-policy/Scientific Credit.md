@@ -21,18 +21,18 @@ tags:
   - theme/team-science
   - theme/reward-system
 related_concepts:
-  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Document]]"
   - "[[Literature Search]]"
   - "[[Flow]]"
+  - "[[Author Contribution Disclosures]]"
   - "[[Variable]]"
   - "[[Alphabetical Authorship]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Design-Based Research]]"
-  - "[[Questionnaire]]"
   - "[[Effect Size]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Werner Heisenberg]]"
@@ -43,7 +43,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 status: active
 created: "2026-10-30"
-updated: "2026-10-30"
+updated: 2026-10-31
 ---
 
 ---
@@ -63,7 +63,7 @@ updated: "2026-10-30"
 ---
 
 > [!contrast-table] 科学信誉与关联概念辨析
-> | 维度 | 科学贡献认可（Scientific Credit） | 文献被引频次（Citation Count） | 著者署名权（Authorship） |
+> | 维度 | 科学贡献认可（Scientific Credit） | [[Document\|文献]]被引频次（Citation Count） | 著者署名权（Authorship） |
 > |---|---|---|---|
 > | **载体性质** | 依附于学者个人的学术地位与符号资本 | 依附于单篇出版文献的计量指标 | 刊印于成果扉页的排他性署名名单 |
 > | **分配规律** | 遵循高度倾斜的马太效应与集体认知感知 | 遵循优先连接与幂律分布 | 遵循期刊编辑规范或学科传统协商顺序 |
@@ -94,10 +94,10 @@ updated: "2026-10-30"
 > **探讨维度　署名惯例的制度性后果** 分析自然科学贡献序位制与人文学科字母序制在传递劳动分工信息时对共同体主观评议产生的不同影响。
 
 > [!claim] Corrêa et al. (2017)
-> **贡献排序制中首位与末位署名者的主导地位** Corrêa et al. (2017) 对《公共科学图书馆·综合》（Public Library of Science ONE, PLOS ONE）近八万篇医学与生命科学论著中分工自述清单的大规模挖掘表明，署名位次客观反映了劳动的集中度。第一署名者几乎参与了实验执行、数据分析与文稿起草的所有核心流程，末位通讯学者则主要承担实验构思与文稿审阅的通讯负责人角色。两者的贡献广度显著高于其他合作成员，而第三与第四排位以后的成员贡献在统计上几乎无法有效区分。这种首末占优的非字母序排列为共同体评价提供了直接的启发式线索。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 138–139)]]
+> **贡献排序制中首位与末位署名者的主导地位** Corrêa et al. (2017) 对《公共科学图书馆·综合》（Public Library of Science ONE, PLOS ONE）近八万篇医学与生命科学论著中分工自述清单的大规模挖掘表明，署名位次客观反映了劳动的集中度。第一署名者几乎参与了实验执行、数据分析与文稿起草的所有核[[Flow|心流]]程，末位通讯学者则主要承担实验构思与文稿审阅的通讯负责人角色。两者的贡献广度显著高于其他合作成员，而第三与第四排位以后的成员贡献在统计上几乎无法有效区分。这种首末占优的非字母序排列为共同体评价提供了直接的启发式线索。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 138–139)]]
 
 > [!claim] Marušić et al. (2006)
-> **自述贡献主观认定的严重认知分歧** Marušić et al. (2006) 调查医学期刊投稿团队的贡献声明发现，高达 69.4% 的通讯学者与普通合作成员在贡献范畴勾选上存在实质冲突。普通合作成员自我申报的贡献条目显著多于通讯学者代其选择的内容。这揭示即使引入标准化自述清单，内部成员对于谁完成了哪部分工作的认知依然存在不可消除的主观张力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 139)]]
+> **自述贡献主观认定的严重认知分歧** Marušić et al. (2006) 调查医学期刊投稿团队的[[Author Contribution Disclosures|贡献声明]]发现，高达 69.4% 的通讯学者与普通合作成员在贡献范畴勾选上存在实质冲突。普通合作成员自我申报的贡献条目显著多于通讯学者代其选择的内容。这揭示即使引入标准化自述清单，内部成员对于谁完成了哪部分工作的认知依然存在不可消除的主观张力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 139)]]
 
 ---
 

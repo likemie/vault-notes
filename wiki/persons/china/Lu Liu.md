@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -50,7 +50,7 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 华人计算社会科学家与科学学家，美国宾夕法尼亚州立大学信息科学与技术学院助理教授。
 > - **核心角色** 当代科学学（[[Metascience|Science of Science]]）与学者职业生涯动力学领域的青年领军学者之一，以大数据实证与随机建模见长。
-> - **代表贡献** 作为第一撰稿人与[[Dashun Wang|王大顺]]（Dashun Wang）及[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）合作，在 2018 年《自然》（*Nature*）封面长文中提出爆发期模型；在 2021 年《自然·通讯》（*Nature Communications*）研究中揭示了[[Exploration-Exploitation in Science|探索－利用策略]]对诱发[[Hot Streak|创造力爆发期]]的核心驱动机制。
+> - **代表贡献** 作为第一撰稿人与[[Dashun Wang|王大顺]]（Dashun Wang）及[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）合作，在 2018 年《自然》（*Nature*）封面长文中提出爆发期模型；在 2021 年《自然·通讯》（*Nature Communications*）研究中揭示了[[Exploration-Exploitation in Science|探索－利用策略]]对诱发[[Hot Streak|创造力爆发期]]的核心驱动机制。
 
 > [!citation-card] 刘路论跨领域创造力爆发期的普遍性
 > 无论在科学研究、绘画艺术还是电影导演生涯中，个体的重大颠覆性突破高度密集扎堆在平均持续数年的短暂爆发期内；爆发期的时机在生涯中随机出现，这一发现弥合了局域时间相关性与全域时序随机性的内在统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–75)]]

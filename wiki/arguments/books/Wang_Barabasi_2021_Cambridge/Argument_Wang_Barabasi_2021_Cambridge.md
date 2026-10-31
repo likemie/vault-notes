@@ -7,7 +7,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_display_title: "The Science of Science"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -49,7 +50,7 @@ updated: 2026-10-31
 
 > [!monograph-profile] 阅读档案
 > - **书名** 《[[Metascience|科学的科学]]》（The Science of Science，中文题名为暂译）。
-> - **撰写者** [[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特－拉斯洛·巴拉巴西]]（Albert-László Barabási）。
+> - **撰写者** [[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）。
 > - **出版信息** Cambridge University Press，2021 年首版；版权页标注 2020 年。
 > - **处理粒度** `chapter-arguments`，23 章按主题合为 11 个解读单元，依次用于后续论证页。
 > - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01（第 1–3 章）、单元 02（第 4–5 章）、单元 03（第 6–7 章）、单元 04（第 8–10 章）、单元 05（第 11–12 章）、单元 06（第 13–14 章）、单元 07（第 15–16 章）与单元 08（第 17–18 章）解读。

@@ -39,13 +39,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
 
-> [!def] Erdős Number
-> 埃尔德什数（Erdős Number）指在无向[[Coauthorship Network|科学合著网络]]中，任意学者与高产数学家[[Paul Erdős|保罗·埃尔德什]]（Paul Erdős）之间最短路径的连边数（合作跳数）。保罗·埃尔德什本人的埃尔德什数定义为 0；与其直接联合署名发表过论著的学者其值为 1；与值为 1 的学者合作过但未与埃尔德什本人合作过的学者其值为 2，以此类推。若某学者与埃尔德什之间不存在有限连通路径，则其值定义为无穷大（$\infty$）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–104)]]
+> [!def] [[Erdős Number]]
+> [[Paul Erdős|埃尔德什]]数（Erdős Number）指在无向[[Coauthorship Network|科学合著网络]]中，任意学者与高产数学家[[Paul Erdős|保罗·埃尔德什]]（Paul Erdős）之间最短路径的连边数（合作跳数）。保罗·埃尔德什本人的埃尔德什数定义为 0；与其直接联合署名发表过论著的学者其值为 1；与值为 1 的学者合作过但未与埃尔德什本人合作过的学者其值为 2，以此类推。若某学者与埃尔德什之间不存在有限连通路径，则其值定义为无穷大（$\infty$）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–104)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 刻画学者在全局学术合著拓扑中与核心超级枢纽学者的图论拓扑距离。

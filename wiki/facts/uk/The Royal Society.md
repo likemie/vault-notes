@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 25
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "London, United Kingdom"
@@ -25,31 +25,37 @@ tags:
   - theme/stem-education
   - theme/science-of-science
 related_concepts:
-  - "[[Informal Science Learning]]"
-  - "[[Reliability]]"
-  - "[[Scientific Attitude]]"
+  - "[[Scientific Method]]"
   - "[[Document]]"
+  - "[[Invisible College]]"
+  - "[[Paradigm]]"
   - "[[Big Science]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Engineering Education]]"
+  - "[[STEM Education]]"
+  - "[[Reliability]]"
+  - "[[Knowledge Production]]"
+  - "[[Scientific Attitude]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
+  - "[[Peer Debriefing]]"
 related_instruments: []
 related_persons:
-  - "[[Francis Bacon]]"
   - "[[Derek de Solla Price]]"
+  - "[[Francis Bacon]]"
 related_facts:
   - "[[American Association for the Advancement of Science]]"
-  - "[[Wellcome Trust]]"
-  - "[[UK Research and Innovation]]"
   - "[[EngineeringUK]]"
   - "[[UK Science Education Tracker]]"
   - "[[Public Attitudes to Science]]"
 related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: medium
 status: draft
 created: 2026-10-26
@@ -59,12 +65,12 @@ updated: 2026-10-31
 ---
 
 > [!claim] 核心定位
-> 英国皇家学会（The Royal Society）是持续运行的国家科学院与独立科学学会，也是近代经验科学建制化与学术同行评议机制的策源地。该学会创办了科学史上最早的学术期刊之一《哲学汇刊》（*Philosophical Transactions*，1665 年创刊），其逾三个世纪的出版序列为[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price）发现科学文献指数级增长定律提供了关键经验基座。在当代科技与教育治理中，学会以独立法定慈善机构身份协调高校、资助机构、产业界与司法系统，提供国家科学政策咨询，主导科学教育改革倡议与科研人员公众参与规范建设。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–162)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026)]]
+> 英国皇家学会（The Royal Society）是持续运行的国家科学院与独立科学学会，也是近代[[Scientific Method|经验科学]]建制化与学术同行评议机制的策源地。该学会创办了科学史上最早的学术期刊之一《哲学汇刊》（*Philosophical Transactions*，1665 年创刊），其逾三个世纪的出版序列为[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price）发现科学[[Document|文献]]指数级增长定律提供了关键经验基座。在当代科技与教育治理中，学会以独立法定慈善机构身份协调高校、资助机构、产业界与司法系统，提供国家科学政策咨询，主导科学教育改革倡议与科研人员公众参与规范建设。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–162)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1660 年 11 月成立于伦敦格雷沙姆学院（Gresham College），受[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）实验科学哲学启发，12 位学者倡导建立旨在通过实验促进自然知识的“隐形学院”（Invisible College）；1662 年获英王查理二世颁发皇家特许状。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 161)]]
+> - **成立时间 / 创设背景** 1660 年 11 月成立于伦敦格雷沙姆学院（Gresham College），受[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）实验科学哲学启发，12 位学者倡导建立旨在通过实验促进自然知识的“[[Invisible College|隐形学院]]”（Invisible College）；1662 年获英王查理二世颁发皇家特许状。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 161)]]
 > - **总部地点 / 业务辐射** 总部位于英国伦敦卡尔顿府联排 6–9 号（Carlton House Terrace）；业务立足英国本土并辐射全球英联邦与国际学术网络，代表英国国家科学界开展跨国科学外交与双边合作。
-> - **法人属性与经费基础** 独立的注册慈善机构（Registered Charity）与皇家特许科学院；经费基础由政府议会核心科学资助拨款（Parliamentary Grant-in-aid）、信托基金投资收益、会员会费与社会慈善捐赠（如与[[Wellcome Trust|威康信托]]等机构合作）联合构成。
+> - **法人属性与经费基础** 独立的注册慈善机构（Registered Charity）与皇家特许科学院；经费基础由政府议会核心科学资助拨款（Parliamentary Grant-in-aid）、信托基金投资收益、会员会费与社会慈善捐赠（如与威康信托等机构合作）联合构成。
 > - **核心宗旨与法定职责** 秉持其历史格言“Nullius in verba”（莫轻信他人言），致力于促进科学探索卓越性、支持顶尖科学家与青年科研骨干、为政府与议会提供独立的科学咨询，并推动公众对科学的理解与高质量科学教育。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, pp. 79–80)]]
 
 ---
@@ -72,21 +78,21 @@ updated: 2026-10-31
 > [!org-evolution] 组织发展历程
 > - **1660–1800s** **早期奠基与科学建制化开端**
 >
->   确立实验哲学范式，创办科学传播与同行交流的正式媒介，奠定近代自然科学学术建制基准。
+>   确立实验哲学[[Paradigm|范式]]，创办科学传播与同行交流的正式媒介，奠定近代自然科学学术建制基准。
 >
 >   - **1660** 学会成立；1662 年获颁皇家特许状。
 >   - **1665** 第一任秘书亨利·奥尔登伯格（Henry Oldenburg）创刊《哲学汇刊》（*Philosophical Transactions of the Royal Society*），开创学术成果公开发表与同行评议的历史先河。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 161)]]
 >   - **1703–1727** 艾萨克·牛顿（Isaac Newton）出任会长，学会确立作为欧洲科学中枢的国际声望。
 >
-> - **1900s–1950s** **大科学时代的转型与计量基底**
+> - **1900s–1950s** **[[Big Science|大科学]]时代的转型与计量基底**
 >
 >   从业余学者俱乐部转向专业化的国家科学院，资助前沿基础研究并见证文献爆炸。
 >
 >   - **1949** 新加坡莱佛士学院接收自 1662 年创刊以来的完整《哲学汇刊》过刊，普赖斯在整理堆叠卷册时首次通过物理厚度测定科学文献的指数级激增规律，为现代科学学奠定经验基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Price, 1961, cited in Wang & Barabási, 2021, pp. 161–162)]]
 >
-> - **2000s–至今** **循证治理、公众参与与科学教育战略转型**
+> - **2000s–至今** **[[Output-Oriented Governance|循证治理]]、公众参与与科学教育战略转型**
 >
->   系统介入国家科学与工程教育改革、科研人员公众参与规程与司法证据指引。
+>   系统介入国家科学与[[Engineering Education|工程教育]]改革、科研人员公众参与规程与司法证据指引。
 >
 >   - **2006** 启动首次全国科研人员公众参与基准调查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, p. 93)]]
 >   - **2014–2023** 陆续发布《Vision》《Envision》《Mathematical Futures》系列教育战略报告，倡导面向 18 岁全体学习者的跨学科宽口径文凭架构。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–35)]]
@@ -102,15 +108,15 @@ updated: 2026-10-31
 > - **会员与外部利益相关者** 拥有约 1,800 位在世院士（含多位诺贝尔奖得主）；与英国医学科学院、英国国家学术院（British Academy）、皇家工程院组成国家学院联盟。
 
 > [!pathways] 业务运行机制
-> - **议程设置** 围绕国家战略技术瓶颈、STEM 人才供给缺口与重大社会伦理议题，由理事会与政策委员会独立选定审查专题。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026)]]
-> - **研究与开发** 组织院士工作组开展证据综合，委托独立调查机构（如 Technopolis、YouGov）开展实证抽样，并与法官、教师等一线从业者深度协同。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026)]]
-> - **质量控制与透明度** 执行匿名同行审议流程，公开发布调查原始方法论，遵循英国《统计实践守则》保障实证数据的客观透明。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
+> - **议程设置** 围绕国家战略技术瓶颈、[[STEM Education|STEM]] 人才供给缺口与重大社会伦理议题，由理事会与政策委员会独立选定审查专题。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026)]]
+> - **研究与开发** 组织院士工作组开展[[Research Synthesis|证据综合]]，委托独立调查机构（如 Technopolis、YouGov）开展实证抽样，并与法官、教师等一线从业者深度协同。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026)]]
+> - **质量控制与透明度** 执行匿名[[Peer Debriefing|同行审议]]流程，公开发布调查原始方法论，遵循英国《统计实践守则》保障实证数据的客观透明。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, pp. 61–64)]]
 
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **科学教育倡议与伙伴资助（Partnership Grants）** 每年直接资助中小学校与科学家联合开展探究性实验项目，推动跨学科文凭改革与科学教师专业化发展。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 34–35)]]
-> - **纵向监测与公众参与调查** 自 2006 年起长期追踪科研人员公众参与（Public Engagement）行为动机与障碍，与[[Wellcome Trust|威康信托]]等共建全国性科研文化纵向基准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, pp. 93–94)]]
+> - **纵向监测与公众参与调查** 自 2006 年起长期追踪科研人员公众参与（Public Engagement）行为动机与障碍，与威康信托等共建全国性科研文化纵向基准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, pp. 93–94)]]
 > - **法官科学指引丛书（Science Primers for Judges）** 与英格兰及威尔士司法界联合出版，厘清法医 DNA、步态识别等前沿技术的[[Reliability|可靠性]]与证据准入规则。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, pp. 79–80)]]
 > - **旗舰学术期刊与历史文献库** 持续出版包括《哲学汇刊 A/B》（*Philosophical Transactions A/B*）、《学报 A/B》（*Proceedings A/B*）在内的系列核心期刊，维护逾 350 年的连续科学发现数据库。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 161)]]
 
@@ -122,7 +128,7 @@ updated: 2026-10-31
 ---
 
 > [!indicators] 影响力维度与指标
-> - **学术与知识生产** 维护历史悠久的学术连续出版体系，年均处理数万篇同行评议稿件；院士群体代表世界科学探索的前沿水准。
+> - **学术与[[Knowledge Production|知识生产]]** 维护历史悠久的学术连续出版体系，年均处理数万篇同行评议稿件；院士群体代表世界科学探索的前沿水准。
 > - **政策与立法渗透** 科学政策简报与议员调查直接指导英国议会科学技术特别委员会立法审查，其司法指引丛书被各级法庭作为证据有效性参考。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026)]]
 > - **学校教育实践辐射** 伙伴资助计划覆盖英国数千所中小学校，有效提升学生对科学职业认同与[[Scientific Attitude|科学态度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026)]]
 

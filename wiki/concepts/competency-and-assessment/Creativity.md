@@ -134,7 +134,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -352,7 +352,7 @@ updated: 2026-10-30
 > > 争论高凝聚力的小圈子网络是否有助于增进创造力，还是会因群体盲思而损害原创性。
 > >
 > > - **高内聚信任派** 认为紧密的局部强连接能够建立深厚的同行互信，降低跨学科交流的试错成本并保障默契协作。
-> > - **小世界倒 U 形拓扑派（Uzzi & Spiro / Wang & [[Albert-László Barabási|Barabási]]）** 证实过度紧密的抱团网络会演化为认知回音室，导致团队创造力发生系统性衰退；唯有中等小世界网络才能兼顾沟通默契与异质思维注入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+> > - **小世界倒 U 形拓扑派（Uzzi & Spiro / Wang & Barabási）** 证实过度紧密的抱团网络会演化为认知回音室，导致团队创造力发生系统性衰退；唯有中等小世界网络才能兼顾沟通默契与异质思维注入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 >
 > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。

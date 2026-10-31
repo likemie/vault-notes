@@ -9,7 +9,7 @@ summary: "美籍社会学家与人口学家，宾夕法尼亚大学社会学讲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,21 +23,25 @@ tags:
   - theme/demography
   - theme/scientific-credit
 related_concepts:
+  - "[[Document]]"
   - "[[Scientific Credit]]"
   - "[[Matthew Effect in Academia]]"
 related_theories:
   - "[[Thomas Theorem]]"
   - "[[Symbolic Interactionism]]"
-related_methods: []
+related_methods:
+  - "[[Accounts]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert K. Merton]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -74,14 +78,14 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 人类行动方式深嵌于行动者赋予情境的主观诠释（Definition of the Situation）之中。经验社会学研究必须借助生活史自述（Accounts）、个案档案与微观观察，深入把握个体的主观赋意过程；行动者对情境的主观界定直接决定其行为指向，即便初始定义偏离客观实在，基于该定义实施的行动依然会诱发不可逆转的客观制度事实。
+> 人类行动方式深嵌于行动者赋予情境的主观诠释（Definition of the Situation）之中。经验社会学研究必须借助生活史自述（[[Accounts]]）、个案档案与微观观察，深入把握个体的主观赋意过程；行动者对情境的主观界定直接决定其行为指向，即便初始定义偏离客观实在，基于该定义实施的行动依然会诱发不可逆转的客观制度事实。
 
 ---
 
 > [!influence-path] 影响路径
 > - **理论路径** 与 W. I. 托马斯共同奠定[[Thomas Theorem|托马斯定理]]与符号互动论微观情境分析传统，直接启发了自证预言理论。
 > - **方法路径** 将量化统计与质性生活史记录（Life History）相结合，奠定了实证人口学与战时社会调查的研究规范。
-> - **科学学路径** 成为科学知识社会学与科学计量学中分析学术合著声誉吸附、性别偏见与马太效应的经典历史判例。
+> - **科学学路径** 成为科学知识社会学与[[Bibliometric Analysis|科学计量学]]中分析学术合著声誉吸附、性别偏见与马太效应的经典历史判例。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang and Barabási (2021)]] — 揭示其与 W. I. 托马斯合著《美国的儿童》并在近一个世纪中理论贡献遭遇严重遮蔽的科学学事实。
@@ -90,12 +94,12 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **合作学者与配偶** 威廉·伊萨克·托马斯（William Isaac Thomas）— 合作确立托马斯定理，后结为夫妻；学术声望差距导致定理声誉长期单向归于男方。
-> - **理论承继学者** 罗伯特·K·默顿（Robert K. Merton）— 将情境定义拓展为自证预言，并在后续科学社会学中持续探讨学术优先权与声誉分配。
+> - **理论承继学者** [[Robert K. Merton|罗伯特·K·默顿]]（Robert K. Merton）— 将情境定义拓展为自证预言，并在后续科学社会学中持续探讨学术优先权与声誉分配。
 
 ---
 
 > [!warning] 未解问题与边界
-> 科学共同体早期的文献引用与学术史书写习惯于将合著成果归因于单一成名导师，导致初阶学者与女性研究者的奠基贡献长期掩映在权威学者的光环之下。
+> 科学共同体早期的[[Document|文献]]引用与学术史书写习惯于将合著成果归因于单一成名导师，导致初阶学者与女性研究者的奠基贡献长期掩映在权威学者的光环之下。
 
 ---
 
