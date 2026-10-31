@@ -24384,3 +24384,114 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="warrant
 html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] > .callout-content a.internal-link { color: #bed1dc !important; text-underline-offset: .22em; }
 html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] > .callout-content a:focus-visible { outline: 2px solid #bed1dc; outline-offset: 3px; }
 /* <<< SEMANTIC CALLOUT COLORS */
+
+/* >>> SAMPLE-DARK AND LOGIC-MAP · 2026-10-31 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout] {
+ --ac-paper:#293238; --text-normal:#e2e8eb; --text-muted:#b4c0c7;
+ --background-modifier-border:#42515a;
+ --sp-accent:#788e9b; --sp-ink:#c5d3dc; --sp-sage:#9cb8b0;
+ --sp-edge:#42515a; --sp-soft:#3d4b53;
+ color:var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout]:where(.theme-dark *) { --ac-paper:#242c31; --sp-edge:#3b4952; --sp-soft:#35424a; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout] > .callout-title .callout-title-inner { color:var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout] > .callout-title .callout-fold { color:var(--text-muted) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] {
+ --lm-accent:#537f9f; --lm-ink:#426984; --lm-ease:cubic-bezier(.22,.68,.25,1);
+ --ac-accent:var(--lm-accent) !important; --ac-ink:var(--lm-ink) !important;
+ --lm-node:var(--background-primary); --lm-edge:color-mix(in srgb,var(--lm-accent) 35%,var(--background-modifier-border));
+ container-type:inline-size; position:relative !important;
+ padding:1.2rem 1.4rem 1.1rem !important;
+ background:var(--ac-paper) !important; background-image:none !important;
+ border:1px solid var(--lm-edge) !important; border-radius:10px !important;
+ box-shadow:none !important; transform:none !important;
+ transition:border-color 260ms var(--lm-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]:where(.theme-dark *) { --lm-accent:#98b7cc; --lm-ink:#b2cadb; --lm-node:#2b3035; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]::before,html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title {
+ position:relative !important; width:100% !important; box-sizing:border-box;
+ align-items:flex-start !important; gap:.5rem !important;
+ padding:0 0 .85rem !important; margin:0 0 .85rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner {
+ display:block !important; position:relative !important; flex:1 1 0% !important;
+ width:auto !important; max-width:none !important; min-width:0 !important; padding:0 84px 0 0 !important;
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner::before {
+ content:"LOGIC MAP" !important; display:block !important; width:max-content;
+ margin:0 0 .45rem !important; padding:0 0 0 22px !important;
+ font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
+ background:linear-gradient(var(--lm-accent),var(--lm-accent)) left center / 12px 2px no-repeat !important;
+ border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--lm-ink) !important;
+ transition:background-size 280ms var(--lm-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner::after {
+ content:"" !important; display:block !important; position:absolute; right:0; top:2px;
+ width:64px; height:44px; pointer-events:none;
+ background:var(--lm-accent); opacity:.5;
+ mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Crect%20x%3D%222%22%20y%3D%2215%22%20width%3D%2215%22%20height%3D%2213%22%20rx%3D%222%22/%3E%3Cpath%20d%3D%22M17%2022h12M29%2022V8h17M29%2022v14h17%22/%3E%3Cpath%20d%3D%22M46%208l6-6%206%206-6%206z%22/%3E%3Crect%20x%3D%2246%22%20y%3D%2230%22%20width%3D%2215%22%20height%3D%2212%22%20rx%3D%222%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
+ transform:translateX(-2px); transition:transform 420ms var(--lm-ease),opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title::after {
+ content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
+ width:24px; height:2px; background:var(--lm-accent); opacity:.7;
+ transform-origin:left; transition:transform 360ms var(--lm-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-content { padding:0 !important; background:none !important; overflow:visible !important; font:400 .96em/1.85 var(--ac-sans) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]:not(.is-collapsed) > .callout-content { animation:lm-map-open 320ms var(--lm-ease) both !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-content :is(.mermaid,.block-language-mermaid) {
+ display:block; box-sizing:border-box; max-width:100% !important;
+ overflow-x:auto !important; overflow-y:hidden !important;
+ padding:1.1rem .8rem !important; margin:.4rem 0 !important;
+ background:color-mix(in srgb,var(--lm-accent) 4%,var(--background-primary)) !important;
+ border:1px solid var(--lm-edge) !important; border-radius:5px;
+ scrollbar-width:thin; scrollbar-color:var(--lm-accent) transparent;
+ cursor:auto !important; user-select:text; overscroll-behavior-x:contain;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg { display:block !important; width:auto !important; min-width:max-content !important; max-width:none !important; height:auto !important; min-height:160px !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .node.default .label-container {
+ fill:var(--lm-node) !important; stroke:var(--lm-edge) !important; stroke-width:1.2px !important;
+ transition:fill 200ms ease,stroke 200ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .node.default :is(.nodeLabel,.label) { color:var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .node.default text { fill:var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .flowchart-link { stroke:var(--lm-accent) !important; stroke-width:1.4px !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg marker path { fill:var(--lm-accent) !important; stroke:var(--lm-accent) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .edgeLabel { color:var(--text-muted) !important; background:var(--lm-node) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .edgeLabel rect { fill:var(--lm-node) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"].is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"].is-collapsed > .callout-title::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"].is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout-metadata~="notitle"]:not(.is-collapsible) > .callout-title { display:none !important; }
+@media (hover:hover) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]:hover { border-color:var(--lm-accent) !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]:hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]:hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"]:not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid svg .node.default:hover .label-container { fill:color-mix(in srgb,var(--lm-accent) 10%,var(--lm-node)) !important; stroke:var(--lm-accent) !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid:hover svg .flowchart-link { stroke-dasharray:5 5; animation:lm-edge-travel 1800ms linear infinite; }
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] a:focus-visible { outline:2px solid var(--lm-accent); outline-offset:3px; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] .mermaid:focus-visible { outline:2px solid var(--lm-accent); outline-offset:3px; }
+@container (max-width:360px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner { padding-right:60px !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-content :is(.mermaid,.block-language-mermaid) { padding:.8rem .5rem !important; }
+}
+@container (max-width:260px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner { padding-right:0 !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"] > .callout-title .callout-title-inner::after { display:none !important; }
+}
+@keyframes lm-map-open { from { opacity:.6; transform:translateY(4px); } to { opacity:1; transform:none; } }
+@keyframes lm-edge-travel { to { stroke-dashoffset:-20; } }
+@media (prefers-reduced-motion:reduce) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout],html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] *,html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] *::before,html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] *::after { animation:none !important; transition:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] > .callout-content,html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] .flowchart-link { stroke-dasharray:none !important; }
+}
+/* <<< SAMPLE-DARK AND LOGIC-MAP */

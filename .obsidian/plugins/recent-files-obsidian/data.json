@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Bianconi-Barabási Model",
+      "path": "wiki/theories/science-policy/Bianconi-Barabási Model.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit08",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+    },
+    {
+      "basename": "Preferential Attachment in Academia",
+      "path": "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
     },
     {
-      "basename": "Albert-László Barabási",
-      "path": "wiki/persons/us/Albert-László Barabási.md"
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
     },
     {
       "basename": "Relative Citation Normalization",
       "path": "wiki/methods/quantitative/Relative Citation Normalization.md"
+    },
+    {
+      "basename": "Albert-László Barabási",
+      "path": "wiki/persons/us/Albert-László Barabási.md"
     },
     {
       "basename": "Citation Distribution",
@@ -19,10 +35,6 @@
     {
       "basename": "Big Science",
       "path": "wiki/concepts/science-policy/Big Science.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
     },
     {
       "basename": "John B. Fenn",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-    },
-    {
-      "basename": "Random Sampling",
-      "path": "wiki/methods/quantitative/Random Sampling.md"
-    },
-    {
-      "basename": "i10-Index",
-      "path": "wiki/methods/quantitative/i10-Index.md"
-    },
-    {
-      "basename": "Contemporary h-Index",
-      "path": "wiki/methods/quantitative/Contemporary h-Index.md"
     }
   ],
   "omittedPaths": [],
