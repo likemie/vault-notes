@@ -191,7 +191,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 > [!def] Randomised Controlled Trials
@@ -425,3 +425,4 @@ updated: 2026-10-29
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判[[Meta-meta-analysis|二阶元分析]]将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如[[Class Size|班级规模]]缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以[[Random Assignment|随机分配]]为代表的美式量化评估规程成套引入“新政”福利改革，在[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 探讨科学学中利用随机对照试验检验学术合作成因（如哈佛医学院研讨会面对面交流将合作概率提升 75%）的因果推断范式，同时指出微观干预实验在确定性与外部效度之间的内在张力（pp. 248–251）。

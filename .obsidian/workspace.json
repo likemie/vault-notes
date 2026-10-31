@@ -315,6 +315,11 @@
   },
   "active": "071a1983dcd366f9",
   "lastOpenFiles": [
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+    "wiki/persons/us/Abraham Wald.md",
+    "wiki/concepts/research-methodology/Credibility Revolution.md",
+    "wiki/concepts/science-policy/Altmetrics.md",
+    "wiki/concepts/research-methodology/Survivorship Bias.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-001/result.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-012/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-012/batch-result.schema.json",
@@ -335,7 +340,6 @@
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-004/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-003/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-002/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-001/prompt.md",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_21-2_Choosing_Experiments_Accelerate_Discovery.jpg",
@@ -349,9 +353,6 @@
     "wiki/theories/science-policy/Bianconi-Barabási Model.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit09-c86e16ba/batch-005/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit09-c86e16ba/batch-004/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit09-c86e16ba/batch-003/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit09-c86e16ba/batch-002/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit09-c86e16ba/batch-001/prompt.md",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_A2-1_Empirical_Validation_Initial_Attractiveness.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-7_Predicting_Future_Citations.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-6_Hurricane_Forecast_Analogy.jpg",
@@ -360,7 +361,6 @@
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-3_Universality_Citation_Dynamics.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-2_Citation_Patterns_Predicted_WSB_Model.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-1_Citation_Histories_Individual_Papers.jpg",
-    "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
     "未命名.canvas"
   ]
 }

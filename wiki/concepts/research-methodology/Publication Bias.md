@@ -231,4 +231,4 @@ updated: 2026-10-31
 > - [[Creation of REES]] — 实证教育研究[[Preregistration\|预注册]]（REES）制度，旨在通过研究设计前置公开防范发表偏倚与选择性报告。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 结合医药工业药企偏倚镜像，系统批判二阶综合重度依赖公开文献导致发表偏倚被层级放大，揭露缺乏未发表研究审查的方法论漏洞。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应 Snook et al. 批评，援引 Schulze (2004) 阐明元分析对偏倚控制的方法论关切，辩护同行评审对文献库的质量把关功能。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐释正结果偏好导致的文件抽屉问题对前沿空白探索的扭曲，提出保存与分析负面结果是客观绘制知识图谱并提升可复现性的必要基石。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐释正结果偏好对前沿空白探索的扭曲，并在[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|第 23 章]]指出科学学依赖发表数据陷入幸存者偏差，主张打通专利与基金全量申请底表以还原完整科研管线。

@@ -54,7 +54,7 @@ updated: 2026-10-31
 > - **撰写者** [[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）。
 > - **出版信息** Cambridge University Press，2021 年首版；版权页标注 2020 年。
 > - **处理粒度** `chapter-arguments`，23 章按主题合为 11 个解读单元，依次用于后续论证页。
-> - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01（第 1–3 章）、单元 02（第 4–5 章）、单元 03（第 6–7 章）、单元 04（第 8–10 章）、单元 05（第 11–12 章）、单元 06（第 13–14 章）、单元 07（第 15–16 章）、单元 08（第 17–18 章）、单元 09（第 19–20 章）与单元 10（第 21–22 章）解读。
+> - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01 至单元 11 全书解读（含第 1–23 章与全书结语）。
 
 ---
 
@@ -71,7 +71,7 @@ updated: 2026-10-31
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|08 高影响成果的形成机制]] | 第 17–18 章；pp. 184–196，正文 13 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit08_Ch17-18_Formation_of_High_Impact_Research.txt)；已解读 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|09 引用随时间变化与最终影响]] | 第 19–20 章；pp. 197–219，正文 23 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit09_Ch19-20_Citation_Dynamics_and_Ultimate_Impact.txt)；已解读 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|10 科学加速与人工智能]] | 第 21–22 章；pp. 223–240，正文 18 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit10_Ch21-22_Accelerating_Science_and_AI.txt)；已解读 |
-> | 11 偏差、失败与[[Causality\|因果推断]] | 第 23 章；pp. 241–251，正文 11 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit11_Ch23_Bias_Failure_and_Causality.txt)；待解读 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|11 偏差、失败与因果推断]] | 第 23 章与结语；pp. 241–253，正文 13 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit11_Ch23_Bias_Failure_and_Causality.txt)；已解读 |
 
 ---
 

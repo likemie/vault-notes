@@ -301,6 +301,8 @@
     "Ahmad et al. (2024)": "Ahmad et al., 2024",
     "Ahmad et al., 2024": "Ahmad et al., 2024",
     "Ahmad, 2016": "Ahmad, 2016",
+    "Ahmadpoor & Jones (2017)": "Ahmadpoor & Jones, 2017",
+    "Ahmadpoor & Jones, 2017": "Ahmadpoor & Jones, 2017",
     "Ahmady et al. (2021)": "Ahmady et al., 2021",
     "Ahmady et al., 2021": "Ahmady et al., 2021",
     "Ahmed & Pervin (2015)": "Ahmed & Pervin, 2015",
@@ -882,6 +884,8 @@
     "Anggraeni et al., 2023": "Anggraeni et al., 2023",
     "Angoff (1971)": "Angoff, 1971",
     "Angoff, 1971": "Angoff, 1971",
+    "Angrist & Pischke (2010)": "Angrist & Pischke, 2010",
+    "Angrist & Pischke, 2010": "Angrist & Pischke, 2010",
     "Angrist (1999)": "Angrist, 1999",
     "Angrist (2019)": "Angrist, 2019",
     "Angrist et al. (2002)": "Angrist et al., 2002",
@@ -1318,6 +1322,7 @@
     "Azevedo, 2010": "Azevedo, 2010",
     "Azmi et al. (2024)": "Azmi et al., 2024",
     "Azmi et al., 2024": "Azmi et al., 2024",
+    "Azoulay (2012)": "Azoulay, 2012",
     "Azoulay et al. (2010)": "Azoulay et al., 2010",
     "Azoulay et al. (2011)": "Azoulay et al., 2011",
     "Azoulay et al. (2014)": "Azoulay et al., 2014",
@@ -1328,6 +1333,7 @@
     "Azoulay et al., 2014": "Azoulay et al., 2014",
     "Azoulay et al., 2019": "Azoulay et al., 2019",
     "Azoulay et al., 2020": "Azoulay et al., 2020",
+    "Azoulay, 2012": "Azoulay, 2012",
     "B. L. Serwer (1966)": "B. L. Serwer, 1966",
     "B. L. Serwer, 1966": "B. L. Serwer, 1966",
     "BBC (2025)": "BBC, 2025",
@@ -2871,7 +2877,9 @@
     "Boudon, 1982": "Boudon, 1982",
     "Boudon, 2001": "Boudon, 2001",
     "Boudreau et al. (2016)": "Boudreau et al., 2016",
+    "Boudreau et al. (2017)": "Boudreau et al., 2017",
     "Boudreau et al., 2016": "Boudreau et al., 2016",
+    "Boudreau et al., 2017": "Boudreau et al., 2017",
     "Bougma et al. (2013)": "Bougma et al., 2013",
     "Bougma et al., 2013": "Bougma et al., 2013",
     "Boulanger (1981)": "Boulanger, 1981",
@@ -3701,6 +3709,8 @@
     "Cake, 2025": "Cake, 2025",
     "Calarco (2011)": "Calarco, 2011",
     "Calarco, 2011": "Calarco, 2011",
+    "Calcagno et al. (2012)": "Calcagno et al., 2012",
+    "Calcagno et al., 2012": "Calcagno et al., 2012",
     "Calder (1979)": "Calder, 1979",
     "Calder, 1979": "Calder, 1979",
     "Calderón (1998)": "Calderón, 1998",
@@ -4734,6 +4744,8 @@
     "Clifton Kreps (1966)": "Clifton Kreps, 1966",
     "Clifton Kreps, 1966": "Clifton Kreps, 1966",
     "Clifton, 2006": "Clifton, 2006",
+    "ClinicalTrials.gov (2000)": "ClinicalTrials.gov, 2000",
+    "ClinicalTrials.gov, 2000": "ClinicalTrials.gov, 2000",
     "Clinton-Lisell et al. (2022)": "Clinton-Lisell et al., 2022",
     "Clinton-Lisell et al., 2022": "Clinton-Lisell et al., 2022",
     "Clogg & Haritou (1997)": "Clogg & Haritou, 1997",
@@ -7391,6 +7403,8 @@
     "Fan et al., 2025": "Fan et al., 2025",
     "Fan, 1993": "Fan, 1993",
     "Fan, 2020": "Fan, 2020",
+    "Fanelli (2012)": "Fanelli, 2012",
+    "Fanelli, 2012": "Fanelli, 2012",
     "Fang & Bingyuan (2024)": "Fang & Bingyuan, 2024",
     "Fang & Bingyuan, 2024": "Fang & Bingyuan, 2024",
     "Fang & Casadevall (2011)": "Fang & Casadevall, 2011",
@@ -11202,7 +11216,9 @@
     "IBO, 2014": "IBO, 2014",
     "ICEF (2016)": "ICEF, 2016",
     "ICEF, 2016": "ICEF, 2016",
+    "ICMJE (2005)": "ICMJE, 2005",
     "ICMJE (2017)": "ICMJE, 2017",
+    "ICMJE, 2005": "ICMJE, 2005",
     "ICMJE, 2017": "ICMJE, 2017",
     "IIEP (2025)": "IIEP, 2025",
     "IIEP Dakar (2025)": "IIEP Dakar, 2025",
@@ -14196,6 +14212,7 @@
     "Li et al. (2010)": "Li et al., 2010",
     "Li et al. (2011)": "Li et al., 2011",
     "Li et al. (2012)": "Li et al., 2012",
+    "Li et al. (2017)": "Li et al., 2017",
     "Li et al. (2018a)": "Li et al., 2018a",
     "Li et al. (2018b)": "Li et al., 2018b",
     "Li et al. (2019a)": "Li et al., 2019a",
@@ -14216,6 +14233,7 @@
     "Li et al., 2010": "Li et al., 2010",
     "Li et al., 2011": "Li et al., 2011",
     "Li et al., 2012": "Li et al., 2012",
+    "Li et al., 2017": "Li et al., 2017",
     "Li et al., 2018": "Li et al., 2018b",
     "Li et al., 2018a": "Li et al., 2018a",
     "Li et al., 2018b": "Li et al., 2018b",
@@ -19033,6 +19051,8 @@
     "Price-Mohr, 2015": "Price-Mohr, 2015",
     "Pridemore (1995)": "Pridemore, 1995",
     "Pridemore, 1995": "Pridemore, 1995",
+    "Priem et al. (2010)": "Priem et al., 2010",
+    "Priem et al., 2010": "Priem et al., 2010",
     "Prigogine & Stengers (1985)": "Prigogine & Stengers, 1985",
     "Prigogine & Stengers, 1985": "Prigogine & Stengers, 1985",
     "Prime et al. (2023)": "Prime et al., 2023",
@@ -24667,6 +24687,8 @@
     "Walberg, 1984": "Walberg, 1984",
     "Wald & Harland (2019)": "Wald & Harland, 2019",
     "Wald & Harland, 2019": "Wald & Harland, 2019",
+    "Wald (1943)": "Wald, 1943",
+    "Wald, 1943": "Wald, 1943",
     "Waldegrave & Simons (2014)": "Waldegrave & Simons, 2014",
     "Waldegrave & Simons, 2014": "Waldegrave & Simons, 2014",
     "Walder (1995)": "Walder, 1995",
@@ -29339,6 +29361,21 @@
       "seen_in": [],
       "title": "To include or not to include: A meta-analysis on the effect of inclusion on mathematics for children with and without special needs"
     },
+    "Ahmadpoor & Jones, 2017": {
+      "aliases": [
+        "Ahmadpoor & Jones, 2017",
+        "Ahmadpoor & Jones (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ahmadpoor & Jones, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
+    },
     "Ahmady et al., 2021": {
       "aliases": [
         "Ahmady et al., 2021",
@@ -33517,6 +33554,22 @@
       ],
       "title": ""
     },
+    "Angrist & Pischke, 2010": {
+      "aliases": [
+        "Angrist & Pischke, 2010",
+        "Angrist & Pischke (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Angrist & Pischke, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
+      ],
+      "title": ""
+    },
     "Angrist et al., 2002": {
       "aliases": [
         "Angrist et al., 2002",
@@ -36787,6 +36840,21 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md"
+      ],
+      "title": ""
+    },
+    "Azoulay, 2012": {
+      "aliases": [
+        "Azoulay, 2012",
+        "Azoulay (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Azoulay, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
       ],
       "title": ""
     },
@@ -48162,6 +48230,21 @@
       ],
       "title": ""
     },
+    "Boudreau et al., 2017": {
+      "aliases": [
+        "Boudreau et al., 2017",
+        "Boudreau et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Boudreau et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
+    },
     "Bougma et al., 2013": {
       "aliases": [
         "Bougma et al., 2013",
@@ -54287,6 +54370,21 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
         "wiki/concepts/sociology-of-education/Cultural Barrier.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
+      ],
+      "title": ""
+    },
+    "Calcagno et al., 2012": {
+      "aliases": [
+        "Calcagno et al., 2012",
+        "Calcagno et al. (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Calcagno et al., 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
       ],
       "title": ""
     },
@@ -61692,6 +61790,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+      ],
+      "title": ""
+    },
+    "ClinicalTrials.gov, 2000": {
+      "aliases": [
+        "ClinicalTrials.gov, 2000",
+        "ClinicalTrials.gov (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ClinicalTrials.gov, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Clinical Trial.md"
       ],
       "title": ""
     },
@@ -81178,6 +81291,22 @@
       ],
       "title": ""
     },
+    "Fanelli, 2012": {
+      "aliases": [
+        "Fanelli, 2012",
+        "Fanelli (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fanelli, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Preregistration.md",
+        "wiki/concepts/science-policy/Crowded Frontier.md"
+      ],
+      "title": ""
+    },
     "Fang & Bingyuan, 2024": {
       "aliases": [
         "Fang & Bingyuan, 2024",
@@ -84767,7 +84896,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
+        "wiki/concepts/science-policy/Crowded Frontier.md"
       ],
       "title": ""
     },
@@ -109014,6 +109144,21 @@
       ],
       "title": ""
     },
+    "ICMJE, 2005": {
+      "aliases": [
+        "ICMJE, 2005",
+        "ICMJE (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ICMJE, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Clinical Trial.md"
+      ],
+      "title": ""
+    },
     "ICMJE, 2017": {
       "aliases": [
         "ICMJE, 2017",
@@ -130401,6 +130546,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+      ],
+      "title": ""
+    },
+    "Li et al., 2017": {
+      "aliases": [
+        "Li et al., 2017",
+        "Li et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Li et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
       ],
       "title": ""
     },
@@ -165686,6 +165846,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Control of practice and level of feedback in computer-based instruction"
+    },
+    "Priem et al., 2010": {
+      "aliases": [
+        "Priem et al., 2010",
+        "Priem et al. (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Priem et al., 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
     },
     "Prigogine & Stengers, 1985": {
       "aliases": [
@@ -206355,6 +206530,21 @@
       ],
       "title": ""
     },
+    "Wald, 1943": {
+      "aliases": [
+        "Wald, 1943",
+        "Wald (1943)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wald, 1943"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
+    },
     "Waldegrave & Simons, 2014": {
       "aliases": [
         "Waldegrave & Simons, 2014",
@@ -207256,7 +207446,9 @@
         "Wang et al., 2019"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
       "title": "A study on the impact of intelligent tutor systems on academic achievement: A quantitative meta-analysis perspective."
     },
     "Wang et al., 2020a": {

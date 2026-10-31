@@ -1279,6 +1279,14 @@
       "seen_in": [],
       "title": "To include or not to include: A meta-analysis on the effect of inclusion on mathematics for children with and without special needs"
     },
+    "Ahmadpoor & Jones, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
+    },
     "Ahmady et al., 2021": {
       "datasets": [
         "metax:S1309"
@@ -3796,6 +3804,15 @@
       ],
       "title": ""
     },
+    "Angrist & Pischke, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
+      ],
+      "title": ""
+    },
     "Angrist et al., 2002": {
       "doi": "",
       "isbn": "",
@@ -5768,6 +5785,14 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md"
+      ],
+      "title": ""
+    },
+    "Azoulay, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
       ],
       "title": ""
     },
@@ -12620,6 +12645,14 @@
       ],
       "title": ""
     },
+    "Boudreau et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
+    },
     "Bougma et al., 2013": {
       "datasets": [
         "metax:S0160"
@@ -16297,6 +16330,14 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
         "wiki/concepts/sociology-of-education/Cultural Barrier.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
+      ],
+      "title": ""
+    },
+    "Calcagno et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
       ],
       "title": ""
     },
@@ -20827,6 +20868,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+      ],
+      "title": ""
+    },
+    "ClinicalTrials.gov, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Clinical Trial.md"
       ],
       "title": ""
     },
@@ -32501,6 +32550,15 @@
       ],
       "title": ""
     },
+    "Fanelli, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Preregistration.md",
+        "wiki/concepts/science-policy/Crowded Frontier.md"
+      ],
+      "title": ""
+    },
     "Fang & Bingyuan, 2024": {
       "doi": "",
       "isbn": "",
@@ -34686,7 +34744,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
+        "wiki/concepts/science-policy/Crowded Frontier.md"
       ],
       "title": ""
     },
@@ -49352,6 +49411,14 @@
       ],
       "title": ""
     },
+    "ICMJE, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Clinical Trial.md"
+      ],
+      "title": ""
+    },
     "ICMJE, 2017": {
       "doi": "",
       "isbn": "",
@@ -62389,6 +62456,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+      ],
+      "title": ""
+    },
+    "Li et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
       ],
       "title": ""
     },
@@ -83741,6 +83816,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Control of practice and level of feedback in computer-based instruction"
+    },
+    "Priem et al., 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
     },
     "Prigogine & Stengers, 1985": {
       "doi": "",
@@ -108395,6 +108478,14 @@
       ],
       "title": ""
     },
+    "Wald, 1943": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
+    },
     "Waldegrave & Simons, 2014": {
       "doi": "",
       "isbn": "",
@@ -108940,7 +109031,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
       "title": "A study on the impact of intelligent tutor systems on academic achievement: A quantitative meta-analysis perspective."
     },
     "Wang et al., 2020": {

@@ -14218,6 +14218,16 @@
     ]
   },
   {
+    "title": "Credibility Revolution",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Credibility Revolution.md",
+    "aliases": [
+      "可信性革命",
+      "可信度革命",
+      "经验微观计量革命"
+    ]
+  },
+  {
     "title": "Criterion Problem",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Criterion Problem.md",
@@ -15508,6 +15518,18 @@
     ]
   },
   {
+    "title": "Survivorship Bias",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Survivorship Bias.md",
+    "aliases": [
+      "幸存者偏差",
+      "生存偏差",
+      "幸存者偏倚",
+      "生存者偏差",
+      "存活者偏差"
+    ]
+  },
+  {
     "title": "Theoretical End Point",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Theoretical End Point.md",
@@ -15849,6 +15871,18 @@
       "姓氏字母署名制",
       "alphabetical author ordering",
       "alphabetical ordering of authors"
+    ]
+  },
+  {
+    "title": "Altmetrics",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Altmetrics.md",
+    "aliases": [
+      "替代计量学",
+      "补充计量学",
+      "替代计量指标",
+      "替代性度量指标",
+      "altmetric"
     ]
   },
   {
@@ -30895,6 +30929,17 @@
       "马斯洛",
       "Maslow, A. H.",
       "Abraham H. Maslow"
+    ]
+  },
+  {
+    "title": "Abraham Wald",
+    "type": "person",
+    "path": "wiki/persons/us/Abraham Wald.md",
+    "aliases": [
+      "亚伯拉罕·沃尔德",
+      "沃尔德",
+      "A. Wald",
+      "Wald, A."
     ]
   },
   {
@@ -46288,6 +46333,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

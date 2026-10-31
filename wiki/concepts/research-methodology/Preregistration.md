@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 ---
@@ -156,10 +156,6 @@ updated: 2026-10-29
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜预注册通过事前锁定分析计划有效遏制假阳性与选择性报告
 > **探讨维度　自由度抑制机制** 围绕事前锁定如何阻断研究者在多重假设检验与海量模型组合中筛选虚假显著结果，学界强调制度化的时间戳备案能够从根本上扭转选择性报告偏倚。
 
@@ -171,6 +167,9 @@ updated: 2026-10-29
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
 > **前置质控与外部独立评估破除[[Replication in Education Research\|复现危机]]** 早期教育[[Intervention Research\|干预研究]]屡现复现危机（[[Reproducibility Crisis|Replication Crisis]]），主要根源于小样本抽样、开发者自评利益冲突以及随意挑选自编测验等可疑研究实践。在《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）循证改革中，大型联邦资助项目（如 i3 与 [[Education Innovation and Research\|EIR]]）和英国 EEF 强制要求在公共登记处（如 REES、ISRCTN）进行时间戳预注册并锁定统计分析计划（SAP），与[[Evaluator Independence\|第三方独立评估]]、多中心大样本整群试验共同构筑了坚实的质控标准，从根本上阻断了事后数据钓鱼与选择性报告，使达到循证标准的教育项目展现出高度可复现的实证效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25, 27)]]
+
+> [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
+> **全学科预注册革命截断从众避险与失败隐匿** 传统学术资助与期刊评价体制偏爱显著正结果，导致负面结论报告占比由 1990 年的 30% 萎缩至 2007 年的 14%，诱发学者退守已知节点的拥挤前沿现象。借鉴 2000 年 ClinicalTrials.gov 与 2005 年国际医学期刊编辑委员会（ICMJE）强制预注册的铁律，自 2019 年以来心理学率先发起的全学科“预注册革命”，通过在独立平台预先锁定设计假设与统计模型，并将预注册确立为资助审批与成果发表的硬性准入门槛，能从系统根源上截断从众跟风与隐匿失败的逃避通道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 228–229)]]
 
 ---
 
@@ -203,17 +202,17 @@ updated: 2026-10-29
 > **探讨维度　制度设计与合规惩戒机制** 围绕预注册如何转化为实质性的科学约束力，学者指出必须将预注册与独立评估团队防火墙、合同权责约束及证据等级降级惩戒深度绑定。
 
 > [!claim] Edovald, T. & Nevill, C.
-> **协议防火墙与安全锁扣分机制形成强硬合规约束** 孤立的自愿预注册难以遏制利益相关方的发表冲动。EEF 将预注册置于独立的评估制度体系中：设立评估者专家库并推行三方资助协议，将干预项目方与评估团队在组织和财务上彻底物理隔离；在证据评级体系中研发了[[EEF Padlock Security Rating\|挂锁安全评级]]（The EEF, 2019c），明确将是否忠实遵循预注册评估方案与统计分析计划（SAP）作为核心审查项。凡未获预先批准擅自修改主要结果测量、变换分析模型或违背[[Intent-to-Treat Analysis\|意向性分析]]规程的研究，直接扣除 1 把挂锁，从而使 85% 以上发表报告稳固维持在 3 锁以上的高质量水平。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–52, 57)]]
+> **协议防火墙与安全锁扣分机制形成刚性合规制约** 孤立的自愿预注册难以遏制利益相关方的发表冲动。EEF 将预注册置于独立的评估制度体系中：设立评估者专家库并推行三方资助协议，将干预项目方与评估团队在组织和财务上彻底物理隔离；在证据评级体系中研发了[[EEF Padlock Security Rating\|挂锁安全评级]]（The EEF, 2019c），明确将是否忠实遵循预注册评估方案与统计分析计划（SAP）作为核心审查项。凡未获预先批准擅自修改主要结果测量、变换分析模型或违背[[Intent-to-Treat Analysis\|意向性分析]]规程的研究，直接扣除 1 把挂锁，从而使 85% 以上发表报告稳固维持在 3 锁以上的高质量水平。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–52, 57)]]
 
 > [!claim] Burgess, S. et al.
-> **官方独立预注册阻断开发者的次要指标重新包装** 在一项针对中学教师同行观察干预的试验中，EEF 独立评估团队严格依照预注册方案计算出该项目对学生学业无统计学显著影响的零结果，并依规官方公开；项目研发者随后绕开独立评估团队，自行挖掘次要指标并在外部学术期刊发表了声称干预显著有效的论文（Burgess et al., 2019）。这一案例凸显出，正是因为存在权威官方平台的预注册方案与独立评估报告，学界才能清晰识别出开发者的重新包装行为，预注册构成了抵御学术洗白的关键证据底座。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Burgess et al., 2019, 引用见 Edovald & Nevill, 2021, pp. 51–52, 引自 Edovald & Nevill, 2021)]]
+> **官方独立预注册阻断开发者的次要指标重新包装** 在一项针对中学教师同行观察干预的试验中，EEF 独立评估团队严格依照预注册方案计算出该项目对学生学业无统计学显著影响的零结果，并依规官方公开；项目研发者随后绕开独立评估团队，自行挖掘次要指标并在外部学术期刊发表了声称干预显著有效的结果（Burgess et al., 2019）。这一案例凸显出，正是因为存在权威官方平台的预注册方案与独立评估报告，学界才能清晰识别出开发者的重新包装行为，预注册构成了抵御学术包装的关键证据防线。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Burgess et al., 2019, 引用见 Edovald & Nevill, 2021, pp. 51–52, 引自 Edovald & Nevill, 2021)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **自由度抑制机制** | 通过时间戳事前锁定分析模型与终点变量，遏制发表偏倚与数据钓鱼 | 所有[[Causality\|因果推断]]、验证性研究与政策效果评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
+> | **自由度抑制机制** | 通过时间戳事前锁定分析模型与终点变量，遏制发表偏倚与数据钓鱼 | 所有[[Causality\|因果推断]]、验证性研究与政策效果评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
 > | **预注册的不充分性与补全路径** | 预注册不能完全消除观察数据后的灵活微调，必须与微观数据开放及代码复现深度互补 | 统计建模分析、复杂协变量调整与敏感性复算 | Gelman and Loken (2014); Xiao, Higgins, & Kasim (2016) |
 > | **制度刚性与实地生态调试** | 开放学校现场充满突发情境，偏离不可避免，关键在于透明记录与过程评估证据支撑 | 学校本位现场试验、复杂多层级干预评估 | Craig et al. (2008); Humphrey et al. (2016) |
 > | **制度绑定与惩戒防线** | 预注册必须与独立评估人制度、合同隔离及证据安全评级扣分形成硬性约束联动 | 国家级证据中介、公共资助大规模评估与政策采纳 | Burgess et al. (2019); The EEF (2019c) |
@@ -226,6 +225,7 @@ updated: 2026-10-29
 > - **2018 — 美国[[Institute of Education Sciences\|教育科学研究院]]创设 REES 平台** 美国教育科学研究院（IES）主导启动效能与有效性研究注册处（REES），由 Anderson 等学者（2019）系统阐发，成为美国教育因果评估治理标准化的标志性里程碑。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
 > - **2018–2019 — 英国 [[Education Endowment Foundation\|EEF]] 制度化[[Statistical Analysis Plan\|统计分析计划]]与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），出台《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
 > - **2019 — [[Evidence-Based Education\|循证教育]]改革确立预注册为复现质控支柱** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 系统论证在大规模教育资助（如 i3、[[Education Innovation and Research\|EIR]]、EEF）中，大样本预注册与[[Evaluator Independence\|第三方独立评估]]构成了破解教育科学复现危机、确保 [[Every Student Succeeds Act\|ESSA]] 分层证据效力的制度基石。
+> - **2019–2021 — 全学科“预注册革命”与资助发表准入联动** 心理学率先加速推行全学科预注册革命，王大顺与巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021]]）系统论证将方案预注册与项目拨款及顶刊录用硬性挂钩，对破除学术从众跟风与负面数据隐匿的制度阻断功能。
 > - **2020–2021 — 证据中介准入标准与全球推广** [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] 呼吁将预注册作为 [[What Works Clearinghouse\|WWC]] 审查准入的强制条件；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 总结 EEF 200 余项大规模试验全生命周期方案透明治理经验，预注册成为现代证据中介的核心标配。
 > - **2025 — 预注册[[Paradigm|范式]]扩展至宏观[[Meta-meta-analysis|二阶元分析]]审计** 瑞典卡尔门达尔（Kalmendal）等学者在开放科学框架（Open Science Framework，OSF）上完成首个针对二阶元综合（《[[Visible Learning|可见的学习]]》）全量审计方案的预注册（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），将预注册规范由传统的“单一干预试验与一阶[[Meta-analysis|元分析]]”前沿拓展至“宏观证据清理与[[Metascience|元科学]]审计”，确立了三阶审计锁定的新标准。
 
@@ -264,6 +264,7 @@ updated: 2026-10-29
 > | EEF-NPD 开放档案库 | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 i3 / [[Education Innovation and Research\|EIR]] 与英国 EEF 资助的数百项大规模现场试验 | 循证改革质量综述与方法学评估 | 预注册与质控标准对破除[[Replication in Education Research\|复现危机]]的作用 | 大样本预注册、独立评估与标准化测验结合彻底扭转了小样本自评导致的不复现困境 | 质实质控飞跃 | 确立预注册为联邦 [[Every Student Succeeds Act\|ESSA]] 分层证据体系的核心质控支柱 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 322 个影响因素（检索精读 1,369 篇一阶[[Meta-analysis\|元分析]]） | 预注册全量[[Metascience\|元科学]]审计与双独立编码 | OSF 方案预注册、[[PICO Framework\|PICO]] 纳入合规率与数据复现率 | 预先在 OSF 锁定审计方案；仅 19% 满足 PICO 关卡，301 项中仅 2 项（0.66%）数据提取完全可复现，44% 报告效应量查无出处 | 审计方案 100% 事前锁定并公开发表 | 证实预注册规程对于防止审查偏倚、开展高[[Reliability\|信度]]二阶证据审查的关键方法学价值 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] | 跨学科实证研究出版偏倚与医学预注册制度历史基准 | 政策元分析与制度效果比较 | 负面结果报告率下降与未注册临床试验拒收率 | 负面结果从 30% 降至 14%（Fanelli, 2012）；ICMJE 铁律实现未注册试验 100% 拒收 | 跨时期显著 | 确立预注册绑定发表门槛对扭转文件抽屉效应与拥挤前沿的核心机制 |
 
 ---
 
@@ -272,4 +273,5 @@ updated: 2026-10-29
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年逾 150 项大规模学校 [[Randomised Controlled Trials\|RCT]] 的治理实践，详细呈现了从 [[ISRCTN]] 预注册、独立协议防火墙、[[Statistical Analysis Plan\|统计分析计划]]（SAP）预先公开，到杜伦大学四模型复算驱动行业指南制定的全生命周期开放科学模式。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论述[[Evidence-Based Education\|循证教育]]改革如何通过大样本预注册、锁定统计分析计划（SAP）、[[Evaluator Independence\|第三方独立评估]]与独立标准化测验等严格质控标准，从根本上化解教育研究中的[[Replication in Education Research\|复现危机]]与开发者偏倚。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 在 OSF 实施预注册开展全量[[Metascience|元科学]]审计，将预注册规程创新性应用于检验宏观证据库《[[Visible Learning|可见的学习]]》，以无偏的事前[[Analytic Framework|分析框架]]实证终结了其数据可[[Reliability|信度]]。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 论述自 2019 年起从医学向心理学等全学科扩展的“预注册革命”，提出将方案预注册与项目拨款及顶刊录用硬性挂钩，全系统化解从众扎堆与负面数据隐匿的治理路径。
 
