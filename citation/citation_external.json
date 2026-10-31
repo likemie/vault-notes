@@ -5807,6 +5807,10 @@
     "Deem (2001)": "Deem, 2001",
     "Deem, 1994": "Deem, 1994",
     "Deem, 2001": "Deem, 2001",
+    "DeepMind AlphaGo (2016)": "DeepMind AlphaGo, 2016",
+    "DeepMind AlphaGo, 2016": "DeepMind AlphaGo, 2016",
+    "DeepMind AlphaZero (2017)": "DeepMind AlphaZero, 2017",
+    "DeepMind AlphaZero, 2017": "DeepMind AlphaZero, 2017",
     "Defior (1994)": "Defior, 1994",
     "Defior, 1994": "Defior, 1994",
     "Degé (2011a)": "Degé, 2011a",
@@ -69580,6 +69584,36 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
+      ],
+      "title": ""
+    },
+    "DeepMind AlphaGo, 2016": {
+      "aliases": [
+        "DeepMind AlphaGo, 2016",
+        "DeepMind AlphaGo (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "DeepMind AlphaGo, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+      ],
+      "title": ""
+    },
+    "DeepMind AlphaZero, 2017": {
+      "aliases": [
+        "DeepMind AlphaZero, 2017",
+        "DeepMind AlphaZero (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "DeepMind AlphaZero, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
       ],
       "title": ""
     },
