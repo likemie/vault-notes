@@ -9,6 +9,11 @@ aliases:
   - Bias Against Novelty
 summary: "指在学术资助申请与同行评议中，评审专家对高度新颖的跨学科探索与非常规概念组合系统性打出偏低评分并规避风险的认知偏误；双盲实验与国家基金实证表明，申请书新颖性与跨学科认知距离越高，获资助概率越显著走低，确立了同行评审系统性的风险厌恶壁垒。"
 type: concept
+domain: "science-policy"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-policy
   - theme/peer-review
@@ -104,7 +109,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知折价命题** | 评审专家对罕见知识组合系统性打出偏低分数 | 双盲项目立项打分与评议 | Boudreau et al. (2016); Wang & Barabási (2021) |
+> | **认知折价命题** | 评审专家对罕见知识组合系统性打出偏低分数 | 双盲项目立项打分与评议 | Boudreau et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 > | **跨界惩罚命题** | 跨学科距离与国家级资助成功率呈负向相关 | 竞争性跨学科科研基金项目立项 | Bromham et al. (2016) |
 
 ---

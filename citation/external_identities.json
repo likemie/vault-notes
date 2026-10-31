@@ -10398,6 +10398,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
+        "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
         "wiki/theories/science-policy/Bianconi-Barabási Model.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
@@ -12613,7 +12614,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/concepts/science-policy/Combinatorial Novelty.md"
+        "wiki/concepts/science-policy/Combinatorial Novelty.md",
+        "wiki/concepts/science-policy/Novelty Bias in Peer Review.md"
       ],
       "title": ""
     },
@@ -14042,7 +14044,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/concepts/science-policy/Combinatorial Novelty.md"
+        "wiki/concepts/science-policy/Combinatorial Novelty.md",
+        "wiki/concepts/science-policy/Novelty Bias in Peer Review.md"
       ],
       "title": ""
     },
@@ -18007,7 +18010,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Negative Citation.md"
       ],
       "title": ""
     },
@@ -28433,7 +28437,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-communication/Media Amplification in Science.md"
       ],
       "title": ""
     },
@@ -75659,6 +75664,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
       ],
       "title": ""
@@ -81923,7 +81929,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-communication/Media Amplification in Science.md"
       ],
       "title": ""
     },
@@ -83654,6 +83661,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
         "wiki/persons/italy/Vilfredo Pareto.md",
         "wiki/theories/science-policy/Bianconi-Barabási Model.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
@@ -84673,7 +84681,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/concepts/science-policy/Negative Citation.md"
       ],
       "title": ""
     },
@@ -106349,7 +106358,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/concepts/science-policy/Combinatorial Novelty.md"
+        "wiki/concepts/science-policy/Combinatorial Novelty.md",
+        "wiki/concepts/science-policy/Novelty Paradox.md"
       ],
       "title": ""
     },
@@ -108814,7 +108824,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/science-policy/Combinatorial Novelty.md"
+        "wiki/concepts/science-policy/Combinatorial Novelty.md",
+        "wiki/concepts/science-policy/Novelty Paradox.md"
       ],
       "title": ""
     },

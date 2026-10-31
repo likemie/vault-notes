@@ -7,6 +7,11 @@ aliases:
   - The Novelty Paradox
 summary: "指在科学研究中，高新颖性跨学科探索是取得颠覆性重大突破的前提，但同时伴随极端偏斜的引用方差与更高的失败概率，并在资助立项与同行评审中遭遇系统性保守规避偏见；实证表明兼具深厚常规基底与非典型组合的适度新颖性架构是化解该悖论并实现爆款高影响的核心途径。"
 type: concept
+domain: "science-policy"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/scientometrics
@@ -99,7 +104,7 @@ updated: 2026-10-31
 > [!concept-proposition] 命题二｜常规基底与非典型重组的适度平衡结构化解新颖性传播阻力
 > **探讨维度　认知锚定与爆款影响力生成** 考察学术界在知识吸收过程中的认知心理规律，以及高影响力创新成果的结构性特征。
 > 
-> > [!claim] Wang & Barabási (2021)
+> > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
 > > **适度新颖性架构** 取得卓越科学影响力的核心在于实现常规知识与非典型重组的有机平衡；深厚的常规基底为同行提供了理解与消化的认知支架，局部融合的非典型知识则提供了实质颠覆性增量，两者协同运作方能化解同行评审与知识传播的保守阻力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Uzzi et al., 2013; Wang & Barabási, 2021, p. 193)]]
 
 ---
@@ -108,7 +113,7 @@ updated: 2026-10-31
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **方差代价命题** | 高新颖性探索兼具高期望与高风险，表现为极度右偏的引文方差 | 跨学科激进创新与前沿探索 | Uzzi et al. (2013); Wang et al. (2017) |
-> | **平衡架构命题** | 常规基底嵌入非典型组合是克服新颖性传播阻力与获取超额引文的最优解 | 科学知识生产与成果撰写设计 | Uzzi et al. (2013); Wang & Barabási (2021) |
+> | **平衡架构命题** | 常规基底嵌入非典型组合是克服新颖性传播阻力与获取超额引文的最优解 | 科学知识生产与成果撰写设计 | Uzzi et al. (2013); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 
 ---
 

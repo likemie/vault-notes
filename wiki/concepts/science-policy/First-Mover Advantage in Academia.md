@@ -8,6 +8,11 @@ aliases:
   - First-Mover Advantage in Science
 summary: "指在学术文献网络演化中，首批开创特定学科或研究方向的文献凭借优先连接机制所获得的持久累积优势；实证表明网络科学初创期前 10% 成果篇均被引为后续成果近 4 倍，确立了学术奠基者的时序红利，但该优势受制于后发成果内生适应度，高适应度突破能够在演化中实现动态反超。"
 type: concept
+domain: "science-policy"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/scientometrics
@@ -105,7 +110,7 @@ updated: 2026-10-31
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **结构锁定命题** | 早期发表成果凭借奠基者效应与优先连接长程锁定高引地位 | 新兴学科初创期文献时序竞争 | Newman (2009); Price (1976) |
-> | **适应度反超命题** | 卓越内生质量能够打破先发垄断并实现时序反超 | 后发重大理论或范式突破涌现时 | Bianconi & Barabási (2001); Wang & Barabási (2021) |
+> | **适应度反超命题** | 卓越内生质量能够打破先发垄断并实现时序反超 | 后发重大理论或范式突破涌现时 | Bianconi & Barabási (2001); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 
 ---
 

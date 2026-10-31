@@ -15700,6 +15700,18 @@
     ]
   },
   {
+    "title": "Media Amplification in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-communication/Media Amplification in Science.md",
+    "aliases": [
+      "科学媒体放大效应",
+      "大众媒体引文溢价",
+      "科学报道引文溢价",
+      "Media Publicity in Science",
+      "Media Attention Effect in Science"
+    ]
+  },
+  {
     "title": "Public Engagement with Science",
     "type": "concept",
     "path": "wiki/concepts/science-communication/Public Engagement with Science.md",
@@ -16248,6 +16260,18 @@
     ]
   },
   {
+    "title": "First-Mover Advantage in Academia",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
+    "aliases": [
+      "学术先发优势",
+      "学术先发效应",
+      "学科奠基者优势",
+      "First-Mover Effect in Science",
+      "First-Mover Advantage in Science"
+    ]
+  },
+  {
     "title": "Focused Research Organization",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Focused Research Organization.md",
@@ -16601,6 +16625,18 @@
     ]
   },
   {
+    "title": "Negative Citation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Negative Citation.md",
+    "aliases": [
+      "负面引用",
+      "批评性引用",
+      "反驳性引用",
+      "Critical Citation",
+      "Negative Citations in Science"
+    ]
+  },
+  {
     "title": "Nobel Prize Lag",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Nobel Prize Lag.md",
@@ -16613,6 +16649,30 @@
       "Nobel Prize Delay",
       "Nobel Lag",
       "Recognition Lag in Science"
+    ]
+  },
+  {
+    "title": "Novelty Bias in Peer Review",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Novelty Bias in Peer Review.md",
+    "aliases": [
+      "同行评审新颖性偏见",
+      "同行评审创新偏见",
+      "同行评议新颖性折价",
+      "同行评议创新规避偏见",
+      "Novelty Bias in Science Funding",
+      "Bias Against Novelty"
+    ]
+  },
+  {
+    "title": "Novelty Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Novelty Paradox.md",
+    "aliases": [
+      "新颖性悖论",
+      "学术新颖性悖论",
+      "创新悖论",
+      "The Novelty Paradox"
     ]
   },
   {
@@ -31308,6 +31368,17 @@
     ]
   },
   {
+    "title": "David P. Phillips",
+    "type": "person",
+    "path": "wiki/persons/us/David P. Phillips.md",
+    "aliases": [
+      "戴维·P·菲利普斯",
+      "戴维·菲利普斯",
+      "David Phillips (Sociologist)",
+      "David P Phillips"
+    ]
+  },
+  {
     "title": "Dean Keith Simonton",
     "type": "person",
     "path": "wiki/persons/us/Dean Keith Simonton.md",
@@ -32404,6 +32475,15 @@
       "李·费尔森斯坦",
       "L. Felsenstein",
       "Felsenstein, L."
+    ]
+  },
+  {
+    "title": "Lee Fleming",
+    "type": "person",
+    "path": "wiki/persons/us/Lee Fleming.md",
+    "aliases": [
+      "李·弗莱明",
+      "弗莱明"
     ]
   },
   {
@@ -42212,6 +42292,19 @@
       "Land-Grant Act",
       "Morrill Land-Grant College Act",
       "莫里尔赠地法案"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Newspaper Strike Natural Experiment",
+    "type": "fact",
+    "path": "wiki/facts/us/Newspaper Strike Natural Experiment.md",
+    "aliases": [
+      "纽约时报罢工自然实验",
+      "1978年纽约时报大罢工准实验",
+      "报纸罢工实验",
+      "New York Times Strike Quasi-Experiment",
+      "1978 New York Times Strike Natural Experiment"
     ],
     "subtype": "event"
   },
