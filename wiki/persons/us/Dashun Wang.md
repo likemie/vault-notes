@@ -8,10 +8,10 @@ summary: "美籍华裔复杂系统与计算社会科学家，美国西北大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1984"
 died: ""
 lifespan: "1984–至今"

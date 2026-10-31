@@ -9,7 +9,7 @@ summary: "科学计量学与现代信息检索之父，科学信息研究所（I
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -104,7 +104,7 @@ updated: 2026-10-31
 > - **产业与基础设施路径** 创立 ISI（现科睿唯安 Clarivate / Web of Science），建立起全球科技文献数据商业化运营与跨国流通的技术标准。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 依托加菲尔德科学引文索引 5800 万篇全量数据揭示[[Citation Disparity|引文差距]]与顶层极化，阐明引文计数汇聚去中心化同行认可的集体智慧本质（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]], pp. 169–181）；以其 1955 年 SCI 奠基成果作为跨越数十年后被重新发掘的科学界[[Sleeping Beauty in Science|睡美人]]典型案例展开经验分析（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]], p. 147）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 依托加菲尔德科学引文索引揭示[[Citation Disparity|引文差距]]与同行认可的集体智慧（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）；以其 1955 年 SCI 奠基成果作为科学界[[Sleeping Beauty in Science|睡美人]]典型案例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
 
 ---
 

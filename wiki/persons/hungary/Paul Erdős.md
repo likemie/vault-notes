@@ -10,7 +10,7 @@ summary: "匈牙利传奇数学家，20 世纪发表论著最多的学者之一�
 type: person
 nationality: hungary
 person_region: "hungary"
-person_related_count: 15
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-10-30
 > - **科学学路径** 其实证合作数据被广泛用于验证学者度分布重尾[[Heterogeneity|异质性]]与学术网络演化动力学。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 在第 10 章作为学术合著网络的核心案例，将埃尔德什的极致协作范式与独撰 643 篇成果的比利时学者戈多（Lucien Godeaux）对比，系统分析度分布重尾、埃尔德什数与小世界拓扑（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]], pp. 102–104）；在第 9 章将其 1959 年随机图奠基论著作为跨越 40 年后被网络科学唤醒的“[[Sleeping Beauty in Science|睡美人]]”经典范例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]], p. 147）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 作为学术合著网络核心案例，分析埃尔德什数与小世界拓扑（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）；以 1959 年随机图奠基论著作为被网络科学唤醒的[[Sleeping Beauty in Science|睡美人]]范例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
 
 ---
 

@@ -10,7 +10,7 @@ summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -131,7 +131,7 @@ updated: 2026-10-31
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队合作（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）、[[Universality of Citation Distributions|引文分布普适性]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）、适应度模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）与引文动力学预测模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队合作（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）、[[Universality of Citation Distributions|引文分布普适性]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）、适应度模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）与引文动力学预测模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
 
 ---
 
