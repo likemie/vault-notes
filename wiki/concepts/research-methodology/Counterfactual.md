@@ -66,6 +66,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 confidence: high
@@ -188,6 +189,7 @@ updated: 2026-10-29
 > - **1993 — 麦基系统化因果条件与反事实** 约翰·麦基（John L. Mackie, 1993）在《世界的隐秘结构》中深入阐述 INUS 条件与反事实检验，为社会科学因果分析提供[[Epistemology\|认识论]]工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, p. 55)]]
 > - **2002–2015 — [[Evidence-Based Education\|循证教育]]改革确立反事实实证标准** 美国成立[[What Works Clearinghouse\|有效干预清算中心]]（WWC），出台严格因果[[Evidence Standards\|证据标准]]，要求有效性主张必须基于具备同质反事实对照组的高质量 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]。
 > - **2019 — 斯莱文推进整群生态反事实与规模化标准** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结三十年循证改革经验，强调全校改革必须在真实学校生态中进行[[Cluster Randomized Trials\|整群随机试验]]，以常规教学（[[Business as Usual\|BAU]]）为反事实基准，并结合 [[Hierarchical Linear Model\|HLM]] 纠正层级嵌套偏倚。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–27)]]
+> - **2021 — 科学学断点准实验反事实与因果识别深化** 王大顺与巴拉巴西基于微观计量因果革命，梳理利用国家卫生研究院资助线行政截断建立断点准实验（RDD）以构建外生反事实的机制，并利用研讨会面对面随机分配（RCT）构建知识合作的反事实对照，实证揭示微观确定性反事实与宏观通用性之间的效度边界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–251)]]
 
 ---
 
@@ -229,10 +231,12 @@ updated: 2026-10-29
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美教育循证改革三十年经验与多项大型整校改革评估（如 [[Success for All\|SFA]]、[[Cooperative Integrated Reading and Composition\|CIRC]]、DI） | 宏观政策综述与整群 [[Randomised Controlled Trials\|RCT]] 方法学评析 | 整校改革干预 vs 常规教学（BAU）反事实对照；标准化独立测验与 [[Hierarchical Linear Model\|HLM]] 方差校正 | 证实缺乏严格 [[Business as Usual\|BAU]] 反事实对照的非实验项目极易高估成效；严格整群 RCT 确立了可复制全校模式的真实因果效度 | — | 说明反事实在真实学校生态中必须依托整群[[Random Assignment\|随机化]]与多层模型方能保障政策外推效度（pp. 22–27） |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 前 8 年资助的 190+ 项大规模学校实地试验（涉及万所学校） | 大规模教育随机对照试验（RCT）元评估 | 试验[[Preregistration\|预注册]]（[[ISRCTN]]）、方案锁定（[[Statistical Analysis Plan\|SAP]]）、国家统考（NPD）对照与[[EEF Padlock Security Rating\|挂锁安全评级]] | 严格大样本随机化有效保障了控制组反事实基线同质性；强调[[Measurement Alignment\|测量对齐]]偏差（自编测验）会人为扭曲反事实反差 50%–100% | — | 实证揭示教育实地试验中维护反事实纯洁性所面临的实施流失与测量工具硬约束（pp. 50–55） |
+> | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 美国国家卫生研究院（NIH）首度申请 R01 资助资历线附近的青年学者（$N = 1,162$ 惜败组 vs $N = 1,007$ 险胜组） | 断点回归设计（RDD）准实验反事实追踪 | 学术系统永久流失率；后续 10 年篇均被引；前 5% 高被引成果比例 | 惜败组流失率高 2.6 个百分点（12.6% vs 10.0%, $p < 0.05$）；坚守者后续 10 年篇均被引高 6.1%；前 5% 高被引成果比例为 16.0% vs 13.3%（$p < 0.01$） | 断点局域随机性保障了反事实同质性 | 证实制度截断线能够有效充当外生反事实代理，剥离个体能力与坚毅等不可测混杂因素 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 结合资助截断点准实验（RDD）与学术研讨会随机分组（RCT），实证阐述外生反事实代理的构建机制及微观确定性与宏观推广性张力（pp. 243–251）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量规约，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。

@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 related_methods:
   - "[[Intervention Research]]"
 confidence: high
@@ -186,6 +187,7 @@ updated: 2026-10-29
 > - **1945–1989 — 黄金契约期与免检神话确立** [[Science, The Endless Frontier 1945|布什报告]]将自由探索升华为国家战略，冷战对抗为科学家换取了“高自治—高嵌入”与巨额联邦信任型经费托底，科学享有崇高的“国家理性”[[Avatar|化身]]地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1990–2009 — 条件化自治与[[Pasteur's Quadrant|巴斯德象限]]再协商** 冷战终结后安全红利消退，自由探索受到财政问责压力，学术界通过确立[[Pasteur's Quadrant|巴斯德象限]]（[[Use-Inspired Basic Research|应用启发的基础研究]]），主动将自由探索包装为对接产业与社会效用的复合形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 免检地位瓦解与战略任务嵌套** 绩效问责刚性化（GPRAMA）、重大社会挑战导向与[[Research Security|科研安全]]合规审查剥夺了自由探索的特权；与此同时，在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中，自由探索被重新定位于国家“前沿发现（Goal 1）”的源头底座，通过 [[National Science Foundation|NSF]] FuSe 等计划与产业中试体系实现多尺度嵌合。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
+> - **2021 — 科学学双层网络量化实证为自由探索正名** 王大顺与巴拉巴西基于数千万篇论文与专利的跨界网络匹配，证实 80% 的已发表基础研究成果在级联拓扑中直接或间接支撑了下游产业专利发明，且 31% 的美国国家卫生研究院（NIH）资助项目成果被商业专利直接引用，从全口径大数据上确立了公共财政对好奇心驱动基础探索投入的根本正当性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
 > - **2025–至今 — 契约退出与分散边缘化新现实** 在《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》等行政令重压下，国家绕过大学基础探索直接采购成熟技术，自由探索失去传统轴心地位，走向多轨分化中的分散生存轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
 
 ---
@@ -228,7 +230,19 @@ updated: 2026-10-29
 
 ---
 
+> [!empirical-divider]
+
+> [!ref-table]- 自由探索基础研究与产业技术关联实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | Li et al. (2017); Ahmadpoor & Jones (2017); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 数千万篇 Web of Science 基础学术论著与美国专利商标局（USPTO）全量授权专利 | 大规模跨界双层网络匹配与拓扑追踪分析 | 基础科学成果被下游产业专利直接与间接引用率；NIH 资助课题衍生专利引文占比 | 10% 的学术论著被专利直接引用，80% 的论著在级联网络中与后续专利相连；31% 的 NIH 资助项目产出直接被专利引用的成果，84% 的生物医药专利引用了 NIH 资助成果 | 全口径大数据拓扑追踪 | 证实好奇心驱动基础研究是深层支撑实体技术发明的关键源头，在全域级联网络中深度渗透进商业专利创新 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 结合数千万篇论著与全量专利拓扑网络，实证证实 80% 的基础研究成果在级联网络中支撑后续技术专利，为公共财政对好奇心驱动研究的持续投入提供量化辩护（pp. 247–248）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Cohen et al. (2011, Ch. 3)]] — 比较研究与评估的议程、问责和用途，并分析[[Categorical Funding|分类资助]]对蓝天研究自主性的约束。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深度追踪自由探索型研究从二战后享受国家安全庇护的“高自治—高嵌入”中心地位，到当代因行政问责与技术型契约冲击而退化为分散、边缘形态的制度变迁全过程。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐述全美微电子战略第一支柱“激发前沿发现（Goal 1）”中，基础自由探索与应用启发计划（FuSe）、多维[[Co-Design|协同设计]]（Co-Design）及中试转化的互动演进机制。
