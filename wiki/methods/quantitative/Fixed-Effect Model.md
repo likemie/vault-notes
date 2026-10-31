@@ -63,10 +63,11 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -97,6 +98,7 @@ updated: 2026-10-30
 > - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与[[Experimental Research|实验设计]]可比性；在二级[[Research Synthesis|证据综合]]中必须逐一核查底层主要研究的完全独立性。
 > - **有效性标准** 统计推断有效性依赖于同质性检验假设成立（Cochran's $Q$ 检验不显著且 $I^2 \approx 0\%$）；统计推论严格封闭于纳入的 $k$ 项特定研究本身，不得向广义超总体推论。
 > - **不声称回答的问题** 无法解释或容纳因教学情境、[[Implementation Fidelity|实施保真度]]与被试群体[[Heterogeneity|异质性]]导致的真实[[Effect Size|效应量]]离散。
+> - **计量经济学对等视角与内生性局限** 在面板数据计量分析中，固定效应模型用于吸收不随时间变化的不可测个体异质性；但王大顺与巴拉巴西指出，该方法仅对特定可测或时间恒定特征有效，无法消除随时间演化的不可观测混杂变量，因而无法完全替代准实验或随机实验设计。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 248)]]
 
 > [!contrast-table] 固定效应模型 vs [[Random-Effects Model|随机效应模型]]核心参数与假设对比
 > | 比较维度 | 固定效应模型（Fixed-Effect Model） | 随机效应模型（[[Random-Effects Model]]） |
@@ -232,3 +234,4 @@ updated: 2026-10-30
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍元分析[[Inverse-Variance Weighting|逆方差加权]]固定效应合成规程与[[Heterogeneity|异质性]]检验决策门槛。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在[[Critical Thinking|批判性思维]]教学干预综合中对比固定与随机效应模型，因真实情境异质性显著而全面转向随机效应模型。
 > - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 批判在异质性教育干预中机械套用固定效应模型导致的[[Confidence Interval|置信区间]]虚窄与假阳性检验膨胀。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐明固定效应虽能控制时间恒定的个体特征，但无法完全消除不可测混杂，仍需实验设计支持严格因果识别（p. 248）。

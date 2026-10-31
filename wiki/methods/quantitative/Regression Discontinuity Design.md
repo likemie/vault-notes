@@ -13,9 +13,9 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -71,6 +71,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
 created: 2026-08-22
@@ -85,10 +86,10 @@ updated: 2026-10-31
 > 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）** 之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在[[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
 
 > [!method-scope] 方法范围
-> - **研究对象** 依赖连续分数进行资源分配的教育与公共政策方案（如中[[Gaokao\|高考]]择优录取、奖学金评定、学业辅导划线、贫困家庭资助线、按出生日期划定的小学入学年龄截点）。
-> - **问题类型** 评估门槛政策对边界处人群[[Academic Achievement\|学业成就]]、出勤率、身心健康及长期收入的净因果增量。
-> - **[[Unit of Analysis\|分析单位]]** 处于驱动变量连续分布中的学生个体、班级或学校集群。
-> - **输出形式** 断点处因果跃升跳跃估计值 $\tau_{\text{RDD}}$、局部线性回归斜率、最优带宽（Optimal Bandwidth）及 McCrary 密度检验统计图。
+> - **研究对象** 依赖连续分数进行资源分配的教育与公共政策方案（如中[[Gaokao\|高考]]择优录取、奖学金评定、学业辅导划线、贫困家庭资助线、按出生日期划定的小学入学年龄截点，以及科学学中科研基金评审资助线）。
+> - **问题类型** 评估门槛政策对边界处人群[[Academic Achievement\|学业成就]]、长期科研产出轨迹与系统留存率的净因果增量。
+> - **[[Unit of Analysis\|分析单位]]** 处于驱动变量连续分布中的学生个体、科研基金申请人、班级或学校集群。
+> - **输出形式** 断点处因果跳跃估计值 $\tau_{\text{RDD}}$、局部线性回归斜率、最优带宽（Optimal Bandwidth）及 McCrary 密度检验统计图。
 
 > [!citation-card] 关键定义
 > 断点回归设计是准实验方法中[[Internal Validity\|内部效度]]最接近随机实验的设计。当受试者依据连续测量分数的固定切分点被分配到不同处理时，只要驱动变量与结果变量的关系在断点处可被准确建模，断点处的跳跃就能提供因果效应的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, pp. 320–321)]]
@@ -125,7 +126,7 @@ updated: 2026-10-31
 > | 比较维度 | 清晰断点回归 (Sharp RDD) | 模糊断点回归 (Fuzzy RDD) |
 > |:---|:---|:---|
 > | **干预分配规则** | **完全确定性分配** 跨过阈值者 100% 接受干预，未跨过者 100% 不接受干预（无不顺从）。 | **概率性分配** 跨过阈值使接受干预的概率发生显著跳跃（如从 20% 跳至 80%），存在违约者。 |
-> | **数学分配条件** | $D_i = 1(X_i \ge c)$，分配概率跃升 $\Delta P(D_i=1 \mid X_i=c) = 1$ | $0 < \lim_{x \downarrow c} P(D_i=1 \mid X_i=x) - \lim_{x \uparrow c} P(D_i=1 \mid X_i=x) < 1$ |
+> | **数学分配条件** | $D_i = 1(X_i \ge c)$，分配概率发生阶跃 $\Delta P(D_i=1 \mid X_i=c) = 1$ | $0 < \lim_{x \downarrow c} P(D_i=1 \mid X_i=x) - \lim_{x \uparrow c} P(D_i=1 \mid X_i=x) < 1$ |
 > | **统计估计方法** | 局部 [[Ordinary Least Squares\|OLS]] 线性回归模型直接估计截距差。 | **两阶段最小二乘法（2SLS）** 以断点赋值状态 $T_i = 1(X_i \ge c)$ 作为实际接受干预 $D_i$ 的工具变量。 |
 > | **因果效应解释** | 断点处边际人群的**局部平均处理效应（LATE）**。 | 断点处**顺从者群体的局部平均处理效应（Complier LATE）**。 |
 > | **典型教育案例** | 依据会考成绩是否达标严格决定能否升学或拿奖学金。 | 依据成绩线推荐参加课后辅导，但学生可自主选择是否出勤。 |
@@ -159,15 +160,15 @@ updated: 2026-10-31
 
 ---
 
-> [!fit-grid] 适用判断
-> - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线[[Charter Schools|特许学校]]、特教筛查临界值）；按法定出生日期划定的小学入学年龄断点（Age-Cutoff RDD）；贫困生助学金申请打分门槛。
+> [!method-fit] 适用判断
+> - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线[[Charter Schools|特许学校]]、特教筛查临界值；按法定出生日期划定的小学入学年龄断点；贫困生助学金打分门槛；NIH 青年学者基金申请资助截断点）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
 > - **谨慎使用** 驱动[[Variable\|变量]]易被基层教师或受试者主观调控（如平时[[Homework\|作业]]打分）；[[Sample Size Determination\|样本量]]过小导致断点局部有效观测点稀疏。
 > - **不适合使用** 分配规则模糊、多重标准混杂或缺乏连续运行变量的常态课程对比（应选用配对准实验或 [[Randomised Controlled Trials\|RCT]]）。
 
 ---
 
 > [!method-limits] 效度威胁、偏误来源与误用风险
-> - **局部外推局限（Local [[External Validity]]）** 因果结论严格局限于临界分数附近的“摇摆群体（Marginal Students）”，无法直接外推至极高分资优生或极低分学困生。
+> - **局部外推局限（Local [[External Validity]]）** 因果结论严格局限于临界分数附近的边际群体（Marginal Population，如惜败与险胜申请人），估算的是局部平均处理效应（LATE），无法直接外推至远离阈值的极优或极弱群体。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 250–251)]]
 > - **操纵与自选择威胁（Manipulation Bias）** 若学生或家长通过提前获知阈值进行反复重考或人情微调分数，将导致断点两侧群体产生系统性能力失衡。
 > - **高阶多项式的虚假波动（Runaway Polynomials）** Gelman and Imbens (2019) 指出，全样本高阶多项式回归容易在数据边界产生剧烈的虚假跳跃，必须采用局部低阶线性回归规避。
 > - **大样本依赖性** RDD 仅利用带宽内局部样本估计效应，有效[[Sample Size Determination\|样本量]]远小于全样本，通常需要比 [[Randomised Controlled Trials\|RCT]] 多数倍的总样本量方能获得同等统计功效（Statistical Power）。
@@ -180,7 +181,7 @@ updated: 2026-10-31
 > |:---|:---|:---|
 > | [[Quasi-Experimental Designs]] | 母类方法 | RDD 是准实验设计体系中内部效度最高、[[Causality\|因果推断]]力最强的亚型。 |
 > | [[Randomised Controlled Trials]] | 黄金参照 | RDD 在断点邻域内实现局部[[Random Assignment\|随机化]]，被 [[What Works Clearinghouse\|WWC]] 视作与 RCT 并列的一级证据。 |
-> | [[Time Series Design]] | 关联设计 | [[Intelligent Tutoring Systems\|ITS]] 属于“时间维度断点”，RDD 属于“属性分数维度断点”，二者共享局部跃升检验逻辑。 |
+> | [[Time Series Design]] | 关联设计 | [[Intelligent Tutoring Systems\|ITS]] 属于“时间维度断点”，RDD 属于“属性分数维度断点”，二者共享局部断点阶跃检验逻辑。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | 提供排查选择、历史与工具测量偏倚的[[Luhmann's Systems Theory\|系统理论]]工具。 |
 > | [[Causality]] | 核心概念 | LATE 因果推断的现代计量[[Paradigm\|范式]]。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 制定了国际最完备的 RDD 强迫[[Variable\|变量]]操纵与带宽审查技术手册。 |

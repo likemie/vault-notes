@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 161
+method_related_count: 162
 method_related_level: 16
 method_related_stars: "💎💎💎💎💎⭐"
 method_related_color: "#dcfce7"
@@ -186,6 +186,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
@@ -245,6 +246,8 @@ updated: 2026-10-31
 >
 >   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“[[Screening Off|屏蔽]]”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 544–548]]）。
 >   - 2024 — Ginsberg et al. 实证审计 15 个学区 138 项受资助干预，揭示 [[Every Student Succeeds Act|ESSA]] Tier I 法定单项合格门槛导致合规假象（全量研究支持率由 >95% 腰斩至 49%–58%）、学段供给断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。
+>   - 2017 — Boudreau et al. 在哈佛医学院内部研讨会中实施大规模随机对照实地试验，从 400 名科学家中随机结对进行 90 分钟面对面交流，证实消除物理搜寻成本使后续实际科研合作概率相对净增 75%，确立了实验设计在科学组织与学术合作机制评估中的因果识别效力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 249–250]]）。
+>   - 2021 — 王大顺与巴拉巴西在《科学学》中系统评估微观计量经济学可信性革命对科学学的塑造，确立随机对照试验在平衡不可观测变量上的最高内部效度，同时揭示微观局部实验确定性与宏观科学政策可推广性之间的内在权衡（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 248–251]]）。
 >   - 2024–2026 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）与白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）将 RCT 及部分随机化/抽签试验（Lottery Allocation）引入科研资助机制与同行评议一致性检验，标志着 RCT 从单一政策干预评估拓展为对科学资助体制本身的科学学实证评估工具（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 31–32]]）。
 
 > [!citation-card] 实验技术与变量控制的因果效力

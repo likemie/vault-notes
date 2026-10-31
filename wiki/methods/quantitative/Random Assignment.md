@@ -11,7 +11,7 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 62
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -90,10 +90,11 @@ related_arguments:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
 created: '2026-05-31'
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 ---
@@ -121,6 +122,11 @@ updated: 2026-10-29
 > 田纳西州师生[[Academic Achievement|学业成就]]比率研究（STAR）覆盖全州 76 所公立小学，对 6,750 名儿童和教师实行了真正的双重随机分配，将学生与教师同时随机指派至小班（13–17 人）或常规班（22–25 人）。芬恩与阿基里斯（Finn & Achilles, 1990）证实，这一严格消除选择偏误的随机分配设计在幼儿园至小学三年级（K–3）取得了 $d = 0.62$ 至 $0.66$ 的显著因果效应量。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 100)]]
 >
 > *The [[Tennessee STAR Project 1985-1989|Project STAR]] experiment involved true random assignment of both teachers and children to classes... producing substantial achievement effect sizes of 0.62 to 0.66.*
+
+> [!citation-card] 哈佛医学院研讨会面对面交流的随机分组试验
+> 在哈佛医学院内部科研研讨会中，研究者从 400 名参会科学家中随机抽取结对进行 90 分钟面对面研讨。随机分配机制彻底平衡了科学家既往的友谊、共同研究偏好等潜在混杂特征；评估证实，经随机指派获得面对面研讨机会的配对，后续形成真实科研合作的概率较对照组显著提升 75%，严格确立了降低物理搜寻成本对促进跨界科研合作的因果效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 249–250)]]
+>
+> *At a Harvard Medical School symposium, scientists were randomly paired for 90 minutes of face-to-face interaction, which increased their probability of subsequent collaboration by 75% compared to controls, cleanly isolating the causal effect of physical search costs.*
 
 ---
 
@@ -226,4 +232,5 @@ updated: 2026-10-29
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西州 STAR 实验中师生双重真随机分配确立的强因果效应（$d = 0.62 \sim 0.66$），批评[[Meta-meta-analysis|二阶元分析]]将高质量随机实验与低质量研究无差别平均从而掩盖因果真相的方法论缺陷。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应[[Class Size|班级规模]]随机分配实验的政策争议，论证仅靠随机化调整物理班额而不变革教学方法无法带来理想的教育产出比。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 详尽剖析英国就业与养老金部（DWP）如何跨国引入美国 [[MDRC]] 研发的随机分配技术，并开展英国社会政策史上最大规模的就业保留与晋升（ERA）随机对照评估（pp. 342–343）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 评述哈佛医学院研讨会利用随机分组分配面对面研讨，严格平衡科学家未观测混杂特征并证实合作概率相对净增 75% 的实地实验设计（pp. 249–250）。
 

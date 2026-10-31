@@ -43,10 +43,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -82,6 +83,7 @@ updated: 2026-10-30
 > [!dev-timeline] 方法演变
 > - **2017 — 基础定义提出** Russell J. Funk 与 Jason Owen-Smith 在创新研究中首次形式化 CD 指数算法，用于评估医学发明专利的[[Technological Trajectories|技术轨道]]路线变革。
 > - **2019 — 大数据扩展与规律发现** [[Lingfei Wu|吴令飞]]、[[Dashun Wang|王大顺]]与[[James A. Evans|詹姆斯·埃文斯]]（Wu, Wang, & Evans, 2019）将该指标推广至 6,000 万篇论著、专利与软件项目，揭示小团队倾向于颠覆科学而大团队倾向于发展科学的组织规模分化规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
+> - **2021 — 多维影响力度量体系整合** 王大顺与巴拉巴西在《科学学》中将颠覆性指数确立为深挖引文网络拓扑结构、超越狭隘引文计数的关键方法，与替代计量学和产业专利转化共同构成多维评价体系。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 245–248)]]
 
 ---
 
@@ -164,4 +166,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 分析 6,000 万篇论著、专利与开源项目，运用颠覆性指数证实团队规模与成果颠覆性单调递减，揭示小团队颠覆科学、大团队发展科学的组织分工规律（pp. 128–132）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用颠覆性指数证实小团队颠覆既有范式、大团队发展成熟传统的组织分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]，pp. 128–132）；并将其确立为深挖网络拓扑、超越引文计数的关键指标（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 245–248）。

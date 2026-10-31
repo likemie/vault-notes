@@ -9,7 +9,7 @@ summary: "由 Eugene Garfield (1955, 1972) 提出并由科学信息研究所建�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
@@ -135,6 +136,7 @@ updated: 2026-10-31
 > - **单篇外推谬误（ecological fallacy）** 严禁用期刊群体均值推断单项成果或具体个人的学术水平，同行评审应回归文本本身。
 > - **短期时间窗扭曲** 两年窗口系统性惩罚了具有漫长吸收周期、概念复杂的慢热型重大理论研究与跨学科论著，鼓励追逐短期学术热点的快餐式生产。
 > - **非对称计分漏洞** 分子统计包含对通讯、社论等非研究型材料的全部引用，而分母仅统计研究型论著与综述，使得出版方能够通过发表大量带引用的社论人为操纵指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 207–208)]]
+> - **破除单一指标迷思的多元评价转向** 科学评价应走出对期刊影响因子的狭隘崇拜，结合替代计量学（Altmetrics，捕捉即时公众与社会注意力）与产业专利引用网络（度量基础研究对工业发明的长期渗透）构建多维评价体系，使学术产出衡量摆脱单一引文数量的局限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 244–248)]]
 > - **补救方式** 采用单篇归一化指标（如相对引文标准化 $c_f$），或运用 WSB 动力学模型拟合成果内生适应度 $\lambda$。
 
 ---
@@ -151,4 +153,4 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 测算 Cell、PNAS 与 PRB 的影响因子与十年被引分布，证实同一期刊内部成果被引存在跨越三个数量级的极端方差，确立影响因子不能预测单项成果真实影响的文献计量学结论。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 证实同一期刊内部成果被引存在极端方差，确立影响因子不能预测单篇成果影响（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，p. 207）；论证破除影响因子崇拜并引入替代计量与专利实现多维评价（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 244–248）。
