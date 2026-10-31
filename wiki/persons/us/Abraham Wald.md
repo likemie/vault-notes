@@ -9,7 +9,7 @@ summary: "奥地利裔美籍数学家与统计学家，在二战哥伦比亚大�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 0
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,13 +21,17 @@ tags:
   - theme/mathematics
   - theme/statistics
   - theme/causal-inference
-related_concepts: []
+related_concepts:
+  - "[[Survivorship Bias]]"
+  - "[[Causality]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Memos]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: draft
 created: 2026-10-31
@@ -38,8 +42,8 @@ updated: 2026-10-31
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔美籍数理统计学家与数学家，二战时期美国哥伦比亚大学统计研究小组（Statistical Research Group, SRG）核心科学家，哥伦比亚大学数理统计系教授。
-> - **核心角色** 现代数理统计学与统计决策论奠基人之一。在军事实践中开创性识别战机弹孔分布的反直觉特征，确立幸存者偏差经典范例；在数理统计领域创立序贯概率比检验与瓦尔德检验统计量，深刻影响了现代微观计量经济学与实证因果推断。
-> - **代表贡献** 识别与形式化纠正[[Survivorship Bias|幸存者偏差]]机制、创立[[Pairwise Wald Tests|瓦尔德检验]]与序贯分析（Sequential Analysis）。
+> - **核心角色** 现代数理统计学与统计决策论奠基人之一。在军事实践中开创性识别战机弹孔分布的反直觉特征，确立[[Survivorship Bias|幸存者偏差]]经典范例；在数理统计领域创立序贯概率比检验与瓦尔德检验统计量，深刻影响了现代微观计量经济学与实证[[Causality|因果推断]]。
+> - **代表贡献** 识别与形式化纠正[[Survivorship Bias|幸存者偏差]]机制、创立瓦尔德检验与序贯分析（Sequential Analysis）。
 
 > [!citation-card] 战机防护决策的幸存者偏差论断
 > 沃尔德向国防部门解释，正确的加固策略应当正好相反：把装甲加固在没有记录到弹孔的区域。所有数据都来自成功返回基地的飞机；只要能够往返，像瑞士奶酪一样的机身损伤并不致命。相反，那些缺少弹孔的部位（如发动机、驾驶舱等关键部位）才是真正需要额外保护的地方，因为被击中这些部位的飞机从未能够返航。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 242–243)]]
@@ -58,7 +62,7 @@ updated: 2026-10-31
 ---
 
 > [!work-line] 主要著作
-> - **1943 — *A Method of Estimating Plane Vulnerability Based on Damage of Survivors*** 战时保密研究备忘录，形式化推导出依据幸存战机受损分布估计战机全域易损性的反向概率算法。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 242–243)]]
+> - **1943 — *A Method of Estimating Plane Vulnerability Based on Damage of Survivors*** 战时保密[[Memos|研究备忘录]]，形式化推导出依据幸存战机受损分布估计战机全域易损性的反向概率算法。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 242–243)]]
 > - **1947 — *Sequential Analysis*** 系统阐明序贯概率比检验理论，允许在样本观测进程中动态决定终止或继续抽样，大幅压缩战时与工业品控检验成本。
 > - **1950 — *Statistical Decision Functions*** 统一参数估计与假设检验的决策理论框架，将博弈论与极小化极大原则引入统计推断。
 

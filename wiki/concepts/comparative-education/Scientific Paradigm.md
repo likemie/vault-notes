@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 65
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -43,12 +43,12 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
   - "[[Dissimilar Units]]"
+  - "[[Heterogeneity]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Comprehensive Education]]"
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Commensuration]]"
-  - "[[Heterogeneity]]"
   - "[[Postpositivism]]"
   - "[[Academic Freedom]]"
   - "[[Securitization of Technology]]"
@@ -69,6 +69,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
+  - "[[Bibliometric Analysis]]"
 related_persons:
   - "[[Thomas Kuhn]]"
   - "[[C. Arnold Anderson]]"
@@ -171,7 +172,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题一｜跨国制度规律探索与情境权变[[Problem Solving|问题解决]]构成科学[[Paradigm|范式]]内部不可调和的[[Epistemology|认识论]]分野
-> **探讨维度　法则性质与科学目标的[[Epistemology\|认识论]]冲突** 1960 年代科学化运动内部存在高度异质性，围绕何谓科学法则、法则是否超越时空以及科学的目标属于理论建构还是政策预测，展开了深刻分歧。
+> **探讨维度　法则性质与科学目标的[[Epistemology\|认识论]]冲突** 1960 年代科学化运动内部存在高度[[Heterogeneity|异质性]]，围绕何谓科学法则、法则是否超越时空以及科学的目标属于理论建构还是政策预测，展开了深刻分歧。
 
 > [!claim] [[C. Arnold Anderson\|Anderson, C. A.]]
 > **超越时空的非历时性制度规律** 比较教育学的科学任务应当是建立由抽象社会系统构成的分析模型，探索其本质上不带历史时态且往往超越时间的内在关联（relationships of essentially undated and often timeless nature）；研究者虽面临制度复杂性的巨大挑战，但通过严格隔离控制[[Variable\|变量]]与大样本统计推断，完全能够剔除主观信念与历史干扰，确立跨国恒常通则。（Anderson, 1961, p. 4; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, pp. 62, 65]]）
@@ -244,7 +245,7 @@ updated: 2026-10-31
 >
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132, 135)]] | 《比较教育评论》（CER）等主流期刊长期发表文献计量分析 | 理论范式与母学科认同分布 | 1960 年代结构功能主义与现代化理论的一统天下瓦解，至 1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%）；社会学、政治学与经济学并列为三大母学科 | 揭示单一[[Scientism\|科学主义]]垄断的崩溃，实证多元性不等同于所有范式在政策制定中具有同等权重 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132, 135)]] | 《比较教育评论》（CER）等主流期刊长期发表[[Bibliometric Analysis\|文献计量分析]] | 理论范式与母学科认同分布 | 1960 年代结构功能主义与现代化理论的一统天下瓦解，至 1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%）；社会学、政治学与经济学并列为三大母学科 | 揭示单一[[Scientism\|科学主义]]垄断的崩溃，实证多元性不等同于所有范式在政策制定中具有同等权重 |
 
 ---
 

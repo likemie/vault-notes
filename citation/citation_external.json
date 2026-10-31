@@ -5176,6 +5176,8 @@
     "Costa-Giomi, 2004": "Costa-Giomi, 2004",
     "Costall (2013)": "Costall, 2013",
     "Costall, 2013": "Costall, 2013",
+    "Costas et al. (2015)": "Costas et al., 2015",
+    "Costas et al., 2015": "Costas et al., 2015",
     "Costello (1992)": "Costello, 1992",
     "Costello, 1992": "Costello, 1992",
     "Costigan (2016a)": "Costigan, 2016a",
@@ -24749,9 +24751,11 @@
     "Walser (1998)": "Walser, 1998",
     "Walser, 1998": "Walser, 1998",
     "Walsh (2009)": "Walsh, 2009",
+    "Walsh (2019)": "Walsh, 2019",
     "Walsh et al. (2005)": "Walsh et al., 2005",
     "Walsh et al., 2005": "Walsh et al., 2005",
     "Walsh, 2009": "Walsh, 2009",
+    "Walsh, 2019": "Walsh, 2019",
     "Walter Brewer (1971)": "Walter Brewer, 1971",
     "Walter Brewer, 1971": "Walter Brewer, 1971",
     "Walter J. M. Kickert (1995)": "Walter J. M. Kickert, 1995",
@@ -25633,8 +25637,10 @@
     "Wosinski et al., 2018": "Wosinski et al., 2018",
     "Wouter & van Oostendorp (2013)": "Wouter & van Oostendorp, 2013",
     "Wouter & van Oostendorp, 2013": "Wouter & van Oostendorp, 2013",
+    "Wouters (2015)": "Wouters, 2015",
     "Wouters et al. (2013)": "Wouters et al., 2013",
     "Wouters et al., 2013": "Wouters et al., 2013",
+    "Wouters, 2015": "Wouters, 2015",
     "Woznyj et al. (2020)": "Woznyj et al., 2020",
     "Woznyj et al., 2020": "Woznyj et al., 2020",
     "Wragg (1994)": "Wragg, 1994",
@@ -33545,6 +33551,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/educational-philosophy/Causality.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": ""
@@ -36833,7 +36840,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": ""
     },
@@ -48220,7 +48228,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/educational-philosophy/Causality.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": ""
     },
@@ -64932,6 +64942,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
+      ],
+      "title": ""
+    },
+    "Costas et al., 2015": {
+      "aliases": [
+        "Costas et al., 2015",
+        "Costas et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Costas et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Altmetrics.md"
       ],
       "title": ""
     },
@@ -165822,7 +165847,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/science-policy/Altmetrics.md"
       ],
       "title": ""
     },
@@ -207013,6 +207039,21 @@
       "seen_in": [],
       "title": "Novel Word Learning of Preschoolers Enrolled in Head Start Regular and Bilingual Classrooms  Impact of Adult Vocabulary Noneliciting Questions during Shared Storybook Reading"
     },
+    "Walsh, 2019": {
+      "aliases": [
+        "Walsh, 2019",
+        "Walsh (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Walsh, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Survivorship Bias.md"
+      ],
+      "title": ""
+    },
     "Walter Brewer, 1971": {
       "aliases": [
         "Walter Brewer, 1971",
@@ -213347,6 +213388,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of the Cognitive and Motivational Effects of Serious Games"
+    },
+    "Wouters, 2015": {
+      "aliases": [
+        "Wouters, 2015",
+        "Wouters (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wouters, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Altmetrics.md"
+      ],
+      "title": ""
     },
     "Woznyj et al., 2020": {
       "aliases": [

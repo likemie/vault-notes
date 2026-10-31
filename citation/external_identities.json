@@ -3801,6 +3801,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/educational-philosophy/Causality.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": ""
@@ -5784,7 +5785,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": ""
     },
@@ -12641,7 +12643,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/educational-philosophy/Causality.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": ""
     },
@@ -22772,6 +22776,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
+      ],
+      "title": ""
+    },
+    "Costas et al., 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Altmetrics.md"
       ],
       "title": ""
     },
@@ -83805,7 +83817,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/science-policy/Altmetrics.md"
       ],
       "title": ""
     },
@@ -108775,6 +108788,14 @@
       "seen_in": [],
       "title": "Novel Word Learning of Preschoolers Enrolled in Head Start Regular and Bilingual Classrooms  Impact of Adult Vocabulary Noneliciting Questions during Shared Storybook Reading"
     },
+    "Walsh, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Survivorship Bias.md"
+      ],
+      "title": ""
+    },
     "Walter Brewer, 1971": {
       "doi": "",
       "isbn": "",
@@ -112646,6 +112667,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of the Cognitive and Motivational Effects of Serious Games"
+    },
+    "Wouters, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Altmetrics.md"
+      ],
+      "title": ""
     },
     "Woznyj et al., 2020": {
       "datasets": [

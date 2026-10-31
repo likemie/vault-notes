@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 132
+related_count: 135
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Funder Coalition for URE]]"
   - "[[National Innovation System]]"
   - "[[Gold Standard Science]]"
+  - "[[Robot Scientist]]"
   - "[[Pilot Scale Platform]]"
   - "[[Technology Readiness Level]]"
   - "[[Reflective Structuration]]"
@@ -112,6 +113,8 @@ related_instruments: []
 related_persons:
   - "[[Jason Beech]]"
   - "[[Michael Kratsios]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Ton de Jong]]"
   - "[[Jianwei Zhang]]"
   - "[[Frantz Fanon]]"
@@ -156,10 +159,10 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: 2026-05-10
@@ -302,7 +305,7 @@ updated: 2026-10-31
 > **生成-核验协同与动态学术交流网络假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，人工智能使数以万亿计的智能代理能够自动生成假说并解析数据，但未能消除物理世界实验反馈与原子制造的刚性约束；若仅低成本炮制海量静态学术著述，将迅速瘫痪 17 世纪遗留的期刊同行评议体系。因此，[[National Innovation System|国家创新体系]]必须推动知识生产向新型交流与核验基础设施转型：一是依托[[Genesis Mission|创世纪计划]]整合 17 所国家实验室的算力与仪器，建立国家科学与安全平台与美国科学云，建立负面数据共享激励；二是践行[[Gold Standard Science|黄金标准科学]]，推行标准化机器复现包与专职复现奖金；三是以实时可执行的“[[Dynamic Research Notebook|动态研究笔记本]]”和云端自主实验室取代静态成果，实现去中心化的知识生产与细粒度贡献追踪。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
-> **自动化实验迭代与机器自主知识生成** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人工智能与自动化实验系统的深度结合打破了“人类提出假说、机器辅助计算”的从属分工。以机器人科学家亚当（Adam）为代表的自动化系统，实现了从酵母代谢模型检索孤儿酶、自主提出基因功能假说、规划微孔板接种实验，到依据生长曲线数据实证确认假说的全自主迭代循环。在系统自主检验的 20 项假说中确证了 12 项，不仅独立重新发现了 6 项前人已有结论，更独立发现了 3 个此前未见文献报道的全新功能基因，构成了人类科学史上首个在无人类直接智力干预下由机器独立生成并实证确证科学真理的知识生产里程碑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 225–226)]]
+> **自动化实验迭代与机器自主知识生成** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人工智能与自动化实验系统的深度结合打破了“人类提出假说、机器辅助计算”的从属分工。以[[Robot Scientist|机器人科学家]]亚当（Adam）为代表的自动化系统，实现了从酵母代谢模型检索孤儿酶、自主提出基因功能假说、规划微孔板接种实验，到依据生长曲线数据实证确认假说的全自主迭代循环。在系统自主检验的 20 项假说中确证了 12 项，不仅独立重新发现了 6 项前人已有结论，更独立发现了 3 个此前未见文献报道的全新功能基因，构成了人类科学史上首个在无人类直接智力干预下由机器独立生成并实证确证科学真理的知识生产里程碑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 225–226)]]
 
 ---
 
