@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -149,4 +149,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 运用 ROC 曲线与 AUC 面积系统检验五大评价指标对顶尖诺奖学者的预测有效性。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 运用 ROC 曲线与 AUC 面积检验科研指标对诺奖得主的预测精度（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit03]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Unit10]] 评估基于论著文本叙述与评审指标的学术复现性预测模型。

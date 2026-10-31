@@ -8,6 +8,10 @@ aliases:
 summary: "整合人工智能、自动化仪器与机器人技术的自主科研系统；能够独立完成提出假说、设计实验、物理操作、分析数据与迭代修正的完整科研流程；以亚当（Adam）为代表的系统在酿酒酵母代谢模型中独立发现了编码孤儿酶的未知基因，确立了机器自主生成新科学知识的可行性。"
 type: concept
 domain: "science-policy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - theme/artificial-intelligence
@@ -17,7 +21,7 @@ tags:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: "2026-10-31"
+updated: 2026-10-31
 ---
 
 ---
@@ -30,7 +34,7 @@ updated: "2026-10-31"
 > - **用途** 帮助科学计量学与科技政策研究者理解科研生产方式的技术形态演进，评估自动化知识发现对科学探索速度的倍增潜力。
 > - **边界** 区别于单纯执行既定筛选程序的自动化流水线仪器（如高通量药物篮选仪或基因测序仪）；机器人科学家具备基于逻辑模型自主生成假设并规划新实验的认知决策能力。
 
-> [!citation-card] 亚当系统的自主发现与闭合探索回路
+> [!citation-card] 亚当系统的自主发现与端到端探索循环
 > 亚当（Adam）具备执行假说检验实验的独立设计能力以及复杂内部循环机制。计算机在协助科研人员存储、处理与分析数据方面发挥核心作用；亚当展现出的新能力将计算机的职能从被动数据分析拓展至主动假说构建。随着计算工具效能持续增强，自动化高通量假说生成将引导高通量实验探索，在科学知识生成中承担关键角色。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 224–226)]]
 >
 > *Adam differs from other complex laboratory systems in the individual design of the experiments to test hypotheses and the utilization of complex internal cycles... Computers already play a key role in helping scientists store, manipulate, and analyze data. New capabilities like those offered by Adam, however, are rapidly extending the reach of computers from analysis to the formulation of hypotheses.*

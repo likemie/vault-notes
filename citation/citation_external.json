@@ -12799,8 +12799,10 @@
     "King (2015)": "King, 2015",
     "King et al. (1987)": "King et al., 1987",
     "King et al. (1998)": "King et al., 1998",
+    "King et al. (2009)": "King et al., 2009",
     "King et al., 1987": "King et al., 1987",
     "King et al., 1998": "King et al., 1998",
+    "King et al., 2009": "King et al., 2009",
     "King, 1967": "King, 1967",
     "King, 1968": "King, 1968",
     "King, 1979": "King, 1979",
@@ -20431,6 +20433,8 @@
     "Ryle (1949)": "Ryle, 1949",
     "Ryle, 1946": "Ryle, 1946",
     "Ryle, 1949": "Ryle, 1949",
+    "Rzhetsky et al. (2015)": "Rzhetsky et al., 2015",
+    "Rzhetsky et al., 2015": "Rzhetsky et al., 2015",
     "Réka Albert (1999)": "Réka Albert, 1999",
     "Réka Albert, 1999": "Réka Albert, 1999",
     "Révai & Guerriero (2017)": "Révai & Guerriero, 2017",
@@ -22994,6 +22998,7 @@
     "Swanson & Malone, 1992": "Swanson & Malone, 1992",
     "Swanson (1977a)": "Swanson, 1977a",
     "Swanson (1977b)": "Swanson, 1977b",
+    "Swanson (1986)": "Swanson, 1986",
     "Swanson (1999)": "Swanson, 1999",
     "Swanson (2001)": "Swanson, 2001",
     "Swanson (2013)": "Swanson, 2013",
@@ -23015,6 +23020,7 @@
     "Swanson, 1977": "Swanson, 1977b",
     "Swanson, 1977a": "Swanson, 1977a",
     "Swanson, 1977b": "Swanson, 1977b",
+    "Swanson, 1986": "Swanson, 1986",
     "Swanson, 1999": "Swanson, 1999",
     "Swanson, 2001": "Swanson, 2001",
     "Swanson, 2013": "Swanson, 2013",
@@ -25976,7 +25982,9 @@
     "You & Morris (2016)": "You & Morris, 2016",
     "You & Morris, 2016": "You & Morris, 2016",
     "You (2019)": "You, 2019",
+    "You et al. (2021)": "You et al., 2021",
     "You et al. (2023)": "You et al., 2023",
+    "You et al., 2021": "You et al., 2021",
     "You et al., 2023": "You et al., 2023",
     "You, 2019": "You, 2019",
     "YouGov (2025)": "YouGov, 2025",
@@ -84758,7 +84766,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
       ],
       "title": ""
     },
@@ -120410,6 +120419,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
+      ],
+      "title": ""
+    },
+    "King et al., 2009": {
+      "aliases": [
+        "King et al., 2009",
+        "King et al. (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "King et al., 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
       ],
       "title": ""
     },
@@ -175880,6 +175904,21 @@
       ],
       "title": ""
     },
+    "Rzhetsky et al., 2015": {
+      "aliases": [
+        "Rzhetsky et al., 2015",
+        "Rzhetsky et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rzhetsky et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+      ],
+      "title": ""
+    },
     "Réka Albert, 1999": {
       "aliases": [
         "Réka Albert, 1999",
@@ -194498,6 +194537,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Learning for mastery versus personalized system of instruction: A comparison of remediation strategies with secondary school chemistry students"
+    },
+    "Swanson, 1986": {
+      "aliases": [
+        "Swanson, 1986",
+        "Swanson (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Swanson, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+      ],
+      "title": ""
     },
     "Swanson, 1999": {
       "aliases": [
@@ -215651,6 +215705,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Paul Morris.md"
+      ],
+      "title": ""
+    },
+    "You et al., 2021": {
+      "aliases": [
+        "You et al., 2021",
+        "You et al. (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "You et al., 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
       ],
       "title": ""
     },

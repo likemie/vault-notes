@@ -16072,6 +16072,16 @@
     ]
   },
   {
+    "title": "Crowded Frontier",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Crowded Frontier.md",
+    "aliases": [
+      "拥挤的前沿",
+      "Crowded Knowledge Frontier",
+      "拥挤前沿现象"
+    ]
+  },
+  {
     "title": "Curiosity-Driven Research",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Curiosity-Driven Research.md",
@@ -16920,6 +16930,17 @@
       "撤稿声誉惩罚",
       "Reverse Matthew Effect",
       "Status Penalty in Retractions"
+    ]
+  },
+  {
+    "title": "Robot Scientist",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Robot Scientist.md",
+    "aliases": [
+      "机器人科学家",
+      "Autonomous Laboratory System",
+      "自主实验室系统",
+      "科学发现机器人"
     ]
   },
   {
@@ -22797,6 +22818,19 @@
       "文献图谱",
       "literature mapping",
       "literature diagram"
+    ]
+  },
+  {
+    "title": "Literature-Based Discovery",
+    "type": "method",
+    "path": "wiki/methods/mixed/Literature-Based Discovery.md",
+    "aliases": [
+      "基于文献的发现",
+      "LBD",
+      "Swanson Hypothesis",
+      "斯旺森假说",
+      "Undiscovered Public Knowledge",
+      "未被发现的公开知识"
     ]
   },
   {
@@ -46249,6 +46283,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

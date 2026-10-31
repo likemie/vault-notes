@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 ---
@@ -201,5 +201,6 @@ updated: 2026-10-29
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室呈交总统的重大战略报告，系统提出将 2000 亿美元联邦研发构建为主动配置的资助组合，涵盖对人资助、金券制、[[Pull Mechanisms for Innovation|拉动机制]]、[[Focused Research Organization|FRO]] 与[[Metascience|元科学]]单元。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统评述美国 2026 科技政策[[Paradigm|范式]]转变与技术导向型契约确立，剖析国家研发资助机制的结构性分化。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 借鉴金融投资组合逻辑主张跨实验分散科研风险，倡导从个人转向团队评价并资助学者个人而非短期项目以培育学术探索。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 经济学视角剖析美国科研资助机制与青年学者在面对极低成功率时的学术避险行为。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 梳理战后美国大学去中心化同行竞争资助体制与产学协同演进历程。
