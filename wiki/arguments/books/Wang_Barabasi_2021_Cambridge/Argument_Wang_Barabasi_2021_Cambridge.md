@@ -7,7 +7,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_display_title: "The Science of Science"
 argument_kind: "book"
-argument_related_count: 14
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -41,6 +41,8 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"

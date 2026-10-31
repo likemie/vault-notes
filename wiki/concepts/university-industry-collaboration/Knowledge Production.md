@@ -159,6 +159,7 @@ related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: 2026-05-10
@@ -245,8 +246,6 @@ updated: 2026-10-29
 
 ---
 
-## 围绕概念形成的命题
-
 > [!concept-proposition] 命题一｜现代[[Research Universities|研究型大学]]的确立实现了知识生产与知识传授的历史性体制融合
 > **探讨维度　大学制度史与研教共生机制** 探讨高等教育机构如何从单纯传授既有文明成果的经院经训载体，演变为推进人类未知科学前沿的生产中枢。
 
@@ -301,6 +300,9 @@ updated: 2026-10-29
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **生成-核验协同与动态学术交流网络假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，人工智能使数以万亿计的智能代理能够自动生成假说并解析数据，但未能消除物理世界实验反馈与原子制造的刚性约束；若仅低成本炮制海量静态学术著述，将迅速瘫痪 17 世纪遗留的期刊同行评议体系。因此，[[National Innovation System|国家创新体系]]必须推动知识生产向新型交流与核验基础设施转型：一是依托[[Genesis Mission|创世纪计划]]整合 17 所国家实验室的算力与仪器，建立国家科学与安全平台与美国科学云，建立负面数据共享激励；二是践行[[Gold Standard Science|黄金标准科学]]，推行标准化机器复现包与专职复现奖金；三是以实时可执行的“[[Dynamic Research Notebook|动态研究笔记本]]”和云端自主实验室取代静态成果，实现去中心化的知识生产与细粒度贡献追踪。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
+
+> [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
+> **自动化实验迭代与机器自主知识生成** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人工智能与自动化实验系统的深度结合打破了“人类提出假说、机器辅助计算”的从属分工。以机器人科学家亚当（Adam）为代表的自动化系统，实现了从酵母代谢模型检索孤儿酶、自主提出基因功能假说、规划微孔板接种实验，到依据生长曲线数据实证确认假说的全自主迭代循环。在系统自主检验的 20 项假说中确证了 12 项，不仅独立重新发现了 6 项前人已有结论，更独立发现了 3 个此前未见文献报道的全新功能基因，构成了人类科学史上首个在无人类直接智力干预下由机器独立生成并实证确证科学真理的知识生产里程碑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 225–226)]]
 
 ---
 
@@ -362,7 +364,7 @@ updated: 2026-10-29
 > | **宏观体制** | **南北知识生产不平等与援助偏颇** | 国际援助偏好北方短期项目加剧南方知识碎片化，全球集中生产与本土实践之间双重反馈断裂 | 资助者联盟重塑长效资助机制；改革考评保障边缘化学者代表权 | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] |
 > | **宏观体制** | **科层督导知识生产与清洗** | 教育治理机构在行政工作中通过定向文献筛选、预制单一范式综述与定稿清洗排除争端，生产服务于国家规制的单一同质知识 | 规程指标编码固化；传播秘书处行使定稿清洗特权；兼顾 logos 工具性与 ethos 政治合法性职能 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **宏观体制** | **技术化降维与三轨分化** | 大国博弈推动知识生产从国家认知中枢向技术能力组件降维，演化为联邦国家任务、安全合规大学与科技资本垄断三轨分化生态 | 确立技术导向型契约；行政规制绕开自由探索；[[Research Security\|科研安全]]审查与商业算力垄断 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
-> | **宏观体制** | **生成-核验协同与动态网络** | 智能时代知识生产要求建立与假设生成同等规模的自动化机器核验与去中心化动态交流基础设施 | [[Genesis Mission\|创世纪计划]]与国家平台整合；黄金标准机器复现包；动态研究笔记本与负面数据共享 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | **宏观体制** | **生成-核验协同与动态网络** | 智能时代知识生产要求建立与假设生成同等规模的自动化机器核验与去中心化动态交流基础设施；自动化实验系统实现机器无人类干预的自主知识生成 | [[Genesis Mission\|创世纪计划]]与国家平台整合；黄金标准机器复现包；动态研究笔记本与负面数据共享；机器人科学家自动化假设与实验迭代 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
 > | **宏观体制** | **标准内生锁定与中试共置** | 战略产业动员中大学通过“教育即标准”推动开源架构全球扩散，依托产学共置[[Pilot Scale Platform\|中试平台]]打通 [[Technology Readiness Level\|TRL]] 4–6 工程转化断层 | 课程与实验训练内生开源标准；人才流动扩散；300 毫米中试线与共享平台共置攻关 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 > | **宏观体制** | **地缘脱钩与知识中心受挫** | 大国战略博弈与安全化审查切断跨国前沿知识获取管道，削弱后发大国全球知识生产中心地位 | 科技交流政治化；出口管制与科研安全壁垒；跨国知识网络阻断 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
 > | **微观课堂** | **共同体社会化新知生成** | 课堂知识生产强调学生在探究共同体中通过四维实践与证据协调自主生成新知，实现概念重塑并内化审议价值 | 提出、沟通、评估、合法化四维实践；证据协调；内化说服优于强制 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] |
@@ -379,6 +381,7 @@ updated: 2026-10-29
 > - **1980s — 《[[Bayh-Dole Act of 1980|拜杜法案]]》与产学研协同机制确立** 国会通过《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦资助专利归属下放给大学，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]，知识生产成果从政府公有转向资本商业化流转。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **1990s — [[Mode 2 Knowledge Production|Mode 2]] 模式确立与[[Academic Capitalism|学术资本主义]]审视** 迈克尔·吉本斯等学者提出知识生产从传统象牙塔（Mode 1）向跨学科、应用导向与[[Reflexivity|反思性]]情境（Mode 2）转型；随后学术界深入揭示知识产权私有化对公有性的侵蚀。
 > - **2000s–2010s — 科学教育中的[[Epistemic Practices|认识论实践]]与本土共同体转向** 科学教育与学习科学界打破[[Direct Instruction|直接讲授]]已知事实的传统做法，[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 提出四维认识论实践框架，确立微观课堂中证据协商与民主审议的价值基础。
+> - **2009 — 机器人科学家实现机器自主科学知识生产** 罗斯·金（Ross King）团队研制机器人科学家亚当（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021, pp. 225–226]]），自主提出假说、规划物理实验并实证确证 3 个编码孤儿酶的全新基因，完成人类科学史上首个无人类直接智力干预的独立知识生成循环。
 > - **2017 — 国际金融组织知识转向与自主科研建制** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）以世界银行为个案，系统揭示国际多边机构如何通过常设专职科研编制与独立研发预算，建立起年发表量达到顶尖大学均值三倍的自主知识生产体系，实现从单纯资本借贷向实体科研与智识引领的制度转型。
 > - **2022 — [[Knowledge Building Theory|知识建构学派]]的[[Reflective Structuration|反思性结构化]]模型** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 证实小学生群体通过动态重组意向领域与持续观点改进，能自主实现深层因果解释建模并实质推进集体公共知识前沿。
 > - **2022 — 教育治理工作中的知识生产与行政清洗揭示** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析[[Swedish Schools Inspectorate|瑞典学校督察局]]，揭示治理机构如何通过预先编制单一范式综述与终审定稿清洗，将多元学术文献生产为服务于国家简化的行政合规定论，并从[[Basil Bernstein|伯恩斯坦]]“[[Horizontal Knowledge Structure|弱语法]]”与[[Jean Piaget|皮亚杰]]动态发生学视角解构了静态“当前知识状态”的技术官僚幻觉。
@@ -458,10 +461,12 @@ updated: 2026-10-29
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] | 高中物理电磁实验、小学工程设计及大学地质写作语料 | 交互[[Ethnography\|人种志]]、[[Discourse\|话语]]微观分析与证据编码 | 课堂互动中学生运用波形读数与具身手势协同跨越概念断层；高水平地质学学术写作呈现严密的三级[[Chain of Evidence\|证据链]]整合模式 | 质性证实学生在四维社会化实践中通过证据协调构建新知的[[Epistemology\|认识论]]规程与审议价值内化 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 中学与高校[[Man-Computer Symbiosis\|人机协同]]跨学科科学探究案例 | 概念模型构建与人机交互语料追踪 | 质性证实持有[[Evaluativist\|评价主义认识立场]]的学习者能有效设计[[Chain-of-Thought Prompting\|思维链]]与[[Role-playing\|角色扮演提示]]词，驱动大模型开展多视角辩难并进行多源实验核验 | 确立了人机共生环境下知识生产的确证规范与评价主义立场调节模型 |
 > | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024, p. 27)]] | 全球 103 个国家 654 个教育研究利用（URE）平台 | 全球知识生产与转译基础设施跨国普查与网络分析 | 654 个平台中 74%（484 个）未与任何区域中介网络建立正式链接，陷入孤立运作；中车道中介过度生产简报导致信息拥挤 | 实证检验了全球知识生产转译平台缺乏横向协同网络与双向反馈机制的结构性孤立特征 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021, pp. 225–226)]] | 机器人科学家亚当（Adam）酵母代谢孤儿酶自主实验检验 | 自动化假说生成、逻辑推理与微孔板生长实验迭代追踪 | 亚当累计提出并物理检验 20 个基因假说，实证确证 12 项；独立重新发现 6 项已有真理，首次独立发现 3 个编码特定孤儿酶的全新基因（经人类科学家复现确认） | 证实了自动化系统在无需人类即时智力干预下独立提出假说并完成实证检验的机器知识生成能力 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 记录机器人科学家亚当自主生成假说与物理实验迭代检验的历程，确立机器系统在无人类干预下独立完成科学知识生产的实证里程碑（pp. 225–226）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]常规督导与质量审计，揭示教育治理机构如何通过预设单一范式与终审定稿清洗生产服务于国家简化的行政合规知识，从科学哲学视角解构静态“当前知识状态”的虚妄性。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示大国科技竞争与地缘脱钩如何阻断跨国知识管道并削弱全球知识生产中心地位（pp. 693–694）。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论证美国大学知识生产与传播并重的历史转型（[[Humboldtian Model of Higher Education|洪堡理念]]与研究生院体制），阐明去中心化资助竞争的卓越生产力及其引发的学术避险问题。

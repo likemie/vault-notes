@@ -385,6 +385,10 @@
     {
       "sentence": "亚当（Adam）自主发现的生化孤儿酶编码基因虽然未见于早期文献，但其推理逻辑本质上深嵌于研究人员预先给定的形式化代谢逻辑模型与跨物种同源基因库中。",
       "target": "wiki/concepts/educational-policy-reform/Logic Model.md"
+    },
+    {
+      "sentence": "当前人工智能系统本质上属于窄域智能，擅长在封闭边界内完成高维优化，但无法自行发现理论危机、提出新科学问题或发起科学范式革命。",
+      "target": "wiki/concepts/comparative-education/Scientific Paradigm.md"
     }
   ]
 }
