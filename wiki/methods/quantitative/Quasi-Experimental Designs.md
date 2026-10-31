@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 86
+method_related_count: 87
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -116,10 +116,11 @@ related_arguments:
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -130,9 +131,9 @@ updated: 2026-10-30
 > 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）** 法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）** 标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 162–163]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 嵌入在自然班级、完整学校或行政区划中的具名教育干预方案、教学模式、课程改革与教育政策。
+> - **研究对象** 嵌入在自然班级、完整学校或行政区划中的具名教育干预方案、教学模式、课程改革与教育政策，以及科学学中依据行政评审线分配的科研资助机制。
 > - **问题类型** 因果效应估计（Causal Effect Estimation）、政策试点成效评估、比较有效性研究（Comparative Effectiveness）。
-> - **[[Unit of Analysis\|分析单位]]** 学生个体、自然班级、学校集群、学区或时间观测点。
+> - **[[Unit of Analysis\|分析单位]]** 学生个体、自然班级、学校集群、学区、科研人员队列或时间观测点。
 > - **输出形式** 调整后[[Effect Size\|效应量]]（Adjusted Effect Size）、[[Difference-in-Differences\|双重差分法]]（Difference-in-Differences, DID）因果估计值、基线等值性检验参数、断点局域平均处理效应（Local Average Treatment Effect, LATE）、时间序列间断斜率变化统计量。
 
 > [!citation-card] 科恩等论准实验设计与[[Counterfactual\|反事实]]可行性
@@ -301,3 +302,4 @@ updated: 2026-10-30
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 审计大型城市学区 2.88 亿美元支出流水，实证揭示单项 QED 法定中等证据门槛下超过 95% 的名义合规假象、学段科研供给断层及微观复合实践归因局限（pp. 162–165, 174–178）。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示组间准实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]被随意机械混杂（全库仅 30% 纯粹基于组间实验，51 项混杂组间与组内设计），实证证明跨设计总体参数[[Incommensurability|不可通约性]]违背对因果解释力造成的毁灭性冲击。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐明科学学利用政策行政切分线构建准实验设计以克服选择偏差，评估早期挫折对长期成就因果影响的规程与局限（pp. 243–245, 248–251）。

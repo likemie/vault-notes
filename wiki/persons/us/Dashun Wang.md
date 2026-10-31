@@ -8,7 +8,7 @@ summary: "美籍华裔复杂系统与计算社会科学家，美国西北大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -96,7 +97,8 @@ updated: 2026-10-31
 > - **2013 — *Quantifying Long-Term Scientific Impact*** 与宋超明、巴拉巴西在《科学》发文提出单篇成果引文动力学最小模型（WSB 模型），推导出三参数闭式解与跨学科普适主曲线，证明成果长程终极学术影响严格由内生相对适应度支配。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–217)]]
 > - **2018 — *Hot streaks in artistic, cultural, and scientific careers*** 运用长程追踪数据揭示[[Hot Streak|创造力爆发期]]在职业生涯中随机出现，且个体内表现出高产与高引紧密成簇的动力学特征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–74)]]
 > - **2019 — *Large teams develop and small teams disrupt science and technology*** 统计分析 60 年间 6,500 万项科研出版物、专利与软件代码，确证小型团队倾向于引入前沿思想产生颠覆性创新，大型团队则倾向于深化既有成熟[[Paradigm|范式]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–95)]]
-> - **2019 — *Quantifying the dynamics of failure across science, startups and security*** 建立从早期失败到最终成功转化的数学模型，确证持续尝试过程中的有效复盘机制是促成突破的关键阈值条件。
+> - **2019 — *Early-career setback and future career impact*（《自然·通讯》）** 基于 NIH 青年基金及格线边缘准实验断点设计，揭示惜败组留存学者后续十年顶尖成果表现显著超越险胜组的反直觉韧性机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
+> - **2019 — *Quantifying the dynamics of failure across science, startups and security*（《自然》）** 建立从早期失败到最终成功转化的数学模型，确证持续尝试过程中的有效复盘机制是促成突破的关键阈值条件。
 > - **2021 — *The Science of Science*** 与巴拉巴西合撰的跨学科集大成专著，系统整合学术生涯、协作网络、科学影响力分布及科研资助制度的实证规律。[[Argument_Wang_Barabasi_2021_Cambridge|(Wang & Barabási, 2021)]]
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-10-31
 > - **政策路径** 其关于团队规模配置、青年科研基金资助容错机制、期刊影响因子局限性及终极影响定理的量化结论，被[[National Science Foundation|美国国家科学基金会]]（NSF）与各大私立基金会广泛引为科技评价改革实证依据。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐释科学学生产力稳态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、热手效应（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队规模规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、[[Assemblage|组装]]多样性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]）、引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）与引文动力学及终极影响法则（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科研生产力（Unit 01）、热手效应（Unit 03）、团队规模（Unit 04）、引文分布与动力学（Units 07, 09）及挫折韧性与学科前景（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 
 ---
 

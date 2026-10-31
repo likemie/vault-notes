@@ -11,7 +11,7 @@ summary: "一种用于量化科研成果或发明专利是开拓新方向还是�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

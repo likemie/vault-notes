@@ -10,10 +10,10 @@ summary: "法裔美籍实证经济学家与科学学学者，麻省理工学院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1970"
 died: ""
 lifespan: "1970–至今"
@@ -58,10 +58,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -86,7 +87,9 @@ updated: 2026-10-30
 > - **2006** 加入麻省理工学院斯隆管理学院，历任副教授、讲席正教授。
 > - **2010** 在《经济学季刊》（QJE）发表《超级巨星陨落》（*Superstar Extinction*），开创利用明星学者意外逝世外生冲击测度知识扩散与合作网络脆弱性的因果分析[[Paradigm|范式]]，实证证实学术合作同行质量调整产出率下降 5% 至 8%，为[[Invisible College|无形学院]]的客观存在确立因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 > - **2011** 在《美国经济评论》（AER）发表针对 HHMI 资助模式的研究，证实对早期失败的宽容与长周期支持显著提升高风险探索性成果的产出概率。
+> - **2012** 在《科学》（*Science*）发文呼吁运用实验与因果推断方法重新审视二战后固化的科研体制与同行评议机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 251)]]
 > - **2014** 在《管理科学》（*Management Science*）发表《马太效应：事实还是神话？》（*Matthew: Effect or Fable?*），依托 HHMI 评选准自然实验证实外生声望符号具备独立于个体天资的引文因果力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–37)]]
+> - **2017** 与丹妮尔·李（Danielle Li）等在《科学》发表 NIH 资助专利转化研究，证实 10% 课题直接产生专利，30% 学术成果被商业专利引用。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
 > - **2019** 在《美国经济评论》（AER）发表《科学真理真的随着反对者死去而胜利吗？》（*Does Science Advance One Funeral at a Time?*），通过 452 位生命科学明星学者猝逝准自然实验实证检验[[Planck's Principle|普朗克原理]]，揭示“[[Goliath's Shadow|歌利亚阴影]]”阻碍新人进场的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 > - **2020** 在《美国经济评论：洞见》（*AER: Insights*）发表《年龄与高成长创业》（[[Age and High-Growth Entrepreneurship]]），运用美国 270 万初创企业全量税收与人口档案证实，全美增长最快的前 0.1% 高科技企业创始人平均年龄为 45 岁，打破硅谷年轻极客神话。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 58–59)]]
 
@@ -96,6 +99,7 @@ updated: 2026-10-30
 > - **2010 — *Superstar Extinction*（《经济学季刊》）** 运用 112 位生命科学领域明星学者猝逝带来的外生变动，量化评估学术领军人物对合作网络生产力与知识外溢的不可替代性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 > - **2011 — *Incentives and [[Creativity]]: Evidence from the Academic Life Sciences*（《美国经济评论》）** 比较 HHMI（资助人）与 [[National Institutes of Health|NIH]]（资助课题）两种资助范式对生命科学家创新路径的影响，揭示容忍探索失败对颠覆性突破的关键支撑作用。
 > - **2014 — *Matthew: Effect or Fable?*（《管理科学》）** 运用“第四十一把交椅”入围落选对照组设计，证实外生学术声誉对历史既往论著被引频次具备独立的因果放大效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–37)]]
+> - **2017 — *The Life Sciences Patent Network and NIH Funding*（《科学》）** 与李等合作匹配分析 NIH 资助论著与美国专利图谱，量化证实基础科学对商业创新的直接与间接技术溢出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
 > - **2019 — *Does Science Advance One Funeral at a Time?*（《美国经济评论》）** 证实明星学者去世后非合作网络新人高影响成果剧增，确立普朗克原理因果有效性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 > - **2020 — *Age and High-Growth Entrepreneurship*（《美国经济评论：洞见》）** 证明 50 岁创业者获得超常成功的概率接近 30 岁创业者的两倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 58–59)]]
 
@@ -117,7 +121,7 @@ updated: 2026-10-30
 > - **政策路径** 其实证研究为科技基金管理提供了决策依据，推动科研资助体系从短期项目制向长期支持杰出个人的资助模式转型。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]] 援引其 HHMI [[Quasi-Experimental Designs|准实验设计]]，在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit 02]] 援引普朗克原理检验，在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]] 援引明星学者猝逝准实验确证无形学院的因果实在性。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 援引其 HHMI 准实验（Unit 01）、普朗克原理检验（Unit 02）、明星学者猝逝准实验（Unit 04）及基础研究专利转化与科技体制审视（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 
 ---
 

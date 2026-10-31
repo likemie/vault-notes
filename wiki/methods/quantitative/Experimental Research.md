@@ -10,7 +10,7 @@ summary: "通过主动操纵自变量并随机分配处理组与对照组以严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 66
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -91,6 +91,8 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
 confidence: high
 status: active
@@ -116,6 +118,7 @@ updated: 2026-10-31
 > - **研究者角色** 客观、中立的实验设计者与测量记录者；通过标准化指导语、双盲（[[Blinding]]）与[[Manipulation Check|操纵检查]]尽可能排除[[Experimenter Bias|实验者偏差]]与主观投射。
 > - **有效性标准** [[Internal Validity|内部效度]]（能否确证[[Independent Variable|自变量]]对[[Dependent Variable|因变量]]的净因果影响）、[[External Validity|外部效度]]（结论向真实情境推广的程度）、统计结论效度（统计功效与检验假设满足度）与[[Construct Validity|构念效度]]。
 > - **证据与行动的认识论关系（[[John Dewey|杜威]]假说视角）** 实验研究产出的因果量化数据绝不能自动推导为直接的行动规程（rules for action）。正如杜威（[[John Dewey]]）所指出的，证据仅构成用于智慧解决问题与审议教育目的的“探究假设”（[[Hypothesis|hypotheses]] for intelligent [[Problem Solving]]）；任何从实验结论迈向真实决策的转化，都必须结合不可化约的价值权衡与教师情境化[[Professional Judgment|专业判断]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 104)]]
+> - **观察性建模与实验检验的共生生态** 微观实验设计具备最高的内部效度，但其确定的因果结论往往局限于局部特定样本；面对全球气候变化或科技体制长期演进等宏观全局命题，无法完全套用微观因果技术。未来的科学学与公共政策研究受惠于观察性宏观建模与微观实验检验紧密结合的共生生态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 250–251)]]
 > - **不声称回答的问题** 无法回答未受控制的自然社会情境中整体[[Emergence|涌现]]的主观意义建构、历史脉络演化以及无法进行伦理操纵的复杂社会问题。
 
 > [!method-stack] 方法层级
@@ -189,7 +192,7 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 结合两所大学 1,987 位在职科研人员参与的双盲成对比较实验，证实学者在评估自身成果时存在显著的“[[My-Baby Bias|自子情结]]”主观偏误（pp. 181–182）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合双盲成对实验证实学者评估自身成果的自子情结偏误（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 181–182）；阐明微观实验确定性与宏观外部效度的权衡，确立观察性建模与实验检验共生的科学学范式（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 248–251）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与[[Banality of Evil|平庸之恶]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, 第 8 章)]] — 系统阐述实验研究的[[Variable|变量]]操纵、[[Random Assignment|随机分配]]、[[Factorial Design|因子设计]]模型、效度威胁与统计分析指南。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp. 99–104)]] — 结合田纳西 STAR 项目与 Smith and Glass (1980) 经典对照实验[[Meta-analysis|元分析]]，系统审查量化实验研究在教育政策转化中的[[Epistemology|认识论]]边界，揭示变量[[Interaction Effect|交互效应]]与底层实验质控对因果推论的决定性制约。
