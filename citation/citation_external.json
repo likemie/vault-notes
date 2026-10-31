@@ -13303,6 +13303,7 @@
     "Kuhl et al., 2019": "Kuhl et al., 2019",
     "Kuhn (1962)": "Kuhn, 1962",
     "Kuhn (1970)": "Kuhn, 1970",
+    "Kuhn (1977)": "Kuhn, 1977",
     "Kuhn (1991)": "Kuhn, 1991",
     "Kuhn (1999)": "Kuhn, 1999",
     "Kuhn (2002)": "Kuhn, 2002",
@@ -13312,6 +13313,7 @@
     "Kuhn et al., 2017": "Kuhn et al., 2017",
     "Kuhn, 1962": "Kuhn, 1962",
     "Kuhn, 1970": "Kuhn, 1970",
+    "Kuhn, 1977": "Kuhn, 1977",
     "Kuhn, 1991": "Kuhn, 1991",
     "Kuhn, 1999": "Kuhn, 1999",
     "Kuhn, 2002": "Kuhn, 2002",
@@ -124128,6 +124130,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
+      ],
+      "title": ""
+    },
+    "Kuhn, 1977": {
+      "aliases": [
+        "Kuhn, 1977",
+        "Kuhn (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kuhn, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
       ],
       "title": ""
     },

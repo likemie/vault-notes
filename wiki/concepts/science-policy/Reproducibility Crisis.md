@@ -72,7 +72,7 @@ updated: 2026-10-31
 > *The "reproducibility crisis" widely debated within academia weakened the cognitive authority of certain fields... The Executive Order "Restoring Gold Standard Science" essentially serves as a "contractual tool." Under the rubric of reproducibility, transparency, and procedural objectivity, it strengthens administrative verifiability and reshapes the legitimacy foundation of science.*
 
 > [!citation-card] 生成与核验不对称：人工智能时代的文献污染风险
-> 科学界长期重发现轻核验，确认他人工作的研究几乎无法获得经费和学术声望，导致手工核验能力严重落后于每年数百万篇的论文产出。生成式 AI 的爆发进一步降低了提出假说和撰写论文的边际成本；若底层科研文献本身充满未被复现的假阳性与错误结论，AI 模型将系统性放大并向下游传递虚假结论。解决可重复性危机必须将数据共享、完整方法学记录与自动化验证平台作为联邦科研资助的前置条件。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
+> 科学界长期重发现轻核验，确认他人工作的研究几乎无法获得经费和学术声望，导致手工核验能力严重落后于每年数百万篇的科研成果产出。生成式 AI 的爆发进一步降低了提出假说和成果产出的边际成本；若底层科研文献本身充满未被复现的假阳性与错误结论，AI 模型将系统性放大并向下游传递虚假结论。解决可重复性危机必须将数据共享、完整方法学记录与自动化验证平台作为联邦科研资助的前置条件。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
 >
 > *Today, verifying others' work carries little funding or glory. [[Generative Artificial Intelligence|Generative AI]] makes plausible-sounding findings vastly cheaper to produce. If trained on a literature riddled with non-reproducible claims, AI will propagate and magnify errors at scale. Reproducibility, open data, and machine-readable protocols must become foundational infrastructure.*
 
@@ -94,7 +94,7 @@ updated: 2026-10-31
 > [!feature] 核心要素
 > - **出版偏倚与阳性结果崇拜（[[Publication Bias]]）** 期刊对[[Statistical Significance|统计显著性]]（$p < .05$）与突破性新奇结论的过度偏爱，迫使研究者雪藏阴性结果，严重扭曲文献生态。
 > - **研究自由度与统计操控（[[Researcher Degrees of Freedom]] & p-hacking）** 在数据清洗与模型设定中灵活调整[[Variable|变量]]、尝试多重亚组分析与剔除离群值，导致经验研究中充斥假阳性结论。
-> - **量化评价锦标赛与快发论文压力（Publish-or-Perish Culture）** 大学以影响因子和发表数量为核心的晋升体制，迫使学者追求论文周转率，牺牲了方案的鲁棒性与大样本验证。
+> - **量化评价锦标赛与快发成果压力（Publish-or-Perish Culture）** 大学以影响因子和发表数量为核心的晋升体制，迫使学者追求发表周转率，牺牲了方案的鲁棒性与大样本验证。
 > - **程序与数据透明度缺失（Closed Data & Opaque Methods）** 原始数据、实验记录、试验规程与分析代码封闭隐匿，剥夺了同行与公众独立复现验证的基本物理条件。
 > - **核验激励与基础设施缺失（Verification Deficit）** 资助体系仅奖励从 0 到 1 的所谓“新发现”，复现与审计工作缺乏经费与职称认可，导致核验能力严重滞后于文献生成规模。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
 
@@ -110,10 +110,6 @@ updated: 2026-10-31
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜可重复性危机动摇了科学共同体免于外部干预的内在[[Cognitive Authority|认知权威]]
 > **探讨维度　认知权威动摇** 探讨方法论危机如何外溢为公众与决策层对科学系统自主性的信任危机。
 
@@ -122,19 +118,27 @@ updated: 2026-10-31
 
 ---
 
-> [!concept-proposition] 命题二｜方法论危机被政治权力借用为重塑科学合法性与收紧学术自治的契约性杠杆
+> [!concept-proposition] 命题二｜方法论危机被政治权力借用为重塑科学合法性与收紧学术自治的契约性工具
 > **探讨维度　政治借用与治理异化** 揭示行政当局如何借学术诚信之名，将实证复现要求异化为规范科研立项与审计的制度工具。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
-> **行政可验证性置换内在认知权威** 美国政府 2025 年颁布的《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，将学界内部关于可重复性的争论转化为一套契约性工具；以程序客观性与数据复现为杠杆，建立行政审核与核验机制，使科学的正当性依据由专业共同体的“认知权威”转向行政官僚系统的“程序与结果可控性”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> **行政可验证性置换内在认知权威** 美国政府 2025 年颁布的《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，将学界内部关于可重复性的争论转化为一套契约性工具；以程序客观性与数据复现为支点，建立行政审核与核验机制，使科学的正当性依据由专业共同体的“认知权威”转向行政官僚系统的“程序与结果可控性”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
 
 > [!concept-proposition] 命题三｜生成成本下降以后，可重复性危机的瓶颈从生产发现转到核验发现
-> **探讨维度　生成与核验不对称** 讨论人工智能降低撰写论文与生成假说的成本后，不可重复[[Document|文献]]被加速放大的系统性风险。
+> **探讨维度　生成与核验不对称** 讨论人工智能降低成果产出与生成假说的成本后，不可重复[[Document|文献]]被加速放大的系统性风险。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **核验能力必须与生成能力同规模建设** 新发现享有经费和声望，确认别人的工作几乎没有学术荣耀。手工核验能力远远配不上全球年均数百万篇的发表量。人工智能使得看似可信的论文与假说极易规模化生产；若训练它的知识库本身充满不可复现的虚假结论，生产率的提高将把错误向下游成倍传递。因此，必须将开源数据、机器可读的方法学记录以及自动化形式核验基础设施建设作为国家科研资助的基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
+> **核验能力必须与生成能力同规模建设** 新发现享有经费和声望，确认别人的工作几乎没有学术荣耀。手工核验能力远远配不上全球年均数百万篇的发表量。人工智能使得看似可信的论著与假说极易规模化生产；若训练它的知识库本身充满不可复现的虚假结论，生产率的提高将把错误向下游成倍传递。因此，必须将开源数据、机器可读的方法学记录以及自动化形式核验基础设施建设作为国家科研资助的基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
+
+---
+
+> [!concept-proposition] 命题四｜论著全文本深层语言网络与同行评审指标人机协同可前瞻预测成果复现性
+> **探讨维度　全文本网络拓扑与人机协同诊断** 探讨深度学习挖掘论著全文语言网络如何穿透同行评审局限，实现对成果复现性的前瞻预测。
+
+> [!claim] [[Dashun Wang|Wang, D.]], & [[Albert-László Barabási|Barabási, A.-L.]]
+> **全文本语言网络拓扑与人机协同预测最高精度** 梳理心理学可重复性项目（RPP）等跨学科大面积复现失败危机（心理学 61% 失败、实验经济学逾 1/3 失败），指出传统同行评审指标在甄别不可重复研究时效能有限（AUC = 0.68）；吴优优等通过深度学习挖掘 96 项基准论著与 249 项样本外独立文献全文本语言关系拓扑网络，证实正文字里行间蕴含暗示结论稳健性的微观线索（文本模型 AUC = 0.72）；将机器文本分析与专家评审指标相融合的人机协同模型判别精度达到全局最高（AUC = 0.74），超越任何单一主体，确立了人工智能辅助学术复现性前瞻诊断的技术路径。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 237–238)]]
 
 ---
 
@@ -142,8 +146,9 @@ updated: 2026-10-31
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **认知权威动摇** | 可重复性危机动摇了科学共同体的内在认知权威，瓦解了战后默认信任契约 | 实证社会科学、生物医药以及气候科学公共公信力危机 | [[Argument_Fan_2026_BCAS\|樊春良 (2026, p. 1060)]] |
-> | **政治借用与治理重塑** | 方法论危机被行政权力借用为收紧学术自治、推行可验证性审计的规约工具 | 当代科学政策转型、黄金标准行政令与政府—大学关系博弈 | [[Argument_Fan_2026_BCAS\|樊春良 (2026, p. 1062)]] |
+> | **政治借用与治理重塑** | 方法论危机被行政权力借用为收紧学术自治、推行可验证性审计的行政规范工具 | 当代科学政策转型、黄金标准行政令与政府—大学关系博弈 | [[Argument_Fan_2026_BCAS\|樊春良 (2026, p. 1062)]] |
 > | **生成与核验脱节** | 生成变便宜之后，不可重复文献会被 AI 放大，必须同步建设大规模自动化核验基础设施 | 联邦科研资助改革、AI for Science 与形式化验证基建 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 64–65)]] |
+> | **语言网络人机协同预测** | 挖掘全文语言网络特征超越传统评审指标，人机融合模型达到最高复现性判别精度 | 论著可复现性前瞻研判、AI 辅助审稿与学术质量诊断 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021, pp. 237–238)]] |
 
 ---
 
@@ -151,6 +156,7 @@ updated: 2026-10-31
 > - **2005–2010 — 理论预警与早期统计反思** 流行病学学者约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数发表的研究成果都是虚假的》，引发跨学科对统计功效不足与[[Publication Bias|发表偏差]]的学术反思。
 > - **2011–2015 — 大规模经验复现与危机正式确立** 开放科学协作组（Open Science Collaboration）在《科学》（*Science*）发表心理学重复性研究报告，显示仅约 1/3 的经典实验能够成功重现，危机概念正式席卷全球学界。
 > - **2016–2024 — 开放科学运动与期刊审查强化** [[Preregistration|预注册]]（Preregistration）、注册报告（Registered Reports）以及强制开源数据代码成为主流期刊共识，危机应对主要聚焦于学界内部自律改革。
+> - **2021 — Wang & Barabási 全文语言网络人机协同预测模型** 汇总 RPP 等实证复现危机数据，提出融合论著正文深层语言拓扑网络与同行评审指标的人工智能预测模型，达到 AUC = 0.74 的最高预测精度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 237–238)]]
 > - **2025–至今 — 国家政策治理介入与[[Gold Standard Science|黄金标准科学]]确立** 美国政府签署《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，白宫 [[Office of Science and Technology Policy|OSTP]] 发布《科学：新黄金时代》报告，将可重复性治理与核验基础设施建设提升为国家科技政策的核心支柱，推动科研资助回归实证严谨性与客观卓越。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25, 64–65)]]
 
 ---

@@ -84,9 +84,7 @@ updated: 2026-10-31
 ---
 
 > [!def] Publication Bias
-> 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术[[Document|文献]]库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
-
-在现代[[Evidence-Based Education|循证教育]]评价中，发表偏倚被视为威胁实证合成[[Internal Validity|内部效度]]的关键偏倚源。[[Meta-analysis|元分析]]研究者通常通过[[Funnel Plot|漏斗图]]（[[Funnel Plot]]）、Egger 线性回归、[[Trim and Fill Method|剪补法]]（[[Trim and Fill Method]]）以及[[Fail-Safe N|失安全数]]（[[Fail-Safe N]]）等多重统计工具对发表偏倚进行系统性审计与效应量下调校正。
+> 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术文献库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性；元分析研究者通常通过[[Funnel Plot\|漏斗图]]、Egger 线性回归、[[Trim and Fill Method\|剪补法]]与[[Fail-Safe N\|失安全数]]等多重统计工具对发表偏倚进行系统性审计与效应量下调校正（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 学术出版与资助体系对显著和正面结果的选择性偏好，使公开证据池系统性右偏并脱离真实因果分布。
@@ -122,9 +120,7 @@ updated: 2026-10-31
 > - **商业化教改热潮与药企式偏倚镜像（Commercial Educational Fads）** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]] 指出，教育实证[[Meta-analysis|元分析]]严重依赖公开发表文献，其偏倚机制与医药工业中药企资助试验如出一辙：在利润丰厚的商业化教改热潮中（如商业包装的“[[Learning Styles|学习风格]]”测评、咨询方案与特定教材），未能证实预期积极效果的独立研究往往被束之高阁（文件抽屉效应），而公开见刊的大多是带有商业或理论偏好的正面成果。这种出版过滤致使元分析纳入的文献天然带有系统性正向偏差，进而诱导政策制定者做出盲目采纳昂贵商业项目的错误决策。
 > - **阻滞[[Cumulative Knowledge Base\|累积性知识库]]建构** 出版生态对显著正向结果的偏爱导致实证证据碎片化，排斥了零结果与情境复现研究，阻碍了教学改进所需[[Cumulative Knowledge Base\|累积性知识库]]（Cumulative Knowledge Base）的生成，使[[Evidence-Based Policy-Making|循证决策]]者难以辨识真实可靠的有效实践（Burkhardt & Schoenfeld, 2003）。
 
-### 2. 诊断与统计校正方法族
-
-在现代[[Meta-analysis|元分析]]报告规范中，发表偏倚的诊断与校正已形成严密的多工具互证规程：
+---
 
 > [!tools] 发表偏倚核心诊断与校正方法族
 > - **[[Funnel Plot\|漏斗图]]（Funnel Plot）目视诊断** 以[[Effect Size\|效应量]]为横轴、[[Sample Size Determination\|样本量]]或[[Standard Error\|标准误]]为纵轴绘制散点图；在无偏倚情境下散点呈对称倒漏斗状；若左下角（小样本零结果/负结果）出现明显缺失，提示存在偏倚。
@@ -136,12 +132,8 @@ updated: 2026-10-31
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜学术发表系统的正向偏好通过压制零效应导致[[Meta-analysis|元分析]]平均[[Effect Size|效应量]]系统性虚高
-> **探讨维度　证据池扭曲与效应虚增机制** 探讨学术期刊与资助生态对显著结果的偏爱如何系统性抬高公开[[Document|文献]]库中的平均[[Effect Size\|效应量]]，导致教育实践的有效性被普遍高估。
+> **探讨维度　证据池扭曲与效应虚增机制** 探讨学术期刊与资助生态对显著结果的偏爱如何系统性抬高公开文献库中的平均[[Effect Size\|效应量]]，导致教育实践的有效性被普遍高估。
 
 > [!claim] Kraft, M. A.
 > **实证效应分布右偏与干预失败率低估** 基于全美[[Randomised Controlled Trials\|随机对照试验]]（RCT）大样本经验分布指出，已发表文献中的效应量分布已被发表偏倚整体推向较大的正向数值；文献中显示的“36% 效应量低于 0.05”实质上严重低估了教育干预的实际失败率。小样本研究若只发现微弱效应，往往因统计功效不足与结果非显著而被埋没于文件抽屉中。[[Argument_Kraft_2023_ER\|(Kraft, 2023, p. 186)]]
@@ -151,6 +143,9 @@ updated: 2026-10-31
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]]; [[Argument_Hattie_2010_NZJES|Hattie (2010, p. 88)]]
 > **商业偏倚镜像与宏观二阶综合的偏倚继承** 约翰·[[Ivan Snook|斯努克]]等学者指出，商业学术出版对正向结果的偏好与医药研发中的药企偏倚高度相似；当缺乏对未发表文献的严格检索与事后统计校正时，进入[[Meta-analysis|元分析]]的公开文献天然带有正向偏向。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中直接对 800 余项元分析进行二阶合并，却未能对这些元分析是否经过[[Funnel Plot|漏斗图]]或[[Trim and Fill Method|剪补法]]校正进行系统审查。尽管哈蒂（2010）抗辩称同行评审本身就是一种质量控制，但批评者指出同行评审机制恰恰是优先发表显著正向结果、加剧文件抽屉效应的制度源头；二阶综合非但未能消除发表偏倚，反而使底层文献池的系统性虚高在宏观排行榜中被固化和合法化。
+
+> [!claim] [[Dashun Wang|Wang, D.]], & [[Albert-László Barabási|Barabási, A.-L.]]
+> **知识空白认知扭曲与负面数据隐匿** 指出发表偏倚对显著正向结果的系统性筛选，在宏观知识图谱层面引发了严重的认知陷阱：文献图谱中的拓扑空白并不意味着前沿无人涉足，许多空白往往是前人多次尝试但因零效应或反常数据而沉入“文件抽屉”的负面记录；这种负面数据的系统性隐匿使得学者无法将正向结论置于全量实验背景中核验，不仅导致后继研究盲目重蹈覆辙，更损害了实证结论的可复现性与证据强度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
 
 ---
 
@@ -173,7 +168,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率；二阶综合面临直接继承并复合放大发表偏倚的制度风险 | 元分析效应量解释、宏观证据库审查、循证政策评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] |
+> | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率；二阶综合面临直接继承并复合放大发表偏倚的制度风险 | 元分析效应量解释、宏观证据库审查、循证政策评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Hattie_2010_NZJES\|Hattie (2010)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
 > | **稳健性检验命题** | 结合剪补法、失安全数与回归检验可量化偏倚下调幅度，确立核心因果推论的稳健性边界 | 元分析偏倚审计、敏感性分析与稳健性报告 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **基础设施解耦命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立解耦出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
@@ -189,6 +184,7 @@ updated: 2026-10-31
 > - **2016 — Wecker et al. 批判[[Meta-meta-analysis|二阶元分析]]偏倚倍增与中央[[Data Infrastructure|数据基础设施]]方案** 揭示商业期刊篇幅与显著性偏好对实证元数据的剥离，指出二阶元分析复合放大发表偏倚，提出解耦商业出版的中央标准化证据数据库并倡导将数据存缴计入学术成果清单（Publikationslisten）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 > - **2020 — Wolf et al. 解构[[Developer Effect|开发者效应]]** 将权重函数模型应用于开发者与独立评估[[Effect Size|效应量]]比较，证实发表偏倚贡献了开发者效应的 66%。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
 > - **2021 — Cartiff et al. 多方法严密诊断[[Paradigm|范式]]** 在《教育心理学杂志》（JEP）元分析中建立包含离群值缩尾、[[Funnel Plot|漏斗图]]、Egger 回归、剪补法、Rosenthal 及 Orwin 双失安全数的多工具互证规范。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 484–485)]]
+> - **2021 — Wang & Barabási 科学学视角与知识图谱空白扭曲** 从宏观知识网络拓扑切入，揭示发表偏倚导致文件抽屉隐匿大量负面实验，使拓扑空白被误判为未探蓝海；强调公开并比对全量负面数据是提升复现性与破除跟风聚集的关键。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
 > - **2022 — Révai [[Knowledge Mobilisation|知识动员]]系统批评** 将发表偏倚从统计学技术问题提升至知识动员生态危机高度，揭示出版商偏好对[[Cumulative Knowledge Base|累积性知识库]]的阻滞。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 22)]]
 > - **2023 — Kraft 教育 [[Randomised Controlled Trials|RCT]] 经验基准** 基于大规模试验实证分布，指出发表偏倚导致教育实证文献中的项目有效率被严重虚夸。[[Argument_Kraft_2023_ER|(Kraft, 2023, p. 186)]]
 
