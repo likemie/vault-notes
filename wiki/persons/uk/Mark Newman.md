@@ -10,7 +10,7 @@ summary: "英国统计物理学家与复杂网络领军学者，密歇根大学 
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Giant Component]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
+  - "[[Preferential Attachment in Academia]]"
 related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
@@ -43,6 +44,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -74,6 +76,7 @@ updated: 2026-10-31
 > [!work-line|notitle] 主要著作
 > - **2001 — *The Structure of Scientific Collaboration Networks*（PNAS）** 首次精确测定数万名物理学者与生物学者的合著拓扑，确立了学术合作网的度分布、集聚度与[[Six Degrees of Separation|六度分隔]]经验基准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–106)]]
 > - **2004 — *Finding and Evaluating Community Structure in Networks*（《物理评论 E》）** 提出网络社团结构探测的模块度（Modularity）算法，成为全网社群发现的黄金标准。
+> - **2009 — *The first-mover advantage in scientific publication*（EPL）** 追踪网络科学自建立以来的全量发表，实测证实首批 10% 成果篇均被引（101 次）较次批 10% 成果（26 次）高出近 4 倍，经验支持无标度网络中优先连接机制驱动的时序先发优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 186–187)]]
 > - **2010 — *Networks: An Introduction*（牛津大学出版社）** 撰写复杂网络领域的经典教科书，被全球高校与科研院所广泛采纳。
 
 ---
@@ -89,7 +92,7 @@ updated: 2026-10-31
 > - **跨学科路径** 为科学学、流行病学与计算社会学提供通用的网络测度基底。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）— 依托纽曼关于合著网络度分布与集聚度的经验测算阐明科研协作特征（Unit 04），并引入其关于引文分布极值幂律行为的拟合论断（Unit 07, p. 179）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 依托纽曼合著网络实测分析科研协作（Unit 04），引入其引文分布极值幂律论断（Unit 07），并基于其 2009 年网络科学先发优势实测检验优先连接模型（Unit 08, pp. 186–187）。
 
 ---
 
@@ -107,3 +110,4 @@ updated: 2026-10-31
 > | [[Clustering Coefficient]] | 概念 | 测算合著网络局域三元闭包概率，证实其较随机图高出数千倍的内聚特性。 |
 > | [[Giant Component]] | 概念 | 解析合著网络中的渗流相变，确立巨连通分支覆盖全域 80%–90% 学者的拓扑骨干。 |
 > | [[Small-World Collaboration Model]] | 理论 | 为合著网络兼具高聚类与短距离的小世界特征提供统计物理理论基础。 |
+> | [[Preferential Attachment in Academia]] | 理论 | 2009 年通过实测网络科学初创期成果被引断崖，为优先连接模型的先发优势提供大样本经验支持。 |

@@ -11,7 +11,7 @@ summary: "科学计量学与信息计量学奠基人，耶鲁大学科学史阿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: completed
 created: "2026-10-29"
@@ -102,7 +103,7 @@ updated: 2026-10-31
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）— 检视普赖斯在新加坡发现的科学文献指数增长律并反思其饱和预言，追溯其首度确立引文网络幂律分布与学术累积优势的开创性贡献。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 检视普赖斯在新加坡发现的文献指数增长律与饱和预言（Unit 01, 07），实证检验其 1976 年累积优势模型对引文差距和跨学科普适分布的解释力（Unit 08, pp. 184–186）。
 
 ---
 

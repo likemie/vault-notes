@@ -12,10 +12,10 @@ summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1967"
 died: ""
 lifespan: "1967–至今"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Q-Model]]"
   - "[[Burstiness in Human Activities]]"
   - "[[Preferential Attachment in Academia]]"
+  - "[[Bianconi-Barabási Model]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Q-Factor]]"
@@ -60,6 +61,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -96,9 +98,9 @@ updated: 2026-10-31
 
 > [!thought-timeline|notitle] 思想发展
 > - **1999–2005 — 复杂网络拓扑与优先连接期** 突破传统随机图论[[Paradigm|范式]]，揭示真实世界网络普遍具备幂律度分布。
->   - **代表著作** *[[Emergence]] of scaling in random networks* (1999); *Linked: The New Science of Networks* (2002)。
->   - **关键概念／方法** 优先连接机制、无标度网络拓扑、幂律度分布。
->   - **阶段转向** 从平衡态统计物理模型转向以演化规则驱动的动态网络形成机理，将“富者愈富”的马太效应予以精确数理建模。
+>   - **代表著作** *[[Emergence]] of scaling in random networks* (1999); *Competition and multiscaling in evolving networks* (2001, with Ginestra Bianconi); *Linked: The New Science of Networks* (2002)。
+>   - **关键概念／方法** 优先连接机制、[[Bianconi-Barabási Model|适应度模型]]、无标度网络拓扑、幂律度分布。
+>   - **阶段转向** 从平衡态统计物理模型转向以演化规则驱动的动态网络形成机理，将成果内在适应度引入优先连接，解释后发成果超越早期文献的动态。
 > - **2005–2015 — 人类行为动力学与网络医学期** 探索复杂网络在时间非泊松特征与生物分子系统中的微观应用。
 >   - **代表著作** *The origin of bursts and heavy tails in human dynamics* (2005); *Network Medicine* (2011)。
 >   - **关键概念／方法** 爆发性（[[Burstiness in Human Activities|Burstiness]]）、人类动力学非均匀性、亚细胞互作网络。
@@ -126,7 +128,7 @@ updated: 2026-10-31
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队科学（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）与引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队合作（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）、引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）与适应度模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）。
 
 ---
 

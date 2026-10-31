@@ -9,10 +9,10 @@ summary: "美籍组织社会学家与网络科学家，西北大学凯洛格管�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1960"
 died: ""
 lifespan: "1960–至今"
@@ -32,12 +32,14 @@ related_concepts:
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
   - "[[Coauthorship Network]]"
+  - "[[Combinatorial Novelty]]"
 related_theories:
   - "[[Small-World Collaboration Model]]"
   - "[[Team Assembly Model]]"
 related_methods:
   - "[[Relative Team Impact]]"
   - "[[Network Analysis]]"
+  - "[[Combinatorial Novelty Measurement]]"
 related_instruments: []
 related_persons:
   - "[[Stefan Wuchty]]"
@@ -47,10 +49,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 ---
@@ -79,7 +82,7 @@ updated: 2026-10-30
 > - **2005 — *Collaboration and [[Creativity]]: The Small World Problem*（《美国社会学评论》）** 分析百老汇一个世纪的音乐剧网络，确立[[Small-World Quotient|小世界商数]] $W$ 与商业艺术表现的倒 U 形关联。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 > - **2005 — *Team assembly mechanisms determine collaboration network structure and team performance* (*Science*)** 与吉梅拉等共同构建[[Team Assembly Model|团队组装模型]]，量化老手与新人配比对创新团队产出绩效的影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121)]]
 > - **2007 — *The Increasing Dominance of Teams in the Production of Knowledge*（《科学》）** 分析近两千万篇论著与两百万件专利，提出相对团队影响力（RTI），证实团队生产主导现代科学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **2013 — *Atypical Combinations and Scientific Impact*（《科学》）** 构建引文对共现分析算法，证实高影响突破往往植根于坚实的常规学科基石与微量非典型知识组合。
+> - **2013 — *Atypical Combinations and Scientific Impact*（《科学》）** 构建期刊共引对测度算法，实测 1,790 万篇科技论著，证实高影响突破根植于坚实的常规学科基石与微量非典型知识组合。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 190–193)]]
 
 ---
 
@@ -94,7 +97,7 @@ updated: 2026-10-30
 > - **政策路径** 为科技基金资助机构与研发部门提供团队组建与跨学科合作的拓扑结构指导。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 深度征引乌齐关于相对团队影响力（Unit 04）与百老汇小世界协作模型及团队[[Assemblage|组装]]机制（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05, pp. 118–121]]）的经验发现。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 深度征引乌齐相对团队影响力（Unit 04）、团队组装机制（Unit 05）及基于 1,790 万篇论著的组合新颖性与适度平衡架构（Unit 08, pp. 190–193）。
 
 ---
 
@@ -126,4 +129,6 @@ updated: 2026-10-30
 > | [[Team Assembly Model]] | 理论 | 合作建立团队组装生成模型，量化在任老手与重复合作倾向对学术创新的影响。 |
 > | [[Small-World Collaboration Model]] | 理论 | 提出小世界商数 $W$ 测算方法与倒 U 形创造力理论模型。 |
 > | [[Relative Team Impact]] | 方法 | 共同创立测度团队引文溢价的基准比值指标。 |
+> | [[Combinatorial Novelty]] | 概念 | 提出常规基底与非典型配对的适度平衡架构，揭示高影响突破的知识重组机理。 |
+> | [[Combinatorial Novelty Measurement]] | 方法 | 建立基于期刊共引对 $z$ 分数的量化测度算法，提取单篇论著的中位数常规性与第 10 百分位数非典型性。 |
 > | [[Network Analysis]] | 方法 | 倡导计算社会学网络分析范式。 |

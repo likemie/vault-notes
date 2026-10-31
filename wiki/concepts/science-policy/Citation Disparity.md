@@ -145,7 +145,7 @@ updated: 2026-10-31
 > - **2009 — 新兴学科先发优势断崖实证测定** 马克·纽曼（Mark Newman）追踪网络科学全量论著，实证揭示首批 10% 成果篇均 101 次引用与次批 10% 成果 26 次引用的断崖级差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009, via Wang & Barabási, 2021, p. 186)]]
 > - **2012 — 物理学百年全量成果引文份额翻番测定** 巴拉巴西等人调取《物理评论》逾 46 万篇文献，证实前 1% 成果的次年引文份额从 8% 持续攀升至 20% 以上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Barabási et al., 2012, via Wang & Barabási, 2021, pp. 180–181)]]
 > - **2014 — 科学之山实体模型与引文分层具象化** 范·诺登等人在《自然》提出乞力马扎罗文献堆叠模型，具象呈现 5800 万篇文献的极端层级极化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Van Noorden et al., 2014, via Wang & Barabási, 2021, pp. 174–176)]]
-> - **2021 — 科学学影响力差距机制集成与去中心化背书** 王大顺与巴拉巴西在《科学学》中阐明引文差距的动力学机制，确立独立引文汇聚的集体智慧本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–183)]]
+> - **2021 — 科学学影响力差距机制集成与同行集体评判** 王大顺与巴拉巴西在《科学学》中阐明引文差距的动力学机制，确立独立引文汇聚体现学术界集体智慧的本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–183)]]
 
 ---
 
@@ -154,11 +154,11 @@ updated: 2026-10-31
 > > [!axis] 去中心化同行集体智慧 vs 代理指标杂音偏误
 > > 引文差距究竟客观映射了成果的实质科学质量，抑或仅是马太效应与计量杂音的虚假投射。
 > >
-> > - **同行集体智慧支持者（Radicchi et al., 2017; Ioannidis et al., 2014）** 论证在去中心化开放网络中，没有任何单一权威能够操纵共同体引文；数万独立学者基于研究需要写下的离散引证，汇聚成了超越个体自子情结（my-baby bias）与主观偏狭的集体智慧背书。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 181–183)]]
+> > - **同行集体智慧支持者（Radicchi et al., 2017; Ioannidis et al., 2014）** 认为在开放的学术网络中，没有任何单一权威能操纵全行业的引文；成千上万名学者出于研究需要做出的独立引用，汇聚成了超越个体偏爱（自子情结，my-baby bias）与主观盲区的集体评判。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 181–183)]]
 > > - **计量局限与批评学者** 指出引文包含系统性综述溢价、负面反驳引用与礼貌形式主义引用，直接将原始被引等同于学术质量会导致原创劳动折损并加剧不当锦标赛竞争。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 181)]]
 
 > [!warning|limits] 适用局限
-> 引文差距刻画的是学术共同体注意力的宏观分配，受领域出版容量、综述类型偏好及先发优势显著扰动；不能作为单兵微观考核的唯一定量法则，亦不直接等同于知识成果内在的绝对学术价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 181–183)]]
+> 引文差距刻画的是学术共同体注意力的宏观分配，受领域出版容量、综述类型偏好及先发优势显著扰动；不能作为学者个人微观考核的唯一量化指标，亦不直接等同于知识成果内在的绝对学术价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 181–183)]]
 
 ---
 

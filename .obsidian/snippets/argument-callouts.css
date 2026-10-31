@@ -24139,3 +24139,128 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="sample-
   html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] :is(.callout-content,strong), html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] .callout-title-inner::after, html body .callout.callout.callout.callout.callout.callout[data-callout="sample-panel"][data-callout][data-callout][data-callout][data-callout] > .callout-title::after { transform: none !important; }
 }
 /* <<< SAMPLE-ARCHIVE DESIGN */
+
+/* >>> READING-LENS DESIGN · 2026-10-31
+   Full-width context, then independently sized analysis sections. Original list content preserved. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] {
+  --rl-accent: rgb(147, 84, 108); --rl-ink: rgb(123, 62, 84);
+  --rl-blue: rgb(65, 106, 148); --rl-green: rgb(50, 114, 91);
+  --rl-ease: cubic-bezier(.22,.68,.25,1);
+  --ac-accent: var(--rl-accent) !important; --ac-ink: var(--rl-ink) !important;
+  container-type: inline-size; position: relative !important;
+  padding: 1.2rem 1.4rem 1.1rem !important;
+  background: var(--ac-paper) !important; background-image: none !important;
+  border: 1px solid color-mix(in srgb, var(--rl-accent) 10%, var(--background-modifier-border)) !important;
+  border-radius: 10px !important; box-shadow: none !important; transform: none !important;
+  transition: border-color 260ms var(--rl-ease) !important;
+}
+html body.theme-dark .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] {
+  --rl-accent: rgb(202, 143, 162); --rl-ink: rgb(222, 171, 187);
+  --rl-blue: rgb(155, 183, 214); --rl-green: rgb(150, 197, 173);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]::before, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]::after { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title {
+  position: relative !important; width: 100% !important; box-sizing: border-box;
+  align-items: flex-start !important; gap: .5rem !important;
+  padding: 0 0 .85rem !important; margin: 0 0 .85rem !important;
+  border: 0 !important; background: none !important; box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-icon { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner {
+  position: relative !important; flex: 1 1 0% !important; width: auto !important; max-width: none !important; min-width: 0 !important;
+  padding: 0 84px 0 0 !important; box-sizing: border-box;
+  font-family: var(--ac-serif) !important; font-size: 1.15em !important; font-weight: 500 !important;
+  line-height: 1.5 !important; letter-spacing: .015em !important; color: var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::before {
+  content: "LENS" !important; display: block !important; width: max-content;
+  margin: 0 0 .45rem !important; padding: 0 0 0 22px !important;
+  font: 600 10.5px/1.5 var(--ac-sans) !important; letter-spacing: .12em !important;
+  background: linear-gradient(var(--rl-accent),var(--rl-accent)) left center / 12px 2px no-repeat !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; color: var(--rl-ink) !important;
+  transition: background-size 280ms var(--rl-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::after {
+  content: "" !important; display: block !important; position: absolute; right: 0; top: 2px;
+  width: 64px; height: 44px; pointer-events: none;
+  background: var(--rl-accent); opacity: .5;
+  mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2222%22%20r%3D%2216%22/%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2222%22%20r%3D%229%22/%3E%3Cpath%20d%3D%22M32%201v8M32%2035v8M11%2022h8M45%2022h8M27%2022h10M32%2017v10%22/%3E%3C/svg%3E"); mask-size: contain; mask-repeat: no-repeat;
+  transform: rotate(-8deg); transition: transform 420ms var(--rl-ease), opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute; left: 0; bottom: 0;
+  width: 24px; height: 2px; background: var(--rl-accent); opacity: .7;
+  transform-origin: left; transition: transform 360ms var(--rl-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"].is-collapsed > .callout-title { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"].is-collapsed > .callout-title::after { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-fold { flex: 0 0 auto; align-self: center; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content { padding: 0 !important; background: none !important; overflow: visible !important; font-size: 1em !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]:not(.is-collapsed) > .callout-content { animation: rl-focus-open 320ms var(--rl-ease) both !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul {
+  display: grid !important; grid-template-columns: repeat(2,minmax(0,1fr)) !important;
+  align-items: start !important; gap: 1rem 1.4rem !important;
+  margin: 0 !important; padding: 0 !important; list-style: none !important;
+  font: 400 .96em/1.85 var(--ac-sans) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li {
+  --rl-role: var(--rl-green);
+  display: block !important; grid-column: auto !important; align-self: start !important; height: auto !important; min-height: 0 !important;
+  position: relative !important; list-style: none !important; margin: 0 !important; padding: .9rem .5rem .4rem !important;
+  border: 0 !important; border-top: 1px solid color-mix(in srgb, var(--rl-role) 10%, var(--background-modifier-border)) !important;
+  border-radius: 0 !important; background: transparent !important; box-shadow: none !important; transform: none !important;
+  color: var(--text-normal) !important; text-align: left !important; text-align-last: auto !important;
+  font-size: 1em !important; line-height: 1.85 !important; letter-spacing: 0 !important;
+  overflow-wrap: anywhere; transition: border-color 220ms ease, background-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:nth-child(2) { --rl-role: var(--rl-accent); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:first-child {
+  --rl-role: var(--rl-blue); grid-column: 1 / -1 !important;
+  padding: 1rem 1.1rem !important;
+  border: 1px solid color-mix(in srgb, var(--rl-role) 8%, var(--background-modifier-border)) !important;
+  border-left: 3px solid color-mix(in srgb, var(--rl-role) 65%, transparent) !important;
+  border-radius: 5px !important; background: color-mix(in srgb, var(--rl-role) 3%, transparent) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li::before, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li::after { content: none !important; display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li > .list-bullet { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-of-type, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type {
+  display: block !important; position: relative !important; padding-left: 18px !important; margin: 0 0 .55rem !important;
+  color: var(--rl-role) !important; font: 600 1.03em/1.55 var(--ac-serif) !important; letter-spacing: .01em !important;
+  transition: transform 240ms var(--rl-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li > strong:first-of-type::before, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type::before {
+  content: ""; position: absolute; left: 0; top: .75em; width: 9px; height: 2px;
+  background: var(--rl-role); transform-origin: left; transition: transform 260ms var(--rl-ease);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li > p { margin: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content a.internal-link { color: var(--rl-blue) !important; text-underline-offset: .22em; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content a.internal-link:focus-visible { outline: 2px solid var(--rl-role,var(--rl-accent)); outline-offset: 3px; }
+@media (hover: hover) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]:hover { border-color: var(--rl-accent) !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]:hover > .callout-title .callout-title-inner::before { background-size: 16px 2px !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]:hover > .callout-title .callout-title-inner::after { transform: rotate(0) scale(1.04); opacity: .85; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"]:not(.is-collapsed):hover > .callout-title::after { transform: scaleX(2.5) !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:hover { border-color: var(--rl-role) !important; background: color-mix(in srgb, var(--rl-role) 3%, transparent) !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:hover > strong:first-of-type, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:hover > p:first-of-type > strong:first-of-type { transform: translateX(2px); }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:hover > strong:first-of-type::before, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:hover > p:first-of-type > strong:first-of-type::before { transform: scaleX(1.6); }
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:focus-within { border-color: var(--rl-role) !important; }
+@container (max-width: 600px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul { grid-template-columns: minmax(0,1fr) !important; gap: 1rem !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li { grid-column: 1 / -1 !important; }
+}
+@container (max-width: 360px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner { padding-right: 60px !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::after { width: 44px; height: 31px; top: 6px; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-content > ul > li:first-child { padding: .85rem .8rem !important; }
+}
+@container (max-width: 260px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner { padding-right: 0 !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"] > .callout-title .callout-title-inner::after { display: none !important; }
+}
+@keyframes rl-focus-open { from { opacity: .6; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout], html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout] *, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout] *::before, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout] *::after { animation: none !important; transition: none !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout] :is(strong,.callout-content), html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout] .callout-title-inner::after, html body .callout.callout.callout.callout.callout.callout[data-callout="concept-lens"][data-callout][data-callout][data-callout][data-callout] > .callout-title::after { transform: none !important; }
+}
+/* <<< READING-LENS DESIGN */
