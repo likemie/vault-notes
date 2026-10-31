@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
     },
     {
+      "basename": "Albert-László Barabási",
+      "path": "wiki/persons/us/Albert-László Barabási.md"
+    },
+    {
+      "basename": "Relative Citation Normalization",
+      "path": "wiki/methods/quantitative/Relative Citation Normalization.md"
+    },
+    {
       "basename": "Citation Distribution",
       "path": "wiki/concepts/science-policy/Citation Distribution.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Contemporary h-Index",
       "path": "wiki/methods/quantitative/Contemporary h-Index.md"
-    },
-    {
-      "basename": "Eddington Number",
-      "path": "wiki/methods/quantitative/Eddington Number.md"
-    },
-    {
-      "basename": "Author Name Disambiguation",
-      "path": "wiki/methods/quantitative/Author Name Disambiguation.md"
     }
   ],
   "omittedPaths": [],

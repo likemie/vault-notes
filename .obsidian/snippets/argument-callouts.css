@@ -24266,100 +24266,121 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="concept
 /* <<< READING-LENS DESIGN */
 
 /* >>> CLAIM-QUESTION DESIGN · 2026-10-31
-   Inquiry: open punctuation, cool ink. Claim: warm binding, closing punctuation.
-   Preserve step headings, notitle metadata and native disclosure controls. */
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) {
- --cq-accent: #4c8c91; --cq-ink: #326f75;
- --cq-ease: cubic-bezier(.2,.75,.25,1);
- container-type: inline-size;
- position: relative !important; overflow: hidden !important;
- padding: 1.25rem 1.4rem 1.4rem !important;
- border: 1px solid color-mix(in srgb, var(--cq-accent) 25%, var(--background-modifier-border)) !important;
- border-radius: 10px !important; box-shadow: none !important;
- background: color-mix(in srgb, var(--cq-accent) 3%, var(--background-primary)) !important;
- transform: none !important;
- transition: border-color 220ms ease, background-color 220ms ease !important;
+   Shared header grammar with framework, method, sample and lens. */
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) {
+ --cq-accent: rgb(65,106,148); --cq-ink: rgb(54,89,125);
+ --cq-ease: cubic-bezier(.22,.68,.25,1);
+ --ac-accent: var(--cq-accent) !important; --ac-ink: var(--cq-ink) !important;
+ container-type: inline-size; position: relative !important;
+ padding: 1.2rem 1.4rem 1.1rem !important;
+ background: var(--ac-paper) !important; background-image: none !important;
+ border: 1px solid color-mix(in srgb,var(--cq-accent) 10%,var(--background-modifier-border)) !important;
+ border-radius: 10px !important; box-shadow: none !important; transform: none !important;
+ transition: border-color 260ms var(--cq-ease) !important;
 }
-html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])) { --cq-accent: #b58d51; --cq-ink: #8a662e; border-left: 3px solid var(--cq-accent) !important; background: var(--background-primary) !important; }
-.theme-dark :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) { --cq-ink: #8fc5c4; }
-.theme-dark :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):where([data-callout="claim"]) { --cq-ink: #d1b17d; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title {
- position: relative !important; display: flex; align-items: flex-start !important;
- padding: 0 !important; margin: 0 0 1rem !important;
- border: 0 !important; background: none !important; min-width: 0;
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"] { --cq-accent: rgb(50,114,91); --cq-ink: rgb(42,94,76); }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):where(.theme-dark *) { --cq-accent: rgb(155,183,214); --cq-ink: rgb(177,201,226); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"]:where(.theme-dark *) { --cq-accent: rgb(150,197,173); --cq-ink: rgb(170,212,192); }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))::before,:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))::after { display:none !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title {
+ position:relative !important; width:100% !important; box-sizing:border-box;
+ align-items:flex-start !important; gap:.5rem !important;
+ padding:0 0 .85rem !important; margin:0 0 .85rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
 }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner {
- flex: 1 1 0% !important; min-width: 0 !important; position: relative !important;
- padding: 0 64px 0 0 !important; margin: 0 !important;
- font: 500 1.22em/1.5 var(--ac-serif) !important;
- color: var(--text-normal) !important; letter-spacing: .015em !important;
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-icon { display:none !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner {
+ display:block !important; position:relative !important; flex:1 1 0% !important; width:auto !important; max-width:none !important; min-width:0 !important;
+ padding:0 84px 0 0 !important; box-sizing:border-box;
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
 }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::before {
- position: static !important; display: block !important; width: auto !important; height: auto !important;
- margin: 0 0 .32rem !important; padding: 0 !important;
- font: 600 11px/1.6 var(--ac-sans) !important; letter-spacing: .14em !important;
- background: none !important; color: var(--cq-ink) !important;
- border: 0 !important; box-shadow: none !important;
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::before {
+ content:"CLAIM" !important; display:block !important; width:max-content; height:auto !important;
+ margin:0 0 .45rem !important; padding:0 0 0 22px !important;
+ font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
+ background:linear-gradient(var(--cq-accent),var(--cq-accent)) left center / 12px 2px no-repeat !important;
+ border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--cq-ink) !important;
+ transition:background-size 280ms var(--cq-ease) !important;
 }
-html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])) > .callout-title .callout-title-inner::before { content: "CLAIM" !important; }
-html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title .callout-title-inner { font-size: 0 !important; line-height: 0 !important; min-height: 36px; }
-html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title .callout-title-inner::before {
- content: "研究问题" !important; font: 500 21px/1.6 var(--ac-serif) !important;
- letter-spacing: .035em !important; margin: 0 !important; color: var(--text-normal) !important;
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title .callout-title-inner { font-size:0 !important; line-height:0 !important; min-height:51px; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title .callout-title-inner::before { content:"QUESTION" !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title::before {
+ content:"研究问题" !important; display:block !important; position:absolute; left:0; top:calc(15.75px + .45rem);
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em; color:var(--text-normal); pointer-events:none;
 }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::after {
- display: block !important; position: absolute !important; right: 2px !important; top: 0 !important;
- width: 42px !important; height: 48px !important; padding: 0 !important; margin: 0 !important;
- background: none !important; border: 0 !important; box-shadow: none !important;
- color: var(--cq-accent) !important; opacity: .55;
- font: 500 54px/.95 var(--ac-serif) !important; text-align: right;
- pointer-events: none; transform-origin: 70% 60%;
- transition: transform 320ms var(--cq-ease), opacity 220ms ease !important;
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::after {
+ content:"" !important; display:block !important; position:absolute; right:0; top:2px;
+ width:64px; height:44px; pointer-events:none;
+ background:var(--cq-accent) !important; opacity:.5;
+ mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M5%2010h28M5%2022h21M5%2034h28M35%2010l12%2012-12%2012M47%2022h12%22/%3E%3Ccircle%20cx%3D%2259%22%20cy%3D%2222%22%20r%3D%222%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
+ border:0 !important; box-shadow:none !important; margin:0 !important; padding:0 !important;
+ transform:translateX(-2px); transition:transform 420ms var(--cq-ease),opacity 220ms ease !important;
 }
-html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title .callout-title-inner::after { content: "?" !important; transform: rotate(-9deg); }
-html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])) > .callout-title .callout-title-inner::after { content: "”" !important; font-size: 78px !important; top: 3px !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title::after { display: none !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content {
- margin: 0 !important; padding: 0 !important; border: 0 !important;
- background: none !important; color: var(--text-normal) !important;
- font: 400 1em/1.95 var(--ac-sans) !important; letter-spacing: .015em;
- overflow-wrap: anywhere; animation: cq-ink-arrive 320ms var(--cq-ease) both;
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M7%2022h19M26%2022l16-13M26%2022l16%2013%22/%3E%3Ccircle%20cx%3D%227%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3Ccircle%20cx%3D%2246%22%20cy%3D%227%22%20r%3D%224%22/%3E%3Ccircle%20cx%3D%2246%22%20cy%3D%2237%22%20r%3D%224%22/%3E%3Cpath%20d%3D%22M51%207h8M51%2037h8%22/%3E%3C/svg%3E"); transform:rotate(-6deg); }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title::after {
+ content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
+ width:24px; height:2px; background:var(--cq-accent); opacity:.7;
+ transform-origin:left; transition:transform 360ms var(--cq-ease) !important;
 }
-html body .callout.callout.callout.callout.callout.callout[data-callout="question"] > .callout-content { font-family: var(--ac-serif) !important; font-size: 1.065em !important; line-height: 1.95 !important; }
-html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])) > .callout-content > p:first-child { border: 0 !important; padding: 0 !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content > p { margin: .8em 0 !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content > :first-child { margin-top: 0 !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content > :last-child { margin-bottom: 0 !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content a.internal-link {
- color: var(--cq-ink) !important; text-decoration: underline !important;
- text-decoration-color: color-mix(in srgb, var(--cq-accent) 35%, transparent) !important;
- text-decoration-thickness: 1px; text-underline-offset: .23em;
- transition: text-decoration-color 180ms ease !important;
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content {
+ padding:0 !important; margin:0 !important; background:none !important;
+ font:400 .96em/1.85 var(--ac-sans) !important; letter-spacing:0 !important;
+ color:var(--text-normal) !important; overflow-wrap:anywhere;
 }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content a.internal-link:hover { text-decoration-color: var(--cq-ink) !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) a:focus-visible { outline: 2px solid var(--cq-accent); outline-offset: 3px; border-radius: 2px; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))).is-collapsed { padding-bottom: 1.25rem !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))).is-collapsed > .callout-title { margin-bottom: 0 !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))).is-collapsed > .callout-content { display: none !important; }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout-metadata~="notitle"]:not(.is-collapsible) > .callout-title { display: none !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):not(.is-collapsed) > .callout-content { animation:cq-page-open 320ms var(--cq-ease) both !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content > p { margin:.8em 0 !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content > :first-child { margin-top:0 !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content > :last-child { margin-bottom:0 !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-content a.internal-link { color:var(--cq-ink) !important; text-underline-offset:.22em; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) a:focus-visible { outline:2px solid var(--cq-accent); outline-offset:3px; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))).is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))).is-collapsed > .callout-title::after { display:none !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))).is-collapsed > .callout-content { display:none !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout-metadata~="notitle"]:not(.is-collapsible) > .callout-title { display:none !important; }
 @media (hover:hover) {
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):hover { border-color: var(--cq-accent) !important; box-shadow: none !important; transform: none !important; }
- html body .callout.callout.callout.callout.callout.callout[data-callout="question"]:hover > .callout-title .callout-title-inner::after { transform: rotate(0); opacity: .9; }
- html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])):hover > .callout-title .callout-title-inner::after { transform: translateY(3px); opacity: .9; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):hover { border-color:var(--cq-accent) !important; box-shadow:none !important; transform:none !important; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):hover > .callout-title .callout-title-inner::after { transform:translateX(0) rotate(0) scale(1.04); opacity:.85; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
 }
-:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):focus-within { border-color: var(--cq-accent) !important; }
-@container (max-width: 360px) {
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner { padding-right: 44px !important; }
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::after { width: 32px !important; font-size: 42px !important; }
- html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])) > .callout-title .callout-title-inner::after { font-size: 60px !important; }
+:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))):focus-within { border-color:var(--cq-accent) !important; }
+@container (max-width:360px) {
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner { padding-right:60px !important; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
 }
-@container (max-width: 220px) {
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner { padding-right: 0 !important; }
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::after { display: none !important; }
+@container (max-width:260px) {
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner { padding-right:0 !important; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"]))) > .callout-title .callout-title-inner::after { display:none !important; }
 }
-@keyframes cq-ink-arrive { from { opacity: .65; } to { opacity: 1; } }
+@keyframes cq-page-open { from { opacity:.6; transform:translateY(4px); } to { opacity:1; transform:none; } }
 @media (prefers-reduced-motion:reduce) {
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout], :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] *, :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] *::before, :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] *::after { animation: none !important; transition: none !important; }
- :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"], html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] > .callout-title .callout-title-inner::after { transform: none !important; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout],:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] *,:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] *::before,:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] *::after { animation:none !important; transition:none !important; }
+ :is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] > .callout-title::after,:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] > .callout-title .callout-title-inner::after,:is(html body .callout.callout.callout.callout.callout.callout[data-callout="question"],html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])))[data-callout][data-callout][data-callout] > .callout-content { transform:none !important; }
 }
 /* <<< CLAIM-QUESTION DESIGN */
+
+/* >>> SEMANTIC CALLOUT COLORS · 2026-10-31
+   Red asks; amber emphasizes; charcoal grounds the reasoning.
+   Colour roles only: keep the established component typography and artwork. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"] { --cq-accent: #c85f64; --cq-ink: #a53e48; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="question"]:where(.theme-dark *) { --cq-accent: #e58e92; --cq-ink: #edacaf; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])) { --cq-accent: #d9a12e; --cq-ink: #97640e; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="claim"]:where(:not([data-callout-metadata~="step"])):where(.theme-dark *) { --cq-accent: #efc461; --cq-ink: #f1cf82; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="important"] { --callout-color: 217,161,46 !important; --ac-accent: #d9a12e !important; --ac-ink: #97640e !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="important"]:where(.theme-dark *) { --callout-color: 239,196,97 !important; --ac-accent: #efc461 !important; --ac-ink: #f1cf82 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] {
+ --callout-color: 112,130,141 !important;
+ --ac-accent: #788e9b !important; --ac-ink: #bacbd5 !important;
+ --ac-paper: #293238; --ac-hair: #42515a; --ac-edge: #647985;
+ --text-normal: #e2e8eb; --text-muted: #b4c0c7; --text-accent: #bfd0db;
+ background: var(--ac-paper) !important; color: var(--text-normal) !important;
+ border-color: var(--ac-hair) !important; border-left-color: var(--ac-accent) !important;
+ box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"]:where(.theme-dark *) { --ac-paper: #242c31; --ac-hair: #3b4952; --ac-accent: #697f8c !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"]:hover { box-shadow: none !important; border-color: var(--ac-edge) !important; border-left-color: var(--ac-accent) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] > .callout-title .callout-title-inner { color: var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] > .callout-content { color: var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] > .callout-content a.internal-link { color: #bed1dc !important; text-underline-offset: .22em; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warrant"] > .callout-content a:focus-visible { outline: 2px solid #bed1dc; outline-offset: 3px; }
+/* <<< SEMANTIC CALLOUT COLORS */

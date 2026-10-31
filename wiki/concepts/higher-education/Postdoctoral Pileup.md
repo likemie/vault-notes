@@ -8,6 +8,10 @@ aliases:
 summary: "刻画因博士培养规模高速扩张与大学终身教职新增岗位长期停滞而导致的青年学者过度滞留于短期低薪博士后岗位的结构性劳动力市场失衡。全美博士后规模三十年间膨胀三倍以上（65% 积压于生命科学领域），博士毕业五年后的中位年薪显著落后于进入产业界的同行，构成了学术劳动力再生产的瓶颈与生涯沉没成本（Powell, 2015; Wang & Barabási, 2021）。"
 type: concept
 domain: "higher-education"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/higher-education
   - theme/academic-career
@@ -33,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: "2026-10-31"
+updated: 2026-10-31
 ---
 
 ---
@@ -47,7 +51,7 @@ updated: "2026-10-31"
 > - **边界** 适用于依赖外来科研课题资助支撑的大规模实验室密集型学术体系；不适用于传统人文社科单兵作战、无博士后蓄水池制度的学科领域。
 
 > [!citation-card|notitle] 关键表述
-> 博士产出持续激增的一个直接后果是博士后岗位的爆炸式增长，这些短期非终身制的过渡职位在全美自 1979 年以来规模增长了三倍以上，其中在生命科学领域尤为突出。虽然博士后推动了许多学科的一线研究，但其薪酬回报极低。获得博士学位五年后，转入常任教职或工业界学者的中位收入远远超过滞留在博士后阶段的人员。(Powell, 2015; Wang & Barabási, 2021, p. 169)
+> 博士产出持续激增的一个直接后果是博士后岗位的爆炸式增长，这些短期非终身制的过渡职位在全美自 1979 年以来规模增长了三倍以上，其中在生命科学领域尤为突出。虽然博士后推动了许多学科的一线研究，但其薪酬回报极低。获得博士学位五年后，转入常任教职或工业界学者的中位收入远远超过滞留在博士后阶段的人员。(Powell, 2015; [[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021, p. 169]])
 >
 > *One consequence of increasing PhD production is a booming number of postdoctoral fellowships, representing short-term, non-tenure track research positions... the number of researchers in US postdoctoral positions has more than tripled since 1979, with growth particularly prominent in the life sciences. Although postdocs drive research in many disciplines, they are often poorly compensated.*
 

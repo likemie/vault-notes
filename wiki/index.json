@@ -9126,6 +9126,17 @@
     ]
   },
   {
+    "title": "Academic Pipeline",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Pipeline.md",
+    "aliases": [
+      "学术管道",
+      "学术人才生产管道",
+      "科技人才培养管道",
+      "学术职业管道"
+    ]
+  },
+  {
     "title": "Academic Risk Aversion",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Risk Aversion.md",
@@ -9662,6 +9673,17 @@
       "博学通才",
       "通才",
       "Polymathy"
+    ]
+  },
+  {
+    "title": "Postdoctoral Pileup",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Postdoctoral Pileup.md",
+    "aliases": [
+      "博士后积压",
+      "博士后蓄水池效应",
+      "博士后堆积",
+      "博士后堰塞湖"
     ]
   },
   {
@@ -16453,6 +16475,18 @@
     ]
   },
   {
+    "title": "Letters Format",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Letters Format.md",
+    "aliases": [
+      "快报发表范式",
+      "读者来信制度演化",
+      "科学快报体裁",
+      "快报体裁",
+      "快报论文"
+    ]
+  },
+  {
     "title": "Long-Term Public Utility",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Long-Term Public Utility.md",
@@ -16534,6 +16568,28 @@
     ]
   },
   {
+    "title": "Mountain of Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Mountain of Science.md",
+    "aliases": [
+      "科学之山",
+      "科学之山模型",
+      "科学文献山岳模型",
+      "乞力马扎罗科学之山"
+    ]
+  },
+  {
+    "title": "My-Baby Bias",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/My-Baby Bias.md",
+    "aliases": [
+      "自子情结",
+      "学者成果自恋偏误",
+      "自身成果偏爱",
+      "成果自恋效应"
+    ]
+  },
+  {
     "title": "Nature of Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Nature of Innovation.md",
@@ -16582,6 +16638,17 @@
       "其它交易协议",
       "Other Transactions Authority",
       "Other Transaction Agreement"
+    ]
+  },
+  {
+    "title": "Patent Citation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Patent Citation.md",
+    "aliases": [
+      "专利引用",
+      "专利引文",
+      "专利引文分析",
+      "专利被引"
     ]
   },
   {
@@ -16793,6 +16860,17 @@
       "撤稿声誉惩罚",
       "Reverse Matthew Effect",
       "Status Penalty in Retractions"
+    ]
+  },
+  {
+    "title": "Science Immediacy",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Science Immediacy.md",
+    "aliases": [
+      "科学即时性",
+      "科学即时性命题",
+      "科学前沿即时性",
+      "科学即时特征"
     ]
   },
   {

@@ -14091,6 +14091,14 @@
       ],
       "title": ""
     },
+    "Bronwyn H. Hall, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Patent Citation.md"
+      ],
+      "title": ""
+    },
     "Brookhart, 2010": {
       "datasets": [
         "eef:feedback"
@@ -23772,7 +23780,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Academic Pipeline.md"
       ],
       "title": ""
     },
@@ -24706,6 +24715,14 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/facts/global/OECD.md",
         "wiki/facts/global/UNESCO.md"
+      ],
+      "title": ""
+    },
+    "David Cyranoski, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Academic Pipeline.md"
       ],
       "title": ""
     },
@@ -26130,6 +26147,14 @@
       "seen_in": [],
       "title": "Robot-Assisted Language Learning: A Meta-Analysis."
     },
+    "Derek J. de Solla Price, 1963": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Science Immediacy.md"
+      ],
+      "title": ""
+    },
     "Derek J. de Solla Price, 1965": {
       "doi": "",
       "isbn": "",
@@ -26748,6 +26773,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
+      ],
+      "title": ""
+    },
+    "Dietmar Harhoff, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -42861,7 +42894,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -43832,7 +43866,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -49617,7 +49652,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/My-Baby Bias.md"
       ],
       "title": ""
     },
@@ -55009,6 +55045,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/International Reading Association.md"
+      ],
+      "title": ""
+    },
+    "Kendall Powell, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Postdoctoral Pileup.md"
       ],
       "title": ""
     },
@@ -83206,7 +83250,8 @@
       "doi": "https://doi.org/10.1177/0731948714564574",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Postdoctoral Pileup.md"
       ],
       "title": "The Influence of Mathematics Vocabulary Instruction Embedded Within Addition Tutoring for First-Grade Students with Mathematics Difficulty"
     },
@@ -83512,7 +83557,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Big Science.md"
+        "wiki/concepts/science-policy/Big Science.md",
+        "wiki/concepts/science-policy/Science Immediacy.md"
       ],
       "title": ""
     },
@@ -84542,7 +84588,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/My-Baby Bias.md"
       ],
       "title": ""
     },
@@ -86263,7 +86310,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/Mountain of Science.md"
       ],
       "title": ""
     },
@@ -91875,6 +91923,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Academic Pipeline.md",
+        "wiki/concepts/higher-education/Postdoctoral Pileup.md",
         "wiki/concepts/higher-education/Research Universities.md"
       ],
       "title": ""
@@ -106659,7 +106709,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/Mountain of Science.md"
       ],
       "title": ""
     },
@@ -115447,6 +115498,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Academic Pipeline.md",
         "wiki/concepts/higher-education/Research Universities.md"
       ],
       "title": ""

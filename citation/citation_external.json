@@ -3199,6 +3199,8 @@
     "Bronfenbrenner & Ceci, 1994": "Bronfenbrenner & Ceci, 1994",
     "Bronfenbrenner (1979)": "Bronfenbrenner, 1979",
     "Bronfenbrenner, 1979": "Bronfenbrenner, 1979",
+    "Bronwyn H. Hall (2005)": "Bronwyn H. Hall, 2005",
+    "Bronwyn H. Hall, 2005": "Bronwyn H. Hall, 2005",
     "Brookhart (2010)": "Brookhart, 2010",
     "Brookhart, 2010": "Brookhart, 2010",
     "Brooks (1995)": "Brooks, 1995",
@@ -5621,6 +5623,8 @@
     "David Cohen, 1981": "David Cohen, 1981",
     "David Coleman (2005)": "David Coleman, 2005",
     "David Coleman, 2005": "David Coleman, 2005",
+    "David Cyranoski (2011)": "David Cyranoski, 2011",
+    "David Cyranoski, 2011": "David Cyranoski, 2011",
     "David Denby (1997)": "David Denby, 1997",
     "David Denby, 1997": "David Denby, 1997",
     "David Dolowitz & David Marsh (2000)": "David Dolowitz & David Marsh, 2000",
@@ -5938,7 +5942,9 @@
     "DerSimonian & Laird, 1986": "DerSimonian & Laird, 1986",
     "Derakhshan et al. (2024)": "Derakhshan et al., 2024",
     "Derakhshan et al., 2024": "Derakhshan et al., 2024",
+    "Derek J. de Solla Price (1963)": "Derek J. de Solla Price, 1963",
     "Derek J. de Solla Price (1965)": "Derek J. de Solla Price, 1965",
+    "Derek J. de Solla Price, 1963": "Derek J. de Solla Price, 1963",
     "Derek J. de Solla Price, 1965": "Derek J. de Solla Price, 1965",
     "Derek de Solla Price (1963)": "Derek de Solla Price, 1963",
     "Derek de Solla Price (1965)": "Derek de Solla Price, 1965",
@@ -6078,6 +6084,8 @@
     "Diery et al., 2021": "Diery et al., 2021",
     "Dieter et al. (2019)": "Dieter et al., 2019",
     "Dieter et al., 2019": "Dieter et al., 2019",
+    "Dietmar Harhoff (1999)": "Dietmar Harhoff, 1999",
+    "Dietmar Harhoff, 1999": "Dietmar Harhoff, 1999",
     "Dietrich et al. (2019)": "Dietrich et al., 2019",
     "Dietrich et al., 2019": "Dietrich et al., 2019",
     "Dietrichson et al. (2017a)": "Dietrichson et al., 2017a",
@@ -12514,6 +12522,8 @@
     "Ken Goodman (1999)": "Ken Goodman, 1999",
     "Ken Goodman, 1999": "Ken Goodman, 1999",
     "Kendall (2010)": "Kendall, 2010",
+    "Kendall Powell (2015)": "Kendall Powell, 2015",
+    "Kendall Powell, 2015": "Kendall Powell, 2015",
     "Kendall, 2010": "Kendall, 2010",
     "Kenett (2006)": "Kenett, 2006",
     "Kenett, 2006": "Kenett, 2006",
@@ -50532,6 +50542,21 @@
       ],
       "title": ""
     },
+    "Bronwyn H. Hall, 2005": {
+      "aliases": [
+        "Bronwyn H. Hall, 2005",
+        "Bronwyn H. Hall (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bronwyn H. Hall, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Patent Citation.md"
+      ],
+      "title": ""
+    },
     "Brookhart, 2010": {
       "aliases": [
         "Brookhart, 2010",
@@ -66510,7 +66535,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Academic Pipeline.md"
       ],
       "title": ""
     },
@@ -68097,6 +68123,21 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/facts/global/OECD.md",
         "wiki/facts/global/UNESCO.md"
+      ],
+      "title": ""
+    },
+    "David Cyranoski, 2011": {
+      "aliases": [
+        "David Cyranoski, 2011",
+        "David Cyranoski (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "David Cyranoski, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Academic Pipeline.md"
       ],
       "title": ""
     },
@@ -70462,6 +70503,21 @@
       "seen_in": [],
       "title": "Robot-Assisted Language Learning: A Meta-Analysis."
     },
+    "Derek J. de Solla Price, 1963": {
+      "aliases": [
+        "Derek J. de Solla Price, 1963",
+        "Derek J. de Solla Price (1963)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Derek J. de Solla Price, 1963"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Science Immediacy.md"
+      ],
+      "title": ""
+    },
     "Derek J. de Solla Price, 1965": {
       "aliases": [
         "Derek J. de Solla Price, 1965",
@@ -71519,6 +71575,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
+      ],
+      "title": ""
+    },
+    "Dietmar Harhoff, 1999": {
+      "aliases": [
+        "Dietmar Harhoff, 1999",
+        "Dietmar Harhoff (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dietmar Harhoff, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -98221,7 +98292,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -99837,7 +99909,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -109408,7 +109481,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/My-Baby Bias.md"
       ],
       "title": ""
     },
@@ -118356,6 +118430,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/International Reading Association.md"
+      ],
+      "title": ""
+    },
+    "Kendall Powell, 2015": {
+      "aliases": [
+        "Kendall Powell, 2015",
+        "Kendall Powell (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kendall Powell, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Postdoctoral Pileup.md"
       ],
       "title": ""
     },
@@ -164773,7 +164862,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Postdoctoral Pileup.md"
       ],
       "title": "The Influence of Mathematics Vocabulary Instruction Embedded Within Addition Tutoring for First-Grade Students with Mathematics Difficulty"
     },
@@ -165246,7 +165336,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Big Science.md"
+        "wiki/concepts/science-policy/Big Science.md",
+        "wiki/concepts/science-policy/Science Immediacy.md"
       ],
       "title": ""
     },
@@ -166992,7 +167083,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/My-Baby Bias.md"
       ],
       "title": ""
     },
@@ -169818,7 +169910,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/Mountain of Science.md"
       ],
       "title": ""
     },
@@ -179199,6 +179292,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Academic Pipeline.md",
+        "wiki/concepts/higher-education/Postdoctoral Pileup.md",
         "wiki/concepts/higher-education/Research Universities.md"
       ],
       "title": ""
@@ -203463,7 +203558,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Disparity.md"
+        "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/concepts/science-policy/Mountain of Science.md"
       ],
       "title": ""
     },
@@ -217819,6 +217915,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/concepts/higher-education/Academic Pipeline.md",
         "wiki/concepts/higher-education/Research Universities.md"
       ],
       "title": ""
