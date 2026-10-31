@@ -10,7 +10,7 @@ aliases:
 summary: "由 Derek de Solla Price (1965) 与 Albert-László Barabási (1999) 发展的网络演化动力学理论；指出学术网络中节点的增长具有富者愈富的累积附着规律。在引文网络中，成果获取新增引用的速率与既有被引基数成正比（dc/dt ∝ c），且在越过声望跨越阈值后由内在学术价值接管；在合著网络中，新晋研究者在起步阶段倾向于与高连通度的资深导师联合署名，驱动网络呈现重尾度分布并催生超级学术中枢。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
 related_theories:
   - "[[Path Dependence]]"
+  - "[[Price Cumulative Advantage Model]]"
   - "[[Bianconi-Barabási Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
@@ -76,7 +77,7 @@ updated: 2026-10-31
 > - **形成路径** 将“连续增长”与“优先连接”两大微观演化规则引入学术文献与合作场景，推导得出网络度分布必然渐近服从幂律分布，并通过追踪学者终身引文轨迹测定声望效应退出的定量临界点。
 
 > [!dev-timeline] 理论演变
-> - **1965 — 累积优势模型确立** 普赖斯引入随机过程理论，提出成果获取新引用的概率随既有被引频次线性递增，奠定引文网络重尾生长的数学根基。
+> - **1976 — [[Price Cumulative Advantage Model|普赖斯累积优势模型]]确立** 普赖斯引入波利亚罐子随机过程理论，提出成果获取新引用的概率随既有被引频次线性递增，奠定引文网络重尾生长的数学根基。
 > - **1999 — 优先连接方程与无标度网络** 巴拉巴西与阿尔伯特确立无标度网络演化方程，证明优先连接与连续增长共同生成严格的幂律度分布。
 > - **2009 — 新兴学科队列与先发优势实证** [[Mark Newman|马克·纽曼]]（Mark Newman）通过追踪网络生物学首批发表成果与紧随其后成果的长期被引，证实先发成果平均获引 101 次，为紧随者（26 次）的 3.88 倍，经验确证了优先连接对早期文献的长期固化红利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009; Wang & Barabási, 2021, p. 186)]]
 > - **2014 — 声望跨越与机制接管验证** 彼得森等人确立声望半衰期与跨越阈值 $c_x$ 动力学，证明资深学者在 $c < c_x$ 享有 4 倍初始获引红利，超越阈值后由成果内在学术价值接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]

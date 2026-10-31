@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit08"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit08"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -58,6 +58,7 @@ related_concepts:
 related_theories:
   - "[[Bianconi-Barabási Model]]"
   - "[[Preferential Attachment in Academia]]"
+  - "[[Price Cumulative Advantage Model]]"
 related_methods:
   - "[[Combinatorial Novelty Measurement]]"
   - "[[Sample Size Determination]]"
@@ -102,7 +103,7 @@ updated: "2026-10-31"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Preferential Attachment in Academia\|普赖斯累积优势模型]]**<br>`Price Cumulative Advantage Model` | 将文献指数扩张与引用优先连接机制形式化结合，证明富者愈富动力学在宏观上必然生成幂律重尾分布，确立先发优势在引文积累中的长期固化作用 (Price, 1976, pp. 184–186)。 |
+> | **[[Price Cumulative Advantage Model\|普赖斯累积优势模型]]**<br>`Price Cumulative Advantage Model` | 将文献指数扩张与引用优先连接机制形式化结合，证明富者愈富动力学在宏观上必然生成幂律重尾分布，确立先发优势在引文积累中的长期固化作用 (Price, 1976, pp. 184–186)。 |
 > | **[[Bianconi-Barabási Model\|边康尼-巴拉巴西适应度模型]]**<br>`Bianconi-Barabási Fitness Model` | 将成果内在适应度参数 $\eta$ 引入优先连接增长函数（$\Pi_i \propto \eta_i c_i$），解释高适应度后发突破为何能击败早期先发文献，并从正态适应度先验推导出对数正态引文分布 (Bianconi & Barabási, 2001, pp. 187–188)。 |
 > | **[[Combinatorial Novelty\|组合新颖性]]与适度平衡架构**<br>`Combinatorial Novelty & Balanced Architecture` | 将创新界定为既有技术代码或期刊知识域的重组过程，揭示非典型配对带来的方差扩大效应，提出常规基底与非典型组合并存的突破最优解 (Fleming, 2001; Uzzi et al., 2013; pp. 189–193)。 |
 > | **同行评审新颖性规避偏见模型**<br>`Novelty Bias in Peer Review` | 揭示专家评审在面对高度新颖的关键词组合与远距离跨学科申请方案时所展现的系统性保守防御，解释创新前沿与立项资助的体制错位 (Boudreau et al., 2016; Bromham et al., 2016; pp. 192–193)。 |
@@ -166,7 +167,7 @@ updated: "2026-10-31"
 > 为何极少数科学出版物能够演进为引文超级明星，而绝大多数成果却默默沉沦？个体科学家基于独立研究偏好所做出的离散引用决策，如何自组织生成跨越学科边界的稳定引文分布？纯粹基于既有被引存量的优先连接机制是否注定了早期文献不可逆的霸权地位？面对先发优势的壁垒，后发成果究竟通过何种动力学规律实现引文反超？宏观引文分布的对数正态形态在微观层面具有怎样的物理机制起源？
 
 > [!claim|step] 论证步骤一　文献引用具有滚雪球效应，但高质量新作能打破先发垄断
-> 学术引文的微观累积机制遵循富者愈富的强化反馈。文献总量的持续膨胀迫使学者依赖既有高被引成果作为[[Literature Search|文献检索]]的锚点，使得新发表成果更频繁地引用已知的高引成果。普赖斯累积优势模型证实文献增长与优先连接本身足以推导出肥尾幂律引文分布，但该模型赋予了较早发表的文献不可逆转的先发优势；[[Bianconi-Barabási Model|边康尼-巴拉巴西模型]]通过将成果内在质量（适应度 $\eta$）融入优先连接方程，合理解释了后发杰出成果对早期先驱的反超路径，并从微观适应度的有界正态分布自然推导出了全域引文的对数正态宏观形态 (pp. 184–188)。
+> 学术引文的微观累积机制遵循富者愈富的强化反馈。文献总量的持续膨胀迫使学者依赖既有高被引成果作为[[Literature Search|文献检索]]的锚点，使得新发表成果更频繁地引用已知的高引成果。[[Price Cumulative Advantage Model|普赖斯累积优势模型]]证实文献增长与优先连接本身足以推导出肥尾幂律引文分布，但该模型赋予了较早发表的文献不可逆转的先发优势；[[Bianconi-Barabási Model|边康尼-巴拉巴西模型]]通过将成果内在质量（适应度 $\eta$）融入优先连接方程，合理解释了后发杰出成果对早期先驱的反超路径，并从微观适应度的有界正态分布自然推导出了全域引文的对数正态宏观形态 (pp. 184–188)。
 
 ---
 

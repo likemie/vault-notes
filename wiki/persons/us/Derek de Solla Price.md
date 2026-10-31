@@ -11,7 +11,7 @@ summary: "科学计量学与信息计量学奠基人，耶鲁大学科学史阿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[Preferential Attachment in Academia]]"
   - "[[Price's Law]]"
+  - "[[Price Cumulative Advantage Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Network Analysis]]"
@@ -133,5 +134,6 @@ updated: 2026-10-31
 > |:-----|:-----|:-----|
 > | [[Citation Distribution]] | 概念 | 1965 年首次手工统计绘制科学引文分布并拟合幂律曲线。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 1976 年首次提出引文网络累积优势数学模型，为优先连接提供学术计量学先驱形式。 |
+| [[Price Cumulative Advantage Model]] | 理论 | 1976 年在 JASIS 建立引文网络累积优势模型，结合增长与优先连接严格推导无标度幂律分布。 |
 > | [[Scientific Productivity]] | 概念 | 提出普赖斯平方根定律，刻画学术共同体内部生产力的极端精英垄断。 |
 > | [[Bibliometric Analysis]] | 方法 | 开创运用科学引文网络与发表时间序列开展宏观量化测度的方法体系。 |

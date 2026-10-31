@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ginestra Bianconi 与 Albert-László Barabási (2001) 提出的复杂网络演化动力学理论；将成果内生适应度引入优先连接过程，确立引文吸附概率与既有连接数和适应度的乘积成正比（Π ∝ η · c），合理解释了高适应度后来者成果反超早期文献的机制，并在微观适应度服从有界高斯正态分布时自然推导出全局对数正态引文分布。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Determinism]]"
   - "[[Competitiveness]]"
-related_theories: []
+related_theories:
+  - "[[Price Cumulative Advantage Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
 related_persons:
@@ -47,7 +48,7 @@ updated: 2026-10-31
 
 > [!theory-position] 理论定位
 > - **解释对象** 学术引文网络与复杂系统中节点度增长的竞争动力学，特别是后发高价值学术成果跨越既有时间积累与早期成果先发壁垒、实现引文反超的演化机制。
-> - **理论问题** 经典的[[Derek de Solla Price|普赖斯]]累积优势模型与[[Albert-László Barabási|巴拉巴西]]-阿尔伯特优先连接模型假设所有节点具有相同的获引潜力，预测早期节点享有不可逆的先发优势，因而无法解释后发突破性研究为何能够超越先驱[[Document|文献]]，也无法解释为何真实[[Citation Distribution|引文分布]]往往呈现出对数正态分布而非单一纯幂律。
+> - **理论问题** 经典的[[Price Cumulative Advantage Model|普赖斯累积优势模型]]与[[Albert-László Barabási|巴拉巴西]]-阿尔伯特优先连接模型假设所有节点具有相同的获引潜力，预测早期节点享有不可逆的先发优势，因而无法解释后发突破性研究为何能够超越先驱[[Document|文献]]，也无法解释为何真实[[Citation Distribution|引文分布]]往往呈现出对数正态分布而非单一纯幂律。
 > - **理论类型** 复杂网络竞争生长理论与引文动力学生成模型。
 > - **知识位置** 处于统计物理学（玻色-爱因斯坦凝聚与非均匀复杂网络）、[[Bibliometric Analysis|文献计量学]]与科学学的交汇处。
 
