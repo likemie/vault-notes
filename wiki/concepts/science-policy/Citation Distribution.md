@@ -96,13 +96,31 @@ updated: 2026-10-31
 >     G --> H["[[Citation Disparity|引文差距结构性加剧]]"]
 > ```
 
+> [!geogebra] 学术成果引文分布参数模拟（对数正态主体与幂律肥尾）
+> - **横轴** 单篇成果被引频次 $c$（次）
+> - **纵轴** 成果抽取概率密度 $P(c)$
+> - **滑块 γ** 调节幂律尾部衰减指数（$\gamma \in [2.0, 3.6]$，初始设定 $\gamma = 3.0$）
+> - **滑块 μ** 调节对数正态位置参数（$\mu \in [0.5, 2.0]$，初始设定 $\mu = 1.1$）
+> - **滑块 σ** 调节对数正态尺度离散度（$\sigma \in [0.4, 1.4]$，初始设定 $\sigma = 0.85$）
+> - **蓝线** 对数正态分布主曲线 $P_{\text{lognormal}}(c)$，刻画低被引至中被引核心主体
+> - **红线** 普赖斯幂律肥尾曲线 $P_{\text{power}}(c) \sim c^{-\gamma}$，刻画高被引极端事件
+> - **灰虚线** 传统高斯正态对称基准线（远离均值后概率迅速崩塌归零）
+>
+> 调节滑块可直观观察：传统高斯正态分布在偏离均值时概率急剧指数衰减，完全无法容纳万次引用的超级离群成果；对数正态函数与幂律肥尾在保持低被引文献高度聚集的同时，在右侧长尾区间保留显著概率，数理上支撑了学术影响力极端不平等的客观存在。
+>
+> ![[wiki/assets/geogebra/citation_distribution.ggb]]
+
 ---
 
 > [!concept-proposition] 命题一｜学术文献引文概率服从高方差的肥尾幂律分布
 > **探讨维度　数理分布形态与极端离群值机制** 检视学术承认在出版物全集中的概率分配规律，确立引文积累对经典高斯正态对称假设的根本颠覆。
 
 > [!claim] [[Derek de Solla Price|Price, D. J.]]
-> **早期引文分布的幂律特征发现** 德里克·J·德索拉·普赖斯（Derek J. de Solla Price）基于加菲尔德与谢尔整理的科学引文索引数据，首次绘制了全量文献的引文分布曲线；研究发现绝大多数成果仅获极少引用，而极少数成果吸附极高引用，确立引文分布近似服从指数约为 3 的幂律形式（$P(c) \sim c^{-3}$），反映了注意力与引证积累的累积优势动力学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Price, 1965, via Wang & Barabási, 2021, p. 176)]]
+> **早期引文分布的幂律特征发现** 德里克·J·德索拉·普赖斯（Derek J. de Solla Price）基于加菲尔德与谢尔整理的科学引文索引数据，首次绘制了全量文献的引文分布曲线；研究发现绝大多数成果仅获极少引用，而极少数成果吸附极高引用，确立引文分布近似服从指数约为 3 的幂律形式：
+> $$P(c) \sim c^{-\gamma} \quad (\gamma \approx 3.0)$$
+> 其中 $c$ 为成果被引次数，$\gamma$ 为幂律衰减指数。若计入零被引与极小计数的平移修正，分布呈现为平移幂律形态：
+> $$P(c) = C (c + c_0)^{-\gamma}$$
+> 这一数理特征反映了学术注意力与引证积累的累积优势动力学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Price, 1965, via Wang & Barabási, 2021, pp. 176, 179)]]
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **肥尾分布对高斯均值范式的颠覆** 王大顺与阿尔伯特-拉斯洛·巴拉巴西指出，自然界常见的人类身高或智商服从对称高斯正态分布，远离均值的极值呈指数衰减；而以幂律为代表的肥尾分布具备极高方差，海量低被引成果与极少数超高被引名作共存，在知识领域印证了帕累托法则对学术注意力的极度垄断。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 176–177)]]
@@ -113,7 +131,11 @@ updated: 2026-10-31
 > **探讨维度　跨领域评价偏误与引文生成微观拓扑同构性** 探讨不同学科文献容量与引用习惯造成的量级鸿沟，阐明相对标度变换如何揭示学术影响力的普适演化规律。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Radicchi et al. (2008)]]
-> **相对引文归一化与通用主曲线坍缩** 菲利波·拉迪基（Filippo Radicchi）等学者提出[[Relative Citation Normalization|相对引文标准化]]方法，将单篇成果绝对被引量除以所在学科同出版年度的篇均被引量（$c_f = c / \langle c \rangle$）；消除学科与时间尺度因子后，各学科迥异的引文分布曲线全部坍缩在同一条通用的对数正态主曲线上，证实学术影响力在各个学科领域内部遵循普适的统计规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
+> **相对引文归一化与通用主曲线坍缩** 菲利波·拉迪基（Filippo Radicchi）等学者提出[[Relative Citation Normalization|相对引文标准化]]方法，将单篇成果绝对被引量 $c$ 除以所在学科同出版年度的篇均被引量 $\langle c \rangle$：
+> $$c_f = \frac{c}{\langle c \rangle}$$
+> 消除学科与时间尺度因子后，各学科迥异的引文分布曲线全部坍缩在同一条通用的对数正态主曲线上：
+> $$P(c_f) = \frac{1}{\sqrt{2\pi}\sigma c_f} \exp\left(-\frac{(\ln c_f - \mu)^2}{2\sigma^2}\right)$$
+> 实证拟合显示跨学科参数普适趋同于 $\mu \approx -0.36, \sigma \approx 0.85$，证实学术影响力在各个学科领域内部遵循普适的统计规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
 
 ---
 
@@ -121,7 +143,11 @@ updated: 2026-10-31
 > **探讨维度　微观适应度动力学与宏观分布生成机制** 探讨成果实质质量异质性如何修正纯优先连接模型，解释幂律与对数正态分布的微观数理对应。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Bianconi & Barabási (2001)]]
-> **适应度正态先验推导对数正态引文分布** 吉内斯特拉·边康尼（Ginestra Bianconi）与阿尔伯特-拉斯洛·巴拉巴西在适应度模型中证明，普赖斯纯优先连接模型仅在全网所有文献适应度完全均一（$\eta_i = \text{const}$）的特例下生成幂律分布；在真实学术网络中，单篇成果的内生适应度 $\eta$ 受人类认知生理与问题空间容量限制属于有界随机变量，其先验概率服从正态分布 $p(\eta) \sim \mathcal{N}(\mu, \sigma^2)$；在复合增长连接方程 $\Pi_i \propto \eta_i c_i$ 驱动下，宏观尺度上精确推导出全局引文分布呈现对数正态函数形态，从微观物理机制层面确立了对数正态引文分布的生成根源。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
+> **适应度正态先验推导对数正态引文分布** 吉内斯特拉·边康尼（Ginestra Bianconi）与阿尔伯特-拉斯洛·巴拉巴西在适应度模型中证明，普赖斯纯优先连接模型仅在全网所有文献适应度完全均一（$\eta_i = \text{const}$）的特例下生成幂律分布；在真实学术网络中，单篇成果的内生适应度 $\eta$ 受人类认知生理与问题空间容量限制属于有界随机变量，其先验概率服从正态分布 $p(\eta) \sim \mathcal{N}(\mu_\eta, \sigma_\eta^2)$；在复合增长连接方程：
+> $$\Pi_i = \frac{\eta_i c_i}{\sum_j \eta_j c_j}$$
+> 驱动下，宏观尺度上精确推导出全局引文分布呈现对数正态函数形态：
+> $$P(c) = \frac{1}{\sqrt{2\pi}\sigma c} \exp\left(-\frac{(\ln c - \mu)^2}{2\sigma^2}\right)$$
+> 从微观物理机制层面确立了对数正态引文分布的生成根源。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
 
 ---
 
@@ -167,6 +193,5 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 论证引文网络的高方差肥尾特征与相对引文标准化，揭示各学科引文分布向通用对数正态函数的普适坍缩（pp. 174–180）。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 阐明优先连接与成果内生适应度结合（$\Pi_i \propto \eta_i c_i$）的微观生长动力学，证明在正态适应度先验下宏观系统自然推导出对数正态引文分布（pp. 184–188）。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统论证引文网络的高方差肥尾特征与相对引文标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 174–180），并依托正态适应度先验推导宏观对数正态引文分布（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]，pp. 184–188）。
