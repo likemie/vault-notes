@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
     },
     {
+      "basename": "Citation Distribution",
+      "path": "wiki/concepts/science-policy/Citation Distribution.md"
+    },
+    {
       "basename": "Big Science",
       "path": "wiki/concepts/science-policy/Big Science.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Author Name Disambiguation",
       "path": "wiki/methods/quantitative/Author Name Disambiguation.md"
-    },
-    {
-      "basename": "Reputation Velocity Threshold Model",
-      "path": "wiki/methods/quantitative/Reputation Velocity Threshold Model.md"
     }
   ],
   "omittedPaths": [],
