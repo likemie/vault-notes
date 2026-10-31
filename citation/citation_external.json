@@ -20431,8 +20431,6 @@
     "Ryle, 1949": "Ryle, 1949",
     "Réka Albert (1999)": "Réka Albert, 1999",
     "Réka Albert, 1999": "Réka Albert, 1999",
-    "Rényi (1959)": "Rényi, 1959",
-    "Rényi, 1959": "Rényi, 1959",
     "Révai & Guerriero (2017)": "Révai & Guerriero, 2017",
     "Révai & Guerriero, 2017": "Révai & Guerriero, 2017",
     "Révai & Mouthaan (2023)": "Révai & Mouthaan, 2023",
@@ -24312,6 +24310,8 @@
     "Van Meter, 2000": "Van Meter, 2000",
     "Van Noorden et al. (2014)": "Van Noorden et al., 2014",
     "Van Noorden et al., 2014": "Van Noorden et al., 2014",
+    "Van Raan (2004)": "Van Raan, 2004",
+    "Van Raan, 2004": "Van Raan, 2004",
     "Van Steensel et al. (2011)": "Van Steensel et al., 2011",
     "Van Steensel et al., 2011": "Van Steensel et al., 2011",
     "Van Voorhis (2003)": "Van Voorhis, 2003",
@@ -88749,7 +88749,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -117718,7 +117717,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
       ],
       "title": ""
     },
@@ -175878,21 +175878,6 @@
       ],
       "title": ""
     },
-    "Rényi, 1959": {
-      "aliases": [
-        "Rényi, 1959",
-        "Rényi (1959)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Rényi, 1959"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
-      ],
-      "title": ""
-    },
     "Révai & Guerriero, 2017": {
       "aliases": [
         "Révai & Guerriero, 2017",
@@ -203835,6 +203820,21 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
         "wiki/concepts/science-policy/Mountain of Science.md"
+      ],
+      "title": ""
+    },
+    "Van Raan, 2004": {
+      "aliases": [
+        "Van Raan, 2004",
+        "Van Raan (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Van Raan, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
       ],
       "title": ""
     },

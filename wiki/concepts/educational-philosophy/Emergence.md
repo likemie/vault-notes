@@ -10,7 +10,7 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程；整体大于部分之和且无法向下机械还原，广泛存在于生态系统、社会组织、科学引文网络、质性探究设计及万亿参数大模型认知智能演化之中。"
 type: concept
 domain: "educational-philosophy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

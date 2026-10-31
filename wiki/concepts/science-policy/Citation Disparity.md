@@ -9,7 +9,7 @@ aliases:
 summary: "刻画学术出版物在学术共同体引文累积中所呈现出的极端层级极化与结构性不平等状态。普赖斯累积优势模型证明文献增长与优先连接共同构成了引文差距的动力学起源并赋予早期文献不可逆的先发优势；边康尼-巴拉巴西模型通过引入成果内生适应度（Π ∝ η · c）阐明了高价值后发突破打破先发垄断的赶超机理（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

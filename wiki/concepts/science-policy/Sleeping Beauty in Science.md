@@ -10,7 +10,7 @@ aliases:
 summary: "由 Anthony van Raan (2004) 命名并形式化界定的非典型引文动力学构念；指成果公开发表后经历数年至数十年的低被引休眠期，随后因跨学科范式演进或关键突破被外部共同体独立发现而迎来爆发性引文唤醒的演化轨迹。在综合顶级期刊中发生率超 7%，双峰拓展模型可精确拟合 90% 以上案例（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: "2026-10-31"
+updated: 2026-10-31
 ---
 
 ---
@@ -60,7 +60,7 @@ updated: "2026-10-31"
 > - **边界** 严格区别于恒久无人问津的平庸文献（平庸文献缺乏后续爆发阶段），亦不同于发表即受追捧随后平缓老化的常规跳跃衰减型成果。
 
 > [!citation-card|notitle] 科学文献中的睡美人与二次激活轨迹
-> 部分成果的引文轨迹偏离了标准的起伏演化模型，主要呈现为两类非典型形态。第一类是“睡美人”，即研究成果的重要性在发表多年后才获得共同体迟来的认可。加菲尔德 1955 年引入引文索引的经典论著便是典型代表：发表于 1955 年的成果，直到 2000 年随着引文网络研究的兴起才彻底苏醒。另一些睡美人的苏醒则源于被全新的学术共同体独立发现，如埃尔德什与雷尼 1959 年关于随机网络的数学论文，随着 21 世纪网络科学的诞生迎来了被引的爆发性扩张。第二类形态是二次爆发：巴丁、库珀与施里弗（BCS）1957 年发表的超导理论论著在早年迅速达峰并斩获诺贝尔物理学奖，其后同行热情消退并在 1985 年触底；而 1986 年高温超导的重大发现让 BCS 论著重新获得巨大关注，迎来引文的二次爆发。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> 部分成果的引文轨迹偏离了标准的起伏演化模型，主要呈现为两类非典型形态。第一类是“睡美人”，即研究成果的重要性在发表多年后才获得共同体迟来的认可。加菲尔德 1955 年引入引文索引的经典论著便是典型代表：发表于 1955 年的成果，直到 2000 年随着引文网络研究的兴起才彻底苏醒。另一些睡美人的苏醒则源于被全新的学术共同体独立发现，如埃尔德什与雷尼 1959 年关于随机网络的奠基成果，随着 21 世纪网络科学的诞生迎来了被引的爆发性扩张。第二类形态是二次爆发：巴丁、库珀与施里弗（BCS）1957 年发表的超导理论论著在早年迅速达峰并斩获诺贝尔物理学奖，其后同行热情消退并在 1985 年触底；而 1986 年高温超导的重大发现让 BCS 论著重新获得巨大关注，迎来引文的二次爆发。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 >
 > *There are some papers whose citations deviate from the typical rise-and-fall trajectories... First, there are "sleeping beauties," papers whose importance is not recognized until years after publication. The classic paper by Garfield that introduced citation indices offers a fine example. Published in 1955, it only "awoke" after 2000, thanks to an increased interest in citation networks. Other sleeping beauties only awaken when they are independently discovered by a new scientific community... The "theory of superconductivity" paper by Bardeen, Cooper, and Schrieffer (BCS) offers an example of a "second act"... helping it experience a "second act."*
 
@@ -124,7 +124,7 @@ updated: "2026-10-31"
 ---
 
 > [!dev-timeline] 概念演变
-> - **2004 — 科学睡美人概念形式化定义** 安东尼·范拉恩（Anthony van Raan）在《科学计量学》发表论文，正式界定睡美人现象，建立休眠深度、休眠长度与醒觉强度的参数化测度指标。
+> - **2004 — 科学睡美人概念形式化定义** 安东尼·范拉恩（Anthony van Raan）在《科学计量学》刊文，正式界定睡美人现象，建立休眠深度、休眠长度与醒觉强度的参数化测度指标。
 > - **2013 — WSB 模型的多峰拟合拓展** 王大顺、宋超明与巴拉巴西将引文动力学的老化函数拓展为包含二次激活或双峰结构的存活概率，成功拟合与预测约 90% 的非典型文献轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 213–214)]]
 > - **2015 — 跨学科全量文献普查与普遍性确立** 柯庆（Qing Ke）等人对全量科技文献展开系统普查，证实睡美人现象在自然科学各分支广泛存在，在多学科顶级期刊中发生率超 7%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Ke et al., 2015, via Wang & Barabási, 2021, p. 213)]]
 > - **2021 — 科学学非典型引文动力学生态集成** 王大顺与巴拉巴西在《科学学》中系统集成睡美人与二次爆发机制，将其作为反思短期期刊影响因子评价陷阱的基石案例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
@@ -137,7 +137,7 @@ updated: "2026-10-31"
 > > 科学计量学界关于睡美人是否属于单一形态抑或包含多种动力学机制的讨论。
 > >
 > > - **单峰延迟认可定义派（van Raan, 2004）** 严格将睡美人限定于发表后几乎零被引、后期突然达峰的单峰延迟成果。
-> > - **广义非典型多轨分类派（Wang & Barabási, 2021）** 论证应区分长期休眠的经典睡美人与早年成名、中年触底、晚期因重大发现而二次爆发的双峰成果（如 BCS 理论），两者共享跨界范式激活机制，但早期动力学轨迹截然不同。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> > - **广义非典型多轨分类派（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021]]）** 论证应区分长期休眠的经典睡美人与早年成名、中年触底、晚期因重大发现而二次爆发的双峰成果（如 BCS 理论），两者共享跨界范式激活机制，但早期动力学轨迹截然不同。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 
 > [!warning|limits] 适用局限
 > 睡美人成果属于小概率极端事件（顶刊发生率约 7%），不能作为常规成果低被引的普遍开脱理由；在缺乏跨学科范式突破或方法外溢证据时，单纯的长期低被引极大概率仅代表成果学术质量平庸。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]

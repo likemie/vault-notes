@@ -37093,7 +37093,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -54614,7 +54613,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
       ],
       "title": ""
     },
@@ -89853,14 +89853,6 @@
       ],
       "title": ""
     },
-    "Rényi, 1959": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
-      ],
-      "title": ""
-    },
     "Révai & Guerriero, 2017": {
       "doi": "",
       "isbn": "",
@@ -106852,6 +106844,14 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
         "wiki/concepts/science-policy/Mountain of Science.md"
+      ],
+      "title": ""
+    },
+    "Van Raan, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
       ],
       "title": ""
     },
