@@ -6,10 +6,10 @@ aliases:
 summary: "对长期目标的持久热情与坚韧努力的非认知心理特质，在教育心理学中展现出对长期成就的预测力，在实证微观计量中被视作驱动高产与资助获取的典型不可观测混杂变量"
 type: concept
 domain: "educational-psychology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - metax
   - theme/educational-psychology
@@ -125,8 +125,6 @@ updated: 2026-10-31
 > [!warning] 适用局限
 > 坚毅量表主要依赖个体自我报告（Self-report），在面临高利害选拔或考核时极易受社会期许偏差（Social Desirability Bias）与假装行为污染；且盲目强调个人坚毅容易陷入“受害者归因”陷阱，掩盖教育资源分配不公与制度性障碍等结构性矛盾。
 
----
-
 > [!metax-divider]
 
 > [!metax] [坚毅 · Grit](https://www.visiblelearningmetax.com/influences/view/grit)
@@ -142,6 +140,8 @@ updated: 2026-10-31
 > > | Crede et al. (2017) | Grit | 88 | 13,141 | 39 | 0.37 |  |
 > > | Seo (2019) | Grit | 42 | NA | 42 | 0.32 |  |
 > > | Lam & Zhou (2021) | Grit | 137 | 285,331 | 156 | 0.39 |  |
+
+---
 
 ---
 

@@ -1283,7 +1283,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/science-policy/Curiosity-Driven Research.md",
+        "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
     },
@@ -23188,6 +23190,14 @@
       "seen_in": [],
       "title": "Much Ado About Grit: A Meta-Analytic Synthesis of the Grit Literature"
     },
+    "Credé et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Grit.md"
+      ],
+      "title": ""
+    },
     "Creemers & Kyriakides, 2008": {
       "datasets": [
         "metax:S0513"
@@ -28337,6 +28347,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-psychology/Grit.md",
         "wiki/concepts/learning-science-cognitive-science/Self-control.md"
       ],
       "title": ""
@@ -62452,7 +62463,10 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/science-policy/Curiosity-Driven Research.md",
+        "wiki/concepts/science-policy/Patent Citation.md",
+        "wiki/concepts/university-industry-collaboration/Research Translation.md"
       ],
       "title": ""
     },
@@ -108780,6 +108794,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/research-methodology/Counterfactual.md",
         "wiki/concepts/research-methodology/Survivorship Bias.md"
       ],
       "title": ""
