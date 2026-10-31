@@ -25550,22 +25550,6 @@
       ],
       "title": ""
     },
-    "DeepMind AlphaGo, 2016": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
-      ],
-      "title": ""
-    },
-    "DeepMind AlphaZero, 2017": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
-      ],
-      "title": ""
-    },
     "Defior, 1994": {
       "datasets": [
         "eef:phonics"
@@ -112742,7 +112726,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+      ],
       "title": "Journal of Social Issues."
     },
     "Wu et al., 2021a": {
@@ -114120,14 +114106,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Paul Morris.md"
-      ],
-      "title": ""
-    },
-    "You et al., 2021": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
       ],
       "title": ""
     },
