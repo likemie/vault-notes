@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSB Model",
+      "path": "wiki/theories/science-policy/WSB Model.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q-Factor",
       "path": "wiki/methods/quantitative/Q-Factor.md"
-    },
-    {
-      "basename": "Microsoft Academic Graph",
-      "path": "wiki/facts/us/Microsoft Academic Graph.md"
     }
   ],
   "omittedPaths": [],
