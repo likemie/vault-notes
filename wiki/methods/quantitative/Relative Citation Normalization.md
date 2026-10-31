@@ -34,6 +34,7 @@ related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Filippo Radicchi]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
   - "[[Derek de Solla Price]]"

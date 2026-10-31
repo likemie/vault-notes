@@ -10,9 +10,9 @@ summary: "创新经济学与科学学核心理论，由 Paul Romer (1990) 在内
 type: theory
 theory_field: "science-policy"
 theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theme/science-of-science
   - theme/science-policy
@@ -60,7 +60,7 @@ updated: 2026-10-31
 
 > [!dev-timeline|notitle] 理论演进与扩展脉络
 > - **1990 — 内生增长经济学奠基** Paul Romer 确立思想具有非竞争性与部分排他性，论证非竞争性思想存量与人力资本结合能够打破传统资本与劳动力规模报酬不变假定，实现持续的内生经济增长。
-> - **2020 — 既定技术轨道的收益递减实证** Nicholas Bloom 等人测算指出，在微电子领域维持摩尔定律芯片密度翻倍所需的研究人力是 1970 年代早期的 18 倍以上，农业作物单产与制药研发（如医药界[[Eroom's Law|反摩尔定律]]）的人均研发产出率急剧下滑，证实特定技术轨道内部低垂果实确实存在采尽效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 172)]]
+> - **2020 — 既定技术轨道的收益递减实证** Nicholas Bloom et al. 测算指出，在微电子领域维持摩尔定律芯片密度翻倍所需的研究人力是 1970 年代早期的 18 倍以上，农业作物单产与制药研发（如医药界[[Eroom's Law|反摩尔定律]]）的人均研发产出率急剧下滑，证实特定技术轨道内部低垂果实确实存在采尽效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 172)]]
 > - **2021 — 科学系统全量动力学拓展** Wang & Barabási 论证虽然文献标题中独特学术短语的增长速度仅呈线性，但全学科活跃学者的人均发文率跨越百年依然稳健微升；既有思想在使用中的非消耗性繁衍克服了单一技术轨道的极限，解释了科学跨越百年依然保持生机的动力源泉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
 ---

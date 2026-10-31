@@ -1640,12 +1640,14 @@
     "Barab & Squire, 2004": "Barab & Squire, 2004",
     "Barabási & Albert (1999)": "Barabási & Albert, 1999",
     "Barabási & Albert, 1999": "Barabási & Albert, 1999",
+    "Barabási (1999)": "Barabási, 1999",
     "Barabási (2002)": "Barabási, 2002",
     "Barabási (2005)": "Barabási, 2005",
     "Barabási et al. (2002)": "Barabási et al., 2002",
     "Barabási et al. (2012)": "Barabási et al., 2012",
     "Barabási et al., 2002": "Barabási et al., 2002",
     "Barabási et al., 2012": "Barabási et al., 2012",
+    "Barabási, 1999": "Barabási, 1999",
     "Barabási, 2002": "Barabási, 2002",
     "Barabási, 2005": "Barabási, 2005",
     "Baram-Tsabari & Segev (2018)": "Baram-Tsabari & Segev, 2018",
@@ -5588,6 +5590,8 @@
     "Dasen & Heron, 1981": "Dasen & Heron, 1981",
     "Dasen (1975)": "Dasen, 1975",
     "Dasen, 1975": "Dasen, 1975",
+    "Dashun Wang & Albert-László Barabási (2021)": "Dashun Wang & Albert-László Barabási, 2021",
+    "Dashun Wang & Albert-László Barabási, 2021": "Dashun Wang & Albert-László Barabási, 2021",
     "Data Protection Act (1998)": "Data Protection Act, 1998",
     "Data Protection Act, 1998": "Data Protection Act, 1998",
     "Databricks (2013)": "Databricks, 2013",
@@ -7095,6 +7099,8 @@
     "Erktin, 2004": "Erktin, 2004",
     "Erlenmeyer-Kimling & Jarvik (1963)": "Erlenmeyer-Kimling & Jarvik, 1963",
     "Erlenmeyer-Kimling & Jarvik, 1963": "Erlenmeyer-Kimling & Jarvik, 1963",
+    "Ernest Rutherford (1900)": "Ernest Rutherford, 1900",
+    "Ernest Rutherford, 1900": "Ernest Rutherford, 1900",
     "Ernst (2001)": "Ernst, 2001",
     "Ernst D. Thoutenhoofd (2018)": "Ernst D. Thoutenhoofd, 2018",
     "Ernst D. Thoutenhoofd, 2018": "Ernst D. Thoutenhoofd, 2018",
@@ -7600,6 +7606,8 @@
     "Filieri & O'Malley, 2023": "Filieri & O'Malley, 2023",
     "Filieri & OMalley (2023)": "Filieri & OMalley, 2023",
     "Filieri & OMalley, 2023": "Filieri & OMalley, 2023",
+    "Filippo Radicchi et al. (2008)": "Filippo Radicchi et al., 2008",
+    "Filippo Radicchi et al., 2008": "Filippo Radicchi et al., 2008",
     "Filmer (2020)": "Filmer, 2020",
     "Filmer, 2020": "Filmer, 2020",
     "Filonov (1994)": "Filonov, 1994",
@@ -15257,6 +15265,8 @@
     "Mark Bray & R. Murray Thomas, 1995": "Mark Bray & R. Murray Thomas, 1995",
     "Mark Ginsburg (1991)": "Mark Ginsburg, 1991",
     "Mark Ginsburg, 1991": "Mark Ginsburg, 1991",
+    "Mark Newman (2005)": "Mark Newman, 2005",
+    "Mark Newman, 2005": "Mark Newman, 2005",
     "Mark Rickinson et al. (2022)": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022": "Mark Rickinson et al., 2022",
     "Mark Rickinson et al., 2022a": "Mark Rickinson et al., 2022",
@@ -17232,6 +17242,8 @@
     "Ni et al., 2022": "Ni et al., 2022",
     "Nias (1991)": "Nias, 1991",
     "Nias, 1991": "Nias, 1991",
+    "Nicholas Bloom et al. (2020)": "Nicholas Bloom et al., 2020",
+    "Nicholas Bloom et al., 2020": "Nicholas Bloom et al., 2020",
     "Nicholas Hans (1949)": "Nicholas Hans, 1949",
     "Nicholas Hans (1958)": "Nicholas Hans, 1958",
     "Nicholas Hans (1959)": "Nicholas Hans, 1959",
@@ -18277,7 +18289,9 @@
     "Paul Ramsden (1991)": "Paul Ramsden, 1991",
     "Paul Ramsden, 1991": "Paul Ramsden, 1991",
     "Paul Romer (1986)": "Paul Romer, 1986",
+    "Paul Romer (1990)": "Paul Romer, 1990",
     "Paul Romer, 1986": "Paul Romer, 1986",
+    "Paul Romer, 1990": "Paul Romer, 1990",
     "Paul Rosenstein-Rodan (1943)": "Paul Rosenstein-Rodan, 1943",
     "Paul Rosenstein-Rodan, 1943": "Paul Rosenstein-Rodan, 1943",
     "Paul Sabatier (1991)": "Paul Sabatier, 1991",
@@ -39082,6 +39096,21 @@
       ],
       "title": ""
     },
+    "Barabási, 1999": {
+      "aliases": [
+        "Barabási, 1999",
+        "Barabási (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barabási, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Vilfredo Pareto.md"
+      ],
+      "title": ""
+    },
     "Barabási, 2002": {
       "aliases": [
         "Barabási, 2002",
@@ -42501,7 +42530,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/theories/science-policy/Burden of Knowledge.md"
+        "wiki/theories/science-policy/Burden of Knowledge.md",
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
       ],
       "title": ""
     },
@@ -67889,6 +67919,21 @@
       ],
       "title": ""
     },
+    "Dashun Wang & Albert-László Barabási, 2021": {
+      "aliases": [
+        "Dashun Wang & Albert-László Barabási, 2021",
+        "Dashun Wang & Albert-László Barabási (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dashun Wang & Albert-László Barabási, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
+      ],
+      "title": ""
+    },
     "Data Protection Act, 1998": {
       "aliases": [
         "Data Protection Act, 1998",
@@ -70574,7 +70619,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/persons/italy/Vilfredo Pareto.md"
       ],
       "title": ""
     },
@@ -78911,6 +78957,21 @@
       ],
       "title": ""
     },
+    "Ernest Rutherford, 1900": {
+      "aliases": [
+        "Ernest Rutherford, 1900",
+        "Ernest Rutherford (1900)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ernest Rutherford, 1900"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Ernest Rutherford.md"
+      ],
+      "title": ""
+    },
     "Ernst D. Thoutenhoofd, 2018": {
       "aliases": [
         "Ernst D. Thoutenhoofd, 2018",
@@ -82626,6 +82687,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/sociology-of-education/Social Capital Theory.md"
+      ],
+      "title": ""
+    },
+    "Filippo Radicchi et al., 2008": {
+      "aliases": [
+        "Filippo Radicchi et al., 2008",
+        "Filippo Radicchi et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Filippo Radicchi et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Filippo Radicchi.md"
       ],
       "title": ""
     },
@@ -119072,7 +119148,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/methods/quantitative/Mark and Recapture Method in Scientometrics.md"
       ],
       "title": ""
     },
@@ -138008,6 +138085,21 @@
       ],
       "title": ""
     },
+    "Mark Newman, 2005": {
+      "aliases": [
+        "Mark Newman, 2005",
+        "Mark Newman (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mark Newman, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Filippo Radicchi.md"
+      ],
+      "title": ""
+    },
     "Mark Rickinson et al., 2022": {
       "aliases": [
         "Mark Rickinson et al., 2022",
@@ -152121,7 +152213,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Distribution.md"
+        "wiki/concepts/science-policy/Citation Distribution.md",
+        "wiki/persons/italy/Filippo Radicchi.md"
       ],
       "title": ""
     },
@@ -152337,6 +152430,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
+      ],
+      "title": ""
+    },
+    "Nicholas Bloom et al., 2020": {
+      "aliases": [
+        "Nicholas Bloom et al., 2020",
+        "Nicholas Bloom et al. (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nicholas Bloom et al., 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
       ],
       "title": ""
     },
@@ -160024,6 +160132,21 @@
       ],
       "title": ""
     },
+    "Paul Romer, 1990": {
+      "aliases": [
+        "Paul Romer, 1990",
+        "Paul Romer (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Paul Romer, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
+      ],
+      "title": ""
+    },
     "Paul Rosenstein-Rodan, 1943": {
       "aliases": [
         "Paul Rosenstein-Rodan, 1943",
@@ -165355,6 +165478,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
+        "wiki/persons/italy/Filippo Radicchi.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md",
         "wiki/theories/science-policy/Universality of Citation Distributions.md"
       ],
@@ -165374,6 +165498,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/persons/italy/Vilfredo Pareto.md",
         "wiki/theories/science-policy/Bianconi-Barabási Model.md"
       ],
       "title": ""
@@ -167067,6 +167192,7 @@
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/methods/quantitative/h-Index.md",
+        "wiki/persons/italy/Filippo Radicchi.md",
         "wiki/theories/science-policy/Universality of Citation Distributions.md"
       ],
       "title": ""

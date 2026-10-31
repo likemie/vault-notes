@@ -7190,6 +7190,14 @@
       ],
       "title": ""
     },
+    "Barabási, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Vilfredo Pareto.md"
+      ],
+      "title": ""
+    },
     "Barabási, 2002": {
       "doi": "",
       "isbn": "",
@@ -9247,7 +9255,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/theories/science-policy/Burden of Knowledge.md"
+        "wiki/theories/science-policy/Burden of Knowledge.md",
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
       ],
       "title": ""
     },
@@ -24581,6 +24590,14 @@
       ],
       "title": ""
     },
+    "Dashun Wang & Albert-László Barabási, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
+      ],
+      "title": ""
+    },
     "Data Protection Act, 1998": {
       "doi": "",
       "isbn": "",
@@ -26183,7 +26200,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/persons/italy/Vilfredo Pareto.md"
       ],
       "title": ""
     },
@@ -31185,6 +31203,14 @@
       ],
       "title": ""
     },
+    "Ernest Rutherford, 1900": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Ernest Rutherford.md"
+      ],
+      "title": ""
+    },
     "Ernst D. Thoutenhoofd, 2018": {
       "doi": "",
       "isbn": "",
@@ -33409,6 +33435,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/sociology-of-education/Social Capital Theory.md"
+      ],
+      "title": ""
+    },
+    "Filippo Radicchi et al., 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Filippo Radicchi.md"
       ],
       "title": ""
     },
@@ -55425,7 +55459,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/methods/quantitative/Mark and Recapture Method in Scientometrics.md"
       ],
       "title": ""
     },
@@ -67058,6 +67093,14 @@
       ],
       "title": ""
     },
+    "Mark Newman, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Filippo Radicchi.md"
+      ],
+      "title": ""
+    },
     "Mark Rickinson et al., 2022a": {
       "doi": "",
       "isbn": "",
@@ -75595,7 +75638,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Distribution.md"
+        "wiki/concepts/science-policy/Citation Distribution.md",
+        "wiki/persons/italy/Filippo Radicchi.md"
       ],
       "title": ""
     },
@@ -75728,6 +75772,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
+      ],
+      "title": ""
+    },
+    "Nicholas Bloom et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
       ],
       "title": ""
     },
@@ -80374,6 +80426,14 @@
       ],
       "title": ""
     },
+    "Paul Romer, 1990": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Non-Rivalry of Ideas.md"
+      ],
+      "title": ""
+    },
     "Paul Rosenstein-Rodan, 1943": {
       "doi": "",
       "isbn": "",
@@ -83569,6 +83629,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
+        "wiki/persons/italy/Filippo Radicchi.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md",
         "wiki/theories/science-policy/Universality of Citation Distributions.md"
       ],
@@ -83581,6 +83642,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
+        "wiki/persons/italy/Vilfredo Pareto.md",
         "wiki/theories/science-policy/Bianconi-Barabási Model.md"
       ],
       "title": ""
@@ -84579,6 +84641,7 @@
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/methods/quantitative/h-Index.md",
+        "wiki/persons/italy/Filippo Radicchi.md",
         "wiki/theories/science-policy/Universality of Citation Distributions.md"
       ],
       "title": ""

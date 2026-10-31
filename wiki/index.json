@@ -22073,6 +22073,18 @@
     ]
   },
   {
+    "title": "Non-Rivalry of Ideas",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Non-Rivalry of Ideas.md",
+    "aliases": [
+      "思想非消耗性假说",
+      "思想非竞争性理论",
+      "思想非排他性",
+      "思想非消耗性",
+      "Nonrivalry of Ideas"
+    ]
+  },
+  {
     "title": "Pasteur's Quadrant",
     "type": "theory",
     "path": "wiki/theories/science-policy/Pasteur's Quadrant.md",
@@ -25467,6 +25479,18 @@
       "人力规划法",
       "Manpower Planning",
       "MRA"
+    ]
+  },
+  {
+    "title": "Mark and Recapture Method in Scientometrics",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Mark and Recapture Method in Scientometrics.md",
+    "aliases": [
+      "标记重捕法",
+      "标记重捕模型",
+      "文献规模生态学抽样测算法",
+      "文献标记重捕法",
+      "Mark-Recapture Method"
     ]
   },
   {
@@ -29112,6 +29136,17 @@
     ]
   },
   {
+    "title": "Filippo Radicchi",
+    "type": "person",
+    "path": "wiki/persons/italy/Filippo Radicchi.md",
+    "aliases": [
+      "菲利波·拉迪基",
+      "拉迪基",
+      "F. Radicchi",
+      "Radicchi, F."
+    ]
+  },
+  {
     "title": "Giorgio Parisi",
     "type": "person",
     "path": "wiki/persons/italy/Giorgio Parisi.md",
@@ -29150,6 +29185,17 @@
       "Saint Benedict of Nursia",
       "Benedict of Nursia",
       "本笃"
+    ]
+  },
+  {
+    "title": "Vilfredo Pareto",
+    "type": "person",
+    "path": "wiki/persons/italy/Vilfredo Pareto.md",
+    "aliases": [
+      "维尔弗雷多·帕累托",
+      "帕累托",
+      "V. Pareto",
+      "Pareto, V."
     ]
   },
   {
@@ -29851,6 +29897,18 @@
       "爱德华·德博诺",
       "Edward Charles Francis Publius de Bono",
       "德·博诺"
+    ]
+  },
+  {
+    "title": "Ernest Rutherford",
+    "type": "person",
+    "path": "wiki/persons/uk/Ernest Rutherford.md",
+    "aliases": [
+      "欧内斯特·卢瑟福",
+      "卢瑟福",
+      "E. Rutherford",
+      "Rutherford, E.",
+      "欧内斯特·卢瑟福勋爵"
     ]
   },
   {

@@ -9,6 +9,11 @@ aliases:
 summary: "一种借鉴种群生态学调查原理测算互联网与数据库不可见学术文献总体规模的量化评估方法。该方法通过在独立学术搜索引擎（如 Google Scholar 与 Microsoft Academic Search）中抽样并比对文献重合捕获率（Overlap Ratio），利用林肯-彼得森（Lincoln-Petersen）估计量或查普曼（Chapman）修正公式，在无法对全量文献进行逐篇清点的条件下无偏估计网络学术文献与出版物总体规模。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 5
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
@@ -225,4 +230,4 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 评介 Khabsa & Giles (2014) 运用标记重捕法对全网学术文献规模开展的开创性定量评估，确立了全网英文学术文献突破 1.14 亿篇的基准事实。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 评介 Khabsa and Giles (2014) 运用标记重捕法对全网学术文献规模开展的开创性定量评估，确立了全网英文学术文献突破 1.14 亿篇的基准事实。
