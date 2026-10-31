@@ -99,14 +99,14 @@ updated: 2026-10-31
 > [!boundary]- 概念边界
 > - 不等于选择性报告偏倚（Selective Outcome Reporting） 发表偏倚指整篇研究由于非显著而被锁在“文件抽屉”中（研究级 Study-level）；选择性报告偏倚指同一篇研究内部研究者选择性报告达到显著的结果指标而隐瞒不显著指标（发现级 Finding-level）。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 441)]]
 > - 不等于[[Developer Effect\|开发者效应]]（Developer Effect） 发表偏倚是开发者效应的一个子机制（约贡献 66%），但开发者效应还涵盖干预[[Implementation Fidelity\|实施保真度]]高、测量工具过度对齐等其他实质机制。
-> - 不等于[[Researcher Degrees of Freedom\|研究者自由度]]（Researcher Degrees of Freedom） 研究者自由度发生在数据收集与分析阶段（如灵活调整协[[Variable\|变量]]或离群值剔除标准），而发表偏倚发生在论文投稿与同行评审的传播环节。
+> - 不等于[[Researcher Degrees of Freedom\|研究者自由度]]（Researcher Degrees of Freedom） 研究者自由度发生在数据收集与分析阶段（如灵活调整协[[Variable\|变量]]或离群值剔除标准），而发表偏倚发生在成果投稿与同行评审的传播环节。
 
 ---
 
 > [!contrast-table] 偏倚类型与方法学属性辨析
 > | 偏倚类型 | 发生阶段 | 作用层级 | 核心机制 | 典型校正与防范方案 |
 > |---|---|---|---|---|
-> | **[[Publication Bias\|发表偏倚]]（Publication Bias）** | 成果投稿与出版传播 | 研究级（整篇论文未面世） | 期刊偏好正面“好故事”、资助方压制零结果 | 剪补法、失安全数、[[Preregistration\|研究预注册]]、注册报告 |
+> | **[[Publication Bias\|发表偏倚]]（Publication Bias）** | 成果投稿与出版传播 | 研究级（整篇手稿未面世） | 期刊偏好正面“好故事”、资助方压制零结果 | 剪补法、失安全数、[[Preregistration\|研究预注册]]、注册报告 |
 > | **选择性报告偏倚（Selective Reporting）** | 数据整理与手稿撰写 | 指标级（单篇内隐瞒部分指标） | 仅汇报 $p < .05$ 的结局变量，隐藏不显著测量 | 方案预注册、多结局指标全量核对表 |
 > | **[[Researcher Degrees of Freedom\|研究者自由度]]（Researcher Degrees of Freedom）** | 数据分析与模型建构 | 过程级（模型与样本调试） | p-hacking、事后合理化假设（HARKing）、反复调整缩尾阈值 | [[Blinding\|盲态]]分析、多分析团队验证、预注册分析计划 |
 > | **[[Developer Effect\|开发者效应]]（Developer Effect）** | 干预研发、实施与评估全周期 | 方案级（研发者亲自主导实验） | 开发者额外支持提高保真度、自编测验过度对齐、对负面结果选择性发表 | 强制[[Evaluator Independence\|第三方独立评估]]、采用标准化统考测验 |
@@ -157,11 +157,11 @@ updated: 2026-10-31
 
 ---
 
-> [!concept-proposition] 命题三｜[[Meta-meta-analysis|二阶元分析]]复合放大商业出版偏倚，唯有依托解耦出版的开放[[Data Infrastructure|数据基础设施]]方能从源头终结抽屉效应
-> **探讨维度　基础设施解耦与一级全量数据归档** 探讨商业学术出版的篇幅与显著性筛选如何导致元数据剥离与偏倚放大，以及中央标准化[[Data Infrastructure|数据基础设施]]如何重塑证据合成[[Paradigm|范式]]。
+> [!concept-proposition] 命题三｜[[Meta-meta-analysis|二阶元分析]]复合放大商业出版偏倚，唯有依托独立于期刊出版的开放[[Data Infrastructure|数据基础设施]]方能从源头终结抽屉效应
+> **探讨维度　基础设施独立性与一级全量数据归档** 探讨商业学术出版的篇幅与显著性筛选如何导致元数据剥离与偏倚放大，以及中央标准化[[Data Infrastructure|数据基础设施]]如何重塑证据合成[[Paradigm|范式]]。
 
 > [!claim] [[Christof Wecker|Wecker, C.]], et al.
-> **商业出版扭曲与全量证据数据基础设施** 商业学术期刊出于篇幅限制常强制删减主要研究的基础统计数据（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$），且因偏好显著正向结果而系统性拒收零效应研究；以 Hattie 为代表的“二阶[[Meta-meta-analysis|元元分析]]”直接抓取各商业期刊发表的一阶元分析进行简单二次汇总，不仅无法消除发表偏倚，反而使抽屉效应与数学估算误差在层级综合中被复合放大。解决该问题的根本出路在于将实证结果归档与商业期刊出版彻底解耦，由学术界建立跨机构的中央开放[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助实证研究的方法、原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在学术评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten），从而阻断文件抽屉效应，推动[[Evidence-Based Education|循证教育]]走向动态、透明的一阶元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
+> **商业出版扭曲与全量证据数据基础设施** 商业学术期刊出于篇幅限制常强制删减主要研究的基础统计数据（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$），且因偏好显著正向结果而系统性拒收零效应研究；以 Hattie 为代表的“二阶[[Meta-meta-analysis|元元分析]]”直接抓取各商业期刊发表的一阶元分析进行简单二次汇总，不仅无法消除发表偏倚，反而使抽屉效应与数学估算误差在层级综合中被复合放大。解决该问题的根本出路在于将实证结果归档与商业期刊出版彻底分离，由学术界建立跨机构的中央开放[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助实证研究的方法、原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在学术评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten），从而阻断文件抽屉效应，推动[[Evidence-Based Education|循证教育]]走向动态、透明的一阶元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 
 ---
 
@@ -170,18 +170,18 @@ updated: 2026-10-31
 > |---|---|---|---|
 > | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率；二阶综合面临直接继承并复合放大发表偏倚的制度风险 | 元分析效应量解释、宏观证据库审查、循证政策评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Hattie_2010_NZJES\|Hattie (2010)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
 > | **稳健性检验命题** | 结合剪补法、失安全数与回归检验可量化偏倚下调幅度，确立核心因果推论的稳健性边界 | 元分析偏倚审计、敏感性分析与稳健性报告 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
-> | **基础设施解耦命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立解耦出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
+> | **基础设施独立归档命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立独立于期刊出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
 ---
 
 > [!dev-timeline] 发表偏倚的概念演变
-> - **1940 — Pratt and Rhine 最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表论文对汇总效果的影响，开启了对抽屉效应的方法学关注。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 35)]]
+> - **1940 — Pratt and Rhine 最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表研究对汇总效果的影响，开启了对抽屉效应的方法学关注。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 35)]]
 > - **1991 — Rosenthal [[Fail-Safe N|经典失安全数]]** 提出量化文件抽屉效应的经典方法，通过计算推翻显著结论所需零效应研究数量评估证据稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 355)]]
 > - **1995 — Vevea & Hedges 权重函数模型** 提出针对[[Meta-analysis|元分析]]中不同 p 值区间赋予权重的参数化统计校正模型。
 > - **2000 — Duval & Tweedie [[Trim and Fill Method|剪补法]]普及** 提出基于对称性的非参数剪除与虚拟填补算法，成为国际元分析审计发表偏倚的标准配置。
 > - **2009 — Snook et al. 药企镜像批判与二阶偏倚累积** 约翰·[[Ivan Snook|斯努克]]等学者指出教育元分析严重依赖公开发表文献，其偏倚机制与医药工业中药企压制负面试验如出一辙；批判宏观二阶综合在未对一阶研究开展[[Funnel Plot|漏斗图]]或剪补法审查的情况下直接合并均值，使文件抽屉效应在层级综合中被放大。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]
 > - **2010 — Hattie 同行评审质控辩护** [[John Hattie|约翰·哈蒂]]回应批评，援引 Schulze (2004) 说明控制偏倚是元分析的核心关切，并主张高度依赖公开发表文献恰恰是通过同行评审机制实现质量控制的有效途径。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 88)]]
-> - **2016 — Wecker et al. 批判[[Meta-meta-analysis|二阶元分析]]偏倚倍增与中央[[Data Infrastructure|数据基础设施]]方案** 揭示商业期刊篇幅与显著性偏好对实证元数据的剥离，指出二阶元分析复合放大发表偏倚，提出解耦商业出版的中央标准化证据数据库并倡导将数据存缴计入学术成果清单（Publikationslisten）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
+> - **2016 — Wecker et al. 批判[[Meta-meta-analysis|二阶元分析]]偏倚倍增与中央[[Data Infrastructure|数据基础设施]]方案** 揭示商业期刊篇幅与显著性偏好对实证元数据的剥离，指出二阶元分析复合放大发表偏倚，提出独立于商业出版的中央标准化证据数据库并倡导将数据存缴计入学术成果清单（Publikationslisten）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 > - **2020 — Wolf et al. 解构[[Developer Effect|开发者效应]]** 将权重函数模型应用于开发者与独立评估[[Effect Size|效应量]]比较，证实发表偏倚贡献了开发者效应的 66%。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
 > - **2021 — Cartiff et al. 多方法严密诊断[[Paradigm|范式]]** 在《教育心理学杂志》（JEP）元分析中建立包含离群值缩尾、[[Funnel Plot|漏斗图]]、Egger 回归、剪补法、Rosenthal 及 Orwin 双失安全数的多工具互证规范。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 484–485)]]
 > - **2021 — Wang & Barabási 科学学视角与知识图谱空白扭曲** 从宏观知识网络拓扑切入，揭示发表偏倚导致文件抽屉隐匿大量负面实验，使拓扑空白被误判为未探蓝海；强调公开并比对全量负面数据是提升复现性与破除跟风聚集的关键。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
@@ -201,9 +201,9 @@ updated: 2026-10-31
 
 > [!critique] 基础设施层面的系统性治理方案：中央证据数据库
 > [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 34–36)]] 在对 Hattie 可见学习的方法学批判中，指出仅靠事后统计校正无法彻底解决发表偏倚，必须从科研基础设施层面建立中央证据数据库：
-> - **商业出版篇幅限制与元数据剥离** 商业学术期刊对版面篇幅的严苛限制导致作者普遍删去主要研究的基础统计表（如 $n_E, n_C, s_E, s_C$），使后续[[Meta-analysis|元分析]]丧失严谨加权与[[Standard Error|标准误]]计算的依据；加之期刊对显著性结果的偏爱，形成商业出版维度的系统性偏倚源。
+> - **商业出版篇幅限制与元数据剥离** 商业学术期刊对版面篇幅的严苛限制导致刊发文稿普遍删去主要研究的基础统计表（如 $n_E, n_C, s_E, s_C$），使后续[[Meta-analysis|元分析]]丧失严谨加权与[[Standard Error|标准误]]计算的依据；加之期刊对显著性结果的偏爱，形成商业出版维度的系统性偏倚源。
 > - **[[Meta-meta-analysis|二阶元分析]]对发表偏倚的复合放大** 像 Hattie 式的二阶元元分析对各商业期刊发表的一阶元分析进行简单再合并，非但不能稀释发表偏倚，反而使初始偏倚与模型估算错误在二次合成中成倍累加。
-> - **不分发表状态的全量归档与出版清单激励** 建议将实证研究归档与商业期刊出版彻底解耦，由学术共同体建立中央[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助研究的方法、全量原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在制度上将数据存缴直接认定为“适合列入出版物清单的学术成果”（Publikationslisten; Stanat, 2012），从激励机制根源消除文件抽屉效应，为动态一级元分析奠定透明基石。
+> - **不分发表状态的全量归档与出版清单激励** 建议将实证研究归档与商业期刊出版彻底分离，由学术共同体建立中央[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助研究的方法、全量原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在制度上将数据存缴直接认定为“适合列入出版物清单的学术成果”（Publikationslisten; Stanat, 2012），从激励机制根源消除文件抽屉效应，为动态一级元分析奠定透明基石。
 
 ---
 

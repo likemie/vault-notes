@@ -315,6 +315,7 @@
   },
   "active": "071a1983dcd366f9",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-001/result.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-012/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-012/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit10-b08b1101/batch-011/prompt.md",
@@ -360,7 +361,6 @@
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-2_Citation_Patterns_Predicted_WSB_Model.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-1_Citation_Histories_Individual_Papers.jpg",
     "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
-    "wiki/methods/quantitative/Journal Impact Factor.md",
     "未命名.canvas"
   ]
 }
