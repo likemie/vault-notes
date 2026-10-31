@@ -50,6 +50,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
 confidence: high
 status: completed
 created: "2026-10-29"
@@ -58,7 +59,7 @@ updated: 2026-10-31
 
 ---
 
-> [!person-profile|notitle] 人物档案
+> [!person-profile] 人物档案
 > - **身份位置** 英国裔美籍物理学家、科学史家与[[Bibliometric Analysis|科学计量学]]之父，曾任耶鲁大学阿瓦隆科学史讲席教授。
 > - **核心角色** 现代科学计量学（Scientometrics）与宏观科学学的奠基者，开创了运用数理统计与拓扑网络对科学出版物与科研队伍展开宏观定量测度的学科传统。
 > - **代表贡献** 1963 年在《小科学，[[Big Science|大科学]]》中提出科学[[Document|文献]]指数增长律与大科学演化规律，1965 年在《科学》发表《科学文献网络》首次计算出[[Citation Distribution|引文分布]]的幂律形式，1976 年提出累积优势模型（[[Preferential Attachment in Academia]]）与[[Price's Law|普赖斯平方根定律]]。
@@ -70,7 +71,7 @@ updated: 2026-10-31
 
 ---
 
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1922** 出生于英国伦敦莱顿。
 > - **1942** 毕业于伦敦大学，获得物理学与数学理学学士学位。
 > - **1947–1950** 任教于新加坡莱佛士学院，在整理[[The Royal Society|皇家学会]]《哲学汇刊》历史过刊时按年代堆叠成 28 摞，直观观察到文献堆叠高度呈指数级急剧上升，发现科学文献规模保持着约 10–15 年翻番的指数增长规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–162)]]
@@ -84,14 +85,14 @@ updated: 2026-10-31
 
 ---
 
-> [!work-line|notitle] 主要著作
+> [!work-line] 主要著作
 > - **1963 — *Little Science, Big Science*** 科学计量学奠基之作，系统阐明科学从个体小作坊向量化、建制化与国家资助大科学的结构转型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 8)]]
 > - **1965 — *Networks of Scientific Papers*** 首次将全量文献引文关系形式化为有向图谱，发现科学引文网络高度偏斜的厚尾拓扑结构。
-> - **1976 — *A General Theory of Bibliometric and Other Cumulative Advantage Processes*** 运用波利亚坛子模型数学推导累积优势过程，构成网络科学优先连接机制的最早前驱模型。
+> - **1976 — *A General Theory of Bibliometric and Other Cumulative Advantage Processes*** 运用波利亚坛子模型数学推导累积优势过程，构成网络科学优先连接机制的最早前驱模型。后续实验揭示约 78% 的引文源于未读原文的连环复制，其实验测定的初始引用偏移常数 $c_0 \approx 7$ 亦精确验证了普赖斯累积优势向纯优先连接过渡的临界条件。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 138–140)]]
 
 ---
 
-> [!claim|notitle] 核心思想
+> [!claim] 核心思想
 > 科学不仅是一种思想认识成果，更是一个具备稳定宏观统计规律的物理与社会有机体。科学出版物与科研队伍总体遵循指数级扩张动力学，引文网络的拓扑链接受累积优势律（获得新引用的概率与现有引用正相关）支配，必然导致高度偏斜的精英集中分布；科学[[Knowledge Production|知识生产]]的主力高度集中于规模等于研究者总人数平方根的极少数精英核心群体。
 
 > [!citation-card] 普赖斯论引文网络的累积优势动力学
@@ -101,7 +102,7 @@ updated: 2026-10-31
 
 ---
 
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 普赖斯的累积优势模型直接启迪了[[Albert-László Barabási|巴拉巴西]]（Barabási）与阿尔伯特（Albert）提出无标度网络（Scale-Free Networks）及其优先连接机制。
 > - **方法路径** 确立以科学引文索引（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度[[Paradigm|范式]]。
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。

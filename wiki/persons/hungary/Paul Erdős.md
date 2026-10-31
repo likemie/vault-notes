@@ -33,6 +33,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Team Science]]"
   - "[[Six Degrees of Separation]]"
+  - "[[Sleeping Beauty in Science]]"
 related_theories:
   - "[[Preferential Attachment in Academia]]"
   - "[[Small-World Collaboration Model]]"
@@ -44,6 +45,7 @@ related_facts:
   - "[[Institute for Advanced Study]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -73,7 +75,7 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要著作
-> - **1959 — *On Random Graphs I*** 与阿尔弗雷德·雷尼（Alfréd Rényi）合作提出随机图理论（Erdős–Rényi 模型），奠定现代复杂网络理论数学基石。
+> - **1959 — *On Random Graphs I*** 与阿尔弗雷德·雷尼（Alfréd Rényi）合作提出随机图理论（Erdős–Rényi 模型），奠定现代复杂网络理论数学基石。该论著也是科学界著名的“[[Sleeping Beauty in Science|睡美人]]”：在发表后的四十年间长期沉寂，直至 20 世纪末网络科学兴起后被全面唤醒，引文出现爆发式增长。
 > - **1960 — *On the Evolution of Random Graphs*** 形式化发现网络中[[Giant Component|巨连通分支]]的相变[[Emergence|涌现]]规律。
 > - **1979 — *On the Complexity of Facets on Polyhedra*** 与克里斯托斯·帕帕季米特里乌（Christos Papadimitriou）合撰，比尔·盖茨通过与后者合作撰写成果而间接获得埃尔德什数 4。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 104)]]
 
@@ -90,7 +92,7 @@ updated: 2026-10-30
 > - **科学学路径** 其实证合作数据被广泛用于验证学者度分布重尾[[Heterogeneity|异质性]]与学术网络演化动力学。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 在第 10 章作为学术合著网络的核心案例，将埃尔德什的极致协作范式与独撰 643 篇的比利时学者戈多（Lucien Godeaux）对比，系统分析度分布重尾、埃尔德什数与小世界拓扑。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 在第 10 章作为学术合著网络的核心案例，将埃尔德什的极致协作范式与独撰 643 篇成果的比利时学者戈多（Lucien Godeaux）对比，系统分析度分布重尾、埃尔德什数与小世界拓扑（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]], pp. 102–104）；在第 9 章将其 1959 年随机图奠基论著作为跨越 40 年后被网络科学唤醒的“[[Sleeping Beauty in Science|睡美人]]”经典范例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]], p. 147）。
 
 ---
 
@@ -116,6 +118,7 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | [[Coauthorship Network]] | 概念 | 科学合著网络中典型的超级枢纽节点原型。 |
+> | [[Sleeping Beauty in Science]] | 概念 | 其 1959 年随机图奠基成果在四十年后随网络科学兴起被重新唤醒，成为睡美人经典范例。 |
 > | [[Team Science]] | 概念 | 展现跨机构、跨国界流动科研协作的高效生产力。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 新学者挂靠埃尔德什等资深枢纽，实证呈现优先连接机制。 |
 > | [[Small-World Collaboration Model]] | 理论 | 埃尔德什数（均值 4.7）实证支撑学术界的小世界网络[[Six Degrees of Separation\|六度分隔]]拓扑。 |
