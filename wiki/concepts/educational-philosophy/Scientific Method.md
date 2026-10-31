@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而在跨国治理中其亦被超国家机构包装为客观中立的科学决策品牌以推行去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 84
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -55,12 +55,14 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Value Neutrality]]"
   - "[[Metascience]]"
-  - "[[Epistemological Beliefs]]"
+  - "[[Epistological Beliefs]]"
   - "[[Creativity]]"
   - "[[Visible Learning]]"
   - "[[Web-Based Learning]]"
   - "[[Discourse]]"
   - "[[School Effectiveness]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Internal Validity]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Inquiry Cycle]]"
@@ -94,6 +96,8 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Christof Wecker]]"
   - "[[John Hattie]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -110,10 +114,11 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 ---
