@@ -86,7 +86,7 @@ updated: 2026-10-31
 
 > [!logic-map]- 要素关系
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["成果发表总量指数增长"] --> B["学术共同体有限注意力竞争"]
 >     B --> C["非对称选择与优先连接机制"]
 >     C --> D["引文分布 P(c) 形成"]

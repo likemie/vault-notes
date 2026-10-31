@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
     },
     {
+      "basename": "Big Science",
+      "path": "wiki/concepts/science-policy/Big Science.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reputation Velocity Threshold Model",
       "path": "wiki/methods/quantitative/Reputation Velocity Threshold Model.md"
-    },
-    {
-      "basename": "h-alpha Index",
-      "path": "wiki/methods/quantitative/h-alpha Index.md"
     }
   ],
   "omittedPaths": [],

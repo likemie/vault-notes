@@ -315,6 +315,12 @@
   },
   "active": "071a1983dcd366f9",
   "lastOpenFiles": [
+    "tmp/callout-refinement/lens-motion.gif",
+    "tmp/callout-refinement/lens-contact.png",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-012/result.json",
+    "wiki/concepts/science-policy/Big Science.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-011/result.json",
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
     "tmp/callout-refinement/lens-inspect/mobile-page-01.jpg",
     "tmp/callout-refinement/lens-inspect/mobile-fold.jpg",
     "tmp/callout-refinement/lens-inspect/tablet-page-01.jpg",
@@ -325,7 +331,6 @@
     "tmp/callout-refinement/lens-frame-4.png",
     "tmp/callout-refinement/lens-frame-3.png",
     "tmp/callout-refinement/lens-frame-2.png",
-    "tmp/callout-refinement/lens-frame-1.png",
     "tmp/callout-refinement/lens-check.log",
     "tmp/callout-refinement/lens-check.mjs",
     "tmp/callout-refinement/lens-inspect/report.json",
@@ -333,9 +338,7 @@
     "tmp/callout-refinement/lens-inspect.log",
     "tmp/callout-refinement/lens.html",
     "tmp/callout-refinement/lens-preview.py",
-    "tmp/callout-refinement/lens_style.py",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-009/result.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-012/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-011/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-010/prompt.md",
@@ -358,8 +361,6 @@
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit07-0a1ba996-old/batch-007/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit07-0a1ba996-old/batch-005/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit07-0a1ba996-old/batch-006/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit07-0a1ba996-old/batch-004/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit07-0a1ba996-old/batch-003/prompt.md",
     "未命名.canvas"
   ]
 }
