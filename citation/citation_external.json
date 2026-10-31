@@ -21735,6 +21735,8 @@
     "Sim, 2014": "Sim, 2014",
     "Simcoe & Waguespack (2011)": "Simcoe & Waguespack, 2011",
     "Simcoe & Waguespack, 2011": "Simcoe & Waguespack, 2011",
+    "Simkin & Roychowdhury (2003)": "Simkin & Roychowdhury, 2003",
+    "Simkin & Roychowdhury, 2003": "Simkin & Roychowdhury, 2003",
     "Simmonds & Webb (2013)": "Simmonds & Webb, 2013",
     "Simmonds & Webb, 2013": "Simmonds & Webb, 2013",
     "Simmons (1995)": "Simmons, 1995",
@@ -25901,6 +25903,8 @@
     "Yilmaz & Yilmaz (2023b)": "Yilmaz & Yilmaz, 2023b",
     "Yilmaz & Yilmaz, 2023a": "Yilmaz & Yilmaz, 2023a",
     "Yilmaz & Yilmaz, 2023b": "Yilmaz & Yilmaz, 2023b",
+    "Yin & Wang (2017)": "Yin & Wang, 2017",
+    "Yin & Wang, 2017": "Yin & Wang, 2017",
     "Yin & Zeng (2025)": "Yin & Zeng, 2025",
     "Yin & Zeng, 2025": "Yin & Zeng, 2025",
     "Yin (1984)": "Yin, 1984",
@@ -39409,7 +39413,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
       ],
       "title": ""
     },
@@ -88743,6 +88748,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
@@ -185365,6 +185371,21 @@
       ],
       "title": ""
     },
+    "Simkin & Roychowdhury, 2003": {
+      "aliases": [
+        "Simkin & Roychowdhury, 2003",
+        "Simkin & Roychowdhury (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simkin & Roychowdhury, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+      ],
+      "title": ""
+    },
     "Simmonds & Webb, 2013": {
       "aliases": [
         "Simmonds & Webb, 2013",
@@ -215112,6 +215133,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md",
         "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md"
+      ],
+      "title": ""
+    },
+    "Yin & Wang, 2017": {
+      "aliases": [
+        "Yin & Wang, 2017",
+        "Yin & Wang (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Yin & Wang, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
       ],
       "title": ""
     },
