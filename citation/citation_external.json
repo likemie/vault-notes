@@ -7022,6 +7022,8 @@
     "Entwisle, 1987": "Entwisle, 1987",
     "Entwistle & Ramsden (1983)": "Entwistle & Ramsden, 1983",
     "Entwistle & Ramsden, 1983": "Entwistle & Ramsden, 1983",
+    "Eom & Fortunato (2011)": "Eom & Fortunato, 2011",
+    "Eom & Fortunato, 2011": "Eom & Fortunato, 2011",
     "Epperson & Schmuck (1963)": "Epperson & Schmuck, 1963",
     "Epperson & Schmuck, 1963": "Epperson & Schmuck, 1963",
     "Epstein (1970)": "Epstein, 1970",
@@ -12414,6 +12416,8 @@
     "Kazu et al., 2022": "Kazu et al., 2022",
     "Kaçar et al. (2021)": "Kaçar et al., 2021",
     "Kaçar et al., 2021": "Kaçar et al., 2021",
+    "Ke et al. (2015)": "Ke et al., 2015",
+    "Ke et al., 2015": "Ke et al., 2015",
     "Keane & Wu (2021)": "Keane & Wu, 2021",
     "Keane & Wu, 2021": "Keane & Wu, 2021",
     "Keany (2011)": "Keany, 2011",
@@ -16748,6 +16752,8 @@
     "Mukawa, 2006": "Mukawa, 2006",
     "Mukerjee (2002)": "Mukerjee, 2002",
     "Mukerjee, 2002": "Mukerjee, 2002",
+    "Mukherjee et al. (2017)": "Mukherjee et al., 2017",
+    "Mukherjee et al., 2017": "Mukherjee et al., 2017",
     "Mulford (2007)": "Mulford, 2007",
     "Mulford, 2007": "Mulford, 2007",
     "Mullaney (2010)": "Mullaney, 2010",
@@ -20425,6 +20431,8 @@
     "Ryle, 1949": "Ryle, 1949",
     "Réka Albert (1999)": "Réka Albert, 1999",
     "Réka Albert, 1999": "Réka Albert, 1999",
+    "Rényi (1959)": "Rényi, 1959",
+    "Rényi, 1959": "Rényi, 1959",
     "Révai & Guerriero (2017)": "Révai & Guerriero, 2017",
     "Révai & Guerriero, 2017": "Révai & Guerriero, 2017",
     "Révai & Mouthaan (2023)": "Révai & Mouthaan, 2023",
@@ -21264,6 +21272,8 @@
     "Seferian, 2021": "Seferian, 2021",
     "Segers (2005)": "Segers, 2005",
     "Segers, 2005": "Segers, 2005",
+    "Seglen (1997)": "Seglen, 1997",
+    "Seglen, 1997": "Seglen, 1997",
     "Seidel & Kelle (1995)": "Seidel & Kelle, 1995",
     "Seidel & Kelle, 1995": "Seidel & Kelle, 1995",
     "Seidel & Shavelson (2007a)": "Seidel & Shavelson, 2007a",
@@ -24764,6 +24774,7 @@
     "Wang (2023)": "Wang, 2023",
     "Wang Tianyi (1982)": "Wang Tianyi, 1982",
     "Wang Tianyi, 1982": "Wang Tianyi, 1982",
+    "Wang et al. (2013)": "Wang et al., 2013",
     "Wang et al. (2014a)": "Wang et al., 2014a",
     "Wang et al. (2014b)": "Wang et al., 2014b",
     "Wang et al. (2016a)": "Wang et al., 2016a",
@@ -24778,6 +24789,7 @@
     "Wang et al. (2023)": "Wang et al., 2023",
     "Wang et al. (2024a)": "Wang et al., 2024a",
     "Wang et al. (2024b)": "Wang et al., 2024b",
+    "Wang et al., 2013": "Wang et al., 2013",
     "Wang et al., 2014": "Wang et al., 2014a",
     "Wang et al., 2014a": "Wang et al., 2014b",
     "Wang et al., 2014b": "Wang et al., 2014b",
@@ -26725,6 +26737,8 @@
     "平克, 2011": "平克, 2011",
     "库恩 (1962)": "库恩, 1962",
     "库恩, 1962": "库恩, 1962",
+    "库珀与施里弗 (1957)": "库珀与施里弗, 1957",
+    "库珀与施里弗, 1957": "库珀与施里弗, 1957",
     "康奈尔 (2014)": "康奈尔, 2014",
     "康奈尔, 2014": "康奈尔, 2014",
     "康娜和蔡立佳 (2016)": "康娜和蔡立佳, 2016",
@@ -27130,6 +27144,8 @@
     "陈向明, 2000": "陈向明, 2000",
     "陈汉才 (1981)": "陈汉才, 1981",
     "陈汉才, 1981": "陈汉才, 1981",
+    "雷尼 (1959)": "雷尼, 1959",
+    "雷尼, 1959": "雷尼, 1959",
     "霍尔与泰勒 (1996)": "霍尔与泰勒, 1996",
     "霍尔与泰勒, 1996": "霍尔与泰勒, 1996",
     "霍耐特 (1996)": "霍耐特, 1996",
@@ -78395,6 +78411,22 @@
       ],
       "title": ""
     },
+    "Eom & Fortunato, 2011": {
+      "aliases": [
+        "Eom & Fortunato, 2011",
+        "Eom & Fortunato (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Eom & Fortunato, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
+      ],
+      "title": ""
+    },
     "Epperson & Schmuck, 1963": {
       "aliases": [
         "Epperson & Schmuck, 1963",
@@ -88711,6 +88743,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -88726,6 +88759,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -117666,6 +117700,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effect of Inquiry-Based Learning on Academic Success: A Meta-Analysis Study."
+    },
+    "Ke et al., 2015": {
+      "aliases": [
+        "Ke et al., 2015",
+        "Ke et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ke et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+      ],
+      "title": ""
     },
     "Keane & Wu, 2021": {
       "aliases": [
@@ -148846,6 +148895,21 @@
       "seen_in": [],
       "title": "Promoting Young Children's Literacy through Teacher-Friendly Book Reading Procedures"
     },
+    "Mukherjee et al., 2017": {
+      "aliases": [
+        "Mukherjee et al., 2017",
+        "Mukherjee et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mukherjee et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+      ],
+      "title": ""
+    },
     "Mulford, 2007": {
       "aliases": [
         "Mulford, 2007",
@@ -175807,6 +175871,21 @@
       ],
       "title": ""
     },
+    "Rényi, 1959": {
+      "aliases": [
+        "Rényi, 1959",
+        "Rényi (1959)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rényi, 1959"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
+      ],
+      "title": ""
+    },
     "Révai & Guerriero, 2017": {
       "aliases": [
         "Révai & Guerriero, 2017",
@@ -181922,6 +182001,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Long-term effects of computer training of phonological awareness in kindergarten"
+    },
+    "Seglen, 1997": {
+      "aliases": [
+        "Seglen, 1997",
+        "Seglen (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Seglen, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+      ],
+      "title": ""
     },
     "Seidel & Kelle, 1995": {
       "aliases": [
@@ -206957,6 +207051,21 @@
       ],
       "title": ""
     },
+    "Wang et al., 2013": {
+      "aliases": [
+        "Wang et al., 2013",
+        "Wang et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wang et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+      ],
+      "title": ""
+    },
     "Wang et al., 2014a": {
       "aliases": [
         "Wang et al., 2014a",
@@ -220914,6 +221023,21 @@
       ],
       "title": ""
     },
+    "库珀与施里弗, 1957": {
+      "aliases": [
+        "库珀与施里弗, 1957",
+        "库珀与施里弗 (1957)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "库珀与施里弗, 1957"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
+      ],
+      "title": ""
+    },
     "康奈尔, 2014": {
       "aliases": [
         "康奈尔, 2014",
@@ -223936,6 +224060,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md",
         "wiki/persons/china/Tao Xingzhi.md"
+      ],
+      "title": ""
+    },
+    "雷尼, 1959": {
+      "aliases": [
+        "雷尼, 1959",
+        "雷尼 (1959)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "雷尼, 1959"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
       ],
       "title": ""
     },

@@ -16997,6 +16997,19 @@
     ]
   },
   {
+    "title": "Sleeping Beauty in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
+    "aliases": [
+      "科学中的睡美人现象",
+      "睡美人现象",
+      "睡美人文献",
+      "延迟认可",
+      "Sleeping Beauties",
+      "Delayed Recognition"
+    ]
+  },
+  {
     "title": "Small-World Quotient",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Small-World Quotient.md",
@@ -22319,6 +22332,19 @@
     ]
   },
   {
+    "title": "WSB Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/WSB Model.md",
+    "aliases": [
+      "WSB模型",
+      "WSB引文模型",
+      "WSB引文动力学模型",
+      "Wang-Song-Barabási Model",
+      "Wang-Song-Barabasi Model",
+      "Minimal Citation Model"
+    ]
+  },
+  {
     "title": "Bacchi's WPR Approach",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
@@ -25448,6 +25474,17 @@
       "代表作共现概率矩阵",
       "Hit Co-location Matrix",
       "Joint Probability Distribution of Hits"
+    ]
+  },
+  {
+    "title": "Journal Impact Factor",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Journal Impact Factor.md",
+    "aliases": [
+      "期刊影响因子",
+      "影响因子",
+      "Impact Factor",
+      "JIF"
     ]
   },
   {
@@ -46207,6 +46244,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit08",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",
