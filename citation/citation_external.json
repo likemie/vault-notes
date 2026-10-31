@@ -741,11 +741,9 @@
     "American Psychological Association (1973)": "American Psychological Association, 1973",
     "American Psychological Association (2002)": "American Psychological Association, 2002",
     "American Psychological Association (2016)": "American Psychological Association, 2016",
-    "American Psychological Association (2020)": "American Psychological Association, 2020",
     "American Psychological Association, 1973": "American Psychological Association, 1973",
     "American Psychological Association, 2002": "American Psychological Association, 2002",
     "American Psychological Association, 2016": "American Psychological Association, 2016",
-    "American Psychological Association, 2020": "American Psychological Association, 2020",
     "American Sociological Association (1999)": "American Sociological Association, 1999",
     "American Sociological Association, 1999": "American Sociological Association, 1999",
     "Ames & Rosemont (1998)": "Ames & Rosemont, 1998",
@@ -10623,8 +10621,6 @@
     "Hippel et al., 2007": "Hippel et al., 2007",
     "Hirai (2024)": "Hirai, 2024",
     "Hirai, 2024": "Hirai, 2024",
-    "Hirose & Creswell (2022)": "Hirose & Creswell, 2022",
-    "Hirose & Creswell, 2022": "Hirose & Creswell, 2022",
     "Hirsch (1988)": "Hirsch, 1988",
     "Hirsch (2005)": "Hirsch, 2005",
     "Hirsch (2007)": "Hirsch, 2007",
@@ -25470,10 +25466,8 @@
     "Witt et al., 2004b": "Witt et al., 2004b",
     "Witt, 1993": "Witt, 1993",
     "Witt, 2004": "Witt, 2004",
-    "Witte (2011)": "Witte, 2011",
     "Witte et al. (1999)": "Witte et al., 1999",
     "Witte et al., 1999": "Witte et al., 1999",
-    "Witte, 2011": "Witte, 2011",
     "Wittgenstein (1974)": "Wittgenstein, 1974",
     "Wittgenstein, 1974": "Wittgenstein, 1974",
     "Wittwer & Renkl (2010)": "Wittwer & Renkl, 2010",
@@ -32509,21 +32503,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
-      ],
-      "title": ""
-    },
-    "American Psychological Association, 2020": {
-      "aliases": [
-        "American Psychological Association, 2020",
-        "American Psychological Association (2020)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "American Psychological Association, 2020"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Abstract.md"
       ],
       "title": ""
     },
@@ -104841,21 +104820,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of study abroad duration and predeparture proficiency on the L2 proficiency of Japanese university students: A meta-analysis approach."
-    },
-    "Hirose & Creswell, 2022": {
-      "aliases": [
-        "Hirose & Creswell, 2022",
-        "Hirose & Creswell (2022)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hirose & Creswell, 2022"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Abstract.md"
-      ],
-      "title": ""
     },
     "Hirsch, 1988": {
       "aliases": [
@@ -212155,21 +212119,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Internet-based Survey.md"
-      ],
-      "title": ""
-    },
-    "Witte, 2011": {
-      "aliases": [
-        "Witte, 2011",
-        "Witte (2011)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Witte, 2011"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Abstract.md"
       ],
       "title": ""
     },

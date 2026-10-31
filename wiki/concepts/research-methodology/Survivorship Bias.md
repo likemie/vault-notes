@@ -46,7 +46,7 @@ updated: 2026-10-31
 > *The correct strategy should be doing exactly the opposite: applying armor to areas where bullet holes weren’t recorded. After all, all the data comes from planes that successfully returned to the base... Given that our current understanding of science has been derived almost exclusively from successful stories, are we certain that the conclusions we’ve come to don’t require major corrections?*
 
 > [!boundary]- 概念边界
-> - 不等于选择偏差（Selection Bias） 选择偏差是统计学上位概念，涵盖自选择、无应答与测量抽样等偏差；幸存者偏差特指因样本经历“淘汰生存”筛选过程所致的单向存留偏误。
+> - 不等于选择偏差（Selection Bias） 选择偏差是统计学上位概念，涵盖自选择、无应答与测量抽样等偏差；幸存者偏差特指因样本经历淘汰生存筛选过程所致的单向存留偏误。
 > - 不等于 [[Publication Bias]] 发表偏倚聚焦学术期刊对显著正向研究结果的出版偏向；幸存者偏差涵盖课题资助申请、学者学术生涯留存与专利授权等全链条失败样本的隐匿。
 
 ---
@@ -56,14 +56,14 @@ updated: 2026-10-31
 > |---|---|---|---|
 > | **数据生成机制** | 经历竞争或自然淘汰后仅可见成功存续者 | 期刊编辑与审稿人偏好接收统计显著的正面结果 | 追踪实验中部分受试者非随机退出导致组间失衡 |
 > | **样本遗漏类型** | 未返航战机、被拒资助申请、离开学术界的学者 | 零结果或负向效应的研究报告、未投递的手稿 | 后测阶段失访的干预组或对照组受试对象 |
-> | **典型应对策略** | 采集全量申请档案并结合准实验反事实设计 | 建立试验预注册库与漏斗图剪补法校正 | 意向治疗分析（ITT）与逆概率加权补齐 |
+> | **典型应对策略** | 采集全量申请档案并结合准实验反事实设计 | 建立试验预注册库与漏斗图剪补法校正 | 意向治疗分析（Intention-to-Treat, ITT）与逆概率加权补齐 |
 
 ---
 
 > [!feature] 核心要素
 > - **样本可见性非对称** 处于终态的可见数据池由胜出样本主导，淘汰样本的物理轨迹或原始记录在常规数据源中缺失（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 242]]）。
 > - **因果推断反转风险** 忽视未存活个体的致命特征会导致归因逻辑倒错，误将承受非致命打击的表征当作决定生存的关键优势（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 242–243]]）。
-> - **全口径底表穿透要求** 克服偏倚需要打通全量过程数据，例如结合美国专利商标局（USPTO）18 个月全公开申请库以及美国国立卫生研究院（NIH）未获资助申请底表，重建完整的创造与淘汰管线（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 243]]）。
+> - **全口径底表穿透要求** 克服偏倚需要打通全量过程数据，例如结合美国专利商标局（United States Patent and Trademark Office, USPTO）全量公开申请库以及美国国家卫生研究院（National Institutes of Health, NIH）未获资助申请底表，重建完整的创造与淘汰管线（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 243]]）。
 
 > [!logic-map]- 幸存者偏差发生与纠偏机制
 > ```mermaid
