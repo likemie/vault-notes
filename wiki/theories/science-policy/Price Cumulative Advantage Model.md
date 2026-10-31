@@ -10,7 +10,7 @@ aliases:
 summary: "由 Derek de Solla Price (1976) 提出的科学引文网络演化动力学理论；首次将波利亚罐子随机过程与文献指数增长相结合，证明成果获取新引用的概率正比于既有被引存量（Π ∝ c + 1），在数学上严格推导出无标度幂律引文分布（度指数 γ = 2 + 1/m），从微观动力学层面揭示了学术界极端引文差距的起源与先发时序优势机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
@@ -127,7 +128,7 @@ updated: 2026-10-31
 >
 > **应用实例** 在自然科学与社会科学各门类数据库中，绝大部分论著获得的引用次数不足数次，而极少数核心文献斩获成千上万次引用；普赖斯模型证明这种惊人的引文极化无需引入复杂的个体心理学假设，增长与优先连接本身便足以在宏观上自发生成超级明星成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 185–186)]]
 >
-> **引文复制与优先连接的微观起源** 严希范与圣托·福图纳托（Eom & Fortunato, 2011）拓展了基础吸引力设定，将概率方程推广为 $\Pi_i = \frac{c_i + c_0}{\sum_j (c_j + c_0)}$，实测发现临界门槛 $c_0 \approx 7$。成果在 $c < c_0$ 时获引主要取决于外生随机性，越过 7 次被引后富者愈富机制方全面展开，对应渐近度指数 $\gamma = 2 + c_0/m \approx 3$。在行为机制层面，米哈伊尔·辛金（Mikhail Simkin）与瓦尼·罗乔杜里（Vwani Roychowdhury）提出的引文复制过程证明，学者无需统计全网引文存量，仅需在阅读文献时依概率顺藤摸瓜引用既有文献的参考文献，这种基于局部信息的复制行为便必然在宏观上演化出优先连接；多篇后续论著重复继承特定论文印刷错误（如约翰·佩尔杜 1992 年成果页码排印错误在后续数十篇文献中原样出现）为引文复制行为提供了直接经验证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 257–261)]]
+> **引文复制与优先连接的微观起源** 严希范与圣托·福图纳托（Eom & Fortunato, 2011）拓展了基础吸引力设定，将概率方程推广为 $\Pi_i = \frac{c_i + c_0}{\sum_j (c_j + c_0)}$，实测发现临界门槛 $c_0 \approx 7$。成果在 $c < c_0$ 时获引主要取决于外生随机性，越过 7 次被引后富者愈富机制方全面展开，对应渐近度指数 $\gamma = 2 + c_0/m \approx 3$。在行为机制层面，米哈伊尔·辛金（Mikhail Simkin）与瓦尼·罗乔杜里（Vwani Roychowdhury）提出的引文复制过程证明，学者无需统计全网引文存量，仅需在阅读文献时依概率顺藤摸瓜引用既有文献的参考文献，这种基于局部信息的复制行为便必然在宏观上演化出优先连接；多篇后续论著重复继承特定文献印刷错误（如约翰·佩尔杜 1992 年成果页码排印错误在后续数十篇文献中原样出现）为引文复制行为提供了直接经验证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 257–261)]]
 
 > [!theory-proposition] 命题二｜纯累积优势动力学内生导致早期进入文献的不可逆先发优势
 > **解释** 普赖斯模型的微观微分方程解为 $c_i(t) = (t / t_i)^\beta - 1$（其中 $\beta = \frac{m}{m+1}$）。该闭式解表明，一项成果在未来特定时点 $t$ 的累积被引量严格受制于其进入网络的时序节点 $t_i$。在所有成果具有均质被引潜力的假定下，早进入网络的一批文献凭借先占核心枢纽节点，在随后长达数十年文献规模呈指数膨胀的过程中持续享有优先连接的累积复利，使得后发成果在引文积累上永远无法跨越由时间差造成的拓扑差距。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 186)]]
@@ -182,4 +183,4 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang & Barabási (2021)]] — 系统阐明普赖斯模型结合文献增长与优先连接解释引文差距的数学机制，引入 Newman (2009) 新兴学科实测确证先发优势，并以此为理论基点引出适应度模型。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang & Barabási (2021)]] — 结合增长与优先连接阐释引文差距及先发优势；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 补充引文复制机制与门槛（$c_0 \approx 7$）。

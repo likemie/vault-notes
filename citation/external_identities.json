@@ -54609,12 +54609,21 @@
       "seen_in": [],
       "title": "The Effect of Inquiry-Based Learning on Academic Success: A Meta-Analysis Study."
     },
+    "Ke & Barabási, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/WSB Model.md"
+      ],
+      "title": ""
+    },
     "Ke et al., 2015": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
+        "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
+        "wiki/theories/science-policy/WSB Model.md"
       ],
       "title": ""
     },
@@ -75693,8 +75702,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
-        "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
-        "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
+        "wiki/concepts/science-policy/First-Mover Advantage in Academia.md"
       ],
       "title": ""
     },
@@ -108843,7 +108851,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/theories/science-policy/WSB Model.md"
       ],
       "title": ""
     },

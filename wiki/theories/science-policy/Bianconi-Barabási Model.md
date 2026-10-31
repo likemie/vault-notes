@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ginestra Bianconi 与 Albert-László Barabási (2001) 提出的复杂网络演化动力学理论；将成果内生适应度引入优先连接过程，确立引文吸附概率与既有连接数和适应度的乘积成正比（Π ∝ η · c），合理解释了高适应度后来者成果反超早期文献的机制，并在微观适应度服从有界高斯正态分布时自然推导出全局对数正态引文分布。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_persons:
   - "[[Dashun Wang]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
@@ -95,6 +96,7 @@ updated: 2026-10-31
 > - **2001 — 玻色-爱因斯坦凝聚相变发现** 证明当适应度分布尾部具备特定指数形式时，系统会出现赢者通吃的极端凝结相变，单个具有极限高适应度的超级节点吸附全网绝大部分连线。
 > - **2013 — 引文长期动力学实证与对数正态统一** [[Dashun Wang|王大顺]]、宋超明（Chaoming Song）与巴拉巴西结合引文休眠与时效衰减机制，通过大规模成果引文轨迹实证拟合证实单篇成果的适应度服从正态分布，从而严密推导出宏观引文分布的对数正态形式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
 > - **2021 — 科学学实证综合与动力学机制确立** [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] 系统整合新兴学科引文队列与超导微观理论（BCS 理论）个案，确立了边康尼-巴拉巴西模型作为解释引文反超与宏观普适分布的基石地位。
+> - **2021 — 终极影响极限与期刊声誉消退定理** 王大顺与巴拉巴西基于动力学极限推导证明，当演化时间趋于无穷时，成果终极累积被引 $c_\infty = m(e^\lambda - 1)$ 仅由内生相对适应度 $\lambda$ 唯一决定，证实长程学术价值取决于内在质量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 214–217)]]
 
 ---
 
@@ -206,4 +208,4 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 依托物理学 BCS 理论反超事实与全学科文献计量大数据，确立边康尼-巴拉巴西模型在引文反超与对数正态分布推导中的核心动力学机制。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 依托 BCS 理论反超事实确立适应度动力学机制；并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 证明长程终极影响仅由相对适应度支配。

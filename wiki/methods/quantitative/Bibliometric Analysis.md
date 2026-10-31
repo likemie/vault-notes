@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -85,9 +86,9 @@ updated: 2026-10-31
 > - **不声称回答的问题** 不能仅凭被引频次高低直接推断单篇文献的内在真理性或方法严谨性，也不能从共引关联直接确立两派学者之间存在直接的思想师承[[Causality|因果关系]]。
 
 > [!method-stack] 方法层级
-> - **研究设计** 描述性文献计量调查、共被引网络拓扑分析、知识图谱测绘、跨时期比较研究。
+> - **研究设计** 描述性文献计量调查、共被引网络拓扑分析、知识图谱测绘、跨时期比较研究、时序引文动力学建模。
 > - **数据收集** Web of Science 核心合集、Scopus、Dimensions、PubMed 等标准化引文数据库全记录导出，以及预印本与专利数据库采集。
-> - **分析方法** 频次统计与增长率测算、布拉德福文献离散分析、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）及社区发现聚类算法（如 Louvain 算法、InfoMap）。
+> - **分析方法** 频次统计与增长率测算、布拉德福文献离散分析、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）、社区发现聚类算法（如 Louvain 算法、InfoMap），以及引文年龄分布测算（Citation Age Analysis）与知识热点四象限分析（Knowledge Hotspots）。
 > - **辅助技术** 关键词同义词映射与停用词清洗、学者同名异义消歧算法、网络节点度与中介中心度计算、VOSviewer 与 CiteSpace 拓扑可视化。
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-31
 > [!method-stack] 数据与[[Variable|变量]]
 > - **数据结构** 纵向时间序列文献题录数据、非对称引文有向网络、对称共引/共词无向加权网络。
 > - **样本与单位** 经检索式筛选的全部目标成果记录；分析单位为单篇论著、学者、机构或关键词。
-> - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、相对引文影响因子、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。
+> - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、相对引文影响因子、参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。
 
 ---
 
@@ -136,4 +137,4 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 基于跨世纪全量科技引文大数据测定科研生产力分布（Unit 01），反思发表成果对流产团队的幸存者盲区（Unit 05），并运用全量引文网络解构文献指数扩张律、[[Citation Disparity|引文差距]]与跨学科[[Relative Citation Normalization|相对引文标准化]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 161–181]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 测定科研生产力分布（Unit 01），反思流产团队幸存者盲区（Unit 05），解构引文差距与相对标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 建立引文动力学模型与知识热点架构。

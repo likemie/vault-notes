@@ -268,8 +268,8 @@ Total entries: **269**
 > - [[Social Contract of Science]] — 社会整体与科学共同体之间围绕知识生产的公共价值形成的权利与责任结构性配置框架，核心涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构五个分析维度
 > - [[Team Assembly Model]] — 解释科研与创意团队如何从资深成员与新手组成的候选池中吸纳成员的生成性网络演化模型；通过资历参数与多样性参数量化团队成员经验累积与重复合作倾向，阐释合著网络巨连通分支的涌现机制，以及资深经验与新鲜思维配比对团队创新绩效的决定性作用。
 > - [[Three Generations of Mission-Oriented Policy]] — 由莱纳·卡特尔与玛丽安娜·马祖卡托提出的创新政策演进理论，借鉴尼采精神三变隐喻，系统梳理使命政策从后发追赶的社会经济奠基（骆驼）、冷战大科学的技术攻关（狮子）到应对重大社会挑战的敏捷实验型社会-技术转型（儿童）三个历史代际的演进规律与组织能力要求。
-> - [[Universality of Citation Distributions]] — 由 Filippo Radicchi、Santo Fortunato 与 Claudio Castellano (2008) 提出的科学计量学与科学学核心理论；指出各学科原始引文规模虽因学科体量与引用传统存在数个数量级的差异，但通过本领域同年度篇均引文进行相对标准化（cf = c / ⟨c⟩）后，不同学科的引文概率分布均坍缩至同一条具有普适性的对数正态分布曲线，确立了跨学科客观评价学术影响力的数理基准。
-> - [[WSB Model]] — 由 Dashun Wang、Chaoming Song 与 Albert-László Barabási (2013) 提出的单篇学术文献引文动力学最小模型；系统整合科学文献指数增长、优先连接、内生适应度与对数正态衰老机制，推导出单篇成果累积被引轨迹的封闭解析解与跨学科普适标度律，证明长程终极影响仅由相对适应度决定。
+> - [[Universality of Citation Distributions]] — 由 Filippo Radicchi、Santo Fortunato 与 Claudio Castellano (2008) 提出的科学计量学与科学学核心理论；指出各学科原始引文规模虽因学科体量与引用传统存在数个数量级的差异，但通过本领域同年度篇均引文进行相对标准化（cf = c / ⟨c⟩）后，不同学科的引文概率分布均坍缩至同一条具有普适性的对数正态分布曲线，而在动态重标度下更进一步塌缩至统一轨迹主曲线（Wang & Barabási, 2021）。
+> - [[WSB Model]] — 由 Dashun Wang、Chaoming Song 与 Albert-László Barabási (2013) 提出的单篇文献引文动力学最小模型；系统整合文献指数增长、优先连接、内生适应度与对数正态衰老，推导出累积被引轨迹的封闭解析解与跨学科普适主曲线，证明成果长程终极影响仅由相对适应度支配（Wang & Barabási, 2021）。
 
 > [!index-list]- Sociology of Education (21)
 > - [[Bacchi's WPR Approach]] — Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。
