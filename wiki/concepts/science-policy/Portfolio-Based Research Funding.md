@@ -99,8 +99,6 @@ updated: 2026-10-31
 
 ---
 
-## 核心理论命题
-
 > [!concept-proposition] 命题一｜缺乏主动配置与实证反馈的科研资助体系会将既得利益惯性误认为国家战略优先序
 > **探讨维度　偶然组合与[[Path Dependence|路径依赖]]** 剖析联邦科研资助若仅依赖传统院系面板评审与上一年度历史基数，为何必然导致资助流向固化与系统性学术避险。
 
@@ -121,26 +119,15 @@ updated: 2026-10-31
 > **探讨维度　机制设计与科学治理实证化** 探讨如何通过引入非共识选拔工具与受控政策实验，识别并扶持真正具备颠覆性潜力的突破性科学。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **多元选拔与[[Metascience|元科学]]实验确证假说** 传统同行评议在识别劣质研究上极为有效，但在面对颠覆性、非共识成果时往往因过度折衷妥协而扼杀真正创新。组合式资助框架基于机制设计理论引入多元选拔通道：通过“[[Golden Ticket Mechanism|金券机制]]”打破群体平庸共识，通过为期七年千万美元级的“对人资助”赋予拔尖科学家充分的[[Academic Freedom|学术自由]]。更关键的是，资助机构必须设立具有法定授权的[[Metascience|元科学]]部门，通过开展[[Randomised Controlled Trials|随机对照试验]]（如对比盲审、金券制与打分制的产出质量）以[[Scientific Method|科学方法]]评估资助政策本身，建立自我纠错与动态优化的国家科研治理闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]
+> **多元选拔与[[Metascience|元科学]]实验确证假说** 传统同行评议在识别劣质研究上极为有效，但在面对颠覆性、非共识成果时往往因过度折衷妥协而扼杀真正创新。组合式资助框架基于机制设计理论引入多元选拔通道：通过“[[Golden Ticket Mechanism|金券机制]]”打破群体平庸共识，通过为期七年千万美元级的“对人资助”赋予拔尖科学家充分的[[Academic Freedom|学术自由]]。更关键的是，资助机构必须设立具有法定授权的[[Metascience|元科学]]部门，通过开展[[Randomised Controlled Trials|随机对照试验]]（如对比盲审、金券制与打分制的产出质量）以[[Scientific Method|科学方法]]评估资助政策本身，建立自我纠错与动态优化的国家科研治理回路。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]
 
 ---
 
-> [!empirical-divider]
+> [!concept-proposition] 命题四｜借鉴金融投资组合逻辑实行全域风险吸收与对人资助是打破学术从众扎堆的关键解法
+> **探讨维度　系统性风险对冲与容错资助** 探讨如何借鉴现代金融资产组合分散风险的原理，在宏观资助组合层面吸收高风险未知探索的失败成本。
 
-> [!ref-table]- 组合式科研资助实证数据
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究[[Document\|文献]] | 样本与情境 | 研究设计与指标 | 原始实证结果 | 理论解释边界 |
-> |:---|:---|:---|:---|:---|
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 20)]] | 美国联邦年度研发支出与资助机构网络 | 宏观预算计量与资助组合结构分析 | 联邦机构每年分配研发经费逾 2,000 亿美元，但传统单课题组项目制占据绝对支配地位 | 确立了组合式配置的宏观体量基数，揭示单一模式无法适配复杂国家创新需求的结构性矛盾 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 27)]] | 霍华德·休斯医学研究所（HHMI）长期对人资助学者与联邦 [[National Institutes of Health\|NIH]] 资助对照组 | 准实验因果对比分析（产出质量与新颖性） | 获得长周期、免考核“对人资助”的学者，产出高影响标志性论文的概率接近对照组的 2 倍（200%），且更倾向开辟全新前沿路线 | 实证检验了“对人资助”作为组合核心机制在激发突破性创新与承担高风险上的显著优势 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 32)]] | [[United Kingdom Metascience Unit\|英国元科学单元]]（UK Metascience Unit, 2024–2025） | 资助选拔机制[[Randomised Controlled Trials\|随机对照试验]]与一致性检验 | 成立首年即完成分布式同行评议、部分[[Random Assignment\|随机化资助]]（Lottery Funding）与跨专家评审一致性实证评估 | 证实国家设立专职[[Metascience\|元科学]]部门开展循证[[Mechanism Experiments\|机制实验]]对于优化资助组合的实操可行性与政策效能 |
-
-> [!example] 典型制度实践案例
-> - **挪威国家研究理事会（Research Council of Norway）的主题与学科双重组合管理**
->   挪威国家研究理事会将公共科研经费划分为国家长期战略优先主题组合与自由探索学科组合，定期根据产业需求与前沿进展调整预算配比，为组合式资助的宏观运作提供了跨国参照案例。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 9)]]
-> - **白宫 2028 财年联邦研发预算优先事项备忘录（2028 FY Budget Priority Memo）**
->   白宫 [[Office of Science and Technology Policy|OSTP]] 将组合式资助原则转化为刚性预算合规约束，要求各联邦部门在编制预算时必须量化说明基础探索、应用转化与技术制造在总组合中的百分比，并强制要求将经费向更早期阶段与机制创新倾斜。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 86–88)]]
+> [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
+> **投资组合容错与从单项目向对人资助转型** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人类科学家在知识网络中严重扎堆于少数中心实体周边的拥挤前沿，其根源在于个体学者必须独立承担未知探索失败导致的职业声誉与资助断流风险。解决之道在于科技资助机构借鉴现代金融投资组合策略：资助机构应在宏观资产组合层面吸收个别高风险实验的不可预测性，允许相当比例的探索性项目遭遇失败；在微观机制上，将评价重心由对单一项目的短期成败考核，转向对团队与科学家个人长周期能力的信任资助（fund people, not projects），为科研人员开拓外围广阔知识空白提供制度性安全网。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–230)]]
 
 ---
 
@@ -150,6 +137,7 @@ updated: 2026-10-31
 > | **治理诊断** | **偶然组合与在位者惯性打破** | 克服学科面板被动汇总与历史基数惯性，消除在位者垄断与青年学术避险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] |
 > | **认知权衡** | **[[Pasteur's Quadrant\|巴斯德象限]]与纯好奇探索平衡** | 协调战略用途驱动攻坚与深厚迷雾自由搜索，持续充实国家公共知识蓄水池 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
 > | **机制设计** | **多元选拔与[[Metascience\|元科学]]实验确证** | 引入金券、对人资助与[[Pull Mechanisms for Innovation\|拉动机制]]，依托元科学[[Randomised Controlled Trials\|随机对照实验]]实现机制自我纠错 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | **风险对冲** | **金融组合逻辑与对人容错资助** | 借鉴金融组合策略在系统大盘吸收失败风险，资助人而非项目以对冲学术避险 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
 
 ---
 
@@ -158,6 +146,7 @@ updated: 2026-10-31
 > - **1950s–1980s — 分散同行评议竞争资助体系的确立与成熟** [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]] 确立直接面向大学教师竞争性下拨课题的同行评审体制，极大激发了科研产出，但也逐步固化为对大学单课题组的[[Path Dependence|路径依赖]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **1990s — [[Pasteur's Quadrant|巴斯德象限]]提出打破基础与应用二分法** [[Donald Stokes|唐纳德·斯托克斯]]提出[[Pasteur's Quadrant|巴斯德象限]]理论，论证由应用启发同时探究根本机理的研究范式，为资助组合的多样化提供了[[Epistemology|认识论]]基础。
 > - **2000s–2010s — 学术避险危机与对人资助机制试验** 随着资助成功率持续走低与学者年龄老化，科学界反思同行评议的保守倾向；HHMI 与 NIH 先锋奖等长周期“对人资助”模式展现出卓越的突破性创新激发效应。[[Argument_Stephan_2013_NBER|(Stephan, 2013)]]
+> - **2021 — 科学学确立科研投资组合与风险对冲框架** 王大顺与巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021]]）系统构建拥挤前沿网络动力学模型，实证确证微观避险导致的 10 倍探索效能差距，正式提出借鉴金融资产组合策略实行全系统风险对冲、由项目资助转向对人资助的治理机制。
 > - **2024 — [[United Kingdom Metascience Unit|英国元科学单元]]成立开启资助机制实证检验** [[United Kingdom Metascience Unit|英国元科学单元]]正式将[[Randomised Controlled Trials|随机对照实验]]引入国家科研基金评审与分配机制评估。
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》确立国家组合式科研资助战略** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）主持起草报告，正式提出构建涵盖多元工具、新型组织（如 [[Focused Research Organization|FRO]]）、巴斯德象限与[[Metascience|元科学]] RCT 的国家组合式科研资助战略，并纳入 2028 财年预算强制合规科目。
 
@@ -172,6 +161,24 @@ updated: 2026-10-31
 > > - **组合战略配置派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 指出缺乏顶层组合设计的体系绝非“纯粹自由”，而是被在位者利益与保守共识俘获的“偶然组合”；国家必须主动配置工具与组织生态，在确保纯好奇探索空间的同时保障关键重大工程瓶颈的集中攻坚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–31)]]
 >
 > > [!axis] 单一同行评议共识 vs 机制设计多元化与部分[[Random Assignment|随机化]]
+> > 争论匿名专家同行评议是否仍是科研项目选拔的黄金标准，还是应当引入金券制、快速通道乃至部分摇号抽签。
+> >
+> > - **同行评议把关派** 坚持学术共同体内部的匿名专家评审是维护学术卓越与学科质量的唯一可靠防线，引入金券或随机抽签可能导致公共财政资金的浪费与不公。
+> > - **机制设计与[[Metascience|元科学]]创新派** 论证指出同行评议在识别平庸时高度有效但在选拔颠覆性非共识成果时系统性失灵；必须通过机制设计试验赋予专家单票否决共识的权力，并通过元科学 [[Randomised Controlled Trials|RCT]] 实证检验不同工具的真实产出效能。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31)]]
+
+---
+
+> [!empirical-divider]
+
+> [!ref-table]- 组合式科研资助实证数据
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究[[Document\|文献]] | 样本与情境 | 研究设计与指标 | 原始实证结果 | 理论解释边界 |
+> |:---|:---|:---|:---|:---|
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 20)]] | 美国联邦年度研发支出与资助机构网络 | 宏观预算计量与资助组合结构分析 | 联邦机构每年分配研发经费逾 2,000 亿美元，但传统单课题组项目制占据绝对支配地位 | 确立了组合式配置的宏观体量基数，揭示单一模式无法适配复杂国家创新需求的结构性矛盾 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 27)]] | 霍华德·休斯医学研究所（HHMI）长期对人资助学者与联邦 [[National Institutes of Health\|NIH]] 资助对照组 | 准实验因果对比分析（产出质量与新颖性） | 获得长周期、免考核“对人资助”的学者，产出高影响标志性论文的概率接近对照组的 2 倍（200%），且更倾向开辟全新前沿路线 | 实证检验了“对人资助”作为组合核心机制在激发突破性创新与承担高风险上的显著优势 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 32)]] | [[United Kingdom Metascience Unit\|英国元科学单元]]（UK Metascience Unit, 2024–2025） | 资助选拔机制[[Randomised Controlled Trials\|随机对照试验]]与一致性检验 | 成立首年即完成分布式同行评议、部分[[Random Assignment\|随机化资助]]（Lottery Funding）与跨专家评审一致性实证评估 | 证实国家设立专职[[Metascience\|元科学]]部门开展循证[[Mechanism Experiments\|机制实验]]对于优化资助组合的实操可行性与政策效能 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] | 生物医学文献化学网络与科研探索模拟（1983–2008） | 500 次独立探索策略仿真与发表偏倚元科学纵向调查 | 科学家从众聚集度与全局最优探索策略效率比 | 全局最优探索策略揭示半数拓扑网络的效率接近纯随机探索策略的 10 倍，人类聚集策略效率显著更低；负面结果报告率从 30% 降至 14% | 证实单纯依赖单项目短期考核加剧学术扎堆，确立组合式风险对冲与对人资助的必要性 |
 > > 争论匿名专家同行评议是否仍是科研项目选拔的黄金标准，还是应当引入金券制、快速通道乃至部分摇号抽签。
 > >
 > > - **同行评议把关派** 坚持学术共同体内部的匿名专家评审是维护学术卓越与学科质量的唯一可靠防线，引入金券或随机抽签可能导致公共财政资金的浪费与不公。

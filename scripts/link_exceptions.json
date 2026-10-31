@@ -373,6 +373,18 @@
     {
       "sentence": "**分析对象** 机器人科学家亚当（Adam）针对酿酒酵母代谢模型的假说检验全流程、1983 年至 2008 年间数百万篇生物医学文献构建的百万级化学共现知识网络、国际蛋白质结构预测评估（Critical Assessment of Structure Prediction, CASP）、涵盖心理学可重复性项目（Reproducibility Project: Psychology, RPP）在内的跨学科可重复性评估队列，以及工业界算法招聘筛选案例。",
       "target": "wiki/concepts/educational-policy-reform/Research-Practice Partnership.md"
+    },
+    {
+      "sentence": "重大科学突破往往藏在最显眼的日常经验里，让机器自主做实验正是加速科学的突破口",
+      "target": "wiki/concepts/science-policy/Big Science.md"
+    },
+    {
+      "sentence": "设定酵母代谢形式化逻辑模型，机器人系统自主检索孤儿酶并在微孔板中开展菌株接种与光密度生长曲线测定 (King et al., 2009, pp.",
+      "target": "wiki/concepts/educational-policy-reform/Logic Model.md"
+    },
+    {
+      "sentence": "亚当（Adam）自主发现的生化孤儿酶编码基因虽然未见于早期文献，但其推理逻辑本质上深嵌于研究人员预先给定的形式化代谢逻辑模型与跨物种同源基因库中。",
+      "target": "wiki/concepts/educational-policy-reform/Logic Model.md"
     }
   ]
 }
