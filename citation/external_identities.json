@@ -5788,6 +5788,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/External Validity.md"
       ],
@@ -12648,8 +12649,10 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/concepts/educational-philosophy/Causality.md",
+        "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
-        "wiki/concepts/research-methodology/External Validity.md"
+        "wiki/concepts/research-methodology/External Validity.md",
+        "wiki/concepts/research-methodology/Internal Validity.md"
       ],
       "title": ""
     },
@@ -82379,6 +82382,14 @@
       ],
       "title": ""
     },
+    "Pierre Azoulay, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Scientific Method.md"
+      ],
+      "title": ""
+    },
     "Pierre Bourdieu, 2003": {
       "doi": "",
       "isbn": "",
@@ -108795,7 +108806,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Counterfactual.md",
-        "wiki/concepts/research-methodology/Survivorship Bias.md"
+        "wiki/concepts/research-methodology/Survivorship Bias.md",
+        "wiki/concepts/science-policy/Scientific Productivity.md"
       ],
       "title": ""
     },

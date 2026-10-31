@@ -18729,8 +18729,10 @@
     "Pieper et al., 2014": "Pieper et al., 2014",
     "Piercy (1997)": "Piercy, 1997",
     "Piercy, 1997": "Piercy, 1997",
+    "Pierre Azoulay (2012)": "Pierre Azoulay, 2012",
     "Pierre Azoulay et al. (2019)": "Pierre Azoulay et al., 2019",
     "Pierre Azoulay et al., 2019": "Pierre Azoulay et al., 2019",
+    "Pierre Azoulay, 2012": "Pierre Azoulay, 2012",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
@@ -36845,6 +36847,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/External Validity.md"
       ],
@@ -48235,8 +48238,10 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/concepts/educational-philosophy/Causality.md",
+        "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
-        "wiki/concepts/research-methodology/External Validity.md"
+        "wiki/concepts/research-methodology/External Validity.md",
+        "wiki/concepts/research-methodology/Internal Validity.md"
       ],
       "title": ""
     },
@@ -163462,6 +163467,21 @@
       ],
       "title": ""
     },
+    "Pierre Azoulay, 2012": {
+      "aliases": [
+        "Pierre Azoulay, 2012",
+        "Pierre Azoulay (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pierre Azoulay, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Scientific Method.md"
+      ],
+      "title": ""
+    },
     "Pierre Bourdieu, 2003": {
       "aliases": [
         "Pierre Bourdieu, 2003",
@@ -207062,7 +207082,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Counterfactual.md",
-        "wiki/concepts/research-methodology/Survivorship Bias.md"
+        "wiki/concepts/research-methodology/Survivorship Bias.md",
+        "wiki/concepts/science-policy/Scientific Productivity.md"
       ],
       "title": ""
     },
