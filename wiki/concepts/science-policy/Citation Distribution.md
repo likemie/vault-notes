@@ -46,6 +46,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
@@ -172,6 +173,8 @@ updated: 2026-10-31
 > - **2001 — 边康尼-巴拉巴西模型推导对数正态机制** 边康尼与巴拉巴西将成果适应度引入优先连接方程（$\Pi_i \propto \eta_i c_i$），证明在有界正态适应度先验下宏观引文分布内生呈现对数正态形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Bianconi & Barabási, 2001, via Wang & Barabási, 2021, pp. 187–188)]]
 > - **2005 — 极值区域幂律与平移变体验证** [[Mark Newman|马克·纽曼]]（Mark Newman）对多领域大规模引文数据集开展严格统计检验，确立平移幂律在极端厚尾区域的拓扑解释力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Newman, 2005, via Wang & Barabási, 2021, p. 179)]]
 > - **2008 — 相对引文标准化与对数正态普适性发现** 菲利波·拉迪基（Filippo Radicchi）等人提出相对标度算法，证实各学科引文分布普适坍缩于对数正态曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
+> - **2011 — 初始吸引力与优先连接门槛检验** 严希范（Young-Ho Eom）与桑托·福图纳托（Santo Fortunato）实证检验发现，当成果累积被引低于 7 次时由初始吸引力 $c_0$ 支配，跨越 7 次门槛后优先连接机制才全面开启。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]
+> - **2013 — WSB 模型提出与普适标度主曲线坍缩** 王大顺、宋超明与巴拉巴西建立微观引文动力学模型，推导单篇累积引文封闭解析解，无量纲重标度证实微观轨迹跨越学科严格坍缩至标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 210–213)]]
 > - **2021 — 科学学影响力分配动力学系统集成** 王大顺与巴拉巴西在《科学学》中全面总结引文分布数理特征，将其确立为解析科学注意力和声望分层的基石[[Construct|构念]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–180)]]
 
 ---
@@ -197,8 +200,9 @@ updated: 2026-10-31
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]] | Web of Science 索引的细分学科全量发表文献（涵盖材料、天文、工程、农业等领域） | 跨学科引文计量统计与标准化函数拟合 | 篇均被引数 $\langle c \rangle$ 与文献总量 $N$ | 发育生物学篇均被引 38.67 次；材料生物材料篇均 23.02 次；天文学 21.41 次；生化方法 20.54 次；航空航天工程篇均仅 5.65 次；材料测试 4.59 次 | 达到 100 次引用的概率在发育生物学与航空航天工程间相差两个数量级 | 原始引文频次受领域引用传统制约，经 $c_f = c / \langle c \rangle$ 标准化后坍缩至对数正态主曲线 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] | 2004 年出版的 21 个学科门类成果截至 2012 年全样本（WoS 数据库） | 跨学科引文计量统计与规模分布分析 | 学科篇均被引频次 $\langle c \rangle$ 与出版总数 $N$ | 多学科科学篇均 48.85 次（$N = 10,909$）；细胞生物学 32.72 次（$N = 17,610$）；综合化学 21.38 次；人工智能 16.77 次；基础数学 4.61 次；海洋工程 1.06 次（$N = 489$） | 各领域篇均被引存在近 50 倍结构性级差 | 证实各学科绝对引文基数存在客观鸿沟，确立微观跨学科比较必须依赖无量纲标准化的必要性 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统论证引文网络的高方差肥尾特征与相对引文标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 174–180），并依托正态适应度先验推导宏观对数正态引文分布（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]，pp. 184–188）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统论证引文网络的高方差肥尾特征与相对引文标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 174–180），依托正态适应度先验推导宏观对数正态引文分布（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]，pp. 184–188），并建立 WSB 引文动力学模型解析微观跨学科普适标度坍缩（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 209–219, 257–266）。

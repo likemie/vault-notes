@@ -69,6 +69,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Brady_2023_EPR]]"
@@ -152,6 +153,9 @@ updated: 2026-10-31
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
 > > **去中心化微观引证决策自发涌现宏观集体智慧** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]指出，学术成果的影响力评价脱离了中心权威的自上而下指定。成千上万独立研究者在微观层面上基于自身课题需求，自主决定吸收哪些前人成果并实施引证；当这些去中心化的微观引用决策在宏观引文网络中汇聚时，自发涌现出学术共同体对成果真实科学价值的集体智慧公约数，克服了学者个体在自我成果评价中普遍存在的自评偏狭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
+>
+> > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Simkin & Roychowdhury (2003, 2005) via Wang & Barabási (2021)]]
+> > **局部顺藤摸瓜的文献复制行为自发涌现宏观线性优先连接** 米哈伊尔·辛金（Mikhail V. Simkin）与瓦尼·罗乔杜里（Vwani P. Roychowdhury）提出引文复制模型（Copy Model），解开了复杂网络优先连接的微观决策谜题：科学家在开展研究写作时不可能随身掌握全网文献的实时被引排行榜，但学者在查阅文献时习惯翻阅其参考文献列表，并顺藤摸瓜直接引用其中的部分条目。由于高被引文献在既有文献的参考文献中出现频次原本就极高，局部无意识的参考文献复制在全网聚合后，在宏观统计上必然等价于线性优先连接；无需集中权威或全局网络信息，依靠局部的顺藤摸瓜即能自发涌现马太效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Simkin & Roychowdhury, 2003, 2005, via Wang & Barabási, 2021, pp. 259–261)]]
 
 ---
 
@@ -238,12 +242,14 @@ updated: 2026-10-31
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Reynolds (1987) via Cohen et al. (2011)]] | 计算机拟合空间中的多主体鸟群群落 | 基于主体建模（[[Agent-based Modelling\|ABM]]）仿真实验 | 最小距离、速度匹配度、中心凝聚力三项局部规则参数 | 三条简单规则自发稳定涌现宏观集群飞行模式，碰撞率为 0 | 确定性算法下的非线性稳态 | 模拟虚拟空间中的生成秩序，推广至人类真实社会时需考虑反身能动性 |
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010–2020 年五本顶级教育心理学期刊（JEP, CE, AERJ 等）刊发[[Document\|文献]] | 历时性文献计量与方法学编码 | [[Qualitative Research\|质性研究]]占比与[[Recommendations for Practice\|实践建议]]（RFP）分布 | 质性研究占比由 2010 年的 9% 显著攀升至 2020 年的 22% | $p < .05$ | 验证了质性探究中涌现取向在主流心理学阵地中的合法性扩张 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]] | 两所[[Research Universities\|研究型大学]]近 2,000 位在职学者双盲认知实验与 5800 万篇 SCI 成果网络 | 双盲对照实验与引文网络拓扑测算 | 学者自评偏差与去中心化引证决策的一致性指标 | 学者对自身成果存在显著自评偏爱（[[My-Baby Bias\|自子情结]]）；但宏观去中心化引证涌现的被引频次与同行盲评推荐高度吻合 | $p < .01$ | 证实微观个体自评具有认知偏倚，宏观客观影响力依赖去中心化网络涌现的集体共识 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Simkin & Roychowdhury (2003, 2005)]] | 物理学家约翰·佩尔杜（John P. Perdew）1992 年成果被后续施引的 196 种引文变体全样本 | 参考文献微观排版错误复现概率统计分析 | 独立施引文献中特定印刷错误（页码错置）复现频次 | 包含完全一致特定错误页码的施引文献高达 78 次；独立键入产生相同错误的纯随机概率低于 $10^{-4}$ | 确证多达 40% 的引述者未查阅原始文献而直接复制他人参考文献列表 | 为局部的顺藤摸瓜复制行为自发生成宏观优先连接提供了无可辩驳的微观经验指纹 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02\|Bubeck et al. (2023) via Karp & Zamiska (2025)]] | [[General Purpose Technology\|GPT]]-4 大语言模型高维隐空间推理测试 | 跨模态常识力学与几何代码生成实证实验 | 9 鸡蛋/电脑/瓶子/钉子立体堆叠测试、独角兽代码绘制测试 | 模型成功给出 3×3 平铺减震力学方案，代码绘图随版本演进呈现幼儿心智成熟轨迹 | 定性能力质变突破（Sparks of AGI） | 揭示超大参数规模下计算智能对人类传统心智领地的自组织涌现渗透 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 结合近两千位学者双盲认知实验与全量引文网络，论证学术影响力是由无数独立研究者微观自主引证决策自发涌现的集体智慧共识，克服了个体自评偏差。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 阐释引文复制模型，揭示学者局部顺藤摸瓜查文献的无意识行为如何微观生成宏观线性优先连接，并依托佩尔杜成果印刷错误复现检验确立引文复制的物理起源（pp. 259–261）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节系统论述涌现的多维意涵：在[[Epistemology|认识论]]上解构受控实验的[[Variable|变量]]恒常假定（Ch. 1），在方法论上确立自然主义[[Qualitative Research|质性研究]]中理论与设计的双重涌现公理（Ch. 11），并在计算模拟中阐明基于主体建模（[[Agent-based Modelling|ABM]]）微观规则生成宏观社会事实的动力学机制（Ch. 19）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在质性研究设计框架中规范阐述[[Emergent Design|涌现式设计]]与数据分析主题生发规程。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 详尽解构头部大模型在万亿参数高维隐空间中常识物理推理与概念具象化能力的自组织涌现，探讨[[Artificial General Intelligence|通用人工智能]]火花的哲学与战略意涵。

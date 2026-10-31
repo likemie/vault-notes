@@ -51,6 +51,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
@@ -153,9 +154,10 @@ updated: 2026-10-31
 > - **1976 — 普赖斯累积优势模型数学形式化** 普赖斯正式将指数增长与优先连接结合，证明富者愈富动力学足以解释引文差距与长程先发优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Price, 1976, via Wang & Barabási, 2021, pp. 185–186)]]
 > - **2001 — 边康尼-巴拉巴西适应度模型确立** 引入成果适应度参数，合理解释了后发高质量成果反超先发平庸成果的动力学过程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Bianconi & Barabási, 2001, via Wang & Barabási, 2021, pp. 187–188)]]
 > - **2009 — 新兴学科先发优势断崖实证测定** [[Mark Newman|马克·纽曼]]（Mark Newman）追踪网络科学全量论著，实证揭示首批 10% 成果篇均 101 次引用与次批 10% 成果 26 次引用的断崖级差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009, via Wang & Barabási, 2021, p. 186)]]
+> - **2011 — 优先连接启动门槛与马太效应分段检验** 严希范（Young-Ho Eom）与桑托·福图纳托（Santo Fortunato）发现累积被引存在 7 次临界门槛：低于 7 次由初始吸引力支配，跨越 7 次后马太效应才全面启动，导致引文差距加速扩大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]
 > - **2012 — 物理学百年全量成果引文份额翻番测定** 巴拉巴西等人调取《物理评论》逾 46 万篇文献，证实前 1% 成果的次年引文份额从 8% 持续攀升至 20% 以上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Barabási et al., 2012, via Wang & Barabási, 2021, pp. 180–181)]]
 > - **2014 — 科学之山实体模型与引文分层具象化** 范·诺登等人在《自然》提出乞力马扎罗文献堆叠模型，具象呈现 5800 万篇文献的极端层级极化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Van Noorden et al., 2014, via Wang & Barabási, 2021, pp. 174–176)]]
-> - **2021 — 科学学影响力差距机制集成与同行集体评判** 王大顺与巴拉巴西在《科学学》中阐明引文差距的动力学机制，确立独立引文汇聚体现学术界[[Collective Intelligence|集体智慧]]的本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–183)]]
+> - **2021 — 科学学影响力差距机制集成与同行集体评判** 王大顺与巴拉巴西在《科学学》中阐明引文差距的动力学机制，确立独立引文汇聚体现学术界[[Collective Intelligence|集体智慧]]的本质（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并揭示单篇成果在名刊内部跨越 3 个数量级的极端方差与长程脱钩规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–183, 207–208)]]
 
 ---
 
@@ -182,8 +184,9 @@ updated: 2026-10-31
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Van Noorden et al. (2014)]] | Web of Science 索引的 5800 万篇全量科技论著 | 实体堆叠模型测算与层级分层统计 | 零引用、千次被引、万次被引各层文献厚度与占比 | 零被引占底部 2,500 米（43% 以上）；被引超 1,000 次占顶端 1.5 米；被引超 10,000 次占峰顶 1.5 厘米薄层；前 100 篇经典被引均超 12,000 次 | 宏观全量统计描述，揭示注意力分配极化 | 适用于科技出版物全集，展现科学探索试错冗余与极端经典稀缺性 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Barabási et al. (2012)]] | 《物理评论》（[[Participatory Research\|PR]]）自 1893 至 2009 年发表的 463,348 篇全量物理学论著 | 百年全量期刊引文网络追踪 | 排名前 1% 成果在发表次年所占引文份额 | 20 世纪初前 1% 成果引文份额约 8%；2000 年代稳步翻倍至 20% 以上 | 与同期美国顶层 1% 收入份额攀升走势高度镜像 | 证实大科学时代文献爆炸下注意力向头部顶刊与明星成果加速集聚 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Newman (2009)]] | 1990 年代末网络科学建立之初各批次全量学术论著 | 纵向全样本队列追踪对比与时序回归 | 首批 10% 成果与紧随次批 10% 成果篇均被引数 | 首批前 10% 成果篇均获 101 次引用；紧随其后的次批 10% 成果篇均被引骤降至 26 次（相差近 4 倍） | 排除发表时距混淆后统计显著 | 证实先发优势是科学共同体确立学科合法性与[[Paradigm\|范式]]界标时的普遍行为特征 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] | 1992 年发表于 Cell（JIF = 33.62）、PNAS（JIF = 10.48）与 PRB（JIF = 3.26）的论著队列 | 期刊内部单篇十年累积被引方差测算 | 单篇成果发表十年后的实际被引频次离散跨度 | 三本期刊内部单篇被引均跨越 3 个数量级（涵盖零被引至数千次）；整刊均值被顶端极少数高引爆款拉高 | 期刊引文分布服从极端重尾，绝大多数论著极少获引 | 证实期刊影响因子无法表征单篇成果水平，凭期刊声誉评价个体构成严重计量偏误 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐明学术影响力的极端分层极化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并基于普赖斯与适应度模型揭示先发垄断与后发反超的微观动力学（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐明学术影响力的极端分层极化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），基于普赖斯与适应度模型揭示先发垄断与后发反超的微观动力学（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]），并揭示期刊内部单篇引文跨越 3 个数量级的极端方差与 7 次被引门槛（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
