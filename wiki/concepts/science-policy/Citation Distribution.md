@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学术出版物群体中随机抽取的一篇论著获得特定引用频次 $c$ 之概率的统计学分布 $P(c)$。由德里克·J·德索拉·普赖斯（Price, 1965）首创测算并确认为具有高方差的肥尾分布；边康尼-巴拉巴西模型（Bianconi & Barabási, 2001）进一步将成果内生适应度引入优先连接动力学，证明在正态适应度先验下宏观引文分布内生呈现对数正态形态（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
@@ -175,7 +176,7 @@ updated: 2026-10-31
 > - **2008 — 相对引文标准化与对数正态普适性发现** 菲利波·拉迪基（Filippo Radicchi）等人提出相对标度算法，证实各学科引文分布普适坍缩于对数正态曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
 > - **2011 — 初始吸引力与优先连接门槛检验** 严希范（Young-Ho Eom）与桑托·福图纳托（Santo Fortunato）实证检验发现，当成果累积被引低于 7 次时由初始吸引力 $c_0$ 支配，跨越 7 次门槛后优先连接机制才全面开启。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]
 > - **2013 — WSB 模型提出与普适标度主曲线坍缩** 王大顺、宋超明与巴拉巴西建立微观引文动力学模型，推导单篇累积引文封闭解析解，无量纲重标度证实微观轨迹跨越学科严格坍缩至标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 210–213)]]
-> - **2021 — 科学学影响力分配动力学系统集成** 王大顺与巴拉巴西在《科学学》中全面总结引文分布数理特征，将其确立为解析科学注意力和声望分层的基石[[Construct|构念]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–180)]]
+> - **2021 — 科学学影响力分配动力学系统集成** 王大顺与巴拉巴西在《科学学》中全面总结引文分布数理特征，将其确立为解析科学注意力和声望分层的基石[[Construct|构念]]，并指出跨学科普适标度在政策干预与考核中必须充分顾及领域异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–180)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
 
 ---
 
@@ -188,7 +189,7 @@ updated: 2026-10-31
 > > - **对数正态模型支持者（Radicchi et al., 2008; Stringer et al., 2008）** 论证在跨越主流中低被引至高被引全域时，对数正态函数展现出显著更优的拟合优度与参数稳健性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 179)]]
 
 > [!warning|limits] 适用局限
-> 原始引文分布受学科容量、篇均参考文献基数与合作网络密度强烈调节，不同学科绝对数值存在数个数量级鸿沟；不可直接跨学科比对绝对被引数，必须基于基线引入相对引文指标进行无量纲标准化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 177–180)]]
+> 原始引文分布受学科容量、篇均参考文献基数与合作网络密度强烈调节，不同学科绝对数值存在数个数量级鸿沟；不可直接跨学科比对绝对被引数，必须基于基线引入相对引文指标进行无量纲标准化。在科学政策与评价实践中，尽管对数正态分布与标度坍缩具有跨学科普适性，但各学科具体的引文半衰期、出版传统及团队规模存在显著异质性，不可将宏观统计定律机械简化为一刀切的管理考核指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 177–180)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
 
 ---
 
@@ -204,5 +205,9 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统论证引文网络的高方差肥尾特征与相对引文标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 174–180），依托正态适应度先验推导宏观对数正态引文分布（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]，pp. 184–188），并建立 WSB 引文动力学模型解析微观跨学科普适标度坍缩（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 209–219, 257–266）。
+> [!evidence-grid-a|notitle]
+> | 命题 | 关键实证支撑 | 效应指标 / 发现 | 异质性 / 边界条件 | 证据评级 |
+> |---|---|---|---|---|
+> | 学术文献引文概率服从高方差的肥尾幂律分布 | Price (1965); [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]] | 幂律指数 $\gamma \approx 3.0$ | 极高方差，排斥高斯均值范式 | A 级 |
+> | 相对引文标准化促使分布向普适对数正态主曲线坍缩 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 跨学科普适参数 $\mu \approx -0.36, \sigma \approx 0.85$ | 须经学科与年份无量纲归一化，防范一刀切政策 | A 级 |
+> | 成果内生适应度的正态先验推导宏观对数正态形态 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Bianconi & Barabási (2001)]] | 适应度正态先验 $p(\eta) \sim \mathcal{N}$ 导出对数正态 $P(c)$ | 依赖优先连接与适应度复合增长动力学 | A 级 |

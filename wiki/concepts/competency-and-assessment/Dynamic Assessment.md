@@ -13,7 +13,6 @@ related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
-concept_field: "competency-and-assessment"
 tags:
   - dynamic-assessment
   - cognitive-modifiability
@@ -62,13 +61,9 @@ related_facts: []
 related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-17
-updated: 2026-10-29
----
-
-（动态评估）
-
+updated: 2026-10-31
 ---
 
 > [!def] Dynamic Assessment
@@ -118,21 +113,23 @@ updated: 2026-10-29
 >     G --> H["后测与潜能评估<br>(Learning Potential = Post - Pre)"]
 > ```
 
+> [!dev-timeline] 概念演变
+> - **1930s · 维果茨基提出最近发展区** 发端于对传统静态智力测验的批判，确立以“独立表现与辅助表现之差”衡量潜在发展可能性的理论基础。
+> - **1970s · 费厄斯坦发展学习潜能评估装置（LPAD）** 将认知可变性理论操作化为临床测验规程，建立由主考人提供渐进中介指导的动态测验范式。
+> - **2001 · 斯旺森与吕西耶元分析确立测量增益** 汇总 30 项动态评估研究，系统量化主考人介入在特殊儿童认知诊断中的干预效能。
+> - **2021 · 尼尔森与克利特默勒辨明情境边界** 考证动态评估被误读为常规教学反馈的历史路径，确立其作为专门化临床测验的生态效度边界。
+
 ---
 
-## 围绕概念形成的命题
+> [!concept-proposition] 命题一｜主考人分级介入能够激活处境不利儿童的潜在认知策略
 
----
+通过分级提示介入，测验情境转变为认知能力测度与策略促进的双重场域。
 
-> [!concept-proposition] 命题一｜动态评估中的主考人协助能显著唤醒特殊儿童的学习潜能，展现极高的测验干预增益
-
-通过分级提示介入，测验本身能够转变为强有力的认知促进环境。
-
-> [!concept-lens] 认知干预与潜能释放
-> 探讨标准化主考人辅助如何在测验情境中系统降低任务门槛，促成学业困难儿童认知策略的迅速提升。
+**探讨维度　认知干预与潜能释放**
+探讨标准化主考人辅助如何在测验情境中降低任务门槛，促成学业困难儿童认知策略的迅速提升。
 
 > [!claim] Swanson and Lussier (2001)
-> **测验辅助提示具有强大的认知修正效能** 斯旺森与吕西耶对 30 项动态评估实验展开[[Meta-analysis|元分析]]（涵盖 5,104 名有学习障碍与认知困难的受试者），证实接受主考人分级线索辅助的儿童其认知测试得分大幅飙升，汇总[[Effect Size|效应量]]高达 $d = 1.12$。分析表明，渐进式提示能够精准补偿学习障碍儿童在[[Metacognition|元认知监控]]与[[Working Memory|工作记忆]]检索上的缺陷，证明弱势儿童看似低下的静态智商掩盖了其深层认知可塑性。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
+> **测验辅助提示具有显著的认知修正效能** 斯旺森与吕西耶对 30 项动态评估实验展开[[Meta-analysis|元分析]]，证实接受主考人分级线索辅助的儿童其认知测试表现获得显著提升。渐进式提示能够有效补偿学习障碍儿童在[[Metacognition|元认知监控]]与[[Working Memory|工作记忆]]检索上的缺陷，证明弱势儿童看似低下的静态智商掩盖了深层认知可塑性。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
 
 ---
 
@@ -140,39 +137,11 @@ updated: 2026-10-29
 
 心理学测验情境下的认知潜能诊断程序不能跨情境机械套用到常规课堂教学中。
 
-> [!concept-lens] 测量情境与教学情境的范畴错置
-> 探讨实证综合者如何因忽略施测情境的特殊性，将实验室测验辅助误读为大众化课堂教学举措。
+**探讨维度　测量情境与教学情境的范畴界定**
+探讨实证综合者如何因忽略施测情境的特殊性，将实验室测验辅助误读为大众化课堂教学举措。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] and Klitmøller, J. (2021a)
-> **临床测验提示不可等同于日常课堂反馈** 尼尔森与克利特默勒通过深度[[Document|文献]]细读指出，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将斯旺森等人的动态评估元分析直接列为支撑其反馈超高效应（$d = 0.73$）的核心证据。斯旺森原文探讨的是为了评估学习潜能而由主考人实施的特定测试辅助（Examiner assistance via cues, hints or prompts in examination），而非师生日常教学交流。哈蒂将测验情境的认知潜能诊断移花接木为常态课堂教学法，抽离了动态评估高度专业化、个别化与昂贵临床测验的物质前提，造成了实证证据的严重泛化失真。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
-
----
-
-> [!contrast-table] 动态评估理论命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
-> |---|---|---|---|
-> | **认知潜能诊断** | 主考人分级辅助能精准识别儿童认知可塑性，产生极高的测验干预增益（$d = 1.12$） | 特殊教育鉴定、认知障碍筛查、文化公平测验 | Swanson and Lussier (2001) |
-> | **[[Ecological Validity\|生态效度]]边界** | 临床测验提示属于专门诊断技术，不可机械外推为常规课堂[[Feedback\|教学反馈]] | [[Evidence-Based Education\|循证教育]]方法学质检、元分析[[Construct Validity\|构念效度]]审查 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
-
----
-
-> [!empirical-divider]
-
-> [!ma-table]- 一阶元分析总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> 大样本一阶[[Meta-analysis|元分析]]系统检验了动态评估中主考人辅助对特殊教育受试者表现的增益。
->
-> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Swanson and Lussier (2001) | <span class="mx-bar ef-bar" title="Cohen's d 1.12"><span class="b22"></span></span>1.12 | [1.06, 1.18] | Cohen's $d$，加权平均 | $k = 30$ / $N = 5,104$ | 概念奠基：动态评估主考人分级辅助对学习障碍儿童测验表现的提升 | 亚组在提示直接性与训练时长上呈现异质性 | 属于测验情境下的认知潜能测量；主考人介入旨在测量潜能，被[[John Hattie\|哈蒂]]误并入[[Feedback\|教学反馈]] |
-
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 哈蒂《[[Visible Learning\|可见的学习]]》反馈类目引用的 Swanson 研究 | 文献学对比与概念效度审查 | 动态评估[[Operationalization\|操作化]]界定与反馈概念对齐度 | 原文严格限定为测验情境线索提示（cues, hints, prompts），未涉及日常教学反馈 | 质性文献学考证确凿 | 揭示将动态测验潜能诊断移花接木为常态课堂教学反馈的[[Positivism\|实证主义]]拼贴错误 |
+> **临床测验提示不可等同于日常课堂反馈** 尼尔森与克利特默勒通过文献细读指出，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将斯旺森等人的动态评估元分析直接列为支撑其反馈超高效应的核心证据。斯旺森与吕西耶在研究中严格限定探讨为了评估学习潜能而由主考人实施的特定测试辅助（Examiner assistance via cues, hints or prompts in examination），而非师生日常教学交流。哈蒂将测验情境的认知潜能诊断移花接木为常态课堂教学法，抽离了动态评估高度专业化、个别化与昂贵临床测验的物质前提，造成了实证证据的严重泛化失真。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
 
 ---
 
@@ -192,10 +161,44 @@ updated: 2026-10-29
 
 ---
 
+> [!warning|limits] 概念局限与适用边界
+> - **施测成本高昂** 动态评估通常需要一对一专业施测，耗费大量时间与经过专业心理学训练的诊断人员，难以在常规大规模班级教学中全面推行。
+> - **概念被移花接木的风险** 测验情境下的提示与教学干预具有高度特定性，实证综合研究若忽视其临床测验属性并混淆为常态课堂反馈，会导致宏观政策建言的偏误。
+
+---
+
+> [!empirical-divider]
+
+> [!ma-table]- 一阶元分析总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> 大样本一阶[[Meta-analysis|元分析]]系统检验了动态评估中主考人辅助对特殊教育受试者表现的增益。
+>
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Swanson and Lussier (2001) | <span class="mx-bar ef-bar" title="Cohen's d 1.12"><span class="b22"></span></span>1.12 | [1.06, 1.18] | Cohen's $d$，加权平均 | $k = 30$ / $N = 5,104$ | 概念奠基：动态评估主考人分级辅助对学习障碍儿童测验表现的提升 | 亚组在提示直接性与训练时长上呈现异质性 | 属于测验情境下的认知潜能测量；主考人介入旨在测量潜能，被[[John Hattie\|哈蒂]]误并入[[Feedback\|教学反馈]] |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 哈蒂《[[Visible Learning\|可见的学习]]》反馈类目引用的 5 项核心元分析（62,761 名受试者） | 文献学对比与构念效度审查 | 动态评估等异质文献在反馈样本中的构成与构念符合度 | 包含 Swanson 动态评估（5,104 人）在内的 4 项非反馈研究占核心样本总量的 80%（近 50,000 人） | 质性考证结合样本构成统计确凿 | 揭示将动态测验潜能诊断移花接木为常态课堂教学反馈的[[Positivism\|实证主义]]拼贴错误 |
+
+---
+
+> [!evidence-grid-a|notitle]
+> | 命题 | 关键实证支撑 | 效应指标 / 发现 | 异质性 / 边界条件 | 证据评级 |
+> |---|---|---|---|---|
+> | 主考人分级介入能够激活处境不利儿童的潜在认知策略 | Swanson and Lussier (2001) | $d = 1.12$ | 提示直接性与干预时长存在显著调节效应 | B 级 |
+> | 将动态测验提示混淆为常态教学反馈摧毁证据链效度 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 概念对齐度审查失效 | 实验室测验提示与常态课堂互动情境存在根本差异 | A 级 |
+
+---
+
 > [!entry-map] 概念关联网络
 > | 关联对象 | 关系性质 | 核心说明 |
 > |---|---|---|
 > | [[Formative Assessment\|形成性评价]] | 概念家族 | 同属促进学习的评价，但动态评估严格依托[[Pre-test and Post-test\|前测]]—干预—后测心理学诊断流程。 |
 > | [[Feedback\|教学反馈]] | [[Construct\|构念]]混淆焦点 | 斯旺森动态评估元分析被哈蒂误用为论证反馈具有超高效应（$d=1.12$）的实证支柱。 |
 > | [[Visible Learning\|可见的学习]] | 证据审查对象 | [[John Hattie\|哈蒂]]综合中反馈高[[Effect Size\|效应量]]所依据的五项核心[[Meta-analysis\|元分析]]之一，实为动态评估而非反馈。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 考证与解构来源 | 详细引证斯旺森原文，揭露哈蒂将测验情境下的认知潜能辅助伪造成教学反馈的学术漏洞。 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 考证与解构来源 | 详细引证斯旺森原初文献，揭露哈蒂将测验情境下的认知潜能辅助伪造成教学反馈的学术漏洞。 |
