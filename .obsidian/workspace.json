@@ -315,6 +315,10 @@
   },
   "active": "071a1983dcd366f9",
   "lastOpenFiles": [
+    "wiki/concepts/science-policy/Novelty Bias in Peer Review.md",
+    "wiki/concepts/science-policy/Novelty Paradox.md",
+    "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
+    "wiki/assets/geogebra/bianconi_barabasi_fitness.ggb",
     "wiki/theories/science-policy/Price Cumulative Advantage Model.md",
     "wiki/assets/geogebra/price_cumulative_advantage.ggb",
     "wiki/theories/science-policy/Bianconi-Barabási Model.md",
@@ -343,7 +347,6 @@
     "tmp/callout-refinement/sample-logic-inspect",
     "tmp/callout-refinement/sample-logic-inspect.log",
     "tmp/callout-refinement/sample-logic-index.log",
-    "tmp/callout-refinement/sample-logic-check.log",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
     "wiki/methods/quantitative/Relative Citation Normalization.md",
@@ -358,9 +361,6 @@
     "wiki/concepts/science-policy/My-Baby Bias.md",
     "wiki/concepts/science-policy/Big Science.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-012/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-011/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-010/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit08-85d7253f/batch-009/prompt.md",
     "未命名.canvas"
   ]
 }
