@@ -1,0 +1,1470 @@
+=== PAGE 1 ===
+RESEARCH ARTICLE SUMMARY
+◥
+SCIENCE COMMUNITY
+Quantifying the evolution
+of individual scientific impact
+Roberta Sinatra, Dashun Wang, Pierre Deville,
+Chaoming Song, Albert-László Barabási *
+INTRODUCTION: In most areas of human
+performance, from sport to engineering, the
+path to a major accomplishment requires a
+steep learning curve and long practice. Science
+is not that different: Out standing discoveries
+are often preceded by publications of less mem-
+orable impact. However, despite the increas-
+ing desire to identify early promising scientists,
+the temporal career patterns that character-
+ize the emergence of scientific excellence remain
+unknown.
+RATIONALE: How do impact and productiv-
+ity change over a scientific career? Does im-
+pact, arguably the most relevant performance
+measure, follow predictable patterns? Can
+we predict the timing of a scientist ’s out-
+standing achievement? Can we model, in
+quantitative and predictive terms, scientific
+careers? Driven by these questions, here we
+quantify the evolution of impact and pro-
+ductivity throughout thousands of scientific
+careers. We do so by reconstructing the publi-
+cation record of scientists from seven disci-
+plines, associating to each paper its long-term
+impact on the scientific community, as quan-
+tified by citation metrics.
+RESULTS: We find that the highest-impact
+work in a scientist ’s career is randomly dis-
+tributed within her body of work. That is, the
+highest-impact work can be, with the same
+probability, anywhere in the sequence of papers
+published by a scientist—it could be the first
+publication, could appear mid-career, or could
+be a scientist’sl a s tp u b l i c a -
+tion. This random-impact
+rule holds for scientists in
+different disciplines, with
+different career lengths,
+working in different dec-
+ades, and publishing solo
+or with teams and whether credit is assigned
+uniformly or unevenly among collaborators.
+The random-impact rule allows us to dev-
+elop a quantitative model, which systematically
+untangles the role of productivity and luck
+in each scientific career. The model assumes
+that each scientist selects a project with a
+random potential p and improves on it with
+a factor Q
+i, resulting in a publication of im-
+pact Qip. The parameter Qi captures the
+ability of scientist i to take advantage of the
+available knowledge in a way that enhances
+(Qi > 1) or diminishes ( Qi < 1) the potential
+impact p of a paper. The model predicts that
+truly high-impact discoveries require a combi-
+nation of highQ and luck (p)a n dt h a ti n c r e a s e d
+productivity alone cannot substantially enhance
+the chance of a very high impact work. We
+also show that a scientist ’s Q, capturing her
+sustained ability to publish high-impact papers,
+is independent of her career stage. This is in
+contrast with all current metrics of excellence,
+from the total number of citations to the h-
+index, which increase with time. TheQ model
+provides an analytical expression of these tra-
+ditional impact metrics and allows us to
+predict their future time evolution for each
+individual scientist, being also predictive of
+independent recognitions, like Nobel prizes.
+CONCLUSION: The random-impact rule
+and the Q parameter, representing two fun-
+damental characteristics of a scientific career,
+offer a rigorous quantitative framework to ex-
+plore the evolution of individual careers and
+understand the emergence of scientific excel-
+lence. Such understanding could help us better
+gauge scientific performance and offers a path
+toward nurturing high-impact scientists, po-
+tentially informing future policy decisions.▪
+RESEARCH
+596 4 NOVEMBER 2016  VOL 354 ISSUE 6312 sciencemag.org SCIENCE
+Random-impact rule. The publication history of two Nobel laureates, Frank A. Wilczek (Nobel
+Prize in Physics, 2004) and John B. Fenn (Nobel Prize in Chemistry, 2002), illustrating that the
+highest-impact work can be, with the same pro bability, anywhere in the sequence of papers
+published by a scientist. Each vertical line corresponds to a research paper. The height of each line
+corresponds to paper impact, quantified with the number of citations the paper received after 10
+years. Wilczek won the Nobel Prize for the very first paper he published, whereas Fenn published
+his Nobel-awarded work late in his career, after he was forcefully retired by Y ale. [Image of Frank A.
+Wilczek is reprinted with permission of STS/Society for Science & the Public. Image of John B.
+Fenn is available for public domain use on Wikipedia.org.]
+The list of author affiliations is available in the full article online.
+*Corresponding author. Email: alb@neu.edu
+Cite this article as R. Sinatraet al., Science354, aaf5239 (2016).
+DOI: 10.1126/science.aaf5239
+ON OUR WEBSITE
+◥
+Read the full article
+at http:/ /dx.doi.
+org/10.1126/
+science.aaf5239
+..................................................
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 2 ===
+RESEARCH ARTICLE
+◥
+SCIENCE COMMUNITY
+Quantifying the evolution
+of individual scientific impact
+Roberta Sinatra,1,2 Dashun Wang,3,4 Pierre Deville,1,5
+Chaoming Song,6 Albert-László Barabási1,7,8,9*
+Despite the frequent use of numerous quantitative indicators to gauge the professional
+impact of a scientist, little is known about how scientific impact emerges and evolves in
+time. Here, we quantify the changes in impact and productivity throughout a career in
+science, finding that impact, as measured by influential publications, is distributed
+randomly within a scientist ’s sequence of publications. This random-impact rule allows us
+to formulate a stochastic model that uncouples the effects of productivity, individual
+ability, and luck and unveils the existence of universal patterns governing the emergence of
+scientific success. The model assigns a unique individual parameterQ to each scientist, which
+is stable during a career, and it accurately predicts the evolution of a scientist’si m p a c t ,f r o m
+the h-index to cumulative citations, and independent recognitions, such as prizes.
+P
+roductivity, representing the number of
+publications authored by a scientist over
+time, and impact, often approximated by
+the number of citations a publication re-
+ceives ( 1–4), are frequently used metrics
+to gauge a scientist’s performance. Despite their
+widespread use, we lack a quantitative understand-
+ing of the patterns these metrics follow during
+as c i e n t i s t’s career (5). This is particularly alarm-
+ing (6–11), given that they are increasingly adopted
+for academic assessment ( 4, 11) and serve as
+the input for numerous indicators, like the h-
+index and its variants, which are frequently
+used to compare individual performance (12–14).
+Given the increasing interest in predicting the
+value of these indicators ( 5, 15), here we ask:
+How do impact and productivity change over
+a typical scientific career? Does impact, arguably
+the most relevant performance measure, follow
+predictable patterns? Can we predict the timing
+of a scientist’s outstanding achievement? Can we
+untangle the role of impact, productivity, and luck
+within a scientific career?
+To address these questions, we reconstruct the
+publication profile of scientists from multiple
+disciplines and associate each of their publica-
+tions with an impact, as captured by c
+10,t h e
+number of citations 10 years after publication
+(Fig. 1A; see Methods and section S1).
+Motivated partly by the exceptional aware-
+ness of a scientist’sh i g h e s t - i m p a c tw o r k(16, 17),
+like radioactivity for Marie Curie and the double
+helix for Watson and Crick, we identified for
+each researcher her most-cited paper,c
+10* ,t h a ti s ,
+the paper with the highest number of citations
+10 years after its publication. The distribution
+Pðc10* Þ for the studied scientists indicates that
+only 5% have c10* ≥ 200; hence, most scientific
+careers have limited maximal impact. To system-
+atically distinguish the careers on the basis of
+their peak impact, we group each scientist in-
+to high maximum impact (top 5%, c
+10* ≥ 200),
+low maximum impact (bottom 20%, c10* ≤ 20),
+and medium maximum impact (middle 75%,
+20 < c
+10* < 200) categories (Fig. 1B and section S2).
+Productivity and impact patterns
+in scientific careers
+The total number of papers scientist i publishes
+up to time t after her first publication, Ni(t),
+asymptotically follows Ni ðtÞ ∼ tg
+i (Fig. 1C) ( 18).
+Hence, yearly productivity, ni(t), follows the
+same scaling with exponent ( gi − 1) (fig. S5).
+Yet, the scaling exponent is different for low-,
+medium-, and high-impact scientists (Fig. 1C).
+We find that for low-impact scientists, hgi =
+1.55, indicating on average a steady increase
+in their productivity. The increase is much
+faster for high-impact researchers, for whom
+hgi = 2.05 (Fig. 1D). These trends are also con-
+firmed by changes in the yearly productivity
+hn(t)i: For high-impact scientists, productivity
+increases almost threefold during their career,
+whereas the increase is modest for low-impact
+scientists (Fig. 1E). Together, Fig. 1 (D and E)
+indicates that productivity changes through-
+out a scientific career. We find, however, that
+this trend is modulated by impact: Productivity
+growth is more pronounced for high-impact sci-
+entists and is modest for l ow-impact scientists
+(Fig. 1, C to E).
+As Fig. 2A indicates, impact appears to follow
+similar patterns to productivity (Fig. 1E): Although
+c
+10 increases during a high-impact scientist ’s
+career, an increase is hardly noticeable for av-
+erage and low-impact individuals. Yet, we ob-
+serve a markedly different pattern if we examine
+the impact in the vicinity of t*, the publication
+time of the most-cited workc
+10* .P l o t t i n ghc10i for
+the sequence of papers before and after an in-
+dividual’s most-cited paper, c
+10* (Fig. 2B), we do
+not see a gradual increase in impact as a sci-
+entist approachest*, nor do we observe elevated
+citations after this breakthrough. Instead, the
+observed pattern exhibits a singular behavior.
+This singularity could be a simple result of
+averaging random-impact fluctuations present
+in careers. We find, however, that the result is
+robust if we use a moving average or consider
+only the publication with maximum impact in a
+rolling window (section S2.1 and fig. S6) and is
+validated using the fitting hypothesisc
+i
+10ðtÞ ∼ ai t,
+lacking differences inai before or aftert*( s e c t i o n
+S2.2 and fig. S7) (19 ). Also, the papers published
+before and aftert* show no discernible differences
+in their average number of citations (Fig. 2C).
+Finally, we randomize each career by leaving all
+productivity measures [total number of papers,
+Ni,a n dni(t)] unchanged but shuffling the impact
+of each paper within each career (Fig. 2C). The
+lack of differences between the original and
+the randomized careers supports our overall con-
+clusion: There are no detectable changes in im-
+pact leading up to or following a scientist ’s
+highest-impact work. We tested the robustness
+of this measure for different samples of scientists
+(figs. S8 and S9), for diff erent definitions of im-
+pact (section S1.6 and fig. S10), and in data sets
+where we attribute different impact shares to
+each author of a paper (section S6 and fig. S11),
+arriving at the same conclusion. Yet, we can-
+not exclude that there are other choices of im-
+pact variables or data-set selection that can detect
+patterns before or after the highest-impact paper.
+To understand when a scientist publishes her
+most important work, we measured the proba-
+bility P(t*) that the highest-impact paper is pub-
+lished at timet* after a scientist’s first publication
+(Fig. 2D). The highP(t*) between 0 and 20 years
+indicates that most scientists publish their highest-
+impact paper early or midcareer. The drop in
+P (t *) after 20 years suggests that it is unlikely
+that a scientist’s most-cited work will come late
+in her career, a result well documented by the
+literature about creativity (see section S3.1) (20, 21).
+To understand the origin of this pattern, we
+shuffled c
+10 among all papers published by the
+same scientist, preserving the scientist ’s time-
+dependent productivity and paper-by-paper im-
+pact and randomizing only the order of her
+publications. The fact thatP(t*) for these synthetic
+c a r e e r si si n d i s t i n g u i s h a b l ef r o mt h eo r i g i n a ld a t a
+(Fig. 2D) indicates that variations inP(t*) are not
+due to specific impact sequences or other features
+RESEARCH
+SCIENCE sciencemag.org 4N O V E M B E R2 0 1 6 VOL 354 ISSUE 6312 aaf5239-1
+1Center for Complex Network Research and Physics
+Department, Northeastern University, Boston, MA 02115,
+USA. 2Center for Network Science and Math Department,
+Central European University, Budapest, Hungary. 3Kellogg
+School of Management, Northwestern University, Evanston,
+IL 60208, USA.
+4Northwestern Institute on Complex
+Systems, Northwestern University, Evanston, IL 60208,
+USA.
+5Department of Applied Mathematics, Université
+catholique de Louvain, Louvain-la-Neuve, Belgium.
+6Department of Physics, University of Miami, Coral Gables,
+FL 33124, USA. 7Department of Medicine, Brigham and
+Women’s Hospital, Harvard Medical School, Boston, MA
+02115, USA. 8Center for Network Science, Central European
+University, Budapest, Hungary. 9Center for Cancer
+Systems Biology, Dana-Farber Cancer Institute, Boston,
+MA 02115, USA.
+*Corresponding author. Email: alb@neu.edu
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 3 ===
+but are entirely explained by year-by-year var-
+iations in productivity throughout a career (fig.
+S12) (20, 21).
+These results prompted us to explore the po-
+sition N* of the highest-impact paper in the
+sequence of N publications of a scientist by
+measuring P(N*/N), that is, the probability that
+the most-cited work is early (N*/N small) or late
+(N*/N ≃ 1 )w i t h i nt h es e q u e n c eo fp a p e r sp u b -
+lished by a scientist. We find thatP(N*/N)i sf l a t
+(Fig. 2E, inset), a finding supported by the cu-
+mulative P(≥N*/N) (Fig. 2E), which decreases
+independently of impact as ( N*/N)−1, in line
+with a uniform P(N*/N). Together, we arrive
+at a rather unexpected conclusion, representing
+our main empirical finding: Impact is randomly
+distributed within a scientist ’s body of work,
+regardless of publication time or order in the
+sequence of publications. We call this the
+random-impact rule because it indicates that
+the highest-impact work can be, with the same
+probability, anywhere in the sequence ofN papers
+published by a scientist. We find that the random-
+impact rule holds for scientists in different dis-
+ciplines, with different career lengths, working in
+different decades, and publishing solo or with
+teams and whether credit is assigned uniformly
+or unevenly among collabo rators (sections S1.4
+and S6.1) (22).
+The random-impact rule can explain the grow-
+i n gi m p a c td u r i n gas c i e n t i s t’s career (Fig. 2A).
+To see this, we again randomly shuffle the im-
+pact of the papers within each career, leaving the
+individual productivity unchanged. The variations
+of impact of the randomized careers are indis-
+tinguishable from the original data for both high-
+and low-impact individuals (Fig. 2A). Hence, the
+growing average impact documented in Fig. 2A is
+the result of combining the increasing average
+productivity (Fig. 1E) with the heavy-tailed nature
+of the citation distribution (6, 23–25). hc
+10i is not
+stable but increases with the number of publica-
+tions, resulting in the observed growing impact
+(Fig. 2A). Hence, growing productivity, rather
+than increasing ability or excellence, can account
+for the growth in average impact during a career
+in science.
+The defining role of productivity in the timing
+of the highest-impact work persists if we extend
+the analysis to different samples of scientists,
+not only those with at least 20 years of pub-
+lication record. We considered different selec-
+tions of scientists, such as (i) grouping them
+by different career lengths (figs. S13 and
+S14), (ii) grouping them by decade of active
+career (figs. S15 and S16), (iii) removing multi-
+authored papers (fig. S17), (iv) including only
+papers published in one subarea of physics
+(fig. S38), (v) creating no filter and including
+all scientists (figs. S18 and S19), (vi) using
+different definitions of impact (figs. S20, S21,
+and S37), or (vii) considering the six different
+disciplines in data set (ii) (figs. S22 and S23). In
+all these cases, the location of the peak of the
+highest-impact work probability changes, but
+we never observe a difference with the random-
+ized careers. Hence, the specific shape ofP(t*) is
+only a function of the selection of scientists and
+of their temporal productivity patterns, whereas
+impact is always randomly distributed within a
+scientist’s sequence of publications.
+The documented random-impact rule raises
+an important question: What is the role of a
+researcher’s own ability, if any, in scientific ex-
+cellence? We propose two quantitative models
+to answer this question.
+Random-impact model (R-model)
+W ec a nr e l yo nt h er a n d o mi m p a c tr u l et ob u i l d
+a null model of scientific careers: We assume
+that each scientist publishes a sequence of pa-
+pers whose impact is randomly chosen from the
+same impact distribution P(c
+10). Consequently,
+the only difference between two scientists is their
+overall productivityN. With the observed P(c
+10)
+and P(N) distributions (Fig. 3, A and B) as input,
+the obtained R-model (section S4.2) accurately
+reproduces the randomness of the impact se-
+quence P (N */N) (Fig. 2E), but it also makes
+two predictions that are at odds with the data.
+(a) Productivity alone begets success: If
+each paper ’si m p a c ti sr a n d o m l yd r a w nf r o m
+the same P(c10), a productive scientist (high N)
+will more likely score a high c10* (see eqs. S7 and
+S18) ( 26, 27). However, the R-model does not
+correctly reproduce the observed increase of hc10* i
+as a function of N (Fig. 3C).
+(b) Divergent impact: The higher the aver-
+age impact of a scientist ’s publications with-
+out the most-cited publicationhc10−* i ( F i g .1 A ) ,t h e
+higher the impact of the most-cited paper, c10*
+(Fig. 3D). Hence, papers with truly high impact
+aaf5239-2 4N O V E M B E R2 0 1 6 VOL 354 ISSUE 6312 sciencemag.org SCIENCE
+Fig. 1. Patterns of
+productivity during a
+scientific career.
+(A) Publication history of
+Kenneth G. Wilson (Nobel
+Prize in Physics, 1982).
+Horizontal axis indicates
+the number of years
+after the scientist’sf i r s t
+publication, and each
+vertical line corresponds
+to a research paper. The
+height of each line cor-
+responds to c
+10,t h a ti s ,
+the number of citations
+the paper received after
+10 years (sections S1.3
+and S1.6). The highest-
+impact paper of Wilson
+was published in 1974,
+9 years after his first
+publication, and it is the
+17th of his 48 papers;
+hence,t*=9 , N*=1 7 ,
+and N =4 8 .(B) Distri-
+bution of the highest-
+impact paperPðc
+10
+/C3 Þ across all scientists. We highlight in blue the bottom 20% of
+the area, corresponding to low maximum impact scientistsðc10
+/C3 ≤ 20Þ; red area
+indicates the high maximum impact scientists (top 5%,c10
+/C3 ≥ 200); yellow cor-
+responds to the remaining 75% medium maximum impact scientists ð20 <
+c10
+/C3 < 200Þ. These cutoffs do not change if we exclude review papers from our
+analysis (see figs. S4 and S36). (C) Number of papersN(t) published up to timet
+for three scientists with low, medium, and high impact but with comparable final
+number of papers throughout their career. (D) Distribution of the productivity
+exponentsg (18). The productivity of high-impact scientists grows faster than does
+that of low-impact scientists. (E) Dynamics of productivity, as captured by the
+average number of papershn(t)i published each year for high-, average-, and low-
+impact scientists.t = 0 corresponds to the year of a scientist’s first publication.
+A B
+ECD
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 4 ===
+are published by scientists with a consistent rec-
+ord of high impact. The R-model cannot account
+for this behavior, predicting that hc10* i diverges
+when h logðc10−* Þi→1:9 7( F i g .3 D ) ,ac o n s e q u e n c e
+of the log-normal nature of P(c10) (section S4.1
+and fig. S27).
+Failures (a) and (b) prompt us to abandon our
+hypothesis that research papers are all drawn
+f r o mt h es a m ei m p a c td i s t r i b u t i o na n dh e n c e
+researchers have no disti nguishable individual
+impact, forcing us to explore more closely the rela-
+tionship between productivity, impact, and chance.
+Q-model
+Crucially, in the R-model, scientists with similar
+productivity have indistinguishable impact. In
+reality, impact varies greatly between scientists
+(Fig. 3E), suggesting the existence of a hidden
+parameter Q
+i that modulates impact, which has
+au n i q u ev a l u ef o re a c hs c i e n t i s ti.
+The log-normal nature of P(c10)( F i g .3 A )(24)
+indicates the presence of multiplicative processes,
+prompting us to write the impactc
+10,ia of paper a
+published by scientisti as
+c10;ia ¼ Qi pa ð1Þ
+where pa is the potential impact of paper a in
+the sequence of papers published by scientist i.
+The parameterQi captures the ability of scientisti
+to take advantage of the available knowledge in a
+way that enhances (Qi > 1) or diminishes (Qi <1 )
+the potential impact of papera.W et a k et h ev a l u e
+of this parameterQi to be constant throughout a
+scientist’sc a r e e r ,ah y p o t h e s i sw ev a l i d a t el a t e r
+(Fig. 5 and section S4.9). The obtained model as-
+sumes that each scientist randomly selects a
+project with potentialp
+a and improves on it with
+af a c t o rQi that is unique to the scientist, resulting
+in a paper of impact (Eq. 1). Truly high-impact
+publications are therefore the result of a high
+Q
+i scientist selecting by chance a highpa project;
+any scientist, independently of her parameterQi,
+can publish low-impact papers by selecting a
+low p
+a.
+The stochastic process behind the model
+(Eq. 1) is determined by the joint probability
+P(p, Q, N), with unknown correlations between
+p, Q, and N. The log-normal nature ofP(c
+10)( F i g .
+3A) allows us to measure P( p), finding that it
+can also be fitted with a log-normal function
+(Fig. 3F). Assuming that Q is also a log-normal
+(confirmed later), we denote with p
+^ ¼ log p;
+Q
+^
+¼ log Q; N
+^
+¼ log N, obtaining the trivariate
+normal distribution Pðp^; Q
+^
+; N
+^
+Þ¼N (m, S).
+Using a maximum-like lihood approach (see
+section S4.4), we estimate from the data the
+mean m ≡ (mp,mQ,mN) = (0.92,0.93,3.34) and the
+covariance matrix
+X
+≡
+s2
+p sp;Q sp;N
+sp;Q s2
+Q
+sQ;N
+sp;N sQ;N s2
+N
+0
+@
+1
+A
+¼
+0:93
+0:00
+0:00
+0:00
+0:21
+0:09
+0:00
+0:09
+0:33
+0
+@
+1
+A ð2Þ
+The matrix (Eq. 2) leads to two key predictions:
+(i) s
+p,N = sp,Q ≃ 0 indicates that the paper
+potential impactpa is independent of a scientist’s
+productivity Ni and her hidden parameter Qi.
+Therefore, scientists select the potential impact
+of each paper randomly from aP(p) distribution
+that is the same for all individuals, being inde-
+pendent of Q and N, capturing a universal—that
+is, scientist-independent—luck component behind
+impact.
+(ii) The nonzeros
+Q,N indicates that the hidden
+parameter Q and productivity N do depend on
+each other (section S4.4), but its small value
+also shows that high Q is only slightly associated
+with higher productivity.
+The lack of correlations between p and (Q,N)
+allows us to analytically calculate the dependence
+of the highest-impact paperhlogc
+10* i on productivity
+SCIENCE sciencemag.org 4 NOVEMBER 2016  VOL 354 ISSUE 6312 aaf5239-3
+Fig. 2. Patterns of
+impact during a
+scientific career.
+(A) Dynamics of impact
+captured by the yearly
+average impact of
+papers hc
+10(t)i for
+high, medium, and low
+maximum impact sci-
+entists, where t =0
+corresponds to the
+year of a scientist’s
+first publications. The
+symbols correspond to
+the data, whereas the
+shaded area indicates
+the 95% confidence
+limit of careers where
+the impact of the pub-
+lications is randomly
+permuted within each
+career. (B)A v e r a g e
+impact hc
+10i of papers
+published before and
+after the highest-
+impact paper c
+10
+/C3 of
+high-, middle-, and low-impact scientists. The plot indicates that there are no
+discernible changes in impactbefore or after a scientist’s highest-impact work.
+(C) hc10
+/C3 i and hc10i before and after a scientist’ s most-cited paper. For each
+group, we calculate the average impact of the most-cited paper,hc10
+/C3 i,a sw e l l
+as the average impact of all papers before and after the most-cited paper. We
+also report the same measures obtained in publication sequences for which
+the impact c
+10
+/C3 is fixed, whereas the impact of all other papers is randomly
+permuted. (D) Distribution of the publication time t* of the highest-impact
+paper for scientists’ careers (black circles) and for randomized-impact careers
+(gray circles). The lack of differences between the two curves (P =0 . 7 0f o rt h e
+Mann-WhitneyU test between the two distributions) supports the random-
+impact rule; that is, impact is random within a scientist ’s sequence of pub-
+lication. Note that the drop after 20 years is partly because we focus on
+careers that span at least 20 years (see fig. S22). (E) Cumulative distribution
+P(≥N*/N) for scientists with N ≃ 50, where N*/N denotes the order N of the
+highest-impact paper in a scientist’s career, varying between 1/N and 1. The
+cumulative distribution of N*/N is a straight line with slope 1, indicating
+that N has the same probability to occur anywhere in the sequence of papers
+published by a scientist. The flatness of P(N*/N) (all scientists, inset) sup-
+ports the conclusion that the timing of the highest-impact paper is uniform.
+The small differences between the three curves are due to different number
+of publications N in the three groups of scientists [see fig. S24 for the plot
+of P(≥N*/N) for other values of N and figs. S25 and S26 for the impact
+autocorrelation throughout a scientific career].
+AB
+CD E
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 5 ===
+N (section S4.10) and on the average impact of
+the other papers published by the same sci-
+entist hc10−*i (see S4.10). The model prediction for
+hlog c10* iðNÞ and hlog c10* iðhc10−*iÞ is in excellent
+agreement with the data (Fig. 3, C and D, and
+fig. S30), indicating that the hidden parameter
+Q and variations in the productivity N can ex-
+plain the empirically observed impact differences
+between scientists, correcting the shortcomings
+of the R-model.
+In summary, theQ-model allows us to generate
+synthetic sequences of publications, by assigning
+to each scientist an individual parameterQ and
+a productivityN, extracted from the distribution
+P (Q, N). Each paper in the sequence is assigned
+an impact calculated as p × Q,w h e r ep is ran-
+domly drawn from the distribution P(p), identi-
+cal for all scientists.
+The measurement and accuracy
+of the hidden parameter Q
+The model allows us to calculate the parameter
+Q
+i f r o mt h es e q u e n c eo fp u b l i c a t i o n sc10,ia of each
+scientist (section S4.5), obtaining for large Ni
+(see eq. S28 for finite Ni and fig. S28 for the
+relation between the two estimations of the Q
+parameter)
+Qi ¼ eh log c10;i i−mp ð3Þ
+Given its dependence on log c10,ia, Q is not
+dominated by a single high-impact (or low-
+impact) discovery but captures instead a sci-
+entist’s sustained ability to systematically turn
+her projects into high-impact (or low-impact)
+publications. For example, although the three
+scientists in Fig. 3E have the same productivity
+N ≃ 100, Eq. 3 predicts widely differentQ values
+for them, namely, Q = 9.99, 3.31, and 1.49. These
+values accurately reflect persistent differences in
+their sequence of publications: The Q = 9.99
+researcher consistently publishes high-impact
+papers, whereas the publications of theQ =1 . 4 9
+researcher are consistently of limited impact.
+Hence, the parameter Q captures a scientist ’s
+differentiating ability to take random projects
+p and systematically turn them into high-impact
+(or low-impact) publications.
+The Q-model makes the unexpected predic-
+tion that despite the obvious differences in in-
+dividual career paths, differences in the impact
+of individual papers should disappear if we use
+the reduced variable p
+a = c10,ia/Qi, a rescaling
+standard in statistical physics (28, 29). Although
+the individualP(c10,ia) distributions differ greatly,
+the P(c10,ia/Qi) distributions for all scientists collapse
+into a single universal curveP(p)( F i g .4 B ) ,c o n f i r m -
+ing the universal nature of impact across all
+careers (30). Finally, the log-normal P (Q) (Fig.
+3G) confirms the model ’s mathematical self-
+consistency.
+A fundamental limitation of all metrics used
+in science is their nonstationarity: Productivity,
+the cumulative number of citations, and the h-
+index all grow in time, making it difficult to
+compare individuals at different stages of
+their career. In contrast, we find that the Q
+parameter is independent of the career stage.
+To show this, we used a DN =3 0p a p e rw i n d o w
+to measure changes in Q during the career of a
+scientist, observing that the Q parameter fluc-
+tuates narrowly throughout each career, without
+systematic changes (Fig. 5A). The magnitude of
+these fluctuations is explained for 75% of
+scientists by the stochastic nature of Q (section
+S4.9), because the estimated Q parameter lies
+within the uncertainty envelope provided by the
+model. In the remaining 25% of the cases, the
+variation in Q is slightly higher than the vari-
+ation predicted by the stochastic nature of the
+model (Fig. 5B). However, the magnitude of this
+surplus variation never exceeds 15%, and the aver-
+age relative error is always below 10% (section
+S4.9 and figs. S31 and S32).
+Finally, to test the stability of the Q param-
+eter throughout the overall career, and not as a
+function of productivity, N, we consider careers
+with at least 50 papers and calculate their early
+and late Q parameters (Q
+early and Qlate, respec-
+tively) using Eq. 3 on the first and second half of
+their papers, respectively. In this case, the sto-
+chastic uncertainty explains the differences be-
+tween Q
+early and Qlate f o rt h el a r g em a j o r i t yo f
+scientists (95.1%, Fig. 5C). Together, these mea-
+surements indicate that the Q parameter is
+generally stable throughout a career, allowing
+aaf5239-4 4 NOVEMBER 2016  VOL 354 ISSUE 6312 sciencemag.org SCIENCE
+Fig. 3. The Q-model.
+(A) Distribution of the
+paper impactc10 across
+all publications in the
+data set. The gray line
+corresponds to a
+log-normal function
+with average m = 1.93
+and SD s
+2 =1 . 0 5(R2 =
+0.98). (B) Distribution
+of the total number
+of papers published by
+a scientist (productivity).
+The gray line is a log-
+normal with m =3 . 6
+and s
+2 =0 . 5 7[ w e i g h t e d
+Kolmogorov-Smirnov
+(KS) test, P =0 . 7 0 ] .
+(C) Citations of the
+highest-impact paper,
+c10
+/C3 , versus the number
+of publicationsN during
+as c i e n t i s t’s career. Each gray point of the scatterplot corresponds to a scientist.
+The circles are the logarithmic binning of the scattered data. The cyan curve
+represents the prediction of the R-model, assuming that the impact of each
+paper is extracted randomly from the distributionP(c10) of Fig. 2A. The red curve
+corresponds to the analytical prediction (see eq. S35) of the Q-model (R2 =
+0.97; see section S4.6 and fig. S29 for goodness of the fit). ( D)l o gc10
+/C3 ver-
+sus hlog c10
+−* i. Each gray point in the scatterplot corresponds to a scien-
+tist, where hlog c10
+−* i is the average logarithm of her paper impact, excluding
+the most-cited paperc10* . We report in cyan the R-model prediction and in red
+the analytical prediction (see eq. S36) of theQ-model (R 2 =0 . 9 9 ;s e es e c t i o n
+S4.6 and fig. S29 for goodness of the fit). ( E) Cumulative impact distribution
+of all papers published by three scientists with the same productivity,N ≃ 100,
+but different Q.( F) Distribution Pðp^Þ across all publications. For each paper a
+of scientist i,w eh a v el o gpa =l o gc10,ia − log Qi, where log Qi ¼h c10;ii − hp
+^
+i.
+Therefore, the distribution of p
+^
+¼ log p, except for a common translational
+factor mp, corresponds to the distribution of log c10,ia − h log c10,ii, which is
+a normal with m = 0 and s2 = 0.95 (KS test, p = 0.48). ( G) Distribution of
+parameter Q, P(Q), for all scientists. The gray line corresponds to a log-
+normal function with m = 0.93 and s2 = 0.46 (weighted KS test, p = 0.59).
+(H) Cumulative distribution of the rescaled impact c10,ia/Qi for the three
+scientists in (E). The black line corresponds to the universal distributionP(p).
+The collapse is predicted by Eq. 1.
+AB C D
+EF G H
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 6 ===
+us to offer quantitative predictions on the evo-
+lution of a scientific career.
+The predictive power of the hidden
+parameter Q
+The true value of the Q parameter comes in its
+predictive power:
+(i) The Q parameter allows us to estimate the
+number of papers a scientist needs to write so
+that her highest-impact paper gathers c
+10* cita-
+tions (Fig. 6B). We find that scientists with low
+Q (≃1.2) must write at least 100 papers so that
+one of them gathers on average 30 citations.
+Yet, a scientist with the same productivity but
+Q =1 0i se x p e c t e dt oa u t h o rac
+10* =2 5 0p a p e r .
+Doubling productivity will enhance only with
+seven citations the highest-impact paper of the
+low-Q scientist (Q = 1.2), whereas it will boost
+with more than 50 citations c
+10* for the high- Q
+scientist. Overall, Fig. 6B documents that for
+low-Q scientists, increased productivity cannot
+boost substantially the chance of publishing a
+high-impact work; hence, it is very unlikely that
+they “get lucky.”
+(ii) A scientist ’s h-index, indicating that her
+h most-cited papers gather at least h citations
+(12, 15), is jointly determined by the Q param-
+eter and the productivity N (section S4.11). This
+analytical prediction reproduces not only the
+observed h-index of all scientists (fig. S33B) but
+also the evolution of the h-index during a sci-
+entist’s career (Fig. 6, C and D, and fig. S34A).
+Similar equations describe the cumulative num-
+ber of citations (Fig. 6D and figs. S33, D to F,
+and S34B) and the g-index (section S4.11), indi-
+cating that the traditional performance measures
+are uniquely determined by Q. Given that Q is
+constant in time, we conclude that productivity
+only can account for career-wide changes in these
+m e a s u r e s( F i g .6 ,Ca n dD ) .
+(iii) By determining the value of Q during the
+e a r l ys t a g e so fas c i e n t i f i cc a r e e r ,w ec a nu s ei t
+to predict future career impact. The estimation
+error DQ of Q decreases with the number of pub-
+lished papers N and drops below 10% already
+after N = 20 publications (section S4.12). We can
+therefore estimate Q based on a scientist ’sf i r s t
+N
+0 published papers in Eq. 3 and then use the
+analytical expression of the h-index and of the
+total number of citations to predict the future
+impact of a scientist (section S4.12 and fig. S35).
+Given the stochastic nature of the Q-model, an
+uncertainty envelope accompanies the most likely
+value of each impact metric. In Fig. 6E, for two
+scientists, we show the h-index prediction up to
+N = 150 after we estimatedQ from the first N
+0 =
+20 (top) and N0 =5 0( b o t t o m )p a p e r s .A l t h o u g h
+the initial h-index overlaps for the two scientists,
+their long-term impact diverges, a difference ac-
+curately predicted by the Q-model. Generalizing
+for a larger sample of scientists, we find a strong
+correlation between the predicted and observed
+h-index (Fig. 6F). To quantify theQ model’s over-
+all predictive accuracy, we measured the fraction
+of times that theh-index falls within the envelope
+for scientists with at least 100 papers. The z
+N
+SCIENCE sciencemag.org 4 NOVEMBER 2016  VOL 354 ISSUE 6312 aaf5239-5
+Fig. 4. Careers and
+their Q parameter.
+(A) Left: Analytically
+predicted cumulative
+impact distributions
+for different Q. The
+plot also highlights
+the impact distribution
+of the three scientists
+shown in Fig. 2E. The
+detailed publication
+record of each scientist
+is reported on the
+right, documenting the
+notable differences
+between them, given
+their differentQ.
+(B) Left: Individual
+cumulative impact
+distributions P(c
+10,i).
+Given the modest
+number of pub-
+lications N character-
+izing most scientists
+and the impossibility
+to compute statisti-
+cally meaningful dis-
+tributions for many of
+them, each distribution
+is computed across
+all publications of all
+scientists with the
+same Q
+i. The color code
+captures theirQ
+parameter, as shown in
+(A). Right: Cumulative
+distributions of the
+rescaled impactc
+10,i/Qi
+for the scientists, indi-
+cating that the individ-
+ual distributions
+collapse on the univer-
+sal distributionP(p).
+A
+B
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 7 ===
+score for each scientist captures the number
+of SDs the real h-index deviates from the most
+likely h-index after N publications. We find
+that 71% of scientists havez40 ≤ 2b a s e do nN0 =
+20, which improves to 81% for N0 =5 0a n d z70
+(Fig. 6G). Together, we conclude that the es-
+timation of the Q parameter at early stages
+has the capability to unveil the long-term career
+impact.
+(iv) To test whether Q
+i correlates with out-
+standing impact, we ranked scientists on the
+basis of Q, N, Ctot, c10* ,a n dt h e i rh-index. To val-
+idate these rankings, we use a receiver operat-
+ing characteristic (ROC) plot that measures the
+fraction of Nobel laureates at the top of the
+ranked list (Fig. 6A). We find that the Q-based
+ranking predicts Nobel-winning careers most
+accurately, offering the highest area of all rank-
+ing measures (Fig. 6A) and the highest precision
+and recall (section S7 and fig. S45). Equally no-
+table is the finding that the predictive powers of
+C
+tot, c10* , and the h-index are indistinguishable
+from each other and that the productivity N is
+the least predictive. Similar results are obtained
+if we use Q
+i to detect Dirac and Boltzmann
+medalists (figs. S46 and S47). The early-career
+Q has also the best accuracy in predicting Nobel
+laureates (section S7.1 and fig. S48).
+High-impact discoveries often result from col-
+laborative work ( 31–33), mixing scientists with
+different Qi. To explore the influence of collab-
+orators (34, 35), we used a credit allocation al-
+gorithm ( 22, 36) to attribute different impact
+shares to each author. We then repeated our
+entire analysis, finding that the Q-model, with
+slightly revised parameters, can explain the re-
+sults (section S6.1 and figs. S40 to S43). Further,
+we find that Q
+i is robust to the omission of in-
+dividual collaborators (section S6.2 and fig. S44).
+Hence, although collaborative and team effects
+modulate the success of a particular publication,
+individual collaboratorshave only limited influ-
+ence on Q
+i.
+Summary and discussion
+In summary, we offer empirical evidence that
+impact is randomly distributed within the se-
+quence of papers published by a scientist, im-
+plying that temporal changes in impact during
+a scientific career can be explained by temporal
+changes in productivity, luck, and the heavy-
+tailed nature of a scientist ’s individual impact
+distribution. This finding allowed us to system-
+atically untangle the role of productivity, luck,
+and a scientist ’s Q, predicting that truly high-
+impact papers require a combination of high
+Q and luck (high p) and that high productivity
+alone has only a limited effect on the like-
+lihood of high-impact work in a scientific career,
+if it is not associated with high Q. The mea-
+surable Q parameter represents a scientist ’s
+sustained ability to publish high-impact (or
+low-impact) papers.
+Virtually, all currently used metrics of per-
+formance change during the career of a scien-
+tist, capturing progression, not sustained ability.
+In contrast,Q is constant throughout a scientist’s
+career for most scientists (76%), and it is not dom-
+inated by a single paper or collaborator, being
+a measure intrinsically linked to an individual.
+The fundamental nature of the Q parameter is
+supported by the fact that the currently used
+metrics of success, from theh-index to cumulative
+citations, can be calculated from it.Q predicts not
+only the value but also the time evolution of the
+traditional impact metrics (Fig. 6, C to F).
+All findings presented above are based on a
+subset of 2887 physicists with a career spanning
+at least 20 years and a persistent publication
+record. These scientists have reached a mid- or
+late-career stage and hence can be considered
+successful as they survived many selection pro-
+cesses in academia. Although our findings hold
+in at least six more different disciplines (see
+section S1.2) and are robust to relaxing the se-
+lection criteria (see section S1.4), the studied data
+sets do not feature young scientists who have left
+a c a d e m i ae a r l ya n dh e n c eh a v ep u b l i s h e do n l ya
+few papers.
+Throughout this work, we have treated long-
+term impact, as captured byc
+10* ,a sa ne x o g e n o u s
+v a r i a b l e .I ts e e m sr e a s o n a b l e ,h o w e v e r ,t h a tp r o -
+ductivity and impact could influence each other.
+From a mechanistic perspective, for example, some
+early promising publications might help attract the
+resources leading to further productivity growth.
+Early-career impact, quantified with the average
+hc
+10i for the first 10 papers of a scientist, is as-
+sociated with career longevity, indicating that
+the probability to stay in academia is slightly
+influenced by the impact of a scientist ’s early
+publications (fig. S49). The Q-model also indi-
+cates that the overall number of papers in a
+career weakly correlates with high Q (Eq. 2).
+Although the Q-model and the predictions pro-
+vided here are immune from a possible coupling
+between early impact and overall productivity
+(section S5), these preliminary findings call for
+more measurements and models that can accu-
+rately capture the coevolution of short-term early
+impact and productivity (37).
+Although Q can accurately predict a career
+impact, the dependence of Q on exogenous fac-
+tors, such as the quality of the education and cur-
+rent institution ( 38, 39), size of the research
+community (24, 40), gender ( 41, 42), dynamics
+of subfields ( 43, 44), or publication habits, re-
+mains unknown. Mathematically speaking, the
+model remains the same if the Q parameter re-
+flects other factors that characterize a scientist.
+The various robustness checks we performed to
+discover possible confounding factors, such as
+career length, decade, team effects, and the analysis
+aaf5239-6 4 NOVEMBER 2016  VOL 354 ISSUE 6312 sciencemag.org SCIENCE
+Fig. 5. Stability of
+the Q parameter.
+(A) Time variation of
+the Q parameter during
+individual careers. For
+scientists with at least
+100 papers and Q ≃
+1.2, Q ≃ 3.8, and Q ≃
+6.5, we report Q(DN),
+measured in a moving
+window of DN =3 0
+papers. For 75% of
+the scientists, the
+fluctuations are
+because we have a
+finite number of papers in the moving window, the magnitude of the
+changes being comparable to that predicted by the model with a constant
+Q (section S4.9). (B ) Fluctuations of the Q parameter in model and data.
+We study the distribution of the uncertainty,
+QðDNÞ
+Q , in both data and syn-
+thetic careers with constant Q (DN = 5). For 74.7% of the scientists, the
+fluctuations are comparable to those of the model. For the remaining 25.3%,
+the SD is slightly higher than the one predicted by the model. (C)C o m p a r i s o n
+between early and late Q parameter. We compare theQ parameter at early-
+career (Q
+early) and late-career (Q late) stage of 823 scientists with at least
+50 papers. We measured the two values of the parameters using only the
+first and second half of published papers, respectively. We perform these
+measurements on the real data (circles) and on randomized careers, where
+the order of papers is shuffled (gray shaded areas). For most of the careers,
+95.1%, the changes between early- and late-career stages fall within the
+fluctuations predicted by the null model with randomized paper order, indicating
+that the Q parameter is stable throughout a career. The observed fluctuations
+are explained by the finite number of papers in a scientist’s career.
+A B C
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 8 ===
+of different disciplines and data sets, have failed to
+offer a simple, straightforward explanation for
+the origin of the different Q values scientists
+have. Most likely, the Q parameter is affected by
+multiple factors, rather than a single one, and
+more information about its nature might be un-
+veiled once other detailed career information,
+such as grants and awards, will be available and
+included in the analysis. Nevertheless, the key
+differentiating factor of Q from luck is that it
+has to be sustained. Q is not determined by a
+single paper, a lucky draw, but by a sustained
+high performance, thro ughout the scientist ’s
+career. This is reflected in the hlog c
+10i term in
+Eq. 3, indicating that a single very high impact
+paper has only a small impact on Q.As c i e n t i s t
+needs multiple high c
+10 papers to ensure a high
+Q. Uncovering the origin of theQ parameter is a
+promising future goal, which not only could offer
+a better understanding of the emergence and
+evolution of scientific excellence but also might
+improve our ability to train and nurture high-
+impact scientists.
+Methods
+Data sets
+We explore two types of data sets: (i) the pub-
+lication record of 236,884 physicists publishing
+in the journal family Physical Reviewfrom 1893
+to 2010 [American Physical Society (APS) data
+set, see section S1.1 and figs. S1 and S2] and (ii)
+the combination of 24,630 Google Scholar ca-
+reer profiles with Web of Science (WoS) data,
+covering 514,896 publications in biology, chem-
+istry, cognitive sciences, ecology, economics, and
+neuroscience (WoS data set, described in section
+S1.2 and fig. S3). The results shown in this article
+refer to 2887 scientists, whose publication record
+spans at least 20 years, who have at least 10 pub-
+lications and have authored at least one paper
+every 5 years, derived from the APS data set (see
+section S1.3).
+SCIENCE sciencemag.org 4 NOVEMBER 2016  VOL 354 ISSUE 6312 aaf5239-7
+Fig. 6. Relation
+between Q and other
+impact indicators.
+(A) ROC plot
+capturing the ranking
+of scientists based on
+Q, C
+tot, h-index, c10* ,
+and N. Each curve
+represents the frac-
+tion of Nobel lau-
+reates versus the
+fraction of other sci-
+entists for a given
+rank threshold. The
+diagonal (no-
+discrimination line)
+corresponds to ran-
+dom ranking; the area
+under each curve pro-
+vides our accuracy to
+rank high Nobel lau-
+reates. The ranking
+accuracy is reported in
+the legend, 1 being the
+maximum. Precision
+and recall as a function
+of rank are discussed
+in section S7 . (B)
+Expected citations to
+the highest-impact
+paper ,c
+10* ,f o ras c i e n -
+tist with parameter Q
+and N publications. The
+plot illustrates the very
+low chance of a low Q
+researcher to publish a
+high-impact paper. (C)
+Observed versus pre-
+dicted growth of the h-
+index for scientists with different Q. The plot documents the agreement
+between the analytically predicted h-index (eq. S38, continuous line) and
+the observed value 〈h(N)〉, obtained by averaging the h-index for scientists
+with the same Q (circles). (D) T op: Growth of the h-index for two scientists
+with at least 200 papers and different Q as a function of the productivity N
+(blue circles), compared with the prediction of eq. S38 (red line). Bottom: For
+the two scientists in the top panels, we measure the cumulative number of
+citations as a function of N, Ctot (N), and compare with the prediction of eq.
+S39. The close agreement between observation and prediction in (C) and
+(D) shows that the time-independent Q captures an intrinsic property of a
+scientist and that other indicators, like the h-index or cumulative citations,
+are uniquely determined byQ and productivity. (E) For two scientists, we show
+the h-index prediction as a function of N using only early-career information,
+namely, N
+0 =2 0( t o p )a n dN0 = 50 (bottom), to estimate the Q parameter.
+Although the initial h-index up to N0 =2 0h i g h l yo v e r l a p sf o rt h et w o
+scientists, their long-term impact diverges, a difference accurately predicted
+by the Q-model. (F ) Scatterplots of predicted and real h-index at N =6 0
+based on Q estimated at N
+0 = 20. The error bars indicate prediction
+quartiles (25 and 75%) in each bin and are colored green ify = x lies between
+the two quartiles in that bin and red otherwise. The circles correspond to
+the average h-index in that bin. ( G) The z
+N score for each scientist cap-
+tures the number of SDs the real h-index deviates from the most likely
+h-index after N publications.zN ≤ 2 indicates that the real data are within the
+prediction envelope.
+C
+D
+AB
+EF
+G
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 9 ===
+Note that the APS data set contains only cita-
+tions within thePhysical Reviewcorpus (see section
+S 1 . 1 ) ;f o rt h i sr e a s o n ,t h es p e c i f i cn u m b e rc i t a t i o n
+numbers are systematically smaller compared to
+the citations reported by the WoS database.
+Our findings are also supported by the anal-
+ysis of different samples of scientists in the APS
+data set, selected using a number of different
+criteria (see section S1.4), and by the analysis of
+all other disciplines in the WoS data set, which
+are reported in the Supplementary Materials
+and referenced throughout the article.
+Citation measures
+Citation-based measures of impact are affected
+by three major problems: (i) citations follow dif-
+ferent dynamics for different papers (6, 45), (ii)
+the average number of citations changes over time
+(24) and (iii) citation count is subfield-dependent
+(24). To overcome (i) for each paper, we use the
+cumulative number of citations the paper received
+10 years after its publication, c
+10,a sam e a s u r e
+of its scientific impact (6, 45). We can correct for
+(ii) and (iii) by normalizingc10 by the averagehc10i
+of papers published in the same year. Because
+these corrections do nota l t e ro u rc o n c l u s i o n s
+for the APS data set, we report results without
+normalization. For the WoS data set, we instead
+used normalized citation counts.
+Q-model
+The stochastic process behind the Q-model is
+determined by the joint probability P (p,Q,N).
+T h em o d e la s s u m e st h a tas c i e n t i s ti has a pro-
+ductivity N
+i and a parameter Qi sampled from
+the marginal distribution P (Q,N), and then ex-
+tracts Ni values of p from the conditional dis-
+tribution P(p|Q,N). By assuming that P (p,Q, N)
+follows a trivariate log-normal distribution with
+parametersm and S,w ec a nw r i t et h el i k e l i h o o d
+function Li that a scientist i with Qi and Ni has
+a sequence of papers { a} with impact { Qi pa}
+(see Eq. 1). Finally, with numerical optimization
+methods, we identify the maximum of the over-
+all log-likelihood function log L = S
+i Li,w h i c h
+provides the numerical estimate of m and S re-
+ported in Eq. 2 (see also sections S4.3 and S4.4).
+This approach also estimates Qi,o b t a i n e db y
+maximizing the likelihood function Li for each
+scientist. The maximizationp r o v i d e sa na n a l y t i c a l
+expression for Qi, which, for large productivity
+Ni, converges to Eq. 3 (see section S4.5)
+This procedure and the measured parame-
+ters allow us to generate synthetic sequences
+of publications: We first extract an individual
+parameter Q and a productivity N from the
+distribution P (Q, N). Then, each paper in the
+synthetic sequence is assigned an impact pQ,
+where p is randomly drawn from the distribution
+P(p) ,i d e n t i c a lf o ra l ls c i e n t i s t s .
+REFERENCES AND NOTES
+1. I. Fuyuno, D. Cyranoski, Cash for papers: Putting a premium on
+publication. Nature 441, 792 (2006). doi: 10.1038/441792b;
+pmid: 16778850
+2. J. A. Evans, J. Reimer, Open access and global participation in
+science. Science 323, 1025 (2009). doi: 10.1126/
+science.1154562; pmid: 19229029
+3. P. Azoulay, Research efficiency: Turn the scientific method on
+ourselves. Nature 484,3 1 –32 (2012). doi: 10.1038/484031a;
+pmid: 22481340
+4. B. Owens, Research assessments: Judgement day. Nature 502,
+288–290 (2013). doi: 10.1038/502288a; pmid: 24132272
+5. O. Penner, R. K. Pan, A. M. Petersen, K. Kaski, S. Fortunato, On
+the predictability of future impact in science. Sci. Rep. 3, 3052
+(2013). doi: 10.1038/srep03052; pmid: 24165898
+6. D. Wang, C. Song, A.-L. Barabási, Quantifying long-term
+scientific impact. Science 342,1 2 7–132 (2013). doi: 10.1126/
+science.1237825; pmid: 24092745
+7. J. A. Evans, Future science. Science 342,4 4 –45 (2013).
+doi: 10.1126/science.1245218; pmid: 24092715
+8. S. Lehmann, A. D. Jackson, B. E. Lautrup, Measures of
+measures. Nature 444, 1003 –1004 (2006). doi: 10.1038/
+4441003a; pmid: 17183295
+9. S. Lehmann, A. D. Jackson, B. E. Lautrup, A quantitative
+analysis of indicators of scientific performance. Scientometrics
+76, 369 –390 (2008). doi: 10.1007/s11192-007-1868-8
+10. F. Radicchi, S. Fortunato, B. Markines, A. Vespignani,
+Diffusion of scientific credits and the ranking of scientists.
+Phys. Rev. E 80, 056103 (2009). doi: 10.1103/
+PhysRevE.80.056103; pmid: 20365039
+11. D. Hicks, P. Wouters, L. Waltman, S. de Rijcke, I. Rafols,
+Bibliometrics: The Leiden Manifesto for research metrics.
+Nature 520, 429 –431 (2015). doi: 10.1038/520429a;
+pmid: 25903611
+12. J. E. Hirsch, An index to quantify an individual’s scientific research
+output. P r o c .N a t l .A c a d .S c i .U . S . A .102, 16569–16572 (2005).
+doi: 10.1073/pnas.0507655102;p m i d :16275915
+13. S. Alonso, F. J. Cabrerizo, E. Herrera-Viedma, F. Herrera,
+h-Index: A review focused in its variants, computation and
+standardization for different scientific fields. J. Informet. 3,
+273–289 (2009). doi: 10.1016/j.joi.2009.04.001
+14. L. Bornmann, R. Mutz, S. E. Hug, H.-D. Daniel, A multilevel
+meta-analysis of studies reporting correlations between the h
+index and 37 different h index variants. J. Informet. 5, 346–359
+(2011). doi: 10.1016/j.joi.2011.01.006
+15. D. E. Acuna, S. Allesina, K. P. Kording, Future impact:
+Predicting scientific success. Nature 489, 201 –202 (2012).
+doi: 10.1038/489201a; pmid: 22972278
+16. B. F. Jones, B. A. Weinberg, Age dynamics in scientific
+creativity. Proc. Natl. Acad. Sci. U.S.A. 108, 18910– 18914
+(2011). doi: 10.1073/pnas.1102895108; pmid: 22065777
+17. P. Azoulay, J. S. Graff Zivin, G. Manso, Incentives and creativity:
+Evidence from the academic life sciences. RAND J. Econ. 42,
+527–554 (2011). doi: 10.1111/rand.2011.42.issue-3
+18. A. M. Petersen, M. Riccaboni, H. E. Stanley, F. Pammolli,
+Persistence and uncertainty in the academic career. Proc. Natl.
+Acad. Sci. U.S.A. 109, 5213 –5218 (2012). doi: 10.1073/
+pnas.1121429109
+19. C.-K. Peng et al ., Long-range correlations in nucleotide
+sequences. Nature 356,1 6 8–170 (1992). doi: 10.1038/
+356168a0 ;p m i d :1301010
+20. D. K. Simonton, Career landmarks in science: Individual
+differences and interdisciplinary contrasts. Dev. Psychol. 27,
+119–130 (1991). doi: 10.1037/0012-1649.27.1.119
+21. D. K. Simonton, Creative productivity: A predictive and
+explanatory model of career trajectories and landmarks.
+Psychol. Rev. 104,6 6 –89 (1997). doi: 10.1037/0033-
+295X.104.1.66
+22. H.-W. Shen, A.-L. Barabási, Collective credit allocation in
+science. Proc. Natl. Acad. Sci. U.S.A. 111, 12325–12330 (2014).
+doi: 10.1073/pnas.1401992111; pmid: 25114238
+23. D. de Solla Price, Little Science, Big Science … and Beyond
+(Columbia University, 1963).
+24. F. Radicchi, S. Fortunato, C. Castellano, Universality of citation
+distributions: Toward an objective measure of scientific impact.
+Proc. Natl. Acad. Sci. U.S.A. 105, 17268 –17272 (2008).
+doi: 10.1073/pnas.0806977105; pmid: 18978030
+25. M. J. Stringer, M. Sales-Pardo, L. A. Nunes Amaral, Statistical
+validation of a global model for the distribution of the
+ultimate number of citations accrued by papers published in a
+scientific journal. J. Am. Soc. Inf. Sci. Technol. 61, 1377 –1385
+(2010). doi: 10.1002/asi.v61:7; pmid: 21858251
+26. E. J. Gumbel, Statistics of Extremes (Dover Publications, 1958).
+27. S. Coles, An Introduction to Statistical Modeling of Extreme
+Values (Springer-Verlag, 2001).
+2 8 . D .R y b s k i ,S .V .B u l d y r e v ,S .H a v l i n ,F .L i l j e r o s ,H .A .M a k s e ,S c a l i n g
+laws of human interaction activity.Proc. Natl. Acad. Sci. U.S.A.106,
+12640–12645 (2009). doi:10.1073/pnas.0902667106;p m i d :19617555
+29. D. Garlaschelli, G. Caldarelli, L. Pietronero, Universal scaling
+relations in food webs. Nature 423, 165 –168 (2003).
+doi: 10.1038/nature01604; pmid: 12736684
+30. T. Vicsek, A question of scale. Nature 411, 421 (2001).
+doi: 10.1038/35078161; pmid: 11373653
+31. S. Wuchty, B. F. Jones, B. Uzzi, The increasing dominance
+of teams in production of knowledge. Science 316,1 0 3 6–1039
+(2007). doi: 10.1126/science.1136099;p m i d :17431139
+32. B. F. Jones, S. Wuchty, B. Uzzi, Multi-university research
+teams: Shifting impact, geography, and stratification in
+science. Science 322, 1259 –1262 (2008). doi: 10.1126/
+science.1158357; pmid: 18845711
+33. J. A. Evans, J. G. Foster, Metaknowledge. Science 331, 721–725
+(2011). doi: 10.1126/science.1201765; pmid: 21311014
+34. J. Moody, D. R. White, Structural cohesion and embeddedness:
+A hierarchical concept of social groups. Am. Soc. Rev. 68,
+103–127 (2003).
+35. R. D. Malmgren, J. M. Ottino, L. A. N. Amaral, The role of
+mentorship in protégé performance. Nature 465, 622 –626
+(2010). doi: 10.1038/nature09040; pmid: 20520715
+36. C.-T. Zhang, A proposal for calculating weighted citations
+based on author rank. EMBO Rep. 10, 416 –417 (2009).
+doi: 10.1038/embor.2009.74
+37. K. Börner , J. T. Maru, R. L. Goldstone, The simultaneous evolution
+of author and paper networks. Proc. Natl. Acad. Sci. U.S.A. 101,
+5266 (2004). doi: 10.1073/pnas.0307625100;p m i d :14976254
+38. P. Deville et al., Career on the move: Geography, stratification,
+and scientific impact. Sci. Rep. 4, 4770 (2014). doi: 10.1038/
+srep04770
+39. A. Clauset, S. Arbesman, D. B. Larremore, Systematic inequality
+and hierarchy in faculty hiring networks. Sci. Adv. 1,e1400005
+(2015). doi: 10.1126/sciadv.1400005;p m i d :26601125
+40. J. Kaur, F. Radicchi, F. Menczer, Universality of scholarly
+impact metrics. J. Informet. 7, 924 –932 (2013).
+doi: 10.1016/j.joi.2013.09.002
+41. V. Larivière, C. Ni, Y. Gingras, B. Cronin, C. R. Sugimoto,
+Bibliometrics: Global gender disparities in science.Nature 504,
+211–213 (2013). doi: 10.1038/504211a; pmid: 24350369
+42. S. F. Way, D. B. Larremore, A. Clauset, Proceedings of the 25th
+International Conference on World Wide Web, Geneva,
+Switzerland, 11 to 15 April 2016.
+43. K. K. Mane, K. Börner, Mapping topics and topic bursts in
+PNAS. Proc. Natl. Acad. Sci. U.S.A. 101, 5287 –5290 (2004).
+doi: 10.1073/pnas.0307626100; pmid: 14978278
+44. R. Sinatra, P. Deville, M. Szell, D. Wang, A.-L. Barabási,
+A century of physics. Nat. Phys. 11, 791 –796 (2015).
+doi: 10.1038/nphys3494
+45. S. Redner, Citation statistics from 110 years of Physical Review.
+Phys. Today 58,4 9 –54 (2005). doi: 10.1063/1.1996475
+ACKNOWLEDGMENTS
+The Physical Reviewdata set can be requested from the APS athttp://
+journals.aps.org/datasets. Data with the result of the disambiguation
+procedure, described in section S1.1, can be found as supplementary
+materials. An interactive visualization of the data sets, focusing on the
+random-impact rule, can be found atwww.barabasilab.com/
+scienceofsuccess/. We thank J. A. Evans, S. Fortunato, S. Lehmann,
+B. Uzzi, B. Coutinho, S. Gil, E. Guney, J. Huang, J. Menche, F. Simini,
+M. Szell, and all other colleagues at the Center for Complex Network
+Research (CCNR) for the valuable discussions and comments. We
+thank H. Shen for the help with the credit share analysis. R.S. and
+A.-L.B. were supported by Air Force Office of Scientific Research
+(AFOSR) grants FA9550-15-1-0077 and FA9550-15-1-0364. A.-L.B. was
+also supported by the Future and Emerging Technologies Project 317
+532 “Multiplex” financed by the European Commission. D.W. was
+supported by AFOSR grant FA9550-15-1-0162 and a Young Investigator
+Award. P.D. acknowledges support by the National Foundation for
+Scientific Research and the Research Department of the Communauté
+française de Belgique (Large Graph Concerted Research Action).
+R.S. developed the majority of this work during her stay at the CCNR,
+supported by the J. S. McDonnell Foundation. All authors designed and
+did the research. R.S. analyzed the empirical data, developed the
+models and controls, and performed the calculations. A.-L.B. was the
+lead writer of the manuscript.
+SUPPLEMENTARY MATERIALS
+www.sciencemag.org/content/354/6312/aaf5239/suppl/DC1
+Materials and Methods
+Supplementary Text
+Figs. S1 to S49
+Supplementary data
+References
+1 November 2014; resubmitted 22 February 2016
+Accepted 29 September 2016
+10.1126/science.aaf5239
+aaf5239-8 4N O V E M B E R2 0 1 6 VOL 354 ISSUE 6312 sciencemag.org SCIENCE
+RESEARCH | RESEARCH ARTICLE
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 
+=== PAGE 10 ===
+ (6312), . [doi: 10.1126/science.aaf5239]354Science 
+Albert-László Barabási (November 3, 2016) 
+Roberta Sinatra, Dashun Wang, Pierre Deville, Chaoming Song and
+Quantifying the evolution of individual scientific impact
+ 
+Editor's Summary
+ 
+ 
+ 
+, this issue p. 596Science
+each scientist and remains constant during the scientist's career.
+ that is particular toQmodel of impact, based on an element of randomness, productivity, and a factor 
+generating a high-impact paper is not an entirely random one. The authors developed a quantitative
+paper with the greatest impact occurs randomly in a scientist's career. However, the process of 
+productivity (which is usually greatest early in the scientist's professional life) is accounted for, the
+publications of 2887 physicists, as well as data on scientists publishing in a variety of fields. When 
+ analyzed theet al.Are there quantifiable patterns behind a successful scientific career? Sinatra 
+Qthat is the −−Scientific impact
+This copy is for your personal, non-commercial use only. 
+Article Tools
+http://science.sciencemag.org/content/354/6312/aaf5239
+article tools: 
+Visit the online version of this article to access the personalization and
+Permissions
+http://www.sciencemag.org/about/permissions.dtl
+Obtain information about reproducing this article: 
+ is a registered trademark of AAAS. ScienceAdvancement of Science; all rights reserved. The title 
+Avenue NW, Washington, DC 20005. Copyright 2016 by the American Association for the
+in December, by the American Association for the Advancement of Science, 1200 New York 
+(print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last weekScience 
+ on November 3, 2016http://science.sciencemag.org/Downloaded from 

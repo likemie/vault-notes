@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Sinatra_2016_Science",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
+    },
+    {
+      "basename": "Career Shuffling Method",
+      "path": "wiki/methods/quantitative/Career Shuffling Method.md"
+    },
+    {
       "basename": "Knowledge Hotspots",
       "path": "wiki/concepts/science-policy/Knowledge Hotspots.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hot-Streak Model",
       "path": "wiki/theories/science-policy/Hot-Streak Model.md"
-    },
-    {
-      "basename": "Exploration-Exploitation in Science",
-      "path": "wiki/concepts/science-policy/Exploration-Exploitation in Science.md"
-    },
-    {
-      "basename": "h-Index",
-      "path": "wiki/methods/quantitative/h-Index.md"
     }
   ],
   "omittedPaths": [],
