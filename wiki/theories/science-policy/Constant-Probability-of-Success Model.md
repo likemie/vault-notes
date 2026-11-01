@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -144,4 +144,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将西蒙顿等几率假说形式化为科学学微观 R 模型并予以检验，确证单人序列内概率恒定（随机影响规律），同时揭示学者间存在持久的能力异质性（Q 模型）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将西蒙顿成功恒定概率模型作为微观假说纳入科学学生涯分析，验证其在跨学科科学家、艺术家与导演全样本中的普适有效性。

@@ -26362,6 +26362,20 @@
     ]
   },
   {
+    "title": "Record Linkage",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Record Linkage.md",
+    "aliases": [
+      "记录链接",
+      "数据链接",
+      "实体对齐",
+      "Data Linkage",
+      "Entity Resolution",
+      "记录匹配",
+      "Record Matching"
+    ]
+  },
+  {
     "title": "Regression Discontinuity Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Regression Discontinuity Design.md",
@@ -45552,6 +45566,17 @@
     "subtype": "program"
   },
   {
+    "title": "SciSciNet",
+    "type": "fact",
+    "path": "wiki/facts/us/SciSciNet.md",
+    "aliases": [
+      "科学学数据湖",
+      "SciSciNet Data Lake",
+      "SciSciNet 开放数据湖"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Sematech Centers of Excellence",
     "type": "fact",
     "path": "wiki/facts/us/Sematech Centers of Excellence.md",
@@ -47487,6 +47512,11 @@
     "title": "Argument_Zhang_2022_SE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Science Education/Argument_Zhang_2022_SE.md"
+  },
+  {
+    "title": "Argument_Lin_2023_SciData",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md"
   },
   {
     "title": "Argument_Downey_2016_SoE",

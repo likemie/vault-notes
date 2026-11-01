@@ -136,6 +136,7 @@ updated: 2026-11-01
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对微软学术图谱 1.34 亿篇核心出版物与 15.89 亿条引文网络实施规范化清洗与指标预计算，构建多源关联的大规模开放科学学数据基础设施。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 依托跨世纪文献计量全量引文网络与高精度学者消歧追踪，构建长周期物理学家与跨学科学者发表序列，实证解构个体学术生产力与影响力的生命周期演变机制。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 测定科研生产力分布（Unit 01），反思流产团队幸存者盲区（Unit 05），解构引文差距与相对标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 建立引文动力学模型与知识热点架构。

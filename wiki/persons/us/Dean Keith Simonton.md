@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 ---
@@ -83,15 +83,17 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 将坎贝尔的盲目变异与选择性保留（BVSR）框架形式化，构建创造力心理学中的达尔文主义模型，为科学学[[Random Impact Rule|随机影响法则]]提供微观认知基石。
 > - **方法路径** 开创历史计量学（Historiometry），通过对历史档案、生平传记与全量作品目录的统计编码，开辟心理学大样本长周期定量实证[[Paradigm|研究范式]]。
-> - **计算科学学扩展路径** 启发当代计算科学学者将认知试错模型扩展至数万名学者与艺术家的海量大数据引文追踪。
+> - **计算科学学扩展路径** 启发当代计算科学学者将认知试错模型扩展至数万名学者与艺术家的海量大数据引文追踪；其生涯界标模型在《科学》奠基研究中被形式化为微观生涯基准零模型（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 援引西蒙顿关于学者生产力与生涯里程碑的假说，将其数理形式化为微观 R 模型并推进至 Q 因子理论。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将西蒙顿成功恒定概率模型作为核心假说，通过跨科学、艺术与电影三界实证检验其在全生命周期的普适性。
 
 ---
 
 > [!person-network] 关系网络
 > - **理论源流** 唐纳德·T·坎贝尔（Donald T. Campbell）— 吸收其演化[[Epistemology|认识论]]与盲目变异与保留思想。
+> - **计算科学学承继学者** [[Roberta Sinatra]]、[[Dashun Wang|王大顺]]、[[Albert-László Barabási|巴拉巴西]] — 将其等几率规则形式化为科学学生涯动力学基准零模型。
 > - **学术对话者** 安德斯·埃里克森（Anders Ericsson）— 围绕[[Deliberate Practice|刻意练习]]专长积累与达尔文随机试错开展持久学术论辩。
 
 ---
@@ -109,3 +111,5 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Constant-Probability-of-Success Model]] | 理论 | 提出并形式化成功恒定概率模型，确立代表作产出与总产出规模成正比规律。 |
 > | [[Random Impact Rule]] | 理论 | 为科学学随机影响法则提供微观认知试错与等[[Random Sampling\|概率抽样]]机制支撑。 |
+> | [[R-Model]] | 理论 | 其等几率假说被科学学形式化为检验单篇成果抽样独立性的微观基准零模型。 |
+> | [[Q-Model]] | 理论 | 其均质化命中率假设被拓展为个体能力异质性与单人生涯等几率并存的双因子理论。 |
