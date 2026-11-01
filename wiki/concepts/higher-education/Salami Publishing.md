@@ -10,7 +10,7 @@ aliases:
 summary: "指涉科研人员在量化考核导向下，将一项原本连贯完整的研究发现人为拆解割裂为多个仅满足基本发表门槛的最小数据单元分别投递的发表策略；该现象虚假推高了学者表观生产力，却稀释了单篇文献的知识增量与平均长程被引影响力。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,18 +40,19 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
-status: draft
+status: active
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
 
 > [!def] Salami Publishing
-> 高等教育与科学学关于科研行为异化的[[Construct|构念]]。特指在量化科研考核与终身教职晋升竞争驱动下，**研究者将一项完整、连贯的科学突破刻意肢解为若干满足最低发表标准的碎片化成果并分批发表的行为**。该策略旨在最大化[[Document|文献]]篇数统计，但会导致知识增量分散、平均长程引用衰减，并加剧学术共同体的信息筛选负荷。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
+> 高等教育与科学学关于科研行为异化的[[Construct|构念]]。特指在量化科研考核与终身教职晋升竞争驱动下，研究者将一项完整、连贯的科学突破刻意肢解为若干满足最低发表标准的碎片化成果并分批发表的行为。该策略旨在最大化[[Document|文献]]篇数统计，但会导致知识增量分散、平均长程引用衰减，并加剧学术共同体的信息筛选负荷。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向科研成果发表过程中的过度碎片化拆分与计量投机行为。
 > - **用途** 帮助科研管理与高校人事评聘识别单纯文献计数指标的失真机理。
 > - **边界** 适用于将同一项实验或调查数据刻意拆分并反复改写发表的情形，不适用于课题组在不同理论维度展开的纵深递进研究。
@@ -62,14 +63,14 @@ updated: 2026-10-30
 > *There have also been more discussions about LPUs, which stands for least publishable unit or the "salami publishing" approach, which could further contribute to inflated productivity counts... while great scientists tend to be very productive, not all scientists who are productive make long-lasting contributions.*
 
 > [!boundary]- 概念边界
-> - 不等于系列跟进研究（Follow-up Studies）：合法后续研究在原有发现基础上拓展新[[Variable|变量]]、新样本或新机理，展现出实质知识递进；切香肠式发表仅对同一数据集做排列组合或同一论点换汤不换药式拆割。
-> - 不等于分阶段跨学科成果发表：大型跨学科综合课题在不同子领域期刊发表不同侧重点的独立成果属于合理[[Knowledge Exchange|知识交流]]，切香肠式发表特指将单一自洽的完整成果刻意切分成零散碎片。
+> - 不等于 系列跟进研究（Follow-up Studies） — 合法后续研究在原有发现基础上拓展新[[Variable|变量]]、新样本或新机理，展现出实质知识递进；切香肠式发表仅对同一数据集做排列组合或同一论点换汤不换药式拆割。
+> - 不等于 分阶段跨学科成果发表 — 大型跨学科综合课题在不同子领域期刊发表不同侧重点的独立成果属于合理[[Knowledge Exchange|知识交流]]，切香肠式发表特指将单一自洽的完整成果刻意切分成零散碎片。
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | Salami Publishing | 成果正常复现与拓展 | 多中心大型协作署名 |
-> |------|-------------------|-------------------|-------------------|
+> |---|---|---|---|
 > | 行为动机 | 迎合量化考核、堆砌篇数指标 | 验证科学真实性、拓展适用边界 | 分担复杂大工程的科研劳动 |
 > | 知识增量 | 边际贡献微弱、稀释核心发现 | 强化因果证据、增强[[Chain of Evidence\|证据链]]强度 | 产出系统性重大突破 |
 > | 评价后果 | 早期表观篇数多但后续被引低 | 带来稳定的学科采纳与长期引用 | 成果被引高但个人贡献难辨识 |
@@ -81,9 +82,15 @@ updated: 2026-10-30
 > - **最小发表门槛导向（Threshold Satisficing）** 以通过常规期刊审稿的最低信息量为标准控制单项成果篇幅与深度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
 > - **表观生产力膨胀（Spurious Productivity Inflation）** 在短期内制造多产假象，严重削弱以发文量为准绳的科研人才评价[[Reliability|信度]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
 
----
-
-## 围绕概念形成的命题
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart LR
+>     A["量化考核与晋升竞争"] --> B["数据人为割裂与最小门槛化"]
+>     B --> C["Salami Publishing<br>（切香肠式碎片化产出）"]
+>     C --> D["短期发文量虚假膨胀"]
+>     C --> E["单篇知识增量稀释"]
+>     E --> F["长程引用寿命归零"]
+> ```
 
 ---
 
@@ -109,8 +116,8 @@ updated: 2026-10-30
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **制度激励异化命题** | 发文篇数指标驱动学者采用切香肠发表以迎合人事晋升 | 高校科研量化考核、终身教职审查 | Broad (1981); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
-> | **学术寿命衰减命题** | 碎片化成果因缺乏深度知识增量而遭遇长程引用匮乏 | 文献计量长期引文追踪 | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
+> | **制度激励异化** | 发表篇数指标驱动学者采用切香肠发表以迎合人事晋升 | 高校科研量化考核、终身教职审查 | Broad (1981); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
+> | **学术寿命衰减** | 碎片化成果因缺乏深度知识增量而遭遇长程引用匮乏 | 文献计量长期引文追踪 | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 
 ---
 
@@ -118,13 +125,15 @@ updated: 2026-10-30
 > - **1981 — 现象警示** 威廉·J·布罗德在《科学》杂志撰文《切香肠式发表的兴起》（The Salami Slicing of Science），首次将 LPU 作为概念提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
 > - **2000s — 文献计量实证反思** 学界开始结合引文[[Network Analysis|网络分析]]碎片化发表对期刊影响因子与个人指标的扭曲作用。
 > - **2021 — 科学学系统检视** 王大顺与巴拉巴西在《科学学》专著中将切香肠策略作为解释为何“发文量在所有指标中[[Predictive Validity|预测效度]]最差”的关键机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
+> - **2023 — 计量指标偏差系统综述** 刘等系统总结引文指标的构念偏差，将切分发表（Salami Slicing）列为诱发学术生产力虚假膨胀与科研评价扭曲的核心微观策略。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1877)]]
 
 ---
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 切香肠现象的经验识别依赖于同行专家的质性判断与文本相似度分析，单纯依靠元数据检索难以严格区分合理的连续跟进探索与恶意碎片化拆分。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合全量跨学科文献与学者生涯数据，揭示发文量指标与长期学术贡献的严重脱钩及其机制成因。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 系统综述科学学文献计量指标的效度局限，将切香肠发表列为扭曲成果产出测度的关键行为模式。
