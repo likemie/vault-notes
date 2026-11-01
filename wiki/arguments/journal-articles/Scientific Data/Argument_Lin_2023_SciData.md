@@ -33,30 +33,27 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Sleeping Beauty in Science]]"
   - "[[Patent Citation]]"
+  - "[[Altmetrics]]"
   - "[[Citation Distribution]]"
   - "[[Research Translation]]"
-  - "[[Scientific Method]]"
-  - "[[Access and Acceptance in Research]]"
-  - "[[Champ]]"
-  - "[[Heterogeneity]]"
   - "[[Team Science]]"
-  - "[[Altmetrics]]"
+  - "[[Scientific Method]]"
+  - "[[Heterogeneity]]"
 related_theories:
   - "[[WSB Model]]"
 related_methods:
   - "[[Disruption Index]]"
   - "[[Record Linkage]]"
+  - "[[Relative Citation Normalization]]"
   - "[[Combinatorial Novelty Measurement]]"
+  - "[[h-Index]]"
   - "[[Bibliometric Analysis]]"
   - "[[Quantitative Research]]"
-  - "[[Domain Analysis]]"
-  - "[[h-Index]]"
-  - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons:
   - "[[Albert-László Barabási]]"
-  - "[[Brian Uzzi]]"
   - "[[Lingfei Wu]]"
+  - "[[Brian Uzzi]]"
   - "[[Benjamin F. Jones]]"
 related_facts:
   - "[[SciSciNet]]"
@@ -75,7 +72,7 @@ title: "Argument_Lin_2023_SciData"
 argument_key: "Argument_Lin_2023_SciData"
 argument_display_title: "SciSciNet: A large-scale open data lake for the science of science research"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -269,14 +266,14 @@ journal: Scientific Data
 > [!evidence-grid] 团队规模与颠覆性创新实证规律复现
 > - **颠覆性百分位随团队扩张持续下降** 对库内 48,581,274 篇具有完整引证关系的出版物全量解算颠覆性指数（$D = \frac{n_i - n_j}{n_i + n_j + n_k}$）表明，合著团队人数增加与成果颠覆性百分位呈严格负相关，平均被引量则同步攀升，属于 [[Team Science|团队科学]]（Team Science）经典组织分工法则。
 > - **高颠覆性成果高度富集于微型团队** 跻身全库前 5% 高颠覆性的成果绝大多数由单人或微型团队产出，大团队产出顶尖高引成果的概率随团队扩张显著增加。
-> - **近五千万篇文献确证团队分工规律** 在超大样本上证实了 [[Lingfei Wu|Wu]] et al. (2019) 提出的组织分工规律：小团队倾向于开拓新方向，大团队则倾向于跟进与巩固既有范式。
+> - **近五千万篇文献确证团队分工规律** 在超大样本上证实了 Wu et al. (2019) 提出的组织分工规律：小团队倾向于开拓新方向，大团队则倾向于跟进与巩固既有范式。
 
 > [!sub-claim] 2. 全量测算引文共现指标确证了常规与新颖结合最容易产生高引突破
 
 > [!evidence-grid] 常规性与新颖性双重平衡的高引突破检验
 > - **双高成果顶尖命中率显著超越基线** 针对 44,143,650 篇期刊出版物全量计算期刊共引对 $z$ 分数显示，兼具高常规性与高尾部新颖性的成果，跻身同期同领域前 5% 高被引顶尖成果的概率高达 7.32%（显著超越 5% 随机基线）。
 > - **四象限分布呈现严格非对称梯度** 双低成果的顶尖命中率仅为 3.55%，低常规高新颖成果（6.48%）与高常规低新颖成果（4.18%）均居次席。
-> - **全量复现经典知识组合双重法则** 在大规模全学科样本中再现了 [[Brian Uzzi|Uzzi]] et al. (2013)（合作者含 [[Benjamin F. Jones|Jones]]）提出的双重平衡法则：立足成熟常规基底并注入非典型跨界新颖，是催生顶尖学术影响力的关键机制。
+> - **全量复现经典知识组合双重法则** 在大规模全学科样本中再现了 Uzzi et al. (2013)（含 Jones et al.）提出的双重平衡法则：立足成熟常规基底并注入非典型跨界新颖，是催生顶尖学术影响力的关键机制。
 
 > [!sub-claim] 3. 动力学拟合与休眠指标确证了引文衰老规律与跨学科唤醒机制
 
@@ -345,9 +342,9 @@ journal: Scientific Data
 ---
 
 > [!citation-card] 降低准入门槛与提升实证可复现性
-> 科学学将[[Scientific Method|科学方法]]应用于科学自身，旨在通过定量实证理解科学进步的演化规律。面对多源异构大数据在整合与跨库关联上的高昂成本，开放数据湖通过集中处理基础数据与标准化测度，有效降低了[[Access and Acceptance in Research|研究准入]]门槛，消除重复劳动，并从根本上提升了实证发现的稳健性与可复现性。
+> 科学学将[[Scientific Method|科学方法]]应用于科学自身，旨在通过定量实证理解科学进步的演化规律。面对多源异构大数据在整合与跨库关联上的高昂成本，开放数据湖通过集中处理基础数据与标准化测度，有效降低了研究准入门槛，消除重复劳动，并从根本上提升了实证发现的稳健性与可复现性。
 >
-> *Overall, this data lake serves as an initial but useful resource for the [[Champ|field]], by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
+> *Overall, this data lake serves as an initial but useful resource for the field, by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
 
 > [!citation-card] 成果家族聚合与引文重新配赋原则
 > 在大型学术数据库中，同一研究常以预印本、工作手稿或会议录成果等多重实体形式并存。为避免文献重复计算，同属一个成果家族的条目均被归并为单一主出版物，附属版本与撤稿成果则独立归入明细记录。为保持分析口径严格一致，被引频次与参考文献数均在 1.34 亿篇核心文献集内重新计算，确保所有引文关联均在统一的边界内可完全回溯。
@@ -357,7 +354,7 @@ journal: Scientific Data
 ---
 
 > [!warning] 数据边界与研究局限
-> 资助-成果链接当前主要聚焦于美国的 NSF 与 NIH 项目，未完全覆盖其他国家资助体系；专利引用主要局限于 USPTO 与 EPO 专利数据库；临床试验引用主要来自 ClinicalTrials.gov，存在国家间入组与注册申报的地理[[Heterogeneity|异质性]]；基于学者姓名的性别推断模型具有内在算法局限与统计误差，在细分[[Domain Analysis|领域分析]]时须审慎校准；数据湖当前指标集聚焦于经典测度，尚待共同体进一步拓展更丰富的分析维度。
+> 资助-成果链接当前主要聚焦于美国的 NSF 与 NIH 项目，未完全覆盖其他国家资助体系；专利引用主要局限于 USPTO 与 EPO 专利数据库；临床试验引用主要来自 ClinicalTrials.gov，存在国家间入组与注册申报的地理[[Heterogeneity|异质性]]；基于学者姓名的性别推断模型具有内在算法局限与统计误差，在细分领域分析时须审慎校准；数据湖当前指标集聚焦于经典测度，尚待共同体进一步拓展更丰富的分析维度。
 
 ---
 

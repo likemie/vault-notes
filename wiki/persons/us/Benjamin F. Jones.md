@@ -9,7 +9,7 @@ summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,11 +25,13 @@ related_concepts:
   - "[[Patent Citation]]"
   - "[[Response to Intervention]]"
   - "[[Experimental Innovators]]"
+  - "[[Document]]"
+  - "[[Team Science]]"
+  - "[[Data Infrastructure]]"
   - "[[Multi-University]]"
   - "[[Polymath]]"
   - "[[Assemblage]]"
   - "[[Paradigm]]"
-  - "[[Team Science]]"
   - "[[Conceptual Innovators]]"
   - "[[The Graying of Science]]"
   - "[[Age and High-Growth Entrepreneurship]]"
@@ -43,17 +45,19 @@ related_persons:
   - "[[Stefan Wuchty]]"
   - "[[Brian Uzzi]]"
 related_facts:
+  - "[[SciSciNet]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -79,7 +83,8 @@ updated: 2026-10-31
 > - **2008** 在《科学》发表跨校科研合作网络研究，证实跨院校跨地域合作成为增长最快且引文溢价最高的科研组织形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
 > - **2009** 在《经济研究评论》发表《知识负担与“死亡发明家”生命周期》，确立知识门槛上升对学者全生命周期产出效能的约束模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 44–45)]]
 > - **2010** 在《经济学与统计学评论》（*Review of Economics and Statistics*）发表针对 20 世纪重大发明的年龄分布研究，揭示理论型与[[Experimental Innovators|经验型创新]]的生命周期分化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
-> - **2017** 与艾哈迈德普尔（Mohammad Ahmadpoor）在《科学》（*Science*）发表跨界技术网络研究，绘制学术文献与专利拓扑图谱，证实 80% 学术论著直接或间接连接到未来商业专利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
+> - **2017** 与艾哈迈德普尔（Mohammad Ahmadpoor）在《科学》（*Science*）发表跨界技术网络研究，绘制学术[[Document|文献]]与专利拓扑图谱，证实 80% 学术论著直接或间接连接到未来商业专利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
+> - **2023** 其所奠定的[[Team Science|团队科学]]与知识组合重组测度在 [[SciSciNet]] [[Data Infrastructure|数据基础设施]]中获得全量复现与开箱即用支持，覆盖 1.34 亿篇成果与近 5,000 万篇经典经验规律验证。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 
 ---
 
@@ -107,6 +112,7 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 援引其知识负担与年龄成就曲线（Unit 02）、团队科学主导地位与跨校合作（Unit 04）及科学文献与专利双向跨界拓扑网络（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 亿级全学科开放数据湖中，全面支持以琼斯等开创的团队科学、知识重组新颖性及专利跨界渗透为核心的科学学宏观实证研究。
 
 ---
 

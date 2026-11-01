@@ -11,7 +11,7 @@ summary: "科学计量学与科技评价领域用于消除学科差异与出版�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Champ]]"
   - "[[Construct Validity]]"
+  - "[[Negative Citation]]"
 related_theories:
   - "[[Universality of Citation Distributions]]"
 related_methods:
@@ -41,13 +42,16 @@ related_persons:
   - "[[Derek de Solla Price]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[SciSciNet]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -70,7 +74,7 @@ updated: 2026-10-31
 ---
 
 > [!method-position] 方法定位
-> - **[[Construct Validity|构念效度]]** 相对引文比值剥离了学科体量效应与发表年份的时间窗口累积效应，表征单篇论著在其对应学术亚领域中的同侪相对定位；但指标承袭引文本身的局限性，无法区分正面引用、批判性负面引用与形式性引证。
+> - **[[Construct Validity|构念效度]]** 相对引文比值剥离了学科体量效应与发表年份的时间窗口累积效应，表征单篇论著在其对应学术亚领域中的同侪相对定位；但指标承袭引文本身的局限性，无法区分正面引用、批判性[[Negative Citation|负面引用]]与形式性引证。
 > - **研究者判断** 核心裁量权在于学科分类体系的选取与划分细度。选用粗粒度一级学科（如“工程学”）与选用细粒度二级学科（如“航空航天工程”）计算出的基线均值 $\langle c \rangle$ 差异显著，直接影响最终比值结果。
 > - **有效性标准** 经验有效性由统计物理学上的分布坍缩效应确证：在采用精确细分类别后，各学科相对引文比值的概率分布高度一致地契合单一通用的对数正态曲线。
 > - **不声称回答的问题** 该方法不测度成果的社会经济实际效益，亦无法替代对学术成果创新实质与推演严谨性的同行质性审议。
@@ -86,6 +90,7 @@ updated: 2026-10-31
 > - **1965 — 早期原始引文批判** [[Derek de Solla Price|普赖斯]]发现不同学科文献引用密度相差巨大，警示绝对被引指标用于跨学科横向评聘存在严重制度陷阱。(Price, 1965, pp. 510–515)
 > - **2008 — 相对比值与普适曲线建立** Radicchi、Fortunato 与 Castellano 正式提出用 $c_f = c / \langle c \rangle$ 实施归一化，证明该比值能将各学科分布统一至均值参数 $\mu \approx -0.27$、方差参数 $\sigma \approx 1.25$ 的通用对数正态模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, pp. 177–179)]]
 > - **2021 — 科学学跨领域比对推广** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统总结相对引文标准化方法在比较历史经典论著与当代突破中的实践范例，确立其作为科学学基础度量工具的规范地位。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 177–180)]]
+> - **2023 — 亿级开放数据湖工程实现** Lin et al. 在 [[SciSciNet]] 中集成 19 个一级学科与 292 个二级学科分类体系，将相对引文标准化（$c_f$）作为全库出版物及学者、机构层级引文对齐的关键预计算基准，验证了跨领域评价在超大规模真实数据中的实用性。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–6)]]
 
 ---
 
@@ -167,7 +172,7 @@ updated: 2026-10-31
 > > ![[wiki/assets/geogebra/relative_citation_normalization.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** Web of Science 核心合集、Scopus、OpenAlex 或 Dimensions API。
+> - **数据来源** [[Web of Science]] 核心合集、Scopus、OpenAlex 或 Dimensions API。
 > - **核心包或命令** Python（`pandas`, `scipy.stats`）、R（`bibliometrix`）。
 > - **实现流程** 提取论著被引量与学科年份标签 $\rightarrow$ 分组聚合求取同年度篇均引文均值 $\rightarrow$ 比值运算生成 $c_f$ $\rightarrow$ 映射通用百分位。
 > - **报告标准** 完整报告所选数据库名称、学科分类体系代码版本、引文统计截止时间节点以及样本纳入标准。
@@ -250,3 +255,4 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 运用相对引文标准化方法消除发育生物学与航空航天工程之间的跨学科测量鸿沟，证实 1978 年获得 32 次引用的计算几何论著相比 2002 年获得 100 次引用的生物医学成果具有更高的相对学术穿透力（pp. 177–180）。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 1.34 亿篇文献与 292 个细分领域中工程化落地相对引文标准化计算口径，结合 10 年被引窗口与学者/机构均值，消除跨学科跨历史周期的引文尺度鸿沟。

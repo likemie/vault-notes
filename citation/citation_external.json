@@ -18043,6 +18043,8 @@
     "PCER, 2008": "PCER, 2008",
     "PERCE (1997)": "PERCE, 1997",
     "PERCE, 1997": "PERCE, 1997",
+    "PILA Charter (2000)": "PILA Charter, 2000",
+    "PILA Charter, 2000": "PILA Charter, 2000",
     "PISA. ... As Rose (1999)": "PISA. ... As Rose, 1999",
     "PISA. ... As Rose, 1999": "PISA. ... As Rose, 1999",
     "POST (2016)": "POST, 2016",
@@ -158408,6 +158410,21 @@
       ],
       "title": ""
     },
+    "PILA Charter, 2000": {
+      "aliases": [
+        "PILA Charter, 2000",
+        "PILA Charter (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "PILA Charter, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Crossref.md"
+      ],
+      "title": ""
+    },
     "PISA. ... As Rose, 1999": {
       "aliases": [
         "PISA. ... As Rose, 1999",
@@ -203447,7 +203464,8 @@
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Combinatorial Novelty.md",
         "wiki/concepts/science-policy/Novelty Paradox.md",
-        "wiki/concepts/university-industry-collaboration/Team Science.md"
+        "wiki/concepts/university-industry-collaboration/Team Science.md",
+        "wiki/persons/us/Brian Uzzi.md"
       ],
       "title": "Atypical combinations and scientific impact"
     },
@@ -213755,6 +213773,7 @@
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Big Science.md",
         "wiki/facts/us/Microsoft Academic Graph.md",
+        "wiki/persons/us/Lingfei Wu.md",
         "wiki/theories/science-policy/Core and Extended Teams Model.md"
       ],
       "title": "Large teams develop and small teams disrupt science and technology"

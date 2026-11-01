@@ -8,7 +8,7 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标，以学者至�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Document]]"
   - "[[Predictive Validity]]"
+  - "[[Data Infrastructure]]"
   - "[[Research Universities]]"
 related_theories:
   - "[[Q-Model]]"
@@ -43,14 +44,18 @@ related_persons:
   - "[[Jorge E. Hirsch]]"
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[SciSciNet]]"
+  - "[[Web of Science]]"
+  - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -94,6 +99,7 @@ updated: 2026-10-30
 > - **2006–2008 — 修正指标出现** $g$ 指数针对高被引钝感，$h_g$ 指数针对学科基准差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 > - **2007 — 预测效度检验** 希尔施以 24 年纵向数据检验 $h$ 对未来表现的预测力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 > - **2019 — 合著修正** 希尔施提出 $h_\alpha$ 指数。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> - **2023 — 亿级学者与机构全量解算** Lin et al. 在 [[SciSciNet]] [[Data Infrastructure|数据基础设施]]中为全库 1.34 亿名学者与 2.7 万家科研机构完成 $h$ 指数全量预计算，与 10 年平均被引及性别推断概率深度对齐，使大样本多维学术生涯评估成为可能。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 
 ---
 
@@ -159,7 +165,7 @@ updated: 2026-10-30
 > > ![[wiki/assets/geogebra/hirsch_h_index.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** Web of Science、Scopus、Google Scholar 覆盖范围不同，同一学者的 $h$ 会不同，报告时须注明数据库与检索日期。
+> - **数据来源** [[Web of Science]]、Scopus、Google Scholar 覆盖范围不同，同一学者的 $h$ 会不同，报告时须注明数据库与检索日期。
 > - **消歧** 同名作者合并或拆分错误会直接改变 $h$，需要人工核对作者档案。
 > - **核心包或命令** Python `pandas`；R `bibliometrix`。
 > - **报告标准** 注明数据库、时间窗、成果类型、是否含自引，以及使用 $h$ 还是年资校正后的 $m$。
@@ -191,7 +197,7 @@ updated: 2026-10-30
 > |---|---|---|
 > | 美国主要[[Research Universities\|研究型大学]]物理学长聘副教授 | $h\approx12$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021, pp. 19–20)]] |
 > | 同上，正教授 | $h\approx18$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021, pp. 19–20)]] |
-> | 美国物理学会会士（APS Fellow） | $h\approx15$–$20$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021, pp. 19–20)]] |
+> | [[American Physical Society\|美国物理学会]]会士（APS Fellow） | $h\approx15$–$20$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021, pp. 19–20)]] |
 > | [[National Academy of Sciences\|美国国家科学院]]院士 | $h\ge45$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021, pp. 19–20)]] |
 
 ---
@@ -223,3 +229,4 @@ updated: 2026-10-30
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐释 h 指数的定义、增长模型与预测效度，并通过诺奖预测 ROC 竞赛与同行实验揭示其单调累积性在捕捉质量稀释上的局限。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 将 h 指数集成入 SciSciNet 学者档案总表（1.34 亿行）与机构表（2.7 万行），与 C10、产出总量及地理坐标融合，提供开箱即用的大规模影响力评价基准。

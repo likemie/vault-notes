@@ -2,10 +2,10 @@
 summary: "科学学正由传统单一文献计量向整合研发资助、学者生涯与专利政策转化的多源数据体系演进。引文、个体与团队指标存在构念效度风险与古德哈特定律扭曲。经验统计规律、生成机制模型、机器学习与计量因果推断（匹配、固定效应、准实验与随机对照试验）形成互补体系，既能揭示复杂演化模式并前瞻预测知识突破，又能严谨评估科技政策的因果有效性。"
 type: argument
 authors:
-  - "Liu, L."
-  - "Jones, B. F."
-  - "Uzzi, B."
-  - "Wang, D."
+  - "[[Lu Liu|Liu, L.]]"
+  - "[[Benjamin F. Jones|Jones, B. F.]]"
+  - "[[Brian Uzzi|Uzzi, B.]]"
+  - "[[Dashun Wang|Wang, D.]]"
 source_language: en
 citation: "Liu, L., Jones, B. F., Uzzi, B., & Wang, D. (2023). Data, measurement and empirical methods in the science of science. Nature Human Behaviour, 7(7), 1046–1058. https://doi.org/10.1038/s41562-023-01562-4"
 year: 2023
@@ -22,29 +22,68 @@ tags:
   - method/machine-learning
 related_concepts:
   - "[[Metascience]]"
+  - "[[Construct]]"
+  - "[[Document]]"
+  - "[[Data Infrastructure]]"
+  - "[[Causality]]"
+  - "[[Variable]]"
   - "[[Construct Validity]]"
-  - "[[Scientific Productivity]]"
   - "[[Citation Aging]]"
   - "[[Goodhart's Law]]"
+  - "[[Epistemology]]"
+  - "[[Clinical Trial]]"
+  - "[[Return on Investment]]"
+  - "[[Altmetrics]]"
+  - "[[Research Translation]]"
+  - "[[Publication Bias]]"
+  - "[[Heterogeneity]]"
+  - "[[Negative Citation]]"
+  - "[[Author Contribution Disclosures]]"
+  - "[[Salami Publishing]]"
+  - "[[Scientific Productivity]]"
+  - "[[Paradigm]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
+  - "[[Combinatorial Novelty]]"
+  - "[[Citation Distribution]]"
+  - "[[Falsification]]"
+  - "[[Abstract]]"
+  - "[[Screening Off]]"
+  - "[[Team Diversity]]"
+  - "[[Research Impact]]"
+  - "[[Star Scientists]]"
+  - "[[School Choice]]"
+  - "[[Internal Validity]]"
+  - "[[Research Universities]]"
+  - "[[Counterfactual]]"
+  - "[[Emergence]]"
+  - "[[Scientific Method]]"
 related_theories:
   - "[[Preferential Attachment in Academia]]"
   - "[[Bianconi-Barabási Model]]"
+  - "[[Random Impact Rule]]"
 related_methods:
-  - "[[Difference-in-Differences]]"
-  - "[[Regression Discontinuity Design]]"
-  - "[[Matching]]"
-  - "[[Propensity Score Matching]]"
   - "[[Fixed-Effect Model]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Descriptive Analysis]]"
+  - "[[Difference-in-Differences]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Author Name Disambiguation]]"
+  - "[[Propensity Score Matching]]"
+  - "[[Experimental Research]]"
+  - "[[Disruption Index]]"
+  - "[[Matching]]"
+  - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
-  - "[[Lu Liu]]"
-  - "[[Benjamin F. Jones]]"
-  - "[[Brian Uzzi]]"
-  - "[[Dashun Wang]]"
+  - "[[Derek de Solla Price]]"
 related_facts:
-  - "[[SciSciNet]]"
-related_arguments: []
+  - "[[Web of Science]]"
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
+  - "[[Declaration on Research Assessment]]"
+related_arguments:
+  - "[[Argument_Sinatra_2016_Science]]"
 sources:
   - "[[sources/Liu_2023_NHB/Liu_2023_NHB|Liu_2023_NHB]]"
 part_of:
@@ -57,10 +96,10 @@ title: "Argument_Liu_2023_NHB"
 argument_key: "Argument_Liu_2023_NHB"
 argument_display_title: "Data, measurement and empirical methods in the science of science"
 argument_kind: "journal-article"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 57
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Nature Human Behaviour"
 book_title: ""
 publication_place: ""
@@ -71,15 +110,15 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 科学学（Science of Science, SciSci）如何整合多源大数据、微观测量构念与跨学科实证方法，打破不同学科传统之间的割裂壁垒，系统揭示科学系统的微观运行规律并为科技政策评估与机制设计提供严谨证据？
+> 科学学（[[Metascience|Science of Science]], SciSci）如何整合多源大数据、微观测量[[Construct|构念]]与跨学科实证方法，打破不同学科传统之间的割裂壁垒，系统揭示科学系统的微观运行规律并为科技政策评估与机制设计提供严谨证据？
 
 > [!claim] 核心主张
-> 科学学正由传统单一文献计量向整合上游研发资助、中游科研团队与下游社会经济产出的多源大数据基础设施演进；通过有机贯通经验统计规律、生成机制模型、高维机器学习表征以及因果推断框架（匹配、固定效应、准实验与随机对照试验），科学学确立了兼备宏观模式发现、微观机制解释与政策因果评估效力的方法学全景体系。
+> 科学学正由传统单一[[Document|文献]]计量向整合上游研发资助、中游科研团队与下游社会经济产出的多源大[[Data Infrastructure|数据基础设施]]演进；通过有机贯通经验统计规律、生成机制模型、高维机器学习表征以及[[Causality|因果推断]]框架（匹配、[[Fixed-Effect Model|固定效应]]、准实验与[[Randomised Controlled Trials|随机对照试验]]），科学学确立了兼备宏观模式发现、微观机制解释与政策因果评估效力的方法学全景体系。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨越多个学科门类的大规模科技文献、资助拨款、科研人员生涯发展轨迹、学术团队协作网络、专利发明以及下游政策与临床转化大数据。
-> - **张力** 描述统计与机器学习长于发掘关联并实现高精度预测，缺乏因果识别力与模型可解释性；计量经济学因果推断方法（如双重差分、工具变量、断点回归）长于评估政策净效应，依赖外生随机冲击且受制于局部平均处理效应的外推边界。
-> - **贡献** 确立涵盖数据源、测量构念与实证方法的三维分析体系，厘清不同实证进路的适用场景与构念效度风险，为科技政策制定与科学研究提供实证指南。
+> - **张力** [[Descriptive Analysis|描述统计]]与机器学习长于发掘关联并实现高精度预测，缺乏因果识别力与模型可解释性；计量经济学因果推断方法（如[[Difference-in-Differences|双重差分]]、工具[[Variable|变量]]、[[Regression Discontinuity Design|断点回归]]）长于评估政策净效应，依赖外生随机冲击且受制于局部平均处理效应的外推边界。
+> - **贡献** 确立涵盖数据源、测量构念与实证方法的三维分析体系，厘清不同实证进路的适用场景与[[Construct Validity|构念效度]]风险，为科技政策制定与科学研究提供实证指南。
 
 ---
 
@@ -92,18 +131,18 @@ issuing_organization: ""
 > | **[[Construct Validity\|构念效度理论]]**<br>[[Construct Validity]] | 审视量化指标与被测理论属性之间的对应程度，防范因指标异化诱发的古德哈特定律（[[Goodhart's Law]]）与行为扭曲。 |
 
 > [!warrant]- 理论如何支撑论证
-> 优先连接理论与适应度模型揭示了科研产出分布高度偏态的生成机理，引文老化模型刻画了科研注意力的时间衰减函数，构念效度理论则为反思各类文献计量指标的局限性提供了认识论依据。这些理论工具共同架设起从宏观引文网络数据通往微观因果解释与政策评估的推论桥梁。
+> 优先连接理论与适应度模型揭示了科研产出分布高度偏态的生成机理，引文老化模型刻画了科研注意力的时间衰减函数，构念效度理论则为反思各类文献计量指标的局限性提供了[[Epistemology|认识论]]依据。这些理论工具共同架设起从宏观引文网络数据通往微观因果解释与政策评估的推论桥梁。
 
 ---
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **多源记录链接与基础设施整合**<br>Record Linkage and Big Data Integration | 整合学术出版物（Web of Science、Scopus、OpenAlex）、开放获取全文库（COnnecting REpositories, CORE）、资助数据库（美国国家科学基金会〔National Science Foundation, NSF〕、美国国立卫生研究院〔National Institutes of Health, NIH〕RePORTER 资助库）、专利与临床试验，评估学者姓名消歧与多源实体链接策略。 |
+> | **多源记录链接与基础设施整合**<br>Record Linkage and Big Data Integration | 整合学术出版物（[[Web of Science]]、Scopus、OpenAlex）、开放获取全文库（COnnecting REpositories, CORE）、资助数据库（[[National Science Foundation\|美国国家科学基金会]]〔National Science Foundation, NSF〕、[[National Institutes of Health\|美国国立卫生研究院]]〔National Institutes of Health, NIH〕RePORTER 资助库）、专利与[[Clinical Trial\|临床试验]]，评估学者[[Author Name Disambiguation\|姓名消歧]]与多源实体链接策略。 |
 > | **微观构念效度评估**<br>Construct Validity Analysis | 检验引文指标、学者个人生涯指标（如 $h$ 指数）、团队规模与多样性、机构产出等关键构念的操作化定义与测度边界。 |
 > | **生成机制建模分析**<br>Generative Mechanistic Modeling | 运用微观互动规则推导宏观统计分布，构建引文动力学模型、合作网络演化模型与科研失败动力学模型。 |
 > | **高维机器学习预测分析**<br>Machine Learning Predictive Modeling | 评估自然语言处理（Natural Language Processing, NLP）词向量嵌入（Word2vec Skip-gram）与深度神经网络在预测前沿知识发现、材料属性及研究可复现性中的应用潜力。 |
-> | **准实验与实验因果推断框架**<br>Causal Inference Framework | 比较倾向得分匹配、高维固定效应、双重差分法（Difference-in-Differences, DID）、工具变量法（Instrumental Variables, IV）、断点回归设计（Regression Discontinuity Design, RDD）以及随机对照试验（Randomised Controlled Trial, RCT）的因果识别假设与政策评估效能。 |
+> | **准实验与实验因果推断框架**<br>Causal Inference Framework | 比较[[Propensity Score Matching\|倾向得分匹配]]、高维固定效应、双重差分法（Difference-in-Differences, DID）、工具变量法（Instrumental Variables, IV）、断点回归设计（Regression Discontinuity Design, RDD）以及随机对照试验（Randomised Controlled Trial, RCT）的因果识别假设与政策评估效能。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -133,9 +172,10 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 多源数据把孤立的文献发表与科研经费、社会应用紧密关联
 
-早期科学学主要依赖手工统计或针对特定领域的问卷访谈，样本规模与分析维度严重受限。随着大规模数字化基础设施的确立，出版物数据库（Web of Science、Scopus、OpenAlex、PubMed、Dimensions 等）实现了对跨学科科研产出的全量覆盖。
-
-现代科学学数据进一步向上游资助端延伸，链接 NSF 与 NIH 等机构的资助记录，系统追踪科研经费对科学产出率与公共投资回报的驱动机制。同时，数据向下游应用端扩展，链接专利数据库、药品临床试验数据、政策文本与替代计量指标（Alternative Metrics, Altmetrics），为测度科学发现的实际应用价值与技术转化周期提供了量化依据。此外，结合学者的履历档案、师承渊源与大学课程教学大纲，科研人才的培养演进与社会流动网络得以清晰呈现。
+> [!feature] 科学学全链条多源数据基础设施
+> - **上游研发资助** 链接 NSF 与 NIH 等公共科研资助记录，系统追踪科研经费对基础研究产出与公共[[Return on Investment|投资回报]]的驱动机制。
+> - **中游学术发表与人才档案** 依托大规模文献库（Web of Science、Scopus、OpenAlex、PubMed）实现跨学科全量覆盖，结合学者履历、师承渊源与大学教学大纲刻画科研人才流动网络与知识代际传承。
+> - **下游应用转化与社会效益** 链接专利数据库、药品临床试验数据、政策文本与[[Altmetrics|替代计量指标]]（Alternative Metrics, Altmetrics），系统测度科学发现的产业[[Research Translation|技术转化]]周期与公共政策效益。
 
 > [!figure]- 图1：科学学全景数据类型与上下游关联图谱
 > ![](https://img.mylikemie.icu/sources/Liu_2023_NHB/figures/Liu_2023_NHB_Fig1_Science_of_Science_Data_and_Linkages.jpg)
@@ -144,7 +184,11 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 既有文献数据库存在严重的非英语盲区与阴性结果遗漏
 
-尽管科学学数据规模呈指数级增长，其本身仍存在系统性选择偏差。既有数据库以正式发表文献为主，容易诱导研究者聚焦于易于发表的议题，产生街灯效应（Streetlight Effect）；具有探索性但得到阴性结果的研究极少发表，引发严重的抽屉效应（File Drawer Problem）。此外，主流文献数据库中超过 90% 的出版物为英语文献，对非英语语种期刊与区域性研究的覆盖严重不足；商业数据库的昂贵订阅费用也加剧了学术资源获取的不平等。
+> [!challenges] 既有文献数据库的四大系统性偏差
+> 1. **街灯效应（Streetlight Effect）** 数据库偏向收录成熟与易发表议题，诱导后续研究过度聚焦于已知领域，忽视高风险探索。
+> 2. **抽屉效应（File Drawer Problem）** 阴性结果与失败实验极少被录用发表，导致知识库呈现系统性正向[[Publication Bias|发表偏倚]]。
+> 3. **非英语覆盖盲区** 主流引文库中超过 90% 为英语出版物，对区域性母语学术期刊与非西方科学贡献的覆盖严重不足。
+> 4. **商业数据壁垒** 头部商业引文数据库依赖昂贵的订阅与授权费用，加剧了全球学术机构之间的数据获取不平等。
 
 ---
 
@@ -153,17 +197,27 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 被引频次混杂着同行批评与声望效应，不能直接度量知识质量
 
-被引频次是衡量学术影响力的常用代理指标。通过 PageRank 算法或特征因子（Eigenfactor）等网络指标，引文网络能够赋权不同来源引文的重要性。引文本身存在强烈的异质性，难以直接等同于知识价值：引用行为常受到学术共同体声誉结构与权力分布的调节，并包含负面批评或反驳性引用。通过结合全文自然语言处理，区分引文语境（Citation Context）与正负面情感极性，引文网络能更真实地还原跨领域、跨机构与跨国界的知识流动轨迹。
+> [!feature] 引文测度的多重[[Heterogeneity|异质性]]与构念偏差
+> - **声誉与权力调节** 引用行为受到学术共同体声誉结构与权威分布的调节，高引成果常伴随声望累积的马太效应，不能直接等同于内在知识价值。
+> - **批评与反驳混杂** 引用动机高度异质，被引频次无法区分实质性知识继承、礼节性提及与批评[[Negative Citation|反驳性引用]]。
+> - **语境与拓扑缺失** 单纯计数忽视了施引期刊的声望权重与引文语境（Citation Context），需结合全文自然语言处理与网络中心性算法（如 PageRank）还原真实知识流动轨迹。
 
 > [!sub-claim] 2. 个人指数遮蔽非发表贡献，合著名单掩盖了真实的分工差异
 
-在学者个人层面，由乔治·赫希（Jorge E. Hirsch）提出的 $h$ 指数（$h$-Index）综合了发文量与单篇获引率，但其衍生指标依然受制于同名学者消歧误差、学科基准差异以及对教学、同行评议与公共服务等非发表贡献的遮蔽。
-
-在团队层面，科学研究呈现出由独著模式向大规模团队协作转变的历史趋势。虽然合作团队规模直接体现于署名名单，但名单隐藏了微观层面的分工差异；《旧金山科研评估宣言》（San Francisco Declaration on Research Assessment, DORA）与贡献者角色分类法（Contributor Roles Taxonomy, CRediT）等倡议正是为应对个体劳动被合著名单吞没而做出的制度努力。
+> [!contrast-table] 个体与团队计量指标的构念盲区与制度校正
+> | 测度层次 | 代表性量化指标 | 构念效度盲区与局限 | 制度校正与补充方案 |
+> |---|---|---|---|
+> | **学者个人层面** | $h$ 指数（$h$-Index）及衍生指标 | 综合发文量与单篇获引率，但受制于同名学者消歧误差与跨学科基准差异，且遮蔽了教学、同行评议与公共服务等非发表贡献。 | 结合全周期学术履历、学科标准化引文基准以及定性同行评议。 |
+> | **团队协作层面** | 合署规模与署名位次 | 仅体现名义合作人数，无法反映研究构思、[[Experimental Research\|实验设计]]、数据分析与文本执笔等微观劳务分工的实质差异。 | 推行[[Author Contribution Disclosures\|贡献者角色分类]]法（CRediT）与《[[Declaration on Research Assessment\|旧金山科研评估宣言]]》（DORA），明确标注学者实质分工。 |
 
 > [!sub-claim] 3. 单一指标考核会诱发策略性迎合，破坏正常学术生态
 
-当某个评价指标被用作绩效考核与资源配置的目标时，受试对象会主动迎合指标计算规则，导致该指标丧失原有的衡量效力。这一古德哈特定律现象在学术界体现为追求引用指标、战略性互引与切分发表等异化行为。定量测度必须与定性同行评议互补结合，防范指标对学术生态的单向塑造。
+> [!warning] 古德哈特定律下的学术评价异化机制
+> 当某个量化指标被直接用作科研绩效考核与学术资源分配的目标时，评价对象将主动采取策略性迎合行为，导致该指标丧失原有的衡量效力：
+> - **策略性互引与引文合谋** 结成封闭学术联盟进行战略性互引，人为虚增被引频次。
+> - **切分发表与碎片化产出（[[Salami Publishing|Salami Slicing]]）** 将系统性研究拆解为数篇边缘细分成果以最大化产出总量。
+> - **迎合热点与风险规避** 抑制高不确定性、长周期的原创探索，诱导科研人员转向跟风式快出成果的选题。
+> - **同行评议互补防线** 定量计量指标必须与定性同行评议深度结合，防范指标考核对学术生态产生单向塑造与行为扭曲。
 
 ---
 
@@ -172,18 +226,22 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 宏观统计规律揭示科研突破具有反直觉的随机性与团队分工特征
 
-对海量科技文献的统计分析确立了一系列经典经验规律：学者产出与引文分布普遍呈现重尾分布；颠覆性突破在学者发表序列中遵循随机影响法则（Random Impact Rule）；大团队长于深化既有概念，小团队长于颠覆既有范式。这些经验规律为检验既有理论与构建新型数理模型奠定了坚实的经验基底。
+> [!feature] 科学系统的三项核心经验统计规律
+> - **重尾分布规律** 科学家的[[Scientific Productivity|学术生产力]]与成果被引频次普遍服从重尾幂律分布，少数顶尖学者与突破性成果聚集了绝大多数学术注意力。
+> - **[[Random Impact Rule|随机影响法则]]** 重大创新突破在学者发表序列中遵循随机影响法则（Random Impact Rule），最具影响力的代表作在学术生涯早期、中期或晚期出现的概率完全均等。
+> - **团队规模分工** 1–3 人小团队倾向于颠覆既有[[Paradigm|范式]]并引入全新概念，数十人以上大团队则系统性深耕成熟范式并延续巩固既有技术路径。
 
 > [!case] 经典实证案例 · 颠覆性创新与学者职业生涯动力学
-> - **大团队深耕与小团队颠覆 (Wu et al., 2019)** 分析跨越 60 年的 6500 万篇科研文献、专利与软件代码库，运用巩固-颠覆指数（Consolidation-Disruption Index, CD 指数）量化成果是颠覆还是巩固既有范式。实证表明：1–3 人小团队倾向于引入全新概念并颠覆传统范式（高频引发后续文献直接引用自己而不引用参考文献）；数十人以上大团队则系统性倾向于延续并巩固成熟范式（高频同时引用该成果及其前置参考文献）。
+> - **大团队深耕与小团队颠覆 (Wu et al., 2019)** 分析跨越 60 年的 6500 万篇科研文献、专利与软件代码库，运用巩固-颠覆指数（Consolidation-[[Disruption Index]], CD 指数）量化成果是颠覆还是巩固既有范式。实证表明：1–3 人小团队倾向于引入全新概念并颠覆传统范式（高频引发后续文献直接引用自己而不引用参考文献）；数十人以上大团队则系统性倾向于延续并巩固成熟范式（高频同时引用该成果及其前置参考文献）。
 > - **随机影响法则与学者能力平稳性 ([[Argument_Sinatra_2016_Science|Sinatra et al., 2016]])** 针对 2.8 万余名长周期学者的全部发表序列开展随机置换检验，证实学者最具代表性的最高引成果在发表序列中服从均匀分布；建立双因子乘积模型（$Q$ 模型），证实选题价值潜力 $p$ 与个人能力参数 $Q$ 相互独立，且个人能力参数在学术生涯全程保持平稳。
 > - **早期科研挫折对长期职业成就的强化效应 (Wang et al., 2019)** 追踪 NIH 独立研究员科研项目基金（Research Project Grant, R01）申请人，将评审打分刚好落在线下（惜败）与刚好越过上线（险胜）的学者进行长达 10 年的队列对比。实证表明，经历早期资助挫折但坚持科研的申请人，其在随后 10 年内产出 Top 5% 高引代表作的概率反而比险胜资助的对照组高出 6.1%。
 
 > [!sub-claim] 2. 传统回归能够有效检验变量关联，但难以进行样本外预测
 
-经典回归分析通过形式化设定因变量与自变量之间的函数形式，估计关联系数的数值大小与显著性，检验特定学术假说并评估控制变量引入后的稳健性。
+> [!def] 经典回归分析的实证定位与局限
+> 经典回归通过形式化设定[[Dependent Variable|因变量]]与[[Independent Variable|自变量]]之间的函数关系，估计关联系数的数值大小与显著性。其核心优势在于引入多维控制变量以检验特定学术假说的相关关系，但难以穷尽未观测混杂因素，且因拟合优度有限（$R^2$ 偏小）而缺乏全局样本外预测能力。
 
-> [!case] 经典实证案例 · 知识常规性与非典型组合的突破效应 (Uzzi et al., 2013)
+> [!case] 经典实证案例 · 知识常规性与[[Combinatorial Novelty|非典型组合]]的突破效应 (Uzzi et al., 2013)
 > - **核心变量** 因变量为成果是否进入同领域同年度前 5% 高引行列；自变量为期刊参考文献配对共现的非典型度（Atypicality，$z$ 分数）与常规度（Conventionality）。
 > - **分析模型与控制** 在多元逻辑斯蒂回归中控制发表年份、学科领域、团队规模与学者历史产出。
 > - **实证发现** 兼具极高常规度中位数与极高非典型组合（第 90 百分位）的平衡型成果，跻身全球前 5% 高引行列的几率达到纯常规成果的 2 倍；这一规律在跨学科全样本中表现出高度一致性。
@@ -191,13 +249,14 @@ issuing_organization: ""
 
 > [!sub-claim] 3. 极简微观动力学方程能够精确复现引文长期演化全过程
 
-机制模型旨在运用极简的数学方程刻画底层数据生成过程。在引文动力学研究中，研究者将累积优势（优先连接）与个体适应度（Fitness）参数相结合，并引入刻画衰减规律的引文老化项，成功推导出与真实演化高度吻合的引文分布曲线。这类模型进一步拓展至科研团队组建、主题演化以及科研早期挫折对后续职业韧性的驱动机制模拟中。
+> [!def] 生成机制建模（Mechanistic Modeling）
+> 机制模型旨在运用极简的数学方程刻画底层数据生成过程。在引文动力学研究中，研究者将累积优势（优先连接）与个体适应度（Fitness）参数相结合，并引入刻画衰减规律的引文老化项，成功推导出与真实演化高度吻合的[[Citation Distribution|引文分布]]曲线，将宏观复杂统计分布还原为可计算、可[[Falsification|证伪]]的微观交互动力学。
 
 > [!case] 经典实证案例 · 引文动力学生成机制模型 (Wang-Song-Barabási 模型, 简称 WSB 模型; Wang et al., 2013)
 > - **微观动力学方程** 单篇成果 $i$ 在发表时间 $t$ 之后吸纳新增引用的速率由三个正交微观动力学生成：
 >   $$\Pi_i(t) \propto \eta_i c_i(t) P(t)$$
 > - **三要素生成机制**
->   1. **累积优势项 $c_i(t)$** 沿袭普赖斯优先连接机制，已有引文越多，被后续学者检索并引用的概率越高；
+>   1. **累积优势项 $c_i(t)$** 沿袭[[Derek de Solla Price|普赖斯]]优先连接机制，已有引文越多，被后续学者检索并引用的概率越高；
 >   2. **内生适应度 $\eta_i$** 刻画成果内在学术质量与竞争潜力，允许高适应度后发成果在网络中超越早期文献；
 >   3. **对数正态注意力老化概率密度 $P(t)$** 刻画学术共同体注意力的时间消退规律：
 >      $$P(t) = \frac{1}{\sqrt{2\pi}\sigma t} \exp\left(-\frac{(\ln t - \mu)^2}{2\sigma^2}\right)$$
@@ -205,12 +264,15 @@ issuing_organization: ""
 
 > [!sub-claim] 4. 文本词向量模型能够提前预判尚未被实验证实的科学发现
 
-机器学习进路超越了传统的假设检验框架，通过在高维特征空间中优化拟合优度实现前瞻预测。利用 Word2vec Skip-gram 等深度神经网络，研究者能够从材料科学数百万篇学术摘要的无结构文本中学习词汇与语境的高维嵌入向量，仅凭文献中用词的关联模式即成功预测出数年后才被实验证实的全新热电材料物性。高维嵌入表征还在预测跨学科成果可复现性、期刊跨界影响力与机构知识重组潜力方面展现出广阔前景。
+> [!feature] 机器学习高维表征预测范式
+> - **无结构文本嵌入** 突破传统回归预设变量的约束，利用 Word2vec Skip-gram 等深度神经网络，直接从数百万篇[[Abstract|文献摘要]]的高维潜空间中学习词汇与语境的稠密嵌入表征。
+> - **隐性语义拓扑外推** 捕获跨越学科壁垒的词汇共现与余弦相似度关联，在实验数据实际产出前数年即提前推断材料未知物性。
+> - **跨领域泛化潜力** 前瞻预测从新材料发现延伸至前沿成果可复现性预测、期刊跨界影响力识别与机构知识重组潜力评估。
 
 > [!case] 经典实证案例 · 自然语言处理词向量嵌入预测材料物性发现 (Tshitoyan et al., 2019)
 > - **无监督学习语料** 抓取 1922 至 2018 年间发表于材料科学领域的 330 万篇学术文献摘要，包含超 5 亿词次文本。
 > - **嵌入表征架构** 运用三层全连接神经网络训练 Word2vec Skip-gram 模型，将每个专业词汇与化学式映射为 200 维稠密隐层向量；语义相似与共同出现的词汇在潜空间中紧密相邻。
-> - **回溯式验证与预测** 屏蔽 2009 年之后的文献，仅利用 2009 年之前的词向量空间，计算候选化合物向量与热电性（thermoelectric）等物性词向量的余弦相似度。模型预测的前十种候选材料中，有数种在 2012 年之后被实验独立证实为优质热电材料，且实际预测成功率达到随机挑选基准材料的 8 倍。
+> - **回溯式验证与预测** [[Screening Off|屏蔽]] 2009 年之后的文献，仅利用 2009 年之前的词向量空间，计算候选化合物向量与热电性（thermoelectric）等物性词向量的余弦相似度。模型预测的前十种候选材料中，有数种在 2012 年之后被实验独立证实为优质热电材料，且实际预测成功率达到随机挑选基准材料的 8 倍。
 
 > [!figure]- 图2：基于自然语言处理词向量嵌入预测新材料物性的机器学习架构
 > ![](https://img.mylikemie.icu/sources/Liu_2023_NHB/figures/Liu_2023_NHB_Fig2_Prediction_with_Machine_Learning.jpg)
@@ -224,20 +286,20 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 匹配与固定效应能够有效消除学者天资与历史背景的干扰
 
-观察性数据中的相关性往往受到未观测混杂因素的干扰。精确匹配、粗化精确匹配（Coarsened Exact Matching, CEM）以及倾向得分匹配（Propensity Score Matching, PSM）通过在可观测特征上为处理组寻找相似的对照组，部分削弱了选择偏差。
+> [!feature] 基础混杂控制策略的两大路径
+> - **样本匹配策略（[[Matching]]）** 精确匹配、粗化精确匹配（Coarsened Exact Matching, CEM）与倾向得分匹配（Propensity Score Matching, PSM）通过在多维可观测变量上为处理组寻找相似对照组，平衡组间协变量分布并削减选择偏误。
+> - **面板固定效应（Fixed Effects）** 通过引入个体虚拟变量完全吸收学者、机构或学科内部所有不随时间变化的时不变特征（如学者天赋、家庭文化背景与机构声誉），排除恒定遗漏变量的干扰。
 
-面板固定效应模型（Fixed-Effect Model）则通过引入个体虚拟变量，完全吸收了个体、机构或学科内部所有不随时间变化的时不变特征（如学者天资、家庭文化背景或机构历史声誉），有效排除了大量恒定遗漏变量的干扰。
-
-> [!case] 经典实证案例 · 匹配与固定效应在资助模式与团队多样性中的应用
+> [!case] 经典实证案例 · 匹配与固定效应在资助模式与[[Team Diversity|团队多样性]]中的应用
 > - **对人资助模式对创新突破的因果促进 (Azoulay et al., 2011)** 比较霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）资助人而非项目的长周期容错支持与 NIH 传统 R01 课题资助。采用精确匹配与倾向得分匹配控制学者的入选前产出基线、引文历史与学术年龄，发现长周期容错支持使学者转向高风险前沿课题的几率显著提高，产出顶尖高引成果（Top 1%）的几率翻倍。
-> - **性别多样性团队提升科研影响力 (Yang et al., 2022)** 分析跨越两千余万篇跨学科文献，在回归模型中引入个体固定效应（Individual Fixed Effects）与学科-年份固定效应。在完全吸收个体先天能力与机构环境恒定差异的前提下，实证证实男女混合团队发表的研究在被引频次与跨界新颖性上均显著高于单一性别团队。
+> - **性别多样性团队提升[[Research Impact|科研影响力]] (Yang et al., 2022)** 分析跨越两千余万篇跨学科文献，在回归模型中引入个体固定效应（Individual Fixed Effects）与学科-年份固定效应。在完全吸收个体先天能力与机构环境恒定差异的前提下，实证证实男女混合团队发表的研究在被引频次与跨界新颖性上均显著高于单一性别团队。
 
 > [!sub-claim] 2. 准实验利用意外冲击与评审门槛，能够准确识别人才溢出与资助效应
 
-面对随时间动态变化的未观测混杂因素，科学学借鉴计量经济学发展出三类核心准实验方法：
-1. **双重差分法（Difference-in-Differences, DID）** 利用突发外部事件（如卓越科学家意外猝逝、地缘政策突变）作为外生冲击，通过比较受冲击处理组与未受冲击对照组在事件前后的双重变化量，剥离共有时间趋势，因果识别同伴效应与学术网络溢出（[[Difference-in-Differences]]）。
-2. **工具变量法（Instrumental Variables, IV）** 寻找一个仅通过影响处理变量进而作用于结果变量的外生工具，排除反向因果与遗漏变量干扰。
-3. **断点回归设计（Regression Discontinuity Design, RDD）** 利用科研基金评审资助线等刚性截断门槛，比较刚好越过资助线（险胜）与刚好落入线下（惜败）的申请人。在切分阈值紧邻邻域内，两组个体的能力特征近似随机分布，阈值两侧结果变量的垂直跳跃无偏揭示了资金资助的局部平均处理效应（Local Average Treatment Effect, LATE）（[[Regression Discontinuity Design]]）。
+> [!feature] 科学学三大准实验因果识别机制
+> - **双重差分法（Difference-in-Differences, DID）** 借助外生突发事件（如学者猝逝、地缘变局）作为冲击，通过比较处理组与对照组在冲击前后的双重变化量扣除共有时间趋势，因果识别学术溢出与同伴效应（[[Difference-in-Differences]]）。
+> - **工具变量法（Instrumental Variables, IV）** 寻找仅通过影响处理变量进而作用于结果变量的外生工具，阻断未观测时变混杂与反向因果路径。
+> - **断点回归设计（Regression Discontinuity Design, RDD）** 利用资助评审打分线等刚性截断门槛，在阈值紧邻邻域内利用个体的局域随机性，无偏测度资助的局部平均处理效应（Local Average Treatment Effect, LATE）（[[Regression Discontinuity Design]]）。
 
 > [!design-notation] 准自然实验双重差分设计（明星学者猝逝因果识别）
 > 比较明星学者猝逝前后，受冲击合作同行（处理组）与匹配未受冲击合作同行（对照组）的科研产出变化：
@@ -250,12 +312,12 @@ issuing_organization: ""
 
 > [!case] 经典实证案例 · 科学学准实验因果识别三大范式
 > - **双重差分法：学术巨星猝逝与合作同行知识溢出效应 (Azoulay et al., 2010)**
->   - **外生冲击** 追踪 112 位生命科学领域在学术巅峰期意外猝逝的顶尖明星科学家。
+>   - **外生冲击** 追踪 112 位生命科学领域在学术巅峰期意外猝逝的顶尖[[Star Scientists|明星科学家]]。
 >   - **双重差分对比** 处理组为 1303 位与猝逝学者长期紧密协作的同行学者；对照组为运用精确匹配技术挑选出的、与未经历猝逝的同等明星学者合作的同代学者。
 >   - **识别检验** 严格验证事前平行趋势假定；实证显示巨星猝逝后，合作同行的年均发文量与引文表现出现 5%–8% 的持久性断崖式下滑，且该损失在高度依赖巨星专业知识的紧密合作群体中尤为显著，确立了学术明星对知识溢出的真实因果贡献。
 > - **工具变量法：二战时期学者政治清洗对高校科学产出的因果冲击 (Waldinger, 2010, 2012)**
 >   - **外生工具** 1933 年德国纳粹政权颁布法令强制解聘所有具有犹太血统的高校学者。清洗比例由各大学历史教研人员的族裔构成决定，与各院系当时的科研发展趋势严格外生。
->   - **因果识别** 以各院系犹太学者被解聘比例作为工具变量，剥离学者主动流动或择校选择效应，因果识别资深同行流失对德国大学留任教员与博士生后续长期产出的负向因果溢出。
+>   - **因果识别** 以各院系犹太学者被解聘比例作为工具变量，剥离学者主动流动或[[School Choice|择校]]选择效应，因果识别资深同行流失对德国大学留任教员与博士生后续长期产出的负向因果溢出。
 > - **断点回归设计：基金评审截断门槛与科学资助马太效应 (Bol et al., 2018)**
 >   - **驱动变量与断点** 荷兰研究理事会（Dutch Research Council, NWO）青年早期创新基金（Veni）严格依据同行评议的量化评审打分排序划定资助线。
 >   - **局域随机性** 处于资助线紧邻两侧（险胜与惜败）的申请人在前期学术成果、博士毕业年限与研究质量上保持严格平滑连续。
@@ -268,10 +330,12 @@ issuing_organization: ""
 
 > [!sub-claim] 3. 随机对照试验能够无偏检验科研评审偏见与政策试点的真实成效
 
-为了在真实世界中精准隔离干预效应，研究者在实验室环境中严格控制交互流程，探索期刊影响因子对学者声誉感知的心理影响以及同行评审中的性别偏见。针对现实资助政策与科研管理改革，随机对照试验（Randomised Controlled Trial, RCT）通过事前人为随机分配资助机制、盲审规则或评审流程，为检验科技政策工具的真实成效提供了最高内部效度的因果证据。
+> [!feature] 实验与随机对照试验的两重实证功能
+> - **受控实验室实验** 在高度纯净的人工环境中严格操纵单一自变量，精确隔离评审打分中的隐性心理倾向与无意识偏见。
+> - **田野随机对照试验（RCT）** 在真实的科研资助与学术会议场景中实施人为[[Random Assignment|随机分配]]，为评估基金分配机制与协作干预政策提供最高[[Internal Validity|内部效度]]的因果证据。
 
 > [!case] 经典实证案例 · 实验室受控实验与田野随机对照试验（RCT）
-> - **实验室对照实验：学术招聘评审中的无意识性别偏见 (Moss-Racusin et al., 2012)** 全美 127 名研究型大学理工科教授在受控实验室环境下评估完全相同、仅候选人名字被随机操纵为约翰（John）或珍妮弗（Jennifer）的实验室主管求职简历。双盲打分证实：无论男女教授，均系统性给予男性申请人显著更高的胜任力评分（4.01 vs 3.33，5分制），更愿意为其提供指导，并开出高出 12% 的起薪（$30,238 vs $26,508）。
+> - **实验室对照实验：学术招聘评审中的无意识性别偏见 (Moss-Racusin et al., 2012)** 全美 127 名[[Research Universities|研究型大学]]理工科教授在受控实验室环境下评估完全相同、仅候选人名字被随机操纵为约翰（John）或珍妮弗（Jennifer）的实验室主管求职简历。双盲打分证实：无论男女教授，均系统性给予男性申请人显著更高的胜任力评分（4.01 vs 3.33，5分制），更愿意为其提供指导，并开出高出 12% 的起薪（$30,238 vs $26,508）。
 > - **田野随机对照试验：面对面交流对科研联合申请的因果催化 (Boudreau et al., 2017)** 在哈佛医学院跨学科资助研讨会上，研究者将申请跨界种子的数百位科学家随机分配至不同的小型讨论室进行 90 分钟破冰交流。实证表明：被随机分配至同一讨论室使两位学者在后续几个月内共同提交课题申请书的几率暴增 75%，因果证实降低信息搜寻成本能大幅激发跨学科合作创新。
 
 > [!row-contrast] 科学学主要实证方法范畴与功能对比
@@ -282,7 +346,7 @@ issuing_organization: ""
 > | **描述性与预测性进路**<br>（Descriptive & Predictive） | **生成机制模型**<br>（Mechanistic Models） | 运用微观数学方程刻画底层数据生成过程；为形式理论提供可证伪检验。 | 结合优先连接、适应度与引文老化的引文动力学模型，合作网络演化动力学。 |
 > | **描述性与预测性进路**<br>（Descriptive & Predictive） | **机器学习与深度表征**<br>（Machine Learning） | 在多层抽象空间中表征复杂非结构化数据；提供优异的样本外预测精度。 | 运用自然语言处理词向量嵌入预测热电新材料物性，预测科学成果可复现性。 |
 > | **因果推断进路**<br>（Causal Approaches） | **匹配与固定效应**<br>（[[Matching]] & Fixed Effects） | 削减回归估计中的选择偏误；控制驱动变量相关的可观测与时不变混杂特征。 | 性别多样性团队对成果影响力的匹配分析；学者个体固定效应排除天资差异。 |
-> | **因果推断进路**<br>（Causal Approaches） | **准实验设计**<br>（[[Difference-in-Differences\|DID]] / IV / [[Regression Discontinuity Design\|RDD]]） | 利用数据情境中的外生随机性构建反事实对比，推断变量间的真实因果关系。 | 明星学者猝逝对同行产出的 DID 识别；基金资助评审分数截断处的 RDD 效应。 |
+> | **因果推断进路**<br>（Causal Approaches） | **准实验设计**<br>（[[Difference-in-Differences\|DID]] / IV / [[Regression Discontinuity Design\|RDD]]） | 利用数据情境中的外生随机性构建[[Counterfactual\|反事实]]对比，推断变量间的真实因果关系。 | 明星学者猝逝对同行产出的 DID 识别；基金资助评审分数截断处的 RDD 效应。 |
 > | **因果推断进路**<br>（Causal Approaches） | **实验与随机对照试验**<br>（Lab Experiments & [[Randomised Controlled Trials\|RCT]]） | 在高度可控环境或田野试点中实施随机分配，识别具体因果机制与干预成效。 | 实验室检验双盲评审消除性别偏见；在科技资助机构中试点部分随机化资助。 |
 
 ---
@@ -301,7 +365,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 科学学实证方法全景体系与政策使命
-> 随着追踪科学运行的大规模数据资源的涌现，来自不同学科背景的研究者开始将科学方法反身应用于科学本身，孕育出蓬勃发展的科学学。新的实证研究发展为检验传统信念与理论框架、发掘科研生产力关联要素、前瞻预测科学突破并优化科技政策设计提供了坚实的实证基底。
+> 随着追踪科学运行的大规模数据资源的[[Emergence|涌现]]，来自不同学科背景的研究者开始将[[Scientific Method|科学方法]]反身应用于科学本身，孕育出蓬勃发展的科学学。新的实证研究发展为检验传统信念与理论框架、发掘科研生产力关联要素、前瞻预测科学突破并优化科技政策设计提供了坚实的实证基底。
 >
 > *The advent of large-scale datasets that trace the workings of science has encouraged researchers from many different disciplinary backgrounds to turn scientific methods into science itself, cultivating a rapidly expanding 'science of science'... Overall, new empirical developments provide enormous capacity to test traditional beliefs and conceptual frameworks about science, discover factors associated with scientific productivity, predict scientific outcomes and design policies that facilitate scientific progress.*
 

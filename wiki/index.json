@@ -38069,6 +38069,18 @@
     "subtype": "program"
   },
   {
+    "title": "Crossref",
+    "type": "fact",
+    "path": "wiki/facts/global/Crossref.md",
+    "aliases": [
+      "出版商国际链接联合会",
+      "Publishers International Linking Association",
+      "PILA",
+      "Crossref 元数据基础设施"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Definition and Selection of Competencies",
     "type": "fact",
     "path": "wiki/facts/global/Definition and Selection of Competencies.md",

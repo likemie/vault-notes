@@ -6,10 +6,10 @@ aliases:
 summary: "以跨学科、跨机构或大规模协同为特征的科研组织范式；依托前沿知识负担加重与大型复杂仪器驱动，团队模式在当代科学中确立了主导地位，享有显著的相对团队影响力与超额引文溢价，同时也面临沟通协调成本与声望层级固化的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 35
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/research-collaboration
   - theme/university-industry-collaboration
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Too-Much-Talent Effect]]"
   - "[[Document]]"
-  - "[[Citation Distribution]]"
+  - "[[Variable]]"
+  - "[[Data Infrastructure]]"
   - "[[Epistemology]]"
   - "[[Invisible College]]"
   - "[[Coauthorship Network]]"
@@ -37,6 +38,7 @@ related_theories:
 related_methods:
   - "[[Relative Team Impact]]"
   - "[[Disruption Index]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Benjamin F. Jones]]"
@@ -45,7 +47,11 @@ related_persons:
   - "[[James A. Evans]]"
   - "[[Roger Guimera]]"
   - "[[Brian Uzzi]]"
-related_facts: []
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+related_facts:
+  - "[[Web of Science]]"
+  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
@@ -54,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -153,7 +159,7 @@ updated: 2026-10-31
 > - **2007 — 团队主导地位的大数据确立** Wuchty、Jones 与 Uzzi 在《科学》发表奠基研究，系统量化团队在科技[[Document|文献]]与专利中的主导格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2008–2013 — 跨校网络与知识重组深化** 实证揭示跨校合作的引文溢价机制，以及团队引入非典型知识重组的认知优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 86–92)]]
 > - **2019 — 团队规模与颠覆性分工发现** Wu、Wang 与 Evans 依托颠覆性指数证实小团队颠覆既有科学、大团队推进既有科学的技术分工规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
-> - **2021 — 团队规模法则与多学科组织生态** 王大顺与巴拉巴西系统整合团队科学实证，在揭示团队规模、知识重组与颠覆性分工的同时，强调不同学科文化在团队规模偏好与署名规范上的深刻异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
+> - **2021 — 团队规模法则与多学科组织生态** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统整合团队科学实证，在揭示团队规模、知识重组与颠覆性分工的同时，强调不同学科文化在团队规模偏好与署名规范上的深刻异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
 
 ---
 
@@ -172,12 +178,12 @@ updated: 2026-10-31
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|:---|
 > | Wuchty et al. (2007) | 1,990 万篇论著与 210 万件专利 | 大规模跨学科文献计量统计 | 团队成果占比与千次以上引文概率 | 理工科团队成果从 50% 增至 80.0%，社科从 17.5% 增至 51.5%；团队获千次引用概率是单人的 6.3 倍 | 全学科全量大数据分析 | 确立团队科学在现代科技知识生产中的主导地位 |
 > | Jones et al. (2008) | 420 万篇跨校论著（1975–2005） | 长周期跨校合作引文分析 | 跨校合作份额与引文溢价 | 理工科跨校合作份额升至 32.8%，社科达 34.4%；跨校成果享有显著被引溢价 | 三十年长周期纵向数据 | 跨校合作带来高溢价，但学者声望同质匹配加剧精英名校同盟分层 |
-> | Uzzi et al. (2013) | Web of Science 涵盖跨学科全量科研文献 | 新异知识重组计量分析 | 团队引入新异知识组合概率与高被引倍数 | 团队引入新异重组概率比单人高出 37.7%，斩获高引用的概率提升 2 倍以上 | 全量跨学科大数据统计 | 揭示团队协作在非典型知识重组与颠覆性突破上的认知优势 |
-| [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | SciSciNet 1.34 亿篇文献与 4,858 万篇颠覆性测度样本 | 亿级科学数据基础设施与预计算复现 | 团队规模、颠覆性指数与篇均引文 | 证实团队规模与颠覆性指数呈严格负相关，单人与微型团队主导颠覆性开拓，大团队主导引文积累与既有范式巩固 | 覆盖全球 19 个一级学科全域样本 | 确立团队规模创新分工法则在亿级大数据中的稳健性与通用性 |
+> | Uzzi et al. (2013) | [[Web of Science]] 涵盖跨学科全量科研文献 | 新异知识重组计量分析 | 团队引入新异知识组合概率与高被引倍数 | 团队引入新异重组概率比单人高出 37.7%，斩获高引用的概率提升 2 倍以上 | 全量跨学科大数据统计 | 揭示团队协作在非典型知识重组与颠覆性突破上的认知优势 |
+| [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | [[SciSciNet]] 1.34 亿篇文献与 4,858 万篇颠覆性测度样本 | 亿级科学[[Data Infrastructure\|数据基础设施]]与预计算复现 | 团队规模、颠覆性指数与篇均引文 | 证实团队规模与颠覆性指数呈严格负相关，单人与微型团队主导颠覆性开拓，大团队主导引文积累与既有范式巩固 | 覆盖全球 19 个一级学科全域样本 | 确立团队规模创新分工法则在亿级大数据中的稳健性与通用性 |
 
 ---
 

@@ -79345,6 +79345,14 @@
       ],
       "title": ""
     },
+    "PILA Charter, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Crossref.md"
+      ],
+      "title": ""
+    },
     "PISA. ... As Rose, 1999": {
       "doi": "",
       "isbn": "",
@@ -106557,7 +106565,8 @@
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Combinatorial Novelty.md",
         "wiki/concepts/science-policy/Novelty Paradox.md",
-        "wiki/concepts/university-industry-collaboration/Team Science.md"
+        "wiki/concepts/university-industry-collaboration/Team Science.md",
+        "wiki/persons/us/Brian Uzzi.md"
       ],
       "title": "Atypical combinations and scientific impact"
     },
@@ -112869,6 +112878,7 @@
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Big Science.md",
         "wiki/facts/us/Microsoft Academic Graph.md",
+        "wiki/persons/us/Lingfei Wu.md",
         "wiki/theories/science-policy/Core and Extended Teams Model.md"
       ],
       "title": "Large teams develop and small teams disrupt science and technology"

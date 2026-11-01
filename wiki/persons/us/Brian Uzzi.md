@@ -9,7 +9,7 @@ summary: "美籍组织社会学家与网络科学家，西北大学凯洛格管�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,15 +45,17 @@ related_persons:
   - "[[Stefan Wuchty]]"
   - "[[Benjamin F. Jones]]"
   - "[[Roger Guimera]]"
-related_facts: []
+related_facts:
+  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -75,6 +77,7 @@ updated: 2026-10-31
 > - **2005** 在《美国社会学评论》（*American Sociological Review*）发表百老汇音乐剧团队合作网络实证研究，提出小世界网络协作理论与倒 U 形创意曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 > - **2007** 与 Wuchty 和 Jones 在《科学》（*Science*）发表团队科学奠基性成果，提出 RTI 指标，证实团队科研对个体研究的全面替代。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **2013** 在《科学》发表非典型[[Combinatorial Novelty|跨界知识重组]]研究，揭示常规[[Paradigm|范式]]与新异跨界组合并存最容易孕育颠覆性突破。
+> - **2023** 其 2013 年提出的期刊共引对组合新颖性算法在 [[SciSciNet]] 中被全量工程化部署，完成 4,414 万篇期刊出版物的预计算解算与经典法则复现。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 
 ---
 
@@ -98,6 +101,7 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）— 深度征引乌齐相对团队影响力（Unit 04）、团队[[Assemblage|组装]]机制（Unit 05）及基于 1,790 万篇论著的组合新颖性与适度平衡架构（Unit 08, pp. 190–193）。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 依托 SciSciNet 4,414 万篇期刊成果全量解算 Uzzi et al. (2013) 的组合新颖性指标，宏观复现了高常规基底与高非典型新颖结合最易产出顶尖成果（7.32% 突破率）的经典知识组合法则。
 
 ---
 

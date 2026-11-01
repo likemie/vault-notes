@@ -8,10 +8,10 @@ summary: "计算社会学家与科学学学者，匹兹堡大学计算机与信�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1984"
 lifespan: "c. 1984–至今"
 tags:
@@ -32,13 +32,15 @@ related_instruments: []
 related_persons:
   - "[[James A. Evans]]"
   - "[[Dashun Wang]]"
-related_facts: []
+related_facts:
+  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -60,6 +62,7 @@ updated: 2026-10-30
 > - **2014–2019** 于芝加哥大学知识实验室（Knowledge Lab）担任博士后研究员，与 [[James A. Evans]] 和 [[Dashun Wang]] 展开深度合作。
 > - **2019** 领衔在《自然》（*Nature*）发表封面论著 *Large teams develop and small teams disrupt science and technology*，荣获国际科学界与政策界广泛关注。
 > - **2020–至今** 入职匹兹堡大学计算机与信息学院，主持计算社会科学与前沿科技创新动力学课题组。
+> - **2023** 其领衔发现的“小团队颠覆、大团队发展”团队规模法则在 [[SciSciNet]] 中被全量复现，基于 4,858 万篇出版物确证小团队颠覆性优势与大团队高引巩固规律。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 
 ---
 
@@ -84,6 +87,7 @@ updated: 2026-10-30
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 深度引用吴令飞关于小团队颠覆、大团队发展的全景实证证据，确立团队规模与科学突破本质规律（pp. 128–132）。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 4,858 万篇[[Document|文献]]全量样本中系统复现吴令飞（Wu et al., 2019）团队规模规律，确证前 5% 高颠覆成果高度富集于单人与微型团队，而大团队主导引文积累与既有范式深化。
 
 ---
 
