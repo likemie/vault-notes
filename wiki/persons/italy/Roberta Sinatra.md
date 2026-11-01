@@ -59,10 +59,10 @@ updated: 2026-11-01
 > - **核心角色** 当代科学学（[[Metascience|Science of Science]]）新一代领军学者，将统计物理[[Counterfactual|反事实]]零模型与大规模引文计量数据深度融合。
 > - **代表贡献** 领衔在《科学》（*Science*）发表关于个体艺术与科学职业演化的奠基性论著，系统提出[[Random Impact Rule|随机影响规律]]，构建[[Q-Model|Q 模型]]与度量稳态转化能力的[[Q-Factor|Q 因子]]。
 
-> [!citation-card] 西纳特拉论科学影响的随机发生机制
-> 我们将物理学者的生涯数据与随机置换后的反事实曲线进行比对，发现两组曲线完全重叠。这意味着学者生涯早期突破集中的现象完全由生产力的非平稳波动所解释；一旦校正发文频率，重磅成果的降临在学术生涯各个阶段纯粹服从随机规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 53–55)]]
+> [!citation-card] 西纳特拉等论科学突破的随机发生机制
+> 在学者的全部论著中，成果影响力服从随机分布，独立于发表时间或在序列中的先后位次。最高影响力的代表作以均等几率出现在学者终身发表序列中的任何位置，即随机影响法则。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, p. 597)]]
 >
-> *The lack of differences between the two curves indicates that impact is random within a scientist's sequence of publication... young scientists have a disproportionate number of breakthroughs early in their career simply because they're in their most productive period.*
+> *Together, we arrive at a rather unexpected conclusion, representing our main empirical finding: Impact is randomly distributed within a scientist's body of work, regardless of publication time or order in the sequence of publications. We call this the random-impact rule because it indicates that the highest-impact work can be, with the same probability, anywhere in the sequence of N papers published by a scientist.*
 
 ---
 
@@ -108,6 +108,9 @@ updated: 2026-11-01
 >
 > > [!axis] 单篇成果纯随机[[Emergence|涌现]] vs 连胜爆发局部聚集
 > > 西纳特拉等强调单篇成果影响力在发表序列中服从均匀[[Random Sampling|随机抽样]]；后续连胜爆发期研究揭示学者在特定阶段存在连续产出高质量成果的爆发聚集，引发关于局部聚集与全局随机的理论调和争鸣。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 54–56)]]
+>
+> > [!axis] 晚期突破匮乏的成因：认知衰竭 vs 发文速率下降
+> > 传统创造力研究假定资深学者突破成果减少源于生理认知与创新活力衰退；西纳特拉等通过反事实置换与 Q 参数滑动窗口分析（$\Delta N = 30$）证实，学者转化能力 Q 在学术生涯全程保持平稳，晚期突破减少由年发文速率 $n(t)$ 的自然回落所主导。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 598–600)]]
 
 ---
 

@@ -85,8 +85,8 @@ updated: 2026-11-01
 > - **变体与扩展** 早期与晚期阶段能力指标 $Q_{early}$ 与 $Q_{late}$，用于检测学者全生命周期能力的纵向漂移与稳态检验。
 
 > [!dev-timeline] 方法演化
-> - **2016 — 指标提出与数理求解** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）在《科学》（*Science*）论著中正式给出极大似然估计形式及其对数平均解析近似式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
-> - **2016 — 诺奖预测力竞争实证** 开展多指标预测竞赛，ROC 曲线实证表明 Q 因子的排序精度超越总被引、代表作被引和 h 指数，而发文量 $N$ 的预测效能垫底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
+> - **2016 — 指标提出与数理求解** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）在《科学》（*Science*）论著中正式给出极大似然估计形式及其对数平均解析近似式。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
+> - **2016 — 诺奖预测力竞争实证** 开展多指标预测竞赛，ROC 曲线实证表明 Q 因子排序精度（AUC = 0.88）超越总被引（0.85）、代表作被引和 h 指数（0.83），而发文量 $N$ 的预测效能垫底（0.62）。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
 > - **2021 — 专家打分实验的内在机制印证** 结合经济学顶级期刊同行简历评估实验，证实同行评议本能惩罚稀释均质质量的低层级发表，证明学界隐性评价遵从类似 Q 因子的均质偏好而非单调递增指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–70)]]
 
 ---
@@ -180,6 +180,7 @@ updated: 2026-11-01
 > | 物理学中等水平活跃学者 | $Q \approx 3.3$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021, p. 65)]] |
 > | 物理学普通水平研究人员（产出被引超 30 次代表作需 100 篇发文） | $Q \approx 1.2$ | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021, p. 66)]] |
 > | 823 位长周期物理学家生涯早晚期波动落入置换带比例 | 95.1% | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021, p. 67)]] |
+> | 预测诺贝尔物理学奖得主 ROC 曲线下面积（AUC） | 0.88（高于总被引 0.85 与 h 指数 0.83） | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] |
 
 ---
 

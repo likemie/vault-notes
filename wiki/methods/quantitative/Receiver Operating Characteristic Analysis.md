@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-10-31
 > [!dev-timeline] 方法演变
 > - **二战时期 — 雷达工程起源** 最早用于雷达信号接收中区分真实目标信号与随机杂波干扰。
 > - **1970–1980 年代 — 医学临床诊断普及** 被广泛引入医学诊断试剂盒与流行病学筛查评价。
-> - **2016 年 — 科学学指标预测竞赛** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）与[[Albert-László Barabási|巴拉巴西]]等人将其引入科学评价，针对物理学家大样本开展“马赛竞争”，实证揭示 Q 因子 AUC 高达 0.75，大幅超越传统单纯依赖发文量的累积指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
+> - **2016 年 — 科学学指标预测竞赛** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）与[[Albert-László Barabási|巴拉巴西]]等人将其引入科学评价，针对物理学家大样本开展竞赛检验，实证揭示 Q 因子预测诺贝尔奖得主的 AUC 高达 0.88，显著超越总被引（0.85）、$h$ 指数（0.83）与单纯依赖发文量的累积指标（0.62，排名垫底）。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–68)]]
 
 ---
 
@@ -149,4 +149,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 运用受试者工作特征（ROC）与 AUC 分析，在物理学全样本中比对 Q 因子、总被引、代表作被引、h 指数与发文量对诺贝尔奖得主的预测效能，证实稳态质量指标显著超越数量累积指标。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 运用 ROC 曲线与 AUC 面积检验科研指标对诺奖得主的预测精度（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit03]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Unit10]] 评估基于论著文本叙述与评审指标的学术复现性预测模型。

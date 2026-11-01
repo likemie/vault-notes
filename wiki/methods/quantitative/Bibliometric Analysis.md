@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-10-31
 > [!method-stack] 数据与[[Variable|变量]]
 > - **数据结构** 纵向时间序列文献题录数据、非对称引文有向网络、对称共引/共词无向加权网络。
 > - **样本与单位** 经检索式筛选的全部目标成果记录；分析单位为单篇论著、学者、机构或关键词。
-> - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、相对引文影响因子、参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。
+> - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、十年被引窗口指标 $c_{10}$、相对引文影响因子、参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。
 
 ---
 
@@ -136,5 +136,6 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 依托跨世纪文献计量全量引文网络与高精度学者消歧追踪，构建长周期物理学家与跨学科学者发表序列，实证解构个体学术生产力与影响力的生命周期演变机制。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 测定科研生产力分布（Unit 01），反思流产团队幸存者盲区（Unit 05），解构引文差距与相对标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 建立引文动力学模型与知识热点架构。

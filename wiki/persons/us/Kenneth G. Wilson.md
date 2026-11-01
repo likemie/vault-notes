@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 ---
@@ -65,7 +65,7 @@ updated: 2026-10-30
 > - **1961** 在加利福尼亚理工学院获得博士学位，导师为默里·盖尔曼（Murray Gell-Mann）。
 > - **1963–1988** 执教于康奈尔大学，完成关键突破。
 > - **1971** 发表关于临界现象与重整化群的里程碑论著。
-> - **1974** 发表具有最高长期被引影响力的经典综述论著。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 52)]]
+> - **1974** 发表具有最高长期被引影响力的经典综述论著。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 52)]]
 > - **1982** 荣获诺贝尔物理学奖。
 > - **2013** 逝世于缅因州萨科。
 
@@ -73,7 +73,7 @@ updated: 2026-10-30
 
 > [!work-line] 主要论著
 > - **1971 — *Renormalization Group and Critical Phenomena*（《物理评论》）** 提出解决二级相变临界指数计算的系统化数理方案。
-> - **1974 — *The Renormalization Group and the $\epsilon$ Expansion*（《物理评论》）** 与迈克尔·费希尔（Michael Fisher）合著，成为其学术生涯中长期被引量最高的代表作（$t^*=9$）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 52)]]
+> - **1974 — *The Renormalization Group and the $\epsilon$ Expansion*（《物理评论》）** 与迈克尔·费希尔（Michael Fisher）合著，成为其学术生涯中长期被引量最高的代表作（$t^*=9, N^*=17, N=48$）。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 52)]]
 
 ---
 
@@ -85,9 +85,10 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论物理路径** 创立重整化群方法，打通从微观量子场论到宏观相变临界现象的跨尺度计算桥梁，彻底改写凝聚态与高能物理学[[Paradigm|研究范式]]。
 > - **计算科学路径** 极力倡导[[Big Science|大科学]]计算在基础物理中的应用，创办康奈尔超级计算中心并推动格点量子色动力学数值模拟。
-> - **科学学与计量学路径** 其 48 篇紧凑论著序列被选定为图钉投影法的标准演示范式，为全样本学者[[Counterfactual|反事实]]生涯打乱实验奠定微观基准。
+> - **科学学与计量学路径** 其 48 篇紧凑论著序列在《科学》奠基研究中被选定为引文轨迹演进的微观标本（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]），直观揭示巅峰突破前后成果质量未出现引文高原的独立特征，为全样本学者[[Counterfactual|反事实]]生涯打乱实验奠定微观基准。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将威尔逊的 48 篇终身论著作为图 1A 经典微观标本，通过代表作位次（$t^*=9, N^*=17, N=48, N^*/N=0.354$）直观展示突破前后引文波动的独立随机性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 以威尔逊的真实发表轨迹与随机打乱轨迹进行直观投影对照，作为全书阐释随机影响法则的代表性案例。
 
 ---
