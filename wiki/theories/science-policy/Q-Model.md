@@ -58,7 +58,7 @@ updated: 2026-10-31
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 计算社会科学家与物理学者[[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2016 年发表于《科学》（*Science*）的奠基论著《量化个体艺术与科学职业生涯的演变》（Quantifying the Evolution of Individual Artistic and Scientific Careers）中形式化提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 61–64)]]
+> - **提出者与原始文本** 计算社会科学家与物理学者[[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）、[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在 2016 年发表于《科学》（*Science*）的奠基论著《量化个体科学影响力的演变》（Quantifying the Evolution of Individual Scientific Impact）中形式化提出。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 61–64)]]
 > - **原初问题** 若重大突破在学术生涯发表序列中确实服从严格的[[Random Impact Rule|随机影响规律]]，爱因斯坦般的划时代成就究竟是数万名学者在漫长时间跨度内纯凭运气抽样的统计偶然，还是存在超越运气的个体稳态特质。
 > - **理论资源与材料** 采集涵盖 2,856 位长周期物理学家数十万篇论著的引文轨迹，构建以纯偶然抽样为基准的[[Null Hypothesis|零假设]]随机模型（R-model），并通过实测数据与理论预测的协方差结构比对展开理论迭代。
 > - **形成路径** 研究团队首先测试纯运气模型（R-model），该模型预测最高影响论著的被引量随总发文量 $N$ 的增长而温和爬升；但真实经验数据表明，真实学者的巅峰被引量 $c^*_{10}$ 随 $N$ 的增长速度显著快于纯[[Random Sampling|随机抽样]]预期。这证实高产学者具备低产学者所不具备的某种内在转化特质。研究者随后引入表征转化能力的个体参数 $Q$，通过测量协方差矩阵证实构想价值 $r$ 与能力 $Q$ 和发文量 $N$ 严格统计独立，成功推导出与经验数据高度吻合的解析曲线。
@@ -139,4 +139,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出 Q 模型并形式化双因子乘积表达式，证实课题潜在价值与学者转化能力相互独立，确立能力因子的终身平稳性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 详尽阐释 Q 模型的双因子乘积构造、运气与能力的独立性检验、全生命周期参数稳定性，以及在诺贝尔奖 ROC 预测竞争中的卓越效度。
