@@ -9937,6 +9937,8 @@
     "Hans (1958)": "Hans, 1958",
     "Hans (1959)": "Hans, 1959",
     "Hans (1964)": "Hans, 1964",
+    "Hans Reichenbach (1956)": "Hans Reichenbach, 1956",
+    "Hans Reichenbach, 1956": "Hans Reichenbach, 1956",
     "Hans, 1949": "Hans, 1949",
     "Hans, 1952": "Hans, 1952",
     "Hans, 1955": "Hans, 1955",
@@ -25134,6 +25136,8 @@
     "Werner, 1997": "Werner, 1997",
     "Wescott (2022)": "Wescott, 2022",
     "Wescott, 2022": "Wescott, 2022",
+    "Wesley Salmon (1998)": "Wesley Salmon, 1998",
+    "Wesley Salmon, 1998": "Wesley Salmon, 1998",
     "West & Bergstrom (2021)": "West & Bergstrom, 2021",
     "West & Bergstrom, 2021": "West & Bergstrom, 2021",
     "West (2017)": "West, 2017",
@@ -44311,7 +44315,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
-        "wiki/concepts/research-methodology/Dependent Variable.md",
         "wiki/methods/quantitative/Pretest-Posttest Control Group Design.md"
       ],
       "title": ""
@@ -86071,8 +86074,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
-        "wiki/concepts/science-policy/Homophily.md",
-        "wiki/concepts/science-policy/Team Diversity.md"
+        "wiki/concepts/science-policy/Homophily.md"
       ],
       "title": ""
     },
@@ -99744,6 +99746,21 @@
       "seen_in": [],
       "title": "Attitudinal study  The interaction of students taking calculus and prerequisite courses while participating in peer tutorials"
     },
+    "Hans Reichenbach, 1956": {
+      "aliases": [
+        "Hans Reichenbach, 1956",
+        "Hans Reichenbach (1956)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hans Reichenbach, 1956"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Screening Off.md"
+      ],
+      "title": ""
+    },
     "Hans, 1949": {
       "aliases": [
         "Hans, 1949",
@@ -105066,8 +105083,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md",
-        "wiki/concepts/educational-philosophy/Screening Off.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md"
       ],
       "title": ""
     },
@@ -119419,7 +119435,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20.md",
-        "wiki/concepts/research-methodology/Independent Variable.md",
         "wiki/methods/quantitative/Pilot Testing.md"
       ],
       "title": ""
@@ -129862,7 +129877,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Boundary Spanner.md",
-        "wiki/concepts/university-industry-collaboration/Research Impact.md",
         "wiki/theories/educational-policy-reform/Research Knowledge Mobilisation Model.md"
       ],
       "title": ""
@@ -148286,7 +148300,6 @@
         "wiki/concepts/educational-philosophy/Causality.md",
         "wiki/concepts/educational-philosophy/Ecological Fallacy.md",
         "wiki/concepts/educational-philosophy/Interpretive Paradigm.md",
-        "wiki/concepts/educational-philosophy/Screening Off.md",
         "wiki/methods/qualitative/Observation Method.md",
         "wiki/methods/quantitative/Criterion Group Study.md",
         "wiki/methods/quantitative/Ex Post Facto Research.md",
@@ -160925,8 +160938,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md",
-        "wiki/concepts/educational-philosophy/Screening Off.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04.md"
       ],
       "title": ""
     },
@@ -209769,6 +209781,21 @@
       ],
       "title": ""
     },
+    "Wesley Salmon, 1998": {
+      "aliases": [
+        "Wesley Salmon, 1998",
+        "Wesley Salmon (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wesley Salmon, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Screening Off.md"
+      ],
+      "title": ""
+    },
     "West & Bergstrom, 2021": {
       "aliases": [
         "West & Bergstrom, 2021",
@@ -214965,6 +214992,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/concepts/science-policy/Team Diversity.md",
         "wiki/theories/comparative-education/Tianxia Heuristic.md"
       ],
       "title": "Gender-diverse teams produce more novel and higher-impact scientific ideas"

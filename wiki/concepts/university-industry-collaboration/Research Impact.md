@@ -7,7 +7,7 @@ aliases:
   - societal impact of research
   - research impact assessment
   - 广泛社会影响
-summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
+summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯。"
 type: concept
 domain: "university-industry-collaboration"
 related_count: 33
@@ -62,28 +62,28 @@ related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
 
 > [!def] Research Impact
-> 科研影响力（Research Impact），在当代高等教育政策与科研评价语境中，特指经同行评议认定的优秀学术研究对学术共同体之外的广泛领域——包括经济繁荣、公共政策制定、医疗健康改善、文化生活繁荣、教育实践以及生态环境保护等——所带来的可验证、可测度的实质性贡献、效益或积极变革（demonstrable benefits to society and economy）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> 科研影响力（Research Impact），在当代高等教育政策与科研评价语境中，特指经同行评议认定的优秀学术研究对学术共同体之外的广泛领域——包括经济繁荣、公共政策制定、医疗健康改善、文化生活繁荣、教育实践以及生态环境保护等——所带来的可验证、可测度的实质性贡献、效益或积极变革（demonstrable benefits to society and economy）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 区别于学术界内部的“学术影响”（以引文频次、期刊影响因子等[[Document|文献]]计量为表征），科研影响力关注知识溢出（Knowledge Spillovers）与非学术社会价值创造。
 > - **用途** 作为国家宏观科研资助分配的准市场评价工具，督促大学向纳税人论证公共财政投入的社会回报（Accountability），激励学者走出象牙塔并回应当代重大社会挑战。
 > - **边界** 不等于短期的商业化变现或技术专利转让；亦不等于单纯的科研成果宣传公关，必须具备明确的因果转化链条与独立受益人证据。
 
 > [!boundary]- 概念边界
-> - 不等于学术内部引用影响（Academic Citations） — 后者衡量同行学者对学术文献的后续使用与学术圈内声誉；科研影响力衡量知识在社会、经济、政策与文化领域的真实外溢成效。
-> - 不等于单一的技术商业化（Commercialisation） — 专利授权与企业衍生公司仅是科研影响力的狭窄子集，公众参与、政策启迪、社会公平与公共健康改善同等重要。
+> - 不等于 学术内部引用影响（Academic Citations） — 后者衡量同行学者对学术文献的后续使用与学术圈内声誉；科研影响力衡量知识在社会、经济、政策与文化领域的真实外溢成效。
+> - 不等于 单一的技术商业化（Commercialisation） — 专利授权与企业衍生公司仅是科研影响力的狭窄子集，公众参与、政策启迪、社会公平与公共健康改善同等重要。
 
 ---
 
-> [!contrast-table] 科研影响力、学术内部引用与科技成果商业化辨析
+> [!contrast-table|notitle] 科研影响力、学术内部引用与科技成果商业化辨析
 > | 维度 | 科研影响力（Research Impact） | 学术内部引用（Academic Citations） | 科技成果商业化（Commercialisation） |
 > |---|---|---|---|
 > | **评估对象** | 研究对社会、经济与文化的广泛效益 | 同行学者对学术论著的引证频次 | 专利许可、[[Technology Transfer\|技术转让]]与衍生企业营收 |
@@ -95,17 +95,13 @@ updated: 2026-10-29
 ---
 
 > [!feature] 核心要素
-> - **可证实性与社会外在性（Demonstrability & External [[Reach]]）**
->   影响力必须超越高校与学术圈内部，对外部真实世界的政策、产业、社区或个体产生可识别的实质性积极改变，并具备可供第三方审计的外部证明材料。
-> - **多元化实现路径（Pluralistic Impact Pathways）**
->   科研成果向社会效益的转化不拘泥于单一途径，涵盖医疗健康指南革新、环境监管政策修订、工业制造效率提升、[[Citizen Science\|公民科学]]素养培育与地方文化繁荣等多维场景。
-> - **[[Public Engagement with Science\|公众科学参与]]的催化通道（Public Engagement as Catalyst）**
->   公众科学参与不仅是展示成果的渠道，更是连接科学共同体与外部利益相关者的核心转化中枢；双向对话与上游共创能够大幅缩短知识转化阻力，催生深远且持久的社会影响。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
-> - **科研影响力评估的三层进阶阶梯（Three Tiers of Impact Evaluation）**
->   将科研影响力的度量自下而上划分为三个相互嵌套的因果层级（Levin, 2011; Gough et al., 2018; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, pp. 117–118]]）：
->   1. **最终受益人群体成效（Ultimate Beneficiary Outcomes）** 处于因果链顶端，指学生学业进展、身心健康、教育公平与长远福祉等最终受益人层面的实质性积极改变，因果链漫长且极难直接归因；
->   2. **预定使用者的行为与实践变革（Behaviours of Intended Users）** 处于因果链中游，指一线教师教学行为革新、[[School Leadership\|学校领导]]层[[Output-Oriented Governance\|循证治理]]常规与教育行政部门政策制定流程转型；
->   3. **中间过程产出（Intermediate Outcomes）** 处于因果链基底，涵盖研究证据的获取渠道通畅度、使用者对研究的认知与[[Research Literacy\|研究素养]]提升以及对科学证据的信任态度。
+> - **可证实性与社会外在性（Demonstrability & External [[Reach]]）** 影响力必须超越高校与学术圈内部，对外部真实世界的政策、产业、社区或个体产生可识别的实质性积极改变，并具备可供第三方审计的外部证明材料。
+> - **多元化实现路径（Pluralistic Impact Pathways）** 科研成果向社会效益的转化不拘泥于单一途径，涵盖医疗健康指南革新、环境监管政策修订、工业制造效率提升、[[Citizen Science|公民科学]]素养培育与地方文化繁荣等多维场景。
+> - **[[Public Engagement with Science|公众科学参与]]的催化通道（Public Engagement as Catalyst）** 公众科学参与不仅是展示成果的渠道，更是连接科学共同体与外部利益相关者的核心转化中枢；双向对话与上游共创能够大幅缩短知识转化阻力，催生深远且持久的社会影响。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> - **科研影响力评估的三层进阶阶梯（Three Tiers of Impact Evaluation）** 将科研影响力的度量自下而上划分为三个相互嵌套的因果层级：
+>   1. **最终受益人群体成效（Ultimate Beneficiary Outcomes）** 处于因果链顶端，指学生学业进展、身心健康、教育公平与长远福祉等最终受益人层面的实质性积极改变；
+>   2. **预定使用者的行为与实践变革（Behaviours of Intended Users）** 处于因果链中游，指一线教师教学行为革新、[[School Leadership|学校领导]]层[[Output-Oriented Governance|循证治理]]常规与教育行政部门政策制定流程转型；
+>   3. **中间过程产出（Intermediate Outcomes）** 处于因果链基底，涵盖研究证据的获取渠道通畅度、使用者对研究的认知与[[Research Literacy|研究素养]]提升以及对科学证据的信任态度。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
 
 > [!logic-map]- 科研影响力评估的三层因果递进逻辑
 > ```mermaid
@@ -133,39 +129,35 @@ updated: 2026-10-29
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜[[Public Engagement with Science|公众科学参与]]是催化广泛社会影响的核心路径但面临制度性归因困境
 > **探讨维度　参与路径与归因张力** 公众参与构成了科学成果转化为社会福祉不可或缺的实践桥梁，但由于公众对话所促成的观念转变与信任构建具有弥散性与长周期性，导致其在严格量化审计的评价体制中极易遭遇证明困难。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]
-> **双向参与作为影响引擎及其长周期弥散特性** 在英国科研卓越框架（REF 2014 与 REF 2021）中，全英约 50% 的提交影响力案例明确依托[[Public Engagement with Science\|公众科学参与]]作为关键路径；然而，展现公众参与带来的社会影响极具挑战性，因其涉及微妙、分散且跨越漫长时间维度的认知与文化转变，因果链条难以进行简单线性归因，导致高校在申报此类案例时存在顾虑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6)]]
+> **双向参与作为影响引擎及其长周期弥散特性** 在英国科研卓越框架（REF 2014 与 REF 2021）中，全英约 50% 的提交影响力案例明确依托[[Public Engagement with Science|公众科学参与]]作为关键路径；然而，展现公众参与带来的社会影响极具挑战性，因其涉及微妙、分散且跨越漫长时间维度的认知与文化转变，因果链条难以进行简单线性归因，导致高校在申报此类案例时存在顾虑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 ---
 
 > [!concept-proposition] 命题二｜量化审计评价机制容易诱发商业化偏差并产生早期学术外展的挤出效应
 > **探讨维度　评价偏差与学术分层** 当科研评估与大学核心财政拨款强力挂钩时，单一偏向可量化硬指标的导向会重塑高校管理层的资源配置优先级，导致需要长线培育的草根科学外展与青年学者遭遇制度性边缘化。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]
-> **短期商业化优先与早期学者外展挤出** 由于高分案例直接决定大学核心拨款，高校内部资金与法务支持严重向能快速产生经济产值的商业化与专利转化倾斜，投向公众参与的资源相对匮乏；同时，对确定性“最终影响”的过度聚焦，导致高校资源远离了难以量化直接成效的早期职业学者（ECRs）探索性活动与面向公众的通识性传播。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6)]]
+> **短期商业化优先与早期学者外展挤出** 由于高分案例直接决定大学核心拨款，高校内部资金与法务支持严重向能快速产生经济产值的商业化与专利转化倾斜，投向公众参与的资源相对匮乏；同时，对确定性“最终影响”的过度聚焦，导致高校资源远离了难以量化直接成效的早期职业学者探索性活动与面向公众的通识性传播。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 ---
 
 > [!concept-proposition] 命题三｜教育科研影响力具有间接性与缓慢渗透性，系统治理需依托崇高目标指引（乌托邦之喻）
 > **探讨维度　间接缓慢特征与系统导向价值** 探讨教育人文与社会科学科研影响力的特殊性。与生物医药或工业技术产生直接、线性的产出不同，教育科学对真实课堂和学生学习的影响往往是高度间接、潜移默化且极其缓慢的。
 
-> [!claim] Galeano (2012); [[Argument_Torres_2022_KMModels\|Torres (2022b)]]
-> **终极目标在系统治理中的导向价值：乌托邦之喻** 绝大多数[[Knowledge Mobilisation\|知识动员]]框架仅将促发[[Research Utilization\|证据使用]]视作终点，忽略了系统追求的终极目标。如果将教育研究视为对学生学习产生间接而缓慢影响的事物，那么学生学习可能看起来就像地平线上遥不可及的目标；无论我们走多远，都无法真正触及那个地平线。然而正如作家 Eduardo Galeano (2012) 的乌托邦之喻所指出的，遥不可及目标的真正意义在于指引系统前行；承诺一个明确目标并在图示和文字中清晰表达，能让教育系统及其行动者在应对缓慢复杂的因果链条时始终锁定终极方向。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, p. 51)]]
+> [!claim] Galeano (2012); [[Argument_Torres_2022_KMModels|Torres (2022b)]]
+> **终极目标在系统治理中的导向价值：乌托邦之喻** 绝大多数[[Knowledge Mobilisation|知识动员]]框架仅将促发[[Research Utilization|证据使用]]视作终点，忽略了系统追求的终极目标。如果将教育研究视为对学生学习产生间接而缓慢影响的事物，那么学生学习可能看起来就像地平线上遥不可及的目标；无论我们走多远，都无法真正触及那个地平线。然而正如作家 Eduardo Galeano (2012) 的乌托邦之喻所指出的，遥不可及目标的真正意义在于指引系统前行；承诺一个明确目标并在图示和文字中清晰表达，能让教育系统及其行动者在应对缓慢复杂的因果链条时始终锁定终极方向。[[Argument_Torres_2022_KMModels|(Torres, 2022b, p. 51)]]
 
 ---
 
 > [!concept-proposition] 命题四｜循证中介机构面临最终受益人归因鸿沟与实效评估赤字
 > **探讨维度　评估层级错配与因果归因鸿沟** 探讨教育科研影响力评估在实践中的制度性瓶颈。绝大多数旨在促进证据使用的中介机构与干预项目，其评价实践普遍停留在中间过程与使用态度层面，面临无法将干预归因于最终受益人成效的实效评估赤字。
 
-> [!claim] [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]]; Gough et al. (2018); Gu et al. (2021)
-> **“有效机构”（[[What Works Network\|What Works Centres]]）评估赤字与最终受益人归因断裂** 绝大多数旨在促进证据使用的中介机构与干预举措，其自身极少对所促进的“最终影响力”（如学生[[Academic Achievement\|学业成绩]]或健康改善）进行严格独立评估。跨国实证调查显示，[[OECD\|经合组织]]仅有 17% 的系统对教学实践端的研究利用开展系统监测，仅有 22% 对政策制定端开展监测；对全球“有效机构”（What Works Centres）的[[Systematic Review\|系统综述]]亦发现其普遍缺乏对最终受益人产出的实证检验（Gough et al., 2018）。即便如英国“[[Research Schools Network\|研究学校网络]]”（Research Schools Network, RSN）长达三年的大规模实证评估（Gu et al., 2021），也仅能证实教师研究意识与学校教研风气的积极转变，而未能检测到学生学业成绩（GCSE 成绩）产生统计学显著改善。这种“中间过程繁荣”与“最终成效因果断裂”的张力，构成了教育科研影响力评估的核心治理挑战。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–118)]]
+> [!claim] [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]]; Gough et al. (2018); Gu et al. (2021)
+> **有效机构评估赤字与最终受益人归因断裂** 绝大多数旨在促进证据使用的中介机构与干预举措，其自身极少对所促进的“最终影响力”（如学生[[Academic Achievement|学业成绩]]或健康改善）进行严格独立评估。跨国实证调查显示，[[OECD|经合组织]]仅有 17% 的系统对教学实践端的研究利用开展系统监测，仅有 22% 对政策制定端开展监测；对全球“有效机构”（[[What Works Network|What Works Centres]]）的[[Systematic Review|系统综述]]亦发现其普遍缺乏对最终受益人产出的实证检验（Gough et al., 2018）。即便如英国“[[Research Schools Network|研究学校网络]]”（RSN）长达三年的大规模实证评估（Gu et al., 2021），也仅能证实教师研究意识与学校教研风气的积极转变，而未能检测到学生学业成绩（GCSE 成绩）产生统计学显著改善。这种“中间过程繁荣”与“最终成效因果断裂”的张力，构成了教育科研影响力评估的核心治理挑战。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 117–118)]]
 
 ---
 
@@ -180,41 +172,39 @@ updated: 2026-10-29
 ---
 
 > [!dev-timeline] 概念演变
-> - **1986–2008 — 纯学术产出阶段（[[Research Excellence Framework\|RAE]] 时代）** 英国大学评估（RAE）聚焦于论著发表质量（Outputs）与同行评议等级，科研影响力未进入国家资源分配考核。
-> - **2014 — 社会影响法定化（REF 2014）** 英国科研卓越框架首次正式引入“影响力案例”（Impact Cases），设置 20% 考评权重，要求论证科研对经济与社会的实质效益，引发全球高校研究评估[[Paradigm\|范式]]转型。
+> - **1986–2008 — 纯学术产出阶段（RAE 时代）** 英国大学评估（RAE）聚焦于论著发表质量（Outputs）与同行评议等级，科研影响力未进入国家资源分配考核。
+> - **2014 — 社会影响法定化（REF 2014）** 英国科研卓越框架首次正式引入“影响力案例”（Impact Cases），设置 20% 考评权重，要求论证科研对经济与社会的实质效益，引发全球高校研究评估[[Paradigm|范式]]转型。
 > - **2021 — 权重深化与路径反思（REF 2021）** 影响力权重提升至 25%；近半数案例展现公众参与价值，但商业化偏倚与量化因果证明困难促发学界强烈反思。
-> - **2022 — 系统生态视角下的教育研究影响力反思与评估层级确立** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 提出教育科学的影响力具有间接性与缓慢渗透特征，主张以崇高目标（乌托邦之喻）统领全系统；[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 进一步提炼出影响力评估的三层阶梯，指出中介机构普遍缺乏对最终受益人成效监测的制度赤字。
-> - **2029 — 过程与生态重构（REF 2029）** 针对以往过度聚焦短期经济结果的弊端，改革方案设立独立的“参与与影响”（Engagement and Impact）考评剖面，要求将参与战略内嵌于科研环境并核算专职队伍编制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, p. 101)]]
+> - **2022 — 系统生态视角下的教育研究影响力反思与评估层级确立** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 提出教育科学的影响力具有间接性与缓慢渗透特征，主张以崇高目标（乌托邦之喻）统领全系统；[[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] 进一步提炼出影响力评估的三层阶梯，指出中介机构普遍缺乏对最终受益人成效监测的制度赤字。
+> - **2029 — 过程与生态重构（REF 2029）** 针对以往过度聚焦短期经济结果的弊端，改革方案设立独立的“参与与影响”（Engagement and Impact）考评剖面，要求将参与战略内嵌于科研环境并核算专职队伍编制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, p. 101)]]
 
 ---
 
-> [!tension] 科研影响力评估的双元利益导向冲突
-> - **技术商业化导向（蓝方）** 强调专利授权、[[Technology Transfer\|技术转让]]与企业衍生公司所带来的立竿见影的量化财政回报与经济增长。
-> - **[[Public Value|公共价值]]与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> [!tension|notitle] 科研影响力评估的双元利益导向冲突
+> - **技术商业化导向（蓝方）** 强调专利授权、[[Technology Transfer|技术转让]]与企业衍生公司所带来的立竿见影的量化财政回报与经济增长。
+> - **[[Public Value|公共价值]]与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 科研影响力概念容易导致将学术研究的价值狭隘化为短期功利效益；若对基础研究强行套用线性因果归因指标，可能严重扼杀自由探索类研究（[[Curiosity-Driven Research|Blue Skies Research]]），且忽视了科学思想在历史长河中渐进、跨学科渗透的非线性规律。
 
 ---
 
-> [!ref-table]- 英国科研卓越框架（REF）公众参与影响力案例分布与特征
-> | 评估周期 | 涉及公众参与的影响力案例比例 | 学科领域[[Heterogeneity\|异质性]]特征 | 核心收益覆盖维度 | 评估体制挑战与特征 |
-> |---|---|---|---|---|
-> | **REF 2014 与 REF 2021** | 约 50% 的提交案例将公众参与作为促成社会影响的核心路径 | **人文与社会科学领域显著高于理工医（STEMM）** | 医疗临床改善、宏观公共政策启迪、地方经济赋能与文化艺术繁荣 | 因果作用微妙弥散，缺乏线性硬证据，申报积极性受抑制（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, Ch. 6, p. 101]]） |
+> [!empirical-divider]
 
-> [!ref-table]- [[OECD\|经合组织]] 37 个教育系统科研影响力监测机制与实效评估实证数据（2021–2022年）
-> | 评估与监测维度 | 实证比例/研究发现 | 核心测评对象与指标 | 制度性挑战与治理启示 |
-> |:---|:---:|:---|:---|
-> | **政策端[[Research Utilization\|研究利用]]监测** | **22%** | 监测政策制定流程中是否正式征引或考量研究证据 | 仅两成系统建立了政策层面的研究利用追踪机制，大部分系统缺乏常态化监测手段 |
-> | **实践端研究利用监测** | **17%** | 监测学校教学、领导力与课程实践中对研究证据的采纳程度 | 实践端监测率显著偏低，难以系统掌握一线课堂对实证干预的真实吸纳现状 |
-> | **“有效机构”（[[What Works Network\|What Works Centres]]）实证综述** | **极度匮乏** | 评估中介干预对最终受益人（学生、弱势群体）学业与健康的直接增益 | 普遍将“信息分发量”或“教师参与人次”替代最终效益，面临因果链归因断裂（Gough et al., 2018） |
-> | **[[Research Schools Network\|英国研究学校网络]]（RSN）3年评估** | 中介成效显著，**学生成绩无显著差异** | 测量教师研究意识、校本教研文化以及学生 GCSE 统一考试[[Academic Achievement\|学业表现]] | 证实知识中介干预能有效重塑中观学校文化与微观教师认知，但难以在短期内线性转化为学生统考成绩显著提高（Gu et al., 2021; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, p. 118]]） |
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]] | 英国科研卓越框架（REF 2014 与 REF 2021）提交的全量影响力案例库 | 国家级研究评估数据挖掘 | 涉及公众参与的影响力案例比例与学科分布 | 约 50% 的提交案例将公众参与作为促成社会影响的核心路径；人文与社会科学领域案例比例显著高于理工医（STEMM） | — | 评估因果链微妙弥散，缺乏线性硬证据，部分案例申报积极性受抑制 |
+> | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | [[OECD\|经合组织]] 37 个教育系统跨国调查数据（2021–2022年） | 跨国政策体系制度普查 | 政策端与教学实践端研究利用常态化监测机制覆盖率 | 政策端研究利用监测覆盖率为 22%；教学实践端研究利用监测覆盖率仅为 17% | 普查统计指标 | 证实绝大多数教育系统缺乏对研究利用与社会影响的系统化监测 |
+> | [[Argument_Torres_2022_BarriersMechanisms\|Gu et al. (2021) via Torres (2022a, p. 118)]] | 英国“[[Research Schools Network\|研究学校网络]]”（RSN）3年大规模实证干预评估 | 准实验对照追踪设计 | 教师研究素养与学生 GCSE 统考学业表现 | 教师研究意识与校本教研文化显著提升；学生 GCSE 考试统考成绩无统计学显著改善（效应量接近零） | 差异不显著（$p > .05$） | 证实中间过程改善难以在短期内直接线性转化为最终受益人学业成效提升 |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]] — 系统解构英国科研卓越框架（REF）中科研影响力的评价机制，揭示约 50% 案例依赖[[Public Engagement with Science\|公众科学参与]]的事实，指出商业化挤出效应与归因困难，并提出 REF 2029 设立“参与与影响”独立考评剖面的改革路径。
-> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度跨国教育系统对[[Research Utilization\|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
-> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation\|知识动员]]模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。
-> - [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]] — 阐述英国研究评估从单纯资助科学向催化社会经济效益转型的国际政策脉络，分析高校在[[Knowledge Exchange\|知识交流]]与产学伙伴中的影响力测度。
-> - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] — 从[[New Public Management\|新公共管理]]与[[Quasi-markets in Higher Education\|高等教育准市场]]视角，剖析国家评估机制通过量化[[Performance Indicators\|绩效指标]]控制高校资源配置的制度后果。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026)]] — 系统解构英国科研卓越框架（REF）中科研影响力的评价机制，揭示约 50% 案例依赖[[Public Engagement with Science|公众科学参与]]的事实，指出商业化挤出效应与归因困难，并提出 REF 2029 设立“参与与影响”独立考评剖面的改革路径。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度跨国教育系统对[[Research Utilization|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
+> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。
+> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 阐述英国研究评估从单纯资助科学向催化社会经济效益转型的国际政策脉络，分析高校在[[Knowledge Exchange|知识交流]]与产学伙伴中的影响力测度。
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 从[[New Public Management|新公共管理]]与[[Quasi-markets in Higher Education|高等教育准市场]]视角，剖析国家评估机制通过量化[[Performance Indicators|绩效指标]]控制高校资源配置的制度后果。

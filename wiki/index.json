@@ -5541,7 +5541,9 @@
     "path": "wiki/concepts/educational-philosophy/Screening Off.md",
     "aliases": [
       "筛选隔离",
-      "屏蔽"
+      "屏蔽",
+      "遮蔽",
+      "条件独立屏蔽"
     ]
   },
   {
