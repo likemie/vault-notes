@@ -406,5 +406,15 @@
       "sentence": "**学科领域普适性** 覆盖化学、生物学、经济学、认知科学等 7 大学科，所有学科的经验曲线皆与置换反事实曲线重合。",
       "target": "wiki/concepts/university-industry-collaboration/Learning Economy.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md": [
+    {
+      "sentence": "面对多源异构大数据在整合与跨库关联上的高昂成本，开放数据湖通过集中处理基础数据与标准化测度，有效降低了研究准入门槛，消除重复劳动，并从根本上提升了实证发现的稳健性与可复现性。",
+      "target": "wiki/concepts/research-methodology/Access and Acceptance in Research.md"
+    },
+    {
+      "sentence": "*Overall, this data lake serves as an initial but useful resource for the field, by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*",
+      "target": "wiki/concepts/sociology-of-education/Champ.md"
+    }
   ]
 }

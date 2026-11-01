@@ -8,7 +8,7 @@ aliases:
 summary: "标识在专利审查与授权过程中由发明人、代理人或专利审查员正式标引的先序专利与学术文献集合，用于确立技术发明谱系与现有技术边界。实证表明专利引文与技术成果的商业经济价值呈强烈的非线性指数关联，是度量技术影响力、产业技术转移与企业资本市场估值溢价的关键指标（Hall et al., 2005; Harhoff et al., 1999; Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,10 +40,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -126,6 +127,7 @@ updated: 2026-10-31
 > - **2005 — 霍尔建立 NBER 专利引文数据库与市值联动模型** 霍尔等人构建包含全美数十年专利引文的基准数据库，实证确立企业高被引专利储备与托宾 Q（Tobin's Q）估值溢价的正相关。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Hall et al., 2005, via Wang & Barabási, 2021, p. 183)]]
 > - **2017–2021 — 科学与技术双层跨界引用网络测定** 艾哈迈德普尔与琼斯（Ahmadpoor & Jones, 2017）及李等（Li et al., 2017）构建数千万项科学论著与专利的跨界引用拓扑图谱，证实 80% 的基础研究成果直接或间接链接至下游产业专利，且 31% 的美国国家卫生研究院（NIH）基金项目产出直接被专利引用的科研成果，量化证实了基础研究对市场技术创新的广泛支撑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
 > - **2021 — 科学学系统整合专利引文与科学山岳模型** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在《科学学》中将专利引文作为技术影响力的平行度量，对比了学术引文与技术引文在反映财富转化中的机制异同。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 183)]]
+> - **2023 — 大规模科学学数据湖整合全量专利跨界引文网络（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建 SciSciNet 数据湖，清洗并整合涵盖 USPTO 与 EPO 的 2,223 万条“科学出版物—专利”跨界引用记录，覆盖 704.7 万篇基础研究成果，并跨商业基准检验实体匹配精度，为追踪科学发现向工业发明的转化提供了高覆盖度的开放数据基础设施。
 
 ---
 
@@ -152,8 +154,10 @@ updated: 2026-10-31
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Harhoff et al. (1999)]] | 德国与美国已过保护期的发明专利持有企业与发明人问卷样本 | 专利获批 20 年后回溯商业价值估算 | 专利被引频次 vs 专利所有权转让或自估商业价值 | 获得 14 次引用的专利，其商业价值是获得 8 次引用专利的整整 100 倍，呈现剧烈的指数非线性关系 | 调查回溯数据在极端尾部保持显著稳健性 | 证实微小被引差异在实体经济中会被百倍放大 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Hall et al. (2005)]] | 美国上市制造业与科技企业（涵盖医疗诊断影像等高新技术门类） | 面板数据计量回归 | 篇均专利被引量 vs 企业托宾 Q 资本市场市值 | 篇均专利被引每增加 1 次，企业托宾 Q 市场价值获得约 3% 的估值溢价（高被引组合溢价达 35% 以上） | 回归控制了研发资本存量与行业[[Fixed-Effect Model\|固定效应]] | 表明资本市场能有效定价专利资产的技术前沿度 |
 > | Li et al. (2017); Ahmadpoor and Jones (2017); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 数千万篇 Web of Science 学术论著与美国专利商标局（USPTO）全量授权专利 | 大规模跨界双层网络匹配与拓扑追踪分析 | 专利对学术成果直接与间接引用率；NIH 资助课题衍生专利引文占比 | 10% 的学术论著被专利直接引用，80% 的论著在级联网络中与后续专利相连；31% 的 NIH 资助项目产出直接被专利引用的成果，84% 的生物医药专利引用了 NIH 资助成果 | 全口径大数据拓扑追踪 | 证实基础科学是深层支撑产业技术发明的源头活水，与实体经济技术创新紧密相连 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与 USPTO/EPO 专利库 | 跨数据库记录链接与实体对齐审查 | 专利引用学术出版物的关联规模与文献覆盖 | 累计提取并清洗 22,230,064 条“科学出版物—专利”引用关联，覆盖 7,046,750 篇学术成果；跨 Web of Science 与官方专利库抽样交叉验证准确率极高 | 官方专利库与 MAG 融合验证 | 证实大规模多源链接能有效刻画基础研究向技术发明的溢出网络，但早期或非英语专利引文覆盖仍受原始数据源限制 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源清洗并整合 2,223 万条连接 USPTO 与 EPO 专利的跨界引文记录，覆盖 700 余万篇科学出版物，为大规模测度基础研究向工业技术转化提供高通量开放实证基底。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐述专利引用度量技术发明的非线性经济价值（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，p. 183）；构建全口径论著与专利双层网络，证实 80% 的学术成果在级联网络中支撑产业专利发明（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 247–248）。

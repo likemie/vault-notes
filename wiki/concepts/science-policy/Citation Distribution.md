@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学术出版物群体中随机抽取的一篇论著获得特定引用频次 $c$ 之概率的统计学分布 $P(c)$。由德里克·J·德索拉·普赖斯（Price, 1965）首创测算并确认为具有高方差的肥尾分布；边康尼-巴拉巴西模型（Bianconi & Barabási, 2001）进一步将成果内生适应度引入优先连接动力学，证明在正态适应度先验下宏观引文分布内生呈现对数正态形态（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,10 +49,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
@@ -183,6 +184,7 @@ updated: 2026-11-01
 > - **2013 — WSB 模型提出与普适标度主曲线坍缩** 王大顺、宋超明与巴拉巴西建立微观引文动力学模型，推导单篇累积引文封闭解析解，无量纲重标度证实微观轨迹跨越学科严格坍缩至标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 210–213)]]
 > - **2016 — 学者个体引文分布经能力标度塌缩** [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 确立学者微观引文分布的 Q 参数约化机制，证实个体引文分布除以 $Q_i$ 后全部塌缩至普适对数正态分布（$\mu_p \approx -0.41, \sigma_p \approx 1.25$）。
 > - **2021 — 科学学影响力分配动力学系统集成** 王大顺与巴拉巴西在《科学学》中全面总结引文分布数理特征，将其确立为解析科学注意力和声望分层的基石[[Construct|构念]]，并指出跨学科普适标度在政策干预与考核中必须充分顾及领域异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–180)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
+> - **2023 — 大规模成果家族聚合校准全局引文网络分布（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺在构建 SciSciNet 时，针对多版本预印本与正式出版物分离导致的自引虚高与引文分布失真，研发成果家族消歧归并算法，对 1.34 亿篇核心出版物与 14 亿条引文实施全局重算，校正了网络入度与引文分布的结构性偏差。
 
 ---
 
@@ -209,13 +211,11 @@ updated: 2026-11-01
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]] | Web of Science 索引的细分学科全量发表文献（涵盖材料、天文、工程、农业等领域） | 跨学科引文计量统计与标准化函数拟合 | 篇均被引数 $\langle c \rangle$ 与文献总量 $N$ | 发育生物学篇均被引 38.67 次；材料生物材料篇均 23.02 次；天文学 21.41 次；生化方法 20.54 次；航空航天工程篇均仅 5.65 次；材料测试 4.59 次 | 达到 100 次引用的概率在发育生物学与航空航天工程间相差两个数量级 | 原始引文频次受领域引用传统制约，经 $c_f = c / \langle c \rangle$ 标准化后坍缩至对数正态主曲线 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] | 2004 年出版的 21 个学科门类成果截至 2012 年全样本（WoS 数据库） | 跨学科引文计量统计与规模分布分析 | 学科篇均被引频次 $\langle c \rangle$ 与出版总数 $N$ | 多学科科学篇均 48.85 次（$N = 10,909$）；细胞生物学 32.72 次（$N = 17,610$）；综合化学 21.38 次；人工智能 16.77 次；基础数学 4.61 次；海洋工程 1.06 次（$N = 489$） | 各领域篇均被引存在近 50 倍结构性级差 | 证实各学科绝对引文基数存在客观鸿沟，确立微观跨学科比较必须依赖无量纲标准化的必要性 |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 学者个体引文分布拟合与能力参数约化检验 | 论著十年被引量 $c_{10}$、个体能力参数 $Q_i$ 与约化标度变量 $p = c_{10}/Q_i$ | 经 $Q_i$ 归一化后，不同学者原本相差数个数量级的引文分布精确塌缩至对数正态分布曲线（$\mu_p \approx -0.41, \sigma_p \approx 1.25$） | 柯尔莫哥洛夫-斯米尔诺夫检验拟合显著 | 确证学者微观引文分布受个体稳态能力因子缩放，选题潜在价值具有跨学科普适对数正态性 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献与 14 亿条引文网络 | 成果家族消歧聚合与全局引文网络重算 | 预印本版本合并对引文膨胀的校正效应与网络度分布 | 归并多版本成果家族消除内部自引循环，重算 134,129,188 篇文献的引文分布与网络入度/出度，解决引文虚高偏差 | 跨 Web of Science 与 MAG 基准对齐检验（CCC > 0.99） | 证实多版本成果若不实施实体聚合，引文分布在头部与自引区间将产生显著系统性失真 |
 
 ---
 
-> [!evidence-grid-a|notitle]
-> | 命题 | 关键实证支撑 | 效应指标 / 发现 | 异质性 / 边界条件 | 证据评级 |
-> |---|---|---|---|---|
-> | 学术文献引文概率服从高方差的肥尾幂律分布 | Price (1965); [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]] | 幂律指数 $\gamma \approx 3.0$ | 极高方差，排斥高斯均值范式 | A 级 |
-> | 相对引文标准化促使分布向普适对数正态主曲线坍缩 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 跨学科普适参数 $\mu \approx -0.36, \sigma \approx 0.85$ | 须经学科与年份无量纲归一化，防范一刀切政策 | A 级 |
-> | 学者个体引文分布经能力标度向对数正态主曲线坍缩 | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 约化标度普适参数 $\mu_p \approx -0.41, \sigma_p \approx 1.25$ | 消除学者个体能力异质性，揭示微观对数正态基线 | A 级 |
-> | 成果内生适应度的正态先验推导宏观对数正态形态 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Bianconi & Barabási (2001)]] | 适应度正态先验 $p(\eta) \sim \mathcal{N}$ 导出对数正态 $P(c)$ | 依赖优先连接与适应度复合增长动力学 | A 级 |
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 构建成果家族消歧管道，重算 1.34 亿篇文献与 14 亿条引文的网络分布，校正预印本多版本并存引发的引文膨胀偏差。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统总结学术成果引文分布的肥尾幂律特征（Unit 07）、相对引文标准化坍缩主曲线（Unit 07）、适应度正态先验推导（Unit 08）与宏观科学学应用。
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出 Q 参数约化标度算法，实证揭示微观学者引文分布经能力因子缩放后全部塌缩至通用对数正态函数。

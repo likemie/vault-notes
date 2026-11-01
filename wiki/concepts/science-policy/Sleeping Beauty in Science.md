@@ -10,7 +10,7 @@ aliases:
 summary: "由 Anthony van Raan (2004) 命名并形式化界定的非典型引文动力学构念；指成果公开发表后经历数年至数十年的低被引休眠期，随后因跨学科范式演进或关键突破被外部共同体独立发现而迎来爆发性引文唤醒的演化轨迹。在综合顶级期刊中发生率超 7%，双峰拓展模型可精确拟合 90% 以上案例（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -43,6 +43,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: "2026-10-31"
@@ -128,6 +129,7 @@ updated: 2026-11-02
 > - **2013 — WSB 模型的多峰拟合拓展** 王大顺、宋超明与巴拉巴西将引文动力学的老化函数拓展为包含二次激活或双峰结构的存活概率，成功拟合与预测约 90% 的非典型文献轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 213–214)]]
 > - **2015 — 跨学科全量文献普查与普遍性确立** 柯庆（Qing Ke）等人对全量科技文献展开系统普查，证实睡美人现象在自然科学各分支广泛存在，在多学科顶级期刊中发生率超 7%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Ke et al., 2015, via Wang & Barabási, 2021, p. 213)]]
 > - **2021 — 科学学非典型引文动力学生态集成** 王大顺与巴拉巴西在《科学学》中系统集成睡美人与二次爆发机制，将其作为反思短期期刊影响因子评价陷阱的基石案例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> - **2023 — 大规模科学学数据湖复现睡美人动力学规律（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建 SciSciNet 数据湖，对 5,270 万篇文献全量解算睡美人参数，实证证实睡美人系数服从幂律分布（$\alpha = 2.40$），并量化确证唤醒过程显著依赖跨学科施引。
 
 ---
 
@@ -157,6 +159,6 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对 5270 万篇文献解算睡美人系数，证实其服从指数为 2.40 的幂律分布且高休眠成果深度依赖跨学科引用唤醒。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 系统阐明睡美人文献与二次爆发非典型轨迹的发生机理，测定顶刊发生率超 7%，并通过双峰拓展模型实现对 90% 案例的高精度拟合（pp. 213–214）。

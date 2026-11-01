@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Lin_2023_SciData",
+      "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md"
+    },
+    {
+      "basename": "SciSciNet",
+      "path": "wiki/facts/us/SciSciNet.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Random Impact Rule",
       "path": "wiki/theories/science-policy/Random Impact Rule.md"
-    },
-    {
-      "basename": "Ordinary Least Squares",
-      "path": "wiki/methods/quantitative/Ordinary Least Squares.md"
-    },
-    {
-      "basename": "Hot-Streak Model",
-      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
     }
   ],
   "omittedPaths": [],
