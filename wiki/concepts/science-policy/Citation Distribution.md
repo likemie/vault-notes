@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -146,6 +146,11 @@ updated: 2026-10-31
 > $$P(c_f) = \frac{1}{\sqrt{2\pi}\sigma c_f} \exp\left(-\frac{(\ln c_f - \mu)^2}{2\sigma^2}\right)$$
 > 实证拟合显示跨学科参数普适趋同于 $\mu \approx -0.36, \sigma \approx 0.85$，证实学术影响力在各个学科领域内部遵循普适的统计规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
 
+> [!claim] [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]]
+> **学者个体引文分布经能力标度向普适对数正态分布坍缩** 罗伯塔·西纳特拉（Roberta Sinatra）等将引文分布坍缩现象从宏观学科层级推进至微观学者个体层级。学者个体论著的十年被引分布虽然在平均水平上相差数个数量级，但构建约化变量 $p = c_{10} / Q_i$ 后，所有学者的个体引文分布完全塌缩至同一对数正态函数：
+> $$P(p) = \frac{1}{\sqrt{2\pi}\sigma_p p} \exp\left(-\frac{(\ln p - \mu_p)^2}{2\sigma_p^2}\right)$$
+> 实证确立普适参数为 $\mu_p \approx -0.41, \sigma_p \approx 1.25$。这一微观层面的坍缩证实，学者个体引文分布的离散性完全由稳态能力参数 $Q_i$ 缩放主导，而单篇成果的潜在价值均源自相同的通用对数正态分布抽样。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
+
 ---
 
 > [!concept-proposition] 命题三｜成果内生适应度的正态先验推导了全域引文的对数正态宏观形态
@@ -176,6 +181,7 @@ updated: 2026-10-31
 > - **2008 — 相对引文标准化与对数正态普适性发现** 菲利波·拉迪基（Filippo Radicchi）等人提出相对标度算法，证实各学科引文分布普适坍缩于对数正态曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
 > - **2011 — 初始吸引力与优先连接门槛检验** 严希范（Young-Ho Eom）与桑托·福图纳托（Santo Fortunato）实证检验发现，当成果累积被引低于 7 次时由初始吸引力 $c_0$ 支配，跨越 7 次门槛后优先连接机制才全面开启。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]
 > - **2013 — WSB 模型提出与普适标度主曲线坍缩** 王大顺、宋超明与巴拉巴西建立微观引文动力学模型，推导单篇累积引文封闭解析解，无量纲重标度证实微观轨迹跨越学科严格坍缩至标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 210–213)]]
+> - **2016 — 学者个体引文分布经能力标度塌缩** [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 确立学者微观引文分布的 Q 参数约化机制，证实个体引文分布除以 $Q_i$ 后全部塌缩至普适对数正态分布（$\mu_p \approx -0.41, \sigma_p \approx 1.25$）。
 > - **2021 — 科学学影响力分配动力学系统集成** 王大顺与巴拉巴西在《科学学》中全面总结引文分布数理特征，将其确立为解析科学注意力和声望分层的基石[[Construct|构念]]，并指出跨学科普适标度在政策干预与考核中必须充分顾及领域异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–180)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
 
 ---
@@ -202,6 +208,7 @@ updated: 2026-10-31
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]] | Web of Science 索引的细分学科全量发表文献（涵盖材料、天文、工程、农业等领域） | 跨学科引文计量统计与标准化函数拟合 | 篇均被引数 $\langle c \rangle$ 与文献总量 $N$ | 发育生物学篇均被引 38.67 次；材料生物材料篇均 23.02 次；天文学 21.41 次；生化方法 20.54 次；航空航天工程篇均仅 5.65 次；材料测试 4.59 次 | 达到 100 次引用的概率在发育生物学与航空航天工程间相差两个数量级 | 原始引文频次受领域引用传统制约，经 $c_f = c / \langle c \rangle$ 标准化后坍缩至对数正态主曲线 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] | 2004 年出版的 21 个学科门类成果截至 2012 年全样本（WoS 数据库） | 跨学科引文计量统计与规模分布分析 | 学科篇均被引频次 $\langle c \rangle$ 与出版总数 $N$ | 多学科科学篇均 48.85 次（$N = 10,909$）；细胞生物学 32.72 次（$N = 17,610$）；综合化学 21.38 次；人工智能 16.77 次；基础数学 4.61 次；海洋工程 1.06 次（$N = 489$） | 各领域篇均被引存在近 50 倍结构性级差 | 证实各学科绝对引文基数存在客观鸿沟，确立微观跨学科比较必须依赖无量纲标准化的必要性 |
+> | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 学者个体引文分布拟合与能力参数约化检验 | 论著十年被引量 $c_{10}$、个体能力参数 $Q_i$ 与约化标度变量 $p = c_{10}/Q_i$ | 经 $Q_i$ 归一化后，不同学者原本相差数个数量级的引文分布精确塌缩至对数正态分布曲线（$\mu_p \approx -0.41, \sigma_p \approx 1.25$） | 柯尔莫哥洛夫-斯米尔诺夫检验拟合显著 | 确证学者微观引文分布受个体稳态能力因子缩放，选题潜在价值具有跨学科普适对数正态性 |
 
 ---
 
@@ -210,4 +217,5 @@ updated: 2026-10-31
 > |---|---|---|---|---|
 > | 学术文献引文概率服从高方差的肥尾幂律分布 | Price (1965); [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]] | 幂律指数 $\gamma \approx 3.0$ | 极高方差，排斥高斯均值范式 | A 级 |
 > | 相对引文标准化促使分布向普适对数正态主曲线坍缩 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 跨学科普适参数 $\mu \approx -0.36, \sigma \approx 0.85$ | 须经学科与年份无量纲归一化，防范一刀切政策 | A 级 |
+> | 学者个体引文分布经能力标度向对数正态主曲线坍缩 | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 约化标度普适参数 $\mu_p \approx -0.41, \sigma_p \approx 1.25$ | 消除学者个体能力异质性，揭示微观对数正态基线 | A 级 |
 > | 成果内生适应度的正态先验推导宏观对数正态形态 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Bianconi & Barabási (2001)]] | 适应度正态先验 $p(\eta) \sim \mathcal{N}$ 导出对数正态 $P(c)$ | 依赖优先连接与适应度复合增长动力学 | A 级 |

@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -199,6 +199,9 @@ updated: 2026-10-31
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] / Radicchi et al. (2008)
 > **相对标准化变量对跨学科异质性的消解** 跨学科与跨年代的原始指标往往具有不可比的异质尺度（如不同学科篇均被引数相差达数倍至数十倍）。拉迪奇等（Radicchi et al., 2008）通过引入相对标准化变量 $c_f = c / c_0$（将单篇[[Document|文献]]被引数 $c$ 除以同领域同发表年份的篇均被引基线 $c_0$），将原本分散且高度异质的学科数据统一重构；经此相对变量变换后，跨越数十年、涵盖所有科学领域的[[Citation Distribution|引文分布]]完全塌缩至同一对数正态曲线上，揭示出复杂科学系统在宏观层面的尺度不变普适规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 169–174)]]
 
+> [!claim] [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]]
+> **学者个体约化标度变量对引文异质性的消解** 罗伯塔·西纳特拉（Roberta Sinatra）等将相对标准化变量方法拓展至微观学者个体层面。为剥离学者个体科研能力的系统性差异，研究构建无量纲约化变量 $p = c_{10} / Q_i$（将论著十年被引量除以学者个体能力参数 $Q_i$）。实证显示，不同学者原本相差数个数量级的经验引文分布曲线，经约化变量变换后全部塌缩至通用的对数正态概率分布 $P(p)$（$\mu_p \approx -0.41, \sigma_p \approx 1.25$），确立了微观科研活动中独立课题潜力与个体稳态能力的乘积机制。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
+
 ---
 
 > [!contrast-table|notitle] 所有命题归纳
@@ -218,6 +221,7 @@ updated: 2026-10-31
 > - **1970s — 对变量崇拜与方法论主义的反思** 巴伯展开方法论反思，指出将比较研究窄化为变量回归操作的方法论主义弊端，警示抽离社会政治脉络的统计变量存在解释虚妄性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **1980s 至今 — [[Hierarchical Linear Model|多层线性模型]]与复杂系统整合** 多层线性模型（HLM）的兴起使研究者能够同时处理学生层、学校层与国家层的嵌套变量，兼顾宏观体系特征与微观个体变量的互动。
 > - **2008–2021 — 相对无量纲化变量揭示科学系统普适分布** Radicchi et al. (2008) 与 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] 确立相对引文无量纲化变量 $c_f = c/c_0$，跨越异质学科与历史时期揭示了科学系统引文分布的对数正态普适性。
+> - **2016 — 个体约化标度变量消解学者引文异质性** [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 提出无量纲约化标度变量 $p = c_{10}/Q_i$，将相对变量变换延伸至微观学者个体层面，证实消除个体能力变量后单篇成果影响力完全塌缩至统一对数正态分布。
 > - **2010 — 校外社会变量模型与反技术主义还原** 格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]]）指出，批判性教育学者必须将家庭与阶级等校外社会变量置于核心位置；抽离非学校变量而将[[Academic Achievement|学业成就]]全然归因于校内过程的模型，制造了单凭教学干预即可消除不平等的虚假错觉。
 
 ---
@@ -255,10 +259,12 @@ updated: 2026-10-31
 > | 研究文献 | 样本与情境 | 考察变量与指标 | 原始统计与计量结果 | 解释边界 |
 > |---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 169–174)]] | 跨越物理、化学、生物与社会科学等数十个学科门类、历经数十年的 Web of Science 全量文献 | 原始被引变量 $c$ 与相对无量纲化变量 $c_f = c / c_0$ | 经基线归一化变量变换后，各学科异质引文分布完全塌缩至参数恒定的对数正态分布曲线（$\mu \approx -0.27, \sigma \approx 1.25$） | 证实相对标准化变量能够消解学科间绝对尺度的异质性，揭示科学系统的尺度不变普适规律 |
+> | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 十年引文变量 $c_{10}$、学者能力变量 $Q_i$ 与无量纲约化标度变量 $p = c_{10} / Q_i$ | 经 $Q_i$ 约化变换后，原本相差数个数量级的个体引文分布全部塌缩至参数恒定的对数正态分布（$\mu_p \approx -0.41, \sigma_p \approx 1.25$） | 证实微观无量纲约化变量能消除个体间能力异质性，揭示课题构想潜在价值的普适分布 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 构建无量纲约化标度变量 $p = c_{10}/Q_i$ 消除微观学者能力异质性，证实经变量变换后个体引文分布精确塌缩至通用对数正态分布。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]中[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、预测变量、结果变量、中介变量、调节变量与混淆变量的功能定义与彩虹理论模型（pp. 54–56）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 系统阐述教育研究中变量的概念性定义与[[Definition of Terms|操作性定义]]步骤，以及变量的五类划分标准（Ch. 2）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深入剖析比较教育第三代际实证学者通过以“变量”替代“体系”追求通则因果定律的[[Epistemology|认识论]]转向，并反思方法论主义对历史脉络的抽空（pp. 147–149）。
