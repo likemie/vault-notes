@@ -38093,6 +38093,20 @@
     "subtype": "program"
   },
   {
+    "title": "Dimensions",
+    "type": "fact",
+    "path": "wiki/facts/global/Dimensions.md",
+    "aliases": [
+      "Dimensions 数据库",
+      "Digital Science Dimensions",
+      "Dimensions 引文数据库",
+      "Dimensions database",
+      "Dimensions 科学科研数据库",
+      "Dimensions 平台"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "EdStats",
     "type": "fact",
     "path": "wiki/facts/global/EdStats.md",
@@ -44766,6 +44780,18 @@
     "aliases": [
       "CTTI",
       "临床试验转型倡议"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "ClinicalTrials.gov",
+    "type": "fact",
+    "path": "wiki/facts/us/ClinicalTrials.gov.md",
+    "aliases": [
+      "美国临床试验数据库",
+      "ClinicalTrials",
+      "临床试验注册库",
+      "美国临床试验注册中心"
     ],
     "subtype": "program"
   },

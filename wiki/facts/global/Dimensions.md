@@ -13,6 +13,10 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
+fact_related_count: 18
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2018–至今"
 initiator_organization: "Digital Science / Holtzbrinck Publishing Group"
 official_website: "https://www.dimensions.ai"
@@ -72,7 +76,7 @@ updated: 2026-11-02
 > 通过建立统一的实体消歧与多模态知识图谱对齐技术，将科研资金投放、学术出版物生产与跨界技术转化链接至同一拓扑空间，能够消除创新各阶段的实证信息孤岛，为科技政策推演、科研绩效评估与跨学科科学学研究提供高保真全景观测标尺。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 整合跨学科异构文献、资金、技术与医疗制度数据，打破知识孤岛，提供支撑全景科技评价与科学学宏观检验的数字底座。
+> - **项目目标** 整合跨学科异构文献、资金、技术与医疗制度数据，打破知识孤岛，提供支撑全景科技评价与科学学宏观检验的数字基础设施。
 > - **覆盖对象** 全球学术出版机构学术成果、各国国家级与慈善基金资助项目、全球五大专利局及各区域专利说明书、医学临床试验注册记录及国际智库政策报告。
 > - **干预措施** 
 >   - **全链条实体链接** 依托自然语言处理算法从基金项目申请书、专利引文列表及政策报告中提取文献提及，实现全周期科研要素穿透。
@@ -81,7 +85,7 @@ updated: 2026-11-02
 > - **实施控制** 建立持续的人工智能算法模型微调，配合学术顾问委员会的专家同行核验，定期核对跨国资助机构与专利局的规范命名字典。
 
 > [!citation-card] 数智科学论全链条科研图谱的实证价值
-> 科学研究并非孤立存在于学术期刊之中，而是一条从公共资金投入、实验探索、跨学科同行交流直到技术转化与社会福祉提升的漫长价值链。Dimensions 通过跨越传统数据孤岛将出版物、基金、专利与临床数据缝合为有机网络，使科研共同体与政策制定者能够首次以全局视野观察科学知识的流动全貌。(Digital Science Report, 2018)
+> 科学研究贯穿从公共资金投入、实验探索、跨学科同行交流直到技术转化与社会福祉提升的完整价值链。Dimensions 通过跨越传统数据孤岛将出版物、基金、专利与临床数据整合成网络，使科研共同体与政策制定者能够以全局视野观察科学知识的流动全貌。(Digital Science Report, 2018)
 >
 > *Science does not begin and end with peer-reviewed articles... By linking publications to grants, patents, clinical trials, and policy documents, Dimensions breaks down traditional data silos to show the complete picture of research impact and intellectual discovery.*
 
@@ -148,7 +152,7 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[Data Infrastructure]] | Concept | Dimensions 属于整合科研全生命周期的前沿大型商业科技数据基础设施。 |
 > | [[Document]] | Concept | Dimensions 以多模态学术文献为枢纽，贯穿专利、资助与临床文件。 |
-> | [[Patent Citation]] | Concept | Dimensions 核心亮点之一，整合全球逾亿件发明专利对学术论著的引用链路。 |
+> | [[Patent Citation]] | Concept | Dimensions 核心亮点之一，整合全球逾亿件发明专利对学术论著的引用网络。 |
 > | [[Clinical Trial]] | Concept | Dimensions 将生命科学出版物与临床医疗试验报告进行高精度关联。 |
 > | [[Altmetrics]] | Concept | Dimensions 在成果页面深度整合 Altmetric 注意力评分与多源公众讨论。 |
 > | [[Metascience]] | Concept | 为宏观科学学与科技政策实证研究提供跨学科全景定量数据支撑。 |

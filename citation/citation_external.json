@@ -6119,6 +6119,8 @@
     "Dietz, 1977": "Dietz, 1977",
     "Digiacomo (2016)": "Digiacomo, 2016",
     "Digiacomo, 2016": "Digiacomo, 2016",
+    "Digital Science Report (2018)": "Digital Science Report, 2018",
+    "Digital Science Report, 2018": "Digital Science Report, 2018",
     "Dignath & Büttner (2008)": "Dignath & Büttner, 2008",
     "Dignath & Büttner, 2008": "Dignath & Büttner, 2008",
     "Dignath et al. (2008)": "Dignath et al., 2008",
@@ -71925,6 +71927,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Enhancing Self-Regulatory Skills through an Intervention Embedded in a Middle School Mathematics Curriculum"
+    },
+    "Digital Science Report, 2018": {
+      "aliases": [
+        "Digital Science Report, 2018",
+        "Digital Science Report (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Digital Science Report, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Dimensions.md"
+      ],
+      "title": ""
     },
     "Dignath & Büttner, 2008": {
       "aliases": [
@@ -207481,7 +207498,6 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
-        "wiki/concepts/science-policy/Citation Aging.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],

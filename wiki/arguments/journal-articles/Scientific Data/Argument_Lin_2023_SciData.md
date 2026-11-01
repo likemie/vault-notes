@@ -62,6 +62,9 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Education Policy Outlook]]"
+  - "[[Crossref]]"
+  - "[[Dimensions]]"
+  - "[[ClinicalTrials.gov]]"
 related_arguments: []
 sources:
   - "[[sources/Lin_2023_SciData/Lin_2023_SciData|Lin_2023_SciData]]"
@@ -72,7 +75,7 @@ title: "Argument_Lin_2023_SciData"
 argument_key: "Argument_Lin_2023_SciData"
 argument_display_title: "SciSciNet: A large-scale open data lake for the science of science research"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -100,11 +103,11 @@ journal: Scientific Data
 > [!contrast-table] 科学学主流数据源特性与开放度对比
 > | 数据源类别 | 代表性数据库 | 收录核心特征 | 应用程序编程接口（Application Programming Interface, API）支持 | 数据倾倒（Data Dump） | 核心局限与研究摩擦 |
 > |:---|:---|:---|:---:|:---:|:---|
-> | **[[Document\|文献]]与引文开放元数据** | Crossref, OpenCitations, CORE, Unpaywall | 聚焦带数字对象标识符（Digital Object Identifier, DOI）出版物元数据、开放获取标签与开放引文网络 | ✓ | ✓ | 缺乏资助明细与细粒度指标计算，无跨机构实体消歧 |
+> | **[[Document\|文献]]与引文开放元数据** | [[Crossref]], OpenCitations, CORE, Unpaywall | 聚焦带数字对象标识符（Digital Object Identifier, DOI）出版物元数据、开放获取标签与开放引文网络 | ✓ | ✓ | 缺乏资助明细与细粒度指标计算，无跨机构实体消歧 |
 > | **综合开放学术图谱** | [[Microsoft Academic Graph\|微软学术图谱（Microsoft Academic Graph, MAG）]]（已退役）, OpenAlex, AMiner | 覆盖数亿篇文献、学者与机构消歧网络，支持学科自动分类 | ✓ | ✓ | 原始数据噪声大，预印本多版本导致引文虚高，缺乏指标预计算 |
-> | **商业学术文献数据库** | Web of Science, Scopus, Dimensions | 专家审定源刊，提供严谨引文索引与部分资助对齐 | — | — | 订阅费用高昂，算法黑箱，严禁大规模全量数据再分发 |
+> | **商业学术文献数据库** | [[Web of Science]], Scopus, [[Dimensions]] | 专家审定源刊，提供严谨引文索引与部分资助对齐 | — | — | 订阅费用高昂，算法黑箱，严禁大规模全量数据再分发 |
 > | **上游基金与政策数据库** | [[National Institutes of Health\|美国国立卫生研究院]]项目检索系统（National Institutes of Health RePORTER, NIH RePORTER）, [[National Science Foundation\|美国国家科学基金会]]资助库（National Science Foundation Awards, NSF Awards）, Overton | 收录公共研发项目拨款明细或政策引文 | ✓ | ✓ | 与外部学术发表缺乏直接结构化链接，多为非结构化文本 |
-> | **下游应用与转化数据** | PatentsView, Marx & Fuegi, ClinicalTrials.gov | 覆盖专利文本、专利对科学引文与全球临床试验注册 | ✓ | ✓ | 独立运作，与基础科学论著存在跨域数据壁垒 |
+> | **下游应用与转化数据** | PatentsView, Marx & Fuegi, [[ClinicalTrials.gov]] | 覆盖专利文本、专利对科学引文与全球临床试验注册 | ✓ | ✓ | 独立运作，与基础科学论著存在跨域数据壁垒 |
 > | **统一开放科学学数据湖** | [[SciSciNet]] | 整合核心论著、学者性别推断、基金资助、专利与全量预计算指标 | ✓ | ✓ | 以开源公共品形态降低实证门槛，保障跨研究完全可复现 |
 >
 > *注*。改编自 Lin et al. (2023, Table 1)。主流科学学数据源特性与开放程度对比。
@@ -130,7 +133,7 @@ journal: Scientific Data
 > | **学术影响力与知识扩散** | 衡量成果在科学共同体内部的累积传播广度与长期持久度。 | 5 年引文数（C5）、10 年引文数（C10）、总被引频次，基于 [[Relative Citation Normalization\|相对引文标准化]]（Relative Citation Normalization）口径的篇均基线比值，以及基于 [[WSB Model\|WSB 模型]] 拟合的即时性参数 $\mu$、衰老参数 $\sigma$ 与终极影响力预测值 $c_\infty$。 |
 > | **[[Paradigm\|范式]]革新与知识组合特征** | 衡量成果开辟全新研究轨道或实现罕见跨学科知识融合的拓扑性质。 | [[Disruption Index\|颠覆性指数]] $D \in [-1, 1]$（[[Lingfei Wu\|Wu]] et al., 2019）；基于 [[Combinatorial Novelty Measurement\|期刊共引对非典型度分析]] 计算的中位数 Z 分数（常规性基底）与第 10 百分位数 Z 分数（尾部新颖性）（[[Brian Uzzi\|Uzzi]] et al., 2013；亦见 [[Benjamin F. Jones\|Jones]] 等）。 |
 > | **长周期[[Sleeping Beauty in Science\|延迟认可]]** | 衡量成果在经历长期休眠后爆发被引的非典型演化轨迹。 | [[Sleeping Beauty in Science\|睡美人现象]] 系数 $B$ 与唤醒时间 $T$（Ke et al., 2015），结合学科外施引比例刻画知识的跨领域延迟激活。 |
-> | **多源跨界应用转化** | 衡量基础科学向上游公共资金与下游产业、医疗及公共舆论的渗透程度。 | 美国国家科学基金会（National Science Foundation, NSF）与美国国立卫生研究院（National Institutes of Health, NIH）资助项目关联；美国专利商标局（United States Patent and Trademark Office, USPTO）与欧洲专利局（European Patent Office, [[Education Policy Outlook\|EPO]]）[[Patent Citation\|专利引用]]；ClinicalTrials.gov 临床试验引用；Crossref 媒体与社交媒体提及，形成多源 [[Altmetrics\|替代计量学]]（Altmetrics）数据网络。 |
+> | **多源跨界应用转化** | 衡量基础科学向上游公共资金与下游产业、医疗及公共舆论的渗透程度。 | 美国国家科学基金会（National Science Foundation, NSF）与美国国立卫生研究院（National Institutes of Health, NIH）资助项目关联；美国专利商标局（United States Patent and Trademark Office, USPTO）与欧洲专利局（European Patent Office, [[Education Policy Outlook\|EPO]]）[[Patent Citation\|专利引用]]；[[ClinicalTrials.gov]] 临床试验引用；[[Crossref]] 媒体与社交媒体提及，形成多源 [[Altmetrics\|替代计量学]]（Altmetrics）数据网络。 |
 >
 > *注*。引自 Lin et al. (2023)。上述构念与测度指标构成了 SciSciNet 的预计算体系，为量化科学学实证研究提供标准化的基准变量。
 
@@ -152,7 +155,7 @@ journal: Scientific Data
 > | `SciSciNet_Link_NSF` | 1,309,518 | `PaperID, NSF_Award_Number, Type, Diff_ZScore` | 论著与 NSF 资助对齐表（区分 Exact 与 Fuzzy 匹配类型） |
 > | `SciSciNet_Link_NIH` | 6,013,187 | `PaperID, NIH_Project_Number` | 论著与 NIH 资助项目对齐表 |
 > | `SciSciNet_Link_Patents` | 38,740,313 | `PaperID, PatentID, Type` | 论著与专利引文关联表（Type=1 为 USPTO，0 为 EPO） |
-> | `SciSciNet_Link_ClinicalTrials` | 438,220 | `PaperID, NCT_Number` | 论著与 ClinicalTrials.gov 临床试验引用关联表（NCT 注册号） |
+> | `SciSciNet_Link_ClinicalTrials` | 438,220 | `PaperID, NCT_Number` | 论著与 [[ClinicalTrials.gov]] 临床试验引用关联表（NCT 注册号） |
 > | `SciSciNet_Link_Twitter` | 55,846,550 | `PaperID, TweetID` | 论著与推特社交媒体讨论对齐表 |
 > | `SciSciNet_Link_Newsfeed` | 595,241 | `PaperID, NewsfeedID` | 论著与全球主流媒体新闻报道提及对齐表 |
 > | `SciSciNet_Link_NobelLaureates` | 87,316 | `PaperID, LaureateID, Type` | 诺贝尔奖得主学术生涯产出表（Type=1 为获奖代表作，0 为其他论著） |
@@ -168,9 +171,9 @@ journal: Scientific Data
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **原始图谱过滤与家族整合**<br>[[Bibliometric Analysis]] | 以微软学术图谱（Microsoft Academic Graph, MAG）2021 年 12 月 6 日终版（2.7 亿条记录）为底库，剔除专利与无 DOI/类别记录，按预印本-正式出版等成果家族聚合主论著，重算 134,129,188 篇文献的[[Citation Distribution\|引文分布]]。 |
-> | **跨源多模态记录链接**<br>[[Record Linkage]] | 采用多级对齐方案：DOI 精确对齐、题名标准化精确对齐、基于 Elasticsearch 的置换零模型检索与双 Z 分数差异模糊匹配，辅以发表年份时间窗约束（$t-1 \le t_{\text{pub}} \le t+5$）与 Crossref 基金数据补充。 |
+> | **跨源多模态记录链接**<br>[[Record Linkage]] | 采用多级对齐方案：DOI 精确对齐、题名标准化精确对齐、基于 Elasticsearch 的置换零模型检索与双 Z 分数差异模糊匹配，辅以发表年份时间窗约束（$t-1 \le t_{\text{pub}} \le t+5$）与 [[Crossref]] 基金数据补充。 |
 > | **指标规模化工程计算** | 依托分布式计算管道全量解算近 5000 万篇论著的颠覆性得分、共引非典型性 Z 分数、睡美人指数与 WSB 动力学拟合参数。 |
-> | **基准交叉核验** | 以商业数据库 Dimensions 为外部基准，从文献重合率、引文相关性、资助匹配度等维度建立混淆矩阵与相关分析，检验数据完整性与可靠性。 |
+> | **基准交叉核验** | 以商业数据库 [[Dimensions]] 为外部基准，从文献重合率、引文相关性、资助匹配度等维度建立混淆矩阵与相关分析，检验数据完整性与可靠性。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -232,7 +235,7 @@ journal: Scientific Data
 > 1. **数字对象标识符（DOI）精确匹配** 直接提取文本中的标准 DOI 进行跨库匹配，去重后确定 350,611 条高置信度记录（占比 26.0%）。
 > 2. **题名规整精确匹配** 对其余文本中的论著题名实施小写转换并剔除标点与异常空格，精确对齐 246,701 条记录（占比 18.3%）。
 > 3. **Elasticsearch 零模型评分与启发式模糊匹配** 对主论著建立倒排索引，输入 NSF 文本检索前两位候选。以次选得分分布作为零模型基准，若首选得分显著超越右侧截断阈值（$P = 0.05$）判定为精准匹配（锁定 467,159 条，占比 34.6%）；其余部分计算成对 Z 分数差值，将得分显著占优的 178,877 条归入启发式模糊匹配集。
-> 4. **Crossref 基金外部数据互证** 抽取 Crossref 基金库记录通过 DOI 补齐 305,314 条资助关系。
+> 4. **Crossref 基金外部数据互证** 抽取 [[Crossref]] 基金库记录通过 DOI 补齐 305,314 条资助关系。
 > 5. **整合对齐产出** 该匹配规程最终建立 1,309,518 条 NSF 资助链接，将 148,148 项资助课题与 929,258 篇学术成果精准关联。
 
 > [!sub-claim] 2. 统一文献标识能完整追踪科研成果向专利、临床与媒体的转化扩散
@@ -240,7 +243,7 @@ journal: Scientific Data
 > [!feature] 多源下游社会经济应用链接通道
 > - **医药基金关联** 借助经清洗的 PubMed 唯一标识符（PubMed Unique Identifier, PMID）桥梁，将美国国立卫生研究院（National Institutes of Health, NIH）40 年间的 37.9 万项立项课题与 263.6 万篇医学成果精确对接（生成 6,013,187 条资助关系，原始匹配率达 98.9% 以上）。
 > - **产业技术外溢** 整合 Marx & Fuegi 专利引用库，将附属版本的专利引用全部归并至主出版物，获取来自美国专利商标局（United States Patent and Trademark Office, USPTO）与欧洲专利局（European Patent Office, EPO）的 38,740,313 条专利引用记录。
-> - **临床医疗与公众讨论** 接入 ClinicalTrials.gov 的 438,220 条临床试验引用，并通过 Crossref Event API 接入 5584 万条推特讨论与 59.5 万条新闻报道提及，完整呈现基础研究向产业技术与社会公众扩散的客观轨迹。
+> - **临床医疗与公众讨论** 接入 [[ClinicalTrials.gov]] 的 438,220 条临床试验引用，并通过 [[Crossref]] Event API 接入 5584 万条推特讨论与 59.5 万条新闻报道提及，完整呈现基础研究向产业技术与社会公众扩散的客观轨迹。
 
 > [!case] 跨源关联个案追踪：遗传性痉挛性截瘫成果的资助与产出全景穿透
 > 以焦点论著《遗传性痉挛性截瘫基因定位研究》（Primary PaperID: `246319838`）为例：
@@ -298,7 +301,7 @@ journal: Scientific Data
 > [!sub-claim] 1. 篇级引文高度吻合证实文献收录质量达到商业数据库水准
 
 > [!evidence-grid] 商业基准文献覆盖与篇级引文一致性检验
-> - **八千五百万篇共有文献高重合** SciSciNet 核心文献集与商业数据库 Dimensions（106,517,016 篇带 DOI 论著）在 DOI 级精确对齐下共享 84,936,278 篇共同文献，占 Dimensions 总量的 79.74% 与 SciSciNet 的 85.97%。
+> - **八千五百万篇共有文献高重合** SciSciNet 核心文献集与商业数据库 [[Dimensions]]（106,517,016 篇带 DOI 论著）在 DOI 级精确对齐下共享 84,936,278 篇共同文献，占 Dimensions 总量的 79.74% 与 SciSciNet 的 85.97%。
 > - **篇级被引计数高度相关** 在共同匹配文献中，SciSciNet 篇均记录 16.75 次被引（Dimensions 为 14.64 次），两库篇级被引计数斯皮尔曼相关系数达 0.946，Lin 一致性相关系数达 0.940。
 > - **开源文献质量对齐商业标杆** 篇级统计指标证实其文献覆盖范围与引文完整度具备与商业索引相当的质量水准。
 
@@ -319,7 +322,7 @@ journal: Scientific Data
 >
 > *注*。改编自 Lin et al. (2023, Table 23 & Table 24)。基于 2000 年至 2020 年窗口内 NSF 与 NIH 资助项目-成果对的交叉比对。
 
-> [!figure]- 图 6：SciSciNet 与 Dimensions 数据库关联交叉验证
+> [!figure]- 图 6：SciSciNet 与 [[Dimensions]] 数据库关联交叉验证
 > ![](https://img.mylikemie.icu/sources/Lin_2023_SciData/figures/Lin_2023_SciData_Fig6_Validation_Data_Linkages_Dimensions.jpg)
 > *注*。引自 Lin et al. (2023, Figure 6)。(a) Dimensions 与 SciSciNet 匹配至每项 NIH 资助的成果产出量分布；(b) 每项 NSF 资助的成果产出量分布；(c) 对应 NIH 项目篇数的散点相关图（$r = 0.973$）；(d) 对应 NSF 项目篇数的散点相关图（$r = 0.714$）。
 
@@ -329,7 +332,7 @@ journal: Scientific Data
 > 1. **核心学术版图清洗提炼** 经过规范化过滤与家族聚合，从 MAG 2.7 亿条原始记录中提炼出包含 134,129,188 篇主论著与 15.89 亿条真实引文对的高纯度学术网络，彻底消除预印本与多版本引起的虚假引文膨胀。
 > 2. **上游资助与下游应用贯通** 借助多源模糊记录链接，成功匹配 131 万条 NSF 资助关联、601 万条 NIH 资助关联、3874 万条专利引用与 43.8 万条临床试验链接，确立了基础科学向社会经济转化的立体数据网络。
 > 3. **核心测度指标规模化预解算** 完成近 5000 万篇文献的颠覆性得分、非典型性 Z 分数、WSB 动力学参数与睡美人系数解算，稳健再现了小团队颠覆性优势、常规与新颖组合红利及引文普适坍缩等里程碑科学学规律。
-> 4. **对标商业基准的高保真品质** 与 Dimensions 商业数据库的比对证实，两者在 8490 万篇共同文献上的引文斯皮尔曼相关系数达 0.946，NIH 资助关联重合率达 95.3% 以上，确立了开源数据湖不逊于专有商业库的基准可信度。
+> 4. **对标商业基准的高保真品质** 与 [[Dimensions]] 商业数据库的比对证实，两者在 8490 万篇共同文献上的引文斯皮尔曼相关系数达 0.946，NIH 资助关联重合率达 95.3% 以上，确立了开源数据湖不逊于专有商业库的基准可信度。
 
 > [!stat-cards]- 核心数据
 > - **134,129,188 篇** SciSciNet 核心主出版物数量（包含 9076 万篇期刊论著与 463 万部图书）。
