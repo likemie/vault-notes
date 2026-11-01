@@ -5,6 +5,22 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
     },
     {
+      "basename": "Knowledge Hotspots",
+      "path": "wiki/concepts/science-policy/Knowledge Hotspots.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "Argument_Skipp_Tanner_2015_EEF",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
+    },
+    {
+      "basename": "Sleeping Beauty in Science",
+      "path": "wiki/concepts/science-policy/Sleeping Beauty in Science.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit08",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "John B. Fenn",
       "path": "wiki/persons/us/John B. Fenn.md"
-    },
-    {
-      "basename": "Argument_Skipp_Tanner_2015_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
     },
     {
       "basename": "Collective Credit Allocation Algorithm",
@@ -99,10 +111,6 @@
     {
       "basename": "Difference-in-Differences",
       "path": "wiki/methods/quantitative/Difference-in-Differences.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
     },
     {
       "basename": "Too-Much-Talent Effect",
@@ -191,14 +199,6 @@
     {
       "basename": "h-Index",
       "path": "wiki/methods/quantitative/h-Index.md"
-    },
-    {
-      "basename": "Q-Model",
-      "path": "wiki/theories/science-policy/Q-Model.md"
-    },
-    {
-      "basename": "Q-Factor",
-      "path": "wiki/methods/quantitative/Q-Factor.md"
     }
   ],
   "omittedPaths": [],
