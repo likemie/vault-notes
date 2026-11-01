@@ -72,7 +72,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
@@ -80,12 +80,12 @@ updated: 2026-11-01
 > [!def] Counterfactual
 > 反事实（Counterfactual）是[[Causality\|因果推断]]中通过设想与构建“若假设的原因不存在，效果是否还会发生或呈现何种状态”来判定因果效应的核心推理机制：如果假设原因 $X$ 发生时产生结果 $Y(1)$，而在 $X$ 不发生的替代可能世界中结果为 $Y(0)$，则因果效应即定义为 $Y(1) - Y(0)$。由此提出的检验问题是：“如果那个假设的原因不存在，效果还会发生或还是原来的样子吗？”如果答案是否定的，方可确证 $X$ 对 $Y$ 具有实质促成作用（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 55–56]]）。在实证教育研究中，反事实主要依托[[Random Assignment\|随机分配]]设立的控制组来构建无偏的反事实代理（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–23]]）。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 反事实是对“如果情境不同，替代结果会怎样”的严密潜在结果（Potential Outcomes）界定，追问干预缺失状态下的真实基线。
 > - **用途** 帮助研究者区分真正的因果增益与单纯的时间先后伴随、自然成熟效应或历史混淆[[Variable\|变量]]。
 > - **边界** 反事实推理无法在个体层面被直接观察（因同一个人无法在同一时点既接受又不接受干预）；在多重因果交织的复杂教育生态中，反事实必须通过大样本群组平均效应与严格实验控制方能近似逼近。
 
-> [!citation-card] 反事实与因果关系的确证基石
+> [!citation-card|notitle] 反事实与因果关系的确证基石
 > 判定因果关系是否存在的关键标志在于反事实的成立：即明确如果假设的原因不存在，所观察到的效果就不会发生。在教育实验中，控制组正是作为反事实的代理而存在的——它假定反映了实验组在没有接受该项教学干预时本应呈现的发展状态。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, p. 56)]]
 >
 > *A marker of whether causation is operating is the counterfactual: if the supposed cause X did not occur then the effect Y would not occur... in [[Experimental Research]], a control group [[ASEAN Credit Transfer System|acts]] as a counterfactual, standing in for what would have happened to the experimental group without the intervention.*
@@ -97,7 +97,7 @@ updated: 2026-11-01
 
 ---
 
-> [!contrast-table] 反事实对照与相邻推论方式的辨析
+> [!contrast-table|notitle] 反事实对照与相邻推论方式的辨析
 > | 维度 | 实验反事实对照（[[Randomised Controlled Trials\|RCTs]]） | 单组前[[Pre-test and Post-test\|后测]]对比（Pre-Post） | 观察性[[Covariate Adjustment\|协变量调整]]回归 | 思辨哲学思想实验 |
 > |---|---|---|---|---|
 > | **反事实构建方式** | 依托[[Random Assignment\|随机分配]]建立同质控制组作为实体反事实代理 | 将受试者干预前的历史状态假定为反事实基线 | 通过统计模型在数学上剥离已知协[[Variable\|变量]] | 在脑海中逻辑设想“若无原因”的可能世界 |
@@ -137,9 +137,11 @@ updated: 2026-11-01
 >     ExperimentalSolution --> CausalInference
 > ```
 
----
+> [!case]- 冰面摔倒与反事实的多重因果边界
+> 如果人行道上没有结冰，我就不会滑倒摔断手臂——因此冰的存在是骨折的促成原因之一（通过了反事实检验）。然而，冰仅构成导致骨折的必要贡献条件之一，单独存在尚不足以必然引发骨折：即使路面结冰，若当事人具备出色的平衡能力、视力良好、光线充足、穿着高抓地力防滑鞋且骨质健康，骨折也不会发生。该案例生动说明了反事实推理在多重因果交织网络中识别促成因素的有效性及其解释边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]
 
-## 围绕概念形成的命题
+> [!case]- 全员成功（[[Success for All\|SFA]]）与常规教学（[[Business as Usual\|BAU]]）的整群反事实检验
+> 在全员成功（Success for All, SFA）全校综合改革项目的大规模实证评估中，研究团队将数十所处境不利小学整群[[Random Assignment\|随机分配]]为 SFA 实验组与 BAU 控制组。控制组学校继续沿用学区原有常规阅读教材与教法（作为真实的政策反事实）。在持续多年的追踪测试中，SFA 学校在独立标准化阅读测验上显著超越了 BAU 控制组，从而确证了结构化全校改革相对于日常分散教学的因果净增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
 
@@ -194,7 +196,7 @@ updated: 2026-11-01
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 方法论纯洁性 vs 真实生态常态对照的[[Heterogeneity\|异质性]]
 > > 争论聚焦于教育实验中的反事实对照应当追求高度受控的人工“安慰剂”状态，还是采纳学校日常真实发生的教学常态。
@@ -208,18 +210,10 @@ updated: 2026-11-01
 > > - **实验因果派（Holland, 1986; WWC）** 强调群体平均反事实是排除偏倚、达成科学因果推论的唯一可靠途径。
 > > - **批判现实主义派（Biesta, 2007; Pawson, 2006）** 批评单纯的量化反事实比较只呈现“黑箱”输入与输出，无法揭示“在何种情境下、对谁、通过何种机制起作用”，容易掩盖处境不利亚群体的异质性反应。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > - **[[Causality\|因果推断]]基本问题的[[Ontology\|本体论]]限制** 任何个体层面的反事实状态均无法被直接观测，所有实证估计本质上都是基于群体可比性假设的统计近似（Holland, 1986）。
 > - **对照组污染与[[Hawthorne Effect\|霍桑效应]]** 在学校实地研究中，控制组教师可能通过非正式交流模仿实验组做法（对照污染），或因意识到处于对照状态而改变日常行为（霍桑效应/补偿性均等），从而扭曲真实的反事实基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 54–55)]]
 > - **非实验情境下的混淆假设风险** 在缺乏[[Random Assignment\|随机分配]]的观察性研究中，反事实推论极度依赖“可忽略性假设”（Ignorability），若遗漏关键未测[[Variable\|变量]]，反事实估计将产生严重系统性偏倚。
-
----
-
-> [!case] 冰面摔倒与反事实的多重因果边界
-> 如果人行道上没有结冰，我就不会滑倒摔断手臂——因此冰的存在是骨折的促成原因之一（通过了反事实检验）。然而，冰仅构成导致骨折的必要贡献条件之一，单独存在尚不足以必然引发骨折：即使路面结冰，若当事人具备出色的平衡能力、视力良好、光线充足、穿着高抓地力防滑鞋且骨质健康，骨折也不会发生。该案例生动说明了反事实推理在多重因果交织网络中识别促成因素的有效性及其解释边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]
-
-> [!case] 全员成功（[[Success for All\|SFA]]）与常规教学（[[Business as Usual\|BAU]]）的整群反事实检验
-> 在全员成功（Success for All, SFA）全校综合改革项目的大规模实证评估中，研究团队将数十所处境不利小学整群[[Random Assignment\|随机分配]]为 SFA 实验组与 BAU 控制组。控制组学校继续沿用学区原有常规阅读教材与教法（作为真实的政策反事实）。在持续多年的追踪测试中，SFA 学校在独立标准化阅读测验上显著超越了 BAU 控制组，从而确证了结构化全校改革相对于日常分散教学的因果净增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
 
@@ -230,17 +224,16 @@ updated: 2026-11-01
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美教育循证改革三十年经验与多项大型整校改革评估（如 [[Success for All\|SFA]]、[[Cooperative Integrated Reading and Composition\|CIRC]]、DI） | 宏观政策综述与整群 [[Randomised Controlled Trials\|RCT]] 方法学评析 | 整校改革干预 vs 常规教学（BAU）反事实对照；标准化独立测验与 [[Hierarchical Linear Model\|HLM]] 方差校正 | 证实缺乏严格 [[Business as Usual\|BAU]] 反事实对照的非实验项目极易高估成效；严格整群 RCT 确立了可复制全校模式的真实因果效度 | — | 说明反事实在真实学校生态中必须依托整群[[Random Assignment\|随机化]]与多层模型方能保障政策外推效度（pp. 22–27） |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 前 8 年资助的 190+ 项大规模学校实地试验（涉及万所学校） | 大规模教育随机对照试验（RCT）元评估 | 试验[[Preregistration\|预注册]]（[[ISRCTN]]）、方案锁定（[[Statistical Analysis Plan\|SAP]]）、国家统考（NPD）对照与[[EEF Padlock Security Rating\|挂锁安全评级]] | 严格大样本随机化有效保障了控制组反事实基线同质性；强调[[Measurement Alignment\|测量对齐]]偏差（自编测验）会人为扭曲反事实反差 50%–100% | — | 实证揭示教育实地试验中维护反事实纯洁性所面临的实施流失与测量工具硬约束（pp. 50–55） |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美教育循证改革三十年经验与多项大型整校改革评估（如 [[Success for All\|SFA]]、[[Cooperative Integrated Reading and Composition\|CIRC]]、DI） | 宏观政策综述与整群 [[Randomised Controlled Trials\|RCT]] 方法学评析 | 整校改革干预 vs 常规教学（BAU）反事实对照；标准化独立测验与 [[Hierarchical Linear Model\|HLM]] 方差校正 | 5 项核心 RCT 验证 SFA 相对常规教学（BAU）取得平均效应量 $ES = +0.41$；CIRC 4 项研究取得 $ES = +0.19$；非实验自编测验效应常被夸大 50%–100% | — | 说明反事实在真实学校生态中必须依托整群[[Random Assignment\|随机化]]与多层模型方能保障政策外推效度（pp. 22–27） |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 前 8 年资助的 190+ 项大规模学校实地试验（涉及万所学校） | 大规模教育随机对照试验（RCT）元评估 | 试验[[Preregistration\|预注册]]（[[ISRCTN]]）、方案锁定（[[Statistical Analysis Plan\|SAP]]）、国家统考（NPD）对照与[[EEF Padlock Security Rating\|挂锁安全评级]] | 自编测验相比独立标准化测验高估效应 50%–100%（约 0.25–0.50 SD），方案预注册与 SAP 锁定将研究者自由度降至最低 | — | 实证揭示教育实地试验中维护反事实纯洁性所面临的实施流失与测量工具硬约束（pp. 50–55） |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 反事实生涯序列置换实验 | 年度发文速率 $n(t)$ 与生涯代表作时序 | 代表作相对位次 $N^*/N$ 在 $(0, 1]$ 上服从均匀分布（$P=1.0$，累积分布斜率 $-1$），单篇先验突破概率恒为 $1/N$；打乱时序后模拟曲线与真实早年突破峰值曲线完全重合 | 置换检验与经验数据拟合显著 | 证实早年突破聚集完全由年发文生产力演进曲线所主导，反事实确证个体创造力终身不衰退 |
 > | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 美国国家卫生研究院（NIH）首度申请 R01 资助资历线附近的青年学者（$N = 1,162$ 惜败组 vs $N = 1,007$ 险胜组） | 断点回归设计（RDD）准实验反事实追踪 | 学术系统永久流失率；后续 10 年篇均被引；前 5% 高被引成果比例 | 惜败组流失率高 2.6 个百分点（12.6% vs 10.0%, $p < 0.05$）；坚守者后续 10 年篇均被引高 6.1%；前 5% 高被引成果比例为 16.0% vs 13.3%（$p < 0.01$） | 断点局域随机性保障了反事实同质性 | 证实制度截断线能够有效充当外生反事实代理，剥离个体能力与坚毅等不可测混杂因素 |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出反事实生涯置换实验，在严格控制发文量与时间序列的前提下构建计算反事实零模型，实证剥离发文生产力与创造力生命周期动力学。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 结合资助截断点准实验（RDD）与学术研讨会随机分组（RCT），实证阐述外生反事实代理的构建机制及微观确定性与宏观推广性张力（pp. 243–251）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量评估规范，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。
-

@@ -425,6 +425,14 @@
     {
       "sentence": "**回溯式验证与预测** 屏蔽 2009 年之后的文献，仅利用 2009 年之前的词向量空间，计算候选化合物向量与热电性（thermoelectric）等物性词向量的余弦相似度。",
       "target": "wiki/concepts/educational-philosophy/Screening Off.md"
+    },
+    {
+      "sentence": "**因果识别** 以各院系犹太学者被解聘比例作为工具变量，剥离学者主动流动或择校选择效应，因果识别资深同行流失对德国大学留任教员与博士生后续长期产出的负向因果溢出。",
+      "target": "wiki/concepts/sociology-of-education/School Choice.md"
+    },
+    {
+      "sentence": "随着追踪科学运行的大规模数据资源的涌现，来自不同学科背景的研究者开始将科学方法反身应用于科学本身，孕育出蓬勃发展的科学学。",
+      "target": "wiki/concepts/educational-philosophy/Emergence.md"
     }
   ]
 }

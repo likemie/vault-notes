@@ -80,18 +80,20 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
+---
+
 ---
 
 > [!def] School Choice
-> 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育实践与制度逻辑。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]
+> 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，突破政府常规就近划片分配限制的教育实践与制度逻辑。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向家庭阶级[[Habitus|习性]]、资源存量同公私立学校资源空间分配之间的博弈与变现机制。
 > - **用途** 帮助研究者透视国家新自由主义市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
 > - **边界** 解释义务教育和高中阶段的选择性入学行为，不涉及不具备选择权利的强制性分配和纯粹学术选拔。
 
-> [!citation-card] 腾飞与王论择校的双向政策[[Discourse|话语]]与实践形态
+> [!citation-card|notitle] 腾飞与王论择校的双向政策话语与实践形态
 > 在多数国家的政策话语中，择校被设计为一种通过市场竞争打破公立教育垄断、提高教育质量的自上而下改革策略。然而，它也可以表现为底层家庭在教育机会空间分配不均时，自下而上主动发起的地理随迁与家庭重组行为。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]
 > 
 > *In the policy discourses of most countries, school choice is designed as a top-down reform strategy to dismantle the state monopoly of public schooling and to improve educational quality... However, it can also manifest as an organic family practice.*
@@ -102,7 +104,7 @@ updated: 2026-10-29
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 择校 (School Choice) | [[Peidu\|陪读 (Peidu)]] | 就近入学 (Proximity) |
 > | :--- | :--- | :--- | :--- |
 > | **分析对象** | 主动更换学校偏好 | 家庭地理迁移与脱产照料 | 被动接受学区行政划片 |
@@ -129,10 +131,6 @@ updated: 2026-10-29
 >     Choice --> Segregation["校际阶层极化与生源筛选"]
 >     Choice -.->|方差解释力仅5-10%| Achievement["学生学业成就 (主要受30%校内教师效能驱动)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 
@@ -220,15 +218,16 @@ updated: 2026-10-29
 
 ---
 
-> [!tension] 核心张力（仅两方正面对立时使用）
+> [!tension|notitle] 核心张力（仅两方正面对立时使用）
 > - **效率与自决权（蓝方）** 择校提供了竞争压力促使公立学校改进，并保障了家长的基本教育权和个性化选择自由。
 > - **阶级隔离与不平等再生产（红方）** 择校导致公立资源的阶级极化，中产家庭垄断优势资源，底层家庭面临事实上的教育剥夺。[[Argument_Teng_2025_CE|Teng and Wang (2025, pp. 313–314)]]
 
-> [!critique] 效能盲区批评
-> - **校际与校内方差错置** 择校[[Discourse|话语]]假定学校是同质且效能差异巨大的实体，但实证数据显示学校间方差仅 5–10%，校内教师间方差高达 30%。择校政策诱导家长将大量资源与焦虑投入到校际竞争中，遮蔽了课堂内部教学法与教师专业发展的决定性作用。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 13–14)]]
+> [!critique|notitle] 外部批评
+> - **效能盲区批评** 择校[[Discourse|话语]]假定学校是同质且效能差异巨大的实体，但实证数据显示学校间方差仅 5–10%，校内教师间方差高达 30%。择校政策诱导家长将大量资源与焦虑投入到校际竞争中，遮蔽了课堂内部教学法与教师专业发展的决定性作用。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 13–14)]]
+> - **公共性流失与国家责任外包批判** 批评者指出，择校政策以“赋予家长权利”为修辞，实质上是国家将自身应当承担的优质均衡教育责任转嫁给个体家庭与市场；当弱势家庭因资本匮乏无法在择校市场中竞争时，国家借助审计达标的程序中立性掩盖了结构性不平等，导致公共教育体系碎片化与民主公信力流失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 113)]]
 
-> [!critique] 公共性流失与国家责任外包批判
-> - **教育公共品的私有化异化** 批评者指出，择校政策以“赋予家长权利”为修辞，实质上是国家将自身应当承担的优质均衡教育责任转嫁给个体家庭与市场；当弱势家庭因资本匮乏无法在择校市场中竞争时，国家借助审计达标的程序中立性掩盖了结构性不平等，导致公共教育体系碎片化与民主公信力流失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 113)]]
+> [!warning|limits] 适用局限
+> 择校理论主要适用于具有一定学校自主权、生源选择空间与交通可达性的城镇教育系统；在边远农村或只有单一学校布局的孤立社区，择校选择缺乏现实基础；且单纯择校无法替代微观教学质量提升。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]; [[Argument_Teng_2025_CE|(Teng & Wang, 2025)]]
 
 ---
 
@@ -260,7 +259,7 @@ updated: 2026-10-29
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈与乡村学校抽干效应。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。
@@ -269,4 +268,3 @@ updated: 2026-10-29
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 442)]] — 揭示[[OECD|经合组织]]教育理事会如何将择校与质量、公平、成本分担并列为核心议程，将择校[[Operationalization|操作化]]为以[[Performance Indicators|绩效指标]]衡量的准市场效率机制。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释英格兰政策精英如何利用 PISA 2000 的优异排位为本土市场化择校竞争与高利害问责模式确立合法性，并借此掩盖严重的教育阶层差距（pp. 30–31）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献系统综述，系统剖析新公共管理市场化体制如何利用基于测验的问责制（TBA）撬动家长择校与生源竞争，并揭示不同行政传统对择校政策的分化折射效应。
-
