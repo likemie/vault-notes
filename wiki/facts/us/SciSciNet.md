@@ -53,13 +53,13 @@ updated: 2026-11-02
 ---
 
 > [!claim] 项目定位
-> 由美国西北大学科学学与创新科学中心（Center for Science of Science and Innovation, CSSI）团队发起并公开维护的大规模开放科学学数据湖，旨在打破学术大数据孤岛与高昂算力壁垒，为全球科研人员提供覆盖 1.34 亿篇论著、贯通资金与转化应用的统一实证[[Data Infrastructure|数据基础设施]]。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> 由美国西北大学科学学与创新科学中心（Center for Science of Science and Innovation, CSSI）团队发起并公开维护的大规模开放科学学数据湖，旨在消除学术数据孤岛并降低算力门槛，为全球科研人员提供覆盖 1.34 亿篇论著、贯通资金与转化应用的统一实证[[Data Infrastructure|数据基础设施]]。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2023 年于《科学数据》（*Scientific Data*）正式发布，常态化在 Figshare 平台开源托管与增量维护。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **发起方与资助机制** 由[[Dashun Wang|王大顺（Dashun Wang）]]教授领衔的西北大学 CSSI 团队主导研发，依托美国国家科学基金会与阿尔弗雷德·P·斯隆基金会等项目资助。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **覆盖范围与对象** 整合 134,129,188 篇学术成果、4.14 亿条学者-机构关系、15.89 亿条引文对，全面映射 19 个一级学科与 292 个子学科。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **核心问题导向** 解决科学学实证中跨库匹配难、数据清洗重复、高算力指标复现壁垒高三大难题。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **核心问题导向** 攻克科学学实证研究中跨库匹配困难、数据清洗重复劳动繁重、高算力指标复现门槛高三大难题。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
 
@@ -67,19 +67,19 @@ updated: 2026-11-02
 > 通过建立统一规范的开放数据湖架构，将繁杂的原始图谱清洗与核心测度指标预计算收拢为公共产品，能够直接降低科研准入门槛、提升科学学实证结论的可复现性与稳健性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 建立高覆盖、高保真、贯通上下游社会经济脉络的端到端开放科研数据库。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **项目目标** 建立高覆盖、高保真、贯通上下游社会经济脉络的综合开放科研数据库。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **覆盖对象** 全球范围内的学术期刊论著、学术专著、会议录、学位成果及其对应的科研基金、专利与公众舆论。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **干预措施** 公布 22 张规范化 TSV 数据表，提供清洗脚本与模糊匹配算法，免费开放近 5000 万篇论著的指标预计算成果。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **实施控制** 建立针对 Dimensions 等顶尖商业数据库的双盲交叉检验，执行严格的时间窗约束与多指标一致性核验。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **实施控制** 建立针对 Dimensions 等主流商业数据库的基准交叉检验，执行严格的时间窗约束与多指标一致性核验。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!case] 跨源关联个案追踪：从单一成果穿透至 NIH 资助全景
 > 以焦点论著《遗传性痉挛性截瘫基因定位研究》（PaperID: `246319838`）为例：
 > - 在数据湖主表中可调取其基础元数据与全量被引计数。
 > - 在 `SciSciNet_Link_NIH` 关联表中可映射至 3 项核心 NIH 项目编号：`R01NS033645`、`R01NS036177` 与 `R01NS038713`。
-> - 研究者可直接连通 NIH RePORTER 官方平台，调取该研究背后的立项时间、总资助金额与课题负责人信息，完整呈现公共资助向学术突破转化的实证链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - 研究者可直接在 NIH RePORTER 官方平台调取该成果关联课题的立项时间、总资助金额与课题负责人信息，完整呈现公共资助向学术突破转化的实证链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
-> [!citation-card] 开放数据湖对科学学共同体的使能目标
-> 开放数据湖旨在为学术共同体提供大规模实证基石，增强新发现的证据质量并提升研究结论的可复现性与稳健性；通过汇聚多源数据源与测度结果，大幅削减预处理重复损耗，降低准入门槛并激发新理论的多元性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> [!citation-card] 降低准入门槛与提升实证可复现性
+> 科学学开放数据湖为学术共同体提供大规模实证基石，增强新发现的证据质量并提升研究结论的可复现性与稳健性；通过汇聚多源数据源与测度结果，大幅削减预处理重复投入，降低准入门槛并激发新理论的多元性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
 > *Overall, this data lake serves as an initial but useful resource for the field, by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
 

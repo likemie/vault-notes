@@ -57,8 +57,8 @@ updated: 2026-11-02
 > - **[[Unit of Analysis|分析单位]]** 数据表中的单条记录行、跨数据源的成对实体关系。
 > - **输出形式** 经匹配去重后的多源关联关系表、实体唯一映射词表及匹配置信度得分。
 
-> [!citation-card] 非结构化文献与资助记录的对齐规程
-> 针对基金资助与科学出版物之间缺乏统一标识符的瓶颈，记录链接管道通过从非结构化描述中抽取论著题名，计算候选字符编辑距离比率，并施加资助批准年份与发表年份的时间窗窗口限制，辅以学者姓氏验证，实现高精度跨源知识对齐。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> [!citation-card] 非结构化引文与资助记录的多级对齐
+> 针对基金资助与科学出版物之间缺乏统一标识符的瓶颈，记录链接管道通过从非结构化描述中抽取论著题名，计算候选字符编辑距离比率，并施加资助批准年份与发表年份的时间窗限制，辅以学者姓氏验证，实现高精度跨源知识对齐。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
 > *We developed a record linkage pipeline combining text parsing, fuzzy string matching, and strict temporal and authorship constraints to match unstructured reference strings from grant reports to standardized publication records.*
 
@@ -86,7 +86,7 @@ updated: 2026-11-02
 >    - **第三阶段（搜索引擎零模型得分与概率判定）** 依托倒排索引（如 Elasticsearch）获取多字段综合相关度得分，以次优候选得分分布作为零模型基准，依据极值显著性（如 $P = 0.05$）划定匹配边界。
 >    - **第四阶段（启发式微调与外部数据源补强）** 计算成对得分差值提取高置信度模糊匹配，并引入 Crossref 等第三方权威数据交叉验证。
 > 4. **阈值判定与物理约束过滤** 设定分类决策边界，并结合业务逻辑施加硬性排他约束（如成果发表年份不能早于资助立项过多，$t-1 \le t_{\text{pub}} \le t+5$）。
-> 5. **质量核验与基准校准** 采用人工双盲抽样复查，或与权威商业基准进行跨库重合度交叉验证。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> 5. **质量核验与基准校准** 采用人工抽样复查，或与权威商业基准进行跨库重合度交叉验证。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!method-stack] 数据与变量
 > - **数据结构** 包含跨源多表的非配对关系数据库或非结构化半结构化元数据文本。
@@ -120,4 +120,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开发融合文本抽取、模糊字符串距离与发表年份约束的记录链接管道，成功对齐 131 万条 NSF 项目非结构化引文与微软学术图谱主论著，并以 Dimensions 商业数据库完成双盲交叉核验。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开发融合文本抽取、模糊字符串距离与发表年份约束的记录链接管道，成功对齐 131 万条 NSF 项目非结构化引文与微软学术图谱主论著，并以 Dimensions 商业数据库完成基准交叉核验。
