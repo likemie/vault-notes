@@ -15959,6 +15959,19 @@
     ]
   },
   {
+    "title": "Citation Aging",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Citation Aging.md",
+    "aliases": [
+      "引文老化",
+      "文献老化",
+      "知识老化",
+      "科学文献老化",
+      "Obsolescence of Scientific Literature",
+      "Citation Obsolescence"
+    ]
+  },
+  {
     "title": "Citation Disparity",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Citation Disparity.md",
@@ -16501,6 +16514,18 @@
     ]
   },
   {
+    "title": "Initial Attractiveness",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Initial Attractiveness.md",
+    "aliases": [
+      "初始吸引力",
+      "初始吸引力参数",
+      "初始获引概率",
+      "基底吸引力",
+      "零引用门槛"
+    ]
+  },
+  {
     "title": "Innovation Desert",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Innovation Desert.md",
@@ -16529,6 +16554,17 @@
     "aliases": [
       "无形学院",
       "隐形学院"
+    ]
+  },
+  {
+    "title": "Knowledge Hotspots",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Knowledge Hotspots.md",
+    "aliases": [
+      "知识热点",
+      "科学发现的热点",
+      "Hotspot of Discovery",
+      "Knowledge Hotspot"
     ]
   },
   {
@@ -17184,6 +17220,18 @@
       "Transformative System Failure",
       "Transformative Failures",
       "TSF"
+    ]
+  },
+  {
+    "title": "Ultimate Impact",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Ultimate Impact.md",
+    "aliases": [
+      "终极学术影响力",
+      "终极影响",
+      "终身总引用量",
+      "终身学术影响",
+      "Ultimate Scientific Impact"
     ]
   },
   {
@@ -22118,6 +22166,18 @@
       "爆发动力学",
       "人类活动爆发性",
       "Burstiness"
+    ]
+  },
+  {
+    "title": "Citation Copy Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Citation Copy Model.md",
+    "aliases": [
+      "引文复制模型",
+      "复制模型",
+      "引文连环复制机制",
+      "Copy Model",
+      "Citation Copying"
     ]
   },
   {

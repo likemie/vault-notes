@@ -30936,6 +30936,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Initial Attractiveness.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
       ],
       "title": ""
@@ -31964,6 +31965,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Embedded Autonomy.md"
+      ],
+      "title": ""
+    },
+    "Evans, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Citation Aging.md"
       ],
       "title": ""
     },
@@ -73783,7 +73792,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Knowledge Hotspots.md"
       ],
       "title": ""
     },
@@ -83802,6 +83812,7 @@
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
         "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
+        "wiki/concepts/science-policy/Initial Attractiveness.md",
         "wiki/persons/italy/Vilfredo Pareto.md",
         "wiki/theories/science-policy/Bianconi-Barabási Model.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
@@ -107647,6 +107658,14 @@
       ],
       "title": ""
     },
+    "Verstak et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Citation Aging.md"
+      ],
+      "title": ""
+    },
     "Vescio et al., 2008": {
       "doi": "",
       "isbn": "",
@@ -108997,6 +109016,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Citation Aging.md",
+        "wiki/concepts/science-policy/Ultimate Impact.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],
       "title": ""
@@ -113939,7 +113960,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Citation Aging.md"
       ],
       "title": ""
     },

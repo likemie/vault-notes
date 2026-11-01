@@ -7265,6 +7265,7 @@
     "Evans & Yuan, 2018": "Evans & Yuan, 2018",
     "Evans & Yuan, 2022": "Evans & Yuan, 2022",
     "Evans (1995)": "Evans, 1995",
+    "Evans (2008)": "Evans, 2008",
     "Evans (2010)": "Evans, 2010",
     "Evans (2012)": "Evans, 2012",
     "Evans (2014)": "Evans, 2014",
@@ -7275,6 +7276,7 @@
     "Evans et al., 2011": "Evans et al., 2011",
     "Evans et al., 2017": "Evans et al., 2017",
     "Evans, 1995": "Evans, 1995",
+    "Evans, 2008": "Evans, 2008",
     "Evans, 2010": "Evans, 2010",
     "Evans, 2012": "Evans, 2012",
     "Evans, 2014": "Evans, 2014",
@@ -24494,6 +24496,8 @@
     "Verschaffel, 1999": "Verschaffel, 1999",
     "Verschuren (2003)": "Verschuren, 2003",
     "Verschuren, 2003": "Verschuren, 2003",
+    "Verstak et al. (2014)": "Verstak et al., 2014",
+    "Verstak et al., 2014": "Verstak et al., 2014",
     "Vescio et al. (2008)": "Vescio et al., 2008",
     "Vescio et al., 2008": "Vescio et al., 2008",
     "Vester (1975)": "Vester, 1975",
@@ -78574,6 +78578,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Initial Attractiveness.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
       ],
       "title": ""
@@ -80326,6 +80331,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Embedded Autonomy.md"
+      ],
+      "title": ""
+    },
+    "Evans, 2008": {
+      "aliases": [
+        "Evans, 2008",
+        "Evans (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Evans, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Citation Aging.md"
       ],
       "title": ""
     },
@@ -149137,7 +149157,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Knowledge Hotspots.md"
       ],
       "title": ""
     },
@@ -165835,6 +165856,7 @@
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Citation Disparity.md",
         "wiki/concepts/science-policy/First-Mover Advantage in Academia.md",
+        "wiki/concepts/science-policy/Initial Attractiveness.md",
         "wiki/persons/italy/Vilfredo Pareto.md",
         "wiki/theories/science-policy/Bianconi-Barabási Model.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
@@ -205142,6 +205164,21 @@
       ],
       "title": ""
     },
+    "Verstak et al., 2014": {
+      "aliases": [
+        "Verstak et al., 2014",
+        "Verstak et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Verstak et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Citation Aging.md"
+      ],
+      "title": ""
+    },
     "Vescio et al., 2008": {
       "aliases": [
         "Vescio et al., 2008",
@@ -207400,6 +207437,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Citation Aging.md",
+        "wiki/concepts/science-policy/Ultimate Impact.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],
       "title": ""
@@ -215469,7 +215508,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Citation Aging.md"
       ],
       "title": ""
     },
