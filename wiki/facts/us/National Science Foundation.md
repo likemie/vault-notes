@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 94
+fact_related_count: 96
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -108,6 +108,7 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[National Semiconductor Technology Center]]"
+  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Fan_2026_BCAS]]"
@@ -129,10 +130,11 @@ related_arguments:
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -141,8 +143,8 @@ updated: 2026-10-30
 > 美国国家科学基金会（National Science Foundation, NSF）是美国联邦政府负责促进非医学领域基础科学、工程技术研究、科学教育以及前沿跨学科创新的核心独立官方资助机构；作为二战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的民事基石，与[[Office of Naval Research|海军研究办公室]]（ONR）、原子能委员会（[[ASEAN Economic Community|AEC]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）形成机制协同，统领全美大学基础研究投资、科学、技术、工程与数学教育（[[STEM Education|STEM]]）改革以及产学研区域协同创新网络。在《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体战略中，NSF 联合主持白宫微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]），统领未来半导体（FuSe）前沿攻关与全美纳米中试设施；在 2026 年国家科技战略重塑中，NSF 进一步肩负起探索[[Metascience|元科学]]资助机制创新、依托技术创新合作理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）孵化[[NSF Regional Innovation Engines|区域创新引擎]]与支持新型[[Focused Research Organization|聚焦研究组织]]（FRO）的战略重任。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 1950 年依据[[United States Congress|美国国会]]立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向杜鲁门总统呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
-> - **总部地点与辐射范围** 总部位于美国弗吉尼亚州亚历山德里亚（Alexandria, Virginia），业务资助与合作网络辐射全美 2,000 多所高校、科研院所、学区以及数十个跨部门区域创新网络。
+> - **成立时间 / 创设背景** 1950 年依据[[United States Congress|美国国会]]立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向杜鲁门总统呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
+> - **总部地点 / 业务辐射** 总部位于美国弗吉尼亚州亚历山德里亚（Alexandria, Virginia），业务资助与合作网络辐射全美 2,000 多所高校、科研院所、学区以及数十个跨部门区域创新网络。
 > - **法人属性与经费基础** 属于美国联邦政府独立行政机构，享有国会独立财政预算拨款，年度科研投资预算约 90 至 100 亿美元，约占美国大学所获联邦非医学基础科研资助总额的四分之一。
 > - **核心宗旨与法定职责** 法定使命为“促进科学进步；增进国家健康、繁荣与福利；保障国家安全”；资助自由探索的[[Curiosity-Driven Research|蓝天研究]]、推进全纳的科学与[[Engineering Education|工程教育]]（[[STEM Education]]），并通过产学研协同机制促进实验室成果向经济生产力转化。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
 
@@ -167,6 +169,7 @@ updated: 2026-10-30
 >   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。
 >   - **国家战略与中试网络共建** 在[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；设立“未来半导体前沿”（Future of Semiconductors, FuSe / FuSe2）专项计划，由 TIP 与工程学学部（ENG）、数学与物理科学学部（MPS）跨学科协同，聚焦多维[[Co-Design|协同设计]]、二维材料与能效突破，跨越从实验室到工业代工厂的转化断层；
 >   - **开放科研基础设施与全谱系人才培养** 持续资助全美国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）16 个核心高校微纳加工与表征节点，提供低门槛开放中试服务；通过[[Advanced Technological Education|先进技术教育]]（Advanced Technological Education, ATE）计划、本科生研究体验（REU）与教师研究体验（RET）深耕社区学院与大学晶圆代工技术员与工程拔尖人才梯队。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 19–21, 26–28)]]
+> - **2023 — 全量科研资助与论著关联网络规范化解析** 林子敬等依托 SciSciNet 开放数据湖研发非结构化引文解析流水线，成功将 1,309,518 条非结构化 NSF 资助字符串高精度对齐至核心主出版物，首次建立起覆盖跨学科领域的全景 NSF 资助-产出-转化实证数据库。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **2025–2026 — [[Metascience|元科学]]单元设立、资助机制试验与非学术组织直接资助**
 >   - 白宫科技战略报告系统诊断 NSF 沿袭自 1950 年代的学科分立壁垒与 42%–44% 的行政文书负担，要求建立直属独立[[Metascience|元科学]]单元以推行[[Randomised Controlled Trials|随机对照试验]]（RCTs）；
 >   - 通过 TIP [[NSF X-Labs|X-Labs]] 突破大学系所界限、直接资助新型[[Focused Research Organization|聚焦研究组织]]（FRO）；全面推行金券制（Golden Tickets）、对人长期资助与可携带式研究生早期奖学金；并依据《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令建立强制性代码数据开源与复现机制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 26–28, 31–32, 65–66)]]
@@ -184,7 +187,6 @@ updated: 2026-10-30
 > - **TIP [[NSF X-Labs|X-Labs]] 与新型科研组织直接资助** 突破传统仅向大学系所拨款的限制，TIP X-Labs 开始直接资助具备全职工程师团队的独立[[Focused Research Organization|聚焦研究组织]]（FRO），围绕全脑神经动机环路绘制等中等规模公共品科学开展攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
 > - **可携带式早期学者奖学金（[[Portable Fellowship|Portable Fellowships]]）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
-> - **研究者的政策实践与资助优先事项** [[American Association for the Advancement of Science|AAAS]] 科学与技术政策研究员项目及 [[American Educational Research Association|AERA]] 对教育研究者的支持，为学者提供为期一年的政策实践机会。相关讨论提出，部分研究员此后可能进入 NSF 或 [[Institute of Education Sciences|IES]] 等联邦机构，参与研究资助优先事项的设定；这是政策实践经历可能延伸出的职业路径。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 > - **跨学科团队资助与协调成本监测** 基金会对资助项目的全流程跟踪评估显示，高度跨学科与跨机构攻关团队在发表前阶段面临显著沟通磨合障碍与协调成本，流产与未发表风险偏高；资助成效评估需警惕[[Document|文献]]引文多样性溢价背后的幸存者偏差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 118)]]
 
 ---
@@ -199,13 +201,34 @@ updated: 2026-10-30
 > - **国家超级计算机中心与网络基础设施** 1980 年代在 5 所大学设立超算中心，为早期互联网（NSFNET）与现代前沿计算奠定基石。
 > - **NSF 创新兵团（[[NSF I-Corps]]）** 高校[[Academic Entrepreneurship|学术创业]]标杆，累计孵化超 1,000 家科技初创企业，撬动逾 7.6 亿美元商业化融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与[[NSF Regional Innovation Engines|区域创新引擎]]** 依据《[[CHIPS and Science Act|芯片法案]]》向 10 个区域创新合作体授予高达 1.6 亿美元十年期资助，并设立 [[NSF X-Labs|X-Labs]] 攻坚前沿中等规模工程科学。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
-> - **STEM 与人文社科融合** “人类技术前沿的工作未来”（Future of Work at the Human-Technology Frontier）项目被列为[[Convergence Research|融合研究]]的案例。社会科学和人文学科可帮助理解技术变迁中的商业模式与社会实践；产学参与也为这些研究者提供企业数据、研发资源及学生实习机会。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]
-> - **国家人工智能研究院网络** 联合教育部等部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，实现算法突破与芯片、教育场景的双向赋能。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
+> - **国家人工智能研究院网络** 联合教育部等部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，推动前沿算法突破向芯片设计与教育应用场景双向转化。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
 
 > [!citation-card] 创设宪章与法定使命宣言
 > 促进科学之进步；增进国家健康、繁荣与福利；保障国家安全；并为其他目的而设立。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
 >
 > *To promote the progress of science; to advance the national health, prosperity, and welfare; to secure the national defense; and for other purposes.*
+
+---
+
+> [!indicators] 影响力维度与指标
+> - **资源与网络规模** 年度联邦科研预算规模约 90–100 亿美元，资助网络辐射全美 2,000 余所研究型大学与学术机构，占全美高校所获联邦非医学基础科研资助总额的近四分之一。
+> - **学术与知识生产** 资助覆盖全部非医学自然科学与工程技术学科，支持成果累计产生数百位诺贝尔奖得主；在 SciSciNet 开放数据湖中成功对齐并贯通 1,309,518 篇核心主出版物的科研资助链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **政策与制度渗透** 主导未来半导体（FuSe）、全美微纳中试设施（NNCI）与先进技术教育（ATE）技术员认证规范，设立 I/UCRC 与 ERC 产学合作示范范式，催生强制推广至全联邦的小企业创新研究（SBIR）法案。
+
+> [!finding-cards] 关键成效与辐射影响
+> - **非医学基础科学核心支柱** 确立了战后美国大学自由探索与蓝天研究的主渠道，维持了微观个体学术创造力与宏观科学体系的持久繁荣。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
+> - **产学研深度协同与转化策源** 通过 I/UCRC、ERC 与 SBIR 等制度发明，有效填补了实验室原理与商业工业化之间的概念验证鸿沟，重塑了美国发展型网络国家的创新生态。[[Argument_Block_2008_PS|(Block, 2008, pp. 174–178)]]
+> - **资助数据公共品化与全景可观测性** 依托开放资助元数据与 SciSciNet 等开放数据湖建设，将基金资助转化为支撑全球科学学研究的基石级公共实证资产。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+
+> [!stat-cards]- 核心规模与改革数据
+> - **~$9–10B** NSF 年度联邦科研预算总额。
+> - **$81B** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》为 NSF 授权的五年期预算总额（拟新增 360 亿美元，首年增长 8%）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> - **1.31M** SciSciNet 数据湖通过非结构化解析流水线对齐并高保真贯通的 NSF 资助学术成果关联记录数。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **3,000** 芯片法案拟将 NSF 研究生研究奖学金（GRFP）年度名额从 2000 名扩大后的学者规模。
+> - **42%–44%** 联邦资助高校教师平均用于处理基金申请、财务审计与行政合规文书的工作时间比例。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 8)]]
+> - **<1% → >25%** 2021 至 2024 年间 NSF 重点涉及 [[Diversity, Equity, and Inclusion|DEI]] 倡议的项目在总资助中的份额变化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> - **1,000+** [[NSF I-Corps]] 累计孵化的高校科技初创企业总数（撬动后续融资超 7.6 亿美元）。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
+> - **\$160M** [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会首批向 10 个区域创新合作体授予的十年期资助总额。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
 
 ---
 
@@ -243,18 +266,7 @@ updated: 2026-10-30
 
 ---
 
-> [!stat-cards]- 核心规模与改革数据
-> - **~$9–10 Billion** NSF 年度联邦科研预算总额。
-> - **$81 Billion** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》为 NSF 授权的五年期预算总额（拟新增 360 亿美元，首年增长 8%）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
-> - **3,000** （名） 芯片法案拟将 NSF 研究生研究奖学金（GRFP）年度名额从 2000 名扩大后的规模。
-> - **42%–44%** 联邦资助高校教师平均用于处理基金申请、财务审计与行政合规文书的工作时间比例。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 8)]]
-> - **<1% $\to$ >25%** 2021 至 2024 年间 NSF 重点涉及 [[Diversity, Equity, and Inclusion|DEI]] 倡议的项目在总资助中的份额变化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
-> - **1,000+** [[NSF I-Corps]] 累计孵化的高校科技初创企业总数（撬动后续融资超 7.6 亿美元）。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
-> - **\$160M** [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会首批向 10 个区域创新合作体授予的十年期资助总额。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
-
----
-
-> [!entry-map] 条目关联
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -280,10 +292,11 @@ updated: 2026-10-30
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心的部际共治架构、全链条研发流水线及与 NSF 基础科学探索的协同机制。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子研究战略四大支柱，系统阐明 NSF 在基础材料探索、FuSe [[Co-Design\|协同设计]]计划、NNCI 开放中试设施与 ATE 技术员培养中的核心职能。 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] | Argument | 追踪 NSF 资助项目揭示跨学科攻坚团队发表前协调摩擦与幸存者偏差的实证研究。 |
+> | [[SciSciNet]] | Fact | 科学学开放数据湖，依托非结构化引文解析高精度对齐 131 万条 NSF 资助链条。 |
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托 NSF 资助项目的全流程追踪档案，揭示跨学科攻坚团队面临显著的发表前沟通壁垒与协调成本，成果流产或未能发表风险偏高，印证多样性引文溢价存在幸存者偏差。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 讨论政策研究员经历如何促进研究者理解政策过程，以及进入 NSF 等联邦机构参与资助决策的可能路径。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 以工作未来项目说明 STEM 与人文社科融合，并讨论产学参与对不同学科的双向价值。
@@ -297,3 +310,4 @@ updated: 2026-10-30
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 实证阐明 [[DARPA]] 与 NSF 在半导体前沿技术突破中的机制分工与跨机构资助接力规律。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《芯片与科学法案》下商务部、国防部、能源部与 NSF 共同构建国家半导体全链条研发转化体系的制度构想。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释国家微电子顶层战略下 NSF 作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，通过未来半导体（FuSe）计划、全美纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与[[Advanced Technological Education|先进技术教育]]（ATE）技术员培养体系，全链条支撑从基础发现到中试转化的跨部门制度网络。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 研发非结构化引文解析算法，将 131 万条 NSF 资助致谢字符串高精度对齐至核心主出版物，支撑科学学全景资助转化网络构建。

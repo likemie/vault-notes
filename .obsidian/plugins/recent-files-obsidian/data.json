@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Citation Distribution",
-      "path": "wiki/concepts/science-policy/Citation Distribution.md"
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+    },
+    {
+      "basename": "Ultimate Impact",
+      "path": "wiki/concepts/science-policy/Ultimate Impact.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+    },
+    {
+      "basename": "Citation Distribution",
+      "path": "wiki/concepts/science-policy/Citation Distribution.md"
     },
     {
       "basename": "Argument_Lin_2023_SciData",
@@ -19,10 +31,6 @@
     {
       "basename": "National Institutes of Health",
       "path": "wiki/facts/us/National Institutes of Health.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
     },
     {
       "basename": "Argument_Sinatra_2016_Science",
@@ -191,14 +199,6 @@
     {
       "basename": "Yongle Encyclopedia",
       "path": "wiki/facts/china/Yongle Encyclopedia.md"
-    },
-    {
-      "basename": "Relative Team Impact",
-      "path": "wiki/methods/quantitative/Relative Team Impact.md"
-    },
-    {
-      "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
     }
   ],
   "omittedPaths": [],

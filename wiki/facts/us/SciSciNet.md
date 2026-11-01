@@ -148,7 +148,7 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[Metascience]] | Concept | 数据湖支持的核心交叉学科，旨在通过大数据检验科学规律与评价机制。 |
 > | [[Data Infrastructure]] | Concept | 数据湖作为开放公共科学数据基础设施，旨在降低算力与预处理门槛。 |
-> | [[Patent Citation]] | Concept | 数据湖向下游产业转化的核心测度构念，整合了数千万条专利对论文引用。 |
+> | [[Patent Citation]] | Concept | 数据湖向下游产业转化的核心测度构念，整合了数千万条专利对科学成果引用。 |
 > | [[Clinical Trial]] | Concept | 数据湖向下游医疗转化的核心测度构念，链接临床试验对基础成果引用。 |
 > | [[Microsoft Academic Graph]] | Fact (Program) | 数据湖的核心基础图谱源，经规范化清洗与成果家族聚拢后构建核心集。 |
 > | [[Web of Science]] | Fact (Program) | 科学学经典引文索引数据库，在基准检验中与数据湖表现出高度一致性。 |
