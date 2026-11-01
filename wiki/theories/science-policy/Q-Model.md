@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-31
 > > [!axis] 能力稳态假说 vs 经验积累成长假说
 > > 传统认知假定科研能力随学术阅历积累持续增长；Q 模型通过实证早晚期能力对比（$Q_{early}$ vs $Q_{late}$），证实转化能力在全生命周期内展现出高度稳态，引发关于学术技能是否可大幅后天提高的理论讨论。
 > >
-> > - **Roberta Sinatra et al. (2016)** 证实学者前半生与后半生的 $Q$ 值处于统计独立同分布波动范围内，无系统性漂移。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 66–67)]]
+> > - **Roberta [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]]** 证实学者前半生与后半生的 $Q$ 值处于统计独立同分布波动范围内，无系统性漂移。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 66–67)]]
 > > - **科学社会学反思派** 指出模型测度的是显性产出转化率，可能混杂了学术声望累积带来的马太效应与平台资源支撑。
 >
 > > [!axis] 单调累积指标 vs 稳态均质评价
@@ -140,4 +140,4 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出 Q 模型并形式化双因子乘积表达式，证实课题潜在价值与学者转化能力相互独立，确立能力因子的终身平稳性。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 详尽阐释 Q 模型的双因子乘积构造、运气与能力的独立性检验、全生命周期参数稳定性，以及在诺贝尔奖 ROC 预测竞争中的卓越效度。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 详尽阐释 Q 模型的双因子乘积构造、运气与能力的独立性检验、全生命周期参数稳定性，以及在受试者工作特征（Receiver Operating Characteristic, ROC）诺贝尔奖预测竞争中的卓越效度。

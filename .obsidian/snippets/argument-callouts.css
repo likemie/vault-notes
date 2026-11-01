@@ -24603,3 +24603,110 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-ca
  html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] > .callout-content,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
 }
 /* <<< DATA SNAPSHOT */
+
+/* >>> TENSION REFINEMENT · 2026-11-01
+   Preserve the existing VS pseudo-element and its hover animation verbatim. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] {
+ --tt-accent:#a55f75; --tt-ink:#8d4e62; --tt-ease:cubic-bezier(.22,.68,.25,1);
+ --ac-accent:var(--tt-accent) !important; --ac-ink:var(--tt-ink) !important;
+ --tt-node:var(--background-primary); --tt-edge:color-mix(in srgb,var(--tt-accent) 35%,var(--background-modifier-border));
+ container-type:inline-size; position:relative !important;
+ padding:1.2rem 1.4rem 1.1rem !important;
+ background:var(--ac-paper) !important; background-image:none !important;
+ border:1px solid var(--tt-edge) !important; border-radius:10px !important;
+ box-shadow:none !important; transform:none !important;
+ transition:border-color 260ms var(--tt-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]:where(.theme-dark *) { --tt-accent:#cc91a5; --tt-ink:#e0b0c1; --tt-node:#2b3035; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]::before,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title {
+ position:relative !important; width:100% !important; box-sizing:border-box;
+ align-items:flex-start !important; gap:.5rem !important;
+ padding:0 0 .85rem !important; margin:0 0 .85rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner {
+ display:block !important; position:relative !important; flex:1 1 0% !important;
+ width:auto !important; max-width:none !important; min-width:0 !important; padding:0 84px 0 0 !important;
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner::before {
+ content:"TENSION" !important; display:block !important; width:max-content;
+ margin:0 0 .45rem !important; padding:0 0 0 22px !important;
+ font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
+ background:linear-gradient(var(--tt-accent),var(--tt-accent)) left center / 12px 2px no-repeat !important;
+ border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--tt-ink) !important;
+ transition:background-size 280ms var(--tt-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner::after {
+ content:"" !important; display:block !important; position:absolute; right:0; top:2px;
+ width:64px; height:44px; pointer-events:none;
+ background:var(--tt-accent); opacity:.5;
+ mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M4%207h17v30H4M60%207H43v30h17M9%2022h17l-5-5M26%2022l-5%205M55%2022H38l5-5M38%2022l5%205%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
+ transform:translateX(-2px); transition:transform 420ms var(--tt-ease),opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title::after {
+ content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
+ width:24px; height:2px; background:var(--tt-accent); opacity:.7;
+ transform-origin:left; transition:transform 360ms var(--tt-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
+
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] { --tn-blue:65,106,148; --tn-red:174,80,97; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]:where(.theme-dark *) { --tn-blue:155,183,214; --tn-red:225,155,166; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content { padding:0 !important; background:none !important; font:400 .92em/1.85 var(--ac-sans) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > p { margin:.2rem 0 1rem !important; padding:0 !important; color:var(--text-muted); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul { grid-template-columns:repeat(2,minmax(0,1fr)) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li {
+ --tt-role:rgb(var(--tn-blue));
+ min-width:0 !important; grid-column:auto !important;
+ margin:0 !important; padding:1rem 1.05rem !important;
+ border:1px solid color-mix(in srgb,var(--tt-role) 16%,var(--background-modifier-border)) !important;
+ border-top:2px solid var(--tt-role) !important; border-radius:5px !important;
+ background:color-mix(in srgb,var(--tt-role) 3%,var(--background-primary)) !important;
+ box-shadow:none !important; color:var(--text-normal) !important;
+ font:400 1em/1.85 var(--ac-sans) !important;
+ text-align:left !important; text-align-last:auto !important; letter-spacing:0 !important;
+ overflow-wrap:anywhere;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li:nth-child(even) { --tt-role:rgb(var(--tn-red)); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li > p:first-of-type > strong:first-of-type {
+ display:block !important; margin:0 0 .6rem !important; padding:0 !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+ font:600 1.08em/1.55 var(--ac-serif) !important;
+ color:var(--tt-role) !important; letter-spacing:.01em !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li > p { margin:0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li::before,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li > .list-bullet { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content a.internal-link { color:var(--tt-role,var(--tt-ink)) !important; text-underline-offset:.22em; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"].is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"].is-collapsed > .callout-title::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"].is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout-metadata~="notitle"]:not(.is-collapsible) > .callout-title { display:none !important; }
+@media (hover:hover) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]:hover { border-color:var(--tt-accent) !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]:hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]:hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"]:not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li:hover { border-color:var(--tt-role) !important; background:color-mix(in srgb,var(--tt-role) 5%,var(--background-primary)) !important; box-shadow:none !important; }
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] a:focus-visible { outline:2px solid var(--tt-role,var(--tt-accent)); outline-offset:3px; }
+@container (max-width:520px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul { grid-template-columns:minmax(0,1fr) !important; row-gap:2.25rem !important; grid-auto-rows:1fr; }
+}
+@container (max-width:360px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner { padding-right:60px !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-content > ul > li { padding:.9rem .8rem !important; }
+}
+@container (max-width:260px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner { padding-right:0 !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"] > .callout-title .callout-title-inner::after { display:none !important; }
+}
+@media (prefers-reduced-motion:reduce) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout][data-callout] > .callout-title *,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout][data-callout] > .callout-title *::before,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout][data-callout] > .callout-title *::after,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout][data-callout] > .callout-title::after { transition:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout][data-callout] > .callout-title .callout-title-inner::after,html body .callout.callout.callout.callout.callout.callout[data-callout="tension"][data-callout][data-callout] > .callout-title::after { transform:none !important; }
+}
+/* <<< TENSION REFINEMENT */
