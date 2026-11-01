@@ -21809,6 +21809,8 @@
     "Simons, 2000": "Simons, 2000",
     "Simonsmeier et al. (2018)": "Simonsmeier et al., 2018",
     "Simonsmeier et al., 2018": "Simonsmeier et al., 2018",
+    "Simonton (1988)": "Simonton, 1988",
+    "Simonton, 1988": "Simonton, 1988",
     "Simpfendorfer (2014)": "Simpfendorfer, 2014",
     "Simpfendorfer, 2014": "Simpfendorfer, 2014",
     "Simpkins (2009)": "Simpkins, 2009",
@@ -185976,6 +185978,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Domain-Specific Prior Knowledge and Learning: A Meta-Analysis"
+    },
+    "Simonton, 1988": {
+      "aliases": [
+        "Simonton, 1988",
+        "Simonton (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simonton, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/R-Model.md"
+      ],
+      "title": ""
     },
     "Simpfendorfer, 2014": {
       "aliases": [

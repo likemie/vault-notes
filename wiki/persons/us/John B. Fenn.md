@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-10-30
 > - **1940–1967** 曾任职于工业界及普林斯顿大学分子束实验室。
 > - **1967–1987** 担任耶鲁大学教授，从事分子束与超声速自由射流研究。
 > - **1987** 达到 70 岁规定上限被耶鲁大学强制退休，随后转赴弗吉尼亚联邦大学建立新实验室。
-> - **1988–1989** 发表电喷雾电离质谱技术突破性论著，成功测定完整蛋白质大分子的分子量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
+> - **1988–1989** 发表电喷雾电离质谱技术突破性论著，成功测定完整蛋白质大分子的分子量。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, p. 596)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
 > - **2002** 荣获诺贝尔化学奖。
 > - **2010** 逝世于弗吉尼亚州里士满。
 
@@ -75,7 +75,7 @@ updated: 2026-10-30
 
 > [!work-line] 主要论著
 > - **1988 — *Electrospray Interface for Liquid Chromatographs and Mass Spectrometers*（《科学》）** 首次展示电喷雾电离对非挥发性生物大分子的无损离子化效能。
-> - **1989 — *Electrospray Ionization for Mass Spectrometry of Large Biomolecules*（《科学》）** 确立现代蛋白质组学质谱鉴定的核心物理方法。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 58)]]
+> - **1989 — *Electrospray Ionization for Mass Spectrometry of Large Biomolecules*（《科学》）** 确立现代蛋白质组学质谱鉴定的核心物理方法。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, p. 596)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 58)]]
 
 ---
 
@@ -89,11 +89,13 @@ updated: 2026-10-30
 > - **科学学与生涯理论路径** 成为随机影响法则、[[Constant-Probability-of-Success Model|成功恒定概率模型]]与爆发期模型的标志性案例，证实爆发期可以在生涯任何阶段降临，[[Scientific Productivity|科研生产力]]是维系创新概率的关键[[Variable|变量]]；为批判现行科研资助体系依据生理年龄设置刚性资助门槛提供了关键经验反例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 78–80)]]
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将芬恩（$N^*=N$）与维尔切克（$N^*=1$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记述芬恩七旬做出诺奖成果的传奇生平，反驳创造力随年龄衰退的迷思，印证爆发期随时可能降临并批评科技资助的刚性年龄红线。
 
 ---
 
 > [!person-network] 关系网络
+> - **科学学极值对照学者** [[Frank A. Wilczek]] — 科学学生涯时序分析中被引为极早突破代表，与芬恩的晚年突破构成双峰对照。
 > - **合作团队成员** 马蒂亚斯·曼（Matthias Mann）— 博士后与核心合作成员，共同推进电喷雾质谱生物应用。
 > - **任职机构** 耶鲁大学（Yale University）、弗吉尼亚联邦大学（Virginia Commonwealth University）。
 
@@ -114,7 +116,9 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Random Impact Rule]] | 理论 | 以 70 岁做出诺贝尔奖成果的经历，成为印证随机影响法则与晚期突破潜能的实证标杆。 |
+> | [[R-Model]] | 理论 | 以七旬突破证实单篇论著突破概率在全生涯中平稳随机分布。 |
 > | [[Hot-Streak Model]] | 理论 | 印证学术爆发期起点在全生命周期内服从随机分布，任何年龄段均可迎来成果成簇爆发。 |
 > | [[Constant-Probability-of-Success Model]] | 理论 | 展现维持高频试错尝试即可在任何生涯阶段触碰顶尖成果的微观逻辑。 |
 > | [[Experimental Innovators]] | 概念 | 以七旬强制退休后做出诺贝尔奖成果的经历，作为实验型创新者厚积薄发的标杆案例。 |
 > | [[Hot Streak]] | 概念 | 作为年逾七旬依然迎来爆发期的实证案例，反驳将学术巅峰锚定于青年期的认知偏见。 |
+> | [[Frank A. Wilczek]] | 人物 | 共同构成科学学生涯动力学中早晚两端极值对照的标志性学者组合。 |

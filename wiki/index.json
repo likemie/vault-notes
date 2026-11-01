@@ -22370,6 +22370,19 @@
     ]
   },
   {
+    "title": "R-Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/R-Model.md",
+    "aliases": [
+      "R 模型",
+      "R-模型",
+      "随机影响模型",
+      "Random-Impact Model",
+      "纯运气模型",
+      "随机冲击模型"
+    ]
+  },
+  {
     "title": "Random Impact Rule",
     "type": "theory",
     "path": "wiki/theories/science-policy/Random Impact Rule.md",
@@ -31808,6 +31821,18 @@
       "弗朗西斯·福山",
       "福山",
       "Fukuyama, F."
+    ]
+  },
+  {
+    "title": "Frank A. Wilczek",
+    "type": "person",
+    "path": "wiki/persons/us/Frank A. Wilczek.md",
+    "aliases": [
+      "弗兰克·维尔切克",
+      "弗兰克·A·维尔切克",
+      "F. A. Wilczek",
+      "Wilczek, F. A.",
+      "维尔切克"
     ]
   },
   {
@@ -42888,6 +42913,17 @@
       "美国教师联合会",
       "美国教师联盟",
       "AFT"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "American Physical Society",
+    "type": "fact",
+    "path": "wiki/facts/us/American Physical Society.md",
+    "aliases": [
+      "美国物理学会",
+      "APS",
+      "American Physical Society (APS)"
     ],
     "subtype": "organization"
   },
