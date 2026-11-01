@@ -9,9 +9,9 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而在跨国治理中其亦被超国家机构包装为客观中立的科学决策品牌以推行去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 89
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 90
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/research-methodology
@@ -115,10 +115,11 @@ related_arguments:
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -126,17 +127,17 @@ updated: 2026-10-31
 > [!def] Scientific Method
 > 科学方法（Scientific Method）传统上被界定为一套以系统观察、提出假设、隔离[[Variable|变量]]、受控实验检验以及逻辑推理为核心的经验探究程序，其关键特质在于操作程序的可公开复现性与结论的[[Falsification|可证伪性]]。在当代科学哲学、科学社会学与科学教育界，单一标准化的“机械五步法”神话已被消解，科学方法被重构为包含观察建模、历史推演与共同体辩护的多元化社会[[Epistemology|认识论]]实践；而在超国家教育治理中，[[Comparative Turn in Education Policy|比较转向]]被包装为政治决策的科学方法，赋予量化政策中枢无可置疑的[[Objectivism|客观主义]]声誉。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 科学共同体生成、检验、修正与积累系统化经验知识的核心路径与规范体系。
 > - **用途** 在经典[[Positivism|实证主义]]中，它是保障知识客观中立性与普遍有效性的判准；在当代[[Nature of Science|科学本质]]（NOS）教育中，它是指导[[Practical Epistemology|实践认识论]]探究的关键透镜；在超国家政策制定中，它被用作树立客观主义品牌、规避价值纷争的治理合法化工具。
 > - **边界** 既不同于实验室流水线式的死板配方，也不适用于裁决超验哲学、道德伦理或审美价值等非经验性规范命题。
 
-> [!citation-card] 程序可复制性与经验证伪
+> [!citation-card|notitle] 程序可复制性与经验证伪
 > 科学方法的第一大特征在于其经验性；第二显著特征是程序的可公开复制性，使得任何具备相应能力的观察者在相同条件下都能重复检验观察结果。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 111)]]
 >
 > *The second notable characteristic of the scientific method is its public nature... making it possible for other qualified observers to repeat the observations and to check the results.*
 
-> [!citation-card] 比较转向作为政治决策的科学方法与客观主义品牌
+> [!citation-card|notitle] 比较转向作为政治决策的科学方法与客观主义品牌
 > 比较转向作为政治决策的科学方法，使[[OECD|经合组织]]的报告获得了无可置疑的品牌声誉，其政策建议受到学界与政界广泛认可。[[Argument_Grek_2009_JEdPolicy|(Martens, 2007, p. 42; cited in Grek, 2009, p. 25)]]
 >
 > *Martens (2007) and Porter and Webb (2004) note that the 'turn to comparative' as a scientific method for political decision-making gave OECD reports an unquestioned reputation of an 'objectivism brand', thus their recommendations were well perceived by the academic and political world.*
@@ -148,7 +149,7 @@ updated: 2026-10-31
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 科学方法（Scientific Method） | 科学主义（[[Scientism]]） | 实践认识论（[[Practical Epistemology]]） | 诠释学探究（[[Interpretive Paradigm]]） |
 > |:---|:---|:---|:---|:---|
 > | **[[Epistemology\|认识论]]前提** | 经验观察、逻辑推论与假设[[Falsification\|证伪]]相统一 | 将经验科学方法视作获取真理的唯一合法途径 | 探究者在具体情境行动中内隐运用的求知信念 | 现实由具有能动性的人类主体主观建构与赋义 |
@@ -241,6 +242,9 @@ updated: 2026-10-31
 > [!claim] Azoulay (2012); [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]]
 > **以实验科学方法反躬审视科研资助机制与体制设计** 现代社会耗费数千亿美元资助科研，但在评估如何资助科学、如何组织科研团队时，极少运用科学家用来探索自然界的受控实验与因果检验方法。皮埃尔·阿祖莱（Pierre Azoulay）呼吁将实验主义引入科技体制设计，通过实地[[Randomised Controlled Trials|随机对照试验]]、机制实验与断点准实验，系统评估同行评审模式、基金资助周期以及物理空间偶遇对科研创新的实质因果影响，推动国家科技决策从经验主义与政治直觉走向基于严谨科学方法的循证治理。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 251)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 
+> [!claim] [[Argument_Liu_2023_NHB|Liu et al. (2023)]]
+> **科学学的反身方法论范畴与因果识别进路** 刘等人在《自然-人类行为》综述中指出，随着记录科学运行的大规模数据资源的出现，研究者将科学方法反身应用于科学系统本身，形成了现代科学学。科学学方法可划分为描述性与预测性进路（经验规律、经典回归、生成机制模型、机器学习深度表征）与因果推断进路（匹配与固定效应、DID/IV/RDD 准实验、实验室与田野随机对照试验）。通过将系统观察、微观数学建模与严格因果识别结合起来，科学方法反躬检验了关于同行评议、资助偏见与学者生产力的传统信念，为优化国家科技政策提供了严谨的实证基底。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 314–317, 341–350, 368)]]
+
 ---
 
 > [!concept-proposition] 命题六｜超国家教育治理借助科学方法修辞树立[[Objectivism|客观主义]]品牌以压制本土政治争议
@@ -258,7 +262,7 @@ updated: 2026-10-31
 > | **多元实践建构命题** | 科学探究依赖于学科家族相似性、情境化实践认识论与共同体社会论证 | [[Nature of Science\|科学本质]]教学、学科认识论实践分析、探究教学法改革 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; Kuhn |
 > | **技术异化遮蔽命题** | 将科学方法窄化为去情境的技术操作会诱发科学主义并抽空教育人文生态 | [[Critique of Evidence-Based Education\|循证教育批判]]、工具理性批判、[[General Education\|通识教育]][[Theory of Knowledge\|知识论]]边界划定 | Habermas; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]; [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] |
 > | **公理审查与反异化命题** | 打着科学方法旗号的宏观量化综合若违背底层计量公理，将异化为伪科学外衣 | 循证教育批判、效应量排行榜审查、计量法医级审计 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
-> | **科学学反身实验命题** | 将科学方法的因果实验与数据检验反身应用于评估和革新国家科研资助与评价体系 | 科学学、科研资助[[Mechanism Experiments\|机制实验]]、金标准科学评价改革 | Azoulay (2012); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang and Barabási (2021)]]; [[Michael Kratsios\|Kratsios (2026)]] |
+> | **科学学反身实验命题** | 将科学方法的因果实验与数据检验反身应用于评估和革新国家科研资助与评价体系 | 科学学、科研资助[[Mechanism Experiments\|机制实验]]、金标准科学评价改革 | Azoulay (2012); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang and Barabási (2021)]]; [[Michael Kratsios\|Kratsios (2026)]]; [[Argument_Liu_2023_NHB\|Liu et al. (2023)]] |
 > | **超国家治理品牌命题** | 跨国机构将比较转向包装为政治决策的科学方法，以客观主义品牌压制本土政治纷争 | 经合组织[[Performance Indicators\|教育指标]]、[[PISA]] 跨国测评、全球[[Governing by Numbers\|数字治理]] | Martens (2007); [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
@@ -274,6 +278,7 @@ updated: 2026-10-31
 > - **2012–2021 — 科学学呼吁将实验科学方法反躬应用于科技体制** 皮埃尔·阿祖莱（Pierre Azoulay, 2012）呼吁运用假说与受控实验审视科技体制设计；王大顺与巴拉巴西基于科学学因果革命，系统阐述实地随机试验在评估研讨会面对面合作中的因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 251)]]
 > - **2016 — [[Evidence-Based Education|循证教育]]综合中的科学方法审查与中央证据库构想** 德语计量学界[[Christof Wecker|克里斯托夫·韦克尔]]等人发表系统审查（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]），从公理模型推导六项方法论规范，确立数据基础、内部合规与外部认识论三层次批判框架，揭示宏观量化综合违背科学方法导致的排名失真，并提出建立中央标准化证据数据库作为科学方法制度性载体。
 > - **2018 — 学科家族相似性与微观[[Epistemic Practices|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 运用维特根斯坦家族相似性解构科学方法五步法神话，确立跨领域认识论实践矩阵。
+> - **2023 — 科学方法反躬应用于科学本身的方法论体系化（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** 刘等人在《自然-人类行为》系统梳理科学学的两大陆标进路（描述与生成模型 vs 准实验与随机对照试验），确立了以严谨科学方法反身评估科研运行规律与科技政策的因果实证框架。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 314–317, 368)]]
 > - **2026 — 科学学反身实验与“金标准科学”评价转向** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）推动科学方法从哲学争鸣走向制度化反身实验——将因果实验、数据透明与可复现性应用于革新科研基金分配本身，并确立基于学术卓越的“金标准科学”评价原则。
 
 ---
@@ -319,6 +324,7 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 系统梳理将描述性建模、准自然实验与随机对照试验反躬应用于科学运行本身的科学学方法论体系，为科技政策优化确立经验因果基底（pp. 314–317, 341–350, 368）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 结合皮埃尔·阿祖莱呼吁与哈佛研讨会面对面随机对照试验，实证阐释将实验科学方法反躬应用于评估科技体制与合作机制的科学学因果革命（pp. 249–251）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合 Martens (2007)，剖析经合组织如何将比较转向建构为政治决策的科学方法，树立客观主义品牌以推行跨国数字治理。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述现代科学学（[[Metascience]]）如何将科学方法的因果实验与实证检验反身应用于评估和改革联邦科研资助机制本身（如抽签资助、非共识金券评审），并确立金标准科学评价原则。
