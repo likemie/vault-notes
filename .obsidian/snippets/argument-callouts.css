@@ -24495,3 +24495,111 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="logic-m
  html body .callout.callout.callout.callout.callout.callout[data-callout="logic-map"][data-callout][data-callout][data-callout] .flowchart-link { stroke-dasharray:none !important; }
 }
 /* <<< SAMPLE-DARK AND LOGIC-MAP */
+
+/* >>> DATA SNAPSHOT · 2026-11-01
+   Shared title system; flat measure-and-context columns, no synthetic counters. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] {
+ --dt-accent:#4e8b85; --dt-ink:#386f69; --dt-ease:cubic-bezier(.22,.68,.25,1);
+ --ac-accent:var(--dt-accent) !important; --ac-ink:var(--dt-ink) !important;
+ --dt-node:var(--background-primary); --dt-edge:color-mix(in srgb,var(--dt-accent) 35%,var(--background-modifier-border));
+ container-type:inline-size; position:relative !important;
+ padding:1.2rem 1.4rem 1.1rem !important;
+ background:var(--ac-paper) !important; background-image:none !important;
+ border:1px solid var(--dt-edge) !important; border-radius:10px !important;
+ box-shadow:none !important; transform:none !important;
+ transition:border-color 260ms var(--dt-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:where(.theme-dark *) { --dt-accent:#91bfb7; --dt-ink:#b0d4cc; --dt-node:#2b3035; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]::before,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title {
+ position:relative !important; width:100% !important; box-sizing:border-box;
+ align-items:flex-start !important; gap:.5rem !important;
+ padding:0 0 .85rem !important; margin:0 0 .85rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner {
+ display:block !important; position:relative !important; flex:1 1 0% !important;
+ width:auto !important; max-width:none !important; min-width:0 !important; padding:0 84px 0 0 !important;
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner::before {
+ content:"DATA" !important; display:block !important; width:max-content;
+ margin:0 0 .45rem !important; padding:0 0 0 22px !important;
+ font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
+ background:linear-gradient(var(--dt-accent),var(--dt-accent)) left center / 12px 2px no-repeat !important;
+ border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--dt-ink) !important;
+ transition:background-size 280ms var(--dt-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner::after {
+ content:"" !important; display:block !important; position:absolute; right:0; top:2px;
+ width:64px; height:44px; pointer-events:none;
+ background:var(--dt-accent); opacity:.5;
+ mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M5%2038h54M12%2029v-9M27%2029V7M42%2029V14M57%2029V4%22/%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2217%22%20r%3D%222%22/%3E%3Ccircle%20cx%3D%2227%22%20cy%3D%224%22%20r%3D%222%22/%3E%3Ccircle%20cx%3D%2242%22%20cy%3D%2211%22%20r%3D%222%22/%3E%3Ccircle%20cx%3D%2257%22%20cy%3D%222%22%20r%3D%221%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
+ transform:translateX(-2px); transition:transform 420ms var(--dt-ease),opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title::after {
+ content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
+ width:24px; height:2px; background:var(--dt-accent); opacity:.7;
+ transform-origin:left; transition:transform 360ms var(--dt-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
+
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] { --dt-number:#97640e; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:where(.theme-dark *) { --dt-number:#f1cf82; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content { padding:0 !important; background:none !important; font:400 .96em/1.85 var(--ac-sans) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:not(.is-collapsed) > .callout-content { animation:dt-data-open 320ms var(--dt-ease) both !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) {
+ display:grid !important; grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+ gap:1.1rem 1.6rem !important; margin:0 !important; padding:0 !important;
+ list-style:none !important; align-items:start;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li {
+ display:block !important; position:relative !important; min-width:0; width:auto !important; max-width:none !important; grid-column:auto !important; grid-row:auto !important; align-self:start;
+ margin:0 !important; padding:1rem .2rem .3rem !important;
+ border:0 !important; border-top:1px solid color-mix(in srgb,var(--dt-accent) 12%,var(--background-modifier-border)) !important;
+ border-radius:0 !important; background:none !important; box-shadow:none !important;
+ color:var(--text-normal) !important; font:400 1em/1.85 var(--ac-sans) !important;
+ text-align:left !important; text-align-last:auto !important; letter-spacing:0 !important;
+ list-style:none !important; overflow-wrap:anywhere; transform:none !important;
+ transition:border-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li::before,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li::after,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li > .list-bullet { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type {
+ display:block !important; padding:0 !important; margin:0 0 .45rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+ font:500 clamp(1.1rem,2.6cqi,1.7rem)/1.35 var(--ac-serif) !important;
+ font-variant-numeric:lining-nums tabular-nums; letter-spacing:-.015em !important;
+ color:var(--dt-number) !important; transform:none !important;
+ transition:color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li > p { margin:0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content a.internal-link { color:var(--dt-ink) !important; text-underline-offset:.22em; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"].is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"].is-collapsed > .callout-title::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"].is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout-metadata~="notitle"]:not(.is-collapsible) > .callout-title { display:none !important; }
+@media (hover:hover) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:hover { border-color:var(--dt-accent) !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"]:not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li:hover { border-color:var(--dt-accent) !important; transform:none !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li:hover > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) > li:hover > p:first-of-type > strong:first-of-type { color:var(--dt-ink) !important; transform:none !important; }
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] a:focus-visible { outline:2px solid var(--dt-accent); outline-offset:3px; }
+@container (max-width:600px) { html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-content > :is(ul,ol) { grid-template-columns:minmax(0,1fr) !important; gap:.8rem !important; } }
+@container (max-width:360px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner { padding-right:60px !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
+}
+@container (max-width:260px) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner { padding-right:0 !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"] > .callout-title .callout-title-inner::after { display:none !important; }
+}
+@keyframes dt-data-open { from { opacity:.6; transform:translateY(4px); } to { opacity:1; transform:none; } }
+@media (prefers-reduced-motion:reduce) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout],html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] *,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] *::before,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] *::after { animation:none !important; transition:none !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] > .callout-content,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout[data-callout="stat-cards"][data-callout][data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
+}
+/* <<< DATA SNAPSHOT */
