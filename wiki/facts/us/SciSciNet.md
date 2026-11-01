@@ -45,7 +45,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Microsoft Academic Graph]]"
-  - "[[Education Policy Outlook]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > > [!axis] 数据范围与代表性局限
 > > 针对数据湖外部数据源偏向美欧英语体系的学术审视。
 > >
-> > - **批评观点** 资助数据目前集中于美国 NSF 与 NIH，专利引文主要来自 USPTO 与欧洲专利局（European Patent Office, [[Education Policy Outlook|EPO]]），对非英语国家与新兴经济体的科学资助及本土专利覆盖存在结构性盲区。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> > - **批评观点** 资助数据目前集中于美国 NSF 与 NIH，专利引文主要来自 USPTO 与欧洲专利局（European Patent Office, EPO），对非英语国家与新兴经济体的科学资助及本土专利覆盖存在结构性盲区。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > > - **回应辩护** 项目以开放架构发布，公布了全套记录对齐算法与数据接口，呼吁全球各地区研究团队协同接入本国科研资助与专利数据库进行增量扩展。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
 > > [!axis] 开源基础设施可持续维护挑战
@@ -139,3 +139,25 @@ updated: 2026-11-02
 > >
 > > - **批评观点** 数据湖以 2021 年底退役的 MAG 为核心底库，若缺乏常态化的图谱更新与活跃维护机制，其时效性优势将随时间推移逐渐减弱。
 > > - **回应辩护** 数据湖确立了标准化的家族聚合与外部对齐规则，可无缝迁移并对接 OpenAlex 等新一代开放学术知识图谱，持续发挥基准检验价值。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Metascience]] | Concept | 数据湖支持的核心交叉学科，旨在通过大数据检验科学规律与评价机制。 |
+> | [[Data Infrastructure]] | Concept | 数据湖作为开放公共科学数据基础设施，旨在降低算力与预处理门槛。 |
+> | [[Patent Citation]] | Concept | 数据湖向下游产业转化的核心测度构念，整合了数千万条专利对论文引用。 |
+> | [[Clinical Trial]] | Concept | 数据湖向下游医疗转化的核心测度构念，链接临床试验对基础成果引用。 |
+> | [[Microsoft Academic Graph]] | Fact (Program) | 数据湖的核心基础图谱源，经规范化清洗与成果家族聚拢后构建核心集。 |
+> | [[Web of Science]] | Fact (Program) | 科学学经典引文索引数据库，在基准检验中与数据湖表现出高度一致性。 |
+> | [[National Science Foundation]] | Fact (Organization) | 数据湖上游核心政府资助方之一，亦作为资助记录链接的核心数据源。 |
+> | [[National Institutes of Health]] | Fact (Organization) | 数据湖上游核心生物医学资助机构，其资助项目与文献实现高保真链接。 |
+> | [[WSB Model]] | Theory | 数据湖预计算全量引文动力学拟合参数所依托的核心引文增长模型。 |
+> | [[Bibliometric Analysis]] | Method | 数据湖面向的核心定量分析方法与实证研究范式。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 规范化清洗 1.34 亿篇核心出版物，贯通 NSF/NIH 资助及专利、临床应用，全量预计算科学学经典前沿测度指标，开源构建公共实证数据湖。

@@ -415,6 +415,14 @@
     {
       "sentence": "*Overall, this data lake serves as an initial but useful resource for the field, by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*",
       "target": "wiki/concepts/sociology-of-education/Champ.md"
+    },
+    {
+      "sentence": "资助-成果链接当前主要聚焦于美国的 NSF 与 NIH 项目，未完全覆盖其他国家资助体系；专利引用主要局限于 USPTO 与 EPO 专利数据库；临床试验引用主要来自 ClinicalTrials.gov，存在国家间入组与注册申报的地理异质性；基于学者姓名的性别推断模型具有内在算法局限与统计误差，在细分领域分析时须审慎校准；数据湖当前指标集聚焦于经典测度，尚待共同体进一步拓展更丰富的分析维度。",
+      "target": "wiki/methods/qualitative/Domain Analysis.md"
+    },
+    {
+      "sentence": "美国国家科学基金会（National Science Foundation, NSF）与美国国立卫生研究院（National Institutes of Health, NIH）资助项目关联；美国专利商标局（United States Patent and Trademark Office, USPTO）与欧洲专利局（European Patent Office, EPO）专利引用；ClinicalTrials.gov 临床试验引用；Crossref 媒体与社交媒体提及。",
+      "target": "wiki/facts/global/Education Policy Outlook.md"
     }
   ]
 }

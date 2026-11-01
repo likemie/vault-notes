@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Citation Distribution",
+      "path": "wiki/concepts/science-policy/Citation Distribution.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+    },
+    {
       "basename": "Argument_Lin_2023_SciData",
       "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md"
     },
@@ -9,12 +17,12 @@
       "path": "wiki/facts/us/SciSciNet.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+      "basename": "National Institutes of Health",
+      "path": "wiki/facts/us/National Institutes of Health.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
     },
     {
       "basename": "Argument_Sinatra_2016_Science",
@@ -67,10 +75,6 @@
     {
       "basename": "Albert-László Barabási",
       "path": "wiki/persons/us/Albert-László Barabási.md"
-    },
-    {
-      "basename": "Citation Distribution",
-      "path": "wiki/concepts/science-policy/Citation Distribution.md"
     },
     {
       "basename": "Big Science",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Edovald_Nevill_2021_ECNUROE",
       "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
-    },
-    {
-      "basename": "Random Impact Rule",
-      "path": "wiki/theories/science-policy/Random Impact Rule.md"
     }
   ],
   "omittedPaths": [],
