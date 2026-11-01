@@ -39,6 +39,8 @@ related_concepts:
   - "[[Access and Acceptance in Research]]"
   - "[[Champ]]"
   - "[[Heterogeneity]]"
+  - "[[Team Science]]"
+  - "[[Altmetrics]]"
 related_theories:
   - "[[WSB Model]]"
 related_methods:
@@ -48,9 +50,14 @@ related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Quantitative Research]]"
   - "[[Domain Analysis]]"
+  - "[[h-Index]]"
+  - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons:
   - "[[Albert-László Barabási]]"
+  - "[[Brian Uzzi]]"
+  - "[[Lingfei Wu]]"
+  - "[[Benjamin F. Jones]]"
 related_facts:
   - "[[SciSciNet]]"
   - "[[Web of Science]]"
@@ -123,10 +130,10 @@ journal: Scientific Data
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 测度工具、计算口径与对应变量 |
 > |---|---|---|
-> | **学术影响力与知识扩散** | 衡量成果在科学共同体内部的累积传播广度与长期持久度。 | 5 年引文数（C5）、10 年引文数（C10）、总被引频次，以及基于 [[WSB Model\|WSB 模型]] 拟合的即时性参数 $\mu$、衰老参数 $\sigma$ 与终极影响力预测值 $c_\infty$。 |
-> | **[[Paradigm\|范式]]革新与知识组合特征** | 衡量成果开辟全新研究轨道或实现罕见跨学科知识融合的拓扑性质。 | [[Disruption Index\|颠覆性指数]] $D \in [-1, 1]$（Wu et al., 2019）；基于 [[Combinatorial Novelty Measurement\|期刊共引对非典型度分析]] 计算的中位数 Z 分数（常规性基底）与第 10 百分位数 Z 分数（尾部新颖性）（Uzzi et al., 2013）。 |
+> | **学术影响力与知识扩散** | 衡量成果在科学共同体内部的累积传播广度与长期持久度。 | 5 年引文数（C5）、10 年引文数（C10）、总被引频次，基于 [[Relative Citation Normalization\|相对引文标准化]]（Relative Citation Normalization）口径的篇均基线比值，以及基于 [[WSB Model\|WSB 模型]] 拟合的即时性参数 $\mu$、衰老参数 $\sigma$ 与终极影响力预测值 $c_\infty$。 |
+> | **[[Paradigm\|范式]]革新与知识组合特征** | 衡量成果开辟全新研究轨道或实现罕见跨学科知识融合的拓扑性质。 | [[Disruption Index\|颠覆性指数]] $D \in [-1, 1]$（[[Lingfei Wu\|Wu]] et al., 2019）；基于 [[Combinatorial Novelty Measurement\|期刊共引对非典型度分析]] 计算的中位数 Z 分数（常规性基底）与第 10 百分位数 Z 分数（尾部新颖性）（[[Brian Uzzi\|Uzzi]] et al., 2013；亦见 [[Benjamin F. Jones\|Jones]] 等）。 |
 > | **长周期[[Sleeping Beauty in Science\|延迟认可]]** | 衡量成果在经历长期休眠后爆发被引的非典型演化轨迹。 | [[Sleeping Beauty in Science\|睡美人现象]] 系数 $B$ 与唤醒时间 $T$（Ke et al., 2015），结合学科外施引比例刻画知识的跨领域延迟激活。 |
-> | **多源跨界应用转化** | 衡量基础科学向上游公共资金与下游产业、医疗及公共舆论的渗透程度。 | 美国国家科学基金会（National Science Foundation, NSF）与美国国立卫生研究院（National Institutes of Health, NIH）资助项目关联；美国专利商标局（United States Patent and Trademark Office, USPTO）与欧洲专利局（European Patent Office, [[Education Policy Outlook\|EPO]]）[[Patent Citation\|专利引用]]；ClinicalTrials.gov 临床试验引用；Crossref 媒体与社交媒体提及。 |
+> | **多源跨界应用转化** | 衡量基础科学向上游公共资金与下游产业、医疗及公共舆论的渗透程度。 | 美国国家科学基金会（National Science Foundation, NSF）与美国国立卫生研究院（National Institutes of Health, NIH）资助项目关联；美国专利商标局（United States Patent and Trademark Office, USPTO）与欧洲专利局（European Patent Office, [[Education Policy Outlook\|EPO]]）[[Patent Citation\|专利引用]]；ClinicalTrials.gov 临床试验引用；Crossref 媒体与社交媒体提及，形成多源 [[Altmetrics\|替代计量学]]（Altmetrics）数据网络。 |
 >
 > *注*。引自 Lin et al. (2023)。上述构念与测度指标构成了 SciSciNet 的预计算体系，为量化科学学实证研究提供标准化的基准变量。
 
@@ -138,8 +145,8 @@ journal: Scientific Data
 > | `SciSciNet_Papers` | 134,129,188 | `PaperID, DOI, DocType, Year, Date, JournalID, ConferenceSeriesID, Reference_Count, Citation_Count, C5, C10, Disruption, Atyp_Median_Z, Atyp_10pct_Z, Atyp_Pairs, WSB_mu, WSB_sigma, WSB_Cinf, SB_B, SB_T, Team_Size, Institution_Count, Patent_Count, Newsfeed_Count, Tweet_Count, NCT_Count, NIH_Count, NSF_Count` | 数据湖核心主出版物总表，存储主键、基础元数据与全量预计算指标 |
 > | `SciSciNet_PaperAuthorAffiliations` | 413,869,501 | `PaperID, AuthorID, AffiliationID, AuthorSequenceNumber` | 成果-学者-机构关联表，记录署名顺序 |
 > | `SciSciNet_PaperReferences` | 1,588,739,703 | `Citing_PaperID, Cited_PaperID` | 核心主出版物集内部引文对网络 |
-> | `SciSciNet_Authors_Gender` | 134,197,162 | `AuthorID, Author_Name, H-index, Productivity, Average_C10, Average_LogC10, Inference_Sources, Inference_Counts, P(gf)` | 学者档案总表，整合科研产出、影响力指标与性别推断概率 |
-> | `SciSciNet_Affiliations` | 26,998 | `AffiliationID, Affiliation_Name, GridID, Official_Page, ISO3166Code, Latitude, Longitude, H-index, Productivity, Average_C10, Average_LogC10` | 科研机构表，整合地理坐标、全球研究机构标识符（Global Research Identifier Database, GRID）与机构层级产出与影响力 |
+> | `SciSciNet_Authors_Gender` | 134,197,162 | `AuthorID, Author_Name, H-index, Productivity, Average_C10, Average_LogC10, Inference_Sources, Inference_Counts, P(gf)` | 学者档案总表，整合科研产出、[[h-Index\|h 指数]] 影响力指标与性别推断概率 |
+> | `SciSciNet_Affiliations` | 26,998 | `AffiliationID, Affiliation_Name, GridID, Official_Page, ISO3166Code, Latitude, Longitude, H-index, Productivity, Average_C10, Average_LogC10` | 科研机构表，整合地理坐标、全球研究机构标识符（Global Research Identifier Database, GRID）与机构层级产出与 [[h-Index\|h 指数]] 影响力 |
 > | `SciSciNet_Fields` | 311 | `FieldID, Field_Name, Field_Type` | 学科分类字典，含 19 个一级学科与 292 个二级子领域 |
 > | `SciSciNet_PaperFields` | 277,494,994 | `PaperID, FieldID` | 论著与学科分类多对多映射表 |
 > | `SciSciNet_Journals` | 49,066 | `JournalID, Journal_Name, ISSN, Publisher, Webpage` | 期刊字典表，记录标准刊名、国际标准连续出版物号（International Standard Serial Number, ISSN）与出版商信息 |
@@ -260,16 +267,16 @@ journal: Scientific Data
 > [!sub-claim] 1. 全库测算颠覆性指数确证了小团队更容易开辟新方向
 
 > [!evidence-grid] 团队规模与颠覆性创新实证规律复现
-> - **颠覆性百分位随团队扩张持续下降** 对库内 48,581,274 篇具有完整引证关系的出版物全量解算颠覆性指数（$D = \frac{n_i - n_j}{n_i + n_j + n_k}$）表明，合著团队人数增加与成果颠覆性百分位呈严格负相关，平均被引量则同步攀升。
+> - **颠覆性百分位随团队扩张持续下降** 对库内 48,581,274 篇具有完整引证关系的出版物全量解算颠覆性指数（$D = \frac{n_i - n_j}{n_i + n_j + n_k}$）表明，合著团队人数增加与成果颠覆性百分位呈严格负相关，平均被引量则同步攀升，属于 [[Team Science|团队科学]]（Team Science）经典组织分工法则。
 > - **高颠覆性成果高度富集于微型团队** 跻身全库前 5% 高颠覆性的成果绝大多数由单人或微型团队产出，大团队产出顶尖高引成果的概率随团队扩张显著增加。
-> - **近五千万篇文献确证团队分工规律** 在超大样本上证实了 Wu et al. (2019) 提出的组织分工规律：小团队倾向于开拓新方向，大团队则倾向于跟进与巩固既有范式。
+> - **近五千万篇文献确证团队分工规律** 在超大样本上证实了 [[Lingfei Wu|Wu]] et al. (2019) 提出的组织分工规律：小团队倾向于开拓新方向，大团队则倾向于跟进与巩固既有范式。
 
 > [!sub-claim] 2. 全量测算引文共现指标确证了常规与新颖结合最容易产生高引突破
 
 > [!evidence-grid] 常规性与新颖性双重平衡的高引突破检验
 > - **双高成果顶尖命中率显著超越基线** 针对 44,143,650 篇期刊出版物全量计算期刊共引对 $z$ 分数显示，兼具高常规性与高尾部新颖性的成果，跻身同期同领域前 5% 高被引顶尖成果的概率高达 7.32%（显著超越 5% 随机基线）。
 > - **四象限分布呈现严格非对称梯度** 双低成果的顶尖命中率仅为 3.55%，低常规高新颖成果（6.48%）与高常规低新颖成果（4.18%）均居次席。
-> - **全量复现经典知识组合双重法则** 在大规模全学科样本中再现了 Uzzi et al. (2013) 提出的双重平衡法则：立足成熟常规基底并注入非典型跨界新颖，是催生顶尖学术影响力的关键机制。
+> - **全量复现经典知识组合双重法则** 在大规模全学科样本中再现了 [[Brian Uzzi|Uzzi]] et al. (2013)（合作者含 [[Benjamin F. Jones|Jones]]）提出的双重平衡法则：立足成熟常规基底并注入非典型跨界新颖，是催生顶尖学术影响力的关键机制。
 
 > [!sub-claim] 3. 动力学拟合与休眠指标确证了引文衰老规律与跨学科唤醒机制
 

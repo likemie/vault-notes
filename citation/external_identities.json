@@ -5734,16 +5734,17 @@
       "title": ""
     },
     "Azoulay et al., 2010": {
-      "doi": "",
+      "doi": "https://doi.org/10.1162/qjec.2010.125.2.549",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Invisible College.md",
         "wiki/concepts/science-policy/Peer Effects in Science.md",
         "wiki/concepts/science-policy/Reflection Problem.md",
         "wiki/methods/quantitative/Difference-in-Differences.md"
       ],
-      "title": ""
+      "title": "Superstar Extinction"
     },
     "Azoulay et al., 2011": {
       "doi": "https://doi.org/10.1093/qje/qjr020",
@@ -109018,15 +109019,16 @@
       "title": ""
     },
     "Wang et al., 2013": {
-      "doi": "",
+      "doi": "https://doi.org/10.1126/science.1237825",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Citation Aging.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],
-      "title": ""
+      "title": "Quantifying Long-Term Scientific Impact"
     },
     "Wang et al., 2014": {
       "datasets": [
