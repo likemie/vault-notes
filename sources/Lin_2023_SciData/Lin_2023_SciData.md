@@ -1,6 +1,7 @@
 ---
 citation: "Lin, Z., Yin, Y., Liu, L., & Wang, D. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10, Article 315. https://doi.org/10.1038/s41597-023-02198-9"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Lin_2023_SciData]]"
 processed_date: 2026-11-01
 ---
 
