@@ -315,6 +315,9 @@
   },
   "active": "071a1983dcd366f9",
   "lastOpenFiles": [
+    "sources/Liu_2023_NHB/figures/Liu_2023_NHB_Fig3_Quasi_Experiment_Methods.jpg",
+    "sources/Liu_2023_NHB/figures/Liu_2023_NHB_Fig2_Prediction_with_Machine_Learning.jpg",
+    "sources/Liu_2023_NHB/figures/Liu_2023_NHB_Fig1_Science_of_Science_Data_and_Linkages.jpg",
     "sources/Liu_2023_NHB/figures",
     "sources/Liu_2023_NHB/Liu_2023_NHB.pdf",
     "sources/Liu_2023_NHB/Liu_2023_NHB.md",
@@ -337,7 +340,6 @@
     "raw/s41562-023-01562-4.pdf",
     "wiki/facts/us/SciSciNet.md",
     "wiki/facts/us/National Institutes of Health.md",
-    "output/related-updates/Argument_Lin_2023_SciData-937914f9/batch-008/result.json",
     "output/related-updates/Argument_Lin_2023_SciData-937914f9/batch-006/prompt.md",
     "output/related-updates/Argument_Lin_2023_SciData-937914f9/batch-010/prompt.md",
     "output/related-updates/Argument_Lin_2023_SciData-937914f9/batch-009/prompt.md",
@@ -358,8 +360,6 @@
     "sources/Lin_2023_SciData/Lin_2023_SciData.md",
     "wiki/methods/quantitative/Record Linkage.md",
     "tmp/callout-refinement/ccl-dark-390.png",
-    "tmp/callout-refinement/ccl-dark-768.png",
-    "tmp/callout-refinement/ccl-dark-1440.png",
     "sources/Lin_2023_SciData.md",
     "未命名.canvas"
   ]

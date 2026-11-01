@@ -2684,6 +2684,8 @@
     "Bok (2013)": "Bok, 2013",
     "Bok, 2006": "Bok, 2006",
     "Bok, 2013": "Bok, 2013",
+    "Bol et al. (2018)": "Bol et al., 2018",
+    "Bol et al., 2018": "Bol et al., 2018",
     "Bolat & Tas (2022)": "Bolat & Tas, 2022",
     "Bolat & Tas, 2022": "Bolat & Tas, 2022",
     "Bold et al. (2017)": "Bold et al., 2017",
@@ -16713,6 +16715,8 @@
     "Mosier et al., 1998": "Mosier et al., 1998",
     "Moss (2013)": "Moss, 2013",
     "Moss, 2013": "Moss, 2013",
+    "Moss-Racusin et al. (2012)": "Moss-Racusin et al., 2012",
+    "Moss-Racusin et al., 2012": "Moss-Racusin et al., 2012",
     "Mossberger & Wolman (2003)": "Mossberger & Wolman, 2003",
     "Mossberger & Wolman, 2003": "Mossberger & Wolman, 2003",
     "Mosse (2011)": "Mosse, 2011",
@@ -23961,6 +23965,8 @@
     "Tseng et al., 2024": "Tseng et al., 2024",
     "Tseng, 2012": "Tseng, 2012",
     "Tseng, 2022": "Tseng, 2022",
+    "Tshitoyan et al. (2019)": "Tshitoyan et al., 2019",
+    "Tshitoyan et al., 2019": "Tshitoyan et al., 2019",
     "Tsuei (2020)": "Tsuei, 2020",
     "Tsuei, 2020": "Tsuei, 2020",
     "Tuan (1974)": "Tuan, 1974",
@@ -36776,15 +36782,16 @@
         "Azoulay et al., 2011",
         "Azoulay et al. (2011)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1093/qje/qjr020",
       "identity_keys": [
         "Azoulay et al., 2011"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
       ],
-      "title": ""
+      "title": "Incentives and creativity: evidence from the HHMI investigator program"
     },
     "Azoulay et al., 2014": {
       "aliases": [
@@ -46811,6 +46818,21 @@
       ],
       "title": ""
     },
+    "Bol et al., 2018": {
+      "aliases": [
+        "Bol et al., 2018",
+        "Bol et al. (2018)"
+      ],
+      "doi": "https://doi.org/10.1073/pnas.1719557115",
+      "identity_keys": [
+        "Bol et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+      ],
+      "title": "The Matthew effect in science funding"
+    },
     "Bolat & Tas, 2022": {
       "aliases": [
         "Bolat & Tas, 2022",
@@ -48232,20 +48254,21 @@
         "Boudreau et al., 2017",
         "Boudreau et al. (2017)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1287/mnsc.2015.2285",
       "identity_keys": [
         "Boudreau et al., 2017"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/educational-philosophy/Causality.md",
         "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/External Validity.md",
         "wiki/concepts/research-methodology/Internal Validity.md"
       ],
-      "title": ""
+      "title": "Looking across and looking beyond the knowledge frontier: Intellectual distance, simplicity, and resource allocation in science"
     },
     "Bougma et al., 2013": {
       "aliases": [
@@ -148669,6 +148692,21 @@
       ],
       "title": ""
     },
+    "Moss-Racusin et al., 2012": {
+      "aliases": [
+        "Moss-Racusin et al., 2012",
+        "Moss-Racusin et al. (2012)"
+      ],
+      "doi": "https://doi.org/10.1073/pnas.1211286109",
+      "identity_keys": [
+        "Moss-Racusin et al., 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+      ],
+      "title": "Science faculty’s subtle gender biases favor male students"
+    },
     "Mossberger & Wolman, 2003": {
       "aliases": [
         "Mossberger & Wolman, 2003",
@@ -201339,6 +201377,21 @@
       ],
       "title": ""
     },
+    "Tshitoyan et al., 2019": {
+      "aliases": [
+        "Tshitoyan et al., 2019",
+        "Tshitoyan et al. (2019)"
+      ],
+      "doi": "https://doi.org/10.1038/s41586-019-1335-8",
+      "identity_keys": [
+        "Tshitoyan et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+      ],
+      "title": "Unsupervised word embeddings capture latent knowledge from materials science literature"
+    },
     "Tsuei, 2020": {
       "aliases": [
         "Tsuei, 2020",
@@ -203381,7 +203434,7 @@
         "Uzzi et al., 2013",
         "Uzzi et al. (2013)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1126/science.1240474",
       "identity_keys": [
         "Uzzi et al., 2013"
       ],
@@ -203389,12 +203442,13 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Combinatorial Novelty.md",
         "wiki/concepts/science-policy/Novelty Paradox.md",
         "wiki/concepts/university-industry-collaboration/Team Science.md"
       ],
-      "title": ""
+      "title": "Atypical combinations and scientific impact"
     },
     "V. D., 2004": {
       "aliases": [
@@ -206623,17 +206677,18 @@
         "Waldinger, 2010",
         "Waldinger (2010)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1086/655848",
       "identity_keys": [
         "Waldinger, 2010"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Scientific Productivity.md",
         "wiki/facts/germany/Nazi Purge of University Scholars.md"
       ],
-      "title": ""
+      "title": "Quality matters: The expulsion of professors and the consequences for PhD student outcomes in Nazi Germany"
     },
     "Waldow, 2017": {
       "aliases": [
@@ -207493,7 +207548,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
       ],
       "title": "A study on the impact of intelligent tutor systems on academic achievement: A quantitative meta-analysis perspective."
     },
@@ -213686,19 +213742,20 @@
         "Wu et al., 2019",
         "Wu et al. (2019)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1038/s41586-019-0941-9",
       "identity_keys": [
         "Wu et al., 2019"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Big Science.md",
         "wiki/facts/us/Microsoft Academic Graph.md",
         "wiki/theories/science-policy/Core and Extended Teams Model.md"
       ],
-      "title": ""
+      "title": "Large teams develop and small teams disrupt science and technology"
     },
     "Wu et al., 2021a": {
       "aliases": [
@@ -214863,16 +214920,17 @@
         "Yang et al., 2022a",
         "Yang et al. (2022a)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1073/pnas.2200841119",
       "identity_keys": [
         "Yang et al., 2022"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/theories/comparative-education/Tianxia Heuristic.md"
       ],
-      "title": ""
+      "title": "Gender-diverse teams produce more novel and higher-impact scientific ideas"
     },
     "Yang et al., 2022b": {
       "aliases": [
