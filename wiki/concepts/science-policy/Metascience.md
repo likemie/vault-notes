@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 ---
@@ -161,6 +161,9 @@ updated: 2026-10-30
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang and Barabási (2021)]]
 > **大数据计算与学术机制建模命题** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]确立了定量微观科学学（Science of Science）的实证[[Paradigm|研究范式]]。通过对跨世纪数千万学者与论著大数据的建模分析，证实科学知识爆炸主要源于科研队伍基数的膨胀，而个体生产力服从多重能力乘法放大的对数正态长尾分布；同时实证检验了 $h$ 指数在预测学者未来科研卓越度上的长期效度，并揭示了同行评审中资深学者的声望信号如何诱发选择性正向偏见。计算科学学通过微观机制建模，为理解学术分层与优化科研评价体系提供了坚实的实证基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–14, 21–23, 28–30)]]
 
+> [!claim] Sinatra et al.
+> **反事实生涯置换与双因子能力微观机制建模** 西纳特拉等基于物理学与跨学科 2.8 万余名学者发表大数据，运用生涯序列随机置换构建反事实零模型，确立了学术重大突破在发表序列中均匀随机分布的“随机影响法则”；并通过双因子乘积模型（Q 模型）证实选题潜在价值与学者个人转化能力在统计上严格独立（协方差为零），且学者能力因子终身保持平稳，为元科学理解学术生涯微观动力学与预测顶尖成就提供了严密的数理实证基底。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -177,6 +180,7 @@ updated: 2026-10-30
 > [!dev-timeline] 概念与制度演进
 > - **1960s–1980s — [[Bibliometric Analysis|科学计量学]]与科学学奠基（[[Derek de Solla Price|普赖斯]]学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与[[Invisible College|无形学院]]（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
+> - **2016 年 — 随机影响法则与 Q 模型确立（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）** 西纳特拉等在《科学》（*Science*）发表奠基性成果，提出生涯序列置换反事实检验法与双因子 Q 模型，证实突破成果的早年聚集纯由发文速率驱动，确立了选题运气与个体能力相互独立的微观生涯动力学规律。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万学术出版物与科研人员大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]
 > - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与[[UK Research and Innovation|英国研究与创新署]]（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
@@ -195,6 +199,7 @@ updated: 2026-10-30
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 全球教育证据综合库《可见的学习》（322 个影响因素） | 全量预注册元科学质量审计 | 研究问题标准（PICO）、设计分类与数据提取复现率 | 仅 19% 满足 PICO 标准；301 项因素中仅 2 项（0.66%）完全复现数据提取；44% 效应量在底层原始文献中不存在 | 全量预注册审计数据 | 证实宏观合成证据在缺乏端到端元科学审计时存在严重的系统性提取与汇总失真 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 5,300 万学者与近 9,000 万篇跨学科文献（1900–2015） | 跨世纪大规模[[Bibliometric Analysis\|文献计量分析]] | 科学家总量与人均年发表量 | 人均年发文量在整个 20 世纪稳定在约 2 篇；至 2015 年微增至约 2.5 篇 | 文献时间序列平稳拟合 | 证实科学文献爆炸由队伍基数扩张驱动，学者个体人均产出率保持认知与生理稳态 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 1,500 万发表学者（1996–2011 纵向追踪队列） | 终身连续产出队列追踪 | 持续发表学者比例与高引贡献率 | 不足 1% 学者保持每年至少 1 篇产出；该群体生产全库 41.7% 文献及 87.1% 超千引成果 | 纵向普查数据 | 揭示科研生产力的极度倾斜，少数核心学者承载绝大多数持续知识增量 |
+> | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大学科 24,630 位跨学科学者 | 反事实生涯序列置换实验与双因子乘积参数建模 | 代表作相对位次 $N^*/N$、能力因子 $Q$ 与构想潜力 $p$ | 相对位次服从均匀分布；三元似然估计证实 $\sigma_{p, Q} = 0.00$；Q 参数预测诺贝尔奖得主 ROC 达 0.88 | 经验数据拟合优度显著 | 确立随机影响法则与 Q 模型，揭示选题运气与学者能力的统计独立性，为定量微观科学学奠基 |
 
 ---
 
@@ -217,6 +222,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出生涯序列置换反事实检验法与双因子 Q 模型，证实选题运气与学者转化能力相互独立，为微观科学学奠定生成机制基础。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元开展资助对照实验。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 奠定大数据计算科学学范式，对全球科研人员生产力分布、评价指标[[Predictive Validity|预测效度]]与声望马太效应开展微观机制建模与实证检验。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育学证据综合开展全量预注册元科学质量审计，构建三阶审查规程并实证揭示数据提取复现率仅 0.66%，确立宏观综合质量审计范式。

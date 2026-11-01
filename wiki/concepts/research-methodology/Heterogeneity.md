@@ -116,7 +116,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -262,6 +262,9 @@ updated: 2026-10-31
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Radicchi, F. et al.]]
 > > **相对引文标准化消除跨学科引用异质性** [[Filippo Radicchi|拉迪基]]等人与[[Dashun Wang|王大顺]]、[[Albert-László Barabási|巴拉巴西]]指出，不同学科因引用文化、合作规模与文献老化速度差异，表现出巨大的绝对引文分布异质性；直接跨学科比对绝对引文频次如同将不同量纲事物混为一谈。然而，当将每篇论著的绝对被引数 $c$ 除以其所在学科和发表年份的平均被引数 $\langle c \rangle$（即计算相对引文 $c_f = c / \langle c \rangle$）时，14 个一级学科及数百个二级领域的离散分布曲线完全坍缩于统一的对数正态函数之上，证实学科间的极端变异主要源于尺度差异而非结构性机理差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008; Wang & Barabási, 2021, pp. 177–180)]]
+>
+> > [!claim] Sinatra et al.
+> > **学者个体生涯异质性的能力标度坍缩** 西纳特拉等证实，终身发文量相近的学者之间，其单篇被引分布与代表作峰值存在跨越数个数量级的极端个体异质性。然而，这种表象上的巨大离散并不违背微观普适动力学；当利用每位学者的个体稳态转化参数 $Q_i$ 对其成果的十年被引量执行约化标度还原（$p = c_{10} / Q_i$）后，原本相距悬殊的各学者经验曲线全部精确坍缩重合于统一的通用对数正态构想潜力分布 $P(p)$ 上。这一坍缩证实个体间的极端异质性源于专属于学者的稳态转化乘数 $Q$，而底层课题探索的运气分布在全学科学者间高度普适同质。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
 
 ---
 
@@ -331,10 +334,12 @@ updated: 2026-10-31
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 427–429, 436)]] | 816 项元分析、52,649 项初级研究与 146,626 个效应量 | 巨型综合元研究方法审计 | 二阶元分析多级累加损耗、纳入质控门槛缺位与[[Document\|文献]]时效异质性 | 纳入的一阶元分析大多发表于 1980–1990 年代，存在时效滞后；未设立一阶元分析质控标准，混杂严格实验与松散调查 | — | 证明缺乏质控的多级聚合不仅无法消除异质性，反而会制造均质化确定性的量化假象，抹杀真正的实证变异线索 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 美国[[National Research Council\|国家研究委员会]]（NRC）博士点项目教研人员产出数据 | 跨学科院系生产力比对调查 | 院系五年期人均发表量的跨学科分布 | 历史学 1.2 篇 vs 化学 10.5 篇；生态学 5.1 篇 vs 药学 9.5 篇 | 机构普查数据 | 证实学科文化与知识载体异质性决定了产出基准，不可直接跨学科比对篇数 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008) via Wang and Barabási (2021)]] | 1999 年 Web of Science 涵盖的 14 个主流一级学科与数百个二级领域全量成果 | 跨学科引文分布拟合与变量尺度缩放实验 | 学科篇均被引频次与标准化后曲线重合度 | 发育生物学篇均被引 18 次 vs 航空航天工程篇均 2 次；经 $c_f = c / \langle c \rangle$ 标准化后，全部 14 个学科分布坍缩于均值 $\mu = -0.27$、标准差 $\sigma = 1.32$ 的统一对数正态主曲线 | Kolmogorov-Smirnov 检验拟合优度显著 | 证实跨学科引文的悬殊异质性在相对尺度下呈现出普适的无量纲不变性 |
+> | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大学科 24,630 位跨学科学者 | 双因子乘积模型参数估计与标度塌缩实验 | 学者个体引文分布 $P(c_{10})$、能力参数 $Q_i$ 与约化构想潜力 $p$ | 原始引文分布差异跨越数个数量级；经 $p = c_{10}/Q_i$ 约化后，全部学者经验曲线精确塌缩重叠于统一分布 $P(p)$ | 标度塌缩拟合优度显著 | 证实学者生涯影响力的极端个体异质性源于稳态能力乘数 $Q$，底层选题运气遵从普适同质分布 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出双因子 Q 模型，证实学者个体生涯引文的极端异质性可通过个人能力参数约化标度还原全部坍缩至通用构想潜力分布 $P(p)$。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 揭示学术载体发表模式的结构异质性（Unit 01），并证实学科篇均引文异质性可通过相对尺度归一化完全消除（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 177–180]]）。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory|认知负荷理论]]的实证文献，论证了探究教学中[[Construct|构念]]子维度异质性（[[Experimental Research|实验设计]] vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]）对教学干预效能边界的决定性作用。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（[[Fixed-Effect Model|固定效应]]同质性假定破产 vs 二级[[Random-Effects Model|随机效应]]微小[[Sample Size Determination|样本量]]下 $\tau^2$ 估计瘫痪），揭示教学法排名的范畴错误与干预时长剂量异质性扭曲。

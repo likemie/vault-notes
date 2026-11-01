@@ -19888,8 +19888,6 @@
     "Robert Weber, 1990": "Robert Weber, 1990",
     "Robert Wuthnow (1989)": "Robert Wuthnow, 1989",
     "Robert Wuthnow, 1989": "Robert Wuthnow, 1989",
-    "Roberta Sinatra et al. (2016)": "Roberta Sinatra et al., 2016",
-    "Roberta Sinatra et al., 2016": "Roberta Sinatra et al., 2016",
     "Roberts & Kaiser (2011)": "Roberts & Kaiser, 2011",
     "Roberts & Kaiser, 2011": "Roberts & Kaiser, 2011",
     "Roberts & Strudler (2013)": "Roberts & Strudler, 2013",
@@ -129035,7 +129033,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/competency-and-assessment/Creativity.md"
       ],
       "title": ""
     },
@@ -171942,21 +171941,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Discursive Field.md"
-      ],
-      "title": ""
-    },
-    "Roberta Sinatra et al., 2016": {
-      "aliases": [
-        "Roberta Sinatra et al., 2016",
-        "Roberta Sinatra et al. (2016)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Roberta Sinatra et al., 2016"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/science-policy/Q-Model.md"
       ],
       "title": ""
     },

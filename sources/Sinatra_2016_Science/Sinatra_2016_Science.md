@@ -1,6 +1,7 @@
 ---
 citation: "Sinatra, R., Wang, D., Deville, P., Song, C., & Barabási, A.-L. (2016). Quantifying the evolution of individual scientific impact. Science, 354(6312), aaf5239. https://doi.org/10.1126/science.aaf5239"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Sinatra_2016_Science]]"
 processed_date: 2026-11-01
 ---
 

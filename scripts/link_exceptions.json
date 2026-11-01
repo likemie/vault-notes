@@ -396,5 +396,11 @@
       "sentence": "设计针对机构、团队与个人的动态评估与风险对冲机制",
       "target": "wiki/concepts/competency-and-assessment/Dynamic Assessment.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md": [
+    {
+      "sentence": "科学家的学术生产力与研究影响力在整个职业生涯中遵循何种演变规律？",
+      "target": "wiki/concepts/university-industry-collaboration/Research Impact.md"
+    }
   ]
 }
