@@ -165,6 +165,9 @@ updated: 2026-11-02
 > [!claim] Sinatra et al.
 > **反事实生涯置换与双因子能力微观机制建模** 西纳特拉等基于物理学与跨学科 2.8 万余名学者发表大数据，运用生涯序列随机置换构建反事实零模型，确立了学术重大突破在发表序列中均匀随机分布的“随机影响法则”；并通过双因子乘积模型（Q 模型）证实选题潜在价值与学者个人转化能力在统计上严格独立（协方差为零），且学者能力因子终身保持平稳，为元科学理解学术生涯微观动力学与预测顶尖成就提供了严密的数理实证基底。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
 
+> [!claim] [[Argument_Liu_2023_NHB|Liu et al. (2023)]]
+> **科学学全景数据与实证方法谱系命题** 刘路（Lu Liu）等系统构建了科学学的方法学全景体系：数据层由单一出版物引文向向上链接公共研发资助、向下贯通专利与临床转化的大数据基础设施拓展；测度层强调区分引文语境、防范古德哈特定律引发的构念效度异化；实证方法层则将经验规律、微观机制模型与机器学习预测（如词向量预测物性发现），同倾向得分匹配、面板固定效应与准实验（DID、IV、RDD）因果推断框架深度打通，确立了兼顾关联预测与因果政策评估的方法论基石。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1046–1055)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -174,7 +177,7 @@ updated: 2026-11-02
 > | **评审机制与风险偏好** | 低资助率下同行评议演变为责任盾牌，倾向避险并惩罚颠覆性新颖性 | 基金立项评审、非共识项目筛选机制设计 | [[Michael Kratsios\|Kratsios (2026)]] |
 > | **机制设计与多元资助工具** | 多元工具组合（金券、长周期资助、快速通道、拉动机制）拓宽探索边界 | 科技创新政策工具箱匹配与前沿攻关 | [[Michael Kratsios\|Kratsios (2026)]] |
 > | **二阶合成证据审计** | 宏观证据综合需接受端到端预注册审计，防范底层提取断裂与[[Commensuration\|通约]]失真 | [[Evidence-Based Policy-Making\|循证政策制定]]、宏观元分析与证据清库 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
-> | **计算与网络机制建模** | 运用大数据与微观动力学模型揭示学者产出、评价效度与声誉马太效应 | 科学学实证建模、学术评价指标设计与分层治理 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] |
+> | **计算与网络机制建模** | 运用大数据与微观动力学模型揭示学者产出、评价效度与声誉马太效应 | 科学学实证建模、学术评价指标设计与分层治理 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]]; [[Argument_Liu_2023_NHB\|Liu et al. (2023)]] |
 
 ---
 
@@ -185,6 +188,7 @@ updated: 2026-11-02
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万学术出版物与科研人员大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]
 > - **2023 年 — 大规模开放科学学数据基础设施构建（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽（Zheng Lin）、尹亚楠（Yanan Yin）、[[Lu Liu|刘鲁]]（Lu Liu）与[[Dashun Wang|王大顺]]（Dashun Wang）开源构建覆盖 1.34 亿篇跨学科文献的科学学数据湖 SciSciNet，完成成果家族消歧归并，建立联邦资助与专利、临床试验的多源记录链接，并高通量预计算颠覆性指数与非典型引文组合，为元科学实证研究提供了降低准入门槛并提升可复现性的公共数据基础设施。
+> - **2023 年 — 科学学实证方法与全景数据体系确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** [[Lu Liu|刘路]]（Lu Liu）、[[Benjamin F. Jones|本杰明·琼斯]]（Benjamin F. Jones）、[[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）与[[Dashun Wang|王大顺]]（Dashun Wang）在《自然·人类行为》（*Nature Human Behaviour*）发表长篇综述，系统确立涵盖多源数据湖、微观测度构念效度、生成机制模型、机器学习表征与计量因果推断（DID、IV、RDD 与 RCT）的科学学全景实证方法论体系。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1046–1058)]]
 > - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与[[UK Research and Innovation|英国研究与创新署]]（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 > - **2025 年 — 教育学首个[[Preregistration|预注册]]全库元科学质量审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）** 瑞典卡尔门达尔（Kalmendal）等学者对全球最庞大的教育[[Research Synthesis|证据综合]]库《[[Visible Learning|可见的学习]]》（1.2 版）实施全量预注册元科学质量审计，构建了涵盖[[Research Question|研究问题]]纳入、设计分类与数据提取复现的三阶审计规程。实证揭示该体系仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学从“资助[[Mechanism Experiments|机制实验]]”拓展至“海量合成证据的全生命周期质量审查”树立了标杆范式。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[Department of Defense|DoD]]）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
@@ -230,4 +234,5 @@ updated: 2026-11-02
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出生涯序列置换反事实检验法与双因子 Q 模型，证实选题运气与学者转化能力相互独立，为微观科学学奠定生成机制基础。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元开展资助对照实验。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 奠定大数据计算科学学范式，对全球科研人员生产力分布、评价指标[[Predictive Validity|预测效度]]与声望马太效应开展微观机制建模与实证检验。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 系统构建科学学方法学全景框架，整合多源数据基础设施、测度构念效度、生成机制模型、机器学习预测与准实验因果推断。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育学证据综合开展全量预注册元科学质量审计，构建三阶审查规程并实证揭示数据提取复现率仅 0.66%，确立宏观综合质量审计范式。

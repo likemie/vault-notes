@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -65,12 +65,14 @@ updated: 2026-10-31
 > - **2018–2021** 在西北大学凯洛格管理学院复杂系统研究所（NICO）从事博士后研究。
 > - **2021** 在《自然·通讯》发表长篇成果，利用自然语言处理 LDA 主题模型实证证实“先跨界探索后深耕利用”是点燃学术爆发期的关键机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 77–78)]]
 > - **2021–至今** 担任美国宾夕法尼亚州立大学信息科学与技术学院助理教授，主持国家级科学学与复杂系统计算研究课题。
+> - **2023** 作为第一撰稿人与本杰明·琼斯、布赖恩·乌齐及王大顺在《自然·人类行为》（*Nature Human Behaviour*）发表《科学学中的数据、测量与实证方法》，系统构建科学学实证方法学全景体系。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 ---
 
 > [!work-line] 主要著作
 > - **2018 — *Hot Streaks in Artistic, Cultural, and Scientific Careers*（《自然》）** 分析跨越三大领域的数万名从业者长周期记录，首次证实爆发期现象具有跨学科普遍性，且绝大多数个体终身仅经历一次。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–75)]]
 > - **2021 — *Understanding the Onset of Hot Streaks in Artistic, Cultural, and Scientific Careers*（《自然·通讯》）** [[Decodification|解码]]爆发期的启动机制，揭示研究策略从多样性涉猎转向聚焦深耕的因果中介效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 77–78)]]
+> - **2023 — *Data, measurement and empirical methods in the science of science*（《自然·人类行为》）** 领衔系统评析科学学的大数据基础设施、测度构念效度、生成机制模型、机器学习预测与准实验因果识别方法。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 ---
 
@@ -86,6 +88,7 @@ updated: 2026-10-31
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 在第 7 章以刘路的奠基研究为核心证据，系统展开关于学术爆发期特征、微观机制与基金资助反思的完整论述。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 领衔构建科学学多源数据、测量构念与实证方法全景体系，系统整合机制建模、机器学习预测与准实验因果评估。
 
 ---
 

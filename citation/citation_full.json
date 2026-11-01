@@ -5951,6 +5951,26 @@
       "title": "Argument_Lin_2023_SciData",
       "year": "2023"
     },
+    "Liu et al. (2023)": {
+      "aliases": [
+        "Liu et al., 2023",
+        "Liu et al. (2023)"
+      ],
+      "argument": "Argument_Liu_2023_NHB",
+      "authors": [
+        "Liu, L.",
+        "Jones, B. F.",
+        "Uzzi, B.",
+        "Wang, D."
+      ],
+      "citation": "Liu, L., Jones, B. F., Uzzi, B., & Wang, D. (2023). Data, measurement and empirical methods in the science of science. Nature Human Behaviour, 7(7), 1046–1058. https://doi.org/10.1038/s41562-023-01562-4",
+      "doi": "https://doi.org/10.1038/s41562-023-01562-4",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+      "source_language": "en",
+      "title": "Argument_Liu_2023_NHB",
+      "year": "2023"
+    },
     "Liu et al. (2025)": {
       "aliases": [
         "Liu et al., 2025",
@@ -5990,6 +6010,26 @@
       "source_language": "en",
       "title": "Argument_Liu_2026_CHBR",
       "year": "2026"
+    },
+    "Liu et al., 2023": {
+      "aliases": [
+        "Liu et al., 2023",
+        "Liu et al. (2023)"
+      ],
+      "argument": "Argument_Liu_2023_NHB",
+      "authors": [
+        "Liu, L.",
+        "Jones, B. F.",
+        "Uzzi, B.",
+        "Wang, D."
+      ],
+      "citation": "Liu, L., Jones, B. F., Uzzi, B., & Wang, D. (2023). Data, measurement and empirical methods in the science of science. Nature Human Behaviour, 7(7), 1046–1058. https://doi.org/10.1038/s41562-023-01562-4",
+      "doi": "https://doi.org/10.1038/s41562-023-01562-4",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+      "source_language": "en",
+      "title": "Argument_Liu_2023_NHB",
+      "year": "2023"
     },
     "Liu et al., 2025": {
       "aliases": [

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -194,3 +194,4 @@ updated: 2026-10-31
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释断点回归作为高级[[Quasi-Experimental Designs\|准实验设计]]在教育政策门槛评估中的实证应用规程(Ch. 8, p. 1327)。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 记录美国有效干预清算中心（WWC）在 2002–2003 年 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程征求意见中，吸纳学者评议意见并将断点回归（RDD）正式设立专门评估章节的制度史料（pp. 35–36）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 评述利用美国国立卫生研究院（NIH）R01 课题资助分数截断阈值构建准实验断点设计，比较“险胜”与“惜败”青年学者的长期职业轨迹，实证揭示早期挫折对后续高影响成果的因果强化效应与局部平均处理效应局限（pp. 243–245, 250–251）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将断点回归设计确立为科学学因果推断的核心准实验进路，评析利用科研基金评审资助线门槛识别资金资助局部平均处理效应的实证规程。
