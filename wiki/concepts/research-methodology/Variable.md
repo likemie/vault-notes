@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-11-01
 > - **用途** 在比较研究中以“变量名称”替代“国别专名”，抽离具体时空个殊性以追求跨越国家边界的通则性假说检验（[[Nomothetic]] [[Hypothesis]]-Testing）。
 > - **边界** 透视过度依赖变量分解所诱发的方法论主义（[[Empiricism|Methodologism]]）风险，审视其对历史文化整体性与制度情境脉络的遮蔽。
 
-> [!citation-card|notitle] 诺亚论以变量名称替代体系名称的科学范式转型
+> [!citation-card|notitle] 关键表述
 > [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在开创比较教育第三论述代际（科学经验主义[[Paradigm|范式]]）时指出，科学比较教育的核心挑战在于“从个殊走向一般，从识别-描述-分类走向假设检验、理论建构与预测”，而实现这一转型的根本方法在于 **“以‘概念（变量）名称’替代‘体系名称’或可观察事实”**。在跨国[[Multiple Regression|多元回归]]与计量模型中，研究者将原本作为不可分割个案的“英格兰”、“加纳”或“美国”，拆解为家庭收入、城市化水平、学校资源等独立变量，以检验[[Independent Variable|自变量]]对[[Academic Achievement|学业成就]]与升学概率等[[Dependent Variable|因变量]]的普适影响。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]；引自 Noah (1973)
 >
 > *Noah formulated the task of scientific comparative education: 'to move from the particular to the general, from identification-description-classification to hypothesis-testing, theory building and prediction' by 'replacing names of systems or observable facts by names of concepts (variables)'.*
@@ -204,7 +204,7 @@ updated: 2026-11-01
 
 ---
 
-> [!contrast-table|notitle] 所有命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **构念操作化命题** | 变量是连接抽象理论构念与实证测量的操作化中介 | [[Quantitative Research\|量化研究]]设计、[[Questionnaire\|问卷]]编制与实验干预 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
@@ -226,7 +226,7 @@ updated: 2026-11-01
 
 ---
 
-> [!debates|notitle] 学术争议
+> [!debates] 学术争议
 >
 > > [!axis] 变量还原主义（Reductionism） vs 历史文化整体性（Holism）
 > > 争论能否将一个国家复杂的教育与文化系统还原为若干分离的变量指标。
@@ -253,13 +253,13 @@ updated: 2026-11-01
 
 > [!empirical-divider]
 
-> [!ref-table]- 变量相关实证研究汇总
+> [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 样本与情境 | 考察变量与指标 | 原始统计与计量结果 | 解释边界 |
-> |---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 169–174)]] | 跨越物理、化学、生物与社会科学等数十个学科门类、历经数十年的 Web of Science 全量文献 | 原始被引变量 $c$ 与相对无量纲化变量 $c_f = c / c_0$ | 经基线归一化变量变换后，各学科异质引文分布完全塌缩至参数恒定的对数正态分布曲线（$\mu \approx -0.27, \sigma \approx 1.25$） | 证实相对标准化变量能够消解学科间绝对尺度的异质性，揭示科学系统的尺度不变普适规律 |
-> | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 十年引文变量 $c_{10}$、学者能力变量 $Q_i$ 与无量纲约化标度变量 $p = c_{10} / Q_i$ | 经 $Q_i$ 约化变换后，原本相差数个数量级的个体引文分布全部塌缩至参数恒定的对数正态分布（$\mu_p \approx -0.41, \sigma_p \approx 1.25$） | 证实微观无量纲约化变量能消除个体间能力异质性，揭示课题构想潜在价值的普适分布 |
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 169–174)]] | 跨越物理、化学、生物与社会科学等数十个学科门类、历经数十年的 Web of Science 全量文献 | 百年长跨度文献计量追踪与基准无量纲化变换 | 原始被引变量 $c$ 与相对无量纲化变量 $c_f = c / c_0$ | 经基线归一化变量变换后，各学科异质引文分布完全塌缩至参数恒定的对数正态分布曲线（$\mu \approx -0.27, \sigma \approx 1.25$） | 经验数据拟合优度极高 | 证实相对标准化变量能够消解学科间绝对尺度的异质性，揭示科学系统的尺度不变普适规律 |
+> | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 反事实生涯序列置换与双因子参数建模 | 十年引文变量 $c_{10}$、学者能力变量 $Q_i$ 与无量纲约化标度变量 $p = c_{10} / Q_i$ | 经 $Q_i$ 约化变换后，原本相差数个数量级的个体引文分布全部塌缩至参数恒定的对数正态分布（$\mu_p \approx -0.41, \sigma_p \approx 1.25$） | 三元似然估计证实 $\sigma_{p, Q} = 0.00$ | 证实微观无量纲约化变量能消除个体间能力异质性，揭示课题构想潜在价值的普适分布 |
 
 ---
 

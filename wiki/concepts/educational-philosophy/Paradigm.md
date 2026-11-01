@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 83
+related_count: 84
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -106,10 +106,11 @@ related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -239,6 +240,7 @@ updated: 2026-10-31
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
 > - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
 > - **2021 — 科学学引文网络与范式成果注意力极化** 王大顺与巴拉巴西基于跨越百年的物理学[[Document|文献]]追踪，量化证实了开辟新范式的顶尖 1% 成果在次年所占引文份额从 20% 稳步攀升至 35%，为库恩科学革命论提供了长周期经验文献计量证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+> - **2023 — 科学学数据湖对范式颠覆与组合新颖性的实证度量（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建覆盖 1.34 亿篇跨学科文献的 SciSciNet 数据湖，大规模预计算 2,800 万篇颠覆性指数与 4,500 万篇组合新颖性测度，实证再现了小团队开辟新范式探索（颠覆性显著更高）与高引突破兼顾常规性基底与尾部新颖性的普遍规律，为宏观范式演进与知识拓扑重构提供了计算实证基底。
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — [[Output-Oriented Governance|循证治理]]与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在[[Literature Review|文献综述]]中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
 
@@ -276,10 +278,12 @@ updated: 2026-10-31
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | 《物理评论》1893 至 2009 年刊载之 463,348 篇全量出版物及引文链条 | 百年长跨度期刊文献计量追踪与洛伦兹曲线分析 | 前 1% 顶层范式论著次年被引份额随历史演变序列 | 顶层 1% 成果次年被引份额由 1900 年代的约 20% 稳步攀升至 2000 年代的 35% | 跨越百年全量期刊数据拟合 | 证实开辟新范式的顶尖突破在宏观引文网络中具有持续增强的注意力极化效应 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 高通量拓扑网络计算与科学学经典实证规律复现 | 范式开辟度量（颠覆性指数 $CD_5$）、非典型引文组合与团队规模关联 | 预计算 2,834.9 万篇 $CD_5$ 颠覆性指数与 4,571.5 万篇非典型组合度量；在大规模跨学科样本中复现小团队开辟新范式（颠覆性显著更高）与高引突破平衡常规性基底与尾部新颖性的普遍规律 | 跨 Web of Science、MAG 与官方资助库交叉验证 | 证实预计算指标能有效刻画宏观范式演进与知识拓扑重构，但对早期长尾文献存在测度覆盖边界 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，预计算 2800 万篇颠覆性指数与 4500 万篇组合新颖性测度，在大规模跨学科样本中复现小团队开辟新范式突破等经典规律，为范式演变研究提供计算实证基底。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 依托《物理评论》百年文献库，量化证实开辟新范式的顶层 1% 论著所占次年引文份额从 20% 攀升至 35%，揭示科学革命奠基之作的注意力极化效应（pp. 180–181）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。

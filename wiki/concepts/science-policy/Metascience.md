@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-07
@@ -183,6 +184,7 @@ updated: 2026-11-02
 > - **2016 年 — 随机影响法则与 Q 模型确立（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）** 西纳特拉等在《科学》（*Science*）发表奠基性成果，提出生涯序列置换反事实检验法与双因子 Q 模型，证实突破成果的早年聚集纯由发文速率驱动，确立了选题运气与个体能力相互独立的微观生涯动力学规律。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万学术出版物与科研人员大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]
+> - **2023 年 — 大规模开放科学学数据基础设施构建（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽（Zheng Lin）、尹亚楠（Yanan Yin）、[[Lu Liu|刘鲁]]（Lu Liu）与[[Dashun Wang|王大顺]]（Dashun Wang）开源构建覆盖 1.34 亿篇跨学科文献的科学学数据湖 SciSciNet，完成成果家族消歧归并，建立联邦资助与专利、临床试验的多源记录链接，并高通量预计算颠覆性指数与非典型引文组合，为元科学实证研究提供了降低准入门槛并提升可复现性的公共数据基础设施。
 > - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与[[UK Research and Innovation|英国研究与创新署]]（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 > - **2025 年 — 教育学首个[[Preregistration|预注册]]全库元科学质量审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）** 瑞典卡尔门达尔（Kalmendal）等学者对全球最庞大的教育[[Research Synthesis|证据综合]]库《[[Visible Learning|可见的学习]]》（1.2 版）实施全量预注册元科学质量审计，构建了涵盖[[Research Question|研究问题]]纳入、设计分类与数据提取复现的三阶审计规程。实证揭示该体系仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学从“资助[[Mechanism Experiments|机制实验]]”拓展至“海量合成证据的全生命周期质量审查”树立了标杆范式。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[Department of Defense|DoD]]）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
@@ -197,6 +199,7 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 全球教育证据综合库《可见的学习》（322 个影响因素） | 全量预注册元科学质量审计 | 研究问题标准（PICO）、设计分类与数据提取复现率 | 仅 19% 满足 PICO 标准；301 项因素中仅 2 项（0.66%）完全复现数据提取；44% 效应量在底层原始文献中不存在 | 全量预注册审计数据 | 证实宏观合成证据在缺乏端到端元科学审计时存在严重的系统性提取与汇总失真 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 记录链接管道与高通量科学学指标计算 | 数据湖规模、实体链接覆盖率与前沿指标产出 | 覆盖 134,228,883 篇核心出版物与 14 亿条引文；链接 454 万项基金资助与 2200 万篇专利引文；预计算 2800 万篇 $CD_5$ 颠覆性指数与 4500 万篇非典型引文度量 | 跨 Web of Science、MAG 与官方资助库交叉验证；一致性相关系数 CCC > 0.99 | 证实大规模多源链接与前沿指标预计算可显著降低科学学实证准入门槛，但对长尾非英语文献与无标识符小额资助捕获率受原始数据源限制 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 5,300 万学者与近 9,000 万篇跨学科文献（1900–2015） | 跨世纪大规模[[Bibliometric Analysis\|文献计量分析]] | 科学家总量与人均年发表量 | 人均年发文量在整个 20 世纪稳定在约 2 篇；至 2015 年微增至约 2.5 篇 | 文献时间序列平稳拟合 | 证实科学文献爆炸由队伍基数扩张驱动，学者个体人均产出率保持认知与生理稳态 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 1,500 万发表学者（1996–2011 纵向追踪队列） | 终身连续产出队列追踪 | 持续发表学者比例与高引贡献率 | 不足 1% 学者保持每年至少 1 篇产出；该群体生产全库 41.7% 文献及 87.1% 超千引成果 | 纵向普查数据 | 揭示科研生产力的极度倾斜，少数核心学者承载绝大多数持续知识增量 |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大学科 24,630 位跨学科学者 | 反事实生涯序列置换实验与双因子乘积参数建模 | 代表作相对位次 $N^*/N$、能力因子 $Q$ 与构想潜力 $p$ | 相对位次服从均匀分布；三元似然估计证实 $\sigma_{p, Q} = 0.00$；Q 参数预测诺贝尔奖得主 ROC 达 0.88 | 经验数据拟合优度显著 | 确立随机影响法则与 Q 模型，揭示选题运气与学者能力的统计独立性，为定量微观科学学奠基 |
@@ -218,7 +221,7 @@ updated: 2026-11-02
 > | [[Michael Kratsios]] | Person | 在总统科学报告中系统阐述元科学单元的组织架构、实验权限与预算指导原则。 |
 > | [[Visible Learning]] | Concept | 现代元科学实施全库证据质量审计、揭示合成证据可复现性崩溃的代表性审查对象。 |
 > | [[Preregistration]] | Concept | 元科学质量审计研究所严格遵循的事前假设与分析协议锁定规程。 |
-| [[SciSciNet]] | Fact (Program) | 科学学开源开放数据基础设施，为元科学与科学政策研究提供清洗后的多源实证基石。 |
+> | [[SciSciNet]] | Fact (Program) | 科学学开源开放数据基础设施，为元科学与科学政策研究提供清洗后的多源实证基石。 |
 
 ---
 
