@@ -32444,6 +32444,18 @@
     ]
   },
   {
+    "title": "John P. Perdew",
+    "type": "person",
+    "path": "wiki/persons/us/John P. Perdew.md",
+    "aliases": [
+      "约翰·佩尔杜",
+      "约翰·P·佩尔杜",
+      "佩尔杜",
+      "John Perdew",
+      "Perdew, J. P."
+    ]
+  },
+  {
     "title": "John Rawls",
     "type": "person",
     "path": "wiki/persons/us/John Rawls.md",
@@ -38486,6 +38498,21 @@
       "UNESCO-OECD-Eurostat",
       "UOE 联合数据收集机制",
       "UNESCO-OECD-Eurostat joint data collection"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Web of Science",
+    "type": "fact",
+    "path": "wiki/facts/global/Web of Science.md",
+    "aliases": [
+      "WoS",
+      "科学网",
+      "科学引文索引数据库",
+      "Web of Science Core Collection",
+      "WOS核心合集",
+      "科学引文索引",
+      "SCI"
     ],
     "subtype": "program"
   },

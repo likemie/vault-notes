@@ -18467,6 +18467,8 @@
     "Perani & Cirillo, 2015": "Perani & Cirillo, 2015",
     "Percy Bridgman (1927)": "Percy Bridgman, 1927",
     "Percy Bridgman, 1927": "Percy Bridgman, 1927",
+    "Perdew-Burke-Ernzerhof (1996)": "Perdew-Burke-Ernzerhof, 1996",
+    "Perdew-Burke-Ernzerhof, 1996": "Perdew-Burke-Ernzerhof, 1996",
     "Perdue (2015)": "Perdue, 2015",
     "Perdue, 2015": "Perdue, 2015",
     "Pereira (2014)": "Pereira, 2014",
@@ -88932,6 +88934,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/facts/global/Web of Science.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -149158,7 +149161,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Knowledge Hotspots.md"
+        "wiki/concepts/science-policy/Knowledge Hotspots.md",
+        "wiki/facts/global/Web of Science.md"
       ],
       "title": ""
     },
@@ -161541,6 +161545,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Operationalization.md"
+      ],
+      "title": ""
+    },
+    "Perdew-Burke-Ernzerhof, 1996": {
+      "aliases": [
+        "Perdew-Burke-Ernzerhof, 1996",
+        "Perdew-Burke-Ernzerhof (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Perdew-Burke-Ernzerhof, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/John P. Perdew.md"
       ],
       "title": ""
     },
@@ -185657,7 +185676,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/persons/us/John P. Perdew.md"
       ],
       "title": ""
     },

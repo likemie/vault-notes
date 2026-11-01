@@ -37173,6 +37173,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/facts/global/Web of Science.md",
         "wiki/persons/us/Eugene Garfield.md"
       ],
       "title": ""
@@ -73793,7 +73794,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Knowledge Hotspots.md"
+        "wiki/concepts/science-policy/Knowledge Hotspots.md",
+        "wiki/facts/global/Web of Science.md"
       ],
       "title": ""
     },
@@ -81223,6 +81225,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Operationalization.md"
+      ],
+      "title": ""
+    },
+    "Perdew-Burke-Ernzerhof, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/John P. Perdew.md"
       ],
       "title": ""
     },
@@ -95729,7 +95739,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/persons/us/John P. Perdew.md"
       ],
       "title": ""
     },
