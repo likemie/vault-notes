@@ -10,7 +10,7 @@ aliases:
 summary: "由 Dashun Wang、Chaoming Song 与 Albert-László Barabási (2013) 提出的单篇文献引文动力学最小模型；系统整合文献指数增长、优先连接、内生适应度与对数正态衰老，推导出累积被引轨迹的封闭解析解与跨学科普适主曲线，证明成果长程终极影响仅由相对适应度支配（Wang & Barabási, 2021）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -93,6 +94,7 @@ updated: 2026-11-02
 > - **2013 — 基础 WSB 最小引文动力学模型确立** 王大顺、宋朝鸣与巴拉巴西在 Science 发文，形式化整合四大机制并推导出三参数单篇引文轨迹解析解，确立跨学科普适主曲线坍缩。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]
 > - **2013 — 睡美人与双峰激活轨迹拓展** 将对数正态存活概率拓展为双峰混合分布，成功拟合加菲尔德引文索引论著与 BCS 超导理论等非典型延迟认可与二次爆发文献。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 > - **2021 — 科学学实证综合与终极影响定理确立** 王大顺与巴拉巴西在《科学学》中系统集成 WSB 模型，追踪 Cell、PNAS 与 PRB 跨越二十年的实证演化，确立成果长程价值严格由适应度决定、期刊品牌溢价必然衰减的物理极限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 214–217)]]
+> - **2023 — 大规模工程化解算与长程预测稳健性复现** 林泽、尹亚楠、刘鲁与王大顺在构建 SciSciNet 时，研发分布式非线性拟合算法，对 36,802 篇物理学长周期成果实施 WSB 模型参数全量解算；实证验证了经验引文轨迹向标准正态累积分布主曲线的普适坍缩，证实基于 15 年历史引文训练期对终身引文的长程预测误差（MAPE）严格保持在 0.15 以下。[[Argument_Lin_2023_SciData|(Lin et al., 2023, Figure 5)]]
 
 ---
 
@@ -167,5 +169,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对物理学等长周期期刊论著进行 WSB 参数拟合，证实经验引文主曲线重标度坍缩且 15 年训练期后长程预测误差稳定保持在 0.15 以下。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 中规模化预解算数千万篇成果的 WSB 模型参数（$\mu, \sigma, c_\infty$），基于 3.68 万篇物理学论著稳健复现了引文动力学主曲线坍缩与长程低误差预测（MAPE < 0.15）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 系统推导 WSB 最小引文模型解析方程，确立跨学科普适曲线坍缩，并实证揭示终极影响由相对适应度决定的物理极限。

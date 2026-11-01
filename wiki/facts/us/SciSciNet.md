@@ -16,8 +16,9 @@ fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2023–至今"
 initiator_organization: "Center for Science of Science and Innovation (CSSI), Northwestern University"
-official_website: "https://figshare.com/articles/dataset/SciSciNet/22198909"
-website: "https://figshare.com/articles/dataset/SciSciNet/22198909"
+official_website: "https://figshare.com/collections/SciSciNet_A_large-scale_open_data_lake_for_the_science_of_science_research/6076908"
+website: "https://doi.org/10.6084/m9.figshare.c.6076908.v1"
+repository: "https://github.com/kellogg-cssi/SciSciNet"
 tags:
   - fact/program
   - field/science-of-science
@@ -28,7 +29,7 @@ tags:
 related_concepts:
   - "[[Metascience]]"
   - "[[Data Infrastructure]]"
-  - "[[Champ]]"
+  - "[[Literature Search]]"
   - "[[Patent Citation]]"
   - "[[Clinical Trial]]"
   - "[[Document]]"
@@ -58,7 +59,7 @@ updated: 2026-11-02
 > 由美国西北大学科学学与创新科学中心（Center for [[Metascience|Science of Science]] and Innovation, CSSI）团队发起并公开维护的大规模开放科学学数据湖，旨在消除学术数据孤岛并降低算力门槛，为全球科研人员提供覆盖 1.34 亿篇论著、贯通资金与转化应用的统一实证[[Data Infrastructure|数据基础设施]]。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2023 年于《科学数据》（*Scientific Data*）正式发布，常态化在 Figshare 平台开源托管与增量维护。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **立项时间 / 周期** 2023 年于《科学数据》（*Scientific Data*）正式发布，常态化在 Figshare 平台（数据集合网址：https://doi.org/10.6084/m9.figshare.c.6076908.v1 ；数据集网址：https://figshare.com/articles/dataset/SciSciNet/22198909 ）与 GitHub 开源代码仓库（https://github.com/kellogg-cssi/SciSciNet ）开源托管与增量维护。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **发起方与资助机制** 由[[Dashun Wang|王大顺]]（Dashun Wang）教授领衔的西北大学 CSSI 团队主导研发，依托[[National Science Foundation|美国国家科学基金会]]与阿尔弗雷德·P·斯隆基金会等项目资助。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **覆盖范围与对象** 整合 134,129,188 篇学术成果、4.14 亿条学者-机构关系、15.89 亿条引文对，全面映射 19 个一级学科与 292 个子学科。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **核心问题导向** 攻克科学学实证研究中跨库匹配困难、数据清洗重复劳动繁重、高算力指标复现门槛高三大难题。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
@@ -83,7 +84,7 @@ updated: 2026-11-02
 > [!citation-card] 降低准入门槛与提升实证可复现性
 > 科学学开放数据湖为学术共同体提供大规模实证基石，增强新发现的证据质量并提升研究结论的可复现性与稳健性；通过汇聚多源数据源与测度结果，大幅削减预处理重复投入，降低准入门槛并激发新理论的多元性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
-> *Overall, this data lake serves as an initial but useful resource for the [[Champ|field]], by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
+> *Overall, this data lake serves as an initial but useful resource for the field, by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
 
 ---
 
@@ -96,7 +97,7 @@ updated: 2026-11-02
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与研发团队** 西北大学科学学与创新科学中心，负责整体架构设计、算法实现、数据清洗与指标预计算。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **开源托管平台** Figshare 数据托管仓库与 GitHub 开源代码仓库，提供稳定的元数据下载与版本归档支持。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **开源托管平台** Figshare 数据托管仓库（集合主页：https://doi.org/10.6084/m9.figshare.c.6076908.v1 ）与 GitHub 开源代码仓库（https://github.com/kellogg-cssi/SciSciNet ），提供稳定的元数据下载与版本归档支持。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **上游基础设施提供方** 微软学术图谱（Microsoft Academic Graph, MAG）、Crossref、PubMed、NSF、NIH、美国专利商标局（United States Patent and Trademark Office, USPTO）等公共机构提供基础开放数据流。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **终端口碑与研究群体** 全球科学学、[[Bibliometric Analysis|文献计量学]]、科技政策与创新社会学研究者与高等教育量化评价团队。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 

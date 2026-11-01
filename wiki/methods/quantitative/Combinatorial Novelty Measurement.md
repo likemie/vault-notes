@@ -10,7 +10,7 @@ summary: "由 Brian Uzzi et al. (2013) 开创的文献计量学量化测度方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_facts:
   - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -85,6 +86,7 @@ updated: 2026-11-02
 > - **2001 — 技术专利发明组合测度初探** 弗莱明（Lee Fleming）利用美国专利局技术分类号的首次组合频度，初步测定发明专利的重组不确定性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
 > - **2013 — [[Brian Uzzi|乌齐]]期刊引文对双重测度体系** [[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）等人在《科学》（*Science*）正式确立中位数常规性与第 10 百分位数非典型性的双维标准化测度体系，完成对 1,790 万篇科技论著的大规模测算。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 193)]]
 > - **2015 — 团队[[Creativity|创造力]]与引文新颖性解构** 李允娜（Youn-Na Lee）等将该测度扩展至科学家跨界团队协作与个体多学科背景的匹配分析。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
+> - **2023 — 全量数据湖工程化预解算与规律复现** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 在 SciSciNet 中建立高效并行算法，全量解算 44,142,423 篇期刊成果的共引非典型性 Z 分数（包括中位数常规性、第 10 百分位数新颖性及引文对数量），在大规模异构数据上稳健复现了兼具高常规性与高新颖性成果的高被引优势。
 
 ---
 

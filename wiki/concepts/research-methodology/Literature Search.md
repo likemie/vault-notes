@@ -8,7 +8,7 @@ aliases:
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，数字化搜索与平衡前沿经典的知识热点架构显著拓宽了学术共同体记忆并促进重大突破（Wang & Barabási, 2021）。"
 type: concept
 domain: "research-methodology"
-related_count: 75
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -87,6 +87,7 @@ related_facts:
   - "[[British Association for International and Comparative Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
+  - "[[SciSciNet]]"
 related_instruments:
   - "[[PRISMA]]"
 related_arguments:
@@ -96,12 +97,13 @@ related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Lin_2023_SciData]]"
 related_theories:
   - "[[Human Capital Theory]]"
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -407,6 +409,7 @@ updated: 2026-10-31
 > - **2010s — 开放获取、系统综述规范与循证证据库** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述规范与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库确立了结构化文献检索与质量把关的行业标杆。
 > - **2019 — 大规模系统综述检索覆盖边界反思** 贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）在对测试问责的大规模系统文献综述中，实证指明主流商业引文库检索对非英语本土经验的覆盖盲区。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
 > - **2021 — 知识热点搜索架构确立** 王大顺与巴拉巴西基于 2,800 万篇文献实证，证明兼顾最新前沿与历史经典的平衡型文献搜索使成果跻身前 5% 爆款高引的几率提升 2.2 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
+> - **2023 — 开放科学学数据湖支撑大规模全景文献检索与回溯** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 开源发布 [[SciSciNet]] 数据湖，整合 1.34 亿篇核心出版物、15.89 亿条引文网络与 2200 万篇专利及临床试验跨界关联，提供免费预计算测度指标，打破了传统商业引文数据库检索孤岛，为科研人员全景式检索和回溯跨学科知识网络提供了开放公共数据基石。
 > - **2026 — 生成式 AI 代理与可执行代码沙盒检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新[[Paradigm|范式]]，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学术分工向宏观战略综合转型。
 
 ---
@@ -452,4 +455,5 @@ updated: 2026-10-31
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 阐释文献分类的公开性与加工程度双维度、五种文献检索操作方法及文献检索在课题选题中的四项发现机制。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 报告基于 Scopus 数据库筛选 1,180 篇文献的大规模系统综述检索规程，实证反思英语数据库检索对非英语本土经验的覆盖偏倚。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献挖掘与代码沙盒溯源，驱动人类科研分工向战略综合演化。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献与 15.89 亿条引文的 [[SciSciNet]] 数据湖，打破商业引文数据库封闭壁垒，为大规模自动化文献检索、实体对齐与跨学科知识扩散追踪提供开放数据基础设施。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 基于 2,800 万篇文献实证阐明兼顾前沿与经典的知识热点检索架构将突破概率提升 2.2 倍，揭示数字搜索引擎对学术记忆的拓展。

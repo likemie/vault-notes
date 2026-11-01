@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -55,10 +55,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
