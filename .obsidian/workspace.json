@@ -315,6 +315,7 @@
   },
   "active": "071a1983dcd366f9",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-007/result.json",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-006/result.json",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-005/result.json",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-004/result.json",
@@ -335,7 +336,6 @@
     "tmp/callout-refinement/subclaim-check.log",
     "tmp/callout-refinement/subclaim-check.mjs",
     "tmp/callout-refinement/subclaim-index.log",
-    "tmp/callout-refinement/subclaim-inspect",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-007/prompt.md",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-006/prompt.md",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-005/prompt.md",

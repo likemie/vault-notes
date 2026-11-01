@@ -87,6 +87,7 @@ updated: 2026-11-01
 > - **1964 — SCI 正式出版与大科学实证落地** 科学信息研究所（ISI）出版首期 5 卷本《科学引文索引》，收录 613 种期刊，为[[Derek de Solla Price|德里克·德索拉·普赖斯]]等学者开展引文网络实证研究提供了全量数据原料。
 > - **1972 — 期刊影响因子（JIF）形式化发布** 加菲尔德在《科学》提出 JIF 指标计算规则，初衷为帮助图书馆选择核心采购期刊，后续演变为全球科研评价的主导标尺。
 > - **1997 — Web of Science 全球网络化整合** 推出基于万维网的数字化综合检索平台，集成 SCI、SSCI 与 A&HCI，消除了纸本与光盘检索的物理隔阂。
+> - **2016 — 个体微观生涯动力学跨学科实证** 罗伯塔·西纳特拉（Roberta Sinatra）等依托 WoS 跨学科数据集提取 7 大学科领域的 24,630 位学者全生涯发表数据，通过年份与学科基准归一化十年被引（$c_{10}$），实证确证[[Random Impact Rule|随机影响规律]]与[[Q-Model|Q 模型]]在自然科学与社会科学中的跨领域普适性。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–599)]]
 > - **2017–2021 — 科学学重大理论实证依托** 萨蒂亚姆·穆克吉等基于 WoS 涵盖的 **2,800 万篇**跨学科文献，证实融合前沿探索与深厚经典的[[Knowledge Hotspots|知识热点]]能够提升成果成为顶尖爆款的概率达 2.2 倍；王大顺与巴拉巴西基于该数据库揭示了百年文献指数增长与引文动力学的统一物理规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 162–163)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 199–202)]]
 
 ---
@@ -109,6 +110,7 @@ updated: 2026-11-01
 > 1. **大样本跨学科知识热点检验** 基于 WoS 覆盖的 **2,800 万篇**全量科技出版物，实证测定将最新前沿探索与深厚经典积淀相融合的成果，跻身领域前 5% 爆款高引的概率提升 2.2 倍（Mukherjee et al., 2017）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–202)]]
 > 2. **百年文献指数增长动力学确证** 追踪 WoS 跨越 1900 年至 2010 年代逾一个世纪的数据证实，全球学术成果总规模保持着平均每 12 年翻一番的稳健指数增长趋势，反驳了普赖斯早期的资源耗尽增长饱和预言。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 162–163)]]
 > 3. **引文偏斜与普适标度主曲线检验** WoS 跨学科引文数据证实微观引文分布具有极端的不平等特征（前 1% 论著吸纳了全网近四成的总引用），但在消除相对适应度等异质性参数后，所有学科轨迹跨越表观混乱严格坍缩于均一的标准正态累积分布主曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 211–212)]]
+> 4. **跨学科个体微观生涯轨迹普适性检验** 依托 WoS 覆盖的生物学、化学、认知科学、生态学、经济学、神经科学与物理学等 7 大领域 24,630 位学者发表记录，证实十年累积被引 $c_{10}$ 经学科基准归一化后，各学科学者最具影响力的代表作在全生涯发表序列中均服从均匀随机分布，排除了创造力随生理年龄衰退的假设。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–599)]]
 
 ---
 
@@ -128,6 +130,9 @@ updated: 2026-11-01
 > |:-----|:-----|:-----|
 > | [[Eugene Garfield]] | Person | 创办科学信息研究所（ISI）并创立 SCI 与 JIF 体系。 |
 > | [[Derek de Solla Price]] | Person | 依托早期 SCI 数据首次手工绘制引文网络幂律分布。 |
+> | [[Roberta Sinatra]] | Person | 依托 WoS 跨学科数据构建个体学术影响力演化动力学与 Q 模型。 |
+> | [[Random Impact Rule]] | Theory | 依托 WoS 跨学科数据检验代表作在学者生涯序列中的均匀随机分布。 |
+> | [[Q-Model]] | Theory | 依托 WoS 跨学科引文归一化数据验证个体能力因子跨生命周期的平稳性。 |
 > | [[Journal Impact Factor]] | Method | 依托 WoS 数据库衍生的经典两年期期刊平均引文测度。 |
 > | [[Knowledge Hotspots]] | Concept | 基于 WoS 2,800 万篇全量数据测定出的兼顾前沿与经典的最优知识搜索构型。 |
 > | [[Ultimate Impact]] | Concept | 揭示成果长程终身总引用量与 WoS 载文期刊名声完全脱钩的物理法则。 |
@@ -136,4 +141,5 @@ updated: 2026-11-01
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提取 WoS 7 大领域 24,630 位学者全生涯序列，通过跨学科基准归一化十年被引验证随机影响规律与 Q 模型的跨学科普适性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）— 检视百年文献指数增长律（Unit 01, 07）并依托 2,800 万篇全样本确立知识热点突破架构（Unit 09, pp. 200–202）。
