@@ -12,6 +12,10 @@ summary: "在缺乏统一个人或实体物理标识符的情境下，跨异构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
@@ -39,6 +43,7 @@ related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
+updated: 2026-11-02
 ---
 
 ---
@@ -53,7 +58,7 @@ status: active
 > - **输出形式** 经匹配去重后的多源关联关系表、实体唯一映射词表及匹配置信度得分。
 
 > [!citation-card] 非结构化文献与资助记录的对齐规程
-> 针对基金资助与科学出版物之间缺乏统一标识符的瓶颈，记录链接管道通过从非结构化描述中抽取论著题名，计算候选字符编辑距离比率，并施加资助批准年份与发表年份的时间窗窗口限制，辅以作者姓氏验证，实现高精度跨源知识对齐。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> 针对基金资助与科学出版物之间缺乏统一标识符的瓶颈，记录链接管道通过从非结构化描述中抽取论著题名，计算候选字符编辑距离比率，并施加资助批准年份与发表年份的时间窗窗口限制，辅以学者姓氏验证，实现高精度跨源知识对齐。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
 > *We developed a record linkage pipeline combining text parsing, fuzzy string matching, and strict temporal and authorship constraints to match unstructured reference strings from grant reports to standardized publication records.*
 
@@ -82,7 +87,7 @@ status: active
 > [!method-stack] 数据与变量
 > - **数据结构** 包含跨源多表的非配对关系数据库或非结构化半结构化元数据文本。
 > - **样本与单位** 数万至数亿量级的待匹配记录对。
-> - **变量或测量** 字符串编辑相似度、时间差偏移量、作者重合度与匹配分类判定指示变量。
+> - **变量或测量** 字符串编辑相似度、时间差偏移量、署名重合度与匹配分类判定指示变量。
 
 ---
 
@@ -105,7 +110,7 @@ status: active
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Author Name Disambiguation]] | 前置/伴生方法 | 著者姓名消歧是记录链接在学者个体实体对齐上的专门分支。 |
-> | [[Bibliometric Analysis]] | 上位方法家族 | 科学计量学依赖记录链接打通论文、基金、专利与引文网络。 |
+> | [[Bibliometric Analysis]] | 上位方法家族 | 科学计量学依赖记录链接打通学术产出、基金、专利与引文网络。 |
 > | [[Matching]] | 关联统计方法 | 因果推断中的匹配方法关注处理组与对照组变量分布平衡，记录链接关注物理实体标识一致。 |
 
 ---

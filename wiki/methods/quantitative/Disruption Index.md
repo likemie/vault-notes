@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -166,4 +166,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 全量计算 4858 万篇出版物的颠覆性得分，在亿级数据规模上稳健验证了小团队开拓颠覆而大团队巩固发展的规律。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用颠覆性指数证实小团队颠覆既有范式、大团队发展成熟传统的组织分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]，pp. 128–132）；并将其确立为深挖网络拓扑、超越引文计数的关键指标（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 245–248）。

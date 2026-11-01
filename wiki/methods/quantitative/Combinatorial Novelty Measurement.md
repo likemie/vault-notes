@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -176,4 +176,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对 4414 万篇期刊成果全量解算期刊共引非典型性 Z 分数，证实高常规性与高尾部新颖性兼备的成果跻身顶尖高被引的概率提升逾两倍。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 评介乌齐等人基于该方法对 1,790 万篇科技论著的大数据挖掘，确立将非典型组合根植于常规基底方能倍增顶尖突破概率的论断 (pp. 190–193)。

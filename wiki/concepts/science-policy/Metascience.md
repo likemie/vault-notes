@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
@@ -218,10 +218,12 @@ updated: 2026-11-01
 > | [[Michael Kratsios]] | Person | 在总统科学报告中系统阐述元科学单元的组织架构、实验权限与预算指导原则。 |
 > | [[Visible Learning]] | Concept | 现代元科学实施全库证据质量审计、揭示合成证据可复现性崩溃的代表性审查对象。 |
 > | [[Preregistration]] | Concept | 元科学质量审计研究所严格遵循的事前假设与分析协议锁定规程。 |
+| [[SciSciNet]] | Fact (Program) | 科学学开源开放数据基础设施，为元科学与科学政策研究提供清洗后的多源实证基石。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，打通资助与成果多源关联并预计算前沿指标，为元科学提供低门槛、高可复现的公共实证基础设施。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出生涯序列置换反事实检验法与双因子 Q 模型，证实选题运气与学者转化能力相互独立，为微观科学学奠定生成机制基础。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元开展资助对照实验。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 奠定大数据计算科学学范式，对全球科研人员生产力分布、评价指标[[Predictive Validity|预测效度]]与声望马太效应开展微观机制建模与实证检验。

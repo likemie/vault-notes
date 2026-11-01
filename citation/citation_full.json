@@ -5911,6 +5911,46 @@
       "title": "Argument_Li_2012_Cambridge",
       "year": "2012"
     },
+    "Lin et al. (2023)": {
+      "aliases": [
+        "Lin et al., 2023",
+        "Lin et al. (2023)"
+      ],
+      "argument": "Argument_Lin_2023_SciData",
+      "authors": [
+        "Lin, Z.",
+        "Yin, Y.",
+        "Liu, L.",
+        "Wang, D."
+      ],
+      "citation": "Lin, Z., Yin, Y., Liu, L., & Wang, D. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10, Article 315. https://doi.org/10.1038/s41597-023-02198-9",
+      "doi": "https://doi.org/10.1038/s41597-023-02198-9",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
+      "source_language": "en",
+      "title": "Argument_Lin_2023_SciData",
+      "year": "2023"
+    },
+    "Lin et al., 2023": {
+      "aliases": [
+        "Lin et al., 2023",
+        "Lin et al. (2023)"
+      ],
+      "argument": "Argument_Lin_2023_SciData",
+      "authors": [
+        "Lin, Z.",
+        "Yin, Y.",
+        "Liu, L.",
+        "Wang, D."
+      ],
+      "citation": "Lin, Z., Yin, Y., Liu, L., & Wang, D. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10, Article 315. https://doi.org/10.1038/s41597-023-02198-9",
+      "doi": "https://doi.org/10.1038/s41597-023-02198-9",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
+      "source_language": "en",
+      "title": "Argument_Lin_2023_SciData",
+      "year": "2023"
+    },
     "Liu et al. (2025)": {
       "aliases": [
         "Liu et al., 2025",
@@ -11166,46 +11206,6 @@
       "source_language": "en",
       "title": "Argument_Zhu_Yang_2025_HE",
       "year": "2025"
-    },
-    "Zihang Lin et al. (2023)": {
-      "aliases": [
-        "Zihang Lin et al., 2023",
-        "Zihang Lin et al. (2023)"
-      ],
-      "argument": "Argument_Lin_2023_SciData",
-      "authors": [
-        "Zihang Lin",
-        "Yian Yin",
-        "Lu Liu",
-        "Dashun Wang"
-      ],
-      "citation": "Lin, Z., Yin, Y., Liu, L., & Wang, D. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10, Article 315. https://doi.org/10.1038/s41597-023-02198-9",
-      "doi": "https://doi.org/10.1038/s41597-023-02198-9",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
-      "source_language": "en",
-      "title": "Argument_Lin_2023_SciData",
-      "year": "2023"
-    },
-    "Zihang Lin et al., 2023": {
-      "aliases": [
-        "Zihang Lin et al., 2023",
-        "Zihang Lin et al. (2023)"
-      ],
-      "argument": "Argument_Lin_2023_SciData",
-      "authors": [
-        "Zihang Lin",
-        "Yian Yin",
-        "Lu Liu",
-        "Dashun Wang"
-      ],
-      "citation": "Lin, Z., Yin, Y., Liu, L., & Wang, D. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10, Article 315. https://doi.org/10.1038/s41597-023-02198-9",
-      "doi": "https://doi.org/10.1038/s41597-023-02198-9",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
-      "source_language": "en",
-      "title": "Argument_Lin_2023_SciData",
-      "year": "2023"
     },
     "Ünal et al. (2026)": {
       "aliases": [

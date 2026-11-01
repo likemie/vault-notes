@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -84,7 +84,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 项目推进历程
 > - **2015 年 — 系统架构发布与全量开源** 微软研究院在国际学术会议上正式公开微软学术知识图谱技术规范，向科研界免费开放全量原始数据压缩包下载。
-> - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（Sinatra et al., 2016）、[[Creativity|创造力]]迸发（Liu et al., 2018）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
+> - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）、[[Creativity|创造力]]迸发（Liu et al., 2018）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 > - **2021 年 — 宣布退役与向开放科学社区移交** 微软官方于 2021 年 5 月宣布项目将在年底停运；全球开放科学组织依托其最后一版全量数据（截至 2021 年 12 月 31 日）启动数据归档与继任基础设施建设。
 > - **2022 年至今 — 衍生 OpenAlex 开放生态** 非营利机构 OurResearch 承接 MAG 的实体拓扑模式与唯一标识符体系，无缝推出全开源学术基础设施 [OpenAlex](https://openalex.org/)，使 MAG 的数据遗产得以长期维系。
 
@@ -149,8 +149,10 @@ updated: 2026-10-30
 > | [[Q-Model]] | Theory | MAG 的高精度学者时间序列为个体能力与选题随机性理论提供了核心实证支撑。 |
 > | [[Bibliometric Analysis]] | Method | MAG 充当现代大数据计算文献计量分析的核心数据源。 |
 > | [[Author Name Disambiguation]] | Method | MAG 的异构图嵌入消歧模型代表了学术身份解析的前沿水准。 |
+| [[SciSciNet]] | Fact | 衍生学术数据湖，以 MAG 终版为基础清洗构建跨源实证基础设施。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 以 MAG 2021 年终版为底库，通过成果家族聚拢与引文重新配赋提炼 1.34 亿篇核心出版物，开源构建连接外部资助与转化的 SciSciNet 数据湖。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将微软学术图谱作为核心实证基座，系统测定科学文献膨胀、科研人员增长与人均生产力百年稳态规律（pp. 8–9, 136, 169）。

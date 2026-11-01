@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-10-31
 > 
 > $$c_i(t) = m \left(e^{\lambda_i \Phi\left(\frac{\ln t - \mu_i}{\sigma_i}\right)} - 1\right)$$
 > 
-> 式中 $\Phi(x)$ 为标准正态累积分布函数，$m$ 为系统平均参考文献数。当 $t \to \infty$ 时，终身总被引渐近收敛于 $c_i^\infty = m (e^{\lambda_i} - 1)$。
+> 式中 $\Phi(x)$ 为标准正态累积分布函数，$m$ 为系统平均参考文献数。当 $t \to \infty$ 时，终身总被引渐近趋近于 $c_i^\infty = m (e^{\lambda_i} - 1)$。
 
 > [!geogebra] WSB 单篇文献引文动力学与终极影响模拟
 > - **横轴** 文献发表后时间 $t$（年）
@@ -167,4 +167,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对物理学等长周期期刊论著进行 WSB 参数拟合，证实经验引文主曲线重标度坍缩且 15 年训练期后长程预测误差稳定保持在 0.15 以下。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 系统推导 WSB 最小引文模型解析方程，确立跨学科普适曲线坍缩，并实证揭示终极影响由相对适应度决定的物理极限。
