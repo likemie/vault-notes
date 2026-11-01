@@ -51,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
 
 > [!def] Q-Factor
-> 学者个体学术能力测度指标，通过对特定研究人员全生命周期发表成果的十年累积被引量取对数后计算几何均值，并扣除学科归一化基准，形式化定义为 $Q_i = e^{\langle \log c_{10, ij} \rangle - \mu_p}$。该指标旨在剥离单一热点成果的偶发随机性，度量学者在多项研究课题中持续输出高质量论著的稳态转化能力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
+> 学者个体学术能力测度指标，通过对特定研究人员全生命周期发表成果的十年累积被引量取对数后计算几何均值，并扣除学科归一化基准，形式化定义为 $Q_i = e^{\langle \log c_{10, ij} \rangle - \mu_p}$。该指标旨在剥离单一热点成果的偶发随机性，度量学者在多项研究课题中持续输出高质量论著的稳态转化能力。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, p. 65)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 测度科学家的个体学术能力与稳态转化水平，关联[[Construct|构念]] [[Scientific Productivity]]、[[Predictive Validity]] 与 [[Research Impact]]。
@@ -204,4 +204,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 形式化提出并推导 Q 因子的对数几何平均计算公式，依托历时数据证实其终身稳定性，并在诺贝尔奖预测竞赛中确立其优势效度。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 提出 Q 因子的计算模型与解析近似，依托 2,856 位物理学家大数据证实其终身平稳性，并通过 ROC 曲线竞赛确立其预测诺贝尔奖得主的优势效能。

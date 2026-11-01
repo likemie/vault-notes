@@ -21831,8 +21831,6 @@
     "Simsek & Ozaslan, 2021": "Simsek & Ozaslan, 2021",
     "Simsek (2015)": "Simsek, 2015",
     "Simsek, 2015": "Simsek, 2015",
-    "Sinatra et al. (2016)": "Sinatra et al., 2016",
-    "Sinatra et al., 2016": "Sinatra et al., 2016",
     "Singer (1975)": "Singer, 1975",
     "Singer (2025)": "Singer, 2025",
     "Singer, 1975": "Singer, 1975",
@@ -171958,8 +171956,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/theories/science-policy/Q-Model.md",
-        "wiki/theories/science-policy/Random Impact Rule.md"
+        "wiki/theories/science-policy/Q-Model.md"
       ],
       "title": ""
     },
@@ -186136,31 +186133,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of the Dialogic and Traditional Reading Techniques on Children's Language Development"
-    },
-    "Sinatra et al., 2016": {
-      "aliases": [
-        "Sinatra et al., 2016",
-        "Sinatra et al. (2016)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Sinatra et al., 2016"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/educational-philosophy/Falsification.md",
-        "wiki/concepts/research-methodology/Predictive Validity.md",
-        "wiki/concepts/science-policy/Lost Winners.md",
-        "wiki/concepts/science-policy/Scientific Productivity.md",
-        "wiki/facts/us/Microsoft Academic Graph.md",
-        "wiki/methods/quantitative/Career Shuffling Method.md",
-        "wiki/persons/us/Harvey C. Lehman.md"
-      ],
-      "title": ""
     },
     "Singer, 1975": {
       "aliases": [

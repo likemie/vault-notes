@@ -8903,6 +8903,48 @@
       "title": "Argument_Simpson_2019_ERE",
       "year": "2019"
     },
+    "Sinatra et al. (2016)": {
+      "aliases": [
+        "Sinatra et al., 2016",
+        "Sinatra et al. (2016)"
+      ],
+      "argument": "Argument_Sinatra_2016_Science",
+      "authors": [
+        "[[Roberta Sinatra|Sinatra, R.]]",
+        "[[Dashun Wang|Wang, D.]]",
+        "Deville, P.",
+        "Song, C.",
+        "[[Albert-László Barabási|Barabási, A.-L.]]"
+      ],
+      "citation": "Sinatra, R., Wang, D., Deville, P., Song, C., & Barabási, A.-L. (2016). Quantifying the evolution of individual scientific impact. Science, 354(6312), aaf5239. https://doi.org/10.1126/science.aaf5239",
+      "doi": "10.1126/science.aaf5239",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
+      "source_language": "en",
+      "title": "Argument_Sinatra_2016_Science",
+      "year": "2016"
+    },
+    "Sinatra et al., 2016": {
+      "aliases": [
+        "Sinatra et al., 2016",
+        "Sinatra et al. (2016)"
+      ],
+      "argument": "Argument_Sinatra_2016_Science",
+      "authors": [
+        "[[Roberta Sinatra|Sinatra, R.]]",
+        "[[Dashun Wang|Wang, D.]]",
+        "Deville, P.",
+        "Song, C.",
+        "[[Albert-László Barabási|Barabási, A.-L.]]"
+      ],
+      "citation": "Sinatra, R., Wang, D., Deville, P., Song, C., & Barabási, A.-L. (2016). Quantifying the evolution of individual scientific impact. Science, 354(6312), aaf5239. https://doi.org/10.1126/science.aaf5239",
+      "doi": "10.1126/science.aaf5239",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
+      "source_language": "en",
+      "title": "Argument_Sinatra_2016_Science",
+      "year": "2016"
+    },
     "Skipp & Tanner, 2015": {
       "aliases": [
         "Skipp & Tanner, 2015",

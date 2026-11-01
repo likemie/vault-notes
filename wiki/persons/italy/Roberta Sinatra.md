@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 ---
@@ -71,13 +71,13 @@ updated: 2026-10-31
 > - **2012** 在卡塔尼亚大学获得理论物理学博士学位。
 > - **2012–2015** 赴美国东北大学复杂网络研究中心（CCNR）开展博士后研究，合作导师为[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）。
 > - **2015–2019** 任教于中欧大学网络科学系。
-> - **2016** 在《科学》发表封面级论著《量化个体艺术与科学职业生涯的演变》，确立随机影响法则与 Q 模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 60–67)]]
+> - **2016** 在《科学》发表奠基性论著《量化个体科学影响力的演变》，确立随机影响法则与 Q 模型。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 60–67)]]
 > - **2019–至今** 担任哥本哈根信息技术大学教授。
 
 ---
 
 > [!work-line] 主要论著
-> - **2016 — *Quantifying the Evolution of Individual Artistic and Scientific Careers*（《科学》）** 形式化确立随机影响法则与 [[Q-Factor|Q 因子]]模型，揭示科学突破发生时序的随机本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
+> - **2016 — *Quantifying the Evolution of Individual Scientific Impact*（《科学》）** 形式化确立随机影响法则与 [[Q-Factor|Q 因子]]模型，揭示科学突破发生时序的随机本质。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
 > - **2017 — *A Century of Physics*（《自然·物理》）** 运用引文全网大数据绘制 20 世纪物理学知识流动与概念交融图谱。
 
 ---
@@ -93,6 +93,7 @@ updated: 2026-10-31
 > - **学术评价与政策路径** 论证持续资助高产年长学者的合理性，为科技资助机构破除唯年轻化年龄门槛提供了计量学证据支持。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 领衔发表奠基论著，实证提出随机影响规律并形式化构建 Q 模型与 Q 因子，确立微观学术生涯动力学范式。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 详尽介绍西纳特拉团队在物理学家全样本中的[[Drop-pin Projection|图钉投影]]与生涯打乱实验，以及 Q 模型构建、能力稳定性检验与诺奖预测 ROC 竞赛。
 
 ---
