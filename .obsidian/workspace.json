@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,8 +313,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "071a1983dcd366f9",
+  "active": "a2aa5f6545a9eecb",
   "lastOpenFiles": [
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-007/result.json",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-006/result.json",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-005/result.json",
@@ -335,7 +336,6 @@
     "tmp/callout-refinement/subclaim-inspect/report.json",
     "tmp/callout-refinement/subclaim-check.log",
     "tmp/callout-refinement/subclaim-check.mjs",
-    "tmp/callout-refinement/subclaim-index.log",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-007/prompt.md",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-006/prompt.md",
     "output/related-updates/Argument_Sinatra_2016_Science-795e959d/batch-005/prompt.md",
@@ -347,7 +347,6 @@
     "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
     "sources/Sinatra_2016_Science.md",
     "wiki/concepts/science-policy/Knowledge Hotspots.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
     "wiki/templates/template-concept.md",
     "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
     "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
