@@ -11,7 +11,7 @@ summary: "文献计量学、科学学与计算社会科学领域的基础计算�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -44,11 +44,10 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
-  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-10-31
 ---
 
 ---
@@ -133,4 +132,3 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 系统阐释著者消歧的四大瓶颈（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit01]]），并依托消歧技术重构学者全样本发表序列以检验[[Random Impact Rule|随机影响法则]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit02]]）。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 评估跨出版物、资助库、专利与临床试验等多源科学数据整合中的学者姓名消歧与实体链接策略，揭示消歧精度对绘制科学全景图景的基础性影响（pp. 341–350）。
