@@ -76,7 +76,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 英国杜伦大学教育学院教育学教授（Professor of Education, Durham University），英国[[Evidence-Based Education\|循证教育]]、[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]方法论权威专家。
 > - **核心角色** [[Sutton Trust\|萨顿信托]]（[[Sutton Trust]]）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）旗舰项目[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]的领衔主持学者；开创以“进展月数”（[[Months of Progress]]）表征[[Effect Size\|效应量]]的循证转译模式；通过对 17 项早期 [[Randomised Controlled Trials\|RCT]] 微观数据的二次复算揭示统计[[Model Dependency\|模型依赖性]]（model dependency），成为推动教育试验分析标准化的核心学者。
-> - **代表贡献** 领衔研制[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]、首创“进展月数”效应量转化指标、与合作者系统复算 17 项试验揭示模型依赖性并推动 EEF 出台《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
+> - **代表贡献** 领衔研制[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]、首创“进展月数”效应量转化指标、与共事者系统复算 17 项试验揭示模型依赖性并推动 EEF 出台《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 
 > [!citation-card] 杜伦大学团队对 17 项试验的复算审计与模型依赖性发现（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
 > 得益于 EEF 依托英格兰[[National Pupil Database\|国家学生数据库]]（NPD）建立的微观试验档案库，杜伦大学学者齐·肖（ZhiMin Xiao）、史蒂夫·希金斯（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）获得了对 17 项早期完成的 RCT 试验微观原始数据进行二次审计的机会。复算揭示了惊人的敏感性：在 17 项试验中，多达 12 项试验的点估计效应量或其[[Statistical Significance\|统计显著性]]在不同统计模型间发生了漂移与突变……杜伦大学团队的实证发现直接推动 EEF 于 2018 年出台了具有行业规范里程碑意义的《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]

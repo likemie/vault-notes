@@ -89,7 +89,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm\|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的网络化改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “[[Practice-Based Evidence\|基于实践的证据]]”。
+> Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm\|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的网络化改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终积累出 “[[Practice-Based Evidence\|基于实践的证据]]”。
 
 > [!axioms] 核心命题一：基于实践的证据 (Practice-Based Evidence)
 > 教育者在教学一线产生的细粒度、与实践紧密相关的知识，能够形塑性地支持教师的专业学习 and 学生成就。这种基于实践的证据，是连通外部研究证据与学校实际改进之间的关键桥梁，它构成了循证实践（[[Evidence-Informed Practice]], EIP）中超越纯[[Pragmatism in China\|实验主义]]的一条中间道路。([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]])

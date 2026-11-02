@@ -71,7 +71,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）组织首任总干事（1968–1977）。
 > - **制度角色** 参与[[Founding of Atlantic College\|大西洋学院创办]]及其学术课程设计，后把课程框架、外部考试、资金、试验学校和大学资格承认整合为一个可运行的跨国文凭制度。
-> - **课程角色** 推动国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP），尤其重视[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）和[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）如何补足六学科框架。
+> - **课程角色** 推动国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP），尤其重视[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展研究]]（Extended Essay，EE）和[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）如何补足六学科框架。
 > - **思想位置** 他的[[General Education|通识教育]]观强调思维过程而非事实堆积；制度设计则强调共同质量边界与[[School Autonomy|学校自主]]实施之间的平衡。
 > - **史料边界** 他的著作是参与者历史。书中事实、个人回忆与规范性判断需要分开阅读，不能自动视为 IB 或[[United World Colleges\|联合世界书院]]（United World Colleges，UWC）的官方立场。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
 

@@ -104,7 +104,7 @@ updated: 2026-11-02
 
 > [!timeline] 生平与职涯
 > - **1925** **英国伦敦出身与早期经济学训练** 出生于英国伦敦。早年在英国接受[[Normal School|师范教育]]与经济学训练，后在伦敦政治经济学院（London School of Economics and Political Science, LSE）攻读经济学，奠定了坚实的实证经济分析与统计测量功底。
-> - **1964** **哥伦比亚大学博士毕业与开启苏联教育经济研究** 赴美深造并获得哥伦比亚大学博士学位，博士学位论文聚焦苏联教育经济学、人力配置与教育财政体制；随后留校任教于师范学院，率先在比较教育学科内部开辟教育经济学专门方向。
+> - **1964** **哥伦比亚大学博士毕业与开启苏联教育经济研究** 赴美深造并获得哥伦比亚大学博士学位，博士研究聚焦苏联教育经济学、人力配置与教育财政体制；随后留校任教于师范学院，率先在比较教育学科内部开辟教育经济学专门方向。
 > - **1969** **出版《走向比较教育科学》确立战后第三代际哥大学派** 与埃克斯坦共同出版里程碑名著《走向比较教育科学》（*Toward a Science of Comparative Education*），将古典历史学派定性为依赖个人主观洞察力的前科学阶段，构建跨国“[[Independent Variable|自变量]]—[[Dependent Variable|因变量]]”函数共变模型，呼吁采纳严格统计技术清洗偏见与任意武断，并在第三代际实证[[Scientism|科学主义]]运动中确立以哥大学派为核心的[[Quantitative Research|量化研究]]纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **1969–1975** **主编《比较教育的科学调查》与参与 [[IEA]] 实证测评** 与埃克斯坦进一步编纂《比较教育的科学调查》（*Scientific Investigations in Comparative Education*, 1969），系统将抽样、测量与多元统计技术[[Operationalization|操作化]]；深度参与国际教育成就评价协会（IEA）多国学生成就调查项目的数据分析，将大样本跨国实证调查推向全盛期。
 > - **1973** **发表《用[[Variable|变量]]替代系统名称》确立通则化方法论纲领** 发表关键方法论论文《在比较教育中以变量名称替代系统名称》（*Fast-Forward: Replacing the Names of Systems with the Names of Variables*），系统论证比较教育的核心科学任务是将历史固有名词（国名、制度名）消解为普适的社会科学抽象变量，并通过经验假设检验确立跨国函数关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
