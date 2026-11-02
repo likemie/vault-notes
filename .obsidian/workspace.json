@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e0651caadf01f4",
+        "id": "0f717b48a5d82961",
         "type": "tabs",
         "children": [
           {
-            "id": "bd88d0cdfde06150",
+            "id": "c2be819c27851cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
-                "mode": "preview",
+                "file": "file:/Users/shaoyangwu/Downloads/ch01_final_text.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Arnove_2009_WorldSystems"
-            }
-          },
-          {
-            "id": "bca63648689594c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Argument_Fortunato_2018_Science"
+              "title": "ch01_final_text"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,9 +237,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bca63648689594c3",
+  "active": "c2be819c27851cda",
   "lastOpenFiles": [
+    "file:/Users/shaoyangwu/Downloads/ch01_final_text.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
     "file:/Users/shaoyangwu/Downloads/高中线_前十一话合集.md",
+    "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
     "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
     "file:/Users/shaoyangwu/Downloads/林婉如和吴老师的第一次.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
@@ -282,9 +269,7 @@
     "tmp/callout-refinement/monograph-dark-768.png",
     "tmp/callout-refinement/monograph-dark-1440.png",
     "tmp/callout-refinement/monograph-light-390.png",
-    "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
     "wiki/concepts/science-policy/Combinatorial Novelty.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
     "wiki/templates/template-argument-textbook.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_第4至6页_校对版.md",
@@ -300,7 +285,6 @@
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-006/prompt.md",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-005/prompt.md",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-004/prompt.md",
-    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-001/prompt.md",
     "未命名.canvas"
   ]
 }
