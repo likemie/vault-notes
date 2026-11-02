@@ -1,0 +1,1257 @@
+=== PAGE 1 ===
+REVIEW SUMMARY
+◥
+SCIENCE COMMUNITY
+Science of science
+Santo Fortunato,* Carl T. Bergstrom, Katy Börner, James A. Evans, Dirk Helbing,
+Staša Milojević, Alexander M. Petersen, Filippo Radicchi, Roberta Sinatra, Brian Uzzi,
+Alessandro Vespignani, Ludo Waltman, Dashun Wang, Albert-László Barabási *
+BACKGROUND: The increasing availability of
+digital data on scholarly inputs and outputs—from
+research funding, productivity, and collaboration
+to paper citations and scientist mobility—offers
+unprecedented opportunities to explore the struc-
+ture and evolution of science. The science of
+science (SciSci) offers a quantitative understanding
+of the interactions among scientific agents across
+diverse geographic and temporal scales: It provides
+insights into the conditions underlying creativity
+and the genesis of scientific discovery, with the
+ultimate goal of developing tools and policies
+that have the potential to accelerate science. In
+the past decade, SciSci has benefited from an in-
+flux of natural, computational, and social scien-
+tists who together have developed big data–based
+capabilities for empirical analysis and generative
+modeling that capture the unfolding of science,
+its institutions, and its workforce. The value prop-
+osition of SciSci is that with a deeper understand-
+ing of the factors that drive successful science, we
+can more effectively address environmental, soci-
+etal, and technological problems.
+ADVANCES: Science can be described as a com-
+plex, self-organizing, and evolving network of
+scholars, projects, papers, and ideas. This rep-
+resentation has unveiled patterns characterizing
+the emergence of new scientific fields through
+the study of collaboration networks and the path
+of impactful discoveries through the study of
+citation networks. Microscopic models have traced
+the dynamics of citation accumulation, allowing
+us to predict the future impact of individual
+papers. SciSci has revealed choices and trade-offs
+that scientists face as they advance both their own
+careers and the scientific horizon. For example, mea-
+surements indicate that scholars are risk-averse,
+preferring to study topics related to their current
+expertise, which constrains the potential of future
+discoveries. Those willing to break this pattern
+engage in riskier careers but become more likely to
+make major breakthroughs. Overall, the highest-
+impact science is grounded in conventional combi-
+nations of prior work but features unusual
+combinations. Last, as the locus of research is
+shifting into teams, SciSci is increasingly focused on
+the impact of team research, finding that small teams
+tend to disrupt science and technology with new
+ideas drawing on older and less prevalent ones. In
+contrast, large teams tend to develop recent, popular
+ideas, obtaining high, but often short-lived, impact.
+OUTLOOK: SciSci offers a deep quantitative
+understanding of the relational structure between
+scientists, institutions,and ideas because it facil-
+itates the identificationof fundamental mecha-
+nisms responsible for scientific discovery. These
+interdisciplinary data-driven efforts complement
+contributions from related fields such as sciento-
+metrics and the economics and sociology of
+science. Although SciSci
+seeks long-standing univer-
+sal laws and mechanisms
+that apply across various
+fields of science, a funda-
+mental challenge going
+forward is accounting for
+undeniable differences in culture, habits, and
+preferences between different fields and coun-
+tries. This variation makes some cross-domain
+insights difficult to appreciate and associated
+science policies difficult to implement. The differ-
+ences among the questions, data, and skills specif-
+ic to each discipline suggest that further insights
+can be gained from domain-specific SciSci studies,
+which model and identify opportunities adapted
+to the needs of individual research fields.
+▪
+RESEARCH
+Fortunato et al., Science 359, 1007 (2018) 2 March 2018 1o f1
+The list of author affiliations is available in the full article online.
+*Corresponding author. Email: santo@indiana.edu (S.F.);
+barabasi@gmail.com (A.-L.B.)
+Cite this article as S. Fortunato et al., Science 359,e a a o 0 1 8 5
+(2018). DOI: 10.1126/science.aao0185
+The complexity of science.Science
+can be seen as an expanding and
+evolving network of ideas, scholars,
+and papers. SciSci searches for
+universal and domain-specific laws
+underlying the structure and dynamics
+of science.
+ILLUSTRATION: NICOLE SAMAY
+ON OUR WEBSITE
+◥
+Read the full article
+at http:/ /dx.doi.
+org/10.1126/
+science.aao0185
+..................................................
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 2 ===
+REVIEW
+◥
+SCIENCE COMMUNITY
+Science of science
+Santo Fortunato,1,2* Carl T. Bergstrom, 3 Katy Börner,2,4 James A. Evans, 5
+Dirk Helbing,6 Staša Milojević,1 Alexander M. Petersen, 7 Filippo Radicchi,1
+Roberta Sinatra,8,9,10 Brian Uzzi,11,12 Alessandro Vespignani,10,13,14 Ludo Waltman,15
+Dashun Wang,11,12 Albert-László Barabási8,10,16*
+Identifying fundamental drivers of science and developing predictive models to capture its
+evolution are instrumental for the design of policies that can improve the scientific enterprise—
+for example, through enhanced career paths for scientists, better performance evaluation for
+organizations hosting research, discovery of novel effective funding vehicles, and even
+identification of promising regions along the scientific frontier. The science of science uses
+large-scale data on the production of science to search for universal and domain-specific
+patterns. Here, we review recent developments in this transdisciplinary field.T
+he deluge of digital data on scholarly out-
+put offers unprecedented opportunities to
+explore patterns characterizing the struc-
+ture and evolution of science. The science
+of science (SciSci) places the practice of
+science itself under the microscope, leading to
+a quantitative understanding of the genesis of
+scientific discovery, creativity, and practice and
+developing tools and policies aimed at accelerat-
+ing scientific progress.
+The emergence of SciSci has been driven by
+two key factors. The first is data availability. In
+addition to the proprietary Web of Science (WoS),
+the historic first citation index (1), multiple data
+sources are available today (Scopus, PubMed,
+Google Scholar, Microsoft Academic, the U.S.
+Patent and Trademark Office, and others). Some
+of these sources are freely accessible, covering
+millions of data points pertaining to scientists
+and their output and capturing research from all
+over the world and all branches of science. Sec-
+ond, SciSci has benefited from an influx of and
+collaborations among natural, computational,
+and social scientists who have developed big
+data–based capabilities and enabled critical
+tests of generative models that aim to capture
+the unfolding of science, its institutions, and
+its workforce.
+One distinctive characteristic of this emerging
+field is how it breaks down disciplinary bounda-
+ries. SciSci integrates findings and theories from
+multiple disciplines and uses a wide range of
+data and methods. From scientometrics, it takes
+the idea of measuring science from large-scale
+data sources; from the sociology of science, it
+adopts theoretical concepts and social processes;
+and from innovation studies, it explores and
+identifies pathways through which science con-
+tributes to invention and economic change.
+SciSci relies on a broad collection of quantitative
+methods, from descriptive statistics and data
+visualization to advanced econometric methods,
+network science approaches, machine-learning
+algorithms, mathematical analysis, and compu-
+ter simulation, including agent-based modeling.
+The value proposition of SciSci hinges on the
+hypothesis that with a deeper understanding of
+the factors behind successful science, we can en-
+hance the prospects of science as a whole to more
+effectively address societal problems.
+Networks of scientists, institutions,
+and ideas
+Contemporary science is a dynamical system of
+undertakings driven by complex interactions
+among social structures, knowledge representa-
+tions, and the natural world. Scientific knowledge
+is constituted by concepts and relations embodied
+in research papers, books, patents, software, and
+other scholarly artifacts, organized into scientific
+disciplines and broader fields. These social, con-
+ceptual, and material elements are connected
+through formal and informal flows of informa-
+tion, ideas, research practices, tools, and samples.
+Science can thus be described as a complex, self-
+organizing, and constantly evolving multiscale
+network.
+Early studies discovered an exponential growth
+in the volume of scientific literature (2), a trend
+that continues with an average doubling period
+of 15 years (Fig. 1). Yet, it would be naïve to
+equate the growth of the scientific literature with
+the growth of scientific ideas. Changes in the
+publishing world, both technological and eco-
+nomic, have led to increasing efficiency in the
+production of publications. Moreover, new pub-
+lications in science tend to cluster in discrete
+areas of knowledge (3). Large-scale text analysis,
+RESEARCH
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 1o f7
+1Center for Complex Networks and Systems Research, School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA. 2Indiana University Network Science
+Institute, Indiana University, Bloomington, IN 47408, USA. 3Department of Biology, University of Washington, Seattle, WA 98195-1800, USA. 4Cyberinfrastructure for Network Science Center, School
+of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA. 5Department of Sociology, University of Chicago, Chicago, IL 60637, USA. 6Computational Social
+Science, ETH Zurich, Zurich, Switzerland. 7Ernest and Julio Gallo Management Program, School of Engineering, University of California, Merced, CA 95343, USA. 8Center for Network Science, Central
+European University, Budapest 1052, Hungary. 9Department of Mathematics, Central European University, Budapest 1051, Hungary. 10Institute for Network Science, Northeastern University, Boston,
+MA 02115, USA. 11Kellogg School of Management, Northwestern University, Evanston, IL 60208, USA. 12Northwestern Institute on Complex Systems, Northwestern University, Evanston, IL 60208,
+USA. 13Laboratory for the Modeling of Biological and Sociotechnical Systems, Northeastern University, Boston, MA 02115, USA. 14ISI Foundation, Turin 10133, Italy. 15Centre for Science and
+Technology Studies, Leiden University, Leiden, Netherlands. 16Center for Cancer Systems Biology, Dana-Farber Cancer Institute, Boston, MA 02115, USA.
+*Corresponding author. Email: santo@indiana.edu (S.F.); barabasi@gmail.com (A.-L.B.)
+Fig. 1. Growth of science. (A) Annual production of scientific articles indexed in the WoS database. ( B) Growth of ideas covered by articles indexed in the
+WoS. This was determined by counting unique title phrases (concepts) in a fixed number of articles ( 4).
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 3 ===
+using phrases extracted from titles and abstracts
+to measure the cognitive extent of the scientific
+literature, have found that the conceptual territory
+of science expands linearly with time. In other
+words, whereas the number of publications grows
+exponentially, the space of ideas expands only
+linearly (Fig. 1) (4).
+Frequently occurring words and phrases in
+article titles and abstracts propagate via citation
+networks, punctuated by bursts corresponding
+to the emergence of new paradigms ( 5). By
+applying network science methods to citation
+networks, researchers are able to identify com-
+munities as defined by subsets of publications
+that frequently cite one another (6). These com-
+munities often correspond to groups of authors
+holding a common position regarding specific
+issues ( 7) or working on the same specialized
+subtopics (8). Recent work focusing on biomedical
+science has illustrated how the growth of the
+literature reinforces these communities ( 9). As
+new papers are published, associations (hyper-
+edges) between scientists, chemicals, diseases,
+and methods ( “things,” which are the nodes of
+the network) are added. Most new links fall be-
+tween things only one or two steps away from
+each other, implying that when scientists choose
+new topics, they prefer things directly related
+to their current expertise or that of their col-
+laborators. This densification suggests that the
+existing structure of science may constrain what
+will be studied in the future.
+Densification at the boundaries of science is
+also a signal of transdisciplinary exploration,
+fusion, and innovation. A life-cycle analysis of
+eight fields ( 10) shows that successful fields
+undergo a process of knowledge and social uni-
+fication that leads to a giant connected component
+in the collaboration network, corresponding to
+a sizeable group of regular coauthors. A model
+in which scientists choose their collaborators
+through random walks on the coauthorship net-
+work successfully reproduces author productivity,
+the number of authors per discipline, and the
+interdisciplinarity of papers and authors ( 11).
+Problem selection
+How do scientists decide which research prob-
+lems to work on? Sociologists of science have
+long hypothesized that these choices are shaped
+by an ongoing tension between productive tradi-
+tion and risky innovation (12, 13). Scientists who
+adhere to a research tradition in their domain
+often appear productive by publishing a steady
+stream of contributions that advance a focused
+research agenda. But a focused agenda may limit
+a researcher’s ability to sense and seize oppor-
+tunities for staking out new ideas that are re-
+quired to grow the field’s knowledge. For example,
+a case study focusing on biomedical scientists
+choosing novel chemicals and chemical relation-
+ships shows that as fields mature, researchers
+tend to focus increasingly on established knowl-
+edge (3). Although an innovative publication tends
+to result in higher impact than a conservative one,
+high-risk innovation strategies are rare, because
+the additional reward does not compensate for
+the risk of failure to publish at all. Scientific
+awards and accolades appear to function as
+primary incentives to resist conservative tend-
+encies and encourage betting on exploration
+and surprise (3). Despite the many factors shaping
+what scientists work on next, macroscopic pat-
+terns that govern changes in research interests
+along scientific careers are highly reproducible,
+documenting a high degree of regularity under-
+lying scientific research and individual careers (14).
+Scientists’ choice of research problems affects
+primarily their individual careers and the careers
+of those reliant on them. Scientists ’ collective
+choices, however, determine the direction of
+scientific discovery more broadly (Fig. 2). Con-
+servative strategies (15) serve individual careers
+well but are less effective for science as a whole.
+Such strategies are amplified by the file drawer
+problem ( 16): Negative results, at odds with
+established hypotheses, are rarely published,
+leading
+to a systemic bias in published research
+and the canonization of weak and sometimes
+false facts (17). More risky hypotheses may have
+been tested by generations of scientists, but only
+those successful enough to result in publications
+are known to us. One way to alleviate this con-
+servative trap is to urge funding agencies to pro-
+actively sponsor risky projects that test truly
+unexplored hypotheses and take on special in-
+terest groups advocating for particular diseases.
+Measurements show that the allocation of bio-
+medical resources in the United States is more
+strongly correlated to previous allocations and
+research than to the actual burden of diseases
+(18), highlighting a systemic misalignment be-
+tween biomedical needs and resources. This mis-
+alignment casts doubts on the degree to which
+funding agencies, often run by scientists embedded
+in established paradigms, are likely to influence
+the evolution of science without introducing
+additional oversight, incentives, and feedback.
+Novelty
+Analyses of publications and patents consistently
+reveal that rare combinations in scientific dis-
+coveries and inventions tend to garner higher
+citation rates ( 3). Interdisciplinary research is
+an emblematic recombinant process (19); hence,
+the successful combination of previously discon-
+nected ideas and resources that is fundamental
+to interdisciplinary research often violates expecta-
+tions and leads to novel ideas with high impact
+(20). Nevertheless, evidence from grant appli-
+cations shows that, when faced with new ideas,
+expert evaluators systematically give lower scores
+to truly novel (21–23)o ri n t e r d i s c i p l i n a r y(24)r e -
+search proposals.
+The highest-impact science is primarily grounded
+in conventional combinations of prior work, yet
+it simultaneously features unusual combinations
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 2o f7
+Fig. 2. Choosing experiments to accelerate collective discovery. (A) The average efficiency rate
+for global strategies to discover new, publishable chemical relationships, estimated from all
+MEDLINE-indexed articles published in 2010. This model does not take into account differences in
+the difficulty or expense of particular experiments. The efficiency of a global scientific strategy is
+expressed by the average number of experiments performed (vertical axis) relative to the number of
+new, published biochemical relationships (horizontal axis), which correspond to new connections
+in the published network of biochemicals co-occurring in MEDLINE-indexed articles. Compared
+strategies include randomly choosing pairs of biochemicals, the global ( “actual”) strategy inferred
+from all scientists publishing MEDLINE articles, and optimal strategies for discovering 50 and
+100% of the network. Lower values on the vertical axis indicate more efficient strategies, showing
+that the actual strategy of science is suboptimal for discovering what has been published. The
+actual strategy is best for uncovering 13% of the chemical network, and the 50% optimal strategy is
+most efficient for discovering 50% of it, but neither are as good as the 100% optimal strategy for
+revealing the whole network. ( B) The actual, estimated search process illustrated on a hypothetical
+network of chemical relationships, averaged from 500 simulated runs of that strategy. The strategy
+swarms around a few “important,” highly connected chemicals, whereas optimal strategies are much
+more even and less likely to “follow the crowd ” in their search across the space of scientific
+possibilities. [Adapted from ( 15)]
+RESEARCH | REVIEW
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 4 ===
+(25–27). Papers of this type are twice as likely to
+receive high citations ( 26). In other words, a
+balanced mixture of new and established ele-
+ments is the safest path toward successful re-
+ception of scientific advances.
+Career dynamics
+Individual academic careers unfold in the con-
+text of a vast market for knowledge production
+and consumption (28). Consequently, scientific
+careers have been examined not only in terms
+of individual incentives and marginal productivity
+(i.e., relative gain versus effort) ( 29), but also
+institutional incentives (30, 31)a n dc o m p e t i t i o n
+(32). This requires combining large repositories
+of high-resolution individual, geographic, and
+temporal metadata ( 33) to construct represen-
+tations of career trajectories that can be ana-
+lyzed from different perspectives. For example,
+one study finds that funding schemes that are
+tolerant of early failure, which reward long-term
+success, are more likely to generate high-impact
+publications than grants subject to short review
+cycles (31). Interacting systems with competing
+time scales are a classic problem in complex sys-
+tems science. The multifaceted nature of science
+is motivation for generative models that high-
+light unintended consequences of policies. For
+example, models of career growth show that non-
+tenure (short-term) contracts are responsible
+for productivity fluctuations, which often result
+in a sudden career death (29 ).
+Gender inequality in science remains preva-
+lent and problematic ( 34). Women have fewer
+publications (35–37) and collaborators (38)a n d
+less funding (39) ,a n dt h e ya r ep e n a l i z e di nh i r i n g
+decisions when compared with equally qualified
+men (40). The causes of these gaps are still un-
+clear. Intrinsic differences in productivity rates
+and career length can explain the differences
+in collaboration patterns ( 38) and hiring rates
+(35) between male and female scientists. On the
+other hand, experimental evidence shows that
+biases against women occur at very early career
+stages. When gender was randomly assigned
+among the curricula vitae of a pool of applicants,
+the hiring committee systematically penalized
+female candidates (40). Most studies so far have
+focused on relatively small samples. Improvements
+in compiling large-scale data sets on scientific
+careers, which leverage information from differ-
+ent sources (e.g., publication records, grant ap-
+plications, and awards), will help us gain deeper
+insight into the causes of inequality and motivate
+models that can inform policy solutions.
+Scientists’ mobility is another important factor
+offering diverse career opportunities. Most mo-
+bility studies have focused on quantifying the
+brain drain and gain of a country or a region
+(41, 42), especially after policy changes. Research
+on individual mobility and its career effect re-
+mains scant, however, primarily owing to the
+difficulty of obtaining longitudinal information
+about the movements of many scientists and
+accounts of the reasons underlying mobility de-
+cisions. Scientists who left their country of origin
+outperformed scientists who did not relocate,
+according to their citation scores, which may
+be rooted in a selection bias that offers better
+career opportunities to better scientists (43, 44).
+Moreover, scientists tend to move between in-
+stitutions of similar prestige (45).
+Nevertheless,
+when examining changes in impact associated
+with each move as quantified by citations, no
+systematic increase or decrease was found, not
+even when scientists moved to an institution of
+considerably higher or lower rank (46). In other
+words, it is not the institution that creates the
+impact; it is the individual researchers that make
+an institution.
+Another potentially important career factor
+is reputation —and the dilemma that it poses
+for manuscript review, proposal evaluation, and
+promotion decisions. The reputation of paper
+authors, measured by the total citations of their
+previous output, mark edly boosts the num-
+ber of citations collected by that paper in the
+first years after publication ( 47). After this
+initial phase, however, impact depends on the
+reception of the work by the scientific com-
+munity. This finding, along with the work re-
+ported in ( 46), suggests that, for productive
+scientific careers, reputation is less of a critical
+driver for success than talent, hard work, and
+relevance.
+A policy-relevant question is whether creativity
+and innovation depend on age or career stage.
+Decades of research on outstanding researchers
+and innovators concluded that major break-
+throughs take place relatively early in a career,
+with a median age of 35 (48). In contrast, recent
+work shows that this well-documented propen-
+sity of early-career discoveries is fully explained
+by productivity, which is high in the early stages
+of a scientist ’s career and drops later ( 49). In
+other words, there are no age patterns in in-
+novation: A scholar’sm o s tc i t e dp a p e rc a nb ea n y
+of his or her papers, independently of the age or
+career stage when it is published (Fig. 3). A
+stochastic model of impact evolution also indi-
+cates that breakthroughs result from a combina-
+tion of the ability of a scientist and the luck of
+picking a problem with high potential (49).
+T eam science
+During past decades, reliance on teamwork has
+increased, representing a fundamental shift in
+the way that science is done. A study of the
+authorship of 19.9 million research articles and
+2.1 million patents reveals a nearly universal
+shift toward teams in all branches of science
+(50) (Fig. 4). For example, in 1955, science and
+engineering teams authored about the same
+number of papers as single authors. Yet by 2013,
+the fraction of team-authored papers increased
+to 90% (51).
+Nowadays, a team-authored paper in science
+and engineering is 6.3 times more likely to re-
+ceive 1000 citations or more than a solo-authored
+paper, a difference that cannot be explained by
+self-citations (50, 52) .O n ep o s s i b l er e a s o ni sa
+team's ability to come up with more novel com-
+binations of ideas (26) or to produce resources
+that are later used by others (e.g., genomics).
+Measurements show that teams are 38% more
+likely than solo authors to insert novel combina-
+tions into familiar knowledge domains, support-
+ing the premise that teams can bring together
+different specialties, effectively combining knowl-
+edge to prompt scientific breakthroughs. Having
+more collaborations means greater visibility
+through a larger number of coauthors, who will
+likely introduce the work to their networks, an
+enhanced impact that may partially compensate
+for the fact that credit within a team must be
+shared with many colleagues (29).
+Work from large teams garners, on average,
+more citations across a wide variety of domains.
+Research suggests that small teams tend to dis-
+rupt science and technology with new ideas and
+opportunities, whereas large teams develop ex-
+isting ones ( 53). Thus, it may be important to
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 3o f7
+Fig. 3. Impact in scientific careers. (A) Publica-
+tion record of three Nobel laureates in physics.
+The horizontal axis indicates the number of years
+after a laureate’s first publication, each circle
+corresponds to a research paper , and the height
+o ft h ec i r c l er e p r e s e n t st h ep a p e r’si m p a c t ,
+quantified byc
+10, the number of citations
+after 10 years. The highest-impact paper of a
+laureate is denoted with an orange circle.
+(B) Histogram of the occurrence of the highest-
+impact paper in a scientist’ss e q u e n c eo f
+publications, calculated for 10,000 scientists. The
+flatness of the histogram indicates that the
+highest-impact work can be, with the same
+probability, anywhere in the sequence of papers
+published by a scientist (49).
+RESEARCH | REVIEW
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 5 ===
+fund and foster teams of all sizes to temper the
+bureaucratization of science ( 28).
+Teams are growing in size, increasing by an
+average of 17% per decade (50, 54), a trend under-
+lying a fundamental change in team composi-
+tions. Scientific teams include both small, stable
+“core” teams and large, dynamically changing
+extended teams ( 55). The increasing team size
+in most fields is driven by faster expansion of ex-
+tended teams, which begin as small core teams
+but subsequently attract new members through
+a process of cumulative advantage anchored by
+productivity. Size is a crucial determinant of team
+survival strategies: Small teams survive longer
+if they maintain a stable core, but larger teams
+persist longer if they manifest a mechanism for
+membership turnover ( 56).
+As science has accelerated and grown increas-
+ingly complex, the instruments required to ex-
+pand the frontier of knowledge have increased
+in scale and precision. The tools of the trade
+become unaffordable to most individual inves-
+tigators, but also to most institutions. Collabora-
+tion has been a critical solution, pooling resources
+to scientific advantage. The Large Hadron Collider
+at CERN, the world ’s largest and most power-
+ful particle collider, would have been unthink-
+able without collaboration, requiring more than
+10,000 scientists and engineers from more than
+100 countries. There is, however, a trade-off with
+increasing size that affects the value and risk
+associated with“big science” (2). Although it may
+be possible to solve larger problems, the burden
+of reproducibility may require duplicating initial
+efforts, which may not be practically or econom-
+ically feasible.
+Collaborators can have a large effect on scien-
+tific careers. According to recent studies (57, 58),
+scientists who lose their star collaborators ex-
+perience a substantial drop in their productivity,
+especially if the lost collaborator was a regular
+coauthor. Publications involving extremely strong
+collaborators gain 17% more citations on average,
+pointing to the value of career partnership (59).
+Given the increasing number of authors on
+the average research paper, who should and does
+gain the most credit? The canonical theory of
+credit (mis)allocation in science is the Matthew
+effect (60), in which scientists of higher statuses
+involved in joint work receive outsized credit for
+their contributions. Properly allocating individual
+credit for a collaborative work is difficult because
+we cannot easily distinguish individual contribu-
+tions (61). It is possible, however, to inspect the co-
+citation patterns of the coauthors’ publications to
+determine the fraction of credit that the commu-
+nity assigns to each coauthor in a publication (62).
+Citation dynamics
+Scholarly citation remains the dominant mea-
+surable unit of credit in science. Given the re-
+liance of most impact metrics on citations (63–66),
+the dynamics of citation accumulation have been
+scrutinized by generations of scholars. From foun-
+dational work by Price ( 67), we know that the
+distribution of citations for scientific papers is
+highly skewed: Many papers are never cited, but
+seminal papers can accumulate 10,000 or more
+citations. This uneven citation distribution is a
+robust, emergent property of the dynamics of
+science, and it holds when papers are grouped
+by institution (68). If the number of citations of
+a paper is divided by the average number of
+citations
+collected by papers in the same dis-
+cipline and year, the distribution of the result-
+ing score is essentially indistinguishable for all
+disciplines ( 69, 70) (Fig. 5A). This means that
+we can compare the impact of papers published
+in different disciplines by looking at their relative
+citation values. For example, a paper in mathe-
+matics collecting 100 citations represents a higher
+disciplinary impact than a paper in microbiol-
+ogy with 300 citations.
+The tail of the citation distribution, capturing
+the number of high-impact papers, sheds light
+on the mechanisms that drive the accumulation
+of citations. Recent analyses show that it follows
+a power law (71–73). Power-law tails can be gen-
+erated through a cumulative advantage process
+(74), known as preferential attachment in net-
+work science (75), suggesting that the probability
+of citing a paper grows with the number of cita-
+tions that it has already collected. Such a mod-
+el can be augmented with other characteristic
+features of citation dynamics, such as the obso-
+lescence of knowledge, decreasing the citation
+probability with the age of the paper ( 76–79),
+and a fitness parameter, unique to each paper,
+capturing the appeal of the work to the scientific
+community (77, 78). Only a tiny fraction of papers
+deviate from the pattern described by such a
+model—some of which are called“sleeping beau-
+ties,” because they receive very little notice for
+decades after publication and then suddenly re-
+ceive a burst of attention and citations (80, 81).
+The generative mechanisms described above
+can be used to predict the citation dynamics of
+individual papers. One predictive model (77)a s -
+sumes that the citation probability of a paper
+depends on the number of previous citations,
+an obsolescence factor, and a fitness parameter
+(Fig. 5, B and C). For a given paper, one can es-
+timate the three model parameters by fitting the
+model to the initial portion of the citation history
+of the paper. The long-term impact of the work
+can be extrapolated (77). Other studies have iden-
+tified predictors of the citation impact of indi-
+vidual papers (82), such as journal impact factor
+(72). It has been suggested that the futureh-index
+(83) of a scientist can be accurately predicted (84),
+although the predictive power is reduced when
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 4o f7
+Fig. 4. Size and impact of teams. Mean team size has been steadily growing over the past century.
+The red dashed curves represent the mean number of coauthors over all papers; the black curves
+consider just those papers receiving more citations than the average for the field. Black curves are
+systematically above the dashed red ones, meaning that high-impact work is more likely to be
+produced by large teams than by small ones. Each panel corresponds to one of the three main
+disciplinary groups of papers indexed in the WoS: ( A) science and engineering, ( B) social sciences,
+and ( C) arts and humanities.
+Box 1. Lessons from SciSci.
+1. Innovation and tradition: Left bare, truly innovative and highly interdisciplinary ideas may
+not reach maximum scientific impact. T o enhance their impact, novel ideas should be placed in
+the context of established knowledge ( 26).
+2. Persistence: A scientist is never too old to make a major discovery, as long as he or she
+stays productive ( 49).
+3. Collaboration: Research is shifting to teams, so engaging in collaboration is beneficial.
+Works by small teams tend to be more disruptive, whereas those by big teams tend to have
+more impact ( 4, 50, 53).
+4. Credit: Most credit will go to the coauthors with the most consistent track record in the
+domain of the publication ( 62).
+5. Funding: Although review panels acknowledge innovation, they ultimately tend to
+discount it. Funding agencies should ask reviewers to assess innovation, not only expected
+success ( 24).
+RESEARCH | REVIEW
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 6 ===
+accounting for the scientist ’s career stage and
+the cumulative, nondecreasing nature of the
+h-index (85). Eliminating inconsistencies in the
+use of quantitative evaluation metrics in science
+is crucial and highlights the importance of un-
+derstanding the generating mechanisms behind
+commonly used statistics.
+Outlook
+Despite the discovery of universals across science,
+substantial disciplinary differences in culture,
+habits, and preferences make some cross-domain
+insights difficult to appreciate within particular
+f i e l d sa n da s s o c i a t e dp o l i c i e sc h a l l e n g i n gt oi m -
+plement. The differences among the questions,
+data, and skills required by each discipline suggest
+that we may gain further insights from domain-
+specific SciSci studies that model and predict
+opportunities adapted to the needs of each field.
+For young scientists, the results of SciSci offer
+actionable insights about past patterns, helping
+guide future inquiry within their disciplines (Box 1).
+The contribution of SciSci is a detailed under-
+standing of the relational structure between
+scientists, institutions, and ideas, a crucial starting
+point that facilitates the identification of funda-
+mental generating processes. Together, these data-
+driven efforts complement contributions from
+related research domains such as the economics
+(30) and sociology of science ( 60, 86). Causal
+estimation is a prime example, in which econ-
+ometric matching techniques demand and lever-
+age comprehensive data sources in the effort to
+simulate counterfactual scenarios (31, 42). Assess-
+ing causality is one of the most needed future
+developments in SciSci: Many descriptive studies
+reveal strong associations between structure and
+outcomes, but the extent to which a specific struc-
+ture “causes” an outcome remains unexplored.
+Engaging in tighter partnerships with exper-
+imentalists, SciSci will be able to better identify
+associations discovered from models and large-
+scale data that have causal force to enrich their
+policy relevance. But experimenting on science
+may be the biggest challenge SciSci has yet to
+face. Running randomized, controlled trials that
+can alter outcomes for individuals or institutions
+of science, which are mostly supported by tax
+dollars, is bound to elicit criticisms and pushback
+(87). Hence, we expect quasi-experimental ap-
+proaches to prevail in SciSci investigations in
+the near future.
+Most SciSci research focuses on publications
+as primary data sources, implying that insights
+a n df i n d i n g sa r el i m i t e dt oi d e a ss u c c e s s f u le n o u g h
+to merit publication in the first place. Yet most
+scientific attempts fail, sometimes spectacularly.
+Given that scientists fail more often than they
+succeed, knowing when, why, and how an idea
+fails is essential in our attempts to understand
+and improve science. Such studies could provide
+meaningful guidance regarding the reproducibility
+crisis and help us account for the file drawer
+problem. They could also substantially further
+our understanding of human imagination by
+revealing the total pipeline of creative activity.
+Science often behaves like an economic sys-
+tem with a one-dimensional “currency” of cita-
+tion counts. This creates a hierarchical system,
+in which the “rich-get-richer” dynamics suppress
+the spread of new ideas, particularly those from
+junior scientists and those who do not fit within
+the paradigms supported by specific fields. Science
+can be improved by broadening the number
+and range of performance indicators. The develop-
+ment of alternative metrics covering web ( 88)
+and social media ( 89) activity and societal im-
+pact ( 90) is critical in this regard. Other mea-
+surable dimensions include the information (e.g.,
+data) that scientists share with competitors (91),
+the help that they offer to their peers ( 92), and
+their reliability as reviewers of their peers’ works
+(93).
+But with a profusion of metrics, more work
+is needed to understand what each of them does
+and does not capture to ensure meaningful in-
+terpretation and avoid misuse. SciSci can make
+an essential contribution by providing models
+that offer a deeper understanding of the mech-
+anisms that govern performance indicators in
+science. For instance, models of the empirical
+patterns observed when alternative indicators
+(e.g., distributions of paper downloads) are used
+will enable us to explore their relationship
+with citation-based metrics (94)a n dt or e c o g n i z e
+manipulations.
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 5o f7
+Fig. 5. Universality in citation dynamics. (A) The citation distributions of papers published in
+the same discipline and year lie on the same curve for most disciplines, if the raw number of citations
+c of each paper is divided by the average number of citations c0 over all papers in that discipline
+and year. The dashed line is a lognormal fit. [Adapted from ( 69)] ( B) Citation history of four papers
+published in Physical Review in 1964, selected for their distinct dynamics, displaying a “jump-decay”
+pattern (blue), experiencing a delayed peak (magenta), attracting a constant number of citations
+over time (green), or acquiring an increasing number of citations each year (red). ( C) Citations
+of an individual paper are determined by three parameters: fitness l
+i, immediacy mi, and longevity
+si. By rescaling the citation history of each paper in (B) by the appropriate ( l, m, s) parameters,
+the four papers collapse onto a single universal function, which is the same for all disciplines.
+[Adapted from ( 77)]
+RESEARCH | REVIEW
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 7 ===
+The integration of citation-based metrics with
+alternative indicators will promote pluralism
+and enable new dimensions of productive special-
+ization, in which scientists can be successful in
+different ways. Science is an ecosystem that re-
+quires not only publications, but also communi-
+cators, teachers, and detail-oriented experts. We
+need individuals who can ask novel, field-altering
+questions, as well as those who can answer them.
+It would benefit science if curiosity, creativity,
+and intellectual exchange—particularly regard-
+ing the societal implications and applications of
+science and technology—are better appreciated
+and incentivized in the future. A more pluralistic
+approach could reduce duplication and make
+science flourish for society ( 95).
+A ni s s u et h a tS c i S c is e e k st oa d d r e s si st h e
+allocation of science funding. The current peer
+review system is subject to biases and inconsisten-
+cies (96). Several alternatives have been proposed,
+such as the random distribution of funding (97),
+person-directed funding that does not involve
+proposal preparation and review ( 31), opening
+the proposal review process to the entire online
+population ( 98), removing human reviewers
+altogether by allocating funds through a per-
+formance measure ( 99), and scientist crowd-
+funding (100).
+A critical area of future research for SciSci
+concerns the integration of machine learning
+and artificial intelligence in a way that involves
+machines and minds working together. These
+new tools portend far-reaching implications
+for science because machines might broaden a
+scientist’s perspective more than human col-
+laborators. For instance, the self-driving vehi-
+cle is the result of a successful combination of
+known driving habits and information that
+was outside of human awareness, provided by
+sophisticated machine-learning techniques. Mind-
+machine partnerships have improved evidence-
+based decision-making in a wide range of health,
+economic, social, legal, and business problems
+(101–103). How can science be improved with
+mind-machine partnerships, and what arrange-
+ments are most productive? These questions
+promise to help us understand the science of
+the future.
+REFERENCES AND NOTES
+1. E. Garfield, Citation indexes for science; a new dimension
+in documentation through association of ideas. Science 122,
+108–111 (1955). doi: 10.1126/science.122.3159.108;
+pmid: 14385826
+2. D. J. S. Price, Little Science, Big Science (Columbia Univ.
+Press, 1963).
+3. J. G. Foster, A. Rzhetsky, J. A. Evans, Tradition and
+innovation in scientists’ research strategies.
+Am. Sociol. Rev. 80,8 7 5–908 (2015). doi: 10.1177/
+0003122415601618
+4. S. Milojević , Quantifying the cognitive extent of science.
+J. Informetr. 9, 962 –973 (2015). doi: 10.1016/
+j.joi.2015.10.005
+5. T. Kuhn, M. Perc, D. Helbing, Inheritance patterns in citation
+networks reveal scientific memes. Phys. Rev. X 4, 041036
+(2014). doi: 10.1103/PhysRevX.4.041036
+6. R. Klavans, K. W. Boyack, Which type of citation analysis
+generates the most accurate taxonomy of scientific and
+technical knowledge? J. Assoc. Inf. Sci. Technol. 68, 984–998
+(2016). doi: 10.1002/asi.23734
+7. U. Shwed, P. S. Bearman, The temporal structure of scientific
+consensus formation. Am. Sociol. Rev. 75, 817 –840 (2010).
+doi: 10.1177/0003122410388488; pmid: 21886269
+8. J. Bruggeman, V. A. Traag, J. Uitermark, Detecting
+communities through network data. Am. Sociol. Rev. 77,
+1050–1063 (2012). doi: 10.1177/0003122412463574
+9. F. Shi, J. G. Foster, J. A. Evans, Weaving the fabric of science:
+Dynamic network models of science ’s unfolding structure.
+Soc. Networks 43,7 3 –85 (2015). doi: 10.1016/
+j.socnet.2015.02.006
+10. L. M. A. Bettencourt, D. I. Kaiser, J. Kaur, Scientific discovery
+and topological transitions in collaboration networks.
+J. Informetr. 3, 210 –221 (2009). doi: 10.1016/
+j.joi.2009.03.001
+11. X. Sun, J. Kaur, S. Milojević , A. Flammini, F. Menczer,
+Social dynamics of science. Sci. Rep. 3, 1069 (2013).
+doi: 10 .1038/srep01069 ; pmid: 23323212
+12. T. S. Kuhn, The Essential Tension: Selected Studies in
+Scientific Tradition and Change (Univ. of Chicago Press, 1977).
+13. P. Bourdieu, The specificity of the scientific field and
+the social conditions of the progress of reasons.
+Soc. Sci. Inf. (Paris) 14,1 9 –47 (1975). doi: 10.1177/
+053901847501400602
+14. T. Jia, D. Wang, B. K. Szymanski, Quantifying patterns of
+research-interest evolution. Nat. Hum. Behav. 1, 0078 (2017).
+doi: 10.1038/s41562-017-0078
+15. A. Rzhetsky, J. G. Foster, I. T. Foster, J. A. Evans, Choosing
+experiments to accelerate collective discovery. Proc. Natl.
+Acad. Sci. U.S.A. 112, 14569–14574 (2015).
+doi: 10.1073/pnas.1509757112; pmid: 26554009
+16. R. Rosenthal, The file drawer problem and tolerance for null
+results. Psychol. Bull. 86, 638– 641 (1979). doi: 10.1037/
+0033-2909.86.3.638
+17. S. B. Nissen, T. Magidson, K. Gross, C. T. Bergstrom,
+Publication bias and the canonization of false facts. eLife 5,
+e21451 (2016). doi: 10.7554/eLife.21451; pmid: 27995896
+18. L. Yao, Y. Li, S. Ghosh, J. A. Evans, A. Rzhetsky, Health ROI as
+a measure of misalignment of biomedical needs and
+resources. Nat. Biotechnol. 33, 807–811 (2015). doi: 10.1038/
+nbt.3276; pmid: 26252133
+19. C. S. Wagner et al ., Approaches to understanding and
+measuring interdisciplinary scientific research (IDR): A review
+of the literature. J. Informetr. 5,1 4–26 (2011). doi: 10.1016/
+j.joi.2010.06.004
+20. V. Larivière, S. Haustein, K. Börner, Long-distance
+interdisciplinarity leads to higher scientific impact. PLOS ONE
+10, e0122565 (2015). doi: 10.1371/journal.pone.0122565;
+pmid: 25822658
+21. K. J. Boudreau, E. C. Guinan, K. R. Lakhani, C. Riedl, Looking
+across and looking beyond the knowledge frontier:
+Intellectual distance, novelty, and resource allocation in
+science. Manage. Sci. 62, 2765 –2783 (2016). doi: 10.1287/
+mnsc.2015.2285; pmid: 27746512
+22. E. Leahey, J. Moody, Sociological innovation through subfield
+integration. Soc. Currents 1,
+228 –256 (2014). doi: 10.1177/
+2329496514540131
+23. A. Yegros-Yegros, I. Rafols, P. D’ Este, Does interdisciplinary
+research lead to higher citation impact? The different
+effect of proximal and distal interdisciplinarity. PLOS ONE
+10, e0135095 (2015). doi: 10.1371/journal.pone.0135095;
+pmid: 26266805
+24. L. Bromham, R. Dinnage, X. Hua, Interdisciplinary research
+has consistently lower funding success. Nature 534,
+684–687 (2016). doi: 10.1038/nature18315; pmid: 27357795
+25. D. Kim, D. B. Cerigo, H. Jeong, H. Youn, Technological novelty
+profile and inventions future impact. EPJ Data Sci. 5,8
+(2016). doi: 10.1140/epjds/s13688-016-0069-1
+26. B. Uzzi, S. Mukherjee, M. Stringer, B. Jones, Atypical
+combinations and scientific impact. Science 342, 468– 472
+(2013). doi: 10.1126/science.1240474; pmid: 24159044
+27. J. Wang, R. Veugelers, P. Stephan, “Bias against novelty in
+science: A cautionary tale for users of bibliometric
+indicators” (NBER Working Paper No. 22180, National Bureau
+of Economic Research, 2016).
+28. J. P. Walsh, Y.-N. Lee, The bureaucratization of science. Res.
+Policy 44, 1584 –1600 (2015). doi: 10.1016/
+j.respol.2015.04.010
+29. A. M. Petersen, M. Riccaboni, H. E. Stanley, F. Pammolli,
+Persistence and uncertainty in the academic career.
+Proc. Natl. Acad. Sci. U.S.A. 109, 5213 –5218 (2012).
+doi: 10.1073/pnas.1121429109; pmid: 22431620
+30. P. E. Stephan, How Economics Shapes Science (Harvard Univ.
+Press, 2012).
+31. P. Azoulay, J. S. Graff Zivin, G. Manso, Incentives and
+creativity: Evidence from the academic life sciences.
+Rand J. Econ. 42, 527 –554 (2011). doi: 10.1111/
+j.1756-2171.2011.00140.x
+32. R. Freeman, E. Weinstein, E. Marincola, J. Rosenbaum,
+F. Solomon, Competition and careers in biosciences. Science
+294, 2293 –2294 (2001). doi: 10.1126/science.1067477;
+pmid: 11743184
+33. J. A. Evans, J. G. Foster, Metaknowledge. Science
+331, 721 –725
+(2011). doi: 10.1126/science.1201765;
+pmid: 21311014
+34. V. Larivière, C. Ni, Y. Gingras, B. Cronin, C. R. Sugimoto,
+Bibliometrics: Global gend er disparities in science.
+Nature 504,2 1 1–213 (2013). doi: 10.1038/504211a ;
+pmid: 24350369
+35. S. F. Way, D. B. Larremore, A. Clauset, in Proceedings of
+the 25th International Conference on World Wide Web
+(WWW ‘16) (ACM, 2016), pp. 1169 –1179.
+36. J. Duch et al., The possible role of resource requirements and
+academic career-choice risk on gender differences in
+publication rate and impact. PLOS ONE 7, e51332 (2012).
+doi: 10.1371/journal.pone.0051332; pmid: 23251502
+37. J. D. West, J. Jacquet, M. M. King, S. J. Correll, C. T. Bergstrom,
+The role of gender in scholarly authorship. PLOS ONE 8,
+e66212 (2013). doi: 10.1371/journal.pone.0066212;
+pmid: 23894278
+38. X. H. T. Zeng et al ., Differences in collaboration patterns
+across discipline, career stage, and gender. PLOS Biol.
+14, e1002573 (2016). doi: 10.1371/journal.pbio.1002573;
+pmid: 27814355
+39. T. J. Ley, B. H. Hamilton, The gender gap in NIH grant
+applications. Science 322, 1472–1474 (2008). doi: 10.1126/
+science.1165878; pmid: 19056961
+40. C. A. Moss-Racusin, J. F. Dovidio, V. L. Brescoll, M. J. Graham,
+J. Handelsman, Science faculty’s subtle gender biases favor
+male students. Proc. Natl. Acad. Sci. U.S.A. 109,1 6 4 7 4–16479
+(2012). doi: 10.1073/pnas.1211286109; pmid: 22988126
+41. R. Van Noorden, Global mobility: Science on the move.
+Nature 490, 326 –329 (2012). doi: 10.1038/490326a;
+pmid: 23075963
+42. O. A. Doria Arrieta, F. Pammolli, A. M. Petersen, Quantifying
+the negative impact of brain drain on the integration of
+European science. Sci. Adv. 3, e1602232 (2017). doi: 10.1126/
+sciadv
+.1602232; pmid: 28439544
+43. C. Franzoni, G. Scellato, P. Stephan, The mover’ s advantage:
+The superior performance of migrant scientists. Econ. Lett.
+122,8 9 –93 (2014). doi: 10.1016/j.econlet.2013.10.040
+44. C. R. Sugimoto et al ., Scientists have most impact when
+they’re free to move. Nature 550,2 9 –31 (2017).
+doi: 10.1038/550029a; pmid: 28980663
+45. A. Clauset, S. Arbesman, D. B. Larremore, Systematic
+inequality and hierarchy in faculty hiring networks. Sci. Adv.
+1, e1400005 (2015). doi: 10.1126/sciadv.1400005;
+pmid: 26601125
+46. P. Deville et al ., Career on the move: Geography,
+stratification, and scientific impact. Sci. Rep. 4,4 7 7 0
+(2014). pmid: 24759743
+47. A. M. Petersen et al ., Reputation and impact in academic
+careers. Proc. Natl. Acad. Sci. U.S.A. 111, 15316– 15321
+(2014). doi: 10.1073/pnas.1323111111;p m i d :25288774
+48. D. K. Simonton, Creative productivity: A predictive and
+explanatory model of career trajectories and landmarks.
+Psychol. Rev. 104,6 6 –89 (1997). doi: 10.1037/
+0033-295X.104.1.66
+49. R. Sinatra, D. Wang, P. Deville, C. Song, A.-L. Barabási,
+Quantifying the evolution of individual scientific impact.
+Science 354, aaf5239 (2016). doi: 10.1126/science.aaf5239;
+pmid: 27811240
+50. S. Wuchty, B. F. Jones, B. Uzzi, The increasing dominance
+of teams in production of knowledge. Science 316,
+1036–1039 (2007). doi: 10.1126/science.1136099 ;
+pmid: 17431139
+51. N. J. Cooke, M. L. Hilton, Eds., Enhancing the Effectiveness of
+Team Science (National Academies Press, 2015).
+52. V. Larivière, Y. Gingras, C. R. Sugimoto, A. Tsou, Team size
+matters: Collaboration and scientific impact since 1900.
+J. Assoc. Inf. Sci. Technol. 66, 1323 –1332 (2015).
+doi: 10
+.1002/asi.23266
+53. L. Wu, D. Wang, J. A. Evans, Large teams have developed
+science and technology; small teams have disrupted it.
+arXiv:1709.02445 [physics.soc-ph] (7 September 2017).
+54. B. F. Jones, The burden of knowledge and the “death
+of the renaissance man ”: Is innovation getting harder?
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 6o f7
+RESEARCH | REVIEW
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 8 ===
+Rev. Econ. Stud. 76, 283 –317 (2009). doi: 10.1111/
+j.1467-937X.2008.00531.x
+55. S. Milojević , Principles of scientific research team formation
+and evolution. Proc. Natl. Acad. Sci. U.S.A. 111, 3984– 3989
+(2014). doi: 10.1073/pnas.1309723111; pmid: 24591626
+56. G. Palla, A.-L. Barabási, T. Vicsek, Quantifying social group
+evolution. Nature 446, 664– 667 (2007). doi: 10.1038/
+nature05670; pmid: 17410175
+57. G. J. Borjas, K. B. Doran, Which peers matter? The relative
+impacts of collaborators, colleagues, and competitors.
+Rev. Econ. Stat. 97, 1104– 1117 (2015). doi: 10.1162/
+REST_a_00472
+58. P. Azoulay, J. G. Zivin, J. Wang, Superstar extinction. Q. J. Econ.
+125,5 4 9–589 (2010). doi: 10.1162/qjec.2010.125.2.549
+59. A. M. Petersen, Quantifying the impact of weak, strong, and
+super ties in scientific careers. Proc. Natl. Acad. Sci. U.S.A.
+112, E4671 –E4680 (2015). doi: 10.1073/pnas.1501444112;
+pmid: 26261301
+60. R. K. Merton, The Matthew effect in science. Science 159,
+56–63 (1968). doi: 10.1126/science.159.3810.56
+61. L. Allen, J. Scott, A. Brand, M. Hlava, M. Altman, Publishing:
+Credit where credit is due. Nature 508, 312 –313 (2014).
+doi: 10.1038/508312a; pmid: 24745070
+62. H.-W. Shen, A.-L. Barabási, Collective credit allocation in
+science. Proc. Natl. Acad. Sci. U.S.A. 111, 12325 –12330
+(2014). doi: 10.1073/pnas.1401992111; pmid: 25114238
+63. L. Waltman, A review of the literature on citation impact
+indicators. J. Informetr. 10, 365 –391 (2016). doi: 10.1016/
+j.joi.2016.02.007
+64. J. E. Hirsch, An index to quantify an individual ’s scientific
+research output. Proc. Natl. Acad. Sci. U.S.A. 102,
+16569–16572
+(2005). doi: 10.1073/pnas.0507655102;
+pmid: 16275915
+65. H. F. Moed, Citation Analysis in Research Evaluation(Springer, 2010).
+66. E. Garfield, Citation analysis as a tool in journal evaluation.
+Science 178, 471 –479 (1972). doi: 10.1126/
+science.178.4060.471; pmid: 5079701
+67. D. J. de Solla Price, Networks of scientific papers. Science
+149, 510 –515 (1965). doi: 10.1126/science.149.3683.510;
+pmid: 14325149
+68. Q. Zhang, N. Perra, B. Gonçalves, F. Ciulla, A. Vespignani,
+Characterizing scientific production and consumption in
+physics. Sci. Rep. 3, 1640 (2013). doi: 10.1038/srep01640;
+pmid: 23571320
+69. F. Radicchi, S. Fortunato, C. Castellano, Universality of
+citation distributions: Toward an objective measure of
+scientific impact. Proc. Natl. Acad. Sci. U.S.A. 105,
+17268–17272 (2008). doi: 10.1073/pnas.0806977105;
+pmid: 18978030
+70. L. Waltman, N. J. van Eck, A. F. J. van Raan, Universality
+of citation distributions revisited. J. Assoc. Inf. Sci. Technol.
+63,7 2 –77 (2012). doi: 10.1002/asi.21671
+71. M. Golosovsky, S. Solomon, Runaway events dominate the
+heavy tail of citation distributions. Eur. Phys. J. Spec. Top.
+205, 303 –311 (2012). doi: 10.1140/epjst/e2012-01576-4
+72. C. Stegehuis, N. Litvak, L. Waltman, Predicting the long-term
+citation impact of recent publications. J. Informetr. 9,
+642–657 (2015). doi: 10.1016/j.joi.2015.06.005
+73. M. Thelwall, The discretised lognormal and hooked power law
+distributions for complete citation data: Best options for
+modelling and regression. J. Informetr. 10, 336 –346 (2016).
+doi: 10.1016/j.joi.2015.12.007
+74. D. de Solla Price, A general theory of bibliometric and other
+cumulative advantage processes. J. Am. Soc. Inf. Sci. 27,
+292–306 (1976). doi: 10.1002/asi.4630270505
+75. A.-L. Barabási, R. Albert, Emergence of scaling in random
+networks. Science 286,
+ 509–512 (1999). doi: 10.1126/
+science.286.5439.509; pmid: 10521342
+76. P. D. B. Parolo et al., Attention decay in science. J. Informetr.
+9, 734 –745 (2015). doi: 10.1016/j.joi.2015.07.006
+77. D. Wang, C. Song, A.-L. Barabási, Quantifying long-term
+scientific impact. Science 342, 127–132 (2013). doi: 10.1126/
+science.1237825; pmid: 24092745
+78. Y.-H. Eom, S. Fortunato, Characterizing and modeling
+citation dynamics. PLOS ONE 6, e24926 (2011). doi: 10.1371/
+journal.pone.0024926; pmid: 21966387
+79. M. Golosovsky, S. Solomon, Stochastic dynamical model of a
+growing citation network based on a self-exciting point
+process. Phys. Rev. Lett. 109, 098701 (2012). doi: 10.1103/
+PhysRevLett.109.098701; pmid: 23002894
+80. A. F. J. van Raan, Sleeping Beauties in science.
+Scientometrics 59, 467 –472 (2004). doi: 10.1023/B:
+SCIE.0000018543.82441.f1
+81. Q. Ke, E. Ferrara, F. Radicchi, A. Flammini, Defining and
+identifying Sleeping Beauties in science. Proc. Natl. Acad.
+Sci. U.S.A. 112, 7426 –7431 (2015). doi: 10.1073/
+pnas.1424329112; pmid: 26015563
+82. I. Tahamtan, A. Safipour Afshar, K. Ahamdzadeh, Factors
+affecting number of citations: A comprehensive review of the
+literature. Scientometrics 107, 1195 –1225 (2016).
+doi: 10.1007/s11192-016-1889-2
+83. J. E. Hirsch, Does the h index have predictive power?
+Proc. Natl. Acad. Sci. U.S.A. 104, 19193 –19198 (2007).
+doi: 10.1073/pnas.0707962104; pmid: 18040045
+84. D. E. Acuna, S. Allesina, K. P. Kording, Future impact:
+Predicting scientific success. Nature 489, 201 –202 (2012).
+doi: 10.1038/489201a; pmid: 22972278
+85. O. Penner, R. K. Pan, A. M. Petersen, K. Kaski, S. Fortunato,
+O
+n the predictability of future impact in science.
+Sci. Rep. 3,3 0 5 2( 2 0 1 3 ) .d o i :10.1038/srep03052 ;
+pmid: 24165898
+86. J. R. Cole, H. Zuckerman, in The Idea of Social Structure:
+Papers in Honor of Robert K. Merton , L. A. Coser, Ed.
+(Harcourt Brace Jovanovich, 1975), pp. 139 –174.
+87. P. Azoulay, Research efficiency: Turn the scientific method on
+ourselves. Nature 484,3 1 –32 (2012). doi: 10.1038/484031a;
+pmid: 22481340
+88. M. Thelwall, K. Kousha, Web indicators for research
+evaluation. Part 1: Citations and links to academic articles
+from the Web. Prof. Inf. 24, 587 –606 (2015). doi: 10.3145/
+epi.2015.sep.08
+89. M. Thelwall, K. Kousha, Web indicators for research
+evaluation. Part 2: Social media metrics. Prof. Inf. 24,
+607–620 (2015). doi: 10.3145/epi.2015.sep.09
+90. L. Bornmann, What is societal impact of research and how
+can it be assessed? A literature survey. Adv. Inf. Sci. 64,
+217–233 (2013).
+91. C. Haeussler, L. Jiang, J. Thursby, M. Thursby, Specific and
+general information sharing among competing academic
+researchers. Res. Policy 43, 465 –475 (2014). doi: 10.1016/
+j.respol.2013.08.017
+92. A. Oettl, Sociology: Honour the helpful. Nature 489, 496–497
+(2012). doi: 10.1038/489496a; pmid: 23018949
+93. S. Ravindran, “Getting credit for peer review, ” Science,8
+February 2016; www.sciencemag.org/careers/2016/02/
+getting-credit-peer-review.
+94. R. Costas, Z. Zahedi, P. Wouters, Do “altmetrics” correlate
+with citations? Extensive comparison of altmetric
+indicators with citations from a multidisciplinary perspective.
+J. Assoc. Inf. Sci. Technol. 66, 2003 –2019 (2015).
+doi: 10.1002/asi.23309
+95. A. Clauset, D. B. Larremore, R. Sinatra, Data-driven
+predictions in the science of science. Science 355, 477 –480
+(2017).
+doi: 10.1126/science.aal4217
+96. S. Wessely, Peer review of grant applications: What
+do we know? Lancet 352, 301 –305 (1998). doi: 10.1016/
+S0140-6736(97)11129-1; pmid: 9690424
+97. N. Geard, J. Noble, paper presented at the 3rd World
+Congress on Social Simulation, Kassel, Germany, 6 to 9
+September 2010.
+98. Calm in a crisis. Nature 468, 1002 (2010). doi: 10.1038/
+4681002a; pmid: 21170024
+99. R. Roy, Funding science: The real defects of peer review and
+an alternative to it. Sci. Technol. Human Values 10,7 3 –81
+(1985). doi: 10.1177/016224398501000309
+100. J. Bollen, D. Crandall, D. Junk, Y. Ding, K. Börner, An efficient
+system to fund science: From proposal review to peer-to-
+peer distributions. Scientometrics 110, 521 –528 (2017).
+doi: 10.1007/s11192-016-2110-3
+101. M. S. Kohn et al., IBM ’s health analytics and clinical decision
+support. Yearb. Med. Inform. 9, 154 –162 (2014).
+doi: 10.15265/IY-2014-0002; pmid: 25123736
+102. J. Kleinberg, H. Lakkaraju, J. Leskovec, J. Ludwig,
+S. Mullainathan, “Human decisions and machine predictions ”
+(National Bureau of Economic Research, 2017).
+103. B. Liu, R. Govindan, B. Uzzi, Do emotions expressed
+online correlate with actual changes in decision-making?:
+The case of stock day traders. PLOS ONE 11,
+e0144945 (2016). doi: 10.1371/journal.pone.0144945;
+pmid: 26765539
+ACKNOWLEDGMENTS
+This work was supported by Air Force Office of Scientific
+Research grants FA9550-15-1-00 77 (A.-L.B., R.S., and A.V.),
+FA9550-15-1-0364 (A.-L.B. and R.S.), FA9550-15-1-0162
+(J.A.E. and D.W.), and FA9550-17-1-0089 (D.W.); National
+Science Foundation grants NCSE 1538763, EAGER 1566393,
+and NCN CP supplement 1553044 (K.B.) and SBE1158803 (J.A.E.);
+National Institutes of Health awards P01 AG039347 and
+U01CA198934 (K.B.) and IIS-0910664 (B.U.); Army Research
+Office grant W911NF-15-1-0577 and Northwestern University
+Institute on Complex Systems (B.U.); DARPA (Defense
+Advanced Research Projects Agency) Big Mechanism program
+grant 14145043 and the John Templeton Foundation ’s
+grant to the Metaknowledge Network (J.A.E.); Intellectual
+Themes Initiative “Just Data ” project (R.S.); and European
+Commission H2020 FETPROACT-GSS CIMPLEX grant
+641191 (R.S. and A.-L.B.). Any opinions, findings,
+and conclusions or recommendations expressed in this
+material are those of the authors and do not necessarily
+reflect the views of our funders.
+10.1126/science.aao0185
+Fortunato et al., Science 359, eaao0185 (2018) 2 March 2018 7o f7
+RESEARCH | REVIEW
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
+
+=== PAGE 9 ===
+Science of science
+Barabási
+Filippo Radicchi, Roberta Sinatra, Brian Uzzi, Alessandro Vespignani, Ludo Waltman, Dashun Wang and Albert-László 
+Santo Fortunato, Carl T. Bergstrom, Katy Börner, James A. Evans, Dirk Helbing, Stasa Milojevic, Alexander M. Petersen,
+DOI: 10.1126/science.aao0185
+ (6379), eaao0185.359Science 
+, this issue p. eaao0185Science
+succeed and enhance the prospects of science as a whole.
+precursors of impactful science, it will be possible to develop systems and policies that improve each scientist's ability to 
+ explain that the underlying rationale is that with a deeper understanding of theet al.within a field. In a Review, Fortunato 
+from the choice of a research problem to career trajectories and progress−−mechanisms underlying the doing of science
+ The science of science (SciSci) is based on a transdisciplinary approach that uses large data sets to study the
+The whys and wherefores of SciSci
+ARTICLE TOOLS http://science.sciencemag.org/content/359/6379/eaao0185
+REFERENCES
+http://science.sciencemag.org/content/359/6379/eaao0185#BIBL
+This article cites 91 articles, 25 of which you can access for free
+PERMISSIONS http://www.sciencemag.org/help/reprints-and-permissions
+Terms of ServiceUse of this article is subject to the 
+ is a registered trademark of AAAS.Science
+licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. The title 
+Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive 
+(print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement ofScience 
+on March 1, 2018 http://science.sciencemag.org/Downloaded from 
