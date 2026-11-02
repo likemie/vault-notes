@@ -1649,6 +1649,7 @@
     "Barabási (1999)": "Barabási, 1999",
     "Barabási (2002)": "Barabási, 2002",
     "Barabási (2005)": "Barabási, 2005",
+    "Barabási (2013)": "Barabási, 2013",
     "Barabási et al. (2002)": "Barabási et al., 2002",
     "Barabási et al. (2012)": "Barabási et al., 2012",
     "Barabási et al., 2002": "Barabási et al., 2002",
@@ -1656,6 +1657,7 @@
     "Barabási, 1999": "Barabási, 1999",
     "Barabási, 2002": "Barabási, 2002",
     "Barabási, 2005": "Barabási, 2005",
+    "Barabási, 2013": "Barabási, 2013",
     "Baram-Tsabari & Segev (2018)": "Baram-Tsabari & Segev, 2018",
     "Baram-Tsabari & Segev, 2018": "Baram-Tsabari & Segev, 2018",
     "Baranik et al. (2010)": "Baranik et al., 2010",
@@ -7905,6 +7907,8 @@
     "Forsetlund et al., 2003": "Forsetlund et al., 2003",
     "Fortescue (1986)": "Fortescue, 1986",
     "Fortescue, 1986": "Fortescue, 1986",
+    "Fortunato & Barthélemy (2007)": "Fortunato & Barthélemy, 2007",
+    "Fortunato & Barthélemy, 2007": "Fortunato & Barthélemy, 2007",
     "Fortunato et al. (2014)": "Fortunato et al., 2014",
     "Fortunato et al. (2018)": "Fortunato et al., 2018",
     "Fortunato et al., 2014": "Fortunato et al., 2014",
@@ -17245,6 +17249,7 @@
     "Newman (2004a)": "Newman, 2004a",
     "Newman (2004b)": "Newman, 2004b",
     "Newman (2005)": "Newman, 2005",
+    "Newman (2006)": "Newman, 2006",
     "Newman (2009)": "Newman, 2009",
     "Newman (2025)": "Newman, 2025",
     "Newman et al. (2010)": "Newman et al., 2010",
@@ -17258,6 +17263,7 @@
     "Newman, 2004a": "Newman, 2004b",
     "Newman, 2004b": "Newman, 2004b",
     "Newman, 2005": "Newman, 2005",
+    "Newman, 2006": "Newman, 2006",
     "Newman, 2009": "Newman, 2009",
     "Newman, 2025": "Newman, 2025",
     "Newton (1994)": "Newton, 1994",
@@ -18461,6 +18467,8 @@
     "Peng et al., 2023": "Peng et al., 2023",
     "Pennequin (2010)": "Pennequin, 2010",
     "Pennequin, 2010": "Pennequin, 2010",
+    "Penner et al. (2013)": "Penner et al., 2013",
+    "Penner et al., 2013": "Penner et al., 2013",
     "Penney (2002)": "Penney, 2002",
     "Penney, 2002": "Penney, 2002",
     "Penny & Coe (2004)": "Penny & Coe, 2004",
@@ -27040,6 +27048,8 @@
     "石中英, 2017": "石中英, 2017",
     "社论 (1916)": "社论, 1916",
     "社论, 1916": "社论, 1916",
+    "福图纳托等 (2018)": "福图纳托等, 2018",
+    "福图纳托等, 2018": "福图纳托等, 2018",
     "福瑞与伦德瓦尔 (1996)": "福瑞与伦德瓦尔, 1996",
     "福瑞与伦德瓦尔, 1996": "福瑞与伦德瓦尔, 1996",
     "科塞勒克 (2006)": "科塞勒克, 2006",
@@ -39273,6 +39283,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+      ],
+      "title": ""
+    },
+    "Barabási, 2013": {
+      "aliases": [
+        "Barabási, 2013",
+        "Barabási (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barabási, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Chaoming Song.md"
       ],
       "title": ""
     },
@@ -84948,6 +84973,21 @@
       ],
       "title": ""
     },
+    "Fortunato & Barthélemy, 2007": {
+      "aliases": [
+        "Fortunato & Barthélemy, 2007",
+        "Fortunato & Barthélemy (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fortunato & Barthélemy, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md"
+      ],
+      "title": ""
+    },
     "Fortunato et al., 2014": {
       "aliases": [
         "Fortunato et al., 2014",
@@ -84976,6 +85016,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md",
         "wiki/persons/us/Derek de Solla Price.md"
       ],
       "title": ""
@@ -152647,6 +152688,21 @@
       ],
       "title": ""
     },
+    "Newman, 2006": {
+      "aliases": [
+        "Newman, 2006",
+        "Newman (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Newman, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md"
+      ],
+      "title": ""
+    },
     "Newman, 2009": {
       "aliases": [
         "Newman, 2009",
@@ -161514,6 +161570,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Metacognition and low achievement in mathematics  The effect of training in the use of metacognitive skills to solve mathematical word problems"
+    },
+    "Penner et al., 2013": {
+      "aliases": [
+        "Penner et al., 2013",
+        "Penner et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Penner et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Chaoming Song.md"
+      ],
+      "title": ""
     },
     "Penney, 2002": {
       "aliases": [
@@ -207567,6 +207638,7 @@
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Citation Prediction Envelope.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
+        "wiki/persons/us/Chaoming Song.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],
       "title": "Quantifying Long-Term Scientific Impact"
@@ -223363,6 +223435,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/1904 Educational System.md"
+      ],
+      "title": ""
+    },
+    "福图纳托等, 2018": {
+      "aliases": [
+        "福图纳托等, 2018",
+        "福图纳托等 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "福图纳托等, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md"
       ],
       "title": ""
     },

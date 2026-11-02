@@ -7248,6 +7248,14 @@
       ],
       "title": ""
     },
+    "Barabási, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Chaoming Song.md"
+      ],
+      "title": ""
+    },
     "Baram-Tsabari & Segev, 2018": {
       "doi": "",
       "isbn": "",
@@ -34763,6 +34771,14 @@
       ],
       "title": ""
     },
+    "Fortunato & Barthélemy, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md"
+      ],
+      "title": ""
+    },
     "Fortunato et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -34777,6 +34793,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md",
         "wiki/persons/us/Derek de Solla Price.md"
       ],
       "title": ""
@@ -75838,6 +75855,14 @@
       ],
       "title": ""
     },
+    "Newman, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md"
+      ],
+      "title": ""
+    },
     "Newman, 2009": {
       "doi": "",
       "isbn": "",
@@ -81190,6 +81215,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Metacognition and low achievement in mathematics  The effect of training in the use of metacognitive skills to solve mathematical word problems"
+    },
+    "Penner et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Chaoming Song.md"
+      ],
+      "title": ""
     },
     "Penney, 2002": {
       "datasets": [
@@ -109072,6 +109105,7 @@
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Citation Prediction Envelope.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
+        "wiki/persons/us/Chaoming Song.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],
       "title": "Quantifying Long-Term Scientific Impact"
@@ -118562,6 +118596,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/1904 Educational System.md"
+      ],
+      "title": ""
+    },
+    "福图纳托等, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Santo Fortunato.md"
       ],
       "title": ""
     },

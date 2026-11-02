@@ -10,7 +10,7 @@ aliases:
 summary: "由 Dashun Wang、Chaoming Song 与 Albert-László Barabási (2013) 提出的单篇文献引文动力学最小模型；系统整合文献指数增长、优先连接、内生适应度与对数正态衰老，推导出累积被引轨迹的封闭解析解与跨学科普适主曲线，证明成果长程终极影响仅由相对适应度支配（Wang & Barabási, 2021）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Chaoming Song]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
@@ -85,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Dashun Wang|王大顺]]（Dashun Wang）、宋朝鸣（Chaoming Song）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）于 2013 年在 Science 发表研究 *Quantifying Long-Term Scientific Impact*，正式确立单篇成果引文动力学最小模型（WSB 模型）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]
+> - **提出者与原始文本** [[Dashun Wang|王大顺]]（Dashun Wang）、[[Chaoming Song|宋超明（Chaoming Song）]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）于 2013 年在 Science 发表研究 *Quantifying Long-Term Scientific Impact*，正式确立单篇成果引文动力学最小模型（WSB 模型）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]
 > - **原初问题** 科学界普遍使用短期被引指标（如两年期[[Journal Impact Factor|期刊影响因子]]）评估成果价值，但个体成果的引文轨迹极其复杂分散；研究者面临的核心难题在于，能否超越宏观稳态引文分布统计，构建能够准确刻画并预测任意单篇文献全周期引文轨迹的微观生成模型。
 > - **理论资源与材料** 理论吸收了普赖斯的优先连接理论、边康尼-巴拉巴西的网络适应度模型，以及信息计量学关于文献老化的经验观测。实证分析基于《物理评论》（Physical Review）自 1893 年创刊以来的百年全量引文网络大数据，以及涵盖自然科学各领域的跨学科期刊数据库。
 > - **形成路径** 研究团队识别出驱动成果获引的四个基本机制：系统文献指数扩张、基于存量的优先连接、反映内生学术质量的适应度，以及由对数正态衰老概率支配的注意力衰减。将四大机制整合进连续时间主方程并求出解析解，推导出三参数引文轨迹公式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]

@@ -11,9 +11,9 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 31
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"
@@ -61,6 +61,8 @@ related_persons:
   - "[[Paul Erdős]]"
   - "[[Derek de Solla Price]]"
   - "[[John P. Perdew]]"
+  - "[[Santo Fortunato]]"
+  - "[[Chaoming Song]]"
 related_facts:
   - "[[Web of Science]]"
 related_arguments: []
@@ -264,7 +266,7 @@ updated: 2026-11-02
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_20-1_Citation_Histories_Individual_Papers.jpg)
 
 > [!theory-components] 决定成果引用的四大核心机制：规模扩张、富者愈富、内在质量与自然衰老
-> 面对《物理评论》抽样的 200 篇论著完全不重合的年度被引历史（图 20-1），模型提取出四项基础物理要素 (Wang et al., 2013; pp. 210–211)：
+> 面对《物理评论》抽样的 200 篇论著完全不重合的年度被引历史（图 20-1），[[Dashun Wang|王大顺]]、[[Chaoming Song|宋超明（Chaoming Song）]]与[[Albert-László Barabási|阿尔伯特-拉斯洛·巴拉巴西]]（Wang et al., 2013; pp. 210–211）提取出四项基础物理要素：
 > - **科学系统的指数级扩张**
 >   新引文的产生依赖新发表成果的源源不断注入，系统文献总规模呈指数增长 $N(t) \sim e^{\beta t}$ (p. 210)。
 > - **基于被引存量的优先连接**
@@ -398,7 +400,7 @@ updated: 2026-11-02
 > [!theory-components] 富者愈富的初始吸引力假说与经验门槛检验
 > 普赖斯模型假设文献获取新引文的速率与其累积被引线性正比：$\Pi(k) \propto k$。然而当一篇新论著刚刚发表时，其被引频次为零（$c_i = 0$），若严格按照纯优先连接机制，该论著将永远无法获得首次引用 (Price, 1976; pp. 257–258)：
 > - **初始吸引力理论假说** 德里克·德索拉·普赖斯（Derek J. de Solla Price）(Price, 1976) 提出每篇文献发表时均自带常数[[Initial Attractiveness|初始吸引力]] $c_0$，使零被引文献亦有初始几率获得首次引用 (pp. 257–258)。
-> - **严希范与福图纳托的经验门槛检验** 严希范（Young-Ho Eom）与桑托·福图纳托（Santo Fortunato）(Eom & Fortunato, 2011) 实证检验发现，累积被引与获引速率之间存在鲜明的分段机制：当成果累积被引低于门槛值 $c_0 \approx 7$ 时，成果获引几率主要由 $c_0$ 支配，富者愈富的优先连接机制尚未开启；只有当成果累积被引跨越 7 次这一临界门槛后，优先连接的正反馈才全面启动，获引速率严格线性正比于累积被引（图 A2-1）(pp. 258–259)。
+> - **严希范与福图纳托的经验门槛检验** 严希范（Young-Ho Eom）与[[Santo Fortunato|桑托·福图纳托（Santo Fortunato）]](Eom & Fortunato, 2011) 实证检验发现，累积被引与获引速率之间存在鲜明的分段机制：当成果累积被引低于门槛值 $c_0 \approx 7$ 时，成果获引几率主要由 $c_0$ 支配，富者愈富的优先连接机制尚未开启；只有当成果累积被引跨越 7 次这一临界门槛后，优先连接的正反馈才全面启动，获引速率严格线性正比于累积被引（图 A2-1）(pp. 258–259)。
 
 > [!formula] 普赖斯修正优先连接概率方程与稳态幂律指数
 > 引入初始吸引力参数 $c_0$ 后，新成果引用既有成果 $i$ 的微观连接概率修正为 (Price, 1976; p. 258, 式 A2.2)：
