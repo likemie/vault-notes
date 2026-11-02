@@ -9013,6 +9013,19 @@
     ]
   },
   {
+    "title": "Algorithmic Bias",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Algorithmic Bias.md",
+    "aliases": [
+      "算法偏倚",
+      "算法偏见",
+      "算法偏差",
+      "算法歧视",
+      "Algorithmic Fairness",
+      "Bias in AI"
+    ]
+  },
+  {
     "title": "Blackstone's Ratio",
     "type": "concept",
     "path": "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md",
