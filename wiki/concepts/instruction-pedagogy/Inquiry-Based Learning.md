@@ -99,7 +99,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Inquiry-Based Learning
-> 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
+> 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]，有别于将预制结论直接交付学生。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调学习者在情境化调查中作为[[Knowledge Building Theory|知识建构]]者的[[Epistemic Agency\|认识能动性]]（Epistemic Agency），通过经验证据检验概念模型，推动深度概念重构与概念转变。
@@ -170,7 +170,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜探究与直接指导的非线性时序整合构成实现深度概念理解的最优路径
-> **探讨维度　教学时序编排与认知准备状态** 直接教学与探究式学习并非非此即彼的对立[[Paradigm\|范式]]。在教学进程的不同节点灵活配置两种教学行为，能够兼顾概念表征的深度建构与外在负荷的有效控制。
+> **探讨维度　教学时序编排与认知准备状态** 直接教学与探究式学习有别于非此即彼的对立[[Paradigm\|范式]]。在教学进程的不同节点灵活配置两种教学行为，能够兼顾概念表征的深度建构与外在负荷的有效控制。
 
 > [!claim] De Jong et al.
 > **多节点时序互补与即时支架嵌入** 探究与直接指导的最佳结合方式因教学目标与任务情境而异：既可采用先直接讲授基础知识再开展复杂探究的演进路径，也可采用先探究遭遇挫折以激活认知图式、随后提供直接讲授的[[Productive Failure\|生产性失败]]路径（Productive Failure），更可在探究过程中嵌入按需触发的即时解释与自适应提示。这种时序协同消解了二元对立，实现了深层概念内化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
@@ -211,7 +211,7 @@ updated: 2026-11-02
 
 > [!tension] 探究式教学与[[Direct Instruction\|直接教学]]之争（Inquiry vs. Direct Instruction Debate）
 > - **认知负荷派观点（蓝方）** 以 [[John Sweller]]、Paul A. Kirschner 与 Richard E. Clark 等学者为代表，依据[[Cognitive Load Theory\|认知负荷理论]]（Cognitive Load Theory, CLT），主张人类[[Working Memory\|工作记忆]]容量极其有限。在处理全新信息时，让学习者自主探索会迫使工作记忆陷入无效的盲目搜索与试误，造成沉重的外在认知负荷；因此，由教师进行完全显性的示范、提供充分工作样例的直接教学在任何阶段都具有压倒性优势。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
-> - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis\|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、[[Nature of Science\|科学本质]]认识、迁移能力与[[Student Motivation|学习动机]]上全面超越单一直接讲授；真实课堂的最优[[Paradigm\|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
+> - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis\|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、[[Nature of Science\|科学本质]]认识、迁移能力与[[Student Motivation|学习动机]]上全面超越单一直接讲授；真实课堂的最优[[Paradigm\|范式]]是将直接教学适时嵌入探究全周期中，有别于二选一。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
 
 > [!tension] [[Meta-meta-analysis|二级元分析]]中的伪[[Standard Error|标准误]]计算与宏观综合精度失真
 > 德国方法学者在对宏观证据库《[[Visible Learning|可见的学习]]》的方法学审计中，指出了针对探究式学习二级综合存在的严重数学违规（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 30]]）：
@@ -293,7 +293,7 @@ updated: 2026-11-02
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] | 方法学审计：《[[Visible Learning\|可见的学习]]》对探究式教学元分析[[Standard Error\|标准误]]的计算审查 | [[Meta-meta-analysis\|二级元分析]]算法审计 | 汇总[[Standard Error\|标准误]]计算准确性 | 报告的标准误 $0.092$ 系两项一阶元分析标准误 $0.154$ 与 $0.030$ 的未加权简单算术均值 $(0.154+0.030)/2$ | 比高精度子研究误差虚假放大 3 倍以上 | 揭露二级综合严重违反样本聚合提高精度的公理，证实粗放平均对探究教学统计精度的扭曲 |
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 变量控制策略掌握率与跨情境迁移成绩 | 即时后测与延迟迁移测试两组得分高度均等 | 组间差异无统计学显著性（等效） | 受控课堂实验；表明探究教学与直接教学在程序与概念掌握上均具同等有效性 |
 > | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级学生 | 物理概念学习：学生自主设计与探究 vs. 教师直接讲授方案 | 深度概念理解与跨情境远迁移测验 | 自主设计探究组在解释性因果机制与迁移任务得分显著占优 | 显著高于直接讲授组 | 实验室受控实验；证实自主权衡[[Variable\|变量]]关系有助于深层认知表征的重构 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5, 9)]]<br>（引述 d'Angelo et al., 2014） | 59 篇论文（128 个效应量） | 元分析：标准化均数差（SMD），随机效应模型 | 干预措施：评估[[Computer Simulation\|计算机模拟]]探究教学对比非模拟传统教学的学效 | 内容知识（$k=96$）、探究推理技能（$k=17$）及非认知结果（$k=15$）均呈显著正效应 | 实验与[[Quasi-Experimental Designs\|准实验设计]]效应无显著差异 | 证实带支持的仿真探究显著优于非仿真教学，且有支架组优于无支架组 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5, 9)]]<br>（引述 d'Angelo et al., 2014） | 59 篇文章（128 个效应量） | 元分析：标准化均数差（SMD），随机效应模型 | 干预措施：评估[[Computer Simulation\|计算机模拟]]探究教学对比非模拟传统教学的学效 | 内容知识（$k=96$）、探究推理技能（$k=17$）及非认知结果（$k=15$）均呈显著正效应 | 实验与[[Quasi-Experimental Designs\|准实验设计]]效应无显著差异 | 证实带支持的仿真探究显著优于非仿真教学，且有支架组优于无支架组 |
 
 ---
 

@@ -65,12 +65,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Engaged Scholarship
-> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）** 指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
+> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）** 指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源有别于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也有别于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
 
 > [!concept-lens] 概念透镜
-> - **核心指向** 强调知识生产主体的多元共创与民主化，将一线教育工作者从单纯的“研究受众或数据提供者”提升为“平等的联合探究者”。
+> - **核心指向** 强调知识生产主体的多元共创与民主化，将一线教育从业者从单纯的“研究受众或数据提供者”提升为“平等的联合探究者”。
 > - **理论用途** 解释为什么传统的单向研究分发与[[Document|文献]]推送无法有效促进学校变革，为[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与全系统[[Knowledge Mobilisation\|知识动员]]提供[[Epistemology\|认识论]]正当性。
-> - **边界限定** 它不是降低学术严密性的随意经验总结，也不是学者充当外包商业咨询或培训讲师；它要求在兼顾学理严谨性的同时直面实践前沿的复杂性。
+> - **边界限定** 它有别于降低学术严密性的随意经验总结，也有别于学者充当外包商业咨询或培训讲师；它要求在兼顾学理严谨性的同时直面实践前沿的复杂性。
 
 > [!citation-card] 理论实践鸿沟的知识生产本质
 > “理论与实践的鸿沟本质上是一个知识生产问题。知识在何处、如何以及由谁生产，决定了理论与实践之间的距离。研究者与实践者共同研究复杂问题的合作探究形式（即参与式学术），从源头上自然缩短了这一距离。”(Van de Ven & Johnson, 2006, p. 809, cited in [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 19]])
@@ -131,12 +131,12 @@ updated: 2026-11-02
 > **探讨维度　学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压** 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
 
 > [!claim] Cherney et al. (2012) / Burkhardt and Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
-> **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高影响因子学术期刊上的论文发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
+> **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高影响因子学术期刊上的文章发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
 
 ---
 
 > [!dev-timeline] 参与式学术的概念演变历程
-> - **2006 — 理论奠基与三大框架确立** Andrew H. Van de Ven 与 Paul E. Johnson 发表论文，系统区分理论—实践脱节的转移问题、形态异质问题与生产方式问题，正式奠定“参与式学术”的概念基石。
+> - **2006 — 理论奠基与三大框架确立** Andrew H. Van de Ven 与 Paul E. Johnson 发表文章，系统区分理论—实践脱节的转移问题、形态异质问题与生产方式问题，正式奠定“参与式学术”的概念基石。
 > - **2007 — 专著体系化与[[National Competitive Advantage|钻石模型]]问世** Van de Ven 出版专著 *Engaged Scholarship: A Guide for Organizational and Social Research*（牛津大学出版社），系统构建由[[Problem Finding\|问题界定]]、理论建构、研究设计与解决问题组成的四大钻石循环模型。
 > - **2010s — 拓展至基础教育与社会治理全域** 参与式学术思想被广泛引入教育科学领域，成为理解英国[[Teaching and Learning Research Programme\|教与学研究计划]]（TLRP）、加拿大[[Knowledge Mobilisation\|知识动员]]网络以及美国[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）的统领性[[Epistemology\|认识论]]。
 > - **2022 — 复杂系统研究生态视角的整合** [[OECD]] [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）在 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 中将参与式学术置于[[International Education\|国际教育]][[Research Utilization\|研究利用]]的复杂系统网络之中，揭示其作为超越线性转移、达成全系统[[Knowledge Production\|知识生产]]与使用良性循环的关键纽带。
@@ -162,7 +162,7 @@ updated: 2026-11-02
 > 在英国开展的[[Teaching and Learning Research Programme\|教与学研究计划]]（TLRP, 2000–2011）中，项目团队系统落实参与式学术理念。大学研究人员与一线中小学教师共同组建联合课题组，从立项论证起共同商定课堂改进目标，协同收集教学反思与学业增值数据，使学术研究成果直接转化为一线教师能切实掌握的教学策略。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 21)]]
 
 > [!case] 案例二：英国 [[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]（Research Schools Network）的院校协同
-> 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）支持中小学建立研究学习网络（Research Learning Networks），大学学者以学术伙伴身份常态化进驻标杆研究学校，通过“学习对话”（learning conversations）与校长、教研骨干协同反思实证工具包在课堂的落地偏差，形成边实践、边评估、边改良的动态共创闭环。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 21)]]
+> 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）支持中小学建立研究学习网络（Research Learning Networks），大学学者以学术伙伴身份常态化进驻标杆研究学校，通过“学习对话”（learning conversations）与校长、教研骨干协同反思实证工具包在课堂的落地偏差，形成边实践、边评估、边改良的动态共创反馈回路。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 21)]]
 
 ---
 

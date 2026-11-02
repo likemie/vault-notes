@@ -186,7 +186,7 @@ updated: 2026-11-02
 > - **方案[[Preregistration\|预注册]]与分析计划锁定** 提前在权威平台公开试验方案并锁定[[Statistical Analysis Plan\|统计分析计划]]（SAP），遏制事后数据挖掘（p-hacking）。
 > - **整群随机设计与多层嵌套方差校正** 尊重学校与班级组织嵌套生态，强制使用[[Hierarchical Linear Model\|多层线性模型]]（HLM）校正自由度，以真实生态下的常规教学（[[Business as Usual\|BAU]]）为[[Counterfactual\|反事实]]基线。
 
-> [!ref-table]- [[Institute of Education Sciences\|美国教育科学院]] SEER 体系九大准则与[[Operationalization\|操作化]]破局机制（Schneider, 2022）
+> [!ref-table]- [[Institute of Education Sciences\|美国教育科学院]] SEER 体系九大准则与[[Operationalization\|操作化]]突破机制（Schneider, 2022）
 > | SEER 准则 | 传统科研缺陷与挑战 | IES 官方规程与落地工具 | 破解的核心科研弊端 |
 > |---|---|---|---|
 > | **1. 研究预先注册**<br>Pre-register studies | 事后篡改[[Hypothesis\|研究假设]]，只报告有显著效应的结果，存在严重发表偏倚。 | 强制要求在干预前公开注册研究方案与分析计划（作为常态科学规程）。（p. 206） | 遏制数据挖掘（p-hacking）与事后合理化修饰。 |
@@ -196,7 +196,7 @@ updated: 2026-11-02
 > | **5. 强制实施真实成本核算**<br>Analyse intervention costs | 教育学者普遍缺乏经济学训练，第一年推行时大量项目因未做成本分析遭一票否决。（p. 207） | 设立成本分析专家服务台，开发便捷核算工具，强制核算师资与财力成本。（p. 207） | 辅助学区在有限预算下选择高性价比方案。 |
 > | **6. 采用高质量独立通用测量**<br>Use high-quality outcome measures | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2014）指出：开发者自编测验严重过度对齐，导致[[Effect Size\|效应量]]虚高数倍。（p. 207） | 打造 EdInstruments 开放测验工具库，强制使用第三方成熟标准测验。（pp. 207–208） | 根除自编测验夸大成效的假象，确保跨研究横向可比。 |
 > | **7. 推动系统复现与推广**<br>Facilitate generalisation | 传统实地随机试验周期长、耗资数百万美元；学者缺乏复现动力，导致个别虚假结论大行其道。（p. 208） | 引入快速试错理念，依托十万级用户数字学习平台与 XPrize 竞赛。（p. 208） | 验证干预对谁有效、在何种条件下有效。 |
-> | **8. 建立成果规模化机制**<br>Support scaling up | 高校评价激励错位：学者只关心评职称与发论文，缺乏将成果推向市场的意愿与技能。（p. 208） | 联合斯坦福国际研究院将明确的市场转化导向植入资助协议。（p. 208） | 打破论文发表即结项的怪圈，推动成果走出实验室。 |
+> | **8. 建立成果规模化机制**<br>Support scaling up | 高校评价激励错位：学者只关心评职称与发文章，缺乏将成果推向市场的意愿与技能。（p. 208） | 联合斯坦福国际研究院将明确的市场转化导向植入资助协议。（p. 208） | 打破文章发表即结项的怪圈，推动成果走出实验室。 |
 > | **9. 积极回应社会不平等**<br>Address inequities | 传统科研默认技术中立，忽略处境不利群体在资源与机会上的系统性匮乏。（p. 208） | 将关注边缘弱势群体的学业鸿沟内化为立项法定强制原则（呼应 2002 年授权法案）。（p. 208） | 确保教育科学真正服务于社会流动与教育正义。 |
 
 > [!logic-map]- 证据标准评价体系与功效主张生成机制
@@ -239,7 +239,7 @@ updated: 2026-11-02
 > **探讨维度　[[Educational Brokerage Agency\|知识中介机构]]标准松弛与交叉污染的治理风险** 探讨国际网络证据门户在呈现“何者有效”时因标准过宽或标准拼盘导致的结构性隐患。
 
 > [!claim] Gough & White
-> **单项研究定性有效性的认识论谬误** 国际证据门户调查揭示，大量针对固化干预项目（Programmes）的门户仅凭一至两项研究就宣称该项目有效，这种极其宽松的证据标准完全无视了相反结论的大量存在；同时，二级聚合清算数据库（如 Results First）直接并置不同来源、不同口径的研究清单，引发标准的多源交叉污染。中介机构若不建立以[[Systematic Review\|系统综述]]为基础的严谨标准，其品牌效应极易蜕变为传播伪证据与误导公共采购的放大器。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 154–155)]]
+> **单项研究定性有效性的认识论谬误** 国际证据门户调查揭示，大量针对固化干预项目（Programmes）的门户仅凭一至两项研究就宣称该项目有效，这种极其宽松的证据标准完全无视了相反结论的大量存在；同时，二级聚合清算数据库（如 Results First）直接并置不同来源、不同口径的研究清单，引发标准的多源交叉污染。中介机构若不建立以[[Systematic Review\|系统综述]]为基础的严谨标准，其品牌效应极易转变为传播伪证据与误导公共采购的放大器。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 154–155)]]
 
 > [!claim] Pellegrini & Vivanet
 > **清算机构评级门槛不一致削弱政策互信** 欧美主流[[Educational Evidence Clearinghouses\|教育证据清算机构]]（如 [[What Works Clearinghouse\|WWC]]、[[Education Endowment Foundation\|EEF]]、BEP 等）在纳入标准、[[Effect Size\|效应量]]门槛与[[Publication Bias\|发表偏倚]]处理上存在显著[[Heterogeneity\|异质性]]；同一干预在不同清算机构可能获得完全相反的有效性评级，证实中介组织证据标准的模糊与分歧已成为制约[[Evidence-Based Policy-Making|循证决策]]国际互信的关键瓶颈。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 120–122)]]
@@ -253,7 +253,7 @@ updated: 2026-11-02
 > **探讨维度　证据维度的多维拓展与 [[EMMIE Framework\|EMMIE]] 评价架构** 审视单纯关注平均效应量的传统因果分级，探讨将作用机制、情境调节与实施经济学整合入综合标准的必要性。
 
 > [!claim] Johnson et al.
-> **从单一效果测度跃升至五维综合评价** 英国警务有效性中心推行的 EMMIE 评价框架（Effect, Mechanism, Moderator, Implementation, Economics）表明，高质量的证据标准不能仅回答“干预是否有效”，更必须回答“通过何种因果机制产生效果”、“在何种情境条件下有效”、“需要何种[[Implementation Fidelity\|实施保真度]]与组织准备度”以及“成本效益比如何”。只有将机制解释与实施情境制度化纳入证据标准，才能避免将脱离情境的实验室有效方案机械移植至异质性实践[[Champ\|场域]]。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
+> **从单一效果测度提升至五维综合评价** 英国警务有效性中心推行的 EMMIE 评价框架（Effect, Mechanism, Moderator, Implementation, Economics）表明，高质量的证据标准不能仅回答“干预是否有效”，更必须回答“通过何种因果机制产生效果”、“在何种情境条件下有效”、“需要何种[[Implementation Fidelity\|实施保真度]]与组织准备度”以及“成本效益比如何”。只有将机制解释与实施情境制度化纳入证据标准，才能避免将脱离情境的实验室有效方案机械移植至异质性实践[[Champ\|场域]]。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题五｜证据标准的公信力取决于测量工具的独立[[External Validity|外部效度]]与全流程透明规约
+> [!concept-proposition] 命题五｜证据标准的公信力取决于测量工具的独立[[External Validity|外部效度]]与全流程透明规范
 > **探讨维度　测量效度防护与[[Implementation and Process Evaluation\|过程评估]]标准化** 探讨证据标准如何通过强制前置方案预注册、[[Statistical Analysis Plan\|统计分析计划]]公开、禁止[[Developer-Made Measures\|开发者自编测验]]（Inherent Measures）并锚定高利害国家统考，筑牢抵御虚高效应量与发表偏倚的制度防线。
 
 > [!claim] Edovald & Nevill
@@ -274,10 +274,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题六｜分级证据框架通过将法定拨款与方法学层级深度锚定实现教育科研供给侧治理
-> **探讨维度　循证资助杠杆与分级证据标准架构** 探讨如何通过联邦法定证据分级与竞争性资助挂钩，倒逼教育干预研发者采用严谨因果设计，驱动教育科研从名义概念走向真实实践效用。
+> **探讨维度　循证资助手段与分级证据标准架构** 探讨如何通过联邦法定证据分级与竞争性资助挂钩，倒逼教育干预研发者采用严谨因果设计，驱动教育科研从名义概念走向真实实践效用。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **法定证据分级与资金杠杆驱动的科研供给侧改革** 美国《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB 2001）虽 110 次提及“[[Scientifically Based Research\|基于科学的研究]]”，但因缺乏清晰法定定义与执行机制，导致大量未经严格检验的干预项目泛滥。相比之下，《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次确立四级法定证据标准（TIER 1 强证据、Tier 2 中等证据、Tier 3 有前景、Tier 4 正在评估），并将[[Education Innovation and Research\|教育创新与研究计划]]（EIR/i3）及一类学校（[[Title I of the Elementary and Secondary Education Act\|Title I]]）改进资金直接与证据层级挂钩。这一分级标准结合独立标准化测验、至少 12 周周期、第三方评估等硬约束，有效终结了“研发者自编测验与短期实验虚高效应量”的乱象，推动教育实践建立在真正经受住因果检验的实证方案之上。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–26)]]
+> **法定证据分级与资金手段驱动的科研供给侧改革** 美国《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB 2001）虽 110 次提及“[[Scientifically Based Research\|基于科学的研究]]”，但因缺乏清晰法定定义与执行机制，导致大量未经严格检验的干预项目泛滥。相比之下，《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次确立四级法定证据标准（TIER 1 强证据、Tier 2 中等证据、Tier 3 有前景、Tier 4 正在评估），并将[[Education Innovation and Research\|教育创新与研究计划]]（EIR/i3）及一类学校（[[Title I of the Elementary and Secondary Education Act\|Title I]]）改进资金直接与证据层级挂钩。这一分级标准结合独立标准化测验、至少 12 周周期、第三方评估等硬约束，有效终结了“研发者自编测验与短期实验虚高效应量”的乱象，推动教育实践建立在真正经受住因果检验的实证方案之上。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–26)]]
 
 ---
 
@@ -288,9 +288,9 @@ updated: 2026-11-02
 > | **标准松弛与交叉污染命题** | 仅凭 1–2 项单兵研究定性有效及多源标准混杂存在严重误导风险 | 网络证据门户建设、政府干预项目采购清算 | Gough and White (2018); [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] |
 > | **多维机制拓展命题** | 证据标准必须涵盖因果效应、作用机制、调节[[Variable\|变量]]、实施与成本 | 复杂教育干预评价、跨部门有效性中心评估框架 | Johnson et al. (2015); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150, 155)]] |
 > | **多维卓越治理命题** | 走出单一因果控制迷思，以构件解构、成本核算、通用工具与社会公平重构标准 | 国家级科研资助导向与各级学区规模化循证采购 | [[Mark Schneider]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, pp. 206–209)]] |
-> | **测量独立与过程规约命题** | 严禁自编测验、锚定高利害国家统考、方案预注册并整合实施过程评估 | 国家级试验资助体系构建、防范研发者自评偏倚与效应量虚高 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
+> | **测量独立与过程规范命题** | 严禁自编测验、锚定高利害国家统考、方案预注册并整合实施过程评估 | 国家级试验资助体系构建、防范研发者自评偏倚与效应量虚高 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **单兵研究去中心化与贝叶斯汇总命题** | 坚决否定单兵研究对政策的独立主导权，主张以贝叶斯[[Narrative Synthesis\|叙事综合]]整体证据库，杜绝统计检验机械门槛 | 国家教育科研资助与政策影响力评价改革 | [[Stephen Gorard]]; [[Argument_Gorard_2020_ROE\|Gorard et al. (2020, pp. 572–573)]] |
-> | **法定分级与资助锚定命题** | 将四级法定证据标准与竞争性资助深度绑定，以五大约束倒逼供给侧质量跃升 | 联邦教育拨款、全校改革推广与 [[Evidence for ESSA]] 清算评审 | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
+> | **法定分级与资助锚定命题** | 将四级法定证据标准与竞争性资助深度绑定，以五大约束倒逼供给侧质量提升 | 联邦教育拨款、全校改革推广与 [[Evidence for ESSA]] 清算评审 | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
 

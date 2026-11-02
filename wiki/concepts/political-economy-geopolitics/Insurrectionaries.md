@@ -55,7 +55,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Insurrectionaries
-> 起义者（Insurrectionaries）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指长期目标明确寻求废除或推翻既有制度（不追求制度维系）、短期在日常博弈中采取公开违规与公然抵制策略（不遵守规则）的政治主体。在守旧阵营缺乏强力否决点且规则边界刚性清晰（弱[[Veto Possibilities|否决可能性]] + 低解释[[Enforcement Discretion|执行裁量权]]）的制度情境下，起义者主导驱动外生或双轨排他性新体系的建立，成为推动[[Institutional Displacement|制度置换]]的核心力量；在联盟政治中，起义者绝不与制度支持者结盟，必须在体制挑战者阵营中寻求广泛联合，并致力于向摇摆的[[Opportunists|机会主义者]]传递不可逆变革信号以触发级联突破（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28, 30–31]]）。
+> 起义者（Insurrectionaries）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过脱钩行动者的长期制度维系目标与短期策略遵从行为确立，特指长期目标明确寻求废除或推翻既有制度（不追求制度维系）、短期在日常博弈中采取公开违规与公然抵制策略（不遵守规则）的政治主体。在守旧阵营缺乏强力否决点且规则边界刚性清晰（弱[[Veto Possibilities|否决可能性]] + 低解释[[Enforcement Discretion|执行裁量权]]）的制度情境下，起义者主导驱动外生或双轨排他性新体系的建立，成为推动[[Institutional Displacement|制度置换]]的核心力量；在联盟政治中，起义者绝不与制度支持者结盟，必须在体制挑战者阵营中寻求广泛联合，并致力于向摇摆的[[Opportunists|机会主义者]]传递不可逆变革信号以触发级联突破（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28, 30–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对既有体制合法性持有根本否定立场、以推翻旧规则为长远诉求、并采取正面突破与拒不遵从策略的激进变革主体。
@@ -70,7 +70,7 @@ updated: 2026-11-02
 > [!boundary]- 概念边界
 > - 不等于 [[Subversives|颠覆者]] — 颠覆者同样谋求终结旧制度，但在短期内伪装成模范合规者潜伏于体制内，通过在边缘赞助新规则层叠来架空核心；起义者则公开否定体制，采取直接违规和正面对抗策略（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–26]]）。
 > - 不等于 [[Symbionts|共生者]] — 共生者在长期利益上高度依赖旧制度存续，其违规行为旨在从漏洞中套利或变相维护运转；起义者的根本目标是彻底消灭旧制度（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 24–25]]）。
-> - 不等于 [[Opportunists|机会主义者]] — 机会主义者对制度存续持模糊偏好，不愿承担违规或政治对抗的高昂成本；起义者具有极强的反体制意识形态承诺，甘冒政治风险推进破局（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 26–27]]）。
+> - 不等于 [[Opportunists|机会主义者]] — 机会主义者对制度存续持模糊偏好，不愿承担违规或政治对抗的高昂成本；起义者具有极强的反体制意识形态承诺，甘冒政治风险推进突破（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 26–27]]）。
 
 ---
 
@@ -88,7 +88,7 @@ updated: 2026-11-02
 > - **长远反体制目标（Anti-system goals）** 对现存制度的价值基础与资源分配格局持彻底否定态度，拒绝承认其长期合法性，明确以终结或替代该制度为根本目标（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24]]）。
 > - **短期公开不依从策略（Open noncompliance）** 拒绝在既有制度框架内进行细枝末节的游说或隐蔽妥协，采取公开打破规则、正面对抗或动员体制外平行动员的行为模式。
 > - **弱否决与低裁量情境的制度匹配** 在政治体制缺乏有效否决权且法律条文缺乏自由裁量缝隙的语境下，起义者成为最具因果优势的变革主体：守旧派无法阻挡修法，而规则刚性使内部转用失效，唯有全面替代。
-> - **渐进置换与急进置换的双轨性** 起义者的原初诉求始终是快速推翻体制；当出现渐进置换时，并非起义者放弃了激进意图，而是受限于资源劣势，被迫采取引入双轨竞争机制逐步蚕食旧体制的耐力战（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 24]]）。
+> - **渐进置换与急进置换的双轨性** 起义者的原初诉求始终是快速推翻体制；当出现渐进置换时，是受限于资源劣势，被迫采取引入双轨竞争机制逐步蚕食旧体制的耐力战（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 24]]），有别于起义者放弃了激进意图。
 > - **挑战者内部联合与[[Opportunists|机会主义者]]拉拢** 绝不与维持现状的支持者结盟；其政治战略重心在于构筑挑战者广泛同盟，并通过释放强力变革信号打破僵局，争取摇摆机会主义者的级联倒戈。
 
 > [!logic-map]- 起义行动者的因果机制与系统演化
@@ -109,7 +109,7 @@ updated: 2026-11-02
 > **探讨维度　变迁形态选择维度** 探讨激进反对者的策略组合如何与特定的制度变迁形态形成内在因果亲和力。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & Thelen, K. (2009)
-> **排他性目标诱发[[Institutional Displacement|制度置换]]** 起义者的目标既不是如[[Subversives|颠覆者]]那样在旧核心边缘做增量补充（层叠），也不是如[[Symbionts|共生者]]那样利用缝隙套利（漂移），更不是如[[Opportunists|机会主义者]]那样顺应规则进行重定向转用（转换）。起义者的长期终结意图与短期公开抵制，决定了其只能走向彻底清除旧规则或引入全新规则体系与旧规则展开正面对决；在弱否决阻力与低[[Zone of Discretion|裁量空间]]下，这一逻辑直接驱动了制度置换（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28]]）。
+> **排他性目标诱发[[Institutional Displacement|制度置换]]** 起义者的目标有别于如[[Subversives|颠覆者]]那样在旧核心边缘做增量补充（层叠），也有别于如[[Symbionts|共生者]]那样利用缝隙套利（漂移），更有别于如[[Opportunists|机会主义者]]那样顺应规则进行重定向转用（转换）。起义者的长期终结意图与短期公开抵制，决定了其只能走向彻底清除旧规则或引入全新规则体系与旧规则展开正面对决；在弱否决阻力与低[[Zone of Discretion|裁量空间]]下，这一逻辑直接驱动了制度置换（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28]]）。
 
 ---
 
@@ -117,7 +117,7 @@ updated: 2026-11-02
 > **探讨维度　渐进演化动力学维度** 阐明为何激进革命型行动者在特定情境下会成为长周期渐进变迁的因果载体。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
-> **渐进演替作为约束下的次优推进** 传统观点常将起义者等同于瞬间发生的革命或外生危机爆发。马奥尼与希伦指出，起义者的理想目标永远是急速推翻旧体制；然而，当守旧力量仍掌握一定抵抗资源但无法完全封杀新规则引入时，起义者会策略性地开辟平行的替代性制度轨道。随着越来越多的参与者背叛旧体制并转移至新规则，渐进置换实质上是起义者在能力受限下采取的蚕食战略，其反体制内核从未发生动摇（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 24]]）。
+> **渐进演替作为约束下的次优推进** 传统观点常将起义者等同于瞬间发生的革命或外生危机爆发。马奥尼与希伦指出，起义者的理想目标永远是急速推翻旧体制；然而，当守旧力量仍掌握一定抵抗资源但无法完全封杀新规则引入时，起义者会策略性地开辟平行的替代性制度轨道。随着越来越多的参与者背叛旧体制并转移至新规则，渐进置换实质上是起义者在能力受限下采取的蚕食战略，其反体制核心从未发生动摇（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 24]]）。
 
 ---
 
@@ -139,10 +139,10 @@ updated: 2026-11-02
 ---
 
 > [!case] 市场制度对计划经济体制的双轨置换
-> 在转型国家（如转轨初期的经济改革）中，由于全面废除旧计划统购统销体制可能引发剧烈震荡或遭到体制顽固阻力，市场化改革倡导者作为起义者，并未等待外生总崩溃，而是设立平行的市场价格体制与特区外资规则。新市场规则与旧计划规则并存竞争，随着市场体制效率展现与资源向市场集聚，行动者大规模自主“背叛”旧计划体制并投向新规则，最终使旧统购统销体系逐步枯萎边缘化，完成了渐进但彻底的[[Institutional Displacement|制度置换]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 16]]）。
+> 在转型国家（如转轨初期的经济改革）中，由于全面废除旧计划统购统销体制可能引发剧烈震荡或遭到体制顽固阻力，市场化改革倡导者作为起义者，并未等待外生总崩溃，是设立平行的市场价格体制与特区外资规则。新市场规则与旧计划规则并存竞争，随着市场体制效率展现与资源向市场集聚，行动者大规模自主“背叛”旧计划体制并投向新规则，最终使旧统购统销体系逐步枯萎边缘化，完成了渐进但彻底的[[Institutional Displacement|制度置换]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 16]]）。
 
 > [!case] 东欧转型前夕反体制起义者的临界动员
-> 铁木尔·库兰（Timur Kuran, 1991）与马克·贝辛格（Mark Beissinger, 2002）的历史考证表明，在东欧剧变早期，公开否定威权统治合法性的异见知识分子与起义公民人数极少且遭受孤立。起义者通过持续组织地下出版物与集会，向社会不断传导抗争信号。当抗争规模跨过关键门槛、表明政权维持成本已不可承受时，大批原本沉默顺从的机会主义大众迅速放弃伪装偏好，加入起义联盟，在极短时间内推翻了旧规约体系（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 30–31]]）。
+> 铁木尔·库兰（Timur Kuran, 1991）与马克·贝辛格（Mark Beissinger, 2002）的历史考证表明，在东欧剧变早期，公开否定威权统治合法性的异见知识分子与起义公民人数极少且遭受孤立。起义者通过持续组织地下出版物与集会，向社会不断传导抗争信号。当抗争规模跨过关键门槛、表明政权维持成本已不可承受时，大批原本沉默顺从的机会主义大众迅速放弃伪装偏好，加入起义联盟，在极短时间内推翻了旧规范体系（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 30–31]]）。
 
 ---
 
@@ -151,7 +151,7 @@ updated: 2026-11-02
 > > [!axis] 起义行动者的情境依附性 vs 静态本质主义标签
 > > 争论聚焦于起义者是指特定博弈情境下的策略行为角色，还是具有固定反叛倾向的阶级特质。
 > >
-> > - **情境角色视角** [[James Mahoney|马奥尼]]与希伦澄清，四类行动者指涉的是行动者在具体制度博弈中所承担的策略性行为角色，绝非固定身份；同一主体在某一制度中可能充当顺应形势的[[Opportunists|机会主义者]]，在另一制度中则完全可能[[Avatar|化身]]为激进的起义者，经验追踪时严禁静态标签化套用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 23 注7)]]
+> > - **情境角色视角** [[James Mahoney|马奥尼]]与希伦澄清，四类行动者指涉的是行动者在具体制度博弈中所承担的策略性行为角色，有别于固定身份；同一主体在某一制度中可能充当顺应形势的[[Opportunists|机会主义者]]，在另一制度中则完全可能[[Avatar|化身]]为激进的起义者，经验追踪时严禁静态标签化套用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 23 注7)]]
 > > - **动机识别挑战** 批评者指出，政治博弈中行动者的言行高度策略化，在实证历史回溯中准确剔除虚饰动机并给具体群体贴上角色标签面临极高难度。
 >
 > > [!axis] 结构约束[[Determinism|决定论]] vs 革命能动性突破

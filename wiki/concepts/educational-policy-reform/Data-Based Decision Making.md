@@ -93,11 +93,11 @@ updated: 2026-11-02
 > [!contrast-table] 基于数据的决策 vs. [[Research-Informed Teaching Practice\|研究知情教学实践]] vs. [[Evidence-Informed Practice\|证据知情实践]]
 > | 比较维度 | 基于数据的决策（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Evidence-Informed Practice\|证据知情实践]]（EIP） |
 > |---|---|---|---|
-> | **核心证据源** | 学校与系统内部多源数据：评估成绩、学业档案、[[Classroom Observation\|课堂观察]]与行为记录 | 外部学术实证研究：同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]工具包 | 外部研究 ＋ 内部数据 ＋ 教师[[Professional Judgment\|专业判断]] |
-> | **核心[[Epistemology\|认识论]]功能** | 靶向诊断：本校/本班存在哪些真实学情痛点与深层成因 | 方案供给：针对具体问题，外部成熟有效干预策略及其作用机制 | 整体融通：以数据精准靶向，以研究提供方案，以专业判断情境转译 |
+> | **核心证据源** | 学校与系统内部多源数据：评估成绩、学业档案、[[Classroom Observation\|课堂观察]]与行为记录 | 外部学术实证研究：同行评议论性文章、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]工具包 | 外部研究 ＋ 内部数据 ＋ 教师[[Professional Judgment\|专业判断]] |
+> | **核心[[Epistemology\|认识论]]功能** | 针对诊断：本校/本班存在哪些真实学情痛点与深层成因 | 方案供给：针对具体问题，外部成熟有效干预策略及其作用机制 | 整体融通：以数据精准针对，以研究提供方案，以专业判断情境转译 |
 > | **主导实施载体** | [[Data Team Intervention\|数据团队]]（Data Team）、成绩仪表盘、形成性测评分析会 | [[Research Learning Communities\|研究学习共同体]]（RLC）、教研文献研读组、院校协作网络 | 整合性[[School Enquiry Cycle\|学校探究循环]]（ESTI）、[[Professional Learning Community\|专业学习共同体]]（PLC） |
 > | **认知素养要求** | [[Data Literacy\|数据素养]]、指标分析与定性定量三角验证 | [[Research Literacy\|研究素养]]、文献评估技能与分析立场 | 双素养协同：同时具备数据分析与[[Research Translation\|研究转译]]整合能力 |
-> | **固有缺陷与盲区** | 擅长诊断病因但自身不包含治疗良方，教师苦于研制不出干预措施 | 方案成熟但易追逐时髦热点，易出现无靶向盲跳与千校一面 | 协调门槛高，需要跨界中介、组织保障与制度化排程工时 |
+> | **固有缺陷与盲区** | 擅长诊断病因但自身不包含治疗良方，教师苦于研制不出干预措施 | 方案成熟但易追逐时髦热点，易出现无针对盲跳与千校一面 | 协调门槛高，需要跨界中介、组织保障与制度化排程工时 |
 
 ---
 
@@ -106,7 +106,7 @@ updated: 2026-11-02
 > - **五阶段动态行动循环（Five-Stage Action Cycle）** 遵循设定目标 ➔ 收集数据（围绕成因假设展开） ➔ 分析与质检（数据转化为信息并升华为知识） ➔ 落实改进举措 ➔ 成效评估，包含未达预期时回溯前序步骤的反馈回路。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
 > - **[[Data Team Intervention\|数据团队]]结构化支架（Data Team Intervention Scaffold）** 由 [[Kim Schildkamp]] 团队研发，每校遴选6至8名骨干教师与领导组建团队，在外部研究教练指导下遵循八步规程攻关真实学情难题，有效提升[[Data Literacy\|数据素养]]与协作技能。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
 > - **定性与定量[[Triangulation\|三角验证]]（Triangulation of Evidence）** 依托教育者[[Data Literacy\|数据素养]]，交叉比对量化考试成绩与质性课堂观察、师生访谈记录，破除对单一终结性测验的绝对依赖。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
-> - **学校探究闭环整合（Integration via [[School Enquiry Cycle]]）** 在整合性[[Inquiry Cycle\|探究循环]]中，以 DBDM 完成校本[[Problem Finding\|问题界定]]与成因验证，为后续搜寻外部研究干预提供精准锚定。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 165–167)]]
+> - **学校探究反馈回路整合（Integration via [[School Enquiry Cycle]]）** 在整合性[[Inquiry Cycle\|探究循环]]中，以 DBDM 完成校本[[Problem Finding\|问题界定]]与成因验证，为后续搜寻外部研究干预提供精准锚定。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 165–167)]]
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **特温特大学[[Data Team Intervention\|数据团队干预模型]]（Schildkamp et al.）** 在荷兰与瑞典80余所中小学，数据团队针对高留级率或数学学业不良展开为期一至两年的攻关，遵循“界定问题—假设成因—收集数据—质检—分析解释—得出结论—采取行动—评估成效”八步规程。多项[[Randomised Controlled Trials\|随机对照试验]]证实了其在提升教师数据素养与部分学科成绩上的效能；但也暴露出教师在得出成因结论后不知如何研制教学干预方案的结构性瓶颈。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 158–159)]]
@@ -130,7 +130,7 @@ updated: 2026-11-02
 > **探讨维度　课堂证据认知偏差与决策窄化** 探讨实践者对不同形态课堂数据的感知偏倚，揭示终结性测验的绝对支配地位对丰富质性过程证据的挤压机制。
 
 > [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
-> **终结性评估支配与[[Triangulation\|三角验证]]必要性** 在日常教育实践中，课堂数据并非被等量齐观地对待，而是存在显著的层级感知——正式的终结性评估结果在学校与教学决策中占据绝对支配地位。这种认知偏误导致丰富的[[Formative Assessment\|形成性评价]]、师生日常互动及质性[[Classroom Observation|课堂观察]]等细粒度证据被严重边缘化。教育者必须通过发展[[Data Literacy\|数据素养]]，建立对定性与定量数据进行三角验证（triangulate）的分析视角，才能避免片面依赖标准化考试分数造成的决策失真，做出兼顾学业指标与学生情境的平衡决策。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
+> **终结性评估支配与[[Triangulation\|三角验证]]必要性** 在日常教育实践中，课堂数据是存在显著的层级感知——正式的终结性评估结果在学校与教学决策中占据绝对支配地位，有别于被等量齐观地对待。这种认知偏误导致丰富的[[Formative Assessment\|形成性评价]]、师生日常互动及质性[[Classroom Observation|课堂观察]]等细粒度证据被严重边缘化。教育者必须通过发展[[Data Literacy\|数据素养]]，建立对定性与定量数据进行三角验证（triangulate）的分析视角，才能避免片面依赖标准化考试分数造成的决策失真，做出兼顾学业指标与学生情境的平衡决策。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
 
@@ -138,7 +138,7 @@ updated: 2026-11-02
 > **探讨维度　内部诊断与外部干预两个世界的结构性割裂** 剖析 DBDM 专注于校本数据诊断但缺乏成熟干预良方，与 [[Research-Informed Teaching Practice\|RITP]] 掌握外部有效方案但脱离校本真实学情之间的互补张力。
 
 > [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
-> **双轮嵌合与[[School Enquiry Cycle\|学校探究循环]]** 基于数据的决策（DBDM）与研究知情教学实践（RITP）长期被视作两个相对割裂的独立领域，在现实学校中极少真正交融。单纯依赖 DBDM 只能诊断校内存在什么问题与潜在成因，却无法提供经过实证检验的有效干预举措；单纯推行 RITP 则容易使外部学术成果悬浮于空中，缺乏针对本校具体学情的精准锚定。证据知情系统的核心主张在于打破二者壁垒，通过系统的“证据知情学校与教师改进”（ESTI）八步[[Inquiry Cycle\|探究循环]]，将 DBDM 的校本诊断与 RITP 的研究干预有机嵌合，形成学校与教师持续改进的行动闭环。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
+> **双轮嵌合与[[School Enquiry Cycle\|学校探究循环]]** 基于数据的决策（DBDM）与研究知情教学实践（RITP）长期被视作两个相对割裂的独立领域，在现实学校中极少真正交融。单纯依赖 DBDM 只能诊断校内存在什么问题与潜在成因，却无法提供经过实证检验的有效干预举措；单纯推行 RITP 则容易使外部学术成果悬浮于空中，缺乏针对本校具体学情的精准锚定。证据知情系统的核心主张在于打破二者壁垒，通过系统的“证据知情学校与教师改进”（ESTI）八步[[Inquiry Cycle\|探究循环]]，将 DBDM 的校本诊断与 RITP 的研究干预有机嵌合，形成学校与教师持续改进的行动反馈回路。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 ---
 
@@ -154,7 +154,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **数据层级感知命题** | 终结性测验过度支配决策，必须通过三角验证激活形成性与质性课堂证据 | 课堂教学评估、多源学情研判、抵御考试唯分数论 | LaPointe-McEwan et al. (2017) |
-> | **两界整合命题** | DBDM 知病因缺良方，RITP 有良方缺靶向，唯有依托探究循环方能形成干预闭环 | 校本教研改革、学校诊断与改进设计、跨界专业发展 | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]]; [[Kim Schildkamp]] 等 |
+> | **两界整合命题** | DBDM 知病因缺良方，RITP 有良方缺针对，唯有依托探究循环方能形成干预反馈回路 | 校本教研改革、学校诊断与改进设计、跨界专业发展 | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]]; [[Kim Schildkamp]] 等 |
 > | **防范技术理性命题** | 数据使用是动态社会审议过程，应综合评价中间心智转变与长期多元实践成果 | 学校质量监控、政策绩效评估、防范审计合规主义 | Wentworth et al. (2017) |
 
 ---
@@ -189,7 +189,7 @@ updated: 2026-11-02
 > - **数据能诊断成因但无法提供干预策略** DBDM 擅长揭示学情差距并辅助归纳可能诱因，但数据本身绝不包含“如何改进”的现成教学处方；实践表明教师在直面数据诊断结果时往往苦于研制不出科学的干预举措。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 159)]]
 > - **领域专业知识与[[Data Literacy\|数据素养]]双重门槛** 探究成因高度依赖教师深厚的学科教学知识（PCK）与课程理解，而从原始数据清洗、指标解释到推导结论对教师[[Data Literacy\|数据素养]]提出严苛挑战，缺乏专业培训时易产生无效假设或错误归因。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 159, 164)]]
 > - **数据层级感知扭曲与质性证据边缘化** 正式终结性测试被过度依赖，丰富的形成性反馈、[[Classroom Observation|课堂观察]]与师生日常互动被低估和边缘化。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
-> - **技术理性异化与合规审计陷阱** 单独的数据驱动极易蜕变为对应付检查、填报报表的合规审计，削弱教育实践中不可量化的立德树人内涵与价值关怀。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 133)]]
+> - **技术理性异化与合规审计陷阱** 单独的数据驱动极易转变为对应付检查、填报报表的合规审计，削弱教育实践中不可量化的立德树人内涵与价值关怀。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 133)]]
 
 ---
 

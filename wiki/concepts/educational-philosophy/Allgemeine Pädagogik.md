@@ -5,7 +5,7 @@ aliases:
   - General Pedagogy
   - 德意志普通教育学
   - Allgemeine Erziehungswissenschaft
-summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论底座。"
+summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论基础。"
 type: concept
 domain: "educational-philosophy"
 related_count: 26
@@ -58,7 +58,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Allgemeine Pädagogik
-> **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统领地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教育科学知识大厦的元理论中枢与母体支柱，负责反思教育的终极目的、普遍规律、伦理边界与各分支学科的[[Epistemology|认识论]]统一性。
@@ -72,7 +72,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - **不等于微观教学法（Pedagogy / Didactics）** 教学法侧重具体学科课堂的授课技巧与教学流程安排，而普通教育学反思的是整个教育活动的人文终极目的、制度合法性与人性的自我实现。
-> - **不等于英美经验型的“教育研究”（Educational Studies）** 英国传统不设立统一统摄的普通教育学母体，而是将教育社会学、教育哲学、教育历史学并列为服务于实践的独立模块；普通教育学则始终坚持教育科学自身的理论自主性与范畴统一性。
+> - **不等于英美经验型的“教育研究”（Educational Studies）** 英国传统不设立统一统领的普通教育学母体，是将教育社会学、教育哲学、教育历史学并列为服务于实践的独立模块；普通教育学则始终坚持教育科学自身的理论自主性与范畴统一性。
 > - **不等于纯粹经院哲学的封闭思辨** 现代普通教育学经由安维勒等学者的重构，已经超越早期的形而上学孤立，发展为能够纵深横切历史学、政治学与经验社会学的开放理论枢纽。
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-11-02
 > [!contrast-table] 欧陆[[Allgemeine Pädagogik|普通教育学]]与英美教育研究建制传统对比
 > | 维度 | 欧陆普通教育学传统（Allgemeine Pädagogik） | 英美教育研究传统（Educational Studies） |
 > |---|---|---|
-> | **[[Disciplinary Institutionalization\|学科建制]]形态** | 拥有至高统摄地位的母体学科，各分支学科从属于母体或依附于母体 | 不设统摄性母体，由哲学、社会学、心理学与历史学多学科平行并列 |
+> | **[[Disciplinary Institutionalization\|学科建制]]形态** | 拥有至高统领地位的母体学科，各分支学科从属于母体或依附于母体 | 不设统领性母体，由哲学、社会学、心理学与历史学多学科平行并列 |
 > | **核心本体承诺** | 以人的教化、自我精神形成与道德自主为终极关怀 | 以学校制度实务、学习效率、技能习得与政策实用咨询为导向 |
 > | **理论生成方式** | 概念推演、哲学思辨、[[Geisteswissenschaften\|精神科学]]诠释学与制度发生学批判 | [[Pragmatic Paradigm\|实用主义]][[Problem Solving\|问题解决]]、经验观察、量化大样本统计与心理测量 |
 > | **与分支学科关系** | 母子血缘衍生关系，应用学科如比较教育被定位为横截面[[Comparative Education as a Cross-Sectional Area\|交叉领域]] | 扁平拼合关系，各专业模块在大学教育学院（如伦敦大学教育学院）内平行分设 |
@@ -89,8 +89,8 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **母体学科统摄性（Mother-Discipline Function）** 作为教育学科群的元理论基石，确立教育科学的[[Central Phenomenon|核心范畴]]与逻辑自洽性，为比较教育、学校教育学与社会教育学提供共有母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
-> - **教化价值内核（[[Bildung]] Core）** 始终将受教育者的全面精神觉醒与自主品格陶成置于首位，坚决抵御将人工具化为劳动力市场单一技能符号的危险。
+> - **母体学科统领性（Mother-Discipline Function）** 作为教育学科群的元理论基石，确立教育科学的[[Central Phenomenon|核心范畴]]与逻辑自洽性，为比较教育、学校教育学与社会教育学提供共有母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> - **教化价值核心（[[Bildung]] Core）** 始终将受教育者的全面精神觉醒与自主品格陶成置于首位，坚决抵御将人工具化为劳动力市场单一技能符号的危险。
 > - **规范反思能力（Normative [[Reflexivity]]）** 保持对教育现实与政治政策干预的审慎批判距离，不随世俗功利评价标准的波动而丧失学术自主性。
 > - **跨学科横切接口（Interdisciplinary Interface）** 能够合法且自觉地吸纳历史学、社会学与政治学等邻近学科的概念与方法，使普通理论具备解释宏观制度变迁的经验力量。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
 
@@ -115,17 +115,17 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜现代普通教育学通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制克服哲学封闭并实现跨学科经验实证扩展
-> **探讨维度　学科[[Open-Mindedness|开放性]]与[[Knowledge Integration|知识整合]]维度** 考察普通教育学如何突破传统形而上学书斋的自我封闭。通过将比较教育等分支确立为[[Comparative Education as a Cross-Sectional Area|交叉领域]]，普通教育学在维系育人内核的同时成功实现了面向历史与经验社会科学的现代化转型。
+> **探讨维度　学科[[Open-Mindedness|开放性]]与[[Knowledge Integration|知识整合]]维度** 考察普通教育学如何突破传统形而上学书斋的自我封闭。通过将比较教育等分支确立为[[Comparative Education as a Cross-Sectional Area|交叉领域]]，普通教育学在维系育人核心的同时成功实现了面向历史与经验社会科学的现代化转型。
 
 > [!claim] Mitter, W.
-> **母体依托下的跨学科制度创新** 米特论证指出，[[Oskar Anweiler|奥斯卡·安维勒]]在 20 世纪 60 年代将依托普通教育学母体的比较教育界定为面向历史学与社会学的交叉领域，具有深远的[[Paradigm|范式]]破局意义。这一建制构想既没有抛弃普通教育学对人的主体性培育这一母体传统，又果断打破了传统德意志唯心主义教育学的狭隘国别与哲学封闭性，成功开创了兼具深厚历史制度解释力与现代实证经验视野的学科新格局。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> **母体依托下的跨学科制度创新** 米特论证指出，[[Oskar Anweiler|奥斯卡·安维勒]]在 20 世纪 60 年代将依托普通教育学母体的比较教育界定为面向历史学与社会学的交叉领域，具有深远的[[Paradigm|范式]]突破意义。这一建制构想既没有抛弃普通教育学对人的主体性培育这一母体传统，又果断打破了传统德意志唯心主义教育学的狭隘国别与哲学封闭性，成功开创了兼具深厚历史制度解释力与现代实证经验视野的学科新格局。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **母体奠基命题** | 普通教育学为各分支学科提供不可化约的教化价值内核与哲学本体防线 | 抵御功利技术主义、反思教育本质 | [[Wolfgang Mitter\|Mitter]]; [[Dietrich Benner\|Benner]] |
+> | **母体奠基命题** | 普通教育学为各分支学科提供不可化约的教化价值核心与哲学本体防线 | 抵御功利技术主义、反思教育本质 | [[Wolfgang Mitter\|Mitter]]; [[Dietrich Benner\|Benner]] |
 > | **交叉融通命题** | 普通教育学通过确立交叉领域建制化解形而上学封闭并融合经验社科 | 战后教育科学重建、两德体制比较研究 | [[Wolfgang Mitter\|Mitter]]; [[Oskar Anweiler\|Anweiler]] |
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-11-02
 
 > [!debates] 学科[[Paradigm|范式]]与建制路径争议
 >
-> > [!axis] 统摄性母体学科 vs 实用经验多学科拼合
+> > [!axis] 统领性母体学科 vs 实用经验多学科拼合
 > > 围绕大学建制中是否需要一个超越具体分支的抽象[[Allgemeine Pädagogik|普通教育学]]中枢。
 > >
 > > - **欧陆母体传统立场（Anweiler, Mitter）** 坚持必须设立普通教育学母体以守住人的教化底线，各分支学科唯有依托母体方能避免方向迷失。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]

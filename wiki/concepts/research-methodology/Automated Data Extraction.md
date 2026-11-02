@@ -63,14 +63,14 @@ updated: 2026-11-02
 ---
 
 > [!def] Automated Data Extraction
-> 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化[[Document|文献]]全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
+> 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化[[Document|文献]]全文（如 PDF 格式的期刊文章）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于传统纯人工双人独立提取（Dual Human Extraction），自动化数据提取旨在通过算法替代或辅助人工完成最耗时的文献信息结构化转化。
 > - **用途** 突破系统评价与巨型二阶元分析的时间与人力瓶颈，将单篇文献平均耗时从 125–172 分钟压缩至数秒，支持大规模证据库的高频动态更新与持续综合。
 > - **边界** 自动化提取不等于完全免除人类监督；在复杂报告、嵌套亚组或不一致文本中，算法仍面临幻觉、遗漏与亚组错配风险，必须在[[Meaningful Human Control\|有意义的人类控制]]（Meaningful Human Control, MHC）框架下运行。
 
-> [!citation-card] 大模型自动化数据提取的技术[[Paradigm\|范式]]跃升（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）
+> [!citation-card] 大模型自动化数据提取的技术[[Paradigm\|范式]]提升（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）
 > 过去二十年间，研究者持续尝试使用人工智能加速数据提取；然而早期采用率始终低迷，因为每项综述都需要开发专用算法并具备高深编程技能，抵消了时间收益。近期大语言模型的突破，使得无需编程专业知识即可实现对复杂学术文本的高精度零样本与少样本自动化提取。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–3)]]
 >
 > *For the last 20 years, researchers have been trying to accelerate the process of data extraction by using [[Generative Artificial Intelligence\|Artificial Intelligence]]... Despite some success, adoption remained low because each [[Literature Review]] required the development of task-specific algorithms. Recently, developments in artificial intelligence, particularly large language models, promise substantial time savings without requiring programming expertise.*
@@ -92,7 +92,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 自动化数据提取的核[[Flow\|心流]]程要素
-> - **提取提示词架构** 包含角色设定、精确代码簿定义、优先级规则与少样本示例，使模型牢牢锚定在文献原文。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 7–8)]]
+> - **提取提示词架构** 包含角色设定、精确代码簿定义、优先级规则与少样本示例，使模型牢牢锚定在文献所读文本。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 7–8)]]
 > - **基准金标准** 通过多位人类专家独立交叉复核与仲裁研讨，消除单一专家提取中的固有瑕疵，确立无偏真值参照系。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 9–10)]]
 > - **多模型共识机制** 结合多个异构大语言模型（如 Gemini 2.5 Pro 与 [[General Purpose Technology|GPT]]-4.1）进行背对背独立提取与交集比对，自动标记分歧点并交由人类专家裁决。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–18, 24)]]
 
@@ -125,7 +125,7 @@ updated: 2026-11-02
 > **探讨维度　准确性等值与[[Reliability\|可靠性]]评估** 评估大语言模型与人类专家在面对高度复杂的学术[[Meta-analysis\|元分析]]文本时，提取[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]的统计一致度与分布对齐性。
 
 > [!claim] Jansen et al.
-> **模型提取准确度与专家基准无偏对齐** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 对 156 项教育元分析进行实证评测显示，三大前沿模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到了卓越水平（$\text{ICC} = 0.96–0.97$），百分比一致率介于 77%–81%，不仅模型间彼此高度收敛（$\text{ICC} = 0.95–0.97$），且表现完全匹敌甚至超越了单一人类专家的提取精度（$\text{ICC} = 0.81–0.95$），彻底打破了以往将人类单次提取视为无误差真值的传统假设。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–19)]]
+> **模型提取准确度与专家基准无偏对齐** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 对 156 项教育元分析进行实证评测显示，三大前沿模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到了卓越水平（$\text{ICC} = 0.96–0.97$），百分比一致率介于 77%–81%，不仅模型间彼此高度汇合（$\text{ICC} = 0.95–0.97$），且表现完全匹敌甚至超越了单一人类专家的提取精度（$\text{ICC} = 0.81–0.95$），彻底打破了以往将人类单次提取视为无误差真值的传统假设。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–19)]]
 
 ---
 
@@ -171,7 +171,7 @@ updated: 2026-11-02
 > | Gemini 2.5 Pro | 156 项教育[[Meta-analysis\|元分析]]（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | Gemini 2.5 Pro | $\text{ICC} = 0.96$（vs 金标准），一致率 81%（381/468）；幻觉 3 例，遗漏 21 例 | 准确率位列三大模型之首，高度对齐专家基准 | 提示词经过 10 篇预试验校准；使用专有商业模型 API |
 > | [[General Purpose Technology\|GPT]]-4.1 | 同上（共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | GPT-4.1 | $\text{ICC} = 0.97$（vs 金标准），一致率 78%（367/468）；幻觉 3 例，遗漏 22 例 | ICC 表现最高，相关性极强 | 遗漏集中于跨多表格的学生总数 $N$ 抽取 |
 > | GPT-o3 | 同上（共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | GPT-o3 | $\text{ICC} = 0.96$（vs 金标准），一致率 77%（360/468）；幻觉 4 例，遗漏 36 例 | 遗漏率略高于新一代模型，但 ICC 仍处优秀区间 | 复杂长文本上下文检索偏向保守编码 |
-> | 独立人类作者 | 同上（共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | 独立人类作者编码 | $\text{ICC} = 0.95$（vs 金标准），一致率 86%（402/468）；幻觉 4 例，遗漏 12 例 | 遗漏率最低，但仍存在 14% 的非完全一致离散 | 证明单一人类专家并非无误差，需仲裁建立金标准 |
+> | 独立人类撰写者 | 同上（共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | 独立人类撰写者编码 | $\text{ICC} = 0.95$（vs 金标准），一致率 86%（402/468）；幻觉 4 例，遗漏 12 例 | 遗漏率最低，但仍存在 14% 的非完全一致离散 | 证明单一人类专家有别于无误差，需仲裁建立金标准 |
 > | Visible Learning 原库 | 同上（共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | Visible Learning 原数据库 | $\text{ICC} = 0.81$（vs 金标准），一致率 80%（373/468）；幻觉 3 例，遗漏 31 例 | 单一编码偏离度最大（57 例独有偏离） | 反映早期巨型数据库人工录入的历史局限性 |
 
 ---

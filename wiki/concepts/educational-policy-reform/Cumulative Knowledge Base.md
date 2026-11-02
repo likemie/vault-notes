@@ -70,20 +70,20 @@ updated: 2026-11-02
 ---
 
 > [!def] Cumulative Knowledge Base
-> **累积性知识库（Cumulative Knowledge Base）** 是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步沉淀并动态调适形成的、被政策与[[Communities of Practice|实践共同体]]“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
+> **累积性知识库（Cumulative Knowledge Base）** 是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步积累并动态调适形成的、被政策与[[Communities of Practice|实践共同体]]“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向教育科学从“碎片化、竞争性、易随政党更迭与商业营销而颠覆的离散知识主张”，向“具备高度社会公信力、跨情境自洽性与持续可加总性”的系统性知识共同体的组织与[[Epistemology\|认识论]]状态。
 > - **用途** 它帮助研究者深刻反思为什么教育领域相比医学等先发学科在社会公信力与决策依从度上显著薄弱，揭示单体中介机构的孤岛化、短期预算考核以及[[Paradigm\|研究范式]]内耗对知识长效积累的阻滞机制。
-> - **边界** 它绝不等于静态封闭的“教条式标准化干预清单”或单一推崇[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）的技术官僚规则，而是兼顾宏观普遍性因果规律与微观本土情境复杂性的动态演化知识生态。
+> - **边界** 它绝不等于静态封闭的“教条式标准化干预清单”或单一推崇[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）的技术官僚规则，是兼顾宏观普遍性因果规律与微观本土情境复杂性的动态演化知识生态。
 
 > [!citation-card] Burns & Schuller 论累积性知识库建构
-> 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如[[Research Synthesis|研究综合]]本身已经从关注单篇论文迈向二阶系统综述一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]])
+> 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如[[Research Synthesis|研究综合]]本身已经从关注单篇文章迈向二阶系统综述一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]])
 >
 > *"Unlike medicine, education is conspicuously weak in its ability to continuously develop and refine a body of knowledge that is quasi-universally acknowledged as well founded... Just as research synthesis itself has moved beyond a focus on individual research papers to systematic reviews of reviews, so too do the structures and processes of brokerage need to work together across institutions and systems to support a cumulative effort."*
 
 > [!boundary]- 概念边界
-> - 不等于 循证实践工具包（Evidence Toolkits）：工具包通常是面向一线教师微观决策的通俗化应用产品，属于累积性知识库在实践末梢的转化形态，不能替代底层累积性证据综合与方法学沉淀。
+> - 不等于 循证实践工具包（Evidence Toolkits）：工具包通常是面向一线教师微观决策的通俗化应用产品，属于累积性知识库在实践末梢的转化形态，不能替代底层累积性证据综合与方法学积累。
 > - 不等于单一机构数据库（Single Agency Repositories）：个别中介机构（如 [[What Works Clearinghouse\|WWC]] 或 [[Education Endowment Foundation\|EEF]]）的数据库是其重要组成部分，但累积性知识库要求跨系统、跨语种与跨学术传统的互联互通与元治理。
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-11-02
 > | 维度 | 累积性知识库（Cumulative Knowledge Base） | 循证实践工具包（Practice Toolkits） | 传统学术[[Document\|文献]]库（Academic Repositories） |
 > |---|---|---|---|
 > | **组织治理属性** | 跨国、跨系统元中介协作网络与二阶综合平台 | 单一中介机构面向基层研发的通俗转化工具 | 大学、出版商或学术学会的离散期刊集合 |
-> | **知识集成形态** | 二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）与情境调适模型 | [[Effect Size\|效应量]]、成本估算与实践警示卡片 | 单篇[[Case Study\|个案研究]]、实验报告与理论论文 |
+> | **知识集成形态** | 二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）与情境调适模型 | [[Effect Size\|效应量]]、成本估算与实践警示卡片 | 单篇[[Case Study\|个案研究]]、实验报告与理论性文章 |
 > | **公信力来源** | 全球共同体准普遍公认、多元方法互证与时间检验 | 权威因果实验准入筛选与一线学校采纳度 | 期刊同行评议与影响因子引文计量 |
 > | **核心治理功能** | 为全系统提供长效知识护城河，抵御政治与商业颠覆 | 指导一线教师与校领导微观教育教学日常决策 | 供专业研究人员进行学术争鸣与前沿创新 |
 
@@ -137,7 +137,7 @@ updated: 2026-11-02
 > **探讨维度　[[Epistemic Governance\|知识治理]]生态的周期错配** 探讨公共财政资助机制、政治换届选举与教育研究长周期显效之间的体制性张力。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
-> **政治预算短周期与长期知识沉淀的结构性断裂** 教育之所以未能建立类似医学的坚固知识基石，核心体制瓶颈不在于研究者生产力不足，而在于治理维度的周期性错配。政府拨款与中介服务合同普遍以 2 至 3 年为考核考核周期，而重大教育改革与复杂知识吸收通常需要 5 至 10 年才能全面显效（Borman et al., 2003）。在面临政治选举更迭或财政紧缩时，成效评估往往是最先被削减或直接略过的环节；大量原本具有探索价值的中介项目（如[[Canadian Council on Learning\|加拿大终身学习委员会]]、丹麦清算中心）在成效评估出炉前便被仓促撤资关停，致使教育知识系统陷入“不断另起炉灶、始终无法纵向累积”的碎片化循环。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])
+> **政治预算短周期与长期知识积累的结构性断裂** 教育之所以未能建立类似医学的坚固知识基石，核心体制瓶颈在于治理维度的周期性错配，有别于研究者生产力不足。政府拨款与中介服务合同普遍以 2 至 3 年为考核考核周期，而重大教育改革与复杂知识吸收通常需要 5 至 10 年才能全面显效（Borman et al., 2003）。在面临政治选举更迭或财政紧缩时，成效评估往往是最先被削减或直接略过的环节；大量原本具有探索价值的中介项目（如[[Canadian Council on Learning\|加拿大终身学习委员会]]、丹麦清算中心）在成效评估出炉前便被仓促撤资关停，致使教育知识系统陷入“不断另起炉灶、始终无法纵向累积”的碎片化循环。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])
 
 ---
 
@@ -203,8 +203,8 @@ updated: 2026-11-02
 > | [[Professional Judgment]] | 概念 | 累积性知识库必须护持的核心实践基石，反对技术化[[Cognitive Deskilling\|去技能化]]。 |
 > | [[Research Literacy]] | 概念 | 决策者与教师吸收、审议与调适累积性知识库的必备资质。 |
 > | [[Heterogeneity]] | 概念 | 累积性知识库在方法学上必须有效应对与融合的核心挑战。 |
-> | [[Systematic Review]] | 方法 | 沉淀累积性知识基石的核心研究与综合方法。 |
-> | [[Canadian Council on Learning]] | 机构事实 | 缺乏长期制度预算支持导致夭折、阻断累积性知识沉淀的反面案例。 |
+> | [[Systematic Review]] | 方法 | 积累累积性知识基石的核心研究与综合方法。 |
+> | [[Canadian Council on Learning]] | 机构事实 | 缺乏长期制度预算支持导致夭折、阻断累积性知识积累的反面案例。 |
 > | [[Education Media Centre]] | 机构事实 | 依托累积性知识库面向大众媒体与公众提供快速事实核查的案例。 |
 
 ---

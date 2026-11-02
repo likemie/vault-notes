@@ -69,14 +69,14 @@ updated: 2026-11-02
 > - **概念边界** 区别于对落后过剩产能的地方保护主义行政垄断；确定性需求必须严格绑定前沿技术性能指标、开放竞争发包与动态价格递减约定。
 
 > [!citation-card] 施尼论确定性需求对高技术产业初始增长的决定性作用
-> 杰罗姆·E·施尼（Jerome E. Schnee, 1978）系统论证指出，政府大项目对高技术产业最核心的经济贡献并不在于前期的基础研究资助，而在于其在商业化初创期所提供的确定性市场需求：
+> 杰罗姆·E·施尼（Jerome E. Schnee, 1978）系统论证指出，政府大项目对高技术产业最核心的经济贡献并在于其在商业化初创期所提供的确定性市场需求：，有别于前期的基础研究资助
 >
 > 空间与国防计划对半导体和计算机工业早期发展最深远的经济影响，在于其提供了确定性的市场需求。政府机构充当了新兴技术的第一个主要买家，在商业应用出现之前为企业提供了生存和扩张所必需的规模保障，推动了制造经验的积累与器件价格的急剧下降。
 >
 > *The most profound economic impact of space and defense programs on the early development of the semiconductor and computer industries was the provision of an assured market. Government agencies served as the first major customer for emerging technologies, absorbing early high costs and providing the volume needed for [[Learning Economy|learning economies]] before commercial markets materialized.* [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 6–7)]]
 
 > [!boundary]- 概念边界
-> - **不等于 单纯的供给侧研发补贴（Supply-side R&D Subsidies）** 供给侧补贴仅解决技术“能否在实验室研发成功”的可行性问题，无法化解“产品面世后是否有客户买单”的商业化[[Valley of Death|死亡之谷]]；确定性需求直接在需求端打通商业化现金流闭环。
+> - **不等于 单纯的供给侧研发补贴（Supply-side R&D Subsidies）** 供给侧补贴仅解决技术“能否在实验室研发成功”的可行性问题，无法化解“产品面世后是否有客户买单”的商业化[[Valley of Death|死亡之谷]]；确定性需求直接在需求端打通商业化现金流反馈回路。
 > - **不等于 保护主义统购统销（Protectionist Quota Procurement）** 传统的统购统销保护落后产能并规避竞争；现代创新意义上的确定性需求以极致技术指标为招标前提，坚持技术择优与竞争性发包。
 > - **不适用于 技术[[Paradigm|范式]]完全成熟且民间自发商业需求已占据绝对主导的成熟大众商品领域**。
 
@@ -92,7 +92,7 @@ updated: 2026-11-02
 
 ---
 
-> [!feature] 确定性需求拉动产业跃升的三大核心机制
+> [!feature] 确定性需求拉动产业提升的三大核心机制
 > - **首发市场全额兜底（100% First-Buyer Underwriting）** 在技术商业化元年，公共采购全额包揽产业总产值（如 1962 年美军包揽 100% 集成电路产值，1954 年军方包揽 100% 计算机市场），承担早期高昂试错溢价。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 > - **[[Learning Economy|学习经济]]与成本暴跌传导（Learning Curve Cost Collapse）** 确定性订单保障企业敢于投入巨额资本开辟生产线，在满足订单的过程中推动累计产量翻番，释放器件单位成本下降 20%–30% 的[[Learning Economy|学习经济]]，使价格暴跌十倍至数十倍并跨越民用普及门槛。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 8–9)]]
 > - **技术择优打破垄断格局（Merit-Based Market Restructuring）** 政府采购坚持按前沿参数与履约性能发包，结合第二货源（[[Second-Sourcing]]）要求，使新创非电子管企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]）打破传统老牌寡头垄断，重塑高竞争性产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 8, 18)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168)]]
@@ -109,8 +109,8 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜公共部门的确定性需求是颠覆性技术跨越商业化[[Valley of Death|死亡之谷]]的最有效需求侧杠杆
-> **探讨维度　商业化买单不确定性与中试鸿沟跨越维度** 探讨颠覆性技术在脱离实验室后因初期制造成本高昂而缺乏民间买家时，公共采购如何充当托底杠杆。
+> [!concept-proposition] 命题一｜公共部门的确定性需求是颠覆性技术跨越商业化[[Valley of Death|死亡之谷]]的最有效需求侧手段
+> **探讨维度　商业化买单不确定性与中试鸿沟跨越维度** 探讨颠覆性技术在脱离实验室后因初期制造成本高昂而缺乏民间买家时，公共采购如何充当托底手段。
 
 > [!claim] [[Argument_Schnee_1978_RP|Schnee (1978)]]; [[Argument_Mowery_2011_NBER|Mowery (2011)]]
 > **早期托底[[Pull Mechanisms for Innovation|拉动机制]]** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与莫厄里（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）实证指出，在 1962 年集成电路商业化元年，单片芯片均价高达 50 美元，民用商业市场完全无法承受该价格；由于国防与空间部门承诺包揽全部产出（100% 采购托底），企业得以迅速提升生产良率并实现规模效应。至 1968 年均价降至 2 美元，1973 年降至 0.63 美元，民用计算机与工业控制市场随之爆发式接轨，证明确定性需求是新技术跨越[[Valley of Death|死亡之谷]]的决定性前提。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–168)]]

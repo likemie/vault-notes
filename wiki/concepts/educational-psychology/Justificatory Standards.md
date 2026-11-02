@@ -76,7 +76,7 @@ updated: 2026-11-02
 > - **边界** 确证标准属于微观操作化准则，区别于“知识是否绝对确定”等宏观抽象的[[Epistemological Beliefs\|认识论信念]]（[[Epistemological Beliefs]]），也区别于探究追求的终极指向（[[Epistemic Aims]]）。
 
 > [!citation-card] 确证标准的微观操作化与情境社会性
-> 确证标准在[[Epistemic Cognition\|认识论认知]]中具有高度的微观操作化特征。粗略询问学生是否信任权威或证据毫无意义，关键在于他们基于何种细粒度的确证标准来赋予信任……在科学课堂与探究共同体中，确证准则不是脱域的抽象法则，而是在社会互动中经过持续辩驳与协商而确立的公共规范。（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011, pp. 154–155]]; [[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016, p. 471]]; [[Argument_Duncan_2025_CI\|Duncan & Chinn, 2025, p. 208]]）
+> 确证标准在[[Epistemic Cognition\|认识论认知]]中具有高度的微观操作化特征。粗略询问学生是否信任权威或证据毫无意义，关键在于他们基于何种细粒度的确证标准来赋予信任……在科学课堂与探究共同体中，确证准则是在社会互动中经过持续辩驳与协商而确立的公共规范，有别于脱域的抽象法则。（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011, pp. 154–155]]; [[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016, p. 471]]; [[Argument_Duncan_2025_CI\|Duncan & Chinn, 2025, p. 208]]）
 >
 > *Justificatory standards are the fine-grained criteria used to evaluate knowledge claims and evidence... Rather than viewing justification as a static, decontextualized belief, standards are deeply embedded in disciplinary practices and socially negotiated through collective inquiry.*
 
@@ -92,12 +92,12 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | 分析层次与特异性 | 微观具体，高度[[Operationalization\|操作化]] | 宏观抽象，跨领域概括 | 具体的因果操作流程与方法规程 |
 > | 考察核心 | 判定知识是否成立的质性准则 | 对知识性质与来源的总体主观信念 | 生成与采集可靠数据的实践动作 |
-> | 典型表征 | 要求双盲对照、多源证据收敛、机制直接性 | 认为知识是复杂的、认为真理是相对的 | 实施随机双盲实验、规范抽样、系统观察 |
+> | 典型表征 | 要求双盲对照、多源证据汇合、机制直接性 | 认为知识是复杂的、认为真理是相对的 | 实施随机双盲实验、规范抽样、系统观察 |
 
 ---
 
 > [!feature] 确证标准的核心维度与分类
-> - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源收敛印证。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
+> - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源汇合印证。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
 > - **非实证确证标准（Nonevidential Standards）** 涉及理论美学与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 155)]]
 > - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（[[Trust Calibration|Calibrated Trust]]）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–153)]]
 > - **动态情境敏感性与社会协商（Situational Sensitivity & Social Negotiation）** 确证标准随任务情境动态调整，并在课堂[[Discourse|话语]]互动流中由师生共同体持续辩驳协商而成。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]
@@ -124,7 +124,7 @@ updated: 2026-11-02
 > **探讨维度　确证标准对认知加工与争议解决的机制决定维度** 探讨为何抽象的[[Epistemological Beliefs\|认识论信念]]无法预测行为，揭示细粒度确证标准对证据采信与信息甄别的直接决定作用。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] et al.
-> **细粒度标准决定行为分野** 粗放地测量个体“是否相信证据”或“是否信任权威”无法解释真实探究行为。两名在[[Questionnaire\|问卷]]上同样标榜相信权威的学习者，面对冲突材料时会表现出完全相反的加工策略：依赖盲信标准者无视方法缺陷直接采信，而持有理性共识标准者则深入审查作者的研究设计与[[Sample Size Determination\|样本量]]。决定学习者能否识破伪科学的不是抽象信念，而是其头脑中调动的细粒度确证标准。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–155)]]
+> **细粒度标准决定行为分野** 粗放地测量个体“是否相信证据”或“是否信任权威”无法解释真实探究行为。两名在[[Questionnaire\|问卷]]上同样标榜相信权威的学习者，面对冲突材料时会表现出完全相反的加工策略：依赖盲信标准者无视方法缺陷直接采信，而持有理性共识标准者则深入审查撰写者的研究设计与[[Sample Size Determination\|样本量]]。决定学习者能否识破伪科学的是其头脑中调动的细粒度确证标准，有别于抽象信念。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–155)]]
 
 ---
 
@@ -132,7 +132,7 @@ updated: 2026-11-02
 > **探讨维度　确证标准的情境生成与社会互动维度** 考察确证标准究竟是个体固有的静态心智特质，还是共同体互动中的实践规范。
 
 > [!claim] [[William A. Sandoval|Sandoval, W. A.]] et al.
-> **情境依赖与社会互动建构** 确证标准并非个体跨情境固化的心理特质，而是高度情境化且在社会互动流中动态建构的。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的[[Evidence Standards\|证据标准]]并非由教师单向告知，而是通过师生、生生对话辩驳逐步析出的集体实践契约。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 471–472)]]
+> **情境依赖与社会互动建构** 确证标准是高度情境化且在社会互动流中动态建构的，有别于个体跨情境固化的心理特质。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的[[Evidence Standards\|证据标准]]是通过师生、生生对话辩驳逐步析出的集体实践契约，有别于由教师单向告知。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 471–472)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-11-02
 > **探讨维度　确证标准向论证规范[[Operationalization\|操作化]]的理论进阶维度** 探讨确证标准如何在当代科学论证评价中转化为系统操作框架，推动评价超越外在句法结构。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
-> **操作化为[[Epistemic Ideals\|认识论理想]]** 在科学论证与建模实践中，确证标准进一步操作化为针对认识产出的规范性评价量规——认识论理想（[[Epistemic Ideals]]）。传统基于[[Toulmin's Argumentation Model\|图尔敏模型]]或 CER 框架的评价只核对论证部件的形式有无，无法识别披着完备外衣的伪科学诡辩；唯有将评价标准下沉至实证确证准则（如证据契合度、多源收敛印证、设计决定性与直接性），才能真实衡量论证的知识确证力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211)]]
+> **操作化为[[Epistemic Ideals\|认识论理想]]** 在科学论证与建模实践中，确证标准进一步操作化为针对认识产出的规范性评价量规——认识论理想（[[Epistemic Ideals]]）。传统基于[[Toulmin's Argumentation Model\|图尔敏模型]]或 CER 框架的评价只核对论证部件的形式有无，无法识别披着完备外衣的伪科学诡辩；唯有将评价标准下沉至实证确证准则（如证据契合度、多源汇合印证、设计决定性与直接性），才能真实衡量论证的知识确证力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211)]]
 
 ---
 

@@ -117,7 +117,7 @@ updated: 2026-11-02
 > **探讨维度　支架介入时机与策略习得** 探究情境中变量维度的复杂性对学习者的[[Working Memory\|工作记忆]]构成挑战，教学干预的关键在于提供有效支架，而非必须将显性规则前置。
 
 > [!claim] Lazonder & Egberink
-> **前置规则指导与过程中支架的等价性** 在学生开展科学探究之前显性讲授变量控制策略，与在探究进行过程中通过系统[[Scaffolding\|脚手架]]（如提示卡、引导性提问与即时反馈）引导学生发现并维持变量控制，对最终的探究技能发展具有完全同等的促进效果。教学设计的关键不在于是否“前置讲授”，而在于探究全周期中是否获得了精准的认知支持。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9)]]
+> **前置规则指导与过程中支架的等价性** 在学生开展科学探究之前显性讲授变量控制策略，与在探究进行过程中通过系统[[Scaffolding\|脚手架]]（如提示卡、引导性提问与即时反馈）引导学生发现并维持变量控制，对最终的探究技能发展具有完全同等的促进效果。教学设计的关键在于探究全周期中是否获得了精准的认知支持，有别于是否“前置讲授”。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9)]]
 
 ---
 
@@ -136,7 +136,7 @@ updated: 2026-11-02
 > > 直接教学派（如 Klahr et al. 早期研究）主张[[Variable\|变量]]控制策略是高度不透明的人为规则，儿童无法自发发现，必须由教师直接讲授并示范；而探究派与认知发展学者（如 Kuhn et al.）认为过早灌输规则会导致表层仪式性模仿，剥夺学生在认知冲突中进行[[Reflexivity\|反思性]]概括的机会。
 > >
 > > - **Klahr and Nigam (2004)** 主张直接教学在让儿童快速习得变量控制策略方面显著快于[[Discovery Learning\|纯发现学习]]，且能在后续设计中产生迁移。
-> > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 指出 Klahr et al. 研究所采用的“直接教学”并非仅是单向讲读，而是包含了让学生主动设计、评估实验并获得针对性反馈的探究要素；大规模[[Meta-analysis\|元分析]]已证明显性规则教学并无普遍优越性。（p. 4）
+> > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 指出 Klahr et al. 研究所采用的“直接教学”是包含了让学生主动设计、评估实验并获得针对性反馈的探究要素，有别于仅是单向讲读；大规模[[Meta-analysis\|元分析]]已证明显性规则教学并无普遍优越性。（p. 4）
 
 > [!warning] 适用局限
 > 变量控制策略主要聚焦于单因素线性[[Causality\|因果关系]]的离散变量系统。面对现实世界中普遍存在的非线性交互系统、复杂自适应网络或[[Emergence\|涌现]]现象时，机械坚持“单一变量控制”可能诱发还原论偏误，难以解释多元动态平衡。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
@@ -150,7 +150,7 @@ updated: 2026-11-02
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | <span class="mx-bar ef-bar" title="Hedges' g 0.61"><span class="b12"></span></span>0.61 | [0.52, 0.70] | Hedges' $g$，随机效应；按两亚组固定效应合并计算 | $k = 72$ / — | [[Dependent Variable\|结果变量]]：探讨显性规则教学对比非显性探究对[[Variable\|变量]]控制策略（CVS）掌握的总体效果 | 原文两组[[Confidence Interval\|置信区间]]重叠，组间无显著差异 | 涵盖 72 项干[[Pilot Testing\|预实验]]，推翻了单项研究关于显性讲授 CVS 具有绝对优越性的断言 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | <span class="mx-bar ef-bar" title="Hedges' g 0.61"><span class="b12"></span></span>0.61 | [0.52, 0.70] | Hedges' $g$，随机效应；按两亚组固定效应合并计算 | $k = 72$ / — | [[Dependent Variable\|结果变量]]：探讨显性规则教学对比非显性探究对[[Variable\|变量]]控制策略（CVS）掌握的总体效果 | 所读文本两组[[Confidence Interval\|置信区间]]重叠，组间无显著差异 | 涵盖 72 项干[[Pilot Testing\|预实验]]，推翻了单项研究关于显性讲授 CVS 具有绝对优越性的断言 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

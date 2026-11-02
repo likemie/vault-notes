@@ -63,7 +63,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Data Reduction
-> 数据缩减（Data Reduction）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]中与[[Data Display\|数据展示]]、结论得出/验证并行的三大核心分析流之一，指在整个研究生命周期中对质性[[Field Notes\|田野笔记]]、访谈[[Transcription in Qualitative Research\|转录]]稿或其他书面材料进行选择、聚焦、简化、抽象与转化的持续过程。质性数据体量庞大且具有非结构化特征，极易引发数据过载（data overload）危机；数据缩减并非在收集结束后才独立发生的机械删减，而是从研究设计阶段即已启动，并通过单位化（unitizing）、[[Open Coding\|开放编码]]、层级归并、备忘录撰写以及[[Data Display\|数据展示]]贯穿始终的质性提炼机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
+> 数据缩减（Data Reduction）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]中与[[Data Display\|数据展示]]、结论得出/验证并行的三大核心分析流之一，指在整个研究生命周期中对质性[[Field Notes\|田野笔记]]、访谈[[Transcription in Qualitative Research\|转录]]稿或其他书面材料进行选择、聚焦、简化、抽象与转化的持续过程。质性数据体量庞大且具有非结构化特征，极易引发数据过载（data overload）危机；数据缩减是从研究设计阶段即已启动，并通过单位化（unitizing）、[[Open Coding\|开放编码]]、层级归并、备忘录撰写以及[[Data Display\|数据展示]]贯穿始终的质性提炼机制，有别于在收集结束后才独立发生的机械删减。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 贯穿[[Qualitative Research\|质性研究]]生命周期的连续提炼与转化机制，通过选择、聚焦、分类与抽象将海量田野文本转化为有意义的[[Unit of Analysis\|分析单元]]与理论范畴。
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > [!feature] 数据缩减的四大演进要素
 > - **前期预缩减（Anticipatory Reduction）** 在数据收集前即已自发启动，通过[[Research Question\|研究问题]]选定、概念框架确立、个案与抽样边界界定、[[Interview Protocol\|访谈提纲]]编制等先验决策，对潜在数据范围施加首次结构性缩减。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
 > - **过程单位化与粗编码（Unitizing and Coarse Coding）** 将连贯连续文本划分为可独立分析的意义单元（Lincoln & Guba, 1985），剔除冗余修辞并赋予宽泛的描述性代码（Bogdan & Biklen, 1992），实现第一波文本密度压缩。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
-> - **层级归并与范畴化（Hierarchical Subsumption and Categorization）** 依据类属相似性或逻辑包含关系将粗编码不断合并归拢（Gibbs, 2007），控制层级树深度，将数以百计的原始代码收敛为少数[[Central Phenomenon\|核心范畴]]及其维度属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
+> - **层级归并与范畴化（Hierarchical Subsumption and Categorization）** 依据类属相似性或逻辑包含关系将粗编码不断合并归拢（Gibbs, 2007），控制层级树深度，将数以百计的原始代码汇合为少数[[Central Phenomenon\|核心范畴]]及其维度属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **展示性浓缩与质性计数（Display-driven Condensation and Counting）** 借助矩阵、网络图、频数统计单（Weber, 1990）与因果链，将庞杂叙述转换为高信息密度的视觉结构，支持横向交叉对比与整体推论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 538)]]
 
 > [!logic-map]- 数据缩减的生命周期流向
@@ -116,10 +116,10 @@ updated: 2026-11-02
 ### 命题一　数据缩减是贯穿质性研究全生命周期的持续分析过程
 
 > [!concept-lens] 分析周期的全时嵌入性
-> 探讨质性数据缩减的时间维度，强调缩减不仅是收集后的文本删剪，而是在研究设想、[[Qualitative Observation\|田野观察]]、记录重构与分析推论中始终在场的分析活动。
+> 探讨质性数据缩减的时间维度，强调缩减不仅是收集后的文本删剪，是在研究设想、[[Qualitative Observation\|田野观察]]、记录重构与分析推论中始终在场的分析活动。
 
 > [!claim] Miles & Huberman
-> **全周期分析流判定** Miles 与 Huberman 论证指出，数据缩减不是独立于分析的预备步骤，其本身就是分析的核心组成部分。在研究者实际收集数据之前，通过选定概念框架、界定[[Research Question\|研究问题]]、筛选个案样本与设计访谈工具，预见性数据缩减（anticipatory data reduction）就已经悄然发生；在田野进行期间，通过撰写现场摘要、即时备忘录、挑选题材深化追踪，缩减持续推进；而在田野结束后，通过单位化切分、编码重组、范畴抽象与建立矩阵，缩减工作一直延续至最终报告产出。因此，数据缩减是[[Qualitative Research\|质性研究]]者不可回避的主动认知决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
+> **全周期分析流判定** Miles 与 Huberman 论证指出，数据缩减有别于独立于分析的预备步骤，其本身就是分析的核心组成部分。在研究者实际收集数据之前，通过选定概念框架、界定[[Research Question\|研究问题]]、筛选个案样本与设计访谈工具，预见性数据缩减（anticipatory data reduction）就已经悄然发生；在田野进行期间，通过撰写现场摘要、即时备忘录、挑选题材深化追踪，缩减持续推进；而在田野结束后，通过单位化切分、编码重组、范畴抽象与建立矩阵，缩减工作一直延续至最终报告产出。因此，数据缩减是[[Qualitative Research\|质性研究]]者不可回避的主动认知决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
 
 ---
 
@@ -145,7 +145,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 概念演变
-> - **1976 — 渐进聚焦的萌芽** Hamilton（1976）与 Parlett and Hamilton（1976）在阐释阐明性评价时提出渐进聚焦原则，主张质性探究应随着田野深入逐步收敛焦点，构成了质性数据在场缩减的最早方法论雏形。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 535)]]
+> - **1976 — 渐进聚焦的萌芽** Hamilton（1976）与 Parlett and Hamilton（1976）在阐释阐明性评价时提出渐进聚焦原则，主张质性探究应随着田野深入逐步汇合焦点，构成了质性数据在场缩减的最早方法论雏形。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 535)]]
 > - **1984/1994 — 交互分析流模型的奠基** Miles & Huberman 提出质性数据分析的三联交互框架（数据缩减、[[Data Display\|数据展示]]、结论得出/验证），首次将“数据缩减”确立为正当、系统、全生命周期的方法论核心概念，打破了只有量化才能缩减数据的偏见。
 > - **2007 — 缩减与膨胀的双向张力反思** Gibbs（2007）对单一的缩减说提出学理修正，指出质性分析在编码、反思备忘录与理论阐释阶段往往伴随着材料体量与复杂度的局部膨胀（expansion），数据缩减与解释膨胀共同构成了分析的动态循环。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **2011 — 教育研究多[[Meta-analysis\|元分析]]体系的整合** Cohen、Manion & Morrison 将数据缩减与矩阵展示、[[Content Analysis\|内容分析]]11步流程深度整合，以学校教育中的大量实证案例系统示范了质性数据缩减的[[Operationalization\|操作化]]路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
@@ -158,7 +158,7 @@ updated: 2026-11-02
 > > 探讨质性分析的本质是精简信息还是丰富阐释。
 > >
 > > - **Miles & Huberman** 强调面对质性数据的海量与杂乱，必须通过选择、聚焦与矩阵化实现数据缩减，否则研究者将深陷认知过载与推论瘫痪。
-> > - **Gibbs** 指出质性分析并非单纯的单向缩减过程；在进行深层诠释、[[Reflexivity\|反身性]]思考和备忘录撰写时，分析材料的体量与认知密度往往会出现显著膨胀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
+> > - **Gibbs** 指出质性分析并不单纯的单向缩减过程；在进行深层诠释、[[Reflexivity\|反身性]]思考和备忘录撰写时，分析材料的体量与认知密度往往会出现显著膨胀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 
 > [!warning] 适用局限
 > - **离散切片的去情境化风险** 过度激进的文本切分（unitizing）和孤立编码容易剥离受访者言语的情境脉络与叙事时序连贯性，导致碎片化代码丧失整体意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]

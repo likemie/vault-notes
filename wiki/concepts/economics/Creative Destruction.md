@@ -49,12 +49,12 @@ updated: 2026-11-02
 > [[Creativity|创造性]]破坏（Creative Destruction）是[[Evolutionary Economics|演化经济学]]与[[Joseph Schumpeter|熊彼特]]创新理论的核心概念，指企业与企业家通过引入根本性创新（激进产品、新工艺、新原材料、新组织方式与新市场），从资本主义系统内部不断摧毁陈旧的经济结构与既有[[Technological Trajectories|技术轨道]]，并持续创造全新生产函数与产业生态的内生产业突变过程；它不仅导致陈旧产业与生产线实物资产的迅速贬值，更引发既有劳动技能、职业分工乃至宏观社会规制结构的系统性震荡。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 经济演化并非新古典经济学所假设的平滑边际增量优化或均质资源均衡分配，而是一个由非连续激进突变所驱动的“破坏—重构”内在动态。
+> - **含义** 经济演化是一个由非连续激进突变所驱动的“破坏—重构”内在动态，有别于新古典经济学所假设的平滑边际增量优化或均质资源均衡分配。
 > - **用途** 用于解释为什么重大技术革命（如以微电子为代表的[[General Purpose Technology|通用技术]][[Paradigm|范式]]转型）必然引发剧烈的产业洗牌、结构性失业以及大规模技能重组，帮助研究者看见技术进步背后残酷的社会制度重塑成本。
 > - **边界** 创造性破坏指向重大技术与组织架构重塑，区别于日常生产运行中的常规边际改良（渐进式创新）与静态价格市场竞争。
 
 > [!citation-card] 激进创新内涵的破坏性与制度调适
-> 适宜于某一类技术架构的社会与制度框架，绝不可能同样契合于某种根本激进的新技术。渐进式创新往往能够被既有体制轻松吸纳，但根据定义，包含创造性破坏要素的激进创新却绝非如此。当我们面对大规模激进创新群集并伴随迅猛的渐进式创新过程时，结构性与社会层面的调适问题便会变得极其严峻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
+> 适宜于某一类技术架构的社会与制度框架，绝不可能同样契合于某种根本激进的新技术。渐进式创新往往能够被既有体制轻松吸纳，但根据定义，包含创造性破坏要素的激进创新却并不如此。当我们面对大规模激进创新群集并伴随迅猛的渐进式创新过程时，结构性与社会层面的调适问题便会变得极其严峻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 >
 > *Perez (1983) has pointed out that the social and institutional framework which is hospitable to one set of technologies will not be so suitable for a radically new technology. Whereas incremental innovations can be easily accommodated, this may not be the case with radical innovations which by definition involve an element of creative destruction. When we are talking about large clusters of radical innovations combined with rapid processes of incremental innovation, then the problems of structural and social adjustment can be very great.*
 
@@ -74,7 +74,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **激进创新集群（Clusters of Radical Innovations）** [[Creativity|创造性]]破坏并非由孤立个别发明触发，而是由多项关键共性技术与组织创新在特定历史阶段形成的系统性群集所驱动。
+> - **激进创新集群（Clusters of Radical Innovations）** [[Creativity|创造性]]破坏是由多项关键共性技术与组织创新在特定历史阶段形成的系统性群集所驱动，有别于由孤立个别发明触发。
 > - **落后轨道与资产淘汰（Obsolescence of Capital and Skills）** 新生产[[Paradigm|范式]]的崛起必然导致依赖旧技术的机器设备发生经济性贬值，传统工人的单一专业技能面临系统性淘汰风险。
 > - **制度滞后与结构失衡（Institutional Drag & Structural Mismatch）** 旧社会制度（旧教育体制、[[Apprenticeship|学徒培训]]模式、工会规章与专利法律）具有深厚的历史惯性，在面对激进新技术冲击时必然出现滞后与阻滞。
 > - **制度多样性试错（Evolutionary Variety & Trial-and-Error）** 克服创造性破坏带来的结构性混乱，要求[[National Innovation System|国家创新系统]]提供容纳多种组织模式试错的制度空间，防止过早锁定在单一技术路线。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]

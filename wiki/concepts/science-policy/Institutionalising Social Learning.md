@@ -6,7 +6,7 @@ aliases:
   - 社会学习治理
   - Social Learning in Governance
   - Social Learning (Policy and Transitions)
-summary: "在复杂公共治理与转型政策中，通过多方参与、共同愿景塑造与反思性试验实现集体认知收敛的制度化过程"
+summary: "在复杂公共治理与转型政策中，通过多方参与、共同愿景塑造与反思性试验实现集体认知汇合的制度化过程"
 type: concept
 domain: "science-policy"
 related_count: 11
@@ -44,7 +44,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Institutionalising Social Learning
-> **制度化社会学习（Institutionalising Social Learning）** 是由 R. L. 伊森（R. L. Ison）、K. B. 柯林斯（K. B. Collins）与 P. J. 沃利斯（P. J. Wallis）于 2015 年系统提出的治理理论与学习科学概念，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为破解[[Wicked Problem|棘手问题]]并推动使命导向政策走向收敛的核心机制。它指面对高度复杂、充斥价值争议与[[Scientific Uncertainty|认知不确定性]]的社会转型挑战时，治理体系超越单向的技术知识传递与专家封闭决策，通过在制度层面搭建包容政策制定者、科研人员、企业与公众的协作平台，借助共同愿景塑造（Collective Visioning）、[[Participatory Research|参与式研究]]与认知框架重构（Framing/Reframing），促使异质行动者在持续互动与试错中达成理解互信与行动收敛的集体学习过程。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
+> **制度化社会学习（Institutionalising Social Learning）** 是由 R. L. 伊森（R. L. Ison）、K. B. 柯林斯（K. B. Collins）与 P. J. 沃利斯（P. J. Wallis）于 2015 年系统提出的治理理论与学习科学概念，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为破解[[Wicked Problem|棘手问题]]并推动使命导向政策走向汇合的核心机制。它指面对高度复杂、充斥价值争议与[[Scientific Uncertainty|认知不确定性]]的社会转型挑战时，治理体系超越单向的技术知识传递与专家封闭决策，通过在制度层面搭建包容政策制定者、科研人员、企业与公众的协作平台，借助共同愿景塑造（Collective Visioning）、[[Participatory Research|参与式研究]]与认知框架重构（Framing/Reframing），促使异质行动者在持续互动与试错中达成理解互信与行动汇合的集体学习过程。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标识出一种将多元主体的认知交互、反思与协商制度化嵌入公共决策和科技研发全周期的集体学习模式。
@@ -52,7 +52,7 @@ updated: 2026-11-02
 > - **边界** 严格区别于心理学中[[Albert Bandura|阿尔伯特·班杜拉]]（Albert Bandura）基于个体模仿的[[Social Learning Theory|社会学习理论]]（Social Learning Theory），也不同于单纯的单向科普教育或公关宣传。
 
 > [!citation-card] 通过社会学习驯服棘手挑战
-> 传统观点认为棘手问题具有不可改变的固有性质。而社会学习理论表明，棘手问题能够通过认知框架重构（Framing）被有效驯服。虽然问题本质上依然复杂，但通过针对不同解决方案、社会预期与问题感知的技术与社会学习，各方能够逐步迈向收敛且稳定的治理格局。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 487)]]
+> 传统观点认为棘手问题具有不可改变的固有性质。而社会学习理论表明，棘手问题能够通过认知框架重构（Framing）被有效驯服。虽然问题本质上依然复杂，但通过针对不同解决方案、社会预期与问题感知的技术与社会学习，各方能够逐步迈向汇合且稳定的治理格局。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 487)]]
 >
 > *The literature on social learning suggests that wicked problems can be tamed through framing. In doing so, a problem is simplified but remains wicked in nature. We build on this assumption by emphasizing the need for technical and social learning about different solutions, expectations and problem perceptions to arrive at convergent and stable constellations.*
 
@@ -78,7 +78,7 @@ updated: 2026-11-02
 > - **认知框架重构（Framing & Reframing）** 通过科学证据整合与伦理[[Discourse|话语]]更新，将高度争议的公共议题转化为全社会能够达成共识的行动议程（如二手烟危害研究将吸烟由个人自由重构为公共健康保护）。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–483, 487)]]
 > - **早期探索性学习路径（Early Learning Approach）** 在研发实施早期资助大量多样化的小型探索性项目，通过广泛的社会与技术试错反馈识别可行方案，及时淘汰失效路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]
 
-> [!logic-map]- 制度化社会学习的运作与收敛机制
+> [!logic-map]- 制度化社会学习的运作与汇合机制
 > ```mermaid
 > flowchart LR
 >     subgraph Divergence["初始发散情境"]
@@ -106,14 +106,14 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜制度化社会学习通过重塑认知框架实现[[Wicked Problem|棘手问题]]的柔性驯服与价值收敛
+> [!concept-proposition] 命题一｜制度化社会学习通过重塑认知框架实现[[Wicked Problem|棘手问题]]的柔性驯服与价值汇合
 > **探讨维度　[[Wicked Problem|棘手问题]]驯服与认知重构** 探讨复杂社会矛盾如何在制度化的社会学习过程中，通过科学证据呈现与公众伦理协商逐步实现争议弥合。
 
 > [!claim] Ison, R. L. et al.
 > **社会学习作为适应性治理的制度基础设施** 面对气候变化与生态退化等高度不确定性挑战，线性的科学评估直接指导决策模式必然失效。必须将社会学习作为系统性治理的常态化机制，通过在组织间建立制度化的反思与学习通道，提升治理系统对外部动态环境的自适应能力。
 
 > [!claim] Wanzenböck, I. et al.
-> **框架重塑促成问题端率先收敛** 在问题导向路径中，社会学习是推动挑战从第一象限（迷失状态）走向第二象限（寻找方案）的关键动力。通过吸纳广泛社会行动者参与，不仅能够提高问题定义的透明度与社会合法性，还能打破既得利益集团对政策[[Discourse|话语]]的垄断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481)]]
+> **框架重塑促成问题端率先汇合** 在问题导向路径中，社会学习是推动挑战从第一象限（迷失状态）走向第二象限（寻找方案）的关键动力。通过吸纳广泛社会行动者参与，不仅能够提高问题定义的透明度与社会合法性，还能打破既得利益集团对政策[[Discourse|话语]]的垄断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481)]]
 
 ---
 
@@ -128,7 +128,7 @@ updated: 2026-11-02
 > [!contrast-table] 制度化社会学习核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **价值收敛命题** | 通过框架重构与多方审议驯服棘手问题并确立合法性 | 重大社会转型战略设立与公共政策议程重构 | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **价值汇合命题** | 通过框架重构与多方审议驯服棘手问题并确立合法性 | 重大社会转型战略设立与公共政策议程重构 | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 > | **方案筛选命题** | 早期分布式探索与多方反馈避免过早技术路径锁定 | 使命导向科技攻关与区域低碳示范试点 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
@@ -137,7 +137,7 @@ updated: 2026-11-02
 > - **1977 — 心理学个体学习理论奠基** [[Albert Bandura|班杜拉]]提出社会学习理论，奠定行为观察与认知模仿的微观心理学基础。
 > - **2000s — 资源与环境治理中的社会学习兴起** 瓦赫宁根学派与国际生态治理学者将社会学习引入流域管理与气候适应，强调利益相关者共同学习。
 > - **2015 — 制度化社会学习体系建构** 伊森等人明确提出将社会学习从偶发性的项目活动转化为常态化、系统性的制度治理框架。
-> - **2020 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]空间整合** 万岑伯克等人将制度化社会学习作为驱动问题–方案空间二维收敛的基石机制，实现学习科学与科技政策的深度交融。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
+> - **2020 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]空间整合** 万岑伯克等人将制度化社会学习作为驱动问题–方案空间二维汇合的基石机制，实现学习科学与科技政策的深度交融。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
 
 ---
 
@@ -155,4 +155,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将制度化社会学习作为使命政策解构并驯服重大棘手挑战的关键概念工具，阐明其在三条收敛路径中的作用机制。
+> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将制度化社会学习作为使命政策解构并驯服重大棘手挑战的关键概念工具，阐明其在三条汇合路径中的作用机制。

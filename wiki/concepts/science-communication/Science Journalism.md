@@ -80,7 +80,7 @@ updated: 2026-11-02
 > [!contrast-table] 专业科学新闻与相近传播形态辨析
 > | 维度 | 本概念（专业科学新闻） | 机构科研公关（Science [[Participatory Research\|PR]] / Press Releases） | 社交媒体科普网红（Science Influencers） |
 > |---|---|---|---|
-> | **实践主体** | 专业科学记者、新闻调查调查员与编辑部 | 高校、科研院所与企业的新闻发言人（Press Officers） | 个人内容创作者、视频博主与社交账号运营者 |
+> | **实践主体** | 专业科学记者、新闻调查调查员与编辑部 | 高校、科研院所与企业的新闻发言人（Press Officers） | 个人内容创作人、视频博主与社交账号运营者 |
 > | **核心驱动** | 公共利益监察、新闻独立性与事实真实性 | 机构声誉维护、基金考核指标与科研成果可见度（Overselling） | 用户黏性、注意力留存、算法流量分成与商业变现 |
 > | **叙事机制** | 多源交叉求证、平衡呈现、追问[[Conflict of Interest in Research\|利益冲突]]与方法缺陷 | 凸显成果重大意义、淡化不确定性与局限、追求轰动效应 | 娱乐化简化、情绪化表达、视觉奇观与人格化认同 |
 > | **伦理规制** | 新闻职业道德规范与传媒法制 | 雇主机构声誉管理准则与品牌公关策略 | 平台服务条款与自发性社群道德约束 |
@@ -91,7 +91,7 @@ updated: 2026-11-02
 > - **编辑独立性（Editorial Independence）**
 >   抵御资助机构、高校公关与商业资本的议程操控，坚持对科研方法与结论进行不受干涉的独立调查与审查。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 61)]]
 > - **证据多源求证（Multi-source Verification）**
->   穿透新闻通稿与单一论文摘要，主动采访独立第三方同行专家，评估样本规模、设计类型与因果推论严谨性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
+>   穿透新闻通稿与单一文章摘要，主动采访独立第三方同行专家，评估样本规模、设计类型与因果推论严谨性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
 > - **不确定性转译（Translating Uncertainty）**
 >   拒绝将暂定假说绝对化为终极真理，向公众准确阐释统计[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]]边界与科学共识的演进过程。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
 > - **利益冲突披露（Transparency & Bias Disclosure）**
@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜专业科学新闻构成维系现代民主社会理性协商与科技信任的核心[[Epistemic Infrastructure|知识基础设施]]
-> **探讨维度　民主治理与媒介中介机制** 科学绝非少数专业精英的封闭特权；在高度技术化的现代社会中，公共政策（如防疫、气候适应、人工智能立法规制）深度依赖科学证据，而专业科学新闻正是公众理解科技决策、参与民主质询的关键桥梁。
+> **探讨维度　民主治理与媒介中介机制** 科学有别于少数专业精英的封闭特权；在高度技术化的现代社会中，公共政策（如防疫、气候适应、人工智能立法规制）深度依赖科学证据，而专业科学新闻正是公众理解科技决策、参与民主质询的关键桥梁。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **民主协商的知识基石** 科学新闻不仅传播知识，更在公共领域中扮演着客观审视者与议程设置者的双重角色；尽管传统纸媒与电视受众面临流失，但主流新闻机构开展的高质量科学调查依然主导着全社会的公共讨论议题；若专业科学新闻持续衰退，公共理性将被算法驱动的极化信息与伪科学所吞噬。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
@@ -132,7 +132,7 @@ updated: 2026-11-02
 > **探讨维度　媒介政治经济学与知识异化机制** 传统大众传媒商业模式瓦解导致专业科学记者岗位大幅削减，留存记者面临高频发稿压力，从而被迫依赖机构新闻通稿，导致源头过度夸大在传播链条中层层放大。
 
 > [!claim] Sumner et al. (2014)
-> **源头通稿过度营销对大众媒体的污染效应** 对 20 所顶尖大学新闻通稿的大规模实证追踪证明，主流媒体科学新闻中的夸大其词绝非仅仅由于记者“理解偏差”，高达三分之一以上的误导性断言（如将相关性篡改为因果建议、将动物实验夸大为人体疗效）直接发端于大学自身的官方通稿；当通稿夸大时，媒体报道失真的发生比（OR）激增 6.5 至 56 倍。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
+> **源头通稿过度营销对大众媒体的污染效应** 对 20 所顶尖大学新闻通稿的大规模实证追踪证明，主流媒体科学新闻中的夸大其词并不仅仅由于记者“理解偏差”，高达三分之一以上的误导性断言（如将相关性篡改为因果建议、将动物实验夸大为人体疗效）直接发端于大学自身的官方通稿；当通稿夸大时，媒体报道失真的发生比（OR）激增 6.5 至 56 倍。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **公关职能异化与新闻流水线危机** 高校公关人员（Press Officers）在财务紧缩背景下承担了过多的危机公关、招生推广与机构声誉营销指标（Jamison 2022），导致科学传播沦为锦标赛式的注意力争夺；科学界必须与专业记者共同抵御“竞相逐底（Race to the bottom）”的流量恶性循环，将科学传播全面纳入科研诚信（[[Responsible Conduct of Research\|RCR]]）审查。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 62–64)]]
@@ -153,7 +153,7 @@ updated: 2026-11-02
 > [!contrast-table] 专业科学新闻核心命题归纳
 > | 命题类别 | 核心理论判定 | 实践与政策抓手 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **民主中介命题** | 科学新闻是现代民主协商与公共科技决策不可替代的知识底座 | 抵御媒体算法浅俗化，确立专业科学报道的编辑优先权 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 57)]] |
+> | **民主中介命题** | 科学新闻是现代民主协商与公共科技决策不可替代的知识基础 | 抵御媒体算法浅俗化，确立专业科学报道的编辑优先权 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 57)]] |
 > | **源头异化命题** | 高校公关过度营销与媒体流水线化是虚假信息的主要策源地 | 将新闻发布纳机构科研诚信（[[Responsible Conduct of Research\|RCR]]）考核与伦理审查 | Sumner et al. (2014); Nature (2024) |
 > | **透明增信命题** | 承认[[Scientific Uncertainty\|证据不确定性]]与暂定性不仅无损权威，反而显著增进公众信任 | 移植统计局 TQV 守则，普及包含置信区间的透明沟通规范 | Kerr et al. (2022); [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 62)]] |
 

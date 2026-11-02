@@ -68,7 +68,7 @@ updated: 2026-11-02
 > - **边界** 严格区别于具有制度保障与[[Cultural Capital|文化资本]]增值意味的自愿跨国/跨校交流（如 [[Student Mobility]]、[[Erasmus Programme]]），亦有别于跨区域农业季节工随迁（[[Migrant Education]]）。
 
 > [!citation-card] 话语病理化与道德定性
-> 在美国政策语境中，针对学生移动的话语往往从技术性的“流动（Mobility）”滑向带有严重病理学色彩的“漂泊（Transiency）”，后者紧密绑定于贫困以及个体无法过上体制定居生活的病态预设；在此视线下，流动非但不是资产，反被判定为秩序与学业进步的绊脚石。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+> 在美国政策语境中，针对学生移动的话语往往从技术性的“流动（Mobility）”滑向带有严重病理学色彩的“漂泊（Transiency）”，后者紧密绑定于贫困以及个体无法过上体制定居生活的病态预设；在此视线下，流动非但有别于资产，反被判定为秩序与学业进步的绊脚石。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 >
 > *So starkly is student movement socially coded and culturally constructed in the US context that the policy and research language sometimes shifts from speaking in terms of 'mobility' to discussing this as a form of 'transiency', the latter being closely linked with poverty and the perception that the individual(s) in question exhibit an almost pathological inability to live a proper, settled life. In other words, mobility is not seen as an advantage but as an obstacle to progress and stability.*
 
@@ -91,7 +91,7 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **学年中途跨校转学（Mid-School Year Movement）** 发生于完整学年授课周期的中途，直接中断教学进度、学生社交网络与教师评估连贯性。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
 > - **赤字[[Discourse\|话语]]病理化（Pathologized Deficit Discourse）** 政策文本与管理话语将频繁转学归咎为家庭“无法安稳度日”的心理或行为缺陷，掩盖宏观住房市场剥削。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
-> - **学校绩效免责杠杆（Mitigating Accountability Lever）** 在高利害考核制度中，高流动率被学校用作免除自身教学质量低劣责任的法定挡箭牌。
+> - **学校绩效免责手段（Mitigating Accountability Lever）** 在高利害考核制度中，高流动率被学校用作免除自身教学质量低劣责任的法定挡箭牌。
 > - **空间规训越轨定性（Spatial Deviance Marking）** 被学校科层系统定性为顽固拒绝停留在既定封闭空间内接受规训的越轨偏离群体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!logic-map]- 要素结构逻辑

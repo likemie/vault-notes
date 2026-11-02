@@ -74,7 +74,7 @@ updated: 2026-11-02
 > *Participants create avatars for themselves, digital figures who represent them in the virtual world. The representation can take any form that the participant wishes... and can be changed at any time... In the virtual world participants can project their feelings, values, arguments and evidence, and debate and interact with others synchronously to explore issues that arise.*
 
 > [!citation-card] 实体-数字交互探究中的虚拟教学化身
-> 基于计算机视觉算法的重力平衡探究系统中，虚拟化身引导小学生在实体振动台上开展积木塔抗震实验。虚拟化身无需预先讲授任何力学理论，而是引导学生观察对比不同结构的积木塔，提问振动台启动后哪座塔会先倒，并实时诊断学生给出的口头因果解释；学生在完全无前置显性讲授的情境下，通过视觉算法引导的预测与实验反馈，自主精准掌握了复杂的力学平衡原理。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9 引用 Yannier et al., 2020)]]
+> 基于计算机视觉算法的重力平衡探究系统中，虚拟化身引导小学生在实体振动台上开展积木塔抗震实验。虚拟化身无需预先讲授任何力学理论，是引导学生观察对比不同结构的积木塔，提问振动台启动后哪座塔会先倒，并实时诊断学生给出的口头因果解释；学生在完全无前置显性讲授的情境下，通过视觉算法引导的预测与实验反馈，自主精准掌握了复杂的力学平衡原理。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9 引用 Yannier et al., 2020)]]
 >
 > *An interactive system uses computer vision to model block towers on a physical earthquake table. An avatar, without explicit prior lectures on balance, prompts children to observe two towers, predict which will fall first, and diagnoses their spoken explanations, fostering deep conceptual mastery through guided prediction and [[Feedback]].*
 
@@ -137,7 +137,7 @@ updated: 2026-11-02
 > **探讨维度　拟人化[[Scaffolding\|教学支架]]与概念发现机制** 探讨虚拟化身导师如何在具身物理探究中充当启发式脚手架，推翻“唯有先讲授才能开展探究”的技术偏见。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **化身提问支架对主动概念探究的赋能** 实证研究推翻了在科学探究前必须预先进行显性理论讲授的机械教条。在结合实体振动台与计算机视觉的重力平衡学习系统中（Yannier et al., 2020），虚拟教学化身不预先传授任何力学公式，而是通过引导学生观察不同塔体结构、启发事前预测哪座塔会先倒，并动态诊断学生给出的口头因果论述；学生在完全没有前置讲授的情境下，通过化身的自适应提问与即时震动反馈，自主构建并精准内化了复杂的结构平衡物理概念，确立了拟人化身作为自适应探究支架的高效能。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9)]]
+> **化身提问支架对主动概念探究的赋能** 实证研究推翻了在科学探究前必须预先进行显性理论讲授的机械教条。在结合实体振动台与计算机视觉的重力平衡学习系统中（Yannier et al., 2020），虚拟教学化身不预先传授任何力学公式，是通过引导学生观察不同塔体结构、启发事前预测哪座塔会先倒，并动态诊断学生给出的口头因果论述；学生在完全没有前置讲授的情境下，通过化身的自适应提问与即时震动反馈，自主构建并精准内化了复杂的结构平衡物理概念，确立了拟人化身作为自适应探究支架的高效能。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9)]]
 
 ---
 

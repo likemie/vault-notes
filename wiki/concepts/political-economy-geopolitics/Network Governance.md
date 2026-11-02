@@ -5,7 +5,7 @@ aliases:
   - 网络化治理
   - network governance in education
   - 教育网络治理
-summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
+summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 83
@@ -121,24 +121,24 @@ updated: 2026-11-02
 ---
 
 > [!def] Network Governance
-> 网络治理（Network Governance，亦称网络化治理）指公共政策的议程设置、资源调配与服务交付不再单纯依赖单一的垂直韦伯式官僚科层（Hierarchy）或纯粹自发的私有市场价格机制（Market），而是由政府部门、商业咨询机构、慈善基金会、非营利组织与专业社群构成的横向交错、多边协商与互赖共生的网络所主导（Thompson, 1991; [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rambla_2022_Springer|Rambla, 2022, p. 172]]）。在当代批判教育政治经济学与演化创新政策视阈中，网络治理并不意味着民族国家治理权威的“空心化”（Hollowing out）退场，而是表现为国家治理形态的异层化（Heterarchical）重塑——国家演进为积极协调、立法特许、定向注资并缔造市场的[[Policy Brokerage|政策经纪人]]与制度担保人，或转型为通过去中心化探索网络引领跨部门协同攻坚的使命催化者。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> 网络治理（Network Governance，亦称网络化治理）指公共政策的议程设置、资源调配与服务交付不再单纯依赖单一的垂直韦伯式官僚科层（Hierarchy）或纯粹自发的私有市场价格机制（Market），是由政府部门、商业咨询机构、慈善基金会、非营利组织与专业社群构成的横向交错、多边协商与互赖共生的网络所主导（Thompson, 1991; [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rambla_2022_Springer|Rambla, 2022, p. 172]]）。在当代批判教育政治经济学与演化创新政策视阈中，网络治理并不意味着民族国家治理权威的“空心化”（Hollowing out）退场，是表现为国家治理形态的异层化（Heterarchical）重塑——国家演进为积极协调、立法特许、定向注资并缔造市场的[[Policy Brokerage|政策经纪人]]与制度担保人，或转型为通过去中心化探索网络引领跨部门协同攻坚的使命催化者。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 治理权力不再固守于宪政行政金字塔顶端，而是弥散于由公私混合行动者通过正式契约、董事兼任、资金匹配与指标度量衡相互缠绕形成的多中心网络构型。
+> - **含义** 治理权力不再固守于宪政行政金字塔顶端，是弥散于由公私混合行动者通过正式契约、董事兼任、资金匹配与指标度量衡相互缠绕形成的多中心网络构型。
 > - **用途** 帮助研究者透视公私界限模糊化过程，解构外包合同、[[Venture Philanthropy|风险慈善]]中介与技术量规如何取代传统科层行政指令，以及去中心化探索网络如何驱动使命攻坚。
 > - **边界** 不等于国家彻底失控或消亡的“无政府状态”；网络治理中的行动者始终高度依赖国家所垄断的法定特许资质（如免税牌照）、公共资金补助以及立法赋权背书。
 
 > [!citation-card] 网络治理的理论界定与异层国家实践
 > 传统的“经典市场”和“[[Bureaucracy|科层制]]”公立学校治理正在被较新的专业网络和慈善网络与部族（如毛利 iwi）所取代。在教育政策[[Document|文献]]中，体现这一处置倾向与实践形态的模式通常被称为“网络治理”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. vi)]]
 >
-> [[Policy Network|政策网络]]并未取代国家，国家在网络中充当了资助者、经纪人与市场缔造者。澳大利亚的实证经验否定了单纯的国家空心化假说：国家并未退场，而是与科层制及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（Heterarchy）。通过向咨询公司支付巨额公共外包款项、特许立法修正案以及定向财政匹配，国家主动运用法律垄断权与公共税收，为风险慈善中介网络的扩张提供了制度通道。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]
+> [[Policy Network|政策网络]]并未取代国家，国家在网络中充当了资助者、经纪人与市场缔造者。澳大利亚的实证经验否定了单纯的国家空心化假说：国家并未退场，是与科层制及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（Heterarchy）。通过向咨询公司支付巨额公共外包款项、特许立法修正案以及定向财政匹配，国家主动运用法律垄断权与公共税收，为风险慈善中介网络的扩张提供了制度通道。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]
 >
 > *…traditional 'classical market' and 'bureaucracy' forms of state schooling governance being displaced by newer professional networks and philanthropic 'networks' and 'clans'… Network governance in practice reflects an asymmetrical, heterarchical state.*
 
 > [!boundary]- 概念边界
 > - 不等于 垂直官僚科层治理（Hierarchical Governance） — 科层治理依靠自上而下的行政命令、法律法规与职务等级进行统一规训；网络治理依靠横向协商、资源互赖、契约绑定与关系资本维系协调。
 > - 不等于 自由市场治理（Market Governance） — 市场治理依靠价格信号、顾客竞争与利润最大化驱动离散的买卖双方；网络治理强调持续稳定的公私伙伴结盟、长程合作信誉以及非纯金钱层面的政策理念共识。
-> - 不等于 宽泛的人际社会网络（Social Networks） — 网络治理具有正式的制度与法律底座，高度依赖特许立法、政府分包合同、有限责任担保公司章程与因果证据量规等硬性制度载体（Murdoch, 2006; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]）。
+> - 不等于 宽泛的人际社会网络（Social Networks） — 网络治理具有正式的制度与法律基础，高度依赖特许立法、政府分包合同、有限责任担保公司章程与因果证据量规等硬性制度载体（Murdoch, 2006; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]）。
 
 ---
 
@@ -155,12 +155,12 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **多元行动者互赖与公私跨界结盟（Interdependence & Multi-Actor Alliances）** 政策不再由单一政府行政部门闭门垄断，而是由跨国金融资本、商业战略咨询顾问、本土慈善信托、学术智库与公共官僚共同构筑治理同盟，各方在资金、专业信誉与法定资质上形成深度互赖。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 524]]
-> - **国家演进为异层市场缔造者与经纪人（The State as Heterarchical Market-Maker & Broker）** 国家并未退场或被空心化，而是转型为“市场缔造者”（Market-maker）与“元治理者”（Meta-governor）；国家主动运用立法修正案与公共财政定向注资，积极孵化并扶持私营中介组织承接公共职能。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 522–523]]
+> - **多元行动者互赖与公私跨界结盟（Interdependence & Multi-Actor Alliances）** 政策不再由单一政府行政部门闭门垄断，是由跨国金融资本、商业战略咨询顾问、本土慈善信托、学术智库与公共官僚共同构筑治理同盟，各方在资金、专业信誉与法定资质上形成深度互赖。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 524]]
+> - **国家演进为异层市场缔造者与经纪人（The State as Heterarchical Market-Maker & Broker）** 国家并未退场或被空心化，是转型为“市场缔造者”（Market-maker）与“元治理者”（Meta-governor）；国家主动运用立法修正案与公共财政定向注资，积极孵化并扶持私营中介组织承接公共职能。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 522–523]]
 > - **去中心化探索网络与[[Public Dynamic Capabilities|公共动态能力]]（Decentralized Exploratory Networks & Dynamic Capabilities）** 在科技创新与产业攻坚领域，网络治理展现为类似 [[DARPA]] 的去中心化探索网络，通过赋予项目经理高度[[Strategic Autonomy|战略自主]]权与组合容错空间，引领公私主体共同攻关。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **治理[[Discourse|话语]]转型：从国家直接供给到国家补贴与[[Social Impact Investing|社会投资]]（Discursive Shift: State Provision to Social Investment）** 政策话语发生根本性重构，从战后普遍性的“国家资助与提供”转向强调“纳税人可负担能力限制”下的“国家补贴”、“战略投资”与“社会投资”，为私营资本在公立体系中索取决策权和财产权提供了伦理合法性。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]
-> - **耐用客体、契约外包与[[Public-Private Partnership|公私伙伴关系]]装配（Contractual Outsourcing & PPP [[Assemblage]]）** 治理协调高度依托实体化的“耐用客体”——包括公私合作伙伴关系（PPP）特许经营合同、非营利担保有限公司注册底座，以及法定免税资格（如澳大利亚 [[Deductible Gift Recipient|DGR1]] 资质），使商业资本得以在免受公法直接问责的缝隙中运作。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 523]]
-> - **量规统摄与“通过指标的治理”（Governance by Indicators & Performance Metrics）** 网络治理摒弃了[[Red Tape|繁文缛节]]的行政微观干预，转而依靠量化[[Performance Indicators|绩效指标]]、实证证据工具箱与质量基准进行远程控制（[[Governing at a Distance]]），将公私多元主体的注意力锁定在可审计的技术成果之上。[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 174–175]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 531]]
+> - **耐用客体、契约外包与[[Public-Private Partnership|公私伙伴关系]]装配（Contractual Outsourcing & PPP [[Assemblage]]）** 治理协调高度依托实体化的“耐用客体”——包括公私合作伙伴关系（PPP）特许经营合同、非营利担保有限公司注册基础，以及法定免税资格（如澳大利亚 [[Deductible Gift Recipient|DGR1]] 资质），使商业资本得以在免受公法直接问责的缝隙中运作。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 523]]
+> - **量规统领与“通过指标的治理”（Governance by Indicators & Performance Metrics）** 网络治理摒弃了[[Red Tape|繁文缛节]]的行政微观干预，转而依靠量化[[Performance Indicators|绩效指标]]、实证证据工具箱与质量基准进行远程控制（[[Governing at a Distance]]），将公私多元主体的注意力锁定在可审计的技术成果之上。[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 174–175]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 531]]
 
 > [!logic-map]- 网络治理运作拓扑与异层循环图
 > ```mermaid
@@ -199,15 +199,15 @@ updated: 2026-11-02
 > **多元行动者网络对传统科层交付的系统性置换** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等基于新西兰基础教育改革的大规模实证研究指出，公立学校教育治理正在经历深刻的结构重组；传统的中央教育部统一供给模式被私营商业赞助商、非营利[[Educational Management Organisation|教育管理组织]]（EMOs）、毛利部族信托当局以及国际慈善网络所切分。公立教育的服务交付由单一行政序列演变为涵盖[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、教育软件商业化特许、师资外包培训项目以及竞争性合同分包的多主体协同网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–viii, 8–12)]]
 
 > [!claim] [[Amelia Peterson|Peterson, A.]]
-> **跨国教育组织的分布式分层治理网络** 亚历山大·彼得森（[[Alec Peterson]]）对[[United World Colleges|联合世界书院]]（UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，而是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 105–109, 119–129)]]
+> **跨国教育组织的分布式分层治理网络** 亚历山大·彼得森（[[Alec Peterson]]）对[[United World Colleges|联合世界书院]]（UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 105–109, 119–129)]]
 
 ---
 
-> [!concept-proposition] 命题二｜现代国家在网络治理中并未空心化退场，而是演化为异层市场缔造者与制度担保人
+> [!concept-proposition] 命题二｜现代国家在网络治理中并未空心化退场，是演化为异层市场缔造者与制度担保人
 > **探讨维度　政治经济学维度：超越国家空心化与科层恒定的二元对立** 论证资本主义国家如何通过法律特许、税制漏洞创设与定向财政注入，主动塑造并担保网络治理中的私营市场。
 
 > [!claim] Rowe, E.
-> **国家作为异层市场缔造者与[[Venture Philanthropy|风险慈善]]担保人** 埃玛·罗威（Emma Rowe）结合开源[[Network Analysis|网络分析]]（Gephi）与监管法律追踪指出，学界关于“国家被[[Policy Network|政策网络]]掏空”或“科层国家恒定主导”的争论存在重大盲区。在澳大利亚的教育改革中，联邦与州政府并未退场，而是主动扮演了“异层市场缔造者”（Heterarchical market-maker）与经纪人角色。政府在管理咨询上的公共人均支出跃居全球首位，并通过议会修改税法赋予[[Australian Schools Plus|澳大利亚学校加计划]]专项 [[Deductible Gift Recipient|DGR1]] 免税特许；同时直接拨款 5000 万澳元联合设立[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO），在法条中特许其向营利咨询机构分包科研议程。国家运用自身的法律垄断权与公共税收，为非民选的商业银行家与风险慈善中枢（[[Social Ventures Australia|SVA]]）提供了扩张特权，确立了国家作为异层网络核心缔造者与制度庇护所的实质。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]
+> **国家作为异层市场缔造者与[[Venture Philanthropy|风险慈善]]担保人** 埃玛·罗威（Emma Rowe）结合开源[[Network Analysis|网络分析]]（Gephi）与监管法律追踪指出，学界关于“国家被[[Policy Network|政策网络]]掏空”或“科层国家恒定主导”的争论存在重大盲区。在澳大利亚的教育改革中，联邦与州政府并未退场，是主动扮演了“异层市场缔造者”（Heterarchical market-maker）与经纪人角色。政府在管理咨询上的公共人均支出跃居全球首位，并通过议会修改税法赋予[[Australian Schools Plus|澳大利亚学校加计划]]专项 [[Deductible Gift Recipient|DGR1]] 免税特许；同时直接拨款 5000 万澳元联合设立[[Australian Education Research Organisation|澳大利亚教育研究组织]]（AERO），在法条中特许其向营利咨询机构分包科研议程。国家运用自身的法律垄断权与公共税收，为非民选的商业银行家与风险慈善中枢（[[Social Ventures Australia|SVA]]）提供了扩张特权，确立了国家作为异层网络核心缔造者与制度庇护所的实质。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]
 
 ---
 
@@ -215,7 +215,7 @@ updated: 2026-11-02
 > **探讨维度　创新政策与治理能力维度：去中心化网络中的使命引领与试错包容** 阐明网络治理在科技与产业攻关中如何破除垂直官僚僵化，以灵活的项目经理制与组合管理激发跨部门创新。
 
 > [!claim] Mazzucato, M.
-> **去中心化探索型公共网络的创新机制** [[Mariana Mazzucato|马祖卡托]]指出，应对21世纪重大社会挑战（如气候变化、公共健康）要求国家超越垂直指令或单纯将研发外包给商业咨询公司的做法，构建具备内部动态能力的“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）。在这种网络化治理中，公共部门充当领头投资人并设立宏观战略使命方向，同时赋予去中心化项目团队极大的立项、试错与快速止损自主权，激励大学、国家实验室与私营企业开展自下而上的多元技术路线探索，实现战略集中与战术分散的有机统合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> **去中心化探索型公共网络的创新机制** [[Mariana Mazzucato|马祖卡托]]指出，应对21世纪重大社会挑战（如气候变化、公共健康）要求国家超越垂直指令或单纯将研发外包给商业咨询公司的做法，构建具备内部动态能力的“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）。在这种网络化治理中，公共部门充当领头投资人并设立宏观战略使命方向，同时赋予去中心化项目团队极大的立项、试错与快速止损自主权，激励大学、国家实验室与私营企业开展自下而上的多元技术路线探索，实现战略集中与战术分散的有机整合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
 > **[[Embedded Network Governance|嵌入型网络治理]]与研发网络的架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]指出，去中心化探索网络能够成功引导国家战略[[Technological Trajectories|技术轨道]]，关键在于公共代理人依托其专业威望与网络中心位置实施“嵌入型网络治理”。项目经理不仅消极撮合产学研合作，更主动运用[[Network Plasticity|网络可塑性]]（Network plasticity），通过识别前沿方向、播撒共同主题、组织闭门工作坊打破企业专有技术壁垒以强制知识横向流动、提供第三方声誉背书以及严格断乳退出，在不挑选单一赢家的前提下重塑研发者社会网络，克服了[[Vertical Disintegration|纵向碎片化产业生态]]中长期平台协调失灵的结构性困境。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
@@ -234,7 +234,7 @@ updated: 2026-11-02
 > **探讨维度　组织间网络与系统自适应协调维度** 探讨面对高度异质化且具备自主利益的专业组织系统时，国家如何通过规则重塑、部门总额拨款与事后反馈回路，激活网络的自组织协调潜能。
 
 > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
-> **多重理性网络自组织对单向科层控制的替代与间接操纵** [[Walter J. M. Kickert|瓦尔特·基克特]]指出，传统公共行政视国家为凌驾于社会之上的单一最高指挥中心，假定自上而下的行政指令能够自发贯通；然而在现代公共部门，政策执行[[Champ|场域]]本质上是由具有独立行动逻辑与异质利益的半自主组织构成的“多重理性（Multiple Rationalities）”网络。在荷兰高等教育改革中，当教育部试图通过单向硬性指标削减大学预算并强行合并系所时遭遇全面瘫痪；随后国家改变策略，仅设定宏观财政与部门边界，赋予大学学术委员会（TVC）自组织协商权，大学系统自主完成了 2.57 亿荷盾的学科重组方案；同时，教育部在高等专业教育领域委托院校联合理事会（[[HBO-Raad]]）自主编制兼并方案，成功将 348 所分散学院重组为 51 所大型综合学院。这一实践证实，在复杂网络中，国家绝非无所不能的微观操纵者，唯有退守宏观规则设计并实行“间接[[Steering at a Distance|远距离操纵]]”，才能有效激活多元行动者的自组织协调机能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–150)]]
+> **多重理性网络自组织对单向科层控制的替代与间接操纵** [[Walter J. M. Kickert|瓦尔特·基克特]]指出，传统公共行政视国家为凌驾于社会之上的单一最高指挥中心，假定自上而下的行政指令能够自发贯通；然而在现代公共部门，政策执行[[Champ|场域]]本质上是由具有独立行动逻辑与异质利益的半自主组织构成的“多重理性（Multiple Rationalities）”网络。在荷兰高等教育改革中，当教育部试图通过单向硬性指标削减大学预算并强行合并系所时遭遇全面瘫痪；随后国家改变策略，仅设定宏观财政与部门边界，赋予大学学术委员会（TVC）自组织协商权，大学系统自主完成了 2.57 亿荷盾的学科重组方案；同时，教育部在高等专业教育领域委托院校联合理事会（[[HBO-Raad]]）自主编制兼并方案，成功将 348 所分散学院重组为 51 所大型综合学院。这一实践证实，在复杂网络中，国家有别于无所不能的微观操纵者，唯有退守宏观规则设计并实行“间接[[Steering at a Distance|远距离操纵]]”，才能有效激活多元行动者的自组织协调机能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–150)]]
 
 ---
 
@@ -242,20 +242,20 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **组织交付重构命题** | 网络治理通过公私伙伴、合同外包与多元主体协同置换单一科层垄断 | 公立学校服务采购、跨国书院组织与公立办学体制多元化 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] |
-> | **异层国家缔造命题** | 国家并未空心化退场，而是运用立法特许与财政注入成为网络的市场缔造者 | 风险慈善兴起、税法修正特许与国家科研中介机构创设 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; Ball (2007) |
-> | **探索网络使命命题** | 去中心化探索网络与嵌入型网络治理能够统合顶层战略使命与微观多元试错 | 重大科技攻坚、后摩尔半导体材料、[[DARPA]] 模式扩散 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |
-> | **能力侵蚀与问责赤字命题** | 过度外包商业咨询抽空国家动态能力，公司法外壳规避公众监督与民主问责 | 教育与科技外包批判、科研议程闭环与公共能力空心化 | Ball (2012); Rhodes (2017) |
+> | **异层国家缔造命题** | 国家并未空心化退场，是运用立法特许与财政注入成为网络的市场缔造者 | 风险慈善兴起、税法修正特许与国家科研中介机构创设 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; Ball (2007) |
+> | **探索网络使命命题** | 去中心化探索网络与嵌入型网络治理能够整合顶层战略使命与微观多元试错 | 重大科技攻坚、后摩尔半导体材料、[[DARPA]] 模式扩散 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |
+> | **能力侵蚀与问责赤字命题** | 过度外包商业咨询抽空国家动态能力，公司法外壳规避公众监督与民主问责 | 教育与科技外包批判、科研议程反馈回路与公共能力空心化 | Ball (2012); Rhodes (2017) |
 > | **多理性网络自组织命题** | 揭示国家单向指令在复杂网络中的失能，论证宏观规则设计与网络自组织协商的替代效能 | 欧洲大陆公共管理改革、高等教育去中心化治理、高校大兼并 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1990s — 组织社会学起源与[[New Public Management|新公共管理]]（NPM）反思** 汤普森（Grahame Thompson, 1991）、鲍威尔（Walter W. Powell, 1990）与罗兹（R. A. W. Rhodes, 1996）提出将网络视作区别于市场与科层的第三种组织形态，界定其核心为信任、互赖与非层级协商；同时代学者断言跨国网络化导致了“国家空心化”（Hollowing out of the state）。
-> - **2000s — 全球教育[[Policy Network|政策网络]]与私有化浪潮** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）将网络治理正式引入[[Critical Pedagogy|批判教育学]]研究，指出新自由主义推进了公立教育的异质层级（Heterarchy）转型，新公共治理不再是国家统治的终结，而是国家借助商业资本与政策网络推行企业化运作的技术。
+> - **2000s — 全球教育[[Policy Network|政策网络]]与私有化浪潮** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）将网络治理正式引入[[Critical Pedagogy|批判教育学]]研究，指出新自由主义推进了公立教育的异质层级（Heterarchy）转型，新公共治理不再是国家统治的终结，是国家借助商业资本与政策网络推行企业化运作的技术。
 > - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与网络架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]提出[[Embedded Network Governance|嵌入型网络治理]]，基于对 [[DARPA]] 长期资助半导体关键材料的扎根[[Case Study|案例研究]]，揭示公共代理人如何主动运用[[Network Plasticity|网络可塑性]]重塑研发者社会网络以引导国家战略[[Technological Trajectories|技术轨道]]，突破了传统网络治理中将国家仅视作消极撮合中介的理论局限。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 > - **2010–2019 — 超国家指标化与国家制度杂合实证** [[EU|欧盟]]与[[OECD|经合组织]]将[[Performance Indicators|绩效指标]]转化为远程规训网络；奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）解构了新西兰九大公私混合治理工程，兰布拉（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）实证揭示了欧洲大陆官僚科层与网络化治理的制度杂合形态。
 > - **2018 — 演化创新政策与去中心化探索网络** [[Mariana Mazzucato|马祖卡托]]在《工业与企业变迁》中提出，网络治理在科技领域应体现为具备内部动态能力的“去中心化探索网络”（Decentralized Explorative Networks），既防止公共智识外包沦为新公共管理牺牲品，又通过战略方向引领激发自下而上的技术创新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
-> - **2020s — [[Philanthrocapitalism|慈善资本主义]]与异层国家实践解构** 埃玛·罗威（Emma Rowe, 2022, 2023）通过[[Network Ethnography|网络民族志]]与社会-物质[[Assemblage|装配理论]]，深入解构澳大利亚[[Venture Philanthropy|风险慈善]]中介的长程演化，证实国家并未空心化，而是积极通过立法特许避税与财政补贴充当异层市场的缔造者与担保人。
+> - **2020s — [[Philanthrocapitalism|慈善资本主义]]与异层国家实践解构** 埃玛·罗威（Emma Rowe, 2022, 2023）通过[[Network Ethnography|网络民族志]]与社会-物质[[Assemblage|装配理论]]，深入解构澳大利亚[[Venture Philanthropy|风险慈善]]中介的长程演化，证实国家并未空心化，是积极通过立法特许避税与财政补贴充当异层市场的缔造者与担保人。
 
 ---
 
@@ -317,7 +317,7 @@ updated: 2026-11-02
 > > 针对私营网络崛起是否意味着民族国家权威的实质性瓦解与边缘化。
 > >
 > > - **国家空心化假说（Rhodes, 1996）** 认为权力不可逆转地流向跨国咨询巨头、次国家区域与私营网络，主权国家沦为碎片化网络中软弱无力的普通参与者。
-> > - **异层国家理论（Ball, 2012; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 11]]）** 证实国家从未丧失权力，而是转变了权力的行使形态；国家作为元治理者，主动利用税收立法与行政特许塑造网络，在推卸直接供给责任的同时，将公共资金向私营中介定向再分配。
+> > - **异层国家理论（Ball, 2012; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 11]]）** 证实国家从未丧失权力，是转变了权力的行使形态；国家作为元治理者，主动利用税收立法与行政特许塑造网络，在推卸直接供给责任的同时，将公共资金向私营中介定向再分配。
 >
 > > [!axis] 去能力化外包依赖 vs 战略性去中心化探索网络
 > > 反思网络治理应当如何配置公共部门的内部专业能力与外部协作网络。
@@ -334,7 +334,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 欧盟 16 个地区 168 名[[Lifelong Learning\|终身学习]]政策制定者与专家 | 跨国质性比较研究、[[Semi-structured Interview\|半结构化访谈]]与[[Documentary Analysis\|文献分析]] | 治理形态分类（官僚/网络/市场）；指标采纳模式 | 证实 16 个地区均呈现官僚与网络混合构型；纯自由市场治理占比接近 0%；EUROSTAT 区域[[Performance Indicators\|绩效指标]]被所有地区作为核心参考基准 | — | 证明欧洲网络治理并不等于完全私有化，而是受制于历史制度[[Path Dependence\|路径依赖]]的多层杂合体 |
+> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 欧盟 16 个地区 168 名[[Lifelong Learning\|终身学习]]政策制定者与专家 | 跨国质性比较研究、[[Semi-structured Interview\|半结构化访谈]]与[[Documentary Analysis\|文献分析]] | 治理形态分类（官僚/网络/市场）；指标采纳模式 | 证实 16 个地区均呈现官僚与网络混合构型；纯自由市场治理占比接近 0%；EUROSTAT 区域[[Performance Indicators\|绩效指标]]被所有地区作为核心参考基准 | — | 证明欧洲网络治理并不等于完全私有化，是受制于历史制度[[Path Dependence\|路径依赖]]的多层杂合体 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰基础教育系统（2001–2016 年 9 项关键公私改革实践与法律文本） | 政策文本[[Discourse Analysis\|话语分析]]与历时制度追踪 | 私营部门参与度；政策核心词频演变；[[Public-Private Partnership\|PPP]] 合同规模 | 记录 9 项核心公私合作实例；国家政策文本全面剔除“国家资助与提供”，全面转为“国家补贴”与“[[Social Impact Investing\|社会投资]]”；涉及数亿美元的 PPP 与采购合同转包 | — | 系统论证网络治理如何通过修辞重构与制度突破，将私营资本财产权植入公共教育 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]中介（SVA 辐射 20 年网络，2002–2021） | 监管档案调档、税法修正案追踪与 Gephi 拓扑分析 | 咨询外包公共支出；组织四层控股架构；法定特许审批 | 联邦管理咨询公共支出居全球首位（人均）；揭示 4 层控股网络；通过《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 免税资质；撬动 5000 万澳元政府联合注资 | — | 确证国家在网络治理中演进为异层市场缔造者与制度担保人，推翻国家单纯空心化假说 |
 > | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | [[DARPA]] 微系统技术办公室 1992–2008 年资助的 4 项半导体关键材料技术（50 场深度访谈、专利履历比对与田野观察） | 纵向[[Grounded Theory\|扎根理论]]案例研究与[[Triangulation\|三角互证]]法 | 资助模式；主承包商结构；项目经理 5 项微观治理机制 | 证实 2001 年后采办主承包商由大学转向老牌企业，引入硬性里程碑；但 PM 识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项治理机制跨越两任领导期稳定延续 | — | 揭示[[Embedded Network Governance\|嵌入型网络治理]]在应对纵向碎片化高科技产业中的制度连续性与网络重塑功能 |

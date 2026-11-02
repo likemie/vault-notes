@@ -6,7 +6,7 @@ aliases:
   - 规则内生模糊性
   - 制度模糊性
   - institutional ambiguity
-summary: "历史制度主义核心概念，由马奥尼与希伦系统阐发；指正式规约在起草妥协、语言局限、认知边界与组织分离下内生且不可消除的语义与解释缝隙，构成将规则遵从转化为微观策略博弈并撬动渐进制度变迁的核心微观温床。"
+summary: "历史制度主义核心概念，由马奥尼与希伦系统阐发；指正式规范在起草妥协、语言局限、认知边界与组织分离下内生且不可消除的语义与解释缝隙，构成将规则遵从转化为微观策略博弈并撬动渐进制度变迁的核心微观温床。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 17
@@ -52,7 +52,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Rule Ambiguity
-> **规则内生模糊性（Rule Ambiguity）** 指成文法律、法规与正式组织章程在词义表述、适用范围及现实执行中内生具有且不可消除的抽象性、原则性与解释缝隙。[[Historical Institutionalism|历史制度主义]]认为，模糊性并非立法技术不成熟所导致的暂时瑕疵，而是人类认知局限、政治妥协起草以及立法与日常执法组织分离的必然物理属性；这一属性从根本上打破了规则遵从的确定性，为微观行动者在日常政治中展开策略性重新解释与重定向提供了持续的微观[[Champ|场域]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
+> **规则内生模糊性（Rule Ambiguity）** 指成文法律、法规与正式组织章程在词义表述、适用范围及现实执行中内生具有且不可消除的抽象性、原则性与解释缝隙。[[Historical Institutionalism|历史制度主义]]认为，模糊性是人类认知局限、政治妥协起草以及立法与日常执法组织分离的必然物理属性，有别于立法技术不成熟所导致的暂时瑕疵；这一属性从根本上打破了规则遵从的确定性，为微观行动者在日常政治中展开策略性重新解释与重定向提供了持续的微观[[Champ|场域]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向成文制度文本条文与真实社会生活复杂情境之间必然存在的语义与操作缝隙。
@@ -65,7 +65,7 @@ updated: 2026-11-02
 > *Where we expect incremental change to emerge is precisely in the "gaps" or "soft spots" between the rule and its interpretation or the rule and its enforcement ... This is an analytic space that other conceptions of institutions essentially rule out by definition, but as a practical matter this is exactly the space in which contests over – and at the same time within – institutions take place.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Enforcement Discretion]]（执行裁量权） — 规则模糊性是规约文本与语义本身的客观内在属性（为何存在缝隙），而执行裁量权是行动者或官僚机构在执行端所拥有的合法或事实操作空间（如何调用缝隙）。
+> - 不等于 [[Enforcement Discretion]]（执行裁量权） — 规则模糊性是规范文本与语义本身的客观内在属性（为何存在缝隙），而执行裁量权是行动者或官僚机构在执行端所拥有的合法或事实操作空间（如何调用缝隙）。
 > - 不等于纯粹立法疏漏 — 许多规则模糊性是立法者为了促成对立党派妥协而故意采用的抽象宽泛修辞，旨在推迟直接冲突。
 
 ---
@@ -73,9 +73,9 @@ updated: 2026-11-02
 > [!contrast-table] 规则模糊性与相关制度概念的维度辨析
 > | 维度 | 规则内生模糊性（Rule Ambiguity） | [[Enforcement Discretion\|解释执行裁量权]] | [[Disjointed Pluralism\|脱节多元主义]] |
 > |:---|:---|:---|:---|
-> | **本体属性** | 法律与规约文本的语义、原则与情境不完备性 | 司法裁判官与执法官僚在落实中的自由操作权能 | 宏观制度由历史不同时期多元妥协碎片拼合的结构特征 |
+> | **本体属性** | 法律与规范文本的语义、原则与情境不完备性 | 司法裁判官与执法官僚在落实中的自由操作权能 | 宏观制度由历史不同时期多元妥协碎片拼合的结构特征 |
 > | **核心机制** | 认知边界、语言局限、立法妥协与背景共识漂移 | 基层执法松紧度、选择性起诉、司法扩张解释 | 相互冲突的制度逻辑并存、外围补充规则累叠 |
-> | **变迁功能** | 为微观博弈提供不可消除的“软肋与缝隙” | 充当决定转换（[[Institutional Conversion\|conversion]]）与漂移（[[Institutional Drift\|drift]]）的结构杠杆 | 解释制度为何天然缺乏有机自洽性与统一设计 |
+> | **变迁功能** | 为微观博弈提供不可消除的“软肋与缝隙” | 充当决定转换（[[Institutional Conversion\|conversion]]）与漂移（[[Institutional Drift\|drift]]）的结构手段 | 解释制度为何天然缺乏有机自洽性与统一设计 |
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-11-02
 > **探讨维度　规则[[Ontology|本体论]]与完备性神话** 梳理理性选择制度主义与法律[[Positivism|实证主义]]将规则模糊性视为暂时缺陷的假定，论证成文规则内在的模糊物理属性。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
-> **模糊性的内生必然性** 传统制度分析假定模糊性会随着重复博弈、判例积累与法律正规化而逐渐消弭；然而，现实政治表明，成文法条越详尽，其界定边缘所暴露出的解释缝隙与管辖冲突反而越多；模糊性是成文规约在面对动态现实世界时不可剥夺的内生特征，试图通过精密设计消除模糊性只是虚妄的技术神话。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–12)]]
+> **模糊性的内生必然性** 传统制度分析假定模糊性会随着重复博弈、判例积累与法律正规化而逐渐消弭；然而，现实政治表明，成文法条越详尽，其界定边缘所暴露出的解释缝隙与管辖冲突反而越多；模糊性是成文规范在面对动态现实世界时不可剥夺的内生特征，试图通过精密设计消除模糊性只是虚妄的技术神话。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–12)]]
 
 ---
 

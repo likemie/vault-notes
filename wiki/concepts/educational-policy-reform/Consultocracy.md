@@ -112,10 +112,10 @@ updated: 2026-11-02
 > **探讨维度　行政能力与制度空心化** 探讨私营咨询公司的结构性渗透如何掏空常任官僚系统的政策研发专长，迫使国家陷入依赖私营寡头供给政策处方的制度锁定。
 
 > [!claim] [[Helen Gunter\|Gunter, H.]] M., Hall, D., & Mills, C. (2015)
-> **咨询政治对国家政策生产能力的重塑** 顾问统治并非中立的技术支持服务，而是对教育政策生产[[Champ\|场域]]的深度重组。跨国管理咨询公司在政策制定初期即设定议题边界，将企业重组逻辑转化为国家教育政策标准，导致教育部门丧失独立思考能力，由公共政策制定者异化为私营咨询成果的采购与验收机构（Gunter et al., 2015, pp. 518–522）。
+> **咨询政治对国家政策生产能力的重塑** 顾问统治是对教育政策生产[[Champ\|场域]]的深度重组，有别于中立的技术支持服务。跨国管理咨询公司在政策制定初期即设定议题边界，将企业重组逻辑转化为国家教育政策标准，导致教育部门丧失独立思考能力，由公共政策制定者异化为私营咨询成果的采购与验收机构（Gunter et al., 2015, pp. 518–522）。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
-> **全澳咨询采购扩张与公共行政空心化实证** 澳大利亚管理咨询人均支出跃居全球第一的实证事实证明，国家并未消失，而是演化为咨询寡头的巨额买单者与催化平台。在 [[Social Ventures Australia\|SVA]] 推动 [[Australian Education Research Organisation\|AERO]] 与 [[Australian Schools Plus\|Schools Plus]] 等中介机构的二十年历程中，麦肯锡等前高管主导了政策建议书起草与中介机构架构设计，使公共教育改革彻底受制于商业咨询逻辑的摆布。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–524)]]
+> **全澳咨询采购扩张与公共行政空心化实证** 澳大利亚管理咨询人均支出跃居全球第一的实证事实证明，国家并未消失，是演化为咨询寡头的巨额买单者与催化平台。在 [[Social Ventures Australia\|SVA]] 推动 [[Australian Education Research Organisation\|AERO]] 与 [[Australian Schools Plus\|Schools Plus]] 等中介机构的二十年历程中，麦肯锡等前高管主导了政策建议书起草与中介机构架构设计，使公共教育改革彻底受制于商业咨询逻辑的摆布。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–524)]]
 
 ---
 
@@ -172,5 +172,5 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统揭示澳大利亚人均咨询支出全球第一背景下，麦肯锡等咨询高管如何依托[[Policy Network\|政策网络]]装配教育中介实体并规避公共监督。
-> - Gunter, Hall, & Mills (2015) — 经典奠基论文，系统建构教育政策制定中的顾问统治（Consultocracy）[[Analytic Framework\|分析框架]]。
+> - Gunter, Hall, & Mills (2015) — 经典奠基文章，系统建构教育政策制定中的顾问统治（Consultocracy）[[Analytic Framework\|分析框架]]。
 > - [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] — 从创新政策与国家能力视角批判 [[New Public Management|NPM]] [[Externalization|外部化]]咨询依赖造成的行政[[Cognitive Deskilling|去技能化]]，阐明内生动态能力的重构机制。

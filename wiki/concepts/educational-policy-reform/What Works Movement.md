@@ -110,7 +110,7 @@ updated: 2026-11-02
 > *The What Works movement seeks to identify what does and does not work in schools, using rigorous independent evaluations to inform [[Evidence Ecosystem\|evidence ecosystems]] and steer policy and practice away from ineffective or wasteful educational fads.*
 
 > [!boundary]- 概念边界
-> - **不等于泛化的[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指一种广泛的学术思想与专业理念；What Works Movement 特指 1990 年代至今由英美澳等国中央政府主导、依托法定中介机构与特定政策规约推动的自上而下制度化治理运动。
+> - **不等于泛化的[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指一种广泛的学术思想与专业理念；What Works Movement 特指 1990 年代至今由英美澳等国中央政府主导、依托法定中介机构与特定政策规范推动的自上而下制度化治理运动。
 > - **不等于大学传统学术研究** 传统高校研究侧重理论构建与学术发表；该运动的核心在于打造双向撬动证据供需的[[Knowledge Mediation\|知识中介]]网络，面向时间紧迫的一线校长与决策者产出通俗决策工具。
 > - **不等于单纯的技术工具开发** 它深刻重构了教育政策问责、第三方独立评估契约与学校[[Business as Usual\|常态教学]]基线的重估。
 
@@ -121,7 +121,7 @@ updated: 2026-11-02
 > |:---|:---|:---|:---|
 > | **成立时间与法定性质** | 2011 年成立；独立慈善信托基金（由[[Sutton Trust\|萨顿信托]]联合教育捐赠创设，获政府 1.25 亿英镑注资）。 | 2002 年依据《教育科学改革法案》（ESRA）成立；属联邦教育部 [[Institute of Education Sciences\|IES]] 直属官方评估平台。 | 2020 年由联邦与各州政府联合资助成立；全国性独立教育证据中介实体。 |
 > | **运作机制与资助权限** | **资助者与评估委托者** 直接资助学校项目并强制委托独立专家库进行 [[Randomised Controlled Trials\|RCT]] 评估。 | **证据审查与评级中心** 自身通常不直接资助试验，专门对公开发表的[[Document\|文献]]进行质量筛选评级。 | **知识转化与标准制定者** 聚焦将高阶证据合成为实践指南，参与国家教师培养标准。 |
-> | **评估独立性规约** | **极高规约** 强制签署三方资助协议，随机化、主数据采集与报告撰写全由独立评估者完成（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。 | **技术导向规约** 主要审查研究设计指标（流失率等），未对研发者经济与人事依附做刚性隔离。 | **倡导型规约** 强调证据透明度与方法学严格性，依赖外部同行评议与[[Meta-analysis\|元分析]]。 |
+> | **评估独立性规范** | **极高规范** 强制签署三方资助协议，随机化、主数据采集与报告撰写全由独立评估者完成（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。 | **技术导向规范** 主要审查研究设计指标（流失率等），未对研发者经济与人事依附做刚性隔离。 | **倡导型规范** 强调证据透明度与方法学严格性，依赖外部同行评议与[[Meta-analysis\|元分析]]。 |
 > | **核心决策转化载体** | [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]：将效应量通俗转化为“额外学习月数”与成本星级。 | Practice Guides 与 Intervention Reports：提供循证干预评级索引（从无保留到达标）。 | Evidence Guides 与 Practice Rubrics：围绕显性教学等核心教学法输出实操规程。 |
 > | **与教师[[Professional Judgment\|专业判断]]关系** | 工具包作为“指导罗盘”，强调教师依据学校情境裁量；深入推进基层[[Research Schools Network\|研究学校网络]]。 | 早期与高利害问责直接挂钩，受到技术官僚化批评；近年逐步增强实践指导弹性。 | 深度介入职前教师教育与国家督导标准，面临侵蚀教师专业自主权的学术争鸣（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。 |
 
@@ -162,7 +162,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Educational Brokerage Agency|知识中介机构]]的制度公信力依赖于结构性独立性与双向转化机制
-> **探讨维度　制度治理与中介功能** 中介机构并非单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap\|研究与实践的鸿沟]]。
+> **探讨维度　制度治理与中介功能** 中介机构并不单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap\|研究与实践的鸿沟]]。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]
 > **中介机构的制度独立性与二阶合成** 传统高校发表体制容易造成[[Publication Bias\|发表偏倚]]与研发者自利，[[Educational Brokerage Agency\|知识中介机构]]通过推行独立的评估者专家库竞标、三方资助协议与 NPD 国家客观统考测量，有效根除了自评夸大。同时，中介机构将复杂的[[Meta-analysis\|元分析]]统计模型提炼为通俗的“额外学习月数”决策指标，实现了科学严谨性与基层实用性的制度平衡（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–51]]）。
@@ -240,6 +240,6 @@ updated: 2026-11-02
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation\|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation\|IPE]] 绑定、客观统考及“证明无效”的重大价值。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation\|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency\|教师专业自主权]]受抑的困境。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence Standards\|证据标准]]的建立过程，辩护循证改革对提升[[Whole-School Improvement|全校改进]]项目实证水平的驱动作用。
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]] — 元评估跨国循证清算中心在[[Evaluator Independence\|评估者独立性]]上的规约差异，揭示自评偏倚对循证推荐的扭曲。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]] — 元评估跨国循证清算中心在[[Evaluator Independence\|评估者独立性]]上的规范差异，揭示自评偏倚对循证推荐的扭曲。
 
 

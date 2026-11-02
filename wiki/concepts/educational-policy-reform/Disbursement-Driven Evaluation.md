@@ -57,11 +57,11 @@ updated: 2026-11-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将发展贷款的“资金流转进度”和“物理资产采购量”异化为衡量项目终极成败的组织考核偏误。
-> - **用途** 帮助教育政策学者与组织社会学研究者揭示国际援助机构“现代化改革愿景”与“基层实施瘫痪”并存的制度根源，解析为何巨额教育贷款常常蜕变为现代“白象工程”（White Elephants）。
+> - **用途** 帮助教育政策学者与组织社会学研究者揭示国际援助机构“现代化改革愿景”与“基层实施瘫痪”并存的制度根源，解析为何巨额教育贷款常常转变为现代“白象工程”（White Elephants）。
 > - **边界** 严格区别于纯粹由于技术能力匮乏导致的数据采集不全；放贷驱动评估是一种深植于官僚机构内部晋升规则、追责风险与部门合谋的系统性制度防御策略。
 
 > [!citation-card] 投入测量对学生实质学习成效的系统性置换
-> 一旦资金完成拨付，全行上下便如释重负，极少有人愿意进一步深究。下一步同样已成为银行内部的标准仪式：核查这笔钱是否购买了它原本应该购买的物品。换言之，是否建造了规定数量的学校？是否培训了所有目标教师并采购了图书？这是借贷契约的一部分，并由会计师和审计人员进行正式核验。但这无异于通过测量投入来测量结果。真正的问题从来不是教师是否参加了培训课程，而是他们是否学到了真本领？学生是否从教师提升的技能中实质受益？我们通常知道采购的书籍已经发放，也许还能查清它们是否被投入使用，但学生是否因此学到了更多知识？贷款官员和银行官僚机构极少甚至从不提出这些问题。然而归根结底，这些才是真正具有决定性意义的问题；否则，如果学生没有从中受益，我们为什么还要发放贷款？[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 470–471]]）
+> 一旦资金完成拨付，全行上下便如释重负，极少有人愿意进一步深究。下一步同样已成为银行内部的标准仪式：核查这笔钱是否购买了它原本应该购买的物品。换言之，是否建造了规定数量的学校？是否培训了所有目标教师并采购了图书？这是借贷契约的一部分，并由会计师和审计人员进行正式核验。但这无异于通过测量投入来测量结果。真正的问题从来是他们是否学到了真本领，有别于教师是否参加了培训课程？学生是否从教师提升的技能中实质受益？我们通常知道采购的书籍已经发放，也许还能查清它们是否被投入使用，但学生是否因此学到了更多知识？贷款官员和银行官僚机构极少甚至从不提出这些问题。然而归根结底，这些才是真正具有决定性意义的问题；否则，如果学生没有从中受益，我们为什么还要发放贷款？[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 470–471]]）
 >
 > *Once the money is disbursed, there is a sigh of relief and few want to probe further. The next [[Skills Toward Employment and Productivity|step]], also formalized in the banks' rituals, is whether the money purchased what it was supposed to purchase. In other words, was the prescribed number of schools built? Were all the targeted teachers trained and the books purchased? This is part of the contract and is duly verified by accountants and auditors. But this is tantamount to measuring results by measuring inputs. The issue is not whether teachers have taken courses. But have they learned anything? Are the students benefiting from their increased skills? We often know that the purchased books were distributed... But are students learning more as a consequence? Loan officers and the bank [[Bureaucracy]] rarely, if ever, ask these questions. But ultimately, they are the truly relevant questions. Otherwise, why have loans if students do not benefit from them?*
 
@@ -87,7 +87,7 @@ updated: 2026-11-02
 > - **拨付率作为单一终极硬约束（Disbursement as Ultimate Proxy）** 贷款官员和借款国执行团队唯一的实质性职业考核指标是能否在规定工期内将款项拨付完毕；未完成拨付是全系统唯一的实质性尴尬。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 470)]]
 > - **以物理投入偷换教育产出（Measuring Inputs instead of Results）** 评估标准退化为合同条款的清单式打勾（Check-box [[Strategic Compliance|compliance]]）：校舍完工即等同于教学环境改善，采购电脑到位即等同于数字化教学发生。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–471)]]
 > - **揭露失败的负向激励与利益合谋（Disincentives for Whistle-blowing）** 如果深入测验发现学生学业毫无长进，多边银行项目组、借款国教育部官员以及受聘咨询专家均面临不同程度的失误指控，导致所有当事方自发倾向于掩盖深层弱点，维持表面圆满。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 471, 475)]]
-> - **评估部门与业务团队的制度性解耦（decoupling of Evaluation from Operations）** 银行内部独立评估局（如[[World Bank|世行]] IEG）虽能产出严谨犀利的后评估报告，但业务司局官员通常在研讨会上“礼貌倾听并高度赞同”后不作任何体制性修正。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 471)]]
+> - **评估部门与业务团队的制度性脱钩（decoupling of Evaluation from Operations）** 银行内部独立评估局（如[[World Bank|世行]] IEG）虽能产出严谨犀利的后评估报告，但业务司局官员通常在研讨会上“礼貌倾听并高度赞同”后不作任何体制性修正。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 471)]]
 
 > [!logic-map]- 放贷驱动评估在多边组织内的循环固化机制
 > ```mermaid
@@ -111,7 +111,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜放贷驱动评估制造了多边机构在方案设计端敏捷吸收与执行评估端非学习锁定的制度悖论
-> **探讨维度　组织学习理论与制度主义解耦** 探讨超国家专业组织内部前沿学术吸收力与一线执行退化之间的深刻割裂。
+> **探讨维度　组织学习理论与制度主义脱钩** 探讨超国家专业组织内部前沿学术吸收力与一线执行退化之间的深刻割裂。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
 > **设计端学习型组织与执行端非学习型组织的组织悖论** 基于对[[Inter-American Development Bank|泛美开发银行]]全量教育贷款组合的实证追踪，[[Claudio de Moura Castro|卡斯特罗]]与维尔迪斯科揭示出多边银行内部令人震惊的组织二元悖论：在项目设计端，每一个新批次的贷款方案均能敏锐总结前期得失，迅速将国际前沿的学术理念、评估方法与成功经验纳入立项文本，展现出高度灵活的学习型组织特征；但在执行与评估端，导致项目卡壳与成效虚脱的经典痼疾（报销繁琐、反腐恐慌、[[Counterpart Funds|对等资金]]断供、投入导向评估）在数十年的项目中反复重蹈覆辙，未见任何实质改善。放贷驱动评估缺乏自我纠错机制，成为维系这一制度僵化泥潭的底层推手。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 471–472)]]

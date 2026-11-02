@@ -86,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素 (本要素主要归纳自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 426–427]])
-> - **道德激情与传教 [[Praxis]]（Missionary Praxis）** 学术的主要使命不是解释世界，而是通过唤醒心智，解构不平等的压迫机制（如解构西方强加的“心智奴役”），协助边缘受压迫者打破旧秩序。
+> - **道德激情与传教 [[Praxis]]（Missionary Praxis）** 学术的主要使命是通过唤醒心智，解构不平等的压迫机制（如解构西方强加的“心智奴役”），协助边缘受压迫者打破旧秩序，有别于解释世界。
 > - **中心-边缘不对称模型（Centre-Periphery Asymmetry）** 拒绝将国家视为单一理性的决策单位，而将其剖析为支配者与被支配者在跨国空间（“中心之中心”与“边缘之中心”的利益勾连）上的斗争。
 > - **[[Epistemological Break\|认识论断裂]]与南南脱钩（Epistemic Delinking & Pluriversality）** 在当代表现为对西方普世理性（即“西方地平线”）的决裂，强调引入南方理论 and 本土生态，建立多元共生（Pluriversality）的世界秩序。
 

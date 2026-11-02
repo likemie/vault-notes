@@ -124,7 +124,7 @@ updated: 2026-11-02
 > [!dev-timeline] 概念演变历程
 > - **1911–1962 — 经典科学管理起源与教育[[Cult of Efficiency|效率崇拜]]** 泰勒（Taylor, 1911）出版《科学管理原理》，确立标准化任务分解与效率最大化信条；福特制将劳动节奏从工匠手中转移至管理办公室。卡拉汉（Callahan, 1962）出版《教育与效率崇拜》，论证 20 世纪上半叶美国公立学校深受商业与工程管理逻辑渗透，为埃考特分析当代教育治理奠定了历史参照系。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 413–414)]]
 > - **1950s–1980s — [[Theory Movement in Educational Administration|教育行政理论运动]]与术语奠基** 战后教育行政理论运动（Theory Movement）以西蒙（Simon, 1945）与逻辑[[Empiricism|经验主义]]为基石，追求类法则概括；霍奇金森（Hodgkinson, 1978）与格隆（Gronn, 1982）在《教育行政季刊》发表专论，正式将“新泰勒主义”（Neo-Taylorism）引入教育行政学，反思[[Technical Rationality|技术理性]]的[[Epistemology|认识论]]局限。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 775)]]
-> - **2008–2017 — [[Effect Size|效应量]]语言崛起与埃考特的系统解构** 罗宾逊等（Robinson et al., 2008）的[[Meta-analysis|元分析]]打破[[Transformative Leadership|变革型领导力]]传统，引入效应量指标。[[John Hattie|哈蒂]]（[[Argument_Hattie_2005_ACER|Hattie, 2005]]; Hattie, 2009）出版《[[Visible Learning|可见的学习]]》，以数百项元分析和效应量排行榜席卷全球。埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）发表标志性论文，正式将哈蒂体系界定为新泰勒主义与[[Cult of the Guru|大师崇拜]]，引爆跨国学术论战。
+> - **2008–2017 — [[Effect Size|效应量]]语言崛起与埃考特的系统解构** 罗宾逊等（Robinson et al., 2008）的[[Meta-analysis|元分析]]打破[[Transformative Leadership|变革型领导力]]传统，引入效应量指标。[[John Hattie|哈蒂]]（[[Argument_Hattie_2005_ACER|Hattie, 2005]]; Hattie, 2009）出版《[[Visible Learning|可见的学习]]》，以数百项元分析和效应量排行榜席卷全球。埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）发表标志性文章，正式将哈蒂体系界定为新泰勒主义与[[Cult of the Guru|大师崇拜]]，引爆跨国学术论战。
 > - **2019–2021 — 跨国实证拓展与底层数据解构** 跨国研究揭示了新泰勒主义的多维后果：戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）实证测得转型国家 79% 教师受困于持续数据生产与迎检报表增生；约翰逊与扬岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）剖析了澳洲维州全景式教学[[Strategy Monitoring|策略监控]]；尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）细读底层元分析数据，从技术理性与[[Critical Theory|批判理论]]视角证实其[[Construct|构念]]混淆与新泰勒主义行政工具属性。
 
 ---
@@ -217,7 +217,7 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019, pp. 240–241)]] | 俄罗斯沃洛格达地区 1,120 名中小学一线教师及管理人员样本 | [[Stratified Sampling\|分层抽样]][[Questionnaire\|问卷调查]]与行政工作负荷统计分析 | 新泰勒主义行政问责与持续数据生产导致的非教学时间损耗 | 79% 教师受困于机械填报、报表增生与频繁检查；平均每周耗费超 10 小时处理迎检数据材料 | 区域代表性抽样调研 | 实证确立持续数据生产对教师育人精力的实质侵蚀，揭示量化行政问责在转型体制中的深层组织病理 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 10–13)]] | [[John Hattie\|哈蒂]]《[[Visible Learning\|可见的学习]]》新泰勒主义效应量排名底层 5 大一阶[[Meta-analysis\|元分析]]（覆盖 180,683 名被试，占反馈总样本 92.4%） | [[Document\|文献]]计量审计与概念对齐逐项细读 | 支撑新泰勒主义决策清单的元分析[[Construct Validity\|构念效度]]、反向抑制率与未发表文献比例 | 4 项元分析（Lysakowski 1980/1982, Witt 2004, Swanson 2001）完全偏离认知反馈构念；唯一符合定义的 Kluger and DeNisi (1996) 出现 38% 负效应且 $d = 0.38$；Witt (2004) 中 65% 为未发表学位论文 | 质性质询与文献计量复核 | 全量确证新泰勒主义依赖的“客观金牌效应量”存在严重构念污染与异质拼贴，无法支撑放之四海皆准的标准处方 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 10–13)]] | [[John Hattie\|哈蒂]]《[[Visible Learning\|可见的学习]]》新泰勒主义效应量排名底层 5 大一阶[[Meta-analysis\|元分析]]（覆盖 180,683 名被试，占反馈总样本 92.4%） | [[Document\|文献]]计量审计与概念对齐逐项细读 | 支撑新泰勒主义决策清单的元分析[[Construct Validity\|构念效度]]、反向抑制率与未发表文献比例 | 4 项元分析（Lysakowski 1980/1982, Witt 2004, Swanson 2001）完全偏离认知反馈构念；唯一符合定义的 Kluger and DeNisi (1996) 出现 38% 负效应且 $d = 0.38$；Witt (2004) 中 65% 为未发表学位研究 | 质性质询与文献计量复核 | 全量确证新泰勒主义依赖的“客观金牌效应量”存在严重构念污染与异质拼贴，无法支撑放之四海皆准的标准处方 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 28–30)]] | 澳大利亚维多利亚州教育部高影响力教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策文本与全州公立学校管理规程 | 政策文本[[Discourse Analysis\|话语分析]]与微观[[Disciplina and Doctrina\|规训]]技术制度审计 | HITS 考核与教师绩效评估（[[Australian Institute for Teaching and School Leadership\|AITSL]] 标准）绑定程度及操作性规定 | 10 项 HITS 强制嵌入全州学校考评，要求教师执行特定表面动作（如课前必须在白板写清[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]） | 制度政策定性审计 | 揭示新泰勒主义如何通过高浸润性的细微行为清单，对教师课堂劳动实施微观管理与[[Performativity\|表演性]]规制 |
 
 ---
@@ -256,9 +256,9 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出[[John Hattie|哈蒂]]可见学习为当代教育行政中的“新泰勒主义”与“[[Cult of the Guru|大师崇拜]]”。
-> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义论文引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
+> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义文章引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用舍恩[[Technical Rationality|技术理性]]批判，逐项核查反馈[[Meta-analysis|元分析]]底层数据，揭示其新泰勒主义规训实质与[[Construct|构念]]混淆。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 援引埃考特新泰勒主义概念，实证测查 1,120 名俄罗斯教师在持续数据生产政策下的行政负荷与专业流失危机。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 剖析澳大利亚维州 [[Victorian HITS and Literacy Toolkit|HITS]] 教学策略背后的新泰勒主义全景监控逻辑与去专业化风险。
-> - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 对埃考特论文的正式回应，否认新泰勒主义定性并为可见学习科学性辩护。
+> - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 对埃考特文章的正式回应，否认新泰勒主义定性并为可见学习科学性辩护。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 调查报告，记录可见学习商业化衍生产品（如 [[Visible Classroom]] 录音监控）的收费与运作模式。

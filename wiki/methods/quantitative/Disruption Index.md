@@ -11,7 +11,7 @@ summary: "一种用于量化科研成果或发明专利是开拓新方向还是�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -40,11 +40,13 @@ related_persons:
   - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
   - "[[James A. Evans]]"
+  - "[[Santo Fortunato]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -83,6 +85,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 方法演变
 > - **2017 — 基础定义提出** Russell J. Funk 与 Jason Owen-Smith 在创新研究中首次形式化 CD 指数算法，用于评估医学发明专利的[[Technological Trajectories|技术轨道]]路线变革。
+> - **2018 — 团队分工规律整合与科学官僚化反思** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）科学学综述中，将颠覆与发展指标确立为团队规模分工的核心证据：小型团队颠覆既有范式、大型团队发展成熟技术路径，指出资助机制必须平衡各类规模团队以防止科学建制官僚化。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **2019 — 大数据扩展与规律发现** [[Lingfei Wu|吴令飞]]、[[Dashun Wang|王大顺]]与[[James A. Evans|詹姆斯·埃文斯]]（Wu, Wang, & Evans, 2019）将该指标推广至 6,000 万篇论著、专利与软件项目，揭示小团队倾向于颠覆科学而大团队倾向于发展科学的组织规模分化规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 > - **2021 — 多维影响力度量体系整合** 王大顺与巴拉巴西在《科学学》中将颠覆性指数确立为深挖引文网络拓扑结构、超越狭隘引文计数的关键方法，与替代计量学和产业专利转化共同构成多维评价体系。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 245–248)]]
 > - **2023 — 开放数据湖全量工程化解算与规律复现** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 在 SciSciNet 中建立分布式高效算力管道，完成 48,582,311 篇文献的颠覆性得分规模化解算，在 1.34 亿篇全量多源异构数据湖中稳健复现了小团队开拓颠覆、大团队巩固发展的组织规模分化规律。
@@ -170,3 +173,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 全量计算 4858 万篇出版物的颠覆性得分，在亿级数据规模上稳健验证了小团队开拓颠覆而大团队巩固发展的规律。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用颠覆性指数证实小团队颠覆既有范式、大团队发展成熟传统的组织分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]，pp. 128–132）；并将其确立为深挖网络拓扑、超越引文计数的关键指标（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 245–248）。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统评述团队规模对颠覆开拓与巩固发展的生态位分化规律，倡导均衡资助小型颠覆团队与大型工程团队以规避科学官僚化。（p. 3）

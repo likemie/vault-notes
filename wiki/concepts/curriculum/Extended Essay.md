@@ -64,7 +64,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Extended Essay
-> 拓展论文（Extended Essay，EE）是[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question\|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）共同把六学科课程扩展为自主探究、[[Epistemology\|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 18)]]
+> 拓展文章（Extended Essay，EE）是[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question\|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术文章。EE 与[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）共同把六学科课程扩展为自主探究、[[Epistemology\|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 18)]]
 
 > [!concept-lens] 课程位置、学习功能与资格作用
 > - **课程位置** 六学科和科内选项仍由课程大纲规定学习范围，EE 进一步把问题选择和持续研究交给学生，使个人兴趣进入正式文凭结构。
@@ -72,18 +72,18 @@ updated: 2026-11-02
 > - **资格作用** 独立研究由外部考官评价，使高度个人化的探究能够成为不同学校共同认可的文凭证据；EE 与 TOK 的等级还共同进入核心奖励分矩阵。
 
 > [!boundary]- 概念边界
-> - **有指导的独立研究** 导师提供选题和研究过程指导，论文仍由学生独立完成。指导程度在早期学校之间存在差异。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
-> - **区别于常规课程论文** EE 通常横跨两年课程中段的四至六个月，由学生在自己的时间内持续完成，研究跨度超过单次课堂[[Homework\|作业]]。
+> - **有指导的独立研究** 导师提供选题和研究过程指导，文章仍由学生独立完成。指导程度在早期学校之间存在差异。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
+> - **区别于常规课程文章** EE 通常横跨两年课程中段的四至六个月，由学生在自己的时间内持续完成，研究跨度超过单次课堂[[Homework\|作业]]。
 > - **独立但不孤立** EE 可以与 TOK 的证据审查及 CAS 的现实经验发生联系；跨组件联系需要学校主动安排，不能仅凭三项核心同时存在便自动形成。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–229)]]
 
 ---
 
 > [!feature] 从个人问题到文凭证据的六个要素
 > - **自主选题** 题目由学生选择，并与其所学学科或获准的研究领域相关，使研究方向不再完全由大纲和教师预先决定。
-> - **持续探究** 早期形态通常用四至六个月完成约 4,000 字论文，要求学生围绕同一问题长期组织资料、分析与写作。
+> - **持续探究** 早期形态通常用四至六个月完成约 4,000 字文章，要求学生围绕同一问题长期组织资料、分析与写作。
 > - **导师指导** 教师帮助学生控制题目范围、[[Research Practicability\|研究可行性]]和进度，具体指导程度会因导师与学校而异。
 > - **独立产出** 学生承担从提出问题、搜集一手或二手资料到形成论证的主要责任，个人兴趣由此转化为可以审查的学术工作。
-> - **外部评价** 校外考官评价最终论文，在学生选择和共同资格标准之间建立连接。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
+> - **外部评价** 校外考官评价最终文章，在学生选择和共同资格标准之间建立连接。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **核心矩阵** EE 与 [[Theory of Knowledge\|TOK]] 按 A 至 E 等级交叉计算零至三分奖励分；Darwish 所记录的制度中，EE 获得 E 级会触发文凭不合格条件。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
 
 > [!warrant]- 六学科不能替代学生自主提出问题
@@ -92,7 +92,7 @@ updated: 2026-11-02
 > [!ref-table] 成熟期用选题边界、导师报告和外部评分维持质量
 > | 环节 | 制度要求 | 要解决的问题 |
 > |---|---|---|
-> | 选题 | 避免范围过大、材料不可得或无法在有限时间内完成的题目 | 把兴趣收束为可[[Research Question\|研究问题]] |
+> | 选题 | 避免范围过大、材料不可得或无法在有限时间内完成的题目 | 把兴趣收住为可[[Research Question\|研究问题]] |
 > | 篇幅 | 超过 4,000 字会受到处罚 | 要求学生取舍证据并集中论证 |
 > | 过程证据 | 外部考官同时阅读导师对研究过程的报告 | 不只从成文表面推断[[Student Engagement\|学生投入]] |
 > | 评分 | 优秀成果可奖励 1–2 分，严重缺乏投入可扣 1 分 | 区分高水平独立研究、基本完成与明显敷衍 |
@@ -105,7 +105,7 @@ updated: 2026-11-02
 > **探讨维度　个人热情与课程责任** 自主性来自题目选择和研究路径，学术责任来自问题范围、完成期限、导师指导、篇幅要求和外部评价。两者共同把兴趣推进为持续的智识工作。
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
-> **个人热情获得学术出口** [[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）重视青年人的强烈个人热情。六学科能够提供深入学习，研究对象仍由课程大纲决定。EE 允许每位文凭学生从自己的学习领域[[Multiple-Choice Questions|选择题]]目，用四至六个月完成约 4,000 字论文，并接受外部考官评价。部分学生只是完成要求，另一些学生却投入到影响其他科目学习的程度。自主选题由此既产生内在投入，也要求学生学习控制[[Research Scope\|研究范围]]、时间和优先次序。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
+> **个人热情获得学术出口** [[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）重视青年人的强烈个人热情。六学科能够提供深入学习，研究对象仍由课程大纲决定。EE 允许每位文凭学生从自己的学习领域[[Multiple-Choice Questions|选择题]]目，用四至六个月完成约 4,000 字文章，并接受外部考官评价。部分学生只是完成要求，另一些学生却投入到影响其他科目学习的程度。自主选题由此既产生内在投入，也要求学生学习控制[[Research Scope\|研究范围]]、时间和优先次序。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 
 > [!concept-proposition] 命题二｜外部评价使个人化研究能够进入共同文凭
 > **探讨维度　自主研究与跨校可比性** EE 的题目和材料高度多样，国际资格仍需向大学提供可以共同解释的证据。导师、外部考官与核心矩阵分别承担支持、判断和资格整合功能。
@@ -144,7 +144,7 @@ updated: 2026-11-02
 > - **1960 年代后期　六学科之外增加个人研究** 六学科及深度选项提供通识与专门化的平衡，学生仍缺少自主提出问题并持续研究的正式空间。EE 由此成为所有文凭候选人的个人研究要求。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
 > - **早期实施　形成四至六个月、约 4,000 字、导师指导和外部评价的基本形态** 研究通常安排在两年课程中段，由学生主要使用自己的时间完成，教师给予指导，外部考官负责评价。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
-> - **1970 年代至 1985 年　选题指导与外部评价逐步成熟** 学生需要避免过宽、资料不可得和超过 4,000 字的题目，并形成学术态度。历史论文从集中于政治强人逐步扩展到地方史，科学论文常使用长期田野或实验，少数成果进入学术期刊。外部考官结合导师报告评分，可奖励 1–2 分，严重缺乏投入则扣 1 分。1985 年有 1,471 人获 1 分、310 人获 2 分、234 人被扣 1 分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 181–182)]]
+> - **1970 年代至 1985 年　选题指导与外部评价逐步成熟** 学生需要避免过宽、资料不可得和超过 4,000 字的题目，并形成学术态度。历史文章从集中于政治强人逐步扩展到地方史，科学文章常使用长期田野或实验，少数成果进入学术期刊。外部考官结合导师报告评分，可奖励 1–2 分，严重缺乏投入则扣 1 分。1985 年有 1,471 人获 1 分、310 人获 2 分、234 人被扣 1 分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 181–182)]]
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge\|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
 > - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document|文献]]评价，[[Chinese Academy of Sciences|CAS]] 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–230)]]
 
@@ -162,24 +162,24 @@ updated: 2026-11-02
 ---
 
 > [!case] 过度投入促成截止日期调整
-> 早期学生反馈同时显示价值与风险。许多学生认为 EE 最有助于适应大学学习；一些学生则深度投入自选题目，忽视其余课程并可能影响文凭考试。学校投诉促使 [[International Baccalaureate|IBO]] 把提交日期提前到全部课程结束前数月。调整没有削弱自主选题，而是用制度时间边界重新平衡个人研究和[[Concurrency of Learning\|并发学习]]。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
+> 早期学生反馈同时显示价值与风险。许多学生认为 EE 最有助于适应大学学习；一些学生则深度投入自选题目，忽视其余课程并可能影响文凭考试。学校投诉促使 [[International Baccalaureate|IBO]] 把提交日期提前到全部课程结束前数月。调整没有削弱自主选题，是用制度时间边界重新平衡个人研究和[[Concurrency of Learning\|并发学习]]。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 
 > [!case] 地方材料与长期实验把个人研究带出课堂[[Homework|作业]]
-> 成熟期 EE 的较强案例包括法国大革命时期戛纳地方史、斯里兰卡农业与食品营销体系，以及持续时间超过普通实验课的科学田野和实验。题目质量来自问题范围、资料条件和持续研究的匹配，而不是题材宏大。少数科学论文达到期刊发表水平，但章内没有提供全部论文的系统质量分布。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 181)]]
+> 成熟期 EE 的较强案例包括法国大革命时期戛纳地方史、斯里兰卡农业与食品营销体系，以及持续时间超过普通实验课的科学田野和实验。题目质量来自问题范围、资料条件和持续研究的匹配，有别于题材宏大。少数科学文章达到期刊发表水平，但章内没有提供全部文章的系统质量分布。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 181)]]
 
-> [!case] 1977 年历史论文显示选题自由仍需要范围指导
+> [!case] 1977 年历史文章显示选题自由仍需要范围指导
 > 罗伯特·布恩（R. S. Bourne）检视的 81 篇历史 EE 中，15 篇研究希特勒或纳粹主义，16 篇研究俄国革命者，11 篇研究其他强人，合计 42 篇，约占 51.9%。题目聚集说明自主选题不会自动带来多样性。诸以俄国外交政策在二十世纪的发展为题之类的设计又过于宽泛，难以在 4,000 字内形成有效论证。相比之下，法国大革命时期的戛纳这类依托本地可得材料的题目，更容易建立可操作的证据边界。比例由章内数据计算，不代表所有学科或年份的 EE 分布。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 181)]]
 
 > [!case] 涂鸦主题连接经验、知识判断与学科研究
-> 学生可以先在 [[Chinese Academy of Sciences|CAS]] 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 228–229)]]
+> 学生可以先在 [[Chinese Academy of Sciences|CAS]] 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收住为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 228–229)]]
 
-> [!case] 生态研究由论文返回社区行动
-> 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使论文问题进入具体环境。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 229)]]
+> [!case] 生态研究由文章返回社区行动
+> 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使文章问题进入具体环境。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 229)]]
 
 ---
 
 > [!warning] 适用局限
-> - **投入程度差异** 早期成果既包括高度投入的研究，也包括只为满足要求而提交的平淡论文。正式要求能够创造机会，不能保证每名学生都形成个人热情。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
+> - **投入程度差异** 早期成果既包括高度投入的研究，也包括只为满足要求而提交的平淡文章。正式要求能够创造机会，不能保证每名学生都形成个人热情。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **整体课业失衡** 长期研究可能挤压六学科时间；截止日期、导师进度管理和学校协调是维持整体课程平衡的[[Necessary and Sufficient Conditions\|必要条件]]。
 > - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning\|并发学习]]认识有限，会使 EE、[[Theory of Knowledge\|TOK]] 和 [[Chinese Academy of Sciences|CAS]] 各自运行。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–230)]]
 > - **大学准备证据的范围** EE 与大学学习结果的关联支持其准备价值，不能单独证明 EE 导致更高成绩；学生选择、学校环境和既有能力仍可能共同影响结果。

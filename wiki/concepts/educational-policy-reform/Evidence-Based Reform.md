@@ -131,7 +131,7 @@ updated: 2026-11-02
 > *Evidence-based reform refers to policies in which educators and policymakers use evidence of effectiveness as a criterion for choosing educational programs, products, and practices. ... Evidence-based reform could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century.*
 
 > [!boundary]- 概念边界
-> - **不等于[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指“教育决策应当参考研究证据”的宏观哲学与倡导理念；证据本位改革（EBR）则是推动该理念落地的**法定政策、拨款杠杆与审查管线**。
+> - **不等于[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指“教育决策应当参考研究证据”的宏观哲学与倡导理念；证据本位改革（EBR）则是推动该理念落地的**法定政策、拨款手段与审查管线**。
 > - **不等于[[Evidence-Informed Practice\|证据知情实践]]（EIP）** 证据知情实践往往允许教师依据宽泛原则进行自由情境裁剪；而 EBR 强调必须依托经过完整对照实验验证的**具体结构化方案与配套培训**。
 > - **不等于抽象的“[[Scientifically Based Research\|基于科学研究]]”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER\|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）** 的项目才能作为改革依据。
 
@@ -151,7 +151,7 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **已验证项目存量（Critical Mass of Proven Programs）** 在核心学科（阅读、数学、科学）中通过严格实验评估建立充足的强证据干预方案库，确保学校具备充足的实证方案可供选择。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速转译平台（如 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
-> - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act\|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政杠杆驱动学校主动选择有效方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25–26)]]
+> - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act\|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政手段驱动学校主动选择有效方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25–26)]]
 > - **全链条四项核心活动（Four Essential Activities）** 制度化贯通“评估有效干预 $\to$ 专家转译指南 $\to$ 提供采纳资源 $\to$ 政策持续累积”的良性循环活动。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 9, 21–22)]]
 > - **本地情境可用性（Local Usability）** 将经济成本、耗材要求、学生使用时间及与本地课程标准的匹配度纳入[[Evidence-Based Policy-Making|循证决策]]考量，确保外部因果证据能够在具体学校顺利落地。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–121)]]
 > - **教师民主投票准入机制（Teacher Democratic Supermajority Vote）** 为确保一线教师的主人翁意识（Ownership）并化解自上而下行政强推的抵触，改革方案的引进通常设立全校教职工无记名投票门槛（如 [[Success for All]] 强制要求全校 80% 以上教师投赞成票），将基层民主授权与外部强保真度实施有机结合。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 7)]]
@@ -181,7 +181,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜循证改革的成功取决于项目存量、独立审查与财政激励三大支柱的制度协同
-> **探讨维度　政策治理杠杆与供需匹配** 分析公共政策如何通过[[Tiered Evidence Grants\|分层资助管线]]、独立审查平台与法定拨款门槛重塑教育采购生态。
+> **探讨维度　政策治理手段与供需匹配** 分析公共政策如何通过[[Tiered Evidence Grants\|分层资助管线]]、独立审查平台与法定拨款门槛重塑教育采购生态。
 
 > [!claim] Slavin, R. E.
 > **三条件框架是驱动教育实践不可逆进步的制度基石** 单纯依靠学术发表无法改变学校实践；循证改革必须同时建立三大支柱：通过联邦分层研发管线（如[[Investing in Innovation Program\|创新投资项目]]（Investing in Innovation, i3）/ [[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF））形成充足的合规项目库；建立面向校长的独立极速转译平台（如 [[Evidence for ESSA]]）；并通过立法（如《[[Every Student Succeeds Act\|每一个学生成功法]]》）将数十亿美元的学校改进拨款与 TIER 1–3 证据方案刚性绑定，从制度上阻断商业营销对公款的侵蚀。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–26)]]

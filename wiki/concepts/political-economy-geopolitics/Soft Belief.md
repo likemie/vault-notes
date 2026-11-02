@@ -105,7 +105,7 @@ updated: 2026-11-02
 > **探讨维度　技术伦理与国家安全** 探讨科技精英如何以道德中立为借口拒绝与国防机构合作，进而削弱国家[[Hard Power|硬实力]]。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **技术不可知论对国家防卫的瓦解** 硅谷科技精英普遍采纳一种软信念姿态，宣称自己只是中立工具的构建者，拒绝在自由与专制之间作出清晰的政治站位。这种技术不可知论使科技界与国家防务脱钩，直接威胁到自由社会的战略威慑底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–80)]]
+> **技术不可知论对国家防卫的瓦解** 硅谷科技精英普遍采纳一种软信念姿态，宣称自己只是中立工具的构建者，拒绝在自由与专制之间作出清晰的政治站位。这种技术不可知论使科技界与国家防务脱钩，直接威胁到自由社会的战略威慑基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–80)]]
 
 ---
 

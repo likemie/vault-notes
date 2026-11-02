@@ -175,7 +175,7 @@ updated: 2026-11-02
 > - **边界** 区别于单纯由军工寡头垄断的威权式技术极权主义（Techno-Authoritarianism），亦区别于放任自流、脱离公共目标约束且缺乏硬核防卫能力的自由放任数字资本主义（Laissez-Faire Digital Capitalism）。
 
 > [!citation-card] 技术共和国的历史根基与时代使命
-> 美国自建国以来便是一座技术共和国，其在世界格局中的地位是由其持续的创新能力所奠定和推进的。然而，我们当下的优势绝非理所当然。当年正是凝聚在共同目标周围的文化赢得了上一次世界大战，而也唯有这样的文化才能赢得或阻止下一场冲突。在先进人工智能的新时代，我们应当回归科技产业与政府紧密合作的传统。正是这种对技术创新的追求与国家目标的结合，不仅将推进我们的福祉，更将捍卫民主事业本身的合法性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 15)]]
+> 美国自建国以来便是一座技术共和国，其在世界格局中的地位是由其持续的创新能力所奠定和推进的。然而，我们当下的优势有别于理所当然。当年正是凝聚在共同目标周围的文化赢得了上一次世界大战，而也唯有这样的文化才能赢得或阻止下一场冲突。在先进人工智能的新时代，我们应当回归科技产业与政府紧密合作的传统。正是这种对技术创新的追求与国家目标的结合，不仅将推进我们的福祉，更将捍卫民主事业本身的合法性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 15)]]
 >
 > *The United States since its founding has always been a technological republic, one whose place in the world has been made possible and advanced by its capacity for innovation. But our present advantage cannot be taken for granted. It was a culture, one that cohered around a shared objective, that won the last world war. And it will be a culture that wins, or prevents, the next one... Our central argument is that—in this new era of advanced AI... we should return to that tradition of close collaboration between the technology industry and the government.*
 
@@ -211,7 +211,7 @@ updated: 2026-11-02
 > |:---|:---|:---|:---|
 > | **核心取向** | 国家安全、公共使命、所有权分享与民主合法性的深度融合 | 经济增长、产业升级与知识流动网络效率 | 股东价值最大化、短期财报指标与消费者个人效用满足 |
 > | **国家角色** | 战略使命提出者、前沿资助者、法定商用采购者与公民文化守护者 | 制度协调者、基础设施建设者与规则监管者 | 被动监管者与反垄断规制者 |
-> | **工程文化** | 审美品味、创始人决断、直面国家[[Grand Challenges\|重大挑战]]与实战检验 | 学术论文发表、产学研中试与专利产出 | 快速迭代、平台网络效应与流量变现 |
+> | **工程文化** | 审美品味、创始人决断、直面国家[[Grand Challenges\|重大挑战]]与实战检验 | 学术文章发表、产学研中试与专利产出 | 快速迭代、平台网络效应与流量变现 |
 > | **主导技术形态** | 软件[[Hard Power\|硬实力]]、算法指挥控制中枢、深层物理技术 | 行业共性技术平台、制造工艺与专利集群 | 消费级移动互联网应用、社交网络与算法广告 |
 > | **合法性与伦理基础** | 国家提供公共安全与核心技术福利的实际效能；儒家与共和实质美德 | 宏观经济生产率与全球产业[[Competitiveness\|竞争力]]提升 | 消费选择自由、市场自发效率与[[John Rawls\|罗尔斯]]式形式程序中立 |
 > | **历史典范** | 二战 [[Office of Scientific Research and Development\|OSRD]]、1939年[[Einstein-Szilard Letter\|爱因斯坦信函]]、[[Apollo Program\|阿波罗计划]]、[[DARPA\|ARPA]]、早期硅谷全员股权公社 | [[OECD\|经合组织]]（OECD）国家常态化产业创新政策 | 2000 年代以来的消费级移动互联网与社交平台 |
@@ -264,7 +264,7 @@ updated: 2026-11-02
 > **探讨维度　[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]与技术治理效能** 分析现代国家如何通过向公众交付切实的技术福利以抵御社会合法化危机。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
-> **技术供给效能直接决定民主政体公信力** 卡普与扎米斯卡结合[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的合法化危机论断指出，公民对民主体制的忠诚并非建立在抽象理念之上，而是取决于国家能否有效提供安全、健康、教育与经济繁荣。如果尖端技术仅沦为私营科技寡头获取垄断利润的工具，而国家治理机构长期陷于低效停滞的[[Innovation Desert|创新荒漠]]，公众对体制的信任就会崩解。技术共和国要求技术力量走出封闭的商业温室，全方位赋与公共治理与民生基础设施现代技术能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–11)]]
+> **技术供给效能直接决定民主政体公信力** 卡普与扎米斯卡结合[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的合法化危机论断指出，公民对民主体制的忠诚是取决于国家能否有效提供安全、健康、教育与经济繁荣，有别于建立在抽象理念之上。如果尖端技术仅沦为私营科技寡头获取垄断利润的工具，而国家治理机构长期陷于低效停滞的[[Innovation Desert|创新荒漠]]，公众对体制的信任就会崩解。技术共和国要求技术力量走出封闭的商业温室，全方位赋与公共治理与民生基础设施现代技术能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–11)]]
 
 ---
 
@@ -332,7 +332,7 @@ updated: 2026-11-02
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, Ch. 6)]]
 > **破除不可知论冷漠并重构愿意承担代价的[[Hard Belief|硬信念]]** 卡普与扎米斯卡系统剖析了当代科技阶层陷入技术不可知论（将建造行为与国家目的割裂）与[[Cult of Optionality|选择权崇拜]]（避险瘫痪）的文化根源：
 > 1. **高等教育与心智产品化危机** 大学退化为行政看护机构，导致大量名校毕业生流向金融咨询业，人文学科被严重边缘化，培养出大批缺乏现实关怀的技能工匠；
-> 2. **统治集团种姓化隐患** 援引[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]模型，极少数科技巨头垄断巨额资本并闭关自守，使开放贤能贵族蜕变为封闭的特权种姓；
+> 2. **统治集团种姓化隐患** 援引[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]模型，极少数科技巨头垄断巨额资本并闭关自守，使开放贤能贵族转变为封闭的特权种姓；
 > 3. **[[The Right and the Good|正当与善]]的血肉融合** 援引匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]“正义是骨架，美好生活是血肉”的[[Ontology|本体论]]断，指出单纯形式化的程序正义无法滋养文明，必须克服因恐惧公众非议而形成的集体沉默，重新唤起公民与工程师为崇高目标承担现实代价的智识勇气（硬信念），终结对民族国家概念的思想内战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]
 
 ---
@@ -352,18 +352,18 @@ updated: 2026-11-02
 > **探讨维度　微观[[Organizational Culture|组织文化]]与国家硬实力转化的微观基础** 阐明宏观层面的技术共和国战略动员不能依赖僵化的[[Bureaucracy|科层官僚制]]，必须建立在去中心化[[Swarm Intelligence|群智能]]、[[Edge Autonomy|边缘自治]]、[[Constructive Disobedience|建设性不服从]]与[[Social Deafness|社交失聪]]等[[Engineering Mindset|工程思维]]基础之上。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, Ch. 9–12)]]
-> **工程思维是连接宏观技术共和国与前沿实战突破的组织微观基石** 卡普与扎米斯卡指出，宏观国家安全战略与尖端算法研发若要真正转化为可落地的硬实力，绝不能依赖层层设卡、推诿免责的传统大企业与防卫型科层制，而必须依托在互联网泡沫废墟与实战攻关中沉淀出的工程思维：
+> **工程思维是连接宏观技术共和国与前沿实战突破的组织微观基石** 卡普与扎米斯卡指出，宏观国家安全战略与尖端算法研发若要真正转化为可落地的硬实力，绝不能依赖层层设卡、推诿免责的传统大企业与防卫型科层制，而必须依托在互联网泡沫废墟与实战攻关中积累出的工程思维：
 > 1. **生物群智能与边缘自治** 借鉴蜜蜂蜂群与[[Flocking Behavior|椋鸟群飞]]的自组织机制，将感知与决断权充分下放到直接面对物理现实与前线代码的一线工程师（Ch. 10）；
 > 2. **即兴协作与[[Status Transactions|工具性地位]]** 剥离本质地位与扮演地位，以高流动性的[[Shadow Hierarchy|影子层级]]打破[[Meeting-Industrial Complex|会议工业复合体]]内耗（Ch. 11）；
 > 3. **建设性不服从与社交失聪** 制度化包容一线技术骨干对上级错误指令的主动修正与挑战，并以社交失聪抵御外部世俗争议与虚假群体共识（Ch. 12）。
 
 ---
 
-> [!concept-proposition] 命题十三｜政府采购法治与商用现成优先是技术共和国打破军工垄断与官僚阻滞的制度破局之钥
+> [!concept-proposition] 命题十三｜政府采购法治与商用现成优先是技术共和国打破军工垄断与官僚阻滞的制度突破之钥
 > **探讨维度　政府采购法治与防务创新制度经济学维度** 阐释技术共和国如何通过刚性法定商用优先权与司法诉讼打破传统军工复合体的定制成本加成垄断，打通前沿软件向国防安全输送的体制回路。
 
 > [!claim] Karp, Zamiska & Glenn (2025/1994)
-> **采购法治与商用现成优先制度破局断言** 卡普与扎米斯卡结合参议员[[John Glenn|约翰·格伦]]（John Glenn）推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）的历史经验指出，技术共和国宏大构想的落实必须依托底层的政府采购法治与去官僚化改革。[[Department of Defense|五角大楼]]耗资数十亿美元的定制软件系统屡屡溃败，根源在于传统军工巨头利用成千上万页军用规范制造高额准入壁垒；唯有通过刚性法定约束（10 U.S.C. § 2377）强制推行[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先，并以司法诉讼打破体制避险惰性，才能将私营部门最前沿的软件与人工智能技术高效引入国家防务体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
+> **采购法治与商用现成优先制度突破断言** 卡普与扎米斯卡结合参议员[[John Glenn|约翰·格伦]]（John Glenn）推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）的历史经验指出，技术共和国宏大构想的落实必须依托底层的政府采购法治与去官僚化改革。[[Department of Defense|五角大楼]]耗资数十亿美元的定制软件系统屡屡溃败，根源在于传统军工巨头利用成千上万页军用规范制造高额准入壁垒；唯有通过刚性法定约束（10 U.S.C. § 2377）强制推行[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先，并以司法诉讼打破体制避险惰性，才能将私营部门最前沿的软件与人工智能技术高效引入国家防务体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
 
 ---
 
@@ -438,7 +438,7 @@ updated: 2026-11-02
 > > 争论科技精英应当作为无国界的[[Global Citizenship|全球公民]]开发消费应用，还是必须承担捍卫本国民主制度的防务责任。
 > >
 > > - **世界主义与消费科技派** 主张技术无国界，拒绝卷入大国安全竞争，将算法研发局限于商业消费领域。
-> > - **技术共和国主权派（Bush / Oppenheimer / Karp & Zamiska）** 强调自由民主制度的生存依赖于强大的技术实力底座，逃避防卫责任将直接导致威权对手取得地缘非对称优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
+> > - **技术共和国主权派（Bush / Oppenheimer / Karp & Zamiska）** 强调自由民主制度的生存依赖于强大的技术实力基础，逃避防卫责任将直接导致威权对手取得地缘非对称优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
 
 ---
 
@@ -450,9 +450,9 @@ updated: 2026-11-02
 > | 研究与来源 | 考察样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与指标 | 原始实证结果 | 显著性或不确定性 | 理论与政策启示 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Fahlenbrach (2009)]] | 1992–2002 年间 2,327 家美国上市公司（其中 361 家为创始人领导） | 长期投资组合收益回归分析（控制行业与企业年龄） | 创始人担任 CEO 与股票市场年化超额回报 | 创始人领导公司投资组合年化超额回报达 10.7%，比非创始人领导公司高出 4.4% | $p < 0.05$ | 证实创始人掌舵具有显著市场溢价，单一家族控股若无创始人掌舵则无此效应 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Lee, Kim, & Bae (2016)]] | 1993–2003 年间标准普尔 500（S&P 500）指数成分股企业 | 专利被引频次与创新产出实证计量 | 创始人 CEO 领导与重大高影响力专利持有量 | 创始人领导的企业所持有的重大、高被引专利数量高出 31% | 原文报告显著差异 | 证实创始人主导模式更倾向于开展突破性、深层次创新而非短视修补 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Lee, Kim, & Bae (2016)]] | 1993–2003 年间标准普尔 500（S&P 500）指数成分股企业 | 专利被引频次与创新产出实证计量 | 创始人 CEO 领导与重大高影响力专利持有量 | 创始人领导的企业所持有的重大、高被引专利数量高出 31% | 原始报告显著差异 | 证实创始人主导模式更倾向于开展突破性、深层次创新而非短视修补 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Dunbar (1993)]] | 全球狩猎采集部落与灵长类社会 | 演化人类学调查与神经生物学计算 | 新皮质比率与稳定面对面社交群体规模上限 | 人类直接互动社群规模均值为 148.4 人（通常取整为 150 人） | $95\% \text{ CI } [90, 221]$ | 证实超大规模人类协作无法依赖生理梳毛，必须依托语言与共享想象共同体维系 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|World Bank (2023)]] | 1960–2023 年新加坡国家经济发展数据 | 宏观经济纵向追踪 | 人均 GDP（现价美元） | 人均 GDP 从 1960 年的 428 美元跃升至 2023 年的 84,734 美元 | 官方统计数据 | 印证长期国家文化整合与卓越领导力能创造跨越式经济与技术繁荣奇迹 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|World Bank (2023)]] | 1960–2023 年新加坡国家经济发展数据 | 宏观经济纵向追踪 | 人均 GDP（现价美元） | 人均 GDP 从 1960 年的 428 美元提升至 2023 年的 84,734 美元 | 官方统计数据 | 印证长期国家文化整合与卓越领导力能创造跨越式经济与技术繁荣奇迹 |
 
 ---
 

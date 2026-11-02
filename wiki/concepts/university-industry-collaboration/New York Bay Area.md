@@ -84,7 +84,7 @@ updated: 2026-11-02
 > [!feature] 纽约湾区[[Innovation Ecosystem|创新生态系统]]的四大核心要素
 > - **全周期科技金融与实验室网络（Full-Lifecycle Techno-Finance Ecosystem）** 依托华尔街雄厚资本与全球两大交易所，设立金融科技创新实验室（FinTech Innovation Lab）、摩根大通金融解决方案实验室与花旗银行创新实验室，运用金融大数据与人工智能为中小微科技企业提供定制化融资与信贷支持。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **精准导向的市政减税与空间更新政策（Targeted Fiscal Incentives & Spatial Policy）** 实施商业扩张鼓励计划、降低能源成本计划、新兴科技公司减税措施与曼哈顿下城商业租金税减免；推动城市改造计划（铺设全美最大的免费公共无线网络 WiFi、建设 Digital.NYC 创业平台）及众创空间支持计划。
-> - **战略性[[Engineering Education|高等工程教育]]引育工程（Strategic [[STEM Education|STEM]] Higher Education Expansion）** 2010 年启动[[Applied Sciences NYC|应用科学计划]]（Applied Sciences NYC），出让罗斯福岛核心土地并配套 1 亿美元市政资金，全球公开招标引进康奈尔大学与以色列理工学院（Technion）联合设立康奈尔科技校区（Cornell Tech），从供给侧重构湾区工程科技与应用学科底座。
+> - **战略性[[Engineering Education|高等工程教育]]引育工程（Strategic [[STEM Education|STEM]] Higher Education Expansion）** 2010 年启动[[Applied Sciences NYC|应用科学计划]]（Applied Sciences NYC），出让罗斯福岛核心土地并配套 1 亿美元市政资金，全球公开招标引进康奈尔大学与以色列理工学院（Technion）联合设立康奈尔科技校区（Cornell Tech），从供给侧重构湾区工程科技与应用学科基础。
 > - **专业化高校成果转化与科技孵化平台（University [[Technology Transfer|tech transfer]] & Incubator Hub）** 以康奈尔大学[[McGovern Center for Venture Development|麦戈文创业孵化中心]]为标杆，深度整合大学科研成果与纽约州经济发展资源，提供高标准湿实验室、知识产权保护、商业规划与职业经理人对接，成功孵化近百个硬科技企业团队。
 
 > [!logic-map]- 纽约湾区金融科技与产学研共演逻辑
@@ -139,7 +139,7 @@ updated: 2026-11-02
 > - **19世纪–20世纪中期 — 全球制造业与航运贸易中心** 依托纽约港优良水系与伊利运河，发展成为美国最大的制造业重镇、工业产品集散地与国际贸易中心。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **20世纪中后期 — 世界金融资本与公司总部枢纽** 传统制造业外迁，华尔街金融机构与跨国公司总部高度集聚，奠定全球资本配置核心枢纽地位。
 > - **2008年金融危机后 — “去单一化”与硅巷科技转型** 纽约市政府反思过度依赖传统金融的脆弱性，启动以科技创新与数字经济为核心的多元化转型战略。
-> - **2010年代至今 — 应用科学工程与全球第二大科创高地** 实施[[Applied Sciences NYC|应用科学计划]]（康奈尔科技校区）与麦戈文孵化器建设，在金融科技、人工智能、生命科学与智慧城市领域跃升为全美仅次于硅谷的全球科创与风投中心。
+> - **2010年代至今 — 应用科学工程与全球第二大科创高地** 实施[[Applied Sciences NYC|应用科学计划]]（康奈尔科技校区）与麦戈文孵化器建设，在金融科技、人工智能、生命科学与智慧城市领域提升为全美仅次于硅谷的全球科创与风投中心。
 
 ---
 

@@ -87,7 +87,7 @@ updated: 2026-11-02
 > *Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and praxis, will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci said, a "Philosophy of Praxis."*
 
 > [!boundary]- 概念边界
-> - 不等于 经验（Experience） — 经验可以是个体被动承受的感知与心理沉淀，而实践必须包含主体对客体结构的自觉批判与主动改造。
+> - 不等于 经验（Experience） — 经验可以是个体被动承受的感知与心理积累，而实践必须包含主体对客体结构的自觉批判与主动改造。
 > - 不等于 技术操作（Techne / Practice） — 技术操作是受给定目的支配的工具性活动（如编写代码、执行既定教案），缺乏对目的本身的伦理考量与意识形态反思。
 
 ---
@@ -104,8 +104,8 @@ updated: 2026-11-02
 ---
 
 > [!feature] 实践[[Construct|构念]]的四重内在张力与支柱
-> - **词与劳作的互渗统一（Word and Work）** [[Paulo Freire|弗莱雷]]指出，真正的实践绝非纯粹的言辞空谈（[[Verbalism]]），亦非不假思索的盲动冒险（Activism）；必须通过对话“命名世界”，并将这种命名转化为改造世界物质现实的集体劳作。
-> - **冷面科学分析（Cold Science）** 实践哲学绝非虚无缥缈的教条宣教，它必须立足于对资本积累模式、国家机器职能、跨国金融霸权与阶级权力矩阵的严谨、经验求实与定量/定性并重的政治经济学解剖（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 85]]）。
+> - **词与劳作的互渗统一（Word and Work）** [[Paulo Freire|弗莱雷]]指出，真正的实践有别于纯粹的言辞空谈（[[Verbalism]]），亦非不假思索的盲动冒险（Activism）；必须通过对话“命名世界”，并将这种命名转化为改造世界物质现实的集体劳作。
+> - **冷面科学分析（Cold Science）** 实践哲学有别于虚无缥缈的教条宣教，它必须立足于对资本积累模式、国家机器职能、跨国金融霸权与阶级权力矩阵的严谨、经验求实与定量/定性并重的政治经济学解剖（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 85]]）。
 > - **炽热道德乌托邦（Hot Utopia）** 实践哲学始终由对人类解放、社会公正与终结剥削压迫的强烈伦理激情所驱动，它为冷峻的制度剖析注入价值灵魂，赋予抵抗运动超越既定现实的历史想象力。
 > - **有机知识分子的组织中介（Organic Intellectuals）** 葛兰西强调，实践哲学不能只停留在个别领袖的大脑中，必须借助“有机知识分子”在教师工会、学生组织与社区大众之间建立长效对话机制，形成牢不可破的反霸权同盟。
 

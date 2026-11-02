@@ -101,10 +101,10 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家超越纯粹经济效率考量，将技术主导权、供应链韧性与地缘政治防御融为一体的宏观产业干预体系。
 > - **用途** 帮助政治经济学与科技政策研究者解释当代大国在半导体等先进制程领域采取的“补贴-出口管制-盟友协同-矿产管制”组合拳与非经济效率动机。
-> - **边界** 不等于单纯的贸易保护主义（如单纯关税壁垒），亦不等于传统计划经济体制下的行政垄断，而是运行在全球高度细分分工与跨国供应链网络之上的战略性国家干预。
+> - **边界** 不等于单纯的贸易保护主义（如单纯关税壁垒），亦不等于传统计划经济体制下的行政垄断，是运行在全球高度细分分工与跨国供应链网络之上的战略性国家干预。
 
 > [!citation-card] 现代产业政策的多重动因演变
-> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
+> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备有别于由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, [[Learning by Doing]], and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips (especially those potentially involved in national security issues).*
 
@@ -209,7 +209,7 @@ updated: 2026-11-02
 > **探讨维度　国家形态与产业政策治理架构的比较政治经济学** 探讨不同政体的中央财政自主权与行政统领能力如何决定现代产业政策采取集中直接投资模式还是去中心化协调者模式，进而深刻影响跨国资本动员与内部区域均衡。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **财政集权与治理形态的分水岭** 现代产业政策绝非整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如[[EU|欧盟]]），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
+> **财政集权与治理形态的分水岭** 现代产业政策有别于整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如[[EU|欧盟]]），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
 
 ---
 

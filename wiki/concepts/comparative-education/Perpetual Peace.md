@@ -78,7 +78,7 @@ updated: 2026-11-02
 > [!def] Perpetual Peace
 > **永久和平（Perpetual Peace / *Zum ewigen Frieden*）** 是人类历史超越霍布斯式无政府野蛮战争状态的规范性终极愿景。
 > 
-> 在哲学与教育学层面，它主张持久的世界和平绝不能仅寄托于现实主义短期的均势停火，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。在当代地缘战略与技术政治层面，该构想受到现实主义者的深刻重审：战后大国间的相对和平并非道德自觉的自然演进，而是依赖于压倒性的战略威慑；单方面去武力化与安全搭便车非但不能实现永久和平，反而会制造地缘权力真空并加剧安全秩序的脆弱性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
+> 在哲学与教育学层面，它主张持久的世界和平绝不能仅寄托于现实主义短期的均势停火，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。在当代地缘战略与技术政治层面，该构想受到现实主义者的深刻重审：战后大国间的相对和平是依赖于压倒性的战略威慑，有别于道德自觉的自然演进；单方面去武力化与安全搭便车非但不能实现永久和平，反而会制造地缘权力真空并加剧安全秩序的脆弱性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称超越单一民族国家狭隘利益、将消除有组织战争暴力与实现人类大同确立为终极目标的伦理承诺与超国家治理制度构想。
@@ -154,7 +154,7 @@ updated: 2026-11-02
 > **探讨维度　学科起源的伦理问题域** 批驳现代[[Behaviorism|行为主义]]实证派将比较教育矮化为去价值化[[Artefact|器物]]借用与国家经济竞争的技术测量工具。
 
 > [!claim] Wight, M. and [[Eleftherios Klerides|Klerides, E.]]
-> **[[Revolutionism|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（现实主义），亦非单纯维持现状的制度移植（理性主义），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419, 426–429)]]
+> **[[Revolutionism|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育有别于国家间争夺霸权的技术工具（现实主义），亦非单纯维持现状的制度移植（理性主义），是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419, 426–429)]]
 
 > [!claim] [[Robert Cowen|Cowen, R.]] and [[Andreas Kazamias|Kazamias, A.]] M.
 > **[[Educational Meliorism|教育改良主义]]对比较[[Epistemology|认识论]]问题域的本体奠基** 卡洛扬纳基与卡扎米亚斯指出，20 世纪逻辑实证派片面标榜“[[Value Neutrality|价值无涉]]”，抹杀了比较教育奠基先驱的崇高伦理灵魂；朱利安对跨国教育观察表的编制，其本体动因深嵌于消除大革命创伤、维系欧洲永久和平与促进人类福祉的“教育改良主义”之中，奠定了学科不可让渡的比较认识论问题域。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 24, 33–34)]]
@@ -162,10 +162,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜单方面去武力化无法自发达成永久和平，缺乏[[Hard Power|硬实力]]威慑的和平主义幻觉反向加剧地缘脆弱
-> **探讨维度　现实主义地缘批判与去武力化陷阱** 探讨当代战略现实主义对和平主义教条的解构，阐明战略威慑与[[Hard Power|硬实力]]作为维系实质和平不可或缺的现实底座。
+> **探讨维度　现实主义地缘批判与去武力化陷阱** 探讨当代战略现实主义对和平主义教条的解构，阐明战略威慑与[[Hard Power|硬实力]]作为维系实质和平不可或缺的现实基础。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **战略威慑底座与去武力化地缘风险** 战后八十年大国之间未爆发大战的[[Long Peace|长和平]]，本质上是美国绝对军事优势与战略威慑的结果，而非普遍道德自觉或市场一体化的自然产物。西方盟友（如欧洲各国与日本）将和平视为理所当然的免费公共品，陷入安全搭便车、军队微缩为[[Bonsai Army|盆景军队]]以及固守[[Article 9 of the Japanese Constitution|日本国宪法第九条]]的单方面去武力化困境。在缺乏中央权威的国际无政府丛林中，单方面的道德自省与去武力化非但不能带来永久和平，反而会向威权对手释放软弱信号、破坏地缘力量平衡；唯有以压倒性的软件[[Hard Power|硬实力]]与[[AI Deterrence|人工智能威慑]]构筑坚固防线，才能维系自由世界的和平与生存。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44, 53–54)]]
+> **战略威慑基础与去武力化地缘风险** 战后八十年大国之间未爆发大战的[[Long Peace|长和平]]，本质上是美国绝对军事优势与战略威慑的结果，而非普遍道德自觉或市场一体化的自然产物。西方盟友（如欧洲各国与日本）将和平视为理所当然的免费公共品，陷入安全搭便车、军队微缩为[[Bonsai Army|盆景军队]]以及固守[[Article 9 of the Japanese Constitution|日本国宪法第九条]]的单方面去武力化困境。在缺乏中央权威的国际无政府丛林中，单方面的道德自省与去武力化非但不能带来永久和平，反而会向威权对手释放软弱信号、破坏地缘力量平衡；唯有以压倒性的软件[[Hard Power|硬实力]]与[[AI Deterrence|人工智能威慑]]构筑坚固防线，才能维系自由世界的和平与生存。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44, 53–54)]]
 
 ---
 

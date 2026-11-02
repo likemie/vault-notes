@@ -129,15 +129,15 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享执行功能的微观神经认知调控基础
-> **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]能力的神经认知机制统合** 发散性创新与收敛性批判表面取向相反，但在微观神经加工层面深度依赖相同的执行控制过程。
+> **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]能力的神经认知机制整合** 发散性创新与汇合性批判表面取向相反，但在微观神经加工层面深度依赖相同的执行控制过程。
 
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
-> **高阶思维双翼的共同执行控制机制** [[Meta-analysis\|元分析]]表明，发散生成的[[Creativity\|创造力]]与收敛评价的[[Critical Thinking\|批判性思维]]之间存在中度显著正相关（$r = 0.38$）。两者共同依赖[[Inhibitory Control\|抑制控制]]（压制显而易见的平庸方案或直觉认知偏见）、[[Cognitive Flexibility\|认知灵活性]]（在多重维度与跨学科视角间穿梭）以及[[Working Memory\|工作记忆]]更新等执行功能组件；执行功能的这一共享神经认知基础，为学校课程实施高阶思维联合培养方案提供了强有力的心理学辩护。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
+> **高阶思维双翼的共同执行控制机制** [[Meta-analysis\|元分析]]表明，发散生成的[[Creativity\|创造力]]与汇合评价的[[Critical Thinking\|批判性思维]]之间存在中度显著正相关（$r = 0.38$）。两者共同依赖[[Inhibitory Control\|抑制控制]]（压制显而易见的平庸方案或直觉认知偏见）、[[Cognitive Flexibility\|认知灵活性]]（在多重维度与跨学科视角间穿梭）以及[[Working Memory\|工作记忆]]更新等执行功能组件；执行功能的这一共享神经认知基础，为学校课程实施高阶思维联合培养方案提供了强有力的心理学辩护。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
 
 ---
 
 > [!concept-proposition] 命题三｜抑制控制是科学探究推理技能与概念转变的微观认知调控基石
-> **探讨维度　科学探究与概念重构的心理调控机制** 科学探究绝非单纯的感官操作，其成败取决于学生能否在认知层面主动压制错误直觉并维持严谨的[[Variable\|变量]]控制。
+> **探讨维度　科学探究与概念重构的心理调控机制** 科学探究并不单纯的感官操作，其成败取决于学生能否在认知层面主动压制错误直觉并维持严谨的[[Variable\|变量]]控制。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **抑制控制对探究技能与概念转变的方差解释** 在科学教育与[[Inquiry-Based Learning\|探究式学习]]中，执行功能（尤其是抑制控制能力）发挥着不可或缺的底层支撑功能。实证研究证实，中学生的抑制控制能力独立解释了科学探究推理技能 **29%** 的方差变异，以及科学概念转变（Conceptual Gain）**28%** 的方差变异（Kwon & Lawson, 2000）；在复杂仿真模拟中，缺乏足够抑制控制的学习者极易被表面生动的无关知觉线索（Salient Perceptual Features）吸引，从而产生认知超载并得出错误归因（Homer & Plass, 2014）；教师提供的结构化支架在认知机制上本质上是对学生执行功能负荷的外部代偿，确保学习者将有限的执行资源聚焦于实质[[Causality\|因果关系]]的推导。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
@@ -158,7 +158,7 @@ updated: 2026-11-02
 > - **2000 — Miyake 统一性与多样性框架确立** 三宅（Miyake et al., 2000）通过潜[[Variable\|变量]]分析确立了抑制、转换、更新三成分结构，奠定了当代执行功能定量测量的经典[[Paradigm\|范式]]。
 > - **2010s — [[Educational Neuroscience\|教育神经科学]]应用与学业预测转向** 戴蒙德（Diamond, 2013）与博尔顿与[[John Hattie\|哈蒂]]（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017]]）系统梳理执行功能的发展时间表，证实其对[[Academic Achievement\|学业成就]]与社会适应的长期稳健预测效应。
 > - **2023 — 科学探究微观调控机制与[[Scaffolding\|教学支架]]代偿整合** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 将[[Cognitive Load Theory\|认知负荷理论]]与[[Inquiry-Based Learning\|探究式学习]]相融合，揭示[[Inhibitory Control\|抑制控制]]解释了近 30% 的探究技能与概念转变方差，确立了教学支架对学生执行功能负荷的代偿机制。
-> - **2026 — [[Higher-Order Thinking Skills\|高阶思维]]（[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]）共享神经认知基础确立** 朴等人（[[Argument_Park_2026_TSC\|Park et al., 2026]]）在[[Meta-analysis\|元分析]]中确立发散创造与收敛批判共享执行功能底座，为高阶思维融合教学提供理论依据。
+> - **2026 — [[Higher-Order Thinking Skills\|高阶思维]]（[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]）共享神经认知基础确立** 朴等人（[[Argument_Park_2026_TSC\|Park et al., 2026]]）在[[Meta-analysis\|元分析]]中确立发散创造与汇合批判共享执行功能基础，为高阶思维融合教学提供理论依据。
 
 ---
 
@@ -203,7 +203,7 @@ updated: 2026-11-02
 > |---|---|---|---|---|---|---|
 > | **Kwon and Lawson (2000)** | 韩国中学生科学探究追踪样本 | 追踪实验与[[Multiple Regression\|多元回归]]路径分析 | [[Inhibitory Control\|抑制控制]]能力（斯特鲁普测验/镶嵌图形测验）与探究产出 | • 独立解释 **29%** 科学推理技能方差<br>• 独立解释 **28%** 科学概念转变方差 | $p < .01$ | 证实抑制控制对微观探究认知构建具有强力解释力，但未测试教学支架介入后的补偿消除效应。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]] |
 > | **[[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与[[Document\|文献]]计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
-> | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（收敛）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
+> | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（汇合）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
 > | **Homer and Plass (2014)** | 科学虚拟仿真[[Inquiry-Based Learning\|探究学习]]实验 | [[Factorial Design\|析因实验]]设计（符号表征 vs 具象图标） | 视觉表征设计对不同执行功能负荷学生的干扰率 | 具象图标显著分散低抑制控制学生的注意力并增加外生负荷 | 组间差异显著 ($p < .05$) | 揭示知觉诱惑对认知控制的消耗，证实科学探究界面需要微观脚手架约束。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]] |
 
 ---
@@ -218,7 +218,7 @@ updated: 2026-11-02
 > | [[Inquiry-Based Learning\|探究式学习]] | 概念/教学法 | 探究学习对抑制控制与假设切换提出高需求，缺乏支架会导致低 EF 学生认知超载。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]] |
 > | [[Scaffolding\|支架]] | 概念 | 教学支架在微观机制上代偿学生的执行功能负荷，引导注意聚焦于核心因果推理。 |
 > | [[Creativity\|创造力]] | 概念 | 创造力发散生成依赖抑制控制压制常规陈腐联想并借认知灵活性换轨。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 2)]] |
-> | [[Critical Thinking\|批判性思维]] | 概念 | 批判性思维收敛评估依赖抑制控制抵御直觉偏见并依循逻辑更新信念。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 3)]] |
+> | [[Critical Thinking\|批判性思维]] | 概念 | 批判性思维汇合评估依赖抑制控制抵御直觉偏见并依循逻辑更新信念。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 3)]] |
 > | [[Academic Achievement\|学业成就]] | 概念 | 执行功能是学业成就的关键纵向预测因素，其预测力超越传统 IQ。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 4)]] |
 
 ---

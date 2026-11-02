@@ -65,12 +65,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Embedded Autonomy
-> **嵌入式自主性（Embedded Autonomy）** 是由社会学家彼得·埃文斯（Peter Evans, 1995）提出的发展型国家能力与政治经济学核心概念；它指一种高度有效的国家治理结构形态：一方面，国家科层体系依托严格的功绩制招募、专业技术专长与崇高公共使命感，具备超脱于狭隘特殊利益集团寻租与政治俘获的**科层自主性（Bureaucratic Autonomy）**；另一方面，国家并非孤立于社会之外闭门造车，而是通过制度化的正式与非正式渠道，与产业界领袖、科学家团队及社会行动者保持密集、畅通且高度互信的信息沟通与网络联结（即**社会嵌入性 / Embeddedness**）。在[[Evolutionary Economics|演化经济学]]与现代产业战略中，嵌入式自主性被公认为解释政府如何精准掌握产业前沿痛点、同跨国巨头展开专业化谈判并坚决捍卫[[Public Value|公共价值]]与护栏约束的核心制度支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793, 796–797)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
+> **嵌入式自主性（Embedded Autonomy）** 是由社会学家彼得·埃文斯（Peter Evans, 1995）提出的发展型国家能力与政治经济学核心概念；它指一种高度有效的国家治理结构形态：一方面，国家科层体系依托严格的功绩制招募、专业技术专长与崇高公共使命感，具备超脱于狭隘特殊利益集团寻租与政治俘获的**科层自主性（Bureaucratic Autonomy）**；另一方面，国家是通过制度化的正式与非正式渠道，与产业界领袖、科学家团队及社会行动者保持密集、畅通且高度互信的信息沟通与网络联结（即**社会嵌入性 / Embeddedness**），有别于孤立于社会之外闭门造车。在[[Evolutionary Economics|演化经济学]]与现代产业战略中，嵌入式自主性被公认为解释政府如何精准掌握产业前沿痛点、同跨国巨头展开专业化谈判并坚决捍卫[[Public Value|公共价值]]与护栏约束的核心制度支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793, 796–797)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 破解了传统政治学将“国家自主性”与“国家–社会互动”对立的二元论，揭示了两者辩证统一的制度化形态。
 > - **用途** 用于解释为什么部分后发经济体能够成功实现高风险产业追赶与现代大国产业转型，而单纯掠夺型体制或闭门造车式官僚机构往往遭遇产业规划溃败与利益集团俘获。
-> - **边界** 必须同时具备内部精英科层凝聚力与外部制度化联系网络；缺乏自主性的嵌入会蜕变为寡头俘获，缺乏嵌入性的自主会导致官僚空想与资源错配。
+> - **边界** 必须同时具备内部精英科层凝聚力与外部制度化联系网络；缺乏自主性的嵌入会转变为寡头俘获，缺乏嵌入性的自主会导致官僚空想与资源错配。
 
 > [!citation-card] 嵌入式自主性与使命政策国家能力
 > 彼得·埃文斯（Peter Evans, 1995）将[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）界定为践行嵌入式自主性的典型机构。东亚发展型国家学者将这一嵌入式自主性转化为解释后发经济体强大增长绩效的关键[[Variable|变量]]。在使命导向政策中，国家必须在具备自主战略判断的同时，深深嵌入产业与社会网络之中，才能在不确定的技术演进中动态调整政策组合。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
@@ -144,7 +144,7 @@ updated: 2026-11-02
 > **探讨维度　[[New Public Management|NPM]] 行政改革反思维度** 审视[[Externalization|外部化]]外包对国家–社会健康互动的破坏。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **行政空心化诱发新型利益依附** [[New Public Management|新公共管理]]改革削减了公共部门内部的研发与技术专才，将核心职能外包给私营咨询公司；这不仅掏空了韦伯式精英官僚的自主分析底座，更使得国家与社会的健康嵌入退化为对少数商业咨询寡头的单向依赖（[[Consultocracy|顾问统治]]），彻底打破了嵌入式自主性赖以维系的制度平衡。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
+> **行政空心化诱发新型利益依附** [[New Public Management|新公共管理]]改革削减了公共部门内部的研发与技术专才，将核心职能外包给私营咨询公司；这不仅掏空了韦伯式精英官僚的自主分析基础，更使得国家与社会的健康嵌入退化为对少数商业咨询寡头的单向依赖（[[Consultocracy|顾问统治]]），彻底打破了嵌入式自主性赖以维系的制度平衡。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 ---
 
@@ -209,7 +209,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
-> | [[Public Dynamic Capabilities]] | 概念 | 嵌入式自主性构成了公共部门动态能力在国家与政策层级的组织底座。 |
+> | [[Public Dynamic Capabilities]] | 概念 | 嵌入式自主性构成了公共部门动态能力在国家与政策层级的组织基础。 |
 > | [[Modern Industrial Policy]] | 概念 | 嵌入式自主性是保障 21 世纪现代产业政策有效执行、防范资本俘获的核心治理准则。 |
 > | [[Public Value]] | 概念 | 嵌入式自主性中的自主性维度致力于确保公共资助实现兼顾经济效率与社会包容的公共价值。 |
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 第一代追赶使命（如日本 [[Ministry of International Trade and Industry\|MITI]]）与第三代共创使命均高度依赖嵌入式自主性。 |

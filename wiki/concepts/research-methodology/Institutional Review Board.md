@@ -141,7 +141,7 @@ updated: 2026-11-02
 > **探讨维度　科学治理与组织病理学维度** 剖析伦理委员会如何因规避自身风险演化为官僚化设卡，抑制颠覆性社会科学探索并拖延临床试验周期。
 
 > [!claim] Hammersley, M.; [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **审查官僚化与科学探索抑制断言** 马丁·哈默斯利（Martyn Hammersley）尖锐指出，伦理委员会缺少天然的道德决策优势，其前瞻性行政审查往往演化为繁琐的规章合规与责任推卸，不仅大幅增加研究的时间精力成本，更迫使学者主动回避敏感、复杂或有争议的重要问题。亚历山大·卡普与尼古拉斯·扎米斯卡进一步结合战后社会心理学史指出，阿施与[[Stanley Milgram|米尔格拉姆]]等先驱正是在尚未建立现代 IRB 繁琐审批的学术自治环境中，才得以通过高强度的[[Experimental Research|实验设计]]揭示出人类从众与盲从权威的深刻心理机制；而当代 IRB 极度保守的避险倾向（仅容许最温和形式的介入），客观上将激进探索复杂人性的实验设计拒之门外，形成了阻碍科学突破的合规体制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 126–127)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132, 147)]]
+> **审查官僚化与科学探索抑制断言** 马丁·哈默斯利（Martyn Hammersley）尖锐指出，伦理委员会有别于天然具有优越的道德决策能力，其前瞻性行政审查往往演化为繁琐的规章合规与责任推卸，不仅大幅增加研究的时间精力成本，更迫使学者主动回避敏感、复杂或有争议的重要问题。亚历山大·卡普与尼古拉斯·扎米斯卡进一步结合战后社会心理学史指出，阿施与[[Stanley Milgram|米尔格拉姆]]等先驱正是在尚未建立现代 IRB 繁琐审批的学术自治环境中，才得以通过高强度的[[Experimental Research|实验设计]]揭示出人类从众与盲从权威的深刻心理机制；而当代 IRB 极度保守的避险倾向（仅容许最温和形式的介入），客观上将激进探索复杂人性的实验设计拒之门外，形成了阻碍科学突破的合规体制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 126–127)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132, 147)]]
 
 ---
 

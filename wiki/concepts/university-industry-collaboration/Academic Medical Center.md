@@ -53,7 +53,7 @@ updated: 2026-11-02
 > - **双重属性** 在专业学术能力上具有高度不可替代性（前沿学者专长与复杂疾病诊疗）；在商业运营维度上存在启动周期长、间接成本高的效率劣势。
 
 > [!citation-card] 学术-临床二元结构与产学临床纽带
-> 学术医学中心传统上定义为大学医学院及其合作教学医院。其核心在于将医学教育、基础探索与临床医疗熔铸为一体……在[[University-Industry Collaboration|产学合作]]语境中，生物制药产业高度依赖 AMC 的学术合作者来规划、设计、评估和执行临床研究；在许多顶尖[[Research Universities|研究型大学]]中，由产业方资助的临床试验已成为临床研究最大的单一资金来源。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, p. 179)]]; [[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, p. 201)]]
+> 学术医学中心传统上定义为大学医学院及其合作教学医院。其核心在于将医学教育、基础探索与临床医疗熔铸为一体……在[[University-Industry Collaboration|产学合作]]语境中，生物制药产业高度依赖 AMC 的学术共事者来规划、设计、评估和执行临床研究；在许多顶尖[[Research Universities|研究型大学]]中，由产业方资助的临床试验已成为临床研究最大的单一资金来源。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, p. 179)]]; [[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, p. 201)]]
 >
 > *An academic medical center (AMC) is traditionally defined as a university or medical school and its partner teaching hospital... The biopharmaceutical industry relies on academic partners at AMCs to design, assess, and execute complex trials.*
 

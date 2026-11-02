@@ -75,7 +75,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向对比较教育学学科史编纂本身的方法论与历史诠释学审视。
 > - **用途** 帮助研究者摆脱将早期学科史单纯视为职业合法性工具的局限，打破英美中心叙事，照见边缘学者与未被开掘的档案。
-> - **边界** 它不等于国别教育史或一般教育思想史的简单罗列，而是以比较教育学自身的理论、人物、制度与传统为对象的元研究（Meta-Study）。
+> - **边界** 它不等于国别教育史或一般教育思想史的简单罗列，是以比较教育学自身的理论、人物、制度与传统为对象的元研究（Meta-Study）。
 
 > [!citation-card] 关键表述
 > 比较教育学的历史迟早应当演变为比较教育学的比较史。我们现在距离这一目标仍有距离……阅读全书提醒我们在潜在的比较教育学比较史中存在着丰富的可能性与主题。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 8)]]
@@ -153,7 +153,7 @@ updated: 2026-11-02
 > **探讨维度　现代主义发端与母题解构** 探讨如何通过细读 19 世纪原始文本，解构将比较教育学发端单向度归结为实证[[Empiricism\|经验主义]]的辉格史叙事。
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism\|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，其二是[[Victor Cousin\|维克多·库森]]（Victor Cousin）与[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism\|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的[[Perpetual Peace\|世界主义和平]]工程，而非 20 世纪[[Value Neutrality\|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
+> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，其二是[[Victor Cousin\|维克多·库森]]（Victor Cousin）与[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism\|改良主义]]母题，有别于单一[[Positivism\|实证主义]]科学的线性演进。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的[[Perpetual Peace\|世界主义和平]]工程，而非 20 世纪[[Value Neutrality\|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
 
 ---
 

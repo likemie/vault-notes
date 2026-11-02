@@ -104,7 +104,7 @@ updated: 2026-11-02
 > **探讨维度　生物[[Complexity Theory|复杂适应系统]]与自然计算维度** 探讨去中心化生物群体如何凭借简单个体间的局部交互协议，在没有中央指挥官的情形下完成跨越数万个体的复杂决策与全局协调。
 
 > [!claim] Frisch, K. v., & Lindauer, M.
-> **生物[[Dance Language of Bees|舞蹈语言]]与去中心选巢共识推导** 卡尔·冯·弗里希与[[Martin Lindauer|马丁·林道尔]]通过对蜜蜂舞蹈语言及[[Eck Swarm Experiment|埃克蜂群]]选巢过程的野外观测证明，蜜蜂通过摇摆舞将潜在巢穴的距离（摆动时长）与方位（相对太阳角度）编码为公共信息，多只侦察蜂针对不同候选地点进行公开竞争与交叉评估；群体无需中央蜂后发号施令，仅凭侦察蜂基于环境优劣动态调整跳舞频次，便能自发形成支持度向最优地点收敛的群体共识，最终驱动数万只蜜蜂精准迁入新居。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
+> **生物[[Dance Language of Bees|舞蹈语言]]与去中心选巢共识推导** 卡尔·冯·弗里希与[[Martin Lindauer|马丁·林道尔]]通过对蜜蜂舞蹈语言及[[Eck Swarm Experiment|埃克蜂群]]选巢过程的野外观测证明，蜜蜂通过摇摆舞将潜在巢穴的距离（摆动时长）与方位（相对太阳角度）编码为公共信息，多只侦察蜂针对不同候选地点进行公开竞争与交叉评估；群体无需中央蜂后发号施令，仅凭侦察蜂基于环境优劣动态调整跳舞频次，便能自发形成支持度向最优地点汇合的群体共识，最终驱动数万只蜜蜂精准迁入新居。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
 
 > [!claim] Parisi, G.
 > **三维拓扑交互与亚秒级近邻传导断言** [[Giorgio Parisi|乔治·帕里西]]通过对罗马椋鸟群的高速摄影与三维立体空间重构研究指出，鸟群在宏观上呈现为盘状结构，其协同转弯与规避天敌的行为完全由处于群体边缘的个体自发发起；信息沿着近邻拓扑网络以极高速度由外向内无损传播，使数百只鸟在几分之一秒内完成整体步调一致的复杂机动，展现了基于局域物理规则的强[[Emergence|涌现]]自组织特性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
@@ -125,13 +125,13 @@ updated: 2026-11-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **生物自组织涌现命题** | 无中心控制下局部通信与拓扑交互自发收敛为全局精准决策 | 自然界生物群体（蜂群选巢、鸟群避险协同） | [[Karl von Frisch\|Frisch, K. v.]]; [[Martin Lindauer\|Lindauer, M.]]; [[Giorgio Parisi\|Parisi, G.]] |
+> | **生物自组织涌现命题** | 无中心控制下局部通信与拓扑交互自发汇合为全局精准决策 | 自然界生物群体（蜂群选巢、鸟群避险协同） | [[Karl von Frisch\|Frisch, K. v.]]; [[Martin Lindauer\|Lindauer, M.]]; [[Giorgio Parisi\|Parisi, G.]] |
 > | **工程组织同构命题** | 消除科层中介与形式主义，以群体智能和[[Edge Autonomy\|边缘自治]]重构团队治理 | 高危应急团队、顶尖初创企业、战区前线工程组织 | Cristancho, S. & Thompson, G.; [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1950s — 生物学奠基阶段** 弗里希与[[Martin Lindauer|林道尔]]破译[[Dance Language of Bees|蜜蜂舞蹈语言]]，并通过 1951 年慕尼黑[[Eck Swarm Experiment|埃克蜂群实验]]首次系统记录了去中心化群体通过投票收敛达成筑巢共识的完整过程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–119)]]
+> - **1950s — 生物学奠基阶段** 弗里希与[[Martin Lindauer|林道尔]]破译[[Dance Language of Bees|蜜蜂舞蹈语言]]，并通过 1951 年慕尼黑[[Eck Swarm Experiment|埃克蜂群实验]]首次系统记录了去中心化群体通过投票汇合达成筑巢共识的完整过程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–119)]]
 > - **2000s — 统计物理学拓扑突破** [[Giorgio Parisi|帕里西]]团队利用三维高速立体摄影破译罗马[[Flocking Behavior|椋鸟群飞]]的无标度拓扑相互作用机制，证明边缘个体驱动与亚秒级邻近传导是复杂自组织系统保持整体一致性的物理根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2020s — 跨学科组织与工程治理[[Paradigm|范式]]** 群体智能被系统引入医疗急救韧性建设与科技初创企业治理，卡普与扎米斯卡将其确立为打破科层官僚僵化、重建[[Technological Republic|技术共和国]]工程文化的核心理论原型。
 
@@ -139,8 +139,8 @@ updated: 2026-11-02
 
 > [!debates] 学术争议
 >
-> > [!axis] 决策收敛速度与搜寻充分性的权衡
-> > 探讨群体智能在快速达成共识与避免过早收敛至局部最优之间的张力。
+> > [!axis] 决策汇合速度与搜寻充分性的权衡
+> > 探讨群体智能在快速达成共识与避免过早汇合至局部最优之间的张力。
 > >
 > > - **[[Martin Lindauer|马丁·林道尔]]（1955）** 蜂群通过多轮长时间舞蹈辩论与对环境变动的即时反馈（如雨后降温放弃不良巢穴），有效防止了草率决策。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 118–119)]]
 > > - **传统科层管理学派** 质疑完全去中心化的群体协商在突发危机时可能因意见分歧产生决策时滞，不如中心发令迅速。
@@ -148,7 +148,7 @@ updated: 2026-11-02
 > > [!axis] [[Edge Autonomy|边缘自治]]与全局战略对齐的张力
 > > 探讨一线自主探索是否会带来组织资源的碎片化消耗。
 > >
-> > - **卡普与扎米斯卡（2025）** 强调只要建立透明的信息公开网络与清晰的共同实战目标，群智能的动态收敛能够自动消除偏离，远胜于官僚中介的事前审批。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> > - **卡普与扎米斯卡（2025）** 强调只要建立透明的信息公开网络与清晰的共同实战目标，群智能的动态汇合能够自动消除偏离，远胜于官僚中介的事前审批。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 
 > [!warning] 适用局限
 > 群体智能的高效运转高度依赖底层通信协议的保真度与信息透明度；若群体中存在严重的信息不对称、恶意欺骗信号或局部拓扑网络割裂，群体容易陷入从众级联失误或决策瘫痪。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]
@@ -162,7 +162,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|Lindauer (1955; 见 Karp & Zamiska, 2025)]] | 1951 年 6 月 26–28 日慕尼黑植物园[[Eck Swarm Experiment\|埃克蜂群]]（数万只蜜蜂） | 野外自然观察与蜂群舞蹈测绘 | 候选巢穴数量与共识收敛过程 | 首日下午侦察蜂带回 8 处候选地点，其中 2 处受青睐；次日北侧地点因降雨降温被弃，最终 300 米外地点获全体一致舞蹈支持并全群起飞迁移 | 定性与时空图表精确复现，无推断统计量 | 证实去中心化蜂群通过动态舞蹈投票在缺乏中央指令下实现最优选址收敛 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|Lindauer (1955; 见 Karp & Zamiska, 2025)]] | 1951 年 6 月 26–28 日慕尼黑植物园[[Eck Swarm Experiment\|埃克蜂群]]（数万只蜜蜂） | 野外自然观察与蜂群舞蹈测绘 | 候选巢穴数量与共识汇合过程 | 首日下午侦察蜂带回 8 处候选地点，其中 2 处受青睐；次日北侧地点因降雨降温被弃，最终 300 米外地点获全体一致舞蹈支持并全群起飞迁移 | 定性与时空图表精确复现，无推断统计量 | 证实去中心化蜂群通过动态舞蹈投票在缺乏中央指令下实现最优选址汇合 |
 
 ---
 

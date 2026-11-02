@@ -49,7 +49,7 @@ updated: 2026-11-02
 > **教育研发与创新（Educational Research, Development and Innovation, RDI）** 指新加坡教育体系在国家层面建构的、以“研究者、政策制定者与实践者三方枢纽”（Nexus of Researchers, Policy Makers and Practitioners）为核心动力的一体化[[Knowledge Mobilisation\|知识动员]]与系统革新模式（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, p. 134]]）。在该[[Paradigm\|范式]]下，新加坡教育部（Ministry of Education, MOE）主导设立国家教育研究资助计划（Education Research Funding Programme, ERFP）；南洋理工大学国立教育学院（National Institute of Education, NIE）及其教育研究办公室（Office of Education Research, OER）与教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）承担高水平实证探究与教学原型开发；新加坡教师学院（Academy of Singapore Teachers, AST）与中小学校群则依托[[Professional Learning Community\|专业学习共同体]]，将经过检验的教学成果转化为课堂教学法与教师专业发展方案，从而实现实证知识在系统各层级的流动与转化。
 
 > [!concept-lens] 概念透镜
-> - **核心内涵** 强调教育[[Knowledge Production\|知识生产]]与教育改革实践不是单向线性的自上而下行政分发，而是依托高统合性体制形成的政-学-校协同网络。
+> - **核心内涵** 强调教育[[Knowledge Production\|知识生产]]与教育改革实践是依托高整合性体制形成的政-学-校协同网络，有别于单向线性的自上而下行政分发。
 > - **理论用途** 解释高绩效集权型教育系统如何克服基础研究与课堂现场的“双重脱节”（相关性鸿沟与应用鸿沟），实现系统层面的实证转化。
 > - **实践边界** 根植于新加坡高度紧凑的单一体制与[[Normal School\|师范教育]]统筹结构，在分权化或联邦制分散教育治理体制下难以进行简单机械复制。
 
@@ -60,7 +60,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于企业工业研发（Industrial R&D） — 教育研发的核心关切是复杂的价值塑造、认知发展与情境化教学实践，不能还原为流水线式的标准化产品试制或单向技术输出。
-> - 不等于孤立的学术课题研究 — 单纯以在国际权威期刊发表论文为终极导向的高校理论探究，若脱离国家教育战略诉求与中小学实践转化路径，不属于 RDI 的[[Central Phenomenon\|核心范畴]]。
+> - 不等于孤立的学术课题研究 — 单纯以在国际权威期刊发表文章为终极导向的高校理论探究，若脱离国家教育战略诉求与中小学实践转化路径，不属于 RDI 的[[Central Phenomenon\|核心范畴]]。
 > - 不等于自上而下的单纯行政推行 — RDI 强调研究设计之初便吸纳一线教师与政策官员共同审议，而非政策出台后的被动行政传达。
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-11-02
 > **探讨维度　国家协调与规模推广** 探讨紧凑型集权教育系统在推动循证教学实践扩散中的制度优势与潜在挑战。
 
 > [!claim] Hogan, D. & [[Mark Rickinson\|Rickinson, M.]]
-> **统一师资体系保障循证创新全域落地** 在高统合性教育体制中，统一的教师培养源头（NIE）与覆盖全员的教师进修体系（AST），为实证教学法的全系统普及提供了畅通的扩散渠道；经过实证检验的教学干预能够迅速转化为通行的教学常规，显著缩短了从前沿研究发现到规模化课堂应用的时间滞后周期。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, p. 134)]]
+> **统一师资体系保障循证创新全域落地** 在高整合性教育体制中，统一的教师培养源头（NIE）与覆盖全员的教师进修体系（AST），为实证教学法的全系统普及提供了畅通的扩散渠道；经过实证检验的教学干预能够迅速转化为通行的教学常规，显著缩短了从前沿研究发现到规模化课堂应用的时间滞后周期。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, p. 134)]]
 
 ---
 

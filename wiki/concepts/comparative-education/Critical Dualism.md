@@ -73,7 +73,7 @@ updated: 2026-11-02
 > - **边界** 批判二元论不适用于追求超越具体时空的绝对因果铁律，也不赞同将客观制度运行完全等同于主观观念投射的纯粹唯心主义主张。
 
 > [!citation-card] 关键表述：规范法则与权变社会学法则的本体论二元分立
-> 规范法则代表人类的信念，构成了学校运行所处的深层情境；社会学法则如同物理学定律一样是人为陈述，适用于学校系统内外的社会机构功能。社会学法则是假说性的，若要具备科学性便应当是可证伪的。社会学法则并非普遍有效，它们具有严格的权变性，取决于其所适用的具体情境条件。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981: 77–78; Mattheou, 2009, pp. 62–63)]]
+> 规范法则代表人类的信念，构成了学校运行所处的深层情境；社会学法则如同物理学定律一样是人为陈述，适用于学校系统内外的社会机构功能。社会学法则是假说性的，若要具备科学性便应当是可证伪的。社会学法则有别于普遍有效，它们具有严格的权变性，取决于其所适用的具体情境条件。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981: 77–78; Mattheou, 2009, pp. 62–63)]]
 >
 > *Normative laws are man-made and can be accepted, rejected or changed by man... Representing man's beliefs, [they] are part of the context in which schools are run... On the other hand, sociological laws, like the laws of physics, are man-made statements that apply to the functioning of societal institutions... They are hypothetical, and if they are to be scientific, should be refutable. Finally, sociological laws are not universally valid: they are contingent, in the sense that, although they constitute universal or general statements they are dependent on the conditions under which they are to be applied.*
 
@@ -89,7 +89,7 @@ updated: 2026-11-02
 > |---|---|---|
 > | **本体来源** | 人类意志、伦理信念、哲学传统与历史公约（p. 62） | 学校系统内外机构功能运行的客观常规性（p. 63） |
 > | **人类干预性** | **人造且可变**，可被人类自主接受、拒绝或彻底废除 | 超越个体主观控制，属于机构功能层面的客观约束 |
-> | **知识属性** | 规范性、价值负荷与文化沉淀 | 经验性、假说性且**必须是可经验[[Falsification\|证伪]]的** |
+> | **知识属性** | 规范性、价值负荷与文化积累 | 经验性、假说性且**必须是可经验[[Falsification\|证伪]]的** |
 > | **有效性范围** | 表现为跨国规范模式或特定民族文化形态 | **非普遍有效，具有严格的情境权变性（Contingency）** |
 > | **[[Epistemology\|认识论]]功能** | 构成学校运行的深层文化语境；解释制度正当性 | 指导政策假说的逻辑推演与后果概率性预测 |
 > | **典型代表** | [[Plato\|柏拉图]]式精英观、民主平等价值、民俗伦理（mores） | 教育扩张与职业分层机制、学制选拔对流动的影响 |
@@ -98,8 +98,8 @@ updated: 2026-11-02
 ---
 
 > [!feature] 批判二元论的四大分析构件（pp. 62–67）
-> - **规范模式的跨国[[Typification\|理想类型化]]（Normative Patterns）** 霍姆斯主张将人类历史上沉淀的深层哲学传统提炼为跨国理想类型（如[[Plato\|柏拉图]]主义精英教化、马克思主义全面发展、[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]][[Democratic Education\|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test\|标准参照]]系。
-> - **心理状态模式与民族文化精神（Pattern of Mental States & Mores）** 深入考察沉淀于制度深处的心理状态模式与民俗伦理，系统吸纳[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）所指的活的精神与[[Vernon Mallinson\|弗农·马林森]]（Vernon Mallinson）的[[National Character\|国民性格]]，为实证研究注入历史人文厚度。
+> - **规范模式的跨国[[Typification\|理想类型化]]（Normative Patterns）** 霍姆斯主张将人类历史上积累的深层哲学传统提炼为跨国理想类型（如[[Plato\|柏拉图]]主义精英教化、马克思主义全面发展、[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]][[Democratic Education\|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test\|标准参照]]系。
+> - **心理状态模式与民族文化精神（Pattern of Mental States & Mores）** 深入考察积累于制度深处的心理状态模式与民俗伦理，系统吸纳[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）所指的活的精神与[[Vernon Mallinson\|弗农·马林森]]（Vernon Mallinson）的[[National Character\|国民性格]]，为实证研究注入历史人文厚度。
 > - **社会学法则的情境权变性（Contingency of Sociological Laws）** 汲取爱因斯坦相对论物理学启示，断言社会学法则虽然以全称命题形式陈述，但其有效性严格依赖于适用的初始情境条件；由于社会语境的[[Heterogeneity\|异质性]]，彻底击碎了超越时空的普适定律神话。
 > - **时代不同步与文化滞后诊断（Asynchrony / Cultural Lag）** 批判二元论提供了强大的教育危机病理诊断工具：规范法则的变迁往往滞后于社会经济结构的突变，或者激进的学制变革脱离了深层民族规范传统，造成制度运行与价值信仰脱节的时代不同步。
 
@@ -132,7 +132,7 @@ updated: 2026-11-02
 > **探讨维度　政策假说化与情境逻辑演绎** 批判二元论的核心方法论价值，在于将传统的政策思辨转化为现代科学哲学中的假说-演绎检验程序。
 
 > [!claim] [[Brian Holmes\|Holmes, B.]]
-> **政策作为[[Problem Solving\|问题解决]]的待检验假说** 官方颁布的教育改革方案在[[Epistemology\|认识论]]上绝非毋庸置疑的客观真理，而是行动者旨在化解特定技术性或制度性矛盾的政策假说；在批判二元论视阈下，研究者必须全面调查特定国家的规范模式与制度初始条件，并在已知约束下严密演绎推导采纳该政策假说后必然伴随的一切逻辑后果（涵盖意图目标与非意图后果）；若经验对照推翻了预期预测，则该假说被[[Falsification\|证伪]]并需修正，由此使政策分析获得了严密的科学检验品质。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1965, 1981; Mattheou, 2009, pp. 63, 67)]]
+> **政策作为[[Problem Solving\|问题解决]]的待检验假说** 官方颁布的教育改革方案在[[Epistemology\|认识论]]上是行动者旨在化解特定技术性或制度性矛盾的政策假说，有别于毋庸置疑的客观真理；在批判二元论视阈下，研究者必须全面调查特定国家的规范模式与制度初始条件，并在已知约束下严密演绎推导采纳该政策假说后必然伴随的一切逻辑后果（涵盖意图目标与非意图后果）；若经验对照推翻了预期预测，则该假说被[[Falsification\|证伪]]并需修正，由此使政策分析获得了严密的科学检验品质。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1965, 1981; Mattheou, 2009, pp. 63, 67)]]
 
 ---
 
@@ -181,11 +181,11 @@ updated: 2026-11-02
 > > 争论焦点在于预测能否作为比较教育学科合法性的根本试金石。
 > >
 > > - **Edmund King（1967）** 强调人类社会充满了不可预测的复杂性、历史偶然性与行动者自由意志，断言将物理学式的预测作为比较教育学的划界标准极度荒谬。[[Argument_Mattheou_2009_ScientificParadigm\|(King, 1967; Mattheou, 2009, pp. 63–64)]]
-> > - **Brian Holmes（1981）** 反驳指出科学预测并非预言家的宿命通灵，而是特定情境后果的理性概率推演；唯有具备预测力，比较教育学才能真正走出书斋、指导政策实践。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981: 79; Mattheou, 2009, p. 67)]]
+> > - **Brian Holmes（1981）** 反驳指出科学预测是特定情境后果的理性概率推演，有别于预言家的宿命通灵；唯有具备预测力，比较教育学才能真正走出书斋、指导政策实践。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981: 79; Mattheou, 2009, p. 67)]]
 
 > [!critique] 外部学术批评
 > - **二元割裂的二分法嫌疑** 批判社会学家指出，现实中的社会机构本身就内生凝结着规范价值，将规范法则与社会机构法则绝对二分，极易割裂制度架构与意识形态之间深层的共谋与互构机制。
-> - **规范模式的本质主义风险** 霍姆斯倾向于将复杂的民族文化归约为[[Plato\|柏拉图]]、马克思或[[John Dewey\|杜威]]等少数思想巨擘的规范理想类型，被批评为具有精英主义与本质主义倾向，忽视了本土文化内部的多元[[Heterogeneity\|异质性]]与动态流变。（[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 67]]）
+> - **规范模式的本质主义风险** 霍姆斯倾向于将复杂的民族文化化简为[[Plato\|柏拉图]]、马克思或[[John Dewey\|杜威]]等少数思想巨擘的规范理想类型，被批评为具有精英主义与本质主义倾向，忽视了本土文化内部的多元[[Heterogeneity\|异质性]]与动态流变。（[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 67]]）
 > - **官方资助市场的边缘化遭遇** 霍姆斯的[[Problem Approach\|问题法]]因坚持批判二元论与权变思维，倾向于揭示政策实施中规范与制度不同步带来的尖锐矛盾与非意图后果，无法像经验量化学派那样提供符合执政任期的简化、确定性数据背书，从而在战后官方政策咨询市场屡遭冷遇。（pp. 67–68）
 
 > [!warning] 适用局限

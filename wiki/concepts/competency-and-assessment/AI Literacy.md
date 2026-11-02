@@ -84,9 +84,9 @@ updated: 2026-11-02
 > 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity\|创造力]]** 的协同[[Scaffolding\|脚手架]]，并在算法生成的表面语义流畅性面前维持 **[[Epistemological Vigilance\|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking\|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–13)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 从初级的“工具操作技巧（如单纯输入提示词）”跃升为涵盖算法机制理解、[[Metacognition\|元认知监控]]、证据核查与伦理反思的高阶心智胜任力。
+> - **含义** 从初级的“工具操作技巧（如单纯输入提示词）”提升为涵盖算法机制理解、[[Metacognition\|元认知监控]]、证据核查与伦理反思的高阶心智胜任力。
 > - **用途** 在生成式[[Technology Infusion\|技术整合]]中作为关键的个体调节[[Variable\|变量]]，决定人机交互分化为“[[Higher-Order Thinking Skills\|高阶思维]]协同增益”还是“[[Cognitive Offloading\|认知卸载]]与心智侵蚀”。
-> - **边界** 不等于计算机底层算法开发或模型训练代码编写，而是面向所有数字公民的技术理解、伦理审思与批判性应用胜任力。
+> - **边界** 不等于计算机底层算法开发或模型训练代码编写，是面向所有数字公民的技术理解、伦理审思与批判性应用胜任力。
 
 > [!citation-card] 人工智能素养的认知底线：放大人类认知而非认知外包
 > 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32, 34)]]

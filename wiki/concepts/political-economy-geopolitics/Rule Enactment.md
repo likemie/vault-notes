@@ -48,7 +48,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Rule Enactment
-> **规则践行（Rule Enactment）** 指行动者在具体社会与经济情境中理解、解释、推行、抵制或变通制度规范的动态实践过程；[[Historical Institutionalism|历史制度主义]]强调，形式条文的**规则设计（Rule Design）** 与基层实际的**规则践行**之间始终存在不可消除的结构性脱节（Gap），这一脱节并非纯粹的技术执行失误，而是各方利益主体展开持续政治博弈与微观重塑的根本制度空间。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
+> **规则践行（Rule Enactment）** 指行动者在具体社会与经济情境中理解、解释、推行、抵制或变通制度规范的动态实践过程；[[Historical Institutionalism|历史制度主义]]强调，形式条文的**规则设计（Rule Design）** 与基层实际的**规则践行**之间始终存在不可消除的结构性脱节（Gap），这一脱节是各方利益主体展开持续政治博弈与微观重塑的根本制度空间，有别于纯粹的技术执行失误。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦制度生命周期中从“立法成文”走向“社会落实”的微观实践维度，破除将制度机械等同于静态法典文本的文本主义偏误。
@@ -56,7 +56,7 @@ updated: 2026-11-02
 > - **边界** 不等于基层执法者的任意腐败违纪或盲目犯罪（Lawbreaking）；不适用于规则极其严密且由自动化技术硬性锁定的物理防线。
 
 > [!citation-card] 规则设计与践行脱节作为变迁源泉
-> 现实中的制度规则永远不可能将未来的所有情境规定无遗。正因为设计与践行之间必然存在缺口，行动者对规则的遵循才绝非机械的执行，而是一场永不停歇的解释与博弈过程。行动者在规则边界处所做的微小调整、变通与回避，正是驱使制度在看似连续的外壳下发生渐进质变的内生引擎。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–16)]]
+> 现实中的制度规则永远不可能将未来的所有情境规定无遗。正因为设计与践行之间必然存在缺口，行动者对规则的遵循才是一场永不停歇的解释与博弈过程，有别于机械的执行。行动者在规则边界处所做的微小调整、变通与回避，正是驱使制度在看似连续的外壳下发生渐进质变的内生引擎。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–16)]]
 >
 > *Because rules are always incomplete and subject to political contestation, there is an unavoidable gap between the formal design of an institution and its actual social enactment. This gap provides the strategic space in which gradual, transformative institutional change is born.*
 
@@ -99,10 +99,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜任何成文制度在现实经验中的践行必然与其形式设计产生不可消除的结构性脱节
-> **探讨维度　规则不完备性与认知边界** 探讨为何制度无论设计得多么精密，在现实运作中都无法做到绝对闭合与完全自足。
+> **探讨维度　规则不完备性与认知边界** 探讨为何制度无论设计得多么精密，在现实运作中都无法做到绝对封闭与完全自足。
 
 > [!claim] [[Wolfgang Streeck|Streeck, W.]] & [[Kathleen Thelen|Thelen, K.]]
-> **形式设计与经验践行的必然脱节** 施特雷克与希伦指出，从理论上将[[Social Regime|社会规约]]还原为现实互动过程时，规则设计与规则践行之间的鸿沟是一项必然规律。社会现实的无限复杂性注定了形式条文永远处于“不完全界定”状态。甚至法官与执法者在探寻所谓的“立法者原意”时，本身就已经是在参与[[Creativity|创造性]]的规则重构。将制度视为静态不变的硬件，完全违背了社会规范必须在日常践行中不断再生产的动态本质。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–15)]]
+> **形式设计与经验践行的必然脱节** 施特雷克与希伦指出，从理论上将[[Social Regime|社会规范]]还原为现实互动过程时，规则设计与规则践行之间的鸿沟是一项必然规律。社会现实的无限复杂性注定了形式条文永远处于“不完全界定”状态。甚至法官与执法者在探寻所谓的“立法者原意”时，本身就已经是在参与[[Creativity|创造性]]的规则重构。将制度视为静态不变的硬件，完全违背了社会规范必须在日常践行中不断再生产的动态本质。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–15)]]
 
 ---
 

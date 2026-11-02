@@ -56,7 +56,7 @@ updated: 2026-11-02
 > - **边界** 区别于缺乏全局目标的无政府状态；边缘自治依托于全员共享的使命、透明信息互通与底线操作协议，确保分散决策在整体上协同一致。
 
 > [!citation-card] 卡普与扎米斯卡论边缘自治在生物群与工程文化中的关键作用
-> [[Martin Lindauer|林道尔]]及其后继者研究的蜜蜂并没有通过引入基于种姓的社会等级制来应对面临的巨大集体行动挑战，而是尽可能将自主权分配到组织的边缘——即侦察蜂手中。处于群体边缘的个体往往拥有关于潜在筑巢地点合适性的最新、最有价值的信息，并且能够兼顾不断变化的外部条件，正是它们通过为群体跳舞来投出选票。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
+> [[Martin Lindauer|林道尔]]及其后继者研究的蜜蜂并没有通过引入基于种姓的社会等级制来应对面临的巨大集体行动挑战，是尽可能将自主权分配到组织的边缘——即侦察蜂手中。处于群体边缘的个体往往拥有关于潜在筑巢地点合适性的最新、最有价值的信息，并且能够兼顾不断变化的外部条件，正是它们通过为群体跳舞来投出选票。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 >
 > *The bees that Lindauer and others since have studied do not incorporate caste-based social hierarchies in order to address the enormous collective action challenges that they face, but rather distribute autonomy to as great a degree as possible to the fringes—the scouts—of their organization. The individuals at the periphery of a group, who often have the latest and most valuable information regarding the suitability of potential nesting sites, and can take into [[Accounts|account]] shifting conditions, are the ones who cast their ballots by dancing for the group.*
 
@@ -78,7 +78,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **前沿感知优先权** 最先感知到外部危机、客户真实痛点或环境变化的边缘个体享有最高的提案权与事实发言权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
-> - **扁平无损传播链路** 侦察信息无需经过中间管理层的层层修饰、过滤或审查，直接在全组织范围内透明呈现并接受检验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> - **扁平无损传播环节** 侦察信息无需经过中间管理层的层层修饰、过滤或审查，直接在全组织范围内透明呈现并接受检验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **去中心化即兴响应** 允许一线实干人员根据突发状况即兴处置，无须事前获得上级行政指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 > - **权责对称约束** 一线个体在享有决策自由的同时，以客观实战结果（系统是否运行、能否解决现实危机）作为唯一的考核标尺。
 
@@ -100,10 +100,10 @@ updated: 2026-11-02
 > **探讨维度　前沿信息经济学与认知生物学维度** 探讨组织如何在动态不确定环境中依据信息的新鲜度与准确度重新分配决断权力。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **边缘信息最高价值与侦察者投票断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，正如蜜蜂蜂群不会为应对庞大的集体行动挑战而引入基于种姓的社会等级制，而是将最大程度的自主权分配到组织的边缘（侦察蜂）；处于外围前线的个体拥有关于外部环境最及时、最关键的信息，组织唯有赋予其通过公开“跳舞”进行提案与投票的自主决断权，才能在复杂环境中做出最精准的战略选择。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
+> **边缘信息最高价值与侦察者投票断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，正如蜜蜂蜂群不会为应对庞大的集体行动挑战而引入基于种姓的社会等级制，是将最大程度的自主权分配到组织的边缘（侦察蜂）；处于外围前线的个体拥有关于外部环境最及时、最关键的信息，组织唯有赋予其通过公开“跳舞”进行提案与投票的自主决断权，才能在复杂环境中做出最精准的战略选择。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 
 > [!claim] Parisi, G.
-> **外围鸟只天敌感知与群飞转向驱动推导** [[Giorgio Parisi|乔治·帕里西]]通过复杂系统物理学研究指出，掠食者威胁总是最先被处于椋鸟群外围边缘的鸟只察觉；鸟群的高速规避机动绝非由内部领队统一指挥，而是由边缘鸟只自发发起转向，并在亚秒级内无缝传递至群体核心，体现了边缘节点在维持系统整体生存中的主导作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> **外围鸟只天敌感知与群飞转向驱动推导** [[Giorgio Parisi|乔治·帕里西]]通过复杂系统物理学研究指出，掠食者威胁总是最先被处于椋鸟群外围边缘的鸟只察觉；鸟群的高速规避机动是由边缘鸟只自发发起转向，并在亚秒级内无缝传递至群体核心，体现了边缘节点在维持系统整体生存中的主导作用，有别于由内部领队统一指挥。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 
 ---
 

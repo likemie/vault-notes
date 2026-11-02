@@ -62,7 +62,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - **不等于 单向技术采纳（Technology Adoption）** 单向采纳强调用户被动接受现成技术；共同发明强调用户必须作为能动创造者对自身组织结构、业务模式与配套软件进行[[Creativity|创造性]]重构。
-> - **不等于 独立用户创新（User Innovation）** 埃里克·冯·希佩尔（[[Education Resources Information Center|ERIC]] von Hippel）提出的用户创新多指领先用户自主设计出全新产品原型；共同发明侧重于用户与上游技术供给方在通用技术底座上的互补性协同演进。
+> - **不等于 独立用户创新（User Innovation）** 埃里克·冯·希佩尔（[[Education Resources Information Center|ERIC]] von Hippel）提出的用户创新多指领先用户自主设计出全新产品原型；共同发明侧重于用户与上游技术供给方在通用技术基础上的互补性协同演进。
 
 ---
 
@@ -95,7 +95,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[General Purpose Technology|通用技术]]的生产力释放与扩散深度取决于下游用户互补性共同发明的投资规模
-> **探讨维度　互补性投资与时滞消除** 探讨[[General Purpose Technology|通用技术]]在宏观层面的生产率收益为何不能仅靠硬件采纳实现，而是取决于下游用户共同发明投资的深度与广度。
+> **探讨维度　互补性投资与时滞消除** 探讨[[General Purpose Technology|通用技术]]在宏观层面的生产率收益为何不能仅靠硬件采纳实现，是取决于下游用户共同发明投资的深度与广度。
 
 > [!claim] Bresnahan, T., & Greenstein, S.
 > **组织互补性是技术红利变现的前提** 蒂莫西·布雷斯纳汉（Timothy Bresnahan）与谢恩·格林斯坦（Shane Greenstein）指出，计算机技术从大型机向客户端-服务器架构的演进表明，下游企业在重构业务逻辑、培训员工和调整管理架构上的共同发明支出，往往数倍于纯硬件设备采购支出；若缺乏用户端的深度共同发明，技术投资将沦为无法产生经济回报的沉没成本。（Bresnahan & Greenstein, 1996）

@@ -105,13 +105,13 @@ updated: 2026-11-02
 > *Mathematical knowledge appeared to be certain, exact, and applicable to the real world; moreover, it was obtained by mere thinking, without the need for observation. Consequently, it was thought to supply an ideal, from which everyday empirical knowledge fell short. It was thought that thought is nobler than sense.*
 
 > [!citation-card] 科学知识作为探索的暂时性终产物
-> 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——绝非“确定无疑”的，而是科学话语体系中“暂时的终产物”，显得格外重要。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 362)]]
+> 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——是科学话语体系中“暂时的终产物”，显得格外重要，有别于“确定无疑”的。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 362)]]
 >
 > *In this context, it seems important for college and university teachers to make their students aware that knowledge—as a human construction—is never "certain," but rather the "temporary end-product" of scientific discourse.*
 
 > [!boundary]- 概念边界
 > - **不等于知识的简单性（Simplicity of Knowledge）** 简单性维度关注知识的组织结构（孤立事实 vs. 相互交织的复杂概念系统）；确定性维度则严格聚焦于知识随时间演进的稳定性与可修正性（绝对永恒 vs. 暂时演变）。
-> - **不等于不可知论（Agnosticism）或相对主义虚无** 认识论发展中的低确定性信念，并不意味着否定经验证据或科学探索的有效性，而是主张在[[Recognition Theory|承认理论]]具有语境依赖性和可证伪性的前提下，基于最佳证据做出概率性的[[Reflexivity\|反思性]]承诺。
+> - **不等于不可知论（Agnosticism）或相对主义虚无** 认识论发展中的低确定性信念，并不意味着否定经验证据或科学探索的有效性，是主张在[[Recognition Theory|承认理论]]具有语境依赖性和可证伪性的前提下，基于最佳证据做出概率性的[[Reflexivity\|反思性]]承诺。
 > - **不适用于纯道德[[Praxis|实践哲学]]** 儒家传统中的知识核心是人伦日用与修身成德，其正当性源于践履与工夫，而非形式逻辑公理对外部客观规律的确定性推演。
 
 ---
@@ -238,7 +238,7 @@ updated: 2026-11-02
 > > [!axis] 现代[[Epistemology\|认识论]]对绝对确定性的解构与科学实践的张力
 > > 现代科学哲学与[[Postmodernism\|后现代主义]]彻底瓦解了绝对真理的预设，但在日常科学教学与研究中，“认知有多确定”依然是判别可靠知识的核心标尺。
 > > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** 尽管绝对确定性已被概率性趋势替代，但在任何科学探究中，严密逻辑与经验辩护仍是不可替代的基石。
-> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 成熟认识论不是滑向虚无主义，而是在[[Recognition Theory|承认理论]]暂时性的同时，依据经验证据进行理性的[[Reflexivity\|反思性]]承诺。
+> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 成熟认识论是在[[Recognition Theory|承认理论]]暂时性的同时，依据经验证据进行理性的[[Reflexivity\|反思性]]承诺，有别于滑向虚无主义。
 >
 > > [!axis] 确定性信念对[[Academic Achievement\|学业成绩]]预测力的实证争议
 > > 早期研究对确定性维度能否独立预测学生成绩充满矛盾（如 Schommer 在控制言语智商 Verbal IQ 后效应消失）。
@@ -258,7 +258,7 @@ updated: 2026-11-02
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.334, 0.684] | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 干预靶向：包含解构知识确定性（由绝对固定到动态演进）的多维认知干预对[[Academic Achievement\|学业成就]]的因果效应 | $Q(58) = 459.739, p < .001$；延时组间 $Q_b = 16.737, p < .001$ | 证实解构知识绝对确定性信念并建立证据确证准则，能显著因果促进高阶论证与概念理解 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.334, 0.684] | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 干预针对：包含解构知识确定性（由绝对固定到动态演进）的多维认知干预对[[Academic Achievement\|学业成就]]的因果效应 | $Q(58) = 459.739, p < .001$；延时组间 $Q_b = 16.737, p < .001$ | 证实解构知识绝对确定性信念并建立证据确证准则，能显著因果促进高阶论证与概念理解 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

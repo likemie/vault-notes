@@ -2,7 +2,7 @@
 title: Economic Fundamentalism
 aliases:
   - 经济基要主义
-summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判内核。"
+summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判核心。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 24
@@ -55,7 +55,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Economic Fundamentalism
-> **经济基要主义（Economic Fundamentalism）** 由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思内核。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
+> **经济基要主义（Economic Fundamentalism）** 由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思核心。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将一切社会伦理与[[Public Value|公共价值]]强制折算为市场效率与[[Human Capital Theory|人力资本]][[Return on Investment|投资回报]]的教条化思维。
@@ -63,7 +63,7 @@ updated: 2026-11-02
 > - **边界** 不等于对经济规律的科学实证研究，亦不适用于解释旨在根本消除阶层与性别压迫的结构性正义方案。
 
 > [!citation-card] 经合组织教育政策中的经济基要主义重构
-> 经合组织的这种探索建立在乔治·索罗斯（Soros, 1998）所称的“经济基要主义”之上，这是一种概念棱镜，即便像平等这样的道德概念也要经由它来审视并被重构其含义。例如，平等不再被解释为一种内在的道德目的，而是与人力资本开发和经济利益最大化的工具性目的联系在一起。因此，尽管经合组织继续使用看似合乎伦理的概念，但这些工作越来越被表述为诸如准入、社会资本和社会凝聚力等概念，并以一种将它们视为参与知识经济所必需的语言重新表达出来。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 449)]]
+> 经合组织的这种探索建立在乔治·索罗斯（Soros, 1998）所称的“经济基要主义”之上，这是一种概念棱镜，即便像平等这样的道德概念也要经由它来审视并被重构其含义。例如，平等不再被解释为一种内在的道德目的，是与人力资本开发和经济利益最大化的工具性目的联系在一起。因此，尽管经合组织继续使用看似合乎伦理的概念，但这些工作越来越被表述为诸如准入、社会资本和社会凝聚力等概念，并以一种将它们视为参与知识经济所必需的语言重新表达出来。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 449)]]
 >
 > *In this way, its exploration of such issues rests on what George Soros (1998) has called “economic fundamentalism,” a kind of conceptual prism through which even such moral notions as equality are considered, with their meaning rearticulated. Equality, for example, is no longer interpreted as an intrinsic moral end as such, but is linked to the instrumental purposes of human capital development and economic self-maximization. So while the OECD continues to utilize seemingly ethical concepts, this work is increasingly couched in terms of such notions as access, [[Social Capital Theory|social capital]], and social cohesion, rearticulated in a language that views them as necessary for participation in the knowledge economy.*
 
@@ -101,19 +101,19 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜经济基要主义通过技术化词汇重构并掏空传统社会民主主义伦理价值的批判性内核
-> **探讨维度　价值重构维度** 本类命题揭示经济基要主义如何通过对传统伦理术语进行语义置换，使原本旨在限制市场侵蚀的道德概念蜕变为服务于资本增殖的技术工具。
+> [!concept-proposition] 命题一｜经济基要主义通过技术化词汇重构并掏空传统社会民主主义伦理价值的批判性核心
+> **探讨维度　价值重构维度** 本类命题揭示经济基要主义如何通过对传统伦理术语进行语义置换，使原本旨在限制市场侵蚀的道德概念转变为服务于资本增殖的技术工具。
 
 > [!claim] Soros, G.
 > **市场教条对道德规范的侵蚀** 乔治·索罗斯（George Soros, 1998）深刻批判全球资本主义体系中的市场基要主义倾向，指出其将价格机制与竞争效率扩展为裁决全部社会生活的主导准则，误以为不受约束的市场能够自发实现社会最优，从而在系统层面侵蚀了民主社会的公共道德根基。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
-> **伦理词汇的功利化[[Recontextualization|再脉络化]]** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard, 2009）指出，以[[OECD|经合组织]]为代表的国际组织并未公然抛弃平等、融合等社会理念，而是通过精巧的语义重构，将这些概念纳入[[Knowledge-Based Economy|知识经济]]的自洽逻辑中；平等被改写为“最大化挖掘潜在[[Human Capital Theory|人力资本]]”，社会包容被重新定义为“确保每个人都具备适应市场的弹性技能”，这种技术化包装使激进的社会抗争[[Discourse|话语]]彻底失去了对经济制度本身的批判锋芒。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
+> **伦理词汇的功利化[[Recontextualization|再脉络化]]** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard, 2009）指出，以[[OECD|经合组织]]为代表的国际组织并未公然抛弃平等、融合等社会理念，是通过精巧的语义重构，将这些概念纳入[[Knowledge-Based Economy|知识经济]]的自洽逻辑中；平等被改写为“最大化挖掘潜在[[Human Capital Theory|人力资本]]”，社会包容被重新定义为“确保每个人都具备适应市场的弹性技能”，这种技术化包装使激进的社会抗争[[Discourse|话语]]彻底失去了对经济制度本身的批判锋芒。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
 
 ---
 
 > [!concept-proposition] 命题二｜在经济基要主义主导下教育公平被窄化为形式上的学校准入门槛并回避结构性正义
-> **探讨维度　公平概念窄化维度** 本类命题探讨教育公平在跨国政策中如何经历从追求社会实质平等向满足劳动力准入形式平等的蜕变。
+> **探讨维度　公平概念窄化维度** 本类命题探讨教育公平在跨国政策中如何经历从追求社会实质平等向满足劳动力准入形式平等的转变。
 
 > [!claim] Berliner, D. C.
 > **量化技术对政治正义的遮蔽** 戴维·伯利纳（David C. Berliner, 2007）指出，在大规模跨国测评的技术框架下，关于公平的考察被严重简化为统计[[Variable|变量]]层面的形式入学机会与背景变量关联度分析，这种技术聚焦掩盖了国家内部及国家之间根深蒂固的贫困、种族与制度性剥夺等核心正义问题。

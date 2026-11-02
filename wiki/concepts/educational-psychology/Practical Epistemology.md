@@ -77,7 +77,7 @@ updated: 2026-11-02
 > - **边界** 区别于关于专业科研事业的抽象形式信念，也区别于去学科化的通用[[Learning Strategies|学习策略]]（如[[Mnemonic Strategies|记忆术]]）。
 
 > [!citation-card] 论实践认识论与形式认识论的根本分离
-> 学生关于专业科学的形式认识论（formal epistemologies）与他们在自身科学探究中运用的实践认识论（practical epistemologies）之间存在实质性差异。形式认识论关注远端的专业科学知识如何产生；实践认识论则指引着近端学生自己在课堂中对知识的建构与辩护。仅仅让学生动手做探究，并不能自发促成实践认识论向形式认识论的跃升。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
+> 学生关于专业科学的形式认识论（formal epistemologies）与他们在自身科学探究中运用的实践认识论（practical epistemologies）之间存在实质性差异。形式认识论关注远端的专业科学知识如何产生；实践认识论则指引着近端学生自己在课堂中对知识的建构与辩护。仅仅让学生动手做探究，并不能自发促成实践认识论向形式认识论的提升。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
 >
 > *Students' formal epistemologies of science can be distinguished from their practical epistemologies. Practical epistemologies are the epistemological ideas students apply to their own knowledge construction in science, whereas formal epistemologies are ideas about professional science. Engaging in inquiry alone is insufficient for students to develop sophisticated formal epistemologies from their practical experiences.*
 
@@ -103,8 +103,8 @@ updated: 2026-11-02
 实践[[Epistemology|认识论]]涵盖认知维度的基本特征，以及在微观[[Discourse Analysis|话语分析]]中得以[[Operationalization|操作化]]的分析机理。
 
 > [!feature] 实践认识论的三大核心特征（[[Argument_Sandoval_2005_SE\|Sandoval, 2005, pp. 648–649]]）
-> - **隐性与情境嵌入性（Tacit & Situated）** 实践认识论通常是隐性的，学生往往无法用命题语言流利表述，而是直接投射在如何选择证据、何时终止探究等即时行动决策之中。
-> - **碎片化与情境敏感性（Fragmented & Context-Sensitive）** 学生的实践认识论通常并非严密一致的哲学体系，而是根据任务难度、材料提示和同伴互动被动态激活的认知资源。
+> - **隐性与情境嵌入性（Tacit & Situated）** 实践认识论通常是隐性的，学生往往无法用命题语言流利表述，是直接投射在如何选择证据、何时终止探究等即时行动决策之中。
+> - **碎片化与情境敏感性（Fragmented & Context-Sensitive）** 学生的实践认识论通常是根据任务难度、材料提示和同伴互动被动态激活的认知资源，有别于严密一致的哲学体系。
 > - **对探究行为的实质指引（Guiding Inquiry Actions）** 学生的实践认识论直接决定其探究策略：持有动态建构观念的学生倾向于系统收集数据并检验因果推理；持有知识即既定事实观念的学生则倾向于机械背诵或盲目试错。
 
 ### 实践认识论分析（PEA）操作化机理
@@ -145,7 +145,7 @@ updated: 2026-11-02
 > **探讨维度　语言游戏与行动认识论** 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
-> **[[Discourse|话语]]行动中的认识论生成** 认识论并非深锁于大脑内部的静态表征，而是在微观话语和具身互动中展开的语言游戏。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借助教具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
+> **[[Discourse|话语]]行动中的认识论生成** 认识论是在微观话语和具身互动中展开的语言游戏，有别于深锁于大脑内部的静态表征。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借助教具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 ---
 

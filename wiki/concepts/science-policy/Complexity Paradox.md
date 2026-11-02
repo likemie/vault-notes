@@ -1,5 +1,5 @@
 ---
-summary: "指现代公共治理中政策议题越是复杂交织与跨领域，政府行政机构越发退守部门壁垒并导致政策制定碎片化、条块分割的制度异化现象；新公共管理的微观合规考核与外包进一步加剧了这一困境，需依托统摄性国家使命与多层级公共动态能力予以破解。"
+summary: "指现代公共治理中政策议题越是复杂交织与跨领域，政府行政机构越发退守部门壁垒并导致政策制定碎片化、条块分割的制度异化现象；新公共管理的微观合规考核与外包进一步加剧了这一困境，需依托统领性国家使命与多层级公共动态能力予以破解。"
 type: concept
 domain: "science-policy"
 related_count: 13
@@ -74,7 +74,7 @@ aliases:
 > [!feature] 复杂性悖论的三大核心构成要素
 > - **议题跨界交织性（Issue Interconnectedness）** 应对气候危机、产业脱碳与健康老龄化等[[Wicked Problem|棘手问题]]需要科技、财政、规制与产业政策的协同联动。（pp. 790–791）
 > - **科层部门利益壁垒（Bureaucratic Silos）** 政府组织结构、预算编制与晋升激励按专业条线划分，形成天然的部门保护主义与协调阻力。（p. 790）
-> - **政策工具碎片化（Instrument Fragmentation）** 研发补贴、税收减免与公共采购等政策工具分散在不同层级部门，缺乏统一的战略方向统摄。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
+> - **政策工具碎片化（Instrument Fragmentation）** 研发补贴、税收减免与公共采购等政策工具分散在不同层级部门，缺乏统一的战略方向统领。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 ---
 
@@ -82,7 +82,7 @@ aliases:
 > **探讨维度　政策演进史与协调机制维度** 探讨创新政策的历史初衷与现实异化。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **协调初衷的制度性落空** 创新政策在 1970 年代末至 1980 年代初作为独立政策领域出现时，其最初设想是一项跨越产业、科技与教育的综合协调性政策；然而在复杂性悖论的作用下，由于缺乏跨部门权威与共享愿景，创新政策迅速蜕变为各个部委各自为政的孤立项目组合，失去了统筹系统转型的制度力量。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 790)]]
+> **协调初衷的制度性落空** 创新政策在 1970 年代末至 1980 年代初作为独立政策领域出现时，其最初设想是一项跨越产业、科技与教育的综合协调性政策；然而在复杂性悖论的作用下，由于缺乏跨部门权威与共享愿景，创新政策迅速转变为各个部委各自为政的孤立项目组合，失去了统筹系统转型的制度力量。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 790)]]
 
 ---
 
@@ -90,15 +90,15 @@ aliases:
 > **探讨维度　公共行政[[Paradigm|范式]]与国家能力维度** 审视 [[New Public Management|NPM]] 改革对跨部门协调机制的侵蚀效应。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **微观合规与外部依赖摧毁系统协同** NPM 改革所推行的微观成本效益核算与广泛[[Externalization|外部化]]外包，导致公共部门内部出现了[[Cognitive Deskilling|去技能化]]（Deskilling）；公共部门退化为只关注短期合规的被动采购者，丧失了自主构想复杂解决方案与跨部门协同攻坚的组织底座，使得复杂性悖论在 1990 年代以来进一步加剧。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
+> **微观合规与外部依赖摧毁系统协同** NPM 改革所推行的微观成本效益核算与广泛[[Externalization|外部化]]外包，导致公共部门内部出现了[[Cognitive Deskilling|去技能化]]（Deskilling）；公共部门退化为只关注短期合规的被动采购者，丧失了自主构想复杂解决方案与跨部门协同攻坚的组织基础，使得复杂性悖论在 1990 年代以来进一步加剧。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 ---
 
-> [!concept-proposition] 命题三｜统摄性国家使命与多层级动态能力是破解复杂性悖论的制度钥匙
+> [!concept-proposition] 命题三｜统领性国家使命与多层级动态能力是破解复杂性悖论的制度钥匙
 > **探讨维度　使命导向治理与组织重构维度** 论证如何从根本上打破部门壁垒与协调僵局。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **使命统领与能力重组打破条块分割** 破解复杂性悖论必须依靠两大支柱：一是设立具有高度社会共识、明确时间表与统摄性的重大国家使命（如阿波罗登月或德国能源转型），为各部门提供超越部门利益的共同航向；二是系统构建涵盖国家政治合法性、政策协同组合与行政敏捷流动的三层[[Public Dynamic Capabilities|公共部门动态能力]]，赋予跨职能项目团队打破部门边界的试错与协同权限。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 796–798)]]
+> **使命统领与能力重组打破条块分割** 破解复杂性悖论必须依靠两大支柱：一是设立具有高度社会共识、明确时间表与统领性的重大国家使命（如阿波罗登月或德国能源转型），为各部门提供超越部门利益的共同航向；二是系统构建涵盖国家政治合法性、政策协同组合与行政敏捷流动的三层[[Public Dynamic Capabilities|公共部门动态能力]]，赋予跨职能项目团队打破部门边界的试错与协同权限。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 796–798)]]
 
 ---
 

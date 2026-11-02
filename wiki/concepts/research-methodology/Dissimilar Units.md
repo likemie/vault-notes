@@ -61,10 +61,10 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国跨文化比较研究中，分析单位之间由于内在制度生态与意义系统的[[Heterogeneity|异质性]]所导致的不可机械公度性。
 > - **用途** 帮助研究者警惕将自然科学的实验控制逻辑直接移植至社会科学的误区，确立历史脉络化与自然[[Situative Perspective|情境观]]察的合法性。
-> - **边界** 该困境并不主张跨国教育现实完全处于不可知论的极端相对主义状态，而是划定了量化指标等值比较的前提条件与解释边界。
+> - **边界** 该困境并不主张跨国教育现实完全处于不可知论的极端相对主义状态，是划定了量化指标等值比较的前提条件与解释边界。
 
 > [!citation-card] 斯梅尔塞与拉斯特论非同质单位分析的复杂性
-> 比较研究并非在本质上迥异于一般社会科学，因为一切科学思维在广义上都具有比较性质。比较研究最主要的复杂并发症在于它必须处理对非同质单位（不同社会与文化）的分析。在比较教育中，分析单位通常是两个或多个民族国家中的教育体制或其子集。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]
+> 比较研究并不在本质上迥异于一般社会科学，因为一切科学思维在广义上都具有比较性质。比较研究最主要的复杂并发症在于它必须处理对非同质单位（不同社会与文化）的分析。在比较教育中，分析单位通常是两个或多个民族国家中的教育体制或其子集。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]
 >
 > *"We make no claim that comparative education studies are fundamentally different from social sciences in general. In fact, all social sciences are comparative in nature... The major complication of comparative studies is that it involves the analysis of 'dissimilar units' (different societies and cultures) (Smelser, 1976). In comparative education the unit of analysis is usually the educational system or a subset of that system in two or more nation-states (Thomas, 1998)."*
 
@@ -84,7 +84,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **制度情境的深嵌性（Institutional Embeddedness）** 教育体制并非孤立运转的技术系统，而是深嵌于母体社会的经济生产方式、政治权威结构与宗教文化传统之中。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
+> - **制度情境的深嵌性（Institutional Embeddedness）** 教育体制是深嵌于母体社会的经济生产方式、政治权威结构与宗教文化传统之中，有别于孤立运转的技术系统。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
 > - **指标内涵的文化多义性（Cultural Multivocality）** 升学率、师资学历、课程大纲或纪律规程等表面通用的指标，在不同民族国家具有截然不同的社会再生产功能与阶层象征资本。
 > - **自然[[Situative Perspective|情境观]]察依托（Natural Setting Reliance）** 由于研究者无法像自然科学家那样在人工控制环境下对主权国家或文化社群施加操纵性[[Variable|变量]]干预，比较研究必须以自然情境中发生的历史与现实变异为唯一事实来源。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]
 
@@ -104,7 +104,7 @@ updated: 2026-11-02
 > **探讨维度　跨文化功能等值与语义断裂** 探讨为何脱离宏观制度脉络的跨国量化排位必然导致严重的方法论偏误。
 
 > [!claim] [[Val D. Rust|Rust, V. D.]]
-> **指标表面同构与实质功能异质** 拉斯特等人指出，早期的奠基学者如[[Isaac Kandel|坎德尔]]（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）早已认识到教育绝非独立孤立的社会范畴；比较研究的对象是由复杂政治经济力量所形塑的非同质单位。如果脱离对象国的政治与历史情境，将一国的教育统计数据与另一国进行简单数字对比，实际上是将内涵完全不同的事物强行归为同类，不仅无法建立跨国因果解释，更会沦为削足适履的技术官僚偏见。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
+> **指标表面同构与实质功能异质** 拉斯特等人指出，早期的奠基学者如[[Isaac Kandel|坎德尔]]（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）早已认识到教育有别于独立孤立的社会范畴；比较研究的对象是由复杂政治经济力量所形塑的非同质单位。如果脱离对象国的政治与历史情境，将一国的教育统计数据与另一国进行简单数字对比，实际上是将内涵完全不同的事物强行归为同类，不仅无法建立跨国因果解释，更会沦为削足适履的技术官僚偏见。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
 
 ---
 
@@ -136,7 +136,7 @@ updated: 2026-11-02
 > - **[[Situative Perspective|情境主义]]批判派（红方）** 强调非同质单位深处的历史记忆与意义网络不可通约，任何强行统一排位的指标体系都暗含了强势霸权文化的价值观强加。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 129, 134)]]
 
 > [!warning] 适用局限
-> 非同质单位困境绝非拒绝跨国交流与经验借鉴的借口；其方法论约束的核心旨归在于提醒学者开展研究时必须投入充分的区域研究与脉络化考据，杜绝未加甄别的机械数字移植。
+> 非同质单位困境有别于拒绝跨国交流与经验借鉴的借口；其方法论约束的核心旨归在于提醒学者开展研究时必须投入充分的区域研究与脉络化考据，杜绝未加甄别的机械数字移植。
 
 ---
 

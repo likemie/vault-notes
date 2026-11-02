@@ -104,7 +104,7 @@ updated: 2026-11-02
 > [!contrast-table] 主动学习与主流教学[[Paradigm\|范式]]对比
 > | 比较维度 | 主动学习（Active Learning） | [[Banking Model of Education\|储蓄式教育]]（Banking Education） | 抽象通用原则宣讲 | 结构化循证[[Cooperative Learning\|合作学习]] |
 > |---|---|---|---|---|
-> | **学生角色** | **探究主体（Subjects）** 与知识共建者 | 知识存储容器（Objects）与被动接收者 | 原则受众，依赖个人领悟 | 异质团队中承担个体责任的协作者 |
+> | **学生角色** | **探究主体（Subjects）** 与知识共建者 | 知识存储容器（Objects）与被动接收者 | 原则受众，依赖个人领悟 | 异质团队中承担个体责任的协撰写者 |
 > | **教学机制** | 问题提出、深度[[Dialogue in Education\|对话]]与实践反思 | 单向讲授、机械识记与标准答案灌输 | 宏观教学论倡导，缺乏配套教案 | 明确角色分工、清单互评与高频输出 |
 > | **落地保障** | 依赖教师高阶设计或成套课程载体 | 依托传统教科书与讲授大纲 | 缺乏[[Counterfactual\|反事实]]对照，实践易回退 | 经过大规模 [[Randomised Controlled Trials\|RCT]] 验证的标准化方案（如 [[Cooperative Integrated Reading and Composition\|CIRC]]） |
 > | **典型产出** | [[Critical Thinking\|批判性思维]]、深层理解与[[Self-Efficacy\|自我效能]] | 短期[[Rote Learning\|机械记忆]]，深层迁移能力薄弱 | 教师转化损耗严重，成效不稳定 | 显著的学业增益（$ES = +0.20 \sim +0.40$） |
@@ -118,7 +118,7 @@ updated: 2026-11-02
 > - **[[Conscientization\|批判意识觉醒]]与实践行动（Conscientization & [[Praxis]]）** 将学习收获转化为改造个人生活、社区与社会现实的行动，实现认知与社会性成长。
 > - **结构化任务支架与具体材料（Structured [[Scaffolding]] & Materials）** 提供标准化的任务清单、问题支架与活动规则，防止认知负荷超载。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
-> [!logic-map]- 主动学习深化闭环
+> [!logic-map]- 主动学习深化反馈回路
 > ```mermaid
 > flowchart LR
 >     A["1. 现实问题提出<br>（激发认知冲突）"] --> B["2. 具身探究与动手做<br>（经验获取与材料操练）"]
@@ -133,7 +133,7 @@ updated: 2026-11-02
 > **探讨维度　[[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]的[[Epistemology\|认识论]]融合** 学习本质上是行动者在民主共同体中改造经验的社会性过程，被动接收会剥夺学生的批判意识与主体能动性。
 
 > [!claim] Dewey; Freire; Darwish
-> **[[Critical Thinking\|批判性思维]]、对话与实践生长的三位一体** 批判性思维并非孤立的认知技能，它必须依托[[John Dewey\|杜威]]式的“动手做（Doing）”项目与[[Paulo Freire\|弗莱雷]]式的“[[Problem-Posing Education\|提问式教育]]（Problem-Posing）”相融共生。通过在民主对话中揭露现实矛盾，学生从被动客体转化为主动探究者，实现[[Conscientization\|批判意识觉醒]]与个体生长的有机统一。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
+> **[[Critical Thinking\|批判性思维]]、对话与实践生长的三位一体** 批判性思维有别于孤立的认知技能，它必须依托[[John Dewey\|杜威]]式的“动手做（Doing）”项目与[[Paulo Freire\|弗莱雷]]式的“[[Problem-Posing Education\|提问式教育]]（Problem-Posing）”相融共生。通过在民主对话中揭露现实矛盾，学生从被动客体转化为主动探究者，实现[[Conscientization\|批判意识觉醒]]与个体生长的有机统一。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
 
 ---
 
@@ -194,10 +194,10 @@ updated: 2026-11-02
 ---
 
 > [!case] [[John Dewey\|杜威]]的“房屋模型构建”项目（[[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 9]]）
-> 杜威在《民主与教育》中阐述，[[Critical Thinking\|批判性思维]]的生成不依赖[[Rote Learning\|死记硬背]]，而是依托具身“做（Doing）”。当学生在实际建造房屋模型时，必须主动检索力学与结构资料、与同伴讨论规划、面对倒塌挫折并寻找修复方案，这一完整的探究链条正是主动学习的经典体现。
+> 杜威在《民主与教育》中阐述，[[Critical Thinking\|批判性思维]]的生成不依赖[[Rote Learning\|死记硬背]]，是依托具身“做（Doing）”。当学生在实际建造房屋模型时，必须主动检索力学与结构资料、与同伴讨论规划、面对倒塌挫折并寻找修复方案，这一完整的探究链条正是主动学习的经典体现。
 
 > [!case] [[Paulo Freire\|弗莱雷]]的提问式识字教育（[[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 9–10]]）
-> 弗莱雷在巴西农民识字运动中摒弃了传统的字母灌输，而是向农民呈现土地、水权、劳动工资等生成性现实问题（[[Generative Themes]]）。师生在平等的对话中剖析社会压迫结构，使识字过程转化为[[Conscientization\|批判意识觉醒]]与改造现实的实践行动。
+> 弗莱雷在巴西农民识字运动中摒弃了传统的字母灌输，是向农民呈现土地、水权、劳动工资等生成性现实问题（[[Generative Themes]]）。师生在平等的对话中剖析社会压迫结构，使识字过程转化为[[Conscientization\|批判意识觉醒]]与改造现实的实践行动。
 
 ---
 

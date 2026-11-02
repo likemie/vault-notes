@@ -82,7 +82,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Professional Learning Community
-> **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership\|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice\|证据知情实践]]与高质量研究[[Research Utilization\|证据使用]]（[[Quality Use of Research Evidence Framework\|QURE]]）视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育工作者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部适切证据提供专有时空保障的实践庇护所，以及承载证据“共同审议”（shared deliberation）与多层使能构件发生交汇的微观组织中枢。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–144)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 188, 191–192)]]; [[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 18–19)]]
+> **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership\|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice\|证据知情实践]]与高质量研究[[Research Utilization\|证据使用]]（[[Quality Use of Research Evidence Framework\|QURE]]）视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育从业者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部适切证据提供专有时空保障的实践庇护所，以及承载证据“共同审议”（shared deliberation）与多层使能构件发生交汇的微观组织中枢。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–144)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 188, 191–192)]]; [[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 18–19)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 学校内部跨越年级与学科界限、去私有化的教师集体学习与教学反思协同机制。
@@ -90,12 +90,12 @@ updated: 2026-11-02
 > - **适用边界** 强调反思探究与学生学习成效的实质改善；严禁等同于自上而下单向布置任务的行政教职工大会或流于形式的表面合群。
 
 > [!citation-card] Rickinson et al. 论 PLC 专有时间对[[Research Utilization\|研究使用]]的庇护功能
-> 我们拥有围坐在一起探讨问题、解释要义并研读研究要点的专门时间……这让大家有机会在不确定时主动发问……而不是在全校教职工大会上被仓促挤兑过去。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, p. 188)]]
+> 我们拥有围坐在一起探讨问题、解释要义并研读研究要点的专门时间……这让大家有机会在不确定时主动发问……有别于在全校教职工大会上被仓促挤兑过去。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, p. 188)]]
 >
 > *Having designated time to [[Schulen im Team|SiT]] together, unpick things, talk about what the research meant ... gave people the opportunity to question if they were unsure ... rather than having it rushed through in a staff meeting.*
 
 > [!citation-card] Rickinson et al. 论审慎参与的集体审议与社会化学习实质
-> 审慎参与和实施体现了教育工作者对研究证据的批判性研读、对其内涵与教育意义的共同审议（shared deliberation），以及将证据要素有效整合进日常教学的过程。这种使用绝非孤立个体的技术性消费，而是在团队与共同体中依托互信人际关系展开的去私密化社会学习实践。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–143)]]
+> 审慎参与和实施体现了教育从业者对研究证据的批判性研读、对其内涵与教育意义的共同审议（shared deliberation），以及将证据要素有效整合进日常教学的过程。这种使用是在团队与共同体中依托互信人际关系展开的去私密化社会学习实践，有别于孤立个体的技术性消费。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–143)]]
 >
 > *Thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice... supported by trust-based collegial relationships and collaborative teams.*
 
@@ -174,7 +174,7 @@ updated: 2026-11-02
 > **实践庇护与证据转化中枢** 外部学术研究从抽象文本到课堂教学行为的转化，必须依赖集体层面的批判解读、情境化改编与持续试验。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）等学者基于实证调查指出，在缺乏专门研讨机制的环境下，教师面临沉重的行政文书与备课杂务，对研究的接触往往被仓促挤兑过去；制度化排程的 PLC 为教师与助教提供了免受行政碎片化干扰的实践庇护所，使教师能够在互信安全的氛围中主动质疑、剖析研究内涵并结合班级特殊学情设计渐进式教学试验，从而显著提高常态化应用高质量研究的概率。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 188, 191–192)]]
 
 > [!claim] [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]]
-> **共同审议与多层使能交汇中枢** [[Mark Rickinson\|马克·里金森]]等学者在构建[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）时指出，[[Evidence-Informed Practice\|证据知情实践]]在本质上是一项发生在专业团队与学习共同体内部的社会化审议过程（Social, Deliberative Process）。研究证据绝非直接移植的技术处方，其有效转化依赖于教育者在共同体中开展“审慎参与与实施”（Thoughtful Engagement and Implementation），通过深度对话共同质询、审议研究结论并结合具体学情进行情境化转译。更重要的是，专业学习共同体构成了 QURE 框架中个体使能因素（基于信任的人际关系、探究心智模式）与组织使能因素（领导示范、反思文化、专有时空保障）相互交织碰撞的微观组织中枢，缺乏该载体，证据动员将失去实践着力点。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–144)]]
+> **共同审议与多层使能交汇中枢** [[Mark Rickinson\|马克·里金森]]等学者在构建[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）时指出，[[Evidence-Informed Practice\|证据知情实践]]在本质上是一项发生在专业团队与学习共同体内部的社会化审议过程（Social, Deliberative Process）。研究证据并不直接移植的技术处方，其有效转化依赖于教育者在共同体中开展“审慎参与与实施”（Thoughtful Engagement and Implementation），通过深度对话共同质询、审议研究结论并结合具体学情进行情境化转译。更重要的是，专业学习共同体构成了 QURE 框架中个体使能因素（基于信任的人际关系、探究心智模式）与组织使能因素（领导示范、反思文化、专有时空保障）相互交织碰撞的微观组织中枢，缺乏该载体，证据动员将失去实践着力点。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 141–144)]]
 
 > [!claim] Stoll, L. 等
 > **反思性专业探究是 PLC 的判定特征** 斯托尔（Louise Stoll）等学者在跨国综述中指出，PLC 之所以能够承担证据转化功能，是因为其关键特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把[[Tacit Knowledge|默会知识]]转化为可用于[[Problem Solving\|问题解决]]的共享知识。此外，PLC 还须具备以改善学生成果为旨归的共享愿景、对学生学习的集体责任、超出表层互助的协作，以及同时促进群体与个体学习；缺少这些特征，共同体虽仍按期活动，却不再构成[[Research Utilization\|研究使用]]所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]

@@ -82,13 +82,13 @@ updated: 2026-11-02
 ---
 
 > [!feature] 制度置换的运作机制与构成维度
-> - **旧规则的废止与边缘化（Rule Elimination or Marginalization）** 既有正式规约从法律上被直接废除，或在竞争中丧失权威与资源，被压缩至边缘地带直至完全失效。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16)]]
-> - **竞争性新规则的平行引入（Competitive New Rule Introduction）** 变革者设立具有排他性、不相容逻辑的全新制度框架，其目标不是补充旧体制，而是与其展开争夺参与者的零和博弈。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
+> - **旧规则的废止与边缘化（Rule Elimination or Marginalization）** 既有正式规范从法律上被直接废除，或在竞争中丧失权威与资源，被压缩至边缘地带直至完全失效。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16)]]
+> - **竞争性新规则的平行引入（Competitive New Rule Introduction）** 变革者设立具有排他性、不相容逻辑的全新制度框架，其目标是与其展开争夺参与者的零和博弈，有别于补充旧体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
 > - **微观背叛与滚雪球转移（Defection and Cumulative Shift）** 随着新规则优势显现或旧规则成本上升，行动者自主选择“背叛”旧规则并依附新机制，形成不可逆的级联扩散，最终实现制度彻底更替。
 
 > [!factors] 制度置换的生成条件与因果要素
 > - **弱政治[[Veto Possibilities|否决可能性]]（Weak Veto Possibilities）** 维护既有制度的保守阵营缺乏足够的否决点或政治盟友，无法构筑阻止新制度合法化或扩散的有效壁垒。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
-> - **低[[Enforcement Discretion|解释与执行裁量权]]（Low Enforcement Discretion）** 既有规则的规约边界相对清晰刚性，行动者难以通过变通解释来满足新利益诉求，迫使变革力量走向制度替换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
+> - **低[[Enforcement Discretion|解释与执行裁量权]]（Low Enforcement Discretion）** 既有规则的规范边界相对清晰刚性，行动者难以通过变通解释来满足新利益诉求，迫使变革力量走向制度替换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
 > - **主导行动者：[[Insurrectionaries|起义者]]（Insurrectionaries）** 明确否定旧制度合法性、拒绝遵循旧制度规则，积极通过公开动员、开辟外部竞争轨道打破维持现状的政治僵局。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 23–24)]]
 
 > [!logic-map]- 制度置换的演进逻辑
@@ -144,10 +144,10 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid] 制度置换的代表性经验案例
-> - **资本积累型私人养老金对现收现付制公共社保的置换（福利私有化置换典范）** 美国与智利保守派并未通过激进立法直接废除公共社会保障，而是通过引入 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人投资的高回报吸引了大量中产阶级主动退出公共互助池，将资金转入资本市场，随着私人资产规模膨胀，公共社保体系的政治支持基础被逐步抽干并实现渐进置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
-> - **非工会子公司与外包业务对行业集中集体谈判的挤出（劳资规制置换典范）** 欧洲制造企业在面临全球成本压力时，并未正面废止战后全行业集体工资协议，而是选择在体制外成立不加入雇主协会的无协议子公司，或将零部件制造大规模外包给非工会私营承包商；随着非工会生产网络扩张，传统集中集体谈判的覆盖率被逐步挤压，完成了劳资关系的去中心化置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–21)]]
-> - **转轨经济中的渐进市场双轨制（边际挤出置换典范）** 中国与古巴在经济转轨初期没有采取休克疗法立即废除国营统购统销，而是在体制外放开非公经济与市场交易轨道；随着越来越多农户与乡镇企业转向市场轨道，市场机制通过更高的配置效率逐步吸纳全社会生产要素，最终彻底废除并置换了传统计划体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
-> - **英国上议院政治权能的百年渐进剥夺（立宪功能置换典范）** 英国上议院原本作为世袭贵族统治堡垒，在 20 世纪通过 1911 年《议会法》剥夺财政否决权、1958 年设立终身贵族打破血统垄断、2000 年布莱尔政府大幅废除绝大多数世袭席位，使现代民主代表原则在长达一个世纪的连续立法微调中彻底置换了封建特权内核。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–2)]]
+> - **资本积累型私人养老金对现收现付制公共社保的置换（福利私有化置换典范）** 美国与智利保守派并未通过激进立法直接废除公共社会保障，是通过引入 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人投资的高回报吸引了大量中产阶级主动退出公共互助池，将资金转入资本市场，随着私人资产规模膨胀，公共社保体系的政治支持基础被逐步抽干并实现渐进置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
+> - **非工会子公司与外包业务对行业集中集体谈判的挤出（劳资规制置换典范）** 欧洲制造企业在面临全球成本压力时，并未正面废止战后全行业集体工资协议，是选择在体制外成立不加入雇主协会的无协议子公司，或将零部件制造大规模外包给非工会私营承包商；随着非工会生产网络扩张，传统集中集体谈判的覆盖率被逐步挤压，完成了劳资关系的去中心化置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–21)]]
+> - **转轨经济中的渐进市场双轨制（边际挤出置换典范）** 中国与古巴在经济转轨初期没有采取休克疗法立即废除国营统购统销，是在体制外放开非公经济与市场交易轨道；随着越来越多农户与乡镇企业转向市场轨道，市场机制通过更高的配置效率逐步吸纳全社会生产要素，最终彻底废除并置换了传统计划体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
+> - **英国上议院政治权能的百年渐进剥夺（立宪功能置换典范）** 英国上议院原本作为世袭贵族统治堡垒，在 20 世纪通过 1911 年《议会法》剥夺财政否决权、1958 年设立终身贵族打破血统垄断、2000 年布莱尔政府大幅废除绝大多数世袭席位，使现代民主代表原则在长达一个世纪的连续立法微调中彻底置换了封建特权核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–2)]]
 > - **土耳其凯末尔世俗法典替代伊斯兰沙里亚法（激进外生置换典范）** 凯末尔革命后，外生政治精英凭借强大的军事与行政垄断，直接废除奥斯曼帝国的宗教沙里亚法（Sharia），全盘移植瑞士民法典与意大利刑法典，展现了强力[[Insurrectionaries|起义者]]主导下的激进直接置换。
 > - **现代土地产权登记对传统习惯法的挤出（法理产权置换）** 传统习惯法公有产权在后殖民国家现代化进程中，逐步被成文法土地契约凭证登记体系所替代，但在特定缺乏有效行政能力的地区，这一置换过程遭遇了扭曲。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 25)]]
 

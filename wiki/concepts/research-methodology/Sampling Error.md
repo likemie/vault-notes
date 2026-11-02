@@ -74,7 +74,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Sampling Error
-> **抽样误差（Sampling Error）** 指从同一[[Study Population and Sample|目标总体]]中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差并非操作疏失或实验失误的产物，而是由有限经验样本推断广义总体时固有的概率不确定性所致；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与样本容量（$N$）。在现代[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为 **“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
+> **抽样误差（Sampling Error）** 指从同一[[Study Population and Sample|目标总体]]中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差是由有限经验样本推断广义总体时固有的概率不确定性所致，有别于操作疏失或实验失误的产物；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与样本容量（$N$）。在现代[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为 **“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 抽样误差度量的是无偏[[Random Sampling|随机抽样]]所产生的不可避免的偶然涨落，体现了[[Scientific Method|经验科学]]对客观规律渐近逼近的概率特征。
@@ -82,7 +82,7 @@ updated: 2026-11-02
 > - **边界** 抽样误差严格局限于随机抽样引起的随机波动，既不包含测量工具的不精确性（测量误差），也不涵盖非随机性系统扭曲（抽样偏差与[[Publication Bias|发表偏倚]]）；在[[Meta-meta-analysis|二级元分析]]中，抽样误差公式的成立高度依赖于主要研究样本相互独立的充要条件。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 29–30)]]
 
 > [!boundary]- 概念边界
-> - **不等于 抽样偏差（Sampling Bias）** 抽样偏差由抽样程序缺陷、[[Sampling Frame|抽样框]]覆盖不足或非随机选择导致，产生系统性的固定倾斜，即使无限扩大样本量也无法消除；抽样误差是随机波动的幅度，随样本量扩大以反比例 $1/\sqrt{N}$ 持续收敛至 0。
+> - **不等于 抽样偏差（Sampling Bias）** 抽样偏差由抽样程序缺陷、[[Sampling Frame|抽样框]]覆盖不足或非随机选择导致，产生系统性的固定倾斜，即使无限扩大样本量也无法消除；抽样误差是随机波动的幅度，随样本量扩大以反比例 $1/\sqrt{N}$ 持续汇合至 0。
 > - **不等于 测量误差（Measurement Error）** 测量误差源于量表[[Reliability|信度]]不足、仪[[Artefact|器物]]理故障或受试者作答偶然失误；抽样误差源于被试样本对总体代表性的随机概率离散。
 > - **不等于 研究间真实[[Heterogeneity|异质性]]（Between-Study Heterogeneity, $\tau^2$）** 抽样误差是每个研究内部因抽样偶然性带来的误差方差（$v_i$）；异质性是不同研究因教学情境、干预时长、人群特质不同而具有的真实总体效应分布方差（$\tau^2$）。[[Fixed-Effect Model|固定效应模型]]假定 $\tau^2=0$、所有离散纯属抽样误差，在教育多情境下极易违背现实。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]
 > - **严禁将抽样误差度量（SE）与总体标准差（SD）混为一谈** 标准差描述个体数据点在样本内部的离散度，标准误[[Descriptive Analysis|描述统计]]量在[[Theoretical Sampling|理论抽样]]分布上的离散度；在标准化均数差计算中误将标准误代入分母除数，会导致效应量虚增 $\sqrt{N}$ 倍的灾难性计量事故。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
@@ -100,7 +100,7 @@ updated: 2026-11-02
 > | **误差性质** | 随机性理论波动（Random fluctuation） | 系统性偏差（Systematic distortion） | 工具或反应偶然/系统变异 | 跨情境真实分布离散（Real dispersion） |
 > | **产生根源** | 有限经验样本对无限总体的随机代表性限制 | [[Sampling Frame\|抽样框]]缺陷、自选样本、有偏排除 | 量表[[Reliability\|信度]]不足、记录失真、[[Floor and Ceiling Effects\|天花板效应]] | 教学干预强度、受试学段、组织生态[[Heterogeneity\|异质性]] |
 > | **度量形式** | 标准误（$\text{SE} = \text{SD}/\sqrt{N}$，抽样方差 $v_i$） | 偏差偏移量（$\text{Bias} = E(\hat{\theta}) - \theta$） | 测量标准误（$\text{SEM}_{\text{meas}} = s\sqrt{1-r_{xx}}$） | 研究间方差 $\tau^2$ 与异质性比率 $I^2$ |
-> | **增大样本量 $N$ 的效应** | 以 $1/\sqrt{N}$ 速率收敛衰减，有效抵消随机误差 | **无法消除**，仅使有偏估计更加狭窄地偏离真值 | 无法通过单纯增加[[Sample Size Determination\|样本量]]消除 | 不随单项[[Study Population and Sample\|研究样本]]量增大而改变，反映客观多样性 |
+> | **增大样本量 $N$ 的效应** | 以 $1/\sqrt{N}$ 速率汇合衰减，有效抵消随机误差 | **无法消除**，仅使有偏估计更加狭窄地偏离真值 | 无法通过单纯增加[[Sample Size Determination\|样本量]]消除 | 不随单项[[Study Population and Sample\|研究样本]]量增大而改变，反映客观多样性 |
 > | **[[Research Synthesis\|证据综合]]中的应对方案** | 按逆方差赋权（$w_i = 1/v_i$）实现最佳线性无偏估计 | [[Funnel Plot\|漏斗图]]检验、[[Fail-Safe N\|失安全数]]、[[Multilevel Egger's Test\|多水平艾格回归]]剪补 | 潜[[Variable\|变量]]结构方程模型（[[Causal Modeling\|SEM]]）、测量误差校正 | 采用[[Random-Effects Model\|随机效应模型]]并将 $\tau^2$ 纳入加权分母 |
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-11-02
 > - **分类比例标准误（Standard Error of Proportions）** 针对分类或百分比数据，抽样误差公式表达为 $\text{SE}_p = \sqrt{\frac{P(100 - P)}{N}}$；在非置换有限总体中引入有限总体校正系数（Finite Population Correction, FPC）：$fpc = \sqrt{1 - \frac{N}{N_{pop}}}$，样本占总体比例越高，抽样误差衰减越显著。
 > - **两级[[Meta-analysis|元分析]]中的抽样方差传递** 在一级元分析中，单项研究[[Effect Size|效应量]]抽样方差按独立双组标准误计算；在[[Meta-meta-analysis|二级元分析]]中，汇总抽样误差为各元分析方差倒数和的开方（$\text{SE}_D = \sqrt{1/\sum W_j}$）。该公式在代数上成立的根本公理在于主要[[Study Population and Sample|研究样本]]互不重叠。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 37)]]
 
-> [!logic-map]- 抽样误差产生、测量收敛与两级元分析加权逻辑链
+> [!logic-map]- 抽样误差产生、测量汇合与两级元分析加权逻辑链
 > ```mermaid
 > flowchart LR
 >     A["总体真实参数分布<br/>存在客观方差与均值"] --> B["有限样本随机抽取<br/>引发样本间理论均值涨落"]
@@ -151,7 +151,7 @@ updated: 2026-11-02
 > **探讨维度　计量审计中的除数混淆事故** 探讨一阶[[Document|文献]]数据提取中将抽样分布统计量与原始样本分布参数混淆带来的倍增放大效应。
 
 > [!claim] Wecker et al.
-> **标准误作为效应量除数引发的虚假暴增** 在初级研究与元分析数据提取规程中，计算标准化均数差（Cohen's $d$）的分母必须是样本原始数据的联合标准差（SD）。韦克尔等人在对哈蒂引用的 Eisenstaedt et al.（1990）关于“[[Problem-Based Learning|基于问题的学习]]”元分析进行微观数据审计时发现，原作者在提取主要研究数据时，错误地将报告的均值标准误（[[Causal Modeling|SEM]]）当作样本标准差（SD）作为除数代入公式。由于 $\text{SEM} = \text{SD}/\sqrt{N}$，以标准误为除数直接导致效应量被虚假放大了 $\sqrt{N}$ 倍——原本仅为 $d = 0.08$ 的微弱真实效应，被严重误算为 $d = 0.79$ 的显著高效应，暴增近十倍。此类抽样统计量概念混淆若未被严格审计，会彻底污染整座循证证据大厦。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
+> **标准误作为效应量除数引发的虚假暴增** 在初级研究与元分析数据提取规程中，计算标准化均数差（Cohen's $d$）的分母必须是样本原始数据的联合标准差（SD）。韦克尔等人在对哈蒂引用的 Eisenstaedt et al.（1990）关于“[[Problem-Based Learning|基于问题的学习]]”元分析进行微观数据审计时发现，原撰写者在提取主要研究数据时，错误地将报告的均值标准误（[[Causal Modeling|SEM]]）当作样本标准差（SD）作为除数代入公式。由于 $\text{SEM} = \text{SD}/\sqrt{N}$，以标准误为除数直接导致效应量被虚假放大了 $\sqrt{N}$ 倍——原本仅为 $d = 0.08$ 的微弱真实效应，被严重误算为 $d = 0.79$ 的显著高效应，暴增近十倍。此类抽样统计量概念混淆若未被严格审计，会彻底污染整座循证证据大厦。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
 
 ---
 
@@ -211,7 +211,7 @@ updated: 2026-11-02
 > *The standard deviation of the theoretical distribution of sample means is a measure of sampling error and is called the standard error of the mean (SEM).*
 
 > [!citation-card] 审查中的标准误混淆诊断
-> 在对主要研究的重新分析中，我们发现原本报告为高成效的干预实际上几乎没有效果。显然，原作者在计算标准化均数差时使用了标准误而不是标准差作为除数，从而将[[Effect Size|效应量]]放大了数倍。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
+> 在对主要研究的重新分析中，我们发现原本报告为高成效的干预实际上几乎没有效果。显然，原撰写者在计算标准化均数差时使用了标准误有别于标准差作为除数，从而将[[Effect Size|效应量]]放大了数倍。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
 >
 > *Offenbar wurde hier der Standardfehler statt der Standardabweichung verwendet... was zu einer massiven künstlichen Vergrößerung der Effektstärke führte.*
 

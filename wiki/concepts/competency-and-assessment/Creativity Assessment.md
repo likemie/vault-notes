@@ -131,7 +131,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - **不等于 [[Creativity\|创造力]][[Construct\|构念]]本身** 创造力是心理潜能、认知能力与人格特质的综合构念；创造力测评是该构念在测量学与教育评价中的操作化实现与具体工具体系。
-> - **不等于 常规标准化智力测验** 智力测验处理收敛性、确定性与逻辑有效性推理；创造力测评处理发散性、[[Open-Mindedness|开放性]]、多重解法与新颖适切性产出。
+> - **不等于 常规标准化智力测验** 智力测验处理汇合性、确定性与逻辑有效性推理；创造力测评处理发散性、[[Open-Mindedness|开放性]]、多重解法与新颖适切性产出。
 > - **不等于 单纯的[[Brainstorming\|头脑风暴]]数量统计** 观念数量（流畅性）仅反映构想生成的活跃度，完整的创造力测评必须同时考察构想的独创性、突破常规性与现实适切性。
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-11-02
 > |---|---|---|---|---|---|
 > | **代表性工具** | [[Torrance Tests of Creative Thinking\|TTCT]]、[[Abbreviated Torrance Test for Adults\|ATTA]]、[[Alternate Uses Test\|AUT]]、[[Test for Creative Thinking-Drawing Production\|TCT-DP]] | [[Remote Associates Test\|RAT]]、OTT 过泛思维、问题界定与观念评估任务 | [[Consensual Assessment Technique\|共识评估技术（CAT）]]、[[Rainbow Project\|彩虹项目]]、工程设计 CEDA | [[Creative Achievement Questionnaire\|CAQ]]、[[Runco Ideational Behavior Scale\|RIBS]]、[[Emotional Creativity Inventory\|ECI]] | AAC&U [[VALUE Rubrics\|VALUE 创造性思维量规]]、[[OECD]] CERI 量规、[[CALOHEE Project\|CALOHEE]] |
 > | **核心测量[[Construct\|构念]]** | 创造潜能（Potential）：发散生成的流畅性、灵活性、独创性、精致性与边框突破 | 认知加工过程（Process）：远距离概念联想、[[Wicked Problem\|劣构问题]]表征与重构 | 实体产品（Product）：实际创作的新颖性与适切性（专家共识评判） | 创造特质与体验（Person）：终身卓越成就、观念产生频率与情绪体验 | 表现性表现（Performance）：承担智识风险、突破常规思维与多源观念整合 |
-> | **作答载体与题型** | 计时开放任务（列举非常规用途、图形完形与碎片组图） | 远距词汇联想三元组、开放情境下的问题重构与替代方案筛选 | 真实艺术作品、文学创作、工程实体原型、学术论文与设计方案 | 5 点或 7 点 Likert 自陈量表、跨领域里程碑成就核查清单 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入课程[[Homework\|作业]] |
+> | **作答载体与题型** | 计时开放任务（列举非常规用途、图形完形与碎片组图） | 远距词汇联想三元组、开放情境下的问题重构与替代方案筛选 | 真实艺术作品、文学创作、工程实体原型、学术文章与设计方案 | 5 点或 7 点 Likert 自陈量表、跨领域里程碑成就核查清单 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入课程[[Homework\|作业]] |
 > | **评分[[Reliability\|信度]]与实施成本** | 评分标准化程度高，[[Test-Retest Reliability\|重测信度]]稳定，大样本团体施测成本低 | 评分具有确定标准或明确编码规则，施测高效便捷 | 依赖多位同行专家独立匿名评审，组织成本高昂，难以自动化 | 施测便捷高效，但受社会期望与[[Common Method Variance\|共同方法变异]]严重干扰 | 依赖教师校准研讨，需建立跨学科质性评价文化 |
 > | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度受限，高度脱离专业情境，存在长程脱敏风险 | 贴近[[Creative Problem Solving\|创造性问题解决]]的微观瓶颈，具认知诊断价值 | 生态效度极高，被公认为实际产品测量的“黄金标准” | 生态效度中等，反映长周期真实生活表现，促学反馈较弱 | 生态效度极高，评价标准公开透明，全面赋能形成性反馈与自我调节 |
 >
@@ -151,8 +151,8 @@ updated: 2026-11-02
 
 > [!feature] 4P 框架下的测评维度
 > - **创造者特质（Person）** 测量个体的经验[[Open-Mindedness|开放性]]人格、内在动机、[[Creativity\|创造性]][[Self-Efficacy\|自我效能]]（[[Creative Self-Efficacy\|CSE]]）以及情绪创造潜能（如 [[Emotional Creativity Inventory\|ECI]]），主要通过自陈量表实施。[[Argument_Park_2026_TSC\|(Park et al., 2026, Table 1)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
-> - **认知加工过程（Process）** 测量[[Problem Finding\|问题发现]]、[[Divergent Thinking\|发散思维]]、远距离语义联想（[[Remote Associates Test\|RAT]]）与收敛评估等高阶认知加工，主要通过计时认知任务实施。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
-> - **创造性产品（Product）** 测量个体或团队产出的实物原型、工程设计、艺术作品或学术论文的新颖性与适切性，主要通过专家[[Consensual Assessment Technique\|共识评估技术]]（CAT）或真实性量规实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
+> - **认知加工过程（Process）** 测量[[Problem Finding\|问题发现]]、[[Divergent Thinking\|发散思维]]、远距离语义联想（[[Remote Associates Test\|RAT]]）与汇合评估等高阶认知加工，主要通过计时认知任务实施。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
+> - **创造性产品（Product）** 测量个体或团队产出的实物原型、工程设计、艺术作品或学术文章的新颖性与适切性，主要通过专家[[Consensual Assessment Technique\|共识评估技术]]（CAT）或真实性量规实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
 > - **创造环境支持（Press / Environment）** 测量组织创新气候、教学支持度、心理安全感与资源可及性对创造表现的[[Interaction Effect\|调节效应]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 7)]]
 
 > [!dual-header] 创造力测量工具的主客观分类映射
@@ -333,7 +333,7 @@ updated: 2026-11-02
 > | [[Creativity]] | 概念 | 理论基石 | 创造力是创造力测评所[[Operationalization\|操作化]]的核心上位心理[[Construct\|构念]]。 |
 > | [[Divergent Thinking]] | 概念 | 核心潜能测查 | 发散思维是创造潜能心理测验中最主要的认知构件与计分维度。 |
 > | [[Problem Finding]] | 概念 | 过程加工测查 | 问题发现与重构是高水平创造过程测评中关联系数最高的认知环节（$r = 0.27$）。 |
-> | [[Creativity Training]] | 概念 | 干预与评估闭环 | 创造力测评为创造力教学干预提供效果检验、基线诊断与形成性反馈工具。 |
+> | [[Creativity Training]] | 概念 | 干预与评估反馈回路 | 创造力测评为创造力教学干预提供效果检验、基线诊断与形成性反馈工具。 |
 > | [[Criterion Problem]] | 概念 | 方法学困境 | 效标问题是导致创造力测评中潜能、过程与产品分离的核心理论瓶颈。 |
 > | [[Common Method Variance]] | 概念 | 测量偏差 | 共同方法变异揭示了自陈主观测量虚高膨胀观察相关的方法学根源。 |
 > | [[Four P Model of Creativity]] | 理论 | 结构框架 | 4P 模型为创造力测评划分特质、过程、产品与环境四大维度提供分类蓝图。 |
@@ -342,7 +342,7 @@ updated: 2026-11-02
 > | [[Test for Creative Thinking-Drawing Production]] | 测量工具 | 非言语图形测验 | 乌尔班-耶伦 14 维度整体图画创作测验，有效避免语言与文化偏倚。 |
 > | [[Emotional Creativity Inventory]] | 测量工具 | 情绪创造力量表 | 阿维里尔 30 题自陈量表，从准备性、新颖性与有效性测定非认知情绪创造潜能。 |
 > | [[Alternate Uses Test]] | 测量工具 | 经典发散任务 | 吉尔福德另类用途测验，现代创造力实验与认知神经科学研究的基础工具。 |
-> | [[Remote Associates Test]] | 测量工具 | 语义重组测验 | 梅德尼克远距离联想测验，测查在限制线索下收敛检索远距离语义的能力。 |
+> | [[Remote Associates Test]] | 测量工具 | 语义重组测验 | 梅德尼克远距离联想测验，测查在限制线索下汇合检索远距离语义的能力。 |
 > | [[Consensual Assessment Technique]] | 测量工具 | 专家产品评定 | 阿玛比尔共识评估技术，被公认为实际创作产出测量的生态“黄金标准”。 |
 > | [[Creative Achievement Questionnaire]] | 测量工具 | 终身成就量表 | 卡森跨 10 个领域终身创造性成就核查量表，测定现实卓越产出。 |
 > | [[VALUE Rubrics]] | 测量工具 | 校本评分量规 | AAC&U 创造性思维 4 级表现量规，深度嵌入专业课程[[Homework\|作业]]与形成性反馈。 |

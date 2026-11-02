@@ -46,7 +46,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Disciplinary Socialization
-> 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 351–352)]]
+> 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科是一种强有力的认知亚文化环境，持续重塑学生的认识论图式，有别于单纯的知识信息载体。[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 351–352)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学科专业共同体对学生知识观、推理逻辑与学术行为的系统性涵化机制（"learn correct diction or couth behavior", Perry 1970）。
@@ -76,7 +76,7 @@ updated: 2026-11-02
 
 > [!feature] 学科社会化的核心要素
 > - **学科[[Epistemology\|认识论]]文化的浸润** 不同学科在知识确定性、[[Paradigm\|范式]]共识与真理标准上存在本质差异（Biglan 学科分类），硬科学与工程强调公理标准，文社科强调多重视角解构。
-> - **专业评价与隐性[[Discourse|话语]]规范** 考试形式、论文评阅标准与导师学术期望，不断奖赏符合本学科认识论规范的思考方式，惩罚或淘汰异质思维。
+> - **专业评价与隐性[[Discourse|话语]]规范** 考试形式、文章评阅标准与导师学术期望，不断奖赏符合本学科认识论规范的思考方式，惩罚或淘汰异质思维。
 > - **认知图式的累积极化效应** 随着就读年限增加，不同学科环境持续反向拉大软硬学科学生在确定性信念与反思能力上的差距。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 363)]]
 
 > [!logic-map]- 学科分化的双重机制因果链

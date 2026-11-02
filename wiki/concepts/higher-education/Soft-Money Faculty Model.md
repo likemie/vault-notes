@@ -44,7 +44,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Soft-Money Faculty Model
-> 软钱教职模式（Soft-Money Faculty Model）是指[[Research Universities|研究型大学]]或医学院在聘任学术与科研人员时，不提供稳定的机构预算硬钱（hard money）兜底，而是明确要求或常态化依赖教师通过申请外部竞争性科研基金（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 等项目拨款）来支付自身全部或大部分薪资（salary buyout）的雇佣机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
+> 软钱教职模式（Soft-Money Faculty Model）是指[[Research Universities|研究型大学]]或医学院在聘任学术与科研人员时，不提供稳定的机构预算硬钱（hard money）兜底，是明确要求或常态化依赖教师通过申请外部竞争性科研基金（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 等项目拨款）来支付自身全部或大部分薪资（salary buyout）的雇佣机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向大学与教师之间财务契约的根本重构：大学将办学人力成本系统性[[Externalization|外部化]]转嫁给联邦资助机构，教师在很大程度上演化为自负盈亏的项目承包者。
@@ -105,7 +105,7 @@ updated: 2026-11-02
 > [!dev-timeline] 软钱模式演进历程
 > - **1950s — 萌芽探索** 大学在联邦科研资助扩张初期开始试水将部分教师夏季薪酬或研究补贴列入联邦资助报销。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 > - **1960s — 制度化与行业普及** 伴随大学科研能力竞赛，大学游说联邦政府全面开放对学年专任薪资的覆盖支持；至 1960 年代末，全美近半数医学院教师已常规由联邦资助支付薪酬。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
-> - **1990s至今 — 极化依赖与制度危机** 在 [[National Institutes of Health|NIH]] 经费倍增及后续紧缩周期中，软钱职位成为公立与私立大学低风险招募明星团队的主要杠杆；医学与生命科学领域软钱比例逼近 100%，引发广泛的科学家职业安全与学术自主性危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 28, 30)]]
+> - **1990s至今 — 极化依赖与制度危机** 在 [[National Institutes of Health|NIH]] 经费倍增及后续紧缩周期中，软钱职位成为公立与私立大学低风险招募明星团队的主要手段；医学与生命科学领域软钱比例逼近 100%，引发广泛的科学家职业安全与学术自主性危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 28, 30)]]
 
 ---
 

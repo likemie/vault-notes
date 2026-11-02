@@ -61,12 +61,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Façade of Rationality
-> **[[Façade of Rationality|理性表象]]（Façade of Rationality）** 是指在面临多重解释冲突、公众价值争议以及因果链条不可检验的公共政策生态中，量化数据与指标体系为决策行动所构筑的具备科学客观性、计算精确性与跨情境普适性的外观形态。该[[Construct\|构念]]揭示了量化指标在现代治理中并非单纯的技术测量工具，而是一种政治合法化装置，它通过遮蔽政策选择背后的意识形态偏向与价值权衡，使充满主观裁量的决策过程呈现为基于客观证据的理性产物。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
+> **[[Façade of Rationality|理性表象]]（Façade of Rationality）** 是指在面临多重解释冲突、公众价值争议以及因果链条不可检验的公共政策生态中，量化数据与指标体系为决策行动所构筑的具备科学客观性、计算精确性与跨情境普适性的外观形态。该[[Construct\|构念]]揭示了量化指标在现代治理中是一种政治合法化装置，它通过遮蔽政策选择背后的意识形态偏向与价值权衡，使充满主观裁量的决策过程呈现为基于客观证据的理性产物，有别于单纯的技术测量工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向数字指标对政策决策过程的象征性包装机制，即数字如何通过抽离地方复杂情境，制造出不受政治利益干扰的客观中立假象。
 > - **用途** 帮助研究者透视为何在实证证据严重过剩与信息孤岛频发的时代，政策制定者依然狂热追逐排名、基准与量化评分，并揭示数字背后的政治修辞本质。
-> - **边界** 不适用于解释完全处于技术封闭领域且因果机制高度明确的工程化决策，亦不等于政策制定者完全否定科学，而是强调数字在政治博弈中的工具化与象征性利用。
+> - **边界** 不适用于解释完全处于技术封闭领域且因果机制高度明确的工程化决策，亦不等于政策制定者完全否定科学，是强调数字在政治博弈中的工具化与象征性利用。
 
 > [!citation-card] 数字作为理性表象的[[Scaffolding\|脚手架]]与叙事激发
 > 面对充满歧义性的政策环境，数字而非质性叙事更有能力以“理性、精确与普适的表象”为基于证据的决策提供脚手架。政策制定者之所以迷恋数字，是因为数字能够激发叙事，从而使他们能够从自身的政治视角出发去阐释数字，即讲述关于指标含义的故事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
@@ -74,7 +74,7 @@ updated: 2026-11-02
 > *As has been explained by several authors (Espeland 2015; Martens and Niemann 2013; Mennicken and Espeland 2019), numbers rather than narratives are better positioned to scaffold evidence-informed policymaking with the ‘façade of rationality, precision, and universality’ (Steiner-Khamsi 2013, 21). Policymakers are enamored with numbers because numbers ‘evoke narratives’ and, therefore, enable them to interpret the numbers, that is, tell ‘stories about what the indicators mean’ (Espeland 2015, 65) from their own political perspective.*
 
 > [!citation-card] 比较教育政策中的理性外衣与借用修辞
-> 当政府面临国内旷日持久的教育争端或财政紧缩压力时，外部国际指标与最佳实践排名被迅速动员为无可辩驳的硬事实。这种对外部量化成果的援引并非为了寻求真实的技术改进，而是为了给既定的政治决断披上一层理性与科学的合法外衣。(Steiner-Khamsi, 2013, pp. 20–22)
+> 当政府面临国内旷日持久的教育争端或财政紧缩压力时，外部国际指标与最佳实践排名被迅速动员为无可辩驳的硬事实。这种对外部量化成果的援引是为了给既定的政治决断披上一层理性与科学的合法外衣，有别于为了寻求真实的技术改进。(Steiner-Khamsi, 2013, pp. 20–22)
 
 > [!boundary]- 概念边界
 > - 不等于 [[Governing by Numbers\|数字治理]] — 数字治理关注的是通过跨国测评与指标监测重构权力分配的宏观规制体制，而理性表象聚焦于数字如何在微观与中观政策[[Discourse|话语]]中发挥合法化包装与修辞遮蔽功能。
@@ -89,7 +89,7 @@ updated: 2026-11-02
 > | **分析对象** | 决策者对量化指标的[[Discourse\|话语]]包装与象征利用 | 跨国组织与国家机器运行的量化规制体制 | 专家系统依循工程逻辑实施的纯粹技术计算 |
 > | **核心机制** | 借数字的客观性假象遮蔽政治利益并保留阐释自由 | 通过指标设定、排名比较与[[Peer Debriefing\|同行审议]]实施间接规制 | 依据严格的成本效益与投入产出模型决定资源配置 |
 > | **合法性来源** | 普适、精确的科学外观（实际服务于政治意图） | 标准化数据的大规模采集与跨国可比性 | [[Value Neutrality\|价值中立]]的工具理性与专业化计算规程 |
-> | **适用情境** | 充满价值纷争、高度不确定性与公众审视的政治决策 | 全球化多边监测网络与后[[New Public Management\|新公共管理]]问责框架 | 目标单一、因果链条闭合的封闭型技术官僚体系 |
+> | **适用情境** | 充满价值纷争、高度不确定性与公众审视的政治决策 | 全球化多边监测网络与后[[New Public Management\|新公共管理]]问责框架 | 目标单一、因果链条封闭的封闭型技术官僚体系 |
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-11-02
 > **探讨维度　数字[[Commensuration\|通约]]与叙事空间** 探讨量化技术如何兼顾政治防御功能与施政主观裁量需求，揭示客观表象与政治叙事之间的共生机制。
 
 > [!claim] Espeland, W.
-> **数字激发政治叙事** 数字指标的巨大魅力不在于其客观消除了政治主观性，而在于其表象上的技术冷酷性成功将价值冲突转化为技术问题。数字在抽离语境的同时释放了巨大的阐释空间，使执政官员既能享有科学严谨的声誉资本，又能游刃有余地根据意识形态诉求编织符合自身利益的政策叙事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
+> **数字激发政治叙事** 数字指标的巨大魅力在于其表象上的技术冷酷性成功将价值冲突转化为技术问题，有别于其客观消除了政治主观性。数字在抽离语境的同时释放了巨大的阐释空间，使执政官员既能享有科学严谨的声誉资本，又能游刃有余地根据意识形态诉求编织符合自身利益的政策叙事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 
 ---
 

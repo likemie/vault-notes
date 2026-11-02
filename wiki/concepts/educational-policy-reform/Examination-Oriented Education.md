@@ -83,7 +83,7 @@ updated: 2026-11-02
 > *...the tradition of examination-driven education, combined with the predominant importance of Gaokao (College Entrance Examination) in college admission ... has reinforced [[Social Support|social support]] for current schooling practices.* ([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 589]])
 
 > [!citation-card] 读写教育的技能主义与应试异化
-> 人们阅读不再是为了探索善，而是为了寻找中心句和圈出过渡词。
+> 人们阅读不再是为了探索善，是为了寻找中心句和圈出过渡词。
 >
 > *People no longer read to explore the good, but to find topic sentences and circle transitional words.* (Collin, 2024, p. 16/149; 引自 Smith, 2026, p. 5)
 
@@ -96,7 +96,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 历史演变与跨文化演进
 > - **6 世纪至 1905 年 — 中国[[Civil Service Examination|科举制度]]确立“以考选士”传统** 建立统一规范的标准化选拔，将考试胜出与政治精英权力、社会向上流动深度捆绑，奠定了全社会重考崇文的集体无意识。
-> - **20 世纪初至 1970 年代 — 现代选拔考试的确立与工具化蜕变** 中国废科举后现代学校体系仍以大学联考为轴心；而在西方，阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，原本以道德神学与社会至善探究为核心的读写教学，逐步蜕变顺从于政客要求的标准化技能考核。
+> - **20 世纪初至 1970 年代 — 现代选拔考试的确立与工具化转变** 中国废科举后现代学校体系仍以大学联考为轴心；而在西方，阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，原本以道德神学与社会至善探究为核心的读写教学，逐步转变顺从于政客要求的标准化技能考核。
 > - **1977 年至今 — [[Gaokao|高考]]制度恢复与应试教育机制的固化** 高考被确立为最公平且具备社会共识的阶层流动天梯；学校被卷入逐级目标分解的成绩问责网络，形成了学校、教师、家长与学生合力维系的坚固系统（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）。
 > - **1990 年代至今 — [[Quality Education|素质教育]]政策推行与“双轨平行”分化** 官方将素质教育确立为核心国策，旨在纠偏应试恶疾；然而政策分析表明，应试教育在“现实和实质中”主导学校日常，素质教育则多停留在“修辞与形式中”，形成二元共存（You, 2019; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
 > - **2020 年代 — [[High-Stakes Testing|高利害测验]]与[[Computerization of Education|教育计算机化]]批判** 朱莉·埃尔·勒恩德（Julie E. Learned et al., 2020）揭示西方标准化考试迫使教师推行公式套路写作并诱发情绪创伤；威廉·戴维斯（William Davies, 2022）与斯宾塞·J·史密斯（Spencer J. Smith, 2026）进一步论证，应试体系对模式识别的推崇构成了[[Computerization of Education|教育计算机化]]，并在生成式 AI 时代前置性诱发并系统放大了学习者的[[Formative Epistemic Injustice|成长性认识不正义]]。
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜应试教育是通过多层制度问责与社会流动认同自稳运行的高协调性活动系统
-> **探讨维度　制度协调性与阻力场** 应试教育绝非个别教师理念落后的孤立现象，而是一个各要素紧密咬合、自我维系的制度化活动系统。
+> **探讨维度　制度协调性与阻力场** 应试教育是一个各要素紧密咬合、自我维系的制度化活动系统，有别于个别教师理念落后的孤立现象。
 
 > [!claim] Wang & McLaughlin
 > **系统维系机制与教师的道德理性** 在四所中国学校的[[Fieldwork|田野调查]]中，应试教育表现为贯穿课堂讲授、统考数据分析、行政问责与家校期望的整体系统。教师即便认可并理解[[Learner-Centred Education|以学习者为中心的教育]]（LCE），但在强大的行政目标分解与家长高压下，仍必然将提分置于首位。更关键的是，教师将帮助薄弱背景学生通过标准化考试实现阶层向上流动视为自身的职业道德责任；这种来自历史传统与现实公平诉求的深层认同，赋予了应试教育坚不可摧的合法性。（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp. 593–595]]）
@@ -161,7 +161,7 @@ updated: 2026-11-02
 > **探讨维度　改革悖论与妥协策略** 教学改革的推进并不取决于理念的先进性，而取决于其能否兼容应试成绩不下滑的底线预设。
 
 > [!claim] Wang & McLaughlin; Schulte
-> **应试底线对教学创新的工具化收编** 实证研究显示，应试体系与教学创新并非简单的排斥关系：在既有成绩稳居前列（前 5%）的优势学校，教师倾向于安于现状，继续维持教师中心讲授；而在渴望突破提分天花板的学校，LCE 教学法反而被工具化采纳为激发学生分析能力的高效手段。但无论何种情境，确保考试成绩不出现任何下滑是推行任何教学创新的绝对前置条件，这证明应试逻辑构成了主导教育实践的最高规范框架。（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp. 595–600]]; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）
+> **应试底线对教学创新的工具化收编** 实证研究显示，应试体系与教学创新并不简单的排斥关系：在既有成绩稳居前列（前 5%）的优势学校，教师倾向于安于现状，继续维持教师中心讲授；而在渴望突破提分天花板的学校，LCE 教学法反而被工具化采纳为激发学生分析能力的高效手段。但无论何种情境，确保考试成绩不出现任何下滑是推行任何教学创新的绝对前置条件，这证明应试逻辑构成了主导教育实践的最高规范框架。（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp. 595–600]]; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）
 
 ---
 
@@ -171,7 +171,7 @@ updated: 2026-11-02
 > | **系统维系命题** | 应试教育是由行政问责、家长期望与教师道德责任多层锁定的高协调性自稳活动系统 | 东亚社会、中国基础教育改革与[[Intercultural Education\|跨文化教育]]治理 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; You (2019) |
 > | **计算机化异化命题** | 追求标准化得分将教学窄化为模式识别与公式套路，前置剥夺了学生的深层探究权与[[Epistemic Agency\|认识主体性]] | 高利害测验、欧美与全球标准化读写教学改革 | Learned et al. (2020); Collin (2024); Davies (2022); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **技术共谋致残命题** | 生成式 AI 与应试套路发生病理共振，全面接管心智实践并极度放大成长性认识不正义 | 人工智能教育采纳、课堂写作学与技术伦理批判 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
-> | **改革妥协命题** | 教学创新在实践中被严格规约于“确保分数不降”的底线之下，面临被工具化收编的命运 | 教学法改革、LCE [[Going Native\|本土化]]与课程[[Implementation and Process Evaluation\|实施评估]] | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
+> | **改革妥协命题** | 教学创新在实践中被严格规范于“确保分数不降”的底线之下，面临被工具化收编的命运 | 教学法改革、LCE [[Going Native\|本土化]]与课程[[Implementation and Process Evaluation\|实施评估]] | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 
 ---
 
@@ -207,7 +207,7 @@ updated: 2026-11-02
 > | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 中国东部与中部 4 所中学（2 所城市、2 所农村，含示范校与普通校） | 质性多案例研究与[[Third Generation Activity Theory\|活动理论]]分析 | 教师主导讲授比例、统考数据分析模式、行政考核与改革动力 | 100% 学校在统考后逐题分析数据并对齐教学；农村与后进校为突破瓶颈采纳 [[Learner-Centred Education\|LCE]]，但全员视“成绩不降”为绝对底线 | 证实应试教育是由多层行政问责与社会道德信念锁定的高稳态活动系统 |
 > | Learned et al. (2020)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 欧美中学读写课堂 | 质性[[Fieldwork\|田野调查]]与师生追踪 | [[High-Stakes Testing\|高利害测验]]对课堂生态与写作心理的影响 | 教师在高压测验下被迫放弃自由阅读，全盘转向公式套路写作训练；学生表现出普遍的焦虑与情绪创伤 | 揭示西方高利害测验与公式写作对应试心理异化的跨国共性 |
 > | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国教育政策[[Discourse\|话语]]与历史文本 | 历史制度主义与[[Discourse Analysis\|话语分析]] | 应试教育与[[Quality Education\|素质教育]]二元对立的政策建构 | 两者在政策文本中被建构为不可调和的对立[[Paradigm\|范式]]，但在学校日常管理中高度妥协与混杂 | 揭示应试教育话语背后的意识形态与政治治理逻辑 |
-> | Collin (2024)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 美国读写教育百年历史与课程档案 | 历史社会学与读写史考察 | 读写教学目标演进与测验技能异化 | 读写教育彻底放弃了早期追求道德真理与社会至善的探究目标，退化为圈过渡词等细碎技能操练 | 确立了读写教育向应试技能主义蜕变的工具化历史脉络 |
+> | Collin (2024)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 美国读写教育百年历史与课程档案 | 历史社会学与读写史考察 | 读写教学目标演进与测验技能异化 | 读写教育彻底放弃了早期追求道德真理与社会至善的探究目标，退化为圈过渡词等细碎技能操练 | 确立了读写教育向应试技能主义转变的工具化历史脉络 |
 
 ---
 

@@ -155,7 +155,7 @@ updated: 2026-11-02
 > **探讨维度　[[Domain Specificity\|学科特异性]]与家族相似性** 探讨 STEM 内部科学、工程与社会议题在[[Knowledge Building Theory|知识建构]]标准、证据要求与评价尺度上的深层差异，防范将 STEM 简化为无差别的抽象五步法。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
-> **跨学科规程异质性与[[Epistemic Practices\|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method\|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality\|因果推断]]规范；[[Engineering Education|工程教育]]（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues\|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity\|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
+> **跨学科规程异质性与[[Epistemic Practices\|认识论实践]]矩阵** STEM 教育有别于将所有门类融为单一教条的[[Scientific Method\|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality\|因果推断]]规范；[[Engineering Education|工程教育]]（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues\|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步整合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity\|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 ---
 
@@ -168,13 +168,13 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜在地缘科技竞争加剧背景下国家通过立法将 STEM 教育建制化为产业安全与战略人才再生产的法定支柱
-> **探讨维度　地缘产业竞争与国家科技人才蓄水池** 探讨当代大国科技竞争如何推动 STEM 教育从单纯的学科与教学法改革，跃升为由国家立法全方位干预、服务于尖端产业劳动力再生产与战略人才池扩充的[[Modern Industrial Policy|现代产业政策]]工具。
+> **探讨维度　地缘产业竞争与国家科技人才蓄水池** 探讨当代大国科技竞争如何推动 STEM 教育从单纯的学科与教学法改革，提升为由国家立法全方位干预、服务于尖端产业劳动力再生产与战略人才池扩充的[[Modern Industrial Policy|现代产业政策]]工具。
 
 > [!claim] [[Argument_Brint_2023_IHE|Brint (2023)]]
 > **国际人才池博弈驱动的理工教育立法动员** 面对大国地缘科技竞争（尤其中国高校 STEM 毕业生年产出规模达到美国四倍的战略赶超态势），创新型国家放弃了以往自由放任的教育供给机制，直接通过国家产业法案（如《[[CHIPS and Science Act|芯片与科学法案]]》）授权数十亿美元注入理工科教育，并将国家研究生研究奖学金（GRFP）年度名额从 2,000 名扩充 50% 至 3,000 名，从国家顶层强力维系尖端科研攻关所需的高层次理工人才蓄水池。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
 > [!claim] [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]]
-> **产业人才断层倒逼大学全链条贯通与科研团队重塑** 在战略关键产业（如半导体制造）面临巨额岗位缺口（全美至 2030 年预计缺口达 140 万）的严峻现实下，STEM 人才培养不再局限于 K-12 阶段的普及教育，而是沿着教育链条延伸至[[Research Universities|研究型大学]]前沿科技攻关；通过有组织的学者发展工作坊，推动电气工程、计算机与材料物理等系所打破壁垒，孵化出直接服务于国家先进制造战略的跨学科科研共同体与产学协同网络。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
+> **产业人才断层倒逼大学全链条贯通与科研团队重塑** 在战略关键产业（如半导体制造）面临巨额岗位缺口（全美至 2030 年预计缺口达 140 万）的严峻现实下，STEM 人才培养不再局限于 K-12 阶段的普及教育，是沿着教育链条延伸至[[Research Universities|研究型大学]]前沿科技攻关；通过有组织的学者发展工作坊，推动电气工程、计算机与材料物理等系所打破壁垒，孵化出直接服务于国家先进制造战略的跨学科科研共同体与产学协同网络。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
 
 ---
 

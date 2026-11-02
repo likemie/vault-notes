@@ -52,12 +52,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Research-Rich Teaching Profession
-> **研究充实型教学专业（Research-Rich Teaching Profession）** 指将教学职业从常规性、执行性的技术工匠，重塑为以系统探究、实证证据审议与[[Reflexivity\|反思性]]实践为特征的高阶专业形态（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, p. 134]]）。该[[Construct\|构念]]源于澳大利亚学者西蒙·怀特（Simone White）领衔的澳大利亚教育研究协会（Australian Association for Research in Education, AARE）国家研究项目，主张教师不仅是教学技能的操作者，更是[[Research Literacy\|研究素养]]与[[Phronesis\|实践智慧]]的主体；通过重构职前教师教育课程、健全持续专业发展（Continuing Professional Development, CPD）制度，以及建构深度的大学-学区伙伴关系，促使教育科研成果内生化为教师日常教学决策、专业对话与专业身份认同的基石。
+> **研究充实型教学专业（Research-Rich Teaching Profession）** 指将教学职业从常规性、执行性的技术工匠，重塑为以系统探究、实证证据审议与[[Reflexivity\|反思性]]实践为特征的高阶专业形态（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, p. 134]]）。该[[Construct\|构念]]源于澳大利亚学者西蒙·怀特（Simone White）领衔的澳大利亚教育研究协会（Australian Association for Research in Education, AARE）国家研究项目，主张教师不仅是教学技能的操作人员，更是[[Research Literacy\|研究素养]]与[[Phronesis\|实践智慧]]的主体；通过重构职前教师教育课程、健全持续专业发展（Continuing Professional Development, CPD）制度，以及建构深度的大学-学区伙伴关系，促使教育科研成果内生化为教师日常教学决策、专业对话与专业身份认同的基石。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 从职业属性与专业知识基础高度，确立学术研究在教师身份建构与专业实践中的内生地位。
 > - **理论用途** 突破将[[Evidence-Based Education\|循证教育]]窄化为“自上而下行政灌输”或“外部科研成果机械套用”的工具主义倾向，从专业发展生态视角提供系统性转型支柱。
-> - **实践边界** 强调专业探究与课堂现场实践的深度融合，绝非要求一线教师脱离课堂成为专职象牙塔研究者，亦区别于单纯由外部问责驱动的合规型数据填报。
+> - **实践边界** 强调专业探究与课堂现场实践的深度融合，并不要求一线教师脱离课堂成为专职象牙塔研究者，亦区别于单纯由外部问责驱动的合规型数据填报。
 
 > [!citation-card] 教学专业研究充实化的制度诉求与专业重塑
 > [[International Education\|国际教育]]界推动学校与教育系统利用研究证据的努力不断深化，澳大利亚所倡导的强化研究充实型教学专业，旨在从国家层面确立研究素养在教师专业标准与教学改进中的核心地位（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, p. 134]]）。这一构念促使教学从依赖个体直觉或外部指令的经验性工作，转变为以严谨实证证据为支撑、以审慎反思为中介的反思性专业实践。
@@ -102,7 +102,7 @@ updated: 2026-11-02
 > **探讨维度　专业素养与自主判断** 探讨学术[[Research Literacy\|研究素养]]如何从外在于教师的技能要求，转变为保障专业决策自主性、抵御[[Technical Rationality\|技术理性]]控制的核心动力。
 
 > [!claim] White, S. & [[Mark Rickinson\|Rickinson, M.]]
-> **研究素养内生化保障专业自主裁量** 教学绝非机械照搬最佳证据清单的技术化操作，面对复杂多变的真实课堂，外部证据必须经过一线教师审慎的[[Professional Judgment\|专业判断]]与情境转译方能产生成效；强化研究充实型教学专业的核心，正是通过系统培育教师的研究素养与反思心智倾向，使教师摆脱对外部标准化方案的盲从，真正拥有基于实证知识进行专业裁量的[[Discourse|话语]]权与主体性。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, p. 134)]]
+> **研究素养内生化保障专业自主裁量** 教学有别于机械照搬最佳证据清单的技术化操作，面对复杂多变的真实课堂，外部证据必须经过一线教师审慎的[[Professional Judgment\|专业判断]]与情境转译方能产生成效；强化研究充实型教学专业的核心，正是通过系统培育教师的研究素养与反思心智倾向，使教师摆脱对外部标准化方案的盲从，真正拥有基于实证知识进行专业裁量的[[Discourse|话语]]权与主体性。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, p. 134)]]
 
 ---
 

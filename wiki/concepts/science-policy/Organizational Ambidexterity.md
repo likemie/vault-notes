@@ -82,7 +82,7 @@ aliases:
 ---
 
 > [!feature] 组织双元性的三大实现机制
-> - **结构性双元（Structural Ambidexterity）** 在组织内部建立物理或制度隔离的双元单元（例如将前沿研发或数字创新部门与传统业务部门独立开来，但由高层战略统摄）。（p. 796）
+> - **结构性双元（Structural Ambidexterity）** 在组织内部建立物理或制度隔离的双元单元（例如将前沿研发或数字创新部门与传统业务部门独立开来，但由高层战略统领）。（p. 796）
 > - **情境性双元（Contextual Ambidexterity）** 赋予一线员工在日常工作中自主分配时间用于常规维护与探索创新的行为自主权。（pp. 796–797）
 > - **[[Lead-and-Learn Paradigm|引领与学习]]型领导力（Lead-and-Learn Leadership）** 组织领导者具备在合规问责与高风险试错之间提供制度保护与跨部门协同调度的战略能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 

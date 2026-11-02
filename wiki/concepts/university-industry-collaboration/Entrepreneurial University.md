@@ -86,12 +86,12 @@ updated: 2026-11-02
 > - **宏观演化视阈** 在新一代[[Mission-Oriented Innovation Policy|使命导向型创新政策]]下，创业型大学正在超越狭隘的专利创收与[[Technology Transfer|技术转让]]，演化为围绕联合国[[UN Sustainable Development Goals|可持续发展目标]]（Sustainable Development Goals, SDGs）开展跨学科攻关与社会实验的活体实验室（Living Labs）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
 
 > [!citation-card] 荷兰高教改革对极端自由市场企业化方案的理论否决
-> 为了变得更具创业性，在竞争市场上成为灵活适应的教育与科研商品提供者的愿望被认为需要更多自主权和企业化结构。一群知名显赫人士起草了一份企业家型大学计划，主张大学应被允许自主筛选学生、每门课程收取差别化费用并在资本市场上借贷。尽管这样一所在自由市场环境下运营的大学对某些人颇具吸引力，但这绝非政府所构想的模型。改革并不意味着政府撤出公共任务。政府与社会拒绝了这种极端的新自由主义自由市场模型，坚守公共任务与社会中介治理。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 147)]]
+> 为了变得更具创业性，在竞争市场上成为灵活适应的教育与科研商品提供者的愿望被认为需要更多自主权和企业化结构。一群知名显赫人士起草了一份企业家型大学计划，主张大学应被允许自主筛选学生、每门课程收取差别化费用并在资本市场上借贷。尽管这样一所在自由市场环境下运营的大学对某些人颇具吸引力，但这有别于政府所构想的模型。改革并不意味着政府撤出公共任务。政府与社会拒绝了这种极端的新自由主义自由市场模型，坚守公共任务与社会中介治理。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 147)]]
 >
 > *In order to become more 'entrepreneurial'… A group of prominent and highly esteemed figures drew up a plan for an entrepreneurial university… Although such a university operating in a free-market situation may seem attractive to some, it definitely is not the model the Dutch government had in mind… the government and society rejected this extreme neo-liberal free-market entrepreneurial university model in favour of maintaining public tasks and social intermediate governance.*
 
 > [!boundary]- 概念边界
-> - 不等于 传统象牙塔[[Research Universities|研究型大学]] — 后者以纯粹学术发现与论文发表为唯一旨趣，刻意与外部商业利益保持绝缘距离；创业型大学主动拆解制度藩篱，将知识转化为实际生产力。
+> - 不等于 传统象牙塔[[Research Universities|研究型大学]] — 后者以纯粹学术发现与文章发表为唯一旨趣，刻意与外部商业利益保持绝缘距离；创业型大学主动拆解制度藩篱，将知识转化为实际生产力。
 > - 不等于 营利性企业化大学（[[Corporate University]]） — 企业化大学主要作为母公司的内部培训分支运营，不具备法定学术法人地位与学术自由；创业型大学保留完整的独立学术建制与公立教育职能。
 > - 不等于 极端自由市场商业实体 — 创业型大学的组织自主性与灵活性并不等同于彻底私有化和逃离公共责任；特别是在欧陆高教体系中，大学拒绝将自身异化为追逐资本暴利与自定高额学费的自由市场投机商。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148)]]
 
@@ -100,7 +100,7 @@ updated: 2026-11-02
 > [!contrast-table] 创业型大学演进形态与相关组织模式对照
 > | 组织模式 | 核心使命与价值导向 | 组织架构与中介工具 | 知识产出与治理机制 |
 > |---|---|---|---|
-> | **传统[[Research Universities\|研究型大学]]** | 基础科学发现与学术发表，维持学术自主与象牙塔边界 | 传统单学科学系、学部与学术评议会 | 同行评议论文、专著与高层次学位人才培养 |
+> | **传统[[Research Universities\|研究型大学]]** | 基础科学发现与学术发表，维持学术自主与象牙塔边界 | 传统单学科学系、学部与学术评议会 | 同行评议论性文章、专著与高层次学位人才培养 |
 > | **第二代商业化创业型大学（1980s–2000s）** | 技术商业化、知识产权（IP）创收与区域经济增长赋能 | [[Technology Transfer Office\|技术转移办公室]]（TTO）、大学科技园、孵化器、衍生企业基金 | 授权专利、衍生公司股权套现、商业产学研发合同 |
 > | **第三代使命导向创业型大学（2010s至今）** | 应对气候变化与健康不平等[[Wicked Problem\|复杂难题]]，创造[[Public Value\|公共价值]] | 跨学科使命研究中心、活体实验室（Living Labs）、开放创新试验区 | 跨部门系统解决方案、开源公共技术资产、[[Citizen Science\|公民科学]]平台 |
 > | **企业化大学（[[Corporate University]]）** | 专门服务于母公司员工技能内训与企业战略文化宣贯 | 企业内部人力资源与培训部主导，无独立学术法人地位 | 内部认证资质与员工实操技能包 |
@@ -135,12 +135,12 @@ updated: 2026-11-02
 > **探讨维度　组织社会学与制度适应视阈** 探讨大学如何在维持传统基础研究学术声誉的同时，开辟合法获取产业资源并促进技术外溢的制度特区。
 
 > [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]]
-> **文化调适与双轨组织架构对学术张力的化解** 传统大学的院系结构天然倾向于学科内卷与纯理论论文锦标赛。创业型大学通过在传统学院之外建立跨学科研究中心与专业化[[Technology Transfer|技术转移]]架构，为转化性研发开辟了制度特区，使得学者能够在不放弃基础研究学术声誉的同时，合法获取产业研发资源并实现技术外溢。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
+> **文化调适与双轨组织架构对学术张力的化解** 传统大学的院系结构天然倾向于学科内卷与纯理论性文章锦标赛。创业型大学通过在传统学院之外建立跨学科研究中心与专业化[[Technology Transfer|技术转移]]架构，为转化性研发开辟了制度特区，使得学者能够在不放弃基础研究学术声誉的同时，合法获取产业研发资源并实现技术外溢。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
 
 ---
 
 > [!concept-proposition] 命题二｜概念验证与驻校[[Mentorship|导师制]]构成衍生企业跨越早期转化鸿沟的微观使能载体
-> **探讨维度　创新孵化与早期[[Technology Readiness Level|技术就绪度]]跃迁视阈** 剖析学术实验室原型如何通过[[Non-dilutive Funding|非稀释性资金]]与实战商业辅导，克服缺乏工艺放大与市场验证的夭折风险。
+> **探讨维度　创新孵化与早期[[Technology Readiness Level|技术就绪度]]转向视阈** 剖析学术实验室原型如何通过[[Non-dilutive Funding|非稀释性资金]]与实战商业辅导，克服缺乏工艺放大与市场验证的夭折风险。
 
 > [!claim] [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]]
 > **非稀释性概念验证基金与实战导师的赋能功能** 学术实验室产出的原型普遍缺乏工艺放大验证与市场需求论证，因而难以直接吸引私人风险资本。创业型大学通过注入非稀释性概念验证基金并引入具有实战经验的[[Entrepreneur in Residence|驻校企业家]]，在[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）3 至 5 关键阶段为学者提供商业模式打磨与市场真实测试，显著降低了初创企业的夭折率。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 147–149)]]
@@ -151,7 +151,7 @@ updated: 2026-11-02
 > **探讨维度　批判高等教育政治经济学与[[Academic Capitalism|学术资本主义]]视阈** 剖析[[Global Universities Rankings|全球大学排名]]与绩效量规如何将大学推向符号声望争夺，从而边缘化不可量化的深层[[Public Value|公共价值]]。
 
 > [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
-> **准市场指标崇拜对广义公共价值的挤压与遮蔽** 创业型大学与[[Academic Capitalism|学术资本主义]]的发展使学术界深陷准市场竞争与指标崇拜之中。[[Global Universities Rankings|全球大学排名]]与评价指标普遍以高引论文与大额科研经费为绝对导向，导致大学间的竞争异化为符号声望争夺，反而遮蔽了那些专注于本地社区服务、教学创新与长期公共福祉但难以短期量化的深层[[Public Value|公共价值]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
+> **准市场指标崇拜对广义公共价值的挤压与遮蔽** 创业型大学与[[Academic Capitalism|学术资本主义]]的发展使学术界深陷准市场竞争与指标崇拜之中。[[Global Universities Rankings|全球大学排名]]与评价指标普遍以高引文章与大额科研经费为绝对导向，导致大学间的竞争异化为符号声望争夺，反而遮蔽了那些专注于本地社区服务、教学创新与长期公共福祉但难以短期量化的深层[[Public Value|公共价值]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
 
 ---
 
@@ -167,7 +167,7 @@ updated: 2026-11-02
 > **探讨维度　比较高等教育政治经济学与公共治理模式视阈** 探讨欧洲大陆在追求大学办学灵活性与劳动力市场适应性的同时，为何坚决抵制将大学重构为完全面向资本市场的自由企业模型。
 
 > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
-> **极端自由市场企业化方案的理论缺陷与法团网络否决** [[Walter J. M. Kickert|瓦尔特·基克特]]指出，在 20 世纪 80 年代欧洲大陆高等教育去管制化改革期间，面对大学需要增强灵活性以适应劳动力市场的外部呼声，曾有社会名流起草了激进的企业家型大学自由市场方案——主张赋予大学完全像私营公司一样自主遴选生源、对不同课程收取差异化高额学费、以及在私人资本市场自由举债借贷的权力。然而，这一将高等教育完全商品化、让大学在自由市场中自负盈亏的极端新自由主义设想遭到了荷兰政府与社会各界的明确否决。改革决策层清醒地认识到，扩大办学自主权并不等同于国家撤出公共责任；大学必须维持面向全社会平等的公共准入与基础研究公共品属性。国家最终选择以一揽子总额拨款（[[Block Grants]]）和事后质量评估为特征的“间接[[Steering at a Distance|远距离操纵]]”公共治理网络，而非放任其蜕变为逐利性的自由市场商业实体。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148, 154)]]
+> **极端自由市场企业化方案的理论缺陷与法团网络否决** [[Walter J. M. Kickert|瓦尔特·基克特]]指出，在 20 世纪 80 年代欧洲大陆高等教育去管制化改革期间，面对大学需要增强灵活性以适应劳动力市场的外部呼声，曾有社会名流起草了激进的企业家型大学自由市场方案——主张赋予大学完全像私营公司一样自主遴选生源、对不同课程收取差异化高额学费、以及在私人资本市场自由举债借贷的权力。然而，这一将高等教育完全商品化、让大学在自由市场中自负盈亏的极端新自由主义设想遭到了荷兰政府与社会各界的明确否决。改革决策层清醒地认识到，扩大办学自主权并不等同于国家撤出公共责任；大学必须维持面向全社会平等的公共准入与基础研究公共品属性。国家最终选择以一揽子总额拨款（[[Block Grants]]）和事后质量评估为特征的“间接[[Steering at a Distance|远距离操纵]]”公共治理网络，而非放任其转变为逐利性的自由市场商业实体。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148, 154)]]
 
 ---
 
@@ -175,7 +175,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **文化调适与组织解困命题** | 通过特区架构化解传统象牙塔学术追求与产业参与之间的制度冲突 | 大学[[Technology Transfer Office\|技术转移办公室]]设立、产学研发中心孵化 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] |
-> | **早期验证跨越鸿沟命题** | 非稀释性 PoC 资金与驻校[[Mentorship\|导师制]]赋能技术在[[Valley of Death\|死亡之谷]]实现商业化跃迁 | [[University Spin-Out\|大学衍生企业]]孵化、早期原型商业模式验证 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] |
+> | **早期验证跨越鸿沟命题** | 非稀释性 PoC 资金与驻校[[Mentorship\|导师制]]赋能技术在[[Valley of Death\|死亡之谷]]实现商业化转向 | [[University Spin-Out\|大学衍生企业]]孵化、早期原型商业模式验证 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] |
 > | **学术资本主义批判命题** | 准市场竞争与排名崇拜诱发符号声望争夺，遮蔽长远公共价值 | 大学全球排名审计、绩效考核量规批判 | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] |
 > | **使命导向活体实验室命题** | 超越专利创收狭隘诉求，协同多方主体共同开展应对社会挑战系统实验 | 联合国可持续发展目标（SDGs）、欧盟地平线使命攻关 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **公共网络拒斥极端市场命题** | 否决大学自主高收费与资本举债的极端企业化方案，坚守公共品底线 | 欧洲高教去管制化改革、高教财政体制与国家间接调控 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
@@ -207,7 +207,7 @@ updated: 2026-11-02
 > > [!axis] 商业指标锦标赛 vs 广泛[[Public Value|公共价值]]贡献
 > > 反思[[Global Universities Rankings|全球大学排名]]对创业型大学实践导向的制度扭曲。
 > >
-> > - **指标锦标赛派** 追求在主流排行榜中争夺论文引用率、大额产业资助金额与专利转化率等可量化符号指标。
+> > - **指标锦标赛派** 追求在主流排行榜中争夺文章引用率、大额产业资助金额与专利转化率等可量化符号指标。
 > > - **公共价值反思派** 批评主流排名未能建立衡量大学在社区治理、社会公正与生态恢复等广义创业贡献上的评价工具，掩盖了深层公共福祉。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
 
 ---
@@ -246,4 +246,4 @@ updated: 2026-11-02
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 详尽剖析[[University Spin-Out|大学衍生企业]]跨越早期转化鸿沟过程中概念验证基金与[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）[[Mentorship|导师制]]的实操文献。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 记录 20 世纪 80 年代荷兰高教改革在面对财政紧缩时明确否决极端自由市场“企业家型大学”方案，转而探索维系公共任务与“间接[[Steering at a Distance|远距离操纵]]”体制的经典比较行政研究。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 深入剖析创业型大学与[[Academic Capitalism|学术资本主义]]在符号权力与排名指标盲区上的经典文献。
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨高校在使命导向政策与跨界共创网络中向应对全球社会挑战之活体实验室演进的理论文献。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨高校在使命导向政策与跨界共创网络中向应对全球社会挑战之活体实验室演进的理论性文献。

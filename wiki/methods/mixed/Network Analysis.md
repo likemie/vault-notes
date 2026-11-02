@@ -9,7 +9,7 @@ summary: "通过识别行动者、关系、节点和连接来测量社会与学�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 64
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
@@ -82,7 +82,8 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
@@ -93,10 +94,11 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -245,3 +247,4 @@ updated: 2026-10-30
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Educational Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 抓取南亚与中亚 12 国 1,864 名政商学界精英与 115 个中国官方媒体及外交官的 Twitter 互动网络，运用 Louvain 社区发现算法、度中心度与中介中心度分析跨国社交信息扩散，揭示官方媒体作为前沿推送方与外交官作为守门人的结构特征。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 综合运用超图知识网络与跨学科合著网络分析，揭示生物医药实体关联局限于近邻节点的拓扑路径依赖，并通过网络随机游走演化模型精准复现新兴学科合作巨连通分支相变与生产力分布。（pp. 2–3）

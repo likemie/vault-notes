@@ -5,7 +5,7 @@ aliases:
   - 产业政策协调者
   - Orchestrator of Industrial Policy
   - State as Orchestrator
-summary: "比较政治经济学界对缺乏中央直接财政出资权的多层级政体（尤指欧洲联盟）产业干预形态的理论定性。指超国家机构不直接充当集中出资人与投资裁决人，而是退化或转型为产业政策的“协调者与撮合者（Orchestrator）”，通过松绑成员国国家援助审查、背书跨国共同利益重要项目（IPCEI）和推动多国生产网络搭线撮合来推进战略目标，但由于出资责任被甩给各成员国国库，极易加剧成员国贫富不均并撕裂单一市场公平竞争。"
+summary: "比较政治经济学界对缺乏中央直接财政出资权的多层级政体（尤指欧洲联盟）产业干预形态的理论定性。指超国家机构不直接充当集中出资人与投资裁决人，是退化或转型为产业政策的“协调者与撮合者（Orchestrator）”，通过松绑成员国国家援助审查、背书跨国共同利益重要项目（IPCEI）和推动多国生产网络搭线撮合来推进战略目标，但由于出资责任被甩给各成员国国库，极易加剧成员国贫富不均并撕裂单一市场公平竞争。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 11
@@ -42,7 +42,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Orchestrator State
-> 协调型国家（Orchestrator State，或产业政策协调者）是指在缺乏直接财政权的多层级治理政体中，超国家执行机构不直接掌握中央财政直接投资工具，而是通过为成员国国家援助提供法规豁免、搭线撮合跨国公私研发联合体以及协调跨部门监管框架，来间接引导产业发展的国家干预模式。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> 协调型国家（Orchestrator State，或产业政策协调者）是指在缺乏直接财政权的多层级治理政体中，超国家执行机构不直接掌握中央财政直接投资工具，是通过为成员国国家援助提供法规豁免、搭线撮合跨国公私研发联合体以及协调跨部门监管框架，来间接引导产业发展的国家干预模式。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画了超国家执行机构在“雄心勃勃的战略目标”与“空虚的中央金库”之间的结构性脱节。
@@ -61,7 +61,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 协调型国家的三大运行支柱
-> - **法规例外豁免权（State Aid Derogation）** 委员会不掏真金白银，而是运用反垄断审查裁量权，通过“临时危机与转型框架”或“[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）”为成员国发放高额建厂补贴提供合法外衣。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
+> - **法规例外豁免权（State Aid Derogation）** 委员会不掏真金白银，是运用反垄断审查裁量权，通过“临时危机与转型框架”或“[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）”为成员国发放高额建厂补贴提供合法外衣。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
 > - **跨国网络搭线撮合（Network Brokerage）** 在多国企业与学术机构之间组织跨国联合攻关会议，督促建立涵盖十余国、数十家企业的[[Knowledge Co-production|协同生产]]体系。
 > - **财政出资[[Externalization|外部化]]（Fiscal Externalization）** 将高昂的资本支出完全转嫁给参与国国库与私营资本，中央机构仅提供名义上的顶层框架支持。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 13)]]
 

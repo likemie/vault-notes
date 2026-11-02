@@ -82,7 +82,7 @@ updated: 2026-11-02
 > - **边界** 表层知识具有基础作用，记忆也不必然等于[[Rote Learning\|机械学习]]。需要判断事实性知识是学习终点，还是建立联系、解释和迁移的基础。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 80, 84–85)]]
 
 > [!boundary]- 概念边界
-> - **不用于给学生分类** 把 Robert 称为表层学习者，会把可改变的学习方式误写成个人缺陷。Robert 在当前任务与教学情境中采用表层方式，更符合原文含义。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–58)]]
+> - **不用于给学生分类** 把 Robert 称为表层学习者，会把可改变的学习方式误写成个人缺陷。Robert 在当前任务与教学情境中采用表层方式，更符合所读文本含义。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–58)]]
 > - **不以认知活动名称单独判定** [[Note-Taking|记笔记]]、背诵或重复可能服务于复述，也可能为理解和迁移奠定基础；必须结合学习意图、后续加工和评估要求判断。
 > - **不等于普遍的线性阶段论** 表层知识常是深层理解的重要基础，但不同学习过程未必都遵循先表层、后深层的同一顺序。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 82–89)]]
 
@@ -147,7 +147,7 @@ updated: 2026-11-02
 > **探讨维度　任务适切性** 表层与深层的分界不在活动名称，而在学习活动能否产生目标所要求的结果；复杂探究若缺乏知识基础，同样可能只制造混乱。
 
 > [!claim] Biggs, J.
-> **意义产生于学生的活动** [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 的阅读研究显示，面向预测考题的学生把文本拆成可能被提问的细节，最终记住零散事实，却没有理解作者要说明什么；面向理解的学生则把细节放回整体论证中，因而看见事实如何共同支持作者的观点。Biggs 据此把表层方式界定为与任务不相称的低阶活动，把深层方式界定为足以处理任务并获得相应结果的活动。
+> **意义产生于学生的活动** [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 的阅读研究显示，面向预测考题的学生把文本拆成可能被提问的细节，最终记住零散事实，却没有理解撰写者要说明什么；面向理解的学生则把细节放回整体论证中，因而看见事实如何共同支持撰写者的观点。Biggs 据此把表层方式界定为与任务不相称的低阶活动，把深层方式界定为足以处理任务并获得相应结果的活动。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **事实基础与深层加工必须衔接** 表层知识是深层理解的重要起点，但只获得信息仍不充分。问题本位学习要求学生调用既有知识建立因果模型。新手的知识基础不足时，容易添加无关材料、从未知条件倒推，并保留推理错误。教学设计应先判断学生是否掌握支持复杂活动的知识，再安排联系、解释与迁移，不宜抽象地比较[[Direct Instruction\|直接讲授]]和自主探究。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 84–85)]]
@@ -190,7 +190,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 从阅读取向到课程与测量问题
-> - **1976 — 阅读任务中的两种取向** [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 通过阅读后提问任务区分面向可考细节的表层方式与面向作者整体意义的深层方式，概念最初指向具体任务中的学习过程。
+> - **1976 — 阅读任务中的两种取向** [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 通过阅读后提问任务区分面向可考细节的表层方式与面向撰写者整体意义的深层方式，概念最初指向具体任务中的学习过程。
 > - **1979–1987 — 多国研究传统汇合** 英国的 Entwistle 从个体差异心理学出发，澳大利亚的 Biggs 从认知心理学出发，与瑞典研究共同转向学生在制度化学习情境中的活动。不同理论来源由此形成[[Student Learning Research\|学生学习研究]]的共同问题域。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
 > - **1996 — 记忆功能的跨文化修正** [[Argument_Li_2012_Cambridge\|Marton et al. (1996, as cited in Li, 2012, pp. 86–87)]] 发现，记忆可以成为理解过程的组成部分，也可以超越机械复述的终点。该研究促使学界重新审视外显行为与学习层次之间的关系。
 > - **1999 — 从描述学习转向设计教学** Biggs 把学习取向纳入教学系统，主张通过目标、活动和评估的对齐，让原本只在有利条件下深入学习的学生也开展高阶活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–70)]]
@@ -208,10 +208,10 @@ updated: 2026-11-02
 >
 > | 元分析 | 效应值 | 95% CI | 效应指标与模型 | [[Heterogeneity\|异质性]]与预测区间 | [[Dependent Variable\|结果变量]] | k / N | 证据确定性 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's d；模型未报告 | 未报告 | 听讲时[[Note-Taking\|记笔记]]后的学习结果 | — | 原文未评级；二手转引，不能据此区分表层或深层结果 |
-> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.56"><span class="b28"></span></span>1.56 | — | Cohen's d；模型未报告 | 未报告 | 复习同一批笔记后的学习结果 | — | 原文未评级；结果表明后续加工的效果高于单纯记录，但测量层次未说明 |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；二级综合模型未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | [[Problem-Based Learning\|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | 原文未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.79"><span class="b16"></span></span>−0.79 | — | Cohen's d；模型未报告 | 未报告 | 问题本位学习中的知识获取 | — | 原文未评级；说明缺乏事实基础时的风险，不能推出问题本位学习普遍无效 |
+> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's d；模型未报告 | 未报告 | 听讲时[[Note-Taking\|记笔记]]后的学习结果 | — | 所读文本未评级；二手转引，不能据此区分表层或深层结果 |
+> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.56"><span class="b28"></span></span>1.56 | — | Cohen's d；模型未报告 | 未报告 | 复习同一批笔记后的学习结果 | — | 所读文本未评级；结果表明后续加工的效果高于单纯记录，但测量层次未说明 |
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；二级综合模型未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | [[Problem-Based Learning\|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | 所读文本未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
+> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.79"><span class="b16"></span></span>−0.79 | — | Cohen's d；模型未报告 | 未报告 | 问题本位学习中的知识获取 | — | 所读文本未评级；说明缺乏事实基础时的风险，不能推出问题本位学习普遍无效 |
 
 这些[[Effect Size|效应量]]没有直接测量统一的深层学习结果。Hattie 指出，大量研究依赖表层学习指标。因此，表格适合说明教学活动与后续加工的差异，不能单凭数值证明学生已经形成概念理解或迁移能力。[[Argument_Hattie_2015_Paideia|Hattie (2015b, pp. 18–19)]]；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp. 27–29)]]
 
@@ -240,9 +240,9 @@ updated: 2026-11-02
 ---
 
 > [!case] 案例一：同一阅读任务为何产生两种结果
-> [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 让学生阅读一篇文章，并预先告知之后会有提问。第一组学生据此猜测可能出现的题目，焦虑地搜寻人名、事实和细节；他们能够列出若干信息，却无法说明作者的中心观点。第二组学生从一开始便试图理解作者要表达的意义，因此会把细节放入整体结构，判断每项事实怎样支撑论点。
+> [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 让学生阅读一篇文章，并预先告知之后会有提问。第一组学生据此猜测可能出现的题目，焦虑地搜寻人名、事实和细节；他们能够列出若干信息，却无法说明撰写者的中心观点。第二组学生从一开始便试图理解撰写者要表达的意义，因此会把细节放入整体结构，判断每项事实怎样支撑论点。
 >
-> 这个案例把[[Learning Intentions\|学习意图]]、活动和结果连成一条完整解释。预期考查细节，使学生把注意力投向可单独提取的信息；信息没有围绕中心意义重新组织，结果便是片段化记忆。以理解为目标的学生仍然重视细节，但会把细节作为重建作者论证的证据。研究区分的是学生处理这一次任务的方式，不对学生人格作稳定分类。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
+> 这个案例把[[Learning Intentions\|学习意图]]、活动和结果连成一条完整解释。预期考查细节，使学生把注意力投向可单独提取的信息；信息没有围绕中心意义重新组织，结果便是片段化记忆。以理解为目标的学生仍然重视细节，但会把细节作为重建撰写者论证的证据。研究区分的是学生处理这一次任务的方式，不对学生人格作稳定分类。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
 
 > [!case] 案例二：Susan and Robert 的差距如何被教学改变
 > Susan 对专业有明确兴趣，带着背景知识和问题进入讲堂。听到一个新观点时，她会把它当作知识结构中的关键连接，追问它与既有理解及个人经验的关系。Robert 主要为了取得资格而学习，所学专业属于调剂选择；背景知识较少、进入课堂时没有问题，只想把[[Student Engagement\|学习投入]]控制在能够及格的程度。同一句讲授内容，对 Susan 是可以连接其他知识的拱心石，对 Robert 则只是需要记入笔记、等待考试提示的另一块砖。

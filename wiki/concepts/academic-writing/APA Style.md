@@ -35,7 +35,7 @@ updated: 2026-11-02
 ---
 
 > [!def] APA Style
-> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文[[Document|文献]]引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
+> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文[[Document|文献]]引用、文后参考文献表、文章结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** APA 格式提供了一整套标准化的学术交流形式语言，旨在规范研究成果的呈现逻辑、证据引证路径和出版排版机制。
@@ -44,14 +44,14 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 [[GB/T 7714-2015]] — 后者是中国国家推荐性标准，文献类型采用强制单字母代号（如 `[J]`、`[M]`），专著保留出版地；APA 格式无类型代号，第7版已完全取消出版社所在城市标注。
-> - 不等于 Chicago 格式（Chicago Manual of Style）与 MLA 格式（Modern Language Association） — Chicago 支持脚注/尾注文献体系，MLA 侧重人文学科的作者-页码制（Author-Page）；APA 采用“著者-出版年”（Author-Date）制，强调出版时间在社会科学知识累积中的时效性。
+> - 不等于 Chicago 格式（Chicago Manual of Style）与 MLA 格式（Modern Language Association） — Chicago 支持脚注/尾注文献体系，MLA 侧重人文学科的撰写者-页码制（Author-Page）；APA 采用“著者-出版年”（Author-Date）制，强调出版时间在社会科学知识累积中的时效性。
 
 ---
 
 > [!contrast-table] 主流学术引用与著录规范辨析
 > | 维度 | APA Style（第7版） | [[GB/T 7714-2015]] | Chicago Style（第17版） | MLA Style（第9版） |
 > |---|---|---|---|---|
-> | **主要应用领域** | 心理学、教育学、社会科学、管理学 | 中国学术期刊、高校硕博学位论文、专著 | 历史学、经济学、综合人文社科 | 文学、语言学、艺术、人文学科 |
+> | **主要应用领域** | 心理学、教育学、社会科学、管理学 | 中国学术期刊、高校硕博学位研究、专著 | 历史学、经济学、综合人文社科 | 文学、语言学、艺术、人文学科 |
 > | **核心引用制式** | 著者-出版年制（Author-Date） | 顺序编码制 / 著者-出版年制 | 注释-书目制（Notes-Bib）/ 著者-出版年制 | 著者-页码制（Author-Page） |
 > | **文中引用示例** | `(Author, 2022)` | `[1]` 或 `(Author, 2022)` | `(Author 2022)` 或 脚注 `^1` | `(Author 45)` |
 > | **文献类型代码** | 无（通过斜体刊名/书名区分） | 强制代码（`[J]`, `[M]`, `[D]`, `[EB/OL]` 等） | 无 | 无 |
@@ -66,14 +66,14 @@ updated: 2026-11-02
 
 APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenthetical Citation）** 与**叙述性引用（Narrative Citation）** 两种形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
-> [!index-table] 文中引用作者数量规则表
-> | 作者类型 | 首次正文括号引用 | 首次正文叙述性引用 | 后续括号引用 | 后续叙述性引用 |
+> [!index-table] 文中引用撰写者数量规则表
+> | 撰写者类型 | 首次正文括号引用 | 首次正文叙述性引用 | 后续括号引用 | 后续叙述性引用 |
 > |---|---|---|---|---|
-> | **1 位作者** | `(Smith, 2020)` | `Smith (2020)` | `(Smith, 2020)` | `Smith (2020)` |
-> | **2 位作者** | `(Smith & Jones, 2020)` | `Smith and Jones (2020)` | `(Smith & Jones, 2020)` | `Smith and Jones (2020)` |
-> | **3 位及以上作者** | `(Smith et al., 2020)` | `Smith et al. (2020)` | `(Smith et al., 2020)` | `Smith et al. (2020)` |
-> | **有缩写的机构作者** | `(National Institute of Mental Health [NIMH], 2020)` | `National Institute of Mental Health (NIMH, 2020)` | `(NIMH, 2020)` | `NIMH (2020)` |
-> | **无缩写的机构作者** | `(Stanford University, 2021)` | `Stanford University (2021)` | `(Stanford University, 2021)` | `Stanford University (2021)` |
+> | **1 位撰写者** | `(Smith, 2020)` | `Smith (2020)` | `(Smith, 2020)` | `Smith (2020)` |
+> | **2 位撰写者** | `(Smith & Jones, 2020)` | `Smith and Jones (2020)` | `(Smith & Jones, 2020)` | `Smith and Jones (2020)` |
+> | **3 位及以上撰写者** | `(Smith et al., 2020)` | `Smith et al. (2020)` | `(Smith et al., 2020)` | `Smith et al. (2020)` |
+> | **有缩写的机构撰写者** | `(National Institute of Mental Health [NIMH], 2020)` | `National Institute of Mental Health (NIMH, 2020)` | `(NIMH, 2020)` | `NIMH (2020)` |
+> | **无缩写的机构撰写者** | `(Stanford University, 2021)` | `Stanford University (2021)` | `(Stanford University, 2021)` | `Stanford University (2021)` |
 
 > [!tip] 直接引语引用规则
 > - **短引用（少于 40 词）** 直接嵌入正文段落，用英文双引号包裹，并在句末标注具体页码，如 `(Smith, 2020, p. 15)` 或 `pp. 15–18`。
@@ -83,7 +83,7 @@ APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenth
 
 ### 参考文献表四大核心要素（Reference List Elements）
 
-参考[[Document|文献]]表置于文末，所有条目按第一作者姓氏字母顺序升序排列，采用**悬挂缩进（Hanging Indent 0.5 英寸 / 1.27 cm）**。每个条目均围绕四大核心问题构建：
+参考[[Document|文献]]表置于文末，所有条目按第一署名人姓氏字母顺序升序排列，采用**悬挂缩进（Hanging Indent 0.5 英寸 / 1.27 cm）**。每个条目均围绕四大核心问题构建：
 
 ```text
 责任者（Who）        年代（When）          题名（What）                      来源与出处（Where）
@@ -91,18 +91,18 @@ Author, A. A.  --->  (Year).       --->  Title of work.             --->   Sourc
 ```
 
 > [!feature] APA 第7版参考文献关键规则
-> - **责任者（Author）** 姓前名后，姓氏全拼，名字仅保留首字母大写缩写点（如 `Creswell, J. W.`）。作者人数在 20 人及以内的全部列出；21 人及以上的列出前 19 位，后加省略号 `...` 并接最后一位作者。
-> - **出版年代（Date）** 放在作者后的圆括号内，期刊与图书一般仅注明年份 `(2022)`，报纸、网页或会议须注明具体年月日 `(2024, March 15)`。无日期写 `(n.d.)`。
+> - **责任者（Author）** 姓前名后，姓氏全拼，名字仅保留首字母大写缩写点（如 `Creswell, J. W.`）。撰写者人数在 20 人及以内的全部列出；21 人及以上的列出前 19 位，后加省略号 `...` 并接最后一位撰写者。
+> - **出版年代（Date）** 放在撰写者后的圆括号内，期刊与图书一般仅注明年份 `(2022)`，报纸、网页或会议须注明具体年月日 `(2024, March 15)`。无日期写 `(n.d.)`。
 > - **题名大小写（Title Case vs Sentence Case）** 
->   - 图书题名、论文题名、网页题名：采用**句首字母大写式（Sentence Case，仅首词、副标题首词及专有名词大写）**；
+>   - 图书题名、文章题名、网页题名：采用**句首字母大写式（Sentence Case，仅首词、副标题首词及专有名词大写）**；
 >   - 期刊名、学术集刊名：采用**标题大写式（Title Case，所有实词首字母均大写）** 并使用**斜体**。
-> - **来源与 DOI（Source & DOI）** 期刊论文注明卷号（斜体）与期号（正体圆括号），如 `51(3), 145–152`；DOI 一律写为完整网址形式 `https://doi.org/10.xxxx/...`，不得带有 "doi:" 前缀。
+> - **来源与 DOI（Source & DOI）** 期刊文章注明卷号（斜体）与期号（正体圆括号），如 `51(3), 145–152`；DOI 一律写为完整网址形式 `https://doi.org/10.xxxx/...`，不得带有 "doi:" 前缀。
 
 ---
 
 ### 标题五级系统（Five-Level Heading System）
 
-APA 第7版对论文的各级标题格式进行了统一规范，建立了清晰的视觉层级结构：
+APA 第7版对文章的各级标题格式进行了统一规范，建立了清晰的视觉层级结构：
 
 > [!index-table] APA 第7版五级标题格式矩阵
 > | 层级 | 对齐方式 | 字体样式 | 标点要求 | 正文排版 |
@@ -117,7 +117,7 @@ APA 第7版对论文的各级标题格式进行了统一规范，建立了清晰
 
 > [!proc] 核心文献类型标准著录模板
 > 
-> **1. 期刊论文（Journal Article）**
+> **1. 期刊文章（Journal Article）**
 > - **模板** `Author, A. A., & Author, B. B. (Year). Title of article. Title of Periodical, volume_number(issue_number), page_range. https://doi.org/xx.xxx`
 > - **范例** `Creswell, J. W., & Plano Clark, V. L. (2022). Designing and conducting mixed methods research. Educational Researcher, 51(3), 145–152. https://doi.org/10.3102/0013189X221089201`
 > 
@@ -129,7 +129,7 @@ APA 第7版对论文的各级标题格式进行了统一规范，建立了清晰
 > - **模板** `Author, A. A. (Year). Title of chapter. In E. E. Editor (Ed.), Title of book (pp. xx–xx). Publisher.`
 > - **范例** `Darling-Hammond, L. (2005). Constructing 21st-century teacher education. In M. Cochran-Smith & K. M. Zeichner (Eds.), Studying teacher education (pp. 1–15). Lawrence Erlbaum.`
 > 
-> **4. 学位论文（Dissertation / Thesis）**
+> **4. 学位研究（Dissertation / Thesis）**
 > - **模板** `Author, A. A. (Year). Title of dissertation [Doctoral dissertation / Master's thesis, Name of Institution]. Database Name / Archive Name.`
 > - **范例** `Darwish, M. (2009). Education quality in post-conflict states [Doctoral dissertation, Queen's University]. QSpace.`
 > 
@@ -157,10 +157,10 @@ APA 第7版将学术写作的伦理敏感性与语言包容性提升至核心规
 
 ### 时态与语态规范（Voice and Tense Guidelines）
 
-APA 格式对学术论文不同章节的动词时态与语态提出了明确的区分指引（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Voice, Tense, and Concision in Academic Writing]]）：
+APA 格式对学术文章不同章节的动词时态与语态提出了明确的区分指引（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Voice, Tense, and Concision in Academic Writing]]）：
 
 > [!contrast-table] 各章节推荐时态矩阵
-> | 论文章节 | 推荐时态 | 典型应用场景与功能 |
+> | 文章章节 | 推荐时态 | 典型应用场景与功能 |
 > |---|---|---|
 > | **[[Literature Review\|文献综述]]（Literature Review）** | 过去时（Past）或现在完成时（Present Perfect） | 评述前人已完成的研究成果（如 `Smith (2020) found...` 或 `Researchers have shown...`） |
 > | **研究方法（Method）** | 过去时（Past） | 描述已经实施的实验程序、样本抽取与数据收集过程（如 `Participants completed the survey...`） |
@@ -174,7 +174,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 > **探讨维度　认知负荷与学术传播效率** 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
 
 > [!claim] Creswell & Creswell
-> **降低认知负荷** APA 格式的核心目的不是[[Red Tape|繁文缛节]]或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
+> **降低认知负荷** APA 格式的核心目的是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中，有别于[[Red Tape|繁文缛节]]或装饰性排版。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
 
 ---
 
@@ -196,7 +196,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 
 > [!warning] 频繁改版的迁移成本与工具依赖
 > - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有[[Document|文献]]数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
-> - **软件[[Automation Bias|自动化偏差]]** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊论文题名错误使用了 Title Case）或作者姓名颠倒，仍高度依赖人工校对。
+> - **软件[[Automation Bias|自动化偏差]]** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊文章题名错误使用了 Title Case）或撰写者姓名颠倒，仍高度依赖人工校对。
 
 > [!warning] [[Positivism\|实证主义范式]]倾向与人文学科适配局限
 > - APA 格式诞生于心理学与行为科学，其章节划分（引言-方法-结果-讨论，IMRaD）与“著者-出版年”引用机制天生偏向量化实证主义传统。在注重历史文本细读、哲学思辨与[[Critical Theory\|批判理论]]的人文学科研究中，过度强调出版年份和 IMRaD 结构常引发削足适履的争议。

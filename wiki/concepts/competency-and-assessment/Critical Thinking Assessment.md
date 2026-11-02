@@ -125,7 +125,7 @@ updated: 2026-11-02
 > | 测评路径类别 | 经典心理测量学客观测试 | 主观自陈倾向与策略量表 | 高等教育增值表现性测试 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|
 > | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、[[California Critical Thinking Skills Test\|CCTST]]、[[Cornell Critical Thinking Test\|Cornell 测验]] | [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment\|CLA / CLA+]]、[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]]、CAAP | AAC&U [[VALUE Rubrics\|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
-> | **作答载体与题型** | 客观[[Multiple-Choice Questions\|多项选择题]]（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire\|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework\|作业]]、研究论文、设计原型与反思档案袋的 4 级表现描述符 |
+> | **作答载体与题型** | 客观[[Multiple-Choice Questions\|多项选择题]]（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire\|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework\|作业]]、研究文章、设计原型与反思档案袋的 4 级表现描述符 |
 > | **核心测量对象** | 推理、识别假设、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档[[Research Synthesis\|证据综合]]、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
 > | **[[Reliability\|信度]]与实施成本** | 机器阅卷信度极高，自动化成本极低 | 施测便捷，自评信度依赖作答诚实度 | 依赖专业阅卷员/算法，评分成本高昂 | 依赖校内与跨校教师评分校准研讨（Calibration） |
 > | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度低，仅输出总分，促学反馈弱 | 易受社会期望与[[Common Method Variance\|共同方法变异]]（CMV）干扰 | 生态效度高，可测纵向增益，但低利害下动机不足 | 生态效度极高，标准公开透明，全面赋能形成性促学与自我调节 |
@@ -174,7 +174,7 @@ updated: 2026-11-02
 > **[[Common Method Variance\|共同方法变异]]与真实认知重叠的双重机制** [[Three-Level Meta-Analysis\|三水平元分析]]表明，测量类型显著调节批判性思维与[[Creativity\|创造力]]的相关大小（$Q_M(1) = 5.234, p = .022$）：双主观自陈测量组合的相关最高（$r = 0.509$），双客观任务表现测量组合次之（$r = 0.317$），混合测量组合相关最低（$r = 0.195 \sim 0.260$）。这一[[Interaction Effect\|调节效应]]揭示了双重机制：双自陈[[Questionnaire\|问卷]]的高相关受社会期望、自尊与默许等共享作答倾向所致的[[Common Method Variance\|共同方法变异]]（CMV）人为放大；而双客观表现测验依然保持显著且中等强度的正相关，则证明两者在[[Executive Function\|执行功能]]、评价分析与[[Problem Solving\|问题解决]]阶段存在真实的认知过程重叠。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]
 
 > [!concept-proposition] 命题三｜课程嵌入式真实性[[Scoring Rubrics|评分量规]]是实现[[Constructive Alignment|建构性对齐]]与微观[[Formative Assessment|促学评价]]的核心中枢
-> **探讨维度　校本评价与形成性促学** 探讨如何跨越宏观政策倡导与微观课堂教学考核之间的松散耦合断裂。
+> **探讨维度　校本评价与形成性促学** 探讨如何跨越宏观政策倡导与微观课堂教学考核之间的松散连结断裂。
 
 > [!claim] [[John Biggs\|Biggs, J.]]; Rhodes, T. L.; Wagenaar, R.; Bouckaert, M.
 > **真实性评分量规的[[Ecological Validity\|生态效度]]与促学机制** 大规模外部统考（如美国 [[Voluntary System of Accountability\|VSA]] 计划）因与具体学科脱节、评分昂贵且无法指导教学改进而逐步退潮；以全美 AAC&U VALUE 量规和欧洲 [[CALOHEE Project\|CALOHEE]] 框架为代表的课程嵌入式质性评分量规（Rubrics），将抽象思维目标转化为可观察的阶梯式表现描述符（Benchmark → Capstone），直接嵌入真实[[Homework\|作业]]与项目设计中。它既克服了传统评分的主观随意性与客观选择题的构念狭隘，又实现了从宏观资格框架、专业培养方案到课堂任务的[[Constructive Alignment\|建构性对齐]]，并通过透明标准全面赋能[[Formative Assessment\|形成性评价]]与学生自我调节。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–34)]]

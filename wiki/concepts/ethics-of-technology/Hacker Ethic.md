@@ -108,7 +108,7 @@ updated: 2026-11-02
 > **缺陷系统命题** 史蒂文·利维论证指出，官僚体制无论隶属于政府、大公司还是传统大学，在本质上都是无法容纳真正[[Creativity|创造力]]与探索冲动的缺陷系统；其制度本能是垄断与巩固权力，因而必然将自底向上的黑客探索视为生存威胁。黑客们致力于构建基于数理逻辑和开放规则的全新计算系统，以彻底取代代议制政客的专断权力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 99)]]
 
 > [!claim] [[Lee Felsenstein|Felsenstein, L.]]
-> **个体解放命题** 李·费尔森斯坦指出，早期个人计算机的开发初衷绝非协助国家行政部门提高管理效率，而是为了使普通个体从政府与企业等庞大建制的束缚中彻底解放出来，技术是抵抗国家集权而非与国家合作的媒介。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
+> **个体解放命题** 李·费尔森斯坦指出，早期个人计算机的开发初衷是为了使普通个体从政府与企业等庞大建制的束缚中彻底解放出来，技术是抵抗国家集权而非与国家合作的媒介，有别于协助国家行政部门提高管理效率。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 
 ---
 

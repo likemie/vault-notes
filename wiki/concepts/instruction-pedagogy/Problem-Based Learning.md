@@ -351,7 +351,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 在线替代性高中；N 未报告 | 受训团队管理教师与未经专门培训教师实施 Inventorium | — | 100% 保留与几乎全部不参与 | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
+> | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 在线替代性高中；N 未报告 | 受训团队管理教师与未经专门培训教师实施 Inventorium | — | 100% 保留与几乎全部不参与 | 未报告 | 撰写者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；撰写者同时经营并倡导该项目 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

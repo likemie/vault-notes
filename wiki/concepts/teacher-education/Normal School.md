@@ -96,7 +96,7 @@ updated: 2026-11-02
 > - **边界** 严格区别于中世纪以来以自由七艺、哲学与神学思辨为核心的高等文理大学（Universities）；亦不同于 20 世纪后期大学内部偏重理论学术研究的教育研究生院（Graduate Schools of Education），早期师范学校核心功能紧扣初等教育一线实用技能、直观教学法与班级组织规程。
 
 > [!citation-card] 关键表述：师范建制作为现代公立教育的战略防线
-> [[Victor Cousin\|维克多·库森]]在考察普鲁士后强调初等教育的成败完全系于师范学校的质量，英国《外国季刊》对此评价道：通过完全实际成功的坚实论据，该报告无可争议地证明，[[National Education|国民教育]]绝非梦想哲学家的空想幻影，而是一种确保全体儿童初等教育的方式，其建立与维持不亚于任何军队或海军之于国家的战略地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–28)]]；引自 Knight (1930:116–119)
+> [[Victor Cousin\|维克多·库森]]在考察普鲁士后强调初等教育的成败完全系于师范学校的质量，英国《外国季刊》对此评价道：通过完全实际成功的坚实论据，该报告无可争议地证明，[[National Education|国民教育]]是一种确保全体儿童初等教育的方式，其建立与维持不亚于任何军队或海军之于国家的战略地位，有别于梦想哲学家的空想幻影。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–28)]]；引自 Knight (1930:116–119)
 >
 > *The Foreign Quarterly Review viewed Cousin's report as an incontestable proof, 'by the solid and substantial argument of complete practical success', that a system of [[National Education]] was not visionary ... but a mode of insuring the elementary instruction of all children, which may be established and maintained not less than any army or navy.*
 
@@ -162,13 +162,13 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜师范学校在跨国流动与空间转移中深嵌于本土政治合法化动员并经历深层制度转译
-> **探讨维度　跨国借用转译与多向循环流动** 揭示师范学校模型从欧洲大陆向北美新英格兰及全球南方扩散时，绝非机械照搬，而是被改革者战略性剥离专制政治外壳，转译为反抗国内保守势力、确立民主公学与塑造后殖民国家认同的政治动员工具。
+> **探讨维度　跨国借用转译与多向循环流动** 揭示师范学校模型从欧洲大陆向北美新英格兰及全球南方扩散时，是被改革者战略性剥离专制政治外壳，转译为反抗国内保守势力、确立民主公学与塑造后殖民国家认同的政治动员工具，有别于机械照搬。
 
 > [!claim] [[Horace Mann\|Mann, H.]] and [[Calvin Stowe\|Stowe, C.]]
 > **专制外壳剥离与自由共和合法化转译** 霍勒斯·曼与卡尔文·斯托远赴欧洲考察时，敏锐将普鲁士师范学校的技术卓越性（专业标准、[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]启发法、人道关爱纪律）与其君主专制臣民顺从目的剥离；他们将师范学校经验战略性转译为国内立法的铁证，成功促成全美首所州立公立师范学校于 1839 年在马萨诸塞州列克星敦建立，击碎了波士顿保守校长联盟宣称公立学校必致堕落的指控。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–34)]]；引自 Downs (1974:88)
 
 > [!claim] [[Jason Beech\|Beech, J.]] and [[Alejandro Artopoulos\|Artopoulos, A.]]
-> **空间流通中的关系性建构与多核[[Circular Transfer\|循环转移]]** 师范学校的制度形态不是在某个特定地点孤立生产然后单向输出，而是在多节点流动中被持续赋予本土意义。阿根廷总统多明戈·福斯蒂诺·萨米恩托（Domingo Faustino Sarmiento）1842 年流亡智利期间创办南美首所师范学校，后深受霍勒斯·曼启发，于 1869 年在阿根廷巴拉那市按波士顿模型建立阿根廷首所师范学校；而随着国家教育体系扩展，阿根廷又转而借用法国集权师范模型，展现出多向度、非线性的制度转化。[[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015, pp. 50–52)]]
+> **空间流通中的关系性建构与多核[[Circular Transfer\|循环转移]]** 师范学校的制度形态是在多节点流动中被持续赋予本土意义，有别于在某个特定地点孤立生产然后单向输出。阿根廷总统多明戈·福斯蒂诺·萨米恩托（Domingo Faustino Sarmiento）1842 年流亡智利期间创办南美首所师范学校，后深受霍勒斯·曼启发，于 1869 年在阿根廷巴拉那市按波士顿模型建立阿根廷首所师范学校；而随着国家教育体系扩展，阿根廷又转而借用法国集权师范模型，展现出多向度、非线性的制度转化。[[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015, pp. 50–52)]]
 
 ---
 
@@ -234,7 +234,7 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[Common School Movement]] | 概念 | 师范学校为美国公共学校运动提供了专业化师资来源与人道教学法规范。 |
 > | [[Grammar of Schooling]] | 概念 | 师范学校是塑造、操练并规模化传递标准化学校语法的专门组织机器。 |
-> | [[Relational Space]] | 概念 | 揭示师范学校并非单一源头的静态产物，而是在跨国流通与空间互动中被动态构建。 |
+> | [[Relational Space]] | 概念 | 揭示师范学校是在跨国流通与空间互动中被动态构建，有别于单一源头的静态产物。 |
 > | [[Circular Transfer]] | 概念 | 解释师范学校在普鲁士、法国、北美与阿根廷等节点之间发生的非线性转移与本土转化。 |
 > | [[Educational Brokerage Agency]] | 概念 | 现代教师教育体系中连接大学职前培养与在职教师循证实践的核心中介机制。 |
 > | [[Educational Science Communication]] | 概念 | 师范教育由一次性封闭知识传授走向面向教师群体的多向度非线性科学传播。 |

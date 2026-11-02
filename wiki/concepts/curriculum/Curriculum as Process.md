@@ -3,7 +3,7 @@ title: Curriculum as Process
 aliases:
   - 作为过程的课程
   - 过程原则课程范式
-summary: "课程理论的核心范式之一，由劳伦斯·斯滕豪斯（Stenhouse）提出。强调课程不是预设结果的流水线，而是师生在课堂中围绕探究原则与实践明智（Phronesis）共同展开的理解与对话过程。"
+summary: "课程理论的核心范式之一，由劳伦斯·斯滕豪斯（Stenhouse）提出。强调课程是师生在课堂中围绕探究原则与实践明智（Phronesis）共同展开的理解与对话过程，有别于预设结果的流水线。"
 type: concept
 domain: "curriculum"
 related_count: 9

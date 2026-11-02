@@ -70,7 +70,7 @@ updated: 2026-11-02
 > - **边界** 区别于单纯具有高技术难度的工程难题（如火箭轨道计算或芯片制造），后者属于可以通过既定物理定律逐步求解的驯服问题。
 
 > [!citation-card] 棘手问题的本质特征
-> 棘手问题没有终极陈述或既定边界。任何旨在解决棘手问题的政策努力都不是简单的技术寻找，而是一场涉及多元行动者、治理层级与规范价值的政治博弈。由于[[Causality|因果关系]]不透明且牵涉多元利益主体的道德权衡，对棘手问题的干预没有对与错之分，只有更好或更坏的社会政治判断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 476)]]
+> 棘手问题没有终极陈述或既定边界。任何旨在解决棘手问题的政策努力都是一场涉及多元行动者、治理层级与规范价值的政治博弈，有别于简单的技术寻找。由于[[Causality|因果关系]]不透明且牵涉多元利益主体的道德权衡，对棘手问题的干预没有对与错之分，只有更好或更坏的社会政治判断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 476)]]
 >
 > *Wicked problems are characterized by being difficult to define, unstable, lack a clear stopping rule, and have no right or wrong answers, but only better or worse solutions... Tackling them is a political process involving a plurality of actors and governance levels, requiring negotiation, balancing of interests, and continuous learning.*
 
@@ -92,7 +92,7 @@ updated: 2026-11-02
 > | **[[Causality\|因果关系]]** | 多因多果、反馈回路复杂、存在[[Problem of Many Hands\|多手难题]] | 因果链条清晰或可通过科学实验分离 | 部门利益壁垒割裂了对整体系统因果的把握 |
 > | **价值冲突** | 充斥规范性争议与伦理道德权衡 | 价值目标相对中立或达成广泛共识 | 产出争议性导致跨部门协调被日常例行事务边缘化 |
 > | **求解标准** | 无终极停止规则，只有较好或较坏的妥协状态 | 具有客观的对错或完成判据 | 传统微观合规指标无法衡量长期系统收益 |
-> | **治理逻辑** | 审议共识、小步试验、反思性调整、[[Lead-and-Learn Paradigm\|引领与学习]] | 线性工程管理、专家规划、技术优化 | 设立统摄性国家使命打破条块分割 |
+> | **治理逻辑** | 审议共识、小步试验、反思性调整、[[Lead-and-Learn Paradigm\|引领与学习]] | 线性工程管理、专家规划、技术优化 | 设立统领性国家使命打破条块分割 |
 > | **典型场景** | 气候中和、老龄化社会照护、海洋微塑料治理 | 阿波罗登月、粒子对撞机建设、半导体微缩制程 | 跨越能源、交通、卫生与工业的综合政策僵局 |
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜通过议程重构与适应性试验可以实现棘手问题的阶段性驯服
-> **探讨维度　棘手性的动态驯服机制** 棘手问题并非绝对不可治理，治理主体可以通过策略性框架重构与小步试验将其转化为可操作的局部共识。
+> **探讨维度　棘手性的动态驯服机制** 棘手问题并不绝对不可治理，治理主体可以通过策略性框架重构与小步试验将其转化为可操作的局部共识。
 
 > [!claim] [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]
 > **阶段性驯服命题** 棘手问题可以通过特定政策机制实现驯服（Taming）。例如在公共卫生领域，通过将吸烟议题由吸烟者的个人自由重构为非吸烟者免受二手烟危害的权利，能够有效消除价值争议并建立跨党派共识，从而为刚性规制与创新解决方案的落地创造合法性空间。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–483)]]

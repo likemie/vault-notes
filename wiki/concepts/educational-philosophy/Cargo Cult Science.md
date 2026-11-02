@@ -116,7 +116,7 @@ updated: 2026-11-02
 > [!feature] 货物崇拜科学的四大核心特征
 > - **外在仪式的精密复刻（Ritualistic Mimicry of Scientific Form）** 狂热模仿硬科学的外在符号体系，包括海量数据点、复杂的[[Effect Size|效应量]]计算、精密排版的仪表盘与看似客观的数字排行榜，营造出极度严谨与客观的科学光环。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
 > - **可错论诚意的系统缺位（Systematic Absence of Epistemic Integrity）** 违背[[Karl Popper|卡尔·波普尔]]（Karl Popper）的可[[Falsification|证伪]]原则，在核心论断的关键计算环节隐匿具体数学公式，不主动披露纳入[[Document|文献]]的质量缺陷与相反证据，丧失了自我纠错的学术诚意。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 34–35)]]
-> - **对专业常识的认知威慑（Cognitive Intimidation of Professional Common Sense）** 借助外行难以独立复核的数学复杂性建立专业壁垒，使一线教育工作者因敬畏所谓的大数据而丧失对自身教学经验的自信，甚至被迫放弃原本行之有效的育人常识。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 34)]]
+> - **对专业常识的认知威慑（Cognitive Intimidation of Professional Common Sense）** 借助外行难以独立复核的数学复杂性建立专业壁垒，使一线教育从业者因敬畏所谓的大数据而丧失对自身教学经验的自信，甚至被迫放弃原本行之有效的育人常识。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 34)]]
 > - **商业专营与反驳防御壁垒（Commercial Insulation against Falsification）** 绕开严格的学术刊物同行评审，直接通过大众出版与商业咨询机构面向学校和政府推销专营产品，将严肃的学理批评阻隔在商业培训市场之外，形成自我合法化的利益循环。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31, 35)]]
 
 > [!logic-map]- 货物崇拜科学在教育领域的运作机制
@@ -143,7 +143,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题二｜货物崇拜科学通过数学复杂性与统计[[Discourse|话语]]对实践者实施认知威慑，剥夺教育工作者的常识经验与专业直觉
+> [!concept-proposition] 命题二｜货物崇拜科学通过数学复杂性与统计[[Discourse|话语]]对实践者实施认知威慑，剥夺教育从业者的常识经验与专业直觉
 > **探讨维度　数学复杂性与专业异化** 考察量化工具如何从辅助诊断手段异化为剥夺教师主体性的权力装置。
 
 > [!claim] [[Pierre-Jérôme Bergeron|Bergeron, P.-J.]] & Rivard, L.
@@ -178,7 +178,7 @@ updated: 2026-11-02
 > - **1974 — 费曼加州理工学院毕业演讲首创概念** 物理学家理查德·费曼在演讲中回顾南太平洋岛民在二战结束后修建木制跑道和竹制雷达、模仿盟军降落仪式的货物崇拜现象，指出教育学、心理学等领域存在大量模仿物理学实验形式却缺失科学精神的草包族科学（Cargo Cult Science）。
 > - **1980–1990年代 — 科学哲学划界探讨与方法论延展** 学界将货物崇拜科学与波普尔的[[Falsification|证伪主义]]、库恩的[[Paradigm|范式]]理论及[[Robert K. Merton|默顿]]的科学规范相对照，探讨其在社会科学与医学应用中的制度化表现。
 > - **2017–2020 — [[Epistemology|认识论]]诚信研究与真实数据伪科学解构** 伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）从数理统计学角度系统阐明如何用真实数据搞伪科学，论证了以形式复杂性掩盖初等计算崩溃与基线颠倒的纸牌屋机制，并确立了对揭露数理缺陷后仍坚持推广之“蓄意盲目”（Willful Blindness）的认识论批判；莫伯格（Moberger, 2020）进一步将费曼的诊断提炼为现代认识论中的认识论诚信（Epistemic Conscientiousness）准则。
-> - **2023 — 教育政策与循证教学体系的系统解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）在《Critical Education》发表长篇批判论文，将货物崇拜科学作为核心理论透镜，对《[[Visible Learning|可见的学习]]》的方法论不透明性、简单算术平均、商业利益冲突与拒绝证伪[[Discourse|话语]]展开系统解构，标志着该概念深度融入当代教育政治经济学与循证政策批判。
+> - **2023 — 教育政策与循证教学体系的系统解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）在《Critical Education》发表长篇批判文章，将货物崇拜科学作为核心理论透镜，对《[[Visible Learning|可见的学习]]》的方法论不透明性、简单算术平均、商业利益冲突与拒绝证伪[[Discourse|话语]]展开系统解构，标志着该概念深度融入当代教育政治经济学与循证政策批判。
 
 ---
 
@@ -200,9 +200,9 @@ updated: 2026-11-02
 > |---|---|---|---|---|---|---|
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 25–26)]] | 《可见的学习》附录 A 中 5 项[[Homework\|家庭作业]][[Meta-analysis\|元分析]]（涵盖 161 项研究与超 10 万名学生） | 数学逆向还原与算法核查 | 综合效应量计算公式与加权方式 | 5 项元分析报告的 Cohen's $d$ 分别为 0.36、0.21、0.39、0.21、0.28；直接相加除以 5 等于报告的 $d=0.29$ | 包含 15 项研究的文献与 77 项研究的文献被赋予相同权重；正文完全隐去该计算公式 | 实证确证其核心效应量依赖未加权的简单算术平均，验证了隐匿算法、制造虚假精确的货物崇拜特征 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | [[John Hattie\|哈蒂]]《可见的学习》[[Meta-meta-analysis\|二阶元分析]]数据库及[[Common Language Effect Size\|普通语言效应量]]换算表 | 数理统计审计与受控数值模拟 | 普通语言效应量、基线比较方向与三类合法计算公式 | 普通语言效应量算出了负概率与大于 100% 的不可能概率；三种技术有效公式对同一组受控数据得出完全冲突的排名（$3>2>1>0$、$1=2=3$、$0>1>2>3$） | — | 证实海量真实数据掩盖下的初等数学失范与度量标尺失效，确证货物崇拜科学依赖真实数据编织故事的技术表征 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 32)]] | 格拉斯与史密斯（Glass & Smith, 1979）班级规模经典元分析 | [[Primary and Secondary Documents\|原始文献]]核对与数据溯源 | 班额与[[Academic Achievement\|学业成绩]]收益曲线提取 | 原文证实 40 人大班与 1 人个别辅导存在超过 30 个百分位的成绩差距；Hattie 在书中提取为 $d=0.09$ | 原文正文中根本未报告过 $d=0.09$ 数值；疑为截取曲线平缓尾部并混入大学 100 人大课数据 | 证实其为得出小班教学无效的预设立场，对经典实证文献实施断章取义的数据提取 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与[[Cognition Education\|认知教育]]公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术作者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《可见的学习》全库 301 个影响因素（检索精读 1,369 篇一级元分析） | [[Preregistration\|预注册]]全量[[Metascience\|元科学]]审计与独立复现检验 | [[PICO Framework\|PICO]] 合规率；数据复现成功率；效应量缺失率 | 仅 **19%** 符合 PICO 纳入标准；仅 **2 项**（<1%）成功复现提取；**44%** 报告效应量在原文中完全不存在 | — | 全量元科学审计证实该体系底层数据链全面瓦解，印证了货物崇拜科学缺乏严谨实证支撑的定性 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 32)]] | 格拉斯与史密斯（Glass & Smith, 1979）班级规模经典元分析 | [[Primary and Secondary Documents\|原始文献]]核对与数据溯源 | 班额与[[Academic Achievement\|学业成绩]]收益曲线提取 | 所读文本证实 40 人大班与 1 人个别辅导存在超过 30 个百分位的成绩差距；Hattie 在书中提取为 $d=0.09$ | 所读文本正文中根本未报告过 $d=0.09$ 数值；疑为截取曲线平缓尾部并混入大学 100 人大课数据 | 证实其为得出小班教学无效的预设立场，对经典实证文献实施断章取义的数据提取 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与[[Cognition Education\|认知教育]]公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术撰写者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《可见的学习》全库 301 个影响因素（检索精读 1,369 篇一级元分析） | [[Preregistration\|预注册]]全量[[Metascience\|元科学]]审计与独立复现检验 | [[PICO Framework\|PICO]] 合规率；数据复现成功率；效应量缺失率 | 仅 **19%** 符合 PICO 纳入标准；仅 **2 项**（<1%）成功复现提取；**44%** 报告效应量在所读文本中完全不存在 | — | 全量元科学审计证实该体系底层数据链全面瓦解，印证了货物崇拜科学缺乏严谨实证支撑的定性 |
 
 ---
 
@@ -218,7 +218,7 @@ updated: 2026-11-02
 > | [[Falsification]] | Concept | 货物崇拜科学所回避与抵制的核心科学划界原则（[[Karl Popper\|卡尔·波普尔]]提出的可证伪性）。 |
 > | [[Epistemology]] | Concept | 探讨科学真理合法性、认识论诚信与经验证据边界的上位哲学领域。 |
 > | [[Karl Popper]] | Person | 提出科学可证伪性标准与反对教条主义的科学哲学家。 |
-> | [[John Hattie]] | Person | 《可见的学习》作者，其建立的[[Meta-analysis\|元分析]]商业专营体系被作为货物崇拜科学的主要研究对象。 |
+> | [[John Hattie]] | Person | 《可见的学习》撰写者，其建立的[[Meta-analysis\|元分析]]商业专营体系被作为货物崇拜科学的主要研究对象。 |
 > | [[Pierre-Jérôme Bergeron]] | Person | 从数理统计学视角系统解构 Visible Learning 伪科学纸牌屋特征与蓄意盲目的学者。 |
 > | [[Visible Learning Branding and Global Influences]] | Fact (Event) | 货物崇拜科学走向跨国商业专营与政策渗透的制度化实践事实。 |
 

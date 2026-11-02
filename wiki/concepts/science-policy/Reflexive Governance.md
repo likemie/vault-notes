@@ -124,7 +124,7 @@ updated: 2026-11-02
 > **探讨维度　政策过程与合法性协同** 探讨在使命推进中如何协同处理技术成熟度与社会规范认同的动态演变。
 
 > [!claim] Wanzenböck, I. et al.
-> **过程导向使命政策的反思性内核** 使命政策若缺乏反思性治理，极易蜕变为单向的技术推力政策（陷入第三象限）或遭遇地方邻避抗议而停滞。以英国闭路电视监控（CCTV）和荷兰风电协议为例，政策成功的关键均在于管理机构能够根据外部反馈适时进行反思性转向，将技术功能向真实的公共需求重新对齐，最终实现系统的双重收敛。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 483–487)]]
+> **过程导向使命政策的反思性核心** 使命政策若缺乏反思性治理，极易转变为单向的技术推力政策（陷入第三象限）或遭遇地方邻避抗议而停滞。以英国闭路电视监控（CCTV）和荷兰风电协议为例，政策成功的关键均在于管理机构能够根据外部反馈适时进行反思性转向，将技术功能向真实的公共需求重新对齐，最终实现系统的双重汇合。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 483–487)]]
 
 ---
 
@@ -139,8 +139,8 @@ updated: 2026-11-02
 > [!dev-timeline] [[Reflexivity|反思性]]治理理论演变
 > - **1990s — 自反性现代化社会学奠基** 乌尔里希·贝克（Ulrich Beck）与[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）提出自反性现代化（Reflexive Modernization）理论，指出工业社会的成功正在不断制造其自身无法消化的系统性风险。
 > - **2006 — 可持续发展反思性治理正式确立** 福斯、鲍克内希特与肯普在著作 *Reflexive Governance for Sustainable Development* 中首次将反思性引入公共政策与转型管理体系。
-> - **2011 — 政治学与制度化分析深化** 福斯与博内曼在 *Policy Sciences* 发表长篇论文，剖析反思性治理面临的政治权力博弈与制度设计挑战。
-> - **2020 — 使命导向政策二维收敛机制整合** 万岑伯克等人将反思性治理作为推进问题–解决方案双重收敛的核心工具，完成了从宏观转型理论向中观政策操作框架的转化。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
+> - **2011 — 政治学与制度化分析深化** 福斯与博内曼在 *Policy Sciences* 发表长篇文章，剖析反思性治理面临的政治权力博弈与制度设计挑战。
+> - **2020 — 使命导向政策二维汇合机制整合** 万岑伯克等人将反思性治理作为推进问题–解决方案双重汇合的核心工具，完成了从宏观转型理论向中观政策操作框架的转化。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 ---
 
@@ -158,4 +158,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 阐释了[[Reflexivity|反思性]]治理作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]核心推进机制的实践路径，论证其在避免[[Path Dependence|技术锁定]]与实现系统收敛中的关键作用。
+> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 阐释了[[Reflexivity|反思性]]治理作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]核心推进机制的实践路径，论证其在避免[[Path Dependence|技术锁定]]与实现系统汇合中的关键作用。

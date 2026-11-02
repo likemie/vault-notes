@@ -130,7 +130,7 @@ updated: 2026-11-02
 > 探讨实证综合者如何因词汇表面相似性而混淆完全不同的理论构念，导致底层[[Chain of Evidence|证据链]]的系统性失真。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] and Klitmøller, J. (2021a)
-> **语义偷换导致的实证证据失真** 尼尔森与克利特默勒通过[[Document|文献]]学逐项审查揭示，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将威特等人的元分析作为支持其反馈高效能（$d = 0.73$）的第二大支柱。威特原文全文从未探讨反馈，测量的完全是教师的人际亲和力，且纳入的研究大量依赖缺乏对照组的自陈[[Questionnaire|问卷]]（甚至包含 22 篇未发表的硕士与博士论文）。哈蒂利用亲和力的高自评效应量（$d = 1.15$）粉饰反馈指标，犯下了艾森克所警告的“垃圾进、垃圾出（Garbage in, garbage out）”偏误，彻底摧毁了反馈实证结论的[[Construct Validity|构念效度]]。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
+> **语义偷换导致的实证证据失真** 尼尔森与克利特默勒通过[[Document|文献]]学逐项审查揭示，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将威特等人的元分析作为支持其反馈高效能（$d = 0.73$）的第二大支柱。威特所读文本全文从未探讨反馈，测量的完全是教师的人际亲和力，且纳入的研究大量依赖缺乏对照组的自陈[[Questionnaire|问卷]]（甚至包含 22 篇未发表的硕士与博士文章）。哈蒂利用亲和力的高自评效应量（$d = 1.15$）粉饰反馈指标，犯下了艾森克所警告的“垃圾进、垃圾出（Garbage in, garbage out）”偏误，彻底摧毁了反馈实证结论的[[Construct Validity|构念效度]]。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
 
 ---
 
@@ -166,7 +166,7 @@ updated: 2026-11-02
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Witt et al. (2004) | <span class="mx-bar ef-bar conv" title="r .51 → d ≈ 1.19（d = 2r / √(1 − r²)）"><span class="b24"></span></span>.51 | — | $r$ / 相关系数 $r$ 转 Cohen's $d$ | $k = 81$ / $N = 24,474$ | 概念奠基：教师言语与非言语即时性对学生感知学习产出的综合影响 | 高度异质；自陈量表占比超 90% | 测量人际沟通亲和力而非[[Feedback\|教学反馈]]；纳入 22 项未发表学位论文，缺乏客观认知对照；注：原表另列换算值 $d = 1.15$（感知学习） |
+> | Witt et al. (2004) | <span class="mx-bar ef-bar conv" title="r .51 → d ≈ 1.19（d = 2r / √(1 − r²)）"><span class="b24"></span></span>.51 | — | $r$ / 相关系数 $r$ 转 Cohen's $d$ | $k = 81$ / $N = 24,474$ | 概念奠基：教师言语与非言语即时性对学生感知学习产出的综合影响 | 高度异质；自陈量表占比超 90% | 测量人际沟通亲和力而非[[Feedback\|教学反馈]]；纳入 22 项未发表学位研究，缺乏客观认知对照；注：原表另列换算值 $d = 1.15$（感知学习） |
 > | Witt et al. (2004) | <span class="mx-bar ef-bar conv" title="r .16 → d ≈ 0.32（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.16 | — | $r$ / 相关系数 $r$ 转 Cohen's $d$ | $k = 19$ / $N = 3,820$ | 产出分化：教师即时性对学生客观认知测试成绩（考试分数）的实际影响 | 显著低于主观自评感知效应 | 客观测验效应远低于自评效应，表明亲和力无法替代针对知识技能本身的教学指导；注：原表另列换算值 $d \approx 0.32$ |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）

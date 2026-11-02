@@ -67,7 +67,7 @@ updated: 2026-11-02
 > - **边界** 教育科学传播不等于降低学术标准的过度简化；其传递的证据必须满足基本的科学严谨性与[[Reliability\|信度]]标准，且尊重复杂课堂教学的专业自主权。
 
 > [!citation-card] 教育科学传播的非线性与情境适配本质
-> 知识转移并非简单地扩散特定知识，而是需要针对实践情境的具体脉络与边界条件进行调适；如果线性传递过少顾及实践现场的内在逻辑，科学发现向学校实践的转移就会受阻。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
+> 知识转移是需要针对实践情境的具体脉络与边界条件进行调适，有别于简单地扩散特定知识；如果线性传递过少顾及实践现场的内在逻辑，科学发现向学校实践的转移就会受阻。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
 >
 > *Transfer bedeutet in diesem Zusammenhang jedoch keine einfache Streuung des spezifischen Wissens, sondern erfordert eine Anpassung an die jeweiligen Kontexte und Bedingungen der Praxissituation. Erschwert wird ein möglicher Transfer wissenschaftlicher Erkenntnisse in die Schulpraxis, wenn die lineare Vermittlung die Logiken der [[Praxis]] zu wenig in den Blick nimmt.*
 

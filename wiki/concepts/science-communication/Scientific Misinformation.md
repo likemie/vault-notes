@@ -62,7 +62,7 @@ updated: 2026-11-02
 > - **边界** 科学虚假信息不等于科学探索中暂定的理论假说或正常的学术争论；科学知识本身具有暂定性与演进性，对未经证实的初步结论的学术探讨不属于虚假信息。
 
 > [!citation-card] 科学虚假信息的时代威胁
-> 科学虚假信息并非新现象，但媒体格局的深刻重塑意味着不准确、误导性乃至完全捏造的信息如今能够以庞大的体量和极高的速度裂变扩散。虚假信息在一定程度上助长了对疫苗的不信任，并扰乱了应对气候变化的公共讨论，给个体与整体社会带来严重损害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
+> 科学虚假信息有别于新现象，但媒体格局的深刻重塑意味着不准确、误导性乃至完全捏造的信息如今能够以庞大的体量和极高的速度裂变扩散。虚假信息在一定程度上助长了对疫苗的不信任，并扰乱了应对气候变化的公共讨论，给个体与整体社会带来严重损害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
 >
 > *Scientific misinformation is not a new phenomenon, but changes in the media landscape mean that inaccurate, misleading and false information can now be shared in large volumes and at speed. False information has to some extent fuelled mistrust in vaccines and confused discussions about tackling climate change. This can result in harm to individuals and to society.*
 
@@ -84,11 +84,11 @@ updated: 2026-11-02
 
 > [!feature] 科学虚假信息生成与扩散的四重驱动机制
 > - **算法推荐与注意力经济驱动** 商业社交媒体平台受点击率、用户黏性与广告营收驱动，其推荐算法往往优先放大具有情感冲击力、争议性与惊悚效果的内容，使得伪科学与阴谋论在传播速度与广度上显著压倒严谨平实的科学事实。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
-> - **源头失真与高校新闻通稿过度夸大** 实证研究表明，大众传媒中泛滥的科学夸大陈述往往并非源于新闻记者的胡乱编造，而是直接始于大学与科研机构自身新闻办公室（Press Offices）的新闻通稿；科研竞争压力迫使机构过度包装发现以博取媒体曝光。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
-> - **意识形态极化与回音室放大** 极少数高度党派化或持极端立场的个体在社交网络中主动寻找印证自身偏见的信息，形成闭合的“回音室”；尽管深陷回音室的公众在总体中属于少数，但其在数字网络中的极端声量对社会新闻议程产生了不成比例的扭曲影响。
+> - **源头失真与高校新闻通稿过度夸大** 实证研究表明，大众传媒中泛滥的科学夸大陈述往往是直接始于大学与科研机构自身新闻办公室（Press Offices）的新闻通稿，有别于源于新闻记者的胡乱编造；科研竞争压力迫使机构过度包装发现以博取媒体曝光。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
+> - **意识形态极化与回音室放大** 极少数高度党派化或持极端立场的个体在社交网络中主动寻找印证自身偏见的信息，形成封闭的“回音室”；尽管深陷回音室的公众在总体中属于少数，但其在数字网络中的极端声量对社会新闻议程产生了不成比例的扭曲影响。
 > - **人工智能合成与模型幻觉风险** [[Generative Artificial Intelligence\|生成式人工智能]]（AI）工具的大规模普及降低了虚假内容生成的门槛，大语言模型的“幻觉”（Hallucinations）、黑箱算法与数据时效滞后，极易在搜索引擎和社交问答中生成似是非的错误[[Scientific Explanation\|科学解释]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]]
 
-> [!logic-map]- 科学虚假信息的多源生成与社会传播闭环
+> [!logic-map]- 科学虚假信息的多源生成与社会传播反馈回路
 > ```mermaid
 > flowchart LR
 >     A["科研源头<br>竞争压力与通稿夸大"] --> B["媒介放大<br>商业算法与惊悚标题"]
@@ -112,7 +112,7 @@ updated: 2026-11-02
 > **探讨维度　科研诚信与对外传播链条** 探讨科学新闻中失实与夸大陈述的制度发生学机制，揭示高校公关考核与科研竞争如何将不端行为外溢至大众传播领域。
 
 > [!claim] Sumner et al.
-> **新闻夸大的通稿源头效应** 对英国 20 所顶尖大学关联的数百篇健康医学新闻报道与对应学术论文的回溯性[[Observation Method\|观察研究]]证实，大众媒体报道中出现的高达 40% 的因果推论夸大、36% 的动物实验推及人类断言，绝大多数直接源于大学科研管理部门发布的新闻通稿（Press Releases）本身，而非记者的二次曲解。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
+> **新闻夸大的通稿源头效应** 对英国 20 所顶尖大学关联的数百篇健康医学新闻报道与对应学术文章的回溯性[[Observation Method\|观察研究]]证实，大众媒体报道中出现的高达 40% 的因果推论夸大、36% 的动物实验推及人类断言，绝大多数直接源于大学科研管理部门发布的新闻通稿（Press Releases）本身，而非记者的二次曲解。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] The Royal Society
 > **科学传播必须纳入科研诚信大框架** 科学界的同行评议与可重复性倡议长期与科学传播实践彼此割裂；科研机构必须抵制过度营销（Overselling）科研成果的冲动，将对外新闻通稿与媒体沟通正式纳入科研诚信（[[Responsible Conduct of Research\|research integrity]]）行为守则进行一体化规制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 62, 64)]]
@@ -152,7 +152,7 @@ updated: 2026-11-02
 > |---|---|---|---|---|---|---|
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 57)]] | $N = 5,281$ 英国 16 岁以上代表性成年公众（PAS 2025 调查） | 全国横截面抽样调查 | 科学信息获取主要渠道（过去两周） | 新媒体（40%）、传统媒体（36%）、科学来源（25%）、口头/在线（17%）、亲友/WhatsApp（13%）、未主动寻求（34%） | 全国代表性加权样本 | 反映新媒体已成为第一大主动获取渠道，但传统媒体依然稳固 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 58)]] | 英国代表性成年公众（PAS 2025 调查） | 全国抽样调查 | 科学信息真实性与冲突感知 | 仅 40% 认同所接触科学信息“通常是真实的”（较 2014 年超 50% 显著下滑）；48% 认为冲突信息过多导致难辨真伪 | 约 50% 公众处于不确定状态 | 表明海量冲突与虚假信息加剧了公众认知困惑，但未完全转化为反科学怀疑 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 60)]] | 英国代表性成年公众（PAS 2025 调查 / Ipsos 诚信指数） | 全国抽样调查 | 高校科学家社会信任度 | 87% 的受访公众高度信任高校科学家诚实开展研究（信任度持续 >80%） | 远超对传统媒体（~33%）及社交媒体信任 | 证实科学家群体依然拥有极其宝贵的公众信任底座，是破解虚假信息的基石 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 60)]] | 英国代表性成年公众（PAS 2025 调查 / Ipsos 诚信指数） | 全国抽样调查 | 高校科学家社会信任度 | 87% 的受访公众高度信任高校科学家诚实开展研究（信任度持续 >80%） | 远超对传统媒体（~33%）及社交媒体信任 | 证实科学家群体依然拥有极其宝贵的公众信任基础，是破解虚假信息的基石 |
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-11-02
 > > 针对社交媒体平台应如何治理虚假信息存在不同路线分歧。
 > >
 > > - **平台中心主义监管派** 主张社交平台应承担严格的[[Gatekeepers\|把关人]]法律责任，通过人工与算法快速标记、降权甚至直接下架反疫苗或否认气候变暖等虚假内容。
-> > - **算法透明与学术赋能派** 指出过度审核极易侵犯言论自由并助长阴谋论反弹；真正的破局点在于强制平台开放隐私合规的 API 数据接口，允许独立科学家对算法推荐机制展开循证审计。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
+> > - **算法透明与学术赋能派** 指出过度审核极易侵犯言论自由并助长阴谋论反弹；真正的突破点在于强制平台开放隐私合规的 API 数据接口，允许独立科学家对算法推荐机制展开循证审计。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
 >
 > > [!axis] 事后事实核查（Debunking） vs 前置[[Scientific Literacy\|证据素养]]与预先免疫（Prebunking）
 > > 针对公众认知干预的有效性争议。

@@ -69,7 +69,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Barometer of Achievement
-> **成就气压计（Barometer of Achievement）** 是[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》全书中反复使用的标志性视觉图表，采用类似汽车速度表或工业压力表的半圆形仪表盘构造，用于将抽象的[[Effect Size|效应量]]（$d$）直观呈现在不同色彩区段内。该图表并非首创于教育学著作，而是直接脱胎于哈蒂此前为主管部门研制的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机化评估系统中的行政监控界面，旨在将教学成效规约为外显可读的仪表指针读数。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> **成就气压计（Barometer of Achievement）** 是[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》全书中反复使用的标志性视觉图表，采用类似汽车速度表或工业压力表的半圆形仪表盘构造，用于将抽象的[[Effect Size|效应量]]（$d$）直观呈现在不同色彩区段内。该图表是直接脱胎于哈蒂此前为主管部门研制的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机化评估系统中的行政监控界面，旨在将教学成效规范为外显可读的仪表指针读数，有别于首创于教育学著作。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将教育干预[[Meta-analysis|元分析]]统计合成值封装为工业仪表盘造型的视觉表征工具。
@@ -77,7 +77,7 @@ updated: 2026-11-02
 > - **边界** 仅为一种视觉修辞图式，不具备任何独立的统计推断功能；掩盖了效应量背后的测量误差、样本[[Heterogeneity|异质性]]与因果链条的断裂。
 
 > [!citation-card] 气压计图表的行政监控软件渊源
-> 《可见学习》中标志性的气压计图表并非纯粹的科普插图，而是直接取自哈蒂为新西兰教育部开发的 asTTle 计算机系统。该系统的管理界面专门设计用于支持学校管理层对全校 6 个科目的软件运行与测验实施情况进行全网实时追踪，将行政问责的监控逻辑直接内嵌于图表结构之中。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> 《可见学习》中标志性的气压计图表是直接取自哈蒂为新西兰教育部开发的 asTTle 计算机系统，有别于纯粹的科普插图。该系统的管理界面专门设计用于支持学校管理层对全校 6 个科目的软件运行与测验实施情况进行全网实时追踪，将行政问责的监控逻辑直接内嵌于图表结构之中。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 >
 > *The iconic barometer graphics throughout Visible Learning were borrowed directly from the administrative interface of the asTTle computer system developed by Hattie for the New Zealand Ministry of Education, which explicitly supported managerial [[Tracking]] of software usage across six subjects.*
 
@@ -127,7 +127,7 @@ updated: 2026-11-02
 > **探讨维度　视觉物化修辞与[[Performativity|表演性危机]]** 探讨仪表盘式视觉呈现如何配合医学手术隐喻，诱发一线学校追求形式主义指标的职业异化。
 
 > [!claim] Johnson & Janzen
-> **仪表盘物化修辞诱发去专业化与表演性异化** 气压计图表通过模仿精密物理仪器的表盘刻度，赋予[[Meta-meta-analysis|二阶元分析]]未经加权的简单均值以虚假的硬科学权威。这种将教育简化为速度表读数的做法，与保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]将教学比附为外科手术与高山救援的论调高度契合。然而，真实的学校教育是一项植根于特定社区的人际伦理实践，绝非对照仪表打卡。当气压计指标被澳大利亚维多利亚州等地转化为刚性的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）时，一线教师被要求在上课铃响前于白板抄写[[Learning Intentions|学习意图]]以备巡查，导致严重的[[Performativity|表演性]]危机，教师沦为应试流水线上的装配工，而学生被异化为产出分数的冰冷数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **仪表盘物化修辞诱发去专业化与表演性异化** 气压计图表通过模仿精密物理仪器的表盘刻度，赋予[[Meta-meta-analysis|二阶元分析]]未经加权的简单均值以虚假的硬科学权威。这种将教育简化为速度表读数的做法，与保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]将教学比附为外科手术与高山救援的论调高度契合。然而，真实的学校教育是一项植根于特定社区的人际伦理实践，有别于对照仪表打卡。当气压计指标被澳大利亚维多利亚州等地转化为刚性的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）时，一线教师被要求在上课铃响前于白板抄写[[Learning Intentions|学习意图]]以备巡查，导致严重的[[Performativity|表演性]]危机，教师沦为应试流水线上的装配工，而学生被异化为产出分数的冰冷数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 

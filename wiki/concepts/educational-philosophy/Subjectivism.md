@@ -105,8 +105,8 @@ updated: 2026-11-02
 > *A fundamental prerequisite for the [[Champ\|field]] to acquire scientific status was, according to the critics, the abolition of impressionism, subjectivity, speculation, intuition and predisposition, generically linked, with its qualitative and value-laden character, as this had been nurtured by the historical and philosophical work of its forefathers (Templeton, 1958; Epperson & Schmuck, 1963; Clayton, 1972)... Yet understanding and explanation should not be based any longer on the intuitive, cultivated and sensitive mind of the comparativist but on a hard-core scientific theory, comprising laws and verifiable quantitative [[Hypothesis\|hypotheses]] that would stand exhaustive empirical test.*
 
 > [!boundary]- 概念边界
-> - 不等于 唯我论（Solipsism） — 主观主义并不否认物理世界的外部存在，而是强调组织、制度、学校等社会实在是由知者赋予意义所发明构建的，绝非天然存在的实体。
-> - 不等于 任意个人武断（Caprice and Willfulness） — 严谨的主观阐释学恪守严格的语言分析、意义阐释与历史情境脉络，具备清晰的研究程序，并非研究者随心所欲的情感投射。
+> - 不等于 唯我论（Solipsism） — 主观主义并不否认物理世界的外部存在，是强调组织、制度、学校等社会实在是由知者赋予意义所发明构建的，有别于天然存在的实体。
+> - 不等于 任意个人武断（Caprice and Willfulness） — 严谨的主观阐释学恪守严格的语言分析、意义阐释与历史情境脉络，具备清晰的研究程序，有别于研究者随心所欲的情感投射。
 > - 不适用于 追求大样本去情境化统计推断或建构跨国普遍因果定律的量化实证工程。
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 伯勒尔与摩根主观主义四维假设构架
-> - **[[Nominalism\|唯名论]][[Ontology\|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者[[Co-invention|共同发明]]的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
+> - **[[Nominalism\|唯名论]][[Ontology\|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度是由人类行动者[[Co-invention|共同发明]]的社会实在，有别于自然实体。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
 > - **[[Interpretive Paradigm\|反实证主义]][[Epistemology\|认识论]]（Anti-[[Positivism]]）** 断言社会知识具有鲜明的个人性、主观性与独特性，坚决拒绝将自然科学的客观观察方法直接套用于人类事务，要求研究者同情性地投入研究对象的生活世界之中。
 > - **意志论人性假设（[[Voluntarism]]）** 坚信人是自身行动的发起者，拥有自由意志和[[Creativity\|创造力]]，能够在与环境的互动中能动地创造和重构自身的生活情境。
 > - **[[Idiographic\|个例式]]方法论（Idiographic Approach）** 聚焦对独特个别案例的深入剖析与理解，通过语言、叙事与符号意义的系统分析呈现社会现实，以此作为跨情境理解的基础。
@@ -155,13 +155,13 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜社会与组织实在是个体主观赋予意义与文化诠释的产物而非独立于知者的客观实体
-> **探讨维度　[[Nominalism\|唯名论]]本体与[[Interpretive Paradigm\|反实证主义]]建构** 主观主义学者从根本上颠覆了[[Positivism\|实证主义]]的实在论假定，主张社会制度、组织规则乃至学校架构并非天然存在的物质对象，而是行动者在日常交往中不断赋予意义、解释并维持的观念构建物。
+> **探讨维度　[[Nominalism\|唯名论]]本体与[[Interpretive Paradigm\|反实证主义]]建构** 主观主义学者从根本上颠覆了[[Positivism\|实证主义]]的实在论假定，主张社会制度、组织规则乃至学校架构是行动者在日常交往中不断赋予意义、解释并维持的观念构建物，有别于天然存在的物质对象。
 
 > [!claim] Burrell, G. & Morgan, G.
 > **个体主观经验对社会世界的建构律** 伯勒尔与摩根指出，主观主义研究取向的核心在于关注个体如何创造、修正和解释其身处的世界。社会世界本质上是一个主观的、相对主义的意义系统，而非独立于人类知觉之外的客观物质实体；研究者绝不能采用自然科学剥离主体经验的外在测量方式，而必须投身于行动者的生活经验中，通过[[Idiographic\|个例式]]进路理解具体情境下社会行动的主观规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
 
 > [!claim] [[Thomas Barr Greenfield\|Greenfield, T. B.]]
-> **组织作为被发明的社会实在** 托马斯·巴尔·格林菲尔德（Thomas Barr Greenfield）在反思组织理论时提出，学校和组织绝不是具有客观生命机能的有机体，而是特定人群在特定历史时刻发明的社会实在。组织内部的规则、权力结构与层级秩序，本质上是掌握权力者的价值观的制度化[[Externalization\|外化]]；理解组织的运行机制，关键不在于测量其外在产出指标，而在于探求组织成员赋予其自身行动的意义网络以及多元利益主体间的价值观冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
+> **组织作为被发明的社会实在** 托马斯·巴尔·格林菲尔德（Thomas Barr Greenfield）在反思组织理论时提出，学校和组织绝是特定人群在特定历史时刻发明的社会实在，有别于具有客观生命机能的有机体。组织内部的规则、权力结构与层级秩序，本质上是掌握权力者的价值观的制度化[[Externalization\|外化]]；理解组织的运行机制，关键在于探求组织成员赋予其自身行动的意义网络以及多元利益主体间的价值观冲突，有别于测量其外在产出指标。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-11-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **主观建构本体命题** | 社会世界与组织并非独立客观实体，而是行动者主观赋予意义与社会互动的产物 | 组织社会学、微观互动分析与质性诠释研究 | [[Burrell and Morgan Four Assumptions Framework\|Burrell & Morgan]]; Greenfield |
+> | **主观建构本体命题** | 社会世界与组织是行动者主观赋予意义与社会互动的产物，有别于独立客观实体| 组织社会学、微观互动分析与质性诠释研究 | [[Burrell and Morgan Four Assumptions Framework\|Burrell & Morgan]]; Greenfield |
 > | **实证去主观化命题** | 主观主义被视为通往科学化的障碍，主张通过[[Variable\|变量]][[Operationalization\|操作化]]与大[[Sample Size Determination\|样本量]]化消除观察者主观偏见 | 战后行为主义革命、结构功能主义与实证比较科学化运动 | Templeton; [[C. Arnold Anderson\|Anderson]]; [[Harold Noah\|Noah]] |
 > | **批判综合与后现代平反命题** | 批判二元论将主观信念纳入情境规范法则；后现代解构宏大叙事，确立主观与质性进路的同等学术合法性 | 现代科学哲学批判、后现代主义学术转型与多元范式共存格局 | [[Brian Holmes\|Holmes]]; [[Robert Cowen\|Cowen]]; Altbach |
 

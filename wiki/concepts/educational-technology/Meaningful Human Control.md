@@ -72,12 +72,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Meaningful Human Control
-> 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）伦理学、自主系统治理与[[Man-Computer Symbiosis|人机协同]]理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化决策支持系统深度介入的复杂任务或高风险决策中，**人类行动者绝非充当被动签字或机械确认的形式化外壳，而是保持对系统推理因果链的认知理解与主动追踪能力，主导关键证据权衡与分歧仲裁，并在出现异常、偏误或价值冲突时具备实质性的干预、否决与伦理问责权**。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 20, 24)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）伦理学、自主系统治理与[[Man-Computer Symbiosis|人机协同]]理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化决策支持系统深度介入的复杂任务或高风险决策中，**人类行动者是保持对系统推理因果链的认知理解与主动追踪能力，主导关键证据权衡与分歧仲裁，并在出现异常、偏误或价值冲突时具备实质性的干预、否决与伦理问责权**，有别于充当被动签字或机械确认的形式化外壳。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 20, 24)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立人类在人机协同决策中的实质性规范主导权，要求同时满足因果与规范层面的“追踪条件（[[Tracking]] Condition）”以及自主干预层面的“响应条件（Responsiveness Condition）”。
 > - **用途** 在高风险决策（如自主武器交战、重症临床诊断、司法刑罚评估）中设定人类道德审思不可让渡的伦理底线；在复杂学术任务（如系统评价与[[Meta-meta-analysis|二阶元分析]][[Research Synthesis|证据综合]]）中指导设计高效、低误差的人机混合验证工作流。
-> - **边界** 区别于形式化的人在回路（Human-in-the-Loop, HITL）；若人类缺乏专业鉴别力、抗辩工具或时间窗口，单纯在决策链末端设置人工签字不构成有意义控制。同时，该概念亦不要求人类对算法微观参数进行全量重复运算，而是聚焦于关键决策节点与分歧争议点的实质裁决。
+> - **边界** 区别于形式化的人在回路（Human-in-the-Loop, HITL）；若人类缺乏专业鉴别力、抗辩工具或时间窗口，单纯在决策链末端设置人工签字不构成有意义控制。同时，该概念亦不要求人类对算法微观参数进行全量重复运算，是聚焦于关键决策节点与分歧争议点的实质裁决。
 
 > [!citation-card] 证据综合中负责任人工智能与有意义人类控制准则（RAISE 指南；Jansen et al., 2026）
 > 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis, RAiSE）工作组与相关伦理框架明确规定，人工智能工具必须在有意义的人类控制下运行。研究者不仅需要全面评估模型在特定任务语境中的准确性基准，还必须设计透明的人机协作流，确保人类对争议数据和关键因果解释保持最终裁决权。[[Argument_Jansen_2026_EPR|(Thomas et al., 2025a; Jansen et al., 2026, pp. 6, 24)]]
@@ -85,12 +85,12 @@ updated: 2026-11-02
 > *Meaningful Human Control is a widely discussed [[Construct]] in AI ethics and states that systems should remain under meaningful control by humans... The RAISE guidance states that evaluation studies should determine whether an AI performs adequately in a given context, ensuring expert oversight rather than passive rubber-stamping.*
 
 > [!citation-card] 尊严关切与抵御人在回路形式化（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
-> 在关乎人类生命与重大利益的决策中保留人在回路，其核心规范目的在于确保真实的道德能动性得以行使。如果人类操作者因[[Trust Calibration|过度信任]]与[[Epistemic Deference|认识论顺从]]，在面对明确矛盾证据时依然对系统输出盲从核准，那么人在回路便蜕化为毫无实质意义的橡皮图章，实质上构成了对人类尊严与道德受托义务的违背。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> 在关乎人类生命与重大利益的决策中保留人在回路，其核心规范目的在于确保真实的道德能动性得以行使。如果人类操作人员因[[Trust Calibration|过度信任]]与[[Epistemic Deference|认识论顺从]]，在面对明确矛盾证据时依然对系统输出盲从核准，那么人在回路便蜕化为毫无实质意义的橡皮图章，实质上构成了对人类尊严与道德受托义务的违背。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 >
 > *Preserving a human in the loop is ethically aimed at securing the exercise of genuine moral agency. When operators, driven by overtrust and epistemic deference, rubber-stamp automated cues despite contradictory evidence, meaningful control is hollowed out, constituting an abdication of moral duties.*
 
 > [!boundary]- 概念边界辨析
-> - **区别于 形式化人在回路（Nominal Human-in-the-Loop）** 形式化回路仅要求流程中有人类点击确认，操作者极易因认知吝啬或过度信任退化为“橡皮图章”；有意义控制要求操作者具备真实的认识抗辩权、反思时间与证据核验工具。
+> - **区别于 形式化人在回路（Nominal Human-in-the-Loop）** 形式化回路仅要求流程中有人类点击确认，操作人员极易因认知吝啬或过度信任退化为“橡皮图章”；有意义控制要求操作人员具备真实的认识抗辩权、反思时间与证据核验工具。
 > - **区别于 全流程纯人工操作（Manual Processing）** MHC 并不排斥自动化；它主张利用大模型的高通量模式识别能力处理常规低风险任务，将人类专家的有限认知带宽集中于高价值的分歧仲裁与语境化裁决。
 > - **区别于 事后法律合规问责（Post-hoc Legal Accountability）** MHC 强调决策生成前与决策运行中的即时认知卷入与因果追踪，而非仅仅在灾难发生后由人类充当责任兜底的法律防雷针。
 
@@ -103,7 +103,7 @@ updated: 2026-11-02
 > | **认知投入** | 零心智投入，全盘外包算法 | 极低（易受顺从惯性与疲劳支配） | 高度聚焦于争议边界与复杂多源数据 | 全程保持认识警觉与自适应审思所有权 |
 > | **偏差防御机制** | 无防御，算法系统性偏误直接透传 | 极弱（极易诱发强[[Automation Bias\|自动化偏差]]与[[Epistemic Deference\|认识论顺从]]） | 依托多模型异构背对背提取与异常自动触发 | 依托反思机器与反驳型击败者注入[[Epistemic Friction\|认识论摩擦]] |
 > | **典型应用场景** | 低风险常规分类、高频数据过滤 | 军事空袭目标快审、信贷初筛流水线 | 证据综合、复杂文献计量与[[Meta-meta-analysis\|二阶元分析]] | 军事交战规则审查、重大疑难临床诊断与司法量刑 |
-> | **规范责任状态** | 算法黑箱导致责任主体悬空 | 责任不当转嫁给表面签字的操作者 | 科研团队承担清晰可审计的实质学术责任 | 人类操作者切实履行对生命尊严的道德受托义务 |
+> | **规范责任状态** | 算法黑箱导致责任主体悬空 | 责任不当转嫁给表面签字的操作人员 | 科研团队承担清晰可审计的实质学术责任 | 人类操作人员切实履行对生命尊严的道德受托义务 |
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-11-02
 > - **追踪条件（[[Tracking]] Condition）** 决策系统的运行路径与输出结果，必须能够持续、敏感地追踪人类行动者的规范意图、价值目标以及物理世界的真实事实证据。[[Argument_Jansen_2026_EPR|(Santoni de Sio & van den Hoven, 2018; Jansen et al., 2026, p. 6)]]
 > - **响应条件（Responsiveness Condition）** 当客观事实发生变化或人类形成相反理由时，系统必须具备容许人类随时干预、重写、撤销或中断决策的技术可操作性。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 24)]]
 > - **道德能动性卷入条件（Moral Agency Condition）** 在关乎生命健康或重大利益的决策中，必须确保人类行动者亲身投入道德同理与价值审思，严禁将伦理裁决权让渡给缺乏道德理解力的算法。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
-> - **认识抗辩与摩擦基础设施（Contestability & Friction Infrastructure）** 系统交互界面必须主动提供反常证据提示（[[Defeater|击败者机制]]）与反思质询（反思机器），赋予人类操作者推翻算法推荐的认知杠杆与制度保障。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
+> - **认识抗辩与摩擦基础设施（Contestability & Friction Infrastructure）** 系统交互界面必须主动提供反常证据提示（[[Defeater|击败者机制]]）与反思质询（反思机器），赋予人类操作人员推翻算法推荐的认知手段与制度保障。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 > - **多[[AI Agent in Education|智能体]]交叉比对与异常触发机制（Multi-Agent Discrepancy Flagging）** 在学术与数据密集型任务中，部署多个异构大模型独立执行任务，当模型间出现不一致时自动暂停全自动流并触发专家仲裁。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 17, 24)]]
 
 > [!logic-map]- 有意义人类控制的系统运行架构（方法学数据处理 vs 高风险道德决策）
@@ -140,7 +140,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜追踪与响应双重条件构成了有意义人类控制的规范哲学基石
-> **探讨维度　规范控制理论与因果机制耦合** 解构人类对自主与智能系统维持有效控制的哲学[[Necessary and Sufficient Conditions|必要条件]]。
+> **探讨维度　规范控制理论与因果机制连结** 解构人类对自主与智能系统维持有效控制的哲学[[Necessary and Sufficient Conditions|必要条件]]。
 
 > [!claim] Santoni de Sio & van den Hoven (2018); [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]
 > **因果追踪与理性响应的统一** 有意义的人类控制要求系统在哲学架构上必须同时满足两大条件：一是“追踪条件”，即系统的行为必须随人类行动者的理性理由与现实事实的变动而协同变动；二是“响应条件”，即必须存在具备充分情境理解力与干预能力的人类行动者，能够在感知到系统偏离或错误时直接纠正系统。若系统无法对人类的意图变动作出敏感响应，或人类无法获知系统的真实推理依据，任何表面上的人在回路都不能构成实质性的有意义控制。[[Argument_Jansen_2026_EPR|(Santoni de Sio & van den Hoven, 2018; Jansen et al., 2026, p. 6)]]
@@ -151,7 +151,7 @@ updated: 2026-11-02
 > **探讨维度　生命尊严伦理与道德能动性边界** 论证关乎人类基本权利与生死存亡的重大抉择为何绝对不能交由纯算法裁决。
 
 > [!claim] Heyns (2017); Sparrow (2016); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **道德关切的机器不可通达性与绝对底线** 基于[[Immanuel Kant|康德]]式生命尊严立场，人类生命拥有不可被纯优化计算或概率折损的内在价值。自动化与人工智能系统天然缺乏道德同理心、对死亡的敬畏以及承受道德悔尤的能力；在自主武器系统、急性重症抢救及刑事司法量刑等高风险情境中，保留人类控制并非单纯为了追求统计准确率，而是为了确保强制性裁决经过真实人类道德能动者的审慎评判，这是维护人类尊严与履行道德受托义务的绝对伦理红线。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> **道德关切的机器不可通达性与绝对底线** 基于[[Immanuel Kant|康德]]式生命尊严立场，人类生命拥有不可被纯优化计算或概率折损的内在价值。自动化与人工智能系统天然缺乏道德同理心、对死亡的敬畏以及承受道德悔尤的能力；在自主武器系统、急性重症抢救及刑事司法量刑等高风险情境中，保留人类控制是为了确保强制性裁决经过真实人类道德能动者的审慎评判，这是维护人类尊严与履行道德受托义务的绝对伦理红线，有别于单纯为了追求统计准确率。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-11-02
 > **探讨维度　认知偏差与制度化控制虚化** 揭示[[Automation Bias|强自动化偏差]]如何从认知与制度双重层面瓦解人类控制。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **[[Epistemic Deference|认识让渡]]对实质控制权的侵蚀** 即使在制度设计上保留了人在回路（HITL），当操作者受[[Trust Calibration|过度信任]]驱动产生强[[Automation Bias|自动化偏差]]时，其在面对明确的反常证据时仍会推翻自身正确判断以顺从算法提示，发生深层的[[Epistemic Deference|认识论顺从]]。这种顺从使人类操作者退化为法律免责的“橡皮图章（Rubber Stamp）”，以形式上的人类在场掩盖了实质上控制权的全盘让渡，导致有意义人类控制在实践中沦为空洞形式。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> **[[Epistemic Deference|认识让渡]]对实质控制权的侵蚀** 即使在制度设计上保留了人在回路（HITL），当操作人员受[[Trust Calibration|过度信任]]驱动产生强[[Automation Bias|自动化偏差]]时，其在面对明确的反常证据时仍会推翻自身正确判断以顺从算法提示，发生深层的[[Epistemic Deference|认识论顺从]]。这种顺从使人类操作人员退化为法律免责的“橡皮图章（Rubber Stamp）”，以形式上的人类在场掩盖了实质上控制权的全盘让渡，导致有意义人类控制在实践中沦为空洞形式。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 ---
 
@@ -175,16 +175,16 @@ updated: 2026-11-02
 > **探讨维度　交互系统重塑与批判性信任校准** 探讨如何通过界面交互与技术架构设计重建人类的抗辩权。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **生产性[[Epistemic Friction|认知摩擦]]对实质抗辩权的赋能** 落实有意义人类控制不能仅靠操作者的个人道德自律，必须在交互界面中内嵌结构化的[[Epistemic Friction|认识论摩擦]]：
-> 1. **反思机器（Reflection Machines, RMs）** 在关键裁决节点发起自适应[[Socrates|苏格拉底]]追问，迫使操作者阐述决策理由，重构审思所有权；
-> 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 自动呈现与系统推荐相冲突的对立诊断证据与反常指标，为人类提供直接质疑算法的认知杠杆，从架构层面恢复人类的实质控制权与可抗辩性。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
+> **生产性[[Epistemic Friction|认知摩擦]]对实质抗辩权的赋能** 落实有意义人类控制不能仅靠操作人员的个人道德自律，必须在交互界面中内嵌结构化的[[Epistemic Friction|认识论摩擦]]：
+> 1. **反思机器（Reflection Machines, RMs）** 在关键裁决节点发起自适应[[Socrates|苏格拉底]]追问，迫使操作人员阐述决策理由，重构审思所有权；
+> 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 自动呈现与系统推荐相冲突的对立诊断证据与反常指标，为人类提供直接质疑算法的认知手段，从架构层面恢复人类的实质控制权与可抗辩性。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 
 ---
 
 > [!contrast-table] 有意义的人类控制核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **规范基础命题** | 追踪条件与响应条件确立了人机控制的因果与理性耦合底线 | 自主系统安全设计、算法架构审计 | Santoni de Sio & van den Hoven (2018); [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] |
+> | **规范基础命题** | 追踪条件与响应条件确立了人机控制的因果与理性连结底线 | 自主系统安全设计、算法架构审计 | Santoni de Sio & van den Hoven (2018); [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] |
 > | **道德底线命题** | 生死抉择中的道德审思具有不可让渡性，机器天然缺乏道德理解力 | 军事自主武器系统、临床急症救治、司法刑罚判定 | Heyns (2017); Sparrow (2016); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **形式化解构命题** | 强自动化偏差诱发的认识论顺从使人在回路沦为形式化橡皮图章 | 高风险算法辅助审批、防空拦截指挥、AI 辅助病理诊断 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Cummings (2004) |
 > | **方法学最优化命题** | 多模型共识结合分歧仲裁实现证据提取的去偏与效率最优 | 系统评价、二阶[[Meta-analysis\|元分析]]、大规模科学文献编码 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Thomas et al. (2025a) |
@@ -229,7 +229,7 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | 156 篇初等与中等教育[[Meta-analysis\|元分析]]文献（123,082 数据单元） | 单人提取 vs 前沿大模型 vs 双模型共识+专家仲裁对比实验 | 编码准确度（[[Intraclass Correlation Coefficient\|组内相关系数]] ICC 与一致率）、人工耗时 | 单人提取 ICC 为 0.81–0.95（一致率 80%–86%，耗时 390h）；前沿大模型 ICC 为 0.96–0.97（耗时数分钟）；MHC 架构（双模型共识+专家仲裁）ICC $\to 0.99+$（一致率 $\to 100\%$，仅耗时 60–85h） | 逼近绝对金标准（仲裁解决 57 处既有数据库错误） | 证实 MHC 分歧触发机制在完全消除单人疏漏的同时削减约 80% 人工劳动 |
-> | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学专家 | AI 辅助肿瘤细胞占比（TCP）估算实验（设时间压力） | 专家独立判断正确但与错误 AI 提示冲突时的顺从频数 | 560 次评估中发生 67 次冲突咨询；其中 38 次专家主动将自身原本正确的判断改为顺从错误 AI 提示 | 原文报告频数 | 实证确证在高专业领域中形式化人类监督极易发生强偏差顺从，架空实质控制 |
+> | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学专家 | AI 辅助肿瘤细胞占比（TCP）估算实验（设时间压力） | 专家独立判断正确但与错误 AI 提示冲突时的顺从频数 | 560 次评估中发生 67 次冲突咨询；其中 38 次专家主动将自身原本正确的判断改为顺从错误 AI 提示 | 原始报告频数 | 实证确证在高专业领域中形式化人类监督极易发生强偏差顺从，架空实质控制 |
 > | [[Argument_Jovchevski_2026_PT\|Klingbeil et al. (2024; cited in Jovchevski et al., 2026)]] | 信任博弈决策实验 | 引入 AI 与专家标签建议的背叛风险决策 | 参与者在明确掌握相左历史证据时的顺从率 | 控制组合作率为 6%；收到标记为 AI 的建议时合作率上升至 44%（专家建议标签无显著变化） | $p < .01$ | 证明技术标签本身即可诱发强认知让渡，必须通过[[Epistemic Friction\|认知摩擦]]重塑控制权 |
 
 ---
@@ -238,14 +238,14 @@ updated: 2026-11-02
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统论证强[[Automation Bias|自动化偏差]]引发的[[Epistemic Deference|认识论顺从]]如何架空有意义的人类控制，并提出利用反思机器与[[Defeater|反驳型击败者]]重建人类实质性道德能动性。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论成功[[Operationalization|操作化]]于教育[[Research Synthesis|证据综合]]与[[Meta-meta-analysis|二阶元分析]]流程，创立多模型共识结合专家仲裁的高效去偏[[Paradigm|范式]]。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 强调在高等教育学术探究中维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]，防止将关键证据核验全盘委派给大语言模型。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作者控制权的流失。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作人员控制权的流失。
 
 ---
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |
 > |---|---|---|
-> | [[Automation Bias]] | 破坏机制 | 自动化偏差直接导致操作者放弃自主审查，使有意义人类控制蜕变为形式化橡皮图章。 |
+> | [[Automation Bias]] | 破坏机制 | 自动化偏差直接导致操作人员放弃自主审查，使有意义人类控制转变为形式化橡皮图章。 |
 > | [[Epistemic Deference]] | [[Epistemology\|认识论]]根源 | 认知主体向算法让渡终局权威是导致人类控制实质性瓦解的深层社会认识论机制。 |
 > | [[Epistemic Friction]] | 恢复工具 | 引入反思机器与[[Defeater\|击败者]]等认识论摩擦机制是恢复人类实质控制权与可抗辩性的关键设计路径。 |
 > | [[Generative Artificial Intelligence]] | 协同环境 | 生成式 AI 高通量生成与多模态交互对传统的静态人类控制机制提出了动态重塑挑战。 |

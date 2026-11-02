@@ -85,7 +85,7 @@ updated: 2026-11-02
 > - **第五阶段：汇报成果展示（Presenting the Project）** 各小组依次向全班汇报成果，其他同学进行倾听、提问与评议。
 > - **第六阶段：多[[Meta-meta-analysis\|元综合]]评价（Evaluating the Investigation）** 结合小组自评、[[Peer Assessment|同伴互评]]与教师评价，综合考核探究深度、合作质量与展示表现。
 
-> [!logic-map]- 小组调查法全流程闭环模型
+> [!logic-map]- 小组调查法全流程反馈回路模型
 > ```mermaid
 > flowchart TD
 >     A["阶段1：确定大主题与自主组队"] --> B["阶段2：规划探究方案与组内分工"]
@@ -99,7 +99,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜开放式探究与深度社会协商是驱动理工科深层概念建构与情感赋能的强效引擎
-> **探讨维度　科学探究与效能感协同机制** 当学生经历真实的科研探究流程并自主掌控调查路径时，其学科动机、效能感与高阶概念理解将产生质的跃迁。
+> **探讨维度　科学探究与效能感协同机制** 当学生经历真实的科研探究流程并自主掌控调查路径时，其学科动机、效能感与高阶概念理解将产生质的转向。
 
 > [!claim] Sharan & Sharan; Tanjung et al.; Güngör et al.
 > **小组[[Survey Research\|调查法]]展现出极高层级的干预效益** [[Meta-meta-analysis\|二阶元分析]]表明，小组调查法在所有合作技术亚组中呈现出仅次于 [[Cooperative Integrated Reading and Composition\|CIRC]] 的极高效益（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）；在一阶物理课堂实验中，小组调查法对物理[[Academic Achievement\|学业成就]]（$ES = 0.96$）与物理学习情感能力（$ES = 1.26$）均产生巨大促进，证实自主探究对突破传统理科教学[[Rote Learning\|死记硬背]]具有决定性价值。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 小组[[Survey Research\|调查法]]的发展演进
-> - **1970s — 理论萌芽与初步实验** Shlomo Sharan 与合作者在特拉维夫大学基于[[John Dewey\|杜威]]教育思想设计出初步的小组探究流程，用于促进多元文化背景学生的学术与社会融入。
+> - **1970s — 理论萌芽与初步实验** Shlomo Sharan 与共事者在特拉维夫大学基于[[John Dewey\|杜威]]教育思想设计出初步的小组探究流程，用于促进多元文化背景学生的学术与社会融入。
 > - **1992 — 《合作扩展学习：小组调查法》著作出版** Sharan & Sharan 正式确立六阶段标准规程，确立其作为[[Cooperative Learning\|合作学习]]中最具自主性与探究深度的代表性模式。
 > - **2000s 至今 — [[STEM Education\|STEM]] 整合与跨国实证应用** 广泛应用于科学、物理、地理与社会问题探究课程中，[[Meta-meta-analysis\|二阶元分析]]证实其综合效应高达 $ES = 1.08$。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
 

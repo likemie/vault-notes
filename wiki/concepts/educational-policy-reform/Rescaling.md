@@ -6,7 +6,7 @@ aliases:
   - State Rescaling
   - Policy Rescaling
   - 尺度重构
-summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规约权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度并非天然给定的物理容器，而是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型。"
+summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规范权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型，有别于天然给定的物理容器。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 20
@@ -53,7 +53,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Rescaling
-> 尺度重组（Rescaling，亦称空间尺度重构或国家尺度重组），是政治地理学（Brenner, 2004）与批判性教育政策研究（Robertson & Dale, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）的核心概念。它指在全球化、新自由主义转型与数字化监测扩张的驱动下，国家规约权力、政策功能与制度安排在跨国（Transnational）、国家（National）、次国家/联邦州（Subnational）以及地方/市镇（Local）等不同空间尺度之间所发生的质性重构、分层转移与再结网过程。该概念强调：空间尺度并非先验、固定、天然存在的地理容器，而是由社会行动者、制度博弈与技术媒介不断生产、协商与争夺的动态产物（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–136]]）。
+> 尺度重组（Rescaling，亦称空间尺度重构或国家尺度重组），是政治地理学（Brenner, 2004）与批判性教育政策研究（Robertson & Dale, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）的核心概念。它指在全球化、新自由主义转型与数字化监测扩张的驱动下，国家规范权力、政策功能与制度安排在跨国（Transnational）、国家（National）、次国家/联邦州（Subnational）以及地方/市镇（Local）等不同空间尺度之间所发生的质性重构、分层转移与再结网过程。该概念强调：空间尺度是由社会行动者、制度博弈与技术媒介不断生产、协商与争夺的动态产物（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–136]]），有别于先验、固定、天然存在的地理容器。
 
 > [!concept-lens] 概念透镜
 > - **含义** 权力与政策职能在不同地理与行政层级之间的动态重新配置与交织穿透。
@@ -68,7 +68,7 @@ updated: 2026-11-02
 > *The ongoing trend towards educational globalisation has brought about various dynamics of education policy ‘rescaling’, resulting in a growing number of governmental arrangements, which are operating across traditional scales, levels or sectors of policy... data infrastructures... appear as a ‘hidden’, underexplored facet of policy rescaling in education.*
 
 > [!boundary]- 概念边界
-> - 不等于 领土去国家化（Denationalization） — 尺度重组并不意味着民族国家权力的消亡或被架空，而是国家权力以新型跨尺度网络（如设立国家[[Center of Calculation\|计算中心]]、推行联邦专项基金）进行自我再造与再领土化（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 135]]）。
+> - 不等于 领土去国家化（Denationalization） — 尺度重组并不意味着民族国家权力的消亡或被架空，是国家权力以新型跨尺度网络（如设立国家[[Center of Calculation\|计算中心]]、推行联邦专项基金）进行自我再造与再领土化（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 135]]）。
 > - 不等于 单纯的行政权力下放（Decentralization） — 尺度重组往往伴随着“去中心化的形式与中心集权的标准”这一双重运动。
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-11-02
 > **探讨维度　领土政治与多层级博弈维度** 剖析全球化与尺度重组过程中地方[[Path Dependence|路径依赖]]、国家主权强化与次国家防御的复杂共存状态。
 
 > [!claim] Brenner, N.; [[Sigrid Hartong\|Hartong, S.]]; [[Susan L. Robertson|Robertson, S. L.]]
-> **尺度重组中的领土防御与制度妥协** 尺度重组决非线性的去国家化，而是伴随着强烈的再领土化（Re-territorialisation）防御与制度再协商。在德国个案中，尽管 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与 IQB 建立了跨尺度的统一测评网络，但各联邦州依然牢牢掌控着[[School Inspection\|学校督导]]权与具体人事财政权，并在法律上明文禁止发布公立学校绩效排行榜，以捍卫各州的文化主权（Kulturhoheit）。这表明尺度重组是在旧有的制度路径依赖与新型跨尺度治理技术之间的持续博弈与妥协构型（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。
+> **尺度重组中的领土防御与制度妥协** 尺度重组决非线性的去国家化，是伴随着强烈的再领土化（Re-territorialisation）防御与制度再协商。在德国个案中，尽管 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与 IQB 建立了跨尺度的统一测评网络，但各联邦州依然牢牢掌控着[[School Inspection\|学校督导]]权与具体人事财政权，并在法律上明文禁止发布公立学校绩效排行榜，以捍卫各州的文化主权（Kulturhoheit）。这表明尺度重组是在旧有的制度路径依赖与新型跨尺度治理技术之间的持续博弈与妥协构型（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。
 
 ---
 

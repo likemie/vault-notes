@@ -95,7 +95,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **即时满足与认知捷径依赖** [[Generative Artificial Intelligence\|GenAI]] 能够以极快速度输出结构完整、语言流畅的解答，消除认知冲突与求知阻力，诱使学生形成依赖算法输出的习惯心理。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 4, 16)]]
-> - **监控回路旁路（Bypassing Monitoring Loop）** 传统[[Learner Autonomy\|自主学习]]中“计划—监控—评估—调节”的闭环，在自动化答案呈现时被短路，[[Reflexivity\|反思性]]提问退化为单向指令索取。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 16, 18)]]
+> - **监控回路旁路（Bypassing Monitoring Loop）** 传统[[Learner Autonomy\|自主学习]]中“计划—监控—评估—调节”的反馈回路，在自动化答案呈现时被短路，[[Reflexivity\|反思性]]提问退化为单向指令索取。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 16, 18)]]
 > - **能力幻觉与表面绩效繁荣（[[Illusion of Competence]]）** 学生将 AI 辅助下生成的优质文本或代码误认为是自身心智能力的体现，掩盖了真实概念理解与反思能力的停滞。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 4, 18)]]
 > - **外在反思[[Scaffolding\|脚手架]]缺位** 大多数现有 AI 工具仅聚焦于“内容生成”与“单向解答”，缺乏促使学习者审视思维缺陷、权衡不同方案的交互引导机制。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 16)]]
 
@@ -123,13 +123,13 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜外在教学与技术[[Scaffolding|脚手架]]的显性植入是打破元认知惰性并重塑[[Self-Regulated Learning|自我调节学习]]的关键前提
-> **探讨维度　外部反思干预与元认知重塑** 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型跃迁为思维激发型。
+> **探讨维度　外部反思干预与元认知重塑** 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型转向为思维激发型。
 
 > [!claim] Karaoglan Yilmaz & Yilmaz
 > **元[[Scaffolding\|认知脚手架]]的不可或缺性** 学习者在使用 AI 工具时需要更强大的[[Self-Regulated Learning\|自我调节学习]]能力以主动设定目标和评估进度；未来技术与教学设计必须强制嵌入元认知脚手架，推动 AI 从单纯的信息传输转向促进[[Cognitive Flexibility\|认知灵活性]]与自省意识。[[Argument_Chen_Cheung_2025_ERR\|(Karaoglan Yilmaz & Yilmaz, 2025; 引自 Chen & Cheung, 2025, p. 16)]]
 
 > [!claim] Chen & Cheung
-> **结构化反思培训与制度性规约** 要化解生成式 AI 带来的元认知钝化风险，教育机构和教师不能仅关注工具操作层面的培训，而必须向学生系统提供结构化自我评估、策略批判与人机提示词反思训练，通过显性规则将反思环节重新植入学习活动闭环。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 18–19)]]
+> **结构化反思培训与制度性规范** 要化解生成式 AI 带来的元认知钝化风险，教育机构和教师不能仅关注工具操作层面的培训，而必须向学生系统提供结构化自我评估、策略批判与人机提示词反思训练，通过显性规则将反思环节重新植入学习活动反馈回路。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 18–19)]]
 
 ---
 
@@ -137,7 +137,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **内部监控抑制命题** | 即时生成机制旁路自主监控回路，引发表面绩效与认知监控脱钩 | 开放式、无反思引导的 [[Generative Artificial Intelligence\|GenAI]] 问答与作业写作环境 | Fan et al. (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
-> | **外部脚手架破局命题** | 必须通过结构化自我评估与技术反思提示打破惰性，赋能自我调节 | 课程整合、教学系统设计与[[Man-Computer Symbiosis\|人机协同]]学习全流程 | Karaoglan Yilmaz and Yilmaz (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
+> | **外部脚手架突破命题** | 必须通过结构化自我评估与技术反思提示打破惰性，赋能自我调节 | 课程整合、教学系统设计与[[Man-Computer Symbiosis\|人机协同]]学习全流程 | Karaoglan Yilmaz and Yilmaz (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-11-02
 > > [!axis] 解决路径：限制技术使用 vs 嵌入反思[[Scaffolding\|脚手架]]
 > > 针对[[Metacognition\|元认知]]惰性的防范，政策与教学实践呈现出两种治理取向。
 > >
-> > - **传统规约派** 主张在考试与核心[[Homework\|作业]]中限制或严禁 AI 接入，以强制恢复学生的内部心智运算与自我监控阻力。
+> > - **传统规范派** 主张在考试与核心[[Homework\|作业]]中限制或严禁 AI 接入，以强制恢复学生的内部心智运算与自我监控阻力。
 > > - **活动重构派（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）** 认为技术不可逆，应通过活动系统的规则设计植入元认知脚手架，在人机交互中重构自我调节机制。
 
 > [!warning] 适用局限

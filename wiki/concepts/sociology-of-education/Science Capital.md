@@ -56,7 +56,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜家庭科学资本的阶层分化直接决定青少年的科学抱负与 [[STEM Education|STEM]] 轨迹
-> **探讨维度　资本不平等与阶层再生产** 科学并非纯粹中立的竞技场，科学资本的占有量直接决定了青少年能否将科学发展视作自身可行的人生路径。
+> **探讨维度　资本不平等与阶层再生产** 科学有别于纯粹中立的竞技场，科学资本的占有量直接决定了青少年能否将科学发展视作自身可行的人生路径。
 
 > [!claim] Archer et al. (2020) & [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **ASPIRES 追踪实证** 伦敦大学学院 ASPIRES 纵向追踪表明，高[[Socioeconomic Status|社会经济地位]]家庭子女拥有显著更丰富的科学资本，其表达科学抱负的概率远高于弱势群体；学校教育若缺乏针对性补偿机制，将进一步放大阶层马太效应。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]

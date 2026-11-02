@@ -113,14 +113,14 @@ updated: 2026-11-02
 > | **知识源泉** | 感官知觉、实地观察、测量数据、后天体验与实战运行反馈 | 先天理性、逻辑推演、数学公理与反思明证 |
 > | **核心方法论** | 培根式经验归纳法、假设检验、受控实验、即兴试错迭代 | [[René Descartes\|笛卡尔]]式演绎三段论、先验公理化体系推导 |
 > | **真理检验标准** | 实证证据的概率支持力度、经验可复核性与现实运行效果 | 逻辑无矛盾性、演绎必然性与理性自明度 |
-> | **对理论的定位** | 理论是经验事实的概括，必须随时接受数据与实战修正 | 理论是统摄感官表象的公理体系，经验仅为佐证 |
+> | **对理论的定位** | 理论是经验事实的概括，必须随时接受数据与实战修正 | 理论是统领感官表象的公理体系，经验仅为佐证 |
 > | **学术与工程表现** | 实证调查、随机实验、行为分析、软件敏捷开发与实战试错 | 经典教育哲学思辨、规范伦理推演、纯理论形式化模型 |
 
 ---
 
 > [!feature] 核心要素
 > - **感官经验第一性（Primacy of Sensory Experience）** 坚信一切关于外部世界的可靠判断必须立足于可直接观察或间接测量的感觉经验材料。
-> - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，而是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
+> - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
 > - **反先验教条主义（Anti-a-priori Dogmatism）** 拒绝任何未经经验数据检验的先验教条或权威断言，坚持理论与系统的立足性完全取决于证据与实战质量。
 > - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的通用科学方法信仰，即仅认可假设检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为巴伯（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
@@ -157,7 +157,7 @@ updated: 2026-11-02
 > **探讨维度　证据效度与理论检验维度** 探讨科学知识的合法化根基。经验主义将经验证据确立为理论存续的唯一裁决法庭。
 
 > [!claim] Barratt & Cohen et al.
-> **经验可验证性与证据判定** 科学探究中的经验性意味着能够通过观察与直接体验进行复核；任何科学假说或[[Construct|理论构念]]的可维持性，绝非取决于其逻辑的繁复程度，而完全取决于经验证据从概率角度为其提供的确认支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Barratt, 1971 via Cohen et al., 2011, Ch. 1, pp. 15–16)]]
+> **经验可验证性与证据判定** 科学探究中的经验性意味着能够通过观察与直接体验进行复核；任何科学假说或[[Construct|理论构念]]的可维持性，并不取决于其逻辑的繁复程度，而完全取决于经验证据从概率角度为其提供的确认支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Barratt, 1971 via Cohen et al., 2011, Ch. 1, pp. 15–16)]]
 
 ---
 
@@ -169,7 +169,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题三｜纯粹经验事实并非无前提中立存在，所有经验观察在[[Epistemology|认识论]]上皆受到[[Theoretical Perspective|理论视角]]的渗透
+> [!concept-proposition] 命题三｜纯粹经验事实有别于无前提中立存在，所有经验观察在[[Epistemology|认识论]]上皆受到[[Theoretical Perspective|理论视角]]的渗透
 > **探讨维度　后实证反思与理论负载维度** 探讨素朴经验论的[[Epistemology|认识论]]困境。科学哲学揭示了观察与理论的共谋关系。
 
 > [!claim] Popper, K.
@@ -181,7 +181,7 @@ updated: 2026-11-02
 > **探讨维度　学科认识论与唯方法论主义批判维度** 探讨经验主义在社会科学与教育研究中的异化形态。卡扎米亚斯揭示了方法论经验主义对学科历史深度与[[Geisteswissenschaften|精神科学]]身份的削蔽。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M. & Schwartz, K.
-> **方法论经验主义与唯方法论主义批判判定** 20 世纪 1960–1970 年代战后实证[[Scientism|科学主义]]运动将教育研究推向以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）及芝加哥学派[[Human Capital Theory|人力资本理论]]家萨查洛普洛斯（[[George Psacharopoulos]]）为代表的方法论经验主义（methodological empiricism）乃至唯方法论主义（methodologism）。该范式秉持科学一元论假定，试图将学科改造为完全等同于自然科学的去情境化假设检验、[[Variable|变量]]控制与大[[Sample Size Determination|样本量]]化分析体系（如[[IEA|国际教育成就评价协会]]（IEA）早期跨国数学成就测试）。卡扎米亚斯强调，比较教育学并非狭隘的经验社会科学（empirical social science），而是深植于德语精神科学（*Geisteswissenschaften*）传统的阐释性、解释学与批判性人文科学；将经验探究等同于量化方法论主义，不仅导致学科陷入无历史性（ahistorical）的学术失忆症，更使量化指标沦为官僚统治与外部资助机构推行既定政策的[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias & Schwartz, 1977; Kazamias, 2009a, pp. 143, 147–149)]]
+> **方法论经验主义与唯方法论主义批判判定** 20 世纪 1960–1970 年代战后实证[[Scientism|科学主义]]运动将教育研究推向以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）及芝加哥学派[[Human Capital Theory|人力资本理论]]家萨查洛普洛斯（[[George Psacharopoulos]]）为代表的方法论经验主义（methodological empiricism）乃至唯方法论主义（methodologism）。该范式秉持科学一元论假定，试图将学科改造为完全等同于自然科学的去情境化假设检验、[[Variable|变量]]控制与大[[Sample Size Determination|样本量]]化分析体系（如[[IEA|国际教育成就评价协会]]（IEA）早期跨国数学成就测试）。卡扎米亚斯强调，比较教育学是深植于德语精神科学（*Geisteswissenschaften*）传统的阐释性、解释学与批判性人文科学，有别于狭隘的经验社会科学（empirical social science）；将经验探究等同于量化方法论主义，不仅导致学科陷入无历史性（ahistorical）的学术失忆症，更使量化指标沦为官僚统治与外部资助机构推行既定政策的[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias & Schwartz, 1977; Kazamias, 2009a, pp. 143, 147–149)]]
 
 ---
 
@@ -189,7 +189,7 @@ updated: 2026-11-02
 > **探讨维度　复杂自适应系统与工程实践拓展维度** 探讨经验主义从自然科学和哲学认识论向技术工程实践与自适应组织的纵深拓展。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **工程经验主义与即兴试错法则判定** 软件工程与前沿技术系统的构建并非象牙塔式的先验理论推演，而是一门基于客观物理世界交互与用户实战检验的经验观察性科学（empirical and observational science）。在面对高度不确定的复杂环境时，工程师与技术组织必须秉持喜剧演员杰里·赛恩菲尔德（Jerry Seinfeld）式的极简经验主义准则——只要管用就去尝试（try whatever works），将技术迭代视为不断接受现实检验的即兴剧场，以真实运行结果作为衡量系统优劣与组织效能的唯一基准，坚决扬弃官僚式的先验公理与权威教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–123)]]
+> **工程经验主义与即兴试错法则判定** 软件工程与前沿技术系统的构建是一门基于客观物理世界交互与用户实战检验的经验观察性科学（empirical and observational science），有别于象牙塔式的先验理论推演。在面对高度不确定的复杂环境时，工程师与技术组织必须秉持喜剧演员杰里·赛恩菲尔德（Jerry Seinfeld）式的极简经验主义准则——只要管用就去尝试（try whatever works），将技术迭代视为不断接受现实检验的即兴剧场，以真实运行结果作为衡量系统优劣与组织效能的唯一基准，坚决扬弃官僚式的先验公理与权威教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–123)]]
 
 ---
 
@@ -263,7 +263,7 @@ updated: 2026-11-02
 > | [[Engineering Mindset\|工程思维]] | 概念 | 经验主义构成了工程思维在面对未知与复杂系统时依赖实战观测与即兴迭代的底层认识论。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 方法论经验主义构成战后实证[[Scientism\|科学主义]]普罗透斯式认识型的核心形态。 |
 > | [[Geisteswissenschaften\|精神科学]] | 概念 | 德语精神科学传统，提供抵御去情境化经验主义与唯方法论主义的[[Humanistic Episteme\|人文认识论]]防线。 |
-> | [[Social Science as Legitimation Alibi\|社会科学作为合法化借口]] | 概念 | 揭示经验主义量化预测如何蜕变为官僚决策推卸责任与粉饰政绩的科学借口。 |
+> | [[Social Science as Legitimation Alibi\|社会科学作为合法化借口]] | 概念 | 揭示经验主义量化预测如何转变为官僚决策推卸责任与粉饰政绩的科学借口。 |
 > | [[Determinism\|决定论]] | 概念 | 科学四大信仰假设之一，与经验主义共同支撑因果规律的发现。 |
 > | [[Principle of Parsimony\|简约原则]] | 概念 | 科学四大信仰假设之一，在经验证据的约束范围内指导理论的精简化选择。 |
 > | [[Postpositivism\|后实证主义]] | 概念 | 对传统绝对经验主义的批判性修正，主张可错论与多元实证理据支持。 |

@@ -111,7 +111,7 @@ updated: 2026-11-02
 > - **数据控制权让渡与选择性披露（Selective Publication）** 资助方往往在协议中保留审查与推迟发布的特权，以防不利实证破坏政策正当性。(Sanday, 1993)
 > - **跨国多边委托与受雇专家共同体（Transnational Experts for Hire）** 国际多边金融机构通过长期大额委托合同，培植遵循华盛顿政策处方的跨国专家网络，垄断全球教育[[Discourse|话语]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
-> [!logic-map]- 分类资助的议程规训与政策闭环
+> [!logic-map]- 分类资助的议程规训与政策反馈回路
 > ```mermaid
 > flowchart LR
 >     A["资助方预设政策议程与指标边界"] --> B["发布招标指南与高额定向委托预算"]
@@ -171,7 +171,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 概念演变
 > - **1980年代 — 英国与西方[[New Public Management|新公共管理]]兴起** 撒切尔主义与新公共管理（NPM）重构公共科研资助体制，政府部门开始大规模压缩无条件的大学区块拨款，转向针对具体政策目标的定向分类招标。
-> - **1993 — 学术自主性危机反思** 伯吉斯（Burgess）与桑戴（Sanday）发表经典论文，系统揭示分类资助如何通过合同劳工化与数据所有权转让，对教育学术独立性造成结构性破坏。
+> - **1993 — 学术自主性危机反思** 伯吉斯（Burgess）与桑戴（Sanday）发表经典文章，系统揭示分类资助如何通过合同劳工化与数据所有权转让，对教育学术独立性造成结构性破坏。
 > - **1990–2000年代 — 跨国多边金融机构全球化扩张** 以[[World Bank|世界银行]]为核心的国际组织将定向委托研究机制推向全球，通过雇佣跨国专家团队，将量化投入产出分析与结构调整挂钩。
 > - **2001–2009 — 英国 NERF 批判与跨国[[Discourse|话语]]流通模型** 鲍尔（Ball, 2001）批判英国全国教育研究论坛（NERF）以委托合同对大学学术研究进行降维打击；比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）进一步将委托研究置于跨国五位置流通模型中，揭示短期合同如何通过压缩研究周期与捆绑出资方意图，侵蚀大学基础学术研究的独立生态。
 > - **2009 — [[Conditioned State Theory|受限国家]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯将跨国定向委托研究正式定性为[[Financial-Intellectual Complex|金融-智识复合体]]的霸权运作机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
@@ -213,7 +213,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 揭示[[World Bank|世界银行]]如何将长周期巨额定向委托研究作为构建跨国[[Financial-Intellectual Complex|金融-智识复合体]]、推行新古典教育经济学规训的制度杠杆。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 揭示[[World Bank|世界银行]]如何将长周期巨额定向委托研究作为构建跨国[[Financial-Intellectual Complex|金融-智识复合体]]、推行新古典教育经济学规训的制度手段。
 > - [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]] — 揭示国际机构委托研究如何通过极限压缩交付周期迫使学者放弃理论复杂性，与鲍尔（Ball, 2001）共同批判合同资助对大学[[Knowledge Production|知识生产]]逻辑的结构性侵蚀。
 
 ---
@@ -234,5 +234,5 @@ updated: 2026-11-02
 > | **核心学者与批判理论家** | [[Jason Beech]] | 人物 | 比较教育学者，通过五位置流通模型揭示国际组织委托合同如何以极短周期迫使学者交付过度简化的政策包裹。 |
 > | **核心学者与批判理论家** | [[Joel Samoff]] | 人物 | [[International Education\|国际教育]]政治经济学者，揭示世界银行受雇专家共同体如何垄断非洲等南方地区的教育研究议程。 |
 > | **核心学者与批判理论家** | [[Liliana Esther Olmos]] | 人物 | 比较教育学者，系统论证世界银行定向资助在构建金融-智识复合体与方法论规训中的关键作用。 |
-> | **经典论证[[Document\|文献]]与文本** | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 解构国际组织如何借助委托研究与紧迫[[Pragmatic Paradigm\|实用主义]]闭合政策空间，对比大学专著与机构简报的生产逻辑。 |
+> | **经典论证[[Document\|文献]]与文本** | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 解构国际组织如何借助委托研究与紧迫[[Pragmatic Paradigm\|实用主义]]封闭政策空间，对比大学专著与机构简报的生产逻辑。 |
 > | **经典论证文献与文本** | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | 论证 | 批判多边金融机构利用定向资助在发展中国家强推结构调整与新古典经济学实证规训。 |

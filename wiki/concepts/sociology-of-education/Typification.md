@@ -52,7 +52,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Typification
-> **类型化（Typification）**，是由[[Phenomenology\|现象学]]社会学家[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）系统奠立的核心认知与社会互动机制（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 19）。舒茨指出，人类理解他人行为并不是直接透视他人不可直接通达的意识流，而是依赖于一套类似于[[Max Weber\|马克斯·韦伯]]“理想类型（ideal types）”的常识性[[Concept Mapping\|概念图]]式。这些概念图式源自行动者的日常生活经验、传记情境（biographical locations）以及代代传承的社会手头知识库（stock of knowledge at hand）。行动者正是通过类型化来对纷繁复杂的日常生活世界进行分类、赋义与秩序化重组，从而能够在不同的“多重实在（multiple realities）”之间自如穿梭并遵循各领域的互动游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
+> **类型化（Typification）**，是由[[Phenomenology\|现象学]]社会学家[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）系统奠立的核心认知与社会互动机制（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 19）。舒茨指出，人类理解他人行为并是依赖于一套类似于[[Max Weber\|马克斯·韦伯]]“理想类型（ideal types）”的常识性[[Concept Mapping\|概念图]]式，有别于直接透视他人不可直接通达的意识流。这些概念图式源自行动者的日常生活经验、传记情境（biographical locations）以及代代传承的社会手头知识库（stock of knowledge at hand）。行动者正是通过类型化来对纷繁复杂的日常生活世界进行分类、赋义与秩序化重组，从而能够在不同的“多重实在（multiple realities）”之间自如穿梭并遵循各领域的互动游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者在社会交往中将独特的个别经验归入匿名化、一般化的常识范畴的心智与符号过程。
@@ -84,7 +84,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **理想类型中介（Ideal-typical [[Construct\|constructs]]）** 行动者无法穷尽他人原生意识的全部细节，必须借助具有一定抽象度和共识性的“理想类型”来推断他人的意图与动机。
-> - **手头知识库的社会沉淀（Stock of Knowledge at Hand）** 类型化并非个体的纯粹主观臆造，而是社会历史传承的配方、常识格言与文化图式的积淀，个体在社会化进程中习得。
+> - **手头知识库的社会积累（Stock of Knowledge at Hand）** 类型化是社会历史传承的配方、常识格言与文化图式的积淀，个体在社会化进程中习得，有别于个体的纯粹主观臆造。
 > - **传记情境差异性（Biographical Locations）** 每一个体的物理位置、家庭出身、职业履历与历史经验构成了其独特的传记情境，决定了其手头类型化知识库的视角与重点。
 > - **多重实在的导航仪（Navigation across Multiple Realities）** 行动者生活在由日常生活、科学探究、游戏与梦境等构成的多重实在中，类型化为行动者在不同领域间切换“游戏规则”提供了心智向导。
 
@@ -151,7 +151,7 @@ updated: 2026-11-02
 > > 争论日常类型化究竟是促进了顺畅沟通，还是维系了阶级与种族压迫。
 > >
 > > - **[[Phenomenology\|现象学]]社会学派（Schutz, 1962; Berger & Luckmann, 1966）** 强调类型化是社会秩序维系与人际沟通不可或缺的心智节能机制，排斥盲目道德批判。
-> > - **批判社会学派（Bernstein, 1974; Rex, 1974）** 指责类型化绝非[[Value Neutrality\|价值中立]]，统治阶级的[[Hegemony\|文化霸权]]往往伪装成常识类型化图式，使教师对底层学生的排斥合法化。
+> > - **批判社会学派（Bernstein, 1974; Rex, 1974）** 指责类型化有别于[[Value Neutrality\|价值中立]]，统治阶级的[[Hegemony\|文化霸权]]往往伪装成常识类型化图式，使教师对底层学生的排斥合法化。
 >
 > > [!axis] 二阶科学[[Construct\|构念]]是解释还是一阶图式的附庸
 > > 争论科学研究能否超越行动者的常识类型化提出客观解释。

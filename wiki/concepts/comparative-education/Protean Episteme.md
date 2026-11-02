@@ -89,15 +89,15 @@ updated: 2026-11-02
 ---
 
 > [!def] Protean Episteme
-> **普罗透斯式认识体系（Protean Episteme）** 是由希腊裔比较教育史学家[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）借用古希腊神话中能够随心所欲变换形态的海神普罗透斯（Proteus）隐喻，界定比较教育学作为一门多学科交叉“人文科学”（Human Science, *Vergleichende Erziehungswissenschaft*）的本质[[Epistemology|认识论]]特征。该概念指明：比较教育学在两百余年的历史演化中从来不是单一面向或单音调的知识体系，而是如同身披不同颜色认识论、方法论和意识形态丝线织就的各异装束，随着不同历史时代的智识思潮、研究风尚与文化诉求而持续变换其面貌、研究重点与论述代际。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
+> **普罗透斯式认识体系（Protean Episteme）** 是由希腊裔比较教育史学家[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）借用古希腊神话中能够随心所欲变换形态的海神普罗透斯（Proteus）隐喻，界定比较教育学作为一门多学科交叉“人文科学”（Human Science, *Vergleichende Erziehungswissenschaft*）的本质[[Epistemology|认识论]]特征。该概念指明：比较教育学在两百余年的历史演化中从来是如同身披不同颜色认识论、方法论和意识形态丝线织就的各异装束，随着不同历史时代的智识思潮、研究风尚与文化诉求而持续变换其面貌、研究重点与论述代际，有别于单一面向或单音调的知识体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉比较教育学[[Knowledge Production|知识生产]]与方法论形态因应时代智识与政治语境而高度变异的认识论特质。
 > - **用途** 帮助研究者透视学科历史演化中的“代际转换”（Generations）与“论述类型”（Types of [[Discourse]]），破除单一线性进化论或独断实证[[Scientific Paradigm|科学范式]]的神话。
-> - **边界** 描述的是学科[[Theory of Knowledge|知识论]]形态与[[Paradigm|范式]]流变的历史现实，绝非等同于缺乏原则的方法论机会主义或相对主义解构；提出该概念的旨归恰恰在于警示学科在变动不居的风尚中抵御“[[Historical Amnesia|历史健忘症]]”，坚守历史与人文精神底色。
+> - **边界** 描述的是学科[[Theory of Knowledge|知识论]]形态与[[Paradigm|范式]]流变的历史现实，有别于等同于缺乏原则的方法论机会主义或相对主义解构；提出该概念的旨归恰恰在于警示学科在变动不居的风尚中抵御“[[Historical Amnesia|历史健忘症]]”，坚守历史与人文精神底色。
 
 > [!citation-card] 卡扎米亚斯论比较教育学的普罗透斯式认识体系
-> 比较教育学这一术语并非一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“人文科学”，是[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）意义上的教育科学（Vergleichende Erziehungswissenschaft）。从历史上看，比较教育学的谱系渊源可以追溯到十八世纪末和十九世纪初欧洲[[Enlightenment|启蒙运动]]的“现代主义”时期。自那时起，人们便从各种各样的视角、通过各种各样的方法论棱镜、并运用各种各样的研究方法和技术，来对教育系统、问题、现象或过程展开比较研究并进行概念化构建。如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的认识论、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
+> 比较教育学这一术语有别于一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“人文科学”，是[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）意义上的教育科学（Vergleichende Erziehungswissenschaft）。从历史上看，比较教育学的谱系渊源可以追溯到十八世纪末和十九世纪初欧洲[[Enlightenment|启蒙运动]]的“现代主义”时期。自那时起，人们便从各种各样的视角、通过各种各样的方法论棱镜、并运用各种各样的研究方法和技术，来对教育系统、问题、现象或过程展开比较研究并进行概念化构建。如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的认识论、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 >
 > *The term comparative education (CE) is not a mono-faceted or monophonic concept/intellectual system. It is an inter- and multidisciplinary 'human science', an episteme in Nicholas Hans' sense of Vergleichende Erziehungwissenschaft... Like the Greek mythical demigod Proteus, CE at different historical periods has donned different attire, woven by differently coloured epistemological, methodological and ideological threads. Consequently, it has appeared in a variety of guises reflecting to a large degree, the intellectual, methodological and cultural strands and fads of the times. Hence, the appellation of CE as a protean episteme (Kazamias, 2001).*
 
@@ -121,9 +121,9 @@ updated: 2026-11-02
 > - **跨学科人文科学属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于[[Behaviorism|行为主义]]量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
 > - **汉斯式广义教育科学与精神科学溯源（Hansian Erziehungswissenschaft and Human Science [[ROOTS]]）** 普罗透斯式认识体系承继[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）对“教育科学（*Vergleichende Erziehungswissenschaft*）”的广义界定与欧陆[[Geisteswissenschaften|精神科学]]传统，将“科学”确立为跨学科、多视角的人文学术综合，坚决抗拒英语世界将科学降格为行为主义量化实证的狭隘专断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–141)]]
 > - **时代思潮与意识形态编织（Weaving of Cultural Strands and Ideological Fads）** 学科的方法论面貌与[[Research Topic|研究主题]]深刻折射出特定历史阶段的智识潮流（如启蒙理性、战后现代性工程、冷战对抗、全球化市场化）与统治阶级治理诉求。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
-> - **代际演替与论述类型更迭（Succession of [[Discourse]] Generations）** [[Knowledge Production|知识生产]]不是单一累加，而是呈现为不同代际之间围绕“科学 vs 艺术”、“解释 vs 预测”、“宏观国家 vs 微观学校”展开的周期性论辩与话语重塑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 140)]]
+> - **代际演替与论述类型更迭（Succession of [[Discourse]] Generations）** [[Knowledge Production|知识生产]]是呈现为不同代际之间围绕“科学 vs 艺术”、“解释 vs 预测”、“宏观国家 vs 微观学校”展开的周期性论辩与话语重塑，有别于单一累加。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 140)]]
 > - **历史维度消解与健忘症危机（Erosion of Historical Dimension and Amnesia）** 普罗透斯式追逐时代技术风尚带来的根本代价是对学科自身历史遗产的放逐，导致学科陷入沉溺于去情境化实证测度而丧失深层历史反思力的“[[Historical Amnesia|历史健忘症]]”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
-> - **历史学与社会科学的理性综合纲领（Synthesis of Historical and Social-Scientific Inquiries）** 面对普罗透斯形态蜕变诱发的历史健忘症，建设性的[[Epistemology|认识论]]出路绝非复古倒退，而是“将历史学与社会科学的[[Inquisitive Mode of Governance|探究模式]]融会贯通”；唯有将比较制度测度深植于长时段的历史叙事、文化传统与哲学反思中，才能使普罗透斯式的流动性转化为健康的学术活力而非虚无的时髦追逐。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 156–157)]]
+> - **历史学与社会科学的理性综合纲领（Synthesis of Historical and Social-Scientific Inquiries）** 面对普罗透斯形态转变诱发的历史健忘症，建设性的[[Epistemology|认识论]]出路是“将历史学与社会科学的[[Inquisitive Mode of Governance|探究模式]]融会贯通”，有别于复古倒退；唯有将比较制度测度深植于长时段的历史叙事、文化传统与哲学反思中，才能使普罗透斯式的流动性转化为健康的学术活力而非虚无的时髦追逐。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 156–157)]]
 
 > [!logic-map]- 比较教育学普罗透斯式认识体系的代际更迭拓扑
 > ```mermaid
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜比较教育学的论述代际演替深刻依附于特定时代的[[Epistemology|认识论]][[Paradigm|范式]]与政治合法化诉求
-> **探讨维度　论述代际更迭与时代政治智识语境的共振机制** 卡扎米亚斯剖析了比较教育学从启蒙发端至当代演进的内在谱系，论证学科每一次外貌更迭与[[Discourse|话语]]转型都非纯粹内在理论推演，而是与同时期的主流社会科学理论[[Paradigm|范式]]及国家治理诉求紧密共振。
+> **探讨维度　论述代际更迭与时代政治智识语境的共振机制** 卡扎米亚斯剖析了比较教育学从启蒙发端至当代演进的内在谱系，论证学科每一次外貌更迭与[[Discourse|话语]]转型都非纯粹内在理论推演，是与同时期的主流社会科学理论[[Paradigm|范式]]及国家治理诉求紧密共振。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
 > **论述代际的四阶段更迭模型** 比较教育学的发展可以理论化为四大论述代际：第一代为十八世纪末十九世纪初由[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）开创的[[Proto-Scientific Motif|准科学母题]]以及[[Victor Cousin|库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等行政官员开创的[[Policy Borrowing|政策借用]][[Educational Meliorism|改良主义]]母题，二者皆直接植根于[[Enlightenment|启蒙运动]]的理性进步观与现代民族国家建构；第二代为二十世纪上半叶由[[Michael Sadler|萨德勒]]（Michael Sadler）、[[Isaac Kandel|坎德尔]]（Isaac Kandel）、汉斯（[[Nicholas Hans]]）和[[Robert Ulich|乌利希]]（Robert Ulich）奠定的历史-哲学与自由人文主义传统，将研究聚焦于民族国家精神、文化传统与民主公民素养，抵制技术官僚化；第三代为 1950 至 1970 年代爆发的实证科学化运动（包括芝加哥学派功能主义、诺亚与埃克斯坦的方法论[[Positivism|实证主义]]、霍姆斯的[[Problem Approach|问题法]]），顺应了战后[[Human Capital Theory|人力资本理论]]、现代化理论以及国家中央计划体制对确定性技术指标的极度渴求；第四代为新马克思主义、韦伯主义与[[World-Systems Theory|世界体系分析]]等冲突范式，揭露资本主义国家机器再生产不平等的权力结构。学科正是在这四重代际的更替中展现了如普罗透斯般变幻莫测的理论面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–155)]]
@@ -177,7 +177,7 @@ updated: 2026-11-02
 > **探讨维度　历史维度放逐与[[Historical Amnesia|学科历史健忘症]]的诊断** 卡扎米亚斯警示：在经历实证主义洗礼、冲突理论批判与世纪之交理论繁荣之后，比较教育学内部发生了一场严重的[[Epistemology|认识论]]退化——对历史维度近乎彻底的遗忘与抛弃。
 
 > [!claim] Larsen, M. & Kazamias, A. M.
-> **历史研究边缘化与学科历史健忘症** 尽管比较教育学在 1980 至 1990 年代吸纳了女性主义批判、后现代思潮、[[Comparative Pedagogy|比较教学论]]等新范式，展现出理论[[Pluralism|多元主义]]的繁荣，但这种扩张是以牺牲历史维度为沉重代价的。实证期刊计量研究显示，在 1955 至 1994 年间英美三大旗舰学术期刊发表的近 2000 篇论文中，仅有 10.5% 依赖史学编纂与历史研究；而在 1985 至 1995 年间，这一比例更是雪崩式跌至不足 5%。学科由此患上了严重的“历史健忘症”（Historical Amnesia），切断了与自身奠基传统的有机联系，极易沦为追逐当代方法论时髦与技术指标的短视附庸。[[Argument_Kazamias_2009_HistoricalReflections|(Larsen, 2001; Kazamias, 2009a, pp. 155–156)]]
+> **历史研究边缘化与学科历史健忘症** 尽管比较教育学在 1980 至 1990 年代吸纳了女性主义批判、后现代思潮、[[Comparative Pedagogy|比较教学论]]等新范式，展现出理论[[Pluralism|多元主义]]的繁荣，但这种扩张是以牺牲历史维度为沉重代价的。实证期刊计量研究显示，在 1955 至 1994 年间英美三大旗舰学术期刊发表的近 2000 篇文章中，仅有 10.5% 依赖史学编纂与历史研究；而在 1985 至 1995 年间，这一比例更是雪崩式跌至不足 5%。学科由此患上了严重的“历史健忘症”（Historical Amnesia），切断了与自身奠基传统的有机联系，极易沦为追逐当代方法论时髦与技术指标的短视附庸。[[Argument_Kazamias_2009_HistoricalReflections|(Larsen, 2001; Kazamias, 2009a, pp. 155–156)]]
 
 ---
 
@@ -194,14 +194,14 @@ updated: 2026-11-02
 > - **1960s — 传统与变革辨析** 卡扎米亚斯与马夏拉斯（Kazamias & Massialas, 1965）出版《教育中的传统与变革》，系统考察教育制度在历史传统与现代化变革之间的矛盾张力，为代际论述类型奠定思想雏形。
 > - **1977 — 矮胖子隐喻与学科现状反思** 卡扎米亚斯主编《比较教育评论》“学科现状”（State of the Art）专刊，封面刊出坐在美国地图上的童话人物矮胖子（Humpty Dumpty）凝视[[Structural Functionalism|结构功能主义]]、成本收益、发展等繁杂词汇的讽刺漫画，形象呈现学科深陷方法论纷争与碎片化重组的普罗透斯面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 145)]]
 > - **1993 — 总统演说大论战** 埃尔温·爱泼斯坦（Erwin Epstein）发表 [[Comparative and International Education Society|CIES]] 总统就职演说引发关于学科性质大争论，卡诺伊、卡扎米亚斯等学者系统辩驳[[Positivism|实证主义]]与国家[[Theoretical Standpoint|理论立场]]，深化了对学科多变形态的理论反思。[[Argument_Kazamias_2009_HistoricalReflections|(Carnoy, 1983; Kazamias, 2009a, pp. 153–154)]]
-> - **2001 — 普罗透斯式认识体系概念正式创立** 卡扎米亚斯在《比较教育》（*Comparative Education*, 37(4)）千禧年特刊发表标志性论文《重塑比较教育中的历史：一位当代参与者对普罗透斯式认识体系的反思》，正式提出并界定普罗透斯式认识体系。
+> - **2001 — 普罗透斯式认识体系概念正式创立** 卡扎米亚斯在《比较教育》（*Comparative Education*, 37(4)）千禧年特刊发表标志性文章《重塑比较教育中的历史：一位当代参与者对普罗透斯式认识体系的反思》，正式提出并界定普罗透斯式认识体系。
 > - **2009 — 手册体系化升华** 在《比较教育学国际手册》第 10 章，卡扎米亚斯将普罗透斯认识体系升华为主导全书第一板块（学科创建与再造）历史反思的核心概念支柱，系统梳理四大代际并提出重振历史维度的理论宣言。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–157)]]
 
 ---
 
 > [!debates] 学术争议
 >
-> > [!axis] 多元适应活力 vs 学科内核消解
+> > [!axis] 多元适应活力 vs 学科核心消解
 > > 争论焦点在于比较教育学的普罗透斯特质究竟是学科包容开放的生机标志，还是缺乏统一知识硬核的学术软弱。
 > >
 > > - **实证统一派学者** 批评学科过于轻易迎合各时代的思想潮流与意识形态，导致学科边界模糊脆弱，缺乏如经济学、心理学那般严整的公理系统与累积性知识硬核。
@@ -225,8 +225,8 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156; 征引 Larsen, 2001)]] | 1955–1994 年发表于三大旗舰学术期刊（IJED, CE, CER）的近 2000 篇论文 | 长期期刊[[Content Analysis\|内容分析]]与学科计量调查 | 依赖史学编纂与历史研究的论文占比 | 1955–1994 年全期历史研究论文占比仅为 10.5%；1985–1995 年近十年间历史研究论文占比跌破 5% | — | 实证证实战后比较教育学中历史维度遭受断崖式放逐，为“[[Historical Amnesia\|历史健忘症]]”提供了确凿的学科文献计量基准 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132)]] | 1960s–1990s 主流比较教育期刊论文全样本 | 跨年代期刊实证内容分析 | 理论[[Paradigm\|范式]]与母学科分布 | 1960 年代结构功能主义一统天下瓦解，1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%） | — | 展现了学科从单一实证垄断走向多元并存的普罗透斯式理论面貌，反映出研究者母学科认同的深刻重构 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156; 征引 Larsen, 2001)]] | 1955–1994 年发表于三大旗舰学术期刊（IJED, CE, CER）的近 2000 篇文章 | 长期期刊[[Content Analysis\|内容分析]]与学科计量调查 | 依赖史学编纂与历史研究的文章占比 | 1955–1994 年全期历史研究文章占比仅为 10.5%；1985–1995 年近十年间历史研究文章占比跌破 5% | — | 实证证实战后比较教育学中历史维度遭受断崖式放逐，为“[[Historical Amnesia\|历史健忘症]]”提供了确凿的学科文献计量基准 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132)]] | 1960s–1990s 主流比较教育期刊文章全样本 | 跨年代期刊实证内容分析 | 理论[[Paradigm\|范式]]与母学科分布 | 1960 年代结构功能主义一统天下瓦解，1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%） | — | 展现了学科从单一实证垄断走向多元并存的普罗透斯式理论面貌，反映出研究者母学科认同的深刻重构 |
 
 ---
 
@@ -246,7 +246,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定普罗透斯式认识体系，以此统摄比较教育学从启蒙发端至世纪之交的四重论述代际演化，并以实证计量数据诊断学科历史维度的流失与“[[Historical Amnesia|历史健忘症]]”危机。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定普罗透斯式认识体系，以此统领比较教育学从启蒙发端至世纪之交的四重论述代际演化，并以实证计量数据诊断学科历史维度的流失与“[[Historical Amnesia|历史健忘症]]”危机。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考掘比较教育学在近代比较学科群中的演进轨迹，依托大规模[[Document|文献]]计量证实单一实证[[Scientific Paradigm|科学范式]]垄断瓦解以及 26 种理论传统并存的“[[Pluralism|健康多元主义]]”。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析比较教育科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology|认识论]]分裂，揭示实证量化模式沦为国家机器[[Social Science as Legitimation Alibi|合法化借口]]的深层机制。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩诊断学科史编纂的档案隐蔽与材料匮乏困境，提出走向“[[Comparative History of Comparative Education|比较教育学的比较史]]”，与卡扎米亚斯普罗透斯认识体系的历史反思紧密呼应。

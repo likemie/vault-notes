@@ -5,7 +5,7 @@ aliases:
   - 教师重铸
   - teacher revoicing
   - O'Connor and Michaels revoicing
-summary: "课堂话语策略，指教师重构并提升学生表述以明确观点作者权、提升认知层次并推动论证对话"
+summary: "课堂话语策略，指教师重构并提升学生表述以明确观点署名权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
 related_count: 18
@@ -50,15 +50,15 @@ updated: 2026-11-02
 ---
 
 > [!def] Revoicing
-> **重铸（Revoicing）** 是玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）于 1993 年提出的课堂教学[[Discourse|话语]]策略。指教师在课堂师生对话中，将学生提出的初步、粗糙或非正式的日常表述，重新转述为更为严谨、符合学科规范且认知层次更高的学术话语，在此过程中明确保留原意并显性确认该观点属于提出学生本人（即作者权/归属权，Authorship/Ownership），进而引导全班对该观点展开评估与辩论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
+> **重铸（Revoicing）** 是玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）于 1993 年提出的课堂教学[[Discourse|话语]]策略。指教师在课堂师生对话中，将学生提出的初步、粗糙或非正式的日常表述，重新转述为更为严谨、符合学科规范且认知层次更高的学术话语，在此过程中明确保留原意并显性确认该观点属于提出学生本人（即署名权/归属权，Authorship/Ownership），进而引导全班对该观点展开评估与辩论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 教师作为话语发出者（Animator），将学生确立为观点创造者（Author），在不扭曲原意的基础上完成概念升级并搭建对话[[Scaffolding|脚手架]]。
 > - **用途** 帮助研究者透视西方探究式课堂中，教师如何通过微观话语干预训练学生的[[Critical Thinking|批判性思维]]与学术论证规范。
-> - **边界** 严格区别于纯粹机械复述（Paraphrasing）与纠正性反馈（Recasting）；它不以纠错为目的，而是聚焦认知层级的提升与个体观点的合法化。
+> - **边界** 严格区别于纯粹机械复述（Paraphrasing）与纠正性反馈（Recasting）；它不以纠错为目的，是聚焦认知层级的提升与个体观点的合法化。
 
-> [!citation-card] 观点作者权的确立与论证引导
-> 教师有意识地将两名学生置于观点对立的情境中，引导他们评估各自与对方提议的合理性。通过这种方式，教师有效地让学生建立起自己就是自身想法作者与所有者的核心意识。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
+> [!citation-card] 观点署名权的确立与论证引导
+> 教师有意识地将两名学生置于观点对立的情境中，引导他们评估各自与对方提议的合理性。通过这种方式，教师有效地让学生建立起自己就是自身想法撰写者与所有者的核心意识。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
 >
 > *The teacher deliberately placed two students in opposition and primed them to evaluate the merits of their own and each other's proposals. The teacher effectively led the students to the very notion that they were the authors/owners of their ideas.*
 
@@ -73,14 +73,14 @@ updated: 2026-11-02
 > | 维度 | 话语重铸（Revoicing） | [[Listening-Oriented Learning\|倾听导向学习]]（Listening-Oriented Learning） | 纠错反馈（Recasting） |
 > |---|---|---|---|
 > | **分析对象** | 师生探究式对话与论证互动 | 整体课堂倾听、消化与内心思考过程 | 语言习得中的错误纠正互动 |
-> | **归属机制** | 强个体归因，明确标注观点作者权 | 去个人归因，想法作为公共认知资源 | 指向语言形式正确性，淡化作者权 |
+> | **归属机制** | 强个体归因，明确标注观点署名权 | 去个人归因，想法作为公共认知资源 | 指向语言形式正确性，淡化署名权 |
 > | **认知功能** | 将粗糙直觉提升为[[Discipline-Based Theory\|学科理论]]范畴 | 深度内化、反思同伴错误并自我修正 | 纠正发音、词汇或句法形式偏误 |
 > | **文化依托** | 西方[[Mind-Oriented Learning Process\|心智导向]]与表达即思考模型 | 东亚[[Virtue-Oriented Learning Process\|美德导向]]与敏于行讷于言规范 | 通用二语习得认知心理学 |
 
 ---
 
 > [!feature] [[Discourse|话语]]重铸的核心功能构成
-> - **标注观点作者权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。
+> - **标注观点署名权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。
 > - **认知层级提升（Cognitive Elevation）** 在不篡改学生核心原意的前提下，引入学科专业词汇与[[Analytic Framework|分析框架]]，将直觉性经验描述转化为严谨的知识表达。
 > - **促成同伴论证对立（Positioning for Peer Debate）** 借助句式重构将分歧显性化（例如所以你不同意某某同学的方案），为全班展开实证检验与[[Reflexivity|反思性]]讨论搭建结构化平台。
 > - **话语角色分离（Role Differentiation）** 依托欧文·[[Michael Gove|戈夫]]曼（[[Erving Goffman]]）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
@@ -112,11 +112,11 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜[[Discourse|话语]]重铸通过显性化观点作者权与概念升级构建西方探究式课堂的智力社会化机制
+> [!concept-proposition] 命题一｜[[Discourse|话语]]重铸通过显性化观点署名权与概念升级构建西方探究式课堂的智力社会化机制
 > **探讨维度　智力社会化与认知提升机制** 探讨教师如何在师生互动中通过特定[[Discourse|话语]]技术，引导学生将自己视为独立的思考主体，并在此过程中完成学科[[Higher-Order Thinking Skills|高阶思维]]的社会化习得。
 
 > [!claim] [[Jin Li|Li, J.]]
-> **概念升级与作者权确认的双重赋权** 教师在课堂中扮演[[Scaffolding|脚手架]]搭建者。例如学生解释选择某种交通方式是因为喜欢那个航站楼的样子，教师将其重铸为所以你基于自己的个人经历做出了选择；学生说很多人喜欢坐火车可能就是为了好玩，教师重铸为所以你基于对人类行为的理解做出了推测。这种重铸不改变学生观点的实质，却将其日常直觉跃升至正式分析范畴，使学生能够为自身想法的智力价值充分获取成就感，促进知性自我的成长。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
+> **概念升级与署名权确认的双重赋权** 教师在课堂中扮演[[Scaffolding|脚手架]]搭建者。例如学生解释选择某种交通方式是因为喜欢那个航站楼的样子，教师将其重铸为所以你基于自己的个人经历做出了选择；学生说很多人喜欢坐火车可能就是为了好玩，教师重铸为所以你基于对人类行为的理解做出了推测。这种重铸不改变学生观点的实质，却将其日常直觉提升至正式分析范畴，使学生能够为自身想法的智力价值充分获取成就感，促进知性自我的成长。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
 
 > [!claim] O'Connor, M. C. & Michaels, S.
 > **论证对立与协商空间的制度化构建** 重铸不仅是语义上的润色，更是课堂权力和参与结构的重塑。教师通过所以你不同意某某的表述，赋予学生使用发言权来检验自身推论、确立立场的合法性。这种策略将课堂转化为观点交锋的智力社会化场所，帮助学生建立把自身作为严谨学习者对待的自我认知。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 93–94)]]
@@ -137,7 +137,7 @@ updated: 2026-11-02
 > [!contrast-table] 话语重铸的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点作者权 | 探究式科学与数学课堂对话 | O'Connor and Michaels (1993); [[Jin Li\|Li (2012)]] |
+> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点署名权 | 探究式科学与数学课堂对话 | O'Connor and Michaels (1993); [[Jin Li\|Li (2012)]] |
 > | **文化制度契合命题** | 策略有效性依赖西方表达即思考的个体主义文化模型 | 跨文化教学比较与多文化课堂 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; He (2001) |
 
 ---
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!tension] 课堂[[Discourse|话语]]哲学的跨文化张力
-> - **观点作者权与公开辩论（西方模型）** 坚信知识在个人观点的公开碰撞中生成，说话强化思考，主张通过重铸强化个人归属感与辩论能力。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
+> - **观点署名权与公开辩论（西方模型）** 坚信知识在个人观点的公开碰撞中生成，说话强化思考，主张通过重铸强化个人归属感与辩论能力。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 > - **去个人化与静思内化（东亚模型）** 认为知识属于集体探索过程，主张倾听、涵泳与深思，避免将同伴置于公开竞争对立面。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 115–118)]]
 
 > [!debates] 学术争议

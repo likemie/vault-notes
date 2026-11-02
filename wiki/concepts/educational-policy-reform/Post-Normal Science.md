@@ -64,8 +64,8 @@ updated: 2026-11-02
 > *Greater effort is needed to explicitly link policies to scientific evidence and its uncertainties to reduce the chances of ‘post-normal problems’ (when the stakes are high, there is high scientific uncertainty and high demand for scientific information) becoming increasingly intractable. For example, it is important not only to be honest about scientific uncertainty, but to explain when relevant scientific information is not used, to avoid selecting only the scientific evidence to suit the policy.*
 
 > [!boundary]- 概念边界
-> - 不等于纯粹的 [[Scientific Uncertainty]] — 科学不确定性是测量、建模或自然认识中的客观认识论状态，而后常规科学则将不确定性与高政治赌注、伦理价值争议及制度紧迫性相耦合，特指一种社会治理与政策决策结构。
-> - 不等于反智主义或后真相相对主义 — 后常规科学并不放弃科学证据，而是主张扩大证据审查的民主参与基础，以更高维度的社会透明度捍卫科学的公信力。
+> - 不等于纯粹的 [[Scientific Uncertainty]] — 科学不确定性是测量、建模或自然认识中的客观认识论状态，而后常规科学则将不确定性与高政治赌注、伦理价值争议及制度紧迫性相连结，特指一种社会治理与政策决策结构。
+> - 不等于反智主义或后真相相对主义 — 后常规科学并不放弃科学证据，是主张扩大证据审查的民主参与基础，以更高维度的社会透明度捍卫科学的公信力。
 
 ---
 
@@ -90,7 +90,7 @@ updated: 2026-11-02
 > - **生死攸关的高昂赌注（High Decision Stakes）** 政策失误可能导致灾难性不可逆后果（如气候临界点崩塌、疫情大规模致死或技术失控），使全社会无法承担试错成本。
 > - **行动的时间紧迫性（Urgent Decisions）** 决策者无法等到所有科学细节均达成彻底共识后再采取行动，必须在证据尚未完备时做出关键抉择。
 
-> [!logic-map]- 治理破局：从封闭技术官僚走向扩展同行共同体
+> [!logic-map]- 治理突破：从封闭技术官僚走向扩展同行共同体
 > ```mermaid
 > flowchart LR
 >     A["后常规情境<br>高赌注 + 高不确定性 + 价值冲突"] --> B{"传统技术官僚路径"}

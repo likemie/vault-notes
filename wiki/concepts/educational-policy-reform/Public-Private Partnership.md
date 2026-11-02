@@ -103,7 +103,7 @@ updated: 2026-11-02
 >
 > *Corporations that provide educational services are becoming powerful players in what they see as a 'global educational market'... participating in schemes of Public-Private Partnerships, offering educational consultancy and services in several countries.*
 
-> [!citation-card] 公私合作杠杆效应与国家战略协同论断
+> [!citation-card] 公私合作手段效应与国家战略协同论断
 > 企业学术合作团队实践者能够借助与政府建立伙伴关系来显著扩大可用资金规模，从而分摊企业研发成本；然而更广泛的多边合作也会带来更复杂的治理权衡，有时甚至会阻碍企业内部业务部门的自发支持。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 233)]]
 >
 > 为了保持国家的科技[[Competitiveness|竞争力]]，我们必须在政府、学术界与产业界之间建立更高维度的深度协调与紧密伙伴关系，以此加快基础研究向现实应用的转化速率，在事关国家迫切需求的战略领域培育顶尖科技人才。[[Argument_Ramming_2025_CorporateSupport|(National Science Board, cited in Ramming, 2025, pp. 237–238)]]
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜公私合作伙伴关系呈现由企业战略倡议、行业前竞争联盟向国家法定[[Innovation Hub|创新中心]]演进的制度化路径
-> **探讨维度　产业技术演进与地缘战略规制维度** 阐明研究型 PPP 如何随着产业技术演进与外部地缘战略环境的变化，经历从微观企业联合发起向宏观国家法定平台跃迁的历史轨迹。
+> **探讨维度　产业技术演进与地缘战略规制维度** 阐明研究型 PPP 如何随着产业技术演进与外部地缘战略环境的变化，经历从微观企业联合发起向宏观国家法定平台转向的历史轨迹。
 
 > [!claim] [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]; [[Argument_NIST_2023_NSTC|NIST (2023)]]
 > **跨界协同三代机制的历时制度演进** 半导体产业协同展现了研究型 PPP 在应对底层物理极限与国际技术竞争时的制度化演进全景：第一代为企业战略倡议（[[Universal Parallel Computing Research Centers|UPCRC]] 模式）；第二代为行业前竞争联盟（[[Semiconductor Research Corporation|SRC]] 模式）；第三代为国家法定[[Innovation Hub|创新中心]]（[[National Science and Technology Council|NSTC]] 模式），设立独立非营利组织 [[Natcast]] 统筹产学研协同。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–238)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5)]]
@@ -151,7 +151,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜教育公私伙伴关系通过服务外包推动[[Exogenous Privatisation|外生私有化]]，并将跨国企业重塑为[[Theories of Policy Change|政策变革]]催化剂
-> **探讨维度　公共教育[[Exogenous Privatisation|外生私有化]]与政策主权渗透维度** 探讨公私伙伴关系如何将私营资本引入公共教育系统内部，使商业机构从服务承包商蜕变为拥有[[Discourse|话语]]主导权的政策制定者。
+> **探讨维度　公共教育[[Exogenous Privatisation|外生私有化]]与政策主权渗透维度** 探讨公私伙伴关系如何将私营资本引入公共教育系统内部，使商业机构从服务承包商转变为拥有[[Discourse|话语]]主导权的政策制定者。
 
 > [!claim] Cardini (2006); [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]; Ball (2005)
 > **外生私有化与商业顾问对教育主权的渗透** 亚历杭德拉·卡尔迪尼指出，教育公私伙伴关系（PPP）表面上借用“协同治理”与“资源互补”的话语修辞掩盖权力不平等，实质构成了国家向私营资本让渡公共职能的外生私有化路径。[[Jason Beech|杰森·比奇]]进一步揭示，在英国及全球市场中，[[Nord Anglia Education|诺德安达教育]]（Nord Anglia）与环球教育系统集团（[[GEMS Education|GEMS]]）等跨国企业通过 PPP 深度介入地方教育局管理、[[School Inspection|学校督导]]与师资培训；这些跨国公司不仅构建跨国[[International Schools|国际学校]]网络，更以“独立专家”和“政策顾问”的身份直接参与中央政府与地方学区的政策制定，充当教育变革的催化剂。PPP 机制从而实现了私营营利逻辑对公共教育主权的结构性渗透。（Cardini, 2006; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 343–344]]）
@@ -208,9 +208,9 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 343–344)]] | 英国及全球跨国教育服务市场（[[Nord Anglia Education\|Nord Anglia]], [[GEMS Education\|GEMS]] 等公司） | 比较教育政策语篇与国际市场拓展案例追踪 | PPP 涉足业务领域、跨国学校网点规模与政策顾问介入度 | GEMS 在 7 国运营 65 所学校并向政府提供咨询；诺德安达将国内 PPP 经验外溢至海外，重组[[Global Policy Space\|全球政策空间]] | 宏观政策与公司业务追踪 | 说明 PPP 如何成为跨国教育资本跨界介入公共决策的制度杠杆 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 343–344)]] | 英国及全球跨国教育服务市场（[[Nord Anglia Education\|Nord Anglia]], [[GEMS Education\|GEMS]] 等公司） | 比较教育政策语篇与国际市场拓展案例追踪 | PPP 涉足业务领域、跨国学校网点规模与政策顾问介入度 | GEMS 在 7 国运营 65 所学校并向政府提供咨询；诺德安达将国内 PPP 经验外溢至海外，重组[[Global Policy Space\|全球政策空间]] | 宏观政策与公司业务追踪 | 说明 PPP 如何成为跨国教育资本跨界介入公共决策的制度手段 |
 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 高科技企业参与半导体跨界协同（[[Universal Parallel Computing Research Centers\|UPCRC]]、[[Semiconductor Research Corporation\|SRC]] 与 [[National Science and Technology Council\|NSTC]] 案例） | 产业历时实务反思与决策框架构建 | [[Academic Engagement Team\|AET]] 四维决策支柱、公私合作放大效应、三代协同演进 | 企业投入 2000 万美元设立 UPCRC 随后触发 [[National Science Foundation\|NSF]] 计划接力放大；NSTC 统筹 110 亿美元产学研平台 | 产业实务经验剖析 | 适用于高技术研发密集型产业的跨部门联合攻关与重大科技专项治理 |
-| [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国半导体研究公司（SRC）产学公私合作联合体（1982–2012） | 档案调阅与历史[[Bibliometric Analysis\|文献计量分析]] | 累计研发投入、高阶工程人才培养数、联邦公共资金匹配率 | 累计资助研发超 **25 亿美元**；培养 **9,200+ 名**微电子硕博人才；联邦[[Counterpart Funds\|对等资金]]占高校资助比例攀升至 **70% 以上** | 描述性统计与面板数据 | 证实行业前竞争 PPP 能高效放大财政杠杆并支撑国家工程人才库 |
+| [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国半导体研究公司（SRC）产学公私合作联合体（1982–2012） | 档案调阅与历史[[Bibliometric Analysis\|文献计量分析]] | 累计研发投入、高阶工程人才培养数、联邦公共资金匹配率 | 累计资助研发超 **25 亿美元**；培养 **9,200+ 名**微电子硕博人才；联邦[[Counterpart Funds\|对等资金]]占高校资助比例攀升至 **70% 以上** | 描述性统计与面板数据 | 证实行业前竞争 PPP 能高效放大财政手段并支撑国家工程人才库 |
 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 12, 30)]] | 新西兰公立教育基建 PFI 与特许学校 PPP（LIP/Future School Partners 财团，KickStart 早餐计划） | 批判政策社会学档案与合同[[Audit Trail\|审计追踪]] | PPP 财团股权构成、25 年期运维合同条款、政商董事兼任度与财政年金 | 首期合同由 LIP 财团承揽 25 年基建与运维；第二期扩至 4 所新校；政府承诺数十年不可撤销租金年金，学校物理空间管辖权让渡给商业物业财团 | 描述性统计与政策文本追踪 | 证实教育重资产基建 PPP 导致公共财政与校园空间治理被私营财团利益长期锁定 |
 
 ---

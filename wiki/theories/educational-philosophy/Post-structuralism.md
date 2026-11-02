@@ -59,7 +59,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Post-structuralism
-> **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过[[Performativity|表演性]][[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
+> **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员是承载内在张力与矛盾的多元主体，有别于系统预设角色的被动承载者；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过[[Performativity|表演性]][[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向语言、文本、话语与能动主体之间的建构性张力，否定客观规律预设与单一本质主义意义。
@@ -67,7 +67,7 @@ updated: 2026-11-02
 > - **边界** 在教育探究中刻意剥离纯粹符号学（semiology）的经院推演，聚焦于社会主体能动性与反思性探究实践；不走向彻底否定物质现实与政治行动能力的虚无主义。
 
 > [!citation-card] 结构决定论的反思与文本话语转向
-> 后结构主义可以被视为对那些采纳系统社会观或行为观的结构功能主义者的反驳……在后结构主义取向中，数据（如对话、观察）甚至人工制品都可以被视为文本，被视为通过话语建构和表演的话语，对不同的意义和解释保持开放。后结构主义者主张个体能动性具有突出地位；个体绝非给定系统的提线木偶，人是多元且不同的，其自身内部往往承载着矛盾与张力……研究的任务是‘解构’，即揭示内嵌于现象或研究中的不同意义、意义层次以及意义的特权化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
+> 后结构主义可以被视为对那些采纳系统社会观或行为观的结构功能主义者的反驳……在后结构主义取向中，数据（如对话、观察）甚至人工制品都可以被视为文本，被视为通过话语建构和表演的话语，对不同的意义和解释保持开放。后结构主义者主张个体能动性具有突出地位；个体有别于给定系统的提线木偶，人是多元且不同的，其自身内部往往承载着矛盾与张力……研究的任务是‘解构’，即揭示内嵌于现象或研究中的不同意义、意义层次以及意义的特权化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
 >
 > *Post-structuralism can be regarded as a counter to those structural-functionalists who adopt a systems view of society... In post-structuralist approaches, data (e.g. conversations, observations), even artefacts can be regarded as texts, as discourses that are constructed and performed through discourses, open to different meaning and interpretations... Post-structuralists argue individual agency has prominence; individuals are not simply puppets of a given system, people are diverse and different, indeed they may carry contradictions and tensions within themselves... The task of the research is to 'deconstruct', e.g. to expose, the different meanings, layers of meanings and privileging of meanings inherent in a phenomenon or piece of research.*
 
@@ -92,8 +92,8 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **反[[Structural Functionalism|结构功能主义]]与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
-> - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，而是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
-> - **数据即[[Performativity|表演性]][[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，而是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
+> - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
+> - **数据即[[Performativity|表演性]][[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
 > - **解构与意义特权化揭示（Deconstruction and [[Institutional Layering|layering]] of Meanings）** 教育探究的核心使命是解构现象中内嵌的多层意义，曝光特定官方或权威意义被特权化、排他化的隐秘意识形态过程。
 > - **四重视角阐释网络（Multiple Perspectives Network）** 探究必须协同捕捉参与者、研究者、研究受众与研究读者的多重视角，并将研究发现锚定在参与者对自我的主观认知之中。
 > - **[[Knowledge Production\|知识生产]]与合法化反思（Production and Legitimation of Knowledge）** 审视教育研究中的知识是如何被特定权力网络生产、赋予合法性并加以运用的，破除客观中立神话。
@@ -116,7 +116,7 @@ updated: 2026-11-02
 
 ---
 
-### 命题一　个体并非结构系统决定论的木偶，而是承载内在多重张力的能动主体
+### 命题一　个体是承载内在多重张力的能动主体，有别于结构系统决定论的木偶
 
 > [!concept-lens] 主体性与能动性维度
 > 聚焦于个体在社会结构中的定位。[[Structural Functionalism|结构功能主义]]将社会成员还原为宏大体系的功能承载者，而后结构主义将主体的内在差异性与反抗性置于首位。
@@ -126,7 +126,7 @@ updated: 2026-11-02
 
 ---
 
-### 命题二　实证数据与人工制品并非客观实体的镜像，而是具有多重阐释开放性的表演性话语与文本
+### 命题二　实证数据与人工制品是具有多重阐释开放性的表演性话语与文本，有别于客观实体的镜像
 
 > [!concept-lens] 数据[[Epistemology\|认识论]]与文本性维度
 > 探讨教育研究经验材料的符号学与[[Discourse|话语]]学本质。传统[[Empiricism\|经验主义]]将数据视作客观事实的物理印迹，而后结构主义将一切研究材料重构为开放的话语表演。
@@ -139,7 +139,7 @@ updated: 2026-11-02
 ### 命题三　教育探究的根本任务在于解构意义特权化，审视多重视角在知识–权力共谋中的合法化过程
 
 > [!concept-lens] 解构与权力认识论维度
-> 探讨教育研究的目标转向与[[Reflexivity\|反思性]]要求。研究不再是寻找终极法则，而是曝光知识合法化背后的特权生成机制。
+> 探讨教育研究的目标转向与[[Reflexivity\|反思性]]要求。研究不再是寻找终极法则，是曝光知识合法化背后的特权生成机制。
 
 > [!claim] Derrida & Foucault
 > **解构意义特权与多元视角审视判定** 现象或研究中绝不存在单一的“本质”意义，探究的核心功能在于“解构”——即揭示不同层次的意义，并曝光为何某些特定解释被赋予特权地位而其他解释被边缘化；这一任务要求研究者必须同时审视参与者、研究者、研究受众与研究读者的四重视角，深刻揭示知识是如何在具体的权力关系中被生产、合法化和策略性使用的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 29)]]
@@ -149,7 +149,7 @@ updated: 2026-11-02
 > [!contrast-table] 围绕后结构主义形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **主体能动性命题** | 个体并非既定结构的提线木偶，而是承载阶级、性别等内在多重张力的能动主体 | 锚定参与者自我认同、捕捉主体内在矛盾与[[Heterogeneity\|异质性]] | Foucault; Derrida; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 29)]] |
+> | **主体能动性命题** | 个体是承载阶级、性别等内在多重张力的能动主体，有别于既定结构的提线木偶| 锚定参与者自我认同、捕捉主体内在矛盾与[[Heterogeneity\|异质性]] | Foucault; Derrida; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 29)]] |
 > | **数据文本表演命题** | 观察、对话与人工制品皆为通过话语建构和表演的话语与文本，意义多重开放 | [[Discourse Analysis\|话语分析]]、文本细读、意义去中心化 | Francis (2010); Burman and Parker (1993) |
 > | **解构特权合法化命题** | 探究任务在于解构多层意义并揭示意义特权化机制，审视知识–权力生产链条 | 多重视角网络互证、反思性解构、反思研究者权威 | Derrida; Foucault; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] |
 
@@ -178,7 +178,7 @@ updated: 2026-11-02
 > > - **唯物主义与[[Critical Realism\|批判实在论]]学者** 警示过度的“泛文本主义”（pan-textualism）容易将贫困、阶级隔离与硬件匮乏缩减为语言修辞游戏，忽视制度化物质暴力的顽固实体性。
 
 > [!warning] 教育研究中的方法论局限
-> - **相对主义虚无与实践瘫痪** 若无限延异意义而拒绝任何暂时性的本质概括，教育研究可能蜕变为纯粹的文本自娱，无法为课程改革与弱势学生支持提供具备可操作性的政策干预依据。
+> - **相对主义虚无与实践瘫痪** 若无限延异意义而拒绝任何暂时性的本质概括，教育研究可能转变为纯粹的文本自娱，无法为课程改革与弱势学生支持提供具备可操作性的政策干预依据。
 > - **话语[[Determinism\|决定论]]对物质实在的遮蔽** 将所有学校生活化约为话语表演，易低估宏观政治经济结构对学校教育资源的硬性物质约束。
 
 ---

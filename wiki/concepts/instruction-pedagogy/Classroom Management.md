@@ -72,15 +72,15 @@ updated: 2026-11-02
 > [!def] Classroom Management
 > 课堂管理（Classroom Management）是指教师为创设并维持高度专注、安全有序且富于支持性的学习环境而采取的一套系统性组织机制。它不仅包括维持课堂秩序与行为规范，更涵盖有效时间利用、明确目标设定、学习活动组织、理解检查、即时反馈、支持性[[Student-Teacher Relationship|师生关系]]以及积极行为引导（[[Argument_Håkansson_2015_TT|Håkansson, 2015a, pp. 591–592；[[Argument_WorldBank_2019_Teach\|World Bank Group]], 2019]]）。
 >
-> 现代教育实证研究表明，课堂管理的本质不在于建立单向严厉的人身控制或消极压制违纪，而在于教师以清晰、可见且具有包容性的方式组织教学进程，最大化保障在任务学习时间，并在维护结构化常规的同时，为学生的自主参与和自我调节能力发展提供安全空间。
+> 现代教育实证研究表明，课堂管理的本质在于教师以清晰、可见且具有包容性的方式组织教学进程，最大化保障在任务学习时间，并在维护结构化常规的同时，为学生的自主参与和自我调节能力发展提供安全空间，有别于建立单向严厉的人身控制或消极压制违纪。
 
 > [!concept-lens] 概念透镜
 > - **含义** 概括教师协调课堂时空秩序、管理教学活动转换并引导学生专注学习的综合性组织机制。
 > - **用途** 用于评价课堂教学质量底线、指导一线教师建立积极常规，并作为教师专业发展和[[Classroom Observation|课堂观察]]评估的关键维度。
-> - **边界** 区别于以惩戒和威慑为核心的消极纪律管束；同时不局限于特定教学法序列，而是渗透于全班讲授、小组协作与个别学习等多元组织形式中。
+> - **边界** 区别于以惩戒和威慑为核心的消极纪律管束；同时不局限于特定教学法序列，是渗透于全班讲授、小组协作与个别学习等多元组织形式中。
 
 > [!citation-card] Håkansson 对宽课堂管理机制的界定
-> 课堂管理不只是维持秩序或控制行为的狭义纪律管理，而是教师组织课堂学习的一组更宽机制。它包括时间使用、目标说明、活动组织、理解检查、反馈、学习气氛与支持性关系，目的是让教学过程更有结构，并真正服务学生学习。研究支持的不是“教师更强硬”，而是教师以清晰、可见、支持性的方式组织学习，同时保留学生参与、动机和逐步发展的自我调节空间。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 591–595)]]
+> 课堂管理不只是维持秩序或控制行为的狭义纪律管理，是教师组织课堂学习的一组更宽机制。它包括时间使用、目标说明、活动组织、理解检查、反馈、学习气氛与支持性关系，目的是让教学过程更有结构，并真正服务学生学习。研究支持的是教师以清晰、可见、支持性的方式组织学习，同时保留学生参与、动机和逐步发展的自我调节空间，有别于“教师更强硬”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 591–595)]]
 >
 > *Classroom management is not mere disciplinary control or silencing students, but a wider set of mechanisms for organizing learning: time use, goal clarity, activity organization, [[Feedback]], and supportive teacher-student relationships.*
 
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > **探讨维度　课堂结构与深层认知投入的关系** 探讨组织管理如何通过消除环境不确定性与冗余干扰，为高阶认知加工提供安全庇护所。
 
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]; [[Argument_Laursen_2015_Paideia|Laursen (2015)]]
-> **课堂管理是高品质学习的结构化托底** 在对 43 项国际教学[[Research Synthesis|研究综合]]的深入比对中，教师的课堂管理被确认为解释[[Academic Achievement|学业表现]]差异的关键维度。实证研究明确表明，有效的课堂管理通过明确目标、时间统筹、平稳活动衔接与支持性关系，显著降低课堂混乱度、提高学习聚焦度，而不是单纯“把学生管住”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 589–592)]]; [[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
+> **课堂管理是高品质学习的结构化托底** 在对 43 项国际教学[[Research Synthesis|研究综合]]的深入比对中，教师的课堂管理被确认为解释[[Academic Achievement|学业表现]]差异的关键维度。实证研究明确表明，有效的课堂管理通过明确目标、时间统筹、平稳活动衔接与支持性关系，显著降低课堂混乱度、提高学习聚焦度，有别于单纯“把学生管住”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 589–592)]]; [[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
 
 ---
 
@@ -151,11 +151,11 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题四｜课堂管理构成了学校可自主干预且具备极高现实相关度的核心教学实践杠杆
+> [!concept-proposition] 命题四｜课堂管理构成了学校可自主干预且具备极高现实相关度的核心教学实践手段
 > **探讨维度　实践可干预性与专家德尔菲效度判定** 探讨在宏观证据库被外围不可控[[Variable|变量]]（如生理特征、早期养育）严重充斥的背景下，为何课堂管理始终被[[International Education|国际教育]]专家确立为一线学校改进的核心基石。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及[[Neuromyth|神经神话]]（如[[Learning Styles|学习风格]]匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+> **专家德尔菲评审确立课堂管理为最高相关度教学手段之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及[[Neuromyth|神经神话]]（如[[Learning Styles|学习风格]]匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 ---
 

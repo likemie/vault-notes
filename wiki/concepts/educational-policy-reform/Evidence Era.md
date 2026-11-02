@@ -64,7 +64,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 揭示当代教育治理中政策合法化修辞从单一[[Governing by Numbers\|数字治理]]向全方位科学证据包装的范式演进。
 > - **用途** 帮助分析政策白皮书中的学术化引证风格、智库与专业团体在证据中介中的角色，以及循证修辞如何重构专业[[Discourse|话语]]权。
-> - **边界** 并不意味着政策制定真正变得完全由科学理性主导，而是指诉诸证据成为了政策合法化不可或缺的制度性仪式与文化认知脚本。
+> - **边界** 并不意味着政策制定真正变得完全由科学理性主导，是指诉诸证据成为了政策合法化不可或缺的制度性仪式与文化认知脚本。
 
 > [!citation-card] 从测量时代向证据时代的范式演进
 > 证据时代比测量时代更为贴切，因为政策的新型合法化形式根植于研究[[Document|文献]]、经验观察与教育[[Reflexivity\|反思性]]论证的综合体，其范畴远超大规模数据测量本身；尽管大规模数据仍居于核心，但它不再单独发挥作用。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
@@ -72,7 +72,7 @@ updated: 2026-11-02
 > *The term 'evidence era' has become more apt than 'age of measurement' to indicate how even though large-scale data uses are still central, they are not alone, and require new forms of problematization.*
 
 > [!boundary]- 概念边界
-> - 不等于 测量时代（Age of Measurement） — 测量时代的核心支柱是大规模标准化测验、[[Performance Indicators\|绩效指标]]与量化审计监控；证据时代则将测量数据整合进更庞大的[[Evidence Network\|证据网络]]中，吸收了学术论文引用、临床实践模式与[[Causality\|因果推断]]实验。
+> - 不等于 测量时代（Age of Measurement） — 测量时代的核心支柱是大规模标准化测验、[[Performance Indicators\|绩效指标]]与量化审计监控；证据时代则将测量数据整合进更庞大的[[Evidence Network\|证据网络]]中，吸收了学术文章引用、临床实践模式与[[Causality\|因果推断]]实验。
 > - 不等于 科学决策的完全实现 — 证据时代的本质是证据成为主导性合理化神话，政策深层仍受意识形态与适宜性逻辑驱动。
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-11-02
 > [!contrast-table] 概念辨析
 > | 维度 | 测量时代（Age of Measurement） | 证据时代（Evidence Era） | 纯粹理性决策（Pure Rational Decision-Making） |
 > |---|---|---|---|
-> | **核心证据形态** | 标准化测验成绩、绩效考核指标、量化审计评级 | 学术期刊论文引用、[[Randomised Controlled Trials\|RCT]] 证据库、国际[[Policy Borrowing\|政策借用]]、专家审查 | 全样本因果实证、无偏成本收益核算与系统评价 |
+> | **核心证据形态** | 标准化测验成绩、绩效考核指标、量化审计评级 | 学术期刊文章引用、[[Randomised Controlled Trials\|RCT]] 证据库、国际[[Policy Borrowing\|政策借用]]、专家审查 | 全样本因果实证、无偏成本收益核算与系统评价 |
 > | **合法化机制** | [[Governing by Numbers\|数字治理]]与投入产出核算（Value for Money） | 科学主义修辞、专业化引用格式、主导性[[Rationalized Myth\|合理化神话]] | 纯粹因果逻辑推导与方案纠偏 |
 > | **治理工具** | 英国皇家教育标准局（[[Ofsted]]）评级、学校绩效联盟表 | [[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]、白皮书学术化引用、官方特许学院 | 开放式政策实验与同行盲审论证 |
 > | **中介网络** | 官方统计局、督导检查机构 | 智库、专业学会（如[[Chartered College of Teaching\|特许教学学院]]）、学术博主与中介经纪人 | 独立同行评议共同体与循证协作网络 |
@@ -88,7 +88,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **学术规[[Paradigm\|范式]]引文普及** 政策白皮书与指导文件普遍采用类似学术论文的标准引文格式与参考文献列表，以此彰显政策依据的透明度与客观性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
+> - **学术规[[Paradigm\|范式]]引文普及** 政策白皮书与指导文件普遍采用类似学术文章的标准引文格式与参考文献列表，以此彰显政策依据的透明度与客观性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **[[Epistemology\|认识论]]实验层级确立** 在政策[[Discourse|话语]]中极度推崇以 [[Randomised Controlled Trials\|RCT]] 与系统评价为代表的因果实证研究，将医学临床范式作为教师教育改革的理想蓝图。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **去语境化国际参照** 广泛以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）高表现国家（如芬兰、新加坡）作为有效实践的合法性来源。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–92)]]
 > - **官方守门与代理机构扶植** 政府充当[[Gatekeepers\|守门人]]，定向扶植官方认可的专业代言机构（如[[Chartered College of Teaching\|特许教学学院]]）以排斥传统大学批判力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 93–94)]]
@@ -109,7 +109,7 @@ updated: 2026-11-02
 > **探讨维度　合法化机制的修辞演进** 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **合法化形式的学术化跃迁** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，而是广泛吸收学术[[Document|文献]]、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
+> **合法化形式的学术化转向** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，是广泛吸收学术[[Document|文献]]、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
 
 ---
 

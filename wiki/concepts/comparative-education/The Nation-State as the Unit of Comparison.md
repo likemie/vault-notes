@@ -85,7 +85,7 @@ updated: 2026-11-02
 > *The epistemic units of comparative study and analysis are nation states and national systems of education: English, German, French, American, Russian. In their interpretation and explanation of national systems of education the main aim is explaining and 'understanding' how national systems of education developed the way they did, and why they exhibit the characteristics and peculiarities that they do. In their historical explanations and interpretations of variations in national educational patterns and practices, these historically oriented comparativists considered 'nationalism', national traditions, national political ideologies and 'national character' to be 'determining' factors.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[National Character]] — 后者关注的是特定族群在漫长历史中沉淀的心智倾向与精神特质（文化心理范畴）；而“民族国家作为比较单位”是指拥有法定领土主权、政府科层管辖权与公立学校体系的现代政治法律实体（制度组织范畴）。
+> - 不等于 [[National Character]] — 后者关注的是特定族群在漫长历史中积累的心智倾向与精神特质（文化心理范畴）；而“民族国家作为比较单位”是指拥有法定领土主权、政府科层管辖权与公立学校体系的现代政治法律实体（制度组织范畴）。
 > - 不等于 [[Reference Society]] — 参考社会是行动者在制定政策时用于借用、投射焦虑或寻找合法性的镜像客体；而民族国家比较单位是研究者开展系统因果推论与结构分析的宏观认识论框架。
 > - 不适用于 考察跨越国界的游牧部落教育、宗派修会跨国办学，以及晚近超国家规训网络主导的去国界化量化测验空间。
 
@@ -102,9 +102,9 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **主权管辖与制度闭合性（Sovereign Territorial Closure）** 假定现代国家对其领土范围内的所有各级各类教育机构享有排他性的最高治理权，学校法案、督导体制与财政拨款构成高度制度化的统一体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
+> - **主权管辖与制度封闭性（Sovereign Territorial Closure）** 假定现代国家对其领土范围内的所有各级各类教育机构享有排他性的最高治理权，学校法案、督导体制与财政拨款构成高度制度化的统一体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
 > - **国家意志与学校形态同构律（State-School Isomorphism）** 假定“有什么样的国家，就有什么样的学校”，教育的指导思想、课程大纲与人才选拔标准直接折射国家政权的统治形态（民主政体或极权政体）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]
-> - **[[Externalization\|外化]]表征与民族有机体假定（Organic Representation of National Life）** 将国民教育体系视同国家宪法或民族文学，是由历史斗争沉淀而成的活体有机体，生动表达着该民族的集体生命与文化特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Hans, 1949: 9–11; Kazamias, 2009: 40, 50, 引自 Kazamias, 2009b)]]
+> - **[[Externalization\|外化]]表征与民族有机体假定（Organic Representation of National Life）** 将国民教育体系视同国家宪法或民族文学，是由历史斗争积累而成的活体有机体，生动表达着该民族的集体生命与文化特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Hans, 1949: 9–11; Kazamias, 2009: 40, 50, 引自 Kazamias, 2009b)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[National Education|国民教育]]体系是民族国家主权意志与历史斗争的[[Externalization|外化]]表征
-> **探讨维度　国家意志与制度形态的同构机制** 古典历史学派学者一致认定，比较教育绝非对脱离政治母体的分散学校事实的统计白描，而是必须将教育提升至国家政治哲学的高度。教育系统的深层结构由国家主权意志与民族历史斗争所铸就，国家是跨国比较最根本的解释[[Variable\|变量]]。
+> **探讨维度　国家意志与制度形态的同构机制** 古典历史学派学者一致认定，比较教育是必须将教育提升至国家政治哲学的高度，有别于对脱离政治母体的分散学校事实的统计白描。教育系统的深层结构由国家主权意志与民族历史斗争所铸就，国家是跨国比较最根本的解释[[Variable\|变量]]。
 
 > [!claim] Kandel, I.
 > **国家作为统领性情境解释变量** [[Isaac Kandel\|坎德尔]]在 1933 年代表作《比较教育》中首次将“国家（The State）”确立为跨国教育研究的核心情境解释变量。他继承[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]的政治哲学传统，提出“每个国家都拥有其自身所意愿的教育类型”以及“有什么样的国家，便有什么样的学校”（As is the state, so is the school）。坎德尔强调，比较教育专家若不[[Refined Mastery\|精通]]关于国家与个人关系的政治理论，便无法参透制度差异背后的深层动因。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]

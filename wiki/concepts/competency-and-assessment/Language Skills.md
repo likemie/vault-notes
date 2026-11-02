@@ -74,7 +74,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 [[Academic Achievement\|学业成绩]] — 学业成绩涵盖跨学科的广泛概念理解、课程知识掌握与期末考试总分，而语言技能专指目标语言系统的听说读写与交际工具性表现。
-> - 不等于 [[Higher-Order Thinking Skills\|高阶思维技能]] — 语言技能聚焦于语言符号的表层与结构化组织，技术工具可大幅提升文本语法准确性与表达流利度，但并不必然带来分析、评估与[[Problem Solving\|复杂问题解决]]等高阶心智跃迁。
+> - 不等于 [[Higher-Order Thinking Skills\|高阶思维技能]] — 语言技能聚焦于语言符号的表层与结构化组织，技术工具可大幅提升文本语法准确性与表达流利度，但并不必然带来分析、评估与[[Problem Solving\|复杂问题解决]]等高阶心智转向。
 
 ---
 
@@ -88,7 +88,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 语言技能的四大核心要素
-> - **书面表达与语法重构（Written Expression & Syntactic Restructuring）** 运用恰当的词汇与句式组织连贯语篇的能力，涵盖遣词造句的准确性、体裁规约与即时修改润色。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 10)]]
+> - **书面表达与语法重构（Written Expression & Syntactic Restructuring）** 运用恰当的词汇与句式组织连贯语篇的能力，涵盖遣词造句的准确性、体裁规范与即时修改润色。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 10)]]
 > - **口语交际与对话流利度（Oral Communication & Dialogue Fluency）** 在交际互动中即时提取词汇并进行通畅口头表达的能力，强调语义连贯与应对互动焦虑的心理韧性。
 > - **阅读理解与语篇分析（Reading Comprehension & [[Discourse Analysis]]）** [[Decodification\|解码]]书面文本、提取核心主旨并理解上下文隐含逻辑的能力。
 > - **听力感知与意义提取（Listening Perception & Semantic Extraction）** 辨识口语语音流、捕捉关键信息并建立语境关联的接受性能力。
@@ -99,15 +99,15 @@ updated: 2026-11-02
 > **探讨维度　技术赋能与符号支架** 大语言模型在语法润色、词汇替换、语篇重构与低焦虑口语模拟中具有天然的底层机制优势，为学习者提供了全天候的一对一自适应交互支架。
 
 > [!claim] Chen & Cheung
-> **生成式 AI 对大学生语言技能产生极显著的大促学效应** [[Meta-analysis\|元分析]]表明，在控制[[Baseline Standardized Mean Difference\|基线等效性]]的前提下，生成式 AI 对二语与外语大学生的语言技能具有突出的促进作用（$g^+ = 2.331$ $[1.617, 3.044]$），是[[Academic Achievement\|学业成绩]]、[[Affective Outcomes\|情感动机]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Metacognition\|元认知]]等所有产出维度中获益最高的一项。这一超大效应源于技术能提供极低焦虑的即时纠错与交互语境；但该领域也存在严重的[[Small Study Effects\|小研究效应]]与[[Publication Bias\|发表偏倚]]，经[[Trim and Fill Method\|剪补法]]校正后效应收敛至 $g^+_{\text{adj}} = 1.009$。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 14–15)]]
+> **生成式 AI 对大学生语言技能产生极显著的大促学效应** [[Meta-analysis\|元分析]]表明，在控制[[Baseline Standardized Mean Difference\|基线等效性]]的前提下，生成式 AI 对二语与外语大学生的语言技能具有突出的促进作用（$g^+ = 2.331$ $[1.617, 3.044]$），是[[Academic Achievement\|学业成绩]]、[[Affective Outcomes\|情感动机]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Metacognition\|元认知]]等所有产出维度中获益最高的一项。这一超大效应源于技术能提供极低焦虑的即时纠错与交互语境；但该领域也存在严重的[[Small Study Effects\|小研究效应]]与[[Publication Bias\|发表偏倚]]，经[[Trim and Fill Method\|剪补法]]校正后效应汇合至 $g^+_{\text{adj}} = 1.009$。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 14–15)]]
 
 ---
 
 > [!concept-proposition] 命题二｜语言技能的表层符号流畅性并不自动等价于深层心智与元认知发展
-> **探讨维度　符号操纵与深层心智解耦** [[Text Generation|文本生成]]的表观完善容易遮蔽学生在认知加工深度上的不足，语言技能维度的单向突进并不必然带动元认知监控与[[Critical Thinking\|批判性思维]]的同步提升。
+> **探讨维度　符号操纵与深层心智脱钩** [[Text Generation|文本生成]]的表观完善容易遮蔽学生在认知加工深度上的不足，语言技能维度的单向突进并不必然带动元认知监控与[[Critical Thinking\|批判性思维]]的同步提升。
 
 > [!claim] Chen & Cheung
-> **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size\|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义假设。这证明智能工具对表层符号转换与规则模仿能提供强效杠杆，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
+> **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size\|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义假设。这证明智能工具对表层符号转换与规则模仿能提供强效手段，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-11-02
 > - **20世纪中期 — [[Behaviorism|行为主义]]听说法与分立技能观** 早期语言教学将语言技能视为孤立的习惯养成，强调机械的句型操练（Drill）与正误强化，技能被严格割裂为离散的语音与词汇测试。
 > - **1970s–1980s — 交际语言能力（Communicative Competence）转向** Hymes 与 Canale & Swain 等提出交际能力理论，推动语言技能从纯语法规则识记转向社会语言学、语篇与策略能力的综合统整。
 > - **2001 — 欧洲语言共同参考框架（CEFR）确立[[Operationalization\|操作化]]能做清单** 确立基于“能做”（Can-do statements）的行为描述语体系，将语言技能确立为具有国际通用效标的层级操作化指标。
-> - **2025 — 生成式 AI 时代：符号生成表观性与心智解耦反思** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 等学者系统量化了生成式 AI 对二语技能的强大赋能，同时揭示出表层文本流畅与深层反思能力的断层，推动语言技能评价从孤立的文本终稿向包含提示词交互与批判性核查的过程性综合素养转型。
+> - **2025 — 生成式 AI 时代：符号生成表观性与心智脱钩反思** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 等学者系统量化了生成式 AI 对二语技能的强大赋能，同时揭示出表层文本流畅与深层反思能力的断层，推动语言技能评价从孤立的文本终稿向包含提示词交互与批判性核查的过程性综合素养转型。
 
 ---
 

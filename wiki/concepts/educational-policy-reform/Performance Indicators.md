@@ -222,7 +222,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题四｜跨国绩效指标将教育治理收束于投入产出效率并以[[Reliability|信度]]可比性[[Epoché|悬置]]教育目的哲学辩论
+> [!concept-proposition] 命题四｜跨国绩效指标将教育治理收住于投入产出效率并以[[Reliability|信度]]可比性[[Epoché|悬置]]教育目的哲学辩论
 > **探讨维度　比较教育政治社会学与跨国治理维度** 探讨超国家机构如何通过指标投入产出系统与等价空间技术置换国家教育公共目的。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
@@ -252,7 +252,7 @@ updated: 2026-11-02
 > | **命题一：技术—权力双重性** | 指标承载权力博弈并执行结构性选择，反向规训资源流动与组织竞争 | 政策工具社会学、制度分析 | [[Argument_Rambla_2022_Springer\|Rambla (2022)]]；Le Galès (2016) |
 > | **命题二：测量的反身履行性** | 指标从评估工具异化为追求目标，引发系统性应试表演与防御性合规 | 组织行为学、教育问责制批判 | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] |
 > | **命题三：理性表象与叙事激发** | 面对政策歧义性，数字构筑客观外表并为政治意识形态叙事提供弹性 | 政策中介研究、[[Evidence-Based Policy-Making\|循证决策]]批判 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] |
-> | **命题四：投入产出置换与信度优先** | 指标系统将治理收束于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]；Desrosières (1998) |
+> | **命题四：投入产出置换与信度优先** | 指标系统将治理收住于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]；Desrosières (1998) |
 > | **命题五：数据基建与跨机构依附** | 跨国指标体系受制于高额基建成本，形成数据采购依附与多边制度共生 | 超国家教育治理（欧盟与经合组织网络）、指标政治经济学 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 > | **命题六：分层叠加与规制深化** | 国家治理通过层叠追加新型过程指标，持续前移并收紧学校办学绩效控制网底 | 国家教育改革史、测试问责制度演进 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
 

@@ -56,7 +56,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Persuasive Communication in Education
-> 教育中的说服性沟通策略（Persuasive Communication in Education）指商业出版机构、教育咨询公司、政策倡导者或创新推广者，为了促使学校、教育局与一线教师采纳特定教学方案或干预项目，所采用的一整套基于修辞框架、情感共鸣、权威背书与诱人承诺的传播说服技术。加拿大蒙特利尔大学学者 Nora Carrier（2017）在《Educational Research》特刊中指出，许多在学校中迅速扩散的“教育时尚”（educational fads，如脑科学神话、[[Learning Styles|学习风格]]理论等）之所以大获成功，往往不是因为其具备扎实的实证因果证据，而是因为其善于运用高度专业化的说服性沟通策略；这种现象对真实的[[Evidence-Informed Practice\|证据知情实践]]构成了严重干扰。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
+> 教育中的说服性沟通策略（Persuasive Communication in Education）指商业出版机构、教育咨询公司、政策倡导者或创新推广者，为了促使学校、教育局与一线教师采纳特定教学方案或干预项目，所采用的一整套基于修辞框架、情感共鸣、权威背书与诱人承诺的传播说服技术。加拿大蒙特利尔大学学者 Nora Carrier（2017）在《Educational Research》特刊中指出，许多在学校中迅速扩散的“教育时尚”（educational fads，如脑科学神话、[[Learning Styles|学习风格]]理论等）之所以大获成功，往往是因为其善于运用高度专业化的说服性沟通策略，有别于因为其具备扎实的实证因果证据；这种现象对真实的[[Evidence-Informed Practice\|证据知情实践]]构成了严重干扰。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!concept-lens] 概念透镜
 > - **批判焦点** 揭示教育创新传播中“修辞吸引力”对“实证有效性”的僭越与替代机制。
@@ -79,7 +79,7 @@ updated: 2026-11-02
 > | **证据处理方式** | 选择性剪裁证据、夸大确定性、隐瞒边界 | 呈现完整[[Chain of Evidence\|证据链]]，明确效能等级与局限性 | 迷信单一[[Effect Size\|效应量]]或黄金标准实验结果 |
 > | **修辞与沟通技巧** | 诉诸情感危机感、前沿科技噱头与权威背书 | 采用中立、平实且情境敏感的实践语言 | 采用学术抽象语言与官僚行政通告 |
 > | **实践者定位** | 被动被说服的消费者或跟风者 | 拥有自主判断力的协作探究者与共创者 | 机械执行标准化干预的技术操作员 |
-> | **对学校的后果** | 滋生盲目跟风与教育时尚倦怠 | 培育持久的证据知情文化与探究能力 | 压抑[[Teacher Professional Agency\|教师专业能动性]]，导致系统合法化危机 |
+> | **对学校的后果** | 滋生盲目跟风与教育时尚倦怠 | 培育持久的证据知情文化与探究能力 | 压抑[[Teacher Professional Agency\|教师专业能动性]]，导致系统的合法化危机 |
 
 ---
 

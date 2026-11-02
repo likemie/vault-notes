@@ -61,7 +61,7 @@ updated: 2026-11-02
 
 ## 定义
 
-虚拟教师休息室（德文：Virtuelles Lehrerzimmer / Twitterlehrerzimmer，简称 twlz；英文：Virtual Teacher Staffroom / Online Teacher Community）是指一线在岗教师、师范生与教育工作者依托社交媒体平台（如 Twitter/X、Instagram、TikTok、Bluesky 等），通过特定主题标签（如德语区的 `#twlz`、英语区的 `#EdChat`）自发组织、跨越地域与学段限制的非正式在线专业交流社群与数字公共空间。
+虚拟教师休息室（德文：Virtuelles Lehrerzimmer / Twitterlehrerzimmer，简称 twlz；英文：Virtual Teacher Staffroom / Online Teacher Community）是指一线在岗教师、师范生与教育从业者依托社交媒体平台（如 Twitter/X、Instagram、TikTok、Bluesky 等），通过特定主题标签（如德语区的 `#twlz`、英语区的 `#EdChat`）自发组织、跨越地域与学段限制的非正式在线专业交流社群与数字公共空间。
 
 > [!def] Virtual Teacher Staffroom
 > 虚拟教师休息室（Virtual Teacher Staffroom）构成了数字时代教师[[Professional Learning Community\|专业学习共同体]]（[[Professional Learning Community\|PLC]]）的去中心化网络形态。它打破了传统实体学校物理隔绝与行政层级束缚，以即时素材共享、课堂突发问题求助、数字化教学法探讨及职业情感共鸣为核心驱动力；但在展现极高同侪活跃度的同时，该空间普遍存在大学学术科研力量缺位、[[Knowledge Production\|知识生产]]缺乏实证把关，以及在算法机制下形成“网络意见领袖（*Meinungsführer*）”主导[[Discourse|话语]]权的新型层级结构。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 257–258)]]
@@ -95,8 +95,8 @@ updated: 2026-11-02
 > [!feature] 虚拟教师休息室的运作机理与结构特征
 > - **同侪即时互惠与去私有化实践（Horizontal Reciprocity & Deprivatized Practice）** 教师公开发布备课困惑、教案草稿与数字化软件心得，同行迅速提供多元反馈与免费素材，极大地打破了传统教室教学的“孤岛状态”（Krutka & Carpenter, 2016）。
 > - **数字化转型的微创新孵化场（Grassroots Digital Incubator）** 在德国学校数字化推进过程中，虚拟教研室成为教师自发探索互动白板、AI 教学辅助工具与平板教学法的前沿试验田（Déchène et al., 2024）。
-> - **学术研究力量的双向互动缺失（Academic Research Absence）** 大学科研人员虽偶有在社交媒体发布论文成果或学术会议信息，但绝大多数停留在自上而下的单向广播模式，极少参与评论区与教师的实质性讨论（Guenther et al., 2023）。
-> - **网络意见领袖的[[Discourse|话语]]权中心化（Algorithmic Opinion Leadership）** 开放平台并非完全扁平，粉丝量庞大的头部教师账号在算法赋能下成为“意见领袖（*Meinungsführer*）”，主导着教学流行风向与价值取向（Fütterer et al., 2021）。
+> - **学术研究力量的双向互动缺失（Academic Research Absence）** 大学科研人员虽偶有在社交媒体发布文章成果或学术会议信息，但绝大多数停留在自上而下的单向广播模式，极少参与评论区与教师的实质性讨论（Guenther et al., 2023）。
+> - **网络意见领袖的[[Discourse|话语]]权中心化（Algorithmic Opinion Leadership）** 开放平台并不完全扁平，粉丝量庞大的头部教师账号在算法赋能下成为“意见领袖（*Meinungsführer*）”，主导着教学流行风向与价值取向（Fütterer et al., 2021）。
 
 > [!logic-map]- 虚拟教师休息室的互动生态与科学传播重构路径
 > ```mermaid
@@ -127,7 +127,7 @@ updated: 2026-11-02
 > **探讨维度　科学传播在 Web 2.0 时代的实践缺口** 揭示高校科研人员对社交媒体互动潜力的漠视，剖析自上而下广播模式为何无法融入草根教研生态。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]] & Guenther et al.
-> **学术研究人员的单向广播与互动失灵** 尽管社交媒体为科研界与一线教师提供了直接、平等对话的理想技术条件，但在现实中，学者在社交媒体上的发帖主要局限于单向通告学术会议或新发论文，极少主动发起或参与对实践困境的深层互动（Guenther et al., 2023）。这种自上而下的顶层宣讲模式完全错失了获取实践反馈与纠正认知迷思的良机，导致虚拟教研室在很大程度上沦为缺乏科学证据把关的封闭同侪经验回音室。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]；Guenther et al. (2023)
+> **学术研究人员的单向广播与互动失灵** 尽管社交媒体为科研界与一线教师提供了直接、平等对话的理想技术条件，但在现实中，学者在社交媒体上的发帖主要局限于单向通告学术会议或新发文章，极少主动发起或参与对实践困境的深层互动（Guenther et al., 2023）。这种自上而下的顶层宣讲模式完全错失了获取实践反馈与纠正认知迷思的良机，导致虚拟教研室在很大程度上沦为缺乏科学证据把关的封闭同侪经验回音室。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]；Guenther et al. (2023)
 
 ---
 
@@ -135,7 +135,7 @@ updated: 2026-11-02
 > **探讨维度　数字网络微观政治与[[Discourse|话语]]权再集中** 解构社交媒体的“去中心化神话”，揭示网络意见领袖如何在缺乏学术审查的环境下重塑大众教学观念。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]] & Fütterer et al.
-> **算法赋权下的意见领袖与话语层级再造** 社交媒体中的教育讨论并非绝对平等的无阶层空间。[[Network Ethnography\|网络民族志]]与社交[[Network Analysis\|网络分析]]证实，在以 Twitter-Lehrerzimmer 为代表的虚拟社群中，受平台算法推荐与社交资本累积的驱动，迅速分化出一批具有极高关注度与号召力的“意见领袖（*Meinungsführer*）”（Fütterer et al., 2021）。这些网络红人教师的个人偏好与教学经验被过度放大，一旦其推崇包含[[Neuromyth|教育神经神话]]的教学法，将在短时间内引发大范围的跟风模仿，对循证实践构成严峻挑战。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]；Fütterer et al. (2021)
+> **算法赋权下的意见领袖与话语层级再造** 社交媒体中的教育讨论并不绝对平等的无阶层空间。[[Network Ethnography\|网络民族志]]与社交[[Network Analysis\|网络分析]]证实，在以 Twitter-Lehrerzimmer 为代表的虚拟社群中，受平台算法推荐与社交资本累积的驱动，迅速分化出一批具有极高关注度与号召力的“意见领袖（*Meinungsführer*）”（Fütterer et al., 2021）。这些网络红人教师的个人偏好与教学经验被过度放大，一旦其推崇包含[[Neuromyth|教育神经神话]]的教学法，将在短时间内引发大范围的跟风模仿，对循证实践构成严峻挑战。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]；Fütterer et al. (2021)
 
 ---
 

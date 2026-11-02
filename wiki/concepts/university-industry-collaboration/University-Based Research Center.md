@@ -108,7 +108,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **大学主导的议程设置与产业对齐** 大学先期设定核心攻关领域与战略技术路线，产业成员扮演评估者而非共同设计者角色，通过判断自身业务与大学技术方向的契合度决定是否出资加入。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 111)]]
-> - **政府引导与多元资金杠杆放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动杠杆，要求产业界会员费及大学、州政府提供[[Counterpart Funds|配套资金]]（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
+> - **政府引导与多元资金手段放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动手段，要求产业界会员费及大学、州政府提供[[Counterpart Funds|配套资金]]（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
 > - **跨学科、跨机构多校协同架构** 打破单一工程或自然科学学科边界，汇聚机械、化工、微电子、材料及计算机等复合团队；高阶中心往往跨越单一高校，形成通过[[Master Agreement|主协议]]维系的多校联合攻关体。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 367)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
 > - **双重聘任与矩阵式人事安排** 中心科研骨干强制保留学科院系的正式编制（Tenure-track），既维系中心研究与本科/研究生教学的活水源头，也杜绝了中心演化为与大学隔离的脱节官僚。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 > - **知识产权[[Pre-negotiated IP Rights|优先谈判权]]与差异化开放安排** 产业出资会员通常享有[[Foreground IP|前景知识产权]]（Foreground IP）的优先受让/独占谈判权；而在软件与信息领域，中心亦常采取协同开源策略以促进技术标准扩散。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]
@@ -141,7 +141,7 @@ updated: 2026-11-02
 > **探讨维度　公共财政资助的可持续性与组织惯性防范** 探讨政府资助的多学科中心在经历初始培育期后，如何避免对公共财政形成单向依赖并保持创新敏捷度。
 
 > [!claim] Bloch, E.
-> **[[Sunset Provisions|日落条款]]倒逼自我造血与淘汰防惰性** 政府对大学研究型中心的资助必须设置刚性时间边界（如十年日落条款，Sunset Provisions）。日落条款的制度功能并非消灭中心，而是双向施压：一方面从制度上遏制大学大兴土木、无节制扩张实体官僚架构的组织惯性，迫使中心在既定期限内必须拿出实质性技术成果证明自身价值；另一方面切断中心对公帑的永久依赖预期，倒逼大学与中心主动对接产业界和地方政府，建立多元出资的自我造血循环。若中心无法建立自持能力，宁可果断终止资助，向学术界释放优胜劣汰的严肃问责信号。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
+> **[[Sunset Provisions|日落条款]]倒逼自我造血与淘汰防惰性** 政府对大学研究型中心的资助必须设置刚性时间边界（如十年日落条款，Sunset Provisions）。日落条款的制度功能是双向施压：一方面从制度上遏制大学大兴土木、无节制扩张实体官僚架构的组织惯性，迫使中心在既定期限内必须拿出实质性技术成果证明自身价值，有别于消灭中心；另一方面切断中心对公帑的永久依赖预期，倒逼大学与中心主动对接产业界和地方政府，建立多元出资的自我造血循环。若中心无法建立自持能力，宁可果断终止资助，向学术界释放优胜劣汰的严肃问责信号。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 
 ---
 
@@ -203,7 +203,7 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] | 1984–2004 年 NSF 资助的全部工程研究中心（$N = 56$，含 3 所地震中心） | 纵向全样本追踪与口述史分析 | 累计资助中心总数与历史存续率（Survival rate） | 累计获批 56 所；截至 2003 年底，44 所成功存续或自立（存活率 79%）；13 所完全自给自足 | 全样本统计，无[[Sampling Error\|抽样误差]] | 仅反映 [[Engineering Research Centers\|NSF ERC]] 计划样本，未统计未获 [[National Science Foundation\|NSF]] 资助的地方性研究中心 |
-> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004, p. 369]] | 2003–2005 财年 NSF 工程学学部（ENG）决算与预算申请 | 联邦财政预算与机构财务分析 | 资助杠杆比例与中心计划经费规模 | 联邦[[Seed Funding\|种子基金]]约占年预算 30%，非联邦配套占 70%；2003 财年 ERC 拨付 6,572 万美元（中心总支出 8,571 万美元） | 官方决算数据 | 反映成熟期中心平均配比，处于初创期的中心可能产业匹配率较低 |
+> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004, p. 369]] | 2003–2005 财年 NSF 工程学学部（ENG）决算与预算申请 | 联邦财政预算与机构财务分析 | 资助手段比例与中心计划经费规模 | 联邦[[Seed Funding\|种子基金]]约占年预算 30%，非联邦配套占 70%；2003 财年 ERC 拨付 6,572 万美元（中心总支出 8,571 万美元） | 官方决算数据 | 反映成熟期中心平均配比，处于初创期的中心可能产业匹配率较低 |
 
 ---
 

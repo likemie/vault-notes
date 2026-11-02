@@ -54,11 +54,11 @@ updated: 2026-11-02
 ---
 
 > [!def] Defeater
-> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性假设的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski et al. 转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
+> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性假设的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski et al. 转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作人员提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指能够瓦解原主张确证基础的反向证据、冲突事实或逻辑漏洞，展现了人类[[Knowledge Building Theory|知识建构]]与信念更新的可撤销性本质。
-> - **用途** 在哲学中用于界定信念正当性的动态修正机制；在智能系统设计中作为反向证据生成中介，打破算法的默认权威并赋能操作者独立抗辩。
+> - **用途** 在哲学中用于界定信念正当性的动态修正机制；在智能系统设计中作为反向证据生成中介，打破算法的默认权威并赋能操作人员独立抗辩。
 > - **边界** 击败者不等于虚无主义的全面怀疑；击败者自身必须具备可验证的证据性与实质理由，且击败者本身也可能被更高阶的“击败者的击败者（Defeater-Defeaters）”所中和。
 
 > [!citation-card] 反驳型击败者在医疗人机决策中的抗辩机制（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
@@ -76,11 +76,11 @@ updated: 2026-11-02
 > [!contrast-table] 削弱型击败者与反驳型击败者的机制与人机交互功能辨析
 > | 比较维度 | **削弱型击败者（Undercutting Defeater）** | **反驳型击败者（Rebutting Defeater）** |
 > |---|---|---|
-> | **核心作用靶向** | 攻击证据与结论之间的**支撑关联度与[[Reliability\|可靠性]]** | 攻击**结论本身**，证明其对立面更具真实性 |
+> | **核心作用针对** | 攻击证据与结论之间的**支撑关联度与[[Reliability\|可靠性]]** | 攻击**结论本身**，证明其对立面更具真实性 |
 > | **[[Epistemology\|认识论]]逻辑形态** | “证据 $E$ 并不能证明结论 $P$，因为存在干扰因素 $D$” | “结论 $P$ 是错误的，因为存在独立事实 $D$ 支持相反结论 $Q$” |
 > | **经典认识论范例** | 观察到红光照射下的物体，物体呈现红色并不能确证其本身是红色的（Pollock, 1987） | 观察到某动物具有鸟类羽毛，但解剖证实其为哺乳动物 |
 > | **智能决策典型呈现** | 提示雷达传感器存在雨雪杂波干扰，或指出当前案例超出 AI 模型训练分布 | 自动调出患者近期反常生化指标，指出该特征在临床上更符合病症 B |
-> | **人机交互抗辩功能** | 促使操作者对系统建议的置信度降级，引发审慎重检 | 为操作者直接提供推翻系统建议并采纳替代方案的**实质证据支架** |
+> | **人机交互抗辩功能** | 促使操作人员对系统建议的置信度降级，引发审慎重检 | 为操作人员直接提供推翻系统建议并采纳替代方案的**实质证据支架** |
 
 ---
 
@@ -90,17 +90,17 @@ updated: 2026-11-02
 > - **反驳型击败者（Rebutting）**
 >   呈现与当前主张相矛盾的直接反常事实，提供竞争性解释。
 > - **可抗辩性支持（Contestability）**
->   为操作者提供推翻默认系统提示的实质论据与证据抓手。
+>   为操作人员提供推翻默认系统提示的实质论据与证据抓手。
 > - **动态可撤销性（Defeasibility）**
->   保留人类信念与决策的修正空间，抵御过早认知收敛。
+>   保留人类信念与决策的修正空间，抵御过早认知汇合。
 
 ---
 
-> [!concept-proposition] 命题一｜反驳型击败者为人类操作者提供实质[[Scaffolding|认知支架]]，是打破[[Automation Bias|强自动化偏差]]与维系可抗辩性的充要条件
+> [!concept-proposition] 命题一｜反驳型击败者为人类操作人员提供实质[[Scaffolding|认知支架]]，是打破[[Automation Bias|强自动化偏差]]与维系可抗辩性的充要条件
 > **探讨维度　[[Scaffolding|认知支架]]与抗辩权赋能** 探讨如何通过界面反向证据呈现，将击败者转化为支持人类独立审议与决策纠偏的有效工具。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **击败者机制的可抗辩性支持** 在智能决策支持系统中，强[[Automation Bias|自动化偏差]]往往由于操作者推翻算法建议面临极高的时间搜索成本与制度抗辩阻力。研究指出，通过在交互界面中引入反驳型击败者（Rebutting Defeaters），系统在推荐某一方案的同时自动呈现支持竞争性假设的客观反常数据，实质上为人类操作者搭建了行使独立批判与反驳算法的认知[[Scaffolding|脚手架]]。这种设计显著降低了抗辩的认知门槛，使操作者能够依据实质证据驳回错误算法提示，从而真正维系了[[Meaningful Human Control|有意义的人类控制]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
+> **击败者机制的可抗辩性支持** 在智能决策支持系统中，强[[Automation Bias|自动化偏差]]往往由于操作人员推翻算法建议面临极高的时间搜索成本与制度抗辩阻力。研究指出，通过在交互界面中引入反驳型击败者（Rebutting Defeaters），系统在推荐某一方案的同时自动呈现支持竞争性假设的客观反常数据，实质上为人类操作人员搭建了行使独立批判与反驳算法的认知[[Scaffolding|脚手架]]。这种设计显著降低了抗辩的认知门槛，使操作人员能够依据实质证据驳回错误算法提示，从而真正维系了[[Meaningful Human Control|有意义的人类控制]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 ---
 
@@ -121,9 +121,9 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 击败者概念的演变历程
-> - **1987 — [[Formal Epistemology|形式认识论]]与可撤销推理奠基** 约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）在 *Cognitive Science* 发表经典论文，正式确立削弱型击败者（Undercutting）与反驳型击败者（Rebutting）的逻辑分类学，为非单调逻辑与知识确证理论奠定基础。
+> - **1987 — [[Formal Epistemology|形式认识论]]与可撤销推理奠基** 约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）在 *Cognitive Science* 发表经典文章，正式确立削弱型击败者（Undercutting）与反驳型击败者（Rebutting）的逻辑分类学，为非单调逻辑与知识确证理论奠定基础。
 > - **2000s–2010s — 论辩理论与人工智能知识表示** 击败者理论被广泛应用于人工智能论辩计算（Computational Argumentation）与证据图谱构建，形式化描述冲突命题之间的攻击与防御关系。
-> - **2025 — 人机交互中的击败者设计框架确立** Herman Veluwenkamp and Stefan Buijsman (2025) 首次将击败者从抽象哲学逻辑转化为人机交互界面的设计机制（Defeater Design），提出利用反向证据呈现赋能人类操作者的可抗辩性。
+> - **2025 — 人机交互中的击败者设计框架确立** Herman Veluwenkamp and Stefan Buijsman (2025) 首次将击败者从抽象哲学逻辑转化为人机交互界面的设计机制（Defeater Design），提出利用反向证据呈现赋能人类操作人员的可抗辩性。
 > - **2026 — 认知安全防护与[[Automation Bias|自动化偏差]]防御架构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将击败者机制与反思机器整合为抵御强[[Automation Bias|自动化偏差]]的认知安全防护架构，确立其在维护有意义人类控制与防范道德审思义务让渡中的核心规范价值。
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > [!debates] 学术争议
 >
 > > [!axis] 击败者过载 vs 认知带宽可承受性
-> > 探讨在界面中引入击败者机制是否会引发信息过载，导致操作者注意力疲劳或反向忽略所有提示。
+> > 探讨在界面中引入击败者机制是否会引发信息过载，导致操作人员注意力疲劳或反向忽略所有提示。
 > >
 > > - **[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]** 指出必须警惕击败者过载风险，强调击败者呈现必须具备情境针对性与显著性，在摩擦力与认知负荷之间取得精细平衡（pp. 23–24）。
 > > - **工效学效率至上派** 担忧过多反向证据会显著拉长决策周期，损害紧急场景下的响应速度。
@@ -142,4 +142,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于削弱型与反驳型击败者（Defeaters）的人机交互认知安全架构，论证其在为操作者提供可抗辩性支持、降低推翻算法建议的制度成本以及校准批判性信任中的核心功能。
+> - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于削弱型与反驳型击败者（Defeaters）的人机交互认知安全架构，论证其在为操作人员提供可抗辩性支持、降低推翻算法建议的制度成本以及校准批判性信任中的核心功能。

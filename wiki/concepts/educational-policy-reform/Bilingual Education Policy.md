@@ -6,7 +6,7 @@ aliases:
   - Singapore Bilingual Education
   - 新加坡双语教育模式
   - 语言政策与双语制
-summary: "国家或地区通过法定课程与教学语言规约，要求学生同时掌握两种语言（通常为官方通用语与母语）的系统性公共教育制度。在新加坡实践中，确立了以英语维系全球经济竞争力与科技接轨、以母语（华语等）沉淀传统道德价值与文化认同的双轨国家战略。"
+summary: "国家或地区通过法定课程与教学语言规范，要求学生同时掌握两种语言（通常为官方通用语与母语）的系统性公共教育制度。在新加坡实践中，确立了以英语维系全球经济竞争力与科技接轨、以母语（华语等）积累传统道德价值与文化认同的双轨国家战略。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 15
@@ -75,7 +75,7 @@ updated: 2026-11-02
 > | **经济定位** | 英语作为中立工作语言，直接对接全球资本与深科技 | 依靠单一国语降低国内交易成本 | 语言碎片化导致跨群体交易成本高昂 |
 > | **文化认同** | 母语（华语/马来语/泰米尔语）作为道德文化锚点 | 压制少数族裔文化以追求高度同质化 | 缺乏共享公共[[Discourse\|话语]]，易演变为族群部落冲突 |
 > | **治理隐喻** | 修剪热带雨林为专注于经济作物的现代花园 | 统一推平为单一作物农场 | 放任自流的原生混乱雨林 |
-> | **对国家发展贡献** | 支撑人均国内生产总值（GDP）从 428 美元跃升至 8.4 万美元 | 强化中央集权但易引发边缘群体离心 | 难以形成凝聚的现代化工业协作体系 |
+> | **对国家发展贡献** | 支撑人均国内生产总值（GDP）从 428 美元提升至 8.4 万美元 | 强化中央集权但易引发边缘群体离心 | 难以形成凝聚的现代化工业协作体系 |
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-11-02
 > **千年尺度下的语言文化整合** 新加坡独立之初面对缺乏资源纵深与 12 种方言割裂的严峻局面，李光耀与吴庆瑞主张必须以未来一百年乃至一千年的长远时间尺度思考生存；通过双语教育与[[Speak Mandarin Campaign|讲华语运动]]果断打破方言壁垒，使四分五裂的移民群体凝聚为具备共同道德价值观与奋斗意志的现代国家实体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Lee, 1965, 1986; Goh, 1979; Karp & Zamiska, 2025, pp. 194–197)]]
 
 > [!claim] Gopinathan, S.
-> **语言政策对国家文化人格的塑造作用** 论证新加坡的双语教育政策绝非单纯的教学法安排，而是多族群多元社会进行国家建构、确立“国家文化人格”（cultural personality of the nation）的核心制度战略。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Gopinathan, 1979; Karp & Zamiska, 2025, p. 196)]]
+> **语言政策对国家文化人格的塑造作用** 论证新加坡的双语教育政策是多族群多元社会进行国家建构、确立“国家文化人格”（cultural personality of the nation）的核心制度战略，有别于单纯的教学法安排。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Gopinathan, 1979; Karp & Zamiska, 2025, p. 196)]]
 
 ---
 
@@ -149,4 +149,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济跃升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济提升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。

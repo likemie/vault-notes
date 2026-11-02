@@ -71,7 +71,7 @@ updated: 2026-11-02
 > [!feature] 核心[[Epistemology\|认识论]]价值构成
 > - **认识成就的成本—收益权衡（Cost-Benefit Trade-offs）** 确立[[Epistemic Aims\|认识目标]]的决策依赖于对认识成就价值与探究成本（认知负荷、耗费时间、放弃其他活动）的权衡。当理解成本极高且缺乏价值赋权时，个体往往降级或放弃目标。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 145–146)]]
 > - **学科文化的价值分歧（Disciplinary Cultural Values）** 不同的学术亚文化赋予不同认识成果以差异化的价值定位（例如理论物理高度崇尚数学简洁性，而化学实验科学极度看重实验台上的“好手艺”实操技能）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
-> - **重大真理 vs 琐碎事实的价值层级（Significant Truth vs Trivial Facts）** 科学哲学强调并非所有真信念都具备同等价值；揭示普遍规律与因果机制的“重大真理”被赋予极高认识论价值，而孤立数据与琐碎事实的记忆价值极低。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 145)]]
+> - **重大真理 vs 琐碎事实的价值层级（Significant Truth vs Trivial Facts）** 科学哲学强调有别于所有真信念都具备同等价值；揭示普遍规律与因果机制的“重大真理”被赋予极高认识论价值，而孤立数据与琐碎事实的记忆价值极低。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 145)]]
 
 > [!logic-map]- 认识论价值对认知策略投入的调节模型
 > ```mermaid

@@ -71,7 +71,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 将理论构念与经验模式操作化为离散文本识别准则的显性化规程手册。
 > - **用途** 帮助研究团队建立共享解释共识，消除编码员间漂移，控制认知负荷，并为[[External Auditor\|外部审计]]提供方法论透明度。
-> - **边界** 编码手册并非僵化封闭的教条体系，亦非脱离情境的孤立字词词典；不适于完全替代针对复杂互动时序的整体叙事[[Rich and Thick Description\|深描]]。
+> - **边界** 编码手册有别于僵化封闭的教条体系，也有别于脱离情境的孤立字词词典；不适于完全替代针对复杂互动时序的整体叙事[[Rich and Thick Description\|深描]]。
 
 > [!citation-card] 关键表述
 > 质性编码手册包含预设编码列表及其操作定义，用于在数据分析中最大化[[Intercoder Agreement\|编码一致性]]，尤其是在涉及多位编码者团队协作的情境下。（Guest et al., 2012；引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 211]]）
@@ -136,8 +136,8 @@ updated: 2026-11-02
 
 ### 命题二　编码手册在质性分析中呈现理论先验演绎与经验归纳涌现的双向演化动力
 
-> [!concept-lens] 演绎规约与归纳弹性的方法论张力
-> 编码手册并非一成不变的机械模具，而是在理论假设与经验数据的往复穿梭中经历持续重构。
+> [!concept-lens] 演绎规范与归纳弹性的方法论张力
+> 编码手册是在理论假设与经验数据的往复穿梭中经历持续重构，有别于一成不变的机械模具。
 
 > [!claim] Flick, U. & [[Louis Cohen\|Cohen, L.]]
 > **预设范畴与经验修正的动态平衡** 针对预设编码手册是否会禁锢经验[[Emergence\|涌现]]的[[Paradigm\|范式]]质疑（Ezzy, 2002），科恩与[[Miranda Fricker|弗里克]]论证，初期从理论出发构建预设编码手册并不排斥经验数据的持续反哺；当经验材料无法拟合既有范畴时，手册必须经历多轮动态修改与重构，从而兼具理论检验与理论生成的双重弹性（Flick, 1998；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 575]]）。
@@ -176,7 +176,7 @@ updated: 2026-11-02
 
 > [!debates] 学术争议
 >
-> > [!axis] 先验演绎规约 vs 经验归纳[[Emergence\|涌现]]的[[Paradigm\|范式]]冲突
+> > [!axis] 先验演绎规范 vs 经验归纳[[Emergence\|涌现]]的[[Paradigm\|范式]]冲突
 > > 围绕预先确立的编码手册是否会扼杀[[Qualitative Research\|质性研究]]对意外发现的敏锐度存在长期争论。
 > >
 > > - **Ezzy（2002）** 批评预设范畴将数据分析禁锢在先验议程内，剥夺了对经验现实的动态感知，导致[[Content Analysis\|内容分析]]只能验证既有假说而无法生成新理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 574)]]

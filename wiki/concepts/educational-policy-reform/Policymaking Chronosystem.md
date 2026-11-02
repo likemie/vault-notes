@@ -58,7 +58,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Policymaking Chronosystem
-> 政策制定时间系统（Policymaking Chronosystem）指由社会历史情境、重大关键突发事件与制度周期共同塑造的政策演进时间生态。该概念借用[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]（Urie Bronfenbrenner）与斯蒂芬·J·塞西（Stephen J. Ceci, 1994）在[[Ecological Systems Theory\|生态系统理论]]模型中提出的历时系统（chronosystem）构想，强调政策制定并非在无菌的真空环境中展开，而是处于由历史时机与文化空间交织作用的动态演变之中，政策的稳定性与变革性始终受到外部宏观事件的节律支配。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> 政策制定时间系统（Policymaking Chronosystem）指由社会历史情境、重大关键突发事件与制度周期共同塑造的政策演进时间生态。该概念借用[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]（Urie Bronfenbrenner）与斯蒂芬·J·塞西（Stephen J. Ceci, 1994）在[[Ecological Systems Theory\|生态系统理论]]模型中提出的历时系统（chronosystem）构想，强调政策制定是处于由历史时机与文化空间交织作用的动态演变之中，政策的稳定性与变革性始终受到外部宏观事件的节律支配，有别于在无菌的真空环境中展开。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向支配政策议题浮现、政治家立场表态与立法周期流转的非线性时间结构。
@@ -66,12 +66,12 @@ updated: 2026-11-02
 > - **边界** 严格区别于单一维度的任期日历或法案法定审议程序；时间系统强调整体社会历史情境与突发关键事件对政策系统的整体冲击与重塑。
 
 > [!citation-card] 政策制定的时间生态与突发驱动
-> 政策制定并非发生在真空中，而是具有特定的时间系统，即由社会历史环境以及在生命历程中[[Emergence\|涌现]]并激发变革的环境事件所决定的条件集合。将时间系统概念引入政策思考，能够凸显出政策兼具稳定性与变革性，并且跨越历史时间与文化空间的诸多因素相互交织共同影响着政策发展。联邦教育政策往往因特定时空节点发生的显著事件而被激活，例如校园枪击案或灾难性气候事件，进而带来巨大的迅速行动压力。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> 政策制定是具有特定的时间系统，即由社会历史环境以及在生命历程中[[Emergence\|涌现]]并激发变革的环境事件所决定的条件集合，有别于发生在真空中。将时间系统概念引入政策思考，能够凸显出政策兼具稳定性与变革性，并且跨越历史时间与文化空间的诸多因素相互交织共同影响着政策发展。联邦教育政策往往因特定时空节点发生的显著事件而被激活，例如校园枪击案或灾难性气候事件，进而带来巨大的迅速行动压力。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 >
 > *Borrowing from Bronfenbrenner and Ceci's (1994) theory about human development, policy development does not happen in a vacuum and has a particular chronosystem or a set of changing conditions determined by sociohistorical circumstance and environmental events that emerge over the life course and prompt change... The federal education policymaking process is often activated by a salient event that occurs in a particular cultural context at a particular point in time, like a school shooting (Sandy Hook) or a catastrophic weather event (Hurricane Katrina).*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Policy Window|政策机会之窗]]（Policy Windows） — [[John W. Kingdon|约翰·金登]]（John Kingdon）的多源流框架聚焦问题流、政策流与政治流交汇时短暂开启的窗口，侧重微观政治机会的把握；政策制定时间系统则是一个更为宏观的生态历时架构，涵盖长期的社会历史沉淀、制度性法律重新授权周期与急性突发事件的复合时间节律。
+> - 不等于 [[Policy Window|政策机会之窗]]（Policy Windows） — [[John W. Kingdon|约翰·金登]]（John Kingdon）的多源流框架聚焦问题流、政策流与政治流交汇时短暂开启的窗口，侧重微观政治机会的把握；政策制定时间系统则是一个更为宏观的生态历时架构，涵盖长期的社会历史积累、制度性法律重新授权周期与急性突发事件的复合时间节律。
 > - 不等于 单纯的选举周期（Electoral Cycle） — 选举周期仅刻画以选票为导向的定期任期更替日历，而时间系统强调偶发性危机（如自然灾害或校园枪击惨案）对既定政治日历的突发性颠覆与议程重构。
 > - 不等于 法定审议日历（Legislative Calendar） — 委员会排期与法案读会只是技术性的议事规程，时间系统涵盖了公众情绪、媒体议程与政治家公开承诺所构成的综合心理与社会时间[[Champ\|场域]]。
 
@@ -117,10 +117,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜政策时间系统的突发性与立场快速锁定机制迫使决策者将实证证据转化为辩护既定立场的政治燃料
-> **探讨维度　危机驱动与不可逆政治承诺** 政策制定并非从容不迫的真理探寻过程，特定历史节点的危机冲击要求政客以极速应对换取生存，进而重构了实证证据的功能定位。
+> **探讨维度　危机驱动与不可逆政治承诺** 政策制定有别于从容不迫的真理探寻过程，特定历史节点的危机冲击要求政客以极速应对换取生存，进而重构了实证证据的功能定位。
 
 > [!claim] [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]]
-> **危机激活下的立场锁定与证据燃料功能** 借鉴[[Urie Bronfenbrenner\|布朗芬布伦纳]]的人类发展历时系统构想，政策演进深受特定时空节点突发事件的支配。当桑迪胡克校园枪击案或卡特里娜飓风等危机爆发时，联邦教育治理被瞬间激活。民选官员必须在数小时内公开定调以回应选民恐慌；一旦公开表态，退缩或保持中立将招致严厉政治惩罚。在这一极端压缩的历时节点，立法者绝无耐心等待学者开展漫长的[[Document|文献]]梳理，而是本能地检索并策略性援引能够证明其既定主张合理的证据，将实证数据转化为强化政治口号（Mantra）的燃料。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> **危机激活下的立场锁定与证据燃料功能** 借鉴[[Urie Bronfenbrenner\|布朗芬布伦纳]]的人类发展历时系统构想，政策演进深受特定时空节点突发事件的支配。当桑迪胡克校园枪击案或卡特里娜飓风等危机爆发时，联邦教育治理被瞬间激活。民选官员必须在数小时内公开定调以回应选民恐慌；一旦公开表态，退缩或保持中立将招致严厉政治惩罚。在这一极端压缩的历时节点，立法者绝无耐心等待学者开展漫长的[[Document|文献]]梳理，是本能地检索并策略性援引能够证明其既定主张合理的证据，将实证数据转化为强化政治口号（Mantra）的燃料。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 ---
 

@@ -125,7 +125,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题三｜国家级重[[Big Science|大科学]]城与开放型留学生战略构筑了持续供给核心技术与全球智力的策源底座
+> [!concept-proposition] 命题三｜国家级重[[Big Science|大科学]]城与开放型留学生战略构筑了持续供给核心技术与全球智力的策源基础
 > **探讨维度　科学城载体与国际[[Human Capital Theory|人力资本]]引育** 探讨政府集中投资建设的国家级科学城与[[International Education|国际教育]]战略如何协同为区域产业提供长期的基础研究供给与国际人才储备。
 
 > [!claim] 张寒旭等

@@ -84,7 +84,7 @@ updated: 2026-11-02
 > *First, there is the assumption of determinism. This means simply that events have causes, that events are determined by other circumstances; and science proceeds on the belief that these causal links can eventually be uncovered and understood, that the events are explicable in terms of their antecedents. Moreover, not only are events in the natural world determined by other circumstances, but there is regularity about the way in which they are determined: the universe does not behave capriciously. It is the ultimate aim of scientists to formulate laws to [[Accounts|account]] for the happenings in the world, thus giving them a firm basis for prediction and control.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Causality|因果性]] — 因果性是关于两类事件之间引起与被引起关联的逻辑范畴；决定论则是主张宇宙一切事件完全由前因严格闭合决定的哲学世界观。
+> - 不等于 [[Causality|因果性]] — 因果性是关于两类事件之间引起与被引起关联的逻辑范畴；决定论则是主张宇宙一切事件完全由前因严格封闭决定的哲学世界观。
 > - 不等于 [[Positivism|实证主义]] — 实证主义是[[Epistemic Stances|认识论立场]]，主张知识源于感官经验；决定论是实证主义所依托的本体论与人性前设。
 > - 不等于 [[Voluntarism|唯意志论]] — 唯意志论是其在人性维度上的对立极，主张人具有自由意志并能自主创造环境。
 
@@ -94,14 +94,14 @@ updated: 2026-11-02
 > | 决定论形态 | 核心主张 | 对人性的预设 | 方法论机制与局限 |
 > |---|---|---|---|
 > | **机械决定论（钟表模型，Laplace / Skinner）** | 牛顿式刚性因果链条，宇宙如精密钟表，因果具有对称等比性 | 刺激-反应客体，人犹如环境与生理驱力支配的机械生物 | 受控实验与物理主义还原；完全忽视人类[[Reflexivity\|反思性]]与情境意义 |
-> | **结构决定论（[[Grand Theory\|宏大叙事]]，Grand Theory）** | 宏观社会阶级、制度结构与既定角色单向决定微观个体命运 | 系统角色承载者，人是给定社会结构的提线木偶 | [[Structural Functionalism\|结构功能主义]]与刺猬型闭合体系；抹杀个体内在矛盾与微观抗争 |
+> | **结构决定论（[[Grand Theory\|宏大叙事]]，Grand Theory）** | 宏观社会阶级、制度结构与既定角色单向决定微观个体命运 | 系统角色承载者，人是给定社会结构的提线木偶 | [[Structural Functionalism\|结构功能主义]]与刺猬型封闭体系；抹杀个体内在矛盾与微观抗争 |
 > | **概率决定论（统计推断，Probabilistic）** | 群体层面遵循大数定律与统计规律，个体层面表现为概率倾向 | 具有一定变异空间的理性选择者或行动单元 | 现代定量测量、回归模型与概率推断；无法排除残差[[Heterogeneity\|异质性]] |
 > | **云团动态与工程[[Epistemology\|认识论]]（Popper / Tetlock / Karp）** | 现实系统是流动、湍流的不可预测云团，拒绝单一终极法则 | 多元视角的敏捷探索者，以实战物理反馈不断修正认知 | 狐狸型概率更新、[[Engineering Mindset\|工程思维]]试错、免责根因复盘与实战检验 |
 
 ---
 
 > [!feature] 核心要素
-> - **因果前因可知性（Explicability via Antecedents）** 任何现象的发生绝非凭空孤立，其机制原则上均可追溯至先行情境与客观条件，能够被理性与实证研究所揭示。
+> - **因果前因可知性（Explicability via Antecedents）** 任何现象的发生有别于凭空孤立，其机制原则上均可追溯至先行情境与客观条件，能够被理性与实证研究所揭示。
 > - **宇宙运作规则性（Regularity without Caprice）** 假定自然与社会世界存在内在稳定的秩序，排斥不可捉摸的超自然力量或彻底不可知的盲目任性。
 > - **预测与控制旨趣（Prediction and Control）** 科学研究的根本驱动力在于从经验事实中抽象出因果法则，以此为教育干预、行为矫正与制度设计提供前瞻性控制依据。
 > - **被动响应的主体图像（Passive Responsive Subject）** 在经典实证社会学中，决定论倾向于将人描绘为受外在环境刺激或内在生理/心理动机所驱动的被动响应者。
@@ -124,11 +124,11 @@ updated: 2026-11-02
 > **探讨维度　科学本体验证维度** 探讨教育研究对象的可解释性。决定论将现象的规律性与可预测性视为科学研究开展的[[Ontology|本体论]]前提。
 
 > [!claim] Cohen, Manion & Morrison
-> **前因决定与可理解性判定** 科学探究奠基于对决定论的坚定信念之上，即事件是由其他情境决定的，且宇宙运作绝非反复无常；因果链条在原则上完全能够被经验揭示与理性理解，确立因果法则是科学家获得预测与控制能力的唯一途径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]
+> **前因决定与可理解性判定** 科学探究奠基于对决定论的坚定信念之上，即事件是由其他情境决定的，且宇宙运作有别于反复无常；因果链条在原则上完全能够被经验揭示与理性理解，确立因果法则是科学家获得预测与控制能力的唯一途径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]
 
 ---
 
-> [!concept-proposition] 命题二｜人类行为在客观上是环境结构与既有刺激的产物，个体能动性受制于因果闭合
+> [!concept-proposition] 命题二｜人类行为在客观上是环境结构与既有刺激的产物，个体能动性受制于因果封闭
 > **探讨维度　人性与环境制约维度** 探讨人与环境的支配关系。经典决定论将个体行为归结为环境塑造的结果，排斥无因果由来的绝对自由。
 
 > [!claim] Burrell & Morgan
@@ -209,4 +209,4 @@ updated: 2026-11-02
 > | [[Engineering Mindset]] | 概念 | [[Epistemology\|认识论]]超越：以代码与物理实测为反馈，摒弃刺猬型决定论意识形态，直面云状动态现实。 |
 > | [[Karl Popper]] | 人物 | 哲学先驱：发表《论云与钟》，系统解构将一切云团强行视为机械钟表的物理决定论。 |
 > | [[Philip Tetlock]] | 人物 | 心理学家：通过长期实证检验揭示刺猬型决定论预测能力的系统性破产。 |
-> | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》作者，倡导以工程思维破除公共治理中的意识形态决定论。 |
+> | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》撰写者，倡导以工程思维破除公共治理中的意识形态决定论。 |

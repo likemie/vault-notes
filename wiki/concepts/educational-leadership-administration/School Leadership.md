@@ -81,7 +81,7 @@ updated: 2026-11-02
 ---
 
 > [!def] School Leadership
-> **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业成长、重构[[Organizational Culture\|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice\|证据知情实践]]与[[Quality Use of Research Evidence Framework\|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能杠杆。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–192)]]
+> **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业成长、重构[[Organizational Culture\|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice\|证据知情实践]]与[[Quality Use of Research Evidence Framework\|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能手段。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–192)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 学校微观组织改进、人员发展、专业信任与证据转化的协同引领机制。
@@ -100,7 +100,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - **不等于 传统的科层行政管理（Bureaucratic Administration）** 行政管理侧重规章制度维护、考勤考评与日常事务性运转；学校领导力侧重教学愿景引领、组织文化塑造与人员赋能。
-> - **不等于 去情境化的伟人英雄叙事（Heroic Leadership）** 领导力并非个别校长的天赋特质或独断决断，而是深植于[[Teacher Trust|教师信任]]关系、教研共同体与分布式协作中的集体能力。
+> - **不等于 去情境化的伟人英雄叙事（Heroic Leadership）** 领导力是深植于[[Teacher Trust|教师信任]]关系、教研共同体与分布式协作中的集体能力，有别于个别校长的天赋特质或独断决断。
 > - **不等于 自上而下的独断强加（Bee in their bonnet）** 领导者单凭个人一时冲动强推未经全员协商的外来方案，属于典型的[[Poor Research Use\|劣质研究使用]]，会引发教师强烈怨怼与教学停滞。
 
 ---
@@ -157,7 +157,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题三｜在[[Evidence-Informed Practice|证据知情实践]]中，榜样型领导示范与互信文化构成了破除教师防卫与实现高质量证据转化的决定性杠杆
+> [!concept-proposition] 命题三｜在[[Evidence-Informed Practice|证据知情实践]]中，榜样型领导示范与互信文化构成了破除教师防卫与实现高质量证据转化的决定性手段
 > **探讨维度　组织使能与证据转化机制** 探讨外部科研证据如何穿透学校微观壁垒，论证领导者亲身示范与制度化排程对教师常态化循证行为的促进机制。
 
 > [!claim] Rickinson et al.
@@ -173,11 +173,11 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题五｜学校领导力作为高位组织使能杠杆获得专家德尔菲高度认可，是整合微观教学的不可替代支撑
-> **探讨维度　组织使能杠杆与实践价值分层** 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
+> [!concept-proposition] 命题五｜学校领导力作为高位组织使能手段获得专家德尔菲高度认可，是整合微观教学的不可替代支撑
+> **探讨维度　组织使能手段与实践价值分层** 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+> **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能手段。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织手段的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 > [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM|Eacott (2017)]]
 > **追逐领导力绩效诱发行政官僚异化与治理风险** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚政策的尖锐批判指出：自上而下的循证绩效规训正将学校领导力异化为持续生产数据的技术官僚流水线。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
@@ -191,7 +191,7 @@ updated: 2026-11-02
 > | **管理主义双重绑定** | 市场化自主权将校长异化为绩效交付者，引发伦理妥协与目标置换 | 基础[[Educational Decentralization\|教育分权]]改革与标准化问责体制 | Eacott; Keddie et al. (2020) |
 > | **循证使能与榜样示范** | 领导亲身示范与制度化排程是破除教师防卫、促进证据使用的中枢 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] |
 > | **工时重置与角色转型** | 治理理念促使校长削减直接授课并增加听课研讨，向教育企业管理者转型 | 学校管理专业化、领导力工时配置与组织再造 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] |
-> | **高位组织使能支柱** | 专家评审获评高分，作为系统孵化与保障微观课堂教学的高位杠杆 | 学校整体改进规划、循证治理系统设计 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **高位组织使能支柱** | 专家评审获评高分，作为系统孵化与保障微观课堂教学的高位手段 | 学校整体改进规划、循证治理系统设计 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 > | **官僚异化治理风险** | 追逐领导力[[Performance Indicators\|绩效指标]]异化为持续生产数据，加剧行政官僚化与教师流失 | 循证政策行政转译、教师工作负荷与师资留任危机 | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
 
 ---
@@ -202,7 +202,7 @@ updated: 2026-11-02
 > - **2000s — ISSPP 跨国项目与分布式领导转向** [[OECD\|经合组织]]（OECD）启动改进学校领导力项目（ISL），国际成功学校校长项目（ISSPP）在 20 多个国家展开长期追踪，确立领导力的情境特异性与分布式领导（Distributed Leadership）共识。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–380)]]
 > - **2010s — [[Critical Policy Analysis|批判性政策研究]]与管理主义反思** 学界运用[[Critical Theory\|批判理论]]与[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]视角，深刻反思[[New Public Management\|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导习性。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–58)]]
 > - **2010s 至今 — 德语区产出导向与校长角色转型** 随着国家教育标准与数据监测体系确立，欧陆中小学校长逐步打破兼课教师传统，在路径自主架构下转型为以教学诊断和质量保障为核心的教育企业管理者。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–21, 30–33)]]
-> - **2020s — [[Evidence-Informed Practice\|证据知情实践]]中的组织使能重塑** 莫[[Roy Nash|纳什]]大学 Q 项目在[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）中，将榜样型领导力与制度化排程确立为促进循证实践的组织使能支柱，完成从行政管辖向循证培育的[[Paradigm\|范式]]跃升。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–192)]]
+> - **2020s — [[Evidence-Informed Practice\|证据知情实践]]中的组织使能重塑** 莫[[Roy Nash|纳什]]大学 Q 项目在[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）中，将榜样型领导力与制度化排程确立为促进循证实践的组织使能支柱，完成从行政管辖向循证培育的[[Paradigm\|范式]]提升。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–192)]]
 
 ---
 
@@ -321,7 +321,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织杠杆。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织手段。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]与习性理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立学校领导力为最高相关度的组织使能支柱（$M=4.50$），实证揭示将其与微观课堂教学在扁平[[Effect Size|效应量]]排行榜中机械对比的方法学局限。

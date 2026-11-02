@@ -70,7 +70,7 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **物化降格（Objectification）** 压迫者仅将自己视为“人”，而将受压迫者视为可被支配、驯化与存储的静态事物。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61 注脚72)]]
 > - **双重异化（Double Alienation）** 非人性化不仅剥夺了受压迫者的人性，同时也使压迫者因剥削与施暴丧失自身人性。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 46)]]
-> - **历史可逆（Historical Incompressibility）** 非人性化非不可改变的人类宿命，而是可被批判意识与实践克服的历史畸变。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 63)]]
+> - **历史可逆（Historical Incompressibility）** 非人性化非不可改变的人类宿命，是可被批判意识与实践克服的历史畸变。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 63)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -110,4 +110,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 在学位论文第 4 章中将非人性化作为论证解放[[Politicity of Education|教育政治性]]的核心存在论基石。
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 在学位研究第 4 章中将非人性化作为论证解放[[Politicity of Education|教育政治性]]的核心存在论基石。

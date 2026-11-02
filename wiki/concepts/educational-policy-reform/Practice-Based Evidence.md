@@ -86,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Practice-Based Evidence
-> 实践本位证据（Practice-Based Evidence, PBE）指教育实践者在真实教学现场生成的细粒度、情境化知识与微观过程数据。它区别于外部研究者在受控实验室或标准化测试中产出的去情境化结论，将一线教师确立为合法的证据生产主体；通过在具体教学情境中持续沉淀[[Phronesis\|实践智慧]]，形成性地支持教师专业学习、教学策略微调与学生学业成长。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
+> 实践本位证据（Practice-Based Evidence, PBE）指教育实践者在真实教学现场生成的细粒度、情境化知识与微观过程数据。它区别于外部研究者在受控实验室或标准化测试中产出的去情境化结论，将一线教师确立为合法的证据生产主体；通过在具体教学情境中持续积累[[Phronesis\|实践智慧]]，形成性地支持教师专业学习、教学策略微调与学生学业成长。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将证据生产与解释的主权拓展至教学一线现场，确立扎根实践的微观观察、形成性数据与[[Reflexivity\|反思性]]知识具有不可替代的[[Epistemology\|认识论]]合法性。
@@ -106,14 +106,14 @@ updated: 2026-11-02
 > [!boundary]- 概念边界
 > - 区别于[[Evidence-Based Education\|证据本位教育]]（EBE）的实验证据：实验证据追求去情境化的普遍因果律（What Works）；实践本位证据关注特定情境下机制如何运转与微观改进（What Works Here）。
 > - 区别于[[Deficit Framing\|赤字框架]]（Deficit Framing）下的教师非正式经验：学术界传统观念常将教师研究贬低为小规模、轶事性或不规范；实践本位证据确立其作为实践科学与形成性改进的正当专业地位。
-> - 区别于[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术[[Document|文献]]的单向理解与转化应用；PBE 侧重教学现场的内生创生、协作沉淀与同行网络扩散。
+> - 区别于[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术[[Document|文献]]的单向理解与转化应用；PBE 侧重教学现场的内生创生、协作积累与同行网络扩散。
 
 ---
 
 > [!contrast-table] 概念辨析
 > | 比较维度 | 实践本位证据（PBE） | 实验证据本位（[[Evidence-Based Education\|EBE]] / [[Randomised Controlled Trials\|RCT]]） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | 研究知情教学（[[Research-Informed Teaching Practice\|RITP]]） |
 > |---|---|---|---|---|
-> | **证据生产主体** | 一线教师、教研组、[[Snowball Sampling\|网络化]]改进共同体 | 专业学术研究者、智库、第三方评估机构 | 学校管理层、测试机构、行政督导部门 | 学术期刊作者、二次研究合成专家 |
+> | **证据生产主体** | 一线教师、教研组、[[Snowball Sampling\|网络化]]改进共同体 | 专业学术研究者、智库、第三方评估机构 | 学校管理层、测试机构、行政督导部门 | 学术期刊撰写者、二次研究合成专家 |
 > | **知识核心属性** | 细粒度、高情境化、过程性[[Phronesis\|实践智慧]] | 统计平均值、去情境化、普遍因果律 | 终结性指标、量化分数、横向排位数据 | 理论概括、教学法概念、学术命题 |
 > | **主要应用功能** | 形成性支持教学微调与[[Professional Learning Community\|专业学习共同体]] | 宏观政策方案筛选与教育干预准入 | 学校绩效考核、学业达标预警与分流 | 拓展教师理论视野与教学设计启发 |
 > | **决策[[Epistemology\|认识论]]取向** | 关注情境变异性与行动机制的动态调适 | 追求普遍因果效度与标准化干预依从 | 追求数字指标达成与量化问责达标 | 追求学术研究结论向课堂教学的转译 |
@@ -139,7 +139,7 @@ updated: 2026-11-02
 > | **证据流动通道** | 依托智库报告与出版物自上而下分发。 | 依托同行网络与[[Snowball Sampling\|网络化]]改进共同体横向流转。 | 建立多层级、双向循环的[[Knowledge Mobilisation\|知识动员]]网络。 |
 
 > [!exegesis]- 实践理解与应用示例
-> 1. **网络化改进共同体（NICs）中的 PDSA 循环** 卡内基教学促进基金会组织多校数学教师建立网络化改进共同体，围绕“社区学院发展性数学高失败率”难题展开持续探究；各校教师运用“计划-执行-研究-行动”（PDSA）微循环收集课堂互动过程数据，在跨校变异中比较不同[[Scaffolding\|教学脚手架]]的真实效能，沉淀出高度可操作的实践本位证据。[[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
+> 1. **网络化改进共同体（NICs）中的 PDSA 循环** 卡内基教学促进基金会组织多校数学教师建立网络化改进共同体，围绕“社区学院发展性数学高失败率”难题展开持续探究；各校教师运用“计划-执行-研究-行动”（PDSA）微循环收集课堂互动过程数据，在跨校变异中比较不同[[Scaffolding\|教学脚手架]]的真实效能，积累出高度可操作的实践本位证据。[[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
 > 2. **小学教师课堂评估信息的同行网络流动** 安大略省小学教师在解决阅读理解教学卡点时，首先检索并参考同行教师在类似班级情境中生成的[[Classroom Observation|教学观察]]手记与学生作业案例库，将这种实践本位证据作为调整教学节奏的首要依据。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!logic-map]- 要素关系
@@ -200,7 +200,7 @@ updated: 2026-11-02
 > **探讨维度　严谨性保障与组织支撑** 厘清实践本位证据与个人随意直觉的界限，确立方法论[[Triangulation\|三角验证]]与组织协作架构的规范功能。
 
 > [!claim] LaPointe-McEwan et al. (2017); Campbell et al. (2017); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
-> **三角验证与网络化组织支撑** 实践本位证据绝非不受约束的主观臆断；其严谨性依赖教育者对[[Qualitative Observation\|质性观察]]、过程性记录与量化测评展开深层[[Triangulation\|三角验证]]。为防止 PBE 滑向狭隘的地方主义经验闭环，必须在组织层级建立中层领导者引领的协作探究网络与全系统知识动员平台，使分散的实践证据得以在跨校交流中接受批判性审议与升华。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–131)]]
+> **三角验证与网络化组织支撑** 实践本位证据有别于不受约束的主观臆断；其严谨性依赖教育者对[[Qualitative Observation\|质性观察]]、过程性记录与量化测评展开深层[[Triangulation\|三角验证]]。为防止 PBE 滑向狭隘的地方主义经验反馈回路，必须在组织层级建立中层领导者引领的协作探究网络与全系统知识动员平台，使分散的实践证据得以在跨校交流中接受批判性审议与升华。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–131)]]
 
 ---
 
@@ -238,7 +238,7 @@ updated: 2026-11-02
 > - **本土情境适切性（What Works Here）** 追求深植于具体组织生态的形成性因果解释与实践调优。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 128)]]
 
 > [!warning] 适用局限
-> - **地方性与情境锁定（Context-Lock）** 单一学校生成的实践证据受制于特定的生源结构与校本文化，未经跨校共同体比较与理论提炼时，难以直接跨情境迁移。
+> - **地方性与情境锁定（Context-Lock）** 单一学校生成的实践证据受制于特定的生源结构与校本的文化，未经跨校共同体比较与理论提炼时，难以直接跨情境迁移。
 > - **探究时间与组织支持赤字** 生产高质量 PBE 需要制度化的教研时间、数据分析技能与中介支持；在沉重教学负担与考核压力下，探究易退化为形式化记录。
 
 ---
@@ -258,5 +258,5 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在“谁的证据算数”讨论中确立 PBE 的合法地位，实证揭示教师获取信息对实践证据与同行网络的压倒性信赖。
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 探讨[[Mechanism Experiments\|机制实验]]与 Bryk [[Improvement Science\|改进科学]]的系统整合，构建连接实验室因果机制与现场 PBE 的双向反馈模型。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 批判 [[Education Endowment Foundation\|EEF]] 工具包去情境化[[Effect Size\|效应量]]排行，倡导依托网络化共同体沉淀实践本位证据。
+> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 批判 [[Education Endowment Foundation\|EEF]] 工具包去情境化[[Effect Size\|效应量]]排行，倡导依托网络化共同体积累实践本位证据。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow\|STAT]] 改革案例，证实实践本位证据与[[Local Knowledge in Evidence-Based Policy\|地方知识]]在学区采购决策中超越抽象研究的主导作用。

@@ -85,10 +85,10 @@ updated: 2026-11-02
 
 > [!factors] 技术逃避主义的三重驱动要素
 > - **风险规避与“玩具无害性”** 消费级轻应用（玩具）不涉及执法权、人权与意识形态纷争，不会遭遇国会质询、新闻发布会围攻或激进团体的抵制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 173)]]
-> - **商业回报周期的不对称暴利** 服务消费者的商业闭环短、边际成本极低、变现迅速；而公共部门项目采购周期漫长、涉及复杂的防卫型官僚规章。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
+> - **商业回报周期的不对称暴利** 服务消费者的商业反馈回路短、边际成本极低、变现迅速；而公共部门项目采购周期漫长、涉及复杂的防卫型官僚规章。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 > - **不可知论与价值真空的妥协** 科技领袖为避免冒犯任何社群，采取道德不可知论立场，放弃定义技术应服务于何种崇高生活，任由市场价格主导创新方向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
 
-> [!logic-map]- 技术逃避主义向[[Innovation Desert|创新荒漠]]演化的因果链路
+> [!logic-map]- 技术逃避主义向[[Innovation Desert|创新荒漠]]演化的因果环节
 > ```mermaid
 > flowchart LR
 >   subgraph Drivers ["逃避动因"]

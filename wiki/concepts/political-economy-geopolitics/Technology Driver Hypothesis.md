@@ -62,7 +62,7 @@ updated: 2026-11-02
 > - **边界** 聚焦于半导体与微电子制造工艺的代际演进与学习平台归属，不直接推断非标准化离散制造业的工艺溢出规律。
 
 > [!citation-card] 关键表述
-> 20 世纪 80 年代产业分析家与政策委员会普遍断言，大宗存储芯片（DRAM）的大规模量产是半导体制造工艺不可或缺的技术驱动器，美国放弃 DRAM 制造将导致全行业尖端制造能力的坍塌；然而微观制造标杆数据证实，逻辑芯片与微组件能够独立建立起世界领先的制造良率与工艺控制能力，彻底[[Falsification|证伪]]了该假设。
+> 20 世纪 80 年代产业分析家与政策委员会普遍断言，大宗存储芯片（DRAM）的大规模量产是半导体制造工艺不可或缺的技术驱动器，美国放弃 DRAM 制造将导致全行业尖端制造能力的垮掉；然而微观制造标杆数据证实，逻辑芯片与微组件能够独立建立起世界领先的制造良率与工艺控制能力，彻底[[Falsification|证伪]]了该假设。
 >
 > *The conventional wisdom of the 1980s asserted that commodity DRAM manufacturing was the indispensable 'technology driver' for the entire semiconductor industry. However, empirical benchmarking showed that logic and microprocessor fabs achieved state-of-the-art defect densities and yields without participating in commodity DRAM production, refuting this deterministic premise.* [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 117–118)]]
 
@@ -76,7 +76,7 @@ updated: 2026-11-02
 > | 维度 | 技术驱动产品假设（Technology Driver [[Hypothesis]]） | 模块化工艺平台理论（Modular Process Platform） | 学习曲线理论（Learning Curve Theory） | 互补性资产假说（Complementary Assets） |
 > |---|---|---|---|---|
 > | **分析对象** | 单一大宗标准化硬件（DRAM）对全行业工艺的决定性拉动 | 标准化制造接口支持多元设计共生 | 累积产量提升带来的单位制造良率改善 | 支撑技术创新实现商业化变现的下游生态 |
-> | **核心机制** | 认为复杂逻辑工艺必须由简单规则的存储芯片规模制造先行铺路 | 制造工艺（CMOS）独立演化，设计与代工解耦 | 产线实践中通过持续试错与数据反馈消除缺陷 | 微处理器依托个人电脑、操作系统与软件生态攫取高附加值 |
+> | **核心机制** | 认为复杂逻辑工艺必须由简单规则的存储芯片规模制造先行铺路 | 制造工艺（CMOS）独立演化，设计与代工脱钩 | 产线实践中通过持续试错与数据反馈消除缺陷 | 微处理器依托个人电脑、操作系统与软件生态攫取高附加值 |
 > | **适用结论** | 必须举国补贴维持 DRAM 产能竞赛 | 支持[[Vertical Disintegration\|垂直专业化分工]]与无晶圆厂设计繁荣 | 适用单一工艺产线微观良率优化 | 解释高毛利设计企业如何反哺先进制程研发 |
 > | **实证地位** | 1990 年代被微观晶圆厂标杆实测[[Falsification\|证伪]] | 成为现代晶圆代工与无晶圆设计的主流现实 | 经典经验法则（良率随晶圆批次递增） | 战略管理与创新经济学核心理论 |
 
@@ -112,7 +112,7 @@ updated: 2026-11-02
 > **探讨维度　微观产线实证与工艺独立性** 晶圆产线真实的缺陷密度与探针良率测量表明，微处理器与逻辑芯片拥有独立于存储器的工艺演进逻辑。
 
 > [!claim] Macher, J. T., Mowery, D. C., & Hodges, D. A.
-> **实证[[Falsification|证伪]]与独立工艺能力确立** 加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的实证标杆数据显示：在 0.7–0.9 微米及亚 0.5 微米 CMOS 逻辑制程中，完全不生产 DRAM 的美国领先晶圆厂，通过推行[[Statistical Process Control|统计过程控制]]（SPC）与[[Total Quality Management|全面质量管理]]（TQM），其缺陷密度从 1990 年的 1.3 个/$\text{cm}^2$ 降至与日本顶级工厂持平，晶圆平均探针良率达到 84%–87%，且直接劳动生产率显著高于日本产线。这些微观物理证据确凿证明：大宗存储芯片并非尖端工艺进化的唯一驱动器，复杂逻辑产品完全能够作为独立的先进工艺学习平台。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–118)]]
+> **实证[[Falsification|证伪]]与独立工艺能力确立** 加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的实证标杆数据显示：在 0.7–0.9 微米及亚 0.5 微米 CMOS 逻辑制程中，完全不生产 DRAM 的美国领先晶圆厂，通过推行[[Statistical Process Control|统计过程控制]]（SPC）与[[Total Quality Management|全面质量管理]]（TQM），其缺陷密度从 1990 年的 1.3 个/$\text{cm}^2$ 降至与日本顶级工厂持平，晶圆平均探针良率达到 84%–87%，且直接劳动生产率显著高于日本产线。这些微观物理证据确凿证明：大宗存储芯片有别于尖端工艺进化的唯一驱动器，复杂逻辑产品完全能够作为独立的先进工艺学习平台。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–118)]]
 
 ---
 
@@ -120,7 +120,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
 > | **传统驱动假设与政策误判** | 将工艺良率学习等同于 DRAM 规模，导致对[[Vertical Disintegration\|垂直专业化分工]]做出衰退误判 | 20 世纪 80 年代美日半导体竞争与产业政策辩论 | MIT 委员会 (1989); SIA |
-> | **微观实证与假设证伪** | 逻辑制程良率与劳动生产率收敛证实了逻辑芯片的独立工艺学习能力 | 1990 年代晶圆制造标杆测量与产业组织重构 | Macher, Mowery, & Hodges (1998) |
+> | **微观实证与假设证伪** | 逻辑制程良率与劳动生产率汇合证实了逻辑芯片的独立工艺学习能力 | 1990 年代晶圆制造标杆测量与产业组织重构 | Macher, Mowery, & Hodges (1998) |
 
 ---
 
@@ -143,7 +143,7 @@ updated: 2026-11-02
 > > [!axis] 垂直一体化巨头（IDM） vs. 模块化代工（Foundry）
 > > 技术驱动假设认为制造与设计不可分离；而代工模式的崛起证明了工艺制造可以作为独立专业化服务平台。
 > >
-> > - **IDM 论者** 认为只有设计与产线深度闭环才能最快提升良率。
+> > - **IDM 论者** 认为只有设计与产线深度反馈回路才能最快提升良率。
 > > - **代工与分工论者** 证明纯代工厂聚合全球多元客户晶圆通量，同样能获得超越单一 IDM 企业的制造学习效应。
 
 > [!warning] 适用局限
@@ -173,9 +173,9 @@ updated: 2026-11-02
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Vertical Disintegration]] | Concept | 破除技术驱动假设后，芯片设计与代工制造分离的组织基础。 |
-> | [[Technological Trajectories]] | Theory | 解释半导体产业由单一 DRAM 轨迹向逻辑/微处理器多元轨迹跃迁的理论框架。 |
+> | [[Technological Trajectories]] | Theory | 解释半导体产业由单一 DRAM 轨迹向逻辑/微处理器多元轨迹转向的理论框架。 |
 > | [[Total Quality Management]] | Concept | 美国逻辑晶圆厂弥合制造良率差距、[[Falsification\|证伪]]驱动假设的核心管理工具。 |
-> | [[Statistical Process Control]] | Method | 逻辑制造产线实现缺陷密度跨国收敛的微观工程测量方法。 |
+> | [[Statistical Process Control]] | Method | 逻辑制造产线实现缺陷密度跨国汇合的微观工程测量方法。 |
 > | [[Industrial Benchmarking]] | Method | 证伪该假设所依赖的加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program\|CSM 项目]]跨国产线实证方法。 |
 > | [[VLSI Project]] | Fact (Program) | 日本依托技术驱动假设在 DRAM 领域实现[[Technological Catch-up\|技术追赶]]的经典国家级计划。 |
 > | [[1986 U.S.-Japan Semiconductor Trade Agreement]] | Fact (Policy) | 依据该假设出台的旨在保护本土半导体制造基础的管理贸易政策。 |

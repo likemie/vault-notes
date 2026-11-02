@@ -66,7 +66,7 @@ updated: 2026-11-02
 > - **边界** 专为语言与文学读写教学设计，依赖成套的阅读材料与结构化写作支架，不直接适用于非语言类符号学科。
 
 > [!citation-card] CIRC 的核心机制与读写一体化
-> 合作整合阅读与写作（CIRC）将教师直接指导[[Reading Strategies|阅读策略]]与学生团队内的异质结对操练紧密结合，通过故事结构分析、配对轮流朗读、词汇意义协商以及同伴编辑清单，使阅读理解与写作表达形成闭环。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
+> 合作整合阅读与写作（CIRC）将教师直接指导[[Reading Strategies|阅读策略]]与学生团队内的异质结对操练紧密结合，通过故事结构分析、配对轮流朗读、词汇意义协商以及同伴编辑清单，使阅读理解与写作表达形成反馈回路。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 >
 > *Cooperative Integrated Reading and Composition (CIRC) is a comprehensive program for teaching reading and writing in upper elementary grades, combining teacher instruction with peer-supported team activities.*
 
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > - **同伴审阅与清单互评修改（Peer Editing & Writing Process）** 依据标准化清单相互审阅写作草稿，提供具体修改建议并完成定稿打磨。
 > - **个体独立测试与团队进步表彰（Individual Accountability & Team Recognition）** 学生独立参加阅读理解与写作测验，依据个人进步分为团队赢取集体表彰。
 
-> [!logic-map]- CIRC 五步读写教学闭环
+> [!logic-map]- CIRC 五步读写教学反馈回路
 > ```mermaid
 > flowchart LR
 >     A["1. 教师显性策略示范<br>（阅读技巧建模）"] --> B["2. 配对朗读与纠音<br>（高频口头输出）"]

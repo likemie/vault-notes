@@ -95,7 +95,7 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **战略使命预设性** 研究方向完全从属于外部国家目标（如赢得 AI 竞赛、半导体独立、探月工程），研究人员不享有纯粹的选题自由裁量权。
 > - **跨部门垂直统筹** 打破学科与院系藩篱，形成“白宫/政府高层定向—部委统筹—骨干机构执行”的高效垂直动员链条。
-> - **公私伙伴与多元协作** 打破单纯依赖大学基础研究的局限，深度融合国家实验室的技术沉淀与私营科技资本的工程化能力。
+> - **公私伙伴与多元协作** 打破单纯依赖大学基础研究的局限，深度融合国家实验室的技术积累与私营科技资本的工程化能力。
 > - **结果刚性与行政审计** 资助与评价紧密挂钩确定性产出，普遍接受严苛的进度审查、数据复现与行政可验证性考核。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 > [!logic-map]- 要素关系
@@ -130,7 +130,7 @@ updated: 2026-11-02
 > **探讨维度　国防需求牵引与[[General Purpose Technology|通用技术]]溢出** 探讨国家机器如何作为首要战略客户与风险承担者，通过确定性防务任务培育出革命性的通用底层技术。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]]
-> **国防首要客户与颠覆性创新孵化** 现代硅谷与计算革命的底层技术绝非纯粹市场试错的产物，而是源于国家安全与冷战军事任务的战略牵引；二战[[Manhattan Project|曼哈顿工程]]与[[Office of Scientific Research and Development|OSRD]]动员奠定了公私科研协同范式，冷战早期军工采购（[[Fairchild Semiconductor|仙童半导体]]微芯片首要市场、圣克拉拉县海军导弹制造、空军资助利克莱德[[Man-Computer Symbiosis|人机共生]]研究）直接催生了[[ARPANET|高级研究计划局网络]]、全球定位系统与微电子工业；国家作为主导性首要客户承担了高昂的原始研发风险，才使通用颠覆性技术得以跨越[[Valley of Death|死亡之谷]]并向民用市场扩散。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
+> **国防首要客户与颠覆性创新孵化** 现代硅谷与计算革命的底层技术是源于国家安全与冷战军事任务的战略牵引，有别于纯粹市场试错的产物；二战[[Manhattan Project|曼哈顿工程]]与[[Office of Scientific Research and Development|OSRD]]动员奠定了公私科研协同范式，冷战早期军工采购（[[Fairchild Semiconductor|仙童半导体]]微芯片首要市场、圣克拉拉县海军导弹制造、空军资助利克莱德[[Man-Computer Symbiosis|人机共生]]研究）直接催生了[[ARPANET|高级研究计划局网络]]、全球定位系统与微电子工业；国家作为主导性首要客户承担了高昂的原始研发风险，才使通用颠覆性技术得以跨越[[Valley of Death|死亡之谷]]并向民用市场扩散。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 
 ---
 
@@ -144,7 +144,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
-> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统摄下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
+> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统领下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]与[[Technological Republic|技术共和国]]重构期** 在[[Technology-Oriented Social Contract|技术型社会契约]]与重塑[[Technological Republic|技术共和国]]诉求导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、[[Autonomous Drone Swarms|自主无人机蜂群]]、先进制程与量子计算为核心，推行“[[Genesis Mission|创世纪计划]]”与敏捷软件采办，打破公共部门[[Innovation Desert|创新荒漠]]，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]
 

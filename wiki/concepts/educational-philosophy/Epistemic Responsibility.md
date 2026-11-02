@@ -83,7 +83,7 @@ updated: 2026-11-02
 > - **含义** 指向认知主体审查[[Knowledge Production|知识生成]]机制、对自身所持信念与共同体公共知识进展承担证成义务的理智与道德双重承诺。
 > - **用途** 帮助教育者与研究者区分无反思的技术性[[Active Learning|主动学习]]与真正具备认识批判力的深层探究；解释协作课堂中学生为何能超越狭隘个人竞争、自发展开分布式互助与跨组流转。
 > - **人机共生与协作视界** [[Epistemology|认识论]]责任是连接[[Epistemic Agency|认识能动性]]与评价主义立场的伦理桥梁：学习者可以借助外部工具进行机械性[[Cognitive Offloading|认知卸载]]，但绝不能放弃认识论责任的最终审验权；同时，学习者将个人探究对接到集体认知网络中，共同对班级知识前沿负责。
-> - **边界** 认识论责任不等于虚无主义的全面怀疑，而是建立在理性审查、多源证据检验、集体协作与[[Humility|谦逊]]开放基础上的建构性审慎。
+> - **边界** 认识论责任不等于虚无主义的全面怀疑，是建立在理性审查、多源证据检验、集体协作与[[Humility|谦逊]]开放基础上的建构性审慎。
 
 > [!citation-card] 批判意识中的双重责任
 > [[Paulo Freire|弗莱雷]]的[[Conscientization|批判意识觉醒]]不仅包含道德责任，更包含认识论责任——教育者与学生均须对新思想与质疑保持谦逊开放的探究姿态，拒绝将既有教条视作不容置疑的真理。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
@@ -114,7 +114,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **权力与假设质询（Critique of Power & Assumptions）** 拒绝将既有教材、专家定论或大模型输出视作中立无偏的绝对真理，主动追问知识背后的前提假设与立场倾向。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
-> - **集体认知责任与公共知识贡献（Collective Cognitive Responsibility）** 共同体成员不将知识私有化或局限于个人得分，而是主动监控全班知识前沿，在[[Theory of Knowledge|知识论]]坛中跨组共享见解，自发填补集体认知缺口。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]
+> - **集体认知责任与公共知识贡献（Collective Cognitive Responsibility）** 共同体成员不将知识私有化或局限于个人得分，是主动监控全班知识前沿，在[[Theory of Knowledge|知识论]]坛中跨组共享见解，自发填补集体认知缺口。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]
 > - **[[Humility|谦逊]]开放（Epistemic Openness & Humility）** 保持对反例、相左证据及自我认知局限的敏锐觉察，在理性论辩中愿意修正自身不成熟的假说。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
 > - **知行统一与批判行动（[[Praxis]]: Unity of Reflection & Action）** 认识到对谬误的盲从本身即是对不公或平庸的妥协，将理智审验转化为主动干预和证据重构。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
 > - **终极求证与主体性捍卫（Ultimate Accountability in AI Co-inquiry）** 在与[[AI Agent in Education|智能体]]协作时，严格区分机械性运算卸载与核心[[Evaluative Judgement|评价性判断]]，坚决对最终呈现的学术观点承担全部真实性问责。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 364–366)]]
@@ -154,7 +154,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题三｜[[Knowledge Building Theory|协作知识建构]]中的集体认知责任驱动分布式网络互联与全班知识前沿的持续跃升
+> [!concept-proposition] 命题三｜[[Knowledge Building Theory|协作知识建构]]中的集体认知责任驱动分布式网络互联与全班知识前沿的持续提升
 > **探讨维度　知识共同体社会伦理与网络演进维度** 阐明学习者如何超越个体竞争，通过承担集体认知责任自发展开跨小组知识协同与观点提升。
 
 > [!claim] [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]
@@ -181,7 +181,7 @@ updated: 2026-11-02
 ---
 
 > [!tension] 认知负荷门槛 vs 普遍伦理规范
-> - **认知门槛论** 认为[[Epistemology|认识论]]责任要求学习者具备高超的[[Metacognition|元认知]]与专业知识底座，对低龄或基础薄弱学习者而言容易造成认知超载。
+> - **认知门槛论** 认为[[Epistemology|认识论]]责任要求学习者具备高超的[[Metacognition|元认知]]与专业知识基础，对低龄或基础薄弱学习者而言容易造成认知超载。
 > - **普遍伦理倡导（[[Argument_Darwish_2009_Queens|Darwish, 2009]]; [[Argument_Zhang_2022_SE|Zhang et al., 2022]]; [[Argument_Wu_2025_ER|Wu et al., 2025]]）** 强调认识论责任是一种基础性的认知态度与求真习惯，只要辅以适当的支架（如[[Theory of Knowledge|知识论]]坛视图、提示词引导与同伴评议），任何阶段的学习者都应当且能够建立起对自己与集体知识进展负责的审慎意识。
 
 ---
@@ -208,4 +208,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 揭示[[Reflective Structuration|反思性结构化]]如何赋能小学生行使集体认知责任，通过跨组流动与 BOOK 视图综合推进全班公共知识前沿。
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，实证验证[[Epistemology|认识论]]责任在促使学习者主动核验大模型输出、克服消极[[Cognitive Offloading|认知卸载]]并实现评价主义进阶中的关键机制。
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 在学位论文第 4 章中将认识论责任作为[[Problem-Posing Education|提问式教育]]超越技术性[[Active Learning|主动学习]]的核心理论标识。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 在学位研究第 4 章中将认识论责任作为[[Problem-Posing Education|提问式教育]]超越技术性[[Active Learning|主动学习]]的核心理论标识。

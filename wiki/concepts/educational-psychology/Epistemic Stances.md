@@ -96,11 +96,11 @@ updated: 2026-11-02
 > - **边界** 认识立场是对命题或信源的情境化姿态，不等于个体内在固化的性格特质，亦不等于抽象的[[Epistemological Beliefs|认识论信念]]（Epistemological Beliefs）。
 
 > [!citation-card] Chinn et al. 论认识立场的多元共存
-> 个体对不同主张的态度并非铁板一块。认识立场打破了传统将确定性视为单一维度的假定，确立了学习者面对不同命题时可以展现出从完全信任、经验怀疑到作为工作假设等多元并存的认知光谱。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, pp. 142–143)]]
+> 个体对不同主张的态度有别于铁板一块。认识立场打破了传统将确定性视为单一维度的假定，确立了学习者面对不同命题时可以展现出从完全信任、经验怀疑到作为工作假设等多元并存的认知光谱。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, pp. 142–143)]]
 >
 > *Epistemic stances encompass beliefs about whether one believes a claim, with what degree of confidence, and with what attitude—such as holding a claim as a tentative working [[Hypothesis]], accepting it provisionally, or rejecting it as unsubstantiated.*
 
-> [!citation-card] 比奇论国际组织认识论立场的表层分歧与深层统摄
+> [!citation-card] 比奇论国际组织认识论立场的表层分歧与深层统领
 > [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）指出，尽管世界银行、联合国教科文组织与经合组织在表面上秉持着截然不同甚至存在竞争的认识论立场——世界银行坚守正统人力资本认识论，将教育视作获取私人与社会回报率的生产性投资；教科文组织坚守人文主义认识论，将教育视作促进人格完整、和平与尊严的终极目的；经合组织则倡导兼顾经济[[Competitiveness|竞争力]]与社会凝聚力的混合新自由主义立场——但这种认识论立场的表层分歧并未妨碍它们达成更深层的意识形态与话语共识：共同宣称不可抗拒的“信息时代”来临，并将去情境化的五大支柱治理处方作为唯一合理的救治方案推向全球。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
 >
 > *While the World Bank has adhered strictly to human capital theory... UNESCO has promoted a humanist stance in which human beings are seen as an end in themselves... In spite of these differences, these agencies share an underlying consensus regarding the inevitability of the 'Information Age' and the necessary educational reforms.*
@@ -112,7 +112,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - **不等于认识论信念（Epistemological Beliefs）** 认识论信念指向对知识本质的抽象元信念（例如知识究竟是简单孤立的还是复杂网状的）；认识立场则指向面对具体特定命题或信源时的具象承诺态度。
-> - **不等于盲目信任或虚无怀疑** 认识立场并非非黑即白的简单二分，而是包含工作假设、条件性采纳等丰富中间态的连续认知谱系。
+> - **不等于盲目信任或虚无怀疑** 认识立场是包含工作假设、条件性采纳等丰富中间态的连续认知谱系，有别于非黑即白的简单二分。
 > - **微观个体认知 vs 宏观机构治理取向** 认识立场既存在于个体心理学习层面（对待证据与命题），也具象化于跨国机构与[[Epistemic Community|认识共同体]]在政策话语中构建合法性的规范性先验框架之中。
 
 ---
@@ -185,7 +185,7 @@ updated: 2026-11-02
 > **探讨维度　宏观全球治理与跨国机构[[Epistemology|认识论]]分殊** 揭示跨国组织表面相互对立的认识论立场如何掩盖其在教育治理方案上的深层同构性与排他性。
 
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
-> **表层[[Paradigm|范式]]分歧与深层规训共识** 跨国组织在认识论层面表现出显著的表层分歧：[[World Bank|世界银行]]（World Bank）坚守严格的[[Human Capital Theory|人力资本理论]]认识论立场，宣称其“无可匹敌”，将教育价值完全归结为私人与社会经济回报率；[[UNESCO|联合国教科文组织]]（UNESCO）倡导人文主义认识论立场，视人为目的本身，强调全人发展与和平尊严；[[OECD|经合组织]]（OECD）则采取兼顾经济增长与社会凝聚力的混合新自由主义立场。然而比奇揭示，这种认识论争鸣仅停留在表面；在深层结构上，三大机构共同预设了不可抗拒的“信息时代”必然性，将传统学校教育病理化为过时落后，并共同确立了包含权力下放与[[School Autonomy|学校自主权]]、国家标准化产出评估在内的“[[Global Educational Discourse|全球教育话语]]五大支柱”，进而垄断了危机的诊断权与解决处方，闭合了受援国探索本土替代性模式的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
+> **表层[[Paradigm|范式]]分歧与深层规训共识** 跨国组织在认识论层面表现出显著的表层分歧：[[World Bank|世界银行]]（World Bank）坚守严格的[[Human Capital Theory|人力资本理论]]认识论立场，宣称其“无可匹敌”，将教育价值完全归结为私人与社会经济回报率；[[UNESCO|联合国教科文组织]]（UNESCO）倡导人文主义认识论立场，视人为目的本身，强调全人发展与和平尊严；[[OECD|经合组织]]（OECD）则采取兼顾经济增长与社会凝聚力的混合新自由主义立场。然而比奇揭示，这种认识论争鸣仅停留在表面；在深层结构上，三大机构共同预设了不可抗拒的“信息时代”必然性，将传统学校教育病理化为过时落后，并共同确立了包含权力下放与[[School Autonomy|学校自主权]]、国家标准化产出评估在内的“[[Global Educational Discourse|全球教育话语]]五大支柱”，进而垄断了危机的诊断权与解决处方，封闭了受援国探索本土替代性模式的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
 
 ---
 
@@ -213,7 +213,7 @@ updated: 2026-11-02
 > > 争论认识立场是个体相对稳定的人格认知特征，还是随着对话情境与提示词支架快速波动的微观策略。
 > >
 > > - **倾向派** 强调先验知识丰富与批判素养高的个体具有更持久的审慎怀疑偏好。
-> > - **策略与共生派** [[Argument_Wu_2025_ER|Wu et al. (2025, pp. 360–366)]] 指出同一学生在接受提示词支架（如反思提示）与同行评议干预后，立场会发生显著的动态跃升。
+> > - **策略与共生派** [[Argument_Wu_2025_ER|Wu et al. (2025, pp. 360–366)]] 指出同一学生在接受提示词支架（如反思提示）与同行评议干预后，立场会发生显著的动态提升。
 >
 > > [!axis] 机构[[Epistemology|认识论]]立场的多元分歧 vs 治理方案的深层同构
 > > 争论跨国机构的认识论差异是代表了真正的教育发展多元路径，还是仅仅充当了同一套新自由主义处方的不同意识形态包装。
@@ -226,7 +226,7 @@ updated: 2026-11-02
 > [!example] 典型教学与交互案例
 > - **统计推论任务中的人机交互立场分化**
 >   在面对[[Likert Scale|李克特量表]]一致性检验的统计[[Homework|作业]]时，绝对论学生直接采信 ChatGPT 推荐的[[Chi-Squared Test|卡方检验]]并由讲义核对；多元论学生追问不同[[Effect Size|效应量]]公式的区别但不作取舍；评价论学生则针对数据尺度（顺序[[Variable|变量]]）与配对属性连续质询 ChatGPT，识别出麦克尼马尔检验的局限并结合同伴讨论最终选定斯皮尔曼相关。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 362–364)]]
-> - **[[Man-Computer Symbiosis|人机协同]]论文写作中的双轨立场切换**
+> - **[[Man-Computer Symbiosis|人机协同]]文章写作中的双轨立场切换**
 >   学生在[[Literature Search|文献检索]]与初稿构想阶段将 ChatGPT 的输出视作“工作假设（[[Working Hypothesis]]）”，借助其发散构想拓展思路；而在进入核心因果推论与结论提炼阶段，学生立即切换为“审问与查错立场”，核对[[Primary and Secondary Documents|原始文献]][[Chain of Evidence|证据链]]，有效防止了算法幻觉导致的学术不端。
 
 ---

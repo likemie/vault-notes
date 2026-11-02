@@ -59,7 +59,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Transfer Space
-> 政策转移空间（Transfer Space）是指连接全球、区域与国家/地方等多元尺度，并容纳政策接收（reception）、抵制（resistance）、翻译（translation）与投射（projection）动态博弈的关系性分析[[Champ\|场域]]（Relational Analytical Arena）。该概念由公共政策与比较教育学者奥斯瓦尔多·波尔图·德奥利维拉（Osmany Porto de Oliveira）与塞西莉亚·奥索里奥·贡内特（Cecilia Osorio Gonnet）于 2023 年系统提出，并由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者深化。政策转移空间摒弃了将民族国家视为均质、孤立黑箱的传统假定，主张通过尺度（全球/国家/地方）、功能（咨询专家委员会、行政决策官僚、立法机构）以及公私属性对国家机器进行解构；它揭示出全球性议程与本土政策并非外在对立，而是在转移空间内部被本土政治行动者作为“拟似外部参考系”加以策略性动员，并在政策周期的不同阶段经历断裂式的筛选与政治过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 546–548)]]
+> 政策转移空间（Transfer Space）是指连接全球、区域与国家/地方等多元尺度，并容纳政策接收（reception）、抵制（resistance）、翻译（translation）与投射（projection）动态博弈的关系性分析[[Champ\|场域]]（Relational Analytical Arena）。该概念由公共政策与比较教育学者奥斯瓦尔多·波尔图·德奥利维拉（Osmany Porto de Oliveira）与塞西莉亚·奥索里奥·贡内特（Cecilia Osorio Gonnet）于 2023 年系统提出，并由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者深化。政策转移空间摒弃了将民族国家视为均质、孤立黑箱的传统假定，主张通过尺度（全球/国家/地方）、功能（咨询专家委员会、行政决策官僚、立法机构）以及公私属性对国家机器进行解构；它揭示出全球性议程与本土政策是在转移空间内部被本土政治行动者作为“拟似外部参考系”加以策略性动员，并在政策周期的不同阶段经历断裂式的筛选与政治过滤，有别于外在对立。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 546–548)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画跨国[[Policy Mobility\|政策流动]]发生时，全球与本土各类行动者开展[[Discourse|话语]]博弈、权力重构与制度筛选的中介场域。
@@ -88,8 +88,8 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **主权国家的机构功能层析（Disaggregation of State Functions）** 国家并非铁板一块，转移空间精准区分了负责证据搜集与合法性包装的咨询系统（如政府任命的专家委员会）与手握法定裁量权的行政中枢（如教育部与内阁），揭示出两者在面对外部证据时的根本立场分野。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 547)]]
-> - **尺度交织的关系性网络（Relational Interdependence across Scales）** 全球性指标与国内政策辩论并非“外部推力”与“内部阻力”的对抗，而是相互卷入的共生关系；本土官员将国际测评建构为“外部客观力量”，恰恰是为了在国内政策博弈中获取合法性杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
+> - **主权国家的机构功能层析（Disaggregation of State Functions）** 国家有别于铁板一块，转移空间精准区分了负责证据搜集与合法性包装的咨询系统（如政府任命的专家委员会）与手握法定裁量权的行政中枢（如教育部与内阁），揭示出两者在面对外部证据时的根本立场分野。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 547)]]
+> - **尺度交织的关系性网络（Relational Interdependence across Scales）** 全球性指标与国内政策辩论是相互卷入的共生关系，有别于“外部推力”与“内部阻力”的对抗；本土官员将国际测评建构为“外部客观力量”，恰恰是为了在国内政策博弈中获取合法性手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 > - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部[[Document|文献]]遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 > - **拟似外部参考系的工具性投射（Instrumental Projection of Quasi-External References）** 处于改革僵局中的政治派别，根据自身意图将特定外部国家（如芬兰）或国际组织（如[[OECD\|经合组织]]）投射为绝对权威，作为压制国内异见、达成政治妥协的修辞工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 
@@ -114,11 +114,11 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题二｜全球与国家并非二元对立，而是在转移空间中通过工具性投射彼此互构
+> [!concept-proposition] 命题二｜全球与国家是在转移空间中通过工具性投射彼此互构，有别于二元对立
 > **探讨维度　关系性互构与外在化** 探讨本土政策制定者如何通过将全球力量假拟为“外在裁决者”，从而在转移空间内部化解本土改革阻力。
 
 > [!claim] Porto de Oliveira, O. & Osorio Gonnet, C.
-> **[[Relational Space\|关系性空间]]中的[[Externalization\|策略性外在化]]** 比较政策转移的核心不是孤立国家的被动采纳，而是全球与本土行动者在转移空间中的相互赋权与共谋。本土政治家并非受制于全球霸权，而是在遭遇旷日持久的国内改革僵局或政党竞争对抗时，主动将经合组织等国际机构或芬兰等标杆国家建构为具有超然公信力的外部裁判，通过这种“仿佛有效”的工具性投射赋予本土改革以不容置疑的正当性。（Porto de Oliveira & Osorio Gonnet, 2023; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, pp. 540]], 546）
+> **[[Relational Space\|关系性空间]]中的[[Externalization\|策略性外在化]]** 比较政策转移的核心是全球与本土行动者在转移空间中的相互赋权与共谋，有别于孤立国家的被动采纳。本土政治家是在遭遇旷日持久的国内改革僵局或政党竞争对抗时，主动将经合组织等国际机构或芬兰等标杆国家建构为具有超然公信力的外部裁判，通过这种“仿佛有效”的工具性投射赋予本土改革以不容置疑的正当性，有别于受制于全球霸权。（Porto de Oliveira & Osorio Gonnet, 2023; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, pp. 540]], 546）
 
 ---
 
@@ -144,7 +144,7 @@ updated: 2026-11-02
 > > 全球治理学者围绕国际指标是否侵蚀了民族[[State Educational Sovereignty\|国家教育主权]]展开学术争锋。
 > >
 > > - **全球[[Convergence Theory in Comparative Education\|趋同论]]学者** 认为国际大尺度测验与[[Global Education Governing Complex\|全球教育治理复合体]]通过排名问责剥夺了后进国家的自主选择权，使各国教育政策走向不可逆的均质化。
-> > - **转移空间论学者** 认为国家并非毫无防卫能力的受体，转移空间内的微观实证表明国家官僚始终手握最终立法权，国际证据只是被本土精英按需剪裁的工具。
+> > - **转移空间论学者** 认为国家有别于毫无防卫能力的受体，转移空间内的微观实证表明国家官僚始终手握最终立法权，国际证据只是被本土精英按需剪裁的工具。
 
 > [!critique] 外部批评
 > - **微观实操阻力与[[Discourse|话语]]再造风险** 批评者指出，转移空间概念倾向于关注精英话语与政策文献流动的转译，若缺乏对地方一线学校和教师日常实践的田野追踪，容易高估国家官僚与国际组织在转移空间内的操控能力。

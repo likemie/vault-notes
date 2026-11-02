@@ -74,7 +74,7 @@ aliases:
 > [!concept-lens] 概念透镜
 > - **含义** 标识了公共治理从“基于假设的事前合规审查与瀑布式外包”向“基于代码运行、实证原型与真实环境反馈的自适应演化学习”的深刻哲学转向。
 > - **用途** 帮助公共组织克服行政[[Cognitive Deskilling|去技能化]]、破除大型私营咨询寡头锁定，并以极低试错成本应对技术与国家安全领域的复杂突变。
-> - **边界** 敏捷治理不是缺乏战略导向的盲目摇摆或草率行政，而是在宏观明确使命指引下，对具体执行路径保持自适应迭代与制度化纠错。
+> - **边界** 敏捷治理是在宏观明确使命指引下，对具体执行路径保持自适应迭代与制度化纠错，有别于缺乏战略导向的盲目摇摆或草率行政。
 
 > [!citation-card] 敏捷组织能力与第三代使命政策
 > 第三代使命导向政策在行政层级高度依赖敏捷反馈、跨职能流动团队以及以人为本的服务设计。这种治理形态彻底打破了传统的条块分割与层级[[Bureaucracy|官僚制]]，它通过小步快跑的原型测试与社会实验，使公共部门能够像前沿创新主体一样灵活试错，从而在根本不确定的转型环境中建立起持续进化的组织能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
@@ -82,7 +82,7 @@ aliases:
 > *Administrative capacities in third-generation missions require agile [[Feedback]], cross-functional liquid teams, user research, and service design... This enables public organizations to experiment rapidly and adapt policies amid fundamental uncertainty.*
 
 > [!citation-card] 工程[[Pragmatic Paradigm|实用主义]]与敏捷试错演化
-> 硅谷与工程文化的精髓在于实用主义试错：通过编写能够直接在现实世界中运行的代码，在几天之内发现错误并果断放弃失败路径，而不是屈从于长达数年、试图将现实强行削足适履套入理论模型的自顶向下规划。真正的工程治理要求无情直面系统运行的真实反馈，通过免除个体指责的归因机制深挖系统漏洞，在敏捷迭代中持续修正。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–163)]]
+> 硅谷与工程文化的精髓在于实用主义试错：通过编写能够直接在现实世界中运行的代码，在几天之内发现错误并果断放弃失败路径，有别于屈从于长达数年、试图将现实强行削足适履套入理论模型的自顶向下规划。真正的工程治理要求无情直面系统运行的真实反馈，通过免除个体指责的归因机制深挖系统漏洞，在敏捷迭代中持续修正。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–163)]]
 >
 > *The engineering ethos values pragmatism over ideology... building things that run in the real world, pivoting quickly away from failure, and embracing iterative correction over rigid, top-down deterministic plans.*
 
@@ -109,10 +109,10 @@ aliases:
 > - **跨职能流动团队（Liquid Cross-Functional Teams）** 打破部委条块分割与固定岗位编制，根据具体使命任务灵活抽调技术、政策、法律与设计专家组成项目特区，任务完成后即刻重组。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 > - **快速原型与最小可行产品（Rapid Prototyping & MVPs）** 坚决避免未经检验的全国性一刀切铺开，优先开发轻量级原型在局部场景快速验证核心假设。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 > - **以人为本的服务设计（User-Centred Service Design）** 将公共政策与数字服务的评估基准从“官僚审批便利”彻底倒逼至“公众与一线作战人员的实际使用体验与实效”。（pp. 795–796）
-> - **循证社会实验与闭环验证（Evidence-Based Social Experimentation & [[Randomised Controlled Trials|RCTs]]）** 结合[[Randomised Controlled Trials|随机对照试验]]、A/B 测试与实时运行数据，为政策迭代提供高[[Reliability|信度]]的因果实证支持。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
+> - **循证社会实验与反馈回路验证（Evidence-Based Social Experimentation & [[Randomised Controlled Trials|RCTs]]）** 结合[[Randomised Controlled Trials|随机对照试验]]、A/B 测试与实时运行数据，为政策迭代提供高[[Reliability|信度]]的因果实证支持。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 > - **免责根因追溯与快速止损机制（Blameless Root-Cause Tracing & Rapid Pivoting）** 借助[[Taiichi Ohno|大野耐一]]（Taiichi Ohno）[[Five Whys|五问法]]等工程复盘工具，在出现故障时剥离个人归咎、追溯系统与激励根因，并在数天内果断放弃死胡同方案。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 158–163)]]
 
-> [!logic-map]- 敏捷治理运行闭环机制
+> [!logic-map]- 敏捷治理运行反馈回路机制
 > ```mermaid
 > flowchart LR
 >     A["宏观战略使命<br>(Mission Direction)"] --> B["跨职能流动团队<br>(Liquid Teams)"]

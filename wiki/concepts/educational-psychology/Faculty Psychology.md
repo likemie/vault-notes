@@ -63,7 +63,7 @@ updated: 2026-11-02
 心灵官能心理学（Faculty Psychology），又称官能心理学或心智能力说，是 18 世纪末至 19 世纪在欧洲与北美占据主导地位的心理学与[[Epistemology|认识论]]学说。该学说假定人类的心灵（mind/soul）由若干先天的、相对分立的“官能（faculties）”（如感觉、注意力、记忆力、比较力、想象力、推理力、意志与道德情感）所构成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 16–17, 30)]]
 
 > [!def] Faculty Psychology
-> 官能心理学主张教育的根本旨趣不在于机械灌输具体的实用知识技能，而在于顺应心灵的自然法则，对各项心理官能展开有秩序的系统训练与陶冶（心智训练，*mental discipline*）。它构成了 19 世纪前期比较教育先驱（如[[Marc-Antoine Jullien\|马克-安托万·朱利安]]与[[Victor Cousin\|维克多·库森]]）设计比较观察指标、规划[[General Education\|通识教育]]课程（[[Culture Générale\|普通文化]]，*culture générale*）以及追求全人体智德协调发展的心理学与认识论底色。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 16–18, 30)]]
+> 官能心理学主张教育的根本旨趣在于顺应心灵的自然法则，对各项心理官能展开有秩序的系统训练与陶冶（心智训练，*mental discipline*），有别于机械灌输具体的实用知识技能。它构成了 19 世纪前期比较教育先驱（如[[Marc-Antoine Jullien\|马克-安托万·朱利安]]与[[Victor Cousin\|维克多·库森]]）设计比较观察指标、规划[[General Education\|通识教育]]课程（[[Culture Générale\|普通文化]]，*culture générale*）以及追求全人体智德协调发展的心理学与认识论底色。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 16–18, 30)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称将人类认知与道德发展理解为特定先天心智官能循序渐进觉醒与强化的心理学传统。
@@ -104,8 +104,8 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **心智官能的三元层级结构** 以法国哲学家拉罗米吉埃（Pierre Laromiguière）的体系为代表，确立理解力的三大核心基石：作为诸官能之母的首要动力**注意力（attention）**、辨别异同的**比较力（comparison/simile）**，以及进行推演判断的**推理力（reasoning）**。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 16–17)]]
 > - **心智训练与一般能力迁移原则（Mental Discipline）** 坚信特定具有高度严密形式逻辑的学科（如希腊文、拉丁文文法、欧几里得几何）能够对心智施加最强有力的“操练”，所培养出的坚韧专注与推理习惯能够无障碍地迁移至任何事务中。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 30)]]
-> - **循序渐进的教学心理学秩序** 儿童心智绝非一蹴而就，教学必须由浅入深：先通过直观感觉启发注意力，进而引导其进行事物间对比与分类，最终升华至抽象推理与道德自律。
-> - **身、心、灵三位一体的全人教化理念** 官能心理学不仅关照智力，更统摄身体与道德情感；朱利安明确指出人由“身体、心灵（心智）与灵魂（道德）”三部分构成，三者之谐调开发是实现幸福与社会善治的唯一途径。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 18)]]
+> - **循序渐进的教学心理学秩序** 儿童心智有别于一蹴而就，教学必须由浅入深：先通过直观感觉启发注意力，进而引导其进行事物间对比与分类，最终升华至抽象推理与道德自律。
+> - **身、心、灵三位一体的全人教化理念** 官能心理学不仅关照智力，更统领身体与道德情感；朱利安明确指出人由“身体、心灵（心智）与灵魂（道德）”三部分构成，三者之谐调开发是实现幸福与社会善治的唯一途径。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 18)]]
 
 > [!logic-map]- 官能心理学[[Epistemology\|认识论]]架构与课程实践
 > ```mermaid
@@ -138,7 +138,7 @@ updated: 2026-11-02
 > **三官能阶梯发展规律** 拉罗米吉埃在《哲学课》中确立认知发展命题：人类一切高级认知操作皆发端于“注意力”，它是派生并唤醒所有其他官能的母体；唯有注意力集中方能展开对物象差异的“比较”，最终在概念关联中升华为“推理”。朱利安在 1817 年《计划》中直接以此为准绳质问欧洲各国学校是否按此秩序科学开发儿童官能。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 16–17)]]；引自 Fraser (1964:64)
 
 > [!claim] Fraser, S. and Palmer, R. R.
-> **感官直观与主动内化** 斯图尔特·弗雷泽与罗伯特·帕尔默考证，朱利安将官能心理学与[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法相结合，论证初等教育绝非向儿童灌输教条词句，而必须首先启发其感官观察，使儿童依靠自身官能主动发现规则，教师仅充当官能发展的外部催化助产士。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 17, 20)]]；引自 Palmer (1993:163–164)
+> **感官直观与主动内化** 斯图尔特·弗雷泽与罗伯特·帕尔默考证，朱利安将官能心理学与[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法相结合，论证初等教育有别于向儿童灌输教条词句，而必须首先启发其感官观察，使儿童依靠自身官能主动发现规则，教师仅充当官能发展的外部催化助产士。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 17, 20)]]；引自 Palmer (1993:163–164)
 
 ---
 

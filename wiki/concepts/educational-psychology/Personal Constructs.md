@@ -42,7 +42,7 @@ updated: 2026-11-02
 > 个人建构是个体用于概念化日常生活中各个方面的维度（dimensions）。它们是 [[Personal Construct Theory\|个人建构理论]] 中的基本[[Unit of Analysis\|分析单位]]——个体通过建构系统来预测事件、预演情境，并在行为之前进行心理模拟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 个人建构是每个人独有的意义维度。它们不是客观存在于世界中的分类，而是个体用来理解、预测和组织其经验的主观工具。
+> - **含义** 个人建构是每个人独有的意义维度。它们是个体用来理解、预测和组织其经验的主观工具，有别于客观存在于世界中的分类。
 > - **用途** 在研究中，引发个体的个人建构可以揭示其认知结构、价值观层级、自我概念和意义系统。[[Repertory Grid Technique]] 是系统引发和分析个人建构的核心工具。
 > - **边界** 个人建构不等于通用概念或社会共享的分类系统；它是个体层面的、双极的（每个[[Construct\|构念]]有两个对立极点）、且彼此之间存在层级组织关系（从属—上属）。
 
@@ -84,7 +84,7 @@ updated: 2026-11-02
 > - **提供构念（依赖共同性推论）** 如果要进行组间比较，构念就必须是共享的。Fransella et al.（2004, p. 48）指出"构念必须在组情境中提供，如果需要组数据的话。"在实践中，大多数研究的比较需求压倒了个体性推论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 7–8)]]
 
 > [!warning] 理论与实践的脱节
-> 大多数使用个人建构和 [[Repertory Grid Technique\|repertory grid]] 的研究以纯粹方法论方式操作，仅顺带提及 Kelly。这导致构念的概念在实际使用中被简化为普通的评分维度，丧失了理论厚度——但本章也承认，理论"不是使用网格的[[Necessary and Sufficient Conditions\|必要条件]]"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 17–18)]]
+> 大多数使用个人建构和 [[Repertory Grid Technique\|repertory grid]] 的研究以纯粹方法论方式操作，仅顺带提及 Kelly。这导致构念的概念在实际使用中被简化为普通的评分维度，丧失了理论厚度——但这一部分也承认，理论"有别于使用网格的[[Necessary and Sufficient Conditions\|必要条件]]"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 17–18)]]
 
 ---
 

@@ -68,7 +68,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 指令型科层协作（Directed Hierarchy） — 后者依赖各级行政主管审批与中心指令中介，而无指挥协同依托一线实干个体的对等通信与自发投票。
-> - 不等于 散漫乌合之众（Uncoordinated Crowd） — 无指挥协同具备极其严密的行动聚焦与临界收敛机制，能够在极短时间内达成全员一致行动。
+> - 不等于 散漫乌合之众（Uncoordinated Crowd） — 无指挥协同具备极其严密的行动聚焦与临界汇合机制，能够在极短时间内达成全员一致行动。
 
 ---
 
@@ -106,7 +106,7 @@ updated: 2026-11-02
 > **探讨维度　认知演化生物学与群体行为维度** 探讨自然界超级有机体如何在缺乏中心权威的情形下实现跨越数万个体的复杂战略决策。
 
 > [!claim] Lindauer, M., & Frisch, K. v.
-> **[[Eck Swarm Experiment|埃克蜂群]]两至三万个体无首领协商迁徙推导** [[Martin Lindauer|马丁·林道尔]]与[[Karl von Frisch|卡尔·冯·弗里施]]通过对欧洲蜜蜂的野外观测证明，蜜蜂在面对迁徙筑巢这一庞大集体行动挑战时，完全不存在发号施令的中心蜂后或特权阶层；两万至三万只蜜蜂通过侦察蜂的[[Dance Language of Bees|舞蹈语言]]公开汇报、多方候选方案竞争以及对环境突变的自适应纠错，能够在完全无指令的状态下平稳收敛至全局最优巢穴并一致迁徙。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 116–119)]]
+> **[[Eck Swarm Experiment|埃克蜂群]]两至三万个体无首领协商迁徙推导** [[Martin Lindauer|马丁·林道尔]]与[[Karl von Frisch|卡尔·冯·弗里施]]通过对欧洲蜜蜂的野外观测证明，蜜蜂在面对迁徙筑巢这一庞大集体行动挑战时，完全不存在发号施令的中心蜂后或特权阶层；两万至三万只蜜蜂通过侦察蜂的[[Dance Language of Bees|舞蹈语言]]公开汇报、多方候选方案竞争以及对环境突变的自适应纠错，能够在完全无指令的状态下平稳汇合至全局最优巢穴并一致迁徙。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 116–119)]]
 
 ---
 
@@ -138,7 +138,7 @@ updated: 2026-11-02
 > > [!axis] 无指挥协同在极端时间压力下的协商时滞风险
 > > 探讨在突发瞬时危机中，去中心化动态协商是否会因缺乏强力中心裁决而错失行动窗口。
 > >
-> > - **[[Martin Lindauer|马丁·林道尔]]（1955）** 观测表明蜂群在暴雨威胁等环境突变下能够在数小时内完成方案切换并收敛，展现了极强的自适应敏捷性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 118–119)]]
+> > - **[[Martin Lindauer|马丁·林道尔]]（1955）** 观测表明蜂群在暴雨威胁等环境突变下能够在数小时内完成方案切换并汇合，展现了极强的自适应敏捷性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 118–119)]]
 > > - **经典指令控制学派** 坚称在作战与危机指挥中，统一指挥链比去中心协商更具确定性。
 
 > [!warning] 适用局限

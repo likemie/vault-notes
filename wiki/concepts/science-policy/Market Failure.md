@@ -93,10 +93,10 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 确立了新古典经济学中公共干预的严格边界：国家只能在经证明存在市场缺陷处充当修补者与被动去风险者，目标在于“平整竞争场地”（Leveling the Playing [[Champ|field]]）。
 > - **用途** 帮助政策分析者识别公共品供给不足、干中学与集聚外部性、环境负外部性及资本市场短视等微观低效场景，指导设计研发补贴、税收抵免与产业协同平台。
-> - **边界** 市场失灵基于静态均衡假定，无法解释技术[[Paradigm|范式]]跃迁的方向性塑造，亦无法完全涵盖以国家安全为第一导向的地缘战略干预。
+> - **边界** 市场失灵基于静态均衡假定，无法解释技术[[Paradigm|范式]]转向的方向性塑造，亦无法完全涵盖以国家安全为第一导向的地缘战略干预。
 
 > [!citation-card] 市场失灵修补与现代战略动机的演化拓展
-> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
+> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备有别于由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, [[Learning by Doing]], and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips (especially those potentially involved in national security issues).*
 
@@ -180,7 +180,7 @@ updated: 2026-11-02
 > **探讨维度　地缘安全动因对市场效率逻辑的重构与替代** 探讨当代大国产业干预为何主动违背集聚经济与成本最优原则，转而追求安全韧性最大化。
 
 > [!claim] [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]
-> **从效率纠偏转向国家安全与去风险保险** 2020 年代主要经济体推出的[[Modern Industrial Policy|现代产业政策]]，其核心驱动力已非解决微观市场失灵以提升经济效率，而是防范地缘热点断链风险、保障关键芯片本土供应及压制竞争对手先进制程发展；政策制定者通过巨额补贴推动晶圆厂向美欧等高成本地区回流与多地分散，本质上是以牺牲集聚外部性和承受更高制造成本为代价，购买昂贵的国家安全与供应链韧性保险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
+> **从效率纠偏转向国家安全与去风险保险** 2020 年代主要经济体推出的[[Modern Industrial Policy|现代产业政策]]，其核心驱动力已非解决微观市场失灵以提升经济效率，是防范地缘热点断链风险、保障关键芯片本土供应及压制竞争对手先进制程发展；政策制定者通过巨额补贴推动晶圆厂向美欧等高成本地区回流与多地分散，本质上是以牺牲集聚外部性和承受更高制造成本为代价，购买昂贵的国家安全与供应链韧性保险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
 
@@ -198,7 +198,7 @@ updated: 2026-11-02
 > **探讨维度　极高资本门槛、强周期性与寡头断裂风险的产业经济失灵** 探讨重资产高科技制造业中，自由市场价格机制为何必然诱发资本避险与单点咽喉垄断，导致市场无法自发提供具备安全冗余的产能配置。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **半导体制造业的内生市场失灵与政策干预必然性** 半导体制造绝非能够依赖自由竞争自发实现供需平衡的普通工业品市场，其技术与产业组织特征孕育了极强的结构性市场失灵：兴建一座现代尖端晶圆代工厂需要投入高达 200 亿欧元的固定资产，巨大的固定成本与折旧负担构筑了极高准入壁垒；与此同时，芯片行业历史上伴随着剧烈的繁荣与萧条交替（Boom-and-bust cycles），短缺之后往往伴随长期的产能过剩，导致私营企业在经济下行期极度避险，无法根据长期战略需求进行前瞻性逆周期投资；这直接导致全球尖端先进制程产能被极少数企业寡头垄断（如[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断全球 92% 的尖端代工制造），使全球高科技生态暴露在极高的单一咽喉断裂风险之下。自由市场的避险逻辑完全无法顾及国家层面的供应链安全冗余，这构成了国家动用巨额财政补贴直接介入晶圆制造以纠正深层市场失灵的根本依据。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
+> **半导体制造业的内生市场失灵与政策干预必然性** 半导体制造并不能够依赖自由竞争自发实现供需平衡的普通工业品市场，其技术与产业组织特征孕育了极强的结构性市场失灵：兴建一座现代尖端晶圆代工厂需要投入高达 200 亿欧元的固定资产，巨大的固定成本与折旧负担构筑了极高准入壁垒；与此同时，芯片行业历史上伴随着剧烈的繁荣与萧条交替（Boom-and-bust cycles），短缺之后往往伴随长期的产能过剩，导致私营企业在经济下行期极度避险，无法根据长期战略需求进行前瞻性逆周期投资；这直接导致全球尖端先进制程产能被极少数企业寡头垄断（如[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断全球 92% 的尖端代工制造），使全球高科技生态暴露在极高的单一咽喉断裂风险之下。自由市场的避险逻辑完全无法顾及国家层面的供应链安全冗余，这构成了国家动用巨额财政补贴直接介入晶圆制造以纠正深层市场失灵的根本依据。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 
 ---
 
@@ -280,7 +280,7 @@ updated: 2026-11-02
 > | [[Evolutionary Economics]] | 理论 | 彻底解构新古典市场失灵静态均衡假定、提供动态能力与[[Path Dependence\|路径依赖]]分析的底层理论。 |
 > | [[CHIPS and Science Act]] | 事实 | 兼具纠正半导体干中学失灵与达成国家地缘安全保险双重目标的现代产业政策立法。 |
 > | [[National Semiconductor Technology Center]] | 事实 | 通过提供共享中试线与设计网关等产业公共品、系统矫正微电子中试市场失灵的国家级法定机构。 |
-> | [[Important Projects of Common European Interest]] | 事实 | [[EU\|欧盟]]以放宽国家援助审查为杠杆弥补前沿微电子研发与初次工业部署高额市场资金缺口的关键政策工具。 |
+> | [[Important Projects of Common European Interest]] | 事实 | [[EU\|欧盟]]以放宽国家援助审查为手段弥补前沿微电子研发与初次工业部署高额市场资金缺口的关键政策工具。 |
 
 ---
 

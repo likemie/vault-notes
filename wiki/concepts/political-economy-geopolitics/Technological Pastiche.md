@@ -57,7 +57,7 @@ updated: 2026-11-02
 > *For Graeber, who described himself as an anarchist, the technology industry, and American culture more broadly, were at risk of being reduced to a sort of technical 'pastiche'—the rearrangement and repurposing of existing content and breakthroughs. The end of innovation was perhaps coming into sight.*
 
 > [!boundary]- 概念边界
-> - 不等于 组合式创新 — 健康的组合式创新能够产生乘数效应并推动生产率实质跃升，而技术拼贴特指缺乏深层雄心、仅为资本套利服务的浅层衍生化。
+> - 不等于 组合式创新 — 健康的组合式创新能够产生乘数效应并推动生产率实质提升，而技术拼贴特指缺乏深层雄心、仅为资本套利服务的浅层衍生化。
 > - 不等于 产业数字化改造 — 产业数字化改造旨在升级实体产业与生产流程，技术拼贴则指工程力量在虚拟屏幕与注意力经济内部的自娱自乐。
 
 ---

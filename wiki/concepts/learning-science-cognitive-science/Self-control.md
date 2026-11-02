@@ -108,7 +108,7 @@ updated: 2026-11-02
 > | 维度 | 自我控制（Self-control） | 自我调节学习（[[Self-Regulated Learning]]） | [[Executive Function\|执行功能]]（Executive Function） | 课堂纪律（Classroom Discipline） |
 > |---|---|---|---|---|
 > | **分析对象** | 个体抵御冲动与维持目标的心智能力 | 整合认知、动机与[[Metacognition\|元认知]]的[[Learner Autonomy\|自主学习]]系统 | 大脑前额叶控制认知加工的高阶神经机制 | 外部课堂组织制度与行为守则系统 |
-> | **核心机制** | 优势[[Inhibitory Control\|反应抑制]]、延迟满足与情绪自抑 | 目标设定、策略选择、自我监控与反思修正 | [[Working Memory\|工作记忆]]刷新、抑制控制与[[Cognitive Flexibility\|认知灵活性]] | 奖惩规约、规则内化与教师权威导向 |
+> | **核心机制** | 优势[[Inhibitory Control\|反应抑制]]、延迟满足与情绪自抑 | 目标设定、策略选择、自我监控与反思修正 | [[Working Memory\|工作记忆]]刷新、抑制控制与[[Cognitive Flexibility\|认知灵活性]] | 奖惩规范、规则内化与教师权威导向 |
 > | **调控方向** | 内部冲动制动与注意聚焦 | 内部全周期学习任务规划与推进 | 神经认知层面的基础信息处理调度 | 外部行为合规与课堂秩序维持 |
 > | **在学习中的功能** | 提供抗干扰与克服拖延的底层非认知保障 | 赋能学生成为独立高效的[[Lifelong Learning\|终身学习]]者 | 支撑复杂思维推理的底层认知硬件 | 营造安全有序的集体授课物理与社会环境 |
 
@@ -118,7 +118,7 @@ updated: 2026-11-02
 > - **[[Inhibitory Control\|反应抑制]]（Inhibitory Control）** 在干扰刺激或即时诱惑下主动压制自动化优势冲动，维持既定学习任务的专注度与执行连续性。
 > - **情绪调节（Emotional Regulation）** 在面对负面评价、同伴摩擦或解题挫败时，平抑消极情绪唤醒并维持认知资源的理性分配。
 > - **行为切换（Cognitive/Behavioral Shifting）** 在多样化课堂活动与学科任务情境转换中灵活调整心智定势，保持任务推进的敏捷性与适切性。[[Argument_Creswell_2022_SAGE\|(Lekhal, 2015; Creswell & Creswell, 2022)]]
-> - **习得性资源感（Learned Resourcefulness）** 个体在长期应对压力情境中习得的一套内部调控技能与应对信念（如自言自语、自我奖赏、分步规划），是自我控制可训练性与可迁移性的理论内核。[[Argument_Creswell_2022_SAGE\|(Rosenbaum, 1990; Kennett et al., 2008; Creswell & Creswell, 2022, pp. 69–70)]]
+> - **习得性资源感（Learned Resourcefulness）** 个体在长期应对压力情境中习得的一套内部调控技能与应对信念（如自言自语、自我奖赏、分步规划），是自我控制可训练性与可迁移性的理论核心。[[Argument_Creswell_2022_SAGE\|(Rosenbaum, 1990; Kennett et al., 2008; Creswell & Creswell, 2022, pp. 69–70)]]
 
 > [!logic-map]- 自我控制在学习生态中的中介机制
 > ```mermaid
@@ -156,7 +156,7 @@ updated: 2026-11-02
 > **探讨维度　学习成果的非认知机制传导** 探讨自我控制如何从底层[[Inhibitory Control\|抑制控制]]与延迟满足出发，为高阶认知策略的调用与长周期学业成功提供不可或缺的心智保障。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Higgins et al. (2015)
-> **非认知对学业增益的底层支撑** 自我控制并非孤立的品格表现，而是学生调用高阶[[Learning Strategies|学习策略]]的先决条件。在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的实证证据体系中，自我控制与自我调节构成了教学与学习工具箱中“[[Metacognition\|元认知]]与自我调节”（Metacognition and Self-regulation）策略的核心基底，能够为中小学学童带来平均 7 个月的额外学业进展（$+7$ months progress）。当学生能够有效抵御即时诱惑并维持任务注意时，[[Higher-Order Thinking Skills\|高阶思维]]与探究活动才能在课堂中持续展开。
+> **非认知对学业增益的底层支撑** 自我控制是学生调用高阶[[Learning Strategies|学习策略]]的先决条件，有别于孤立的品格表现。在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的实证证据体系中，自我控制与自我调节构成了教学与学习工具箱中“[[Metacognition\|元认知]]与自我调节”（Metacognition and Self-regulation）策略的核心基底，能够为中小学学童带来平均 7 个月的额外学业进展（$+7$ months progress）。当学生能够有效抵御即时诱惑并维持任务注意时，[[Higher-Order Thinking Skills\|高阶思维]]与探究活动才能在课堂中持续展开。
 
 > [!claim] Mischel et al. (1989); Duckworth and Seligman (2005)
 > **延迟满足对长期成就的因果效应** 经典纵向[[Cohort Study\|追踪研究]]表明，儿童期展现出的延迟满足与冲动控制能力对青少年时期的标准化统考成绩（SAT/GCSE）、身心健康与社会流动具有强稳健的预测效力，甚至超越智力测验（IQ）的独立解释方差，确立了自我控制在全人发展因果网络中的枢纽地位。
@@ -170,7 +170,7 @@ updated: 2026-11-02
 > **非学业测量工具的信效度赤字** 相较于依托国家行政考试数据库（如英国 NPD）客观追踪的学科成绩，自我控制等非学业产出的心理测量学工具长期存在信效度报告不全、[[Predictive Validity\|预测效度]]中等及缺乏统一标准的困境。EEF 委托开展的非学业测评[[Systematic Review\|系统综述]]表明，大量研究采用的研究者自编量表或简短[[Questionnaire\|问卷]]极易受社会赞许性、[[Hawthorne Effect\|霍桑效应]]及教师主观期望偏差的干扰；若未经严格心理测量学验证便投入大规模因果试验，将导致[[Effect Size\|效应量]]严重稀释与真实成效掩盖。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp. 69–70)]]; Kennett et al. (2008)
-> **[[Mixed Methods Research\|混合方法]]与效标锚定的测量破局** 在复杂干预评估中，单纯使用自我控制量表（如 Rosenbaum 自我控制量表 SCS）的量化打分难以完整捕捉个体的真实自律过程。必须将标准化量表测量与深度[[Qualitative Interview\|质性访谈]]、即时生态瞬时评估（EMA）以及课堂行为观察进行多源[[Triangulation\|三角互证]]，将抽象分值与具体应对策略（如分心管理中的认知重构）效标锚定，方能建立稳健的[[Construct Validity\|构念效度]]。
+> **[[Mixed Methods Research\|混合方法]]与效标锚定的测量突破** 在复杂干预评估中，单纯使用自我控制量表（如 Rosenbaum 自我控制量表 SCS）的量化打分难以完整捕捉个体的真实自律过程。必须将标准化量表测量与深度[[Qualitative Interview\|质性访谈]]、即时生态瞬时评估（EMA）以及课堂行为观察进行多源[[Triangulation\|三角互证]]，将抽象分值与具体应对策略（如分心管理中的认知重构）效标锚定，方能建立稳健的[[Construct Validity\|构念效度]]。
 
 ---
 
@@ -285,7 +285,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Metacognition]] | 概念 | 上层心智机制；自我控制提供抗干扰与情绪平抑底座，支撑高阶元认知策略调用。 |
+> | [[Metacognition]] | 概念 | 上层心智机制；自我控制提供抗干扰与情绪平抑基础，支撑高阶元认知策略调用。 |
 > | [[Academic Achievement]] | 概念 | 下游终极产出；自我控制通过提升[[Student Engagement\|学习投入]]与持久性促进长期学业成就。 |
 > | [[Self-Regulated Learning]] | 概念 | 广义理论框架；自我控制担当自我调节学习执行阶段的制动与稳定功能。 |
 > | [[School Norm Adaptation]] | 概念 | 外部适应产出；自我控制是个体在校遵从规则与完成制度适应的心理基底。 |

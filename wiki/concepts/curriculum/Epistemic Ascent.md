@@ -65,7 +65,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向学科知识体系由具体经验向抽象公理逐步展开的概念派生关系，以及学习者相应的认知发展轨迹。
 > - **用途** 帮助课程设计者确立学段间课程标准的连贯性（Curricular Coherence）；在实证因果研究存在空白时，作为学科专家依托公理体系进行跨年级标准推演的理性依据。
-> - **边界** 强调质性概念形态的阶梯跃迁，不等于单纯的内容难度累加或教材篇幅扩充；若缺乏学科内在逻辑派生，知识量的机械增长不属于认识论上升。
+> - **边界** 强调质性概念形态的阶梯转向，不等于单纯的内容难度累加或教材篇幅扩充；若缺乏学科内在逻辑派生，知识量的机械增长不属于认识论上升。
 
 > [!citation-card] 概念进阶与学科逻辑推演
 > 在缺乏针对高年级数学具体标准设置的实证研究时，编写团队依靠数学学科自身的概念进阶与严密逻辑体系来决定不同主题的年级分布与深化次序。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
@@ -81,15 +81,15 @@ updated: 2026-11-02
 > [!contrast-table] 概念辨析
 > | 维度 | [[Epistemology\|认识论]]上升（Epistemic Ascent） | [[Learning Progression\|学习进阶（Learning Progression）]] | [[Big Ideas\|大概念（Big Ideas）]] | [[Surface and Deep Learning\|深层学习（Deep Learning）]] |
 > |---|---|---|---|---|
-> | **分析对象** | 学科概念从具象到抽象的生成层次与认知攀升路径 | 学习者掌握特定概念时表现出的典型思维发展序列 | 统摄离散概念与事实的学科高层核心命题与认知锚点 | 学习者把握学科各部分与整体内在联系的深层理解状态 |
+> | **分析对象** | 学科概念从具象到抽象的生成层次与认知攀升路径 | 学习者掌握特定概念时表现出的典型思维发展序列 | 统领离散概念与事实的学科高层核心命题与认知锚点 | 学习者把握学科各部分与整体内在联系的深层理解状态 |
 > | **核心机制** | 学科逻辑演绎、概念派生与认识方式的层级递进 | 心理发展表征、实证认知轨迹测绘与里程碑反馈 | 跨情境概念迁移、结构化意义建构与核心聚合 | 超越[[Rote Learning\|死记硬背]]，将[[Knowledge-that and Know-how-to\|知其然]]与知其所用进行深度整合 |
 > | **证据基础** | 学科公理体系演绎 + 专家专业审慎经验推演 | 认知心理学实证研究 + 课堂诊断测试数据 | 课程专家概念抽象 + 学科认识论反思 | 认知质性表现 + 高阶迁移任务测量 |
-> | **设计功能** | 为学段间课程标准进阶提供逻辑连贯性支撑 | 为[[Formative Assessment\|形成性评价]]与课堂教学干预提供分级里程碑 | 为单元组织提供统摄性主线，防止内容碎化 | 作为课程与教学设计的终极素养达成追求 |
+> | **设计功能** | 为学段间课程标准进阶提供逻辑连贯性支撑 | 为[[Formative Assessment\|形成性评价]]与课堂教学干预提供分级里程碑 | 为单元组织提供统领性主线，防止内容碎化 | 作为课程与教学设计的终极素养达成追求 |
 
 ---
 
 > [!feature] 核心要素
-> - **具象向抽象的梯次跃升** 学习者从具体的生活经验感知和具象操作逐步发展为理解高度概括的符号系统与形式化公理。这一过程并非自然发生，必须依赖精心设计的课程阶梯。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]
+> - **具象向抽象的梯次提升** 学习者从具体的生活经验感知和具象操作逐步发展为理解高度概括的符号系统与形式化公理。这一过程有别于自然发生，必须依赖精心设计的课程阶梯。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]
 > - **学科内生公理逻辑导引** 概念上升序列由学科自身的内在逻辑体系所规范。例如数学中由数感与四则运算向代数表达式、函数映射的延展，遵循严格的公理化演绎。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 > - **[[Knowledge-that and Know-how-to|知其然]]与知其所用的贯通** [[Epistemology|认识论]]上升要求将陈述性知识（[[Knowledge-that and Know-how-to|知其然]]）与程序性应用（[[Knowledge-that and Know-how-to|知其所用]]）深度连接，在抽象层次上指导复杂情境的[[Problem Solving|问题解决]]。
 > - **专业审慎对实证盲区的补位** 在缺乏大规模[[Randomised Controlled Trials|随机对照试验]]（RCT）等因果证据的高阶学段，学科专家的逻辑推演构成了确立认识论上升序列的根本理性支柱。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14, 22)]]
@@ -122,7 +122,7 @@ updated: 2026-11-02
 > **探讨维度　抽象学科逻辑与具体课堂情境的现实张力** 探讨高度抽象的学术公理推演如何转化为一线普通教师可教、普通学生可学的现实课程进程。
 
 > [!claim] [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]
-> **规约[[Discourse|话语]]挤压与概念标记缺失的双重危机** 在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，虽然政策文本宣称关注认识论上升，但由于[[Regulative and Instructional Discourse|规约性话语]]压倒了教学性话语，[[Big Ideas|大概念]]往往沦为宽泛的价值宣言，未能与学科具体的概念层次和认识论结构精准对接，导致认识论上升缺乏明确的概念标记和教学路标，课程设计出现系统性认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
+> **规范[[Discourse|话语]]挤压与概念标记缺失的双重危机** 在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，虽然政策文本宣称关注认识论上升，但由于[[Regulative and Instructional Discourse|规范性话语]]压倒了教学性话语，[[Big Ideas|大概念]]往往沦为宽泛的价值宣言，未能与学科具体的概念层次和认识论结构精准对接，导致认识论上升缺乏明确的概念标记和教学路标，课程设计出现系统性认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
 
 > [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
 > **一线教师物理剪裁对认识论上升的现实可行性锚定** CCSS 研制经验表明，单纯依靠数学家推演的认识论上升条文具有高度学术化与理想化倾向；[[American Federation of Teachers|全美教师联盟]]（AFT）组织骨干教师将草案条文逐条剪切、贴在墙上进行整整两天的物理比对，反复检验概念上升梯度在现实多元能力课堂中是否会导致学生断层，并逼迫起草组删除晦涩术语、调整年级梯度。这种实践检验表明，认识论上升必须经过一线教师专业审慎的具身校准，方能成为兼具理论严密性与教学可行性的实践路线图。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
@@ -141,7 +141,7 @@ updated: 2026-11-02
 > [!dev-timeline] 概念演变
 > - **1960 年代 — 螺旋式课程与学科结构论奠基** 杰罗姆·S·布鲁纳（Jerome S. Bruner）在《教育过程》中提出螺旋式课程理念，主张任何学科的基础公理均能以理智上诚实的方式转化为概念阶梯，奠定了现代概念进阶的思想根基。
 > - **2000 年代 — [[Social Realism|社会实在论]]与“强[[Powerful Knowledge|有力知识]]”兴起** 迈克尔·扬（[[Michael Young]]）等学者确立专门化学科知识的客观边界，强调基础教育的核心使命在于引导处境不利学生超越日常琐碎经验，实现向非情境化高阶学科概念的[[Epistemology|认识论]]攀升。
-> - **2010 年代 — 国家标准研制与实践反思** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）编制中，认识论上升充当了高年级数学因果实证空白时的公理推演工具；而在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，认识论标记被过度宽泛的[[Social Regime|社会规约]][[Discourse|话语]]所掩盖，引发了关于认识论上升如何有效落地的广泛反思。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]; [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
+> - **2010 年代 — 国家标准研制与实践反思** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）编制中，认识论上升充当了高年级数学因果实证空白时的公理推演工具；而在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，认识论标记被过度宽泛的[[Social Regime|社会规范]][[Discourse|话语]]所掩盖，引发了关于认识论上升如何有效落地的广泛反思。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]; [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
 
 ---
 
@@ -149,7 +149,7 @@ updated: 2026-11-02
 > 在研制全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准过程中，起草团队面临高年级数学严重缺乏实证因果研究的困境。编写者完全依赖数学学科公理体系进行严密的[[Epistemology|认识论]]上升推演，将代数、几何与函数概念依逻辑依存性纵向排列。随后，[[American Federation of Teachers|全美教师联盟]]（AFT）组织的一线教师团队通过物理剪切与墙面推敲，核实其梯度在真实课堂中的可行性，成功实现了概念进阶从学术推演向可操作教学阶梯的转化。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
 > [!case] [[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中认识论标记的混乱与反思
-> 考察表明，[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]在认识论上升方面虽有明确宣示，但由于[[Regulative and Instructional Discourse|规约性话语]]强力优先于教学性[[Discourse|话语]]，[[Big Ideas|大概念]]退化为宽泛的社会价值元陈述，没有与学科认识论结构对接，缺乏清晰的概念层次标记，导致课程设计陷入认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
+> 考察表明，[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]在认识论上升方面虽有明确宣示，但由于[[Regulative and Instructional Discourse|规范性话语]]强力优先于教学性[[Discourse|话语]]，[[Big Ideas|大概念]]退化为宽泛的社会价值元陈述，没有与学科认识论结构对接，缺乏清晰的概念层次标记，导致课程设计陷入认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
 
 ---
 
@@ -165,7 +165,7 @@ updated: 2026-11-02
 > > 批判西方传统学科分类定义的认识论上升具有知识霸权倾向，排斥了土著文化中具身化与经验化的认识方式。
 > >
 > > - **批判认识论与去殖民视角** 质疑以西方[[Positivism|实证主义]]或逻辑实证主义为主导的概念阶梯是否会边缘化本土族群的整体论智慧。
-> > - **[[Social Realism|社会实在论]]辩护** 强调专门化强[[Powerful Knowledge|有力知识]]是赋予处境不利群体参与现代民主与科学生活权力的利器，绝非否定本土文化，而是赋予其平等的认识论参与权。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–522)]]
+> > - **[[Social Realism|社会实在论]]辩护** 强调专门化强[[Powerful Knowledge|有力知识]]是赋予处境不利群体参与现代民主与科学生活权力的利器，是赋予其平等的认识论参与权，有别于否定本土文化。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–522)]]
 
 ---
 
@@ -182,10 +182,10 @@ updated: 2026-11-02
 > | [[Professional Judgment]] | Concept | 在实证数据缺乏时，专家与一线教师的专业审慎是落实认识论上升的关键纽带。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 组织一线骨干教师物理剪裁条文、对认识论上升在日常课堂的可行性进行严格把关的工会。 |
 > | [[Common Core State Standards]] | Fact (Policy) | 起草团队依托学科逻辑推演认识论上升以弥补高年级实证数据缺失的代表性案例。 |
-> | [[NZ Curriculum Refresh 2021-2026]] | Fact (Policy) | 因规约[[Discourse\|话语]]压制导致认识论上升概念标记缺失的批判案例。 |
+> | [[NZ Curriculum Refresh 2021-2026]] | Fact (Policy) | 因规范[[Discourse\|话语]]压制导致认识论上升概念标记缺失的批判案例。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考证 CCSS 数学编写组在实证空白下依靠学科逻辑推演与教师审读建构认识论上升。
-> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 批判新西兰课改中[[Regulative and Instructional Discourse|规约性话语]]压倒教学性话语导致认识论上升落空的机制。
+> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 批判新西兰课改中[[Regulative and Instructional Discourse|规范性话语]]压倒教学性话语导致认识论上升落空的机制。

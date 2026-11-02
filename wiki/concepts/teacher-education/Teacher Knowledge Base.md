@@ -54,11 +54,11 @@ updated: 2026-11-02
 ---
 
 > [!def] Teacher Knowledge Base
-> 教师知识库（Teacher Knowledge Base，又称教师知识基础）是指教师在从事专业教学与育人活动中所积累、掌握并运用的复合多元知识体系（Shulman, 1986, 1987; Grimen, 2008）。该概念由李·舒尔曼（Lee Shulman）奠定理论基石，强调教师知识远非单一学术学科知识的机械输出，而是由学科知识、学科教学知识（Pedagogical Content Knowledge, PCK）、课程认知、学习者特征、教育情境、一般教学法以及育人宗旨与价值观等七大维度交织而成的异质复合体。在[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]框架中，教师知识库被视为多源知识动态整合（[[Knowledge Integration]]）的核心载体，外部科研证据必须与教师既有的实践经验、具体学情和专业伦理在特定教学情境中进行平权协商与[[Reflexivity\|反思性]]裁决（Hermansen & Mausethagen, 2023；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。
+> 教师知识库（Teacher Knowledge Base，又称教师知识基础）是指教师在从事专业教学与育人活动中所积累、掌握并运用的复合多元知识体系（Shulman, 1986, 1987; Grimen, 2008）。该概念由李·舒尔曼（Lee Shulman）奠定理论基石，强调教师知识远非单一学术学科知识的机械输出，是由学科知识、学科教学知识（Pedagogical Content Knowledge, PCK）、课程认知、学习者特征、教育情境、一般教学法以及育人宗旨与价值观等七大维度交织而成的异质复合体。在[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]框架中，教师知识库被视为多源知识动态整合（[[Knowledge Integration]]）的核心载体，外部科研证据必须与教师既有的实践经验、具体学情和专业伦理在特定教学情境中进行平权协商与[[Reflexivity\|反思性]]裁决（Hermansen & Mausethagen, 2023；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。
 
 > [!concept-lens] 概念透镜
-> - **结构特征** 复合[[Heterogeneity\|异质性]]（Heterogeneity）：教师知识不是单一来源的逻辑推论，而是学术科研、[[Phronesis\|实践智慧]]、情境线索与价值信念的有机融合。
-> - **动态机制** 知识整合（Knowledge Integration）：面对具体复杂的课堂难题，教师并非照单套用外部论文处方，而是主动在多源知识库中进行因地制宜的剪裁、转译与重构。
+> - **结构特征** 复合[[Heterogeneity\|异质性]]（Heterogeneity）：教师知识是学术科研、[[Phronesis\|实践智慧]]、情境线索与价值信念的有机融合，有别于单一来源的逻辑推论。
+> - **动态机制** 知识整合（Knowledge Integration）：面对具体复杂的课堂难题，教师是主动在多源知识库中进行因地制宜的剪裁、转译与重构，有别于照单套用外部文章处方。
 > - **理论用途** 确立教师职业的专业[[Epistemology\|认识论]]地位，破除把教师当作外部知识被动执行者的[[Technical Rationality\|技术理性]]偏见，为解释一线教学中审慎取舍科研证据提供正当性基础。
 
 > [!citation-card] 关键表述
@@ -68,7 +68,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等同于 纯粹学术学科知识（Subject Matter Knowledge）：学科内容知识仅是教师知识库的基础构件之一；卓越的教师还必须掌握如何将学术知识转化为学生可理解形式的学科教学知识（PCK）与情境化智慧。
-> - 不等同于 孤立的技术操作技能：教师知识库深受专业伦理与育人目标的价值指引，不是脱离师生互动的标准化技术流程清单。
+> - 不等同于 孤立的技术操作技能：教师知识库深受专业伦理与育人目标的价值指引，有别于脱离师生互动的标准化技术流程清单。
 
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-11-02
 > **探讨维度　复合[[Heterogeneity\|异质性]]与[[Knowledge Integration\|知识整合]]** 阐明教师知识体系的多源特征，打破将外部科学研究视作唯一权威处方的[[Technical Rationality\|技术理性]]幻想。
 
 > [!claim] Shulman (1987); Grimen (2008); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
-> **异质知识库中的非线性协商** 专业教师的日常决策从来不是单向套用外部科研处方的线性过程；因为教学情境充满了不确定性与个体差异，外部研究证据必须进入由学科知识、[[Phronesis\|实践智慧]]、微观学情构成的多元知识库中，与其他资源进行平权的相互印证、权衡取舍与动态整合，才能转化为切合特定时空条件的[[Effective Teaching\|有效教学]]行为。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
+> **异质知识库中的非线性协商** 专业教师的日常决策从来有别于单向套用外部科研处方的线性过程；因为教学情境充满了不确定性与个体差异，外部研究证据必须进入由学科知识、[[Phronesis\|实践智慧]]、微观学情构成的多元知识库中，与其他资源进行平权的相互印证、权衡取舍与动态整合，才能转化为切合特定时空条件的[[Effective Teaching\|有效教学]]行为。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 
 ---
 

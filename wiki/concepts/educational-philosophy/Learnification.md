@@ -121,7 +121,7 @@ updated: 2026-11-02
 > [!feature] 学习化机制的核心特征与传导机制
 > - **教育语言的去教育学化（De-Educationalization of Vocabulary）** 将教学（Teaching）替换为“促进学习”（Facilitating Learning），将学生（Pupil/Student）替换为“学习者”（Learner），将学校替换为“学习环境”。这一词汇更迭抽离了教育原有的伦理责任与权力不对称意涵，将原本需要师生共同建构的价值遭遇退化为中性的认知交易。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 16–18)]]
 > - **教育功能的三重失衡（Disruption of Educational Functions）** 比斯塔指出教育兼具三重功能：资格化（Qualification，传授技能与知识）、社会化（Socialization，融入既有社会秩序）与主体化（Subjectification，成长为独立自主的负责任主体）。学习化将全部教育资源集中于资格化与标准化测验，极大压制乃至摧毁了旨在激发批判反思与自由存在的主体化维度。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 19–21)]]
-> - **效果与[[Effect Size|效应量]]至上的工具理性（Effect-Centered Instrumentalism）** 将教育决策完全收束于“什么有效”（what works）的[[Positivism|实证主义]]标准，依托[[Meta-analysis|元分析]]得出的[[Effect Size|效应量]]（Effect Size）界定优质教育，忽视了“为何有效”、“对谁有效”以及“朝向何种善”的规范性哲学叩问。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–2)]]
+> - **效果与[[Effect Size|效应量]]至上的工具理性（Effect-Centered Instrumentalism）** 将教育决策完全收住于“什么有效”（what works）的[[Positivism|实证主义]]标准，依托[[Meta-analysis|元分析]]得出的[[Effect Size|效应量]]（Effect Size）界定优质教育，忽视了“为何有效”、“对谁有效”以及“朝向何种善”的规范性哲学叩问。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–2)]]
 > - **终身自我优化的[[Developmentalism|发展主义]]强制（Developmental Imperative & Adaptability）** 在[[Cognitive Capitalism|认知资本主义]]与学习型经济的驱动下，“[[Lifelong Learning|终身学习]]”转变为对个体施加的无休止发展强制；不发展即被视作落后与自满，学生被规训为必须永恒自我优化以应对劳动力市场折旧的弹性主体。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 8–9)]]
 > - **可见性[[Panopticism|全景敞视]]监控（Panopticon of [[Visible Learning]]）** 要求学生将内在思考策略、学习困惑与学业进展彻底[[Externalization|外化]]为可视化指标与成长图表，使学习活动处于教师与[[External Auditor|外部审计]]体系的全天候凝视之下，将个体的内在精神世界转化为可量化考核的管理对象。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 9–10)]]
 

@@ -11,9 +11,9 @@ summary: "科学计量学与科技评价领域用于消除学科差异与出版�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -42,12 +42,14 @@ related_persons:
   - "[[Derek de Solla Price]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[SciSciNet]]"
   - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -89,6 +91,7 @@ updated: 2026-11-02
 > [!dev-timeline] 方法演变
 > - **1965 — 早期原始引文批判** [[Derek de Solla Price|普赖斯]]发现不同学科文献引用密度相差巨大，警示绝对被引指标用于跨学科横向评聘存在严重制度陷阱。(Price, 1965, pp. 510–515)
 > - **2008 — 相对比值与普适曲线建立** Radicchi、Fortunato 与 Castellano 正式提出用 $c_f = c / \langle c \rangle$ 实施归一化，证明该比值能将各学科分布统一至均值参数 $\mu \approx -0.27$、方差参数 $\sigma \approx 1.25$ 的通用对数正态模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, pp. 177–179)]]
+> - **2018 — 科学学全景综述与客观基准整合** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）综述中，将篇均引文相对标准化确立为跨学科客观评价的基准范式，论证其消解学科容量差异、导出普适对数正态引文主曲线的机制。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 4–5)]]
 > - **2021 — 科学学跨领域比对推广** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统总结相对引文标准化方法在比较历史经典论著与当代突破中的实践范例，确立其作为科学学基础度量工具的规范地位。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 177–180)]]
 > - **2023 — 亿级开放数据湖工程实现** Lin et al. 在 [[SciSciNet]] 中集成 19 个一级学科与 292 个二级学科分类体系，将相对引文标准化（$c_f$）作为全库出版物及学者、机构层级引文对齐的关键预计算基准，验证了跨领域评价在超大规模真实数据中的实用性。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–6)]]
 

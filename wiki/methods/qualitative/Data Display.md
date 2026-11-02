@@ -55,12 +55,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Data Display
-> 数据展示（Data Display）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]的核心支柱，指以系统化、视觉化和压缩的方式组织信息，旨在[[Assemblage\|组装]]信息以支持推论得出与行动决策。人类[[Working Memory\|工作记忆]]在处理连续长篇非结构化文本时存在严苛的认知负荷瓶颈；数据展示通过矩阵（matrices）、表格（tables）、网络图（networks）和因果链等空间化[[Externalization\|外化]]工具，将分散于多份访谈、[[Field Notes\|田野笔记]]或观察记录中的核心证据并置呈现，使研究者能够一目了然地捕捉组间异同、时序结构与潜在规律。数据展示绝非孤立的图表呈现，必须依托多层评注系统（commentary）以完成质性意义转化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
+> 数据展示（Data Display）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]的核心支柱，指以系统化、视觉化和压缩的方式组织信息，旨在[[Assemblage\|组装]]信息以支持推论得出与行动决策。人类[[Working Memory\|工作记忆]]在处理连续长篇非结构化文本时存在严苛的认知负荷瓶颈；数据展示通过矩阵（matrices）、表格（tables）、网络图（networks）和因果链等空间化[[Externalization\|外化]]工具，将分散于多份访谈、[[Field Notes\|田野笔记]]或观察记录中的核心证据并置呈现，使研究者能够一目了然地捕捉组间异同、时序结构与潜在规律。数据展示有别于孤立的图表呈现，必须依托多层评注系统（commentary）以完成质性意义转化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将长篇非结构化质性文本转化为空间化、结构化、压缩性视觉信息体（矩阵、表格、网络图）的系统分析规程。
 > - **用途** 克服人类工作记忆局限与大段叙述文本的认知盲区，实现跨场所、跨主体或多维度的并置比较，为模式识别与因果推论提供直观操作台。
-> - **边界** 数据展示本身不是纯粹的最终报告图表包装，而是分析进行中的认知操作台；数据展示绝不能替代实质性分析与理论诠释，必须伴随多层次评注系统。
+> - **边界** 数据展示本身是分析进行中的认知操作台，有别于纯粹的最终报告图表包装；数据展示绝不能替代实质性分析与理论诠释，必须伴随多层次评注系统。
 
 > [!citation-card] 关键表述
 > 审慎设计的数据展示不仅能承担[[Data Reduction\|数据缩减]]功能，更能使读者一眼看出受访者群体之间的相似与差异，成为质性推论生成与检验的基础操作台。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
@@ -69,7 +69,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 统计图表或定量汇总 — 质性数据展示的单元是概念属性、引文摘要、叙事片段或范畴标签，旨在揭示质性意义结构与关系模式，而非单纯计算均值、方差或概率推断。
-> - 不等于 原始文本无序摘抄 — 孤立堆砌未经组织的受访者引语（quote dump）不是数据展示；展示必须遵循特定空间逻辑（如按个案、角色、时间、概念维度交叉排列）。
+> - 不等于 原始文本无序摘抄 — 孤立堆砌未经组织的受访者引语（quote dump）有别于数据展示；展示必须遵循特定空间逻辑（如按个案、角色、时间、概念维度交叉排列）。
 
 ---
 

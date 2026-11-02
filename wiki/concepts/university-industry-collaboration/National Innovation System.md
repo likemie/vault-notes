@@ -125,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!def] National Innovation System
-> **国家[[Systems of Innovation|创新系统]]（National Innovation System, NIS）** 指由一个国家内部公共与私营部门构成的制度网络，其组织活动、政策工具与多元主体相互作用共同发起、引进、改进与扩散新技术。该概念强调技术创新并非孤立实验室内的单向线性发明，而是深受一国[[National Education|国民教育]]培训体系、企业专业化研发建制、前竞争技术联合体、实体制造公地、产业链上下游互动网络、承接战略使命的[[Research Universities|研究型大学]]以及国家战略协调规制的共同规约，构成了理解跨国[[Technological Catch-up|技术赶超]]、无形知识积累与经济长期分化的基本[[Unit of Analysis|分析单位]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 54–56)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
+> **国家[[Systems of Innovation|创新系统]]（National Innovation System, NIS）** 指由一个国家内部公共与私营部门构成的制度网络，其组织活动、政策工具与多元主体相互作用共同发起、引进、改进与扩散新技术。该概念强调技术创新是深受一国[[National Education|国民教育]]培训体系、企业专业化研发建制、前竞争技术联合体、实体制造公地、产业链上下游互动网络、承接战略使命的[[Research Universities|研究型大学]]以及国家战略协调规制的共同规范，构成了理解跨国[[Technological Catch-up|技术赶超]]、无形知识积累与经济长期分化的基本[[Unit of Analysis|分析单位]]，有别于孤立实验室内的单向线性发明。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 54–56)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 在民族国家空间与制度尺度上，由公共教育、企业研发部门、产业供应链、前竞争技术联合体、实体制造基地、战略型大学枢纽与国家规制共同构筑的知识创造与扩散网络。
@@ -147,7 +147,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 [[Regional Innovation System]] — 后者聚焦于次国家级的地理邻近性、产业集群内部面对面交流与地方[[Tacit Knowledge|隐性知识]]外溢；国家创新系统则提供宏观制度环境、主权法律规范、国家教育制度、国家级战略联合体与通用基础设施支撑。
-> - 不等于 部门创新系统（Sectoral Innovation System, SIS） — 后者以特定产业部门（如生物制药或半导体）的技术体制、知识边界和专有性机制为分析基准，常具有跨国流动属性；国家创新系统则强调同一国家制度母体对多部门的共同规约与战略协调。
+> - 不等于 部门创新系统（Sectoral Innovation System, SIS） — 后者以特定产业部门（如生物制药或半导体）的技术体制、知识边界和专有性机制为分析基准，常具有跨国流动属性；国家创新系统则强调同一国家制度母体对多部门的共同规范与战略协调。
 > - 不等于 单向[[Linear Model of Innovation|线性创新模型]] — 线性模型假定科研经费自然转化为商业产品；国家创新系统强调多主体反馈回路、生产现场工艺改良、前竞争联合攻关与各机构互动质量。
 
 ---
@@ -163,9 +163,9 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与[[Engineering Education|高等工程教育]]，决定全社会的[[Absorptive Capacity|吸收能力]]与技能熟练度底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
+> - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与[[Engineering Education|高等工程教育]]，决定全社会的[[Absorptive Capacity|吸收能力]]与技能熟练度基础。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
 > - **企业内部专业化研发实验室与研产回路** 研发部门、现场工艺工程与市场反馈的紧密回路，将发明活动制度化为常规企业职能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9, 11–13)]]
-> - **实体制造公地与工艺[[Process Knowledge|过程知识]]（[[Industrial Commons]]）** 密集的零部件供应商网络、熟练工程师与技师在产线现场沉淀的默会[[Process Knowledge|过程知识]]与[[Phronesis|实践智慧]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48, 54)]]
+> - **实体制造公地与工艺[[Process Knowledge|过程知识]]（[[Industrial Commons]]）** 密集的零部件供应商网络、熟练工程师与技师在产线现场积累的默会[[Process Knowledge|过程知识]]与[[Phronesis|实践智慧]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48, 54)]]
 > - **前竞争技术联合体（Pre-competitive Consortia）** 联邦与产业界共同发起建立的共性技术攻坚平台（如极紫外光刻联合体 [[EUV LLC]]、转型人工智能联合体 [[Transformational AI Models Consortium|TAMC]]），分担跨行业底层风险。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 63)]]
 > - **[[Research Universities|研究型大学]]实验室体制与源头知识策源（University Laboratory System）** 研究型大学作为创新体系的源头型组织（Geiger, 2004），依托“科教融合”将前沿探索与多级工程人才培养紧密整合，不仅是开源工业标准（如 RISC-V）策源地与三级工程技能蓄水池，更依托[[Albany NanoTech Complex|奥尔巴尼纳米技术综合体]]与 MIT.nano 等共置洁净室跨越中试鸿沟，充当国家分布式创新拓扑中的[[Anchor Institution|锚定机构]]与区域技术枢纽。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
 > - **政府长效协调与分布式制度试验机制** 涵盖国家实验室网络、开放[[Megascience Installations|大科学装置]]、国家科学云与各州分布式[[Regulatory Sandbox|监管沙盒]]（Regulatory Sandboxes）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 45–46, 62–66)]]
@@ -215,7 +215,7 @@ updated: 2026-11-02
 > **探讨维度　战略共性攻关、[[Industrial Commons|产业公地]]与分布式试错** 探讨当代国家创新系统如何超越传统单向资助或单纯修补[[Market Failure|市场失灵]]，通过前竞争联合体与制造公地维系技术主权。
 
 > [!claim] Kratsios, M.
-> **创新公地与前竞争协同论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，现代国家创新系统的[[Competitiveness|竞争力]]不仅取决于大学基础论文的发表，更取决于“实体制造公地”的完整性与前竞争共性技术攻关的组织效能。历史经验表明，研发脱离实体制造会导致底层工艺设计能力的不可逆退化；国家必须依托前竞争技术联合体（如 [[EUV LLC]]、[[Transformational AI Models Consortium|TAMC]]）在科学机理清晰但工程集成风险巨大的战略[[Measurement Alignment|领域对齐]]国家实验室与产业界；同时，充分发挥联邦体制下各州的分布式制度试验（如[[Regulatory Sandbox|监管沙盒]]与许可创新），并依托国家算力设施与自动化核验网络构建新时代的国家发现引擎。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
+> **创新公地与前竞争协同论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，现代国家创新系统的[[Competitiveness|竞争力]]不仅取决于大学基础文章的发表，更取决于“实体制造公地”的完整性与前竞争共性技术攻关的组织效能。历史经验表明，研发脱离实体制造会导致底层工艺设计能力的不可逆退化；国家必须依托前竞争技术联合体（如 [[EUV LLC]]、[[Transformational AI Models Consortium|TAMC]]）在科学机理清晰但工程集成风险巨大的战略[[Measurement Alignment|领域对齐]]国家实验室与产业界；同时，充分发挥联邦体制下各州的分布式制度试验（如[[Regulatory Sandbox|监管沙盒]]与许可创新），并依托国家算力设施与自动化核验网络构建新时代的国家发现引擎。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
 
 ---
 
@@ -223,7 +223,7 @@ updated: 2026-11-02
 > **探讨维度　大学角色重构、中试跨越与国家创新系统安全化嵌入** 探讨[[Research Universities|研究型大学]]如何打破传统象牙塔和单纯上游知识供给定位，在国家技术主权与战略产业攻坚中发挥全链条枢纽功能。
 
 > [!claim] 卓泽林（Zhuo, Z. L.）
-> **大学战略中枢与角色重构论** 随着地缘科技竞争加剧与[[Securitization of Technology|技术安全化]]转向，研究型大学在国家创新系统中的功能发生深刻重构。大学不再仅仅是新自由主义市场环境下的被动专利转让者或基础论文发表者，而是通过“技术策源、制造支撑、生态整合与制度赋能”四维角色重塑，纵向贯通技术准备度（[[Technology Readiness Level|TRL]]）全周期：在技术策源端推动开源指令集（RISC-V）与工具链构建事实工业标准；在制造支撑端依托奥尔巴尼纳米科技综合体（[[Albany NanoTech Complex]]）与 MIT.nano 等共享洁净室共置平台，跨越 TRL 4–6 转化断层；在生态整合与制度赋能端建立微凭证、本科与跨学科拔尖博士三级产教融合人才蓄水池，并深度嵌入[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校协同网络，成为国家战略创新体系中最具组织弹性的系统枢纽。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
+> **大学战略中枢与角色重构论** 随着地缘科技竞争加剧与[[Securitization of Technology|技术安全化]]转向，研究型大学在国家创新系统中的功能发生深刻重构。大学不再仅仅是新自由主义市场环境下的被动专利转让者或基础文章发表者，是通过“技术策源、制造支撑、生态整合与制度赋能”四维角色重塑，纵向贯通技术准备度（[[Technology Readiness Level|TRL]]）全周期：在技术策源端推动开源指令集（RISC-V）与工具链构建事实工业标准；在制造支撑端依托奥尔巴尼纳米科技综合体（[[Albany NanoTech Complex]]）与 MIT.nano 等共享洁净室共置平台，跨越 TRL 4–6 转化断层；在生态整合与制度赋能端建立微凭证、本科与跨学科拔尖博士三级产教融合人才蓄水池，并深度嵌入[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校协同网络，成为国家战略创新体系中最具组织弹性的系统枢纽。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
 
 ---
 
@@ -231,7 +231,7 @@ updated: 2026-11-02
 > **探讨维度　创新体制[[Vertical Disintegration|纵向解构]]、分布式协同网络与制度病理** 探讨后工业时代国家创新系统如何由垄断寡头独立研发转向跨部门公私协同网络，以及[[Market Fundamentalism|市场原教旨主义]]意识形态对其施加的结构性扭曲。
 
 > [!claim] [[Fred Block|Block, F.]]
-> **[[Developmental Network State|发展型网络国家]]与体制转型论** [[Fred Block|弗雷德·布洛克]]（Fred Block, 2008）基于美国创新史纵向实证揭示，美国国家创新系统自 1980 年代起经历了根本性的[[Paradigm|范式]]转移：二战后由少数财富 500 强巨头（如[[Bell Labs|贝尔实验室]]、通用电气、RCA）内部垂直整合独立实验室垄断技术研发的旧模式走向解体，取而代之的是高度依赖公共资金与跨界协作的[[Developmental Network State|发展型网络国家]]（DNS）。前沿创新不再是孤立企业的私人冒险，而是高度依赖跨部门联邦机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、[[National Institute of Standards and Technology|NIST]]）、公立大学与中小企业的网络协同；然而，受两党[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）政治霸权制约，该系统被迫以隐形方式运作，从而诱发了五重深层体制病理：创新链条与本土实体制造业断裂、严重忽视制造业蓝领劳工技能升级、激进知识产权造成知识虚构商品化壁垒、显性民用计划极易遭受政治清算毁损，以及技术决策严重缺乏公开民主问责。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188, 194–202)]]
+> **[[Developmental Network State|发展型网络国家]]与体制转型论** [[Fred Block|弗雷德·布洛克]]（Fred Block, 2008）基于美国创新史纵向实证揭示，美国国家创新系统自 1980 年代起经历了根本性的[[Paradigm|范式]]转移：二战后由少数财富 500 强巨头（如[[Bell Labs|贝尔实验室]]、通用电气、RCA）内部垂直整合独立实验室垄断技术研发的旧模式走向解体，取而代之的是高度依赖公共资金与跨界协作的[[Developmental Network State|发展型网络国家]]（DNS）。前沿创新不再是孤立企业的私人冒险，是高度依赖跨部门联邦机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、[[National Institute of Standards and Technology|NIST]]）、公立大学与中小企业的网络协同；然而，受两党[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）政治霸权制约，该系统被迫以隐形方式运作，从而诱发了五重深层体制病理：创新链条与本土实体制造业断裂、严重忽视制造业蓝领劳工技能升级、激进知识产权造成知识虚构商品化壁垒、显性民用计划极易遭受政治清算毁损，以及技术决策严重缺乏公开民主问责。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188, 194–202)]]
 
 ---
 
@@ -254,7 +254,7 @@ updated: 2026-11-02
 > - **1993 — 跨国制度比较实证大典** [[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）主编《国家创新系统：比较分析》，系统考察 15 个发达与发展中国家的科研体制、大学角色与企业结构。
 > - **1995 — 弗里曼长周期历史辩护** 弗里曼在《剑桥经济学杂志》发表奠基[[Document|文献]]，结合李斯特考证与日苏、韩巴长周期比较，有力回击全球化导致民族国家过时的神话，确立跨学科权威地位。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–24)]]
 > - **1997 — 政策建制化与 [[OECD]] 采纳** 经济合作与发展组织（OECD）正式发布《国家创新系统》报告，推动该概念成为全球主要工业化国家制定科技政策的标准分析工具。
-> - **2008 — 网络转型与隐藏国家形态解析** [[Fred Block|弗雷德·布洛克]]（Fred Block）在《政治与社会》发表里程碑论文，证实美国国家创新系统已从大企业封闭垄断转向以联邦机构为枢纽的去中心化协作网络，并首次系统揭示[[Market Fundamentalism|市场原教旨主义]]对国家创新系统造成的制造脱节与劳工技能赤字等隐形病理。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–188)]]
+> - **2008 — 网络转型与隐藏国家形态解析** [[Fred Block|弗雷德·布洛克]]（Fred Block）在《政治与社会》发表里程碑文章，证实美国国家创新系统已从大企业封闭垄断转向以联邦机构为枢纽的去中心化协作网络，并首次系统揭示[[Market Fundamentalism|市场原教旨主义]]对国家创新系统造成的制造脱节与劳工技能赤字等隐形病理。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–188)]]
 > - **2018 至今 — 使命导向与[[Transformative Change|变革转型]]拓展** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与肖特等（Schot & Steinmueller, 2018）反思传统 NIS 局限于修补系统失灵的缺陷，推动国家创新系统转向具有明确绿色与社会方向性的主动[[Market Shaping and Creating|市场塑造]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
 > - **2026 — 制造公地重振与前竞争联合体深化** 白宫 [[Office of Science and Technology Policy|OSTP]] 2026 报告将国家创新系统深化为“实体制造公地维护、前竞争联合攻坚（[[EUV LLC]]/[[Transformational AI Models Consortium|TAMC]]）、分布式制度试验与国家 AI 算力核验基础设施”多维协同的全新[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
 > - **2026 — [[Securitization of Technology|技术安全化]]与[[Research Universities|研究型大学]]角色重构演进** 随着美国《[[CHIPS and Science Act|芯片与科学法案]]》落地，国家创新系统进一步演进为以技术安全化与国家主权为核心导向的战略科技力量网络，研究型大学依托开源标准界定、三级人才蓄水池与中试物理共置，成为统筹产教融合与前沿突破的组织中枢。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
@@ -279,7 +279,7 @@ updated: 2026-11-02
 > > 争论国家创新系统的技术安全化动员是否会挤压大学学术自由与国际科学合作网络。
 > >
 > > - **自由探索与开放科学支持者** 强调基础研究的繁荣依赖全球学者的无国界交流与去中心化自由探索，过度的排他性国家安全审查可能导致科研生态内卷封闭。
-> > - **国家战略主权与安全动员学者（[[Argument_Zhuo_2026_ICE|卓泽林, 2026]]；[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出在全球地缘竞争升温与产业链断链风险下，国家必须引导战略科技力量对齐主权安全需求，大学有责任融入国家战略任务，通过制度赋能捍卫国家技术底座。
+> > - **国家战略主权与安全动员学者（[[Argument_Zhuo_2026_ICE|卓泽林, 2026]]；[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出在全球地缘竞争升温与产业链断链风险下，国家必须引导战略科技力量对齐主权安全需求，大学有责任融入国家战略任务，通过制度赋能捍卫国家技术基础。
 >
 > > [!axis] [[Market Fundamentalism|市场原教旨主义]]隐形运作 vs. 显性公共产业战略建制
 > > 争论国家创新系统应继续在自由放任[[Discourse|话语]]掩护下低调运行，还是应当打破意识形态禁忌公开走向显性国家统筹。
@@ -318,7 +318,7 @@ updated: 2026-11-02
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统提出[[Developmental Network State|发展型网络国家理论]]，运用 R&D 100 成果实证解构美国国家创新系统从寡头独立实验室走向去中心化公私协同网络的组织转型，并剖析[[Market Fundamentalism|市场原教旨主义]]造成的隐形体制病理。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理五十年来国家创新系统政策[[Paradigm|范式]]演进，界定制度、网络、锁定与能力失灵，阐释大学在国家创新系统中的全谱系职能。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判传统国家创新系统仅弥补系统失灵的被动修补思维，提出以解决重大社会挑战为导向的主动[[Market Shaping and Creating|市场塑造]]与创造框架。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重振实体制造公地、前竞争联合体与国家 AI 基础设施核验网络，为现代国家创新体系注入韧性内核。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重振实体制造公地、前竞争联合体与国家 AI 基础设施核验网络，为现代国家创新体系注入韧性核心。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 历史制度分析美国战后国防采购与联邦研发投资体系，揭示政府先导采购与第二货源机制如何孵化微电子国家创新系统。
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Cultural Political Economy|文化政治经济学]]与[[Geopolitics|地缘政治学]]视角审视国家创新系统，揭示[[Knowledge-Based Economization|知识经济化]]如何将国家创新系统重构为大国构筑技术主权的地缘竞争工具。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析全球产业链重组下美国[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构、[[Pilot Scale Platform|中试平台]]共置及[[Securitization of Technology|技术安全化]]制度张力。

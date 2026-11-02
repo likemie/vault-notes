@@ -91,12 +91,12 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 科学主义是一种排他性的认识论立场与意识形态，它将自然科学的经验观察、量化测定与受控实验神化为唯一合法的求真法则，否认诠释、批判、伦理与审美等其他[[Ways of Knowing|认知方式]]的独立合法性。
 > - **用途** 帮助研究者识别教育政策制定、学校绩效问责与课程评估中以科学之名推行的还原主义与量化霸权，厘清“运用[[Scientific Method|科学方法]]”与“陷入科学主义迷思”的[[Epistemology|认识论]]界限。
-> - **边界** 科学主义不等于科学本身，亦非所有实证研究的对立面。反对科学主义并非否定实证研究的局部效用，而是反对将具体方法层级越界上升为普遍价值层级。在教育探究中，运用[[Randomised Controlled Trials|随机对照试验]]（RCT）或[[Meta-analysis|元分析]]本身并不构成科学主义；唯有当这些方法被赋予绝对认识论特权、粗暴排斥其他认知方式时，才构成科学主义。
+> - **边界** 科学主义不等于科学本身，亦非所有实证研究的对立面。反对科学主义是反对将具体方法层级越界上升为普遍价值层级，有别于否定实证研究的局部效用。在教育探究中，运用[[Randomised Controlled Trials|随机对照试验]]（RCT）或[[Meta-analysis|元分析]]本身并不构成科学主义；唯有当这些方法被赋予绝对认识论特权、粗暴排斥其他认知方式时，才构成科学主义。
 
 > [!boundary]- 概念边界
 > - **不等于科学方法（Scientific Method）** 科学方法是用于经验探究的工具体系，科学主义则是将该工具体系上升为唯一真理源泉与价值判准的意识形态。
 > - **不等于[[Positivism|实证主义]]（Positivism）** 实证主义是源远流长的哲学与社会学流派，科学主义是实证主义在特定历史阶段走向教条化与霸权化的激进认识论形态。
-> - **不等于对严谨证据的合理追求** 反对科学主义绝非滑向相对主义或反智主义，而是要求在承认自然科学方法边界的同时，维护复杂人文情境中的[[Ecological Validity|生态效度]]与价值审议。
+> - **不等于对严谨证据的合理追求** 反对科学主义是要求在承认自然科学方法边界的同时，维护复杂人文情境中的[[Ecological Validity|生态效度]]与价值审议，有别于滑向相对主义或反智主义。
 
 ---
 
@@ -147,7 +147,7 @@ updated: 2026-11-02
 > **量化包装对[[Ecological Validity|生态效度]]的摧毁** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）指出，[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》以海量数据库、精美图表与[[Meta-analysis|元分析]]统计营造出无可挑剔的科学外观，底层方法论却存在不透明与不可检验的缺陷。丹尼斯·菲利普斯（D. C. Phillips, 2014）指出，物理科学受控实验的方法论假设根本无法机械移植到充满多元[[Variable|变量]]的真实课堂之中：物理实验可以通过人工隔离排除干扰变量，但在教室环境中，情境变量本身就是承载师生主体意义与教育价值的核心要素——人为控制或滤除变量将彻底摧毁探究的生态效度（Ecological Validity）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 34–35)]]
 
 > [!claim] Hayek (1942)
-> **反思机械移植与捍卫行动者自由意志** 弗里德里希·哈耶克（Friedrich Hayek）系统批判了近代思想界的科学主义取向。哈耶克强调，批判科学主义的核心绝非反对科学本身，而是坚决反对将自然科学的物理因果模型机械套用于社会与人类行动。人类是具有自由意志与能动诠释能力的行动者，其行为建立在个体对情境信息的独特主观理解之上，绝不可能被还原为遵循恒常不变物理铁律的客体。[[Argument_Johnson_2023_CritEduc|(Hayek, 1942, cited in Johnson & Janzen, 2023, p. 27)]]
+> **反思机械移植与捍卫行动者自由意志** 弗里德里希·哈耶克（Friedrich Hayek）系统批判了近代思想界的科学主义取向。哈耶克强调，批判科学主义的核心是坚决反对将自然科学的物理因果模型机械套用于社会与人类行动，有别于反对科学本身。人类是具有自由意志与能动诠释能力的行动者，其行为建立在个体对情境信息的独特主观理解之上，绝不可能被还原为遵循恒常不变物理铁律的客体。[[Argument_Johnson_2023_CritEduc|(Hayek, 1942, cited in Johnson & Janzen, 2023, p. 27)]]
 
 ---
 
@@ -185,7 +185,7 @@ updated: 2026-11-02
 > **探讨维度　企业研发模式与[[Cargo Cult Science|草包族科学]]批判** 深入剖析二战后工业研发（R&D）体制与企业管理主义如何将自然科学受控实验形式外推至教育，催生缺乏科学诚实性的草包族科学。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
-> **企业研发体制渗透与草包族科学异化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统考证了当代教育科学主义的工业技术史源流：二战后，基础科学与技术工程的深度捆绑催生了全新的社会建制——研发（R&D）。研发工程师随后大量进入企业与政府管理层，将其特有的技术[[Determinism|决定论]]、社会工程与计量控制逻辑确立为新自由主义国家治理的常态哲学（Aikenhead, 2005; Barnes, 1985）。在这一背景下，以《可见的学习》为代表的[[Evidence-Based Education|循证教育]]产品，展现出典型的草包族科学（Cargo Cult Science, Feynman, 1974）特质：其表面充斥着精密庞大的元分析数据库、[[Effect Size|效应量]]排行与[[Barometer of Achievement|气压计图表]]，形式上极像严肃科学，但却彻底丧失了真正科学所必备的认识论严谨性——即费曼所强调的科学家必须竭尽全力去展示自己可能是错的求真诚实度。更严重的是，这种范式盲目仿效物理学实验室的因果预测模型（Phillips, 2014），企图将复杂的课堂教学还原为可受控隔离的单一因果链；然而在真实的教育情境中，多元的学生背景、文化脉络与人际关系并非物理学意义上的噪声杂质，而是教育实践本身的生命所在。企图在教室中排除这些情境变量，不仅摧毁了探究的生态效度（Ecological Validity），而且促使学校退化为企业研发外包的数据生产流水线，彻底遮蔽了教育作为立德树人的人文理想。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 34–36)]]
+> **企业研发体制渗透与草包族科学异化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统考证了当代教育科学主义的工业技术史源流：二战后，基础科学与技术工程的深度捆绑催生了全新的社会建制——研发（R&D）。研发工程师随后大量进入企业与政府管理层，将其特有的技术[[Determinism|决定论]]、社会工程与计量控制逻辑确立为新自由主义国家治理的常态哲学（Aikenhead, 2005; Barnes, 1985）。在这一背景下，以《可见的学习》为代表的[[Evidence-Based Education|循证教育]]产品，展现出典型的草包族科学（Cargo Cult Science, Feynman, 1974）特质：其表面充斥着精密庞大的元分析数据库、[[Effect Size|效应量]]排行与[[Barometer of Achievement|气压计图表]]，形式上极像严肃科学，但却彻底丧失了真正科学所必备的认识论严谨性——即费曼所强调的科学家必须竭尽全力去展示自己可能是错的求真诚实度。更严重的是，这种范式盲目仿效物理学实验室的因果预测模型（Phillips, 2014），企图将复杂的课堂教学还原为可受控隔离的单一因果链；然而在真实的教育情境中，多元的学生背景、文化脉络与人际关系是教育实践本身的生命所在，有别于物理学意义上的噪声杂质。企图在教室中排除这些情境变量，不仅摧毁了探究的生态效度（Ecological Validity），而且促使学校退化为企业研发外包的数据生产流水线，彻底遮蔽了教育作为立德树人的人文理想。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 34–36)]]
 
 ---
 
@@ -216,7 +216,7 @@ updated: 2026-11-02
 > > [[Scientific Method|科学方法]]无法解决所有教育与社会问题。[[Jürgen Habermas|哈贝马斯]]和霍克海默指出，当[[Scientific Explanation|科学解释]]成为诠释人类行为的唯一尺度时，它不可避免地造就一个没有良知的技术社会（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 >
 > > [!axis] 历史语境与[[Cognitive Authority|认知权威]]的相对性
-> > 反对科学主义绝非支持反智主义或反科学。舒尔特（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）指出，在 20 世纪初的[[New Culture Movement|新文化运动]]时期，[[Hu Shi|胡适]]等中国启蒙思想家并未担忧科学主义，因为在迷信盛行的语境中现代科学亟待确立合法权威；而[[John Dewey|杜威]]在美国语境中批判科学主义，是因为科学在美国已处于不容置疑的垄断地位。科学主义批判的激进程度取决于特定社会中科学相对于其他认知权威的实际地缘权力对比。
+> > 反对科学主义有别于支持反智主义或反科学。舒尔特（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）指出，在 20 世纪初的[[New Culture Movement|新文化运动]]时期，[[Hu Shi|胡适]]等中国启蒙思想家并未担忧科学主义，因为在迷信盛行的语境中现代科学亟待确立合法权威；而[[John Dewey|杜威]]在美国语境中批判科学主义，是因为科学在美国已处于不容置疑的垄断地位。科学主义批判的激进程度取决于特定社会中科学相对于其他认知权威的实际地缘权力对比。
 >
 > > [!axis] 物理学实验室受控因果 vs 真实课堂情境的[[Ecological Validity|生态效度]]
 > > 争论焦点在于自然科学的受控因果推论是否能够无损移植于教育实践（Phillips, 2014; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
@@ -233,7 +233,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132, 135)]] | 《比较教育评论》（CER）等主流期刊长期发表论文计量分析 | 理论范式与母学科认同分布 | 1960 年代[[Structural Functionalism\|结构功能主义]]与现代化理论的一统天下瓦解，至 1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%）；社会学、政治学与经济学并列为三大母学科 | 揭示单一科学主义垄断的崩溃，实证多元性不等同于所有范式在政策制定中具有同等权重 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132, 135)]] | 《比较教育评论》（CER）等主流期刊长期发表文章计量分析 | 理论范式与母学科认同分布 | 1960 年代[[Structural Functionalism\|结构功能主义]]与现代化理论的一统天下瓦解，至 1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%）；社会学、政治学与经济学并列为三大母学科 | 揭示单一科学主义垄断的崩溃，实证多元性不等同于所有范式在政策制定中具有同等权重 |
 
 ---
 
@@ -248,7 +248,7 @@ updated: 2026-11-02
 > *Scientism often begets pseudoscience, the presentation of unscientific approaches as if they were scientific... The famous physicist Richard Feynman called this "cargo-cult" science; something that looks and feels like science but lacks the epistemic conscientiousness of true science... Feynman continues: "I think ordinary people with commonsense ideas are intimidated by this pseudoscience. A teacher who has some good idea of how to teach her children to read is forced by the school system to do it some other way – or is even fooled by the school system into thinking that her method is not necessarily a good one." Feynman's words from the past could easily apply to [[Visible Learning]] products (and many other educational "magic bullets").*
 
 > [!citation-card] 菲利普斯论物理学实验模型在教育情境中的[[Ecological Validity|生态效度]]破产
-> 菲利普斯（Phillips, 2014）指出，物理科学的惊人进步源于其能够做出精确预测并接受经验检验或反驳。然而，物理实验室的方法根本无法转移到学校课堂的多[[Variable|变量]]环境中。在物理科学中变量可以被严格控制，但在学校环境中，这些变量绝非烦人的杂质，而是具有巨大的育人与人文意义——在这里进行人为控制将彻底剥夺生态效度的所有表象。学生在身份、历史和社会背景上是多元的，这使得课堂教学本质上是一项复杂的人际互动。[[Argument_Johnson_2023_CritEduc|(Phillips, 2014, p. 10, cited in Johnson & Janzen, 2023, p. 35)]]
+> 菲利普斯（Phillips, 2014）指出，物理科学的惊人进步源于其能够做出精确预测并接受经验检验或反驳。然而，物理实验室的方法根本无法转移到学校课堂的多[[Variable|变量]]环境中。在物理科学中变量可以被严格控制，但在学校环境中，这些变量是具有巨大的育人与人文意义——在这里进行人为控制将彻底剥夺生态效度的所有表象，有别于烦人的杂质。学生在身份、历史和社会背景上是多元的，这使得课堂教学本质上是一项复杂的人际互动。[[Argument_Johnson_2023_CritEduc|(Phillips, 2014, p. 10, cited in Johnson & Janzen, 2023, p. 35)]]
 >
 > *Phillips (2014) argues that the astounding progress of the physical sciences has come by the fact that they make "...precise predictions that can then be subjected to empirical verification or refutation" (p. 10). Unfortunately, the methods of a physics laboratory do not transfer to the multivariate educational environment of a classroom... in the physical sciences variables can be controlled, but in school settings, these variables are "not nuisances but are of great human and educational significance—control here removes all semblance of ecological validity".*
 

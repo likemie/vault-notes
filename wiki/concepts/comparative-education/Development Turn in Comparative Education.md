@@ -65,7 +65,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **指向关系** 它指涉了[[Geopolitics|地缘政治]]权力结构与学术[[Knowledge Production\|知识生产]]之间的共生关系，特别是冷战时期美苏两大阵营如何通过资助和学术网络将[[Human Capital Theory\|人力资本理论]]扩散为全球教育规划的客观真理。
 > - **学术用途** 帮助研究者揭开比较教育中“国际合作”与“技术援助”的去政治化科学面纱，审视其背后隐藏的权力等级、干预正当化逻辑以及方法论上的退步。
-> - **边界条件** 它不单纯是对发展中国家教育现状的描述，而是一个批判性解析[[Disciplinary Institutionalization|学科建制化]]历史的社会学范畴，通常与新殖民主义、[[Dependency Theory\|依附理论]]和全球[[Governing by Numbers\|数字治理]]话语交叉使用。
+> - **边界条件** 它不单纯是对发展中国家教育现状的描述，是一个批判性解析[[Disciplinary Institutionalization|学科建制化]]历史的社会学范畴，通常与新殖民主义、[[Dependency Theory\|依附理论]]和全球[[Governing by Numbers\|数字治理]]话语交叉使用。
 
 > [!citation-card] 关键表述
 > 随着美苏两个超级大国将目标对准“第三世界”，比较教育的大部分可用资金和相当一部分研究焦点被导向了“发展中”国家。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
@@ -106,7 +106,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜“发展转向”并非单纯的学术[[Paradigm|范式]]变迁，而是冷战地缘对抗与[[Scientism|科学主义]]理论合谋的知识型重构
+> [!concept-proposition] 命题一｜“发展转向”是冷战地缘对抗与[[Scientism|科学主义]]理论合谋的知识型重构，有别于单纯的学术[[Paradigm|范式]]变迁
 > **探讨维度　政治与学术的合谋** 这一维度的命题探讨了二战后大国援助政策如何与新兴的[[Scientism\|科学主义]]教育理论（特别是[[Human Capital Theory\|人力资本理论]]）深度绑定，从而将去政治化的科学测量转化为合法的地缘控制技术。
 
 > [!claim] Gita Steiner-Khamsi (2006)
@@ -117,7 +117,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题二｜新自由主义全球化并未终结“发展范式”，而是通过数据化与标准化的[[Governing at a Distance|远处治理]]对其进行了深化
+> [!concept-proposition] 命题二｜新自由主义全球化并未终结“发展范式”，是通过数据化与标准化的[[Governing at a Distance|远处治理]]对其进行了深化
 > **探讨维度　新自由主义的延续** 这一维度的命题关注冷战结束后，“发展话语”如何转化为以[[World Bank\|世界银行]]和[[OECD\|经合组织]]（OECD）为载体的新自由主义全球规训，通过效率指标和“最佳实践”输出维系资本积累。
 
 > [!claim] Tikly (2004)

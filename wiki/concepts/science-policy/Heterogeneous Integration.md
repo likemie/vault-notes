@@ -51,10 +51,10 @@ updated: 2026-11-02
 ---
 
 > [!def] Heterogeneous Integration
-> **异构集成（Heterogeneous Integration, HI）** 指将由不同半导体材料、不同制造工艺节点以及不同功能特质分别加工制造而成的独立单元（如先进互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑核心、射频前端、硅光子光互连模块、高带宽存储器及模拟器件），通过先进高密度封装基板、微凸点互连、硅通孔（Through-Silicon Via, TSV）或无凸点混合键合等三维堆叠技术（3D Heterogeneous Integration, 3DHI），整合为单个系统级封装或微系统的工程技术与制造[[Paradigm|范式]]。该技术摆脱了对传统单片二维晶体管物理尺寸微缩（摩尔定律）的单一依赖，通过模块化芯粒（Chiplets）协同实现系统层面的算力密度跃升、互连延迟压缩与能效最优化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2–3, 10, 17–18)]]
+> **异构集成（Heterogeneous Integration, HI）** 指将由不同半导体材料、不同制造工艺节点以及不同功能特质分别加工制造而成的独立单元（如先进互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑核心、射频前端、硅光子光互连模块、高带宽存储器及模拟器件），通过先进高密度封装基板、微凸点互连、硅通孔（Through-Silicon Via, TSV）或无凸点混合键合等三维堆叠技术（3D Heterogeneous Integration, 3DHI），整合为单个系统级封装或微系统的工程技术与制造[[Paradigm|范式]]。该技术摆脱了对传统单片二维晶体管物理尺寸微缩（摩尔定律）的单一依赖，通过模块化芯粒（Chiplets）协同实现系统层面的算力密度提升、互连延迟压缩与能效最优化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2–3, 10, 17–18)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 异构集成将芯片性能演进的重心从单一硅基晶圆表面二维特征尺寸的物理微缩，转向多维空间内异质材料、异构工艺节点与功能专用模块的物理堆叠与紧密耦合。
+> - **含义** 异构集成将芯片性能演进的重心从单一硅基晶圆表面二维特征尺寸的物理微缩，转向多维空间内异质材料、异构工艺节点与功能专用模块的物理堆叠与紧密连结。
 > - **用途** 为后摩尔时代的超算、人工智能边缘加速、空间辐射防护与高频通信系统提供突破物理极限的实现路径，同时大幅降低尖端芯片全掩膜流片的设计与试错成本。
 > - **边界** 异构集成不等于传统的印刷电路板（Printed Circuit Board, PCB）板级[[Assemblage|组装]]，它在微米甚至亚微米尺度实现微互连与键合；也不等同于单一硅基晶圆上的单片系统级芯片（System-on-Chip, SoC）制造。
 
@@ -105,7 +105,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题二｜异构集成推动设计与制造解耦并重塑微电子创新门槛
+> [!concept-proposition] 命题二｜异构集成推动设计与制造脱钩并重塑微电子创新门槛
 > **探讨维度　产业分工与中试准入门槛** 围绕尖端制程高昂全掩膜成本对大学与初创企业的排斥，探讨芯粒复用与先进封装如何降低硬件创新试验成本。
 
 > [!claim] NSTC
@@ -116,8 +116,8 @@ updated: 2026-11-02
 > [!contrast-table] 异构集成核心命题概览
 > | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **物理与系统演进** | 性能跃升重心由单片晶体管微缩转向三维多材料系统耦合 | 确立三维异构集成（3DHI）作为国家战略技术主攻方向 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 3, 10–18)]] |
-> | **产业生态与创新准入** | 芯粒复用与封装解耦大幅降低尖端硬件原型验证门槛 | 支撑[[National Advanced Packaging Manufacturing Program\|国家先进封装制造计划]]（NAPMP）与[[Pilot Scale Platform\|中试平台]]建设 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 14, 17–28)]] |
+> | **物理与系统演进** | 性能提升重心由单片晶体管微缩转向三维多材料系统连结 | 确立三维异构集成（3DHI）作为国家战略技术主攻方向 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 3, 10–18)]] |
+> | **产业生态与创新准入** | 芯粒复用与封装脱钩大幅降低尖端硬件原型验证门槛 | 支撑[[National Advanced Packaging Manufacturing Program\|国家先进封装制造计划]]（NAPMP）与[[Pilot Scale Platform\|中试平台]]建设 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 14, 17–28)]] |
 
 ---
 
@@ -135,7 +135,7 @@ updated: 2026-11-02
 > > [!axis] 技术演进路线：单片微缩优先 vs 三维异构集成主导
 > > 争论微电子算力提升应继续依托晶体管特征尺寸向埃米（Angstrom）节点极限微缩，还是全面转向异构集成与三维堆叠。
 > >
-> > - **[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]** 认为单纯依赖二维物理尺寸微缩已遭遇热耗散与制造成本收益递减瓶颈，多材料三维异构集成是后摩尔时代算力跃升的根本方向。
+> > - **[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]** 认为单纯依赖二维物理尺寸微缩已遭遇热耗散与制造成本收益递减瓶颈，多材料三维异构集成是后摩尔时代算力提升的根本方向。
 > > - **单片集成物理学派** 强调单片集成在超高频互连与信号完整性上仍具不可替代的物理优势，三维异构堆叠面临严重的热集中、机械热应力失配与整体良率多芯片乘积风险（Yield Compounding）。
 >
 > > [!axis] 生态治理规范：专有私有互连协议 vs 开放跨厂商装配标准
@@ -153,7 +153,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 美国半导体技术演进与先进封装国家战略需求（涵盖高性能计算、AI 边缘加速、射频与极端环境航天载荷） | 跨部门战略评估与微电子技术路线图综述 | 晶体管物理极限瓶颈、异构微互连密度、装配设计套件（ADK）规范与 [[National Advanced Packaging Manufacturing Program\|NAPMP]] 投资目标 | ① 先进逻辑晶体管特征尺寸逼近 **亚 2 纳米原子物理极限**，单片光刻掩膜开发成本激增；② 异构集成与先进封装获《[[CHIPS and Science Act\|芯片法案]]》**30 亿美元** 专项资金支持；③ 确立微凸点间距、硅通孔（TSV）与混合键合等 **亚微米级微互连** 计量规程 | 跨部门国家战略政策文件与路线图规划（原文报告） | 确立异构集成作为突破单片物理微缩瓶颈、支撑国家先进封装与算力扩展的核心战略路径 |
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 美国半导体技术演进与先进封装国家战略需求（涵盖高性能计算、AI 边缘加速、射频与极端环境航天载荷） | 跨部门战略评估与微电子技术路线图综述 | 晶体管物理极限瓶颈、异构微互连密度、装配设计套件（ADK）规范与 [[National Advanced Packaging Manufacturing Program\|NAPMP]] 投资目标 | ① 先进逻辑晶体管特征尺寸逼近 **亚 2 纳米原子物理极限**，单片光刻掩膜开发成本激增；② 异构集成与先进封装获《[[CHIPS and Science Act\|芯片法案]]》**30 亿美元** 专项资金支持；③ 确立微凸点间距、硅通孔（TSV）与混合键合等 **亚微米级微互连** 计量规程 | 跨部门国家战略政策文件与路线图规划（原始报告） | 确立异构集成作为突破单片物理微缩瓶颈、支撑国家先进封装与算力扩展的核心战略路径 |
 
 ---
 

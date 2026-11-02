@@ -49,12 +49,12 @@ updated: 2026-11-02
 > 规模扩充（Scale Enlargement，荷文：*Schaalvergroting*），指在高等教育去规制化与公共治理转型背景下，政府通过设定政策激励与自愿协商机制，推动大量分散、微型、单科性院校跨越阵营与学科边界开展横向合并，重组为具备多学科综合架构与战略自律能力的规模化高等学府的制度变革过程。这一过程构成了基层院校承接整笔[[Block Grants|总额预算]]与践行[[Strategic Autonomy|战略自主]]治理能力的组织前提。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 并非简单的行政合并撤并，而是以“培育承接自主权的临界组织规模”为导向的自组织结构重塑。
+> - **含义** 是以“培育承接自主权的临界组织规模”为导向的自组织结构重塑，有别于简单的行政合并撤并。
 > - **用途** 揭示国家在下放办学权力和推行[[Steering at a Distance|远距离操纵]]时，为何必须重构基层治理载体；展示[[Policy Network|政策网络]]如何在无中央强制指令的情况下自发完成全系统剧烈整合。
 > - **边界** 区别于中央计划指令下的强制划拨兼并；现代规模扩充强调峰值组织协调、院校自主谈判与自愿联合，国家仅负责提供法律框架与兼并激励。
 
 > [!citation-card] 基克特论规模扩充与自组织兼并
-> 原有 350 所主要是单科性、平均规模仅数百人的微型专业学院，被认为体量过小而无法承载扩大自治权与战略管理的要求。教育部长没有选择直接下达行政命令划并，而是将兼并的主导权完全赋予各学院及其联合会；在短短数年内，各校自主协商将数百所学院整合为约 50 所综合学院，生动证明了基层网络具备自发完成大规模结构调整的自组织调控能力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
+> 原有 350 所主要是单科性、平均规模仅数百人的微型专业学院，被认为体量过小而无法承载扩大自治权与战略管理的要求。教育部长没有选择直接下达行政命令划并，是将兼并的主导权完全赋予各学院及其联合会；在短短数年内，各校自主协商将数百所学院整合为约 50 所综合学院，生动证明了基层网络具备自发完成大规模结构调整的自组织调控能力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 >
 > *The 350 mostly mono-sectoral institutes... were considered too small to realize the planned increase in autonomy... The minister chose not to regulate the process himself. The institutes themselves had to carry out the mergers... and form about fifty multi-sectoral institutes.*
 

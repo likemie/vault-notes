@@ -47,7 +47,7 @@ updated: 2026-11-02
 > > [!concept-lens] 概念透镜
 > > - **含义** 在哲学上，它区分了人类理智思考与动物的盲目试错；在心理学上，它是衡量个体[[Epistemology\|认识论]]成熟度的最高阶标尺。
 > > - **用途** 用于培养独立决策能力、[[Critical Thinking\|批判性思维]]习惯，以及解释为什么有些学生能够处理复杂的现实争议，而另一些则陷入虚无主义。
-> > - **边界** 反思性思维并非凭空的胡思乱想，它必须始于具体的“难题觉察”（felt difficulty），并通过实证观察或语境证据加以检验。
+> > - **边界** 反思性思维有别于凭空的胡思乱想，它必须始于具体的“难题觉察”（felt difficulty），并通过实证观察或语境证据加以检验。
 
 ---
 
@@ -76,14 +76,14 @@ updated: 2026-11-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知阶段进阶命题** | 反思思维并非天生，而是[[Epistemology\|认识论]]发展阶梯（从盲从权威到基于语境辩护）的最高阶状态 | 解释劣构问题求解能力的来源，以及大学生[[Critical Thinking\|批判性思维]]的局限 | King and Kitchener (1994) |
+> | **认知阶段进阶命题** | 反思思维是[[Epistemology\|认识论]]发展阶梯（从盲从权威到基于语境辩护）的最高阶状态，有别于天生| 解释劣构问题求解能力的来源，以及大学生[[Critical Thinking\|批判性思维]]的局限 | King and Kitchener (1994) |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1910 年 — 哲学雏形的奠定** [[John Dewey\|约翰·杜威]]（Dewey）在《我们怎样思维》中正式提出了“[[Reflexivity\|反思性]]思维”这一概念及其五大步骤，将其视为教育的终极心智目标。
 > - **1994 年 — 心理学量化与模型化** King & Kitchener 以杜威的思想为基石，开发了[[Reflective Judgment Model\|反思性判断模型]]（RJM），将哲学层面的“应当如何思考”转化为心理学层面的“实然如何发展”，确立了前反思、准反思、反思三个大阶层。
-> - **1997 年 — 统合入[[Epistemological Theories\|认识论理论]]** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在重构[[Epistemology\|认识论]]领域时，将反思思维的核心（即如何在[[Wicked Problem|劣构问题]]中为信念提供辩护）确立为[[Epistemological Theories\|认识论理论]]的四大核心维度之一（即“[[Justification for Knowing\|认知的辩护]]”维度）。
+> - **1997 年 — 整合入[[Epistemological Theories\|认识论理论]]** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在重构[[Epistemology\|认识论]]领域时，将反思思维的核心（即如何在[[Wicked Problem|劣构问题]]中为信念提供辩护）确立为[[Epistemological Theories\|认识论理论]]的四大核心维度之一（即“[[Justification for Knowing\|认知的辩护]]”维度）。
 
 ---
 

@@ -75,7 +75,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Socratic Dialogue
-> [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提假设、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
+> [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，是通过界定核心术语、追问潜在前提假设、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将交互过程重构为平等的辩证探究，通过[[Reflexivity\|反思性]]质询“助产”出主体内心隐蔽的理性理解、因果模型与审议理由。
@@ -85,12 +85,12 @@ updated: 2026-11-02
 > [!citation-card] 苏格拉底对话的促学机制与理科探究指导定位
 > 在批判性思维干预中，苏格拉底对话能够通过连续追问促使学生澄清概念、辨识假设并权衡支持理由，直接激活[[Metacognition\|元认知监控]]与自我调节机制。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
 >
-> 探究教学中的教师指导并非只有[[Direct Instruction\|直接讲授]]一种方式；以 McDermott 等人所倡导的苏格拉底对话为代表的引导式问答，以及在线[[Scaffolding\|认知支架]]，均已被实证研究证实能够显著促进学习者的概念建构与深度理解。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
+> 探究教学中的教师指导并不只有[[Direct Instruction\|直接讲授]]一种方式；以 McDermott 等人所倡导的苏格拉底对话为代表的引导式问答，以及在线[[Scaffolding\|认知支架]]，均已被实证研究证实能够显著促进学习者的概念建构与深度理解。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
 >
 > *Other forms of guidance such as Socratic dialogue (McDermott & the Physics Education Group, 1996) and online scaffolds (Zacharia et al., 2015) have also been shown to benefit learners.*
 
 > [!citation-card] 人机决策回路中的苏格拉底反思机器
-> 反思机器并非增加官僚审批层级，而是作为内嵌于关键决策节点的认知安全机制。利用大语言模型（Large Language Models, LLMs）构建的苏格拉底式对话智能体，根据具体任务情境发起不可预测的探究性追问，促使操作者阐明接受或质疑系统建议的实质理由，打破直觉性顺从并维持审议所有权。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
+> 反思机器是作为内嵌于关键决策节点的认知安全机制，有别于增加官僚审批层级。利用大语言模型（Large Language Models, LLMs）构建的苏格拉底式对话智能体，根据具体任务情境发起不可预测的探究性追问，促使操作人员阐明接受或质疑系统建议的实质理由，打破直觉性顺从并维持审议所有权。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
 >
 > *Reflection Machines (RMs) are AI agents configured to engage the user in Socratic dialogue before critical actions are executed... by asking open-ended questions that require justification, RMs inject epistemic friction and foster meaningful human deliberation.*
 
@@ -148,7 +148,7 @@ updated: 2026-11-02
 > **探讨维度　科学探究与概念转变** 阐明理科课堂中苏格拉底对话作为非讲授型指导支持科学概念建构的机制。
 
 > [!claim] McDermott; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **非讲授型探究指导与直觉迷思消解** 在科学探究教学中，苏格拉底对话构成了教师指导的重要载体。以华盛顿大学物理教育组（Physics Education Group）在《物理探究》课程中的实践为代表，面对电路、光学或力学中的深层直觉迷思（如认为电流在串联灯泡中被逐渐“消耗”），教师绝不直接抛出欧姆定律等现成公式，而是通过连续的苏格拉底式提问引导学生亲自动手搭建对照电路、观察并解释反常亮度差异。这种对话充当了高阶言语支架，既避免了无指导纯探索的漫无边际，又维护了学生的[[Epistemic Agency\|认识能动性]]，促使学生在解决认知冲突中实现深层概念转变。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
+> **非讲授型探究指导与直觉迷思消解** 在科学探究教学中，苏格拉底对话构成了教师指导的重要载体。以华盛顿大学物理教育组（Physics Education Group）在《物理探究》课程中的实践为代表，面对电路、光学或力学中的深层直觉迷思（如认为电流在串联灯泡中被逐渐“消耗”），教师绝不直接抛出欧姆定律等现成公式，是通过连续的苏格拉底式提问引导学生亲自动手搭建对照电路、观察并解释反常亮度差异。这种对话充当了高阶言语支架，既避免了无指导纯探索的漫无边际，又维护了学生的[[Epistemic Agency\|认识能动性]]，促使学生在解决认知冲突中实现深层概念转变。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
 
 ---
 
@@ -156,7 +156,7 @@ updated: 2026-11-02
 > **探讨维度　[[Man-Computer Symbiosis|人机协同]]决策与对抗性质询** 探讨如何利用大语言模型的开放语义生成能力，将苏格拉底对话从传统人际教学拓展为智能交互决策中的认知安全防护机制。
 
 > [!claim] Xi et al.; [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **对抗性质询[[AI Agent in Education|智能体]]与[[Epistemic Friction|认识论摩擦]]注入** 在高风险决策与复杂探究情境中，操作者或学习者极易因认知节省倾向与界面流畅性而盲目顺从算法建议（[[Automation Bias|自动化偏差]]）。研究指出，通过将大语言模型配置为反思机器（Reflection Machines, RMs），在关键操作节点发起自适应的苏格拉底式追问（例如“你为何接受该诊断建议？”、“存在哪些冲突证据支持[[Alternative Hypothesis|替代假设]]？”），能够主动向决策流中注入生产性[[Epistemic Friction|认识论摩擦]]。与静态警告弹窗或固定格式表单不同，基于语言模型的苏格拉底追问具备不可预测性与语义自适应性，能够有效抵御形式化应对（Resisting Routinization），迫使人类主体调动[[Reflexivity|反思性]]卷入并阐明判断理由，从而在保障人机协同效率的同时维系[[Meaningful Human Control|有意义的人类控制]]与认知主体性。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
+> **对抗性质询[[AI Agent in Education|智能体]]与[[Epistemic Friction|认识论摩擦]]注入** 在高风险决策与复杂探究情境中，操作人员或学习者极易因认知节省倾向与界面流畅性而盲目顺从算法建议（[[Automation Bias|自动化偏差]]）。研究指出，通过将大语言模型配置为反思机器（Reflection Machines, RMs），在关键操作节点发起自适应的苏格拉底式追问（例如“你为何接受该诊断建议？”、“存在哪些冲突证据支持[[Alternative Hypothesis|替代假设]]？”），能够主动向决策流中注入生产性[[Epistemic Friction|认识论摩擦]]。与静态警告弹窗或固定格式表单不同，基于语言模型的苏格拉底追问具备不可预测性与语义自适应性，能够有效抵御形式化应对（Resisting Routinization），迫使人类主体调动[[Reflexivity|反思性]]卷入并阐明判断理由，从而在保障人机协同效率的同时维系[[Meaningful Human Control|有意义的人类控制]]与认知主体性。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
 
 ---
 
@@ -185,7 +185,7 @@ updated: 2026-11-02
 > > 探讨课堂中的[[Socrates\|苏格拉底]]对话究竟是开放的认知探究，还是形式主义的预设答题。
 > >
 > > - **伪对话陷阱警示** 批评者指出若教师内心已有唯一标准答案，学生的所有回答只是在揣摩教师意图，对话便退化为僵化的“提问—应答—评价”（IRE）控制程序。
-> > - **支架引导辩护** 支持者认为有目的的导向性追问并非压制思考，而是帮助新手在复杂信息中建立逻辑线索的必要[[Scaffolding\|教学支架]]。
+> > - **支架引导辩护** 支持者认为有目的的导向性追问是帮助新手在复杂信息中建立逻辑线索的必要[[Scaffolding\|教学支架]]，有别于压制思考。
 >
 > > [!axis] 认知追问强度与心理挫败感承受力
 > > 争论高密度的逻辑诘问是否会超出弱势学生的心理防线。
@@ -221,4 +221,4 @@ updated: 2026-11-02
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析苏格拉底式提问引导在文化母子学习对话与心智启蒙中的体现。
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于大语言模型的反思机器（Reflection Machines），将苏格拉底对话[[Operationalization|操作化]]为[[Man-Computer Symbiosis|人机协同]]决策中的对抗性质询[[AI Agent in Education|智能体]]，通过注入生产性[[Epistemic Friction|认识论摩擦]]抵御[[Automation Bias|自动化偏差]]并维系有意义人类控制。
-> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在[[Artificial Intelligence in Education|教育人工智能]]（Q-Tutor）交互设计中反思苏格拉底式提问的收敛性预设局限，提出由苏格拉底几何诱导向心理治疗式开放探究对话跃迁，以捍卫学习者的思想作者权与[[Creativity|创造力]]美德。
+> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在[[Artificial Intelligence in Education|教育人工智能]]（Q-Tutor）交互设计中反思苏格拉底式提问的汇合性预设局限，提出由苏格拉底几何诱导向心理治疗式开放探究对话转向，以捍卫学习者的思想署名权与[[Creativity|创造力]]美德。

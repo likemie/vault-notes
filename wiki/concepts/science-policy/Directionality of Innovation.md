@@ -82,7 +82,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向技术创新在演化分叉路口上的价值选择，即创新应当服务于何种社会目的与公共使命。
 > - **用途** 帮助政策分析者跳出以国内生产总值（Gross Domestic Product, GDP）增速、专利数量或研发支出占 GDP 比重为唯一标准的盲目增长崇拜，审视创新带来的外部性、分配后果与国家安全属性。
-> - **边界** 不等于封闭计划经济下的指令性技术垄断，而是通过设定广泛战略使命边界、激发多元主体自下而上探索竞争的开放导向。
+> - **边界** 不等于封闭计划经济下的指令性技术垄断，是通过设定广泛战略使命边界、激发多元主体自下而上探索竞争的开放导向。
 
 > [!citation-card] 经济增长的速率与方向
 > 世界各国都在追求智慧型（创新引领）、包容性与可持续的经济增长。这种追求特定增长类型的雄心本身即表明，经济增长不仅具有速率，更具有方向，因而存在多种替代性方向。然而，实现这一雄心勃勃的目标需要重新思考政府与公共政策在经济中的角色，以及与政策本身同样具备动态性与探索性的组织形态。在根本上，这需要一种超越单纯修补[[Market Failure|市场失灵]]的政府干预新正当性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 787)]]
@@ -114,7 +114,7 @@ updated: 2026-11-02
 > - **公共投资与需求端牵引（Public Investment & Demand-Side Pull）** 通过战略性公共采购、前沿[[Big Science|大科学]]资助与规制标准，为特定[[Technological Trajectories|技术轨道]]创造高确定性市场预期。
 > - **克服方向性失灵的能力机制（Capabilities against Orientation Failure）** 建立跨部门政策协调与敏捷反思机制，防止[[Systems of Innovation|创新系统]]因[[Path Dependence|路径依赖]]而锁死在不可持续或存在外部断供风险的低效路径中。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 > - **国家战略使命与安全化护栏（Strategic Mission & Security Guardrails）** 在[[Geopolitics|地缘政治]]竞争下将方向性拓展至国家安全与主权供应链，通过专项立法（如《[[CHIPS and Science Act|芯片法案]]》）与安全审查引导科研攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
-> - **实体中试与制造[[Process Knowledge|过程知识]]闭环（Pilot Infrastructure & Manufacturing Closure）** 将创新方向从虚化的论文专利指标，实质性导向制造测试床与产线调试，确保默会过程知识在本土形成闭环。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 24–26)]]
+> - **实体中试与制造[[Process Knowledge|过程知识]]反馈回路（Pilot Infrastructure & Manufacturing Closure）** 将创新方向从虚化的文章专利指标，实质性导向制造测试床与产线调试，确保默会过程知识在本土形成反馈回路。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 24–26)]]
 
 > [!logic-map]- 创新的方向性运行逻辑
 > ```mermaid
@@ -142,7 +142,7 @@ updated: 2026-11-02
 > **探讨维度　政治合法性与治理结构维度** 探讨创新方向的确定如何防范自上而下的官僚专断与利益集团俘获。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **[[Distributed Agency|分布式主体]]共塑创新航向** 新一代创新政策的方向性不是封闭科层精英的暗箱决断，而是建立在包含多边国际组织、大型慈善基金会、草根社会运动与广大公众在内的分布式主体（Distributed Agency）网络之上；唯有通过广泛的社会互动与民主审议，创新使命才能获得深厚的政治合法性与社会韧性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789, 795–796)]]
+> **[[Distributed Agency|分布式主体]]共塑创新航向** 新一代创新政策的方向性是建立在包含多边国际组织、大型慈善基金会、草根社会运动与广大公众在内的分布式主体（Distributed Agency）网络之上，有别于封闭科层精英的暗箱决断；唯有通过广泛的社会互动与民主审议，创新使命才能获得深厚的政治合法性与社会韧性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789, 795–796)]]
 
 ---
 
@@ -175,8 +175,8 @@ updated: 2026-11-02
 > [!dev-timeline] 概念演变
 > - **1950s–1980s — 线性科学推动与技术中立观** 战后[[Vannevar Bush|万尼瓦尔·布什]]报告确立了“政府资助基础科学 $\to$ 市场自发转化”的线性模型，主流经济学预设技术创新具有自发增进福利的中立性，政策仅关注研发支出占 GDP 比重等“速率”指标。
 > - **2000s — [[Evolutionary Economics|演化经济学]]与重大社会挑战转向** 面对气候变化与不可持续发展危机，演化经济学家（如 Weber & Rohracher）正式提出“方向性失灵”（Directionality Failure），指出缺乏共同转型愿景是阻碍系统性变革的根本瓶颈。
-> - **2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]][[Paradigm|范式]]确立** Kattel 与 Mazzucato 发表奠基性论文，系统提出经济增长不仅有速率更有方向，主张公共政策必须通过“倾斜竞争环境”（[[Tilting the Playing Field]]）与[[Market Shaping and Creating|市场塑造]]，主动引领创新流向绿色、智慧与包容方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–798)]]
-> - **2022–2026 — [[Securitization of Technology|技术安全化]]与国家使命导向双重重塑** 面对大国地缘博弈与尖端半导体供应链危机，以美国《[[CHIPS and Science Act|芯片与科学法案]]》为代表的[[Modern Industrial Policy|现代产业政策]]将方向性进一步延伸至国家安全、主权掌控与本土制造闭环，推动创新政策进入兼顾绿色转型与技术安全化的新纪元。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]
+> - **2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]][[Paradigm|范式]]确立** Kattel 与 Mazzucato 发表奠基性文章，系统提出经济增长不仅有速率更有方向，主张公共政策必须通过“倾斜竞争环境”（[[Tilting the Playing Field]]）与[[Market Shaping and Creating|市场塑造]]，主动引领创新流向绿色、智慧与包容方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–798)]]
+> - **2022–2026 — [[Securitization of Technology|技术安全化]]与国家使命导向双重重塑** 面对大国地缘博弈与尖端半导体供应链危机，以美国《[[CHIPS and Science Act|芯片与科学法案]]》为代表的[[Modern Industrial Policy|现代产业政策]]将方向性进一步延伸至国家安全、主权掌控与本土制造反馈回路，推动创新政策进入兼顾绿色转型与技术安全化的新纪元。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]
 
 ---
 
@@ -222,11 +222,11 @@ updated: 2026-11-02
 > | [[Public Dynamic Capabilities]] | Concept | 识别与维系创新方向性需要公共部门具备高水平的方向感知能力。 |
 > | [[Lead-and-Learn Paradigm]] | Concept | 引领与学习[[Paradigm\|范式]]旨在为落实创新方向性提供操作方法论。 |
 > | [[Securitization of Technology]] | Concept | 将国家生存与供应链主权作为科技创新方向性的当代核心体现。 |
-> | [[Technology-Oriented Social Contract]] | Concept | 规约国家与学术界围绕战略方向展开协同攻关的底层契约。 |
-> | [[Complexity Paradox]] | Concept | 缺乏统摄性方向的政策体系极易陷入部门利益割裂与复杂性悖论。 |
+> | [[Technology-Oriented Social Contract]] | Concept | 规范国家与学术界围绕战略方向展开协同攻关的底层契约。 |
+> | [[Complexity Paradox]] | Concept | 缺乏统领性方向的政策体系极易陷入部门利益割裂与复杂性悖论。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国通过巨额财政动员落实半导体创新方向性的标志性立法。 |
 > | [[Netherlands Top-sector Policy]] | Fact (Policy) | 欧洲通过明确产业方向性提升[[Competitiveness\|国家竞争力]]的经典政策范例。 |
-> | [[Michael Kratsios]] | Person | 主张在国家科技战略中确立[[Pasteur's Quadrant\|巴斯德象限]]导向与制造闭环方向。 |
+> | [[Michael Kratsios]] | Person | 主张在国家科技战略中确立[[Pasteur's Quadrant\|巴斯德象限]]导向与制造反馈回路方向。 |
 
 ---
 
@@ -234,5 +234,5 @@ updated: 2026-11-02
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 奠定创新的方向性理论基石，系统论证经济增长的速率与方向之别，提出克服方向性失灵、[[Market Shaping and Creating|市场塑造]]与[[Public Dynamic Capabilities|公共部门动态能力]]框架。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析美国国家半导体体系中[[Research Universities|研究型大学]]的角色重构，阐明国家[[Securitization of Technology|技术安全化]]如何作为最高方向性使命重塑大学基础研究、人才培养与产学中试共置网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 论证美国科技政策从自由探索科学契约向技术导向型契约的转变，揭示国家战略方向性动员下科研体系向国家实验室、公私联合体与大学自由探索三轨分化的深层机制。
-> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 结合[[Netherlands Top-sector Policy|荷兰顶级行业政策]]实证，阐述政府如何通过设立国家级重点方向与公私合作杠杆，在适度研发强度下实现全球[[Competitiveness|竞争力]]的跃升。
+> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 结合[[Netherlands Top-sector Policy|荷兰顶级行业政策]]实证，阐述政府如何通过设立国家级重点方向与公私合作手段，在适度研发强度下实现全球[[Competitiveness|竞争力]]的提升。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 分析[[EU|欧盟]]通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 重大项目确立微电子与绿色转型方向，依托超国家补贴与多边产学协同网络提升技术主权。

@@ -54,7 +54,7 @@ updated: 2026-11-02
 > - **边界** 不等于单一学科院系内的跨专业兼课，也不等于高校学者在校外私营企业的兼职咨询。
 
 > [!citation-card] 布洛赫论双重聘任的必然性与院系科层弊端
-> 制度的铁律是中心教师必须首先是学科院系的正式成员，不能只属于中心……问题不在于中心，而在于传统的学术院系。我坚决反对割裂的学术院系，我认为应该破除它们。现实中根本不存在孤立的化学工程或机械工程，它们必须深度交融。你所说的双重负荷在制度转型期是不可避免的；如果有人无法承受，那他们就该离开。我不认为中心比其他任何高强度工作更容易让人职业倦怠。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
+> 制度的铁律是中心教师必须首先是学科院系的正式成员，不能只属于中心……问题在于传统的学术院系，有别于中心。我坚决反对割裂的学术院系，我认为应该破除它们。现实中根本不存在孤立的化学工程或机械工程，它们必须深度交融。你所说的双重负荷在制度转型期是不可避免的；如果有人无法承受，那他们就该离开。我不认为中心比其他任何高强度工作更容易让人职业倦怠。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 >
 > *The ground rule is a faculty member at the center has to be a member of a department... they can’t just belong to a center. The problem isn’t the centers it’s the departments. I’m against academic departments. I think they should get rid of them... This dual responsibility you talk about is unavoidable. (Bloch in Bozeman & Boardman, 2004, p. 373)*
 
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > > 许多中心受聘教师反映，既要满足学科院系的繁重课时要求与行政委员会服务，又要应对中心企业赞助商的高强度研发交付指标，导致青年学者在终身教职评审前面临严重的过载焦虑。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 >
 > > [!axis] 传统院系学术评价对跨学科产学成果的系统性贬值
-> > 学科院系晋升委员会往往偏好单一学科第一作者纯理论论文，对教师在中心从事的多人协同系统工程、企业专利转化与跨学科教学缺乏足够的制度化认可。
+> > 学科院系晋升委员会往往偏好单一学科第一署名人纯理论性文章，对教师在中心从事的多人协同系统工程、企业专利转化与跨学科教学缺乏足够的制度化认可。
 
 ---
 

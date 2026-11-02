@@ -63,7 +63,7 @@ updated: 2026-11-02
 > [[Epistemology|认识论]]挑衅者（Epistemic Provocateur）是指在[[Man-Computer Symbiosis|人机协同]]探究与[[Knowledge Building Theory|知识建构]]情境中，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）超越单纯的“信息提供者”与“对话伙伴”定位，通过生成具有不完备性、表层顺滑但暗含因果断裂、拟人化修辞或分类缺陷的暂定性内容，反向触发并激活学习者的[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance），迫使学生主动实施审问、求证、批判与迭代重构的教学中介生态位。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 重新界定算法在教学中的认知功能：人工智能偶尔出现的错误、片面罗列与表征失真并非教学事故，而在显性[[Scaffolding|教学支架]]引导下被转化为打破思维惰性、激活批判性质询的“认知催化剂”。
+> - **含义** 重新界定算法在教学中的认知功能：人工智能偶尔出现的错误、片面罗列与表征失真有别于教学事故，而在显性[[Scaffolding|教学支架]]引导下被转化为打破思维惰性、激活批判性质询的“认知催化剂”。
 > - **用途** 帮助教育研究者与教师摆脱“AI 即标准答案生成器”的传统工具主义偏见，设计以人为主导、算法为挑衅媒介的高阶探究活动，牢固维系学生的[[Epistemic Agency|认识主体性]]。
 > - **边界** 认识论挑衅者必须依托显性学科标准与反思提示支架才能发挥正向作用；若缺乏[[Epistemic Scaffolding|认识论支架]]与反思规范，算法输出的表面流畅性极易蜕化为诱发被动盲从与严重[[Cognitive Offloading|认知卸载]]的认知陷阱。
 
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Generative Artificial Intelligence|生成式人工智能]]的不完备输出能够转化为激活[[Epistemological Vigilance|认识论警觉]]与深层审验的认知契机
-> **探讨维度　错误与缺陷的促学价值维度** 探讨为何生成式 AI 的生成瑕疵在教学中不仅不是障碍，反而是锻炼学生[[Critical Thinking|批判性思维]]与科学探究能力的核心驱动力。
+> **探讨维度　错误与缺陷的促学价值维度** 探讨为何生成式 AI 的生成瑕疵在教学中不仅有别于障碍，反倒是锻炼学生[[Critical Thinking|批判性思维]]与科学探究能力的核心驱动力。
 
 > [!claim] Han & Gutierez; Zhao et al.; Li et al.
 > **缺陷作为[[Epistemology|认识论]]挑衅与反思契机** 当大模型生成不完整、过度概括或存在机制跳跃的回答时，它扮演了“认识论挑衅者”的角色。这种不完备性打破了学生的认知平衡，迫使他们从单纯的阅读者转变为审判者，主动查阅权威一手教材、重构提示词并补充微观因果机制。[[Meta-analysis|元分析]]与实证综述均表明，面对会犯错的 AI，学生更能建立起健康的怀疑立场，将找茬核验转化为深层批判性思维的训练场。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]; [[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–13)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7)]]

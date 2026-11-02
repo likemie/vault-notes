@@ -66,7 +66,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **价值不对称性（Normative Asymmetry）** 冤枉无辜造成的国家伦理损害被判定为远大于放纵犯罪的实际损害。
-> - **对[[Pragmatic Paradigm|实用主义]]妥协的排斥（Rejection of Pragmatic Error Tolerance）** 刑事司法不同于一般工程或商业决策，绝非容忍“可接受故障率”的实用主义试验场。
+> - **对[[Pragmatic Paradigm|实用主义]]妥协的排斥（Rejection of Pragmatic Error Tolerance）** 刑事司法不同于一般工程或商业决策，有别于容忍“可接受故障率”的实用主义试验场。
 > - **技术合规设计的根本约束（Design Constraint for Tech）** 要求在研发和部署执法类软件时，必须以哪怕防范一次潜在滥用为导向构建系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-11-02
 > **探讨维度　法律[[Epistemology|认识论]]与技术伦理** 探讨法治国原则对算法工程研发与权限设计的根本规范约束。
 
 > [!claim] [[William Blackstone|Blackstone, W.]]
-> **刑事司法绝非[[Pragmatic Paradigm|实用主义]]容错的试验场** 威廉·布莱克斯通及启蒙思想家确立的法理传统强调，刑事司法的权威建立在对无辜者不可侵害的绝对承诺之上；任何旨在辅助执法的信息技术或软件，在架构设计与实战部署时都必须以“哪怕只有一次误用或侵害无辜的可能”作为警示，确保严格的程序正义不可动摇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
+> **刑事司法有别于[[Pragmatic Paradigm|实用主义]]容错的试验场** 威廉·布莱克斯通及启蒙思想家确立的法理传统强调，刑事司法的权威建立在对无辜者不可侵害的绝对承诺之上；任何旨在辅助执法的信息技术或软件，在架构设计与实战部署时都必须以“哪怕只有一次误用或侵害无辜的可能”作为警示，确保严格的程序正义不可动摇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 ---
 

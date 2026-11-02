@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜统计模型的微小假定差异足以颠覆大规模现场试验的政策定性与证据等级
-> **探讨维度　探讨维度：[[Causality\|因果推断]]在数学模型层面的高度脆弱性** 计量方法学研究揭示：教育干预的有效性判定绝非仅仅取决于教学方案本身，而是高度受制于后端统计分析师选用的回归公式结构。
+> **探讨维度　探讨维度：[[Causality\|因果推断]]在数学模型层面的高度脆弱性** 计量方法学研究揭示：教育干预的有效性判定是高度受制于后端统计分析师选用的回归公式结构，有别于仅仅取决于教学方案本身。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 52)]]; Xiao, Higgins, & Kasim (2016)
 > **多模型复算下的显著性漂移** 杜伦大学团队对英国 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 原始数据进行的四模型复算显示：超过三分之二的干预项目，其是否具有[[Statistical Significance\|统计显著性]]完全取决于使用的是简单均值对比、[[Ordinary Least Squares\|OLS]] 回归、[[Hierarchical Linear Model\|MLM]] 还是 [[Generalized Estimating Equations\|GEE]] 模型。某些干预在研究者自选的模型中呈现耀眼的 $p < .05$，一旦放入严格校正学校两级嵌套的随机截距模型中，置信区间便直接跨越零点。这意味着如果没有统一的模型规范，政策制定者可能基于统计模型的偶然选择，错误资助无效方案或扼杀有潜力的实践。
@@ -154,10 +154,10 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 概念演变与学术脉络
-> - **1980s — 勒默尔的极端界限分析（Extreme Bounds Analysis）** 经济学家爱德华·勒默尔（Edward Leamer, 1983）发表著名论文《让我们从计量经济学中除去欺瞒》（Let's Take the Con Out of Econometrics），首次系统形式化了“设定依赖性”（Specification Dependence），指出回归模型结果因控制[[Variable\|变量]]的微调而剧烈变动。
+> - **1980s — 勒默尔的极端界限分析（Extreme Bounds Analysis）** 经济学家爱德华·勒默尔（Edward Leamer, 1983）发表著名文章《让我们从计量经济学中除去欺瞒》（Let's Take the Con Out of Econometrics），首次系统形式化了“设定依赖性”（Specification Dependence），指出回归模型结果因控制[[Variable\|变量]]的微调而剧烈变动。
 > - **2000s — [[Hierarchical Linear Model\|多水平模型]]普及带来的分析分裂** 伴随分层线性模型（HLM）在教育学普及，传统 [[Ordinary Least Squares\|OLS]] 与多层模型之间的结果冲突频发，学界开始意识到忽视嵌套结构会导致严重的假阳性。
 > - **2012–2016 — 试验微观数据库支撑下的全量复算** 依托英国 NPD 建立的 105 项 [[Randomised Controlled Trials\|RCT]] 档案库，杜伦大学方法学团队（Xiao et al., 2016）系统复算 17 项试验，首次在实证上量化了教育现场试验中模型依赖性的发生概率（高达 70%）。
-> - **2018–至今 — 统计分析指南（[[Statistical Analysis Plan\|SAP]]）时代确立** 《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）与 [[CONSORT-SPI]] 报告标准的全面融合，标志着[[International Education\|国际教育]]实证科学从允许自由探索模型，正式步入前置锁定分析模型的规约化时代。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021)]]
+> - **2018–至今 — 统计分析指南（[[Statistical Analysis Plan\|SAP]]）时代确立** 《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）与 [[CONSORT-SPI]] 报告标准的全面融合，标志着[[International Education\|国际教育]]实证科学从允许自由探索模型，正式步入前置锁定分析模型的规范化时代。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021)]]
 
 ---
 
@@ -166,7 +166,7 @@ updated: 2026-11-02
 > > [!axis] 机械统一模型 vs 依据数据特征灵活选模
 > > 争论焦点在于循证机构是否应当强制规定唯一的标准模型（如统一 [[Analysis of Covariance\|ANCOVA]] 加稳健[[Standard Error\|标准误]]），还是应赋予分析师根据数据分布选择最佳拟合模型的自由。
 > >
-> > - **标准化规约立场（EEF, 2018; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 认为如果不剥夺模型选择自由，模型依赖性必然演变为暗中迎合 $p < .05$ 的选择性操作；统一标准能最大限度保障不同试验效应量的横向可比性。
+> > - **标准化规范立场（EEF, 2018; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 认为如果不剥夺模型选择自由，模型依赖性必然演变为暗中迎合 $p < .05$ 的选择性操作；统一标准能最大限度保障不同试验效应量的横向可比性。
 > > - **统计学灵活性立场** 认为不存在放之四海而皆准的万能模型；当数据呈现严重非正态、零膨胀或异方差时，机械套用[[Preregistration\|预注册]]模型可能导致估计偏误，应当鼓励多模型并呈与敏感性边界汇报。
 
 > [!critique] 外部批评

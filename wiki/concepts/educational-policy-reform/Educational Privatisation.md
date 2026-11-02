@@ -85,7 +85,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Educational Privatisation
-> **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、准市场竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化绝非中立的行政效率优化，而是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、准市场竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**，有别于中立的行政效率优化。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示教育如何从普遍公民权利与民主公共产品，被重组为按支付能力分选的排他性消费品与私人[[Human Capital Theory|人力资本]]投资。
@@ -99,7 +99,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于纯粹民办学校的自然增长 — 传统民办教育是公共教育的外部补充；而现代教育私有化聚焦公立教育系统自身的企业化改造与公共税收向商业资本定向输送。
-> - 不等于单纯的财政紧缩 — 预算削减是推动私有化的诱因或政策杠杆，但私有化核心在于重塑组织运作的准则与意识形态（如将公民重塑为消费者）。
+> - 不等于单纯的财政紧缩 — 预算削减是推动私有化的诱因或政策手段，但私有化核心在于重塑组织运作的准则与意识形态（如将公民重塑为消费者）。
 > - 涵盖从基础教育到高等教育的全谱系 — 不仅包括中小学[[Charter Schools|特许学校]]与[[School Vouchers|教育券]]，也深度延伸至高等教育跨国留学生商业化收费与大学行政企业化。
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜教育私有化是新自由主义国家以市场逻辑重塑教育权力的阶级策略
-> **探讨维度　国家权力与阶级再生产维度** 探讨私有化改革如何并非中立的技术优化，而是新自由主义国家用于卸载公共福利负担、分化劳动阶层并巩固优势阶级利益的结构性政治工具。
+> **探讨维度　国家权力与阶级再生产维度** 探讨私有化改革如何是新自由主义国家用于卸载公共福利负担、分化劳动阶层并巩固优势阶级利益的结构性政治工具，有别于中立的技术优化。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.; [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **市场机制作为阶级策略** 斯蒂芬·鲍尔指出，在教育政策中以市场逻辑取代国家的公共保障职能，实质上是新自由主义国家的一项阶级策略。市场化将教育塑造为可购买的商品，使得拥有丰富[[Cultural Capital|文化资本]]与经济资本的中产阶级能够通过选择权机制稳固排他性优势，同时将底层阶级锁定在资源匮乏的边缘学校。奥尔莫斯与托雷斯进一步论证，私有化通过使用者自费与[[Educational Decentralization|教育分权]]，重构了中央与地方的权力分配，将教育系统分裂为服务精英的优质民办体系与低质劣质的公立救济体系。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993, cited in Olmos & Torres, 2009, p. 83)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -155,7 +155,7 @@ updated: 2026-11-02
 > **探讨维度　双轨演化与治理网络维度** 探讨公立系统内部的企业化改造如何为外部商业资本的进入提供标准化对接端口。
 
 > [!claim] Ball, S. J. & Youdell, D.; O'Neill, J. et al.
-> **内外双轨的协同共生** 鲍尔与尤德尔指出，[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]并非割裂的独立过程，而是相互强化的共生网络。外生私有化（如向私营机构购买标准化测验与师训项目）制造了对内部量化绩效控制的技术需求；而内部推行的[[New Public Management|新公共管理]]指标考核则为外部私营承包商提供了精确的合同结算界面与利润实现渠道。[[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者进一步证实，二者交织使得私营资本从单纯的服务承包升级为国家立法议程的制定者。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–5)]]
+> **内外双轨的协同共生** 鲍尔与尤德尔指出，[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]是相互强化的共生网络，有别于割裂的独立过程。外生私有化（如向私营机构购买标准化测验与师训项目）制造了对内部量化绩效控制的技术需求；而内部推行的[[New Public Management|新公共管理]]指标考核则为外部私营承包商提供了精确的合同结算界面与利润实现渠道。[[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者进一步证实，二者交织使得私营资本从单纯的服务承包升级为国家立法议程的制定者。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–5)]]
 
 ---
 
@@ -163,7 +163,7 @@ updated: 2026-11-02
 > **探讨维度　[[Internationalization of Higher Education|高等教育国际化]]与财政依赖维度** 探讨全球学生跨国流动如何成为独立于国内政策的外部推力，迫使公立高等教育永久性依附于商业企业逻辑。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]]
-> **留学生市场与大学永久企业化** 法扎尔·里兹维（Fazal Rizvi）论证指出，西方公立大学对亚洲全额自费国际留学生学费的成功吸纳，反向促使本国政府大幅缩减公共经常性拨款。公共资金的撤退倒逼大学全面采用新公共管理技术、全球排名竞争与商业品牌营销；而这种企业化运作又反过来强化了对国际学生市场收入的深度依赖，使内生私有化蜕变为公立高等教育不可逆转的永久性特征。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
+> **留学生市场与大学永久企业化** 法扎尔·里兹维（Fazal Rizvi）论证指出，西方公立大学对亚洲全额自费国际留学生学费的成功吸纳，反向促使本国政府大幅缩减公共经常性拨款。公共资金的撤退倒逼大学全面采用新公共管理技术、全球排名竞争与商业品牌营销；而这种企业化运作又反过来强化了对国际学生市场收入的深度依赖，使内生私有化转变为公立高等教育不可逆转的永久性特征。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 ---
 
@@ -211,7 +211,7 @@ updated: 2026-11-02
 > |---|---|---|---|---|
 > | **拉丁美洲（智利等）** | 1980–2000s 新自由主义[[Structural Adjustment Programs\|结构调整]]期 | 全境推行教育券制度、大幅削减经常性公共拨款、推行使用者自费 | 公立学校生源份额急剧萎缩至不足 40%，形成阶层高度隔离的公私双轨格局（[[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, pp. 83–84]]） | 证实新自由主义私有化是转嫁主权债务与国家合法性危机的核心手段 |
 > | **新西兰基础教育** | 2008–2016 政策演化期 | [[Public-Private Partnership\|PPP]] 学校基建、特许学校（[[Partnership Schools Kura Hourua\|PSKH]]）、[[Assessment Tools for Teaching and Learning\|asTTle]] 测验软件商业化转包 | 记录 9 项重大私有化工程，揭示免税信托控股营利实体的双层法人架构，所得税抵扣归零且免受 OIA 审查（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 8, 70–75]]） | 揭示[[Exogenous Privatisation\|外生私有化]]从外围辅助服务迅速演进为国家政策制定权本身的私有化 |
-> | **澳大利亚高等教育** | 1990–2020s 国际化扩张期 | 缩减高校国内经常性拨款，放开全额付费国际留学生市场 | 留学生学费跃升为主要公立大学最大单项收入源（占比达 30%–40%），替代公共拨款（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p. 97]]） | 证实外部市场生源依赖反向倒逼公立大学形成不可逆的永久性[[Endogenous Privatisation\|内生私有化]]运作 |
+> | **澳大利亚高等教育** | 1990–2020s 国际化扩张期 | 缩减高校国内经常性拨款，放开全额付费国际留学生市场 | 留学生学费提升为主要公立大学最大单项收入源（占比达 30%–40%），替代公共拨款（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p. 97]]） | 证实外部市场生源依赖反向倒逼公立大学形成不可逆的永久性[[Endogenous Privatisation\|内生私有化]]运作 |
 
 ---
 

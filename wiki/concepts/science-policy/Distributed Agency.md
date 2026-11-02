@@ -1,5 +1,5 @@
 ---
-summary: "源自科学技术论与演化制度主义的核心概念，指重大技术创新与社会系统转型的能动性并非集中于单一英雄式企业家或全能中央政府，而是分散分布于多元异质的行动者网络之中；在第三代使命导向政策中构成了多元主体协同共创与分布式探索的理论基石。"
+summary: "源自科学技术论与演化制度主义的核心概念，指重大技术创新与社会系统转型的能动性是分散分布于多元异质的行动者网络之中，有别于集中于单一英雄式企业家或全能中央政府；在第三代使命导向政策中构成了多元主体协同共创与分布式探索的理论基石。"
 type: concept
 domain: "science-policy"
 related_count: 25
@@ -58,12 +58,12 @@ aliases:
 ---
 
 > [!def] Distributed Agency
-> **分布式主体（Distributed Agency / 分布式能动性）** 是指重大科技创新、[[Technological Trajectories|技术轨道]]跃迁与复杂社会转型中的能动性、知识存量与决策权力，并非集中于单一的“英雄式企业家”（Heroic Entrepreneur）或全能的“中央指令型政府”（Central Command State），而是分散分布于由政府各级部门、[[Research Universities|研究型大学]]、跨国大企业、科技初创公司、多边国际组织、大型慈善基金会、草根社会运动以及终端公民用户共同构成的多元异质行动者网络之中（Garud & Karnøe, 2003）。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将这一概念作为划分第二代与第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心分水岭，用以阐明 21 世纪应对气候危机、公共健康与老龄化照护等跨界棘手难题时，公共政策为何必须依托分布式主体实现多方共创与自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+> **分布式主体（Distributed Agency / 分布式能动性）** 是指重大科技创新、[[Technological Trajectories|技术轨道]]转向与复杂社会转型中的能动性、知识存量与决策权力，是分散分布于由政府各级部门、[[Research Universities|研究型大学]]、跨国大企业、科技初创公司、多边国际组织、大型慈善基金会、草根社会运动以及终端公民用户共同构成的多元异质行动者网络之中（Garud & Karnøe, 2003），有别于集中于单一的“英雄式企业家”（Heroic Entrepreneur）或全能的“中央指令型政府”（Central Command State）。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将这一概念作为划分第二代与第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心分水岭，用以阐明 21 世纪应对气候危机、公共健康与老龄化照护等跨界棘手难题时，公共政策为何必须依托分布式主体实现多方共创与自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 破除了将系统变革归因于孤立单一超级主体的[[Voluntarism|唯意志论]]神话，揭示了创新能动性在网络关系中的[[Emergence|涌现]]（Emergence）本质。
 > - **用途** 帮助科技政策与治理学者分析为何传统的自上而下封闭攻关无法解决[[Wicked Problem|复杂社会难题]]，指导构建去中心化的使命共创平台。
-> - **边界** 分布式主体不等于无政府式的放任自流或无序碎片化，而是强调在统摄性宏观使命（[[Directionality of Innovation|directionality]]）引领下的多元分布式协同。
+> - **边界** 分布式主体不等于无政府式的放任自流或无序碎片化，是强调在统领性宏观使命（[[Directionality of Innovation|directionality]]）引领下的多元分布式协同。
 
 > [!citation-card] 第三代使命政策中的分布式主体与社会共创
 > 第三代使命导向政策在制度动因上由非纯技术性的棘手社会挑战所驱动。与第二代[[Big Science|大科学]]项目依赖单一权威主管和单一集权实验室不同，第三代使命政策展现出高度分布式的行动主体（Distributed Agency），涵盖多边国际组织、大型慈善基金会、草根社会运动以及广大公民用户。这要求政策制定从封闭指令转向跨学科[[Co-Design|协同设计]]与社会响应性实验。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
@@ -89,7 +89,7 @@ aliases:
 ---
 
 > [!feature] 分布式主体的三大运行机制
-> - **异质行动者网络联结（Heterogeneous Actor Networks）** 打破传统产学研的狭隘闭环，将慈善资本、社区组织、行业标准制定者及普通公众实质性吸纳为[[Innovation Ecosystem|创新生态]]的共同开发者。（pp. 795–796）
+> - **异质行动者网络联结（Heterogeneous Actor Networks）** 打破传统产学研的狭隘反馈回路，将慈善资本、社区组织、行业标准制定者及普通公众实质性吸纳为[[Innovation Ecosystem|创新生态]]的共同开发者。（pp. 795–796）
 > - **去中心化实验与自发探索（Decentralized Experimentation）** 允许并在制度上资助不同主体从不同技术路径、商业模式与社会治理方式并行探索，防范单一路线锁死。（pp. 796–797）
 > - **网络统筹与战略反思机制（Network Orchestration & Systemic [[Reflexivity]]）** 公共部门扮演网络编织者与催化者角色，建立跨主体学习交流平台与全生命周期的反思性评估机制。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
@@ -107,7 +107,7 @@ aliases:
 > **探讨维度　国家能力与治理[[Paradigm|范式]]维度** 审视分布式主体对[[Public Dynamic Capabilities|公共部门动态能力]]的制度诉求。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **[[Lead-and-Learn Paradigm|引领与学习范式]]的组织底座** 在分布式主体网络中，国家的核心职能不再是微观干预或强制指令，而是依托[[Lead-and-Learn Paradigm|引领与学习范式]]，通过设立宏观战略方向（[[Directionality of Innovation|创新的方向性]]）、提供[[Patient Capital|耐性资本]]以及搭建[[Agile Governance|敏捷治理]]平台，撬动并统筹全社会的分布式能动性共同攻关。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
+> **[[Lead-and-Learn Paradigm|引领与学习范式]]的组织基础** 在分布式主体网络中，国家的核心职能不再是微观干预或强制指令，是依托[[Lead-and-Learn Paradigm|引领与学习范式]]，通过设立宏观战略方向（[[Directionality of Innovation|创新的方向性]]）、提供[[Patient Capital|耐性资本]]以及搭建[[Agile Governance|敏捷治理]]平台，撬动并统筹全社会的分布式能动性共同攻关。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
 

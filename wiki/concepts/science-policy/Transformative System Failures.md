@@ -75,7 +75,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **核心关切** | 研发投资不足与知识外溢 | 产学研网络割裂与制度阻滞 | 重大社会挑战与不可持续发展锁定 |
 > | **失灵根源** | 价格机制无法内部化外部性 | [[Systems of Innovation\|创新系统]]内部构件连接不畅 | 缺乏转型方向、需求表达与反思机制 |
-> | **政策取向** | 技术中立、普惠税收优惠与研发资助 | 建设中介机构、培育创新集群与[[Technology Transfer\|技术转移]] | 确立国家使命、开展多方共治与引导系统收敛 |
+> | **政策取向** | 技术中立、普惠税收优惠与研发资助 | 建设中介机构、培育创新集群与[[Technology Transfer\|技术转移]] | 确立国家使命、开展多方共治与引导系统汇合 |
 > | **代表[[Document\|文献]]** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber and Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-11-02
 > - **政策协调失灵（Policy Coordination Failure）** 科技、环保、产业与财政等不同部委之间以及中央与地方政府之间政策目标脱节，陷入[[Problem of Many Hands|多手难题]]与管辖权冲突。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–477)]]
 > - **[[Reflexivity|反思性]]失灵（Reflexivity Failure）** [[Systems of Innovation|创新系统]]缺乏常态化的监测评估、社会学习与纠偏通道，容易忽视外部环境变化并过早陷入次优技术的路径锁定。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475, 485)]]
 
-> [!logic-map]- 变革性系统失灵与政策收敛引导机制
+> [!logic-map]- 变革性系统失灵与政策汇合引导机制
 > ```mermaid
 > flowchart LR
 >     subgraph Failures["四大变革性系统失灵"]
@@ -150,7 +150,7 @@ updated: 2026-11-02
 > - **1962 — [[Market Failure|市场失灵理论]]确立** 肯尼斯·阿罗（Kenneth Arrow）阐释研发活动的外部性与不确定性，确立第一代创新政策的补贴与知识产权逻辑。
 > - **1990s–2000s — 结构性系统失灵提出** [[Evolutionary Economics|演化经济学]]家提出国家[[Systems of Innovation|创新系统]]框架，聚焦组织间网络联系薄弱与制度基础设施不足等第二代失灵。
 > - **2012 — 变革性系统失灵正式建构** 韦伯与罗拉赫在 *Research Policy* 提出涵盖方向性、需求表达、协调与[[Reflexivity|反思性]]的四大失灵框架，奠定第三代转型创新政策理论基础。
-> - **2020 — 使命政策空间与动态路径整合** 万岑伯克等人将四大失灵融入问题–解决方案空间，提出通过差异化收敛路径克服特定系统失灵的治理策略。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–485)]]
+> - **2020 — 使命政策空间与动态路径整合** 万岑伯克等人将四大失灵融入问题–解决方案空间，提出通过差异化汇合路径克服特定系统失灵的治理策略。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–485)]]
 
 ---
 
@@ -168,4 +168,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将变革性系统失灵理论应用于使命政策分析，构建了解构社会挑战并在二维空间中实现路径收敛的治理模型。
+> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将变革性系统失灵理论应用于使命政策分析，构建了解构社会挑战并在二维空间中实现路径汇合的治理模型。

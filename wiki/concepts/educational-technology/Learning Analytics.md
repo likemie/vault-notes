@@ -106,10 +106,10 @@ updated: 2026-11-02
 ---
 
 > [!feature] 学习分析的技术与治理核心构件
-> - **全息数据追踪与数字海洋（Digital Ocean）** 从传统教育评价的“数字荒漠”跃升为对学习过程细粒度数字痕迹（交互频率、测验耗时、视频回放、讨论区语义）的全面捕获。[[Argument_Thompson_2022_Promising_Student\|(Behrens & DiCerbo, 2014; Thompson et al., 2022, p. 224)]]
+> - **全息数据追踪与数字海洋（Digital Ocean）** 从传统教育评价的“数字荒漠”提升为对学习过程细粒度数字痕迹（交互频率、测验耗时、视频回放、讨论区语义）的全面捕获。[[Argument_Thompson_2022_Promising_Student\|(Behrens & DiCerbo, 2014; Thompson et al., 2022, p. 224)]]
 > - **学习者建模与预测分类（Learner Modeling）** 基于多源认知与行为数据构建预测模型（如 ASAP 分类器），早期识别学业失败风险或高潜能力特质。[[Argument_Thompson_2022_Promising_Student\|(Pea, 2014; Thompson et al., 2022, p. 224)]]
 > - **纵向[[Learning Gain\|学习增益]]测算（Longitudinal Gain Analytics）** 借助[[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）与[[Item Response Theory\|项目反应理论]]（IRT），对学生在大学就读期间的[[Higher-Order Thinking Skills\|高阶思维]]与跨学科能力增量实施跨年级追踪评估。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
-> - **仪表盘可视化与即时反馈闭环（Dashboards & [[Feedback]] Loop）** 将复杂算法输出转化为红绿警戒色、进度条与推荐雷达图，驱动个性化自适应学习或辅导员先发制人干预。[[Argument_Amos_2022_Springer\|(Amos, 2022, pp. 56–57)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, pp. 242–245)]]
+> - **仪表盘可视化与即时反馈反馈回路（Dashboards & [[Feedback]] Loop）** 将复杂算法输出转化为红绿警戒色、进度条与推荐雷达图，驱动个性化自适应学习或辅导员先发制人干预。[[Argument_Amos_2022_Springer\|(Amos, 2022, pp. 56–57)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, pp. 242–245)]]
 
 ---
 
@@ -181,14 +181,14 @@ updated: 2026-11-02
 >
 > | 研究 / 项目 | 样本规模与实施情境 | 研究设计与数据源 | 核心考察[[Variable\|变量]] | 原始统计与实证发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 17–19)]] / HEFCE 计划 | 英国 70 余所高校，13 项试验子项目 | 纵向跨阶段追踪与自适应测验 | 本科生通用能力增益与院校增值 | 证实结合 [[Collegiate Learning Assessment\|CLA+]] 等工具可实现跨年级[[Learning Gain\|学习增益]]测查，但对高校内部教学考核方式产生长远反思重塑 | 验证了学习分析从点击流向高阶认知增益分析跃迁的政策可行性 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 17–19)]] / HEFCE 计划 | 英国 70 余所高校，13 项试验子项目 | 纵向跨阶段追踪与自适应测验 | 本科生通用能力增益与院校增值 | 证实结合 [[Collegiate Learning Assessment\|CLA+]] 等工具可实现跨年级[[Learning Gain\|学习增益]]测查，但对高校内部教学考核方式产生长远反思重塑 | 验证了学习分析从点击流向高阶认知增益分析转向的政策可行性 |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 18)]] / 意大利 TECO 测评 | 意大利 23 所大学逾 6,000 名本科生 | 机考化纵向能力测评分析 | 跨学科核心通用能力分布 | 成功建立全国性大学生高阶素养基准数据库，为大学质量保障提供跨校可比增益依据 | 展示了全国性机考分析平台在支持高校自我诊断中的效能 |
 > | Klinge et al. (2020)（引自 [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 243–244]]） | 数字健康与学习仪表盘实验参与者 | 质性追踪与用户情绪测量 | 仪表盘色彩符号的情感冲击力 | 即使专家已口头澄清结果无大碍，被仪表盘“红色”标示的参与者仍经历数周焦虑与行为自抑 | 证实仪表盘视觉符号具有压倒理性评估的强烈情感与行为[[Disciplina and Doctrina\|规训]]效应 |
 
 ---
 
 > [!evidence-grid] 相关文献索引
-> - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统评述 [[Higher Education Funding Council for England\|HEFCE]]、[[KoKoHs Program\|KoKoHs]]、[[TECO Project\|TECO]] 等大规模[[Learning Gain\|学习增益]]分析项目，指出机考分析技术在测查高阶素养时的[[Construct\|构念]]有效性挑战与政策杠杆。
+> - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统评述 [[Higher Education Funding Council for England\|HEFCE]]、[[KoKoHs Program\|KoKoHs]]、[[TECO Project\|TECO]] 等大规模[[Learning Gain\|学习增益]]分析项目，指出机考分析技术在测查高阶素养时的[[Construct\|构念]]有效性挑战与政策手段。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] — 批判性考察在线自我评估（[[Online Self-Assessment\|OSA]]）中的学习分析技术，揭示[[Preemptive Governance\|先发制人治理]]、[[Digital Self\|数字自我]]与“有前景学生”的主体性规训机制。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 剖析[[Educational Technology Industry\|教育技术产业]]如何将学习分析包装为教师专业发展工具，指出其实证效益不足与[[Transhumanism\|超人类主义]]效率导向。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 探讨算法时代的教化（[[Bildung]]）危机，分析仪表盘色彩象征与[[Gamification\|游戏化]]代币对学生认知的[[Data Behaviorism\|数据行为主义]]驯化。

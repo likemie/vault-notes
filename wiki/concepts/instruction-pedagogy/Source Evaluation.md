@@ -5,7 +5,7 @@ aliases:
   - 来源评估
   - 来源审验
   - Sourcing Heuristic
-summary: "在多文本阅读与数字化探究中，学习者主动审验作者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
+summary: "在多文本阅读与数字化探究中，学习者主动审验撰写者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
 type: concept
 domain: "instruction-pedagogy"
 related_count: 40
@@ -84,9 +84,9 @@ updated: 2026-11-02
 > *Source evaluation involves examining whether the source has the competence, [[Benevolence]], and authority to convey truth. In GenAI interactions, learners question the evidence and literature underlying AI claims to guard against algorithmic authority.*
 
 > [!boundary]- 概念边界
-> - 与 **[[Source of Knowledge\|知识来源]]（Source of Knowledge）** 的关系 — [[Source of Knowledge\|知识来源]]是教育心理学中个体关于“知识究竟驻留何处、由谁产生”的内在[[Epistemological Beliefs\|认识论信念]]维度（外部权威垄断 vs 内部主动建构）；而信源评估则是这一信念在真实阅读与网络探究中的 **[[Operationalization\|操作化]]行为体现与显性教学框架**（如何具体核查作者资质、排查利益偏见与比对多源证据）。
+> - 与 **[[Source of Knowledge\|知识来源]]（Source of Knowledge）** 的关系 — [[Source of Knowledge\|知识来源]]是教育心理学中个体关于“知识究竟驻留何处、由谁产生”的内在[[Epistemological Beliefs\|认识论信念]]维度（外部权威垄断 vs 内部主动建构）；而信源评估则是这一信念在真实阅读与网络探究中的 **[[Operationalization\|操作化]]行为体现与显性教学框架**（如何具体核查撰写者资质、排查利益偏见与比对多源证据）。
 > - 不等于 **一般文本理解（Content Comprehension）** — 文本理解聚焦于命题表征与段落语义重构；信源评估聚焦于文本的外部附带线索（Metadata）及其与[[Knowledge Production\|知识生产]]情境的关联。
-> - 不等于 **绝对怀疑论（Cynical Skepticism）** — 信源评估的目标并非全盘否定所有信息源，而是建立理性的证据[[Justificatory Standards\|确证标准]]，区分专业共识与商业营销、科学事实与主观偏见。
+> - 不等于 **绝对怀疑论（Cynical Skepticism）** — 信源评估的目标是建立理性的证据[[Justificatory Standards\|确证标准]]，区分专业共识与商业营销、科学事实与主观偏见，有别于全盘否定所有信息源。
 
 ---
 
@@ -95,16 +95,16 @@ updated: 2026-11-02
 > |---|---|---|
 > | **[[Construct\|构念]]性质** | 外显认知策略、批判性阅读技能与教学干预框架 | 内在认识论信念维度（个人[[Epistemological Theories\|认识论理论]]的核心成分） | 内在认知标准与[[Epistemic Ideals\|认识论理想]]（衡量何为主张成立的准则） |
 > | **学科归属** | 教学法与教学设计（instruction-pedagogy）、阅读心理学 | 教育心理学（educational-psychology）、发生[[Epistemology\|认识论]] | 教育心理学、认知哲学、科学教育 |
-> | **探讨核心** | 如何甄别作者资质、机构背景与潜在利益冲突 | 知识驻留在全知外部权威中，还是由主体自主建构 | 依靠个人直觉、权威断言，还是逻辑与经验数据协调 |
+> | **探讨核心** | 如何甄别撰写者资质、机构背景与潜在利益冲突 | 知识驻留在全知外部权威中，还是由主体自主建构 | 依靠个人直觉、权威断言，还是逻辑与经验数据协调 |
 > | **干预成效** | 元分析显示显性策略教学产生极高学业促进（$d = 0.800$） | 传统抽象信念转变较慢，需经由信源评估等外显练习内化 | 随认识论干预显著升级，直接驱动论证表现提升（$d = 1.047$） |
 
 ---
 
 > [!feature] 信源评估的核心维度与操作规程
-> - **作者专业资质审验（Author Expertise）** 核查信息撰写者是否具有该领域的专业知识、学术训练或实践经验，区分具备同行评议资质的专业人士与无学术背景的网络撰稿人。
+> - **撰写者专业资质审验（Author Expertise）** 核查信息撰写者是否具有该领域的专业知识、学术训练或实践经验，区分具备同行评议资质的专业人士与无学术背景的网络撰稿人。
 > - **机构立场与利益冲突甄别（Affiliation & Bias Detection）** 追查信息发布机构的性质（如非营利科研机构、政府部门、商业赞助智库或企业营销平台），评估是否存在潜在的商业利益捆绑或意识形态偏见。
 > - **跨文本交叉印证（Corroboration）** 将单一信源的核心论断置于多元文献网络中比对，检验该论断是否得到主流科学共同体或独立第三方证据的互相印证。
-> - **[[Lateral Reading\|横向阅读]]规程（Lateral Reading）** 突破在单一页面内部上下滑动的纵向阅读习惯，迅速打开新标签页主动检索外部中立来源对该作者与机构的声誉评价，避免被精美的页面设计误导。
+> - **[[Lateral Reading\|横向阅读]]规程（Lateral Reading）** 突破在单一页面内部上下滑动的纵向阅读习惯，迅速打开新标签页主动检索外部中立来源对该撰写者与机构的声誉评价，避免被精美的页面设计误导。
 > - **生成式 AI 二手信源溯源与文献追问（AI Source & Evidence Tracing）** 识别生成式 AI 作为第二手信息合成者的本质，主动追问模型输出背后的文献出处、同行评议共识及科学实验依据，对照教科书与一手权威资料排查模型捏造与断章取义。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]]
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-11-02
 > **探讨维度　[[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制** 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
 
 > [!claim] Cartiff, B. M.
-> **显性信源评估教学的高效应红利** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，教学框架对学业表现展现出显著的调节作用。以显性讲授信源评估为核心框架的[[Intervention Research\|干预研究]]（如 Mason et al., 2014）录得了高达 $d = 0.800$ 的大效应量，与[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）共同位列六类教学框架之首。实证表明，单纯让学生沉浸于海量网络信息进行自由探索，极易导致认知超载与盲从表面权威；相反，当教师明确示范并提供具体的信源查验清单（检查作者资历、核实发布机构意图、寻找数据支撑）时，学生能迅速掌握可操作的批判性[[Scaffolding\|脚手架]]，将抽象的怀疑态度转化为有条理的跨文本分析，显著提升深层学业表现。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
+> **显性信源评估教学的高效应红利** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，教学框架对学业表现展现出显著的调节作用。以显性讲授信源评估为核心框架的[[Intervention Research\|干预研究]]（如 Mason et al., 2014）录得了高达 $d = 0.800$ 的大效应量，与[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）共同位列六类教学框架之首。实证表明，单纯让学生沉浸于海量网络信息进行自由探索，极易导致认知超载与盲从表面权威；相反，当教师明确示范并提供具体的信源查验清单（检查撰写者资历、核实发布机构意图、寻找数据支撑）时，学生能迅速掌握可操作的批判性[[Scaffolding\|脚手架]]，将抽象的怀疑态度转化为有条理的跨文本分析，显著提升深层学业表现。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
 
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-11-02
 > **探讨维度　策略练习与[[Epistemological Beliefs\|认识论信念]]重塑的动力学机制** 探讨具体的阅读与评估行为如何推动学生底层认知结构的质变。
 
 > [!claim] Bråten, I.
-> **认知行为反哺信念成熟假说** 伊瓦尔·布拉滕（Ivar Bråten）等学者指出，个体的认识论信念并非仅通过哲学说教发生转变，而是深度内嵌于具体的[[Problem Solving\|问题解决]]与阅读行为中。信源评估教学迫使学习者直面不同权威之间的观点对立与证据冲突，粉碎了“权威天然代表绝对真理”的朴素绝对主义观念。通过日复一日对信源资质、立场与证据力度的系统审验，学习者逐步确立起“知识是由不同主体在特定情境中基于证据建构”的成熟[[Source of Knowledge\|知识来源]]信念，实现了从被动的信息接收者向审慎的理性评价者的本质飞跃。
+> **认知行为反哺信念成熟假说** 伊瓦尔·布拉滕（Ivar Bråten）等学者指出，个体的认识论信念是深度内嵌于具体的[[Problem Solving\|问题解决]]与阅读行为中，有别于仅通过哲学说教发生转变。信源评估教学迫使学习者直面不同权威之间的观点对立与证据冲突，粉碎了“权威天然代表绝对真理”的朴素绝对主义观念。通过日复一日对信源资质、立场与证据力度的系统审验，学习者逐步确立起“知识是由不同主体在特定情境中基于证据建构”的成熟[[Source of Knowledge\|知识来源]]信念，实现了从被动的信息接收者向审慎的理性评价者的本质飞跃。
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-11-02
 > **探讨维度　智能时代信源评估客体演化维度** 探讨大语言模型如何遮蔽[[Primary and Secondary Documents|原始文献]]出处，以及学习者如何通过显性提问提示语对 AI 展开二手信源审问。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
-> **[[Man-Computer Symbiosis|人机协同]]中的第二手信源审验与权威共识对照机制** [[Generative Artificial Intelligence|生成式人工智能]]并非一手[[Knowledge Production|知识生产]]者，而是通过统计模型重组互联网数据的第二手信息中介。在利用 GenAI 建构[[Scientific Explanation|科学解释]]时，初中生在显性反思提问提示语（如“这与课本一致吗”、“谁支持该观点”）引导下，系统展开针对 AI 输出的二手信源评估（Second-hand Source Evaluation）：
+> **[[Man-Computer Symbiosis|人机协同]]中的第二手信源审验与权威共识对照机制** [[Generative Artificial Intelligence|生成式人工智能]]是通过统计模型重组互联网数据的第二手信息中介，有别于一手[[Knowledge Production|知识生产]]者。在利用 GenAI 建构[[Scientific Explanation|科学解释]]时，初中生在显性反思提问提示语（如“这与课本一致吗”、“谁支持该观点”）引导下，系统展开针对 AI 输出的二手信源评估（Second-hand Source Evaluation）：
 > - **文献依据追问** 主动追问 AI 给出断言背后的原始研究、科学家观点或教科书依据；
 > - **权威共识对照** 将 AI 生成的因果机制与权威教材或课程标准进行严格比对，识别模型遗漏与事实扭曲；
 > - **算法中介局限体认** 清醒体认大模型输出只是待检验的认知线索，而非不可质疑的学科权威。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5, 18–22)]]
@@ -156,7 +156,7 @@ updated: 2026-11-02
 
 > [!critique] 形式化核查的局限
 > - **检查清单陷阱（Checklist Trap）** 传统教学常使用简单的评分清单（如 CRAAP 测试），但研究发现商业公关公司与虚假信息网站极易通过精美排版和伪造履历轻松通过常规静态清单的检查，僵化的规则套用可能误导学生。
-> - **算法推荐与生成式 AI 的线索遮蔽** 在[[Generative Artificial Intelligence\|生成式人工智能]]与自媒体聚合平台普及的背景下，原始作者、首发机构与资助背景被深度掩盖或重新整合，传统基于文本出处的信源评估规则面临严峻的技术挑战。
+> - **算法推荐与生成式 AI 的线索遮蔽** 在[[Generative Artificial Intelligence\|生成式人工智能]]与自媒体聚合平台普及的背景下，原始撰写者、首发机构与资助背景被深度掩盖或重新整合，传统基于文本出处的信源评估规则面临严峻的技术挑战。
 
 ---
 

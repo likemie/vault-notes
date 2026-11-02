@@ -51,7 +51,7 @@ updated: 2026-11-02
 > - **边界** 严格区别于带来规则质变的[[Institutional Layering|制度层叠]]；[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出博阿斯将该模型借用层叠概念属于概念错置，其机制本质属于**路径依赖自我强化与制度再生产（Institutional Reproduction）**。
 
 > [!citation-card] 复合标准模型与厚度商机制
-> 机构或技术体系可以被视为构成一个复合标准，其组成部分是一整套简单标准序列。复合标准为使用者带来了报酬递增，尤其当更多用户采纳时更是如此。外围标准的增加、移除或修改并不会改变核心标准；外围需要核心，但核心并不依赖外围；然而外围组件越多，系统对用户的价值就越高——这被称为厚度商。外围层叠并未导致制度核心改变，而是加固了核心，并使改变核心变得愈发困难。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
+> 机构或技术体系可以被视为构成一个复合标准，其组成部分是一整套简单标准序列。复合标准为使用者带来了报酬递增，尤其当更多用户采纳时更是如此。外围标准的增加、移除或修改并不会改变核心标准；外围需要核心，但核心并不依赖外围；然而外围组件越多，系统对用户的价值就越高——这被称为厚度商。外围层叠并未导致制度核心改变，是加固了核心，并使改变核心变得愈发困难。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
 >
 > *Institutions can be thought of as constituting a composite standard, with a whole series of simple standards as its component parts ... The standards need the core, not the other way round, although the more components there are, the more valuable the Internet becomes to its users – Boas refers to this as the 'thickness quotient' ... as his layering does not result in changing the institutional core but in strengthening it and, furthermore, by making it increasingly difficult to change that core.*
 
@@ -65,7 +65,7 @@ updated: 2026-11-02
 > | 维度 | 复合标准模型（Composite-Standard Model） | [[Institutional Layering\|制度层叠]]（Institutional Layering） | 简单[[Path Dependence\|路径依赖]]模型（Simple Increasing Returns） |
 > |---|---|---|---|
 > | **系统架构** | 底层复合核心标准 + 上层简单外围标准序列 | 既有核心制度框架 + 顶端附加的新规则与机构 | 单一技术或制度标准在时间轴上的扩散 |
-> | **外围对核心的作用** | 强化核心合法性与不可替代性，推高转换壁垒 | 逐步侵蚀旧规则垄断权威，改变规约行为方式 | 不强调核心与外围的分层结构 |
+> | **外围对核心的作用** | 强化核心合法性与不可替代性，推高转换壁垒 | 逐步侵蚀旧规则垄断权威，改变规范行为方式 | 不强调核心与外围的分层结构 |
 > | **变迁性质** | **制度再生产与路径锁定**（保持原轨道） | **渐进制度转型**（偏离或重塑原轨道） | **均衡锁定与路径僵化**（次优技术固化） |
 > | **代表[[Document\|文献]]** | Boas (2007); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | [[Kathleen Thelen\|Thelen (2004)]]; Mahoney and Thelen (2010) | David (1985); Arthur (1989) |
 
@@ -101,7 +101,7 @@ updated: 2026-11-02
 > **探讨维度　概念边界与制度再生产判读** 探讨如何准确界定外围图层增加的真实理论内涵，防范将巩固旧核心的路径依赖现象误读为渐进制度转型。
 
 > [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
-> **概念错置批判与再生产定性** 当代学者常借用希伦的层叠术语分析技术与政策演进，但博阿斯模型所描述的实质过程恰恰不是制度变迁，而是制度再生产与制度加固。在外围增加新简单标准并没有改变核心，而是让改变核心变得更加不可能；若不严格区分这两类机制，将导致[[Institutional Layering|制度层叠]]概念丧失解释制度转型的理论比较优势。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> **概念错置批判与再生产定性** 当代学者常借用希伦的层叠术语分析技术与政策演进，但博阿斯模型所描述的实质过程恰恰是制度再生产与制度加固，有别于制度变迁。在外围增加新简单标准并没有改变核心，是让改变核心变得更加不可能；若不严格区分这两类机制，将导致[[Institutional Layering|制度层叠]]概念丧失解释制度转型的理论比较优势。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---
 
@@ -115,15 +115,15 @@ updated: 2026-11-02
 
 > [!dev-timeline] 复合标准模型概念演进
 > - **1985–1989 — 报酬递增与[[Path Dependence|技术锁定]]数学模型奠基** 保罗·戴维与布莱恩·阿瑟（David, 1985; Arthur, 1989）建立经典路径依赖[[Analytic Framework|分析框架]]。
-> - **2007 — 博阿斯正式建立复合标准模型** 泰勒·博阿斯发表经典论文，将互联网 TCP/IP 与应用层标准形式化为复合标准模型，提出厚度商概念。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
+> - **2007 — 博阿斯正式建立复合标准模型** 泰勒·博阿斯发表经典文章，将互联网 TCP/IP 与应用层标准形式化为复合标准模型，提出厚度商概念。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
 > - **2011 — [[Jeroen van der Heijden|范德海登]]学术史反思与边界界定** 范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）通过系统[[Document|文献]]考证，指出博阿斯将该模型与[[Institutional Layering|制度层叠]]相挂钩属于概念错置，确立其作为路径依赖与制度再生产典型[[Paradigm|范式]]的真实定位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---
 
 > [!debates] 学术争议
 > 
-> > [!axis] 底层绝对锁定与外围倒逼解耦的演化可能性
-> > 争论聚焦于高厚度商是否必然导致底层永久刚性锁定，抑或外围创新能够积累到某一临界点实现底层架构的模块化解耦。
+> > [!axis] 底层绝对锁定与外围倒逼脱钩的演化可能性
+> > 争论聚焦于高厚度商是否必然导致底层永久刚性锁定，抑或外围创新能够积累到某一临界点实现底层架构的模块化脱钩。
 > > 
 > > - **刚性锁定派（Boas, 2007）** 强调网络外部性与转换成本具有天然垄断性，外围越繁荣，底层被替代的概率越趋近于零。
 > > - **模块化颠覆派** 指出随着技术协议演进，通过虚拟化与中间件封装等技术手段，可以在保持外围接口稳定的前提下对底层硬件或协议实施静默替换，打破单一垄断锁定。

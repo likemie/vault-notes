@@ -69,7 +69,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **核心含义** 将国家定位为重大科技与社会转型的愿景引领者与演化学习者的统一体，实现探索与利用的双元平衡。
 > - **实践用途** 破解传统政策评估在面对非线性、高度不确定性的创新探索时产生的认知瘫痪与青蛙视角（Frog View），克服复杂议题导致部门壁垒加剧的[[Complexity Paradox|复杂性悖论]]。
-> - **概念边界** 引领不等于旧式计划经济的僵化指令，学习不等于漫无目的的被动试错，而是围绕明确使命展开的适应性敏捷探索循环。
+> - **概念边界** 引领不等于旧式计划经济的僵化指令，学习不等于漫无目的的被动试错，是围绕明确使命展开的适应性敏捷探索循环。
 
 > [!citation-card] 卡特尔与马祖卡托论从支持与测量向引领与学习转变
 > 应对 21 世纪的[[Grand Challenges|重大挑战]]，创新政策必须从既有的支持与衡量方法（寻找市场失灵、用扶持工具修补并衡量其影响）转向引领与学习方法（运用多样化政策工具开辟与塑造具有[[Open-Mindedness|开放性]]影响视野的市场，并通过广泛的社会参与和协调实现组织学习）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
@@ -86,7 +86,7 @@ updated: 2026-11-02
 >
 > | 比较维度 | 支持与测量范式（Support-and-Measure） | 引领与学习范式（Lead-and-Learn） |
 > |:---|:---|:---|
-> | **理论底座** | 新古典福利经济学与[[New Public Management\|新公共管理]]（NPM）。 | [[Evolutionary Economics\|演化经济学]]、韦伯国家能力理论与复杂系统论。 |
+> | **理论基础** | 新古典福利经济学与[[New Public Management\|新公共管理]]（NPM）。 | [[Evolutionary Economics\|演化经济学]]、韦伯国家能力理论与复杂系统论。 |
 > | **政府角色定位** | [[Market Failure\|市场失灵]]的事后修补者与被动补贴者。 | [[Market Shaping and Creating\|市场塑造]]者、前沿方向引领者与演化学习伙伴。 |
 > | **应对复杂性机制** | 简化规程、强化部门分工与刚性指标合规（易陷入[[Complexity Paradox\|复杂性悖论]]）。 | 跨部门政策组合、[[Picking the Willing\|遴选意愿者]]与适应性网络协调。 |
 > | **政策工具运用** | 孤立割裂的单点扶持工具（如研发税收抵免或单一贷款担保）。 | 战略研发、前沿采购、示范项目与监管标准构成的协同政策组合。 |
@@ -110,7 +110,7 @@ updated: 2026-11-02
 > **探讨维度　政策复杂性与组织协调维度** 探讨现代政府面对复杂交织议题时如何避免退守部门壁垒与行政碎片化。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **化解[[Complexity Paradox|复杂性悖论]]** 现代公共政策面临深刻的[[Complexity Paradox|复杂性悖论]]（Sweeney, 1985）：议题越复杂，行政机构越倾向于通过条块分割和细化规则来规避风险，导致跨部门协调机制全面失效。引领与学习[[Paradigm|范式]]通过设立具备统摄力与高辨识度的重大战略使命（Lead），将分散的部门规程重新锚定于共同目标，并依托跨部门[[Internet-Based Experiments|网络实验]]（Learn）打破条块分割，从根本上化解协调失灵。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 800)]]
+> **化解[[Complexity Paradox|复杂性悖论]]** 现代公共政策面临深刻的[[Complexity Paradox|复杂性悖论]]（Sweeney, 1985）：议题越复杂，行政机构越倾向于通过条块分割和细化规则来规避风险，导致跨部门协调机制全面失效。引领与学习[[Paradigm|范式]]通过设立具备统领力与高辨识度的重大战略使命（Lead），将分散的部门规程重新锚定于共同目标，并依托跨部门[[Internet-Based Experiments|网络实验]]（Learn）打破条块分割，从根本上化解协调失灵。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 800)]]
 
 ---
 
@@ -126,7 +126,7 @@ updated: 2026-11-02
 > **探讨维度　组织能力与制度保障维度** 探讨该范式落地所必须具备的公共行政支撑条件。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **三层[[Public Dynamic Capabilities|公共动态能力]]支撑** 引领与学习不是抽象概念，必须由[[Public Dynamic Capabilities|公共动态能力]]作为组织载体支撑：在国家层面展现构建使命合法性的政治领导力；在政策层面统筹战略研发、需求侧采购与规制标准协同；在行政层面吸纳设计、技术专才组建敏捷流动团队。三层能力有机协同，才能确保引领具备战略威权、学习具备执行反馈通道。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
+> **三层[[Public Dynamic Capabilities|公共动态能力]]支撑** 引领与学习有别于抽象概念，必须由[[Public Dynamic Capabilities|公共动态能力]]作为组织载体支撑：在国家层面展现构建使命合法性的政治领导力；在政策层面统筹战略研发、需求侧采购与规制标准协同；在行政层面吸纳设计、技术专才组建敏捷流动团队。三层能力有机协同，才能确保引领具备战略威权、学习具备执行反馈通道。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
 
@@ -141,9 +141,9 @@ updated: 2026-11-02
 > [!contrast-table] 引领与学习范式核心命题矩阵
 > | 命题维度 | 核心主张 | 克服的传统陷阱 | 关键机制与支撑条件 |
 > |:---|:---|:---|:---|
-> | **战略协调** | 统摄性使命打破跨部门条块分割 | [[Complexity Paradox\|复杂性悖论]]与部门利益壁垒 | 明确的[[Directionality of Innovation\|创新方向性]]与战略统筹 |
+> | **战略协调** | 统领性使命打破跨部门条块分割 | [[Complexity Paradox\|复杂性悖论]]与部门利益壁垒 | 明确的[[Directionality of Innovation\|创新方向性]]与战略统筹 |
 > | **评估机制** | [[Reflexivity\|反思性]]系统学习替代静态计量 | NPM 的青蛙视角与短期 [[Cost-Benefit Analysis\|CBA]] 考核 | 敏捷原型、动态里程碑与用户共创 |
-> | **组织能力** | 三层公共动态能力提供制度底座 | 官僚僵化与外部咨询过度依赖 | 国家合法性、政策组合与行政流动性 |
+> | **组织能力** | 三层公共动态能力提供制度基础 | 官僚僵化与外部咨询过度依赖 | 国家合法性、政策组合与行政流动性 |
 > | **代际适配** | 专属契合第三代社会技术复杂使命 | 狮子形态硬性指令在社会领域的失灵 | 网络化“孩童”形态与[[Picking the Willing\|遴选意愿者]] |
 
 ---

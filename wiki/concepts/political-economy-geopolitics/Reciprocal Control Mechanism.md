@@ -61,7 +61,7 @@ updated: 2026-11-02
 > *According to prominent industrial policy scholars, targeted funding like that envisaged by the US [[CHIPS and Science Act|CHIPS Act]] and the [[European Chips Act|EU Chips Act]] can only yield positive societal impact when the transfer of financial resources from the public to the private sector is conditional to the fulfilment of public goals by private actors. This engagement typically comes in the form of contractual relationships based on [[Policy Conditionalities|Conditionalities]].*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Policy Conditionalities|政策附加条件]] — 政策附加条件是具体的条文清单或制度工具；对等控制机制则是统摄这些工具、强调国家规制权威与双向责任对等的核心治理原则与[[Analytic Framework|分析框架]]。
+> - 不等于 [[Policy Conditionalities|政策附加条件]] — 政策附加条件是具体的条文清单或制度工具；对等控制机制则是统领这些工具、强调国家规制权威与双向责任对等的核心治理原则与[[Analytic Framework|分析框架]]。
 > - 不等于自由市场的商业采购契约 — 商业契约追求微观利润最大化；对等控制机制服务于宏观[[Strategic Autonomy|战略自主]]、国家安全、社会公平与[[Public Value|公共价值]]实现。
 
 ---
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > **探讨维度　财政集权与多层级治理效能** 探讨治理结构如何决定国家对跨国巨头施加附加条件的议价底气。
 
 > [!claim] 多层级去中心化导致对等控制弱化
-> 当出资主体不是统一中央政府而是分散的成员国时（如[[EU|欧盟]]模式），各国为了争夺项目落地会陷入补贴竞次（Race to the bottom），跨国芯片巨头反客为主成为规则制定者；[[European Commission|欧盟委员会]]因自身不出资，只能在极度受限的突发断链危机下设定脆弱的优先排产要求，其对等规制强度远逊于由联邦财政集权直接实施的美国对等控制体系。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 15–17)]]
+> 当出资主体有别于统一中央政府是分散的成员国时（如[[EU|欧盟]]模式），各国为了争夺项目落地会陷入补贴竞次（Race to the bottom），跨国芯片巨头反客为主成为规则制定者；[[European Commission|欧盟委员会]]因自身不出资，只能在极度受限的突发断链危机下设定脆弱的优先排产要求，其对等规制强度远逊于由联邦财政集权直接实施的美国对等控制体系。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 15–17)]]
 
 ---
 
@@ -102,13 +102,13 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **防范寻租与公共回报** | 国家资源让渡必须以公共目标和利润分享为法定前提 | 重资产战略制造业补贴 | Amsden (2001); Mazzucato and Rodrik (2023) |
-> | **财政集权与规制权威** | 统一财政直接出资是维系对等控制可置信威慑力的制度底座 | 跨国与多层级产业政策协调 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] |
+> | **财政集权与规制权威** | 统一财政直接出资是维系对等控制可置信威慑力的制度基础 | 跨国与多层级产业政策协调 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **2001 年 — 后发工业化国家理论奠基** 发展经济学家爱丽丝·阿姆斯登（Alice Amsden）在《“其余国家”的崛起》（*The [[Research in Schools Evaluation|RISE]] of 'the Rest'*）中正式确立“对等控制机制”概念，指出东亚后发经济体成功的关键在于政府将出口配额、质量标准与国产化率作为向私营财阀发放补贴和贷款的法定交换条件。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
-> - **2023 年 — [[Modern Industrial Policy|现代产业政策]]附加条件分类学** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）与丹尼·罗德里克（Dani Rodrik）发表工作论文，系统建立涵盖获取条件、利润分享条件与运营约束的附加条件分类学，将对等控制从传统东亚追赶语境拓展为全球绿色与数字转型的普适原则。
+> - **2023 年 — [[Modern Industrial Policy|现代产业政策]]附加条件分类学** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）与丹尼·罗德里克（Dani Rodrik）发表工作文章，系统建立涵盖获取条件、利润分享条件与运营约束的附加条件分类学，将对等控制从传统东亚追赶语境拓展为全球绿色与数字转型的普适原则。
 > - **2024 年 — 地缘大国半导体产业政策实证检验** 布尔福内等人将对等控制机制运用于美欧[[CHIPS and Science Act|芯片法案]]比较，揭示集权模式（美）与去中心化协调模式（欧）在对等控制强度与政策成效上的深层制度鸿沟。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 15–17)]]
 
 ---

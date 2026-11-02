@@ -6,7 +6,7 @@ aliases:
   - 项目经理嵌入治理模式
   - DARPA innovation model
   - ARPA model
-summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，而是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
+summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 32
@@ -70,11 +70,11 @@ updated: 2026-11-02
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 突破传统市场价格机制与科层同行评议对颠覆性创新的抑制，在极高不确定性领域实现 0 到 1 的革命性跨越。
-> - **理论争议焦点** 既有[[Document|文献]]常将其表面化地归结为“灵活采办合同（如[[Other Transaction Authority|其他交易授权]] OTA）”或“敢于容忍失败的[[Organizational Culture|组织文化]]”；[[Argument_Fuchs_2010_RP|Fuchs (2010)]]明确指出，**DARPA 模式的真正内核是一线项目经理所执行的[[Embedded Network Governance|嵌入型网络治理]]（Embedded Network Governance）**。
+> - **理论争议焦点** 既有[[Document|文献]]常将其表面化地归结为“灵活采办合同（如[[Other Transaction Authority|其他交易授权]] OTA）”或“敢于容忍失败的[[Organizational Culture|组织文化]]”；[[Argument_Fuchs_2010_RP|Fuchs (2010)]]明确指出，**DARPA 模式的真正核心是一线项目经理所执行的[[Embedded Network Governance|嵌入型网络治理]]（Embedded Network Governance）**。
 > - **组织特征** 机构规模极小（数百人）、无自建实验室、项目经理实行 3–5 年严格轮换淘汰制、不采用自下而上的同行评议委员会投票。
 
 > [!citation-card] DARPA 模式的本质：嵌入型网络治理而非形式合同
-> 全球模仿者究竟应当学习 DARPA 模式的什么？本文证明，在采办条规与领导风格剧烈变迁的背后，DARPA 跨越半个世纪维系技术领先的核心，在于项目经理之间稳定传承的一套非正式网络治理制度；项目经理充当网络架构重塑者与乐队指挥家，引导了全美关键技术轨道。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
+> 全球模仿者究竟应当学习 DARPA 模式的什么？这一研究证明，在采办条规与领导风格剧烈变迁的背后，DARPA 跨越半个世纪维系技术领先的核心，在于项目经理之间稳定传承的一套非正式网络治理制度；项目经理充当网络架构重塑者与乐队指挥家，引导了全美关键技术轨道。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
 >
 > *What is the DARPA model that its imitators should be copying? The [[ROOTS]] of DARPA's success lie not in formal procurement rules or organizational culture, but in a set of micro-level informal institutions of embedded network governance practiced by its program managers.*
 
@@ -86,7 +86,7 @@ updated: 2026-11-02
 > | **立项决策主体** | 拥有自主发包权的项目经理（PM） | 学术共同体同行评议评审团 | 政府高级文官与规划委员会 | 投资委员会与合伙人会议 |
 > | **核心资助逻辑** | 使命导向、容忍高失败率、追求暴击突破 | 好奇心驱动、追求学术严谨与共识 | 战略产业扶持、直接“挑选赢家” | 财务[[Return on Investment\|投资回报率]]与商业退出估值 |
 > | **组织干预深度** | **深度介入** 举办闭门会、重织产学研网络 | **不介入** 纯拨款、尊重学者自由探索 | **直接管制** 准入牌照、价格指导与补贴 | **董事会参与** 战略指导与后续融资对接 |
-> | **项目考核机制** | [[Heilmeier Catechism\|海尔迈耶问卷]]、阶段里程碑考核、随时终止 | 年终进展报告、期刊论文发表计量 | 产量指标、产值规模与出口创汇 | 营收增长、用户增长、上市与并购 |
+> | **项目考核机制** | [[Heilmeier Catechism\|海尔迈耶问卷]]、阶段里程碑考核、随时终止 | 年终进展报告、期刊文章发表计量 | 产量指标、产值规模与出口创汇 | 营收增长、用户增长、上市与并购 |
 
 ---
 
@@ -109,11 +109,11 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜[[DARPA]] 模式的本质不是表面采办条规与[[Organizational Culture|组织文化]]，而是项目经理的微观[[Embedded Network Governance|嵌入型网络治理]]
+> [!concept-proposition] 命题一｜[[DARPA]] 模式的本质是项目经理的微观[[Embedded Network Governance|嵌入型网络治理]]，有别于表面采办条规与[[Organizational Culture|组织文化]]
 > **探讨维度　组织社会学与公共管理学维度** 探讨该模式在跨越数十年的宏观政策动荡与领导人更迭中，为何能够维系颠覆性创新策源力。
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
-> **非正式治理制度对宏观采办变迁的超越** 既有[[Document|文献]]将 [[DARPA]] 的成功归功于宽泛的“创新文化”或特定的采购法案（如 1990 年代对高校的直接资助）。然而实证研究显示，在 2001 年[[Tony Tether|托尼·瑟瑟]]推行严苛军工化改组后，表面合同和资助结构被颠覆，但 DARPA 依然持续催生突破；其根本原因在于项目经理之间传承的五大微观非正式制度（识别方向、播撒构想、闭门强制知识流动、中立背书与机制化退出）保持了高度稳定，这构成了 DARPA 模式不可动摇的内核。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
+> **非正式治理制度对宏观采办变迁的超越** 既有[[Document|文献]]将 [[DARPA]] 的成功归功于宽泛的“创新文化”或特定的采购法案（如 1990 年代对高校的直接资助）。然而实证研究显示，在 2001 年[[Tony Tether|托尼·瑟瑟]]推行严苛军工化改组后，表面合同和资助结构被颠覆，但 DARPA 依然持续催生突破；其根本原因在于项目经理之间传承的五大微观非正式制度（识别方向、播撒构想、闭门强制知识流动、中立背书与机制化退出）保持了高度稳定，这构成了 DARPA 模式不可动摇的核心。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
 
 ---
 
@@ -142,6 +142,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深度解构 [[DARPA]] 模式微观本质的里程碑论文，确立[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深度解构 [[DARPA]] 模式微观本质的里程碑文章，确立[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
 > - Bonvillian and Van Atta (2011) — 提出 DARPA 作为国家技术变革“连通性发动机”的综合分析模型。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成由项目经理下技术赌注的容器，[[ARPA-H]] 与 [[ARPA-E]] 是其延伸；成功在于用对人并给予裁量，[[Focused Research Organization|聚焦研究组织]]则填补另一类资助空缺。

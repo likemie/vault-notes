@@ -66,7 +66,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Global Citizenship
-> 全球公民（Global Citizenship，在教育研究中常延伸为全球公民教育 GCED）在教育语境中不是一个法定的主权身份概念，而是一个关于能力、品质与责任维度的[[Analytic Framework\|分析框架]]。它界定了使个体在全球互联的世界中有效行动、理解多元文化、践行社会正义并关注全球共同议题（如生态可持续性）的一组[[21st Century Skills and Competencies Discourse\|核心素养]]。这一概念挑战了基于[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）的传统国民身份认同。 (引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]] 与 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
+> 全球公民（Global Citizenship，在教育研究中常延伸为全球公民教育 GCED）在教育语境中是一个关于能力、品质与责任维度的[[Analytic Framework\|分析框架]]，有别于一个法定的主权身份概念。它界定了使个体在全球互联的世界中有效行动、理解多元文化、践行社会正义并关注全球共同议题（如生态可持续性）的一组[[21st Century Skills and Competencies Discourse\|核心素养]]。这一概念挑战了基于[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）的传统国民身份认同。 (引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]] 与 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种超越主权国家边界的、跨文化的、生态关怀的受教育者身份（[[Educated Identity]]）重构。
@@ -124,7 +124,7 @@ updated: 2026-11-02
 > **探讨维度　[[Graduate Attributes\|毕业生特质]]的实证检视** 检验大学宣称的国际化全球公民愿景在实际培养与职场感知中的表现，评估其结构性赤字与阻力。
 
 > [!claim] Spronken-Smith, R.
-> **博士教育的边缘化与阻力** 揭示出 PhD 校友对全球公民指标的自我发展感知与实际职场应用评分显著低于专业学术技能。这一系统性缺陷源于高度专精学科导师的防御性劝阻文化（如认为一切时间应用于论文研究），以及对于全球公民是年轻一代代际自然拥有属性等未经证实的盲目假设。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 89–97]])
+> **博士教育的边缘化与阻力** 揭示出 PhD 校友对全球公民指标的自我发展感知与实际职场应用评分显著低于专业学术技能。这一系统性缺陷源于高度专精学科导师的防御性劝阻文化（如认为一切时间应用于文章研究），以及对于全球公民是年轻一代代际自然拥有属性等未经证实的盲目假设。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 89–97]])
 
 > [!claim] Wong, M.
 > **本科毕业生特质的口惠而实不至** 发现英国高校毕业生特质话语中虽广泛包含全球公民和参与意愿，但其实际成分极度不均——仅有少部分大学包含环境意识、[[Language Skills\|外语技能]]与国际网络，显示其在实践操作层面沦为表面化的政策口号。([[Argument_Wong_2022_HERD\|Wong et al., 2022, pp. 1347–1348]])
@@ -163,7 +163,7 @@ updated: 2026-11-02
 > - **地缘[[Re-Westernisation\|再西方化]]战略的代理** [[Revolutionism\|革命主义]]传统学者指出，当前的全球公民[[Discourse|话语]]实际上被注入了大量全球[[Competitiveness|竞争力]]和企业家的商业增殖价值，构成了维系既有不平等世界体系、配合世界秩序再西方化（re-Westernisation）的象征工具。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
 
 > [!warning] 适用局限
-> 概念在实证操作时，容易面临高影响力体验（如国际外展、非官方组织志愿服务）在“一切时间服从论文科研”这一学术霸权文化面前的系统性边缘化。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 97]])
+> 概念在实证操作时，容易面临高影响力体验（如国际外展、非官方组织志愿服务）在“一切时间服从文章科研”这一学术霸权文化面前的系统性边缘化。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 97]])
 
 ---
 

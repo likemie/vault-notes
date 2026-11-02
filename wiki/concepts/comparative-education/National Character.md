@@ -90,7 +90,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **[[Michael Sadler\|Sadler]]** | 民族生活的隐秘运作与活体有机体 | 历史抗争遗留、[[Intangible Spiritual Forces\|无形精神力量]]与内生代偿救治潜能 | 强调学校制度既反映国民性格弱点，又本能地加以救治 |
 > | **[[Isaac Kandel\|Kandel]]** | 民族群体特性的真实[[Externalization\|外化]] | 政治国家意志、文化理想与民族主义投射 | 英国教育的重经验与缺乏规划 vs 法国教育的重理性与条理秩序 |
-> | **[[Nicholas Hans\|Hans]]** | 自然、宗教与世俗历史因素的外在表现 | 历史因果因素综合作用下的国家相貌（Physiognomy） | 历史因素在语言、法治、教派与学校传统中的客观沉淀 |
+> | **[[Nicholas Hans\|Hans]]** | 自然、宗教与世俗历史因素的外在表现 | 历史因果因素综合作用下的国家相貌（Physiognomy） | 历史因素在语言、法治、教派与学校传统中的客观积累 |
 > | **[[Friedrich Schneider\|Schneider]]** | 深层驱动力（*[[Theories of the Driving Forces\|Triebkräfte]]*）网络 | 将国民性格内嵌于地理、经济、宗教与历史文化合力中 | 教育体系作为民族性格与欧洲共同文化传统博弈融合的动态形态 |
 > | **[[Vernon Mallinson\|Mallinson]]** | 思想、情感与行为倾向的总和 | 文化心理连续性与跨世代代际传承 | 教育作为国民性格的函数（Function），承载文化再生产使命 |
 > | **[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]]** | 超越族裔血缘的开放国民认同 | 共同公民叙事、抵抗消费主义与维系高科技共同体 | 维系[[Technological Republic\|技术共和国]]战略生存的大规模协作精神纽带 |
@@ -98,7 +98,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 国民性格[[Construct|构念]]的四大支柱
-> - **历史积淀性（Historical Sedimentation）** 坚信国民性格并非凭空产生，而是民族在数百年乃至上千年的生存斗争、宗教演化与政治博弈中沉淀而成的集体精神结晶。
+> - **历史积淀性（Historical Sedimentation）** 坚信国民性格是民族在数百年乃至上千年的生存斗争、宗教演化与政治博弈中积累而成的集体精神结晶，有别于凭空产生。
 > - **制度镜像性（Institutional Mirroring）** 主张教育组织架构、师生互动、考核选拔与课程内容是国民文化心理的镜像反映，学校无法脱离国民性格而孤立变革。
 > - **思维行动对立投射（Dichotomous Mindset Projection）** 倾向于提炼高度概括的国民思维二元特质，如将英国人概括为排斥抽象理论、崇尚经验行动的实干家，将法国人概括为追求思维纯粹逻辑的观念人。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 55)]]
 > - **内生代偿救治功能（Compensatory Melioration）** 认为国家教育体系具有天然的代偿本能，会潜意识地强化那些本国国民性格中最缺乏的训练环节以弥补民族短板。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 40)]]

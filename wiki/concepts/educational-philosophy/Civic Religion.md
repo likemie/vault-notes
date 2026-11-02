@@ -50,7 +50,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Civic Religion
-> **公民宗教（Civic Religion，或 Civil Religion）** 指一种在现代多元世俗社会中，将国家的建国历史叙事、宪法政治原则、核心思想正典与共同伦理抱负升华而成的公共信仰与价值象征体系。该体系不依附于特定的排他性宗教宗派教义，而是作为凝聚跨越阶层、种族与地域分歧的公民身份纽带，为民主共和国的公共参与、制度信任与集体繁荣提供超越个人私利与狭隘市场功利的深层道德动力与合法性基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> **公民宗教（Civic Religion，或 Civil Religion）** 指一种在现代多元世俗社会中，将国家的建国历史叙事、宪法政治原则、核心思想正典与共同伦理抱负升华而成的公共信仰与价值象征体系。该体系不依附于特定的排他性宗教宗派教义，是作为凝聚跨越阶层、种族与地域分歧的公民身份纽带，为民主共和国的公共参与、制度信任与集体繁荣提供超越个人私利与狭隘市场功利的深层道德动力与合法性基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向维系政治共同体生存所必需的、超越单纯物质利益计算与法律程序的世俗公共信仰纽带。
@@ -116,7 +116,7 @@ updated: 2026-11-02
 > **探讨维度　道德资本透支与公共精神危机** 探讨后现代西方解构历史正典与宗教传统对国家生存能力施加的侵蚀。
 
 > [!claim] Smith (2017) & [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
-> **自由民主的道德借贷危机与文明重建** 哲学家詹姆斯·K·A·史密斯与卡普、扎米斯卡指出，西方自由民主政体数百年间实际上深度借力了宗教沉淀的道德资本；当现代精英全盘摧毁公民宗教而仅留下狭隘的市场资本主义与个人消极权利时，公共领域必然陷入道德真空，社会退化为由消费娱乐主导的脆弱躯壳；重构[[Technological Republic|技术共和国]]必须勇敢恢复对共享德性与世俗信仰的肯定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> **自由民主的道德借贷危机与文明重建** 哲学家詹姆斯·K·A·史密斯与卡普、扎米斯卡指出，西方自由民主政体数百年间实际上深度借力了宗教积累的道德资本；当现代精英全盘摧毁公民宗教而仅留下狭隘的市场资本主义与个人消极权利时，公共领域必然陷入道德真空，社会退化为由消费娱乐主导的脆弱躯壳；重构[[Technological Republic|技术共和国]]必须勇敢恢复对共享德性与世俗信仰的肯定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 ---
 
@@ -132,7 +132,7 @@ updated: 2026-11-02
 > - **1762 — 哲学起源** 让-雅克·[[Jean-Jacques Rousseau|卢梭]]在《社会契约论》第八章首次正式提出“公民宗教”（*la religion civile*），强调主权者确立积极社会情感信条的必要性。
 > - **1967 — 现代社会学系统化** [[Robert Bellah|罗伯特·贝拉]]发表《美国的公民宗教》，将该[[Construct|构念]]确立为理解美国政治象征体系的标准理论[[Paradigm|范式]]。
 > - **1980年代 — 通识正典与文明叙事争论** [[William H. McNeill|威廉·麦克尼尔]]等史学家将西方文明核心课程阐释为支撑国家认同的世俗公民宗教，随后遭遇后现代解构派的猛烈冲击。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]
-> - **2025 — [[Technological Republic|技术共和国]]与西方复兴** 卡普与扎米斯卡在《技术共和国》中重提公民宗教，呼吁克服后现代去国家化倦怠，为战略科技与地缘[[Hard Power|硬实力]]重建精神底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> - **2025 — [[Technological Republic|技术共和国]]与西方复兴** 卡普与扎米斯卡在《技术共和国》中重提公民宗教，呼吁克服后现代去国家化倦怠，为战略科技与地缘[[Hard Power|硬实力]]重建精神基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 ---
 

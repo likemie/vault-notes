@@ -58,7 +58,7 @@ updated: 2026-11-02
 > - **边界** 严格区别于法西斯或极权主义的群众狂热动员；公民仪式在立宪民主框架下运作，旨在通过理性教育与共同牺牲记忆达成法治秩序下的横向公民团结。
 
 > [!citation-card] 公民仪式荒废与制造国家的传统机制瓦解
-> 对集体体验和共同事业的厌恶使美国及其文化极易受到攻击和渗透。我们被训练得如此谨慎、如此不愿谈论美国文化的实质内容，以至于文化生产活动迁移到了其他敌意较少的领域。当前美国社会所共有的主要特征并非公民或政治性的，而是围绕娱乐、体育、明星和时尚凝聚。这并非某种不可逾越的政治分歧所致。使相当规模的陌生人群体之间产生某种“想象亲密感”的人际纽带被切断并驱逐出了公共领域。制造国家的旧有手段——教育系统的公民仪式、国民防卫服役、宗教、共同语言以及蓬勃自由的新闻媒体——要么被拆解，要么因忽视与滥用而萎缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
+> 对集体体验和共同事业的厌恶使美国及其文化极易受到攻击和渗透。我们被训练得如此谨慎、如此不愿谈论美国文化的实质内容，以至于文化生产活动迁移到了其他敌意较少的领域。当前美国社会所共有的主要特征是围绕娱乐、体育、明星和时尚凝聚，有别于公民或政治性的。这有别于某种不可逾越的政治分歧所致。使相当规模的陌生人群体之间产生某种“想象亲密感”的人际纽带被切断并驱逐出了公共领域。制造国家的旧有手段——教育系统的公民仪式、国民防卫服役、宗教、共同语言以及蓬勃自由的新闻媒体——要么被拆解，要么因忽视与滥用而萎缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
 >
 > *The interpersonal tether that makes possible a form of imagined intimacy among strangers within groups of a significant size was severed and banished from the public sphere. The old means of manufacturing a nation, the civic rituals of an educational system, mandatory service in national defense, religion, a shared language, and a thriving and free press have all but been dismantled or withered from neglect and abuse.*
 
@@ -102,7 +102,7 @@ updated: 2026-11-02
 > **探讨维度　国家构建理论与政治人类学** 探讨现代世俗国家如何通过教育正典与防卫服役等公民装置，在庞大异质人群中生产国家凝聚力。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
-> **国家制造装置的不可替代性** 承接 E. D. 赫希（E. D. Hirsch Jr., 1988）等学者的理论洞察，民族国家并非自然生成的有机体，而是通过一整套精密设计的公民仪式“制造（manufacture）”出来的制度产物。公立学校的统一通识正典、国民普遍防卫服役、标准共同语言以及自由蓬勃的公共新闻论坛，构成了维系陌生人之间“想象亲密感”与跨阶层政治团结的核心基础设施。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
+> **国家制造装置的不可替代性** 承接 E. D. 赫希（E. D. Hirsch Jr., 1988）等学者的理论洞察，民族国家是通过一整套精密设计的公民仪式“制造（manufacture）”出来的制度产物，有别于自然生成的有机体。公立学校的统一通识正典、国民普遍防卫服役、标准共同语言以及自由蓬勃的公共新闻论坛，构成了维系陌生人之间“想象亲密感”与跨阶层政治团结的核心基础设施。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-11-02
 > | [[Hard Power]] | 概念 | 公民仪式所激发的国民防卫意志与牺牲担当，为国家硬实力提供坚固的民意地基。 |
 > | [[Soft Belief]] | 概念 | 缺乏公民仪式支撑、在娱乐与相对主义中滋生的空洞单薄的现代意识形态。 |
 > | [[Technological Republic]] | 概念 | 融合自由市场个人[[Creativity\|创造力]]与崇高公民仪式体验的未来政体典范。 |
-> | [[Alexander Karp]] | 人物 | 《技术共和国》作者，系统论述公民仪式荒废对国家防卫与政治团结的深层危害。 |
+> | [[Alexander Karp]] | 人物 | 《技术共和国》撰写者，系统论述公民仪式荒废对国家防卫与政治团结的深层危害。 |
 
 ---
 

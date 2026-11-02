@@ -300,6 +300,7 @@
   },
   "active": "9f6a7b58150da48c",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-009/result.json",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-008/result.json",
     "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
     "wiki/templates/template-argument-monograph.md",
@@ -323,7 +324,6 @@
     "tmp/callout-refinement/monograph-index.log",
     "tmp/callout-refinement/monograph-check.log",
     "tmp/callout-refinement/monograph-check.mjs",
-    "tmp/callout-refinement/monograph.html",
     "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
     "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
     "wiki/concepts/science-policy/Combinatorial Novelty.md",

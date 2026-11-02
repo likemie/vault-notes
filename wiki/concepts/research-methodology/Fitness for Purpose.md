@@ -76,20 +76,20 @@ updated: 2026-11-02
 ---
 
 > [!def] Fitness for Purpose
-> **目的适配性（Fitness for Purpose）** 指研究规划中的方法论选择、统计推断解释以及实践中证据品质的判定，必须严格以其所拟达成的具体目的（Purposes）为根本依归。在研究设计层面，[[Research Purpose\|研究目的]]决定研究类型、问题表述、抽样策略、资料收集工具与伦理决策，研究设计没有先验的统一蓝图，而是由目的适配性全面支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch. 6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch. 7, p. 118]]）；在循证政策与实践层面，目的适配性构成了界定“适切研究证据”（Appropriate Research Evidence）的实质准绳，主张证据的优劣不能由脱离情境的单一证据等级制（Hierarchy of Evidence）垄断，而须取决于方法学严谨性与具体教育议题、组织情境及行动主体的深度拟合（Nutley et al., 2013；[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, pp. 140–141]]）。
+> **目的适配性（Fitness for Purpose）** 指研究规划中的方法论选择、统计推断解释以及实践中证据品质的判定，必须严格以其所拟达成的具体目的（Purposes）为根本依归。在研究设计层面，[[Research Purpose\|研究目的]]决定研究类型、问题表述、抽样策略、资料收集工具与伦理决策，研究设计没有先验的统一蓝图，是由目的适配性全面支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch. 6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch. 7, p. 118]]）；在循证政策与实践层面，目的适配性构成了界定“适切研究证据”（Appropriate Research Evidence）的实质准绳，主张证据的优劣不能由脱离情境的单一证据等级制（Hierarchy of Evidence）垄断，而须取决于方法学严谨性与具体教育议题、组织情境及行动主体的深度拟合（Nutley et al., 2013；[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, pp. 140–141]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 每一种研究方法、数据分析手段与证据类型都有其适合回答的问题与应用[[Champ\|场域]]。方法与证据的合法性必须从“要解决什么问题、服务何种育人目的”出发，而非从研究者的个人技能偏好或外部强加的单一因果评级出发。
 > - **理论用途** 帮助研究者在多种方法之间建立内在一致的研究蓝图，指导评估者超越任意的[[Statistical Significance\|统计显著性]]截断值而依据实质目的解释[[Effect Size\|效应量]]，并为教育决策者甄别“情境适切证据”提供超越[[Pragmatism in China\|实验主义]]垄断的评价基底。
-> - **适用边界** 目的适配性提供的是排除明显设计失配与证据错位的审议框架，并非自动生成具体方案的技术算法；它坚决反对以“适配”为托词滑向缺乏方法学规范与论证严谨性的方法相对主义。
+> - **适用边界** 目的适配性提供的是排除明显设计失配与证据错位的审议框架，有别于自动生成具体方案的技术算法；它坚决反对以“适配”为托词滑向缺乏方法学规范与论证严谨性的方法相对主义。
 
 > [!citation-card] Cohen et al. 论研究设计由目的适配性支配
-> 研究设计没有唯一的标准蓝图，而是受到目的适配性概念的支配。研究的目的决定了随后的方法选择，而不是相反。研究者必须确保研究的每一阶段——从[[Problem Finding\|问题界定]]、抽样、资料收集到数据分析——都与核心目的保持高度契合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|(Cohen et al., 2011, Ch. 6)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 118)]]
+> 研究设计没有唯一的标准蓝图，是受到目的适配性概念的支配。研究的目的决定了随后的方法选择，有别于相反。研究者必须确保研究的每一阶段——从[[Problem Finding\|问题界定]]、抽样、资料收集到数据分析——都与核心目的保持高度契合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|(Cohen et al., 2011, Ch. 6)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 118)]]
 >
 > *There is no single blueprint for planning research. Research design is governed by the notion of 'fitness for purpose'. The purposes of the research determine the methodology and design of the research... Fitness for purpose must guide the entire research process.*
 
 > [!citation-card] Rickinson et al. 论适切证据的目的适配性本质
-> 适切的研究证据关乎研究的质量及其情境特异性的适切性。它要求研究不仅在方法学上严谨，而且要适合具体的教育问题、特定的情境脉络以及所卷入的人群（即“目的适配性”）。优质的[[Research Utilization\|证据使用]]绝非对单一等级制研究的教条套用，而是依据目的对研究适切性展开深思熟虑的专业审议。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 140–141)]]
+> 适切的研究证据关乎研究的质量及其情境特异性的适切性。它要求研究不仅在方法学上严谨，而且要适合具体的教育问题、特定的情境脉络以及所卷入的人群（即“目的适配性”）。优质的[[Research Utilization\|证据使用]]是依据目的对研究适切性展开深思熟虑的专业审议，有别于对单一等级制研究的教条套用。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 140–141)]]
 >
 > *Appropriate research evidence is about the quality and the context-specific appropriateness of the research... it needs to be not only methodologically rigorous, but also appropriate for the educational issues, the context and the people involved (i.e. 'fitness-for-purpose') (Nutley, Powell, and Davies 2013).*
 
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜循证实践与政策中的“适切证据”以目的适配性打破单一证据等级制
-> **探讨维度　证据品质的去等级制重构** 优质[[Research Utilization\|证据使用]]绝非对单一实验等级制处方的机械依从，而是通过目的适配性评估多元证据与具体教育问题的拟合度。
+> **探讨维度　证据品质的去等级制重构** 优质[[Research Utilization\|证据使用]]是通过目的适配性评估多元证据与具体教育问题的拟合度，有别于对单一实验等级制处方的机械依从。
 
 > [!claim] 适切证据对单一证据等级制的学理破除
 > **打破证据等级制与确立适切证据基准** 长期以来，[[Evidence-Based Education\|循证教育]]陷入将单一黄金标准（[[Randomised Controlled Trials\|RCT]]）置于塔尖的[[Technical Rationality\|技术理性]]误区。纳特利等（Nutley et al., 2013）与里克森等学者在构建 [[Quality Use of Research Evidence Framework\|QURE]] 框架时指出，高质量证据使用的核心在于“适切研究证据”（Appropriate Research Evidence），而“适切性”的核心灵魂正是目的适配性。面对不同的教育目的（如诊断复杂学情、理解师生互动体验、评估规模化项目效能），适配的方法论类型完全不同；质性深度个案对于理解教学机制同样具有至高价值。在跨领域[[Systematic Review\|系统综述]]与综合质评中，依据目的适配性而非固定工具标尺，能够有效兼容并包质性与量化[[Document|文献]]，确保证据使用真正扎根于教育现实。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 140–141, 148)]]
@@ -207,7 +207,7 @@ updated: 2026-11-02
 > > 强调目的适配是否会成为掩盖低劣研究质量与方法缺陷的借口。
 > >
 > > - **方法学严格派** 担忧放弃统一客观量表可能导致主观臆断与科研水准滑坡。
-> > - **情境适配派** 强调适切性评价绝不妥协方法学严谨性（Methodological Rigour），而是要求在特定方法规范内部进行高标准质评。
+> > - **情境适配派** 强调适切性评价绝不妥协方法学严谨性（Methodological Rigour），是要求在特定方法规范内部进行高标准质评。
 
 ---
 

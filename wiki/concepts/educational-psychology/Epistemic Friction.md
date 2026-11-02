@@ -102,7 +102,7 @@ updated: 2026-11-02
 > *Generative AI compresses multiple cognitive activities into a single prompt-response loop... When intermediate epistemic actions disappear, learners may complete tasks without exercising the target capacities. If institutions reward polished final outputs while rendering exploration invisible, delegating epistemic labor becomes a rational choice.*
 
 > [!citation-card] 人机决策回路中的反思机器与击败者摩擦（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
-> 为了应对[[Trust Calibration|过度信任]]与认识论顺从对自主能动性及道德责任的侵蚀，我们在人机交互中引入认识论摩擦作为设计干预：反思机器与击败者。这两种工具旨在打破直觉性顺从，促使人类操作者进行反思性卷入并培育对系统建议的批判性信任。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, p. 4)]]
+> 为了应对[[Trust Calibration|过度信任]]与认识论顺从对自主能动性及道德责任的侵蚀，我们在人机交互中引入认识论摩擦作为设计干预：反思机器与击败者。这两种工具旨在打破直觉性顺从，促使人类操作人员进行反思性卷入并培育对系统建议的批判性信任。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, p. 4)]]
 >
 > *To address these concerns, in the final part of the paper we propose two design-oriented interventions which introduce epistemic friction in the interaction between the human operator and the decision-support system: Reflection Machines (RMs) and defeaters. Both tools aim to promote reflective engagement and cultivate critical trust in automated suggestions.*
 
@@ -117,7 +117,7 @@ updated: 2026-11-02
 > | 比较维度 | 认识论摩擦（Epistemic Friction） | 外在认知负荷（Extraneous Load） | 认知冲突（Cognitive Conflict） | [[Illusion of Competence\|虚假能力错觉]]（Illusion of Competence） |
 > |---|---|---|---|---|
 > | **核心本质** | 深度反思与证据权衡中的生产性心智阻力 | 不良界面与繁琐形式造成的无意义耗能 | 新旧观念矛盾引发的结构性失衡状态 | 缺乏阻力时误将表面顺畅当作深刻理解 |
-> | **对认知的影响** | **正向促进** 激活慢思考，驱动深层图式构建与[[Trust Calibration\|信任校准]] | **负向阻碍** 挤占[[Working Memory\|工作记忆]]，造成认知超载与疲劳 | **条件性促进** 需借助同化顺应机制解决矛盾 | **破坏性危害** 导致思维早熟收敛与盲目顺从 |
+> | **对认知的影响** | **正向促进** 激活慢思考，驱动深层图式构建与[[Trust Calibration\|信任校准]] | **负向阻碍** 挤占[[Working Memory\|工作记忆]]，造成认知超载与疲劳 | **条件性促进** 需借助同化顺应机制解决矛盾 | **破坏性危害** 导致思维早熟辐合与盲目顺从 |
 > | **在[[Man-Computer Symbiosis\|人机协同]]中** | 易被系统顺滑输出抹平，需通过交互架构主动注入 | 工具可有效剥离繁琐检索与机械排版负担 | 系统呈现冲突反常反例时可诱发适度冲突 | 系统极高语法流畅度极易诱发该错觉 |
 > | **干预与设计策略** | 嵌入反思机器、[[Defeater\|反驳型击败者]]与反思决策日志 | 优化界面布局、提供结构化模板剥离杂音 | 设置对立证据对比、组织[[Classroom Debate\|课堂辩论]]与同行评议 | 引入闭卷提取练习、提示词溯源与口头答辩 |
 
@@ -128,7 +128,7 @@ updated: 2026-11-02
 > - **[[Metacognition|元认知监控]]激活（Metacognitive Scrutiny）** 在认知顺畅感被阻断时自动触发分析系统，主动评估当前推论的自洽性、证据充分性与模型局限。
 > - **生产性反思挣扎（Reflective Struggle）** 学习者或决策者亲身经历概念解构、反常证据辨析与逻辑缝合的推导过程，在深层加工中强化图式编码。
 > - **证据辩证权衡（Dialectical [[Triangulation]]）** 拒绝直接接受单一答案，强制在多源数据、算法提示与理论模型间开展交叉审问。
-> - **可抗辩性与反驳赋权（Contestability & [[Defeater]] Support）** 技术界面主动呈现冲突指标（反驳型击败者）与开放追问（反思机器），赋予人类直接反驳算法的认知杠杆。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
+> - **可抗辩性与反驳赋权（Contestability & [[Defeater]] Support）** 技术界面主动呈现冲突指标（反驳型击败者）与开放追问（反思机器），赋予人类直接反驳算法的认知手段。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 
 > [!logic-map]- 认识论摩擦在[[Man-Computer Symbiosis|人机协同]]中的调节与分化机制
 > ```mermaid
@@ -149,7 +149,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Higher-Order Thinking Skills|高阶思维]]的发展以生产性[[Epistemology|认识论]]摩擦为必要认知前提
-> **探讨维度　认知建构与心智发展规律** 阐明人类高阶心智能力并非在自动化与顺滑接受中习得，而必须在克服认知阻力的挣扎过程中得以塑形。
+> **探讨维度　认知建构与心智发展规律** 阐明人类高阶心智能力并不在自动化与顺滑接受中习得，而必须在克服认知阻力的挣扎过程中得以塑形。
 
 > [!claim] Medina (2013); [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **生产性摩擦的[[Epistemic Value|认识论价值]]** 无论是社会批判意识还是高阶[[Critical Thinking|批判性思维]]，都高度依赖于认知主体在面对异质观念、复杂反例时所经历的[[Epistemology|认识论]]摩擦。这种摩擦是打断直觉式思维（System 1）、迫使长时记忆图式进行适应性重组与深度加工的必要心理动力学条件。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
@@ -160,7 +160,7 @@ updated: 2026-11-02
 > **探讨维度　技术特性引发的心智旁路机制** 解构大语言模型如何通过极高的语言表达质量绕过学习者的认知防线。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **无摩擦陷阱与有害[[Cognitive Offloading|认知卸载]]** 大语言模型生成的文本具有权威的语调与规整的语法结构，这种表面语义流畅性为学生提供了无阻力的答案通道。在缺乏显性教学引导的情境下，学生倾向于直接采纳模型输出，天然切除了本来需要由学习者自主经历的阅读、提取、论证与校验过程，造成严重的有害认知卸载与[[Creativity|创造性]]早熟收敛。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 7–8, 10)]]
+> **无摩擦陷阱与有害[[Cognitive Offloading|认知卸载]]** 大语言模型生成的文本具有权威的语调与规整的语法结构，这种表面语义流畅性为学生提供了无阻力的答案通道。在缺乏显性教学引导的情境下，学生倾向于直接采纳模型输出，天然切除了本来需要由学习者自主经历的阅读、提取、论证与校验过程，造成严重的有害认知卸载与[[Creativity|创造性]]早熟辐合。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 7–8, 10)]]
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **无摩擦委派与中间认识动作的剥离** [[Generative Artificial Intelligence|生成式人工智能]]将检索、阅读、比对、综合与起草等多重认知活动压缩为单一的提问—回答循环。当技术系统将寻找、解释与辩护的生产性阻力一并消除时，学习者在缺乏中间认识动作演练的情况下直接交付成品，将导致理解肤浅化、不确定性耐受力下降以及迁移能力崩溃。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
@@ -168,7 +168,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜生产性认识摩擦与浪费性摩擦的甄别是智能时代人机交互的分水岭
-> **探讨维度　认知劳动分工与生产性阻力保护** 论证技术应用并非消灭一切心智阻力，而是消除工具性浪费、保留探究性摩擦。
+> **探讨维度　认知劳动分工与生产性阻力保护** 论证技术应用是消除工具性浪费、保留探究性摩擦，有别于消灭一切心智阻力。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **浪费性摩擦与生产性认识摩擦的实质分野** 在人机交互与教学设计中，必须严格区分两类摩擦：其一是繁琐格式排错、机械文件[[Transcription in Qualitative Research|转录]]与低效界面翻找所引发的“浪费性摩擦”，这类负担过度消耗[[Working Memory|工作记忆]]，应当利用工具予以消除以增进可及性；其二是直面反常证据时的困惑、权衡对立解释时的挣扎以及对论证前提的批判审视，这属于维系[[Metacognition|元认知监控]]与深层图式建构的“生产性认识摩擦”。若系统以全流程代劳连根抹平生产性摩擦，将导致学习者与专业决策者核心评价能力的退化。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
@@ -187,9 +187,9 @@ updated: 2026-11-02
 > **探讨维度　人机决策安全与批判性[[Trust Calibration|信任校准]]** 探讨如何利用界面交互机制打破[[Automation Bias|强自动化偏差]]，恢复人类实质控制权。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **反思机器与[[Defeater|击败者]]对批判性信任的重建** 克服强自动化偏差与[[Epistemic Deference|认识论顺从]]不能仅凭操作者个人警觉，必须在技术交互界面嵌入结构化认识论摩擦：
-> 1. **反思机器（Reflection Machines, RMs）** 在关键决策节点引入[[Socrates|苏格拉底]]式自适应对话，迫使操作者阐明判定依据，重塑审思所有权；
-> 2. **反驳型击败者（Rebutting Defeaters）** 主动呈现冲突数据与对立诊断指标，为操作者提供直接反驳算法提示的证据杠杆，从架构层面恢复可抗辩性并校准批判性信任（Critical Trust）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
+> **反思机器与[[Defeater|击败者]]对批判性信任的重建** 克服强自动化偏差与[[Epistemic Deference|认识论顺从]]不能仅凭操作人员个人警觉，必须在技术交互界面嵌入结构化认识论摩擦：
+> 1. **反思机器（Reflection Machines, RMs）** 在关键决策节点引入[[Socrates|苏格拉底]]式自适应对话，迫使操作人员阐明判定依据，重塑审思所有权；
+> 2. **反驳型击败者（Rebutting Defeaters）** 主动呈现冲突数据与对立诊断指标，为操作人员提供直接反驳算法提示的证据手段，从架构层面恢复可抗辩性并校准批判性信任（Critical Trust）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 
 ---
 
@@ -228,7 +228,7 @@ updated: 2026-11-02
 > > - **认识深化论（[[Argument_Li_2026_CEAI|Li et al., 2026]]）** 指出若消除了理解与批判的[[Epistemology|认识论]]摩擦，将导致学习者丧失独立学术声音与评价能力。
 
 > [!warning] 适用与实施局限
-> - **摩擦过载与心理挫败风险** 过高的认识论摩擦若缺乏合理的支架引导与即时反馈，可能转化为认知超载与挫败感，导致学习者或操作者放弃探究。
+> - **摩擦过载与心理挫败风险** 过高的认识论摩擦若缺乏合理的支架引导与即时反馈，可能转化为认知超载与挫败感，导致学习者或操作人员放弃探究。
 > - **反思交互的形式化与例行公事化** 长期使用中强制性的反思质询可能退化为机械点击勾选，需动态调整质询形式以维持认知挑战。（pp. 22–23）
 
 ---
@@ -241,7 +241,7 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 全球 67 项高等教育实证研究（2022–2025） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 认识论摩擦注入机制（反思支架、去幻觉查错、认知惰性、[[Causal Modeling\|SEM]] 路径） | 27 项研究证实反思支架成功激活元认知监控与认知摩擦；19 项研究通过强制查错保持审思；21 项无支架研究因缺乏摩擦陷入认知惰性；SEM 检验表明被动工具调用显著负向预测反思（$\beta = -0.34$） | $p < .001$ | 确立认识论摩擦是决定生成式 AI 介入分化为高阶协同增益（53%）还是心智侵蚀（31%）的核心微观机制 |
-> | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学医生 | AI 辅助肿瘤细胞占比（TCP）估算实验（时间压力条件） | 缺乏[[Defeater\|击败者]]摩擦时专家顺从错误 AI 建议（改对为错）的频数 | 560 次评估中发生 67 次冲突决策；缺乏反驳摩擦时有 38 次专家原本正确但顺从了错误系统提示 | 原文报告频数 | 证实缺乏界面反驳击败者摩擦时，高阶专业人士亦会发生[[Epistemic Deference\|认识论顺从]] |
+> | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学医生 | AI 辅助肿瘤细胞占比（TCP）估算实验（时间压力条件） | 缺乏[[Defeater\|击败者]]摩擦时专家顺从错误 AI 建议（改对为错）的频数 | 560 次评估中发生 67 次冲突决策；缺乏反驳摩擦时有 38 次专家原本正确但顺从了错误系统提示 | 原始报告频数 | 证实缺乏界面反驳击败者摩擦时，高阶专业人士亦会发生[[Epistemic Deference\|认识论顺从]] |
 
 ---
 
@@ -267,8 +267,8 @@ updated: 2026-11-02
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |
 > |---|---|---|
-> | [[Automation Bias]] | 防范对象 | [[Epistemology\|认识论]]摩擦是克服操作者对系统提示盲从、校准批判性信任的关键交互机制。 |
-> | [[Epistemic Deference]] | 破解靶向 | 通过在决策节点注入质询摩擦，阻止人类将最终判断权威无条件让渡给机器。 |
+> | [[Automation Bias]] | 防范对象 | [[Epistemology\|认识论]]摩擦是克服操作人员对系统提示盲从、校准批判性信任的关键交互机制。 |
+> | [[Epistemic Deference]] | 破解针对 | 通过在决策节点注入质询摩擦，阻止人类将最终判断权威无条件让渡给机器。 |
 > | [[Epistemic Agency]] | 核心目标 | 认识论摩擦是促使学习者掌握最终评判权、避免主体性丧失的心智保障。 |
 > | [[Epistemic Dependence]] | 病理对立 | 无摩擦委派使学生全盘将认识劳动让渡给算法，滑向有害的深层认识依赖。 |
 > | [[Meaningful Human Control]] | 系统保障 | 维持适当的认识论摩擦是保障人类在人机系统中行使实质性监督的认知前提。 |

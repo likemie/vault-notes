@@ -6,7 +6,7 @@ aliases:
   - daily plebiscite
   - an everyday plebiscite
   - un plébiscite de tous les jours
-summary: "法国思想家欧内斯特·勒南提出的民族存在论核心概念。主张民族并非由种族、语言或地理等客观血缘界定的实体，而是基于历史共同牺牲的深厚记忆以及全体成员当下每日自愿联合的动态精神契约。"
+summary: "法国思想家欧内斯特·勒南提出的民族存在论核心概念。主张民族是基于历史共同牺牲的深厚记忆以及全体成员当下每日自愿联合的动态精神契约，有别于由种族、语言或地理等客观血缘界定的实体。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 12
@@ -47,7 +47,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Everyday Plebiscite
-> **每日公民投票（Everyday Plebiscite，法文：*Un plébiscite de tous les jours*）**由法国思想家[[Ernest Renan|欧内斯特·勒南]]（[[Ernest Renan]]）于 1882 年在巴黎索邦大学著名演讲《什么是民族？》（*Qu'est-ce qu'une nation?*）中提出，是现代公民民族主义（Civic Nationalism）的基石概念。勒南主张，民族的实质是一种宏大的道德团结（a vast solidarity），由过去共同付出的牺牲记忆与当下明确表达的共同生活意愿所构成；民族的存在并非取决于血缘、语言、宗教或地理疆界的客观强加，而是依靠全体国民在精神上每天自愿进行的默示投票与持续确认。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
+> **每日公民投票（Everyday Plebiscite，法文：*Un plébiscite de tous les jours*）**由法国思想家[[Ernest Renan|欧内斯特·勒南]]（[[Ernest Renan]]）于 1882 年在巴黎索邦大学著名演讲《什么是民族？》（*Qu'est-ce qu'une nation?*）中提出，是现代公民民族主义（Civic Nationalism）的基石概念。勒南主张，民族的实质是一种宏大的道德团结（a vast solidarity），由过去共同付出的牺牲记忆与当下明确表达的共同生活意愿所构成；民族的存在是依靠全体国民在精神上每天自愿进行的默示投票与持续确认，有别于取决于血缘、语言、宗教或地理疆界的客观强加。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将国家与民族定义为一种动态维系的精神原则与主观契约，强调共同记忆、共同牺牲与持续自愿联合。
@@ -76,7 +76,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **过去维度的共同牺牲（Shared Historical Sacrifices）** 共同体历史不仅是荣耀的记录，更是共同承受痛苦、危机与历史牺牲的精神沉淀；共同受难比共同胜利更能铸就深层纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Renan, 1882/2018; Karp & Zamiska, 2025, p. 199)]]
+> - **过去维度的共同牺牲（Shared Historical Sacrifices）** 共同体历史不仅是荣耀的记录，更是共同承受痛苦、危机与历史牺牲的精神积累；共同受难比共同胜利更能铸就深层纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Renan, 1882/2018; Karp & Zamiska, 2025, p. 199)]]
 > - **当下维度的自愿同意（Present Consent & Affirmation）** 成员对国家制度、法治原则与公共事业的日常自愿效忠与参与。
 > - **未来维度的共同愿景（Future Purpose）** 愿意为了子孙后代跨越千年的长远繁荣继续合作、共同承担战略防卫与建设重任。
 > - **战略遗忘的辩证法（Strategic Forgetting）** 勒南指出，民族建构既需要记忆共同牺牲，也需要对早期内部残杀历史进行审慎遗忘，以避免历史创伤永续分裂共同体。

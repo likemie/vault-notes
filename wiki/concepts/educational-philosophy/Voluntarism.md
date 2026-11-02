@@ -95,7 +95,7 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **行动的自主发起性（Initiator of Action）** 确认个体具备打破既定因果链条的能动意志，行动是根据自我确立的目标与价值主动开展的实践。
 > - **自由意志与反思[[Creativity\|创造力]]（Free Will and Reflexive Creativity）** 人在行动过程中持续进行自我觉察与反思监控，具备根据情境反馈即兴调整策略的创造潜能。
-> - **社会环境的主体间构建（Production of Environments）** 学校规范、课堂纪律与[[Organizational Culture\|组织文化]]并非天然物理实体，而是行动者在日常交往互动中持续赋予意义、协商并再生产的产物。
+> - **社会环境的主体间构建（Production of Environments）** 学校规范、课堂纪律与[[Organizational Culture\|组织文化]]是行动者在日常交往互动中持续赋予意义、协商并再生产的产物，有别于天然物理实体。
 > - **把人当作人类来对待（Treating People as Humans）** [[Rom Harré\|罗姆·哈雷]]与保罗·塞考德（Harré & Secord, 1972）[[Anthropomorphic Model\|拟人化模型]]的核心基准，主张科学必须尊重行动者对其行动的理由解释（[[Accounts]]）与主观意图。
 
 > [!logic-map]- 唯意志论在教育探究中的逻辑推导
@@ -116,7 +116,7 @@ updated: 2026-11-02
 > **探讨维度　主体意向与行动动机维度** 探讨人类实践的本体动力。唯意志论主张人类活动具有不可还原为外在刺激的自主意图。
 
 > [!claim] Burrell & Morgan
-> **自主发起与环境生产判定** 人类绝非受外部情境操纵的被动木偶，而是自身行动的发起者，拥有自由意志和[[Creativity\|创造力]]；人们不仅生活在环境之中，更通过自身的认知与行动持续积极地生产和重构其生存环境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Burrell & Morgan, 1979 via Cohen et al., 2011, Ch. 1, p. 8)]]
+> **自主发起与环境生产判定** 人类是自身行动的发起者，拥有自由意志和[[Creativity\|创造力]]，有别于受外部情境操纵的被动木偶；人们不仅生活在环境之中，更通过自身的认知与行动持续积极地生产和重构其生存环境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Burrell & Morgan, 1979 via Cohen et al., 2011, Ch. 1, p. 8)]]
 
 ---
 
@@ -132,7 +132,7 @@ updated: 2026-11-02
 > **探讨维度　组织实在论与建构维度** 探讨教育组织的[[Ontology\|本体论]]本质。唯意志论将组织还原为活生生的行动者互动网络。
 
 > [!claim] [[Thomas Barr Greenfield\|Greenfield, T. B.]]
-> **主观组织观与人的人造现实判定** 组织不是拥有独立意志或目标的自足客观实体，也不是类似生物有机体的规律系统；组织归根结底是由身处其中的人类行动者的意向、信念与意义建构所发明的社会现实，学校的结构与变迁完全取决于其成员的价值抉择与行动协商。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Greenfield, 1975 via Cohen et al., 2011, Ch. 1, pp. 8–10)]]
+> **主观组织观与人的人造现实判定** 组织有别于拥有独立意志或目标的自足客观实体，也有别于类似生物有机体的规律系统；组织归根结底是由身处其中的人类行动者的意向、信念与意义建构所发明的社会现实，学校的结构与变迁完全取决于其成员的价值抉择与行动协商。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Greenfield, 1975 via Cohen et al., 2011, Ch. 1, pp. 8–10)]]
 
 ---
 
@@ -141,7 +141,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **自主发起创造命题** | 人类是行动的发起者并拥有自由意志，在行动中创造自身生存环境 | [[Intent-to-Treat Analysis\|意向性分析]]、目的论解释、情境建构 | Burrell and Morgan (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 8)]] |
 > | **拟人化主体模型命题** | 探究必须把人当作能动主体，聚焦行动者的理由陈述与规则协商 | 拟人化模型、言语陈述分析、事件分析法 | Harré & Secord (1972); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 16–17)]] |
-> | **组织主观发明命题** | 组织与制度不是超个人的客观法则系统，而是人类意义赋予的发明物 | 组织[[Phenomenology\|现象学]]分析、主观建构追踪、价值冲突剖析 | Greenfield (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8–10)]] |
+> | **组织主观发明命题** | 组织与制度是人类意义赋予的发明物，有别于超个人的客观法则系统| 组织[[Phenomenology\|现象学]]分析、主观建构追踪、价值冲突剖析 | Greenfield (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8–10)]] |
 
 ---
 

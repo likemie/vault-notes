@@ -6,7 +6,7 @@ aliases:
   - 浸礼会与走私贩同盟
   - 浸礼会-私酒贩联盟
   - baptist bootlegger alliance
-summary: "公共规制与历史制度主义中解释奇特跨阵营政治同盟的经典机制；指出于崇高道德信念的规范性支持者与出于自私利益进行违规套利的投机者不可思议地联合捍卫同一项规约，共同抵御系统性制度改革"
+summary: "公共规制与历史制度主义中解释奇特跨阵营政治同盟的经典机制；指出于崇高道德信念的规范性支持者与出于自私利益进行违规套利的投机者不可思议地联合捍卫同一项规范，共同抵御系统性制度改革"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 15

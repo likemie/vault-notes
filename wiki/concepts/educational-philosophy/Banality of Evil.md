@@ -5,7 +5,7 @@ aliases:
   - 恶的平庸性
   - 极恶的平庸
   - The Banality of Evil
-summary: "汉娜·阿伦特提出的政治哲学与伦理学核心概念，指代在现代科层制与极权体制下，极端罪恶往往并非源于个体的极端仇恨或病态恶毒，而是源于放弃独立思考、丧失道德判断力以及对规章与权威程序的盲目顺从（无思状态）；后在心理学实证、组织行为学与教育哲学中得到广泛发展与印证。"
+summary: "汉娜·阿伦特提出的政治哲学与伦理学核心概念，指代在现代科层制与极权体制下，极端罪恶往往是源于放弃独立思考、丧失道德判断力以及对规章与权威程序的盲目顺从（无思状态），有别于源于个体的极端仇恨或病态恶毒；后在心理学实证、组织行为学与教育哲学中得到广泛发展与印证。"
 type: concept
 domain: "educational-philosophy"
 related_count: 23
@@ -57,7 +57,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Banality of Evil
-> **平庸之恶（The Banality of Evil）** 是由德裔美籍思想家汉娜·[[Hannah Arendt|阿伦特]]（Hannah Arendt）在《艾希曼在耶路撒冷》（*Eichmann in Jerusalem*, 1963）中开创性提出的政治哲学与伦理学概念，指在高度专业化、层级化的现代[[Bureaucracy|科层制]]与规训体制中，极端的系统性灾难与道德罪恶往往并非由病态的狂热狂徒或恶魔所发动，而是由成千上万放弃独立批判反思、放弃个体良知判断、仅将“遵守程序与服从上级”奉为最高美德的普通人（即处于“无思状态”的体制齿轮）在日常事务中按部就班执行而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
+> **平庸之恶（The Banality of Evil）** 是由德裔美籍思想家汉娜·[[Hannah Arendt|阿伦特]]（Hannah Arendt）在《艾希曼在耶路撒冷》（*Eichmann in Jerusalem*, 1963）中开创性提出的政治哲学与伦理学概念，指在高度专业化、层级化的现代[[Bureaucracy|科层制]]与规训体制中，极端的系统性灾难与道德罪恶往往是由成千上万放弃独立批判反思、放弃个体良知判断、仅将“遵守程序与服从上级”奉为最高美德的普通人（即处于“无思状态”的体制齿轮）在日常事务中按部就班执行而成，有别于由病态的狂热狂徒或恶魔所发动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了恶行在现代制度中的结构性平庸化机制——罪恶在微观层面表现为对程序规则的一丝不苟、对专业分工的机械履行以及对上级指令的茶会式礼貌顺从。
@@ -65,7 +65,7 @@ updated: 2026-11-02
 > - **边界** 严禁被误读为对作恶者个人道德与法律罪责的开脱或减轻；它解释的是作恶背后的心理认知机制（无思性），而非赋予其合法免责权。
 
 > [!citation-card] 阿伦特论艾希曼的无思状态与平庸之恶
-> 艾希曼既不是伊阿古，也不是理查三世……除了对个人晋升格外勤勉之外，他根本没有任何动机。用通俗的话来说，他只是完全不假思索。正是这种与现实脱节以及这种无思状态，可能在一个人的内心造成比所有人性中固有的恶毒本能加起来还要巨大的浩劫。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
+> 艾希曼有别于伊阿古，也有别于理查三世……除了对个人晋升格外勤勉之外，他根本没有任何动机。用通俗的话来说，他只是完全不假思索。正是这种与现实脱节以及这种无思状态，可能在一个人的内心造成比所有人性中固有的恶毒本能加起来还要巨大的浩劫。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 >
 > *Except for an extraordinary diligence in looking out for his personal advancement, he had no motives at all... He merely, to put the matter colloquially, never realized what he was doing. It was sheer thoughtlessness.*
 
@@ -106,10 +106,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜极端恶行能够在丧失批判反思与独立判断的常规合规中平庸化发生
-> **探讨维度　机制探讨** 探讨现代制度环境下罪恶何以脱离主观恶意，蜕变为技术性、合规性的日常行政流水线。
+> **探讨维度　机制探讨** 探讨现代制度环境下罪恶何以脱离主观恶意，转变为技术性、合规性的日常行政流水线。
 
 > [!claim] Arendt, H.
-> **平庸之恶的无思本质** 汉娜·[[Hannah Arendt|阿伦特]]深刻指出，艾希曼的核心特质在于其令人战栗的平庸与无思（Thoughtlessness）——他并非莎士比亚笔下的恶魔，而是一个狂热崇拜制度规则、热衷于按公文流程办事的普通官僚；当个体丧失了从他人立场设身处地想象受害者痛苦的能力（扩大化思维缺失）时，最庞大的国家浩劫便会以最高效、最礼貌的合规方式蔓延开来。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
+> **平庸之恶的无思本质** 汉娜·[[Hannah Arendt|阿伦特]]深刻指出，艾希曼的核心特质在于其令人战栗的平庸与无思（Thoughtlessness）——他是一个狂热崇拜制度规则、热衷于按公文流程办事的普通官僚，有别于莎士比亚笔下的恶魔；当个体丧失了从他人立场设身处地想象受害者痛苦的能力（扩大化思维缺失）时，最庞大的国家浩劫便会以最高效、最礼貌的合规方式蔓延开来。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 
 > [!claim] Karp, A., & Zamiska, N.
 > **防卫型[[Bureaucracy|科层制]]对平庸顺从者的制度性偏好** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中进一步论证，传统大企业与防卫型[[Bureaucracy|科层制]]往往天然偏好那些唯命是从、不问实质只顾合规的顺从型平庸者，这种对异见的打压导致组织系统性丧失实战纠错能力，在 1986 年挑战者号航天飞机发射灾难中，管理层压制工程师关于 O 型圈低温脆化的致命警告正是平庸合规酿成毁灭性灾难的当代工程写照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
@@ -176,7 +176,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|Karp & Zamiska (2025, pp. 132–135)]] | 美国纽黑文市 20–50 岁不同职业背景成年男性市民 | 实验室受控情境实验（[[Milgram Obedience Experiment\|米尔格拉姆服从实验]]基线条件） | 最高电击电压耐受比例（450V 最高危险级别） | **65.0%（约三分之二）** 受试者完全服从权威指令按下最终致死级电击开关 | 原文未报告[[Confidence Interval\|置信区间]]，数十次重复测试服从率稳定在 60%–65% | 揭示程序性权威与实验大褂能够压抑普通人同理心诱发代理态，但受试者事后心理创伤引发重大伦理争议 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|Karp & Zamiska (2025, pp. 132–135)]] | 美国纽黑文市 20–50 岁不同职业背景成年男性市民 | 实验室受控情境实验（[[Milgram Obedience Experiment\|米尔格拉姆服从实验]]基线条件） | 最高电击电压耐受比例（450V 最高危险级别） | **65.0%（约三分之二）** 受试者完全服从权威指令按下最终致死级电击开关 | 所读文本未报告[[Confidence Interval\|置信区间]]，数十次重复测试服从率稳定在 60%–65% | 揭示程序性权威与实验大褂能够压抑普通人同理心诱发代理态，但受试者事后心理创伤引发重大伦理争议 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|Karp & Zamiska (2025, pp. 135–136)]] | 1986 年[[National Aeronautics and Space Administration\|美国国家航空航天局]]（NASA）与莫顿·塞奥科公司管理层及工程师团队 | 历史组织案例分析（挑战者号航天飞机发射决策） | 关键工程安全异见采纳与科层合规倾向 | 一线工程师关于低温导致 O 型圈失效的严厉警告因管理层合同压力与行政程序被彻底否决 | 导致航天飞机升空 73 秒后解体爆炸、7 名宇航员全部牺牲的确定性历史结果 | 证实防卫型[[Bureaucracy\|科层制]]对顺从者的偏好与对异见的压制会导致灾难性平庸作恶与系统性崩溃 |
 
 ---

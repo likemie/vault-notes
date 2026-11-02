@@ -8,7 +8,7 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标，以学者至�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jorge E. Hirsch]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[SciSciNet]]"
@@ -52,8 +53,9 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
-status: draft
+status: active
 created: "2026-10-29"
 updated: 2026-11-02
 ---
@@ -98,6 +100,7 @@ updated: 2026-11-02
 > - **2005 — 正式提出** 手稿上传 arXiv 并投稿《[[National Academy of Sciences|美国国家科学院]]院刊》（Proceedings of the National Academy of Sciences, PNAS），同时给出线性增长模型与物理学职称参照值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–20, 24–25)]]
 > - **2006–2008 — 修正指标出现** $g$ 指数针对高被引钝感，$h_g$ 指数针对学科基准差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 > - **2007 — 预测效度检验** 希尔施以 24 年纵向数据检验 $h$ 对未来表现的预测力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
+> - **2018 — 累积性偏差与职业年龄异化警示** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）综述中，指出 $h$ 指数单调不减的机械累积属性严重偏向资深学者，在预测青年学术潜力时存在虚假信号与指标异化风险，强调评价中必须校正学术年资并结合多元维度。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
 > - **2019 — 合著修正** 希尔施提出 $h_\alpha$ 指数。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 > - **2023 — 亿级学者与机构全量解算** Lin et al. 在 [[SciSciNet]] [[Data Infrastructure|数据基础设施]]中为全库 1.34 亿名学者与 2.7 万家科研机构完成 $h$ 指数全量预计算，与 10 年平均被引及性别推断概率深度对齐，使大样本多维学术生涯评估成为可能。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 
@@ -206,7 +209,7 @@ updated: 2026-11-02
 > - **高被引钝感** 超过 $h$ 的引用不计入，奠基性单篇成果被低估。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 25)]]
 > - **单调累积性与质量稀释忽视** $h$ 指数随发文量单调不减，发表平庸论著不会拉低数值；然而同行专家评审实验证实学界对简历中混入低层级发表具有显著的惩罚效应（稀释均质质量），揭示出单调累积指标与专家追求稳态卓越之间的内在张力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 68–70)]]
 > - **学科基准差异** 分子生物学的常见 $h$ 高于物理学，物理学又高于数学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
-> - **偏向资深学者** $h$ 只增不减，年轻学者天然处于劣势。
+> - **偏向资深学者与青年潜力预测偏差** $h$ 只增不减，年轻学者天然处于劣势；在评估青年学术潜力时易产生虚假信号，必须校正职业年资以防指标异化。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
 > - **合著失真** 不区分领衔者、参与者与挂名者，大型团队成员可获得虚高的 $h$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 > - **误用风险** 把单一指标当作人事决策依据，会忽略教学、指导、评审等无法量化的贡献。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 27)]]
 > - **补救方式** 按学科归一化，使用 $m$ 商校正年资，配合 [[g-Index]]、[[Q-Factor]] 或 $h_\alpha$ 指数，并保留同行评议。
@@ -230,3 +233,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐释 h 指数的定义、增长模型与预测效度，并通过诺奖预测 ROC 竞赛与同行实验揭示其单调累积性在捕捉质量稀释上的局限。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 将 h 指数集成入 SciSciNet 学者档案总表（1.34 亿行）与机构表（2.7 万行），与 C10、产出总量及地理坐标融合，提供开箱即用的大规模影响力评价基准。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 警示 h 指数的单调累积性偏差对青年学者潜力评估的虚假信号与扭曲风险，倡导校正学术年资并结合多元维度开展客观科技评价。（p. 5）

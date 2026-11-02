@@ -62,7 +62,7 @@ updated: 2026-11-02
 > - **边界** 不等于企业内部的工厂级物理规模经济（Plant-level Internal Economies of Scale）；集聚外部性是跨越企业边界、由整个产业生态网络共同享有的外部公地，且在面临空间拥堵、地价暴涨或地缘断链风险时，可能产生负外部性。
 
 > [!citation-card] 现代产业政策的非效率动机与集聚外部性
-> 政府对半导体产业进行干预的动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、[[Learning by Doing|在做中学]]和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片的扩散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
+> 政府对半导体产业进行干预的动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、[[Learning by Doing|在做中学]]和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备有别于由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片的扩散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, learning by doing, and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips.*
 
@@ -73,7 +73,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 **企业内部规模经济（Internal Economies of Scale）** — 内部规模经济依赖单一企业通过扩建超大产线摊薄固定研发与设备折旧成本；集聚外部性是外部于单一企业、由集群内多主体共同繁荣催生的系统性网络红利。
-> - 不等于 **静态比较优势（Static Comparative Advantage）** — 静态比较优势由禀赋决定（如资源或廉价劳动力）；集聚外部性是人造的、内生积累的动态优势，高度依赖早期投资沉淀与[[Learning by Doing|在做中学]]的正反馈循环。
+> - 不等于 **静态比较优势（Static Comparative Advantage）** — 静态比较优势由禀赋决定（如资源或廉价劳动力）；集聚外部性是人造的、内生积累的动态优势，高度依赖早期投资积累与[[Learning by Doing|在做中学]]的正反馈循环。
 > - 不保证 **绝对地缘抗风险能力** — 极端的集聚外部性往往伴随着极端的地理集中脆弱性（如全球九成先进制程集中于地震活跃且地缘紧张的单一岛屿），在遭遇外部地缘冲击时会产生毁灭性的断链风险。
 
 ---
@@ -149,10 +149,10 @@ updated: 2026-11-02
 > > - **地缘安全与韧性优先论** 认为若关键制造 90% 集中于地缘火药桶，一旦发生军事冲突或自然灾害将造成万亿美元级全球经济停摆，因此支付一定的集聚稀释溢价作为安全保险完全具有战略合理性。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 >
 > > [!axis] 补贴能否人为移植集聚外部性
-> > 巨额资本补贴能否在缺乏历史沉淀的非核心地区（如美国荒漠或欧洲内陆）凭空催生出繁荣的半导体生态系统？
+> > 巨额资本补贴能否在缺乏历史积累的非核心地区（如美国荒漠或欧洲内陆）凭空催生出繁荣的半导体生态系统？
 > >
 > > - **产业政策乐观派** 认为 200 亿美元级的晶圆厂建厂投资将自带磁吸效应，倒逼上游化学品、材料与设备维修商在周边同步落地。
-> > - **经济地理怀疑派** 强调集聚外部性是数十年隐性技能与劳动力文化的历史沉淀，跨国代工厂在缺乏成熟工程人才的地区建厂将面临长期文化冲突与良率低下阵痛。
+> > - **经济地理怀疑派** 强调集聚外部性是数十年隐性技能与劳动力文化的历史积累，跨国代工厂在缺乏成熟工程人才的地区建厂将面临长期文化冲突与良率低下阵痛。
 
 ---
 

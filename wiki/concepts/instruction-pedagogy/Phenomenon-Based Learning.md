@@ -64,12 +64,12 @@ updated: 2026-11-02
 > 在芬兰语原版 2014 年国家核心课程中，PhBL 这一英语术语本身并未出现，英语译本中也仅出现少数几次。课程文本更频繁使用的是芬兰语 ilmiö（现象）及其组合词，要求学生观察、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。它以[[Phenomenology\|现象学]]（Phenomenology）为底色，认为“现象”是主体在以[[Intentionality|意向性]]（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，绝非[[Value Neutrality\|价值中立]]的客观实体，且包含具身认知（Embodied cognition）与主体间性（Intersubjectivity）的情感和社交特征。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–4]]
+> - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。它以[[Phenomenology\|现象学]]（Phenomenology）为底色，认为“现象”是主体在以[[Intentionality|意向性]]（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，有别于[[Value Neutrality\|价值中立]]的客观实体，且包含具身认知（Embodied cognition）与主体间性（Intersubjectivity）的情感和社交特征。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–4]]
 > - **用途** 帮助研究者和实践者跳出孤立的学科界限，探究学生如何通过真实[[Champ\|场域]]、协作和具身经验面对全球性挑战（如可持续发展）。
 > - **边界** It 不等于消灭[[Disciplinary Institutionalization|学科建制]]的彻底跨学科，也不应被窄化为促进经济竞争和测量标准化技能的工具。
 
 > [!boundary]- 概念边界
-> - 不等于彻底取消学科分类 — PhBL 并非消灭传统学科，而是倡导在保持学科自身逻辑和深度的前提下进行跨学科整合。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
+> - 不等于彻底取消学科分类 — PhBL 是倡导在保持学科自身逻辑和深度的前提下进行跨学科整合，有别于消灭传统学科。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 > - 不适用于去情境化的机械训练 — 它反对脱离学生生活经验的碎片化技能原子化训练。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]
 
 > [!citation-card] 关键表述
@@ -89,7 +89,7 @@ updated: 2026-11-02
 > [!term] 知识结构辨析：[[Disciplina and Doctrina\|disciplina]] 与 Doctrina
 > - **Disciplina（学科/纪律）** 词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]
 > - **Doctrina（教导的动态发展）** 侧重于知识进一步更新与演进的可能性与需求，旨在使成熟知识与不确定未来及开放世界连接。
-> - **跨学科深度的关键（[[Critical Realism]] 视角）** 批判现实主义主张，[[Discipline-Based Theory\|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。
+> - **跨学科深度的关键（[[Critical Realism]] 视角）** 批判现实主义主张，[[Discipline-Based Theory\|学科理论]]是人类探索生活世界不同现象过程中积累出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 是通过“现象”将 `disciplina` 与 `doctrina` 有机整合，有别于通过消解学科来减负。
 
 > [!boundary]- 概念边界与关联
 > - **有别于PBL（问题导向学习）** PBL 扎根于认知心理学，以解决特定预设问题为导向；而 PhBL 奠基于现象学、教化哲学与教学论传统，从生活世界体验的“现象”本身出发。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]
@@ -124,7 +124,7 @@ updated: 2026-11-02
 > 现象本位学习作为一种“自我修正的课程模型”，将 [[John Dewey]] 的[[Reflective Thinking\|反思性探究]]与 [[George Herbert Mead]] 的具身社会互动论融合为[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）。它主张教学应当从预设的课程大纲导向转向基于学生自身世界观的生成，将学习视为“情境化与语境化的互动过程”，以弥合理论与实践的传统鸿沟。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!claim] Schaffar, B., & Wolff, L.-A.
-> 现象本位学习本质上并非一套标准化、可快速复制或可直接移植的教学干预技术，也不是解决教育危机的万灵药（Salvation approach）。它应被视为一个促使教育者重新追问与反思教育及课程意义的“教学反思入口”，旨在唤起教师与学生的教学能动性。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 11]]
+> 现象本位学习本质上有别于一套标准化、可快速复制或可直接移植的教学干预技术，也有别于解决教育危机的万灵药（Salvation approach）。它应被视为一个促使教育者重新追问与反思教育及课程意义的“教学反思入口”，旨在唤起教师与学生的教学能动性。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 11]]
 
 ---
 
@@ -135,7 +135,7 @@ updated: 2026-11-02
 > 跨学科探究必须以尊重学科自身的内在理论逻辑与本体论深度为前提。[[Discipline-Based Theory\|学科理论]]是人类探索世界不同维度的历史积淀与系统化秩序，若将系统知识拆散为碎片化的能力指标或活动模块，将侵蚀学科的内在教育价值。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]
 
 > [!claim] [[Wolfgang Klafki\|Klafki, W.]]
-> 政策制定者与教师无法预测未来学生所需的具体知识、认知与态度。为防止课程降维为对科学知识的狭隘简化，教学必须围绕“[[Epochal Key Problems\|时代关键问题]]”（如环境危机、社会不平等、战争）来组织，以此作为统合学科深度与跨学科广度的 Didactic 工具。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7]]
+> 政策制定者与教师无法预测未来学生所需的具体知识、认知与态度。为防止课程降维为对科学知识的狭隘简化，教学必须围绕“[[Epochal Key Problems\|时代关键问题]]”（如环境危机、社会不平等、战争）来组织，以此作为整合学科深度与跨学科广度的 Didactic 工具。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7]]
 
 > [!claim] Schaffar, B., & Wolff, L.-A.
 > 现象本位学习在政策化与课程化过程中面临“整体性教化理想”与“新自由主义绩效治理”之间的内在对立。全球绩效问责制与 [[OECD]] [[21st Century Skills and Competencies Discourse\|21世纪技能]]政策[[Discourse|话语]]正试图通过指标化和测量技术将课程知识“原子化”为细碎可控的技能包，从而阉割了 PhBL 探索未知和生活世界整体体验的批判潜能。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]

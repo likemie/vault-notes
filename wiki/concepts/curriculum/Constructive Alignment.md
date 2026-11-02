@@ -72,7 +72,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Constructive Alignment
-> 建构性对齐（Constructive Alignment）是 Biggs 提出的课程与评价系统设计原则。“建构性”指学习者通过主动开展认知与实践活动[[Constructed Knowledge\|建构知识]]意义；“对齐”指教育者围绕预期理解，在课程目标（Intended Learning Outcomes, ILOs）、教学／学习活动（[[Teaching and Learning Activities\|teaching/learning activities]], TLAs）与评估任务（Assessment Tasks, ATs）之间建立内在一致的建构性闭环。[[OECD]] 报告进一步将其拓展为涵盖宏观国家资格框架、中观专业全课程架构与微观课堂真实性考核的多层级对齐工程。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–66)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8)]]
+> 建构性对齐（Constructive Alignment）是 Biggs 提出的课程与评价系统设计原则。“建构性”指学习者通过主动开展认知与实践活动[[Constructed Knowledge\|建构知识]]意义；“对齐”指教育者围绕预期理解，在课程目标（Intended Learning Outcomes, ILOs）、教学／学习活动（[[Teaching and Learning Activities\|teaching/learning activities]], TLAs）与评估任务（Assessment Tasks, ATs）之间建立内在一致的建构性反馈回路。[[OECD]] 报告进一步将其拓展为涵盖宏观国家资格框架、中观专业全课程架构与微观课堂真实性考核的多层级对齐工程。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–66)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 建构性对齐把教育过程视为相互作用的生态系统，用同一组可观察的认知动词（如分析、评价、创新设计、批判假设）统整预期结果、学习经历与评价载体。
@@ -151,12 +151,12 @@ updated: 2026-11-02
 > [!frames-ref] 多层级对齐的核心内涵（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）
 > - **宏观层级（Macro）** [[European Qualifications Framework\|欧洲资格框架]]（EQF）与各国 NQF 将[[Higher-Order Thinking Skills\|高阶思维]]确立为学士、硕士与博士的核心学习成果。
 > - **中观层级（Meso / 全课程级）** 克服模块化（Modularisation）导致的考核碎片化危机；依托 [[TESTA Project\|TESTA]] 等模式在专业整体层面统整评价任务，保障跨学期复合能力的螺旋式上升。
-> - **微观层级（Micro / 课堂与量规）** 采用 VALUE 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework\|作业]]与论文中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
+> - **微观层级（Micro / 课堂与量规）** 采用 VALUE 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework\|作业]]与文章中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 
 ---
 
 > [!concept-proposition] 命题一｜学生实际开展的认知活动是课程设计影响理解质量的直接中介
-> **探讨维度　从教学输入转向学生活动** 教学质量的根本决定因素不是教师讲了什么，而是课程能否持续激活学生开展与预期目标相匹配的心智活动。
+> **探讨维度　从教学输入转向学生活动** 教学质量的根本决定因素是课程能否持续激活学生开展与预期目标相匹配的心智活动，有别于教师讲了什么。
 
 > [!claim] Biggs
 > **课程通过活动影响理解** 学生需要亲自经历解释、比较、应用、反思与批判，才能重组认知图式并实现深层理解；教师的讲授只有转化为学生的自主活动，才会对学习结果产生实质性影响。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–65)]]
@@ -199,7 +199,7 @@ updated: 2026-11-02
 > **探讨维度　多层级治理与全课程整合** 现代[[Higher-Order Thinking Skills\|高阶思维]]培养无法依靠孤立的单门课程完成，必须破除模块化碎片化考核，在全专业乃至国家资格框架层面建立系统对齐。
 
 > [!claim] Bouckaert
-> **从微观课程对齐向全系统多层级对齐跃升** 传统对齐局限于单门课程模块内部，易在大学模块化（Modularisation）浪潮中遭遇“过度考核（Hyper-Assessment）”异化；唯有将对齐原则上升至宏观国家资格框架（NQFs）、中观全课程评价架构（[[TESTA Project\|TESTA]]）以及微观跨校教师量规校准研讨（VALUE Calibration），才能从根本上解决大学生批判与创新思维增益微弱的系统性危机。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
+> **从微观课程对齐向全系统多层级对齐提升** 传统对齐局限于单门课程模块内部，易在大学模块化（Modularisation）浪潮中遭遇“过度考核（Hyper-Assessment）”异化；唯有将对齐原则上升至宏观国家资格框架（NQFs）、中观全课程评价架构（[[TESTA Project\|TESTA]]）以及微观跨校教师量规校准研讨（VALUE Calibration），才能从根本上解决大学生批判与创新思维增益微弱的系统性危机。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 
 ---
 
@@ -211,15 +211,15 @@ updated: 2026-11-02
 > | **建设性反拨** | 考核与目标对齐可将应试动力转化为促进深层学习的正面反拨 | 考试制度改革、反拨效应评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 68)]] |
 > | **标准参照** | 依据定性质量标准评定表现，排斥破坏对齐的常模曲线评分 | [[Academic Achievement\|学业成绩]]评定、等级分转换 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 69)]] |
 > | **多路径实现** | 对齐可通过 PBL 自上而下设计，亦可通过档案袋自下而上生成 | 课程与教学模式创新实践 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 70)]] |
-> | **多层级系统协同** | 对齐需跃升为涵盖资格框架、全课程架构与表现量规的多层级工程 | 高教宏观治理、全课程评价改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 6)]] |
+> | **多层级系统协同** | 对齐需提升为涵盖资格框架、全课程架构与表现量规的多层级工程 | 高教宏观治理、全课程评价改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 6)]] |
 
 ---
 
 > [!dev-timeline] 建构性对齐理论演进五阶段
 > - **1993—1996 年：系统教学观与建构性对齐萌芽** Biggs 将学生学习、教学情境与评估理解为相互作用的非线性系统，1996 年正式提出“建构性对齐”概念。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, p. 64)]]
-> - **1999 年：微观课程操作框架完整化** Biggs 发表经典论文，整合[[Constructivist Paradigm\|建构主义]]、目标动词、[[Criterion-Referenced Test\|标准参照评估]]、[[SOLO Taxonomy\|SOLO]] 质量阶梯与[[Assessment Backwash\|评估反拨]]，奠定全球高等教育课程设计的理论基石。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–73)]]
+> - **1999 年：微观课程操作框架完整化** Biggs 发表经典文章，整合[[Constructivist Paradigm\|建构主义]]、目标动词、[[Criterion-Referenced Test\|标准参照评估]]、[[SOLO Taxonomy\|SOLO]] 质量阶梯与[[Assessment Backwash\|评估反拨]]，奠定全球高等教育课程设计的理论基石。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–73)]]
 > - **2000 年代初至 2010 年代：[[Bologna Process\|博洛尼亚进程]]与学习成果本位推广** 欧洲高等教育区将建构性对齐采纳为推行 ECTS 学分制、模块化大纲与成果导向教育（[[Outcomes-based Education\|OBE]]）的核心指导原则。
-> - **2015 年：与[[Visible Learning\|可见的学习]]（Visible Learning）框架衔接** Hattie 强调预先公开[[Success Criteria\|成功标准]]、协调表层与[[Surface and Deep Learning\|深层学习]]，并建立评估反馈闭环，丰富了对齐的实证心理机制。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015a, pp. 80–89)]]
+> - **2015 年：与[[Visible Learning\|可见的学习]]（Visible Learning）框架衔接** Hattie 强调预先公开[[Success Criteria\|成功标准]]、协调表层与[[Surface and Deep Learning\|深层学习]]，并建立评估反馈反馈回路，丰富了对齐的实证心理机制。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015a, pp. 80–89)]]
 > - **2020 年代至今：多层级治理与全课程[[Authentic Assessment\|真实性评价]]重塑** [[OECD]] 报告（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）反思模块化过度考核弊端，倡导通过 [[TESTA Project\|TESTA]] 全专业整合、VALUE 量规校准及国家资格框架联动，构建现代[[Higher-Order Thinking Skills\|高阶思维]]培养的多层级对齐生态。
 
 ---

@@ -62,10 +62,10 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向学习者在反馈交互中的主体能动性机制，涵盖对反馈价值的深层理解、情绪防御的自我调节、评价标准的内在把握以及后续实质性修改行动。
 > - **用途** 帮助教育研究者与教师破除“反馈仅为评阅者向被评者单向传递信息包”的机械传输假定，看见学习者在面对评语时的主动阐释、批判审思与策略行动。
-> - **边界** 不等同于机械执行修改意见的合规率（Feedback Uptake），也不等同于单纯衡量成果好坏的内部标尺感（[[Evaluative Judgement]]），而是连结外部评价信息与内部认知重构的能动中介。
+> - **边界** 不等同于机械执行修改意见的合规率（Feedback Uptake），也不等同于单纯衡量成果好坏的内部标尺感（[[Evaluative Judgement]]），是连结外部评价信息与内部认知重构的能动中介。
 
 > [!citation-card] 自动化反馈作为判断素材而非判断替代
-> 教育研究将评价性判断视为对自身及他人工作质量做出明智决策的能力，而反馈素养则包含理解信息并据此采取行动，绝非单纯被动接收修正；当自动化反馈成为人类判断的推敲素材时方能促进学习，一旦其终局裁决替代了人类判断，学习过程便被实质架空。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 5)]]
+> 教育研究将评价性判断视为对自身及他人工作质量做出明智决策的能力，而反馈素养则包含理解信息并据此采取行动，并不单纯被动接收修正；当自动化反馈成为人类判断的推敲素材时方能促进学习，一旦其终局裁决替代了人类判断，学习过程便被实质架空。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 5)]]
 >
 > *Educational research treats evaluative judgement as a capability to make decisions about the quality of one's own and others' work, while feedback literacy includes making sense of information and acting on it rather than merely receiving corrections. Automated feedback supports learning when it becomes material for judgement; it displaces learning when its verdict replaces that judgement.*
 
@@ -113,7 +113,7 @@ updated: 2026-11-02
 > **探讨维度　认知转化与主体能动性** 探讨外部[[Feedback\|教学反馈]]如何跨越单纯的信息供给，通过学习者的主观能动转译与[[Metacognition\|元认知]]整合，转化为长效的心智结构重组。
 
 > [!claim] Carless and Boud (2018)
-> **反馈效能取决于学习者能动转化而非单向信息传递** 论证反馈并非教师端给出评语即可宣告完成的单向事务，其实质效能完全取决于接收者是否具备阐释信息、调控防御情绪并将建议注入后续行动的素养[[Paradigm\|范式]]；若缺乏学习者的主动参与，外部评语仅是滞留于纸面的静态符号。Carless and Boud (2018, pp. 1315–1317)
+> **反馈效能取决于学习者能动转化而非单向信息传递** 论证反馈有别于教师端给出评语即可宣告完成的单向事务，其实质效能完全取决于接收者是否具备阐释信息、调控防御情绪并将建议注入后续行动的素养[[Paradigm\|范式]]；若缺乏学习者的主动参与，外部评语仅是滞留于纸面的静态符号。Carless and Boud (2018, pp. 1315–1317)
 
 > [!claim] Winstone et al. (2017)
 > **主动利用反馈的四维心理胜任力基础** 指出学生利用反馈（Feedback Uptake）的差异根源于其内在的主动性与素养水平，涉及自我评价、目的意识与应对批判的心理成熟度，呼吁将评估改革重点置于系统发展学习者的反馈接受与行动能力。
@@ -138,7 +138,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 概念演变
 > - **2010–2015 年 — 从单向传输到社会建构对话模式的转向** 早期[[Evaluation Research\|评估研究]]批判“将反馈视作教师单向投递的信息包”（[[Feedback]] as Telling/Transmission）的[[Paradigm\|范式]]缺陷，主张将反馈重塑为师生及生生间共享的对话互动。
-> - **2018 年 — 学生反馈素养框架的正式确立** 戴维·卡利斯（David Carless）与戴维·鲍德（David Boud）在《高等教育评估与评价》（*Assess. Eval. High. Educ.*）发表开创性论文，首次正式确立涵盖“理解反馈、作出判断、管理情绪、采取行动”四维度的学生反馈素养模型。
+> - **2018 年 — 学生反馈素养框架的正式确立** 戴维·卡利斯（David Carless）与戴维·鲍德（David Boud）在《高等教育评估与评价》（*Assess. Eval. High. Educ.*）发表开创性文章，首次正式确立涵盖“理解反馈、作出判断、管理情绪、采取行动”四维度的学生反馈素养模型。
 > - **2020 年 — 教师反馈素养框架的拓展深化** 卡利斯与温斯通（Naomi E. Winstone）进一步提出教师反馈素养（Teacher Feedback Literacy），从“教学设计、[[Student-Teacher Relationship\|师生关系]]敏感度、情境实践折衷”三大维度呼应学生素养的培育机制。
 > - **2024–2026 年 — [[Man-Computer Symbiosis|人机共生]]环境下的认识防御与教学法重塑** 伴随[[Generative Artificial Intelligence\|生成式人工智能技术]]的普及，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者将反馈素养提升至社会[[Epistemology\|认识论]]与学习科学交汇的高地，确立其为破除大模型自动化依赖、捍卫学习者[[Epistemic Agency\|认识主体性]]的核心策略支撑。
 

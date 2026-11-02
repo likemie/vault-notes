@@ -79,18 +79,18 @@ updated: 2026-11-02
 > 2. **过程导向的高阶技能培养** 在习得学科知识的同时，通过明确的小组角色分工，系统训练[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]、团队协作与口头交流等跨学科通用过程技能（Moog & Spencer, 2008；Trout et al., 2008；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 并非简单的“分组讨论”，而是将微观认知加工步骤（从具象模型推演抽象规则）物化在严格序列化的活动指导书（POGIL Activities）中。
+> - **含义** 是将微观认知加工步骤（从具象模型推演抽象规则）物化在严格序列化的活动指导书（POGIL Activities）中，有别于简单的“分组讨论”。
 > - **用途** 破解传统理科入门课程（如大学化学、物理、生物及计算机科学）中高挂科率、高弃学率（DFW 现象）与机械刷题弊端。
 > - **边界** 必须配备经过严格同行评审的 POGIL 结构化活动单，且教师必须在教室内持续走动巡视并实施[[Socrates\|苏格拉底]]式提问；缺乏材料支架与教师引导的放任自流不属于 POGIL。
 
 > [!citation-card] [[Ton de Jong\|德容]]等论 POGIL 与现代指导式探究范式的实践表征
-> 课堂中实施的探究式教学绝非毫无支持的盲目摸索，而是具备深厚的结构化传统。诸如过程导向指导式探究学习（POGIL）、探究式物理课程以及基于网络的探究科学环境（WISE）等代表性方案表明，现代探究教学高度依循严密的[[Inquiry Cycle\|探究循环]]与支架系统，其教学设计精细入微。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
+> 课堂中实施的探究式教学是具备深厚的结构化传统，有别于毫无支持的盲目摸索。诸如过程导向指导式探究学习（POGIL）、探究式物理课程以及基于网络的探究科学环境（WISE）等代表性方案表明，现代探究教学高度依循严密的[[Inquiry Cycle\|探究循环]]与支架系统，其教学设计精细入微。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
 >
 > *Despite what is sometimes proclaimed by opponents of this approach, inquiry-based instruction designed for classroom use is typically structured... as exemplified by Process-Oriented Guided Inquiry Learning (POGIL), nQuire, and the [[Web-based Inquiry Science Environment]] (WISE) approach... Inquiry learning often follows an inquiry cycle with a distinct number of phases.*
 
 > [!boundary]- 概念边界
 > - 不等于 传统的自由[[Cooperative Learning\|合作学习]]（Unstructured Group Work） — 自由合作容易出现“一人包办、全组搭便车”；POGIL 实行强约束的四重角色分工，杜绝责任分散。
-> - 不等于 [[Problem-Based Learning\|基于问题的学习]]（PBL） — PBL 通常围绕宏观劣构的真实世界开放问题展开；POGIL 紧密锚定标准课程大纲中的核心学科概念，活动材料具有高度聚焦的微观收敛性。
+> - 不等于 [[Problem-Based Learning\|基于问题的学习]]（PBL） — PBL 通常围绕宏观劣构的真实世界开放问题展开；POGIL 紧密锚定标准课程大纲中的核心学科概念，活动材料具有高度聚焦的微观汇合性。
 > - 不等于 [[Discovery Learning\|纯发现学习]]（Pure Discovery） — POGIL 材料中先行提供精心编排的数据表、分子结构图或模型（Model），并在关键节点提供概念名称定义，属于典型的强支架指导式探究。
 
 ---
@@ -200,7 +200,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > - **1994–1999 — 化学课堂改革试点与三阶段学习环确立** 穆格等人在[[Michael Fullan|富兰]]克林与马歇尔学院反思化学大班讲授的高淘汰率，确立以模型为中心的探究活动单雏形，创立 POGIL 教学法原型。
 > - **2003–2008 — [[National Science Foundation\|NSF]] 重大资助与全美 POGIL 项目社群建立** 获得美国国家科学基金会（NSF）数百万美元资助，正式建立 The POGIL Project 官方非营利组织，出版化学、生物与物理标准教材活动集（Moog & Spencer, 2008）。
 > - **2010–2016 — 跨学科横向拓展至计算机科学与中学教育** POGIL 成功溢出化学领域，被引入大学计算机科学（CS-POGIL）、高中 AP 课程与[[Engineering Education|工程教育]]，成为探究教学的标准[[Paradigm\|范式]]之一。
-> - **2017 — Walker & Warfa 权威[[Meta-analysis\|元分析]]确立循证底座** 沃克与瓦法在《PLoS One》发表里程碑元分析，严格量化了 POGIL 在提升课程通过率与降低 DFW 上的系统优势，确立其循证有效性（Walker & Warfa, 2017）。
+> - **2017 — Walker & Warfa 权威[[Meta-analysis\|元分析]]确立循证基础** 沃克与瓦法在《PLoS One》发表里程碑元分析，严格量化了 POGIL 在提升课程通过率与降低 DFW 上的系统优势，确立其循证有效性（Walker & Warfa, 2017）。
 > - **2023 — De Jong et al. 里程碑综述纳入国际探究全景** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 将 POGIL 作为科学教育中结构化[[Inquiry-Based Learning\|指导式探究]]的标杆实践，有力反击[[Direct Instruction\|直接教学]]派关于探究等于“无指导放任”的不实指责。（p. 3）
 
 ---
@@ -243,7 +243,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 ---
 
 > [!case] 大学普通化学“化学平衡与勒夏特列原理”POGIL 教学设计（Moog & Spencer, 2008）
-> 在学习勒夏特列原理时，教师不讲授任何原理条文，而是分发四人小组活动单。
+> 在学习勒夏特列原理时，教师不讲授任何原理条文，是分发四人小组活动单。
 > - **模型探索** 活动单呈现一个已达平衡的密闭气体反应体系数据表（反应物 $\text{N}_2$、$\text{H}_2$ 与产物 $\text{NH}_3$ 在不同温度和压强下的浓度变化曲线）。四人小组中，管理者监督进度，记录员填写数据观察题，质疑员反复核对数据是否自洽。
 > - **概念形成** 问题逐步引导学生发现“当外力增加压强时，体系总摩尔数减少；当升高温度时，吸热反应方向被强化”。活动单紧接着呈现：“科学家将体系对抗外加扰动以恢复平衡的趋势称为勒夏特列原理”。学生通过发言人向全班陈述自己小组的定义推导。
 > - **概念应用** 各组立即利用该原理预测合成氨工业中如何通过动态移走产物来最大化产率。整堂课教师仅巡视并提出反问，学生在深度思考与主动辩驳中彻底消化了这一难点概念。

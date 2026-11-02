@@ -95,7 +95,7 @@ updated: 2026-11-02
 > **探讨维度　新殖民批判** 这一命题分析大数据评估如何作为日常帝国主义运作。
 
 > [!claim] [[Eleftherios Klerides\|Klerides, E.]]
-> **[[Banal Imperialism\|平庸的帝国主义]]与远处规训** 指出在新自由主义全球化下，再西方化不需要通过领土侵占，而是将 [[OECD]] 等机构重塑为“知识新帝国”来行使软性[[Governing at a Distance\|远处治理]]。[[PISA]] 大数据的日常生产和跨国流动，构成了“[[Banal Imperialism\|平庸的帝国主义]]”（Banal Imperialism），强迫发展中国家为了被承承认为世界社会成员而削足适履地趋同于西方的学校模型，本质上维持了中心对边缘的结构性剥削。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
+> **[[Banal Imperialism\|平庸的帝国主义]]与远处规训** 指出在新自由主义全球化下，再西方化不需要通过领土侵占，是将 [[OECD]] 等机构重塑为“知识新帝国”来行使软性[[Governing at a Distance\|远处治理]]。[[PISA]] 大数据的日常生产和跨国流动，构成了“[[Banal Imperialism\|平庸的帝国主义]]”（Banal Imperialism），强迫发展中国家为了被承承认为世界社会成员而削足适履地趋同于西方的学校模型，本质上维持了中心对边缘的结构性剥削。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
 
 ---
 

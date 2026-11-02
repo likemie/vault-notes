@@ -82,7 +82,7 @@ updated: 2026-11-02
 > *Epistemic aims are the goals that people adopt when inquiring or forming beliefs... the AIR model expands epistemic cognition beyond acquiring justified true beliefs to a broader array of epistemic achievements, such as developing explanatory models, evaluating empirical evidence, and generating trustworthy scientific arguments.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Epistemic Ideals]]：认识论目标回答“探究追求什么认知成就”（如因果机制理解），而认识论理想回答“达成该成就是否令人信服的检验标准”（如全证据契合与多源收敛）。
+> - 不等于 [[Epistemic Ideals]]：认识论目标回答“探究追求什么认知成就”（如因果机制理解），而认识论理想回答“达成该成就是否令人信服的检验标准”（如全证据契合与多源汇合）。
 > - 不等于 [[Reliable Epistemic Processes]]：认识论目标是认知探究的意图终点，认识论过程则是实现该目标的因果操作程序（如双盲实验与[[Systematic Review\|系统综述]]）。
 > - 不等于 一般成就动机：追求考试高分、展示个人聪明才智或在辩论中驳倒对手属于普遍动机或社交目标；只有当意图直接锁定在理解事物运作机制或逼近客观事实时，才构成认识论目标。
 
@@ -132,7 +132,7 @@ updated: 2026-11-02
 > **探讨维度　目标对科学实践与论证评价的规范塑形维度** 探讨科学教学中任务设定的[[Epistemology\|认识论]]目标如何界定学习者调动[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]的深度。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
-> **目标框定实践范畴** 在科学探究与论证中，认识目标决定了论证者究竟是在开展真正的科学裁决还是在进行修辞性话术包装。科学教育应当将认识目标从记忆标准答案拓展至建构因果模型与裁决相互竞争的[[Scientific Explanation\|科学解释]]，正是这种指向模型辨析的高阶认识目标，驱动着论证者调动全域证据契合、多源收敛等高水平认识论理想以及对生成条件的审视。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–208)]]
+> **目标框定实践范畴** 在科学探究与论证中，认识目标决定了论证者究竟是在开展真正的科学裁决还是在进行修辞性话术包装。科学教育应当将认识目标从记忆标准答案拓展至建构因果模型与裁决相互竞争的[[Scientific Explanation\|科学解释]]，正是这种指向模型辨析的高阶认识目标，驱动着论证者调动全域证据契合、多源汇合等高水平认识论理想以及对生成条件的审视。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–208)]]
 
 ---
 
@@ -140,15 +140,15 @@ updated: 2026-11-02
 > **探讨维度　目标对齐与评价敏感性维度** 探讨[[Epistemic Cognition\|认识论认知]]干预的成效为何高度依赖评价任务所预设的认识目标层级，揭示测验对齐对干预效应释放的决定性影响。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
-> **目标对齐与高阶认识成就敏感性** 认识论认知干预的学业收益并非无差别地投射在所有类型的学业测验上，而是取决于评价任务所激活的认识目标层级。在对[[Intervention Research\|干预研究]]的一阶[[Meta-analysis\|元分析]]中，当[[Pre-test and Post-test\|后测]]任务直接对齐高阶认识目标（如撰写需要协调冲突证据的论证性文章或建构因果解释模型）时，学生展现出极高的干预获益；而当后测降级为脱离具体认识目标的通用远程标准化测验或低阶事实记忆时，干预效应则大幅衰减甚至变得不显著。这一机制表明，认识论认知干预的核心价值在于赋能深层探究与批判性知识裁决，而非提升机械化的解题效率。
+> **目标对齐与高阶认识成就敏感性** 认识论认知干预的学业收益是取决于评价任务所激活的认识目标层级，有别于无差别地投射在所有类型的学业测验上。在对[[Intervention Research\|干预研究]]的一阶[[Meta-analysis\|元分析]]中，当[[Pre-test and Post-test\|后测]]任务直接对齐高阶认识目标（如撰写需要协调冲突证据的论证性文章或建构因果解释模型）时，学生展现出极高的干预获益；而当后测降级为脱离具体认识目标的通用远程标准化测验或低阶事实记忆时，干预效应则大幅衰减甚至变得不显著。这一机制表明，认识论认知干预的核心价值在于赋能深层探究与批判性知识裁决，而非提升机械化的解题效率。
 
 ---
 
-> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]时代教育的认识论目标必须坚持内生机能、智力技能与理智品格的三重统合
+> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]时代教育的认识论目标必须坚持内生机能、智力技能与理智品格的三重整合
 > **探讨维度　教育认识论目标的本体层级与技术依赖抵御** 探讨生成式 AI 时代教育认识论目标如何突破单纯产出效率与外在完成度，确立以培育学生内在机体能力与德性品格为核心的规范边界。
 
 > [!claim] [[Argument_Naeem_2026_Episteme\|Naeem (2026)]]
-> **教育三重认识论目标体系与[[Cognitive Deskilling|去技能化]]阻断** 教育的核心认识论目标在于强化认识主体自身的内在成长，具体包含三大递进层级：① 锤炼内生认知机能（如[[Working Memory|工作记忆]]与逻辑推理）；② 传授程序性智力技能（如写作、论证与[[Skill of Questioning|善于提问]]）；③ 塑造健全的[[Epistemic Virtues and Vices|理智美德]]（如[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]）。当学生将写作与推理全盘外包给生成式 AI 以追求快速完成[[Homework|作业]]的外在产出时，直接切断了内生思维机能所必需的认知挣扎，引发认知与创造力的双重[[Cognitive Deskilling|去技能化]]。因此，教育系统的认识论目标不能降级为表层的任务产出效率，必须将技术交互规约锁定在保护认知挣扎、训练提问技能并滋养求真品格的内生发展上。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270–274)]]
+> **教育三重认识论目标体系与[[Cognitive Deskilling|去技能化]]阻断** 教育的核心认识论目标在于强化认识主体自身的内在成长，具体包含三大递进层级：① 锤炼内生认知机能（如[[Working Memory|工作记忆]]与逻辑推理）；② 传授程序性智力技能（如写作、论证与[[Skill of Questioning|善于提问]]）；③ 塑造健全的[[Epistemic Virtues and Vices|理智美德]]（如[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]）。当学生将写作与推理全盘外包给生成式 AI 以追求快速完成[[Homework|作业]]的外在产出时，直接切断了内生思维机能所必需的认知挣扎，引发认知与创造力的双重[[Cognitive Deskilling|去技能化]]。因此，教育系统的认识论目标不能降级为表层的任务产出效率，必须将技术交互规范锁定在保护认知挣扎、训练提问技能并滋养求真品格的内生发展上。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270–274)]]
 
 ---
 
@@ -158,17 +158,17 @@ updated: 2026-11-02
 > | **信念中介论** | 认识目标调控认识论信念向具体学习策略的转化 | 学习策略预测、[[Learner Autonomy\|自主学习]]与动机研究 | Chinn et al. |
 > | **实践塑形论** | 认识目标决定探究范畴并驱动理想与可靠过程的激活 | 科学探究教学、科学论证评价与建模活动 | Duncan & Chinn |
 > | **目标对齐论** | 任务目标与测验维度的认识论对齐决定干预效应显现幅度 | 认识论干预效果评估、[[Academic Achievement\|学业成就]]测验设计与评价对齐 | Cartiff et al. |
-> | **三重统合论** | 教育认识论目标包含机能、技能与美德三重统合，[[Technology Infusion\|技术整合]]必须抵御去技能化 | [[Generative Artificial Intelligence\|生成式人工智能]]教学整合、教育哲学目标规范辩护 | [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
+> | **三重整合论** | 教育认识论目标包含机能、技能与美德三重整合，[[Technology Infusion\|技术整合]]必须抵御去技能化 | [[Generative Artificial Intelligence\|生成式人工智能]]教学整合、教育哲学目标规范辩护 | [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1986–2003 — 哲学[[Epistemology\|认识论]]奠基** Goldman (1986) 与 Kvanvig (2003) 阐述认识论的核心是达成真理与深层理解等认识成就，奠定了认识论目标的规范哲学底座。
+> - **1986–2003 — 哲学[[Epistemology\|认识论]]奠基** Goldman (1986) 与 Kvanvig (2003) 阐述认识论的核心是达成真理与深层理解等认识成就，奠定了认识论目标的规范哲学基础。
 > - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]首要构件** Chinn 等学者将认识目标确立为扩展认识论认知五构件的第一组件，用以划定认识论认知与非认识论倾向的边界。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型核心支柱** Chinn, Rinehart & Buckland 提出 AIR 模型，将认识目标（Aims）与理想（Ideals）、[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）整合为三元微观动态网络。
 > - **2021 — 任务对齐与因果干预效应的量化确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过[[Meta-analysis\|元分析]][[Interaction Effect\|调节效应]]检验，量化证实了任务认识目标与评价测验对齐在调节认识论干预成效中的关键机制。
 > - **2025 — 广义认识成就与论证实践拓展** Duncan & Chinn 将认识目标系统拓展至科学建模、证据评估与论证产出等[[Authentic Science Practices|真实科学实践]]范畴。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
-> - **2026 — 人工智能时代的教育三重认识论目标体系** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 结合[[Virtue Epistemology|美德认识论]]责任论，明确确立教育的认识论目标由内生机能、[[Procedural Skill|程序性技能]]与理智品格三重统合构成，为批判 AI 外包引发的[[Cognitive Deskilling|去技能化]]提供了规范基石。
+> - **2026 — 人工智能时代的教育三重认识论目标体系** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 结合[[Virtue Epistemology|美德认识论]]责任论，明确确立教育的认识论目标由内生机能、[[Procedural Skill|程序性技能]]与理智品格三重整合构成，为批判 AI 外包引发的[[Cognitive Deskilling|去技能化]]提供了规范基石。
 
 ---
 

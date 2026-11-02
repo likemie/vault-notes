@@ -56,7 +56,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Opportunists
-> 机会主义者（Opportunists）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指对制度存续持模糊偏好（既不积极维护亦不主动寻求废除）、在日常行动中采取模糊遵从（视收益与风险相机抉择）的博弈主体。机会主义者不愿承担公开对抗掌权者的高昂政治成本，但在弱否决阻力与高[[Enforcement Discretion|规则裁量权]]的制度情境下，会敏锐利用法律条文的内生模糊性将既有规则重新部署（redeploy）用于全新目标，成为驱动[[Institutional Conversion|制度转换]]的关键主体；而在常规政治中，其不作为构成体制维持现状的惰性盟友，在抗争越过临界规模时则通过集体倒戈触发级联变革（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 26–31]]）。
+> 机会主义者（Opportunists）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过脱钩行动者的长期制度维系目标与短期策略遵从行为确立，特指对制度存续持模糊偏好（既不积极维护亦不主动寻求废除）、在日常行动中采取模糊遵从（视收益与风险相机抉择）的博弈主体。机会主义者不愿承担公开对抗掌权者的高昂政治成本，但在弱否决阻力与高[[Enforcement Discretion|规则裁量权]]的制度情境下，会敏锐利用法律条文的内生模糊性将既有规则重新部署（redeploy）用于全新目标，成为驱动[[Institutional Conversion|制度转换]]的关键主体；而在常规政治中，其不作为构成体制维持现状的惰性盟友，在抗争越过临界规模时则通过集体倒戈触发级联变革（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 26–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在特定规则体系中缺乏深层制度忠诚、亦无激进反叛意识，以最小合规成本博取最大私人收益的理性博弈行动者。
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜弱否决与高裁量权语境筛选出机会主义者作为[[Institutional Conversion|制度转换]]的主导力量
-> **探讨维度　制度变迁与转换维度** 阐明特定宏观语境与制度属性如何赋予机会主义者不成比例的行动杠杆，推动既有规则偏离其设计初衷。
+> **探讨维度　制度变迁与转换维度** 阐明特定宏观语境与制度属性如何赋予机会主义者不成比例的行动手段，推动既有规则偏离其设计初衷。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **[[Zone of Discretion|裁量空间]]诱发的借调与转换** 机会主义者在弱[[Veto Possibilities|否决可能性]]与高解释[[Enforcement Discretion|执行裁量权]]的特定制度环境中繁荣生长。在这一语境中，体制挑战者无需诉诸激进的起义策略，因为成文规则与现实执行之间的缝隙足够广阔；同时，体制支持者只要看到挑战者没有公开推翻规章，往往对其在执行端的变通转用睁一只眼闭一只眼。机会主义者正是在此软肋中将现有规则重新部署用于其自身目标，从而在规则形式文本一字未改的情形下，驱动了深刻的[[Institutional Conversion|制度转换]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–28]]）。
@@ -137,7 +137,7 @@ updated: 2026-11-02
 ---
 
 > [!case] 法国雇主与《奥鲁改革》：将劳工权利法案逆向转换为分化工会的工具
-> 1981年法国社会党政府出台《奥鲁改革》（Auroux Reforms），旨在强化工会在工作场所的集体协商地位。然而，法国私营雇主作为典型的机会主义行动者，并未采取高成本的激进罢工或正面违抗法律，而是敏锐利用了法律条款中关于企业级谈判的模糊表述。雇主们顺应法律要求推行去中心化的企业谈判，却巧妙地将这些新机制重新部署为绕过全国性工会联合会、直接推行弹性工时与个别化劳工合同的工具。原本旨在赋权工会的进步立法，被机会主义雇主彻底转换为削弱工会团结、巩固资方用工弹性的[[Institutional Conversion|制度转换]]典型案例（Howell, 1992；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–28]]）。
+> 1981年法国社会党政府出台《奥鲁改革》（Auroux Reforms），旨在强化工会在工作场所的集体协商地位。然而，法国私营雇主作为典型的机会主义行动者，并未采取高成本的激进罢工或正面违抗法律，是敏锐利用了法律条款中关于企业级谈判的模糊表述。雇主们顺应法律要求推行去中心化的企业谈判，却巧妙地将这些新机制重新部署为绕过全国性工会联合会、直接推行弹性工时与个别化劳工合同的工具。原本旨在赋权工会的进步立法，被机会主义雇主彻底转换为削弱工会团结、巩固资方用工弹性的[[Institutional Conversion|制度转换]]典型案例（Howell, 1992；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–28]]）。
 
 > [!case] 东欧剧变中的革命雪崩：机会主义大众的表露偏好逆转
 > 铁木尔·库兰（Timur Kuran）与马克·贝辛格（Mark Beissinger）的研究表明，在东欧剧变前夕，由于对抗极权机器面临极高的个人惩罚成本，绝大多数对体制不满的公民采取机会主义态度，在公开场合伪装偏好、表现顺从。然而，极少数激进[[Insurrectionaries|起义者]]的抗争活动跨过临界规模后，向社会传递出政权崩溃不可逆的明确信号；这一信号迅速消除了机会主义大众的对抗预期成本，引发了跨阶层的集体表露偏好逆转与倒戈级联，导致看似固若金汤的体制瞬间发生雪崩式瓦解（Kuran, 1991; Beissinger, 2002；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 30–31]]）。

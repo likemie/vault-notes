@@ -68,7 +68,7 @@ updated: 2026-11-02
 
 > [!concept-lens] 概念透镜
 > - **含义** TFP 刻画了生产函数中无法由可观测有形要素投入直接解释的部分——经济学史中常被称为“对无知程度的度量”（Abramovitz, 1956），囊括了技术发明、组织效率、[[Human Capital Theory|人力资本]]质量提升与网络外溢红利。
-> - **用途** 在宏观经济学中用于增长核算（Growth Accounting）与跨国生产率收敛检验；在实证微观与地缘经济研究中，TFP 差距常被作为技术差距与[[Technological Catch-up|技术追赶]]成效的因[[Variable|变量]]（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）；在产业政策制定中用于评估重振制造业对全要素生产率增长的拉动潜力（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）。
+> - **用途** 在宏观经济学中用于增长核算（Growth Accounting）与跨国生产率汇合检验；在实证微观与地缘经济研究中，TFP 差距常被作为技术差距与[[Technological Catch-up|技术追赶]]成效的因[[Variable|变量]]（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）；在产业政策制定中用于评估重振制造业对全要素生产率增长的拉动潜力（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）。
 > - **边界** TFP 本身是核算剩余，无法直接分离内生自主创新与外部技术引进的各自比重；其测算结果高度依赖价格指数折算、资本存量折旧率设定与要素份额校准。
 
 > [!citation-card] 技术差距与全要素生产率测算
@@ -103,7 +103,7 @@ updated: 2026-11-02
 > - **资本存量估算（Capital Stock Estimation）** 采用[[Perpetual Inventory Method|永续盘存法]]（[[Perpetual Inventory Method]]）根据固定资产历史投资流 $I_{jt}$ 与折旧率 $\delta$ 进行动态推算：$K_{jt} = I_{jt} + (1-\delta) K_{j,t-1}$。
 > - **劳动投入质量调整（Labor Input & [[Human Capital Theory|human capital]]）** 将就业人数与工时结合[[Educational Level|受教育年限]]、技能结构进行加权调整，反映[[Human Capital Theory|人力资本]]提升对生产率的实质贡献。
 > - **制造业研发溢出与生产率引擎（Manufacturing R&D Spillovers）** 制造业具备全行业最高的研发密集度、深度跨行业供应链纽带以及密集的[[Learning by Doing|干中学]]效应；先进制造工艺突破能够向物流、通信及现代服务业产生广泛的 TFP 赋能外溢。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2–3)]]
-> - **企业微观[[Heterogeneity|异质性]]与资源再配置（Micro-heterogeneity & Reallocation）** 行业内部不同企业间的 TFP 存在显著离散度；市场竞争与产业政策通过淘汰低效组织、激励前沿企业扩张实现宏观 TFP 的整体跃升。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–155)]]
+> - **企业微观[[Heterogeneity|异质性]]与资源再配置（Micro-heterogeneity & Reallocation）** 行业内部不同企业间的 TFP 存在显著离散度；市场竞争与产业政策通过淘汰低效组织、激励前沿企业扩张实现宏观 TFP 的整体提升。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–155)]]
 
 > [!logic-map]- 全要素生产率构成与[[Modern Industrial Policy|现代产业政策]]驱动逻辑
 > ```mermaid
@@ -144,12 +144,12 @@ updated: 2026-11-02
 > **探讨维度　产业结构与长期生产率动力** 探讨制造业在国民经济全要素生产率增长中的特殊地位，论证去工业化为何导致生产率停滞与区域衰退。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **先进制造对国家生产率的战略支柱作用** 制造业并非普通经济部门，而是驱动全要素生产率增长的根本引擎。先进制造业集中了全美 55% 以上的研发投入与绝大部分工程专利；其生产过程中的工艺复杂性、良率爬坡与[[Learning by Doing|干中学]]效应能够产生极强的知识溢出，带动上下游产业链整体效率提升。过去数十年的过度外包与去工业化切断了研发与生产的反馈闭环，直接导致美国整体生产率增长放缓；拜登政府现代产业战略通过重振半导体与清洁能源制造，旨在从供给侧重建国家长期的全要素生产率增长基础。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 14–15)]]
+> **先进制造对国家生产率的战略支柱作用** 制造业是驱动全要素生产率增长的根本引擎，有别于普通经济部门。先进制造业集中了全美 55% 以上的研发投入与绝大部分工程专利；其生产过程中的工艺复杂性、良率爬坡与[[Learning by Doing|干中学]]效应能够产生极强的知识溢出，带动上下游产业链整体效率提升。过去数十年的过度外包与去工业化切断了研发与生产的反馈反馈回路，直接导致美国整体生产率增长放缓；拜登政府现代产业战略通过重振半导体与清洁能源制造，旨在从供给侧重建国家长期的全要素生产率增长基础。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 14–15)]]
 
 ---
 
 > [!concept-proposition] 命题三｜全要素生产率差距是衡量跨国[[Technological Catch-up|技术追赶]]与技术溢出成效的核心[[Dependent Variable|因变量]]
-> **探讨维度　跨国生产率收敛与技术扩散** 探讨如何利用行业层面的 TFP 差距精准捕捉非正式[[Technology Transfer|技术转移]]与[[Technological Catch-up|技术赶超]]轨迹。
+> **探讨维度　跨国生产率汇合与技术扩散** 探讨如何利用行业层面的 TFP 差距精准捕捉非正式[[Technology Transfer|技术转移]]与[[Technological Catch-up|技术赶超]]轨迹。
 
 > [!claim] [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]]
 > **行业 TFP 差距作为技术追赶的度量工具** 在冷战时期东德对西德的经济追赶研究中，对数 TFP 差距（$\ln A_{Wjt} - \ln A_{Ejt}$）的动态收窄直接反映了来自西方的技术情报转移效应。通过精细校准非市场计划价格体系下的资本与劳动份额，实证检验表明工业间谍获取的情报显著缩小了东德在计算机、化工等关键制造业领域与西德的 TFP 差距，证实了跨国技术溢出能够直接转化为后发经济体的全要素生产率追赶。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1075–1078, 1097)]]
@@ -207,7 +207,7 @@ updated: 2026-11-02
 > |:---|:---|:---|:---|:---|
 > | 美国制造业部门整体 | 占全美企业研发支出 >55%，产出绝大部分商业专利 | 高度依赖车间工艺改进与[[Learning by Doing\|干中学]]良率爬坡，产生广泛技术外溢 | 去工业化削弱创新链条，[[Modern Industrial Policy\|现代产业政策]]（CHIPS/[[International Reading Association\|IRA]]）旨在重筑供给侧生产率基石 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 1–3, 14–15)]] |
 > | 美国跨世纪 TFP 增长变迁（1900–2014） | 1920–1970 黄金期 TFP 年均复合增速达 2.0% 以上，1970 年后大幅降至约 0.5% | 1970 年后第三次工业革命局限于信息娱乐通信领域，未能扭转全要素生产率长期放缓 | 揭示科技资本过度沉溺于浅层消费软件、放弃重大物理工程导致的[[Big Idea Famine\|大构想饥荒]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04\|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]] |
-> | 冷战时期东德重点制造业 | 依靠外来科技情报（工业间谍）推动制程改造 | 关键部门情报流入显著缩小行业对数 TFP 差距达数个百分点 | 证明后发经济体能够依托外部工艺[[Technology Transfer\|技术转移]]加速 TFP 收敛 | [[Argument_Glitz_2020_AmEconRev\|(Glitz & Meyersson, 2020, pp. 1075–1078)]] |
+> | 冷战时期东德重点制造业 | 依靠外来科技情报（工业间谍）推动制程改造 | 关键部门情报流入显著缩小行业对数 TFP 差距达数个百分点 | 证明后发经济体能够依托外部工艺[[Technology Transfer\|技术转移]]加速 TFP 汇合 | [[Argument_Glitz_2020_AmEconRev\|(Glitz & Meyersson, 2020, pp. 1075–1078)]] |
 > | 欧洲多国制造与服务业微观企业 | 科学驱动型与专业供应商型产业具备最高 TFP 增速 | 企业间 TFP 差距达 2–9 倍，[[Heterogeneity\|异质性]]贯穿整个经济周期 | 证实创新模式与[[Technological Trajectories\|技术轨迹]]对企业生产率分化的决定性作用 | [[Argument_Bogliacino_Pianta_2016_EconPol\|(Bogliacino & Pianta, 2016, pp. 153–156)]] |
 
 ---

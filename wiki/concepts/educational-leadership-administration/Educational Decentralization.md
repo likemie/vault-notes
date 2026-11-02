@@ -81,7 +81,7 @@ updated: 2026-11-02
 
 > [!concept-lens] 概念透镜
 > - **行政扁平化与民主赋权维度** 关注权力纵向配置从威权单中心向多中心下移，透视后发民主转型国家通过分权破除历史集权专制包袱的制度诉求。
-> - **远处治理与紧缩卸责维度** 透视国际多边组织如何将分权包装为现代化普适模型，实质是将公共财政筹措与办学风险向地方及基层学校转移，同时强化中央对达标绩效的远程量化规约（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]）。
+> - **远处治理与紧缩卸责维度** 透视国际多边组织如何将分权包装为现代化普适模型，实质是将公共财政筹措与办学风险向地方及基层学校转移，同时强化中央对达标绩效的远程量化规范（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]）。
 > - **公共服务市场化与私有化跳板维度** 揭示新自由主义国家如何以放权（Devolution）为修辞拆解公立区域教育局，将公共职能外包给商业实体，为跨国商业资本进驻公立学校并牟取暴利创造制度温床（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 30]]）。
 > - **制度脱节与[[Recontextualization|再情境化]]异化维度** 揭示外来去情境化分权方案在遭遇缺乏资源准备与专业师训的本土土壤时，必然诱发行政瘫痪与微观教学秩序失控。
 
@@ -110,7 +110,7 @@ updated: 2026-11-02
 
 > [!feature] 教育分权的核心制度要素
 > - **财权与事权下放（Fiscal & Administrative Devolution）** 地方政府或基层学校获得制定本地教育预算、新建校舍、调配教职人员以及决定学校设点的法定权力（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–326]]）。
-> - **[[Governing at a Distance|远处治理]]与中央质量评估捆绑（[[Steering at a Distance]] & Central Evaluation）** 在跨国治理模式中，分权并非国家权力的绝对消退，而是与国家级标准化质量监控系统成套捆绑，中央政府借由结果问责实现远程监控（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]）。
+> - **[[Governing at a Distance|远处治理]]与中央质量评估捆绑（[[Steering at a Distance]] & Central Evaluation）** 在跨国治理模式中，分权是与国家级标准化质量监控系统成套捆绑，中央政府借由结果问责实现远程监控（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]），有别于国家权力的绝对消退。
 > - **公共服务企业化改制与市场化外包（Corporatization & Service Outsourcing）** 新自由主义分权改革（如新西兰模式）通过撤销区域公立教育行政机构，将其原有职能改组为自负盈亏的私营服务公司，迫使基层学校成为自担风险的采购主体（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 30]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 > - **课程与意识形态自主空间（Curricular & Ideological Space）** 地方与学校被允许在国家共通框架外增设地方语言、区域历史与文化特色课程；但若缺乏清晰规范极易诱发意识形态割裂或教学真空（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 328–329]]）。
 > - **中央-地方协调机制与制度真空陷阱（Inter-level Coordination & Institutional Vacuum）** 维系国家教育统一空间不可或缺的对齐规程；在缺乏财力保障与师资专业准备的激进分权中，极易诱发基层学校的失控恐慌与体制性脱节（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 353–355]]）。
@@ -134,7 +134,7 @@ updated: 2026-11-02
 > **探讨维度　行政冗余与系统脱节** 探讨分权改革在缺乏严谨效能评估的情况下，如何异化为庞大且臃肿的官僚利益集团，削弱教育系统的实际运行能力。
 
 > [!claim] [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
-> **行政过度膨胀与体系解耦** 当国家出于告别威权集权的政治动机而急剧推行地方分权时，往往会伴生严重的官僚行政过度膨胀。在西班牙等案例中，中央部门与 17 个自治区竞相扩张行政层级与公务员编制，创造了极其臃肿的行政队伍，却忽视了产出效益比；同时，中央与地方之间、地方各区域之间普遍陷入严重的协调缺失（Discoordination），导致国家教育体系内部出现脱节与割据解体的结构性碎裂，严重拖累了国家教育系统的国际[[Competitiveness|竞争力]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–330)]]
+> **行政过度膨胀与体系脱钩** 当国家出于告别威权集权的政治动机而急剧推行地方分权时，往往会伴生严重的官僚行政过度膨胀。在西班牙等案例中，中央部门与 17 个自治区竞相扩张行政层级与公务员编制，创造了极其臃肿的行政队伍，却忽视了产出效益比；同时，中央与地方之间、地方各区域之间普遍陷入严重的协调缺失（Discoordination），导致国家教育体系内部出现脱节与割据解体的结构性碎裂，严重拖累了国家教育系统的国际[[Competitiveness|竞争力]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–330)]]
 
 ---
 
@@ -146,7 +146,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题三｜国际组织将分权化作为普遍模型捆绑输出，在闭合替代空间的同时诱发微观[[Recontextualization|再情境化]]脱节
+> [!concept-proposition] 命题三｜国际组织将分权化作为普遍模型捆绑输出，在封闭替代空间的同时诱发微观[[Recontextualization|再情境化]]脱节
 > **探讨维度　全球[[Discourse|话语]]垄断与本土[[Recontextualization|再情境化]]异化** 探讨国际多边组织如何通过成套捆绑分权与质量监控模型垄断借款国政策空间，以及该抽象模型遭遇本土脆弱制度土壤时诱发的异化后果。
 
 > [!claim] Beech (2005); [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
@@ -158,7 +158,7 @@ updated: 2026-11-02
 > **探讨维度　放权修辞与公共服务市场化俘获** 探讨新自由主义政策如何借分权（Devolution）之名行私有化之实，将公共教育管理系统转化为商业外包的寻利[[Champ|场域]]。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]; [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]
-> **新西兰明日学校放权与公共服务企业化** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]指出，新西兰 1989 年推行的明日学校改制是一场标志性的新自由主义权力下放（Devolution）试验。政府以放权赋能为名解散了原有的区域公立教育局，将其原先免费向学校提供的公共行政、人事核算和校车交通职能拆分并改组为自负盈亏的企业化教育服务中心（ESCs），如 Multiserve（后更名为 [[Cognition Education|认知教育]]公司）。放权并未带来真正的民主自治，而是迫使基层学校在半开放市场上自购服务，为私营商业资本进驻公立学校打开了大门（p. 30; citing O'Neill et al., 2016）。
+> **新西兰明日学校放权与公共服务企业化** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]指出，新西兰 1989 年推行的明日学校改制是一场标志性的新自由主义权力下放（Devolution）试验。政府以放权赋能为名解散了原有的区域公立教育局，将其原先免费向学校提供的公共行政、人事核算和校车交通职能拆分并改组为自负盈亏的企业化教育服务中心（ESCs），如 Multiserve（后更名为 [[Cognition Education|认知教育]]公司）。放权并未带来真正的民主自治，是迫使基层学校在半开放市场上自购服务，为私营商业资本进驻公立学校打开了大门（p. 30; citing O'Neill et al., 2016）。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **放权衍生的知识变现网络与公共资金转移** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]进一步揭示，公共教育系统放权改制催生了学术专家与商业资本结盟的旋转门机制。学者[[John Hattie|哈蒂]]身兼公立大学教授与改制后商业公司董事的双重身份，将其学术成果《[[Visible Learning|可见的学习]]》商业化并独家授权给该公司，获取高达 86.9 万新西兰元的个人版税；最终该商业专营品牌被跨国出版巨头[[Corwin Press|考文出版社]]以 5000 万美元的年营业额全资收购。放权改革最终演变为跨国商业资本吸纳公共教育预算的牟利通道（pp. 30–31）。
@@ -170,7 +170,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **官僚膨胀与体系脱节命题** | 急剧且不可逆的区域教育分权会催生庞大臃肿的行政官僚队伍，诱发国家教育体系分裂与协调丧失 | 转型国家权力重组、区域自治改革、行政效能与[[Bureaucracy\|官僚制]]批判 | [[José Luis García Garrido\|García Garrido (2009)]] |
 > | **审慎调适与集权回流命题** | 成熟经济体在应对分权碎片化风险时普遍加强国家标准统筹与中央问责，避免向中层大区过度让渡控制权 | 跨国比较教育治理、英美德教育中央化反弹、法国意大利外派模式 | [[José Luis García Garrido\|García Garrido (2009)]] |
-> | **话语垄断与实践脱节命题** | 跨国机构将分权化作为普遍模型输出并捆绑中央质量监控，不仅闭合了受援国政策替代空间，更在微观落地中诱发严重异化 | [[Global Educational Discourse\|全球教育话语]]扩散、南方受援国结构性调整贷款、课程自主权异化 | Beech (2005); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
+> | **话语垄断与实践脱节命题** | 跨国机构将分权化作为普遍模型输出并捆绑中央质量监控，不仅封闭了受援国政策替代空间，更在微观落地中诱发严重异化 | [[Global Educational Discourse\|全球教育话语]]扩散、南方受援国结构性调整贷款、课程自主权异化 | Beech (2005); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
 > | **公共拆解与私有化跳板命题** | 放权修辞被用作撤销公立服务部门、推行企业化改制并迫使基层学校自费采购市场外包服务的制度跳板 | 新自由主义治理重组、明日学校权力下放、政商旋转门与商业出版专营 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
 
 ---
@@ -232,7 +232,7 @@ updated: 2026-11-02
 >
 > *“A great experiment in neoliberal educational reform occurred in New Zealand beginning in the early 1980s. In 1989, the education system there underwent a ‘devolution,’ which changed aspects of its public educational boards into private companies called education service centers (ESCs). ESCs competed in a semi-open market system to provide their former (civil) services to schools. The transport and payroll divisions of the former Auckland school board became an ESC called Multiserve, later renamed [[Cognition Education]]. Motivated by profit, ESCs diversified their offerings...”*
 
-> [!citation-card] [[José Luis García Garrido|García Garrido]] 论激进分权诱发的体系解耦与官僚膨胀
+> [!citation-card] [[José Luis García Garrido|García Garrido]] 论激进分权诱发的体系脱钩与官僚膨胀
 > 在教育政策领域，分权化数十年来已成为一种国际风尚，它暗含着分权能够通过拉近行政与公民距离、保障公众参与来提高政治效能的预设。然而，在短时间内从极度集权走向狂热分权，不仅导致行政官僚机构急剧膨胀，更使得国家教育体系面临分化为 17 个互不相属的区域独立系统的巨大风险。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
 >
 > *“Without doubt the most outstanding event in recent Spanish education history is that of having converted the education administration from strongly centralised to furiously decentralised... to wonder at the existence... of 17 different education systems in Spain is not simply work of the imagination.”*

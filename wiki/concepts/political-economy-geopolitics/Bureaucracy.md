@@ -103,7 +103,7 @@ updated: 2026-11-02
 > *At most human organizations, from government bureaucracies to large corporations, an enormous amount of the energy and talent of individuals is directed at jockeying for position, claiming credit for success, and often desperately avoiding blame for failure. The vital and scarce creative output of those involved in an endeavor is far too often misdirected to crafting self-serving hierarchies and patrolling who reports to whom. … The bee swarms and flocks of starlings do not consist of layers upon layers of vice presidents and deputy vice presidents, directing the work of subgroups of individuals and managing the perceptions of their superiors. There is only the flock or the swarm.*
 
 > [!citation-card] 里兹维与林加德论国际官僚机构的自主议程与政策行动者确立
-> 20 世纪 70 至 80 年代，经合组织的教育工作主要由成员国通过教育委员会表达的优先事项所驱动；而到了 90 年代末，常任秘书处开始在设定优先事项中发挥主导作用。通过这种方式，作为一个国际官僚机构，秘书处越来越表现为一个具有自身制度利益与议程的自主政策行动者。从政策辩论论坛转向依靠统计与分析工作直接干预政策，经合组织确立了以指标测度为技术杠杆的跨国政策权威。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–443)]]（引自 Henry et al., 2001）
+> 20 世纪 70 至 80 年代，经合组织的教育工作主要由成员国通过教育委员会表达的优先事项所驱动；而到了 90 年代末，常任秘书处开始在设定优先事项中发挥主导作用。通过这种方式，作为一个国际官僚机构，秘书处越来越表现为一个具有自身制度利益与议程的自主政策行动者。从政策辩论论坛转向依靠统计与分析工作直接干预政策，经合组织确立了以指标测度为技术手段的跨国政策权威。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–443)]]（引自 Henry et al., 2001）
 >
 > *While in the 1970s and 1980s, the educational work of the OECD was driven largely by members’ priorities expressed through the Education Committee, by the late 1990s the Secretariat had begun to assume a greater role in setting the priorities. In this way, as an international bureaucracy, the Secretariat has increasingly acted as an autonomous policy actor, with its own institutional interests and agenda.*
 
@@ -221,7 +221,7 @@ updated: 2026-11-02
 
 > [!claim] O'Neill, J. et al.
 > **网络与部落治理对科层法定问责的侵蚀论断** [[John O'Neill|约翰·奥尼尔]]等人结合格雷厄姆·汤普森（Grahame Thompson, 1991）的组织治理分类学（市场、科层制、网络、部落）论证指出，战后传统的科层制（Bureaucracy）虽然因程序繁琐备受诟病，但其本质是依靠国家法制、中立公务员体系和法定程序（如成文规章与公开采购标准）保障公共教育资源公平分配的制度基石，直接受到国家《官方信息法》（Official Information Act, OIA）以及议会质询的民主监督。
-> 然而，新西兰公立教育现代化改革以打破科层僵化、引入市场竞争为名，实质上并未建立起规范公平的自由市场，而是滑向了基于私人熟人关系、智库结盟与非公开项目合同的“网络（Networks）”与“部落（Clans）”治理模式。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）、私人咨询机构与学者型[[Policy Entrepreneur|政策企业家]]通过建立[[Dual-Entity Legal Structure|双层法人架构]]（慈善信托全资控股营利公司），以商业秘密为由全面拒绝向公众披露合同细则、利润流向与真实公益支出。这种治理转型实质上以非正式的私人信任取代了法理科层规程，彻底规避了公民与议会的民主质询，造成了公共教育决策与资源分配的严重问责真空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 3–7, 82–84)]]
+> 然而，新西兰公立教育现代化改革以打破科层僵化、引入市场竞争为名，实质上并未建立起规范公平的自由市场，是滑向了基于私人熟人关系、智库结盟与非公开项目合同的“网络（Networks）”与“部落（Clans）”治理模式。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）、私人咨询机构与学者型[[Policy Entrepreneur|政策企业家]]通过建立[[Dual-Entity Legal Structure|双层法人架构]]（慈善信托全资控股营利公司），以商业秘密为由全面拒绝向公众披露合同细则、利润流向与真实公益支出。这种治理转型实质上以非正式的私人信任取代了法理科层规程，彻底规避了公民与议会的民主质询，造成了公共教育决策与资源分配的严重问责真空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 3–7, 82–84)]]
 
 ---
 

@@ -60,7 +60,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Regional Innovation System
-> 区域[[Systems of Innovation|创新系统]]（Regional Innovation System, RIS）指在特定的次国家（Sub-national）地理空间范围内，由地理上彼此邻近的企业、大学、科研院所、金融中介与地方公共治理机构构成的互动学习网络。该概念强调创新绩效高度取决于地理集聚带来的高频面对面接触、[[Tacit Knowledge|隐性知识]]溢出、熟练专业劳动力市场池以及深植于地方文化中的制度厚度（Institutional Thickness）与社会信任资本，构成了[[National Innovation System|国家创新系统]]在微观地理层面的实质承载底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
+> 区域[[Systems of Innovation|创新系统]]（Regional Innovation System, RIS）指在特定的次国家（Sub-national）地理空间范围内，由地理上彼此邻近的企业、大学、科研院所、金融中介与地方公共治理机构构成的互动学习网络。该概念强调创新绩效高度取决于地理集聚带来的高频面对面接触、[[Tacit Knowledge|隐性知识]]溢出、熟练专业劳动力市场池以及深植于地方文化中的制度厚度（Institutional Thickness）与社会信任资本，构成了[[National Innovation System|国家创新系统]]在微观地理层面的实质承载基础。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 次国家地理尺度上由产业集聚、产学研协同平台与地方社会制度共同构筑的区域性互动学习网络。
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > - **地理邻近性与空间集聚** 企业、供应商与科研机构在地理半径内的紧密聚集，大幅降低跨组织搜寻与沟通成本。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **[[Tacit Knowledge|隐性知识]]面对面溢出与专业劳动力池** 行业绝招、工艺经验在本地咖啡馆、行业酒会与跨企业跳槽中低成本扩散，形成马歇尔式“行业秘密飘在空气中”的浓厚氛围。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **地方制度厚度与社会信任资本** 地方行业公会、[[Technology Transfer|技术转移]]中介、信用联盟与地方政府形成的非正式合作惯例，提供抗风险与协同创新缓冲。
-> - **本地大学作为中立公共空间与催化剂** 地方高校并非孤立的专利发明工厂，而是作为中立公共空间召集竞争性企业对话，提供定制化技术培训与工程咨询。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
+> - **本地大学作为中立公共空间与催化剂** 地方高校是作为中立公共空间召集竞争性企业对话，提供定制化技术培训与工程咨询，有别于孤立的专利发明工厂。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
 > - **差异化产业转型路径适配** 区域[[Systems of Innovation|创新系统]]必须精准对接四类产业转型情境（新产业培育、外来产业移植、成熟产业多元化、既有传统产业工艺升级）。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
 
 > [!logic-map]- 要素关系
@@ -115,7 +115,7 @@ updated: 2026-11-02
 > **探讨维度　空间集聚与[[Tacit Knowledge|隐性知识]]溢出机制** 探讨全球化与[[Informationalization|信息化]]浪潮下地理空间为何依然具有核心经济意义，论证次国家下层区域（nether regions）如何作为微观支柱支撑国家整体[[Competitiveness|竞争力]]。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
-> **下层区域基石论** 跨国贸易集团（如欧共体、北美自由贸易协定等上层区域）的扩张并未削弱地理微观集聚的重要性；相反，阿尔弗雷德·马歇尔（Alfred Marshall, 1890）早在 19 世纪末就指出的[[Industrial District|工业区]]集聚效应在当代高技术产业中再次被证实。硅谷的半导体与软件集群、意大利中北部的机械与时尚集群，无一不是依靠地理相近所带来的高度专业化劳动力流动、定制化技术服务、供应商网络以及人际面对面信任展开高效创新；正如[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）所强调的，全球竞争优势恰恰是在高度本地化的微观过程中被创造和维持的，次国家下层区域是[[National Innovation System|国家创新系统]]不可分割的微观底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
+> **下层区域基石论** 跨国贸易集团（如欧共体、北美自由贸易协定等上层区域）的扩张并未削弱地理微观集聚的重要性；相反，阿尔弗雷德·马歇尔（Alfred Marshall, 1890）早在 19 世纪末就指出的[[Industrial District|工业区]]集聚效应在当代高技术产业中再次被证实。硅谷的半导体与软件集群、意大利中北部的机械与时尚集群，无一有别于依靠地理相近所带来的高度专业化劳动力流动、定制化技术服务、供应商网络以及人际面对面信任展开高效创新；正如[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）所强调的，全球竞争优势恰恰是在高度本地化的微观过程中被创造和维持的，次国家下层区域是[[National Innovation System|国家创新系统]]不可分割的微观基础。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 
 ---
 
@@ -180,6 +180,6 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lester_2005_MIT|Lester (2005)]] — 基于 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统提炼新产业形成、产业移植、产业多元化与既有升级四类产业转型路径，打破单一专利许可神话，构建大学与本地产业结构匹配模型。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合[[Industrial District|马歇尔工业区]]思想史考证，系统论述次国家下层区域（nether regions）如何通过地理邻近、面对面隐性流动与社会信任为[[National Innovation System|国家创新体系]]奠定微观底座。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合[[Industrial District|马歇尔工业区]]思想史考证，系统论述次国家下层区域（nether regions）如何通过地理邻近、面对面隐性流动与社会信任为[[National Innovation System|国家创新体系]]奠定微观基础。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统阐明[[Innovation Ecosystem|区域创新生态]]中网络失灵与能力失灵的诊断工具，论述大学在区域技术吸收与跨界协作中的催化作用。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，探讨区域[[Systems of Innovation|创新系统]]与宏观制度环境的互动关系以及制度滞后对地方创新的阻尼效应。

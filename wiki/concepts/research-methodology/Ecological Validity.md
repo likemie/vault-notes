@@ -71,12 +71,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Ecological Validity
-> **生态效度（Ecological Validity）** 要求将研究场所（如学校、大学、具体社区与班级）的**具体特征**全面纳入研究考量，而不是简单通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞（rhetoric of policies），即假设政策以预定意图或有权群体所宣称的方式被实施（Brock-Utne, 1996, pp. 617–618）。生态效度追问的是：研究所描述的因果机制与教育现象，在多大程度上真实反映了其在**自然发生情境**中的样貌？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188)]]
+> **生态效度（Ecological Validity）** 要求将研究场所（如学校、大学、具体社区与班级）的**具体特征**全面纳入研究考量，有别于简单通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞（rhetoric of policies），即假设政策以预定意图或有权群体所宣称的方式被实施（Brock-Utne, 1996, pp. 617–618）。生态效度追问的是：研究所描述的因果机制与教育现象，在多大程度上真实反映了其在**自然发生情境**中的样貌？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 生态效度关乎研究结果在真实生活世界中的适用性：当剥离了人工实验室环境的人为性之后，研究结论在多大程度上依然成立。它的对立面是在严格控制的人工测验或实验室环境中获得高度显著的数字，但在复杂的真实课堂中毫无实践指导意义。
 > - **用途** 在教育研究中，生态效度对追踪政策如何在粉笔层面（at the chalk face）实际展开尤为关键，用于检验政策在真实实践中的落地效果，抵制政策文本的自我美化。
-> - **边界** 生态效度不要求研究巨细靡遗地复制现实所有细枝末节，而是要求对情境关键特征进行有意识的理论纳入与[[Rich and Thick Description|厚描述]]。
+> - **边界** 生态效度不要求研究巨细靡遗地复制现实所有细枝末节，是要求对情境关键特征进行有意识的理论纳入与[[Rich and Thick Description|厚描述]]。
 
 > [!boundary]- 概念边界
 > - 不等于 [[External Validity|外部效度]]（External Validity） — 外部效度关注更宽泛的样本向总体的统计可推广性，而生态效度特指**情境自然性**这一维度，即剥离实验人为性后现实解释力的存留度。
@@ -97,9 +97,9 @@ updated: 2026-11-02
 
 > [!feature] 生态效度的核心维度
 > - **自然发生性（Natural Occurrence）** 质性自然主义研究的基本前提是研究者不人为操纵情境[[Variable|变量]]，让互动在自然状态下发生，以描绘真实社会情境的复杂全貌。
-> - **情境特异性（Contextual Specificity）** 承认每所学校、每个班级乃至每个社区都具备独特的历史文化生态，绝非流水线车间可互相替代的标准化副本。
+> - **情境特异性（Contextual Specificity）** 承认每所学校、每个班级乃至每个社区都具备独特的历史文化生态，有别于流水线车间可互相替代的标准化副本。
 > - **[[Rich and Thick Description|厚描述]]作为方法支撑（Thick Description）** 依托 Geertz (1973) 的厚描述[[Paradigm|范式]]，记录行动背后的意图网络与文化脉络，而非将丰富情境压缩为冰冷的分数。
-> - **实验控制与生态真实性的根本取舍** 教室不是无菌分析实验室。Hammersley (2008, p. 4) 指出，控制变量的实验室试验在原则上就歪曲了教室的真实世界，在高度人为控制下发现的微弱效应，在情境丰富度极高的真实课堂中往往荡然无存。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, p. 332)]]
+> - **实验控制与生态真实性的根本取舍** 教室有别于无菌分析实验室。Hammersley (2008, p. 4) 指出，控制变量的实验室试验在原则上就歪曲了教室的真实世界，在高度人为控制下发现的微弱效应，在情境丰富度极高的真实课堂中往往荡然无存。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, p. 332)]]
 > - **观察数据的生态敏感性** 质性现场观察对情境脉络高度敏感，天然具备更强的生态效度，使研究者能够超越受试者表层感知，捕捉非预期的微观互动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23)]]
 
 > [!logic-map]- 实验室控制与生态效度的对立张力
@@ -125,7 +125,7 @@ updated: 2026-11-02
 > **探讨维度　科学哲学视角下的教育变量本质与实验室[[Paradigm|范式]]批判** 探讨硬科学实验室变量操纵范式移植至教育领域时，为何无法提炼出真正的有效规律，反而摧毁了育人本质。
 
 > [!claim] Phillips; Eisner; Johnson & Janzen
-> **控制外部变量消解教育生态效度** 科学哲学家丹尼斯·菲利普斯（Denis Phillips, 2014）与教育学者[[Elliott Eisner|埃利奥特·艾斯纳]]（Elliott Eisner, 1983）深刻指出，物理学等硬科学之所以能取得巨大突破，在于其能在高度隔绝的实验室中控制变量以做出极精确的预测。然而在真实的学校与课堂中，学生的社会阶层、家庭贫困、文化背景、即时情绪与人际关系并非物理实验中应当被清洗掉的噪音（nuisances），而是构成育人实践的人文核心。艾斯纳强调，教学是一项无法被预设为狭隘行为指标的动态艺术；试图通过统计控制或实验操纵手段清洗环境变量以推导所谓普适[[Effective Teaching|有效教学]]清单（如《可见学习》[[Meta-meta-analysis|二阶元分析]]），不仅无法提升教学，反而彻底摧毁了研究的生态效度，蜕变为丧失现实生命力的[[Cargo Cult Science|货物崇拜科学]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
+> **控制外部变量消解教育生态效度** 科学哲学家丹尼斯·菲利普斯（Denis Phillips, 2014）与教育学者[[Elliott Eisner|埃利奥特·艾斯纳]]（Elliott Eisner, 1983）深刻指出，物理学等硬科学之所以能取得巨大突破，在于其能在高度隔绝的实验室中控制变量以做出极精确的预测。然而在真实的学校与课堂中，学生的社会阶层、家庭贫困、文化背景、即时情绪与人际关系是构成育人实践的人文核心，有别于物理实验中应当被清洗掉的噪音（nuisances）。艾斯纳强调，教学是一项无法被预设为狭隘行为指标的动态艺术；试图通过统计控制或实验操纵手段清洗环境变量以推导所谓普适[[Effective Teaching|有效教学]]清单（如《可见学习》[[Meta-meta-analysis|二阶元分析]]），不仅无法提升教学，反而彻底摧毁了研究的生态效度，转变为丧失现实生命力的[[Cargo Cult Science|货物崇拜科学]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-11-02
 > > 争论基于海外数据库提炼的宏观统计均值是否具备跨国指导政策与教学实践的生态效度。
 > >
 > > - **跨国转译派（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）** 主张当特定国家缺乏充足的本土实证积累时，转译和借鉴国际大规模元分析综合成果，远比完全脱离实证证据进行盲目决策更具科学价值，元分析的核心关切正是通过大样本汇总识别跨情境的一般性规律。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 89)]]
-> > - **制度生态派（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指出学校并非真空，教育改革受制于一国独特的课程标准、族群文化与资源分配机制；海外元分析绝大多数来自美英，忽视发展中国家学校硬件资源的决定性影响，亦漠视新西兰等国集中课程与自治校董会的微观生态，这种去情境化的平均数直接作为本国政策杠杆会造成严重的生态效度塌陷。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–98)]]
+> > - **制度生态派（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指出学校有别于真空，教育改革受制于一国独特的课程标准、族群文化与资源分配机制；海外元分析绝大多数来自美英，忽视发展中国家学校硬件资源的决定性影响，亦漠视新西兰等国集中课程与自治校董会的微观生态，这种去情境化的平均数直接作为本国政策手段会造成严重的生态效度塌陷。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–98)]]
 >
 > > [!axis] 丰富[[Rich and Thick Description|厚描述]] vs 伦理匿名性
 > > 争论高水平生态效度对情境细节的披露是否危及被研究机构与个体的隐私安全。
@@ -187,7 +187,7 @@ updated: 2026-11-02
 ---
 
 > [!citation-card] [[Variable|变量]]控制在教育中消除生态效度
-> 科学哲学家丹尼斯·菲利普斯指出，在物理科学中变量可以被严密控制，但在学校情境中，这些变量绝非干扰噪音，而是具有重大人文与教育意义的本体内容——在这里施加控制，将消除一切生态效度的表象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Phillips, 2014, p. 10)]]
+> 科学哲学家丹尼斯·菲利普斯指出，在物理科学中变量可以被严密控制，但在学校情境中，这些变量是具有重大人文与教育意义的本体内容——在这里施加控制，将消除一切生态效度的表象，有别于干扰噪音。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Phillips, 2014, p. 10)]]
 >
 > *In the physical sciences variables can be controlled, but in school settings, these variables are 'not nuisances but are of great human and educational significance—control here removes all semblance of ecological validity.'*
 
@@ -202,7 +202,7 @@ updated: 2026-11-02
 > *Translating existing research might be more valuable than not relying on any research at all.*
 
 > [!citation-card] 生态效度与政策修辞的解构
-> 生态效度要求将研究场所的具体特征纳入研究考量，而不是简单地通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞，即假设政策总是以其预定意图的方式被忠实实施。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188, citing Brock-Utne, 1996)]]
+> 生态效度要求将研究场所的具体特征纳入研究考量，有别于简单地通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞，即假设政策总是以其预定意图的方式被忠实实施。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188, citing Brock-Utne, 1996)]]
 >
 > *Ecological validity demands that the specific characteristics of the research setting be taken into [[Accounts|account]] rather than merely replicating the rhetoric of policies.*
 

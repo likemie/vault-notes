@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,7 +46,8 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Disruption Index]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Santo Fortunato]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
@@ -56,6 +57,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -69,7 +71,7 @@ updated: 2026-11-02
 
 > [!method-scope] 方法范围
 > - **研究对象** 同行评审期刊刊载成果、学术专著、会议文献、专利报告、[[Systematic Review|系统综述]]与引文索引数据库记录。
-> - **问题类型** 适合回答[[Scientific Productivity|学术生产力]]增长率测算、高影响力学者与成果识别、学科知识基础追踪、跨学科引用模式比较以及概念演化路径分析。
+> - **问题类型** 适合回答[[Scientific Productivity|学术生产力]]增长率测算、高影响力学者与成果识别、学科知识基础追踪、跨学科引用模式比较、全学科引文普适主曲线拟合以及科学概念空间演化路径分析。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–5)]]
 > - **[[Unit of Analysis|分析单位]]** 单篇文献、科研人员、研究机构、国家、出版期刊、学科领域或引文网络中的节点与聚类。
 > - **输出形式** 历年发文量增长曲线、引文频次分布、高被引文献排行榜、共被引网络聚类图谱、关键词共现网络及主题演化流向图。
 

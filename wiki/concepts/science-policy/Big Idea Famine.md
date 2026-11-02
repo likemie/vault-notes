@@ -4,7 +4,7 @@ aliases:
   - 大构想饥荒
   - 科技野心衰退
   - Idea Famine
-summary: "由尼古拉斯·尼葛洛庞帝（2018）等提出的科技创新批判构念，指当代科技界在风投避险、反文化思潮与精英生产过剩规训下放弃重大物理工程与硬核科学，将顶尖智力锁定于外卖打车等浅层消费软件；卡普与扎米斯卡（2025）整合戈登的生产率停滞、格雷伯的技术拼贴与图尔钦的精英过剩论，论证其本质是科技精英放弃国家战略使命后的文明雄心萎缩，唯有重构技术共和国的实战工程思维方能破局。"
+summary: "由尼古拉斯·尼葛洛庞帝（2018）等提出的科技创新批判构念，指当代科技界在风投避险、反文化思潮与精英生产过剩规训下放弃重大物理工程与硬核科学，将顶尖智力锁定于外卖打车等浅层消费软件；卡普与扎米斯卡（2025）整合戈登的生产率停滞、格雷伯的技术拼贴与图尔钦的精英过剩论，论证其本质是科技精英放弃国家战略使命后的文明雄心萎缩，唯有重构技术共和国的实战工程思维方能突破。"
 type: concept
 domain: "science-policy"
 related_count: 38
@@ -77,7 +77,7 @@ updated: 2026-11-02
 > [!def] Big Idea Famine
 > **大构想饥荒（Big Idea Famine / 科技野心衰退）** 是由麻省理工学院（Massachusetts Institute of Technology, MIT）媒体实验室联合创始人[[Nicholas Negroponte|尼古拉斯·尼葛洛庞帝]]（Nicholas Negroponte, 2018）等学者提出的科技[[Innovation Ecosystem|创新生态]]诊断[[Construct|构念]]，指当代科技创业界与工程师群体在短期商业资本套利、避险文化规训以及反国家建制思潮的共同塑造下，集体放弃需要长期攻坚的硬核科学发现、基础物理工程制造与重大国家战略挑战，转而将全社会最顶尖的智力与财务资源高度集中于点餐外卖、日用品分销、网约叫车、修图社交与屏幕广告推荐算法等浅层消费类应用（App）的系统性异化趋势。
 > 
-> 在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的系统批判中，大构想饥荒并非单纯的商业偏好，而是经历了深刻的思想史与社会学演化：从 1970 年代[[Counterculture Computing|反文化计算]]将国家定性为“缺陷系统”并解构国家共同体认同，到 1990 年代末以 eToys 为代表的[[Dot-Com Bubble|互联网泡沫]]推行故意快速亏损以抢占微观消费品分销渠道的无差别狂热，再到 2010 年代高等教育择优体制引发的[[Elite Overproduction|精英生产过剩]]——拥有名校文化资质却缺乏实质财富的年轻工程师，将工程才智内卷于开发[[Lifestyle Technology|生活方式科技]]以在屏幕上为自身及同温层模拟贵族仆役特权。大卫·[[David Graeber|格雷伯]]（[[David Graeber]]）尖锐指出，这种以数字通信协议表面重组为特征的[[Technological Pastiche|技术拼贴]]（Technological Pastiche）背叛了 20 世纪中叶关于飞行汽车、清洁核聚变与星际基地的物理世界承诺，使全社会在信息通信局部繁荣的表象下陷入宏观[[Total Factor Productivity|全要素生产率]]停滞与文明雄心衰退。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–111)]]
+> 在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的系统批判中，大构想饥荒是经历了深刻的思想史与社会学演化：从 1970 年代[[Counterculture Computing|反文化计算]]将国家定性为“缺陷系统”并解构国家共同体认同，到 1990 年代末以 eToys 为代表的[[Dot-Com Bubble|互联网泡沫]]推行故意快速亏损以抢占微观消费品分销渠道的无差别狂热，再到 2010 年代高等教育择优体制引发的[[Elite Overproduction|精英生产过剩]]——拥有名校文化资质却缺乏实质财富的年轻工程师，将工程才智内卷于开发[[Lifestyle Technology|生活方式科技]]以在屏幕上为自身及同温层模拟贵族仆役特权，有别于单纯的商业偏好。大卫·[[David Graeber|格雷伯]]（[[David Graeber]]）尖锐指出，这种以数字通信协议表面重组为特征的[[Technological Pastiche|技术拼贴]]（Technological Pastiche）背叛了 20 世纪中叶关于飞行汽车、清洁核聚变与星际基地的物理世界承诺，使全社会在信息通信局部繁荣的表象下陷入宏观[[Total Factor Productivity|全要素生产率]]停滞与文明雄心衰退。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–111)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示资本市场短期避险偏好、反文化国家疏离感与择优精英地位焦虑共同对科技界宏大抱负的结构性侵蚀。
@@ -95,7 +95,7 @@ updated: 2026-11-02
 > *Innovations since 1970 were focused on a narrow sphere of entertainment, communication, and information processing...*
 
 > [!citation-card] [[Peter Thiel|蒂尔]]论科技野心的萎缩与阿波罗标尺
-> 衡量技术进步的真实标尺是阿波罗登月计划那样的跨维度跃升，而非智能手机屏幕像素的微调。我们想要会飞的汽车，得到的却只是 140 个字符。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; cited in Karp & Zamiska, 2025, p. 49)]]
+> 衡量技术进步的真实标尺是阿波罗登月计划那样的跨维度提升，而非智能手机屏幕像素的微调。我们想要会飞的汽车，得到的却只是 140 个字符。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; cited in Karp & Zamiska, 2025, p. 49)]]
 >
 > *We wanted flying cars, instead we got 140 characters.*
 
@@ -111,7 +111,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - 不等于 科技研发总经费下降 — 科技研发与风投资金总规模屡创新高，但配置结构严重偏狭地倾斜于高周转、轻资产的微观消费软件。
-> - 不等于 [[Consumer Internet|消费互联网]]毫无经济价值 — 消费软件优化了日常生活的信息流转与交易摩擦，但未能形成拉动宏观全要素生产率跃升的高阶技术外溢。
+> - 不等于 [[Consumer Internet|消费互联网]]毫无经济价值 — 消费软件优化了日常生活的信息流转与交易摩擦，但未能形成拉动宏观全要素生产率提升的高阶技术外溢。
 > - 不等于 工程师个人专业技能退化 — 工程师群体掌握顶尖算力与数学工具，但在不合理的产业激励机制下被锁定于广告点击率与派单调度优化。
 
 > [!stat-cards]- 大构想饥荒关键实证与历史数据（pp. 49–50, 104, 108–109）
@@ -150,7 +150,7 @@ updated: 2026-11-02
 > - **屏幕注意力经济对顶级智力的虹吸** 算法信息流与数字广告平台通过捕获用户即时多巴胺创造百亿暴利，将全社会最聪明的数理与计算机人才锁定在提升“广告点击率”与“屏幕停留时长”等微观套利上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 46, 50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
 > - **资本狂热的无差别性与战略盲区** 资本市场蜂拥涌向即时电商与消费端软件，对研发壁垒高、客户验证周期长的国防情报、工业软件与战区算法形成了严重的投资荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 110–111)]]
 
-> [!logic-map]- 大构想饥荒的生成机理、社会后果与[[Technological Republic|技术共和国]]破局路径
+> [!logic-map]- 大构想饥荒的生成机理、社会后果与[[Technological Republic|技术共和国]]突破路径
 > ```mermaid
 > flowchart TD
 >   subgraph IdeologicalRoots ["思想与阶层根源"]
@@ -212,7 +212,7 @@ updated: 2026-11-02
 > **探讨维度　[[National Innovation System|国家创新体系]]重构与公共工程动员** 该命题探讨如何通过国家战略意志与制度性设计打破大构想饥荒，重建科技同盟。
 
 > [!claim] [[Peter Thiel|Thiel, P.]]; [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **以阿波罗标尺与技术和平队重塑国家科技同盟断言** 打破大构想饥荒不能依赖自发市场套利，必须重构阿波罗登月计划式的跨维度跃升标尺。国家应通过制度创新（如建立“技术和平队”），引导顶尖工程师走出广告推荐算法，深度参与国防情报、公共治理、医疗攻关与前沿能源等关乎国家生存与文明未来的[[Grand Challenges|重大挑战]]，让在泡沫废墟中沉淀出的[[Engineering Mindset|工程思维]]成为重塑公共治理的制度根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; Karp & Zamiska, 2025, pp. 49–51)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
+> **以阿波罗标尺与技术和平队重塑国家科技同盟断言** 打破大构想饥荒不能依赖自发市场套利，必须重构阿波罗登月计划式的跨维度提升标尺。国家应通过制度创新（如建立“技术和平队”），引导顶尖工程师走出广告推荐算法，深度参与国防情报、公共治理、医疗攻关与前沿能源等关乎国家生存与文明未来的[[Grand Challenges|重大挑战]]，让在泡沫废墟中积累出的[[Engineering Mindset|工程思维]]成为重塑公共治理的制度根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; Karp & Zamiska, 2025, pp. 49–51)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 
 ---
 
@@ -273,8 +273,8 @@ updated: 2026-11-02
 > | [[Nicholas Negroponte\|尼古拉斯·尼葛洛庞帝]] | Person | 大构想饥荒概念的直接提出者，MIT 媒体实验室联合创始人。 |
 > | [[Robert J. Gordon\|罗伯特·J. 戈登]] | Person | 经济学家，提供 1970 年以来美国生产率放缓与创新狭窄化的历史实证证据。 |
 > | [[David Graeber\|大卫·格雷伯]] | Person | 人类学家，发出“飞行汽车去哪儿了”的时代质问，提出技术拼贴批判。 |
-> | [[Peter Thiel\|彼得·蒂尔]] | Person | 提出“我们要飞行汽车却得140字符”的科技投资思想家，倡导阿波罗跃迁标尺。 |
-> | [[Peter Turchin\|彼得·图尔钦]] | Person | 复杂系统科学家、《末日时代》作者，系统构建精英生产过剩理论。 |
+> | [[Peter Thiel\|彼得·蒂尔]] | Person | 提出“我们要飞行汽车却得140字符”的科技投资思想家，倡导阿波罗转向标尺。 |
+> | [[Peter Turchin\|彼得·图尔钦]] | Person | 复杂系统科学家、《末日时代》撰写者，系统构建精英生产过剩理论。 |
 > | [[Alan Greenspan\|艾伦·格林斯潘]] | Person | 美联储前主席，非理性繁荣预警者，被重构为揭示资本市场无差别狂热的理论参照。 |
 
 ---
@@ -284,4 +284,4 @@ updated: 2026-11-02
 > - **Gordon (2016)** — *The [[Research in Schools Evaluation|RISE]] and Fall of American Growth*。基于百年经济史实证数据，揭示 1970 年后信息技术革新的狭窄性与[[Total Factor Productivity|全要素生产率]]（TFP）增速由 2.0% 跌至 0.5% 的断崖式放缓。
 > - **Graeber (2012)** — *Of Flying Cars and the Declining Rate of Profit*。批判后工业时代科技界放弃深空探索、清洁能源与物理制造等宏大承诺，退化为对既有数字协议进行表面排列组合的[[Technological Pastiche|技术拼贴]]。
 > - **Turchin (2023)** — *End Times: Elites, Counter-Elites, and the Path of Political Disintegration*。构建结构人口学模型，剖析高等教育择优选拔扩张引发的[[Elite Overproduction|精英生产过剩]]及其向社会边缘或微观内卷的转移。
-> - **Thiel (2011)** — *What Happened to the Future?*。反思科技投资领域的避险主义与短视倾向，提出阿波罗登月计划式的跨维度跃升作为检验真正创新的核心标尺。
+> - **Thiel (2011)** — *What Happened to the Future?*。反思科技投资领域的避险主义与短视倾向，提出阿波罗登月计划式的跨维度提升作为检验真正创新的核心标尺。

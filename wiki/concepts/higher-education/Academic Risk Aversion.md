@@ -60,7 +60,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Academic Risk Aversion
-> 学术避险主义（Academic Risk Aversion），亦称科研避险倾向，指在现代高度竞争的科研资助体系、量化绩效评估以及短聘考核压力约束下，科研人员、评审专家及科研资助机构系统性展现出的一种行为偏好：极力回避具有高度[[Epistemology|认识论]]不确定性、长周期和高失败率的开创性探索（Transformative Research），转而集中精力选择技术路径成熟、预期产出高度确定、能够迅速产出阶段性论文的渐进型研究（Incremental Research）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> 学术避险主义（Academic Risk Aversion），亦称科研避险倾向，指在现代高度竞争的科研资助体系、量化绩效评估以及短聘考核压力约束下，科研人员、评审专家及科研资助机构系统性展现出的一种行为偏好：极力回避具有高度[[Epistemology|认识论]]不确定性、长周期和高失败率的开创性探索（Transformative Research），转而集中精力选择技术路径成熟、预期产出高度确定、能够迅速产出阶段性文章的渐进型研究（Incremental Research）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 > [!concept-lens] 概念透镜
 > - **微观生存理性** 在青年教师 3 年启动金耗尽与 6 年长聘考核倒逼下，学者必须迅速斩获外部资助以支付薪水与维系团队运转；失败的职业代价极高，选择稳妥项目成为个体理性的生存防御策略。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
@@ -68,13 +68,13 @@ updated: 2026-11-02
 > - **宏观政策悖论** 政府公共财政资助基础科学的原初经济学逻辑在于承担私人资本不愿承担的高风险探索；然而竞争性立项机制反而制造了极端追求短期可见成果的避险机制，架空了国家资助的公共效用。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]
 
 > [!citation-card] 罗杰·科恩伯格论同行评审的极度避险
-> 如果你申请书里提议要做的工作不是几乎百分之百确保成功，你就根本拿不到资助。然而，我们最渴望看到的那些开创性与革命性的工作，恰恰处于绝对相反的极端。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
+> 如果你申请书里提议要做的工作有别于几乎百分之百确保成功，你就根本拿不到资助。然而，我们最渴望看到的那些开创性与革命性的工作，恰恰处于绝对相反的极端。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
 >
 > *"If the work that you propose to do isn’t virtually certain of success, then it won’t be funded... Yet, the kind of work that we would most like to see take place, which is groundbreaking and innovative, lies at the other extreme."*
 
 > [!boundary]- 概念边界
 > - 不等于科研严谨性（Scientific Rigor） — 严谨性指[[Experimental Research|实验设计]]、测量控制与数据检验的科学规范；学术避险特指在选题、假说建构与技术路线上对不确定性的体制性排斥与自我审查。
-> - 不等于个体心理层面的风险厌恶 — 这里考察的不是科学家个体的心理人格特征，而是由项目中标率、终身教职时间表、间接费指标等制度环境结构性塑造的“组织化避险”。
+> - 不等于个体心理层面的风险厌恶 — 这里考察的是由项目中标率、终身教职时间表、间接费指标等制度环境结构性塑造的“组织化避险”，有别于科学家个体的心理人格特征。
 > - 不适用于享有长期无条件稳定支持的学术生态 — 在拥有充沛经常性经费拨款或任务导向特区（如早期[[Bell Labs|贝尔实验室]]、HHMI 研究员体系）中，学术避险倾向显著减弱。
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-11-02
 
 > [!feature] 驱动学术避险机制的核心要素
 > - **评审指标的“可行性”优先（Doability [[Hegemony]]）** 资助评审委员会为了规避公共财政受托问责风险，将“方案几近必定成功”作为打分首要标准，迫使学者申报其实已经完成大半的研究。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
-> - **低中标率下的挤兑效应（Grant Hypercompetition）** 当基金中标率跌至 10%–20% 的极端区间时，任何带有潜在争议或不确定性的标书都会在打分中被一票否决，筛选机制自然向最稳妥的方案收敛。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> - **低中标率下的挤兑效应（Grant Hypercompetition）** 当基金中标率跌至 10%–20% 的极端区间时，任何带有潜在争议或不确定性的标书都会在打分中被一票否决，筛选机制自然向最稳妥的方案汇合。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 > - **生存期倒计时挤压（Tenure Runway Pressure）** 新聘教师面临 3 年启动资金耗尽与 6 年长聘考评的刚性时间约束，无法承受长期不开花结果的高风险探索。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 > - **软钱教职制度捆绑（Soft-Money Vulnerability）** 教师个人薪资与实验室研究生津贴高度依赖外部课题提成，立项失败直接威胁团队生存，倒逼学者退守安全边际。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 
@@ -127,7 +127,7 @@ updated: 2026-11-02
 > **探讨维度　青年学术劳动力与考评挤压** 揭示微观考核压力与低中标率如何迫使学术新星放弃高风险创新。
 
 > [!claim] [[Richard C. Atkinson|Atkinson, R. C.]]; Blanpied, W. A.
-> **稀缺资金竞争倒逼学者提交安全型项目并加剧论文平庸化** 理查德·C·阿特金森（Richard C. Atkinson）与威廉·A·布兰皮德（William A. Blanpied）指出，面对多数学科联邦经费增长停滞及极低的中标率（如 [[National Science Foundation|NSF]] 总体资助率约为 30%，新毕业博士申请资助率仅约 20%），大学顶尖青年学者在 2 至 3 年启动资金耗尽后，为了在长聘考核与课题续期中生存，往往主动进行选题自我审查，选择申报高把握、低风险的“安全”课题；其直接后果是科学[[Document|文献]]中充斥着平庸琐碎的研究成果，除拉长作者的发表篇目外几乎缺乏实质科学突破价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> **稀缺资金竞争倒逼学者提交安全型项目并加剧文章平庸化** 理查德·C·阿特金森（Richard C. Atkinson）与威廉·A·布兰皮德（William A. Blanpied）指出，面对多数学科联邦经费增长停滞及极低的中标率（如 [[National Science Foundation|NSF]] 总体资助率约为 30%，新毕业博士申请资助率仅约 20%），大学顶尖青年学者在 2 至 3 年启动资金耗尽后，为了在长聘考核与课题续期中生存，往往主动进行选题自我审查，选择申报高把握、低风险的“安全”课题；其直接后果是科学[[Document|文献]]中充斥着平庸琐碎的研究成果，除拉长撰写者的发表篇目外几乎缺乏实质科学突破价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 ---
 
@@ -162,12 +162,12 @@ updated: 2026-11-02
 > > 资助评审应坚持严格可行性审查还是鼓励高风险探索的分歧。
 > >
 > > - **公帑受托人立场（纳税人利益）** 国会审计部门与项目官员强调公共资金必须对纳税人负责，优先资助具有成熟[[Pilot Testing|预实验]]数据、成功把握大的项目，能有效防范科研欺诈与重大失败浪费。
-> > - **[[Scientific Autarky|科学自主]]与突破论立场** 科技政策学者指出，重大突破本质上依赖非共识性探索，过度追求可预测性将导致整体学术生态沦为论文生产车间，连[[DARPA|国防高级研究计划局]]（[[DARPA]]）向短期低风险靠拢的转变都引发了学界对其创新力丧失的普遍担忧。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
+> > - **[[Scientific Autarky|科学自主]]与突破论立场** 科技政策学者指出，重大突破本质上依赖非共识性探索，过度追求可预测性将导致整体学术生态沦为文章生产车间，连[[DARPA|国防高级研究计划局]]（[[DARPA]]）向短期低风险靠拢的转变都引发了学界对其创新力丧失的普遍担忧。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
 >
 > > [!axis] 量化[[Performance Indicators|绩效指标]]考核 vs 长周期同行学术声誉
 > > 短期量化发文考核加剧了避险心理，长周期评估能否打破避险怪圈。
 > >
-> > - **行政考评管理立场** 在资源有限条件下，以论文数量与影响因子为代表的量化指标提供了最透明、低行政成本的筛选标准。
+> > - **行政考评管理立场** 在资源有限条件下，以文章数量与影响因子为代表的量化指标提供了最透明、低行政成本的筛选标准。
 > > - **学术发展论立场** 青年教师在 3 年短周期内必须交出可量化成果，根本无法承担孕育颠覆性假说的试错成本，必须代之以更长周期的定性代表作审查。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 
 ---

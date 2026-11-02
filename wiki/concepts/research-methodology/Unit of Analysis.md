@@ -185,9 +185,9 @@ updated: 2026-11-02
 > - **“[[Scholiocentric Approach|以校为中心]]”的微观孤立办学单位（Scholiocentric Unit, 19 世纪第一代）** [[Victor Cousin|维克多·库森]]（Victor Cousin, 1831）、[[Horace Mann|霍勒斯·曼]]（Horace Mann, 1844）与[[Henry Barnard|亨利·巴纳德]]（Henry Barnard, 1854）等 19 世纪行政视察官员将具体学校作为孤立的教学场所进行描述（scholiocentric），聚焦于校舍规程、科目大纲与教学法，服务于本土公共教育立法游说与行政借用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
 > - **“民族国家整体教育体系”分析单位的奠定（Holistic National System, 20 世纪初第二代）** [[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）在牛津演讲中终结了孤立考察学校的传统，明确将“民族国家教育体系（National Systems of Education）”及其深嵌的社会文化传统确立为比较分析的核心单位；指出决定教育成败的关键力量深藏于校外的[[Intangible Spiritual Forces|无形精神力量]]之中。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **民族国家制度容器（The Nation-State Container）** 19 至 20 世纪随着现代民族国家确立对公共教育主权的垄断，以领土主权为边界的[[National Education|国民教育]]学制成为最主导、最持久且被视为理所当然的经验分析单位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94)]]
-> - **资本主义世界体系整体（The Historical World-Economy as Single Unit）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）指出，孤立民族国家并非自给自足的社会系统；比较分析的根本基准单位是作为一个统一整体运转的资本主义世界经济体及其不平等的中心-边缘劳动分工，超越“[[Methodological Nationalism|方法论民族主义]]”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
+> - **资本主义世界体系整体（The Historical World-Economy as Single Unit）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）指出，孤立民族国家有别于自给自足的社会系统；比较分析的根本基准单位是作为一个统一整体运转的资本主义世界经济体及其不平等的中心-边缘劳动分工，超越“[[Methodological Nationalism|方法论民族主义]]”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
 > - **次区域地缘板块（Sub-regional / Transnational Blocs）** 突破单一国家边界的跨国地缘与政治文化单元，如[[Nordic Model of Education|北欧模式]]、地中海区域、冷战时期的社会主义东欧阵营等，在阵营对抗与区域一体化进程中展现出结构性分析意义。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92, 95)]]
-> - **[[Pluri-Scalar Governance|多标度治理]]空间矩阵（Pluri-Scalar Spatial Matrix）** 戴尔（Dale, 1999, 2005）与罗伯逊等人（Robertson, Bonal, & Dale, 2002）构建的空间网络，横跨超国家、国家、次国家与社区标度，纵贯经费筹措、产权归属、服务提供与行政规约等不同活动，打破了单一层级的实体预设。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **[[Pluri-Scalar Governance|多标度治理]]空间矩阵（Pluri-Scalar Spatial Matrix）** 戴尔（Dale, 1999, 2005）与罗伯逊等人（Robertson, Bonal, & Dale, 2002）构建的空间网络，横跨超国家、国家、次国家与社区标度，纵贯经费筹措、产权归属、服务提供与行政规范等不同活动，打破了单一层级的实体预设。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **超国家标准化度量空间（Supranational Metric Assessment Space）** 20 世纪末期由国际大规模测评（如 [[IEA]]、[[OECD]]/[[PISA]]）所构建的去情境化、以量化[[Performance Indicators|绩效指标]]和通用胜任力为导向的数据空间，将分析基准从历史文化国别容器重构为跨国能力度量衡网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **微观田野与多点比较案例（Micro-[[Fieldwork]] & [[Comparative Case Study]]）** 阿诺夫等学者倡导将分析单位深入课堂[[Rich and Thick Description|深描]]、基层女教师博弈与乡村青年亚文化，实现宏观世界体系与微观生活世界的辩证对接。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 > - **[[Space of Flows|流动空间]]中的跨国五重结构性[[Discourse|话语]]位置（Transnational Network Positions in the Space of Flows）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）融合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]理论，批判将民族国家作为天然分析容器的[[Methodological Nationalism|方法论民族主义]]；确立由全球学术、国际机构、国家官方、本土学术与微观学校五大结构位置构成的关系型分析单位，将分析基准转向非领土化网络中流通的符号与话语控制权节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
@@ -195,7 +195,7 @@ updated: 2026-11-02
 > [!taxonomy] 量化[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中的分析单位层级（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; Cooper & Koenka, 2012）
 > - **微观层级：个体受试者（Individual Participant / Micro-unit）** 实证实验的最底层数据源，对应于个体受试者数据（Individual Participant Data, IPD）元分析；能最精确地控制协[[Variable|变量]]与被试[[Heterogeneity|异质性]]，但通常在汇总报告中已被聚合。
 > - **基准因果层级：独立原始实证研究（Independent Primary Study / Meso-unit）** 证据综合的法定基准因果与抽样单位。所有关于[[Causality|因果推断]]、[[Sampling Error|抽样误差]]、[[Effect Size|效应量]]分布与统计检验的数学公理，其独立性假定均建立在此层级之上。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
-> - **宏观汇聚层级：一级元分析汇总项（First-Order Meta-Analysis / Macro-unit）** [[Meta-meta-analysis|二级元分析]]（[[Umbrella Review|伞状综述]]）的[[Literature Search|文献检索]]与提取载体。它仅属于[[Document|文献]]分类与阶段性报告的选择单位（unit of selection），绝非天然独立的统计分析单位；若未剔除重复的底层主要研究，直接以元分析为分析单位进行统计聚合，将犯下严重的“分析单位错位（Unit-of-Analysis Error）”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
+> - **宏观汇聚层级：一级元分析汇总项（First-Order Meta-Analysis / Macro-unit）** [[Meta-meta-analysis|二级元分析]]（[[Umbrella Review|伞状综述]]）的[[Literature Search|文献检索]]与提取载体。它仅属于[[Document|文献]]分类与阶段性报告的选择单位（unit of selection），有别于天然独立的统计分析单位；若未剔除重复的底层主要研究，直接以元分析为分析单位进行统计聚合，将犯下严重的“分析单位错位（Unit-of-Analysis Error）”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
 
 > [!feature] 五类抽样与记录单位形态（Krippendorff, 2004）
 > - **物理单位（Physical units）** 以时间、空间、篇幅或物理尺寸界定（如报纸版面尺寸、电视广播时长、社交媒体单条推文）。
@@ -258,7 +258,7 @@ updated: 2026-11-02
 > **探讨维度　宏观比较空间分析单位的去容器化演变** 本命题探讨宏观比较教育研究中，分析单位如何从以领土主权为边界的国民学制容器，向全球量化治理主导的去情境化指标度量空间迁移。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **民族国家容器与超国家度量空间的分析单位跃迁** 沃尔夫冈·米特（[[Wolfgang Mitter]]）指出，自 19 世纪民族国家确立对公共教育主权的垄断以来，以主权领土为边界的[[National Education|国民教育]]学制构成了比较教育学最主导、最持久且被视为理所当然的经验分析单位（container）。然而，冷战阵营对抗与次区域地缘板块（如北欧、地中海、东欧）拓展打破了均质单一国家单位；世纪之交，以 [[IEA]] 与 [[OECD]]/[[PISA]] 为代表的国际大规模测评兴起，构建起一个去情境化、以[[Human Capital Theory|人力资本]]与标准化绩效为导向的超国家度量衡指标网络，促使分析单位从富含历史文化个殊性的民族国家制度容器，向去国界化的跨国量化数据空间迁移。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 94–96)]]
+> **民族国家容器与超国家度量空间的分析单位转向** 沃尔夫冈·米特（[[Wolfgang Mitter]]）指出，自 19 世纪民族国家确立对公共教育主权的垄断以来，以主权领土为边界的[[National Education|国民教育]]学制构成了比较教育学最主导、最持久且被视为理所当然的经验分析单位（container）。然而，冷战阵营对抗与次区域地缘板块（如北欧、地中海、东欧）拓展打破了均质单一国家单位；世纪之交，以 [[IEA]] 与 [[OECD]]/[[PISA]] 为代表的国际大规模测评兴起，构建起一个去情境化、以[[Human Capital Theory|人力资本]]与标准化绩效为导向的超国家度量衡指标网络，促使分析单位从富含历史文化个殊性的民族国家制度容器，向去国界化的跨国量化数据空间迁移。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 94–96)]]
 
 > [!citation-card] 米特论民族国家作为比较教育最持久经验容器的确立与突破
 > 19 世纪民族国家对公共教育主权的垄断，使得以领土为边界的国民教育体制成为比较教育最主要、最持久的分析单元；然而 20 世纪后期通过殖民遗存分化、冷战阵营对抗及跨区域社会学项目，比较空间逐步突破了单一国家容器。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94–95)]]
@@ -274,10 +274,10 @@ updated: 2026-11-02
 > **资本主义世界体系作为不可分割的基准分析单位** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻批判了比较教育传统将各个民族国家视作孤立、平行演进实体的“方法论民族主义”。他们论证，现代世界中唯一真正的社会系统是资本主义世界经济体本身；国家内部的教育变迁（如文凭贬值、[[Dual School System|双轨学制]]或辍学率）无法脱离全球资本积累、不等价交换与国际依附关系得到解释。比较分析的基准单位必须从单一国家提升至世界体系整体及其中心-边缘结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
 
 > [!claim] Robertson, Bonal & Dale
-> **多标度立体治理矩阵对单一国家层级的超越** 戴尔（Dale, 1999, 2005）与罗伯逊等人（Robertson, Bonal, & Dale, 2002）指出，全球化削弱了民族国家作为单一分析容器的垄断地位，教育治理的分析单位应当被建构为一个贯通超国家（如 [[World Trade Organization|WTO]]、[[EU|欧盟]]）、国家（教育部）、次国家（地方学区）乃至社区家庭的“多标度空间矩阵（pluri-scalar matrix）”。分析教育变革不再是孤立测量单一政府行为，而是追踪权力、资源与规约规则在多个标度之间的非对称流动与博弈。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> **多标度立体治理矩阵对单一国家层级的超越** 戴尔（Dale, 1999, 2005）与罗伯逊等人（Robertson, Bonal, & Dale, 2002）指出，全球化削弱了民族国家作为单一分析容器的垄断地位，教育治理的分析单位应当被建构为一个贯通超国家（如 [[World Trade Organization|WTO]]、[[EU|欧盟]]）、国家（教育部）、次国家（地方学区）乃至社区家庭的“多标度空间矩阵（pluri-scalar matrix）”。分析教育变革不再是孤立测量单一政府行为，是追踪权力、资源与规范规则在多个标度之间的非对称流动与博弈。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!citation-card] 沃勒斯坦论资本主义世界经济体作为唯一真实分析单位
-> 从历史社会学角度来看，主权国家不是一个自给自足的发展实体；现代世界体系中唯一的社会现实和基本分析单位是资本主义世界经济体本身。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
+> 从历史社会学角度来看，主权国家有别于一个自给自足的发展实体；现代世界体系中唯一的社会现实和基本分析单位是资本主义世界经济体本身。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
 >
 > *The only true social system is the world-system... the capitalist world-economy is the primary unit of analysis.*
 
@@ -300,7 +300,7 @@ updated: 2026-11-02
 > **探讨维度　[[Space of Flows|流动空间]]与跨国结构性[[Discourse|话语]]位置转向** 本命题探讨全球[[Network Society|网络社会]]情境下，比较教育的分析单位如何突破以主权领土为边界的民族国家容器，转向由跨国网络节点与话语控制权构成的结构性位置。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **流动空间中跨国五大结构位置对国家容器单位的超越** 杰森·比奇（Jason Beech）指出，传统比较教育学将主权民族国家视作天然且唯一的经验“分析单位”，深陷“[[Methodological Statism|方法论国家主义]]/[[Methodological Nationalism|方法论民族主义]]（Methodological Statism/Nationalism）”的迷思。在[[Network Society|网络社会]]中，由电子通信与精英互动构成的[[Space of Flows|流动空间]]（Space of Flows）对植根于地理毗连性的[[Space of Places|地方空间]]（Space of Places）形成了支配性覆盖。跨国教育转移不再是两个国家容器之间的线性转移，而是贯穿于跨国沟通网络之中。比奇[[Creativity|创造性]]整合[[Basil Bernstein|伯恩斯坦]]的语篇位置理论与卡斯特的流动空间，确立了全球教育[[Champ|场域]]五大结构位置构成的关系型分析单位谱系：（1）全球学术生产位置，（2）以国际机构为代表的话语选择与普遍模型生产位置，（3）主权国家官方[[Recontextualization|再情境化]]位置，（4）本土学术与智库再情境化位置，（5）微观教育机构再生产与实践遭遇位置。分析单位的根本基准由此从静态孤立的地理领土实体，重构为跨国多标度网络中具有特定权力势能与话语控制权的结构性位置与流动节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 349–351)]]
+> **流动空间中跨国五大结构位置对国家容器单位的超越** 杰森·比奇（Jason Beech）指出，传统比较教育学将主权民族国家视作天然且唯一的经验“分析单位”，深陷“[[Methodological Statism|方法论国家主义]]/[[Methodological Nationalism|方法论民族主义]]（Methodological Statism/Nationalism）”的迷思。在[[Network Society|网络社会]]中，由电子通信与精英互动构成的[[Space of Flows|流动空间]]（Space of Flows）对植根于地理毗连性的[[Space of Places|地方空间]]（Space of Places）形成了支配性覆盖。跨国教育转移不再是两个国家容器之间的线性转移，是贯穿于跨国沟通网络之中。比奇[[Creativity|创造性]]整合[[Basil Bernstein|伯恩斯坦]]的语篇位置理论与卡斯特的流动空间，确立了全球教育[[Champ|场域]]五大结构位置构成的关系型分析单位谱系：（1）全球学术生产位置，（2）以国际机构为代表的话语选择与普遍模型生产位置，（3）主权国家官方[[Recontextualization|再情境化]]位置，（4）本土学术与智库再情境化位置，（5）微观教育机构再生产与实践遭遇位置。分析单位的根本基准由此从静态孤立的地理领土实体，重构为跨国多标度网络中具有特定权力势能与话语控制权的结构性位置与流动节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 349–351)]]
 
 > [!citation-card] Beech论流动空间中的结构位置作为新型分析单位
 > 传统比较教育学往往将民族国家视为[[Doxa|不言自明]]的单一分析单位；然而在全球化与网络社会中，教育转移穿透了国家边界，流动于跨国网络之中。通过整合伯恩斯坦的语篇位置与卡斯特的流动空间，我们必须将分析单位从封闭的地理实体转向五大结构位置构成的跨国流通网络。这一跨国分析单位不仅有助于识别不同位置上的话语控制权不平等，更揭示了普遍模型从全球流动降落至地方微观学校时的实践断裂。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 349–351)]]
@@ -310,10 +310,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题九｜二级[[Research Synthesis|证据综合]]中分析单位错位引发[[Document|文献]]重叠多重计数与虚假精度膨胀
-> **探讨维度　宏观综合中的分析单位错位与独立性公理** 本命题探讨在[[Meta-meta-analysis|二级元分析]]与[[Umbrella Review|伞状综述]]中，若误将一级[[Meta-analysis|元分析]]论文作为天然独立的统计分析单位，如何导致底层原始研究被重复计算并摧毁统计推断基础。
+> **探讨维度　宏观综合中的分析单位错位与独立性公理** 本命题探讨在[[Meta-meta-analysis|二级元分析]]与[[Umbrella Review|伞状综述]]中，若误将一级[[Meta-analysis|元分析]]文章作为天然独立的统计分析单位，如何导致底层原始研究被重复计算并摧毁统计推断基础。
 
 > [!claim] Wecker et al. & Cooper & Koenka
-> **二级[[Research Synthesis|证据综合]]中的分析单位错位错误（Unit-of-Analysis Error）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）与库珀和科恩卡（Harris Cooper & Ashley Koenka, 2012）系统揭示，在宏观证据综合中，研究者常将一级[[Meta-analysis|元分析]]论文视作独立的“分析单位（Unit of Analysis）”予以直接统计合并。然而，元分析的核心数学基石要求所有分析单位彼此独立；当不同的一级元分析纳入了相同的主要研究时（例如[[Web-Based Learning|网络学习]]领域文献重叠率高达 93.3%），以元分析为分析单位直接取算术平均或简单加权，等同于对重叠样本中的同一批学生和相同干预实施了多重计数（Double-Counting）。这种分析单位与真实抽样单位的严重错位，违反了高斯-马尔可夫独立性假定，产生虚假的协方差交叉项，使合成[[Standard Error|标准误]]被人为压缩、[[Effect Size|效应量]]严重虚高、[[Confidence Interval|置信区间]]虚假缩水。真正的宏观证据综合必须将分析单位严格锚定在不重叠的底层原始实证研究之上，或采用一步式直接微观汇总（One-Stage Synthesis）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
+> **二级[[Research Synthesis|证据综合]]中的分析单位错位错误（Unit-of-Analysis Error）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）与库珀和科恩卡（Harris Cooper & Ashley Koenka, 2012）系统揭示，在宏观证据综合中，研究者常将一级[[Meta-analysis|元分析]]文章视作独立的“分析单位（Unit of Analysis）”予以直接统计合并。然而，元分析的核心数学基石要求所有分析单位彼此独立；当不同的一级元分析纳入了相同的主要研究时（例如[[Web-Based Learning|网络学习]]领域文献重叠率高达 93.3%），以元分析为分析单位直接取算术平均或简单加权，等同于对重叠样本中的同一批学生和相同干预实施了多重计数（Double-Counting）。这种分析单位与真实抽样单位的严重错位，违反了高斯-马尔可夫独立性假定，产生虚假的协方差交叉项，使合成[[Standard Error|标准误]]被人为压缩、[[Effect Size|效应量]]严重虚高、[[Confidence Interval|置信区间]]虚假缩水。真正的宏观证据综合必须将分析单位严格锚定在不重叠的底层原始实证研究之上，或采用一步式直接微观汇总（One-Stage Synthesis）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
 
 > [!citation-card] 二级综合中的分析单位错位与底层主要研究锚定
 > 二级元分析在宏观上以元分析报告为汇总单位，但在统计理论和数学底层上，所有效应量与方差的推导必须严格映射至相互独立的原始主要研究。若忽视元分析之间的文献重叠，直接将元分析作为独立分析单位合并，将导致同一批被试数据被重复计入，产生严重的分析单位错位错误，造成方差估计严重失效与统计检验虚假显著。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
@@ -330,7 +330,7 @@ updated: 2026-11-02
 > | **层级推论命题** | 跨层级分析单位错位直接诱发生态谬误与原子谬误，须严格多维对齐 | 宏微观聚合尺度、比较分析多维立方体 | Robinson (1950); Bray and Thomas (1995) |
 > | **生态重构命题** | 打破个体与机构机械割裂，分析单位演变为围绕奇异吸引子的共生生态网络 | 整体论涌现、宏微观贯通、生态系统网络 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 31)]]; Capra (1996) |
 > | **空间迁移命题** | 宏观比较分析单位由领土主权边界的民族国家容器向去情境化的超国家标准化指标空间演进 | [[State Educational Sovereignty\|国家教育主权]]垄断、地缘阵营重组、大规模测评治理 | [[Wolfgang Mitter\|Mitter (2009)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94–96)]] |
-> | **世界体系与多标度命题** | 解构方法论民族主义，将基准分析单位重构为资本主义世界经济体整体与[[Pluri-Scalar Governance\|多标度治理]]空间矩阵 | 中心-边缘国际分工、超国家规约、空间标度流动 | Wallerstein (1974); Robertson et al. (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 104, 110–111)]] |
+> | **世界体系与多标度命题** | 解构方法论民族主义，将基准分析单位重构为资本主义世界经济体整体与[[Pluri-Scalar Governance\|多标度治理]]空间矩阵 | 中心-边缘国际分工、超国家规范、空间标度流动 | Wallerstein (1974); Robertson et al. (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 104, 110–111)]] |
 > | **体系转变命题** | 宏观比较分析单位由 19 世纪“以校为中心”的孤立办学视察向 20 世纪初“民族国家整体教育体系”发生历史性转变 | 办学行政借用与立法合法化、文化[[Situative Perspective\|情境主义]]、[[Intangible Spiritual Forces\|无形精神力量]]探究 | Sadler (1900); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 140–142)]] |
 > | **网络位置命题** | 解构方法论国家主义，将分析单位从领土国家容器重构为跨国流动空间中的五大结构性话语位置 | 流动空间覆盖地方空间、多标度话语流通、结构位置权力不对称 | [[Jason Beech\|Beech (2009b)]]; [[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 > | **证据综合错位命题** | 二级元分析误将元分析作为独立分析单位引发文献重叠多重计数，破坏独立性公理并导致虚假精度 | 抽样单位与因果单位错位、文献重叠协方差失效、一步式直接汇总 | Cooper and Koenka (2012); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 24–25, 29–30)]] |
@@ -382,7 +382,7 @@ updated: 2026-11-02
 > > - **国际测评与经济主义治理取向（[[OECD]]/[[PISA]]）** 将学生个体标准化测试表现与技能指标作为可跨国直接[[Commensuration|通约]]的基本分析单位，追求指标跨国等值与通用政策推论。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 >
 > > [!axis] 原子化离散切分 vs 整体性语境保留
-> > 争论文本分析单位究竟应当尽量细切以追求编码精度，还是保持较大篇幅以维护经验叙事的完整感。
+> > 争文章本分析单位究竟应当尽量细切以追求编码精度，还是保持较大篇幅以维护经验叙事的完整感。
 > >
 > > - **Weber (1990)** 主张微观单位（如单词、单句）能够显著降低编码者主观推论的模糊性，极大提升分类一致性与可重复性。
 > > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]** 警告过度细切会导致时序因果断裂与主观心境抹平，强调保持叙事完整性并提供深描。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, pp. 562, 573)]]
@@ -394,7 +394,7 @@ updated: 2026-11-02
 > > - **自然主义取向（Lincoln & Guba, 1985）** 认为意义单位无法先验固化，必须随着研究者对生活世界的浸润动态重组与调整边界。
 >
 > > [!axis] 一级[[Meta-analysis|元分析]]作为统计合成单位 vs 底层独立原始研究作为真实因果基准
-> > 争论在[[Meta-meta-analysis|二阶元分析]]与[[Umbrella Review|伞状综述]]中，分析单位应当以公开发表的一阶元分析论文为独立单元，还是必须穿透至底层原始实证研究进行严格去重与重新锚定。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
+> > 争论在[[Meta-meta-analysis|二阶元分析]]与[[Umbrella Review|伞状综述]]中，分析单位应当以公开发表的一阶元分析文章为独立单元，还是必须穿透至底层原始实证研究进行严格去重与重新锚定。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
 > >
 > > - **文献汇总粗放取向（Hattie, 2009）** 将每篇一阶元分析作为一个平等的分析单位进行简单汇总，忽视元分析之间高达 90% 以上的底层文献重叠。
 > > - **严谨[[Research Synthesis|证据综合]]规范（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; Cooper & Koenka, 2012）** 批判以元分析为单位的粗暴合并，坚持以相互独立的原始研究为真实分析单位，要求扣除重复文献或采用一步式直接全池加权。
@@ -442,7 +442,7 @@ updated: 2026-11-02
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 1900 年牛津演讲终结“以校为中心”孤立考察，确立“民族国家教育体系”为比较分析核心单位。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–142)]] |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 提出普罗透斯式认识体系框架，系统梳理从第一代“以校为中心”向第二代“民族国家整体体系”的分析单位历史演变。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–142)]] |
 > | [[Variable\|变量]] | 概念 | 变量是分析单位所呈现的量化或定性属性，分析单位则是承载变量取值的主体物理实体。 |
-> | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统摄性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 561)]] |
+> | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统领性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 561)]] |
 > | [[Emergence\|涌现]] | 概念 | 复杂系统分析单位所展现的核心特征，整体属性无法简单还原为个体分析单位的线性相加。 |
 > | [[Beech's Model of Discourse Circulation\|比奇话语流通模型]] | 理论 | 将分析单位从封闭国家容器重构为跨国网络流通中的五大结构性话语位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 > | [[Jason Beech\|杰森·比奇]] | 人物 | 批判方法论国家主义，整合伯恩斯坦与卡斯特理论开创跨国流动空间结构位置分析单位。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 341–344, 349–351)]] |

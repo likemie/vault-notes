@@ -68,21 +68,21 @@ updated: 2026-11-02
 > **历史健忘症（Historical Amnesia）** 是知识社会学、学科史反思与科技政治经济学中的核心批判[[Construct|构念]]，专指学术共同体或产业精英在特定功利目标与意识形态冲刷下，主动割裂、边缘化乃至集体遗忘制度生成演化史、公共研发奠基传统与长时段历史意识的病理状态。
 >
 > 该概念在当代社会科学与政治哲学中主要具有两大经典理论面向：
-> 1. **比较教育学的方法论危机** 二战后学科盲目追求严密实证科学化与现时性政策咨询，将历史-哲学传统与[[Historical-Comparative Method|历史比较法]]系统放逐，导致期刊历史论文份额断崖式下跌（Larsen, 2001; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）；
+> 1. **比较教育学的方法论危机** 二战后学科盲目追求严密实证科学化与现时性政策咨询，将历史-哲学传统与[[Historical-Comparative Method|历史比较法]]系统放逐，导致期刊历史文章份额断崖式下跌（Larsen, 2001; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）；
 > 2. **科技政治经济学的契约断裂** 硅谷科技巨头在享受国家研发红利的同时，集体抹杀冷战时期军方与 [[DARPA]] 在互联网、微电子与基础算力上的决定性奠基作用，将创新叙事完全掠归私营车库创业神话，并以此作为逃避国家防卫责任的借口（Mazzucato, 2013; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示群体在认知上将视界局限于“现时”（Presentism）或虚构的纯粹市场叙事中，主动遗忘自身赖以生成的深层制度底座与公共契约。
+> - **含义** 揭示群体在认知上将视界局限于“现时”（Presentism）或虚构的纯粹市场叙事中，主动遗忘自身赖以生成的深层制度基础与公共契约。
 > - **用途** 帮助研究者透视跨国政策指标狂潮背后的智识贫困，并解构当代科技巨头自诩“[[Value Neutrality|价值中立]]”与逃避公共责任的合法性神话。
-> - **边界** 历史健忘症不反对量化实证工具或商业市场活力，而是反对以牺牲历史反思与公共责任为代价的单向唯技术主义与意识形态漂白。
+> - **边界** 历史健忘症不反对量化实证工具或商业市场活力，是反对以牺牲历史反思与公共责任为代价的单向唯技术主义与意识形态漂白。
 
 > [!citation-card] 比较教育学深陷历史健忘症的确证
-> 根据一项最新研究，对 1955 至 1994 年间比较教育研究策略的调查表明，在《[[International Education|国际教育]]发展杂志》（IJED）、《比较教育》（CE）和《比较教育评论》（CER）三大国际旗舰期刊近 2000 篇论文中，仅有 10.5% 的文章依赖史学编纂与历史研究；更为令人失望的是：从 1985 到 1995 年，发表的历史性研究论文占比已不足 5%。这种严峻现状促使一位评论者指出，我们的领域正严重患上‘历史健忘症’。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
+> 根据一项最新研究，对 1955 至 1994 年间比较教育研究策略的调查表明，在《[[International Education|国际教育]]发展杂志》（IJED）、《比较教育》（CE）和《比较教育评论》（CER）三大国际旗舰期刊近 2000 篇文章中，仅有 10.5% 的文章依赖史学编纂与历史研究；更为令人失望的是：从 1985 到 1995 年，发表的历史性研究文章占比已不足 5%。这种严峻现状促使一位评论者指出，我们的领域正严重患上‘历史健忘症’。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
 >
 > *According to a recent study, '[[Research Strategies in Comparative Education]] from 1955 to 1994 revealed that only 10.5 per cent of almost 2000 articles in the International Journal of Educational Development, Comparative Education and Comparative Education Review relied on historiography and historical research'. And, even more disappointing: 'From 1985–1995, less than 5 per cent of all articles published were characterized as historical studies'. This state of affairs has prompted one commentator to observe that our [[Champ|field]] suffers from 'historical amnesia' (Larsen, 2001).*
 
 > [!citation-card] 科技巨头对国家公共研发奠基作用的历史健忘
-> 个人电脑、互联网与现代数字革命并非纯粹由自由市场孕育，而是冷战时期美国国防部高级研究计划局（DARPA）等公共机构长期战略投资与订单托底的直接产物。科技巨头改写历史、将自己置于创新宇宙中心叙事的行为，反映出公共契约精神的严重断裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
+> 个人电脑、互联网与现代数字革命是冷战时期美国国防部高级研究计划局（DARPA）等公共机构长期战略投资与订单托底的直接产物，有别于纯粹由自由市场孕育。科技巨头改写历史、将自己置于创新宇宙中心叙事的行为，反映出公共契约精神的严重断裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 >
 > *Silicon Valley giants have suffered from a collective historical amnesia, rewriting history to center themselves while forgetting the public and military investments that laid the foundations of the entire computing revolution.*
 
@@ -93,7 +93,7 @@ updated: 2026-11-02
 > |---|---|---|
 > | **诱发动力** | 国际组织对即时政策干预效能的索求与实证科学化浪潮 | 科技资本追求股东回报最大化与规避国家防务伦理约束 |
 > | **被遗忘的核心内容** | 民族国家深层历史文化、制度生成脉络与人文历史哲学 | [[DARPA]]、军方科研与联邦公共财政对底层技术突破的奠基投资 |
-> | **典型表征** | 期刊历史比较论文份额断崖式下跌至 5% 以下 | 科技寡头自诩自发创新奇迹，拒绝为国家安全与防卫开发软件 |
+> | **典型表征** | 期刊历史比较文章份额断崖式下跌至 5% 以下 | 科技寡头自诩自发创新奇迹，拒绝为国家安全与防卫开发软件 |
 > | **核心危害** | 导致教育政策生搬硬套、去情境化与智识浅薄 | 导致科技精英陷入[[Technological Agnosticism\|技术不可知论]]，瓦解[[Technological Republic\|技术共和国]]的公共契约 |
 > | **代表学者与论断** | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]; [[Marianne Larsen\|Larsen]] (2001) | [[Mariana Mazzucato\|Mazzucato]] (2013); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 
@@ -140,5 +140,5 @@ updated: 2026-11-02
 > | [[DARPA]] | 事实 | 关键历史实证，冷战期间资助互联网与芯片革命的公共研发机构，构成解构自由市场神话的基石证据。 |
 > | [[Mariana Mazzucato]] | 人物 | 经济学家，在《企业型国家》中系统论证底层公共研发投资，直接启发对科技巨头历史健忘症的批判。 |
 > | [[Andreas Kazamias]] | 人物 | 学科史宗师，终身致力于批判实证主义唯方法论，正式确立学科历史健忘症诊断。 |
-> | [[Marianne Larsen]] | 人物 | 首创比较教育历史健忘症[[Construct\|构念]]的学者，通过期刊实证调查确证历史论文濒危。 |
-> | [[Alexander Karp]] | 人物 | 《技术共和国》作者，将历史健忘症概念拓展至科技产业政治哲学批判。 |
+> | [[Marianne Larsen]] | 人物 | 首创比较教育历史健忘症[[Construct\|构念]]的学者，通过期刊实证调查确证历史文章濒危。 |
+> | [[Alexander Karp]] | 人物 | 《技术共和国》撰写者，将历史健忘症概念拓展至科技产业政治哲学批判。 |

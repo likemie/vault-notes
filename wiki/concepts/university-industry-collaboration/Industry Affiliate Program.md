@@ -71,7 +71,7 @@ updated: 2026-11-02
 > - **边界** 产业联盟计划不同于点对点的[[Sponsored Research Agreement|赞助研究协议]]（SRA），会员企业获得的是进入大学学术生态的广泛接触权与交流权，而非针对特定技术发明的专有所有权或独占排他许可。
 
 > [!citation-card] 产业联盟的组织定位与战略价值
-> 产业联盟计划不是单纯的筹资工具，而必须由科研价值、学习体验、[[Workforce Development|劳动力发展]]和[[Innovation Ecosystem|创新生态]]的多重收益共同驱动。
+> 产业联盟计划有别于单纯的筹资工具，而必须由科研价值、学习体验、[[Workforce Development|劳动力发展]]和[[Innovation Ecosystem|创新生态]]的多重收益共同驱动。
 >
 > *CAPs must provide a clear value proposition that aligns with both the university's research strengths and the internal needs of the corporate members. A CAP cannot simply be a fundraising tool—it must be driven by the value of research, learning experiences, workforce development, and innovation.*[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 110)]]
 
@@ -169,7 +169,7 @@ updated: 2026-11-02
 > > 企业管理层常对数万美元联盟会费能否产生实质经济效益提出严苛审计。
 > >
 > > - **批评观点** 部分企业研发管理者认为捐赠型联盟缺乏强制交付指标与明确知识产权保障，容易沦为企业对大学的“社交赞助费”或仅仅买来几份没有实操价值的技术年报。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 110)]]
-> > - **生态辩护** 资深[[University-Industry Collaboration|产学合作]]专家强调，联盟的核心价值不在于技术直接下线，而在于建立早期战略雷达、高阶人才直通车与前竞争行业标准对话平台，过早追求短期交付反而扼杀了跨学科原始创新的火花。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
+> > - **生态辩护** 资深[[University-Industry Collaboration|产学合作]]专家强调，联盟的核心价值在于建立早期战略雷达、高阶人才直通车与前竞争行业标准对话平台，过早追求短期交付反而扼杀了跨学科原始创新的火花，有别于技术直接下线。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
 >
 > > [!axis] 成果外溢与非出资企业的“搭便车”顾虑
 > > 由于大学学术成果具有公共品属性，企业出资赞助大学联盟是否会面临收益被非出资竞争对手免费搭便车的困境。
@@ -198,7 +198,7 @@ updated: 2026-11-02
 > | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b, p. 65)]] | 全美 $N = 65$ 所 [[University Industry Demonstration Partnership\|UIDP]] 顶尖成员大学 | 跨院校[[Questionnaire\|问卷调查]]与组织职能分布测量 | 大学中心[[University-Industry Collaboration\|产学合作]]办公室管辖职责占比 | **65%** 的大学中心办公室正式管辖产业联盟计划，在全部产学合作活动中排名第 2（仅次于赞助研究 68%） | 描述性统计频数占比 | 反映全美头部研究型大学对联盟模式的高度制度化认可 |
 > | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b, p. 67)]] | 全美 $N = 65$ 所 UIDP 顶尖成员大学企业联络负责人 | 跨院校从业者职责调查 | 企业关系官员个人核心业务涵盖率 | **71%** 的企业关系专职官员负责谈判产业联盟会员协议，仅次于赞助研究合同谈判（80%） | 描述性统计频数占比 | 说明联盟会员协议谈判已成为专职人员最繁重的工作支柱之一 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017, p. 292)]] | 康奈尔大学 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 产业联盟计划（1986 年） | 历史档案考证（工程学院院长卷宗） | 会员企业规模与年费标准 | **37 家** 会员企业，每家年缴纳会费 **\$8,500** | 历史档案一手记录 | 早期微电子开放用户设施的多边产业联盟原型 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017, p. 294)]] | 斯坦福大学 CIS 产业赞助商网络（1985 年） | 历史档案考证（CIS 通讯与学术档案） | 创始赞助商数量与基建注资规模 | **20 家** 创始赞助商，每家出资 **\$750,000** 基建基金与 **\$100,000** 年费 | 历史档案一手记录 | 标志着产业联盟向千万美元级重资产试验平台的跃升 |
+> | [[Argument_Mody_2017_MOH\|Mody (2017, p. 294)]] | 斯坦福大学 CIS 产业赞助商网络（1985 年） | 历史档案考证（CIS 通讯与学术档案） | 创始赞助商数量与基建注资规模 | **20 家** 创始赞助商，每家出资 **\$750,000** 基建基金与 **\$100,000** 年费 | 历史档案一手记录 | 标志着产业联盟向千万美元级重资产试验平台的提升 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017, pp. 290, 296)]] | 加州理工学院 [[Silicon Structures Project\|SSP]]（1977 年） | 历史档案考证（卡弗·米德卷宗） | 早期微型联合体会费规模 | **7 家** 创始赞助商，每家年缴纳会费 **\$100,000** | 历史档案一手记录 | 早期由单一明星学者主导、缺乏政府配套的微型联盟样本 |
 
 ---
@@ -206,5 +206,5 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 调查揭示全美 65% 的大学中心[[University-Industry Collaboration|产学合作]]办公室将产业联盟作为核心管辖业务，并分析了专职管理团队在多边会员关系维护中的关键职能。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 提出了产业联盟在产学组织化连续谱中的演进定位，深入阐明了捐赠型与合同型联盟在会费池运作、投票议程设定与知识产权转化中的实操规范。
-> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]与产业周期演进视角，论证了产业联盟在长周期时间尺度上充当前竞争战略技术雷达与人才培育底座的独特价值。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]与产业周期演进视角，论证了产业联盟在长周期时间尺度上充当前竞争战略技术雷达与人才培育基础的独特价值。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织史与[[Academic Entrepreneurship|学术制度创业]]视角，系统重构了加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 产业联盟在出资模式、人员轮换与微观治理中的起源与演化历程。

@@ -64,7 +64,7 @@ updated: 2026-11-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画认知主体在人机与人际关系中让渡自身认识权威、将信念形成的最终依据外包给技术系统的认识论状态。
-> - **用途** 揭示强自动化偏差为何不能被简单还原为操作者的过失疏忽或心智懒惰，而是涉及深层的[[Trust Calibration|过度信任]]、权威分配失衡与自主性放弃。
+> - **用途** 揭示强自动化偏差为何不能被简单还原为操作人员的过失疏忽或心智懒惰，是涉及深层的[[Trust Calibration|过度信任]]、权威分配失衡与自主性放弃。
 > - **边界** 区别于一般的[[Epistemic Dependence|认识依赖]]（Epistemic Dependence）；现代社会知识分工必然要求认知依赖，但认识论顺从特指在掌握或可接触矛盾证据时，无条件以系统输出否决自身证据的让渡行为。
 
 > [!citation-card] 强自动化偏差中认识论顺从的哲学实质（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
@@ -92,8 +92,8 @@ updated: 2026-11-02
 > [!feature] [[Epistemology|认识论]]顺从的核心维度与诱发机制
 > - **权威让渡（Surrender of Epistemic Authority）** 认知主体在权衡证据时，将技术系统的提示赋予极高先验权重，压倒自身的感知与推论。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 10–11)]]
 > - **信念修正机能钝化（Suspension of Belief Revision）** 面对持续累积的外部物理矛盾读数，认知主体丧失根据新证据动态修正信念的程序性能力。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 14–15)]]
-> - **合法权威感剥落（Erosion of Self-Regarding Authority）** 受制于对算法客观性的预设与制度性抗辩的高成本，操作者不再将自身视为合法的最终裁决者。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 16–17)]]
-> - **道德裁决架空（Abdication of Moral Appraisal）** 在关乎生命尊严的重大决策中，操作者退化为机器输出的橡皮图章，导致道德受托责任被架空。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> - **合法权威感剥落（Erosion of Self-Regarding Authority）** 受制于对算法客观性的预设与制度性抗辩的高成本，操作人员不再将自身视为合法的最终裁决者。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 16–17)]]
+> - **道德裁决架空（Abdication of Moral Appraisal）** 在关乎生命尊严的重大决策中，操作人员退化为机器输出的橡皮图章，导致道德受托责任被架空。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-11-02
 > **探讨维度　行动者自主性哲学的双重视角** 分析[[Epistemology|认识论]]顺从如何同时破坏行动者的内部认知连贯性与外部关系性地位。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **信念修正失灵与关系性自我怀疑** 程序主义自主性要求个体维持信念的一致性与基于证据的主动修正能力。当操作者在已察觉反常证据时仍反复顺从错误算法提示，表明其理性信念修正能力发生功能性断裂；而在实质主义/关系自主视角下，对系统的过度顺从反映出社会技术环境削弱了个体对自身作为合法认识权威的自我肯定态度（Lack of Self-Regarding Attitude），使人类在算法规约与制度压力下自主能动性受到削弱。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 12–17)]]
+> **信念修正失灵与关系性自我怀疑** 程序主义自主性要求个体维持信念的一致性与基于证据的主动修正能力。当操作人员在已察觉反常证据时仍反复顺从错误算法提示，表明其理性信念修正能力发生功能性断裂；而在实质主义/关系自主视角下，对系统的过度顺从反映出社会技术环境削弱了个体对自身作为合法认识权威的自我肯定态度（Lack of Self-Regarding Attitude），使人类在算法规范与制度压力下自主能动性受到削弱。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 12–17)]]
 
 ---
 
@@ -109,17 +109,17 @@ updated: 2026-11-02
 > **探讨维度　高风险决策中的道德受托责任** 论证在关乎人的生命权与重大利益的情境中，认识论顺从具有严重的道德不正当性。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **尊严关切的机器不可通达性** 人类生命具备内在道德价值，要求一切关乎生死的强制性裁决（如自主武器击杀、重症急救、司法刑罚）必须经过真实人类道德能动者的审慎评判。人工智能系统无法理解人类生命的伦理意义，亦无法产生真正的道德同理；操作者对系统提示的认识论顺从，实质上是将非人类系统置于关键裁决地位，构成了对人类尊严与专业道德受托责任的放弃。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> **尊严关切的机器不可通达性** 人类生命具备内在道德价值，要求一切关乎生死的强制性裁决（如自主武器击杀、重症急救、司法刑罚）必须经过真实人类道德能动者的审慎评判。人工智能系统无法理解人类生命的伦理意义，亦无法产生真正的道德同理；操作人员对系统提示的认识论顺从，实质上是将非人类系统置于关键裁决地位，构成了对人类尊严与专业道德受托责任的放弃。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 ---
 
 > [!concept-proposition] 命题三｜通过反思机器与[[Defeater|反驳型击败者]]重构可质询性是破除认识论顺从的根本路径
-> **探讨维度　[[Epistemic Friction|认识论摩擦]]与权威再平衡** 探讨如何通过界面交互与技术架构设计重建操作者的认识抗辩权。
+> **探讨维度　[[Epistemic Friction|认识论摩擦]]与权威再平衡** 探讨如何通过界面交互与技术架构设计重建操作人员的认识抗辩权。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
-> **以反思摩擦打破无条件顺从** 破除操作者对系统的认识论顺从，不能单靠操作者个人意愿，必须在技术交互界面嵌入结构化的[[Epistemic Friction|认识论摩擦]]：
-> 1. **反思机器（Reflection Machines）** 在关键节点引入[[Socrates|苏格拉底]]式自适应对话，迫使操作者阐明判定依据，重塑审思所有权；
-> 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 主动呈现冲突数据与对立诊断，赋予操作者直接质疑系统提示的证据杠杆，从架构层面恢复操作者的认识权威与可抗辩性（Contestability）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
+> **以反思摩擦打破无条件顺从** 破除操作人员对系统的认识论顺从，不能单靠操作人员个人意愿，必须在技术交互界面嵌入结构化的[[Epistemic Friction|认识论摩擦]]：
+> 1. **反思机器（Reflection Machines）** 在关键节点引入[[Socrates|苏格拉底]]式自适应对话，迫使操作人员阐明判定依据，重塑审思所有权；
+> 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 主动呈现冲突数据与对立诊断，赋予操作人员直接质疑系统提示的证据手段，从架构层面恢复操作人员的认识权威与可抗辩性（Contestability）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 
 ---
 
@@ -142,10 +142,10 @@ updated: 2026-11-02
 > [!debates] 学术争议
 >
 > > [!axis] 理性顺从 vs 病理化[[Automation Bias|强自动化偏差]]
-> > 争论在什么边界下，操作者遵从高准确率算法的提示属于理性的认知分工，而在何种情况下构成不当的[[Epistemology|认识论]]顺从。
+> > 争论在什么边界下，操作人员遵从高准确率算法的提示属于理性的认知分工，而在何种情况下构成不当的[[Epistemology|认识论]]顺从。
 > >
 > > - **工具理性立场** 在计算密集、人类不可复核且算法超人类表现的场景中，顺从算法是实现效用最大化的理性选择。
-> > - **规范约束立场（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）** 当操作者处于能够观察反常物理证据的高风险情境时，盲从系统构成对道德审思义务与自主能力的非理性让渡。
+> > - **规范约束立场（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）** 当操作人员处于能够观察反常物理证据的高风险情境时，盲从系统构成对道德审思义务与自主能力的非理性让渡。
 
 ---
 

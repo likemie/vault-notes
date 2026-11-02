@@ -129,7 +129,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向对受控实验在社会开放系统中[[Causality\|因果推断]]合法性、操作严谨性与政策转化有效性的多维度反思，追问在何种边界条件下[[Random Assignment\|随机分配]]能够成立，以及过度崇拜单一实验对公共教育治理造成的制度性扭曲。
 > - **用途** 帮助研究者破除“只要用了 RCT 就是科学真理”的统计拜物教，辨析实验室理想效力向大规模实效推广时的断崖式[[Fade-out Effect\|效应衰减]]，识别政策采购中依策造据与科研供给赤字风险。
-> - **边界** 它不等于全盘否定实验因果推断的局部统计价值，也不主张放弃严密实证检验，而是反对将微观受控试验教条化为垄断教育研究合法性的唯一裁决标准。
+> - **边界** 它不等于全盘否定实验因果推断的局部统计价值，也不主张放弃严密实证检验，是反对将微观受控试验教条化为垄断教育研究合法性的唯一裁决标准。
 
 > [!citation-card] 开放系统与教育科学的难以完成性
 > 教育研究是物理科学家在自身领域认为无法容忍的极端复杂条件下做科学——真实学校由嵌套在动态社会互动网络中的师生构成，任何受控实验试图将这种开放复杂性降维为封闭系统的做法，本质上都面临无法克服的情境效度瓶颈。[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 379; Berliner, 2002; Pawson, 2006]]
@@ -215,10 +215,10 @@ updated: 2026-11-02
 > **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–548)]]
 
 > [!claim] Wadhwa, G. et al. (2024)
-> **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源不在于微观单项 RCT 内部效度，而在于跨[[Research Synthesis|研究综合]]标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂。单项 RCT 内部效度达标绝非宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]
+> **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源在于跨[[Research Synthesis|研究综合]]标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂，有别于微观单项 RCT 内部效度。单项 RCT 内部效度达标有别于宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]
 
 > [!claim] Ginsberg, R. et al. (2024)
-> **法定单项合格门槛下的合规假象与科研供给侧结构性赤字** 美国联邦《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）Tier I 规则仅要求“至少一项合格 RCT 产生统计显著的正效应”。对 15 个学区 138 项资助项目的实证审计表明：虽然超 95% 的采购资金满足法定单项 RCT 门槛，但按全证据库（Body of Evidence）审视时，获积极支持的资金腰斩至 49%–58%，诱发严重的“合规假象”；基础科研生产存在学段偏好断层，26 项已采购干预在目标学段毫无因果研究（0 数量），迫使学区跨学段盲目降格推论；同时 RCT 普遍将宏观课程包与微观交付方式打包为因果黑箱，导致巨额资金在未经检验的交付环节上沉淀消耗。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 11–13)]]
+> **法定单项合格门槛下的合规假象与科研供给侧结构性赤字** 美国联邦《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）Tier I 规则仅要求“至少一项合格 RCT 产生统计显著的正效应”。对 15 个学区 138 项资助项目的实证审计表明：虽然超 95% 的采购资金满足法定单项 RCT 门槛，但按全证据库（Body of Evidence）审视时，获积极支持的资金腰斩至 49%–58%，诱发严重的“合规假象”；基础科研生产存在学段偏好断层，26 项已采购干预在目标学段毫无因果研究（0 数量），迫使学区跨学段盲目降格推论；同时 RCT 普遍将宏观课程包与微观交付方式打包为因果黑箱，导致巨额资金在未经检验的交付环节上积累消耗。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 11–13)]]
 
 ---
 
@@ -267,7 +267,7 @@ updated: 2026-11-02
 > > 围绕 [[Randomised Controlled Trials\|RCT]] 在教育[[Knowledge Production\|知识生产]]中究竟应占据何种地位，学界分化为三大对立阵营：
 > >
 > > - **[[Positivism\|实证主义]]强硬派（[[Robert Slavin]]; [[What Works Clearinghouse\|WWC]]; [[Institute of Education Sciences\|IES]]）** 坚称随机对照试验是排除混淆[[Variable\|变量]]与建立确凿[[Causality\|因果关系]]的唯一严密手段；非随机研究充满选择性偏差，必须将 RCT 确立为资助与采购的刚性门槛。
-> > - **实用主义温和派（Richard Berk, 2011; Paul Higgins, 2016）** 提出“铜标准”（Bronze Standard），主张任何评估的基准是当前知识而非完美因果；RCT 并非神圣不可侵犯，应结合非实验证据，更重要的是开发能够隔离因果机制的变体设计。
+> > - **实用主义温和派（Richard Berk, 2011; Paul Higgins, 2016）** 提出“铜标准”（Bronze Standard），主张任何评估的基准是当前知识而非完美因果；RCT 有别于神圣不可侵犯，应结合非实验证据，更重要的是开发能够隔离因果机制的变体设计。
 > > - **批判实在论与复杂性[[Paradigm\|范式]]（Ray Pawson, 2006; Gert Biesta, 2010; Keith Morrison, 2008）** 彻底反对还原论[[Pragmatism in China\|实验主义]]，强调教育因果推断必须转向开放系统生成性因果机制（Generative Causality），追问“什么干预在什么情境下对谁产生什么效果”。
 
 ---
@@ -280,7 +280,7 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | 核心考察[[Variable\|变量]]与指标 | 原始统计与实证发现 | 显著性或不确定性 | 解释边界与方法学启示 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 全美 3,426 个教育干预 RCT 效应量 | [[Meta-meta-analysis\|元综合]]与分布基准分析 | 标准化[[Academic Achievement\|学业成就]]测验效应量（Hedges' g） | 效应量中位数仅为 0.10 SD；36% 的研究效应量小于 0.05 SD；94% 的试验属于[[Business as Usual\|常态教学]]（BAU）对照 | 均值约 0.10，经验分布呈重尾特征 | 确立真实学校对照下的因果效应量现实基准，打破了 0.40 的经验神话。 |
-> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]，1,359 项研究，429 对交叉评级 | 跨机构政策评级元评估 | 多机构因果评级一致率与极端冲突率 | 完全一致率仅 30.5%；完全对立冲突率（推荐 vs 不推荐）高达 35.4% | $\chi^2$ 检验显示跨中心评级高度不收敛 | 单项 RCT [[Internal Validity\|内部效度]]达标绝非宏观政策推荐的[[Necessary and Sufficient Conditions\|充分条件]]，综合标准割裂打破客观收敛假象。 |
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]，1,359 项研究，429 对交叉评级 | 跨机构政策评级元评估 | 多机构因果评级一致率与极端冲突率 | 完全一致率仅 30.5%；完全对立冲突率（推荐 vs 不推荐）高达 35.4% | $\chi^2$ 检验显示跨中心评级高度不汇合 | 单项 RCT [[Internal Validity\|内部效度]]达标有别于宏观政策推荐的[[Necessary and Sufficient Conditions\|充分条件]]，综合标准割裂打破客观汇合假象。 |
 > | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 全美 15 个大型城市学区三年间 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦经费，138 项干预 | 政策微观实证审计 | 单项合规率、全证据集支持率、学段供给赤字 | 法定单项合规率超 95%；全证据集积极支持率腰斩至 49%–58%；26 项干预在采购学段因果研究数为 0 | 实证审计全部受资助干预清单 | 证实法定单项 RCT 门槛在学区实践中演化为“合规假象”，揭示科研供给侧学段与构件断层。 |
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五本主流教育心理学经验期刊（1983–2020 年跨度） | 期刊抽样[[Bibliometric Analysis\|文献计量分析]] | 经验研究中[[Random Assignment\|随机分配]]实验（RCT）占比 | 随机实验占比从 1983 年的近 50% 持续下滑至 2010 年的 23%，2020 年进一步降至 20% | 描述性统计全样本扫描 | 展现经验学术界从单一[[Pragmatism in China\|实验主义]]向质性与方法多元主义的实质转向。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 引述 Lortie-Forgues and Inglis (2019) | 英美两国（[[Education Endowment Foundation\|EEF]] 与 [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）委托的 141 项大规模教育 RCT（覆盖 122 万学生） | 独立试验数据元再分析 | 大规模[[Effectiveness Trial\|实效试验]]平均效应量与[[Confidence Interval\|置信区间]] | 平均效应量仅为 0.06 SD；平均置信区间宽达 0.30 SD | 效应量估计包含 0 的比例极高 | 揭示盲目追求[[Sample Size Determination\|样本量]]扩张在大规模推广阶段无法避免保真度稀释与效应断崖衰减。 |

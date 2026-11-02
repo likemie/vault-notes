@@ -51,12 +51,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Long Peace
-> **长和平（Long Peace / 冷战长和平）** 是著名冷战史学家[[John Lewis Gaddis|约翰·刘易斯·加迪斯]]（John Lewis Gaddis）于 1987 年提出的国际关系核心概念，指自 1945 年第二次世界大战结束以来，世界主要大国之间长达近一个世纪未曾爆发直接全面军事冲突的稳定历史时期。加迪斯指出，这段相对稳定的时期构成了近代世界史上大国关系持续最久的和平纪录。认知科学家[[Steven Pinker|斯蒂芬·平克]]（Steven Pinker）实证证实二战后全球战阵死亡率呈历史性大幅退潮。卡普与扎米斯卡（2025）深刻指出，长和平的维系绝非依赖于道德承诺或市场一体化，而是建立在原子弹恐怖破坏力与美国绝对军事优势所铸就的战略威慑之上；一旦这种威慑被和平自满所侵蚀，战后安全秩序将迅速崩塌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Pinker, 2011; Karp & Zamiska, 2025, pp. 39–41)]]
+> **长和平（Long Peace / 冷战长和平）** 是著名冷战史学家[[John Lewis Gaddis|约翰·刘易斯·加迪斯]]（John Lewis Gaddis）于 1987 年提出的国际关系核心概念，指自 1945 年第二次世界大战结束以来，世界主要大国之间长达近一个世纪未曾爆发直接全面军事冲突的稳定历史时期。加迪斯指出，这段相对稳定的时期构成了近代世界史上大国关系持续最久的和平纪录。认知科学家[[Steven Pinker|斯蒂芬·平克]]（Steven Pinker）实证证实二战后全球战阵死亡率呈历史性大幅退潮。卡普与扎米斯卡（2025）深刻指出，长和平的维系是建立在原子弹恐怖破坏力与美国绝对军事优势所铸就的战略威慑之上，有别于依赖于道德承诺或市场一体化；一旦这种威慑被和平自满所侵蚀，战后安全秩序将迅速崩塌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Pinker, 2011; Karp & Zamiska, 2025, pp. 39–41)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画二战后以核均势与战略威慑为根本支柱的大国无大战历史状态。
 > - **用途** 用于分析战后国际秩序稳定性的真实来源、大国危机管控机制以及长期和平环境对社会心理与防务投资意愿的消极侵蚀。
-> - **边界** 长和平并不意味着全球范围内暴力冲突或局部代理人战争的终结，而是特指大国之间避免了总体性毁灭冲突；区别于规范主义的[[Perpetual Peace|永久和平]]。
+> - **边界** 长和平并不意味着全球范围内暴力冲突或局部代理人战争的终结，是特指大国之间避免了总体性毁灭冲突；区别于规范主义的[[Perpetual Peace|永久和平]]。
 
 > [!citation-card] 加迪斯论二战后大国关系的长期稳定
 > 二战结束后几十年间所维持的相对和平的持久性与稳定性，是本世纪以来世界所经历的大国关系中最漫长的稳定时期，足以匹敌近代历史上任何相对平静的时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987, p. 245; cited in Karp & Zamiska, 2025, p. 40)]]
@@ -71,7 +71,7 @@ updated: 2026-11-02
 > [!boundary]- 概念边界
 > - 不等于 [[Perpetual Peace|永久和平]]（Perpetual Peace） — 永久和平追求彻底消除战争根源的制度与世界公民认同；长和平是现实主义威慑下的大国不交战状态，其底层始终潜伏着相互毁灭的暴力恐怖。
 > - 不等于 绝对非暴力（Absolute Non-violence） — 长和平期间仍爆发了朝鲜战争、越南战争、中东战争等激烈区域代理人冲突，但严格受控于大国直接核交战门槛之下。
-> - 不等于 自发演进的自然秩序 — 长和平必须依赖持续投入高额防务预算与维持技术代差，绝非无需支付安全成本的免费公共品。
+> - 不等于 自发演进的自然秩序 — 长和平必须依赖持续投入高额防务预算与维持技术代差，有别于无需支付安全成本的免费公共品。
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-11-02
 > **探讨维度　和平自满与同盟去武力化危机** 探讨连续数代人未经历大国战争所带来的心理麻痹，以及由此诱发的同盟防务空洞化。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **和平自满对安全底座的侵蚀** 连续三代人未经历世界大战，使西方盟友普遍将和平繁荣误判为无需支付代价的天然背景。欧洲盟友长期依赖美国防务搭便车导致军队微缩为缺乏实战深度的[[Bonsai Army|盆景军队]]，日本固守宪法第九条单方面去武力化。这种由长和平滋生出的和平自满，反向向潜在侵略者释放了软弱信号，动摇了战后安全体系的根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
+> **和平自满对安全基础的侵蚀** 连续三代人未经历世界大战，使西方盟友普遍将和平繁荣误判为无需支付代价的天然背景。欧洲盟友长期依赖美国防务搭便车导致军队微缩为缺乏实战深度的[[Bonsai Army|盆景军队]]，日本固守宪法第九条单方面去武力化。这种由长和平滋生出的和平自满，反向向潜在侵略者释放了软弱信号，动摇了战后安全体系的根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
 
 ---
 
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > **探讨维度　技术形态转型与威慑[[Paradigm|范式]]重塑** 探讨战场决胜中枢由重型硬件向算法软件转移的历史进程，以及如何在新世纪重筑长和平防线。
 
 > [!claim] Karp, A. C. & Zamiska, N. W.
-> **从核均势走向算法[[Hard Power|硬实力]]威慑** 原子时代正在终结，软件世纪已经全面降临。在现代战场上，软件已跃升为指挥决策中枢，传统动能硬件退化为执行载体。维系未来大国长和平的基石，不再仅仅是静态的核武库，而是由战场大模型、[[Autonomous Drone Swarms|自主无人机蜂群]]与边缘算法构成的新型[[AI Deterrence|人工智能威慑]]体系。民主政体唯有发起面向实战 AI 的新[[Manhattan Project|曼哈顿工程]]，方能延续长和平的历史纪录。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–47)]]
+> **从核均势走向算法[[Hard Power|硬实力]]威慑** 原子时代正在终结，软件世纪已经全面降临。在现代战场上，软件已提升为指挥决策中枢，传统动能硬件退化为执行载体。维系未来大国长和平的基石，不再仅仅是静态的核武库，是由战场大模型、[[Autonomous Drone Swarms|自主无人机蜂群]]与边缘算法构成的新型[[AI Deterrence|人工智能威慑]]体系。民主政体唯有发起面向实战 AI 的新[[Manhattan Project|曼哈顿工程]]，方能延续长和平的历史纪录。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–47)]]
 
 ---
 
@@ -148,7 +148,7 @@ updated: 2026-11-02
 > - **1945 — 原子时代开启与核均势确立** 三位一体核试验与广岛长崎核爆确立原子威慑，彻底改变大国博弈成本函数。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–39)]]
 > - **1987 — [[John Lewis Gaddis|加迪斯]]系统阐发长和平理论** 约翰·刘易斯·加迪斯出版《长和平：冷战史考察》，确立战后大国稳定机制的史学[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Karp & Zamiska, 2025, p. 40)]]
 > - **2011 — [[Steven Pinker|平克]]《人性中的善良天使》量化实证** 斯蒂芬·平克以翔实数据论证人类暴力呈历史性退潮，将长和平作为物种演化史上的关键成就。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Pinker, 2011; Karp & Zamiska, 2025, pp. 40–41)]]
-> - **2025 — 软件世纪长和平的威慑重塑** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中揭示和平自满引发的同盟脆弱性，呼吁以软件[[Hard Power|硬实力]]与[[AI Deterrence|人工智能威慑]]重构战后安全底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–47)]]
+> - **2025 — 软件世纪长和平的威慑重塑** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中揭示和平自满引发的同盟脆弱性，呼吁以软件[[Hard Power|硬实力]]与[[AI Deterrence|人工智能威慑]]重构战后安全基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–47)]]
 
 ---
 

@@ -40,7 +40,7 @@ updated: 2026-11-02
 ---
 
 > [!def] International Qualification Recognition
-> 国际资格承认（international qualification recognition）是一个教育资格跨越原发机构或国家边界后，被大学、政府、专业机构或用人制度接受为入学、参加选拔、分班、课程豁免或任职依据的过程。承认不是证书自身固定携带的属性，而是由接受主体针对特定用途、申请人类别、学校来源和时间范围作出的制度判断。[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）六年试验显示，同一文凭可以在一个国家作为中学离校资格、在另一体系用于大学直接入学、在美国主要用于分班或免修，却仍不满足法国公共任职对国家会考的要求。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–78)]]
+> 国际资格承认（international qualification recognition）是一个教育资格跨越原发机构或国家边界后，被大学、政府、专业机构或用人制度接受为入学、参加选拔、分班、课程豁免或任职依据的过程。承认是由接受主体针对特定用途、申请人类别、学校来源和时间范围作出的制度判断，有别于证书自身固定携带的属性。[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）六年试验显示，同一文凭可以在一个国家作为中学离校资格、在另一体系用于大学直接入学、在美国主要用于分班或免修，却仍不满足法国公共任职对国家会考的要求。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–78)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注资格在制度边界之间如何获得效力，而不只比较课程内容是否相似。
@@ -48,7 +48,7 @@ updated: 2026-11-02
 > - **边界** “等值”“接受”和“承认”必须说明具体用途；大学入学承认不自动等于专业执照、公共任职、学分转换或所有本国学生均可使用。
 
 > [!citation-card] 承认首先服务跨国流动
-> IB 试验的主要政府支持理由不是把它当作研究试验场，而是它为国际社会和流动学生提供了服务。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 62)]]
+> IB 试验的主要政府支持理由是它为国际社会和流动学生提供了服务，有别于把它当作研究试验场。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 62)]]
 >
 > *The main reason why national governments have supported it is not as a “test-bed for research”, but for the service it renders to the international community and the mobile student.*
 
@@ -139,7 +139,7 @@ updated: 2026-11-02
 >
 > | 研究 | 情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 71)]] | 六年试验截至 1973 年底 | 国家承认 | 20 国给予一般承认，另有若干国家部分承认 | “一般／部分”的具体法律范围在本章未逐国列出 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 71)]] | 六年试验截至 1973 年底 | 国家承认 | 20 国给予一般承认，另有若干国家部分承认 | “一般／部分”的具体法律范围在这一部分未逐国列出 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–71)]] | IB 学生升学 | 大学与国家覆盖 | 学生已进入 25 国的 175 所大学 | 入学、免修和分班等用途没有在总数中分开 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 正式考试 | 完整文凭考生 | 29 人增至 377 人，始终低于每年 500 人限制 | 规模增长不能单独证明承认质量或课程效果 |
 

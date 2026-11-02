@@ -77,7 +77,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **核心本质** 从习惯性单向思维通道中抽离，根据多维反馈在不同认知图式与评价标准间敏捷调配注意力的高阶心智掌控力。
 > - **理论用途** 解释为何学习者在面对不良结构（Ill-structured）问题时能够打破心理惯性；作为设计创造力思维训练（Thinking training）与评估复杂问题解决表现的核心靶点。
-> - **解释边界** 认知灵活性不同于漫无目的的注意涣散或随意思维跳跃；它始终受目标导向与[[Metacognition\|元认知监控]]规约，是在结构化约束之下的“有目的转换”。
+> - **解释边界** 认知灵活性不同于漫无目的的注意涣散或随意思维跳跃；它始终受目标导向与[[Metacognition\|元认知监控]]规范，是在结构化约束之下的“有目的转换”。
 
 > [!citation-card] 关键表述：[[Creativity Training\|创造力训练]]与认知灵活性重塑（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]; Diamond, 2013; Spiro et al., 1988）
 > 思维训练聚焦于改善个体的认知灵活性、问题解决能力与发散思维；通过[[Brainstorming\|头脑风暴]]、[[Lateral Thinking\|侧向思维]]谜题与[[Mind Mapping\|思维导图]]等结构化练习，思维训练有效激发了心智敏捷性，促使参与者打破认知偏见与经验固着，探索突破常规的新颖解决方案。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
@@ -109,7 +109,7 @@ updated: 2026-11-02
 > 3. **多维表征共存（Multiple Representations）** 在[[Working Memory\|工作记忆]]中同时激活并表征同一现象的多种可能模型（如既看到局部细节又把握全局系统架构）。
 > 4. **替代方案生成（Alternative Solution Search）** 拒绝接受“唯一正确答案”的确定性偏见，持续探索多种可供选择的替代路径。
 
-> [!logic-map]- 认知灵活性在[[Creativity\|创造性]]破局中的工作机制图
+> [!logic-map]- 认知灵活性在[[Creativity\|创造性]]突破中的工作机制图
 > ```mermaid
 > flowchart TD
 >     PROBLEM["劣构探究问题 / 出现意外阻碍"] --> CONFLICT["察觉解题停滞与策略失效"]
@@ -128,10 +128,10 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜认知灵活性构成[[Divergent Thinking|发散思维]]与突破功能固着的底层[[Executive Function|执行功能]]中枢
-> **探讨维度　[[Executive Function\|执行功能]]支持与[[Creativity\|创造性]]加工** 创造力不是单纯的无序放空，而是高度依赖前额叶执行控制网络对思维范畴的灵活调度。
+> **探讨维度　[[Executive Function\|执行功能]]支持与[[Creativity\|创造性]]加工** 创造力是高度依赖前额叶执行控制网络对思维范畴的灵活调度，有别于单纯的无序放空。
 
 > [!claim] Diamond; Zabelina et al.; Park et al.
-> **执行功能基底命题** 认知神经科学与[[Three-Level Meta-Analysis\|三水平元分析]]表明，创造力与[[Divergent Thinking\|发散思维]]高度依赖以认知灵活性为核心的执行功能网络。在[[Alternate Uses Test\|另类用途测验]]（[[Alternate Uses Test\|AUT]]）等创造力任务中，高创造力个体并非只是更快地列出物品用途，而是展现出频繁的“语义范畴切换（Category Switching）”能力。当面对某一常见物品时，认知灵活性使大脑能够迅速抑制其首要物理功能（如砖头用于“砌墙”），灵活解离出形状、重量、材质等多维属性，从而实现突破功能固着的远距概念跳跃。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; Diamond (2013)
+> **执行功能基底命题** 认知神经科学与[[Three-Level Meta-Analysis\|三水平元分析]]表明，创造力与[[Divergent Thinking\|发散思维]]高度依赖以认知灵活性为核心的执行功能网络。在[[Alternate Uses Test\|另类用途测验]]（[[Alternate Uses Test\|AUT]]）等创造力任务中，高创造力个体是展现出频繁的“语义范畴切换（Category Switching）”能力，有别于只是更快地列出物品用途。当面对某一常见物品时，认知灵活性使大脑能够迅速抑制其首要物理功能（如砖头用于“砌墙”），灵活解离出形状、重量、材质等多维属性，从而实现突破功能固着的远距概念跳跃。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; Diamond (2013)
 
 ---
 
@@ -144,7 +144,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜显性思维干预通过启发式任务能显著促进大学生的认知灵活性与创造表现
-> **探讨维度　认知能力可塑性与干预效能** 认知灵活性并非不可更改的固定特质，而是可以通过系统化的认知练习获得显著提升。
+> **探讨维度　认知能力可塑性与干预效能** 认知灵活性是可以通过系统化的认知练习获得显著提升，有别于不可更改的固定特质。
 
 > [!claim] Guo et al.; Rute-Pérez et al.
 > **思维训练促通灵活性命题** 多层[[Meta-analysis\|元分析]]证实，以提升认知灵活性、发散思维与[[Problem Solving\|问题解决能力]]为核心目标的“思维训练（Thinking training）”对大学生创造力表现具有强效促进作用（$g = 0.762, N = 31$），效果仅次于言语训练，显著高于情绪训练。通过密集演练[[Lateral Thinking\|侧向思维]]谜题（Lateral Thinking Puzzles）、[[Brainstorming\|头脑风暴]]与[[Mind Mapping\|思维导图]]，学生学会了主动质疑思维定势、在不同假设间灵活跳跃，其任务转换速度与发散范畴广度显著改善，直接确立了认知灵活性作为[[Creativity Training\|创造力教学]]干预核心靶点的实证地位。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 8–10)]]; Rute-Pérez et al. (2024)
@@ -224,7 +224,7 @@ updated: 2026-11-02
 > | 实证研究 | 样本与情境 | 研究设计与变量角色 | 核心定性与定量发现 | 理论与教学意义 |
 > |---|---|---|---|---|
 > | Rute-Pérez et al. (2024) | 西班牙高校大学生认知训练样本 | 实验干预：**【干预变量】** 认知灵活性训练课程；**【[[Dependent Variable\|结果变量]]】** 发散问题解决、任务转换反应时 | 干预组在复杂任务中的转换损耗（Switch Cost）显著降低，发散方案跨范畴数显著提高（$p < .05$） | 证实大学阶段认知灵活性具有高度的神经可塑性与干预敏锐度 |
-> | Ritter and Mostert (2017) | 荷兰高校跨学科设计工坊学生（$EG = 31 / CG = 31$） | 准实验前后测：**【干预变量】** 外显思维策略训练；**【结果变量】**[[Alternate Uses Test\|AUT]] 范畴转换数与 [[Remote Associates Test\|RAT]] 顿悟表现 | 策略训练促使学生从单一范畴内的连续联想跃升为多范畴间的自由跳跃（$p < .01$） | 证实启发式工具能直接激活认知灵活性的语义跨界重组机制 |
+> | Ritter and Mostert (2017) | 荷兰高校跨学科设计工坊学生（$EG = 31 / CG = 31$） | 准实验前后测：**【干预变量】** 外显思维策略训练；**【结果变量】**[[Alternate Uses Test\|AUT]] 范畴转换数与 [[Remote Associates Test\|RAT]] 顿悟表现 | 策略训练促使学生从单一范畴内的连续联想提升为多范畴间的自由跳跃（$p < .01$） | 证实启发式工具能直接激活认知灵活性的语义跨界重组机制 |
 
 ---
 
@@ -238,7 +238,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]确立以认知灵活性为核心的思维训练（$g = 0.762$）的高效促学地位，并解析其多路径搜索与固着打破机制。
-> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 三水平[[Meta-analysis\|元分析]]指出[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享包括认知灵活性在内的[[Executive Function\|执行功能]]与[[Metacognition\|元认知]]调控底座（$r = 0.386$）。
+> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 三水平[[Meta-analysis\|元分析]]指出[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享包括认知灵活性在内的[[Executive Function\|执行功能]]与[[Metacognition\|元认知]]调控基础（$r = 0.386$）。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]确立包含认知灵活性在内的认知加工能力与全域创造力的稳健关联（$r = 0.23$）。
 > - Spiro et al. (1988) — 提出认知灵活性理论（CFT），奠定不良结构领域高级学习与多重表征理论基石。
 > - Diamond (2013) — 系统确立执行功能三成分模型并系统阐发认知灵活性的神经机制与发展规律。
@@ -253,8 +253,8 @@ updated: 2026-11-02
 > | [[Cognitive Inhibition\|抑制控制]] | 概念 | 协同机制 | 必须先抑制自动化旧思维定势，认知灵活性才能顺畅展开策略转换。 |
 > | [[Working Memory]] | 概念 | 硬件支撑 | 工作记忆容量为灵活性的多视角表征提供即时在线操作平台。 |
 > | [[Creativity]] | 概念 | 核心能力 | 认知灵活性是突破功能固着、生成新颖适切构想的心理前提。 |
-> | [[Divergent Thinking]] | 概念 | 机制内核 | 发散思维在不同概念范畴间的跳跃广度直接受认知灵活性驱动。 |
-> | [[Creative Problem Solving]] | 理论 | 解决[[Paradigm\|范式]] | 劣构[[Problem Solving\|问题解决]]要求学习者在不同阶段自适应切换发散与收敛模式。 |
+> | [[Divergent Thinking]] | 概念 | 机制核心 | 发散思维在不同概念范畴间的跳跃广度直接受认知灵活性驱动。 |
+> | [[Creative Problem Solving]] | 理论 | 解决[[Paradigm\|范式]] | 劣构[[Problem Solving\|问题解决]]要求学习者在不同阶段自适应切换发散与汇合模式。 |
 > | [[Creativity Training]] | 概念 | 教学载体 | 思维训练类干预（$g = 0.762$）以塑造心智灵活性为核心目标。 |
 > | [[Mind Mapping]] | 概念 | 外显支架 | 思维导图的多向辐射分支为认知灵活性提供全景视觉操作工作区。 |
 > | [[Cognitive Load Theory]] | 理论 | 负荷权衡 | 灵活切换需要消耗前额叶心智资源，过度频繁无序切换易导致认知负荷超载。 |

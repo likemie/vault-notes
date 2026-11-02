@@ -90,7 +90,7 @@ updated: 2026-11-02
 > - **基线资源匮乏性（Baseline Scarcity）** 低 ICT 与低 [[Socioeconomic Status|SES]] 环境中，学生面临师资配比不足、个性化辅导缺失和数字教辅空白，导致其[[Academic Achievement\|学业表现]]长期受压抑。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **补偿性替代机制（Compensatory [[Scaffolding]]）** 生成式 AI 充当了个性化导师（Tutor）与练习同伴，以极低边际成本提供了以往只有精英阶层才能享有的全天候即时答疑与反馈。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 6, 18)]]
 > - **边际增益高敏感度（High Marginal Sensitivity）** 在近乎空白的数字化支持基础上，技术的单点突破便能迅速扫除初级学习障碍，驱动[[Effect Size\|效应量]]爆发式增长（$g^+ > 1.70$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12–13, 18)]]
-> - **饱和边际[[Fade-out Effect\|效应衰减]]（Diminishing Returns in Saturated Contexts）** 高数字化与高 SES 环境已拥有完善的 LMS 平台、智能题库与充足师资，[[Generative Artificial Intelligence\|GenAI]] 的引入仅是对既有数字生态的局部边际改良，边际增益收敛于中等效应（$g^+ \approx 0.50$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
+> - **饱和边际[[Fade-out Effect\|效应衰减]]（Diminishing Returns in Saturated Contexts）** 高数字化与高 SES 环境已拥有完善的 LMS 平台、智能题库与充足师资，[[Generative Artificial Intelligence\|GenAI]] 的引入仅是对既有数字生态的局部边际改良，边际增益汇合于中等效应（$g^+ \approx 0.50$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -135,7 +135,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **技术基线反比命题** | 低 ICT 基础设施环境具有更高技术边际收益 | 跨国比较、发展中国家与欠发达地区数字化转型 | OECD (2015); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
-> | **阶层弱势补偿命题** | 低 SES 群体通过个性化技术互动获得更强相对学业跃升 | 教育公平政策制定、弱势高校生精准帮扶项目 | Cheung and Slavin (2013); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
+> | **阶层弱势补偿命题** | 低 SES 群体通过个性化技术互动获得更强相对学业提升 | 教育公平政策制定、弱势高校生精准帮扶项目 | Cheung and Slavin (2013); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
 
 ---
 
@@ -188,10 +188,10 @@ updated: 2026-11-02
 >
 > - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 宏观技术环境调节** 低 ICT 环境促学效应呈大效应量，高 ICT 环境呈中等效应，边际增益阶梯高度显著
 > - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 宏观技术环境调节** 居中效应
-> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 宏观技术环境调节** [[Effect Size\|效应量]]显著收敛
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 宏观技术环境调节** [[Effect Size\|效应量]]显著汇合
 > - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 社会经济地位调节** 低 SES 学生获得最高促学增量，高 SES 学生增益平缓，证实社会经济补偿机制
 > - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 社会经济地位调节** 居中效应
-> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 社会经济地位调节** 效应量显著收敛
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 社会经济地位调节** 效应量显著汇合
 
 ---
 

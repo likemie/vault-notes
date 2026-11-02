@@ -108,7 +108,7 @@ updated: 2026-11-02
 > [!contrast-table] 认识论[[Paradigm\|范式]]与相近[[Construct\|构念]]辨析
 > | 比较维度 | 传统[[René Descartes\|笛卡尔]]式认识论 | 个人认识论（Personal Epistemology） | 认识论实践（Epistemic Practices） | 科学过程技能（Science Process Skills） |
 > |---|---|---|---|---|
-> | **知者主体** | 孤立先验的理性个体（Cartesian Knowers） | 具有内部信念结构的个体学习者 | 微观社会协商共同体（Endogenous Community） | 孤立训练的技能操作者 |
+> | **知者主体** | 孤立先验的理性个体（Cartesian Knowers） | 具有内部信念结构的个体学习者 | 微观社会协商共同体（Endogenous Community） | 孤立训练的技能操作人员 |
 > | **知识性质** | 静态、普遍、去情境的命题表征集合 | 个体内在的心智模型或认识发展阶段 | 在社会互动、[[Discourse\|话语]]协商与具身行动中生成的意义模式 | 机械工具性的算法操作流程 |
 > | **教育目标** | 识记经权威确认的科学事实与定理公式 | 推动个人认识信念向高阶相对性阶段发展 | 融入学科认知文化，参与证据论证、模型建构与公共审议 | 掌握孤立的观察、测量与[[Variable\|变量]]控制步骤 |
 > | **分析焦点** | 形式逻辑推导与终局命题真值检验 | [[Questionnaire\|问卷]]测量中的认知维度与信念量表评分 | 课堂微观话语、实验具身互动与文本互文链条 | 实验操作清单的达标率与步骤合规性 |
@@ -134,14 +134,14 @@ updated: 2026-11-02
 认识论实践具有深刻的社会文化属性：
 
 > [!feature] 认识论实践的四大本体特征（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 156–159]]）
-> - **交互生成性（Interactional）** 认识论实践并非存在于个体大脑内部，而是在人与人、文本与工具的协同互动与即时交锋中当场实现的。
+> - **交互生成性（Interactional）** 认识论实践是在人与人、文本与工具的协同互动与即时交锋中当场实现的，有别于存在于个体大脑内部。
 > - **多尺度情境性（Contextual）** [[Knowledge Building Theory|知识建构]]深嵌于微观时空情境之中；同时，瞬间的课堂互动又受到宏观历史尺度所积淀的学科[[Paradigm\|范式]]与文化规范的制约。
 > - **历史互文性（Intertextual）** [[Discourse|话语]]过程持续指涉并重组先前的口头谈话、正式书面[[Document|文献]]、实验记录及图表符号，形成跨越时间的连续意义脉络。
 > - **制度后果性（Consequential）** 知识主张被接纳或拒绝直接关涉群体内部的权力分配、[[Academic Achievement\|学业成就]]认定以及学生的科学身份（science identity）认同。
 
 ### 学科与教学形态异质性
 
-认识论实践不是抽象单一的，而是随具体教学路径而呈现出分化：
+认识论实践是随具体教学路径而呈现出分化：，有别于抽象单一的
 
 > [!row-contrast] 三类科学与[[Engineering Education|工程教育]]取向中的认识论实践矩阵（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 142–143]], 156–157）
 > | 维度 | 探究式科学（Inquiry Science） | 工程教育（Engineering Education） | [[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues） |
@@ -175,7 +175,7 @@ updated: 2026-11-02
 > **探讨维度　[[Epistemology\|认识论]]主体转向** 探讨认识论的核心承载者是个体心智还是社会共同体，论证科学教育必须走出孤立心理测验的狭隘视野。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
-> **共同体认识论转向** 认识论主体不是孤立的个体认知者，而是处于具体情境中的微观协商共同体。决定何者算作知识与正当理由的依据，并非个体心智对客观实在的符合程度，而是共同体成员公认的标准、审议规程以及对合理批评的接纳。科学教育的核心在于引导学生参与真实科学认知文化的实践活动。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 140, 147–148)]]
+> **共同体认识论转向** 认识论主体是处于具体情境中的微观协商共同体，有别于孤立的个体认知者。决定何者算作知识与正当理由的依据，是共同体成员公认的标准、审议规程以及对合理批评的接纳，有别于个体心智对客观实在的符合程度。科学教育的核心在于引导学生参与真实科学认知文化的实践活动。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 140, 147–148)]]
 
 > [!claim] Helen Longino (1990, 2002)
 > **社会知识认识论规范** 科学知识的客观性由批判性互动的社会实践所保证。微观共同体必须具备四大规范：公开的论辩论坛（venues）、对合理批评的吸收接纳（uptake）、公开认可的评估标准（publicly recognized standards）以及适度平等的智识权威（tempered equality of intellectual authority），才能防止实证视角滑向主观相对主义。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 148)]]
@@ -186,7 +186,7 @@ updated: 2026-11-02
 > **探讨维度　探究情境交织与交流中介** 阐释科学活动中直觉探索、逻辑论证与交流说服的动态共生关系，破除将发现与论证割裂的线性观念。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
-> **三重情境交织模型** 知识主张并不遵循单向线性流动，而是在探索发现的情境（充满尝试、困惑与具身探索）、证据论证的情境（强调严密推理与[[Evidence Standards\|证据标准]]）以及交流表达的情境（贯穿始终的修辞与互动协商）中循环推进。交流并非事后包装，而是[[Knowledge Building Theory|知识建构]]的核心中介；具身动作、言语互动与文本修改共同构成了认识论实践的微观活动机制。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–147)]]
+> **三重情境交织模型** 知识主张并不遵循单向线性流动，是在探索发现的情境（充满尝试、困惑与具身探索）、证据论证的情境（强调严密推理与[[Evidence Standards\|证据标准]]）以及交流表达的情境（贯穿始终的修辞与互动协商）中循环推进。交流是[[Knowledge Building Theory|知识建构]]的核心中介，有别于事后包装；具身动作、言语互动与文本修改共同构成了认识论实践的微观活动机制。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–147)]]
 
 ---
 
@@ -194,7 +194,7 @@ updated: 2026-11-02
 > **探讨维度　学科认识论[[Heterogeneity\|异质性]]** 探讨探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues\|社会科学议题]]在问题类型、证据范围与裁决准则上的本质分化。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
-> **学科异质性与家族相似性** 科学门类之间具有家族相似性而非单一固定的[[Scientific Method\|科学方法]]五步法。探究式科学侧重解释自然现象，遵循受控实验与[[Statistical Significance\|统计显著性]]准则；工程教育面向特定应用目的，寻求多约束条件下的最优设计平衡；社会科学议题则要求统合道德、伦理、生态与经济视角，在公共审议中寻求民主共识。科学课程必须尊重不同领域的[[Domain Specificity\|学科特异性]]规程。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
+> **学科异质性与家族相似性** 科学门类之间具有家族相似性而非单一固定的[[Scientific Method\|科学方法]]五步法。探究式科学侧重解释自然现象，遵循受控实验与[[Statistical Significance\|统计显著性]]准则；工程教育面向特定应用目的，寻求多约束条件下的最优设计平衡；社会科学议题则要求整合道德、伦理、生态与经济视角，在公共审议中寻求民主共识。科学课程必须尊重不同领域的[[Domain Specificity\|学科特异性]]规程。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 ---
 
@@ -210,7 +210,7 @@ updated: 2026-11-02
 > **探讨维度　人工智能中介下的实践形态重塑** 探讨生成式 AI 作为协作伙伴与[[Epistemic Provocateur|认识论挑衅者]]介入课堂时，学生如何展开提出、沟通、评估与合法化知识主张的微观行动。
 
 > [!claim] Han & Gutierez
-> **[[Man-Computer Symbiosis|人机协同]]认识论实践的四维闭环与双轨支架驱动** 在生成式 AI 深度融入的科学课堂中，认识论实践超越了纯人际对话，拓展为以多模态数字制品为中介的人机协同行动回路：学生在初始提示词设计中**提出主张（Propose）**，在审读 AI 生成文本与图像时对照显性[[Scientific Explanation|科学解释]]标准开展**内容、信源与自我理解评估（Evaluate）**，在同伴联合审议与提示词多轮迭代中**沟通与重构主张（Communicate）**，最终通过翻阅权威科学教科书进行跨数据源[[Triangulation|三角互证]]以**合法化主张（Legitimize）**。研究证实，在显性学科标准与反思提示双轨支架的支持下，人机交互能够有效转化为原汁原味的科学认识论实践，确保学生始终牢固占据认识主体地位。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 6–10, 22–24)]]
+> **[[Man-Computer Symbiosis|人机协同]]认识论实践的四维反馈回路与双轨支架驱动** 在生成式 AI 深度融入的科学课堂中，认识论实践超越了纯人际对话，拓展为以多模态数字制品为中介的人机协同行动回路：学生在初始提示词设计中**提出主张（Propose）**，在审读 AI 生成文本与图像时对照显性[[Scientific Explanation|科学解释]]标准开展**内容、信源与自我理解评估（Evaluate）**，在同伴联合审议与提示词多轮迭代中**沟通与重构主张（Communicate）**，最终通过翻阅权威科学教科书进行跨数据源[[Triangulation|三角互证]]以**合法化主张（Legitimize）**。研究证实，在显性学科标准与反思提示双轨支架的支持下，人机交互能够有效转化为原汁原味的科学认识论实践，确保学生始终牢固占据认识主体地位。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 6–10, 22–24)]]
 
 ---
 

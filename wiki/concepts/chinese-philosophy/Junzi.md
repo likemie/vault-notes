@@ -66,7 +66,7 @@ updated: 2026-11-02
 > - **边界** 不等同于世袭血统贵族，不等同于全知全善且遥不可及的圣人，亦不等同于现代程序自由主义中仅满足底线合作规则的抽象理性公民。
 
 > [!citation-card] 罗思文论君子的审美与伦理维度
-> 君子在道上已经走过了相当的距离，承担着相当数量的角色……他们在自身之中宁静安详……他们不仅凭借技巧，更是带着优雅、尊严与美来履行所有社会功能，并在此种践行中感受到愉悦……他们致力于为他人——特别是身处困境者——服务……他们的行动不是被迫的，而是从容、自发且富有[[Creativity|创造性]]的。简而言之，君子的生活兼具极强的审美与伦理维度。[[Argument_Li_2012_Cambridge|(Rosemont, 引自 Li, 2012, pp. 41–42)]]
+> 君子在道上已经走过了相当的距离，承担着相当数量的角色……他们在自身之中宁静安详……他们不仅凭借技巧，更是带着优雅、尊严与美来履行所有社会功能，并在此种践行中感受到愉悦……他们致力于为他人——特别是身处困境者——服务……他们的行动是从容、自发且富有[[Creativity|创造性]]的，有别于被迫的。简而言之，君子的生活兼具极强的审美与伦理维度。[[Argument_Li_2012_Cambridge|(Rosemont, 引自 Li, 2012, pp. 41–42)]]
 >
 > *They have traveled a considerable distance along the way, living a considerable number of roles... they are serene and at peace in their persons... they perform all functions not only with skill but with grace, dignity and beauty, and find pleasure in this performance... they now work for others... especially those in need... their actions are not forced, but easy, spontaneous and creative. In short, the life of a junzi has very strong aesthetic and ethical dimensions.*
 
@@ -95,7 +95,7 @@ updated: 2026-11-02
 > [!feature] 核心要素
 > - **道德品质的自致性与去贵族化** [[Confucius|孔子]]将君子从血缘出身彻底重塑为道德卓越标准，确立了人人皆可通过学习与[[Self-Cultivation|修身]]成为君子的普遍性路径。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]
 > - **多重社会角色的自如履行与审美维度** 君子在家庭、社群与国家的多重角色中游刃有余，不仅以娴熟技巧、更以优雅、尊严与美感履行责任，使道德实践升华为一种充满愉悦的美学生活。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
-> - **内在宁静与从容创生的行为流露** 君子在自身之中保持宁静安详，面对外界诱惑与逆境处变不惊；其行事不是受制于外在规训的被动勉强，而是发自内省仁德的自发、从容与富有[[Creativity|创造性]]。
+> - **内在宁静与从容创生的行为流露** 君子在自身之中保持宁静安详，面对外界诱惑与逆境处变不惊；其行事是发自内省仁德的自发、从容与富有[[Creativity|创造性]]，有别于受制于外在规训的被动勉强。
 > - **家庭伦理与公民忠诚的链条贯通** 儒家君子将微观家庭孝悌（孝顺父母、忠于家庭、悉心抚幼）与宏观国家政治忠诚紧密连结，构建起从修身、齐家到治国、平天下的同心圆伦理链条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 215)]]
 > - **作为城邦抵御地缘脆弱性的实质道德锚点** 在现代[[Geopolitics|地缘政治]]竞争中，君子品格为小国与面临动荡的社会提供了超越单一财富追逐的[[Hard Belief|硬信念]]，成为抵御外部危机与内部虚无的坚实支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
@@ -115,7 +115,7 @@ updated: 2026-11-02
 > **探讨维度　文化心理学、角色伦理与道德美学维度** 探讨君子如何通过终身[[Self-Cultivation|修身]]将外在规范内化为自然流露的品格，并在多元社会角色中展现优雅与[[Creativity|创造性]]。
 
 > [!claim] Li; Rosemont; [[Confucius]]
-> **多重角色中的从容履行与审美生活** 君子在《论语》中出现 91 次，是孔子论述最多的核心概念。安乐哲（Roger T. Ames）与罗思文（Henry Rosemont Jr.）将其译为“典范人物（exemplary person）”。君子不是离群索居的禁欲苦行者，而是在多重具体人际网络中从容游弋的道德艺术家。君子在履行日常责任时展现出优雅、尊严与美感，其道德行为非外力强加，而是轻松、自发且富有创造性的，体现了伦理与审美的完美融合。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]
+> **多重角色中的从容履行与审美生活** 君子在《论语》中出现 91 次，是孔子论述最多的核心概念。安乐哲（Roger T. Ames）与罗思文（Henry Rosemont Jr.）将其译为“典范人物（exemplary person）”。君子是在多重具体人际网络中从容游弋的道德艺术家，有别于离群索居的禁欲苦行者。君子在履行日常责任时展现出优雅、尊严与美感，其道德行为非外力强加，是轻松、自发且富有创造性的，体现了伦理与审美的完美融合。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]
 
 ---
 

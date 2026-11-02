@@ -106,7 +106,7 @@ updated: 2026-11-02
 > **探讨维度　威慑信誉与同盟成本分担** 探讨盟友单方面缩减军备开支如何破坏大国战略均势，进而诱发对手的地缘军事冒险。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]; [[Josep Borrell|Borrell, J.]]
-> **单方面去武力化对战略平衡的破坏** 德国与欧洲在冷战后长达数十年的道德自省与军备收缩，使自身武装力量退化为象征性的盆景军队。这种防御实力的真空使地缘威权对手确信其发动军事侵略无需付出毁灭性代价，直接诱发了东欧地缘冲突的爆发；繁荣与民主的存续绝不能寄托于对手的仁慈，必须重建具备实战威慑能力的[[Hard Power|硬实力]]底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 42–44)]]
+> **单方面去武力化对战略平衡的破坏** 德国与欧洲在冷战后长达数十年的道德自省与军备收缩，使自身武装力量退化为象征性的盆景军队。这种防御实力的真空使地缘威权对手确信其发动军事侵略无需付出毁灭性代价，直接诱发了东欧地缘冲突的爆发；繁荣与民主的存续绝不能寄托于对手的仁慈，必须重建具备实战威慑能力的[[Hard Power|硬实力]]基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 42–44)]]
 
 ---
 
@@ -122,14 +122,14 @@ updated: 2026-11-02
 > **探讨维度　软件突围与非对称战力代偿** 探讨新兴人工智能与低成本软件系统如何打破传统重工业军备积累的刚性时间约束。
 
 > [!claim] Karp, A. C. & Zamiska, N. W.
-> **软件杠杆撬动传统规模劣势** 重建传统重装机械化军团需要耗费数十年时间与数万亿欧元资金，欧洲无法在短期内弥补传统硬件差距。然而，软件世纪的到来颠覆了这一逻辑：通过将廉价商用硬件与先进战场 AI、边缘计算、[[Autonomous Drone Swarms|自主无人机蜂群]]相结合，欧洲盟友能够以敏捷软件迭代的方式迅速构建致命防御网络，在极短时间内以非对称手段弥补盆景军队的战力代差。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–45)]]
+> **软件手段撬动传统规模劣势** 重建传统重装机械化军团需要耗费数十年时间与数万亿欧元资金，欧洲无法在短期内弥补传统硬件差距。然而，软件世纪的到来颠覆了这一逻辑：通过将廉价商用硬件与先进战场 AI、边缘计算、[[Autonomous Drone Swarms|自主无人机蜂群]]相结合，欧洲盟友能够以敏捷软件迭代的方式迅速构建致命防御网络，在极短时间内以非对称手段弥补盆景军队的战力代差。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–45)]]
 
 ---
 
 > [!contrast-table] 盆景军队三大核心命题归纳
 > | 命题类型 | 核心理论断言 | 适用分析情境 | 代表学者 / 来源 |
 > |---|---|---|---|
-> | **威慑侵蚀命题** | 军费收缩与盆景化削弱了同盟的硬实力底座与防务信誉 | 跨大西洋安全秩序、地缘均势与威慑失效分析 | Borrell (2022); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
+> | **威慑侵蚀命题** | 军费收缩与盆景化削弱了同盟的硬实力基础与防务信誉 | 跨大西洋安全秩序、地缘均势与威慑失效分析 | Borrell (2022); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 > | **产业锁死命题** | 碎片化采办阻碍规模经济，培育出微缩且缺乏动员弹性的盆景产业 | 欧洲防务工业整合、军工供应链与重整军备瓶颈 | Mölling (2022); Borrell (2022) |
 > | **软件代偿命题** | 战场 AI 与自主无人系统为微缩军队提供低成本战力突围通道 | 新兴军事技术变革、非对称威慑与国防现代化 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
@@ -175,5 +175,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻诊断欧洲冷战后安全搭便车引发的盆景军队与盆景产业困境，系统论证通过新一代实战人工智能与软件系统非对称重构战力底座的破局路径。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻诊断欧洲冷战后安全搭便车引发的盆景军队与盆景产业困境，系统论证通过新一代实战人工智能与软件系统非对称重构战力基础的突破路径。
 

@@ -73,7 +73,7 @@ updated: 2026-11-02
 > - **去情境化改革的冲击与撕裂** 揭示外来“能力本位”与“教师[[Creativity|创造力]]”抽象处方在猛烈推翻本土百科全书式传统时，由于缺乏师训支撑而造成的严重微观制度真空。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348, 354)]]
 
 > [!citation-card] 比奇论全球教育[[Discourse|话语]]对百科全书式知识传统的断裂与否定
-> 国际机构在 1980 和 1990 年代推广以能力发展为基础的教育。这种教育类型与阿根廷和巴西教育系统中传统的百科全书式知识定义大相径庭，后者的教育很大程度上建立在学生应当记住的事实和信息的传授之上。鉴于这些差异，并非只是这些教育系统的某些方面被视为低效，当时的共识是整个系统都必须改变，而所遵循的模型正是由这些机构推动的面向信息时代的普遍教育模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 348)]]
+> 国际机构在 1980 和 1990 年代推广以能力发展为基础的教育。这种教育类型与阿根廷和巴西教育系统中传统的百科全书式知识定义大相径庭，后者的教育很大程度上建立在学生应当记住的事实和信息的传授之上。鉴于这些差异，并不只是这些教育系统的某些方面被视为低效，当时的共识是整个系统都必须改变，而所遵循的模型正是由这些机构推动的面向信息时代的普遍教育模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 348)]]
 >
 > *For example, international agencies promoted in the 1980s and 1990s an education based on the development of competencies. This type of education is very different from the traditional encyclopaedic definition of knowledge in the Argentine and Brazilian educational systems, where education was very much based on the transmission of facts and information that students should remember. Thus, given these differences, it was not only some aspects of these educational systems that were seen as being inefficient. The view was that the whole system had to be changed...*
 
@@ -106,7 +106,7 @@ updated: 2026-11-02
 > **探讨维度　跨国治理与知识正当性争夺维度** 探讨国际多边组织如何通过[[Discourse|话语]]技术剥夺受援国本土知识传统的合法性，为成套推销通用改革处方铺平道路。
 
 > [!claim] Beech (2005, 2006b); [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
-> **信息时代危机建构与知识[[Paradigm|范式]]全盘推翻** [[Jason Beech|杰森·比奇]]指出，[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]在 1980–1990 年代跨越意识形态分歧，统一步调地将全球未来裁定为信息时代。在此危机叙事下，阿根廷与巴西历史上注重系统事实、知识记忆与博雅学术积淀的百科全书式知识传统，被众口一词地定性为僵化落后、阻碍国家经济转型的祸根。跨国机构宣称不仅某些教学环节失灵，而是整个传统知识体系必须被连根拔起，从而在[[Epistemology|认识论]]层面强行植入由分权化、[[School Autonomy|学校自主权]]与能力本位组成的通用模型。（Beech, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 348]]）
+> **信息时代危机建构与知识[[Paradigm|范式]]全盘推翻** [[Jason Beech|杰森·比奇]]指出，[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]在 1980–1990 年代跨越意识形态分歧，统一步调地将全球未来裁定为信息时代。在此危机叙事下，阿根廷与巴西历史上注重系统事实、知识记忆与博雅学术积淀的百科全书式知识传统，被众口一词地定性为僵化落后、阻碍国家经济转型的祸根。跨国机构宣称不仅某些教学环节失灵，是整个传统知识体系必须被连根拔起，从而在[[Epistemology|认识论]]层面强行植入由分权化、[[School Autonomy|学校自主权]]与能力本位组成的通用模型。（Beech, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 348]]）
 
 ---
 

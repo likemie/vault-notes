@@ -90,7 +90,7 @@ updated: 2026-11-02
 该概念为理解经典比较教育学如何从浅层经验借用迈向系统因果解释提供了核心分析透镜：
 
 > [!concept-lens] 概念透镜
-> - **含义** 它强调学校体系并非孤立的行政[[Artefact\|器物]]，而是校外深层生态、宗教与意识形态力量长期交互沉淀的制度结晶；比较探究必须通过历史因果解释学（Explanatory/Interpretive Episteme）穿透表象，揭示塑造教育差异的结构性动因。
+> - **含义** 它强调学校体系是校外深层生态、宗教与意识形态力量长期交互积累的制度结晶，有别于孤立的行政[[Artefact\|器物]]；比较探究必须通过历史因果解释学（Explanatory/Interpretive Episteme）穿透表象，揭示塑造教育差异的结构性动因。
 > - **用途** 它为面对海量、错综且异质的跨国历史数据提供了清晰的分类学认知秩序（Order and Structure），使研究者能够摆脱杂乱无章的史料罗列，在统一的分析架构下展开多国横向比较（Tretheway, 1976）。
 > - **边界** 它不等于现代统计学与计量社会学中通过相关矩阵降维计算的“数理统计因子分析（Statistical Factor Analysis）”；亦不等于将社会复杂现实机械切割为孤立[[Operationalization\|操作化]]指标的实证[[Variable\|变量]]模型。
 
@@ -104,7 +104,7 @@ updated: 2026-11-02
 比较教育史学家特雷瑟韦（A. R. Tretheway）高度评价了该框架为战后学科赋予的结构性秩序：
 
 > [!citation-card] 因素[[Analytic Framework\|分析框架]]对海量历史数据的结构化秩序赋予
-> 汉斯的贡献并非在于提供[[Isaac Kandel\|坎德尔]]方法的跨大西洋翻版，尽管二者的研究确有诸多共通之处。他的独特贡献在于构建了一个由各种‘因素’组成的比较研究框架，汉斯坚信这些因素代表了塑造民族及其教育体系的内在与永久力量。该框架的巨大价值在于为原本可能难以驾驭的海量相关数据赋予了秩序与严整结构，同时也在于应用该框架的研究展现出的实际解释效能。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 49–50; Tretheway, 1976, pp. 63–64)]]
+> 汉斯的贡献有别于提供[[Isaac Kandel\|坎德尔]]方法的跨大西洋翻版，尽管二者的研究确有诸多共通之处。他的独特贡献在于构建了一个由各种‘因素’组成的比较研究框架，汉斯坚信这些因素代表了塑造民族及其教育体系的内在与永久力量。该框架的巨大价值在于为原本可能难以驾驭的海量相关数据赋予了秩序与严整结构，同时也在于应用该框架的研究展现出的实际解释效能。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 49–50; Tretheway, 1976, pp. 63–64)]]
 >
 > *Hans' contribution, therefore, was not in supplying a transatlantic version of Kandel's method, though their work did have much in common. His particular contribution was in developing a framework for comparative study comprised of factors which he believed represented immanent and permanent forces which shaped nations and their educational systems. The VALUE of such framework lay in the order or structure it imposed on a potentially unmanageable quantity of relevant data and, of course, in the usefulness of the studies applying it.*
 
@@ -118,7 +118,7 @@ updated: 2026-11-02
 在明确概念内涵时，必须厘清其学术边界：
 
 > [!boundary]- 概念边界
-> - 不等于 **现代数理统计中的因子分析（Statistical Factor Analysis）** 汉斯框架中的“因素”是指具有历史实在性与文化意义的宏观结构力量（如宗教教派、语言共同体、民族主义意识形态），属于质性历史社会学范畴，绝非心理测验或量化[[Questionnaire\|问卷]]通过协方差矩阵提取的纯数学统计潜变量。
+> - 不等于 **现代数理统计中的因子分析（Statistical Factor Analysis）** 汉斯框架中的“因素”是指具有历史实在性与文化意义的宏观结构力量（如宗教教派、语言共同体、民族主义意识形态），属于质性历史社会学范畴，有别于心理测验或量化[[Questionnaire\|问卷]]通过协方差矩阵提取的纯数学统计潜变量。
 > - 不等于 **行为实证派的去情境化变量控制模型（Decontextualised Variable Model）** 战后实证派将教育要素降维为孤立的操作化[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]；因素解释框架坚守历史整体论，强调各因素之间密不可分的有机交织与文化特定性。
 > - 不等于 **地理或生物宿命[[Determinism\|决定论]]（Geographical/Biological Determinism）** 汉斯虽然将种族与环境列为自然因素，但严厉批判生物种族优劣论与地理宿命论，坚信人类精神、宗教信仰与理性反思对物质条件具有能动的超越与重构能力。
 
@@ -133,7 +133,7 @@ updated: 2026-11-02
 > |---|---|---|---|---|
 > | **核心旨趣** | 理解与解释民族国家教育体系何以如此生成及其精神原则 | 跨国检验假设、发现普遍共变规律并实现预测控制 | 搜集域外实绩以为本土立法与行政改革提供改良依据 | 诊断现实教育面临的社会困境并推导前瞻性政策方案 |
 > | **[[Unit of Analysis\|分析单位]]** | 民族国家、整体文化传统与[[National Education\|国民教育]]体系 | [[Operationalization\|操作化]][[Variable\|变量]]、量化测验分数与跨国抽样指标 | 具体的外国学校规程、法规条文与教学法技术 | 处在特定社会断层与价值冲突中的教育问题情境 |
-> | **因果机制** | 探寻校外自然、宗教与世俗深层动力的历史沉淀与功能互动 | 建立[[Multiple Regression\|多元回归]]统计模型，度量[[Independent Variable\|自变量]]对[[Dependent Variable\|因变量]]的净效应 | 机械假设外部优秀经验可直接剥离并移植至本土土壤 | 基于[[John Dewey\|杜威]][[Reflective Thinking\|反思性思维]]，从假设检验推导改革行动的未来后果 |
+> | **因果机制** | 探寻校外自然、宗教与世俗深层动力的历史积累与功能互动 | 建立[[Multiple Regression\|多元回归]]统计模型，度量[[Independent Variable\|自变量]]对[[Dependent Variable\|因变量]]的净效应 | 机械假设外部优秀经验可直接剥离并移植至本土土壤 | 基于[[John Dewey\|杜威]][[Reflective Thinking\|反思性思维]]，从假设检验推导改革行动的未来后果 |
 > | **对数据的态度** | 历史档案考据、思想史文本诠释与质性制度生态剖析 | 严格依赖标准化测验、量化[[Questionnaire\|问卷]]与数理统计数据 | 视察日记、官方统计汇编与描述性事实白描 | 整合跨学科经验数据，构建用于政策决策的假说检验矩阵 |
 > | **代表学者** | [[Nicholas Hans\|Hans, N.]], [[Michael Sadler\|Sadler, M.]], [[Isaac Kandel\|Kandel, I. L.]] | [[Harold Noah\|Noah, H.]], [[Max Eckstein\|Eckstein, M.]] | [[Victor Cousin\|Cousin, V.]], [[Horace Mann\|Mann, H.]] | [[Brian Holmes\|Holmes, B.]] |
 
@@ -205,7 +205,7 @@ updated: 2026-11-02
 > **国民教育体系是[[National Character\|国民性格]]与历史力量的外在表达** 汉斯确立了因素分析的[[Ontology\|本体论]]公理，指出国民教育体系如同国家宪法与民族文学，本质上是国民性格（[[National Character]]）的凝结与投射；比较教育学的首要任务正在于穿透外在形式，分离并解析在历史岁月中塑造该民族独特性格的自然、宗教与世俗诸项恒久动力。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 50; Hans, 1949, pp. 9–11)]]
 
 > [!claim] [[Isaac Kandel\|Kandel, I. L.]]
-> **国家意志与政治哲学是形塑学校形态的主导力量** 坎德尔进一步强化了政治动因的决定性地位，提出“国家如何，学校便如何（As is the state, so is the school）”；他指出校外的政治理想、公民权构想以及国家对个人自由的界定，构成了校外力量中最具统摄力的核心因果[[Variable\|变量]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 47–48; Kandel, 1933, pp. 274–275)]]
+> **国家意志与政治哲学是形塑学校形态的主导力量** 坎德尔进一步强化了政治动因的决定性地位，提出“国家如何，学校便如何（As is the state, so is the school）”；他指出校外的政治理想、公民权构想以及国家对个人自由的界定，构成了校外力量中最具统领力的核心因果[[Variable\|变量]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 47–48; Kandel, 1933, pp. 274–275)]]
 
 ---
 

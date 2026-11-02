@@ -77,7 +77,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **资本主义框架保留（Survival of Capitalism）** 去西方化在经济上不挑战资本主义积累逻辑，而是通过发展高技术民族主义和[[Innovation Hub\|创新中心]]参与竞争。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
+> - **资本主义框架保留（Survival of Capitalism）** 去西方化在经济上不挑战资本主义积累逻辑，是通过发展高技术民族主义和[[Innovation Hub\|创新中心]]参与竞争。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 > - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与本土化文化[[Discourse|话语]]，挑战西方主导的多边规训权威。
 > - **认识与主体性张力（Epistemic Tension）** 虽然在制度运作上对抗西方的[[Governing at a Distance\|远处治理]]，但在评估和[[Competitiveness|竞争力]]话语中仍受西方新自由主义框架规训（例如国内高校对西方大学排名评价标准表现出的高度敏感）。
 
@@ -96,7 +96,7 @@ updated: 2026-11-02
 > **探讨维度　去殖民与政治地理学** 剖析非西方崛起国家如何挑战西方霸权，但同时再生产了资本主义的生产方式与效率神话。
 
 > [!claim] [[Eleftherios Klerides\|Klerides, E.]]
-> **地缘权威易手与资本主义共存** 指出以中国经济和高等教育崛起为代表的去西方化道路，其本质是拒绝西方的直接规则干预，但去西方化并不追求变革世界资本主义经济秩序，而是追求从美国手中夺取对它的控制权。它将不加约束的资本主义扩张与国家主义相结合，使之与[[Re-Westernisation\|再西方化]]在地缘权力分配上处于激烈对抗状态，但在维持全球新自由主义[[Human Capital Theory\|人力资本]]积累的大前提上两者高度一致。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 429–430]])
+> **地缘权威易手与资本主义共存** 指出以中国经济和高等教育崛起为代表的去西方化道路，其本质是拒绝西方的直接规则干预，但去西方化并不追求变革世界资本主义经济秩序，是追求从美国手中夺取对它的控制权。它将不加约束的资本主义扩张与国家主义相结合，使之与[[Re-Westernisation\|再西方化]]在地缘权力分配上处于激烈对抗状态，但在维持全球新自由主义[[Human Capital Theory\|人力资本]]积累的大前提上两者高度一致。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 429–430]])
 
 ---
 

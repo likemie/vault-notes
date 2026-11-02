@@ -104,7 +104,7 @@ updated: 2026-11-02
 
 > [!feature] 前竞争研究的治理要素
 > - **共性技术基础设施定位** 聚焦于行业通用测试标准、接口规范、物理极限探索与共性设备改良，而非具体的专有产品商业设计。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751, 754)]]
-> - **双层知识产权解耦机制** 联盟或项目产出的前竞争共性知识产权由参与方共享，而企业在自身产线衍生的专有技术由企业独立独占。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–115)]]
+> - **双层知识产权脱钩机制** 联盟或项目产出的前竞争共性知识产权由参与方共享，而企业在自身产线衍生的专有技术由企业独立独占。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–115)]]
 > - **分层度量与审批通道** 针对探索性小额前竞争项目设立轻量化审批通道，避免用大型商业合规标准阻碍早期合作。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
 > - **纵向供应链互利协同** 当横向同业合作受阻时，将前竞争重心转向上下游买卖双方协同，以天然利益互补化解技术泄密防范。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724, 751–752)]]
 
@@ -121,19 +121,19 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜前竞争边界设定能够使直接商业竞争者在知识共享中达成合作而不侵蚀个体专有竞争优势
-> **探讨维度　合作与竞争的制度解耦** 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
+> **探讨维度　合作与竞争的制度脱钩** 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
 
 > [!claim] [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]]
 > **分层度量匹配机制** 探索性[[University-Industry Collaboration|产学合作]]绝大多数属于前竞争性质，其产出的知识产权商业价值有限；对前竞争研发套用成熟商业项目的严格知识产权条款是一种制度错配，导致过度的法务谈判损耗合作信任；唯有按研究成熟度分层设立轻量审批机制，才能保障早期前竞争创新的顺畅启动。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
 
 > [!claim] [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]
-> **双层知识产权轨道模型** 英国[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC）等现代研发联合体通过建立双层知识产权制度，成功化解了直接竞争对手间的合作困境：在前竞争轨道，研发成果归学术机构所有并对全体会员免版税开放，建立共有技术底座；在[[Product-Specific Research|产品专项]]轨道，企业单独出资开展专有工程攻关并独占知识产权，使各成员能够将公共知识池高效转化为个体专有竞争优势。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–118)]]
+> **双层知识产权轨道模型** 英国[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC）等现代研发联合体通过建立双层知识产权制度，成功化解了直接竞争对手间的合作困境：在前竞争轨道，研发成果归学术机构所有并对全体会员免版税开放，建立共有技术基础；在[[Product-Specific Research|产品专项]]轨道，企业单独出资开展专有工程攻关并独占知识产权，使各成员能够将公共知识池高效转化为个体专有竞争优势。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–118)]]
 
 > [!claim] [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]
 > **[[Public-Private Partnership|公私伙伴关系]]（PPP）的范围界定准则** 在[[Semiconductor Research Corporation|半导体研究公司]]（SRC）等多边联盟中，将合作范围严格限定在前竞争阶段是防范零和博弈的关键；各方将资金汇聚于共性基础科学挑战与行业互操作标准，从而在降低个体研发成本的同时，维护了各企业在终端产品架构上的独立差异化竞争。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–236)]]
 
 > [!claim] [[Argument_Logar_2014_Minerva|Logar et al. (2014)]]
-> **前竞争分层计划矩阵与时域解耦机制** SRC 的实践证明，前竞争研究并非单一维度的模糊概念，而是可以通过构建跨越近中远期的多轨道计划矩阵实现工程化落地：将近中期计划（GRC）定位于收窄技术选项并对齐国际技术路线图（ITRS），将中远期计划（[[Focus Center Research Program|FCRP]]、NRI）定位于创造技术选项与探索极限物理；各成员企业既能在底层物理与通用工艺上共享科研成果与博士人才库，又能在具体的芯片架构与终端产品上保持激烈的市场竞争，从根本上消除了反垄断合规障碍与商业泄密顾虑。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241, 246–251)]]
+> **前竞争分层计划矩阵与时域脱钩机制** SRC 的实践证明，前竞争研究是可以通过构建跨越近中远期的多轨道计划矩阵实现工程化落地：将近中期计划（GRC）定位于收窄技术选项并对齐国际技术路线图（ITRS），将中远期计划（[[Focus Center Research Program|FCRP]]、NRI）定位于创造技术选项与探索极限物理，有别于单一维度的模糊概念；各成员企业既能在底层物理与通用工艺上共享科研成果与博士人才库，又能在具体的芯片架构与终端产品上保持激烈的市场竞争，从根本上消除了反垄断合规障碍与商业泄密顾虑。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241, 246–251)]]
 
 ---
 
@@ -141,15 +141,15 @@ updated: 2026-11-02
 > **探讨维度　[[Industry Affiliate Program|产业联盟]]内部的治理演化与纵向协同** 考察在高技术制造业联盟中，直接竞争对手之间的保密防范如何重构前竞争研发的技术定位与组织形态。
 
 > [!claim] [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]
-> **专有权张力与纵向协同转向** [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 与欧洲 [[ESPRIT]] 的跨国比较表明，直接竞争对手在横向联盟中因担心技术外泄与失去竞争优势，天然难以无保留共享核心制造工艺配方；受成员企业追求可衡量[[Return on Investment|投资回报]]的推动，产业主导的前竞争联盟必然从长周期基础研究逐步收敛为近中期的行业技术路线图、通用标准与设备中试测试平台，并通过转向与上游设备供应商的纵向供应链协同化解专有权冲突。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]
+> **专有权张力与纵向协同转向** [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 与欧洲 [[ESPRIT]] 的跨国比较表明，直接竞争对手在横向联盟中因担心技术外泄与失去竞争优势，天然难以无保留共享核心制造工艺配方；受成员企业追求可衡量[[Return on Investment|投资回报]]的推动，产业主导的前竞争联盟必然从长周期基础研究逐步汇合为近中期的行业技术路线图、通用标准与设备中试测试平台，并通过转向与上游设备供应商的纵向供应链协同化解专有权冲突。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]
 
 ---
 
 > [!contrast-table] 前竞争研究核心命题归纳
 > | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
-> | **双层知识产权解耦命题** | 区分共有前竞争知识池与个体产品专项开发，保障竞争对手协同攻关 | 大学–企业联合体、先进制造中心 | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
-> | **分层时域矩阵命题** | 依据技术成熟度建立近中远期多轨道计划，以路线图解耦底层共性探索与终端产品竞争 | 行业级多边研发联合体（如半导体） | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
+> | **双层知识产权脱钩命题** | 区分共有前竞争知识池与个体产品专项开发，保障竞争对手协同攻关 | 大学–企业联合体、先进制造中心 | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
+> | **分层时域矩阵命题** | 依据技术成熟度建立近中远期多轨道计划，以路线图脱钩底层共性探索与终端产品竞争 | 行业级多边研发联合体（如半导体） | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
 > | **制度度量匹配命题** | 按研发成熟度分层设计知识产权审查流程，消除小额探索项目的法务阻碍 | 早期产学合作、企业资助大学实验室 | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan and Spohrer (2025)]] |
 > | **专有权演化与纵向协同命题** | 横向工艺保密防范迫使联盟转向近中期通用标准与上下游供应链协同 | 产业高技术研发联合体（半导体、微电子） | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] |
 
@@ -185,7 +185,7 @@ updated: 2026-11-02
 > | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan and Spohrer (2025)]] | IBM 全球小型产学合作项目（每年 <\$250K） | 实践案例与政策反思 | IP 审查周期与合作成活率 | 小型前竞争项目若套用商业级 IP 审查，会导致法务流程拖延数月甚至使合作夭折 | 定性管理总结 | 适用于企业与大学的小型探索性课题 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美日欧 16 个高技术研发联盟（[[Sematech]], [[VLSI Project\|VLSI]], [[ESPRIT]] 等） | 跨国[[Comparative Case Study\|比较案例研究]] | 政府资助比例（0%–100%）、研发重点调整方向 | 集中式项目管理与纵向供应链协同呈现出更高的[[Research Translation\|技术转化]]效率与设备运行稳定性 | 25+ 场访谈与 11 项工程档案分析 | 适用于高技术制造业公私研发联合体 |
 > | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]] | 英国[[Advanced Manufacturing Research Centre\|先进制造研究中心]]（AMRC）及制造业联合体 | 案例追踪与制度分析 | 两层 IP 模式下的会员参与度与转化成效 | 前竞争轨道（大学持权免版税使用）与[[Product-Specific Research\|产品专项]]轨道（赞助商独占）并行有效消除了竞争对手合作顾虑 | 深入案例分析 | 适用于制造业中试与工艺转化中心 |
-> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）前竞争产学研发网络（1982–2011） | 单机构案例研究（访谈 $N=19$ 与历史财务档案） | 资助规模、人才产出、专利数与高被引工业引用率 | 年均资助近 1,500 名博士生（累计培养 9,200+ 毕业生）；累计产出专利 377 项；在 125 篇百引以上论文中 58%（72篇）的工业引用占比超过 15% | 定性与描述性统计档案分析 | 适用于行业级前竞争[[University-Industry Collaboration\|产学合作]]研发联合体 |
+> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）前竞争产学研发网络（1982–2011） | 单机构案例研究（访谈 $N=19$ 与历史财务档案） | 资助规模、人才产出、专利数与高被引工业引用率 | 年均资助近 1,500 名博士生（累计培养 9,200+ 毕业生）；累计产出专利 377 项；在 125 篇百引以上文章中 58%（72篇）的工业引用占比超过 15% | 定性与描述性统计档案分析 | 适用于行业级前竞争[[University-Industry Collaboration\|产学合作]]研发联合体 |
 
 ---
 

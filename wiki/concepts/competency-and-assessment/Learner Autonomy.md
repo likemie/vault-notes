@@ -5,7 +5,7 @@ aliases:
   - 自主学习
   - autonomy in learning
   - autonomous learning
-summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
+summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学脱钩并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
 related_count: 50
@@ -85,7 +85,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Learner Autonomy
-> 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition\|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one\x27s own learning）；Dam（1995）进一步补充了“准备度（Readiness）”维度——自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架解耦分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition\|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one\x27s own learning）；Dam（1995）进一步补充了“准备度（Readiness）”维度——自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架脱钩分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者自主性标志着学习者从被动[[Received Knowledge\|接收知识]]转向主动驾驭[[Knowledge Building Theory|知识建构]]过程，涵盖自主设定目标、选择策略、反思进度与评估成效。其本质体现为在社会互动中达成的有支持的独立（Supported Independence），有别于脱离情境的绝对独白。
@@ -169,7 +169,7 @@ updated: 2026-11-02
 > | 命题维度 | 核心论断 | 因果作用机制 | 代表[[Document\|文献]]与实证载体 |
 > |---|---|---|---|
 > | **认识论与元认知基石** | 自主性取决于批判思维能力与意义建构自信的双轨养成。 | 知识论探究破除被动接受，反思训练激活风险承担与自主表达。 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
-> | **技术析因机制解耦** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
+> | **技术析因机制脱钩** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **支架缺失的掉队代价** | 缺乏结构支持的极端自由导致认知过载与弱势学童掉队。 | 去结构化环境抽离安全边界，引发算法心智外包与阶层差距扩大。 | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]; [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 
 ---
@@ -228,7 +228,7 @@ updated: 2026-11-02
 >   - **[[Metacognition\|元认知]]日志反思** 记录自身观点从“二元对立”向“审慎包容”演化的心智轨迹，确立深层智识自主。
 > - **英国 [[Education Endowment Foundation\|EEF]] ABRA 在线阅读[[Multi-Arm Trial\|多臂试验]]中的自主—支架协同（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）**
 >   - **软件独立自学阶段** 学生每日在电脑端自主完成 15 分钟基于语音识别与交互游戏的拼读闯关任务，软件提供即时正误反馈与自适应进度推演；
->   - **教师深度介入与反思收束** 教师每周两次调取后台学习日志，对学生在自主闯关中遭遇的核心拼读瓶颈进行 20 分钟面对面结构化点拨，成功化解软件自学的疲劳与迷失效应。
+>   - **教师深度介入与反思收住** 教师每周两次调取后台学习日志，对学生在自主闯关中遭遇的核心拼读瓶颈进行 20 分钟面对面结构化点拨，成功化解软件自学的疲劳与迷失效应。
 
 ---
 

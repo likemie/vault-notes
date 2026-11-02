@@ -75,7 +75,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向评估工具与干预方案之间由于同一主体设计而产生的“测量过度对齐（Overalignment）”与内在偏倚。
 > - **用途** 帮助证据审查者和政策制定者穿透表面高额的实验效应量，识别由于测量工具缺乏独立性而带来的假阳性繁荣与偏倚风险。
-> - **边界** 开发者自编测验并非在教学过程中毫无价值，其在形成性课堂反馈、掌握度诊断与内部教学单元测试中具有针对性；但当其被用于跨项目横向因果评级、法定证据分级及公共财政资助准入时，其[[Internal Validity\|内部效度]]与[[Construct Validity\|构念效度]]受到根本性削弱。
+> - **边界** 开发者自编测验并不在教学过程中毫无价值，其在形成性课堂反馈、掌握度诊断与内部教学单元测试中具有针对性；但当其被用于跨项目横向因果评级、法定证据分级及公共财政资助准入时，其[[Internal Validity\|内部效度]]与[[Construct Validity\|构念效度]]受到根本性削弱。
 
 > [!citation-card] 审查平台对自编测验的刚性排除
 > 研究者自编的结局测量工具也越来越不被允许作为确证性结局指标。这些严格要求使得研究极不可能偏向实验组。……早期实验之所以往往无法复现，很大程度上是因为它们更可能由开发者亲自执行，并且经常使用开发者或研究者自编的测验。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 4, 10)]]
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > | **研发与命题主体** | 教学方案研发团队、商业出版商或[[Experimental Research\|实验研究]]者 | 独立专业测量机构（如 [[Educational Testing Service\|ETS]]、Riverside） | 州教育厅、国家教育评估机构 |
 > | **题目对齐度** | 高度针对干预方案所教授的特定文本、词汇与题型 | 广泛覆盖学科领域核心通用素养与认知能力 | 对齐全州核心课程标准与学业基准 |
 > | **[[Effect Size\|效应量]]特征** | 普遍偏高（常在 $+0.40 \sim +0.80$ 以上），高度虚夸 | 较为保守、稳健（通常在 $+0.15 \sim +0.35$ 之间） | 效应量通常较小，但具有最高的生态政策效度 |
-> | **跨项目横向可比性** | 极低（不同自编测验难度与尺度不可比） | 极高（具备全国常模与标准化尺度） | 极高（全州所有学校统一测试底座） |
+> | **跨项目横向可比性** | 极低（不同自编测验难度与尺度不可比） | 极高（具备全国常模与标准化尺度） | 极高（全州所有学校统一测试基础） |
 > | **法定证据审查准入** | 完全排除（[[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]] 与 [[Education Endowment Foundation\|EEF]] 均不予采纳） | 完全接纳（作为法定强与中等证据的核心判据） | 完全接纳（最具外部政策说服力的宏观结局指标） |
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-11-02
 > - **内容过度对齐（Overalignment）** 自编测验题目往往直接抽样自实验教材的特定章节或训练例题；对照组学生即便掌握了同等学科能力，也会由于未接触特定词汇或表达形式而在测验中表现劣势。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 10)]]
 > - **[[Effect Size\|效应量]]虚夸（Effect Size Inflation）** 实证[[Meta-analysis\|元分析]]表明，使用开发者或研究者自编测验的研究，其报告的加权效应量通常是独立标准化测验的 1.5 至 2 倍，造成了方案“高度有效”的统计学假象。
 > - **非复现性陷阱（Nonreplication Driver）** 当高效应量方案脱离原开发者团队并在真实学区接受第三方采用独立标准化测试复现时，原有的显著效应往往迅速崩溃甚至归零，成为[[Replication in Education Research\|教育研究复现]]危机的主要推手。
-> - **深层[[Construct\|构念]]敏感度与常规测验错配（Construct Sensitivity vs Metric Mismatch）** 在[[Higher-Order Thinking Skills\|高阶思维]]、概念转变与[[Epistemic Cognition\|认识论认知]]等复杂干预中，常规期末考与外部标准化测验主要考核陈述性事实与机械程序提取，对高阶认知结构的变化不敏感；研究者自编测验能够针对复杂论证与概念转变开展细颗粒度测量，因而呈现出更高的测量敏感度。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 488)]]
+> - **深层[[Construct\|构念]]敏感度与常规测验错配（Construct Sensitivity vs Metric Mismatch）** 在[[Higher-Order Thinking Skills\|高阶思维]]、概念转变与[[Epistemic Cognition\|认识论认知]]等复杂干预中，常规期末考与外部标准化测验主要考核陈述性事实与机械程序提取，对高阶认知结构的变化不敏感；研究者自编测验能够针对复杂论证与概念转变开展细细节尺度测量，因而呈现出更高的测量敏感度。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 488)]]
 > - **测验类型与干预时长的结构性混淆（Structural Confounding with Duration）** 短周期干预通常全部采用研究者自编测验，而全学期长周期干预往往被迫采用学校常规期末考，造成“长期干预效果反而衰退”的表象，实质混淆了测验工具敏感度与干预时长的真实效应。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 492)]]
 > - **循证清算准入门控（[[Educational Evidence Clearinghouses\|Clearinghouse]] Gatekeeping）** 现代证据审查平台（如 [[Evidence for ESSA]]、[[What Works Clearinghouse\|WWC]]）将“测量工具是否独立于开发者与研究者”列为前置质控红线，坚决剔除以自编测验作为唯一确证性指标的研究。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 3–4)]]
 

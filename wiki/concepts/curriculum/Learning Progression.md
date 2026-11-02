@@ -57,7 +57,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向学科核心[[Construct|构念]]在学习者认知结构中演进的纵向发展路径与质性跃变阶段。
 > - **用途** 破解传统课程清单化平铺与教师个人孤立主观期待的弊端，使教学、学习与评价聚焦于学生的实质性认知生长。
-> - **边界** 进阶轨迹并非心理发展的生物[[Determinism|决定论]]通道，而是受课程组织、[[Scaffolding|教学脚手架]]与文化情境共同调节的可能发展区间，不同于机械的年级达标分数线。
+> - **边界** 进阶轨迹是受课程组织、[[Scaffolding|教学脚手架]]与文化情境共同调节的可能发展区间，不同于机械的年级达标分数线，有别于心理发展的生物[[Determinism|决定论]]通道。
 
 > [!citation-card] 学业进阶是突破学习提升瓶颈的关键基石
 > 课程产出必须蕴含学业进阶维度。新西兰的研究表明，教师群体对学业进阶缺乏共同理解，很可能是阻碍学生学业成果提升的最严重瓶颈。尽管教师会分享教学活动或学生故事，但极少深入探讨理解水平、挑战难度以及达标所需期望，导致教师每年仅凭未经检验的内隐信念要求学生，造成表现起伏不定。问责系统的核心目的之一正是协助构建进阶的共同语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]
@@ -65,7 +65,7 @@ updated: 2026-11-02
 > *Outcomes from curricula must have a sense of achievement progression. From our New Zealand research, it is most defensible to claim that a common understanding among teachers of progression is probably the greatest chokepoint to the enhancement of learning outcomes for students... One of the major purposes of an accountability system is to assist in articulating a common language of progression.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Epistemic Ascent|认识论上升]]（Epistemic Ascent） — 认识论上升侧重哲学与[[Epistemology|认识论]]层面上学科公理体系由具象向抽象的逻辑演进与认识方式跃迁（规范性哲学导向）；学业进阶则侧重学生在具体学科内容、核心技能与表现水平上的实际认知发展轨迹与测绘里程碑（实证心理学导向）。
+> - 不等于 [[Epistemic Ascent|认识论上升]]（Epistemic Ascent） — 认识论上升侧重哲学与[[Epistemology|认识论]]层面上学科公理体系由具象向抽象的逻辑演进与认识方式转向（规范性哲学导向）；学业进阶则侧重学生在具体学科内容、核心技能与表现水平上的实际认知发展轨迹与测绘里程碑（实证心理学导向）。
 > - 不等于机械年级分段 — 年级分段是行政年龄分班制度；学业进阶依据认知发展水平与概念理解深度划分，同一行政班级内学生常跨越多个进阶水平。
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题二｜进阶数据必须服务于三核心提问的形成性闭环
+> [!concept-proposition] 命题二｜进阶数据必须服务于三核心提问的形成性反馈回路
 > **探讨维度　形成性教学决策中的进阶定位** 探讨如何将纵向进阶标尺嵌入日常教学干预与学生自我调节环节。
 
 > [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 > **探讨维度　学习进阶的跨学段证据[[Heterogeneity|异质性]]与方法学基础** 探讨学习进阶在不同教育阶段构建时的证据来源差异，以及高阶推论性进阶如何通过一线教师同行审读获得实践有效性。
 
 > [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
-> **学段间证据基础的分化与实践校准必要性** 全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准研制经验表明，学习进阶并非拥有均质的实证支撑。小学低段（K–2）依托道格·克莱门茨（Doug Clements, 2011）等儿童认知心理学实证研究，拥有清晰且经严格验证的自然学习轨迹；然而初高中高阶数学几乎完全缺乏实证学习进阶数据，进阶序列本质上是基于数学学科公理体系的推论性假说。为防止学术推演脱离课堂现实，必须依托[[American Federation of Teachers|全美教师联盟]]（AFT）等一线骨干教师的“物理剪裁审查”，通过逐条比对草案与真实课堂教学规律，方能将推论性进阶修正为具有可行性的教学进阶序列。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
+> **学段间证据基础的分化与实践校准必要性** 全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准研制经验表明，学习进阶有别于拥有均质的实证支撑。小学低段（K–2）依托道格·克莱门茨（Doug Clements, 2011）等儿童认知心理学实证研究，拥有清晰且经严格验证的自然学习轨迹；然而初高中高阶数学几乎完全缺乏实证学习进阶数据，进阶序列本质上是基于数学学科公理体系的推论性假说。为防止学术推演脱离课堂现实，必须依托[[American Federation of Teachers|全美教师联盟]]（AFT）等一线骨干教师的“物理剪裁审查”，通过逐条比对草案与真实课堂教学规律，方能将推论性进阶修正为具有可行性的教学进阶序列。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
 ---
 
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **组织协同命题** | 共享进阶语言是克服教师内隐孤立与教学断层的制度基石 | 校本教研共同体建设、纵向表现标尺统一 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] |
-> | **评价功能命题** | 进阶标尺必须深度嵌入形成性反馈“三核心提问”闭环 | 课堂诊断测评、[[Personalized Learning\|个性化学习]]目标定位 | 同上（Hattie） |
+> | **评价功能命题** | 进阶标尺必须深度嵌入形成性反馈“三核心提问”反馈回路 | 课堂诊断测评、[[Personalized Learning\|个性化学习]]目标定位 | 同上（Hattie） |
 > | **证据异质命题** | 进阶建构由低段心理学实证测绘向高段学科逻辑推演分化 | 跨学段课程标准编制与实证证据空白应对 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
 
 ---
@@ -139,7 +139,7 @@ updated: 2026-11-02
 > [!ref-table]- 学业进阶相关实证测量与样本数据
 > | 研究来源 | 样本特征 | 测量工具 | 进阶指标 / [[Variable\|变量]] | 主要统计发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 5–12 年级学生常模样本（约 25,000 名） | [[Assessment Tools for Teaching and Learning\|asTTle]] 数学题库（1,500 余道试题） | 数学运算策略 vs 几何知识纵向增长曲线 | 数运算策略在 5–12 年级呈现陡峭连续增长曲线；几何知识在小学阶段起步不稳且 5–7 年级出现停滞平台期（pp. 15–16） | 大规模常模数据揭示出不同学科维度的认知进阶并非完全同步均速，证实进阶需[[Domain Specificity\|学科特异性]]建模 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 5–12 年级学生常模样本（约 25,000 名） | [[Assessment Tools for Teaching and Learning\|asTTle]] 数学题库（1,500 余道试题） | 数学运算策略 vs 几何知识纵向增长曲线 | 数运算策略在 5–12 年级呈现陡峭连续增长曲线；几何知识在小学阶段起步不稳且 5–7 年级出现停滞平台期（pp. 15–16） | 大规模常模数据揭示出不同学科维度的认知进阶并不完全同步均速，证实进阶需[[Domain Specificity\|学科特异性]]建模 |
 > | Clements (2011); Daro et al. (2011)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 14, 22)]] | 全美幼儿及小学低段（K–2）学生 | 认知发展心理学实验与学习轨迹测绘工具 | 数感发展、基数概念、早期算术加减法策略 | 证实儿童早期数学认知遵循高度稳健的自然发展轨迹（Learning Trajectories），构成 [[Common Core State Standards\|CCSS]] K–2 进阶设计的坚实实证基础 | 早期数学进阶具有高[[Internal Validity\|内部效度]]，但高年级数学缺乏对应因果实证轨迹 |
 
 ---

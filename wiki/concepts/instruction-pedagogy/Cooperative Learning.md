@@ -151,7 +151,7 @@ updated: 2026-11-02
 > **探讨维度　真实教学情境的[[Ecological Validity\|生态效度]]与实验控制张力** 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
 
 > [!claim] Güngör et al.
-> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全[[Experimental Research|实验设计]]的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化沉淀。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
+> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全[[Experimental Research|实验设计]]的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化积累。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
 
 ---
 
@@ -193,11 +193,11 @@ updated: 2026-11-02
 > > 严格[[Random Assignment\|随机化]]实验（[[Randomised Controlled Trials\|随机对照试验]]，RCT）与课堂准实验在合作学习评价上呈现截然相反的结论，引发关于证据层级与[[Ecological Validity\|生态效度]]的学术争鸣。
 > >
 > > - **Stanczak et al. (2022)** 在严格全实验控制下发现六年级[[Jigsaw\|拼图法]]未显著提升[[Academic Achievement\|学业成绩]]。
-> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 论证真实课堂教学并非孤立实验室操作，[[Quasi-Experimental Designs\|准实验设计]]更能反映真实教学环境中的同伴互动与综合成长。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 11)]]
+> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 论证真实课堂教学有别于孤立实验室操作，[[Quasi-Experimental Designs\|准实验设计]]更能反映真实教学环境中的同伴互动与综合成长。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 11)]]
 
 > [!warning] 实施局限
 > - **教师专业素养要求高** 缺乏理论理解的机械分组会导致形式主义合作，未能有效落实积极互赖与个体责任。
-> - **实施周期与持续时间依赖** 短期接触式合作往往难以形成良性小组动力，需要充足的时间沉淀与结构化引导。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
+> - **实施周期与持续时间依赖** 短期接触式合作往往难以形成良性小组动力，需要充足的时间积累与结构化引导。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
 
 ---
 

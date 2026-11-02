@@ -70,7 +70,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向经验现实与数字符号系统之间的映射规则，界定数字是否具备标识、排序、等距或绝对零点属性。
 > - **用途** 约束统计假设检验（参数 vs 非参数）的选择，并诊断因测验量程不当引发的测量截断与因果效应失真。
-> - **边界** 测量尺度不等于具体的物理测量仪器或单张试卷，而是指该工具所生成分数的底层数学尺度与心理计量结构。
+> - **边界** 测量尺度不等于具体的物理测量仪器或单张试卷，是指该工具所生成分数的底层数学尺度与心理计量结构。
 
 > [!citation-card] 测量尺度的反应选项与数据转化本质（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
 > 测量尺度规定了受试者在测验工具上的反应选项或观察采集单位，是[[Variable\|变量]][[Operationalization\|操作化]]的核心载体：
@@ -116,7 +116,7 @@ updated: 2026-11-02
 在真实教育试验与大规模政策评估中，测量尺度的构建面临严重的心理计量失真威胁（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 54]]）：
 
 > [!critique-method] 传统教育试验终结性测量的两大心理计量陷阱
-> - **[[Developer-Made Measures\|开发者自编测验]]的题项同构溢价（Inherent Measures）** 若研究采用项目开发者自行设计的测验，题项极易与实验组专属的教学要点高度重合，使得该尺度度量的不再是普遍的“学科能力”，而是“对特定测验题目的熟悉度”，导致统计[[Effect Size\|效应量]]被人为夸大 50% 至 100%（Cheung & Slavin, 2016; WWC, 2017）。
+> - **[[Developer-Made Measures\|开发者自编测验]]的题项同构溢价（Inherent Measures）** 若研究采用项目开发者自行设计的测验，题项极易与实验组专属的教学要点高度重合，使得该尺度度量的不再是普遍的“学科能力”，是“对特定测验题目的熟悉度”，导致统计[[Effect Size\|效应量]]被人为夸大 50% 至 100%（Cheung & Slavin, 2016; WWC, 2017）。
 > - **商业标准化测验的量程受限与效度黑箱** 市售商业测验开发商通常仅在手册中提供克隆巴赫 $\alpha$（[[Internal Consistency\|内部一致性]]），极少向学界公开[[Predictive Validity\|预测效度]]数据；伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）复算显示其对官方统考的预测效度偏低。更严重的是，商业测验难度阶梯狭窄，高频遭遇[[Floor and Ceiling Effects\|天花板与地板效应]]（如 Catch Up Numeracy 数学干预试验，Hodgen et al., 2019），高水平学生轻易满分、低水平学生大量零分，尺度在两端被硬性截断，严重抹平真实因果差距。
 
 ### 3. 权威测量工具库与尺度准入标准
@@ -173,7 +173,7 @@ updated: 2026-11-02
 > | [[Construct]] | 测量客体 | 测量尺度旨在准确量化和呈现的潜在理论实体。 |
 > | [[Quantitative Research]] | [[Paradigm\|研究范式]] | 测量尺度作为量化数据生成与统计分析的基石技术载体。 |
 > | [[SPECTRUM]] | 审查数据库 | [[Education Endowment Foundation\|EEF]] 建立的评估与准入非认知测量尺度标准化的国家级工具库。 |
-> | [[Education Endowment Foundation]] | 规约机构 | 制定测验选用指南、强制测量尺度锚定国家统考的循证中介机构。 |
+> | [[Education Endowment Foundation]] | 规范机构 | 制定测验选用指南、强制测量尺度锚定国家统考的循证中介机构。 |
 > | [[National Pupil Database]] | 标杆数据 | 为教育试验提供高[[External Validity\|外部效度]]、连续客观测量尺度的国家普查库。 |
 > | [[Floor and Ceiling Effects]] | 测量偏差 | 测量尺度有效量程受限时导致[[Causality\|因果推断]]失真的典型心理计量现象。 |
 > | [[Construct Validity]] | 效度准则 | 评估测量尺度是否真正测量了目标理论构念的核心效度维度。 |

@@ -80,10 +80,10 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **微观质性维度** 回答“研究者的理论阐释在多大程度上忠实于当事人对世界的具身体验与意义赋予”，强调移情性理解而非外部范畴强加。
 > - **宏观实证综合维度** 回答“二阶汇总标签在多大程度上忠实于底层实证研究的因果实质”，防范因概念错位与对照组混同而产生的假性因果推论。
-> - **适用边界** 解释效度绝非无原则接纳当事人的所有言论（参与者对自己行为的解释不享有认知特权；Hammersley & Atkinson, 1983）；在量化综合中，它亦不否定统计聚合的必要性，而是要求聚合过程必须严格以对象与设计的同质性为前提。
+> - **适用边界** 解释效度有别于无原则接纳当事人的所有言论（参与者对自己行为的解释不享有认知特权；Hammersley & Atkinson, 1983）；在量化综合中，它亦不否定统计聚合的必要性，是要求聚合过程必须严格以对象与设计的同质性为前提。
 
 > [!citation-card] 质性研究中对主观意义的忠实承诺
-> 解释效度关注的是对参与者自身意义与意图的忠实呈现，这要求研究者以参与者自己的语言和分类框架来理解世界，而不是从外部强加研究者先入为主的理论范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 161)]]
+> 解释效度关注的是对参与者自身意义与意图的忠实呈现，这要求研究者以参与者自己的语言和分类框架来理解世界，有别于从外部强加研究者先入为主的理论范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 161)]]
 >
 > *Interpretive validity is concerned with capturing the meaning, interpretations, terms and intentions that situations and events have for the participants themselves... It is to be achieved through the participants' own terms.*
 
@@ -143,7 +143,7 @@ updated: 2026-11-02
 
 > [!debates] 学术争议
 >
-> > [!axis] [[Qualitative Validity|质性效度]]自主性辩护 vs [[Positivism|实证主义]]客观性规约
+> > [!axis] [[Qualitative Validity|质性效度]]自主性辩护 vs [[Positivism|实证主义]]客观性规范
 > > [[Qualitative Research|质性研究]]者是否应当放弃传统实证主义效度术语，采用以“理解”与“真实性”为核心的解释效度替代标准。
 > >
 > > - **Maxwell & Lincoln-Guba 立场** 主张质性探究服务于主观意义理解，绝不能机械照搬[[Internal Validity|内部效度]]、[[External Validity|外部效度]]与[[Reliability|信度]]等实证主义准则，解释效度体现了质性研究的[[Paradigm|范式]]自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 160)]]

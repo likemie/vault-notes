@@ -67,7 +67,7 @@ updated: 2026-11-02
 > - **边界** 属于基于自由市场、人才高流动性与风险资本的自组织创新集聚区，不同于依靠政府中央集权强力规划与指令性投资建设的科学城模式（如日本[[Tsukuba Science City|筑波科学城]]）。
 
 > [!citation-card] 硅谷企业衍生网络与创新生态
-> 硅微电子产业向民用市场的转型深刻塑造了旧金山湾区的产业地貌。仙童半导体在加州山景城、帕洛阿尔托和圣拉斐尔的扩张，不仅开创了大批量混合制造与[[Application Engineering|应用工程]]服务模式，其核心技术团队更在湾区催生了超过30家半导体衍生企业，直接构筑了硅谷高科技群落的生态底座。
+> 硅微电子产业向民用市场的转型深刻塑造了旧金山湾区的产业地貌。仙童半导体在加州山景城、帕洛阿尔托和圣拉斐尔的扩张，不仅开创了大批量混合制造与[[Application Engineering|应用工程]]服务模式，其核心技术团队更在湾区催生了超过30家半导体衍生企业，直接构筑了硅谷高科技群落的生态基础。
 >
 > *The silicon industry's expansion was indissociable from the territorial consolidation of Silicon Valley. Fairchild Semiconductor's operations in Mountain View, Palo Alto, and San Rafael laid the organizational matrix for the Bay Area's high-technology cluster, giving birth to dozens of Spin-offs that defined the regional economy.* [[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
 
@@ -91,7 +91,7 @@ updated: 2026-11-02
 > [!feature] 旧金山湾区[[Innovation Ecosystem|创新生态系统]]的四大核心要素
 > - **空间多极错位分工（Spatial Functional Specialization）** 旧金山市侧重金融资本、专业服务与生物制药；南湾圣何塞与硅谷专注于半导体、计算机硬件与软件技术；东湾奥克兰集聚现代重工业、高端制造与国际航运港口；北湾专注于特色农业与葡萄酒生态产业；半岛形成高品质居住与科研生活区。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **非竞业法律与企业衍生群落（Non-Compete Law & Spinoff Culture）** 《加利福尼亚州商业与职业法典》第 16600 条严格禁止雇佣合同中的竞业限制条款，赋予工程师极高的人才流动自由，促成了以[[Fairchild Semiconductor|仙童半导体]]衍生企业（Fairchildren）为代表的裂变创业文化与知识稠密溢出。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–182)]]
-> - **大学-产业深层协同与[[Technology Transfer|技术转移]]（University-Industry Tech Transfer）** 斯坦福大学创设[[Stanford Research Park|斯坦福工业园]]（Stanford Industrial Park）并建立成熟的技术授权办公室（Office of Technology Licensing, OTL），构建起从基础研究、专利授权、校企联合实验室到师生孵化创新的闭环路径；同时大学教授与企业工程师保持紧密的非正式技术咨询网络（如仙童半导体在研发[[Dual In-Line Package|双列直插封装]] DIP 过程中咨询斯坦福大学热传导专家攻克散热瓶颈）。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 207)]]
+> - **大学-产业深层协同与[[Technology Transfer|技术转移]]（University-Industry Tech Transfer）** 斯坦福大学创设[[Stanford Research Park|斯坦福工业园]]（Stanford Industrial Park）并建立成熟的技术授权办公室（Office of Technology Licensing, OTL），构建起从基础研究、专利授权、校企联合实验室到师生孵化创新的反馈回路路径；同时大学教授与企业工程师保持紧密的非正式技术咨询网络（如仙童半导体在研发[[Dual In-Line Package|双列直插封装]] DIP 过程中咨询斯坦福大学热传导专家攻克散热瓶颈）。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 207)]]
 > - **多层次科技金融与中介服务网络（Multi-Tier Techno-Finance Network）** 由天使投资、专业风险投资（Venture Capital, VC）、私募股权（Private Equity, PE）与美国小企业管理局（Small Business Administration, SBA）政策贷款共同构成的全周期资本链条，辅以完善的专利法律、财务审计与战略咨询等中介生态。
 
 > [!logic-map]- 区域自组织创新生态运行逻辑
@@ -115,7 +115,7 @@ updated: 2026-11-02
 > **产学研协同平台与制度保障** 张寒旭等指出，旧金山湾区的大学-产业互动不仅体现在[[Stanford Research Park|斯坦福研究园]]等物理空间的集聚，更根植于斯坦福大学成熟的知识产权保护与极度便利的校企合作流程。加利福尼亚州法律明确禁止竞业禁止协议，极大降低了科研人员离职创新的法律门槛，使得源自高校与龙头企业的智力成果能够迅速以衍生企业形式投入市场，直接催生了惠普、苹果、雅虎等全球科技巨头。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!claim] Lécuyer, C.
-> **先驱企业的母体功能与衍生企业网络** 莱屈耶（Christophe Lécuyer）通过对[[Fairchild Semiconductor|仙童半导体]]历史档案的考证论证道，旧金山湾区半导体产业生态的形成并非依赖政府规划，而是依托先驱企业的技术与人才外溢。仙童半导体作为硅谷微电子的孵化母体，其核心创始人与技术骨干在离职后创办了英特尔、超威半导体、国家半导体等 30 余家企业（Fairchildren）。这些衍生企业在湾区形成了极其稠密的人才流动圈与技术信息非正式共享网络，奠定了硅谷创新群落的自我繁衍机制。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
+> **先驱企业的母体功能与衍生企业网络** 莱屈耶（Christophe Lécuyer）通过对[[Fairchild Semiconductor|仙童半导体]]历史档案的考证论证道，旧金山湾区半导体产业生态的形成是依托先驱企业的技术与人才外溢，有别于依赖政府规划。仙童半导体作为硅谷微电子的孵化母体，其核心创始人与技术骨干在离职后创办了英特尔、超威半导体、国家半导体等 30 余家企业（Fairchildren）。这些衍生企业在湾区形成了极其稠密的人才流动圈与技术信息非正式共享网络，奠定了硅谷创新群落的自我繁衍机制。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **制度环境与企业衍生** | 非竞业法律与高校[[Technology Transfer\|技术转移]]机制共同驱动人才流动与衍生企业高密度裂变 | 区域高科技创业生态孵化与知识扩散阶段 | 张寒旭等; Lécuyer |
 > | **空间分工与协同治理** | 空间错位分工与半官方专项委员会化解多行政辖区割裂矛盾 | 缺乏中央集中行政权力的城市群区域一体化规划 | 张寒旭等 |
-> | **应用共演与全球分工** | 应用工程知识共享与跨国离岸装配推动本地技术跃升为全球产业标准 | 高技术产业化与全球价值链布局阶段 | Lécuyer |
+> | **应用共演与全球分工** | 应用工程知识共享与跨国离岸装配推动本地技术提升为全球产业标准 | 高技术产业化与全球价值链布局阶段 | Lécuyer |
 
 ---
 

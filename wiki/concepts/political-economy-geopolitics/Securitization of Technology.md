@@ -121,7 +121,7 @@ updated: 2026-11-02
 
 ## 核心要素
 
-技术安全化包含战略叙事、行政规制、创新动员与边界防御等维度，形成了贯通国家顶层决策与微观学术科研的闭环治理结构。
+技术安全化包含战略叙事、行政规制、创新动员与边界防御等维度，形成了贯通国家顶层决策与微观学术科研的反馈回路治理结构。
 
 > [!feature] 核心构成要素
 > - **战略叙事安全化** 将原本属于商业贸易与民用领域的科技研发重新定性为国家主权与国防安全基础设施，确立排他性的战略防御目标。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
@@ -129,7 +129,7 @@ updated: 2026-11-02
 > - **创新主体制度性嵌入** 将[[Research Universities|研究型大学]]、国家实验室与领军企业编织进国家主导的协同创新网络，要求学术研究直接对接国家战略使命。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–24)]]
 > - **学术流动排他化** 收紧国际学者签证、强化意识形态审查与跨国学术合作合规限制，以防御性逻辑阻隔知识外流。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 25–26)]]
 > - **契约关系重构** 推动二战后由[[Science, The Endless Frontier 1945|布什报告]]确立的自由探索型科学契约，向国家意志主导的技术导向型社会契约转变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
-> - **中试共置与闭环制造** 依托国家级 300 毫米晶圆中试线与共置洁净室（[[Albany NanoTech Complex|Albany NanoTech]], MIT.nano），打破设计制造割裂，将默会[[Process Knowledge|过程知识]]重新锚定在本土工业基座之上。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
+> - **中试共置与反馈回路制造** 依托国家级 300 毫米晶圆中试线与共置洁净室（[[Albany NanoTech Complex|Albany NanoTech]], MIT.nano），打破设计制造割裂，将默会[[Process Knowledge|过程知识]]重新锚定在本土工业基座之上。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 > - **硬件全生命周期根信任与零信任治理** 将技术安全化从外生出口管制下沉至微观芯片设计、异构封装与晶圆制造全栈，确立防伪、抗物理篡改、混淆加密与可证明安全度量衡，构建全生命周期硬件溯源与零信任生态。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37–44)]]
 
 > [!logic-map]- 技术安全化的运行逻辑
@@ -195,7 +195,7 @@ updated: 2026-11-02
 > **探讨维度　全栈[[Hardware Security|硬件安全]]、零信任架构与全生命周期技术主权** 探讨当代技术安全化如何从宏观边境与贸易审查下沉至底层物理微结构、芯片设计与异构封装，将国家安全目标与微电子全生命周期实现工程化绑定。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **全栈硬件安全与全生命周期国家安全治理** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）微电子战略将技术安全化推向微观全栈维度：技术安全已不再局限于传统出口管制、投资审查与实体清单等外生行政手段，而是内生化为贯穿底层材料探索、防篡改芯片设计、可信中试流片到[[Heterogeneous Integration|异构集成]]的全链条工程防御。通过研发可证明硬件安全度量衡（Provable Security Metrics）、硬件根信任（Root of Trust）芯片、物理防拆与抗侧信道攻击技术、混淆加密算法及全生命周期防伪溯源体系，国家安全逻辑被深度编码进半导体架构的底层微结构之中，确立了全政府跨部门统筹下的国家微电子全栈技术主权。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
+> **全栈硬件安全与全生命周期国家安全治理** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）微电子战略将技术安全化推向微观全栈维度：技术安全已不再局限于传统出口管制、投资审查与实体清单等外生行政手段，是内生化为贯穿底层材料探索、防篡改芯片设计、可信中试流片到[[Heterogeneous Integration|异构集成]]的全链条工程防御。通过研发可证明硬件安全度量衡（Provable Security Metrics）、硬件根信任（Root of Trust）芯片、物理防拆与抗侧信道攻击技术、混淆加密算法及全生命周期防伪溯源体系，国家安全逻辑被深度编码进半导体架构的底层微结构之中，确立了全政府跨部门统筹下的国家微电子全栈技术主权。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-11-02
 > | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | [[DARPA]] 与 [[Semiconductor Research Corporation\|SRC]] 发起的跨校跨区域微电子协同攻坚重大国家工程。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国通过巨额财政动员与安全护栏推进半导体技术安全化的标志性立法。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 落实技术安全化战略的国家级政产学共治创新中介机构。 |
-> | [[Michael Kratsios]] | Person | 主导 2026 白宫科技战略报告，系统提出[[Pasteur's Quadrant\|巴斯德象限]]导向与制造闭环。 |
+> | [[Michael Kratsios]] | Person | 主导 2026 白宫科技战略报告，系统提出[[Pasteur's Quadrant\|巴斯德象限]]导向与制造反馈回路。 |
 > | [[Vannevar Bush]] | Person | 战后自由探索科学契约的设计者，与当代技术安全化逻辑形成历史对照。 |
 
 ---

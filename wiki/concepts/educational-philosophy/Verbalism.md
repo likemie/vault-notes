@@ -95,7 +95,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》第 3 章提出“言语主义 vs 盲动主义”双重异化判定。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 87, 引自 Darwish, 2009)]]
-> - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位研究第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 
 ---
 

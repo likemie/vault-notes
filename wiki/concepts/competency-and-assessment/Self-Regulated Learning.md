@@ -83,7 +83,7 @@ updated: 2026-11-02
 > *Self-regulated learning (SRL) plays a critical role in enabling students to establish learning goals, select appropriate strategies, and monitor their cognitive processes, thereby laying a foundational framework for the development of HOT... Specifically, SRL functions as a "key regulatory mechanism" that can effectively "neutralize" the potential cognitive risks associated with the use of Gen-AI in fostering HOT.*
 
 > [!boundary]- 概念边界
-> - **不等于 [[Metacognition\|元认知]]（Metacognition）** 元认知聚焦于对自身思维的认知与调控（如元认知知识与监控），而自我调节学习是一个更广泛的伞式概念，将元认知、动机信念（如[[Self-Efficacy\|自我效能感]]）与行为管理（如环境构建与求助）统合在闭环系统中。
+> - **不等于 [[Metacognition\|元认知]]（Metacognition）** 元认知聚焦于对自身思维的认知与调控（如元认知知识与监控），而自我调节学习是一个更广泛的伞式概念，将元认知、动机信念（如[[Self-Efficacy\|自我效能感]]）与行为管理（如环境构建与求助）整合在反馈回路系统中。
 > - **不等于 独立学习（Independent Learning）** 独立学习强调脱离教师的物理学习状态，而自我调节学习强调深层心智调控，在高度协作或技术中介环境下同样发生。
 
 ---
@@ -145,10 +145,10 @@ updated: 2026-11-02
 > **探讨维度　风险中和中枢与群体认知分水岭** 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了[[Man-Computer Symbiosis|人机协同]]促学成效的断层式两极分化。
 
 > [!claim] [[Wang Yangming\|Wang, Y.]]; Huang, R.; [[Yong Zhao\|Zhao, Y.]]
-> **风险中和机制与认知分水岭** 生成式 AI 对思维发展的赋能并非无条件成立，自我调节学习构成了至关重要的中枢调节机制。理论上，大语言模型交互具有即时满足与表层流畅的特质，极易诱发心智惰性与盲目顺从；SRL 通过持续的监控、反思与策略调整，充当了不可或缺的“风险中和器”，有效抵消了算法幻觉、认知外包与思维惰性等潜在负面效应。在机制分流上，高自律学习者主动设定目标、将 AI 视为协同副驾驶并批判性吸收其输出，从而实现认知图式的跃升；而低自律学习者缺乏目标校准与审验能力，极易被算法牵引而滑向被动顺从与虚假理解，致使技术赋能严重受限。[[Argument_Zhao_2025_JIntell\|(Wang & Huang, 2024; Zhao et al., 2025, pp. 11–12, 16)]]
+> **风险中和机制与认知分水岭** 生成式 AI 对思维发展的赋能有别于无条件成立，自我调节学习构成了至关重要的中枢调节机制。理论上，大语言模型交互具有即时满足与表层流畅的特质，极易诱发心智惰性与盲目顺从；SRL 通过持续的监控、反思与策略调整，充当了不可或缺的“风险中和器”，有效抵消了算法幻觉、认知外包与思维惰性等潜在负面效应。在机制分流上，高自律学习者主动设定目标、将 AI 视为协同副驾驶并批判性吸收其输出，从而实现认知图式的提升；而低自律学习者缺乏目标校准与审验能力，极易被算法牵引而滑向被动顺从与虚假理解，致使技术赋能严重受限。[[Argument_Zhao_2025_JIntell\|(Wang & Huang, 2024; Zhao et al., 2025, pp. 11–12, 16)]]
 
 > [!claim] Wang, T.; Liu, S.; Zhao, Y.
-> **[[Higher-Order Thinking Skills\|高阶思维]]与自律调控的双向强化闭环** 自我调节学习与高阶思维并非单向的线性因果，而是构成动态互促的认知闭环。一方面，SRL 的目标规划与监控机能为学生开展[[Problem Solving\|复杂问题解决]]与批判证据审视提供了基础操作脚手架；另一方面，持续沉浸于复杂、多视角的深度探究与观点论证任务中，必然要求学生反复进行元认知监控、逻辑纠偏与策略重构，这种高强度的认知挑战反过来磨砺、淬炼并深化了学习者的自我调节机能。[[Argument_Zhao_2025_JIntell\|(Wang & Liu, 2024; Zhao et al., 2025, p. 16)]]
+> **[[Higher-Order Thinking Skills\|高阶思维]]与自律调控的双向强化反馈回路** 自我调节学习与高阶思维是构成动态互促的认知反馈回路，有别于单向的线性因果。一方面，SRL 的目标规划与监控机能为学生开展[[Problem Solving\|复杂问题解决]]与批判证据审视提供了基础操作脚手架；另一方面，持续沉浸于复杂、多视角的深度探究与观点论证任务中，必然要求学生反复进行元认知监控、逻辑纠偏与策略重构，这种高强度的认知挑战反过来磨砺、淬炼并深化了学习者的自我调节机能。[[Argument_Zhao_2025_JIntell\|(Wang & Liu, 2024; Zhao et al., 2025, p. 16)]]
 
 ---
 
@@ -157,7 +157,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **外部支架依赖** | 显性反思提示是技术中介环境中触发自我调节的[[Necessary and Sufficient Conditions\|必要条件]] | 探究式任务、人机写作与问题解决 | Li et al.; Yang et al.; Shen & Chen |
 > | **认知主体性防御** | 自我调节能力能够阻断心智外包与技术盲从 | 开放式生成任务与在线[[Learner Autonomy\|自主学习]] | Zimmerman; Azevedo et al.; Li et al. |
-> | **风险中和与双向互促** | 自我调节学习充当风险中和器，并与高阶思维形成双向互促闭环 | 智能技术赋能教学、复杂人机协同 | Wang & Huang; Wang & Liu; Zhao et al. |
+> | **风险中和与双向互促** | 自我调节学习充当风险中和器，并与高阶思维形成双向互促反馈回路 | 智能技术赋能教学、复杂人机协同 | Wang & Huang; Wang & Liu; Zhao et al. |
 
 ---
 

@@ -214,7 +214,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五本顶级教育心理学期刊发表的所有实证论文 | 历时性方法学[[Content Analysis\|内容分析]]与编码 | 量化干预、非干预与[[Qualitative Research\|质性研究]]的方法学构成比例 | 质性研究占比从 2010 年的 9% 显著攀升至 2020 年的 22%，[[Mixed Methods Research\|混合方法]]论文亦保持增长 | $p < .05$ | 实证表明主流阵地打破了单一量化垄断，不可[[Commensuration\|通约]]的质性取向获得了稳定的学科合法性空间 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五本顶级教育心理学期刊发表的所有实证文章 | 历时性方法学[[Content Analysis\|内容分析]]与编码 | 量化干预、非干预与[[Qualitative Research\|质性研究]]的方法学构成比例 | 质性研究占比从 2010 年的 9% 显著攀升至 2020 年的 22%，[[Mixed Methods Research\|混合方法]]文章亦保持增长 | $p < .05$ | 实证表明主流阵地打破了单一量化垄断，不可[[Commensuration\|通约]]的质性取向获得了稳定的学科合法性空间 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 项影响因素 | [[Preregistration\|预注册]]全量[[Metascience\|元科学]]审计 | 跨设计效应量混杂比例 | 27% 混淆组间实验与[[Correlational Research\|相关性研究]]，10% 混入组间、组内与相关全部三类设计 | 全量核验样本 ($N=301$) | 证实宏观二阶综合中存在广泛无视统计总体参数不可通约性的违规合并现象 |
 
 ---

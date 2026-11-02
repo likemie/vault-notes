@@ -100,7 +100,7 @@ updated: 2026-11-02
 > *Conditionalities, where government sets requirements on companies that receive public support... allow the public sector to direct support to broader societal goals and ensure public value creation, including [[Workforce Development]], childcare, profit sharing, and security guardrails.*
 
 > [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论多边开发贷款的附加条件与西奥多·罗斯福大棒
-> 开发银行常常挥舞着政策附加条件的西奥多·罗斯福大棒。它们试图迫使借款国做那些该国本身并不想做的事情。但这就像是在“赶猫放牧”（Herding Cats）。在三分之一的项目中，附加条件导致了项目的彻底停摆……唯有当借款国部长本身渴望推行改革、并将银行条件作为对抗国内工会或既得利益的外部盾牌时，附加条件才能成为强大的建设性杠杆。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）
+> 开发银行常常挥舞着政策附加条件的西奥多·罗斯福大棒。它们试图迫使借款国做那些该国本身并不想做的事情。但这就像是在“赶猫放牧”（Herding Cats）。在三分之一的项目中，附加条件导致了项目的彻底停摆……唯有当借款国部长本身渴望推行改革、并将银行条件作为对抗国内工会或既得利益的外部盾牌时，附加条件才能成为强大的建设性手段。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）
 >
 > *Development banks often brandish the Theodore Roosevelt stick of conditionalities. They try to force countries to do things they don't want to do. But this is like herding cats... In one-third of the cases, conditionalities stall the loans... Only when the ministers themselves want to reform and use the bank's conditionalities as a scapegoat against domestic opposition, do conditionalities become powerful and constructive levers.*
 
@@ -180,11 +180,11 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜制度化附加条件是[[Modern Industrial Policy|现代产业政策]]重塑政府与市场社会契约的核心契约杠杆
+> [!concept-proposition] 命题一｜制度化附加条件是[[Modern Industrial Policy|现代产业政策]]重塑政府与市场社会契约的核心契约手段
 > **探讨维度　政府与市场关系重塑与[[Public Value|公共价值]]** 探讨[[Modern Industrial Policy|现代产业政策]]为何必须打破传统新自由主义对企业的无条件救济，以附加条件构建平等的[[Public-Private Partnership|公私伙伴关系]]。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] & Mazzucato (2022)
-> **公私社会契约的重塑** 产业政策绝非单纯向私营企业发放补助金，而是国家引导经济实现结构性转型的[[Strategic Compact|战略契约]]。通过将公共资金与明确的社会及经济附加条件相挂钩，政府不再充当被动的去风险者，而是作为公共价值的共同塑造者；附加条件确保了私营企业在享受巨额公共支持的同时，必须在技能培养、职工福利和产业生态建设上承担对等的公共责任。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6)]]
+> **公私社会契约的重塑** 产业政策是国家引导经济实现结构性转型的[[Strategic Compact|战略契约]]，有别于单纯向私营企业发放补助金。通过将公共资金与明确的社会及经济附加条件相挂钩，政府不再充当被动的去风险者，是作为公共价值的共同塑造者；附加条件确保了私营企业在享受巨额公共支持的同时，必须在技能培养、职工福利和产业生态建设上承担对等的公共责任。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6)]]
 
 ---
 
@@ -192,7 +192,7 @@ updated: 2026-11-02
 > **探讨维度　资本寻租防范与地缘技术安全** 探讨如何通过制度设计防止产业补贴演变为跨国垄断巨头的金融套利工具。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **护栏条款防范资本寻租与安全外溢** 在缺乏制度约束的传统补贴中，企业常将财政资助间接用于推高股价的股票回购或向高管发放天价薪酬，甚至转投资于战略竞争对手国家。美国《[[CHIPS and Science Act|芯片法案]]》通过设立十年的股票回购禁令、超额利润分成协议以及海外先进制程扩产上限，从制度层面切断了企业将公共补贴转化为短期金融租金的路径，确保公共资本完全沉淀于本土实体制造与安全供应链。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
+> **护栏条款防范资本寻租与安全外溢** 在缺乏制度约束的传统补贴中，企业常将财政资助间接用于推高股价的股票回购或向高管发放天价薪酬，甚至转投资于战略竞争对手国家。美国《[[CHIPS and Science Act|芯片法案]]》通过设立十年的股票回购禁令、超额利润分成协议以及海外先进制程扩产上限，从制度层面切断了企业将公共补贴转化为短期金融租金的路径，确保公共资本完全积累于本土实体制造与安全供应链。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 
 ---
 
@@ -213,7 +213,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜研发中试联合体的开放准入与知识产权非排他条件是防范公共技术资产被寡头私有捕获的制度保障
-> **探讨维度　研发财团规约、知识产权均衡与公共品防捕获** 探讨国家重大研发中试计划如何通过制度化附加条件确保成果普惠扩散与长期财务可持续。
+> **探讨维度　研发财团规范、知识产权均衡与公共品防捕获** 探讨国家重大研发中试计划如何通过制度化附加条件确保成果普惠扩散与长期财务可持续。
 
 > [!claim] [[Argument_NIST_2023_NSTC|NIST (2023)]]
 > **研发联合体附加条件防范寡头垄断并保障技术公地** 在国家法定研发[[Innovation Hub|创新中心]]（如 [[National Science and Technology Council|NSTC]]）的设计中，附加条件被精准嵌入联合体章程与运营契约。为防范 110 亿美元联邦研发注资沦为个别龙头企业的私有研发外包，政策硬性规定：运营商（[[Natcast]]）必须对高校与中小初创企业实行非歧视性开放准入、提供补贴性 300mm 基线流片与 DEG 云网关支持；前竞争基线研究成果必须采取非独占（Non-exclusive）、全球免版税许可；劳动力项目必须将少数族裔服务机构（MSI）与社区学院深度纳入；并强制 Natcast 在初始联邦资金之后通过多元造血实现自负盈亏。这些研发附加条件确保了国家技术基础设施的公共品属性与长期[[Strategic Autonomy|战略自主]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
@@ -224,7 +224,7 @@ updated: 2026-11-02
 > **探讨维度　外部指令规训与本土政治所有权** 探讨[[Multilateral Development Bank|多边开发银行]]的借贷附加条件为何在缺乏借款国自主改革意愿时极易陷入停摆与执行失败。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
-> **多边贷款附加条件与本土改革意愿的杠杆悖论** 在超国家主权借贷领域，多边开发银行习惯挥舞“西奥多·罗斯福大棒”式的政策附加条件，试图迫使借款国推行其不愿主动采纳的结构性改革。但正如多边银行内部所形象描述的，这种单向度指令犹如“赶猫放牧”（Herding Cats），导致高达三分之一的贷款项目因附加条件冲突而彻底陷入瘫痪或严重延宕。历史实证表明，附加条件绝非能够凭空创造本土改革的万能灵药；只有当借款国核心改革派部长本身拥有强烈的本土改革意愿，并主动利用外部多边银行的借贷条件作为对抗国内既得利益工会和政治反对派的“外部护盾”与“挡箭牌”时，附加条件才能转化为推动实质性政策落地的有效杠杆。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]
+> **多边贷款附加条件与本土改革意愿的手段悖论** 在超国家主权借贷领域，多边开发银行习惯挥舞“西奥多·罗斯福大棒”式的政策附加条件，试图迫使借款国推行其不愿主动采纳的结构性改革。但正如多边银行内部所形象描述的，这种单向度指令犹如“赶猫放牧”（Herding Cats），导致高达三分之一的贷款项目因附加条件冲突而彻底陷入瘫痪或严重延宕。历史实证表明，附加条件并不能够凭空创造本土改革的万能灵药；只有当借款国核心改革派部长本身拥有强烈的本土改革意愿，并主动利用外部多边银行的借贷条件作为对抗国内既得利益工会和政治反对派的“外部护盾”与“挡箭牌”时，附加条件才能转化为推动实质性政策落地的有效手段。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]
 
 ---
 
@@ -233,7 +233,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **社会契约重塑** | 附加条件是将公共补贴转化为双向责任与公共价值的制度契约 | 现代产业战略规划、公私研发与制造伙伴关系 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, pp. 4–6)]]; Mazzucato (2022) |
 > | **资本纪律与安全护栏** | 回购禁令与地缘护栏是防范寡头寻租与技术反噬的制度屏障 | 半导体补贴分配、重大科技战略法案执行 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, pp. 8–9)]] |
-> | **商业可行性权衡** | 附加条件需平衡社会目标与企业合规成本，依赖专业执行团队动态调整 | 跨国代工厂建厂谈判、重大基础设施本土采购规约 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, pp. 10, 13–14)]] |
+> | **商业可行性权衡** | 附加条件需平衡社会目标与企业合规成本，依赖专业执行团队动态调整 | 跨国代工厂建厂谈判、重大基础设施本土采购规范 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, pp. 10, 13–14)]] |
 > | **治理模式与效能分化** | 中央集权直投与多层级协调模式决定了附加条件的约束效能与监管深度 | 跨大西洋高科技半导体政策比较、超国家治理机制分析 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024, pp. 14–17)]] |
 > | **研发开放与知识公地** | 开放准入、非排他知识产权与多元造血条件防范研发中试公共品被垄断捕获 | 国家法定研发中心（NSTC）、深科技共享[[Pilot Scale Platform\|中试平台]] | [[Argument_NIST_2023_NSTC\|NIST (2023, pp. 2–5, 10–11)]] |
 > | **外部指令与本土意愿悖论** | 附加条件无法凭空创造本土改革，唯有内生政治意愿将其视作外部护盾时方能奏效 | 多边开发银行主权教育贷款、跨国宏观结构调整谈判 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, pp. 465–466)]] |
@@ -243,7 +243,7 @@ updated: 2026-11-02
 > [!dev-timeline] 概念演变
 > - **20 世纪下半叶 — 传统宏观结构调整与主权借贷附加条件** 伴随布雷顿森林体系的演变，[[International Monetary Fund|国际货币基金组织]]（IMF）与[[World Bank|世界银行]]将政策附加条件系统应用于发展中国家的主权纾困与结构调整贷款中，要求借款国必须严格实行财政紧缩、削减教育等公共支出、推行贸易与资本[[Liberalization|自由化]]以及私有化改革，带有强烈的[[Washington Consensus|华盛顿共识]]新自由主义色彩。但外源性强加的条件常因借款国缺乏本土意愿而陷入执行停摆。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > - **2010 年代 — 使命导向创新与[[Public Value|公共价值]]重塑** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mazzucato, 2022）与丹尼·罗德里克（Rodrik, 2023）系统构建[[Modern Industrial Policy|现代产业政策]]附加条件分类学，主张通过条件设定将创新转化为包容、绿色与公共利益。
-> - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 IP 规约，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
+> - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 IP 规范，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
 
 ---
 
@@ -253,7 +253,7 @@ updated: 2026-11-02
 > > 争论产业法案是否应当承载过多劳工、托儿、环境等社会性目标。
 > >
 > > - **效率优先论批评** 认为产业政策的首要目标是快速建立半导体与关键产业产能，附加过多的社会政策条款将分散行政精力、增加建厂阻力并推高制造成本。
-> > - **[[Public Value|公共价值]]派辩护** 强调如果不解决熟练技工短缺、看护保障与高质量薪酬，制造业回流将因劳动力瓶颈彻底停滞；附加条件是确保产业振兴与社会阶层跃升同步达成的基石。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
+> > - **[[Public Value|公共价值]]派辩护** 强调如果不解决熟练技工短缺、看护保障与高质量薪酬，制造业回流将因劳动力瓶颈彻底停滞；附加条件是确保产业振兴与社会阶层提升同步达成的基石。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
 >
 > > [!axis] 严格护栏 vs. 损害跨国企业全球商业灵活性
 > > 探讨十年期禁止在中国等受关切国家扩大先进制程产能的护栏条款，是否会削弱欧美芯片跨国公司的全球营收基础。
@@ -298,7 +298,7 @@ updated: 2026-11-02
 > | [[Apprenticeship]] | 概念 | 注册学徒制是现代产业政策附加条件中要求企业承担劳动力技能储备责任的标志性工具。 |
 > | [[Multilateral Development Bank]] | 概念 | 借贷附加条件的历史源起与主要推行主体，将贷款资金与借款国宏观政策改革硬性绑定。 |
 > | [[Washington Consensus]] | 概念 | 20 世纪下半叶多边机构借贷附加条件所贯彻的新自由主义核心意识形态正统。 |
-> | [[National Semiconductor Technology Center]] | 事实 | 现代半导体研发附加条件的核心载体，实行开放准入与非排他 IP 许可规约。 |
+> | [[National Semiconductor Technology Center]] | 事实 | 现代半导体研发附加条件的核心载体，实行开放准入与非排他 IP 许可规范。 |
 > | [[Build America, Buy America Act]] | Fact (Policy) | [[Infrastructure Investment and Jobs Act\|IIJA]] 中推行全面本土制造采购要求的标志性需求侧附加条件立法。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 全面集成托儿服务、股票回购禁令、超额利润分享与地缘安全护栏的代表性法案。 |
 > | [[International Monetary Fund]] | 事实 | 设定紧缩性宏观财政附加条件并对违约国实施国际黑名单震慑的布雷顿森林核心机构。 |
@@ -309,6 +309,6 @@ updated: 2026-11-02
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 深度剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中附加条件与护栏条款的制度设计、执行挑战与[[Public Value|公共价值]]产出逻辑。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐释美国半导体研发资助中面向 [[National Science and Technology Council|NSTC]] 的开放准入、非排他知识产权许可与长期自负盈亏等研发附加条件治理机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧半导体产业政策中的附加条件设计，揭示美国集中式强力规制与[[EU|欧盟]]去中心化弱约束的机制分殊与效能差异。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 深入考察[[Multilateral Development Bank|多边开发银行]]在主权教育贷款中推行附加条件的机制与局限，揭示外源性强制附加条件的“赶猫放牧”停摆困境与本土政治意愿的杠杆效应。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 深入考察[[Multilateral Development Bank|多边开发银行]]在主权教育贷款中推行附加条件的机制与局限，揭示外源性强制附加条件的“赶猫放牧”停摆困境与本土政治意愿的手段效应。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 从[[World-Systems Theory|世界体系理论]]视角批判 [[International Monetary Fund|IMF]] 与[[World Bank|世界银行]]通过贷款附加条件强推新自由主义结构调整，导致第三世界国家公共教育支出遭受财政挤压与私有化外包。
 

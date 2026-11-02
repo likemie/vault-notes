@@ -53,7 +53,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Working Hypothesis
-> **工作假说（Working [[Hypothesis]]，亦称历史探索性假说）** 是比较史学与质性社会科学研究中的核心方法论[[Construct|构念]]，指研究者在考察具体历史个案与制度变迁时，并不预先设定超越时空的普适公理，而是从经验事实的系统梳理与比较中提炼出一种具有明确适用边界的假定性命题，并将其作为概念透镜与探照工具迁移至新的相似情境中展开检验、修正与互照，从而照亮未知现象并提炼有限规律。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
+> **工作假说（Working [[Hypothesis]]，亦称历史探索性假说）** 是比较史学与质性社会科学研究中的核心方法论[[Construct|构念]]，指研究者在考察具体历史个案与制度变迁时，并不预先设定超越时空的普适公理，是从经验事实的系统梳理与比较中提炼出一种具有明确适用边界的假定性命题，并将其作为概念透镜与探照工具迁移至新的相似情境中展开检验、修正与互照，从而照亮未知现象并提炼有限规律。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为一种“探索中前进”的启发式工具，它承认社会历史事实的不可完全复制性，但坚信跨情境的类型学比较能够产生超越单一事件的学理洞见。
@@ -61,7 +61,7 @@ updated: 2026-11-02
 > - **边界** 工作假说绝不同于逻辑[[Positivism|实证主义]]追求的放之四海而皆准的“全称覆盖法则”（Covering Law），它必须随时准备根据新材料与反例进行边界调整与局部推翻。
 
 > [!citation-card] 卡扎米亚斯论历史探索性假说的学术效力
-> 历史研究绝非单纯罗列不可重复的个别事件……研究者完全可以对历史事实进行分类和比较，并提炼出虽然适用范围有限、但能被后续案例检验的探索性工作假说（Working Hypotheses）。这种基于历史归纳得出的假说，能够帮助人们在遇到新的类似情境时看清问题的根源。历史学与社会科学都兼顾特殊性与一般性，两者的差异在于研究侧重点不同，绝不是水火不容的对立关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
+> 历史研究并不单纯罗列不可重复的个别事件……研究者完全可以对历史事实进行分类和比较，并提炼出虽然适用范围有限、但能被后续案例检验的探索性工作假说（Working Hypotheses）。这种基于历史归纳得出的假说，能够帮助人们在遇到新的类似情境时看清问题的根源。历史学与社会科学都兼顾特殊性与一般性，两者的差异在于研究侧重点不同，有别于水火不容的对立关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 >
 > *...from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalisation and then use it in order to illuminate another particular event or form. The concern for the general and the particular is to be found in both the social sciences and history, and the difference is one of emphasis and objectives of research rather than kind or method (Kazamias, 1963: 396).*
 
@@ -79,9 +79,9 @@ updated: 2026-11-02
 
 > [!feature] 历史工作假说的四大运作构件
 > - **具体事实的经验归纳** 从档案、制度文本与历史事件的具体细节出发，寻找特定时期制度发生、冲突与转变的结构性相似模式。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
-> - **明确限定的适用情境（Initial Conditions）** 不作绝对普遍性承诺，而是明确界定假说生效的制度背景、阶级关系与文化环境。
+> - **明确限定的适用情境（Initial Conditions）** 不作绝对普遍性承诺，是明确界定假说生效的制度背景、阶级关系与文化环境。
 > - **跨情境检验的探照功能** 将假说应用于第二个或第三个类似的历史场景中，以假说为向导识别隐藏在复杂表象下的深层机制，照亮此前未被注意的历史空白。
-> - **动态修正与理论蓄积** 一旦遭遇反例，不简单否定历史研究的价值，而是通过调整假说的边界条件，实现对复杂社会机理更精确的理解。
+> - **动态修正与理论蓄积** 一旦遭遇反例，不简单否定历史研究的价值，是通过调整假说的边界条件，实现对复杂社会机理更精确的理解。
 
 ---
 

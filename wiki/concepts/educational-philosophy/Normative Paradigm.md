@@ -1,7 +1,7 @@
 ---
 title: Normative Paradigm
 aliases: [规范范式, normative model, 规则统治范式]
-summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
+summary: "道格拉斯提出的方法论上位范式，统领实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
 related_count: 39
@@ -62,7 +62,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Normative Paradigm
-> **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家[[Jack Douglas\|道格拉斯]]（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统摄了[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
+> **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家[[Jack Douglas\|道格拉斯]]（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统领了[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将社会与教育现象视为受外在不变规则支配的客体系统，通过[[Variable\|变量]]测量、受控设计与统计检验探究规律。

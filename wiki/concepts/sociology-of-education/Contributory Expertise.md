@@ -58,7 +58,7 @@ updated: 2026-11-02
 > **贡献型专长（Contributory Expertise，亦称贡献专门知识、贡献专长）** 是专长社会学与[[Praxis|实践哲学]]中的基石概念，源于柯林斯（Harry Collins）与埃文斯（Robert Evans）的专长理论，后经埃亚尔（Gil Eyal）深化并引入公共政策与教育治理分析。该概念指行动者在具体实践[[Champ\|场域]]中，通过长期的经验浸润与受训反思所获得的[[Tacit Knowledge|默会知识]]、具身手艺（craft knowledge）与[[Phronesis\|实践智慧]]（实践智慧，phronesis）。具有贡献型专长的行动者能够直接克服现场的偶发性挑战与不确定性，“把事情做成”（get things done），其专业合法性直接根植于实践效能与情境化解决力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向行动者身体与现场历史中沉淀的默会、情境依附性实践能力，与脱离现场的纯语言性[[Interactional Expertise\|交互型专长]]相对立。
+> - **含义** 指向行动者身体与现场历史中积累的默会、情境依附性实践能力，与脱离现场的纯语言性[[Interactional Expertise\|交互型专长]]相对立。
 > - **用途** 解释一线教师和[[School Leadership\|学校领导]]者为何无法机械套用外在“有效做法”（what works）抽象清单，以及[[Professional Judgment\|专业判断]]在证据转化中的不可替代性。
 > - **边界** 不等于脱离理论反思的狭隘[[Empiricism\|经验主义]]，亦不排斥吸收外在研究知识，但强调外在知识必须经由贡献专长的情境重构方能生效。
 

@@ -122,7 +122,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Critique of Evidence-Based Education
-> [[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）批判指围绕 EBE 的[[Epistemology\|认识论]]前提、方法论基础、实践转化障碍和政治治理后果形成的多维度学术反思体系。这一批判阵营并非否定教育实践应参考经验研究证据，而是系统追问：什么算作合法证据？将医学临床的[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与一维[[Effect Size\|效应量]]排序移植到教育领域是否正当？“什么有效”（what works）的追问方式是否遮蔽了更根本的教育价值目的与民主审议？[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–495)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
+> [[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）批判指围绕 EBE 的[[Epistemology\|认识论]]前提、方法论基础、实践转化障碍和政治治理后果形成的多维度学术反思体系。这一批判阵营是系统追问：什么算作合法证据，有别于否定教育实践应参考经验研究证据？将医学临床的[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与一维[[Effect Size\|效应量]]排序移植到教育领域是否正当？“什么有效”（what works）的追问方式是否遮蔽了更根本的教育价值目的与民主审议？[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–495)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 对 EBE 运动的哲学、方法论、微观实践与政治制度维度的系统性解构，揭示其隐含的[[Positivism\|实证主义]]假设、方法论还原倾向与权力治理逻辑。
@@ -213,7 +213,7 @@ updated: 2026-11-02
 > **[[Critical Realism\|批判实在论]]解构与施为者悖论** 依据巴斯卡（[[Roy Bhaskar]]）的[[Critical Realism\|批判实在论]]解构 EBE：（1）实在分为深层机制、实际事件与经验现象三层，EBE 仅在经验表层计算效应量均值；（2）教育是开放系统，不可按封闭实验室还原；（3）施为者悖论：RCT 极力控制并视为“混淆干扰”的教师自由意志与学生主观意义建构，恰恰是产生真实教学效果不可或缺的核心因果动力。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–15)]]
 
 > [!claim] [[Argument_Terhart_2011_JCS\|Terhart (2011)]]
-> **[[Meta-meta-analysis\|元-元分析]]的[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]** 元-元分析（mega-analysis）试图通过无限累积研究扩大参考范围，但伴随层层合并，原始经验细节与情境特征彻底消逝；这陷入双重困境：若累积结果趋向平庸收敛（稳定性），则继续研究失去增量价值；若新研究不断颠覆旧合成（变异性），则现有元分析结论永远是暂时的脆弱假设。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]
+> **[[Meta-meta-analysis\|元-元分析]]的[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]** 元-元分析（mega-analysis）试图通过无限累积研究扩大参考范围，但伴随层层合并，原始经验细节与情境特征彻底消逝；这陷入双重困境：若累积结果趋向平庸汇合（稳定性），则继续研究失去增量价值；若新研究不断颠覆旧合成（变异性），则现有元分析结论永远是暂时的脆弱假设。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]
 
 > [!claim] [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]]
 > **[[EEF Teaching and Learning Toolkit\|EEF Toolkit]] 统计失真与民间[[Empiricism\|经验主义]]批判** 追踪[[Education Endowment Foundation\|EEF]] Toolkit 体育参与条目发现其经历三级统计失真：元分析层面合并不可比基线；元-元分析层面混淆干预时长、年龄效应与结果类型；政策转译层面虚构“增加 X 个月学习”的线性转换。其背后依赖过分简化的“民间经验主义”科学观，将科学等同于数据排名而抹杀了理论机制探索。[[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019, pp. 24–31)]]
@@ -247,10 +247,10 @@ updated: 2026-11-02
 > **探讨维度　政治经济学与[[Epistemic Governance\|知识治理]]异化** 揭示证据如何在国家政策网络中被官僚机构仪式化使用，演化为维护既定路线的辩护护符。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **[[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]、政府[[Gatekeepers\|守门人]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）** 在从测量时代走向[[Evidence Era\|证据时代]]的过程中，研究证据并未驱动客观中立的政策制定，而是异化为官僚体系彰显合法性的[[Rationalized Myth\|合理化神话]]；政府[[Gatekeepers\|守门人]]（如教育部高级官员与特别顾问）确立了强烈的“落地偏好”，通过扶植官方外围智库、选择性引证与定向委托审查，形成了[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）闭环，使证据沦为证明政治行动“适宜性”（logic of appropriateness）与规避决策过失责任的防护盾牌。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
+> **[[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]、政府[[Gatekeepers\|守门人]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）** 在从测量时代走向[[Evidence Era\|证据时代]]的过程中，研究证据并未驱动客观中立的政策制定，是异化为官僚体系彰显合法性的[[Rationalized Myth\|合理化神话]]；政府[[Gatekeepers\|守门人]]（如教育部高级官员与特别顾问）确立了强烈的“落地偏好”，通过扶植官方外围智库、选择性引证与定向委托审查，形成了[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）反馈回路，使证据沦为证明政治行动“适宜性”（logic of appropriateness）与规避决策过失责任的防护盾牌。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
 
 > [!claim] [[Argument_Cowen_2019_ERE\|Cowen (2019)]]
-> **政治经济学视角下 EBE 的[[Bureaucracy|官僚制]]度韧性** 运用塔洛克官僚理论解释 EBE 的顽强生命力：RCT 与[[Systematic Review\|系统综述]]作为对主权者高度透明的形式化过滤工具，其长期存续并非由于其实质性提升了教学质量，而是因为它们为官僚机构提供了“程序无可挑剔”的自保机制，只要遵循了循证程序即可免受问责追究。[[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
+> **政治经济学视角下 EBE 的[[Bureaucracy|官僚制]]度韧性** 运用塔洛克官僚理论解释 EBE 的顽强生命力：RCT 与[[Systematic Review\|系统综述]]作为对主权者高度透明的形式化过滤工具，其长期存续是因为它们为官僚机构提供了“程序无可挑剔”的自保机制，只要遵循了循证程序即可免受问责追究，有别于由于其实质性提升了教学质量。[[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
 
 > [!claim] [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]
 > **道德侧步与议会中的证据回避** 实证研究显示，即使研究证据在学界高度一致且充分，政治决策者仍可通过转移举证责任、诉诸地方权威和重新定义“证据”等“道德侧步”（moral sidestepping）手段系统性规避不利结论，揭示证据生产与证据采纳之间的政治鸿沟。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, pp. 14–18)]]
@@ -278,7 +278,7 @@ updated: 2026-11-02
 > - **2010 年 — 三重[[Deficit Framing\|缺陷框架]]奠基** Biesta 正式确立知识缺陷、效力缺陷与应用缺陷的三重框架，将哲学批判拓展至存在论与实践论维度。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–501)]]
 > - **2011–2016 年 — 方法论与[[Meta-analysis\|元分析]]危机诊断** [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 揭示[[Meta-meta-analysis\|元-元分析]]的双重困境；[[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] 主编 *IJRME* 专刊，诊断大规模 [[Randomised Controlled Trials\|RCT]] 干预未能识别大面积有效实践的“萎靡感”（malaise）。
 > - **2018–2019 年 — [[Critical Realism\|批判实在论]]重构与多学科围攻** *ERE* 专刊集中刊发批判论著：Wrigley 引入批判实在论揭示施为者悖论；Wiliam 从高德曼[[Epistemology\|认识论]]论证 EBE 原则上不可完成；Cowen 引入塔洛克官僚理论阐释程序韧性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–15)]]; [[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 7–10)]]; [[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
-> - **2022 年至今 — [[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 批判** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 确立“证据时代”分析[[Paradigm\|范式]]，引入组织社会学[[Institutional Isomorphism\|制度同构]]与适宜性逻辑，深度解构政府[[Gatekeepers\|守门人]]主导的基于政策证据制造闭环。
+> - **2022 年至今 — [[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 批判** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 确立“证据时代”分析[[Paradigm\|范式]]，引入组织社会学[[Institutional Isomorphism\|制度同构]]与适宜性逻辑，深度解构政府[[Gatekeepers\|守门人]]主导的基于政策证据制造反馈回路。
 
 
 ---
@@ -332,9 +332,9 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 个[[Educational Evidence Clearinghouses\|教育证据清算中心]]的 1,359 个评级项目 | 83.2% 仅单机构评级；多重评级一致率仅 30% | 揭示“循证”标签缺乏跨机构一致的[[Construct Validity\|构念效度]] |
 > | [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] | 英美大规模政府资助的教育 RCT 项目池 | 高达 90% 试验呈现统计零效应或无实质收益 | 诊断大规模干预有效性缺失，动摇 EBE 的经验基础 |
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五大教育心理学顶刊 2020 年全部实证论文 | 非干预研究中 66% 给出[[Causality\|因果性]]实践建议（RFP） | 揭示观察性非[[Experimental Research\|实验研究]]对因果实践处方的系统性越界 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五大教育心理学顶刊 2020 年全部实证文章 | 非干预研究中 66% 给出[[Causality\|因果性]]实践建议（RFP） | 揭示观察性非[[Experimental Research\|实验研究]]对因果实践处方的系统性越界 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] | [[Education Endowment Foundation\|EEF]] 资助的 Fresh Start 拼读阅读干预 RCT | 排除前测失衡样本后效应量从 +0.24 塌缩为 0.00 | 证明对照组基线不平稳产生严重的统计虚假伪像 |
-> | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰 1983–2019 年核心政策文献与 20 位[[Elite Interview\|精英访谈]] | 官方白皮书引文高度选择性；文官依赖口口相传 | 揭示证据异化为官僚[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 闭环 |
+> | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰 1983–2019 年核心政策文献与 20 位[[Elite Interview\|精英访谈]] | 官方白皮书引文高度选择性；文官依赖口口相传 | 揭示证据异化为官僚[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 反馈回路 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 个影响因素及 1,369 篇元分析 | 仅 19% 满足 PICO；数据提取复现率仅 0.66%；44% 效应量查无实据 | 瓦解宏观证据库的科学有效性宣称，揭示循证政策依据的底层虚脱 |
 
 ---

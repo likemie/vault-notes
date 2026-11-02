@@ -89,7 +89,7 @@ updated: 2026-11-02
 历史-哲学-文化母题（Historical-Philosophical-Cultural Motif），全称为历史-哲学-文化与自由人文主义母题（The Historical-Philosophical-Cultural and Liberal Humanist Motif），是指发端于 19 世纪中后期、并在 20 世纪上半叶由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者集大成的主导性比较教育[[Paradigm|研究范式]]。
 
 > [!def] Historical-Philosophical-Cultural Motif
-> 历史-哲学-文化母题是将比较教育界定为**广义人文科学（Human Science / Wissenschaft / Episteme）** 的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育工作者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 38–42)]]
+> 历史-哲学-文化母题是将比较教育界定为**广义人文科学（Human Science / Wissenschaft / Episteme）** 的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育从业者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 38–42)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称 20 世纪中叶前主导比较教育学的经典学术范式，其特征为推崇文化整体论、历史因果探寻、哲学观念比较与自由民主人文主义关怀。
@@ -97,7 +97,7 @@ updated: 2026-11-02
 > - **边界** 该母题不追求构建去情境化的普遍规律或因果预测公式，也不等同于纯粹描述外国制度现状的事实汇编，其分析聚焦于特定时空坐标中教育传统的精神底色与制度生成。
 
 > [!citation-card] 比较教育的人文科学性质与历史因果探寻
-> 比较教育并非经验性或[[Positivism\|实证主义]]的“社会科学”，而是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指。汉斯、坎德尔、乌利希以及弗里德里希·施耐德（[[Friedrich Schneider]]）所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，而是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 39–40)]]
+> 比较教育是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指，有别于经验性或[[Positivism\|实证主义]]的“社会科学”。汉斯、坎德尔、乌利希以及弗里德里希·施耐德（[[Friedrich Schneider]]）所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 39–40)]]
 >
 > *Comparative education is not an empirical or a positivistic 'social science'. It is a 'human science' in the broad meaning of the term 'science' as signified by the German word Wissenschaft and the Greek equivalent Episteme. As interpreted by Hans, Kandel, Ulich and I may add, Schneider, the term comparative education (CE) was nearer to the German Vergleichende Erziehungswissenschaft... It was analogous to such studies as Comparative Religion, Comparative Law and Comparative Anatomy in that 'comparisons were not limited to contemporary actual situations but were extended to the study of the origin and evolution of present systems of law, religion or language'. ... Comparative Education is an explanatory/interpretive episteme, that aims at 'understanding' and 'interpretation' of how national systems of education developed to be what they are, not a predictive or a policy-oriented or practical/applied social science.*
 
@@ -183,7 +183,7 @@ updated: 2026-11-02
 > **探讨维度　历史特殊性与理论普遍性的方法论和解** 该维度回应[[Positivism\|实证主义]]者对历史学派仅能描述孤立特殊事件、无法归纳定律的严厉批评，论证历史解释学所具备的中程理论抽象潜能。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
-> **特殊历史个案归纳工作假设** 卡扎米亚斯援引著名比较历史学家[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的史学方法论指出，对历史现象进行分类比较并推导概括是完全可能的。虽然由此得出的普遍性属于有限概括而非放之四海而皆准的普适法则，但它们能够作为有效的工作假设（Working [[Hypothesis|hypotheses]]）用于检验和阐明其他类似的教育情境；因此，历史学与社会科学的差异仅在于研究重心与目标的侧重差异，绝非方法论上的本质鸿沟。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> **特殊历史个案归纳工作假设** 卡扎米亚斯援引著名比较历史学家[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的史学方法论指出，对历史现象进行分类比较并推导概括是完全可能的。虽然由此得出的普遍性属于有限概括而非放之四海而皆准的普适法则，但它们能够作为有效的工作假设（Working [[Hypothesis|hypotheses]]）用于检验和阐明其他类似的教育情境；因此，历史学与社会科学的差异仅在于研究重心与目标的侧重差异，有别于方法论上的本质鸿沟。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!claim] Brinton, C.
 > **中程历史理论的跨情境迁移与反哺阐释** 布林顿在《革命的解剖》（*The Anatomy of Revolution*）中论证，历史学家完全可以从具体的、特殊的历史个案事实中提炼出归纳性的结构模型；这种基于非普适[[Working Hypothesis|探索性假说]]的模型并不宣称普遍宿命铁律，却能反哺投射于其他具有相似历史危机的制度转型个案中，起到照亮事实与深化理解的强大解释效能。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
@@ -194,7 +194,7 @@ updated: 2026-11-02
 > **探讨维度　古典全人教化与人本主义关怀** 该维度揭示历史学派对抗狭隘技术官僚规训、坚守以人为中心文明关切的崇高伦理旨趣。
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]
-> **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、理性主义与工业科技四大历史浪潮中人性观念的演进。比较教育学绝非单纯传授办学技巧的技术科学，而是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人教化（*[[Paideia]]*）情怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52, 56–57)]]
+> **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、理性主义与工业科技四大历史浪潮中人性观念的演进。比较教育学是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人教化（*[[Paideia]]*）情怀，有别于单纯传授办学技巧的技术科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52, 56–57)]]
 
 > [!claim] Kazamias, A. M.
 > **抵御[[Technical Rationality\|技术理性]]异化并坚守人本伦理防线** 卡扎米亚斯总结指出，萨德勒、坎德尔、汉斯与乌利希的核心洞见在于拒绝将教育窄化为去情境化、可测量的工具性学校教育（Schooling）。在当代[[Technical Rationality\|技术理性]]与狭隘量化工具主义盛行的背景下，坚守历史-哲学-文化母题构成了捍卫比较教育人文品格、直面人类政治、社会与伦理大问题的坚固防线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]

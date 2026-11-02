@@ -76,7 +76,7 @@ updated: 2026-11-02
 > - **边界限定** 不等于单纯的技术性研究成果公开共享（Open Science），也不等同于降低科研方法严谨性的民粹化泛化；更需警惕以“迎合大众实用性”为幌子压制边缘群体异议的修辞异化。
 
 > [!citation-card] [[Vivian Tseng\|曾薇薇安]]论证据民主化的核心宗旨
-> 证据民主化理念十分朴素：将民主原则应用于研究证据的生产与使用之中。教育研究生产的民主化意味着科研议程不再主要由研究者与资助者单方设定，而是由多元利益相关者共同裁定提出何种问题、解答何种问题，进而构建更加贴近利益相关者及教育机构所服务社群关切的证据基础。（p. 220）
+> 证据民主化理念十分朴素：将民主原则应用于研究证据的生产与使用之中。教育研究生产的民主化意味着科研议程不再主要由研究者与资助者单方设定，是由多元利益相关者共同裁定提出何种问题、解答何种问题，进而构建更加贴近利益相关者及教育机构所服务社群关切的证据基础。（p. 220）
 >
 > *The idea is simple: To apply democratic principles to the production and [[Research Utilization\|Use of Research Evidence]]. Democratising the production of education research would mean that agendas are no longer set primarily by researchers and research funders but by a variety of stakeholders who decide what questions are asked and answered... resulting in an evidence base that is more relevant to the concerns of stakeholders, including the communities served by educational institutions.*
 
@@ -91,8 +91,8 @@ updated: 2026-11-02
 > |---|---|---|
 > | **问题来源** | 填补学术[[Document\|文献]]空白或响应国家重点攻关基金指令 | 扎根实践困境与弱势社群真实面临的公平赤字 |
 > | **行动者地位** | 研究者为主体；教师与学生被物化为受试被试客体 | 实践者、社区、学生与研究者结为平等合作共创者 |
-> | **交付成果** | 英文 SSCI 期刊论文、专著、高门槛因果评估报告 | 长期伙伴关系网络、校本实践改进规程与本土能力建设 |
-> | **激励评价** | 论文发表量、同行引用率、高额竞争性科研经费 | 实践政策改变、[[Organizational Culture\|组织文化]]提升与教育边缘群体处境改善 |
+> | **交付成果** | 英文 SSCI 期刊文章、专著、高门槛因果评估报告 | 长期伙伴关系网络、校本实践改进规程与本土能力建设 |
+> | **激励评价** | 文章发表量、同行引用率、高额竞争性科研经费 | 实践政策改变、[[Organizational Culture\|组织文化]]提升与教育边缘群体处境改善 |
 
 ---
 
@@ -125,7 +125,7 @@ updated: 2026-11-02
 > **探讨维度　制度生态与激励机制** 分析传统科研资助与大学考核体制对合作共创的挤压，提出重构资助评价要素的制度举措。
 
 > [!claim] Tseng, V.
-> **重构交付物标准与资助跨界运行成本** 驱动[[Research Utilization\|研究利用]]的是多方信任关系而非冷冰冰的论文报告；传统的科研基金只资助首席专家发表论文，严重忽视了跨界协作所需的沟通中介人、组织协调成本与实践者误工补偿。资助机构必须主动革新，将大学职称评审停钟制度、政策介入贡献及组织能力提升纳入立项与验收指标，并对资助实践自身开展循证元评估。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–223)]]
+> **重构交付物标准与资助跨界运行成本** 驱动[[Research Utilization\|研究利用]]的是多方信任关系而非冷冰冰的文章报告；传统的科研基金只资助首席专家发表文章，严重忽视了跨界协作所需的沟通中介人、组织协调成本与实践者误工补偿。资助机构必须主动革新，将大学职称评审停钟制度、政策介入贡献及组织能力提升纳入立项与验收指标，并对资助实践自身开展循证元评估。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–223)]]
 
 ---
 
@@ -141,15 +141,15 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论重构命题** | 打破学者独断与榨取式科研，将边缘社区与一线师生置于议程设定核心 | 弱势学校改革与社区合作研究 | [[Vivian Tseng]] |
-> | **制度机制革新命题** | 改革基金会拨款规程，资助跨界中介人员，以组织能力替代唯论文考核 | 大学科研评价与慈善基金会资助治理 | [[Vivian Tseng]] |
+> | **制度机制革新命题** | 改革基金会拨款规程，资助跨界中介人员，以组织能力替代唯文章考核 | 大学科研评价与慈善基金会资助治理 | [[Vivian Tseng]] |
 > | **伦理批判反思命题** | 警惕追求物有所值的高性价比修辞，防范统计正态化制度性抹杀离群弱势群体 | 宏观科研政策评价与弱势群体权益保护 | Makito Yurita |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **2000s — 开源获取与公共参与萌芽** 学界开始反思学术期刊出版壁垒对公众知识获取的阻碍，开放获取（Open Access）运动兴起，为证据大众化奠定技术基础。
-> - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]底座** Van de Ven & Johnson 提出[[Engaged Scholarship\|参与式学术]]，将理论与实践的断层定性为[[Knowledge Production\|知识生产]]方式问题，倡导学者与实践者共同研究复杂挑战。
-> - **2014 — 卡内基基金会严谨与相关性计划启动** 率先倡导大学建立政策学术停钟制度，允许青年学者在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆，打破唯论文考核惯性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 231)]]
+> - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]基础** Van de Ven & Johnson 提出[[Engaged Scholarship\|参与式学术]]，将理论与实践的断层定性为[[Knowledge Production\|知识生产]]方式问题，倡导学者与实践者共同研究复杂挑战。
+> - **2014 — 卡内基基金会严谨与相关性计划启动** 率先倡导大学建立政策学术停钟制度，允许青年学者在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆，打破唯文章考核惯性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 231)]]
 > - **2017 — Henrick et al. 确立 [[Research-Practice Partnership\|RPP]] 五大有效性评估框架** 建立衡量研究-实践伙伴关系健康度与产出效能的五维[[Operationalization\|操作化]]标准，成为资助机构评定共创研究成熟度的权威工具。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 232)]]
 > - **2018 — 机构挑战资助计划设立** [[William T. Grant Foundation\|威廉·T·格兰特基金会]]联合多丽丝·杜克基金会与斯宾塞基金会发起机构挑战资助（Institutional Challenge Grants），直接出资引导高校重塑内部晋升与奖励规程。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 231–232)]]
 > - **2022 — 证据民主化作为系统纲领正式确立** [[Vivian Tseng\|薇薇安·曾]]（[[Vivian Tseng]]）在[[OECD\|经济合作与发展组织]]（[[OECD]]）专题报告中正式系统阐述证据民主化纲领，提出长周期弹性资助、重塑结项标准、多元共创评审及资助机构自省四大行动支柱。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
@@ -176,7 +176,7 @@ updated: 2026-11-02
 > - **公平与民主受托导向（批判伦理诉求）** 坚守专业受托伦理底线，关照处于统计正态分布两端的极端弱势学生，守护复杂的学校教育生态。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 226–227)]]
 
 > [!critique] 外部批评与现实阻力
-> - **时间贫困与沟通损耗** 一线教育工作者和边缘社区成员面临严重的时间贫困与教学压力，深度参与学术论辩需要耗费极高的人际协调与沟通成本。
+> - **时间贫困与沟通损耗** 一线教育从业者和边缘社区成员面临严重的时间贫困与教学压力，深度参与学术论辩需要耗费极高的人际协调与沟通成本。
 > - **大学传统晋升体制的[[Path Dependence|路径依赖]]** 尽管倡导证据民主化，但全球绝大多数[[Research Universities|研究型大学]]的常任教职评审仍牢牢锁定在英文顶刊发表与专著出版上，缺乏对社区服务与政策转化的实质性制度激励。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223, 231)]]
 
 > [!warning] 适用局限
@@ -192,8 +192,8 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 203)]] | 全球教育与医学科研出版与公共研发投资 | 跨国比较与[[Bibliometric Analysis\|文献计量分析]] | 医疗 vs 教育科研投入与知识综合论文产出比率 | 公共研发支出资金比约为 1.75:1，但高阶[[Research Synthesis\|研究综合]]论文年产出比高达 26:1 | — | 说明教育知识综合与累积性证据生产体系存在系统性供给赤字 |
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 204)]] 转述 Makel and Plucker (2014) | 全球前 100 种教育学术期刊 | 期刊论文全景文献计量审查 | 复现性研究发表占比 | 顶级教育期刊中复现性论文占比仅为 0.13% | — | 反映教育科研严重缺乏重复检验与成果稳健性验证机制 |
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 203)]] | 全球教育与医学科研出版与公共研发投资 | 跨国比较与[[Bibliometric Analysis\|文献计量分析]] | 医疗 vs 教育科研投入与知识综合文章产出比率 | 公共研发支出资金比约为 1.75:1，但高阶[[Research Synthesis\|研究综合]]文章年产出比高达 26:1 | — | 说明教育知识综合与累积性证据生产体系存在系统性供给赤字 |
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 204)]] 转述 Makel and Plucker (2014) | 全球前 100 种教育学术期刊 | 期刊文章全景文献计量审查 | 复现性研究发表占比 | 顶级教育期刊中复现性文章占比仅为 0.13% | — | 反映教育科研严重缺乏重复检验与成果稳健性验证机制 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 214)]] | 匈牙利赫约凯赖斯图尔小学及辐射网络 | 校本[[Action Research\|行动研究]]与区域推广案例 | [[Complex Instruction Programme\|复合教学计划]]（CIP）合作辐射的中小学校数量 | 成功辐射推广至匈牙利全境近 200 所中小学校 | — | 证实大学-学校平等协作组织诊断能够带来系统性规模化辐射成效 |
 
 ---

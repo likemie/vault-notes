@@ -55,7 +55,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种通过简化二元身份归属来预设道德正义与过错的标签化伦理框架。
 > - **用途** 用于诊断学术界与科技精英在面对前沿军事技术、大国竞争与合法自卫权时表现出的道德洁癖与认知盲区。
-> - **边界** 批判道德二元论并非为实际存在的社会压迫与霸权行径辩护，而是强调必须承认人类普遍的伦理脆弱性与[[Geopolitics|地缘政治]]中权衡抉择的复杂性。
+> - **边界** 批判道德二元论是强调必须承认人类普遍的伦理脆弱性与[[Geopolitics|地缘政治]]中权衡抉择的复杂性，有别于为实际存在的社会压迫与霸权行径辩护。
 
 > [!citation-card] 拒绝道德二元论与承认普遍道德能动性
 > 将世界简单划分为统治者与被统治者、压迫者与被压迫者的道德二元论令人深感不安。将无权者系统性地等同于虔诚与纯洁是一种道德屈尊；被统治者与统治者在人性层面上同样具有犯下严重罪恶的能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Adekoya & Morin, cited in Karp & Zamiska, 2025, pp. 53–54)]]
@@ -63,7 +63,7 @@ updated: 2026-11-02
 > *This 'moral dualism' leaves many uncomfortable... It would be a mistake, however, and indeed a form of moral condescension, to systematically equate powerlessness with piousness. The subjugated and the subjugators are both equally capable of grievous sin.*
 
 > [!citation-card] [[Paulo Freire|弗莱雷]]论被压迫者与暴力的二元界定
-> 暴力从来都是由那些实施压迫、剥削和不承认他人为人的人所发起的。在人类历史上，暴力从来都不是由被压迫者首先发动的。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968, p. 55; cited in Karp & Zamiska, 2025, p. 53)]]
+> 暴力从来都是由那些实施压迫、剥削和不承认他人为人的人所发起的。在人类历史上，暴力从来都有别于由被压迫者首先发动的。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968, p. 55; cited in Karp & Zamiska, 2025, p. 53)]]
 >
 > *Violence is initiated by those who oppress, who exploit, who fail to recognize others as persons—not by those who are oppressed, exploited, and unrecognized... Never in history has violence been initiated by the oppressed.*
 
@@ -112,7 +112,7 @@ updated: 2026-11-02
 > **探讨维度　道德主体地位与人性的普遍脆弱性** 探讨如何摆脱二元身份标签，恢复所有人类群体作为独立伦理主体的责任与潜能。
 
 > [!claim] [[Remi Adekoya|Adekoya, R.]]; Morin, C.
-> **承认被统治者同样具备施恶潜能** 将社会简单切割为善良弱者与邪恶强者的二元模型，不仅违背历史经验，更构成了一种深层的智力与道德屈尊。从属群体并非无意识的受害木偶，他们在特定历史情境下同样具备做出残暴行为与行使权力的能力。真正的道德平等要求我们承认人性的普遍脆弱性，拒绝任何基于身份的道德特权或豁免。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Adekoya, 2023; Morin, 2023; cited in Karp & Zamiska, 2025, pp. 53–54)]]
+> **承认被统治者同样具备施恶潜能** 将社会简单切割为善良弱者与邪恶强者的二元模型，不仅违背历史经验，更构成了一种深层的智力与道德屈尊。从属群体有别于无意识的受害木偶，他们在特定历史情境下同样具备做出残暴行为与行使权力的能力。真正的道德平等要求我们承认人性的普遍脆弱性，拒绝任何基于身份的道德特权或豁免。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Adekoya, 2023; Morin, 2023; cited in Karp & Zamiska, 2025, pp. 53–54)]]
 
 > [!claim] [[Paulo Freire|Freire, P.]]
 > **压迫结构决定暴力的单向发生学** 保罗·弗莱雷在《被压迫者教育学》中系统论证，人类历史上的暴力始终源于剥夺他人人性的压迫者体系。被压迫者的反抗实质上是对爱与人性的渴望，因此在存在论上不能被界定为暴力的发起者。这一论断确立了[[Critical Pedagogy|批判教育学]]中压迫者与被压迫者的经典二元对立[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968; cited in Karp & Zamiska, 2025, p. 53)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 > **探讨维度　历史[[Positivism|实证主义]]与人类暴力发生学** 探讨人类学与考古学实证数据如何打破关于未经文明污染的“高贵野蛮人”和平幻想。
 
 > [!claim] Keeley, L. H.
-> **文明前部落战争的残酷性与普遍性** 人类学家[[Lawrence H. Keeley|劳伦斯·基利]]通过跨文化与考古学数据证实，未受现代国家体制影响的原始部落社会绝非和平乌托邦，其战争死亡率和残暴程度往往远高于现代文明国家。美洲平原印第安部落与新几内亚土著之间长期存在的残酷肢体摧残与种族屠杀习俗，证明暴力并非西方文明或现代国家的独有产物，而是根植于未受法治与均势威慑约束的人类天性之中。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Keeley, 1996; cited in Karp & Zamiska, 2025, pp. 53–54)]]
+> **文明前部落战争的残酷性与普遍性** 人类学家[[Lawrence H. Keeley|劳伦斯·基利]]通过跨文化与考古学数据证实，未受现代国家体制影响的原始部落社会有别于和平乌托邦，其战争死亡率和残暴程度往往远高于现代文明国家。美洲平原印第安部落与新几内亚土著之间长期存在的残酷肢体摧残与种族屠杀习俗，证明暴力是根植于未受法治与均势威慑约束的人类天性之中，有别于西方文明或现代国家的独有产物。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Keeley, 1996; cited in Karp & Zamiska, 2025, pp. 53–54)]]
 
 ---
 

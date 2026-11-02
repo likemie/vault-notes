@@ -57,7 +57,7 @@ updated: 2026-11-02
 > - **边界** 区别于一般的慈善利他行为（Philanthropy）或古典功利主义；有效利他主义具有高度的[[Technical Rationality|技术理性]]崇拜、量化指标依赖以及与[[Technological Agnosticism|技术不可知论]]相互共谋的政治冷漠特质。
 
 > [!citation-card] 空洞功利主义与科技精英的道德避险
-> 过去十年在硅谷扎根的有效利他主义运动由哲学家彼得·辛格等人推动，试图建立在伦理普世主义的直觉吸引力之上——即所有人乃至非人类都应纳入我们的道德计算……然而这种进路为整整一代人提供了掩护，使他们得以回避关于何为良好生活、国家认同的边界与内涵，以及人类对意义探寻等更为棘手的问题。罗杰·斯克鲁顿批评辛格采纳了一种空洞的功利主义，其优雅与简洁虽诱人，却将全部经验降格为单一指标。从这个意义上讲，许多硅谷顶尖企业的创始人并非不道德，他们只是非道德的，对宏大信仰结构、世界观以及集体生活的正面构想充满怀疑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
+> 过去十年在硅谷扎根的有效利他主义运动由哲学家彼得·辛格等人推动，试图建立在伦理普世主义的直觉吸引力之上——即所有人乃至非人类都应纳入我们的道德计算……然而这种进路为整整一代人提供了掩护，使他们得以回避关于何为良好生活、国家认同的边界与内涵，以及人类对意义探寻等更为棘手的问题。罗杰·斯克鲁顿批评辛格采纳了一种空洞的功利主义，其优雅与简洁虽诱人，却将全部经验降格为单一指标。从这个意义上讲，许多硅谷顶尖企业的创始人有别于不道德，他们只是非道德的，对宏大信仰结构、世界观以及集体生活的正面构想充满怀疑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
 >
 > *The effective altruism movement, which took hold in the Valley over the past decade and was advanced by the philosopher Peter Singer, among others, sought to build on the intuitive appeal of ethical universalism... But this approach provided cover for a generation to avoid more thorny questions about what constitutes a life well lived, the boundaries and content of national identity, and the human search for meaning. Roger Scruton, a British philosopher, critiqued Singer for adopting “a vacuous utilitarianism” whose elegance and simplicity, alluring as they were, nonetheless reduced experience to a single metric. The founders of many of the leading firms in Silicon Valley were not immoral, in this sense; they were simply amoral, skeptical of grand belief structures and worldviews and affirmative conceptions of what a collective life could or ought to be.*
 
@@ -73,7 +73,7 @@ updated: 2026-11-02
 > | **伦理判准** | 单一量化效用计算与福利最大化 | 仁义礼智信、家国忠诚与实质德性修养 | 捍卫宪政民主与制度理想的坚定意志 |
 > | **共同体态度** | 超脱民族国家边界的抽象全球主义 | 根植于家庭、社会与国家的差序伦理格局 | 明确承担捍卫特定政治共同体与国家安全的责任 |
 > | **应对政治现实** | 以算术慈善回避地缘竞争与制度防卫 | 勇于承担公共治理与政治教化天职 | 面对地缘安全危机，动用[[Hard Power\|硬实力]]捍卫自由秩序 |
-> | **潜在危机** | 沦为科技精英免除道德审查的廉价掩护与虚无主义 | 若缺乏法治约束易蜕变为宗族依附 | 若缺乏审慎节制易滑入意识形态教条 |
+> | **潜在危机** | 沦为科技精英免除道德审查的廉价掩护与虚无主义 | 若缺乏法治约束易转变为宗族依附 | 若缺乏审慎节制易滑入意识形态教条 |
 
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-11-02
 > **探讨维度　科技精英意识形态与政治避险** 阐明硅谷精英如何利用有效利他主义作为理论工具，掩盖自身在国家安全与地缘竞争中的政治冷漠与非道德立场。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
-> **非道德立场与政治责任的剥离** 硅谷科技巨头并非传统意义上的不道德（immoral），而是呈现出一种系统的非道德（amoral）特质；他们借有效利他主义的慈善语言为自身装点廉价的理想主义门面，实质上是为了在享受国家法治、资本与安全保护的同时，回避对民族国家承担防卫责任与实质政治承诺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
+> **非道德立场与政治责任的剥离** 硅谷科技巨头是呈现出一种系统的非道德（amoral）特质，有别于传统意义上的不道德（immoral）；他们借有效利他主义的慈善语言为自身装点廉价的理想主义门面，实质上是为了在享受国家法治、资本与安全保护的同时，回避对民族国家承担防卫责任与实质政治承诺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
 
 ---
 
@@ -160,7 +160,7 @@ updated: 2026-11-02
 > | [[Hard Belief]] | 概念 | 区别于有效利他主义算术计算、敢于为制度理想承担现实代价的坚定信念。 |
 > | [[Junzi]] | 概念 | 超越有效利他主义空洞功利、为现代治理提供实质规范的儒家君子美德。 |
 > | [[Technological Republic]] | 概念 | 拒绝有效利他主义道德逃避、由具备实质信念与硬科技力量的公民所构建的理想政体。 |
-> | [[Alexander Karp]] | 人物 | 《技术共和国》作者，对硅谷有效利他主义展开深刻道德哲学与政治学批判。 |
+> | [[Alexander Karp]] | 人物 | 《技术共和国》撰写者，对硅谷有效利他主义展开深刻道德哲学与政治学批判。 |
 > | [[Lee Kuan Yew]] | 人物 | 新加坡建国总理，以儒家君子实质德性对抗功利虚无主义的治国典范。 |
 
 ---

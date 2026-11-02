@@ -60,7 +60,7 @@ updated: 2026-11-02
 > - **边界** 不等于通用意义上的农村教育或偏远地区教育；它不仅涉及地理偏远，更核心的特征是生产生活方式对空间流动性（Spatial Mobility）的内在依赖。
 
 > [!citation-card] 游牧教育的社会资本积累与去依附功能
-> 尽管学业成果并不均衡，但教育程度正日益被游牧民视为积累社会资本的途径。识字能力尤其被看作能够‘消除当前因依赖他人提供信息而造成的无权与受控状态’的关键手段。游牧家庭常常把一个儿子送进学校作为一种‘保险’，其目的并非辅助放牧生产，而是确立替代性的非农经济选择。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
+> 尽管学业成果并不均衡，但教育程度正日益被游牧民视为积累社会资本的途径。识字能力尤其被看作能够‘消除当前因依赖他人提供信息而造成的无权与受控状态’的关键手段。游牧家庭常常把一个儿子送进学校作为一种‘保险’，其目的是确立替代性的非农经济选择，有别于辅助放牧生产。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 >
 > *[[Educational Level|educational attainment]], while uneven, is increasingly viewed as a route to building [[Social Capital Theory|social capital]]. Literacy in particular is viewed as standing to "eliminate the current disempowering dependency on others to provide information" (p. 319). Nomadic families frequently place a son in school as a form of "insurance," less to aid pastoralism than to establish alternative economic options.*
 
@@ -107,10 +107,10 @@ updated: 2026-11-02
 > **探讨维度　国家定居化规训维度** 探析民族国家为何始终将游牧流动性视为不可治理的落后形态，并动用正规教育机构将流动人口固着在物理与制度网格之中。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] & Stolpe, I.
-> **定居化政治中介** 正规学校不仅是文化传授机构，更是社会主义与后社会主义国家推行牧民定居化政策的关键支点；国家通过集中建立[[Boarding Schools|寄宿学校]]，切断游牧儿童与传统转场实践的日常联系，将现代文明规约与定居生活[[Paradigm|范式]]深植于新一代身体记忆之中。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
+> **定居化政治中介** 正规学校不仅是文化传授机构，更是社会主义与后社会主义国家推行牧民定居化政策的关键支点；国家通过集中建立[[Boarding Schools|寄宿学校]]，切断游牧儿童与传统转场实践的日常联系，将现代文明规范与定居生活[[Paradigm|范式]]深植于新一代身体记忆之中。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!claim] Umar, A. & Tahir, G.
-> **行政统合与定居改造** 无论在尼日利亚还是伊朗等发展中国家，国家针对游牧民设立的教育项目，在顶层设计上普遍带有将松散流动部落纳入现代领地国家行政管理系统的强烈政治意图，流动性在官方[[Discourse|话语]]中常被定义为实现[[Education for All|全民教育]]（Education for All, EFA）目标的结构性障碍。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
+> **行政整合与定居改造** 无论在尼日利亚还是伊朗等发展中国家，国家针对游牧民设立的教育项目，在顶层设计上普遍带有将松散流动部落纳入现代领地国家行政管理系统的强烈政治意图，流动性在官方[[Discourse|话语]]中常被定义为实现[[Education for All|全民教育]]（Education for All, EFA）目标的结构性障碍。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 
 ---
 

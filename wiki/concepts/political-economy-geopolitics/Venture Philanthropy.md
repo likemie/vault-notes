@@ -94,16 +94,16 @@ updated: 2026-11-02
 > | **运行逻辑** | 战略性多年投资、留本基金运营与高介入度赋能 | 一次性赠款分配、善意救济与无偿资助 | 股权投资、市场化估值与资本高倍退出 |
 > | **治理关系** | 深度嵌入受助方董事会，掌控战略与运营决策 | 外部资助者角色，尊重受助机构自主运营 | 派遣董事，行使股东投票权与重大事务否决权 |
 > | **评估标准** | 社会[[Return on Investment\|投资回报]]率（SROI）、标准化因果[[Effect Size\|效应量]]与里程碑考核 | 财务报销合规性、活动产出与受助人数统计 | 财务回报率（IRR）、企业净利润与估值倍数 |
-> | **[[Discourse\|话语]]语系** | 证据经纪（brokerage）、买入（buy in）、杠杆撬动、孵化 | 捐助、[[Benevolence\|仁爱]]、利他、扶危济困 | 资本利得、尽职调查、股权稀释、上市退出 |
+> | **[[Discourse\|话语]]语系** | 证据经纪（brokerage）、买入（buy in）、手段撬动、孵化 | 捐助、[[Benevolence\|仁爱]]、利他、扶危济困 | 资本利得、尽职调查、股权稀释、上市退出 |
 > | **制度定位** | 公私伙伴关系、影子[[Policy Network\|政策网络]]与中介实体装配枢纽 | 宗教或人道主义第三部门补充力量 | 纯私营市场化金融中介机构 |
 
 ---
 
 > [!feature] 核心要素
-> - **金融化投资语系与契约纪律** 风险慈善将风投行话（如证据经纪、买入、对赌协议、杠杆融资）全面植入公共政策议程，将受资助的学校、教师与非营利机构视作“被投项目”（portfolio investees），实施严密的过程审计与绩效追踪（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
+> - **金融化投资语系与契约纪律** 风险慈善将风投行话（如证据经纪、买入、对赌协议、手段融资）全面植入公共政策议程，将受资助的学校、教师与非营利机构视作“被投项目”（portfolio investees），实施严密的过程审计与绩效追踪（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **非财务赋能与组织深度控制** 资助方不仅提供资金，更联合麦肯锡等战略咨询寡头向受助机构输出免费或收费的管理咨询、IT 系统与治理模板，直接派遣高管兼任受助方董事，重构其内部决策生态（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p. xiii]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
 > - **跨国资本流动与影子网络装配** 风险慈善机构充当连接全球金融财团（如高盛、美洲银行、摩根大通）、跨国矿业基金会（如[[BHP Foundation\|必和必拓基金会]]）与国家行政机器的隐形枢纽，通过跨国定向注资构建[[Epistemology\|认识论]]高度同质的全球政策生态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
-> - **企业法律底座与税收庇护机制** 机构普遍注册为担保有限公司或留本慈善信托，在享有大额公共财政配套补贴的同时充当企业税收庇护所（tax shelter），并在初创期享受法定审计保密豁免（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]）。
+> - **企业法律基础与税收庇护机制** 机构普遍注册为担保有限公司或留本慈善信托，在享有大额公共财政配套补贴的同时充当企业税收庇护所（tax shelter），并在初创期享受法定审计保密豁免（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]）。
 > - **异层再分配与资本净截留（Heterarchical Redistribution & Capital Retention）** 风险慈善中介吸纳的政府直接财政补贴与全额税收抵免，远高于其实际向基层学校发放的赠款总额，导致公共财富逆向流向企业化咨询中介与私营机构（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
 > - **项目化资助与公立学校商业规训（Project-based Grants & Commercial Disciplining）** 迫使弱势公立学校脱离法定均等化财政保障，转而竞标微额商业赠款并接受企业中介制定的因果量规考核，使公共教育的专业自主权从属于商业绩效逻辑（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
 
@@ -133,7 +133,7 @@ updated: 2026-11-02
 > **探讨维度　制度装配与[[Policy Network\|政策网络]]穿透** 探讨风险慈善如何借助法律条款、中介样板与咨询契约等物质性材料，将自身嵌入国家科研治理的法定肌理。
 
 > [!claim] Rowe, E.
-> **无生命客体装配与公共科研特许分包** 澳大利亚实证研究表明，风险慈善并非游离于体制外的施善者，而是通过精心构筑政策网络实现国家权力的深层再装配。以麦肯锡背景的[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）为例，其历经十年运作（从孵化样板中介[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）到游说联邦生产力委员会，再到借用 Gonski 审查声誉），最终促成国家设立具有企业法人地位的[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）；更为关键的是，网络通过修改《公共治理、绩效与问责规则》（Public Governance, Performance and Accountability Rule, PGPA Rule）等行政立法，确立了国家机构必须与慈善组织合作并向营利咨询分包的法定特权，使商业利益在超党派科学中立的伪装下制度化。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 2–5, 10–11)]]
+> **无生命客体装配与公共科研特许分包** 澳大利亚实证研究表明，风险慈善是通过精心构筑政策网络实现国家权力的深层再装配，有别于游离于体制外的施善者。以麦肯锡背景的[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）为例，其历经十年运作（从孵化样板中介[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）到游说联邦生产力委员会，再到借用 Gonski 审查声誉），最终促成国家设立具有企业法人地位的[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）；更为关键的是，网络通过修改《公共治理、绩效与问责规则》（Public Governance, Performance and Accountability Rule, PGPA Rule）等行政立法，确立了国家机构必须与慈善组织合作并向营利咨询分包的法定特权，使商业利益在超党派科学中立的伪装下制度化。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 2–5, 10–11)]]
 
 ---
 
@@ -149,7 +149,7 @@ updated: 2026-11-02
 > **探讨维度　异层财政再分配与民主问责瓦解** 探讨风险慈善如何颠覆现代资本主义福利国家传统的累进税收再分配模式，并通过制度性保密特权深度[[Epoché\|悬置]]公共民主审议。
 
 > [!claim] Rowe, E.
-> **异层财政倒流与民主审议悬置** 风险慈善不仅重塑了教育[[Knowledge Production\|知识生产]]方式，更在深层制度上颠覆了现代资本主义福利国家传统的财政再分配模式；免税中介净吸收高额公共补贴并迫使弱势公立学校接受商业规训，同时依靠保密招标与政商旋转门彻底架空了公共教育的民主问责。埃玛·罗威（Emma Rowe）对澳大利亚社会创投（Social Ventures Australia, SVA）及其网络的实证追踪证实，国家并非被动撤资，而是演变成资助者与市场缔造者，通过修改税法和破例授予第一类可抵税资质，将公共财政导向免税中介；在 2021 财年，SVA 吸纳政府财政拨款 121.6 万澳元，而对外发放赠款仅 62.5 万澳元（仅占政府拨款的 51%），公共税收反向补贴了非营利机构的咨询业务与行政开销；此外，高达 1500 万澳元的保密招标资金、非民选商业精英与高级官僚的董事会兼任，以及依据《公司法》享有的保密治理特权，使重大教育研发与资金分配完全脱离了公众知情与议会审议，导致公共教育所依托的民主契约发生结构性解体。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 521–522, 526–532)]]
+> **异层财政倒流与民主审议悬置** 风险慈善不仅重塑了教育[[Knowledge Production\|知识生产]]方式，更在深层制度上颠覆了现代资本主义福利国家传统的财政再分配模式；免税中介净吸收高额公共补贴并迫使弱势公立学校接受商业规训，同时依靠保密招标与政商旋转门彻底架空了公共教育的民主问责。埃玛·罗威（Emma Rowe）对澳大利亚社会创投（Social Ventures Australia, SVA）及其网络的实证追踪证实，国家是演变成资助者与市场缔造者，通过修改税法和破例授予第一类可抵税资质，将公共财政导向免税中介，有别于被动撤资；在 2021 财年，SVA 吸纳政府财政拨款 121.6 万澳元，而对外发放赠款仅 62.5 万澳元（仅占政府拨款的 51%），公共税收反向补贴了非营利机构的咨询业务与行政开销；此外，高达 1500 万澳元的保密招标资金、非民选商业精英与高级官僚的董事会兼任，以及依据《公司法》享有的保密治理特权，使重大教育研发与资金分配完全脱离了公众知情与议会审议，导致公共教育所依托的民主契约发生结构性解体。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 521–522, 526–532)]]
 
 ---
 
@@ -159,22 +159,22 @@ updated: 2026-11-02
 > | **决策权追索命题** | 投资逻辑取代利他动机，使资助者自赋干涉公立教育决策与课程知识的合法性 | [[Partnership Schools Kura Hourua\|特许学校]]设立、委派项目引进（如 Teach First）与校本治理变革 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
 > | **制度装配与特许分包命题** | 通过耐用客体（法律、章程、量规）固化公私网络，将科研外包特许权写入国家行政法 | 国家证据中介机构创设、政府调查报告游说与跨国证据生态扩张 | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
 > | **财富逆向流动命题** | 低拨款回报率与税收庇护机制加剧公共财政倒流，壮大企业化咨询实体 | 巨型留本信托基金运营、社会影响力债券与非营利咨询部门创收 | 综合前述 O'Neill et al. 与 Rowe 论断 |
-> | **异层再分配与民主悬置命题** | 免税中介净截留财政补贴迫使学校接受商业规训，保密招标与企业法底座架空民主审议 | 资本主义国家形态重构、公立教育均等化财政危机与智库监管 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 521–522, 526–532)]] |
+> | **异层再分配与民主悬置命题** | 免税中介净截留财政补贴迫使学校接受商业规训，保密招标与企业法基础架空民主审议 | 资本主义国家形态重构、公立教育均等化财政危机与智库监管 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 521–522, 526–532)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1990 年代末–2000 年代初 — 模式萌芽与风险投资纪律引入** 在欧美互联网科技新贵崛起与企业慈善立法背景下，创投风尚外溢至公益部门；麦肯锡合伙人发起 SVA（2002），倡导引入商业咨询、尽职调查与多年期资本支持，重构传统慈善形态。
 > - **2006–2015 — 澳大拉西亚实践落地与[[Charter Schools|特许学校]]基建** 新西兰最大慈善机构 Foundation North 宣布全面转型风险慈善（2006）；风险慈善资本广泛涉入 [[Teach First New Zealand]] 教师输送项目及 Manaiakalani 数字化项目，并充当特许学校（[[Partnership Schools Kura Hourua|PSKH]]）法定义务之外的关键财政后盾（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。
-> - **2016–2022 — 跨国证据生态扩张与国家科研体制渗透** 英国 [[Education Endowment Foundation\|EEF]] 与澳大利亚 [[Social Ventures Australia\|SVA]] 联合推进[[Boundary Spanner|证据经纪人]]模式；必和拓基金会注资启动全球教学证据生态项目；风险慈善由局部项目赞助跃升为直接游说、设计并共同治理国家级法定教育科研中介（如 [[Australian Education Research Organisation\|AERO]]），引发全球政策社会学对民主问责侵蚀的集中批判（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。
-> - **2023 — 异层治理实践与国家再分配模式重构** 埃玛·罗威（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）实证剖析 SVA 辐射网络（[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO），确证风险慈善构建了资本主义国家异层再分配闭环，利用立法破例赋予免税中介吸税特权，导致公共财政逆流并使公立学校沦为商业问责受助附庸。
+> - **2016–2022 — 跨国证据生态扩张与国家科研体制渗透** 英国 [[Education Endowment Foundation\|EEF]] 与澳大利亚 [[Social Ventures Australia\|SVA]] 联合推进[[Boundary Spanner|证据经纪人]]模式；必和拓基金会注资启动全球教学证据生态项目；风险慈善由局部项目赞助提升为直接游说、设计并共同治理国家级法定教育科研中介（如 [[Australian Education Research Organisation\|AERO]]），引发全球政策社会学对民主问责侵蚀的集中批判（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。
+> - **2023 — 异层治理实践与国家再分配模式重构** 埃玛·罗威（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）实证剖析 SVA 辐射网络（[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO），确证风险慈善构建了资本主义国家异层再分配反馈回路，利用立法破例赋予免税中介吸税特权，导致公共财政逆流并使公立学校沦为商业问责受助附庸。
 
 ---
 
 > [!debates] 学术争议与批判
 >
 > > [!axis] 公益利他主义 vs 商业资本治理殖民
-> > - **机构辩护** 主张传统慈善一次性拨款缺乏效能评估与可持续性，引入风投资本纪律与商业咨询能大幅提升资金使用效率，以杠杆效应撬动更大规模社会资源。
+> > - **机构辩护** 主张传统慈善一次性拨款缺乏效能评估与可持续性，引入风投资本纪律与商业咨询能大幅提升资金使用效率，以手段效应撬动更大规模社会资源。
 > > - **[[Analytical Stance\|批判立场]]** 指责风险慈善模糊了公益利他与商业回报的底线，将公立教育的公共属性转化为投资者谋求治理发言权与意识形态推广的试验场，严重架空民主监督（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。
 >
 > > [!axis] 福利国家累进再分配 vs [[Philanthrocapitalism\|慈善资本主义]]异层再分配
@@ -199,7 +199,7 @@ updated: 2026-11-02
 > | 同上 | [[Partnership Schools Kura Hourua\|特许学校支持实体]]（新西兰） | 混合融资结构（政府配资与风险慈善基金会专项支持） | 支持新西兰国家党政府试行的特许学校体制（如 E Tipu E Rea） | 依托私人慈善资助维持运营，构建公私伙伴基础设施（p. 12） | 为新自由主义[[Educational Privatisation\|教育私有化]]与公立教育非工会化提供财政缓冲带 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | [[NEXT Foundation\|NEXT 基金会]]（NEXT Foundation，新西兰） | 商业慈善家尼尔与安妮特·普洛曼（Neal & Annette Plowman）注入 1 亿纽币资本，为新西兰规模最大的专项风险慈善基金（pp. 37–38, 47） | 高介入度资助马奈卡拉尼信托全国外展项目（[[Manaiakalani Education Trust\|Manaiakalani Outreach]] 数百万专款）及新西兰先行者教育（[[Teach First New Zealand\|Teach First NZ]]） | 采取极高介入度（High Engagement）风投考核与明确里程碑分期拨款；强制要求受助学校与社区家庭分摊设备采购与宽带成本（pp. 47–48） | 借助慈善赠款将公立教育数字化基础设施成本向低收入弱势家庭转嫁，以项目化准市场渗透公立学校生态 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Social Ventures Australia\|澳大利亚社会创投]]（SVA，澳大利亚） | 管理资产 1.5 亿澳元；年政府补助 120 万澳元、企业捐赠 600 万澳元 | 创设证据中介样板 E4L；运营商业咨询部（年营收近 1000 万澳元） | 获免税与抵税资质，获得公共补贴总额超过其对外发放赠款总和（pp. 5–6） | 充当大企业避税庇护所；主导长达十年政策游说促成 [[Australian Education Research Organisation\|AERO]] 成立 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 与 [[Australian Schools Plus\|Schools Plus]]（澳大利亚） | SVA 获政府拨款 121.6 万澳元；Schools Plus 获 500 万公共注资与第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质 | SVA 构建涵盖 Schools Plus、[[Evidence for Learning\|E4L]] 与 AERO 的辐射网络；获 1500 万保密投标资助 | SVA 实际对外发放赠款仅占政府拨款的 51%（62.5 万澳元）；4 家子公司层级控股（pp. 527–528） | 实证确证风险慈善构建[[Philanthrocapitalism\|慈善资本主义]]再分配闭环，迫使公立学校竞逐企业慈善并侵蚀民主问责 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 与 [[Australian Schools Plus\|Schools Plus]]（澳大利亚） | SVA 获政府拨款 121.6 万澳元；Schools Plus 获 500 万公共注资与第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质 | SVA 构建涵盖 Schools Plus、[[Evidence for Learning\|E4L]] 与 AERO 的辐射网络；获 1500 万保密投标资助 | SVA 实际对外发放赠款仅占政府拨款的 51%（62.5 万澳元）；4 家子公司层级控股（pp. 527–528） | 实证确证风险慈善构建[[Philanthrocapitalism\|慈善资本主义]]再分配反馈回路，迫使公立学校竞逐企业慈善并侵蚀民主问责 |
 > | 同上 | [[Australian Education Research Organisation\|AERO]]（澳大利亚） | 联邦与州政府联合注资 5000 万澳元初始财政预算 | 制定全国 [[Initial Teacher Training\|ITE]] 核心大纲、发布证据量规、桌面审查与证据综合 | 注册为担保有限公司；章程第 6/8 条规定董事须具慈善合作资历（pp. 3, 5） | 依据《公司法》享有前 18 个月审计豁免；特许向营利咨询分包科研 |
 
 ---
@@ -225,4 +225,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示新西兰 [[Foundation North]] 与 [[NEXT Foundation|NEXT 基金会]]如何通过风险慈善重塑公立教育与特许学校生态。
 > - [[Argument_Rowe_2022_IJER|Rowe, 2022]] — 剖析[[Social Ventures Australia|澳大利亚社会创投]]（SVA）如何借助免税庇护与政策游说推动国家证据中介 [[Australian Education Research Organisation|AERO]] 的制度化装配。
-> - [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]] — 实证确证风险慈善构建[[Philanthrocapitalism|慈善资本主义]]异层再分配闭环，揭示税收庇护与公立学校附庸化机制。
+> - [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]] — 实证确证风险慈善构建[[Philanthrocapitalism|慈善资本主义]]异层再分配反馈回路，揭示税收庇护与公立学校附庸化机制。

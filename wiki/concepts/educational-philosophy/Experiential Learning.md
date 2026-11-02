@@ -50,12 +50,12 @@ updated: 2026-11-02
 ---
 
 > [!def] Experiential Learning
-> 经验学习（Experiential Learning，亦称经验教育）关注经验及其重组如何促进理解与成长，是[[John Dewey|约翰·杜威]]（John Dewey）在《经验与教育》（*Experience and Education*, 1938）中系统阐发的教育哲学核心。杜威提出，一切真正的教育都来自于经验（*all genuine education comes about through experience*）[[Argument_Darwish_2009_Queens|(Dewey, 1963, p. 25; 引自 Darwish, 2009, p. 30)]]。然而，杜威并非无条件赞同所有经验，而是强调必须通过**连续性原则（Continuity）** 与 **[[Interaction Effect|交互作用]]原则（Interaction）** 来判定一项经验是促进后续生长或成长的[[Educative Experience|教育性经验]]（educative experience），还是阻碍并扭曲生长的反教育性经验（[[Mis-educative Experience]]）[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 31–32)]]。
+> 经验学习（Experiential Learning，亦称经验教育）关注经验及其重组如何促进理解与成长，是[[John Dewey|约翰·杜威]]（John Dewey）在《经验与教育》（*Experience and Education*, 1938）中系统阐发的教育哲学核心。杜威提出，一切真正的教育都来自于经验（*all genuine education comes about through experience*）[[Argument_Darwish_2009_Queens|(Dewey, 1963, p. 25; 引自 Darwish, 2009, p. 30)]]。然而，杜威是强调必须通过**连续性原则（Continuity）** 与 **[[Interaction Effect|交互作用]]原则（Interaction）** 来判定一项经验是促进后续生长或成长的[[Educative Experience|教育性经验]]（educative experience），还是阻碍并扭曲生长的反教育性经验（[[Mis-educative Experience]]）[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 31–32)]]，有别于无条件赞同所有经验。
 
 > [!concept-lens] 概念透镜
 > - **含义** 经验由主动的尝试（trying）与行动后承受的后果（undergoing）共同构成。真正的经验学习要求教育者从学生的生活经验出发安排课程。
 > - **用途** 用于克服[[Banking Model of Education|储蓄式教育]]中书本事实与学生生活相割裂的弊端，使课程成为促进心智与社会性成长的资源。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]]
-> - **边界** 并非所有经验都具有教育价值。凡是导致思维停滞、麻木或妨碍未来获得更丰富经验的活动，均为反教育性经验。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–32)]]
+> - **边界** 有别于所有经验都具有教育价值。凡是导致思维停滞、麻木或妨碍未来获得更丰富经验的活动，均为反教育性经验。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–32)]]
 
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-11-02
 > **探讨维度　经验品质与连续性** 判断经验学习不能止于活动发生，还需要看学生以后能否获得更广阔、更有意义的经验。
 
 > [!claim] Dewey（经 Darwish 转述）
-> **经验可以促进成长，也可以限制成长** 每项经验吸收先前经验，并改变后续经验的品质与方向，因此活动参与本身不是教育价值的充分依据。麻木、思维停滞及对学习的厌恶会削弱学生继续获得丰富经验的可能，属于反[[Educative Experience|教育性经验]]。教师应安排能够增加理解并打开后续选择的经验，以连续重组的成长作为判定依据。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]]
+> **经验可以促进成长，也可以限制成长** 每项经验吸收先前经验，并改变后续经验的品质与方向，因此活动参与本身有别于教育价值的充分依据。麻木、思维停滞及对学习的厌恶会削弱学生继续获得丰富经验的可能，属于反[[Educative Experience|教育性经验]]。教师应安排能够增加理解并打开后续选择的经验，以连续重组的成长作为判定依据。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]]
 
 > [!concept-proposition] 命题二｜教师需要协调学习者内部条件与客观环境
 > **探讨维度　[[Interaction Effect|交互作用]]与教育者职责** 学习经验产生于学生的兴趣、既有知识与客观环境的相互作用，课程安排必须处理二者的关系。
@@ -105,7 +105,7 @@ updated: 2026-11-02
 > **探讨维度　课程价值与实施可行性** 一项课程受到认可，仍可能因教师与选课安排不足而无法进入实际学习。
 
 > [!claim] Peterson, A. D. C.
-> **教师能力、课程位置与资源共同约束采用** 营养科学受到其他学校关注，却未扩散为常规选项，作者判断缺少合格教师及培训是主要原因。大学专业入学要求还可能占用第六科，使相应学生无法选择创新课程。后续[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]试点把跨校开发和在职培训同步安排，说明实施支持需要成为课程开发的一部分；它的最终效果在本章仍未确定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
+> **教师能力、课程位置与资源共同约束采用** 营养科学受到其他学校关注，却未扩散为常规选项，撰写者判断缺少合格教师及培训是主要原因。大学专业入学要求还可能占用第六科，使相应学生无法选择创新课程。后续[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]试点把跨校开发和在职培训同步安排，说明实施支持需要成为课程开发的一部分；它的最终效果在这一部分仍未确定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 > [!row-contrast] 经验学习的四类判断
 > | 命题 | 主要依据 | 适用边界 |
@@ -127,7 +127,7 @@ updated: 2026-11-02
 >
 > - **[[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]　[[International Schools|国际学校]]中的学术与服务整合**
 >
->   第八章明确提出把社会服务经验与学术课程结合，并讨论地方营养与农村问题导向的课程。两组材料可在问题层面互补；原文没有证实 Peterson 的方案直接源自杜威，不能据此建立师承或理论传承关系。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]]
+>   第八章明确提出把社会服务经验与学术课程结合，并讨论地方营养与农村问题导向的课程。两组材料可在问题层面互补；所读文本没有证实 Peterson 的方案直接源自杜威，不能据此建立师承或理论传承关系。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]]
 
 ---
 
@@ -149,16 +149,16 @@ updated: 2026-11-02
 > [!ref-table]- 已报告的课程采用与资源条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 情境 | 指标 | 原文记录 | 解释边界 |
+> | 研究 | 情境 | 指标 | 所读文本记录 | 解释边界 |
 > |---|---|---|---|---|
 > | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 204–205)]] | 营养科学推广 | 资助与采用 | [[UNESCO]] 资助 2,000 美元；马尼拉、雅加达、香港未采用，课程仍在新加坡与墨西哥城作为内部第六科存在 | 描述采用与资源，没有学习成效指标 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 205–206)]] | [[Science Technology and Social Change Curriculum Pilot\|科学、技术与社会变迁]]试点 | 培训与预期覆盖 | 三所发起学校；安排三周在职培训，另三校教师参加；作者预计可能进入 6–10 所学校 | 预计覆盖并非实际采用结果，不能据此判断培训效应 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 205–206)]] | [[Science Technology and Social Change Curriculum Pilot\|科学、技术与社会变迁]]试点 | 培训与预期覆盖 | 三所发起学校；安排三周在职培训，另三校教师参加；撰写者预计可能进入 6–10 所学校 | 预计覆盖有别于实际采用结果，不能据此判断培训效应 |
 
 ---
 
 > [!tension] 专业学科准备与问题导向的综合学习
-> - **延后综合学习的立场** 原文转述部分教育者主张先充分掌握各门学科，再开展跨学科课程，这往往会把综合学习推迟到研究生阶段。
-> - **Peterson 的回应** 多数学生不会进入研究生阶段，而学科边界本来也并非固定。保留高级学科训练，并提供可选的辅助层级问题导向课程，可以让更多学生获得知识应用与社会理解的机会。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
+> - **延后综合学习的立场** 所读文本转述部分教育者主张先充分掌握各门学科，再开展跨学科课程，这往往会把综合学习推迟到研究生阶段。
+> - **Peterson 的回应** 多数学生不会进入研究生阶段，而学科边界本来也有别于固定。保留高级学科训练，并提供可选的辅助层级问题导向课程，可以让更多学生获得知识应用与社会理解的机会。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
 
 > [!boundary]- 理论判定、实施案例与效果证据各有用途
 > [[John Dewey|杜威]]的原则提供经验品质的哲学判定，Peterson 的案例说明课程连接和实施条件。两者尚不足以构成所有经验学习均有效的经验结论，也不支持把社会服务时数或课程数量直接当作成长指标。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215)]]

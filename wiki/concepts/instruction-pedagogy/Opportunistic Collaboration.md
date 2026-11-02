@@ -69,7 +69,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 一种以学习者认知需求与问题演进为驱动、具有高度通透边界与自组织特性的动态群体协作模式。
 > - **用途** 帮助教学设计者突破传统固定分组导致的信息孤岛与角色僵化，为学生行使[[Epistemic Agency|认识能动性]]与开展[[Authentic Science Practices|真实科学探究]]提供灵活的社会组织架构。
-> - **边界** 弹性协作绝非毫无规则的无序漫游或放任自流，它必须依托班级公共认知制品（如意向领域图表、知识总结墙）与持续的[[Metacognition|元认知]]监控反思机制而有序运作。
+> - **边界** 弹性协作有别于毫无规则的无序漫游或放任自流，它必须依托班级公共认知制品（如意向领域图表、知识总结墙）与持续的[[Metacognition|元认知]]监控反思机制而有序运作。
 
 > [!citation-card] Zhang et al. 论弹性协作的自组织本质
 > 真实世界的知识创造团队应对的是[[Creativity|创造性]]过程中突现与不断展开的本质。与按固定角色执行预设脚本的协作模式不同，弹性协作允许学生根据共同关心的深层问题自发组建团队，并随着新问题的出现动态重构协作网络，从而在班级中实现广泛的思想交融与对称性知识推进。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 892–893)]]
@@ -77,7 +77,7 @@ updated: 2026-11-02
 > *Unlike fixed small groups with scripted roles, opportunistic collaboration allows students to form collaborative groups based on shared interests and emergent needs, and further reform their group structures over time as their inquiry brings forth new problems and knowledge connections, fostering collective responsibility and deep understanding.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Cooperative Learning|合作学习]]中的固定分组（Fixed Small Groups） — 传统合作学习通常由教师在单元初指定成员与分工，并在整个探究中保持固定；弹性协作的分组是动态、通透且可随时重组的。
+> - 不等于 [[Cooperative Learning|合作学习]]中的固定分组（Fixed Small Groups） — 传统的合作学习通常由教师在单元初指定成员与分工，并在整个探究中保持固定；弹性协作的分组是动态、通透且可随时重组的。
 > - 不等于 脚本化协作（Scripted Collaboration） — 脚本化协作预先规定“搜集者/总结者”等机械角色；弹性协作中的角色是学生根据解决问题的即时需要自发突现的（Spontaneous Roles）。
 > - 不适用于 仅需短期机械分工完成确定性低阶任务的流水线式课堂活动。
 
@@ -95,9 +95,9 @@ updated: 2026-11-02
 ---
 
 > [!feature] 弹性协作的核心机制
-> - **通透的小组边界（Permeable Boundaries）** 小组并非封闭壁垒，成员在深耕本组议题的同时，可随时向其他小组提供线索或寻求支持。
+> - **通透的小组边界（Permeable Boundaries）** 小组有别于封闭壁垒，成员在深耕本组议题的同时，可随时向其他小组提供线索或寻求支持。
 > - **自组织的动态流动（Self-Organized Mobility）** 当某个问题得到解决或发现新的跨领域谜团时，学生能够自主迁移动线并组建新团队。
-> - **自发突现的[[Role-playing|角色扮演]]（Spontaneous Role Taking）** 学生无需按照固定剧本扮演角色，而是根据研讨中的认知缺口即时承担提问者、建模者、批判者或综合者功能（Heinimäki et al., 2021）。
+> - **自发突现的[[Role-playing|角色扮演]]（Spontaneous Role Taking）** 学生无需按照固定剧本扮演角色，是根据研讨中的认知缺口即时承担提问者、建模者、批判者或综合者功能（Heinimäki et al., 2021）。
 > - **跨界相遇的意外创生（Serendipity of Encounters）** 学生在不同专题领域的穿梭流动创造了大量偶发性思维碰撞，使局部的科学突破迅速转化为全班共享的[[Collective Intelligence|集体智慧]]。
 
 > [!logic-map]- 要素关系
@@ -128,7 +128,7 @@ updated: 2026-11-02
 > **探讨维度　认知与[[Knowledge Building Theory|知识建构]]维度** 本命题探讨组织形式的灵活性如何转化为深层科学理解与高阶认识责任。
 
 > [!claim] [[Marlene Scardamalia|Scardamalia, M.]] & [[Carl Bereiter|Bereiter, C.]]
-> **集体责任与观点持续改进** 斯卡达玛利亚与贝赖特论证，当学生拥有重构协作团队的自由时，他们不再将完成小组[[Homework|作业]]当成应付差事，而是对全班共同体知识库的整体质量产生强烈的集体所有权与[[Epistemic Responsibility|认知责任]]感。(Scardamalia & Bereiter, 2014)
+> **集体责任与观点持续改进** 斯卡达玛利亚与贝赖特论证，当学生拥有重构协作团队的自由时，他们不再将完成小组[[Homework|作业]]当成应付差事，是对全班共同体知识库的整体质量产生强烈的集体所有权与[[Epistemic Responsibility|认知责任]]感。(Scardamalia & Bereiter, 2014)
 
 > [!claim] Siqin, T. et al.
 > **概念深度与因果机制建构** 斯琴等在高等教育环境中的对照实验证实，相比固定协作组，采取弹性协作的学生在论辩质量、解释复杂度和深层因果机制建构上均取得显著更高的[[Academic Achievement|学业成就]]。(Siqin et al., 2015)
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜跨组流动创造的意外相遇是驱动集体知识创生的关键动力
-> **探讨维度　知识涌现与创新动力维度** 本命题揭示跨界思想碰撞如何成为科学概念跃升与跨学科整合的催化剂。
+> **探讨维度　知识涌现与创新动力维度** 本命题揭示跨界思想碰撞如何成为科学概念提升与跨学科整合的催化剂。
 
 > [!claim] Zhang, J. et al.
 > **意外相遇的创生效能** 张建伟等在五年级人体系统探究中证实，眼睛小组与基因小组、神经反射小组之间的偶然交流（意外相遇，Serendipity of Encounters），直接催生了对虹膜遗传、疲劳反射等跨系统机制的突破性理解，使 81.25% 的总结达到完全科学水平。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 916–917)]]

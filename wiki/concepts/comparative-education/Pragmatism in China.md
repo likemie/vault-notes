@@ -56,7 +56,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Pragmatism in China
-> Pragmatism in China（[[Pragmatic Paradigm\|实用主义]]在中国）专指[[John Dewey\|杜威]]实用主义哲学在中国（晚清、民国及建国后）的传播、选择性采纳、制度转译与政治[[Recontextualization\|再脉络化]]历史。它并非对西方原典的忠实复制或被动引进，而是中国教育改革者与政治精英出于救国、制度重构与[[Discourse|话语]]重塑需求，将 Pragmatism 从一个完整的哲学体系拆解为服务于特定政治议程的话语工具。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.68–72]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–612]]）
+> Pragmatism in China（[[Pragmatic Paradigm\|实用主义]]在中国）专指[[John Dewey\|杜威]]实用主义哲学在中国（晚清、民国及建国后）的传播、选择性采纳、制度转译与政治[[Recontextualization\|再脉络化]]历史。它是中国教育改革者与政治精英出于救国、制度重构与[[Discourse|话语]]重塑需求，将 Pragmatism 从一个完整的哲学体系拆解为服务于特定政治议程的话语工具，有别于对西方原典的忠实复制或被动引进。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.68–72]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–612]]）
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦外来复合学术思想在进入非西方危机社会时的[[Knowledge Transfer\|知识转移]]、翻译编码、制度转译与政治可塑性。
@@ -104,7 +104,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Pragmatic Paradigm|实用主义]]在华接受建立在本土“经世致用”实用传统与译名选择性压印之上
-> **探讨维度　语义前史与译名对概念内涵的压缩** 学者指出：[[Pragmatic Paradigm\|实用主义]]在华接受并非从零开始，而是顺应了清代实学传统，并通过中文译名完成了从命名开始的[[Recontextualization\|再脉络化]]。
+> **探讨维度　语义前史与译名对概念内涵的压缩** 学者指出：[[Pragmatic Paradigm\|实用主义]]在华接受是顺应了清代实学传统，并通过中文译名完成了从命名开始的[[Recontextualization\|再脉络化]]，有别于从零开始。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.71–72)]]
 > - **“用”字对哲学体系的工具化压缩** 强调中文译名“实用主义”中的“用”字来自“有用”，将包含真理论、[[Axiology\|价值论]]与社会思想的完整 Pragmatism 体系压缩为“有用之学”，顺理成章地嵌入“经世致用”的本土轨道。（p.71）
@@ -148,7 +148,7 @@ updated: 2026-11-02
 > [!debates] 学术争议
 >
 > > [!axis] [[Knowledge Transfer\|知识转移]]中的“误读论”与“结构必然论”
-> > 传统学者认为民国知识分子没有准确理解[[John Dewey\|杜威]]的完整哲学；[[Argument_Cowen_2009_CE\|Cowen (2009b)]], [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] 与 [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 证明这不是个人理解力不足或翻译错误，而是外来理论落入非西方危机社会时的结构性必然。
+> > 传统学者认为民国知识分子没有准确理解[[John Dewey\|杜威]]的完整哲学；[[Argument_Cowen_2009_CE\|Cowen (2009b)]], [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] 与 [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 证明这是外来理论落入非西方危机社会时的结构性必然，有别于个人理解力不足或翻译错误。
 
 > [!warning] 适用局限
 > 概念专用于分析中国近代及当代教育思想史、政策[[Discourse|话语]]与跨国知识转移；不应用于解释无政治危机语境下的纯学术哲学传播。

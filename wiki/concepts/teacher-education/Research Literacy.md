@@ -93,7 +93,7 @@ updated: 2026-11-02
 > **研究素养（Research Literacy）** 指专业人员（涵盖一线教师、学校管理者及公职政策制定者）以维护专业实践完整性与批判审议的方式，理解、评估、鉴别与整合多元方法论科研成果的能力与德性。研究素养不仅要求专业主体读懂学术[[Document|文献]]与统计指标，更是一种在干预措施的“有效性”（what works）与具体情境的“适切性”（what is appropriate）之间进行自主权衡把关的专业实践德性（Eriksen, 2022；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p. 4]]；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。在宏观[[Epistemic Governance\|知识治理]]视域下，研究素养更构成了抵御后真相算法操纵、辨识商业公关虚假包装，以及将[[Scientific Literacy\|科学素养]]捍卫为公民基本民主权利的制度基石（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
 
 > [!concept-lens] 概念透镜
-> - **核心含义** 研究素养既是专业认知能力，更是育人德性与民主权利：它不仅要求能读懂并评估科研论文，更要求在微观课堂中明智判断干预是否切合具体学情，在宏观政策中辨识商业利益裹挟下的伪科学偏见。
+> - **核心含义** 研究素养既是专业认知能力，更是育人德性与民主权利：它不仅要求能读懂并评估科研文章，更要求在微观课堂中明智判断干预是否切合具体学情，在宏观政策中辨识商业利益裹挟下的伪科学偏见。
 > - **理论用途** 帮助理解为何阅读研究不等于有效采纳研究，阐明专业人员为何既不盲从教条处方也不全盘排斥科研，并为公职人员与教师教育建立批判性证据免疫防线。
 > - **适用边界** 坚决反对将研究素养降格为机械做题、检索技巧或[[Questionnaire\|问卷]]打分的个体赤字测度；强调科研证据必须与本土情境经验进行平权对话，且必须涵盖多元方法论而非仅迷信单一实验指标。
 
@@ -114,7 +114,7 @@ updated: 2026-11-02
 
 > [!boundary]- 概念边界
 > - **不等同于 [[Professional Judgment\|专业判断]]** 专业判断是指从业者在微观现场临场决断的综合[[Phronesis\|实践智慧]]；研究素养则是指如何恰如其分地把外部科研证据纳入这一判断过程中的审议德性与鉴别力。
-> - **不等同于 盲目崇拜科学结论** 研究素养恰恰要求从业者有能力对论文结论与大尺度数据库进行批判性审视，清醒甄别大样本弱效应的真实教学价值与商业包装背后的利益冲突。
+> - **不等同于 盲目崇拜科学结论** 研究素养恰恰要求从业者有能力对文章结论与大尺度数据库进行批判性审视，清醒甄别大样本弱效应的真实教学价值与商业包装背后的利益冲突。
 > - **不等同于 窄化的个体统计做题技能** 反对将研究素养贬低为仅供考核打分的[[Literature Search\|文献检索]]或看懂 $p$ 值的技能操作，主张将其理解为扎根于复杂教育生态中的多源[[Knowledge Integration\|知识整合]]与价值权衡能力。
 
 ---
@@ -146,14 +146,14 @@ updated: 2026-11-02
 > - **[[Research Utilization\|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研对话中主动应用科研成果的实际行为（外显行为转化变量）。
 
 > [!feature] 中介转化模型下的研究素养支架（[[Argument_Brown_2017_EducRes\|Brown et al., 2017, pp. 161–162]]）
-> - **克服学术[[Discourse|话语]]壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术论文转译为实践者可吸收的语言。
+> - **克服学术[[Discourse|话语]]壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术文章转译为实践者可吸收的语言。
 > - **结构化研习协议与工具包（Structured Mediation Protocols）** 依托[[Research Learning Communities\|研究学习共同体]]（RLC）等载体，由大学研究者提供转译后的实证总结与研习协议，帮助学校从依赖浮躁的快餐式小妙招，转向深入探究有效机制的学习文化。
 > - **双素养协同培育（Dual Literacy Integration）** 研究素养必须与[[Data Literacy\|数据素养]]协同互补，防止缺乏校本数据诊断而盲目追逐时髦热点。
 
 > [!feature] [[Quality Use of Research Evidence Framework\|QURE]] 框架视阈下的个体使能构件（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, pp. 142–143]]）
 > - **双核驱动之技能网络（Skillsets for Thoughtful Engagement）** 涵盖批判性[[Evaluation Research\|评估研究]]设计与情境适切性的能力、在同行研讨中审慎论证（Reason-Giving）的能力，以及将适切证据融入校本教改方案的微观转译技能。
 > - **双核驱动之态度与[[Epistemic Stances\|认识论立场]]（Mindsets & Epistemic Stances）** 包括对科学探究的开放心智、对复杂教育现实的探究[[Humility\|谦逊]]，以及抵御教条化盲信与虚无主义怀疑的[[Epistemology\|认识论]]成熟度。
-> - **个体使能与组织氛围的深度互构（Individual-Organisational Interplay）** 个体研究素养并非孤立存续，必须依托由[[School Leadership\|学校领导力]]支持、学术反思文化与制度化资源保障构成的肥沃土壤，方能转化为常态化的深思熟虑参与。
+> - **个体使能与组织氛围的深度互构（Individual-Organisational Interplay）** 个体研究素养有别于孤立存续，必须依托由[[School Leadership\|学校领导力]]支持、学术反思文化与制度化资源保障构成的肥沃土壤，方能转化为常态化的深思熟虑参与。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -172,7 +172,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜研究素养让专业实践摆脱艺术与科学的二元对立，把[[Research Utilization|研究使用]]转化为[[Recontextualization|再情境化]]过程
-> **探讨维度　教学作为专业技艺模型** 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]不是照搬论文处方，而是带有专业反思的[[Recontextualization|再情境化]]创造。
+> **探讨维度　教学作为专业技艺模型** 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]是带有专业反思的[[Recontextualization|再情境化]]创造，有别于照搬文章处方。
 
 > [!claim] Eriksen (2022); Mausethagen and Hermansen (2023)
 > **技艺模型与再情境化裁决** 反对把教学简单划分为纯个人经验手艺或标准化科学处方，主张通过专业技艺模型看待教学：研究素养作为一种德性，在有效性与适切性之间发挥着关键的调和把关作用。实证案例表明，优秀的教师和管理者在面对外部研究时，其选择、改编与整合过程始终兼具探索性与[[Creativity\|创造性]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
@@ -233,7 +233,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 概念演变
 > - **2000s–2010s — 信息素养与实证技能测度** 文献多将研究素养[[Operationalization\|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
-> - **2017 — [[Inquiry Cycle\|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 揭示教师在检索与转译期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
+> - **2017 — [[Inquiry Cycle\|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 揭示教师在检索与转译期刊学术文章时面临的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
 > - **2018 — [[Scientific Literacy\|科学素养]]确立为公民民主权利** Chalmers et al.（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
 > - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD\|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
@@ -277,7 +277,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将研究素养确立为驱动“深思熟虑参与”的个体使能构件（技能网络与态度价值观），强调个体使能与组织氛围的深度互构。
-> - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 揭示一线教师在研读专业学术论文时的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供转译支架，并倡导职前与在职教育中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
+> - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 揭示一线教师在研读专业学术文章时的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供转译支架，并倡导职前与在职教育中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 基于[[Theory of Planned Behavior\|计划行为理论]]开发 20 题四维度[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS），并实证检验科研参与和学术期刊阅读对素养维度的促进机制。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 把研究素养作为先验框架中适切研究的判断敏感度来源，并在讨论中将其纳入跨层技能发展机制。
 > - [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] — 系统审视了 30 年来将研究素养作为个体赤字指标的文献倾向，主张转向以多源[[Knowledge Integration\|知识整合]]与专业规范为支撑的专业敏感型概念化。

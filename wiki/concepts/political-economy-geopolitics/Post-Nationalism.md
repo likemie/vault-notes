@@ -57,10 +57,10 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向对传统国家主权、民族神话与集体历史大叙事的系统性祛魅与制度超越。
 > - **用途** 帮助研究者透视全球化背景下欧洲一体化、世界主义公民教育以及当代左翼去国家化[[Discourse|话语]]的理论建构。
-> - **边界** 不等于彻底否定社会组织，而是主张以纯粹程序法治、普遍人权规范或非政府组织网络替代实质性的国家文化共同体。
+> - **边界** 不等于彻底否定社会组织，是主张以纯粹程序法治、普遍人权规范或非政府组织网络替代实质性的国家文化共同体。
 
 > [!citation-card] 卡普与扎米斯卡论后国家主义造成的消费主义异化
-> 当代左翼声称致力于遏制资本市场的贪婪与不平等，另一方面却对捍卫国家文化或民族认同持排斥态度；他们未能意识到，当国家从提供崇高公民意义的阵地上撤退时，所留下的巨大精神真空绝不会被理性的博爱所填补，而是立刻被商业消费主义所占领。人们的身份、地位与归属感退化为购买力水平，从而使社会按照财富多寡被彻底分层与固化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
+> 当代左翼声称致力于遏制资本市场的贪婪与不平等，另一方面却对捍卫国家文化或民族认同持排斥态度；他们未能意识到，当国家从提供崇高公民意义的阵地上撤退时，所留下的巨大精神真空绝不会被理性的博爱所填补，是立刻被商业消费主义所占领。人们的身份、地位与归属感退化为购买力水平，从而使社会按照财富多寡被彻底分层与固化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
 >
 > *The modern left claims to be committed to curbing the excesses of the market, but its unwillingness to reckon with and take seriously the good that can come from a national culture or shared identity has only enabled the very excesses it purports to oppose... leaving a void filled by an ascendant consumer culture.*
 
@@ -105,7 +105,7 @@ updated: 2026-11-02
 > **后国家思潮的战略自毁** 卡普与扎米斯卡指出，当代西方以包容为名彻底掏空了国家认同的实质内容，使得“包容进什么”成为虚无之问；国家从提供崇高公民归属感的阵地上撤退，不仅未能带来理性博爱，反而使社会彻底退化为以财富多寡界定身份的消费主义异化体系，加剧了阶层固化与部落化撕裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 192–194)]]
 
 > [!claim] Jégo, Y.
-> **放弃国家文化与唯物主义迷失** 耶戈在《费加罗报》批评马克龙关于“不存在法国文化”的言论违背共和国精神，强调捍卫共同文化绝非主张优越性，而是防范整个国家迷失于纯粹功利唯物主义的唯一精神支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Jégo, 2017; quoted in Karp & Zamiska, 2025, p. 192)]]
+> **放弃国家文化与唯物主义迷失** 耶戈在《费加罗报》批评马克龙关于“不存在法国文化”的言论违背共和国精神，强调捍卫共同文化是防范整个国家迷失于纯粹功利唯物主义的唯一精神支柱，有别于主张优越性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Jégo, 2017; quoted in Karp & Zamiska, 2025, p. 192)]]
 
 ---
 

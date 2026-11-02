@@ -63,7 +63,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Academic Help-Seeking
-> 学业求助（Academic Help-Seeking，亦作学业求助行为）是指学习者在遭遇认知瓶颈、概念困惑或[[Task Structure\|劣构任务]]障碍时，主动觉察自身理解局限并战略性地向外部人力资源（教师、同伴、助教）或技术中介（智能系统、[[Document|文献]]数据库、[[Generative Artificial Intelligence\|生成式人工智能]]）寻求支持的高级[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）与[[Epistemology\|认识论]]行为。它并非单纯的认知依赖或被动顺从，而是兼具[[Metacognition\|元认知]]监控、情感调控与社会交往的多维积极探究策略。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108)]]
+> 学业求助（Academic Help-Seeking，亦作学业求助行为）是指学习者在遭遇认知瓶颈、概念困惑或[[Task Structure\|劣构任务]]障碍时，主动觉察自身理解局限并战略性地向外部人力资源（教师、同伴、助教）或技术中介（智能系统、[[Document|文献]]数据库、[[Generative Artificial Intelligence\|生成式人工智能]]）寻求支持的高级[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）与[[Epistemology\|认识论]]行为。它是兼具[[Metacognition\|元认知]]监控、情感调控与社会交往的多维积极探究策略，有别于单纯的认知依赖或被动顺从。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者将外部社会网络与技术系统转化为自身认知拓展延伸的自适应行为过程。
@@ -143,7 +143,7 @@ updated: 2026-11-02
 > **探讨维度　技术中介对求助心理壁垒的破除与认识赋能** 探讨生成式大模型的匿名、即时与非判断性交互界面如何重塑求助动力学。
 
 > [!claim] Chen & Cheung; Wu et al.
-> **去权威化交互界面对求助焦虑的瓦解与立场跃迁** 大语言模型具备高度流畅的拟人化对话界面且不带有任何现实社会评价偏见，极大地降低了求助的心理防御门槛。在高权力距离或高评价焦虑情境中，学生能够在完全安全的环境中向 AI 提出最基础甚至看似幼稚的概念疑问；结合情感支持与持续对话反馈，学生得以保持持久的探究坚持性，并在显性反思支架引导下从最初的解题求助逐步演进为高阶的评价论多源审问。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362, 366)]]
+> **去权威化交互界面对求助焦虑的瓦解与立场转向** 大语言模型具备高度流畅的拟人化对话界面且不带有任何现实社会评价偏见，极大地降低了求助的心理防御门槛。在高权力距离或高评价焦虑情境中，学生能够在完全安全的环境中向 AI 提出最基础甚至看似幼稚的概念疑问；结合情感支持与持续对话反馈，学生得以保持持久的探究坚持性，并在显性反思支架引导下从最初的解题求助逐步演进为高阶的评价论多源审问。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362, 366)]]
 
 ---
 
@@ -153,7 +153,7 @@ updated: 2026-11-02
 > | **自我调节属性** | 适应性求助是元认知调控与资源管理的高阶认知策略。 | 复杂学业[[Problem Solving\|问题解决]]、[[Learner Autonomy\|自主学习]]与元认知发展 | Zimmerman; Pintrich; Karabenick |
 > | **求助恐惧阻碍** | 害怕暴露愚蠢与负面社会评价诱发求助回避，阻碍认知发展。 | 传统班级课堂、[[High-Stakes Testing\|高利害评估]]与师生互动 | Bornschlegl et al.; Ryan & Pintrich |
 > | **文化信念调节** | 东方视求助为谦逊美德（无羞感），西方易将求助视为能力缺陷。 | [[Intercultural Education\|跨文化教育]]心理学、同伴互动与比较教育 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
-> | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、[[Man-Computer Symbiosis\|人机协同]]探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
+> | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场转向。 | 人工智能教育应用、[[Man-Computer Symbiosis\|人机协同]]探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
 ---
 

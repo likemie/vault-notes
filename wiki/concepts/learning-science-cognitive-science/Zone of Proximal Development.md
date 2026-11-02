@@ -89,12 +89,12 @@ updated: 2026-11-02
 最近发展区揭示了外部社会中介干预与个体心智机能演进之间的动态张力。
 
 > [!def] Zone of Proximal Development
-> 最近发展区（Zone of Proximal Development, ZPD），又称潜在发展区，指个体独立解决问题所决定的**实际发展水平（Actual Developmental Level）** 与在成人指导、更有能力的同伴协作或外在支架辅助下解决问题所决定的**潜在发展水平（Potential Developmental Level）** 之间的动态心理跨度。该[[Construct|构念]]确立了“良好的教学走在发展前面”的社会文化历史[[Epistemology|认识论]]，主张教学干预应当精准靶向个体正处于胚胎期与成熟过程中的心理机能。在现代学习科学中，它不仅是自适应[[Man-Computer Symbiosis|人机协同]]支架的算法依据，更被扩展为成人与教师在职专业发展中循证辅导（Coaching）的核心理论基石。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 9–10)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
+> 最近发展区（Zone of Proximal Development, ZPD），又称潜在发展区，指个体独立解决问题所决定的**实际发展水平（Actual Developmental Level）** 与在成人指导、更有能力的同伴协作或外在支架辅助下解决问题所决定的**潜在发展水平（Potential Developmental Level）** 之间的动态心理跨度。该[[Construct|构念]]确立了“良好的教学走在发展前面”的社会文化历史[[Epistemology|认识论]]，主张教学干预应当精准针对个体正处于胚胎期与成熟过程中的心理机能。在现代学习科学中，它不仅是自适应[[Man-Computer Symbiosis|人机协同]]支架的算法依据，更被扩展为成人与教师在职专业发展中循证辅导（Coaching）的核心理论基石。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 9–10)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
 
 从认知潜能诊断与干预设计的双重视角审视，最近发展区界定了最富成效的学习发生[[Champ|场域]]。
 
 > [!concept-lens] 概念透镜
-> - **含义** ZPD 指向那些尚未完全成熟但正处于萌发演进状态的心智机能；它度量的不是孤立个体的静态认知存量，而是个体在社会中介支持网络下能够达到的最高功能上限。
+> - **含义** ZPD 指向那些尚未完全成熟但正处于萌发演进状态的心智机能；它度量的是个体在社会中介支持网络下能够达到的最高功能上限，有别于孤立个体的静态认知存量。
 > - **用途** 瓦解以静态纸笔测试为唯一标准的智力评估[[Paradigm|范式]]，为[[Dynamic Assessment|动态评估]]（Dynamic Assessment）、差异化[[Scaffolding|脚手架]]教学、自适应 AI [[AI Agent in Education|智能体]]微提示以及在职教师一对一精准辅导提供导航坐标。
 > - **边界** ZPD 必须以真实存在的社会符号互动或结构化支架为依托；若任务难度超出潜在水平上限，强行介入不仅无效，反而极易诱发认知负荷崩溃与[[Learned Helplessness|习得性无助]]。
 
@@ -108,7 +108,7 @@ updated: 2026-11-02
 [[World Bank|世界银行]]在开发[[Classroom Observation|课堂观察]]配套规程 Coach 时，将 ZPD [[Creativity|创造性]]地运用到教师微观实践改进中。
 
 > [!citation-card] 世界银行论基于最近发展区的教师精准循证辅导
-> 传统教师在职培训大多停留在脱离课堂的宽泛理论讲授，无法实质改变教学实践。有效的专业发展必须依托精准的课堂观察工具，为教师绘制涵盖文化、教学与社会情感维度的微观实践诊断画像。以此为基础，辅导员（Coaches）与校长能够准确定位每位教师的具体最近发展区，提供量身定制的一对一形成性支架与实战演练，彻底打通从观察诊断到实践跃升的闭环链条。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
+> 传统教师在职培训大多停留在脱离课堂的宽泛理论讲授，无法实质改变教学实践。有效的专业发展必须依托精准的课堂观察工具，为教师绘制涵盖文化、教学与社会情感维度的微观实践诊断画像。以此为基础，辅导员（Coaches）与校长能够准确定位每位教师的具体最近发展区，提供量身定制的一对一形成性支架与实战演练，彻底打通从观察诊断到实践提升的反馈回路链条。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
 >
 > *"Coach aims to reduce the gap between practice and evidence... A study of over 60 coaching programs found those designed to advance teaching practices also resulted in increased student learning. Professional development must monitor and provide actionable guidance for teachers to improve their practice within their specific zone of proximal development."*
 
@@ -138,14 +138,14 @@ updated: 2026-11-02
 
 ## 核心维度与运行机制
 
-最近发展区在学习空间中处于舒适区与挫败区之间的关键跃升通道。
+最近发展区在学习空间中处于舒适区与挫败区之间的关键提升通道。
 
 > [!feature] 三层发展空间模型
 > 1. **舒适区（Comfort Zone / Independent Level）** 学习者或受训教师无需任何外部协助即可独立、熟练完成的任务区间，主要巩固已自动化技能，缺乏认知促进张力。
-> 2. **最近发展区（Zone of Proximal Development, ZPD）** 独立操作尚感吃力，但在有经验者点拨、同伴协作、自适应 AI [[AI Agent in Education|智能体]]微提示或专业辅导员示范下能够成功跨越的区间。这是**学习与专业蜕变发生的最有效区域**。
+> 2. **最近发展区（Zone of Proximal Development, ZPD）** 独立操作尚感吃力，但在有经验者点拨、同伴协作、自适应 AI [[AI Agent in Education|智能体]]微提示或专业辅导员示范下能够成功跨越的区间。这是**学习与专业转变发生的最有效区域**。
 > 3. **挫败区 / 超载区（Frustration Zone / Out of [[Reach]]）** 任务难度严重脱离学习者现有经验基底，即便提供支架也无法理解，极易诱发认知超载、心理抗拒与[[Learned Helplessness|习得性无助]]。
 
-从动态过程审视，ZPD 的跃迁依赖[[Scaffolding|脚手架]]的精准介入与动态渐进衰减（Fading）。
+从动态过程审视，ZPD 的转向依赖[[Scaffolding|脚手架]]的精准介入与动态渐进衰减（Fading）。
 
 > [!logic-map]- 最近发展区与脚手架动态衰减（Fading）机制
 > ```mermaid
@@ -181,25 +181,25 @@ updated: 2026-11-02
 
 > [!concept-proposition] 命题一｜动态[[Scaffolding|脚手架]]在最近发展区内的适切介入与渐进衰减是高级心理机能内化的核心动力
 
-高级心理机能的生成并非个体孤立反思的产物，而是社会文化中介工具内化的必然结果。
+高级心理机能的生成是社会文化中介工具内化的必然结果，有别于个体孤立反思的产物。
 
 > [!concept-lens] 认知内化与中介机制
 > 探讨外部教学干预如何通过适度挑战与渐进式撤除，将人际间社会互动转化为个人内部的认知调节。
 
 > [!claim] Vygotsky (1978); Wood, Bruner and Ross (1976); [[Argument_Liu_2026_CHBR|Liu et al. (2026)]]
-> **支架介入与衰减驱动认知进阶** 学习发生的核心机制在于外部支持系统（教师、专家同伴或自适应 AI [[AI Agent in Education|智能体]]）将任务控制在学习者的最近发展区内。通过定向、简化自由度、维持方向、标记关键特征与专家示范等六大[[Scaffolding|脚手架]]功能，学习者得以完成超出独立能力的复杂认知操作。随着掌握度提升，脚手架的渐进撤除（Fading）促使外在社会中介转化为个体内在的自主言语与[[Metacognition|元认知]]调控，推动 ZPD 动态向上跃迁。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 9–10)]]
+> **支架介入与衰减驱动认知进阶** 学习发生的核心机制在于外部支持系统（教师、专家同伴或自适应 AI [[AI Agent in Education|智能体]]）将任务控制在学习者的最近发展区内。通过定向、简化自由度、维持方向、标记关键特征与专家示范等六大[[Scaffolding|脚手架]]功能，学习者得以完成超出独立能力的复杂认知操作。随着掌握度提升，脚手架的渐进撤除（Fading）促使外在社会中介转化为个体内在的自主言语与[[Metacognition|元认知]]调控，推动 ZPD 动态向上转向。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 9–10)]]
 
 ---
 
 > [!concept-proposition] 命题二｜基于微观观察诊断的定向辅导能够有效锚定成人在职学习的最近发展区
 
-ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年专业工作者的能力重塑。
+ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年专业从业者的能力重塑。
 
 > [!concept-lens] 教师专业发展与精准干预
 > 探讨为何传统脱产在职讲座普遍失效，以及如何通过课堂微观观察诊断为教师划定精准的在职进阶 ZPD。
 
 > [!claim] Popova et al. (2018); Kraft, Blazar and Hogan (2018); [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]
-> **微观画像驱动教师实践跃升** 传统教师培训往往采用“一刀切”的宏观理论灌输，因脱离每位教师具体的实践基线而全面失效。跨 60 项辅导项目的[[Meta-analysis|元分析]]与[[World Bank|世界银行]] Teach / Coach 规程实证表明：通过微观[[Observation Protocol|课堂观察规程]]（如 Teach 的 9 项要素、28 项微观行为）为教师生成细颗粒度诊断画像，能够准确定位教师在特定技能（如“提供具体反馈”或“启发[[Critical Thinking|批判性思维]]”）上的实际水平与潜在水平跨度。教研员或校长据此开展一对一微格演练与针对性反馈，显著提升教师课堂教学质量，并转化为 0.08–0.12 SD 的学生学业增益。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
+> **微观画像驱动教师实践提升** 传统教师培训往往采用“一刀切”的宏观理论灌输，因脱离每位教师具体的实践基线而全面失效。跨 60 项辅导项目的[[Meta-analysis|元分析]]与[[World Bank|世界银行]] Teach / Coach 规程实证表明：通过微观[[Observation Protocol|课堂观察规程]]（如 Teach 的 9 项要素、28 项微观行为）为教师生成细细节尺度诊断画像，能够准确定位教师在特定技能（如“提供具体反馈”或“启发[[Critical Thinking|批判性思维]]”）上的实际水平与潜在水平跨度。教研员或校长据此开展一对一微格演练与针对性反馈，显著提升教师课堂教学质量，并转化为 0.08–0.12 SD 的学生学业增益。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
 
 ---
 
@@ -266,7 +266,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > | **[[Dynamic Assessment\|动态评估]]（Dynamic Assessment）** | 采用“前测（独立基线）$\to$ 标准化线索提示 $\to$ 后测（迁移应用）”的三段式流程。 | 以受试者达成解决问题所需的**线索提示数量（Prompt Count）** 作为 ZPD 宽度的逆向指标。 |
 > | **自适应学习系统（[[AI Agent in Education\|AI Agent]] [[Intelligent Tutoring Systems\|ITS]]）** | 通过知识图谱与错因分析算法，动态推送掌握概率在 50%–70% 之间的挑战任务。 | 追踪知识点掌握度概率提升曲线与自适应支架撤销速率（Fading Rate）。 |
 > | **课堂协作支架设计** | 异质分组与[[Peer-Supported Learning\|同伴互助]]，确保组内存在能力稍高但认知差距适度的搭档。 | 课堂互动言语分析与认知参与度编码。 |
-> | **教师微观实践辅导（Coach 规程）** | 依据标准化[[Observation Protocol\|观察协议]]（如 Teach）评定教师各要素得分，匹配最近发展区实施微格演练。 | 教师微观教学行为等级跃升度与学生学业标准化增值。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, p. 3)]] |
+> | **教师微观实践辅导（Coach 规程）** | 依据标准化[[Observation Protocol\|观察协议]]（如 Teach）评定教师各要素得分，匹配最近发展区实施微格演练。 | 教师微观教学行为等级提升度与学生学业标准化增值。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, p. 3)]] |
 
 ---
 

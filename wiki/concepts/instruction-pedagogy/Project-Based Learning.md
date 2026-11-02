@@ -71,13 +71,13 @@ updated: 2026-11-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调从被动的陈述性知识接受转向以“真实项目交付与作品创造”为载体的深层认知参与，使知识学习与问题解决、设计反思深度交融。
-> - **用途** 用于解释探究驱动型教学对[[Higher-Order Thinking Skills\|高阶思维]]（[[Critical Thinking\|批判性思维]]、[[Divergent Thinking\|发散思维]]与综合[[Creativity\|创造力]]）的激活机制，并作为检验教育技术（如[[Generative Artificial Intelligence\|生成式人工智能]]）能否发挥认知杠杆潜能的教学情境调节[[Variable\|变量]]。
+> - **用途** 用于解释探究驱动型教学对[[Higher-Order Thinking Skills\|高阶思维]]（[[Critical Thinking\|批判性思维]]、[[Divergent Thinking\|发散思维]]与综合[[Creativity\|创造力]]）的激活机制，并作为检验教育技术（如[[Generative Artificial Intelligence\|生成式人工智能]]）能否发挥认知手段潜能的教学情境调节[[Variable\|变量]]。
 > - **边界** 区别于无指导的自由活动，也区别于仅以解决抽象问题为目的而无需交付制品的问题导向学习；在缺乏教师[[Scaffolding\|脚手架]]或学生自我调节能力偏低时，易诱发认知过载或无序交互。
 
 > [!boundary]- 概念边界
 > - 不等于 **问题导向学习（[[Problem-Based Learning]]）** — 两者同属建构主义[[Inquisitive Mode of Governance|探究模式]]并常共享“PBL”简称，但终局产出不同：问题导向学习聚焦于对特定劣构临床/理论问题的合理解释与诊断模型，不强制要求产出物化制品；项目式学习则必须围绕驱动问题开发出具体、可公开展示的产品或解决方案原型（Product/Artifact）。
 > - 不等于 **传统手工[[Homework\|作业]]/附加活动（Hands-on Activity / Dessert Project）** — 传统教学往往把项目当作单元教学结束后的“甜点（Dessert Project）”，仅用于复述已知知识；真实的项目式学习是学习本身的“主菜（Main Course Project）”，核心知识的建构与高阶思维的习得直接发生在探究与制作流程中。
-> - 不等于 **无指导[[Discovery Learning\|发现学习]]（Pure Discovery Learning）** — 项目式学习并非任由学生盲目尝试，而是需要严密的[[Task Structure\|任务结构]]设计、阶段性里程碑检查（Milestones）、[[Peer Assessment|同伴互评]]与教师认知脚手架。
+> - 不等于 **无指导[[Discovery Learning\|发现学习]]（Pure Discovery Learning）** — 项目式学习是需要严密的[[Task Structure\|任务结构]]设计、阶段性里程碑检查（Milestones）、[[Peer Assessment|同伴互评]]与教师认知脚手架，有别于任由学生盲目尝试。
 
 > [!citation-card] 项目式学习的定义与认知定位
 > 项目式学习强调以学习者为中心、探究驱动的活动，学生通过参与现实世界的项目来[[Constructed Knowledge\|建构知识]]。在此情境下，生成式人工智能可充当有价值的认知伙伴，提供多元资源与多维视角，赋能学生自主探索和解决复杂问题。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
@@ -141,7 +141,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 项目式学习的历史演进
-> - **1918 — 设计教学法奠基** 克伯屈（William H. Kilpatrick）发表经典论文《设计教学法》（*The Project Method*），将[[John Dewey\|杜威]]（John Dewey）的[[Pragmatic Paradigm\|实用主义]]教育哲学和“[[Learning by Doing\|从做中学]]”（Learning by Doing）理念具象化为以学生有目的活动为核心的教学形态。
+> - **1918 — 设计教学法奠基** 克伯屈（William H. Kilpatrick）发表经典文章《设计教学法》（*The Project Method*），将[[John Dewey\|杜威]]（John Dewey）的[[Pragmatic Paradigm\|实用主义]]教育哲学和“[[Learning by Doing\|从做中学]]”（Learning by Doing）理念具象化为以学生有目的活动为核心的教学形态。
 > - **1990s–2000s — 认知科学与[[Constructivist Paradigm\|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心[[Knowledge Building Theory|知识建构]]、深层探究和[[Metacognition\|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
 > - **2020s — 智能[[Technology Infusion\|技术整合]]与认知协同拓展** [[Generative Artificial Intelligence\|生成式人工智能]]与智能化[[Scaffolding\|脚手架]]深度融入项目式学习，智能工具转型为学习者的认知伙伴，大幅降低了原型迭代与信息综合的门槛，进一步释放了复杂探究的育人价值。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 

@@ -106,7 +106,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 概念演变
 > - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与实践》，确立实践[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
-> - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位研究第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]
 
 ---
 

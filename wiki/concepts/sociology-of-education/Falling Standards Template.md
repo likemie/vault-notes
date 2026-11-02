@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!dev-timeline] 概念演变
-> - **2004 — 概念奠基** Paul Warmington 与 Roger Murphy 在《British Journal of Educational Studies》发表里程碑论文，系统剖析英国媒体对 A-level 考试成绩报道，确立“水平下降模板”的[[Construct\|理论构念]]。
+> - **2004 — 概念奠基** Paul Warmington 与 Roger Murphy 在《British Journal of Educational Studies》发表里程碑文章，系统剖析英国媒体对 A-level 考试成绩报道，确立“水平下降模板”的[[Construct\|理论构念]]。
 > - **2011 — 失败者故事模型的深化** Shanahan 等人提出叙事政策框架（NPF），将模板细化为“赢家故事”与“输家故事”的对抗结构。
 > - **2015 — 国际扩散与公学危机研究** Athina Baroutsis 探讨澳大利亚报刊对国家评估项目（[[NAPLAN]]）的报道，证实该模板具有跨国普遍性。
 > - **2018 — 跨国数据治理中的机制升华** [[Paul Morris]] 与 Sue Grey 将该模板置于跨国大规模评估与[[Mediatised Governance\|媒介化治理]]的核心交汇点，揭示其如何协同[[Policy Avoidance\|政策规避]]导致民主监督失效。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]

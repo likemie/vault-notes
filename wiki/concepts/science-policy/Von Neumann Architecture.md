@@ -9,7 +9,7 @@ aliases:
   - 存储程序架构
   - Stored-program architecture
   - Von Neumann computer architecture
-summary: "约翰·冯·诺依曼于1945年提出的经典通用数字计算机体系结构范式。以存储程序控制与运算器、控制器、存储器及输入输出五大部件为核心，实现软硬件解耦。后摩尔时代正向类脑神经形态与存内计算等非冯架构演进。"
+summary: "约翰·冯·诺依曼于1945年提出的经典通用数字计算机体系结构范式。以存储程序控制与运算器、控制器、存储器及输入输出五大部件为核心，实现软硬件脱钩。后摩尔时代正向类脑神经形态与存内计算等非冯架构演进。"
 type: concept
 domain: "science-policy"
 related_count: 22
@@ -63,7 +63,7 @@ updated: 2026-11-02
 > 冯·诺依曼架构（Von Neumann Architecture），又称存储程序计算机体系结构（Stored-Program Computer Architecture），是数学家约翰·冯·诺依曼（John von Neumann）于 1945 年在《离散[[Variable|变量]]自动电子计算机报告书的第一份草案》（*First Draft of a Report on the EDVAC*）中系统阐述的通用电子数字计算机体系结构[[Paradigm|范式]]。其核心原则为“存储程序与程序控制”——将预先编制的计算程序指令与运算数据同等以二进制代码形式存放在统一的随机存取内部存储器中，由中央处理器顺序提取指令并自动译码执行；该架构在物理与逻辑上由运算器、控制器、存储器、输入设备和输出设备五大基本部件构成。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向一种将物理硬件执行逻辑与逻辑程序指令彻底解耦的通用计算体系结构设计。
+> - **含义** 指向一种将物理硬件执行逻辑与逻辑程序指令彻底脱钩的通用计算体系结构设计。
 > - **用途** 帮助科技政策学者与技术史学家理解，二战后早期基础计算知识的非专有公开扩散如何打破了军事保密壁垒，将计算机从专用的“硬线连线计算机器”转变为支撑全社会千行百业的[[General Purpose Technology|通用目的技术]]（GPT）。
 > - **边界** 传统冯·诺依曼架构强调指令与数据共享同一总线与内存空间的串行处理；在当代大规模并行神经网络计算与超高吞吐场景下，易面临总线带宽与内存延迟瓶颈。
 
@@ -121,16 +121,16 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题二｜软硬件彻底解耦为[[General Purpose Technology|通用目的技术]]收敛与下游用户端的大规模[[Co-invention|共同发明]]创造了物理载体
-> **探讨维度　模块化分工与[[General Purpose Technology|通用目的技术]]收敛** 探讨存储程序架构如何实现算法与硬件的分离，从而支撑全社会范围的流程再造。
+> [!concept-proposition] 命题二｜软硬件彻底脱钩为[[General Purpose Technology|通用目的技术]]汇合与下游用户端的大规模[[Co-invention|共同发明]]创造了物理载体
+> **探讨维度　模块化分工与[[General Purpose Technology|通用目的技术]]汇合** 探讨存储程序架构如何实现算法与硬件的分离，从而支撑全社会范围的流程再造。
 
 > [!claim] Mowery, D. C.
-> **统一硬件标准赋能软件独立性与用户端[[Co-invention|共同发明]]** 莫厄里指出，在冯·诺依曼架构确立之前，每一套计算逻辑都意味着定制的物理硬件搭建；而存储程序原则将“通用的硬件物理平台”与“动态可变的应用软件程序”彻底解耦。这一模块化分离使得计算机硬件能够收敛于标准化的冯·诺依曼通用逻辑，进而为下游企业（如美洲航空公司在 [[Sage]] 基础上的 SABRE 订票系统开发）提供了无需重新设计硬件即可开展海量业务流程创新的统一载体。标准化硬件平台激发了广泛的用户端[[Co-invention|共同发明]]，使信息技术最终完成了向全社会[[General Purpose Technology|通用目的技术]]的跃迁。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 178–180, 185)]]
+> **统一硬件标准赋能软件独立性与用户端[[Co-invention|共同发明]]** 莫厄里指出，在冯·诺依曼架构确立之前，每一套计算逻辑都意味着定制的物理硬件搭建；而存储程序原则将“通用的硬件物理平台”与“动态可变的应用软件程序”彻底脱钩。这一模块化分离使得计算机硬件能够汇合于标准化的冯·诺依曼通用逻辑，进而为下游企业（如美洲航空公司在 [[Sage]] 基础上的 SABRE 订票系统开发）提供了无需重新设计硬件即可开展海量业务流程创新的统一载体。标准化硬件平台激发了广泛的用户端[[Co-invention|共同发明]]，使信息技术最终完成了向全社会[[General Purpose Technology|通用目的技术]]的转向。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 178–180, 185)]]
 
 ---
 
 > [!concept-proposition] 命题三｜超越冯·诺依曼架构是非冯计算[[Paradigm|范式]]变革与后摩尔微电子战略的核心突破口
-> **探讨维度　后摩尔架构重塑与稳健处理[[Paradigm|范式]]** 探讨面对“内存墙”与能耗极限，国家科技战略如何引导学术界与工业界向非冯·诺依曼计算架构跃迁。
+> **探讨维度　后摩尔架构重塑与稳健处理[[Paradigm|范式]]** 探讨面对“内存墙”与能耗极限，国家科技战略如何引导学术界与工业界向非冯·诺依曼计算架构转向。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
 > **新型稳健非冯架构与全栈软硬件[[Co-Design|协同设计]]** [[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，随着传统晶体管微缩逼近物理极限，基于传统冯·诺依曼架构的处理器面临严重的数据传输带宽与能耗瓶颈（即“内存墙”），多达 80% 的系统能耗消耗在中央处理器（CPU）/图形处理器（GPU）与离散存储器之间的高频数据搬运上。战略将“新型稳健处理架构”（Processing Architectures, 1.3）列为第一重大突破目标，全面部署向“超越冯·诺依曼”（Beyond von Neumann）范式演进：通过支持类脑神经形态计算（Neuromorphic Computing）、存内计算（In-Memory Computing, IMC）、模拟与光子计算（Photonic Computing）以及专用硬件加速器，在物理层将计算单元直接嵌入存储阵列内部；同时要求将新型微架构与软硬件[[Co-Design|协同设计]]、[[Heterogeneous Integration|异构集成]]（[[Heterogeneous Integration]]）及[[Hardware Security|硬件安全]]从底层全面绑定，重构自下而上的编译器、运行时环境与算法堆栈。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 16–17)]]
@@ -141,7 +141,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
 > | **知识公地与技术扩散** | 联邦资助的非专有技术图纸公开打破军事垄断，催生 IAS 派生计算机家族 | 战后计算科学建制化与早期国防资助 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 171–174)]] |
-> | **软硬件解耦与通用化** | 存储程序架构确立通用计算基座，支撑下游海量软件共同发明 | 通用目的技术（GPT）演化与产业组织分工 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 178–180, 185)]]; Bresnahan and Trajtenberg (1995) |
+> | **软硬件脱钩与通用化** | 存储程序架构确立通用计算基座，支撑下游海量软件共同发明 | 通用目的技术（GPT）演化与产业组织分工 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 178–180, 185)]]; Bresnahan and Trajtenberg (1995) |
 > | **超越传统架构与非冯范式** | 破解内存墙与能耗瓶颈，部署存内计算、类脑神经形态与软硬件协同设计 | 后摩尔时代微电子战略与先导计算研究 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 16–17)]] |
 
 ---
@@ -161,7 +161,7 @@ updated: 2026-11-02
 > > 探讨《EDVAC 报告》以冯·诺依曼单一署名公开发表所引发的优先权历史纷争。
 > >
 > > - **埃克特与莫奇利阵营（反方）** ENIAC 的主要发明人 J. 普雷斯珀·埃克特（J. Presper Eckert）与约翰·莫奇利（John Mauchly）指出，存储程序的核心概念在摩尔学院团队内部讨论时已萌芽；报告以冯·诺依曼单人署名公开出版，不仅掩盖了工程团队的原创贡献，更导致法院以“已进入公有领域”为由判决该架构专利无效。
-> > - **科技政策与演化派辩护（正方）** Mowery 等学者指出，正是由于该报告未被申请为排他性专利、而是作为无偿公共品公开发行，才避免了战后微电子硬件技术被初创公司或单一巨头垄断封锁，构成了美国计算工业高速扩散的制度前提。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 173–174)]]
+> > - **科技政策与演化派辩护（正方）** Mowery 等学者指出，正是由于该报告未被申请为排他性专利、是作为无偿公共品公开发行，才避免了战后微电子硬件技术被初创公司或单一巨头垄断封锁，构成了美国计算工业高速扩散的制度前提。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 173–174)]]
 >
 > > [!axis] 冯·诺依曼瓶颈（Von Neumann Bottleneck）与内存墙
 > > 探讨传统架构在现代极高算力吞吐场景下的物理与能耗极限。
@@ -190,7 +190,7 @@ updated: 2026-11-02
 > [!entry-map] 条目关联
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
-> | [[General Purpose Technology]] | Concept | 冯·诺依曼架构通过解耦软硬件奠定了信息技术作为通用目的技术的硬件标准。 |
+> | [[General Purpose Technology]] | Concept | 冯·诺依曼架构通过脱钩软硬件奠定了信息技术作为通用目的技术的硬件标准。 |
 > | [[Co-Design]] | Concept | 超越冯·诺依曼架构的关键方法论，要求算法、编译器与底层非冯微架构同步协同开发。 |
 > | [[Heterogeneous Integration]] | Concept | 异构集成先进封装技术为非冯存算一体芯片提供三维高密度互连物理支撑。 |
 > | [[Curiosity-Driven Research]] | Concept | 类脑神经形态材料与自旋电子学等非冯物理机理来源于前沿好奇心探索。 |

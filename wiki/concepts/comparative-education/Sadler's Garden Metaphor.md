@@ -79,7 +79,7 @@ updated: 2026-11-02
 > *Probably, as Sadler noted, the gathered cuttings will not transform into a 'living plant' when they are implanted in a new soil, but that doesn't mean that there are no effects. Even a dead plant carries micro organisms that can alter an ecosystem, and as comparativists we need to understand how the new kids strolling through the global garden are affecting ours ([[Argument_Beech_2009_GlobalGarden|Beech, 2009b: 356]]).*
 
 > [!boundary]- 概念边界
-> - 不等于机械反借用主义（Anti-borrowing Pessimism） — 萨德勒并非主张拒绝一切外国考察，而是反对抽离社会活态脉络的技术主义移植，倡导注重本土精神与传统的“实地[[Rich and Thick Description|深描]]”。
+> - 不等于机械反借用主义（Anti-borrowing Pessimism） — 萨德勒是反对抽离社会活态脉络的技术主义移植，倡导注重本土精神与传统的“实地[[Rich and Thick Description|深描]]”，有别于主张拒绝一切外国考察。
 > - 不等于单纯的本土杂糅（Hybridization） — 比奇的生态学重构强调外来要素对本土生态具有不可逆的“感染与突变”效应，哪怕宏观制度架构宣布流产，微观主体的日常实践与话语逻辑已被深刻重塑。
 
 ---
@@ -96,13 +96,13 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **漫步者主体的多元化与跨国化** 19 世纪的漫步者主要是受政府指派建立国家学制的政治精英（如萨米恩托、霍拉斯·曼、明治考察团）；21 世纪的漫步者扩散为携带商业方案的咨询专家、大学创收机构、跨国教育集团与超国家联盟。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]
-> - **土壤与情境的不可剥离性** 教育实践深植于特定社会的阶级结构、文化传统与政治经济现实，绝非可在实验室中随意[[Assemblage|组装]]的标准化技术拼盘。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 341)]]
+> - **土壤与情境的不可剥离性** 教育实践深植于特定社会的阶级结构、文化传统与政治经济现实，并不可在实验室中随意[[Assemblage|组装]]的标准化技术拼盘。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 341)]]
 > - **残枝与外来微生物的不可逆扩散** 外来改革在宏观层面的政策流产（枯萎），往往伴随着量化考核指标、商业教材外包与问责修辞等“微生物”在微观层面的持续寄生与本土繁殖。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
 > - **[[Recontextualization|再情境化]]过程中的微观现实断裂** 抽象方案在下沉至地方学校和课堂时，往往引发本土教师对虚假自主的恐慌、课程失序与意料之外的次生灾害。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
 
 ---
 
-> [!concept-proposition] 命题一｜跨国[[Policy Borrowing|政策借用]]的实质后果不在于外来方案整体能否扎根，而在于其携带的评价标准与规训技术对本土生态的不可逆侵蚀
+> [!concept-proposition] 命题一｜跨国[[Policy Borrowing|政策借用]]的实质后果在于其携带的评价标准与规训技术对本土生态的不可逆侵蚀，有别于外来方案整体能否扎根
 > **探讨维度　微观生态变异与隐性规训** 探讨外来教育模型在遭遇本土抵制或事实失败后，其残余的技术官僚逻辑与评价工具如何持续重塑基层学校微观生态。
 
 > [!claim] [[Jason Beech|Beech, J.]]
@@ -114,7 +114,7 @@ updated: 2026-11-02
 > **探讨维度　行动者扩散与[[Pluri-Scalar Governance|多标度治理]]** 探讨漫步主体的多元化如何将传统的双边国家外交互鉴，转变为超越主权地理容器的跨国资本与多标度治理网络。
 
 > [!claim] Beech, J.
-> **漫步者主体由国家官僚向跨国复合实体的跃迁** 比奇论证，萨德勒 1900 年设想的前提是“国家作为一个整体去别国花园采撷”；但在当代全球化情境下，民族国家的主权容器已被穿透。像[[Nord Anglia Education|诺德安达]]（Nord Anglia）和[[GEMS Education|环球教育管理系统]]（GEMS）这样的跨国营利性集团，借由[[Public-Private Partnership|公私伙伴关系]]在海外成片运营学校并直接向多国政府兜售政策咨询；大学在创收驱动下组建发展咨询部门倾销效能方案；超国家联盟（如[[EU|欧盟]]）推行软性指标控制。漫步于世界花园中的新型实体已拥有跨国流动的资本与权力，这要求比较教育学必须彻底抛弃[[Methodological Nationalism|方法论民族主义]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]
+> **漫步者主体由国家官僚向跨国复合实体的转向** 比奇论证，萨德勒 1900 年设想的前提是“国家作为一个整体去别国花园采撷”；但在当代全球化情境下，民族国家的主权容器已被穿透。像[[Nord Anglia Education|诺德安达]]（Nord Anglia）和[[GEMS Education|环球教育管理系统]]（GEMS）这样的跨国营利性集团，借由[[Public-Private Partnership|公私伙伴关系]]在海外成片运营学校并直接向多国政府兜售政策咨询；大学在创收驱动下组建发展咨询部门倾销效能方案；超国家联盟（如[[EU|欧盟]]）推行软性指标控制。漫步于世界花园中的新型实体已拥有跨国流动的资本与权力，这要求比较教育学必须彻底抛弃[[Methodological Nationalism|方法论民族主义]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]
 
 ---
 

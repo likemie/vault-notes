@@ -76,7 +76,7 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 该概念不仅指向营利性教育产品和服务的跨国生产与消费，也指向一套关于教育效能与创新的新自由主义[[Discourse|话语]]系统和软治理技术。
 > - **用途** 帮助研究者识别教育改革背后多元私营行动者与跨国组织的网络关系，揭示数据化评价、教育科技与技能原子化等政策工具如何重构地方教育生态。
-> - **边界** 它不限于传统公共教育的狭义私有化形式（如[[Charter Schools|特许学校]]或[[School Vouchers|教育券]]），而是一个涵盖教育供给、研究、政策论证和认知想象被市场逻辑全面渗透的广泛场域（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
+> - **边界** 它不限于传统公共教育的狭义私有化形式（如[[Charter Schools|特许学校]]或[[School Vouchers|教育券]]），是一个涵盖教育供给、研究、政策论证和认知想象被市场逻辑全面渗透的广泛场域（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
 
 > [!citation-card] 关键表述
 > 教育已成为一项自身的经济事业，在这个事业中，无数行动者生产、交换和消费教育商品与服务，且通常是以营利为基础的。
@@ -98,7 +98,7 @@ updated: 2026-11-02
 > - **多重经济理性** 在经济化、市场化、私有化、商品化和金融化等多重理性交织中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。
 > - **独立的规则系统** 由自身的过程集合、规则系统和社会力量构成，作用于教育服务和商品的生产、供给和需求的生成中（Verger et al., 2016, p. 4, cited in）。
 > - **多样化的行动者网络** 包含跨国公司、慈善基金会、社会企业、数据经纪人以及私营教育提供者等，通过数字平台、行业联盟和复杂连结构成跨国政策影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 43]]）。
-> - **教育想象的[[Discourse|话语]]生产** 不限于物质的商业交易，而是通过关于“技能缺口”、“[[Personalized Learning|个性化学习]]”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
+> - **教育想象的[[Discourse|话语]]生产** 不限于物质的商业交易，是通过关于“技能缺口”、“[[Personalized Learning|个性化学习]]”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
 > - **全球渗透性与软治理** 通过以经济为基础的概念（如效率、竞争），以及国际组织（如 [[OECD]]、[[EU|欧盟]]）的标准化测量与基准比较（Benchmarking），全球渗透至各国的教育改革议程中（；[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–9]]）。
 > - **[[Corporate Education\|企业教育]]与技能采购市场** 企业培训是 GEI 极其庞大的板块。欧盟三分之一至三分之二的企业培训已外包给第三方提供商。该市场由在线学习平台、管理咨询公司和 IT 巨头垄断，并通过证书认证体系确立了事实上的准入标准（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp. 190–193]]）。
 > - **技能原子化与测量驱动** 强调将复杂的、整体性的教育实践（如跨学科学习）拆解为细小的、可标准化的、具有明确经济实用价值的技能单元（如 [[21st Century Skills and Competencies Discourse\|21世纪技能]] 或横向能力），使之适合进行[[External Auditor\|外部审计]]、比较和市场化交易（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
@@ -158,7 +158,7 @@ updated: 2026-11-02
 > 数字化之所以在 GEI 中表现出不可逆的强力扩张，是因为它受到三重利益机制的相互强化：首先是商业巨头追求的高额**利润（Profit）**；其次是由国际组织和慈善机构推动的、作为道德合法性外衣的教育**正义与平等（Justice & Equality）** 叙事；最后是教师**专业发展（Professional Development）** 对[[Learning Analytics\|学习分析]]和个性化算法的需求。三者螺旋上升，导致“去数字化”在现实中近乎不可能（[[Argument_Amos_2022_Springer\|Amos, 2022, pp. 56–57]]）。
 
 > [!claim] <Jornitz, E., & Klinge, A.>
-> GEI 中的数字学习平台（如专有软件、App）并不是中立的工具，而是承载了特定资本主义企业理念的“硅谷帝国主义”（Silicon Valley imperialism）载体。它们通过代码设计限制了教学的可能性，将[[Knowledge Production\|知识生产]]的手段集中于少数跨国技术寡头手中，在全球推广标准化的学习行为模式，否认地方文化与课程体系的多样性（[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
+> GEI 中的数字学习平台（如专有软件、App）并是承载了特定资本主义企业理念的“硅谷帝国主义”（Silicon Valley imperialism）载体，有别于中立的工具。它们通过代码设计限制了教学的可能性，将[[Knowledge Production\|知识生产]]的手段集中于少数跨国技术寡头手中，在全球推广标准化的学习行为模式，否认地方文化与课程体系的多样性（[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
 
 ---
 
@@ -187,7 +187,7 @@ updated: 2026-11-02
 > [!critique] 外部批评
 > - **教育目标偏离与公共性弱化** GEI 驱使教育改革的立论基础过度建立在经济理性之上。当绩效测量与商业资本成为核心动力时，教育追求的民主素养、社会正义以及个人自治等非经济目标被边缘化，公共教育逐渐失去其公共性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 43]]）。
 > - **数字化锁定的无可逃避性** EdTech 依靠“获取正义（Justice & Equality）”的道德叙事来推广数字平台，并在客观上创造了对数据分析师和培训软件的新型市场依赖。即使数字技术带来了数字鸿沟和教学关系的异化，其自身的多重锁定机制也使得“去数字化”或回归传统教学路径变得近乎不可能（[[Argument_Amos_2022_Springer\|Amos, 2022, p. 57]]）。
-> - **硅谷帝国主义与教学假设标准化** 少数科技巨头制造的专有软件并非中立工具。它们凭借全球市场占有率和算法规范，将特定商业主体的教学假设在全球范围内强制同构。这种流线化、标准化的技术不仅垄断了[[Knowledge Production\|知识生产]]手段，亦严重否定了地方性的课程逻辑和文化差异（[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
+> - **硅谷帝国主义与教学假设标准化** 少数科技巨头制造的专有软件有别于中立工具。它们凭借全球市场占有率和算法规范，将特定商业主体的教学假设在全球范围内强制同构。这种流线化、标准化的技术不仅垄断了[[Knowledge Production\|知识生产]]手段，亦严重否定了地方性的课程逻辑和文化差异（[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
 
 ---
 

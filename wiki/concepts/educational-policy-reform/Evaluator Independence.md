@@ -91,16 +91,16 @@ updated: 2026-11-02
 > [!concept-lens] 概念透镜
 > - **含义** 确立评估主体与被评估对象之间的结构性利益隔离，破除商业利益、学术声誉与研究发现之间的结盟机制。
 > - **用途** 识别并剔除研发者偏倚（Developer Bias）、自编贴合测验偏倚与[[Hawthorne Effect\|霍桑效应]]，为公共财政大规模采购提供客观可信的证据门槛。
-> - **边界** 独立性并非完全排除研发者；研发者通常需要深度参与方案理论阐述、师资培训与[[Implementation Fidelity\|实施保真度]]监控，但严禁干涉[[Random Assignment\|随机化]]分配、主效应测量与统计分析。
+> - **边界** 独立性并不完全排除研发者；研发者通常需要深度参与方案理论阐述、师资培训与[[Implementation Fidelity\|实施保真度]]监控，但严禁干涉[[Random Assignment\|随机化]]分配、主效应测量与统计分析。
 
 > [!citation-card] 独立评估的防偏倚核心价值
-> 评估者独立性是防止[[Evidence-Based Education\|循证教育]]沦为商业课程推销与学术声誉合谋的核心安全阀。当且仅当一个项目能在没有原作者悉心呵护、由持怀疑态度的独立团队在常态学校中成功复制时，其因果有效性才真正具备向全社会推广的公信力。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
+> 评估者独立性是防止[[Evidence-Based Education\|循证教育]]沦为商业课程推销与学术声誉合谋的核心安全阀。当且仅当一个项目能在没有原撰写者悉心呵护、由持怀疑态度的独立团队在常态学校中成功复制时，其因果有效性才真正具备向全社会推广的公信力。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
 >
 > *Evaluator independence requires that [[Efficacy Trial\|Efficacy Trials]] be conducted by researchers with no financial, intellectual property, or personal ties to program developers. It protects evidence systems against developer bias, selective outcome reporting, and artificially inflated effect sizes.*
 
 > [!boundary]- 概念边界
 > - **不等于内部评估者与督导团队（Internal Evaluators）** 内部评估重在形成性改进与课程迭代，受制于组织生存利益，无法提供总结性因果效度的外部公信力。
-> - **不等于单纯的利益冲突披露（[[Conflict of Interest in Research\|conflict of interest]] Disclosure, COI）** 仅在论文末尾声明潜在利益冲突并不能消除自编测验偏好或[[Winnowing\|数据筛选]]倾向，必须实现研究实施主体的组织与财务实体隔离。
+> - **不等于单纯的利益冲突披露（[[Conflict of Interest in Research\|conflict of interest]] Disclosure, COI）** 仅在文章末尾声明潜在利益冲突并不能消除自编测验偏好或[[Winnowing\|数据筛选]]倾向，必须实现研究实施主体的组织与财务实体隔离。
 > - **不适用于早期概念验证阶段（[[Proof of Concept Programs\|proof of concept]]）** 在课程初创与原型试验期，研发者的高度介入有助于快速修正教学法设计；独立评估主要适用于成熟干预的效力（Efficacy）与实效（Effectiveness）检验。
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-11-02
 > |:---|:---|:---|:---|
 > | **[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）** | **强制要求** 设立评估者专家库（Panel of Evaluators）竞标委托；独立签署三方资助协议；强制规定随机分配、主指标数据采集、统计分析与报告撰写必须全部由独立评估者完成。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]] | 开发者拒绝独立评估则直接取消资助；自评研究不予采纳。 | **极高（结构性切断经济与人际关联）** |
 > | **[[Blueprints for Healthy Youth Development\|健康青年发展蓝图]]（Blueprints）** | **强制要求** 最高评级（Model Plus）必须包含至少 1 项由无经济与研发关联的独立团队完成的高质量随机对照试验（RCT）复制。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]] | 仅有开发者自评的研究，即使设计无可挑剔，最高只能评为 Model 或 Promising。 | **极高（严格防范利益冲突）** |
-> | **[[National Dropout Prevention Center\|国家辍学预防中心]]（NDPC）** | **原则性要求** 明确要求研究须由独立于开发者的评估者完成。 | 实践中准入门槛较为包容，依赖作者自述。 | **适度（实践倡导型）** |
+> | **[[National Dropout Prevention Center\|国家辍学预防中心]]（NDPC）** | **原则性要求** 明确要求研究须由独立于开发者的评估者完成。 | 实践中准入门槛较为包容，依赖撰写者自述。 | **适度（实践倡导型）** |
 > | **[[What Works Clearinghouse\|强效清算中心]]（WWC）** | **未设强制要求** 只要研究满足因果设计（低流失 RCT / 基线等值准实验设计 QED），允许全部由开发者团队完成。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 26–27)]] | 开发者自评研究可直接获得最高因果评级（Meets Without Reservations）。 | **中立（仅审查方法技术指标）** |
 > | **[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）** | **未设强制要求** 允许开发者自评研究进入元分析，依赖样本加权与实质重要性门槛综合。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]] | 开发者自评研究可作为支撑 Strong Evidence 的核心证据。 | **宽容（面临角色重叠与声誉偏倚审思）** |
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加利福尼亚儿童福利清算所]]（CEBC）** | **未设强制要求** 聚焦研究设计、同行评审与 12 个月随访期，不要求评估者与开发者完全隔离。 | 只要随访期达标即可授予 Well-Supported。 | **临床导向（重随访轻身份）** |
@@ -173,7 +173,7 @@ updated: 2026-11-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **研发者自评偏倚** | 开发者自评平均夸大效应量 50%–100%，自编测验与[[Hawthorne Effect\|霍桑效应]]是主要诱因 | 证据审查标准制定、[[Meta-analysis\|元分析]]文献筛选与偏倚校正 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]; Cheung and Slavin (2016) |
-> | **三方协议制度解耦** | 必须由独立资助方直接竞标并委托评估团队，彻底切断对开发者的财务与人事依附 | 国家级公共科研基金管理、大型干预招标机制设计 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 50–51)]] |
+> | **三方协议制度脱钩** | 必须由独立资助方直接竞标并委托评估团队，彻底切断对开发者的财务与人事依附 | 国家级公共科研基金管理、大型干预招标机制设计 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 50–51)]] |
 > | **四核心环节控制权** | 随机分组、数据采集、统计分析与全网公开发布四项核心权责必须由独立方掌控 | 随机对照试验方案设计与国家教育数据库（NPD）对接 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 53)]] |
 > | **破解科学复现危机** | 制度化第三方独立评估是消除虚高、保障教育科研在真实课堂可复现的根本制度基石 | 循证政策立法（[[Every Student Succeeds Act\|ESSA]]）、清算中心准入标准与大规模规模化推广 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]; Borman et al. (2007) |
 
@@ -216,7 +216,7 @@ updated: 2026-11-02
 > |---|---|---|---|---|---|---|
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 50–51)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助的 95 项中小学实证评估 | 三方独立资助协议与专家库竞标模式 | [[Randomised Controlled Trials\|RCT]] 采纳比例与[[EEF Padlock Security Rating\|挂锁安全评级]]（Padlock Rating） | **89%** 项目采用严格 RCT；**85%** 获得 3 锁及以上高安全评级（流失率 $< 30\%$） | 统计质量极高 | 证实三方独立委托制能从源头保障研究设计的最高因果严谨性 |
 > | Boulay et al. (2018)，引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 50)]] | 美国联邦 [[Investing in Innovation Program\|i3]] 计划 19 项评估研究 | 法律规定独立性但由开发者自聘评估机构 | [[What Works Clearinghouse\|WWC]] 最高无保留因果标准（Meets Without Reservations）达标率 | 仅 **68%**（13/19 项）达到 WWC 最高标准；大量项目妥协为 [[Quasi-Experimental Designs\|QED]] 设计 | 组间差异显著 | 证明缺乏三方财务隔离会导致评估团队妥协于开发者偏好 |
-> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全球 10 家权威循证清算中心（WWC、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]、[[Best Evidence Encyclopedia\|BEE]]、EEF 等） | 跨机构证据准入标准与独立性审查规约比较分析 | 独立评估者硬性要求覆盖率及自评效应量偏倚 | 仅 Blueprints 与 EEF 建立刚性独立评估否决门槛；自评研究效应量系统性虚高 **50%–100%+** | 跨审查机构普遍存在 | 揭示出全球清算中心在防范研发者偏倚上的制度性分化与治理漏洞 |
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全球 10 家权威循证清算中心（WWC、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]、[[Best Evidence Encyclopedia\|BEE]]、EEF 等） | 跨机构证据准入标准与独立性审查规范比较分析 | 独立评估者硬性要求覆盖率及自评效应量偏倚 | 仅 Blueprints 与 EEF 建立刚性独立评估否决门槛；自评研究效应量系统性虚高 **50%–100%+** | 跨审查机构普遍存在 | 揭示出全球清算中心在防范研发者偏倚上的制度性分化与治理漏洞 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 CSR、i3/EIR 及 EEF 30 年干预评估项目库（涵盖 [[Success for All\|SFA]]、DI 等） | [[Best Evidence Synthesis\|最佳证据综合]]与多中心纵向评估复现性对比 | 独立第三方评估复现率与[[External Validity\|外部效度]] | 经历外部独立 RCT 检验（如 Borman et al. 2007）的项目在全美 1,000+ 所学校中展现出持续稳健的学业增益 | 多中心一致显著 | 确立了外部独立复制对打破研发者自评争议、确立终极循证公信力的决定性作用 |
 
 ---
@@ -247,6 +247,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统比对全球 10 家循证清算中心对独立评估者的准入规约，实证分析开发者自评导致的[[Effect Size\|效应量]]夸大现象。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统比对全球 10 家循证清算中心对独立评估者的准入规范，实证分析开发者自评导致的[[Effect Size\|效应量]]夸大现象。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英国 [[Education Endowment Foundation\|EEF]] 评估者专家库、三方资助协议及 NPD 国家客观统考直接对接的制度化独立评估模式。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 探讨课程研发者在循证评级体系中的角色定位，以及大规模第三方独立评估与外部复制对破除[[Replication in Education Research\|复现危机]]的决定性意义。

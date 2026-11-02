@@ -107,7 +107,7 @@ updated: 2026-11-02
 
 > [!feature] [[International Baccalaureate|国际文凭]]的三类课程载体
 > - **六学科与单科深度** 语言与文学、第二语言、个人与社会、实验科学、数学和艺术等领域提供分布；共同核心维持背景，深度选项支持学科实践。
-> - **个人探究与直接经验** [[Extended Essay|拓展论文]]（Extended Essay，EE）支持自行组织较长研究；创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）保护直接经验。
+> - **个人探究与直接经验** [[Extended Essay|拓展文章]]（Extended Essay，EE）支持自行组织较长研究；创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）保护直接经验。
 > - **跨领域反思与评价** [[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）比较不同知识形式，多元评价把这些经验纳入可持续实施的文凭结构。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–57)]]
 
 ---
@@ -203,7 +203,7 @@ updated: 2026-11-02
 >
 > - **1960 年代后期　[[International Baccalaureate|国际文凭]]形成制度形态**
 >
->   六学科承担思维方式的分布，共同核心与深度选项协调背景和范例研究，[[Theory of Knowledge|知识论]]比较各学科的知识根据和限度，[[Extended Essay|拓展论文]]与直接经验又扩充个人探究和行动。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–48)]]
+>   六学科承担思维方式的分布，共同核心与深度选项协调背景和范例研究，[[Theory of Knowledge|知识论]]比较各学科的知识根据和限度，[[Extended Essay|拓展文章]]与直接经验又扩充个人探究和行动。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–48)]]
 
 ---
 
