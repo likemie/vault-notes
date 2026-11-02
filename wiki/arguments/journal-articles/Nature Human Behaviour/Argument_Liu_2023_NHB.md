@@ -21,6 +21,8 @@ tags:
   - method/causal-inference
   - method/machine-learning
 related_concepts:
+  - "[[Streetlight Effect]]"
+  - "[[Retraction Penalty]]"
   - "[[Metascience]]"
   - "[[Construct]]"
   - "[[Document]]"
@@ -63,6 +65,7 @@ related_theories:
   - "[[Bianconi-Barabási Model]]"
   - "[[Random Impact Rule]]"
 related_methods:
+  - "[[Instrumental Variables]]"
   - "[[Fixed-Effect Model]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Descriptive Analysis]]"
@@ -185,7 +188,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 既有文献数据库存在严重的非英语盲区与阴性结果遗漏
 
 > [!challenges] 既有文献数据库的四大系统性偏差
-> 1. **街灯效应（Streetlight Effect）** 数据库偏向收录成熟与易发表议题，诱导后续研究过度聚焦于已知领域，忽视高风险探索。
+> 1. **[[Streetlight Effect|街灯效应]]（Streetlight Effect）** 数据库偏向收录成熟与易发表议题，诱导后续研究过度聚焦于已知领域，忽视高风险探索。
 > 2. **抽屉效应（File Drawer Problem）** 阴性结果与失败实验极少被录用发表，导致知识库呈现系统性正向[[Publication Bias|发表偏倚]]。
 > 3. **非英语覆盖盲区** 主流引文库中超过 90% 为英语出版物，对区域性母语学术期刊与非西方科学贡献的覆盖严重不足。
 > 4. **商业数据壁垒** 头部商业引文数据库依赖昂贵的订阅与授权费用，加剧了全球学术机构之间的数据获取不平等。
@@ -297,8 +300,8 @@ issuing_organization: ""
 > [!sub-claim] 2. 准实验利用意外冲击与评审门槛，能够准确识别人才溢出与资助效应
 
 > [!feature] 科学学三大准实验因果识别机制
-> - **双重差分法（Difference-in-Differences, DID）** 借助外生突发事件（如学者猝逝、地缘变局）作为冲击，通过比较处理组与对照组在冲击前后的双重变化量扣除共有时间趋势，因果识别学术溢出与同伴效应（[[Difference-in-Differences]]）。
-> - **工具变量法（Instrumental Variables, IV）** 寻找仅通过影响处理变量进而作用于结果变量的外生工具，阻断未观测时变混杂与反向因果路径。
+> - **双重差分法（Difference-in-Differences, DID）** 借助外生突发事件（如学者猝逝、撤稿丑闻引起的[[Retraction Penalty|撤稿惩罚]]、地缘变局）作为冲击，通过比较处理组与对照组在冲击前后的双重变化量扣除共有时间趋势，因果识别学术溢出与同伴效应（[[Difference-in-Differences]]）。
+> - **工具变量法（Instrumental Variables, IV）** 寻找仅通过影响处理变量进而作用于结果变量的外生工具，阻断未观测时变混杂与反向因果路径（[[Instrumental Variables]]）。
 > - **断点回归设计（Regression Discontinuity Design, RDD）** 利用资助评审打分线等刚性截断门槛，在阈值紧邻邻域内利用个体的局域随机性，无偏测度资助的局部平均处理效应（Local Average Treatment Effect, LATE）（[[Regression Discontinuity Design]]）。
 
 > [!design-notation] 准自然实验双重差分设计（明星学者猝逝因果识别）
