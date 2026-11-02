@@ -219,6 +219,7 @@ updated: 2026-10-31
 > - **科层行政中的知识生产与规范重塑（Bureaucratic Knowledge Production & Redrafting）** 国家治理机构在行政工作中通过定向挑选学术流派、预先编制单一范式知识综述排除学术争端，并在终审定稿中清洗体制批判，人为生产出“无可争议的知识状态”，赋予行政规制以科学合法性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–653)]]
 > - **地缘博弈下的技术能力降维与脱钩冲击** 在大国地缘博弈背景下，知识生产从好奇心驱动的认知蓄水池降维为技术主权工具；战略科技脱钩与[[Research Security|科研安全]]审查阻断了跨国科研合作网络，削弱了新兴强国获取西方前沿知识的管道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1064)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 > - **智能时代自动化核验基础设施** 人工智能大幅降低了假说生成边际成本，倒逼科学体制推行包含数据与代码的[[Dynamic Research Notebook|动态研究笔记本]]、云端自动化实验室与专职机器复现审计。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
+> - **概念空间与文献规模的非均质扩张（Physical vs. Conceptual Expansion）** 全球学术文献每十余年实现物理翻番，但承载新知识的语义概念空间仅呈严格线性拓展，且新增合作与引用高度聚集于一至两步的近邻网络节点；立足稳固常规基础并引入非典型非常规跨界组合，是兼顾共同体接纳与突破性穿透力的最优知识生产策略。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–3)]]
 > - **微观四维[[Epistemic Practices|认识论实践]]与观点客体化** 在教学情境中，学生通过提出、沟通、评估与合法化四维社会行动，将观点作为客观制品持续改进，并在[[Man-Computer Symbiosis|人机共生]]中坚守评价主义立场。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–147)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–361)]]
 
 > [!logic-map]- 知识生产多层体系模型
@@ -386,6 +387,7 @@ updated: 2026-10-31
 > - **2000s–2010s — 科学教育中的[[Epistemic Practices|认识论实践]]与本土共同体转向** 科学教育与学习科学界打破[[Direct Instruction|直接讲授]]已知事实的传统做法，[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 提出四维认识论实践框架，确立微观课堂中证据协商与民主审议的价值基础。
 > - **2009 — 机器人科学家实现机器自主科学知识生产** 罗斯·金（Ross King）团队研制机器人科学家亚当（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021, pp. 225–226]]），自主提出假说、规划物理实验并实证确证 3 个编码孤儿酶的全新基因，完成人类科学史上首个无人类直接智力干预的独立知识生成循环。
 > - **2017 — 国际金融组织知识转向与自主科研建制** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）以世界银行为个案，系统揭示国际多边机构如何通过常设专职科研编制与独立研发预算，建立起年发表量达到顶尖大学均值三倍的自主知识生产体系，实现从单纯资本借贷向实体科研与智识引领的制度转型。
+> - **2018 — 科学学跨学科实证范式奠基** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 在《科学》发表纲领性成果，确立科学学（Science of Science）宏观定量实证架构，实证揭示文献指数增长与概念线性扩张的宏观脱节，以及小团队负责颠覆性开拓、大团队负责成熟工程化深化的生态位分工（pp. 2–5）。
 > - **2022 — [[Knowledge Building Theory|知识建构学派]]的[[Reflective Structuration|反思性结构化]]模型** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 证实小学生群体通过动态重组意向领域与持续观点改进，能自主实现深层因果解释建模并实质推进集体公共知识前沿。
 > - **2022 — 教育治理工作中的知识生产与行政清洗揭示** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析[[Swedish Schools Inspectorate|瑞典学校督察局]]，揭示治理机构如何通过预先编制单一范式综述与终审定稿清洗，将多元学术文献生产为服务于国家简化的行政合规定论，并从[[Basil Bernstein|伯恩斯坦]]“[[Horizontal Knowledge Structure|弱语法]]”与[[Jean Piaget|皮亚杰]]动态发生学视角解构了静态“当前知识状态”的技术官僚幻觉。
 > - **2023 — 大国博弈脱钩与全球知识生产策源地困境** [[Argument_Woo_2023_HEP|Woo (2023)]] 实证揭示中美科技博弈加剧导致[[Knowledge Exchange|知识交流]]政治化与安全化，切断了后发国家从西方获取前沿知识的核心管道，直接制约其作为全球知识生产中心的引领力。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
@@ -465,10 +467,12 @@ updated: 2026-10-31
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 中学与高校[[Man-Computer Symbiosis\|人机协同]]跨学科科学探究案例 | 概念模型构建与人机交互语料追踪 | 质性证实持有[[Evaluativist\|评价主义认识立场]]的学习者能有效设计[[Chain-of-Thought Prompting\|思维链]]与[[Role-playing\|角色扮演提示]]词，驱动大模型开展多视角辩难并进行多源实验核验 | 确立了人机共生环境下知识生产的确证规范与评价主义立场调节模型 |
 > | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024, p. 27)]] | 全球 103 个国家 654 个教育研究利用（URE）平台 | 全球知识生产与转译基础设施跨国普查与网络分析 | 654 个平台中 74%（484 个）未与任何区域中介网络建立正式链接，陷入孤立运作；中车道中介过度生产简报导致信息拥挤 | 实证检验了全球知识生产转译平台缺乏横向协同网络与双向反馈机制的结构性孤立特征 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021, pp. 225–226)]] | 机器人科学家亚当（Adam）酵母代谢孤儿酶自主实验检验 | 自动化假说生成、逻辑推理与微孔板生长实验迭代追踪 | 亚当累计提出并物理检验 20 个基因假说，实证确证 12 项；独立重新发现 6 项已有真理，首次独立发现 3 个编码特定孤儿酶的全新基因（经人类科学家复现确认） | 证实了自动化系统在无需人类即时智力干预下独立提出假说并完成实证检验的机器知识生成能力 |
+> | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018, pp. 2–4)]] | 全球数千万篇跨学科成果（WoS 与 MEDLINE）、专利与学者发表队列 | 大规模文献计量分析、超图网络建模与微观生成机制拟合 | 文献出版增长率、概念空间扩张速率与非常规重组高引倍数 | 文献年度产量呈指数倍增（周期 10–15 年），概念空间仅呈严格线性拓展；兼备高常规性与非典型重组的成果斩获千次以上引用的概率提升至 2 倍 | 全球跨学科海量文献全景分析 | 实证揭示既有知识拓扑对学者选题的内生锁定，确立成熟知识传统与非常规跨界重组是驱动重大科学突破的最优生产机制 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立科学学跨学科实证范式，揭示科学文献指数倍增而概念空间仅线性拓展的规律，阐明常规传统与非典型跨界重组的最优生产路径。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 记录机器人科学家亚当自主生成假说与物理实验迭代检验的历程，确立机器系统在无人类干预下独立完成科学知识生产的实证里程碑（pp. 225–226）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]常规督导与质量审计，揭示教育治理机构如何通过预设单一范式与终审定稿清洗生产服务于国家简化的行政合规知识，从科学哲学视角解构静态“当前知识状态”的虚妄性。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示大国科技竞争与地缘脱钩如何阻断跨国知识管道并削弱全球知识生产中心地位（pp. 693–694）。

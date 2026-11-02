@@ -32,42 +32,59 @@ tags:
   - theme/team-science
   - method/quantitative
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Metascience]]"
-  - "[[Combinatorial Novelty]]"
-  - "[[Exploration-Exploitation in Science]]"
-  - "[[Scientific Credit]]"
-  - "[[Publication Bias]]"
-  - "[[Sleeping Beauty in Science]]"
-  - "[[Matthew Effect in Academia]]"
+  - "[[Team Science]]"
   - "[[Citation Distribution]]"
+  - "[[Creativity]]"
+  - "[[Citation Aging]]"
+  - "[[Document]]"
+  - "[[Emergence]]"
+  - "[[Paradigm]]"
+  - "[[Giant Component]]"
   - "[[Scientific Productivity]]"
-  - "[[Variable]]"
-  - "[[Construct]]"
+  - "[[Exploration-Exploitation in Science]]"
+  - "[[Publication Bias]]"
+  - "[[Combinatorial Novelty]]"
+  - "[[Big Science]]"
+  - "[[Counterfactual]]"
+  - "[[Matthew Effect in Academia]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Megascience Installations]]"
+  - "[[Scientific Credit]]"
+  - "[[Sleeping Beauty in Science]]"
+  - "[[Man-Computer Symbiosis]]"
+  - "[[Causality]]"
+  - "[[Heterogeneity]]"
+  - "[[Areas of Knowledge]]"
+  - "[[Research Scope]]"
+  - "[[Survivorship Bias]]"
 related_theories:
   - "[[Universality of Citation Distributions]]"
   - "[[Random Impact Rule]]"
-  - "[[Q-Model]]"
   - "[[Core and Extended Teams Model]]"
   - "[[WSB Model]]"
+  - "[[Q-Model]]"
+  - "[[Path Dependence]]"
+  - "[[R-Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Network Analysis]]"
-  - "[[Relative Citation Normalization]]"
   - "[[Disruption Index]]"
+  - "[[Relative Citation Normalization]]"
   - "[[h-Index]]"
+  - "[[Mechanism Experiments]]"
+  - "[[Descriptive Analysis]]"
+  - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
+  - "[[John B. Fenn]]"
   - "[[Santo Fortunato]]"
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-  - "[[Roberta Sinatra]]"
-  - "[[Brian Uzzi]]"
-  - "[[James A. Evans]]"
-  - "[[Stasa Milojevic]]"
-  - "[[Filippo Radicchi]]"
-  - "[[Alexander M. Petersen]]"
 related_facts:
   - "[[Web of Science]]"
+  - "[[American Physical Society]]"
+  - "[[United States Patent and Trademark Office]]"
+  - "[[National Institutes of Health]]"
   - "[[CERN]]"
 related_arguments:
   - "[[Argument_Sinatra_2016_Science]]"
@@ -83,10 +100,10 @@ title: "Argument_Fortunato_2018_Science"
 argument_key: "Argument_Fortunato_2018_Science"
 argument_display_title: "Science of science"
 argument_kind: "journal-article"
-argument_related_count: 33
-argument_related_level: 3
-argument_related_stars: "💎"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Science
 book_title: ""
 publication_place: ""
@@ -97,7 +114,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 科学知识生产、学者生涯流动、团队协作与成果影响力如何在时空多尺度网络中自组织演进？基于海量数字化科研输入与产出数据及微观生成机制模型，如何为优化科研资助配置、同行评议与学术激励提供客观测度与政策工具？
+> 科学[[Knowledge Production|知识生产]]、学者生涯流动、团队协作与成果影响力如何在时空多尺度网络中自组织演进？基于海量数字化科研输入与产出数据及微观生成机制模型，如何为优化科研资助配置、同行评议与学术激励提供客观测度与政策工具？
 
 > [!claim] 核心主张
 > 现代科学是由学者、成果、课题与机构交织而成的自组织复杂多尺度网络，在选题权衡、生涯演变、团队结构与引文动态上展现出普适的统计物理与计算规律；揭示这些底层生成机制能够打破传统依赖感悟的科研评价与管理惯性，为构建更具韧性、包容性与突破效能的科学资助和创新治理体系提供严密实证支撑。
@@ -105,7 +122,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 全球数字化科研输入与产出大数据（涵盖跨世纪引文网络、学者合署网络、科研经费分配记录、学者职涯流动与概念语义空间）。
 > - **张力** 微观层面科研人员受避险激励与评价体系锁定的保守选题倾向，同宏观层面科学系统拓展认知疆界、实现颠覆性发现之间的结构性脱节。
-> - **贡献** 汇聚统计物理学、计算科学、网络科学与科学社会学，系统确立科学学（Science of science, SciSci）的跨学科研究纲领，整合科学网络演化、选题权衡、生涯动力学、团队科学与引文机制五大核心维度，构建连接基础实证与科技政策设计的全景分析架构。
+> - **贡献** 汇聚统计物理学、计算科学、网络科学与科学社会学，系统确立科学学（[[Metascience|Science of science]], SciSci）的跨学科研究纲领，整合[[Web of Science|科学网]]络演化、选题权衡、生涯动力学、[[Team Science|团队科学]]与引文机制五大核心维度，构建连接基础实证与科技政策设计的全景分析架构。
 
 ---
 
@@ -113,13 +130,13 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **科学的科学**<br>[[Metascience]] | 将严谨量化实证与机制建模反身应用于科学系统自身，探究发现规律并设计加速科学进步的制度工具。 |
-> | **引文分布普适性**<br>[[Universality of Citation Distributions]] | 确立经学科均值相对标准化后，不同学科差异巨大的引文分布均坍缩至同一条对数正态主曲线。 |
-> | **随机影响法则**<br>[[Random Impact Rule]] | 证实学者最高影响力代表作在发表序列中服从均匀随机分布，打破年龄决定创造力衰退的传统假设。 |
+> | **引文分布普适性**<br>[[Universality of Citation Distributions]] | 确立经学科均值相对标准化后，不同学科差异巨大的[[Citation Distribution\|引文分布]]均坍缩至同一条对数正态主曲线。 |
+> | **随机影响法则**<br>[[Random Impact Rule]] | 证实学者最高影响力代表作在发表序列中服从均匀随机分布，打破年龄决定[[Creativity\|创造力]]衰退的传统假设。 |
 > | **核心与扩展团队模型**<br>[[Core and Extended Teams Model]] | 区分小型稳定核心团队与依赖生产力累积优势吸附成员的扩展团队，解释团队规模幂律分布的生成机理。 |
-> | **WSB 模型**<br>[[WSB Model]] | 整合优先连接、知识老化与内在适合度，刻画成果生命周期引文累积轨迹并实现长期影响力预测。 |
+> | **WSB 模型**<br>[[WSB Model]] | 整合优先连接、[[Citation Aging\|知识老化]]与内在适合度，刻画成果生命周期引文累积轨迹并实现长期影响力预测。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱将海量文献计量指标由表层描述提升为对底层自组织演化机制的数理阐释。复杂网络模型为描绘科学共同体结构与语义概念空间提供了拓扑骨架；随机影响法则与 Q 模型将个体学者生涯中的偶然运气与稳定能力有效区分；核心与扩展团队模型揭示了科研劳动组织形态转变的微观分工规律；引文分布普适性与 WSB 模型则确立了跨学科客观比较与时序外推的基准。整套理论架构直接连通了宏观知识演化规律与微观政策干预设计。
+> 理论工具箱将海量[[Document|文献]]计量指标由表层描述提升为对底层自组织演化机制的数理阐释。复杂网络模型为描绘科学共同体结构与语义概念空间提供了拓扑骨架；随机影响法则与 [[Q-Model|Q 模型]]将个体学者生涯中的偶然运气与稳定能力有效区分；核心与扩展团队模型揭示了科研劳动组织形态转变的微观分工规律；引文分布普适性与 WSB 模型则确立了跨学科客观比较与时序外推的基准。整套理论架构直接连通了宏观知识演化规律与微观政策干预设计。
 
 ---
 
@@ -133,7 +150,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文献样本** | 涵盖 Web of Science 核心合集历年收录成果、MEDLINE 历年生物医药文献、美国物理学会（American Physical Society, APS）期刊全文库以及美国专利商标局（United States Patent and Trademark Office, USPTO）数百万件发明专利。 |
+> | **文献样本** | 涵盖 Web of Science 核心合集历年收录成果、MEDLINE 历年生物医药文献、[[American Physical Society\|美国物理学会]]（American Physical Society, APS）期刊全文库以及[[United States Patent and Trademark Office\|美国专利商标局]]（United States Patent and Trademark Office, USPTO）数百万件发明专利。 |
 > | **学者队列样本** | 覆盖数万名具备长周期发表记录的跨学科学者全生命周期发表序列，包含诺贝尔物理学奖得主的连续发表档案。 |
 > | **材料情境** | 贯穿自然科学、工程技术与社会科学各主要门类，整合学术发表、引文流向、基金资助、机构流动与同行评审文本等多源元数据。 |
 
@@ -167,12 +184,12 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 学者合作与引用过度扎堆熟人圈，阻碍了跨领域的新发现
 
-> [!mechanism] 知识网络局部稠密化与路径依赖机制
-> - **近邻引文与实体聚类** 生物医药超图网络分析证实，随着新成果持续涌现，研究人员、化学分子、疾病与方法之间产生的新关联，绝大多数局限在相隔一到两步的近邻节点之间。
+> [!mechanism] 知识网络局部稠密化与[[Path Dependence|路径依赖]]机制
+> - **近邻引文与实体聚类** 生物医药超图网络分析证实，随着新成果持续[[Emergence|涌现]]，研究人员、化学分子、疾病与方法之间产生的新关联，绝大多数局限在相隔一到两步的近邻节点之间。
 > - **拓扑网络路径锁定** 学者在开拓新课题时高度依赖自身或合作成员的既有专长，导致学术关系网局部过度稠密，既有拓扑结构反过来限制了向未知领域的跨界探索。
 
 > [!case] 八个代表性学科合署网络的生命周期演化（Börner et al., 2012）
-> 对跨越不同知识门类的 8 个代表性学术领域开展全生命周期追踪发现，成功走向成熟的新兴学科普遍经历知识规范与社会合作网络的双重整合。在演化初期，研究人员呈现高度离散、自发分散的合作斑块；随着理论范式确立与共识形成，合署网络发生拓扑相变，涌现出由稳定合作群体构成的巨连通分量（Giant Connected Component）。通过在合作网络上构建随机游走演化模型，能够精准复现科研生产力分布、各学科研究人员体量以及跨学科合著特征。
+> 对跨越不同知识门类的 8 个代表性学术领域开展全生命周期追踪发现，成功走向成熟的新兴学科普遍经历知识规范与社会合作网络的双重整合。在演化初期，研究人员呈现高度离散、自发分散的合作斑块；随着理论[[Paradigm|范式]]确立与共识形成，合署网络发生拓扑相变，涌现出由稳定合作群体构成的巨连通分量（[[Giant Component|Giant Connected Component]]）。通过在合作网络上构建随机游走演化模型，能够精准复现[[Scientific Productivity|科研生产力]]分布、各学科研究人员体量以及跨学科合著特征。
 
 ---
 
@@ -194,11 +211,11 @@ issuing_organization: ""
 > *(A) 基于 2010 年 MEDLINE 索引文献测算的全局化学实体发现效率对比。纵轴数值越低代表探索效率越高；学者实际采取的保守策略仅能揭示全网 13% 的潜在化学关联，而达到 50% 最优效率的策略即可完整揭示全部网络。(B) 500 次模拟探索过程网络拓扑示意图（Rzhetsky et al., 2015）。*
 
 > [!case] 美国生物医药科研经费分配与疾病实际负担的脱节（Gross et al., 1999）
-> 对美国国立卫生研究院（National Institutes of Health, NIH）长期经费流向的实证考察显示，生物医药研究资源的分配额度主要取决于往年的历史拨款与现有文献积累，而与各类疾病给人群带来的实际健康负担残疾调整生命年（Disability-Adjusted Life Years, DALYs）明显脱节（Gross et al., 1999）。这一错位反映出由传统领域资深学者主导的评审委员会存在明显的制度惯性，亟需机制改革。
+> 对[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）长期经费流向的实证考察显示，生物医药研究资源的分配额度主要取决于往年的历史拨款与现有文献积累，而与各类疾病给人群带来的实际健康负担残疾调整生命年（Disability-Adjusted Life Years, DALYs）明显脱节（Gross et al., 1999）。这一错位反映出由传统领域资深学者主导的评审委员会存在明显的制度惯性，亟需机制改革。
 
 > [!sub-claim] 2. 失败检验极难进入发表体系，使未经验证的假说被长期奉为定论
 
-> [!threat] 发表偏倚与学术经典化的系统性扭曲（Rosenthal, 1979; Nissen et al., 2016）
+> [!threat] [[Publication Bias|发表偏倚]]与学术经典化的系统性扭曲（Rosenthal, 1979; Nissen et al., 2016）
 > - **否定性证据束之高阁** 与主流预期相冲突或未能产生显著正向结果的实验往往难以刊发，导致大量否定性检验被封存在抽屉里（[[Publication Bias]]，亦称抽屉效应；Rosenthal, 1979）。
 > - **脆弱假说的经典化定论** 这种发表筛选诱发了文献库的系统性偏差，并在长周期内导致未经充分检验甚至错误的假说被奉为定论（Nissen et al., 2016）。
 
@@ -217,17 +234,26 @@ issuing_organization: ""
 > 学者青年期产出较多突破的现象纯粹由发文速率的高峰所致，科研创造力本身并不随生理年龄而衰退；重大突破由选题构想的潜力和学者个人稳定的转化能力共同促成，多产的学者终身都享有均等的重大发现机会。
 
 > [!sub-claim] 1. 青年期的科研高产制造了代表作集中错觉，学术创新能力与年龄无关
-> 传统观念常认为重大科学发现主要由青年学者做出，代表作诞生的中位年龄约为 35 岁（Lehman, 1953; Simonton, 1988）。但对海量跨学科学者终身科研产出的反事实分析揭示，青年时期成果集中完全是由科研高产期（[[Scientific Productivity]]）自然落在生涯早期所致（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）。对上万名学者发表序列的统计分析表明，学者最高影响力的代表作出现在其发表生涯任意位次的概率完全均等（[[Random Impact Rule]]），个人的科研创造力并不会随生理年龄增长而出现生理性衰退。只要学者保持稳定的产出节奏，即便步入职业生涯晚期，产出里程碑成果的概率也丝毫不受减损。
+
+> [!evidence-grid] 代表作序列随机分布的实证证据（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）
+> - **生涯发文峰值造成认知偏倚** 传统观念认为重[[Big Science|大科学]]发现主要由青年学者做出，代表作诞生的中位年龄约为 35 岁（Lehman, 1953; Simonton, 1988）。跨学科终身产出[[Counterfactual|反事实]]分析揭示，突破成果早现完全源于科研高产期（[[Scientific Productivity]]）自然落在生涯早期。
+> - **发表位次服从均匀随机分布** 万名学者成果序列检验确证，最高影响力的代表作出现在学者发表序列任意位次的概率完全均等（[[Random Impact Rule]]），创造力并未随生理年龄增长而衰退；只要保持产出节奏，晚期产出突破成果的概率毫不减损。
 
 > [!figure]- 图 3　科研生涯中的影响力演化与最高被引作品随机分布
 > ![](https://img.mylikemie.icu/sources/Fortunato_2018_Science/figures/Fortunato_2018_Science_Fig3_Impact_in_Scientific_Careers.jpg)
 > *(A) 三位诺贝尔物理学奖得主的发表生涯记录。横轴为首次发表后的年数，圆圈高度代表成果发表 10 年后的累积被引 $c_{10}$，橙色圆圈标识其最高被引代表作。(B) 一万名科学家发表序列中代表作出现位次的归一化直方图；分布曲线的绝对平坦性证实代表作在学者毕生发表序列的任意位次具有等概率性（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）。*
 
-> [!case] 约翰·B·芬恩（John B. Fenn）的大器晚成与诺贝尔化学奖
-> 诺贝尔化学奖得主约翰·B·芬恩（John B. Fenn）的学术经历打破了年龄决定创造力的迷思。芬恩在 70 岁面临耶鲁大学强制退休前夕，才完成关于生物大分子电喷雾电离质谱分析（Electrospray Ionization）的开创性工作，并最终在 85 岁高龄荣获 2002 年诺贝尔化学奖。这一经验事实与随机影响模型的预测高度契合：重大突破与生理年龄无关，只要学术研究保持活跃，晚期发表同样拥有平等的突破机会。
+> [!case] [[John B. Fenn|约翰·B·芬恩]]（John B. Fenn）的大器晚成与诺贝尔化学奖
+> 诺贝尔化学奖得主约翰·B·芬恩（John B. Fenn）的学术经历打破了年龄决定创造力的迷思。芬恩在 70 岁面临耶鲁大学强制退休前夕，才完成关于生物大分子电喷雾电离质谱分析（Electrospray Ionization）的开创性工作，并最终在 85 岁高龄荣获 2002 年诺贝尔化学奖。这一经验事实与[[R-Model|随机影响模型]]的预测高度契合：重大突破与生理年龄无关，只要学术研究保持活跃，晚期发表同样拥有平等的突破机会。
 
 > [!sub-claim] 2. 重大成果源于选题运气与转化能力的结合，学术声望无法决定长期影响
-> 随机影响模型将成果的影响力形式化表述为构想潜力参数 $p$ 与学者能力参数 $Q$ 的乘积（[[Q-Model]]）。数据分析显示，选题潜能与个人能力在统计上相互独立；取得重大突破不仅需要学者具备把科学设想转化为扎实论述的稳定能力，还高度依赖撞上高潜力课题的运气。在长时段科研生涯中，前期累积的学术声誉（[[Matthew Effect in Academia]]）固然能在成果刚面世时加快引用累积的速度（Petersen et al., 2014），但这层先发优势会随时间逐步衰退，成果的长久影响力终究由其内在价值决定。
+
+> [!formula] 学者学术影响力解构的 Q 模型（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）
+> 随机影响模型将成果发表十年后的累积被引 $c_{10}$ 解构为学者能力参数 $Q$ 与课题构想潜力 $p$ 的乘积（[[Q-Model]]）：
+> 
+> $$c_{10} = Q \cdot p$$
+> 
+> 统计检验表明，课题潜能 $p$ 与个人能力 $Q$ 相互独立；重大突破既需要学者具备把设想转化为严密成果的稳定技能，亦依赖捕获高潜能选题的运气。累积学术声誉（[[Matthew Effect in Academia]]）仅在发表初期加快获引速度（Petersen et al., 2014），长程影响力终究由成果内在价值决定。
 
 > [!case] 霍华德·休斯医学研究所以人为本的长周期资助机制（Azoulay et al., 2011）
 > 对比霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）稳定资助的学者与获得 NIH 传统 R01 课题资助的同资历学者发现，HHMI 实行周期长达 5 至 7 年、免于繁琐中期考核的资助人而非项目模式，并明确包容早期探索失败（Azoulay et al., 2011）。实证表明，HHMI 资助的学者更敢于涉足未知的跨学科领域，成果进入全球前 1% 高被引行列的概率直接翻倍，即便中途探索失利也不会受到行政性惩罚；相比之下，受制于短期考评的 R01 负责人则普遍表现出明显的避险倾向。
@@ -238,20 +264,33 @@ issuing_organization: ""
 > 当代科学研究已全面走向团队合作，独著成果在各大领域基本退居边缘；小团队更善于跳出框架开辟颠覆性新路径，大团队则擅长依托工程化力量深化成熟方向，二者共同构成完整的科研生态。
 
 > [!sub-claim] 1. 团队署名成果九成霸榜，拿到千次引用的概率是单干的六倍多
-> 对近半个世纪内 1,990 万篇论著与 210 万件专利的统计显示，科学与工程领域中团队合作成果的占比从 1955 年的不足 50% 攀升至 2013 年的 90%（Wuchty et al., 2007）。团队成果获得千次以上极高引用的概率达到独立学者的 6.3 倍，这一差距无法简单用自引来解释。团队协作能有效聚合不同学科的互补专长；与独立学者相比，团队成果将全新异质元素带入成熟领域的几率高出 38%，显著推动了跨学科融通。
+
+> [!evidence-grid] 团队科学主导地位与高引优势的实证数据（Wuchty et al., 2007）
+> - **产出份额实现根本逆转** 对半个世纪内 1,990 万篇论著与 210 万件专利的分析显示，科学与工程领域团队成果占比从 1955 年的不足 50% 攀升至 2013 年的 90%，独著成果退居次席。
+> - **超高影响力断层领先** 团队成果斩获 1,000 次以上极高引用的相对几率达到独立学者的 6.3 倍，排除自引偏差后优势依然显著。
+> - **跨界异质知识高效聚合** 团队协作有效融合多元专长，将全新异质构件引入成熟领域的概率较独立学者高出 38%，驱动前沿交叉融合。
 
 > [!figure]- 图 4　科研团队规模与影响力的演进
 > ![](https://img.mylikemie.icu/sources/Fortunato_2018_Science/figures/Fortunato_2018_Science_Fig4_Size_and_Impact_of_Teams.jpg)
 > *团队规模在过去一个世纪呈现稳步增长态势。红色虚线显示科学与工程、社会科学各领域中团队平均规模的历时演变，黑色实线标识仅统计超过学科平均被引成果时的团队规模，证实高影响力成果更加显著地由大型团队产出（Wuchty et al., 2007）。*
 
 > [!sub-claim] 2. 小团队提出颠覆性构想，大团队推进工程化完善
-> 大团队成果在平均被引次数上占有优势，但小团队与大团队在创新方向上呈现鲜明分工。颠覆性指数（[[Disruption Index]]）测度表明，小型团队更善于跳出主流框框、汲取早期冷门成果并提出破坏性新概念；大型团队则更倾向于跟进最新前沿、在前人确立的成熟路线上开展工程化深耕（Wu et al., 2019）。科研团队平均规模每十年增长 17%，其内部结构由稳定的核心团队与不断吸纳新成员的扩展团队共同组成（[[Core and Extended Teams Model]]；Milojević, 2014）。
 
-> [!case] 欧洲核子研究组织大型强子对撞机的巨型工程协作
-> 欧洲核子研究组织（European Organization for Nuclear Research, CERN）的大型强子对撞机（Large Hadron Collider, LHC）展示了现代大科学（Big Science）极端协作的样貌。验证希格斯玻色子（Higgs boson）存在的里程碑成果由超导环场探测器（A Toroidal LHC ApparatuS, ATLAS）与紧凑渺子线圈（Compact Muon Solenoid, CMS）两个超大规模合作组联合完成，集合了 100 多个国家与数百所机构的上万名学者和工程师。这类巨型项目体现了大团队在攻克高成本复杂大科学装置上的不可替代性，但长达数十页的署名名单也带来智力贡献难以细分、成果流水线化以及外部独立重复成本极其昂贵的治理挑战。
+> [!contrast-table] 科研团队规模与[[Innovation Ecosystem|创新生态]]位分工（Wu et al., 2019; Milojević, 2014）
+> | 比较维度 | 小型科研团队 | 大型科研团队 |
+> |---|---|---|
+> | **核心创新职能** | 颠覆既有技术范式，提出破坏性全新构想（[[Disruption Index]]） | 推进主流路径工程化完善，深化既有成熟成果 |
+> | **引文利用特征** | 回溯早期、冷门与分散的基础文献，跳出当前主流共识 | 紧跟近端前沿文献与热门成果，巩固既有范式基底 |
+> | **平均引用表现** | 即时平均被引较低，但长远颠覆性与学术原创度更高 | 即时篇均被引与关注度显著占优，工程落地确定性高 |
+> | **团队组织形态** | 结构紧密、高灵活度的核心成员协作（[[Core and Extended Teams Model]]） | 核心人员牵头、持续吸纳外围成员的大规模分工体系（每十年均规模增长 17%） |
+
+> [!case] [[CERN|欧洲核子研究组织]]大型强子对撞机的巨型工程协作
+> 欧洲核子研究组织（European Organization for Nuclear Research, CERN）的大型强子对撞机（Large Hadron Collider, LHC）展示了现代大科学（Big Science）极端协作的样貌。验证希格斯玻色子（Higgs boson）存在的里程碑成果由超导环场探测器（A Toroidal LHC ApparatuS, ATLAS）与紧凑渺子线圈（Compact Muon Solenoid, CMS）两个超大规模合作组联合完成，集合了 100 多个国家与数百所机构的上万名学者和工程师。这类巨型项目体现了大团队在攻克高成本复杂[[Megascience Installations|大科学装置]]上的不可替代性，但长达数十页的署名名单也带来智力贡献难以细分、成果流水线化以及外部独立重复成本极其昂贵的治理挑战。
 
 > [!sub-claim] 3. 合作人数激增导致声誉倒向资深学者，共引网络算法能客观分配合理份额
-> 随着团队规模迅速扩张，学术评价在认定个人贡献时面临巨大困境（[[Scientific Credit]]）。成名已久的资深学者在合著成果中往往分得不成比例的过多赞誉，形成强烈的马太效应（Merton, 1968）。单纯依靠署名先后或贡献陈述难以真实还原学术共同体心目中的认可度。借助合著者的文献共被引网络算法，能够客观测算出学术界实际分配给各个合作成员的声誉份额（Shen & Barabási, 2014），为合理评价团队成员贡献提供了计算依据。
+
+> [!mechanism] 学术声誉归算的马太效应与共被引解构算法（Shen & Barabási, 2014）
+> 团队规模扩张加剧了个体学术贡献归算的困境（[[Scientific Credit]]）。成名学者在合署成果中往往分得不成比例的过多赞誉，形成强烈的马太效应（Merton, 1968）。单纯依据署名位次难以还原同行认知中的真实权重；基于施引文献在引用该成果时同时引述合署者代表作的拓扑共引网络，集体信誉分配算法能够客观解构学术界赋予各合作成员的实际声誉份额，为团队评价提供了去偏计算基准。
 
 ---
 
@@ -270,28 +309,49 @@ issuing_organization: ""
 > 各学科因从业规模和引文习惯差异而不能直接比拼引用总数，但除以该领域当年的平均被引数后，所有学科的影响力分布均重合为同一条对数正态曲线，且长期引用走势可由模型准确推演。
 
 > [!sub-claim] 1. 除以学科当年均值后，各领域的成果影响力分布完全重合为一条曲线
-> 科研成果的原始被引频次呈现极度右偏的长尾分布，极少数开创性论著获得数以万计的引用，而绝大多数成果鲜有人问津（Price, 1965）。由于不同领域的学者基数与引文习惯差异巨大，数学领域获得 100 次引用的成果，其学术分量可能远高于生物医药领域获得 300 次引用的成果。只要将成果的被引数 $c$ 除以所属学科同年份的平均被引数 $c_0$，计算出无量纲相对引文指标 $c_f = c / c_0$（[[Relative Citation Normalization]]），各学科原本分散的引文分布曲线就会在统计上完全重叠，展现出跨学科普适的对数正态分布特征（[[Universality of Citation Distributions]]；Radicchi et al., 2008）。
+
+> [!formula] [[Relative Citation Normalization|相对引文标准化]]与跨学科普适分布（Radicchi et al., 2008）
+> 科研成果的原始引文呈现极度右偏的长尾分布（Price, 1965）。不同学科因从业规模和引述文化差异悬殊，原始计数缺乏横向可比性。将成果的实际被引频次 $c$ 除以其所属学科在发表当年的篇均被引数 $c_0$，得到相对引文指标（[[Relative Citation Normalization]]）：
+> 
+> $$c_f = \frac{c}{c_0}$$
+> 
+> 实证检验表明，经过相对引文标准化后，各个异质学科的被引频次分布曲线在统计上完全重叠，统一收拢为标准对数正态分布主曲线（[[Universality of Citation Distributions]]），证实跨学科引文体系底层遵循相同的自组织机制。
 
 > [!figure]- 图 5　引文动力学的普适性
 > ![](https://img.mylikemie.icu/sources/Fortunato_2018_Science/figures/Fortunato_2018_Science_Fig5_Universality_in_Citation_Dynamics.jpg)
 > *(A) 同学科同发表年成果的相对引文分布：将单篇被引 $c$ 除以全领域均值 $c_0$ 后，不同学科的数据点严格收拢至虚线所示的对数正态主曲线上（Radicchi et al., 2008）。(B) 1964 年发表于《物理评论》的四篇典型成果的异质引文演化历史（呈现暴增衰减、延迟达峰、匀速增长与加速累积形态）。(C) 运用适合度 $\lambda_i$、即时性 $\mu_i$ 与寿命 $\sigma_i$ 三参数重标度后，四篇成果的引文时序曲线完全折叠在跨学科统一的累积分布主曲线上（Wang et al., 2013）。*
 
 > [!sub-claim] 2. 测算质量、时效与寿命三个关键参数，即可精准推演成果未来数十年的引用走势
-> 引文的长尾形态源于网络中的累积优势。将优先连接、知识老化衰减以及刻画成果内在价值的适合度参数结合起来，所构建的 WSB 微观动力学模型（[[WSB Model]]；Wang et al., 2013）仅凭成果前期的引用表现，就能推演未来数十年的长久影响力走势。通过质量适合度 $\lambda$、即时响应度 $\mu$ 和衰减寿命 $\sigma$ 三个参数重标度后，无论是迅速爆红后沉寂、延后达峰还是平稳递增的成果，其引用曲线都会收拢到统一的正态累积主曲线上。少数长期默默无闻却在多年后被重新发掘的成果，则呈现出科学界的睡美人现象（[[Sleeping Beauty in Science]]；Ke et al., 2015; van Raan, 2004）。在使用 $h$ 指数（[[h-Index]]）预测未来学术潜力时，必须校正职业年龄与只增不减特征带来的偏差，避免单纯以指标论英雄（Hirsch, 2005; Penner et al., 2013）。
+
+> [!theory-components] WSB 引文动力学微观模型的三维参数（Wang et al., 2013）
+> - **质量适合度参数 $\lambda$**
+>   刻画成果相对于同行的内在科学价值与竞争吸引力，作为优先连接机制的乘数权重（[[WSB Model]]）。
+> - **即时紧迫度参数 $\mu$**
+>   调控学术注意力捕获的早晚与引文峰值出现的快慢，区分快速爆发型与蓄力渐增型成果。
+> - **衰减寿命参数 $\sigma$**
+>   控制成果引文半衰期的长短，决定其在共同体认知中被持续引证的时间跨度。
+
+> [!boundary] 引文时序外推的异常形态与量化评价边界（Ke et al., 2015; Hirsch, 2005）
+> - **[[Sleeping Beauty in Science|睡美人现象]]的滞后觉醒** 少数长期沉寂但在数十年后被发掘的成果（[[Sleeping Beauty in Science]]；van Raan, 2004; Ke et al., 2015）突破了常规三参数模型的预测范围，体现出冷门成果后续被重新激活的非线性动力学。
+> - **$h$ 指数的累积性偏差** $h$ 指数（[[h-Index]]）具有随时间只增不减的机械累积属性，强烈偏向资深学者；在预测中青年学者学术潜力时易产生虚假信号，定量评价必须校正职业年龄并警惕指标异化（Penner et al., 2013）。
 
 ---
 
-> [!claim|step] 论证步骤六　依据科学规律重构资助机制与评议流程，借助人机协同拓宽科学前沿
-> 科学学的定量实证打破了依赖个人主观经验的科技管理传统；通过试行抽签等资助机制实验、拓展多元评价维度并引入人机协同发现，能够有效激活整个科研体系的创新活力。
+> [!claim|step] 论证步骤六　依据科学规律重构资助机制与评议流程，借助[[Man-Computer Symbiosis|人机协同]]拓宽科学前沿
+> 科学学的定量实证打破了依赖个人主观经验的科技管理传统；通过试行抽签等资助[[Mechanism Experiments|机制实验]]、拓展多元评价维度并引入人机协同发现，能够有效激活整个科研体系的创新活力。
 
 > [!sub-claim] 1. 传统同行评议容易埋没奇思妙想，亟需引入随机抽签与长周期稳定资助
-> 传统同行评审在剔除不合格申请上十分有效，但在面对极具原创性与非共识的高风险构想时，容易暴露出保守求稳的避险偏向。对此，科学学提出多项机制改进方案：
-> 1. **部分随机抽签资助** 在满足基本学术门槛的申请中引入随机抽签，既能大幅节省评审的时间和行政成本，又能破除评委打分的主观偏差，让非主流选题获得平等的入选机会（Barnett, 2016）。
-> 2. **长周期资助人模式** 借鉴类似 HHMI 机制，给予学者 5 至 7 年免受短期考评打扰的中长期支持，宽容早期探索失误，鼓励深耕真正高风险、高价值的重大难题（Azoulay et al., 2011）。
-> 3. **众包评议与算法直拨经费** 将评议权限向更广泛的学者群体开放，或根据客观的学术产出数据通过算法直接下拨基础经费，避免科研人员在反复申报材料上空耗精力（Bollen, 2014; Roy, 1985）。
 
-> [!sub-claim] 2. 算法能协助人类发现隐藏知识盲区，严谨因果推断可保障科技政策精准落地
-> 机器学习在发现隐性知识关联上展现出超越人类学者经验局限的能力，人机协同已成为推动前沿科学突破的重要形态。人工智能在预测新材料特性、蛋白质三维结构和复杂系统演化中已取得突破性进展。同时，科学学自身也在由传统的相关性分析迈向严谨的政策因果推断。通过将科研大数据与计量经济学的准实验方法相结合，科学学不仅能揭示普适的演化规律，也能兼顾不同学科的文化与制度差异，为精准制定科技政策提供实证支撑。
+> [!pathways] 突破同行评议避险局限的三大资助机制路径
+> 1. **部分随机抽签资助机制** 在通过基准资质筛查的申请中引入随机抽签，大幅降低行政评审耗时与成本，破除评委主观避险倾向并给予非主流前沿同等立项机会（Barnett, 2016）。
+> 2. **以人为本的长周期资助模式** 借鉴 HHMI 模式给予学者 5 至 7 年免考核连续支持，包容早期尝试失利，支持科研队伍沉潜攻关高风险重大难题（Azoulay et al., 2011）。
+> 3. **众包评议与算法直拨经费** 将评审权分散至广泛研究共同体，或依据客观学术网络数据由算法直接划拨基础探索经费，减少科研人员繁琐申报的时间损耗（Bollen, 2014; Roy, 1985）。
+
+> [!sub-claim] 2. 算法能协助人类发现隐藏知识盲区，严谨[[Causality|因果推断]]可保障科技政策精准落地
+
+> [!opportunity] 人机协同前沿发现与政策因果推断的双向拓展
+> - **人工智能突破认知盲区** 机器学习跨领域提取隐性概念关联，在预测新材料物性、解析复杂分子结构中展现超越人类经验的联想能力，推动人机协同成为前沿发现新范式。
+> - **科学学迈向因果推断** 融合科研大数据与计量经济学准实验方法，从[[Descriptive Analysis|描述统计]]演化走向评估政策干预净效应，在尊重学科[[Heterogeneity|异质性]]的前提下为科技体制改革提供因果实证支撑。
 
 ---
 
@@ -305,13 +365,13 @@ issuing_organization: ""
 > [!stat-cards]- 核心数据
 > - **90%** 2013 年科学与工程领域团队合署成果占全部发表的比例，相比 1955 年不足 50% 发生质的转变。
 > - **6.3x** 现代团队合署成果斩获 1,000 次以上极高引用的相对几率相比单人独立发表的倍数。
-> - **38%** 团队相比独立学者将全新异质构件组合引入成熟知识领域的相对概率增幅。
+> - **38%** 团队相比独立学者将全新异质构件组合引入成熟[[Areas of Knowledge|知识领域]]的相对概率增幅。
 > - **17%** 跨学科科研团队规模每十年的平均增长率，扩展团队基于生产力累积优势加速吸附新成员。
 > - **c / c₀** 相对引文标准化无量纲比值，消除跨学科容量与引用传统差异并实现概率分布普适重合。
 
 ---
 
-> [!citation-card] 桑托·福图纳托等论科学学的核心使命与跨学科范式
+> [!citation-card] [[Santo Fortunato|桑托·福图纳托]]等论科学学的核心使命与跨学科范式
 > 科学学将科学实践本身置于定量实证显微镜之下，致力于形成对科学发现、创造力与科研实践微观演进规律的定量理解，并开发旨在加速科学进步的制度工具与政策方案。科学学的价值主张在于，唯有深刻理解驱动科学成功的深层机制，人类社会才能更加高效地应对环境、社会与技术挑战。
 >
 > *The science of science (SciSci) places the practice of science itself under the microscope, leading to a quantitative understanding of the genesis of scientific discovery, creativity, and practice and developing tools and policies aimed at accelerating scientific progress. The value proposition of SciSci is that with a deeper understanding of the factors that drive successful science, we can more effectively address environmental, societal, and technological problems.*
@@ -328,10 +388,10 @@ issuing_organization: ""
 
 ---
 
-> [!warning] 研究边界与局限
+> [!warning] [[Research Scope|研究边界]]与局限
 > - **学科文化与制度异质性制约宏观规律落地** 宏观统计规律虽具普适性，但各学科在科研周期、评价偏好与实践惯例上差异显著，科技政策无法一刀切套用，必须因地制宜开展领域细分研究。
-> - **依托已发表成果带来幸存者偏差** 现有分析主要依据已公开文献与专利数据库，未能涵盖被拒稿件、失败实验与非正式交流，所描绘的科研图景带有一定的幸存者偏差。
-> - **因果推断深度仍有待提升** 多数模型长于描述相关性与演化趋势，在评估具体资助政策和评审机制改革的实际因果效应时，仍需更深入地结合准实验设计与计量推断方法。
+> - **依托已发表成果带来[[Survivorship Bias|幸存者偏差]]** 现有分析主要依据已公开文献与专利数据库，未能涵盖被拒稿件、失败实验与非正式交流，所描绘的科研图景带有一定的幸存者偏差。
+> - **因果推断深度仍有待提升** 多数模型长于描述相关性与演化趋势，在评估具体资助政策和评审机制改革的实际因果效应时，仍需更深入地结合[[Quasi-Experimental Designs|准实验设计]]与计量推断方法。
 
 ---
 
