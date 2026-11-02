@@ -142,4 +142,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述核心团队与扩展团队机制，指出小型团队依靠稳定核心存续、大型团队依靠人员流动维持寿命，论证平衡资助各种规模团队对防止科学官僚化的必要性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 第 12 章系统评析米洛耶维奇核心与扩展团队模型，阐明天文学等领域半世纪团队规模演化的泊松-幂律双模机制（pp. 125–127）。

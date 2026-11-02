@@ -177,4 +177,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述组合新颖性，强调深植于常规成熟知识基础上的罕见非典型组合斩获超高引用的概率倍增，是突破性成果最稳妥的接纳路径。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 系统解构组合新颖性测度、新颖性悖论、同行评审偏见以及适度平衡架构使高引突破概率倍增的经验证据（pp. 189–193）。

@@ -71,6 +71,7 @@ updated: 2026-10-31
 > - **2008 — 普适性模型确立** Radicchi et al. 通过大样本[[Comparative Education as a Cross-Sectional Area|交叉学科]]引文比对，证明相对归一化引文服从均值参数 $\mu \approx -0.27$、方差参数 $\sigma \approx 1.25$ 的通用对数正态分布函数，建立了跨学科客观评价基准。(Radicchi et al., 2008, pp. 17268–17272)
 > - **2012 — 偏斜度与长尾验证** 针对极高引文尾部形态的争论，多项实证拓展确认在主流引文区间（99% 的成果）对数正态分布具有极高拟合优度，极端前 1% 成果受极化声誉吸附影响呈现更厚重尾部。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 179–180)]]
 > - **2013–2021 — 动态引文轨迹的重标度普适性拓展** [[Dashun Wang|王大顺]]与巴拉巴西基于 [[WSB Model|WSB 模型]] 进一步证明，普适性不仅体现在静态被引横截面分布上，更贯穿于单篇文献的动态生长轨迹：定义重标度时间 $\tilde{t} = (\ln t - \mu)/\sigma$ 与重标度被引 $\tilde{c} = \ln(1 + c/m)/\lambda$，跨学科文献的引文时序曲线严格重合于标准正态累积分布函数 $\tilde{c} = \Phi(\tilde{t})$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 211–214)]]
+> - **2018 — 《科学》全景综述综合静态与动态普适性（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等在《科学》（*Science*）系统梳理引文动力学的普适性规律，将学科均值相对归一化与微观参数动态重标度主曲线整合为统一框架，确立了跨学科客观评价的基准。
 
 ---
 
@@ -140,4 +141,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学纲领综述中系统评述引文动力学普适性，揭示经同领域同年篇均引文 $c_0$ 相对标准化后各学科引文分布坍缩至对数正态主曲线，并与 WSB 动态生长参数重标度相统一。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 阐明通过篇均引文构建相对标准化指标（$c_f = c / \langle c \rangle$）消解学科尺度差异；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 进一步将普适性拓展为动态引文轨迹向标准累积曲线的重标度坍缩。

@@ -185,6 +185,7 @@ updated: 2026-11-02
 > - **1960s–1980s — [[Bibliometric Analysis|科学计量学]]与科学学奠基（[[Derek de Solla Price|普赖斯]]学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与[[Invisible College|无形学院]]（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
 > - **2016 年 — 随机影响法则与 Q 模型确立（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）** 西纳特拉等在《科学》（*Science*）发表奠基性成果，提出生涯序列置换反事实检验法与双因子 Q 模型，证实突破成果的早年聚集纯由发文速率驱动，确立了选题运气与个体能力相互独立的微观生涯动力学规律。
+> - **2018 年 — 《科学》发表科学学标志性纲领综述（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等汇聚物理学、计算科学、网络科学与科学社会学领军力量，系统确立科学学（Science of Science, SciSci）作为利用海量数字足迹探索科学发展规律的跨学科定量实证范式，奠定了涵盖科学网络、选题权衡、生涯动力学、团队演化与引文机制的研究蓝图。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万学术出版物与科研人员大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]
 > - **2023 年 — 大规模开放科学学数据基础设施构建（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽（Zheng Lin）、尹亚楠（Yanan Yin）、[[Lu Liu|刘鲁]]（Lu Liu）与[[Dashun Wang|王大顺]]（Dashun Wang）开源构建覆盖 1.34 亿篇跨学科文献的科学学数据湖 SciSciNet，完成成果家族消歧归并，建立联邦资助与专利、临床试验的多源记录链接，并高通量预计算颠覆性指数与非典型引文组合，为元科学实证研究提供了降低准入门槛并提升可复现性的公共数据基础设施。
@@ -230,6 +231,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》发表奠基性长篇综述，系统构建科学学涵盖科学网络拓扑、选题保守性、学者生涯随机影响法则、团队规模分化与引文动力学普适性的跨学科实证范式。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，打通资助与成果多源关联并预计算前沿指标，为元科学提供低门槛、高可复现的公共实证基础设施。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出生涯序列置换反事实检验法与双因子 Q 模型，证实选题运气与学者转化能力相互独立，为微观科学学奠定生成机制基础。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元开展资助对照实验。
