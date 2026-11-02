@@ -10,7 +10,7 @@ aliases:
 summary: "由 Derek de Solla Price (1965) 与 Albert-László Barabási (1999) 发展的网络演化动力学理论；指出学术网络中节点的增长具有富者愈富的累积附着规律。在引文网络中，成果获取新增引用的速率与既有被引基数成正比（dc/dt ∝ c），且在越过声望跨越阈值后由内在学术价值接管；在合著网络中，新晋研究者在起步阶段倾向于与高连通度的资深导师联合署名，驱动网络呈现重尾度分布并催生超级学术中枢。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 23
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -51,10 +51,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -82,6 +83,7 @@ updated: 2026-10-31
 > - **2009 — 新兴学科队列与先发优势实证** [[Mark Newman|马克·纽曼]]（Mark Newman）通过追踪网络生物学首批发表成果与紧随其后成果的长期被引，证实先发成果平均获引 101 次，为紧随者（26 次）的 3.88 倍，经验确证了优先连接对早期文献的长期固化红利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009; Wang & Barabási, 2021, p. 186)]]
 > - **2014 — 声望跨越与机制接管验证** 彼得森等人确立声望半衰期与跨越阈值 $c_x$ 动力学，证明资深学者在 $c < c_x$ 享有 4 倍初始获引红利，超越阈值后由成果内在学术价值接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 > - **2021 — 合著网络与科研枢纽拓展** [[Dashun Wang|王大顺]]与巴拉巴西在《科学学的科学》中系统阐明优先连接在合著网络中的运作机制：青年学者挂靠高中心度学者驱动合作网络重尾化，不同学科（生物学重尾深长、数学衰减快速）显现差异化拓扑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
+> - **2023 — 科学学生成机制模型基底确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** 刘等人在《自然-人类行为》综述中将学术优先连接理论确立为科学学生成机制模型的理论基石，系统阐述其作为引文网络累积优势与马太效应微观生成机制的核心定位。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 128)]]
 
 ---
 
@@ -133,7 +135,7 @@ updated: 2026-10-31
 > | **跨越阈值与内在质量接管**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|(Wang & Barabási, 2021, pp. 33–34)]] | 成果累积被引是否达到触发纯优先连接自生长的临界门槛 $c_x$？ | 引文增长对数曲线斜率拐点、超越阈值后的引文半衰期与长程扩散轨迹 | 越过 $c_x$ 后引文动力学与首发头衔脱钩，表明长程影响力回归学术共同体对发现价值的客观认同。 |
 > | **合著网络度分布与枢纽集聚**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, pp. 105–106)]] | 学科合著网络的度分布是否呈现重尾幂律特征？核心枢纽连通性如何？ | 学者合署伙伴数量分布图（$P(k)$ 曲线）、网络最大连通子图比例、平均埃尔德什数 | 幂律重尾提示优先连接主导网络演化，超级枢纽的存在缩短了学科平均沟通路径，但过度集中可能导致学术资源垄断。 |
 > | **青年学者职业网络挂靠机制**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|(Wang & Barabási, 2021, pp. 105–106)]] | 新晋学者初次发表是否通过挂靠高中心度导师获得网络入口？ | 博士毕业首项成果合署导师中心度、独立后学术伙伴网络拓展速率 | 挂靠资深学者降低了青年学者进入学术网络的阻力，但若长期依附超级枢纽未能建立独立网络，提示存在学术依附风险。 |
-| **引文网络幂律分布与先发红利**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|(Wang & Barabási, 2021, pp. 185–186)]] | 新兴学科中早期文献的引文优势是否源于优先连接的时间复利？ | 比较学科初创期不同发表批次文献的长期被引均值与幂律斜率。 | 首批文献引文倍数持续显著高于同质紧随文献支持先发优势；跨学科同构度分布支持普适动力学生成。 |
+> | **引文网络幂律分布与先发红利**<br>[[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|(Wang & Barabási, 2021, pp. 185–186)]] | 新兴学科中早期文献的引文优势是否源于优先连接的时间复利？ | 比较学科初创期不同发表批次文献的长期被引均值与幂律斜率。 | 首批文献引文倍数持续显著高于同质紧随文献支持先发优势；跨学科同构度分布支持普适动力学生成。 |
 
 ---
 
@@ -160,4 +162,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023, p. 128)]] — 将学术优先连接理论列为科学学核心生成机制理论，论证引文累积吸附机制如何构成科学系统马太效应的微观生成基底。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|声望跨越]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|合著枢纽]]与[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|引文幂律演化]]，全景阐释学术优先连接动力学。

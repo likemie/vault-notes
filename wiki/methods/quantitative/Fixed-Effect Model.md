@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: completed
 created: 2026-06-08
@@ -235,3 +236,4 @@ updated: 2026-10-31
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在[[Critical Thinking|批判性思维]]教学干预综合中对比固定与随机效应模型，因真实情境异质性显著而全面转向随机效应模型。
 > - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 批判在异质性教育干预中机械套用固定效应模型导致的[[Confidence Interval|置信区间]]虚窄与假阳性检验膨胀。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐明固定效应虽能控制时间恒定的个体特征，但无法完全消除不可测混杂，仍需实验设计支持严格因果识别（p. 248）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将固定效应模型列为科学学因果推断的基础计量策略，用于吸收个体与机构层面的不随时间变化的不可测混杂特征，辅助识别学术资助与团队机制的因果效应（pp. 341–350）。

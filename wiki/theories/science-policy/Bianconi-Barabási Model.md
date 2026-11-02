@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ginestra Bianconi 与 Albert-László Barabási (2001) 提出的复杂网络演化动力学理论；将成果内生适应度引入优先连接过程，确立引文吸附概率与既有连接数和适应度的乘积成正比（Π ∝ η · c），合理解释了高适应度后来者成果反超早期文献的机制，并在微观适应度服从有界高斯正态分布时自然推导出全局对数正态引文分布。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -39,10 +39,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -55,36 +56,6 @@ updated: 2026-10-31
 
 > [!claim] 核心判断
 > 学术成果的引文累积速率由成果既有被引存量与内生适应度共同驱动。只要后发成果具备更高的内在适应度，其引文增长斜率必将在时间演化中反超先发平庸成果，在理论上破解了纯时序先发垄断；当微观适应度服从有界正态分布时，系统在宏观上自发涌现经验观测到的对数正态引文分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
-
-> [!formula] 边康尼-巴拉巴西适应度模型动力学生长方程
-> 新成果引用既有文献 $i$ 的微观概率正比于文献固有适应度 $\eta_i$ 与初始吸引力修正后的被引存量乘积：
-> 
-> $$\Pi_i = \frac{\eta_i (c_i + 1)}{\sum_j \eta_j (c_j + 1)}$$
-> 
-> 在连续时间近似下，文献 $i$ 的被引增长速率由微分主方程刻画：
-> 
-> $$\frac{\partial c_i(t)}{\partial t} = m \cdot \frac{\eta_i (c_i(t) + 1)}{C t}$$
-> 
-> 积分求得单篇成果的动力学生长轨迹：
-> 
-> $$c_i(t) = \left(\frac{t}{t_i}\right)^{\beta(\eta_i)} - 1 \quad \left(\text{其中} \quad \beta(\eta_i) = \frac{\eta_i}{C}\right)$$
-> 
-> 归一化常数 $C$ 满足统计物理自洽方程 $1 = \int \rho(\eta) \frac{\beta(\eta)}{1 - \beta(\eta)} d\eta$。
-
-> [!geogebra] 边康尼-巴拉巴西适应度模型与后发反超动力学模拟
-> - **横轴** 系统文献总规模 / 时间步 $t$（篇）
-> - **纵轴** 单篇成果累积被引频次 $c(t)$（次）
-> - **滑块 beta1** 先发文献适应度 $\beta_1$（$\beta_1 \in [0.20, 0.60]$，默认 0.40）
-> - **滑块 beta2** 后发突破文献适应度 $\beta_2$（$\beta_2 \in [0.40, 1.20]$，默认 0.85）
-> - **滑块 tobs** 当前观测时点 $t_{\text{obs}}$（$t \in [150, 1000]$，默认 800）
-> - **红线** 先发平庸文献（$t_1 = 15$）被引轨迹 $c_1(t) = 8[(t/15)^{\beta_1} - 1]$
-> - **蓝线** 后发突破文献（$t_2 = 120$）被引轨迹 $c_2(t) = 8[(t/120)^{\beta_2} - 1]$
-> - **绿虚线** 后发平庸对照（$t_3 = 120$）被引轨迹 $c_3(t) = 8[(t/120)^{\beta_1} - 1]$
-> - **橙点** 反超交叉拐点 $P_{\text{cross}} = (t^*, c^*)$，满足 $t^* = \exp\left(\frac{\beta_2 \ln 120 - \beta_1 \ln 15}{\beta_2 - \beta_1}\right)$
->
-> 调节滑块可直观验证：若后发成果适应度与先发文献相同（绿虚线），其轨迹永远被压制在先发红线下方，无法克服普赖斯先发垄断；唯有当后发成果内生适应度突破临界（$\beta_2 > \beta_1$，蓝线）时，增长斜率将在时间演化中反超先发文献，并在 $t = t^*$ 发生轨迹相交，完成对早期成果的影响力超越。
->
-> ![[wiki/assets/geogebra/bianconi_barabasi_fitness.ggb]]
 
 ---
 
@@ -100,6 +71,7 @@ updated: 2026-10-31
 > - **2013 — 引文长期动力学实证与对数正态统一** [[Dashun Wang|王大顺]]、宋超明（Chaoming Song）与巴拉巴西结合引文休眠与时效衰减机制，通过大规模成果引文轨迹实证拟合证实单篇成果的适应度服从正态分布，从而严密推导出宏观引文分布的对数正态形式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 187–188)]]
 > - **2021 — 科学学实证综合与动力学机制确立** [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] 系统整合新兴学科引文队列与超导微观理论（BCS 理论）个案，确立了边康尼-巴拉巴西模型作为解释引文反超与宏观普适分布的基石地位。
 > - **2021 — 终极影响极限与期刊声誉消退定理** 王大顺与巴拉巴西基于动力学极限推导证明，当演化时间趋于无穷时，成果终极累积被引 $c_\infty = m(e^\lambda - 1)$ 仅由内生相对适应度 $\lambda$ 唯一决定，证实长程学术价值取决于内在质量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 214–217)]]
+> - **2023 — 突破性创新后发超越理论基石（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** 刘等人在《自然-人类行为》中将比安科尼-巴拉巴西适应度模型确立为生成机制模型的经典代表，论证内生适应度参数是解释优质后发成果克服时间劣势、实现引文反超的核心动力学机制。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 129)]]
 
 ---
 
@@ -137,6 +109,21 @@ updated: 2026-10-31
 >
 > **应用实例** 约翰·巴丁（John Bardeen）、利昂·库珀（Leon Cooper）与约翰·罗伯特·施里弗（John Robert Schrieffer）于 1957 年提出的超导微观理论（BCS 理论）属于超导领域的后发文献；该成果凭借其对诸多超导谜团的系统解答展现出极高的学术适应度，发表后迅速反超早期文献成为该领域的引文基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 186–187)]]
 
+> [!formula] 边康尼-巴拉巴西适应度模型动力学生长方程
+> 新成果引用既有文献 $i$ 的微观概率正比于文献固有适应度 $\eta_i$ 与初始吸引力修正后的被引存量乘积：
+> 
+> $$\Pi_i = \frac{\eta_i (c_i + 1)}{\sum_j \eta_j (c_j + 1)}$$
+> 
+> 在连续时间近似下，文献 $i$ 的被引增长速率由微分主方程刻画：
+> 
+> $$\frac{\partial c_i(t)}{\partial t} = m \cdot \frac{\eta_i (c_i(t) + 1)}{C t}$$
+> 
+> 积分求得单篇成果的动力学生长轨迹：
+> 
+> $$c_i(t) = \left(\frac{t}{t_i}\right)^{\beta(\eta_i)} - 1 \quad \left(\text{其中} \quad \beta(\eta_i) = \frac{\eta_i}{C}\right)$$
+> 
+> 归一化常数 $C$ 满足统计物理自洽方程 $1 = \int \rho(\eta) \frac{\beta(\eta)}{1 - \beta(\eta)} d\eta$。
+
 > [!theory-proposition] 命题二｜宏观引文分布的数学形态由微观成果适应度分布决定
 > **解释** 经典的纯优先连接模型预测引文网络度分布服从无标度幂律，这对应于所有节点适应度恒定的特例（$\rho(\eta) = \delta(\eta - \eta_0)$）。宏观被引分布 $P(c)$ 是各微观适应度子群体分布的加权叠加：
 > 
@@ -163,9 +150,24 @@ updated: 2026-10-31
 > 
 > $$\ln t^* = \frac{\beta_2 \ln t_2 - \beta_1 \ln t_1}{\beta_2 - \beta_1} \implies t^* = \exp\left(\frac{\beta_2 \ln t_2 - \beta_1 \ln t_1}{\beta_2 - \beta_1}\right)$$
 > 
-> 只要后发成果具备适应度净优势（$\beta_2 > \beta_1$），交叉时间点 $t^*$ 恒为有限实数。当系统时间步 $t > t^*$ 时，后发文献在引文总量上实现确定性超越（$c_2(t) > c_1(t)$），确立了学术创新内在质量对机械时序宿命论的超越。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 186–188)]]
+> 只要后发成果具备适应度净优势（$\beta_2 > \beta_1$），交叉时间点 $t^*$ 恒为有限实数。当系统时间步 $t > t^*$ 时，后发文献在引文总量上实现确定性超越（$c_2(t) > c_1(t)$），确立了学术创新内在质量对机械时序宿命论的超越。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 186–188)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 129)]]
 >
 > **应用实例** 在新兴科学领域初创期，早期开创性文献往往迅速积累数十至上百次引用；随后出现的具有[[Paradigm|范式]]突破性的核心理论虽然发表较晚，但凭借优异的适应度在数年内实现引用爆发并跃居全领域引文榜首。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 186–187)]]
+
+> [!geogebra] 边康尼-巴拉巴西适应度模型与后发反超动力学模拟
+> - **横轴** 系统文献总规模 / 时间步 $t$（篇）
+> - **纵轴** 单篇成果累积被引频次 $c(t)$（次）
+> - **滑块 beta1** 先发文献适应度 $\beta_1$（$\beta_1 \in [0.20, 0.60]$，默认 0.40）
+> - **滑块 beta2** 后发突破文献适应度 $\beta_2$（$\beta_2 \in [0.40, 1.20]$，默认 0.85）
+> - **滑块 tobs** 当前观测时点 $t_{\text{obs}}$（$t \in [150, 1000]$，默认 800）
+> - **红线** 先发平庸文献（$t_1 = 15$）被引轨迹 $c_1(t) = 8[(t/15)^{\beta_1} - 1]$
+> - **蓝线** 后发突破文献（$t_2 = 120$）被引轨迹 $c_2(t) = 8[(t/120)^{\beta_2} - 1]$
+> - **绿虚线** 后发平庸对照（$t_3 = 120$）被引轨迹 $c_3(t) = 8[(t/120)^{\beta_1} - 1]$
+> - **橙点** 反超交叉拐点 $P_{\text{cross}} = (t^*, c^*)$，满足 $t^* = \exp\left(\frac{\beta_2 \ln 120 - \beta_1 \ln 15}{\beta_2 - \beta_1}\right)$
+>
+> 调节滑块可直观验证：若后发成果适应度与先发文献相同（绿虚线），其轨迹永远被压制在先发红线下方，无法克服普赖斯先发垄断；唯有当后发成果内生适应度突破临界（$\beta_2 > \beta_1$，蓝线）时，增长斜率将在时间演化中反超先发文献，并在 $t = t^*$ 发生轨迹相交，完成对早期成果的影响力超越。
+>
+> ![[wiki/assets/geogebra/bianconi_barabasi_fitness.ggb]]
 
 ---
 
@@ -181,7 +183,7 @@ updated: 2026-10-31
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 复合优先连接命题 [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|(Wang & Barabási, 2021, pp. 187–188)]] | **时间与适应度的分离测度**<br>早期引文积累究竟由发表时序驱动还是由内在适应度驱动？ | 追踪新发表成果在同领域同年度成果中的相对引文增速，估计单项适应度参数 $\eta$。 | 引文增速持续跑赢同龄中位曲线支持高适应度判断；若仅依附于早期先发存量而无增速优势，提示适应度平庸。 |
 > | 宏观对数正态生成命题 [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|(Wang & Barabási, 2021, p. 188)]] | **学科分布形态拟合**<br>具体学科子领域的引文分布呈现纯幂律还是对数正态？ | 子领域全量文献引文分布曲线的极大似然估计与对数正态及幂律的似然比检验。 | 显著支持对数正态分布提示微观适应度呈正态分布；极端赢者通吃的幂律长尾提示极少数超级中枢具有超常适应度。 |
-> | 后发反超命题 [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|(Wang & Barabási, 2021, pp. 186–188)]] | **轨迹交叉与反超识别**<br>后发重要成果是否在引文轨迹上实现对先驱成果的反超？ | 绘制不同发表年份同主题经典文献的被引累计时序曲线，检测斜率拐点与交点。 | 轨迹发生相交并实现被引总量反超直接确立适应度模型的解释效力，推翻纯时间[[Determinism\|决定论]]。 |
+> | 后发反超命题 [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|(Wang & Barabási, 2021, pp. 186–188)]]; [[Argument_Liu_2023_NHB\|(Liu et al., 2023, p. 129)]] | **轨迹交叉与反超识别**<br>后发重要成果是否在引文轨迹上实现对先驱成果的反超？ | 绘制不同发表年份同主题经典文献的被引累计时序曲线，检测斜率拐点与交点。 | 轨迹发生相交并实现被引总量反超直接确立适应度模型的解释效力，推翻纯时间[[Determinism\|决定论]]。 |
 
 ---
 
@@ -211,4 +213,5 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023, p. 129)]] — 将比安科尼-巴拉巴西模型列为科学学生成机制模型的核心理论，论述内生适应度如何解释突破性创新成果在时间网络中克服后发劣势实现反超。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 依托 BCS 理论反超事实确立适应度动力学机制；并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 证明长程终极影响仅由相对适应度支配。

@@ -187,6 +187,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Liu_2023_NHB]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
@@ -429,3 +430,4 @@ updated: 2026-10-31
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如[[Class Size|班级规模]]缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以[[Random Assignment|随机分配]]为代表的美式量化评估规程成套引入“新政”福利改革，在[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 探讨科学学中利用随机对照试验检验学术合作成因（如哈佛医学院研讨会面对面交流将合作概率提升 75%）的因果推断范式，同时指出微观干预实验在确定性与外部效度之间的内在张力（pp. 248–251）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 评述科学学中通过实验室受控实验与实地随机对照试验检验机制假说的研究范式（如双盲简历实验检验性别偏误、物理空间随机匹配检验面对面交流对跨学科合作的因果促进），论证微观因果实验对确立科学学因果链条的关键价值（pp. 341–350）。

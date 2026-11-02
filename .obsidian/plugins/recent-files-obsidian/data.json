@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Liu_2023_NHB",
+      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+    },
+    {
+      "basename": "Argument_Stone_2020_PolSoc",
+      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
     },
@@ -165,10 +173,6 @@
       "path": "wiki/concepts/science-policy/Peer Effects in Science.md"
     },
     {
-      "basename": "Argument_Stone_2020_PolSoc",
-      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Clustering Coefficient",
       "path": "wiki/concepts/science-policy/Clustering Coefficient.md"
-    },
-    {
-      "basename": "Death of Distance",
-      "path": "wiki/concepts/science-policy/Death of Distance.md"
     }
   ],
   "omittedPaths": [],
