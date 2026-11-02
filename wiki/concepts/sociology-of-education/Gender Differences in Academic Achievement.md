@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （[[Academic Achievement|学业成就]]性别差异）
@@ -263,7 +263,6 @@ updated: 2026-10-29
 > | [[Inappropriate Baseline Comparisons]] | 方法陷阱 | [[John Hattie\|哈蒂]][[Meta-meta-analysis\|二阶元分析]]在性别比较中无视基线方向与研究权重导致的测量偏误。 |
 > | [[Pierre-Jérôme Bergeron]] | 关联学者 | 从数理统计角度揭露哈蒂性别差异二阶合成违背社会学经验事实的学者。 |
 > | [[John Hattie]] | 批判对象 | 在《可见的学习》中声称男孩学业表现领先女孩（$d=0.12$）的二阶元分析作者。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 实证文献 | 批判哈蒂性别二阶[[Meta-analysis\|元分析]]存在不当基线比较与总体范畴混淆的关键论文。 |
 
 ---
 

@@ -54,7 +54,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Blended Learning
@@ -236,5 +236,3 @@ updated: 2026-10-29
 > | [[Dialogue in Education\|教学对话]] | 实体课堂核心 | 实体课堂通过具身社会临场提供批判性质询与观点抗辩，解决劣构复杂问题。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知促发机制 | 线下面对面研讨强行注入必要的思维摩擦，防止线上人机交互中的无摩擦委托。 |
 > | [[Epistemic Agency\|认识主体性]] | 规范价值旨归 | 人机混合学习致力于引导学生在借助工具的同时掌握最终评判权与主体性。 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Meta-analysis\|元分析]]实证 | 元分析实证表明混合式教学环境在促进生成式 AI 培育[[Higher-Order Thinking Skills\|高阶思维]]中效果最为显著。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | [[Epistemological Theories\|认识论理论]]提升 | 提出人机混合学习的实质是关系性认识主体性协同，实体课堂是防范算法依赖的核心阵地。 |

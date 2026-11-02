@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -162,6 +162,5 @@ updated: 2026-10-29
 > | [[Evidence-Based Education]] | 概念 | 循证教育运动，纯粹评价揭示其实证综合走向去情境化自指系统的异化风险。 |
 > | [[Thomas Aastrup Rømer]] | 人物 | 共同提出并系统发展纯粹评价概念以批判可见学习的丹麦教育哲学家。 |
 > | [[John Hattie]] | 人物 | 《可见的学习》作者，其[[Meta-meta-analysis\|二阶元分析]]体系被指认为纯粹评价的集大成者。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 运用纯粹评价概念解构可见学习五线理论危机的旗舰论证。 |
 
 

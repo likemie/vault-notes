@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -113,6 +113,8 @@ updated: 2026-10-30
 > | [[The Education Trust]] | 智库机构 | 与 Achieve 共同发起 ADP 并注入教育公平与防范低标准理念的民权智库。 |
 > | [[National Governors Association]] | 组织机构 | 汲取 ADP 的成功实践经验并联合发起 CCSS 的最高州长组织。 |
 > | [[Council of Chief State School Officers]] | 组织机构 | 借助 ADP 的跨州行政网络并共同管理后续全国标准的教育官僚联盟。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证[[Document\|文献]] | 明确将 ADP 定性为多州能就共同标准达成一致的“现实证据”的经典研究。 |
 
 ---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 明确将 ADP 定性为多州能就共同标准达成一致的“现实证据”的经典研究。

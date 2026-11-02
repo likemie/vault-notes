@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -91,4 +91,8 @@ updated: 2026-10-22
 > | [[Educational Brokerage Agency]] | 概念 | 中介机构在后真相时代必须采纳的现代方法论工具箱与干预形态。 |
 > | [[Education Media Centre]] | 机构事实 | 践行技术认知法以阻断大众舆论虚假传播链的典型英国教育中介案例。 |
 > | [[Cumulative Knowledge Base]] | 概念 | 唯有阻断算法污染与自利操纵，跨国累积性知识库才能获得广泛社会信任。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 在结论部分（p. 69）将技术认知法确立为解决后真相时代教育证据治理困境的关键战略进路。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 在结论部分（p. 69）将技术认知法确立为解决后真相时代教育证据治理困境的关键战略进路。

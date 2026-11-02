@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -111,4 +111,8 @@ updated: 2026-10-30
 > | [[PISA Shock]] | Concept | 展现出国内执政联盟的意识形态选择性审查与点火对 PISA 震荡触发的关键决定作用。 |
 > | [[Externalization]] | Concept | 自由派教育部长借助 PISA 国际权威打破议会僵局的典型外部化实践。 |
 > | [[PISA Response in France]] | Fact (Event) | 同样展现出政党轮替（左翼冷淡 vs 右翼武器化）特征的西欧代表案例。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 剖析匈牙利 PISA 政策周期性回应的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 剖析匈牙利 PISA 政策周期性回应的核心[[Document|文献]]来源。

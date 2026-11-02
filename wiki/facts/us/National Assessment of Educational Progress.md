@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -160,5 +160,9 @@ updated: 2026-10-26
 > | [[PISA]] | Fact (Program) | 国际学业测验，与 NAEP 一道揭示美国学生在应用型推理上的薄弱。 |
 > | [[National Governors Association]] | Fact (Organization) | 动员 NAEP 差距数据促使各州州长同意建立统一标准的最高行政联盟。 |
 > | [[Achieve]] | Fact (Organization) | 动员 NAEP 危机数据向公众和州议会进行游说推进的核心智库。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 深度剖析 NCES 的 NAEP 映射报告如何被[[Policy Entrepreneur\|政策企业家]]转化为议程工具的研究。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 将 NAEP 界定为美国问责体制中与全员统考互为对照的低利害国家抽样基准的论著。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 深度剖析 NCES 的 NAEP 映射报告如何被[[Policy Entrepreneur|政策企业家]]转化为议程工具的研究。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 将 NAEP 界定为美国问责体制中与全员统考互为对照的低利害国家抽样基准的论著。

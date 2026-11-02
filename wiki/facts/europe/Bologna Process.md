@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -232,12 +232,16 @@ updated: 2026-10-30
 > | [[Geopolitics of Higher Education]] | Concept | 余婧然与谢爱磊将博洛尼亚进程作为透视高校地缘政治能动性的关键案例。 |
 > | [[Academic Ranking of World Universities]] | Fact (Event) | 国际大学排名持续暴露出博洛尼亚形式趋同背后南欧部分国家的实质质量赤字。 |
 > | [[Global Universities Rankings]] | Concept | 衡量欧洲高等教育区全球学术竞争力与声誉的跨国量化评估工具系统。 |
-> | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。 |
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | Argument | 实证批判西班牙高校博洛尼亚对标背后的表面欧洲主义、实质质量落后与学术近亲繁殖。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | Argument | 从福柯权力-知识理论批判解构博洛尼亚进程如何作为知识欧洲支柱之一服务于经贸竞争与全景监控。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 从跨国空间与[[Policy Borrowing\|政策借用]]视角，剖析欧盟借助博洛尼亚进程等三重机制绕开辅助性原则推行趋同的逻辑。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 论述欧洲高等教育质保如何超越政府间博洛尼亚进程并演进为复合认识论基础设施。 |
 > | [[Sotiria Grek]] | Person | 提出认识论基础设施分析框架，解构欧洲高教质保与博洛尼亚进程演化的政策社会学家。 |
 > | [[António Nóvoa]] | Person | 提出欧盟软法治理三重机制与博洛尼亚趋同逻辑的比较教育学者。 |
 > | [[Jason Beech]] | Person | 揭示欧盟借助博洛尼亚进程进行超国家政策转移与治理重构的比较教育学者。 |
 > | [[José Luis García Garrido]] | Person | 深入剖析博洛尼亚进程在南欧成员国落地中的制度异化与质量困境的比较学者。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 实证批判西班牙高校博洛尼亚对标背后的表面欧洲主义、实质质量落后与学术近亲繁殖。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 从福柯权力-知识理论批判解构博洛尼亚进程如何作为知识欧洲支柱之一服务于经贸竞争与全景监控。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 从跨国空间与[[Policy Borrowing|政策借用]]视角，剖析欧盟借助博洛尼亚进程等三重机制绕开辅助性原则推行趋同的逻辑。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 论述欧洲高等教育质保如何超越政府间博洛尼亚进程并演进为复合认识论基础设施。

@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -294,8 +294,6 @@ updated: 2026-10-29
 > | [[Research Translation]] | Concept | 依托中试验证线与工艺放大推进的科技成果向现实生产力转化的系统。 |
 > | [[Cost of Ownership]] | Concept | 中试平台评估与认证前沿工业母机商业可行性的核心量化模型。 |
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统提出深科技试验场与 GMP 中试平台国家战略。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立涵盖 [[National Science and Technology Council\|NSTC]]/NAPMP/Commons/NNCI 的跨部门中试基础设施漏斗与国家微电子战略。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析美国[[Research Universities\|研究型大学]]通过 Albany 300 毫米中试线与 MIT.nano 跨越半导体转化断层的实证文献。 |
 
 ---
 

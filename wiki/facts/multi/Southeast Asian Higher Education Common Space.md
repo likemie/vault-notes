@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -164,5 +164,9 @@ updated: 2026-10-30
 > | [[ASEAN]] | Fact (Organization) | 共同空间的核心发起与依托主体之一，其东盟方式决定了去中心化的合作形态。 |
 > | [[SEAMEO RIHED]] | Fact (Organization) | 共同空间的规划起草与政策协调主体，主导部委层面的多边项目与国家资格对接。 |
 > | [[ASEAN University Network]] | Fact (Organization) | 共同空间中的名校联盟支柱，自主推进微观学科合作、ACTS 学分与 AUN-QA 质保。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 深入解构东南亚共同空间演进动力、双轨分立与博洛尼亚抵制逻辑的比较研究。 |
-> | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 探讨 2024 年共同空间宣言签署的地缘政治动因与跨国学术流动格局重构。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 深入解构东南亚共同空间演进动力、双轨分立与博洛尼亚抵制逻辑的比较研究。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 探讨 2024 年共同空间宣言签署的地缘政治动因与跨国学术流动格局重构。

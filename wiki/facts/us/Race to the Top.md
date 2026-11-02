@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -173,5 +173,9 @@ updated: 2026-10-30
 > | [[American Federation of Teachers]] | Fact (Organization) | 早期参与标准协商、后期抵制 RTTT 增值评价人事解聘条款的教师工会组织。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 260–261)]] |
 > | [[Catalytic Philanthropy]] | Concept | [[Bill & Melinda Gates Foundation\|盖茨基金会]]依托数千万美元资助各州撰写 RTTT 申请方案，形成慈善资本撬动数十亿国库资金的典型案例。 |
 > | [[Gatekeepers]] | Concept | 展现各州教育委员会与立法把关人在面临联邦数亿美元财政激励时的决策权衡与审查责任让渡。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 深入剖析 RTTT 43.5 亿美元资金如何作为外生制度动能将各州采纳窗口急剧压缩至数月的核心[[Document\|文献]]。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 考证 RTTT 推动增值模型绑定教师解聘考核及其引发的中产阶级[[Opt-Out Movement\|退考运动]]的实证研究。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 深入剖析 RTTT 43.5 亿美元资金如何作为外生制度动能将各州采纳窗口急剧压缩至数月的核心[[Document|文献]]。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 考证 RTTT 推动增值模型绑定教师解聘考核及其引发的中产阶级[[Opt-Out Movement|退考运动]]的实证研究。

@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -312,6 +312,3 @@ updated: 2026-10-29
 > | [[Creative Problem Solving]] | 理论 | 实践流程 | CPS 结构化问题解决流程为学生克服思维瓶颈、获得创造成功体验提供阶梯支架。 |
 > | [[Abbreviated Torrance Test for Adults]] | 测量工具 | 客观表现评估 | Meinel et al. (2019) 结合 ATTA 检验创造力训练对 CSE 及客观发散表现的双重促进。 |
 > | [[Problem Solving Inventory]] | 测量工具 | 应对信念测查 | 经典问题解决自陈问卷，评估学生面对复杂难题时的解决信心与趋近应对风格。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证来源 | 二阶元分析确立外认知动力因素对创造力具有显著且稳健的促进效应（$r = 0.14$）。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证来源 | 多层元分析揭示高校训练总体增益（$g = 0.628$）及独立练习深度反思的效能沉淀机制。 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 论证 | 实证来源 | [[Three-Level Meta-Analysis\|三水平元分析]]证实自陈测量受 CMV 显著放大，确立主客观双轨评估的方法学标准。 |

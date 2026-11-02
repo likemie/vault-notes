@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -302,11 +302,6 @@ updated: 2026-10-29
 > | [[Developmental Network State]] | Theory | 剖析美国创新体系因漠视学徒制与制造工人技能而导致先进产能外流的核心理论。 |
 > | [[Fred Block]] | Person | 揭示美国发展型网络国家深陷“低工资道路”并呼吁三方协同投资学徒培训的经济社会学家。 |
 > | [[Michael Kratsios]] | Person | 2026 年白宫科技政策报告主笔，系统提出百万注册学徒目标与工匠学者计划。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC, 2024]] | Argument | 战略报告，确立通过注册学徒制与非学位技能认证化解微电子洁净室技师短缺的方案。 |
-> | [[Argument_Reynolds_2024_JICT\|Reynolds, 2024]] | Argument | 剖析美国现代产业战略中注册学徒制作为[[Policy Conditionalities\|制度化附加条件]]的关键机制。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios, 2026]] | Argument | 白宫战略报告，提出百万注册学徒目标与重构前沿制造工艺知识底座。 |
-> | [[Argument_Freeman_1995_CJE\|Freeman, 1995]] | Argument | 考证 19 世纪普鲁士国家协调工匠带徒传艺并奠定内生制造能力的经典[[Document\|文献]]。 |
-> | [[Argument_Block_2008_PS\|Block, 2008]] | Argument | 系统阐述高技术制造技能断层、MEP 人均 6 美元预算与生产外包制度弊端的经典文献。 |
 
 ---
 

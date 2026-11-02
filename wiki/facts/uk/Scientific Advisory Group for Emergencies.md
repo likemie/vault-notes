@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -174,6 +174,8 @@ updated: 2026-10-30
 > | [[Conflict of Interest in Research]] | Concept | 科学顾问机构必须制度化披露学者潜在商业与政治利益冲突以维护咨询公信力。 |
 > | [[Moral Sidestep]] | Concept | 政客借“遵循科学”修辞回避政治价值权衡与失误问责构成了典型的建构型道德侧步。 |
 > | [[Causality]] | Concept | SAGE 面临的核心元评估难题：顾问建议被采纳与最终疫情受控之间因果推论证据的缺失。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026)]] | Argument | 总结 SAGE 30 分钟应急机制设计与 Independent SAGE 公共对话创新的官方权威报告。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] | Argument | 质询 SAGE 机制合理性、学科失衡、政治推诿及自我评价真空的核心循证政策文献。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|The Royal Society (2026)]] — 总结 SAGE 30 分钟应急机制设计与 Independent SAGE 公共对话创新的官方权威报告。

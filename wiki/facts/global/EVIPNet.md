@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -103,4 +103,8 @@ updated: 2026-10-26
 > | [[Research Translation]] | Concept | 平台常设团队（KTPs）的核心业务职能。 |
 > | [[Policy Brokerage]] | Concept | 网络在全球与本土之间发挥的[[Educational Brokerage Agency\|知识经纪]]与中介转译机制。 |
 > | [[Global Education Cooperation Mechanism]] | Fact | 借鉴 EVIPNet 机制推动教育实证转化的全球多边治理平台。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 将 EVIPNet 作为公共卫生对标案例并系统论述其经验的跨国战略审查。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 将 EVIPNet 作为公共卫生对标案例并系统论述其经验的跨国战略审查。

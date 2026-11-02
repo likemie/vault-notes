@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -227,7 +227,9 @@ updated: 2026-10-29
 > | [[Vergleichsarbeiten]] | Fact (Program) | 德语区循证学校发展中最核心的标准化比较测试数据源。 |
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 确立德国循证学校发展国家制度基准的综合治理战略纲领。 |
 > | [[Academic Achievement]] | Concept | 循证学校发展中微观教学改进活动所指向的终极学生发展靶标。 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] | Argument | 实证检验奥地利校长循证治理态度聚类及其对教学发展活动与工时重构的塑造效应。 |
-> | [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] | Argument | 探讨德语区监测战略下循证学校发展机制及其在教师层面的转化困境。 |
 
+---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 实证检验奥地利校长循证治理态度聚类及其对教学发展活动与工时重构的塑造效应。
+> - [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] — 探讨德语区监测战略下循证学校发展机制及其在教师层面的转化困境。

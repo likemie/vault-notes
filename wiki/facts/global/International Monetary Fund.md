@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -209,7 +209,10 @@ updated: 2026-10-30
 > | [[Shadow State]] | 概念 | 财政紧缩倒逼教育公共职能外包所滋生的非政府组织去政治化替代状态。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 111–112)]] |
 > | [[Robert Arnove]] | 人物 | 率先从世界体系分析批判 IMF 与世行教育援助负面效应的代表学者。 |
 > | [[Carlos Alberto Torres]] | 人物 | 深刻批判 IMF 与世行紧缩方案系统性瓦解[[Development Education\|发展中国家教育]]行政机器的政治社会学学者。 |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析国际货币基金组织在跨国[[Policy Borrowing\|政策借用]]连续谱中扮演的受迫性转移（Direct Coercive Transfer）与硬性制度强加功能。 |
-> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视 IMF 与世行教育援助政策，揭示其防卫性规训、固化国际分层以及扶植影子国家的政治经济学后果。 |
-> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析 IMF 违约黑名单机制为多边银行提供的零信用风险保障，以及债务上限对极贫国教育借贷的阻断效应。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 剖析国际货币基金组织在跨国[[Policy Borrowing|政策借用]]连续谱中扮演的受迫性转移（Direct Coercive Transfer）与硬性制度强加功能。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用世界体系分析透视 IMF 与世行教育援助政策，揭示其防卫性规训、固化国际分层以及扶植影子国家的政治经济学后果。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角系统剖析 IMF 违约黑名单机制为多边银行提供的零信用风险保障，以及债务上限对极贫国教育借贷的阻断效应。

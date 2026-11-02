@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -295,4 +295,3 @@ updated: 2026-10-29
 > | [[SCAMPER]] | 概念 | 协同工具 | SCAMPER 的 7 大算子为头脑风暴遭遇阻碍时提供定向突破提示。 |
 > | [[Mind Mapping]] | 概念 | 视觉画布 | 思维导图常作为头脑风暴现场记录构想与梳理树状分支的最佳视觉工具。 |
 > | [[Cognitive Load Theory]] | 理论 | 损失解释 | 解释生产阻塞如何因抢占瞬时[[Working Memory\|工作记忆]]通道而造成思路中断与遗忘。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 元分析确立独立训练对小组协作的优势基准（$g = 0.682$ vs $0.567$）。 |

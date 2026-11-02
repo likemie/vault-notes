@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -104,4 +104,8 @@ updated: 2026-10-30
 > | [[Global Testing Culture]] | Concept | 全球眼与受教身体得以全球化扩散的大规模测验文化环境。 |
 > | [[Governing by Numbers]] | Concept | 全球眼实施远距离凝视与[[Commensuration\|通约]]控制的技术载体。 |
 > | [[Performativity]] | Concept | 受教身体在测验数据监测下展现的高强度绩效表演。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 从教育政策社会学视角系统阐述全球眼与受教身体的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 从教育政策社会学视角系统阐述全球眼与受教身体的核心[[Document|文献]]来源。

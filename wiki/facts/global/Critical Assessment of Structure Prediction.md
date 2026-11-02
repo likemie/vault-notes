@@ -125,9 +125,10 @@ updated: 2026-11-02
 > | [[Focused Research Organization]] | Concept | 旨在复刻 CASP 与 DeepMind 攻关模式、填补大学工程科学空白的新型组织。 |
 > | [[Industrial Commons]] | Concept | CASP 与 PDB 共同构成的生物信息学公共基准公地。 |
 > | [[Metascience]] | Concept | 将盲测基准竞赛作为克服学术自测偏差的元科学机制研究。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 CASP 作为中等规模工程科学突破典范的系统论述。 |
 | [[AlphaFold]] | Fact (Program) | 在 CASP13 与 CASP14 中实现革命性预测突破的深度学习系统。 |
 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] | Argument | 详述 CASP13 见证毫无生物学建制背景的 DeepMind 团队击败全球 97 支顶尖专家团队的里程碑案例。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 CASP 作为中等规模工程科学突破典范的系统论述。

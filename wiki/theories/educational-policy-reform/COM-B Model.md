@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -175,5 +175,4 @@ updated: 2026-10-30
 > | [[Evidence-Informed Practice]] | Concept | 探讨专业人员如何在结合专业技能与证据的同时，克服能力与动机障碍。 |
 > | [[Research Schools Network]] | Fact (Organization) | 运用 COM-B 模型搭建实证大使与校际支持网络以改变课堂教学行为的经典案例。 |
 > | [[Early Intervention Foundation]] | Fact (Organization) | 率先将 COM-B 模型引入地方政府儿童服务与家庭政策[[Knowledge Mobilisation\|知识动员]]的标杆中介。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 系统阐述 COM-B 模型如何作为知识中介方法选择与变革理论核心支撑的文献。 |
 

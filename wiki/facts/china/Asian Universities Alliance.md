@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -164,5 +164,9 @@ updated: 2026-10-30
 > | [[Knowledge Power]] | Concept | 亚洲大学联盟在学术研究中作为精英型制度载体所表征的核心[[Construct\|理论构念]]。 |
 > | [[Knowledge Diplomacy]] | Concept | 与知识权力相对照的对等互惠式[[Internationalization of Higher Education\|高等教育国际化]]理论框架。 |
 > | [[Research Universities]] | Concept | 组成联盟的15所亚洲顶尖公立高水平旗舰学府。 |
-> | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | Argument | 深入对比分析亚洲大学联盟与丝绸之路大学联盟制度逻辑的核心文献。 |
-> | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与[[Soft Power\|软实力]]中不同定位的实证研究。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 深入对比分析亚洲大学联盟与丝绸之路大学联盟制度逻辑的核心文献。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与[[Soft Power|软实力]]中不同定位的实证研究。

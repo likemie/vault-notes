@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -145,4 +145,8 @@ updated: 2026-10-29
 > | [[State Simplification]] | Concept | 取证式调查背后的宏观政[[Governmentality\|治理性]]，二者共同服务于国家自上而下的行政控制。 |
 > | [[Social Science as Legitimation Alibi]] | Concept | 取证式调查将学术研究与案例证据降格为合法化包装的核心体现。 |
 > | [[Governing by Inspection]] | Theory | 借督导治理理论所深刻揭示的督导知识政治微观机制之一。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 系统复盘取证式调查内部文本重拟与证据编排机制的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 系统复盘取证式调查内部文本重拟与证据编排机制的核心[[Document|文献]]。

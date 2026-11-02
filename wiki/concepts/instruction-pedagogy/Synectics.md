@@ -58,7 +58,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -245,4 +245,3 @@ updated: 2026-10-29
 > | [[Brainstorming]] | 概念 | 互补工具 | 头脑风暴提供无约束的宽松氛围，提喻法提供结构化深入的类比引导。 |
 > | [[SCAMPER]] | 概念 | 算子协同 | SCAMPER 的“借用 A”与“修改 M”算子与提喻法的直接类比天然相通。 |
 > | [[Remote Associates Test]] | 测量工具 | 机制检测 | RAT 常用于检验提喻法训练后个体在远距离弱语义连接检索上的跃升。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 学术渊源 | [[Literature Review\|文献综述]]确立提喻法作为经典创造力干预流派的理论地位与学术脉络。 |

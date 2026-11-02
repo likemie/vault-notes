@@ -64,7 +64,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -209,14 +209,13 @@ updated: 2026-10-29
 > | [[Curiosity-Driven Research]] | Concept | 依托科学探索中心激发公众与青少年对基础物理与物质科学的好奇心探索欲。 |
 > | [[National Science Foundation]] | Fact (Organization) | 长期资助非正式科学学习（AISL）与国家非正式 STEM 教育网络建设。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 白宫科技委员会，在[[National Strategy on Microelectronics Research\|国家微电子研究战略]]中部署依托非正式网络推进公众芯片科普。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society, 2026]] | Argument | 英国皇家学会报告，系统确立非正式科学参与作为国家社会文化基础设施的本体地位。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC, 2024]] | Argument | 战略报告，确立依托非正式科学网络破除半导体隐形壁垒与引导早期职业认知的战略路径。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，在第三目标中规划依托全美非正式科学网络（NISE Network）与科技馆开展公众半导体科普与 K-12 职业通路启蒙。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 系统评估国家非正式科学学习生态的公众诉求与面临的财政生存危机，倡导打破正规学校教育与校外社会场馆的制度藩篱，构建普惠、协同且具有长期队列追踪的多元筹资与支持体系。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026]] — 英国皇家学会报告，系统确立非正式科学参与作为国家社会文化基础设施的本体地位。
 
 
 ---

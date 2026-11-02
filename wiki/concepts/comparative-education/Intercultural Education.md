@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -198,9 +198,6 @@ updated: 2026-10-29
 > | [[International Schools]] | 机构类型 | 容纳多国籍流动学生的典型实践[[Champ\|场域]]，其实践既可能是跨文化互学的先锋，也可能沦为封闭的国际特权飞地。 |
 > | [[International Baccalaureate]] | 课程事实 | 试图超越单一国家中心主义的跨国资格设计，但面临国内升学公开竞争与公平性的多重制度博弈。 |
 > | [[Comparative Policy Analysis]] | 研究方法 | 横向对比不同国家应对[[Migrant Children\|流动儿童]]时采取的同化、排斥或跨文化承认政策。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证条目 | 追踪比较教育与跨文化教育从建制分离到重新合流的历史，提出将文化配置作为比较教育核心对象。 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987)]] | 论证条目 | 深入论证双文化课程与国际跨文化课程在服务不同流动学生时的适用边界与资格承认争议。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。 |
 
 ---
 

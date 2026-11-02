@@ -67,7 +67,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -118,7 +118,6 @@ updated: 2026-10-30
 > | **[[Thomas Theorem\|情境定义]]（Definition of the Situation）** | 核心机制 | 托马斯定理在微观层面的[[Operationalization\|操作化]]：行动者主观裁定所处现实的性质，其裁定直接决定了行动的真实后果。 |
 > | **[[Reflexivity\|反身性]]指示** | 机制 | 行动者向自我做出指示、权衡利弊并在内心对话中预演可能后果的过程。 |
 > | **拟剧分析（Dramaturgical Analysis）** | [[Analytic Framework\|分析框架]] | [[Michael Gove\|戈夫]]曼提出的框架，运用前台、后台、道具、剧班与印象管理透视社会表演。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证符号互动论作为后功能主义时期比较教育学 26 种关键理论/方法取向之一的学术史定位。 |
 
 > [!mechanism-map]- 机制图：符号互动论的微观意义生成与行动协调链条
 > ```mermaid

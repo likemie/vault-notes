@@ -55,7 +55,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -121,4 +121,8 @@ updated: 2026-10-30
 > | [[Productive Failure]] | 概念 | 赫梅洛-西尔弗联合提出[[Problem Solving\|问题解决]]与生产性失败的现代整合模型。 |
 > | [[Scaffolding]] | 概念 | 赫梅洛-西尔弗反驳认知负荷派关于探究缺乏指导的核心理论支柱。 |
 > | [[Clark A. Chinn]] | 人物 | 赫梅洛-西尔弗数十年紧密合作的学术盟友，共同发表多篇标志性文献。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 赫梅洛-西尔弗作为核心作者参与发表的长篇里程碑式抗辩综述。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 赫梅洛-西尔弗作为核心作者参与发表的长篇里程碑式抗辩综述。

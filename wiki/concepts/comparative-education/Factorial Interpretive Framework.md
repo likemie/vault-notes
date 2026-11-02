@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -315,7 +315,6 @@ updated: 2026-10-30
 > | [[National Character]] | 概念 | 早期因素框架用于指涉民族文化精神的核心解释[[Construct\|构念]]，后因同义反复陷入争议。 |
 > | [[Educational Meliorism]] | 概念 | 驱动因素探究的深层伦理旨趣，坚信理解制度动因有助于涵养哲学态度与促进民主改良。 |
 > | [[Positivism]] | 概念 | 战后向因素框架发起[[Paradigm\|范式]]清洗的对立[[Epistemic Stances\|认识论立场]]，追求[[Value Neutrality\|价值中立]]与定量法则。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 提供汉斯因素框架系统考证、分类体系剖析与实证论辩全景记录的核心文献。 |
 
 ---
 

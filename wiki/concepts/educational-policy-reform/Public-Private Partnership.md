@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -232,8 +232,6 @@ updated: 2026-10-29
 > | [[Precompetitive Research]] | 概念 | 研发型 PPP 为避免同业竞争者商业泄密与垄断合规风险而严格遵循的研发边界。 |
 > | [[Triple Helix]] | 理论 | 阐释政府、产业界与大学三方在研发型 PPP 机制中相互赋能与协同演化的理论基础。 |
 > | [[National Semiconductor Technology Center]] | 事实 | 《[[CHIPS and Science Act\|芯片法案]]》授权设立的第三代法定国家级半导体研究公私合作伙伴关系核心载体。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 揭示新型跨国公司依托公私伙伴关系重塑全球教育转移与政策咨询格局的核心文献。 |
-> | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 论证 | 详述科技研发型 PPP 在半导体产业三代机制演进与多边治理维度的经典实证分析。 |
 
 ---
 

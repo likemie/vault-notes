@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -133,4 +133,8 @@ updated: 2026-10-30
 > | [[Ofsted]] | Fact (Organization) | 借督导治理理论所重点剖析的全球新自由主义督察先驱案例。 |
 > | [[Swedish Schools Inspectorate]] | Fact (Organization) | 借督导治理在北欧高福利分权体制下重构调控机制的标志性样本。 |
 > | [[Jenny Ozga]] | Person | 为该理论奠定治理知识转型与[[European Education Space\|欧洲教育空间]]分析基石的关键学者。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 借督导治理理论核心学术梯队将其运用于循证实践解构的权威文本。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 借督导治理理论核心学术梯队将其运用于循证实践解构的权威文本。

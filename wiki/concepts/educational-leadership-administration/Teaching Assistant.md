@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -286,8 +286,6 @@ updated: 2026-10-29
 > | [[Pupil Premium]] | Fact | 英格兰学校用于聘用助教与采购循证干预的专项财政资助政策。 |
 > | [[Pupil Equity Funding]] | Fact | 苏格兰直接拨付学校用于改善弱势学童成就、支撑校长自主聘用助教的专项资金。 |
 > | [[Ofsted]] | Fact (Organization) | 英格兰高利害督导机构，其严苛审查促使[[School Leadership\|学校领导]]层寻求利用助教证据进行防御性合规。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 系统记载助教常规逆向效应、EEF 七项配置建议及 IFS [[Difference-in-Differences\|双重差分]]评估的核心文献。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示英格兰助教证据政治化裁员辩护与苏格兰校长实践手艺抵制的文献。 |
 
 ---
 

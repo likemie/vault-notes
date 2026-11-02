@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -235,7 +235,6 @@ updated: 2026-10-30
 > | [[Robert Ulich\|罗伯特·乌利希]] | 人物 | 比较教育第二代际核心代表，倡导以人为本的古典博雅教化，作为抵御极权主义的思想屏障。 |
 > | [[Isaac Kandel\|艾萨克·坎德尔]] | 人物 | 比较教育史学奠基人，强调博雅自由教育对民主公民人格与国际理解的基石意义。 |
 > | [[Nicholas Hans\|尼古拉斯·汉斯]] | 人物 | 强调西方基督教与古典人道主义自由教育传统对塑造欧洲[[National Character\|民族性格]]的持久作用。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 阐明第二代际将自由教育与启蒙改良、民主公民及反极权主义深度融合的人文主义经典传统。 |
 
 ---
 

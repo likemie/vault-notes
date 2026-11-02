@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-23
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -193,7 +193,7 @@ updated: 2026-10-30
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang and Barabási (2021)]]; Hirsch (2007)
 > **复合计量指标对未来科研产出卓越度的强预测效度命题** 希尔施（Hirsch, 2007）对凝聚态物理学者开展前后跨度各 12 年的生涯追踪表明，单纯发文量（生产力）在预测学者未来表现上效度最弱，篇均被引量次之；$h$ 指数不仅对未来 12 年累积总被引展现出最强预测力，而且在预测学者在随后 12 年发表新作的被引增量时，依然全面超越总引用与发文量，证实了将生产力与影响力卷积的复合指标具备卓越的跨期预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 
-> [!claim] Sinatra et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]]
+> [!claim] [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]]
 > **[[Q-Factor|Q 因子]]在顶尖荣誉预测中的效度优势** Sinatra et al. 基于《物理评论》长周期物理学者引文网络构建受试者工作特征（ROC）预测竞争，评估各项指标对诺贝尔物理学奖得主的辨识效力。结果证实，表征学者个体稳定转化能力的 Q 因子取得了最高的受试者工作特征曲线下面积（AUC），预测精度显著超越 h 指数与总被引量，而单纯的发文篇数在预测顶尖荣誉上表现垫底，其 ROC 曲线接近无区分对角线。这表明在识别真正卓越的学术突破时，剥离了发文数量干扰与选题随机运气的个体均值稳态指标具备最优的预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–70)]]
 
 ---
@@ -204,7 +204,7 @@ updated: 2026-10-30
 > | **效标无偏性约束** | 预测效度的测量学真实度严格取决于外部效标是否排除主观偏倚与效标污染 | 选拔考试开发、绩效评估体系设计 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
 > | **预测效度不对称性** | 高阶认知潜能作为预测源时的关联强度（$r = 0.29$）系统性高于作为效标结果（$r = 0.12$） | 纵向[[Cohort Study\|追踪研究]]、拔尖创新人才选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek and Runco (2018) |
 > | **教学行为预测效度** | 行为锚定课堂观察对学业增益具备稳健预测效度（0.08–0.12 SD），显著优于零预测力的静态文凭 | 教师效能评价、循证教研督导、跨国教育质量诊断 | Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Bau and Das (2017) |
-> | **科研指标长程效度** | 复合计量指标（$h$ 指数、Q 因子）对学术卓越的预测效度显著超越单纯发文量与篇均引用 | 学者终身教职评审、科研基金遴选与顶尖学术荣誉预测 | Hirsch (2007); Sinatra et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] |
+> | **科研指标长程效度** | 复合计量指标（$h$ 指数、Q 因子）对学术卓越的预测效度显著超越单纯发文量与篇均引用 | 学者终身教职评审、科研基金遴选与顶尖学术荣誉预测 | Hirsch (2007); [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] |
 
 ---
 
@@ -276,7 +276,7 @@ updated: 2026-10-30
 > | Bau and Das (2017) | 巴基斯坦旁遮普省公立与私立小学教师样本 | 教师静态资质（文凭学历、教师执照、职前认知测试） | 学生跨期学业增益（标准化数学与语言测验） | 关联系数近乎零（$r \approx 0.02, p > .10$），无统计显著性 | 控制学校[[Fixed-Effect Model\|固定效应]]与学生基线能力 | 证实静态文凭资质对微观学业生产力缺乏预测有效性 |
 > | Gill et al. (2016) | 美国公立学校大规模课堂观察工具对比评测 | 5 套主流观察工具（CLASS、FFT、[[Plato]]、MQI、UTeach） | 学生统考成绩年度增值值（VAM） | 工具中“认知挑战”、“反馈质量”维度对学业增益的预测相关达 $r = 0.15\text{–}0.25$ | 控制学生社会人口学特征与过往成绩 | 奠定微观行为维度驱动学业增长的内容预测效度基石 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]]; Hirsch (2007) | 凝聚态物理学者前后各 12 年生涯追踪样本 | 前 12 年各项指标（发文量、总被引、篇均被引、$h$ 指数） | 后 12 年新作被引增量 | $h$ 指数对未来新作引用增量的预测相关性显著最高，发文量预测效度最弱 | 12 年跨期追踪拟合 | 证实将产量与影响力卷积的复合指标在长程学术卓越度上具备最高预测效度 |
-| [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]]; Sinatra et al. (2016) | 《物理评论》跨世纪物理学者引文网络与诺贝尔物理学奖得主样本 | 多指标受试者工作特征（ROC）竞争检验 | 预测诺贝尔物理学奖得主的受试者工作特征曲线下面积（AUC） | Q 因子拥有最高的受试者工作特征曲线下面积（AUC），准确率居首；发文量 $N$ 预测精度垫底，接近随机线 | ROC 竞赛分析显著 | 证实剥离选题随机性与发文数量膨胀的稳态能力指标在预判顶尖学术卓越上具备最高预测效度 |
+| [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]]; [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 《物理评论》跨世纪物理学者引文网络与诺贝尔物理学奖得主样本 | 多指标受试者工作特征（ROC）竞争检验 | 预测诺贝尔物理学奖得主的受试者工作特征曲线下面积（AUC） | Q 因子拥有最高的受试者工作特征曲线下面积（AUC），准确率居首；发文量 $N$ 预测精度垫底，接近随机线 | ROC 竞赛分析显著 | 证实剥离选题随机性与发文数量膨胀的稳态能力指标在预判顶尖学术卓越上具备最高预测效度 |
 
 ---
 
@@ -292,7 +292,7 @@ updated: 2026-10-30
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Meta-meta-analysis|二阶元分析]]，系统证实高阶潜能测验在作为[[Independent Variable|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable|变量]]角色的调节显著性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao|高考]]与选拔性评估中的测量学准则与效标约束条件。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，系统总结微观教学行为对学生未来学业增益的跨期预测效度（0.08–0.12 SD），确立课堂实然行为优于静态文凭资质的预测源效能。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 追踪物理学者 12 年生涯数据并开展诺贝尔奖多指标受试者工作特征（ROC）竞争分析，证实复合计量指标与稳态转化能力具备最高预测效度，而发文量预测效度垫底。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 物理学者 12 年生涯追踪证实复合计量指标对长程学术卓越度的预测效度最高，诺贝尔奖多指标受试者工作特征（ROC）竞争分析亦证实稳态转化能力最高，发文量垫底。 [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]]
 
 ---
 
@@ -307,8 +307,3 @@ updated: 2026-10-30
 > | [[Effective Teaching]] | 概念 | 效能指向 | [[Classroom Observation\|课堂观察]]工具的预测效度直接衡量其能否有效识别并预测卓越教学行为对学业的增益。 |
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具 | 实证检验确立其综合评分对学生跨期[[Academic Achievement\|学业成绩]]增长具有 0.08–0.12 SD 的稳健预测力。 |
 > | [[Second-Order Meta-Regression]] | 方法 | 检验工具 | 二阶[[Meta-regression\|元回归]]实证检验并确立了[[Independent Variable\|预测变量]]与[[Dependent Variable\|效标变量]]的[[Effect Size\|效应量]]不对称性。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述预测效度的定义、效标要求与高风险考试应用。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | 综合 124 万人样本实证确立创造潜能对长期成就的量化预测效度基准。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供微观课堂教学行为对中低收入国家学生学业增值预测效度的实证证据。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 论证 | 实证来源 | 追踪物理学者各 12 年生涯数据，证实复合计量指标对长程学术卓越度的预测效度。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 论证 | 实证来源 | 诺贝尔奖 ROC 预测竞赛实证确立 Q 因子的卓越预测效度与发文量的预测低效。 |

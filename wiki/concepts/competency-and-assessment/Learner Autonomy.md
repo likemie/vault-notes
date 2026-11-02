@@ -77,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （学习者自主性）
@@ -256,9 +256,4 @@ updated: 2026-10-29
 > | [[Structured Teaching]] | 概念 | 与学习者自主性构成动态平衡的教学组织维度。 |
 > | [[Constructivist Paradigm]] | 理论 | 将学习者确立为能动意义建构主体的基础理论[[Paradigm\|范式]]。 |
 > | [[Cognitive Load Theory]] | 理论 | 解释缺乏支架的极端自主导致[[Working Memory\|工作记忆]]过载的认知机制。 |
-> | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] | 论证 | 质性揭示[[Epistemology\|认识论]]反思与元认知自信双轨生成自主性的实证研究。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 论证 | 通过析因试验剥离软件自主与教师[[Direct Instruction\|直接教学]]独立因果贡献的研究。 |
-> | [[Argument_Håkansson_2015_TT]] | 论证 | 综合实证反思去结构化放任自学导致学业滑坡的[[Systematic Review\|系统综述]]。 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 论证 | 综述生成式 AI 时代学习者防范[[Cognitive Offloading\|认知卸载]]与维持[[Epistemological Vigilance\|认识论警觉]]的文献。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 从存在论教育学批判将自主学习窄化为主观自我监控的哲学论述。 |
 

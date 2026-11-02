@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -116,6 +116,7 @@ updated: 2026-10-22
 > - **突破学校教育窄化视野** 首次在国家层面将“学习”的概念从传统的 K–12 与高等教育体系拓展至全生命周期的家庭、社区与职场实践，重构了加拿大公共政策的[[Lifelong Learning\|终身学习]][[Epistemology\|认识论]][[Paradigm\|范式]]。
 > - **为无教育部体制提供实证凝聚力** 在缺乏联邦主管部委的特殊宪政国情下，CCL 充当了连接联邦政府、各省教育部门与学术共同体的非官方客观纽带，填补了国家级宏观数据分析空白。
 > - **国际[[Epistemic Governance\|知识治理]]标杆与启示** 其研制的 CLI 指数与五大网络模式被[[OECD\|经合组织]]（OECD）、[[UNESCO\|联合国教科文组织]]（UNESCO）与欧洲终身学习网络广泛引述与借鉴。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 系统论述了 CCL 的创设背景、15 年演进轨迹及其因联邦宪法博弈夭折的深层根源。
 
 ---
 
@@ -152,4 +153,3 @@ updated: 2026-10-22
 > | [[What Works Clearinghouse]] | 机构事实 | [[OECD]] 2007 年标杆追踪案例；依托法定授权持续存续，与 CCL 形成制度对照。 |
 > | [[Danish Clearinghouse for Educational Research]] | 机构事实 | OECD 2007 年标杆追踪案例；同样因政府短期合同未续而关停的对照案例。 |
 > | [[EPPI-Centre]] | 机构事实 | OECD 2007 年标杆追踪案例；依托大学学术自治成功抵御财政危机的对照案例。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述了 CCL 的创设背景、15 年演进轨迹及其因联邦宪法博弈夭折的深层根源。 |

@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -185,10 +185,14 @@ updated: 2026-10-30
 > | [[António Nóvoa]] | 人物 | 葡萄牙比较教育学者，深入解构欧盟最佳实践修辞、指标基准与教育空间建构的权威学者。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，在五位置[[Champ\|场域]]模型中将欧盟指认为深刻重构跨国教育空间的超国家行动者。 |
 > | [[OECD]] | 事实 | 跨机构共生同盟，欧盟深度资助并采信经合组织测评数据推进软性治理。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证[[Document\|文献]]。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 剖析欧盟如何在[[Subsidiarity Principle\|辅助性原则]]约束下通过三重机制渗透国家教育政策的核心论证文献。 |
-> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 论证 | 剖析[[EU Skills Agenda\|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。 |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation\|知识中介]]网络与 Eurydice 推动证据知情教育政策。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 探讨欧洲教育空间中空间实践与学生流动的历史演变。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视监控体系。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | 论证 | 剖析欧洲教育区（EEA 2030）战略中欧盟辅助性原则硬约束、理事会与欧委会博弈及开放协调法指标锁定的文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证[[Document|文献]]。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析欧盟如何在[[Subsidiarity Principle|辅助性原则]]约束下通过三重机制渗透国家教育政策的核心论证文献。
+> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 剖析[[EU Skills Agenda|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation|知识中介]]网络与 Eurydice 推动证据知情教育政策。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨欧洲教育空间中空间实践与学生流动的历史演变。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视监控体系。
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 剖析欧洲教育区（EEA 2030）战略中欧盟辅助性原则硬约束、理事会与欧委会博弈及开放协调法指标锁定的文献。

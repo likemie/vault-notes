@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -163,6 +163,10 @@ updated: 2026-10-30
 > | [[Picking Up the Pace]] | 事实 | 新西兰本土同期早期干预项目，同样揭示教学改进依赖深入条件而非简单经济奖惩。 |
 > | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 新西兰财政部简报与托利部长的绩效工资倡议同属新自由主义紧缩政策[[Discourse\|话语]]。 |
 > | [[Tennessee STAR Project 1985-1989]] | 事实 | 同处 1980 年代中叶开展的实证研究，共同构成了审视教育政策[[Evidence Standards\|证据标准]]的历史参照。 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 引用斯科特报告证实早在 1986 年官方已承认测量工具缺失，警示 21 世纪不可草率推行绩效工资。 |
-> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 论证 | [[John Hattie\|哈蒂]]在第二回合论辩中回应绩效工资争议，承认客观评价优秀教学面临极高技术困难。 |
-> | [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] | 论证 | 奥尼尔剖析新西兰财政部[[Research Utilization\|证据使用]][[Material Fallacies\|实质谬误]]，呼应了斯科特报告对教育复杂性的审慎态度。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 引用斯科特报告证实早在 1986 年官方已承认测量工具缺失，警示 21 世纪不可草率推行绩效工资。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — [[John Hattie|哈蒂]]在第二回合论辩中回应绩效工资争议，承认客观评价优秀教学面临极高技术困难。
+> - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 奥尼尔剖析新西兰财政部[[Research Utilization|证据使用]][[Material Fallacies|实质谬误]]，呼应了斯科特报告对教育复杂性的审慎态度。

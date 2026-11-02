@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -200,4 +200,8 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 > | [[Effect Size]] | Concept | STAR 的大效应量（0.62–0.66）与跨[[Research Synthesis\|研究综合]]均值（约 0.20）的张力构成了效应量方法论辩论的名篇。 |
 > | [[Programme Fidelity vs Adaptation]] | Concept | 真实政策实施中家长施压调班与[[Teacher Qualifications\|教师资质]]稀释体现了干预依从度与本土适应的冲突。 |
 > | [[Picking Up the Pace]] | Fact (Program) | 新西兰本土小学低段类似小班干预，印证了小班化与教学法革新协同增益的机制。 |
-> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | Argument | [[John Hattie\|哈蒂]]在第二回合辩论中对 Snook 就 STAR 项目元分析效应量低估批判的回应与均值辩护。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — [[John Hattie|哈蒂]]在第二回合辩论中对 Snook 就 STAR 项目元分析效应量低估批判的回应与均值辩护。

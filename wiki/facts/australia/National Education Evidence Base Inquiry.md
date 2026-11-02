@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -112,4 +112,8 @@ updated: 2026-10-26
 > | [[Gonski 2.0]] | 政策 | 继承并升格了本次审查的核心结论，将其转化为全国教育改革第 23 条建议。 |
 > | [[Education Endowment Foundation]] | 组织 | 本次审查报告明确将其列为澳大利亚建立国家证据机构的首要国际蓝本。 |
 > | [[Co-affiliation]] | 概念 | SVA 董事兼任生产力委员会专员展示了[[Policy Network\|政策网络]]跨界多重任职的机制运作。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 详尽披露本次审查中的专员双重身份、SVA 游说文件及其在 AERO 创生链条中的前序功能。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 详尽披露本次审查中的专员双重身份、SVA 游说文件及其在 AERO 创生链条中的前序功能。

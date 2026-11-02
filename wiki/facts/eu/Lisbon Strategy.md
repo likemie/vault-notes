@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -204,11 +204,15 @@ updated: 2026-10-30
 > | [[Subsidiarity Principle]] | Concept | 欧盟条约中限制超国家教育立法权的宪制原则，倒逼里斯本战略走向软性数据治理。 |
 > | [[Externalization]] | Concept | 成员国政府借助里斯本战略指标与跨国测评合法化国内争议性改革的策略机制。 |
 > | [[Policy Borrowing]] | Concept | 成员国在里斯本战略同行学习机制中开展跨国政策经验借鉴与移用的[[Theoretical Perspective\|理论视角]]。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 论证欧盟如何依托经合组织数据与里斯本指标在缺乏立法权下整合欧洲教育空间。 |
-> | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | [[Systematic Review\|系统综述]]揭示 PISA 与里斯本战略在政策与概念框架上的紧密协同如何深刻推动欧盟国家的教育改革。 |
-> | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]] | Argument | 分析里斯本议程巴塞罗那研发目标的线性逻辑及其在欧洲现实中的受挫。 |
-> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | Argument | 剖析从里斯本战略到欧洲 2020 战略的演进脉络及社会包容政策议程。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | Argument | 剖析里斯本战略如何确立“由结果掌舵”范式，借助开放协调法与基准指标构筑欧洲全景敞视监控。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 论述开放协调法在欧洲教育空间塑造中的软治理传导机制。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 实证追踪里斯本战略开创的 OMC 指标网络在欧洲教育区（EEA 2030）中长达二十年的制度锁定与财政挂钩。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较分析欧洲与东南亚高教区域主义，揭示里斯本战略如何借助知识经济话语将高等教育提升至欧盟核心议程并赋予深层政策协调合法性。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 论证欧盟如何依托经合组织数据与里斯本指标在缺乏立法权下整合欧洲教育空间。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示 PISA 与里斯本战略在政策与概念框架上的紧密协同如何深刻推动欧盟国家的教育改革。
+> - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 分析里斯本议程巴塞罗那研发目标的线性逻辑及其在欧洲现实中的受挫。
+> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 剖析从里斯本战略到欧洲 2020 战略的演进脉络及社会包容政策议程。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析里斯本战略如何确立“由结果掌舵”范式，借助开放协调法与基准指标构筑欧洲全景敞视监控。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 论述开放协调法在欧洲教育空间塑造中的软治理传导机制。
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 实证追踪里斯本战略开创的 OMC 指标网络在欧洲教育区（EEA 2030）中长达二十年的制度锁定与财政挂钩。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较分析欧洲与东南亚高教区域主义，揭示里斯本战略如何借助知识经济话语将高等教育提升至欧盟核心议程并赋予深层政策协调合法性。

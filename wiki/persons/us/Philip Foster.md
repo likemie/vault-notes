@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -197,7 +197,6 @@ updated: 2026-10-22
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 福斯特批判的传统方法，促使比较史学派反思并重建历史解释的科学性。 |
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 福斯特担任副主任并开展长期跨国实证调查的学术大本营。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1979–1980 年出任学会会长，巩固实证社会学在北美学会的权威地位。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立福斯特在第三论述代际[[Structural Functionalism\|结构功能主义]]与合法化借口分析中的关键地位。 |
 
 ---
 

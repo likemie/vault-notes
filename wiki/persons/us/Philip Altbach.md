@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -140,4 +140,8 @@ updated: 2026-10-22
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 曾任 CIES 会长并长期执掌学会旗舰刊物《比较教育评论》（CER）。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 著名同行与学科史家，在著作中高度引述阿特巴赫对第四代际学科转型的论断。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | CIES 资深同仁，共同探讨全球化与[[Going Native\|本土化]]的辩证冲突及中心-边缘依附。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威引述阿特巴赫 1991 年论文，定性比较教育在打破功能主义后的多元化智识全貌。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威引述阿特巴赫 1991 年论文，定性比较教育在打破功能主义后的多元化智识全貌。

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -187,6 +187,10 @@ updated: 2026-10-22
 > | [[Epistemic Governance]] | Concept | 项目在经合组织内部推进的将治理重心转向[[Knowledge Production\|知识生产]]与利用制度的新范式。 |
 > | [[Evidence-Informed Practice]] | Concept | 项目致力于在学校实践端赋权实现的专业行动形态。 |
 > | [[Survey Research]] | Method | 项目在跨国政策端采集 29 国 37 个教育部系统数据所采用的核心实证方法。 |
-> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] | Argument | 项目首阶段旗舰著作理论导论章，系统奠定全书实证与[[Analytic Framework\|分析框架]]。 |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 项目首阶段成果核心实证章节，系统摸排 29 国 37 个教育系统证据中介组织与政务网络。 |
-> | [[Argument_Revai(Ed.)_2022_OECD\|Révai (Ed.) (2022)]] | Argument | 项目首阶段成果旗舰专著，汇总全部 29 国政策调查与机制诊断成果。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 项目首阶段旗舰著作理论导论章，系统奠定全书实证与[[Analytic Framework|分析框架]]。
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 项目首阶段成果核心实证章节，系统摸排 29 国 37 个教育系统证据中介组织与政务网络。
+> - [[Argument_Revai(Ed.)_2022_OECD|Révai (Ed.) (2022)]] — 项目首阶段成果旗舰专著，汇总全部 29 国政策调查与机制诊断成果。

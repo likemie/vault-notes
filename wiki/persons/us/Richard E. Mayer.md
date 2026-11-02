@@ -48,7 +48,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] 学者生平与定位
@@ -114,4 +114,8 @@ Mayer 的核心洞见在于：**学习者的“主动性”必须是“内部认
 > | [[Scaffolding]] | 概念 | Mayer 主张指导式发现的核心在于教师或系统提供精准的认知脚手架。 |
 > | [[Computer Simulation]] | 概念 | Mayer 的多媒体原则为仿真界面的降噪与因果可视化设计提供了黄金准则。 |
 > | [[STEM Education]] | 概念 | 广泛指导现代科学、技术与工程微世界交互界面的多媒体教学研发。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述引述 Mayer 的三振出局论，阐明受指导探究并非认知负荷派所攻击的纯发现。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述引述 Mayer 的三振出局论，阐明受指导探究并非认知负荷派所攻击的纯发现。

@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -277,4 +277,3 @@ updated: 2026-10-29
 > | [[Ecological Validity]] | 方法概念 | 科学主义盲目套用物理学控制[[Variable\|变量]]方法，彻底摧毁了课堂情境固有的生态效度。 |
 > | [[Karl Popper]] | 学术人物 | 波普尔强调[[Falsification\|可证伪性]]与猜想试错，其理论常被循证学者断章取义用作科学主义包装。 |
 > | [[Visible Learning]] | 核心专著 | 当代教育科学主义的最典型产物，以海量数据包装缺乏验证的商业主张。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 系统批判二战后 R&D 逻辑、草包族科学以及物理实验对教育复杂性的遮蔽。 |

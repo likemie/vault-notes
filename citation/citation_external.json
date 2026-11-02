@@ -21551,8 +21551,10 @@
     "Shen & Chen (2025)": "Shen & Chen, 2025",
     "Shen & Chen, 2025": "Shen & Chen, 2025",
     "Shen (2022)": "Shen, 2022",
+    "Shen et al. (2014)": "Shen et al., 2014",
     "Shen et al. (2016)": "Shen et al., 2016",
     "Shen et al. (2020)": "Shen et al., 2020",
+    "Shen et al., 2014": "Shen et al., 2014",
     "Shen et al., 2016": "Shen et al., 2016",
     "Shen et al., 2020": "Shen et al., 2020",
     "Shen, 2022": "Shen, 2022",
@@ -39525,7 +39527,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/concepts/science-policy/Second Act in Science.md"
       ],
       "title": ""
     },
@@ -184120,6 +184123,21 @@
       ],
       "title": ""
     },
+    "Shen et al., 2014": {
+      "aliases": [
+        "Shen et al., 2014",
+        "Shen et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Shen et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Second Act in Science.md"
+      ],
+      "title": ""
+    },
     "Shen et al., 2016": {
       "aliases": [
         "Shen et al., 2016",
@@ -193363,7 +193381,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
-        "wiki/concepts/science-policy/Citation Distribution.md"
+        "wiki/concepts/science-policy/Citation Distribution.md",
+        "wiki/concepts/science-policy/Citation Expiration Date.md"
       ],
       "title": ""
     },
@@ -207546,6 +207565,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/concepts/science-policy/Citation Prediction Envelope.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],

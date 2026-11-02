@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -132,9 +132,6 @@ updated: 2026-10-26
 > | [[Philanthrocapitalism]] | 概念 | 冈斯基在教育拨款与证据审查中积极引导企业资本与商业纪律介入公立教育的核心逻辑。 |
 > | [[Network Governance]] | 概念 | 冈斯基所代表的政、商、法、慈善跨界精英协同重构公共教育政策的治理形态。 |
 > | [[Policy Network]] | 概念 | 冈斯基在澳大利亚教育政策网络中充当了连接政界、商法界与慈善界的超级旋转门节点。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 Gonski 1.0 建议设立公立学校民间捐赠机制催生 Schools Plus，以及冈斯基出任先驱者委员会主席调动私人财富的运作实态。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示冈斯基的[[Co-affiliation\|多重从属性]]、企业慈善游说背景及第 23 条建议背后的政策网络装配机制。 |
-> | [[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)]] | 关键论证 | 分析 Gonski 拨款改革如何试图回归 Karmel 公平原则及其在各州学校自治政策中的落地遭遇。 |
 
 ---
 

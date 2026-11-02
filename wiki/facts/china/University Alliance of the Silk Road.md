@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -173,7 +173,11 @@ updated: 2026-10-30
 > | [[Knowledge Power]] | Concept | 与知识外交相对照的[[Geopolitics of Higher Education\|高等教育地缘政治]]主导权[[Construct\|理论构念]]。 |
 > | [[Soft Power]] | Concept | 联盟承担提升国家文化吸引力与深化[[People-to-People Connectivity\|民心相通]]的学术纽带职能。 |
 > | [[Research Universities]] | Concept | 组成联盟核心骨干的高水平研究型大学主体。 |
-> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 记录丝绸之路大学联盟规模与跨国高教多边网络实践的核心[[Document\|文献]]。 |
-> | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | Argument | 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与软实力中不同定位的实证研究。 |
-> | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | Argument | 深入对比分析丝绸之路大学联盟与亚洲大学联盟组织制度特征的核心文献。 |
-> | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 选取联盟内三所行业特色高校为个案，实证检验其在“[[Belt and Road Initiative\|一带一路]]”重点工程中[[Embodied, Inscribed and Enacted Knowledge\|践行知识]]外交的微观机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 记录丝绸之路大学联盟规模与跨国高教多边网络实践的核心[[Document|文献]]。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 对比分析亚洲大学联盟与丝绸之路大学联盟在知识外交与软实力中不同定位的实证研究。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 深入对比分析丝绸之路大学联盟与亚洲大学联盟组织制度特征的核心文献。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 选取联盟内三所行业特色高校为个案，实证检验其在“[[Belt and Road Initiative|一带一路]]”重点工程中[[Embodied, Inscribed and Enacted Knowledge|践行知识]]外交的微观机制。

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -133,4 +133,8 @@ updated: 2026-10-30
 > | [[Research Utilization]] | Concept | LPP 为理解学术科研成果如何在政策现场被协商与重构提供了学习论视角。 |
 > | [[Professional Judgment]] | Concept | 新手在实践共同体边缘参与中逐步培育与内化的核心专业能力。 |
 > | [[Constructivist Paradigm]] | Theory | 情境学习理论所脱胎并实现重大社会文化转向的哲学[[Epistemology\|认识论]]传统。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 将 LPP 理论跨界运用于教育政策制定与督导专家分析的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 将 LPP 理论跨界运用于教育政策制定与督导专家分析的核心[[Document|文献]]。

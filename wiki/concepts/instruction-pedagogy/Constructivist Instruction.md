@@ -91,7 +91,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Constructivist Instruction
@@ -288,8 +288,4 @@ updated: 2026-10-29
 > | [[Visible Learning]] | 概念 | 揭示教师作为主动激活者优于被动促进者的宏观实证证据库。 |
 > | [[Constructivist Paradigm]] | 理论 | 强调知识由学习者在情境互动中主动生成的哲学与心理学[[Paradigm\|范式]]。 |
 > | [[Cognitive Load Theory]] | 理论 | 批判缺乏指导的自由探索会导致[[Working Memory\|工作记忆]]过载的认知科学理论。 |
-> | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] | 论证 | 提出建构性对齐理论并系统阐述以学生为中心建构教学的文献。 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 论证 | [[Meta-analysis\|元分析]]证实指导式探究与结构化支架建构教学高效能的实证研究。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 论证“学习即建构”驱动教师显性指导与主动激活角色的旗舰论文。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判折衷建构主义导致文化实体蒸发与教学论双重瓦解的哲学论证。 |
 

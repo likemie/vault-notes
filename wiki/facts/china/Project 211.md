@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -139,4 +139,8 @@ updated: 2026-10-30
 > | [[Thousand Talents Program]] | Fact (Program) | 与高水平大学建设紧密协同的国家海外高端引智工程。 |
 > | [[Research Universities]] | Concept | 211 工程承载建设与重点培育的办学实体形态。 |
 > | [[Competitiveness]] | Concept | 工程旨在提升的高等教育综合实力与国际竞争力。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录 211 工程重点建设约 112 所大学以提升教学科研质量的政策实证文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 实证记录 211 工程重点建设约 112 所大学以提升教学科研质量的政策实证文献。

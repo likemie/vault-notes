@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -153,8 +153,6 @@ updated: 2026-10-30
 > | [[Cross-cultural Validity]] | 概念 | DIF 检验旨在维护与求证的核心效度类型。 |
 > | [[Space of Equivalence]] | 概念 | 批判跨国评估试图利用 DIF 统计净化抹平文化[[Heterogeneity\|异质性]]、虚构等值空间的理论透镜。 |
 > | [[PISA]] | 事实 | 广泛应用国际 DIF 检验、同时在学界遭遇最激烈文化偏倚指责的大规模跨国测评。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 依托统计规程抹平文化多样性、建立跨国[[Commensuration\|通约]]技术界面的文献。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析跨国测评试题直接移植中遭遇的跨文化水土不服与测量效度危机的[[Document\|文献]]。 |
 
 ---
 

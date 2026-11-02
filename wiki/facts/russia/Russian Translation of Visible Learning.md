@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -169,5 +169,9 @@ updated: 2026-10-30
 > | [[Normal School]] | Concept | 俄文版对学科知识与师范教育的贬抑，与俄本土师范教育传统及2016准入改革形成剧烈张力。 |
 > | [[Critical Thinking]] | Concept | 俄文版被俄支持者（如Sokolova）用来论证契合FSES标准的核心概念。 |
 > | [[Teaching and Learning International Survey]] | Fact | 调查数据被用于对比俄罗斯与亚洲教师职业声望的悬殊反差。 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | Argument | 对俄译本及哈蒂理论展开全面数理检验与本土政策适应性批判的代表性研究。 |
-> | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] | Argument | 揭示澳大利亚推行哈蒂模式导致“教育领导力悲剧”的实证来源，为俄提供历史警鉴。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 对俄译本及哈蒂理论展开全面数理检验与本土政策适应性批判的代表性研究。
+> - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 揭示澳大利亚推行哈蒂模式导致“教育领导力悲剧”的实证来源，为俄提供历史警鉴。

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -187,4 +187,8 @@ updated: 2026-10-29
 > | [[OECD]] | Fact (Organization) | 顺应媒介逻辑制作全彩简报与口号幻灯片以维系自身品牌霸权的跨国机构。 |
 > | [[2014 Open Letter on PISA]] | Fact (Event) | 学术界借助大众媒介公开谴责 PISA 危害、抵制跨国数据治理霸权的标志性反抗事件。 |
 > | [[Paul Morris]] | Person | 深入研究媒介逻辑在跨国评估转译与本土政策治理中异化作用的核心学者。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 剖析英格兰应对 PISA 2012 过程中媒介逻辑与媒介资本运作机制的代表性[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 剖析英格兰应对 PISA 2012 过程中媒介逻辑与媒介资本运作机制的代表性[[Document|文献]]。

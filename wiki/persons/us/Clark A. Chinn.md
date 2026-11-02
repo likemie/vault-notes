@@ -73,7 +73,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -190,5 +190,3 @@ updated: 2026-10-30
 > | [[Inquiry-Based Learning]] | 概念 | 提出科学探究六要素模型，系统反驳[[Direct Instruction\|直接教学]]绝对优越论。 |
 > | [[Epistemic Agency]] | 概念 | 将认识主体性从行为参与深化为元[[Epistemology\|认识论]]审议与因果准则共建。 |
 > | [[PRACCIS]] | 项目 | 主持研发的大型科学探究课程，将 AIR 认知模型转化为实践支架。 |
-> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 论证 | 确立基于[[Epistemic Ideals\|认识论理想]]与可靠过程的论证质量评价新[[Paradigm\|范式]]。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 联合发表系统反驳[[Document\|文献]]，确立指导式探究的循证优越性。 |

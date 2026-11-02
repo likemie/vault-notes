@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-16'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -164,5 +164,9 @@ updated: 2026-10-29
 > | [[Assessment Tools for Teaching and Learning]] | Instrument | 基于新西兰国家课程进阶水平开发的诊断与评价系统。 |
 > | [[Common Core State Standards]] | Fact | 早期学段采用实证学习轨迹、高年级采用逻辑推演并经同行审读校准学习进阶的典型案例。 |
 > | [[John Hattie]] | Person | 主张将学业进阶共同语言作为学校问责与教学改进核心支柱的代表学者。 |
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | Argument | 系统阐释学业进阶对于打破学校数据过载与提升教学效能的关键论证。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 考证 CCSS 标准研制中学习进阶在不同学段的实证基础分化与同行审查校准机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 系统阐释学业进阶对于打破学校数据过载与提升教学效能的关键论证。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考证 CCSS 标准研制中学习进阶在不同学段的实证基础分化与同行审查校准机制。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -113,7 +113,6 @@ updated: 2026-10-30
 > | [[PISA]] | 事实 | 正式立项、研发并推行创造性思维国际测评的主体工程。 |
 > | [[PISA Global Competence]] | 概念 | 同属于 PISA 探索新自由主义劳动力向综合公民素养拓展的前沿模块。 |
 > | [[Torrance Tests of Creative Thinking]] | 测量工具 | 启发 PISA 构念设计、历史上应用最广的经典心理学创造力纸笔测验。 |
-> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 批判 PISA 业务线不断向创造力等新领域扩张、以度量霸权笼罩全球教育的[[Document\|文献]]。 |
 
 ---
 

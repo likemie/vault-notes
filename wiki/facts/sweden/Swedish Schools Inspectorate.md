@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -180,4 +180,3 @@ updated: 2026-10-30
 > | [[Ofsted]] | Fact (Organization) | 英国学校督导机构，与督察局同属外部督导体系，可比较两者如何把研究、标准与评级结合。 |
 > | [[Swedish Institute for Educational Research]] | Fact (Organization) | 瑞典另一家教育证据机构，侧重[[Systematic Review\|系统综述]]与研究资助，与督察局的督导型知识使用形成分工。 |
 > | [[PISA Shock in Sweden]] | Fact (Event) | 瑞典在 PISA 中的成绩断崖式下滑加速了国家对地方自治与市场化办学的集中规制，督察局正是这一中央再集权与质量监控的核心执行载体。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 以督察局为工具性个案，追踪教育研究如何被选择、转写并铭写进督导标准与报告。 |

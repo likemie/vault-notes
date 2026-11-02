@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -158,5 +158,8 @@ updated: 2026-10-26
 > | [[Heterogeneous Integration]] | Concept | SML 确立的后摩尔时代国家级重大攻关技术路线。 |
 > | [[Co-Design]] | Concept | SML 倡导的全栈双向贯通研发方法论。 |
 > | [[Hardware Security]] | Concept | SML 统筹的国防与国家关键基础设施芯片内生安全标准。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | SML 发布的国家战略之全景论证拆解。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — SML 发布的国家战略之全景论证拆解。

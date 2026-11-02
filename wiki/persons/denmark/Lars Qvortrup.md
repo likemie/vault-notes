@@ -67,7 +67,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -168,6 +168,3 @@ updated: 2026-10-30
 > | [[Dynamic Knowledge and Learning Model]] | 理论 | 基于 Bateson 理论提出四阶动态知识与学习模型，尝试克服[[John Hattie\|哈蒂]]学习结果概念的表层化局限。 |
 > | [[Structural Coupling]] | 概念 | 运用[[Luhmann's Systems Theory\|卢曼社会系统理论]]，阐释教学干预与学习者内在心智生成之间的非线性结构联动。 |
 > | [[Bounded Rationality]] | 理论 | 引入西蒙有限理性理论，论证教师在复杂动态课堂中整合研究证据的认知边界与判断必要性。 |
-> | [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] | 论证 | 提出动态知识与学习模型以修正可见[[Learnology\|学习学]]习结果概念的代表性论文。 |
-> | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] | 论证 | 系统反驳丹麦学术批评阵营、为可见学习构建三线理论辩护的旗舰论证。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 罗默专文批判克沃特鲁普医学类比与原始数据库存治理设想的重要哲学文献。 |

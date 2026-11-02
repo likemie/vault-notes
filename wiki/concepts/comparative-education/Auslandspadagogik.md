@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -254,4 +254,3 @@ updated: 2026-10-29
 > | [[Comparative History of Comparative Education]] | 概念 | 揭示出[[Disciplinary Institutionalization\|学科制度化]]前被泛称为“比较教育”的庞大历史文献的真实认识论质态。 |
 > | [[Victor Cousin]] | 人物 | 其 1831 年普鲁士报告构成了 19 世纪欧陆官方行政外国教育学调查的巅峰范例。 |
 > | [[Horace Mann]] | 人物 | 展现了北美改革者如何将外国教育学事实转译为国内争议改革政治合法化依据的经典路径。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供外国教育学文献史源流、方法论三重质态、战后史学争鸣与合法化机制的系统文本证据。 |

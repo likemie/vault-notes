@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -158,6 +158,10 @@ updated: 2026-10-30
 > | [[Initial Teacher Training]] | Concept | ACER 统考深度介入并重塑其准入规则的初始教师教育制度。 |
 > | [[Evidence-Based Education]] | Concept | ACER 开展实证测评研究所依据并推动的循证教育[[Discourse\|话语]]范式。 |
 > | [[Multiple-Choice Questions]] | Method | ACER 在 LANTITE 等标准化统考中广泛采用的题型形式。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | Argument | 剖析 ACER 在 LANTITE 统考中的商业红利、守门人地位及中介机构利益变现机制。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 揭示 OECD 将 PISA 试题研发合同授予 ACER 联合体对全球大规模测评治理生态的重塑。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 ACER 在 PISA 与 TIMSS 等国际测评中的技术垄断及欧洲国家对资金外流的反弹抗议。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 剖析 ACER 在 LANTITE 统考中的商业红利、守门人地位及中介机构利益变现机制。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 揭示 OECD 将 PISA 试题研发合同授予 ACER 联合体对全球大规模测评治理生态的重塑。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 ACER 在 PISA 与 TIMSS 等国际测评中的技术垄断及欧洲国家对资金外流的反弹抗议。

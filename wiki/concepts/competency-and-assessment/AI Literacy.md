@@ -73,7 +73,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （人工智能素养）
@@ -262,6 +262,3 @@ updated: 2026-10-29
 > | [[Epistemological Vigilance\|认识论警觉]] | 核心认知态度 | 对算法表面流畅回答保持怀疑并执行多源事实与推论核验的核心警觉机制。 |
 > | [[Metacognition\|元认知]] | 监控机制 | AI 素养要求学生持续监控自身认知状态，防范将推导试错等关键思维动作盲目外包。 |
 > | [[Cognitive Offloading\|认知卸载]] | 边界划定 | 指导学习者区分机械信息搜集的良性卸载与剥离[[Evaluative Judgement\|评价性判断]]的破坏性卸载。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 政策与课程标准 | 确立国家课程中贯穿式 AI 素养框架与“放大而非替代认知”的育人底线。 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 实证[[Interaction Effect\|调节效应]] | 实证确证显性 AI 素养培训是驱动[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]协同发展的关键调节[[Variable\|变量]]。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | [[Epistemology\|认识论]]重构 | 将 AI 素养从提示词技巧提升至学科认识论探究实践与反馈评价性判断。 |

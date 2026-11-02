@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -107,4 +107,8 @@ updated: 2026-10-26
 > | [[Tsukuba Science City]] | Fact | 政策落地与高校教师兼职创业改革的重点试验区。 |
 > | [[Technology Transfer Office]] | Concept | 法案确立的核心组织中介载体（TLO）。 |
 > | [[Technology Transfer]] | Concept | 政策规范的核心产学研行为过程。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 详细考证日本大学技术转移促进法在东京湾区实施成效的专著。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 详细考证日本大学技术转移促进法在东京湾区实施成效的专著。

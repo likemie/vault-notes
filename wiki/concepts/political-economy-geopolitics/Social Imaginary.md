@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -281,8 +281,5 @@ updated: 2026-10-30
 > | [[Norman Fairclough]] | Person | 提出话语想象（Imaginaries）概念，阐明话语投射性建构未来可能世界的批判话语奠基学者。 |
 > | [[OECD]] | Fact | 生产、包装并全球输出知识经济社会想象的核心超国家政策行动者。 |
 > | [[PISA]] | Fact | 使知识经济社会想象获得全球性展演力与高利害问责实效的旗舰评估工程。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑文献。 |
-> | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判[[Geopolitics\|地缘政治学]]相结合解析亚洲高教转型的代表文献。 |
-> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 运用政策话语想象理论解构跨国[[Education Going Global\|高教出海]][[Grand Theory\|宏大叙事]]实践的代表文献。 |
 
 

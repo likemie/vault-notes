@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -165,8 +165,6 @@ updated: 2026-10-29
 > | [[Feminist Research]] | 分支方法 | 将意识形态批判拓展至性别与父权制领域，揭示学术[[Knowledge Production\|知识生产]]与社会生活中的男性中心主义偏见。 |
 > | [[Paulo Freire]] | 人物 | [[Critical Pedagogy\|批判教育学]]先驱，倡导通过[[Problem-Posing Education\|提问式教育]]破除被压迫者的“[[Culture of Silence\|沉默文化]]”，推进意识形态批判的自觉化。 |
 > | [[Andreas Kazamias]] | 人物 | 较早系统界定比较教育学中改良主义、意识形态批判与严格价值中立三元方法论轴线的理论家。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011)]] | 论证 | 提供[[Jürgen Habermas\|哈贝马斯]]批判理论方法论框架，并运用于 Tyler 课程原理与英国国家课程意识形态解构。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考证意识形态批判在战后比较教育打破功能主义垄断、迈向理论多元成熟期中的关键[[Paradigm\|范式]]定位。 |
 
 ---
 

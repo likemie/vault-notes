@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -203,8 +203,6 @@ updated: 2026-10-30
 > | [[Academic Start-up Packages]] | Concept | 与专项大楼形成对比的、面向一线青年科研人员的校级实质性科研配套启动机制。 |
 > | [[Fred Block]] | Person | 揭示专项拨款作为隐蔽发展型网络国家财政通道与产学中心生产性功能的社会学家。 |
 > | [[Richard C. Atkinson]] | Person | 前加州[[Grandes Ecoles\|大学校]]长与 NSF 主任，系统批判科研专项拨款规避同行评议的代表学者。 |
-> | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] | Argument | 从学术评价正统与大学治理视角系统批判科研专项拨款的权威文献。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家视角阐明专项拨款制度功能与局部生产性的理论来源。 |
 
 ---
 

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -134,4 +134,8 @@ updated: 2026-10-30
 > | [[Governing by Numbers]] | Concept | 揭示数字指标如何通过媒介化实现[[Soft Power\|软性权力]]传导的上位理论。 |
 > | [[Externalization]] | Concept | 政策制定者将媒体危机压力转化为推动本土争议改革合法化资源的策略。 |
 > | [[PISA Shock]] | Concept | 媒介化机制在特定国家引爆的整体教育政策危机形态。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 实证对比英、德、芬三国 PISA 报道版面与媒介化政策后果的奠基论证。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 实证对比英、德、芬三国 PISA 报道版面与媒介化政策后果的奠基论证。

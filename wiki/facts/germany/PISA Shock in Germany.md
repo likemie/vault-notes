@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -157,4 +157,8 @@ updated: 2026-10-30
 > | [[PISA Shock]] | Concept | 概括一国面对跨国评估落差引发全国性体制危机的宏观理论概念。 |
 > | [[Output-Oriented Governance]] | Concept | 德国震荡后取代传统输入规制模式的新型治理[[Paradigm\|范式]]。 |
 > | [[Data Infrastructure]] | Concept | 支撑德国 [[Institute for Educational Quality Improvement\|IQB]] 与校际诊断测试运作的国家级技术与制度装配。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 比较分析德国对 PISA 2000 的媒体风暴（687 个版面）与激进产出重组，揭示危机叙事下的外在化借用逻辑。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较分析德国对 PISA 2000 的媒体风暴（687 个版面）与激进产出重组，揭示危机叙事下的外在化借用逻辑。

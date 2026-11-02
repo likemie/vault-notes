@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -259,10 +259,6 @@ updated: 2026-10-29
 > | [[Cognition Education]] | 事实 | 新西兰奥克兰教育局后勤部门在 1989 年放权改制中演变而成的商业教育服务中心。 |
 > | [[José Luis García Garrido]] | 人物 | 比较教育学者，深入剖析西班牙从极度集权激进跳向 17 个自治区导致官僚肥胖与空间割裂的代表学者。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，解构国际组织将分权化作为普遍模型垄断输出及拉美实践异化的领军学者。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 揭示新西兰 1989 年放权改革如何将公立服务私有化改组为商业公司并孵化跨国资本专营的核心文献。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 论证 | 调查新西兰明日学校放权改制与认知教育公司第三方报酬支付明细的实证文献。 |
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 论证 | 记录欧洲国家教育权力配置演进与西班牙激进分权病理的核心文献。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 揭示全球教育话语五大支柱模型、[[Governing at a Distance\|远处治理]]与拉美分权实践异化的核心文献。 |
 
 ---
 

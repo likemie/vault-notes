@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -221,4 +221,3 @@ updated: 2026-10-30
 > | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
 > | [[John W. Meyer\|约翰·迈耶]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与[[Historical Amnesia\|学科历史健忘症]]。 |

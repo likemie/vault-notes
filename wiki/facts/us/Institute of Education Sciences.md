@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -259,7 +259,6 @@ updated: 2026-10-26
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Common Core State Standards]] | 政策事实 | IES 创始院长怀特赫斯特就标准与 NAEP 成绩零相关提出批评，成为 CCSS 采纳后学术争议的关键焦点。[[Argument_McDonnell_2013_AmJE\|(McDonnell & Weatherford, 2013, pp. 21–22)]] |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入记录 IES 前院长怀特赫斯特关于标准与课程教材之争的实证交锋。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | IES 下辖的核心[[Educational Evidence Clearinghouses\|证据清算中心]]，负责因果实证审查与实践指南发布。 |
 > | [[Best Evidence Encyclopedia]] | Fact (Organization) | IES 长期资助的大学学术型专精清算中心（JHU CRRE 创设）。 |
 > | [[Evidence for ESSA]] | Fact (Program) | 依托 IES 资助学术成果孵化、对齐 [[Every Student Succeeds Act\|ESSA]] 法定标准的敏捷循证决策平台。 |
@@ -272,3 +271,8 @@ updated: 2026-10-26
 > | [[Robert Slavin]] | Person | [[Evidence-Based Education\|循证教育]]领军学者，长期承担 IES 重大项目并推动法定证据标准落地。 |
 > | [[Democratising Evidence]] | Concept | 针对 IES 传统因果垄断取向的反思与多元循证生态改革思潮。 |
 > | [[Research-Practice Partnership]] | Concept | 弥合 IES 线性证据转化断层、强调双向协同的研究实践伙伴关系。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 深入记录 IES 前院长怀特赫斯特关于标准与课程教材之争的实证交锋。

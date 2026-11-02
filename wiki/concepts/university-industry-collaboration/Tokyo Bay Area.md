@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -197,5 +197,4 @@ updated: 2026-10-29
 > | [[Technology Transfer]] | Concept | 产官学协同中大学实验室成果流向民间企业的核心过程。 |
 > | [[San Francisco Bay Area]] | Concept | 与东京湾区形成鲜明对比的自下而上型高科技创新湾区。 |
 > | [[New York Bay Area]] | Concept | 与东京湾区形成对照的金融资本驱动型都市创新湾区。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 详细分析东京湾区产业分散与产官学协同经验的专著。 |
 

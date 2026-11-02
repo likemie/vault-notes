@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -148,8 +148,6 @@ updated: 2026-10-30
 > | [[Professional Judgment]] | Concept | AFT 教师评审团依托丰富的实践常识和专业审慎判断，弥补了高年级学术实证供给的不足。 |
 > | [[Learning Progression]] | Concept | AFT 骨干数学教师将条文剪切贴墙推敲的核心对象，检验学习梯度在普通公立课堂的连贯性。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | AFT 长期批判的上一代联邦强问责法案。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 详实记录 AFT 组织教师多轮闭门审读草案并以“纸条贴墙”推敲进阶可行性的核心实证[[Document\|文献]]。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 剖析全美教师联盟在 NCLB 测试问责制下的策略审慎与教育公平话语两难。（p. 260） |
 
 ---
 

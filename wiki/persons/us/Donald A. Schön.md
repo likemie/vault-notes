@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -171,4 +171,3 @@ updated: 2026-10-26
 > | [[Bounded Rationality]] | 理论 | 其反思实践理论常与有限理性并置以重构复杂情境下的专业决策框架。 |
 > | [[Legitimation Crisis]] | 理论 | 其技术理性批判常与[[Jürgen Habermas\|哈贝马斯]]危机理论结合，用于剖析国家循证政策采纳逻辑。 |
 > | [[Visible Learning]] | 概念 | 其模式被教育批判学者作为舍恩技术理性在当代教学控制中的代表范例剖析。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 论证 | 运用舍恩技术理性批判，解构《可见的学习》将教学比附为工程与医学模型的认识论局限。 |

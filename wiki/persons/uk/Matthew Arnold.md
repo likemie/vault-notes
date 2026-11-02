@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -176,6 +176,3 @@ updated: 2026-10-30
 > | [[State Educational Sovereignty\|国家教育权]] | 概念 | 论证国家作为全民族法人代表力量组织公共中等教育的法理与政治哲学合法性。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 以跨国中等教育考察服务于克服英国市侩主义、推进民主平等的社会改良抱负。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 将阿诺德定性为 19 世纪欧洲大学体制外“督学行政考察与政策改良进路”的核心代表，系统剖析其欧陆考察对国家教育主权的奠基。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88–89)]] |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 思想史考古梳理阿诺德在维多利亚晚期开启的国家文化教化与图卢兹公学考察贡献。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 梳理阿诺德与[[Victor Cousin\|库森]]等 19 世纪皇家督学作为国家公职人员展开实地比较、推动主权国家学制改良与理论阐释的学科奠基贡献。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 梳理第一代行政改良代际向第二代文化反思演进，剖析阿诺德英法对比对自由放任教条的批判。 |

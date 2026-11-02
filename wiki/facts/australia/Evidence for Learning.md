@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -182,8 +182,6 @@ updated: 2026-10-26
 > | [[John Hattie]] | Person | 出任 E4L 学校专家咨询委员会（Schools Expert Reference Council）主席，指导工具包本土化转化。 |
 > | [[Educational Brokerage Agency]] | Concept | E4L 属于典型的准独立慈善基金会型教育证据中介机构。 |
 > | [[Policy Network]] | Concept | E4L 是澳洲连接跨国[[Venture Philanthropy\|风险慈善]]、商业银行与教育部委的枢纽节点。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 详细解构 E4L 作为 SVA 全资子公司、中立表象以及游说 AERO 的因果链条。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 E4L 作为 SVA 辐射网络中的战略技术原型，以及其与国家法定证据中介的转译连接。 |
 > | [[Network Governance]] | Concept | E4L 作为公私中介所践行的以工具包量规统摄、项目制试验与异层契约为特征的网络治理形态。 |
 > | [[Relational Space]] | Concept | E4L 作为耐用材料（因果证据工具包）在关系空间中将商业秩序固化并长程延展的关键中介。 |
 

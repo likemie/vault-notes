@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -203,7 +203,11 @@ updated: 2026-10-26
 > | [[Commensuration]] | Concept | INES 将各国异质教育制度通约化为同质量化量表的核心统计技术。 |
 > | [[Performativity]] | Concept | 揭示 INES 指标公布后自发形塑与反向规训国家政策行为的施为性理论。 |
 > | [[Global Education Governing Complex]] | Concept | INES 作为核心知识生产基础设施所参与构建的全球[[Educational Multilateralism\|多边教育治理]]网络。 |
-> | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] | Argument | 运用 STS 视角解构 INES 生产档案、塞默灵与卢加诺会议权力博弈及知识生产机制。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 论述美国危机如何催生 INES 及经合组织从人力预测向跨国数据治理的跨越。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析 INES Network A 汇聚指标时的技术诉求如何倒逼经合组织催生 PISA [[Test Production\|测验研发]]。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录欧盟委员会在 INES 及其下属委员会享有正式法定席位以实现跨国数据治理深层嵌合。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用 STS 视角解构 INES 生产档案、塞默灵与卢加诺会议权力博弈及知识生产机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 论述美国危机如何催生 INES 及经合组织从人力预测向跨国数据治理的跨越。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析 INES Network A 汇聚指标时的技术诉求如何倒逼经合组织催生 PISA [[Test Production|测验研发]]。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录欧盟委员会在 INES 及其下属委员会享有正式法定席位以实现跨国数据治理深层嵌合。

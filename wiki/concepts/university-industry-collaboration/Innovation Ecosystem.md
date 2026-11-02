@@ -131,7 +131,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -401,9 +401,6 @@ updated: 2026-10-29
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 半导体行业长期资助大学前竞争基础研究与工程人才培养的联合体。 |
 > | [[Fred Block]] | Person | 提出发展型网络国家理论，系统揭示创新生态由大[[Corporate R&D Labs\|企业中央实验室]]向去中心化公私协同网络演变规律的经济社会学家。 |
 > | [[Michael Kratsios]] | Person | 2026 年白宫科技报告主笔，系统提出[[Pasteur's Quadrant\|巴斯德象限]]导向、[[Focused Research Organization\|FRO]] 组织创新与制造过程知识闭环。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | NIST 发布的 [[National Science and Technology Council\|NSTC]] 战略愿景，确立第三代国家公私伙伴创新中心与共享中试基础设施治理架构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | NSTC 发布的微电子研究国家战略，确立跨部门统筹、早期资本匹配与自维持创新生态四大支柱。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 追踪美国创新生态向去中心化发展型网络国家转型，实证揭示 R&D 100 协同研发激增与早期技术开发公共托底。 |
 
 ---
 

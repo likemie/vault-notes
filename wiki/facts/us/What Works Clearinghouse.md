@@ -128,7 +128,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -308,9 +308,13 @@ updated: 2026-10-30
 > | [[Every Student Succeeds Act\|ESSA 2015 证据标准]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
 > | [[Evidence for ESSA]] | 机构事实 | 约翰斯·霍普金斯大学设立的敏捷互补清算平台，填补 WWC 更新周期与实践决策断层。 |
 > | [[Robert Slavin]] | 关键人物 | 循证教育领军学者，系统评析 WWC 机制并创立 [[Best Evidence Encyclopedia\|BEE]] 与 Evidence for ESSA。 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
 > | [[Education Endowment Foundation]] | 机构事实 | 英国准独立慈善证据旗舰，与 WWC 并列为国际循证教育两大巨头。 |
 > | [[EPPI-Centre]] | 机构事实 | 英国大学依托型[[Systematic Review\|系统综述]]先驱，与 WWC 共同构成 [[OECD]] 十五年完全活跃的二元标杆。 |
-> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 关键论证 | 以 2.88 亿美元财务审计揭示 WWC 单库单研究合规门槛的系统性局限，为多库整合证据评估范式提供实证依据。 |
-> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 历史与政策论证 | 系统考证 WWC 创设初期的 1850 万美元合同及 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程在 47 项公共评议推动下的制度调整。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 外部论证 | 批判以 WWC 为首的国际清算中心底层转移模型与因果作用假设的反思贫困及实证检验赤字。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis|元分析]]的代表作。
+> - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 以 2.88 亿美元财务审计揭示 WWC 单库单研究合规门槛的系统性局限，为多库整合证据评估范式提供实证依据。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 WWC 创设初期的 1850 万美元合同及 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程在 47 项公共评议推动下的制度调整。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 批判以 WWC 为首的国际清算中心底层转移模型与因果作用假设的反思贫困及实证检验赤字。

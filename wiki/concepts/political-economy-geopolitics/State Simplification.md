@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -147,4 +147,8 @@ updated: 2026-10-29
 > | [[Governing by Inspection]] | Theory | 国家简化在现代教育治理场景中通过外部督导得以施展的具体理论载体。 |
 > | [[Governing at a Distance]] | Theory | 国家简化为远程治理提供了关键的量化可读性中介与指标工具。 |
 > | [[Pluralism]] | Theory | 国家简化在科层行政运作中为了维持单向确定性而着力排斥与压制的对象。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 将国家简化理论[[Creativity\|创造性]]运用于瑞典学校督导循证机制实证批判的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 将国家简化理论[[Creativity|创造性]]运用于瑞典学校督导循证机制实证批判的核心[[Document|文献]]。

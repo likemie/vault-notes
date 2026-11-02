@@ -78,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -198,7 +198,8 @@ updated: 2026-10-30
 > | [[PISA]] | Fact (Program) | Baby PISA 的母体项目，奠定了跨国量化评估的操作范式与品牌声誉。 |
 > | [[OECD]] | Fact (Organization) | Baby PISA 的发起者、资助组织与全球数据治理战略主导者。 |
 > | [[Yong Zhao]] | Person | 系统批判 PISA 及其向 Baby PISA 扩张、揭示其危害全球教育多元性的核心学者。 |
-> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | Argument | [[Systematic Review\|系统综述]] PISA 二十年弊端并深入抨击 Baby PISA 殖民学前教育的核心文献。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 剖析 OECD 利用品牌霸权向 Baby PISA 等新测量工具进行治理与市场扩张的关键文献。 |
 
+---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 剖析 OECD 利用品牌霸权向 Baby PISA 等新测量工具进行治理与市场扩张的关键文献。

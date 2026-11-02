@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -166,6 +166,8 @@ updated: 2026-10-29
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 揭示地方政府如何通过户籍准入门槛与校舍地理规划对流动人口实施空间治理。 |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | Theory | **批判分析透镜** 阐释随迁儿童如何在公平-参与层面争取指标的同时，在知识分类层面遭遇象征排斥。 |
 > | [[Student Mobility]] | Concept | **微观行动概念** 随迁儿童在中途转校与跨区域迁移中的空间位移特征及其道德评价反差。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 深入剖析中国 2000 万随迁儿童在户籍壁垒与空间治理下求学困境的经典比较教育文献。 |
 
 ---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 深入剖析中国 2000 万随迁儿童在户籍壁垒与空间治理下求学困境的经典比较教育文献。

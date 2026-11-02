@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -178,7 +178,11 @@ updated: 2026-10-30
 > | [[Bologna Process]] | Fact (Policy) | 伊拉斯谟实践直接催生的全欧学制三级架构与质保一体化改革进程。 |
 > | [[European Commission]] | Fact (Organization) | 凭借伊拉斯谟计划成功突破条约限制、走向欧洲高教合作舞台中央的常设执行机构。 |
 > | [[Spatial Governmentality]] | Theory | 透视超国家机构如何通过空间流动调控与网络化连接对青年劳动力实施[[Governing at a Distance\|远距治理]]。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 剖析伊拉斯谟计划确立欧委会高教主导权、遭遇 1% 流动率瓶颈并催生博洛尼亚政策协调转向的核心[[Document\|文献]]。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | Argument | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | Argument | 揭示西班牙成为伊拉斯谟第一大接收国背后的非学术驱动机制，批判将流动规模混同于大学质量的自满假象。 |
 > | [[José Luis García Garrido]] | Person | 深入剖析伊拉斯谟计划在南欧大学实践中的流动性悖论与学术近亲繁殖的比较教育学者。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 剖析伊拉斯谟计划确立欧委会高教主导权、遭遇 1% 流动率瓶颈并催生博洛尼亚政策协调转向的核心[[Document|文献]]。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 揭示西班牙成为伊拉斯谟第一大接收国背后的非学术驱动机制，批判将流动规模混同于大学质量的自满假象。

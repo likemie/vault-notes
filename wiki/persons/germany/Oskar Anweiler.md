@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -161,4 +161,3 @@ updated: 2026-10-30
 > | [[State Educational Sovereignty]] | 概念 | 剖析冷战时期两德与社会主义阵营国家在教育主权建构与意识形态控制中的微观制度机制。 |
 > | [[Wolfgang Mitter]] | 人物 | 战后西德比较教育双核伙伴，共同奠定苏联东欧教育研究标准并主导 DGfE 学会建制。 |
 > | [[World-Systems Theory]] | 理论 | 其在波鸿的学术继承人阿迪克在此基础上转型，开创了世界体系理论在德国比较教育的应用。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供安维勒交叉领域命题、波鸿学派东欧教育研究及两德体制对比的关键史学依据。 |

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -114,4 +114,8 @@ updated: 2026-10-29
 > | [[Crane Brinton\|克莱恩·布林顿]] | 人物 | 比较史学宗师，其革命史归纳经验为工作假说提供了经典的[[Paradigm\|范式]]样板。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在 1963 年与 2009 年著作中持续倡导历史探索性工作假说，确立其学科史地位。 |
 > | [[Brian Holmes\|布赖恩·霍姆斯]] | 人物 | 其假说-演绎问题法与历史假说检验形成深刻的方法论争鸣与互补。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释历史工作假说的运作逻辑及其打破[[Positivism\|实证主义]]教条壁垒的母体文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐释历史工作假说的运作逻辑及其打破[[Positivism|实证主义]]教条壁垒的母体文献。

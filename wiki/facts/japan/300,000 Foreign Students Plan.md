@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -100,4 +100,8 @@ updated: 2026-10-26
 > | [[Tokyo Bay Area]] | Concept | 留学生计划人才服务与支撑的宏观科技创新集聚区。 |
 > | [[Tsukuba Science City]] | Fact | 留学生参与国家级重大产学官联合科研项目的核心高科技载体。 |
 > | [[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]] | Fact | 与人才引育相配套的日本高校成果转化与产业化法律。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 系统分析留学生政策如何构筑东京湾区人才高地的专著。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 系统分析留学生政策如何构筑东京湾区人才高地的专著。

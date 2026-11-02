@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -147,4 +147,8 @@ updated: 2026-10-30
 > | [[Thousand Talents Program]] | Fact (Program) | 为 985 高校前沿学科提供全球顶尖领军人才保障的国家引智工程。 |
 > | [[Research Universities]] | Concept | 985 工程的核心依托与创建标的。 |
 > | [[Soft Power]] | Concept | 高水平大学国际学术声誉与全球引才能力所服务转化的国家战略能力。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录 985 工程创设国际公认高水平研究型大学进程的政策分析文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 实证记录 985 工程创设国际公认高水平研究型大学进程的政策分析文献。

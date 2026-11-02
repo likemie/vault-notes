@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -76,4 +76,8 @@ Zemplén 将 EDEXCEL Perspectives on Science 作为 [[Theory of Knowledge|TOK]] 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Theory of Knowledge]] | Concept | 对照课程：TOK 选择超学科框架，Perspectives on Science 留在[[Scientism\|科学主义]]框架内 |
-> | [[Argument_Zemplen_2007_SciEduc\|Zemplén, 2007]] | Argument | 来源[[Document\|文献]]，在 note 9 中首次被引入作为 TOK 的对比案例 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]] — 来源[[Document|文献]]，在 note 9 中首次被引入作为 TOK 的对比案例

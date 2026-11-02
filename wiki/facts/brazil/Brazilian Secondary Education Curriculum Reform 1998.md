@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -203,8 +203,9 @@ updated: 2026-10-30
 > | [[Educational Decentralization]] | 概念 | 国际机构五大支柱模型的核心组成，在巴西与课程自主权共同推行但诱发基层行政脱节。 |
 > | [[School Autonomy]] | 概念 | 配合课程大纲改革下放给基层的决策自主权，在微观教学中面临评价机制与资源匮乏的制约。 |
 > | [[Jason Beech]] | 人物 | 深入拉美开展田野调研、系统解构此项改革理论内涵与话语机制的代表性学者。 |
-> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 论证 | 系统记录并理论解构巴西 1998 年课程改革三大领域与 14 门学科矛盾并置的经典[[Document\|文献]]。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 记录[[Global Educational Discourse\|全球教育话语]]在巴西微观遭遇、教师实训行政瘫痪及五位置模型的经典论证文献。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 系统记录并理论解构巴西 1998 年课程改革三大领域与 14 门学科矛盾并置的经典[[Document|文献]]。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 记录[[Global Educational Discourse|全球教育话语]]在巴西微观遭遇、教师实训行政瘫痪及五位置模型的经典论证文献。

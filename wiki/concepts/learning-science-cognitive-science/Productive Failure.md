@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -283,7 +283,6 @@ updated: 2026-10-29
 > | [[Epistemic Agency]] | 概念 | 允许学生试错并自主生成解法，极大地赋权了学生的认识能动性。 |
 > | [[Cognitive Load Theory]] | 理论 | 生产性失败对传统认知负荷理论提出了建设性挑战与时序修正。 |
 > | [[Control of Variables Strategy]] | 概念 | 变量控制策略的长期保持实验是验证前置探索优于显性[[Rote Learning\|死记硬背]]的典型案例。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 将生产性失败确立为化解探究与直接教学争端的循证出路。 |
 
 ---
 

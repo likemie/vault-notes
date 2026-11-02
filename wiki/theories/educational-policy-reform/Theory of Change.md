@@ -82,7 +82,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -280,8 +280,6 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] | 来源论证 | 系统阐发中介机构必须确立变革理论与行为驱动机制的代表论著。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 来源论证 | 详述变革理论在 [[Education Endowment Foundation\|EEF]] 复杂干预评估中的制度化规范与实施诊断应用。 |
 > | [[Logic Model]] | 基础框架 | 变革理论的前身与具体结构化操作工具。 |
 > | [[Educational Brokerage Agency]] | 应用主体 | 制定与检视变革理论以确保服务成效的核心机构。 |
 > | [[Evidence Ecosystem]] | 宏观环境 | 变革理论必须考虑干预与外部大系统相互作用的生态情境。 |

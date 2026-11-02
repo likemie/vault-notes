@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -128,4 +128,8 @@ updated: 2026-10-30
 > | [[International Indicators of Education Systems]] | Fact (Program) | BPC 创立之初所依托的母体[[Performance Indicators\|教育指标]]研发网络。 |
 > | [[Australian Council for Educational Research]] | Fact (Organization) | 接受 PGB/BPC 选拔与监管的 PISA 技术总承包联合体牵头机构。 |
 > | [[Test Production]] | Concept | PGB 在试题研发早期阶段确立跨国教育评价标准的关键治理实践。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 系统考证 BPC 设立与升格为 PGB 的官僚行政架构演进及其合法性支撑机制的权威[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 系统考证 BPC 设立与升格为 PGB 的官僚行政架构演进及其合法性支撑机制的权威[[Document|文献]]。

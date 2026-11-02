@@ -224,8 +224,6 @@ updated: 2026-11-02
 > | [[I-squared Statistic]] | 诊断指标 | 量化总变异中真实异质性占比；$I^2 > 0$ 提示固定效应模型假设面临挑战。 |
 > | [[Meta-meta-analysis]] | 上位方法 | 二阶[[Meta-analysis\|元分析]]在固定效应下具备代数等价性，但高度依赖文献完全无重叠的前提。 |
 > | [[Robust Variance Estimation]] | 补救方法 | 在存在文献重叠导致协方差失效时，运用经验残差校正被低估的标准误。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 严格推导两级固定效应代数等价定理，揭示文献重叠导致方差公式失效的机理。 |
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述固定效应与随机效应在[[Research Synthesis\|证据综合]]中的哲学假设与推论边界差异。 |
 
 ---
 

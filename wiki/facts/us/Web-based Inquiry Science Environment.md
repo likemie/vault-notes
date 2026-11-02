@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -158,4 +158,8 @@ updated: 2026-10-22
 > | [[Computer Simulation]] | 概念 | 交互式虚拟仿真微世界构成了 WISE 探究单元的核心教学介质。 |
 > | [[Productive Failure]] | 概念 | WISE 探究平台经常被用作在正式概念讲授前开展劣构试错的前置环境。 |
 > | [[Scaffolding]] | 概念 | WISE 平台集成了从过程提示、动态可视化到 NLP 智能批改的多层脚手架。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述将 WISE 作为反驳直接教学垄断、确立课程级探究实效的核心证据。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述将 WISE 作为反驳直接教学垄断、确立课程级探究实效的核心证据。

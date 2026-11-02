@@ -160,7 +160,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -426,17 +426,21 @@ updated: 2026-10-30
 > | [[Global Educational Discourse]] | 概念 | 世界银行与经合组织、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示世界银行受紧迫实用主义驱动过度简化知识并依托拉美守门人垄断话语。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析世行“知识银行”制度愿景借贷、成本效益修辞与拉美[[Gatekeepers\|守门人]]网络的代表学者。 |
-> | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析世界银行在跨国[[Policy Borrowing\|政策借用]]连续谱中通过贷款附加条件与最佳实践扮演的协商性乃至受迫性政策转移中介功能。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 运用[[World Education Reform Database\|世界教育改革数据库]]实证检验世行自指性政策中介机制与知识银行演变全过程。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 在全球 654 个证据平台网络测绘中将世界银行定位于核心层第 2 位，揭示其与多边国际组织主导中心网络的格局。 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 建立受限国家[[Analytic Framework\|理论分析框架]]，解构世行金融-智识复合体对第三世界[[State Educational Sovereignty\|国家教育主权]]的深度规训。 |
-> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析世行贷款机制的审计繁杂、执行拖延与重投入轻产出困境。 |
-> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。 |
-> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断[[Discourse\|话语]]与制度愿景借贷的微观知识流动悖论。 |
-> | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | Argument | 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育[[Epistemic Governance\|认知治理]]中枢的三维机制。 |
 > | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 世界银行联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
-> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。 |
-> | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] | Argument | 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。 |
 > | [[Policy Ambassador]] | 概念 | 主导南方本土减贫与教育创新并进入世行等机构推动全球议程设置的跨国政策使者。 |
 > | [[South-South Cooperation]] | 概念 | 世行在多边技术援助与[[Triangular Cooperation\|三方合作]]中逐步吸纳的南方[[Mutual Learning\|互学互鉴]]合作模式。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 剖析世界银行在跨国[[Policy Borrowing|政策借用]]连续谱中通过贷款附加条件与最佳实践扮演的协商性乃至受迫性政策转移中介功能。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世行自指性政策中介机制与知识银行演变全过程。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 在全球 654 个证据平台网络测绘中将世界银行定位于核心层第 2 位，揭示其与多边国际组织主导中心网络的格局。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 建立受限国家[[Analytic Framework|理论分析框架]]，解构世行金融-智识复合体对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角系统剖析世行贷款机制的审计繁杂、执行拖延与重投入轻产出困境。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 解构世界银行在拉美依托守门人垄断[[Discourse|话语]]与制度愿景借贷的微观知识流动悖论。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育[[Epistemic Governance|认知治理]]中枢的三维机制。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。

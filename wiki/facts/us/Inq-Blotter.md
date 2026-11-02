@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -144,4 +144,8 @@ updated: 2026-10-30
 > | [[Scaffolding]] | 概念 | 看板将技术支架与教师人类支架无缝打通，形成多层次协同脚手架。 |
 > | [[Control of Variables Strategy]] | 概念 | 控制[[Variable\|变量]]策略的设计错误是看板触发最频繁的高优先级警报之一。 |
 > | [[Web-based Inquiry Science Environment]] | 事实 | 与 WISE 类似，均致力于通过教师仪表盘提升探究课堂的教学公平性。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述援引 Inq-Blotter 作为人工智能技术赋能教师即时指导的标杆证据。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述援引 Inq-Blotter 作为人工智能技术赋能教师即时指导的标杆证据。

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -225,8 +225,6 @@ updated: 2026-10-29
 > | [[John Hattie]] | Person | 《可见的学习》作者，其建立的[[Meta-analysis\|元分析]]商业专营体系被作为货物崇拜科学的主要研究对象。 |
 > | [[Pierre-Jérôme Bergeron]] | Person | 从数理统计学视角系统解构 Visible Learning 伪科学纸牌屋特征与蓄意盲目的学者。 |
 > | [[Visible Learning Branding and Global Influences]] | Fact (Event) | 货物崇拜科学走向跨国商业专营与政策渗透的制度化实践事实。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]] | Argument | 运用货物崇拜科学透镜系统解构 Visible Learning 统计缺陷与政商利益的核心文献。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]] | Argument | 深入剖析如何用真实数据搞伪科学、揭示纸牌屋脆弱性与蓄意盲目的关键文献。 |
 
 ---
 

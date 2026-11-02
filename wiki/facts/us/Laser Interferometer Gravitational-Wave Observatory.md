@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -178,7 +178,6 @@ updated: 2026-10-31
 > | [[National Science Foundation]] | Fact (Organization) | 为 LIGO 建设与运行提供全额资助的国家科技资助机构。 |
 > | [[CERN]] | Fact (Organization) | 同样展现万人超级署名与巨型工程大科学协作特征的欧洲核子研究中心。 |
 > | [[Dashun Wang]] | Person | 系统剖析 LIGO 超署名特征及大小团队创新生态互补法则的科学学家。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang and Barabási (2021)]] | Argument | 详述 LIGO 发展历程、超署名特征及与爱因斯坦单人世纪对照（Unit 04），并阐明大小团队功能互补生态（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Unit 05]]）。 |
 
 ---
 

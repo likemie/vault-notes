@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -169,5 +169,9 @@ updated: 2026-10-30
 > | [[Absorptive Capacity]] | Concept | 单体学校消化吸收 SINUS 创新模块的组织能力门槛。 |
 > | [[Recontextualization]] | Concept | 外部教学发展模块在特定学校文化中被选择性同化与本土重构的理论机制。 |
 > | [[Complexity Theory]] | Theory | 解释跨校协作网络自组织[[Emergence\|涌现]]与大规模自上而下推广中非线性衰减的系统理论。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 将 SINUS 与 SINUS-Transfer 确立为德语区转移科学与模型试验研究的奠基性历史坐标。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 PISA 震荡后德国联邦教育部追加资助将 SINUS 确立为应对数理危机核心干预的政策机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 将 SINUS 与 SINUS-Transfer 确立为德语区转移科学与模型试验研究的奠基性历史坐标。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 PISA 震荡后德国联邦教育部追加资助将 SINUS 确立为应对数理危机核心干预的政策机制。

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -201,6 +201,3 @@ updated: 2026-10-30
 > | [[Corporate University]] | Concept | 企业教育的重要组织实体，其治理架构（集权标准化对比分权自主）深刻映射母国的生产体制特征。 |
 > | [[Wolfgang Streeck]] | Person | 经济社会学家与制度学者，批判 VoC 静态功能主义互补性假设、阐明资本主义渐进[[Liberalization\|自由化]]大势的领军学者。 |
 > | [[Kathleen Thelen]] | Person | 比较政治学家与历史制度主义领军学者，系统揭示劳资与技能形成制度在互补性表象下的渐进转型机制。 |
-> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证[[Document\|文献]]。 |
-> | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | Argument | 将 VoC 框架引入高等教育领域并揭示学术资本主义跨国多样性机制的奠基文献。 |
-> | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] | Argument | 提出过程与结果二元矩阵、批判 VoC 超稳定偏误并建构渐进制度变迁形态学的里程碑著作。 |

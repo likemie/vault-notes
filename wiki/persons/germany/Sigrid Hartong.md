@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -159,5 +159,3 @@ updated: 2026-10-22
 > | [[Test-Based Accountability]] | 概念 | 阐明高利害接管问责如何诱发系统性数据烹饪并促成行政科层内部的防盗铁门隔离。 |
 > | [[Institute for Educational Quality Improvement]] | 事实 | 剖析 IQB 作为国家计算中心在联邦教育监测中的元治理职能与题库统筹。 |
 > | [[Early Warning Indicator System]] | 事实 | 案例解剖早期预警算法工具在基层异化为劝退弱势学生的标签化风险。 |
-> | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | 论证 | 提出拓扑空间化与[[Assemblage\|政策装配]]框架，剖析德国 IQB 与跨尺度绩效数据基础设施演进。 |
-> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] | 论证 | 跨国考察美德州级数据中枢实践，提出做数据张力与数据基础设施素养[[Analytic Framework\|分析框架]]。 |

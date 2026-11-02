@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -194,8 +194,12 @@ updated: 2026-10-30
 > | [[Tina Seidel]] | Person | 慕尼黑工业大学讲席教授，主持 BMBF 资助的清算中心中介项目研发。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
-> | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | Argument | 剖析 BMBF 如何利用 2000 年 PISA 冲击冲破各州文化主权束缚，推行 40 亿欧元全日制学校计划（IZBB）并协同确立国家教育标准。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证[[Document\|文献]]。 |
-> | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | Argument | 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。 |
-> | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure\|数据基础设施]]中的联邦治理定位。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm\|范式]]治理张力。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析 BMBF 如何利用 2000 年 PISA 冲击冲破各州文化主权束缚，推行 40 亿欧元全日制学校计划（IZBB）并协同确立国家教育标准。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证[[Document|文献]]。
+> - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure|数据基础设施]]中的联邦治理定位。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm|范式]]治理张力。

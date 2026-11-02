@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -183,7 +183,11 @@ updated: 2026-10-30
 > | [[Policy Brokerage]] | 概念 | 儿童基金会通过将[[Social-Emotional Learning\|社会情感学习]]和微观调查打造为全球规范的中介工具。 |
 > | [[Robert Arnove]] | 人物 | 在全球体系与比较教育分析中评述儿童基金会教师援助项目与基层能动性。 |
 > | [[Pluri-Scalar Governance]] | 理论 | 儿童基金会作为超国家行动者参与的多层级[[Educational Governance Framework\|教育治理理论]]。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 在全球 654 个证据平台网络测绘中将儿童基金会定位于核心层第 3 位，揭示其与多边国际组织主导中心网络的格局。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 剖析儿童基金会在五大国际组织生态中率先开辟社会情感学习议程及争夺私人慈善资本的竞争机制。 |
 > | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 联合国儿童基金会与世行等联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
-> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 GEEAP 职责规程的[[Discourse\|话语]]修辞，批判其“智能购买”背后的技术理性与去情境化实证倾向。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 在全球 654 个证据平台网络测绘中将儿童基金会定位于核心层第 3 位，揭示其与多边国际组织主导中心网络的格局。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析儿童基金会在五大国际组织生态中率先开辟社会情感学习议程及争夺私人慈善资本的竞争机制。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 GEEAP 职责规程的[[Discourse|话语]]修辞，批判其“智能购买”背后的技术理性与去情境化实证倾向。

@@ -85,7 +85,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -225,7 +225,6 @@ updated: 2026-10-29
 > | [[Structured Teaching]] | 概念 | 结构化教学为个别化提供清晰目标框架与流程规范，防止个别化滑向无序放任。 |
 > | [[Direct Instruction]] | 概念 | 直接教学搭建学科基础概念支架，与后续的针对性个别化辅导构成有机链条。 |
 > | [[Feedback]] | 概念 | 形成性反馈是个别化教学的核心引擎，为不同进度的学生指明后续改进方向。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析[[Peer-Learning Activities\|欧盟同伴学习活动]]如何将芬兰综合学校早期个别化教学经验转化为跨国政策范本。 |
 
 ---
 

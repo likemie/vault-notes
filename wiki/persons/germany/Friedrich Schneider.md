@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -177,5 +177,3 @@ updated: 2026-10-22
 > | [[Nicholas Hans]] | 人物 | 跨国学派双璧，共同开创 20 世纪前中期欧洲宏大历史文化全景与精神[[Scientific Paradigm\|科学范式]]。 |
 > | [[Wolfgang Mitter]] | 人物 | 系统评析施奈德在德国大学教席建制与欧洲宏大全景范式中的宗师地位。 |
 > | [[Val D. Rust]] | 人物 | 阐述施奈德在比较教育学术期刊制度化及跨文化影响研究传统中的先驱地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123, 126)]] |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供施奈德驱动力理论、欧洲统一性理想及德语区比较教育学制演进的关键史学依据。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据施奈德 1931 年创刊与 1943 年海外辐射专著在比较教育[[Disciplinary Institutionalization\|学科制度化]]历程中的关键坐标。 |

@@ -151,7 +151,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -391,8 +391,6 @@ updated: 2026-10-30
 > | [[Forest Plot]] | 可视化工具 | 展示研究效应量点估计与[[Confidence Interval\|置信区间]]的标准图表 |
 > | [[Funnel Plot]] | 可视化工具 | 诊断[[Publication Bias\|发表偏倚]]与[[Small Study Effects\|小研究效应]]的散点图 |
 > | [[Critical Realism]] | [[Epistemology\|认识论]]基础 | 批判实在论对元分析[[Empiricism\|经验主义]]平均值假设的哲学批判 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 方法论审查 | 推导两级固定效应合成的等价条件，揭示 SE/SD 混淆与伪[[Standard Error\|标准误]]对合成结果的影响；详见 [[Critique of Meta-analysis]]。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 方法学批判 | 二阶聚合的信息损耗、时效滞后与[[Stability vs. Variability Dilemma\|稳定性/变异性]]双重困境；详见 [[Critique of Meta-analysis]]。 |
 
 ---
 
@@ -411,3 +409,5 @@ updated: 2026-10-30
 > - [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] — 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 探讨元分析与证据合成在英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual|常态教学]]高基线以及再编码数据库对拆解元分析证据异质性的作用。
 > - 针对元分析的批判、审计与[[Epistemology|认识论]]反思文献（Wecker et al., 2016；Nielsen & Klitmøller, 2021a；Terhart, 2011；Larsen, 2019；Kalmendal et al., 2025 等）见 [[Critique of Meta-analysis]]。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 推导两级固定效应合成的等价条件，揭示 SE/SD 混淆与伪[[Standard Error|标准误]]对合成结果的影响；详见 [[Critique of Meta-analysis]]。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 二阶聚合的信息损耗、时效滞后与[[Stability vs. Variability Dilemma|稳定性/变异性]]双重困境；详见 [[Critique of Meta-analysis]]。

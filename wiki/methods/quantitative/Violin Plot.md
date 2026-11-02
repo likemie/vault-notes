@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,7 +143,6 @@ updated: 2026-10-30
 > | [[Effect Size]] | 分析对象 | 小提琴图常用于展示元分析中不同干预亚组间效应量 $d$ 的异质性分布形态。 |
 > | [[Intraclass Correlation Coefficient]] | 补充方法 | 检验多组评分者间一致性的量化系数，小提琴图为其提供直观的概率分布重合佐证。 |
 > | [[Meta-analysis]] | 应用场景 | 用于展示初审与终审研究效应量的总体分布密度与偏态特征。 |
-> | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | 关键论证 | 论文图 2 运用小提琴图直观证实大模型与人类专家在三大统计变量上具备高度一致的概率分布特征。 |
 
 ---
 

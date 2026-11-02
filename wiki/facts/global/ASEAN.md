@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -217,13 +217,8 @@ updated: 2026-10-30
 > | [[Coreper]] | Fact (Organization) | 欧盟常驻代表委员会，东盟设立常驻东盟代表委员会（CPR）时的[[Institutional Mimesis\|制度拟态]]借鉴原型。 |
 > | [[Committee of Permanent Representatives to ASEAN]] | Fact (Organization) | 依据《东盟宪章》第 12 条设立的常驻雅加达大使级协调与外事支持机构。 |
 > | [[ASEAN Charter]] | Fact (Policy) | 2007 年签署并于 2008 年生效的东盟最高宪制性条约，确立法人地位与三大支柱。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证分析东盟第一大贸易伙伴背景下中国在东盟（柬埔寨）的高等教育地缘拓展。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 剖析中国—东盟职业教育高水平开放合作的价值立意、逻辑要点与产教生态圈实践进路。 |
-> | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 比较欧盟与东盟决策预备机构，剖析东盟依据《东盟宪章》设立常驻代表委员会中的制度拟态与治理局限。 |
 > | [[SEAMEO RIHED]] | Fact (Organization) | 与东盟教育机制紧密协同但保持平级分立的跨国政府间高教政策协调中心。 |
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 东盟与 [[SEAMEO]] 联合推进的区域高等教育协作弹性框架。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较欧洲与东南亚[[Global Regionalisms\|高等教育区域主义]]，剖析东盟方式与双轨治理分工的实证[[Document\|文献]]。 |
 
 ---
 

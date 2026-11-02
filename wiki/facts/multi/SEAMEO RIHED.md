@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -169,4 +169,8 @@ updated: 2026-10-30
 > | [[ASEAN University Network]] | Fact (Organization) | 东南亚高教合作中代表顶尖高校自治结网的平行平台，与 RIHED 形成双轨分治。 |
 > | [[UNESCO]] | Fact (Organization) | 1959 年最早倡议成立 RIHED 前身机构的多边国际组织。 |
 > | [[Bologna Process]] | Fact (Policy) | 欧洲趋同旗舰模式，RIHED 在 2008 年报告中明确建议东南亚规避该路径。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 系统剖析 RIHED 组织定位、历史演进及其在东南亚双轨竞逐模式中地位的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 系统剖析 RIHED 组织定位、历史演进及其在东南亚双轨竞逐模式中地位的核心[[Document|文献]]。

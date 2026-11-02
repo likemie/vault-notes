@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -124,4 +124,8 @@ updated: 2026-10-30
 > | [[Fourth Culture]] | Concept | ESF 华裔学生的身份认同呈现典型的跨文化第四文化混合空间。 |
 > | [[Chinese Learner]] | Concept | ESF 的生源演变挑战了对华人学习者的单一[[Paradigm\|范式]]界定。 |
 > | [[Liberal Studies]] | Fact (Policy) | 香港公立高中的[[General Education\|通识教育]]科目，与 ESF 推行的国际化博雅课程形成对比。 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] | Argument | 剖析 ESF 华人学生涌入、普通话转向与第四文化认同形成的核心论证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 剖析 ESF 华人学生涌入、普通话转向与第四文化认同形成的核心论证[[Document|文献]]。

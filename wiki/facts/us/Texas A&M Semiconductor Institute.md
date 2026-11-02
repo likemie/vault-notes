@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -99,4 +99,8 @@ updated: 2026-10-22
 > | [[Research Universities]] | Concept | 案例所属的高等教育组织[[Paradigm\|范式]]与战略制度依托。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 机构成立的直接联邦立法依据与国家战略任务牵引。 |
 > | [[Communities of Practice]] | Concept | 研究院所致力于孵化和维护的跨学科科研学术社群。 |
-> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | Argument | 记录该机构从专班创设至常态化挂牌全过程的实证[[Case Study\|案例研究]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 记录该机构从专班创设至常态化挂牌全过程的实证[[Case Study|案例研究]]。

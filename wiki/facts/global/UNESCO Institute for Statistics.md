@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -165,5 +165,9 @@ updated: 2026-10-26
 > | [[Multiple Indicator Cluster Surveys]] | 事实 (项目) | [[UNICEF]] 的 MICS 是 UIS 填补最脆弱群体教育统计缺口的重要补充数据源。 |
 > | [[Governing by Numbers]] | 概念 | UIS 提供的跨国可比数字构成全球教育[[Governing by Numbers\|数字治理]]的核心数据基础设施。 |
 > | [[International Large-Scale Assessments]] | 概念 | UIS 与 [[OECD]]、[[IEA]] 的大规模测评数据共同构成全球教育治理的量化证据体系。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 战略审查实证确认 UIS 在全球经常调阅证据源中名列第 7，作为多边统计中枢支撑全球教育规划。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 剖析 UIS 依托 ISCED 标准与 SDG 4 法定托管职能构建全球教育数字治理基础设施的演进历程。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 战略审查实证确认 UIS 在全球经常调阅证据源中名列第 7，作为多边统计中枢支撑全球教育规划。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析 UIS 依托 ISCED 标准与 SDG 4 法定托管职能构建全球教育数字治理基础设施的演进历程。

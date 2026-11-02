@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -100,4 +100,8 @@ updated: 2026-10-30
 > | [[Pride in Learning]] | Concept | 支撑成功者诅咒国内合法化狂欢的集体文化心理基础。 |
 > | [[Learning Knowledge and Policy Knowledge]] | Concept | 芬兰中央政府用高度简化的政策性知识抵制教师专业学[[Habitus\|习性]]知识。 |
 > | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 本构念是国内行动者网络博弈层级劳资对立的典型实证案例。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 评述劳塔林与阿拉苏塔里成功者诅咒现象的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 评述劳塔林与阿拉苏塔里成功者诅咒现象的核心[[Document|文献]]来源。

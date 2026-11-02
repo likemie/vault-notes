@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -172,5 +172,9 @@ updated: 2026-10-30
 > | [[Data Infrastructure]] | Concept | DIPF 运营的 TBA 测评系统与 DIPF-Kompass 是国家教育数据基础设施的关键组成部分。 |
 > | [[PISA]] | Fact (Program) | DIPF 承担 PISA 德国测评的问卷研发与数字化考试实施支撑。 |
 > | [[Wolfgang Mitter]] | Person | 曾任 DIPF 比较教育研究部门主管与学术所长，奠定研究所战后比较教育的国际声誉。 |
-> | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 DIPF 在德国教育监测总体战略与跨尺度数据基础设施中的宏观报告与信息枢纽定位。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 梳理 DIPF 作为战后德国大学之外两大国家级比较教育实体研究支柱的历史地位。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hartong_2018_GSE|Hartong, 2018]] — 剖析 DIPF 在德国教育监测总体战略与跨尺度数据基础设施中的宏观报告与信息枢纽定位。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理 DIPF 作为战后德国大学之外两大国家级比较教育实体研究支柱的历史地位。

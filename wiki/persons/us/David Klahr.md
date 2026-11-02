@@ -50,7 +50,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] 学者生平与定位
@@ -109,4 +109,8 @@ Klahr 的实证研究构成了[[International Education|国际教育]]学界探�
 > | [[Scientific Method]] | 概念 | 双空间搜索模型（SDDS）为科学方法的认知心理机制提供了严密的计算表征。 |
 > | [[Scientific Literacy]] | 概念 | 掌握变量控制策略是学生形成现代科学素养与实证因果推理的核心门槛。 |
 > | [[STEM Education]] | 概念 | Klahr 的实验装置被广泛融入中小学 STEM 跨学科实验与物理力学课程。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述重新审视 Klahr 实验，揭示其所谓直接教学实为高互动探究，并指出长效保持依赖探究。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述重新审视 Klahr 实验，揭示其所谓直接教学实为高互动探究，并指出长效保持依赖探究。

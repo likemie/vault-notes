@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -206,5 +206,3 @@ updated: 2026-10-29
 > | [[Construct Validity]] | 概念 | 核心基础 | 效标关联效度为[[Construct\|构念]]效度提供外在经验证据，两者在现代效度框架中深度交织。 |
 > | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究深刻展现了[[Criterion Problem\|效标问题]]与效标关联效应的不对称性。 |
 > | [[Triangulation]] | 方法 | 配合技术 | 共时效度常借助多源数据的三角验证来确立测量一致性。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述效标关联效度的定义、分类与效标选择难题。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | [[Meta-meta-analysis\|二阶元分析]]实证揭示了[[Variable\|变量]]角色对效标关联强度的显著调制机制。 |

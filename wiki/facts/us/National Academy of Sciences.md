@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -130,9 +130,9 @@ updated: 2026-10-26
 > | [[Vannevar Bush]] | Person | NAS 资深院士，依托科学院传统构建战后科学体制的总设计师。 |
 > | [[Erica Fuchs]] | Person | 在技术创新政策与[[Network Governance\|网络治理]]研究中深度剖析了 NAS/NRC 与 DARPA 的互动生态。 |
 > | [[Engineering Research Centers]] | Fact (Program) | 1983 年由 NAS 专家小组论证可行性与指南原则的旗舰[[University-Industry Collaboration\|产学合作]]计划。 |
-> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004]] | Argument | 记录 NAS 专家小组参与制定 ERC 方案及布洛赫主任致信 NAS 院长论 [[Science and Technology Centers\|STC]] 衍生的史料。 |
-> | [[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025]] | Argument | 详细阐述 NAS 2024 年《国家科学现状演讲》、GUIRR 机制与全美基础科研资助格局巨变的核心来源。 |
 
 ---
 
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman, 2004]] — 记录 NAS 专家小组参与制定 ERC 方案及布洛赫主任致信 NAS 院长论 [[Science and Technology Centers|STC]] 衍生的史料。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 详细阐述 NAS 2024 年《国家科学现状演讲》、GUIRR 机制与全美基础科研资助格局巨变的核心来源。

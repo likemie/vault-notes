@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -99,7 +99,6 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Schnee_1978_RP\|Schnee, 1978]] | 文献 | 施尼发表于《Research Policy》关于高技术产业成长的里程碑代表作。 |
 > | [[Assured Demand]] | Concept | 施尼在该研究中正式提炼并论证的核心创新政策概念。 |
 > | [[Technological Conservatism in Mission Programs]] | Concept | 施尼针对 [[National Aeronautics and Space Administration\|NASA]] 与军方管理行为提出的组织选型张力命题。 |
 > | [[Learning Economy]] | Theory | 施尼用于解释 100% 采购托底如何驱动器件均价暴跌的核心经济学机制。 |
@@ -107,3 +106,8 @@ updated: 2026-10-30
 > | [[John E. Tilton]] | Person | 施尼研究高度依托其布鲁金斯专著（1971）半导体产业历史统计的论敌与同行。 |
 > | [[Bell Labs]] | Fact | 施尼详尽剖析其 15 家衍生企业与宽容离职政策的技术母体组织。 |
 > | [[System Development Corporation]] | Fact | 施尼记录其为全美培养数千名最早程序员的软件工程历史机构。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Schnee_1978_RP|Schnee, 1978]] — 施尼发表于《Research Policy》关于高技术产业成长的里程碑代表作。

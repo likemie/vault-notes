@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -151,7 +151,6 @@ updated: 2026-10-30
 > | [[Pilot Scale Platform]] | Concept | NNCI 所代表的分布式开放微纳制造与表征中试设施形态。 |
 > | [[Research Universities]] | Concept | 承建并运营 NNCI 16 个核心节点的顶尖研究型大学网络。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动微电子研发基础设施现代化并强化中试网络投资的联邦母法。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫国家微电子研究战略，系统论述 NNCI 在科学普惠化与中试漏斗中的核心功能。 |
 
 ---
 

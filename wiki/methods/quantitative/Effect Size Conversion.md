@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -386,6 +386,10 @@ updated: 2026-10-30
 > | [[Meta-analysis]] | 方法 | 应用场景 | 元分析依赖效应量转换构建统一的数据矩阵。 |
 > | [[Robust Variance Estimation]] | 方法 | 统计进阶 | 效应量转换后常需结合 RVE 校正依赖数据的方差结构。 |
 > | [[Category Mistake]] | 概念 | 方法学批判 | 未作标准化转换直接混用异质分母测度构成范畴[[Commensuration\|通约]]失范。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证应用 | 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法学批判与审计 | 系统揭示[[Standard Error\|标准误]]当作标准差导致效应量虚增十倍、三大均值差测度混用以及伪标准误拼凑失范等典型灾难案例。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 数理审计与反例反证 | 揭示 CLES 负概率失范，并以数值实验证实 $r \to d$ 极值爆炸及三类公式导致完全矛盾排名。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统揭示[[Standard Error|标准误]]当作标准差导致效应量虚增十倍、三大均值差测度混用以及伪标准误拼凑失范等典型灾难案例。
+> - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 揭示 CLES 负概率失范，并以数值实验证实 $r \to d$ 极值爆炸及三类公式导致完全矛盾排名。

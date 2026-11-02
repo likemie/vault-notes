@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -170,4 +170,8 @@ updated: 2026-10-26
 > | [[Success for All]] | Fact (Program) | 获得联邦规模化扩展资助并验证全国性因果成效的标杆综合干预方案。 |
 > | [[Title I of the Elementary and Secondary Education Act]] | Fact (Policy) | 联邦主要补偿性拨款法案，协同 EIR 推动高贫困薄弱学校采纳强证据方案。 |
 > | [[Evaluator Independence]] | Concept | EIR 强制要求的评估者独立性制度，排除方案开发者自评偏倚。 |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | Argument | 系统梳理 i3 与 EIR 分层资助机制、实证项目库积累及方法学演进的权威研究。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 系统梳理 i3 与 EIR 分层资助机制、实证项目库积累及方法学演进的权威研究。

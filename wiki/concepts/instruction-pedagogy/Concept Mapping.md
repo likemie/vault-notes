@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Concept Mapping
@@ -290,4 +290,3 @@ updated: 2026-10-29
 > | [[Formative Assessment]] | 概念 | 评价载体 | 概念图通过外显化命题连接，是诊断内隐概念迷思的强效形成性评价工具。 |
 > | [[Divergent Thinking]] | 概念 | 效能对比 | 概念图对发散思维的激发不如思维导图直接，更侧重收敛性概念整合。 |
 > | [[Convergent Thinking]] | 概念 | 支撑重点 | 概念图的命题核验与语义对齐天然契合收敛整合加工。 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 论证 | 实证基石 | 元分析量化确立概念图对高阶思维的稳健促进效应（$g = 0.548$）。 |

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -127,4 +127,8 @@ updated: 2026-10-26
 > | [[Hukou System]] | 政策事实 | 与中国户籍制度排斥城市随迁儿童形成鲜明对照：美国确立了公立教育保障，但两者均折射出深刻的身份登记[[Governmentality\|治理术]]。 |
 > | [[No Child Left Behind Act 2001]] | 政策事实 | 尽管该判例保障了入学权，但后续 NCLB 的学校报告卡仍将流动学童的高流动率编码为负面失范指标。 |
 > | [[Comparative Policy Analysis]] | 研究方法 | 比较教育学者运用比较政策分析，将美、中、西、英对流动学童的教育空间治理政策展开横向对质。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 深入阐述该判例如何正规化美国流动学童教育供给，同时剖析流动学童面临的跨校机会断裂与登记政治。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 深入阐述该判例如何正规化美国流动学童教育供给，同时剖析流动学童面临的跨校机会断裂与登记政治。

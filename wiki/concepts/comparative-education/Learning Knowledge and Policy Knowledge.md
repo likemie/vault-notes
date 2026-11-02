@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -115,4 +115,8 @@ updated: 2026-10-30
 > | [[PISA Response in Hungary]] | Fact (Event) | 政策性知识随政党轮替在封锁与武器化之间极端摆动的实证标本。 |
 > | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 本构念是该模型国内行动者网络层级解释政策趋异的核心机制构件。 |
 > | [[Conceptual, Instrumental, and Symbolic Use of Research]] | Concept | 政策性知识的运作主要对应于研究证据的象征性与政治性利用模式。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 系统评述沙维尔·庞斯两类知识分类与政策转译的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 系统评述沙维尔·庞斯两类知识分类与政策转译的核心[[Document|文献]]来源。

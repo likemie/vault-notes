@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -144,4 +144,8 @@ updated: 2026-10-30
 > | [[Academic Achievement]] | 概念 | 核心结局；项目试图通过经济与教学双重手段提升的学生学科成绩。 |
 > | [[Implementation and Process Evaluation]] | 方法 | 诊断工具；在招募阶段用于解剖学校拒绝参试与制度脱嵌原因的过程评估。 |
 > | [[Randomised Controlled Trials]] | 方法 | 试验设计；展示了当实验分配违背一线职业伦理时 RCT 招募面临的致命阻力。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源文献；将 ICR 确立为反思外部经济激励局限与建立可行性审查的基石案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 来源文献；将 ICR 确立为反思外部经济激励局限与建立可行性审查的基石案例。

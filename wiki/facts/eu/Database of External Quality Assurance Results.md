@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -132,4 +132,8 @@ updated: 2026-10-30
 > | [[European Education Area]] | Fact (Policy) | DEQAR 支撑落实全欧学位与学分自动互认的核心战略框架。 |
 > | [[Epistemic Infrastructure]] | Concept | DEQAR 构成欧洲高等教育质量保障认识论基础设施中数字化注册库的核心形态。 |
 > | [[Governing at a Distance]] | Concept | DEQAR 依靠数据可见性实现跨国高校软性规训的理论治理机制。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 深入解构 DEQAR 作为认识论基础设施与远距离治理工具的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 深入解构 DEQAR 作为认识论基础设施与远距离治理工具的核心[[Document|文献]]。

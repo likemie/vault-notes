@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -120,4 +120,8 @@ updated: 2026-10-30
 > | [[Engineering Mindset\|工程思维]] | 概念 | 卡普用以克服阿施实验所揭示的从众弱点的科技组织微观范式。 |
 > | [[Social Deafness\|社交失聪]] | 概念 | 创新者对虚假群体共识与世俗非难保持钝感的核心认知抗体。 |
 > | [[Constructive Disobedience\|建设性不服从]] | 概念 | 一线工程师打破盲从、依据实战反馈能动修正上级指令的行动哲学。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|《技术共和国》第12章]] | 论证 | 深入反思阿施从众实验对重塑科技共和国微观工程文化的深远意义。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|《技术共和国》第12章]] — 深入反思阿施从众实验对重塑科技共和国微观工程文化的深远意义。

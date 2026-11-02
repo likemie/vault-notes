@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -190,7 +190,4 @@ updated: 2026-10-29
 > | [[Phenomenon-Based Learning]] | 概念 | 芬兰跨学科核心课程将欧洲教学论传统转化为现代探究教学的实践形态。 |
 > | [[Professional Judgment]] | 概念 | 教学论视域下教师协调内容转化、教化目标与规范要求的核心专业品格。 |
 > | [[Visible Learning]] | 概念 | 英美效能主义代表模型，因抽空学科实质内容与教学三角形而成为当代教学论的批判靶标。 |
-> | [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] | 论证 | 考掘教学论批判解放内涵与芬兰跨学科核心课程哲学的代表[[Document\|文献]]。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 从德语教学论传统系统质问可见学习“实质内容何在”的旗舰批判论文。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判可见学习以评价图式瓦解教学三角形并放逐教学论核心范畴的哲学论证。 |
 

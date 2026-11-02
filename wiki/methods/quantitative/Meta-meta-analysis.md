@@ -153,7 +153,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -551,7 +551,3 @@ updated: 2026-10-30
 > | [[Multilevel Egger's Test]] | 方法 | 偏倚控制方法 | 在控制聚类依赖下定量诊断[[Publication Bias\|发表偏倚]]并输出小研究效应校正估计。 |
 > | [[Second-Order Meta-Regression]] | 方法 | 调节分析方法 | 运用多水平稳健[[Meta-regression\|元回归]]系统检验全领域[[Construct\|理论构念]]与研究特征的[[Interaction Effect\|调节效应]]。 |
 > | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级[[Fixed-Effect Model\|固定效应]]等价性与文献重叠时经典方差失效的机制。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 全库审计 | 依据 [[PICO Framework\|PICO]] 与[[Umbrella Review\|伞状综述]]规范开展首个[[Preregistration\|预注册]]全库审计，揭示一阶元分析数据提取脆弱性与[[Replication in Education Research\|复现危机]]。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 认识论批判 | 提出货币比附谬误与修补金字塔双重困境，批判二阶粗放综合的经验信息损耗与时滞过时风险。 |

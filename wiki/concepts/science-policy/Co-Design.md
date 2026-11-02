@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -166,7 +166,6 @@ updated: 2026-10-29
 > | [[Hardware Security]] | Concept | 协同设计将硬件信任根与形式化安全验证作为前置约束内生嵌入芯片架构。 |
 > | [[Reliability]] | Concept | 协同设计通过在初始阶段联合考量热学与物理退化机制提升系统全生命周期可靠性。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全栈协同设计跨部门重大研发计划的白宫协调机构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立全栈双向协同设计为四大战略科技目标之一。 |
 
 ---
 

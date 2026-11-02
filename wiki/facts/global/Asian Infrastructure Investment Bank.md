@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -100,4 +100,8 @@ updated: 2026-10-30
 > | [[Belt and Road Initiative]] | Fact (Program) | 亚投行为一带一路跨国基础设施互联互通提供核心多边融资保障。 |
 > | [[South-South Cooperation]] | Concept | 践行新型南南发展融资模式，探索超越西方霸权借贷条件的多边金融公共产品。 |
 > | [[ASEAN]] | Fact (Organization) | 东南亚各国是亚投行早期项目落地与区域一体化互联互通的首要受益方。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 论述亚投行金融资本如何拉动涉外高教人才需求及透视基建与文教投资结构失衡的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 论述亚投行金融资本如何拉动涉外高教人才需求及透视基建与文教投资结构失衡的实证[[Document|文献]]。

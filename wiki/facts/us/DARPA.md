@@ -107,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -215,10 +215,6 @@ updated: 2026-10-30
 > | [[Alexander Karp]] | Person | 《技术共和国》作者，将 DARPA 视为 21 世纪软件[[Hard Power\|硬实力]]与国防动员体制必须复兴的典范。 |
 > | [[David C. Mowery]] | Person | 深入分析 DARPA 历史资助成效、软件规制与半导体联盟治理的核心学者。 |
 > | [[Fred Block]] | Person | 经济社会学家，将 DARPA 定性为美国[[Developmental Network State\|发展型网络国家]]（DNS）与早期技术跨界经纪的核心范本。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 详尽剖析 DARPA 设立 [[MOSIS]] 原型制造平台与资助 Sematech 联合体跨越[[Valley of Death\|死亡之谷]]的微观制度机制。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 DARPA 联合 SRC 推进 JUMP 2.0 跨校协作网络并支撑美国半导体体系角色重构的[[Document\|文献]]。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心战略构想、跨机构研发协同机制及对 DARPA 历史中试与工具共享模式的制度演化。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立全美微电子全谱系研发战略，将 DARPA ERI 2.0、微系统[[Hardware Security\|硬件安全]]（AISS/SSITH）与 EEI/AFVentures 风险分担机制纳入国家级中试与产业转化四大核心支柱。 |
 
 ---
 

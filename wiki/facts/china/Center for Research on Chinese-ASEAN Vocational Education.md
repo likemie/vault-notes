@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -118,7 +118,6 @@ updated: 2026-10-30
 > | [[China-ASEAN Education Cooperation Week]] | Fact (Program) | 中心常态化参与承办分论坛与发布学术成果的重要对外窗口。 |
 > | [[Internationalization of Vocational Education]] | Concept | 中心开展核心学术研究与政策咨询的宏观理论领域。 |
 > | [[Comparative Policy Analysis]] | Method | 中心国别研究所开展东盟十国职教政策比较的核心研究方法。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 记录中心职能定位、智库成果及十国国别研究所布局的核心论证文献。 |
 
 ---
 

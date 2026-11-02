@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -284,7 +284,6 @@ updated: 2026-10-29
 > | [[Developmental Network State]] | Theory | 解释国家如何通过共性技术资助与时序协调破解 GPT 跨部门扩散中协调失灵的核心理论。 |
 > | [[Advanced Technology Program]] | Fact (Program) | 商务部资助具有跨行业溢出效应的通用目的技术与共性工艺突破（如 2mm 工程）的旗舰计划。 |
 > | [[Fred Block]] | Person | 论证通用目的技术在自由市场中面临系统性协调失灵、需由网络国家主动破局的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家协调机制视角论证 GPT 跨行业扩散与公共托底必要性的理论[[Document\|文献]]。 |
 
 ---
 

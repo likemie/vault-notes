@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -215,5 +215,3 @@ updated: 2026-10-30
 > | [[Chris Freeman]] | Person | 将李斯特智力资本理论重新引入现代[[Evolutionary Economics\|演化经济学]]与国家创新系统的学者。 |
 > | [[Alexander Karp]] | Person | 批判硅谷智力资本被浅层消费主义吸纳并主张重塑国家工程使命的理论家与实践者。 |
 > | [[Nicholas Zamiska]] | Person | 共同提出技术共和国命题并剖析顶尖工程师国家使命认同演变的学者。 |
-> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 阐发李斯特智力资本思想与[[Technological Catch-up\|技术追赶]]的经典文献。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | Argument | 阐述冷战科技合作演化、硅谷消费主义转向与工程智力资本错配的专著第一章。 |

@@ -78,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] Participant Observation
@@ -178,7 +178,6 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 > | [[Non-participant Observation]] | 相对方法 | 保持距离的纯观察取向，与参与观察共同构成观察者角色连续体两端。 |
 > | [[Triangulation]] | 效度策略 | 结合访谈、文档与实物进行多源互证，抵消观察者主观偏倚。 |
 > | [[Reflexivity]] | [[Epistemology\|认识论]]准则 | 持续审视研究者自身在场对观察情境与资料建构的反身性影响。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考证比较教育学研究策略的演进，指出参与观察等常规社会[[Scientific Method\|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents\|二手文献]]综述。 |
 
 ---
 

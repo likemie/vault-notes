@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -252,4 +252,3 @@ updated: 2026-10-29
 > | [[Cognitive Load Theory]] | 理论 | 资源平衡 | 解释轻度活动相比超载计算更有利于潜意识长时记忆网络扩散。 |
 > | [[Alternate Uses Test]] | 测量工具 | 效果测查 | 散步与轻度孕育活动被证实能显著提升 AUT 的新颖用途产出。 |
 > | [[Remote Associates Test]] | 测量工具 | 顿悟测验 | RAT 常用作检验孕育期间隔是否成功激活远距弱语义连接的经典[[Paradigm\|范式]]。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 元分析揭示干预周期倒 U 型规律并纳入 Oppezzo and Schwartz (2014) 孕育实证。 |

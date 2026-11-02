@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -181,4 +181,8 @@ updated: 2026-10-30
 > | [[EU Evidence-Informed Education Policy Initiatives]] | Fact (Policy) | EPPI-Centre 牵头发起并深度协调的泛欧洲证据知情政策与实践合作网络（EIPPEE）。 |
 > | [[Boundary Spanner]] | Concept | 机构在大学学术研究界与公共政策/一线教育社群之间承担的关键跨界协调功能。 |
 > | [[Systematic Review]] | Method | 机构研发、拓展与制度化推广的核心证据综合方法体系。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 EPPI-Centre 等国际清算中介底层转移作用假设的反思贫困与预期目标达成度验证赤字。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析 EPPI-Centre 等国际清算中介底层转移作用假设的反思贫困与预期目标达成度验证赤字。

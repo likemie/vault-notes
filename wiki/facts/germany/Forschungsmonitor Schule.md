@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -136,5 +136,8 @@ updated: 2026-10-30
 > | [[Educational Brokerage Agency]] | 概念 | 联结科研机构、一线学校与各州文教行政的多维中介组织。 |
 > | [[Educational Science Communication]] | 概念 | 平台是开展跨学科教育科学传播与实践转化的制度基础设施。 |
 > | [[Normal School]] | 概念 | 平台为大学职前师资培养与在职教师进修提供持续的实证研究评介支持。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证 (论文) | 阐明各州立研训与质量机构联合创设 FMS 平台的制度脉络，批判其短评供给假设与微观实效验证赤字。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 阐明各州立研训与质量机构联合创设 FMS 平台的制度脉络，批判其短评供给假设与微观实效验证赤字。

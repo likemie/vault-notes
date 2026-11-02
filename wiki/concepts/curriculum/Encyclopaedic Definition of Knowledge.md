@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -160,7 +160,6 @@ updated: 2026-10-30
 > | [[Official Knowledge]] | 概念 | 揭示国家如何通过统编大纲界定合法知识，以及该主权如何让渡给商业出版资本。 |
 > | [[Brazilian Secondary Education Curriculum Reform 1998]] | 事实 | 巴西废除传统学科大纲、推行能力本位课程改革的代表性历史制度案例。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，深入实证剖析阿根廷与巴西百科全书式传统与全球能力话语碰撞的领军学者。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 记录全球教育话语对拉美百科全书传统断裂与微观备课抄袭异化的核心论证文献。 |
 
 ---
 

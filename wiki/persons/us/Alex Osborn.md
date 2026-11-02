@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -128,4 +128,8 @@ updated: 2026-10-22
 > | [[Creative Problem Solving]] | 理论 | 共同奠基人，创立 Osborn-Parnes CPS 模型雏形。 |
 > | [[SCAMPER]] | 概念 | 思想源头，提供最初的 73 项设问创新检核清单。 |
 > | [[Creativity Training]] | 概念 | 实践先驱，开创全球首批系统化[[Creativity\|创造力]]教学与演练项目。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证[[Literature Review\|文献回顾]]将其确立为创造力干预史上最具影响力的经典基石之一。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 实证[[Literature Review|文献回顾]]将其确立为创造力干预史上最具影响力的经典基石之一。

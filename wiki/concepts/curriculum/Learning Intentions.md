@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -245,5 +245,3 @@ updated: 2026-10-29
 > | [[Technical Rationality]] | 哲学概念 | 审视学习意图被封闭为手段-目的因果工程背后的[[Positivism\|实证主义]]理性前提。 |
 > | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州推行 HITS、将白板书写学习意图硬性化的典型政策案例。 |
 > | [[Visible Learning Branding and Global Influences]] | 事实条目 | 记录了学习意图与清晰教学作为商业培训模块被推向全球的历史轨迹。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证[[Document\|文献]] | 提供了维州基层教师白板打卡规训与专业自主权流失的批判论据。 |
-> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 批判文献 | 从[[Critical Theory\|批判理论]]视角揭示目标技术化对学生[[Intentionality\|主体意向性]]与生活世界关切的剥离。 |

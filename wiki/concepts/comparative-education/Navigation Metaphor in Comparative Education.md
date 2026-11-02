@@ -46,7 +46,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -165,7 +165,6 @@ updated: 2026-10-29
 > | [[PISA]] | 事实 | 跨国量化标杆治理的具体载体，其巨大影响力深刻改变了比较教育的政策咨询生态。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 劳威斯与米特活跃的欧洲比较教育学会平台，曾是航海隐喻讨论的中心阵地。 |
 > | [[Governing by Numbers]] | 概念 | 瓦解航海隐喻从容自主空间的当代全球数字治理形态。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目所有核心命题与学科演进判断的核心来源[[Document\|文献]]。 |
 
 ---
 

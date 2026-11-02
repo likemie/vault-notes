@@ -78,7 +78,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -259,8 +259,6 @@ Teach 历经两年的三阶段迭代式预测试规程如下：
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 经典案例 | 历经两年的跨国预测试成功诊断出观察员认知超载，驱动了快照与质量双轨架构重构。 |
 > | [[National Institutes of Health]] | 事实 | 资助生态 | NIH 同行评审高度依赖预实验数据评估可行性，成为青年学者申请的前置门槛。 |
 > | [[Paula Stephan]] | 人物 | 理论提出者 | 科学经济学家，实证批判了同行评审过度依赖预实验数据对前沿学术创新的保守化抑制。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 理论基础 | 系统界定问卷预测试的双重类型与测验项目分析的预试准则。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证案例 | 展现高推论复杂观察工具通过迭代预测试化解认知负荷并优化结构的完整范例。 |
 
 ---
 

@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -146,4 +146,8 @@ updated: 2026-10-22
 > | [[Allgemeine Pädagogik]] | 概念 | 在欧陆比较教育思想脉络中，与普通教育学所奠定的基础理论框架形成跨域学术互动。 |
 > | [[Wolfgang Mitter]] | 人物 | 在学科制度史中高度评价劳韦里斯创设 CESE 个人会员制与政策航行隐喻的里程碑贡献。 |
 > | [[Oskar Anweiler]] | 人物 | 共同依托 CESE 学会平台推动冷战时期跨越东西方意识形态阵营的学术交流。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证劳韦里斯在欧洲比较教育学会创会宪章、政策咨询光谱以及航海隐喻中的制度与思想角色。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 考证劳韦里斯在欧洲比较教育学会创会宪章、政策咨询光谱以及航海隐喻中的制度与思想角色。

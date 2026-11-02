@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -154,4 +154,3 @@ updated: 2026-10-22
 > | [[Educational Brokerage Agency]] | Concept | [[Knowledge Mediation\|知识中介]]机构的元祖范型，展示了学术[[Systematic Review\|系统综述]]如何通过法定授权直接转变为国家采购行动。 |
 > | [[Systematic Review]] | Method | NICE 研制临床指南与准入标准的绝对技术基石，全部委托外部独立大学科研中心完成。 |
 > | [[Recommendations for Practice]] | Concept | NICE 核心产出形式，其临床与社会关怀指南将系统综述证据转化为具体的实践推荐规程。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 将 NICE 作为紧凑聚焦治理范式标杆并与 EEF 广泛拓展范式展开[[Luhmann's Systems Theory\|系统理论]]对比的核心文献。 |

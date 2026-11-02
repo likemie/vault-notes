@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -301,4 +301,3 @@ updated: 2026-10-31
 > | [[Problem Approach]] | Method | 霍姆斯学派在科学范式内推进假说-演绎与情境政策预测的核心方法论路径。 |
 > | [[Pluralism]] | Theory | 科学范式单一垄断瓦解后学科演化形成的 26 种理论传统并存的健康多元主义格局。 |
 > | [[Securitization of Technology]] | Concept | 当代地缘竞争中驱动科学研究范式由自由探索向战略使命与排他防御转向的政治经济动力。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 揭示大国地缘科技博弈驱动科学研究范式发生技术安全化与国家使命导向转型的实证文献。 |

@@ -179,7 +179,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -528,12 +528,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > | [[Randomised Controlled Trials]] | 方法 | 证据黄金标准 | EBE 强版本推崇的排除混淆偏差与确立可复制因果效应的核心实验方法。 |
 > | [[Meta-meta-analysis]] | 方法 | 证据聚合方法 | 在更高层级汇聚一阶元分析[[Effect Size\|效应量]]的宏观综合方法，面临双重推论困境。 |
 > | [[Realist Evaluation]] | 理论 | 替代评估方法 | 探究在何种情境下通过何种机制产生何种结果，打破传统 RCT 的黑箱测量。 |
-> | [[Argument_Slavin_2002_ER\|Slavin (2002)]] | 论证 | 支持者纲领 | [[American Educational Research Association\|AERA]] 演讲代表作，系统阐释 EBE 实验控制基础与分层资助立法路径。 |
-> | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 论证 | 批判经典 | 提出知识、效力与应用三重[[Deficit Framing\|缺陷框架]]，系统解构 EBE 的[[Technical Rationality\|技术理性]]崇拜。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 认识论批判 | 提出[[Stability vs. Variability Dilemma\|稳定性与变异性假说]]双重困境，以修补金字塔隐喻解构循证终极圣杯神话。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法学反思 | 严格证明二阶元分析数学等价性与重叠破产，倡导建立公共中央证据库。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 论证 | 制度复盘 | 系统回顾英国 [[Education Endowment Foundation\|EEF]] 十年改革，记录现实主义试验与[[Research Schools Network\|研究学校网络]]的生态构建。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | [[Metascience\|元科学]]审计 | 对可见学习底层证据开展[[Preregistration\|预注册]]全量复核，揭示宏观循证知识库的实证虚脱。 |
 
 ---
 

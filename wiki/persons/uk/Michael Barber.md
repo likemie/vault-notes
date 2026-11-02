@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -183,10 +183,6 @@ updated: 2026-10-26
 > | [[Social Impact Investing]] | 概念 | 巴伯在培生时期推动 PALF 基金在发展中国家投资低收费私校的核心道德修辞与运作机制。 |
 > | [[Paul Morris]] | 人物 | 批判比较教育学者，深入剖析巴伯交付学[[Discourse\|话语]]背后的政治神学修辞与绩效霸权。 |
 > | [[Michael Gove]] | 人物 | 英国前教育大臣，依据巴伯的咨询理念在白皮书中规划创设 EEF。 |
-> | [[Argument_Cowen_2023_CE\|Cowen (2023)]] | 关键论证 | 记录并深化对巴伯交付学体系作为政治神学与指标管理附属品的理论批判。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 EEF 的创设深植于巴伯的麦肯锡全球网络及其对澳洲[[Venture Philanthropy\|风险慈善]]中介的跨国辐射。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示戈夫在白皮书中依据巴伯咨询理念设立 EEF 的历史经纬。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 关键论证 | 揭示巴伯作为政策企业家在跨国咨询、培生集团及影响力投资网络中的关键枢纽地位。 |
 
 ---
 

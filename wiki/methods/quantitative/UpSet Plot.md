@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -139,7 +139,6 @@ updated: 2026-10-30
 > | [[Intraclass Correlation Coefficient]] | 补充方法 | 组内相关系数从连续一致性层面评估[[Inter-Rater Reliability\|评分者信度]]，UpSet Plot 则从全组合交集维度解构其离散一致率。 |
 > | [[Meta-meta-analysis]] | 前置方法 | 二阶[[Meta-analysis\|元分析]]作为复杂证据综合，催生了大量跨模型、跨编码员多集合数据提取的比对需求。 |
 > | [[Meta-analysis]] | 应用场景 | 用于展示元分析中不同检索策略、纳入标准或数据库之间的文献覆盖重合度。 |
-> | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | 关键论证 | 首次在二阶元分析大模型提取评测中运用 UpSet Plot 成功分离 7 组主体的完全一致与单方偏离模式。 |
 
 ---
 

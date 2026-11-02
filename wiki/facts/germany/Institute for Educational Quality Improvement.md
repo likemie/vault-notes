@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -158,5 +158,9 @@ updated: 2026-10-30
 > | [[PISA]] | Fact (Program) | 催生 IQB 成立的根本性国际危机事件，其数据集由 IQB FDZ 集成管理。 |
 > | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 汉堡州立监测机构（IfBQ），在州级层面落实 IQB 标准与 VERA 实施。 |
 > | [[Sigrid Hartong]] | Person | 深入剖析 IQB 机构崛起、计算中心机制与政策拓扑重组的核心研究者。 |
-> | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心[[Document\|文献]]。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering, 2009]] | Argument | 记录 IQB 早期创设背景及其在各州教育部日常落实机制中的文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hartong_2018_GSE|Hartong, 2018]] — 深入解剖 IQB 作为国家计算中心与数据基础设施运作机制的核心[[Document|文献]]。
+> - [[Argument_Dedering_2009_EERJ|Dedering, 2009]] — 记录 IQB 早期创设背景及其在各州教育部日常落实机制中的文献。

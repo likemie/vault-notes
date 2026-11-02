@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Class Size
@@ -510,8 +510,4 @@ updated: 2026-10-29
 > | [[Pierre-Jérôme Bergeron]] | 人物 | 方法学批判 | 针对[[John Hattie\|哈蒂]]班额[[Meta-analysis\|元分析]]实施数理对偶审计，揭示比较基准颠倒导致的性质判定矛盾。 |
 > | [[Picking Up the Pace]] | 事实 | 本土实证 | 奥克兰南区小学缩班至 15 人配合 3 人微组阅读辅导，提供小班与针对性教学协同的典型范例。 |
 > | [[Performance Pay]] | 概念 | 替代政策 | 政策制定者常以班额无效论为借口，将原本拟用于缩班的公共资金转向屡遭失败的绩效工资。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 批判与审计 | 揭示大班对偶效应（$d=-0.20$）落入逆向有害区的数理事实，解构人为阈值偏见。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 论证 | 理论与数据来源 | 重审可见学习底层逻辑，论证班级规模非独立[[Unit of Analysis\|分析单元]]属性并揭露[[Socioeconomic Status\|阶级盲教学思维]]。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供发展中国家大样本计量模型中控制班额后的教学效能证据及超大班额快照测量反思。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 95 次高频词频统计与格拉斯曲线复验，揭示班额无效论作为财政护盾的政治经济学证据。 |
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -123,4 +123,9 @@ updated: 2026-10-30
 > - **下设与衍生机构** [[What Works Clearinghouse]]（由 OERI 于 2002 年出资 1850 万美元创设的证据清算旗舰）。
 > - **关键治理与咨询主体** [[National Research Council]]（受托研制 SRE 报告的学术权威机构）；[[House Committee on Education and the Workforce]]（发起 OERI 重组审查与听证的国会委员会）。
 > - **相关人物** [[Richard J. Shavelson]]（主持起草 SRE 科学原则报告的委员会主席）。
-> - **关键论证** [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]]（考证 OERI 重新授权与 WWC 初创期规程演进）；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]]（回顾 OERI 时代向 IES 独立治理转型的历史制度背景）。
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 考证 OERI 重新授权与 WWC 初创期规程演进
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 回顾 OERI 时代向 IES 独立治理转型的历史制度背景

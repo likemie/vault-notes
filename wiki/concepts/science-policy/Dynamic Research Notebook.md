@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,7 +153,8 @@ updated: 2026-10-29
 > | [[Transformational AI Models Consortium]] | Fact | 训练与部署科学大模型所依托的高质量动态笔记本数据集与接口。 |
 > | [[Protein Data Bank]] | Fact | 为动态研究笔记本提供底层原子级开放结构数据的国际基础设施。 |
 > | [[Metascience]] | Concept | 评估和设计动态笔记本对科研复现与交流效率赋能效应的元科学分析。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对动态研究笔记本重塑科学交流[[Paradigm\|范式]]的权威论证。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对动态研究笔记本重塑科学交流[[Paradigm|范式]]的权威论证。

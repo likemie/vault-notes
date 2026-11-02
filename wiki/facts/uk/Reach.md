@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -152,4 +152,8 @@ updated: 2026-10-30
 > | [[Decodification]] | Concept | 方案针对落后学生重点训练的基础词汇解码与拼读[[Construct\|构念]]。 |
 > | [[Academic Achievement]] | Concept | 方案评估的核心[[Dependent Variable\|因变量]]，体现为标准化阅读测验分数的显著提升。 |
 > | [[Perry Beeches]] | Fact (Program) | 同受 EEF 资助并取得显著成效的英国中学衔接期助教辅导强证据方案。 |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | Argument | 国际循证领军论著，将 Reach 列为高年级助教一对一辅导标杆方案。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 国际循证领军论著，将 Reach 列为高年级助教一对一辅导标杆方案。

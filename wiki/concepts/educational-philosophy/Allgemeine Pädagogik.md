@@ -52,7 +52,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -172,7 +172,6 @@ updated: 2026-10-30
 > | [[Oskar Anweiler]] | 人物 | 深刻阐发普通教育学母体地位、提出比较教育交叉领域论的德国比较教育学核心学者。 |
 > | [[Wolfgang Mitter]] | 人物 | 梳理普通教育学母体演进历程、对比欧陆与英国建制模式的比较教育学科史学者。 |
 > | [[Dietrich Benner]] | 人物 | 现代普通教育学奠基学者，系统建构了教育行动相对独立性与人的可塑性理论。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目关于普通教育学母体学科地位与英德比较史考察的核心[[Document\|文献]]来源。 |
 
 ---
 

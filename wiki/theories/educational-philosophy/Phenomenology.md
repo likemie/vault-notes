@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -130,7 +130,6 @@ updated: 2026-10-30
 > | **现象学悬置（[[Epoché]]）** | 方法规程 | 将外部世界存在与否的自然判断放入括号，排除科学理论的先入之见，以便澄明纯粹经验现象。 |
 > | **Hycner 15 步分析法** | 操作工具 | 海克纳（1985）构建的现象学访谈数据分析规程，通过意义单位提取、聚类成簇与参与者核验，提供完整的经验质性操作规程。 |
 > | **[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）** | 制度实践 | 现象学在现代课程领域的制度化转化框架，以真实生活世界现象的跨学科探究落实整体教化（[[Bildung]]）。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 考证现象学作为 26 种核心[[Theoretical Standpoint\|理论立场]]之一，在比较教育学打破战后实证功能主义霸权中的关键贡献。 |
 
 > [!mechanism-map]- 机制图：现象学意向性与生活世界意义生成链条
 > ```mermaid

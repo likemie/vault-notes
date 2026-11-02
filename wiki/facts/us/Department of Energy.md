@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -222,7 +222,6 @@ updated: 2026-10-30
 > | [[Venkatesh Narayanamurti]] | Person | 曾任能源部下属桑迪亚国家实验室副总裁，长期建言重塑能源部科研组织设计。 |
 > | [[Paula Stephan]] | Person | 经济学评估学者，实证量化了能源部资助在大学系统中的高集中度特征。 |
 > | [[Fred Block]] | Person | 经济社会学家，以先进涡轮机计划为例阐明能源部国家实验室作为技术经纪人的角色。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析能源部国家实验室在民用燃气轮机中试中承担 75% 风险并实现公私协同的案例。 |
 > | [[Bell Labs]] | Fact (Organization) | 能源部[[Big Science\|大科学]]实验室与工业巨头研发中心在底层硬件攻坚上长期合作互补。 |
 
 ---

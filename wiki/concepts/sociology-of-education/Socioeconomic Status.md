@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Socioeconomic Status
@@ -281,4 +281,3 @@ updated: 2026-10-29
 > | [[Homework]] | 阶层折射 | 家庭作业被实证证明高度依附于家庭文化资本与物理辅导空间，容易放大阶层差距。 |
 > | [[Neo-Taylorism\|新泰勒主义]] | 治理同谋 | 阶级盲思维为新泰勒主义将社会结构矛盾转嫁为教师个人考核问责提供了合法性借口。 |
 > | [[Technical Rationality\|技术理性]] | [[Epistemology\|认识论]]根源 | 将复杂的社会阶级剥离出分析视界，源于技术理性将教育还原为封闭机械工程的偏见。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 实证与方法学批判：提供基准反转（$-0.57$）、挑战者号情境剥离与未加权鱼子酱物价指数的方法学反证。 |

@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -218,8 +218,6 @@ updated: 2026-10-29
 > | [[Class Size]] | 概念 | 记录参数 | 协议表头将班级规模细化为分性别实际在座人数，同时极端大班额对扫描精度构成挑战。 |
 > | [[Zone of Proximal Development]] | 概念 | 实践出口 | 观察协议产出的微观行为诊断画像，为指导教师专业发展的 Coach 规程提供 ZPD 坐标。 |
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 经典产物 | 整合时间快照、事实笔记与行为量规的[[World Bank\|世界银行]]全球标准化[[Classroom Observation\|课堂观察]]协议范例。 |
-> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 论证 | 理论基础 | 系统界定[[Qualitative Research\|质性研究]]中描述性笔记与反思性笔记分立的双栏观察协议标准。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 奠定高推论微观课堂观察双轨协议系统、行为锚定与事实驱动赋分的操作规程。 |
 
 ---
 

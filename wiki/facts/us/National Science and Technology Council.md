@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!caution] 机构缩写辨析
@@ -162,7 +162,10 @@ updated: 2026-10-30
 > | [[President's Science Advisory Committee]] | Fact | 冷战时期白宫科学咨询中枢，NSTC 继承了其顶层战略协调职能，但更加突出内阁跨部委行政整合而非学者自治评议。 |
 > | [[Social Contract of Science]] | Theory | NSTC 设立标志着科学社会契约由部门自主资助进入跨部门顶层统筹与问责协调的制度化新阶段。 |
 > | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新[[Paradigm\|范式]]，NSTC 成为执行总统定向技术指令的重要行政依托。 |
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 樊春良关于美国科学社会契约再协商与 NSTC 跨部门统筹演进的系统论述。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 卓泽林关于美国半导体体系顶层跨部门治理与[[Research Universities\|研究型大学]]角色重构的实证分析。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | NSTC SML 发布的国家微电子研究战略之深度结构化论证。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 樊春良关于美国科学社会契约再协商与 NSTC 跨部门统筹演进的系统论述。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 卓泽林关于美国半导体体系顶层跨部门治理与[[Research Universities|研究型大学]]角色重构的实证分析。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — NSTC SML 发布的国家微电子研究战略之深度结构化论证。

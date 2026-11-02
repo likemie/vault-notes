@@ -50,7 +50,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （评价性判断 / 评估判断力）
@@ -194,4 +194,3 @@ updated: 2026-10-29
 > | [[Epistemic Dependence\|认识依赖]] | 诊断标准 | 评价性判断是否被算法替代，是划分生产性依赖与有害依赖的决定性标尺。 |
 > | [[AI Literacy\|人工智能素养]] | 高阶内涵 | 批判性 AI 素养超越提示词操作，立足于运用评价性判断审判模型输出。 |
 > | [[Feedback\|教学反馈]] | 互动载体 | [[Feedback Literacy\|反馈素养]]的核心即在于对反馈信息的价值做出独立、明智的评价性判断。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代深化 | 论证评价性判断在[[Man-Computer Symbiosis\|人机协同]]中的不可委托性，构建反思决策追踪的治理方案。 |

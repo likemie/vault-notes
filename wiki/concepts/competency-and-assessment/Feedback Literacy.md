@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （反馈素养）
@@ -177,4 +177,3 @@ updated: 2026-10-29
 > | [[AI Literacy]] | 概念 | 反馈素养在[[Man-Computer Symbiosis\|人机协同]]情境中的延伸应用，防范算法单窗口界面诱发的伪确定性与盲从。 |
 > | [[Epistemic Agency]] | 概念 | 确立学习者在评价网络中的主体能动地位，支撑对非合理反馈进行质疑与理性扬弃。 |
 > | [[Epistemic Friction]] | 概念 | 教学规程中故意嵌入的多源对比与辩护要求，通过人为创造认识摩擦激活深层认知反思。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 论证 | 提供了[[Man-Computer Symbiosis\|人机共生]]学习中落实反馈素养培养的四步教学设计与反思决策日志规程。 |

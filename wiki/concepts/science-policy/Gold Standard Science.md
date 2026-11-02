@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,7 +153,8 @@ updated: 2026-10-29
 > | [[Falsification]] | Concept | 黄金标准科学所继承并以自动化技术强化的科学哲学基石。 |
 > | [[Metascience]] | Concept | 评估和设计黄金标准科学规制工具的元科学理论框架。 |
 > | [[Goodhart's Law]] | Concept | 黄金标准科学通过机器核验旨在破除的论文计量博弈异化。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对黄金标准科学作为智能时代科研基底的权威论证。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对黄金标准科学作为智能时代科研基底的权威论证。

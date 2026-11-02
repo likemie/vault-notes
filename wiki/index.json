@@ -16010,6 +16010,30 @@
     ]
   },
   {
+    "title": "Citation Expiration Date",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Citation Expiration Date.md",
+    "aliases": [
+      "引文失效期",
+      "文献失效期",
+      "学术影响力失效期",
+      "引文饱和稳态",
+      "Expiration Date"
+    ]
+  },
+  {
+    "title": "Citation Prediction Envelope",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Citation Prediction Envelope.md",
+    "aliases": [
+      "引文预测包络",
+      "前瞻引文预测包络",
+      "科学预测置信包络",
+      "飓风预测模型",
+      "Prediction Envelope"
+    ]
+  },
+  {
     "title": "Clustering Coefficient",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Clustering Coefficient.md",
@@ -17075,6 +17099,19 @@
       "学术生产力",
       "Researcher Productivity",
       "Publication Productivity"
+    ]
+  },
+  {
+    "title": "Second Act in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Second Act in Science.md",
+    "aliases": [
+      "科学中的二次激活",
+      "学术第二春",
+      "二次激活",
+      "双峰引文模式",
+      "成果二次唤醒",
+      "Second Act"
     ]
   },
   {

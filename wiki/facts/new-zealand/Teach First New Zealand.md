@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -168,7 +168,8 @@ updated: 2026-10-30
 > | [[Cognition Education]] | Fact | 认知[[The Education Trust\|教育信托]]作为主要赞助方（Kaitautoko Rimu），资助了 TFNZ 的日常运营与教研业务。 |
 > | [[Partnership Schools Kura Hourua]] | Fact | 两者共同构成新西兰新自由主义国家党执政时期公立教育解构与外生私有化的姊妹改革举措。 |
 > | [[Network Analysis]] | Method | 政策社会学者运用网络分析测绘 TFNZ 理事会成员在政府部委、跨国企业与大学之间的[[Co-affiliation\|连锁任职]]图谱。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 对 TFNZ 的资金来源、跨国对冲基金背景、公私合作成本及去专业化机制进行了全面批判性解构。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 对 TFNZ 的资金来源、跨国对冲基金背景、公私合作成本及去专业化机制进行了全面批判性解构。

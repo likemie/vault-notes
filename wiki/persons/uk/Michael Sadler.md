@@ -91,7 +91,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -205,6 +205,7 @@ updated: 2026-10-30
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 评价萨德勒关于外部力量与因素的洞察，批判其后续发展中沦为地理区域细节堆砌的[[Epistemology|认识论]]盲区。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 指出学界虽然继承了萨德勒关于情境重要的口号，但一个世纪以来始终没有提出去拆解情境中特定要素的系统性操作方法。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 对萨德勒 1900 年吉尔福德演讲的“花园漫步”与“活体植物”隐喻进行当代重构，提出全球化新漫步者与“枯死植株携带有害微生物重构生态土壤”假说。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统阐发萨德勒 1900 年牛津演讲如何终结第一代[[Scholiocentric Approach|以校为中心]]的行政借用，奠定以民族系统为分析单位的第二代自由人文代际。
 
 ---
 
@@ -290,6 +291,3 @@ updated: 2026-10-30
 > | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 作为[[Realism in International Relations\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
 > | [[OECD\|经济合作与发展组织]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 阐述萨德勒在英国率先开创大学比较教育教席、推动特别调查与报告办公室建制化的学术史地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88, 89–90)]] |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 梳理欧洲比较教育学科演进中萨德勒创设 [[Office of Special Inquiries and Reports\|OSIR]]、以德国为核心参照系推动比较教育大学建制化的历史贡献。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 系统阐发萨德勒 1900 年牛津演讲如何终结第一代[[Scholiocentric Approach\|以校为中心]]的行政借用，奠定以民族系统为分析单位的第二代自由人文代际。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 针对萨德勒 1900 年[[Sadler's Garden Metaphor\|花园漫步隐喻]]展开当代重构，提出全球漫步者演变与“枯死植株携带有害微生物重构生态土壤”假说。 |

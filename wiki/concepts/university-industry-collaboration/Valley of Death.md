@@ -83,7 +83,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -257,9 +257,3 @@ updated: 2026-10-29
 > | [[National Semiconductor Technology Center]] | Fact | 授权设立的国家级半导体中试与原型转化平台，统筹多极中试网络与 DEG 网关以跨越深科技死亡之谷。 |
 > | [[CHIPS and Science Act]] | Fact | 授权设立 [[National Science and Technology Council\|NSTC]] 与多极中试网络，全面筑牢半导体跨越死亡之谷的基础设施底座。 |
 > | [[Fred Block]] | Person | 政治社会学家，实证测算 ESTD 资金结构并揭示公共财政托底死亡之谷的真相。 |
-> | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]] | Argument | 系统论述大学与产业界合作中的死亡之谷成因、RTO 平台与生态系统建设机制。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 援引 ESTD 资金核算证实联邦出资超 30% 托底死亡之谷，打破私人风投神话。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 系统阐述 NSTC 全要素中试平台与数字化网关弥合半导体深科技死亡之谷的白皮书。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 深刻阐释国家在跨越技术创新死亡之谷中的引领投资角色与耐心金融机制。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 深度剖析美国[[Research Universities\|研究型大学]]通过 300 毫米晶圆中试线与空间共置跨越半导体制造转化断层。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 阐释共享试验台、[[National Nanotechnology Coordinated Infrastructure\|NNCI]] 共享洁净室与小时级计费对深科技初创企业跨越死亡之谷的赋能机制。 |

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -154,4 +154,8 @@ updated: 2026-10-30
 > | [[State Educational Sovereignty]] | Concept | 宪章总则在确立多边合作时坚决捍卫的国家主权基本原则。 |
 > | [[Historical Institutionalism]] | Theory | 剖析东盟方式对宪章折冲方案产生历史锁定与[[Path Dependence\|路径依赖]]的[[Theoretical Perspective\|理论视角]]。 |
 > | [[Comparative Policy Analysis]] | Method | 对照《东盟宪章》与欧盟条约决策机制与履约有效性的研究方法。 |
-> | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 深入审视《东盟宪章》三大支柱与 CPR 机制、评估制度拟态限度的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 深入审视《东盟宪章》三大支柱与 CPR 机制、评估制度拟态限度的核心[[Document|文献]]。

@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -172,8 +172,6 @@ updated: 2026-10-26
 > | [[SBIR and STTR Programs]] | Fact (Program) | I-Corps 结业团队下一步申请联邦非稀释性产业研发资助的标准出口。 |
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 国家微电子战略将 I-Corps 列为繁荣硬件初创企业与加速产业转化的重要生态工具。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 与 I-Corps 深度联动，为硬科技团队提供设计网关与 [[Multi-Project Wafer\|MPW]] 中试流片支持。 |
-> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] | Argument | 详尽剖析 I-Corps 运作机制、三元架构、数据成效及跨越 TRL 断层的实证研究。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 阐明国家微电子战略中通过 I-Corps 与风险共担机制打通从实验室到代工厂全链条转化的顶层路径。 |
 
 ---
 

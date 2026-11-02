@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -285,8 +285,3 @@ updated: 2026-10-26
 > | [[National Education in Europe\|欧洲国民教育]] | 事实 | 高度赞誉巴纳德编纂世界教育百科全书的本体贡献，为其早期编年史地位平反。 |
 > | [[Edmund King\|埃德蒙·金]] | 人物 | 伦敦国王学院代表学者，与霍姆斯就通则预测政策科学 vs 生态学语境主义展开长期学术论辩。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 评析霍姆斯引入批判理性主义与问题法对 IOE 及欧洲比较教育学科引发的[[Positivism\|实证主义范式]]转向。 |
-> | [[Argument_Cowen_2023_CE\|Cowen (2023)]] | 论证 | 考恩论述霍姆斯物理学式预测模型与政策科学定位在学科本体论论战中的地位。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与范式冲击。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 阐述第三代际实证科学主义中霍姆斯伦敦学派的 $L + I = P$ 假说演绎推导与条件预测准则，以及实证政策科学充当技术援助合法化借口的反思。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述霍姆斯在比较教育科学范式中的理论建构、批判二元论及其实用政策遭遇。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供霍姆斯实证主义转向、IOE 内部认识论论辩及 [[Comparative Education Society in Europe\|CESE]] 与 [[World Council of Comparative Education Societies\|WCCES]] 建制历史的权威史学依据。 |

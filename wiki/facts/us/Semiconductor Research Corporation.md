@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -195,8 +195,6 @@ updated: 2026-10-26
 > | [[Manufacturing USA]] | Fact (Organization) | 跨部门制造业创新网络，与 SRC 在微电子领域形成基础研究与中试制造的链条协同。 |
 > | [[Industrial Advisory Committee]] | Fact (Organization) | 依据《芯片法案》设立的产业咨询机构，吸纳 SRC 技术路线图并向白宫与商务部提供建议。 |
 > | [[David C. Mowery]] | Person | 系统评估 Sematech 与 SRC 在国家[[Systems of Innovation\|创新系统]]（NIS）中分工定位的科技政策学者。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨 SRC 与康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福 CIS 等大学中心同源嵌合及北卡竞标总部历史的研究。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 分析 SRC 联合 DARPA 设立 JUMP 2.0 跨校协作网络攻坚微电子[[Heterogeneous Integration\|异构集成]]的实证文献。 |
 
 ---
 
@@ -206,6 +204,7 @@ updated: 2026-10-26
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 评估 SRC 在美国半导体[[University-Industry Collaboration|产学合作]]与博士人才培养中的长周期成效与抗周期机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析 SRC 联合 [[DARPA]] 发起的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，揭示以顶尖大学为主导节点的跨区域网络化协同对先进封装与[[Heterogeneous Integration|异构集成]]前沿攻关的支撑机制。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 将 SRC 列为美国半导体产学合作研发联合体的核心对标典范，阐述 NSTC 如何借鉴 SRC 跨校[[Precompetitive Research|前竞争研发]]网络并弥补其缺乏 300mm 硬件[[Pilot Scale Platform|中试验证线]]的制度断层。
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 探讨 SRC 与康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福 CIS 等大学中心同源嵌合及北卡竞标总部历史的研究。
 
 ---
 

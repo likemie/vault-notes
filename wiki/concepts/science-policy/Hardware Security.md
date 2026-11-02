@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -166,7 +166,6 @@ updated: 2026-10-29
 > | [[Co-Design]] | Concept | 协同设计将硬件安全从外部补丁转化为贯穿全技术栈的前置内生属性。 |
 > | [[Reliability]] | Concept | 硬件安全防范主动敌对攻击，与防范物理退化失效的硬件可靠性形成互补。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全美硬件安全科技攻坚的白宫协调机构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立硬件完整性与安全性为协同设计的核心支柱。 |
 
 ---
 

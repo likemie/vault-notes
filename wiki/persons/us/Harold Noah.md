@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -260,7 +260,3 @@ updated: 2026-10-30
 > | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将其判定为前科学的动力与因素阶段，构成战后科学化范式论战的核心靶标。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 批判其缺乏变量控制与预测力，促发卡扎米亚斯对广义科学与工作假设的辩护。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1976–1977 年出任学会会长，推动学会研究与教育实证政策咨询紧密结合。 |
-> | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 论证 | 考恩评析诺亚与埃克斯坦起源史叙事的学科合法化功能及其局限。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理诺亚对古典历史学派的[[Positivism\|实证主义]]围剿，并重申[[Geisteswissenschaften\|人文科学]]传统的合法性。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 阐述第三代际哥大学派“以变量替代系统”纲领、家庭收入回归假设范例及合法化借口批判。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 阐述诺亚与埃克斯坦的变量函数共变模型、审慎法则观与清洗主观偏见的方法论追求。 |

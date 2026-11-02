@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -140,4 +140,8 @@ updated: 2026-10-30
 > | [[Constructive Disobedience]] | 概念 | 克服米尔格拉姆实验所揭示的盲从弱点的核心组织行动[[Paradigm\|范式]]。 |
 > | [[Engineering Mindset]] | 概念 | 依托客观事实反馈抵御权威盲从的科技组织微观文化。 |
 > | [[Technological Republic]] | 概念 | 倡导打破官僚盲从、重塑前沿技术治理的国家体制构想。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] | 论证 | 深入探讨米尔格拉姆实验对重塑现代科技组织工程文化的论证文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] — 深入探讨米尔格拉姆实验对重塑现代科技组织工程文化的论证文献。

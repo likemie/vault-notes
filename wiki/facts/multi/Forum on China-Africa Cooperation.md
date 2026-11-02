@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -163,4 +163,8 @@ updated: 2026-10-30
 > | [[Belt and Road Education Action Plan]] | Fact (Policy) | 与中非合作论坛人力资源传统深度交织、共同支撑跨洲能力合作的行动纲领。 |
 > | [[Luban Workshop]] | Fact (Program) | 论坛第七届北京峰会明确承诺并在非洲重点落地的跨国职业教育实训旗舰工程。 |
 > | [[Discourse Analysis]] | Method | 解构中非合作论坛政策文本互惠修辞与制度性承诺演进的核心分析方法。 |
-> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 深入解构中非合作论坛第六届与第七届峰会教育承诺并对比“[[Belt and Road Initiative\|一带一路]]”倡议的代表性文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 深入解构中非合作论坛第六届与第七届峰会教育承诺并对比“[[Belt and Road Initiative|一带一路]]”倡议的代表性文献。

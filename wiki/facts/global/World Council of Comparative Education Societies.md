@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -110,5 +110,9 @@ updated: 2026-10-22
 > | [[Comparative Education Society in Europe]] | Fact (Org) | 1970 年倡议发起创设 WCCES 的泛欧区域学会成员，维系欧洲双重代表制。 |
 > | [[Wolfgang Mitter]] | Person | 曾任 WCCES 主席，协调冷战终结后苏东国家教育转型的国际学术评估并确立欧洲平行会员制。 |
 > | [[Brian Holmes]] | Person | 曾任 WCCES 主席，推动与 UNESCO 合作编制教育指南并创设计划理论转型委员会。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证 WCCES 的创设历史、组织沿革以及欧洲学者在联合会内部的双重会员制理论领导力。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 将 WCCES 确立为 20 世纪后半叶比较教育学打破欧洲中心主义、实现全球“国际化”扩展的核心制度载体。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 考证 WCCES 的创设历史、组织沿革以及欧洲学者在联合会内部的双重会员制理论领导力。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将 WCCES 确立为 20 世纪后半叶比较教育学打破欧洲中心主义、实现全球“国际化”扩展的核心制度载体。

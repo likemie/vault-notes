@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （自我控制）
@@ -289,8 +289,6 @@ updated: 2026-10-29
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 来源论证 | 详述 [[Education Endowment Foundation\|EEF]] 拓展自我控制等非学业素养的制度背景与心理测量学审议。 |
-> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 来源论证 | 呈现自我控制理论（Rosenbaum, 1990）与习得性资源感的[[Mixed Methods Research\|混合方法]]实证应用。 |
 > | [[Metacognition]] | 概念 | 上层心智机制；自我控制提供抗干扰与情绪平抑底座，支撑高阶元认知策略调用。 |
 > | [[Academic Achievement]] | 概念 | 下游终极产出；自我控制通过提升[[Student Engagement\|学习投入]]与持久性促进长期学业成就。 |
 > | [[Self-Regulated Learning]] | 概念 | 广义理论框架；自我控制担当自我调节学习执行阶段的制动与稳定功能。 |

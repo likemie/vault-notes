@@ -66,7 +66,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -245,6 +245,3 @@ updated: 2026-10-29
 > | [[Epistemic Agency\|认识主体性]] | 实践主体 | 学习者通过共同体元认识论协商内化认识论理想，确立对知识评价与标准制定的自主权。 |
 > | [[Generative Artificial Intelligence\|生成式人工智能]] | 技术中介挑战 | 生成式模型用通用的表层流畅性抹平学科严密理想，诱导[[Epistemic Dependence\|认识依赖]]并削弱规范性评价标准。 |
 > | [[Epistemic Provocateur\|认识论挑衅者]] | 角色应对 | 显性认识论理想支持学习者将大模型的生成缺陷转化为认识论挑衅，阻断[[Cognitive Offloading\|认知卸载]]。 |
-> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 实证支撑 | 确立论证评价的双轴模型，实证揭示认识论理想对科学论证品质的实质性决定作用。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代重构 | 论证人工智能扁平化学科认识理想的机制，阐明关系性认识主体性作为规范理想的重构路径。 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | 实证支架 | 揭示显性[[Scientific Explanation\|科学解释]]标准作为认识论理想在人机协同探究中指导因果机制审验的微观机制。 |

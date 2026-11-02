@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -191,7 +191,6 @@ updated: 2026-10-29
 > | [[Fred Block]] | Person | 深刻揭示 [[MOSIS]] 与多项目晶圆机制以微小公共支出打破芯片设计壁垒的经济社会学家。 |
 > | [[National Semiconductor Technology Center]] | Fact (Org) | [[National Science and Technology Council\|NSTC]] 统筹管理全美面向商业代工厂的多项目晶圆聚合准入与先导中试服务。 |
 > | [[DARPA]] | Fact (Org) | 历史上出资创建 [[MOSIS]] 确立了现代 MPW 先河，现今持续推动先进封装拼圆计划。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家演进视角阐明 MPW 原型设施打破芯片制造瓶颈的理论[[Document\|文献]]。 |
 
 ---
 

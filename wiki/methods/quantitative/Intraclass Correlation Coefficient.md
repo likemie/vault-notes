@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -253,7 +253,6 @@ updated: 2026-10-30
 > | [[Ordinary Least Squares]] | 偏误参照系 | 未做 ICC 校正时传统 OLS 发生标准误低估与伪显著性膨胀的根源所在。 |
 > | [[Standard Error]] | 修正客体 | ICC 通过设计效应膨胀因子进行彻底纠偏的核心统计推断指标。 |
 > | [[Effective Sample Size]] | 换算实体 | ICC 将名义[[Sample Size Determination\|样本量]]通过设计效应压缩为真实有效样本量的桥梁。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 评估实证 | 运用双向[[Random-Effects Model\|随机效应]]单评分者模型 ICC(2,1) 评估多国跨学科资深学者在宏观证据库实践相关性评分中的评定一致性（ICC = 0.60）。 |
 
 ---
 

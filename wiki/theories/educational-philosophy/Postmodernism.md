@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -120,7 +120,6 @@ updated: 2026-10-22
 > | **知识-权力纽带（Knowledge-Power Nexus）** | 核心机制 | 揭示知识绝非超然客观中立，它始终与特定权力结构、[[Discourse\|话语]]机制与利益再生产深层共谋。 |
 > | **时空情境黏着性（Temporality & Contextuality）** | [[Epistemology\|认识论]]准则 | 意涵永远深嵌于具体的地理场所、历史时刻与交往文化中，脱离情境的普遍法则必然失效。 |
 > | **多重共存实在（Multiple Coexistent Realities）** | 认识论准则 | 承认现实包含多重视角可并存的浅层表现，个体解释具有同等的[[Ontology\|本体论]]合法性。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证后现代主义在比较教育学打破单一实证功能主义霸权、推动 26 种[[Paradigm\|范式]]并存中的理论贡献。 |
 
 > [!contrast-table] 现代主义实证范式、后现代主义与[[Post-structuralism|后结构主义]]辨析
 > | 维度 | 现代主义实证范式（[[Positivism]]） | 后现代主义（Postmodernism） | 后结构主义（[[Post-structuralism]]） |

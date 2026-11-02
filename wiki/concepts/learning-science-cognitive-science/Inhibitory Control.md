@@ -50,7 +50,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] Inhibitory Control
@@ -128,4 +128,8 @@ updated: 2026-10-30
 > | [[Control of Variables Strategy]] | 概念 | 践行变量控制策略在神经认知上高度依赖对多[[Variable\|变量]]同时操纵冲动的行为抑制。 |
 > | [[Computer Simulation]] | 概念 | 仿真微世界的界面复杂度决定了抑制控制是阻断盲目乱试的关键门槛技能。 |
 > | [[Interaction Effect]] | 概念 | 抑制控制水平与[[Scaffolding\|教学支架]]结构展现出强烈的条件因果交互效应（ATI）。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述引述抑制控制实证，阐明学习者认知特征对探究教学成效的深层制约。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述引述抑制控制实证，阐明学习者认知特征对探究教学成效的深层制约。

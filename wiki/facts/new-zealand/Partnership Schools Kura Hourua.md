@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -138,7 +138,8 @@ updated: 2026-10-30
 > | [[Teach First New Zealand]] | Fact | 共同依托联合政府新自由主义政策通道，试图通过非传统师训向弱势学校输入师资。 |
 > | [[Network Governance]] | Concept | PSKH 依托授权委员会、外部慈善信托与支持实体构成了典型的去中心化网络治理。 |
 > | [[Network Analysis]] | Method | 政策学者运用网络分析测绘特许学校授权委员会成员在政商学界的重叠兼任纽带。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 对 PSKH 的政治起源、去规制特权、赞助商结构及合同终止危机进行了系统实证调查。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 对 PSKH 的政治起源、去规制特权、赞助商结构及合同终止危机进行了系统实证调查。

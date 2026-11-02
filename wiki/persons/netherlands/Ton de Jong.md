@@ -47,7 +47,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -112,4 +112,8 @@ updated: 2026-10-30
 > | [[Computer Simulation]] | 概念 | 德容奠定国际声誉的技术介质与数字化实验载体。 |
 > | [[Inquiry Cycle]] | 理论 | 德容指导式探究理论框架赖以立足的阶段模型。 |
 > | [[Discovery Learning]] | 概念 | 德容在多媒体学习中系统确立引导式发现原则。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 德容作为第一作者领衔发表的反击直接教学垄断的里程碑文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 德容作为第一作者领衔发表的反击直接教学垄断的里程碑文献。

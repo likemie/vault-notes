@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -159,7 +159,8 @@ updated: 2026-10-30
 > | [[National Science Foundation]] | Fact (Organization) | 启动 XPS 专项接力并规模化放大 UPCRC 探索成果的联邦科研资助中枢。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年法案推动设立的[[National Semiconductor Technology Center\|国家半导体技术中心]]延续并制度化了 UPCRC 所开拓的公私协同路线。 |
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 半导体行业第二代更具普惠性与全行业覆盖性的前竞争联盟组织。 |
-> | [[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025]] | Argument | 详细记载与分析 UPCRC 案例历史全貌、治理转型与外溢效应的核心学术来源。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 详细记载与分析 UPCRC 案例历史全貌、治理转型与外溢效应的核心学术来源。

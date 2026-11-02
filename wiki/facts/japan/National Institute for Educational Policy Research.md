@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -110,4 +110,8 @@ updated: 2026-10-30
 > | [[Teaching and Learning International Survey]] | 机构事实 | NIER 作为日本 TALIS 国家协调机构，直接参与工具开发与数据采集，是 TALIS 在日本落地实施的核心技术支撑。 |
 > | [[Kennisrotonde]] | 机构事实 | 同属"政府资助自治型"中介，与 NIER 的东亚模式形成欧洲-亚太跨文化比较，共同例证了非部委嵌入型中介的制度韧性优势。 |
 > | [[Kenniskamer]] | 机构事实 | 与 NIER 形成鲜明对比——同样具有政策对齐取向，但 Kenniskamer 依附于特定部长而夭折，NIER 则凭借法定独立性跨越政治周期持续运作。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 以 NIER 为"政府资助自治型"中介的亚太代表，论证物理邻近与行政自治并行的制度设计如何实现政策对齐与学术独立的双重目标。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 以 NIER 为"政府资助自治型"中介的亚太代表，论证物理邻近与行政自治并行的制度设计如何实现政策对齐与学术独立的双重目标。

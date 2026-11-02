@@ -53,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -117,4 +117,8 @@ updated: 2026-10-30
 > | [[Direct Instruction]] | 概念 | 琳在大规模宏观课程实验中深入对比并反思的传统教学取向。 |
 > | [[Computer Simulation]] | 概念 | WISE 探究单元中用于可视化微观分子反应的核心技术介质。 |
 > | [[Scaffolding]] | 概念 | 知识整合教学法在软件交互界面中落实的关键支撑机制。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 琳作为核心作者参与发表的长篇权威综述，引用其 8,000+ 人实证成果。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 琳作为核心作者参与发表的长篇权威综述，引用其 8,000+ 人实证成果。

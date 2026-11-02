@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -147,4 +147,3 @@ updated: 2026-10-26
 > | [[Scientific Misinformation]] | 概念 | EMC 在突发舆论争议中第一时间阻断教育虚假信息与伪科学的扩散发酵。 |
 > | [[Educational Brokerage Agency]] | 概念 | 拓宽了教育中介机构的目标受众维度，将其延伸至公共舆论场。 |
 > | [[Cumulative Knowledge Base]] | 概念 | 大众媒体中介需依托累积性知识库提供长效实证依托。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述了 EMC 的创立、受众拓宽价值及其反商业自利操纵的中介功能。 |

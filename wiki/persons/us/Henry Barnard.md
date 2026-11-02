@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -231,4 +231,3 @@ updated: 2026-10-30
 > | [[Ethnography\|民族志]] | 方法 | 巴纳德对欧洲学校日常运作、纪律、课表与教学法的巨细靡遗的客观记述，开创了早期教育民族志的先河。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 巴纳德代表了第一代“以校为中心”（Scholiocentric）的孤立微观办学分析单位，为[[Michael Sadler\|萨德勒]]转向民族国家整体体系提供了制度史料基座。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 巴纳德汇纂欧洲教育事实服务于美国公学建制的实践，展现了比较教育[[Knowledge Production\|知识生产]]依附于国家建制诉求的普罗透斯式特征。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立巴纳德在第一论述代际中的地位，揭示[[Scholiocentric Approach\|以校为中心]]汇纂与立法政治合法化依据的历史实质。 |

@@ -207,9 +207,7 @@ updated: 2026-11-02
 > | [[Metascience]] | 概念 | 2026 年要求在 NIH 内部设立的开展资助机制 [[Randomised Controlled Trials\|RCT]] 对照实验的法定单元。 |
 > | [[Portfolio-Based Research Funding]] | 概念 | 指导 NIH 平衡先锋奖对人资助、项目课题与 AMP 联合体的组合配置框架。 |
 > | [[Fred Block]] | Person | 经济社会学家，以紫杉醇案例批判 NIH 创新中公帑托底风险与私人独吞暴利的分配断裂。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析 NIH 在技术商业化中的关键作用及抗癌药紫杉醇（Taxol）公私收益脱节案例。 |
 > | [[Academic Medical Center]] | 概念 | 承担 NIH 院外科研与[[Clinical Trial\|临床试验]]重任的高校附属医学中心网络。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] | Argument | 剖析 NIH 核心资助代际老龄化倒转、青年 R01 资助挫折断点效应与专利转化网络。 |
 > | [[SciSciNet]] | 事实 | 科学学开放数据湖，系统清洗并高保真映射 601 万条 NIH 课题资助成果链条。 |
 
 ---

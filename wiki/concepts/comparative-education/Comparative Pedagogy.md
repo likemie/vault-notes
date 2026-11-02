@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -131,7 +131,6 @@ updated: 2026-10-22
 > | [[Dialogue in Education\|对话教学]] | 概念 | 比较教学论在课堂[[Discourse\|话语]]研究中的核心理论产物与教学改进模式。 |
 > | [[Ethnography\|民族志]] | 方法 | 深入课堂开展微观长时段观察与[[Rich and Thick Description\|深描]]的关键方法论工具。 |
 > | [[Fieldwork\|田野调查]] | 方法 | 获取第一手课堂教学实态与师生访谈材料的基石研究设计。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威评述英国比较教育学派在第四代际向比较教学论的微观回归与文化坚守。 |
 
 ---
 

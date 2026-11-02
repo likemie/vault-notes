@@ -78,7 +78,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -236,8 +236,3 @@ updated: 2026-10-22
 > | [[Problem Approach]] | 方法 | 其假说-演绎试错法、情境逻辑与零星工程被霍姆斯[[Operationalization\|操作化]]为跨国[[Comparative Policy Analysis\|比较政策分析]]工具。 |
 > | [[Scientific Paradigm]] | 概念 | 构成战后比较教育科学[[Paradigm\|范式]]中反普遍[[Determinism\|决定论]]、主张权变法则的理论支柱。 |
 > | [[Scientism]] | 概念 | 波普尔批判归纳[[Positivism\|实证主义]]与机械决定论，但其理论近年亦被用于反思科学主义与伪科学的界限。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 考据波普尔证伪主义、推测性知识对现代教育研究方法论范式划分的奠基贡献。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述波普尔批判二元论如何作为[[Epistemology\|认识论]]基石被霍姆斯用于重构比较教育学。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判性分析波普尔在《[[Visible Learning\|可见的学习]]》中被断章取义引述以规避同行评议的现象。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 批判性分析波普尔三世界理论在可见学习中的联想式借用及其造成的实质教化真空。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 系统考证波普尔客观世界三理论被[[Constructivist Paradigm\|建构主义]]心理学化挪用的认识论危机。 |

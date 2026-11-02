@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -107,4 +107,8 @@ updated: 2026-10-26
 > | [[Global Education Cooperation Mechanism]] | Fact | NORRAG 受托为其职能领域一（FA1）提供顶层审查设计的治理机制。 |
 > | [[UNESCO]] | Fact | 委托 NORRAG 开展全球战略审查的国际多边主导机构。 |
 > | [[Policy Brokerage]] | Concept | 机构在全球南方与北方之间扮演的核心知识中介职能。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 由 NORRAG 团队研究研制并发布的旗舰战略审查报告。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 由 NORRAG 团队研究研制并发布的旗舰战略审查报告。

@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -146,7 +146,6 @@ updated: 2026-10-26
 > | [[BHP Foundation]] | Fact (Organization) | 共同卷入跨国[[Evidence-Based Education\|循证教育]]生态资助网络的跨国资本方。 |
 > | [[Venture Philanthropy]] | Concept | Impetus 属于英国最典型、最资深的[[Social Impact Investing\|风险慈善]]与私募股权基金会组织形态。 |
 > | [[Policy Network]] | Concept | Impetus 充当了跨国投行资本连接英国政府与海外政策网络的关键枢纽。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 映射 Impetus 背后的跨国私募股权资助网络及其对 EEF 的资本输出。 |
 
 ---
 

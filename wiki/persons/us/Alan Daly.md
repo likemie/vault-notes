@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -133,4 +133,8 @@ updated: 2026-10-30
 > | [[Network Analysis]] | 方法 | 将量化社会网络分析技术系统引入教育组织诊断，开辟关系数据研究传统。 |
 > | [[Research Learning Communities Baseline Survey Questionnaire]] | 测量工具 | 与[[Chris Brown\|克里斯·布朗]]共同设计该基线[[Questionnaire\|问卷]]，确立涵盖能力、文化、环境与资源的测评框架。 |
 > | [[Research Learning Communities]] | 事实 | 担任该项目首席测量专家之一，负责设计基线调查并开展跨校社会网络分析追踪。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | 论证 | 合作开展基线问卷研发并实证检验英格兰 79 所小学证据利用准备度与关系生态的[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]] — 合作开展基线问卷研发并实证检验英格兰 79 所小学证据利用准备度与关系生态的[[Document|文献]]。

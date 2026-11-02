@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -136,7 +136,6 @@ updated: 2026-10-30
 > | **政策的价值建构属性** | 概念基石 | 指出公共政策是统治群体关于理想社会秩序的权威宣告，本质是负载利益与价值偏好的社会建构，有别于技术中立的科学工程。 |
 > | **[[Critical Pluralism\|批判性多元主义]]** | [[Institutional Displacement\|制度替代]]模型 | 埃德蒙森提出的批判性替代框架，要求教育者统整功能、沟通与批判三类研究，在本土拒止、社会结盟与伦理对质中重夺自主权。 |
 > | **系统与生活世界张力** | 社会理论模型 | [[Jürgen Habermas\|哈贝马斯]]晚期区分金钱与权力介导的行政系统与依凭共识交往的生活世界；[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] 用以诊断教育技术化对师生主体意向性的系统性殖民。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证 1970 年代批判与解释性知识共同体打破比较教育学[[Structural Functionalism\|结构功能主义]]霸权的历史转向。 |
 
 > [!mechanism-map]- 机制图：批判理论的解构与解放动力链条
 > ```mermaid

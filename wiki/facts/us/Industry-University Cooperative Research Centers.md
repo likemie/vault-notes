@@ -60,7 +60,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -142,7 +142,6 @@ updated: 2026-10-30
 > | [[Bayh-Dole Act of 1980]] | Fact (Policy) | 与 I/UCRC 形成制度共振、全面释放产学专利活力的联邦立法基石。 |
 > | [[Technology Transfer Office]] | Concept | 负责对接与承接 I/UCRC 产学研发成果商业化转化的大学职能机构。 |
 > | [[Fred Block]] | Person | 系统揭示 I/UCRC 作为微观靶向战略并撬动 1:10 资本杠杆的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家微观靶向与资本杠杆维度剖析 I/UCRC 制度演进的理论[[Document\|文献]]。 |
 
 ---
 

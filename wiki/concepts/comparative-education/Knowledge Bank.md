@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -256,7 +256,6 @@ updated: 2026-10-29
 > | [[Epistemic Governance]] | 概念 | 知识银行超越硬性行政干预、依托数据与科学证据重塑受援国政策认知的[[Epistemology\|认识论]]治理方式。 |
 > | [[UNESCO]] | 事实 (机构) | 常年提供无偿政策咨询、但因缺乏贷款资金约束而被用作知识银行有效性反衬的国际机构。 |
 > | [[Jason Beech]] | 人物 | 揭示世界银行在借款国资金占比不足 0.5% 进而促使其转型为知识银行并输出去情境化蓝图的学者。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 记录世界银行 0.5% 资金比重与知识银行转型垄断政策议程的核心论证文献。 |
 
 ---
 

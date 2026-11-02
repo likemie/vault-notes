@@ -70,7 +70,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -186,4 +186,3 @@ updated: 2026-10-30
 > | [[Fred Block]] | Person | 揭示 ERC 撬动 1:10 资本杠杆并作为发展型网络国家微观靶向载体的经济社会学家。 |
 > | [[Erich Bloch]] | Person | 担任 NSF 主任期间力排众议顶层设计并强力推进 ERC 创立落地的关键领导者。 |
 > | [[Nam Pyo Suh]] | Person | 担任 NSF 工程学副主任期间协助布洛赫奠定 ERC 概念框架的麻省理工学院知名工程学者。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家微观靶向与资本杠杆维度剖析 ERC 制度演进的理论[[Document\|文献]]。 |

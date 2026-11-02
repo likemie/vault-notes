@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -178,7 +178,6 @@ updated: 2026-10-26
 > | [[Dual-Use Technology]] | Concept | 微电子共用体聚焦的核心技术属性，兼顾国防安全与商业[[Competitiveness\|竞争力]]。 |
 > | [[Modern Industrial Policy]] | Concept | 微电子共用体作为国防驱动型现代产业政策与中试网络创新的重要载体。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全美微电子中试走廊的白宫协调机构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立微电子共用体为打通实验室向制造基底转化的关键支柱。 |
 
 ---
 

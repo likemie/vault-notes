@@ -50,7 +50,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -165,7 +165,6 @@ updated: 2026-10-31
 > | [[State Educational Sovereignty]] | 概念 | 交叉领域研究中历史与社会学维度所考察的民族国家教育主权制度容器。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 安维勒与米特活跃的学术平台，长期见证德国模式与英国模式在建制理念上的交锋。 |
 > | [[Paradigm]] | 概念 | 交叉领域论标志着欧洲比较教育从纯唯心哲学思辨走向多元跨学科的范式演进。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目关于交叉领域学科史定位与英德模式比较的核心来源[[Document\|文献]]。 |
 
 ---
 

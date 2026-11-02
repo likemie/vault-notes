@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -186,5 +186,9 @@ updated: 2026-10-30
 > | [[Council of Chief State School Officers]] | 组织机构 | 根据 NRC 梳理的问责文献确立去政治化实证起草原则的官僚联盟。 |
 > | [[Social Science as Legitimation Alibi]] | 概念 | NRC（2012）深入剖析的研究被政策体系工具化挪用的合法化借口机制。 |
 > | [[Research Utilization]] | 概念 | NRC 持续研究与实践的科学证据在公共政策与教育治理中的转化应用过程。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录 NRC 研讨会及 2008 年报告如何将实证[[Research Translation\|研究转化]]为议程工具的研究。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | 实证文献 | 援引 NRC（2012）论断，揭示瑞典学校督察局督导中学者经世致用与被政治收编的双重结构性两难。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细记录 NRC 研讨会及 2008 年报告如何将实证[[Research Translation|研究转化]]为议程工具的研究。
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 援引 NRC（2012）论断，揭示瑞典学校督察局督导中学者经世致用与被政治收编的双重结构性两难。

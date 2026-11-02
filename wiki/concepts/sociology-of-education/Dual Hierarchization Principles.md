@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -105,4 +105,8 @@ updated: 2026-10-30
 > | [[Evidence-Based Policy-Making]] | Concept | 外部等级原则用于剥夺内部原则自主性的核心话语旗帜。 |
 > | [[Governing by Numbers]] | Concept | 外部等级原则重塑知识合法性评价标准的技术载体。 |
 > | [[Pierre Bourdieu]] | Person | 场域理论、资本理论与自主性/他律性区分的思想创始人。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 将曼格兹与希尔格斯双重等级原则引入 PISA 政策效应分析的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将曼格兹与希尔格斯双重等级原则引入 PISA 政策效应分析的核心[[Document|文献]]来源。

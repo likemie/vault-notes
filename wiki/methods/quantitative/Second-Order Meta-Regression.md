@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -201,8 +201,6 @@ updated: 2026-10-30
 > | [[Robust Variance Estimation]] | 推断方法 | 统计引擎 | RVE 三明治估计量为二阶元回归各系数及 Wald 检验提供稳健[[Standard Error\|标准误]]。 |
 > | [[Multilevel Egger's Test]] | 偏倚方法 | 特殊形式 | 多水平艾格检验本质上是以抽样标准误为唯一调节[[Variable\|变量]]的单变量二阶元回归。 |
 > | [[Meta-regression]] | 基础方法 | 概念源流 | 经典一阶元回归在多水平二阶元分析领域的理论与技术延伸。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 运用二阶元回归系统检验了[[Independent Variable\|自变量]]角色、横断面设计与干预模式对[[Creativity\|创造力]]效应的调节机制。 |
-> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 论证 | 应用案例 | 采用连续变量元回归检验 AI 教育[[Sample Size Determination\|样本量]]、发表年份与纳入原始研究数量对[[Effect Size\|效应量]]的预测效应，发现仅纳入研究数量具有正向预测关系。 |
 
 ---
 
@@ -210,3 +208,9 @@ updated: 2026-10-30
 
 - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 在[[Creativity|创造力]]全领域[[Meta-meta-analysis|二阶元分析]]中，运用 [[Correlated and Hierarchical Effects Model|CHE]]-[[Robust Variance Estimation|RVE]] 框架构建二阶[[Meta-regression|元回归]]，系统检验[[Variable|变量]]角色（[[Independent Variable|自变量]] vs [[Dependent Variable|结果变量]]）、横断面研究设计与具体干预模式对[[Effect Size|效应量]][[Heterogeneity|异质性]]的解释力。
 - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] 在 AI 教育二阶[[Meta-analysis|元分析]]中，采用元回归方法检验参与者数量（系数 = .00，$p = .69$）、发表年份（系数 = .10，$p = .07$）和纳入原始研究数量三个连续变量对 FOM 效应量的预测效应；发现仅纳入研究数量具有正向预测关系，[[Sample Size Determination|样本量]]与年份不构成显著预测源。
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 运用二阶元回归系统检验了[[Independent Variable|自变量]]角色、横断面设计与干预模式对[[Creativity|创造力]]效应的调节机制。
+> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 采用连续变量元回归检验 AI 教育[[Sample Size Determination|样本量]]、发表年份与纳入原始研究数量对[[Effect Size|效应量]]的预测效应，发现仅纳入研究数量具有正向预测关系。

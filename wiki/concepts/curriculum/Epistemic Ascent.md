@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -187,5 +187,9 @@ updated: 2026-10-29
 > | [[American Federation of Teachers]] | Fact (Organization) | 组织一线骨干教师物理剪裁条文、对认识论上升在日常课堂的可行性进行严格把关的工会。 |
 > | [[Common Core State Standards]] | Fact (Policy) | 起草团队依托学科逻辑推演认识论上升以弥补高年级实证数据缺失的代表性案例。 |
 > | [[NZ Curriculum Refresh 2021-2026]] | Fact (Policy) | 因规约[[Discourse\|话语]]压制导致认识论上升概念标记缺失的批判案例。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 考证 CCSS 数学编写组在实证空白下依靠学科逻辑推演与教师审读建构认识论上升。 |
-> | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] | Argument | 批判新西兰课改中[[Regulative and Instructional Discourse\|规约性话语]]压倒教学性话语导致认识论上升落空的机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考证 CCSS 数学编写组在实证空白下依靠学科逻辑推演与教师审读建构认识论上升。
+> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 批判新西兰课改中[[Regulative and Instructional Discourse|规约性话语]]压倒教学性话语导致认识论上升落空的机制。

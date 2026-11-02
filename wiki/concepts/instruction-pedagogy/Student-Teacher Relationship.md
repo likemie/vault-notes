@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Student-Teacher Relationship
@@ -256,9 +256,4 @@ updated: 2026-10-29
 > | [[Visible Learning]] | 概念 | 将师生关系作为关键[[Independent Variable\|预测变量]]并纳入宏观[[Effect Size\|效应量]]综合的效能模型。 |
 > | [[Confucian Learning Tradition]] | 理论 | 将师生关系确立为求知维度核心独立支柱的东亚学习传统。 |
 > | [[Critical Realism]] | 理论 | 批判师生关系被[[Positivism\|实证主义]]量化降维与工具化指标改造的理论资源。 |
-> | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | 论证 | 检验师生关系测量口径与多信息源分离效应的实证研究。 |
-> | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 论证 | 跨文化揭示师生关系在儒家传统中具本体性地位的实证研究。 |
-> | [[Argument_Håkansson_2015_TT]] | 论证 | 论证结构化教学与师生互动共生共荣的[[Systematic Review\|系统综述]]。 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 论证 | 分析师生关系在可见学习模型中高回报定位的[[Document\|文献]]。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判评价[[Paradigm\|范式]]将师生关系降维为工具性自[[Variable\|变量]]的哲学论文。 |
 

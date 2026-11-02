@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -150,4 +150,8 @@ updated: 2026-10-30
 > | [[Network Governance]] | Concept | 治理形态：项目依托基金会既有精英[[Policy Network\|政策网络]]进行第二阶段的定向项目识别与资源输送。 |
 > | [[Educational Management Organisation]] | Concept | 组织载体：私营 EMO 与商业咨询中介在项目中深度介入受助学校治理。 |
 > | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 宏观制度背景：新西兰明日学校分权改革为慈善基金会介入公立学校提供了准市场缝隙。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 审计[[Document\|文献]]来源：系统解剖 MPEI 财务结构、文化不相容与风险慈善异化机制的核心研究报告。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 审计[[Document|文献]]来源：系统解剖 MPEI 财务结构、文化不相容与风险慈善异化机制的核心研究报告。

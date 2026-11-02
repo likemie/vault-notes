@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -94,4 +94,8 @@ updated: 2026-10-26
 > | [[UNICEF]] | Fact | 网络的联合发起方与全球人道危机教育现场核心合作伙伴。 |
 > | [[Policy Network]] | Concept | 网络呈现的跨政府、多边机构与民间社会的政策网络形态。 |
 > | [[Global Education Cooperation Mechanism]] | Fact | INEE 所深度参与对接的联合国全球教育治理顶层架构。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 实证揭示 INEE 在全球证据生态中高知名度与高频调阅地位的战略审查。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 实证揭示 INEE 在全球证据生态中高知名度与高频调阅地位的战略审查。

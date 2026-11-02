@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （主体意向性 / 意向性）
@@ -175,4 +175,8 @@ updated: 2026-10-29
 > | [[Recognition Theory\|承认理论]] | 规范理论依托 | [[Axel Honneth\|霍耐特]]的承认理论将承认意向性确立为主体人格自主的生命基石。 |
 > | [[Visible Learning\|可见的学习]] | 理论批判靶向 | 尼尔森等揭示可见学习通过[[Self-Efficacy\|自我效能]]等[[Variable\|变量]]偷换概念，将学生降格为技术纠错器。 |
 > | [[Neo-Taylorism\|新泰勒主义]] | 治理异化后果 | 抹杀意向性后的教育技术，被行政官僚吸纳为监控教师与[[Disciplina and Doctrina\|规训]]学生的新泰勒主义工具。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 批判提出[[Document\|文献]] | 论文结论部分的核心论点，直指[[John Hattie\|哈蒂]]缺乏对人类意向性的概念化（pp. 13–15）。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 论文结论部分的核心论点，直指[[John Hattie|哈蒂]]缺乏对人类意向性的概念化（pp. 13–15）。

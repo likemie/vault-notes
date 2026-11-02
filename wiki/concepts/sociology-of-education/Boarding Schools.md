@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -175,7 +175,9 @@ updated: 2026-10-29
 > | [[Spatial Governmentality]] | 理论 | **核心解释工具** 透视寄宿学校如何通过空间隔离、领地圈禁与作息控制实施人口[[Disciplina and Doctrina\|规训]]的空间理论。 |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | 理论 | **批判反思透镜** 揭示国家寄宿学校在宣称包容边缘儿童的同时，在文化推理系统层面实施排斥的双重机制。 |
 > | [[Chinese Learner]] | 概念 | **当代跨国主体** 在全球文凭跳板竞争中支撑英联邦私立寄宿学校财政预算的关键国际学生群体。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 深入剖析印度游牧民拉巴里部族在寄宿学校定居化进程中开展生计保险博弈的经典比较教育文献。 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] | 论证 | 全景勾勒英澳加寄宿学校历史演变及其转型为国际留学生顶尖大学文凭跳板的实证文献。 |
 
 ---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 深入剖析印度游牧民拉巴里部族在寄宿学校定居化进程中开展生计保险博弈的经典比较教育文献。
+> - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 全景勾勒英澳加寄宿学校历史演变及其转型为国际留学生顶尖大学文凭跳板的实证文献。

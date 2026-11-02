@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -79,4 +79,8 @@ updated: 2026-10-22
 > | [[Educational Brokerage Agency]] | 概念 | 中介机构面临的核心外部社会阻力与[[Epistemology\|认识论]]危机形态。 |
 > | [[Research Literacy]] | 概念 | 培养批判性研究素养是提升公众抗体、免疫反科学偏见的民主基石。 |
 > | [[Education Media Centre]] | 机构事实 | 建立快速事实核查与媒体中介，直接旨在前沿舆论场阻断证据反弹的恶性发酵。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 将证据反弹作为 2007–2022 年间国际循证运动遭遇的首要认识论挑战（p. 57）。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 将证据反弹作为 2007–2022 年间国际循证运动遭遇的首要认识论挑战（p. 57）。

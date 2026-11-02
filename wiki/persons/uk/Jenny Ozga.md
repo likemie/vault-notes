@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -121,4 +121,8 @@ updated: 2026-10-30
 > | [[Research Utilization]] | 概念 | 奥兹加提出“知识告知”与“知识构成”两分法致力于深化重构的母题。 |
 > | [[Governing at a Distance]] | 理论 | 奥兹加剖析数据化与教育软治理在欧洲空间跨国蔓延的核心依托。 |
 > | [[Swedish Schools Inspectorate]] | 事实 | 运用奥兹加理论透镜系统检验两种督导知识机制的北欧实证个案。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | 论证 | 显式以奥兹加知识分类理论为骨架解析瑞典督察局实践的核心文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 显式以奥兹加知识分类理论为骨架解析瑞典督察局实践的核心文献。

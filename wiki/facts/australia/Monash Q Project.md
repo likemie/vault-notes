@@ -72,7 +72,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -179,9 +179,6 @@ updated: 2026-10-30
 > | [[Centre for Evidence and Implementation]] | Fact (Organization) | 深度参与项目先验综述研讨与转译支持的外部专业咨询机构 |
 > | [[Mark Rickinson]] | Person | 莫[[Roy Nash\|纳什]]大学 Q 项目首席研究员与项目负责人 |
 > | [[OECD]] | Fact (Organization) | 项目联合发布成果并推动国际政策辐射的跨国合作方 |
-> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] | 关键论证 | 全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，确立高质量使用六大特征与组织使能条件 |
-> | [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] | 关键论证 | 跨领域 112 篇核心文献[[Systematic Review\|系统综述]]，建构高质量研究[[Research Utilization\|证据使用]] QURE 理论框架 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 关键论证 | 从专长社会学视阈批判 Q 项目等系统性循证模型的[[Rationalism in International Relations\|理性主义]]假定，揭示治理体制对证据使用的表演性异化 |
 
 ---
 

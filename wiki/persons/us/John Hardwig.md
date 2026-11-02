@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 （约翰·哈德威格）
@@ -125,4 +125,3 @@ updated: 2026-10-22
 > | [[Epistemic Dependence]] | 概念 | 首次系统提出并奠定现代社会[[Epistemology\|认识论]]中的认识依赖理论[[Paradigm\|范式]]。 |
 > | [[Knowledge Production]] | 概念 | 揭示现代大规模科学实验中知识生产的分布式、网络化与协作性本质。 |
 > | [[Alvin Goldman]] | 人物 | 共同构筑社会认识论基础，启发戈德曼提出专家证言评估标准。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 论证 | 作为理论起点确立人机中介依赖的社会[[Ontology\|本体论]]必然性。 |

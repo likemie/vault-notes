@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -163,6 +163,10 @@ updated: 2026-10-30
 > | [[Bologna Process]] | 政策事实 | 与 EQF 协同推进欧洲高等教育区学位架构趋同与学分互认的超国家进程。 |
 > | [[EU]] | 组织事实 | EQF 的制度发起与统筹推进主体。 |
 > | [[Comparative Education Society in Europe]] | 组织事实 | 欧洲比较教育学者追踪 EQF 跨国借用与制度趋同的重要学术平台。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 98)]] |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 论证 | 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与高阶思维能力对齐机制。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 论述后冷战时期欧洲比较教育学会如何将 EQF 与博洛尼亚进程确立为务实欧洲维度的核心经验基石。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 揭示 EQF 作为官方网络中的资格互认机制，如何配合新自由主义[[Discourse\|话语]]服务于劳动力流动与软法全景敞视治理。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与高阶思维能力对齐机制。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 论述后冷战时期欧洲比较教育学会如何将 EQF 与博洛尼亚进程确立为务实欧洲维度的核心经验基石。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 揭示 EQF 作为官方网络中的资格互认机制，如何配合新自由主义[[Discourse|话语]]服务于劳动力流动与软法全景敞视治理。

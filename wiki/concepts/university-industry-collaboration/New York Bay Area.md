@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -189,5 +189,4 @@ updated: 2026-10-29
 > | [[Tokyo Bay Area]] | Concept | 与纽约湾区形成对照的政府主导型工业与制造科技湾区。 |
 > | [[Technology Transfer]] | Concept | 纽约湾区高水平大学前沿成果流向产业界的核心转化机制。 |
 > | [[Innovation Ecosystem]] | Concept | 纽约湾区所展现的金融、政界、学界与产业界深度共演的网络系统。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 详细论述纽约湾区金融科技与产学研协同经验的专著。 |
 

@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -188,4 +188,8 @@ updated: 2026-10-29
 > | [[National Science Foundation]] | Fact (Organization) | 美国战后科研竞争性资助基石机构；其同行评审模式是造就美国大学在 ARWU 压倒性优势的根源之一。 |
 > | [[Erasmus Programme]] | Fact | 欧盟旗舰[[Student Mobility\|学生流动]]计划；其在南欧的流动流向与 ARWU 学术声誉呈现结构性脱节。 |
 > | [[Bologna Process]] | Fact | 欧洲高等教育区一体化进程；ARWU 排名揭示出对标该进程的南欧大学仍存在深层科研赤字。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析[[OECD\|经合组织]]如何通过批评 ARWU 等大学排名过度偏向科研产出而为 AHELO 教学评估确立治理合法性。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析[[OECD|经合组织]]如何通过批评 ARWU 等大学排名过度偏向科研产出而为 AHELO 教学评估确立治理合法性。

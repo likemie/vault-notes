@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -151,4 +151,8 @@ updated: 2026-10-30
 > | [[School Choice]] | 概念 | 实践领域；涉及作息与编班等学校层面的宏观组织与体制决策。 |
 > | [[Randomised Controlled Trials]] | 方法 | 试验方法；该项目展示了[[Cluster Randomized Trials\|集群随机对照试验]]在面临复杂社会互嵌时的实施瓶颈。 |
 > | [[National Pupil Database]] | 事实 | 数据基础；准实验替代方案赖以追踪学业长效收益的国家行政数据库。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源[[Document\|文献]]；将 Teensleep 确立为反思干预方案可接受度、招募可行性审查与早期试点必要性的核心案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 来源[[Document|文献]]；将 Teensleep 确立为反思干预方案可接受度、招募可行性审查与早期试点必要性的核心案例。

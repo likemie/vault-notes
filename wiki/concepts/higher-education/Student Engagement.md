@@ -65,7 +65,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （学生投入）
@@ -269,6 +269,4 @@ updated: 2026-10-29
 > | [[Cultural Capital\|文化资本]] | 社会学基础 | 家庭文化资本与阶层习性深刻塑造学生能否确立具有前瞻性的策略性投入方向。 |
 > | [[Epistemic Agency\|认识主体性]] | [[Epistemology\|认识论]]旨归 | 现代认识性投入的核心诉求是让学生在[[Man-Computer Symbiosis\|人机协同]]中牢牢掌握评价证据与主张的自主权。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知促发机制 | 面对[[Scientific Uncertainty\|认知不确定性]]与探究阻力带来的思维摩擦，是促发深层认知与认识性投入的前提。 |
-> | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 实证与理论突破 | 提出投入不仅有多寡之分更有方向性区别，实证刻画目标掌控与直觉依赖的投入机制。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代深化 | 批判唯点击率与时长的虚假投入，倡导穿透表层算法交互、激活学生的实质认识性投入。 |
 

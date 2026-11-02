@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -111,4 +111,8 @@ updated: 2026-10-26
 > | [[NORRAG]] | Fact | 受托承担 GCM 职能领域一（FA1）全球战略审查的核心研究智库。 |
 > | [[Global Partnership for Education]] | Fact | 机制核心多边出资方与区域中介伙伴。 |
 > | [[Evidence-Based Policy-Making]] | Concept | 机制职能领域一（FA1）的核心政策目标。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 针对 GCM 职能领域一（FA1）开展的全球战略审查论证。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 针对 GCM 职能领域一（FA1）开展的全球战略审查论证。

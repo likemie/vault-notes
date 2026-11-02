@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -338,5 +338,4 @@ updated: 2026-10-29
 > | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义[[Economic Fundamentalism\|经济基要主义]]。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者：揭示国际组织受制于“紧迫实用主义”而过度简化知识并自限政策空间。 |
 > | [[Global Educational Discourse]] | 概念 | [[Discourse\|话语]]载体：国际机构基于紧迫实用主义加工生成的去情境化普遍主义教育模型。 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 哲学批判：援引杜威阐明实证证据是明智探究的假设而非行动规则，批判技术统治论。 |
 

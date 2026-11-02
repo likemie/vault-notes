@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -184,4 +184,8 @@ updated: 2026-10-30
 > | [[Educational Evidence Clearinghouses]] | 概念 | 德语区首个常设清算实体，代表高校依托与混合资助模式的创新范本。 |
 > | [[Educational Brokerage Agency]] | 概念 | 实践[[Knowledge Mediation\|知识中介]]理论的典型机构实体，以教师教育者为核心乘数载体。 |
 > | [[Educational Science Communication]] | 概念 | 平台是开展实证教学证据通俗转译与专业科学传播的典型载体。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证 (论文) | 批判清算机构底层转移模型与作用假设的理论贫困，指出微观课堂实效证据依然匮乏。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 批判清算机构底层转移模型与作用假设的理论贫困，指出微观课堂实效证据依然匮乏。

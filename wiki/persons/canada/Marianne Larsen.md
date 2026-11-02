@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -110,4 +110,8 @@ updated: 2026-10-30
 > | [[Content Analysis\|内容分析法]] | 方法 | 运用于期刊方法论分布与史学研究份额量化识别的核心实证技术。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 学术知音与引路人，高度推崇拉森的研究并将其诊断确立为学科史反思基石。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 曾任会长并长期推动学会正视历史研究与全球批判议程。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威引述拉森的数据与论断，作为全章结论最核心的证据支撑。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威引述拉森的数据与论断，作为全章结论最核心的证据支撑。

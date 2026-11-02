@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -168,5 +168,9 @@ updated: 2026-10-30
 > | [[Innovation Union]] | Fact (Policy) | 同为欧洲 2020 战略旗舰，与技能议程共享协同变革理论。 |
 > | [[Europe 2020 Strategy]] | Fact (Policy) | 技能议程创设时所属的十年顶层战略规划框架。 |
 > | [[European Education Area]] | Fact (Policy) | DG EAC 主管的平行教育战略，二者在超国家治理中形成科层割裂。 |
-> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | Argument | 剖析欧盟技能议程如何通过绩效指标建构区域想象的实证研究。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 揭示技能议程与欧洲教育区跨总司科层竞争及 ESF+ 资金机制的研究。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 剖析欧盟技能议程如何通过绩效指标建构区域想象的实证研究。
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 揭示技能议程与欧洲教育区跨总司科层竞争及 ESF+ 资金机制的研究。

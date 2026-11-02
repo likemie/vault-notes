@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -150,5 +150,4 @@ updated: 2026-10-26
 > | [[Evidence Standards]] | Concept | EIF 研制的 Level 1–4 证据分级体系是英国儿童与家庭服务领域公认的准入标杆。 |
 > | [[Educational Brokerage Agency]] | Concept | EIF 展现了学术型智库如何转型为深度赋能地方公共服务体系的现代中介机构。 |
 > | [[Implementation Fidelity]] | Concept | EIF 指南手册极力强调方案在真实世界实施中的保真度与去偏差。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 将 EIF 作为通用策略类证据门户与行为科学[[Knowledge Mobilisation\|知识动员]]典范展开深度分析的核心文献。 |
 

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -126,7 +126,6 @@ updated: 2026-10-30
 > | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | Albany NanoTech 汇聚纽约州政府、联邦基金与跨国芯片企业联合出资的制度[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 为 Albany NanoTech 注入国家级战略使命与扩建资助的联邦顶层立法。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 联邦《芯片法案》下设立的国家半导体技术中心，Albany NanoTech 为其关键依托平台。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 将 Albany NanoTech 作为大学中试平台打通制造转化断层标杆案例的实证[[Document\|文献]]。 |
 
 ---
 

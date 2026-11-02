@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,4 +93,8 @@ updated: 2026-10-29
 > | [[Test-Based Accountability]] | Concept | 基于测试的强问责制常导致教师强化学生与学校问责取向，挤压教学改进取向。 |
 > | [[Learning Progression]] | Concept | 持改进评价观的教师更依赖学业进阶标准实施[[Differentiated Instruction\|差异化教学]]。 |
 > | [[John Hattie]] | Person | 在论证证据本位教学与 [[Assessment Tools for Teaching and Learning\|asTTle]] 工具应用时强调教师评价观的先决调节作用。 |
-> | [[Argument_Hattie_2005_ACER\|Hattie, 2005]] | Argument | 明确提出转变教师评价观、将评价解释聚焦于教学反思的核心论点。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hattie_2005_ACER|Hattie, 2005]] — 明确提出转变教师评价观、将评价解释聚焦于教学反思的核心论点。

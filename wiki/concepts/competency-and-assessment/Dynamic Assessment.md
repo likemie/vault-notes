@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 > [!def] Dynamic Assessment
@@ -201,4 +201,3 @@ updated: 2026-10-31
 > | [[Formative Assessment\|形成性评价]] | 概念家族 | 同属促进学习的评价，但动态评估严格依托[[Pre-test and Post-test\|前测]]—干预—后测心理学诊断流程。 |
 > | [[Feedback\|教学反馈]] | [[Construct\|构念]]混淆焦点 | 斯旺森动态评估元分析被哈蒂误用为论证反馈具有超高效应（$d=1.12$）的实证支柱。 |
 > | [[Visible Learning\|可见的学习]] | 证据审查对象 | [[John Hattie\|哈蒂]]综合中反馈高[[Effect Size\|效应量]]所依据的五项核心[[Meta-analysis\|元分析]]之一，实为动态评估而非反馈。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 考证与解构来源 | 详细引证斯旺森原初文献，揭露哈蒂将测验情境下的认知潜能辅助伪造成教学反馈的学术漏洞。 |

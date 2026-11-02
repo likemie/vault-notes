@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -138,5 +138,9 @@ updated: 2026-10-30
 > | [[Pierre Bourdieu]] | Person | 法国当代社会学大师，曾荣获 CNRS 金奖并长期在此开展学术研究。 |
 > | [[Dan Sperber]] | Person | 法国认知科学家，长期担任 CNRS 名誉研究主任。 |
 > | [[Systems of Innovation]] | Theory | 法国国家创新系统（NIS）中专职国家科研机构与[[Grandes Ecoles\|大学校]]分立的经典制度载体。 |
-> | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017]] | Argument | 论证 CNRS 展现了高等教育治理与资源分配的跨国多样性及[[Institutional Displacement\|制度替代]]路径。 |
-> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied, 2008]] | Argument | 剖析法国 CNRS 与大学校精英分立对大众大学与科研共生造成的制度瓶颈。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]] — 论证 CNRS 展现了高等教育治理与资源分配的跨国多样性及[[Institutional Displacement|制度替代]]路径。
+> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 剖析法国 CNRS 与大学校精英分立对大众大学与科研共生造成的制度瓶颈。

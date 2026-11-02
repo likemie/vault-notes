@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -197,9 +197,6 @@ updated: 2026-10-30
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 梳理第三代际学科史，高度提炼问题法的 $L + I = P$ 推导公式，阐述审慎条件预测与历史宿命论预言的本质区别。 |
 > | [[C. Arnold Anderson\|C. 阿诺德·安德森]] | 人物 | 芝加哥学派领袖，与霍姆斯就恒常普遍规律 vs 情境权变社会学法则展开学术论辩。 |
 > | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 哥大学派领袖，与霍姆斯就[[Variable\|变量]]替代与多元统计 vs 假说-演绎情境预测展开跨大西洋论辩。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统考证并评析布赖恩·霍姆斯的问题法在战后比较教育科学化运动中的理论建构、认识论争鸣及其对历史学派与实证主义的折衷综合。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释第三代际伦敦学派的 $L + I = P$ 形式化推导公式、条件预测准则及其实证政策科学反思。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对古典历史学派发起的实证围剿及其学科史影响。 |
 
 ---
 

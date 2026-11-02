@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -132,7 +132,8 @@ updated: 2026-10-22
 > | [[Gold Standard Science]] | Concept | TAMC 训练数据与输出模型必须遵循的机器可复现黄金标准。 |
 > | [[Dynamic Research Notebook]] | Concept | TAMC 生成模型与实验节点所对接的新型交互式知识发布载体。 |
 > | [[Precompetitive Research]] | Concept | TAMC 运行所依托的前竞争公私协同研发理论模式。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 TAMC 作为国家发现引擎核心载体的系统阐述。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 TAMC 作为国家发现引擎核心载体的系统阐述。

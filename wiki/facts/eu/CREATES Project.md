@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -144,4 +144,8 @@ updated: 2026-10-30
 > | [[Creative Problem Solving]] | 理论 | 指导工具包设计与复杂[[Wicked Problem\|劣构问题]]解决的认知理论支撑。 |
 > | [[Erasmus Programme]] | 政策事实 | 资助该跨国战略合作伙伴项目的欧盟[[CORE Education\|核心教育]]行动计划。 |
 > | [[EU]] | 组织事实 | 项目的立项资助与宏观政策支持主体。 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 论证 | 将 CREATES 作为欧盟利用财政资助孵化高校前沿评价与共创技术的代表性案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 将 CREATES 作为欧盟利用财政资助孵化高校前沿评价与共创技术的代表性案例。

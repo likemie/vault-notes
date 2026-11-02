@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -119,4 +119,3 @@ updated: 2026-10-22
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Walton's Argumentation Schemes]] | 理论 | 沃尔顿创立的核心论辩型式理论与批判性提问体系。 |
-> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 论证 | 将沃尔顿论辩型式与[[AIR Model of Epistemic Cognition\|AIR]][[Epistemology\|认识论]]评价框架进行系统对质的关键文献。 |

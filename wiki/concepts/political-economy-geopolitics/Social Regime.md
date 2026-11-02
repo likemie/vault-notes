@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -200,4 +200,3 @@ updated: 2026-10-29
 > | [[Strategic Compliance]] | 行动者策略 | 规则遵从者在面对第三方强制规约时采取的表面符合、实际变通的策略博弈。 |
 > | [[Performativity]] | 批判概念 | 刚性政策规约过度推行后诱发的基层虚假表演与合规仪式。 |
 > | [[Global Education Reform Movement]] | 宏观政策 | GERM 代表了跨国资本与技术官僚构建的全球量化教育政策规约。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证[[Document\|文献]] | 提供了全球政策规约在澳大利亚与新西兰落地并诱发基层策略性合规的批判实证。 |

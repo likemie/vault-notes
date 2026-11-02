@@ -57,7 +57,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -153,5 +153,9 @@ updated: 2026-10-30
 > | [[Strong Beginnings Report]] | 事实 | 授权 AITSL 将核心大纲强制嵌入国家认证程序的直接政策来源。 |
 > | [[Teacher Education Ministerial Advisory Group]] | 事实 | 巩固并扩张 AITSL 在全国 ITE 认证中主导地位的前期改革文本。 |
 > | [[Australian Education Research Organisation]] | 事实 | 与 AITSL 相互配合进行循证证据监管与大纲起草的联邦中介组织。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | 论证 | 剖析 AITSL 职权扩张、智库[[Policy Network\|理念编排]]与监视治理机制的实证文献。 |
-> | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 论证 | 记录哈蒂自述 AITSL 避免短期行政运动、深耕学区中间领导治理策略的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 剖析 AITSL 职权扩张、智库[[Policy Network|理念编排]]与监视治理机制的实证文献。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录哈蒂自述 AITSL 避免短期行政运动、深耕学区中间领导治理策略的实证[[Document|文献]]。

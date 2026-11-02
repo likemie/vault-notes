@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -191,5 +191,3 @@ updated: 2026-10-30
 > | [[Bildung]] | 概念 | 希尔克倡导的比较教育学传统深植于德语教化与实践艺术脉络。 |
 > | [[Wolfgang Mitter]] | 人物 | 评析希尔克在欧洲比较教育学制建立与文献中心创设中的奠基贡献。 |
 > | [[Val D. Rust]] | 人物 | 阐述希尔克在比较教育实践艺术源流考据及学科专业化历史中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]] |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供战后西德比较教育第一时期双核奠基人及汉堡研究所创建的系统史料。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据希尔克论古代比较探究实践艺术属性及德语学科定名争鸣。 |

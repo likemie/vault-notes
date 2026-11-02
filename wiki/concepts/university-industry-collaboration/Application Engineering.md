@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -175,4 +175,3 @@ updated: 2026-10-29
 > | [[Dual In-Line Package]] | Concept | 应用工程与制造工程[[Co-invention\|协同发明]]的兼容下游自动装配的物理封装界面。 |
 > | [[Technology Transfer]] | Concept | 应用工程所体现的上游技术供给方与下游应用方之间的非正规[[Knowledge Transfer\|知识转移]]过程。 |
 > | [[San Francisco Bay Area]] | Concept | 应用工程模式孕育并成熟的旧金山湾区/硅谷高科技[[Innovation Ecosystem\|创新生态]]。 |
-> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | Argument | 详细论述应用工程在微电子产业转型中核心支柱地位的企业史文献。 |

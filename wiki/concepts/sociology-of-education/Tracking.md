@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Tracking
@@ -371,9 +371,6 @@ updated: 2026-10-29
 > | [[Education Endowment Foundation]] | Fact | 资助能力分班 RCT 并设立“研究[[School Choice\|学校选择]]”资助序列以评估能力分组政策的循证机构。 |
 > | [[Jin Li]] | Person | 从文化心理学与固定自我观视角深度解构美中分轨差异的核心学者。 |
 > | [[Paul Morris]] | Person | 揭示英格兰执政精英在应对 PISA 时选择性遗漏分轨负面实证结论的比较教育学者。 |
-> | [[Argument_Li_2012_Cambridge\|Li (2012)]] | Argument | 剖析分轨制的天赋假设、适应逻辑、个人降级与美中跨文化差异的奠基专著。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 记录经合组织对分轨破坏公平的实证发现及英国政客“遗漏话语”的关键期刊[[Document\|文献]]。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | Argument | 记录能力分组因果试验招募失败及转向利用自然变异与准实验设计评估学校选择的实证论文。 |
 
 ---
 

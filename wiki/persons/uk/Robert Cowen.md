@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -218,5 +218,3 @@ updated: 2026-10-30
 > | [[School Effectiveness\|学校效能]] | 概念 | 考恩关于高校学术重商主义与咨询扩张的分析，揭示了大学将学校效能打包为跨国商品输出的机制。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 342–343)]] |
 > | [[Jason Beech\|杰森·比奇]] | 人物 | UCL IOE 门生与合作者，系统继承并拓展考恩关于 3T 与学术重商主义的比较转移理论。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 341–345)]] |
 > | [[Wolfgang Mitter]] | 人物 | 评析考恩在 IOE 学术传承及欧洲历史文化主义主干中的领袖地位。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供考恩在欧洲比较教育文化主义学术谱系中的关键史学评价。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 引用考恩应用比较教育本体定位、战后方法论拜物教批判及高校学术重商主义扩张机制。 |

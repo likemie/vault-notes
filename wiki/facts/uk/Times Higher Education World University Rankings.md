@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -157,6 +157,10 @@ updated: 2026-10-30
 > | [[OECD AHELO Project]] | Fact (Program) | [[OECD\|经合组织]]借批判 THE 与 ARWU 偏向科研投入而发起的高等教育学习成果跨国评价项目。 |
 > | [[Pepka Boyadjieva]] | Person | 从[[Capability Approach\|可行能力路径]]与估值社会学视角批判全球大学排名推行一刀切模式的学者。 |
 > | [[José Luis García Garrido]] | Person | 借助 ARWU 与 THE 排名位次揭示西班牙高等教育[[Academic Inbreeding\|学术近亲繁殖]]与伊拉斯谟流动脱节的比较教育学者。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析 OECD 如何以批评 THE 与 ARWU 排名过度偏重科研投入为由，确立 AHELO 治理正当性的核心论证。 |
-> | [[Argument_Boyadjieva_2022_Springer\|Boyadjieva (2022)]] | Argument | [[Systematic Review\|系统综述]]全球大学排名发展史并批判其挤压大学多元公共使命的权威论著。 |
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | Argument | 揭示南欧大学在 THE 榜单表现不彰却在[[Erasmus Programme\|伊拉斯谟计划]]中吸引海量留学生的悖论分析。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析 OECD 如何以批评 THE 与 ARWU 排名过度偏重科研投入为由，确立 AHELO 治理正当性的核心论证。
+> - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — [[Systematic Review|系统综述]]全球大学排名发展史并批判其挤压大学多元公共使命的权威论著。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 揭示南欧大学在 THE 榜单表现不彰却在[[Erasmus Programme|伊拉斯谟计划]]中吸引海量留学生的悖论分析。

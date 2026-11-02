@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -148,5 +148,9 @@ updated: 2026-10-26
 > | [[OECD]] | Fact (Organization) | 与 GPE 共同争夺有限私人慈善资本的全球规制巨头。 |
 > | [[UN Sustainable Development Goals]] | Fact (Policy) | GPE 的核心法定使命是推进落实 SDG 4 优质教育目标。 |
 > | [[PISA]] | Fact (Program) | GPE 协调受援国基础教育评估时参考的国际测评标准。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 战略审查实证确认 GPE 在全球经常调阅证据源中位列第 6，并依托 KIX 四大区域枢纽连接多边资金与本土试点。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 剖析 GPE 的区域同侪经验汲取模式、KIX 枢纽运作及其与经合组织、世界银行围绕慈善资本的利基竞争。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 战略审查实证确认 GPE 在全球经常调阅证据源中位列第 6，并依托 KIX 四大区域枢纽连接多边资金与本土试点。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析 GPE 的区域同侪经验汲取模式、KIX 枢纽运作及其与经合组织、世界银行围绕慈善资本的利基竞争。

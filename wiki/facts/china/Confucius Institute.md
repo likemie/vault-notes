@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -168,8 +168,12 @@ updated: 2026-10-30
 > | [[Internationalization of Higher Education]] | Concept | [[Confucius\|孔子]]学院是中国早期[[Outward-Oriented Internationalization\|外向型高等教育国际化]]与文化走出去的标志性实践载体。 |
 > | [[Hard Power]] | Concept | 剖析文化[[Soft Power\|软实力]]传播机制与国家硬实力支撑之间相互依存的理论透镜。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 孔子学院自 2016 年起深度嵌入一带一路沿线人文交流与语言互通布局。 |
-> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理“一带一路”沿线国家孔子学院布局规模与中非教育合作网络演进的代表性[[Document\|文献]]。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证审视柬埔寨孔子学院下设课堂网络、本土化教材编撰及文化传播向当代科技生活转型的田野文献。 |
-> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 测度南亚与中亚 13 国孔子学院与孔子课堂分布格局，揭示其集中于大都市与首都、次国家覆盖有限的实证特征。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 考察孔子学院在东南亚的 31 所机构布局，揭示其嵌入在地大学的办学模式与[[Geopolitics\|地缘政治]]争议。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 针对柬埔寨皇家科学院孔子学院师生开展[[Qualitative Interview\|质性访谈]]，揭示功利性就业驱动作为青年学习中文核心动因及其向现代发展模式认同转化的机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 梳理“一带一路”沿线国家孔子学院布局规模与中非教育合作网络演进的代表性[[Document|文献]]。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证审视柬埔寨孔子学院下设课堂网络、本土化教材编撰及文化传播向当代科技生活转型的田野文献。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 测度南亚与中亚 13 国孔子学院与孔子课堂分布格局，揭示其集中于大都市与首都、次国家覆盖有限的实证特征。
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 考察孔子学院在东南亚的 31 所机构布局，揭示其嵌入在地大学的办学模式与[[Geopolitics|地缘政治]]争议。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 针对柬埔寨皇家科学院孔子学院师生开展[[Qualitative Interview|质性访谈]]，揭示功利性就业驱动作为青年学习中文核心动因及其向现代发展模式认同转化的机制。

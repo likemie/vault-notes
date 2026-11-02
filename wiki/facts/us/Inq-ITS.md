@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -152,4 +152,8 @@ updated: 2026-10-30
 > | [[Web-based Inquiry Science Environment]] | 事实 | 与 WISE 并列为全美最受推崇的现代技术增强科学探究平台。 |
 > | [[Control of Variables Strategy]] | 概念 | 变量控制策略是 Inq-ITS 核心算法诊断与自动[[Scaffolding\|脚手架]]推送的最主要目标技能。 |
 > | [[Direct Instruction]] | 概念 | 系统在学生遇到瓶颈时适时推送即时直接讲授（Just-in-Time [[Discursive Institutionalism\|DI]]），实现协同。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述系统引用 Inq-ITS 作为 AI 技术化解探究与直接指导对立的典范。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述系统引用 Inq-ITS 作为 AI 技术化解探究与直接指导对立的典范。

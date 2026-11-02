@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -130,5 +130,9 @@ updated: 2026-10-30
 > | [[Lateral Thinking]] | 概念 | 理论创立人，提出自组织心智模型与四大操作工具体系。 |
 > | [[Creativity Training]] | 概念 | 实践领军者，创立 CoRT 全球思维课程与高阶侧向谜题演练。 |
 > | [[Cognitive Flexibility]] | 概念 | 机制先驱，阐明打破自动化思维定势、实现范畴转换的认知哲学。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 将侧向思维谜题确立为高成效思维训练（$g = 0.762$）的核心实操内容。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 理论述评重点剖析德·博诺六顶思考帽对认知加工网络的调控价值。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 将侧向思维谜题确立为高成效思维训练（$g = 0.762$）的核心实操内容。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 理论述评重点剖析德·博诺六顶思考帽对认知加工网络的调控价值。

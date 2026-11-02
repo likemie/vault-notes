@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -160,8 +160,6 @@ updated: 2026-10-30
 > | [[Rich and Thick Description\|厚描述]] | 输出规范 | 深描是田野工作呈现本土文化意义与抵御抽象化还原的基本文本[[Paradigm\|范式]]。 |
 > | [[Comparative Case Study\|比较案例研究]] | 组合方法 | 多地点田野调查为比较[[Case Study\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 倡导运用跨国微观田野研究透视全球化宏观政策在地方遭遇的变通与抵制。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 剖析跨国比较田野调查中研究者与研究对象的权力关系伦理、女性主义田野困境与[[Going Native\|本土化]]张力。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将田野调查置于第四阶段多元转向，评述课堂回归与[[Historical Amnesia\|历史健忘症]]的伴生。 |
 
 ---
 

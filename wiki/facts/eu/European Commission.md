@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -194,7 +194,11 @@ updated: 2026-10-30
 > | [[Eurydice]] | 事实 | 与欧委会[[Knowledge Co-production\|合作生产]]教育信息与政策比较数据库的欧洲网络。 |
 > | [[European Chips Act]] | 事实 | 欧委会主导推进的半导体战略自主产业法案。 |
 > | [[Orchestrator State]] | 概念 | 描述欧委会在高科技产业政策中撮合与审批补贴的协调型角色。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 剖析欧委会如何通过全景敞视软治理与真理政制重构欧洲教育空间的代表性[[Document\|文献]]。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧委会与经合组织制度共生、依托指标采购制作欧洲教育空间的实证文献。 |
-> | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 论证 | 考察欧委会在芯片政策中协调型角色与国家援助审批的实证文献。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | 论证 | 剖析欧委会在欧洲教育区战略中面临的跨总司分割、成员国阻力及开放协调法[[Path Dependence\|路径依赖]]的文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧委会如何通过全景敞视软治理与真理政制重构欧洲教育空间的代表性[[Document|文献]]。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧委会与经合组织制度共生、依托指标采购制作欧洲教育空间的实证文献。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察欧委会在芯片政策中协调型角色与国家援助审批的实证文献。
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 剖析欧委会在欧洲教育区战略中面临的跨总司分割、成员国阻力及开放协调法[[Path Dependence|路径依赖]]的文献。

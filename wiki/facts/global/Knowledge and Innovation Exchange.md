@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -161,5 +161,9 @@ updated: 2026-10-26
 > | [[Policy Brokerage]] | Concept | KIX 是数字化时代国际组织实施区域化政策中介的标杆工具。 |
 > | [[Transfer Space]] | Concept | KIX 区域枢纽构成了典型的政策借鉴与本土转译空间。 |
 > | [[Building Evidence in Education]] | Fact (Organization) | 另一大型捐助国证据机制，与 GPE 共同竞逐全球南方政策[[Discourse\|话语]]权。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 教科文组织战略审查分析 KIX 四大区域枢纽打通跨国资金与本土试点通道的实效。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 实证分析 KIX 作为区域中介平台在多边机构争夺南方政策买方市场中的地缘博弈。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 教科文组织战略审查分析 KIX 四大区域枢纽打通跨国资金与本土试点通道的实效。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 实证分析 KIX 作为区域中介平台在多边机构争夺南方政策买方市场中的地缘博弈。

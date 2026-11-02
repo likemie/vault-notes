@@ -120,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -289,7 +289,6 @@ updated: 2026-10-31
 > | [[Baseline Standardized Mean Difference]] | 质控指标 | 测度干预组与对照组基线失衡程度的标准量，作为 WWC 裁定 QED 是否达标的核心门槛。 |
 > | [[Tracking]] | 核心应用 | 因学校抵制随机分配导致 RCT 招募失败的典型学校内生组织政策，转由 QED 实施因果评估。 |
 > | [[Incommensurability]] | 方法学挑战 | 组间准实验与组内前[[Pre-test and Post-test\|后测]]设计在总体参数上的不可[[Commensuration\|通约]]性。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 审计证据：审计揭示二阶证据库中组间准实验、组内前后测与[[Correlational Research\|相关性研究]]违规混用（17% 混杂组间与组内）导致的效度崩溃。 |
 
 ---
 

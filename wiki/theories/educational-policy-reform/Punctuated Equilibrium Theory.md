@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -212,8 +212,4 @@ updated: 2026-10-30
 > | [[Common Core State Standards]] | Fact (Policy) | 间断均衡理论在当代教育研究中最为经典的实证案例之一，展现各州标准垄断的破局过程。 |
 > | [[Race to the Top]] | Fact (Program) | 政策倡导者开展场所转换与动员外生财政杠杆、将采纳进程急剧压缩为间断突变的核心国家工程。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 方案制定阶段行使把关权、影响政策垄断重塑的重要专业利益共同体。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心文献。 |
-> | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] | Argument | 提出过程与结果二元变迁类型学并深刻反思断裂平衡论局限的经典导论文献。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 探讨使命导向创新政策如何打破传统新古典垄断并重塑国家能力的代表性文献。 |
-> | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度层叠概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |
 

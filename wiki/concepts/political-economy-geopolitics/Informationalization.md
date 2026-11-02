@@ -54,7 +54,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -190,8 +190,6 @@ updated: 2026-10-30
 > | [[Network Governance]] | Concept | 信息化驱动教育治理从自上而下的行政直线指令转向公私混合的多中心网络治理。 |
 > | [[Manaiakalani Education Trust]] | Fact | 新西兰基础教育信息化的标杆案例，体现了[[Venture Philanthropy\|风险慈善]]、科技赞助与家庭成本转嫁。 |
 > | [[Assessment Tools for Teaching and Learning]] | Instrument | 新西兰国家教育信息化测评的核心工具（e-asTTle），后卷入商业化招标争议。 |
-> | [[Argument_Chan_2015_Intersect\|Chan (2015)]] | 论证 | 剖析苏联在工业化鼎盛期错失信息化革命的历史实证与制度机制。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 论证 | 揭示教育信息化如何推动新西兰公立教育外生私有化与成本向下转嫁的权威报告。 |
 
 ---
 

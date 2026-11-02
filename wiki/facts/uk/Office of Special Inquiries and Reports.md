@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -135,5 +135,9 @@ updated: 2026-10-30
 > | [[Policy Borrowing\|政策借用]] | 概念 | 告别业余走马观花式的机械移植，奠定基于社会文化[[Rich and Thick Description\|深描]]的科学政策借鉴规范。 |
 > | [[Isaac Kandel\|艾萨克·坎德尔]] | 人物 | 继承萨德勒在 OSIR 的研究遗产，将历史文化[[Analytic Framework\|分析框架]]在跨大西洋学术界发扬光大。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 阐明 OSIR 以德国为核心参照系、作为 19 世纪督学视察与 20 世纪大学教席建制化枢纽的学科史地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88, 89–90)]] |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 梳理萨德勒创设 OSIR 并推动比较教育率先在英国大学扎根生长的历史贡献。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 思想史考察 OSIR 的智库职能设计与萨德勒在维多利亚晚期的学术独立性抗争。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理萨德勒创设 OSIR 并推动比较教育率先在英国大学扎根生长的历史贡献。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史考察 OSIR 的智库职能设计与萨德勒在维多利亚晚期的学术独立性抗争。

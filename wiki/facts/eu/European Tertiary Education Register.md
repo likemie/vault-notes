@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -129,4 +129,8 @@ updated: 2026-10-30
 > | [[Epistemic Infrastructure]] | Concept | ETER 构成欧洲高等教育质量治理认识论基础设施中的基础底账与数字载体。 |
 > | [[Data Infrastructure]] | Concept | ETER 建设所体现的跨国教育数据基础设施标准化运作。 |
 > | [[European Education Area]] | Fact (Policy) | ETER 为欧盟推进 2030 欧洲教育区建设提供的微观统计基础。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 剖析 ETER 如何作为微观机构基准支撑全欧高教认识论基础设施的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 剖析 ETER 如何作为微观机构基准支撑全欧高教认识论基础设施的核心[[Document|文献]]。

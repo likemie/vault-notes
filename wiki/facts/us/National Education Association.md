@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -175,7 +175,6 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Common Core State Standards]] | 政策事实 | NEA 组织全美委员会认证教师深度介入草案审读与纠偏，为其在全美合法化采纳奠定专业民意基础。[[Argument_McDonnell_2013_AmJE\|(McDonnell & Weatherford, 2013, pp. 15, 20)]] |
 > | [[Professional Judgment]] | 概念 | 在实证科研空白下，NEA 认证教师依托专业审慎判断为国家课程标准提供课堂可行性保障。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入考证 NEA 在 CCSS 方案制定阶段作为[[Gatekeepers\|政策把关人]]与专业经验补位者的核心因果机制。 |
 > | [[21st Century Skills and Competencies Discourse]] | Concept | NEA 的《教育者 4C 指南》是 21 世纪核心技能[[Discourse\|话语]]的机构源头之一。 |
 > | [[Critical Thinking]] | Concept | 4C 技能之首，NEA 强调其在现代民主社会中的关键课堂培养价值。 |
 > | [[Creativity]] | Concept | 4C 之一，NEA 倡导将其深度融入中小学跨学科探究。 |
@@ -184,7 +183,6 @@ updated: 2026-10-30
 > | [[OECD]] | Fact (Organization) | 2011 年起与 NEA、美国教育部共同创办并主办 [[International Summits on the Teaching Profession\|ISTP]] 峰会的国际组织。 |
 > | [[Centre for Educational Research and Innovation]] | Fact (Organization) | 为 ISTP 峰会提供循证背景报告与研究支持的智库平台。 |
 > | [[Democratising Evidence]] | Concept | NEA 倡导的教师主体赋权与数据共同所有权的核心理念映射。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 剖析全美教师工会在 NCLB 基于测验的问责制下的策略谨慎与教育公平话语困境。（p. 260） |
 
 ---
 

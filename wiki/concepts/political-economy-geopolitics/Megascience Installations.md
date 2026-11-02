@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -190,8 +190,6 @@ updated: 2026-10-29
 > | [[Office of Science and Technology Policy]] | Fact (Organization) | 白宫科技政策中枢，推动重构大科学用户设施准入标准与深科技中试赋能战略。 |
 > | [[CERN]] | Fact (Organization) | 全球多国联合出资、共建共享超大型强子对撞机的多边治理旗舰典范。 |
 > | [[National Research and Resource Facility for Submicron Structures]] | Fact (Organization) | 展现开放共享机台与跨界工程咨询的重资产平台型用户设施典范。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC, 2024]] | Argument | 战略报告，确立统筹联邦大科学用户设施与微纳制造基础设施网络为重大战略任务。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios, 2026]] | Argument | 白宫战略报告，系统提出大科学设施向产业界开放与中试赋能战略。 |
 
 ---
 

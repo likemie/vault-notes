@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -144,7 +144,8 @@ updated: 2026-10-26
 > | [[Heilmeier Catechism]] | Instrument | ARPA-E 用于项目立项与里程碑考核的核心工具。 |
 > | [[Valley of Death]] | Concept | ARPA-E 专门针对和跨越的技术产业化断层。 |
 > | [[Regulatory Sandbox]] | Concept | 支撑 ARPA-E 先进能源与核能原型快速测试的制度工具。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 ARPA-E 使命导向攻关成效的系统总结。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 ARPA-E 使命导向攻关成效的系统总结。

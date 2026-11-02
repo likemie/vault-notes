@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -159,4 +159,8 @@ updated: 2026-10-29
 > | [[Institutional Isomorphism]] | Theory | 解释主权国家在全球考试文化压力下如何采取雷同的政策结构。 |
 > | [[PISA Effect]] | Concept | 全球考试文化在现实政治系统中的具体政策衍生与规训后果。 |
 > | [[Governing by Numbers]] | Concept | 全球考试文化赖以建立跨国权威的核心技术手段。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 系统评述全球考试文化对 PISA 政策效应塑造的[[Literature Review\|文献综述]]报告。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 系统评述全球考试文化对 PISA 政策效应塑造的[[Literature Review|文献综述]]报告。

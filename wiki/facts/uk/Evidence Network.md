@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -166,6 +166,10 @@ updated: 2026-10-30
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证教育旗舰机构，依托[[Research Schools Network\|研究学校网络]]建立一线证据实践网络。 |
 > | [[UK Centre for Evidence-based Policy]] | Fact (Organization) | 证据网络设立初期的依托母体与跨学科研究中心。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 与证据网络同属英国循证政策与实践运动早期的核心学术支撑机构。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] | Argument | 记录英国 ESRC 资助建立证据网络与跨部门知识动员先驱实验的教育研究经典。 |
-> | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | Argument | 剖析证据网络作为关系型中介机制在克服阻力、培育信任与应对政治剪裁中的实际效能。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 战略审查强调政府行政部门吸纳民间证据网络的重要性，并以非洲证据网络等作为典型案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011)]] — 记录英国 ESRC 资助建立证据网络与跨部门知识动员先驱实验的教育研究经典。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 剖析证据网络作为关系型中介机制在克服阻力、培育信任与应对政治剪裁中的实际效能。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 战略审查强调政府行政部门吸纳民间证据网络的重要性，并以非洲证据网络等作为典型案例。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -154,4 +154,8 @@ updated: 2026-10-29
 > | [[PISA]] | Fact (Program) | 沦为水平下降模板最常借用的跨国排列表与宏观危机修辞依据。 |
 > | [[OECD]] | Fact (Organization) | 其制作的极简排列表与价值倡导报告为媒体套用水平下降模板提供了便利燃料。 |
 > | [[Paul Morris]] | Person | 系统揭示英格兰媒体如何利用水平下降模板扭曲跨国教育评估的核心比较教育学者。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 深入解构水平下降模板在 PISA 2012 报道中如何运作的关键实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 深入解构水平下降模板在 PISA 2012 报道中如何运作的关键实证[[Document|文献]]。

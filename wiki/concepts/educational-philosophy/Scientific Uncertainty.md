@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -248,5 +248,3 @@ updated: 2026-10-30
 > | [[Epistemic Friction\|认知摩擦]] | 认知机制 | 面对不确定性引发的探究挣扎构成了促发反思监控与深层思维的必要摩擦力。 |
 > | [[Scientific Literacy\|科学素养]] | 育人目标 | 能够理解、衡量并接纳科学证据的不确定性，是现代批判性公民素养的关键分水岭。 |
 > | [[Confidence Interval\|置信区间]] | 方法量化 | 统计学通过置信区间量化抽样不确定性，使科学推论摆脱非黑即白的绝对断言。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] | 传播治理 | 实证确立透明披露不确定性对公众信任的正向增益，推动科学传播告别单向灌输。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代重构 | 揭示大模型抹平不确定性导致的探究早闭危机，倡导界面显性化表征不确定性与备选解释。 |

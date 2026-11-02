@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -118,4 +118,8 @@ updated: 2026-10-30
 > | [[Ofsted]] | Fact (Organization) | 英格兰自上而下高利害督导机构，与 GTCS 同行治理、低利害专业更新形成鲜明对照。 |
 > | [[Contributory Expertise]] | Concept | GTCS 治理机制所捍卫与培育的一线教师具身实践手艺专长。 |
 > | [[Knowledge Co-production]] | Concept | GTCS 推动大学与中小学在实践者探究中建立平等协作的知识共创模式。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示 GTCS 实践者探究制度如何弥合专长断裂并阻断[[Performativity\|表演性]]依从的文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kelly_2025_ROE|Kelly et al., 2025]] — 跨国实证揭示 GTCS 实践者探究制度如何弥合专长断裂并阻断[[Performativity|表演性]]依从的文献。

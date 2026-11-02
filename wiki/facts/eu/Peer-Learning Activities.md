@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -141,4 +141,8 @@ updated: 2026-10-30
 > | [[European Education Space]] | Concept | 同行学习活动致力于在实践层面加以编织的超国家[[Discursive Field\|话语空间]]。 |
 > | [[Individualised Instruction]] | Concept | 成员国专家赴芬兰考察中重点探讨的典型教学经验。 |
 > | [[Sotiria Grek]] | Person | 访谈欧盟官员并揭示同行学习活动方法论缺陷与表象模仿局限的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析同行学习活动中芬兰经验跨国转移脱嵌悖论的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析同行学习活动中芬兰经验跨国转移脱嵌悖论的实证[[Document|文献]]。

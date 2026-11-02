@@ -101,7 +101,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -268,8 +268,6 @@ updated: 2026-10-30
 > | [[Effect Size Conversion]] | 关联方法 | 效应量换算试图将相关系数转换为均值差 $d$，但存在极值爆炸与因果混淆风险。 |
 > | [[Pierre-Jérôme Bergeron]] | 人物 | 统计学者，揭示 $r \to d$ 换算数学爆炸及将相关研究伪装为干预因果的伪科学本质。 |
 > | [[John Hattie]] | 人物 | 在[[Meta-meta-analysis\|二阶元分析]]中大量将横截面相关研究换算为干预[[Effect Size\|效应量]]并统一排榜。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 审计证据 | 揭示二阶宏观综合中 27% 违规混杂观察相关与实验因果对教学改进造成的误导。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 方法学批判 | 系统揭示 $r=0.196$ 虚增为 $d=0.40$ 机制，以创造力与自报成绩为例批判因果混淆。 |
 
 ---
 

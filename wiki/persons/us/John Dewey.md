@@ -102,7 +102,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -235,6 +235,7 @@ updated: 2026-10-30
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的历史奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 记录 1970 年代丹麦教育学界重读杜威以批判威权注入式教学、推动跨学科与问题导向实验校改革的制度化轨迹。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — [[John Hattie|哈蒂]]引述杜威为自身[[Meta-analysis|元分析]]辩护，强调实证研究旨在为明智探究提供假设。
 
 ---
 
@@ -290,6 +291,3 @@ updated: 2026-10-30
 > | [[Engineering Mindset]] | 概念 | 实用主义精神（《实用主义美国》）作为现代工程思维与狐狸型经验[[Epistemology\|认识论]]的哲学奠基。 |
 > | [[Transfer Translation Transformation]] | 理论 | 作为分析杜威思想在华与跨国传播中拆解与重构的核心理论框架。 |
 > | [[New Education Movement]] | 政策 | 1919–1921年访华讲演直接推动民国新教育运动与1922年新学制改革。 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 引用杜威论断批判《[[Visible Learning\|可见的学习]]》证据被政客异化为行政问责与绩效考核教条。 |
-> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 论证 | [[John Hattie\|哈蒂]]引述杜威为自身[[Meta-analysis\|元分析]]辩护，强调实证研究旨在为明智探究提供假设。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 借助杜威经验（承受/想象力）与判断力哲学，批判可见学习对被动性的偏见及其评价窄化。 |

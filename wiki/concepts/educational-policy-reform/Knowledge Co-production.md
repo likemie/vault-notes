@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -197,8 +197,6 @@ updated: 2026-10-29
 > | [[OECD]] | Fact (Organization) | 开展 37 个教育系统跨国政策调查、系统揭示实践者在科研周期中客体化困境的国际组织。 |
 > | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 德国汉堡依托形成性监测数据与同侪研讨支持学校开展校本探究的专业机构。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英格兰主导的[[Educational Brokerage Agency\|证据中介机构]]，其实施指南试图规范证据转化但在高利害下易异化为工具包依从。 |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]] | Argument | 基于 OECD 跨国数据系统论证知识共创基础设施地位、客体化困境与激励机制缺位的核心文献。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国质性比较揭示苏格兰[[Practitioner Enquiry\|实践者探究]]（[[General Teaching Council for Scotland\|GTCS]]）与德国同侪会商如何弥合专长断裂实现知识共创的实证文献。 |
 
 ---
 

@@ -61,7 +61,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] Knowledge Integration
@@ -154,4 +154,8 @@ updated: 2026-10-30
 > | [[Scientific Literacy]] | 概念 | 知识整合能力是现代[[Citizen Science\|公民科学]]素养与抵御伪科学的关键认知基石。 |
 > | [[Nature of Science]] | 概念 | 通过基于证据判别观点，学生在知识整合实践中直观领会科学知识的实证性与暂时性。 |
 > | [[Interaction Effect]] | 概念 | 知识整合研究系统揭示了教学时序、即时反馈与学习者认知水平的交互效应。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 里程碑综述引述知识整合大规模实证数据，有力驳斥[[Inquiry-Based Learning\|探究式教学]]缺乏实证支撑的观点。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 里程碑综述引述知识整合大规模实证数据，有力驳斥[[Inquiry-Based Learning|探究式教学]]缺乏实证支撑的观点。

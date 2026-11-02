@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -238,7 +238,6 @@ updated: 2026-10-30
 > | [[Universal Parallel Computing Research Centers]] | Fact (Program) | 英特尔与微软集中中央战略预算、主导跨界产学攻关多核并发瓶颈的破局标本。 |
 > | [[Developmental Network State]] | Theory | 解释单体企业中央实验室瓦解后，公共早期资金托底与公私协同创新网络的核心理论。 |
 > | [[Fred Block]] | Person | 基于 R&D 100 获奖数据实证论证企业独立研发向网络型国家公私协同转型的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 系统提供大企业独立研发占比自 55% 暴跌至 7% 纵向统计与早期开发公共资金份额的经典文献。 |
 
 ---
 

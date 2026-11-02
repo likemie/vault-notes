@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -89,4 +89,8 @@ updated: 2026-10-22
 > | [[Applied Sciences NYC]] | Fact | 康奈尔大学在纽约市参与布局的旗舰级高教产学研园区计划。 |
 > | [[Technology Transfer]] | Concept | 孵化器运营所依托的核心高校科研成果转化机制。 |
 > | [[Technology Transfer Office]] | Concept | 与孵化器协同开展专利检索、评估与许可谈判的大学管理机构（CTL）。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 详细阐述麦戈文孵化器在纽约湾区产学研中标杆作用的专著。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 详细阐述麦戈文孵化器在纽约湾区产学研中标杆作用的专著。

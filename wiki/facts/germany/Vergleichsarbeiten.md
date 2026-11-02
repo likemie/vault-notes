@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -204,8 +204,10 @@ VERA 在全德推广过程中，也暴露出行政负荷过载、技术系统摩
 > | [[Data Infrastructure]] | Concept | VERA 是德国跨尺度绩效数据基础设施在基层学校落地的核心物理载体。 |
 > | [[Center of Calculation]] | Concept | IQB 作为国家计算中心，通过研发与回收 VERA 测试数据实现对全国教育的远距离治理。 |
 > | [[Topological Spatialisation]] | Concept | VERA 数字化任务平台通过题目等值将国家标准直接折叠进日常教学空间。 |
-> | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 VERA 在全德 16 州扩张过程及其作为数据基础设施驱动政策拓扑重组的机制。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证考察 VERA 测试在德国四个联邦州教育部中的实际治理效力与行政过载瓶颈。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 检视德语区 VERA 与外部督导等新治理工具在单体学校面临的成效缺失，剖析数据回传驱动教学改进的线性假定失效。 |
 
+---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 VERA 在全德 16 州扩张过程及其作为数据基础设施驱动政策拓扑重组的机制。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证考察 VERA 测试在德国四个联邦州教育部中的实际治理效力与行政过载瓶颈。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 检视德语区 VERA 与外部督导等新治理工具在单体学校面临的成效缺失，剖析数据回传驱动教学改进的线性假定失效。

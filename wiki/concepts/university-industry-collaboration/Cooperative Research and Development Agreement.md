@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -209,8 +209,6 @@ updated: 2026-10-29
 > | [[EUV LLC]] | Fact | 依托 CRADA 架构攻克极紫外光刻核心工艺的里程碑联合体。 |
 > | [[Fred Block]] | Person | 提出发展型网络国家理论，批判性反思 CRADA 利润分享缺失与定价失控的经济社会学家。 |
 > | [[Michael Kratsios]] | Person | 2026 年白宫科技报告主笔，提出 30 天绿色通道 CRADA 改革以降低制度交易摩擦。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对全面推行 30 天绿色通道 CRADA 改革的权威论述。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析美国发展型网络国家演进，揭示 CRADA 立法起源与公共收益不对称困境。 |
 
 ---
 

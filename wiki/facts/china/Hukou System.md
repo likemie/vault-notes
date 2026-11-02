@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -153,6 +153,9 @@ updated: 2026-10-22
 > | [[Rural School Consolidation]] | 政策 | 户籍制度放开与农村学校撤并相重合，共同完成了将农村生源从地理上向城镇转移的机制。 |
 > | [[Cultural Capital]] | 概念 | 在积分制大城市和关系变现的小城镇中，家庭文化资本与社会资本成为越过户籍门槛的关键通货。 |
 > | [[2014 Hukou Reform]] | 政策事实 | 国务院确立统筹城乡户籍制度、分类推行积分制与全面放开小城镇落户的核心转折性文件。 |
-> | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | 论证条目 | 深入揭示后户口时代县域教育城镇化中隐性阶级资本筛选与陪读再生产机制。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 从比较教育与空间治理视角评述中国户口制度排斥 2000 万[[Migrant Children\|流动儿童]]公立教育准入并整顿打工子弟学校的治理机制。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 深入揭示后户口时代县域教育城镇化中隐性阶级资本筛选与陪读再生产机制。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 从比较教育与空间治理视角评述中国户口制度排斥 2000 万[[Migrant Children|流动儿童]]公立教育准入并整顿打工子弟学校的治理机制。

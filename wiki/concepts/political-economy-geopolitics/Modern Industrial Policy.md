@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -304,7 +304,6 @@ updated: 2026-10-29
 > | [[Inflation Reduction Act]] | 事实 | 现代产业政策聚焦清洁能源转型、技术中立抵免与工会学徒制乘数的绿色转型法案。 |
 > | [[Infrastructure Investment and Jobs Act]] | 事实 | 通过 [[Build America, Buy America Act\|BABA]] 采购要求与 MIAO 阶段性豁免机制以基建需求拉动本土制造的基础法案。 |
 > | [[National Science and Technology Council]] | 事实 | 制定《微电子研究国家战略》并统筹全美科技产业战略协调的白宫机构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫微电子研究国家战略，确立跨部门研发统筹、中试基础设施共享与自维持生态构建的现代产业科技战略行动蓝图。 |
 
 ---
 

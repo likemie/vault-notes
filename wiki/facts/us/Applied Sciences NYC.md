@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -107,4 +107,8 @@ updated: 2026-10-22
 > | [[McGovern Center for Venture Development]] | Fact | 康奈尔大学在纽约州布局的高校附属孵化器标杆载体。 |
 > | [[Technology Transfer]] | Concept | 计划所致力打通的高校成果产业化核心机制。 |
 > | [[Technology Transfer Office]] | Concept | 园区内部负责专利授权与股权谈判的专业管理部门。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 详细论述应用科学计划对纽约湾区高教与产学研重塑的专著。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 详细论述应用科学计划对纽约湾区高教与产学研重塑的专著。

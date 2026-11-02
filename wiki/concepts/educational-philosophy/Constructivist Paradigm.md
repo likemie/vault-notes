@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -313,9 +313,4 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > | [[Visible Learning]] | 概念 | 质疑[[Radical Constructivism\|激进建构主义]]教学效能并强调教师主动激活角色的实证模型。 |
 > | [[Critical Theory]] | 理论 | 批判建构主义在政策演化中可能沦为去情境化技术工具的理论资源。 |
 > | [[Social Realism]] | 理论 | 批判建构主义边缘化系统学科知识与[[Powerful Knowledge\|有力知识]]的教育社会学理论。 |
-> | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] | 论证 | 奠定建构主义学习理论向建构性对齐课程设计转化的奠基[[Document\|文献]]。 |
-> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 论证 | 阐明建构主义世界观在[[Qualitative Research\|质性研究]]设计中方法论指导作用的教材文献。 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 厘清建构主义知识形式与教学模型范畴界限的旗舰评述论文。 |
-> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 论证 | 质性考察建构主义教学在东亚应试制度下[[Selective Affinity\|选择性亲和]]与[[Recontextualization\|再脉络化]]的实证。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 哲学批判激进建构主义导致文化客体消解与教学论双重瓦解的论证。 |
 

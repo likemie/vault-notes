@@ -67,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-02
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -153,8 +153,9 @@ aliases:
 > | [[Vertical Disintegration]] | 概念 | 日本国家冠军集成模式在 1990 年代后全球产业分散化浪潮中的历史对照案例。 |
 > | [[National Research and Resource Facility for Submicron Structures]] | 事实（机构） | MITI 推进 VLSI 计划引发的地缘竞争危机，直接促使 [[National Science Foundation\|NSF]] 批准资助康奈尔建立该国家微电子用户设施。 |
 > | [[Fred Block]] | 人物 | 比较分析战后东亚科层模式与欧美网络模式、揭示 MITI 后工业局限的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | 论证 | 系统对比东亚科层发展型国家与欧美发展型网络国家治理[[Paradigm\|范式]]的核心文献。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 论证 | 莫迪剖析 MITI 联合攻关模式如何作为外部制度催化剂，倒逼美国产学界重构微电子中心与研发联合体的实证研究。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 系统对比东亚科层发展型国家与欧美发展型网络国家治理[[Paradigm|范式]]的核心文献。
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 莫迪剖析 MITI 联合攻关模式如何作为外部制度催化剂，倒逼美国产学界重构微电子中心与研发联合体的实证研究。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,5 +143,9 @@ updated: 2026-10-30
 > | [[Boundary Spanner]] | Concept | 研究型教师充当横跨一线课堂、学术研究界与公共政策系统的边界跨越者。 |
 > | [[Doctoral Grant for Teachers]] | Fact (Program) | 荷兰针对中小学教师的博士资助项目，在解决工时冲突上形成机制呼应。 |
 > | [[Public Sector PhD Scheme]] | Fact (Program) | 挪威公共部门博士联合培养计划，在公职高层次科研资质培养上形成对照。 |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 详细记述并分析该制度的来源[[Document\|文献]]。 |
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | Argument | 提供研究型教师兼任校长主持校本研发并向全系统推广的实证案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 详细记述并分析该制度的来源[[Document|文献]]。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 提供研究型教师兼任校长主持校本研发并向全系统推广的实证案例。

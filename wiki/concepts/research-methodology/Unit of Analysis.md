@@ -133,7 +133,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -450,10 +450,6 @@ updated: 2026-10-29
 > | [[Emergence\|涌现]] | 概念 | 复杂系统分析单位所展现的核心特征，整体属性无法简单还原为个体分析单位的线性相加。 |
 > | [[Beech's Model of Discourse Circulation\|比奇话语流通模型]] | 理论 | 将分析单位从封闭国家容器重构为跨国网络流通中的五大结构性话语位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
 > | [[Jason Beech\|杰森·比奇]] | 人物 | 批判方法论国家主义，整合伯恩斯坦与卡斯特理论开创跨国流动空间结构位置分析单位。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 341–344, 349–351)]] |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 提出全球教育[[Champ\|场域]]五位置模型，论证比较教育分析单位向跨国沟通网络结构位置的转向。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统阐明欧洲比较教育学科两百年演进中分析单位的历史重组，批判大规模测评带来的去情境化[[Disciplina and Doctrina\|规训]]压力。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 论证比较教育四重论述代际中分析单位的流变，揭示从孤立学校向民族国家系统转变的方法论意义。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 剖析二级元分析中误将一阶元分析作为独立分析单位造成的分析单位错位错误。 |
 
 ---
 

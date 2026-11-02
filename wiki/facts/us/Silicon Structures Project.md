@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -111,4 +111,3 @@ updated: 2026-10-30
 > | [[Center for Integrated Systems]] | Fact (Organization) | 借鉴并放大了 SSP 经验、具备更大规模与政府配套的斯坦福微电子中心。 |
 > | [[National Research and Resource Facility for Submicron Structures]] | Fact (Organization) | 同期由 [[National Science Foundation\|NSF]] 资助成立的康奈尔大学国家用户设施对照案例。 |
 > | [[Archival Research]] | Method | 莫迪（[[Argument_Mody_2017_MOH\|Mody, 2017]]）基于加州理工学院档案重构 SSP 历史的方法。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 详述 SSP 创设背景、微型联合体机制与衰亡成因的历史[[Document\|文献]]。 |

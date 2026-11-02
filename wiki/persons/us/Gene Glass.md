@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!person-profile] 人物档案
@@ -207,6 +207,3 @@ updated: 2026-10-30
 > | [[John Hattie]] | 人物 | 演变对照 | 进一步将元分析推广至政策大众层面，但在操作中走向了格拉斯所反对的均值排行。 |
 > | [[Evidence-Based Education]] | 概念 | 间接奠基 | 其开创的量化[[Research Synthesis\|证据综合]]逻辑构成了全球循证教育运动的底层方法学基础设施。 |
 > | [[Incommensurability]] | 概念 | 理论警示 | 跨指标混用（$\Delta$ 对比 $d$）与跨范畴合并破坏了效应量度量衡的通约性。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供格拉斯 1979 年班级规模原始曲线证据，揭露当代畅销书断章取义的实[[Falsification\|证伪]]造。 |
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 思想史源 | 提供格拉斯开创元分析的思想演进史料与关于水果和图表的关键学术引文。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 审查证据 | 提供德国学者对元-元分析混淆 Glass's $\Delta$ 与 Cohen's $d$ 除数规范的严密审计论据。 |

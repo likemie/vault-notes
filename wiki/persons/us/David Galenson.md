@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -125,4 +125,3 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Conceptual Innovators]] | 概念 | 形式化提出早熟演绎型创新者的理论内涵与经验达峰时序。 |
 > | [[Experimental Innovators]] | 概念 | 形式化提出归纳经验型创新者大器晚成的机制与实证规律。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02]] | 论证 | 为科学成就生命周期差异提供核心分类学解释骨架。 |

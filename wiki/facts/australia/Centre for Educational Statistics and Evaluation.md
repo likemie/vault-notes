@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -107,4 +107,8 @@ updated: 2026-10-30
 > | [[Australian Education Research Organisation]] | 组织 | [[Comparative Education Society in Europe\|CESE]] NSW 构成其创设的地方行政母本，其首任主任 Jenny Donovan 跨界出任 AERO 首任 CEO。 |
 > | [[Educational Brokerage Agency]] | 概念 | CESE 是澳大利亚州级层面最早设立的官方教育证据经纪机构。 |
 > | [[Policy Mobility]] | 概念 | 见证了循证政策技术从州级公立科层向国家级公私混合异质网络流动的轨迹。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 点明 CESE 与 AERO 的领导层继承关系，揭示证据治理向国家级网络企业化演进的历程。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 点明 CESE 与 AERO 的领导层继承关系，揭示证据治理向国家级网络企业化演进的历程。

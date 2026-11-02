@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -158,4 +158,8 @@ updated: 2026-10-29
 > | [[Meta-meta-analysis]] | 综合方法 | 核心技术 | 二阶[[Meta-analysis\|元分析]]运用 CHE 模型分解一阶元分析间与元分析内的双重方差。 |
 > | [[Robust Variance Estimation]] | 推断方法 | 黄金搭档 | CHE 提供最优加权工作矩阵，RVE 基于该矩阵提供稳健假设检验与[[Standard Error\|标准误]]。 |
 > | [[Multilevel Egger's Test]] | 偏倚方法 | 扩展应用 | 将 CHE 模型扩展用于控制聚类依赖下的小研究偏倚检验与截距校正。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 在 52 项[[Creativity\|创造力]]一阶元分析中运用 CHE 模型实现了高精度的[[Effect Size\|效应量]]建模。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在 52 项[[Creativity|创造力]]一阶元分析中运用 CHE 模型实现了高精度的[[Effect Size|效应量]]建模。

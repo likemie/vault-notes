@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -300,4 +300,3 @@ updated: 2026-10-30
 > | [[OECD]] | 事实 | 运用本体论悬置与跨国测评构建全球教育[[Space of Equivalence\|等值空间]]的超国家组织。 |
 > | [[Fazal Rizvi]] | 人物 | 批判揭示经合组织量化治理中本体论悬置机制的全球教育政策学者。 |
 > | [[Bob Lingard]] | 人物 | 共同揭示指标治理通过悬置制度脉络建构等值通约空间的教育社会学家。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析[[European Education Space\|欧洲教育空间]]在[[Subsidiarity Principle\|辅助性原则]]下运用政治主权悬置推进数据治理的权力运作。 |

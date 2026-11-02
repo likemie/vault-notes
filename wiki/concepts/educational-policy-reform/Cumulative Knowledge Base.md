@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -210,7 +210,6 @@ updated: 2026-10-29
 > | [[Systematic Review]] | 方法 | 沉淀累积性知识基石的核心研究与综合方法。 |
 > | [[Canadian Council on Learning]] | 机构事实 | 缺乏长期制度预算支持导致夭折、阻断累积性知识沉淀的反面案例。 |
 > | [[Education Media Centre]] | 机构事实 | 依托累积性知识库面向大众媒体与公众提供快速事实核查的案例。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述累积性知识库命题、二阶综述演进与“中介的中介”元治理构想。 |
 
 ---
 

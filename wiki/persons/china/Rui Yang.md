@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -89,8 +89,6 @@ updated: 2026-10-30
 > | [[Educational Soft Power]] | Concept | 开创性将软实力理论引入中国高等教育国际化研究（Yang, 2007）。 |
 > | [[Outward-Oriented Internationalization]] | Concept | 系统论证中国高教外向型拓展的四大实践形态与地缘功能。 |
 > | [[Soft Power]] | Concept | 批判西方零和对抗假设，主张引入和而不同等中华传统文明心智。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 实证解构中柬跨境高教拓展中[[Emergence\|涌现]]的新兴软实力资源与制度断裂。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 从[[Neo-Tributary Perspective\|新朝贡视角]]检验微观学术机制与中国发展经验认同的深层互动。 |
 
 ---
 

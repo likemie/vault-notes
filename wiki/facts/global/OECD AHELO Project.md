@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -168,5 +168,9 @@ updated: 2026-10-30
 > | [[Cultural Validity]] | Concept | AHELO 通用测评工具在跨文化移植与多语言翻译中缺失的核心效度属性。 |
 > | [[Test Production]] | Concept | AHELO 测验研制全过程所揭示的跨国教育治理权力前置确立机制。 |
 > | [[Champ]] | Concept | AHELO 测验研制所介入的界定高等教育合法资本与有效知识的全球示范场域。 |
-> | [[Argument_Boyadjieva_2022_Springer\|Boyadjieva (2022)]] | Argument | 从高教社会学与公平视角评析 AHELO 作为大学学习成果测量尝试的失败根源。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 比较分析 PISA 与 AHELO 测验生产早期治理机制、官僚调控与政策转移挫折的权威文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022)]] — 从高教社会学与公平视角评析 AHELO 作为大学学习成果测量尝试的失败根源。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 比较分析 PISA 与 AHELO 测验生产早期治理机制、官僚调控与政策转移挫折的权威文献。

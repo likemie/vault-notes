@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -233,6 +233,3 @@ updated: 2026-10-22
 > | [[Jerudong International School Establishment]] | 事实 | 转型契机 | 1997 年文莱建校项目成为组织打破本土行政服务局限、走向跨国教育咨询的关键转折点。 |
 > | [[Visible Learning Branding and Global Influences]] | 事实 | 品牌专营 | 机构设立 Visible Learningplus 事业部并授权麦克米兰与[[Corwin Press\|考文出版社]]全球分销。 |
 > | [[John Hattie]] | 人物 | 关键董事 | 兼任 Cognition Trust 理事会董事，并将自身研究专营权授予该机构以换取长期大额版税。 |
-> | [[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]] | 论证 | 历史来源 | 提供组织创设、三次转型危机及编织河道经营模式的详尽经验实证史料。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 论证 | 审计来源 | 提供集团双层法人治理、关联交易免税与 0.9% 慈善支出占比的实证审计证据。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 86.9 万新西兰元董事酬金明细、考文并购数据与[[Neo-Taylorism\|新泰勒主义]]知识商品化批判。 |

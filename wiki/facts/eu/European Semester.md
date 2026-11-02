@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,4 +143,8 @@ updated: 2026-10-30
 > | [[European Education Area]] | Fact (Policy) | 依托欧洲学期国别建议与 ESF+ 资金联动的面向 2030 年教育战略。 |
 > | [[EU Skills Agenda]] | Fact (Policy) | 借助欧洲学期审查与就业指导方针推进的跨国技能战略。 |
 > | [[Education and Training 2020]] | Fact (Policy) | 其量化基准指标被无缝接入欧洲学期国别审查的核心战略框架。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 剖析欧洲学期如何通过资金绑定与财政紧缩重塑超国家教育治理的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 剖析欧洲学期如何通过资金绑定与财政紧缩重塑超国家教育治理的实证[[Document|文献]]。

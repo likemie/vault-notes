@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -120,4 +120,8 @@ updated: 2026-10-30
 > | [[Epistemic Community]] | Concept | 认知治理与规范治理在各自主权国家内部生根的专家专业网络支柱。 |
 > | [[Global Eye and Tutorable Body]] | Concept | 经合组织跨国软治理向微观学生身体与日常教学纪律渗透的理论深化。 |
 > | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 本模型构成了该三层因果机制中超国家层面的核心动力学解释框架。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 系统评述并引入伍德沃德经合组织四种治理模式的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 系统评述并引入伍德沃德经合组织四种治理模式的核心[[Document|文献]]来源。

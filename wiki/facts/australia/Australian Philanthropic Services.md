@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -112,8 +112,6 @@ updated: 2026-10-22
 > | [[Network Governance]] | 概念 | APS 董事在政商慈善多中心网络中的穿梭所体现的新型治理样态。 |
 > | [[Educational Brokerage Agency]] | 概念 | APS 为 SVA 孵化各类教育中介机构提供了坚实的免税后台资本管理支持。 |
 > | [[Co-affiliation]] | 概念 | 其董事会在 Gonski 委员会、SVA、[[Grandes Ecoles\|大学校]]董会与商业银行间的交错体现了典型的共同从属性。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 依据 ACNC 与 ASIC 监管档案剖析 SVA 控股实体与董事多重从属构筑的异层[[Policy Network\|政策网络]]。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 调取 ASIC 官方档案揭露其作为 SVA 子公司及其在 [[Gonski 2.0]] 审查背后的影子节点角色。 |
 
 ---
 

@@ -84,7 +84,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -325,4 +325,3 @@ updated: 2026-10-30
 > | [[Composite Reliability]] | 评估指标 | 阶段三用于结构方程模型中精确估计潜变量[[Internal Consistency\|内部一致性]]的合成信度指标。 |
 > | [[Measurement Invariance]] | 高级方法 | 阶段三用于确立测量工具跨群体（如性别、文化）[[External Validity\|可推广性]]的等值性检验方法。 |
 > | [[Research Literacy Scale for Teachers]] | 测量工具 | 严格践行量表编制八步规范与心理测量学验证的典范测量工具。 |
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 论证[[Document\|文献]] | 提供量表编制全流程实证数据与心理测量指标报告的代表论文。 |

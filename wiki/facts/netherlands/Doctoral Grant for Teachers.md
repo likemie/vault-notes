@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,4 +143,8 @@ updated: 2026-10-30
 > | [[Boundary Spanner]] | Concept | 受资助教师成为穿梭于学校与大学之间的典型跨界边界跨越者。 |
 > | [[Public Sector PhD Scheme]] | Fact (Program) | 挪威公共部门在岗博士联合培养计划，形成跨国对照。 |
 > | [[Hungarian Researcher Teacher Scheme]] | Fact (Policy) | 匈牙利研究型教师职级制度，在职级与薪酬津贴维度形成对照。 |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | Argument | 详细记述并分析该计划的来源[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 详细记述并分析该计划的来源[[Document|文献]]。

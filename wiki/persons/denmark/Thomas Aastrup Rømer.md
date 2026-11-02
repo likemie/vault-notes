@@ -75,7 +75,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -186,4 +186,3 @@ updated: 2026-10-22
 > | [[Feedback]] | 概念 | 揭示评价框架下反馈从“教育学对话”异化为“逆向数据捕获”的集权化治理效应。 |
 > | [[Radical Constructivism]] | 理论 | 批判可见学习以激进[[Constructivist Paradigm\|建构主义]]作为唯我论学习假定，揭示其导致的教学概念双重瓦解。 |
 > | [[Philosophical Analysis in Education]] | 方法 | 示范了运用概念分析、范畴审查与思想史对勘反思宏观量化综合研究的哲学方法路径。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 罗默在[[International Education\|国际教育]]哲学界发表的代表性论证，集中呈现其对可见学习的系统哲学审查。 |

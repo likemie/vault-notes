@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 （不当基线比较）
@@ -187,7 +187,6 @@ updated: 2026-10-30
 > | [[Gender Differences in Academic Achievement]] | 实证案例 | 单向二阶基准（$d=+0.12$ 男生占优）与跨国实证现实相脱节，证实宏观粗放基准汇总的失真。 |
 > | [[Zone of Desired Effects]] | 批判靶标 | 哈蒂设立的 $d=0.40$ 期望分水岭高度依赖于单向正向基线假设，基线颠倒直接瓦解了该分界线的有效性。 |
 > | [[Pierre-Jérôme Bergeron]] | 代表学者 | 统计学者，系统发表数理对偶审计论文，揭露基线不当比较在教育[[Meta-meta-analysis\|元综合]]中的灾难性后果。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 实证与方法学来源 | 系统论证基线颠倒、鱼子酱指数隐喻及因素/文献总体混淆的方法学批判奠基之作。 |
 
 ---
 

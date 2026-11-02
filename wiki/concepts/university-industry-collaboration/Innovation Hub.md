@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-25
+updated: 2026-11-02
 ---
 
 ---
@@ -206,7 +206,6 @@ updated: 2026-10-25
 > | [[Manufacturing USA]] | Fact (Organization) | 联邦跨部门制造业公私伙伴网络，通过制造创新研究所与区域创新枢纽紧密咬合。 |
 > | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | 与区域创新枢纽深度咬合的全美跨校微电子协同攻坚网络。 |
 > | [[Michael Kratsios]] | Person | 主笔 2026 年战略报告，论证开放国家试验场与依托区域创新中心重塑制造生态。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐述国家半导体技术中心（[[National Science and Technology Council\|NSTC]]）分布式中试设施与区域创新枢纽（如微电子公地）构建的全链条转化体系。 |
 
 ---
 

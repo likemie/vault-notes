@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -199,12 +199,6 @@ updated: 2026-10-30
 > | [[University Alliance of the Silk Road]] | Fact (Organization) | 倡议框架下由西安交通大学发起创建的开放大众化跨国大学联盟。 |
 > | [[Asian Universities Alliance]] | Fact (Organization) | 倡议框架下由清华大学发起创建的精英排他型[[Regional University Alliances\|区域大学联盟]]。 |
 > | [[Comparative Case Study]] | Method | 学界用于实证比较一带一路框架下[[Multi-University\|多元大学]]联盟治理异同的[[Qualitative Research\|质性研究]]方法。 |
-> | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 采用叙事[[Case Study\|案例研究]]系统评估中国行业特色高校在“一带一路”重点能源与交通工程中开展知识外交与四方协同定向培养的实证文献。 |
-> | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 剖析[[Forum on China-Africa Cooperation\|中非合作论坛]]与“一带一路”教育行动深度交织及多边教育互联互通机制的实证文献。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 结合中柬高教个案实证揭示“一带一路”作为催化剂，在经贸投资拉动下放大现代生活、前沿科技与发展模式等软实力资源的机制。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与[[Tianxia Heuristic\|天下观]]视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
-> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性[[Document\|文献]]。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 结合区域自贸与全面战略伙伴关系大局，系统论述共建“一带一路”走廊下职业教育高水平开放的四级政策链条与产教生态协同路径（pp. 286–301）。 |
 
 ---
 

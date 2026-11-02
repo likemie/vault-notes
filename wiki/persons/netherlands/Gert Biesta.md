@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -180,5 +180,3 @@ updated: 2026-10-30
 > | [[Phronesis]] | 概念 | 将实践智慧确立为超越机械实证规则的教师[[Professional Judgment\|专业判断]]本质。 |
 > | [[Transactional Epistemology]] | 理论 | 与 Burbules 合作系统阐述[[John Dewey\|杜威]]交易认识论，构筑反思[[Scientism\|科学主义]]的哲学基石。 |
 > | [[Visible Learning]] | 概念 | 追问评价效能究竟服务于何种教育期望，其被动性哲学成为解构[[John Hattie\|哈蒂]]体系的关键思想资源。 |
-> | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] | 论证 | 比斯塔系统拆解循证教育三重缺陷并倡导价值本位教育的旗舰论证。 |
-> | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 罗默借助比斯塔关于被动性与被教导的论证，批判可见学习排斥被动的认识论偏狭。 |

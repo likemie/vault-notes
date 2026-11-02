@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -167,4 +167,8 @@ updated: 2026-10-30
 > | [[Common Core State Standards]] | Fact (Policy) | Achieve 全程提供核心技术研制与各州对标支撑的课程标准。 |
 > | [[The Education Trust]] | Fact (Organization) | 与 Achieve 早期联合发起[[American Diploma Project\|美国文凭项目]]（ADP）的倡导伙伴。 |
 > | [[National Assessment of Educational Progress]] | Fact (Assessment) | Achieve 动员以证明各州现行标准普遍失效的国家级数据基准。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 详细记录 Achieve 如何动员微观对标数据攻克各州表决关口的研究。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细记录 Achieve 如何动员微观对标数据攻克各州表决关口的研究。

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -150,4 +150,8 @@ updated: 2026-10-22
 > | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”假设背后的排斥性分类炼金术。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示跨国组织如何通过“软法”规训侵蚀民族国家主权提供认识论维度的呼应。 |
 > | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion\|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。

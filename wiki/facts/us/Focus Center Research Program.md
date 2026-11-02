@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -172,7 +172,8 @@ updated: 2026-10-30
 > | [[Research Universities]] | Concept | FCRP 计划的具体承接载体与前沿科研创新策源地。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年在国家层面全面吸收并扩展 FCRP 产学协同模式的重大法案。 |
 > | [[David C. Mowery]] | Person | 系统评估 FCRP 与半导体长周期基础科研脆弱性的科技政策学者。 |
-> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | [[Document\|文献]] | 系统呈现 FCRP 在 SRC 四计划矩阵中的定位（中远期技术选项创造）、50:50 DARPA 对等注资结构、高校自主权特征与累计 1,963 名博士培养规模的最详实[[Archival Research\|档案研究]]。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 系统呈现 FCRP 在 SRC 四计划矩阵中的定位（中远期技术选项创造）、50:50 DARPA 对等注资结构、高校自主权特征与累计 1,963 名博士培养规模的最详实[[Archival Research|档案研究]]。

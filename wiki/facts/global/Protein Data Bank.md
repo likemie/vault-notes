@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -126,7 +126,8 @@ updated: 2026-10-22
 > | [[Focused Research Organization]] | Concept | 旨在复刻 PDB 成功经验、生产新型标准化公共数据集的组织形态。 |
 > | [[Industrial Commons]] | Concept | PDB 所代表的非排他性、高度协同的科学数据与工程公地。 |
 > | [[Metascience]] | Concept | 评估公共[[Data Infrastructure\|数据基础设施]]对全学科生产率拉动效应的元科学分析。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 PDB 作为突破性 AI 科学基石的权威论述。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 PDB 作为突破性 AI 科学基石的权威论述。

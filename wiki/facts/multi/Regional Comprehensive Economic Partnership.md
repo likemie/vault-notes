@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -124,7 +124,6 @@ updated: 2026-10-30
 > | [[Belt and Road Initiative]] | Fact (Program) | 与 RCEP 形成空间叠加与政策协同的重大跨国合作倡议。 |
 > | [[Internationalization of Vocational Education]] | Concept | RCEP 驱动下成员国重塑人才培养与跨境流动格局的核心机制。 |
 > | [[Industry-Education Integration Community]] | Concept | 服务 RCEP 产业链重组需求而构建的跨区域产教合作载体。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 探讨 RCEP 落地驱动中国—东盟经贸增长与职业教育制度型开放的代表性[[Document\|文献]]。 |
 
 ---
 

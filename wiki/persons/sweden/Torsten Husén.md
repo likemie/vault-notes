@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -157,4 +157,8 @@ updated: 2026-10-30
 > | [[Social Science as Legitimation Alibi]] | 概念 | 揭示实证科学作为政策借口在面对社会现实矛盾时的公信力崩溃。 |
 > | [[Scientific Paradigm]] | 概念 | 亲历战后实证科学范式的高峰，晚年提供制度反思与哲学清算。 |
 > | [[Wolfgang Mitter]] | 人物 | 在学科史中系统定位胡森跨国实证测量对欧洲多国的辐射与边缘性独立建制。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 评述胡森实证调查对南北欧的开拓推动，以及 IEA 脱离传统教席的自主路径。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 评述胡森实证调查对南北欧的开拓推动，以及 IEA 脱离传统教席的自主路径。

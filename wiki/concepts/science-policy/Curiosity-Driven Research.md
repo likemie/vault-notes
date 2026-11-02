@@ -68,7 +68,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -225,8 +225,6 @@ updated: 2026-10-31
 > | [[Science, The Endless Frontier 1945]] | Fact | 确立联邦政府对自由探索型研究予以制度化资助的纲领性报告。 |
 > | [[National Science Foundation]] | Fact (Organization) | 承担自由探索基础研究投资的核心联邦文职机构。 |
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 将基础科学发现列为第一支柱并与[[Co-Design\|协同设计]]中试网络衔接的国家战略。 |
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 追踪自由探索从冷战免检轴心到当代技术契约下边缘化的制度变迁研究。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 阐述国家微电子战略中基础科学发现与协同设计、中试转化的全链条衔接机制。 |
 
 ---
 

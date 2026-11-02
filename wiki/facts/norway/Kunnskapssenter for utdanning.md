@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-09-13'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,5 +143,9 @@ updated: 2026-10-30
 > | [[National Institute for Educational Policy Research]] | 机构事实 | 与 NIER 同属"政府资助自治型"中介，两者分别代表亚太（东亚科层模式）与北欧（分权大学依托模式）的制度路径对比。 |
 > | [[Kenniskamer]] | 机构事实 | 与 Kenniskamer 形成制度对比——同为政府资助，但 Kunnskapssenter 凭借大学依托与法定自治跨越政治周期，而 Kenniskamer 因部委直属而随部长离任停摆。 |
 > | [[Professional Judgment]] | 概念 | 平行评审机制从制度层面为教师专业判断提供系统性尊重，是落实"捍卫教师[[Phronesis\|实践智慧]]"承诺的机构化实践。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 将其作为"多元方法论综合派"与"政府资助自治型"中介的北欧标杆，论证实践者参与平行评审对弥合[[Research-Practice Gap\|研究-实践鸿沟]]的制度价值。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证条目 | 将挪威知识中心确立为国际四大代表性清算机构之一，剖析其底层转移作用假设与目标达成度验证赤字。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 将其作为"多元方法论综合派"与"政府资助自治型"中介的北欧标杆，论证实践者参与平行评审对弥合[[Research-Practice Gap|研究-实践鸿沟]]的制度价值。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 将挪威知识中心确立为国际四大代表性清算机构之一，剖析其底层转移作用假设与目标达成度验证赤字。

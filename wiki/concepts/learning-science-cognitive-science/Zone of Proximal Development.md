@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -330,5 +330,3 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > | [[Cognitive Apprenticeship]] | 概念 | 教学[[Paradigm\|范式]] | 专家在真实问题情境中示范思维，在学徒的 ZPD 内提供脚手架与反思支架。 |
 > | [[Lev Vygotsky]] | 人物 | 理论奠基 | 苏联心理学家，社会文化历史学派创始人，提出最近发展区核心[[Construct\|构念]]。 |
 > | [[Jean Piaget]] | 人物 | 理论对照 | 发生[[Epistemology\|认识论]]创始人，其平衡化自然成熟学说与维果茨基 ZPD 形成经典学术张力。 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 论证 | 智能前沿 | 综合实证[[Meta-analysis\|元分析]]论证自适应智能体在 ZPD 内作为认知脚手架的显著促进效应。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 展现微观课堂观察与 Coach 规程联动、在教师实践 ZPD 内开展精准专业辅导的实证范式。 |

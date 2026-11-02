@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -193,4 +193,8 @@ updated: 2026-10-30
 > | [[Control of Variables Strategy]] | 概念 | 变量控制策略是探究循环“调查-规划-操纵”阶段的核心技能。 |
 > | [[Web-based Inquiry Science Environment]] | 事实 | WISE 探究平台严格按照探究循环的多阶段学习路径设计课程单元。 |
 > | [[Inq-ITS]] | 事实 | Inq-[[Intelligent Tutoring Systems\|ITS]] 的算法监测引擎基于探究循环各阶段对学生能力开展追踪。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述引述 Pedaste 探究循环确立探究教学的结构化与循证优势。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述引述 Pedaste 探究循环确立探究教学的结构化与循证优势。

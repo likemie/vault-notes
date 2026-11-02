@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -98,4 +98,8 @@ updated: 2026-10-22
 > | [[Education Endowment Foundation]] | 机构事实 | 国际同类对比；EEF 依托英国政府巨额留本基金，ERG 依托本土民间基金会联合资助，同属慈善独立型中介谱系。 |
 > | [[Australian Education Research Organisation]] | 机构事实 | 同为面向国家教育系统提供证据服务的实体，AERO 具官方独立法制保障，ERG 则根植于公民社会与大学土壤。 |
 > | [[Venture Philanthropy]] | 概念 | ERG 展现了公益慈善基金会如何通过战略性注资教育智库，介入并塑造国家级教育政策[[Dialogue in Education\|对话]]。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 以 ERG 为例论证在缺乏政府主动资助的环境下，民间社会力量与独立大学如何支撑具有公信力的长期中介组织。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 以 ERG 为例论证在缺乏政府主动资助的环境下，民间社会力量与独立大学如何支撑具有公信力的长期中介组织。

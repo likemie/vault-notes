@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -114,4 +114,8 @@ updated: 2026-10-30
 > | [[Evidence-Informed Practice]] | 概念 | Kennisrotonde 的核心使命是将学术证据转化为一线教育实践的实用依据。 |
 > | [[Cumulative Knowledge Base]] | 概念 | 作为单体基层中介，须与跨国元协作机制协同，方能共同支撑跨国累积性知识大厦。 |
 > | [[Education Endowment Foundation]] | 机构事实 | Burns & Schuller 将其与 EEF [[Research Schools Network\|研究学校网络]]并列为"基层实践导向型"中介的代表案例。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 将 Kennisrotonde 定位为实践导向型知识中介创新，论证其在基层受众触达与母语转化上的制度优势。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 将 Kennisrotonde 定位为实践导向型知识中介创新，论证其在基层受众触达与母语转化上的制度优势。

@@ -62,7 +62,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -146,5 +146,9 @@ updated: 2026-10-30
 > | [[DARPA]] | Fact (Org) | 展现卓越公共部门动态能力、依托项目经理制引领颠覆性创新的标杆机构。 |
 > | [[Rainer Kattel]] | Person | 联合[[Mariana Mazzucato\|马祖卡托]]系统建构公共部门动态能力[[Analytic Framework\|理论分析框架]]的核心学者。 |
 > | [[Mariana Mazzucato]] | Person | 正式建构公共部门动态能力理论并将其应用于全球创新治理转型的核心学者。 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基[[Document\|文献]]。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 奠定使命导向政策中公共动态能力与机构学习理论地位的核心文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 奠定公共动态能力三层分析框架与两种文化理论综合的奠基[[Document|文献]]。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定使命导向政策中公共动态能力与机构学习理论地位的核心文献。

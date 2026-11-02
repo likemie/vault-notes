@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -146,4 +146,8 @@ updated: 2026-10-30
 > | [[Academic Achievement]] | Concept | RISE 项目用于衡量终端干预成效的 GCSE 统考学业指标。 |
 > | [[Engineered Evidence]] | Concept | 戈拉德等在总结 RISE 等人际中介项目局限后提出的替代性因果转化路径。 |
 > | [[Attrition]] | Concept | 导致 RISE 项目干预连续性中断的骨干教师人员流失现象。 |
-> | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] | Argument | 戈拉德等对 RISE 试验实施瓶颈、微弱因果效应及可信度等级的系统评述。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 戈拉德等对 RISE 试验实施瓶颈、微弱因果效应及可信度等级的系统评述。

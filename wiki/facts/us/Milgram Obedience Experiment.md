@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -124,4 +124,8 @@ updated: 2026-10-30
 > | [[Institutional Review Board\|机构审查委员会]] | 概念 | 因反思该实验伦理风险而建立的现代法定审查机制。 |
 > | [[Constructive Disobedience\|建设性不服从]] | 概念 | 克服米尔格拉姆实验所揭示的盲从弱点的核心组织行动哲学。 |
 > | [[Engineering Mindset\|工程思维]] | 概念 | 依托实战物理反馈纠偏权威盲从的科技组织微观[[Paradigm\|范式]]。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|《技术共和国》第12章]] | 论证 | 深入探讨服从实验对重构科技共和国工程文化的理论[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|《技术共和国》第12章]] — 深入探讨服从实验对重构科技共和国工程文化的理论[[Document|文献]]。

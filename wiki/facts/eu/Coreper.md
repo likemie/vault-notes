@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -170,7 +170,6 @@ updated: 2026-10-29
 > | [[Historical Institutionalism]] | Theory | 解释 Coreper 协商规范、妥协文化与深层信任历时演进的理论基础。 |
 > | [[Path Dependence]] | Theory | 揭示 Coreper 齿合机制与布鲁塞尔外交惯性难以在外部环境短期复制的机制。 |
 > | [[Comparative Policy Analysis]] | Method | 比较欧盟 Coreper 与东盟 CPR 决策架构与制度效能所采用的研究方法。 |
-> | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 系统对照 Coreper 与东盟 CPR 运作模式，剖析制度拟态限度的核心文献。 |
 
 ---
 

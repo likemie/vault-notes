@@ -82,7 +82,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -279,5 +279,3 @@ updated: 2026-10-30
 > | [[Max Eckstein\|马克斯·埃克斯坦]] | 人物 | 与诺亚合著经典教材，主张将比较教育转型为量化实证社会科学。 |
 > | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 现代技术哲学家与企业家，论证软件工程作为即兴试错经验观察性科学的本质。 |
 > | [[Nicholas Zamiska\|尼古拉斯·扎米斯卡]] | 人物 | 与卡普合著论述[[Technological Republic\|技术共和国]]与即兴软件工程经验主义。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 考察比较教育从经验行政改良、方法论经验主义到批判反思的历史认识型演进。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11)]] | 论证 | 论证技术初创组织依托即兴演剧与经验观察性科学对抗[[Bureaucracy\|科层制]]腐蚀。 |

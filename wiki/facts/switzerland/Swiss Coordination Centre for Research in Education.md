@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -103,4 +103,8 @@ updated: 2026-10-22
 > | [[Canadian Council on Learning]] | 机构事实 | 反面镜鉴对照；两者同为联邦制跨辖区中介，CCL 因缺乏正式法定协议断资夭折，而 SKBF/CSRE 依靠两级联合资助持续繁荣。 |
 > | [[National Institute for Educational Policy Research]] | 机构事实 | 同属“政府资助自治型”中介，NIER 依托东亚独立行政法人体制，SKBF/CSRE 依托欧洲联邦宪制协议，形成跨国模式互映。 |
 > | [[Kunnskapssenter for utdanning]] | 机构事实 | 北欧与中欧的自治型中介对比，两者皆致力于打破中央行政集权垄断，促进教育证据在分权环境下的有效利用。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 以 SKBF/CSRE 为联邦制多方利益相关者联合资助的代表性案例，论证打破单一政治预算周期对中介组织长期存续的决定性作用。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 以 SKBF/CSRE 为联邦制多方利益相关者联合资助的代表性案例，论证打破单一政治预算周期对中介组织长期存续的决定性作用。

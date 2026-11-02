@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -160,7 +160,11 @@ updated: 2026-10-26
 > | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | Fact | 战后欧洲大学比较教育学术共同体；IEA 评测运动在其组织网络之外平行展开，二者仅通过少数桥梁学者保持沟通 |
 > | [[Navigation Metaphor in Comparative Education\|比较教育的航海隐喻]] | Concept | 战后大学学者倡导的审慎政策咨询范式，后受 IEA/PISA 实证指标问责体制冲击 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | Person | 梳理 IEA 在欧洲比较教育学科史中脱离学会网络独立演进及其对政策咨询模式深远影响的学者 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | Argument | 阐明 IEA 作为第三代际实证[[Scientism\|科学主义]]运动的核心数据载体、变量替代纲领及合法化借口批判 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | Argument | 系统分析 IEA 跨国测评项目的兴起、实证共变方法论及其长盛不衰的政治合法化根源 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 记录 IEA 作为跨国认知学业评估运动的兴起、学会外部制度特征及其对政策咨询光谱的重塑 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 记录经合组织 [[International Indicators of Education Systems\|INES]] A 网络专家因不满 IEA 数据周期漫长与国别覆盖有限而启动 PISA 自主研发的历史 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐明 IEA 作为第三代际实证[[Scientism|科学主义]]运动的核心数据载体、变量替代纲领及合法化借口批判
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统分析 IEA 跨国测评项目的兴起、实证共变方法论及其长盛不衰的政治合法化根源
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 记录 IEA 作为跨国认知学业评估运动的兴起、学会外部制度特征及其对政策咨询光谱的重塑
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 记录经合组织 [[International Indicators of Education Systems|INES]] A 网络专家因不满 IEA 数据周期漫长与国别覆盖有限而启动 PISA 自主研发的历史

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -227,7 +227,6 @@ updated: 2026-10-29
 > | [[Waterford Kamhlaba Admission to United World Colleges]] | 事件 | 多种族全龄学校以反种族隔离使命、社区服务和课程转换进入跨国书院网络。 |
 > | [[Fourth Culture]] | 概念 | 本地学生在本国就读国际学校形成的特殊文化空间。 |
 > | [[International Baccalaureate]] | 概念 | 国际学校广泛采用的跨国课程与升学资格。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 揭示跨国教育集团（GEMS、诺德安达）的国际学校网络与全球精英再生产及[[Policy Mobility\|政策流动]]。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，深入剖析国际学校作为跨国[[Policy Brokerage\|政策中介]]网络与全球精英生产空间的机制。 |
 
 ---

@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -158,7 +158,6 @@ updated: 2026-10-30
 > | [[National Science Foundation]] | Fact (Organization) | 协同资助全美大学师生通过 MOSIS 开展微电子科研与教学。 |
 > | [[1956 AT&T Consent Decree]] | Fact (Policy) | 与 MOSIS 共同构成了破除垄断、促进美国半导体专业化分工的制度力量。 |
 > | [[Fred Block]] | Person | 系统揭示 MOSIS 作为隐蔽发展型网络国家微观靶向公共平台打破研发瓶颈的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家演进视角论证 MOSIS 打破芯片物理流片瓶颈的权威[[Document\|文献]]。 |
 
 ---
 

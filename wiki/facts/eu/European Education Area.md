@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ---
@@ -171,4 +171,8 @@ updated: 2026-10-28
 > | [[Lisbon Strategy]] | Fact (Event) | 2000 年开启欧洲教育开放协调与指标监控传统的奠基性战略。 |
 > | [[European Commission]] | Fact (Organization) | 提出 EEA 倡议公报并起草年度监测报告的超国家常设执行机构。 |
 > | [[EU]] | Fact (Organization) | 欧洲教育区所属的 27 国超国家一体化政体。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 结合[[Elite Interview\|精英访谈]]与[[Documentary Analysis\|文献分析]]剖析欧洲教育区议程设定博弈的核心文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 结合[[Elite Interview|精英访谈]]与[[Documentary Analysis|文献分析]]剖析欧洲教育区议程设定博弈的核心文献。

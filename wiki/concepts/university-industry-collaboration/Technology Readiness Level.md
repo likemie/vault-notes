@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -234,10 +234,6 @@ updated: 2026-10-29
 > | [[Microelectronics Commons]] | Fact (Program) | 国防部资助的 8 大区域中试枢纽，承接大学实验室原型向 TRL 3–4 工程放大。 |
 > | [[Natcast]] | Fact (Organization) | 运营国家设计网关并打通 TRL 4–7 流片与封装验证的受托实体。 |
 > | [[National Aeronautics and Space Administration]] | Fact | 1970 年代首创并系统发展 TRL 评估体系的发起机构。 |
-> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] | Argument | 论述大学衍生企业技术就绪度与企业投资对接的实证研究。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心全要素中试平台贯通 TRL 1 至 TRL 9 创新漏斗与双向闭环的战略白皮书。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子顶层战略，系统论述全链条跨越 TRL 转化断层的跨部门中试协作机制。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 论述[[Research Universities\|研究型大学]]在国家半导体体系中依托中试平台贯通 TRL 链条的实证研究。 |
 
 
 

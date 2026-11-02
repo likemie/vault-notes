@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -131,7 +131,6 @@ updated: 2026-10-30
 > | [[Henry Barnard\|亨利·巴纳德]] | 人物 | 美国首任联邦教育专员，大量搜集欧洲各国学校法规与教学大纲，体现以校为中心的资料编纂传统。 |
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 1900 年牛津演讲正面清算以校为中心取向，确立校外事物重于校内事物的文化比较基本法则。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在 2009 年学科史反思中正式提炼并命名以校为中心取向，阐发其[[Epistemology\|认识论]]成因与历史局限。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 考据 19 世纪视察官考察特征，提出并界定以校为中心取向及其在四重论述代际中的历史坐标。 |
 
 ---
 

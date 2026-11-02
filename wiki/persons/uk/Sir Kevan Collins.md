@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -136,4 +136,8 @@ updated: 2026-10-22
 > | [[Evidence for Learning]] | 组织 | 推动 EEF 跨国资助 [[Social Ventures Australia\|SVA]] 建立澳洲证据学习中心试点样板。 |
 > | [[Policy Mobility]] | 概念 | 其个人职业生涯是循证中介模式跨大西洋与跨太平洋流动的核心人类具身节点。 |
 > | [[Co-affiliation]] | 概念 | 同时或先后在英澳两国顶级证据机构任职，构成了跨国[[Policy Network\|异质治理]]层级的典型代表。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示其出任 AERO 董事背后的跨国共同从属拓扑与矿业慈善资本纽带。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭示其出任 AERO 董事背后的跨国共同从属拓扑与矿业慈善资本纽带。

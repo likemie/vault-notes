@@ -125,7 +125,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -346,17 +346,21 @@ updated: 2026-10-30
 > | [[Global Educational Discourse]] | 概念 | 教科文组织与世行、经合组织共同参与建构的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，将教科文组织等国际机构定位于话语过度简化与中介的第二位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–352)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；系统剖析教科文组织《德洛尔报告》的地缘政治合法性反击及其与经济主义话语深层共谋的学者。 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987)]] | Argument | 记录教科文组织对营养科学课程推广的小额专项资助，辨析国际规范倡导与具体办学供给责任。 |
-> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 梳理教育多边主义演进中教科文组织主导权流失，辨析 6-3-3 学制模板在本土落地时的适切性张力。 |
-> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 剖析宗迪恩大会后教科文组织教育理念主导权易手，以及脱离信贷资金支持导致的免费建议廉价性困境。 |
 > | [[SDG 4 High-Level Steering Committee]] | 事实 (机构) | 联合国教科文组织全球教育合作机制下的最高政治领导机构。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 剖析教科文组织与世界银行从 1964 年合作协定到范式分道扬镳的历程及学习数据契约再平衡。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 针对 103 国战略审查剖析全球教育证据利用中的双重反馈断裂，确立以区域枢纽为支点的全球循证治理路线图。 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 援引教科文组织历史宏观教育普查数据，揭示拉美受限国家中高等教育膨胀与基础教育停滞的矛盾。 |
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | Argument | 评析教科文组织推出的生成式人工智能应用指南与师生能力框架，强调捍卫认识主体性。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | Argument | 援引教科文组织 2006 年全民教育监测数据，实证检验全球化外援依附与古巴自主动员的对比。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 考察教科文组织与经合组织合作开展世界教育指标（WEI）项目的历史及其对知识经济话语的跟进。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | Argument | 援引联合国教科文组织 2013/2014 年全球监测报告对全球学习危机的界定作为课堂观察手册动因。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 揭示《德洛尔报告》背后教科文组织与世行、经合组织共建全球话语的深层共谋及地缘反击。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。 |
-> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 UNESCO IIEP 2025 年战略审议与 Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987)]] — 记录教科文组织对营养科学课程推广的小额专项资助，辨析国际规范倡导与具体办学供给责任。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 梳理教育多边主义演进中教科文组织主导权流失，辨析 6-3-3 学制模板在本土落地时的适切性张力。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 剖析宗迪恩大会后教科文组织教育理念主导权易手，以及脱离信贷资金支持导致的免费建议廉价性困境。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析教科文组织与世界银行从 1964 年合作协定到范式分道扬镳的历程及学习数据契约再平衡。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 针对 103 国战略审查剖析全球教育证据利用中的双重反馈断裂，确立以区域枢纽为支点的全球循证治理路线图。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引教科文组织历史宏观教育普查数据，揭示拉美受限国家中高等教育膨胀与基础教育停滞的矛盾。
+> - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 评析教科文组织推出的生成式人工智能应用指南与师生能力框架，强调捍卫认识主体性。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引教科文组织 2006 年全民教育监测数据，实证检验全球化外援依附与古巴自主动员的对比。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 考察教科文组织与经合组织合作开展世界教育指标（WEI）项目的历史及其对知识经济话语的跟进。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 援引联合国教科文组织 2013/2014 年全球监测报告对全球学习危机的界定作为课堂观察手册动因。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示《德洛尔报告》背后教科文组织与世行、经合组织共建全球话语的深层共谋及地缘反击。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 UNESCO IIEP 2025 年战略审议与 Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -145,7 +145,6 @@ updated: 2026-10-30
 > | [[Epistemic Stances]] | 概念 | 刻画世行人道资本观、UNESCO 崇高人本主义与 OECD 混合视角之间深层[[Epistemology\|认识论]]对立的核心概念。 |
 > | [[Global Educational Discourse]] | 概念 | 比奇论证指出，三大组织表面哲学分歧实则被信息时代的单一普遍模型深层统摄。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者，引用琼斯与科尔曼深入解构德洛尔报告背后的多边机构合法性博弈。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 系统剖析三大国际组织教育使命冲突与德洛尔报告[[Geopolitics\|地缘政治]]动因的核心文献。 |
 
 ---
 

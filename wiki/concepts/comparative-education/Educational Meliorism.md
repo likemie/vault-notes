@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -405,10 +405,6 @@ updated: 2026-10-29
 > | [[Horace Mann\|霍勒斯·曼]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩转译为击溃国内保守派的论据。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
 > | [[Jason Beech]] | 人物 | 提出[[Discourse\|话语]]流通五位置模型，揭示国际机构在改良主义与紧迫[[Pragmatic Paradigm\|实用主义]]驱动下的去情境化处方机制。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\|跨文化教育]]一线实践改良进路。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与[[Ideology Critique\|意识形态批判]]、严格[[Value Neutrality\|价值中立]]的三元坐标系中定位。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 提供话语流通视阈下制度性改良主义、紧迫实用主义与全球教育五大支柱过度简化的实证论据。 |
 
 ---
 

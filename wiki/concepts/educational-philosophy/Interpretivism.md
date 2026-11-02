@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,7 +143,6 @@ updated: 2026-10-30
 > | [[Symbolic Interactionism]] | 理论根基 | 为解释主义提供微观人际交往、角色扮演与[[Thomas Theorem\|情境定义]]的社会学分析机制。 |
 > | [[Ethnography]] | 实践形态 | 解释主义最典型的经验质性设计，要求研究者在自然生活现场长期沉浸。 |
 > | [[Rich and Thick Description]] | 叙事规范 | 解释主义写作的核心质量准则，呈现兼具情境脉络、意图细节与本土意义的叙事。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证解释主义传统在比较教育学科中的起源地位，以及在 1970 年代打破[[Structural Functionalism\|结构功能主义]]一统天下的范式跃迁。 |
 
 ---
 

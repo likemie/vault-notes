@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -154,4 +154,8 @@ updated: 2026-10-30
 > | [[EPPI-Centre]] | Fact (Organization) | 英国学术型证据先驱，与丹麦中心共同构成欧洲系统综述中介的早期核心力量。 |
 > | [[Kunnskapssenter for utdanning]] | Fact (Organization) | 挪威教育知识中心，北欧地区共同探索证据清算与[[Going Native\|本土化]]中介机制的兄弟机构。 |
 > | [[Systematic Review]] | Method | 机构赖以开展证据审查的核心[[Scientific Method\|科学方法]]。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析丹麦清算中心等国际机构在底层转移模型与因果作用假设上的反思贫困及成效验证赤字。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析丹麦清算中心等国际机构在底层转移模型与因果作用假设上的反思贫困及成效验证赤字。

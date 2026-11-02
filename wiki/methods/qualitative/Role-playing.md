@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -195,11 +195,6 @@ updated: 2026-10-30
 > | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 技术企业家与哲学家，将约翰斯通即兴角色演剧理论引入前沿技术组织与工程文化。 |
 > | [[Nicholas Zamiska\|尼古拉斯·扎米斯卡]] | 人物 | 与卡普合著探讨即兴演剧与初创企业组织敏捷性。 |
 > | [[Konrad Lorenz\|康拉德·洛伦兹]] | 人物 | 诺贝尔奖动物行为学家，其社会动物啄序研究启发了即兴演剧对微观地位的洞察。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen et al. (2011, Ch. 26)]] | 论证 | 详尽阐述角色扮演作为[[Qualitative Research\|质性研究]]与教育教学方法的理论基础与操作规范。 |
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 论证 | 实证检验大模型认知角色设定对促发[[Epistemology\|认识论]]扰动与评价主义立场的有效性。 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 论证 | [[Meta-analysis\|元分析]]确立角色扮演在促进[[Critical Thinking\|批判性思维]]中的最高教学干预[[Effect Size\|效应量]]。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11)]] | 论证 | 论证前沿软件开发与初创企业如同即兴演剧，依托地位解耦与试错演进保持活力。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法审计：揭示宏观[[Meta-meta-analysis\|元-元分析]]中将角色扮演的社会发展指标（换位思考、冲动抑制）错划为认知[[Academic Achievement\|学业成就]]的[[Dependent Variable\|因变量]]漂移缺陷。 |
 
 ---
 

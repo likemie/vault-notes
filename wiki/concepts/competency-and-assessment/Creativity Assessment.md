@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -351,7 +351,3 @@ updated: 2026-10-29
 > | [[Creative Achievement Questionnaire]] | 测量工具 | 终身成就量表 | 卡森跨 10 个领域终身创造性成就核查量表，测定现实卓越产出。 |
 > | [[VALUE Rubrics]] | 测量工具 | 校本评分量规 | AAC&U 创造性思维 4 级表现量规，深度嵌入专业课程[[Homework\|作业]]与形成性反馈。 |
 > | [[Mark A. Runco]] | 人物 | 测评理论先驱 | 主持创造力[[Meta-meta-analysis\|二阶元分析]]项目，深入论证效标困境与多维复合测评必要性。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | 汇总 52 项一阶[[Meta-analysis\|元分析]]确立创造力测评二阶效应基准与[[Predictive Validity\|预测效度]]不对称性。 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 论证 | 实证基石 | [[Three-Level Meta-Analysis\|三水平元分析]]证实测量类型组合对相关效应具有高度统计显著的调节作用。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 多层元分析揭示创造性思维、图形创作、词汇、言语与情绪测量的干预敏感度谱系。 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 论证 | 实证基石 | 综述 [[OECD]] 政策并详尽剖析发散测验、CAT 专家评定与校本量规的实践瓶颈。 |

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -263,7 +263,6 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > | [[Web-based Inquiry Science Environment]] | 事实 | 与 WISE 类似，均为经受过大规模实证检验的结构化探究课程典范。 |
 > | [[Cognitive Load Theory]] | 理论 | POGIL 通过集体认知与分步设问有效优化了复杂化学学习的认知负荷。 |
 > | [[Socratic Dialogue]] | 概念 | 教师在 POGIL 课堂中普遍采用[[Socrates\|苏格拉底]]式提问引导学生反思证据。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述将 POGIL 作为反驳探究缺乏结构指导的标杆证据。 |
 
 ---
 

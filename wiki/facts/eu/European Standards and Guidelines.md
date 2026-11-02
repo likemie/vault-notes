@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -146,5 +146,9 @@ updated: 2026-10-30
 > | [[Subsidiarity Principle]] | Concept | 在[[EU\|欧盟]]条约辅助性原则限制下，ESG 作为自愿采纳的元标准实现软性治理渗透。 |
 > | [[Critical Thinking]] | Concept | Standard 1.3 引导高校教学改革所重点培育与考核的[[Higher-Order Thinking Skills\|高阶思维]]能力。 |
 > | [[Creativity]] | Concept | ESG 评估框架鼓励以学生为中心的自主探索与创新创造力发展。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 深入解构 ESG 文本作为认识论基础设施物质载体与跨国通约机制的核心[[Document\|文献]]。 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | Argument | 从高阶能力评估与形成性反馈角度系统探讨 ESG 标准 1.3 的实施价值。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 深入解构 ESG 文本作为认识论基础设施物质载体与跨国通约机制的核心[[Document|文献]]。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 从高阶能力评估与形成性反馈角度系统探讨 ESG 标准 1.3 的实施价值。

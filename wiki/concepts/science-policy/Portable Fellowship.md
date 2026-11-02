@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -157,7 +157,8 @@ updated: 2026-10-29
 > | [[Golden Ticket Mechanism]] | Concept | 与可携带资助协同打破学术共识垄断与资历壁垒的前沿遴选工具。 |
 > | [[Academic Freedom]] | Concept | 可携带资助在制度上赋予青年学者的实质性选题自由与流动自由。 |
 > | [[Eroom's Law]] | Concept | 可携带资助意图通过释放青年[[Creativity\|创造力]]、打破资历瓶颈来对冲的科研生产率放缓规律。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对扩大可携带式资助、破除[[Seniority Barrier in Academia\|资历垄断]]的系统论述。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对扩大可携带式资助、破除[[Seniority Barrier in Academia|资历垄断]]的系统论述。

@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 （罗伯特·斯拉文）
@@ -197,4 +197,3 @@ updated: 2026-10-30
 > | [[Baseline Standardized Mean Difference]] | 方法 | 确立为元分析准入与协变量校正的硬性方法学门槛（$d < 0.25$）。 |
 > | [[What Works Clearinghouse]] | 事实 | WWC 审查手册与标准体系的思想先驱与技术参与者。 |
 > | [[Alan C. K. Cheung]] | 人物 | 跨越数十年的核心学术合作者，共同推进教育技术[[Meta-analysis\|元分析]]与华语传播。 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 论证 | 其方法学筛查标准在 2025 年生成式 AI 元分析中得以严格贯彻的代表作。 |

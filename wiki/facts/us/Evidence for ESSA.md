@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -183,4 +183,8 @@ updated: 2026-10-30
 > | [[What Works Clearinghouse]] | 机构事实 | 联邦官方清算机构，与 Evidence for ESSA 构成互补共生关系。 |
 > | [[Success for All]] | 干预项目 | 平台收录的代表性 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 强证据全校综合改革方案。 |
 > | [[Investing in Innovation Program]] | 项目事实 | 联邦教育创新资助计划，为分级证据框架提供资助实践检验。 |
-> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 关键论证 | 以跨库财务审计揭示 Evidence for ESSA 的年级特异性局限，为多库整合评估体系提供实证支撑。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 以跨库财务审计揭示 Evidence for ESSA 的年级特异性局限，为多库整合评估体系提供实证支撑。

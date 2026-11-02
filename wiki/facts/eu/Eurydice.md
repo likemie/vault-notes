@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -160,5 +160,9 @@ updated: 2026-10-30
 > | [[Subsidiarity Principle]] | Concept | 保障成员国教育主权、制约单一排位集权的欧盟宪制原则。 |
 > | [[Governing by Numbers]] | Concept | 揭示 Eurydice 数据与经合组织指标在欧洲治理中双重角色的理论透镜。 |
 > | [[Sotiria Grek]] | Person | [[In-depth Interview\|深度访谈]] Eurydice 核心专家并系统解析其超国家治理功能的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 Eurydice 专家与欧盟委员会决策者在治理哲学与数据采信中博弈的论证。 |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | Argument | 评述 Eurydice 欧洲证据知情政策支持机制普查及其在知识利用中作用的文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 Eurydice 专家与欧盟委员会决策者在治理哲学与数据采信中博弈的论证。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 评述 Eurydice 欧洲证据知情政策支持机制普查及其在知识利用中作用的文献。

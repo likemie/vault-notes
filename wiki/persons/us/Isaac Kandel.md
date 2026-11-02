@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -194,6 +194,7 @@ updated: 2026-10-30
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯全面评析坎德尔的历史哲学唯心主义、国家解释变量与[[Educational Meliorism|改良主义]]，同时深入剖析其实证派论敌批评与内在史学缺陷。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩引用佩雷拉对坎德尔档案发掘的现实困境，诊断比较教育史编纂学在制度支持与文献密度上的结构性贫乏。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust）等学者将坎德尔论教育折射国家深层政治文化抱负的经典命题，确立为两百年比较教育学术史演进中理解国家教育目的的核心基石。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统阐发坎德尔国家政体镜像公理，并结合[[Crane Brinton|布林顿]]比较史学为其历史假说检验的科学合法性展开有力抗辩。
 
 ---
 
@@ -271,5 +272,3 @@ updated: 2026-10-30
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 展现比较教育历史-哲学传统奠基与跨国档案挖掘困境的核心案例。 |
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 继承其历史文化整体观并将其系统化为具有严密学科规程的历史-哲学比较分析[[Paradigm\|范式]]。 |
 > | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐发坎德尔国家教育目的镜像论在学科史演进中的基石地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 135)]] |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引并确证坎德尔 1933/1955 年经典命题在两百年学科史反思中的坐标。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 系统阐发坎德尔国家政体镜像公理，并结合[[Crane Brinton\|布林顿]]比较史学为其历史假说检验的科学合法性展开有力抗辩。 |

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -216,4 +216,3 @@ updated: 2026-10-29
 > | [[Chris Brown]] | Person | 主持 RLC 实证研究，将 JPD 纳入学校循证领导力四因素结构模型的核心学者。 |
 > | [[Toby Greany]] | Person | 本文合作者，深入分析 JPD 在教学学校联盟与自我改进系统中的实践成效与工作量困境。 |
 > | [[Nancy Cartwright]] | Person | 提出干预起效依赖于底层行动理论与情境支持因素，为 JPD 提供了因果哲学依据。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | Argument | 揭示学校微观研究转化机制、确立 JPD 与课例研究防范活动陷阱的关键[[Document\|文献]]。 |

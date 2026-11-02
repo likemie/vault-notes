@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -182,8 +182,6 @@ updated: 2026-10-30
 > | [[Team Assembly Model]] | 理论 | 阐明老手招募与熟人重复如何内生驱动巨组件相变的核心理论模型。 |
 > | [[Small-World Collaboration Model]] | 理论 | 结合巨连通性与局域高聚类的团队合作生成理论。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 驱动网络中心度两极分化并加速巨组件凝聚的演化机制。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang & Barabási (2021, Unit 04)]] | 论证 | 实证剖析全学科合著网络巨连通分支的渗流机制与 80%–90% 覆盖率。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang & Barabási (2021, Unit 05)]] | 论证 | 在附录方框 A1 中通过团队组装微观动力学推导巨连通分支涌现的相变临界条件。 |
 
 ---
 

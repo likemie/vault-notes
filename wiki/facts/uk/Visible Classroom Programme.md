@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -164,5 +164,9 @@ updated: 2026-10-30
 > | --- | --- | --- |
 > | [[Education Endowment Foundation]] | Fact | 资助试点与效能试验并发布评估结果。 |
 > | [[Visible Classroom]] | Instrument | 项目使用的课堂语音转写与反馈工具。 |
-> | [[Argument_Skipp_Tanner_2015_EEF\|Skipp and Tanner (2015)]] | Argument | 第一期独立过程评估与附录材料。 |
-> | [[Argument_Sanders_2021_EEF\|Sanders et al. (2021)]] | Argument | 第二期实际样本、学业效果与实施评估。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Skipp_Tanner_2015_EEF|Skipp and Tanner (2015)]] — 第一期独立过程评估与附录材料。
+> - [[Argument_Sanders_2021_EEF|Sanders et al. (2021)]] — 第二期实际样本、学业效果与实施评估。

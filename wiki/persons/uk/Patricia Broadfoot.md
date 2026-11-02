@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -116,4 +116,8 @@ updated: 2026-10-26
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 其校外文化力量与活体有机体观构成了布罗德富特学习学评价理论的深层哲学底座。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将布罗德富特的微观转向定性为英国比较教育抵御美国机械[[Positivism\|实证主义]]的标杆。 |
 > | [[British Association for International and Comparative Education\|英国国际与比较教育学会]] | 事实 | 曾任会长并长期引领学会开展跨文化质性比较研究。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威引述布罗德富特的“学习学”命题，阐发英国比较教育对情境、文化与人文关怀的坚守。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威引述布罗德富特的“学习学”命题，阐发英国比较教育对情境、文化与人文关怀的坚守。

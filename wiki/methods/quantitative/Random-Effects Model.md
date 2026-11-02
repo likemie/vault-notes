@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -263,10 +263,6 @@ updated: 2026-10-30
 > | [[Three-Level Meta-Analysis]] | 高阶扩展 | 当研究内报告多个相关效应量时，将随机效应扩展为三水平层级模型。 |
 > | [[Meta-regression]] | 分析方法 | 在随机效应框架下纳入协变量以系统解释 $\tau^2$ 的实质来源。 |
 > | [[Robust Variance Estimation]] | 补救方法 | 在文献重叠与复杂相关依赖下提供渐近无偏的稳健[[Standard Error\|标准误]]推断。 |
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述随机效应模型在面向广义超总体推论中的方法论优越性与历史演进。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 揭示二级随机效应模型因[[Meta-analysis\|元分析]]数量过少（平均约 5.8 项）导致的双重不可行性困境。 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 方法批评 | 揭示二阶综合中对随机效应模型虚增效应量警示的选择性援引，批判研究质量审查的随意性。 |
-> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 方法辩护 | 回应 Snook et al. 批评，辩护元分析模型属性与质量控制的局部标注策略。 |
 
 ---
 

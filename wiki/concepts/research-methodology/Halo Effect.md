@@ -64,7 +64,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -189,5 +189,3 @@ updated: 2026-10-29
 > | [[Professional Judgment]] | 概念 | 实践边界 | 审慎的知情专业判断依赖多元事实权衡，必须严加防范退化为受光环效应主导的经验直觉。 |
 > | [[Hawthorne Effect]] | 概念 | 对比概念 | 霍桑效应聚焦被测受试者的心理警觉与行为变异，光环效应聚焦评价者的认知辐射偏误。 |
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具 | 确立双段独立切分、行为锚定及 80% 考核准入机制以系统抵御观察光环偏误。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 理论基础 | 奠定教育测评中光环效应、评分漂移与牛角效应的测量学机理。 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供高推论微观[[Classroom Observation\|课堂观察]]中偏误分类谱系与标准化防御体系的实证案例。 |

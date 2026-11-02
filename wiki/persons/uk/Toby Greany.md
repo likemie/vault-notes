@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -127,4 +127,8 @@ updated: 2026-10-30
 > | [[The Importance of Teaching]] | 事实 | 系统解构 2010 年白皮书确立的自我改进系统目标与横向[[Network Governance\|网络治理]]预设。 |
 > | [[Ofsted]] | 事实 | 尖锐批评现行督导框架对学校循证自改进的制度性压制，提出督导指标重构方案。 |
 > | [[Research Learning Communities]] | 事实 | 与[[Chris Brown\|克里斯·布朗]]共同主持该项目的实证检验与跨校合作网络追踪。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | 论证 | 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]] — 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心[[Document|文献]]。

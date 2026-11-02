@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -291,9 +291,6 @@ updated: 2026-10-30
 > | [[Control of Variables Strategy]] | 概念 | 计算机模拟提供了冻结无关[[Variable\|变量]]与精准操纵[[Independent Variable\|自变量]]的最优正交实验平台。 |
 > | [[Complexity Theory]] | 理论 | 计算机模拟作为研究建模工具时赖以立足的核心[[Ontology\|本体论]]与方法论基础。 |
 > | [[Agent-based Modelling]] | 方法 | 计算机模拟在社会科学与教育宏观系统研究中的代表性实现方法。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述系统汇总多项[[Meta-analysis\|元分析]]确立配备支架的模拟探究对传统教学的循证优势。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011)]] | 论证 | 权威方法论专著系统阐发计算机模拟的哲学基础、建模特征与认识论局限。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang & Barabási (2021)]] | 论证 | 科学学经典专著在附录方框 A1 中通过计算机数值模拟建构[[Team Assembly Model\|团队组装模型]]并复现合著网络相变。 |
 
 ---
 

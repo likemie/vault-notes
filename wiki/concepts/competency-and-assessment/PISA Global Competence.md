@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -121,7 +121,6 @@ updated: 2026-10-30
 > | [[Cross-cultural Validity]] | 概念 | 全球胜任力测评在跨国移植中面临的核心方法学检验挑战。 |
 > | [[Space of Equivalence]] | 概念 | 揭示将多元异质世界观压缩为统一量表排位之技术本质的[[Critical Theory\|批判理论]]。 |
 > | [[UNESCO]] | 事实 | 主导推进全球公民教育（GCED）与 [[UN Sustainable Development Goals\|SDG 4]].7 国际倡议的联合国核心机构。 |
-> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 剖析 PISA 不断扩张评估构念以维系自身跨国威权与商业帝国运转的批判[[Document\|文献]]。 |
 
 ---
 

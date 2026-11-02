@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -181,6 +181,7 @@ updated: 2026-10-30
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将朱利安 1816–1817 年方案置于两百年比较学术史连续统中，驳斥实证主义者将其孤立化为“史前孤立天才”的断裂叙事，确立其作为跨文化制度考证传统的思想源流。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯反思比较教育学的现代主义与启蒙源流，系统阐述朱利安通过比较解剖学类比与分析事实图表消除统治者主观专断、开创准实证科学与道德改良双重使命的奠基性坐标。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将朱利安等先驱的危机借用考察界定为主权国家专员垄断教育转移的古典基准，以此对照当代多元跨国网络行动者的兴起（pp. 341–344）。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。
 
 ---
 
@@ -268,9 +269,5 @@ updated: 2026-10-30
 > | [[Faculty Psychology\|官能心理学]] | 概念 | 在 1817 年《计划》[[Questionnaire\|问卷]]中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
 > | [[Policy Borrowing\|政策借用]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代[[Discourse\|话语]]传统。 |
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\|认识论]]争鸣的系统文本证据。 |
 > | [[State Educational Sovereignty\|国家教育权]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 梳理第一代启蒙准科学与行政改良代际，剖析朱利安准科学设想消除专断与道德改良的双重面向。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 将朱利安等先驱的危机借用确立为 19 世纪国家专员垄断教育转移的历史基准，反衬当代跨国网络行动者崛起。 |

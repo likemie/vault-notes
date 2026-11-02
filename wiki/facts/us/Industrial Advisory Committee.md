@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -138,8 +138,6 @@ updated: 2026-10-26
 > | [[Subcommittee on Microelectronics Leadership]] | Fact (Organization) | NSTC 下设的微电子领导力常设小组，与 IAC 形成跨部门政策协同。 |
 > | [[Workforce Development]] | Concept | IAC 专门工作小组重点规划的半导体多层次人才培养与微证书认证体系。 |
 > | [[Process Design Kit]] | Concept | IAC 积极倡导开放共享的工艺设计套件公共品。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 详尽阐述 IAC 在国家半导体技术中心战略规划与 Natcast 设立中的核心贡献。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，吸纳 IAC 关于中试基础设施、劳动力与全栈[[Hardware Security\|硬件安全]]的建议。 |
 
 ---
 

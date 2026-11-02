@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -191,8 +191,12 @@ updated: 2026-10-26
 > | [[OECD]] | Fact (Organization) | 与 IIEP 共同构成二战后推动跨国教育规划与统计规制的西方“双翼”。 |
 > | [[Comparative Education Center at Chicago 1958]] | Fact (Organization) | 芝加哥学派学术阵地，为 IIEP 输送了大量人力资本实证研究与理论支持。 |
 > | [[Global Education Governing Complex]] | Concept | IIEP 早期深度介入的跨国公共机构与外部资金混合治理网络。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 战略审查实证确认 IIEP 在全球教育决策者认知度与经常调阅频次中均位列前 5。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 梳理战后系列教育危机国际会议，论证库姆斯与 IIEP 开创普世教育危机叙事范式及世行合作决裂。 |
-> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | Argument | 从冷战地缘政治三大范式切入，拆解 IIEP 作为国家利益与大国外交战略软实力延伸的制度成因。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | Argument | 剖析 IIEP 所代表的战后国家规划理性，揭示量化实证模型沦为执政权力推卸责任的“合法化借口”。 |
-> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 IIEP 2025 年战略审议与 IIEP Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 战略审查实证确认 IIEP 在全球教育决策者认知度与经常调阅频次中均位列前 5。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 梳理战后系列教育危机国际会议，论证库姆斯与 IIEP 开创普世教育危机叙事范式及世行合作决裂。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从冷战地缘政治三大范式切入，拆解 IIEP 作为国家利益与大国外交战略软实力延伸的制度成因。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析 IIEP 所代表的战后国家规划理性，揭示量化实证模型沦为执政权力推卸责任的“合法化借口”。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 IIEP 2025 年战略审议与 IIEP Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。

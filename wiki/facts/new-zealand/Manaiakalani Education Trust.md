@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -144,7 +144,8 @@ updated: 2026-10-30
 > | [[Foundation North Māori and Pasifika Education Initiative]] | Fact | 信托在第二阶段获得该倡议的重点资助与孵化支持。 |
 > | [[Cognition Education]] | Fact | 认知教育信托资助了该信托的教师专业学习与发展项目。 |
 > | [[Network Analysis]] | Method | 政策学者运用网络分析测绘斯内登等受托人所嵌入的政商跨界治理拓扑。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 对该信托的组织架构、资金网络与成本转嫁机制进行了系统实证解构。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 对该信托的组织架构、资金网络与成本转嫁机制进行了系统实证解构。

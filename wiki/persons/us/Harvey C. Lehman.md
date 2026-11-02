@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -116,4 +116,3 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Scientific Productivity]] | 概念 | 首次跨领域实证绘制科学家全生命周期生产力与巅峰成就[[Learning Economy\|经验曲线]]。 |
 > | [[The Graying of Science]] | 概念 | 奠定了科学界年龄与卓越成就关联分析的基础经验问题意识。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02]] | 论证 | 构成第四章关于年龄与科学成就经验规律的历史理论源头。 |

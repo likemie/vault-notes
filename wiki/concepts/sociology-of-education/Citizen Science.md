@@ -63,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -184,5 +184,9 @@ updated: 2026-10-29
 > | [[UN Sustainable Development Goals]] | 事实目标 | 公民科学广泛对接可持续发展目标中的气候行动、陆地与水下生物保护等指标监测。 |
 > | [[Big Butterfly Count]] | 实践案例 | 英国最具代表性的生态观测类公民科学国家工程。 |
 > | [[The Perception Census]] | 实践案例 | 全球首个大规模认知神经多样性艺术与科学跨界公民科学普查。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] | 实证[[Document\|文献]] | 系统评估英国公民科学项目、非正式科学基建与四级评估框架的权威报告。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 理论文献 | 阐述使命导向创新政策中公众参与、公民协商与社会挑战共创的经典论述。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026)]] — 系统评估英国公民科学项目、非正式科学基建与四级评估框架的权威报告。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述使命导向创新政策中公众参与、公民协商与社会挑战共创的经典论述。

@@ -61,7 +61,7 @@ related_persons:
   - "[[John Hattie]]"
 status: active
 created: 2026-07-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] Interaction Effect
@@ -140,5 +140,9 @@ updated: 2026-10-30
 > | [[Self-Efficacy]] | 概念 | 学生初始效能感与支架设计存在动态交互，优质探究环境能抹平效能鸿沟。 |
 > | [[Productive Failure]] | 概念 | 生产性失败通过“先探索后讲授”的时序交互最大化概念理解与深度迁移。 |
 > | [[Visible Learning]] | 概念 | 其单一[[Effect Size\|效应量]]排行榜因系统性消除交互效应与关键调节[[Variable\|变量]]而遭遇方法学批评。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述提出破除两派二元对立，强调基于学习者特征与时序交互整合教学。 |
-> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 论证 | 批判《可见的学习》抹杀交互效应与家庭背景，将复杂教学降格为线性因果处方。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除两派二元对立，强调基于学习者特征与时序交互整合教学。
+> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 批判《可见的学习》抹杀交互效应与家庭背景，将复杂教学降格为线性因果处方。

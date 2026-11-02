@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -111,4 +111,8 @@ updated: 2026-10-30
 > | [[SEAMEO RIHED]] | Fact (Organization) | 为落实 AEC 人才流动要求而主导政府间多边资历框架对接的区域高教中心。 |
 > | [[ASEAN Way]] | Concept | AEC 在推进决策与政策落实中所必须遵循的协商一致规范。 |
 > | [[Global Regionalisms]] | Concept | AEC 所代表的宏观地缘经济区域主义对微观部门高教区域主义的溢出塑造。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 实证剖析 AEC 2015 年期限如何作为外生[[Variable\|变量]]倒逼东南亚高等教育区域合作。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 实证剖析 AEC 2015 年期限如何作为外生[[Variable|变量]]倒逼东南亚高等教育区域合作。

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -170,5 +170,9 @@ updated: 2026-10-22
 > | [[Tennessee STAR Project 1985-1989]] | 事实 | 美国经典小班[[Randomised Controlled Trials\|随机对照试验]]，与 PACE 共同构成早期小班保护低收入弱势群体的跨国[[Chain of Evidence\|证据链]]。 |
 > | [[The Scott Report]] | 事实 | 1986 年新西兰议会报告已指出教学改善需要深层条件与测量工具，与 PACE 的实证严谨性形成互证。 |
 > | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 新西兰财政部简报试图借哈蒂理论扩大班额，与 PACE 项目官方建议形成鲜明政策反差。 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 引用 PACE 研究论证班级规模与教学法革新的交互机制，反驳哈蒂班级规模无关论。 |
-> | [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] | 论证 | 奥尼尔剖析新西兰政策辩论，援引 PACE 批判财政部削减师生比简报中的[[Material Fallacies\|实质谬误]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 引用 PACE 研究论证班级规模与教学法革新的交互机制，反驳哈蒂班级规模无关论。
+> - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 奥尼尔剖析新西兰政策辩论，援引 PACE 批判财政部削减师生比简报中的[[Material Fallacies|实质谬误]]。

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -151,12 +151,10 @@ updated: 2026-10-30
 > | [[Topological Spatialisation]] | 概念 | 刻画学校版 PISA 打破领土边界、在微观学校与全球组织间建立拓扑连通性的空间化理论。 |
 > | [[School Leadership]] | 概念 | 学校版 PISA 重点渗透、动员并实施自我规训的关键微观行动群体。 |
 > | [[Exogenous Privatisation]] | 概念 | 批判学校版 PISA 依托特许经营将跨国评估服务外包给营利性机构的外生私有化概念工具。 |
-> | [[Argument_Huang_2020_APJE\|Huang and Kan (2020)]] | 论证 | 剖析学校版 PISA [[Epistemology\|认识论]]治理、空间通约与去情境化弊端的实证文献。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 论证 | 剖析经合组织依托 PISA for Schools 等衍生产品扩张商业市场与品牌霸权的[[Document\|文献]]。 |
-> | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | 论证 | 剖析[[School Autonomy\|学校自主]]直连国际数据库、推动微观基层自主对标的文献。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Huang_2020_APJE|Huang and Kan (2020)]] — 深度解构[[OECD|经合组织]]如何通过学校版 [[PISA]] 穿透主权国家层级，将微观学校纳入去情境化的全球[[Commensuration|通约]][[Champ|场域]]，对基层管理与课程实施造成[[Epistemology|认识论]]规训。
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 揭示经合组织如何借助 PISA 品牌威权拓展包括学校版 PISA 在内的衍生测评产品，实现跨国教育治理的商品化扩张。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析[[School Autonomy|学校自主]]直连国际数据库、推动微观基层自主对标的文献。

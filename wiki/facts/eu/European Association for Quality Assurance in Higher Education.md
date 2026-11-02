@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -153,4 +153,8 @@ updated: 2026-10-30
 > | [[Professional Judgment]] | Concept | ENQA 外部评审所严格捍卫的质保机构不受干预的独立专业裁决能力。 |
 > | [[Peer Pressure]] | Concept | ENQA 会员资格审核在各成员国质保中介间形成的横向声誉约束机制。 |
 > | [[European Commission]] | Fact (Organization) | 长期为 ENQA 提供项目资助与超国家政策通道的欧盟常设执行机构。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 深入解构 ENQA 在欧洲高教认识论基础设施中扮演专业网络与[[Gatekeepers\|守门人]]角色的[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 深入解构 ENQA 在欧洲高教认识论基础设施中扮演专业网络与[[Gatekeepers|守门人]]角色的[[Document|文献]]。

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-12'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -179,9 +179,6 @@ updated: 2026-10-22
 > | [[Unit of Analysis\|分析单位]] | 概念 | 方法论核心；确立资本主义世界经济体为基本分析单元，颠覆传统主权国家分析模式。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 理论开创宗师；系统构筑现代世界体系理论与长时段历史动力学分析。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 比较教育奠基引介者；率先将世界体系分析引入本学科，揭示跨国教育依附传递链条。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将世界体系理论确立为第四阶段[[Discourse\|话语]]的批判基石，并反思长时段史学悖论。 |
-> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | 论证 | 权威专论；系统总结世界体系分析在比较教育学中的演进、跨国援助解构与本土辩证抗争。 |
-> | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\|证伪]]零和剩余假设，倡导国家尺度的相对自主性。 |
 
 ---
 

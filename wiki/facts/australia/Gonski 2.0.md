@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -127,8 +127,6 @@ updated: 2026-10-26
 > | [[Philanthrocapitalism]] | 概念 | 报告所反映的将商业投资逻辑、因果量规与企业慈善引入公共教育治理的运作机制。 |
 > | [[Network Governance]] | 概念 | 报告出台与 AERO 创设背后政、商、慈善跨界协同与国家催化平台化的治理形态。 |
 > | [[Policy Mobility]] | 概念 | 报告见证了英美循证政策模型在澳大利亚国家体制内部的转译与制度化装配。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 SVA 以 E4L 为原型游说 Gonski 2.0 及国家向[[Venture Philanthropy\|风险慈善]]催化平台演化的机制。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 深入解构 Gonski 2.0 作为公共道德杠杆背后的[[Venture Philanthropy\|风险慈善]]游说轨迹与企业法装配实质。 |
 
 ---
 

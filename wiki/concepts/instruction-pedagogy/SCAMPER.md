@@ -59,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -255,4 +255,3 @@ updated: 2026-10-29
 > | [[Cognitive Load Theory]] | 理论 | 机制解释 | 明确的设问线索有效减轻了无序发散时的[[Working Memory\|工作记忆]]超载。 |
 > | [[Torrance Tests of Creative Thinking]] | 测量工具 | 效果效标 | 实证研究广泛采用 TTCT 检验 SCAMPER 训练对灵活性与独创性的增益。 |
 > | [[Alternate Uses Test]] | 测量工具 | 测验载体 | AUT 常用于评估 SCAMPER 算子在拓展非常规用途时的迁移效能。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 元分析确立技术型训练（以 SCAMPER 为核心）的效能基准（$g = 0.552$）。 |

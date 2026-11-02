@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -163,5 +163,9 @@ updated: 2026-10-29
 > | [[Bologna Process]] | 政策事实 | 项目实施后期全面对齐博洛尼亚进程学制与学分转换标准。 |
 > | [[Tuning Project]] | 项目事实 | 博洛尼亚进程中具体研制各学科核心能力参考框架的同行协作方案。 |
 > | [[António Nóvoa]] | 人物 | 深入解构欧洲流动性[[Discourse\|话语]]如何生产超国家公民认同与欧洲社会想象的学者。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 剖析天普计划如何将跨国流动性与欧洲社会想象深度捆绑，揭示精英流动与外部边界排斥的治理机制。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 阐明 TEMPUS 与 SOCRATES、LEONARDO 构成依据《欧洲联盟条约》设立的官方教育项目网络支柱。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析天普计划如何将跨国流动性与欧洲社会想象深度捆绑，揭示精英流动与外部边界排斥的治理机制。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 阐明 TEMPUS 与 SOCRATES、LEONARDO 构成依据《欧洲联盟条约》设立的官方教育项目网络支柱。

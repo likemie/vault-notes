@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -195,4 +195,3 @@ updated: 2026-10-29
 > | [[Workforce Development]] | Concept | 锚定机构为区域高技术产业集群提供的多层次、模块化技能人才供给管道。 |
 > | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 受到 ASU 锚定机构引力效应吸引而在凤凰城设立大型先进制程晶圆厂的全球领航企业。 |
 > | [[Regional Technology and Innovation Hubs]] | Fact (Program) | 联邦《[[CHIPS and Science Act\|芯片法案]]》下依托大学锚定机构在全美布局的多极分布式区域创新集群工程。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 系统阐述 ASU 作为锚定机构重塑凤凰城半导体创新生态机制的实证[[Document\|文献]]。 |

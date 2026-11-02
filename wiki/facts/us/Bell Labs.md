@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -204,8 +204,6 @@ updated: 2026-10-30
 > | [[Pasteur's Quadrant]] | Concept | 贝尔实验室是巴斯德象限（应用驱动的基础研究）在工业界最高水平的历史原型。 |
 > | [[Focused Research Organization]] | Concept | 为填补贝尔实验室等[[Corporate R&D Labs\|企业中央实验室]]衰落后留下的中等规模工程公共品空白而设立的新型科研组织。 |
 > | [[Process Knowledge]] | Concept | 贝尔实验室将固态物理理论与半导体晶体生长、超净室工艺等默会过程知识深度结合。 |
-> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | [[Document\|文献]] | 实证考据贝尔实验室如何通过 15 家衍生企业与宽松人才离职政策催生全美半导体产业的经典研究。 |
-> | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 文献 | 实证分析军工研发资助与反垄断规制如何共同塑造贝尔实验室技术向商用企业外溢的历史论文。 |
 > | [[Human Capital Theory]] | Theory | 贝尔实验室作为高流动性工程人力资本母体与跨企业衍生网络的核心实证案例。 |
 > | [[Market Shaping and Creating]] | Concept | 贝尔实验室核心技术外溢与联邦需求侧采购共同塑造半导体与计算机新市场的机制。 |
 > | [[Demand-side Innovation Policy]] | Concept | 政府采购为贝尔实验室发明的晶体管与衍生企业产品提供首发市场托底。 |
@@ -226,7 +224,6 @@ updated: 2026-10-30
 > | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 战后布什报告设想的基础研究资助模式与贝尔实验室这类工业巨头并存互补。 |
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 1982 年贝尔实验室等大型企业中央研发室走向衰落后，半导体产业界创立的产学联合研发替代机制。 |
 > | [[Directorate for Technology, Innovation and Partnerships]] | Fact (Organization) | [[National Science Foundation\|美国国家科学基金会]]旗下新设立的 TIP 理事会，借鉴贝尔实验室跨界攻关模式设立 X 实验室。 |
-> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 文献 | 以贝尔实验室单一企业全链条模式的解体作为制度背景，系统对比 SRC 联合体与联邦国家实验室三种创新组织治理架构的差异与各自适用边界。 |
 
 ---
 

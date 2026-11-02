@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -143,7 +143,8 @@ updated: 2026-10-22
 > | [[Heilmeier Catechism]] | Instrument | ARPA-H 用于立项质询与里程碑考核的核心工具。 |
 > | [[Focused Research Organization]] | Concept | 与 ARPA-H 协同攻坚中等规模工程科学的新型非营利组织形态。 |
 > | [[Eroom's Law]] | Concept | ARPA-H 意图打破的生物制药研发边际生产率衰退规律。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 ARPA-H 作为使命导向资助标杆的系统论证。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 ARPA-H 作为使命导向资助标杆的系统论证。

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -184,6 +184,10 @@ updated: 2026-10-30
 > | [[Knowledge Mobilisation]] | Concept | EEN 第二大核心业务支柱，推动因果证据深层嵌入课堂日常教学。 |
 > | [[Policy Mobility]] | Concept | EEN 作为英美循证政策向全球南方快速流通（fast policy）的全球制度载体。 |
 > | [[Venture Philanthropy]] | Concept | 必和必拓等矿业资本注资孵化 EEN 所体现的现代跨国[[Social Impact Investing\|风险慈善]]模式。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | Argument | 记录 EEF 跨国拓展与全球证据生态启动的关键文献。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | Argument | 揭示 EEF 与必和必拓基金会跨国网络异层治理与快速政策流动的批判研究。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | Argument | 追踪企业慈善资本对大洋洲及跨国证据中介深度渗透的最新文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 记录 EEF 跨国拓展与全球证据生态启动的关键文献。
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭示 EEF 与必和必拓基金会跨国网络异层治理与快速政策流动的批判研究。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 追踪企业慈善资本对大洋洲及跨国证据中介深度渗透的最新文献。

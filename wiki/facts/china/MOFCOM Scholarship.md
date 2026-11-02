@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -133,4 +133,8 @@ updated: 2026-10-26
 > | [[Beijing Consensus]] | Concept | 课程内容所系统讲授与传播的中国特色经济发展治理范式。 |
 > | [[Belt and Road Initiative]] | Fact (Policy) | 奖学金优先投放与重点协同推进的高质量跨国共建网络。 |
 > | [[Silk Road Scholarship]] | Fact (Program) | [[Ministry of Education of the People's Republic of China\|中国教育部]]在教育行动计划中设立的另一项互补性国家级留学生奖学金。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 实证记录柬埔寨政府官员接受商务部奖学金资助并在南南学院修读发展治理课程的微观体验。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 实证记录柬埔寨政府官员接受商务部奖学金资助并在南南学院修读发展治理课程的微观体验。

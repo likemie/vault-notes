@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -123,7 +123,8 @@ updated: 2026-10-26
 > | [[Metascience]] | Concept | Fast Grants 作为资助体制改革实验所依托和发展的元科学理论体系。 |
 > | [[Heilmeier Catechism]] | Instrument | 极简申请设计中汲取的本质性问题质询逻辑。 |
 > | [[Academic Risk Aversion]] | Concept | Fast Grants 机制旨在打破的传统长周期避险化评审瓶颈。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 Fast Grants 作为国家敏捷资助标杆的系统阐述。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 Fast Grants 作为国家敏捷资助标杆的系统阐述。

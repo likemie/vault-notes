@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -171,4 +171,3 @@ updated: 2026-10-29
 > | [[Application Engineering]] | Concept | 加速下游工程师掌握通用技术语言并实现技能收敛的关键组织机制。 |
 > | [[Fairchild Semiconductor]] | Fact | 率先推动硅微电子跨行业技术收敛的先驱企业载体。 |
 > | [[Learning by Doing]] | Concept | 伴随技术收敛在全行业规模化制造中发生的工艺学习过程。 |
-> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | Argument | 实证分析微电子技术收敛与工业转型机制的论文。 |

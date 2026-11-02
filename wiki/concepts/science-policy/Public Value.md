@@ -97,7 +97,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -333,8 +333,3 @@ updated: 2026-10-29
 > | [[Bob Lingard]] | Person | 批判[[OECD\|经合组织]][[Governing by Numbers\|数字治理]]与教育公共价值异化的政策社会学家。 |
 > | [[Fazal Rizvi]] | Person | 揭示[[Policy Network\|全球政策网络]]与[[Knowledge-Based Economy\|知识经济]][[Social Imaginary\|社会想象]]侵蚀教育公共价值的学者。 |
 > | [[Jürgen Habermas]] | Person | 提出晚期资本主义合法性危机理论的哲学家与社会学家。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统阐发超越[[Market Failure\|市场失灵]]修补的公共价值共创理论与动态评估工具的经典文献。 |
-> | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | Argument | 详述现代产业战略如何通过附加条件与护栏条款将公共投资转化为公共价值的实证文献。 |
-> | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | Argument | 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | Argument | 阐发冷战科技合作演进、公共技术交付断裂与技术共和国重塑的专著第一章。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 解构经合组织教育政策转向与公共教育商品化机制的经典文献。 |

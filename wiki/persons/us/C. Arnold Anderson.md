@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -223,8 +223,6 @@ updated: 2026-10-30
 > | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 同属战后美国实证科学化运动同盟，分别代表社会学与经济学推动学科向常规社会科学转型。 |
 > | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 学术史家与学会后任会长，在学科发展反思中评定安德森确立常规社会科学规范的奠基角色。 |
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 1958 年受聘出任该中心首任主任，将其建设为跨国量化与发展教育研究的世界枢纽。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 考据安德森芝加哥学派在第三代际中的结构功能主义进路及其合法化借口功能。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 历史反思论文，评析安德森在战后早期将社会学规范引入比较教育的学术贡献。 |
 
 ---
 

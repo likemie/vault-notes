@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -199,8 +199,6 @@ updated: 2026-10-29
 > | [[Heterogeneous Integration]] | Concept | 异构集成先进封装技术为非冯存算一体芯片提供三维高密度互连物理支撑。 |
 > | [[Curiosity-Driven Research]] | Concept | 类脑神经形态材料与自旋电子学等非冯物理机理来源于前沿好奇心探索。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 白宫国家科技委员会，主导制定《[[National Strategy on Microelectronics Research\|国家微电子研究战略]]》并部署非冯架构突破。 |
-> | [[Argument_Mowery_2011_NBER\|Mowery, 2011]] | Argument | 详尽考据二战后美国军政机构公开扩散 [[Institute for Advanced Study\|IAS]] 蓝图与奠定通用计算工业生态的经典论著。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC, 2024]] | Argument | 战略报告，确立超越冯·诺依曼架构、类脑计算与存算一体为后摩尔时代第一突破方向。 |
 
 ---
 

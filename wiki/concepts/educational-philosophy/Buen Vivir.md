@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -127,5 +127,9 @@ updated: 2026-10-29
 > | [[Posthumanism]] | 概念 | 理论共鸣，西方生态后人类主义打破人类中心主义的跨文化对话伙伴。 |
 > | [[Human Capital Theory]] | 理论 | 批判靶向，Buen Vivir 坚决拒绝将教育矮化为提高经济生产率与个体消费能力的功利工具。 |
 > | [[Ágnes Heller]] | 人物 | 哲学家，其论“正义是骨架，美好生活是血肉”与 Buen Vivir 追求充实生活意义的主张深度互通。 |
-> | [[Argument_Amos_2022_Springer\|Amos (2022)]] | 论证 | 母体[[Document\|文献]]，系统论述 Buen Vivir、Ubuntu 与后人类主义在教育哲学中的家族相似性与跨文化潜力。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|Karp & Zamiska (2025)]] | 论证 | 思想参照，批判现代公共[[Discourse\|话语]]从“美好生活”的实质讨论中撤退所导致的伦理真空与[[Technological Agnosticism\|技术不可知论]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 母体[[Document|文献]]，系统论述 Buen Vivir、Ubuntu 与后人类主义在教育哲学中的家族相似性与跨文化潜力。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 思想参照，批判现代公共[[Discourse|话语]]从“美好生活”的实质讨论中撤退所导致的伦理真空与[[Technological Agnosticism|技术不可知论]]。

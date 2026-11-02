@@ -172,7 +172,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Educational Brokerage Agency
@@ -480,4 +480,3 @@ updated: 2026-10-29
 > | [[Boundary Spanner]] | 概念 | 个体层面的跨界穿梭者，与组织层面的中介机构形成微观与中观的互补联动机制。 |
 > | [[Carol Weiss]] | 人物 | 经典[[Policy Science in Comparative Education\|政策科学]]理论家，深入剖析国会委员会作为分析利用者的制度特征与研究作为政策燃料的规律。 |
 > | [[Zewelanji N. Serpell]] | 人物 | 提出[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]，揭示国会山立法中介机制、选民赋权经纪与学会敏捷响应网络。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 [[Social Ventures Australia\|SVA]] [[Policy Network\|政策网络]]装配三大国家级教育中介实体与国家演化为催化平台的实证证据。 |

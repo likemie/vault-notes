@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -133,4 +133,8 @@ updated: 2026-10-29
 > | [[Forensic Style of Inspection]] | Concept | 司法化思维在督导实务中的具体工作方法显现，表现为公诉式取证。 |
 > | [[State Simplification]] | Concept | 司法化通过将复杂的教育过程转化为法条硬指标所达成的高阶国家简化。 |
 > | [[Critical Theory]] | Theory | 哈贝马斯法律化与生活世界殖民批判理论为教育司法化研究提供的哲学根基。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 详尽复盘瑞典督察局如何以法律依据[[Assemblage\|组装]]评估常模与制裁实操的[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 详尽复盘瑞典督察局如何以法律依据[[Assemblage|组装]]评估常模与制裁实操的[[Document|文献]]。

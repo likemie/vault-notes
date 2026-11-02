@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -210,9 +210,6 @@ updated: 2026-10-30
 > | [[Stephen Ball]] | 人物 | 理论对话者，其政策简约性诱惑与委托科研批判直接启发了比奇构建五位置流通模型。 |
 > | [[Alejandro Artopoulos]] | 人物 | 长期合作者，共同探索[[Actor-Network Theory\|行动者网络理论]]与[[Space of Flows\|流动空间]]在教育话语流通中的理论应用。 |
 > | [[Michael Sadler]] | 人物 | 经典隐喻提出者，比奇通过微观生态学重构了其 1900 年关于花园漫步采集枝叶的论断。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 首创五位置话语流通模型，揭示国际机构双重垄断与拉美守门人机制的经典论证文献。 |
-> | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] | 论证 | 批判比较[[Policy Borrowing\|教育借用]]隐喻，系统倡导关系性空间与行动者网络理论新词汇的奠基文献。 |
-> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 论证 | 运用卡斯特流动空间范式解构全球政策空间中话语逐层变形与漂浮能指演进的代表作。 |
 
 ---
 

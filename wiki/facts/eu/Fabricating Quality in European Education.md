@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -160,4 +160,8 @@ updated: 2026-10-26
 > | [[Governing by Numbers]] | Concept | 该项目奠定并推广的核心理论范式。 |
 > | [[European Education Space]] | Concept | 项目考察其如何被质量评估机制制度化构建的[[Discursive Field\|话语空间]]。 |
 > | [[Space of Equivalence]] | Concept | 项目用于解释统计跨国可通约化的理论概念。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | FabQ 项目产出的核心奠基性期刊代表作。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — FabQ 项目产出的核心奠基性期刊代表作。

@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -135,7 +135,6 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | 实证文献 | 高度依托布鲁金斯专著（Tilton 1971）实证论证国防采购重塑半导体市场结构与扶植新创企业的经典研究。 |
 > | [[Market Shaping and Creating]] | 政策概念 | 布鲁金斯学者[[John E. Tilton\|蒂尔顿]]关于政府采购重塑产业竞争结构所支撑的核心政策[[Paradigm\|范式]]。 |
 > | [[Demand-side Innovation Policy]] | 政策概念 | 布鲁金斯学会科技扩散研究所论及的需求拉动与首发市场采购工具。 |
 > | [[Learning Economy]] | 经济理论 | 政府采购托底新创企业释放微观制造成本下降 20%–30% 的核心经济学机制。 |
@@ -144,7 +143,9 @@ updated: 2026-10-30
 > | [[Grover Whitehurst]] | 智库学者 | 长期主政布朗教育政策中心并提出质疑课程标准效能的核心学者。 |
 > | [[William H. Schmidt]] | 论敌学者 | 发表反驳模型与布鲁金斯学会展开长达数年实证交锋的提分派领军学者。 |
 > | [[Institute of Education Sciences]] | 联邦机构 | 怀特赫斯特转任布鲁金斯学会前担任创始院长的联邦循证科学中枢。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录布鲁金斯学者实证质疑并以此剖析证据争议本质的经典研究。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 高度依托布鲁金斯专著（Tilton 1971）实证论证国防采购重塑半导体市场结构与扶植新创企业的经典研究。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细记录布鲁金斯学者实证质疑并以此剖析证据争议本质的经典研究。

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -278,5 +278,3 @@ updated: 2026-10-29
 > | [[John Hattie]] | 人物 | [[Construct\|构念]]创立 | 设立 $d=0.40$ 铰接点作为甄别教育策略推广价值的门槛。 |
 > | [[Pierre-Jérôme Bergeron]] | 人物 | 数理审计 | 揭示 $r=0.196$ 虚增至期望区与基准反转导致的逻辑崩溃。 |
 > | [[Adrian Simpson]] | 人物 | 统计解构 | 批判二阶[[Meta-meta-analysis\|元综合]]违反比率尺度与分布假定的统计学失范。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 揭示期望效应区作为新自由主义财政紧缩实证护盾的政治经济学功能。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 数理审计 | 提供弱相关虚增（$R^2=3.85\%$）与基准反转的方法学解构证据。 |

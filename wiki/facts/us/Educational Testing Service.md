@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -173,8 +173,6 @@ updated: 2026-10-30
 > | [[Higher-Order Thinking Skills]] | Concept | ETS 重点研发的下一代机考产品的核心测度目标。 |
 > | [[Critical Thinking]] | Concept | ETS HEIghten 测评体系重点量化的[[21st Century Skills and Competencies Discourse\|核心素养]]维度。 |
 > | [[Policy Instrumentation Theory]] | Theory | 解释 ETS 作为政策工具支持群体促成制度锁定的上位[[Analytic Framework\|分析框架]]。 |
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | Argument | 详述 ETS 研发 EPP、HEIghten 及 TTK 测验测度高等教育通用能力的实证文献。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 解构测验工业巨头作为政策工具共生群体推动测试扩张与制度锁定的核心文献。（pp. 252, 260） |
 
 ---
 

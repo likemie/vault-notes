@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -163,5 +163,9 @@ updated: 2026-10-30
 > | [[Recontextualization]] | Concept | 示范情境单元在不同学校具体生源与实验条件下经历的本土重构过程。 |
 > | [[Teacher Beliefs]] | Concept | CHiK 教学改革旨在触动并根本转变的深层教师教学[[Epistemological Beliefs\|认识论信念]]。 |
 > | [[Scientific Literacy]] | Concept | CHiK 旨在全面提升的立足真实情境应用的现代科学素养。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 从转移科学视角系统反思 CHiK 与 SINUS 在德语区教学改革扩散中的历史经验与吸收瓶颈。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 PISA 冲击后德国联邦教育部（BMBF）向 CHiK、PIKO 及 SINUS 等项目追加资助的政策机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 从转移科学视角系统反思 CHiK 与 SINUS 在德语区教学改革扩散中的历史经验与吸收瓶颈。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 PISA 冲击后德国联邦教育部（BMBF）向 CHiK、PIKO 及 SINUS 等项目追加资助的政策机制。

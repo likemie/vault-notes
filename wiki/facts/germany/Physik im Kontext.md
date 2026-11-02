@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -129,4 +129,8 @@ updated: 2026-10-30
 > | [[PISA]] | Fact (Program) | PIKO 项目致力于提高学生得分与素养排位的跨国评价工具。 |
 > | [[Scientific Literacy]] | Concept | PIKO 项目致力于在中学物理课堂全面培育的[[CORE Education\|核心教育]]目标。 |
 > | [[Sotiria Grek]] | Person | 记录并评述 PIKO 作为德国应对 PISA 测评模型典型项目的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录德国在 PISA 震荡后启动 PIKO、CHIK 与 SINUS 改革的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录德国在 PISA 震荡后启动 PIKO、CHIK 与 SINUS 改革的实证[[Document|文献]]。

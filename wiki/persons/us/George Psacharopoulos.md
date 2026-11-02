@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -159,5 +159,3 @@ updated: 2026-10-30
 > | [[Scientism\|科学主义]] | 概念 | 体现了战后将自然科学一元论与单一全能方法强加于比较教育的科学主义风潮。 |
 > | [[Bernard Barber\|伯纳德·巴伯]] | 人物 | 科学社会学家，其[[Empiricism\|唯方法论主义]]批判深刻击中了萨卡罗普洛斯式实证模型的[[Epistemology\|认识论]]盲区。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将萨卡罗普洛斯定性为第三代际经验主义与实证唯方法论主义的核心代表。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 论证 | 剖析萨卡罗普洛斯如何借助 1,120 项回报率估算构建世界银行自指性应用政策研究帝国。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释芝加哥学派人力资本理论在比较教育第三代际中的实证经验主义演进与合法化借口实质。 |

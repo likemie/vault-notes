@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -122,4 +122,3 @@ updated: 2026-10-30
 > | [[Learning Knowledge and Policy Knowledge]] | Concept | 庞斯提出的核心知识类型学分类[[Construct\|构念]]。 |
 > | [[PISA Response in France]] | Fact (Event) | 庞斯深入实证追踪与理论定型的法国政策回应标本。 |
 > | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 庞斯的[[Research Translation\|知识转译]]研究是该模型第三层级（行动者网络）的理论支柱。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 全面评述并引入庞斯核心理论与法国案例的母体文献。 |

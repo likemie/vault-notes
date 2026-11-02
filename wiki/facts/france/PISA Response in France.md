@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -134,4 +134,8 @@ updated: 2026-10-30
 > | [[Loi Fillon 2005]] | Fact (Policy) | 2005 年法国将 PISA 与欧盟[[21st Century Skills and Competencies Discourse\|关键能力]]标准融入国家法律《共同基底》的核心政策载体。 |
 > | [[PISA Shock in Germany]] | Fact (Event) | 与法国形成鲜明对照的第一象限全系统休克个案。 |
 > | [[PISA Response in England]] | Fact (Event) | 与法国形成鲜明对照的利用危机闪电推销私有化的英格兰个案。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 剖析法国 PISA 政策背书机制与国家科学权威的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 剖析法国 PISA 政策背书机制与国家科学权威的核心[[Document|文献]]来源。

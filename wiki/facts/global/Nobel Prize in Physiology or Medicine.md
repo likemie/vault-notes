@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -154,8 +154,6 @@ updated: 2026-10-31
 > | [[Network Analysis]] | Method | 揭示诺奖得主师承谱系树与合作网络拓扑的核心量化分析方法。 |
 > | [[Alfred Nobel]] | Person | 设立该奖项的瑞典发明家、实业家与基金创立者。 |
 > | [[Dashun Wang]] | Person | 实证剖析布朗-戈尔茨坦超级搭档 509 篇合作全景与诺奖产出峰值的科学学家。 |
-> | [[Argument_Sandrone_2025_MEO\|Sandrone (2025)]] | Argument | 详述诺贝尔生理学或医学奖历史沿革、学术师承家族树与多样性差距的研究。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] | Argument | 结合布朗与戈尔茨坦诺奖案例，阐明超级合作联结（Super Ties）非对称产出峰值规律的研究。 |
 
 ---
 

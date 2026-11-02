@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -138,4 +138,8 @@ updated: 2026-10-30
 > | [[Governing by Numbers]] | Concept | 揭示 IALS 如何借由量化数据开创跨国软性治理权力的理论框架。 |
 > | [[Human Capital Theory]] | Theory | 支撑 IALS 将成人素养等同于国家生产力储备的经济学理论基础。 |
 > | [[Sotiria Grek]] | Person | 剖析 IALS 如何为 PISA 奠定脱离课程评价[[Paradigm\|范式]]的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 论述 IALS 作为经合组织[[Comparative Turn in Education Policy\|比较转向]]前奏与技术治教起点的实证文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 论述 IALS 作为经合组织[[Comparative Turn in Education Policy|比较转向]]前奏与技术治教起点的实证文献。

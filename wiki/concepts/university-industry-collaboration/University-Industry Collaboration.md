@@ -130,7 +130,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -390,5 +390,3 @@ updated: 2026-10-29
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 [[National Science and Technology Council\|NSTC]] 与[[Innovation Hub\|区域创新中心]]、系统重塑大学在国家战略产业中角色的现代法案。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《芯片法案》下设立的国家级产学研协同平台与先进原型流片网络。 |
 > | [[Fred Block]] | Person | 提出发展型网络国家理论并实证揭示美国产学研跨组织协同网络演进的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 实证解构美国战后分散化网络创新体系与政府产学协同经纪职能的核心文献。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 系统论述美国[[Research Universities\|研究型大学]]在国家半导体战略体系中四维角色重构与学术自主张力的实证文献。 |

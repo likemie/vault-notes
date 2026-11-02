@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -125,4 +125,8 @@ updated: 2026-10-30
 > | [[School Inspection]] | Concept | NAE 在 2003–2008 年间直接行使、后被剥离交由督察局专责的治理职能。 |
 > | [[Governing by Inspection]] | Theory | 解释 NAE 课程标准制定与督察局外部督导协同构建远程治理的分析理论。 |
 > | [[State Simplification]] | Concept | NAE 国家大纲与统考指标体系在课程测量维度所体现的国家简化逻辑。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 详细梳理 NAE 督导职能剥离与[[Knowledge Transfer\|知识转移]]历史背景的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 详细梳理 NAE 督导职能剥离与[[Knowledge Transfer|知识转移]]历史背景的实证[[Document|文献]]。

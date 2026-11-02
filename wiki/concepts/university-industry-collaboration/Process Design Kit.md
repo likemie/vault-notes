@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -134,8 +134,6 @@ updated: 2026-10-22
 > | [[Natcast]] | Fact (Organization) | 运营国家设计网关并维护通用 PDK/ADK 访问协议的受托非营利实体。 |
 > | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 全球先进制程 PDK 的主要制定者与工艺标准引领者。 |
 > | [[DARPA]] | Fact (Organization) | 资助 POSH、IDEA 与 Toolbox 计划，推动开源 PDK 与自动化电路生成。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心云端设计网关集中托管商业与开源 PDK 的制度构想。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子顶层战略，将开放 PDK/ADK 与国家设计网关列为打通转化断层的共性支柱。 |
 
 ---
 

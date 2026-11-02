@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -199,5 +199,3 @@ updated: 2026-10-29
 > | [[General Purpose Technology]] | Concept | 仙童半导体等湾区企业推动硅微电子由军工利基转向全工业通用技术。 |
 > | [[Dual In-Line Package]] | Concept | 诞生于旧金山湾区、打破计算机整机工业[[Assemblage\|组装]]瓶颈的标准封装界面。 |
 > | [[Emergence]] | Concept | 旧金山湾区[[Innovation Ecosystem\|创新生态系统]]呈现的自组织与自下而上涌现特征。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 全球三[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]科技创新生态系统比较研究专著。 |
-> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | Argument | 旧金山湾区硅微电子产业史与制造[[Paradigm\|范式]]转型的实证论文。 |

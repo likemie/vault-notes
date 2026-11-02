@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -246,8 +246,6 @@ updated: 2026-10-30
 > | [[Meta-analysis]] | 方法 | 元分析通过加权合成各主要研究的标准误以提高总体估计精度。 |
 > | [[Meta-meta-analysis]] | 方法 | 二阶综合通过精度累加确定联合标准误，需严格避免算术平均。 |
 > | [[Robust Variance Estimation]] | 方法 | 在文献重叠与聚类依赖下提供渐近无偏的稳健标准误校正。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]] | 论证 | 奠定均值标准误（[[Causal Modeling\|SEM]]）、比例标准误及有限总体校正的经典统计规范。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 严格揭示元分析审查中混淆 SE 与 SD、硬造伪标准误及对标准误取均值的实证灾难。 |
 
 ---
 

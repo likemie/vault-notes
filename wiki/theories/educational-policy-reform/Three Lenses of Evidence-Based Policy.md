@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -132,4 +132,8 @@ updated: 2026-10-30
 > | [[Swedish Schools Inspectorate]] | Fact (Organization) | 塞格霍尔姆等运用三透镜理论深度复盘其多维证据操作的现实案例。 |
 > | [[Embodied, Inscribed and Enacted Knowledge]] | Theory | 与三透镜模型形成纵横互补的微观政策知识形态转化理论。 |
 > | [[Social Science as Legitimation Alibi]] | Concept | 政治透镜压倒学术透镜并将其降格为治理工具时必然衍生的学术异化现象。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 将三重视角理论引入[[School Inspection\|学校督导]]与教育治理实证田野的关键文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 将三重视角理论引入[[School Inspection|学校督导]]与教育治理实证田野的关键文献。

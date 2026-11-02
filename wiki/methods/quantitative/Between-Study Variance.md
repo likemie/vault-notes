@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -186,9 +186,6 @@ updated: 2026-10-29
 > | [[Sampling Error\|抽样误差]] | 概念 | 方差分解对象，观察变异被严格区分为研究内抽样误差与研究间真实方差。 |
 > | [[Heterogeneity\|异质性]] | 概念 | 理论实质，$\tau^2$ 构成绝对量纲意义上量化未解释异质性程度的黄金指标。 |
 > | [[Incommensurability\|不可通约性]] | 概念 | 方法学边界警示，强行合并不同定义与设计的宏观综合导致 $\tau^2$ 掩盖了质的差异。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 批判证据，论证二级元-元分析因一阶元分析数量过少（$k \approx 6$）导致 $\tau^2$ 估计崩溃。 |
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 方法史源，详述元分析异质性量化发展史与 $\tau^2$ 统计定位。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]] | 论证 | 教材规范，系统阐明元分析中固定与随机效应模型下 $\tau^2$ 的数学原理与解释。 |
 
 ---
 

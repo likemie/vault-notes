@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] School Effectiveness
@@ -329,6 +329,3 @@ updated: 2026-10-29
 > | [[Ofsted\|英国教育标准局]] | 机构 | 依据学校效能常模设立的国家督导检查机构，将效能指标转化为视导与奖惩实践。 |
 > | [[World Bank\|世界银行]] | 机构 | 充当[[Knowledge Bank\|知识银行]]，通过政策建议将去情境化的学校效能与[[Effective Teaching\|有效教学]]方案输入发展中国家。 |
 > | [[Global Educational Discourse\|全球教育话语]] | 概念 | 学校效能与[[School Autonomy\|校本管理]]构成了多边国际组织倡导的全球教育话语五大核心支柱之一。 |
-> | [[Argument_Ball_2008_SR\|Ball (2008)]] | 论证 | 提供英国学校效能[[Research Translation\|研究转译]]为国家治理技术与去语境化归因的系统历史社会学文本证据。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 提供高校学术重商主义与国际组织将学校效能包装为跨国商品输出的理论与经验证据。 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 范式批判：提出两类学校效能研究划分，揭露混淆微观与宏观效能的[[Category Mistake\|范畴谬误]]。 |

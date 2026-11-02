@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -197,6 +197,10 @@ updated: 2026-10-26
 > | [[Race to the Top]] | 关联政策 | 借助 AYP 危机设立灵活性豁免，推动各州采纳 CCSS 与教师增值评估的联邦计划。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 256–257)]] |
 > | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 361–362)]] |
 > | [[Spatial Governmentality]] | 上位理论 | 阐释 AYP 如何通过空间圈禁与指标达标将流动学童排斥为边缘异类的治理技术。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 AYP 达标阶梯制裁在美国测试问责体制中的治理功能与制度限度。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 详细记录[[Policy Entrepreneur\|政策企业家]]如何动员 AYP 与 NAEP 差距数据撬开[[Policy Window\|政策之窗]]的经典研究。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 深入分析 AYP 达标阶梯制裁在美国测试问责体制中的治理功能与制度限度。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细记录[[Policy Entrepreneur|政策企业家]]如何动员 AYP 与 NAEP 差距数据撬开[[Policy Window|政策之窗]]的经典研究。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -263,4 +263,3 @@ updated: 2026-10-29
 > | [[Mind Mapping]] | 概念 | 外显支架 | 思维导图的多向辐射分支为认知灵活性提供全景视觉操作工作区。 |
 > | [[Cognitive Load Theory]] | 理论 | 负荷权衡 | 灵活切换需要消耗前额叶心智资源，过度频繁无序切换易导致认知负荷超载。 |
 > | [[Alternate Uses Test]] | 测量工具 | 测验效标 | AUT 中的“灵活性（Flexibility）”维度即直接[[Operationalization\|操作化]]测查认知范畴切换能力。 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 元分析确立思维训练提升认知灵活性与发散思维的效能基准（$g = 0.762$）。 |

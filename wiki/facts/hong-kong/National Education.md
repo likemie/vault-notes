@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -191,7 +191,11 @@ updated: 2026-10-26
 > | [[2019 Hong Kong Protests]] | Fact (Event) | 促使官方彻底重构特区教育体制与全面强化国民教育的标志性危机事件。 |
 > | [[Youth Development Blueprint]] | Fact (Policy) | 特区政府将青年政治诉求引导至个人发展与心态塑造的官方战略纲领。 |
 > | [[My Pledge to Act]] | Fact (Program) | 教育局推行的全港性学校德育项目，强调感恩知足与积极生活态度。 |
-> | [[Argument_Vickers_2024_CE\|Vickers (2024)]] | Argument | 剖析公民与社会发展科教材重组及青年不满心理化治理机制的实证研究。 |
-> | [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] | Argument | 比较香港国民教育与西藏、新疆边疆同质化整合策略的政治社会学研究。 |
-> | [[Argument_Amos_2022_Springer\|Amos (2022)]] | Argument | 阐明教育成员资格创生功能及其在香港情境中运作强度升级的历史社会学论著。 |
-> | [[Argument_Bulag_2024_CE\|Bulag (2024)]] | Argument | 探讨内蒙古与边疆民族同质化整合叙事及其对特区治理镜像启示的论著。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Vickers_2024_CE|Vickers (2024)]] — 剖析公民与社会发展科教材重组及青年不满心理化治理机制的实证研究。
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 比较香港国民教育与西藏、新疆边疆同质化整合策略的政治社会学研究。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明教育成员资格创生功能及其在香港情境中运作强度升级的历史社会学论著。
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探讨内蒙古与边疆民族同质化整合叙事及其对特区治理镜像启示的论著。

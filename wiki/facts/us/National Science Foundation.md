@@ -289,10 +289,6 @@ updated: 2026-11-02
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | [[National Science and Technology Council\|NSTC]] 发布的国家微电子战略顶层设计，NSF 担任微电子领导小组联合主席并统筹基础研究与劳动力体系。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《芯片与科学法案》下设立的国家半导体研发中枢；NSF 主任参与其跨部门共治，与 TIP 理事会形成基础到中试的研发接力。 |
 > | [[Fred Block]] | Person | 经济社会学家，系统剖析 NSF 设立 IUCRC/ERC 产学中心及首创 [[SBIR and STTR Programs\|SBIR]] 计划对[[Developmental Network State\|发展型网络国家]]的贡献。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析 NSF 产学合作中心网络（IUCRC/ERC）、首创 SBIR 种子机制及直面[[Market Fundamentalism\|市场原教旨主义]]挑战的文献。 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心的部际共治架构、全链条研发流水线及与 NSF 基础科学探索的协同机制。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子研究战略四大支柱，系统阐明 NSF 在基础材料探索、FuSe [[Co-Design\|协同设计]]计划、NNCI 开放中试设施与 ATE 技术员培养中的核心职能。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] | Argument | 追踪 NSF 资助项目揭示跨学科攻坚团队发表前协调摩擦与幸存者偏差的实证研究。 |
 > | [[SciSciNet]] | Fact | 科学学开放数据湖，依托非结构化引文解析高精度对齐 131 万条 NSF 资助链条。 |
 
 ---

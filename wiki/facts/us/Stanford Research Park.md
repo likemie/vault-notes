@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -99,5 +99,9 @@ updated: 2026-10-30
 > | [[Fairchild Semiconductor]] | Fact | 紧邻斯坦福研究园并与其深度互动、奠定硅谷半导体产业的母体企业。 |
 > | [[Technology Transfer Office]] | Concept | 斯坦福首创并推广至全球高校的技术授权管理机构（OTL）。 |
 > | [[Technology Transfer]] | Concept | 园区所承担的核心产学研知识流动机制。 |
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | Argument | 详细论述斯坦福研究园在旧金山湾区[[Innovation Ecosystem\|创新生态]]中支柱地位的专著。 |
-> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | Argument | 记录斯坦福与仙童等湾区早期半导体企业互动历史的企业史[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 详细论述斯坦福研究园在旧金山湾区[[Innovation Ecosystem|创新生态]]中支柱地位的专著。
+> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 记录斯坦福与仙童等湾区早期半导体企业互动历史的企业史[[Document|文献]]。

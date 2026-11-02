@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -101,4 +101,8 @@ updated: 2026-10-30
 > | [[SNTE]] | Fact (Organization) | 签署并参与执行本政策的拉美最大教师工会，其编制垄断被本政策打破。 |
 > | [[PISA Shock]] | Concept | 墨西哥历次 PISA 垫底构成本政策出台的最直接外力危机动因。 |
 > | [[Performance Pay]] | Concept | 本政策将教师年终奖金同标准化考试挂钩的核心机制。 |
-> | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | Argument | 系统评述墨西哥依据 PISA 推进教育质量联盟改革的核心[[Document\|文献]]来源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 系统评述墨西哥依据 PISA 推进教育质量联盟改革的核心[[Document|文献]]来源。

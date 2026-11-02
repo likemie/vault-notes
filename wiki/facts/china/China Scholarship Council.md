@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -165,5 +165,9 @@ updated: 2026-10-26
 > | [[South-South Cooperation]] | Concept | 面向共建国家的人才资助被视为践行南南合作与提供教育公共产品的代表性渠道。 |
 > | [[Engineering Education]] | Concept | 基金委专项奖学金重点倾斜重大涉外基础设施建设所需的工程科技人才培养。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 设立“丝绸之路”专项中国政府奖学金所服务对接的国家顶层合作倡议。 |
-> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 将国家留学基金委管理的奖学金识别为中国推进一带一路[[Education Going Global\|教育出海]]核心政策工具的实证研究。 |
-> | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 实证分析国家留学基金委在校企协同中亚能源与中老水电人才委培中的受托资助机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将国家留学基金委管理的奖学金识别为中国推进一带一路[[Education Going Global|教育出海]]核心政策工具的实证研究。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 实证分析国家留学基金委在校企协同中亚能源与中老水电人才委培中的受托资助机制。

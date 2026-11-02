@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -128,4 +128,8 @@ updated: 2026-10-30
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | SHARE 项目旨在协助构建与支撑的东南亚区域高等教育空间愿景。 |
 > | [[Bologna Process Export Thesis]] | Concept | SHARE 项目启动时所依循、后在实施摩擦中被实证推翻的单向扩散预设。 |
 > | [[Norm Localisation]] | Concept | 解释 SHARE 项目中东南亚行动者如何修剪欧洲外来要求、实现本土适切的理论机制。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 将 SHARE 项目列为跨区域政策理念对话、认知摩擦及主权防卫的典型实证案例。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 将 SHARE 项目列为跨区域政策理念对话、认知摩擦及主权防卫的典型实证案例。

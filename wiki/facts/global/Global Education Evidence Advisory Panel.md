@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -160,4 +160,8 @@ updated: 2026-10-30
 > | [[Teacher Professional Agency]] | Concept | GEEAP 赤字处方模型所压抑与忽视的微观实践维度。 |
 > | [[Positivism]] | Concept | GEEAP 知识评价体系所依据的实证主义[[Epistemic Stances\|认识论立场]]。 |
 > | [[Epistemic Governance]] | Concept | GEEAP 通过实证分级清单对全球受援国政策实施远处规制的机制。 |
-> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 GEEAP 规程文本的话语修辞，批判其技术理性与对本土实践生态的脱节。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 GEEAP 规程文本的话语修辞，批判其技术理性与对本土实践生态的脱节。

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -158,5 +158,9 @@ updated: 2026-10-26
 > | [[Hunt Institute]] | Fact (Organization) | 接受基金会资助并负责全美每周推进策略同步会议的协调平台。 |
 > | [[Venture Philanthropy]] | Concept | 盖茨基金会介入公共教育变革所代表的现代风险慈善与战略资助模式。 |
 > | [[Theories of Policy Change]] | Concept | 基金会运用私人资本与跨界同盟推动各州政策变迁的[[Analytic Framework\|理论分析框架]]。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 详细披露盖茨基金会近 9,000 万美元跨界网络资助规模与政治功能的研究。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 分析盖茨基金会参与联合国教科文组织 GCM 多边长效循证资助者联盟的战略构想。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细披露盖茨基金会近 9,000 万美元跨界网络资助规模与政治功能的研究。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 分析盖茨基金会参与联合国教科文组织 GCM 多边长效循证资助者联盟的战略构想。

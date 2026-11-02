@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -134,6 +134,9 @@ updated: 2026-10-22
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 设立微科学卓越中心并吸纳 NRRFSS 主任参与行业技术顾问的产业联合体。 |
 > | [[National Science Foundation]] | Fact (Organization) | NRRFSS 的主要联邦公共出资方与管理监督机构。 |
 > | [[Ministry of International Trade and Industry]] | Fact (Organization) | 日本通产省发起 2.33 亿美元 [[VLSI Project\|VLSI]] 攻关计划，成为催生 NRRFSS 获批立项的关键外部威胁催化剂。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 莫迪剖析 NRRFSS 作为国家微电子用户设施创设、制度演进与跨界转型的实证研究。 |
 > | [[Archival Research]] | Method | 莫迪（[[Argument_Mody_2017_MOH\|Mody, 2017]]）重构该中心创建史所采用的历史档案研究方法。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 莫迪剖析 NRRFSS 作为国家微电子用户设施创设、制度演进与跨界转型的实证研究。

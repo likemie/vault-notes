@@ -93,7 +93,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -249,4 +249,3 @@ updated: 2026-10-30
 > | [[Liliana Esther Olmos\|莉莉安娜·埃丝特·奥尔莫斯]] | 人物 | 与托雷斯合作系统运用依附论框架剖析第三世界教育扩张畸变与全球化危机。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 出版《作为文化帝国主义的教育》，开创依附论比较教育研究传统。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 确立依附理论在战后第四代际批判冲突范式中的核心地位，并提出历史健忘症的[[Epistemology\|认识论]]批评。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐明第四代际批判冲突与跨国宏观范式中依附理论的突破、跨国不平等传递链条及历史流失反思。 |

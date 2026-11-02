@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -211,9 +211,13 @@ updated: 2026-10-26
 > | [[OECD]] | Fact (Organization) | 在危机地缘压力下由欧洲经济合作组织重组而成的“经济北约”，开创跨国教育统计与人力资本规制。 |
 > | [[Human Capital Theory]] | Theory | 危机后主导跨国教育规划、将教育界定为国家战略投资的核心经济学理论。 |
 > | [[STEM Education]] | Concept | 危机后由联邦与顶尖学者联合推行的学科结构化与科学人才培养核心领域。 |
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 从[[Social Contract of Science\|科学社会契约]]演化视角，论证斯普特尼克危机如何促发冷战竞争技术化转向与高自治—高嵌入治理结构。 |
-> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 梳理 DARPA 历史沿革，指出斯普特尼克危机是推动设立 ARPA 并确立防范技术突袭范式的根本历史起点。 |
-> | [[Argument_Amos_2022_Springer\|Amos (2022)]] | Argument | 论证斯普特尼克冲击如何将经济、国家安全与知识生产硬性挂钩，产生贯穿至今的制度回响（Vergegenkunft）。 |
-> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | Argument | 拆解斯普特尼克危机如何促成《国防教育法》、芝加哥比较教育中心成立及比较教育学实证主义转型。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 揭示危机如何成为欧洲经济合作组织重组为 OECD（“经济北约”）并开创跨国统计规制的关键动力。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 揭示危机如何被概念化为初等教育失败并触发美国借用英国幼儿学校经验的开放课堂运动。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证斯普特尼克危机如何促发冷战竞争技术化转向与高自治—高嵌入治理结构。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 梳理 DARPA 历史沿革，指出斯普特尼克危机是推动设立 ARPA 并确立防范技术突袭范式的根本历史起点。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 论证斯普特尼克冲击如何将经济、国家安全与知识生产硬性挂钩，产生贯穿至今的制度回响（Vergegenkunft）。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 拆解斯普特尼克危机如何促成《国防教育法》、芝加哥比较教育中心成立及比较教育学实证主义转型。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 揭示危机如何成为欧洲经济合作组织重组为 OECD（“经济北约”）并开创跨国统计规制的关键动力。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示危机如何被概念化为初等教育失败并触发美国借用英国幼儿学校经验的开放课堂运动。

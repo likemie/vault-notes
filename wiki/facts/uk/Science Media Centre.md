@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-03'
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -119,6 +119,7 @@ updated: 2026-10-26
 > - **线粒体捐赠立法争议（Mitochondrial Donation）** 在英国国会审议批准“三亲婴儿”（Three-person IVF）线粒体替代疗法期间，SMC 协同纽卡斯尔大学科学家与患者家庭组织多轮吹风会，用直观图解阐明人类 99.8% 遗传密码由细胞核 DNA 决定而线粒体仅占 0.2% 供能基因，成功消解了公众对“制造定制婴儿”的虚假恐慌，为英国在全球率先合法化线粒体疗法筑牢了理性民意基石。
 > - **[[Science Journalism\|科学新闻]]官生态调研（Jamison, 2022）** SMC 发布《科学新闻官角色变迁》专题调研报告，揭示英国高校在财政紧缩背景下将新闻官大量转用于品牌声誉营销与危机公关、导致科学传播外联受到结构性挤压的体制困境，呼吁高校捍卫科研新闻的独立性。
 > - **突发公共卫生事件与跨国中介协同** 在埃博拉病毒、寨卡病毒及 COVID-19 疫情期间，SMC 日夜无休向全球各大主流媒体分发数千条同行评议专家审评，成为阻断虚假医疗偏方与阴谋论传播的关键国际中介枢纽。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 系统论述了 EMC 的衍生模式、大众媒体导向型中介的制度特征及反商业操纵功能。
 
 ---
 
@@ -169,5 +170,3 @@ updated: 2026-10-26
 > | [[Responsible Conduct of Research]] | 概念 | 推动新闻发布与专家评论恪守科研诚信与[[Conflict of Interest in Research\|利益冲突]]申报规范。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 / 机构类型 | 与清算中心协同互补；清算中心提供系统综合，媒体中介提供快速舆论事实核查。 |
 > | [[Public Attitudes to Science]] | 事实 | 公众对科学家的高信任度为 SMC 凝聚权威声音、反制商业操纵提供了民意基础。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述了 EMC 的衍生模式、大众媒体导向型中介的制度特征及反商业操纵功能。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|Royal Society (2026)]] | 论证条目 | 详细梳理了 SMC 的创立背景、运行机制及其在转基因与线粒体议题中的关键成效。 |

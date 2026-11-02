@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -164,5 +164,9 @@ updated: 2026-10-30
 > | [[Teaching Assistant]] | 概念 | 核心递送人员；项目探索了由助教提供高频结构化辅导的有效性与组织边界。 |
 > | [[Response to Proven Instruction]] | 概念 | 理论归宿；在斯莱文 RTPI 三层架构中作为 Tier 3 密集辅导的代表性强证据方案。 |
 > | [[Every Student Succeeds Act]] | 事实 | 法定标准；该项目在多中心评估中达到 ESSA 强证据（Strong）标准。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源[[Document\|文献]]；将 Catch Up Numeracy 确立为反思商业测验心理计量缺陷的关键证据。 |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]] | 论证 | 来源文献；将 Catch Up Numeracy 确立为初等数学助教 1:1 密集辅导的强证据代表方案。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]] — 来源[[Document|文献]]；将 Catch Up Numeracy 确立为反思商业测验心理计量缺陷的关键证据。
+> - [[Argument_Slavin_2019_EducPsychol|Slavin, 2019]] — 来源文献；将 Catch Up Numeracy 确立为初等数学助教 1:1 密集辅导的强证据代表方案。

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -120,6 +120,7 @@ updated: 2026-10-30
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特及其团队为《比较教育学国际手册》撰写的奠基性学科史反思专章，系统总结两百年学科发端、方法演进与全球化批判前沿。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯将拉斯特团队（1999）关于主流期刊研究策略的大规模计量普查引为历史研究边缘化的核心证据来源之一，纳入对[[Historical Amnesia|学科历史健忘症]]的诊断论证。
 
 ---
 
@@ -172,5 +173,3 @@ updated: 2026-10-30
 > | [[Paulo Freire]] | 人物 | 引入弗莱雷"教育即政治"命题与批判教育学视角解构跨国资本主义霸权。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 134–135)]] |
 > | [[UNESCO]] | 事实 | 援引 UNESCO 2006 年 EFA 监测报告实证检验外部结构调整弊端与古巴主权动员典范。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 134)]] |
 > | [[Education for All]] | 事实 | 以 EFA 监测数据为经验依据，批判外部市场化强制再生产并论证主权自决的决定性意义。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 134, 137)]] |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 专章全面阐释学科发端、方法演化、理论多元主义与全球化批判分析。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 卡扎米亚斯将拉斯特团队（1999）关于主流期刊研究策略的大规模计量普查引为历史研究边缘化的核心证据来源之一，纳入对[[Historical Amnesia\|学科历史健忘症]]的诊断论证。 |

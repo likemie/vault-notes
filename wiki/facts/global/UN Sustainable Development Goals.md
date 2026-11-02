@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -254,7 +254,6 @@ updated: 2026-10-26
 > | [[SDG 4 High-Level Steering Committee]] | Fact | 统筹全球 SDG 4 政策[[Output-Oriented Governance\|循证治理]]与区域支持枢纽建设的最高跨国协调机构。 |
 > | [[South-South Cooperation]] | 概念 | SDGs 框架下获得国际合法性、推动对等互学与技术协作的新型发展合作形态。 |
 > | [[Policy Ambassador]] | 概念 | 穿梭于 SDGs 等多边平台、推动南方治理经验上升为全球旗舰方案的政策专家。 |
-> | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] | Argument | 剖析可持续发展目标等多边平台为全球南方政策经验合法化与跨国循环提供的制度化窗口。 |
 
 ---
 

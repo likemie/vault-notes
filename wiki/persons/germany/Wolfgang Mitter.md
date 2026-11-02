@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -182,4 +182,3 @@ updated: 2026-10-30
 > | [[Comparative Education Society in Europe]] | 事实 | 曾任会长，坚守跨国学者个人会员制，架设跨越冷战铁幕的东西欧学术交流桥梁。 |
 > | [[Oskar Anweiler]] | 人物 | 德国学术同盟，共同奠定战后西德东欧教育研究与 DGfE 比较分会建制。 |
 > | [[Torsten Husén]] | 人物 | 评析胡森开创的 [[IEA]] 大规模测评长期游离于欧洲比较教育学会网络之外的独立轨道现象。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 核心专著，系统提供欧洲比较教育学科演进、[[Paradigm\|范式]]更迭与制度史全景。 |

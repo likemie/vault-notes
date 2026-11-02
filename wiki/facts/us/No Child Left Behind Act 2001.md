@@ -113,7 +113,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -299,8 +299,12 @@ updated: 2026-10-30
 > | [[Danish Clearinghouse for Educational Research]] | 机构事实 | [[OECD\|经合组织]] 15 年追踪中的对照案例；缺乏类似 NCLB 的法定经常性预算保障是其 2017 年关停的主因。 |
 > | [[Student Mobility\|学生流动性]] | 概念 | NCLB 将学年中途转校率作为学校报告卡的核心指标，将其问题化为学业危机与学校失范的表征。 |
 > | [[Governmentality]] | 上位理论 | 阐释 NCLB 如何依托数字分类、空间圈禁与指标达标技术进行人口规训与治理术建构的理论透镜。 |
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 NCLB 将民权话语与新自由主义问责捆绑以跨越宪制阻力的政治经济学与[[Discourse Analysis\|话语分析]]。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入考证 NCLB 的制度逆向激励与 NCES 映射实证数据如何被政策倡导者转化为制定国家标准的政治催化剂。 |
-> | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] | 论证条目 | 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency\|证据中介机构]]跨越政党选举周期的关键制度护城河作用。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 NCLB 学校报告卡将学生流动性建构为失范指标与人口治理规训工具的机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 深入分析 NCLB 将民权话语与新自由主义问责捆绑以跨越宪制阻力的政治经济学与[[Discourse Analysis|话语分析]]。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 深入考证 NCLB 的制度逆向激励与 NCES 映射实证数据如何被政策倡导者转化为制定国家标准的政治催化剂。
+> - [[Argument_Brown_2017_EducRes|Brown et al. (2017)]] — 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency|证据中介机构]]跨越政党选举周期的关键制度护城河作用。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示 NCLB 学校报告卡将学生流动性建构为失范指标与人口治理规训工具的机制。

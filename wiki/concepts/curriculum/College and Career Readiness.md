@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -182,4 +182,8 @@ updated: 2026-10-29
 > | [[Technical Rationality]] | Concept | 将复杂多维的学生人生就绪状态简化为可度量的标准化测试指标所体现的技术理性张力。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 组织一线骨干教师对 CCR 导向的草案条文开展实操审查、确保其符合日常教学现实的工会。 |
 > | [[National Education Association]] | Fact (Organization) | 参与 CCR 语文标准审读并坚持剔除文本价值主观评判的全国教师组织。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 系统剖析 CCR 概念的演进脉络、逆向推导机制与独立验证委员会内部学术争鸣的核心文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统剖析 CCR 概念的演进脉络、逆向推导机制与独立验证委员会内部学术争鸣的核心文献。

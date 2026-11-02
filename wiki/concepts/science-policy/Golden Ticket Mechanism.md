@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -152,7 +152,8 @@ updated: 2026-10-29
 > | [[Academic Risk Aversion]] | Concept | 金券机制旨在攻坚和打破的学术界普遍风险厌恶与从众心理。 |
 > | [[Portable Fellowship]] | Concept | 与金券机制协同直接赋权青年学者打破资历壁垒的资助工具。 |
 > | [[Heilmeier Catechism]] | Instrument | 评委评估是否打出金券时所依据的本质性问题质询框架。 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对金券机制作为前沿选拔工具的系统阐述。 |
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对金券机制作为前沿选拔工具的系统阐述。

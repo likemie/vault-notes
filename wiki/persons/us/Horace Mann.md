@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ## 简介
@@ -308,7 +308,3 @@ updated: 2026-10-30
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 曼借用外国教育经验服务于本土共和建制的实践，生动体现了比较教育[[Knowledge Production\|知识生产]]因应时代政治需求而变换的普罗透斯式特征。 |
 > | [[Victor Cousin\|维克多·库森]] | 人物 | 吸纳其普鲁士报告中的师范建制与国家督导经验，作为自身赴欧考察与改革的先导。 |
 > | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述曼在跨文化影响与制度借用学术谱系中的先驱地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 126)]] |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供曼的共和教育公理、欧洲考察文本、波士顿校长大论战与合法化借用论证链的系统证据。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据曼 1844 年报告在比较教育[[Disciplinary Institutionalization\|学科制度化]]与跨文化借用传统演进中的坐标。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立曼在第一论述代际中的地位，揭示其“[[Scholiocentric Approach\|以校为中心]]”办学考察服务于立法游说与公共财政争取的政治合法化实质。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 将曼赴欧考察确立为 19 世纪主权国家专员垄断危机借用的典型案例，以此反衬当代全球教育转移格局。 |

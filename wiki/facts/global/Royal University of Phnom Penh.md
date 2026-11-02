@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -123,5 +123,9 @@ updated: 2026-10-30
 > | [[Internationalization of Higher Education]] | Concept | 金边皇家大学是战后东南亚高等教育国际化与对外援助重构的代表性案例。 |
 > | [[Neo-Tributary Perspective]] | Theory | 作为实证检验新朝贡[[Analytic Framework\|分析框架]]中经贸外交主导与高教协议虚置的核心案例[[Champ\|场域]]。 |
 > | [[ASEAN]] | Fact (Organization) | 柬埔寨国家旗舰大学作为东盟大学网络重要成员融入区域高教一体化。 |
-> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 针对金边皇家大学管理层与师生开展[[Semi-structured Interview\|半结构化访谈]]，考察高教合作项目中的新兴[[Soft Power\|软实力]]资源与校际协议形式化张力。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 针对金边皇家大学数十位校领导、院系主管及青年学者开展[[Semi-structured Interview\|半结构化访谈]]与实证剖析的代表性文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 针对金边皇家大学管理层与师生开展[[Semi-structured Interview|半结构化访谈]]，考察高教合作项目中的新兴[[Soft Power|软实力]]资源与校际协议形式化张力。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 针对金边皇家大学数十位校领导、院系主管及青年学者开展[[Semi-structured Interview|半结构化访谈]]与实证剖析的代表性文献。

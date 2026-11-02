@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -168,7 +168,6 @@ updated: 2026-10-26
 > | [[Modern Industrial Policy]] | Concept | NAPMP 作为重构关键制造供应链韧性的现代产业政策工具。 |
 > | [[National Science Foundation]] | Fact (Organization) | 提供前端新材料与物理探索、与 NAPMP 形成创新漏斗衔接的科学资助机构。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全美先进封装科技攻关的白宫协调机构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立先进封装与[[Heterogeneous Integration\|异构集成]]为国家四大战略科技目标之一。 |
 
 ---
 

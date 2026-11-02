@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -143,4 +143,8 @@ updated: 2026-10-26
 > | [[Governing by Numbers]] | Concept | 揭示 UOE 宏观统计如何成为欧洲软性治理资源的理论[[Paradigm\|范式]]。 |
 > | [[Performance Indicators]] | Concept | UOE 数据最终被提炼转化出的核心政策监测工具。 |
 > | [[Sotiria Grek]] | Person | 实证揭示 UOE 数据集支撑欧盟里斯本指标 50%–60% 份额的学者。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 UOE 数据集如何促成欧盟与经合组织跨机构治理共生的关键论证。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 UOE 数据集如何促成欧盟与经合组织跨机构治理共生的关键论证。

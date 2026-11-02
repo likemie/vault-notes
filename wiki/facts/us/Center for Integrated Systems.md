@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -142,4 +142,8 @@ updated: 2026-10-30
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 资助并在 CIS 设立半导体制造系统卓越中心的行业联合体。 |
 > | [[Sematech]] | Fact (Organization) | CIS 参与早期规划、诺伊斯后来出任首任 CEO 的半导体制造技术战略联盟。 |
 > | [[Archival Research]] | Method | 莫迪（[[Argument_Mody_2017_MOH\|Mody, 2017]]）重构 CIS 历史所使用的主要方法。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 深入剖析 CIS 组织结构、会员机制与跨界转型的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 深入剖析 CIS 组织结构、会员机制与跨界转型的核心[[Document|文献]]。

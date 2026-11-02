@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -169,4 +169,8 @@ updated: 2026-10-29
 > | [[Meta-meta-analysis]] | 综合方法 | 偏倚控制 | 二阶[[Meta-analysis\|元分析]]运用多水平艾格检验输出全领域校正后真实[[Effect Size\|效应量]]。 |
 > | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 多水平艾格回归建立在 CHE 三水平[[Random-Effects Model\|随机效应]]方差分解之上。 |
 > | [[Robust Variance Estimation]] | 推断方法 | 统计保障 | 运用 RVE 确保多水平艾格回归截距与斜率的[[Standard Error\|标准误]]保持稳健。 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 检验发现显著小研究效应（$p = .002$），并将创造力总体效应量校正为 $r = 0.17$。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 检验发现显著小研究效应（$p = .002$），并将创造力总体效应量校正为 $r = 0.17$。

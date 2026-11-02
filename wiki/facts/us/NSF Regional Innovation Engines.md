@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -172,6 +172,9 @@ updated: 2026-10-26
 > | [[Directorate for Technology, Innovation and Partnerships]] | Fact (Organization) | [[National Science Foundation\|NSF]] 设立的主管[[Research Translation\|技术转化]]、区域引擎与应用研究的新设理事会。 |
 > | [[National Science Foundation]] | Fact (Organization) | 项目的发起、组织评审与日常管理主管机构。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 同期建立的国家级前沿技术研发与劳动力卓越中心协同网络。 |
-> | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | Argument | 雷诺兹关于地方导向[[Innovation Ecosystem\|创新生态]]与[[Modern Industrial Policy\|新产业政策]]立法的实证研究。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 卓泽林关于研究型大学在国家半导体体系中通过专班与[[Pilot Scale Platform\|中试平台]]嵌入区域引擎的角色分析。 |
 
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 雷诺兹关于地方导向[[Innovation Ecosystem|创新生态]]与[[Modern Industrial Policy|新产业政策]]立法的实证研究。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 卓泽林关于研究型大学在国家半导体体系中通过专班与[[Pilot Scale Platform|中试平台]]嵌入区域引擎的角色分析。

@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -277,7 +277,6 @@ updated: 2026-10-30
 > | [[Network Governance]] | 概念 | AERO 作为国家级公私中介所体现的异层治理、特许商业分包与市场缔造形态。 |
 > | [[Relational Space]] | 概念 | AERO 与 SVA、[[Evidence for Learning\|E4L]]、Schools Plus 借助耐用材料（担保公司注册、税法修正案、因果量规）构筑的排他性防野狗围栏式关系拓扑。 |
 > | [[Co-affiliation]] | 概念 | AERO 董事会成员在美洲银行、力拓、SVA、[[Australian Philanthropic Services\|APS]] 与 EEF 之间的高频跨界任职网络。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 AERO 设立作为 SVA 十年政策游说终局与担保有限公司吸纳慈善资金的制度机制。 |
 
 ---
 

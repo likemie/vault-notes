@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -171,7 +171,6 @@ updated: 2026-10-30
 > | [[Historical Institutionalism]] | Theory | 剖析“东盟方式”与国家主权防卫传统对 CPR 制度变迁产生[[Path Dependence\|路径依赖]]的[[Theoretical Perspective\|理论视角]]。 |
 > | [[Path Dependence]] | Theory | 阐明东盟不干涉内政与协商一致传统如何锁定 CPR 的非强制性运作模式。 |
 > | [[Comparative Policy Analysis]] | Method | 对照欧盟 Coreper 与东盟 CPR 决策架构与制度效能的研究方法。 |
-> | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 系统比较 Coreper 与 CPR 运作逻辑、评估制度拟态限度的核心[[Document\|文献]]。 |
 
 ---
 

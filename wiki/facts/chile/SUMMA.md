@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -171,10 +171,6 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 教科文组织全球战略审查将 SUMMA 评为拉美首个教育创新中介实验室典范，分析其跨国政策吸收转化与政党更迭风险。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | Argument | 梳理 SUMMA 在全球教学证据生态中推进工具包西葡双语转译与本土现场试验的路径。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | Argument | 从批判政策社会学视角审视必和必拓基金会注资 SUMMA 构建风险慈善异层治理的机制。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | Argument | 批判跨国资本通过资助 SUMMA 将结构性不平等降维为循证技术干预的话语实践。 |
 > | [[BHP Foundation]] | Fact (Organization) | 提供长期专项战略慈善资助、支持建设拉美证据生态的跨国矿业资本方。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证母体机构，与 SUMMA 合作开展工具包西葡双语转译与因果评估方法输出。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Organization) | 被 SUMMA 翻译本土化为《有效教育实践平台》的核心实证证据工具箱。 |
@@ -186,3 +182,11 @@ updated: 2026-10-30
 > | [[Knowledge Mediation]] | Concept | SUMMA 承担的连接国际科研证据与本土一线政策/学校实践的中介职能。 |
 > | [[Educational Brokerage Agency]] | Concept | SUMMA 作为独立教育证据经纪机构的理论与组织属性定性。 |
 > | [[Venture Philanthropy]] | Concept | 必和必拓基金会介入 SUMMA 孵化所体现的现代跨国风险慈善模式。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 教科文组织全球战略审查将 SUMMA 评为拉美首个教育创新中介实验室典范，分析其跨国政策吸收转化与政党更迭风险。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 梳理 SUMMA 在全球教学证据生态中推进工具包西葡双语转译与本土现场试验的路径。
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 从批判政策社会学视角审视必和必拓基金会注资 SUMMA 构建风险慈善异层治理的机制。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 批判跨国资本通过资助 SUMMA 将结构性不平等降维为循证技术干预的话语实践。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -192,4 +192,3 @@ updated: 2026-10-30
 > | [[Historical-Comparative Method]] | 方法 | 扎根[[Michael Sadler\|萨德勒]]历史人文传统，强调对各民族独特文化背景与教育现实的生态化体察。 |
 > | [[1970s Methodology Debates in Comparative Education]] | 事实 | 英格兰方法论分裂的核心当事人，其规训行动与政策主张构成了该历史事件的重要剖面。 |
 > | [[Wolfgang Mitter]] | 人物 | 评析金在伦敦国王学院开辟的学术中枢及其文化主义在实证争鸣中的立场。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供金在战后英国双子学术中枢及欧洲[[Positivism\|实证主义]]论辩中的权威史学依据。 |

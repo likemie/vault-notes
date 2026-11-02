@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -157,8 +157,6 @@ updated: 2026-10-30
 > | [[PISA]] | 事实 | 似真值技术最为系统化、规模化运用的跨国评估标杆工程。 |
 > | [[National Assessment of Educational Progress]] | 事实 | 在 1980 年代率先开发并正式确立似真值技术[[Paradigm\|范式]]的国家评估体系。 |
 > | [[Educational Testing Service]] | 事实 | 阿尔伯特·贝顿（Albert Beaton）与罗伯特·米斯莱维（Robert Mislevy）等 ETS 统计学家奠定了似真值理论。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析 PISA 依托高级统计建模过滤情境[[Heterogeneity\|异质性]]、建构跨国数据治理权威的文献。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析大规模跨国测验技术规程与心理测量专家共同体合法性建构机制的文献。 |
 
 ---
 

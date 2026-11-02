@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -91,4 +91,8 @@ updated: 2026-10-30
 > | [[Computing Research Association]] | Fact (Org) | 代表大学计算机系的行业组织，与 ISAT 专家网络高度交织。 |
 > | [[DARPA Model]] | Concept | ISAT 是 [[DARPA]] 模式在信息科技领域维持敏捷敏锐度的核心制度装置。 |
 > | [[DARPA]] | Fact (Org) | ISAT 的设立、主管与资助机构。 |
-> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 记录 ISAT 在国家[[Technological Trajectories\|技术轨道]]前瞻研判中制度功能的核心文献。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 记录 ISAT 在国家[[Technological Trajectories|技术轨道]]前瞻研判中制度功能的核心文献。

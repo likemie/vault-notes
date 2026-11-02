@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （教师即时性 / 教师亲和力）
@@ -203,5 +203,9 @@ updated: 2026-10-29
 > |---|---|---|
 > | [[Feedback\|教学反馈]] | [[Construct\|构念]]混淆对立面 | 教师亲和力属于情感沟通，教学反馈属于认知纠错，二者在[[John Hattie\|哈蒂]]综合中被错误混淆。 |
 > | [[Visible Learning\|可见的学习]] | 证据审查焦点 | 威特即时性[[Meta-analysis\|元分析]]覆盖 2.4 万人，是哈蒂反馈类目下被严重误用的最大样本来源。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 批判考证来源 | 深度剖析威特元分析的构念错位，揭露其如何被哈蒂包装为虚高的反馈效应。 |
 > | [[Feedback Intervention Theory\|反馈干预理论]] | 理论互补 | FIT 关注认知注意力的层级分配，教师即时性则关注人际情感氛围的营造。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 深度剖析威特元分析的构念错位，揭露其如何被哈蒂包装为虚高的反馈效应。

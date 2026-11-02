@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -96,4 +96,8 @@ updated: 2026-10-22
 > | [[Kennisrotonde]] | 机构事实 | 同为荷兰教育[[Knowledge Mediation\|知识中介]]，两者分别代表"政策高层服务型"（停摆）与"基层实践服务型"（持续活跃）的制度两极，形成鲜明的荷兰本土对比案例。 |
 > | [[Danish Clearinghouse for Educational Research]] | 机构事实 | 与丹麦清算中心同属"依托部委合同、随政治更迭而夭折"的中介类型，共同支撑 Burns & Schuller 关于政治预算周期的核心命题。 |
 > | [[Best Evidence Synthesis]] | 机构事实 | 新西兰 BES 同样是部委嵌入型中介，其职能收缩与 Kenniskamer 停摆共同构成部委依附型中介的国际比较证据谱系。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 将 Kenniskamer 作为"部委嵌入型中介因政治人物依附而停摆"的荷兰典型案例，论证政治预算周期是中介机构高夭折率的根本驱动力。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 将 Kenniskamer 作为"部委嵌入型中介因政治人物依附而停摆"的荷兰典型案例，论证政治预算周期是中介机构高夭折率的根本驱动力。

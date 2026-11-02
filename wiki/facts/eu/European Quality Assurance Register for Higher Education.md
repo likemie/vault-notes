@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -146,4 +146,8 @@ updated: 2026-10-30
 > | [[Epistemic Infrastructure]] | Concept | EQAR 构成欧洲高等教育质量保障认识论基础设施中的核心法定注册中枢。 |
 > | [[European Education Area]] | Fact (Policy) | EQAR 质保数据直连文凭自动互认网络所服务的[[EU\|欧盟]]顶层教育战略。 |
 > | [[Commensuration]] | Concept | EQAR 通过标准注册将多元异质的国家质保资质转化为全欧等价权威。 |
-> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 深入解构 EQAR 如何从技术审查器演进为认识论基础设施政策参与者的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 深入解构 EQAR 如何从技术审查器演进为认识论基础设施政策参与者的核心[[Document|文献]]。

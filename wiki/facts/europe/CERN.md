@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -178,8 +178,6 @@ updated: 2026-10-31
 > | [[Rainer Kattel]] | Person | 深入实证分析 CERN 战略公共采购与供应链技术学习溢出机制的学者。 |
 > | [[Mariana Mazzucato]] | Person | 提炼 CERN 驱动公共动态能力与市场创造政策范式的学者。 |
 > | [[Dashun Wang]] | Person | 剖析 CERN 5,154 人超级署名与扩展团队演化拓扑的科学学家。 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | Argument | 系统论证 CERN 战略采购规程与供应链技术学习外溢效应的研究。 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wang and Barabási (2021)]] | Argument | 剖析 CERN 超级团队署名极值（5,154 人）与扩展团队规模演化规律的研究。 |
 
 ---
 

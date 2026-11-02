@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -267,7 +267,6 @@ updated: 2026-10-30
 > | [[Scaffolding]] | 概念 | 认知脚手架是将低效的纯发现转化为高效引导式发现的决定性支撑。 |
 > | [[Control of Variables Strategy]] | 概念 | 变量控制策略是检验引导式发现与直接教学长效抗遗忘差异的标杆实验任务。 |
 > | [[Computer Simulation]] | 概念 | 交互式数字模拟为学生在无风险环境中开展引导式发现提供了最优介质。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述援引 Alfieri et al. 164 项[[Meta-analysis\|元分析]]彻底澄清洗脱发现学习的纯发现污名。 |
 
 ---
 

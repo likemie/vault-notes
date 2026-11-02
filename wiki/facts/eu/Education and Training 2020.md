@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -153,4 +153,8 @@ updated: 2026-10-30
 > | [[Lisbon Strategy]] | Fact (Event) | 确立[[European Education Space\|欧洲教育空间]]与开放协调法合作传统的奠基性战略。 |
 > | [[European Commission]] | Fact (Organization) | 协调 ET 2020 日常运作并发布年度监测报告的执行机构。 |
 > | [[EU]] | Fact (Organization) | ET 2020 所属的欧洲联盟超国家政体。 |
-> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 系统比对 ET 2020 与里斯本、欧洲教育区指标演进与治理制度惯性的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 系统比对 ET 2020 与里斯本、欧洲教育区指标演进与治理制度惯性的实证[[Document|文献]]。

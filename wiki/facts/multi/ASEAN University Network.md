@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -168,4 +168,8 @@ updated: 2026-10-30
 > | [[SEAMEO RIHED]] | Fact (Organization) | 东南亚高教合作中代表主权部委权威的政府间专门中心，与 AUN 形成双轨分工。 |
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 包容汇聚 AUN 与 RIHED 既有项目的区域高教协作弹性框架。 |
 > | [[Bologna Process]] | Fact (Policy) | 欧洲全域趋同旗舰模式，AUN 与东南亚合作网络在制度设计上明确与之保持区别。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 剖析 AUN 的组织特性、治理逻辑及其在东南亚双轨竞逐模式中地位的核心[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 剖析 AUN 的组织特性、治理逻辑及其在东南亚双轨竞逐模式中地位的核心[[Document|文献]]。

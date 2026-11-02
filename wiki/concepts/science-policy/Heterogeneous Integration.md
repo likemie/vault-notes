@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -171,7 +171,6 @@ updated: 2026-10-29
 > | [[Innovation Ecosystem]] | Concept | 芯粒复用与先进封装中试共享平台为微电子初创企业提供了低门槛创新生态。 |
 > | [[National Advanced Packaging Manufacturing Program]] | Fact (Program) | 美国依据《[[CHIPS and Science Act\|芯片法案]]》设立的推进先进封装与异构集成技术研发与中试的重大国家工程。 |
 > | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全美异构集成科技布局的白宫战略协调机构。 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立三维异构集成与先进封装为四大核心战略科技目标之一。 |
 
 ---
 

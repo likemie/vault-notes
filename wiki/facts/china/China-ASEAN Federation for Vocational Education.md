@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -133,7 +133,6 @@ updated: 2026-10-30
 > | [[Belt and Road Initiative]] | Fact (Program) | 联合会开展跨国技能人才培养与互联互通的宏观战略情境。 |
 > | [[Internationalization of Vocational Education]] | Concept | 联合会旨在推进的核心现代职业教育制度化转型进程。 |
 > | [[Industry-Education Integration Community]] | Concept | 联合会所推动的实体化跨区域产教组织形态。 |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 记录联合会创设发起规模、双百计划历程及多边生态构建路径的核心[[Document\|文献]]。 |
 
 ---
 

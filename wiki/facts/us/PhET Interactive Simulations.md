@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -132,4 +132,8 @@ updated: 2026-10-30
 > | [[Direct Instruction]] | 概念 | 课堂实践广泛将 PhET 模拟探索与后续显性直接讲授相结合。 |
 > | [[Control of Variables Strategy]] | 概念 | PhET 界面中的多[[Variable\|变量]]独立滑块设计是训练变量控制策略的最优场景。 |
 > | [[Web-based Inquiry Science Environment]] | 事实 | 与 WISE 类似，均为经受大规模实证检验的标杆数字化科学教育项目。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述将 PhET 作为确立数字化仿真探究显著优于传统教学的标杆证据。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述将 PhET 作为确立数字化仿真探究显著优于传统教学的标杆证据。

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -132,4 +132,8 @@ updated: 2026-10-30
 > | [[Governing by Inspection]] | 理论 | 借督导治理理论引入斯科特国家简化以解构现代学校督察体系。 |
 > | [[Swedish Schools Inspectorate]] | 事实 | 运用斯科特国家简化理论进行微观经验剖析的典型北欧政府机构。 |
 > | [[Pluralism]] | 理论 | 斯科特竭力捍卫的反对国家一统化控制的多元性与情境多样性。 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | 论证 | 显式援引斯科特著作论证瑞典学校督导简化科学研究的实证[[Document\|文献]]。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 显式援引斯科特著作论证瑞典学校督导简化科学研究的实证[[Document|文献]]。

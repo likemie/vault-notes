@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -221,11 +221,6 @@ updated: 2026-10-30
 > | [[David C. Mowery]] | Person | 对国际高技术研发联盟进行深入比较经济学与政策分析的核心学者。 |
 > | [[Fred Block]] | Person | 深刻对比东亚集权官僚发展型国家（DBS）与美国去中心化发展型网络国家（DNS）的经济社会学家。 |
 > | [[Comparative Case Study]] | Method | 剖析美日欧产业研发联盟治理异同的核心研究设计。 |
-> | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | Argument | 系统评估日本 VLSI 研发联盟双层治理架构与共性工艺共享机制的奠基研究。 |
-> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | Argument | 结合微观晶圆厂标杆数据论证美日半导体竞争逆转与垂直专业化分工的权威文献。 |
-> | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] | Argument | 将日本 VLSI 项目定性为 20 世纪传统追赶型现代产业政策顶峰与美日贸易争端根源的研究。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨日本 VLSI 项目如何直接催生美国微电子学术中心与[[Industry Affiliate Program\|产业联盟]]同源共生的历史研究。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 比较集权 DBS 赶超与去中心化 DNS 前沿创新，揭示日本半导体挑战倒逼美国科技体制重塑的理论文献。 |
 
 ---
 

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -142,8 +142,6 @@ updated: 2026-10-29
 > | [[University-Based Research Center]] | 概念 | 接受政府种子资金孵化、以多元产业造血为存续目标的跨学科研究载体。 |
 > | [[Erich Bloch]] | 人物 | 确立十年[[Sunset Provisions\|日落条款]]、主张政府资金纯属种子引导而非永久供养的前 NSF 主任。 |
 > | [[Erica Fuchs]] | 人物 | 论证 DARPA 种子资助与项目经理[[Network Governance\|网络治理]]功能的创新政策学者。 |
-> | [[Argument_Fuchs_2010_RP\|Fuchs, 2010]] | 论证 | 剖析 DARPA 敏捷种子资助如何催化半导体光子集成技术突破的实证研究。 |
-> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004]] | 论证 | 结合 ERC 纵向数据论证种子资助配比与十年日落条款治理成效的政策史研究。 |
 
 ---
 

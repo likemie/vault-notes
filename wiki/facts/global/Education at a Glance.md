@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -171,7 +171,11 @@ updated: 2026-10-30
 > | [[Performativity]] | Concept | 指标在公开披露后自发引导和塑造国家政策行为的施为性反馈特征。 |
 > | [[Performance Indicators]] | Concept | 《教育概览》所依赖并推动成为全球教育决策通用语言的绩效指标体系。 |
 > | [[Global Education Governing Complex]] | Concept | 《教育概览》作为核心政策中介所参与编织的全球[[Educational Multilateralism\|多边教育治理]]网络。 |
-> | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] | Argument | 运用科学知识社会学与 STS 视角深度剖析《教育概览》的生产史与治理空间建构。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 论证《教育概览》作为全球北方确立数字治理范式的制度里程碑及其对 PISA 的孕育。 |
-> | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 考证《教育概览》如何奠定指标文化并倒逼经合组织催生 PISA [[Test Production\|测验研发]]。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析《教育概览》作为经合组织比较规制机制在确立欧洲与跨国循证政策转向中的事实权威建构。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用科学知识社会学与 STS 视角深度剖析《教育概览》的生产史与治理空间建构。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 论证《教育概览》作为全球北方确立数字治理范式的制度里程碑及其对 PISA 的孕育。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 考证《教育概览》如何奠定指标文化并倒逼经合组织催生 PISA [[Test Production|测验研发]]。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析《教育概览》作为经合组织比较规制机制在确立欧洲与跨国循证政策转向中的事实权威建构。
