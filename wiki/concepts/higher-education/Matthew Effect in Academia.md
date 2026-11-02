@@ -8,7 +8,7 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化并由 Wang and Barabási (2021) 拓展至科学计量与引文网络的概念，描述个体声望溢价、机构评估拨款循环及优先连接机制如何驱动学术资源与注意力持续向既有优势方集中。"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,6 +50,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: completed
 created: 2026-06-01
@@ -112,10 +113,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜学术声望在同行评审与成果传播中发挥启发式替代功能并启动累积优势
 > **探讨维度　微观个体声望与认知信号维度** 探讨学术共同体在面对海量前沿知识时，如何将学者或机构历史声誉作为成果实质质量的代用指标，分析这一认知启发式如何转化为结构性评审偏倚与成果曝光红利。
 
@@ -124,6 +121,9 @@ updated: 2026-11-02
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
 > **声望溢价的早期门槛跨越与合著截留** 针对学术评审与引文动力学的实证计量表明，学者知名度显著提高了同行评审的初审通过率，使成果迅速越过早期被引门槛；然而在多学者合作情境中，学术声望往往由资深首席科学家单一截留，青年学者在共享曝光红利的同时面临独立学术身份被消解的结构性困境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 29–33)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147–150)]]
+
+> [!claim] [[Santo Fortunato|Fortunato, S.]], et al.
+> **合作扩张下的声望截留与算法去偏基准** 福图纳托等在《科学》科学学综述中指出，随着科研团队规模持续扩张，个体学术贡献的归算难题日益凸显；成名学者在合署成果中往往分得不成比例的过多赞誉，形成强烈的马太效应；单纯依据署名位次难以还原同行认知中的真实权重，而基于拓扑共引网络的集体信誉分配算法能够客观解构学术界赋予各合作成员的实际声誉份额，为团队评价提供了去偏计算基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 
 ---
 
@@ -141,14 +141,17 @@ updated: 2026-11-02
 > [!claim] Price (1976) / [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
 > **累积优势驱动无标度生成与后发适应度赶超** [[Derek de Solla Price|普赖斯]]将马太效应数学化为累积优势分布模型，阐明既有论著未来获得引用的概率与其历史引文存量成正比，奠定了引文网络无标度肥尾的生成逻辑；[[Albert-László Barabási|巴拉巴西]]等进一步证实，尽管先发成果通过优先连接占尽早期优势，但引入表征实质创新价值的内生适应度后，具有卓越适应度的后发突破成果能够在引文轨迹上实现动态反超，确立了纯粹引文马太效应的经验边界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 185–188)]]
 
+> [!claim] [[Santo Fortunato|Fortunato, S.]], et al.
+> **学术声誉对引文速率的早期局域效应** 福图纳托等汇总引文动力学实证指出，累积学术声誉所带来的马太效应仅在成果发表初期阶段加快引文获取速度，长程长期的学术影响力终究由成果内在质量与学术价值决定，破除了单纯优先连接论决定的引文宿命论。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观认知声望溢价** | 学术知名度作为质量信号影响评审决策与引文积累，合作中声望被名家截留 | 同行评审、多学者署名、学者职业早期发展 | Merton (1968); [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] |
-> | **中观制度资源极化** | 准市场竞争与绩效拨款机制使办学资本与人才加速向头部精英大学集中 | 高等教育治理、[[Global Universities Rankings\|全球大学排名]]、科研评估体系 | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] |
-> | **宏观网络累积动力** | 优先连接机制催生引文重尾分布，而内生适应度赋予优质突破后发赶超空间 | [[Bibliometric Analysis\|科学计量学]]、引文动力学建模、学术演化分析 | Price (1976); [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] |
+> | **微观认知声望溢价** | 学术知名度作为质量信号影响评审决策与引文积累，合作中声望被名家截留，需依托算法解构真实贡献 | 同行评审、多学者署名、团队规模评价 | Merton (1968); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] |
+> | **中观制度资源极化** | 准市场竞争与绩效拨款机制使办学资本与人才加速向头部精英大学集中 | 高等教育治理、[[Global Universities Rankings|全球大学排名]]、科研评估体系 | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] |
+> | **宏观网络累积动力** | 优先连接机制催生引文重尾分布，声誉仅在初期加速获引，内生适应度赋予优质突破后发赶超空间 | [[Bibliometric Analysis|科学计量学]]、引文动力学建模、学术演化分析 | Price (1976); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] |
 
 ---
 
@@ -158,6 +161,7 @@ updated: 2026-11-02
 > - **2001 — 边康尼与巴拉巴西提出[[Bianconi-Barabási Model|适应度模型]]修正** 边康尼与巴拉巴西在优先连接中引入节点内生适应度参数，揭示内生创新质量打破先发马太效应锁定、实现后发赶超的动力学机制。
 > - **2017 — 舒尔茨-克莱文等确立制度化马太效应框架** [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]将马太效应扩展至高等教育治理，批判绩效拨款准市场对高校层级极化的制度性加剧。
 > - **2018 — Bol 等利用荷兰 NWO 全量申请数据确证资助端的马太效应** 蒂斯·博尔（Thijs Bol）等借助荷兰科学研究组织（NWO）包含未获批提议的全口径基金申请底表，利用断点回归证实微小外生资助优势引发后续 2.5 倍资金累积差距，实证确证资助系统自我强化的马太效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 243)]]
+> - **2018 — Fortunato et al. 声誉局域加速与团队信誉解构** 福图纳托等在《科学》科学学综述中汇总引文网络实证，揭示累积声望仅在成果初期加速获引，并系统引介基于拓扑共引网络的集体信誉分配算法以破解团队合著中的马太效应。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–3)]]
 > - **2021 — 科学学实证大数据全景确证** [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]系统整合双盲评审自然实验、荣誉随机赋予干预及多学科引文追踪大数据，确立了学术马太效应在认知、组织与网络维度的因果基石。
 
 ---
@@ -198,6 +202,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统梳理学术马太效应在引文动态（早期加速 vs 长程内生质量决定）与科研团队合署（声望截留与算法去偏解构）中的作用机制。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 阐释[[Quasi-markets in Higher Education|高等教育准市场]]与绩效评估机制如何推动资源向已有优势机构集中，形成制度化的学术马太效应。
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 剖析学术马太效应在[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|评审与引文门槛]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|合著声誉分配]]及[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|引文优先连接动力学]]中的多维机制与实证证据。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 援引荷兰 NWO 基金全量申请底表（Bol et al., 2018），实证揭示克服幸存者偏差后资助切分线边缘所展现的纯制度性马太效应累积规律（p. 243）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 剖析学术马太效应在[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|评审与引文门槛]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|合著声誉分配]]及[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|引文优先连接动力学]]中的多维机制，并援引荷兰 NWO 基金全量申请底表（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11, p. 243]]）揭示克服幸存者偏差后的纯制度性累积规律。

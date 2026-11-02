@@ -10,7 +10,7 @@ aliases:
 summary: "因果推断中通过构建与设想原因不存在时的潜在结果以识别真实因果效应的核心推理机制，在实证研究中依托控制组与随机分配构建无偏反事实代理"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -67,6 +67,7 @@ related_arguments:
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
 confidence: high
@@ -191,6 +192,7 @@ updated: 2026-11-02
 > - **1993 — 麦基系统化因果条件与反事实** 约翰·麦基（John L. Mackie, 1993）在《世界的隐秘结构》中深入阐述 INUS 条件与反事实检验，为社会科学因果分析提供[[Epistemology\|认识论]]工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, p. 55)]]
 > - **2002–2015 — [[Evidence-Based Education\|循证教育]]改革确立反事实实证标准** 美国成立[[What Works Clearinghouse\|有效干预清算中心]]（WWC），出台严格因果[[Evidence Standards\|证据标准]]，要求有效性主张必须基于具备同质反事实对照组的高质量 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]。
 > - **2016 — 生涯置换算法构建计算反事实零模型** [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 提出反事实生涯序列置换实验（Career Shuffling Method），在冻结学者年发文速率 $n(t)$ 与总量的同时随机打乱代表作发表时序，构建完全剔除时间效应的反事实基线，确证青年期突破聚集由发文生产力驱动而非创造力衰退。
+> - **2018 — 科学学反事实置换与终身创造力共识** 福图纳托等在《科学》科学学综述中汇总多学科生涯反事实序列置换实证，指出控制各时期发文速率后的反事实检验表明终身重大突破概率恒定，排除了年龄或认知生理机能退化的决定论假说。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **2019 — 斯莱文推进整群生态反事实与规模化标准** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结三十年循证改革经验，强调全校改革必须在真实学校生态中进行[[Cluster Randomized Trials\|整群随机试验]]，以常规教学（[[Business as Usual\|BAU]]）为反事实基准，并结合 [[Hierarchical Linear Model\|HLM]] 纠正层级嵌套偏倚。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–27)]]
 > - **2021 — 科学学断点准实验反事实与因果识别深化** 王大顺与巴拉巴西基于微观计量因果革命，梳理利用国家卫生研究院资助线行政截断建立断点准实验（RDD）以构建外生反事实的机制，并利用研讨会面对面随机分配（RCT）构建知识合作的反事实对照，实证揭示微观确定性反事实与宏观通用性之间的效度边界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–251)]]
 
@@ -232,6 +234,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中评述科研生涯反事实序列置换分析，揭示控制发文速率后的终身突破概率均等机制，破除青年创造力衰退迷思。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出反事实生涯置换实验，在严格控制发文量与时间序列的前提下构建计算反事实零模型，实证剥离发文生产力与创造力生命周期动力学。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 结合资助截断点准实验（RDD）与学术研讨会随机分组（RCT），实证阐述外生反事实代理的构建机制及微观确定性与宏观推广性张力（pp. 243–251）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。

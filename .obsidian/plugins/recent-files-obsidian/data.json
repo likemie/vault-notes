@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Sinatra_2016_Science",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
@@ -9,20 +13,20 @@
       "path": "wiki/templates/template-argument-monograph.md"
     },
     {
-      "basename": "Argument_Sinatra_2016_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
-    },
-    {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
       "basename": "Argument_Liu_2023_NHB",
       "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
     },
     {
       "basename": "Argument_Fortunato_2018_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+    },
+    {
+      "basename": "Argument_Arnove_2009_WorldSystems",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+    },
+    {
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
@@ -83,10 +87,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
-    },
-    {
-      "basename": "Argument_Arnove_2009_WorldSystems",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
     },
     {
       "basename": "Cowen(Ed.)_2009_Springer",

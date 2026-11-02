@@ -439,6 +439,14 @@
     {
       "sentence": "理论工具箱将海量文献计量指标由表层描述提升为对底层自组织演化机制的数理阐释。",
       "target": "wiki/concepts/research-methodology/Document.md"
+    },
+    {
+      "sentence": "contrast-table] 科研团队规模与创新生态位分工（Wu et al., 2019; Milojević, 2014）",
+      "target": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+    },
+    {
+      "sentence": "**38%** 团队相比独立学者将全新异质构件组合引入成熟知识领域的相对概率增幅。",
+      "target": "wiki/concepts/curriculum/Areas of Knowledge.md"
     }
   ]
 }

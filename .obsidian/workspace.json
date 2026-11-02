@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -298,35 +298,36 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9f6a7b58150da48c",
+  "active": "a2aa5f6545a9eecb",
   "lastOpenFiles": [
-    "tmp/callout-refinement/index-restore-baseline.html",
-    "wiki/templates/template-argument-monograph.md",
-    "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
-    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-003/result.json",
-    "tmp/callout-refinement/textbook-inspect/report.json",
-    "tmp/callout-refinement/textbook-inspect/mobile-page-01.jpg",
-    "tmp/callout-refinement/textbook-inspect/mobile-fold.jpg",
-    "tmp/callout-refinement/textbook-inspect/tablet-page-01.jpg",
-    "tmp/callout-refinement/textbook-lint.log",
-    "tmp/callout-refinement/textbook-inspect/tablet-fold.jpg",
-    "tmp/callout-refinement/textbook-dark-390.png",
-    "tmp/callout-refinement/textbook-inspect/desktop-page-01.jpg",
-    "tmp/callout-refinement/textbook-dark-768.png",
-    "tmp/callout-refinement/textbook-inspect/desktop-fold.jpg",
-    "tmp/callout-refinement/textbook-dark-1440.png",
-    "tmp/callout-refinement/textbook-light-390.png",
-    "tmp/callout-refinement/textbook-inspect",
-    "tmp/callout-refinement/textbook-inspect.log",
-    "tmp/callout-refinement/textbook-index.log",
-    "tmp/callout-refinement/textbook-check.log",
-    "tmp/callout-refinement/textbook-check.mjs",
-    "tmp/callout-refinement/textbook.html",
-    "tmp/callout-refinement/textbook-preview.py",
+    "tmp/callout-refinement/textbook-larger-lint.log",
+    "tmp/callout-refinement/textbook-larger-index.log",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
-    "wiki/templates/template-argument-textbook.md",
+    "tmp/callout-refinement/textbook-larger-check.log",
+    "tmp/callout-refinement/components-compact-lint.log",
+    "tmp/callout-refinement/components-compact-dark-390.png",
+    "tmp/callout-refinement/components-compact-dark-768.png",
+    "tmp/callout-refinement/components-compact-dark-1440.png",
+    "tmp/callout-refinement/components-compact-light-390.png",
+    "tmp/callout-refinement/components-compact-light-768.png",
+    "tmp/callout-refinement/components-compact-light-1440.png",
+    "tmp/callout-refinement/components-compact-index.log",
+    "tmp/callout-refinement/components-compact-check.log",
+    "tmp/callout-refinement/components-compact-check.mjs",
+    "tmp/callout-refinement/components-compact.html",
+    "wiki/templates/template-argument-monograph.md",
+    "tmp/callout-refinement/components-compact-preview.py",
     "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+    "tmp/callout-refinement/textbook-neutral-dark.png",
+    "tmp/callout-refinement/textbook-neutral-light.png",
+    "tmp/callout-refinement/textbook-neutral-check.log",
+    "tmp/callout-refinement/textbook-neutral-check.mjs",
+    "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
     "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
+    "tmp/callout-refinement/compact-prop-tension-dark-390.png",
+    "tmp/callout-refinement/compact-prop-tension-dark-768.png",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
+    "wiki/templates/template-argument-textbook.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_第4至6页_校对版.md",
     "wiki/methods/quantitative/Relative Citation Normalization.md",
@@ -345,7 +346,6 @@
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-002/prompt.md",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-003/prompt.md",
     "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_第1至3页_校对版.md",
-    "wiki/persons/canada/Jane Knight.md",
     "未命名.canvas"
   ]
 }
