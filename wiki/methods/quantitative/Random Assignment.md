@@ -11,7 +11,7 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-31'
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -234,5 +234,5 @@ updated: 2026-10-31
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应[[Class Size|班级规模]]随机分配实验的政策争议，论证仅靠随机化调整物理班额而不变革教学方法无法带来理想的教育产出比。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 详尽剖析英国就业与养老金部（DWP）如何跨国引入美国 [[MDRC]] 研发的随机分配技术，并开展英国社会政策史上最大规模的就业保留与晋升（ERA）随机对照评估（pp. 342–343）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 评述哈佛医学院研讨会利用随机分组分配面对面研讨，严格平衡科学家未观测混杂特征并证实合作概率相对净增 75% 的实地实验设计（pp. 249–250）。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将随机分配定位为科学学因果推断工具箱中检验微观机制的最高效度方法，综述通过实验室双盲简历操纵（Moss-Racusin et al., 2012）检验学术招聘性别偏见、以及通过田野随机对照试验（Boudreau et al., 2017）与部分随机化资助（OSTP/UK Metascience Unit）评估科研资助机制成效的代表性应用（pp. 333–350）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 综述科学学中以双盲简历实验检验招聘性别偏见、以田野 RCT（Boudreau et al., 2017）和部分随机化资助评估科研机制成效的因果实验范式（pp. 333–350）。
 

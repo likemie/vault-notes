@@ -20170,10 +20170,12 @@
     "Rosenbaum & Rubin, 1983": "Rosenbaum & Rubin, 1983",
     "Rosenbaum (1983)": "Rosenbaum, 1983",
     "Rosenbaum (1990)": "Rosenbaum, 1990",
+    "Rosenbaum (2010)": "Rosenbaum, 2010",
     "Rosenbaum et al. (2010)": "Rosenbaum et al., 2010",
     "Rosenbaum et al., 2010": "Rosenbaum et al., 2010",
     "Rosenbaum, 1983": "Rosenbaum, 1983",
     "Rosenbaum, 1990": "Rosenbaum, 1990",
+    "Rosenbaum, 2010": "Rosenbaum, 2010",
     "Rosenberg (1963)": "Rosenberg, 1963",
     "Rosenberg (2005)": "Rosenberg, 2005",
     "Rosenberg, 1963": "Rosenberg, 1963",
@@ -48273,7 +48275,8 @@
         "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/External Validity.md",
-        "wiki/concepts/research-methodology/Internal Validity.md"
+        "wiki/concepts/research-methodology/Internal Validity.md",
+        "wiki/methods/quantitative/Random Assignment.md"
       ],
       "title": "Looking across and looking beyond the knowledge frontier: Intellectual distance, simplicity, and resource allocation in science"
     },
@@ -128958,7 +128961,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/methods/quantitative/Causal Modeling.md"
+        "wiki/methods/quantitative/Causal Modeling.md",
+        "wiki/methods/quantitative/Matching.md"
       ],
       "title": ""
     },
@@ -130463,7 +130467,8 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
         "wiki/concepts/research-methodology/Threats to External Validity.md",
         "wiki/concepts/research-methodology/Threats to Internal Validity.md",
-        "wiki/methods/quantitative/Ex Post Facto Research.md"
+        "wiki/methods/quantitative/Ex Post Facto Research.md",
+        "wiki/methods/quantitative/Matching.md"
       ],
       "title": ""
     },
@@ -174036,6 +174041,21 @@
       ],
       "title": ""
     },
+    "Rosenbaum, 2010": {
+      "aliases": [
+        "Rosenbaum, 2010",
+        "Rosenbaum (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rosenbaum, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Matching.md"
+      ],
+      "title": ""
+    },
     "Rosenberg, 1963": {
       "aliases": [
         "Rosenberg, 1963",
@@ -187942,6 +187962,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/methods/quantitative/Matched Pairs Design.md",
+        "wiki/methods/quantitative/Matching.md",
         "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",
         "wiki/methods/quantitative/Random Assignment.md",
         "wiki/methods/quantitative/True Experimental Design.md"
