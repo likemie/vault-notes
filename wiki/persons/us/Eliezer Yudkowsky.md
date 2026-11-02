@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -107,8 +107,6 @@ updated: 2026-10-22
 
 > [!person-network] 关系网络
 > - **学术论敌** [[Alexander Karp]] & [[Nicholas Zamiska]] — 批判尤德考夫斯基的极端停滞主义，主张通过全速推进防务 AI 维系地缘均势。
-> - **核心合作机构** 机器智能研究院（MIRI） — 长期学术研究大本营。
-> - **关键历史事件** [[Pause Giant AI Experiments Open Letter]] — 2023 年公开信的核心辩论参与者与更激进立场的提出者。
 
 ---
 
@@ -128,3 +126,4 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Artificial General Intelligence]] | 概念 | 探讨失控性超级智能的对齐理论与存在性风险。 |
 > | [[Pause Giant AI Experiments Open Letter]] | 历史事件 | 2023 年呼吁叫停前沿模型研发的公开信辩论中的激进主张者。 |
+> | 机器智能研究院（MIRI） | 组织 | 长期学术研究大本营。 |

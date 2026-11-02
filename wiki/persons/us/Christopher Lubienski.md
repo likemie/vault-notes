@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -125,8 +125,6 @@ updated: 2026-10-30
 > - **理论对话** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski 思想市场理论与中介双刃剑论述，用于构建全球教育政策[[Output-Oriented Governance|循证治理]]框架。
 > - **合著伙伴** Sarah Lubienski — 长期合著者，共同开展大规模公私立学校学业表现量化检验。
 > - **合著伙伴** H. Malin — 合作提出“信息孤岛”概念，剖析数字时代证据过剩引发的认知割裂。
-> - **机构／运动／项目** [[Thomas B. Fordham Institute]] — Lubienski 重点实证解剖的保守派教育智库案例。
-> - **国际组织** [[OECD]] 与 [[World Bank|世界银行]] — 其研究指出在高度极化的信息孤岛环境中，此类国际组织凭借统计声誉充当少数公认的信息仲裁者。
 
 ---
 
@@ -139,3 +137,6 @@ updated: 2026-10-30
 > | [[Educational Brokerage Agency]] | 概念 | 指出中介机构推销去情境化方案对政策决策客观性造成的潜在扭曲。 |
 > | [[School Choice]] | 概念 | 开展大规模量化比较，实证挑战新自由主义择校制度提高学业成绩的理论预设。 |
 > | [[Gita Steiner-Khamsi]] | 人物 | 其关于思想市场与中介机构的分析被后者直接整合进联合国教科文组织政策循证战略审查。 |
+> | [[Thomas B. Fordham Institute]] | 组织 | Lubienski 重点实证解剖的保守派教育智库案例。 |
+> | [[OECD]] | 组织 | 其研究指出在高度极化的信息孤岛环境中，此类国际组织凭借统计声誉充当少数公认的信息仲裁者。 |
+> | [[World Bank\|世界银行]] | 组织 | 其研究指出在高度极化的信息孤岛环境中，此类国际组织凭借统计声誉充当少数公认的信息仲裁者。 |

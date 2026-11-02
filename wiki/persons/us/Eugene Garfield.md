@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -111,7 +111,6 @@ updated: 2026-10-31
 > [!person-network] 关系网络
 > - **合作同行** [[Derek de Solla Price]] — 普赖斯依托加菲尔德与谢尔整理的引文数据发现引文网络幂律分布。
 > - **技术合著者** Irving H. Sher — 共同研发早期的自动引文计算系统并清洗大规模科技引文数据。
-> - **创办机构** 科学信息研究所（Institute for Scientific Information, ISI） — 科学引文索引与期刊引证报告的诞生地。
 
 ---
 
@@ -141,3 +140,4 @@ updated: 2026-10-31
 > | [[Universality of Citation Distributions]] | 理论 | 基于 Web of Science 大样本跨学科验证相对引文归一化与对数正态坍缩规律。 |
 > | [[Bibliometric Analysis]] | 方法 | 建立基于结构化引文链接的大规模量化文献计量分析技术体系。 |
 > | [[Journal Impact Factor]] | 方法 | 创设用于度量期刊学术影响力的期刊影响因子测算体系。 |
+> | 科学信息研究所（Institute for Scientific Information, ISI） | 组织 | 科学引文索引与期刊引证报告的诞生地。 |

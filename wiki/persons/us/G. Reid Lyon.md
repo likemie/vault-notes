@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -114,7 +114,6 @@ updated: 2026-10-26
 > - **政商联盟伙伴** 罗伯特·斯威特（Robert Sweet）— 国会高级幕僚兼全国正确阅读基金会主席，连接出版商与委员会。
 > - **学术论敌** [[Ken Goodman]] — [[Whole Language|全语言]]运动先驱，严厉批判里昂借国家权力抹杀阅读人文性与教师自主权。
 > - **学术论敌** [[Patrick Shannon]] — 批判读写教育学者，揭露里昂主导的铁三角商业寻租闭环。
-> - **领导机构** [[National Institute of Child Health and Human Development]] — 其长期任职并施展政策影响力的联邦官僚中枢。
 
 ---
 

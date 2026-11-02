@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -91,7 +91,6 @@ updated: 2026-10-26
 > [!person-network] 关系网络
 > - **学术同行** [[Carlos Frenk]] — 2026年《科学为社会》报告指导委员会联席主席，承续并更新 1985 年[[Bodmer Report 1985\|博德默尔报告]]的议题。
 > - **学术同行** [[Sheila Rowan]] — 2026年《科学为社会》报告指导委员会联席主席。
-> - **关联政策报告** [[Bodmer Report 1985]] — 瓦尔特·博德默尔主持撰写的核心制度文本。
 
 ---
 

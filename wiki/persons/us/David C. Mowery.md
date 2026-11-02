@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -153,8 +153,6 @@ updated: 2026-10-26
 > [!person-network] 关系网络
 > - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
 > - **研究合作者** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
-> - **重要机构／政策平台** [[National Academy of Sciences]]、[[National Research Council]]、[[OECD]]、[[DARPA]] — 长期承担国家科技政策咨询与评估工作。
-> - **关联研发事实与法案** [[Sematech]]、[[VLSI Project]]、[[ESPRIT]]、[[Bayh-Dole Act of 1980]] — 其经验研究与理论批判的核心实证载体。
 
 ---
 
@@ -202,5 +200,8 @@ updated: 2026-10-26
 > | [[ESPRIT]] | 事实 | 比较欧洲跨国合作计划与美国本土[[Industry Affiliate Program\|产业联盟]]在技术溢出与行政交易成本上的制度分化。 |
 > | [[DARPA]] | 事实 | 剖析军民两用研发资助、早期国防采购拉动与联盟配套补贴的协同机制。 |
 > | [[Bayh-Dole Act of 1980]] | 事实 | 展开长期历史计量评估，破除单一法案创造大学专利繁荣的[[Rationalized Myth\|制度神话]]。 |
+> | [[National Academy of Sciences]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
+> | [[National Research Council]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
+> | [[OECD]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
 
 ---

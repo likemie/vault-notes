@@ -40,7 +40,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -90,7 +90,6 @@ updated: 2026-10-30
 > - **工程合作者** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
 > - **政治盟友／辩护者** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在公案中坚定捍卫里科弗战功。
 > - **批评者／行政上级** 约翰·[[Harvey C. Lehman|莱曼]]（John Lehman）— 海军部长，在 1980 年代初主导对里科弗的合规审查。
-> - **任职机构与主导工程** [[USS Nautilus Submarine Development]] — 领导研制世界首艘核潜艇“鹦鹉螺号”；美国海军核动力局（Naval Reactors）。
 
 ---
 
@@ -111,3 +110,4 @@ updated: 2026-10-30
 > | [[Engineering Mindset]] | 概念 | 代表了打破[[Red Tape\|繁文缛节]]、直面物理规律与实战交付的极致工程领袖[[Paradigm\|范式]]。 |
 > | [[Scapegoat Mechanism]] | 概念 | 晚年遭遇合规公审成为体制通过替罪羊机制牺牲异类实干家的经典案例。 |
 > | [[USS Nautilus Submarine Development]] | 事实 | 亲自指挥并领导研制世界首艘核动力潜艇鹦鹉螺号。 |
+> | 美国海军核动力局（Naval Reactors） | 组织 | 任职机构与主导工程。 |

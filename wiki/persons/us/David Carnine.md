@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -105,7 +105,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **思想合作者** Siegfried Engelmann — [[Direct Instruction|直接教学]]法的创立伙伴。
-> - **政策与出版平台** [[Thomas B. Fordham Institute]] — 资助并出版其医学比附核心报告的保守派智库。
 > - **思想借用者** [[John Hattie]] — 在《可见学习》核心章节引用其论断，将教学定性为不成熟职业，为主导式循证技术辩护。
 > - **学术批判者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]; [[Stephen Ball]] — 严厉批判其比附医学的虚妄性，揭示其贬低基层[[Teacher Professional Agency|教师专业自主权]]的去专业化后果。
 

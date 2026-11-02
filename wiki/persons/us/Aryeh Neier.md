@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -92,7 +92,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **思想共鸣者** [[Pauli Murray]] — 同样主张即使面对极端种族主义者也不应因防范冲突而剥夺其宪法表达权利。
 > - **分析与对话者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第 5 章中将内尔树立为具有“[[Hard Belief|硬信念]]”与智识勇气的领袖典范。
-> - **关键历史事件** [[Skokie Free Speech Case]] — 1977 年斯科基案核心法律辩护者与决策者。
 
 ---
 

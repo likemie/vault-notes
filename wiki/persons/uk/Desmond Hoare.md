@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -108,8 +108,8 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Founding of Atlantic College\|大西洋学院创办]] | 事件 | |
-> | 1962 年大西洋学院课程方案 | 项目 | |
+> | [[Founding of Atlantic College\|大西洋学院创办]] | 事件 | 创校事件。 |
+> | 1962 年大西洋学院课程方案 | 项目 | 课程制度。 |
 > | [[United World Colleges]] | 组织 | 霍尔支持低成本及地方适应的成员扩展方向。[[Argument_Peterson_1987_OpenCourt_Ch08\|(Peterson, 1987, pp. 209–210)]] |
 
 > [!evidence-grid] [[Document|文献]]与论证索引

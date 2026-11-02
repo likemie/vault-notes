@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -139,7 +139,6 @@ updated: 2026-10-31
 > - **指导学者与合作网络** [[Dashun Wang]] — 博士毕业生与长期紧密合作学者，二人共同撰写《科学学》专著并主导当代科学学实证研究；[[Hua-Wei Shen]] — 复杂网络研究中心访问学者，合作提出多学者团队集体声誉分配算法。
 > - **学术对话与同行研讨** [[Jorge E. Hirsch]] — 深入检验并拓展希尔施 h 指数理论模型，提出基于引文跨越效应与团队合署的修正方案。
 > - **理论渊源** [[Derek de Solla Price]] — 继承并深化普赖斯关于科学[[Document|文献]]指数激增与学术累积优势的经典命题。
-> - **核心数据基座** [[Microsoft Academic Graph]] — 依托其百亿级异构引文网络支撑 Q 模型拟合与科学学实证检验。
 
 ---
 
@@ -159,3 +158,4 @@ updated: 2026-10-31
 > | [[WSB Model]] | 理论 | 与王大顺、宋超明提出融合优先连接、时效衰减与内在适应度的单篇成果引文动力学预测模型。 |
 > | [[Collective Credit Allocation Algorithm]] | 方法 | 与沈华伟合作提出基于共引拓扑的团队合署成果集体声誉分配算法。 |
 > | [[h-Index]] | 方法 | 建立 h 指数增长解析动力学模型，厘清其在不同学科与职业生涯中的[[Predictive Validity\|预测效度]]。 |
+> | [[Microsoft Academic Graph]] | 项目 | 依托其百亿级异构引文网络支撑 Q 模型拟合与科学学实证检验。 |

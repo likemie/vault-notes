@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -73,6 +73,7 @@ updated: 2026-10-30
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
 > | 方法 | [[Improvement Science\|改进科学]] | 系统化移植并构建教育改进[[Scientific Method\|科学方法]]论体系，关注系统视角与跨情境变异性。 |
+> | 组织 | Carnegie Foundation for the Advancement of Teaching | Bryk 长期出任主席并践行改进科学的基地。 |
 
 ---
 
@@ -123,7 +124,6 @@ updated: 2026-10-30
 > - **合作者** 艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
 > - **合作者** 保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合著者。
 > - **重构／整合者** 阿梅莉亚·彼得森（[[Amelia Peterson]]） — 提出[[Mechanism Experiments\|机制实验]]与[[Improvement Science\|改进科学]]网络化组织的双向互补整合方案（什么有效 2.0）。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])
-> - **机构** Carnegie Foundation for the Advancement of Teaching — Bryk 长期出任主席并践行改进科学的基地。
 
 ---
 

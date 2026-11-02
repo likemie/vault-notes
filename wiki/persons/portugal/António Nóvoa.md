@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -186,7 +186,7 @@ updated: 2026-10-30
 > | [[Performance Indicators]] | 概念 | 治理工具分析；阐明指标基准线如何作为软法手段推动成员国政策趋同。 |
 > | [[Governmentality]] | 理论 | 理论框架；运用福柯治理术视角分析超国家教育政策的自我规训逻辑。 |
 > | [[Social Cartography]] | 方法 | 知识制图；探索比较教育学科权力的空间分布与再现逻辑。 |
-> | 里斯本大学 | 组织 | |
-> | 日内瓦大学 | 组织 | |
-> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 组织 | |
-> | [[UNESCO\|联合国教科文组织]] | 组织 | |
+> | 里斯本大学 | 组织 | 机构与项目。 |
+> | 日内瓦大学 | 组织 | 机构与项目。 |
+> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 组织 | 机构与项目。 |
+> | [[UNESCO\|联合国教科文组织]] | 组织 | 机构与项目。 |

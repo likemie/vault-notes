@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -147,7 +147,6 @@ updated: 2026-10-30
 > - **思想渊源** 卡尔·波兰尼（Karl Polanyi） — 提出虚构商品与双重运动理论，布洛克将其扩展至知识产权异化批判与当代[[Market Fundamentalism|市场原教旨主义]]分析。
 > - **批评者／对话者** 米尔顿·弗里德曼（Milton Friedman） — 自由市场芝加哥学派代表人物，布洛克将其《自由选择》中否认国家资助科学正当性的论述作为[[Market Fundamentalism|市场原教旨主义]]教条的典型靶子予以剖析。
 > - **理论修正者** [[Erica Fuchs]] — 继承其 DNS [[Analytic Framework|分析框架]]，但修正了其将公共代理人视为消极中介撮合者的视角，论证了国家主动引导[[Technological Trajectories|技术轨道]]的研判效能。
-> - **机构／运动／项目** [[DARPA]]、[[SBIR and STTR Programs]]、[[Advanced Technology Program]]、[[Ministry of International Trade and Industry]] — 布洛克剖析美国网络型国家运行机制与东亚[[Bureaucracy|科层制]]对照的标志性机构。
 
 ---
 
@@ -158,3 +157,14 @@ updated: 2026-10-30
 > >
 > > - **民主问责批判派** 指出隐形国家缺乏公众知情与国会常态监督，导致研发红利被私营寡头攫取而公共卫生与清洁能源等社会紧迫议题长期得不到充分资源配置。[[Argument_Block_2008_PS|(Block, 2008, pp. 193–195)]]
 > > - **实用主义官僚派** 认为在反政府意识形态根深蒂固的政治生态中，唯有保持低调与军用掩护，关键高风险共性技术计划才能在更迭频繁的选举周期中免遭保守派预算绞杀而幸存。[[Argument_Block_2008_PS|(Block, 2008, pp. 182–186)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[DARPA]] | 组织 | 布洛克剖析美国网络型国家运行机制与东亚[[Bureaucracy\|科层制]]对照的标志性机构。 |
+> | [[SBIR and STTR Programs]] | 项目 | 布洛克剖析美国网络型国家运行机制与东亚[[Bureaucracy\|科层制]]对照的标志性机构。 |
+> | [[Advanced Technology Program]] | 项目 | 布洛克剖析美国网络型国家运行机制与东亚[[Bureaucracy\|科层制]]对照的标志性机构。 |
+> | [[Ministry of International Trade and Industry]] | 组织 | 布洛克剖析美国网络型国家运行机制与东亚[[Bureaucracy\|科层制]]对照的标志性机构。 |

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -160,7 +160,6 @@ updated: 2026-10-30
 > - **改革盟友** [[Horace Mann]] — 同为新英格兰出身的[[Common School Movement\|公学运动]]领袖，曼的《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》在论证普鲁士师资卓越性时深受斯托早期报告的启发与呼应。
 > - **同道学者** [[Henry Barnard]] — 共同在全美推动各州公立学校立法与专业教育杂志创办，分享关于欧洲教育制度的客观记述资料。
 > - **思想共鸣者** [[Victor Cousin]] — 斯托与库森同样深入考察了普鲁士 1819 年教育法案草案与初等学校，并同样致力于将普鲁士经验转化为母国的初等教育立法实践。
-> - **社会改革运动** [[Common School Movement]] — [[Report on Elementary Public Instruction in Europe\|斯托报告]]构成了美国公学运动在中西部边疆各州生根发芽的核心法理武器。
 
 ---
 

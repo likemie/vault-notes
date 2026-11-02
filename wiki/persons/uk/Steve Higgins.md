@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -153,6 +153,6 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Education Endowment Foundation]] | 组织 | |
-> | [[Sutton Trust]] | 组织 | |
-> | 杜伦大学教育学院 | 组织 | |
+> | [[Education Endowment Foundation]] | 组织 | 依托机构与平台。 |
+> | [[Sutton Trust]] | 组织 | 依托机构与平台。 |
+> | 杜伦大学教育学院 | 组织 | 依托机构与平台。 |

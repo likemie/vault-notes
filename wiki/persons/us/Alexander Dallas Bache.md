@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -93,7 +93,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术先驱** [[Victor Cousin]] — 贝奇赴欧考察深受库森 1831 年普鲁士报告英译本的直接启发。
 > - **[[Common School Movement|公学运动]]同侪** [[Calvin Stowe]]、[[Horace Mann]]、[[Henry Barnard]] — 共同构成 1830–1850 年代美国公共教育奠基期欧陆考察“四大家”。
-> - **依托机构** 吉拉德学院（Girard College）、[[National Academy of Sciences|美国国家科学院]]（NAS）。
 
 ---
 
@@ -104,3 +103,5 @@ updated: 2026-10-22
 > | [[Education in Europe]] | 事实 | 贝奇 1839 年出版的奠基性欧洲考察报告。 |
 > | [[Common School Movement]] | 事实 | 贝奇报告为美国公共学校运动提供了详实的实证档案支撑。 |
 > | [[Influences Across Cultures]] | 概念 | 示范了自然科学家如何以严密方法开展[[Intercultural Education\|跨文化教育]]制度考察。 |
+> | 吉拉德学院（Girard College） | 组织 | 依托机构。 |
+> | [[National Academy of Sciences\|美国国家科学院]]（NAS） | 组织 | 依托机构。 |

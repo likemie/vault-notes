@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -178,7 +178,6 @@ updated: 2026-10-30
 > - **跨国量化学派与哥大后继者** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein） 共同执教于哥伦比亚大学师范学院，在其经验归纳框架基础上，进一步推进大[[Sample Size Determination\|样本量]]化测量、严格控制[[Variable\|变量]]与假设检验的实证[[Scientific Paradigm\|科学范式]]。
 > - **[[Structural Functionalism|结构功能主义]]学派对照** C. [[C. Arnold Anderson\|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster\|菲利普·福斯特]]（Philip Foster） 芝加哥学派代表人物，主张探寻超越时空的恒常制度法则，与贝雷迪立足人文历史与地理视角的归纳法形成学术张力。
 > - **[[Situative Perspective\|情境主义]]论辩者** [[Edmund King\|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期论辩，金主张情境化解释，质疑跨国普遍分类法则。
-> - **机构与组织** [[Comparative and International Education Society\|CIES]]（早期会长、创办《比较教育评论》并设立乔治·贝雷迪奖）、哥伦比亚大学师范学院。
 
 ---
 
@@ -209,3 +208,4 @@ updated: 2026-10-30
 > | [[Academic Iconography]] | 概念 | 考恩借其指出学界沉溺于对关键学者的传奇魅力与表面声望崇拜，缺乏深层批判史学评传的典型解构案例。 |
 > | [[Problem Approach]] | 方法 | 贝雷迪倡导的归纳四步程序，成为[[Brian Holmes\|布莱恩·霍姆斯]]建构反归纳演绎问题法时正面反思与批评的代表性理论靶标。 |
 > | [[Comparative and International Education Society]] | 事实 | 担任早期会长并创办学会旗舰期刊 CER，确立同行评审规范并设立纪念其卓越学术贡献的乔治·贝雷迪奖。 |
+> | 哥伦比亚大学师范学院 | 组织 | 机构与组织。 |

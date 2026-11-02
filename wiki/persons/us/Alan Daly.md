@@ -116,7 +116,6 @@ updated: 2026-11-02
 > - **重要合作者** [[Chris Brown]] — 长期开展跨国合作，共同开发了测度学校证据知情文化与关系网络的基线[[Questionnaire\|问卷]]及系列实证研究。
 > - **实证合作者** [[Toby Greany]] — 共同在英格兰[[Self-Improving School System\|自我改进学校系统]]与 [[Research Learning Communities\|RLC]] 项目中探讨校际横向伙伴关系与证据流动。
 > - **学术合作者** 卡拉·芬尼根（Kara S. Finnegan） — 长期合作运用[[Network Analysis\|社会网络分析]]研究美国学区改革与问责制度影响。
-> - **核心实证项目** [[Research Learning Communities]] — 负责其基线问卷设计与跨校证据社会网络测评。
 
 ---
 

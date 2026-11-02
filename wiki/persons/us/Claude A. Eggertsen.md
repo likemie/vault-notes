@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -115,7 +115,6 @@ updated: 2026-10-30
 > - **学术导师与思想前辈** [[Isaac Kandel]]、[[Robert Ulich]] — 埃格特森的人文历史主义传统在学脉上深契坎德尔、乌利希开创的欧陆历史-哲学进路。
 > - **学生与学脉继承者** [[Val D. Rust]] — 埃格特森在密歇根大学指导的博士生，后成为 UCLA 比较教育学讲座教授及学科领军人物。
 > - **同侪合作者** [[William H. Payne]]（密歇根教席先驱）、[[William W. Brickman|威廉·布里克曼]]（William W. Brickman） — 在密歇根与全美比较教育学界共同捍卫史学传统的学术战友。
-> - **依托机构** 密歇根大学（University of Michigan）、[[Comparative and International Education Society|比较与国际教育学会]]（CIES）。
 
 ---
 
@@ -131,3 +130,5 @@ updated: 2026-10-30
 > | [[Influences Across Cultures]] | 概念 | 将历史跨文化影响考证从单国史学升华为全球比较[[Paradigm\|研究范式]]。 |
 > | [[Scientific Paradigm]] | [[Epistemology\|认识论]] | 在战后实证量化霸权下捍卫历史主义与质性理解的独特学术价值。 |
 > | [[Historical-Comparative Method]] | 方法 | 示范了如何将传统严谨的档案考据法运用于跨国制度变异探究。 |
+> | 密歇根大学（University of Michigan） | 组织 | 依托机构。 |
+> | [[Comparative and International Education Society\|比较与国际教育学会]]（CIES） | 组织 | 依托机构。 |

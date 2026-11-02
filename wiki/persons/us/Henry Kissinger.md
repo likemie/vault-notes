@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -123,8 +123,6 @@ updated: 2026-10-26
 > - **学生／继承者** Brent Scowcroft — 门生与国家安全事务助理继承者，延续现实主义温和派路线。
 > - **深度互信者** [[Lee Kuan Yew]] — 终生学术与战略挚友，高度互鉴领袖治理艺术与小国生存哲学。
 > - **批评者／论敌** [[Noam Chomsky]] — 长期左翼批评者，严厉谴责其实实外交导致的地缘干涉与人权代价。
-> - **任职机构** Harvard University — 早期博士求学、战略研究中心组建与教授任职长达二十年。
-> - **任职机构** US Department of State — 担任第 56 任国务卿，领导美国外交官僚体系。
 
 ---
 
@@ -145,3 +143,5 @@ updated: 2026-10-26
 > | [[Great Man Theory]] | 理论 | 总结[[Lee Kuan Yew\|李光耀]]治国实践，确立领袖性格打破结构宿命塑造历史的核心命题。 |
 > | [[Hard Power]] | 概念 | 深度阐发国家安全与均势秩序对可信军事与科技硬实力的根本依赖。 |
 > | [[Technological Republic]] | 概念 | 为现代技术共和国防务算法研发与战略威慑提供现实主义地缘哲学基础。 |
+> | Harvard University | 组织 | 早期博士求学、战略研究中心组建与教授任职长达二十年。 |
+> | US Department of State | 组织 | 担任第 56 任国务卿，领导美国外交官僚体系。 |

@@ -46,7 +46,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,8 +103,6 @@ updated: 2026-10-29
 > [!person-network] 关系网络
 > - **师承／合作者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
 > - **师承／合作者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
-> - **机构／运动／项目** 亚利桑那州立大学（ASU）未来社会创新学院 — 长期担任创立院长与核心学术领袖。
-> - **机构／运动／项目** [[National Science Foundation|美国国家科学基金会]]（NSF） — 担任伦理与社会影响评审顾问专家。
 
 ---
 
@@ -126,3 +124,5 @@ updated: 2026-10-29
 > | [[Science, The Endless Frontier 1945]] | 事实 | 布什报告奠定了战后契约起点，古斯顿著作深入剖析了该报告所赖以维系的制度缓冲与信任基石。 |
 > | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新[[Paradigm\|范式]]，彻底颠覆了古斯顿所描述的传统委托—代理缓冲机制，走向单向行政指令控制。 |
 > | [[Office of Science and Technology Policy]] | 事实 | 古斯顿研究的白宫科技决策关键中枢，负责在宏观层面平衡产出率与科研诚信监督。 |
+> | 亚利桑那州立大学（ASU）未来社会创新学院 | 组织 | 长期担任创立院长与核心学术领袖。 |
+> | [[National Science Foundation\|美国国家科学基金会]]（NSF） | 组织 | 担任伦理与社会影响评审顾问专家。 |

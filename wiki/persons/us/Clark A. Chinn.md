@@ -156,7 +156,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **核心学术合作者** Ravit Golan Duncan — 长期最核心学术合作者，共同开发 [[AIR Model of Epistemic Cognition\|AIR]] 模型、[[PRACCIS]] 课程与论证评价新[[Paradigm\|范式]]；[[Cindy E. Hmelo-Silver]] — 长期盟友，共同发起 2007 年对最小指导批判的标志性回击；[[Ton de Jong]] — 合作学者，共同撰写 2023 年《教育研究评论》反驳论文；Richard C. Anderson — 博士导师，合作开展协作推理经典研究。
 > - **理论批评者与论辩对手** [[John Sweller]]、Paul A. Kirschner、Richard E. Clark — 认知负荷派代表学者，Chinn 及其学术同盟两度（2007, 2023）就[[Inquiry-Based Learning\|探究式学习]]的有效性与指导必要性同 Sweller 阵营展开针锋相对的学术交锋。
-> - **学术机构与重要项目** 罗格斯大学（Rutgers University）— 长期任教与研究基地；国际学习科学学会（ISLS）— 学术共同体核心依托；[[PRACCIS]] — 主持研发的国家级科学探究与概念转变项目。
 
 ---
 
@@ -190,3 +189,5 @@ updated: 2026-11-02
 > | [[Inquiry-Based Learning]] | 概念 | 提出科学探究六要素模型，系统反驳[[Direct Instruction\|直接教学]]绝对优越论。 |
 > | [[Epistemic Agency]] | 概念 | 将认识主体性从行为参与深化为元[[Epistemology\|认识论]]审议与因果准则共建。 |
 > | [[PRACCIS]] | 项目 | 主持研发的大型科学探究课程，将 AIR 认知模型转化为实践支架。 |
+> | 罗格斯大学（Rutgers University） | 组织 | 长期任教与研究基地。 |
+> | 国际学习科学学会（ISLS） | 组织 | 学术共同体核心依托。 |

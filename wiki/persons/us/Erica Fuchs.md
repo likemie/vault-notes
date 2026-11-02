@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -115,7 +115,6 @@ updated: 2026-10-26
 ---
 
 > [!person-network] 关系网络
-> - **研究对象／机构** [[DARPA]] — 长期追踪其微系统技术办公室（MTO）在冷战后（1992–2008）的技术资助实践与制度演变。
 > - **对话理论家** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato） — 共同推进关于探索型公共组织与创新国家能动性的理论建构。
 > - **对话理论家** 戴维·莫厄里（[[David C. Mowery]]） — 在战后美国微电子与计算机国防采办对[[Innovation Ecosystem|创新生态]]影响的学术脉络上形成理论呼应。
 > - **对话网络学者** 罗纳德·伯特（Ronald Burt）与李·弗莱明（Lee Fleming） — 就[[Structural Holes|结构洞]]、[[Boundary Spanner|边界跨越者]]与[[Network Plasticity|网络可塑性]]展开理论对话。

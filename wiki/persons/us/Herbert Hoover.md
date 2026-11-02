@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -125,7 +125,6 @@ updated: 2026-10-30
 > - **思想对话与共鸣者** [[John Dewey|约翰·杜威]]（John Dewey）— 共同推崇投身具体经验事物与实验检验的美国[[Pragmatic Paradigm|实用主义]]传统。
 > - **管理思想同行** [[Taiichi Ohno|大野耐一]]（Taiichi Ohno）— 共同强调深入物理现场与直面系统缺陷的工程实干文化。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将胡佛论述作为软件工程直接责任机制的核心注脚。
-> - **任职机构与领导组织** 比利时救济委员会（Commission for Relief in Belgium）、美国商务部、美国总统府。
 
 ---
 
@@ -158,4 +157,7 @@ updated: 2026-10-30
 > | [[Hard Power]] | 概念 | 物质基石：主张国家硬实力与工业效能根本建立在务实求真的工程实践之上。 |
 > | [[Alexander Karp]] | 人物 | 现代引用者：将胡佛工程责任格言作为现代防务软件工程与反官僚推诿的核心依据。 |
 > | [[Nicholas Zamiska]] | 人物 | 现代引用者：在《技术共和国》中共同阐发胡佛工程责任论对公共行政改革的启示。 |
+> | 比利时救济委员会（Commission for Relief in Belgium） | 组织 | 任职机构与领导组织。 |
+> | 美国商务部 | 组织 | 任职机构与领导组织。 |
+> | 美国总统府 | 组织 | 任职机构与领导组织。 |
 

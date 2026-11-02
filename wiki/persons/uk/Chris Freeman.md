@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -181,7 +181,7 @@ updated: 2026-10-22
 > | [[Corporate R&D Labs]] | 概念 | 考证 1870 年代德国化学工业将研发建制化为企业内部独立部门的制度起源及其跨国扩散。 |
 > | [[Linear Model of Innovation]] | 概念 | 坚决批判将科学直接线性推导为经济繁荣的简单模型，确立反馈回路与生产现场学习的决定性。 |
 > | [[Historical-Comparative Method]] | 方法 | 典范性运用比较历史制度分析方法剖析英德美日苏长周期赶超分化。 |
-> | 萨塞克斯大学科技政策研究所（SPRU） | 组织 | |
-> | [[OECD\|经合组织]] | 组织 | |
-> | 马斯特里赫特大学（MERIT） | 组织 | |
+> | 萨塞克斯大学科技政策研究所（SPRU） | 组织 | 关联机构。 |
+> | [[OECD\|经合组织]] | 组织 | 关联机构。 |
+> | 马斯特里赫特大学（MERIT） | 组织 | 关联机构。 |
 

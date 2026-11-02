@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -105,7 +105,6 @@ updated: 2026-10-22
 > - **科学建言者** [[Leo Szilard|利奥·西拉德]] — 1939年信函核心起草人与核物理学家。
 > - **科技操盘官** [[Vannevar Bush|万尼瓦尔·布什]] — 执掌 [[Office of Scientific Research and Development|OSRD]]，直接向罗斯福汇报战时科研大局。
 > - **制度研究分析** 艾伦·雅各布斯（Alan Jacobs）与[[James Mahoney|马奥尼]]、希伦 — [[Historical Institutionalism|历史制度主义]]学者，系统剖析罗斯福社会保障缴费机制超越设计意图的演化政治逻辑。
-> - **重大工程与制度** [[Manhattan Project|曼哈顿工程]]、美国社会保障制度 — 批准建立的国家安全与社会安全基石工程。
 
 ---
 
@@ -125,6 +124,7 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Einstein-Szilard Letter]] | 事实 | 接收并果断执行战略核信函建言的最高国家元首。 |
 > | [[Manhattan Project]] | 事实 | 决断批准并强力推动曼哈顿工程立项的国家统帅。 |
+> | 美国社会保障制度 | 政策 | 批准建立的国家安全与社会安全基石工程。 |
 > | [[Technological Republic]] | 概念 | 实践缔造者，开启了国家行政权力与顶尖科研界深度协同的制度传统。 |
 > | [[Hard Power]] | 概念 | 战略运用者，将基础科学前沿转化为赢得世界大战与塑造战后秩序的战略硬实力。 |
 > | [[Theory of Gradual Institutional Change]] | 理论 | 其社会保障缴费型融资设计被[[Historical Institutionalism\|历史制度主义]]奉为制度超越设计意图演进的经典实证案例。 |

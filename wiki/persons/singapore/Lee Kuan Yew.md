@@ -55,7 +55,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -179,5 +179,5 @@ updated: 2026-10-30
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡确立为兼具高效制度理性与实质文化德性的治国典范。 |
 > | [[Junzi]] | 概念 | 将儒家模范人格作为公职选拔与公民教育的核心道德坐标。 |
 > | [[Hard Power]] | 概念 | 以千年战略视野与国民防卫服役构建小国不可动摇的常规威慑底座。 |
-> | 人民行动党（People's Action Party, PAP） | 组织 | |
-> | 新加坡内阁 | 组织 | |
+> | 人民行动党（People's Action Party, PAP） | 组织 | 所属政党与政府机构。 |
+> | 新加坡内阁 | 组织 | 所属政党与政府机构。 |

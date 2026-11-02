@@ -46,7 +46,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -145,8 +145,6 @@ updated: 2026-10-26
 > [!person-network] 关系网络
 > - **核心搭档与执行者** [[Nam Pyo Suh]] — 麻省理工学院机械工程学者，在布洛赫任内出任 [[National Science Foundation|NSF]] 工程学副主任，共同确立 [[Engineering Research Centers|ERC]] 项目核心概念与评审流程。
 > - **政策同盟与资助骨干** 威廉·哈里斯（William Harris）— NSF 科学与数学部前主任，后出任[[Science Foundation Ireland|爱尔兰科学基金会]]（SFI）总干事并将 ERC 模式移植至爱尔兰。
-> - **领导机构** [[National Science Foundation]] — 1984–1990 年担任其主任，推动工程学部与重大中心计划的制度化。
-> - **代表项目** [[Engineering Research Centers]] — 布洛赫任内倾力打造并奠定历史声誉的旗舰[[University-Industry Collaboration|产学合作]]计划。
 
 ---
 

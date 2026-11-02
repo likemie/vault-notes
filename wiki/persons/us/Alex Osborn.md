@@ -106,7 +106,6 @@ updated: 2026-11-02
 > - **合作者／继承者** 悉尼·帕内斯（Sidney Parnes） — 共同创立布法罗学派，将奥斯本直觉模型学术化为严谨的 [[Creative Problem Solving\|Osborn-Parnes CPS]] 模型。
 > - **继承者** 罗伯特·埃伯尔（Robert Eberle） — 将奥斯本的检核表重构为家喻户晓的 [[SCAMPER]] 技法。
 > - **理论对话者** 埃利斯·保罗·托兰斯（E. Paul Torrance） — 借鉴奥斯本理念开发[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）。
-> - **机构阵地** [[Creativity\|创造性]]教育基金会（Creative Education Foundation, CEF） — 奥斯本创立的学术传播与实践组织。
 
 ---
 
@@ -128,6 +127,7 @@ updated: 2026-11-02
 > | [[Creative Problem Solving]] | 理论 | 共同奠基人，创立 Osborn-Parnes CPS 模型雏形。 |
 > | [[SCAMPER]] | 概念 | 思想源头，提供最初的 73 项设问创新检核清单。 |
 > | [[Creativity Training]] | 概念 | 实践先驱，开创全球首批系统化[[Creativity\|创造力]]教学与演练项目。 |
+> | [[Creativity\|创造性]]教育基金会（Creative Education Foundation, CEF） | 组织 | 奥斯本创立的学术传播与实践组织。 |
 
 ---
 

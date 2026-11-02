@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -163,7 +163,6 @@ updated: 2026-10-26
 > - **师承／合作者** [[Peter Thiel]] — 斯坦福法学院同学与[[Palantir Technologies|帕兰提尔]]联合创始人，长期商业与政治盟友。
 > - **师承／合作者** [[Nicholas Zamiska]] — 帕兰提尔高管兼专著合著者，共同构建[[Technological Republic|技术共和国]]的法治与组织理论。
 > - **批评者／论敌** 传统五角大楼采办官僚 与 传统军工复合体巨头 — 帕兰提尔通过诉讼与商用现成竞争打破其定制垄断壁垒。
-> - **机构／运动／项目** [[Palantir Technologies]] — 卡普长期领导的科技实体与理论实践基地。
 
 ---
 

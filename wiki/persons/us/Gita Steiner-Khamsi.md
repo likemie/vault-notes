@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -153,7 +153,6 @@ updated: 2026-10-26
 > - **跨国治理合作学者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers|数字治理]] 2.0 与[[Global Education Governing Complex|全球教育治理复合体]]研究。
 > - **史学对话者** [[Robert Cowen]] 高度评价其口述史开创性工作与学科演进概念化，呼吁欧洲学会全面跟进口述史方法。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **[[Pluri-Scalar Governance|多标度治理]]对话者** [[Jason Beech]] 借用其关于中国大学引入美国学分制与改革置换的历史分析，对比当代跨国公司网络对教育空间的商业化重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
-> - **学术机构** 哥伦比亚大学教师学院、日内瓦高等国际关系与发展研究院、[[Comparative Education Society in Europe]]（CESE）。
 
 ---
 
@@ -183,6 +182,9 @@ updated: 2026-10-26
 > | [[Comparative History of Comparative Education]] | 概念 | 倡导口述史方法并提出学科发展概念化，为抢救未见历史提供关键路径。 |
 > | [[Luhmann's Systems Theory]] | 理论 | 将社会系统论中的[[Autopoiesis\|自创生]]与外在化反思融入跨国政策借用分析。 |
 > | [[Network Analysis]] | 方法 | 运用社会网络分析揭示政策经纪人与创新扩散网络中的结构效应。 |
+> | 哥伦比亚大学教师学院 | 组织 | 学术机构。 |
+> | 日内瓦高等国际关系与发展研究院 | 组织 | 学术机构。 |
+> | [[Comparative Education Society in Europe]]（CESE） | 组织 | 学术机构。 |
 
 ---
 

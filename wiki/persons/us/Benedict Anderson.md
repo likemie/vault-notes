@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -120,7 +120,6 @@ updated: 2026-10-30
 > - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
 > - **学术论辩对手** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其“情感国家”论断。
-> - **长期任职机构** 康奈尔大学政府系。
 
 ---
 
@@ -142,3 +141,4 @@ updated: 2026-10-30
 > | [[Dunbar's Number]] | 概念 | 与安德森想象链接理论形成跨学科对话，提供大规模协作的神经人类学依据。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡作为超大规模科技攻坚与公民认同维系的核心理论构件。 |
 > | [[Official Knowledge]] | 概念 | 为批判性教育学解构国家教科书与历史叙事提供了奠基性[[Analytic Framework\|分析框架]]。 |
+> | 康奈尔大学政府系 | 组织 | 长期任职机构。 |

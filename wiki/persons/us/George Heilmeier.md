@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -108,9 +108,7 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - **机构管理者** [[DARPA]] — 1975–1977 年出任第五任局长。
 > - **制度工具** [[Heilmeier Catechism]] — 亲手制定并制度化为国家前沿研发立项审查标准。
-> - **政策背景** [[Mansfield Amendment 1969]] — 应对国会关于科研经费必须直接服务军事需求的立法限制，重构 DARPA 项目管理体系。
 
 ---
 
@@ -121,4 +119,4 @@ updated: 2026-10-30
 > | [[Heilmeier Catechism]] | 工具 | 提出用于颠覆性技术立项评估的八问核心准则。 |
 > | [[DARPA Model]] | 概念 | 塑造了 [[DARPA]] 强调高风险、明确里程碑与去官僚化的管理架构。 |
 > | [[DARPA]] | 机构 | 1975–1977 年担任局长，主导隐形战机与空间监视等战略项目立项。 |
-> | [[Mansfield Amendment 1969]] | 政策 | 推动机构转型以适应国防科研立法监管要求。 |
+> | [[Mansfield Amendment 1969]] | 政策 | 推动机构转型以适应国防科研立法监管要求。应对国会关于科研经费必须直接服务军事需求的立法限制，重构 DARPA 项目管理体系。 |

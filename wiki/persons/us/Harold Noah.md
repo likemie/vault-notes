@@ -212,7 +212,6 @@ updated: 2026-11-02
 > - **史学批判与对话者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 深入批判诺亚与埃克斯坦的方法论主义偏见，指出实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的历史实质；
 > - **历史批判对象** [[Isaac Kandel|艾萨克·坎德尔]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Michael Sadler|迈克尔·萨德勒]] — 将其归为前科学的“力量与因素”阶段；
 > - **后辈学者启迪** [[Robert Cowen|罗伯特·考恩]] — 考恩深情回忆诺亚对其青年学术生涯的热情接纳，其 1969 著作解答了考恩学生时代的学科历史困惑并赋予其职业合法性；
-> - **机构与组织** [[Comparative and International Education Society|CIES]]（前会长）、哥伦比亚大学师范学院（讲座教授、院长）。
 
 ---
 
@@ -260,3 +259,4 @@ updated: 2026-11-02
 > | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将其判定为前科学的动力与因素阶段，构成战后科学化范式论战的核心靶标。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 批判其缺乏变量控制与预测力，促发卡扎米亚斯对广义科学与工作假设的辩护。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1976–1977 年出任学会会长，推动学会研究与教育实证政策咨询紧密结合。 |
+> | 哥伦比亚大学师范学院 | 组织 | 讲座教授、院长。 |

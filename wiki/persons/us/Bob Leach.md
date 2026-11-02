@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -58,8 +58,15 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
 > - **校内组织者** 德斯蒙德·科尔-贝克 — 为教师项目提供校内领导与行动空间。
 > - **课程架构者** [[Gerard Renaud\|杰拉德·雷诺]] — 把教师讨论进一步转化为六学科组与[[Theory of Knowledge\|知识论]]共同核心。
 > - **制度整合者** [[Alec Peterson\|亚历克·皮特森]] — 在后续阶段整合筹资、试验学校与大学承认。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Founding of the International Baccalaureate\|国际文凭创立]] | 事件 | 共同创制事件。 |
 

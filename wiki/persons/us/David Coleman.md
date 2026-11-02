@@ -108,8 +108,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **标准研制联合主持者** 休·皮门特尔（Sue Pimentel） — 共同统稿并起草 [[Common Core State Standards|CCSS]] 英语语言艺术标准。
 > - **标准研制数学同行** 菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba） — 共同组成 CCSS 方案设计的核心起草团队。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **资助与推动实体** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]] — 为科尔曼创立的学生成就伙伴组织提供数千万美元核心推进资金。
-> - **行政委托机构** [[National Governors Association|全国州长协会]]与[[Council of Chief State School Officers|州首席教育官理事会]] — 聘任科尔曼主持起草的州级权力机构。
 
 ---
 
@@ -131,6 +129,8 @@ updated: 2026-11-02
 > | [[College and Career Readiness]] | 核心理念 | 将大学与职业就绪[[Operationalization\|操作化]]为以文本证据和文本复杂度为核心的起草规则。 |
 > | [[Achieve]] | 智库机构 | 深度协作其主持的[[American Diploma Project\|美国文凭项目]]并将成果输入通用标准草案。 |
 > | [[National Governors Association]] | 组织机构 | 接受其正式委托开展全国统一标准方案的文本研制与多轮修订。 |
+> | [[Bill & Melinda Gates Foundation\|比尔与梅琳达·盖茨基金会]] | 组织机构 | 为科尔曼创立的学生成就伙伴组织提供数千万美元核心推进资金。 |
+> | [[Council of Chief State School Officers\|州首席教育官理事会]] | 组织机构 | 聘任科尔曼主持起草的州级权力机构。 |
 
 ---
 

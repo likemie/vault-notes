@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -115,7 +115,6 @@ updated: 2026-10-31
 > [!person-network] 关系网络
 > - **学术启发与对话** [[Albert-László Barabási]] — 继承并深化普赖斯关于科学文献指数扩张与累积优势的核心假说，建立现代优先连接理论。
 > - **合作同行** [[Eugene Garfield]] — 科学引文索引创办人，为普赖斯 1965 年引文网络研究提供全量原始引文数据库。
-> - **历史依托机构** [[The Royal Society]] — 普赖斯依托皇家学会历史文献过刊统计分析发现文献指数增长律。
 
 ---
 
@@ -138,3 +137,4 @@ updated: 2026-10-31
 > | [[Price Cumulative Advantage Model]] | 理论 | 1976 年在 JASIS 建立引文网络累积优势模型，结合增长与优先连接严格推导无标度幂律分布。 |
 > | [[Scientific Productivity]] | 概念 | 提出普赖斯平方根定律，刻画学术共同体内部生产力的极端精英垄断。 |
 > | [[Bibliometric Analysis]] | 方法 | 开创运用科学引文网络与发表时间序列开展宏观量化测度的方法体系。 |
+> | [[The Royal Society]] | 组织 | 普赖斯依托皇家学会历史文献过刊统计分析发现文献指数增长律。 |

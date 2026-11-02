@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -130,8 +130,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **思想渊源** [[Paulo Freire]] — 弗莱雷的[[Critical Pedagogy|批判教育学]]、[[Conscientization|意识化]]与对话实践是其学术生涯的思想基座。
 > - **学术合作** [[Liliana Esther Olmos]]、[[Martin Carnoy]]、[[Adriana Puiggrós]]、[[Robert Arnove]] — 共同推进比较教育政治经济学与批判国家理论研究。
-> - **学术机构** 弗莱雷研究所（Paulo Freire Institute, UCLA） — 创始主任，推动全球批判教育学与[[Popular Education|民众教育]]实践研究。
-> - **国际组织** [[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）、[[UNESCO|联合国教科文组织]]（UNESCO）[[Global Citizenship|全球公民教育]]教席。
 
 ---
 
@@ -150,3 +148,6 @@ updated: 2026-10-30
 > | [[World Bank]] | 机构事实 | 批判其作为新自由主义[[Structural Adjustment Programs\|结构调整]]推手对第三世界公共教育福利属性的剥夺。 |
 > | [[Liliana Esther Olmos]] | 人物 | 长期学术合作者，共同发展宏观国家理论与比较教育扩张[[Analytic Framework\|分析框架]]。 |
 > | [[Paulo Freire]] | 人物 | 精神导师与思想源流，指引其[[Critical Pedagogy\|批判教育学]]与拉美[[Popular Education\|民众教育]]学术探索。 |
+> | 弗莱雷研究所（Paulo Freire Institute, UCLA） | 机构事实 | 创始主任，推动全球批判教育学与[[Popular Education\|民众教育]]实践研究。 |
+> | [[World Council of Comparative Education Societies\|世界比较教育学会联合会]]（WCCES） | 机构事实 | 国际组织。 |
+> | [[UNESCO\|联合国教科文组织]]（UNESCO）[[Global Citizenship\|全球公民教育]]教席 | 机构事实 | 国际组织。 |

@@ -119,7 +119,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **合作学者** 布鲁斯·温伯格（Bruce Weinberg）— 共同开展科学家年龄与创新生命周期计量研究。
 > - **合作学者** [[Brian Uzzi]] 与 Stefan Wuchty — 共同构建 RTI 指标并开展半世纪跨学科科研生产大数据分析。
-> - **资助政策影响** [[National Science Foundation]] — 为科研人才培养与青年学者独立政策提供决策咨询。
 
 ---
 
@@ -141,3 +140,4 @@ updated: 2026-11-02
 > | [[Experimental Innovators]] | 概念 | 实证测定经验归纳创新者在成熟期（均值 56.0 岁）达到成就巅峰的演进特征。 |
 > | [[The Graying of Science]] | 概念 | 揭示国家级基金 PI 首资年龄（42 岁）与顶尖突破窗口（41 岁）的时序脱节。 |
 > | [[Age and High-Growth Entrepreneurship]] | 概念 | 合作证实全美极速成长企业创始人平均年龄为 45 岁，确立中年创业经验优势。 |
+> | [[National Science Foundation]] | 组织 | 为科研人才培养与青年学者独立政策提供决策咨询。 |

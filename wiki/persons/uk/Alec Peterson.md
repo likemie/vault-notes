@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -151,6 +151,6 @@ updated: 2026-10-22
 > | 核心课程 | [[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]、[[Creativity, Action, Service\|创意、行动、服务]] | 分别对应[[Epistemology\|认识论]]反思、独立研究与真实行动 |
 > | 制度建立 | [[Founding of the International Baccalaureate\|国际文凭创立]]、[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 把课程理念转化为可测试、筹资和获得大学承认的制度；连接学校招募、考试实施、大学承认、筹资和政府谈判，使项目从课程倡议转为常设组织。 |
 > | 组织网络 | [[International Baccalaureate\|国际文凭]]、[[United World Colleges\|联合世界书院]] | 前者提供跨国资格，后者提供寄宿制[[Intercultural Education\|跨文化教育]]场景 |
-> | 核心课程 | [[IB Diploma Programme]] | |
+> | 创立机构 | [[IB Diploma Programme]] | 创立机构。 |
 > | 主要合作者 | [[Kurt Hahn\|库尔特·哈恩]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]] | 分别连接教育愿景、执行交接与治理协调 |
 > | 主要史料 | [[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1)]]、[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4)]]、[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7)]] | 从创办起点、制度扩展与第二个十年反思三个阶段追踪其角色 |

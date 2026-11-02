@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -153,4 +153,4 @@ updated: 2026-10-22
 > | [[Palantir Technologies]] | 事实 | 现代实践企业：深度借鉴大野耐一五问法开展数千次组织复盘与反推诿诊断。 |
 > | [[Alexander Karp]] | 人物 | 现代引用者：将大野耐一车间五问法扩展为大型软件组织人际与考核根因复盘机制。 |
 > | [[Nicholas Zamiska]] | 人物 | 现代引用者：共同论证五问法对公共行政与国防采办去官僚化的制度启示。 |
-> | 丰田汽车公司（Toyota Motor Corporation） | 组织 | |
+> | 丰田汽车公司（Toyota Motor Corporation） | 组织 | 核心机构与实体。 |

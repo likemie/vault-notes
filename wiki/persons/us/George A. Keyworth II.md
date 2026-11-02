@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -107,8 +107,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **政治与政策盟友** [[Erich Bloch]] — 共同推进 [[Engineering Research Centers|ERC]] 立项与 [[National Science Foundation|NSF]] 工程学学部独立，合力抗衡白宫预算局与国会分立方案。
 > - **合作学者** [[Nam Pyo Suh]] — 担任 NSF 工程副主任期间与凯沃思紧密协同制定工程学科重构战略。
-> - **任职机构** [[National Science Foundation]] — 作为白宫科技顾问指导并协调其重大资助机制改革。
-> - **政策依托** [[Engineering Research Centers]] — 凯沃思在任期内强力推动并促成落地的标志性联邦产学中心计划。
 
 ---
 
