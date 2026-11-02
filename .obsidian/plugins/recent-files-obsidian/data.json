@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Fortunato_2018_Science",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+    },
+    {
+      "basename": "高中线_前十一话合集",
+      "path": "file:/Users/shaoyangwu/Downloads/高中线_前十一话合集.md"
+    },
+    {
       "basename": "Argument_Sinatra_2016_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "Argument_Fortunato_2018_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
     },
     {
       "basename": "Combinatorial Novelty",
@@ -195,10 +199,6 @@
     {
       "basename": "Albert-László Barabási",
       "path": "wiki/persons/us/Albert-László Barabási.md"
-    },
-    {
-      "basename": "Big Science",
-      "path": "wiki/concepts/science-policy/Big Science.md"
     }
   ],
   "omittedPaths": [],
