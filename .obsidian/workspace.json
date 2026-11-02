@@ -11,10 +11,15 @@
             "id": "fa5a026b9f1594f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/shaoyangwu/Downloads/ch10_final.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ch10_final"
             }
           }
         ]

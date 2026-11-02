@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ch10_final",
+      "path": "file:/Users/shaoyangwu/Downloads/ch10_final.md"
+    },
+    {
       "basename": "高中线_4-9话",
       "path": "file:/Users/shaoyangwu/Downloads/高中线_4-9话.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Knowledge Hotspots",
       "path": "wiki/concepts/science-policy/Knowledge Hotspots.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
     }
   ],
   "omittedPaths": [],
