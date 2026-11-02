@@ -25776,7 +25776,9 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Matching.md",
     "aliases": [
-      "匹配法"
+      "匹配法",
+      "样本匹配",
+      "Matching Methods"
     ]
   },
   {

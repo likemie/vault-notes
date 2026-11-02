@@ -10,9 +10,9 @@ summary: "一种基于可观测协变量将多维特征压缩为单一参与概�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -57,10 +57,11 @@ related_facts:
   - "[[Researching School Choices]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-29
 > - **输出形式** 处理组平均处理效应（Average Treatment Effect on the Treated, ATT）、总体平均处理效应（[[Advanced Technological Education|ATE]]）、配对权重、协变量标准化偏差均衡图。
 
 > [!citation-card] 准实验匹配在学校体制抉择评估中的机制应用（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 面对学校宏观办学机制转型等无法强行人为[[Random Assignment\|随机化]]的现实难题，英国 [[Education Endowment Foundation\|EEF]] 设立了“[[Researching School Choices\|研究学校选择]]”（Researching School Choices）专属资助流。该资助流不再依赖传统 RCT，而是依托国家学生数据库（NPD）详实的纵向普查大数据，采用[[Difference-in-Differences\|双重差分法]]（DID）、倾向得分匹配（PSM）与回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严密的准实验架构，科学评估真实教育生态下的宏观治理决策。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
+> 面对学校宏观办学机制转型等无法强行人为[[Random Assignment\|随机化]]的现实难题，英国 [[Education Endowment Foundation\|EEF]] 设立了“[[Researching School Choices\|研究学校选择]]”（Researching School Choices）专属资助流。该资助流依托国家学生数据库（NPD）详实的纵向普查大数据，采用[[Difference-in-Differences\|双重差分法]]（DID）、倾向得分匹配（PSM）与回归断点设计（[[Regression Discontinuity Design\|RDD]]）等准实验架构，科学评估真实教育生态下的宏观治理决策。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 >
 > *“In 2019, the EEF opened the 'Researching School Choices' funding stream... exploiting naturally occurring policy changes and variations using longitudinal data from the National Pupil Database (NPD). [[Quasi-Experimental Designs]], including difference-in-differences and propensity score matching, enable rigorous evaluation where randomisation is not feasible.”*
 
@@ -217,3 +218,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用[[Difference-in-Differences\|双重差分法]]与倾向得分匹配评估学校宏观体制选择的因果成效。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将倾向得分匹配列为科学学因果推断的基础匹配策略，用于控制学者入选前科研产出基线、学术年龄与引文历史等多维协变量，评估科研资助模式对前沿探索与重大突破的因果影响（pp. 341–350）。

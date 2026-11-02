@@ -11,7 +11,7 @@ summary: "一种用于量化科研成果或发明专利是开拓新方向还是�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -170,3 +171,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 全量计算 4858 万篇出版物的颠覆性得分，在亿级数据规模上稳健验证了小团队开拓颠覆而大团队巩固发展的规律。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用颠覆性指数证实小团队颠覆既有范式、大团队发展成熟传统的组织分工规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]，pp. 128–132）；并将其确立为深挖网络拓扑、超越引文计数的关键指标（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 245–248）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 综述小团队颠覆既有范式与大团队深耕成熟框架的实证发现，指出巩固-颠覆指数（CD 指数）在测度科学知识生产模式分化与团队规模效应中的关键度量作用（p. 343）。

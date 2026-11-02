@@ -61472,8 +61472,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/methods/quantitative/Causal Modeling.md",
-        "wiki/methods/quantitative/Matching.md"
+        "wiki/methods/quantitative/Causal Modeling.md"
       ],
       "title": ""
     },
@@ -62393,8 +62392,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
         "wiki/concepts/research-methodology/Threats to External Validity.md",
         "wiki/concepts/research-methodology/Threats to Internal Validity.md",
-        "wiki/methods/quantitative/Ex Post Facto Research.md",
-        "wiki/methods/quantitative/Matching.md"
+        "wiki/methods/quantitative/Ex Post Facto Research.md"
       ],
       "title": ""
     },
@@ -88729,14 +88727,6 @@
       ],
       "title": ""
     },
-    "Rosenbaum, 2010": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Matching.md"
-      ],
-      "title": ""
-    },
     "Rosenberg, 1963": {
       "doi": "",
       "isbn": "",
@@ -91835,8 +91825,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/methods/quantitative/Descriptive Analysis.md"
+        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
     },
@@ -97127,7 +97116,6 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/methods/quantitative/Matched Pairs Design.md",
-        "wiki/methods/quantitative/Matching.md",
         "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",
         "wiki/methods/quantitative/Random Assignment.md",
         "wiki/methods/quantitative/True Experimental Design.md"

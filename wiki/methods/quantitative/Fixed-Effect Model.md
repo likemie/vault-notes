@@ -10,7 +10,7 @@ summary: "假定所有纳入研究共享同一个恒定真实效应的统计合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
