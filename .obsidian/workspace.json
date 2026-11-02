@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f717b48a5d82961",
+        "id": "36c3b319e8d55d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "c2be819c27851cda",
+            "id": "4bd2b79a7d96995d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/Users/shaoyangwu/Downloads/ch01_final_text.md",
+                "file": "file:/Users/shaoyangwu/Downloads/ch01_final.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ch01_final_text"
+              "title": "ch01_final"
             }
           }
         ]
@@ -237,11 +237,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c2be819c27851cda",
+  "active": "4bd2b79a7d96995d",
   "lastOpenFiles": [
+    "file:/Users/shaoyangwu/Downloads/高中线_前十一话合集.md",
     "file:/Users/shaoyangwu/Downloads/ch01_final_text.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
-    "file:/Users/shaoyangwu/Downloads/高中线_前十一话合集.md",
     "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
     "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
     "file:/Users/shaoyangwu/Downloads/林婉如和吴老师的第一次.md",
