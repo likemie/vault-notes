@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Portfolio-Based Research Funding",
+      "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+    },
+    {
+      "basename": "Crowded Frontier",
+      "path": "wiki/concepts/science-policy/Crowded Frontier.md"
+    },
+    {
+      "basename": "SciSciNet",
+      "path": "wiki/facts/us/SciSciNet.md"
+    },
+    {
       "basename": "Argument_Liu_2023_NHB",
       "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
     },
     {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
@@ -23,10 +35,6 @@
     {
       "basename": "Argument_Sinatra_2016_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
-    },
-    {
-      "basename": "SciSciNet",
-      "path": "wiki/facts/us/SciSciNet.md"
     },
     {
       "basename": "Argument_Lin_2023_SciData",
@@ -191,14 +199,6 @@
     {
       "basename": "Network Analysis",
       "path": "wiki/methods/mixed/Network Analysis.md"
-    },
-    {
-      "basename": "Erdős Number",
-      "path": "wiki/concepts/science-policy/Erdős Number.md"
-    },
-    {
-      "basename": "Clustering Coefficient",
-      "path": "wiki/concepts/science-policy/Clustering Coefficient.md"
     }
   ],
   "omittedPaths": [],
