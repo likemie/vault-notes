@@ -88,7 +88,8 @@ updated: 2026-11-02
 > | [[Educational Soft Power Framework]] | Theory | 将沃伊丘克教育机制与霍利克模型整合，提出跨境高教[[Analytic Framework\|分析框架]]。 |
 > | [[Educational Soft Power]] | Concept | 开创性将软实力理论引入中国高等教育国际化研究（Yang, 2007）。 |
 > | [[Outward-Oriented Internationalization]] | Concept | 系统论证中国高教外向型拓展的四大实践形态与地缘功能。 |
-> | [[Soft Power]] | Concept | 批判西方零和对抗假设，主张引入和而不同等中华传统文明心智。 |
+> | [[Soft Power]] | Concept | 批判西方零和对抗假设，主张引入和而不同等中华传统文明心智。
+> | 香港大学教育学院 | 组织 | 长期主持教研与领导学术团队的核心重镇。 |
 
 ---
 

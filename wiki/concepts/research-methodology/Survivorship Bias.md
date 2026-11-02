@@ -79,7 +79,7 @@ updated: 2026-10-31
 > [!feature] 核心要素
 > - **样本可见性非对称** 处于终态的可见数据池由胜出样本主导，淘汰样本的物理轨迹或原始记录在常规数据源中缺失（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 242]]）。
 > - **因果推断反转风险** 忽视未存活个体的致命特征会导致归因逻辑倒错，误将承受非致命打击的表征当作决定生存的关键优势（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 242–243]]）。
-> - **全口径底表穿透要求** 克服偏倚需要打通全量过程数据，例如结合美国专利商标局（United States Patent and Trademark Office, USPTO）全量公开申请库以及[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）未获资助申请底表，重建完整的创造与淘汰管线（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 243]]）。
+> - **全口径底表穿透要求** 克服偏倚需要打通全量过程数据，例如结合美国专利商标局（United States Patent and Trademark Office, USPTO）全量公开申请库、[[National Institutes of Health|美国国家卫生研究院]]（NIH）未获资助申请底表，以及荷兰科学研究组织（Netherlands Organisation for Scientific Research, NWO）全口径课题申请档案（Bol et al., 2018; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 243]]），重建完整的创造与淘汰管线。
 
 > [!logic-map]- 幸存者偏差发生与纠偏机制
 > ```mermaid

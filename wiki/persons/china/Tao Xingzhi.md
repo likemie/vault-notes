@@ -142,4 +142,6 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Scientific Attitude]] | 概念 | 提出基于事实、实验渐进、精细研究的三要素方法论。 |
 > | [[Pragmatism in China]] | 概念 | 实现了[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]实验方法向中国国情与乡村教育的[[Going Native\|本土化]]改造。 |
-> | [[New Education Movement]] | 事实/事件 | 主导《新教育评论》，完成了运动后期的[[Paradigm\|范式]]转向。 |
+> | [[New Education Movement]] | 事实/事件 | 主导《新教育评论》，完成了运动后期的[[Paradigm\|范式]]转向。
+> | 《新教育评论》 | 组织 | 创办人。
+> | 晓庄试验乡村师范 | 组织 | 创办人。 |

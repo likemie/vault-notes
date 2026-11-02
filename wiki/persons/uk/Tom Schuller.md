@@ -95,8 +95,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **长期合著者** [[Tracey Burns]] — 自 2007 年以来与 Burns 合作主编、合著多项 [[OECD]] 报告，共同建立[[Educational Brokerage Agency\|教育中介机构]]研究的国际比较[[Analytic Framework\|分析框架]]。
-> - **出版合作平台** [[OECD]] / [[Centre for Educational Research and Innovation]] — 核心学术输出平台。
-> - **英国学术社群** 英国社会科学院（Academy of Social Sciences），兼具学术独立性与跨学科政策研究传统。
 
 ---
 
@@ -108,3 +106,6 @@ updated: 2026-10-30
 > | [[Cumulative Knowledge Base]] | 概念 | 提出通过跨机构元协作与二阶综述建构准普遍公认的累积性知识库，超越单体机构孤岛。 |
 > | [[Lifelong Learning]] | 概念 | 将终身学习的跨生命周期视野带入教育[[Epistemic Governance\|知识治理]]讨论，拓宽了中介研究的议题边界。 |
 > | [[Canadian Council on Learning]] | 机构事实 | 以 CCL 的关停为核心证据，论证联邦制国家缺乏跨辖区法定协议时中介机构的高度脆弱性。 |
+> | [[OECD]] | 机构事实 | 核心学术输出平台。 |
+> | [[Centre for Educational Research and Innovation]] | 机构事实 | 核心学术输出平台。 |
+> | 英国社会科学院（Academy of Social Sciences） | 机构事实 | 兼具学术独立性与跨学科政策研究传统。 |

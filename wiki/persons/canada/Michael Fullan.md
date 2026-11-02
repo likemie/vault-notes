@@ -113,7 +113,6 @@ updated: 2026-10-30
 > - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导[[Professional Capital|专业资本]]（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
 > - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；[[John Hattie|约翰·哈蒂]] — 共同被培生智库致谢并同构了专有教学品牌模式。
 > - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。
-> - **代理机构与跨国实体** [[OECD|经合组织]] — 全球政策扩散支持；培生集团（Pearson plc） — 智库丛书资助出版；[[CORE Education|核心教育]]（CORE Education） — 新西兰独家特许代理商。
 
 ---
 
@@ -129,4 +128,12 @@ updated: 2026-10-30
 > - **教主崇拜与[[Technical Rationality|技术理性]]异化** 批判学者指出，富兰后期咨询风格呈现出“管理大师光环”（[[Cult of the Guru]]），依赖具有煽动性的商业修辞，将复杂的教育社会公平问题还原为标准化的打卡量规，掩盖了阶层分化与公共投入不足等结构性根源。
 
 ---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[OECD\|经合组织]] | 组织 | 全球政策扩散支持。 |
+> | 培生集团（Pearson plc） | 组织 | 智库丛书资助出版。 |
+> | [[CORE Education\|核心教育]] | 组织 | 新西兰独家特许代理商。 |
 

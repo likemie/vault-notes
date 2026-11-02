@@ -130,4 +130,7 @@ updated: 2026-10-30
 > | [[Typology of Factors Influencing Research Use]] | 理论 | 提出涵盖研究、用户、关系、组织、系统五维度的证据利用影响因素拓扑。 |
 > | [[Research Knowledge Mobilisation Model]] | 理论 | 系统对比线性、关系性与系统性三大类 18 种[[Knowledge Mobilisation\|知识动员]]理论模型。 |
 > | [[Complexity Theory]] | 理论 | 引入复杂适应系统视角解释教育治理中的非线性[[Emergence\|涌现]]与机制反馈。 |
-> | [[Strengthening the Impact of Education Research Policy Survey]] | 测量工具 | 参与设计并分析涵盖 29 国 37 个教育系统的跨国证据政策调查工具。 |
+> | [[Strengthening the Impact of Education Research Policy Survey]] | 测量工具 | 参与设计并分析涵盖 29 国 37 个教育系统的跨国证据政策调查工具。
+> | [[OECD]] | 组织 | 国际政府间经济与政策组织，项目委托与执行依托主体。
+> | [[Centre for Educational Research and Innovation]] | 组织 | 经合组织教育研究与[[Innovation Hub\|创新中心]]，研究[[Knowledge Mobilisation\|知识动员]]专项推进机构。
+> | [[Strengthening the Impact of Education Research Project]] | 项目 | Torres 担任顾问并发表两章核心研究成果的专项国际研究计划。 |

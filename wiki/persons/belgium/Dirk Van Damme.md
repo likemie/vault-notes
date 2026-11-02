@@ -176,5 +176,6 @@ updated: 2026-10-22
 > | [[Constructivist Paradigm]] | 概念 | 批判将社会建构主义等规范性信念直接替代实证科学理论的流行倾向。 |
 > | [[Critical Pedagogy]] | 概念 | 批判教育科研中泛滥的意识形态偏见与政治行动主义，呼吁恪守[[Scientific Explanation\|科学解释]]边界。 |
 > | [[Randomised Controlled Trials]] | 方法 | 批评方法论上围绕 RCT 的意识形态空转，主张超越单一工具崇拜并建立独立外部评估。 |
-> | [[Centre for Educational Research and Innovation]] | 政策 | 执掌该中心十余年，将其打造为全球教育创新趋势与循证[[Epistemic Governance\|知识治理]]的核心国际智库。 |
+> | [[Centre for Educational Research and Innovation]] | 政策 | 执掌该中心十余年，将其打造为全球教育创新趋势与循证[[Epistemic Governance\|知识治理]]的核心国际智库。
+> | [[OECD]] | 组织 | 范达默引领跨国教育政策研究与知识生态治理的核心国际组织平台。 |
 

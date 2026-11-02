@@ -1762,7 +1762,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
-        "wiki/persons/france/Alain Desrosières.md"
+        "wiki/persons/france/Alain Desrosières.md"
       ],
       "title": ""
     },
@@ -4071,7 +4071,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/europe/Bologna Process.md",
-        "wiki/persons/portugal/António Nóvoa.md"
+        "wiki/persons/portugal/António Nóvoa.md"
       ],
       "title": ""
     },
@@ -13772,7 +13772,7 @@
         "wiki/facts/germany/Prussian Draft Education Law of 1819.md",
         "wiki/persons/france/François Guizot.md",
         "wiki/persons/france/Victor Cousin.md",
-        "wiki/persons/germany/Johann Wilhelm Süvern.md"
+        "wiki/persons/germany/Johann Wilhelm Süvern.md"
       ],
       "title": ""
     },
@@ -22889,7 +22889,7 @@
       "seen_in": [
         "wiki/facts/france/Report on the State of Public Instruction in Prussia.md",
         "wiki/facts/germany/Prussian Draft Education Law of 1819.md",
-        "wiki/persons/germany/Johann Wilhelm Süvern.md"
+        "wiki/persons/germany/Johann Wilhelm Süvern.md"
       ],
       "title": ""
     },
@@ -26391,7 +26391,7 @@
         "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
         "wiki/concepts/research-methodology/Space of Equivalence.md",
         "wiki/concepts/sociology-of-education/Commensuration.md",
-        "wiki/persons/france/Alain Desrosières.md"
+        "wiki/persons/france/Alain Desrosières.md"
       ],
       "title": ""
     },
@@ -65505,7 +65505,7 @@
         "wiki/concepts/comparative-education/Performativity.md",
         "wiki/concepts/educational-policy-reform/School Effectiveness.md",
         "wiki/concepts/sociology-of-education/Grand Theory.md",
-        "wiki/persons/france/Jean-François Lyotard.md"
+        "wiki/persons/france/Jean-François Lyotard.md"
       ],
       "title": ""
     },
@@ -73868,7 +73868,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/concepts/science-policy/Knowledge Hotspots.md",
-        "wiki/facts/global/Web of Science.md"
+        "wiki/facts/global/Web of Science.md",
+        "wiki/methods/quantitative/Retrospective Citation Analysis.md"
       ],
       "title": ""
     },
@@ -77248,7 +77249,7 @@
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/concepts/comparative-education/Technologies of Surveillance.md",
         "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
-        "wiki/persons/portugal/António Nóvoa.md",
+        "wiki/persons/portugal/António Nóvoa.md",
         "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
       ],
       "title": "Comparative Research in Education: A Mode of Governance or a Historical Journey?"
@@ -77265,7 +77266,7 @@
         "wiki/concepts/comparative-education/The Nation-State as the Unit of Comparison.md",
         "wiki/concepts/university-industry-collaboration/Competitiveness.md",
         "wiki/facts/europe/Bologna Process.md",
-        "wiki/persons/portugal/António Nóvoa.md"
+        "wiki/persons/portugal/António Nóvoa.md"
       ],
       "title": ""
     },
@@ -77611,7 +77612,7 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
         "wiki/concepts/university-industry-collaboration/Learning Economy.md",
-        "wiki/persons/denmark/Bengt-Åke Lundvall.md",
+        "wiki/persons/denmark/Bengt-Åke Lundvall.md",
         "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
       ],
       "title": ""
@@ -100459,7 +100460,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
-        "wiki/concepts/science-policy/Citation Expiration Date.md"
+        "wiki/concepts/science-policy/Citation Expiration Date.md",
+        "wiki/methods/quantitative/Prospective Citation Analysis.md"
       ],
       "title": ""
     },
@@ -101800,7 +101802,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/persons/denmark/Bengt-Åke Lundvall.md"
+        "wiki/persons/denmark/Bengt-Åke Lundvall.md"
       ],
       "title": ""
     },
@@ -109126,6 +109128,7 @@
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Citation Prediction Envelope.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
+        "wiki/methods/quantitative/Prospective Citation Analysis.md",
         "wiki/persons/us/Chaoming Song.md",
         "wiki/theories/science-policy/WSB Model.md"
       ],
@@ -114083,8 +114086,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Citation Aging.md",
-        "wiki/methods/quantitative/Retrospective vs Prospective Citation Approaches.md"
+        "wiki/concepts/science-policy/Citation Aging.md"
       ],
       "title": ""
     },
@@ -118625,7 +118627,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/persons/denmark/Bengt-Åke Lundvall.md"
+        "wiki/persons/denmark/Bengt-Åke Lundvall.md"
       ],
       "title": ""
     },
@@ -119056,7 +119058,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/persons/portugal/António Nóvoa.md"
+        "wiki/persons/portugal/António Nóvoa.md"
       ],
       "title": ""
     },
@@ -119064,7 +119066,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/persons/portugal/António Nóvoa.md"
+        "wiki/persons/portugal/António Nóvoa.md"
       ],
       "title": ""
     },

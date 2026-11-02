@@ -198,7 +198,6 @@ updated: 2026-11-02
 > - **学术渊源与反思对象** [[Isaac Kandel\|艾萨克·坎德尔]]、[[Nicholas Hans\|尼古拉斯·汉斯]]、[[Michael Sadler\|迈克尔·萨德勒]] — 兼具同情理解与内部批判。
 > - **学术史建制评析者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） — 阐发卡扎米亚斯在比较教育两百年学术史演进中作为历史主义与[[Structural Functionalism|结构功能主义]]核心阐释者的坐标。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123, 134–135)]]
 > - **思想灵感** 托马斯·斯特恩斯·艾略特（T. S. Eliot） — 汲取诗学与历史诠释学灵感，确立每一代人必须重写其历史的核心信念。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
-> - **学术机构** [[Comparative Education Society in Europe]]（CESE 荣誉会员）、威斯康星大学[[James Madison|麦迪逊]]分校（长期教席）。
 
 ---
 
@@ -231,5 +230,6 @@ updated: 2026-11-02
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 主编 2009 手册创建卷，确立每一代人必须重写其历史的历史诠释学基石。 |
 > | [[Four Forms of Understanding of Comparative Education\|比较教育的四种理解形式]] | 概念 | 归属于求同存异传统，以历史与情境为核心代码解释教育体系的多样性。 |
 > | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 事实 | 担任学会荣誉会员，在欧洲比较教育学界维系历史与人文主义思想脉络。 |
+> | 威斯康星大学麦迪逊分校 | 组织 | 长期教席。 |
 > | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述卡扎米亚斯在历史人文主义奠基谱系与结构功能主义解析中的关键坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]] |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 借用希腊神话普罗透斯隐喻界定比较教育学多学科[[Geisteswissenschaften\|人文科学]]特质与四重论述代际更迭规律。 |

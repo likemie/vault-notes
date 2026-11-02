@@ -26339,6 +26339,19 @@
     ]
   },
   {
+    "title": "Prospective Citation Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Prospective Citation Analysis.md",
+    "aliases": [
+      "引文前瞻分析",
+      "引文前瞻测度法",
+      "前瞻引文分析",
+      "历时引文分析",
+      "Diachronous Citation Analysis",
+      "Citations To Approach"
+    ]
+  },
+  {
     "title": "Q-Factor",
     "type": "method",
     "path": "wiki/methods/quantitative/Q-Factor.md",
@@ -26590,17 +26603,16 @@
     ]
   },
   {
-    "title": "Retrospective vs Prospective Citation Approaches",
+    "title": "Retrospective Citation Analysis",
     "type": "method",
-    "path": "wiki/methods/quantitative/Retrospective vs Prospective Citation Approaches.md",
+    "path": "wiki/methods/quantitative/Retrospective Citation Analysis.md",
     "aliases": [
-      "引文回溯与前瞻测度方法",
-      "引文回溯法与前瞻法",
-      "回溯法与前瞻法",
-      "共时与历时引文分析",
-      "Retrospective and Prospective Citation Approaches",
-      "Synchronous and Diachronous Citation Analysis",
-      "Citation From vs Citations To Approaches"
+      "引文回溯分析",
+      "引文回溯测度法",
+      "回溯引文分析",
+      "共时引文分析",
+      "Synchronous Citation Analysis",
+      "Citation From Approach"
     ]
   },
   {

@@ -101,7 +101,6 @@ updated: 2026-10-22
 > - **学术导师** [[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler） — 在曼彻斯特大学奠定其比较教育与制度史学底色；爱德华·桑代克（Edward L. Thorndike） — 在哥大奠定其实验心理学与实证测度视野。
 > - **学术考据与评价者** [[George Bereday]]、[[Val D. Rust]] — 在学科史梳理中高度肯定其首开教材体例的历史先驱地位。
 > - **同侪学者** [[Isaac Kandel]] — 哥大[[Normal School|师范学院]]共同开拓早期比较教育讲座的奠基同侪。
-> - **依托机构** 哥伦比亚大学[[Normal School|师范学院]]、多伦多大学安大略教育学院。
 
 ---
 

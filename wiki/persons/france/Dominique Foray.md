@@ -162,4 +162,7 @@ updated: 2026-10-22
 > | [[Tacit Knowledge]] | 概念 | 将波兰尼的哲学概念引入[[Knowledge-Based Economy\|知识经济]]学，系统论证编码知识贬值背景下默会技能的不可替代性。 |
 > | [[Learning Economy]] | 概念 | 核心理论提出者，界定现代经济竞争从静态知识存量转向动态快速学习与反思能力的[[Paradigm\|范式]]演变。 |
 > | [[Knowledge-Based Economy]] | 概念 | 奠基人之一，主编[[OECD\|经合组织]] 1996 年标志性报告，确立知识作为内生生产要素的全球政策共识。 |
-> | [[OECD]] | 机构 | 长期担任科技工业司与 [[Centre for Educational Research and Innovation\|CERI]] 资深学术顾问，直接起草并指导了多项全球技能与创新政策报告。 |
+> | [[OECD]] | 机构 | 长期担任科技工业司与 [[Centre for Educational Research and Innovation\|CERI]] 资深学术顾问，直接起草并指导了多项全球技能与创新政策报告。
+> | [[Centre for Educational Research and Innovation\|CERI]] | 机构 | 长期参与国际决策咨询与前沿创新研究的枢纽平台。
+> | [[EU\|欧盟]]委员会 | 机构 | 长期参与国际决策咨询与前沿创新研究的枢纽平台。
+> | 洛桑联邦理工学院（EPFL） | 机构 | 长期参与国际决策咨询与前沿创新研究的枢纽平台。 |

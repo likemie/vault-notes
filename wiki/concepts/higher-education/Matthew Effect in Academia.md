@@ -48,6 +48,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: completed
@@ -156,6 +157,7 @@ updated: 2026-10-31
 > - **1976 — 普赖斯建立引文累积优势数学模型** [[Derek de Solla Price|普赖斯]]提出引文累积优势理论，将社会学地位优势转化为网络入度增长动力学，预测了[[Citation Distribution|引文分布]]的肥尾特征。
 > - **2001 — 边康尼与巴拉巴西提出[[Bianconi-Barabási Model|适应度模型]]修正** 边康尼与巴拉巴西在优先连接中引入节点内生适应度参数，揭示内生创新质量打破先发马太效应锁定、实现后发赶超的动力学机制。
 > - **2017 — 舒尔茨-克莱文等确立制度化马太效应框架** [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]将马太效应扩展至高等教育治理，批判绩效拨款准市场对高校层级极化的制度性加剧。
+> - **2018 — Bol 等利用荷兰 NWO 全量申请数据确证资助端的马太效应** 蒂斯·博尔（Thijs Bol）等借助荷兰科学研究组织（NWO）包含未获批提议的全口径基金申请底表，利用断点回归证实微小外生资助优势引发后续 2.5 倍资金累积差距，实证确证资助系统自我强化的马太效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 243)]]
 > - **2021 — 科学学实证大数据全景确证** [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]系统整合双盲评审自然实验、荣誉随机赋予干预及多学科引文追踪大数据，确立了学术马太效应在认知、组织与网络维度的因果基石。
 
 ---
@@ -191,9 +193,11 @@ updated: 2026-10-31
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] | 维基百科前 1% 高产编辑社群随机实验 | 随机现场干[[Pilot Testing\|预实验]] | 随机赋予外生荣誉星章对后续编辑产出与真实荣誉获取的影响 | 实验组编辑中位数生产力提升 60%，且后续 90 天内赢得真实荣誉勋章显著增多 | 排除初始天赋差异的严格因果干预 | 证明外生赋予的声望认可独立于内在能力，直接启动自我强化的累积优势 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] | 物理学家引文网络追踪（顶尖学者 vs 助理教授） | 引文动态跨越模型 | 成果发表初期学术声望推动引用的经验阈值 $c_x$ | 顶尖学者跨越阈值 $c_x \approx 40$ 次引用；助理教授为 $c_x \approx 10$ 次引用 | 经验引文增长率拟合 | 证实声望仅在成果面世初期发挥 4 倍提振功能，长期依然取决于成果内在质量 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] | 网络生物学新兴学科全量[[Document\|文献]]引文网络 | 新兴学科历史队列被引追踪 | 2001 年首创队列与 2003 年成熟队列的长期引文均值对比 | 2001 年论著获得平均 101 次引用，2003 年论著平均被引 26 次，先发红利达 3.88 倍 | 多学科可重复验证 | 揭示顺沿既有链接的优先连接机制赋予先发成果长周期被引优势 |
+> | Bol, de Vaan, & van de Rijt (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang and Barabási (2021)]] | 荷兰科学研究组织（NWO）青年早期学者基金全量申请底表（涵盖资助分数线边缘申请人） | 断点回归准实验（RDD） | 早期基金获批与否对后续获取后续资助总额及职业声望的累积影响 | 刚越过分数线的险胜申请人，在后续八年内累计获取的后续资助总额是惜败同行的 2.5 倍以上 | 严格反事实断点检验，$p < 0.01$ | 实证确证了资助体系中独立于学者原初能力的纯制度性马太效应（Bol et al., 2018; Wang & Barabási, 2021, p. 243） |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 阐释[[Quasi-markets in Higher Education|高等教育准市场]]与绩效评估机制如何推动资源向已有优势机构集中，形成制度化的学术马太效应。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 剖析学术马太效应在[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|评审与引文门槛]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|合著声誉分配]]及[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|引文优先连接动力学]]中的多维机制与实证证据。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 援引荷兰 NWO 基金全量申请底表（Bol et al., 2018），实证揭示克服幸存者偏差后资助切分线边缘所展现的纯制度性马太效应累积规律（p. 243）。

@@ -115,7 +115,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **学术合作与理论盟友** 萨米尔·阿明（Samir Amin）、佩里·安德森（Perry Anderson）、[[Daniel Bensaïd]] — 共同参与全球反新自由主义与马克思主义理论重构。
 > - **学术对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 在《国际比较教育手册》中深入引述其马克思主义回归理论。
-> - **领导机构** 拉丁美洲社会科学理事会（CLACSO） — 曾任执行秘书长近十年。
 
 ---
 
@@ -126,3 +125,4 @@ updated: 2026-10-30
 > | [[Praxis]] | 概念 | 阐发将马克思主义重构为沟通科学认知与解放行动的实践哲学。 |
 > | [[Conditioned State Theory]] | 理论 | 为剖析拉美新自由主义受限国家向帝国主义垄断资本妥协提供理论论据。 |
 > | [[Historical-Comparative Method]] | 方法 | 倡导运用唯物辩证法与总体性历史分析把握全球化矛盾。 |
+> | 拉丁美洲社会科学理事会（CLACSO） | 组织 | 曾任执行秘书长近十年。 |

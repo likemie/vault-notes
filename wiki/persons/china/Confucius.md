@@ -190,4 +190,4 @@ updated: 2026-10-30
 > | [[Confucian Learning Tradition]] | 理论 | 奠定东亚 2,500 年学习传统与社会伦理。 |
 > | [[Official Knowledge]] | 概念 | 在当代教科书中被塑造成国家认同的正统基石。 |
 > | [[Recontextualization]] | 概念 | 充当跨文化[[Policy Borrowing]]中[[Selective Affinity]]的思想资源。 |
-> | [[Confucius Institute]] | 机构 | 以后世孔子之名建立的跨国语言文化与[[Educational Diplomacy\|教育外交]]旗舰载体。 |
+> | [[Confucius Institute]] | 机构 | 以后世孔子之名建立的跨国语言文化与[[Educational Diplomacy\|教育外交]]旗舰载体。[[Argument_Custer_2021_AidData\|(Custer et al., 2021, pp. 24–27, 30–32)]] |

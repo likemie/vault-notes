@@ -144,8 +144,7 @@ updated: 2026-11-02
 
 > [!person-network] 关系网络
 > - **政界盟友与委托人** 托尼·布莱尔（Tony Blair，英国前首相）— 亲自设立并授权首相交付组，为其交付学体系提供国家中枢政治后盾；[[Michael Gove|迈克尔·戈夫]]（Michael Gove，英国前教育大臣）— 深度接受其麦肯锡咨询理念，在白皮书中规划设立 [[Education Endowment Foundation|EEF]]。
-> - **政策咨询与智库网络** [[Michael Traill|迈克尔·特雷尔]]（Michael Traill）与[[Social Ventures Australia|澳大利亚社会创投]]（[[Social Ventures Australia|SVA]]）网络 — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning|澳大利亚证据学习中心]]（[[Evidence for Learning|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）。
-> - **政商学跨界与全球南方网络** 培生集团（Pearson plc）与培生可负担学习基金（PALF）— 亲任 PALF 董事会主席，与前麦肯锡同事凯特琳·唐纳利（Katelyn Donnelly）主导数千万美元风投资本流向全球南方低收费私立学校；同时依托世界经济论坛（World Economic Forum, WEF）等跨界平台输出全球教育治理框架（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]）。
+> - **政策咨询与智库网络** [[Michael Traill|迈克尔·特雷尔]]（Michael Traill） — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning|澳大利亚证据学习中心]]（[[Evidence for Learning|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）。
 > - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）。
 
 ---
@@ -179,6 +178,7 @@ updated: 2026-11-02
 > | [[Education Endowment Foundation]] | 组织 | 其麦肯锡咨询报告与理念直接启发了[[Michael Gove\|戈夫]]在白皮书中规划设立该机构。 |
 > | [[The Importance of Teaching]] | 政策 | 2010 年英国政府白皮书，直接吸纳巴伯关于教师质量与独立证据基金会的建议。 |
 > | [[Social Ventures Australia]] | 组织 | 麦肯锡校友网络与巴伯倡导的跨国证据模式向澳洲转译的关键承接载体。 |
+> | 培生集团（Pearson plc）与培生可负担学习基金（PALF） | 组织 | 亲任 PALF 董事会主席，与前麦肯锡同事凯特琳·唐纳利（Katelyn Donnelly）主导数千万美元风投资本流向全球南方低收费私立学校；同时依托世界经济论坛（World Economic Forum, WEF）等跨界平台输出全球教育治理框架。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. 81–82)]] |
 > | [[Evidence for Learning]] | 组织 | 引入 EEF 工具包并获联合资助的澳洲本土试验平台，深植于巴伯构建的跨国网络。 |
 > | [[Social Impact Investing]] | 概念 | 巴伯在培生时期推动 PALF 基金在发展中国家投资低收费私校的核心道德修辞与运作机制。 |
 > | [[Paul Morris]] | 人物 | 批判比较教育学者，深入剖析巴伯交付学[[Discourse\|话语]]背后的政治神学修辞与绩效霸权。 |

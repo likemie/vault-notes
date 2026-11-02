@@ -182,4 +182,5 @@ updated: 2026-11-02
 > | [[Metacognitive Laziness]] | 概念 | 在 2025 年论文中用以解释 AI 环境下[[Metacognition\|元认知]]未获显著促进的核心机制。 |
 > | [[Third Generation Activity Theory]] | 理论 | 将第三代活动理论扩展应用于移动计算机支持[[Collaborative Learning\|协作学习]]（AT-MCSCL 框架）。 |
 > | [[Baseline Standardized Mean Difference]] | 方法 | 严格践行并确立为 AI 元分析准入的基线等效控制门槛（$d < 0.25$）。 |
-> | [[Best Evidence in Brief]] | 事实 | 领导建设面向海外华人的中文[[Evidence-Based Education\|循证教育]]传播网络。 |
+> | [[Best Evidence in Brief]] | 事实 | 领导建设面向海外华人的中文[[Evidence-Based Education\|循证教育]]传播网络。
+> | [[Best Evidence Encyclopedia\|BEE]] | 组织 | 长期主导华语网络转化与维护工作。 |

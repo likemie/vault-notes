@@ -126,7 +126,6 @@ updated: 2026-10-30
 > - **主要学术论敌 / 批判对话方** 
 >   - 伊曼纽尔·沃勒斯坦（Immanuel Wallerstein） — 冲突取向的政治现实主义世界体系流派，批评斯坦福学派掩盖中心对边缘的资本积累剥削。
 >   - [[Kathryn Anderson-Levitt|凯瑟琳·安德森-莱维特]]（Kathryn Anderson-Levitt）与[[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi） — 微观[[Ethnography|民族志]]与借用借贷学派，批评宏观趋同掩盖了本土实质抵制与变通。
-> - **依托学术重镇** 斯坦福大学社会学系（Stanford Sociology）、斯坦福教育研究生院（Stanford GSE）、[[Comparative and International Education Society|比较与国际教育学会]]（CIES）、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]政策研究网络。
 
 ---
 
@@ -164,3 +163,8 @@ updated: 2026-10-30
 > | [[Rationalized Myth]] | 概念 | 组织社会学新制度主义的核心基石，揭示正式结构背后的社会合法性仪式。 |
 > | [[John W. Meyer]] | 人物 | 斯坦福学派开创领袖，新制度主义社会学与世界社会理论大师。 |
 > | [[Robert Arnove]] | 人物 | 迈耶门生，将世界体系政治现实主义引入比较教育并与斯坦福学派形成学术对话。 |
+> | 斯坦福大学社会学系（Stanford Sociology） | 组织 | 学派依托的学术重镇。 |
+> | 斯坦福教育研究生院（Stanford GSE） | 组织 | 学派依托的学术重镇。 |
+> | [[Comparative and International Education Society\|比较与国际教育学会]] | 组织 | 学派依托的学术重镇。 |
+> | [[UNESCO\|联合国教科文组织]] | 组织 | 政策研究网络。 |
+> | [[World Bank\|世界银行]] | 组织 | 政策研究网络。 |

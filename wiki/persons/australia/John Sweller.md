@@ -142,7 +142,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **学术合作者** Paul A. Kirschner — 长期核心学术盟友，共同发表 2006 年极简指导批判及 2022 年科学教育政策危机论；Richard E. Clark — 共同合著 2006 年论文；Jeroen J. G. van Merriënboer 与 Fred Paas — 1990 年代共同奠定现代三维[[Cognitive Load Theory\|认知负荷理论]]模型；张莉（Li Zhang）— 合作撰写 2022 年反探究政策论文。
 > - **论敌与批评者** [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] — 学习科学阵营学者，于 2007 年与 2023 年两度对 Sweller 阵营发起系统反击，证明[[Inquiry-Based Learning\|指导式探究]]具有更优的概念建构与迁移成效；Anthony Skourdoumbis — 批判其理论沦为保守派智库规训教师教育的工具；[[Deanna Kuhn]] — 通过[[Control of Variables Strategy\|变量控制策略]]长期实验反驳其关于[[Direct Instruction\|直接教学]]具有持久优势的主张。
-> - **机构与政策项目** 新南威尔士大学（UNSW）— 长期任职机构与荣休学术基地；[[Centre for Independent Studies]] — 合作保守智库，资助并出版其政策批判报告；[[Education Endowment Foundation]] — 推广机构，将其理论工具列入全球教学工具箱；[[Strong Beginnings Report]] — 澳大利亚联邦政策报告，将其著作列为全国[[Initial Teacher Training\|初始教师教育]]法定必修文献。
 
 ---
 
@@ -178,3 +177,5 @@ updated: 2026-10-30
 > | [[Cognitive Load Theory]] | 理论 | 开创者与核心奠基人，系统建构内在、外在与关联负荷模型及样例效应等一系列微观教学原理。 |
 > | [[Strong Beginnings Report]] | 政策 | 其论著被该报告列为澳大利亚[[Initial Teacher Training\|初始教师教育]]核心文献，深度重塑了职前教师资格认证国家标准。 |
 > | [[Centre for Independent Studies]] | 智库 | 担任学者并出版政策分析报告，成为澳大利亚保守派智库倡导重返传统讲授的核心[[Source of Knowledge\|知识来源]]。 |
+> | 新南威尔士大学（UNSW） | 组织 | 长期任职机构与荣休学术基地。 |
+> | [[Education Endowment Foundation]] | 组织 | 推广机构，将其理论工具列入全球教学工具箱。 |

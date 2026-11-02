@@ -149,7 +149,7 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **哲学奠基资源** [[John Dewey|约翰·杜威]]（交易[[Epistemology|认识论]]与经验探究哲学）、[[Hannah Arendt|汉娜·阿伦特]]（行动理论与公共领域主体化）、[[Bruno Latour|布鲁诺·拉图尔]]（科学社会学与[[Actor-Network Theory|行动者网络理论]]）。
 > - **学术合作与理论对话** 尼古拉斯·伯布利斯（Nicholas Burbules，合著[[Pragmatic Paradigm|实用主义]]奠基之作）、[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Critical Pedagogy|批判教育学]]对话者）。
-> - **批评靶标与制度对象** [[Evidence-Based Education|循证教育]]倡导者、[[John Hattie|约翰·哈蒂]]（可见学习模式）、[[OECD]] 与 [[PISA]] 标准化测评体制。
+> - **批评靶标** [[Evidence-Based Education|循证教育]]倡导者、[[John Hattie|约翰·哈蒂]]（可见学习模式）。
 > - **国际学术共鸣同行** [[Thomas Aastrup Rømer|托马斯·罗默]]（丹麦教育哲学批判）、特里·里格利（英国批判教育学）、[[Robert Cowen|罗伯特·考恩]]（比较教育制度社会学）。
 
 ---
@@ -180,3 +180,5 @@ updated: 2026-11-02
 > | [[Phronesis]] | 概念 | 将实践智慧确立为超越机械实证规则的教师[[Professional Judgment\|专业判断]]本质。 |
 > | [[Transactional Epistemology]] | 理论 | 与 Burbules 合作系统阐述[[John Dewey\|杜威]]交易认识论，构筑反思[[Scientism\|科学主义]]的哲学基石。 |
 > | [[Visible Learning]] | 概念 | 追问评价效能究竟服务于何种教育期望，其被动性哲学成为解构[[John Hattie\|哈蒂]]体系的关键思想资源。 |
+> | [[OECD]] | 组织 | 将其与 [[PISA]] 标准化测评体制列为批评靶标。 |
+> | [[PISA]] | 项目 | 将其标准化测评体制列为批评靶标。 |

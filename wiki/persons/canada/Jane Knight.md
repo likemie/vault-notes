@@ -168,4 +168,5 @@ updated: 2026-10-30
 > | [[International Education Hubs]] | 概念 | 开创概念构架，系统提炼学生、人才与知识[[Innovation Hub\|创新枢纽]]的三级分类模型。 |
 > | [[Internationalization of Higher Education]] | 概念 | 提出广为引用的国际化经典操作定义，奠定国际高教政策比较基准。 |
 > | [[Soft Power]] | 概念 | 深入批判软实力的国家利己主义与单向投射局限，确立知识外交的对话边界。 |
-> | [[GATS and Trade in Education Services]] | 政策 | 深入分析跨境教育服务贸易对学术主权与公共善传统的制度冲击。 |
+> | [[GATS and Trade in Education Services]] | 政策 | 深入分析跨境教育服务贸易对学术主权与公共善传统的制度冲击。
+> | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（[[University Alliance of the Silk Road\|UASR]]） | 组织 | 其[[Knowledge Diplomacy\|知识外交]]框架被广泛用于审视该跨国多边大学网络及下属专业工程办学实践。[[Argument_Liu_2025_IndHE\|(Liu et al., 2025, pp. 189–190)]] |

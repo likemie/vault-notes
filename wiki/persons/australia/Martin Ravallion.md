@@ -112,8 +112,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **长期学术研究同仁** 亚当·瓦格斯塔夫（Adam Wagstaff）— 共同主导世行科研出版物与引文影响力审计。
-> - **机构中枢** [[Development Economics Vice Presidency]] — 长期担任其直属研究部主任。
-> - **母体组织** [[World Bank]] — 供职近四分之一个世纪并领导其微观实证知识生产体系。
 
 ---
 

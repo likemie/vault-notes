@@ -60,8 +60,15 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
-> - **制度延续事件** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] — 在道德承诺、经费危机和 [[UNESCO]] 谈判之间维护考试连续性，并推动政府支持与独立法律身份结合。
-> - **治理机构** [[International Schools Examination Syndicate\|国际学校考试辛迪加]]（ISES）／[[International Baccalaureate\|国际文凭]]办公室（IBO）。
 > - **教育与考试合作者** 乔治·潘绍、让·西奥蒂 — 分别提供教育改革声望与早期考试委员会领导。
 > - **执行领导者** [[Alec Peterson\|亚历克·皮特森]] — 在理事会治理框架内推动项目全职实施和国际筹资。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Founding of the International Baccalaureate\|国际文凭创立]] | 事件 | 共同创制事件。 |
+> | [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 事件 | 在道德承诺、经费危机和 [[UNESCO]] 谈判之间维护考试连续性，并推动政府支持与独立法律身份结合。 |
+> | [[International Schools Examination Syndicate\|国际学校考试辛迪加]]（ISES）／[[International Baccalaureate\|国际文凭]]办公室（IBO） | 组织 | 治理机构。 |

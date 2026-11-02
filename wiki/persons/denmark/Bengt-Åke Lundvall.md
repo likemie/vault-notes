@@ -143,4 +143,5 @@ updated: 2026-10-25
 > | [[Systems of Innovation]] | 理论 | 将社会学习能力与制度网络作为创新系统的核心内核。 |
 > | [[Evolutionary Economics]] | 理论 | 以[[Bounded Rationality\|有限理性]]与局域化学习为微观基础挑战新古典均衡范式。 |
 > | [[Learning Economy]] | 概念 | 与福瑞合作界定该术语，论证知识折旧加速下互动沟通与全社会学习敏捷度的决定性价值。 |
-> | [[Knowledge-Based Economy]] | 概念 | 将知识经济深化为以学习为核心动力的经济形态，奠定 [[OECD]] 政策研究底色。 |
+> | [[Knowledge-Based Economy]] | 概念 | 将知识经济深化为以学习为核心动力的经济形态，奠定 [[OECD]] 政策研究底色。
+> | [[OECD]] | 组织 | 1990 年代主持编制 OECD 创新政策与国家创新系统评价指标体系。 |

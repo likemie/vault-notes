@@ -143,4 +143,6 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[New Education Movement]] | 事实/事件 | 作为《新教育》主编设定了运动前期的激进民主基调。 |
 > | [[Pragmatism in China]] | 概念 | 哥大留美网络的核心，推动[[Pragmatic Paradigm\|实用主义]]民主理想在华落地。 |
-> | [[1922 Educational System Reform]] | 政策/事实 | 参与起草并推动平民教育与个性发展等七项标准。 |
+> | [[1922 Educational System Reform]] | 政策/事实 | 参与起草并推动平民教育与个性发展等七项标准。
+> | 《新教育》 | 组织 | 创办人兼主编。
+> | 北京大学 | 组织 | 长期任校长。 |

@@ -164,7 +164,6 @@ updated: 2026-10-30
 > - **师承／合作者** [[Bob Lingard]] — 长期核心学术合作者，共同创立全球教育政策批判社会学[[Paradigm|范式]]；Miriam Henry、Sandra Taylor — 早期 [[OECD]] 专著合著者。
 > - **理论思想资源** 查尔斯·泰勒（Charles Taylor）、阿尔君·阿帕杜莱（Arjun Appadurai） — [[Social Imaginary|现代社会想象]]理论；克劳斯·多兹（Klaus Dodds） — [[Critical Geopolitics|批判地缘政治学]]理论；[[Edward Said|爱德华·萨义德]]（Edward Said） — 后殖民主义与[[Orientalism|东方主义]]批判；[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）、[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose） — [[Space of Equivalence|统计等值空间]]与[[Governing at a Distance|远处治理]]。
 > - **对话学者／前沿争鸣** 迈克尔·彼得斯（Michael Peters） — [[Knowledge Capitalism|知识资本主义]]理论；菲利普·布朗（Phillip Brown）、休·劳德（Hugh Lauder） — 全球技能竞赛与工作性质转型研究。
-> - **分析机构／对象** [[OECD]]、[[PISA]]、[[International Education Hubs|国际教育枢纽]]、亚太跨国高校。
 
 ---
 
@@ -175,4 +174,15 @@ updated: 2026-10-30
 > >
 > > - **外部质疑视角** 部分留学生经验[[Ethnography|民族志]]学者指出，里兹维从宏观批判地缘政治和跨国话语出发的分析，虽然精准揭示了资本积累和国家战略对高等教育的规训，但相对缺少对个体留学生在具体日常生活、课堂互动与文化接触中呈现的复杂情感、变通策略及微观主体抗争的纵深经验描摹。
 > > - **里兹维学术立场** 坚称批判地缘政治学的宗旨正是要将“宏观地缘权力”与“微观日常经验”勾连起来，证明家庭送子女留学的日常抉择如何汇聚为改写全球格局的结构性力量；其研究首要任务在于戳穿市场理性将教育窄化为创收商品的虚伪叙事，为重构真正的跨文化理解与全球正义确立批判前提。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–92, 101–103)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[OECD]] | 组织 | 分析对象。 |
+> | [[PISA]] | 项目 | 分析对象。 |
+> | [[International Education Hubs\|国际教育枢纽]] | 概念 | 分析对象。 |
+> | 亚太跨国高校 | 组织 | 分析对象。 |
 

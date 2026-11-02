@@ -175,4 +175,5 @@ updated: 2026-10-27
 > | [[1960 Bellagio Conference]] | 事实 (峰会) | 史学发掘与关键定性者，确立其作为战后危机动员三部曲起点的定位。 |
 > | [[1964 UNESCO-World Bank Cooperative Agreement]] | 事实 (政策) | 核心史学分析者，解构[[World Bank\|世界银行]]借信贷评估取代[[UNESCO\|教科文组织]]领导权的历史节点。 |
 > | [[Poverty Reduction Strategy Papers]] | 事实 (政策) | 剖析世界银行如何将管理主义效率与贷款挂钩实施国家规制。 |
-> | [[Human Capital Theory]] | 理论 | 批判性历史考察者，阐释人力资本论如何从冷战边陲理论上升为跨国官方意识形态。 |
+> | [[Human Capital Theory]] | 理论 | 批判性历史考察者，阐释人力资本论如何从冷战边陲理论上升为跨国官方意识形态。
+> | [[OECD]] | 组织 | 其[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）及指标部门的制度史构成 Ydesen 毕生研究的中心档案库。 |

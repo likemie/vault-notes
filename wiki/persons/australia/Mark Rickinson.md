@@ -102,7 +102,6 @@ updated: 2026-10-26
 
 > [!person-network] 关系网络
 > - **合作者** 卢卡斯·沃尔什（Lucas Walsh）、乔安妮·格里森（Joanne Gleeson） — 莫[[Roy Nash|纳什]]大学 Q 项目联合研究团队核心成员，共同开展实证调查并拓展 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
-> - **机构／项目** [[Monash Q Project]] — 主持开展的五年期旗舰研究项目；[[Centre for Educational Research and Innovation\|CERI]] / [[OECD]] — 合作出版跨国政策专著。
 
 ---
 
@@ -112,4 +111,6 @@ updated: 2026-10-26
 > |:-----|:-----|:-----|
 > | [[Quality Use of Research Evidence Framework]] | 理论 | 核心研制者，奠定适切证据、审慎实施与多层使能结构。 |
 > | [[Monash Q Project]] | 政策/项目 | 项目学术主持人，领导五年跨国跨校实证探索。 |
+> | [[Centre for Educational Research and Innovation\|CERI]] | 组织 | 合作出版跨国政策专著。 |
+> | [[OECD]] | 组织 | 合作出版跨国政策专著。 |
 > | [[Evidence-Informed Practice]] | 概念 | 将循证实践深化为关注使用质量的实践[[Paradigm\|范式]]。 |

@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -42,7 +42,8 @@ related_theories:
   - "[[Citation Copy Model]]"
 related_methods:
   - "[[Journal Impact Factor]]"
-  - "[[Retrospective vs Prospective Citation Approaches]]"
+  - "[[Retrospective Citation Analysis]]"
+  - "[[Prospective Citation Analysis]]"
 related_instruments: []
 related_persons:
   - "[[John P. Perdew]]"
@@ -93,7 +94,7 @@ updated: 2026-11-02
 > [!method-panel] 研究设计与测量方法
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **[[Retrospective vs Prospective Citation Approaches|引文回溯与前瞻测度方法]]**<br>`Retrospective vs Prospective Citation Approaches` | 区分回溯性方法（以施引文献为锚点度量施引记忆纵深）与前瞻性方法（追踪成果队列各年度新增引文度量集体遗忘），通过文献增长率建立对偶积分变换 (pp. 204–205)。 |
+> | **[[Retrospective Citation Analysis|引文回溯分析]]与[[Prospective Citation Analysis|引文前瞻分析]]**<br>`Retrospective & Prospective Citation Analyses` | 区分回溯性方法（以施引文献为锚点度量施引记忆纵深）与前瞻性方法（追踪成果队列各年度新增引文度量集体遗忘），通过文献增长率建立对偶积分变换 (pp. 204–205)。 |
 > | **二维知识搜索测度**<br>`Two-Dimensional Knowledge Metric` | 测算单篇成果参考文献平均年龄 $\langle T \rangle$ 与离散系数 $\sigma_T$，在控制出版年份与细分领域前提下定位前 5% 高引的知识热点 (pp. 200–201)。 |
 > | **WSB 动力学参数拟合**<br>`WSB Maximum Likelihood Estimation` | 采集发表后 $T_{\text{train}}$ 年内逐年获引序列，利用极大似然法估计相对适应度 $\lambda_i$、紧迫性 $\mu_i$ 与寿命 $\sigma_i$，生成长期置信区间包络 (Wang et al., 2013; pp. 211, 217–218)。 |
 > | **引文复制错误追踪**<br>`Citation Error Propagation Tracking` | 识别参考文献中因排版错误产生的微观印刷变异（如特定页码印刷错误），利用随机独立假设下的极低重合概率（$10^{-4}$），实证确证学者撰写成果时的引文复制行为 (Simkin & Roychowdhury, 2003, 2005; pp. 260–261)。 |
@@ -214,7 +215,7 @@ updated: 2026-11-02
 > 科学界测度引文年龄存在两类截然不同的方法进路（Box 19.1，pp. 204–205）：
 > - **回溯法（Retrospective / Citation From）** 考察特定年份施引成果向过去引用的参考文献年龄分布，测度学者的“引用记忆”；前述知识热点与经典引用分析即依托该方法展开 (pp. 204–205)。
 > - **前瞻法（Prospective / Citations To）** 追踪特定年份发表成果队列在后续岁月中逐年获取的新引文时序，测度科学界对该成果的“集体遗忘”与真实长程学术影响；对引文失效期与动力学主方程的解析均基于此进路 (pp. 204–205)。
-> - **数学关联** 依托[[Retrospective vs Prospective Citation Approaches|引文回溯与前瞻测度方法]]（Retrospective vs Prospective Citation Approaches），两者通过系统文献指数增长率 $\beta$ 的积分变换建立确定性对偶连接：$P_{\text{retro}}(\tau) \propto P_{\text{prosp}}(\tau) e^{-\beta \tau}$ (Yin & Wang, 2017; pp. 204–205)。
+> - **数学关联** 依托[[Retrospective Citation Analysis|引文回溯分析]]与[[Prospective Citation Analysis|引文前瞻分析]]（Retrospective & Prospective Citation Analyses），两者通过系统文献指数增长率 $\beta$ 的积分变换建立确定性对偶连接：$P_{\text{retro}}(\tau) \propto P_{\text{prosp}}(\tau) e^{-\beta \tau}$ (Yin & Wang, 2017; pp. 204–205)。
 
 ---
 

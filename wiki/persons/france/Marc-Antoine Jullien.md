@@ -227,7 +227,6 @@ updated: 2026-11-02
 > - **先驱／[[Faculty Psychology\|官能心理学]]参照** 皮埃尔·拉罗米吉埃（Pierre Laromiguière） 其确立的注意力、比较力与推理力三大心灵官能哲学，直接构成朱利安运用[[Faculty Psychology\|官能心理学]]设计智育[[Questionnaire\|问卷]]的测量框架。（pp. 16–17）
 > - **同代思想参照** [[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte） 同时代法国[[Positivism\|实证主义]]哲学开驱，共同主张将[[Scientific Method\|科学方法]]引入人类社会事务与道德秩序重构。（pp. 13–14）
 > - **国际对话者** 托马斯·杰斐逊（Thomas Jefferson） 美国前总统在 1810 年致信赞扬朱利安对[[International Education\|国际教育]]事业的执着奉献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 22)]]
-> - **跨国和平组织参照** 伦敦和平之友协会（Association of Friends for Peace） 朱利安作为成员投身跨国反战和平运动，为其 1833 年《致英格兰民族书》的发表提供组织依托。（Palmer, 1993:205）
 > - **批评者／论敌** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein） 20 世纪科学实证派学者，指责朱利安问卷充斥先验道德假设与引导性提问，批评其调查退化为教育理念宣教。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–17)]]
 > - **现代学术发掘者** 斯图尔特·弗雷泽（Stewart Fraser） 1964 年出版权威英译与导论评注本文献集，确立其作为学科奠基性文献的历史地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 24)]]
 > - **现代思想史重构者** 罗伯特·帕尔默（R. R. Palmer） 1993 年出版思想传记《从雅各宾到自由派》，系统阐明其从激进革命工具论到宪政自由主义教育预防论的演进轨迹。（Palmer, 1993）
@@ -271,3 +270,4 @@ updated: 2026-11-02
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |
 > | [[State Educational Sovereignty\|国家教育权]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
+> | 伦敦和平之友协会（Association of Friends for Peace） | 组织 | 朱利安作为成员投身跨国反战和平运动，为其 1833 年《致英格兰民族书》的发表提供组织依托。（Palmer, 1993:205） |
