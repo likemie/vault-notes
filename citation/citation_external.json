@@ -1730,11 +1730,13 @@
     "Barnett (2002)": "Barnett, 2002",
     "Barnett (2008)": "Barnett, 2008",
     "Barnett (2014)": "Barnett, 2014",
+    "Barnett (2016)": "Barnett, 2016",
     "Barnett, 1969": "Barnett, 1969",
     "Barnett, 1987": "Barnett, 1987",
     "Barnett, 2002": "Barnett, 2002",
     "Barnett, 2008": "Barnett, 2008",
     "Barnett, 2014": "Barnett, 2014",
+    "Barnett, 2016": "Barnett, 2016",
     "Barney Glaser (1978)": "Barney Glaser, 1978",
     "Barney Glaser, 1978": "Barney Glaser, 1978",
     "Baron (1988)": "Baron, 1988",
@@ -2694,6 +2696,8 @@
     "Bolat & Tas, 2022": "Bolat & Tas, 2022",
     "Bold et al. (2017)": "Bold et al., 2017",
     "Bold et al., 2017": "Bold et al., 2017",
+    "Bollen (2014)": "Bollen, 2014",
+    "Bollen, 2014": "Bollen, 2014",
     "Bolton & Heathcote (1999)": "Bolton & Heathcote, 1999",
     "Bolton & Heathcote, 1999": "Bolton & Heathcote, 1999",
     "Bolton (1996)": "Bolton, 1996",
@@ -3587,6 +3591,8 @@
     "Béland & Cox, 2011": "Béland & Cox, 2011",
     "Bénabou & Tirole (2006)": "Bénabou & Tirole, 2006",
     "Bénabou & Tirole, 2006": "Bénabou & Tirole, 2006",
+    "Börner et al. (2012)": "Börner et al., 2012",
+    "Börner et al., 2012": "Börner et al., 2012",
     "Börzel & Risse (2016)": "Börzel & Risse, 2016",
     "Börzel & Risse, 2016": "Börzel & Risse, 2016",
     "Böttger et al. (2023)": "Böttger et al., 2023",
@@ -7912,9 +7918,7 @@
     "Fortunato & Barthélemy (2007)": "Fortunato & Barthélemy, 2007",
     "Fortunato & Barthélemy, 2007": "Fortunato & Barthélemy, 2007",
     "Fortunato et al. (2014)": "Fortunato et al., 2014",
-    "Fortunato et al. (2018)": "Fortunato et al., 2018",
     "Fortunato et al., 2014": "Fortunato et al., 2014",
-    "Fortunato et al., 2018": "Fortunato et al., 2018",
     "Forty Years On (1969)": "Forty Years On, 1969",
     "Forty Years On, 1969": "Forty Years On, 1969",
     "Foster (1960)": "Foster, 1960",
@@ -9437,6 +9441,8 @@
     "Gronn, 1982": "Gronn, 1982",
     "Gropelli (1970)": "Gropelli, 1970",
     "Gropelli, 1970": "Gropelli, 1970",
+    "Gross et al. (1999)": "Gross et al., 1999",
+    "Gross et al., 1999": "Gross et al., 1999",
     "Grossen (2017)": "Grossen, 2017",
     "Grossen, 2017": "Grossen, 2017",
     "Grossman & Helpman (1991)": "Grossman & Helpman, 1991",
@@ -17390,6 +17396,8 @@
     "Nisbett (2005)": "Nisbett, 2005",
     "Nisbett, 2003": "Nisbett, 2003",
     "Nisbett, 2005": "Nisbett, 2005",
+    "Nissen et al. (2016)": "Nissen et al., 2016",
+    "Nissen et al., 2016": "Nissen et al., 2016",
     "Niu et al. (2013)": "Niu et al., 2013",
     "Niu et al., 2013": "Niu et al., 2013",
     "Nixon (1981)": "Nixon, 1981",
@@ -20312,6 +20320,7 @@
     "Rowland, 2014": "Rowland, 2014",
     "Rowland-Bryant et al. (2009)": "Rowland-Bryant et al., 2009",
     "Rowland-Bryant et al., 2009": "Rowland-Bryant et al., 2009",
+    "Roy (1985)": "Roy, 1985",
     "Roy (2018)": "Roy, 2018",
     "Roy (2019)": "Roy, 2019",
     "Roy (2020)": "Roy, 2020",
@@ -20329,6 +20338,7 @@
     "Roy et al. (2018)": "Roy et al., 2018",
     "Roy et al., 2014": "Roy et al., 2014",
     "Roy et al., 2018": "Roy et al., 2018",
+    "Roy, 1985": "Roy, 1985",
     "Roy, 2018": "Roy, 2018",
     "Roy, 2019": "Roy, 2019",
     "Roy, 2020": "Roy, 2020",
@@ -36821,7 +36831,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
       ],
       "title": "Incentives and creativity: evidence from the HHMI investigator program"
     },
@@ -39871,6 +39882,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Comprehensive educator effectiveness models that work  Impact of the TAP system on student achievement in Louisiana"
+    },
+    "Barnett, 2016": {
+      "aliases": [
+        "Barnett, 2016",
+        "Barnett (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barnett, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+      ],
+      "title": ""
     },
     "Barney Glaser, 1978": {
       "aliases": [
@@ -46927,6 +46953,21 @@
       ],
       "title": ""
     },
+    "Bollen, 2014": {
+      "aliases": [
+        "Bollen, 2014",
+        "Bollen (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bollen, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+      ],
+      "title": ""
+    },
     "Bolton & Heathcote, 1999": {
       "aliases": [
         "Bolton & Heathcote, 1999",
@@ -48310,6 +48351,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Combinatorial Novelty.md",
         "wiki/concepts/science-policy/Novelty Bias in Peer Review.md"
       ],
@@ -50682,6 +50724,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Combinatorial Novelty.md",
         "wiki/concepts/science-policy/Novelty Bias in Peer Review.md"
       ],
@@ -53522,6 +53565,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/uk/Incentivised Pay and Coaching Trial.md"
+      ],
+      "title": ""
+    },
+    "Börner et al., 2012": {
+      "aliases": [
+        "Börner et al., 2012",
+        "Börner et al. (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Börner et al., 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
       ],
       "title": ""
     },
@@ -70829,6 +70887,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Science Immediacy.md"
       ],
       "title": ""
@@ -85034,22 +85093,6 @@
       ],
       "title": ""
     },
-    "Fortunato et al., 2018": {
-      "aliases": [
-        "Fortunato et al., 2018",
-        "Fortunato et al. (2018)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Fortunato et al., 2018"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/italy/Santo Fortunato.md",
-        "wiki/persons/us/Derek de Solla Price.md"
-      ],
-      "title": ""
-    },
     "Forty Years On, 1969": {
       "aliases": [
         "Forty Years On, 1969",
@@ -85078,6 +85121,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Crowded Frontier.md"
       ],
       "title": ""
@@ -96128,6 +96172,21 @@
       ],
       "title": ""
     },
+    "Gross et al., 1999": {
+      "aliases": [
+        "Gross et al., 1999",
+        "Gross et al. (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gross et al., 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+      ],
+      "title": ""
+    },
     "Grossen, 2017": {
       "aliases": [
         "Grossen, 2017",
@@ -105075,6 +105134,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/methods/quantitative/h-Index.md",
         "wiki/methods/quantitative/m-Quotient.md"
       ],
@@ -118064,6 +118124,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Sleeping Beauty in Science.md",
         "wiki/theories/science-policy/WSB Model.md"
@@ -129198,6 +129259,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/competency-and-assessment/Creativity.md"
       ],
       "title": ""
@@ -144007,6 +144069,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Goliath's Shadow.md",
         "wiki/concepts/science-policy/Peer Effects in Science.md"
@@ -153661,6 +153724,21 @@
       ],
       "title": ""
     },
+    "Nissen et al., 2016": {
+      "aliases": [
+        "Nissen et al., 2016",
+        "Nissen et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nissen et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+      ],
+      "title": ""
+    },
     "Niu et al., 2013": {
       "aliases": [
         "Niu et al., 2013",
@@ -161628,6 +161706,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/persons/us/Chaoming Song.md"
       ],
       "title": ""
@@ -162561,6 +162640,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/persons/us/Alexander M. Petersen.md"
       ],
       "title": ""
@@ -166067,6 +166147,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
         "wiki/methods/quantitative/Relative Citation Normalization.md",
         "wiki/persons/italy/Filippo Radicchi.md",
@@ -167798,6 +167879,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/research-methodology/Heterogeneity.md",
         "wiki/concepts/research-methodology/Variable.md",
         "wiki/concepts/science-policy/Citation Distribution.md",
@@ -174383,6 +174465,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/methods/quantitative/Fail-Safe N.md",
         "wiki/methods/quantitative/Meta-analysis.md",
         "wiki/methods/quantitative/Meta-meta-analysis.md"
@@ -175183,6 +175266,21 @@
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md",
         "wiki/facts/uk/Researching School Choices.md",
         "wiki/persons/uk/Michael Gove.md"
+      ],
+      "title": ""
+    },
+    "Roy, 1985": {
+      "aliases": [
+        "Roy, 1985",
+        "Roy (1985)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Roy, 1985"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
       ],
       "title": ""
     },
@@ -176383,7 +176481,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
       ],
       "title": ""
     },
@@ -184237,6 +184336,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Scientific Credit.md"
       ],
       "title": ""
@@ -186237,6 +186337,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/theories/science-policy/R-Model.md"
       ],
       "title": ""
@@ -203678,6 +203779,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Combinatorial Novelty.md",
         "wiki/concepts/science-policy/Novelty Paradox.md",
@@ -207700,6 +207802,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/science-policy/Citation Prediction Envelope.md",
         "wiki/concepts/science-policy/Ultimate Impact.md",
         "wiki/methods/quantitative/Prospective Citation Analysis.md",
@@ -214007,6 +214110,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Big Science.md",
         "wiki/facts/us/Microsoft Academic Graph.md",
@@ -214154,6 +214258,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/university-industry-collaboration/Team Science.md"
       ],
       "title": ""
