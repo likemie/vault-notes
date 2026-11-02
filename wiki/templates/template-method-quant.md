@@ -158,7 +158,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | [[<方法名>]] | 变体 | 修正了本方法的哪一缺陷。 |
 > | [[<方法名>]] | 替代方法 | 适用场景的区别。 |
 
-%% 只写有实质关系的行。 %%
+%% 只链 Concept、Theory、Method、Instrument、Person、Fact。Argument 写入下方相关研究索引，不在本表单列。关系说明需要出处时，用 APA 短引用链接 Argument。只写有实质关系的行。 %%
 
 ---
 

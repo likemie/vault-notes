@@ -144,6 +144,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
+%% 只链 Concept、Theory、Method、Instrument、Person、Fact。试验与结果所在的 Argument 写入相关研究索引，不在本表单列。 %%
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
@@ -151,4 +153,3 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | {{教学策略概念}} | Concept | {{该项目实际采用的措施。}} |
 > | {{开发、交付、资助或评估机构}} | Fact (Organization) | {{具体角色。}} |
 > | {{EEF 因素条目}} | Concept | {{对应的 Toolkit 主题。}} |
-> | {{读完报告后建立的 Argument}} | Argument | {{对应哪次试验与哪项结果。}} |

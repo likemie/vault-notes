@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -46,8 +46,11 @@ related_facts:
   - "[[Microsoft Academic Graph]]"
   - "[[SciSciNet]]"
   - "[[Dimensions]]"
+  - "[[OpenAlex]]"
+  - "[[COnnecting REpositories]]"
 related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-11-02
@@ -57,12 +60,12 @@ updated: 2026-11-02
 ---
 
 > [!claim] 项目定位
-> Crossref（早期写作 CrossRef，法权主体为国际出版商联合会 Publishers International Linking Association, Inc., PILA）是 2000 年由国际主要学术出版商联合发起设立的非营利性学术元数据清算机构与国际数字对象标识符基金会（International DOI Foundation, IDF）官方注册代理。Crossref 旨在建立跨出版商的开放参考文献持久链接系统，现已拓展为覆盖期刊出版物、学术专著、会议录、预印本、研究资助及数据集的全球综合学术元数据基础设施。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> Crossref（早期写作 CrossRef，法权主体为国际出版商联合会 Publishers International Linking Association, Inc., PILA）是 2000 年由国际主要学术出版商联合发起设立的非营利性学术元数据清算机构与国际数字对象标识符基金会（International DOI Foundation, IDF）官方注册代理。Crossref 旨在建立跨出版商的开放参考文献持久链接系统，现已拓展为覆盖期刊出版物、学术专著、会议录、预印本、研究资助及数据集的全球综合学术元数据基础设施。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1999 年由学术出版商发起筹备，2000 年 1 月正式成立 PILA 并上线 DOI 参考文献交叉链接服务，常态化持续运营至今。
 > - **发起方与资助机制** 由多家国际学术出版机构共同创建，实行会员制非营利治理；经费依托出版商缴纳的年度会员费与 DOI 注册按量收费，面向全球公众与科研群体免费开放元数据应用程序接口（Application Programming Interface, API）。
-> - **覆盖范围与对象** 截至 2020 年代收录来自全球 140 多个国家与地区、超过 20,000 家学术出版机构与学术学会提交的逾 1.5 亿条记录，涵盖期刊论文、专著章节、学术专著、预印本与资助项目。
+> - **覆盖范围与对象** 截至 2020 年代收录来自全球 140 多个国家与地区、超过 20,000 家学术出版机构与学术学会提交的逾 1.5 亿条记录，涵盖期刊成果、专著章节、学术专著、预印本与资助项目。
 > - **核心问题导向** 消除传统学术出版领域各出版商网站相互隔离导致的断链与网址失效危机（Link Rot），通过持久解析与标准化元数据交换确立开放科学互操作性标准。
 
 ---
@@ -96,20 +99,20 @@ updated: 2026-11-02
 ---
 
 > [!actor-grid] 实施协同矩阵
-> - **发起与治理机构** PILA 董事会（由大学出版社、商业出版商及学术学会代表共同组成），负责技术治理标准制定与会员准入规约。
+> - **发起与治理机构** PILA 董事会（由大学出版社、商业出版商及学术学会代表共同组成），负责技术治理标准制定与会员准入规则。
 > - **注册代理与架构维护团队** Crossref 技术工程团队，负责维护高可用元数据收录引擎、REST API 与 OAI-PMH 数据收割接口。
 > - **成员出版机构** 全球各大学术期刊出版商、大学出版社与机构知识库，负责按标准 schema 上传结构化元数据并缴纳年费。
 > - **受益群体与终端应用** 全球图书情报机构、数据聚合平台（OpenAlex、Dimensions、SciSciNet）、科学学研究团队及社会公众。
 
 > [!pathways] 实施路径与管理
-> - **纵向传导与支持** 制定强制性元数据沉淀规范（强制要求篇名、出版时间、参考文献列表及 DOI 绑定），通过开发者文档与自动化校验接口辅导中小型出版机构合规接入。
-> - **横向跨部门协同** 与国际 DOI 基金会（IDF）、数据引用联盟（DataCite）及研究机构识别符（Research Organization Registry, ROR）保持互操作性协议协同，实现成果、作者、机构与资助多维实体的交叉映射。
+> - **纵向传导与支持** 制定强制性元数据存缴规范（强制要求篇名、出版时间、参考文献列表及 DOI 绑定），通过开发者文档与自动化校验接口辅导中小型出版机构合规接入。
+> - **横向跨部门协同** 与国际 DOI 基金会（IDF）、数据引用联盟（DataCite）及研究机构识别符（Research Organization Registry, ROR）保持互操作性协议协同，实现成果、学者、机构与资助多维实体的交叉映射。
 > - **动态反馈与调整** 针对部分出版商仅存缴基础引证而扣留完整参考文献的壁垒现象，联合开放引文倡议（Initiative for Open Citations, I4OC）推动参考文献元数据 100% 免许可无偿开放。
 
 ---
 
 > [!indicators] 评估指标体系
-> - **标识规模指标** 注册 DOI 总数、覆盖的出版物总量及按年度递增的数字对象沉淀率。
+> - **标识规模指标** 注册 DOI 总数、覆盖的出版物总量及按年度递增的数字对象存缴率。
 > - **关系网络密度指标** 存缴完整参考文献记录的成果占比、关联科研资助（Grant ID）成果占比与版本修正（Crossmark）匹配率。
 > - **数据开放性与调用量** REST API 日均访问查询吞吐量、全量元数据公共数据转储（Public Data File）下载频次。
 
@@ -131,7 +134,7 @@ updated: 2026-11-02
 > > [!axis] 元数据质量不均衡 vs 开放通用性
 > > 针对中小型出版商存缴元数据字段缺失与结构混乱的讨论。
 > >
-> > - **批评观点** 由于 Crossref 采取包容性会员准入，不同出版机构上传的字段完整度参差严重，早期大量文献缺乏规范参考文献列表与作者机构 ROR 标识，给下游科学计量带来二次清洗负担。
+> > - **批评观点** 由于 Crossref 采取包容性会员准入，不同出版机构上传的字段完整度参差严重，早期大量文献缺乏规范参考文献列表与学者机构 ROR 标识，给下游科学计量带来二次清洗负担。
 > > - **回应辩护** Crossref 坚持公共基础设施中立定位，通过升级自动质量评分与强化元数据激励政策，逐步提升全库字段丰度，避免将非英语及边缘地区小型学术刊物排斥于国际知识网络之外。
 >
 > > [!axis] 商业出版联盟属性 vs 完全开放科学伦理
@@ -149,7 +152,7 @@ updated: 2026-11-02
 > | [[Data Infrastructure]] | Concept | Crossref 是现代全球学术出版体系与文献计量学不可或缺的公共数据基础设施。 |
 > | [[Document]] | Concept | Crossref 以学术文献为基本注册单元，赋予每篇文本持久唯一的数字化访问标识。 |
 > | [[Altmetrics]] | Concept | Crossref Event Data 提供了追踪学术产出在网络公众媒介中即时扩散的核心数据流。 |
-> | [[Literature Search]] | Concept | 支撑各大学术文献检索引擎实现跨学科跨平台文献的秒级原文跳转。 |
+> | [[Literature Search]] | Concept | 支撑各大学术文献检索引擎实现跨学科跨平台文献的秒级全文跳转。 |
 > | [[Record Linkage]] | Method | 在处理海量异构学术数据融合时，Crossref 提供的 DOI 与元数据是核心对齐基准。 |
 > | [[Bibliometric Analysis]] | Method | 为全量学术产出、合作网络与引文时序演变提供免版权壁垒的实证统计样本。 |
 > | [[SciSciNet]] | Fact (Program) | 科学学开放数据湖依托 Crossref 对齐了数千万条社交舆论事件与资助关系。 |

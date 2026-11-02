@@ -49,7 +49,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-%% 可综合使用 [!feature]、[!logic-map]、[!taxonomy]、[!frames-ref]、[!ref-table]、[!entry-map] 等。 %%
+%% 可综合使用 [!feature]、[!logic-map]、[!taxonomy]、[!frames-ref]、[!ref-table] 等。此处拆概念结构，不把 Argument 写成构件。 %%
 
 > [!feature] 核心要素
 > - **<要素名称>** 说明该要素在概念中的位置、功能或判断标准。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -203,6 +203,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    一阶与二阶元分析表默认报告汇总效应及 95% CI，不单列标准误。原文只报告 SE 而未报告 CI 时，在 95% CI 列写 `SE = …`，效应值列只保留点估计；若 SE 仅用于逆方差加权或二阶计算，留在 Argument 的方法部分，不复制到 Concept。
    “其他实证结果（无效应量）”主要用于原文未报告可提取效应量，但提供频数、比例、均值、相关、回归系数、组间差异、检验统计量或显著性的数据。同一结果已有 $d$、$g$、OR、RR 或其他可比较效应量时，优先放入对应效应量表，不在本表重复。
    只有原始研究、一阶元分析和二阶元分析的效应量表都不适用时，才保留“其他实证结果（无效应量）”。删除其余不适用的表，不以整表 — 占位。 %%
+
+---
+
+%% 条目关联只链 Concept、Theory、Method、Instrument、Person、Fact。Argument 写入下方相关研究索引，不在本表单列。关系说明需要出处时，用 APA 短引用链接 Argument。只保留有实质关系的行。 %%
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[<概念或理论>]] | 概念 / 理论 | 一句话说明与本概念的关系。 |
 
 ---
 

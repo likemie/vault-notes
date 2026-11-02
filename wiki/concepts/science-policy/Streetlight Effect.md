@@ -8,6 +8,10 @@ aliases:
 summary: "描述科研人员与科技资助体系在数据可得性与绩效指标驱动下过度聚集于已被照亮的成熟易测领域、而系统性忽视未测高风险前沿的认知与制度偏误机制。"
 type: concept
 domain: "science-policy"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -75,7 +79,7 @@ updated: 2026-11-02
 > [!concept-proposition] 命题一｜可测性垄断诱发知识生产的路径依赖与前沿探索收缩
 > **探讨维度　选题空间失衡与制度避险机制** 揭示文献计量数据库与常规基金资助如何通过提供便捷测量工具，无意识地塑造并收窄整个学术共同体的探索边界。
 
-> [!claim] Liu et al. (2023)
+> [!claim] [[Argument_Liu_2023_NHB|Liu et al. (2023)]]
 > **数据偏差对前沿探索的挤出效应** 主流文献数据库对成熟和易发表主题的马太偏向构成了结构性的街灯效应。由于已知领域积累了详尽的先验文献与成熟的标准化指标，科研人员在职业生存与基金申请压力下，倾向于持续在这些数据密集的安全区域开展增量式开采；相比之下，缺乏成熟数据支持与先验文献背书的全新科学前沿则因难以获得定量评价而被系统性冷落。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1048–1049)]]
 
 ---

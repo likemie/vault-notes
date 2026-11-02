@@ -1243,7 +1243,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 
 | Callout | 用途 |
 |---|---|
-| `[!entry-map]` | 条目关联表（条目 / 类型 / 关系）；只写有真实关联的行 |
+| `[!entry-map]` | 条目关联表（条目 / 类型 / 关系）。只收录 Concept、Theory、Method、Instrument、Person、Fact；Argument 写入相关研究索引。关系说明中的 APA 短引用仍可链接 Argument。只写有真实关联的行 |
 | `[!ref-table]` | 参考速查表（对象 / 说明 / 来源）；用于查阅，不承担论证推进 |
 | `[!meta-table]` | 研究综述表，固定 5 列（研究 / 纳入 / N / d / 结论） |
 | `[!framework-table]` | 理论镜头、概念工具箱；通常 2 列（工具 / 用法）；Argument 概览最多 5 项，表头与分隔行不计入 |

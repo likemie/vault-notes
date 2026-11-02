@@ -13,9 +13,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2018–至今"
 initiator_organization: "Digital Science / Holtzbrinck Publishing Group"
@@ -48,6 +48,8 @@ related_facts:
   - "[[SciSciNet]]"
   - "[[Crossref]]"
   - "[[Microsoft Academic Graph]]"
+  - "[[OpenAlex]]"
+  - "[[COnnecting REpositories]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
 related_arguments:

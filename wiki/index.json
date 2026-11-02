@@ -17006,6 +17006,17 @@
     ]
   },
   {
+    "title": "Retraction Penalty",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Retraction Penalty.md",
+    "aliases": [
+      "撤稿惩罚",
+      "撤回惩罚",
+      "学术撤稿惩罚",
+      "撤稿声誉溢出效应"
+    ]
+  },
+  {
     "title": "Reverse Matthew Effect in Academia",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Reverse Matthew Effect in Academia.md",
@@ -17140,6 +17151,17 @@
       "自选双盲悖论",
       "Prestige Bias in Peer Review",
       "Optional Double-Blind Paradox"
+    ]
+  },
+  {
+    "title": "Streetlight Effect",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Streetlight Effect.md",
+    "aliases": [
+      "街灯效应",
+      "路灯效应",
+      "Streetlight Effect in Science",
+      "醉汉找钥匙效应"
     ]
   },
   {
@@ -25495,6 +25517,20 @@
       "竞争性标杆分析",
       "competitive benchmarking",
       "manufacturing benchmarking"
+    ]
+  },
+  {
+    "title": "Instrumental Variables",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Instrumental Variables.md",
+    "aliases": [
+      "工具变量法",
+      "工具变量",
+      "IV",
+      "Instrumental Variable",
+      "2SLS",
+      "两阶段最小二乘法",
+      "Two-Stage Least Squares"
     ]
   },
   {
@@ -38138,6 +38174,21 @@
     "subtype": "program"
   },
   {
+    "title": "COnnecting REpositories",
+    "type": "fact",
+    "path": "wiki/facts/global/COnnecting REpositories.md",
+    "aliases": [
+      "COnnecting REpositories (CORE)",
+      "CORE (COnnecting REpositories)",
+      "CORE 开放获取仓储库",
+      "CORE 全文数据库",
+      "CORE 开放仓储聚合平台",
+      "CORE 知识库",
+      "CORE 平台"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Critical Assessment of Structure Prediction",
     "type": "fact",
     "path": "wiki/facts/global/Critical Assessment of Structure Prediction.md",
@@ -38443,6 +38494,19 @@
       "OLC",
       "世界银行开放学习园区",
       "Open Learning Campus (OLC)"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "OpenAlex",
+    "type": "fact",
+    "path": "wiki/facts/global/OpenAlex.md",
+    "aliases": [
+      "OpenAlex 数据库",
+      "OpenAlex 开放学术图谱",
+      "OpenAlex 平台",
+      "OpenAlex 学术知识图谱",
+      "openalex.org"
     ],
     "subtype": "program"
   },

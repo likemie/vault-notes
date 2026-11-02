@@ -6152,6 +6152,14 @@
       ],
       "title": ""
     },
+    "Bagues et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Instrumental Variables.md"
+      ],
+      "title": ""
+    },
     "Baha et al., 2024": {
       "doi": "",
       "isbn": "",
@@ -46653,6 +46661,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Graduate Attributes.md"
+      ],
+      "title": ""
+    },
+    "Hill et al., 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": ""
     },
@@ -108572,7 +108588,8 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Scientific Productivity.md",
-        "wiki/facts/germany/Nazi Purge of University Scholars.md"
+        "wiki/facts/germany/Nazi Purge of University Scholars.md",
+        "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": "Quality matters: The expulsion of professors and the consequences for PhD student outcomes in Nazi Germany"
     },

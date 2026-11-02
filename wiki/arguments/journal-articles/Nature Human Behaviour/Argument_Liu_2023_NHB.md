@@ -85,6 +85,10 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Declaration on Research Assessment]]"
+  - "[[OpenAlex]]"
+  - "[[Dimensions]]"
+  - "[[Crossref]]"
+  - "[[COnnecting REpositories]]"
 related_arguments:
   - "[[Argument_Sinatra_2016_Science]]"
 sources:
@@ -99,9 +103,9 @@ title: "Argument_Liu_2023_NHB"
 argument_key: "Argument_Liu_2023_NHB"
 argument_display_title: "Data, measurement and empirical methods in the science of science"
 argument_kind: "journal-article"
-argument_related_count: 57
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 64
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Nature Human Behaviour"
 book_title: ""
@@ -141,7 +145,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **多源记录链接与基础设施整合**<br>Record Linkage and Big Data Integration | 整合学术出版物（[[Web of Science]]、Scopus、OpenAlex）、开放获取全文库（COnnecting REpositories, CORE）、资助数据库（[[National Science Foundation\|美国国家科学基金会]]〔National Science Foundation, NSF〕、[[National Institutes of Health\|美国国立卫生研究院]]〔National Institutes of Health, NIH〕RePORTER 资助库）、专利与[[Clinical Trial\|临床试验]]，评估学者[[Author Name Disambiguation\|姓名消歧]]与多源实体链接策略。 |
+> | **多源记录链接与基础设施整合**<br>Record Linkage and Big Data Integration | 整合学术出版物（[[Web of Science]]、Scopus、[[OpenAlex]]、[[Dimensions]]、[[Crossref]]）、开放获取全文库（[[COnnecting REpositories\|COnnecting REpositories (CORE)]]）、资助数据库（[[National Science Foundation\|美国国家科学基金会]]〔National Science Foundation, NSF〕、[[National Institutes of Health\|美国国立卫生研究院]]〔National Institutes of Health, NIH〕RePORTER 资助库）、专利与[[Clinical Trial\|临床试验]]，评估学者[[Author Name Disambiguation\|姓名消歧]]与多源实体链接策略。 |
 > | **微观构念效度评估**<br>Construct Validity Analysis | 检验引文指标、学者个人生涯指标（如 $h$ 指数）、团队规模与多样性、机构产出等关键构念的操作化定义与测度边界。 |
 > | **生成机制建模分析**<br>Generative Mechanistic Modeling | 运用微观互动规则推导宏观统计分布，构建引文动力学模型、合作网络演化模型与科研失败动力学模型。 |
 > | **高维机器学习预测分析**<br>Machine Learning Predictive Modeling | 评估自然语言处理（Natural Language Processing, NLP）词向量嵌入（Word2vec Skip-gram）与深度神经网络在预测前沿知识发现、材料属性及研究可复现性中的应用潜力。 |
@@ -176,8 +180,8 @@ issuing_organization: ""
 > [!sub-claim] 1. 多源数据把孤立的文献发表与科研经费、社会应用紧密关联
 
 > [!feature] 科学学全链条多源数据基础设施
-> - **上游研发资助** 链接 NSF 与 NIH 等公共科研资助记录，系统追踪科研经费对基础研究产出与公共[[Return on Investment|投资回报]]的驱动机制。
-> - **中游学术发表与人才档案** 依托大规模文献库（Web of Science、Scopus、OpenAlex、PubMed）实现跨学科全量覆盖，结合学者履历、师承渊源与大学教学大纲刻画科研人才流动网络与知识代际传承。
+> - **上游研发资助** 链接 [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]]、[[Dimensions]]、[[Crossref]] 等公共科研资助记录，系统追踪科研经费对基础研究产出与公共[[Return on Investment|投资回报]]的驱动机制。
+> - **中游学术发表与人才档案** 依托大规模文献库（[[Web of Science]]、Scopus、[[OpenAlex]]、[[Dimensions]]、[[Crossref]]、PubMed）与开放全文仓储（[[COnnecting REpositories|CORE]]）实现跨学科全量覆盖，结合学者履历、师承渊源与大学教学大纲刻画科研人才流动网络与知识代际传承。
 > - **下游应用转化与社会效益** 链接专利数据库、药品临床试验数据、政策文本与[[Altmetrics|替代计量指标]]（Alternative Metrics, Altmetrics），系统测度科学发现的产业[[Research Translation|技术转化]]周期与公共政策效益。
 
 > [!figure]- 图1：科学学全景数据类型与上下游关联图谱
@@ -318,7 +322,7 @@ issuing_organization: ""
 >   - **外生冲击** 追踪 112 位生命科学领域在学术巅峰期意外猝逝的顶尖[[Star Scientists|明星科学家]]。
 >   - **双重差分对比** 处理组为 1303 位与猝逝学者长期紧密协作的同行学者；对照组为运用精确匹配技术挑选出的、与未经历猝逝的同等明星学者合作的同代学者。
 >   - **识别检验** 严格验证事前平行趋势假定；实证显示巨星猝逝后，合作同行的年均发文量与引文表现出现 5%–8% 的持久性断崖式下滑，且该损失在高度依赖巨星专业知识的紧密合作群体中尤为显著，确立了学术明星对知识溢出的真实因果贡献。
-> - **工具变量法：二战时期学者政治清洗对高校科学产出的因果冲击 (Waldinger, 2010, 2012)**
+> - **[[Instrumental Variables|工具变量法]]：二战时期学者政治清洗对高校科学产出的因果冲击 (Waldinger, 2010, 2012)**
 >   - **外生工具** 1933 年德国纳粹政权颁布法令强制解聘所有具有犹太血统的高校学者。清洗比例由各大学历史教研人员的族裔构成决定，与各院系当时的科研发展趋势严格外生。
 >   - **因果识别** 以各院系犹太学者被解聘比例作为工具变量，剥离学者主动流动或[[School Choice|择校]]选择效应，因果识别资深同行流失对德国大学留任教员与博士生后续长期产出的负向因果溢出。
 > - **断点回归设计：基金评审截断门槛与科学资助马太效应 (Bol et al., 2018)**
@@ -349,7 +353,7 @@ issuing_organization: ""
 > | **描述性与预测性进路**<br>（Descriptive & Predictive） | **生成机制模型**<br>（Mechanistic Models） | 运用微观数学方程刻画底层数据生成过程；为形式理论提供可证伪检验。 | 结合优先连接、适应度与引文老化的引文动力学模型，合作网络演化动力学。 |
 > | **描述性与预测性进路**<br>（Descriptive & Predictive） | **机器学习与深度表征**<br>（Machine Learning） | 在多层抽象空间中表征复杂非结构化数据；提供优异的样本外预测精度。 | 运用自然语言处理词向量嵌入预测热电新材料物性，预测科学成果可复现性。 |
 > | **因果推断进路**<br>（Causal Approaches） | **匹配与固定效应**<br>（[[Matching]] & Fixed Effects） | 削减回归估计中的选择偏误；控制驱动变量相关的可观测与时不变混杂特征。 | 性别多样性团队对成果影响力的匹配分析；学者个体固定效应排除天资差异。 |
-> | **因果推断进路**<br>（Causal Approaches） | **准实验设计**<br>（[[Difference-in-Differences\|DID]] / IV / [[Regression Discontinuity Design\|RDD]]） | 利用数据情境中的外生随机性构建[[Counterfactual\|反事实]]对比，推断变量间的真实因果关系。 | 明星学者猝逝对同行产出的 DID 识别；基金资助评审分数截断处的 RDD 效应。 |
+> | **因果推断进路**<br>（Causal Approaches） | **准实验设计**<br>（[[Difference-in-Differences\|DID]] / [[Instrumental Variables\|IV]] / [[Regression Discontinuity Design\|RDD]]） | 利用数据情境中的外生随机性构建[[Counterfactual\|反事实]]对比，推断变量间的真实因果关系。 | 明星学者猝逝对同行产出的 DID 识别；基金资助评审分数截断处的 RDD 效应。 |
 > | **因果推断进路**<br>（Causal Approaches） | **实验与随机对照试验**<br>（Lab Experiments & [[Randomised Controlled Trials\|RCT]]） | 在高度可控环境或田野试点中实施随机分配，识别具体因果机制与干预成效。 | 实验室检验双盲评审消除性别偏见；在科技资助机构中试点部分随机化资助。 |
 
 ---

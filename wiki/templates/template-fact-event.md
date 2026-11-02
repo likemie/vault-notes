@@ -105,6 +105,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
+%% 只链 Concept、Theory、Method、Instrument、Person、Fact。Argument 写入相关研究索引，不在本表单列。关系说明需要出处时，用 APA 短引用链接 Argument。 %%
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |

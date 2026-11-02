@@ -1414,6 +1414,8 @@
     "Bagasi, 2014": "Bagasi, 2014",
     "Bagozzi & Yi (1988)": "Bagozzi & Yi, 1988",
     "Bagozzi & Yi, 1988": "Bagozzi & Yi, 1988",
+    "Bagues et al. (2017)": "Bagues et al., 2017",
+    "Bagues et al., 2017": "Bagues et al., 2017",
     "Baha et al. (2024)": "Baha et al., 2024",
     "Baha et al., 2024": "Baha et al., 2024",
     "Bai et al. (2020)": "Bai et al., 2020",
@@ -10590,8 +10592,10 @@
     "Hill (2018)": "Hill, 2018",
     "Hill et al. (2008)": "Hill et al., 2008",
     "Hill et al. (2016)": "Hill et al., 2016",
+    "Hill et al. (2021)": "Hill et al., 2021",
     "Hill et al., 2008": "Hill et al., 2008",
     "Hill et al., 2016": "Hill et al., 2016",
+    "Hill et al., 2021": "Hill et al., 2021",
     "Hill, 2011": "Hill, 2011a",
     "Hill, 2011a": "Hill, 2011b",
     "Hill, 2011b": "Hill, 2011b",
@@ -37472,6 +37476,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Composite Reliability.md"
+      ],
+      "title": ""
+    },
+    "Bagues et al., 2017": {
+      "aliases": [
+        "Bagues et al., 2017",
+        "Bagues et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bagues et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": ""
     },
@@ -104634,6 +104653,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Graduate Attributes.md"
+      ],
+      "title": ""
+    },
+    "Hill et al., 2021": {
+      "aliases": [
+        "Hill et al., 2021",
+        "Hill et al. (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hill et al., 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": ""
     },
@@ -206735,7 +206769,8 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/science-policy/Scientific Productivity.md",
-        "wiki/facts/germany/Nazi Purge of University Scholars.md"
+        "wiki/facts/germany/Nazi Purge of University Scholars.md",
+        "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": "Quality matters: The expulsion of professors and the consequences for PhD student outcomes in Nazi Germany"
     },

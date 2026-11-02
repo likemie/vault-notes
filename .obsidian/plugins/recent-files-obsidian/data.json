@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Sinatra_2016_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+    },
+    {
+      "basename": "Argument_Arnove_2009_WorldSystems",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+    },
+    {
+      "basename": "Cowen(Ed.)_2009_Springer",
+      "path": "books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer.md"
+    },
+    {
+      "basename": "Argument_Cowen_2009_HistoryCreation",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
+    },
+    {
+      "basename": "Argument_Beech_2009_GlobalGarden",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
+    },
+    {
+      "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
+    },
+    {
+      "basename": "Argument_Sinatra_2016_Science",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
     },
     {
       "basename": "Portfolio-Based Research Funding",
@@ -27,10 +51,6 @@
     {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
     },
     {
       "basename": "Argument_Skipp_Tanner_2015_EEF",
@@ -125,10 +145,6 @@
       "path": "wiki/methods/quantitative/Disruption Index.md"
     },
     {
-      "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
-    },
-    {
       "basename": "Turn-Taking Equality",
       "path": "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
-    },
-    {
-      "basename": "Laser Interferometer Gravitational-Wave Observatory",
-      "path": "wiki/facts/us/Laser Interferometer Gravitational-Wave Observatory.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
-    },
-    {
-      "basename": "Clique Percolation Method",
-      "path": "wiki/methods/quantitative/Clique Percolation Method.md"
-    },
-    {
-      "basename": "Network Analysis",
-      "path": "wiki/methods/mixed/Network Analysis.md"
     }
   ],
   "omittedPaths": [],

@@ -976,6 +976,110 @@ def markdown_visible_text(text: str) -> str:
     return re.sub(r"\s+", " ", visible).strip()
 
 
+def entry_map_cells(content: str) -> List[str]:
+    """Split one Markdown table row, keeping escaped pipes inside wikilinks."""
+    protected = content.replace("\\|", "\0")
+    return [part.strip().replace("\0", "\\|") for part in protected.strip().strip("|").split("|")]
+
+
+def entry_map_separator(cells: List[str]) -> bool:
+    return bool(cells) and all(re.fullmatch(r":?-{2,}:?", cell.replace(" ", "")) or cell == "" for cell in cells)
+
+
+def entry_map_header_row(cells: List[str]) -> bool:
+    if not cells:
+        return False
+    head = cells[0].strip()
+    return head in {"条目", "构件", "对象", "相关条目"} or head.startswith("条目")
+
+
+def ordered_wikilink_targets(text: str) -> List[str]:
+    return [extract_wikilink_target(match.group(1)) for match in WIKILINK_RE.finditer(text)]
+
+
+def entry_map_row_is_argument(cells: List[str]) -> bool:
+    """True when the row lists an Argument as the related entry."""
+    if not cells or entry_map_separator(cells) or entry_map_header_row(cells):
+        return False
+    links = ordered_wikilink_targets(cells[0])
+    if links and links[0].startswith("Argument_"):
+        return True
+    if len(cells) > 1 and cells[1].strip().lower() in {"argument", "论证"}:
+        return True
+    return False
+
+
+def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> None:
+    """条目关联只收录知识对象，不把 Argument 列为条目。"""
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
+        return
+
+    _, body, body_start_line = split_frontmatter(text)
+    header_re = re.compile(
+        r"^(?P<quote>\s*(?:>\s*)+)\[!(?P<kind>[^\]|\n]+)(?:\|[^\]]*)?\][+-]?(?:\s*(?P<title>.*))?$"
+    )
+    quoted_re = re.compile(r"^(?P<quote>\s*(?:>\s*)+)(?P<content>.*)$")
+    in_map = False
+    map_depth = 0
+    line_number = body_start_line
+
+    for line in body.splitlines(keepends=True):
+        header = header_re.match(line)
+        if header:
+            depth = header.group("quote").count(">")
+            if in_map and depth > map_depth:
+                line_number += line.count("\n")
+                continue
+            in_map = header.group("kind").strip().lower() == "entry-map"
+            map_depth = depth if in_map else 0
+            line_number += line.count("\n")
+            continue
+
+        if not in_map:
+            line_number += line.count("\n")
+            continue
+
+        quoted = quoted_re.match(line)
+        if not quoted:
+            if line.strip():
+                in_map = False
+            line_number += line.count("\n")
+            continue
+
+        depth = quoted.group("quote").count(">")
+        if depth < map_depth:
+            in_map = False
+            line_number += line.count("\n")
+            continue
+        if depth != map_depth:
+            line_number += line.count("\n")
+            continue
+
+        content = quoted.group("content").strip()
+        if content.startswith("|"):
+            cells = entry_map_cells(content)
+            if entry_map_row_is_argument(cells):
+                links = ordered_wikilink_targets(cells[0])
+                target = links[0] if links else cells[1].strip()
+                issues.append(Issue(
+                    "ERROR", rel(path),
+                    f"条目关联不单列 Argument：{target} 应写入相关研究索引",
+                    line=line_number,
+                    code="ENTRY_MAP_ARGUMENT",
+                ))
+        elif re.match(r"^[-*+]\s+", content):
+            links = ordered_wikilink_targets(content)
+            if links and links[0].startswith("Argument_"):
+                issues.append(Issue(
+                    "ERROR", rel(path),
+                    f"条目关联不单列 Argument：{links[0]} 应写入相关研究索引",
+                    line=line_number,
+                    code="ENTRY_MAP_ARGUMENT",
+                ))
+
+        line_number += line.count("\n")
+
+
 def check_related_research_entry_length(path: Path, text: str, issues: List[Issue]) -> None:
     """Warn when a top-level related-research index entry is too long."""
     if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
@@ -3638,6 +3742,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_duplicate_citations(path, text, data, issues)
     check_related_research_duplicate_books(path, text, by_title, issues)
     check_related_research_entry_length(path, text, issues)
+    check_entry_map_arguments(path, text, issues)
     check_citation_card_language_order(path, text, issues)
 
 
