@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -85,10 +85,6 @@ updated: 2026-10-29
 >     D -->|挤占工作记忆容量| E["注意力分散与因果链断裂"]
 >     B -->|加工受阻| F["高阶思维与深层迁移受损"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

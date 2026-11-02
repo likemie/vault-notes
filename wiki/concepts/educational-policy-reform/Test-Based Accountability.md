@@ -86,7 +86,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -136,8 +136,6 @@ updated: 2026-10-29
 > - **提分与学校发展客体（Object）** 提升考试成绩被视为学生实现社会向上层级流动及学校获取优质生源与可持续发展的先决条件。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 594)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜高利害考试问责倾向于窄化课程并挤压探究性教学法
 > **探讨维度　课程窄化与教学法挤压** 这类命题探讨外部高利害问责对课堂教学实践的塑造，重点关注[[Performance Indicators\|绩效指标]]对教学目标的替换以及对创新教学法的抑制。

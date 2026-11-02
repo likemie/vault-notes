@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -152,10 +152,6 @@ updated: 2026-10-29
 > | [[Research Proposal]] | 文本载体 | 理论视角作为课题申报书与研究方案中阐明理论依据的独立章节。 |
 > | [[Val D. Rust]] | 代表学者 | 论证方法论即理论视角的认识论等同性，并系统计量 26 种理论视角演进。 |
 > | [[John W. Creswell]] | 代表学者 | 提出连接自变量与因变量的彩虹桥梁机制及五步标准化写作脚本。 |
-
----
-
-## 围绕概念形成的命题
 
 ---
 

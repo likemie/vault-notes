@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -92,10 +92,6 @@ updated: 2026-10-29
 >     DGR -->|微额竞争性项目资助| Schools["弱势公立学校与基层课堂"]
 >     Schools -->|服从商业绩效量规| DGR
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

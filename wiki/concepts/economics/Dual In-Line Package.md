@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -69,10 +69,6 @@ updated: 2026-10-29
 > - **100密耳标准化引脚间距（100-mil Pitch）** 相较于军用扁平封装的50密耳间距，100密耳间距允许低成本印刷电路板在引脚之间轻松穿行导线，无需制造昂贵的多层微细走线板。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 205–206)]]
 > - **双列平行直插构型（Dual-Row Layout）** 引脚垂直向下插入 PCB 安装通孔，机械刚性强，既支持快速手工定位，又可直接输入波峰焊与自动化插件流水线。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 205–207)]]
 > - **塑料模塑成型与低成本材质（Molded Plastic / Ceramic）** 摆脱了金属外壳的高昂成本，能够与低成本环氧树脂模压封装工艺结合，在离岸[[Assemblage|组装]]厂实现大批量低成本产出。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 203–204)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -24,7 +24,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Hidden Curriculum
@@ -41,8 +41,6 @@ updated: 2026-10-29
 > - **顺从与奖励** 配合既定议程与获得认可相联系，形成学校所接受的参与方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜课堂发言秩序可在学科学习同时传递权威关系
 

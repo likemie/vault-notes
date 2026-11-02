@@ -63,7 +63,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -118,10 +118,6 @@ updated: 2026-10-29
 >     E -->|"外包科研与逆向财富流动"| B
 >     B -->|"项目化筛选与商业规训"| F["基层弱势公立学校<br>(竞逐微额资助·丧失专业自主)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

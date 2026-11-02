@@ -57,7 +57,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -112,10 +112,6 @@ updated: 2026-10-29
 >     STANCE -->|"绝对论"| LOTS["执行性代码搬运与表面依从"]
 >     STANCE -->|"评价论"| HOTS["多源压力测试与高阶思维跃迁"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

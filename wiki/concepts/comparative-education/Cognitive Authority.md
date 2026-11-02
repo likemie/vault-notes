@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     C --> F["培训与干预传播<br>(Knowledge Transmission)"]
 >     D & E & F --> G["重塑成员国政策常识与发展模型<br>(Epistemic Governance)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     F --> G["坦诚披露不确定性<br>公布《科学证据陈述》+ 解释未用证据"]
 >     G --> H["维系公共信任<br>建立稳固的民主决策社会许可"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

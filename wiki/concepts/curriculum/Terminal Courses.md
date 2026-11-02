@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -52,8 +52,6 @@ updated: 2026-10-29
 > - **全人发展的平衡功能** 高级学科维持专业深度，辅助学科增加应用、改变与享受的侧重，两类目的并不互斥。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 202–204)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜最后一次正式学科学习需要按长期用途重新设计
 > **探讨维度　学科进阶与离校用途** 同样的学科可以服务专业准备，也可以帮助学生在离开该领域后继续理解和参与生活。

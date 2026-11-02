@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >   Frag -.->|重铸路径| Thick["重建丰厚归属感<br>(Thick Belonging: 历史叙事+战略结盟)"]
 >   Thick --> TR["重铸技术共和国"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

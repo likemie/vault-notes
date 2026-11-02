@@ -83,7 +83,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -141,10 +141,6 @@ updated: 2026-10-29
 > - **政策层级能力（Policy Capabilities）** 统筹长期研发资助、战略公共采购、产业税收优惠与金融规制，形成多维联动的政策支持组合（Policy Mixes）。
 > - **行政层级能力（Administrative Capabilities）** 吸纳懂技术、懂金融与懂公共治理的复合型人才，建立专业化资产组合管理与敏捷项目评估团队。
 > - **演化选择能力（Selection Capabilities）** 建立容许早期探索失败但能及时淘汰落后方案的[[Dynamic Assessment|动态评估]]机制，在社会反馈中持续优化资本配置效率。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

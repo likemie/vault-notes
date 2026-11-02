@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     D --> G["倡议战略转型：转向小而美、高标准惠民生务实项目"]
 >     E & F & G --> H["超越单向依附：知识外交框架下的共生互惠"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

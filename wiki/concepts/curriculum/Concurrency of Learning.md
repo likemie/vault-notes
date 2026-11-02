@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -59,8 +59,6 @@ updated: 2026-10-29
 > - **[[Reflexivity\|反思性]]整合（Reflective Integration）** 学习者通过反思将[[Theoretical Knowledge\|理论知识]]、伦理探讨与实践经验结合，超越孤立的学科界限形成统一的理解。在 DP 中，这主要通过三大核心组件的互动来完成 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜并发学习在实施中面临“理念认同与实践脱节”的系统性张力
 > **探讨维度　跨组件协同与落地挑战** 探究并发学习理念在真实学校情境中如何因制度与资源限制而难以真正落地。

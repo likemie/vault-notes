@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -150,8 +150,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕双轨学制的历史功能与现代性悖论，学术史确立了具有高度理论张力的两大命题：
 

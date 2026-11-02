@@ -118,7 +118,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 status: active
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -190,10 +190,6 @@ updated: 2026-10-29
 >   AI -->|工作记忆释放与即时反馈| HOTS
 >   HOTS -->|实证测量与表现评估| CT_Scale
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

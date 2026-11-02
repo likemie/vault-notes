@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     D --> E["加剧政策歧义性<br>Exacerbate Policy Ambiguity"]
 >     D --> F["政策中介繁荣崛起<br>Rise of Policy Brokerage"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

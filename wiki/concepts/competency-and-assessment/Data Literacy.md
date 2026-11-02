@@ -77,7 +77,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -138,10 +138,6 @@ updated: 2026-10-29
 >     F & H --> I["整合性学校探究循环<br>(ESTI)"]
 >     I --> J["兼顾科学性与情境适切性的教育改进"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

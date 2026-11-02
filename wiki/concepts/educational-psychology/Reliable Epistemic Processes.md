@@ -65,7 +65,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -113,8 +113,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜知识证据的可[[Reliability|信度]]由生成该证据之认识过程的因果可靠性所决定
 > **探讨维度　过程因果[[Reliability\|可靠性]]对证据信度的决定维度** 探究证据的可接受性从何而来，论证为何证据缺陷本质上属于生成程序的方法论与[[Epistemology\|认识论]]失效。

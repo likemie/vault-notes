@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Intelligent Tutoring Systems
@@ -170,10 +170,6 @@ updated: 2026-10-29
 >   P1 --> Output
 >   Output -->|调控外在认知负荷| Input
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -44,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,8 +104,6 @@ updated: 2026-10-29
 > [[Multiple-Choice Questions\|选择题]]可能诱导孤立项目训练，也能在低权重、功能明确的组合中广泛抽样词汇。口试和长论文可能促进对话与深入表达，也会带来考官差异、主观评分和成本问题。判断对象应是任务要求、评分方式、成绩权重、其他并存任务及实际后果构成的完整评价安排。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 51–57)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜学生会把获分条件转化为实际课程
 

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 > - **苛刻且前瞻的本土需求条件（Demand Conditions）** 国内消费者或公共采购对产品性能、绿色低碳与安全标准的极高要求，倒逼本土企业沿学习曲线快速演进并抢占全球技术制高点。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 > - **有效的国内竞争与企业战略（Firm Strategy, Structure, and Rivalry）** 强劲的国内同业竞争迫使企业不断进行研发创新与成本优化，防止出现受国家庇护的低效垄断者；这正是 21 世纪[[Modern Industrial Policy|现代产业政策]]强调维持部门内竞争而非扶植单一冠军的理论根源。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 3–4)]]
 > - **作为[[Geopolitics|地缘政治]]想象的构成性功能（Geopolitical Imaginary）** 国家竞争优势理论超越了管理学范畴，成为一种规范政策制定者认知、合法化国家资源向重点“[[Innovation Hub|创新枢纽]]与先进制程超级工厂”倾斜的顶层叙事。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–29)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 > - **改革工具箱的排他性垄断** 将分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与统考五大要素捆绑为唯一合法且不可分割的普遍真理，排斥任何非市场化的替代方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **[[Gatekeepers|把关人]]阶层的制度性重叠** 本土顶尖学者兼任政府官员与国际组织短期合同顾问，一人跨越多个语篇位置，形成消解学术批判性的封闭共谋圈子。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–355)]]
 > - **替代性知识的系统性去合法化** 将历史主义、批判社会学或[[Critical Pedagogy|解放教育学]]等异质思想贬斥为“不可操作、缺乏实证依据或意识形态偏见”，剥夺其政策转化资格。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

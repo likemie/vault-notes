@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -124,10 +124,6 @@ updated: 2026-10-29
 >     FOUNDRY -->|裸晶圆| OSAT
 >     OSAT --> END["全球终端电子市场"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

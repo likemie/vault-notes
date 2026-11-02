@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -74,10 +74,6 @@ updated: 2026-10-29
 > - **暴力网络链路发现（Criminal Network Linkage）** 识别复杂犯罪集团内部层级、枪支流转路径与潜在报复性冲突节点。
 > - **合规与[[Audit Trail|审计跟踪]]（[[Strategic Compliance|compliance]] and Auditability）** 设立细粒度访问权限控制，确保每一次线索调阅均有据可查并符合法定授权程序。
 > - **算法与警力协同（[[Meaningful Human Control|Human-in-the-Loop]] Deployment）** 坚持人机协作原则，由具有一线经验的刑侦警官对算法线索进行审慎核实与专业裁决。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

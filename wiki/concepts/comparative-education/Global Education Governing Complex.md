@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -124,10 +124,6 @@ updated: 2026-10-29
 >     Core -->|"硬事实软权力：基准、排名、指标问责"| Gov
 >     Gov -.->|"外在化与策略性借用"| Core
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

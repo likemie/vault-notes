@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,8 +106,6 @@ updated: 2026-10-29
 > - **角色与真实扮演的融合** 将真实生活活动与虚拟活动相融合的潜力，为研究者探索无数场景提供了广阔范围。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜虚拟世界以[[Complexity Theory|复杂性理论]]为根基，宏观秩序从微观主体互动中自组织[[Emergence|涌现]]
 > **探讨维度　理论基础与[[Emergence\|涌现]]机制** 虚拟世界的理论基础植根于[[Complexity Theory\|复杂性理论]]，这解释了为何由参与者创建的世界能够产生有意义的社会模式，以及为何虚拟世界中的发现可以对真实世界具有启示意义。

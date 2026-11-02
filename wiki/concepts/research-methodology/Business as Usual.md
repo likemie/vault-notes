@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -163,8 +163,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕常态教学的[[Epistemology|认识论]]基线地位、试验透明度治理规约以及在真实课程实验中的[[Ecological Validity|生态效度]]，学界确立了三项系统性理论命题。
 

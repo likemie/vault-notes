@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Wu_2025_ER]]"
 status: active
 created: 2026-08-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -49,10 +49,6 @@ updated: 2026-10-29
 > > [!concept-lens] 概念透镜
 > > - **含义** 衡量个体评估知识合法性与合理性的底层逻辑。
 > > - **用途** 用于预测和解释个体在面对复杂问题时的批判性质询能力与[[Argumentative Reasoning\|论辩推理]]水平。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

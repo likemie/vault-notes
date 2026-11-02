@@ -63,7 +63,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     D --> F["异化风险：充当官僚规划合法化借口"]
 >     F --> G["消解学术批判反思，沦为应急管道工"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

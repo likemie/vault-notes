@@ -72,7 +72,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -142,10 +142,6 @@ updated: 2026-10-29
 > [!taxonomy] 科学本质核心测评工具体系
 > - **[[Views of Nature of Science Questionnaire\|科学本质观问卷]]（Views of Nature of Science [[Questionnaire]], VNOS）** 涵盖 VNOS-A 至 VNOS-E 等多个跨学段版本（Lederman et al., 2002），采用质性开放问答结合半结构化深访，系统评估应试者在暂时性、实证性、推论性及创造性等维度的认识论发展阶段（划分为素朴观 Naive、过渡观 Transitional 与知情观 Informed）。
 > - **自然科学本质认知量表（Nature of Science Survey, NOSS）** 采用李克特多点量表方式，量化考察大样本群体的[[Scientific Attitude\|科学态度]]、哲学立场与认识论倾向。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

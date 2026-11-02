@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     F -- "低裁量权" --> I["[[Institutional Displacement|制度置换]] (Displacement)"]
 >     F -- "高裁量权" --> J["[[Institutional Conversion|制度转换]] (Conversion)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

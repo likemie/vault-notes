@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -136,10 +136,6 @@ updated: 2026-10-30
 >   S1 --> E1
 >   E3 -.->|"生成新经验素材"| I1
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

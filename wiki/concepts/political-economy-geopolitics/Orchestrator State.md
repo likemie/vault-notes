@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -77,10 +77,6 @@ updated: 2026-10-29
 >         MS -->|分散出资 81亿欧元| Network["跨国生产网络<br>（IPCEI 56家企业）"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

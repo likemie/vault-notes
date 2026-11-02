@@ -82,7 +82,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -140,10 +140,6 @@ updated: 2026-10-29
 >     C --> D["统计公平比较与排序"]
 >     D --> E["反身性博弈与目标置换"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

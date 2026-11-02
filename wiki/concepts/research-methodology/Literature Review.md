@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -155,8 +155,6 @@ updated: 2026-10-31
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Document|文献]]综述的本质是累积性论证而非描述性摘要堆砌
 > **探讨维度　论证导向与文本[[Epistemology|认识论]]维度** 审视文献综述的文体特征与学术本质，探讨文献综合如何通过严密结构构建新知识的合法性。

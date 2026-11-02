@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -120,10 +120,6 @@ updated: 2026-10-29
 >     D --> E["两级跨层加权等价定理<br/>充要条件：原始研究完全独立无重叠"]
 >     E --> F["文献重叠与协方差污染<br/>抽样误差被严重低估致假阳性膨胀"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

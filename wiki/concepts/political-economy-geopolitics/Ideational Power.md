@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-29
 >     B --> E["政策文本妥协与决议出台<br>(Council Resolution)"]
 >     E --> F["交流性话语动员与公众确认<br>(Communicative Discourse)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

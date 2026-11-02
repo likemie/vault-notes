@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -79,8 +79,6 @@ updated: 2026-10-29
 > - **以自由限制权力的崇高法理** 即使保护的对象极度令人反感（如极右翼游行），依然坚守保障异见表达权利的宪法底线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜信念的真实性与其承担的现实代价成正比，缺乏风险的道德表达必然退化为[[Performativity|表演性]]空洞容器
 > **探讨维度　道德哲学与精英选拔机制** 探讨现代公共舆论对争议的惩罚如何驱逐硬信念，并在制度上筛选出只求程序合规的平庸管理者。

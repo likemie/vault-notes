@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -121,10 +121,6 @@ updated: 2026-10-29
 >     E --> G["推翻阶级霸权与实现人性化"]
 >     F --> G
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

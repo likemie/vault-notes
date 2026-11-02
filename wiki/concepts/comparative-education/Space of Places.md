@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 > - **极端物质匮乏与资源刚性约束（Material Deprivation and Real Constraints）** 在地方空间中，教学行动直接受制于校舍破损、粉笔匮乏、大[[Class Size|班额]]、教师多校兼职奔波等物质残酷现实；任何脱离物质基础的抽象理念在此处都会迅速碰壁。
 > - **教学行动的一致性诉求（Demand for Pedagogical Consistency）** 与政客可以在政策文本中从容并置不相容声明不同，基层教师站在讲台上面对具体学生时，必须有一套逻辑自洽的教学操作流程；政策的不一致性在地方空间中直接转化为致命的行动阻碍。
 > - **实践转译的本土突变与异化（Local Mutation and [[Shape-Shifting]]）** 当来自[[Space of Flows|流动空间]]的抽象通用政策强行下沉到地方空间时，在物质约束与本土认知中介的双重作用下，必然发生根本性的意义逆转与实践形变。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

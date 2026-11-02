@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -133,10 +133,6 @@ updated: 2026-10-29
 >         D --> E --> F
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -111,8 +111,6 @@ updated: 2026-10-29
 > - **跨领域反思与评价** [[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）比较不同知识形式，多元评价把这些经验纳入可持续实施的文凭结构。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–57)]]
 
 ---
-
-## 围绕概念形成的命题
 
 以下命题分别讨论教育目的、实现机制和成立条件。
 

@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -111,8 +111,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜全球公民是一面掩盖地缘资本和[[Re-Westernisation|再西方化]]逻辑的模糊修辞旗帜
 > **探讨维度　批判与去神话视角** 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世[[Discourse|话语]]，但实质上充当了全球新自由主义经济教义的“受教育者身份”掩护。

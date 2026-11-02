@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -91,10 +91,6 @@ updated: 2026-10-29
 >     E --> G["企业自筹建产线 / 商业落地"]
 >     E --> H["公共资金回流：启动下一轮颠覆性孵化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

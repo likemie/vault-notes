@@ -54,7 +54,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 > - **长期心理沉浸与情感卷入（Prolonged [[Presence|immersion]] & Emotional Bonding）** [[Fieldwork|田野调查]]需要长期沉浸以建立深层信任（Rapport），但在面对边缘弱势群体的困境时，研究者极易产生强烈道德共情，进而从“记录与分析苦难”滑向“替群体辩护与代言”，导致分析性视角被情感依附所取代。
 > - **分析距离与反思监控的瓦解（Collapse of Reflexive Distance）** 随着群体行为模式被内化为研究者的潜意识直觉，情境中的反常现象转化为“理所当然”，研究者丧失了将日常互动问题化（Problematizing）的敏感度。
 > - **[[Covert Research|隐蔽研究]]的叠加风险（Compounded Covert Research Risk）** 在[[Covert Research|隐蔽研究]]情境中，研究者被迫持续维持虚假日常面具，双重生活造成的心理张力往往诱使研究者通过假戏真做来寻求心理平衡，从而大幅加速本土化进程。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

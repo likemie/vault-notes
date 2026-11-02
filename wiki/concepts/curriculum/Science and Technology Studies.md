@@ -60,7 +60,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     B --> C["机械客观性建构<br>（排除个人经验与直觉）"]
 >     C --> D["跨国网络扩散与治理施效<br>（重塑课堂互动与实践数据回流）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

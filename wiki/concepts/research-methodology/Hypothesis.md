@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 > [!def] Hypothesis
@@ -186,8 +186,6 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 使用假设进行研究时，需准备多个假设以抓住所研究现象的复杂性，尤其是中介[[Variable|变量]]（mediating variables）必须纳入研究。例如，组织中员工"自愿合作程度"（[[Dependent Variable|因变量]]）受"专业领导力"（[[Independent Variable|自变量]]）和"领导者个人领导品质"（中介变量）的影响，中介变量同样需要被操作化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 假设的重要性
 

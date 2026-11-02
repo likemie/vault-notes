@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >   D --> F["体育与部落狂热：退化为非理性次级对抗"]
 >   D --> G["防卫意志瘫痪：失去可信硬实力与地缘威慑力"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

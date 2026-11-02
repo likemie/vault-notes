@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     E --> G["无须废止旧法即实现规则转用与制度转换"]
 >     F --> G
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

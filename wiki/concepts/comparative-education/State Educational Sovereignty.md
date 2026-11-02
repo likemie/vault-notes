@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -154,10 +154,6 @@ updated: 2026-10-29
 >     G -.多边测评与软法治理 (OECD).-> K["跨国多层网络治理与主权权力共享转型"]
 >     H & I & K -.国家战略调控与外部改革合法化.-> J["主权职能重构与政策借用"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

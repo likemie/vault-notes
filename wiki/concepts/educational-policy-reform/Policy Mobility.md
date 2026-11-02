@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -175,10 +175,6 @@ updated: 2026-10-29
 >     Plus -->|项目制竞争性资助过滤| Schools["公立学校与基层课堂"]
 >     Inanimate -->|规训重塑| Schools
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

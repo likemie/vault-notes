@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     C --> F["公共价值与伦理权衡"]
 >     D & E & F --> G["形成具合法性与可执行性的包容政策"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

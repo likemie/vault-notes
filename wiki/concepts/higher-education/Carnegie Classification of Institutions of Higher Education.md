@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -67,8 +67,6 @@ updated: 2026-10-22
 > - **博士/研究型大学（Doctoral/Research Universities, DRU）** 包含 84 所高校，虽然授予博士学位，但整体科研经费支出与密度尚未达到顶尖研究型大学标准。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 43–44)]]
 
 ---
-
-## 围绕概念形成的命题
 
 ### 1. 顶尖科研力量与资源在卡内基分类体系顶端呈现极度寡头集聚
 

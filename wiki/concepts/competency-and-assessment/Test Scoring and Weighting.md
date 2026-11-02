@@ -30,7 +30,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -65,8 +65,6 @@ updated: 2026-10-29
 > Ebel（1979）认为用于区分不同成就等级的分数越多，等级的信度就越高——但这显然会使测验变长。测验编制者需要在计分精度和测验可管理性之间取得平衡。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜分数汇总可能丧失[[Criterion-Referenced Test|标准参照]]的特异性
 > **探讨维度　汇总的代价** [[Criterion-Referenced Test\|标准参照测验]]的优势正在于其特异性——每个标准对应一个清晰的达标判断。将各标准上的分数汇总为一个总等级，恰恰丧失了这种特异性。

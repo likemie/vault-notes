@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -76,10 +76,6 @@ updated: 2026-10-29
 > - **地位象征功能（Status-Signaling Function）** 精英通过倡导脱离现实的激进观念在同行中建立文化声望，形成道德垄断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 > - **代价[[Externalization|外部化]]（Cost Externalization）** 倡导者自身居住于高安全富裕社区，享有私人安保或良好治安，免受政策恶果的直接冲击。
 > - **[[Performativity|表演性]]道德[[Discourse|话语]]（[[Procedural Piety|Performative Moralism]]）** 优先关注象征性胜利与政治口号表态，而非实实在在改善底层民众的生活质量（如减少暴力与疾病）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

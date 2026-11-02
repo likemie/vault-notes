@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     E --> F["独立工艺平台：微处理器/逻辑制造直接达成领先良率"]
 >     E --> G["新范式：垂直专业化分工与设计溢价反哺研发"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

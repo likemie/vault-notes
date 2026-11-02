@@ -87,7 +87,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Homework
@@ -151,10 +151,6 @@ updated: 2026-10-29
 > | [[Class Size]] | 政策对照 | 与班级规模同为被《[[Visible Learning\|可见的学习]]》高度关注却被简单平均扭曲解释的核心[[Variable\|变量]]。 |
 > | [[Epistemic Agency\|认识主体性]] | 评价危机 | 唯成品作业导致学生直接向算法委托认知动作，剥夺了自主负责的认识主体性。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知机理 | 过程性作业设计通过对抗查错与思维日志，强行保留必要的思维摩擦。 |
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -92,7 +92,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Neo-Taylorism
@@ -178,8 +178,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕新泰勒主义在教育行政中的运行机制与批判反思，学界确立了三项核心命题。
 

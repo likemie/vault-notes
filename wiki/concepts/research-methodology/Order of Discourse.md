@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-10-29
 >     OldOrder ==> ExternalPressure
 >     ExternalPressure ==> RestructuredOrder
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

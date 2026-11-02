@@ -84,7 +84,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -168,10 +168,6 @@ updated: 2026-10-29
 >     E --> I["抵御商业操纵与捍卫民主权利"]
 >     F & G & H & I --> J["构建高质量、可信赖的循证教育生态"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

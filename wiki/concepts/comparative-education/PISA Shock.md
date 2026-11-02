@@ -119,7 +119,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -196,8 +196,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[PISA]] 震荡由国家[[Discourse|话语]]合法性权重与自我认知落差的双重结构性共振触发
 > **探讨维度　危机触发机理与双重条件维度** 探讨国际测评为何在部分国家引发轩然大波，而在另一些国家仅被视为常规数据波动的认知与[[Discourse|话语]]机制。

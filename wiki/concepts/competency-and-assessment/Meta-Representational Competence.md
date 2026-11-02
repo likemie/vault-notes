@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -84,10 +84,6 @@ updated: 2026-10-29
 >     A --> E["4. 跨模态转译<br>(图文/公式自由转换)"]
 >     B & C & D & E --> F["深度释放图形组织器促学效能"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

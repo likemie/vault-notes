@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -130,10 +130,6 @@ updated: 2026-10-29
 >         MD --> FE["形式认识论与科学素养<br/>(Formal Epistemology)"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

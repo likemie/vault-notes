@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -81,10 +81,6 @@ updated: 2026-10-29
 >     B["教育就学与健康考核<br>(85%学校出勤率约束)"] --> C
 >     C --> D["阻断贫困代际传递<br>(长期人力资本积累)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

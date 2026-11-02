@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >     ALIEN --> R3["微型随堂实验<br>(短信/感谢信对比人机语调差异)"]
 >     R1 & R2 & R3 --> AGENCY["捍卫学生认识主体性<br>(抵御成长性认识不正义)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

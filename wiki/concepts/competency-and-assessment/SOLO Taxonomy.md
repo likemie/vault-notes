@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -120,10 +120,6 @@ updated: 2026-10-29
 
 > [!example] 图 3：用于形成课程目标的动词层级
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig3_SOLO_Hierarchy.jpg)
-
----
-
-## 围绕概念形成的命题
 
 ---
 

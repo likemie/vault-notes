@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 > - **学段间横向与纵向教学逻辑同构（Instructional Coherence）** 从幼儿园音素[[Decodification\|解码]]到高年级学科文本阅读，各年级教材规程与师生互动步调需保持内在[[Epistemology\|认识论]]的一致性，防止学生跨年级转换时遭受教学规程[[Epistemic Friction\|认知摩擦]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **常态化全班 Tier 1 课堂质量筑底** 杜绝“救济干预有效但常规教学平庸”的脱节现象，以全校性循证方案（如 [[Success for All]]、[[Enhanced Core Reading Instruction]]）保障弱势儿童即便退出一对一密集辅导，依然每天身处高效能教学常态中。
 > - **跨学年学生学业成长数据贯通监测** 建立跨校区、跨学段的统一标准化进度追踪档案，确保高危儿童的干预履历不因升学、转班或转校而发生政策性中断。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

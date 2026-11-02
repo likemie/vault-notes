@@ -74,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,10 +126,6 @@ updated: 2026-10-29
 >     C --> D["4. 批判性反思与重构<br>（概念深化与图式建构）"]
 >     D --> E["5. 实践行动与社会生长<br>（知识迁移与能动变革）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

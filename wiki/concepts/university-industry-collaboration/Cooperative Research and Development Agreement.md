@@ -101,8 +101,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
 > [!concept-proposition] 命题一｜CRADA 机制通过豁免传统政府采购法规与保障商业机密，打破了国家级[[Megascience Installations|大科学装置]]与民间初创企业之间的制度壁垒
 > **探讨维度　制度经济学与[[Megascience Installations|大科学装置]]准入** 阐明如何通过灵活产权安排与保密豁免消除私营资本与国家实验室合作的制度顾虑。
 

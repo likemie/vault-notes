@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -78,8 +78,6 @@ updated: 2026-10-29
 > - **换位思考（Perspective Taking）** 设身处地理解对立立场的合理性依据与价值预设。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜规则约束下的论辩交锋显著提升[[Critical Thinking|批判性思维]]与论证质量
 > **探讨维度　认知冲突与反思机制** 探讨对抗性质询如何驱动[[Higher-Order Thinking Skills\|高阶思维]]。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -70,10 +70,6 @@ updated: 2026-10-29
 > - **集体创意同质化** 由于基础模型训练数据的统计平均属性，过度依赖 AI 会导致不同学生的最终成果高度趋同，削减群体文化与思想生态的多样性。[[Argument_Naeem_2026_Episteme|Naeem (2026, p. 271)]]
 > - **探索内在愉悦感丧失** 创造过程中的顿悟体验和克服困难带来的[[Self-Efficacy|自我效能感]]被即时生成的工业化产品替代，导致创造动机衰减。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–273)]]
 > - **个性化经验联结断裂** 学习者无法将自身独特的情感体验、个人兴趣与独特生活背景融入创作中，创造活动沦为符号[[Assemblage|组装]]。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–276)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

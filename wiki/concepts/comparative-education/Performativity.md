@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -136,10 +136,6 @@ updated: 2026-10-29
 >     D --> E2["宏观：去情境化漂浮能指与实用主义联盟 (Beech)"]
 >     D --> E3["决策：象征性公关展示与后置辩护仪式 (Campbell)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

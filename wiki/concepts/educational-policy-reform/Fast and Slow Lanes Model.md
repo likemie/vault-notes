@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     F2 -. "行政需求与预算立项" .-> M1
 >     F3 -. "考核制度与资助导向" .-> S1
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

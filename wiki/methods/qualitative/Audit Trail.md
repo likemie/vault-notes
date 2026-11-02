@@ -65,7 +65,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -130,10 +130,6 @@ updated: 2026-10-30
 >         AUD -->|"可确认性审计 (追溯结论至原始数据)"| TC
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -114,10 +114,6 @@ updated: 2026-10-30
 >     I --> A
 >   end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

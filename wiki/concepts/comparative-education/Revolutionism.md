@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,8 +101,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜比较教育是一项旨在揭露支配关系并追求世界结构重组的“道德事业”
 > **探讨维度　[[Critical Theory\|批判理论]]与[[Dependency Theory\|依附论]]** 这一命题解析教育作为革命性解放工具的合法性。

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     D --> E["双重产出：学术文凭 PGCE + 法定资质 QTS"]
 >     E --> F["进入早期职业框架（ECF）与终身执教"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

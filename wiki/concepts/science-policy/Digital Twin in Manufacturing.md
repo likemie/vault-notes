@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -86,10 +86,6 @@ updated: 2026-10-29
 >     YieldPred --> Control["自动化先锋前馈控制与工艺补偿指令"]
 >     Control --> Fab
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

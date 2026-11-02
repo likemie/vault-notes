@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Project-Based Learning
@@ -113,10 +113,6 @@ updated: 2026-10-29
 >     D --> E["反思复盘与<br>多轮迭代修正"]
 >     E --> F["公开展示与<br>高阶思维升华"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -82,10 +82,6 @@ updated: 2026-10-30
 > - **合理性预设推定（Presumption of Soundness）** 面对前沿反直觉论断或跳跃性论证，审稿人基于学者崇高威望主动为其补充合理解释。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
 > - **非对称审视标准（Asymmetric Scrutiny）** 对无名学者的文稿实施显微镜式挑剔审视，对名家文稿则实施宏观方向性默认宽容。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
 > - **标签代偿效应（Label Compensatory Trust）** 署名中的知名学者姓名与顶级高校标签充当了抵御同行挑剔的防护屏障。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 28, 30–31)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

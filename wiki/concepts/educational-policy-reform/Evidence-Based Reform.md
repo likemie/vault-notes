@@ -112,7 +112,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -169,10 +169,6 @@ updated: 2026-10-29
 >     classDef core fill:#eff6ff,stroke:#3b82f6,stroke-width:2px;
 >     class P,R,T,C,S,A core;
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

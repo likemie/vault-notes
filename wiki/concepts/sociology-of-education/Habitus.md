@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     Habitus & Field -->|"实践感运作"| Practice["实践活动 (Practice)\n阶层分流与策略生成"]
 >     Practice -->|"再生产与调适"| Class
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

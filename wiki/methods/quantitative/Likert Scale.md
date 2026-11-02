@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Likert Scale
@@ -208,8 +208,6 @@ updated: 2026-10-29
 > - 每个题项只问一个问题，使用单句，避免术语。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 命题一　李克特量表的单维性假设要求每次只测量一个潜在构念
 

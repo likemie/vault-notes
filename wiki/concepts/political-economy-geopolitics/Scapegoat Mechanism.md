@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -111,10 +111,6 @@ updated: 2026-10-29
 >   F --> G["获得短暂道德纯洁幻觉<br>掩盖体制深层无能并固化创新荒漠"]
 >   G --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

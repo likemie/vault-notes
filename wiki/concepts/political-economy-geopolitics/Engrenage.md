@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 >     E --> F["弥散互惠与共识反射"]
 >     E --> G["无须争论即通过的 A类决议"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

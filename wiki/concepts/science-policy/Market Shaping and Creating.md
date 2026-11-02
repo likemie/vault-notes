@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -134,10 +134,6 @@ updated: 2026-10-29
 > - **全价值链协同培育（Value Chain Orchestration）** 政策不仅支持上游基础研究，更贯穿中游技术试验、下游公共采购与应用场景示范，打通跨部门创新网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–811)]]
 > - **动态学习与反思型评估（Dynamic Learning and Reflexive Evaluation）** 摒弃静态成本收益核算，建立允许试错、鼓励组合式实验并持续反思调整的[[Dynamic Assessment|动态评估]]机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 > - **收益与风险结构对称（Equitable Risk-Reward Distribution）** 确保公共部门在承担早期颠覆性技术研发失败风险的同时，通过股权、特许权使用费或公共品定价约束等机制分享创新成功带来的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

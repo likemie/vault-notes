@@ -51,7 +51,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 > - **政策层级能力（Policy Capabilities）** 统筹长期研发资助、战略公共采购、标准规制与首台套示范，构建引导意愿者转型的连贯政策组合（Policy Mixes）。
 > - **行政层级能力（Administrative Capabilities）** 建立跨学科复合型评估团队，摆脱传统官僚僵化审批，对意愿者的自下而上方案实施敏捷评审与动态跟踪。
 > - **自适应反思能力（Reflexive Capabilities）** 建立容忍早期失败、鼓励知识共享并根据探索进展动态调整资助组合的组织学习环境。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -127,10 +127,6 @@ updated: 2026-10-29
 >     E --> F["反思性动态评估与航向修正"]
 >     F -->|反馈优化| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

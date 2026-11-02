@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -132,10 +132,6 @@ updated: 2026-10-29
 >     F -- 存在偏差/硬件故障 --> C
 >     F -- 达成稳定目标状态 --> G["方案落地与<br>图式经验内化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

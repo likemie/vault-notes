@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >     D --> E["所有权成本 (COO)<br>单位合格产出成本 (美元/Good Wafer)"]
 >     F["有效产能基数<br>(运行工时 × 吞吐速率 × 复合良率)"] --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

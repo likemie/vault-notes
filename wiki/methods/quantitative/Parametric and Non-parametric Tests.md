@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -67,8 +67,6 @@ updated: 2026-10-29
 > | **典型例子** | IQ 测验、全国标准化阅读测验 | 课堂拼写测验、数学测验、年终考试 |
 
 ---
-
-## 围绕概念形成的命题
 
 ### 命题一　参数测验的统计效力优势取决于其全国标准化基础
 

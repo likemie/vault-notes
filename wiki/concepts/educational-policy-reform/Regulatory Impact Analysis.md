@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Regulatory Impact Analysis
@@ -83,10 +83,6 @@ updated: 2026-10-29
 >     C --> D["政策工具动态修正<br>（提升制度适应性与效能）"]
 >     D --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

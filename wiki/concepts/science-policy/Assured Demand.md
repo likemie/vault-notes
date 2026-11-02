@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 >     D --> E["产品单价暴跌十倍以上<br>(跨越民用平价临界点)"]
 >     E --> F["自生性民用商业市场爆发<br>(演化为通用技术)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

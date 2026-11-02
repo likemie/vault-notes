@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     C -->|折叠时空 / 拓扑邻近对标| D["全域比较图景与二次研究<br>(FDZ 数据库 / 政策重组)"]
 >     D -.->|反馈诊断与标准对齐| A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

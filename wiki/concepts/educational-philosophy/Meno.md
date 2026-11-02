@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     D --> E["逻辑证明能力展现：得出对角线倍积定理"]
 >     E --> F["认识论提升：通过理性根据捆绑真实意见成真知"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

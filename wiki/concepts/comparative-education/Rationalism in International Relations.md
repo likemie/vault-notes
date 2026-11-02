@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,8 +109,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜理性主义通过教科书修编与多边学者合作，将比较教育建构为超越地缘对立的民主事业
 > **探讨维度　科学人道主义与国际理解** 这一命题分析早期理性主义如何通过跨国合作制度化。

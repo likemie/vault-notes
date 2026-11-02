@@ -39,7 +39,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Order Effects
@@ -161,8 +161,6 @@ updated: 2026-10-29
 > - **视觉显著性** 指令应放在它们将被使用的地方和能够被看到的地方。回答类别放在文本右侧可增加被回答的概率；加粗和大写可增加被关注到的机会（pp. 151–153）。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜顺序效应是[[Repeated Measures Design|重复测量设计]]的结构性代价，不是研究设计的失败
 > **探讨维度　顺序效应的方法论位置** 顺序效应不是"设计错误"，而是[[Repeated Measures Design\|重复测量设计]]必然引入的混淆源。围绕如何理解和应对这一结构性代价，方法论学者从权衡逻辑、均衡策略和适用条件三个层面展开论述。

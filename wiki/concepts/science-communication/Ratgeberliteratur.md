@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -113,8 +113,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕教学指南[[Document|文献]]在教师知识生态中的地位及其对循证实践的冲击，学术界形成了三大核心理论命题：
 

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-29
 > - **四大政策[[Champ|场域]]** 涵盖创新、科学研究、普通教育与职业培训，打破教育与经济部门的传统边界，推动研发与培训体系一体化整合。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 487)]]
 > - **终身学习与可更新技能** 确立终身学习为贯穿个体全生命周期的强制性要求，将知识视为不断贬值且需持续更替的易耗品，要求劳动者不断接受技能再认证以维系可雇佣性。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 492)]]
 > - **软性全景监控技术** 依托开放协调法（Open Method of Coordination, OMC），运用基准指标、同行评审与最佳实践对比，对成员国政策规划展开常态化远程注视。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487, 492)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

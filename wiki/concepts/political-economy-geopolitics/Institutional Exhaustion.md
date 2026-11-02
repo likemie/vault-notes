@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     E --> F
 >     F --> G["制度枯竭与自我消亡"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     C1 & C2 --> D["认知畸变（Malformation）"]
 >     D --> E["求知者成长权遭受根本损害"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

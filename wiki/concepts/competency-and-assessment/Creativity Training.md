@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Creativity Training
@@ -247,10 +247,6 @@ updated: 2026-10-29
 >     F --> G["构想评估与适切性选择 (元认知监控)"]
 >     G --> H["显性创造性产品与卓越成就 (Product / Achievement)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

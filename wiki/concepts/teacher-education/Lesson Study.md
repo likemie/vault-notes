@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -114,10 +114,6 @@ updated: 2026-10-29
 > - **内外证据深度融通（Bridging [[Practitioner Enquiry\|practitioner inquiry]] and External Research）** 打破“教师只做微观摸索”或“机械照搬外部文献”的人为割裂；课例研究将外部经检验的高质量证据作为教案设计的科学支撑，并通过课堂真实互动检验外部证据在本土情境下的有效性，实现“从事探究”（inquiry）与“使用证据”（evidence use）的紧密交融。
 > - **协同测试与微调[[Operationalization\|操作化]]系统（Testing, Implementing, and Refining）** 充当 [[Professional Learning Community\|PLC]] 的实质性落地规程；使教师团队避免停留在会议室的高谈阔论，而是通过真实的课堂现场共同检验假设、试验新法、微调策略，形成因果严密的实践检验闭环。
 > - **去私有化与互惠专业信任（Relational Trust & De-privatizing Practice）** 以共同研制的教案为客体，解除了对执教者个人的评价压力；依托“值得信赖的同行”（trusted peers）之间的平等切磋，将封闭孤立的私人课堂转化为共享的专业探究基地。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122, 125)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

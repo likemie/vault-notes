@@ -55,7 +55,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     F -.->|政治契合度筛选| G["决策吸收 / 策略性搁置"]
 >     G -.->|反身塑形| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

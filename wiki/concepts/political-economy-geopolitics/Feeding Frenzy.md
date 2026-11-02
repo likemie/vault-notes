@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -70,8 +70,6 @@ updated: 2026-10-29
 > - **候选人质量的逆向淘汰** 严酷的曝光代价使有独立见解、重视家庭隐私的实干家彻底放弃从政，留下的多为热衷表演的自恋型政客。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–63)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜媒体攻击性狂欢的泛滥大幅推高了从政的预期成本，导致民主治理精英的系统性退化
 > **探讨维度　媒介政治与人才供给模型** 探讨媒体侵入性报道如何改变公职候选人的成本收益计算。

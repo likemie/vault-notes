@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -130,10 +130,6 @@ updated: 2026-10-29
 >     C -.节点松动或物质故障.-> F["装配脆断与解组暴露"]
 >     F -->|重新招募与修补| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

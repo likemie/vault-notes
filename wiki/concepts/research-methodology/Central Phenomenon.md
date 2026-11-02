@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,10 +153,6 @@ updated: 2026-10-29
 >     CP -->|"组织范畴网络与理论饱和"| Analysis
 >     Analysis --> Theory["高概念密度实质理论\n(Substantive Theory)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

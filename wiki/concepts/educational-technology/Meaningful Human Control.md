@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （有意义的人类控制 / MHC）
@@ -136,10 +136,6 @@ updated: 2026-10-29
 >         B6 --> B7["落实有意义人类控制与尊严受托义务"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

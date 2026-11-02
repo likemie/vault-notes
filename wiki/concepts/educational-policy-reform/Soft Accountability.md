@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -90,10 +90,6 @@ updated: 2026-10-29
 >     C --> E["数字等值空间与微观表现压力"]
 >     E --> F["潜在向硬问责滑动风险"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

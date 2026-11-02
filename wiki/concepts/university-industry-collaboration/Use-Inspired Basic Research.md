@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Use-Inspired Basic Research
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     D --> E["驱动关键技术产业化\n（加速成果敏捷转化）"]
 >     E -->|工程瓶颈反哺| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

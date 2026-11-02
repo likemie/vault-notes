@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 > - **土壤与情境的不可剥离性** 教育实践深植于特定社会的阶级结构、文化传统与政治经济现实，绝非可在实验室中随意[[Assemblage|组装]]的标准化技术拼盘。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 341)]]
 > - **残枝与外来微生物的不可逆扩散** 外来改革在宏观层面的政策流产（枯萎），往往伴随着量化考核指标、商业教材外包与问责修辞等“微生物”在微观层面的持续寄生与本土繁殖。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
 > - **[[Recontextualization|再情境化]]过程中的微观现实断裂** 抽象方案在下沉至地方学校和课堂时，往往引发本土教师对虚假自主的恐慌、课程失序与意料之外的次生灾害。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -115,10 +115,6 @@ updated: 2026-10-29
 > - **首发采购支持下的规模累积爬坡（Scale-Accumulation under Lead Procurement）** 在[[General Purpose Technology|通用技术]]商业前景不明的萌芽期，政府与军方首发采购订单为供应商提供了不计短期成本的试验田，支撑企业在大规模生产中沿学习曲线快速下滑。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
 > - **累积产量带来的动态成本陡降（Dynamic Learning Curve）** 半导体工业实证表明，累积产量每翻一番，单位芯片生产成本通常下降 20%–30%，使先发企业构筑起强大的动态成本护城河。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 83)]]
 > - **自适应规制学习与政策弹性调整（Adaptive Policy Learning）** 在产业政策推进中，监管机构依托干中学吸收产业实际运行反馈，适时调整行政审批规则与过渡性采购豁免，避免政策僵化。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 13–14)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

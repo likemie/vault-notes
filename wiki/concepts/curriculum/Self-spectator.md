@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -54,10 +54,6 @@ updated: 2026-10-29
 > - **双重身份（Dual Identity）** 参与者同时作为[[Role-playing\|角色扮演]]者和角色观察者存在。他们是"自己也同时代表一个角色"（Bolton and Heathcote, 1999）。
 > - **批判性自我监控（Critical Self-monitoring）** 参与者在角色扮演过程中持续监控自己的情感和认知反应，意识到自己是在扮演一个角色，而非真正成为那个人。
 > - **客观距离（Objective Distance）** 自观创造并维持了参与者真实生活与虚构场景之间的客观距离，使参与者能够在情感投入的同时进行思考。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

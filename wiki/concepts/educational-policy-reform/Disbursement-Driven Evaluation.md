@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     E --> F["缺乏纠偏反馈：执行端反复重复同样体制缺陷"]
 >     F --> B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

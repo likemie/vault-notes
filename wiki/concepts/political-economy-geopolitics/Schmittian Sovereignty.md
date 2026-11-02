@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 >     B --> C["以法而治实践 (单向行政管道)"]
 >     C --> D["例外状态常态化 (消解专业边界)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

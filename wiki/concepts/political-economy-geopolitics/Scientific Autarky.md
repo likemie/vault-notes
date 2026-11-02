@@ -33,7 +33,7 @@ related_persons: []
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -57,10 +57,6 @@ updated: 2026-10-29
 > - **人员循环阻滞与本地化替代** 表现为国际流动人才循环的非对等化（如本国人才流向发达国家，而引入人才多局限于学术水平相对落后地区），进而被迫采取限制外籍专家与强化本国人才考核的本土化导向 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **资金渠道单一化与行政规制强化** 伴随外国科学基金会的退出和国家竞争性资助的合并，科研资助渠道趋于垄断，并通过法案或行政指令对国际合作施加严密的监督与合同审查 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 45–46)]]。
 > - **[[Megascience Installations\|大科学装置]]的本土自主化** 在传统上依靠国际多边联合出资的大型科学研究设施（Megascience installations）建设中，倾向于转由本国财政独立负担以获得完全的所有权与控制权 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 48–49)]]。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

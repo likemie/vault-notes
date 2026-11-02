@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -98,8 +98,6 @@ updated: 2026-10-29
 > - **五重有效性** 言语行为的真实性、合法性、正确性、真诚性和可理解性全部被体现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(第22章, pp.454–455)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Virtual World|虚拟世界]]中的[[Avatar|化身]]沟通近似理想言说情境的沟通条件
 > **探讨维度　[[Virtual World\|虚拟世界]]作为实现条件** 理想言说情境与虚拟世界沟通之间的结构相似性，是该模型在教育研究方法论中最直接的应用。

@@ -43,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 ---
@@ -74,8 +74,6 @@ updated: 2026-10-26
 > - **1876 至今 — 跨洋移植与美式[[Research Universities|研究型大学]]的诞生** 内战后的美国通过南北战争《[[Morrill Land-Grant Act of 1862|莫里尔赠地法案]]》奠定实用传统，并在 1876 年创办约翰斯·霍普金斯大学（Johns Hopkins University）时全盘借鉴洪堡科研原则；随后哈佛、哥伦比亚、芝加哥等校相继转型，将洪堡“科教融合”与美国研究生院体制（Graduate School）深度熔铸，孕育出当代全球卓越的顶尖研究型大学群落。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31, 33)]]
 
 ---
-
-## 围绕概念形成的命题
 
 ### 1. 洪堡模式是大学完成从“经院修道院”向“知识生产枢纽”跃升的制度质变点
 

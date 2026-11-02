@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -110,8 +110,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 乌班图在当代[[Theory of Knowledge|知识论]]与教育学讨论中主要围绕[[Ontology|本体论]]重塑与现代算法批判展开。
 

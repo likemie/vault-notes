@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -76,8 +76,6 @@ updated: 2026-10-29
 > - **政治与科学的双栖实践** 不将科学视为远离尘嚣的象牙塔避风港，而是主动作为国家治理的参与者与奠基者。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜前专业化时代的博学传统是早期[[Technological Republic|技术共和国]]高效治理的核心保障
 > **探讨维度　通识治理与科技决策** 探讨博学者如何将技术直觉与国家战略意志无缝融通。

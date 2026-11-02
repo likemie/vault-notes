@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -127,10 +127,6 @@ updated: 2026-10-29
 >     
 >     DT & OVERVIEW --> COMBO["结合随机刺激重组 (Random-Map)<br>打破语义邻近固着，跃升独创性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

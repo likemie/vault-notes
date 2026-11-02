@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     C --> D["观念评估与方案选择<br/>(Idea Evaluation)"]
 >     D --> E["显性创造性成果<br/>(Creative Product)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

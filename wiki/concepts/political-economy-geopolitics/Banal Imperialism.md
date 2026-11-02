@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -78,8 +78,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜跨国绩效排名虽然看似客观中立，实质上构成了对非西方社会进行认识型规训的“平庸帝国主义”机制
 > **探讨维度　绩效主义与去殖民批判** 这一命题解构了技术治理[[Discourse|话语]]如何沦为地缘新殖民控制的日常工具。

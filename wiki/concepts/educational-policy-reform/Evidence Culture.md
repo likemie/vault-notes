@@ -57,7 +57,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     D --> E["包容性生态重构<br>制度使能条件 · 认知正义 · 批判审议"]
 >     E -.->|反思重塑| C
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     E --> F["学习网络与生活共同体"]
 >     F --> G["儿童自然自主探究与去专业化陪伴"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

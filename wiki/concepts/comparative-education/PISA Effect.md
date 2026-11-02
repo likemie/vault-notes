@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -115,10 +115,6 @@ updated: 2026-10-29
 > - **数目化软治理（[[Governing by Numbers]]）的常态化** 经合组织依托[[Epistemic Governance|认知治理]]、规范治理与[[Peer Debriefing|同行审议]]，将跨国排位与差距数据转化为无可争议的客观硬事实，以此取代传统宪政辩论与立法协商（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]；Woodward, 2009）。
 > - **产出导向（Output-Orientation）与国家监测基建** 倒逼主权国家重构教育行政体系，在国家层面设立专门的[[Center of Calculation|计算中心]]（[[Center of Calculation]]，如德国 [[Institute for Educational Quality Improvement|IQB]]），常态化推行基于标准的学业质量监测。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 136–140)]]
 > - **教育目的的人力资本化转型** 促成教育政策目标与经济增长（GDP 增长率）深度捆绑，将受教育者界定为全球[[Knowledge-Based Economy|知识经济]]竞争中的劳动力生产要素，挤压人文主义与[[Whole Person Education|全人教育]]的传统空间。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–445)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

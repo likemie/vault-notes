@@ -115,7 +115,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -189,10 +189,6 @@ updated: 2026-10-30
 >     VP -->|打包社会影响力投资与外包项目| PPP
 >     Schools -->|以合规数据与技术样机换取项目制资金| Treasury
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

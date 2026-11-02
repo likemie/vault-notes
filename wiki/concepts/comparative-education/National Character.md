@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -116,10 +116,6 @@ updated: 2026-10-29
 >         E --> F["抵抗消费主义碎片化<br>(赋能技术共和国与硬实力)"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

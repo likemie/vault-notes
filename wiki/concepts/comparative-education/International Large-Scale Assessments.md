@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     D --> E["跨国比较排行榜<br>League Tables & Rankings"]
 >     D --> F["政策危机动员与借鉴<br>Crisis Narratives & Brokerage"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

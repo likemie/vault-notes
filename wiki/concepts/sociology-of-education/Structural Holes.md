@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >     C --> F["区域协同与空间融合实践"]
 >     D --> G["颠覆性技术轨道形成与产业升级"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

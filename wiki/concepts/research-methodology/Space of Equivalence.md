@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -121,10 +121,6 @@ updated: 2026-10-29
 >     D --> E["生成国家排名与效能阶梯"]
 >     E --> F["远处掌舵与政策规约"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

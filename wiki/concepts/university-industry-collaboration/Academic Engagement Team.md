@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -116,10 +116,6 @@ updated: 2026-10-29
 >     E --> F2["资本运作：CVC 跟进收购衍生初创"]
 >     E --> F3["生态共建：开源软件沉淀为行业通用底座"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

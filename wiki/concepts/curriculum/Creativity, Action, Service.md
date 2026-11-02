@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -125,8 +125,6 @@ updated: 2026-10-29
 > - **后续制度化　[[Chinese Academy of Sciences|CAS]] 成为文凭完成条件** 制度更加强调经验、反思和完成证据，但仍不用 EE 或 [[Theory of Knowledge|TOK]] 的学术分数逻辑评价。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Chinese Academy of Sciences|CAS]] 的最低共同性应是机会、指导与记录，而不是统一活动清单
 

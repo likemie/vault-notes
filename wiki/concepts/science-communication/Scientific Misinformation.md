@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     D --> E["社会后果<br>疫苗迟疑/气候漠视/信任侵蚀"]
 >     E --> F["治理防线<br>证据透明+通稿守则+平台审计"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -137,8 +137,6 @@ updated: 2026-10-30
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕准科学母题在比较教育学科史上的性质与地位，学术界形成了两大核心理论命题：
 

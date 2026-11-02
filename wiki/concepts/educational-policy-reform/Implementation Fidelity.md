@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,10 +153,6 @@ updated: 2026-10-29
 >         J -- 否 --> L["确认为理论本身无效（Theory Failure）"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

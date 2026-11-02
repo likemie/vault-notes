@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -114,8 +114,6 @@ updated: 2026-10-29
 >     C --> D["跨学科协作研讨"]
 >     D --> E["世界观与能动性释放"]
 > ```
-
-## 围绕概念形成的命题
 
 ---
 

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     E --> G["以数字脚手架维系理性决策表象"]
 >     F --> G
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

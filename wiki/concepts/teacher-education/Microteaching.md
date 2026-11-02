@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     D --> E["再次微格授课 (重教巩固)"]
 >     E --> F["二次评价与技能内化迁移"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

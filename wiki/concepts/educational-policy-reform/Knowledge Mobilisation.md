@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -243,10 +243,6 @@ updated: 2026-10-29
 >     NET <-->|全系统制度承诺| SCH
 >     SCH --> PJ
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

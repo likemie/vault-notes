@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     C --> D["4. 同伴审阅互评清单<br>（读写迁移打磨）"]
 >     D --> E["5. 独立测试与团队表彰<br>（个体责任强化）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

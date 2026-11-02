@@ -108,7 +108,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -190,10 +190,6 @@ updated: 2026-10-29
 >     M5 -.->|"新自由主义新公共管理渗透"| P1
 >     P5 -.->|"考核指标与课题采购"| U1
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     RPP --> Fund["资助范式重构\n(灵活周期 + 组织能力交付考核)"]
 >     Fund --> Outcome["实质教育改进与公平增进\n(克服统计均值偏狭 + 关照离群群体)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

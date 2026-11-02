@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -63,8 +63,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜戏剧张力的质量决定其在教育戏剧中的功能
 > **探讨维度　张力质量的探讨维度** 围绕戏剧张力应以何种强度与形态介入，Heathcote 主张关注张力质量而非其规模，这一维度直接关系到张力能否激发而非吓阻参与者。

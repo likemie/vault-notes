@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -138,10 +138,6 @@ updated: 2026-10-29
 >     G --> I
 >     H --> I
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

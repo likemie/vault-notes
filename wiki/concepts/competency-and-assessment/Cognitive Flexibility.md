@@ -127,10 +127,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜认知灵活性构成[[Divergent Thinking|发散思维]]与突破功能固着的底层[[Executive Function|执行功能]]中枢
 > **探讨维度　[[Executive Function\|执行功能]]支持与[[Creativity\|创造性]]加工** 创造力不是单纯的无序放空，而是高度依赖前额叶执行控制网络对思维范畴的灵活调度。
 

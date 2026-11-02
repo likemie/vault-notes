@@ -116,10 +116,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜[[Technical Rationality|技术理性]]通过将意向性置换为效率[[Variable|变量]]，制造了去情境的技术[[Problem Solving|问题解决]]器假象
 
 现代实证教学工程借用认知心理学术语包装行为控制逻辑，在深层[[Epistemology|认识论]]上抹杀了学生的主体能动性。

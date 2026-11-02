@@ -69,7 +69,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （教育技术可供性 / 可供性）
@@ -136,10 +136,6 @@ updated: 2026-10-29
 >     style R1 fill:#dbeafe,stroke:#3b82f6,stroke-width:2px
 >     style R2 fill:#fee2e2,stroke:#ef4444,stroke-width:2px
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

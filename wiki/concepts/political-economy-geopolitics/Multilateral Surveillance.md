@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-10-29
 >     D --> E["激发同行压力与改革诉求"]
 >     E --> F["国内政策调整与制度趋同"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

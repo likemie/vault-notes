@@ -26,7 +26,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -52,8 +52,6 @@ updated: 2026-10-29
 > | **典型例子** | 期末数学考试、拼写测验 | 智力测验、多元智能评估（Gardner, 1993）、学术能力评估测试（Scholastic Assessment Test, SAT） |
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜成就与能力倾向的区分在实际测量中可能是表面的
 > **探讨维度　[[Construct\|构念]]分离的实证困难** 如果测量某一年龄段地理"能力倾向"的测验与测量该年龄段地理"成就"的测验内容几乎相同，那么"能力倾向"和"成就"这两个标签描述的是同一个测验的不同用途，而非两个不同的构念。

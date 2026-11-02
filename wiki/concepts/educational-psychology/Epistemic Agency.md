@@ -96,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -169,10 +169,6 @@ updated: 2026-10-29
 > 
 >     D1 & D2 --> E["深层概念理解重组<br>与持久认知迁移"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >   D --> F["批判意识觉醒<br>(弗莱雷：打破沉默文化)"]
 >   F --> G["变革性解放实践<br>(Praxis: 行动与反思统合)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

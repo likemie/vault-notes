@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-29
 >   为操作者提供推翻默认系统提示的实质论据与证据抓手。
 > - **动态可撤销性（Defeasibility）**
 >   保留人类信念与决策的修正空间，抵御过早认知收敛。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

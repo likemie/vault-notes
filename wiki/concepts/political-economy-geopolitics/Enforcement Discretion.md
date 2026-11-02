@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 >     D -- "低裁量 × 弱否决" --> G["废旧立新：制度置换 (Displacement) ➔ 起义者"]
 >     D -- "低裁量 × 强否决" --> H["边缘叠加：制度层叠 (Layering) ➔ 颠覆者"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-30
 >     C --> D["传递仪器排障手感与默会知识"]
 >     D --> E["支撑突破性科学仪器与样机研制"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

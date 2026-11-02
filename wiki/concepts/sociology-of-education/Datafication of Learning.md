@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -112,10 +112,6 @@ updated: 2026-10-29
 >     C --> D3["数据资产化变现<br/>（EdTech 科技资本介入）"]
 >     D1 & D2 & D3 --> E["重塑教育系统内部认同与生产政治确定性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

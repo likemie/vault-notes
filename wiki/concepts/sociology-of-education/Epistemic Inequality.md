@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -113,10 +113,6 @@ updated: 2026-10-29
 >     D --> E["国家系统对外部知识产生结构性依附"]
 >     E --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

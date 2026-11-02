@@ -119,7 +119,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -168,10 +168,6 @@ updated: 2026-10-29
 > - **去政治化客观修辞（Depoliticized Scientific [[Discourse]]）** 在学术文本中采用去人称化表达、数据图表与概率陈述，构建无党派立场、中立客观的科学权威形象。
 > - **量化效度的实证主义前提（Positivist Validity Premise）** 该传统将价值中立列为实证主义[[Quantitative Research|量化研究]]效度的九大基石之一——与可控性、可复制性、去情境化、随机化和可观测性并列，构成研究者对“价值无涉”的方法论承诺。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **手段-目的工程学分离（Means-Ends Separation）** 将研究职责严格限定为评估“手段的技术有效性”，而将“目标的价值正当性”剥离并推给政治家与公众决定，奠定了现代技术官僚治理模式的理论基础。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

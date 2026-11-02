@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -83,8 +83,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜在场感是[[Virtual World|虚拟世界]]研究数据质量的前提条件
 > **探讨维度　在场感与数据有效性** 在[[Virtual World\|虚拟世界]]研究中，参与者的在场感直接影响数据的真实性、深度和[[Reliability\|可靠性]]。高在场感意味着参与者更可能投入情境并做出真实反应。

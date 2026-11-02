@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Jigsaw
@@ -98,10 +98,6 @@ updated: 2026-10-29
 >     H1 --> Eval["阶段四：全员独立综合测验"]
 >     H2 --> Eval
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

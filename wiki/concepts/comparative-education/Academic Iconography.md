@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-30
 >     D --> E["真实复杂历史的遮蔽<br>(女性隐形/跨洲网络简化)"]
 >     E --> F["学科肖像学批判<br>(走向比较教育学比较史)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

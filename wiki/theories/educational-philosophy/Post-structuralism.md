@@ -53,7 +53,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -113,10 +113,6 @@ updated: 2026-10-30
 >     
 >     F --> G["反思性知识生产<br>反思知识–权力共谋<br>赋予边缘个体声音合法性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

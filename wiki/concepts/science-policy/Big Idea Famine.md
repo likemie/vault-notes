@@ -69,7 +69,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -181,10 +181,6 @@ updated: 2026-10-29
 >   B1 & B2 & B3 --> C1 & C2 & C3
 >   C1 & C2 & C3 --> S1 & S2 & S3
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

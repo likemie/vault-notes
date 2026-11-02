@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     Intermediary -->|闭门游说与制度担保| Gov
 >     Cons -.->|商业机密条款隔绝| Public["公众与民主审议机制"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

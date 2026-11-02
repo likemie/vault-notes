@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -121,10 +121,6 @@ updated: 2026-10-29
 > | **民国[[New Education Movement\|新教育运动]]后期** | 客观事实、实验渐进、精细研究与适应国情 | 赵乃传 (1925); [[Tao Xingzhi\|陶行知]]; 《新教育评论》 | 克服激进空想与教条移植，建立国家建设导向的渐进实验闭环 |
 > | **现代大众传播与媒体消费** | 解决方案导向、证据透明度、通稿去过度营销 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 57)]]; Kerr et al. (2022) | 克服公众新闻回避，抵御算法虚假信息，重塑媒介生态信任 |
 > | **现代科技政策与公众参与** | 科学信任、信息需求、民主治理与协商参与 | [[Public Attitudes to Science\|PAS 2025 调查]]; [[Bodmer Report 1985\|Bodmer 报告]] | 诊断公众信息渴求与决策边缘化落差，推动从单向科普转向双向参与 |
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -147,10 +147,6 @@ updated: 2026-10-30
 >   I --> J["历史健忘症危机 (Historical Amnesia)"]
 >   J -.->|当代学统召回| F
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

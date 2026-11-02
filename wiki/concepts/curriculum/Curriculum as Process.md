@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -80,10 +80,6 @@ updated: 2026-10-29
 >     C --> D["知识价值共建与重构"]
 >     D --> E["作为过程的课程 (Process)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

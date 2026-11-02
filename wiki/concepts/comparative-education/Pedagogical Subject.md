@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 > - **[[Epistemology|认识论]]反思与[[Conscientization|批判意识觉醒]]（Conscientization）** 继承[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]传统，抗拒将知识物化灌输的银行[[Banking Model of Education|储蓄式教育]]，确立能够反思现实、命名世界并投身社会变革的[[Epistemic Agency|认识主体性]]。
 > - **具身存在与教化精神自足性（Embodied [[Bildung]]）** 继承德意志教化哲学与身体[[Phenomenology|现象学]]，教育主体通过身心肉身化与世界延展的双向辩证运动实现心智自足，拒斥[[Cognitive Capitalism|认知资本主义]]将教育简化为劳动力单向再生产（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–10]]）。
 > - **伦理团结与反商品化防线** 植根于集体互助与社群正义，抵制新自由主义将教育异化为踩踏同侪、追逐阶层特权的自私竞技场。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

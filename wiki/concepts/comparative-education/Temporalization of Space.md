@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -92,10 +92,6 @@ updated: 2026-10-29
 >     E --> F["正规教育同化工程与补偿政策"]
 >     F --> G["合法化现代空间治理与定居规训"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

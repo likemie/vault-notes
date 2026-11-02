@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -123,10 +123,6 @@ updated: 2026-10-29
 >     G --> H
 >     I["高压应试与过度惩罚"] -.->|"挤出效应"| E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

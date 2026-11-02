@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -124,10 +124,6 @@ updated: 2026-10-29
 >     E --> F["多轮接触与反思内化"]
 >     F --> G["深层概念理解与精深掌握<br>(化解中国学习者悖论)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

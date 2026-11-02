@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -185,8 +185,6 @@ updated: 2026-10-29
 > 三项实践均见 [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–206)]]。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[IB Diploma Programme|IBDP]] 核心组件与大学准备和高阶认知表现相关
 > **探讨维度　教育效能** 相关研究把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。

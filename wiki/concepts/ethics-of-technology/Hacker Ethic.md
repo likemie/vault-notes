@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-29
 >     D --> E["技术解放理想异化：<br>科技精英全面转向个人消费者市场"]
 >     E --> F["消费互联网垄断与技术不可知论冷漠"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

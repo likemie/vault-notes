@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -80,10 +80,6 @@ updated: 2026-10-29
 >     C --> D["认识论飞跃 (We Think)"]
 >     D --> E["变革行动 (Praxis)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

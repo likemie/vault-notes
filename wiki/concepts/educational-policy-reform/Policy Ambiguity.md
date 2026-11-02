@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     C --> E["政府面临被迫选择裁量"]
 >     E --> F["数字作为理性表象的脚手架<br/>（压制争议并赋予政治叙事空间）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

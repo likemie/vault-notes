@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     D --> E["促进社会阶层平等"]
 >     D --> F["学业资质异质性张力"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

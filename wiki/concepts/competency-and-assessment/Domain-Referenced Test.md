@@ -24,7 +24,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -54,8 +54,6 @@ updated: 2026-10-29
 > | **成功条件** | 题目样本能够代表内容全域 | 标准明确，任务能准确引出目标表现 | 能够有效拉开个体差距 |
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜领域参照测验的科学性取决于题目抽样的代表性
 

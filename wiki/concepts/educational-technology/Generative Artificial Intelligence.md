@@ -182,7 +182,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Generative Artificial Intelligence
@@ -314,10 +314,6 @@ updated: 2026-10-29
 
 > [!tip] 学术与探究常用工具推荐
 > 在文献研读、证据核验与学术探究场景中，推荐优先使用 **Gemini**、**Claude**、**ChatGPT**、**Perplexity** 与 **DeepSeek**。此类工具在长上下文窗口、长程逻辑推理、代码执行或即时学术引文溯源方面具备更稳健的综合表现。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

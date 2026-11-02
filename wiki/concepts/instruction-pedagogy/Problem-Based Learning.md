@@ -87,7 +87,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Problem-Based Learning
@@ -193,10 +193,6 @@ updated: 2026-10-29
 > - **信息加工与认知负荷** 学习涉及认知过程与认知负荷管理，问题结构调节加工深度。
 > - **协作与[[Cooperative Learning\|合作学习]]** 强调学习者之间互动、激活先备知识、主动参与。
 > - **情境与[[Discovery Learning\|发现学习]]** 知识在应用情境中获得，并通过探究发现建构。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 952–953)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -165,10 +165,6 @@ updated: 2026-10-29
 > >     M3 --> R2["立法前言亲欧修辞沦为改革迟滞托辞"]
 > >     M3 --> R3["博洛尼亚形式对标掩盖[[Academic Inbreeding|学术近亲繁殖]]"]
 > > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

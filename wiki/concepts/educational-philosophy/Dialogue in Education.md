@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,8 +117,6 @@ updated: 2026-10-29
 > | | [[Mother-Child Conversation\|母子学习对话]]（MCC） | 家庭社会化中以心智启发为核心的日常对话互动 | 质性/语篇 | — | [[Mother-Child Conversation]] |
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜结构化对话是促进[[Critical Thinking|批判性思维]]技能发展的核心教学机制
 > **探讨维度　认知与互动机制** 探讨师生与生生研讨如何从社会建构层面激发深层反思与理由权衡。

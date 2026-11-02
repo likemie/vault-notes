@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     D --> E
 >     E --> F["规则与现实脱节：保护效力衰退与利益转移"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

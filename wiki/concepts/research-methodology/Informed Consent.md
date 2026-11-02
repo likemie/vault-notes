@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-30
 >     H --> I["过程同意更新与持续协商"]
 >     H --> J["匿名编码与保密存档"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

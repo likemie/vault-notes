@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -85,10 +85,6 @@ updated: 2026-10-29
 >     C --> D["标准化测试测量结果"]
 >     D --> E["作为产物的课程 (Product)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

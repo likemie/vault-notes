@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -58,10 +58,6 @@ updated: 2026-10-29
 > - **人文学科与历史反思的全面边缘化（Collapse of the Humanities）** 视文学、哲学与历史学等人文探索为低效无用的负资产，毕业生人文专业占比断崖式下跌。
 > - **工程技能与宏观世界的彻底脱节（Technocratic Decontextualization）** 培养出大量仅[[Refined Mastery|精通]]算法代码却对历史脉络、地缘冲突与政治哲学全然无知的技术工匠。
 > - **以市场逻辑为借口的教育责任放弃（Market Abdication）** 大学管理者以“顺应市场需求”为由，推卸引导青年树立崇高志向与家国情怀的教育伦理责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 76)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

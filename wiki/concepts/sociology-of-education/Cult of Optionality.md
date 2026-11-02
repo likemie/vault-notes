@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -56,10 +56,6 @@ updated: 2026-10-29
 > - **退路泛滥与过度避险（Proliferation of Off-Ramps）** 在任何重大决断前始终预设多重备用方案（Backup Plans），磨平一切棱角以迎合所有潜在雇主与评价者。
 > - **永久准备状态（Perpetual Preparation）** 不断考取资质、刷履历、积累可迁移技能，但从未真正将自身投入到任何一项具有实质成败风险的伟大事业中。
 > - **排他性承诺恐惧（Fear of Irreversible Commitment）** 视确定性承诺（如国家忠诚、宗教信仰、激进创业、深度学术钻研）为剥夺未来灵活性的高危负债。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–71)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

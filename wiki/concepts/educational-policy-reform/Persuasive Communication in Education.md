@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 > - **简单明了的确定性承诺（Promise of Easy & Universal Success）** 抹杀教育情境的复杂性与[[Heterogeneity\|异质性]]，承诺“一套方案包治百病”或“立竿见影提升 30% 分数”。
 > - **情感共鸣与道德绑架（Emotional Appeal & Moral Imperative）** 将采纳该方案与“成为负责任的卓越教师”相绑定，使拒绝者承受道德压力。
 > - **名人与非同行权威背书（Celebrity & Authority Endorsement）** 借助非学术界名流、商业领袖或脱离课堂的意见领袖进行背书传播。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

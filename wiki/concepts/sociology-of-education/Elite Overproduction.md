@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -80,10 +80,6 @@ updated: 2026-10-29
 > - **文化资质与财富现实的认知失调（Cognitive Dissonance of Cultural vs Economic Capital）** 拥有顶尖名校的学历和文化眼界，却缺乏与之匹配的银行账户余额与实质社会继承权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 107)]]
 > - **不公正对待感与失败借口（Perceived Injustice and Alibi for Failure）** 援引[[Talcott Parsons|塔尔科特·帕森斯]]（[[Talcott Parsons]]）的论断，未获晋升的精英倾向于将自身困境归咎于社会不公，以此作为掩盖个人失败的心理防御机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
 > - **技术创新的内卷化转向（Inward-Facing Technology Construction）** 无法在国家与全球战略舞台施展抱负，转而利用代码构建为同温层中产阶级消除生活摩擦的消费应用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 108)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

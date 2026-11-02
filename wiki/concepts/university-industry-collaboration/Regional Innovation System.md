@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     F --> H["精准适配四类本地产业转型轨迹"]
 >     H --> I["区域差异化竞争优势与技术升级"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

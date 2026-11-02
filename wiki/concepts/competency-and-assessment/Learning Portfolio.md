@@ -23,7 +23,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -48,8 +48,6 @@ updated: 2026-10-29
 > [[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 72–73)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜评估要求可以自下而上地生成教学活动
 > **探讨维度　[[Assessment Backwash\|评估反拨]]的建设性使用** 当评估任务直接嵌入课程目标时，学生为准备证据而采取的活动就是课程希望他们练习的活动。

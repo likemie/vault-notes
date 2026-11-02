@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     D --> E["学术劳工弹性化与专业自主受抑"]
 >     D --> F["学术产出适销化与知识商品化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

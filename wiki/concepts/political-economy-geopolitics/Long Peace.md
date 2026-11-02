@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >   F1 & F2 & F3 --> G["地缘安全真空与传统均势瓦解"]
 >   G --> H["以软件硬实力与 AI 威慑重构新时代长和平"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

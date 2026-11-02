@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-09'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     E --> G["纯粹工具理性择业（高薪与世俗高位）"]
 >     E --> H["世俗竞争胜出与阶级再生产"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

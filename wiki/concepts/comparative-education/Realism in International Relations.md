@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,8 +99,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜比较教育的借用实践与参考框架是大国间实力消长和工业焦虑的直接产物
 > **探讨维度　工具理性与均势政治** 这一命题分析为何比较教育总是跟随霸权的兴衰和地缘危机旋转。

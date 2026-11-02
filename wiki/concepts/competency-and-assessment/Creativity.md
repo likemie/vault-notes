@@ -211,10 +211,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜创造力具有显著的[[Predictive Validity|预测效度]]不对称性，预测外部成就的效力显著强于外部因素对创造力的预测
 > **探讨维度　[[Variable|变量]]角色与因果联结的不对称性** 考察创造力作为[[Independent Variable|自变量]]（预测外部成果）与作为[[Dependent Variable|因变量]]（受外部因素预测）时[[Effect Size|效应量]]级的系统性分化。
 

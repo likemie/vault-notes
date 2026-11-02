@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >     E --> F
 >     F --> G["重铸技术共和国：融合个人创造力与公民仪式"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

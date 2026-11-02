@@ -89,7 +89,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -146,8 +146,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[PISA]] 国际比较测试是 GERM 跨国扩散的核心制度载体
 > **探讨维度　超国家软治理与制度载体** 探讨超国家测试工具如何在不具备法律强制约束力的条件下，驱动主权国家主动采纳 GERM 的标准化与问责框架。

@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     C & D & E --> F["快速获取与部署关键技术能力<br>(Rapid Technological Capability Acquisition)"]
 >     F -.->|"切断底层认知纠错与长周期源头活水"| G["系统性认知脆弱性与原始创新耗竭<br>(Cognitive Fragility & Innovation Depletion)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

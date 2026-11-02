@@ -45,7 +45,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     D --> E["加剧对科研证据的不信任与抵触"]
 >     E --> B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

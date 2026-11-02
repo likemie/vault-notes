@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -81,8 +81,6 @@ updated: 2026-10-29
 > - **对民主审议自主权的剥夺** 作为一股强大的跨国政治力量，PISA 成功普及了由其垄断的“教育质量”定义。国家教育行政部门不再深入探讨教育的根本目的，转而专注于迎合 PISA 测验格式与排位指标。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜将经济[[Competitiveness|竞争力]]作为教育唯一目的直接导致[[Whole Person Education|全人教育]]价值被系统性牺牲
 > **探讨维度　价值窄化与排挤效应维度** 探讨单一追求量化测试成绩对学生全面发展的挤出机制。

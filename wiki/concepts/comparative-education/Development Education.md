@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -148,8 +148,6 @@ updated: 2026-10-30
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 ### 命题一　发展教育的建制分流反映了比较教育学理论建构与政策干预之间的长期张力
 

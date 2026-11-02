@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -72,10 +72,6 @@ updated: 2026-10-29
 >     C["个体化因果归因 (调适心理)"] --> D
 >     D --> E["消解青年能动性与抗争正当性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

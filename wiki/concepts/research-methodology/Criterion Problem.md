@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,8 +109,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜效标问题是导致心理潜能作为[[Independent Variable|预测变量]]与作为[[Dependent Variable|结果变量]]时[[Effect Size|效应量]]显著不对称的根本原因
 > **探讨维度　[[Effect Size\|效应量]]不对称性与效标噪声稀释** 探讨为何在[[Meta-analysis\|元分析]]中，同一个心理[[Construct\|构念]]在作为前因[[Independent Variable\|自变量]]与作为[[Dependent Variable\|因变量]]效标时表现出截然不同的关联强度。

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -122,10 +122,6 @@ updated: 2026-10-29
 平均制造成本上升"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

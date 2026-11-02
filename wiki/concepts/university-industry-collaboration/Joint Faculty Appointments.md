@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -112,10 +112,6 @@ updated: 2026-10-29
 >     P2 <-->|"学术发表、授课与团队指导"| Dean & Lab
 >     Lab -->|"高水平工程博士毕业生直聘管道"| BU
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -172,10 +172,6 @@ updated: 2026-10-29
 > 
 >   PathD --> F1["非西方现代化宏大叙事<br>(禹钟晸：抗衡西方中心主义模式)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

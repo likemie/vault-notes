@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -124,10 +124,6 @@ aliases:
 >     G --> H["快速止损与敏捷重构<br>(Rapid Pivot)"]
 >     H --> B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

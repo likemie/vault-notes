@@ -35,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -85,8 +85,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Epistemology|认识论]]价值是决定探究目标确立与深层认知投入的核心决策函数
 > **探讨维度　价值对目标确立与努力投入的决定机制** 探讨个体为何在面对复杂知识时产生不同的参与深度，揭示[[Epistemology\|认识论]]价值对高成本认知策略的驱动机制。

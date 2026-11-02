@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -84,10 +84,6 @@ updated: 2026-10-29
 >     D --> E["学业挫折与中途退学"]
 >     D --> F["政策两难：多元文化尊重 vs 空间定居同化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

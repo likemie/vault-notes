@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,10 +126,6 @@ updated: 2026-10-29
 >     G --> H["签署知情同意与现场守门人准入"]
 >     H --> I["数据采集与全程持续合规监督"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

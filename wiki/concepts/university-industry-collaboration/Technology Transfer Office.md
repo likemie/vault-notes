@@ -15,7 +15,7 @@ related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
-updated: 2026-10-29
+updated: 2026-11-02
 tags:
   - theme/technology-transfer
   - level/higher-education
@@ -127,10 +127,6 @@ created: 2026-06-03
 >     Startup -->|"寻求外部股权融资"| VC
 >     TTO -.->|"尽调投入释放质量信号"| VC
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

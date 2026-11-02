@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -66,10 +66,6 @@ updated: 2026-10-29
 > - **结构与逻辑相似性** — 外来中介工具与本土既有信念在核心逻辑上存在相互印证的基底（如[[Lev Vygotsky\|维果茨基]]社会文化理论与[[Confucius\|孔子]]启发式对话）。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]
 > - **互惠强化与解构异己感** — 借由本土传统为外来理念赋予合法性，同时借由外来理念实现本土传统的现代复兴。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
 > - **情境选择性** — 亲和并非全盘接受，而是选择性地吸纳符合本土特定诉求（如攻克高阶考题与提升课堂效率）的构件。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–602)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

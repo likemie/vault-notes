@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -68,10 +68,6 @@ updated: 2026-10-29
 > - **价值不对称性（Normative Asymmetry）** 冤枉无辜造成的国家伦理损害被判定为远大于放纵犯罪的实际损害。
 > - **对[[Pragmatic Paradigm|实用主义]]妥协的排斥（Rejection of Pragmatic Error Tolerance）** 刑事司法不同于一般工程或商业决策，绝非容忍“可接受故障率”的实用主义试验场。
 > - **技术合规设计的根本约束（Design Constraint for Tech）** 要求在研发和部署执法类软件时，必须以哪怕防范一次潜在滥用为导向构建系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

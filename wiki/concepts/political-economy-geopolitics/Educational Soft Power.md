@@ -56,7 +56,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -122,8 +122,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜高等教育吸引力由传统文化符号转向当代生活方式与技术基础设施体验
 > **探讨维度　文化吸引力形态转型** 探讨[[Internationalization of Higher Education|高等教育国际化]]背景下，外国受众对留学目的国的文化认知如何超越历史遗产叙事，转向对高度便捷的现代数字生活环境与技术生态的切身体验。

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-10-29
 > - **公共源流的意识形态漂白（Ideological Whitewashing of Public [[ROOTS]]）** 将由公共财政与国家战略工程孕育的技术成果（如互联网、GPS、微处理器），重构为纯粹私人车库英雄主义的叙事。
 > - **单向工具主义屈从（Instrumental Subservience）** 学术研究退化为官僚规避决策责任的[[Social Science as Legitimation Alibi|合法化借口]]，商业研发退化为流量变现的避险工具。
 > - **公共契约与道德责任的消解（Erosion of Civic Contract & Ethical Duty）** 借由对历史来源的遗忘，免除自身对培育者（国家与社会大众）应尽的反哺义务与防卫责任。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

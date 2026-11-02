@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -140,10 +140,6 @@ updated: 2026-10-29
 >     G1 & G2 & G3 ==> Gap
 >     Bridge ==>|"制度化弥合"| Gap
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     C --> D["外部环境良性赋能<br>(公共拨款保障/生源充沛/政策支持)"]
 >     D --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

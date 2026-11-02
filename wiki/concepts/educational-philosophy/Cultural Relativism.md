@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     E --> F["国家认同空洞化与道德真空"]
 >     F --> G["技术不可知论与文化虚无主义"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

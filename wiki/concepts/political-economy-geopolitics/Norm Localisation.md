@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-10-29
 >     D & E --> F["本土转译与再情境化 (Re-contextualisation)"]
 >     F --> G["生成高度兼容本土主权的高教合作架构 (东南亚共同空间)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

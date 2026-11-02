@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -95,8 +95,6 @@ updated: 2026-10-30
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜学术权威在世期间对其细分学科形成排他性阻滞
 > **探讨维度　学术权威的微观生态阻滞** 探讨学科顶尖领军学者对潜在竞争者的威慑机制，证实权威在世对局外学者与非正统课题的现实压制。

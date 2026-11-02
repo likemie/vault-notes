@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     C --> D["法团网络吸纳基层动能"]
 >     D --> E["阶级不满降温<br>维系资本积累与政权统治"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

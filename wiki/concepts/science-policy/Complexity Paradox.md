@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 title: Complexity Paradox
 aliases:
   - 复杂性悖论
@@ -75,10 +75,6 @@ aliases:
 > - **议题跨界交织性（Issue Interconnectedness）** 应对气候危机、产业脱碳与健康老龄化等[[Wicked Problem|棘手问题]]需要科技、财政、规制与产业政策的协同联动。（pp. 790–791）
 > - **科层部门利益壁垒（Bureaucratic Silos）** 政府组织结构、预算编制与晋升激励按专业条线划分，形成天然的部门保护主义与协调阻力。（p. 790）
 > - **政策工具碎片化（Instrument Fragmentation）** 研发补贴、税收减免与公共采购等政策工具分散在不同层级部门，缺乏统一的战略方向统摄。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

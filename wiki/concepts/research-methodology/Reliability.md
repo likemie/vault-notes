@@ -90,7 +90,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -175,10 +175,6 @@ updated: 2026-10-29
 >     B1 & B2 & B3 --> D["效度的必要非充分条件<br>(防范封闭指标循环牢笼)"]
 >     C1 & C2 & C3 --> E["可信赖性与生态真实性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

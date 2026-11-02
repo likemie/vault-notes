@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -118,10 +118,6 @@ updated: 2026-10-29
 >     D -->|"防范盲动主义"| F["<b>持续批判反思</b><br>(深化主客认知)"]
 >     E & F --> G["<b>工农大众历史主体确立</b><br>(代表性知识跨国扩散)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

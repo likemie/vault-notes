@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -135,10 +135,6 @@ updated: 2026-10-29
 >     K3 --> Out["集体知识前沿实质推进与高阶批判素养培育"]
 >     A3 --> Out
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

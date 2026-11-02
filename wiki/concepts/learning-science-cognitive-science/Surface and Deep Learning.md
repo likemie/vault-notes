@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -132,10 +132,6 @@ updated: 2026-10-29
 > ![Figure 1：学生取向、教学方法与投入水平](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig1_Student_Orientation_Teaching_Method_Engagement.jpg)
 >
 > Figure 1 呈现学生取向与教学方法的交互关系。教学方法越要求学生主动提出问题、建立联系和检验方案，学生越难仅靠记录与记忆完成任务。Susan 在连续体两端都保持较高投入，Robert 的投入则更依赖教学条件。主动端提高了任务对 Robert 的认知活动要求，二人的投入差距随之缩小。该图概括既有研究与观察，没有提供随机试验的效果曲线。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 58–59)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

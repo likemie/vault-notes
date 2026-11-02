@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 > - **[[Incommensurability\|不可通约性]]教条（Incommensurability Dogma）** 双方皆将库恩的[[Incommensurability\|不可通约性]]绝对化，断言两种范式在哲学逻辑上绝无妥协可能，任何结合皆属自相矛盾。
 > - **[[Scale of Measurement\|测量尺度]]的错位互评** 双方运用本阵营的评价尺规去贬损对方的研究成果；用[[Effect Size\|效应量]]衡量[[Ethnography\|民族志]]或用质性个案反驳大样本统计分布，造成了严重的认知对话失效。
 > - **[[Knowledge Production\|知识生产]]体制的割裂** 学术期刊、资助基金评审与大学院系课程设置长期泾渭分明，分别构筑排他性的实证量化城堡或质性人文堡垒。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

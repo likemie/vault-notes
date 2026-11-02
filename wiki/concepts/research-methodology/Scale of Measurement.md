@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -129,8 +129,6 @@ updated: 2026-10-29
 > - **学前早期测量数据库（Early Years Measures Database）** 专门评估面向 0–6 岁儿童早期语言、读写、数学与社会情感发展的测量工具，确保学前教育试验采用高敏感度、宽量程的测量尺度（[Early Years Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜测量尺度的数学属性对统计推断模型的选择构成刚性约束
 > **探讨维度　尺度层级与参数/非参数检验的对应法则** 测量尺度在数学上拥有的信息量决定了数据分析的统计合法性边界。

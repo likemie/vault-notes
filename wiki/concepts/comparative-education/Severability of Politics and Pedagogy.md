@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     D & E --> F["注入民主共和精神 (Democratic Re-articulation)"]
 >     F --> G["创设本土公学与现代师范学校"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

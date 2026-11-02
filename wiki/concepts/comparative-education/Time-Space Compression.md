@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     C --> F["外部政策文本对国家主权即时穿透"]
 >     D --> G["自下而上的跨国抗争联盟<br>（工会/原住民/环保网络）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

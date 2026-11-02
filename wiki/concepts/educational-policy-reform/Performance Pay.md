@@ -75,7 +75,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Performance Pay
@@ -144,10 +144,6 @@ updated: 2026-10-29
 >     D --> E["教学应试化、课程窄化与教师倦怠"]
 >     E --> F["教学质量反受损害与学界抵制"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

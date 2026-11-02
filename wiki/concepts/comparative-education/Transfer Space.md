@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     D --> F["议程设置：借力危机叙事与破局"]
 >     E --> G["法令出台：仅留存符合意志的规制条目"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

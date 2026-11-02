@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -123,10 +123,6 @@ updated: 2026-10-30
 >     E --> F["法兰西中央集权行政官僚与法官学者精英"]
 >     F --> G["国家政治秩序维系与公共治理运作"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

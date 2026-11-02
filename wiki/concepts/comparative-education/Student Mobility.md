@@ -95,7 +95,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Student Mobility
@@ -144,10 +144,6 @@ updated: 2026-10-29
 >     E --> F
 >     F --> G["合作实体化拓展<br>(鲁班工坊/联合学院)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

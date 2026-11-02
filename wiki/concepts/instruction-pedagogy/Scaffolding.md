@@ -99,7 +99,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Scaffolding
@@ -161,10 +161,6 @@ updated: 2026-10-29
 >     G --> H["内化为自我脚手架 (Self-Scaffolding) 与自持主体性"]
 >     H --> I["实现跨情境独立迁移"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

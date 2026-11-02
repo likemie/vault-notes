@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     E --> F["构建认识论证据层级：RCT 作为黄金标准"]
 >     E --> G["塑造超党派中立裁判：经合组织硬事实治理"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

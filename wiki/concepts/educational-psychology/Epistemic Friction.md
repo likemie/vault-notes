@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （[[Epistemology|认识论]]摩擦 / 生产性认知摩擦）
@@ -145,10 +145,6 @@ updated: 2026-10-29
 >     F2 --> F3["调动工作记忆与多源证据权衡"]
 >     F3 --> F4["校准批判性信任与捍卫实质自主能动性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

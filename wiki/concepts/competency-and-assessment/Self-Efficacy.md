@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -135,10 +135,6 @@ flowchart LR
     D --> A
     E["教育神经神话/本质主义标签<br/>（如学习风格定型）"] -.->|"习得性削弱与设限"| B
 ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

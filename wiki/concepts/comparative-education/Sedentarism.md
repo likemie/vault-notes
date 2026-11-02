@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-29
 >     E --> F["强制定居化同化（游牧与大篷车儿童）"]
 >     E --> G["学籍与绩效排斥（随迁与转学儿童）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

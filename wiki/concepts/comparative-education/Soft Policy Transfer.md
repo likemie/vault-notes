@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -75,10 +75,6 @@ updated: 2026-10-29
 > - **共识性概念建构（Idea Fixing）** 跨国组织通过专题会议与白皮书，将原本模糊多元的教育议题固化为具有特定政策倾向的通用概念（如将教育质量界定为生活素养或职场胜任力）。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 194, 200)]]
 > - **专业[[Epistemic Community|认知共同体]]中介** 依托学术学会、学科带头人与专家网络（如欧洲 [[Tuning Project|Tuning]] 协会），跨越国界开展学科预期学习成果的对话与协商。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 195, 200)]]
 > - **本土情境调适宽容度** 允许主权国家在接纳宏观理念框架的同时，自主决定具体的实施节奏、课程衔接路径与本土化指标转换。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 195)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

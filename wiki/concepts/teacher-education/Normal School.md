@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -145,8 +145,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕师范学校在现代教育史与比较教育学中的地位及当代教师教育转型，学术界形成了三大核心理论命题：
 

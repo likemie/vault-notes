@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -90,10 +90,6 @@ updated: 2026-10-29
 >     D --> E["阶段分期资助与里程碑考核<br>（优胜劣汰 / 动态淘汰）"]
 >     E --> F["突破性技术原型成功交付"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

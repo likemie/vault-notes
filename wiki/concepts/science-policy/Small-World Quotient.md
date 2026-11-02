@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-30
 >     W --> E["高 W: 认知回音室 (群体盲思)"]
 >     D --> F["最佳团队创造力与创新突破"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

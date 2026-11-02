@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     G["扩增独立学校数量 K<br>(而非单校学生数 m)"] --> H["直接冲破设计效应瓶颈"]
 >     H --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

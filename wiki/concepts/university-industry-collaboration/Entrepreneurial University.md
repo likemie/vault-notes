@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -128,10 +128,6 @@ updated: 2026-10-29
 >     C --> D["战略整合对接国家重大社会挑战"]
 >     D --> E["跨越商业化死亡之谷并创造公共价值"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

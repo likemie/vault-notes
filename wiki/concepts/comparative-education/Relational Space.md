@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -127,10 +127,6 @@ updated: 2026-10-29
 >     Global <-->|"双向互动与工具供给"| Transfer
 >     Transfer <-->|"策略性外在化借力 vs 两阶段行政过滤"| National
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

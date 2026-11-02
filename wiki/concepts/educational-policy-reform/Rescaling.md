@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     Sub -->|行政督导 & VERA 统测| Local
 >     Centers["国家计算中心 (IQB / ZIB / DIPF)<br>& 私营基金会 (智库中介)"] <-->|跨尺度穿透与拓扑数据流转| Trans & Nat & Sub & Local
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -84,10 +84,6 @@ updated: 2026-10-29
 >     D --> E["合法边缘参与 ➔ 核心深度参与"]
 >     D --> F["专业知识共创与身份认同跃升"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

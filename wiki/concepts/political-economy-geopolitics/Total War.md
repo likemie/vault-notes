@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 >     B --> C["相互保证毁灭恐怖<br>(加迪斯长和平与核均势)"]
 >     C --> D["软件世纪与 AI 决策逆转<br>(算法中枢取代重型平台消耗)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

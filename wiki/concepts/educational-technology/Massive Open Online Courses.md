@@ -48,7 +48,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     C["微单元视频与即时自测"] --> D
 >     D --> E["跨国多语种共享与技能认证"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

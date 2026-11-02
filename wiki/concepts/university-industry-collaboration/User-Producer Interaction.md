@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -91,10 +91,6 @@ updated: 2026-10-29
 >     B -->|定制化装备与工艺方案| C["上游设备与材料制造企业<br>（专业化技术开发）"]
 >     C -->|高效装备导入| A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

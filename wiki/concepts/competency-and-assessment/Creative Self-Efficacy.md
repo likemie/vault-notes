@@ -152,10 +152,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜[[Creativity|创造性]][[Self-Efficacy|自我效能感]]是预测显性创造表现的核心外认知[[Variable|变量]]且与成果关联强于[[Divergent Thinking|发散思维]]
 > **探讨维度　外认知效能感与创造表现的直接关联** 探讨信念层面的[[Self-Efficacy\|自我效能感]]在多大程度上能够独立预测个体的显性[[Creativity\|创造性]]产出与创新成就。
 

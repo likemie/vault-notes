@@ -122,7 +122,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -264,10 +264,6 @@ updated: 2026-10-29
 > - **荷兰与匈牙利一线教师科研制度化支撑机制** 荷兰科学研究组织（NWO）教师博士资助计划常态化资助学前至高职一线教师开展课堂实证研究，全额承担代课聘用成本以保障最高 0.4 全职当量的法定带薪科研工时；匈牙利 pedagogical career 模式设立研究型教师（Researcher Teacher）终身职级，为通过博士考核的教师配备 5 年可续规划与法定专项津贴，打破大学对[[Knowledge Production\|知识生产]]的垄断，在行政中枢与微观教学间构筑起独立造血的中介支点。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–92)]]
 > - **EEF 助教循证配置指南的区域规模化推广（Maxwell et al., 2019; Sibieta & Sianesi, 2019）** 针对英格兰每年巨额聘用 38 万名助教却因隔离看护导致学困生学业受损的顽疾，EEF 提炼出 7 项核心[[Recommendations for Practice\|实践建议]]，在南约克郡等地区联合地方教育局与示范校开展区域动员。中介团队重塑排课机制、保障主辅协同备课时间、推行支架式提问教学与结构化小班干预方案，并配套跨区域因果评估，使纸面证据落地为学校常态制度。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 > - **[[Early Intervention Foundation\|早期干预基金会]]行为科学[[Knowledge Mobilisation\|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）** 针对地方当局在儿童服务采购中高度依赖商业宣传与人际熟络的弊端，早期干预基金会（EIF）打破传统[[Document|文献]]汇总模式，深入地方政府诊断公职人员面临的信息超载、财政预算周期约束与问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为引导保障宏观[[Evidence-Based Policy-Making|循证决策]]落地。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

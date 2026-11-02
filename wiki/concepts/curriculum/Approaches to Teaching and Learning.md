@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -62,8 +62,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜通用学习技能是实现跨组件连贯性的方法学基础
 > **探讨维度　跨学科方法** 探究教学中，如何让学生在不同学科间迁移能力是关键挑战。通用学习技能框架提供了连接的共同语言。

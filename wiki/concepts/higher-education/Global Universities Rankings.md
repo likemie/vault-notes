@@ -86,7 +86,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -172,10 +172,6 @@ updated: 2026-10-29
 
 > [!exegesis]- 跨国差异的计量解释
 > 跨国计量经济学实证检验进一步证实了这种结构性倾斜。李等人（Li et al., 2011, p. 923）指出，大学排名跨国差异中的绝大部分比例，仅由四个基础社会经济[[Variable|变量]]即可解释：一国的人均收入水平、人口规模、研发支出总额以及国家通用语言（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 132]]）。这表明全球排名在很大程度上反映的是既有地缘经济资源存量，而非单纯的机构办学效能。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

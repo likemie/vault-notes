@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     E --> F["平庸之恶的系统性发生<br>(Banality of Evil)"]
 >     F -.->|"破局解药"| G["建设性不服从与批判性教育<br>(Constructive Disobedience & Bildung)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

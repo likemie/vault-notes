@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -152,10 +152,6 @@ updated: 2026-10-29
 > - **宏观层级（Macro）** [[European Qualifications Framework\|欧洲资格框架]]（EQF）与各国 NQF 将[[Higher-Order Thinking Skills\|高阶思维]]确立为学士、硕士与博士的核心学习成果。
 > - **中观层级（Meso / 全课程级）** 克服模块化（Modularisation）导致的考核碎片化危机；依托 [[TESTA Project\|TESTA]] 等模式在专业整体层面统整评价任务，保障跨学期复合能力的螺旋式上升。
 > - **微观层级（Micro / 课堂与量规）** 采用 VALUE 等经过教师校准研讨（Calibration）的表现性量规，直接嵌入日常大[[Homework\|作业]]与论文中，实现教、学、评一体化。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

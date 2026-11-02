@@ -85,10 +85,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜积极政策形象是维系既有[[Punctuated Equilibrium Theory|政策垄断]]与抵御外部干预的合法性外壳
 > **探讨维度　[[Punctuated Equilibrium Theory|政策垄断]]的[[Discourse|话语]]防御机制** 在常规政治时期，封闭的政策铁三角通过输出象征公共利益或专业理性的正向形象，使外部政治家与公众确信现状运行良好，从而将挑战者排除在决策议程之外。
 

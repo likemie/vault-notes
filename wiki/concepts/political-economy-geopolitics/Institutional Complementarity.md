@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     Layer --> Hybrid
 >     Hybrid -->|重塑实质功能| Core["在保留外壳下实现自由化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

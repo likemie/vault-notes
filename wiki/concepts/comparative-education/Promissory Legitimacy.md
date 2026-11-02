@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     D --> E["生产心理与政治确定性<br/>（通过当下切实作为抵御未来焦虑）"]
 >     E -.->|反向强化国际组织专业权威| C
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

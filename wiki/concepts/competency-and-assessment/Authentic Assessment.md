@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 > - **生成性综合表现（Constructed Performance）** 要求学生主动搜集、权衡并综合多源证据，产出具有实质内容的原创性成果。
 > - **清晰透明的表现标准（Transparent Criteria）** 预先向学生公开评价量规与各等级表现范例，使评价标准成为[[Self-Regulated Learning\|自我调节学习]]的指引。
 > - **嵌入式与形成性反馈（Curriculum Embedding & [[Feedback]]）** 评价直接融入教学进程，允许学生在多轮草稿与同伴评审中迭代改进。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

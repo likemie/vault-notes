@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >     D -- "否 (违规套利)" --> G["[[Symbionts|共生者]] (Symbionts)"]
 >     D -- "相机抉择" --> H["[[Opportunists|机会主义者]] (Opportunists)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

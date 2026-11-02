@@ -90,7 +90,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -165,8 +165,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕启蒙现代性[[Paradigm|范式]]、教育学术史演进以及民主公共审议机制，学界确立了四大核心理论命题：
 

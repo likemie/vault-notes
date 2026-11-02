@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,10 +126,6 @@ updated: 2026-10-29
 >     F -->|OTA 空中代码实时推送| B
 >     D --> G["重构地缘战略均势与民主常规威慑"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

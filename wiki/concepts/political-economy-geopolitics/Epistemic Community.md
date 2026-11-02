@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 > - **共享因果信念模型（Shared Causal Beliefs）** 对政策问题成因与解决路径拥有共同的理论推导框架（如将[[Academic Achievement|学业成绩]]与[[Human Capital Theory|人力资本]]、[[Lifelong Learning|终身学习]]与经济繁荣直接挂钩）。
 > - **共享效度检验标准（Shared Notions of Validity）** 采用同一套评价何为“有效证据”的[[Epistemology|认识论]]准则（如排他性推崇大样本[[Random Sampling|随机抽样]]、[[Item Response Theory|项目反应理论]][[Item Analysis|试题分析]]与跨国量化[[Space of Equivalence|等值空间]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **共同政策介入企图（Common Policy Enterprise）** 致力于将专业学术见解系统转化为政府决策细则与跨国行动指南（Haas, 1992；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021]]）。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

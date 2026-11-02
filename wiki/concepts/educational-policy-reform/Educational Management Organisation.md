@@ -57,7 +57,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -134,10 +134,6 @@ updated: 2026-10-29
 >   OIA -.->|私法外壳阻断穿透| Corp
 >   OIA -.->|商业机密抗辩| Charity
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

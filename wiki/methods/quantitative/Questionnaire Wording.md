@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] Questionnaire Wording
@@ -81,8 +81,6 @@ updated: 2026-10-30
 > - **双重问题** "职业教育只面向低能力学生，但它应该向所有学生开放。"——如果一位受访者同意前半句但不同意后半句怎么办？或反之？一次只问一个问题。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 命题一　措辞的清晰度决定了数据的可解释性——歧义是根除不了的，只能最小化
 

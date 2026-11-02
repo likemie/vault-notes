@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Social Science as Legitimation Alibi
@@ -139,10 +139,6 @@ updated: 2026-10-29
 >     E --> F["阻断公众问责与道德反思<br/>(政策失误时充当 Alibi 免责借口)"]
 >     G["批判性/情境问题法研究<br/>(揭示深层矛盾/权变复杂)"] -.->|遭受资助冷落与排斥| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

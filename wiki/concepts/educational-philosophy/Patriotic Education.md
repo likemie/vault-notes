@@ -20,7 +20,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -76,8 +76,6 @@ updated: 2026-10-29
 > - **族群文化保留** 北美从族群熔炉转向保留文化与根源，提示共同国家身份不必要求所有群体放弃原有文化。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 196)]]
 
 ---
-
-## 围绕概念形成的命题
 
 以下命题分别讨论教育目的、实现机制和成立条件。
 

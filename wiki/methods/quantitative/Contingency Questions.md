@@ -37,7 +37,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 > [!def] Contingency Questions
@@ -79,8 +79,6 @@ updated: 2026-10-30
 > - 回答类别放在文本右侧可增加被回答的概率（Redline et al., 2002）。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 命题一　分支指令的视觉和位置设计本身就是影响数据质量的变量
 

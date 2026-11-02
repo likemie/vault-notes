@@ -56,7 +56,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     D --> E["旧规则资产被重新部署（Redeployment）"]
 >     E --> F["制度文本未改，但实质功能彻底重构"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

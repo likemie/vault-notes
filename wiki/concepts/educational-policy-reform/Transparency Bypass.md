@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -88,10 +88,6 @@ updated: 2026-10-29
 >     C --> D["智库与媒体自主测算编制排行榜"]
 >     D --> E["非官方市场化问责变相存活"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

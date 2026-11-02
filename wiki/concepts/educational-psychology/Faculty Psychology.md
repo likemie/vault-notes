@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,8 +126,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕官能心理学如何主导 19 世纪教育实操与跨国考察[[Questionnaire|问卷]]设计，学术史提炼出两大核心命题：
 

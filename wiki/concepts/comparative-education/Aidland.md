@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -77,10 +77,6 @@ updated: 2026-10-29
 >     A["本土制度创新<br>(蕴含阶级诉求与地方抗争)"] --> B["援助国度（Aidland）<br>(科层仪式与技术筛选)"]
 >     B --> C["普适政策工具包<br>(去政治化的最佳实践清单)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

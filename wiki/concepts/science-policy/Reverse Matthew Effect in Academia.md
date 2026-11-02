@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -80,8 +80,6 @@ updated: 2026-10-30
 > - **团队[[Bureaucracy|科层制]]的责任不对称** 在多学者合著团队中，资深学者利用[[Discourse|话语]]权将实验执行责任完全下推，形成地位高者免受冲击、从属研究人员承担无限责任的异化格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜学术不端撤稿引发对称于先发地位的剧烈信誉崩塌与跨期引文溢出惩罚
 > **探讨维度　地位越高跌落越重的反向声誉弹性** 分析学术界对顶尖学者违规行为的更强信任背叛感如何转化为更严厉的社会惩戒。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     D --> E["保罗·弗莱雷提问式教育与意识化觉醒"]
 >     D --> F["代表性知识反哺欧美主流教育与公共政策"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

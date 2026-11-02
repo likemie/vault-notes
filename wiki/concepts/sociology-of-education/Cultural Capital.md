@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 （文化资本）
@@ -135,10 +135,6 @@ updated: 2026-10-30
 >         INST --> CLASS
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

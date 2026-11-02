@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -83,8 +83,6 @@ updated: 2026-10-29
 > - **嵌入式课程同伴导师（Embedded Course Mentors）** 选拔优秀学长深入探究式课堂，在小组研讨中充当讨论引导员（Facilitator）。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜同伴导师通过低威胁情境与近同辈[[Scaffolding|认知脚手架]]赋能高阶探究
 > **探讨维度　心理安全与认知建构机制** 探讨近同辈互动如何降低认知焦虑并促进深度反思。

@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -150,10 +150,6 @@ updated: 2026-10-29
 >     Decision -->|剔除无效方案 / 优化常态教学| Practice["学校日常教学实践与财政节约"]
 >     Practice -.->|产生新研究需求| Brok
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

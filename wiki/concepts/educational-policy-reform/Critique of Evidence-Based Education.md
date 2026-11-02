@@ -116,7 +116,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -186,10 +186,6 @@ updated: 2026-10-29
 >     style Practice fill:#f0fdf4,stroke:#22c55e
 >     style Politics fill:#fef2f2,stroke:#ef4444
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,10 +126,6 @@ updated: 2026-10-29
 >     
 >     Act --> Deep["产出高复杂度科学解释与集体知识前沿推进"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 >     C --> D["捆绑跨国发展援助与贷款附带条件"]
 >     D --> E["受援国采购执行并接受审计追踪"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

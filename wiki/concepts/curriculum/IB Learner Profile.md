@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,8 +106,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜学习者特征是推动[[Concurrency of Learning|并发学习]]与跨学科理解的核心动力
 > **探讨维度　课程联动与迁移** 探讨宏观的育人目标如何落实为具体的学习行为，以及当一种特质（如反思）被全校推崇时，如何打破学科壁垒，促成连贯的学习体验。

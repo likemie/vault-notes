@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （[[Metacognition|元认知]]惰性）
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     E["缺乏显性反思脚手架"] --> C
 >     D --> F["深层迁移能力退化<br>与技术过度依赖"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

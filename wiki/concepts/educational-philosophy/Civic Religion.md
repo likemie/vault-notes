@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >   E2 --> R2["保障多元包容与平民生活安宁"]
 >   E3 --> R3["抵御虚无主义与国家认同空洞化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

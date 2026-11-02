@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -144,8 +144,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜导师制在认知干预中作为“催化剂”放大其他探究策略的效能
 > **探讨维度　认知与[[Scaffolding\|教学脚手架]]机制** 探讨导师[[Individualised Instruction|个别化指导]]在独立实施与复合教学情境中的效应差异。

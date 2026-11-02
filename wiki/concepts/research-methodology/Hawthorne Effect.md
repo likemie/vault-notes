@@ -32,7 +32,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 > [!def] Hawthorne Effect
@@ -68,8 +68,6 @@ updated: 2026-10-22
 > - **威胁类型** 同时威胁[[Internal Validity\|内部效度]]（混淆了干预本身的真实效果——干预效果中混合了被研究效应）和[[External Validity\|外部效度]]（在非研究情境中观察不到相同行为，削弱[[Ecological Validity\|生态效度]]）。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 被观察意识是威胁效度的独立来源
 

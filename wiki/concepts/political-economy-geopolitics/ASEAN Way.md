@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-10-29
 >     
 >     G & H --> I["构建东南亚高教共同空间，维系国家教育主权完整"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

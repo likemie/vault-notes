@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     C & D & E -- "办学成果与质量产出" --> F["独立同行评估与质量督察"]
 >     F -- "事后质量反馈回路" --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

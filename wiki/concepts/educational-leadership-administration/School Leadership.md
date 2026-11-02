@@ -77,7 +77,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] School Leadership
@@ -138,10 +138,6 @@ updated: 2026-10-29
 >     C --> D["课堂教学调适与微观创新试验<br>多源证据整合 · 渐进式改进"]
 >     D --> E["学生学业进步与学校长远卓越"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

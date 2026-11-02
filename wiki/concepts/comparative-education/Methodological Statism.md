@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -88,8 +88,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜坚持方法论国家主义会使学者陷入国家行政层面的“表象研究”，遮蔽了真正重塑教育版图的全球分散式“[[Governing at a Distance|远处治理]]”网络
 > **探讨维度　治理转向与去国家化** 这一命题探讨为何传统的国家政策[[Analytic Framework\|分析框架]]在解释全球化改革时失效。

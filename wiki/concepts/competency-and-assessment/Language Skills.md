@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （语言技能）
@@ -92,10 +92,6 @@ updated: 2026-10-29
 > - **口语交际与对话流利度（Oral Communication & Dialogue Fluency）** 在交际互动中即时提取词汇并进行通畅口头表达的能力，强调语义连贯与应对互动焦虑的心理韧性。
 > - **阅读理解与语篇分析（Reading Comprehension & [[Discourse Analysis]]）** [[Decodification\|解码]]书面文本、提取核心主旨并理解上下文隐含逻辑的能力。
 > - **听力感知与意义提取（Listening Perception & Semantic Extraction）** 辨识口语语音流、捕捉关键信息并建立语境关联的接受性能力。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

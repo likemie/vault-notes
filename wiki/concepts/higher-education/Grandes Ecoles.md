@@ -62,7 +62,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 > - **国家技术官僚主义与带薪公务职衔（State Technocracy & Civil Service Track）** 部分顶尖公立大学校（如综合理工学院、巴黎高师）学生在校期间享有国家准公务员身份并领取薪资津贴，毕业后直接进入最高国家公务员军政技术序列（Grands Corps de l'État），深度垄断公共政策制定权。
 > - **强职业定向与封闭的校友网络资本（Corporate Networks & Elite Closure）** 教学偏向[[Application Engineering|应用工程]]、金融管理与行政决策实务；历届校友遍布政商核心中枢，形成稳固互惠的跨行业校友网络，为毕业生构筑起极高的职业溢价与社会阶层护城河。
 > - **专门化小规模办学与科研外在化（Institutional Specialisation & Scientific Segregation）** 历史上大学校长期独立于综合大学之外，规模狭小且专注于特定学科领域；除少数顶尖师范类学校外，传统上缺乏完整的基础学科生态系统与大规模实验基地，导致高级精英人才培养与前沿科研相分离。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -124,8 +124,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜真实情境为思维提供认知锚点与意义载体
 > **探讨维度　认知机制** 探讨抽象概念如何通过具身与情境化的锚定转化为可操作的思考工具。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -87,10 +87,6 @@ updated: 2026-10-29
 >     C & D --> E["豁免专业治理问责"]
 >     E --> F["维持质量平庸与周期性折腾"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

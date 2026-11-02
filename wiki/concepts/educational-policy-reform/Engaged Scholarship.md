@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -116,10 +116,6 @@ updated: 2026-10-29
 >     S1["一线教师与政策决策者"] <--> Core
 >     S2["大学学者与专业研究者"] <--> Core
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

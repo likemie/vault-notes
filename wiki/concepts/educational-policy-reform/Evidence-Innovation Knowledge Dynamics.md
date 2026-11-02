@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     D --> E["5. 组织系统沉淀<br>& 跨校网络规模扩散"]
 >     E -.反哺全系统知识库.-> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

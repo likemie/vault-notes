@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     D --> E["压制公众常识质询<br>Silence Public Contestation"]
 >     D --> F["捍卫多边中介垄断<br>Defend IO Brokerage Monopoly"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

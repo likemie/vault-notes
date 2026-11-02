@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-29
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **动态转化潜能（SECI 转化动力）** 尽管难以完全编码，默会知识仍可通过观察模仿（社会化）和实践反思（外显化）与编码知识形成动态互生循环。
 > - **全球[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]动员中的隐性知识（Tacit Knowledge in Global Governance & [[Knowledge Power]]）** 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性[[Intellectual Capital|知识资本]]以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

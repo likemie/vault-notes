@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     D --> F
 >     E --> F
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -73,8 +73,6 @@ updated: 2026-10-29
 > - **连锁子问题结构（Interlocking Sub-problems）** 复杂任务被设计为包含 10–15 个环环相扣的推导步骤，促使学生经历假设制定、数学建模与可行性评估。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜宏观情境锚定能够显著降低复杂抽象推理的认知阻力
 > **探讨维度　[[Situative Perspective\|情境认知]]与探究驱动机制** 探讨锚点设计如何促进深度学习。

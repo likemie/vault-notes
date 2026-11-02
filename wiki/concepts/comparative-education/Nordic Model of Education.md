@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -71,10 +71,6 @@ updated: 2026-10-29
 > - **教师专业信任** 历史上面临较少的外部监督。北欧（特别是芬兰）体制传统上赋予教师高度的教学法决策权，依赖教师的社会责任感而非外部问责数据（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]）。
 > - **与 [[PISA]] 公平框架的天然契合** 北欧模式强调的[[Education for All\|全民教育]]（Education for All）和包容原则与 [[PISA]] 的公平框架高度一致。挪威案例中，这一文化背景因素使得该国无需对 PISA 结果做出激烈的政策调整——北欧模式本身已涵盖了 PISA 倡导的公平与包容目标（Baird et al., 2016，引自 [[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 > - **文化与语言的韧性抵抗** 北欧模式对 [[Global Education Reform Movement\|GERM]] 的某些要素具有文化-语言层面的免疫力。挪威语中缺乏 accountability 一词，加之国家对学校和市政自治的传统支持，使基于测试的强力问责制在北欧语境中难以获得[[Discourse|话语]]合法性。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

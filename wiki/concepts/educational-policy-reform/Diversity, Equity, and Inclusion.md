@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -90,10 +90,6 @@ updated: 2026-10-29
 >     D --> E["基金资助包容性计划考核"]
 >     D --> F["师资招聘多元性陈述"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

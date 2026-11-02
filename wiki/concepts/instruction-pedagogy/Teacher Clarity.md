@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-10-29
 >     C --> D["释放有效工作记忆容量"]
 >     D --> E["促进深层图式构建与学业成就"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-06-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -90,8 +90,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜再西方化通过构建“知识新帝国”，将新自由主义世界秩序以中立科学的名义制度化
 > **探讨维度　新殖民批判** 这一命题分析大数据评估如何作为日常帝国主义运作。

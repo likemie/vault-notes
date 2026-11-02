@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -136,10 +136,6 @@ updated: 2026-10-29
 >     J --> K["现实主义修正：必须以软件硬实力与 AI 威慑托底和平"]
 >     K -.->|现实支撑| F
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

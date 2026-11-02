@@ -56,7 +56,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     
 >     D --> E["教育实践旨趣<br>尊重师生主体性<br>赋权能动实践 · 推动民主协商改革"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

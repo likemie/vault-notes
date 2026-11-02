@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-29
 >     C --> D2["质性路径：核心问题与深度描述"]
 >     C --> D3["混合路径：多源数据整合与互证"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

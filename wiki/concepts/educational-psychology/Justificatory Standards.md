@@ -62,7 +62,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,8 +119,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜确证标准是预测信息甄别行为与解释探究分歧的关键微观黑盒
 > **探讨维度　确证标准对认知加工与争议解决的机制决定维度** 探讨为何抽象的[[Epistemological Beliefs\|认识论信念]]无法预测行为，揭示细粒度确证标准对证据采信与信息甄别的直接决定作用。

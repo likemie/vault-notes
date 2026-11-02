@@ -56,7 +56,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -113,10 +113,6 @@ updated: 2026-10-29
 >     
 >     E --> F["实践归宿<br>预测 · 控制 · 社会工程学优化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

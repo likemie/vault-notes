@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -84,10 +84,6 @@ updated: 2026-10-29
 >     B & D --> E(塑造国际心智)
 >     E -->|理性主义改善承诺| F[实现和平主义多边科学治理]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

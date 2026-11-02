@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     D --> E["集体组织化社会行动<br>（罢工/护地/维权实践）"]
 >     E --> F["重构激进民主与公共善"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

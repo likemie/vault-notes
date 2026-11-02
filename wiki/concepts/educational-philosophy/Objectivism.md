@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-29
 >     D --> E["技术理性与数字治理"]
 >     E --> F["超国家政策中的客观主义品牌<br>(技术事实置换政治争论)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

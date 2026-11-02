@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -132,8 +132,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜高等教育国际化驱动理性经历从[[Developmentalism|发展主义]]、市场化到地缘安全化的历史嬗变
 > **探讨维度　国际化驱动理性的演变脉络** 该类命题聚焦驱动高等教育跨国行动的底层逻辑演变，揭示全球政治经济结构与大国博弈如何重塑国际化的政策目标与办学实践。

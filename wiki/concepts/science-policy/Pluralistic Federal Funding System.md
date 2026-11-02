@@ -55,7 +55,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -143,8 +143,6 @@ updated: 2026-10-30
 >   2. **跨部门预算协同成本高昂** 缺乏绝对中央指挥部，各部委存在一定程度的重复资助与部门壁垒，高度依赖白宫 [[Office of Science and Technology Policy|OSTP]] 与 OMB 的顶层磋商协调。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 1. 多元联邦资助体系是美国大学维系学术多样性与抗风险韧性的关键制度屏障
 

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-10-29
 >     E["多元社会主体协同参与"] --> D
 >     D --> F["重大基建与经贸走廊的社会正当性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

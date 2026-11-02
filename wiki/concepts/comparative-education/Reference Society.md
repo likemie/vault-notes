@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -132,10 +132,6 @@ updated: 2026-10-29
 >     H --> I["压制本土反对 / 突破决策僵局"]
 >     J["被参照国主动修辞强化"] --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

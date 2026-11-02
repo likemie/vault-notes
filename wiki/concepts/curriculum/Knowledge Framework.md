@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,8 +110,6 @@ updated: 2026-10-29
 > 这些关系由知识框架五个组成部分推导，用于避免把各维度当作互不相干的检查项目。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜共同分析维度使不同[[Areas of Knowledge|知识领域]]能够接受结构化比较
 > **探讨维度　比较结构** 跨领域比较需要共同问题，也需要保留各领域的对象、方法和历史差异。知识框架以相同维度组织材料，使比较能够围绕[[Knowledge Production\|知识生产]]机制展开。

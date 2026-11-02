@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -158,8 +158,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜硬实力的伤害潜能构成了国际危机外交与战略博弈的底层筹码
 > **探讨维度　强制外交与博弈机制** 探讨硬实力在缺乏中央权威的国际无政府体系中如何作为底层支点决定谈判结果与安全均衡。

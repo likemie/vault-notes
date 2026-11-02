@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -111,10 +111,6 @@ updated: 2026-10-29
 >     D -- "统计检验" --> E["因果效应量 / 假设验证"]
 >     E -. "检验反馈" .-> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

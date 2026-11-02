@@ -82,7 +82,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -148,10 +148,6 @@ updated: 2026-10-29
 >     Disciplina -->|"技术官僚压制 / 去专业化"| Tension
 >     Doctrina -->|"专业判断捍卫 / 主体解放"| Tension
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

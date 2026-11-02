@@ -9,7 +9,7 @@ aliases:
 summary: "在数据采集与统计推断中仅纳入经历筛选机制存留下来的成功样本，系统性忽略被淘汰或失败的样本，导致因果推断失真与反事实推断倒错的选择性偏倚"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,14 +36,16 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Abraham Wald]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -101,6 +103,9 @@ updated: 2026-10-31
 > [!claim] [[Abraham Wald|Wald (1943)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]]
 > **返航弹孔与反向装甲防护推论** 沃尔德在二战统计分析中指出，返航轰炸机上密集分布的弹孔恰恰证明机翼和机身遭击中后战机仍有能力返航，属于非致命损伤；相反，返航飞机上完全没有弹孔的发动机等关键结构，才是未返航飞机遭遇致命摧毁的部位。如果在常规观察中忽略坠毁样本，军方就会做出加强机翼装甲的错误决策。这一经典推论表明，若不获取失败个体的完整记录，仅凭成功样本展开分析必然得出截然相反的虚假结论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 242–243)]]
 
+> [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
+> **已公开文献与专利数据库的幸存者偏倚警示** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，现有科学学实证分析高度依赖已发表学术论著、获批专利以及成功立项资助等公开数据库，未能涵盖被拒稿件、失败实验记录以及非正式学术交流；这种单一依赖成功存留产出的数据结构，使得学界总结的科研合作与生产力演进图景内生带有幸存者偏差，呼吁整合全流程未见数据以校准对真实科学探索机制的认识。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
+
 ---
 
 > [!concept-proposition] 命题二｜早期筛选挫折具有淘汰流失与坚守者质量淬炼的双向分化机制
@@ -114,7 +119,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **样本反转命题** | 仅依赖存活个体数据会导致因果推断颠倒，将非致命表征误作成功动因 | 统计抽样、战时运筹决策、历史经验反思 | [[Abraham Wald\|Wald (1943)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] |
+> | **样本反转命题** | 仅依赖存活个体数据会导致因果推断颠倒，将非致命表征误作成功动因 | 统计抽样、战时运筹决策、历史经验反思 | [[Abraham Wald\|Wald (1943)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]]; [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **挫折淬炼命题** | 早期竞争淘汰导致弱者流失，但促成坚守个体长期产出与韧性提升 | 科研资助评估、学术职业生涯追踪、创新团队选拔 | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] |
 
 ---
@@ -123,6 +128,7 @@ updated: 2026-10-31
 > - **1943 — 概念机理确立** 统计学家[[Abraham Wald|亚伯拉罕·沃尔德]]在哥伦比亚大学统计研究小组中分析盟军战机弹痕分布，提出加强无弹孔部位防护的逆向推理，形式化奠定幸存者偏差的分析基础。
 > - **1970s–1980s — 金融计量与生存分析应用** 经济学界系统揭示共同基金业绩排行中忽略已破产清算基金所造成的收益率虚高，确立排除幸存者偏差的金融计量标准。
 > - **2010s 至今 — 科学学打通全流程底表** 科学学通过获取包含被拒申请与未公开专利的官方全口径过程数据库，将幸存者偏差纠偏引入科技创新政策与学术职业规律研究中。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 241–245)]]
+> - **2018 — 科学学反思已发表文献与专利的幸存者偏倚** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）在《科学》发文指出，现有科学计量分析主要依赖已公开文献与授权专利，系统遗漏了被拒稿件、失败实验与非正式学术交流，导致目前所描绘的科研图景带有内生幸存者偏差，强调需关注全流程失败与淘汰数据。
 
 ---
 
@@ -130,7 +136,7 @@ updated: 2026-10-31
 > - **把成功者个案特质奉为普适成功学** 仅提炼诺贝尔奖得主或商业巨头的个人特征，忽视大量具备相同特质却在残酷竞争中落败退场的同行，制造虚假的确定性归因。
 > - **掩盖科技体制沉重筛选淘汰代价** 仅以功成名就的资深科学家产出评价资助体系，忽视被拒资助导致的青年人才大量流失与智力资源损耗。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 幸存者偏差校正高度依赖能否有效获取被淘汰群体的追踪数据；当未存活样本的原始痕迹被彻底销毁或制度性隐匿时，基于统计模型的事后反事实补齐存在模型依存风险。
 
 ---
@@ -146,5 +152,6 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 指出依赖已发表文献和专利数据库会引入幸存者偏差，呼吁关注未发表手稿、被拒资助与失败实验以完整还原科研探索全貌（p. 5）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 援引[[Abraham Wald|沃尔德]]战机装甲决策阐释幸存者偏差的统计学机理，指出科学学长期聚焦成功成果的局限，论证利用全量专利与资助数据重构科研失败图景的学术价值（pp. 241–245）。

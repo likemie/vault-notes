@@ -85,7 +85,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] STEM Education
@@ -138,8 +138,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕 STEM 课堂教学法[[Paradigm|范式]]、各子学科[[Epistemology|认识论]][[Heterogeneity|异质性]]及技术增强整合机制，学术界形成了三大核心理论命题：
 

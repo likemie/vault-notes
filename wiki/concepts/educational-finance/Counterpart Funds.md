@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -92,10 +92,6 @@ updated: 2026-10-29
 >     D2 --> E["多边银行自动触发冻结条款停止放款"]
 >     E --> F["贷款周期拉长至 10-15 年 / 项目严重拖延"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

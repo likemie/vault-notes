@@ -21,7 +21,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Social Episodes
@@ -45,8 +45,6 @@ updated: 2026-10-29
 > | 边界来源 | 参与者自身的意义体验 | 外部可观察的时间节点 | 外部分析者划定的条件集合 |
 > | 核心焦点 | 行动序列的意义整体性 | 发生的事实和结果 | 行为的条件和语境 |
 > | 分析传统 | [[Ethogenic Approach\|人因研究]]、[[Interpretive Paradigm\|诠释范式]] | 历史研究、事件研究 | 社会心理学、情境分析 |
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜社会片段是研究社会行为的基本自然单位，不能还原为个体行为的简单加总
 > **探讨维度　[[Unit of Analysis\|分析单位]]的不可还原性** 这类命题围绕社会片段的整体性展开：片段作为分析单位具有自身特性，不能通过分解为孤立行为来理解。

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-29
 >   C --> E["第二轨：母语(华语)作为道德与文化锚点<br>(防范西方虚浮风尚，塑造国家凝聚力)"]
 >   D & E --> F["修剪语言热带雨林为经济作物花园 (Tan Dan Feng)<br>(塑造国家文化人格与实现千年生存)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

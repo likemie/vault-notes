@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     F --> G["边缘规则取代中心：旧体制空心化垮塌"]
 >     D & G --> H["实现制度层叠 (Layering)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

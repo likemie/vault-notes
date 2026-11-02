@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     C --> D["解构为操作化研究问题句 (Research Questions)"]
 >     D --> E["量化变量检验 / 质性现象探究 / 混合方法验证"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

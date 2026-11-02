@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     C --> D["排他性问题定义权确立<br/>(将客观落差定性为国家危机)"]
 >     D --> E["交付调解式治理模式<br/>(输出成套政策处方)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

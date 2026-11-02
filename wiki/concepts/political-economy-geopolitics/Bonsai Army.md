@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >   E --> F1["地缘威权对手军事冒险"]
 >   E --> F2["软件突围：利用自主无人蜂群与算法代偿战力短板"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

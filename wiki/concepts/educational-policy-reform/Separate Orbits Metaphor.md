@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     Intermediary["知识中介与边界跨越平台"] -.->|转译与协商| ResearchOrbit
 >     Intermediary -.->|适时输入与反馈| PolicyOrbit
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

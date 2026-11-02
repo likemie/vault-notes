@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -129,10 +129,6 @@ updated: 2026-10-29
 >     D --> G["打破证据等级制垄断<br>(Contextual & Methodological Fit)"]
 >     E & F & G --> H["高质量研究产出与高质量证据使用<br>(Quality Research & Quality Use)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

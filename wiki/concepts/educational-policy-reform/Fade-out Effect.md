@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -111,10 +111,6 @@ updated: 2026-10-29
 > - **规模化级联培训稀释（Cascade Dilution in Scale-up）** 当方案从 20 所学校的[[Efficacy Trial\|效力试验]]迅速扩张至 200 所学校的[[Effectiveness Trial\|实效试验]]时，原作者无法亲自授课，转由多层中介培训师转导。信息逐级衰减导致课堂[[Implementation Fidelity\|实施保真度]]崩溃，引发大规模效果断崖（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 > - **[[Counterfactual\|反事实]]基线常态演进（Counterfactual Creep）** 随着全行业教研水准提升，对照组学校在日常教学（BAU）中自发采纳了类似的有益教学实践，导致干预措施相对于常规实践的比较优势荡然无存。
 - **长周期实施浓度稀释与平台期效应（Dosage Dilution & Plateau Effect）** 认知干预的生长轨迹常呈非线性，学生在短期高强度教学中快速吸收核心策略并达到平台期；若干预时间拖延过长（如超过一学期），单位时间教学浓度被严重稀释，加之对照组在常态教学中逐渐自然成熟追赶，导致长周期干预往往表现出相对优势消失甚至不显著的衰退假象。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 490, 493)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

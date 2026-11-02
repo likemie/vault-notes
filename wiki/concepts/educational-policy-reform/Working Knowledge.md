@@ -44,7 +44,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     C --> H["实践运作知识<br>(Working Knowledge)"]
 >     H --> I["政策决策与常规治理"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

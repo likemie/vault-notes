@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -79,10 +79,6 @@ updated: 2026-10-30
 >   C --> D["草拟工作标题 (10-12 词清晰路标)"]
 >   D --> E["明确研究问题与方案设计"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,8 +119,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Epistemology|认识论]]目标调解[[Epistemological Beliefs|认识论信念]]向[[Learning Strategies|学习策略]]转化的因果路径
 > **探讨维度　目标对信念—行为转化的中介与调控维度** 解释为何持有相同[[Epistemological Beliefs\|认识论信念]]的学习者在实际任务中展现出完全相悖的探究行为，确立目标对认知策略的决定性。

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -142,10 +142,6 @@ updated: 2026-10-29
 >     M3 <-->|长期协同| U
 >     P -.直接隔阂 (语言不通/冷落壁垒).-> U
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

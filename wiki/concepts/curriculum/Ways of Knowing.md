@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -145,8 +145,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕认知方式在个体认知建构、学科[[Heterogeneity|异质性]]及课程评估中的功能与表现，学术界确立了三大核心理论命题：
 

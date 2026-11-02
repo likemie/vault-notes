@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -176,10 +176,6 @@ updated: 2026-10-29
 >     D --> E["顾问统治与组织去技能化 (De-skilling)"]
 >     E --> F["陷入微观合规的'青蛙视角'与被动支持模式"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

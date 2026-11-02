@@ -10,7 +10,7 @@ aliases:
 summary: "由 Dashun Wang、Chaoming Song 与 Albert-László Barabási (2013) 提出的单篇文献引文动力学最小模型；系统整合文献指数增长、优先连接、内生适应度与对数正态衰老，推导出累积被引轨迹的封闭解析解与跨学科普适主曲线，证明成果长程终极影响仅由相对适应度支配（Wang & Barabási, 2021）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 15
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -36,11 +36,13 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
   - "[[Chaoming Song]]"
+  - "[[Santo Fortunato]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -94,6 +96,7 @@ updated: 2026-11-02
 > [!dev-timeline] 理论版本与贡献
 > - **2013 — 基础 WSB 最小引文动力学模型确立** 王大顺、宋朝鸣与巴拉巴西在 Science 发文，形式化整合四大机制并推导出三参数单篇引文轨迹解析解，确立跨学科普适主曲线坍缩。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]
 > - **2013 — 睡美人与双峰激活轨迹拓展** 将对数正态存活概率拓展为双峰混合分布，成功拟合加菲尔德引文索引论著与 BCS 超导理论等非典型延迟认可与二次爆发文献。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> - **2018 — 《科学》全景综述整合静态分布与动态生长（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等人在《科学》发文系统梳理科学学基准模型，将 WSB 微观引文动力学方程与宏观引文分布普适性相整合，展示经微观参数重标度后跨学科成果引文时序轨迹精确重叠于标准对数正态主曲线，为成果长效影响力预测确立理论基准。
 > - **2021 — 科学学实证综合与终极影响定理确立** 王大顺与巴拉巴西在《科学学》中系统集成 WSB 模型，追踪 Cell、PNAS 与 PRB 跨越二十年的实证演化，确立成果长程价值严格由适应度决定、期刊品牌溢价必然衰减的物理极限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 214–217)]]
 > - **2023 — 大规模工程化解算与长程预测稳健性复现** 林泽、尹亚楠、刘鲁与王大顺在构建 SciSciNet 时，研发分布式非线性拟合算法，对 36,802 篇物理学长周期成果实施 WSB 模型参数全量解算；实证验证了经验引文轨迹向标准正态累积分布主曲线的普适坍缩，证实基于 15 年历史引文训练期对终身引文的长程预测误差（MAPE）严格保持在 0.15 以下。[[Argument_Lin_2023_SciData|(Lin et al., 2023, Figure 5)]]
 
@@ -120,6 +123,9 @@ updated: 2026-11-02
 > **解释** 尽管不同学科在发表习惯、文献半衰期与团队合作规模上存在显著差异，一旦将单篇文献的自然时间与被引计数按其内生参数进行重标度（$\tilde{t}_i = \frac{\ln t - \mu_i}{\sigma_i}$ 与 $\tilde{c}_i = \frac{\ln(1 + c_i(t)/m)}{\lambda_i}$），不同学科、不同时期的数万篇文献均在统计上严格重合于标准正态累积分布曲线 $\tilde{c} = \Phi(\tilde{t})$，证实微观引用行为受跨领域普适的动力学法则支配。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 212–214)]]
 >
 > **应用实例** 将《物理评论》百余年论著与自然科学综合期刊成果按其各自拟合参数代入无量纲方程，原本分散交错的数千条经验曲线在重标度后完全坍缩至同一条标准 $\Phi(x)$ 主曲线上。
+
+> [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
+> **微观动力学生长参数与长期引文走势预测** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，单篇文献的引文轨迹是由适合度参数 $\lambda$、紧迫度参数 $\mu$ 和寿命衰减参数 $\sigma$ 协同决定的确定性动力学过程；WSB 模型克服了传统短期指标对学术潜力的系统性误判，证明通过早期获引数据解算微观参数能够可靠预测成果的长程终身学术影响力。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 
 > [!theory-proposition] 命题三｜成果长程终极学术影响由内生适应度唯一决定而与载文期刊声誉无关
 > **解释** 当考察时间跨度趋于无穷大（$t \to \infty$）时，标准正态累积分布函数趋近于极限值 $\Phi(\infty) = 1$，文献在生命周期内的终极累积被引表达为 $c_i^\infty = m (e^{\lambda_i} - 1)$。该数学推导揭示出：决定文献长程学术影响力的唯一支配变量是相对适应度 $\lambda_i$，紧迫性 $\mu_i$ 与寿命 $\sigma_i$ 仅调节获引的短期速率与波形。顶刊带来的品牌红利与初始曝光仅在发表前数年起效，长程被引均吻合于由适应度预测的理论值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 214–217)]]
@@ -169,6 +175,7 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》综述中系统评述 WSB 引文动力学模型，指出其整合优先连接、知识老化与内在适合度，能够精确预测成果全生命周期引文累积轨迹（p. 4）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 中规模化预解算数千万篇成果的 WSB 模型参数（$\mu, \sigma, c_\infty$），基于 3.68 万篇物理学论著稳健复现了引文动力学主曲线坍缩与长程低误差预测（MAPE < 0.15）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 系统推导 WSB 最小引文模型解析方程，确立跨学科普适曲线坍缩，并实证揭示终极影响由相对适应度决定的物理极限。

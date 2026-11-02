@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 # Indexicality
@@ -121,10 +121,6 @@ updated: 2026-10-29
 >     D --> E["言语与行动的本土意义理解"]
 >     D -->|形式化行为编码 (如 FIAC)| F["意义剥离与误读"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

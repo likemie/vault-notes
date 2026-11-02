@@ -61,7 +61,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -114,10 +114,6 @@ updated: 2026-10-29
 >     G --> H["统计效应量人为断崖式衰减 (d ≈ 0.00)"]
 >     H --> I["错误得出干预无效的虚假结论"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

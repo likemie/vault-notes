@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （习得性无助）
@@ -109,10 +109,6 @@ updated: 2026-10-29
 > - **迅速放弃努力（Rapid Abandonment of Effort）** 面对需要持续推理的复杂任务时，在数分钟甚至数秒内迅速停止策略尝试。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, p. 310)]]
 > - **消极评价泛化（Generalization of Failure）** 将在特定学科或单一题型上的挫折经验扩散至整个学业自我概念中，形成弥散性的无能感。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 59)]]
 > - **自加[[Reliability|信度]]赤字与技术依附（Self-Imposed Credibility Deficit & Technological Dependency）** 习惯将高阶构思与批判性反思完全交由算法代劳，视大模型为无所不能的权威，面对脱机独立思考情境时产生深层认知瘫痪，主动退却求知主体地位。[[Argument_Smith_2026_SPE|(Smith, 2026, p. 8)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

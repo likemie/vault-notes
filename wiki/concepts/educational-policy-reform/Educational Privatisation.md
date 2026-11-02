@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -132,10 +132,6 @@ updated: 2026-10-29
 >     F --> G
 >     G -.->|"合法化进一步削减公共教育开支"| A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

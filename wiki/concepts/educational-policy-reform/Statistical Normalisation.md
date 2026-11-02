@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     Erase --> Inequity["弱势群体边缘化加剧与教育不平等再生产"]
 >     Deskilling --> Inequity
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

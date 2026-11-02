@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -70,8 +70,6 @@ updated: 2026-10-29
 > - **缓解路径** 多方法[[Triangulation\|三角验证]]、引入绩效或行为指标、错开测量时点，以及统计控制（如潜在方法因子）。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 9)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜当两个[[Construct|构念]]都用自陈测量时，共同方法变异会放大观察相关
 > **探讨维度　测量类型与观察相关的依赖** 方法学与心理测量研究关注[[Construct\|构念]]间观察相关在多大程度上随测量方式（主观自陈 vs 客观任务表现）而变化，以及这种变化是否指向共享的方法方差。

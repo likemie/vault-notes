@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     E --> F["测评工具单向扩张"]
 >     F --> G["制度锁定与阻断退出"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

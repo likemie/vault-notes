@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     C --> E["重塑全球知识治理格局与网络常态化"]
 >     D --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

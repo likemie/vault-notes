@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -91,8 +91,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜技术乌托邦主义在解构国家认同后必然被狭隘的消费主义市场狂热所收编
 > **探讨维度　价值真空与资本异化** 探讨乌托邦理想在缺乏实质共同体信念与[[Public Value|公共价值]]引导时，如何迅速退化为快消资本工具。

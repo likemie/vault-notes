@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -91,10 +91,6 @@ updated: 2026-10-29
 >     C --> E["网络中心性常态化确立<br>（摆脱核心-外围依附）"]
 >     D --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

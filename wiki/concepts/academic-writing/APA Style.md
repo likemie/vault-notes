@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] APA Style
@@ -167,10 +167,6 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 > | **研究结果（Results）** | 过去时（Past） | 报告已完成的数据分析结果与效应量统计（如 `The intervention produced a significant effect...`） |
 > | **讨论与结论（Discussion）** | 现在时（Present） | 阐明研究发现的当前理论意义、规律性结论与未来启示（如 `These results indicate that...`） |
 > | **语态选择（Voice）** | 主动语态优先（Active Voice） | 强化行动主体与研究责任（如 `We conducted the interviews` 优于 `The interviews were conducted`） |
-
----
-
-## 围绕概念形成的命题
 
 ---
 

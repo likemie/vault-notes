@@ -78,7 +78,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -137,10 +137,6 @@ updated: 2026-10-29
 >     D --> F["释放工作记忆投入深层推演与批判反思<br>(CT ↑, Problem-Solving ↑, 主体性自持)"]
 >     E --> G["剥离证据过滤与认知挣扎，诱发心智惰性<br>(CT ↓, 技能依赖 ↑, 算法幻觉盲从)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

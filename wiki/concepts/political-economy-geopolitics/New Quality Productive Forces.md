@@ -24,7 +24,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -72,10 +72,6 @@ updated: 2026-10-29
 >     C["复合技术技能人才培育"] --> D
 >     D --> E["全要素生产率大幅提升与新质生产力质态"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

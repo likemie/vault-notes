@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -68,8 +68,6 @@ updated: 2026-10-29
 > - **逆向激励机制的固化** 一旦以“防范冒犯与冲突”为由压制言论获益，将进一步刺激各类群体通过宣称“被冒犯”来实施政治否决。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜起哄者否决的合法化将摧毁公共领域的实质论辩并激励群体极端化
 > **探讨维度　宪法权利与公共交往机制** 探讨行政当局若顺从反对者的抗议威胁，将如何系统性扭曲言论市场的竞争规则，并在制度上奖励极化抗争策略。

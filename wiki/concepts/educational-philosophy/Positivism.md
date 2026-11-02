@@ -171,7 +171,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -269,8 +269,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕实证主义的核心预设、历史变异及其[[Epistemology|认识论]]局限，学术界形成了四组关键理论命题。
 

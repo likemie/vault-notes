@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -144,10 +144,6 @@ updated: 2026-10-29
 > - **依托[[Joint Practice Development\|联合实践开发]]机制（JPD & [[Lesson Study\|课例研究]]）** 探究循环中的方案试验与微调，高度依赖联合实践发展（Joint Practice Development, JPD）及[[Lesson Study\|课例研究]]等课堂情境化协作载体，避免研讨脱离真实教学互动。
 > - **探究性思维习惯（Enquiry Habit of Mind）** [[School Leadership\|学校领导]]者与骨干教师需持续示范探究心态：不急于下定论、主动审视理所当然的前提假设、多元搜寻证据，防范[[Empiricism\|经验主义]]惯性。
 > - **基于行动理论的情境化转译（Theories of Action）** 拒绝将外部研究结论机械剪贴（cut-and-paste）到校本课堂，必须透彻解析干预方案在原语境下起效的因果链条与依赖条件，并在本土探究循环中进行适配。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

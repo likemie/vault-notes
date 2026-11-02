@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     E --> F["形式法律冻结维持 + 内部套利持续扩散"]
 >     F --> G["驱动制度漂移与妥协性稳健锁定"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

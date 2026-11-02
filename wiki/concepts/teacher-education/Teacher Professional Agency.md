@@ -80,7 +80,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -147,10 +147,6 @@ updated: 2026-10-30
 >     D --> G["激发课堂创新活力<br>& 保障紧缺师资留任"]
 >     D --> H["抵制新泰勒制清单规训<br>& 捍卫教育育人人本底色"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

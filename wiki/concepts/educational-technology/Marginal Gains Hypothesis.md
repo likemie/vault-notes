@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （边际效益假说）
@@ -106,10 +106,6 @@ updated: 2026-10-29
 >     C1 -.->|"假说核心：相对增量呈现反比"| D["边际效益假说<br>(Marginal Gains Hypothesis)"]
 >     C2 -.-> D
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

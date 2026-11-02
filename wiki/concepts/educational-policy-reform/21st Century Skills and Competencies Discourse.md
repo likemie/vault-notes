@@ -108,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,10 +153,6 @@ updated: 2026-10-29
 > | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与[[EU\|欧盟]]理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
 > | **皇家学会交叉素养蓝图 (2026)** | [[The Royal Society\|英国皇家学会]] | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
 > | **白宫 OSTP 制造公地与手艺素养 (2026)** | 白宫科技政策办公室 | 现场排障（Troubleshooting）、默会[[Process Knowledge\|过程知识]]、车间动手手艺（Craftsmanship）、人机协同验证 | 批判脱离实体制造的抽象技能空心化，重塑智能时代手艺与排障基础（pp. 51–53, 58） |
-
----
-
-## 围绕概念形成的命题
 
 ---
 

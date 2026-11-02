@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-10-29
 >     G["防范系统威胁<br/>生态谬误 · 回应偏差 · 错误文化归因"] -.-> E
 >     F --> H["具备跨文化有效性的实证推论"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -124,7 +124,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -224,10 +224,6 @@ updated: 2026-10-29
 >     E --> F["情境化审议与教学调适<br>Thoughtful Action"]
 >     F --> G["高质量实践成效<br>High-Quality Outcomes"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

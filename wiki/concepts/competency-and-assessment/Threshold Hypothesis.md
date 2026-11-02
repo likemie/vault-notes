@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -92,8 +92,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜基础智力构成[[Creativity|创造力]]的必要非[[Necessary and Sufficient Conditions|充分条件]]
 > **探讨维度　认知必要性与非充分性** 探讨认知加工能力如何为概念搜索与远距离联想提供必要的信息检索底座，但无法单独保证[[Creativity\|创造性]]构想的诞生。

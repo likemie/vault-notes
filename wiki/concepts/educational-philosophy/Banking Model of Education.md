@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -141,8 +141,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 关于储蓄式教育的学术推进主要包含经典解放[[Epistemology|认识论]]批判与当代数智技术批判两大命题脉络。
 

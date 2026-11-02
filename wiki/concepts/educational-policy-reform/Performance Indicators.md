@@ -113,7 +113,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -192,10 +192,6 @@ updated: 2026-10-29
 >     I --> J["激发政治叙事空间"]
 >     J --> K["推动国家政策趋同与远处调控"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

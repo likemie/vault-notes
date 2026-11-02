@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 > - **劣构真实[[Problem Solving|问题解决]]** 面对信息不完整、存在利益冲突或未定义明确路径的复杂现实情境，提取关键事实并拟定可行方案的决策能力。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 200)]]
 > - **跨情境沟通表达** 将分析研判与政策建议以结构清晰、逻辑严密的书面语言向专业或非专业受众传达的综合表意素养。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 24–25)]]
 > - **跨领域认知迁移度** 将在某一领域习得的[[Higher-Order Thinking Skills|高阶思维]]框架与策略迁移应用至未知社会情境中的通用适应机制。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 202)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

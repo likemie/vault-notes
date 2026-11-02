@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     C --> D["持续的情感满足与反思内化<br>(克服智力挫折 / 体验理解顿悟)"]
 >     D --> E["<b>沉淀为稳定的理智美德 (Intellectual Virtues)</b><br>• 思想开放 (Open-mindedness)<br>• 创造力 (Creativity)<br>• 理智谦逊 (Intellectual Humility)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

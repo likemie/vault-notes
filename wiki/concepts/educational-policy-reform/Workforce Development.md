@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -124,10 +124,6 @@ updated: 2026-10-29
 >     D1 & D2 & D3 & D4 --> E["多层次高技能工程与制造劳动力"]
 >     E --> F["保障万亿美元制造落地与消除技能短缺赤字"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

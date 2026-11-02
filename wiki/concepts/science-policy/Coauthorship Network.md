@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-31
 >   A -->|高 p 低 q| F
 >   A -->|高 q 熟人封闭| H["割裂的小圈子回音室"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

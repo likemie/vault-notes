@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,8 +94,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜旅途政策并非简单的制度复制，而是本土政治力量借用全球[[Discourse|话语]]进行“二次创作”的转译过程
 > **探讨维度　政策转译与本土博弈** 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。

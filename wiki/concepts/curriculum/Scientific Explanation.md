@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-29
 >     C & D --> E["简单事实 / 描述 ➔ 简单因果解释 ➔ 跨系统详细因果机制解释"]
 >     E --> F["稳固、严谨且可检验的学科解释模型"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

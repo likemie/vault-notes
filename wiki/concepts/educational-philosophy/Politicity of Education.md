@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,8 +109,6 @@ updated: 2026-10-29
 > 执政同盟确立特定国家理论 ➔ 决定何种教育议题被界定为“危机问题” ➔ 筛选合法[[Official Knowledge|官方知识]]与评估指标 ➔ 借助国家机器与财政拨款进行资源倾斜 ➔ 在微观学校[[Champ|场域]]遭遇被支配阶层的反抗与争夺。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Official Knowledge|官方知识]]与课程筛选天然内嵌统治权力意志，教育绝非技术中立的技能分配器
 > **探讨维度　知识选择的[[Epistemology|认识论]]权力机制** 揭示国家通过审定教学大纲与教科书，将支配集团的[[Cultural Capital|文化资本]]法典化为普适知识，剥离大众阶级生存经验。

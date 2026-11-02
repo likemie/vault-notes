@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -134,10 +134,6 @@ updated: 2026-10-29
 >     C -->|3. 执行预注册分析 (SAP)| E["客观因果效应分析"]
 >     E -->|4. 无论正负全网公开报告| F["国家证据库与公众决策"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

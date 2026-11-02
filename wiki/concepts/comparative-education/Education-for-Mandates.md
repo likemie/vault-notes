@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-10-29
 >   D --> E["研发量化测评与政策中介工具<br>（PISA / SABER / 国际指标）"]
 >   E --> F["合法化跨界规制并主导全球教育议程"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

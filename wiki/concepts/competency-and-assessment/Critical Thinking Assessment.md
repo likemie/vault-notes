@@ -96,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -160,8 +160,6 @@ updated: 2026-10-29
 > （综合 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 24–26)]] 分析归纳）
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Multiple-Choice Questions|客观选择题]]测验存在[[Construct|构念]]代表性不足，难以测度主动生成性高阶论证
 > **探讨维度　题型格式与认知效度** 探讨标准化测试中选项辨析与真实[[Higher-Order Thinking Skills\|高阶思维]]加工之间的认知鸿沟。

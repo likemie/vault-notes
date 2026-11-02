@@ -50,7 +50,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （高利害测验 / 高风险测验）
@@ -94,10 +94,6 @@ updated: 2026-10-29
 > - **7. 预先泄题（Pre-Test Disclosure）** 教师提前向学生披露即将考查的具体题目范围与关键得分点。（伦理违规）
 > - **8. 无辅导真题演练（Identical Test Practice without [[Feedback]]）** 提前向学生分发与正式考试完全相同的试卷进行自我作答。（严重舞弊）
 > - **9. 带辅导真题操练（Identical Test Practice with Coaching）** 教师提前拿到真题并带领学生逐题练习并背诵样板答案。（彻底造假）
-
----
-
-## 围绕概念形成的命题
 
 ---
 

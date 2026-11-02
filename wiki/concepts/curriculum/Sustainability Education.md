@@ -32,7 +32,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -51,10 +51,6 @@ updated: 2026-10-29
 > - **全校协同模式（Whole-School Approach）** 将校园空间环境运营（节能减排、生态校园）、跨学科课程探究与社区公共行动有机统筹，营造沉浸式育人生态。
 > - **跨学科系统思维（Multidisciplinary Systems Thinking）** 打破物理、化学、生物与地理分科壁垒，理解碳循环、能源流动与全球气候模型的非线性反馈机制。
 > - **绿色技能储备（Green Skills Pipeline）** 传授可再生能源技术原理、循环经济设计、生态监测等未来绿色产业转型亟需的核心技能。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

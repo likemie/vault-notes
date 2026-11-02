@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     E --> F["国家资助实验校实践落地"]
 >     F --> G["双重历史结局<br>（早期推进教育民主化 vs 后期遭遇认知资本主义吸纳）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

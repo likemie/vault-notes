@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,8 +95,6 @@ updated: 2026-10-29
 > **数学直觉** 哪怕[[Meta-analysis\|元分析]]纳入了数万名被试使得 $\operatorname{SE}(\hat{\mu}) \approx 0$（[[Confidence Interval\|置信区间]]极窄），如果不同学校之间的真实效果差异很大（$\tau = 0.20$），预测区间的半宽依然至少为 $1.96 \times 0.20 = 0.392$，直观反映了真实世界中的情境变异。
 
 ---
-
-## 围绕概念形成的命题
 
 ### 命题一　预测区间是评估元分析结论生态有效性与可推广性的核心安全边界
 

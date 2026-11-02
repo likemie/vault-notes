@@ -14,7 +14,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-29
+updated: 2026-11-02
 tags:
   - region/china
   - theme/national-identity
@@ -103,10 +103,6 @@ related_arguments:
 >     C --> D["领土国家观与统一叙事"]
 >     D --> E["铸牢中华民族共同体意识"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

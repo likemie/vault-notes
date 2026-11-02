@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -86,10 +86,6 @@ updated: 2026-10-31
 >     D --> E["8 倍发文速率优势"]
 >     D --> F["14 倍净引文增益与代表作巅峰"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     E["国际高表现案例借用"] --> D
 >     D --> F["主导性合理化神话"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

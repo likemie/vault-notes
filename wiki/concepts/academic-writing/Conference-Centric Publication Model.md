@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -73,8 +73,6 @@ updated: 2026-10-29
 > - **科学学双盲实验的天然试验田** 正是由于顶级会议全量收稿、集中统一分发外审并具备标准化评审打分系统，为科学计量学开展大规模单盲与双盲评审[[Randomised Controlled Trials|随机对照试验]]（如 Tomkins et al., 2017）提供了期刊体系难以企及的因果检验场景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜跨学科[[Scientific Productivity|科研生产力]]评价若忽视出版载体[[Heterogeneity|异质性]]将引发严重的系统性逆向淘汰
 > **探讨维度　评价标准普适性与学科生态适切性的冲突** 探讨高校与科技管理机构强行推行全学科统一[[Document|文献]]计量工具时对新兴学科造成的制度性伤害。

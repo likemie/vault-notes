@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -77,10 +77,6 @@ updated: 2026-10-29
 > - **积极生活怀旧感（Positive Nostalgia）** 留学生在异国求学期间与导师、同学建立深厚个人友谊，并亲身感受当地社会经济发展面貌，形成真诚持久的情感记忆。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 > - **微观人际口碑对冲** 归国校友在家庭、朋友与专业社交圈内分享真实经历，以第一手个人叙事抗衡大众媒体建构的敌意与歪曲报道。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 > - **非强制性吸引机制** 该效应的生成完全依赖校园教育质量、学术氛围与生活保障的自发吸引，避免了宣传灌输带来的心理抵触。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

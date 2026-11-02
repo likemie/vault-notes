@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -83,10 +83,6 @@ updated: 2026-10-29
 >     E --> F["竞争加剧导致立项成功率暴跌"]
 >     F --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

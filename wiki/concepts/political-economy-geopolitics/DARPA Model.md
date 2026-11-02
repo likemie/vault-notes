@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 >     E --> F["第三方权威背书<br>（撬动工业界量产投资与后续 NSF 接力）"]
 >     F --> G["颠覆性技术轨道确立<br>（互联网 / GPS / 隐身 / 先进芯片）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -63,7 +63,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 > - **[[Epistemological Reflection Model\|认识论反思模型]]（Baxter Magolda, 1992）** 从依赖权威灌输的[[Absolute Knowing\|绝对认知]]，发展为主张个人独立声音的[[Independent Knowing\|独立认知]]与环境综合。
 > - **[[Epistemology\|认识论]]维度综合模型（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]）** 将知识来源提纯为核心[[Construct\|构念]]，与知识确定性、知识结构简易性及[[Justificatory Standards\|确证标准]]并列为四大支柱。
 > - **多文本认知干预模型（Bråten et al., 2011; [[Argument_Cartiff_2021_JEP\|Cartiff et al., 2021]]）** 将知识来源[[Operationalization\|操作化]]为[[Explicit Teaching Strategies|显性教学策略]]，通过信源评估干预提升批判性阅读与证据整合水平。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

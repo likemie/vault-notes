@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     F -->|受纳度高| E
 >     F -->|政治反弹与主权警惕| G["项目停滞与外交关系摩擦"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     D --> E
 >     E --> F["社会情感学习整体<br>SEL Core Competencies"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

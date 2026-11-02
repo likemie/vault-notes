@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,10 +126,6 @@ updated: 2026-10-29
 > - **日常判断领域分类（Judgment Domains）** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将日常论辩划分为五个递进领域：个人品味、审美、价值观、社会事实、物理事实。这五个领域在接纳主观性与找回客观评价标准上呈现出截然相反的发展轨迹。
 > - **学术知识结构分类（Academic Domains）** [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] 将学科划分为**良构领域（Well-structured domains，如数学）** 与**劣构领域（Ill-structured domains，如历史）**。前者拥有公理化体系与确定答案，后者则充满相互冲突的多元史料与价值权衡。
 > - **思维教学课程整合分类（Curricular Typology）** [[Argument_Abrami_2015_RER\|Ennis (1989) 与 Abrami et al. (2015)]] 依据思维原则与学科内容的结合方式，将教学划分为四类模式：独立通用（General）、学科融入（Infusion）、学科沉浸（[[Presence\|immersion]]）与显性混合（Mixed）。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

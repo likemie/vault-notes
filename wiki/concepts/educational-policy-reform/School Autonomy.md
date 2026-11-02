@@ -70,7 +70,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -149,10 +149,6 @@ updated: 2026-10-29
 >     G3 -.->|"跨国借用与贷款约束"| N1
 >     N3 -.->|"绩效高压与市场选择"| L1
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

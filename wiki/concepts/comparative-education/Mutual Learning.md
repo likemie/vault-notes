@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     C["多边机构与三方合作催化"] --> D
 >     D --> E["双向跨国政策知识共创与制度适应"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （应试教育 / 考试驱动型教育）
@@ -130,10 +130,6 @@ updated: 2026-10-29
 >         E2 --> E3["<b>成长性认识不正义</b>: 心智致残与信度失真"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

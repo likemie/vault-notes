@@ -118,7 +118,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Metacognition
@@ -191,10 +191,6 @@ updated: 2026-10-29
 > 5. **推翻模型假设** 学生审视后指出数据非配对二分类，排除麦克尼马尔检验。
 > 6. **同伴研讨与多源印证** 将大模型给出的互相冲突建议与同学展开深入研讨。
 > 7. **最终决策收束** 综合[[Sample Size Determination\|样本量]]过小（$N=8$）、顺序尺度与非正态特征，排除所有卡方检验，选定非参数的斯皮尔曼等级相关。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

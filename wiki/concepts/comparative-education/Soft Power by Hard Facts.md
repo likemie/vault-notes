@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -115,10 +115,6 @@ updated: 2026-10-29
 >     F["科学理性表象<br>(Façade of Rationality)"] -.贯穿合法化.-> A
 >     F -.贯穿合法化.-> C
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

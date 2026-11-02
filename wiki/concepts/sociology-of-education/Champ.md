@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -123,8 +123,6 @@ updated: 2026-10-31
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜场域的相对自主性取决于其对外部政治与经济干预的折射能力
 > **探讨维度　相对自主性与外部场域渗透** 探讨教育场域如何维持自身独特的专业价值，以及[[New Public Management|新公共管理]]与市场逻辑对场域自主性的侵蚀。

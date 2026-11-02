@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     G --> H["公共理性参与与科学信任"]
 >   end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

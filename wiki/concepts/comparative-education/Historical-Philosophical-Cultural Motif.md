@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -154,10 +154,6 @@ updated: 2026-10-30
 >         G --> H["抵抗技术官僚理性与量化工具主义<br>（守护以人为中心的伦理底线）"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

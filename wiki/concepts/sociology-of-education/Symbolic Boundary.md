@@ -13,7 +13,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-29
+updated: 2026-11-02
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -93,10 +93,6 @@ related_arguments:
 >     C --> D["排斥的正当化（道德评价免除排斥罪恶感）"]
 >     D --> E["跨群体交流阻断 & 社会边界硬化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

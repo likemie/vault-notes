@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     E --> F["构筑制度机械借用的天然屏障"]
 >     E --> G["确立历史情境主义分析法则"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

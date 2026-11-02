@@ -173,10 +173,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜[[Creativity|创造力]]测量深受[[Criterion Problem|效标困境]]制约，不同测量[[Paradigm|范式]]之间仅呈低至中度相关
 > **探讨维度　[[Criterion Problem\|效标问题]]与[[Construct\|构念]]多维性** 探讨[[Creativity\|创造力]]心理测量中潜能测验、产品评定与成就自陈之间的统计分离及其方法学根源。
 

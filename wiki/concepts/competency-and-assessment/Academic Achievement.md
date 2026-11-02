@@ -194,7 +194,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （学业成就）
@@ -262,10 +262,6 @@ updated: 2026-10-29
 >     D3 --> AA
 >     D4 --> AA
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

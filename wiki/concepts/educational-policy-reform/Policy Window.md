@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     E --> F["宏观学术研究让位于微观对标清单"]
 >     F --> G["州教委火速投票法定采纳"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

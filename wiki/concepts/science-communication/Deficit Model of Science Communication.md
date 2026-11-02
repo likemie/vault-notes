@@ -62,7 +62,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Deficit Model of Science Communication
@@ -125,10 +125,6 @@ updated: 2026-10-29
 >     D3 -.->|"遭遇阻滞"| FailureMechanisms
 >     FailureMechanisms -->|"导致后果"| E["实践转化失败 / 效应量为零"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

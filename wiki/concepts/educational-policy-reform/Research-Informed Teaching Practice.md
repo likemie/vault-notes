@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -141,10 +141,6 @@ updated: 2026-10-29
 >     G --> H["教师专业判断审议<br>(三种声音碰撞)"]
 >     H --> I["课堂教学证据知情改进<br>(EIP Action)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

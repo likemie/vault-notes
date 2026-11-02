@@ -35,7 +35,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -82,10 +82,6 @@ updated: 2026-10-29
 >     C --> E
 >     E -->|"经济溢价 > 学习交易成本"| F["青年涌向孔院、高职汉语班与赴华留学"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     E --> F["相对排位未变，博弈成本激增（零和内耗）"]
 >     F --> C
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

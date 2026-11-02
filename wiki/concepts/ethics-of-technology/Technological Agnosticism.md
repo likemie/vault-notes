@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -131,10 +131,6 @@ updated: 2026-10-29
 >     D --> G["认知脱钩退化<br>(技术人员沦为地缘资本工具)"]
 >     D --> H["形式中立与功利折算<br>(有效利他主义与文化虚无)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -119,7 +119,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -184,10 +184,6 @@ updated: 2026-10-29
 >     E --> I["跨国公司战略研发母国锚固"]
 >     E --> J["后发技术赶超与国家长期生产率"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

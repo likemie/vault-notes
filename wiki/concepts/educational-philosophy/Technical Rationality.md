@@ -170,7 +170,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -252,10 +252,6 @@ updated: 2026-10-30
 > ```
 
 ---
----
-
-## 围绕概念形成的命题
-
 ---
 
 > [!concept-proposition] 命题一｜技术理性将专业实践简化为线性手段-目的计算并在复杂情境中面临根本性[[Epistemology|认识论]]危机

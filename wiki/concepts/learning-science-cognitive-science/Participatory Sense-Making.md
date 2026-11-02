@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -87,10 +87,6 @@ updated: 2026-10-29
 >     B <-->|"相互具身与反馈调节"| C["行动者 B<br>（具身主体）"]
 >     B --> D["参与式意义建构<br>（共享理解与新意义涌现）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

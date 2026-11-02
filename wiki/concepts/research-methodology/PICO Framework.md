@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     D -- "四项完全契合" --> E["进入定量合成 (Meta-analysis / SOMA)"]
 >     D -- "混合替代干预 / 混入行为与IQ" --> Z["排除：因果解释扭曲"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

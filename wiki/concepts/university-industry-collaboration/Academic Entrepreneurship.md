@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     Center <--> Consortium["产业研发联合体<br>（技术路线图 / 人才直通 / 课题聚焦）"]
 >     Center --> Pivot["技术平台跨界复用<br>（生物微阵列 / 基因枪 / 国家纳米网络）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

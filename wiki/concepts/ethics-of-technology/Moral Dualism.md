@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >   
 >   E1 & E2 --> F["技术共和国破局：承认人性脆弱性，以实战威慑捍卫自由秩序"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

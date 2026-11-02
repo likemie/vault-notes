@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -118,10 +118,6 @@ updated: 2026-10-29
 >     E --> G["学术共同体的居所: 批判、解释、多元真理体制探索 (Episteme)"]
 >   end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

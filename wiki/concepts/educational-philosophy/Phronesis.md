@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -122,10 +122,6 @@ updated: 2026-10-30
 >     C --> E["非算法即兴决断与审议"]
 >     E --> F["教学机智 / 临床判断 / 现场排障"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

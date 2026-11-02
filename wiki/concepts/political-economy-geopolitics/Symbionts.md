@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     G --> H["跨阵营'浸礼会与私酒贩'同盟巩固"]
 >     H --> I["增强制度稳健性 / 驱动制度转换 (Conversion)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

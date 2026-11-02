@@ -102,7 +102,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -140,8 +140,6 @@ updated: 2026-10-29
 > - **社会良知与权力制衡使命（[[Critic and Conscience of Society]]）** 学术自由的终极合法性依托于学者基于严谨客观的实证研究面向执政权力讲真话，在自由民主社会中承担抵御政治殖民与政策意识形态偏见的制衡职能。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜学术自由确立了[[Knowledge Production|知识生产]]的开放渗透性与理论[[Pluralism|范式多元主义]]的[[Epistemology|认识论]]根基
 > **探讨维度　[[Knowledge Production|知识生产]]本质与理论[[Pluralism|多元主义]]** 学术自由在微观探索与元理论层面上确立了大学对思想、人才与异质理论工具的开放接纳能力；既保障研究者能够跨越组织与学科边界自由探索，又保障学术共同体免受单一霸权正统的规训，维系学科心智的多元成熟。

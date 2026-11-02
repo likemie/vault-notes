@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 > - **学习者建模与预测分类（Learner Modeling）** 基于多源认知与行为数据构建预测模型（如 ASAP 分类器），早期识别学业失败风险或高潜能力特质。[[Argument_Thompson_2022_Promising_Student\|(Pea, 2014; Thompson et al., 2022, p. 224)]]
 > - **纵向[[Learning Gain\|学习增益]]测算（Longitudinal Gain Analytics）** 借助[[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）与[[Item Response Theory\|项目反应理论]]（IRT），对学生在大学就读期间的[[Higher-Order Thinking Skills\|高阶思维]]与跨学科能力增量实施跨年级追踪评估。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
 > - **仪表盘可视化与即时反馈闭环（Dashboards & [[Feedback]] Loop）** 将复杂算法输出转化为红绿警戒色、进度条与推荐雷达图，驱动个性化自适应学习或辅导员先发制人干预。[[Argument_Amos_2022_Springer\|(Amos, 2022, pp. 56–57)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, pp. 242–245)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

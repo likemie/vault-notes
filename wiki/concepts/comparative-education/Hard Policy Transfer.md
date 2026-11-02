@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 > - **成套成熟工具的直接引进** 为压缩研发周期和试验成本，直接全套采纳特定输出国既有的成熟测试量表（如 [[OECD AHELO Project|AHELO]] 照搬美国大学学习评估）。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 > - **量化实验设计与参数规程移植** 将特定输出国成熟的[[Random Assignment|随机分配]]实验指南、对照组设立标准与计量分析模型原样引入，作为本土政策试点的法定评估门槛。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–344)]]
 > - **跨境专业机构的技术承接与质控审计** 越过本土科研机构，直接聘请输出国的专业智库或国际财团跨国承担技术落地、现场培训与数据标定，确保操作逻辑的完全复刻。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–345)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

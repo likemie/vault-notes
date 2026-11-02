@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -91,10 +91,6 @@ updated: 2026-10-29
 >     C --> D["拓扑架构重组：<br>消除结构洞 / 强连接建立"]
 >     D --> E["颠覆性技术轨道确立<br>（跨越死亡之谷）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

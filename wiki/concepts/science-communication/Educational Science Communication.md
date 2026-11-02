@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     G -->|实践需求与反思反馈| A
 >     F -->|教学法整合反馈| A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

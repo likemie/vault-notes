@@ -58,7 +58,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Transfer Science
@@ -128,10 +128,6 @@ updated: 2026-10-29
 >     TR <-->|情境复杂性反馈| SC
 >     SC -.->|实践问题与反向滋养| RS
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

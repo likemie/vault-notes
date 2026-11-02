@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -71,8 +71,6 @@ updated: 2026-10-29
 > - **自我审查的无意识内化** 行动者在长期的心理规训中将避险本能内化为思维方式，最终丧失对重大真实议题提出原创性见解的智识冲动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜不成文的心理审查机制比机械式禁令更能从根基上摧毁知识阶层的道德勇气
 > **探讨维度　制度文化与智识生态** 探讨隐性道德巡查与言论审查如何侵蚀知识精英的灵魂，使大学与企业管理层沦为缺乏实质主张的技术官僚。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     Tool -->|进入国家标准| National
 >     National -->|商业化重塑与规训| Schools["全澳公立学校与基层课堂"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

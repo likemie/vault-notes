@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     R -. "协同" .-> P
 >     R -. "服务" .-> U
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

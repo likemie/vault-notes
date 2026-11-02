@@ -120,7 +120,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -202,10 +202,6 @@ updated: 2026-10-29
 >     PJ -.->|行动中/后反思| PJ
 >     PJ --> ACT
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

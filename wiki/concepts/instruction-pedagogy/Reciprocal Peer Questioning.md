@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -79,8 +79,6 @@ updated: 2026-10-29
 > - **假设与评价型句干** “……的结论建立在什么未说明的前提假设之上？”“你对……的优缺点如何评价？”[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 285)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜提问句干支架通过促进认知精细加工显著提升思维技能
 > **探讨维度　认知建构机制** 探讨生成问题与深度解释对思维的促进作用。

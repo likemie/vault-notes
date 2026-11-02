@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -123,10 +123,6 @@ updated: 2026-10-29
 >     E --> F
 >     F --> G["化解本土阻力 / 获取排他性政治正当性"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

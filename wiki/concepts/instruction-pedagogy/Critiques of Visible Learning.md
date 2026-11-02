@@ -203,7 +203,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -253,9 +253,6 @@ updated: 2026-10-29
 >   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与伪科学划界（Cargo Cult Science & Epistemic Demarcation）**
 >   运用费曼科学哲学辨析其伪科学特质：外表高度模仿自然科学的图表、公式与海量数据，实质却回避同行评议、缺乏竭尽全力证明自己可能出错的求真品格，在封闭商业运作中构建不可[[Falsification|证伪]]的数字教条。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
-
----
-## 围绕概念形成的命题
 
 ---
 

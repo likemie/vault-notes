@@ -61,7 +61,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -122,10 +122,6 @@ updated: 2026-10-29
 >     D --> E["标准参照判定<br>(达标/等级认定)"]
 >     E -.->|对齐反馈| A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

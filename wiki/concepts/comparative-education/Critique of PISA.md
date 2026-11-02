@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -166,8 +166,6 @@ updated: 2026-10-29
 > - **实施偏差与心理测量局限面向** 揭露 PISA 在抽样上混淆年龄与年级并允许系统性排除弱势群体，在测试工具上存在阅读性别偏差与跨语言文本长度及文化 DIF 偏倚，且 Rasch 模型对复杂现实数据的拟合度不足导致国家排位不稳健。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_DeJong_2023_ERR|(De Jong et al., 2023)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[PISA]] 宣称的未来技能属于缺乏前瞻实证的拟制[[Construct|构念]]，且宏观经济增长预测存在逻辑断裂
 > **探讨维度　[[Construct|构念]]拟制与经济增长神话[[Falsification|证伪]]** 剖析 PISA 如何将其测验包装为面向未来生存的客观必需技能，以及相关经济增长承诺在实证检验下的破裂。

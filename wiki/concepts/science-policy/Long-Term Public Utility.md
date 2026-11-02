@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     D --> E2["底层工程发明\n（极端装备 / 专用工艺）"]
 >     E1 <-->|双向循环互促| E2
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

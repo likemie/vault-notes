@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     D -->|"政策改革指引 / 政策背书"| E["民族国家本土政策场域"]
 >     E -->|"制度惯性 / 文化转译博弈"| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

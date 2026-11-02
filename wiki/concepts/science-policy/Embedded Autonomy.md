@@ -59,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -129,10 +129,6 @@ updated: 2026-10-29
 >     TEAM --> CPO
 >     GOAL & GUARD & AUDIT -->|强力公共价值约束| CPO
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

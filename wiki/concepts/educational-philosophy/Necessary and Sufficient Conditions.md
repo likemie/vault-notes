@@ -39,7 +39,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     C -->|提供潜在因果势能| E
 >     D -->|激活因果发生| E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

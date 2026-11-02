@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     C --> D["科学化引用与形式理性"]
 >     D --> E["基于政策的证据制造 (PBEM)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

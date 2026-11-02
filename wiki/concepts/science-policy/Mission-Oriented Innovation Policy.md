@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -183,10 +183,6 @@ updated: 2026-10-29
 > - **需求表达机制（Demand Articulation）** 建立吸纳用户、公民与利益相关方参与的制度渠道，将模糊的社会需求转化为明确的创新采购、规制标准与应用场景。
 > - **[[Reflexivity|反思性]]治理（Reflexivity）** 建立动态监测、政策试验与适应性调整机制，及时纠正技术锁定与政策偏倚，应对转型过程中的[[Scientific Uncertainty|认知不确定性]]。
 > - **跨部门跨层级协调（Policy Coordination）** 打破各级政府与部门壁垒，统筹科技、环境、产业、卫生与空间规划等多维政策工具，破解现代政策的[[Complexity Paradox|复杂性悖论]]。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

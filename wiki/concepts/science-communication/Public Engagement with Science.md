@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -72,10 +72,6 @@ updated: 2026-10-29
 > - **科研全生命周期嵌入（Research Lifecycle Embedding）** 公众参与不仅发生在成果发布后，而是贯穿问题构思、过程互动到成果转化的全过程。
 > - **多样性与包容性（Diversity and Inclusion）** 消除[[Socioeconomic Status|社会经济背景]]障碍，确保边缘和代表性不足的社群平等享有科学参与资源。
 > - **全域行动主体协同（Cross-sector Ecosystem）** 超越学术界单一视角，将承担国家主要研发职能的产业界企业与使命驱动型的第三部门（慈善基金会、患者组织、环保团体）深度纳入公众参与共同体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 68, 74)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -112,10 +112,6 @@ updated: 2026-10-29
 >     ThirdSpace --> Guard["坚守科学严谨性防线"]
 >     Guard --> Impact["可持续知识共创与全系统累积"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Cooperative Learning
@@ -128,10 +128,6 @@ updated: 2026-10-29
 > - **内外圈法（Inside-Outside Circle / Kagan）** 学生站成同心圆，内外圈面对面配对分享与讨论，随后旋转指定步数更换新伙伴继续研讨。
 > - **轮流知更鸟（Rally Robin / Kagan）** 同桌两人针对某一发散性问题轮流进行口头快速应答，激发[[Divergent Thinking\|发散思维]]。
 > - **编号抬头法（Numbered Heads Together / Kagan）** 组内成员各自编号，共同研讨确保全员掌握答案；教师随机抽取某一号码的学生代表小组作答。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

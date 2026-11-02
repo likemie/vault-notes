@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -147,10 +147,6 @@ updated: 2026-10-29
 >     
 >     C & D --> E["视域融合的深度比较教育学<br>（微观机制颗粒度 ＋ 宏观批判解释力）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -81,10 +81,6 @@ updated: 2026-10-29
 >     E --> G["提供数千万美元全美推进行政资金"]
 >     F & G --> H["实现全美45州自愿法定采纳"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

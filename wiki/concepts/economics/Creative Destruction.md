@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -88,10 +88,6 @@ updated: 2026-10-29
 >     D --> E["国家创新系统主动试错与调适<br>(重构职业教育、推行多技能培训与精益生产)"]
 >     E --> F["确立全新技术-经济范式"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

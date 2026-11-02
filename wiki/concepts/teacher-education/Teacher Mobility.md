@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     end
 >     E3 <-->|正当与不正当流动的价值划分（Sobe & Fischer, 2009）| U3
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

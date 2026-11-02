@@ -47,7 +47,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -115,10 +115,6 @@ updated: 2026-10-29
 >     P2 -->|"投向后期成熟标的 (TRL 7+)"| ScaleUp["成长期独角兽 / 战略并购标的"]
 >     ScaleUp -->|"防范如 Google PageRank 式的外部颠覆"| Protect["母公司产业生态防卫与增益"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -129,10 +129,6 @@ updated: 2026-10-30
 >     G --> H["事实上的欧洲教育空间一体化规制"]
 >     B -.->|软法渗透瓦解防线| H
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

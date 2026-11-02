@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -58,10 +58,6 @@ updated: 2026-10-29
 > 3. **提出假设与可能解法（Suggestion of Possible Solution）** 结合已有知识与联想，提出解决该难题的替代方案或猜测。
 > 4. **推演假设的逻辑后果（Development by Reasoning of Bearings）** 运用推理展开假设，分析“如果采用该方案，将会产生何种连带后果”。
 > 5. **实证检验与观察验证（Further Observation and Experimentation）** 通过进一步的实验与实践行动，验证假设是否符合现实，从而接受或拒绝它。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 37-38)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

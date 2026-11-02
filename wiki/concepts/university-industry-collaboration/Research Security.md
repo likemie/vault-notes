@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-10-29
 >     C --> E["知识产权保护服务<br>(Foreground IP & Legal Backing)"]
 >     C --> F["可预测的国际合作<br>(Predictable & Safe Partnerships)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

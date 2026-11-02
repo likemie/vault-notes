@@ -49,7 +49,7 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     Micro2 -->|"聚合效应与互动"| Macro2["宏观结果（全校教学绩效、改革落地成效）"]
 >     Macro1 -.->|"个体主义反对直接宏观跳跃"| Macro2
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

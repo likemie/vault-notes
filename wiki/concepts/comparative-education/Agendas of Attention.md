@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,8 +109,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题类型一｜不同的国际关系预设通过注意力议程决定了比较教育的在场与缺席分布
 > **探讨维度　[[Knowledge Production\|知识生产]]的过滤透镜** 探讨注意力议程如何在中介底层政治假设与表层学术选题之间起作用。学者们普遍倾向于揭示学术客观性背后的选择性偏差。

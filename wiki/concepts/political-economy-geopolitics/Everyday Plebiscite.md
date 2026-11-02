@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -89,10 +89,6 @@ updated: 2026-10-29
 >   C --> D["面向千年的长远奋斗愿景<br>(未来维度：集体繁荣与防卫)"]
 >   D --> E["技术共和国的硬实力与共同信念"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

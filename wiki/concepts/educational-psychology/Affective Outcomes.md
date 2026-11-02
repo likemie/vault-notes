@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 > - **学科[[Student Attitude\|学习态度]]（Subject Attitudes）** 对特定学科门类（如数学、科学、语言）所持有的正面或负面评价倾向与价值认同。
 > - **学业自信心与[[Self-Efficacy\|自我效能感]]（Self-Confidence & Self-Efficacy）** 对自身在具体学习任务中能否取得成功的信念与效能评价。
 > - **一般学习感知与满意度（General Learning Perceptions）** 对课堂学习环境、同伴互动氛围与[[Learner Autonomy\|自主学习]]体验的整体积极感受。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

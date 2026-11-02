@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,8 +108,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜知识外交提供超越地缘博弈的非零和国际合作[[Paradigm|范式]]
 > **探讨维度　合作[[Paradigm|范式]]的价值革新** 该命题探讨知识外交如何打破传统现实主义地缘竞争框架，为跨国高等教育交流确立以对等互惠为核心的全新合法性基础。

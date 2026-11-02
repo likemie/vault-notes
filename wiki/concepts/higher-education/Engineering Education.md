@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -155,10 +155,6 @@ updated: 2026-10-30
 >     H["现代拔尖工程科技人才与产业生态"]
 >     A & B & C & D & E & F & G --> H
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

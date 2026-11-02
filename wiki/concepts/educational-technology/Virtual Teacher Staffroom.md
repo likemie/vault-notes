@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,8 +110,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕虚拟教师休息室在教师专业发展与[[Educational Science Communication|教育科学传播]]中的双重效应，学术界形成了三大核心理论命题：
 

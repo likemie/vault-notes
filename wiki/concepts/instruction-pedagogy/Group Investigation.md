@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-29
 >     E --> F["阶段6：师生/同伴多维综合评价与反思"]
 >     F --> G["生成高阶探究与学科核心素养"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

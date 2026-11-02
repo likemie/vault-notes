@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -87,8 +87,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[General Education|通识教育]]可以通过有分布的专门化实现
 > **探讨维度　广度与深度的分层组合** 范例学习不在同一层面平均折中广度和深度，而是让跨学科分布承担广度、单科范例承担深度。

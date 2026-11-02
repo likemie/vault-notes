@@ -79,7 +79,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -138,10 +138,6 @@ updated: 2026-10-29
 >     D --> E["实践终端应用与创新产出"]
 >     E -.生成内生认知存量.-> C
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

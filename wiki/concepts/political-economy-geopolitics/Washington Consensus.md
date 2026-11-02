@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -125,10 +125,6 @@ updated: 2026-10-29
 >     E --> G["原则在实践中遭遇挫败与软化"]
 >     F --> G
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

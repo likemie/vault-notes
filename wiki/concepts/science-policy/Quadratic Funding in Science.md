@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -82,10 +82,6 @@ updated: 2026-10-29
 >     D --> E["项目 A 获得极高匹配乘数与总资助"]
 >     D --> F["项目 B 获得较低匹配额"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

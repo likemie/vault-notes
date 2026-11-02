@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -104,10 +104,6 @@ updated: 2026-10-29
 >     E --> F
 >     F --> G["冷战大学卓越学术声誉确立<br>（斯坦福、MIT、普林斯顿等名校梯队）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

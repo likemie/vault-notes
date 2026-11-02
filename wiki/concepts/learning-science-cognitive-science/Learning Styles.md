@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Learning Styles
@@ -115,10 +115,6 @@ updated: 2026-10-29
 >     C --> D["资源错配与学习机会受限的风险"]
 >     E["通俗语言与概念转变播客"] -.->|修正信念| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

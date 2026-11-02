@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 > | **对内部治理的侵蚀** | 追求透明、民主参与与非等级化的组织形态。 | 复制大型援助机构的官僚弊病，滋生党派私利、任人唯亲甚至腐败。 |
 >
 > **机制透视** 外包机制虽然短期内扩大了基层教育覆盖，却在深层上将民间组织规训为去政治化的服务承包商，并架空了受援国保障公共教育的宪政责任。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

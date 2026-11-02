@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -132,10 +132,6 @@ updated: 2026-10-29
 >   - **理论根基** 面对21世纪气候变化、人口老龄化与公共卫生危机等[[Wicked Problem|复杂社会难题]]，系统范式因缺乏价值导向而陷入被动（Schot & Steinmueller, 2018; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）。
 >   - **政策干预** 突破被动的系统修补，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；针对方向性失灵、需求表达失灵、[[Reflexivity|反思性]]失灵与政策协调失灵四大[[Transformative System Failures|变革性系统失灵]]构建 ROAR 治理工具箱，以[[Grand Challenges|重大挑战]]为导向“[[Picking the Willing|挑选意愿者]]”。
 >   - **大学角色** 转型为多方利益相关者的“中立对话召集者”、社会转型“方向性情报贡献者”以及国家重大战略使命的“共同塑造者”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–812)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

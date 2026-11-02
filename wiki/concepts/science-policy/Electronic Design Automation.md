@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     MultiPhys --> Verify["物理与电气验证<br>（DRC 规则检查 / LVS 一致性核验）"]
 >     Verify --> Mask["GDSII / OASIS 版图交付<br>（进入代工厂光罩制造与光刻）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

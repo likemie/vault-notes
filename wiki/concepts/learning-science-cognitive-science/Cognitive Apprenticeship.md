@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -74,8 +74,6 @@ updated: 2026-10-29
 > - **探索（Exploration）** 推动学生自主进入独立[[Inquisitive Mode of Governance|探究模式]]，自主定义问题、设立检验标准并尝试创新解法。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜认知学徒机制是[[Mentorship|导师制]]在真实探究情境中发挥催化作用的微观支柱
 > **探讨维度　策略协同与认知整合机制** 探讨[[Mentorship\|导师制]]如何与真实任务及对话研讨发生协同共振。

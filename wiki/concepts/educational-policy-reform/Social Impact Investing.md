@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     Auditor -->|证实达成考核目标| Gov["国家国库 / 基金会总账户<br>(买单与分红兑付者)"]
 >     Gov -->|全额偿还本金 ＋ 支付超额利润溢价| Inv
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

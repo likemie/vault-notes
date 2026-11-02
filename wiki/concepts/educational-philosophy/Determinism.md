@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -117,10 +117,6 @@ updated: 2026-10-29
 >     C --> E["教育应用与局限<br>行为矫正 / 制度工程<br>受制于人本反思与复杂性冲击"]
 >     D --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

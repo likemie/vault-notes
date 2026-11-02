@@ -8,10 +8,10 @@ aliases:
 summary: "解释当代科学中团队规模分布从经典泊松分布向重尾幂律分布演进的双重生成模型；区分随机招募成员的小型核心团队与依赖高产学者声誉累积优势快速聚集成员的扩展团队，揭示两类团队在长期存续性与知识生产中的互补分工。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - theme/science-of-science
@@ -37,16 +37,18 @@ related_persons:
   - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[CERN]]"
   - "[[Laser Interferometer Gravitational-Wave Observatory]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -70,6 +72,7 @@ updated: 2026-10-31
 
 > [!dev-timeline] 理论版本与贡献
 > - **2014 — 双模演化模型确立** Milojević 形式化区分核心团队与扩展团队机制，建立团队规模演化动力学方程。
+> - **2018 — 《科学》全景综述论证团队规模生态均衡（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等人在《科学》发文系统梳理核心团队与扩展团队机制，指出小型团队是概念颠覆与新构想的源泉，扩展团队主导主流范式工程化完善，强调科技资助政策必须平衡支持各类规模团队以防止科学系统官僚化。
 > - **2019 — 颠覆性与规模法则衔接** [[Lingfei Wu|吴令飞]]、[[Dashun Wang|王大顺]]与埃文斯（Wu et al., 2019）利用[[Disruption Index|颠覆性指数]]全景验证团队规模与创新形态，将核心团队关联至概念颠覆，将扩展团队关联至渐进发展。
 > - **2021 — 科学学系统化整合** 王大顺与[[Albert-László Barabási|巴拉巴西]]在《[[Metascience|科学的科学]]》第 12 章系统阐发该模型，指出团队规模演变本质上是科研协作从纯随机招募向声誉吸附累积演化的制度表征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 126–127)]]
 
@@ -90,6 +93,9 @@ updated: 2026-10-31
 > **解释** 20 世纪中叶的科研团队规模由泊松分布完全主导，均值仅 1.5 人且基本不存在超过 8 人的团队；进入大科学时代后，基于优先连接机制的扩展团队迅速壮大，以老牌学者的声誉和资源成比例招募新人，拉动团队规模跨越数个数量级演变为重尾幂律分布。核心团队与扩展团队在全领域科研产出中的相对份额长期保持基本恒定，证明两类机制具有深层互补共生性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 126–127)]]
 >
 > **应用实例** 在当代天文学或高能物理学界，既存在导师带领两三名研究生探索非常规冷门假说的小型核心团队，也存在依托国家天文台或粒子对撞机由上千人联合署名的巨型扩展团队。
+
+> [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
+> **规模双模分化与防止科学官僚化政策意涵** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，现代团队合署成果已占全部发表的 90% 以上，平均规模每十年以 17% 的速率扩张；小型核心团队展现出更强的颠覆性概念探索能力，而大型扩展团队则长于推进主流技术的工程化开发。科技管理与资助政策若单向偏向资助巨型扩展团队，将不可避免地导致科研体系官僚化并扼杀颠覆性源头创新，强调必须维持各级规模团队均衡发展的资助生态。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–3)]]
 
 ---
 
@@ -141,6 +147,6 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述核心团队与扩展团队机制，指出小型团队依靠稳定核心存续、大型团队依靠人员流动维持寿命，论证平衡资助各种规模团队对防止科学官僚化的必要性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 第 12 章系统评析米洛耶维奇核心与扩展团队模型，阐明天文学等领域半世纪团队规模演化的泊松-幂律双模机制（pp. 125–127）。

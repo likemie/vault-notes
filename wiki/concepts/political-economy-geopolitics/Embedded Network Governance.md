@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -143,10 +143,6 @@ updated: 2026-10-29
 >     Milestone --> Validation
 >     Validation --> Exit
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

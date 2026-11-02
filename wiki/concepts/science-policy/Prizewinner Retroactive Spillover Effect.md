@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -82,10 +82,6 @@ updated: 2026-10-30
 > - **历史文本不可变性（Invariance of Historical Text）** 获奖前发表的历史文献内容已然定型，消除了内在科学质量发生跃变的干扰[[Variable|变量]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 36)]]
 > - **跨学科主题辐射性（Cross-Topic Spillover）** 荣誉带来的关注度不仅覆盖获奖方向，且大面积漫延至学者早年从事的非相关边缘领域。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
 > - **外生因果确证（Exogenous Causal Identification）** 为学术界马太效应确实独立于天赋能力而发生提供了无可辩驳的计量[[Counterfactual|反事实]]证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 36–37)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

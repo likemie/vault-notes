@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     C["激励性框架<br>(合作共赢与价值动员)"] --> D
 >     D --> E["话语实践与社会生态<br>(国家战略与全球治理秩序)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

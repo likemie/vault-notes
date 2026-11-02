@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -129,10 +129,6 @@ updated: 2026-10-29
 >     D --> E
 >     D -. 经验回溯验证与饱和 .-> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

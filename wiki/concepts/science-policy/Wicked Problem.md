@@ -56,7 +56,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 > - **复杂性（Complexity）** 指问题由多个相互交织的子问题组成，跨越不同政策领域、空间尺度与行政管辖边界，存在分散的[[Problem of Many Hands|多手难题]]（Problem of Many Hands）。
 > - **不确定性（Uncertainty）** 指缺乏充足的科学共识与数据支持，因果关联高度模糊，干预措施的长期后果、反弹效应与意外次生风险难以预测。
 > - **[[Complexity Paradox|复杂性悖论]]与条块分割** 指政策问题越复杂，行政机构越发退守部门壁垒与合规流程，导致跨部门协同机制失灵，宏观社会使命在日常行政中被碎片化割裂。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

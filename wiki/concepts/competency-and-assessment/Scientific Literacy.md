@@ -105,7 +105,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -170,10 +170,6 @@ updated: 2026-10-29
 >     E --> G["抵御虚假信息与意识形态侵蚀<br>(Epistemic Defense)"]
 >     E --> H["公共议题与国家科研理性审议<br>(Civic & Policy Deliberation)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

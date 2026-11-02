@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -99,8 +99,6 @@ updated: 2026-10-31
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜演绎公理进路促使概念型学者在学术生涯早期达成重大突破
 > **探讨维度　[[Epistemology|认识论]][[Paradigm|范式]]与生命周期时序** 探讨形式演绎思维在科研生命周期中的时序约束，证实先验逻辑突破主要集中于学者涉足领域的初期。

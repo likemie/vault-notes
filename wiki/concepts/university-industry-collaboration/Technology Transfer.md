@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -182,8 +182,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[General Purpose Technology|通用技术]]产业萌芽期的技术转移依赖非专利公共扩散机制与[[Human Capital Theory|人力资本]]流动而非法定排他许可
 

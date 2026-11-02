@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     C --> E["<b>高水平认识论警觉与实质认识主体性</b><br>• 迭代提示词重构与图像细节修正<br>• 建构稳固的科学因果解释"]
 >     D --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

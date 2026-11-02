@@ -63,7 +63,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -126,10 +126,6 @@ updated: 2026-10-29
 > 3. **拉动工具与平台协同** 依托[[Pull Mechanisms for Innovation|拉动机制]]（里程碑奖金、[[Advance Market Commitments|预先市场承诺]]）、[[Big Science|大科学]]设施开放与跨机构联合体，吸引跨领域团队竞争。
 > 4. **闭环自主探索与验证** 结合科学 AI 模型生成与国家实验室自主机器人实验室（如 A-Lab、Polybot）进行原位高速验证。
 > 5. **下游能力普及化** 推动关键核心技术从“实验室手艺”转化为“通用可购买基础设施”，激活万亿级产业生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

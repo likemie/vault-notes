@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -92,10 +92,6 @@ updated: 2026-10-29
 >     E["工具与资料收集 (Instrumentation)<br>量表、测验 vs 访谈、参与观察"]
 >     A --> B --> C --> D --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

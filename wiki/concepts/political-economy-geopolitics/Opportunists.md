@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-29
 >     B -- "弱否决 / 高解释裁量权" --> D["借调规则重定向：驱动制度转换 (Conversion)"]
 >     B -- "外部起义跨过临界阈值" --> E["改变表露偏好：集体倒戈触发级联变革 (Cascade)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -141,10 +141,6 @@ updated: 2026-10-29
 >     M1 & M2 & M3 & M4 & M5 & M6 --> 心理状态
 >     C & M & O --> B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

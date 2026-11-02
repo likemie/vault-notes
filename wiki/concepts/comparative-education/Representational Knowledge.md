@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -87,10 +87,6 @@ updated: 2026-10-29
 >     C --> D["制衡单一技术官僚专长垄断"]
 >     C --> E["赋权本土替代性政策创新与南南交流"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

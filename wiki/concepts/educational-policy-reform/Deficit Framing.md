@@ -65,7 +65,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -124,10 +124,6 @@ updated: 2026-10-29
 >     D --> E["学生学业持续低迷或流失"]
 >     E -->|"反向确证初始赤字前设"| B
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

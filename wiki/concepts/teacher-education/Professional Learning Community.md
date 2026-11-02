@@ -76,7 +76,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,10 +153,6 @@ updated: 2026-10-29
 >     F --> G["渐进式课堂试验与成效追踪"]
 >     G --> H["学生学业进步与教师效能感提升"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 > - **科学[[Epistemology|认识论]]层级优越性（Hierarchical Primacy of Science）** 在文化上将纯理论研究置于价值阶梯顶端，将工程工艺与技术发明贬抑为纯科学的衍生性手艺劳作。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **投入自动转化假设（Automatic Pipeline Assumption）** 假定只要国家持续向基础科学管道注入公共财政资金，工业技术突破与宏观经济增长就会如流水线末端般自动[[Emergence|涌现]]。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
 > - **地理中立与去制造化假设（Geographic Neutrality and Demanufacturing Assumption）** 假定科学发现是无国界的纯公共品，本土可以仅保留高附加值设计而让渡实体制造；忽视了制造业外迁将彻底带走无法编码的[[Process Knowledge|过程知识]]并切断科研问题来源。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

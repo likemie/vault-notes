@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-08-26"
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -169,10 +169,6 @@ updated: 2026-10-29
 >     PBE --> ACT
 >     NIC --> ACT
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

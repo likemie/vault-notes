@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 > - **深层[[Construct\|构念]]敏感度与常规测验错配（Construct Sensitivity vs Metric Mismatch）** 在[[Higher-Order Thinking Skills\|高阶思维]]、概念转变与[[Epistemic Cognition\|认识论认知]]等复杂干预中，常规期末考与外部标准化测验主要考核陈述性事实与机械程序提取，对高阶认知结构的变化不敏感；研究者自编测验能够针对复杂论证与概念转变开展细颗粒度测量，因而呈现出更高的测量敏感度。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 488)]]
 > - **测验类型与干预时长的结构性混淆（Structural Confounding with Duration）** 短周期干预通常全部采用研究者自编测验，而全学期长周期干预往往被迫采用学校常规期末考，造成“长期干预效果反而衰退”的表象，实质混淆了测验工具敏感度与干预时长的真实效应。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 492)]]
 > - **循证清算准入门控（[[Educational Evidence Clearinghouses\|Clearinghouse]] Gatekeeping）** 现代证据审查平台（如 [[Evidence for ESSA]]、[[What Works Clearinghouse\|WWC]]）将“测量工具是否独立于开发者与研究者”列为前置质控红线，坚决剔除以自编测验作为唯一确证性指标的研究。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 3–4)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

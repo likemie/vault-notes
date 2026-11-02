@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -86,10 +86,6 @@ updated: 2026-10-29
 > - **灾难性风险规避与[[Reliability|可靠性]]锁定（Catastrophic Risk Aversion）** 载人航天与国家战略预警任务的超高风险属性，导致项目决策层对飞行航电系统实施严格的成熟技术白名单制度，防止早期未经充分老化的前沿器件引发灾难性系统瘫痪。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–15)]]
 > - **极端物理约束与倒逼式指标（Stringent Operational Constraints）** 运载火箭有效载荷、舱内空间、电池储能与严苛空间辐射环境构成了倒逼创新的刚性物理边界，迫使承包商研发比商用标准高出数个数量级的微型化与高可靠性器件。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 15–16)]]
 > - **双轨技术演进与外围扩散（Dual-Track Evolutionary Spillover）** 项目通过在地面大型[[Center of Calculation|计算中心]]、导航计算机预研平台与后继任务储备中率先部署激进前沿技术，与飞行主干系统的保守选型形成互补，实现了前沿技术的安全孵化与向民用工业的平稳外溢。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 16–17)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

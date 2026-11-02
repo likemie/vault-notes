@@ -44,7 +44,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     T2 --> O2
 >     T3 --> O3
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

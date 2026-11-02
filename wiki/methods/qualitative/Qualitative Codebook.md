@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -118,10 +118,6 @@ updated: 2026-10-29
 >     Screening -->|"存在歧义或新模式涌现"| Memo["记录备忘录并迭代修订手册"]
 >     Assign --> Subsume["多维归组与包容层级整合"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -129,10 +129,6 @@ updated: 2026-10-29
 研究型教师法定职级"] ==>|破除制度梗阻| MacroLevel
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

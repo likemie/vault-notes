@@ -52,7 +52,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     F --> G
 >     G --> H["地缘战略信任与实质合作"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

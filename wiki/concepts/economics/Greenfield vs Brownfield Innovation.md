@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >         C2 --> D2["必须协同施加：<br>碳定价 + 强制标准 + 基础设施示范"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

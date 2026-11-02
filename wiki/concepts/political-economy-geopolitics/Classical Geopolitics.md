@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-29
 >     D --> E["势力范围划分<br>(排他联盟与单边制裁)"]
 >     D --> F["高等教育工具化<br>(附属于国家安全竞赛)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -47,7 +47,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -96,10 +96,6 @@ updated: 2026-10-29
 >     D --> F["高等教育外向辐射"]
 >     E --> F
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -65,7 +65,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 > - **跨文本交叉印证（Corroboration）** 将单一信源的核心论断置于多元文献网络中比对，检验该论断是否得到主流科学共同体或独立第三方证据的互相印证。
 > - **[[Lateral Reading\|横向阅读]]规程（Lateral Reading）** 突破在单一页面内部上下滑动的纵向阅读习惯，迅速打开新标签页主动检索外部中立来源对该作者与机构的声誉评价，避免被精美的页面设计误导。
 > - **生成式 AI 二手信源溯源与文献追问（AI Source & Evidence Tracing）** 识别生成式 AI 作为第二手信息合成者的本质，主动追问模型输出背后的文献出处、同行评议共识及科学实验依据，对照教科书与一手权威资料排查模型捏造与断章取义。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-29
 > - **自信与校准解耦（decoupling of Confidence & Calibration）** 信任校准取决于信任分配是否具备情境合理性，不能简单还原为操作者个人自信心高低的心理博弈。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 9–10)]]
 > - **过度信任向[[Epistemic Deference\|认识论顺从]]的转化阈值（Overtrust to Deference Threshold）** 当过度信任越过临界点，操作者不仅在行为上顺从，更在[[Epistemology|认识论]]上将最终裁决权威让渡给机器，导致理性信念修正机能陷入瘫痪。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 10–12)]]
 > - **批判性校准[[Scaffolding|脚手架]]（Calibration Scaffolding）** 利用反思机器（Reflection Machines）的[[Socrates|苏格拉底]]追问与[[Defeater|反驳型击败者]]（Rebutting Defeaters）的主动介入，为操作者提供重新校准信任的认知支架。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–24)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

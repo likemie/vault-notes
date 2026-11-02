@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -86,10 +86,6 @@ updated: 2026-10-29
 >     C["穿透国际组织与多边网络通道"] --> D
 >     D --> E["跨国政策流动与多边制度化"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

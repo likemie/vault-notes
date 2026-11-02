@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -70,8 +70,6 @@ updated: 2026-10-29
 > - **结果导向向讨喜度演化的错位** 选民将政治[[Champ|场域]]视为情感投射与道德自我满足的剧场，以“是否可亲讨喜”取代对“能否交付治理结果”的客观评估。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜金鱼缸式的微观道德曝光系统性恶化了现代民主政体的治理能力
 > **探讨维度　政治激励与精英选拔机制** 探讨全景式隐私曝光如何扭曲政治公职的人才供给，并在制度上奖励无信念的平庸官僚。

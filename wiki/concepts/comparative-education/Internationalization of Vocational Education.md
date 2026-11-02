@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-29
 >     B["多能级开放平台（点—线—面）"] --> D
 >     C["跨区域产教合作生态圈"] --> D
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

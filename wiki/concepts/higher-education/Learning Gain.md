@@ -76,7 +76,7 @@ related_arguments:
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -129,10 +129,6 @@ updated: 2026-10-29
 >     Gain --> Impr["微观教学改进：精准调节支架强度"]
 >     Gain --> Gov["宏观质量评估：破除名校声誉偏误"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

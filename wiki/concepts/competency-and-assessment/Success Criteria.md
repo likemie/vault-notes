@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >   - 学生能够基于该因果机制，推导并预测外来殖民对其他原住民群体健康的潜在影响。
 > - **核心评估达成方式（Assessment Task）**
 >   - 撰写一段结构严密的因果论证，必须完整咬合三项证据：(1) 英国外来疾病的传入；(2) 毛利人口的急剧衰减；(3) 既往免疫空白导致新型病原体发挥决定性致死作用。（Clarke et al., 2003; [[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）
-
----
-
-## 围绕概念形成的命题
 
 ---
 

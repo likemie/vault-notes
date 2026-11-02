@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-30
 > - **人身近距接触与现场浸润** 科学社会学家哈里·科林斯（Harry Collins）对 1970 年代横向激发大气压（TEA）激光器实验室复制史的考察表明：仅凭公开论文与图纸，全球无一实验室能够成功复现；所有成功者均曾亲自派遣学者进驻原作者实验室与技师共同调试，且复现者往往无法用语言穷尽其所习得的手法。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **研发与制造的物理邻近性（Physical Proximity）** 半导体物理学家从产线良率攻坚中提炼前沿理论难题，机器人工程师在数控机床旁依据切削振动即时修改机械结构设计；科学研究与实体生产的近距离互动构成了知识迭代的生命线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
 > - **学徒动手技艺先于理论抽象** 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（[[Laser Interferometer Gravitational-Wave Observatory|LIGO]]）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

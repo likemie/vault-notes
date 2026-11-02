@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     C -.经验事实证伪.-> D
 >     D --> H["理论转向：规范本土化 (Norm Localisation) 与内生制度路径"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

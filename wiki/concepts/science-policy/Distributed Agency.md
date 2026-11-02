@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 title: Distributed Agency
 aliases:
   - 分布式主体
@@ -92,10 +92,6 @@ aliases:
 > - **异质行动者网络联结（Heterogeneous Actor Networks）** 打破传统产学研的狭隘闭环，将慈善资本、社区组织、行业标准制定者及普通公众实质性吸纳为[[Innovation Ecosystem|创新生态]]的共同开发者。（pp. 795–796）
 > - **去中心化实验与自发探索（Decentralized Experimentation）** 允许并在制度上资助不同主体从不同技术路径、商业模式与社会治理方式并行探索，防范单一路线锁死。（pp. 796–797）
 > - **网络统筹与战略反思机制（Network Orchestration & Systemic [[Reflexivity]]）** 公共部门扮演网络编织者与催化者角色，建立跨主体学习交流平台与全生命周期的反思性评估机制。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

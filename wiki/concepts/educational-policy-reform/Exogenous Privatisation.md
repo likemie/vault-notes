@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 >     F --> H["商业套利完成，公共教育主权被隐性侵蚀"]
 >     G --> H
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ## 定义
@@ -180,8 +180,6 @@ updated: 2026-10-30
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕后[[Positivism|实证主义]]对实证主义确定性的解构、广义科学体系的确立、中程假设的构建以及多元方法论的开展，学术界形成了四组关键理论命题。
 

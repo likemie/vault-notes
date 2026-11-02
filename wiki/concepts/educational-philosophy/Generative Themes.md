@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -81,10 +81,6 @@ updated: 2026-10-29
 >     C --> D["文化圈解码探究"]
 >     D --> E["生成性主题 (Generative Themes)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

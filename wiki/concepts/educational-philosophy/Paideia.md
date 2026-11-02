@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -124,10 +124,6 @@ updated: 2026-10-30
 >     D --> E["比较教育历史人文范式<br>（Sadler, Kandel, Hans, Ulich: 以人为人本尺度）"]
 >     E --> F["抵御工具理性与技术官僚学校教育（Schooling）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

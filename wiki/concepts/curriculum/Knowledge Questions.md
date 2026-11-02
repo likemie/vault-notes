@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -113,8 +113,6 @@ updated: 2026-10-29
 > 两项任务各按十分制进行整体印象评分，论文分数加倍后占总成绩的三分之二。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–43)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜知识问题通过一般化转换把具体主张带入跨领域[[Epistemology|认识论]]探究
 > **探讨维度　提问转换** 知识问题的课程价值来自具体材料与一般[[Epistemology\|认识论]]结构之间的转换。具体情境保证问题具有分析材料，一般化则使证据、方法、解释和确定性能够跨领域比较。

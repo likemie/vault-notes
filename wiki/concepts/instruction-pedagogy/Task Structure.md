@@ -35,7 +35,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -66,10 +66,6 @@ updated: 2026-10-29
 > - **资源可及性（Available Resources）** 学习材料是由教师预先打包提供，还是需要学生在环境中自主搜寻与筛选。
 > - **教学线索与提示（Instructional Cues）** 任务中内嵌的操作指引、步骤提示与算法支持程度。
 > - **评价标准明确性（Grading Criteria）** 衡量成功解决任务的标准与量规是对学生透明公开还是隐蔽开放。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, p. 316)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

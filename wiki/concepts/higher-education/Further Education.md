@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -95,10 +95,6 @@ updated: 2026-10-30
 >     E["企业自办与外部商业供给"] --> C
 >     D --> F["全周期终身技能支持体系"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

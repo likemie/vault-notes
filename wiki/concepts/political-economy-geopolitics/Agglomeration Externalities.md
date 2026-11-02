@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -105,10 +105,6 @@ updated: 2026-10-29
 >     F --> G["获得供应链地缘安全保险"]
 >     F --> H["<b>集聚外部性严重稀释</b>\n• 本地配套缺失与人才荒\n• 长期制造成本系统性暴涨"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

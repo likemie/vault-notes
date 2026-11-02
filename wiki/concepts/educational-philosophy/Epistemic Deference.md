@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （[[Epistemology|认识论]]顺从 / 认知让渡）
@@ -94,10 +94,6 @@ updated: 2026-10-29
 > - **信念修正机能钝化（Suspension of Belief Revision）** 面对持续累积的外部物理矛盾读数，认知主体丧失根据新证据动态修正信念的程序性能力。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 14–15)]]
 > - **合法权威感剥落（Erosion of Self-Regarding Authority）** 受制于对算法客观性的预设与制度性抗辩的高成本，操作者不再将自身视为合法的最终裁决者。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 16–17)]]
 > - **道德裁决架空（Abdication of Moral Appraisal）** 在关乎生命尊严的重大决策中，操作者退化为机器输出的橡皮图章，导致道德受托责任被架空。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

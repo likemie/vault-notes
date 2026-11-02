@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -122,10 +122,6 @@ updated: 2026-10-29
 >     E --> F
 >     F -->|反作用| G["消解历史情境复杂性与偶然性<br>混淆实然因果与道德应然"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

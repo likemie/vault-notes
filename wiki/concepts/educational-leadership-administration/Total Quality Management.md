@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -109,10 +109,6 @@ updated: 2026-10-29
 >     D["基于数据的统计决策 (SPC/度量)"] --> E
 >     E --> F["卓越教育产出与组织内生演进"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -108,10 +108,6 @@ updated: 2026-10-29
 >     M2 -- "解释与评价<br>(Interpret & Evaluate)" --> P2
 >     P2 -. "反馈与修正循环" .-> P1
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

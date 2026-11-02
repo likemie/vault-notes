@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     C --> H["学校沦为政治灌输与动员工具"]
 >     C --> I["滋生军国主义与排外冲突"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

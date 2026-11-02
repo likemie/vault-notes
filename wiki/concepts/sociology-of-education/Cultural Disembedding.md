@@ -13,7 +13,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-10-29
+updated: 2026-11-02
 tags:
   - cultural-disembedding
   - higher-education
@@ -90,10 +90,6 @@ related_arguments:
 >     D --> E1["微观：逐步学习调适 / 转向文化迷失"]
 >     D --> E2["宏观：生成跨文化反思性与抵抗"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

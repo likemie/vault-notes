@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -72,10 +72,6 @@ updated: 2026-10-29
 > - **公共道德的祛魅与驱逐（Banishment of Moral Convictions）** 现代自由主义因害怕争议而将关于“崇高生活”的哲学探讨排斥在公共决策之外。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
 > - **市场价值的僭越替代（Value Colonization）** 资本市场的短期价格信号与消费热潮被误认为是社会最高理性的表达。
 > - **科技精英的不可知论避险（[[Technological Escapism]]）** 硅谷领袖顺从市场逻辑，以服务消费者（在线购物、外卖游戏）替代服务公共利益（国防、治安、教育）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

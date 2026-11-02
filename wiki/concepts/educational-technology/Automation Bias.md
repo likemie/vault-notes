@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 （自动化偏差 / 弱自动化偏差与强自动化偏差）
@@ -122,10 +122,6 @@ updated: 2026-10-29
 >     
 >     E1 & E2 & E3 --> F["高风险决策严重后果（如误击、误诊、误判）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

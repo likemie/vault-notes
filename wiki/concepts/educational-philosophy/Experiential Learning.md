@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -82,8 +82,6 @@ updated: 2026-10-29
 > 前两项判定见 [[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]]；课程整合见 [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜经验的教育价值取决于它如何影响后续成长
 > **探讨维度　经验品质与连续性** 判断经验学习不能止于活动发生，还需要看学生以后能否获得更广阔、更有意义的经验。

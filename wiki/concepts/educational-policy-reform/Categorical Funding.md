@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -121,10 +121,6 @@ updated: 2026-10-29
 >     E --> F["回溯性论证既定政策正当性并推行行政规训"]
 >     F -.->|强化对定向评估的依赖| A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

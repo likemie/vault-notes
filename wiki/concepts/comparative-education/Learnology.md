@@ -89,10 +89,6 @@ updated: 2026-11-02
 
 ---
 
-## 围绕概念形成的命题
-
----
-
 > [!concept-proposition] 命题一｜跨国教育[[Policy Borrowing|政策借用]]若脱离对微观学习生态的[[Rich and Thick Description|深描]]则注定陷入制度排异
 
 > [!claim] 命题核心主张

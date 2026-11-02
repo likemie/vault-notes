@@ -48,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -102,10 +102,6 @@ updated: 2026-10-29
 >     KB -->|"多源知识动态整合（Knowledge Integration）"| JUG["教师专业判断与临场裁决（Agency）"]
 >     JUG -->|"因地制宜调适"| ACT["情境化的适切教学实践"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

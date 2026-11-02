@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 ---
@@ -66,8 +66,6 @@ updated: 2026-10-22
 > - **预测功能（Anticipatory Function）** 建构系统用于预测和预演未来事件——这使得个人建构不仅是认知结构，更是[[Governmentality\|行为的引导]]机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 4)]]
 
 ---
-
-## 围绕概念形成的命题
 
 个人建构的概念本身更多是理论构件而非争议焦点。Kelly 理论的各推论本身构成了围绕该概念的命题体系，详见 [[Personal Construct Theory]] 的核心命题与机制。
 

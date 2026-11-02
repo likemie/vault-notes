@@ -41,7 +41,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,8 +107,6 @@ updated: 2026-10-29
 > 图中横轴表示教学方法要求的学生活动从被动端移向主动端，纵轴表示[[Student Engagement\|学生投入]]的认知层次。活动要求提高后，原本主要[[Note-Taking|记笔记]]和背诵的 Robert 也必须提问、推测、应用和检验方案，他与 Susan 的投入差距因而缩小。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 58–59, Figure 1)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜教学活动应根据它最可能引出的学习来选择，而不能只按形式或内容名称判断
 > **探讨维度　活动与认知行为的对应** 这一命题关注课程如何从预期理解反推学生必须开展的活动，而不是从教师熟悉的教学形式出发安排课程。

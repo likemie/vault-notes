@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -107,10 +107,6 @@ updated: 2026-10-29
 >     E --> F["多厂商产能竞争驱动<br>良率爬坡与芯片成本暴跌"]
 >     F --> G["民用计算机与工业市场采纳<br>实现通用目的技术自生扩散"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

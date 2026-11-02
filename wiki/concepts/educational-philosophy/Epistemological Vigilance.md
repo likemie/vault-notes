@@ -74,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -140,10 +140,6 @@ updated: 2026-10-29
 >     
 >     D --> E["<b>稳固的高阶认知建构</b><br>• 科学对象自主建构 (Bourdieu / Eacott)<br>• 批判性与创造性协同增益 (Li et al., 2026)<br>• 高质量多模态科学解释建构 (Han & Gutierez, 2026)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

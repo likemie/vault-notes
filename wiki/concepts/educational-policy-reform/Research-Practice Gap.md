@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-29
 >     E --> E3["社会交互共创: 伙伴关系与信任对话<br>(RPP / 反思性专业探究)"]
 >     E1 & E2 & E3 --> F["促进证据知情实践深层落实"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

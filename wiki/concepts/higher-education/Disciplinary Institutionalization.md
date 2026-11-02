@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -81,10 +81,6 @@ updated: 2026-10-29
 >     D --> E["学术学科正式建制化（Academic Discipline）"]
 >     E --> F["持续向产业与公共部门输送前沿人才与颠覆性成果"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

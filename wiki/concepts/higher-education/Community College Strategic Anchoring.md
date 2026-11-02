@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -86,10 +86,6 @@ updated: 2026-10-29
 >     D --> E["劳动力佩尔助学金降低学员门槛"]
 >     E --> F["规模化输出高素质制造技术员与技师"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -83,8 +83,6 @@ updated: 2026-10-30
 > - **制度自选的负向逆向选择** 允许自主选择匿名反向构筑了信息不对称；知名学者绝不自选隐藏，使得选择匿名本身成为暴露弱势地位的非意图信号。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜单盲评审机制赋予高声望机构学者显著的超额录用因果优势
 > **探讨维度　[[Randomised Controlled Trials|随机对照实验]]确证声望偏倚[[Causality|因果性]]** 探讨[[Blinding|盲法]]控制如何消除不可观测混淆[[Variable|变量]]并揭示[[Scientific Credit|学术承认]]的体制特权。

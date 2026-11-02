@@ -32,7 +32,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -52,10 +52,6 @@ updated: 2026-10-29
 > - **[[Scientific Attitude\|科学态度]]与认同（Science-related Attitudes & Identity）** 将科学视为有趣、有用且与自身身份相符的主观认同感。
 > - **科学社会网络（Science [[Social Capital Theory\|social capital]]）** 家族与社交圈中结识从事 [[STEM Education\|STEM]] 行业的人脉与职业指导资源。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 > - **日常科学行为与消费（Science Behaviours & Practices）** 课外参观科学中心、收听科普播客、参与科技社团的日常习惯。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

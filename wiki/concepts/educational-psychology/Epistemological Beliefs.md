@@ -68,7 +68,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >   知识是由无所不知的外部权威向下传递的，还是认知者作为积极建构者从内部生成的。
 > - **【认知的本质】[[Justification for Knowing\|认知的辩护]]（justification for knowing）**
 >   个体如何评估知识主张、运用证据，以及如何在面临不同观点时进行概率性的评价与辩护。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

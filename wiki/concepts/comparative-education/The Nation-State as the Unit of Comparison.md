@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-29
 >     D --> E["横向制度对照与政策借用"]
 >     D --> F["纵向历史因果与情境诠释"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

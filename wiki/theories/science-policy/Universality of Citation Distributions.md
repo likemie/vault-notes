@@ -8,7 +8,7 @@ aliases:
 summary: "由 Filippo Radicchi、Santo Fortunato 与 Claudio Castellano (2008) 提出的科学计量学与科学学核心理论；指出各学科原始引文规模虽因学科体量与引用传统存在数个数量级的差异，但通过本领域同年度篇均引文进行相对标准化（cf = c / ⟨c⟩）后，不同学科的引文概率分布均坍缩至同一条具有普适性的对数正态分布曲线，而在动态重标度下更进一步塌缩至统一轨迹主曲线（Wang & Barabási, 2021）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 17
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -36,15 +36,17 @@ related_persons:
   - "[[Filippo Radicchi]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -98,6 +100,9 @@ updated: 2026-10-31
 >
 > **应用实例** 评估 1978 年发表的计算几何学论著（获 32 次引用）与 2002 年发表的生物医学论著（获 100 次引用）的相对影响力。通过比对各自领域当年的平均被引数（计算几何篇均 3.2 次，$c_f = 10$；生物医学篇均 25 次，$c_f = 4$），证实前者在该领域的相对穿透力与学科地位显著高于后者。
 
+> [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
+> **相对引文标准化确立跨学科客观评价基准** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，不同学科因从业规模和引述传统差异悬殊，原始引文计数缺乏横向可比性；将成果的实际被引频次除以所属学科同年度篇均被引数，能够消除学科容量与交流传统差异，使所有异质学科的引文分布重叠为标准对数正态主曲线，为破除一刀切考核并建立跨学科客观评价提供了科学学数理基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+
 > [!theory-proposition] 命题三｜微观动态重标度变换使异质引文演化轨迹坍缩至跨学科通用主曲线
 > **解释** 普适性不仅存在于静态截面分布，同样支配着单篇文献的时间演化过程。将单篇文献的自然发表时间与被引计数通过内生参数转化为无量纲时间 $\tilde{t} = (\ln t - \mu)/\sigma$ 与无量纲被引 $\tilde{c} = \ln(1 + c/m)/\lambda$，跨越不同学科门类、发表年代与期刊层次的成果引文轨迹在数学上完全重合于标准正态累积分布曲线 $\tilde{c} = \Phi(\tilde{t})$，证明微观层面的注意力衰减与引文增长同样受全局统一的物理演化规律支配。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 211–214)]]
 >
@@ -140,6 +145,6 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学纲领综述中系统评述引文动力学普适性，揭示经同领域同年篇均引文 $c_0$ 相对标准化后各学科引文分布坍缩至对数正态主曲线，并与 WSB 动态生长参数重标度相统一。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 阐明通过篇均引文构建相对标准化指标（$c_f = c / \langle c \rangle$）消解学科尺度差异；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 进一步将普适性拓展为动态引文轨迹向标准累积曲线的重标度坍缩。

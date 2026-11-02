@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -180,8 +180,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 以下命题分别讨论教育目的、实现机制和成立条件。
 

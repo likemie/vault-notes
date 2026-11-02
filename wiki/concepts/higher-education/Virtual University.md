@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >     B -.->|侵蚀脱钩| D["民族国家教育主权与公共文化职能"]
 >     B -.->|边缘化| E["本土学术语言与情境化知识需求"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -121,10 +121,6 @@ updated: 2026-10-29
 >     F -- "否/暗中变更" --> H["评级降级惩罚、扣减挂锁、公开质疑"]
 >     G --> I["彻底阻断研究者自由度与模型依赖性漂移"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

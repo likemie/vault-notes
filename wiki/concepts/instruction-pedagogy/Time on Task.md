@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Time on Task
@@ -127,8 +127,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕任务在轨时间的测量属性及其对学业成效的解释力，形成了两个核心理论命题。
 

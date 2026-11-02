@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     E2 --> R2
 >     REB -.->|削弱/限制| C
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

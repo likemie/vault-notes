@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -94,10 +94,6 @@ updated: 2026-10-29
 >     LOSS --> AI["生成式 AI 介入<br>(最擅长概率模式拼接)"]
 >     AI --> HARM["全流程私厨代劳<br>(固化成长性认识不正义)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

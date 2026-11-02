@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -70,8 +70,6 @@ updated: 2026-10-29
 > | **维度变化卡片分类任务**<br>（Dimensional Change Card Sort, DCCS） | WCST 的简化变体，用于幼儿；切换前阶段按一种标准分类，切换后阶段按另一种标准分类。3 岁以下儿童虽能正确执行切换前阶段，但无法独立完成切换后阶段。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 11]]） |
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜[[Cognitive Flexibility|认知灵活性]]是[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享的[[Executive Function|执行功能]]成分
 > **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]共同基础** 认知转换（灵活性）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的[[Executive Function\|执行功能]]成分之一，构成两者正相关的认知基础。

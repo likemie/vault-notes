@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -103,10 +103,6 @@ updated: 2026-10-29
 >     B --> F[人员转型: 成为技术援助顾问]
 >     D & E & F --> G[固化“北方教导南方”的不平等权力格局]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

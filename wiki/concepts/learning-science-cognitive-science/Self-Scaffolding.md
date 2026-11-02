@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -79,10 +79,6 @@ updated: 2026-10-29
 >     B --> C["阶段 3：自发构建心智隐喻<br>(Self-Scaffolding)"]
 >     C --> D["外部实体工具边际效应递减<br>(高学段/专家型学习者)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

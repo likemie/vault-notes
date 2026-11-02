@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -148,10 +148,6 @@ updated: 2026-10-29
 >     J["公共部门微薄薪酬与反激励规制"] --> C
 >     J --> G
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

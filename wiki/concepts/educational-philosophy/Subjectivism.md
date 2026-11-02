@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -151,10 +151,6 @@ updated: 2026-10-29
 >     E --> F
 >     F -->|"后现代与阐释转向"| G["质性/主观主义重获合法地位：复数的比较教育学"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

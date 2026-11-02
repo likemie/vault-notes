@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -90,10 +90,6 @@ updated: 2026-10-29
 > - **程序合规替代实质决断** 将复杂的伦理与政治抉择外包给法务合规部门与公关顾问，以流程正当掩盖道德决断力的萎缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60–64)]]
 > - **[[Technological Agnosticism|技术不可知论]]与政治脱节** 在科技研发中主张技术中立，宣称技术无善恶，借此逃避技术被威权政权滥用的战略责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–80)]]
 > - **薄弱的[[Cosmopolitanism|世界主义]]与道德涂层** 滥用改变世界与[[Effective Altruism|有效利他主义]]等抽象口号，掩盖对具体民族国家共同体责任的系统性抛弃。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–214)]]
-
----
-
-## 围绕概念形成的命题
 
 ---
 

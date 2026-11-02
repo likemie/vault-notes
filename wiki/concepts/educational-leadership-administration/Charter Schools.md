@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -106,10 +106,6 @@ updated: 2026-10-29
 >     F -->|"未达标或破产"| H["合同终止或关停退出"]
 >     H -->|"责任脱身风险"| I["留滞学生与公共体系承担成本"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

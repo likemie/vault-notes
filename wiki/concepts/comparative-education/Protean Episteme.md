@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -154,10 +154,6 @@ updated: 2026-10-30
 >     Gen1 --> Gen2 --> Gen3 --> Gen4 --> Gen5
 >     E3 -.->|"卡扎米亚斯号召：重塑历史维度，实现史学与社科理性综合"| B2
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

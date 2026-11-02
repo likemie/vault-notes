@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -99,10 +99,6 @@ updated: 2026-10-29
 >     D --> D3["显性计划极易遭受意识形态围剿（如 ATP 被裁撤）"]
 >     D --> D4["缺乏阳光民主审议与全国性战略协调"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

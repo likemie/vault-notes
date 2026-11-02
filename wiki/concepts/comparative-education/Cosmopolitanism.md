@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -97,10 +97,6 @@ updated: 2026-10-29
 >   C -->|过早废除民族国家与共享叙事| E["后国家道德真空与部落化撕裂<br>(Karp & Zamiska, 2025)"]
 >   E --> F["公民凝聚力瓦解与国家防卫意志瘫痪"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

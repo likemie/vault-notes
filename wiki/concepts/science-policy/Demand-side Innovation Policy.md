@@ -57,7 +57,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -114,10 +114,6 @@ aliases:
 >     C --> D["释放学习曲线效应<br>（累计翻番成本降20%-30%/价格暴跌）"]
 >     D --> E["跨越死亡之谷并向民用商业市场自生扩散"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

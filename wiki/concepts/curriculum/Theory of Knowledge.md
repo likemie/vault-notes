@@ -102,7 +102,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -331,8 +331,6 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **最高等级证据** 规定题目写作强调持续聚焦、清晰论证、真实实例、反主张、评价和推论；口头展示强调知识问题、真实情境、有说服力的论证和不同观点。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–40)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!concept-proposition] 命题一｜TOK 通过知识探究与跨学科比较发展[[Reflexivity|反思性]]自主
 > **探讨维度　知识探究与学习者自主** TOK 把学习者置于[[Knowledge Building Theory|知识建构]]过程之中。提问、解释、比较和表达形成连续的认识活动，使学生能够审查[[Source of Knowledge\|知识来源]]，也能反思自身信念与位置。

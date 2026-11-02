@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -131,10 +131,6 @@ updated: 2026-10-30
 >     end
 >     E -.反馈与刺激.-> F
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -170,10 +170,6 @@ updated: 2026-10-29
 >     B -->|政治可行性过滤 (漏斗效应)| C
 >     C --> D
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

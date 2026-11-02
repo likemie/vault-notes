@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -92,10 +92,6 @@ updated: 2026-10-29
 >     E --> F["技术领先与自主赶超完成"]
 >     F --> A
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

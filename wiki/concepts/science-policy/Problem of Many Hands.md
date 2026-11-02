@@ -42,7 +42,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     Causes --> Problem
 >     Problem --> Governance
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

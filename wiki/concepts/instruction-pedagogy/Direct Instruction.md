@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 > [!def] Direct Instruction
@@ -156,10 +156,6 @@ updated: 2026-10-29
 >     D --> E["5. 独立练习 (You do)<br>（变式训练与自动化）"]
 >     E --> F["6. 分布式复习<br>（定期复盘与长期保持）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -100,10 +100,6 @@ updated: 2026-10-30
 >         C2 --> C3["资本深锁消费温室<br>(制造全美公共治理创新荒漠)"]
 >     end
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

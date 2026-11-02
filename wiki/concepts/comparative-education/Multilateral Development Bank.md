@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -111,10 +111,6 @@ updated: 2026-10-29
 >     G --> I["[[Disbursement-Driven Evaluation|放贷驱动评估]]：执行端组织学习停滞"]
 >     H --> I
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

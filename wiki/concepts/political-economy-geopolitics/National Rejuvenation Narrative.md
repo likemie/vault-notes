@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     D1 --> E["总体国家战略：重返全球舞台中心"]
 >     D2 --> E
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -93,10 +93,6 @@ updated: 2026-10-30
 >   G --> H["达特茅斯随机寝室分配 (消除机制 1)"]
 >   G --> I["明星学者意外离世外生冲击 (消除机制 2 & 3)"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

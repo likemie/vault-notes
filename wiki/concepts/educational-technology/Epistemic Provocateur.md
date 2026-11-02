@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -110,10 +110,6 @@ updated: 2026-10-29
 >     E & F --> G["<b>迭代重构提示词 / 手动图文修正</b><br>(巩固 Epistemic Agency)"]
 >     G --> H["<b>生成高品质科学解释制品</b>"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

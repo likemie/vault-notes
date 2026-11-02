@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-10-29
 > - **APA 德尔菲七因素模型（Facione, 1990）** 将理想批判性思考者的情意特征[[Operationalization|操作化]]为 7 个可测维度：求真（Truth-seeking）、开放（[[Open-Mindedness]]）、分析（Analyticity）、系统（Systematicity）、自信（CT Self-confidence）、探究欲（Inquisitiveness）与认知成熟度（Cognitive Maturity）。
 > - **批判精神模型（Critical Spirit, Siegel, 1988）** 强调批判性思考者必须拥有对“良好理由（Good Reasons）”的情感承诺，愿意根据证据改变自身行为与信念。
 > - **反从众与实验求真支柱（Emerson, 1841; Dewey, 1922; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 强调在现实世界中维持批判倾向必须抵御“讨人喜欢”的合群牢笼，敢于承受不合群的社会压力，随时准备“丢弃过去的理论尸体”以顺应物理现实的客观反馈。
-
----
-
-## 围绕概念形成的命题
 
 ---
 

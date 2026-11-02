@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -153,10 +153,6 @@ updated: 2026-10-29
 >     Government -->|联合注资5000万澳元| AERO
 >     AERO -->|法定特许营利分包| Business
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

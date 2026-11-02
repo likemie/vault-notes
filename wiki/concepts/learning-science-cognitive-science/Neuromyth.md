@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -101,10 +101,6 @@ updated: 2026-10-29
 >     E["技术官僚速效问责诉求<br>（追求透明指标与即时效应量）"] --> D
 >     D --> F["教育主体异化<br>（抹杀具身性、社会性与教化自足目的）"]
 > ```
-
----
-
-## 围绕概念形成的命题
 
 ---
 

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 ---
@@ -128,8 +128,6 @@ updated: 2026-10-29
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 围绕学习危机的因果机制与破解路径，学术界与国际政策界确立了两个关键命题。
 
