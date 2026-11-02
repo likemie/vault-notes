@@ -79,6 +79,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -222,3 +223,4 @@ updated: 2026-11-02
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深入剖析战后 NIH 作为多元分布式资助网络支柱的确立过程，以及 2025 年前后因[[Reproducibility Crisis|可重复性危机]]、行政扣留与黄金标准行政令引发的契约重塑。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 统计核心资助老龄化倒挂与首资门槛推迟（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit 02]]），并分析青年 R01 挫折断点效应与专利转化网络（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 清洗并高保真映射 601 万条 NIH 课题资助与主出版物记录（重合度 99.7%），打通公共资助向上游立项与下游专利、临床转化的全景实证网络。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 综述基于 NIH R01 资助打分断点检验早期学术挫折对高影响力代表作产出的强化效应（+6.1%），并评述 HHMI 对人资助与 NIH 传统项目资助对突破性探索的因果对比（pp. 341–350）。

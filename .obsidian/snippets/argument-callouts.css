@@ -25113,3 +25113,134 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 }
 @media print { :is(html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="critique-method"],html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="case"],html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="warning"]:where(:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]))) { background:none !important; box-shadow:none !important; overflow:visible !important; break-inside:avoid; --text-normal:#222; --text-muted:#555; --ccl-ink:#444; } }
 /* <<< METHOD REVIEW CASE LIMITS */
+
+/* >>> FEATURES DEFINITIONS SOURCES · 2026-11-02 */
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) {
+ --fdc-accent:#537f9f; --fdc-ink:#426984; --fdc-ease:cubic-bezier(.22,.68,.25,1);
+ --ac-accent:var(--fdc-accent) !important; --ac-ink:var(--fdc-ink) !important;
+ --fdc-node:var(--background-primary); --fdc-edge:color-mix(in srgb,var(--fdc-accent) 35%,var(--background-modifier-border));
+ container-type:inline-size; position:relative !important;
+ padding:1.2rem 1.4rem 1.1rem !important;
+ background:var(--ac-paper) !important; background-image:none !important;
+ border:1px solid var(--fdc-edge) !important; border-radius:10px !important;
+ box-shadow:none !important; transform:none !important;
+ transition:border-color 260ms var(--fdc-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]):where(.theme-dark *) { --fdc-accent:#98b7cc; --fdc-ink:#b2cadb; --fdc-node:#2b3035; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title {
+ position:relative !important; width:100% !important; box-sizing:border-box;
+ align-items:flex-start !important; gap:.5rem !important;
+ padding:0 0 .85rem !important; margin:0 0 .85rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner {
+ display:block !important; position:relative !important; flex:1 1 0% !important;
+ width:auto !important; max-width:none !important; min-width:0 !important; padding:0 84px 0 0 !important;
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner::before {
+ content:"FEATURES" !important; display:block !important; width:max-content;
+ margin:0 0 .45rem !important; padding:0 0 0 22px !important;
+ font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
+ background:linear-gradient(var(--fdc-accent),var(--fdc-accent)) left center / 12px 2px no-repeat !important;
+ border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--fdc-ink) !important;
+ transition:background-size 280ms var(--fdc-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner::after {
+ content:"" !important; display:block !important; position:absolute; right:0; top:2px;
+ width:64px; height:44px; pointer-events:none;
+ background:var(--fdc-accent); opacity:.5;
+ mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Crect%20x%3D%224%22%20y%3D%225%22%20width%3D%2220%22%20height%3D%2213%22%20rx%3D%221%22/%3E%3Crect%20x%3D%224%22%20y%3D%2226%22%20width%3D%2220%22%20height%3D%2213%22%20rx%3D%221%22/%3E%3Cpath%20d%3D%22M33%209h25M33%2015h18M33%2030h25M33%2036h18%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
+ transform:translateX(-2px); transition:transform 420ms var(--fdc-ease),opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title::after {
+ content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
+ width:24px; height:2px; background:var(--fdc-accent); opacity:.7;
+ transform-origin:left; transition:transform 360ms var(--fdc-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] { --fdc-accent:#59847c; --fdc-ink:#3e6e64; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"]:where(.theme-dark *) { --fdc-accent:#9bbfb1; --fdc-ink:#b8d6ca; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] {
+ --ac-paper:#293238; --background-modifier-border:#42515a;
+ --text-normal:#e2e8eb; --text-muted:#b4c0c7; --text-accent:#bfd0db;
+ --fdc-accent:#788e9b; --fdc-ink:#c5d3dc;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"]:where(.theme-dark *) { --ac-paper:#242c31; --background-modifier-border:#3b4952; --fdc-accent:#8fa6b4; --fdc-ink:#c5d3dc; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-title .callout-title-inner::before { content:"DEFINITION" !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-title .callout-title-inner::before { content:"SOURCE" !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M32%209C24%204%2013%204%204%207v30c10-3%2020-3%2028%202%208-5%2018-5%2028-2V7C50%204%2040%204%2032%209v30M11%2014h13M11%2021h13M40%2014h13M40%2021h13%22/%3E%3C/svg%3E"); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M10%203h39v38H10zM39%203v14l-5-3-5%203V3M18%2024h23M18%2031h18M4%209v32h6%22/%3E%3C/svg%3E"); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content { padding:0 !important; background:none !important; font:400 .92em/1.85 var(--ac-sans) !important; color:var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > p { margin:.8rem 0 !important; padding:0 !important; border:0 !important; color:var(--text-normal) !important; font:inherit !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :first-child { margin-top:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :last-child { margin-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) { display:block !important; margin:0 !important; padding:0 !important; border:0 !important; background:none !important; list-style:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol)::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol)::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li {
+ display:block !important; position:relative !important; grid-column:auto !important; grid-row:auto !important; min-width:0 !important; width:auto !important;
+ margin:0 !important; padding:.95rem .25rem .6rem 1.25rem !important;
+ border:0 !important; border-top:1px solid var(--background-modifier-border) !important; border-radius:0 !important;
+ background:none !important; background-image:none !important; box-shadow:none !important; transform:none !important;
+ color:var(--text-normal) !important; font:400 1em/1.85 var(--ac-sans) !important;
+ letter-spacing:0 !important; text-align:left !important; text-align-last:auto !important; overflow-wrap:anywhere;
+ transition:border-color 220ms ease,background-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li::before {
+ content:"" !important; display:block !important; position:absolute !important;
+ left:.1rem !important; top:1.45rem !important; width:6px !important; height:6px !important;
+ border:1px solid var(--fdc-accent) !important; background:none !important; border-radius:1px !important;
+ box-shadow:none !important; transform:none !important; transition:background-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li > .list-bullet { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type {
+ display:block !important; margin:0 0 .55rem !important; padding:0 !important; border:0 !important;
+ background:none !important; box-shadow:none !important;
+ font:600 1.06em/1.6 var(--ac-serif) !important; color:var(--fdc-ink) !important; letter-spacing:.01em !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li > p { margin:0 !important; padding:0 !important; border:0 !important; background:none !important; color:var(--text-normal) !important; box-shadow:none !important; font:inherit !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] > .callout-content > :is(ul,ol) { display:grid !important; grid-template-columns:repeat(2,minmax(0,1fr)) !important; gap:1rem 1.5rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] > .callout-content > :is(ul,ol) > li:last-child:nth-child(odd) { grid-column:1 / -1 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-content > p:first-child { border-left:2px solid var(--fdc-accent) !important; padding:.15rem 0 .15rem 1rem !important; font-size:1.025em !important; line-height:1.95 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-content > p:first-child > strong:first-of-type { color:var(--fdc-ink) !important; font-family:var(--ac-serif); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child),html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote {
+ margin:1rem 0 0 !important; padding:.8rem 1rem !important;
+ border:0 !important; border-left:2px solid var(--fdc-accent) !important; border-radius:0 !important;
+ background:color-mix(in srgb,var(--fdc-accent) 5%,transparent) !important; box-shadow:none !important;
+ font:400 .98em/1.9 var(--ac-serif) !important; color:#c8d4dc !important; letter-spacing:0;
+ overflow-wrap:anywhere;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child) > em { font-family:inherit !important; font-size:1em !important; line-height:inherit; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote > p { margin:0 !important; color:inherit !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content a.internal-link { color:var(--fdc-ink) !important; text-underline-offset:.22em; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]).is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]).is-collapsed > .callout-title::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]).is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-title .callout-title-inner { min-height:44px; }
+@media (hover:hover) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]):hover { border-color:var(--fdc-accent) !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]):hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]):hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]):not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li:hover { border-color:var(--fdc-accent) !important; background:color-mix(in srgb,var(--fdc-accent) 4%,transparent) !important; transform:none !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li:hover::before { background:var(--fdc-accent) !important; }
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) a:focus-visible { outline:2px solid var(--fdc-accent); outline-offset:3px; }
+@container (max-width:600px) { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] > .callout-content > :is(ul,ol) { grid-template-columns:minmax(0,1fr) !important; gap:.8rem !important; } }
+@container (max-width:360px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner { padding-right:60px !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
+}
+@container (max-width:260px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner { padding-right:0 !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-title .callout-title-inner::after { display:none !important; }
+}
+@media (prefers-reduced-motion:reduce) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])[data-callout][data-callout] *,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])[data-callout][data-callout] *::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])[data-callout][data-callout] *::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])[data-callout][data-callout] > .callout-title::after { animation:none !important; transition:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])[data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"])[data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
+}
+@media print { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) { background:none !important; box-shadow:none !important; overflow:visible !important; break-inside:avoid; --text-normal:#222; --text-muted:#555; --fdc-ink:#444; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child),html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote { color:#444 !important; background:none !important; } }
+/* <<< FEATURES DEFINITIONS SOURCES */

@@ -14,7 +14,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: "2026-11-01"
@@ -134,6 +135,7 @@ updated: 2026-11-02
 > - **80M+** 收录全球文献总量逾 8,000 万篇；引文关联连线逾 17 亿条。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 > - **> 0.99** SciSciNet 与 WoS 在顶刊抽样中的引文一致性相关系数（CCC）。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **28M** 知识热点研究所依托的跨学科全量期刊论著样本（2,800 万篇）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–202)]]
+> - **90%+** 主流文献引文数据库中英语出版物占比超过 90%，反映出全球文献覆盖的语种偏误。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 341–350)]]
 
 ---
 
@@ -144,6 +146,12 @@ updated: 2026-11-02
 > >
 > > - **管理主义唯 JIF 论** 各国科研管理机构广泛采纳 WoS 期刊分区与 JIF 分值作为职称晋升与科研津贴发放的硬性评价抓手。
 > > - **旧金山宣言（DORA）与脱钩论批判** 科学计量学家指出，同一期刊内部单篇被引跨越三个数量级方差；长达 20 年的队列追踪证实，名刊带来的曝光红利在二十年后完全消退，同适应度的论著最终收获相等的[[Ultimate Impact|终极学术影响力]]，过度依赖短期 JIF 扭曲了基础科学选题生态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 206–208, 214–217)]]
+>
+> > [!axis] 商业数据壁垒与语种盲区 vs 全球多源学术数据生态
+> > 科学学与计量学者审视以 WoS 为代表的专有商业引文库在实证研究与全球学术评价中构成的结构性偏差。
+> >
+> > - **语种偏差与商业壁垒批判** 数据库过度偏向成熟易发议题而产生街灯效应；且超过 90% 收录文献为英语出版物，对区域性母语学术期刊与非西方科学贡献存在显著覆盖盲区；加之昂贵的订阅授权费用，加剧了全球学术机构之间的数据获取不平等。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 341–350)]]
+> > - **多源实体对齐与开放基准构建** 学界主张突破单一商业库依赖，将 WoS 与 Scopus、OpenAlex 以及公共资助库（如 NSF/NIH）通过学者姓名消歧与实体链接进行交叉整合，以构建兼顾权威性与开放性的全景科学学数据基础设施。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 341–350)]]; [[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!lessons] 经验教训与启示
 > - **计量标尺异化风险** 单纯用于文献检索与馆藏决策的引文索引被管理主义泛化为科研绩效评价抓手后，导致学界出现针对指标的投机性引文堆砌与期刊影响因子操纵。
@@ -173,3 +181,4 @@ updated: 2026-11-02
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提取 WoS 7 大领域 24,630 位学者全生涯序列，通过跨学科基准归一化十年被引验证随机影响规律与 Q 模型的跨学科普适性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）— 检视百年文献指数增长律（Unit 01, 07）并依托 2,800 万篇全样本确立知识热点突破架构（Unit 09, pp. 200–202）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 将 WoS 顶刊引文记录作为外部黄金验证基准，通过跨库抽样比对检验 SciSciNet 重算引文网络的测量一致性（CCC > 0.99）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将 WoS 定位为科学学全景多源数据体系的中游核心基石，系统剖析其与 Scopus 及 OpenAlex 的多源记录链接规程，并揭示其超过 90% 的英语出版物语种偏误与高昂商业获取壁垒（pp. 341–350）。
