@@ -130,7 +130,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **合作者** 齐·肖（ZhiMin Xiao）、阿迪特·卡西姆（Adetayo Kasim） — 杜伦大学方法学合作团队，共同完成 17 项早期 [[Randomised Controlled Trials\|RCT]] 复算审计。
+> - **共事者** 齐·肖（ZhiMin Xiao）、阿迪特·卡西姆（Adetayo Kasim） — 杜伦大学方法学合作团队，共同完成 17 项早期 [[Randomised Controlled Trials\|RCT]] 复算审计。
 > - **批评者 / 方法论敌** [[Adrian Simpson]] — 杜伦大学数学教育教授，系统批评其工具包联盟表犯下“类别错误”与测量设计混淆。
 
 ---
@@ -147,7 +147,7 @@ updated: 2026-11-02
 > - **单一度量简化风险** 批评者指出“进展月数”将极其复杂的跨学段、跨学科统计差异强行折算为单一的时间维度，容易掩盖干预实施的具体情境依赖性与[[Confidence Interval\|置信区间]]宽度。
 
 > [!warning] 自述局限
-> Higgins 本人多次提醒，工具包中的综合月数绝非一成不变的物理常数，其实际落地成效完全取决于学校基层教师的[[Implementation Fidelity\|实施保真度]]与校本转化能力。
+> Higgins 本人多次提醒，工具包中的综合月数随情境变动，有别于一成不变的物理常数，其实际落地成效完全取决于学校基层教师的[[Implementation Fidelity\|实施保真度]]与校本转化能力。
 
 > [!entry-map] 条目关联
 >

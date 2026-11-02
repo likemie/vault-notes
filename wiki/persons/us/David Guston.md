@@ -57,7 +57,7 @@ updated: 2026-11-02
 > - **代表贡献** 著作《在政治与科学之间：确保科学研究的诚信与产出率》（*Between Politics and Science*，2000），提出国家与科学界签约的核心是在信息不对称下平衡“道德风险”（科研不端）与“逆向选择”（无效研究），确立了现代科学政策的政治学分析传统。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 
 > [!citation-card] 科学契约的政治经济学解析
-> 科学与国家之间的契约关系绝非抽象的道德共识，而是一套高度制度化的委托—代理体制：出资方（国家）通过赋予中介与边界组织特定的规约权，既防范科学家的欺诈与学术不端，又避免直接官僚干预扼杀科学家的[[Creativity|创造力]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
+> 科学与国家之间的契约关系是一套高度制度化的委托—代理体制。抽象的道德共识讲的是另一套关系。出资方（国家）通过赋予中介与边界组织特定的规范权，既防范科学家的欺诈与学术不端，又避免直接官僚干预扼杀科学家的[[Creativity|创造力]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 >
 > *The contractual relationship between science and the state is an institutionalized principal-agent structure: by empowering boundary organizations, the patron ensures integrity and productivity without imposing heavy-handed bureaucratic controls that stifle scientific creativity.*
 
@@ -65,7 +65,7 @@ updated: 2026-11-02
 
 > [!timeline] 生平与职涯
 > - **1987年** 毕业于耶鲁大学，获工程与政治学双学士学位。
-> - **1993年** 获麻省理工学院（MIT）政治学博士学位，师从知名科学政策学者，博士论文奠定了科学契约分析的基础。
+> - **1993年** 获麻省理工学院（MIT）政治学博士学位，师从知名科学政策学者，博士研究奠定了科学契约分析的基础。
 > - **1994年** 与肯·肯尼斯顿（Kenneth Keniston）合编出版《弱化的契约？大学科学与联邦政府》（*The Fragile Contract? University Science and the Federal Government*），系统反思冷战后联邦科研资助危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 > - **2000年** 出版里程碑著作《在政治与科学之间》（*Between Politics and Science*），荣获美国政治学会公共政策最佳著作奖。
 > - **2005年起** 加盟亚利桑那州立大学，创建纳米技术社会中心（CNS-ASU）并领衔发展“[[Responsible Innovation|负责任创新]]”（Responsible Innovation）治理[[Paradigm|范式]]。
@@ -101,8 +101,8 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
-> - **师承／合作者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
+> - **师承／共事者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
+> - **师承／共事者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
 
 ---
 

@@ -87,10 +87,10 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 卡宁认为，教育实践长期落后于工业与医疗领域的根本原因，在于教育界过度迷信所谓的专业自主性，允许教师依靠未经严格科学检验的个人感觉、直觉和故事开展教学。他主张建立类似于美国食品药品监督管理局（FDA）的刚性证据准入机制，要求课堂教学必须严格对照经过实验证明的标准操作规程运行；教师的职责不是自由反思或主观创造，而是准确、忠实地执行被证实有效的结构化干预方案。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
+> 卡宁认为，教育实践长期落后于工业与医疗领域的根本原因，在于教育界过度迷信所谓的专业自主性，允许教师依靠未经严格科学检验的个人感觉、直觉和故事开展教学。他主张建立类似于美国食品药品监督管理局（FDA）的刚性证据准入机制，要求课堂教学必须严格对照经过实验证明的标准操作规程运行；教师的职责是准确、忠实地执行被证实有效的结构化干预方案。自由反思与主观创造，是他反对的做法。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 
 > [!citation-card] 将教学比附为外科手术的争议修辞
-> [[John Hattie|哈蒂]]直接承袭卡宁的逻辑，将教育工作者对量化清单的迟疑批评为职业不成熟，并主张教学应当向外科手术与高山救援看齐。这一比附在批判学者看来不仅极为荒谬，更从根本上抹杀了教学在师生互动、人格塑造与人际伦理关怀中的复杂人文属性。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
+> [[John Hattie|哈蒂]]直接承袭卡宁的逻辑，将教育从业者对量化清单的迟疑批评为职业不成熟，并主张教学应当向外科手术与高山救援看齐。这一比附在批判学者看来不仅极为荒谬，更从根本上抹杀了教学在师生互动、人格塑造与人际伦理关怀中的复杂人文属性。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 >
 > *Hattie echoed Carnine in disparaging skepticism toward checklists as professional immaturity, insisting teaching should emulate surgery and alpine rescue, thereby erasing the humane, complex relational nature of classroom pedagogy.*
 
@@ -104,7 +104,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **思想合作者** Siegfried Engelmann — [[Direct Instruction|直接教学]]法的创立伙伴。
+> - **思想合作伙伴** Siegfried Engelmann — [[Direct Instruction|直接教学]]法的创立伙伴。
 > - **思想借用者** [[John Hattie]] — 在《可见学习》核心章节引用其论断，将教学定性为不成熟职业，为主导式循证技术辩护。
 > - **学术批判者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]; [[Stephen Ball]] — 严厉批判其比附医学的虚妄性，揭示其贬低基层[[Teacher Professional Agency|教师专业自主权]]的去专业化后果。
 
@@ -126,5 +126,5 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[Effective Teaching]] | 概念 | 主张将有效教学固化为类似医学处方的结构化[[Direct Instruction\|直接讲授]]程序。 |
 > | [[Direct Instruction]] | 概念 | 共同开发系统化的直接教学读写课程与[[Behaviorism\|行为主义]]脚本。 |
-> | [[Thomas B. Fordham Institute]] | 组织事实 | 作为其核心作者发表 2000 年里程碑式报告，抨击教育界抵制有效实践。 |
+> | [[Thomas B. Fordham Institute]] | 组织事实 | 作为其核心撰稿人发表 2000 年里程碑式报告，抨击教育界抵制有效实践。 |
 > | [[Teacher Professional Agency]] | 概念 | 极力否定教师主观经验与轶事，倡导以外部标准化清单取代教师专业直觉。 |

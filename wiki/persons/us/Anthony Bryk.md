@@ -120,9 +120,9 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **合作者** 路易斯·戈麦斯 (Louis M. Gomez) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
-> - **合作者** 艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
-> - **合作者** 保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合著者。
+> - **共事者** 路易斯·戈麦斯 (Louis M. Gomez) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合撰者。
+> - **共事者** 艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合撰者。
+> - **共事者** 保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合撰者。
 > - **重构／整合者** 阿梅莉亚·彼得森（[[Amelia Peterson]]） — 提出[[Mechanism Experiments\|机制实验]]与[[Improvement Science\|改进科学]]网络化组织的双向互补整合方案（什么有效 2.0）。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > - **争议对象**[[Improvement Science\|改进科学]]的因果估计稳健性与方法碎片化风险。
 > - **批评立场** 实验科学学者批评改进科学缺乏高[[Internal Validity\|内部效度]]（internal validity）的稳健因果估计，难以直接证实特定局部改变的净因果效应；同时其强调过度改编的实践可能引发方法碎片化。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
 > - **证据依据** NICs 产生的证据以描述性的局部反馈数据为主，较难在不借助严密随机对照设计的条件下排除混杂[[Variable\|变量]]。
-> - **余留问题** Bryk 及其倡导者强调，改进科学并非为宏观二选一设计，而是适应日常教与学的持续小微调整。彼得森进而主张通过[[Mechanism Experiments\|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])
+> - **余留问题** Bryk 及其倡导者强调，改进科学适应日常教与学的持续小微调整。一次性的宏观二选一落在这一设计外面。彼得森进而主张通过[[Mechanism Experiments\|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])
 
 > [!critique] 批评索引
 > - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 指出改进科学在组织层面上能极大促进证据的采纳与实施，但单靠其反馈循环在严密的因果机制确证上仍显不足，因此必须与实验机制设计整合。

@@ -89,7 +89,7 @@ updated: 2026-11-02
 >   - **代表[[Document|文献]]** 1965 年酒商公会建国演说；1979 年双语教育改革指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
 >   - **关键概念** 千年战略视野、国家生存意志、跨族群共同体。
 >   - **阶段转向** 从反对殖民统治的政治动员，转向以极长程理性计算为核心的国家制度建构。
-> - **1979–1980年代 — 语言统合、共有价值观与防卫意志** 依据《[[Goh Report|吴庆瑞报告]]》推动[[Speak Mandarin Campaign|讲华语运动]]与道德教育，强调缺乏文化价值观引领的社会在危机中必将涣散，将共享语言与公民身份作为国家防卫的底座。
+> - **1979–1980年代 — 语言整合、共有价值观与防卫意志** 依据《[[Goh Report|吴庆瑞报告]]》推动[[Speak Mandarin Campaign|讲华语运动]]与道德教育，强调缺乏文化价值观引领的社会在危机中必将涣散，将共享语言与公民身份作为国家防卫的根基。
 >   - **代表文献** 1979 年《[[Goh Report|吴庆瑞报告]]》；1986 年国庆群众大会演说。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–197)]]
 >   - **关键概念** [[Speak Mandarin Campaign|讲华语运动]]、公民身份塑造、集体防卫意志。
 >   - **阶段转向** 从单纯的经济工业化推进，深化为对国民文化心理与国家意识的系统性培育。
@@ -100,7 +100,7 @@ updated: 2026-11-02
 > - **2000–2010年代 — 儒家[[Junzi|君子]]政德与超越形式中立的文明思考** 面对全球化冲击与西方形式[[Value Neutrality|价值中立]]导致的虚无主义，系统倡导儒家君子品格（孝顺父母、忠于家庭、悉心教子、效忠国家），将具体的德性追求确立为小国抵御地缘风险的坚实伦理护城河。
 >   - **代表著作** 2013 年《李光耀观天下》；2020 年《李光耀：论中国、美国与世界》。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 >   - **关键概念** 儒家[[Junzi|君子]]品德、实质美德、超越[[Value Neutrality|价值中立]]。
->   - **阶段转向** 从具体的公共政策制定上升到文明存续、实质伦理与[[Technological Republic|技术共和国]]文化底座的宏观哲学反思。
+>   - **阶段转向** 从具体的公共政策制定上升到文明存续、实质伦理与[[Technological Republic|技术共和国]]文化根基的宏观哲学反思。
 
 ---
 
@@ -112,7 +112,7 @@ updated: 2026-11-02
 >
 > *I am calculating in terms of the next generation, in terms of the next hundred years, in terms of eternity. And believe you me, for the next thousand years, we will be here. It is people who calculate and think in those terms that deserve to survive.*
 
-> [!citation-card] 语言统合与共有文化价值观塑造
+> [!citation-card] 语言整合与共有文化价值观塑造
 > 我们曾用不同语言唱不同的歌。我们不会对同一个笑话发笑，因为如果你用福建话讲笑话，全岛百分之四十的人完全听不懂……一个没有道德价值观引领的社会在压力之下极难保持凝聚力；正是对共同价值观的承诺，决定了移民后裔愿意并在多大程度上捍卫其集体利益。（pp. 195–196）
 >
 > *We sang different songs in different languages. We did not laugh at the same jokes, because you can crack a joke in Hokkien, but forty percent of the population won't follow you... A society unguided by moral values can hardly be expected to remain cohesive under stress. It is a commitment to a common set of values that will determine the degree to which people of recent migrant origin will be willing and able to defend their collective interest.*
@@ -147,7 +147,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **执政同侪与改革合作者** [[Goh Keng Swee|吴庆瑞]]（Goh Keng Swee）、拉惹勒南（S. Rajaratnam）— 共同奠定早期新加坡经济、防卫与双语教育体系。
+> - **执政同侪与改革共事者** [[Goh Keng Swee|吴庆瑞]]（Goh Keng Swee）、拉惹勒南（S. Rajaratnam）— 共同奠定早期新加坡经济、防卫与双语教育体系。
 > - **国际战略对话者** [[Henry Kissinger|亨利·基辛格]]（Henry Kissinger）— 为其著作作序，高度评价其以钢铁意志塑造历史的卓越领导力。
 > - **当代思想重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将其治国经验作为克服西方虚无主义与重构国家能力的典范。
 
@@ -174,10 +174,10 @@ updated: 2026-11-02
 > | 条目 | 类型 | 核心贡献与关联 |
 > |:-----|:-----|:-----|
 > | [[Singapore Civil Service Salary Benchmarking Policy]] | 政策事实 | 1994 年主导确立，将公职薪酬市场化公式法定化，破除公职禁欲主义。 |
-> | [[Speak Mandarin Campaign]] | 政策事实 | 1979 年正式发起，统合多方言丛林为统一国家语言人格，克服族群割裂。 |
+> | [[Speak Mandarin Campaign]] | 政策事实 | 1979 年正式发起，整合多方言丛林为统一国家语言人格，克服族群割裂。 |
 > | [[Goh Report]] | 政策事实 | 1979 年由副总理[[Goh Keng Swee\|吴庆瑞]]主导提出，确立双语教育与道德价值观对国家凝聚力的决定性作用。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡确立为兼具高效制度理性与实质文化德性的治国典范。 |
 > | [[Junzi]] | 概念 | 将儒家模范人格作为公职选拔与公民教育的核心道德坐标。 |
-> | [[Hard Power]] | 概念 | 以千年战略视野与国民防卫服役构建小国不可动摇的常规威慑底座。 |
+> | [[Hard Power]] | 概念 | 以千年战略视野与国民防卫服役构建小国不可动摇的常规威慑根基。 |
 > | 人民行动党（People's Action Party, PAP） | 组织 | 所属政党与政府机构。 |
 > | 新加坡内阁 | 组织 | 所属政党与政府机构。 |

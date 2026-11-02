@@ -102,7 +102,7 @@ updated: 2026-11-02
 
 ---
 
-> [!citation-card] 史蒂文·施特劳斯论次政府政企闭环中的里昂角色（Steven Strauss, 2001）
+> [!citation-card] 史蒂文·施特劳斯论次政府政企互相锁定中的里昂角色（Steven Strauss, 2001）
 > 联邦科研机构与美国企业界纯粹商业议程之间的紧密契合，迫使我们不得不质问：你们是否真的欢迎来自学术共同体尤其是广大研究者的挑战，以及你们的既定目标最终究竟符合谁的利益。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
 >
 > *The dovetailing of [[National Institute of Child Health and Human Development|NICHD]]’s work with the strictly business agenda of corporate America obligates us to question whether you really do welcome challenge from academic folks, not to mention the academic and research community, and if your goals are ultimately in their interest.*
@@ -113,7 +113,7 @@ updated: 2026-11-02
 > - **政商联盟伙伴** 比尔·古德林（Bill Goodling）— 众议院教育委员会主席，直接照搬里昂证词转化为法案条款。
 > - **政商联盟伙伴** 罗伯特·斯威特（Robert Sweet）— 国会高级幕僚兼全国正确阅读基金会主席，连接出版商与委员会。
 > - **学术论敌** [[Ken Goodman]] — [[Whole Language|全语言]]运动先驱，严厉批判里昂借国家权力抹杀阅读人文性与教师自主权。
-> - **学术论敌** [[Patrick Shannon]] — 批判读写教育学者，揭露里昂主导的铁三角商业寻租闭环。
+> - **学术论敌** [[Patrick Shannon]] — 批判读写教育学者，揭露里昂主导的铁三角商业寻租互相锁定。
 
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Scientifically Based Research]] | 概念 | 将该概念从医学临床领域引入并法定化为联邦教育科研最高规约。 |
+> | [[Scientifically Based Research]] | 概念 | 将该概念从医学临床领域引入并法定化为联邦教育科研最高准则。 |
 > | [[Decodification]] | 概念 | 坚决主张将其作为阅读能力习得不可逾越的物理核心与前置条件。 |
 > | [[Subgovernment Theory]] | 理论 | 作为剖析其与国会及教材出版巨头形成封闭利益同盟的代表性官僚主体。 |
 > | [[National Institute of Child Health and Human Development]] | 事实 | 其执掌儿童发展分支并向国会输入政策核心语言的联邦行政机构。 |

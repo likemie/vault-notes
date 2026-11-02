@@ -116,7 +116,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想与理论命题
-> 技术创新与产业竞争优势的演进绝非自发孤立的市场均衡过程，也非线性的供给侧研发补贴所能单独决定，而是由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及纵向供应链协作共同织就的复合制度生态所塑造；产业政策与研发联盟的成败高度取决于能否有效克服下游竞争者之间的保密壁垒，转向赋能关键上游专用设备与材料生态。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]
+> 技术创新与产业竞争优势的演进由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及纵向供应链协作共同织就的复合制度生态所塑造。自发孤立的市场均衡过程与此不同，线性的供给侧研发补贴也不能单独决定这一演进；产业政策与研发联盟的成败高度取决于能否有效克服下游竞争者之间的保密壁垒，转向赋能关键上游专用设备与材料生态。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]
 
 > [!proposition-chain] 国防支持与技术创新的生命周期演变命题（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）
 > - **阶段一：萌芽期首发采购与规模学习孵化** 在新兴[[General Purpose Technology|通用技术]]（如集成电路、计算机架构、分组通信）初期，民用市场需求微弱且无法承受极高制造成本与低良率；军方通过提供 100% 采购兜底垫付研发沉没成本，并通过第二供应商强制跨企工艺转让，驱动企业在[[Learning by Doing|干中学]]中快速下滑学习曲线。
@@ -125,7 +125,7 @@ updated: 2026-11-02
 > - **衍生推论：安全管控收紧对开放创新的侵蚀** 9/11 后联邦研发向短周期战术反恐倾斜、加强学术交流保密审查，极易阻断大学长期基础研究的知识溢出回路，削弱国家[[Innovation Ecosystem|创新生态]]的底层韧性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–33, 40–42)]]
 
 > [!citation-card] 高技术研发联盟成功的关键在纵向供应链协同
-> 研发联合体的经验表明，在竞争激烈的行业中，横向联合研发面临极高的利益冲突与搭便车风险。联盟最持久的价值并不在于联合开发通用的前沿制造工艺，而在于通过纵向用户—供应商合作提升上游设备供应商的技术能力与质量标准，从而使整个产业生态受益。
+> 研发联合体的经验表明，在竞争激烈的行业中，横向联合研发面临极高的利益冲突与搭便车风险。联盟最持久的价值在于通过纵向用户—供应商合作提升上游设备供应商的技术能力与质量标准，从而使整个产业生态受益。联合开发通用的前沿制造工艺与此不同。
 >
 > *The experience of [[Sematech]] suggests that horizontal collaboration among fierce product-market rivals faces severe organizational barriers. The most significant and durable contributions of the consortium arose from its shift to vertical collaboration with equipment and materials suppliers, improving supplier capabilities, standardizing interfaces, and reducing development cycles for the entire domestic industry.* [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–737, 752–754)]]
 
@@ -151,8 +151,8 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
-> - **研究合作者** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
+> - **导师／核心合作伙伴** 内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
+> - **研究合作伙伴** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
 
 ---
 

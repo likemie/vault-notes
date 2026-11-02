@@ -94,13 +94,13 @@ updated: 2026-11-02
 
 ## 核心思想
 
-### 通识教育要培养思维方式，而不是扩大事实存量
+### 通识教育要培养思维方式，事实存量留在次要位置
 
 > [!claim] 作为过程的[[General Education\|通识教育]]
 > 彼得森批判传统学校将教育还原为事实存入（fact-depositing），指出百科全书式的课程让学生疲于在化学、法语与地理间机械吸收孤立信息，却无暇形成历史性思考、科学性思考等可迁移的思维方式。这一主张成为 IB 课程与 [[Theory of Knowledge|TOK]] 设计的核心哲学来源。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 13–16)]]
 
 > [!warrant]- 六学科、TOK、EE 和 [[Chinese Academy of Sciences|CAS]] 分别补足不同缺口
-> 六学科保留知识广度与专业深度；TOK 让学生比较不同[[Areas of Knowledge|知识领域]]的证据和判断；EE 把个人兴趣变为有边界的独立研究；CAS 保护创意、身体行动和社会服务的学习空间。这些组件不是额外装饰，而是对单纯学科备考的结构性修正。
+> 六学科保留知识广度与专业深度；TOK 让学生比较不同[[Areas of Knowledge|知识领域]]的证据和判断；EE 把个人兴趣变为有边界的独立研究；CAS 保护创意、身体行动和社会服务的学习空间。这些组件对单纯学科备考构成结构性修正，在课程结构里占有正式位置。额外装饰说明不了这一位置。
 
 ### 共同标准应与学习对象匹配，不能把所有组件都改造成考试
 
@@ -125,22 +125,22 @@ updated: 2026-11-02
 > [!phase] 他的角色从课程设计者变为制度建立者，再变为交接与反思者
 > - **设计阶段** 他把[[General Education|通识教育]]理念转化为学科广度、深度选项与核心组件的课程结构。
 > - **制度化阶段** 他的关键贡献不只是理念，还包括把资金、学校、考试、家庭风险和大学承认放入同一试验方案。
-> - **交接阶段** 卸任 [[International Baccalaureate|IBO]] 总干事后，他没有继续占据日常执行中心，而是通过理事会、短期 [[United World Colleges|UWC]] 主席任期、教师培训和著作继续影响制度。
+> - **交接阶段** 卸任 [[International Baccalaureate|IBO]] 总干事后，他退出日常执行中心，通过理事会、短期 [[United World Colleges|UWC]] 主席任期、教师培训和著作继续影响制度。
 > - **评价边界** 现有材料能说明他对课程与组织的重要作用，不能把 IB 归因于单一人物；教师、考官、大学、资助者和政府共同提供了制度化条件。
 
 ---
 
 > [!person-network] 关系网络
 > - **共同创制** [[Bob Leach\|鲍勃·利奇]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]]等人分别承担教师动员、课程设计、组织治理和制度整合工作。
-> - **早期合作者** [[Kurt Hahn]] — 共同参与大西洋学院的[[International Education\|国际教育]]实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
+> - **早期共事者** [[Kurt Hahn]] — 共同参与大西洋学院的[[International Education\|国际教育]]实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
 > - **思想审查者** [[Bob Darwish]] — 评估 Peterson 的 IB 课程哲学与[[John Dewey\|杜威]]/[[Paulo Freire\|弗莱雷]][[Active Learning\|主动学习]]理论的契合与局限。
 
 ---
 
 > [!warning] 阅读彼得森时需要区分参与者证言、制度事实与规范判断
 > - **创立者中心风险** 他的著作大量基于亲历经验，容易突出领导者与关键谈判，而压缩教师、学生、地方学校和行政人员的分散贡献。
-> - **官方立场边界** 彼得森明确说明 *Schools Across Frontiers* 不是官方历史，他对 [[Creativity, Action, Service|CASS]] 强制性、分权、资格承认与政府责任的看法不必然得到 [[International Baccalaureate|IBO]] 或 [[United World Colleges|UWC]] 认可。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
-> - **证据类型边界** 学生称 EE 有助于大学过渡、校友称 UWC 改变了人生，都是有价值的经验证据，但不是独立因果评估。
+> - **官方立场边界** 彼得森明确说明 *Schools Across Frontiers* 属于个人记述，其地位有别于官方历史，他对 [[Creativity, Action, Service|CASS]] 强制性、分权、资格承认与政府责任的看法不必然得到 [[International Baccalaureate|IBO]] 或 [[United World Colleges|UWC]] 认可。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
+> - **证据类型边界** 学生称 EE 有助于大学过渡、校友称 UWC 改变了人生，都是有价值的经验证据，独立因果评估则属于另一证据类型。
 > - **术语时代差异** 彼得森讨论的 CASS 与后来 [[Chinese Academy of Sciences|CAS]] 的完成规则不完全相同，不能把 1980 年代的规范性争论直接当成当代制度说明。
 
 ---
@@ -148,9 +148,9 @@ updated: 2026-11-02
 > [!entry-map] 彼得森条目的主要知识节点
 > | 类别 | 条目 | 关联方式 |
 > |---|---|---|
-> | 核心课程 | [[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]、[[Creativity, Action, Service\|创意、行动、服务]] | 分别对应[[Epistemology\|认识论]]反思、独立研究与真实行动 |
+> | 核心课程 | [[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展研究]]、[[Creativity, Action, Service\|创意、行动、服务]] | 分别对应[[Epistemology\|认识论]]反思、独立研究与真实行动 |
 > | 制度建立 | [[Founding of the International Baccalaureate\|国际文凭创立]]、[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 把课程理念转化为可测试、筹资和获得大学承认的制度；连接学校招募、考试实施、大学承认、筹资和政府谈判，使项目从课程倡议转为常设组织。 |
 > | 组织网络 | [[International Baccalaureate\|国际文凭]]、[[United World Colleges\|联合世界书院]] | 前者提供跨国资格，后者提供寄宿制[[Intercultural Education\|跨文化教育]]场景 |
 > | 创立机构 | [[IB Diploma Programme]] | 创立机构。 |
-> | 主要合作者 | [[Kurt Hahn\|库尔特·哈恩]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]] | 分别连接教育愿景、执行交接与治理协调 |
+> | 主要共事者 | [[Kurt Hahn\|库尔特·哈恩]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]] | 分别连接教育愿景、执行交接与治理协调 |
 > | 主要史料 | [[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1)]]、[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4)]]、[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7)]] | 从创办起点、制度扩展与第二个十年反思三个阶段追踪其角色 |

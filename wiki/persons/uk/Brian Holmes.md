@@ -170,7 +170,7 @@ updated: 2026-11-02
 > *Educational problems are rooted in cultural lag or asynchrony—the tension arising when rapid changes in socio-economic techniques clash with deeply entrenched, slow-moving normative mental states and institutions.*
 
 > [!citation-card] 规范法则与权变社会学法则的[[Ontology|本体论]]二元分立
-> 霍姆斯指出，规范法则是人为设立的道德公约，构成学校运行所处的深层文化情境；而社会学法则则是假说性陈述，用以描述机构功能的实际运行。与物理学定律不同，社会学法则不具有超越时空的绝对普适性，而是具有严格的情境权变性（contingent），其有效性完全受制于适用的初始条件。（Holmes, 1981, pp. 78–80; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 62–63]]）
+> 霍姆斯指出，规范法则是人为设立的道德公约，构成学校运行所处的深层文化情境；而社会学法则则是假说性陈述，用以描述机构功能的实际运行。与物理学定律不同，社会学法则不具有超越时空的绝对普适性，它具有严格的情境权变性（contingent），其有效性完全受制于适用的初始条件。（Holmes, 1981, pp. 78–80; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 62–63]]）
 >
 > *Normative laws are man-made and can be accepted, rejected or changed by man... On the other hand, sociological laws... are hypothetical, and if they are to be scientific, should be refutable... sociological laws are not universally valid: they are contingent, in the sense that... they are dependent on the conditions under which they are to be applied.*
 
@@ -231,7 +231,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** 约瑟夫·劳威斯、[[Nicholas Hans|尼古拉斯·汉斯]] — IOE 比较教育学系前辈与合著者，共同主编《世界教育年鉴》；
+> - **师承／共事者** 约瑟夫·劳威斯、[[Nicholas Hans|尼古拉斯·汉斯]] — IOE 比较教育学系前辈与合撰者，共同主编《世界教育年鉴》；
 > - **论辩同行（英国本土）** [[Edmund King|埃德蒙·金]]（Edmund King） — 就[[Nomothetic|通则式]]预测[[Policy Science in Comparative Education|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
 > - **论辩同行（美国实证学派）** [[C. Arnold Anderson|阿诺德·安德森]]、[[Philip Foster|菲利普·福斯特]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]] — 围绕恒常普遍规律 vs 权变情境法则展开跨大西洋论辩；
 > - **论辩同行** [[George Bereday|乔治·贝雷迪]] — 就演绎[[Problem Approach|问题法]] vs 归纳区域研究比较展开跨大西洋大论战；

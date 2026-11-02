@@ -86,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 现代工程与产业技术绝非孤立学科知识的机械拼接，而是基础科学与产业实际问题深度融合的系统工程；高等教育体系必须坚决破除 19 世纪遗留下来的狭隘系所行政壁垒，通过具有严苛期中问责与十年[[Sunset Provisions|日落条款]]的跨学科中心实体，强制促成学术界与产业界的战略互动，将大学前沿研发活力直接转化为国家工业[[Competitiveness|竞争力]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–374)]]
+> 现代工程与产业技术是基础科学与产业实际问题深度融合的系统工程。孤立学科知识的机械拼接，是他拒绝的理解；高等教育体系必须坚决破除 19 世纪遗留下来的狭隘系所行政壁垒，通过具有严苛期中问责与十年[[Sunset Provisions|日落条款]]的跨学科中心实体，强制促成学术界与产业界的战略互动，将大学前沿研发活力直接转化为国家工业[[Competitiveness|竞争力]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–374)]]
 
 > [!citation-card] 布洛赫论工程研究与基础科学的共生融合
 > 在工程界，科学研究与工程往往没有被很好地关联在一起。我对这种将工程学非黑即白地割裂开来的陈旧观念感到震惊。我们关注的焦点正是将基础研究与工程紧密连接，从而改变科学界与工程界的固有生态。
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > *The whole focus was that in the engineering community (scientific) research was not associated with engineering. I knew about engineering, so I was appalled at this black and white idea of what engineering's all about. Out of this concern was our focus of relating Basic Research to engineering... to change both science and engineering.* [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 370)]]
 
 > [!citation-card] 布洛赫论破除传统大学学术院系壁垒
-> 真正的问题不在于中心，而在于院系。我是反对传统学术院系的，我认为大学应该彻底摆脱它们。现实中根本不存在孤立的化学工程或机械工程，它们在实际工程问题中是天然交融的。
+> 问题出在院系。我反对传统学术院系，认为大学应当摆脱它们。现实中根本不存在孤立的化学工程或机械工程，它们在实际工程问题中是天然交融的。
 >
 > *The problem isn't the centers it's the departments. I'm against academic departments. I think they should get rid of them. There is no such thing as chemical engineering or mechanical engineering by themselves. They meld.* [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 

@@ -98,7 +98,7 @@ updated: 2026-11-02
 > 自由主义的本质是实现普遍的民主平等与精神解放，而非纵容资本无序竞争的盲目个人主义；面对工业文明滋生的市侩庸俗与社会野蛮化，唯有克服英格兰对国家权力的传统疑忌，将国家理解为“全民族集体意志与法人行动力量”，通过国家统筹组织高质量公立中等教育并灌注古典人文主义[[Bildung|精神教化]]（[[Bildung]] / *Culture*），才能超越阶级裂痕，在保障秩序的同时达成人的整全发展。
 
 > [!citation-card] 国家作为全民族代表性行动力量与文化的实现
-> 教育的终极目标在于培育文化，而文化若无国家的积极干预绝无法达成。阿诺德将国家界定为全民族在集体与法人意义上的代表性行动力量，强调国家行动并非外在强加的专制压迫，而是全民族集体最高理性与道德自我的自我实现。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 38)]]
+> 教育的终极目标在于培育文化，而文化若无国家的积极干预绝无法达成。阿诺德将国家界定为全民族在集体与法人意义上的代表性行动力量，强调国家行动是全民族集体最高理性与道德自我的自我实现。外在强加的专制压迫，是他拒绝的界定。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 38)]]
 >
 > *Culture is not possible without the State. The State is the nation in its collective and corporate character. The action of the State is the action of each of us, acting through the whole nation, to [[Achieve]] what no single individual could achieve alone.*
 
@@ -128,7 +128,7 @@ updated: 2026-11-02
 ---
 
 > [!citation-card] 卡扎米亚斯论阿诺德跨越行政借用的准历史文化分析突破
-> 卡扎米亚斯在《被遗忘的人，被遗忘的母题》中将阿诺德与[[Michael Sadler|萨德勒]]并列为英国比较传统的奠基双璧，指出阿诺德对法国图卢兹公学的考察绝非机械借用，而是准确抓住了民主平等时代国家作为文明代理人的哲学本质，为 20 世纪历史学派的繁茂植下了最深沉的思想根苗。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–39)]]
+> 卡扎米亚斯在《被遗忘的人，被遗忘的母题》中将阿诺德与[[Michael Sadler|萨德勒]]并列为英国比较传统的奠基双璧，指出阿诺德对法国图卢兹公学的考察准确抓住了民主平等时代国家作为文明代理人的哲学本质，已超出机械借用，为 20 世纪历史学派的繁茂植下了最深沉的思想根苗。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–39)]]
 >
 > *Arnold, alongside Sadler, represented the great British tradition of comparative analysis that elevated educational study above mere utilitarian borrowing into the realm of political philosophy and cultural interpretation.*
 
@@ -159,7 +159,7 @@ updated: 2026-11-02
 > > 争论焦点在于以古典人文学科为核心的教化理想是服务于社会等级再生产，还是全民族共同的文化解放工具。
 > >
 > > - **功利主义与大众激进派** 批评其文化理想过于偏向希腊罗马古典人文学科，脱离现代工业生产实际与工人阶级的实用技能需求。
-> > - **Arnold, M.（1869）** 坚信真正的“文化”追求的是全人整全完美（甘美与光明），绝非特权阶级的傲慢装饰，必须通过国家公立中等教育向全体大众普遍开放。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–39)]]
+> > - **Arnold, M.（1869）** 坚信真正的“文化”追求的是全人整全完美（甘美与光明），必须通过国家公立中等教育向全体大众普遍开放。特权阶级的傲慢装饰，是他拒绝的文化形象。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–39)]]
 
 > [!warning] 时代局限
 > 阿诺德的比较分析主要依托敏锐的个人智识观察与宏观文化直觉，缺乏系统经验史料的定量统计工具与跨国对照控制设计；在社会阶级剖析上带有维多利亚文人知识分子的温和改良色彩。

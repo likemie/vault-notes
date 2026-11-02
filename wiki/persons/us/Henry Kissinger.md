@@ -68,7 +68,7 @@ updated: 2026-11-02
 
 > [!timeline] 生平与职涯
 > - **1923** 出生于德国巴伐利亚菲尔特的一个犹太家庭，1938 年为躲避纳粹迫害举家移民美国。
-> - **1950–1954** 在哈佛大学完成本硕博学业，博士论文《恢复的世界》（*A World Restored*）系统奠定其十九世纪欧洲梅特涅均势外交思想体系。
+> - **1950–1954** 在哈佛大学完成本硕博学业，博士研究《恢复的世界》（*A World Restored*）系统奠定其十九世纪欧洲梅特涅均势外交思想体系。
 > - **1954–1969** 任教于哈佛大学政府系，出版《核武器与对外政策》（1957），确立其作为顶尖防务战略思想家的学术声誉。
 > - **1969–1977** 连续出任尼克松与福特政府的国家安全事务助理和国务卿，主导结束越南战争谈判、开启中美关系破冰与美苏核军控条约签署，1973 年获诺贝尔和平奖。
 > - **2000** 为[[Lee Kuan Yew|李光耀]]回忆录《从第三世界到第一世界》撰写长篇序言，高度评价卓越领袖性格对历史演进的决定性塑造作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
@@ -93,10 +93,10 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 基辛格主张国际和平绝非源于抽象道德说教或单方面善意，而是建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上；在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与[[Grit|坚毅]]决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
+> 基辛格主张国际和平建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上。抽象道德说教或单方面善意与此不同。在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与[[Grit|坚毅]]决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 
 > [!citation-card] 基辛格论领袖性格对历史环境的决定性突破
-> 究竟是环境还是个人性格塑造历史进程的古老争论，最终在[[Lee Kuan Yew|李光耀]]的领导成就面前以后者胜出而告终。卓越领袖绝非顺应既有条件的被动管理者，而是能够在虚无与险境中重新界定国家可能性的伟大开拓者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000, p. x; Karp & Zamiska, 2025, p. 197)]]
+> 究竟是环境还是个人性格塑造历史进程的古老争论，最终在[[Lee Kuan Yew|李光耀]]的领导成就面前以后者胜出而告终。卓越领袖是能够在虚无与险境中重新界定国家可能性的伟大开拓者。顺应既有条件的被动管理者与此不同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000, p. x; Karp & Zamiska, 2025, p. 197)]]
 >
 > *The ancient argument whether circumstance or personality shapes events was settled in favour of the latter... Great leaders are those who redefine what is possible in the face of despair.*
 
@@ -111,15 +111,15 @@ updated: 2026-11-02
 ---
 
 > [!citation-card] 卡普与扎米斯卡论基辛格与领袖性格的历史裁决
-> 基辛格对[[Lee Kuan Yew|李光耀]]领导成就的精辟总结，不仅重新确立了卓越领袖在历史进程中的核心能动性，也给当代盲目迷信官僚程序与去英雄化后现代思潮敲响了警钟——没有开拓型领袖的魄力与担当，任何重大制度跃升与国家生存奇迹都无从谈起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
+> 基辛格对[[Lee Kuan Yew|李光耀]]领导成就的精辟总结，不仅重新确立了卓越领袖在历史进程中的核心能动性，也给当代盲目迷信官僚程序与去英雄化后现代思潮敲响了警钟——没有开拓型领袖的魄力与担当，任何重大制度提升与国家生存奇迹都无从谈起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 >
 > *Kissinger's assessment of Lee Kuan Yew settled the debate in favour of personality shaping events, serving as a powerful reminder that without bold and heroic leadership, civilizations cannot survive the tests of time.*
 
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** Richard Nixon — 紧密战略搭档，共同开辟中美破冰与冷战大国外交新格局。
-> - **师承／合作者** William Y. Elliott — 哈佛大学博士导师与保守主义政治哲学引路人。
+> - **师承／合作伙伴** Richard Nixon — 紧密战略搭档，共同开辟中美破冰与冷战大国外交新格局。
+> - **师承／合作伙伴** William Y. Elliott — 哈佛大学博士导师与保守主义政治哲学引路人。
 > - **学生／继承者** Brent Scowcroft — 门生与国家安全事务助理继承者，延续现实主义温和派路线。
 > - **深度互信者** [[Lee Kuan Yew]] — 终生学术与战略挚友，高度互鉴领袖治理艺术与小国生存哲学。
 > - **批评者／论敌** [[Noam Chomsky]] — 长期左翼批评者，严厉谴责其实实外交导致的地缘干涉与人权代价。

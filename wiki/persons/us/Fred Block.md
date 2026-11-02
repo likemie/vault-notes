@@ -87,7 +87,7 @@ updated: 2026-11-02
 > - **1947** 出生于美国。后于哥伦比亚大学获得学士学位，并在加利福尼亚大学伯克利分校获得社会学博士学位。
 > - **1970s–1980s** 任教于宾夕法尼亚大学社会学系，期间发表经典著作《国家权力的根基》（*The Roots of International Economic Disorder*, 1977）与《国家自主性的唯物主义理论》（1977），成为新马克思主义与韦伯主义国家自主性理论论战的核心代表人物之一。
 > - **1990s** 转任加利福尼亚大学戴维斯分校社会学系教授，深耕经济社会学与福利国家转型研究，系统重访卡尔·波兰尼的《大转型》，推动经济社会学“嵌入性”概念的当代复兴。
-> - **2000s** 在福特基金会与长景研究所资助下，聚焦美国联邦研发投资与产业政策，于 2008 年在《Politics & Society》发表标志性论文《逆流而上：美国[[Developmental Network State|隐藏的发展型国家]]的崛起》，正式奠定发展型网络国家（DNS）理论。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–170)]]
+> - **2000s** 在福特基金会与长景研究所资助下，聚焦美国联邦研发投资与产业政策，于 2008 年在《Politics & Society》发表标志性文章《逆流而上：美国[[Developmental Network State|隐藏的发展型国家]]的崛起》，正式奠定发展型网络国家（DNS）理论。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–170)]]
 > - **2010s–至今** 与玛格丽特·萨默斯（Margaret Somers）合著《[[Market Fundamentalism|市场原教旨主义]]的权力》（*The Power of Market Fundamentalism*, 2014），持续介入美国当代产业战略、民主问责与累进资本税制改革的公共辩论。
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-11-02
 >   - **代表著作** *The [[ROOTS]] of International Economic Disorder* (1977); *Revising State Theory: Essays in Politics and Postindustrialism* (1987)。
 >   - **关键概念／方法** 国家自主性、后工业转型、制度结构分析。
 >   - **阶段转向** 从结构马克思主义国家争论转向经验历史制度分析与[[Post-Fordism|后福特制]]组织演变。
-> - **1990s–2000s — 波兰尼复兴、虚构商品与[[Knowledge-Based Economy|知识经济]]** 阐发波兰尼双重运动理论，指出自由市场并非自发形成而是国家制度建构的产物；将劳动力、土地与货币三类虚构商品扩展至当代知识产权。
+> - **1990s–2000s — 波兰尼复兴、虚构商品与[[Knowledge-Based Economy|知识经济]]** 阐发波兰尼双重运动理论，指出自由市场是国家制度建构的产物，并反驳自发形成的说法；将劳动力、土地与货币三类虚构商品扩展至当代知识产权。
 >   - **代表著作** *Towards a New Understanding of Economic Modernity* (2002); *Swimming Against the Current: The [[Research in Schools Evaluation|RISE]] of a [[Developmental Network State|Hidden Developmental State]] in the United States* (2008)。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–206)]]
 >   - **关键概念／方法** [[Developmental Network State|发展型网络国家]]、[[Market Fundamentalism|市场原教旨主义]]、虚构商品、[[Pasteur's Quadrant|巴斯德象限]]。
 >   - **阶段转向** 全面转向对美国科技创新体制的政治经济学实证考察，揭示国家隐形介入与意识形态神话的断裂。
@@ -109,10 +109,10 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 现代美国的真正成功并非来自自由市场的无干预自发调节，而是源于冷战后悄然成型的去中心化“[[Developmental Network State|发展型网络国家]]”。由于两党政治逻辑与[[Market Fundamentalism|市场原教旨主义]]意识形态的束缚，这一国家机器不得不以隐形形态在暗中运作；唯有破除市场神话、克服知识商品化障碍，并将公帑投入与公众收益、劳工技能及民主问责有机绑定，国家创新能力才能真正服务于包容性繁荣。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172, 193–204)]]
+> 现代美国的真正成功源于冷战后悄然成型的去中心化“[[Developmental Network State|发展型网络国家]]”。自由市场的无干预自发调节，是他拒绝用来解释这一成功的说法。由于两党政治逻辑与[[Market Fundamentalism|市场原教旨主义]]意识形态的束缚，这一国家机器不得不以隐形形态在暗中运作；唯有破除市场神话、克服知识商品化障碍，并将公帑投入与公众收益、劳工技能及民主问责有机绑定，国家创新能力才能真正服务于包容性繁荣。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172, 193–204)]]
 
 > [!citation-card] 隐藏在聚光灯下的国家创新机器
-> 各种发展型国家职能机构并非处于地下或秘密运作；相反，提供技术创新扶持的机构在商业界广泛宣传其服务，并在官网上炫耀成功案例。如同爱伦·坡小说中的‘被窃的信件’，隐藏的发展型国家就明明白白隐藏在众目睽睽之下。然而，由于市场原教旨主义意识形态的全面胜利，它在公共辩论中被彻底隐形了。[[Argument_Block_2008_PS|(Block, 2008, pp. 182–183)]]
+> 各种发展型国家职能机构公开运作。提供技术创新扶持的机构在商业界广泛宣传其服务，并在官网上炫耀成功案例。地下或秘密运作，是他要纠正的印象。如同爱伦·坡小说中的‘被窃的信件’，隐藏的发展型国家就明明白白隐藏在众目睽睽之下。然而，由于市场原教旨主义意识形态的全面胜利，它在公共辩论中被彻底隐形了。[[Argument_Block_2008_PS|(Block, 2008, pp. 182–183)]]
 >
 > *Like the purloined letter, the hidden developmental state is hidden in plain view. But it has been rendered invisible by the success of market fundamentalist ideology... the play of partisan politics has been the key factor in keeping this developmental activity largely hidden from public view.*
 
@@ -122,7 +122,7 @@ updated: 2026-11-02
 > *The state agencies that supported civilian technologies in this era are fundamentally different from the agencies that were central to the 'developmental state' in Japan... the postindustrial transition has made that earlier model obsolete. Innovation requires decentralized networks and collaborative initiatives rather than top-down bureaucratic direction.*
 
 > [!citation-card] 知识作为虚构商品与科研协作障碍
-> 美国发展型网络国家受到市场原教旨主义影响，将知识等同于普通商业商品，催生了严苛的知识产权专有体制。然而知识本质上并非商品；激进的排他性产权主张直接构筑了组织间跨界研发协作的壁垒，因担忧合作方夺走专利而遏制了本应开展的合作，直接伤害了科学共同体赖以生存的开放交流。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–197)]]
+> 美国发展型网络国家受到市场原教旨主义影响，将知识等同于普通商业商品，催生了严苛的知识产权专有体制。然而知识本质上有别于商品；激进的排他性产权主张直接构筑了组织间跨界研发协作的壁垒，因担忧合作方夺走专利而遏制了本应开展的合作，直接伤害了科学共同体赖以生存的开放交流。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–197)]]
 >
 > *Knowledge is not a commodity, and aggressive ownership claims threaten the open debate and discussion on which scientific communities depend. Fear that one of the other collaborators might gain ownership of any knowledge that is produced can act as a powerful deterrent to launching cross-firm research collaborations.*
 
@@ -141,7 +141,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** 彼得·埃文斯（Peter Evans） — 著名发展社会学家，在 2007 年伯克利研讨会上向布洛克首创提议使用“[[Developmental Network State|隐藏的发展型国家]]”术语。
+> - **师承／合作伙伴** 彼得·埃文斯（Peter Evans） — 著名发展社会学家，在 2007 年伯克利研讨会上向布洛克首创提议使用“[[Developmental Network State|隐藏的发展型国家]]”术语。
 > - **制度对照／理论对话** [[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson） — 奠定东亚科层发展型国家（DBS）理论，布洛克将其作为后工业去中心化创新环境下发展型网络国家（DNS）的历史对照。
 > - **[[Epistemology|认识论]]先驱** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 提出[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，布洛克以此作为解释后工业高科技创新既探索基础规律又攻关现实应用的认识论基石。
 > - **思想渊源** 卡尔·波兰尼（Karl Polanyi） — 提出虚构商品与双重运动理论，布洛克将其扩展至知识产权异化批判与当代[[Market Fundamentalism|市场原教旨主义]]分析。

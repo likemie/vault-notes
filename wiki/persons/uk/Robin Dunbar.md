@@ -58,7 +58,7 @@ updated: 2026-11-02
 
 > [!timeline] 生平与职涯
 > - **1947** 出生于英国利物浦，后就读于牛津大学莫德林学院并获得博士学位。
-> - **1993** 发表里程碑论文《人类新皮质大小、群体规模与语言的协同演化》（*Co-evolution of Neocortex Size, Group Size, and Language in Humans*），正式确立[[Dunbar's Number|邓巴数]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
+> - **1993** 发表里程碑文章《人类新皮质大小、群体规模与语言的协同演化》（*Co-evolution of Neocortex Size, Group Size, and Language in Humans*），正式确立[[Dunbar's Number|邓巴数]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **1998–2007** 担任利物浦大学进化心理学教授。
 > - **2007–2018** 出任牛津大学认知与进化[[Ethnography|人类学研究]]所所长。
 

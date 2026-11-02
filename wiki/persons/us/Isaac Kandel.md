@@ -137,7 +137,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 任何国家的教育体系绝非孤立的机械装置，乃是由独特的历史传统、[[National Character\|民族性格]]、政治信仰与社会力量综合塑造的活体。比较教育学的真正目的在于穿透表层办学经验，把握决定教育实践的深层无形力量与哲学前提，借由他者镜鉴深入反思本国教育面临的核心矛盾。面对极权主义将教育沦为政治灌输工具的威胁，比较教育学者必须坚守人文主义底线，捍卫个体自由发展与民主社会的共同基石。
+> 任何国家的教育体系乃是由独特的历史传统、[[National Character\|民族性格]]、政治信仰与社会力量综合塑造的活体。孤立的机械装置是对教育体系的另一种想象。比较教育学的真正目的在于穿透表层办学经验，把握决定教育实践的深层无形力量与哲学前提，借由他者镜鉴深入反思本国教育面临的核心矛盾。面对极权主义将教育沦为政治灌输工具的威胁，比较教育学者必须坚守人文主义底线，捍卫个体自由发展与民主社会的共同基石。
 
 坎德尔将比较教育视为政治学与政治哲学的分支，在学科史上首次将主权国家确立为统领全局的首要情境解释[[Independent Variable|自变量]]，深入阐发了古典政治哲学的政体与教化传统。
 
@@ -179,7 +179,7 @@ updated: 2026-11-02
 这一政治镜像论同时承接了历史主义母题的核心要求，必须深入学校外部的深层社会历史力量。
 
 > [!citation-card] 探求制度背后的历史无形力量
-> 为了理解教育体系，我们必须认识到学校绝非孤立存在，它是国家精神与社会历史力量的投影。比较教育研究的任务在于寻找那些支配学校外部的无形决定力量。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
+> 为了理解教育体系，我们必须认识到学校是国家精神与社会历史力量的投影。孤立存在是对学校的另一种理解。比较教育研究的任务在于寻找那些支配学校外部的无形决定力量。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 >
 > *In order to understand, appreciate and evaluate the real meaning of the educational system of a nation, it is essential to know something of its history and traditions, of the forces and attitudes governing its social organization.*
 
@@ -236,7 +236,7 @@ updated: 2026-11-02
 > >
 > > - **Harold Noah and Max Eckstein（1969）** 批评历史-哲学路径缺乏客观假说检验规程，处于学科演进的“前科学力量与因素阶段”。
 > > - **[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes，1965）** 批评历史学派面向过去而非面向未来，认为科学比较教育的标志是预测而非回顾性解释。
-> > - **[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] 的[[Epistemology|认识论]]辩护** 卡扎米亚斯援引[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学理论指出，坎德尔等学者的历史比较绝非不可检验的主观玄思，而是能够从具体历史形态中提炼出具有有限归纳效力的探索性[[Working Hypothesis|工作假说]]（Working [[Hypothesis|hypotheses]]）；战后实证学派对历史维度的武断放逐，不仅未带来真正的科学普适规律，反而导致学科陷入严重的“[[Historical Amnesia|历史健忘症]]”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
+> > - **[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] 的[[Epistemology|认识论]]辩护** 卡扎米亚斯援引[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学理论指出，坎德尔等学者的历史比较能够从具体历史形态中提炼出具有有限归纳效力的探索性[[Working Hypothesis|工作假说]]（Working [[Hypothesis|hypotheses]]）。不可检验的主观玄思是对这种历史比较的另一种定性。战后实证学派对历史维度的武断放逐，不仅未带来真正的科学普适规律，反而导致学科陷入严重的“[[Historical Amnesia|历史健忘症]]”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 >
 > > [!axis] [[Whiggism\|辉格史观]]与[[National Character\|国民性]][[Construct\|构念]]的虚妄
 > > 卡扎米亚斯作为战后青年学者对坎德尔历史方法展开的内在方法论清算。

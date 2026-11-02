@@ -96,9 +96,9 @@ updated: 2026-11-02
 > - **1957** 创办《比较教育评论》（CER）并担任首任主编；在创刊期率先发表《论比较教育中的方法》（*Some Discussion of Methods in Comparative Education*），断言方法论探讨是学科教学与研究最紧迫的使命。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
 > - **1961–1962** 出任美国比较教育学会会长，推动学会专业化与国际化学术交流。
 > - **1964** 出版标志性经典专著《教育中的比较方法》（*[[Bereday's Comparative Method|Comparative Method in Education]]*），提出归纳式四步比较分析程序，成为全球比较教育研究者的权威方法论指南。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 7)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 61–62)]]
-> - **1965–1966** 发表坎德尔纪念文集与评传论文，从[[Epistemology\|认识论]]与学科思想史高度总结老一代学者的历史-哲学遗产。
+> - **1965–1966** 发表坎德尔纪念文集与评传文章，从[[Epistemology\|认识论]]与学科思想史高度总结老一代学者的历史-哲学遗产。
 > - **1970年代** 攻读法学博士（J.D.）并在哥伦比亚大学讲授教育法学与比较法学，拓展跨领域比较视野。
-> - **1983** 逝世于美国纽约。[[Comparative and International Education Society\|CIES]] 为纪念其杰出贡献，设立学术界享有盛誉的年度论文奖乔治·贝雷迪奖（George Bereday Award）。
+> - **1983** 逝世于美国纽约。[[Comparative and International Education Society\|CIES]] 为纪念其杰出贡献，设立学术界享有盛誉的年度文章奖乔治·贝雷迪奖（George Bereday Award）。
 
 ---
 
@@ -165,7 +165,7 @@ updated: 2026-11-02
 > *The position of Bereday, who served as a bridge between the historical and the scientific paradigm, is characteristic in this respect. While his first three steps aimed basically at understanding and explaining specific educational phenomena, his ultimate aim remained total analysis; an exercise, i.e. which 'deals with the imminent general forces upon which all systems are built' and which lead to 'the formulation of 'laws' or 'typologies'... Establishing laws, as the mature sciences did... became a dominant methodological discourse for comparative education.*
 
 > [!citation-card] 诺亚与埃克斯坦论贝雷迪对社会科学概念与数据的审慎接纳
-> 贝雷迪在 1950 年代中期率先意识到学科探讨方法论的紧迫性。他并未全盘抛弃历史-哲学路径，而是赞同审慎运用[[Scientific Method\|科学方法]]，在研究中保持对社会科学——特别是社会学和政治学——概念与数据的基本关注（Noah & Eckstein, 1969, p. 65）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
+> 贝雷迪在 1950 年代中期率先意识到学科探讨方法论的紧迫性。他仍保留历史-哲学路径，同时赞同审慎运用[[Scientific Method\|科学方法]]，在研究中保持对社会科学——特别是社会学和政治学——概念与数据的基本关注（Noah & Eckstein, 1969, p. 65）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
 >
 > *Without rejecting the historical-philosophical approach altogether, he subscribed to the circumspect use of the scientific method. He retained 'a basic concern with the concepts and data of the social sciences, especially sociology and political science'.*
 
@@ -173,7 +173,7 @@ updated: 2026-11-02
 
 > [!person-network] 关系网络
 > - **师承与前辈** [[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich） 哈佛大学博士导师，奠定其历史哲学比较底色；[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel） 哥伦比亚大学[[Normal School\|师范学院]]前辈泰斗，贝雷迪在坎德尔逝世后发表权威纪念评传，总结其[[Epistemology\|认识论]]遗产。
-> - **合作者与跨洲学术镜像** [[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys） 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
+> - **共事者与跨洲学术镜像** [[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys） 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **方法论论敌与演绎学派** [[Brian Holmes\|布莱恩·霍姆斯]]（Brian Holmes） 就经验归纳四步法与[[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开学科大论战，霍姆斯指责四步归纳法陷入观察前见与无法获得普遍有效规律。
 > - **跨国量化学派与哥大后继者** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein） 共同执教于哥伦比亚大学师范学院，在其经验归纳框架基础上，进一步推进大[[Sample Size Determination\|样本量]]化测量、严格控制[[Variable\|变量]]与假设检验的实证[[Scientific Paradigm\|科学范式]]。
 > - **[[Structural Functionalism|结构功能主义]]学派对照** C. [[C. Arnold Anderson\|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster\|菲利普·福斯特]]（Philip Foster） 芝加哥学派代表人物，主张探寻超越时空的恒常制度法则，与贝雷迪立足人文历史与地理视角的归纳法形成学术张力。

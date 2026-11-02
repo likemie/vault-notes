@@ -104,7 +104,7 @@ updated: 2026-11-02
 > 斯托的思想代表了美国在 19 世纪前期处理外部教育经验时的典型逻辑：他既是一个坚定的清教道德人文主义者，也是一个务实的州立教育行政改良者。
 
 > [!claim] 核心主张
-> 斯托主张国家必须承担保障与督导初等公共教育的首要责任，平民公立学校绝非慈善施舍，而是现代文明社会塑造爱国国民品格、促进社会整合的立国基石。在跨国借用取向上，斯托确立了[[Pragmatic Paradigm\|实用主义]]的改良准则：欧洲专制君主制下的公立学校成功经验，能够为美利坚自由共和政体建立世俗[[Normal School\|师范学校]]与强制公学网络提供正当性论证。
+> 斯托主张国家必须承担保障与督导初等公共教育的首要责任。平民公立学校是现代文明社会塑造爱国国民品格、促进社会整合的立国基石。慈善施舍是对这类学校的另一种定位。在跨国借用取向上，斯托确立了[[Pragmatic Paradigm\|实用主义]]的改良准则：欧洲专制君主制下的公立学校成功经验，能够为美利坚自由共和政体建立世俗[[Normal School\|师范学校]]与强制公学网络提供正当性论证。
 
 > [!note] 普鲁士教育的政治辩证
 > 在考察普鲁士专制政体下的公共教育成就时，斯托盛赞国家法律在唤醒青少年爱国情怀与国民凝聚力上的卓越成效：
@@ -127,7 +127,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 将斯托与曼、巴纳德并列，系统论证其如何代表美国 19 世纪前期的“政策导向与行政[[Educational Meliorism\|改良主义]]母题”，将外国经验转化为推进各州公学法案的政治合法化依据。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 引述斯托在俄亥俄州议会的证词，称普鲁士教育不是“空想”而是“有史以来最好的学区”；指出斯托承认普鲁士教育兼有专制道德控制但以“恶政与良教可分”为借用正名。[(Rust et al., 2009, pp. 124–125)]
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 引述斯托在俄亥俄州议会的证词，称普鲁士教育是“有史以来最好的学区”，“空想”是当时的另一种叫法；指出斯托承认普鲁士教育兼有专制道德控制但以“恶政与良教可分”为借用正名。[(Rust et al., 2009, pp. 124–125)]
 
 ---
 
@@ -147,7 +147,7 @@ updated: 2026-11-02
 > *...the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad' ... to use as legitimating rationales for the reform of national public education in the United States.*
 
 > [!citation-card] Rust et al. 论斯托的证词与普鲁士教育的辩证立场
-> 斯托在俄亥俄州议会上宣称普鲁士教育体制绝非"空想"，而是"有史以来最好的学区"所实施的教育方案。但他同时坦承，普鲁士整体教育计划的目的在于"将专制政治特有的军事力量与对人民理解力和情感的强烈道德控制相结合"。他随即以"恶政与良教在自然上可分"论辩反转局面：良好的教学法具有普适性，可以被共和体制完全继承而无须接受专制价值观。[[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 124–125)]]；引自 Stowe (1930)
+> 斯托在俄亥俄州议会上宣称普鲁士教育体制是"有史以来最好的学区"所实施的教育方案。"空想"是当时的另一种叫法。但他同时坦承，普鲁士整体教育计划的目的在于"将专制政治特有的军事力量与对人民理解力和情感的强烈道德控制相结合"。他随即以"恶政与良教在自然上可分"论辩反转局面：良好的教学法具有普适性，可以被共和体制完全继承而无须接受专制价值观。[[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 124–125)]]；引自 Stowe (1930)
 >
 > *Stowe openly conceded that the whole educational program of Prussia was 'to unite with the military force which always attends despotism, a strong moral power over the understanding and affections of the people'.*
 

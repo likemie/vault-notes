@@ -62,7 +62,7 @@ updated: 2026-11-02
 > - **2000** 联合创立奇点人工智能研究所（Singularity Institute for [[Generative Artificial Intelligence|Artificial Intelligence]]，后更名为机器智能研究院 MIRI），担任资深研究员。
 > - **2006–2009** 创立知名理性主义社区 Overcoming Bias 与 LessWrong，撰写数百万字关于贝叶斯理性、认知偏差与决策论的经典论述。
 > - **2010s** 专注于[[Artificial General Intelligence|通用人工智能]]对齐的数理基础研究，提出逻辑归纳（Logical Induction）与决策论框架。
-> - **2023** 在 [[General Purpose Technology|GPT]]-4 发布与《暂停巨型 AI 实验公开信》发布后，在《时代》（*Time*）杂志发表封面评论文章，主张不仅应暂停实验，更应动用国际条约与强力手段全面关停大规模 GPU 训练集群。
+> - **2023** 在 [[General Purpose Technology|GPT]]-4 发布与《暂停巨型 AI 实验公开信》发布后，在《时代》（*Time*）杂志发表封面评述文章，主张不仅应暂停实验，更应动用国际条约与强力手段全面关停大规模 GPU 训练集群。
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 超级人工智能的能力提升速度远远快于人类理解和控制其内部表征与动机的速度。在缺乏数学上可证明的强对齐机制的前提下，制造出具备递归自我改进能力的超智能系统，其工具性收敛（Instrumental Convergence）必然导致人类丧失对地球资源与生存环境的控制权，造成文明彻底毁灭。
+> 超级人工智能的能力提升速度远远快于人类理解和控制其内部表征与动机的速度。在缺乏数学上可证明的强对齐机制的前提下，制造出具备递归自我改进能力的超智能系统，其工具性趋同（Instrumental Convergence）必然导致人类丧失对地球资源与生存环境的控制权，造成文明彻底毁灭。
 
 > [!citation-card] 全面关停前沿 AI 训练集群的政策主张
 > 暂停六个月远远不足以解决对齐难题。关停大型 GPU 数据中心并设立国际监控，是防范不可控超级智能降临的唯一底线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Yudkowsky, 2023 via Karp & Zamiska, 2025, p. 25)]]

@@ -107,7 +107,7 @@ updated: 2026-11-02
 > - **1964** **哥伦比亚大学博士毕业与开启苏联教育经济研究** 赴美深造并获得哥伦比亚大学博士学位，博士研究聚焦苏联教育经济学、人力配置与教育财政体制；随后留校任教于师范学院，率先在比较教育学科内部开辟教育经济学专门方向。
 > - **1969** **出版《走向比较教育科学》确立战后第三代际哥大学派** 与埃克斯坦共同出版里程碑名著《走向比较教育科学》（*Toward a Science of Comparative Education*），将古典历史学派定性为依赖个人主观洞察力的前科学阶段，构建跨国“[[Independent Variable|自变量]]—[[Dependent Variable|因变量]]”函数共变模型，呼吁采纳严格统计技术清洗偏见与任意武断，并在第三代际实证[[Scientism|科学主义]]运动中确立以哥大学派为核心的[[Quantitative Research|量化研究]]纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **1969–1975** **主编《比较教育的科学调查》与参与 [[IEA]] 实证测评** 与埃克斯坦进一步编纂《比较教育的科学调查》（*Scientific Investigations in Comparative Education*, 1969），系统将抽样、测量与多元统计技术[[Operationalization|操作化]]；深度参与国际教育成就评价协会（IEA）多国学生成就调查项目的数据分析，将大样本跨国实证调查推向全盛期。
-> - **1973** **发表《用[[Variable|变量]]替代系统名称》确立通则化方法论纲领** 发表关键方法论论文《在比较教育中以变量名称替代系统名称》（*Fast-Forward: Replacing the Names of Systems with the Names of Variables*），系统论证比较教育的核心科学任务是将历史固有名词（国名、制度名）消解为普适的社会科学抽象变量，并通过经验假设检验确立跨国函数关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
+> - **1973** **发表《用[[Variable|变量]]替代系统名称》确立通则化方法论纲领** 发表关键方法论著述《在比较教育中以变量名称替代系统名称》（*Fast-Forward: Replacing the Names of Systems with the Names of Variables*），系统论证比较教育的核心科学任务是将历史固有名词（国名、制度名）消解为普适的社会科学抽象变量，并通过经验假设检验确立跨国函数关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
 > - **1976–1977** **当选美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长** 荣任 CIES 会长，推动学会与主流社会科学界、联邦教育智库及国际发展援助机构紧密对接。
 > - **1976–1981** **执掌哥伦比亚大学师范学院院长** 出任哥大师范学院院长（Dean），巩固了哥大在全美比较教育、教育社会学与教育经济学实证政策研究中的中枢领导地位。
 > - **1980年代–1990年代** **中等教育考试制度跨国比较与三十年合作总结** 聚焦国家中等教育考试体制的跨国比较，出版《中等学校考试：中英日德法美比较》（*Secondary School Examinations*, 1989）；1998 年与埃克斯坦出版学术合作总结《实践比较教育学》（*Doing Comparative Education: Three Decades of Collaboration*）。
@@ -139,14 +139,14 @@ updated: 2026-11-02
 >
 > *The fundamental ambition was replacing the names of social systems or observable facts by the names of concepts (variables).*
 >
-> 比较教育学者不应停留在讨论“法国体系”或“美国体系”的独特性，而应将具体国情分解为可测量的理论变量（如集权程度、社会阶层固化度、家庭收入离散度）。跨国比较的目的不是罗列事实，而是通过多国样本检验变量之间的因果假设。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> 比较教育学者不应停留在讨论“法国体系”或“美国体系”的独特性，而应将具体国情分解为可测量的理论变量（如集权程度、社会阶层固化度、家庭收入离散度）。跨国比较通过多国样本检验变量之间的因果假设。罗列事实只完成材料收集。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!citation-card] 跨国变量假设检验范例：家庭收入分布与学生成就的回归建模
 > 为了展示如何将复杂的教育问题转化为纯粹的跨国变量关系，诺亚在 1973 年提出了一个经典的经验[[Hypothesis|研究假设]]范例：
 >
 > > “在家庭收入分配更加不平等的社会中，家庭收入与学生学校[[Academic Achievement|学业成就]]之间的相关关系，将显著强于家庭收入分配相对平等的社会。”
 >
-> 在该研究设计中，“国家”或“社会”不再作为不可分割的有机整体，而是被[[Operationalization|操作化]]为[[Independent Variable|自变量]]——家庭收入分配的基尼系数或离散方差；[[Dependent Variable|因变量]]则是家庭收入对学业成就的多[[Meta-regression|元回归]]系数。通过在多个国家收集标准化测试数据（如 [[IEA]] 数据），研究者能够脱离个别国别的历史羁绊，精确检验社会不平等与教育分流之间的通则性因果关联。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
+> 在该研究设计中，“国家”或“社会”不再作为不可分割的有机整体，并被[[Operationalization|操作化]]为[[Independent Variable|自变量]]——家庭收入分配的基尼系数或离散方差；[[Dependent Variable|因变量]]则是家庭收入对学业成就的多[[Meta-regression|元回归]]系数。通过在多个国家收集标准化测试数据（如 [[IEA]] 数据），研究者能够脱离个别国别的历史羁绊，精确检验社会不平等与教育分流之间的通则性因果关联。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
 
 > [!citation-card] 变量函数共变与因果机制的审慎界定
 > 诺亚与埃克斯坦将跨国概括表述为自变量与因变量之间的函数共变关系（以数学形式表达为“随 $x$ 变化，$y$ 亦相应变化”）。然而他们审慎强调，阐明函数关系并不必然揭示因果联系，亦无法直接指明影响的方向性机制；基于此种方法论自省，他们并未直接赋予其实证命题以绝对法则的地位。Noah and Eckstein (1969, pp. 93–96), 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, p. 62)]]
@@ -193,7 +193,7 @@ updated: 2026-11-02
 > *Professionally, they had also, earlier, solved one of my problems as a student: where is there a history of comparative education? It was there in their classic text (Noah & Eckstein, 1969). Here the origins of the [[Champ|field]] were set out with exemplary clarity. The footnoting was scholarly and clearly a flurry of research had been done... The history legitimated me.*
 
 > [!citation-card] 卡扎米亚斯论战后实证科学化[[Paradigm|范式]]对历史传统的清洗与挑战
-> 科学取向的方法论学者诺亚与埃克斯坦在《走向比较教育科学》（1969）中指出，历史比较学派的结论主要依赖于作者个人的私人洞察力，既无客观判定因素重要性的法则，也缺乏纳入或排除特定因素的准则；在诺亚与埃克斯坦看来，[[Isaac Kandel|坎德尔]]著作中那些看似令人信服的结论，本质上不过是仍有待经验检验的假说；历史学者主要是致力于解释的知识分子，而非教育决策领域的行动者。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
+> 科学取向的方法论学者诺亚与埃克斯坦在《走向比较教育科学》（1969）中指出，历史比较学派的结论主要依赖于撰述者个人的私人洞察力，既无客观判定因素重要性的法则，也缺乏纳入或排除特定因素的准则；在诺亚与埃克斯坦看来，[[Isaac Kandel|坎德尔]]著作中那些看似令人信服的结论，本质上不过是仍有待经验检验的假说；历史学者主要是致力于解释的知识分子，而非教育决策领域的行动者。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
 >
 > *Noah and Eckstein, in their often-cited text Toward a Science of Comparative Education (1969), noted critically that 'their conclusions rely largely on the private insights of their authors, not only regarding which categories are valid and which data are relevant, but also on the matter of what quantity and quality of evidence constitute proof of a particular assertion'... What appeared in Kandel's work as persuasive conclusion are in fact important [[Hypothesis|hypotheses]] remaining open for testing... They were primarily intellectuals intent on explanation, rather than activists in the field of educational policy-making.*
 
@@ -205,7 +205,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **学术双子星与毕生合作者** [[Max Eckstein|马克斯·埃克斯坦]] — 保持长达三十余年的紧密学术合作，合著《走向比较教育科学》与《比较教育的科学调查》等里程碑专著；
+> - **学术双子星与毕生共事者** [[Max Eckstein|马克斯·埃克斯坦]] — 保持长达三十余年的紧密学术合作，合著《走向比较教育科学》与《比较教育的科学调查》等里程碑专著；
 > - **哥大同事与前辈** [[George Bereday|乔治·贝雷迪]] — 共同任教于哥大[[Normal School|师范学院]]，继承其比较方法并在经验归纳基础上推进假说检验；[[Isaac Kandel|艾萨克·坎德尔]] — 哥大师范学院历史-哲学传统奠基人，诺亚对其主观定性分析提出反思并主张实证科学化转向；
 > - **实证科学化同盟（芝加哥学派）** [[C. Arnold Anderson|阿诺德·安德森]]、[[Philip Foster|菲利普·福斯特]] — 共同构成战后美国比较教育经验实证[[Scientism|科学主义]]运动的中坚力量；
 > - **论辩与对话者（伦敦学派）** [[Brian Holmes|布赖恩·霍姆斯]] — 围绕经验量化[[Variable|变量]]共变 vs [[Critical Dualism|批判二元论]]演绎[[Problem Approach|问题法]]展开跨大西洋论战；

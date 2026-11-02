@@ -108,12 +108,12 @@ updated: 2026-11-02
 > - **1995 以后 — 全球化反思与多尺度国家创新系统辩护** 针对 1990 年代兴起的“无国界世界”与“民族国家终结”论调，重返思想史考证[[Friedrich List|李斯特]]传统，论证全球化深层依赖母国创新母体。
 >   - **代表著作** *The 'National System of Innovation' in Historical Perspective*（1995）；*As Time Goes By: From the Industrial Revolutions to the Information Revolution*（2001，与 Louçã 合著）。
 >   - **关键概念／方法** [[Intellectual Capital|知识资本]]跨代积累、跨国公司母国锚固、上层区域（欧共体）与下层区域（产业集聚）的双向嵌套。
->   - **阶段转向** 从实证描述跃升为坚实的政治经济学哲学辩护，确立国家在通用技术转型与社会制度调适中的主导地位。
+>   - **阶段转向** 从实证描述转为坚实的政治经济学哲学辩护，确立国家在通用技术转型与社会制度调适中的主导地位。
 
 ---
 
 > [!claim] 核心思想
-> 技术创新决非孤立发生在均质市场中的信息转移或资本堆积，而是由公共教育机构、产业研发组织、生产车间与政府部门嵌入在特定国家制度母体中的网络化集体学习过程；后发国家实现[[Technological Catch-up|技术赶超]]的关键，不在于消极顺从现存静态比较优势参与自由贸易，而在于通过国家战略协调前瞻性技术教育、[[Apprenticeship|学徒培训]]网络、企业内部研发实验室及高频供需互动，构建自主吸收与二次创新能力。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 5–8]], 16–21）
+> 技术创新是由公共教育机构、产业研发组织、生产车间与政府部门嵌入在特定国家制度母体中的网络化集体学习过程。均质市场中的孤立信息转移或资本堆积，只把技术创新写成市场内部的孤立事件。后发国家实现[[Technological Catch-up|技术赶超]]，要通过国家战略协调前瞻性技术教育、[[Apprenticeship|学徒培训]]网络、企业内部研发实验室及高频供需互动，构建自主吸收与二次创新能力。消极顺从现存静态比较优势并参与自由贸易，是另一条政策路线。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 5–8]], 16–21）
 
 > [!citation-card] 批判单一量化研发指标与线性思维
 > 纯粹的研发投入规模并不能直接决定创新绩效与经济增长率；[[Systems of Innovation|创新系统]]的产出不仅取决于研发投入的数量，更根本取决于研发与生产制造、逆向工程、技术引进及市场采购之间的制度性整合密度。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 10–12]]）
@@ -131,7 +131,7 @@ updated: 2026-11-02
 > - **理论路径** 奠定国家[[Systems of Innovation|创新系统学派]]（[[National Innovation System|NIS]]），深刻启发了本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）与查尔斯·埃德奎斯特（Charles Edquist）的研究，促成创新研究从新古典生产函数转向制度演化框架。
 > - **方法路径** 倡导历史制度比较与质性机制追踪相结合的方法论，纠正片面依赖研发支出排行榜（GERD/GNP）的技术官僚倾向。
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（OECD）、[[EU|欧盟]]委员会及多国工业与科技政策，推动政策界从被动弥补“[[Market Failure|市场失灵]]”转向设计系统性国家创新战略与教育配套。
-> - **跨国传播** 在东亚（日本、韩国）与拉美发展经济学界引发深远反响，成为解释东亚工业跃迁与拉美中等收入陷阱制度分化的核心理论工具。
+> - **跨国传播** 在东亚（日本、韩国）与拉美发展经济学界引发深远反响，成为解释东亚工业赶超与拉美中等收入陷阱制度分化的核心理论工具。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从历史演进与思想史视角系统论证国家创新系统的不可替代性，跨国对比德、日、苏、东亚与拉美创新绩效。
@@ -147,8 +147,8 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **学术前驱／思想渊源** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List）— 汲取国家政治经济学中关于无形[[Intellectual Capital|知识资本]]跨代积累、技术教育与战略幼稚工业保护的思想；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）— 继承创新作为[[Creativity|创造性]]破坏与非均衡动态演进的内核。
-> - **同行／核心合作者** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）、卡萝塔·佩雷斯（[[Carlota Perez]]）、吕克·苏特（Luc Soete）— 共同构筑[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统学派]]。
+> - **学术前驱／思想渊源** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List）— 汲取国家政治经济学中关于无形[[Intellectual Capital|知识资本]]跨代积累、技术教育与战略幼稚工业保护的思想；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）— 继承创新作为[[Creativity|创造性]]破坏与非均衡动态演进的核心。
+> - **同行／核心共事者** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）、卡萝塔·佩雷斯（[[Carlota Perez]]）、吕克·苏特（Luc Soete）— 共同构筑[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统学派]]。
 > - **对话者／学术交锋** [[Kenichi Ohmae|大前研一]]（Kenichi Ohmae）— 批驳其“无国界世界”导致民族国家过时的全球化激进论调；[[Michael Porter|迈克尔·波特]]（Michael Porter）— 吸收其[[National Competitive Advantage|国家竞争优势]]菱形模型作为母国环境重要性的佐证。
 
 ---

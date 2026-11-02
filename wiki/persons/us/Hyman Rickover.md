@@ -74,7 +74,7 @@ updated: 2026-11-02
 > 工程领袖的首要天职在于交付关乎国家命运的实质成果，而非屈从于平庸自保的科层合规；追求完美的道德纯洁性与僵化程序往往会逆向淘汰真正具有开创能力的异类工程天才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
 
 > [!citation-card] 打破科层体制与直面结果责任
-> 我的职责不是在体制内四平八稳地合规工作，我的职责是把事情真正做成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 185)]]
+> 我的职责是把事情真正做成。在体制内四平八稳地合规工作与此不同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 185)]]
 >
 > *My job was not to work within the system. My job was to get things done.*
 
@@ -87,7 +87,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **工程合作者** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
+> - **工程合作伙伴** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
 > - **政治盟友／辩护者** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在公案中坚定捍卫里科弗战功。
 > - **批评者／行政上级** 约翰·[[Harvey C. Lehman|莱曼]]（John Lehman）— 海军部长，在 1980 年代初主导对里科弗的合规审查。
 
