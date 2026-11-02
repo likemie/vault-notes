@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit11"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit11"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_persons:
   - "[[Benjamin F. Jones]]"
 related_facts:
   - "[[National Institutes of Health]]"
+  - "[[National Bureau of Economic Research]]"
   - "[[United States Patent and Trademark Office]]"
 related_arguments: []
 sources:
@@ -135,7 +136,7 @@ updated: 2026-11-02
 > | **公共医学资助与专利转化网络** | 美国 NIH 历年资助的全部科研项目、项目产生的学术论著，以及在私营部门转化为药物、医疗器械等技术的关联发明专利数据库。 |
 > | **学术论著与全量发明[[Patent Citation\|专利引文]]库** | 涵盖数千万篇已发表学术论著与数百万件商业专利的跨界大规模引用互联网络。 |
 > | **哈佛医学院合作实验受试队列** | 参与哈佛医学院内部创新资助研讨会的 400 名医学与生命科学领域研究人员。 |
-> | **经济学因果推断方法演进样本** | 美国全国经济研究所（National Bureau of Economic Research, NBER）历年工作文稿全集，统计包含因果识别（Identification）核心术语的文献占比演化。 |
+> | **经济学因果推断方法演进样本** | [[National Bureau of Economic Research|美国国家经济研究局]]（National Bureau of Economic Research, NBER）历年工作文稿全集，统计包含因果识别（Identification）核心术语的文献占比演化。 |
 
 ---
 
@@ -284,7 +285,7 @@ updated: 2026-11-02
 > [!challenges] 观察性大数据的内生性困境与不可测变量偏误
 > 在大规模科研数据中观测到经费投入与后续发表产出呈强正相关，并不足以确立资助与高产之间的因果联系：
 > - **可观测混杂因素的局限控制** 热门学科或顶尖机构的学者往往同时具备更强的吸金能力与更高的科研产出，模型虽可通过引入控制变量与[[Fixed-Effect Model|固定效应]]进行统计剥离，但该方法仅对已记录的可测特征有效 (p. 248)。
-> - **不可观测变量的致命威胁** 类似坚毅品质等不可观测的心理学特质既能增加获得资助的几率，又直接决定了长期的[[Scientific Productivity|科研生产力]]。如果资助与高产的关系完全由个体内在的坚毅品质驱动，盲目向冷门领域追加资助将收效甚微，决策者需要识别并支持具备坚毅特质的学者个体 (pp. 248–249)。
+> - **不可观测变量的致命威胁** 心理学家[[Angela Duckworth|安吉拉·达克沃思]]（Angela Duckworth）界定的[[Grit|坚毅]]品质等不可观测特质，既能增加获得资助的几率，又直接决定了长期的[[Scientific Productivity|科研生产力]]。如果资助与高产的关系完全由个体内在的坚毅品质驱动，盲目向冷门领域追加资助将收效甚微，决策者需要识别并支持具备坚毅特质的学者个体 (Duckworth & Duckworth, 2016; pp. 248–249)。
 
 ---
 
@@ -306,7 +307,7 @@ updated: 2026-11-02
 > [!sub-claim] 10. 微观严谨实验难以推广至宏观全局，重大政策问题仍需依靠观察性研究配合
 
 > [!warning] 因果识别确定性与宏观外部效度（External Validity）的权衡
-> 经济学可信性革命在 2017 年推动 NBER 约半数工作文稿明确纳入因果识别分析，但高度确凿的因果推断往往伴随着适用领域的狭隘化。微观实验建立的因果关系严格依附于特定的受试母群，在纽约医院受试成功的药物未必适用于亚洲青少年；NIH 资助划线边缘发现的规律无法随意向极优或极弱群体外推。小问题能够被高度确信回答，宏观大问题则面临深层不确定性 (pp. 250–251)。
+> 经济学可信性革命在 2017 年推动 [[National Bureau of Economic Research|NBER]] 约半数工作文稿明确纳入因果识别分析，但高度确凿的因果推断往往伴随着适用领域的狭隘化。微观实验建立的因果关系严格依附于特定的受试母群，在纽约医院受试成功的药物未必适用于亚洲青少年；NIH 资助划线边缘发现的规律无法随意向极优或极弱群体外推。小问题能够被高度确信回答，宏观大问题则面临深层不确定性 (pp. 250–251)。
 
 > [!voice] 皮埃尔·阿祖莱呼吁以实验[[Scientific Method|科学方法]]审视科技体制 (Azoulay, 2012)
 > 麻省理工学院经济学家皮埃尔·阿祖莱（Azoulay, 2012）指出，当代学术界的科学组织体制基本承袭自二战结束后的历史时期。二战后形成的科研制度在经历大半个世纪后，难以偶然适配二十一世纪的全新科研需求。学界必须推动针对科研机制本身的严格试验与政策干预评估 (p. 251)。

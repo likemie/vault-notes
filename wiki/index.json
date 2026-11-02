@@ -31420,6 +31420,18 @@
     ]
   },
   {
+    "title": "Angela Duckworth",
+    "type": "person",
+    "path": "wiki/persons/us/Angela Duckworth.md",
+    "aliases": [
+      "安吉拉·达克沃思",
+      "达克沃思",
+      "Angela L. Duckworth",
+      "Duckworth, A.",
+      "A. Duckworth"
+    ]
+  },
+  {
     "title": "Anita Williams Woolley",
     "type": "person",
     "path": "wiki/persons/us/Anita Williams Woolley.md",
@@ -43822,6 +43834,18 @@
       "国家航空航天局",
       "NASA",
       "美国航空航天局"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "National Bureau of Economic Research",
+    "type": "fact",
+    "path": "wiki/facts/us/National Bureau of Economic Research.md",
+    "aliases": [
+      "美国国家经济研究局",
+      "全美经济研究所",
+      "NBER",
+      "美国全国经济研究所"
     ],
     "subtype": "organization"
   },

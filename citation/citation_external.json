@@ -6450,6 +6450,8 @@
     "Duatepe, 2004": "Duatepe, 2004",
     "Dubois (2014)": "Dubois, 2014",
     "Dubois, 2014": "Dubois, 2014",
+    "Duckworth & Duckworth (2016)": "Duckworth & Duckworth, 2016",
+    "Duckworth & Duckworth, 2016": "Duckworth & Duckworth, 2016",
     "Duckworth & Seligman (2005)": "Duckworth & Seligman, 2005",
     "Duckworth & Seligman, 2005": "Duckworth & Seligman, 2005",
     "Duckworth et al. (2007)": "Duckworth et al., 2007",
@@ -12950,7 +12952,9 @@
     "Klesius (1991)": "Klesius, 1991",
     "Klesius, 1991": "Klesius, 1991",
     "Kleven (1995)": "Kleven, 1995",
+    "Kleven (2017)": "Kleven, 2017",
     "Kleven, 1995": "Kleven, 1995",
+    "Kleven, 2017": "Kleven, 2017",
     "Klieme et al. (2003)": "Klieme et al., 2003",
     "Klieme et al., 2003": "Klieme et al., 2003",
     "Klimova & de Campos (2024)": "Klimova & de Campos, 2024",
@@ -65696,7 +65700,9 @@
         "Crede et al., 2017"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/persons/us/Angela Duckworth.md"
+      ],
       "title": "Much Ado About Grit: A Meta-Analytic Synthesis of the Grit Literature"
     },
     "Credé et al., 2017": {
@@ -74319,6 +74325,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Randomized Trial of a Computer-Assisted Tutoring Program Targeting Letter-Sound Expression"
+    },
+    "Duckworth & Duckworth, 2016": {
+      "aliases": [
+        "Duckworth & Duckworth, 2016",
+        "Duckworth & Duckworth (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Duckworth & Duckworth, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
     },
     "Duckworth & Seligman, 2005": {
       "aliases": [
@@ -121661,6 +121682,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
+      ],
+      "title": ""
+    },
+    "Kleven, 2017": {
+      "aliases": [
+        "Kleven, 2017",
+        "Kleven (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kleven, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/National Bureau of Economic Research.md"
       ],
       "title": ""
     },

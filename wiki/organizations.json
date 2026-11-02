@@ -1941,6 +1941,16 @@
         "美国航空航天局"
       ]
     },
+    "National Bureau of Economic Research": {
+      "path": "wiki/facts/us/National Bureau of Economic Research.md",
+      "names": [
+        "National Bureau of Economic Research",
+        "美国国家经济研究局",
+        "全美经济研究所",
+        "NBER",
+        "美国全国经济研究所"
+      ]
+    },
     "National Center for Education Evaluation and Regional Assistance": {
       "path": "wiki/facts/us/National Center for Education Evaluation and Regional Assistance.md",
       "names": [
@@ -2992,12 +3002,6 @@
       "seen_in": [
         "wiki/facts/eu/European Standards and Guidelines.md",
         "wiki/facts/europe/Bologna Process.md"
-      ]
-    },
-    "National Bureau of Economic Research": {
-      "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Mowery_2011_NBER.md",
-        "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
       ]
     },
     "与联邦政府（U.S. Congress & Executive Office of the President）": {

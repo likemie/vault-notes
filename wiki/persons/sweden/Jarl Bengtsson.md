@@ -139,7 +139,6 @@ updated: 2026-10-26
 > - **学生／继承者** [[Andreas Schleicher]] — 本特森在 [[Centre for Educational Research and Innovation\|CERI]] 关键时期引入并重用的数据专家与后继领导者，最终将本特森的 [[PISA]] 构想变为现实。
 > - **师承／合作关系** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
 > - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。
-> - **机构／运动／项目** [[OECD]] / CERI — 本特森奉献 31 年青春的核心机构。
 > - **史学研究者** [[Christian Ydesen]] — 系统发掘本特森领导 CERI 历史档案的当代领衔学者。
 
 ---
@@ -172,4 +171,5 @@ updated: 2026-10-26
 > | [[PISA]] | 事实 (评估) | 早期战略倡导者与孵化者，推动 [[OECD]] 进军学生能力跨国直接测评。 |
 > | [[Performance Indicators]] | 概念 | 实践重构者，推动指标从行政统计转向以成果为导向的宏观政策规制工具。 |
 > | [[OECD]] | 机构 | 长达 31 年的 [[Centre for Educational Research and Innovation\|CERI]] 操盘手，重塑了该组织的全球战略基因。 |
+> | CERI | 机构 | 本特森奉献 31 年青春的核心机构。 |
 > | [[A Nation at Risk 1983]] | 事实 (政策) | 敏锐危机响应者，借美国危机动员推动 OECD 实施全面指标转向。 |

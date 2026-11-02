@@ -118,7 +118,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **长期学术合作者** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）、安东尼·麦克格鲁（Anthony McGrew） — 共同创立 Polity Press 并合著多部全球化巨著。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 引用其全球化界定解构拉美外围国家的教育主权困境。
-> - **相关跨国实体** [[World Bank]]、[[OECD]] — 作为其分析的跨国规训与准超国家治理机构典型。
 
 ---
 
@@ -129,3 +128,5 @@ updated: 2026-10-22
 > | [[Structural Adjustment Programs]] | 概念 | 分析跨国多边治理机构如何通过政策条件削弱民族国家社会支出主权。 |
 > | [[Conditioned State Theory]] | 理论 | 为理解外部力量穿透本土政治经济体系提供了宏观全球化结构支撑。 |
 > | [[Analytic Framework]] | 方法 | 建立涵盖经济、政治、文化与技术的全球化多维分析矩阵。 |
+> | [[World Bank]] | 组织 | 作为其分析的跨国规训与准超国家治理机构典型。 |
+> | [[OECD]] | 组织 | 作为其分析的跨国规训与准超国家治理机构典型。 |

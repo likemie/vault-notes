@@ -23222,7 +23222,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/persons/us/Angela Duckworth.md"
+      ],
       "title": "Much Ado About Grit: A Meta-Analytic Synthesis of the Grit Literature"
     },
     "Credé et al., 2017": {
@@ -28376,6 +28378,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Randomized Trial of a Computer-Assisted Tutoring Program Targeting Letter-Sound Expression"
+    },
+    "Duckworth & Duckworth, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+      ],
+      "title": ""
     },
     "Duckworth & Seligman, 2005": {
       "doi": "",
@@ -56954,6 +56964,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
+      ],
+      "title": ""
+    },
+    "Kleven, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/National Bureau of Economic Research.md"
       ],
       "title": ""
     },

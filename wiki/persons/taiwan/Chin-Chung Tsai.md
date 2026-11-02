@@ -132,7 +132,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **师承／合作者** [[Clark A. Chinn]] — 在[[Epistemic Cognition\|认识论认知]]理论拓展与科学[[Inquiry-Based Learning\|探究学习]]研究中存在长期学术对话与理论共鸣。
 > - **合作者** 吴忞（Min Wu）、陈盛仕（Sheng-Shih Chen） — 共同提出人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
-> - **机构／学术平台** 台湾师范大学学习科学跨国顶尖研究中心、国际期刊 *Computers & Education* — 长期作为核心学术领导者与国际对话平台组织者。
 
 ---
 
@@ -159,4 +158,6 @@ updated: 2026-10-30
 > | [[Scaffolding]] | 概念 | 提出技术提示词支架与教学法支架协同的双轨干预矩阵。 |
 > | [[Symbiotic Framework of Adaptive Epistemic Stances]] | 理论 | 与合作者系统提出[[Man-Computer Symbiosis\|人机共生]]学习与自适应认识立场理论框架。 |
 > | [[Network Analysis]] | 方法 | 倡导并应用认识网络分析法表征学习者的复杂概念与[[Epistemology\|认识论]]互动结构。 |
+> | 台湾师范大学学习科学跨国顶尖研究中心 | 组织 | 长期作为核心学术领导者与国际对话平台组织者。 |
+> | 国际期刊 *Computers & Education* | 组织 | 长期作为核心学术领导者与国际对话平台组织者。 |
 

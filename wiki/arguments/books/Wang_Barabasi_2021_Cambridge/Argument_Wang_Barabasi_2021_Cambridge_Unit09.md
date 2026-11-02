@@ -11,9 +11,9 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 32
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"

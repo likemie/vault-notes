@@ -237,7 +237,6 @@ updated: 2026-11-02
 > - **论辩同行** [[George Bereday|乔治·贝雷迪]] — 就演绎[[Problem Approach|问题法]] vs 归纳区域研究比较展开跨大西洋大论战；
 > - **史学评价者与学会同行** [[Wolfgang Mitter|沃尔夫冈·米特]]、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]、[[Robert Cowen|罗伯特·考恩]] — 系统评析霍姆斯的问题法哲学、组织建制贡献与历史地位；
 > - **实证批评对象** [[Isaac Kandel|艾萨克·坎德尔]]、[[Michael Sadler|迈克尔·萨德勒]] — 历史学派代表，被霍姆斯批评缺乏政策预测力；
-> - **机构领导** 伦敦大学教育学院（IOE）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）、[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）。
 
 ---
 
@@ -285,3 +284,6 @@ updated: 2026-11-02
 > | [[National Education in Europe\|欧洲国民教育]] | 事实 | 高度赞誉巴纳德编纂世界教育百科全书的本体贡献，为其早期编年史地位平反。 |
 > | [[Edmund King\|埃德蒙·金]] | 人物 | 伦敦国王学院代表学者，与霍姆斯就通则预测政策科学 vs 生态学语境主义展开长期学术论辩。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 评析霍姆斯引入批判理性主义与问题法对 IOE 及欧洲比较教育学科引发的[[Positivism\|实证主义范式]]转向。 |
+> | 伦敦大学教育学院（IOE） | 组织 | |
+> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 组织 | |
+> | [[World Council of Comparative Education Societies\|世界比较教育学会联合会]] | 组织 | |

@@ -131,10 +131,7 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **共同创制** [[Founding of the International Baccalaureate\|国际文凭创立]]；与[[Bob Leach\|鲍勃·利奇]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]]等人分别承担教师动员、课程设计、组织治理和制度整合工作。
-> - **制度化试验** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] — 连接学校招募、考试实施、大学承认、筹资和政府谈判，使项目从课程倡议转为常设组织。
-> - **创立机构** [[International Baccalaureate]]、[[IB Diploma Programme]]。
-> - **设计课程** [[Theory of Knowledge]]（TOK 知识论课程）。
+> - **共同创制** [[Bob Leach\|鲍勃·利奇]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]]等人分别承担教师动员、课程设计、组织治理和制度整合工作。
 > - **早期合作者** [[Kurt Hahn]] — 共同参与大西洋学院的[[International Education\|国际教育]]实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
 > - **思想审查者** [[Bob Darwish]] — 评估 Peterson 的 IB 课程哲学与[[John Dewey\|杜威]]/[[Paulo Freire\|弗莱雷]][[Active Learning\|主动学习]]理论的契合与局限。
 
@@ -152,7 +149,8 @@ updated: 2026-10-22
 > | 类别 | 条目 | 关联方式 |
 > |---|---|---|
 > | 核心课程 | [[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]、[[Creativity, Action, Service\|创意、行动、服务]] | 分别对应[[Epistemology\|认识论]]反思、独立研究与真实行动 |
-> | 制度建立 | [[Founding of the International Baccalaureate\|国际文凭创立]]、[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 把课程理念转化为可测试、筹资和获得大学承认的制度 |
+> | 制度建立 | [[Founding of the International Baccalaureate\|国际文凭创立]]、[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 把课程理念转化为可测试、筹资和获得大学承认的制度；连接学校招募、考试实施、大学承认、筹资和政府谈判，使项目从课程倡议转为常设组织。 |
 > | 组织网络 | [[International Baccalaureate\|国际文凭]]、[[United World Colleges\|联合世界书院]] | 前者提供跨国资格，后者提供寄宿制[[Intercultural Education\|跨文化教育]]场景 |
+> | 核心课程 | [[IB Diploma Programme]] | |
 > | 主要合作者 | [[Kurt Hahn\|库尔特·哈恩]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]] | 分别连接教育愿景、执行交接与治理协调 |
 > | 主要史料 | [[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1)]]、[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4)]]、[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7)]] | 从创办起点、制度扩展与第二个十年反思三个阶段追踪其角色 |

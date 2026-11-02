@@ -12,7 +12,7 @@ summary: "科学计量学中测度引文时间演化的两种对偶方法体系�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

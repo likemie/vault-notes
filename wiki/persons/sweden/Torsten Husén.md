@@ -131,7 +131,6 @@ updated: 2026-11-02
 > - **合作者** T. Neville Postlethwaite — 长期在 IEA 紧密合作，共同主编《[[International Education\|国际教育]]百科全书》。
 > - **学术网络** [[C. Arnold Anderson]]、[[Max Eckstein]]、[[Harold Noah]] — 共同参与战后比较教育实证[[Scientific Paradigm\|科学范式]]与跨国测量体系的开拓。
 > - **学术评价者** [[Wolfgang Mitter]] — [[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）领袖，在学科史中系统定评胡森实证测试对北欧与南欧的辐射效应及其在欧洲大学建制边缘的独立轨道。
-> - **机构节点** [[IEA]] — 长期担任首任主席（1962–1978），确立跨国成就评价制度形态。
 
 ---
 
@@ -152,7 +151,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[IEA]] | 事实 | 发起创立该国际组织并任首任主席，奠定跨国[[Academic Achievement\|学业成就]]量化测量[[Paradigm\|范式]]。 |
+> | [[IEA]] | 事实 | 发起创立该国际组织并任首任主席（1962–1978），奠定跨国[[Academic Achievement\|学业成就]]量化测量[[Paradigm\|范式]]。 |
 > | [[Comparative Educations]] | 概念 | 指陈战后规划承诺破灭与实证神话落空，成为单一范式解体与学科复数化的关键论据。 |
 > | [[Social Science as Legitimation Alibi]] | 概念 | 揭示实证科学作为政策借口在面对社会现实矛盾时的公信力崩溃。 |
 > | [[Scientific Paradigm]] | 概念 | 亲历战后实证科学范式的高峰，晚年提供制度反思与哲学清算。 |

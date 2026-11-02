@@ -150,7 +150,6 @@ updated: 2026-10-22
 > - **学术前驱／思想渊源** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List）— 汲取国家政治经济学中关于无形[[Intellectual Capital|知识资本]]跨代积累、技术教育与战略幼稚工业保护的思想；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）— 继承创新作为[[Creativity|创造性]]破坏与非均衡动态演进的内核。
 > - **同行／核心合作者** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）、卡萝塔·佩雷斯（[[Carlota Perez]]）、吕克·苏特（Luc Soete）— 共同构筑[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统学派]]。
 > - **对话者／学术交锋** [[Kenichi Ohmae|大前研一]]（Kenichi Ohmae）— 批驳其“无国界世界”导致民族国家过时的全球化激进论调；[[Michael Porter|迈克尔·波特]]（Michael Porter）— 吸收其[[National Competitive Advantage|国家竞争优势]]菱形模型作为母国环境重要性的佐证。
-> - **关联机构** 萨塞克斯大学科技政策研究所（SPRU）、[[OECD|经合组织]]（[[OECD]]）、马斯特里赫特大学（MERIT）。
 
 ---
 
@@ -182,4 +181,7 @@ updated: 2026-10-22
 > | [[Corporate R&D Labs]] | 概念 | 考证 1870 年代德国化学工业将研发建制化为企业内部独立部门的制度起源及其跨国扩散。 |
 > | [[Linear Model of Innovation]] | 概念 | 坚决批判将科学直接线性推导为经济繁荣的简单模型，确立反馈回路与生产现场学习的决定性。 |
 > | [[Historical-Comparative Method]] | 方法 | 典范性运用比较历史制度分析方法剖析英德美日苏长周期赶超分化。 |
+> | 萨塞克斯大学科技政策研究所（SPRU） | 组织 | |
+> | [[OECD\|经合组织]] | 组织 | |
+> | 马斯特里赫特大学（MERIT） | 组织 | |
 
