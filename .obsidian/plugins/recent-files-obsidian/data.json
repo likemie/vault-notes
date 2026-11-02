@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "广东省民政事业发展十五五规划_全文1至26页_合并校对稿",
+      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_全文1至26页_合并校对稿.md"
+    },
+    {
+      "basename": "Argument_Liu_2023_NHB",
+      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+    },
+    {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
     },
@@ -9,16 +21,8 @@
       "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
-    },
-    {
       "basename": "Argument_Fortunato_2018_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
-    },
-    {
-      "basename": "Argument_Liu_2023_NHB",
-      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
     },
     {
       "basename": "Combinatorial Novelty",
@@ -195,10 +199,6 @@
     {
       "basename": "John B. Fenn",
       "path": "wiki/persons/us/John B. Fenn.md"
-    },
-    {
-      "basename": "Collective Credit Allocation Algorithm",
-      "path": "wiki/methods/quantitative/Collective Credit Allocation Algorithm.md"
     }
   ],
   "omittedPaths": [],

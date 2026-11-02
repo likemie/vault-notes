@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Institutes of Health]]"
 related_arguments:
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
 confidence: high
 status: active
@@ -78,6 +79,7 @@ updated: 2026-11-02
 >
 >   - **2001** 正式执行申请在优先权日起 18 个月内强制公开机制，使被驳回、撤回与审批中的完整申请池进入公共视野。
 >   - **2011** 《美国发明法》（Leahy-Smith America Invents Act, AIA）通过，美国专利制度从“先发明制”彻底转向国际通行的“发明人先申请制”（First-Inventor-to-File）。
+>   - **2018** 桑托·福图纳托等在《科学》发表封面综述，依托 USPTO 涵盖的数百万件发明专利，将专利引文与科学文献网络交叉映射，全景揭示科技跨界扩散与团队规模演化规律。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 1, 3)]]
 
 ---
 
@@ -113,6 +115,7 @@ updated: 2026-11-02
 > [!stat-cards]- 核心规模数据
 > - **18 Months** 专利申请从优先权日起至强制全量公开的法定时间窗口。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 242)]]
 > - **600,000+** USPTO 年均处理的新增发明专利申请总量。
+> - **2.1M** 科学学团队规模跨越半个世纪历时演化研究所依托的 USPTO 发明专利样本量（210 万件）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **80% $\leftrightarrow$ 61%** 全球科学文献与 USPTO 发明专利在双重前沿拓扑网络中建立直接与间接连通的双向比例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
 
 ---
@@ -142,3 +145,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 记录 USPTO 自 2001 年起实行申请 18 个月强制公开制度，为科学学克服技术创新全生命周期中的幸存者偏差提供了关键数据基础设施（p. 242）。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将 USPTO 专利数据库作为技术前沿与发明网络的核心实证样本，揭示团队规模扩张与科学技术双重知识流动的演化规律。

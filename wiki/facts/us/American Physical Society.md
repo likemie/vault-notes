@@ -10,7 +10,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -46,11 +46,12 @@ related_persons:
 related_facts:
   - "[[Web of Science]]"
 related_arguments:
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Sinatra_2016_Science]]"
 confidence: high
 status: active
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
@@ -88,6 +89,7 @@ updated: 2026-11-01
 >
 >   - **1998** 建成物理评论在线文献库（Physical Review Online Archives, PROLA），完整回溯自 1893 年以来的全部创刊文献。
 >   - **2010s** 开放 APS 引文研究数据集，成为西纳特拉、王大顺与巴拉巴西等团队开发生涯反事实置换法与 Q 模型的核心数据原料。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–600)]]
+>   - **2018** 桑托·福图纳托等在《科学》发表封面综述，将 APS 高纯度学科引文网络作为科学学全景实证研究的基础数据源，用于微观引文动力学建模与个体生涯突破概率检验。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 1, 5)]]
 
 ---
 
@@ -156,3 +158,4 @@ updated: 2026-11-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提取 APS 1893 至 2010 年间 236,884 位物理学者全生命周期发表数据，奠定微观学术生涯动力学实证基石。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将 APS 期刊引文网络作为高纯度学科文献样本（图 5），实证检验跨学科引文动力学的微观参数重标度与普适坍缩规律。
