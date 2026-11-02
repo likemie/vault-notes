@@ -5,12 +5,16 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
     {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "Argument_Sinatra_2016_Science",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
+    },
+    {
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
     },
     {
       "basename": "Argument_Liu_2023_NHB",
@@ -19,10 +23,6 @@
     {
       "basename": "Argument_Fortunato_2018_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
-    },
-    {
-      "basename": "Argument_Sinatra_2016_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",

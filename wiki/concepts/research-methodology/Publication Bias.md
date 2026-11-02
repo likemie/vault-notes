@@ -8,7 +8,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，导致已发表文献库系统性高估干预的真实有效性；元分析中常结合漏斗图、Egger检验、剪补法与失安全数进行综合诊断与稳健性校正"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -77,16 +77,17 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 > [!def] Publication Bias
 > 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术文献库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性；元分析研究者通常通过[[Funnel Plot\|漏斗图]]、Egger 线性回归、[[Trim and Fill Method\|剪补法]]与[[Fail-Safe N\|失安全数]]等多重统计工具对发表偏倚进行系统性审计与效应量下调校正（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 学术出版与资助体系对显著和正面结果的选择性偏好，使公开证据池系统性右偏并脱离真实因果分布。
 > - **用途** 帮助[[Meta-analysis\|元分析]]研究者识别和校正证据库的不完整性，为政策制定者提供“公开证据本身可能已被筛选”的警惕与审慎依据。
 > - **边界** 发表偏倚不等于有意学术造假，它往往源于学术期刊的出版偏好、研究者的发表激励或资助方的经济利益驱动。
@@ -147,6 +148,9 @@ updated: 2026-10-31
 > [!claim] [[Dashun Wang|Wang, D.]], & [[Albert-László Barabási|Barabási, A.-L.]]
 > **知识空白认知扭曲与负面数据隐匿** 指出发表偏倚对显著正向结果的系统性筛选，在宏观知识图谱层面引发了严重的认知陷阱：文献图谱中的拓扑空白并不意味着前沿无人涉足，许多空白往往是前人多次尝试但因零效应或反常数据而沉入“文件抽屉”的负面记录；这种负面数据的系统性隐匿使得学者无法将正向结论置于全量实验背景中核验，不仅导致后继研究盲目重蹈覆辙，更损害了实证结论的可复现性与证据强度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
 
+> [!claim] [[Santo Fortunato|Fortunato, S.]], et al.
+> **发表筛选对错误假说的经典化定论效应** 福图纳托等在评述科学出版生态时指出，发表偏倚不仅导致效应量虚高，更深刻扭曲了科学自我纠错进程：由于期刊与资助系统系统性倾向于发表证实假设的阳性结果，并系统性压制未能复现或呈零效应的阴性结果，导致即便某个假说最初仅源于统计假象，缺乏反例制衡的学术传播链条也会将其迅速“确立”并固化为长周期内难以动摇的学科经典定论（Canonization of False Hypotheses）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
+
 ---
 
 > [!concept-proposition] 命题二｜多重统计校正与剪补模型可有效检验结论稳健性并还原真实因果边界
@@ -168,7 +172,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率；二阶综合面临直接继承并复合放大发表偏倚的制度风险 | 元分析效应量解释、宏观证据库审查、循证政策评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Hattie_2010_NZJES\|Hattie (2010)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
+> | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率；压制阴性结果致使错误假说被固化为经典定论；二阶综合面临直接继承并复合放大发表偏倚的制度风险 | 元分析效应量解释、宏观证据库审查、循证政策评估、科学自我纠错评估 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Hattie_2010_NZJES\|Hattie (2010)]]; [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] |
 > | **稳健性检验命题** | 结合剪补法、失安全数与回归检验可量化偏倚下调幅度，确立核心因果推论的稳健性边界 | 元分析偏倚审计、敏感性分析与稳健性报告 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **基础设施独立归档命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立独立于期刊出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
@@ -182,6 +186,7 @@ updated: 2026-10-31
 > - **2009 — Snook et al. 药企镜像批判与二阶偏倚累积** 约翰·[[Ivan Snook|斯努克]]等学者指出教育元分析严重依赖公开发表文献，其偏倚机制与医药工业中药企压制负面试验如出一辙；批判宏观二阶综合在未对一阶研究开展[[Funnel Plot|漏斗图]]或剪补法审查的情况下直接合并均值，使文件抽屉效应在层级综合中被放大。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]
 > - **2010 — Hattie 同行评审质控辩护** [[John Hattie|约翰·哈蒂]]回应批评，援引 Schulze (2004) 说明控制偏倚是元分析的核心关切，并主张高度依赖公开发表文献恰恰是通过同行评审机制实现质量控制的有效途径。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 88)]]
 > - **2016 — Wecker et al. 批判[[Meta-meta-analysis|二阶元分析]]偏倚倍增与中央[[Data Infrastructure|数据基础设施]]方案** 揭示商业期刊篇幅与显著性偏好对实证元数据的剥离，指出二阶元分析复合放大发表偏倚，提出独立于商业出版的中央标准化证据数据库并倡导将数据存缴计入学术成果清单（Publikationslisten）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
+> - **2018 — Fortunato et al. 假说经典化定论效应** 科学学跨学科综述指出发表筛选对阴性结果的压制会使脆弱的错误假说被同行机制逐步固化为共同体内的学科经典定论（Canonization of False Hypotheses）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
 > - **2020 — Wolf et al. 解构[[Developer Effect|开发者效应]]** 将权重函数模型应用于开发者与独立评估[[Effect Size|效应量]]比较，证实发表偏倚贡献了开发者效应的 66%。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
 > - **2021 — Cartiff et al. 多方法严密诊断[[Paradigm|范式]]** 在《教育心理学杂志》（JEP）元分析中建立包含离群值缩尾、[[Funnel Plot|漏斗图]]、Egger 回归、剪补法、Rosenthal 及 Orwin 双失安全数的多工具互证规范。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 484–485)]]
 > - **2021 — Wang & Barabási 科学学视角与知识图谱空白扭曲** 从宏观知识网络拓扑切入，揭示发表偏倚导致文件抽屉隐匿大量负面实验，使拓扑空白被误判为未探蓝海；强调公开并比对全量负面数据是提升复现性与破除跟风聚集的关键。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
@@ -220,15 +225,16 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 在[[Epistemic Cognition\|认识论认知]][[Meta-analysis\|元分析]]中建立[[Funnel Plot\|漏斗图]]、Egger 检验、Duval & Tweedie [[Trim and Fill Method\|剪补法]]及双[[Fail-Safe N\|失安全数]]的多重诊断[[Paradigm\|范式]]，确立[[Effect Size\|效应量]]经剪补下调（$d = 0.509 \to 0.342$）后依然稳健的实证典范。
-> - [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] — 运用 Vevea-Hedges 权重函数模型检验发表偏倚对[[Developer Effect\|开发者效应]]的贡献（解释约 66%），揭示独立评估在出版生态中遭遇的选择性发表风险。
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 结合漏斗图与 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI [[Higher-Order Thinking Skills\|高阶思维]]促学效应展开稳健性核查。
-> - [[Argument_Kraft_2023_ER\|Kraft (2023)]] — 基于全美教育 [[Randomised Controlled Trials\|RCT]] 大规模经验分布，指出发表偏倚导致文献库中干预“失败率”被系统性低估。
-> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 22)]] — 从[[Knowledge Mobilisation\|知识动员]]复杂系统维度剖析学术出版偏好对教育[[Cumulative Knowledge Base\|累积性知识库]]建构的结构性阻滞。
-> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 对 Hattie 元分析展开方法学批判，提出建立无条件全量归档的“中央证据数据库”作为从源头治理发表偏倚的基础设施方案。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]] — 教育研究方法经典教材，系统阐述 Rosenthal 文件抽屉方法与元分析偏倚争议。
-> - [[Creation of REES]] — 实证教育研究[[Preregistration\|预注册]]（REES）制度，旨在通过研究设计前置公开防范发表偏倚与选择性报告。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》综述中剖析发表偏倚与同行评议筛选对科学自我纠错的系统性损害，揭示阴性结果压制诱发错误假说经典化（Canonization of False Hypotheses）的生态机制。
+> - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 在[[Epistemic Cognition|认识论认知]][[Meta-analysis|元分析]]中建立[[Funnel Plot|漏斗图]]、Egger 检验、Duval & Tweedie [[Trim and Fill Method|剪补法]]及双[[Fail-Safe N|失安全数]]的多重诊断[[Paradigm|范式]]，确立[[Effect Size|效应量]]经剪补下调（$d = 0.509 \to 0.342$）后依然稳健的实证典范。
+> - [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] — 运用 Vevea-Hedges 权重函数模型检验发表偏倚对[[Developer Effect|开发者效应]]的贡献（解释约 66%），揭示独立评估在出版生态中遭遇的选择性发表风险。
+> - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 结合漏斗图与 Egger 线性回归检验（$t = 1.871, p = 0.066$）对生成式 AI [[Higher-Order Thinking Skills|高阶思维]]促学效应展开稳健性核查。
+> - [[Argument_Kraft_2023_ER|Kraft (2023)]] — 基于全美教育 [[Randomised Controlled Trials|RCT]] 大规模经验分布，指出发表偏倚导致文献库中干预“失败率”被系统性低估。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, p. 22)]] — 从[[Knowledge Mobilisation|知识动员]]复杂系统维度剖析学术出版偏好对教育[[Cumulative Knowledge Base|累积性知识库]]建构的结构性阻滞。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 对 Hattie 元分析展开方法学批判，提出建立无条件全量归档的“中央证据数据库”作为从源头治理发表偏倚的基础设施方案。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] — 教育研究方法经典教材，系统阐述 Rosenthal 文件抽屉方法与元分析偏倚争议。
+> - [[Creation of REES]] — 实证教育研究[[Preregistration|预注册]]（REES）制度，旨在通过研究设计前置公开防范发表偏倚与选择性报告。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 结合医药工业药企偏倚镜像，系统批判二阶综合重度依赖公开文献导致发表偏倚被层级放大，揭露缺乏未发表研究审查的方法论漏洞。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应 Snook et al. 批评，援引 Schulze (2004) 阐明元分析对偏倚控制的方法论关切，辩护同行评审对文献库的质量把关功能。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐释正结果偏好对前沿空白探索的扭曲，并在[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|第 23 章]]指出科学学依赖发表数据陷入幸存者偏差，主张打通专利与基金全量申请底表以还原完整科研管线。

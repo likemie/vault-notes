@@ -7,7 +7,7 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，现代演进为兼具超级算力、聚焦研究组织（FRO）与前竞争联合体的创新基础设施，其实证规律展现出推进渐进发展与精细攻关的显著优势，但颠覆性创新主要由敏捷小团队引领。"
 type: concept
 domain: "science-policy"
-related_count: 62
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -84,10 +84,11 @@ related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Bozeman_2004_JTT]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -210,6 +211,9 @@ updated: 2026-10-31
 >
 > > [!claim] [[Lingfei Wu|Wu, L.]], [[Dashun Wang|Wang, D.]] & [[James A. Evans|Evans, J. A.]]
 > > **大团队发展与小团队颠覆的组织规模法则** 吴令飞、王大顺与詹姆斯·埃文斯（Wu et al., 2019）通过大规模分析 6,000 万项跨学科科技成果，确立了团队规模对创新范式的分工法则：大科学工程团队凭借密集的人力与设备优势，集中攻坚近期公认的技术瓶颈与精密测量，产出短期高被引的发展型成果（如[[CERN|欧洲核子研究中心]] CERN 5,154 位物理学家联合测定希格斯玻色子质量，[[Laser Interferometer Gravitational-Wave Observatory|LIGO]] 千人团队证实引力波）；然而，随着团队人数从 1 人递增至 50 人，成果的[[Disruption Index|颠覆性指数]]呈现单调下降。小团队与独立探索者深入挖掘冷门陈旧[[Document|文献]]、提出非常规假说并主导开拓全新范式。资助机构对大科学工程的系统性偏好正在形成马太效应，若任由小团队萎缩，科学界将面临重大科学问题源头枯竭的长期困境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–133)]]
+>
+> > [!claim] [[Santo Fortunato|Fortunato, S.]], et al.
+> > **极端大科学协作的组织价值与署名归属治理挑战** 福图纳托等在《科学》科学学综述中指出，以欧洲核子研究中心大型强子对撞机（CERN LHC，ATLAS 与 CMS 实验组，汇聚上百个国家与上万名物理学家及工程师）为代表的现代极端大科学合作，展现了攻关重大科学装置与精密测量实验时的不可替代性；然而，这类工程产出的论著署名名单长达数十页，导致学者个体的实质智力贡献难以细分、科研劳动呈现高度专业化分工的流水线特征，且这类依赖巨型设施的研究在外部几乎无法开展独立重复，为现代科学的署名规范、信用分配机制与科研治理带来了深层挑战。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 
 ---
 
@@ -224,13 +228,13 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **物理目标与社会问题不可[[Commensuration\|通约]]** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
+> | **物理目标与社会问题不可[[Commensuration|通约]]** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **公共采购与供应链技术外溢** | 大科学长期经济价值取决于需求侧高标准采购倒逼产业工艺创新 | 国防与战略大工程民用外溢机制设计 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **军工大科学与民用创新体系脱节** | 缺乏微观互动与干中学的大科学军工投入无法转化为国民创新竞争力 | 国家创新系统演化与美苏科技体制对比 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
 > | **成本膨胀与契约合法性危机** | 巨额成本推高行政审计，终结了基础科学无需自证的免检资助特权 | 科学社会契约演变与科技政策立法 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 > | **高校大科学中心与小科学争资** | 大科学中心模式移植至大学，引发对单 PI 自由探索经费池掠夺争议 | 大学科研体制改革与跨学科中心建设 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] |
 > | **智能时代 FRO 与前竞争生态** | 扩展为填补中等规模工程科学空白的聚焦组织与跨国前竞争联合体 | 科学 AI 基础设施与研发治理 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
-> | **大小团队功能分工与颠覆法则** | 大科学工程推进渐进发展与精细测量，开辟新范式的颠覆性突破依赖小团队 | 科研资助生态配比与科技人员组织规模调控 | Wu et al. (2019); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
+> | **大小团队功能分工与颠覆法则** | 大科学工程推进渐进发展与精细测量，开辟新范式的颠覆性突破依赖小团队；超大型协作伴生学术署名与独立复现难题 | 科研资助生态配比与科技人员组织规模调控、大科学治理 | Wu et al. (2019); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 > | **指数扩张与劳动力管道梗阻** | 科学文献指数级增长伴随博士规模膨胀，与大学教职岗位平滞形成结构性断层 | 科技劳动力市场供求分析与高等教育博士后体制 | Price (1963); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 
 ---
@@ -240,6 +244,7 @@ updated: 2026-10-31
 > - **1963 — [[Bibliometric Analysis|科学计量学]]奠基与增长指数** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek J. de Solla Price）出版《小科学，大科学》（*Little Science, Big Science*），确立科学文献每 10–15 年翻番的指数律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–164)]]
 > - **1984 — 大科学模式向大学系统移植** 美国国家科学基金会（NSF）设立工程研究中心（ERC），推动跨学科大合作协议进入民用高校。
 > - **2015 — 万人署名大科学极值展现** 欧洲核子研究中心（CERN）发表 5,154 人联合署名成果，创下单篇文献署名人数世界纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
+> - **2018 — 极端大科学协作与治理挑战** 福图纳托等在《科学》综述中以 CERN LHC 万人合作为例，剖析超大科学工程在集约攻关的同时带来的个体贡献模糊、科研流水线化与独立复现高昂等治理挑战。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **2019 — 大小团队组织规模分工确立** 吴令飞、王大顺与詹姆斯·埃文斯（Wu et al., 2019）基于 6,000 万科技成果确立小团队颠覆、大团队发展的组织规模法则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–133)]]
 > - **2021 — 学术劳动力管道脱节实证** 王大顺与巴拉巴西基于全美三十年博士普查与高校招聘数据，证实大科学文献指数增长下的劳动力生产与大学教职吸纳断层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 169–172)]]
 > - **2026 — 智能时代新大科学基础设施** 白宫科技报告提出 AI 驱动下由聚焦研究组织（FRO）与前竞争联合体构成的分布式现代大科学新范式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 21–26)]]
@@ -273,6 +278,7 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》综述中系统评述团队规模膨胀与现代大科学协作，以 CERN LHC 极端工程协作剖析大科学设施攻关优势及信用分配与复现治理难题。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 确立大科学团队发展、小团队颠覆法则（Unit 05），并揭示大科学文献指数扩张与博士过度生产伴随的教职滞后断层（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 161–172]]）。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐释大科学在人工智能时代的范式重构，剖析聚焦研究组织与前竞争联合体治理机制。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约演进脉络，论证大科学模式如何推高科研成本并终结了基础科学无需自证的免检地位。
