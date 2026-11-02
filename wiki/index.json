@@ -38024,6 +38024,28 @@
     "subtype": "program"
   },
   {
+    "title": "AlphaFold",
+    "type": "fact",
+    "path": "wiki/facts/global/AlphaFold.md",
+    "aliases": [
+      "阿尔法折叠",
+      "AlphaFold 1",
+      "AlphaFold 2",
+      "DeepMind AlphaFold"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "AlphaZero",
+    "type": "fact",
+    "path": "wiki/facts/global/AlphaZero.md",
+    "aliases": [
+      "阿尔法零",
+      "DeepMind AlphaZero"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Baby PISA",
     "type": "fact",
     "path": "wiki/facts/global/Baby PISA.md",
@@ -38461,6 +38483,18 @@
       "PDB",
       "wwPDB",
       "蛋白质数据银行"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Reproducibility Project Psychology",
+    "type": "fact",
+    "path": "wiki/facts/global/Reproducibility Project Psychology.md",
+    "aliases": [
+      "心理学可重复性项目",
+      "心理学可复现性项目",
+      "心理学重复性研究项目",
+      "Reproducibility Project"
     ],
     "subtype": "program"
   },

@@ -45,6 +45,7 @@ related_facts:
   - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: 2026-11-01
@@ -93,9 +94,11 @@ updated: 2026-11-01
 > - **高能物理与量子场论路径** 创立渐近自由理论，确立量子色动力学作为强相互作用基本理论的标准模型地位，深远影响夸克禁闭与粒子对撞实验。
 > - **拓扑物态与计算物理路径** 提出任意子理论与时间晶体（Time Crystals）构想，开辟拓扑量子计算与非平衡物态全新研究前沿。
 > - **科学学与生涯动力学路径** 其 $N^*=1$ 的真实发表记录与[[John B. Fenn|约翰·芬恩]]（John B. Fenn）的晚年突破并列，成为量化科学学中确立[[Random Impact Rule|随机影响规律]]、排除学术产出内在阶段论的经典对照案例。
+> - **人工智能与科学未来学路径** 提出著名预言“百年后最顶尖的物理学家将是一台机器”，引发科学学界关于窄域人工智能专用解题属性与人类科学家战略领导力分工的广泛认识论辩护。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 238–239)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将维尔切克（$N^*=1$）与芬恩（$N^*=N$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 引用其关于机器物理学家的预言，以此剖析 AlphaFold 等现代深度学习系统的专用解题属性与人类科学家的战略领导力边界。
 
 ---
 

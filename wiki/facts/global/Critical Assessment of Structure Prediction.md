@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,15 +37,17 @@ related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[AlphaFold]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Protein Data Bank]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 ---
@@ -87,7 +89,7 @@ updated: 2026-10-30
 
 > [!actor-grid] 全球盲测协同网络
 > - **CASP 国际组织委员会** 负责整体规划、靶点分类规则研制、会议组织及评估委员会遴选。
-> - **实验结构提供实验室网络** 遍布全球的同步辐射光源、冷冻电镜中心与大学晶体学实验室，自愿延后论文发布以配合盲测周期。
+> - **实验结构提供实验室网络** 遍布全球的同步辐射光源、冷冻电镜中心与大学晶体学实验室，自愿延后成果发布以配合盲测周期。
 > - **独立评估专家组（Independent Assessors）** 由未参与预测竞赛的资深资历结构生物学家组成，主持匿名盲审与分类评分。
 > - **全球跨界参赛阵营** 包括学术计算生物学组、计算物理学家、AI 初创团队与大型工业科技实验室。
 
@@ -124,6 +126,8 @@ updated: 2026-10-30
 > | [[Industrial Commons]] | Concept | CASP 与 PDB 共同构成的生物信息学公共基准公地。 |
 > | [[Metascience]] | Concept | 将盲测基准竞赛作为克服学术自测偏差的元科学机制研究。 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对 CASP 作为中等规模工程科学突破典范的系统论述。 |
+| [[AlphaFold]] | Fact (Program) | 在 CASP13 与 CASP14 中实现革命性预测突破的深度学习系统。 |
+| [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] | Argument | 详述 CASP13 见证毫无生物学建制背景的 DeepMind 团队击败全球 97 支顶尖专家团队的里程碑案例。 |
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: 2026-11-02
@@ -161,3 +162,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 核心数据表中引入 `SciSciNet_Link_ClinicalTrials`（438,220 行对齐记录），将 ClinicalTrials.gov 注册号（NCT）作为测度学术出版物向临床医疗应用转化深度的标准化桥梁。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将临床试验数据列为现代科学学全景基础设施不可或缺的下游应用端要素，指出链接临床试验数据是评估科学发现实际社会福祉价值的实证基础。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐述联邦立法强制要求临床试验在 ClinicalTrials.gov 全量登记方案与数据（结合主流期刊拒录未备案一期试验的抵制机制），有效打破了发表偏倚与抽屉效应，为全学科基础研究推行预注册奠定了制度范式。
