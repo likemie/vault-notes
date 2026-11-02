@@ -45,7 +45,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Citation Expiration Date
-> 引文失效期（Citation Expiration Date，或称文献失效期 / 影响力有效期限）是指学术成果在发表后经历初期的跳跃式爬坡达峰与随后的指数衰减，最终在特定时间节点停止吸纳新增被引、其累积引文时序分布完全进入稳态饱和的客观时间界限。该构念由迈克尔·斯特林格（Michael J. Stringer）等人在 2008 年基于期刊引文动力学提出，并在王大顺与巴拉巴西的《科学学》专著中系统阐述，用于解答“科学论文是否具有丧失学术共同体相关性的有效期限”这一核心理论与实践问题。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–206)]]
+> 引文失效期（Citation Expiration Date，或称文献失效期 / 影响力有效期限）是指学术成果在发表后经历初期的跳跃式爬坡达峰与随后的指数衰减，最终在特定时间节点停止吸纳新增被引、其累积引文时序分布完全进入稳态饱和的客观时间界限。该构念由迈克尔·斯特林格（Michael J. Stringer）等人在 2008 年基于期刊引文动力学提出，并在王大顺与巴拉巴西的《科学学》专著中系统阐述，用于解答“科学成果是否具有丧失学术共同体相关性的有效期限”这一核心理论与实践问题。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–206)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识单篇学术论著从活跃引述状态向长程智识归档状态过渡的物理时间截断点。
@@ -53,7 +53,7 @@ updated: 2026-11-02
 > - **边界** 适用于解释遵循单峰跳跃衰减规律的绝大多数常规科学出版物；不适用于发生[[Second Act in Science|二次激活]]或[[Sleeping Beauty in Science|睡美人复苏]]的非典型成果。
 
 > [!citation-card] 成果失效期与引文分布稳态
-> 科学文献是否具有一个失效期，在此之后便失去了对学术共同体的现实相关性？考虑论著发表后每年的新增获引速率，它呈现出清晰的跳跃衰减形态：获引速率在发表后两到三年迅速迎来峰值，随后开始急剧滑落。绝大多数论著在发表后的前几年便完成了自身绝大部分的影响力释放；随着时间推移，成果的累积被引并非无限攀升，而是在若干年后走向饱和。例如至 2006 年，发表于 1991 年与 1993 年的成果其引文分布在统计上已完全等同，表明成果已达到了特定稳态，新增被引变得微不足道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–206)]]
+> 科学文献是否具有一个失效期，在此之后便失去了对学术共同体的现实相关性？考虑论著发表后每年的新增获引速率，它呈现出清晰的跳跃衰减形态：获引速率在发表后两到三年迅速迎来峰值，随后开始急剧滑落。绝大多数论著在发表后的前几年便完成了自身绝大部分的影响力释放；随着时间推移，成果的累积被引在若干年后走向平稳饱和。例如至 2006 年，发表于 1991 年与 1993 年的成果其引文分布在统计上已完全等同，表明成果已达到了特定稳态，新增被引变得微不足道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–206)]]
 >
 > *Do papers have an expiration date, after which they lose their relevance to the scientific community? As Fig. 19.4 shows, citations follow a jump-decay pattern... a paper's cumulative citations do not increase indefinitely, but saturate after a few years. For example, by 2006 the citation distributions of papers published in 1991 or 1993 were statistically indistinguishable... From that point on, the number of new citations a paper garners becomes negligible.*
 
@@ -95,7 +95,7 @@ updated: 2026-11-02
 > **探讨维度　引文饱和动力学与有限注意力窗口** 探讨科学文献在时间轴上的影响力持续时间与终身稳态边界。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Stringer et al. (2008)]]
-> **引文稳态饱和命题** 斯特林格等通过实证检验表明，科学论著不会无限期获得同行关注；在发表经历特定年限后，论文必然抵达失效期；跨越失效期后，论著的引文分布呈现稳态特征，其相对影响力排位不再发生实质改变。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Stringer et al., 2008, via Wang & Barabási, 2021, pp. 205–206)]]
+> **引文稳态饱和命题** 斯特林格等通过实证检验表明，科学论著不会无限期获得同行关注；在发表经历特定年限后，文献必然抵达失效期；跨越失效期后，论著的引文分布呈现稳态特征，其相对影响力排位不再发生实质改变。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Stringer et al., 2008, via Wang & Barabási, 2021, pp. 205–206)]]
 
 ---
 
