@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Douglas Walton",
+      "path": "wiki/persons/canada/Douglas Walton.md"
+    },
+    {
       "basename": "Daniel Schugurensky",
       "path": "wiki/persons/canada/Daniel Schugurensky.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Too-Much-Talent Effect",
       "path": "wiki/concepts/educational-psychology/Too-Much-Talent Effect.md"
-    },
-    {
-      "basename": "Geisteswissenschaften",
-      "path": "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
     }
   ],
   "omittedPaths": [],

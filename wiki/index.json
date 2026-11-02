@@ -16264,6 +16264,16 @@
     ]
   },
   {
+    "title": "Dual Frontier",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Dual Frontier.md",
+    "aliases": [
+      "双重前沿",
+      "双重前沿模型",
+      "Dual Frontier Model"
+    ]
+  },
+  {
     "title": "Dual-Use Technology",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Dual-Use Technology.md",
@@ -16650,6 +16660,18 @@
       "错失的诺奖得主",
       "遗失的获奖者",
       "晚期突破选拔偏误"
+    ]
+  },
+  {
+    "title": "Manuscript Rejection Boost",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Manuscript Rejection Boost.md",
+    "aliases": [
+      "手稿拒稿增益效应",
+      "拒稿重投增益",
+      "论文拒稿增益",
+      "Rejection-Resubmission Premium",
+      "Manuscript Rejections Boost"
     ]
   },
   {
@@ -26058,6 +26080,17 @@
     ]
   },
   {
+    "title": "Natural Experiment",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Natural Experiment.md",
+    "aliases": [
+      "自然实验",
+      "准自然实验",
+      "自然实验法",
+      "Quasi-Natural Experiment"
+    ]
+  },
+  {
     "title": "Non-Equivalent Control Group Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",
@@ -26543,6 +26576,20 @@
       "研究综合",
       "证据综合",
       "Evidence Synthesis"
+    ]
+  },
+  {
+    "title": "Retrospective vs Prospective Citation Approaches",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Retrospective vs Prospective Citation Approaches.md",
+    "aliases": [
+      "引文回溯与前瞻测度方法",
+      "引文回溯法与前瞻法",
+      "回溯法与前瞻法",
+      "共时与历时引文分析",
+      "Retrospective and Prospective Citation Approaches",
+      "Synchronous and Diachronous Citation Analysis",
+      "Citation From vs Citations To Approaches"
     ]
   },
   {

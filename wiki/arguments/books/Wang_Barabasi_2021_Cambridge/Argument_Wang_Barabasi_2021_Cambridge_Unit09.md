@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -29,40 +29,27 @@ tags:
   - theme/citation-dynamics
   - theme/network-science
 related_concepts:
-  - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
   - "[[Sleeping Beauty in Science]]"
-  - "[[Document]]"
-  - "[[Emergence]]"
-  - "[[Literature Search]]"
-  - "[[Variable]]"
-  - "[[Knowledge Hotspots]]"
-  - "[[Ultimate Impact]]"
   - "[[Citation Aging]]"
-  - "[[Initial Attractiveness]]"
-  - "[[Second Act in Science]]"
+  - "[[Knowledge Hotspots]]"
   - "[[Citation Expiration Date]]"
+  - "[[Second Act in Science]]"
+  - "[[Ultimate Impact]]"
   - "[[Citation Prediction Envelope]]"
+  - "[[Initial Attractiveness]]"
 related_theories:
   - "[[WSB Model]]"
-  - "[[Price Cumulative Advantage Model]]"
-  - "[[Bianconi-Barabási Model]]"
-  - "[[Universality of Citation Distributions]]"
   - "[[Citation Copy Model]]"
 related_methods:
   - "[[Journal Impact Factor]]"
-  - "[[Bibliometric Analysis]]"
-  - "[[Relative Citation Normalization]]"
+  - "[[Retrospective vs Prospective Citation Approaches]]"
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-  - "[[Eugene Garfield]]"
-  - "[[Paul Erdős]]"
-  - "[[Derek de Solla Price]]"
   - "[[John P. Perdew]]"
-  - "[[Santo Fortunato]]"
+  - "[[Dashun Wang]]"
   - "[[Chaoming Song]]"
+  - "[[Albert-László Barabási]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[Web of Science]]"
 related_arguments: []
@@ -106,7 +93,7 @@ updated: 2026-11-02
 > [!method-panel] 研究设计与测量方法
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **引文时间测量进路**<br>`Temporal Citation Metrics` | 区分回溯性方法（retrospective，以施引文献为锚点度量施引记忆纵深）与前瞻性方法（prospective，追踪成果队列各年度新增引文度量集体遗忘）(pp. 204–205)。 |
+> | **[[Retrospective vs Prospective Citation Approaches|引文回溯与前瞻测度方法]]**<br>`Retrospective vs Prospective Citation Approaches` | 区分回溯性方法（以施引文献为锚点度量施引记忆纵深）与前瞻性方法（追踪成果队列各年度新增引文度量集体遗忘），通过文献增长率建立对偶积分变换 (pp. 204–205)。 |
 > | **二维知识搜索测度**<br>`Two-Dimensional Knowledge Metric` | 测算单篇成果参考文献平均年龄 $\langle T \rangle$ 与离散系数 $\sigma_T$，在控制出版年份与细分领域前提下定位前 5% 高引的知识热点 (pp. 200–201)。 |
 > | **WSB 动力学参数拟合**<br>`WSB Maximum Likelihood Estimation` | 采集发表后 $T_{\text{train}}$ 年内逐年获引序列，利用极大似然法估计相对适应度 $\lambda_i$、紧迫性 $\mu_i$ 与寿命 $\sigma_i$，生成长期置信区间包络 (Wang et al., 2013; pp. 211, 217–218)。 |
 > | **引文复制错误追踪**<br>`Citation Error Propagation Tracking` | 识别参考文献中因排版错误产生的微观印刷变异（如特定页码印刷错误），利用随机独立假设下的极低重合概率（$10^{-4}$），实证确证学者撰写成果时的引文复制行为 (Simkin & Roychowdhury, 2003, 2005; pp. 260–261)。 |
@@ -220,6 +207,14 @@ updated: 2026-11-02
 > - **1959 年静电复印技术普及** 跨地理区域的学术论著分发门槛大幅降低，奠定了同行间实体传递文献的物质基础 (p. 204)。
 > - **1967 年《自然》（Nature）正式推行同行评议** 传统由期刊编辑个人主观定稿的机制被专业评审人制度取代；资深同行在审稿过程中倾向于要求研究者补全历史奠基文献，直接促成了学者引用行为的规范化与对前人成果的系统追溯 (pp. 203–204)。
 > - **2000 年代数字学术搜索引擎兴起** Google Scholar 与各大数据库使早期经典文献可 24 小时全天候检索，算法将相关度而非出版新鲜度置于排序前列，消除了沉睡在书架上的物理壁垒 (pp. 202–204)。
+
+---
+
+> [!method-scope] 专栏 19.1：引文年龄分布的对偶测度方法
+> 科学界测度引文年龄存在两类截然不同的方法进路（Box 19.1，pp. 204–205）：
+> - **回溯法（Retrospective / Citation From）** 考察特定年份施引成果向过去引用的参考文献年龄分布，测度学者的“引用记忆”；前述知识热点与经典引用分析即依托该方法展开 (pp. 204–205)。
+> - **前瞻法（Prospective / Citations To）** 追踪特定年份发表成果队列在后续岁月中逐年获取的新引文时序，测度科学界对该成果的“集体遗忘”与真实长程学术影响；对引文失效期与动力学主方程的解析均基于此进路 (pp. 204–205)。
+> - **数学关联** 依托[[Retrospective vs Prospective Citation Approaches|引文回溯与前瞻测度方法]]（Retrospective vs Prospective Citation Approaches），两者通过系统文献指数增长率 $\beta$ 的积分变换建立确定性对偶连接：$P_{\text{retro}}(\tau) \propto P_{\text{prosp}}(\tau) e^{-\beta \tau}$ (Yin & Wang, 2017; pp. 204–205)。
 
 ---
 

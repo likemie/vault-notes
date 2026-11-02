@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,27 +35,28 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
+  - "[[Knowledge Hotspots]]"
   - "[[Variable]]"
   - "[[Research Utilization]]"
-  - "[[Citation Disparity]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Retrospective vs Prospective Citation Approaches]]"
   - "[[Network Analysis]]"
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
   - "[[Disruption Index]]"
-  - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
-  - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -89,7 +90,7 @@ updated: 2026-11-02
 > [!method-stack] 方法层级
 > - **研究设计** 描述性文献计量调查、共被引网络拓扑分析、知识图谱测绘、跨时期比较研究、时序引文动力学建模。
 > - **数据收集** Web of Science 核心合集、Scopus、Dimensions、PubMed 等标准化引文数据库全记录导出，以及预印本与专利数据库采集。
-> - **分析方法** 频次统计与增长率测算、布拉德福文献离散分析、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）、社区发现聚类算法（如 Louvain 算法、InfoMap），以及引文年龄分布测算（Citation Age Analysis）与知识热点四象限分析（Knowledge Hotspots）。
+> - **分析方法** 频次统计与增长率测算、布拉德福文献离散分析、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）、社区发现聚类算法（如 Louvain 算法、InfoMap），以及引文年龄分布测算（[[Retrospective vs Prospective Citation Approaches|Citation Age Analysis]]）与知识热点四象限分析（[[Knowledge Hotspots]]）。
 > - **辅助技术** 关键词同义词映射与停用词清洗、学者同名异义消歧算法、网络节点度与中介中心度计算、VOSviewer 与 CiteSpace 拓扑可视化。
 
 ---

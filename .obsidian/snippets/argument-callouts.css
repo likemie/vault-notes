@@ -25208,8 +25208,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-content > p:first-child > strong:first-of-type { color:var(--fdc-ink) !important; font-family:var(--ac-serif); }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child),html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote {
  margin:1rem 0 0 !important; padding:.8rem 1rem !important;
- border:0 !important; border-left:2px solid var(--fdc-accent) !important; border-radius:0 !important;
- background:color-mix(in srgb,var(--fdc-accent) 5%,transparent) !important; box-shadow:none !important;
+ border:0 !important; border-top:1px solid color-mix(in srgb,var(--fdc-accent) 30%,transparent) !important; border-bottom:1px solid color-mix(in srgb,var(--fdc-accent) 18%,transparent) !important; border-radius:0 !important;
+ background:none !important; box-shadow:none !important;
  font:400 .98em/1.9 var(--ac-serif) !important; color:#c8d4dc !important; letter-spacing:0;
  overflow-wrap:anywhere;
 }
@@ -25613,3 +25613,141 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
 }
 @media print { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="example"],[data-callout="theory-proposition"],[data-callout="failure"],[data-callout="fail"],[data-callout="missing"]) { background:none !important; box-shadow:none !important; overflow:visible !important; break-inside:avoid; --text-normal:#222; --text-muted:#555; --epf-ink:#444; --epf-application:#444; } }
 /* <<< EXAMPLES PROPOSITIONS FAILURES */
+
+/* >>> NETWORK INFLUENCE WORKS · 2026-11-02
+   Category groups are parallel, not inferred causal links. Works retain authored order. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) {
+ --niw-accent:#537f9f; --niw-ink:#426984; --niw-ease:cubic-bezier(.22,.68,.25,1);
+ --ac-accent:var(--niw-accent) !important; --ac-ink:var(--niw-ink) !important;
+ --niw-node:var(--background-primary); --niw-edge:color-mix(in srgb,var(--niw-accent) 35%,var(--background-modifier-border));
+ container-type:inline-size; position:relative !important;
+ padding:1.2rem 1.4rem 1.1rem !important;
+ background:var(--ac-paper) !important; background-image:none !important;
+ border:1px solid var(--niw-edge) !important; border-radius:10px !important;
+ box-shadow:none !important; transform:none !important;
+ transition:border-color 260ms var(--niw-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]):where(.theme-dark *) { --niw-accent:#98b7cc; --niw-ink:#b2cadb; --niw-node:#2b3035; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title {
+ position:relative !important; width:100% !important; box-sizing:border-box;
+ align-items:flex-start !important; gap:.5rem !important;
+ padding:0 0 .85rem !important; margin:0 0 .85rem !important;
+ border:0 !important; background:none !important; box-shadow:none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner {
+ display:block !important; position:relative !important; flex:1 1 0% !important;
+ width:auto !important; max-width:none !important; min-width:0 !important; padding:0 84px 0 0 !important;
+ font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner::before {
+ content:"NETWORK" !important; display:block !important; width:max-content;
+ margin:0 0 .45rem !important; padding:0 0 0 22px !important;
+ font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
+ background:linear-gradient(var(--niw-accent),var(--niw-accent)) left center / 12px 2px no-repeat !important;
+ border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--niw-ink) !important;
+ transition:background-size 280ms var(--niw-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner::after {
+ content:"" !important; display:block !important; position:absolute; right:0; top:2px;
+ width:64px; height:44px; pointer-events:none;
+ background:var(--niw-accent); opacity:.5;
+ mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M16%2021l16-12%2017%2012-17%2013zM32%209v25%22/%3E%3Ccircle%20cx%3D%2216%22%20cy%3D%2221%22%20r%3D%225%22/%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%229%22%20r%3D%225%22/%3E%3Ccircle%20cx%3D%2249%22%20cy%3D%2221%22%20r%3D%225%22/%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2234%22%20r%3D%225%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
+ transform:translateX(-2px); transition:transform 420ms var(--niw-ease),opacity 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title::after {
+ content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
+ width:24px; height:2px; background:var(--niw-accent); opacity:.7;
+ transform-origin:left; transition:transform 360ms var(--niw-ease) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] { --niw-accent:#59847c; --niw-ink:#3e6e64; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"]:where(.theme-dark *) { --niw-accent:#9bbfb1; --niw-ink:#b8d6ca; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] { --niw-accent:#aa8a54; --niw-ink:#856633; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"]:where(.theme-dark *) { --niw-accent:#d3bb8b; --niw-ink:#e2cdac; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-title .callout-title-inner::before { content:"IMPACT" !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-title .callout-title-inner::before { content:"WORKS" !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Ccircle%20cx%3D%229%22%20cy%3D%2222%22%20r%3D%225%22/%3E%3Cpath%20d%3D%22M14%2022h13M27%2022V8h28M27%2022v14h28M51%204l4%204-4%204M51%2032l4%204-4%204%22/%3E%3C/svg%3E"); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Cpath%20d%3D%22M5%2038h54M11%207h10v23H11zM25%203h11v27H25zM40%209h12v21H40zM14%2012h4M28%208h5M43%2014h6%22/%3E%3C/svg%3E"); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner a.internal-link { color:inherit !important; text-underline-offset:.22em; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content { margin:0 !important; padding:0 !important; background:none !important; color:var(--text-normal) !important; font:400 .94em/1.9 var(--ac-sans) !important; overflow-wrap:anywhere; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > p { margin:0 0 1rem !important; padding:0 !important; border:0 !important; font:inherit !important; color:var(--text-normal) !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) { display:grid !important; grid-template-columns:repeat(2,minmax(0,1fr)) !important; gap:1rem 1.5rem !important; margin:0 !important; padding:0 !important; border:0 !important; background:none !important; list-style:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol)::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol)::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li {
+ display:block !important; position:relative !important; grid-column:auto !important; grid-row:auto !important; width:auto !important; min-width:0;
+ margin:0 !important; padding:1rem .3rem .65rem 1.45rem !important; border:0 !important; border-top:1px solid var(--background-modifier-border) !important; border-radius:0 !important;
+ background:none !important; background-image:none !important; box-shadow:none !important; transform:none !important;
+ color:var(--text-normal) !important; font:inherit !important; text-align:left !important; text-align-last:auto !important; letter-spacing:0 !important; overflow-wrap:anywhere;
+ transition:background-color 220ms ease,border-color 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li:last-child:nth-child(odd) { grid-column:1 / -1 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li::before {
+ content:"" !important; display:block !important; position:absolute !important; left:.1rem !important; top:1.4rem !important;
+ width:7px !important; height:7px !important; border:1px solid var(--niw-accent) !important; border-radius:50% !important;
+ background:var(--ac-paper) !important; box-shadow:none !important; transform:none !important;
+ transition:background-color 220ms ease,transform 220ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li > .list-bullet { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type {
+ display:block !important; margin:0 0 .55rem !important; padding:0 !important; border:0 !important; background:none !important; box-shadow:none !important;
+ font:600 1.06em/1.65 var(--ac-serif) !important; color:var(--niw-ink) !important; letter-spacing:.01em !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li > p { margin:0 !important; padding:0 !important; border:0 !important; background:none !important; color:var(--text-normal) !important; box-shadow:none !important; font:inherit !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li { border-left:0 !important; padding-left:0 !important; padding-right:.6rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li::before { left:.4rem !important; top:1.45rem !important; width:6px !important; height:6px !important; border:0 !important; border-top:1px solid var(--niw-accent) !important; border-right:1px solid var(--niw-accent) !important; border-radius:0 !important; transform:rotate(45deg) !important; background:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content { overflow-x:auto !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) { display:block !important; position:relative; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol)::before { content:"" !important; display:block !important; position:absolute !important; left:7px !important; top:.6rem !important; bottom:.65rem !important; width:1px !important; height:auto !important; border:0 !important; background:color-mix(in srgb,var(--niw-accent) 40%,var(--background-modifier-border)) !important; box-shadow:none !important; transform:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li { padding:0 .3rem 1.25rem 2rem !important; border:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li:last-child { padding-bottom:.1rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li::before { left:3px !important; top:.5rem !important; width:8px !important; height:10px !important; box-sizing:border-box; border-radius:1px !important; background:var(--ac-paper) !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li::after { content:"" !important; display:block !important; position:absolute; left:11px; top:.8rem; width:11px; height:1px; background:var(--niw-accent); border:0; box-shadow:none; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type { font-variant-numeric:tabular-nums; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li strong:first-of-type em { font:inherit; font-style:italic; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content table { display:table !important; width:100% !important; min-width:38rem; margin:0 !important; table-layout:auto !important; border-collapse:separate !important; border-spacing:0 !important; background:none !important; font:inherit !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content :is(th,td) { padding:.8rem .9rem !important; border:0 !important; border-bottom:1px solid var(--background-modifier-border) !important; background:none !important; box-shadow:none !important; color:var(--text-normal) !important; font-size:1em !important; line-height:1.8 !important; vertical-align:top; overflow-wrap:anywhere; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content th { color:var(--niw-ink) !important; font-size:.85em !important; font-weight:600 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content :is(th,td):first-child { width:5.5em; white-space:nowrap; font-variant-numeric:tabular-nums; color:var(--niw-ink) !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content a.internal-link { color:var(--niw-ink) !important; text-underline-offset:.22em; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]).is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]).is-collapsed > .callout-title::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]).is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]):is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]):not(.is-collapsible) > .callout-title { display:none !important; }
+@media (hover:hover) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]):hover { border-color:var(--niw-accent) !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]):hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]):hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]):not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) > li:hover { border-color:var(--niw-accent) !important; background:color-mix(in srgb,var(--niw-accent) 4%,transparent) !important; box-shadow:none !important; transform:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li:hover::before,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content > :is(ul,ol) > li:hover::before { background:var(--niw-accent) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:hover::before { transform:translateX(2px) rotate(45deg) !important; }
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) a:focus-visible { outline:2px solid var(--niw-accent); outline-offset:3px; }
+@container (max-width:600px) { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-content > :is(ul,ol) { grid-template-columns:minmax(0,1fr) !important; gap:.8rem !important; } }
+@container (max-width:360px) { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner { padding-right:60px !important; } html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; } }
+@container (max-width:260px) { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner { padding-right:0 !important; } html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) > .callout-title .callout-title-inner::after { display:none !important; } }
+@media (prefers-reduced-motion:reduce) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])[data-callout][data-callout] *,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])[data-callout][data-callout] *::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])[data-callout][data-callout] *::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])[data-callout][data-callout] > .callout-title::after { animation:none !important; transition:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])[data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"])[data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"][data-callout][data-callout] > .callout-content > :is(ul,ol) > li::before { transform:rotate(45deg) !important; }
+}
+@media print { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="person-network"],[data-callout="influence-path"],[data-callout="work-line"]) { background:none !important; box-shadow:none !important; overflow:visible !important; break-inside:avoid; --text-normal:#222; --text-muted:#555; --niw-ink:#444; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="work-line"] > .callout-content { overflow:visible !important; } }
+/* <<< NETWORK INFLUENCE WORKS */
+
+/* Relationship directory: label column and reading column; no node bullets or side rails. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) { display:block !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li { padding:1.15rem 0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li::before,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li::before { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li > p:first-of-type { display:flow-root !important; padding-left:10.5rem !important; position:relative; min-height:2em; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type { position:absolute !important; top:.1rem; left:0; width:9rem; font:600 .86em/1.8 var(--ac-sans) !important; letter-spacing:.035em !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li:has(> strong:first-of-type) { padding-left:10.5rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li > strong:first-of-type { position:absolute !important; top:1.25rem; left:0; width:9rem; font:600 .86em/1.8 var(--ac-sans) !important; letter-spacing:.035em !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li a.internal-link { text-decoration-thickness:1px; text-decoration-style:solid; }
+@container (max-width:480px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li > p:first-of-type { padding-left:0 !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li > strong:first-of-type { position:static !important; width:auto; margin-bottom:.6rem !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-network"] > .callout-content > :is(ul,ol) > li:has(> strong:first-of-type) { padding-left:0 !important; }
+}

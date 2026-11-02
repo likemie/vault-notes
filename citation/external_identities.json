@@ -1285,6 +1285,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/concepts/science-policy/Curiosity-Driven Research.md",
+        "wiki/concepts/science-policy/Dual Frontier.md",
         "wiki/concepts/science-policy/Patent Citation.md"
       ],
       "title": ""
@@ -16368,7 +16369,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/science-policy/Manuscript Rejection Boost.md"
       ],
       "title": ""
     },
@@ -114062,7 +114064,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
-        "wiki/concepts/science-policy/Citation Aging.md"
+        "wiki/concepts/science-policy/Citation Aging.md",
+        "wiki/methods/quantitative/Retrospective vs Prospective Citation Approaches.md"
       ],
       "title": ""
     },
@@ -118596,14 +118599,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/1904 Educational System.md"
-      ],
-      "title": ""
-    },
-    "福图纳托等, 2018": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/italy/Santo Fortunato.md"
       ],
       "title": ""
     },

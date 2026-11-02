@@ -13,6 +13,7 @@
 - 期刊 Argument 不记录本篇自引，不写作者与年份，也不写指向本篇的页码。书籍、教材、论文集章节和报告引用当前文献时只写页码，如（pp.147–148）。其他条目按 APA 格式引用。非 Argument 条目不写 YAML `sources` 和正文 `## 来源`；
 - “相关研究索引”中，只有同一本专著或教材的分章节 Argument 合并为一个顶层来源条目；论文集章节按各章作者与独立论证分别列出，不合并，也不用论文集 overview 替代章节证据。每个顶层索引条目只写一句话，可见文字不超过 150 个字符；脚本只提醒超限，不自动压缩正文。
 - `[!entry-map]` 条目关联只收录 Concept、Theory、Method、Instrument、Person、Fact。Argument 写入 `[!evidence-grid-a] 相关研究索引`。关系说明需要出处时，仍用 APA 短引用链接 Argument。
+- `[!person-network]` 关系网络只收录人物。机构、运动、项目、事件和其他知识对象写入 `[!entry-map]` 条目关联。说明人物关系时，句中仍可链接这些条目。
 - 不使用来源以外的知识；
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
