@@ -9,7 +9,7 @@ aliases:
 summary: "揭示学术出版过程中手稿初审遭拒重投后最终刊发成果引文表现反常提升的文献计量学现象；追踪 8 万余篇生物科学论著发表流转证实，初投被拒并在重投后见刊的手稿，其后续 6 年累积引文量系统性超越一次性直接接收的手稿，验证了同行评审审稿反馈与追加修改对科研成果质量的实际增益机制。"
 type: concept
 domain: "science-policy"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

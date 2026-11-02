@@ -7,10 +7,10 @@ aliases:
 summary: "刻画基础科学探索与工业技术发明之间大规模深度拓扑交织的理论模型；通过映射千万级学术文献与全球发明专利的双向引文网络，证实八成已发表文献最终可拓扑连接至未来商业专利，破除了学术象牙塔与产业界孤立割裂的传统认知，量化揭示了基础研究对市场技术创新的广泛渗透机理。"
 type: concept
 domain: "science-policy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - theme/science-of-science

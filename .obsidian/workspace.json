@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/canada/Douglas Walton.md",
+                "file": "wiki/persons/canada/Heather Sarsons.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Douglas Walton"
+              "title": "Heather Sarsons"
             }
           },
           {
@@ -315,6 +315,26 @@
   },
   "active": "e8cb0a5e0a417431",
   "lastOpenFiles": [
+    "wiki/methods/quantitative/Retrospective vs Prospective Citation Approaches.md",
+    "wiki/methods/quantitative/Prospective Citation Analysis.md",
+    "wiki/methods/quantitative/Retrospective Citation Analysis.md",
+    "wiki/persons/canada/Jane Knight.md",
+    "wiki/persons/canada/Heather Sarsons.md",
+    "wiki/persons/canada/Douglas Walton.md",
+    "tmp/callout-refinement/impact-lint.log",
+    "tmp/callout-refinement/impact-index.log",
+    "tmp/callout-refinement/impact-check.log",
+    "tmp/callout-refinement/impact-refine.py",
+    "tmp/callout-refinement/niw-final-check.log",
+    "tmp/callout-refinement/niw-inspect/mobile-page-01.jpg",
+    "tmp/callout-refinement/niw-inspect/mobile-fold.jpg",
+    "tmp/callout-refinement/niw-inspect/tablet-page-01.jpg",
+    "tmp/callout-refinement/niw-inspect/tablet-fold.jpg",
+    "tmp/callout-refinement/niw-inspect/desktop-page-01.jpg",
+    "tmp/callout-refinement/niw-inspect/desktop-fold.jpg",
+    "wiki/concepts/science-policy/Collaboration Search Costs.md",
+    "wiki/persons/us/Joshua Angrist.md",
+    "wiki/facts/us/United States Patent and Trademark Office.md",
     "tmp/callout-refinement/refine-no-rails.py",
     "wiki/methods/quantitative/Natural Experiment.md",
     "tmp/callout-refinement/niw-table-390.png",
@@ -326,22 +346,8 @@
     "tmp/callout-refinement/niw-dark-390.png",
     "tmp/callout-refinement/niw-dark-768.png",
     "tmp/callout-refinement/niw-dark-1440.png",
-    "tmp/callout-refinement/niw-light-390.png",
-    "tmp/callout-refinement/niw-light-768.png",
-    "tmp/callout-refinement/niw-light-1440.png",
     "tmp/callout-refinement/niw-check.log",
     "tmp/callout-refinement/niw-check.mjs",
-    "wiki/methods/quantitative/Retrospective vs Prospective Citation Approaches.md",
-    "tmp/callout-refinement/niw-lint.log",
-    "tmp/callout-refinement/niw-inspect/report.json",
-    "tmp/callout-refinement/niw-inspect/mobile-page-01.jpg",
-    "tmp/callout-refinement/niw-inspect/mobile-fold.jpg",
-    "tmp/callout-refinement/niw-inspect/tablet-page-01.jpg",
-    "tmp/callout-refinement/niw-index.log",
-    "tmp/callout-refinement/niw-inspect",
-    "tmp/callout-refinement/niw-inspect.log",
-    "tmp/callout-refinement/niw.html",
-    "wiki/persons/canada/Douglas Walton.md",
     "wiki/persons/us/Chaoming Song.md",
     "wiki/persons/italy/Santo Fortunato.md",
     "wiki/persons/canada/Christopher Martin.md",
@@ -355,12 +361,6 @@
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
     "books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
-    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
-    "wiki/facts/global/COnnecting REpositories.md",
-    "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md",
-    "wiki/facts/global/OpenAlex.md",
-    "wiki/concepts/science-policy/Retraction Penalty.md",
     "未命名.canvas"
   ]
 }

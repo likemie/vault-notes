@@ -16096,6 +16096,17 @@
     ]
   },
   {
+    "title": "Collaboration Search Costs",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Collaboration Search Costs.md",
+    "aliases": [
+      "合作搜寻成本",
+      "学术搜寻成本",
+      "科研搜寻成本",
+      "Search Costs in Science"
+    ]
+  },
+  {
     "title": "Combinatorial Novelty",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Combinatorial Novelty.md",
@@ -32776,6 +32787,18 @@
     ]
   },
   {
+    "title": "Joshua Angrist",
+    "type": "person",
+    "path": "wiki/persons/us/Joshua Angrist.md",
+    "aliases": [
+      "约书亚·安格里斯特",
+      "安格里斯特",
+      "J. Angrist",
+      "Angrist, J.",
+      "Joshua D. Angrist"
+    ]
+  },
+  {
     "title": "Julian B. Rotter",
     "type": "person",
     "path": "wiki/persons/us/Julian B. Rotter.md",
@@ -44222,6 +44245,18 @@
       "美国教育部",
       "U.S. Department of Education",
       "US Department of Education"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "United States Patent and Trademark Office",
+    "type": "fact",
+    "path": "wiki/facts/us/United States Patent and Trademark Office.md",
+    "aliases": [
+      "美国专利商标局",
+      "USPTO",
+      "美国专利局",
+      "U.S. Patent and Trademark Office"
     ],
     "subtype": "organization"
   },

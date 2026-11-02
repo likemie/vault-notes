@@ -41,7 +41,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
-  - "[[Retrospective vs Prospective Citation Approaches]]"
+  - "[[Retrospective Citation Analysis]]"
+  - "[[Prospective Citation Analysis]]"
   - "[[Network Analysis]]"
   - "[[Survey Research]]"
   - "[[Questionnaire]]"

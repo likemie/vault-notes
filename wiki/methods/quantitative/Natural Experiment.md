@@ -9,7 +9,7 @@ summary: "利用自然界、历史事件、政策突变或制度行政划分产�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

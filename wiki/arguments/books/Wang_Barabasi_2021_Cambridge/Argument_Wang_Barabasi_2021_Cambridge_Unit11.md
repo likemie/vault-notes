@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit11"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit11"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Dual Frontier]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
+  - "[[Collaboration Search Costs]]"
   - "[[Patent Citation]]"
   - "[[Grit]]"
   - "[[Research Translation]]"
@@ -70,12 +71,14 @@ related_methods:
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
+  - "[[Joshua Angrist]]"
   - "[[Abraham Wald]]"
   - "[[Dashun Wang]]"
   - "[[Pierre Azoulay]]"
   - "[[Benjamin F. Jones]]"
 related_facts:
   - "[[National Institutes of Health]]"
+  - "[[United States Patent and Trademark Office]]"
 related_arguments: []
 sources:
   - "[[books/Wang_Barabasi_2021_Cambridge/Wang_Barabasi_2021_Cambridge|Wang_Barabasi_2021_Cambridge]]"
@@ -108,7 +111,7 @@ updated: 2026-11-02
 > | **[[Manuscript Rejection Boost\|手稿拒稿增益机制]]** | 追踪大规模手稿跨刊流动，揭示遭拒重投成果因同行审稿反馈与打磨反常获得显著长程引文优势 (Calcagno et al., 2012, p. 245)。 |
 > | **[[Altmetrics\|替代计量学评价框架]]** | 依托网络交互痕迹量化成果在学术界之外的公共注意力扩散，界定其作为引文补充维度的优势与博弈风险 (Priem et al., 2010, pp. 246–248)。 |
 > | **[[Dual Frontier\|双重前沿模型]]** | 追踪基础科学成果被工业专利引用的拓扑路径，打破象牙塔与产业界割裂认知，测度公共资助的工业技术溢出 (Ahmadpoor & Jones, 2017, pp. 247–248)。 |
-> | **[[Credibility Revolution\|可信性革命因果识别范式]]** | 运用随机对照试验与外生断点自然实验克服遗漏变量与混杂偏误，在因果确定性与外部可推广性权衡中研判政策效力 (Angrist & Pischke, 2010, pp. 248–251)。 |
+> | **[[Credibility Revolution\|可信性革命因果识别范式]]** | [[Joshua Angrist|安格里斯特]]等倡导的因果推断框架，运用随机对照试验与外生断点自然实验克服遗漏变量与混杂偏误，在因果确定性与外部可推广性权衡中研判政策效力 (Angrist & Pischke, 2010, pp. 248–251)。 |
 
 > [!warrant]- 理论工具与经验机制的协同逻辑
 > 幸存者偏差模型从[[Epistemology|认识论]]根基上反思了科学学长期偏爱成功出版物的样本缺陷，指引研究者深入未公开申请底表以还原完整的创新管道；早期学术挫折双向分化假说利用断点准实验将失败变量转化为检验个体成长的外生冲击，揭示了科研系统马太效应之外的反直觉机制；替代计量学与跨界技术关联模型从微观网络交互与宏观工业转化两端重塑了学术成果的价值评价坐标，使评价指标摆脱狭隘的[[Journal Impact Factor|期刊影响因子]]迷思；可信性革命因果识别范式则为上述经验事实提供了方法论基础，明确了从关联描述迈向[[Counterfactual|反事实]]因果诊断的技术准绳，并揭示了微观局部确定性与宏观通用性之间的效度边界，共同构建起科学学方法演进与全学科共生定位的完整经验架构。
@@ -122,7 +125,7 @@ updated: 2026-11-02
 > | **手稿流动与拒稿追踪分析** | 追踪 2006–2008 年间发表于 923 种生物期刊的 80,748 篇手稿投稿历史，对比首投即收录与遭拒后改投收录手稿在刊发后六年的引文累积差异 (Calcagno et al., 2012, p. 245)。 |
 > | **替代计量指标与引文相关性检验** | 采集成果网页浏览量、社交媒体推文、博客讨论与百科引用频次，与中长期学术被引开展多变量相关分析，检验跨平台注意力的时效性与独立性 (pp. 246–247)。 |
 > | **专利与学术文献跨界双层网络映射** | 匹配分析 NIH 资助项目衍生的发明专利，构建数千万篇论著与美国专利之间的双向引用拓扑图谱，量化科学成果转化为市场技术的实际渗透率 (Li et al., 2017; Ahmadpoor & Jones, 2017, pp. 247–248)。 |
-> | **学术合作随机对照实地试验** | 在哈佛医学院内部资助研讨会中，从 400 名参会科学家中随机抽取部分配对开展 90 分钟面对面研讨，对比无面对面环节的对照组在后续实际合作率上的因果增量 (Boudreau et al., 2017, pp. 249–250)。 |
+> | **学术合作随机对照实地试验** | 在哈佛医学院研讨会中开展实地 RCT，检验降低[[Collaboration Search Costs|合作搜寻成本]]对科学家配对建立实质合作关系的因果促进效应 (Boudreau et al., 2017, pp. 249–250)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -196,7 +199,7 @@ updated: 2026-11-02
 > [!sub-claim] 2. 纳入被拒申请与未授权专利，才能打破只看成功案例的数据偏差
 
 > [!feature] 还原科学探索全流程的双重全口径数据源
-> - **全量公开专利申请追踪** 自 2001 年起，美国专利商标局（United States Patent and Trademark Office, USPTO）规定所有提交的专利申请无论最终是否获批，均须在优先权日后 18 个月内强制向社会公开。研究者借此能够完整比对最终获得授权的成功专利构想与遭到驳回的失败方案 (p. 243)。
+> - **全量公开专利申请追踪** 自 2001 年起，[[United States Patent and Trademark Office|美国专利商标局]]（United States Patent and Trademark Office, USPTO）规定所有提交的专利申请无论最终是否获批，均须在优先权日后 18 个月内强制向社会公开。研究者借此能够完整比对最终获得授权的成功专利构想与遭到驳回的失败方案 (p. 243)。
 > - **基金申请未获资助全口径档案** 包含获批与未获批提案的内部基金申请数据库，为理解科学成败提供了最丰富的信息源。部分学者已获得美国国家卫生研究院（NIH）与荷兰科学研究组织（Netherlands Organisation for Scientific Research, NWO）的内部资助底表准入资质，将此类数据与既有文献引文库相融合，使得在完整情境中动态测绘科研胜败轨迹成为可能 (p. 243)。
 
 ---
@@ -272,7 +275,7 @@ updated: 2026-11-02
 ---
 
 > [!claim|step] 论证步骤三　海量数据关联不能替代严谨因果推断，微观实验与宏观观察必须优势互补
-> 大规模学术大数据虽然能揭示丰富的关联模式，但无法直接确立变量间的因果关系。微观计量经济学发起的[[Credibility Revolution|可信性革命]]为科学学提供了两大约束偏误的因果识别武器：其一是[[Randomised Controlled Trials|随机对照试验]]（RCT），通过随机分配彻底平衡组间潜质（如哈佛医学院研讨会随机分组证实面对面交流使科研合作概率净增 75%）；其二是利用政策门槛与制度切分建立[[Natural Experiment|自然实验]]与准实验（如依托资助切分线建立的断点回归）。然而，高确定性的因果识别往往局限于特定边界样本，估算的是局部处理效应，面临可推广性不足的挑战。科学学未来不可因追求超高可信技术而回避重大全局命题，需要观察性宏观建模与微观实验识别协同并进 (pp. 248–251)。
+> 大规模学术大数据虽然能揭示丰富的关联模式，但无法直接确立变量间的因果关系。微观计量经济学发起的[[Credibility Revolution|可信性革命]]（以[[Joshua Angrist|约书亚·安格里斯特]]等人为代表，Angrist & Pischke, 2010）为科学学提供了两大约束偏误的因果识别武器：其一是[[Randomised Controlled Trials|随机对照试验]]（RCT），通过随机分配彻底平衡组间潜质（如哈佛医学院研讨会随机分组证实面对面交流使科研合作概率净增 75%）；其二是利用政策门槛与制度切分建立[[Natural Experiment|自然实验]]与准实验（如依托资助切分线建立的断点回归）。然而，高确定性的因果识别往往局限于特定边界样本，估算的是局部处理效应，面临可推广性不足的挑战。科学学未来不可因追求超高可信技术而回避重大全局命题，需要观察性宏观建模与微观实验识别协同并进 (pp. 248–251)。
 
 ---
 
@@ -287,8 +290,8 @@ updated: 2026-11-02
 
 > [!sub-claim] 9. 随机实验与[[Quasi-Experimental Designs|准实验设计]]能有效控制混杂因素，准确识别因果机制
 
-> [!case] 哈佛医学院研讨会面对面交流实地 RCT 检验合作搜寻成本
-> - **合作形成机制与搜寻成本假设** 统计数据显示科学合作普遍发生在地理空间邻近的学者之间。理论假设寻找合适搭档存在高昂的搜寻成本，因而人们倾向于就近合作；但也可能源于共享办公空间的私人友谊或相同系的共同学术兴趣 (p. 249)。
+> [!case] 哈佛医学院研讨会面对面交流实地 RCT 检验[[Collaboration Search Costs|合作搜寻成本]]
+> - **合作形成机制与搜寻成本假设** 统计数据显示科学合作普遍发生在地理空间邻近的学者之间。理论假设寻找合适搭档存在高昂的[[Collaboration Search Costs|合作搜寻成本]]，因而人们倾向于就近合作；但也可能源于共享办公空间的私人友谊或相同系的共同学术兴趣 (p. 249)。
 > - **面对面干预的严格随机化设计** 凯文·布德罗（Kevin J. Boudreau）等人（Boudreau et al., 2017）在哈佛医学院一次内部资助研讨会中实施了实地 RCT。研究者从 400 名参会科学家中随机抽取部分配对，安排参与 90 分钟的面对面构想交流；对照组科学家参与相同的构想分享，但未安排面对面专属交流环节 (pp. 249–250)。
 > - **因果效应的确立** 评估表明，随机接受面对面干预的科学家配对，其后续建立真实科研合作关系的概率较对照组显著提升了 75%。由于分组完全基于随机分配，彻底排除了既有友谊或共同兴趣等混杂因素，严格证实了消除物理搜寻成本在促进科学合作中的因果决定作用 (p. 250)。
 
