@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 84
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -101,6 +101,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
@@ -154,6 +155,7 @@ updated: 2026-11-02
 > - **[[Epistemology|认识论]]确证（Epistemological Stance）** 界定知识与求知者之间的合法关系，主客二分、追求中立客观与普遍规律发现（实证主义[[Critical Dualism|批判二元论]]），还是主客交融、强调历史情境化[[Rich and Thick Description|深描]]与价值反思（文化主义与历史传统）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
 > - **方法论规程（Methodological Axioms）** 决定了获取有效证据的正当通道与逻辑路径，推导假设、量化测量与因果法则检验，抑或是阐释学理解、制度发生学考证与意义[[Externalization|外化]]追踪。
 > - **典型范例（Exemplars）与学科基质** 库恩所指的科学共同体公认的经典[[Problem Solving|问题解决]]方案。在比较教育中，汉斯的历史文化因素分析、霍姆斯的[[Problem Approach|问题法]]以及施里维尔的世界体系系统论构成了各自范式的标志性范例。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> - **团队规模与范式创新职能分工（Team-Scale Paradigm Specialization）** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）揭示，小型科研团队倾向于通过引述分散、早期的冷门成果颠覆既有范式并提出全新假说（具有显著更高的颠覆性指数）；大型团队则倾向于跟进近期热门成果以深化成熟主流范式，形成颠覆与工程化完善的互补生态（p. 3）。
 > - **宏观注意力极化载体（Focal Attractors of Attention）** 在知识网络演化中，开创范式的关键突破在发表后数十年内持续吸纳高比例引用，构成共同体解谜的理论基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 
 > [!logic-map]- 库恩科学发展循环
@@ -180,6 +182,9 @@ updated: 2026-11-02
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
 > > **顶尖成果对范式开辟与引文份额的长期锁定** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]通过对《物理评论》跨越百余年全量出版物的追踪表明，能够引发库恩式科学革命并开辟全新研究范式的顶尖成果具有极高的引文集聚效应；在过去一个世纪中，排名前 1% 的顶尖范式成果在发表次年所吸纳的全部引文份额从 1900 年代的约 20% 稳步攀升至 2000 年代的 35%，证实了开辟新范式的突破性成果在宏观学术演化中具有对共同体注意力的深层锁定力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+>
+> > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
+> > **团队规模生态位与范式颠覆深化分工** 桑托·福图纳托等论证，科学范式的革命性断裂与渐进深耕受制于科研生产的团队组织形态。小团队倾向于颠覆既有学术共识，开辟具有破坏性的全新方向；大团队则倾向于在成熟技术路径上推进工程化精细改进。在科技资助布局中保持多样化团队生态，是防止科学建制官僚化、维系范式突破活力的制度基础。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
 
 ---
 
@@ -225,7 +230,7 @@ updated: 2026-11-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜；顶层开创成果长期锁定共同体注意力 | 自然科学与基础理论发展历史考察；引文[[Network Analysis\|网络分析]] | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; Wang & Barabási |
+> | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜；顶层开创成果长期锁定共同体注意力 | 自然科学与基础理论发展历史考察；引文[[Network Analysis\|网络分析]] | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; Wang & Barabási; [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力；行政审计通过锁定单一范式消除知识争议 | 跨范式论战、研究方法争鸣、学术体制与国家质量审计 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国学术迁移 | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
 > | **评价与治理双重转换** | 评价认识论从大纲知识转向成人生活技能，超国家治理从硬法指令转向软性数字治理 | 跨国大规模测评认识论分析、超国家区域一体化治理与软法政策协调 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
@@ -239,6 +244,7 @@ updated: 2026-11-02
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
 > - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
+> - **2018 — 团队规模在范式颠覆与深化中的功能分工确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 系统量化跨学科成果，确立小团队颠覆既有范式、大团队深化主流成熟路径的功能生态位分工（pp. 3–4）。
 > - **2021 — 科学学引文网络与范式成果注意力极化** 王大顺与巴拉巴西基于跨越百年的物理学[[Document|文献]]追踪，量化证实了开辟新范式的顶尖 1% 成果在次年所占引文份额从 20% 稳步攀升至 35%，为库恩科学革命论提供了长周期经验文献计量证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 > - **2023 — 科学学数据湖对范式颠覆与组合新颖性的实证度量（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建覆盖 1.34 亿篇跨学科文献的 SciSciNet 数据湖，大规模预计算 2,800 万篇颠覆性指数与 4,500 万篇组合新颖性测度，实证再现了小团队开辟新范式探索（颠覆性显著更高）与高引突破兼顾常规性基底与尾部新颖性的普遍规律，为宏观范式演进与知识拓扑重构提供了计算实证基底。
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
@@ -279,10 +285,12 @@ updated: 2026-11-02
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | 《物理评论》1893 至 2009 年刊载之 463,348 篇全量出版物及引文链条 | 百年长跨度期刊文献计量追踪与洛伦兹曲线分析 | 前 1% 顶层范式论著次年被引份额随历史演变序列 | 顶层 1% 成果次年被引份额由 1900 年代的约 20% 稳步攀升至 2000 年代的 35% | 跨越百年全量期刊数据拟合 | 证实开辟新范式的顶尖突破在宏观引文网络中具有持续增强的注意力极化效应 |
 > | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 高通量拓扑网络计算与科学学经典实证规律复现 | 范式开辟度量（颠覆性指数 $CD_5$）、非典型引文组合与团队规模关联 | 预计算 2,834.9 万篇 $CD_5$ 颠覆性指数与 4,571.5 万篇非典型组合度量；在大规模跨学科样本中复现小团队开辟新范式（颠覆性显著更高）与高引突破平衡常规性基底与尾部新颖性的普遍规律 | 跨 Web of Science、MAG 与官方资助库交叉验证 | 证实预计算指标能有效刻画宏观范式演进与知识拓扑重构，但对早期长尾文献存在测度覆盖边界 |
+| [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] | 6,500 万项学术论著、发明专利及开源软件跨学科数据库（1954–2014） | 团队规模、颠覆性指数（$CD$）与长周期引文计量分析 | 团队规模对范式颠覆与巩固深化的作用 | 1–2 人小型团队显著具有更高颠覆性指数 $CD$，更倾向于引述早期冷门文献以颠覆既有范式；随规模扩大 $CD$ 单调递减，大型团队更多吸纳近期高引文献以巩固深化成熟范式 | 跨期刊成果、专利与软件三大领域高度一致（$p < .001$） | 实证确立了团队规模与范式创新职能的系统性功能分工，反驳了大团队全面优越论 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立科学学定量范式，实证阐明小团队颠覆既有范式、大团队深化成熟路径的生态位分工（pp. 1–5）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，预计算 2800 万篇颠覆性指数与 4500 万篇组合新颖性测度，在大规模跨学科样本中复现小团队开辟新范式突破等经典规律，为范式演变研究提供计算实证基底。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang and Barabási (2021)]] — 依托《物理评论》百年文献库，量化证实开辟新范式的顶层 1% 论著所占次年引文份额从 20% 攀升至 35%，揭示科学革命奠基之作的注意力极化效应（pp. 180–181）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。

@@ -10,7 +10,7 @@ aliases:
 summary: "指学术文献被同行学术共同体关注并引述的倾向随发表时间的流逝而自然衰减的客观演化规律，表征科学知识的生命周期、注意力半衰期与失效期。早期文献计量学多采用纯指数衰减近似，而现代大数据实证表明带有指数截断的对数正态分布拟合最佳；王-宋-巴拉巴西引文模型由此形式化建立对数正态存活概率函数。实证追踪同时揭示了数字化搜索与同行评议制度对知识老化的显著延缓与逆转趋势（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

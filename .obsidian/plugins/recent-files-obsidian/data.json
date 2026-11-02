@@ -5,8 +5,16 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "Argument_Liu_2023_NHB",
+      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
     },
     {
       "basename": "Argument_Fortunato_2018_Science",
@@ -15,6 +23,10 @@
     {
       "basename": "Argument_Sinatra_2016_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
     },
     {
       "basename": "广东省民政事业发展十五五规划_第4至6页_校对版",
@@ -99,10 +111,6 @@
     {
       "basename": "Crowded Frontier",
       "path": "wiki/concepts/science-policy/Crowded Frontier.md"
-    },
-    {
-      "basename": "Argument_Liu_2023_NHB",
-      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
     },
     {
       "basename": "Argument_Stone_2020_PolSoc",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit05",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
-    },
-    {
-      "basename": "Disruption Index",
-      "path": "wiki/methods/quantitative/Disruption Index.md"
-    },
-    {
-      "basename": "Turn-Taking Equality",
-      "path": "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
     }
   ],
   "omittedPaths": [],

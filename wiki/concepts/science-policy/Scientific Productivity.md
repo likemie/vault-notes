@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: draft
 created: "2026-10-29"
@@ -76,7 +77,7 @@ updated: 2026-11-01
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 科研生产力测度的是学者学术劳动的输出节奏与知识公开发表频率，表征个体或科研团队在学术交流网络中的知识注入速率。
 > - **用途** 充当高校教师聘期考核、科研院所资源配置、终身教职资格筛选以及科研资助分配中的基础工作量评价基准。
-> - **边界** 生产力仅反映论著产出的数量规模，不能等同于成果被学术共同体接受、吸收与转化的实质影响力，亦无法单独作为预测学者未来开创性重[[Big Science|大科学]]发现的可靠指针。
+> - **边界** 生产力仅反映论著产出的数量规模，不能等同于成果被学术共同体接受、吸收与转化的实质影响力，亦无法单独作为预测学者未来开创性重大科学发现的可靠指针。
 
 > [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论科研生产力的长期稳定性与实质局限
 > 过去一个世纪科学知识库呈现指数级爆炸，但这主要是因为科学家总人数急剧膨胀，前人与今人的个体生产速率未现大幅跃变。整个 20 世纪学者年均发文量始终稳定在 2 篇左右。在用于量化科学卓越的众多指标中，生产力恰恰是预测长远影响最不可靠的一个，多产既包含着卓越探索，也混杂着挂名搭便车与碎化发表。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8, 15–16)]]
