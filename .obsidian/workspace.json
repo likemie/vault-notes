@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36c3b319e8d55d9e",
+        "id": "67ca6e89c548198e",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd2b79a7d96995d",
+            "id": "c6d0985243982742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/Users/shaoyangwu/Downloads/ch01_final.md",
+                "file": "file:/Users/shaoyangwu/Downloads/高中线_前十一话合集.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ch01_final"
+              "title": "高中线_前十一话合集"
             }
           }
         ]
@@ -237,8 +237,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4bd2b79a7d96995d",
+  "active": "c6d0985243982742",
   "lastOpenFiles": [
+    "file:/Users/shaoyangwu/Downloads/ch01_final (1).md",
+    "file:/Users/shaoyangwu/Downloads/ch01_final.md",
     "file:/Users/shaoyangwu/Downloads/高中线_前十一话合集.md",
     "file:/Users/shaoyangwu/Downloads/ch01_final_text.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
@@ -283,8 +285,6 @@
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-008/prompt.md",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-007/prompt.md",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-006/prompt.md",
-    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-005/prompt.md",
-    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-004/prompt.md",
     "未命名.canvas"
   ]
 }
