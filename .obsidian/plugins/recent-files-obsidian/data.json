@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Sinatra_2016_Science",
+      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
+    },
+    {
+      "basename": "林婉如和吴老师的第一次",
+      "path": "file:/Users/shaoyangwu/Downloads/林婉如和吴老师的第一次.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "Argument_Sinatra_2016_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
     },
     {
       "basename": "Argument_Fortunato_2018_Science",
@@ -195,10 +199,6 @@
     {
       "basename": "Big Science",
       "path": "wiki/concepts/science-policy/Big Science.md"
-    },
-    {
-      "basename": "John B. Fenn",
-      "path": "wiki/persons/us/John B. Fenn.md"
     }
   ],
   "omittedPaths": [],
