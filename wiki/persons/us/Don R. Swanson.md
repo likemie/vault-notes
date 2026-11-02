@@ -10,10 +10,10 @@ summary: "美籍物理学家、情报学家与图书馆学学者，芝加哥大�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 0
+person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
-person_related_color: ""
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1924"
 died: "2012"
 lifespan: "1924–2012"
@@ -72,8 +72,8 @@ updated: 2026-11-02
 > [!work-line] 主要论著
 > - **1986 — *Undiscovered Public Knowledge*（《图书馆学季刊》）** 奠基性阐明科学界由于高度专业化分工造成文献知识相互割裂的困境，确立通过概念拓扑桥接发现隐性因果假说的理论纲领。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 227)]]
 > - **1986 — *Fish Oil, Raynaud's Syndrome, and Undiscovered Public Knowledge*（《生物学与医学展望》）** 首个完整的 LBD 实证范例，通过交叉比对血液流变学与雷诺氏病文献，成功推断廿碳五烯酸（EPA）的潜在治疗价值。
-> - **1988 — *Migraine and Magnesium: Eleven Neglected Connections*（《生物学与医学展望》）** 运用闭合式发现逻辑，梳理出 11 条连接偏头痛与镁离子缺乏的生理生化中介链条。
-> - **1991 — *Complementary Structures in Disjoint Science Literatures*（《ACM SIGIR 论坛》）** 系统形式化表达开放式发现（Open Discovery）与闭合式发现（Closed Discovery）的算法推导逻辑。
+> - **1988 — *Migraine and Magnesium: Eleven Neglected Connections*（《生物学与医学展望》）** 运用封闭式检验逻辑，梳理出 11 条连接偏头痛与镁离子缺乏的生理生化中介链条。
+> - **1991 — *Complementary Structures in Disjoint Science Literatures*（《ACM SIGIR 论坛》）** 系统形式化表达开放式发现（Open Discovery）与封闭式检验（Closed Discovery）的算法推导逻辑。
 
 ---
 

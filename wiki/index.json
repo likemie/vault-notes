@@ -26406,6 +26406,16 @@
     ]
   },
   {
+    "title": "Reinforcement Learning",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Reinforcement Learning.md",
+    "aliases": [
+      "强化学习",
+      "深度强化学习",
+      "试错学习"
+    ]
+  },
+  {
     "title": "Relative Citation Normalization",
     "type": "method",
     "path": "wiki/methods/quantitative/Relative Citation Normalization.md",
@@ -26714,6 +26724,17 @@
       "stratified random sampling",
       "随机分层抽样",
       "stratified sample"
+    ]
+  },
+  {
+    "title": "Supervised Learning",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Supervised Learning.md",
+    "aliases": [
+      "监督学习",
+      "监督式学习",
+      "监督机器学习",
+      "有监督学习"
     ]
   },
   {
@@ -30810,6 +30831,17 @@
     ]
   },
   {
+    "title": "Ross D. King",
+    "type": "person",
+    "path": "wiki/persons/uk/Ross D. King.md",
+    "aliases": [
+      "罗斯·金",
+      "罗斯·D·金",
+      "R. D. King",
+      "King, R. D."
+    ]
+  },
+  {
     "title": "Roy Bhaskar",
     "type": "person",
     "path": "wiki/persons/uk/Roy Bhaskar.md",
@@ -31650,6 +31682,18 @@
       "克莱恩",
       "D. Crane",
       "Crane, D."
+    ]
+  },
+  {
+    "title": "Don R. Swanson",
+    "type": "person",
+    "path": "wiki/persons/us/Don R. Swanson.md",
+    "aliases": [
+      "唐·斯旺森",
+      "唐·R·斯旺森",
+      "D. R. Swanson",
+      "Swanson, D. R.",
+      "斯旺森"
     ]
   },
   {

@@ -11,7 +11,7 @@ summary: "通过计算文本挖掘、共现网络与语义关联算法从互不�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#fef3c7"
@@ -23,16 +23,31 @@ tags:
   - theme/science-of-science
   - theme/scientometrics
   - theme/artificial-intelligence
+related_concepts:
+  - "[[Scientific Productivity]]"
+  - "[[Causality]]"
+  - "[[Publication Bias]]"
+  - "[[Crowded Frontier]]"
+related_theories: []
+related_methods:
+  - "[[Network Analysis]]"
+  - "[[Supervised Learning]]"
+related_instruments: []
+related_persons:
+  - "[[Don R. Swanson]]"
+related_facts: []
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
 
 > [!def] Literature-Based Discovery
-> 基于文献的发现（Literature-Based Discovery, LBD）指利用计算语言学、实体抽取与网络分析技术，在相互分割、缺乏直接互引的独立文献集合之间，自动化挖掘潜在逻辑关联与新科学假说的研究方法。其理论基础为唐·斯旺森（Don Swanson）提出的“未被发现的公开知识”（Undiscovered Public Knowledge）原理与 ABC 模型：假定文献集甲探讨了概念 A 与概念 B 的关联，文献集乙探讨了概念 B 与概念 C 的关联，若两个文献群从未产生直接交集，则概念 A 与概念 C 之间蕴含极具价值且待实证检验的新科研假说。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 227)]]
+> 基于文献的发现（Literature-Based Discovery, LBD）指利用计算语言学、实体抽取与网络分析技术，在相互分割、缺乏直接互引的独立文献集合之间，自动化挖掘潜在逻辑关联与新科学假说的研究方法。其理论基础为[[Don R. Swanson|唐·斯旺森（Don Swanson）]]提出的“未被发现的公开知识”（Undiscovered Public Knowledge）原理与 ABC 模型：假定文献集甲探讨了概念 A 与概念 B 的关联，文献集乙探讨了概念 B 与概念 C 的关联，若两个文献群从未产生直接交集，则概念 A 与概念 C 之间蕴含极具价值且待实证检验的新科研假说。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 227)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 大规模学术文献全文本或摘要集合中的概念、生物化学实体、病理机制、药物靶标或交叉学科理论命题。

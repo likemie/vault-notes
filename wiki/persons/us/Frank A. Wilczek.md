@@ -10,7 +10,7 @@ summary: "美籍理论物理学家、2004 年诺贝尔物理学奖得主，麻�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
