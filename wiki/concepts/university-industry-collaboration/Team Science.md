@@ -6,6 +6,10 @@ aliases:
 summary: "以跨学科、跨机构或大规模协同为特征的科研组织范式；依托前沿知识负担加重与大型复杂仪器驱动，团队模式在当代科学中确立了主导地位，享有显著的相对团队影响力与超额引文溢价，同时也面临沟通协调成本与声望层级固化的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/research-collaboration
   - theme/university-industry-collaboration
@@ -149,10 +153,8 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立团队科学的定量规律，揭示团队发表占比达 90%、小团队颠覆与大团队深化的功能生态位及共引信誉分配算法。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 大数据实证揭示团队科学在成果产出与极高引文上的主导地位，解析相对团队影响力与跨校合作声望分层。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 阐明团队规模与创新本质法则（小团队颠覆、大团队发展），论证在任老手与新秀的最佳组装机制。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统整合团队科学大数据，解析相对团队影响力与跨校分层（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、团队规模创新本质分工（[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Unit 05]]）及学科协作规范异质性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 依托 SciSciNet 亿级文献与专利数据，预计算 4,858 万篇成果颠覆性指数，确立团队规模与颠覆度负相关的稳健性。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 揭示不同学科在团队规模偏好、署名规范与协作文化上的深刻异质性，警惕指标一刀切套用。
 
 ---
 

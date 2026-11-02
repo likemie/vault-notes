@@ -434,5 +434,11 @@
       "sentence": "随着追踪科学运行的大规模数据资源的涌现，来自不同学科背景的研究者开始将科学方法反身应用于科学本身，孕育出蓬勃发展的科学学。",
       "target": "wiki/concepts/educational-philosophy/Emergence.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md": [
+    {
+      "sentence": "理论工具箱将海量文献计量指标由表层描述提升为对底层自组织演化机制的数理阐释。",
+      "target": "wiki/concepts/research-methodology/Document.md"
+    }
   ]
 }

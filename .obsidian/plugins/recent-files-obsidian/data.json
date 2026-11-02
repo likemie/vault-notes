@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
+    },
+    {
       "basename": "Argument_Fortunato_2018_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
     },
@@ -11,6 +19,14 @@
     {
       "basename": "广东省民政事业发展十五五规划_第4至6页_校对版",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_第4至6页_校对版.md"
+    },
+    {
+      "basename": "Relative Citation Normalization",
+      "path": "wiki/methods/quantitative/Relative Citation Normalization.md"
+    },
+    {
+      "basename": "Universality of Citation Distributions",
+      "path": "wiki/theories/science-policy/Universality of Citation Distributions.md"
     },
     {
       "basename": "广东省民政事业发展十五五规划_第1至3页_校对版",
@@ -51,10 +67,6 @@
     {
       "basename": "Pepka Boyadjieva",
       "path": "wiki/persons/bulgaria/Pepka Boyadjieva.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit10",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
@@ -161,10 +173,6 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
     },
     {
-      "basename": "Relative Citation Normalization",
-      "path": "wiki/methods/quantitative/Relative Citation Normalization.md"
-    },
-    {
       "basename": "Albert-László Barabási",
       "path": "wiki/persons/us/Albert-László Barabási.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Turn-Taking Equality",
       "path": "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
-    },
-    {
-      "basename": "Team Assembly Model",
-      "path": "wiki/theories/science-policy/Team Assembly Model.md"
-    },
-    {
-      "basename": "Collective Intelligence",
-      "path": "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
     }
   ],
   "omittedPaths": [],
