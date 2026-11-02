@@ -106,12 +106,12 @@ updated: 2026-11-02
 > [!dev-timeline] 概念演变
 > - **1949 — [[Tyler Rationale\|泰勒原理]]奠基** 泰勒在《课程与教学的基本原理》中确立行为目标产物模式。[[Argument_Darwish_2009_Queens\|(Tyler, 1949, 引自 Darwish, 2009)]]
 > - **1987 — 批判解构** 葛兰蒂（Shirley Grundy）在《课程：产品、过程与实践》中将其归类为技术利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
-> - **2009 — [[Theory of Knowledge\|TOK]] 对比评估** 达维什在学位论文第 5 章中将产物范式作为评价传统教育与 TOK 课程的基础标尺。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 对比评估** 达维什在学位研究第 5 章中将产物范式作为评价传统教育与 TOK 课程的基础标尺。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 
 ---
 
 > [!warning] 适用局限
-> 产物[[Paradigm\|范式]]并非完全无用；在需要高度标准化安全规范或基础技能训练（如飞行员训练）中依然具有技术控制价值。
+> 产物[[Paradigm\|范式]]在需要高度标准化安全规范或基础技能训练（如飞行员训练）中依然具有技术控制价值。完全无用这一判断与该处说明相冲突。
 
 ---
 

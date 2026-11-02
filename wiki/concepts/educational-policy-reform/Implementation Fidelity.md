@@ -177,7 +177,7 @@ updated: 2026-11-02
 > **[[Philosophy in Schools|儿童哲学]]效果试验中的多层培训稀释危机** 在针对小学高年级儿童哲学（Philosophy for Children，P4C）的干预中，第一阶段小规模[[Efficacy Trial\|效力试验]]中（Hanley et al., 2015），由资助方与开发团队密切监督实施，学生阅读与数学成绩显著提升了约 2 个月的学习进展；然而，当该项目进入第二阶段并在数百所学校开展大规模效果检验时（Kitmitto et al., 2018），为了满足统计功效所需的大样本，项目方不得不仓促招募大量新培训师。多层级的培训稀释导致关键的思辨教学规程在班级层面严重走样变形，最终主效应量归零，生动展示了规模化导致保真度崩溃的现实风险。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Kitmitto et al., 2018, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
 
 > [!claim] World Health Organization & ExpandNet
-> **规模化是脆弱的系统重构过程** 世界卫生组织与 Exp and Net (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会蜕变为对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
+> **规模化是脆弱的系统重构过程** 世界卫生组织与 Exp and Net (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会变成对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
 
 ---
 
@@ -196,7 +196,7 @@ updated: 2026-11-02
 > **探讨维度　规范复制与校本调适的辩证平衡** 围绕自上而下的刚性照搬与一线[[Teacher Professional Agency\|教师能动性]]之间的冲突，实证研究论证了在保持核心活性成分的前提下，允许适度校本调适才是项目在复杂生态中生根的机制保障。
 
 > [!claim] Ross, S. M. & Morrison, G. R.
-> **情境多重过滤器下的适应性实施法则** 教育创新在进入真实学校时，必须穿过现行课程体系、学区问责压力、既有基础设施、校长领导风格以及社区文化等多重组织过滤器。过于教条地将保真度定义为对每一个技术细节的一字不差照搬，不仅会剥夺教师的专业自主能动性，更会引发一线抵触；合理的地方适应性调整（local adaptations）往往是项目克服组织阻力、实现长效持续运行的必要保障，绝非执行失败的表征。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 111–113)]]
+> **情境多重过滤器下的适应性实施法则** 教育创新在进入真实学校时，必须穿过现行课程体系、学区问责压力、既有基础设施、校长领导风格以及社区文化等多重组织过滤器。过于教条地将保真度定义为对每一个技术细节的一字不差照搬，不仅会剥夺教师的专业自主能动性，更会引发一线抵触；合理的地方适应性调整（local adaptations）往往是项目克服组织阻力、实现长效持续运行的必要保障。执行失败这一标签与该判断相冲突。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 111–113)]]
 
 > [!claim] Humphrey, N. et al.
 > **刚性边界与弹性调试的共存规范** 曼彻斯特大学评估团队在为 EEF 制定实施与过程评估指南时提出，评估不应盲目追求百分之百的机械保真，而应依托 TIDieR 框架精确区分项目的刚性非谈判要素（Non-negotiable core components）与校本弹性调试区（Adaptable perimeter）。只要教师恪守了核心活性成分，其针对特定生源与课表进行的灵活调整有助于提升干预黏性与实效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Humphrey et al., 2016, 引用见 Edovald & Nevill, 2021, p. 54, 引自 Edovald & Nevill, 2021)]]

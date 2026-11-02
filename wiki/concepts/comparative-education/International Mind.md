@@ -57,7 +57,7 @@ updated: 2026-11-02
 > *a general mentality among the peoples of the world more appropriate to cooperation than the nationalistic mentality*
 
 > [!boundary]- 概念边界
-> - 不等于 **[[Cosmopolitanism|世界主义]]（Cosmopolitanism）** — 世界主义倡导超越一切民族国家边界的[[Global Citizenship\|全球公民]]认同；而国际心智并不否认国家主权，而是在维护多元国家架构的基础上，通过[[Scientific Method\|科学方法]]改进国家之间的合作心态。
+> - 不等于 **[[Cosmopolitanism|世界主义]]（Cosmopolitanism）** — 世界主义倡导超越一切民族国家边界的[[Global Citizenship\|全球公民]]认同；而国际心智并不否认国家主权，它在维护多元国家架构的基础上，通过[[Scientific Method\|科学方法]]改进国家之间的合作心态。
 > - 不等于 **全球风险意识（Global Risk Consciousness）** — 全球风险意识侧重于对超越国界的系统性威胁（如环境危机、金融失序）的被动应对；国际心智则是两次大战之间理性主义秩序构建的主动教育承诺，侧重于教科书去政治化与主体间共识构建。
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-11-02
 > [!dev-timeline] 概念演变
 > - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的实践模式。
 > - **1940s–1970s — [[UNESCO]]建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制[[Discourse|话语]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
-> - **1990s 至今 — [[Lifelong Learning\|终身学习]]与[[Global Citizenship\|全球公民]]教育（GCED）的融合** “国际心智”的内核与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为理性主义话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
+> - **1990s 至今 — [[Lifelong Learning\|终身学习]]与[[Global Citizenship\|全球公民]]教育（GCED）的融合** “国际心智”的核心与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为理性主义话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
 
 ---
 

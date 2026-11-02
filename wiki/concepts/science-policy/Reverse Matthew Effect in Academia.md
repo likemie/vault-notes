@@ -108,8 +108,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 在评述[[Matthew Effect in Academia|学术马太效应]]的完整维度时专门设立边栏剖析逆向马太效应，系统引入 Lu et al. (2013) 与 Jin et al. (2019) 的实证计量发现。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási (2021)]] — 在解构团队声誉分配时重新审视逆向马太效应，形式化辨析团队间与团队内部责任分配机制，解释权威学者全身而退的深层认知根源。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]]以边栏引入 Lu et al. (2013) 与 Jin et al. (2019) 的撤稿计量；[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|第 6 单元]]辨析团队间与团队内部的责任分配。
 
 ---
 
