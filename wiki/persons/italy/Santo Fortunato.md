@@ -9,7 +9,7 @@ summary: "意大利理论物理学家与复杂网络科学家，印第安纳大�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_persons:
   - "[[Derek de Solla Price]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -82,7 +83,7 @@ updated: 2026-11-02
 
 > [!work-line] 主要著作
 > - **2007 — *Resolution limit in community detection*（《美国国家科学院院刊》）** 运用统计物理重整化思想揭示模块度优化的固有尺度缺陷，重塑网络社团探测研究范式。
-> - **2008 — *Universality of citation distributions: Toward an objective measure of scientific impact*（《美国国家科学院院刊》）** 提出以学科均值除数做归一化处理，证明不同学科引文分布跨越表面差异严格坍缩于单一主曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 160–162)]]
+> - **2008 — *Universality of citation distributions: Toward an objective measure of scientific impact*（《美国国家科学院院刊》）** 提出以学科均值除数做归一化处理，证明不同学科引文分布跨越表面差异严格坍缩于单一主曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 160–162)]]; [[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
 > - **2010 — *Community detection in graphs*（《物理学报告》）** 系统梳理图论拓扑聚类算法的数理基础与评估基准，单篇被引超万次。
 > - **2011 — *Characterizing and modeling citation dynamics*（《公共科学图书馆·综合》）** 测定引文初始吸引力参数，实证检验证实微观引文分段动力学机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 258–259)]]
 > - **2018 — *Science of science*（《科学》）** 系统构建科学学学科架构，涵盖学者生涯、团队合作、引文网络与资金配置等多维主题。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018)]]
@@ -91,6 +92,11 @@ updated: 2026-11-02
 
 > [!claim] 核心思想
 > 桑托·福图纳托主张，学术系统是典型的复杂自组织网络，其微观行为与宏观结构由可测量的统计物理定律所支配。科研评价与学术资助必须尊重复杂系统的内在规律；对于引文网络中的马太效应，只有当成果累积被引越过特定经验阈值后优先连接才真正生效，此前的引文积累受到随机涨落与初始吸引力的共同调控。
+
+> [!citation-card] 科学实践的实证显微镜与工具开发
+> 科学学将科学实践本身置于定量实证显微镜之下，致力于形成对科学发现、创造力与科研实践微观演进规律的定量理解，并开发旨在加速科学进步的制度工具与政策方案。其核心价值在于，唯有深刻理解驱动科学成功的深层机制，人类社会才能更加高效地应对环境、社会与技术挑战。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 1)]]
+>
+> *The science of science (SciSci) places the practice of science itself under the microscope, leading to a quantitative understanding of the genesis of scientific discovery, creativity, and practice and developing tools and policies aimed at accelerating scientific progress. The value proposition of SciSci is that with a deeper understanding of the factors that drive successful science, we can more effectively address environmental, societal, and technological problems.*
 
 ---
 
@@ -101,7 +107,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 领衔发表《科学》封面综述，系统确立科学学涵盖科学网络、选题权衡、生涯动力学、团队演化与引文机制的跨学科实证范式。
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási (2021)]] — 在专著中系统评述其科学学纲领（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）以及 7 次被引优先连接临界门槛实证检验（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 258–259）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在专著中系统评述其科学学纲领（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）以及 7 次被引优先连接临界门槛实证检验（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 258–259）。
 
 ---
 
@@ -131,3 +137,5 @@ updated: 2026-11-02
 > | [[Initial Attractiveness]] | 概念 | 实证测定引文初始吸引力常数 $c_0 \approx 7$，确立优先连接机制的分段触发边界。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 证明低被引阶段由常数吸引力主导，高被引阶段由累积优势线性支配的双段动力学。 |
 > | [[Matthew Effect in Academia]] | 概念 | 澄清学术富者愈富机制需要跨越 7 次被引门槛方才全面激活的经验边界。 |
+> | [[Relative Citation Normalization]] | 方法 | 合作建立以学科均值除数做尺度重标度的无量纲归一化分析方法。 |
+> | [[Network Analysis]] | 方法 | 建立网络社团结构探测的拓扑基准并揭示模块度优化的内生分辨率极限。 |

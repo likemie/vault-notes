@@ -14,7 +14,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_facts:
   - "[[Microsoft Academic Graph]]"
   - "[[SciSciNet]]"
 related_arguments:
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
@@ -102,6 +103,7 @@ updated: 2026-11-02
 > - **1997 — Web of Science 全球网络化整合** 推出基于万维网的数字化综合检索平台，集成 SCI、SSCI 与 A&HCI，消除了纸本与光盘检索的物理隔阂。
 > - **2016 — 个体微观生涯动力学跨学科实证** 罗伯塔·西纳特拉（Roberta Sinatra）等依托 WoS 跨学科数据集提取 7 大学科领域的 24,630 位学者全生涯发表数据，通过年份与学科基准归一化十年被引（$c_{10}$），实证确证[[Random Impact Rule|随机影响规律]]与[[Q-Model|Q 模型]]在自然科学与社会科学中的跨领域普适性。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–599)]]
 > - **2017–2021 — 科学学重大理论实证依托** 萨蒂亚姆·穆克吉等基于 WoS 涵盖的 **2,800 万篇**跨学科文献，证实融合前沿探索与深厚经典的[[Knowledge Hotspots|知识热点]]能够提升成果成为顶尖爆款的概率达 2.2 倍；王大顺与巴拉巴西基于该数据库揭示了百年文献指数增长与引文动力学的统一物理规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 162–163)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 199–202)]]
+> - **2018 — 全景科学学实证范式基石** 桑托·福图纳托等在《科学》发表纲领综述，依托 WoS 收录的数千万篇成果绘制全球科学指数级增长曲线（图 1A），并基于近两千万篇跨学科成果实证揭示团队科研对学者独立探索模式的历史性替代。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–4)]]
 > - **2023 — 开放数据湖大规模基准验证** 林子敬（Zijing Lin）等在构建 SciSciNet 开放数据湖时，将 WoS 作为顶级期刊引文计数的外部黄金检验基准；在《自然》、《科学》与 PNAS 成果抽样验证中，SciSciNet 重算引文与 WoS 记录的一致性相关系数达 0.99 以上，证实了引文统计跨数据库的可靠性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
@@ -133,6 +135,7 @@ updated: 2026-11-02
 
 > [!stat-cards]- 关键实证数据
 > - **80M+** 收录全球文献总量逾 8,000 万篇；引文关联连线逾 17 亿条。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
+> - **19.9M** 科学学团队规模跨越半个世纪历时演化研究所依托的 WoS 跨学科期刊成果样本量（1,990 万篇）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **> 0.99** SciSciNet 与 WoS 在顶刊抽样中的引文一致性相关系数（CCC）。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **28M** 知识热点研究所依托的跨学科全量期刊论著样本（2,800 万篇）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–202)]]
 > - **90%+** 主流文献引文数据库中英语出版物占比超过 90%，反映出全球文献覆盖的语种偏误。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 341–350)]]
@@ -144,7 +147,7 @@ updated: 2026-11-02
 > > [!axis] 短期期刊影响因子绑架 vs 单篇长程终极价值回归
 > > 学术界围绕 WoS 衍生的期刊影响因子能否作为单篇论著学术价值的评判标准展开了长达数十年的反思与批判。
 > >
-> > - **管理主义唯 JIF 论** 各国科研管理机构广泛采纳 WoS 期刊分区与 JIF 分值作为职称晋升与科研津贴发放的硬性评价抓手。
+> > - **管理主义唯 JIF 论** 各国科研管理机构广泛采纳 WoS 期刊分区与 JIF 分值作为职称晋升与科研津贴发放的硬性考评依据。
 > > - **旧金山宣言（DORA）与脱钩论批判** 科学计量学家指出，同一期刊内部单篇被引跨越三个数量级方差；长达 20 年的队列追踪证实，名刊带来的曝光红利在二十年后完全消退，同适应度的论著最终收获相等的[[Ultimate Impact|终极学术影响力]]，过度依赖短期 JIF 扭曲了基础科学选题生态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 206–208, 214–217)]]
 >
 > > [!axis] 商业数据壁垒与语种盲区 vs 全球多源学术数据生态
@@ -154,7 +157,7 @@ updated: 2026-11-02
 > > - **多源实体对齐与开放基准构建** 学界主张突破单一商业库依赖，将 WoS 与 Scopus、OpenAlex 以及公共资助库（如 NSF/NIH）通过学者姓名消歧与实体链接进行交叉整合，以构建兼顾权威性与开放性的全景科学学数据基础设施。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 341–350)]]; [[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!lessons] 经验教训与启示
-> - **计量标尺异化风险** 单纯用于文献检索与馆藏决策的引文索引被管理主义泛化为科研绩效评价抓手后，导致学界出现针对指标的投机性引文堆砌与期刊影响因子操纵。
+> - **计量标尺异化风险** 单纯用于文献检索与馆藏决策的引文索引被管理主义泛化为科研绩效评价工具后，导致学界出现针对指标的投机性引文堆砌与期刊影响因子操纵。
 > - **开放与封闭的平衡演变** 长期依赖专有商业数据库的高昂订阅壁垒促使科学学界呼吁建设透明、可复现、开源的公共学术数据基础设施。
 
 ---
@@ -179,6 +182,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提取 WoS 7 大领域 24,630 位学者全生涯序列，通过跨学科基准归一化十年被引验证随机影响规律与 Q 模型的跨学科普适性。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将 WoS 作为宏观科学学演化的核心数据基础设施，基于全景文献时序实证揭示学术出版物年度指数级增长轨迹（图 1A）及两千万篇成果展现的团队协作主导趋势（图 4）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）— 检视百年文献指数增长律（Unit 01, 07）并依托 2,800 万篇全样本确立知识热点突破架构（Unit 09, pp. 200–202）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 将 WoS 顶刊引文记录作为外部黄金验证基准，通过跨库抽样比对检验 SciSciNet 重算引文网络的测量一致性（CCC > 0.99）。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将 WoS 定位为科学学全景多源数据体系的中游核心基石，系统剖析其与 Scopus 及 OpenAlex 的多源记录链接规程，并揭示其超过 90% 的英语出版物语种偏误与高昂商业获取壁垒（pp. 341–350）。

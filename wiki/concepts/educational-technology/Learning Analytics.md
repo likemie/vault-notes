@@ -109,7 +109,7 @@ updated: 2026-11-02
 > - **全息数据追踪与数字海洋（Digital Ocean）** 从传统教育评价的“数字荒漠”提升为对学习过程细粒度数字痕迹（交互频率、测验耗时、视频回放、讨论区语义）的全面捕获。[[Argument_Thompson_2022_Promising_Student\|(Behrens & DiCerbo, 2014; Thompson et al., 2022, p. 224)]]
 > - **学习者建模与预测分类（Learner Modeling）** 基于多源认知与行为数据构建预测模型（如 ASAP 分类器），早期识别学业失败风险或高潜能力特质。[[Argument_Thompson_2022_Promising_Student\|(Pea, 2014; Thompson et al., 2022, p. 224)]]
 > - **纵向[[Learning Gain\|学习增益]]测算（Longitudinal Gain Analytics）** 借助[[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）与[[Item Response Theory\|项目反应理论]]（IRT），对学生在大学就读期间的[[Higher-Order Thinking Skills\|高阶思维]]与跨学科能力增量实施跨年级追踪评估。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
-> - **仪表盘可视化与即时反馈反馈回路（Dashboards & [[Feedback]] Loop）** 将复杂算法输出转化为红绿警戒色、进度条与推荐雷达图，驱动个性化自适应学习或辅导员先发制人干预。[[Argument_Amos_2022_Springer\|(Amos, 2022, pp. 56–57)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, pp. 242–245)]]
+> - **仪表盘可视化与即时反馈回路（Dashboards & [[Feedback]] Loop）** 将复杂算法输出转化为红绿警戒色、进度条与推荐雷达图，驱动个性化自适应学习或辅导员先发制人干预。[[Argument_Amos_2022_Springer\|(Amos, 2022, pp. 56–57)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, pp. 242–245)]]
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-11-02
 > - **2000 年代中 — 教育数据挖掘（EDM）萌芽** 随着学习管理系统（LMS, 如 Moodle/Blackboard）普及，研究者开始运用关联规则、分类与聚类算法挖掘学生日志数据。
 > - **2011 年 — 学习分析（LA）概念正式确立** 首届国际学习分析与知识大会（LAK 2011）召开，正式将 LA 定义为聚焦人类学习理解与优化的[[Comparative Education as a Cross-Sectional Area|交叉学科]]，与偏重算法的 EDM 形成互补。
 > - **2010 年代中 — [[Preemptive Governance\|先发制人治理]]与在线自测（[[Online Self-Assessment\|OSA]]）应用** 欧美高校将 LA 技术前移至招生与衔接阶段，通过在线自测构建[[Digital Self\|数字自我]]并开展先发制人式生源管理。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 224)]]
-> - **2010 年代末 — 国家级[[Learning Gain\|学习增益]]（Learning Gain）大规模试验** 英国 [[Higher Education Funding Council for England\|HEFCE]]（2014–2018）、德国 [[KoKoHs Program\|KoKoHs]] 与意大利 [[TECO Project\|TECO]] 运用机考分析与 [[Collegiate Learning Assessment\|CLA+]] 等工具开展院校增值测查。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
+> - **2010 年代末 — 国家级[[Learning Gain\|学习增益]]（Learning Gain）大规模试验** 英国 [[Higher Education Funding Council for England\|HEFCE]]（2014–2018）、德国 [[KoKoHs Program\|KoKoHs]] 与意大利 [[TECO Project\|TECO]] 运用机考分析与 [[Collegiate Learning Assessment\|CLA+]] 等工具开展院校增值测查。HEFCE 计划覆盖英国 70 余所高校的 13 项试验。这些试验表明跨年级学习增益可以测查，同时促使高校反思内部教学考核，分析重点从点击流转向高阶认知增益。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
 > - **2020 年代至今 — 生成式 AI 时代的多模态分析与高阶素养对齐** 面对大语言模型冲击，学习分析正转向多模态过程性证据整合，探索如何通过真实表现量规克服[[Multiple-Choice Questions\|选择题]]分析的[[Construct\|构念]]代表性不足。
 
 ---
@@ -181,7 +181,6 @@ updated: 2026-11-02
 >
 > | 研究 / 项目 | 样本规模与实施情境 | 研究设计与数据源 | 核心考察[[Variable\|变量]] | 原始统计与实证发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 17–19)]] / HEFCE 计划 | 英国 70 余所高校，13 项试验子项目 | 纵向跨阶段追踪与自适应测验 | 本科生通用能力增益与院校增值 | 证实结合 [[Collegiate Learning Assessment\|CLA+]] 等工具可实现跨年级[[Learning Gain\|学习增益]]测查，但对高校内部教学考核方式产生长远反思重塑 | 验证了学习分析从点击流向高阶认知增益分析转向的政策可行性 |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 18)]] / 意大利 TECO 测评 | 意大利 23 所大学逾 6,000 名本科生 | 机考化纵向能力测评分析 | 跨学科核心通用能力分布 | 成功建立全国性大学生高阶素养基准数据库，为大学质量保障提供跨校可比增益依据 | 展示了全国性机考分析平台在支持高校自我诊断中的效能 |
 > | Klinge et al. (2020)（引自 [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 243–244]]） | 数字健康与学习仪表盘实验参与者 | 质性追踪与用户情绪测量 | 仪表盘色彩符号的情感冲击力 | 即使专家已口头澄清结果无大碍，被仪表盘“红色”标示的参与者仍经历数周焦虑与行为自抑 | 证实仪表盘视觉符号具有压倒理性评估的强烈情感与行为[[Disciplina and Doctrina\|规训]]效应 |
 

@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 87
+method_related_count: 89
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -92,6 +92,7 @@ related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 related_persons:
   - "[[Mark Ginsburg]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -117,6 +118,7 @@ related_arguments:
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-05-23
@@ -292,7 +294,7 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 体系化梳理准实验五大经典设计（非等对控制组、时间序列、[[Regression Discontinuity Design\|断点回归]]、轮换对等），详析选择-成熟交互与均值回归等效度威胁（Ch. 16, pp. 317–324）。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 全景比较 12 所清算中心对 QED 的因果审查规程（0–3 级编码），揭示 [[What Works Clearinghouse\|WWC]] 与 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 的 0.05–0.25 SD 基线等值模型及 QED 在最高证据层级中的制度性分歧（pp. 8–11）。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 深入探讨 QED 在 [[Every Student Succeeds Act\|ESSA]] Tier 2 政策证据层级中的应用，提出[[Counterfactual\|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性（pp. 109–112）。
@@ -302,3 +304,4 @@ updated: 2026-11-02
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示组间准实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]被随意机械混杂（全库仅 30% 纯粹基于组间实验，51 项混杂组间与组内设计），实证证明跨设计总体参数[[Incommensurability|不可通约性]]违背对因果解释力造成的毁灭性冲击。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐明科学学利用政策行政切分线构建准实验设计以克服选择偏差，评估早期挫折对长期成就因果影响的规程与局限（pp. 243–245, 248–251）。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 强调科学学研究必须超越纯描述性关联模型，倡导深度结合计量经济学准实验设计评估资助机制与评审政策改革的实际因果效应。（pp. 5–6）

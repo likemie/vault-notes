@@ -9,7 +9,7 @@ summary: "量化研究数据分析的基础步骤，通过集中趋势、离散�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Multiple Regression]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
@@ -49,8 +50,9 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
-status: completed
+status: active
 created: 2026-06-01
 updated: 2026-11-02
 ---
@@ -135,3 +137,4 @@ updated: 2026-11-02
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释在调查与实验量化研究中规范开展描述统计、诊断并填补缺失数据的标准程序(Ch. 8)。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 通过对美国 1950 至 2010 年代 [[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 联邦资助、博士授权机构数、在读时间、资助集中度及医学院债务等宏观统计数据展开长时段历史描述性分析，揭示战后科研体制扩张的结构性压力。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 阐明科学学从描述性经验规律提炼（如引文幂律与网络拓扑）跨越至机器学习预测与微观计量因果推断的方法论演进路径（pp. 341–350）。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 对跨学科引文分布、科研团队规模世纪演化及概念空间增长实施全景描述性统计分析，并强调科学学必须从描述统计演化迈向评估科技政策干预净效应的因果推断。（pp. 2–5）

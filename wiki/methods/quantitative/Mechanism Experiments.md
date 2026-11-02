@@ -2,23 +2,24 @@
 title: Mechanism Experiments
 aliases:
   - 机制实验
-summary: "用于测试特定行为机制或理论路径的小规模现场实验，强调解释干预为何起作用而不仅是估计其平均效果。"
+  - 机制试验
+  - 行为机制实验
+  - mechanism experiment
+summary: "发展经济学与循证教育学中用于检验特定行为理论或因果路径的小规模现场实验设计；通过隔离或鼓励特定中介变量，追问干预通过何种因果路径发挥作用，为实践者提供具备跨情境可迁移性的行为原则。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
-- mechanism-experiments
-- rct
-- experimental-design
-- evidence-based-education
-- improvement-science
-- paradigm/positivist
+  - method/quantitative
+  - method/experimental-design
+  - theme/evidence-based-education
+  - theme/causal-inference
 related_concepts:
   - "[[Champ]]"
   - "[[Counterfactual]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
+  - "[[Intervention]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Realist Evaluation]]"
@@ -37,94 +39,96 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Black Box RCTs]]"
   - "[[Experimental Research]]"
-related_persons: []
+related_instruments: []
+related_persons:
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
-confidence: medium
-status: draft
-created: '2026-05-02'
-updated: 2026-10-30
+  - "[[Argument_Fortunato_2018_Science]]"
+confidence: high
+status: active
+created: 2026-05-02
+updated: 2026-11-02
 ---
 
-> [!info] 定义
-> 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或因果机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials\|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是追问"什么使这个项目有效——通过什么因果路径"。
+---
+
+> [!def] Mechanism Experiments
+> 机制实验（Mechanism Experiments）是发展经济学与循证教育学中用于测试特定行为理论或因果路径的小规模现场实验设计。与评估整个复杂项目或干预包平均效果的黑箱随机对照试验不同，机制实验通过隔离并操纵特定因果中介环节，不仅检验项目是否有效，更探究干预起效的具体因果路径，从而为实践者提供具备跨情境迁移价值的行为原则。[[Argument_Peterson_2016_IJRME|(Peterson, 2016, p. 303)]]；在科学学与科研体制改革中，机制实验表现为在基金分配中试行部分随机抽签或盲审改革以激活非主流探索的制度干预检验。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
+
+> [!method-scope] 方法范围
+> - **研究对象** 具体的教育教学行为机制、心理认知中介、组织管理微观干预，以及科研资助评审流程中的制度机制试验（如抽签资助机制、双盲评议）。
+> - **问题类型** 因果机制检验、中介路径识别、干预关键活性成分提取。
+> - **[[Unit of Analysis|分析单位]]** 课堂师生互动单元、教师行为微观策略、具体评审或立项决策环节。
+> - **输出形式** 中介效应估计值、机制独立因果贡献度、跨项目可迁移行为原则与制度设计建议。
+
+> [!citation-card] 机制实验的核心界定
+> 机制实验是用于检验特定行为理论的小规模现场实验。在教育反事实范式中，机制被界定为影响学习行为或理解变化的最直接且最显著的因素。[[Argument_Peterson_2016_IJRME|(Peterson, 2016, p. 303)]]
 >
-> > "Mechanism experiments are small-scale [[Champ\|field]] experiments to test a specific behavioural theory." ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011]])
+> *Mechanism experiments are small-scale field experiments to test a specific behavioural theory... in the counterfactual paradigm, a mechanism is defined as the most direct and prominent factor influencing changes in learning behaviour or understanding.*
+
+---
+
+> [!method-position] 认识论与方法定位
+> - **知识观** 强调因果可解释性与生成机制的本质真实性；认为知识唯有被解构为离散的活性成分，才具备跨越特定学校或文化场域的通用外推力。
+> - **研究者角色** 兼具理论假设推演者与微观实验现场设计者；研究者须基于严谨的行为或经济理论精准剥离中介变量，设计不干扰真实教学或评审的操纵方案。
+> - **有效性标准** 内部效度（通过随机分配或工具变量排除内生性）、机制纯净度（确保操纵精准作用于目标机制而非复合包裹）、跨情境可推广性（在多个异质干预中复现正向间接效应）。
+> - **不声称回答的问题** 单一机制实验不能直接估计多要素复合干预包在宏观层面的全量平均处理效应，亦无法完全替代大规模政策推广试点的整体评估。
+
+> [!method-stack] 方法层级
+> - **研究设计** 微观现场随机化实验、析因实验设计（Factorial Design）、鼓励设计（Encouragement Design）、嵌入式中介试验。
+> - **数据收集** 课堂师生微观行为观察记录、数字化教学平台交互日志、教师详细反馈文本、科研资助申请评审打分与抽签追踪档案。
+> - **分析方法** 因果中介分析、随机工具变量估计、结构方程模型、跨试验间接效应元回归。
+> - **辅助技术** 实施提醒与领导支持鼓励机制、双盲评议随机分配系统、中介变量操作化检核表。
+
+---
+
+> [!proc] 通用程序
+> 1. **提炼理论机制假说** 基于行为科学、学习科学或经济理论，明确干预起效的核心假设机制（如详细反馈提升学习动力、抽签分配破除评委避险）。
+> 2. **设计离散操纵方案** 针对目标机制设计微观实验变体；若直接操纵存在伦理或现实阻力，则采用鼓励设计（如向教师随机推送实施提醒）构建外生变异。
+> 3. **实施小规模现场随机化** 将样本随机分配至不同机制暴露水平或控制组，严格监控实施过程以确保机制单一性。
+> 4. **测量中介与终极产出** 采集针对中间机制变量的直接测量数据及最终学习或科研产出指标。
+> 5. **因果中介效应分解与稳健性诊断** 运用反事实中介模型分解直接效应与间接效应，检验无未观测混杂假设。
+> 6. **跨情境概化性检验** 在多个异质教学环境或学科资助场景中重复测试同一机制，验证其作为通用理论构建块的稳定性。
+
+> [!method-stack] 数据与[[Variable|变量]]
+> - **数据结构** 微观截面实验数据、跨项目多阶段面板数据。
+> - **样本与单位** 参与特定微观教学环节的师生群体，或参与科研立项评议的申请书与评审专家组。
+> - **变量或测量** 自变量（机制操纵或鼓励分配状态）、中介变量（特定行为执行度、详细反馈采纳率、非主流选题入选率）、因变量（学生学业增值、科技突破产出）。
+
+---
+
+> [!method-fit] 适用判断
+> - **适合使用** 评估复杂干预包中的活性成分、测试具体行为科学助推策略、优化教育政策与科研资助中的微观机制设计。[[Argument_Peterson_2016_IJRME|(Peterson, 2016, pp. 303–305)]]; [[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
+> - **谨慎使用** 干预要素高度交织、机制难以在物理或认知层面单独剥离的情境；需配合鼓励设计审慎排除溢出效应。
+> - **不适合使用** 宏观法律法规或涉及重大财政投入的不可分割国家工程的总体影响评估。
+
+---
+
+> [!method-limits] 方法局限
+> - **偏误来源** 鼓励设计中存在非顺从行为导致的局部平均处理效应偏误；中介变量测量误差。
+> - **适用边界** 理论机制的定义在社会科学中存在实在论（隐藏推动力）与反事实中介论的分歧；高度依赖高质量的行为观测与中介度量。
+> - **误用风险** 将实验室或小规模现场机制的显著性，直接等同于大规模学校系统在自然实施条件下的宏观成效。
+> - **补救方式** 采用工具变量法校正非顺从行为，结合实在论评估（[[Realist Evaluation]]）进行定性深入分析，开展跨试验多中心复制检验。
+
+---
+
+> [!entry-map] 相关理论与方法
 >
-> 在教育的[[Counterfactual\|反事实]][[Paradigm\|范式]]内，一个可操作的机制定义是：**机制是影响学习行为或理解变化的最直接且最显著的因素([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303]])**。
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Cartwright's Three-Stage Knowledge Framework]] | 理论 | 为机制实验提供回应因果外推难题的认识论支撑。 |
+> | [[Realist Evaluation]] | 对比范式 | 实在论评估探索隐性情境-机制-结果构型，与反事实定量中介形成互补。 |
+> | [[Randomised Controlled Trials]] | 上位方法 | 机制实验是克服传统黑箱 RCT 外推缺陷而发展出的理论导向微观实验取向。 |
+> | [[Black Box RCTs]] | 对比方法 | 黑箱 RCT 仅评估干预包整体平均效果，机制实验则打开因果黑箱提取离散活性成分。 |
+> | [[Random Assignment]] | 基础技术 | 随机分配为机制或鼓励状态提供反事实可比性与无偏因果推断保障。 |
 
-> [!note-] 历史沿革
-> - 机制实验源自**发展经济学**领域的[[Random Assignment\|随机化]]实验传统——与教育领域从医学借鉴的黑箱 [[Randomised Controlled Trials\|RCT]] 不同，发展经济学家（Duflo, Glennerster, & Kremer, 2006）明确倡导"使用理论作为设计评估和解释结果的必要指导"([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303]])
-> - 发展经济学家将随机化现场实验视为基于具体原则（来自经济理论或行为科学）实证检验干预的手段（Card, DellaVigna, & Malmendier, 2011）
-> - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 提出将机制实验引入教育"什么有效"策略，作为从黑箱 RCT 转向"什么有效 2.0"的核心改革
+---
 
-> [!abstract] 与黑箱 [[Randomised Controlled Trials\|RCT]] 的对比
-> | | 黑箱 RCT | 机制实验 |
-> |---|---|---|
-> | 核心问题 | 这个项目有效吗？ | 什么使这个项目有效？通过什么路径？ |
-> | [[Unit of Analysis\|分析单位]] | 整个项目/干预包 | 特定[[Causality\|因果]]机制/行为变化 |
-> | 对教师[[Praxis\|实践]]的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可[[Transfer Translation Transformation\|迁移]]的行为原则 |
-> | 适用决策类型 | 二选一（采用或不采用） | 持续小决策（如何调整、组合、适应） |
-> | 来源[[Paradigm\|范式]] | 医学药物试验 | 发展经济学现场实验 |
->
-> > 例：在教师反馈项目中，黑箱 RCT 仅评估"反馈培训包"的整体效果。机制实验则隔离测试一个关键机制——例如教师是否使用详细反馈而非通用反馈——通过[[Random Assignment\|随机分配]]教师接受不同形式的初始培训([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 304]])。
-
-
-> [!abstract] 核心优势
-> 1. **更可能被忠实实施** 因为聚焦于单一机制而非整个因果链，监控实施更简单、成本更低([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303]])
-> 2. **更强的可迁移性** 测试离散的教育变革机制提高了在不同情境和人群间转移的可能性([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 305, citing Deaton, 2010]])
-> 3. **回应教师的"如何"和"为什么"问题** 教师最需要的是"哪些具体行动或策略能帮助学生学习"（Villegas-Reimers, 2003, p. 39），而非"应该买哪个预制项目"([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 305]])
-> 4. **与学习科学的连续性** 机制实验桥接了随机化评估与学习科学（Bransford et al., 2000）——后者研究学习的社会性和情感性过程，需要允许高度改编而非程序化实施([[Argument_Peterson_2016_IJRME\|Peterson, 2016, pp. 305–306]])
-
-
-> [!abstract] 鼓励设计（Encouragement Design）
-> 由于在教育情境中直接操纵中介[[Variable\|变量]]可能困难（例如随机分配教师接受不同形式的培训可能产生与自然响应不同的行为），Imai, Tingley, & Yamamoto (2013) 提出了**鼓励设计**作为替代方案。
->
-> **操作方式** 受试者被随机分配接受"鼓励"以采取更高值的中介变量——例如教师被随机分配接受来自[[School Leadership\|学校领导]]团队的额外提醒以执行干预的关键要素。关键假设：(1) 鼓励仅通过中介变量影响结果；(2) 鼓励对中介变量的影响是线性的（无"违抗者"或不成比例受影响的受试者）([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 304]])。
->
-> **嵌入黑箱 RCT** 评估者可与项目开发者合作，识别项目产生效果的关键假设机制。学校被随机分配至处理组、对照组或"处理+鼓励"条件。在机制试验中，处理组教师的随机子集还接受对关键项目要素的持续指导和提示([[Argument_Peterson_2016_IJRME\|Peterson, 2016, pp. 304–305]])。
->
-> > 例：在一项教师反馈改进项目中，鼓励设计可以是教师被随机分配接受学校领导团队的额外短信提醒以执行培训中学到的详细反馈策略。鼓励组与纯处理组的差异隔离了"详细反馈"这一机制的独立因果贡献。
-
-
-> [!abstract] 跨试验检验机制的概化性
-> 一个特定机制是否可概化的检验在于：鼓励状态是否在多个处理状态中与显著的正向间接效应相关([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 305, citing Birckmayer & Weiss, 2000, p. 410]])。这意味着同一机制（如"详细反馈"）需要在多个不同项目情境中被测试，以建立其作为通用"构建块"的地位。
-
-> [!example] 与相关概念的区别
-> - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials\|RCT]] 评估整个项目而不打开因果机制；机制实验以机制为[[Unit of Analysis\|分析单位]]
-> - **vs [[Randomised Controlled Trials]]** — 机制实验是 RCT 的一种特定设计取向，不是替代 RCT 而是改革其设计方式
-> - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估仍紧密链接到特定项目的"项目理论"；机制实验聚焦于可在多个项目中迁移的机制原则([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 303]])
-
-> [!info] 理论基础
-> - [[Cartwright's Three-Stage Knowledge Framework]] — 机制实验通过关注因果机制而非完整项目，直接回应 Cartwright 的外推挑战（it-works-somewhere → it-will-work-for-us）
-> - **发展经济学的[[Random Assignment\|随机化]]传统** — Duflo, Glennerster, & Kremer (2006) 的方法论指导明确强调理论在[[Experimental Research|实验设计]]和结果解释中的必要作用
-
-> [!success] 实证发现
-> - 在教育中采用机制实验的系统性实证检验仍处于早期阶段——[[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 主要提供方法论论证和操作框架，而非实证结果
-> - 发展经济学领域已积累相关证据（Card, DellaVigna, & Malmendier, 2011）
-> - 行为科学中 BCT 分类法（Michie et al., 2013）已获 250+ 引用，展示了"活性成分"分类在健康干预中的可行性
-
-> [!warning] 机制定义的根本困难
-> **争议背景** 机制的统一定义在教育和社会科学中尚未达成共识。
->
-> - **[[Counterfactual\|反事实]]/[[Variable\|变量]]取向** 机制等同于可观测的中介变量——可通过统计方法（如因果中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）
-> - **实在论取向** 机制大多是"隐藏的"且不能被直接研究——[[Realist Evaluation\|实在论评估]]者寻求"未言明的"机制和小的"推动"式特征，这些特征塑造决策和行为（Pawson, 2013, pp. 127–128; Astbury & Leeuw, 2010, p. 368）
->
-> [[Argument_Peterson_2016_IJRME\|Peterson (2016, p. 303)]] 承认这一争论在"什么有效"指导中"未解决"，但提出务实的中间立场：在教育反事实[[Paradigm\|范式]]中，将机制定义为"影响学习的最直接因素"是可操作的。
-
-
-> [!warning] 教育研究经费不足的限制
-> 从发展经济学和公共健康领域借鉴的方法可能需要教育领域无法承担的研究经费水平([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])。Peterson 建议通过重新分配现有资金流（如汇集英国各 What Works 中心的活动经费建立跨领域研究者探究小组）来部分缓解此限制。
-
-
-> [!warning] 目前状态
-> 机制实验在教育中的系统应用仍处于倡议阶段——[[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 的论文提供的是概念论证和操作路线图，其实施效果尚未经过实证检验。
-
-> [!example] 相关案例／政策
-> - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 [[Education Endowment Foundation\|EEF]] 角色从聚合项目效果转向编目"活性成分"机制
-> - [[What Works Network]] — 建议汇集跨中心经费建立机制识别专家小组
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Peterson_2016_IJRME|Peterson (2016)]] — 系统论述机制实验的方法论优势与操作框架，主张从黑箱 RCT 转向提炼可迁移行为原则的循证教育新阶段。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 倡导在科技评价与资助体系改革中引入机制实验（如部分随机抽签资助试验与双盲评议），以严谨实证评估打破同行评议避险惯性。（p. 5）

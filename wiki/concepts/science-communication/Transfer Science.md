@@ -136,6 +136,7 @@ updated: 2026-11-02
 
 > [!claim] Manitius & van Holt
 > **情境特殊性排斥普适性医学转化** 教育知识转移无法被还原为线性的研究发现到实践措施转化链条，因为转移过程中的因果关联极难预测，且高度受制于实践者的主观态度、价值取向与具体制度情境。尽管[[Evidence-Based Education|循证教育]]倡导者频频援引医学转化经验作为典范，但医学领域的干预结果具备高度的生理普适性与外部有效性，而教育学的研究对象是充满主观建构与多元互动的高度复杂情境，简单的医学机械类比忽视了教育实践对转化转译的质性要求。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11]]
+> [[NuBiL]] 项目对中小学在岗教师的动机类型分析表明，教师并不被动消费研究成果，其使用行为高度由解决微观教学困惑的自主反思动机驱动。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019, p. 12)]]（引 Otto et al., 2019）
 
 ---
 
@@ -189,7 +190,6 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计与模型 | [[Variable\|变量]]或核心指标 | 关键实证结果 | 不确定性与解释边界 |
 > |---|---|---|---|---|---|
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 12–13)]] | 德国联邦与 16 州联合教育改革项目 | 宏观政策档案分析与治理[[Document\|文献]]审查 | [[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（Qualitätsoffensive Lehrerbildung, QLB）资助规模 | 联合投入高达 **5 亿欧元（500 Mio. Euro）** 专项经费优化全德三阶段师资质量（联邦-州行政协议 BLV, 2013） | 官方财政协议统计，覆盖全德各高校师训改革 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 12)]]（引 Otto et al., 2019） | [[NuBiL]] 项目：中小学在岗教师样本 | 实证[[Questionnaire\|问卷调查]]与动机[[Typological Analysis\|类型分析]] | 教师使用教育科研成果的驱动动因 | 教师并不被动消费研究成果，其科研使用行为高度由解决微观教学困惑的自主反思动机驱动 | 德语区 NuBiL 项目一期阶段性实证调查 |
 > | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 德国高校教师教育者与在岗研训主管（$N = 189$） | 问卷调查与教学中介效用评价 | [[Clearing House Unterricht\|教学清算中心（Clearing House Unterricht, CHU）]]使用效用评分（1–6 分） | 个人使用效用、自身教学适用性、专业知识拓展与时间精力减负均获 4–5 分高正面评价 | 教师教育者主观接受度与中介减负感知 |
 
 ---

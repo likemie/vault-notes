@@ -219,7 +219,7 @@ updated: 2026-11-02
 > - **1993—1996 年：系统教学观与建构性对齐萌芽** Biggs 将学生学习、教学情境与评估理解为相互作用的非线性系统，1996 年正式提出“建构性对齐”概念。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, p. 64)]]
 > - **1999 年：微观课程操作框架完整化** Biggs 发表经典文章，整合[[Constructivist Paradigm\|建构主义]]、目标动词、[[Criterion-Referenced Test\|标准参照评估]]、[[SOLO Taxonomy\|SOLO]] 质量阶梯与[[Assessment Backwash\|评估反拨]]，奠定全球高等教育课程设计的理论基石。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–73)]]
 > - **2000 年代初至 2010 年代：[[Bologna Process\|博洛尼亚进程]]与学习成果本位推广** 欧洲高等教育区将建构性对齐采纳为推行 ECTS 学分制、模块化大纲与成果导向教育（[[Outcomes-based Education\|OBE]]）的核心指导原则。
-> - **2015 年：与[[Visible Learning\|可见的学习]]（Visible Learning）框架衔接** Hattie 强调预先公开[[Success Criteria\|成功标准]]、协调表层与[[Surface and Deep Learning\|深层学习]]，并建立评估反馈反馈回路，丰富了对齐的实证心理机制。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015a, pp. 80–89)]]
+> - **2015 年：与[[Visible Learning\|可见的学习]]（Visible Learning）框架衔接** Hattie 强调预先公开[[Success Criteria\|成功标准]]、协调表层与[[Surface and Deep Learning\|深层学习]]，并建立评估反馈回路，丰富了对齐的实证心理机制。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015a, pp. 80–89)]]
 > - **2020 年代至今：多层级治理与全课程[[Authentic Assessment\|真实性评价]]重塑** [[OECD]] 报告（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）反思模块化过度考核弊端，倡导通过 [[TESTA Project\|TESTA]] 全专业整合、VALUE 量规校准及国家资格框架联动，构建现代[[Higher-Order Thinking Skills\|高阶思维]]培养的多层级对齐生态。
 
 ---

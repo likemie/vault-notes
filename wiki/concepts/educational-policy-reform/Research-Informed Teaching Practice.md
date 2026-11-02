@@ -86,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!def] Research-Informed Teaching Practice
-> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指教育者以发表的学术研究成果（如同行评议论性文章、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]报告与循证工具包）为依据组织教学决策与课堂实践的专业取向。[[Department for Education|英国教育部]]（Department for Education, DfE）将其界定为“实践者专业智慧与最佳外部研究及评估证据的有机结合”（DfE, 2014）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 159–160)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 明确指出，“研究知情”（research-informed）根本不同于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）：学术研究证据只是完整证据知情拼图（evidence-informed [[Jigsaw]]）中的一块关键碎片。RITP 必须与[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）、课堂形成性数据及教师[[Professional Judgment\|专业判断]]深度嵌合，才能克服学术证据脱离校本学情的悬浮风险。
+> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指教育者以发表的学术研究成果（如同行评议文章、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]报告与循证工具包）为依据组织教学决策与课堂实践的专业取向。[[Department for Education|英国教育部]]（Department for Education, DfE）将其界定为“实践者专业智慧与最佳外部研究及评估证据的有机结合”（DfE, 2014）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 159–160)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 明确指出，“研究知情”（research-informed）根本不同于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）：学术研究证据只是完整证据知情拼图（evidence-informed [[Jigsaw]]）中的一块关键碎片。RITP 必须与[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）、课堂形成性数据及教师[[Professional Judgment\|专业判断]]深度嵌合，才能克服学术证据脱离校本学情的悬浮风险。
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦外部学术实证研究成果向课堂日常教学的转译、情境化改编与实践嵌入机制。
@@ -216,7 +216,7 @@ updated: 2026-11-02
 > > - **需求端转译模式** 主张依托 [[Research Learning Communities\|RLC]] 等跨校网络与中介支架实现深度消化。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 161–162)]]
 
 > [!tension] 核心张力
-> - **外部验证策略的科学严谨性** 依靠同行评议论性文章与综合工具包提供因果机制与概率性有效保障。
+> - **外部验证策略的科学严谨性** 依靠同行评议文章与综合工具包提供因果机制与概率性有效保障。
 > - **教师[[Tacit Knowledge|默会知识]]与教学信念的主观性** 根植于一线日常摸爬滚打的教学直觉与本土文化[[Habitus|惯习]]。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 160)]]
 
 > [!warning] 适用局限与实践阻碍
@@ -235,7 +235,6 @@ updated: 2026-11-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 161–162)]] 引 Brown, Daly and Liou (2016); Godfrey (2016) | 英格兰 43 所小学骨干教师与校领导团队 | 历时一学年、四次跨校工作坊的干预试验与[[Network Analysis\|社会网络分析]]（SNA） | [[Research Learning Communities\|RLC]] 模式对教师[[Research Utilization\|研究利用]]深度、专业自信及教学策略革新的影响 | 教师将研究与实践相融合的能力显著提高，学校由依赖浅层小妙招转向探究有效机制；但缺乏前置数据诊断的学校容易陷入追逐热门话题偏差 | 社会网络分析与追踪[[Questionnaire\|问卷]]显著改善 | 证实结构化研习协议对[[Research Translation\|研究转译]]的有效性；但对学生最终[[Academic Achievement\|学业成绩]]的直接因果影响仍需更大规模 [[Randomised Controlled Trials\|RCT]] 检验 |
-> | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 130)]] 引 Cooper et al. (2017) | 加拿大安大略省小学教师联合会（[[Elementary Teachers' Federation of Ontario\|ETFO]]）教师会员 | 针对课堂评估实践的大规模问卷调查与[[In-depth Interview\|深度访谈]] | 教师搜寻[[Effective Teaching\|有效教学]]信息时的主要渠道与证据信赖偏好 | 教师最首要的信息搜寻渠道为其他一线教师（同行网络）；对[[Practice-Based Evidence\|实践本位证据]]的信任与采纳频率显著高于原始学术文章 | — | 表明实践端对同行网络的天然依附，单向文献推送无法取代社会性人际转译 |
 
 ---
 

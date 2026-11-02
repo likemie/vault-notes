@@ -1184,8 +1184,6 @@
     "Asrizal et al., 2023": "Asrizal et al., 2023",
     "Association of Internet Researchers (2002)": "Association of Internet Researchers, 2002",
     "Association of Internet Researchers, 2002": "Association of Internet Researchers, 2002",
-    "Astbury & Leeuw (2010)": "Astbury & Leeuw, 2010",
-    "Astbury & Leeuw, 2010": "Astbury & Leeuw, 2010",
     "Astill et al. (2012)": "Astill et al., 2012",
     "Astill et al., 2012": "Astill et al., 2012",
     "Astin (1984)": "Astin, 1984",
@@ -3049,8 +3047,6 @@
     "Brankovic, 2018": "Brankovic, 2018",
     "Brannen (2005)": "Brannen, 2005",
     "Brannen, 2005": "Brannen, 2005",
-    "Bransford et al. (2000)": "Bransford et al., 2000",
-    "Bransford et al., 2000": "Bransford et al., 2000",
     "Brantly Womack (2012)": "Brantly Womack, 2012",
     "Brantly Womack, 2012": "Brantly Womack, 2012",
     "Branz-Spall et al. (2003)": "Branz-Spall et al., 2003",
@@ -13268,9 +13264,7 @@
     "Krejcie & Morgan (1970)": "Krejcie & Morgan, 1970",
     "Krejcie & Morgan, 1970": "Krejcie & Morgan, 1970",
     "Kremer (2000)": "Kremer, 2000",
-    "Kremer (2006)": "Kremer, 2006",
     "Kremer, 2000": "Kremer, 2000",
-    "Kremer, 2006": "Kremer, 2006",
     "Kreps (1966)": "Kreps, 1966",
     "Kreps, 1966": "Kreps, 1966",
     "Kreskey (2016)": "Kreskey, 2016",
@@ -18388,9 +18382,7 @@
     "Pawson & Tilley (1997)": "Pawson & Tilley, 1997",
     "Pawson & Tilley, 1997": "Pawson & Tilley, 1997",
     "Pawson (2006)": "Pawson, 2006",
-    "Pawson (2013)": "Pawson, 2013",
     "Pawson, 2006": "Pawson, 2006",
-    "Pawson, 2013": "Pawson, 2013",
     "Payne (1992)": "Payne, 1992",
     "Payne et al. (1980)": "Payne et al., 1980",
     "Payne et al. (2007)": "Payne et al., 2007",
@@ -24569,8 +24561,6 @@
     "Villares et al., 2012b": "Villares et al., 2012b",
     "Villarino (2025)": "Villarino, 2025",
     "Villarino, 2025": "Villarino, 2025",
-    "Villegas-Reimers (2003)": "Villegas-Reimers, 2003",
-    "Villegas-Reimers, 2003": "Villegas-Reimers, 2003",
     "Villena-Taranilla et al. (2022)": "Villena-Taranilla et al., 2022",
     "Villena-Taranilla et al., 2022": "Villena-Taranilla et al., 2022",
     "Villiger (2019)": "Villiger, 2019",
@@ -25848,8 +25838,6 @@
     "Yakar, 2021": "Yakar, 2021",
     "Yamamoto & Li (2012)": "Yamamoto & Li, 2012",
     "Yamamoto & Li, 2012": "Yamamoto & Li, 2012",
-    "Yamamoto (2013)": "Yamamoto, 2013",
-    "Yamamoto, 2013": "Yamamoto, 2013",
     "Yaman & Karasah (2018)": "Yaman & Karasah, 2018",
     "Yaman & Karasah, 2018": "Yaman & Karasah, 2018",
     "Yamato & Bray (2006)": "Yamato & Bray, 2006",
@@ -35819,21 +35807,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md",
         "wiki/concepts/research-methodology/Online Research Ethics.md"
-      ],
-      "title": ""
-    },
-    "Astbury & Leeuw, 2010": {
-      "aliases": [
-        "Astbury & Leeuw, 2010",
-        "Astbury & Leeuw (2010)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Astbury & Leeuw, 2010"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Mechanism Experiments.md"
       ],
       "title": ""
     },
@@ -49562,21 +49535,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/mixed/Mixed Methods Research.md"
-      ],
-      "title": ""
-    },
-    "Bransford et al., 2000": {
-      "aliases": [
-        "Bransford et al., 2000",
-        "Bransford et al. (2000)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bransford et al., 2000"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Mechanism Experiments.md"
       ],
       "title": ""
     },
@@ -123955,21 +123913,6 @@
       ],
       "title": ""
     },
-    "Kremer, 2006": {
-      "aliases": [
-        "Kremer, 2006",
-        "Kremer (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Kremer, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Mechanism Experiments.md"
-      ],
-      "title": ""
-    },
     "Kreps, 1966": {
       "aliases": [
         "Kreps, 1966",
@@ -145127,7 +145070,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Peterson_2016_IJRME.md",
-        "wiki/methods/quantitative/Mechanism Experiments.md",
         "wiki/persons/us/Amelia Peterson.md"
       ],
       "title": ""
@@ -161047,21 +160989,6 @@
         "wiki/persons/uk/Terry Wrigley.md",
         "wiki/theories/educational-philosophy/Critical Realism.md",
         "wiki/theories/research-methodology/Realist Evaluation.md"
-      ],
-      "title": ""
-    },
-    "Pawson, 2013": {
-      "aliases": [
-        "Pawson, 2013",
-        "Pawson (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Pawson, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Mechanism Experiments.md"
       ],
       "title": ""
     },
@@ -205760,21 +205687,6 @@
       ],
       "title": ""
     },
-    "Villegas-Reimers, 2003": {
-      "aliases": [
-        "Villegas-Reimers, 2003",
-        "Villegas-Reimers (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Villegas-Reimers, 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Mechanism Experiments.md"
-      ],
-      "title": ""
-    },
     "Villena-Taranilla et al., 2022": {
       "aliases": [
         "Villena-Taranilla et al., 2022",
@@ -214944,21 +214856,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
-      ],
-      "title": ""
-    },
-    "Yamamoto, 2013": {
-      "aliases": [
-        "Yamamoto, 2013",
-        "Yamamoto (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Yamamoto, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/quantitative/Mechanism Experiments.md"
       ],
       "title": ""
     },

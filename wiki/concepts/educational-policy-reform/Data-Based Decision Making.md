@@ -93,7 +93,7 @@ updated: 2026-11-02
 > [!contrast-table] 基于数据的决策 vs. [[Research-Informed Teaching Practice\|研究知情教学实践]] vs. [[Evidence-Informed Practice\|证据知情实践]]
 > | 比较维度 | 基于数据的决策（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Evidence-Informed Practice\|证据知情实践]]（EIP） |
 > |---|---|---|---|
-> | **核心证据源** | 学校与系统内部多源数据：评估成绩、学业档案、[[Classroom Observation\|课堂观察]]与行为记录 | 外部学术实证研究：同行评议论性文章、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]工具包 | 外部研究 ＋ 内部数据 ＋ 教师[[Professional Judgment\|专业判断]] |
+> | **核心证据源** | 学校与系统内部多源数据：评估成绩、学业档案、[[Classroom Observation\|课堂观察]]与行为记录 | 外部学术实证研究：同行评议文章、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]工具包 | 外部研究 ＋ 内部数据 ＋ 教师[[Professional Judgment\|专业判断]] |
 > | **核心[[Epistemology\|认识论]]功能** | 针对诊断：本校/本班存在哪些真实学情痛点与深层成因 | 方案供给：针对具体问题，外部成熟有效干预策略及其作用机制 | 整体融通：以数据精准针对，以研究提供方案，以专业判断情境转译 |
 > | **主导实施载体** | [[Data Team Intervention\|数据团队]]（Data Team）、成绩仪表盘、形成性测评分析会 | [[Research Learning Communities\|研究学习共同体]]（RLC）、教研文献研读组、院校协作网络 | 整合性[[School Enquiry Cycle\|学校探究循环]]（ESTI）、[[Professional Learning Community\|专业学习共同体]]（PLC） |
 > | **认知素养要求** | [[Data Literacy\|数据素养]]、指标分析与定性定量三角验证 | [[Research Literacy\|研究素养]]、文献评估技能与分析立场 | 双素养协同：同时具备数据分析与[[Research Translation\|研究转译]]整合能力 |

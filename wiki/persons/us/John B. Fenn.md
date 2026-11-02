@@ -9,7 +9,7 @@ summary: "美籍分析化学家与诺贝尔化学奖得主，曾任耶鲁大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Random Impact Rule]]"
   - "[[Constant-Probability-of-Success Model]]"
   - "[[Hot-Streak Model]]"
+  - "[[R-Model]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -38,13 +39,15 @@ related_persons:
   - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 ---
@@ -68,12 +71,12 @@ updated: 2026-11-01
 > - **1967–1987** 担任耶鲁大学教授，从事分子束与超声速自由射流研究。
 > - **1987** 达到 70 岁规定上限被耶鲁大学强制退休，随后转赴弗吉尼亚联邦大学建立新实验室。
 > - **1988–1989** 发表电喷雾电离质谱技术突破性论著，成功测定完整蛋白质大分子的分子量。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, p. 596)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
-> - **2002** 荣获诺贝尔化学奖。
+> - **2002** 荣获诺贝尔化学奖；其学术经历被科学学界作为打破年龄决定创造力迷思的实证典范。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 > - **2010** 逝世于弗吉尼亚州里士满。
 
 ---
 
-> [!work-line] 主要论著
+> [!work-line] 主要著作
 > - **1988 — *Electrospray Interface for Liquid Chromatographs and Mass Spectrometers*（《科学》）** 首次展示电喷雾电离对非挥发性生物大分子的无损离子化效能。
 > - **1989 — *Electrospray Ionization for Mass Spectrometry of Large Biomolecules*（《科学》）** 确立现代蛋白质组学质谱鉴定的核心物理方法。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, p. 596)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 58)]]
 
@@ -81,6 +84,11 @@ updated: 2026-11-01
 
 > [!claim] 核心思想
 > 约翰·B·芬恩（John B. Fenn）的一生印证了科学探究的持久生命力。他在 70 岁后的技术突破从实证角度打破了将[[Creativity|创造力]]局限于青年期的教条，证明了维持科研仪器研制的热情与持续的探索尝试，是学者在生命全周期不断实现重大发现的根本保障。
+
+> [!citation-card] 给分子大象装上飞行的翅膀（电喷雾电离）
+> 电喷雾电离技术的突破在于使庞大而脆弱的完整生物大分子在不发生热裂解的情况下带电进入真空质谱仪。科学探索的本质是持续尝试，即便在常规职业生涯终点，只要保持实验活力，依然能够开辟全新的研究天地。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
+>
+> *Electrospray ionization gave wings to molecular elephants... Fenn demonstrated that keeping scientific research active in late career provides equal opportunities for breakthroughs.*
 
 ---
 
@@ -91,6 +99,7 @@ updated: 2026-11-01
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将芬恩（$N^*=N$）与维尔切克（$N^*=1$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记述芬恩七旬做出诺奖成果的传奇生平，反驳创造力随年龄衰退的迷思，印证爆发期随时可能降临并批评科技资助的刚性年龄红线。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将芬恩作为生涯动力学的经典案例（图 3），印证重大科学突破在毕生发表序列中服从均匀随机分布，证实突破概率与生理年龄脱钩。
 
 ---
 
