@@ -101,7 +101,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **学术合作者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 共同深耕拉美高等教育政治社会学与[[Conditioned State Theory|受限国家]]危机分析。
-> - **批判分析对象** [[World Bank|世界银行]]与[[Business Roundtable|商业圆桌会]] — 系统解剖两者跨国与本土相互呼应的新自由主义教育政策议程。
 > - **理论同盟** [[Michael W. Apple]] — 在解构新自由主义管理主义教育联盟上持有高度一致的[[Analytical Stance|批判立场]]。
 
 ---

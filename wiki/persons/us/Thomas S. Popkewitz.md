@@ -127,7 +127,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **学术同盟** [[Michael W. Apple]] — 威斯康星大学[[James Madison|麦迪逊]]分校长期同事，共同确立麦迪逊作为全球[[Critical Pedagogy|批判教育学]]核心学术阵地的声誉。
 > - **理论对话者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与跨国组织[[Policy Borrowing|政策借用]]机制上展开深度理论对话与互补。
-> - **分析对象** [[OECD]] 与跨国政策治理网络 — 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality|治理术]]。
 
 ---
 
@@ -150,6 +149,8 @@ updated: 2026-11-02
 > | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”假设背后的排斥性分类炼金术。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示跨国组织如何通过“软法”规训侵蚀民族国家主权提供认识论维度的呼应。 |
 > | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
+> | [[OECD]] | 组织 | 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality\|治理术]]。 |
+> | 跨国政策治理网络 | 组织 | 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality\|治理术]]。 |
 
 ---
 

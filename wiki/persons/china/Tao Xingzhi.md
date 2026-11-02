@@ -117,7 +117,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **师承／合作者** [[John Dewey]] — 导师；[[Hu Shi]]、[[Jiang Menglin]] — 哥大校友网络与[[New Education Movement\|新教育运动]]同仁。
 > - **继承者／研究者** 陈汉才（1981） — 1980年代陶行知评价重构者。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.85]]）
-> - **机构／运动** [[New Education Movement]] — 核心领导者；《新教育评论》 — 创办人；晓庄试验乡村师范 — 创办人。
 
 ---
 

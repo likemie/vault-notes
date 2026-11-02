@@ -132,7 +132,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **合作者** 齐·肖（ZhiMin Xiao）、阿迪特·卡西姆（Adetayo Kasim） — 杜伦大学方法学合作团队，共同完成 17 项早期 [[Randomised Controlled Trials\|RCT]] 复算审计。
 > - **批评者 / 方法论敌** [[Adrian Simpson]] — 杜伦大学数学教育教授，系统批评其工具包联盟表犯下“类别错误”与测量设计混淆。
-> - **依托机构与平台** [[Education Endowment Foundation]]、[[Sutton Trust]]、杜伦大学教育学院。
 
 ---
 
@@ -149,3 +148,11 @@ updated: 2026-10-30
 
 > [!warning] 自述局限
 > Higgins 本人多次提醒，工具包中的综合月数绝非一成不变的物理常数，其实际落地成效完全取决于学校基层教师的[[Implementation Fidelity\|实施保真度]]与校本转化能力。
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Education Endowment Foundation]] | 组织 | |
+> | [[Sutton Trust]] | 组织 | |
+> | 杜伦大学教育学院 | 组织 | |

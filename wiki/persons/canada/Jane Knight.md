@@ -133,7 +133,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **合作学者** [[Philip Altbach|菲利普·阿特巴赫]]（Philip Altbach） — 长期合作探讨全球[[Internationalization of Higher Education|高等教育国际化]]、跨境人员流动与中心-边缘结构不平等。
 > - **理论对话与批评者** 埃尔弗特（Matthias Erfurth）、扎普（Mike Zapp） — 既借用其分类学，又批评其早期枢纽模型缺乏对[[Geopolitics|地缘政治]]权力博弈与不平等后果的批判性反思。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 203, 211)]]; [[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–156)]]
-> - **关联机构与网络** [[University Alliance of the Silk Road|丝绸之路大学联盟]]（[[University Alliance of the Silk Road|UASR]]） — 其[[Knowledge Diplomacy|知识外交]]框架被广泛用于审视该跨国多边大学网络及下属专业工程办学实践。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
 

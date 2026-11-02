@@ -91,7 +91,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **批评者／论敌** [[Paul Morris]] — 长期批判其将意识形态强灌包装为德育、消解香港教育专业自主权的威权逻辑。
 > - **批评者／论敌** [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 对其杂糅西方决断论解构[[One Country, Two Systems\|一国两制]]法治契约的学术逻辑进行了系统性批判。
-> - **机构／运动／项目** [[National Security Law]] — 其主权决断思想的终极宪制载体。
 
 ---
 

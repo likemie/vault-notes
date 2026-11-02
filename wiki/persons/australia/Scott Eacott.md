@@ -148,7 +148,6 @@ updated: 2026-10-30
 > - **师承／思想资源** [[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）— 实践理论、[[Champ|场域]]与反思社会学奠基；芬威克·W·英格利希（Fenwick W. English）— 长期学术对话导师，常建议其学术沟通应更为温和。
 > - **论敌／批判对象** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）— 可见学习品牌创始人，2017 年公开回应指责埃考特嘲笑严谨性。
 > - **学术共鸣与经验接续者** [[Klaus Nielsen|克劳斯·尼尔森]]（Klaus Nielsen）与延斯·克利特默勒（Jens Klitmøller）— 在北欧心理学与教育实证审计中深度接续其[[Neo-Taylorism|新泰勒主义]]命题；叶夫根尼·戈洛夫钦（Evgeny Golovchin）— 在俄罗斯教师行政负荷实证调查中应用其持续数据生产理论；马修·约翰逊（Matthew Johnson）— 运用其理论剖析维州 [[Victorian HITS and Literacy Toolkit|HITS]] 监控策略。
-> - **制度批判对象** 澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）— 推动大师品牌国家标准化的官方科层机构。
 
 ---
 

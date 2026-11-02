@@ -135,8 +135,6 @@ updated: 2026-10-30
 > - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术伙伴，共同推进[[Governing by Numbers\|数字治理]] 2.0 与[[Policy Brokerage\|政策中介]]批判分析。
 > - **师承／合作关系** [[Christian Ydesen]] — 长期跨学科同道，共同探索战后国际组织史与当代指标政治的对接。
 > - **师承／合作关系** Dennis Niemann — 长期合作伙伴，共同开创“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”概念模型。
-> - **机构／运动／项目** University of Bremen / SFB 1342 — 长期科研根据地，汇聚全球顶尖社会政策比较学者。
-> - **机构／运动／项目** [[OECD]] — Martens 最核心的实证分析靶标。
 
 ---
 
@@ -168,4 +166,6 @@ updated: 2026-10-30
 > | [[Education-for-Mandates]] | 概念 | 提出者与数据库主持人，揭示非专门国际组织跨界干预教育的使命嵌入机制。 |
 > | [[Policy Brokerage]] | 概念 | 理论奠基者之一，剖析国际组织作为政治化政策中介的运转逻辑。 |
 > | [[Façade of Rationality]] | 概念 | 关键[[Dialogue in Education\|对话]]者，论证数字指标如何为充满歧义性的政策行动搭建理性外衣[[Scaffolding\|脚手架]]。 |
-> | [[OECD]] | 机构 | 核心剖析对象，系统揭示其软治理机制在成员国引发的政策重构。 |
+> | [[OECD]] | 机构 | 核心剖析对象，系统揭示其软治理机制在成员国引发的政策重构。
+> | University of Bremen | 机构 | 长期科研根据地，汇聚全球顶尖社会政策比较学者。
+> | SFB 1342 | 项目 | 长期科研根据地，汇聚全球顶尖社会政策比较学者。 |

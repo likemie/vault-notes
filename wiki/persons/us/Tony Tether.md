@@ -134,10 +134,8 @@ updated: 2026-10-26
 ---
 
 > [!person-network] 关系网络
-> - **机构管理者** [[DARPA]] — 2001–2009 年出任局长，任期最长。
 > - **前任制度基础** [[George Heilmeier]] — 继承并严格执行[[Heilmeier Catechism|海尔迈耶问卷]]中的中期里程碑考核精神。
 > - **学术研究者与评判者** [[Erica Fuchs]] — 在《Research Policy》里程碑论文中以瑟瑟任期作为核心比较案例构建[[Embedded Network Governance|嵌入型网络治理]]理论。
-> - **外部批评与监督机构** [[National Academy of Sciences]] — 汇总大学学者抗议并就基础科研经费缩减展开国会质询。
 > - **政治经济学批判学者** [[Fred Block]] — 在《Politics & Society》论文中将泰瑟时期的涉密化倒退作为隐形[[Developmental Network State|发展型网络国家]]制度弊端的核心实证案例。
 
 ---
@@ -153,6 +151,7 @@ updated: 2026-10-26
 > | [[Developmental Network State]] | 理论 | 解释泰瑟任期作为隐蔽发展型网络国家易受军事主管偏好绑架而倒退的核心理论。 |
 > | [[Fred Block]] | 人物 | 深刻剖析泰瑟治下涉密化对大学计算机科研生态破坏的经济社会学家。 |
 > | [[DARPA]] | 机构 | 2001–2009 年担任局长，创办无人驾驶大挑战赛并资助 CALO、UNIC 等战略项目。 |
+> | [[National Academy of Sciences]] | 机构 | 汇总大学学者抗议并就基础科研经费缩减展开国会质询。 |
 
 ---
 

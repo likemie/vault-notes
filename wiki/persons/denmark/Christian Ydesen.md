@@ -143,7 +143,6 @@ updated: 2026-10-27
 > - **师承／合作关系** Maren Elfert — 合作撰写《全球教育治理》（2023），系统重构 [[UNESCO]] 与[[World Bank\|世界银行]]/[[OECD]] 的六十年博弈史。
 > - **师承／合作关系** Sotiria Grek — 合作撰写《经合组织在教育领域的历史性崛起》（2019），开创治理复合体分析架构。
 > - **批评者／论敌** [[Andreas Schleicher]] — OECD 指标帝国的主要掌舵人，其技术官僚中立叙事是 Ydesen 历史社会学批判的直接对话靶标。
-> - **机构／运动／项目** [[OECD]] — 其[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）及指标部门的制度史构成 Ydesen 毕生研究的中心档案库。
 
 ---
 

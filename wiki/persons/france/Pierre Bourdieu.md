@@ -191,7 +191,6 @@ updated: 2026-10-30
 > - **学术同道与合作** Jean-Claude Passeron — 关键法兰西学术同行，合著多本教育再生产核心著作；Loïc Wacquant — 芝加哥大学社会学家，合著阐述[[Reflexivity|反思性]]社会学方法。
 > - **学生／继承者** [[Bob Lingard|鲍勃·林加德]]（[[Bob Lingard]]）、[[Fazal Rizvi|法扎尔·里兹维]]（[[Fazal Rizvi]]）、肖恩·罗沃尔（Shaun Rawolle）— 拓展全球教育政策场域分析；郑雅君（[[Yajun Zheng]]）— 拓展中国高等教育习性变现研究。
 > - **批评者／论敌** Luc Boltanski — 曾为其研究室核心助手，后脱离再生产[[Paradigm|范式]]，创立强调行动者日常评判能力的[[Pragmatic Paradigm|实用主义]]社会学；[[Bruno Latour]] — 科学技术论学者，批评其采取了剥夺被调查者[[Self Explanation|自我解释]]权的限制性姿态；Jacques Rancière — 哲学家，批判再生产学说在逻辑上无限确认了支配的不可避免，消解了底层自我解放的能动空间。
-> - **机构／运动／项目** 法兰西学院（Collège de France）、欧洲社会学中心（Centre de sociologie européenne, [[Creative Self-Efficacy|CSE]]）、《社会科学研究学术活动》（ARSS）— 实践社会学与反思性研究的制度阵地。
 
 ---
 

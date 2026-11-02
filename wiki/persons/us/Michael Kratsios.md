@@ -130,7 +130,6 @@ updated: 2026-10-26
 > - **思想渊源与同行** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel） — 早年在 Thiel Capital 担任重要幕僚，深受其关于打破科技停滞、重振物理实体创新的技术哲学影响。
 > - **历史对照坐标** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 1945 年[[Science, The Endless Frontier 1945|布什报告]]的 2026 年继任者与对话者，在继承其公共资助核心的同时系统清算其组织与分工结论。
 > - **理论分析透镜** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 报告全面采纳其[[Pasteur's Quadrant|巴斯德象限]]作为替代线性模型的根本[[Analytic Framework|分析框架]]。
-> - **核心关联机构与文本** [[Office of Science and Technology Policy]]、[[Science A New Golden Age 2026]]、[[Science, The Endless Frontier 1945]]、[[Genesis Mission]]。
 
 ---
 

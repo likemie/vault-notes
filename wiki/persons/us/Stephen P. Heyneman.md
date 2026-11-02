@@ -131,7 +131,6 @@ updated: 2026-10-30
 > - **研究合作学者** 威廉·洛克斯利（William Loxley） 共同发现跨国[[School Effectiveness|学校效能]]效应。
 > - **学术同行与圈内互证者** [[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]——同为[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]高阶实务官员，在《比较教育学国际手册》中亲历互证海尼曼关于 1990 年代世行高层理念内战的经典论述。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]——阿诺夫在批判世界体系金融机构霸权时，将海尼曼的自省长文作为证明现实主义论点的重要内部实证支撑。
-> - **机构渊源** [[World Bank]]——任职二十余年的核心机构，也是其后半生学术反思的主要客体。
 
 ---
 
@@ -155,7 +154,7 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[World Bank]] | 事实 | 详尽剖析世行教育贷款与政策决策机制的内部史学家。 |
+> | [[World Bank]] | 事实 | 详尽剖析世行教育贷款与政策决策机制的内部史学家。任职二十余年的核心机构，也是其后半生学术反思的主要客体。 |
 > | [[Educational Multilateralism]] | 概念 | 揭示多边金融机构从有限再分配滑向经济[[Disciplina and Doctrina\|规训]]的技术机制根源。 |
 > | [[Academic Achievement]] | 概念 | 开创跨国多国别学生学业成绩与学校/家庭要素贡献率计量比较。 |
 > | [[Claudio de Moura Castro]] | 人物 | 共同任职于多边银行，现场互证海尼曼关于世行高层教条主义冲突论断的圈内学者。 |

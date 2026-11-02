@@ -109,8 +109,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术合作者** [[Richard J. Shavelson]] — 2005 年起在斯坦福大学展开紧密学术合作，共同发表[[Effective Teaching\|有效教学]]十年[[Meta-analysis\|元分析]]里程碑综述。
 > - **学术合作者与团队骨干** 马克西米利安·克诺格勒（Maximilian Knogler） — [[Clearing House Unterricht\|CHU]] 研发总监与学术协调人，共同主持元分析证据筛选与转译标准制定。
-> - **机构平台** [[Clearing House Unterricht]] 与 [[Zentrum für internationale Bildungsvergleichsstudien]] — 由其于 2017 年在慕尼黑工业大学创立并持续主持运营。
-> - **政策与资助方** [[Federal Ministry of Education and Research]] 与 [[Qualitätsoffensive Lehrerbildung]] — 为清算中心早期孵化提供关键国家科研与体制资助。
 
 ---
 
@@ -122,4 +120,7 @@ updated: 2026-10-22
 > | [[Educational Brokerage Agency]] | 概念 | 确立以教师教育者为核心乘数群体、以短评为载体的[[Knowledge Mediation\|知识中介]]运作机制。 |
 > | [[Evidence-Informed Practice]] | 概念 | 倡导将最佳实证证据与教师专业知觉、情境判断相融合的审慎循证[[Paradigm\|范式]]。 |
 > | [[Research-Practice Gap]] | 概念 | 揭示德国教育科研理论生产与课堂行动之间的转移难题并提供中介化解决方案。 |
-> | [[Clearing House Unterricht]] | 事实 | 作为创始人与首席科学家全面指导平台建设与标准研发。 |
+> | [[Clearing House Unterricht]] | 事实 | 作为创始人与首席科学家全面指导平台建设与标准研发。由其于 2017 年在慕尼黑工业大学创立并持续主持运营。
+> | [[Zentrum für internationale Bildungsvergleichsstudien]] | 组织 | 由其于 2017 年在慕尼黑工业大学创立并持续主持运营。
+> | [[Federal Ministry of Education and Research]] | 组织 | 为清算中心早期孵化提供关键国家科研与体制资助。
+> | [[Qualitätsoffensive Lehrerbildung]] | 项目 | 为清算中心早期孵化提供关键国家科研与体制资助。 |

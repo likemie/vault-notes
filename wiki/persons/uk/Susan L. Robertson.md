@@ -104,7 +104,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **长期合作者** [[Roger Dale|罗杰·戴尔]]——长期理论搭档，共同提出 [[Globally Structured Agenda for Education|GSAE]] 与[[Pluri-Scalar Governance|多标度治理]]理论。
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]——共同致力于从批判政治经济学视角解构全球化与跨国援助霸权。
-> - **制度纽带** [[World Trade Organization]] 与 [[GATS and Trade in Education Services]]——作为其学术批判的关键实体与制度协定。
 
 ---
 
@@ -115,3 +114,4 @@ updated: 2026-10-22
 > | [[Pluri-Scalar Governance]] | 理论 | 核心提出者，奠定空间标度与治理活动的 3D 矩阵。 |
 > | [[GATS and Trade in Education Services]] | 事实 | 系统阐明该协定对全球教育贸易化与文凭互认机制的根本塑造。 |
 > | [[State Educational Sovereignty]] | 概念 | 揭示跨国教育贸易对主权国家教育自主控制权的制度瓦解。 |
+> | [[World Trade Organization]] | 组织 | 作为其学术批判的关键实体与制度协定。 |

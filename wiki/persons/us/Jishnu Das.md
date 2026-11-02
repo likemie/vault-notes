@@ -110,7 +110,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **学术合作学者** Tahir Andrabi（波莫纳学院教授）、Asim Ijaz Khwaja（哈佛大学肯尼迪学院教授） — 长期合作主持 LEAPS 课题团队。
-> - **机构中枢** [[World Bank]]、[[Development Economics Vice Presidency]] — 任职并承担核心实证[[Knowledge Production|知识生产]]的主要国际机构。
 > - **[[Epistemic Governance|认知治理]]分析者** 迈克·扎普（Mike Zapp） — 将达斯的获奖研究作为世行仪式性认可与认知治理维度的经验证据。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 ---
@@ -133,4 +132,4 @@ updated: 2026-10-30
 > | [[Epistemic Governance]] | 概念 | 其成果被扎普用作世行通过学术表彰行使认知治理的实证代表。 |
 > | [[Randomised Controlled Trials]] | 方法 | 长期在南亚乡村教育现场践行大规模田野因果推断[[Experimental Research\|实验设计]]。 |
 > | [[Development Economics Vice Presidency]] | 组织事实 | 达斯长期任职并主导微观教育政策实证研究的世行核心部门。 |
-> | [[World Bank]] | 组织事实 | 为其提供长期课题资助、数据支持并授予卓越学术奖项的国际组织。 |
+> | [[World Bank]] | 组织事实 | 为其提供长期课题资助、数据支持并授予卓越学术奖项的国际组织。任职并承担核心实证[[Knowledge Production\|知识生产]]的主要国际机构。 |

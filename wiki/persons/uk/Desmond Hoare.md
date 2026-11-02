@@ -95,10 +95,7 @@ updated: 2026-10-30
 > - **教育愿景** [[Kurt Hahn]] — 提出行动、共同服务与跨国和解原则。
 > - **学术课程** 罗伯特·布莱克本、[[Alec Peterson]] — 设计三门英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）与辅助学院课程的组合。
 > - **共同领导** 娜奥米·霍尔 — 共同推动学院由男子学校转向男女同校。
-> - **创校事件** [[Founding of Atlantic College|大西洋学院创办]]。
-> - **课程制度** 1962 年大西洋学院课程方案。
 > - **扩展与资助** [[Louis Mountbatten]] — 共同设想奖学金与缴费生并存的长期模式。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 210)]]
-> - **国际运动** [[United World Colleges]] — 霍尔支持低成本及地方适应的成员扩展方向。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–210)]]
 
 
 
@@ -106,6 +103,14 @@ updated: 2026-10-30
 
 > [!boundary]- 区分个人主张与运动后续政策
 > 全员全额奖学金的后续承诺、各国按家庭经济能力资助的惯例，以及 [[United World Colleges|UWC]] 后来的成员决策，涉及多位领导者、政府与各校，不宜全部归于霍尔。第八章支持确认他的低成本办学和混合资助构想，但未提供这些构想的独立效果评价。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–212)]]
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Founding of Atlantic College\|大西洋学院创办]] | 事件 | |
+> | 1962 年大西洋学院课程方案 | 项目 | |
+> | [[United World Colleges]] | 组织 | 霍尔支持低成本及地方适应的成员扩展方向。[[Argument_Peterson_1987_OpenCourt_Ch08\|(Peterson, 1987, pp. 209–210)]] |
 
 > [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 3–9)]] — 记录创校校长的选择、专业经验、救援课程、男女同校及学术合作。

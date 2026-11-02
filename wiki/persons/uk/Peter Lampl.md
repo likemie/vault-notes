@@ -125,8 +125,6 @@ updated: 2026-10-26
 ---
 
 > [!person-network] 关系网络
-> - **机构创设与领导** [[Sutton Trust\|萨顿信托]]（Sutton Trust） — 创始人兼董事长（1997年至今）。
-> - **机构创设与治理** [[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 创始理事会主席（2011年至今）。
 > - **战略合作伙伴** [[Michael Gove\|迈克尔·戈夫]]（Michael Gove） — 2010 年英国教育大臣，响应兰普尔倡议并拍板向 EEF 划拨 1.25 亿英镑政府初始捐赠。
 > - **研究工具合作** [[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins） — 杜伦大学团队负责人，受兰普尔与萨顿信托资助主持研制初代《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》。
 

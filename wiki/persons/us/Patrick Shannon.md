@@ -114,7 +114,6 @@ updated: 2026-10-22
 > - **学术合作者** 杰奎琳·埃德蒙森（Jacqueline Edmondson）— 长期合著者，共同开展宾州乡村学校阅读政策抵制研究，共建[[Critical Pluralism|批判性多元主义]]框架。
 > - **学术盟友** [[Ken Goodman]] — [[Whole Language|全语言]]运动领袖，共同抵制联邦拼读规约与商业教材霸权。
 > - **学术论敌** [[G. Reid Lyon]] — [[National Institute of Child Health and Human Development|NICHD]] 高级官僚，香农公开批判其推行的医学实证垄断与次政府合谋。
-> - **依托学术学会** [[National Council of Teachers of English]] — 长期活跃并发布重要抗争倡议的教师专业学术团体。
 
 ---
 

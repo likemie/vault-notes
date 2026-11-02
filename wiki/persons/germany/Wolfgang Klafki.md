@@ -126,8 +126,6 @@ updated: 2026-10-22
 >   - Astrid Kaiser 等 — 师承关系：Klafki 指导了 70 余名博士，大多成为德国各高校和学科教学论（特别是常识课教学论）的领军人物。
 >   - Johan Wilhelm Snellman — 思想关联：Snellman 是将教化（[[Bildung]]）概念引入北欧（芬兰）的核心先驱，Klafki 在当代重新定义了这一教化传统，使其成为应对不确定未来的社会政治性力量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 >   - Rauste-von Wright — 思想交汇：作为芬兰[[Constructivist Paradigm|建构主义]]教育心理学家，她的[[Pragmatic Paradigm|实用主义]]自我修正课程模型与 Klafki 的 [[Didaktik]] 思想有共同根源，共同为芬兰 [[Phenomenon-Based Learning|PhBL]] 奠定了理论与心理学基石。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
-> - **批评者／论敌** 无直接对抗论敌，但其教学论思想受到以[[Positivism|实证主义]]为取向的标准化能力测验学派的质疑。
-> - **机构／运动／项目** [[OECD]] / [[PISA]] — 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成[[Atomisation of Knowledge and Skills|知识与技能原子化]]（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 ---
 
@@ -148,4 +146,7 @@ updated: 2026-10-22
 > | [[Didaktik]] | 概念 | 批判建设性教学论代表，关注教学内容的选择、教育目的与未来的[[Open-Mindedness\|开放性]]。 |
 > | [[Bildung]] | 概念 | 重新阐释经典 Bildung 理论的社会政治性，强调其原初思想面向正义、自由和责任。 |
 > | [[Epochal Key Problems]] | 概念 | 将重大时代危机（如环境危机、社会不平等和战争）作为课程规划的中心点，兼顾学科深度与跨学科广度。 |
-> | [[Phenomenon-Based Learning]] | 概念 | 为芬兰现象本位学习提供跨学科整合的课程选择依据与规范性方向。 |
+> | [[Phenomenon-Based Learning]] | 概念 | 为芬兰现象本位学习提供跨学科整合的课程选择依据与规范性方向。
+> | 标准化能力测验学派 | 学派 | 无直接对抗论敌，但其教学论思想受到以[[Positivism\|实证主义]]为取向的标准化能力测验学派的质疑。
+> | [[OECD]] | 组织 | 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成[[Atomisation of Knowledge and Skills\|知识与技能原子化]]（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]
+> | [[PISA]] | 项目 | 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成[[Atomisation of Knowledge and Skills\|知识与技能原子化]]（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]] |

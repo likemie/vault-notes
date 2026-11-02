@@ -130,7 +130,6 @@ updated: 2026-10-25
 > - **合作者／思想盟友** [[Richard Nelson]] — 共同从[[Evolutionary Economics|演化经济学]]视角推进国家[[Systems of Innovation|创新系统]]跨国比较研究。
 > - **合作者／思想盟友** [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）— 共同主编 [[OECD]] 1996 年报告《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，系统构建“学习型经济”[[Analytic Framework|分析框架]]。
 > - **学术前驱** [[Friedrich List]] — [[Bengt-Åke Lundvall|伦德瓦尔]]公认李斯特是国家创新系统与[[Knowledge Production|知识生产]]力学说的思想先驱。
-> - **机构合作** [[OECD]] — 1990 年代主持编制 OECD 创新政策与国家创新系统评价指标体系。
 
 ---
 

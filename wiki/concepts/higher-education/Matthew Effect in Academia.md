@@ -8,7 +8,7 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化并由 Wang and Barabási (2021) 拓展至科学计量与引文网络的概念，描述个体声望溢价、机构评估拨款循环及优先连接机制如何驱动学术资源与注意力持续向既有优势方集中。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -193,7 +193,7 @@ updated: 2026-10-31
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] | 维基百科前 1% 高产编辑社群随机实验 | 随机现场干[[Pilot Testing\|预实验]] | 随机赋予外生荣誉星章对后续编辑产出与真实荣誉获取的影响 | 实验组编辑中位数生产力提升 60%，且后续 90 天内赢得真实荣誉勋章显著增多 | 排除初始天赋差异的严格因果干预 | 证明外生赋予的声望认可独立于内在能力，直接启动自我强化的累积优势 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] | 物理学家引文网络追踪（顶尖学者 vs 助理教授） | 引文动态跨越模型 | 成果发表初期学术声望推动引用的经验阈值 $c_x$ | 顶尖学者跨越阈值 $c_x \approx 40$ 次引用；助理教授为 $c_x \approx 10$ 次引用 | 经验引文增长率拟合 | 证实声望仅在成果面世初期发挥 4 倍提振功能，长期依然取决于成果内在质量 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] | 网络生物学新兴学科全量[[Document\|文献]]引文网络 | 新兴学科历史队列被引追踪 | 2001 年首创队列与 2003 年成熟队列的长期引文均值对比 | 2001 年论著获得平均 101 次引用，2003 年论著平均被引 26 次，先发红利达 3.88 倍 | 多学科可重复验证 | 揭示顺沿既有链接的优先连接机制赋予先发成果长周期被引优势 |
-> | Bol, de Vaan, & van de Rijt (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang and Barabási (2021)]] | 荷兰科学研究组织（NWO）青年早期学者基金全量申请底表（涵盖资助分数线边缘申请人） | 断点回归准实验（RDD） | 早期基金获批与否对后续获取后续资助总额及职业声望的累积影响 | 刚越过分数线的险胜申请人，在后续八年内累计获取的后续资助总额是惜败同行的 2.5 倍以上 | 严格反事实断点检验，$p < 0.01$ | 实证确证了资助体系中独立于学者原初能力的纯制度性马太效应（Bol et al., 2018; Wang & Barabási, 2021, p. 243） |
+> | Bol, de Vaan, & van de Rijt (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang and Barabási (2021)]] | 荷兰科学研究组织（NWO）青年早期学者基金全量申请底表（涵盖资助分数线边缘申请人） | 断点回归准实验（RDD） | 早期基金获批与否对后续获取后续资助总额及职业声望的累积影响 | 刚越过分数线的险胜申请人，在后续八年内累计获取的后续资助总额是惜败同行的 2.5 倍以上 | 严格反事实断点检验，$p < 0.01$ | 实证确证了资助体系中独立于学者原初能力的纯制度性马太效应（Bol et al., 2018; [[Argument_Wang_Barabasi_2021_Cambridge\|Wang & Barabási, 2021, p. 243]]） |
 
 ---
 

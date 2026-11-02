@@ -106,7 +106,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **政务同盟** 鲁德·吕贝尔斯（Ruud Lubbers）— 1982–1994 荷兰首相，为德特曼在紧缩与放权改革中提供了坚定的内阁政治支持。
 > - **[[Reflexivity|反思性]]学术顾问** [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert）— 在教育部共事的核心规划智囊，直接协助起草 [[Higher Education Autonomy and Quality|HOAK]] 白皮书并将其实践升华为国际经典理论。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
-> - **法团协商伙伴** [[VSNU|荷兰大学联合会]]（VSNU）与高等职业教育委员会（[[HBO-Raad]]）领导层 — 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 
 ---
 
@@ -127,6 +126,8 @@ updated: 2026-10-30
 > | [[Scale Enlargement]] | 概念 | 顶住政治压力委托行业自组织完成全荷 350 所 HBO 院校规模化大兼并。 |
 > | [[Block Grants]] | 概念 | 在内阁全面确立总额预算划拨模式以替代旧细项报销机制。 |
 > | [[Higher Education and Research Act 1992]] | 事实 | 奠定并推动 1992 年 WHW 统一框架立法的政治出台。 |
+> | [[VSNU\|荷兰大学联合会]] | 组织 | 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance\|(Kickert, 1995, pp. 145–146)]] |
+> | 高等职业教育委员会（[[HBO-Raad]]） | 组织 | 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance\|(Kickert, 1995, pp. 145–146)]] |
 
 ---
 

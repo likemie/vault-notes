@@ -109,7 +109,6 @@ updated: 2026-11-02
 > - **核心实证合作者** [[Chris Brown]] — 长期搭档推进[[Evidence-Informed Practice\|证据知情实践]]研究，共同发表包括 LPS 实证论文在内的系列代表作。
 > - **政策与治理合作者** 罗伯·海厄姆（Rob Higham） — 深度合作撰写英格兰混合治理三重机制的大型研究专著。
 > - **测量合作者** [[Alan Daly]] — 共同参与 [[Research Learning Communities\|RLC]] 项目的调查工具开发与[[Network Analysis\|社会网络分析]]。
-> - **重要机构与项目** [[Teaching Schools]]（主持国家评估）、[[Research Learning Communities]]（联合主持实证干预）、[[Ofsted]]（提出督导框架改革诉求）。
 
 ---
 

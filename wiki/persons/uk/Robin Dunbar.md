@@ -94,7 +94,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术对话与共鸣者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）— [[Dunbar's Number|邓巴数]]认知上限为安德森“[[Imagined Community|想象的共同体]]”理论提供了微观神经演化基础。
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其理论探讨超大规模国家维系文化纽带的必要性。
-> - **任职机构** 牛津大学实验心理学系、利物浦大学进化心理学系。
 
 ---
 
@@ -115,3 +114,5 @@ updated: 2026-10-22
 > | [[Dunbar's Number\|邓巴数]] | 概念 | 邓巴于 1993 年提出的关于人类群体规模认知上限的核心概念。 |
 > | [[Imagined Community\|想象的共同体]] | 理论 | 为安德森的超熟人共同体语言建构假说提供了神经认知基础。 |
 > | [[Technological Republic\|技术共和国]] | 概念 | 卡普引用邓巴数论证克服认知上限、构建大规模科技共和国的精神文化机制。 |
+> | 牛津大学实验心理学系 | 组织 | |
+> | 利物浦大学进化心理学系 | 组织 | |

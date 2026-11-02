@@ -137,8 +137,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术合作者** [[Andreas Schleicher]] — [[OECD]] 教育与技能司司长，长年共同筹办 [[International Summits on the Teaching Profession\|ISTP]] 峰会，联合起草跨国背景研究报告与复兴十项原则。
 > - **论辩与对话者** [[Mark Schneider]] & [[Dirk Van Damme]] — 在 OECD 专题论坛中分别代表官方科研出资方、比较教育学术界与班斯展开跨阵营多维学术对话。
-> - **依托机构** [[Education International]] — 担任其高级战略顾问，主导智库建设与跨国数据维权。
-> - **协同平台** [[International Summits on the Teaching Profession]] — 联合创办并常年主持该全球最高规格教育政策峰会。
 
 ---
 

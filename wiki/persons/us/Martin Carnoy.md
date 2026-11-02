@@ -148,7 +148,6 @@ updated: 2026-10-30
 > - **理论同盟** [[Carlos Alberto Torres]] — 共同推进比较教育学国家理论与拉美外围国家受限状态研究。
 > - **理论同盟** [[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple） — 共同奠定 1970–1980 年代美国批判教育社会学与文化再生产理论阵地。
 > - **学术史家／学科[[Epistemology|认识论]]重构者** [[Andreas Kazamias]] — 将卡诺伊确立为战后第四代比较教育政治经济学与国家理论[[Paradigm|范式]]的代表人物，阐发其对[[Positivism|实证主义]]、正统马克思主义与机械再生产论的三重超越。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–155)]]
-> - **批判对象** [[World Bank|世界银行]]与新古典[[Human Capital Theory|人力资本]]技术官僚 — 批判其推行的教育市场化、紧缩结构调整以及抽离政治权力的纯粹技术官僚计量分析。
 
 ---
 
@@ -180,3 +179,4 @@ updated: 2026-10-30
 > | [[Import Substitution Industrialisation]] | 概念 | 阐释依附性资本积累与早期工业化背景下拉美教育扩张的结构性动力与断裂悖论。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭露[[World Bank\|世界银行]]等跨国金融机构通过资助与实证垄断[[Disciplina and Doctrina\|规训]]第三世界教育政策的话语机器。 |
 > | [[Dependency Theory]] | 理论 | 将中心-外围依附框架引入教育制度分析，奠定战后教育依附批判传统。 |
+> | [[World Bank\|世界银行]]与新古典[[Human Capital Theory\|人力资本]]技术官僚 | 组织 | 批判其推行的教育市场化、紧缩结构调整以及抽离政治权力的纯粹技术官僚计量分析。 |

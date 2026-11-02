@@ -150,7 +150,6 @@ updated: 2026-11-02
 > - **批判审视者与后辈学者** [[Robert Cowen\|罗伯特·考恩]] — 深入解剖金在[[Policy Science in Comparative Education\|政策科学]]中与权力的结盟，以及规训阿彻对英国比较教育跨学科生态造成的严重创伤。
 > - **历史人文同盟与学术先驱** [[Michael Sadler\|迈克尔·萨德勒]]、[[Nicholas Hans\|尼古拉斯·汉斯]] — 继承萨德勒对文化情境与活的精神的敏感性；汉斯曾长期执教于伦敦大学国王学院，金承继了该机构的深厚人文学统。
 > - **史学评价者与学会同行** [[Wolfgang Mitter]] — 评析金在伦敦大学国王学院的建制贡献及其在欧洲[[Positivism|实证主义]]论争中的文化主义定位。
-> - **机构与组织** 伦敦大学国王学院（讲座教授、中心主任）、[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE 奠基成员）、英国[[Comparative and International Education Society\|比较与国际教育学会]]（BCIES 领袖）。
 
 ---
 
@@ -192,3 +191,6 @@ updated: 2026-11-02
 > | [[Historical-Comparative Method]] | 方法 | 扎根[[Michael Sadler\|萨德勒]]历史人文传统，强调对各民族独特文化背景与教育现实的生态化体察。 |
 > | [[1970s Methodology Debates in Comparative Education]] | 事实 | 英格兰方法论分裂的核心当事人，其规训行动与政策主张构成了该历史事件的重要剖面。 |
 > | [[Wolfgang Mitter]] | 人物 | 评析金在伦敦国王学院开辟的学术中枢及其文化主义在实证争鸣中的立场。 |
+> | 伦敦大学国王学院 | 组织 | 讲座教授、中心主任。 |
+> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 组织 | CESE 奠基成员。 |
+> | 英国[[Comparative and International Education Society\|比较与国际教育学会]] | 组织 | BCIES 领袖。 |

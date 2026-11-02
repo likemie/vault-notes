@@ -146,7 +146,6 @@ updated: 2026-10-30
 > - **思想渊源** [[Niklas Luhmann|尼克拉斯·卢曼]] — 汲取二阶观察与盲点概念；[[Thomas Fuchs]] — 借鉴生态大脑与身体[[Phenomenology|现象学]]；威廉·冯·洪堡（Wilhelm von Humboldt）、[[David Held|赫尔德]]与[[Georg Wilhelm Friedrich Hegel|黑格尔]] — 继承古典德国教化（[[Bildung]]）哲学传统。
 > - **学术同道** [[Gert Biesta|格特·比斯塔]]（Gert Biesta） — 共享抵抗教育[[Learnification|学习化]]（Learnification）的批判阵线；[[Thomas Aastrup Rømer]] — 丹麦教育学院同事，共同发起对丹麦学校[[Positivism|实证主义]]转向的学术反思。
 > - **学术论敌** [[John Hattie|约翰·哈蒂]]（John Hattie） — 可见学习[[Paradigm|范式]]开创者，2018 年哥本哈根公开辩论的直接交锋对象。
-> - **学术机构** 奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University） — 开展教育哲学与[[Critical Theory|批判理论]]研究的学术基地。
 
 ---
 

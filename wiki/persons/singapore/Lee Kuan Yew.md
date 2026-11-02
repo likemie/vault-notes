@@ -150,7 +150,6 @@ updated: 2026-10-30
 > - **执政同侪与改革合作者** [[Goh Keng Swee|吴庆瑞]]（Goh Keng Swee）、拉惹勒南（S. Rajaratnam）— 共同奠定早期新加坡经济、防卫与双语教育体系。
 > - **国际战略对话者** [[Henry Kissinger|亨利·基辛格]]（Henry Kissinger）— 为其著作作序，高度评价其以钢铁意志塑造历史的卓越领导力。
 > - **当代思想重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将其治国经验作为克服西方虚无主义与重构国家能力的典范。
-> - **所属政党与政府机构** 人民行动党（People's Action Party, PAP）、新加坡内阁。
 
 ---
 
@@ -180,3 +179,5 @@ updated: 2026-10-30
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡确立为兼具高效制度理性与实质文化德性的治国典范。 |
 > | [[Junzi]] | 概念 | 将儒家模范人格作为公职选拔与公民教育的核心道德坐标。 |
 > | [[Hard Power]] | 概念 | 以千年战略视野与国民防卫服役构建小国不可动摇的常规威慑底座。 |
+> | 人民行动党（People's Action Party, PAP） | 组织 | |
+> | 新加坡内阁 | 组织 | |

@@ -104,7 +104,6 @@ updated: 2026-10-22
 
 > [!person-network] 关系网络
 > - **合作者** Mark A. Runco 长期与 S. Acar、M. Karwowski、R. J. Sternberg 等[[Creativity\|创造力]]学者开展合作研究与手册编纂。
-> - **机构** 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。
 
 ---
 
@@ -125,3 +124,7 @@ updated: 2026-10-22
 > | [[Creativity]] | 概念 | 构建创造潜能理论并提供大规模[[Meta-meta-analysis\|二阶元分析]][[Effect Size\|效应量]]基准。 |
 > | [[Divergent Thinking]] | 概念 | 阐明发散思维的认知机制、测评方法及其在创造过程中的核心地位。 |
 > | [[Meta-meta-analysis]] | 方法 | 率先在创造力领域应用 CHE [[Robust Variance Estimation\|稳健方差估计]]模型开展二阶[[Meta-analysis\|元分析]]。 |
+> | 加州州立大学富勒顿分校 | 组织 | 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。 |
+> | 乔治亚大学 | 组织 | 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。 |
+> | 阿尔托大学 | 组织 | 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。 |
+> | 《Creativity Research Journal》编辑部 | 组织 | 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。 |

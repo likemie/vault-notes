@@ -130,9 +130,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术合作者** Jo B. Helgetun — 合作开展英格兰教师教育政策演变与[[Evidence Era\|证据时代]]研究。
 > - **学术合作者** Katharine Burn — 合作研讨[[Initial Teacher Training\|初始教师教育]]中的临床实践模式。
-> - **机构平台** [[British Educational Research Association\|英国教育研究协会]]（BERA） — 曾任主席（2013–2015），领导国家级调查。
-> - **机构平台** 苏格兰教育研究协会（SERA） — 曾任主席（2005–2007）。
-> - **机构平台** 牛津大学教育系 — 教师教育荣休教授。
 
 ---
 
@@ -157,4 +154,7 @@ updated: 2026-10-22
 > | [[Policy-Based Evidence-Making]] | 概念 | 实证剖析英格兰教育部通过[[Gatekeepers\|守门人]]机制进行逆向证据生产的运作流程。 |
 > | [[Elite Interview]] | 方法 | 运用 20 位高层知情人精英访谈突破政策幕后决策与政治适宜性机制。 |
 > | [[Carter Review of Initial Teacher Training]] | 事实 | 其临床实践研究成果被卡特审查广泛采纳并被转译为官方政策语言。 |
+> | [[British Educational Research Association\|英国教育研究协会]] | 组织 | 曾任主席（2013–2015），领导国家级调查。 |
+> | 苏格兰教育研究协会（SERA） | 组织 | 曾任主席（2005–2007）。 |
+> | 牛津大学教育系 | 组织 | 教师教育荣休教授。 |
 

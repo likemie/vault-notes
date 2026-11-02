@@ -83,7 +83,7 @@ related_persons:
   - "[[Derek de Solla Price]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-31
 > - **结构化威胁清单的诊断与控制（Systematic Threat Diagnostics）** 依托经典威胁矩阵，从受试者特征、实验处理与测量程序三维排查混淆[[Variable|变量]]。
 > - **量化控制与质性建构的双轨互补（Quantitative-Qualitative Complementarity）** 量化[[Paradigm|范式]]通过机械与统计隔离消除外部噪音，质性范式通过[[Rich and Thick Description|深描]]、同伴审查与[[Negative Case Analysis|负面案例分析]]确立内在真实性，二者形成因果解释链互补。
 > - **内部效度与[[External Validity|外部效度]]的非对称奠基（Asymmetric Foundational Priority）** 内部效度构成外部效度的逻辑基石；正如皮利纳（Pilliner, 1973）所阐明：缺乏内部效度的推断无法衍生出可靠的外部效度，但高内部效度的结论未必自动具备跨情境适用性。
-> - **证据治理中与情境适配的动态权衡（Balancing Rigour with Contextual Fit）** 在当代[[Evidence Ecosystem|证据生态系统]]中，内部效度不再被奉为凌驾一切的独断教条，而是作为方法严谨性维度，与议题适切性、文化契合度共同服务于实践决策（[[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al., 2022]]）。
+> - **证据治理中与情境适配的动态权衡（Balancing Rigour with Contextual Fit）** 在当代[[Evidence Ecosystem|证据生态系统]]中，内部效度作为方法严谨性维度，与议题适切性、文化契合度共同服务于实践决策，形成动态适配格局（[[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al., 2022]]）。
 
 > [!logic-map]- 内部效度的机制演进与证据治理网络
 > ```mermaid
@@ -163,7 +163,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题二｜质性探究通过多维真实性与自然主义策略重构内部效度的可信性表征
-> **探讨维度　质性自然主义的可信性重构** [[Qualitative Research|质性研究]]不采用机械隔离与统计消除逻辑，而是将时间流变与主体视角纳入分析，通过可信性与多维真实性确立内在效度。
+> **探讨维度　质性自然主义的可信性重构** [[Qualitative Research|质性研究]]直接将时间流变与主体视角纳入分析，通过深描、同伴审查与多维真实性确立内在效度。
 
 > [!claim] 质性研究的多维真实性与可信性策略体系
 > **多维真实性与可信性策略体系** 质性研究内部效度的核心在于确立生活世界记述的真实性（Credibility & Authenticity），学者分别从操作手段、主导类型、真实性维度与务实层级系统展开：
@@ -211,6 +211,12 @@ updated: 2026-10-31
 > >
 > > - **严格实验派** 坚守因果关系的确定性是科学评价的前提，缺乏内部效度的结论可能误导公共政策。
 > > - **生态实证派** 批评过度控制的实验室结论往往无法在常态学校重现，倡导走向重视情境互动的真实世界评估与设计型研究。
+>
+> > [!axis] 超可靠因果确定性 vs 宏观全局命题的解答能力
+> > 追求极致因果内部效度是否会导致研究向微观窄域问题退缩，从而削弱解答重大宏观命题的能力。
+> >
+> > - **严格因果识别派（Angrist & Pischke, 2010）** 强调唯有通过随机对照试验或严格准实验确立高内部效度，科学发现才能具备确凿的可靠性与归因坚实度。
+> > - **宏观系统与科学学生态派（Azoulay, 2012; [[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021]]）** 指出超可靠因果技术建立的确定性严格受制于局部临界样本；全球气候变暖、国家科技体制长期演进等宏观全局命题难以直接构建封闭实验。如果因过分追求微观因果确定性而放弃此类重大议题，将导致学术探索陷入技术偏狭。未来的科学探索需要微观因果实验与宏观观察性系统建模协同共生。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 250–251)]]
 >
 > > [!axis] 黄金标准等级制垄断 vs 适切证据多元论
 > > 证据质量是否应由内部效度层级（如 RCT $\to$ 准实验 $\to$ 观察研究）单向判定。

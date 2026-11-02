@@ -106,7 +106,6 @@ updated: 2026-10-29
 
 > [!person-network] 关系网络
 > - **思想交锋与历史对话** [[Vannevar Bush]] — 斯蒂芬系统考察了布什 1945 年报告的政策设想在半个多世纪中如何被大学与联邦博弈重新诠释与偏离。
-> - **资助与研究对象机构** [[National Science Foundation]]、[[National Institutes of Health]]、[[Department of Energy]] — 斯蒂芬长期追踪各大联邦机构的预算变迁、资助集中度（HHI）及对大学微观组织形态的激励导向。
 
 ---
 
@@ -118,3 +117,6 @@ updated: 2026-10-29
 > | [[Shopping Mall Model of Research Universities]] | 概念 | 提出高档商场隐喻，形象揭示大学向教师出租实验室空间以套取间接成本的微观机理。 |
 > | [[PhD Overproduction in Science]] | 概念 | 揭示科研实验室将博士与博士后作为廉价劳动力投入科研生产所带来的劳动力供需脱节。 |
 > | [[Academic Capitalism]] | 理论 | 为学术资本主义理论提供了详实量化的科学经济学与微观实证支撑。 |
+> | [[National Science Foundation]] | 组织 | 斯蒂芬长期追踪各大联邦机构的预算变迁、资助集中度（HHI）及对大学微观组织形态的激励导向。 |
+> | [[National Institutes of Health]] | 组织 | 斯蒂芬长期追踪各大联邦机构的预算变迁、资助集中度（HHI）及对大学微观组织形态的激励导向。 |
+> | [[Department of Energy]] | 组织 | 斯蒂芬长期追踪各大联邦机构的预算变迁、资助集中度（HHI）及对大学微观组织形态的激励导向。 |

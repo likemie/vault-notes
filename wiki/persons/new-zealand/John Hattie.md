@@ -339,7 +339,6 @@ updated: 2026-10-30
 > - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal et al. （针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
 > - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚[[School Leadership|学校领导力]]的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训）。
 > - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
-> - **依托机构与跨国[[Policy Network|政策网络]]** [[Visible Learning]]（核心学术成果体系）；[[Visible Learning Meta-X]]（底层元分析汇聚数据库）；[[Cognition Education]]（全球教师培训商业化特许运营商）；[[Australian Institute for Teaching and School Leadership|AITSL]]（担任董事会主席并推动嵌入国家专业标准）；[[Evidence for Learning]]（E4L 学校专家咨询委员会主席）；新西兰教育部（[[Assessment Tools for Teaching and Learning|asTTle]] 委托开发）；[[Education Endowment Foundation|EEF]]（英澳循证证据工具箱）。
 
 ---
 
@@ -438,3 +437,7 @@ updated: 2026-10-30
 > | [[Critiques of Visible Learning]] | 概念 | 激发了当代教育学界针对元分析伪科学、[[Neo-Taylorism\|新泰勒主义]]与技术理性的系统批判。 |
 > | [[Policy Brokerage]] | 概念 | 其学术成果与培训网络被跨国组织与国家专家委员会作为政策中介的重要合法化工具。 |
 > | [[Governing by Numbers]] | 概念 | 其指标排序为国家与学区实施基于数字的学校绩效问责与远处规制提供了操作[[Scaffolding\|脚手架]]。 |
+> | [[Cognition Education]] | 组织 | 全球教师培训商业化特许运营商。 |
+> | [[Australian Institute for Teaching and School Leadership\|AITSL]] | 组织 | 担任董事会主席并推动嵌入国家专业标准。 |
+> | 新西兰教育部 | 组织 | [[Assessment Tools for Teaching and Learning\|asTTle]] 委托开发。 |
+> | [[Education Endowment Foundation\|EEF]] | 组织 | 英澳循证证据工具箱。 |

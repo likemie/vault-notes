@@ -74,4 +74,3 @@ updated: 2026-10-22
 
 > [!person-network] 关系网络
 > - **合作者** [[Alec Peterson]] — 1957 年相识，随后共同把[[International Education\|国际教育]]愿景转化为大西洋学院的课程与制度。
-> - **机构／运动／项目** [[Founding of Atlantic College]] — 提供创办愿景并参与早期筹备。

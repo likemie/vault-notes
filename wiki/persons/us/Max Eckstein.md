@@ -205,7 +205,6 @@ updated: 2026-11-02
 > - **论辩与对话者（伦敦学派）** [[Brian Holmes|布赖恩·霍姆斯]] — 围绕经验量化[[Variable|变量]]共变 vs [[Critical Dualism|批判二元论]]演绎[[Problem Approach|问题法]]展开跨大西洋论战；[[Edmund King|埃德蒙·金]]（Edmund King） — 批评实证量化模型脱离具体教育情境并走向技术伪科学；
 > - **史学批判与对话者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 深入批判诺亚与埃克斯坦的方法论主义偏见，指出实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的历史实质；
 > - **历史批判对象** [[Isaac Kandel|艾萨克·坎德尔]]、[[Nicholas Hans|尼古拉斯·汉斯]]、[[Michael Sadler|迈克尔·萨德勒]] — 将其归为前科学的“力量与因素”阶段；
-> - **机构与组织** [[Comparative and International Education Society|CIES]]（1988–1989 年会长）、纽约城市大学皇后学院、[[IEA|国际教育成就评价协会]]。
 
 ---
 
@@ -253,3 +252,4 @@ updated: 2026-11-02
 > | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将其判定为前科学的动力与因素阶段，构成战后科学化范式论战的核心靶标。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 批判其缺乏变量控制与预测力，促发卡扎米亚斯对广义科学与工作假设的辩护。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1988–1989 年出任会长，巩固北美比较教育学实证科学交流网络。 |
+> | 纽约城市大学皇后学院 | 组织 | 机构与组织 |

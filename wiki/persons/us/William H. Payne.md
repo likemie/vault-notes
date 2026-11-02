@@ -108,7 +108,6 @@ updated: 2026-10-30
 > - **学术前驱** [[Marc-Antoine Jullien]]、[[Horace Mann]]、[[Henry Barnard]] — 佩恩所讲授的欧洲学校制度在史实与材料上承继了曼、巴纳德等人的欧洲考察遗产。
 > - **学术后继** 詹姆斯·罗素（James Russell）、[[Peter Sandiford|彼得·桑迪福德]]（Peter Sandiford） — 在哥伦比亚大学[[Normal School|师范学院]]将佩恩开启的大学比较教育讲座进一步扩展为独立的系所课程与通用教材。
 > - **史学考据者** [[Val D. Rust]] — 在反思比较教育学科起源时系统考证佩恩教席在大学建制化历程中的关键先驱地位。
-> - **依托机构** 密歇根大学（University of Michigan）、皮博迪师范学院（Peabody Normal College） — 佩恩奠定大学教育学教席与领导南部公共教育师资改革的核心制度阵地。
 
 ---
 
@@ -124,3 +123,5 @@ updated: 2026-10-30
 > | [[Normal School]] | 制度机构 | 推动将传统地方中等师范所升格并整合进综合性大学的高阶学术讲座体制。 |
 > | [[Scientific Paradigm]] | [[Epistemology\|认识论]] | 主张建立独立的教育科学哲学，反对将教学矮化为经验技艺。 |
 > | [[Influences Across Cultures]] | 概念 | 在大学讲堂率先系统讲授欧洲学校制度对美国公共教育的启示。 |
+> | 密歇根大学（University of Michigan） | 组织 | 佩恩奠定大学教育学教席与领导南部公共教育师资改革的核心制度阵地。 |
+> | 皮博迪师范学院（Peabody Normal College） | 组织 | 佩恩奠定大学教育学教席与领导南部公共教育师资改革的核心制度阵地。 |

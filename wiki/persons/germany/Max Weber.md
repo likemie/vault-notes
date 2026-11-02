@@ -220,7 +220,6 @@ updated: 2026-10-30
 > - **先驱与哲学对话** [[Immanuel Kant\|伊曼努尔·康德]]（[[Epistemology\|认识论]]批判）、[[Friedrich Nietzsche|弗里德里希·尼采]]（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
 > - **同时代学人与合作者** 费迪南·滕尼斯（Ferdinand Tönnies）、格奥尔格·齐美尔（Georg Simmel）、维尔纳·桑巴特（Werner Sombart）、恩斯特·特勒尔奇（Ernst Troeltsch）。
 > - **理论继承与重构者** [[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Yajun Zheng\|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
-> - **学术阵地与学会机构** 《社会科学与社会政策文库》（*Archiv für Sozialwissenschaft und Sozialpolitik*）、德国社会学学会（DGS）、海德堡学术沙龙。
 
 ---
 
@@ -265,6 +264,9 @@ updated: 2026-10-30
 > | [[Causality]] | 概念 | 主张社会科学因果解释与主观意义诠释的辩证统一 |
 > | [[Selective Affinity]] | 概念 | 提出宗教伦理与资本主义精神之间的选择性亲和互动关系 |
 > | [[Institutional Isomorphism]] | 理论 | 权力与法理型权威的区分为制度合法性与同构机制提供理论源泉 |
-> | [[Culture as Toolkit]] | 理论 | 韦伯价值观驱动假说作为对照传统，激发了文化作为行动策略工具箱的理论建构 |
+> | [[Culture as Toolkit]] | 理论 | 韦伯价值观驱动假说作为对照传统，激发了文化作为行动策略工具箱的理论建构
+> | 《社会科学与社会政策文库》（*Archiv für Sozialwissenschaft und Sozialpolitik*） | 组织 | 学术阵地与学会机构
+> | 德国社会学学会（DGS） | 组织 | 学术阵地与学会机构
+> | 海德堡学术沙龙 | 组织 | 学术阵地与学会机构 |
 
 ---

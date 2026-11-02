@@ -67,9 +67,16 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
-> - **制度延续事件** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] — 负责日内瓦办公室和财务，以紧缩预算与风险诊断维持年度考试。
 > - **课程合作者** 安德烈·范·斯梅沃德 — 共同提出六学科组方案，并参与语言考试建设。
 > - **[[Theory of Knowledge\|TOK]] 合作者** 迪娜·德雷福斯 — 以法国哲学督学身份帮助课程取得初始形态，并担任首任评估者。
 > - **早期发动者** [[Bob Leach\|鲍勃·利奇]] — 以教师会议和社会研究项目建立早期协作网络。
 > - **制度整合者** [[Alec Peterson\|亚历克·皮特森]] — 将课程设计纳入筹资、试验与国际承认计划。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Founding of the International Baccalaureate\|国际文凭创立]] | 事件 | 共同创制事件。
+> | [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 事件 | 负责日内瓦办公室和财务，以紧缩预算与风险诊断维持年度考试。

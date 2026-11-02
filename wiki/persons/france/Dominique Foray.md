@@ -132,7 +132,6 @@ updated: 2026-10-22
 > - **合作者／思想盟友** [[Bengt-Åke Lundvall]] — 丹麦阿尔堡学派领军人物，共同主编 [[OECD]] 1996 年奠基报告并提出“学习型经济”理论。
 > - **学术合作者** 内森·罗森伯格（Nathan Rosenberg）、保罗·戴维（Paul A. David） — 斯坦福大学著名经济史学家与创新学者，长期共同探讨技术扩散与科学政策。
 > - **批判分析者** [[Fazal Rizvi]]、[[Bob Lingard]] — 揭示其学习型经济理论虽具有深刻洞察，但在被国际组织采纳后沦为压制人本主义[[Democratic Education|民主教育]]、推行新自由主义技能[[Pragmatic Paradigm|实用主义]]的理论工具。
-> - **机构平台** [[OECD]]、[[Centre for Educational Research and Innovation|CERI]]、[[EU|欧盟]]委员会、洛桑联邦理工学院（EPFL） — 长期参与国际决策咨询与前沿创新研究的枢纽平台。
 
 ---
 

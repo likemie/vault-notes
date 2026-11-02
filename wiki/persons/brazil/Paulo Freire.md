@@ -165,7 +165,6 @@ updated: 2026-10-30
 > - **合作学者** 伊拉·肖尔（Ira Shor）— 共同合著《解放教育学》（1987），推动批判教育学在高等教育课堂的落地。
 > - **思想继承者** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）、彼得·麦克拉伦（Peter McLaren）— 继承其文化政治与反思实践脉络，拓展当代批判教育学与课程论。
 > - **批评者与反思者** 阿金·[[Remi Adekoya|阿德科亚]]（Akin Adekoya）、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 批评其关于暴力从未由弱者发起的二元预设，警惕道德屈尊。
-> - **机构与实践运动** 累西腓文化普及运动、世界基督教协进会（WCC）、圣保罗公立教育改革、全球社会运动网络。
 
 ---
 

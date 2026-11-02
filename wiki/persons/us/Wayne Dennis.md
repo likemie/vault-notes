@@ -89,7 +89,10 @@ updated: 2026-10-30
 
 ---
 
-> [!person-network] 关系网络
-> - **概念关联** [[Scientific Productivity]] — 丹尼斯长期度量的核心科研指标。
-> - **理论关联** [[Lotka's Law]] — 解释丹尼斯观察到的生产力长尾差异。
-> - **机构关联** [[National Academy of Sciences]] — 丹尼斯 1954 年实证研究的核心抽样来源。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Scientific Productivity]] | 概念 | 丹尼斯长期度量的核心科研指标。 |
+> | [[Lotka's Law]] | 理论 | 解释丹尼斯观察到的生产力长尾差异。 |
+> | [[National Academy of Sciences]] | 组织 | 丹尼斯 1954 年实证研究的核心抽样来源。 |

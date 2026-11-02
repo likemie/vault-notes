@@ -3805,7 +3805,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/concepts/educational-philosophy/Causality.md",
-        "wiki/concepts/research-methodology/Credibility Revolution.md"
+        "wiki/concepts/research-methodology/Credibility Revolution.md",
+        "wiki/concepts/research-methodology/Internal Validity.md"
       ],
       "title": ""
     },
@@ -5794,7 +5795,8 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/concepts/educational-philosophy/Scientific Method.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md",
-        "wiki/concepts/research-methodology/External Validity.md"
+        "wiki/concepts/research-methodology/External Validity.md",
+        "wiki/concepts/research-methodology/Internal Validity.md"
       ],
       "title": ""
     },
@@ -11818,7 +11820,10 @@
       "doi": "https://doi.org/10.1073/pnas.1719557115",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md",
+        "wiki/concepts/research-methodology/Survivorship Bias.md"
       ],
       "title": "The Matthew effect in science funding"
     },
@@ -56971,6 +56976,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/facts/us/National Bureau of Economic Research.md"
       ],
       "title": ""
@@ -86864,6 +86870,15 @@
       ],
       "title": ""
     },
+    "Rijt, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
+      ],
+      "title": ""
+    },
     "Riley, 1963": {
       "doi": "",
       "isbn": "",
@@ -108934,6 +108949,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Counterfactual.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/Survivorship Bias.md",
         "wiki/concepts/science-policy/Scientific Productivity.md"
       ],
@@ -109186,7 +109202,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": "A study on the impact of intelligent tutor systems on academic achievement: A quantitative meta-analysis perspective."
     },

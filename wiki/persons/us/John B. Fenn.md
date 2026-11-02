@@ -97,7 +97,6 @@ updated: 2026-11-01
 > [!person-network] 关系网络
 > - **科学学极值对照学者** [[Frank A. Wilczek]] — 科学学生涯时序分析中被引为极早突破代表，与芬恩的晚年突破构成双峰对照。
 > - **合作团队成员** 马蒂亚斯·曼（Matthias Mann）— 博士后与核心合作成员，共同推进电喷雾质谱生物应用。
-> - **任职机构** 耶鲁大学（Yale University）、弗吉尼亚联邦大学（Virginia Commonwealth University）。
 
 ---
 
@@ -122,3 +121,5 @@ updated: 2026-11-01
 > | [[Experimental Innovators]] | 概念 | 以七旬强制退休后做出诺贝尔奖成果的经历，作为实验型创新者厚积薄发的标杆案例。 |
 > | [[Hot Streak]] | 概念 | 作为年逾七旬依然迎来爆发期的实证案例，反驳将学术巅峰锚定于青年期的认知偏见。 |
 > | [[Frank A. Wilczek]] | 人物 | 共同构成科学学生涯动力学中早晚两端极值对照的标志性学者组合。 |
+> | 耶鲁大学（Yale University） | 组织 | 任职机构 |
+> | 弗吉尼亚联邦大学（Virginia Commonwealth University） | 组织 | 任职机构 |

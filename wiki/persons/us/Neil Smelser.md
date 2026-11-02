@@ -106,7 +106,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **导师与合作者** [[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons） — 共同开创现代经济社会学。
 > - **理论对话者** [[David Held]]、[[Carlos Alberto Torres]] — 其全球化边界多孔论与赫尔德、托雷斯的跨国规训模型形成共振。
-> - **国际学术机构** 国际社会学会（[[International Schools Association|ISA]]） — 曾任主席。
 
 ---
 
@@ -116,3 +115,4 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Permeable State]] | 概念 | 其 1993 年论述为多孔国家[[Construct\|构念]]提供了最直接的权威社会学文本出处。 |
 > | [[Conditioned State Theory]] | 理论 | 为阐释外围国家丧失自主控制政治经济动态提供了宏观国家边界通透性依据。 |
+> | 国际社会学会（[[International Schools Association\|ISA]]） | 组织 | 曾任主席。 |

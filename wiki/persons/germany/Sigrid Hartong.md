@@ -129,7 +129,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **学术合作者** 安妮娜·弗施勒（Annina Förschler） — 赫尔穆特·施密特大学长期研究助理与重要论文合著者。
 > - **理论思想渊源** [[Rob Kitchin\|罗伯·基钦]]（[[Rob Kitchin]]）、温迪·埃斯佩兰（[[Wendy Espeland]]）、本·威廉姆森（Ben Williamson）、尼尔·塞尔温（Neil Selwyn） — 为其提供[[Data Infrastructure\|数据汇聚体]]、[[Commensuration\|数量通约化]]与批判性数字社会学的理论滋养。
-> - **田野考察机构** [[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ）、[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）、[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） — 构成其揭开数据治理黑箱的核心经验考察对象。
 
 ---
 
@@ -158,4 +157,7 @@ updated: 2026-11-02
 > | [[Commensuration]] | 概念 | 揭示去地域化统计同类校对标对地方生活脉络的割裂及引发的文化抵制。 |
 > | [[Test-Based Accountability]] | 概念 | 阐明高利害接管问责如何诱发系统性数据烹饪并促成行政科层内部的防盗铁门隔离。 |
 > | [[Institute for Educational Quality Improvement]] | 事实 | 剖析 IQB 作为国家计算中心在联邦教育监测中的元治理职能与题库统筹。 |
-> | [[Early Warning Indicator System]] | 事实 | 案例解剖早期预警算法工具在基层异化为劝退弱势学生的标签化风险。 |
+> | [[Early Warning Indicator System]] | 事实 | 案例解剖早期预警算法工具在基层异化为劝退弱势学生的标签化风险。
+> | [[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE） | 组织 | 构成其揭开数据治理黑箱的核心经验考察对象。
+> | [[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ） | 组织 | 构成其揭开数据治理黑箱的核心经验考察对象。
+> | [[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK） | 组织 | 构成其揭开数据治理黑箱的核心经验考察对象。 |

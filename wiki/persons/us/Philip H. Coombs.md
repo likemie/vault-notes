@@ -99,8 +99,6 @@ updated: 2026-10-26
 ---
 
 > [!person-network] 关系网络
-> - **机构／运动／项目** [[International Institute for Educational Planning]] — 创始人兼首任所长（1963–1968），开创多边教育规划技术培训。
-> - **机构／运动／项目** 弗吉尼亚威廉斯堡世界教育危机大会（1967） — 会议核心组织者与议题设定者，正式确立全球教育危机叙事。
 > - **批评者／论敌** 冷战时期苏联与东欧社会主义学者 — 批评其[[Cosmopolitanism|普世主义]]危机论掩盖了资本主义体制矛盾与阶级压迫。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 ---
@@ -128,7 +126,8 @@ updated: 2026-10-26
 > | [[Policy Brokerage]] | 概念 | 通过世界教育危机大会奠定跨国政策中介与多边干预的合法性基石。 |
 > | [[Technology Deficit of Education]] | 概念 | 将教育系统投入产出的内在滞后失衡界定为危机动因，强化跨国规划需求。 |
 > | [[A Nation at Risk 1983]] | 政策 | 其倡导的危机动员[[Discourse\|话语]]直接启发了 1980 年代美国国内及跨国指标危机报告。 |
-> | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长，奠定战后[[International Education\|国际教育]]规划专业化标准。 |
+> | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长，奠定战后[[International Education\|国际教育]]规划专业化标准。创始人兼首任所长（1963–1968），开创多边教育规划技术培训。 |
+> | 弗吉尼亚威廉斯堡世界教育危机大会（1967） | 事件 | 会议核心组织者与议题设定者，正式确立全球教育危机叙事。 |
 
 ---
 

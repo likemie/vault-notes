@@ -140,8 +140,6 @@ updated: 2026-10-30
 > - **对话与论辩学者** [[Vivian Tseng]] — [[William T. Grant Foundation\|格兰特基金会]]高级副总裁，双方在强调实践者主体地位、推进[[Democratising Evidence\|证据民主化]]与长效组织能力建设上高度共鸣。
 > - **对话与论辩学者** [[Mark Schneider]] — 美国[[Institute of Education Sciences\|教育科学研究院]]（IES）院长，施奈德主张严格因果实证规程，普勒茨则倡导实践本位协作与[[Third Space Discourse\|第三空间]]多元[[Discourse|话语]]。
 > - **对话与论辩学者** [[Dirk Van Damme]] — 前 [[Centre for Educational Research and Innovation\|OECD CERI]] 主任，范达默关注学科自主性与学术自律，普勒茨则侧重跨越象牙塔与学校边界的协同机制。
-> - **依托国家项目** [[Swedish ULF Project]] — 担任其首席国家评估专家，对 25 所高校与 150 余市镇开展五年系统追踪。
-> - **学术机构** 东南挪威大学（University of South-Eastern Norway, USN） — 长期学术大本营与北欧政策[[Evaluation Research\|评估研究]]枢纽。
 
 ---
 
@@ -168,7 +166,8 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Third Space Discourse]] | 概念 | 将第三空间理论拓展并构建为解释 [[Research-Practice Partnership\|RPP]] 跨界协同沟通的核心机制。 |
-> | [[Swedish ULF Project]] | 政策 | 担任首席独立评估专家，系统评估全国 25 校与 150+ 市镇实践。 |
+> | [[Swedish ULF Project]] | 政策 | 担任首席独立评估专家，系统评估全国 25 校与 150+ 市镇实践。对 25 所高校与 150 余市镇开展五年系统追踪。 |
 > | [[Research-Practice Partnership]] | 概念 | 提出六项结构性主张，确立超越填补鸿沟隐喻的长效伙伴关系新[[Paradigm\|范式]]。 |
 > | [[Knowledge Co-production]] | 概念 | 阐明大学[[Theoretical Knowledge\|理论知识]]与一线实践知识在地位对等前提下的双向生成机制。 |
 > | [[Boundary Spanner]] | 概念 | 强调跨界中介在促成两类专业文化理解与语言转化中的关键枢纽价值。 |
+> | 东南挪威大学（University of South-Eastern Norway, USN） | 组织 | 长期学术大本营与北欧政策[[Evaluation Research\|评估研究]]枢纽。 |

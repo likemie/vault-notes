@@ -81,7 +81,6 @@ updated: 2026-10-22
 > - **合作者** Oliver Lüdtke — 长期方法论与统计建模合作者。
 > - **合作者** Olaf Köller — [[Max Planck Institute for Human Development|MPIB]] / IPN 资深合作者，共同主持 [[TOSCA]]。
 > - **合作者** Jürgen Baumert — MPIB 教育研究中心主任、[[PISA]] 德国首席科学家。
-> - **机构／项目** [[TOSCA]] — 主导主持的里程碑式纵向追踪项目。
 
 ---
 

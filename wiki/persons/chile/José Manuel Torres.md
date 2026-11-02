@@ -109,9 +109,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **合作者** Nóra Révai — [[Centre for Educational Research and Innovation\|OECD CERI]] 项目负责人兼《谁在乎教育研究的政策与实践应用？》主编，与 Torres 共同主导了整个跨国调查的设计与分析统筹。
-> - **机构／运动／项目** [[OECD]] — 国际政府间经济与政策组织，项目委托与执行依托主体。
-> - **机构／运动／项目** [[Centre for Educational Research and Innovation]] — 经合组织教育研究与[[Innovation Hub\|创新中心]]，研究[[Knowledge Mobilisation\|知识动员]]专项推进机构。
-> - **机构／运动／项目** [[Strengthening the Impact of Education Research Project]] — Torres 担任顾问并发表两章核心研究成果的专项国际研究计划。
 
 ---
 

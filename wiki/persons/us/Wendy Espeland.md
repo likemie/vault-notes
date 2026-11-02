@@ -128,7 +128,6 @@ updated: 2026-10-26
 > [!person-network] 关系网络
 > - **师承／合作者** Michael Sauder — 长期学术合作伙伴，共同完成关于大学排名的反应性奠基研究与《焦虑的引擎》。
 > - **师承／合作者** Theodore M. Porter — 同为[[Quantitative Research\|量化研究]]领域的思想先驱与对话同道，共享对数字客观性作为政治信任防御机制的洞见。
-> - **机构／运动／项目** Northwestern University — 长期执教并领导社会学与组织研究的重要学术重镇。
 > - **理论对话者** [[Gita Steiner-Khamsi]] — 在比较教育治理与[[Policy Brokerage\|政策中介]]研究中吸收其“指标叙事”[[Construct\|构念]]，发展出“[[Façade of Rationality\|理性表象]]”批判[[Analytic Framework\|分析框架]]。
 
 ---
@@ -159,3 +158,4 @@ updated: 2026-10-26
 > | [[Governing by Numbers]] | 概念 | 理论基石，系统阐明[[Commensuration\|通约化]]与反应性作为数字治理底层社会学机制的运转逻辑。 |
 > | [[Sociology of Valuation and Evaluation]] | 概念 | 奠基学者，开创了关于高校学术排名、声誉焦虑与组织[[Disciplina and Doctrina\|规训]]的评价社会学[[Paradigm\|范式]]。 |
 > | [[Digital Self]] | 概念 | 理论透镜提供者，批判了统计度量作为客观反映个体本质特权通道的[[Positivism\|实证主义]]假定。 |
+> | Northwestern University | 组织 | 长期执教并领导社会学与组织研究的重要学术重镇。 |

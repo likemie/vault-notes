@@ -144,7 +144,6 @@ updated: 2026-10-22
 > - **政策与方法论辩者** [[Mark Schneider]] — 共同诊断供给侧的质量缺陷与复现赤字；范达默偏向欧洲传统的[[Discipline-Based Theory\|学科理论]]自主演绎与蓝天基础资助，施奈德主导美国联邦工程化的 SEER 卓越标准。
 > - **学术[[Axiology\|价值论]]辩者** [[Vivian Tseng]] — 范达默警惕政治行动主义与即时实用迎合，主张科学中立与同行自律；曾薇薇安主张打破出资人垄断，将消除系统不平等与弱势社群自我赋权作为科研首要价值。
 > - **批判对象与思想源流** [[John Dewey]]、[[Paulo Freire]] — 范达默指出杜威[[Pragmatic Paradigm\|实用主义]]与弗莱雷[[Critical Pedagogy\|批判教育学]]等规范性哲学往往被不恰当地用作替代实证科学理论。
-> - **依托机构** [[OECD]]、[[Centre for Educational Research and Innovation]] — 范达默引领跨国教育政策研究与知识生态治理的核心国际组织平台。
 
 ---
 

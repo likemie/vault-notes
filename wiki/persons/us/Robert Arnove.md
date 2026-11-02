@@ -176,8 +176,7 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **师承与学术渊源** [[John W. Meyer|约翰·迈耶]]（早期博士导师，后形成批判性[[Paradigm|范式]]对峙）；[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[World-Systems Theory|世界体系分析]]理论基石来源）；[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire，拉美被压迫者教育学与[[Popular Education|民众教育]]先驱）。
 > - **核心学术合作者** [[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（长期联合主编《比较教育：[[Dialectic of the Global and the Local|全球与本土的辩证法]]》权威教材）；玛格丽特·萨顿（Margaret Sutton，合作主编《[[Shadow State|影子国家]]》解构非政府组织）。
-> - **学术盟友与对话者** [[Martin Carnoy|马丁·卡诺伊]]、[[Michael W. Apple|迈克尔·阿普尔]]（共享政治经济学批判视阈）；新制度主义学派（Francisco O. Ramirez, John Boli 等，展开世纪范式辩论）。
-> - **机构阵地** 印第安纳大学布卢明顿分校教育学院（长期执教）；[[Comparative and International Education Society|比较与国际教育学会]]（CIES，历任会长及终身杰出贡献学者）。
+> - **学术盟友与对话者** [[Martin Carnoy|马丁·卡诺伊]]、[[Michael W. Apple|迈克尔·阿普尔]]（共享政治经济学批判视阈）。
 
 ---
 
@@ -221,3 +220,6 @@ updated: 2026-11-02
 > | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
 > | [[John W. Meyer\|约翰·迈耶]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
+> | 新制度主义学派（Francisco O. Ramirez, John Boli 等） | 学派 | 展开世纪范式辩论。 |
+> | 印第安纳大学布卢明顿分校教育学院 | 组织 | 长期执教。 |
+> | [[Comparative and International Education Society\|比较与国际教育学会]] | 组织 | CIES，历任会长及终身杰出贡献学者。 |

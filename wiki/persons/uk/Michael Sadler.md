@@ -251,7 +251,6 @@ updated: 2026-11-02
 > - **学者评价** [[Wolfgang Mitter]] — 米特将萨德勒定性为推动现代大学比较教育率先在英国生根、开辟伦敦大学教育研究院知识传统的学科奠基者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 > - **学科史阐发者** [[Andreas Kazamias]] — 卡扎米亚斯将萨德勒确立为终结第一代行政借用、开创第二论述代际的历史文化奠基人。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–143)]]
 > - **当代批判对话者** [[Jason Beech]] — 比奇在《谁在漫步全球花园？》中以萨德勒 1900 年演讲隐喻为核心理论参照，揭示全球漫步主体从民族国家转向跨国多边机构与企业，并提出“枯死植株携带有害微生物重塑本土土壤”假说。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–343, 355–356)]]
-> - **制度机构** 特别调查与报告办公室（[[Office of Special Inquiries and Reports|OSIR]]） — 萨德勒在此设计并主持了首个以[[Competitiveness|国家竞争力]]为核心的地缘教育政策分析工程。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
 
 ---
 
@@ -291,3 +290,4 @@ updated: 2026-11-02
 > | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 作为[[Realism in International Relations\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
 > | [[OECD\|经济合作与发展组织]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 阐述萨德勒在英国率先开创大学比较教育教席、推动特别调查与报告办公室建制化的学术史地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88, 89–90)]] |
+> | 特别调查与报告办公室（[[Office of Special Inquiries and Reports\|OSIR]]） | 组织 | 萨德勒在此设计并主持了首个以[[Competitiveness\|国家竞争力]]为核心的地缘教育政策分析工程。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]] |

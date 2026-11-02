@@ -118,8 +118,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **政策前任与继承者** 罗伯特·麦克纳马拉（Robert McNamara）— 早期奠定世行关注贫困与基础教育的前任行长；保罗·沃尔福威茨（Paul Wolfowitz）— 沃尔芬森的继任者。
 > - **关键业务执行者** [[Maris O'Rourke|玛丽斯·奥罗克]]（Maris O'Rourke）— 沃尔芬森任内任命的时任教育局局长，具体主导创建全行首个教育知识管理系统（EKMS）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
-> - **合作多边机构** [[International Monetary Fund|国际货币基金组织]]（IMF）— 联合发起 HIPC 债务减免倡议与 PRSP 制度。
-> - **核心组织与项目** [[World Bank|世界银行]]、[[Global Development Network|全球发展网络]]、[[African Virtual University|非洲虚拟大学]]。
 
 ---
 
@@ -142,3 +140,5 @@ updated: 2026-10-30
 > | [[Poverty Reduction Strategy Papers]] | 政策事实 | 联合 IMF 正式引入并推行，取代传统的结构调整计划。 |
 > | [[Global Development Network]] | 机构事实 | 1999 年发起创设，旨在支持全球南方本土学者开展独立政策研究。 |
 > | [[Epistemic Governance]] | 概念 | 其知识银行实践为国际组织认知治理理论提供了最典型的实证范例。 |
+> | [[International Monetary Fund\|国际货币基金组织]]（IMF） | 机构事实 | 联合发起 HIPC 债务减免倡议与 PRSP 制度。 |
+> | [[African Virtual University\|非洲虚拟大学]] | 机构事实 | 核心组织与项目 |

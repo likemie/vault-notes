@@ -127,7 +127,6 @@ updated: 2026-10-22
 > - **企业领导与支持者** 丰田喜一郎（Toyoda Kiichiro） — 提出“准时化”构想，全力支持大野耐一在车间开展颠覆性生产流程试验。
 > - **现代工程哲学与组织理论对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将大野耐一[[Five Whys|五问法]]确立为软件工程反官僚主义与组织根因诊断的核心方法论。
 > - **质量管理同行** W. Edwards Deming（爱德华兹·戴明）、Joseph M. Juran（约瑟夫·朱兰） — 共同推动战后日本制造业质量革命与持续改善文化。
-> - **核心机构与实体** 丰田汽车公司（Toyota Motor Corporation）、[[Palantir Technologies]]（全面制度化应用五问法开展组织复盘的代表科技企业）。
 
 ---
 
@@ -154,3 +153,4 @@ updated: 2026-10-22
 > | [[Palantir Technologies]] | 事实 | 现代实践企业：深度借鉴大野耐一五问法开展数千次组织复盘与反推诿诊断。 |
 > | [[Alexander Karp]] | 人物 | 现代引用者：将大野耐一车间五问法扩展为大型软件组织人际与考核根因复盘机制。 |
 > | [[Nicholas Zamiska]] | 人物 | 现代引用者：共同论证五问法对公共行政与国防采办去官僚化的制度启示。 |
+> | 丰田汽车公司（Toyota Motor Corporation） | 组织 | |

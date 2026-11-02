@@ -110,8 +110,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **合作学者** Christian Maroy — 共同开展欧洲学校问责与治理轨迹的跨国跨尺度比较。
 > - **合作学者** [[Education Resources Information Center|Eric]] Mangez — 在欧洲知识与[[Policy Network|政策网络]]（Know&Pol）中紧密合作，共同解构教育政策[[Champ|场域]]的[[Knowledge Production|知识生产]]机制。
-> - **关键分析对象** [[OECD]] / [[PISA]] — 其长期批判解构的核心超国家治理机构与量化测试工具。
-> - **关键案例背景** [[PISA Response in France]] — 庞斯学术成果最集中的国别经验实证研究对象。
 
 ---
 
@@ -121,4 +119,6 @@ updated: 2026-11-02
 > |:---|:---|:---|
 > | [[Learning Knowledge and Policy Knowledge]] | Concept | 庞斯提出的核心知识类型学分类[[Construct\|构念]]。 |
 > | [[PISA Response in France]] | Fact (Event) | 庞斯深入实证追踪与理论定型的法国政策回应标本。 |
-> | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 庞斯的[[Research Translation\|知识转译]]研究是该模型第三层级（行动者网络）的理论支柱。 |
+> | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 庞斯的[[Research Translation\|知识转译]]研究是该模型第三层级（行动者网络）的理论支柱。
+> | [[OECD]] | 组织 | 其长期批判解构的核心超国家治理机构与量化测试工具。
+> | [[PISA]] | 项目 | 其长期批判解构的核心超国家治理机构与量化测试工具。 |

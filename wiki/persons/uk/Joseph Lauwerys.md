@@ -115,7 +115,6 @@ updated: 2026-11-02
 > - **同事与继承者** [[Brian Holmes\|布莱恩·霍姆斯]]（Brian Holmes） 共同任教于伦敦大学教育学院，继承并发展了[[Problem Approach\|问题法]]（Problem Approach）与制度化比较教育。
 > - **国际学术盟友** [[Jean Piaget\|让·皮亚杰]]、阿尼西奥·特谢拉、平冢益德 维系日内瓦 IBE、巴西与日本的高层跨洲学术纽带。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **学术镜像与对比** [[George Bereday\|乔治·贝雷迪]]（George Bereday） 战后欧美两大跨洲网络核心枢纽与学术演讲巨匠；[[Michael Sadler\|萨德勒]] 代表以国家防卫与竞争焦虑为驱动的现实主义，劳韦里斯则代表以国际主义合作为驱动的理性主义。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
-> - **机构与组织** [[Comparative Education Society in Europe]]（CESE 创会主席）、[[UNESCO\|联合国教科文组织]]（UNESCO 资深顾问）、伦敦大学教育学院（IOE 讲座教授）。
 
 ---
 
@@ -146,6 +145,8 @@ updated: 2026-11-02
 > | [[Allgemeine Pädagogik]] | 概念 | 在欧陆比较教育思想脉络中，与普通教育学所奠定的基础理论框架形成跨域学术互动。 |
 > | [[Wolfgang Mitter]] | 人物 | 在学科制度史中高度评价劳韦里斯创设 CESE 个人会员制与政策航行隐喻的里程碑贡献。 |
 > | [[Oskar Anweiler]] | 人物 | 共同依托 CESE 学会平台推动冷战时期跨越东西方意识形态阵营的学术交流。 |
+> | [[UNESCO\|联合国教科文组织]] | 组织 | UNESCO 资深顾问。 |
+> | 伦敦大学教育学院 | 组织 | IOE 讲座教授。 |
 
 ---
 

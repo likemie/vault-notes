@@ -124,7 +124,6 @@ updated: 2026-10-30
 ---
 
 > [!person-network] 关系网络
-> - **机构平台** [[OECD]] — 长期任职教育副司长；[[Centre for Educational Research and Innovation|CERI]] — 核心创建者与副主任；[[Organisation for European Economic Co-operation|OEEC]] — 早期职业发端机构。
 > - **学术研究与史学对话者** [[Fazal Rizvi]] — 澳大利亚比较教育学家，系统挖掘帕帕多普洛斯档案；[[Bob Lingard]] — 批判政策学者，将其时代与新自由主义全球转向作比较对照。
 
 ---
@@ -145,4 +144,6 @@ updated: 2026-10-30
 > |:---|:---|:---|
 > | [[Centre for Educational Research and Innovation\|CERI]] | 机构 | 深度参与领导创立该中心，打破狭隘科技人力规划，确立教育定性创新维度。 |
 > | [[Public Value\|公共物品]] | 概念 | 捍卫教育作为促进民主公民培育、社会凝聚与平等流动的本真公共价值。 |
-> | [[Human Capital Theory\|人力资本理论]] | 理论 | 见证并参与纠偏二战后早期单一科技人力规划模式，注入社会民主主义平衡。 |
+> | [[Human Capital Theory\|人力资本理论]] | 理论 | 见证并参与纠偏二战后早期单一科技人力规划模式，注入社会民主主义平衡。
+> | [[OECD]] | 机构 | 长期任职教育副司长。
+> | [[Organisation for European Economic Co-operation\|OEEC]] | 机构 | 早期职业发端机构。 |

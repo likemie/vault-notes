@@ -159,7 +159,6 @@ updated: 2026-11-02
 > - **方法论继承者** [[George Bereday|乔治·贝雷迪]]（George Bereday） — 吸纳希尔克四阶段比较逻辑，将其转化为战后英美比较教育方法论的经典教材母版。
 > - **历史评述学者** [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter） — 阐释希尔克在西德比较教育[[Disciplinary Institutionalization|学科建制]]与制度化历史中的核心地位。
 > - **比较学术史考据者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） — 考据希尔克论古代比较探究实践艺术源流及德语学科定名争鸣。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
-> - **国际组织机构** [[UNESCO|联合国教科文组织]]（UNESCO）汉堡教育研究所（筹建理事）、波恩教育工作中心（首任主任）。
 
 ---
 
@@ -190,4 +189,6 @@ updated: 2026-11-02
 > | [[Friedrich Schneider]] | 人物 | 与希尔克并立为战后西德第一时期比较教育学术建制的双核奠基人。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 89)]] |
 > | [[Bildung]] | 概念 | 希尔克倡导的比较教育学传统深植于德语教化与实践艺术脉络。 |
 > | [[Wolfgang Mitter]] | 人物 | 评析希尔克在欧洲比较教育学制建立与文献中心创设中的奠基贡献。 |
-> | [[Val D. Rust]] | 人物 | 阐述希尔克在比较教育实践艺术源流考据及学科专业化历史中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]] |
+> | [[Val D. Rust]] | 人物 | 阐述希尔克在比较教育实践艺术源流考据及学科专业化历史中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]]
+> | [[UNESCO\|联合国教科文组织]]（UNESCO）汉堡教育研究所 | 组织 | 筹建理事。
+> | 波恩教育工作中心 | 组织 | 首任主任。 |

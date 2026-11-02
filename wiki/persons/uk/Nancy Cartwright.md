@@ -133,7 +133,6 @@ updated: 2026-10-30
 > - **学术合作者** Jeremy Hardie — 共同撰写《证据知情政策实践指南》（2012）。
 > - **教育学共振者** [[Gert Biesta]] — 同样反对医学化 [[Randomised Controlled Trials\|RCT]] 垄断教育研究，从价值哲学与因果哲学双向夹击“什么有效”教条。
 > - **教育研究应用者** [[Chris Brown]]、[[Toby Greany]] — 在[[Evidence-Based School Development\|循证学校改进]]研究中将卡特赖特外推思想[[Operationalization\|操作化]]为校本探究转译原则。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
-> - **政策批判对象** 英国 [[What Works Network]] 早期的机械证据主义模型。
 
 ---
 
@@ -160,3 +159,4 @@ updated: 2026-10-30
 > | [[Evidence-Informed Practice]] | 概念 | 卡特赖特理论在教育领域的具象化形态，要求教师行使批判性因果审议。 |
 > | [[School Enquiry Cycle]] | 概念 | 探究循环中强调基于行动理论的情境转译，直接渊源于卡特赖特的证据迁移论。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]] |
 > | [[Transfer Translation Transformation]] | 概念 | 描述研究证据从学术界向学校情境化再生的深层转化理论。 |
+> | [[What Works Network]] | 政策 | 早期的机械证据主义模型。 |

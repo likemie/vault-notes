@@ -105,7 +105,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **长期合著者** [[Tom Schuller]] — Burns 与 Schuller 自 2007 年以来多次合著与合编，共同建构了[[Educational Brokerage Agency\|教育中介机构]]研究的核心[[Analytic Framework\|分析框架]]。
 > - **项目主任** Nóra Révai — 在 [[Centre for Educational Research and Innovation\|OECD CERI]]"强化教育[[Research Impact\|研究影响力]]"项目中担任专家顾问委员会成员，Révai 任项目主任。
-> - **依托机构** [[OECD]] / [[Centre for Educational Research and Innovation]] — 主要研究与政策输出平台。
 
 ---
 
@@ -118,3 +117,4 @@ updated: 2026-10-22
 > | [[Complexity Theory]] | 理论 | 将复杂[[Luhmann's Systems Theory\|系统理论]]引入教育[[Epistemic Governance\|知识治理]]研究，倡导从线性供给转向关注社会关系与情境适应的系统观。 |
 > | [[Canadian Council on Learning]] | 机构事实 | 以 CCL 的夭折为核心案例，论证缺乏跨辖区法定制度协议对中介机构存续的致命性。 |
 > | [[Centre for Educational Research and Innovation]] | 机构事实 | 主要工作平台，依托 CERI 发布系列 [[OECD]] 教育知识治理政策研究。 |
+> | [[OECD]] | 机构事实 | 主要研究与政策输出平台。 |

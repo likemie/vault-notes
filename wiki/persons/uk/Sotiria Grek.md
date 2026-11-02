@@ -150,11 +150,6 @@ updated: 2026-10-30
 > - **合作学者** [[Bob Lingard]] — 共同探讨[[Mediatisation of Education Policy|政策媒介化]]与[[Global Educational Policy Field|全球教育政策场域]]的学术对话同行。
 > - **学术对话者** [[António Nóvoa]] — 欧洲教育空间与比较政策历史制度主义理论的重要学术对话者。
 > - **学术对话者** [[Kerstin Martens]] — 经合组织比较转向与国际组织社会学研究的重要引证学者。
-> - **核心研究机构与项目** [[OECD]] — 格雷克学术生涯持续剖析的核心跨国教育测评与度量治理主体。
-> - **核心研究机构与项目** [[EU]] 与 [[European Commission]] — 重点透视的超国家政治实体及其资助协同网络。
-> - **核心研究机构与项目** [[Eurydice]] — 实证研究中重点访谈与解构的欧洲教育政策信息网络。
-> - **重大科研项目** [[Fabricating Quality in European Education]] — 参与奠定学术声誉的欧洲科学基金会跨国实证科研项目。
-> - **标志性度量项目** [[PISA]] — 揭示量化指标如何作为治理技术重构国家教育政策的核心经验对象。
 
 ---
 
@@ -182,5 +177,9 @@ updated: 2026-10-30
 > | [[Space of Equivalence]] | 概念 | 阐发跨国测评消除制度[[Heterogeneity\|异质性]]并确立横向可比性的理论机制。 |
 > | [[Commensuration]] | 概念 | 揭示量化指标与质性元标准将复杂异质教育实践转化为通用标尺的过程。 |
 > | [[Governing by Inspection]] | 理论 | 与 Ozga et al. 合著奠定欧洲督导数字化与规训机制比较研究。 |
-> | [[Fabricating Quality in European Education]] | 政策 | 深度参与奠定欧洲教育质量制造实证研究基础的跨国科研项目。 |
+> | [[Fabricating Quality in European Education]] | 政策 | 深度参与奠定欧洲教育质量制造实证研究基础的跨国科研项目。参与奠定学术声誉的欧洲科学基金会跨国实证科研项目。 |
 > | [[PISA]] | 政策 | 深入解构其跨国政策效应与成员国[[Externalization\|策略性外在化]]机制的核心经验对象。 |
+> | [[OECD]] | 组织 | 格雷克学术生涯持续剖析的核心跨国教育测评与度量治理主体。 |
+> | [[EU]] | 组织 | 重点透视的超国家政治实体及其资助协同网络。 |
+> | [[European Commission]] | 组织 | 重点透视的超国家政治实体及其资助协同网络。 |
+> | [[Eurydice]] | 组织 | 实证研究中重点访谈与解构的欧洲教育政策信息网络。 |

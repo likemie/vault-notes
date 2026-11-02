@@ -135,7 +135,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **学术合作者** [[Martin Carnoy]] — 斯坦福大学长期同事与重要学术同盟，合著《第三世界的教育与社会转型》（1990）。
 > - **理论同盟** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与外围教育依附研究中深度吸收萨莫夫的[[Financial-Intellectual Complex|金融-智识复合体]]模型。
-> - **批判对象** [[World Bank|世界银行]]管理层与新古典受雇专家群 — 系统解剖其如何利用定向资助和狭隘实证指标垄断[[Development Education|发展中国家教育]]政策议程。
 > - **学科史编纂与评述者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 在学科反思中将卡诺伊与萨莫夫的转型国家研究定性为第四代批判宏观[[Paradigm|范式]]的经验代表。
 
 ---
@@ -158,3 +157,4 @@ updated: 2026-11-02
 > | [[Technical Rationality\|技术理性]] | 概念 | 批判[[World Bank\|世界银行]]将教育降格为新古典成本收益与生均收益率等纯粹技术官僚工具理性。 |
 > | [[Conditioned State Theory\|受限国家理论]] | 理论 | 阐发外围国家在面对跨国金融机构[[Policy Conditionalities\|贷款附加条件]]时丧失政策自主权的受限困局。 |
 > | [[Dependency Theory\|依附理论]] | 理论 | 深化文化与智识层面的依附机制分析，揭露西方援助专家库对第三世界智识主权的再殖民化。 |
+> | [[World Bank\|世界银行]]管理层与新古典受雇专家群 | 组织 | 系统解剖其如何利用定向资助和狭隘实证指标垄断[[Development Education\|发展中国家教育]]政策议程。 |

@@ -128,8 +128,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **导师／学术引路人** 李·克隆巴赫（Lee Cronbach） — 斯坦福大学博士导师，长期合作奠定现代心理测量概化理论。
 > - **重要合作者** [[Tina Seidel]] — 慕尼黑工业大学教育心理学讲席教授，2005 年起紧密合作[[Meta-analysis\|元分析]]研究，共同奠定[[Effective Teaching\|有效教学]]与[[Knowledge Mediation\|知识中介]]标准。
-> - **学术机构** 斯坦福大学教育学院与兰德公司（RAND Corporation） — 长期任职与主政的学术与政策重镇。
-> - **中介组织关联** [[Clearing House Unterricht]] 与 [[What Works Clearinghouse]] — 其科学研究原则与中介理论深刻影响了美德两国证据清算所的学术规程构建。
 
 ---
 
@@ -142,3 +140,7 @@ updated: 2026-10-30
 > | [[Educational Evidence Clearinghouses]] | 概念 | 参与制定科学教育实证[[Evidence Standards\|证据标准]]，为现代清算机构提供理论与方法支持。 |
 > | [[Critical Thinking]] | 概念 | 研发大学学习评估（[[Collegiate Learning Assessment\|CLA]]）测验，开创大学生批判性思维的表现性实证测量。 |
 > | [[Tina Seidel]] | 人物 | 长期学术盟友与合作者，共同发表[[Effective Teaching\|有效教学]][[Meta-analysis\|元分析]]长篇综述。 |
+> | 斯坦福大学教育学院 | 组织 | 长期任职与主政的学术与政策重镇。 |
+> | 兰德公司（RAND Corporation） | 组织 | 长期任职与主政的学术与政策重镇。 |
+> | [[Clearing House Unterricht]] | 组织 | 其科学研究原则与中介理论深刻影响了美德两国证据清算所的学术规程构建。 |
+> | [[What Works Clearinghouse]] | 组织 | 其科学研究原则与中介理论深刻影响了美德两国证据清算所的学术规程构建。 |

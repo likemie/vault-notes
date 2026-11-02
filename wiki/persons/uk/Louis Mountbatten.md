@@ -111,13 +111,17 @@ updated: 2026-10-30
 > - **教育思想前驱** [[Kurt Hahn]] — 提供通过共同生活、服务与探险促进国际理解的教育愿景。
 > - **学校实践者** [[Desmond Hoare]] — 参与德国、加拿大、新加坡和意大利项目，并把大西洋学院经验带入扩展。
 > - **[[International Education|国际教育]]合作者** [[Alec Peterson]] — 连接 [[United World Colleges|UWC]] 与 IB 的课程、组织和人员合作。
-> - **机构／运动** [[United World Colleges]] — 蒙巴顿最主要的教育组织工作载体。
 
 ---
 
 > [!warning] 史料位置
 > 人物形象主要来自同事和运动参与者亚历克·彼特森（[[Alec Peterson]]）的回忆，并包含作者对菲利普·齐格勒传记的转述。材料详细呈现组织者眼中的工作方式和贡献，却不能单独代表各国委员会、政府、学校员工或学生对蒙巴顿的评价。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–130)]]
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[United World Colleges]] | 组织 | 蒙巴顿最主要的教育组织工作载体。 |
 
 > [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–130)]] — 记录蒙巴顿的国际组织、政治动员、筹款及成员扩展工作。

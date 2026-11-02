@@ -111,8 +111,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **关键领导与授权者** [[James Wolfensohn]] — 世界银行行长，授权奥罗克将教育部门选为全行知识转型的试点先驱。
-> - **政策协同伙伴** 沃尔芬森[[Strategic Compact|战略契约]]执行团队、新西兰工党与国家党联合改革内阁。
-> - **机构实体** [[World Bank]]、[[Educational Knowledge Management System]]。
 
 ---
 
@@ -139,6 +137,9 @@ updated: 2026-10-30
 > | [[Educational Knowledge Management System]] | 项目事实 | 奥罗克在[[World Bank\|世界银行]]任内领导设计、组建与运营的旗舰知识系统。 |
 > | [[James Wolfensohn]] | 人物 | 与奥罗克紧密配合推进全行知识化转型的世界银行行长。 |
 > | [[Epistemic Governance]] | 概念 | 奥罗克的[[Knowledge Mediation\|知识中介]]实践构成了跨国组织行使认知治理的典型载体。 |
+> | 沃尔芬森[[Strategic Compact\|战略契约]]执行团队 | 组织 | |
+> | 新西兰工党与国家党联合改革内阁 | 组织 | |
+> | [[World Bank]] | 组织 | |
 
 ---
 

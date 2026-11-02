@@ -107,9 +107,8 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** 格式塔心理学派（Wertheimer、Köhler、Koffka）——场论的理论来源；Lippitt and White——合作进行领导风格实验；Leon Festinger——MIT 群体动力学研究中心的学生和继任者。
+> - **师承／合作者** Lippitt and White——合作进行领导风格实验；Leon Festinger——MIT 群体动力学研究中心的学生和继任者。
 > - **学生／继承者** 阿吉里斯（Argyris）——将[[Action Research\|行动研究]]发展为"行动科学"（action science），提出单环和双环学习；Kemmis & McTaggart——系统化行动研究的螺旋模型和批判行动研究；Rensis Likert——发展组织行为学和参与式管理。
-> - **机构／运动／项目** MIT 群体动力学研究中心（1944 年创立，1948 年迁至密歇根大学，成立社会研究所 ISR）；Tavistock 研究所（英国）——将勒温的群体动力学应用于组织咨询。
 
 ---
 
@@ -125,3 +124,6 @@ updated: 2026-10-22
 > | 双环学习（Double-Loop Learning） | 概念 | 间接影响——Argyris 在勒温行动研究传统中发展 |
 > | [[Gatekeepers]] | 概念 | 提出——勒温最早在群体动力学研究中引入守门人概念 |
 > | 场论（Field Theory） | 理论 | 创立——行为是人与环境的函数（B = f(P, E)），为后续的生态[[Luhmann's Systems Theory\|系统理论]]提供基础 |
+> | 格式塔心理学派（Wertheimer、Köhler、Koffka） | 学派 | 场论的理论来源。 |
+> | MIT 群体动力学研究中心 | 组织 | 1944 年创立，1948 年迁至密歇根大学，成立社会研究所 ISR。 |
+> | Tavistock 研究所（英国） | 组织 | 将勒温的群体动力学应用于组织咨询。 |

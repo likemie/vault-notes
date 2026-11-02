@@ -122,13 +122,6 @@ updated: 2026-10-30
 
 ---
 
-> [!person-network] 关系网络
-> - **机制／项目** [[Forum on China-Africa Cooperation]] — 金持续追踪二十余年的对非多边合作平台。
-> - **战略／倡议** [[Belt and Road Initiative]] — 金晚期研究聚焦的全球多边互联互通框架。
-> - **机构／平台** [[Institute of South-South Cooperation and Development]] — 金用以论证对非教育合作由通用技能短训升级为国家发展经验互鉴的标志性实体机构。
-
----
-
 > [!debates] 学术争议
 >
 > > [!axis] 中非教育合作的性质之争：地缘扩张工具还是南南发展互助
@@ -147,3 +140,5 @@ updated: 2026-10-30
 > | [[People-to-People Connectivity]] | 概念 | 阐明人文互通与民心相通构筑跨国经济走廊与重大基建工程民意根基的机制。 |
 > | [[Asia-Africa Growth Corridor]] | 政策 | 作为实证案例，论证缺乏受援区域本土主体参与的外部倡议将面临停滞困境。 |
 > | [[Institute of South-South Cooperation and Development]] | 组织 | 作为典型机构，展示对非教育合作从初级技能培训走向治国理政高端经验互学的实体化制度安排。 |
+> | [[Forum on China-Africa Cooperation]] | 组织 | 金持续追踪二十余年的对非多边合作平台。 |
+> | [[Belt and Road Initiative]] | 项目 | 金晚期研究聚焦的全球多边互联互通框架。 |

@@ -98,7 +98,6 @@ updated: 2026-10-30
 > [!person-network] 关系网络
 > - **学术论敌** [[John Hattie]] — 针对[[Class Size|班级规模]][[Effect Size|效应量]]的解释、学术中立性与商业咨询利益冲突展开长期交锋。
 > - **调查合作者** Adams; Bourke — 2016 年共同开展新西兰教育政治经济学实证调查。
-> - **关联机构** [[Cognition Education]] — 奥尼尔调查的核心对象，揭露其作为公立改制中介在商业化运作中的巨额利润与支付明细。
 > - **呼应学者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 全文引用奥尼尔的财务调查发现，重构对新自由主义[[Knowledge Production|知识生产]]的系统批判。
 
 ---

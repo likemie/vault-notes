@@ -154,7 +154,6 @@ updated: 2026-11-02
 > - **文化主义当代传承者** [[Robert Cowen]] — 共同主编与撰写《比较教育学国际手册》（2009），坚守欧洲历史文化主义与[[Epistemology|认识论]]批判主流。
 > - **实证[[Paradigm|范式]]批判对象** [[Torsten Husén]] — 评析胡森领导的 [[IEA]] 大规模测评长期游离于欧洲比较教育大学建制与 CESE 网络之外的独立轨道现象。
 > - **精神与学术前驱** [[Friedrich Schneider]]、[[Nicholas Hans]]、[[Michael Sadler]] — 系统总结其宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]在欧洲的宗师地位。
-> - **机构领导** [[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]，所长）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE 会长）、世界比较教育学会联合会（WCCES 会长）。
 
 ---
 
@@ -181,4 +180,5 @@ updated: 2026-11-02
 > | [[Leibniz Institute for Educational Research and Educational Information]] | 事实 | 曾任所长与比较教育部门主管，奠定该国家级研究所的比较教育实体建制。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 曾任会长，坚守跨国学者个人会员制，架设跨越冷战铁幕的东西欧学术交流桥梁。 |
 > | [[Oskar Anweiler]] | 人物 | 德国学术同盟，共同奠定战后西德东欧教育研究与 DGfE 比较分会建制。 |
-> | [[Torsten Husén]] | 人物 | 评析胡森开创的 [[IEA]] 大规模测评长期游离于欧洲比较教育学会网络之外的独立轨道现象。 |
+> | [[Torsten Husén]] | 人物 | 评析胡森开创的 [[IEA]] 大规模测评长期游离于欧洲比较教育学会网络之外的独立轨道现象。
+> | 世界比较教育学会联合会 | 组织 | WCCES 会长。 |

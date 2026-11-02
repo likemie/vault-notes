@@ -111,7 +111,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **合作者** 鲁伊·毛罗·马里尼（Ruy Mauro Marini）、瓦尼亚·邦宾亚（Vania Bambirra） — 共同构成智利大学当代社会经济研究中心著名的马克思主义[[Dependency Theory|依附论]]三剑客。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Martin Carnoy]] — 将其宏观依附政治经济学引入教育扩张与国家职能矛盾研究。
-> - **所属组织** [[UNESCO]] — 长期担任拉美区域高级学术顾问与项目协调员。
 
 ---
 

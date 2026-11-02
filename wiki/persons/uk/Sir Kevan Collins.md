@@ -107,8 +107,6 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络与跨界拓扑
-> - **跨国流动与[[Co-affiliation\|共同从属]]实体** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）— 出任创设专家董事；英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）— 担任创设首席执行官（2011–2019）。
-> - **跨国慈善与商业资本伙伴** [[BHP Foundation\|必和必拓基金会]]（BHP Foundation）— 签署五年全球证据生态协议；[[Sutton Trust\|萨顿信托]]（The Sutton Trust）— 紧密共事的主管母体。
 > - **澳洲政商网络盟友** 莉萨·奥布莱恩（Lisa O'Brien，AERO 主席兼 [[Social Ventures Australia\|SVA]] 前董事）、罗杰·马西-格林（Roger Massy-Greene，AERO 董事兼 SVA 长期资助人）— 共同出任 AERO 首届董事会，构筑跨国[[Policy Network\|政策网络]]闭环（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 ---
@@ -130,12 +128,14 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
-> | [[Education Endowment Foundation]] | 组织 | 创设首席执行官，确立独立证据经纪与 [[Randomised Controlled Trials\|RCT]] 评估模式。 |
+> | [[Education Endowment Foundation]] | 组织 | 创设首席执行官（2011–2019），确立独立证据经纪与 [[Randomised Controlled Trials\|RCT]] 评估模式。 |
 > | [[Australian Education Research Organisation]] | 组织 | 跨洋出任创设专家董事，将英国循证[[Paradigm\|范式]]直接移植至澳洲国家机构。 |
 > | [[EEF Teaching and Learning Toolkit]] | 事实 | 主导推动因果证据工具包的标准化、可视化与全球本地化扩散。 |
 > | [[Evidence for Learning]] | 组织 | 推动 EEF 跨国资助 [[Social Ventures Australia\|SVA]] 建立澳洲证据学习中心试点样板。 |
 > | [[Policy Mobility]] | 概念 | 其个人职业生涯是循证中介模式跨大西洋与跨太平洋流动的核心人类具身节点。 |
 > | [[Co-affiliation]] | 概念 | 同时或先后在英澳两国顶级证据机构任职，构成了跨国[[Policy Network\|异质治理]]层级的典型代表。 |
+> | [[BHP Foundation\|必和必拓基金会]] | 组织 | 签署五年全球证据生态协议。 |
+> | [[Sutton Trust\|萨顿信托]] | 组织 | 紧密共事的主管母体。 |
 
 ---
 

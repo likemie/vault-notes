@@ -154,7 +154,6 @@ updated: 2026-10-30
 > - **学术同道与合作** Martin Lawn — 合著合编 *Fabricating Europe*，确立欧洲空间批判范式；塔马尔·雅里夫-马沙尔（Tamar Yariv-Mashal）— 合作剖析媒体化与数目化应急治理体系；让·皮亚杰（[[Jean Piaget]]）— 早期日内瓦学术渊源。
 > - **学生／继承者** 诺亚·索比（Noah W. Sobe）与罗兰·菲舍尔（Roland Fischer）— 引用其空间与[[Discourse Analysis|话语分析]]解构学生跨国流动修辞；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）— 深入引申欧盟三轨软治理分析模型。
 > - **批评者／论敌** 部分比较制度学者 — 强调各成员国宪制结构与深层福利体制的制度黏性与过滤[[Absorptive Capacity|吸收能力]]，质疑超国家话语软治理存在被夸大之嫌。
-> - **机构／运动／项目** 里斯本大学、日内瓦大学、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）、[[UNESCO|联合国教科文组织]]。
 
 ---
 
@@ -187,3 +186,7 @@ updated: 2026-10-30
 > | [[Performance Indicators]] | 概念 | 治理工具分析；阐明指标基准线如何作为软法手段推动成员国政策趋同。 |
 > | [[Governmentality]] | 理论 | 理论框架；运用福柯治理术视角分析超国家教育政策的自我规训逻辑。 |
 > | [[Social Cartography]] | 方法 | 知识制图；探索比较教育学科权力的空间分布与再现逻辑。 |
+> | 里斯本大学 | 组织 | |
+> | 日内瓦大学 | 组织 | |
+> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 组织 | |
+> | [[UNESCO\|联合国教科文组织]] | 组织 | |

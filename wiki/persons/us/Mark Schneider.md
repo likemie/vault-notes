@@ -130,7 +130,6 @@ updated: 2026-10-26
 > - **方法学对话者** [[Robert Slavin]] — 施奈德高度认同斯莱文 2014 年对[[Developer-Made Measures\|开发者自编测验]]过度对齐导致[[Effect Size\|效应量]]虚高的实证批评，并在 [[Institute of Education Sciences\|IES]] 设立 EdInstruments 工具库作为制度化对策。
 > - **政策同行与论辩者** [[Vivian Tseng]] — 在《教育研究视角》中形成官方联邦资助派与私立慈善民主派的互补论辩；施奈德关注量化构件拆解与转化标准，曾薇薇安主张打破出资人特权、推进弱势社群赋权。
 > - **国际智库对话者** [[Dirk Van Damme]] — 共同诊断教育科研供给侧的复现赤字与质量危机；范达默主张[[Discipline-Based Theory\|学科理论]]自主演绎与蓝天基础研究，施奈德主张工程化、可复现的 SEER 卓越标准。
-> - **机构与科研平台** [[Institute of Education Sciences]] — 施奈德推进 SEER 标准与科研资助[[Paradigm\|范式]]转型的核心联邦科学机构。
 
 ---
 
@@ -159,5 +158,5 @@ updated: 2026-10-26
 > | [[Evidence-Based Education]] | 概念 | 推动循证教育走出单一 [[Randomised Controlled Trials\|RCT]] [[Internal Validity\|内部效度]]迷思，建立包含成本、构件与复现的多维框架。 |
 > | [[School Choice]] | 概念 | 在代表作中揭示家长择校的微观决策机制与社会资本差异，奠定择校政策分析基础。 |
 > | [[Randomised Controlled Trials]] | 方法 | 提出药丸袋隐喻，推动随机对照试验向构件拆解、通用独立测量与敏捷数字化复现升级。 |
-> | [[Institute of Education Sciences]] | 政策 | 担任第四任院长，全面重组联邦年度 1.5 亿美元教育科研立项评审与资助规程。 |
+> | [[Institute of Education Sciences]] | 政策 | 担任第四任院长，全面重组联邦年度 1.5 亿美元教育科研立项评审与资助规程。施奈德推进 SEER 标准与科研资助[[Paradigm\|范式]]转型的核心联邦科学机构。 |
 

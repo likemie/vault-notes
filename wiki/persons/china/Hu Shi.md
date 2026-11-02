@@ -113,7 +113,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **师承／合作者** [[John Dewey]] — 导师；陈独秀 — [[New Culture Movement\|新文化运动]]战友；[[Jiang Menglin]]、[[Tao Xingzhi]] — 哥大留美网络同仁。
 > - **批评者／论敌** 梁漱溟 — 东方文化派批评者；1950年代中国大陆马克思主义思想批判界。
-> - **机构／运动** [[New Culture Movement]] — 领袖；[[May Fourth Movement]] — 思想倡导者；《新青年》 — 编辑。
 
 ---
 

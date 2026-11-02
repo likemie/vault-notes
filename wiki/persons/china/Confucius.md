@@ -147,7 +147,6 @@ updated: 2026-10-30
 > - **跨文化对话与异质镜像** [[John Dewey]] — 1919 年蔡元培将其塑造为“替代性现代[[Sage|圣人]]”与孔子对比。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 75)]]
 > - **理论共振视角** [[Lev Vygotsky]] — 社会文化理论与孔子启发式对话在当代 [[Learner-Centred Education|LCE]] 改革中产生[[Selective Affinity|选择性亲和]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]
 > - **当代[[Cultural Models|文化模型]]对比者** [[Jin Li|李瑾]]（Jin Li） — 区分“历史上的孔子”与后世政治化解读，系统发掘[[Heart and Mind for Wanting to Learn|好学心]]与[[Self-Cultivation|修身]]传统。[[Argument_Li_2012_Cambridge|(Li, 2012)]]
-> - **对外公共外交载体** [[Confucius Institute|孔子学院]] — 当代以其命名建立的全球跨国语言推广机构。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–27, 30–32)]]
 
 ---
 

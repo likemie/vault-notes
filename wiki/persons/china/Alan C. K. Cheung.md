@@ -150,7 +150,6 @@ updated: 2026-11-02
 > - **学术合作者** [[Chen Xie]] — 共同主编 *ECNU Review of Education* 全球循证改革特刊（2021）。
 > - **合作学者** [[Tengteng Zhuang]] — 合作撰写中国学者质疑证据本位教育的系统综述（2021）。
 > - **博士生／核心合作者** Shuzhen Chen（陈树贞） — 合作完成 2025 年生成式 AI 高等教育元分析（ERR 顶刊一作）。
-> - **机构平台** [[Best Evidence Encyclopedia\|BEE]] / [[Best Evidence in Brief\|BEiB]] — 长期主导华语网络转化与维护工作。
 
 ---
 

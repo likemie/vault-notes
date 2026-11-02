@@ -110,7 +110,6 @@ updated: 2026-10-23
 > [!person-network] 关系网络
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同探讨教育多边机构霸权、[[Dependency Theory|依附理论]]与[[World-Systems Theory|世界体系分析]]。
 > - **合作研究者** 琳·墨菲（Lynn Murphy）——共同合作系统研究跨国非政府组织网络与[[International Education|国际教育]]援助。
-> - **组织纽带** [[UNESCO]] 与 [[World Bank]]——作为其学术生涯长期对比考证的核心机构实体。
 
 ---
 

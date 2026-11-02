@@ -118,7 +118,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **师承／合作者** [[John Dewey]] — 哥大博士导师；[[Hu Shi]]、[[Tao Xingzhi]] — 哥大留美同事与杜威访华接待网络。
 > - **批评者／论敌** 蒋琦（1919） — 温和派教育家，反对蒋梦麟“全盘抹煞旧教育”的激进立场。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
-> - **机构／运动** [[New Education Movement]] — 运动领袖；《新教育》 — 创办人兼主编；北京大学 — 长期任校长。
 
 ---
 

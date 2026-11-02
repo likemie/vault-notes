@@ -155,7 +155,6 @@ updated: 2026-10-30
 > - **学术同道与合作** 于尔根·亨策（Jürgen Henze）— 洪堡大学教授，共同重建后冷战德国比较教育重镇；布莱恩·霍姆斯（[[Brian Holmes]]）— 早期编纂学术文集，共同探索比较教育[[Scientific Method|科学方法]]论；[[Niklas Luhmann|尼克拉斯·卢曼]] — 系统论思想渊源。
 > - **学生／继承者** [[Jeremy Rappleye|杰里米·拉普利]]（[[Argument_Rappleye_2006_RCIE|Rappleye, 2006]]）— 深入解析双向外化与语义建构机制；吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）— 拓展全球政策借用与借鉴中的政治正当化研究。
 > - **欧洲学术同道** 沃尔夫冈·米特（[[Wolfgang Mitter]]）、罗伯特·考恩（[[Robert Cowen]]）、安德烈亚斯·卡扎米亚斯（[[Andreas Kazamias]]）— 共同在世纪之交坚守欧洲比较教育的母学科本体理论与历史文化传统。
-> - **机构阵地** 柏林洪堡大学比较教育研究所（创所所长）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE，前主席）。
 
 ---
 
@@ -191,4 +190,6 @@ updated: 2026-10-30
 > | [[Policy Borrowing]] | 概念 | 范式重构；将跨国借用界定为主观语义建构与过滤，取代机械的技术扩散假定。 |
 > | [[Global Educational Discourse]] | 概念 | 理论拓展；出版话语形成专论，揭示全球普遍主义话语在跨国互涉中的网络化建构。 |
 > | [[Discipline-Based Theory]] | 理论 | 学术坚守；在世纪之交捍卫欧洲比较教育依托哲学与社会学母学科理论的学术自律。 |
-> | [[PISA]] | 政策 | 治理分析；揭示跨国测评如何被主权国家决策者用作打破国内政治僵局的外化借用工具。 |
+> | [[PISA]] | 政策 | 治理分析；揭示跨国测评如何被主权国家决策者用作打破国内政治僵局的外化借用工具。
+> | 柏林洪堡大学比较教育研究所 | 组织 | 创所所长。
+> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 组织 | 前主席。 |

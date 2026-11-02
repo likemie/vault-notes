@@ -94,7 +94,6 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **论辩对手** [[Martin Walser|马丁·瓦尔泽]] — 围绕大屠杀记忆的公共责任与国家认同展开历史性公开论战。
 > - **当代观察与引述者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中作为德国国家认同复杂性的核心案例加以剖析。
-> - **所涉核心事件** [[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。
 
 ---
 

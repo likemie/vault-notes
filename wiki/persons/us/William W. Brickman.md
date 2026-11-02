@@ -122,7 +122,6 @@ updated: 2026-10-30
 > - **学术合作者** 斯图尔特·E·弗雷泽（Stewart E. Fraser） — 长期合编跨国比较教育原始史料汇编，重构学科前现代思想谱系。
 > - **历史主义同行** [[Isaac Kandel]]、[[Robert Ulich]]、[[Andreas Kazamias]]、[[Claude A. Eggertsen]] — 共同构成战后反对激进[[Positivism|实证主义]]的比较教育历史学派支柱。
 > - **[[Scientific Paradigm|科学范式]]论争方** [[C. Arnold Anderson]]、[[Harold Noah]]、[[Max Eckstein]] — 虽身处不同方法论阵营，但在学会平台共创学科专业建制。
-> - **所创学术建制** [[Comparative and International Education Society]] — 发起创办并担任创会会长。
 
 ---
 

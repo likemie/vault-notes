@@ -161,7 +161,6 @@ updated: 2026-11-02
 > - **核心学术合作者** [[Alan C. K. Cheung]]（张志强） — 长期在 JHU CRRE 合作，共同发表大规模实验总结、教育技术[[Meta-analysis\|元分析]]，并联合推进全球循证改革国际对话。
 > - **学术论敌／批评学者** [[Gert Biesta]]（格特·比斯塔） — 欧洲人文主义教育哲学家，批评 Slavin 的[[Positivism\|实证主义]]将教育技术化、规训化，忽视了教育的目的与价值维度。
 > - **学术论敌／批评学者** [[Robert Cowen]] — 比较教育学者，批评[[Evidence-Based Reform\|证据本位改革]]沦为官僚机构控制学校的技术外衣。
-> - **制度化机构** [[What Works Clearinghouse\|WWC]] / [[Best Evidence Encyclopedia\|BEE]] — Slavin 的理念是 WWC 建立的思想先导，其创办的 BEE 则成为与之竞争并互补的独立学术清算中心。
 
 ---
 
@@ -193,7 +192,7 @@ updated: 2026-11-02
 > | [[Evidence-Based Reform]] | 概念 | 2002 年正式奠定并推动写入美国联邦法律的核心政策理论。 |
 > | [[Evidence-Based Education]] | 概念 | 终身倡导与践行的现代教育科学[[Paradigm\|范式]]。 |
 > | [[Success for All]] | 事实 | 与 Nancy Madden 共同创立的全美旗舰级[[Comprehensive School Reform Program\|综合学校改革项目]]。 |
-> | [[Best Evidence Encyclopedia]] | 事实 | 创立并运营的免费独立教育实证研究系统评价平台。 |
+> | [[Best Evidence Encyclopedia]] | 事实 | 创立并运营的免费独立教育实证研究系统评价平台。其创办的 BEE 则成为与之竞争并互补的独立学术清算中心。 |
 > | [[Baseline Standardized Mean Difference]] | 方法 | 确立为元分析准入与协变量校正的硬性方法学门槛（$d < 0.25$）。 |
 > | [[What Works Clearinghouse]] | 事实 | WWC 审查手册与标准体系的思想先驱与技术参与者。 |
 > | [[Alan C. K. Cheung]] | 人物 | 跨越数十年的核心学术合作者，共同推进教育技术[[Meta-analysis\|元分析]]与华语传播。 |

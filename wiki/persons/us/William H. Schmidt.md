@@ -119,7 +119,6 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **政策倡导盟友** [[Achieve|阿奇夫]]（Achieve）总裁迈克尔·科恩（Michael Cohen）、教育信托总裁卡蒂·海科克（Kati Haycock）与北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.） — 共同在全美巡回推动通用学术标准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > - **实证交锋论敌** [[Grover Whitehurst|格罗弗·怀特赫斯特]]与汤姆·洛夫利斯（[[Theory of Mind|ToM]] Loveless） — 针对标准有效性展开长达数年的学术论战。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
-> - **关键项目依托** [[TIMSS]] — 施密特学术权威与国际比较实证数据的底层依托。
 
 ---
 

@@ -107,8 +107,6 @@ updated: 2026-10-22
 
 > [!person-network] 关系网络
 > - **核心搭档** [[Erich Bloch]] — 共同在 [[National Science Foundation|NSF]] 顶层规划并强力推进[[Engineering Research Centers|工程研究中心计划]]落地的领导者。
-> - **领导机构** [[National Science Foundation]] — 1984–1988 年担任其首任工程学助理主任并主掌工程学学部（ENG）。
-> - **代表项目** [[Engineering Research Centers]] — 其在 NSF 期间主导设计评审指南并遴选首批试点中心的核心国家工程科研计划。
 
 ---
 
@@ -116,7 +114,7 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Engineering Research Centers]] | Fact (Program) | 参与顶层设计并在 [[National Science Foundation\|NSF]] 主管工程学部期间全面主导评审实施的核心人物。 |
+> | [[Engineering Research Centers]] | Fact (Program) | 参与顶层设计并在 [[National Science Foundation\|NSF]] 主管工程学部期间全面主导评审实施的核心人物。其在 NSF 期间主导设计评审指南并遴选首批试点中心的核心国家工程科研计划。 |
 > | [[Erich Bloch]] | Person | 政策改革盟友与紧密行政搭档，共同重塑 NSF 工程科学资助版图。 |
-> | [[National Science Foundation]] | Fact (Organization) | 创设工程学学部后的首任助理主任，确立现代工程科研的联邦资助框架。 |
+> | [[National Science Foundation]] | Fact (Organization) | 创设工程学学部后的首任助理主任，确立现代工程科研的联邦资助框架。1984–1988 年担任其首任工程学助理主任并主掌工程学学部（ENG）。 |
 > | [[University-Based Research Center]] | Concept | 推动工程中心模式在全美[[Research Universities\|研究型大学]]落地扎根的学术与政策桥梁。 |

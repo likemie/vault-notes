@@ -98,7 +98,6 @@ updated: 2026-10-22
 > - **论辩对手** [[Ignatz Bubis|伊格纳茨·布比斯]] — 围绕大屠杀记忆的公共责任与国家认同展开历史性交锋。
 > - **同时代见证者** 罗曼·赫尔佐克（Roman Herzog）— 时任德国总统，在保罗教堂现场聆听演说。
 > - **当代评述者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中剖析其演讲对德国防卫意志的深层折射。
-> - **所涉核心事件** [[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。
 
 ---
 

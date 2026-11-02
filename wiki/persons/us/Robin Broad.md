@@ -116,7 +116,6 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **学术合作学者** John Cavanagh（政策研究所高级学者） — 长期合作合著多部关于全球经济正义与跨国治理的专著。
-> - **批判解构对象** [[World Bank]]、[[Development Economics Vice Presidency]] — 布罗德深耕数十年、持续追踪解构的核心多边金融与知识建制。
 > - **治理理论对话者** 迈克·扎普（Mike Zapp） — 扎普将布罗德的范式维护理论与制度主义社会学相结合，拓展为认知[[Educational Governance Framework|治理分析框架]]。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 10)]]
 
 ---
@@ -138,5 +137,5 @@ updated: 2026-10-30
 > | [[Knowledge Production]] | 概念 | 系统提出并阐明大型多边机构知识生产中的范式维护过滤机制。 |
 > | [[Epistemic Governance]] | 概念 | 为扎普解构世界银行通过研究话语行使[[Cognitive Authority\|认知权威]]提供关键批判武器。 |
 > | [[Structural Adjustment Programs]] | 概念 | 早期深入田野揭露其对借款国经济与社会公平造成结构性创伤的经典成果。 |
-> | [[Development Economics Vice Presidency]] | 组织事实 | 布罗德 2006 年里程碑论著的核心微观实证解构对象。 |
-> | [[World Bank]] | 组织事实 | 持续追踪并批判其从结构调整向知识银行演进的国际组织社会学客体。 |
+> | [[Development Economics Vice Presidency]] | 组织事实 | 布罗德 2006 年里程碑论著的核心微观实证解构对象。布罗德深耕数十年、持续追踪解构的核心多边金融与知识建制。 |
+> | [[World Bank]] | 组织事实 | 持续追踪并批判其从结构调整向知识银行演进的国际组织社会学客体。布罗德深耕数十年、持续追踪解构的核心多边金融与知识建制。 |

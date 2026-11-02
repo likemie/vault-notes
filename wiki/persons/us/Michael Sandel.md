@@ -110,7 +110,6 @@ updated: 2026-10-30
 > - **主要论敌** [[John Rawls|约翰·罗尔斯]]（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
 > - **思想对话者** 查尔斯·泰勒（Charles Taylor）与[[Alasdair MacIntyre|阿拉斯代尔·麦金太尔]]（Alasdair MacIntyre） — 共同奠定了当代西方社群主义政治哲学的理论基石。
 > - **当代引述与应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中深度引述其对[[Market Triumphalism|市场必胜论]]与公共道德真空的批判。
-> - **长期任职机构** 哈佛大学政府系。
 
 ---
 
@@ -123,3 +122,4 @@ updated: 2026-10-30
 > | [[Goldfish Bowl Politics]] | 概念 | 理论诊断者，揭示公共道德[[Discourse\|话语]]衰退导致政治沦为八卦窥私与人格作秀的根源。 |
 > | [[Moral Dualism]] | 概念 | 批判者，反思抽象道义二元论与程序中立主义对真实共同体纽带的割裂。 |
 > | [[Wisdom of Crowds]] | 概念 | 批判性对话者，反思将分散测量机制泛化为资本市场万能论的[[Epistemology\|认识论]]缺陷。 |
+> | 哈佛大学政府系 | 组织 | 长期任职机构 |
