@@ -9,7 +9,7 @@ aliases:
 summary: "指借鉴气象学飓风移动路径追踪与同化机制所构建的学术成果未来被引时序前瞻投射区间。该方法截取成果发表后早期的时序数据训练微观动力学模型，生成未来数十年最可能的引文主轨迹与不确定性置信锥体；随着训练窗口从5年拓宽至10年，预测包络显著收窄并高精度覆盖实际轨迹；同时引发评价反身性，可能导致慢热型构想被过早淘汰（Wang et al., 2013; Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,10 +37,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Liu_2018_Nature]]"
 confidence: high
 status: active
 created: "2026-11-02"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -143,4 +144,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 在跨学科科学家生涯累积引文轨迹 $g(t)$ 的理论拟合中，运用高斯噪声构建预测不确定性包络（Uncertainty Envelope），证实真实生涯轨迹覆盖比例峰值接近 1.0，全面超越平稳零模型。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 在专著第 20 章第 4 节系统阐述引文预测包络方法（Future Impact），展示飓风预测类比、训练窗口收窄实证及自实现预言制度反思（pp. 215–219）。

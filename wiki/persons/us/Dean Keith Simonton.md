@@ -10,10 +10,10 @@ summary: "美籍创造力心理学家与历史计量学先驱，加利福尼亚�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -38,10 +38,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Liu_2018_Nature]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 ---
@@ -87,6 +88,7 @@ updated: 2026-11-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 援引西蒙顿关于学者生产力与生涯里程碑的假说，将其数理形式化为微观 R 模型并推进至 Q 因子理论。
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 实证检验西蒙顿关于艺术与科学创造力生命周期的理论判断，揭示全域随机与局部成团共存的爆发期特征。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将西蒙顿成功恒定概率模型作为核心假说，通过跨科学、艺术与电影三界实证检验其在全生命周期的普适性。
 
 ---

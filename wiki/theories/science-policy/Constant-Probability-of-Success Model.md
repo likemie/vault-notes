@@ -10,7 +10,7 @@ aliases:
 summary: "由 Dean Keith Simonton (1977, 1988) 提出的创造力与科学产出认知模型；指出在学术与艺术全生涯中，高影响杰作产出量与总产出规模保持严格恒定比例，单位尝试成功率终身恒定，高产时期涌现更多杰出成就完全源于尝试总次数的扩张，为随机影响法则提供了微观试错机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 ---
