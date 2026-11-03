@@ -205,21 +205,21 @@ updated: 2026-11-03
 > > [!metax-ma]- 20 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Uguroglu and Walberg (1979) | Motivation | 40 | 36,946 | 232 | 0.34 |  |
+> > | Uguroglu & Walberg (1979) | Motivation | 40 | 36,946 | 232 | 0.34 |  |
 > > | Schiefele et al. (1993) | Interest and achievement | 21 | NA | 121 | 0.65 |  |
-> > | Crede and Phillips (2011) | Motivation strategies | 67 | 19,900 | 2,158 | 0.24 |  |
+> > | Crede & Phillips (2011) | Motivation strategies | 67 | 19,900 | 2,158 | 0.24 |  |
 > > | Cerasoli et al. (2014) | Intrinsic motivation | 125 | 196,778 | 125 | 0.43 |  |
 > > | Ozen (2017) | Motivation | 205 | 772,903 | 205 | 0.56 |  |
 > > | Bauer et al. (2016) | Motivation | 19 | 2,314 | 19 | 0.14 |  |
 > > | Chen et al. (2012) | Motivation on physical education outcomes | 29 | NA | 283 | 0.43 |  |
-> > | von Stumm and Ackerman (2013) | Investment in learning | 112 | 22,621 | 77 | 0.24 |  |
+> > | von Stumm & Ackerman (2013) | Investment in learning | 112 | 22,621 | 77 | 0.24 |  |
 > > | Schwinger et al. (2014) | (Lack of) Self-handicapping on achievement | 36 | 25,550 | 49 | 0.47 |  |
 > > | Jansen et al. (2022) | Motivation on achievement | 18 | 2,544,213 | 51 | 0.46 |  |
 > > | Okada (2021) | Intrinsic autonomy motivation | 16 | 6,116 | 16 | 0.37 |  |
 > > | Waluyohadi (2019) | Academic motivation | 14 | 39,059 | 14 | 0.70 | ∑ |
 > > | Quílez-Robres et al. (2021) | Motivation | 37 | 15,734 | 37 | 0.68 |  |
-> > | Adiputra and Mujiyati (2017) | Motivation | 20 | 2,591 | 20 | 0.46 |  |
-> > | Goksu and Bolat (2021) | Motivation | 38 | NA | 110 | 0.74 |  |
+> > | Adiputra & Mujiyati (2017) | Motivation | 20 | 2,591 | 20 | 0.46 |  |
+> > | Goksu & Bolat (2021) | Motivation | 38 | NA | 110 | 0.74 |  |
 > > | Fong, Krou, et al. (2021) | Motivation | 186 | 71,855 | 219 | 0.43 |  |
 > > | Rusz et al. (2020) | Low or neutral vs. high rewards | 91 | 2,362 | 91 | 0.35 |  |
 > > | Toste et al. (2020) | Motivation and reading | 132 | NA | 1,154 | 0.45 |  |
@@ -240,8 +240,8 @@ updated: 2026-11-03
 > > [!metax-ma]- 2 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Lazowski and Hulleman (2016) | Motivation programs on achievement | 42 | 31,635 | 61 | 0.52 |  |
-> > | Wagner and Szamoskozi (2012) | Motivation programs on achievement | 17 | 3,720 | 17 | 0.29 |  |
+> > | Lazowski & Hulleman (2016) | Motivation programs on achievement | 42 | 31,635 | 61 | 0.52 |  |
+> > | Wagner & Szamoskozi (2012) | Motivation programs on achievement | 17 | 3,720 | 17 | 0.29 |  |
 
 > [!metax] [任务价值感知 · Perceived task value](https://www.visiblelearningmetax.com/influences/view/perceived_task_value)
 > 学生学习策略 › 学习策略

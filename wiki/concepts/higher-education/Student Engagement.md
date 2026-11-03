@@ -218,7 +218,7 @@ updated: 2026-11-03
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Kumar (1991) | Engagement in science | 16 | 4,518 | 102 | 1.09 |  |
 > > | Aker (2016) | Engagement in science | 79 | 53,971 | 79 | 0.37 |  |
-> > | Lei and Cui (2016) | Engagement | 69 | 196,473 | 163 | 0.56 |  |
+> > | Lei & Cui (2016) | Engagement | 69 | 196,473 | 163 | 0.56 |  |
 > > | Quin (2017) | Engagement | 14 | NA | 14 | 0.67 |  |
 > > | Chang et al. (2016) | Engagement | 33 | NA | 33 | 0.49 |  |
 > > | Mikolashek (2004) | Resilience for at-risk students | 28 | NA | 268 | 0.03 |  |

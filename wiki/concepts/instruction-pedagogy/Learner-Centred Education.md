@@ -201,8 +201,8 @@ tags:
 > > | Bernard et al. (2013) | Learner vs teacher centered environments | 290 | 39,377 | 348 | 0.37 |  |
 > > | Wilson et al. (2019) | Student centered & CAI in anatomy | 7 | 2,570 | 7 | 0.24 |  |
 > > | Bernard et al. (2019) | Student centered vs. teacher centered approach | 299 | 43,175 | 365 | 0.44 |  |
-> > | Uyar and Doganay (2018) | Student centered teaching | 105 | NA | 120 | 1.14 |  |
-> > | Simsek and Ozaslan (2021) | Student centered teaching | 55 | NA | 55 | 1.00 |  |
+> > | Uyar & Doganay (2018) | Student centered teaching | 105 | NA | 120 | 1.14 |  |
+> > | Simsek & Ozaslan (2021) | Student centered teaching | 55 | NA | 55 | 1.00 |  |
 
 > [!empirical-divider]
 

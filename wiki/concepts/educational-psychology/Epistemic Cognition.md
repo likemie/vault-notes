@@ -258,7 +258,7 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
-> > | McMullin and Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
+> > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
 
 > [!empirical-divider]
 

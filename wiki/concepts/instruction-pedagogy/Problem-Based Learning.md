@@ -280,19 +280,19 @@ updated: 2026-11-03
 > > [!metax-ma]- 31 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Albanese and Mitchell (1993) | PBL in medicine | 11 | 2,208 | 66 | 0.27 |  |
-> > | Vernon and Blake (1993) | PBL in college level | 8 | NA | 28 | -0.18 |  |
+> > | Albanese & Mitchell (1993) | PBL in medicine | 11 | 2,208 | 66 | 0.27 |  |
+> > | Vernon & Blake (1993) | PBL in college level | 8 | NA | 28 | -0.18 |  |
 > > | Dochy et al. (2003) | PBL on knowledge and skills | 43 | 21,365 | 35 | 0.12 |  |
 > > | Smith (2003) | PBL in medicine | 82 | 12,979 | 121 | 0.31 |  |
 > > | Newman (2004) | PBL in medicine | 12 | NA | 12 | -0.30 |  |
 > > | Haas (2005) | PBL in algebra | 7 | 1,538 | 14 | 0.52 |  |
 > > | Gijbels et al. (2005) | PBL on assessment outcomes | 40 | NA | 49 | 0.32 |  |
-> > | Walker and Leary (2009) | PBL across disciplines | 82 | NA | 201 | 0.13 |  |
-> > | Dagyar and Demirel (2015) | PBL | 98 | NA | 98 | 0.76 |  |
+> > | Walker & Leary (2009) | PBL across disciplines | 82 | NA | 201 | 0.13 |  |
+> > | Dagyar & Demirel (2015) | PBL | 98 | NA | 98 | 0.76 |  |
 > > | Jiang et al. (2013) | PBL | 38 | NA | 87 | 0.32 |  |
-> > | Chen and Yang (2019) | PBL | 30 | 12,585 | 30 | 0.71 |  |
+> > | Chen & Yang (2019) | PBL | 30 | 12,585 | 30 | 0.71 |  |
 > > | Jensen (2015) | PBL | 34 | 9,998 | 34 | 0.59 |  |
-> > | Kalaian and Kasim (2014b) | PBL | 14 | NA | 16 | 0.29 |  |
+> > | Kalaian & Kasim (2014b) | PBL | 14 | NA | 16 | 0.29 |  |
 > > | Sayyah et al. (2017) | PBL | 21 | NA | 21 | 0.80 |  |
 > > | Zhou et al. (2016) | PBL in Chinese clinical training | 13 | 913 | 13 | 0.06 |  |
 > > | Rosli et al. (2014) | PBL | 13 | NA | 14 | 0.88 |  |
@@ -300,11 +300,11 @@ updated: 2026-11-03
 > > | Leary et al. (2013) | PBL | 94 | 34,689 | 213 | 0.24 |  |
 > > | Hong (2008) | PBL | 85 | NA | 49 | 0.69 |  |
 > > | Dolmans et al. (2016) | PBL on surface and dep outcomes | 21 | NA | 17 | 0.09 |  |
-> > | Funa and Prudente (2021) | PBL | 11 | 1,422 | 11 | 0.87 |  |
+> > | Funa & Prudente (2021) | PBL | 11 | 1,422 | 11 | 0.87 |  |
 > > | Stojadinovic et al. (2021) | PBL | 18 | 2,518 | 18 | 0.39 |  |
-> > | Aisyah and Usdiyana (2022) | PBL | 8 | NA | 8 | 0.80 |  |
-> > | Alacapinar and Mustafa (2020) | PBL | 25 | NA | 32 | 1.23 |  |
-> > | Juandi and Tamur (2021) | PBL | 50 | NA | 50 | 0.82 |  |
+> > | Aisyah & Usdiyana (2022) | PBL | 8 | NA | 8 | 0.80 |  |
+> > | Alacapinar & Mustafa (2020) | PBL | 25 | NA | 32 | 1.23 |  |
+> > | Juandi & Tamur (2021) | PBL | 50 | NA | 50 | 0.82 |  |
 > > | Novitasri et al. (2022) | PBL | 24 | NA | 24 | 0.70 |  |
 > > | Brice (2017) | PBL | 9 | 3,485 | 9 | -0.39 |  |
 > > | Waterboro et al. (2023) | PBL | 73 | NA | 73 | 1.05 |  |

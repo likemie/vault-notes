@@ -61,7 +61,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 本概念（[[Access and Acceptance in Research|研究准入与接纳]]） | [[Informed Consent|知情同意]] | [[Gatekeepers|守门人协商]] |
+> | 维度 | 本概念（[[Access and Acceptance in Research\|研究准入与接纳]]） | [[Informed Consent\|知情同意]] | [[Gatekeepers\|守门人协商]] |
 > |---|---|---|---|
 > | **行动主体** | 研究者与机构科层体系及全员 | 研究者与个体受试者/参与者 | 研究者与把守关键关口的权力中介 |
 > | **核心诉求** | 获得物理场所进入权与活动开展合法性 | 确保个体自愿参与并保障隐私与撤回权 | 消除守门人责任顾虑并获得通行推荐 |

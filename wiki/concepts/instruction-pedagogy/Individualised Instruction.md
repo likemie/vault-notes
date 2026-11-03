@@ -246,15 +246,15 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Hartley (1977) | Individualization in math | 51 | NA | 139 | 0.16 |  |
-> > | Kulik and Kulik (1980) | Individualized college teaching | 213 | NA | 213 | 0.33 |  |
+> > | Kulik & Kulik (1980) | Individualized college teaching | 213 | NA | 213 | 0.33 |  |
 > > | Horak (1981) | Individualization in math | 60 | NA | 129 | -0.07 |  |
 > > | Willett et al. (1983) | Individualized science curriculum | 130 | NA | 131 | 0.17 |  |
 > > | Bangert et al. (1983) | Individualized in high schools | 49 | NA | 49 | 0.10 |  |
-> > | Aiello and Wolfle (1980) | Individualized in high school science | 115 | NA | 182 | 0.35 |  |
+> > | Aiello & Wolfle (1980) | Individualized in high school science | 115 | NA | 182 | 0.35 |  |
 > > | Waxman et al. (1985) | Adaptive methods (individual, continuous assessment, periodic evaluation) | 38 | 7,200 | 309 | 0.45 |  |
-> > | Atash and Dawson (1986) | Individualized science curriculum | 12 | 2,180 | 12 | -0.02 |  |
+> > | Atash & Dawson (1986) | Individualized science curriculum | 12 | 2,180 | 12 | -0.02 |  |
 > > | Mitchell (1987a) | Individualized instruction in mathematics | 38 | NA | 39 | 0.19 |  |
-> > | Cohen and Dacanay (1992) | Individual instruction in medical education | 30 | NA | 30 | 0.37 |  |
+> > | Cohen & Dacanay (1992) | Individual instruction in medical education | 30 | NA | 30 | 0.37 |  |
 > > | Blumschein (2003a) | Adaptive methods | 144 | NA | 144 | 0.33 |  |
 > > | Jung et al. (2018) | Data based individualized instruction | 14 | NA | 57 | 0.30 |  |
 

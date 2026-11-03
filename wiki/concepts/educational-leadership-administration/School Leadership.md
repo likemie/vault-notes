@@ -241,28 +241,28 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pantili et al. (1991) | Assessment ratings of principals and job performance | 32 | 10,773 | 32 | 0.41 |  |
-> > | Bosker and Witziers (1995) | Principals on student achievement | 21 | NA | 65 | 0.04 |  |
+> > | Bosker & Witziers (1995) | Principals on student achievement | 21 | NA | 65 | 0.04 |  |
 > > | Brown (2001) | Leadership on student achievement | 38 | NA | 339 | 0.57 |  |
 > > | Wiseman (2002) | Instructional management on achievement | 59 | 16,326 | 59 | -0.26 |  |
 > > | Witziers et al. (2003) | Principals on student achievement | 61 | NA | 377 | 0.02 |  |
 > > | Waters et al. (2003) | District superintendents on student achievement | 70 | 1,100,000 | 70 | 0.52 |  |
-> > | Waters and Marzano (2006) | District superintendents on achievement | 27 | NA | 27 | 0.49 |  |
+> > | Waters & Marzano (2006) | District superintendents on achievement | 27 | NA | 27 | 0.49 |  |
 > > | Chin (2007) | Transformational leadership | 21 | 6,558 | 11 | 1.12 |  |
 > > | Robinson et al. (2008) | Principals on student achievement | 22 | NA | 199 | 0.41 |  |
-> > | Creemers and Kyriakides (2008) | School leadership | 29 | NA | 29 | 0.07 |  |
-> > | Hendriks and Steen (2012) | Leadership on outcomes | 15 | NA | 15 | 0.03 |  |
-> > | Scheerens and Steen (2012) | Instructional leadership on achievement | 53 | NA | 170 | 0.05 |  |
+> > | Creemers & Kyriakides (2008) | School leadership | 29 | NA | 29 | 0.07 |  |
+> > | Hendriks & Steen (2012) | Leadership on outcomes | 15 | NA | 15 | 0.03 |  |
+> > | Scheerens & Steen (2012) | Instructional leadership on achievement | 53 | NA | 170 | 0.05 |  |
 > > | Tsai (2015) | Teacher leadership on achievement | 12 | 3,233 | 3 | 0.31 |  |
 > > | Karadag et al. (2015) | Instructional leadership on achievement | 57 | 28,964 | 57 | 0.72 |  |
-> > | Leithwood and Sun (2012) | Transformational leadership | 24 | 2,185 | 20 | 0.18 |  |
+> > | Leithwood & Sun (2012) | Transformational leadership | 24 | 2,185 | 20 | 0.18 |  |
 > > | Wang (2010) | School leadership | 108 | NA | 108 | 0.22 |  |
 > > | Shen et al. (2020) | School leadership | 21 | NA | 22 | 0.39 |  |
-> > | Uysal and Sarier (2018) | School leadership | 39 | NA | 68 | 0.05 |  |
-> > | Liebowitz and Porter (2019) | Principal behaviors | 31 | NA | 346 | 0.12 |  |
+> > | Uysal & Sarier (2018) | School leadership | 39 | NA | 68 | 0.05 |  |
+> > | Liebowitz & Porter (2019) | Principal behaviors | 31 | NA | 346 | 0.12 |  |
 > > | Tan, Gao, et al. (2020) | School leaders on student achievement | 16 | NA | 16 | 0.49 |  |
 > > | Tan et al. (2021) | School leaders on student achievement | 108 | NA | 493 | 0.28 |  |
 > > | Sertel et al. (2022) | Leadership across cultures | 15 | 7,769 | 15 | 0.70 |  |
-> > | Wu and Shen (2022) | School leaders on student achievement | 42 | NA | 42 | 0.21 |  |
+> > | Wu & Shen (2022) | School leaders on student achievement | 42 | NA | 42 | 0.21 |  |
 > > | Almarshad (2017) | Leadership on achievement | 14 | 12,757 | 16 | 0.56 |  |
 > > | Karadag (2020) | School leadership | 151 | 131,498 | 151 | 0.68 |  |
 > > | Ertem (2021) | School leadership | 7 | 8,180 | 7 | 0.93 |  |

@@ -177,7 +177,7 @@ updated: 2026-11-03
 > > | Quinn et al. (1999) | SS with emotional and behavioral disorders | 35 | 1,123 | 35 | 0.20 |  |
 > > | Taylor et al. (2017) | Social-emotional learning interventions | 82 | 3,658 | 8 | 0.33 |  |
 > > | Corcoran et al. (2018) | Social-emotional learning interventions | 40 | 135,495 | 73 | 0.25 |  |
-> > | Shi and Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
+> > | Shi & Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
 > > | Cipriano et al. (2023) | Social-emotional learning interventions | 424 | 575,361 | 2,049 | 0.11 |  |
 
 > [!eef-divider]

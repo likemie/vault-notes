@@ -225,7 +225,7 @@ updated: 2026-11-03
 > > | Ostovar (2023) | Learning styles | 98 | NA | 384 | 0.19 |  |
 > > | Mohammadi et al. (2013) | Learning styles on achievement | 10 | NA | 10 | 0.25 |  |
 > > | Kanadli (2016) | Learning styles on achievement | 30 | NA | 30 | 1.03 |  |
-> > | Erdem and Kaf (2023) | Learning styles | 18 | 1,465 | 19 | 0.78 |  |
+> > | Erdem & Kaf (2023) | Learning styles | 18 | 1,465 | 19 | 0.78 |  |
 
 > [!metax] [按学习风格匹配教学 · Matching teaching to style of learning](https://www.visiblelearningmetax.com/influences/view/matching_teaching_to_style_of_learning)
 > 学生学习策略 › 学生导向干预
@@ -237,10 +237,10 @@ updated: 2026-11-03
 > > [!metax-ma]- 4 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Garlinger and Frank (1986) | Field independence/dependence on achievement | 7 | 1,531 | 7 | -0.03 |  |
-> > | Kavale and Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
+> > | Garlinger & Frank (1986) | Field independence/dependence on achievement | 7 | 1,531 | 7 | -0.03 |  |
+> > | Kavale & Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
 > > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
-> > | Peterson and Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
+> > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
 
 > [!eef-divider]
 

@@ -308,7 +308,7 @@ updated: 2026-11-03
 > > | Haller et al. (1988) | Meta-cognitive training programs in reading | 20 | 1,553 | 20 | 0.71 |  |
 > > | Chiu (1998) | Meta-cognitive interventions in reading | 43 | 3,475 | 123 | 0.67 |  |
 > > | Fan (1993) | Metacognitive training on reading comprehension | 41 | 3,219 | 223 | 0.56 |  |
-> > | Jacob and Parkinson (2015) | Executive functioning | 67 | 15,879 | 67 | 0.63 |  |
+> > | Jacob & Parkinson (2015) | Executive functioning | 67 | 15,879 | 67 | 0.63 |  |
 > > | Baek (2018) | Metacognitive strategies | 19 | NA | 19 | 0.79 |  |
 > > | Fauzan (2003) | Metacognitive strategies on comprehension | 27 | NA | 82 | 0.50 |  |
 > > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | Epistemic knowing | 132 | 55,418 | 752 | 0.33 |  |
@@ -316,12 +316,12 @@ updated: 2026-11-03
 > > | Allan et al. (2014) | Inhibitory control in early years | 75 | 14,424 | 85 | 0.56 |  |
 > > | Liu et al. (2021) | Meta-cognitive strategies | 54 | NA | 106 | 0.02 |  |
 > > | Muncer et al. (2021) | Metacognition and math | 31 | NA | 31 | 0.80 |  |
-> > | Antonio and Prudente (2022) | Metacognition in science | 10 | NA | 10 | 0.81 |  |
+> > | Antonio & Prudente (2022) | Metacognition in science | 10 | NA | 10 | 0.81 |  |
 > > | Lei et al. (2020) | Computational thinking | 34 | 8,946 | 34 | 0.60 |  |
 > > | Scionti et al. (2020) | Cognitive training in executive functioning | 27 | NA | 123 | 0.34 |  |
-> > | Wongdaeng and Higgins (2023) | Metacognitive training in EFF | 29 | NA | 29 | 1.33 |  |
+> > | Wongdaeng & Higgins (2023) | Metacognitive training in EFF | 29 | NA | 29 | 1.33 |  |
 > > | Shirvan et al. (2016) | Strategy instruction | 26 | NA | 26 | 0.99 |  |
-> > | Sercenia and Prudente (2023) | Metacognitive interventions | 23 | NA | 23 | 1.36 |  |
+> > | Sercenia & Prudente (2023) | Metacognitive interventions | 23 | NA | 23 | 1.36 |  |
 > > | Yan, Peng, et al. (2024) | Reducing extraneous processing in CAI | 49 | 4,700 | 53 | 0.65 |  |
 > > | Eberhart et al. (2024) | Metacognitive interventions | 44 | NA | 44 | 0.34 |  |
 > > | Liu (2010) | Metacognitive programs on writing | 11 | 768 | 11 | 0.77 |  |

@@ -238,8 +238,8 @@ updated: 2026-11-03
 > > [!metax-ma]- 3 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Keith and Frese (2008) | Productive failure | 24 | 2,183 | 24 | 0.44 |  |
-> > | Sinha and Kapur (2021) | Problem solving then instruction | 53 | NA | 166 | 0.36 |  |
+> > | Keith & Frese (2008) | Productive failure | 24 | 2,183 | 24 | 0.44 |  |
+> > | Sinha & Kapur (2021) | Problem solving then instruction | 53 | NA | 166 | 0.36 |  |
 > > | Darabi et al. (2018) | Productive failure | 12 | NA | 23 | 0.43 |  |
 
 > [!empirical-divider]

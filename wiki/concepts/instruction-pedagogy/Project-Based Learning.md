@@ -176,12 +176,12 @@ updated: 2026-11-03
 > > [!metax-ma]- 6 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Ayaz and Soylemez (2015) | Project based learning in Turkey | 41 | NA | 42 | 1.00 |  |
+> > | Ayaz & Soylemez (2015) | Project based learning in Turkey | 41 | NA | 42 | 1.00 |  |
 > > | Purbosari et al. (2024) | Project based learning | 26 | NA | 26 | 1.12 |  |
 > > | Meng (2023) | Project based learning | 17 | 2,124 | 17 | 1.64 |  |
 > > | Rehman et al. (2024) | Project based learning | 70 | NA | 70 | 0.65 |  |
 > > | Badawi et al. (2023) | Blended project based learning | 11 | NA | 11 | 1.28 |  |
-> > | Wenlan and Jiao (2019) | Project based learning | 46 | 3,951 | 121 | 0.59 |  |
+> > | Wenlan & Jiao (2019) | Project based learning | 46 | 3,951 | 121 | 0.59 |  |
 
 ---
 

@@ -250,11 +250,11 @@ updated: 2026-11-03
 > > [!metax-ma]- 16 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Becker and Park (2011) | Integrated approaches among STEM subjects | 28 | 5,404 | 28 | 0.62 |  |
+> > | Becker & Park (2011) | Integrated approaches among STEM subjects | 28 | 5,404 | 28 | 0.62 |  |
 > > | Siregar et al. (2019) | STEM on achievement | 17 | 137,389 | 17 | 0.24 |  |
 > > | Karasah-Cakici et al. (2021) | STEM on achievement | 54 | NA | 54 | 1.48 |  |
 > > | Lu et al. (2021) | STEM on achievement | 31 | NA | 42 | 0.50 |  |
-> > | Lueangsuwan and Srikoon (2021) | STEM on achievement | 22 | NA | 22 | 0.45 |  |
+> > | Lueangsuwan & Srikoon (2021) | STEM on achievement | 22 | NA | 22 | 0.45 |  |
 > > | Tasdemir (2022) | STEM on achievement | 26 | NA | 26 | 0.62 |  |
 > > | Savelsbergh et al. (2016) | Innovative teaching in STEM | 56 | NA | 40 | 0.78 |  |
 > > | Khoiri (2019) | STEM on achievement | 42 | NA | 42 | 0.93 |  |

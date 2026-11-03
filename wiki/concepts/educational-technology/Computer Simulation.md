@@ -235,8 +235,8 @@ updated: 2026-11-03
 > > [!metax-ma]- 14 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Dekkers and Donatti (1981) | Simulations and achievement | 93 | NA | 93 | 0.33 |  |
-> > | Remmer and Jernstedt (1982) | Computer simulations | 21 | NA | 21 | 0.20 |  |
+> > | Dekkers & Donatti (1981) | Simulations and achievement | 93 | NA | 93 | 0.33 |  |
+> > | Remmer & Jernstedt (1982) | Computer simulations | 21 | NA | 21 | 0.20 |  |
 > > | Szczurek (1982) | Simulation games | 58 | NA | 58 | 0.33 |  |
 > > | Lee (1999) | Simulations on achievement | 19 | NA | 34 | 0.28 |  |
 > > | McKenna (1991) | Simulations in economics | 26 | NA | 118 | 0.38 |  |
@@ -247,7 +247,7 @@ updated: 2026-11-03
 > > | D'Angelo et al. (2014) | Simulations in STEM | 40 | NA | 36 | 0.67 |  |
 > > | Sitzmann (2011) | Computer simulations | 65 | 4,518 | 68 | 0.30 |  |
 > > | Chernikova et al. (2023) | Simulation based learning | 214 | NA | 409 | 0.94 |  |
-> > | Robledo and Prudente (2021) | Simulations | 15 | NA | 15 | 0.77 |  |
+> > | Robledo & Prudente (2021) | Simulations | 15 | NA | 15 | 0.77 |  |
 > > | Talan (2021c) | Simulations | 91 | 7,575 | 91 | 0.76 |  |
 
 > [!empirical-divider]

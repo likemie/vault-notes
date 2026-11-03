@@ -177,7 +177,7 @@ updated: 2026-11-03
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Lavery (2008b) | Help seeking | 62 | NA | 62 | 0.60 |  |
 > > | Dignath et al. (2008) | Seeking help from peers | 21 | NA | 21 | 0.83 |  |
-> > | Nakaya and Okada (2020) | Help seeking for near goals | 16 | 6,497 | 16 | 1.12 |  |
+> > | Nakaya & Okada (2020) | Help seeking for near goals | 16 | 6,497 | 16 | 1.12 |  |
 > > | Fong, Gonzales, et al. (2021) | Help seeking | 108 | 37,941 | 134 | 0.12 |  |
 
 > [!metax] [向同伴求助 · Seeking help from peers](https://www.visiblelearningmetax.com/influences/view/seeking_help_from_peers)
@@ -190,7 +190,7 @@ updated: 2026-11-03
 > > [!metax-ma]- 2 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Hattie and Donoghue (2016) | Seeking help from peers | 21 | NA | 21 | 0.83 |  |
+> > | Hattie & Donoghue (2016) | Seeking help from peers | 21 | NA | 21 | 0.83 |  |
 > > | Brierley (2022) | Seeking help from peers in medical school | 21 | NA | 21 | 0.52 |  |
 
 ---

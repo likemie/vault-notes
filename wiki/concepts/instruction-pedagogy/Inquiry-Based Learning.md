@@ -236,18 +236,18 @@ updated: 2026-11-03
 > > [!metax-ma]- 12 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Sweitzer and Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
+> > | Sweitzer & Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
 > > | Shymansky et al. (1990) | Inquiry methods in science | 81 | NA | 320 | 0.27 |  |
 > > | Bangert-Drowns (1992) | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |  |
 > > | Smith (1997) | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |  |
-> > | Lazonder and Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
+> > | Lazonder & Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
 > > | Estrella et al. (2018) | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |  |
 > > | Aktamis et al. (2016) | Inquiry learning in science | 16 | NA | 16 | 1.03 |  |
 > > | Furtak et al. (1998) | Inquiry method in science | 37 | NA | 37 | 0.50 |  |
 > > | Abdurrahman (2017) | Inquiry methods in science | 15 | 2,118 | 15 | 0.46 |  |
 > > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
 > > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
-> > | Antonio and Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
+> > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
 
 > [!empirical-divider]
 

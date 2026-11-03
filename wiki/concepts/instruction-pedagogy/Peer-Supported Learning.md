@@ -221,7 +221,7 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Phillips (1983) | Tutorial training of conservation | 45 | NA | 531 | 1.01 |  |
-> > | Mathes and Fuchs (1994) | Peer tutoring in reading | 11 | NA | 74 | 0.36 |  |
+> > | Mathes & Fuchs (1994) | Peer tutoring in reading | 11 | NA | 74 | 0.36 |  |
 > > | Elbaum, Vaughn, Hughes, Moody, et al. (2000) | Peer tutoring in reading | 32 | 1,248 | 216 | 0.41 |  |
 > > | Bowman-Perrott et al. (2013) | Peer tutoring | 26 | 938 | 195 | 1.17 |  |
 > > | Rohrbeck et al. (2003) | Peer assisted learning in elementary students | 90 | NA | 90 | 0.59 |  |

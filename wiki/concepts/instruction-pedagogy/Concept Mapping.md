@@ -199,21 +199,21 @@ updated: 2026-11-03
 > > [!metax-ma]- 16 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Moore and Readence (1984) | Graphics organizers in mathematics | 161 | NA | 161 | 0.22 |  |
-> > | Vazquez and Carballo (1993) | Concept mapping in science | 17 | NA | 19 | 0.57 |  |
+> > | Moore & Readence (1984) | Graphics organizers in mathematics | 161 | NA | 161 | 0.22 |  |
+> > | Vazquez & Carballo (1993) | Concept mapping in science | 17 | NA | 19 | 0.57 |  |
 > > | Schroeder et al. (2018) | Concept mapping | 143 | 11,882 | 143 | 0.59 |  |
 > > | Marzano et al. (2001) | Idea representation | 708 | NA | 708 | 0.69 |  |
 > > | Liu et al. (2014) | Mind mapping | 40 | 5,213 | 40 | 0.63 |  |
 > > | Horton et al. (1993) | Concept mapping in science | 19 | 1,805 | 19 | 0.45 |  |
 > > | Kang (2002) | Graphics organizers in reading with learning disabled | 14 | NA | 14 | 0.79 |  |
 > > | Kim et al. (2004) | Graphics organizers in reading | 21 | 848 | 52 | 0.81 |  |
-> > | Nesbit and Adesope (2006) | Concept and knowledge maps | 55 | 5,818 | 67 | 0.55 |  |
+> > | Nesbit & Adesope (2006) | Concept and knowledge maps | 55 | 5,818 | 67 | 0.55 |  |
 > > | Campbell (2009) | Concept Mapping in all subjects | 38 | NA | 46 | 0.79 |  |
 > > | Dexter et al. (2011) | Graphic organizers with learning disabled | 16 | 808 | 55 | 0.91 |  |
 > > | Wong (2021) | Collaborative concept mapping | 30 | NA | 105 | 0.88 |  |
 > > | Anastasiou et al. (2024) | Concept mapping | 55 | 5,364 | 58 | 0.78 |  |
-> > | Wang and Gu (2008) | Concept mapping | 26 | 3,623 | 26 | 0.84 |  |
-> > | Izci and Akkoc (2024) | Concept mapping | 78 | NA | 78 | 1.08 |  |
+> > | Wang & Gu (2008) | Concept mapping | 26 | 3,623 | 26 | 0.84 |  |
+> > | Izci & Akkoc (2024) | Concept mapping | 78 | NA | 78 | 1.08 |  |
 > > | Shi et al. (2022) | Mind mapping | 21 | 1,602 | 21 | 0.99 |  |
 
 > [!empirical-divider]

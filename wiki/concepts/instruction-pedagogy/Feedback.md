@@ -206,14 +206,14 @@ updated: 2026-11-03
 > > [!metax-ma]- 10 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Jeong-Hwa and Byung-gee (2019) | Feedback | 180 | NA | 1,393 | 0.59 |  |
-> > | Yeany and Miller (1983) | Diagnostic feedback in college science | 49 | NA | 49 | 0.52 |  |
-> > | Kluger and DeNisi (1996) | Feedback | 470 | 12,652 | 470 | 0.38 |  |
+> > | Jeong-Hwa & Byung-gee (2019) | Feedback | 180 | NA | 1,393 | 0.59 |  |
+> > | Yeany & Miller (1983) | Diagnostic feedback in college science | 49 | NA | 49 | 0.52 |  |
+> > | Kluger & DeNisi (1996) | Feedback | 470 | 12,652 | 470 | 0.38 |  |
 > > | Neubert (1998) | Goals plus feedback | 16 | 744 | 16 | 0.63 |  |
 > > | Hatala et al. (2014) | Feedback for simulation skills | 31 | 653 | 31 | 0.74 |  |
 > > | Biber et al. (2011) | Feedback in ESL Writing and Reading | 25 | NA | 88 | 0.87 |  |
-> > | Thirakunkovit and Chamcharatsri (2019) | Teacher feedback | 27 | NA | 52 | 0.90 |  |
-> > | Lee and Bak (2018) | Feedback | 180 | NA | 991 | 0.59 |  |
+> > | Thirakunkovit & Chamcharatsri (2019) | Teacher feedback | 27 | NA | 52 | 0.90 |  |
+> > | Lee & Bak (2018) | Feedback | 180 | NA | 991 | 0.59 |  |
 > > | Mertens et al. (2022) | Computer presented feedback | 77 | NA | 163 | 0.40 |  |
 > > | Gui et al. (2022) | Feedback in rich technology contexts | 61 | NA | 180 | 0.44 |  |
 
@@ -241,11 +241,11 @@ updated: 2026-11-03
 > > [!metax-ma]- 6 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Tenenbaum and Goldring (1989) | Cues, and reinforcement | 15 | 522 | 15 | 0.72 |  |
-> > | Lysakowski and Walberg (1982) | Cues, participation and corrective feedback | 54 | 15,689 | 94 | 0.97 |  |
-> > | Lysakowski and Walberg (1980) | Classroom reinforcement | 39 | 4,842 | 102 | 1.17 |  |
+> > | Tenenbaum & Goldring (1989) | Cues, and reinforcement | 15 | 522 | 15 | 0.72 |  |
+> > | Lysakowski & Walberg (1982) | Cues, participation and corrective feedback | 54 | 15,689 | 94 | 0.97 |  |
+> > | Lysakowski & Walberg (1980) | Classroom reinforcement | 39 | 4,842 | 102 | 1.17 |  |
 > > | Schenck (2022) | Corrective feedback on learning | 15 | NA | 15 | 1.28 |  |
-> > | Lim and Renandya (2020) | Corrective feedback on writing | 35 | NA | 35 | 0.59 |  |
+> > | Lim & Renandya (2020) | Corrective feedback on writing | 35 | NA | 35 | 0.59 |  |
 > > | Gramling (2016) | Corrective feedback on learning | 6 | 494 | 6 | 0.47 |  |
 
 > [!metax] [反馈（学生评教） · Feedback (from student re quality)](https://www.visiblelearningmetax.com/influences/view/feedback_(from_student_re_quality))
@@ -262,12 +262,12 @@ updated: 2026-11-03
 > > | Cohen (1981) | Student rating of teacher | 19 | NA | 19 | 0.68 |  |
 > > | Cohen (1981) | Student rating of teacher | 41 | NA | 68 | 0.48 |  |
 > > | L'Hommedieu et al. (1990) | Feedback from college student ratings | 28 | 1,698 | 28 | 0.34 |  |
-> > | Dowell and Neal (1982) | Student rating of teacher | 6 | NA | 6 | 0.40 |  |
+> > | Dowell & Neal (1982) | Student rating of teacher | 6 | NA | 6 | 0.40 |  |
 > > | Clayson (2009) | Student rating of teacher | 17 | NA | 42 | 0.66 |  |
 > > | Uttl et al. (2017) | Student rating of learning | 51 | NA | 97 | 0.47 |  |
-> > | Menges and Brinko (1986) | Student evaluation as feedback | 27 | NA | 31 | 0.44 |  |
+> > | Menges & Brinko (1986) | Student evaluation as feedback | 27 | NA | 31 | 0.44 |  |
 > > | Cohen (1986) | Student rating of teacher | 47 | NA | 74 | 0.44 |  |
-> > | Penny and Coe (2004) | Consultation after student feedback | 11 | NA | 11 | 0.69 |  |
+> > | Penny & Coe (2004) | Consultation after student feedback | 11 | NA | 11 | 0.69 |  |
 > > | McCallum (1984) | Teacher rating and achievement | 14 | NA | 14 | 0.68 |  |
 
 > [!metax] [反馈（来自测验） · Feedback (from Tests)](https://www.visiblelearningmetax.com/influences/view/feedback_(from_tests))
@@ -282,7 +282,7 @@ updated: 2026-11-03
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Schimmel (1983) | Feedback from tests | 15 | NA | 15 | 0.47 |  |
 > > | Bangert-Drowns, Kulik, Kulik, et al. (1991) | Feedback from tests | 40 | 4,666 | 58 | 0.26 |  |
-> > | Travlos and Pratt (1995) | Knowledge of results | 17 | NA | 17 | 0.71 |  |
+> > | Travlos & Pratt (1995) | Knowledge of results | 17 | NA | 17 | 0.71 |  |
 
 > [!metax] [反馈（自我层面） · Feedback (Self)](https://www.visiblelearningmetax.com/influences/view/feedback_(self))
 > 教学策略 › 反馈
@@ -308,11 +308,11 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Miller (2003) | Corrective feedback on learning | 8 | NA | 8 | 1.08 |  |
-> > | Kang and Han (2015) | Corrective feedback on learning | 22 | NA | 22 | 0.68 |  |
-> > | Lyster and Saito (2010) | Oral feedback on learning | 15 | NA | 28 | 0.74 |  |
+> > | Kang & Han (2015) | Corrective feedback on learning | 22 | NA | 22 | 0.68 |  |
+> > | Lyster & Saito (2010) | Oral feedback on learning | 15 | NA | 28 | 0.74 |  |
 > > | Li (2010) | Corrective feedback on learning | 33 | 1,773 | 28 | 0.64 |  |
 > > | Truscott (2007) | Error correction on writing | 6 | 283 | 20 | 0.15 |  |
-> > | Russell and Spada (2006) | Error correction on writing | 15 | NA | 15 | 1.16 |  |
+> > | Russell & Spada (2006) | Error correction on writing | 15 | NA | 15 | 1.16 |  |
 > > | Lv et al. (2021) | Online feedback on learning | 17 | 1,568 | 17 | 0.75 |  |
 > > | Kao (2013) | Focused feedback | 7 | NA | 7 | 0.70 |  |
 > > | Swart et al. (2022) | Feedback targeting comprehension | 8 | NA | 8 | 0.61 |  |
@@ -329,7 +329,7 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | van der Kleij et al. (2015) | Feedback in ICT | 40 | 4,266 | 70 | 0.42 |  |
-> > | Azevedo and Bernard (1995) | Computer presented feedback | 22 | NA | 22 | 0.80 |  |
+> > | Azevedo & Bernard (1995) | Computer presented feedback | 22 | NA | 22 | 0.80 |  |
 > > | Moshen (2022) | Computer mediated feedback | 14 | 1,220 | 14 | 1.21 |  |
 > > | Mohamed (2022) | Feedback re computer in language learning | 26 | 1,283 | 26 | 0.56 |  |
 
@@ -343,7 +343,7 @@ updated: 2026-11-03
 > > [!metax-ma]- 1 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Kulik and Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
+> > | Kulik & Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
 
 > [!eef-divider]
 

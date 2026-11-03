@@ -279,7 +279,7 @@ updated: 2026-11-03
 > > [!metax-ma]- 1 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Scheerens and Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
+> > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
 
 > [!empirical-divider]
 

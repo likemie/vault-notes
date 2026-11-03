@@ -284,13 +284,13 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | White (1988) | DI in special education | 25 | NA | 24 | 0.83 |  |
-> > | Adams and Engelmann (1996) | DI on reading | 37 | NA | 372 | 0.75 |  |
+> > | Adams & Engelmann (1996) | DI on reading | 37 | NA | 372 | 0.75 |  |
 > > | Borman et al. (2003) | DI from Comprehensive schools reforms | 232 | 42,618 | 182 | 0.21 |  |
 > > | Haas (2005) | DI in algebra | 10 | NA | 19 | 0.55 |  |
 > > | Stockard et al. (2018) | DI | 328 | NA | 3,999 | 0.54 |  |
 > > | Coughlin (2011) | DI | 20 | NA | 95 | 0.66 |  |
 > > | Alsowat (2020) | Explicit instruction on ELL | 2,361 | 478,287 | 5,662 | 0.59 |  |
-> > | Mason and Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |
+> > | Mason & Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |
 
 > [!empirical-divider]
 

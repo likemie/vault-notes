@@ -251,7 +251,7 @@ updated: 2026-11-03
 > > | de Ridder et al. (2018) | Self control | 5 | 1,546 | 5 | 0.77 |  |
 > > | Naso et al. (2011) | Effortful control | 58 | 8,394 | 89 | 0.68 |  |
 > > | Taylor (2012) | Relative autonomy | 6 | NA | 6 | 0.39 |  |
-> > | Nasvytiene and Lazdauskas (2021) | Effortful control | 57 | 79,913 | 57 | 0.65 |  |
+> > | Nasvytiene & Lazdauskas (2021) | Effortful control | 57 | 79,913 | 57 | 0.65 |  |
 
 > [!empirical-divider]
 

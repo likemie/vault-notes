@@ -310,13 +310,13 @@ updated: 2026-11-03
 > > [!metax-ma]- 9 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Glass and Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
+> > | Glass & Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
 > > | McGiverin et al. (1989) | Class size | 10 | NA | 24 | 0.34 |  |
 > > | Goldstein et al. (2000) | Class size | 9 | 29,440 | 36 | 0.20 |  |
 > > | Bowne et al. (2017) | Class size in early childhood | 38 | NA | 328 | 0.31 |  |
-> > | Leuven and Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
+> > | Leuven & Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
 > > | Filges et al. (2018) | Class size | 6 | NA | 9 | 0.11 |  |
-> > | Shin and Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
+> > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
 > > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
 > > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
 

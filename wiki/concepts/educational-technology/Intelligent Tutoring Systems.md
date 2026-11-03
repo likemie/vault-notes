@@ -280,7 +280,7 @@ updated: 2026-11-03
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | VanLehn (2011) | Intelligent tutoring systems | 44 | NA | 44 | 0.76 |  |
 > > | Gerard et al. (2015) | Automated, adaptive guidance | 24 | NA | 29 | 0.34 |  |
-> > | Kulik and Fletcher (2016) | Intelligent tutoring systems | 50 | NA | 50 | 0.66 |  |
+> > | Kulik & Fletcher (2016) | Intelligent tutoring systems | 50 | NA | 50 | 0.66 |  |
 > > | Ma et al. (2014) | Intelligent tutoring systems | 107 | 14,321 | 107 | 0.41 |  |
 > > | Wang et al. (2019) | Intelligent tutoring systems | 58 | 10,764 | 58 | 0.49 |  |
 

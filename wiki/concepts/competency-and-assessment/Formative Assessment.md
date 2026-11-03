@@ -154,13 +154,13 @@ updated: 2026-11-03
 > > [!metax-ma]- 8 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Fuchs and Fuchs (1986b) | Formative evaluation | 21 | 3,835 | 21 | 0.70 |  |
+> > | Fuchs & Fuchs (1986b) | Formative evaluation | 21 | 3,835 | 21 | 0.70 |  |
 > > | Kim (2005b) | Formative assessment | 148 | NA | 644 | 0.39 |  |
-> > | Faber and Visscher (2014) | Formative assessment | 15 | NA | 40 | 0.40 |  |
+> > | Faber & Visscher (2014) | Formative assessment | 15 | NA | 40 | 0.40 |  |
 > > | Graham et al. (2015) | Feedback on writing | 27 | NA | 27 | 0.61 |  |
 > > | Lee, Chung, et al. (2018) | Formative assessment | 32 | NA | 125 | 0.28 |  |
-> > | Kingston and Nash (2011) | Efficacy of formative assessment | 13 | 114,480 | 42 | 0.25 |  |
-> > | Chen and Li (2021) | Formative assessment on EFL | 27 | 5,187 | 33 | 0.46 |  |
+> > | Kingston & Nash (2011) | Efficacy of formative assessment | 13 | 114,480 | 42 | 0.25 |  |
+> > | Chen & Li (2021) | Formative assessment on EFL | 27 | 5,187 | 33 | 0.46 |  |
 > > | Xuan et al. (2022) | Formative assessment | 48 | 116,051 | 48 | 0.19 |  |
 
 ---

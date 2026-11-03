@@ -72,10 +72,10 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 研究范围（Research Scope） | [[Research Topic|研究选题]]（Research Topic） | [[Research Practicability|研究可行性]]（Research Practicability） |
+> | 维度 | 研究范围（Research Scope） | [[Research Topic\|研究选题]]（Research Topic） | [[Research Practicability\|研究可行性]]（Research Practicability） |
 > |---|---|---|---|
 > | **核心任务** | 划定空间、理论与对象边界；课题窄化 | 确定探究焦点、现实痛点与知识缺口 | 评估资源、准入、时间与伦理约束 |
-> | **操作原则** | 想小而非大、一次一口、窄而深 | 保持持久兴趣、[[Fitness for Purpose|目的适配性]]、理论价值 | 现实主义核查、风险规避、法律合规 |
+> | **操作原则** | 想小而非大、一次一口、窄而深 | 保持持久兴趣、[[Fitness for Purpose\|目的适配性]]、理论价值 | 现实主义核查、风险规避、法律合规 |
 > | **失控后果** | 课题宏大漫游、无法管理、丧失严谨性 | 缺乏探究动力、学术贡献模糊 | 调研中途夭折、数据无法获取、伦理违规 |
 
 ---
@@ -122,7 +122,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位[[Research Topic|研究选题]]、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
+> | **微观规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位[[Research Topic\|研究选题]]、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
 > | **宏观推演命题** | 研究范围从单一文献样本扩展至宏观科学系统，能够检验经验增长规律的尺度不变性 | 科学计量普查、全景文献追踪、科学学通则建构 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021)]]; Price (1961) |
 
 ---

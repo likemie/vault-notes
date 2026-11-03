@@ -162,11 +162,11 @@ updated: 2026-11-03
 > > [!metax-ma]- 7 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Qu and Becker (2003) | Certified vs. alternative certified teachers | 24 | NA | 192 | 0.08 |  |
-> > | Qu and Becker (2003) | Traditional vs. Emergency licensed teachers | 24 | NA | 76 | 0.14 |  |
+> > | Qu & Becker (2003) | Certified vs. alternative certified teachers | 24 | NA | 192 | 0.08 |  |
+> > | Qu & Becker (2003) | Traditional vs. Emergency licensed teachers | 24 | NA | 76 | 0.14 |  |
 > > | Sparks (2005) | Traditional vs. emergency or probationary training | 5 | NA | 18 | 0.12 |  |
 > > | Whitford et al. (2018) | Traditional vs Alternative programs | 32 | 106,016 | 118 | 0.03 |  |
-> > | Kelley and Camilli (2007) | Teacher education in early childhood | 32 | NA | 105 | 0.15 |  |
+> > | Kelley & Camilli (2007) | Teacher education in early childhood | 32 | NA | 105 | 0.15 |  |
 > > | Dunst et al. (2019) | Teacher preparation program on student achievement | 6 | 1,047,391 | 21 | -0.04 |  |
 > > | Dunst et al. (2019) | Teacher degree on student achievement | 54 | 27,532 | 54 | 0.19 |  |
 

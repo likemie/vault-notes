@@ -280,7 +280,7 @@ updated: 2026-11-03
 > > | Kim (2012b) | Situated learning | 19 | 2,501 | 36 | 1.12 |  |
 > > | Cai, Mao, et al. (2022) | Scaffolding in digital games | 49 | 5,906 | 154 | 0.43 |  |
 > > | Doo et al. (2020) | Scaffolding in elearning | 18 | 1,184 | 41 | 0.65 |  |
-> > | Pesco and Gagne (2017) | Scaffolding | 15 | NA | 28 | 0.61 |  |
+> > | Pesco & Gagne (2017) | Scaffolding | 15 | NA | 28 | 0.61 |  |
 
 > [!empirical-divider]
 

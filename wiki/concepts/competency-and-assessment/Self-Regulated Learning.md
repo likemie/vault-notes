@@ -198,15 +198,15 @@ updated: 2026-11-03
 > > | Benz (2010) | Self regulated interventions | 44 | 4,047 | 44 | 0.45 |  |
 > > | Zheng (2016) | Self-regulated learning strategies | 29 | 2,648 | 29 | 0.44 |  |
 > > | Danisman (2017b) | Self-regulation | 346 | 215,452 | 346 | 0.54 |  |
-> > | Broadbent and Poon (2015) | Self-regulated learning strategies | 12 | NA | 12 | 0.26 |  |
-> > | Ergen and Kanadli (2017) | Self-regulation strategies | 21 | NA | 21 | 0.86 |  |
+> > | Broadbent & Poon (2015) | Self-regulated learning strategies | 12 | NA | 12 | 0.26 |  |
+> > | Ergen & Kanadli (2017) | Self-regulation strategies | 21 | NA | 21 | 0.86 |  |
 > > | Dent (2013) | Self-regulated learning | 145 | NA | 173 | 0.56 |  |
 > > | Lavery (2008b) | Self-regulated learning | 30 | 1,937 | 223 | 0.46 |  |
 > > | Dignath et al. (2008) | Self-regulation strategies | 30 | 2,364 | 263 | 0.69 |  |
-> > | Sitzmann and Ely (2011) | Self-regulation strategies | 369 | 90,380 | 855 | 0.37 |  |
+> > | Sitzmann & Ely (2011) | Self-regulation strategies | 369 | 90,380 | 855 | 0.37 |  |
 > > | Pandey et al. (2018) | Self-regulation interventions | 39 | 23,098 | 39 | 0.42 |  |
 > > | Jansen et al. (2019) | Self-regulated interventions and correlates | 126 | NA | 284 | 0.36 |  |
-> > | Kim and Seo (2014) | Self-regulated learning | 82 | NA | 289 | 0.91 |  |
+> > | Kim & Seo (2014) | Self-regulated learning | 82 | NA | 289 | 0.91 |  |
 > > | Li, Ye, et al. (2018) | Self-regulated learning | 59 | 23,497 | 264 | 0.47 |  |
 > > | de Boer et al. (2013) | Self-regulated learning | 55 | NA | 95 | 0.66 |  |
 > > | Theobald (2021) | Self-regulated learning | 49 | 5,786 | 251 | 0.38 |  |
@@ -216,7 +216,7 @@ updated: 2026-11-03
 > > | Brydges et al. (2015) | Supervised vs non-supervised SRL interventions | 19 | NA | 19 | 0.34 |  |
 > > | Shao et al. (2023) | Self-regulated programs on achievement | 46 | NA | 34 | 0.50 |  |
 > > | Xu et al. (2021) | Self-regulation interventions | 37 | NA | 73 | 0.69 |  |
-> > | Hemmler and Ifenthaler (2024) | Self-regulation strategies | 32 | NA | 32 | 0.68 |  |
+> > | Hemmler & Ifenthaler (2024) | Self-regulation strategies | 32 | NA | 32 | 0.68 |  |
 > > | Chen (2022) | Self-regulation interventions | 16 | NA | 32 | 0.72 |  |
 > > | Elhusseini et al. (2022) | Self-regulation interventions | 46 | 5,255 | 150 | 0.83 |  |
 > > | Hitt (2023) | Self-regulation interventions | 60 | NA | 60 | 0.46 |  |

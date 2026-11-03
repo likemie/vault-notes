@@ -186,8 +186,8 @@ updated: 2026-11-03
 > > [!metax-ma]- 6 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Miron and Nelson (2001) | Charter schools | 18 | NA | 18 | 0.20 |  |
-> > | Betts and Tang (2008) | Charter schools | 191 | NA | 191 | 0.01 |  |
+> > | Miron & Nelson (2001) | Charter schools | 18 | NA | 18 | 0.20 |  |
+> > | Betts & Tang (2008) | Charter schools | 191 | NA | 191 | 0.01 |  |
 > > | Krowka et al. (2017) | Charter schools | 73 | NA | 146 | 0.14 |  |
 > > | Erickson (2013) | Charter schools | 11 | NA | 122 | -0.27 |  |
 > > | Cheng et al. (2017) | No excuse charter schools | 17 | NA | 266 | 0.14 |  |

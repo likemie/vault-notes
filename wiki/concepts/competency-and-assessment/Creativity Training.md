@@ -361,9 +361,9 @@ updated: 2026-11-03
 > > [!metax-ma]- 20 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Rose and Lin (1984) | Long term creativity programs | 46 | NA | 46 | 0.47 |  |
+> > | Rose & Lin (1984) | Long term creativity programs | 46 | NA | 46 | 0.47 |  |
 > > | Cohn (1984) | Creativity training effectiveness | 106 | NA | 177 | 0.55 |  |
-> > | Bangert-Drowns and Bankert (1990) | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |  |
+> > | Bangert-Drowns & Bankert (1990) | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |  |
 > > | Hollingsworth (1991) | Creativity programs | 39 | NA | 39 | 0.82 |  |
 > > | Conard (1992) | Creative dramatics | 20 | NA | 28 | 0.48 |  |
 > > | Scope (1998) | Instructional influences on creativity | 30 | NA | 40 | 0.90 |  |
@@ -373,14 +373,14 @@ updated: 2026-11-03
 > > | Huang (2005) | Creativity programs | 51 | NA | 62 | 0.89 |  |
 > > | Berkowitz (2006) | Various creative communication strategies | 23 | 5,000 | 39 | 0.46 |  |
 > > | Niu et al. (2013) | Programs on creative thinking | 31 | NA | 40 | 0.20 |  |
-> > | Liu and Chang (2017) | 4P creativity program | 11 | 745 | 11 | 0.95 |  |
+> > | Liu & Chang (2017) | 4P creativity program | 11 | 745 | 11 | 0.95 |  |
 > > | Yu (2012) | Practical reasoning on home economics outcomes | 25 | NA | 35 | 0.60 |  |
-> > | Huber and Kuncel (2016) | Programs on creative thinking | 71 | 25,577 | 71 | 0.59 |  |
+> > | Huber & Kuncel (2016) | Programs on creative thinking | 71 | 25,577 | 71 | 0.59 |  |
 > > | Abrami et al. (2008) | Interventions on critical thinking skills and dispositions | 117 | 20,698 | 161 | 0.34 |  |
 > > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | Teaching students to think critically | 341 | NA | 867 | 0.33 |  |
 > > | Allen et al. (2011) | Public speaking on critical thinking skills | 23 | 4,545 | 35 | 0.43 |  |
-> > | Sahin and Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
-> > | Sio and Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
+> > | Sahin & Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
+> > | Sio & Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
 
 > [!empirical-divider]
 

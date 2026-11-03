@@ -68,7 +68,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 算法偏倚（Algorithmic Bias） | [[Automation Bias|自动化偏差（Automation Bias）]] | [[Status Bias in Peer Review|声望偏倚（Status Bias）]] |
+> | 维度 | 算法偏倚（Algorithmic Bias） | [[Automation Bias\|自动化偏差（Automation Bias）]] | [[Status Bias in Peer Review\|声望偏倚（Status Bias）]] |
 > |---|---|---|---|
 > | **分析对象** | 数据驱动算法系统与目标函数 | 实际运用人员与决策者的认知心理 | 评审专家与学术编辑的评价行为 |
 > | **核心机制** | 高维拟合历史语料并级联放大统计偏斜 | 盲从自动化提示并放弃独立验证 | 受外生头衔与机构光环扭曲质量判断 |

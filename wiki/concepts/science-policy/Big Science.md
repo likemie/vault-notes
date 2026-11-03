@@ -228,7 +228,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **物理目标与社会问题不可[[Commensuration|通约]]** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
+> | **物理目标与社会问题不可[[Commensuration\|通约]]** | 大科学擅长明确物理极限突破，套用于复杂社会系统必然遭遇失灵 | 科技使命政策跨领域迁移评估 | Weinberg (1967); [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **公共采购与供应链技术外溢** | 大科学长期经济价值取决于需求侧高标准采购倒逼产业工艺创新 | 国防与战略大工程民用外溢机制设计 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **军工大科学与民用创新体系脱节** | 缺乏微观互动与干中学的大科学军工投入无法转化为国民创新竞争力 | 国家创新系统演化与美苏科技体制对比 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
 > | **成本膨胀与契约合法性危机** | 巨额成本推高行政审计，终结了基础科学无需自证的免检资助特权 | 科学社会契约演变与科技政策立法 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |

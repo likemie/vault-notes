@@ -236,9 +236,9 @@ updated: 2026-11-03
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Tran et al. (2011) | Response to Intervention programs | 13 | NA | 107 | 0.76 |  |
-> > | Burns and Symington (2002) | Use of prereferral intervention teams | 11 | NA | 57 | 0.96 |  |
+> > | Burns & Symington (2002) | Use of prereferral intervention teams | 11 | NA | 57 | 0.96 |  |
 > > | Torres (2016) | Response to Intervention programs | 20 | NA | 11 | 0.32 |  |
-> > | Swanson and Lussier (2001) | Dynamic assessment (feedback) | 30 | 5,104 | 170 | 1.12 |  |
+> > | Swanson & Lussier (2001) | Dynamic assessment (feedback) | 30 | 5,104 | 170 | 1.12 |  |
 > > | Bagasi (2014) | Response to Intervention programs | 19 | NA | 19 | 0.47 |  |
 > > | Burns et al. (2005) | Response to Intervention programs | 25 | NA | 25 | 1.49 |  |
 > > | Wang et al. (2016) | Response to Intervention programs | 34 | 6,127 | 261 | 0.50 |  |

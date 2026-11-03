@@ -153,7 +153,7 @@ updated: 2026-11-03
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
 > > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
-> > | Ozkan and Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
+> > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
 
 > [!empirical-divider]
 

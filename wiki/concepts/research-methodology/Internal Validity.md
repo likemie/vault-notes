@@ -115,13 +115,13 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table|notitle] 内部效度的[[Paradigm|范式]]演进与视角辨析
-> | 维度 | 量化实验中的内部效度 | 质性探究中的可信性（Credibility） | [[Quality Use of Research Evidence Framework|QURE]] 框架中的适切证据严谨性 |
+> | 维度 | 量化实验中的内部效度 | 质性探究中的可信性（Credibility） | [[Quality Use of Research Evidence Framework\|QURE]] 框架中的适切证据严谨性 |
 > |---|---|---|---|
-> | **[[Epistemology|认识论]]前设** | [[Positivism|实证主义]]与[[Postpositivism|后实证主义]]；追求客观真实的单一因果律 | 诠释主义与[[Constructivist Paradigm|建构主义]]；关注主体间性与多重现实 | [[Pragmatic Paradigm|实用主义]]与情境认识论；追求证据品质与用途的拟合 |
+> | **[[Epistemology\|认识论]]前设** | [[Positivism\|实证主义]]与[[Postpositivism\|后实证主义]]；追求客观真实的单一因果律 | 诠释主义与[[Constructivist Paradigm\|建构主义]]；关注主体间性与多重现实 | [[Pragmatic Paradigm\|实用主义]]与情境认识论；追求证据品质与用途的拟合 |
 > | **核心关切** | 处理是否在统计上排除了替代解释而直接导致了效应 | 质性解释是否真实反映参与者的生活世界体验 | 方法严谨性是否契合具体教育问题与组织情境脉络 |
-> | **对待时间与变化** | 历史与成熟等时间[[Variable|变量]]被视作必须排除的干扰威胁 | 现象在时间中的演进本身构成核心分析对象 | 时间作为实施过程的动态资源，支持反思与适应 |
-> | **典型保障工具** | [[Random Assignment|随机分配]]、对照组设计、双盲实验、统计协变量控制 | 长期田野参与、[[Triangulation|三角验证]]、[[Member Checking|成员核查]]、同伴汇报 | 严谨方法论规程协同“[[Fitness for Purpose|目的适配性]]”与[[Professional Judgment|专业判断]] |
-> | **局限与风险** | 易陷入去情境化的[[Technical Rationality|技术理性]]与实验室封闭 | 解释的主观性依赖研究者反思德性，外部可比性弱 | 需要平衡多维诉求，对决策者的[[Research Literacy|研究素养]]提出较高要求 |
+> | **对待时间与变化** | 历史与成熟等时间[[Variable\|变量]]被视作必须排除的干扰威胁 | 现象在时间中的演进本身构成核心分析对象 | 时间作为实施过程的动态资源，支持反思与适应 |
+> | **典型保障工具** | [[Random Assignment\|随机分配]]、对照组设计、双盲实验、统计协变量控制 | 长期田野参与、[[Triangulation\|三角验证]]、[[Member Checking\|成员核查]]、同伴汇报 | 严谨方法论规程协同“[[Fitness for Purpose\|目的适配性]]”与[[Professional Judgment\|专业判断]] |
+> | **局限与风险** | 易陷入去情境化的[[Technical Rationality\|技术理性]]与实验室封闭 | 解释的主观性依赖研究者反思德性，外部可比性弱 | 需要平衡多维诉求，对决策者的[[Research Literacy\|研究素养]]提出较高要求 |
 
 ---
 

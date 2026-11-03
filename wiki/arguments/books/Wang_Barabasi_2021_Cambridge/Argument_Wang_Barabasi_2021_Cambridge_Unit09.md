@@ -59,7 +59,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-31"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -94,7 +94,7 @@ updated: 2026-11-02
 > [!method-panel] 研究设计与测量方法
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **[[Retrospective Citation Analysis|引文回溯分析]]与[[Prospective Citation Analysis|引文前瞻分析]]**<br>`Retrospective & Prospective Citation Analyses` | 区分回溯性方法（以施引文献为锚点度量施引记忆纵深）与前瞻性方法（追踪成果队列各年度新增引文度量集体遗忘），通过文献增长率建立对偶积分变换 (pp. 204–205)。 |
+> | **[[Retrospective Citation Analysis\|引文回溯分析]]与[[Prospective Citation Analysis\|引文前瞻分析]]**<br>`Retrospective & Prospective Citation Analyses` | 区分回溯性方法（以施引文献为锚点度量施引记忆纵深）与前瞻性方法（追踪成果队列各年度新增引文度量集体遗忘），通过文献增长率建立对偶积分变换 (pp. 204–205)。 |
 > | **二维知识搜索测度**<br>`Two-Dimensional Knowledge Metric` | 测算单篇成果参考文献平均年龄 $\langle T \rangle$ 与离散系数 $\sigma_T$，在控制出版年份与细分领域前提下定位前 5% 高引的知识热点 (pp. 200–201)。 |
 > | **WSB 动力学参数拟合**<br>`WSB Maximum Likelihood Estimation` | 采集发表后 $T_{\text{train}}$ 年内逐年获引序列，利用极大似然法估计相对适应度 $\lambda_i$、紧迫性 $\mu_i$ 与寿命 $\sigma_i$，生成长期置信区间包络 (Wang et al., 2013; pp. 211, 217–218)。 |
 > | **引文复制错误追踪**<br>`Citation Error Propagation Tracking` | 识别参考文献中因排版错误产生的微观印刷变异（如特定页码印刷错误），利用随机独立假设下的极低重合概率（$10^{-4}$），实证确证学者撰写成果时的引文复制行为 (Simkin & Roychowdhury, 2003, 2005; pp. 260–261)。 |

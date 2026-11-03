@@ -239,15 +239,15 @@ flowchart LR
 > > | Gegenfurtner et al. (2014) | Self-efficacy in simulation based learning | 15 | 2,274 | 15 | 0.72 |  |
 > > | Robbins et al. (2004) | Self-efficacy | 13 | NA | 13 | 1.84 |  |
 > > | Carpenter (2007) | Self-efficacy | 48 | 12,466 | 48 | 0.70 |  |
-> > | Ciftci and Yildiz (2019) | Self-confidence | 76 | 1,028,567 | 76 | 0.59 |  |
+> > | Ciftci & Yildiz (2019) | Self-confidence | 76 | 1,028,567 | 76 | 0.59 |  |
 > > | Sun, Wang, Lambert, et al. (2021) | Writing self-efficacy on L2 students | 76 | NA | 76 | 0.56 |  |
-> > | Braithwaite and Corr (2016) | Self-efficacy on achievement in Higher education | 14 | NA | 14 | 0.26 |  |
+> > | Braithwaite & Corr (2016) | Self-efficacy on achievement in Higher education | 14 | NA | 14 | 0.26 |  |
 > > | Rachmahana (2008) | Self-efficacy | 23 | NA | 23 | 0.95 |  |
 > > | Muhtadi, Assagaf, et al. (2022) | Self-efficacy | 40 | 4,503 | 40 | 1.71 |  |
 > > | Haidai et al. (2023) | Self-efficacy | 37 | 16,946 | 40 | 0.08 |  |
 > > | Sun (2021) | Self-efficacy | 76 | 18,620 | 575 | 0.50 |  |
 > > | Nunes et al. (2022) | Academic self-efficacy | 11 | 27,705 | 11 | 0.74 |  |
-> > | Goetze and Driver (2022) | Self-efficacy in 2nd language | 37 | 23,050 | 40 | 1.04 |  |
+> > | Goetze & Driver (2022) | Self-efficacy in 2nd language | 37 | 23,050 | 40 | 1.04 |  |
 
 > [!metax] [教师自我效能感 · Teacher self-efficacy](https://www.visiblelearningmetax.com/influences/view/teacher_self-efficacy)
 > 教师 › 教师特质
@@ -259,8 +259,8 @@ flowchart LR
 > > [!metax-ma]- 2 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Klassen and Tze (2014) | Teacher self-efficacy and achievement | 12 | NA | 31 | 0.24 |  |
-> > | Kim and Seo (2018) | Teacher self-efficacy | 16 | 14,215 | 98 | 0.20 |  |
+> > | Klassen & Tze (2014) | Teacher self-efficacy and achievement | 12 | NA | 31 | 0.24 |  |
+> > | Kim & Seo (2018) | Teacher self-efficacy | 16 | 14,215 | 98 | 0.20 |  |
 
 > [!empirical-divider]
 

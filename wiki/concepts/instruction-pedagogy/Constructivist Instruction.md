@@ -230,8 +230,8 @@ updated: 2026-11-03
 > > [!metax-ma]- 8 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Erisen and Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
-> > | Semerci and Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
+> > | Erisen & Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
+> > | Semerci & Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
 > > | Li, Din, et al. (2021) | Learner centered education | 42 | NA | 72 | 0.54 |  |
 > > | Selçuk & Yilmaz (2020) | Constructivist teaching | 57 | 6,237 | 114 | 1.04 |  |
 > > | Ulum & Tümkaya (2022) | Student centered teaching | 63 | NA | 66 | 0.79 |  |

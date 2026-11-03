@@ -208,10 +208,10 @@ updated: 2026-11-03
 > > | Suryono et al. (2023) | Blended learning on critical thinking | 10 | NA | 10 | 0.79 |  |
 > > | Rahman et al. (2023) | Blended learning | 14 | NA | 14 | 0.93 |  |
 > > | Samritin et al. (2023) | Blended learning | 18 | NA | 20 | 0.73 |  |
-> > | Cao and Hsu (2023) | Blended learning across countries | 11 | NA | 11 | 0.50 |  |
+> > | Cao & Hsu (2023) | Blended learning across countries | 11 | NA | 11 | 0.50 |  |
 > > | Antonio (2022) | Blended learning | 49 | 4,537 | 53 | 1.35 |  |
 > > | Kazu et al. (2022) | Hybrid learning | 44 | NA | 45 | 1.03 |  |
-> > | Najafi and Heidari (2018) | Blended learning | 20 | 2,064 | 20 | 0.59 |  |
+> > | Najafi & Heidari (2018) | Blended learning | 20 | 2,064 | 20 | 0.59 |  |
 > > | Oktarina et al. (2021) | Blended learning | 22 | NA | 22 | 0.44 |  |
 
 ---

@@ -198,13 +198,13 @@ updated: 2026-11-03
 > > | Roorda et al. (2011) | Teacher-student relations on achievement | 99 | 165,926 | 168 | 0.53 |  |
 > > | Vandenbroucke et al. (2018) | Teacher-student interactions on Executive functioning | 23 | 19,906 | 23 | 0.18 |  |
 > > | Kincade et al. (2020) | Teacher-student programs on achievement | 21 | NA | 21 | 0.26 |  |
-> > | Wang and Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
+> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
 > > | Emslander et al. (2023) | Teacher-student relations on achievement | 231 | 6,237,000 | 116 | 0.50 |  |
 > > | Lei, Wang, et al. (2022) | Teacher-student relations on achievement | 74 | 233,961 | 90 | 0.54 |  |
-> > | Wang and Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
+> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
 >
 > > [!metax-errata] 2 条
-> > - ∑ **自动核算 · 疑似重复** Wang and Dong (2017) 在列表中重复出现。
+> > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
 > > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，尚未经文献核实）。
 
 > [!empirical-divider]

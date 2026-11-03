@@ -151,8 +151,8 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观认知声望溢价** | 学术知名度作为质量信号影响评审决策与引文积累，合作中声望被名家截留，需依托算法解构真实贡献 | 同行评审、多学者署名、团队规模评价 | Merton (1968); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang and Barabási (2021)]] |
-> | **中观制度资源极化** | 准市场竞争与绩效拨款机制使办学资本与人才加速向头部精英大学集中 | 高等教育治理、[[Global Universities Rankings|全球大学排名]]、科研评估体系 | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] |
-> | **宏观网络累积动力** | 优先连接机制催生引文重尾分布，声誉仅在初期加速获引，内生适应度赋予优质突破后发赶超空间 | [[Bibliometric Analysis|科学计量学]]、引文动力学建模、学术演化分析 | Price (1976); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] |
+> | **中观制度资源极化** | 准市场竞争与绩效拨款机制使办学资本与人才加速向头部精英大学集中 | 高等教育治理、[[Global Universities Rankings\|全球大学排名]]、科研评估体系 | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] |
+> | **宏观网络累积动力** | 优先连接机制催生引文重尾分布，声誉仅在初期加速获引，内生适应度赋予优质突破后发赶超空间 | [[Bibliometric Analysis\|科学计量学]]、引文动力学建模、学术演化分析 | Price (1976); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] |
 
 ---
 
