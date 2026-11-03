@@ -10,6 +10,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: 国家科学院常设科学与公共政策咨询委员会
 headquarters: 美国华盛顿特区（Washington, D.C., USA）
 established: "1962"

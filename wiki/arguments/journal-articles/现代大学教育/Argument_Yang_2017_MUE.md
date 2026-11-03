@@ -1,5 +1,4 @@
 ---
-title: Argument_Yang_2017_MUE
 summary: "系统考察冷战初期至卫星危机前后美国联邦政府大学科研资助政策的博弈历程，揭示学术界咨询精英如何依托PSAC与COSPUP等组织，借助国家安全危机将过度政治议程的国防计划性资助转向依托同行评议的自由基础研究，缔造大学科研黄金期"
 type: argument
 authors:
@@ -8,10 +7,10 @@ source_language: zh
 citation: "杨九斌. (2017). 学术与政治: 卫星危机前后美国联邦政府大学科研资助政策的博弈与嬗变. 现代大学教育, (3), 35–40."
 year: 2017
 doi: ""
-isbn: ""
 citation_aliases:
   - "杨九斌, 2017"
   - "杨九斌 (2017)"
+isbn: ""
 tags:
   - theme/science-policy
   - theme/basic-research
@@ -27,13 +26,21 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[sources/Yang_2017_MUE|Yang_2017_MUE]]"
+  - "[[sources/Yang_2017_MUE/Yang_2017_MUE|Yang_2017_MUE]]"
 part_of:
 status: active
 created: 2026-11-04
 updated: 2026-11-04
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Yang_2017_MUE"
+argument_key: "Argument_Yang_2017_MUE"
+argument_display_title: "学术与政治: 卫星危机前后美国联邦政府大学科研资助政策的博弈与嬗变"
+argument_kind: "journal-article"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "现代大学教育"
 book_title: ""
 publication_place: ""
@@ -44,10 +51,10 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 二战后至冷战初期，美国联邦政府对大学科研的资助深陷国防军事计划性与实用目标的规约；1957年苏联人造卫星发射引发的外部冲击如何打破这一既有格局？在国家安全焦虑与学术自由理想的持续博弈中，联邦政府、国会与学术界精英如何达成制度共识，推动大学科研资助政策发生结构性转型并缔造基础研究的黄金时代？
+> 二战后至冷战初期，美国联邦政府对大学科研的资助深陷国防军事计划性与实用目标的制约；1957年苏联人造卫星发射引发的外部冲击如何打破这一既有格局？在国家安全焦虑与学术自由理想的持续博弈中，联邦政府、国会与学术界精英如何达成制度共识，推动大学科研资助政策发生结构性转型并缔造基础研究的黄金时代？
 
 > [!claim] 核心主张
-> 苏联卫星危机打破了冷战初期由国防部和原子能委员会垄断的军事计划性科研资助体制。学术界咨询精英依托[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）与[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）重构了基础科学服务国家安全的合法性论述，推动联邦政府将资助重心转向以[[National Science Foundation|国家科学基金会]]（NSF）为代表的同行评议自由研究，缔造了1950至1970年代美国大学基础研究的黄金期；这一转型始终受制于冷战大国竞争的政治逻辑，未能摆脱政治议程对学术发展的深层规约。
+> 苏联卫星危机打破了冷战初期由国防部和原子能委员会垄断的军事计划性科研资助体制。学术界咨询精英依托[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）与[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）重构了基础科学服务国家安全的合法性论述，推动联邦政府将资助重心转向以[[National Science Foundation|国家科学基金会]]（NSF）为代表的同行评议自由研究，缔造了1950至1970年代美国大学基础研究的黄金期；这一转型始终受制于冷战大国竞争的政治逻辑，未能摆脱政治议程对学术发展的深层约束。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1945至1970年代美国联邦政府对[[Research Universities|研究型大学]]科研资助政策的演变轨迹，涵盖杜鲁门、[[Dwight D. Eisenhower|艾森豪威尔]]、肯尼迪政府时期的立法文本、行政报告、预算分配及学科普查档案。
@@ -87,7 +94,7 @@ issuing_organization: ""
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
->     A["战后初期：冷战军备与任务机构垄断国防科研计划性资助"] --> B["学术界抗议：柯南特、杜布里奇与NSF早期抵制计划性规约"]
+>     A["战后初期：冷战军备与任务机构垄断国防科研计划性资助"] --> B["学术界抗议：柯南特、杜布里奇与NSF早期抵制计划性控制"]
 >     B --> C["1957年卫星危机：打破美国技术优势神话，暴露基础人才断层"]
 >     C --> D["制度反思：危机转化为重塑国家安全合法性的政策窗口"]
 >     D --> E["立法突破：1958年《国防教育法》将高教科研置于战略地位"]
@@ -201,4 +208,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[sources/Yang_2017_MUE|Yang_2017_MUE]]
+- [[sources/Yang_2017_MUE/Yang_2017_MUE|Yang_2017_MUE]]

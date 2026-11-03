@@ -43734,6 +43734,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Committee on Science and Public Policy",
+    "type": "fact",
+    "path": "wiki/facts/us/Committee on Science and Public Policy.md",
+    "aliases": [
+      "科学与公共政策委员会",
+      "COSPUP",
+      "美国国家科学院科学与公共政策委员会"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Comparative and International Education Society",
     "type": "fact",
     "path": "wiki/facts/us/Comparative and International Education Society.md",
@@ -48340,6 +48351,11 @@
     "title": "Argument_Zhang_Zhao_2026_EDR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
+  },
+  {
+    "title": "Argument_Yang_2017_MUE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/现代大学教育/Argument_Yang_2017_MUE.md"
   },
   {
     "title": "Argument_Yu_Xie_2025_JHE",
