@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Hot-Streak Model",
-      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
+      "basename": "Disruption Index",
+      "path": "wiki/methods/quantitative/Disruption Index.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
     {
-      "basename": "Joint Probability Matrix of Hits",
-      "path": "wiki/methods/quantitative/Joint Probability Matrix of Hits.md"
+      "basename": "Team Science",
+      "path": "wiki/concepts/university-industry-collaboration/Team Science.md"
+    },
+    {
+      "basename": "Hot-Streak Model",
+      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
     },
     {
       "basename": "Q-Model",
@@ -19,6 +23,14 @@
     {
       "basename": "Q-Factor",
       "path": "wiki/methods/quantitative/Q-Factor.md"
+    },
+    {
+      "basename": "Universality of Citation Distributions",
+      "path": "wiki/theories/science-policy/Universality of Citation Distributions.md"
+    },
+    {
+      "basename": "Joint Probability Matrix of Hits",
+      "path": "wiki/methods/quantitative/Joint Probability Matrix of Hits.md"
     },
     {
       "basename": "Random Impact Rule",
@@ -31,10 +43,6 @@
     {
       "basename": "Shockley's Multiplicative Hurdle Model",
       "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
-    },
-    {
-      "basename": "Universality of Citation Distributions",
-      "path": "wiki/theories/science-policy/Universality of Citation Distributions.md"
     },
     {
       "basename": "Argument_Fortunato_2018_Science",
@@ -191,14 +199,6 @@
     {
       "basename": "Portfolio-Based Research Funding",
       "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md"
-    },
-    {
-      "basename": "Crowded Frontier",
-      "path": "wiki/concepts/science-policy/Crowded Frontier.md"
-    },
-    {
-      "basename": "Argument_Stone_2020_PolSoc",
-      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
     }
   ],
   "omittedPaths": [],

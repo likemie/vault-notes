@@ -67,6 +67,34 @@ updated: 2026-11-03
 > [!claim] 核心判断
 > 创造性个体的职业生涯由长期的基线表现（$\Gamma_0$）与短暂的激发爆发状态（$\Gamma_H$）两阶段非平稳交替所构成。在常规阶段，学者产出服从基线水平；而在进入持续数年的爆发期（[[Hot Streak]]）时，其成果被引期望大幅提升至 $\Gamma_H$，使生涯前列的代表作在短时间内密集[[Emergence|涌现]]（顶尖两部成果前后紧邻发表的概率达随机预期的 1.57 倍）。由于爆发期在全生涯中的启动时机随机分布，宏观上依然保持了整体代表作时序的随机影响规律，实现了局域时间相关性与全域时序随机性的数理统一。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–399)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–77)]]
 
+> [!formula] 爆发期双状态模型与代表作联合概率
+> 个体生涯中第 $N$ 项成果的期望对数影响 $\Gamma(N)$ 为分段阶梯函数，爆发期起止序号记为 $N^{\uparrow}$ 与 $N^{\downarrow}$：
+> 
+> $$\Gamma(N) = \begin{cases} \Gamma_H, & N^{\uparrow} \le N \le N^{\downarrow} \\ \Gamma_0, & \text{其他} \end{cases}, \qquad \Gamma_H > \Gamma_0$$
+> 
+> 单项成果的实际对数影响围绕期望值随机波动：
+> 
+> $$\Gamma_N \sim \mathcal{N}\left(\Gamma(N), \sigma^2\right)$$
+> 
+> 检验代表作时序聚集的归一化联合概率定义为：
+> 
+> $$\phi(N^\ast, N^{\ast\ast}) = \frac{P(N^\ast, N^{\ast\ast})}{P(N^\ast)\,P(N^{\ast\ast})}$$
+> 
+> 式中 $N^\ast$ 与 $N^{\ast\ast}$ 分别为最佳与次佳成果在生涯序列中的位置。随机零模型下 $\phi \equiv 1$；实测对角线区域 $\phi > 1$，最佳与次佳成果相邻发表的概率约为随机预期的 1.57 倍。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–398)]]
+
+> [!geogebra] 爆发期双状态模型模拟
+> - **横轴** 生涯中的成果序号 $N$（1–100）
+> - **纵轴** 单项成果的对数影响 $\Gamma$
+> - **黑色阶梯线** 期望 $\Gamma(N)$，浅红色区域为爆发期窗口
+> - **灰色散点** 按 $\mathcal{N}(\Gamma(N), \sigma^2)$ 抽样的单项成果表现；红点标出最佳成果 $N^\ast$ 与次佳成果 $N^{\ast\ast}$
+> - **滑块 Γ₀ / Γ_H** 调节基线与爆发态期望
+> - **滑块 起点 N↑ / 长度** 调节爆发期的位置与覆盖的成果数
+> - **滑块 σ** 调节单项成果的随机波动幅度
+> - **滑块 样本** 切换 5 组预设随机序列
+> - **观察提示** 缩小 Γ_H 与 Γ₀ 的差距或增大 σ，$N^\ast$ 与 $N^{\ast\ast}$ 逐渐散落到窗口之外；拖动起点，代表作随窗口移动，生涯任何阶段都可能出现爆发期。
+> 
+> ![[wiki/assets/geogebra/hot_streak_model.ggb]]
+
 ---
 
 > [!theory-origin] 提出者如何形成理论
