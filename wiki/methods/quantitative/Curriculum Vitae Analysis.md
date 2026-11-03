@@ -9,6 +9,11 @@ aliases:
 summary: "采集科研人员结构化职业经历与学术产出记录，运用定量编码与纵向追踪刻画学术流动、学科转换、师承关系与职业生命周期的实证研究方法。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 8
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:

@@ -8,6 +8,10 @@ aliases:
 summary: "个体对特定学科专业领域长期稳定的内在价值认同、探究热情与求知定向，构成拔尖创新人才从事深层次知识创造的核心内在动力。"
 type: concept
 domain: "higher-education"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/higher-education
   - theme/academic-talent
