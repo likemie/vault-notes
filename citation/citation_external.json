@@ -4359,8 +4359,7 @@
     "Chen et al. (2021)": "Chen et al., 2021",
     "Chen et al. (2022)": "Chen et al., 2022",
     "Chen et al. (2024)": "Chen et al., 2024",
-    "Chen et al. (2025a)": "Chen et al., 2025a",
-    "Chen et al. (2025b)": "Chen et al., 2025b",
+    "Chen et al. (2025)": "Chen et al., 2025",
     "Chen et al., 2012": "Chen et al., 2012",
     "Chen et al., 2016": "Chen et al., 2016",
     "Chen et al., 2017": "Chen et al., 2017",
@@ -4375,9 +4374,8 @@
     "Chen et al., 2021": "Chen et al., 2021",
     "Chen et al., 2022": "Chen et al., 2022",
     "Chen et al., 2024": "Chen et al., 2024",
-    "Chen et al., 2025": "Chen et al., 2025a",
-    "Chen et al., 2025a": "Chen et al., 2025b",
-    "Chen et al., 2025b": "Chen et al., 2025b",
+    "Chen et al., 2025": "Chen et al., 2025",
+    "Chen et al., 2025a": "Chen et al., 2025",
     "Chen, 1990": "Chen, 1990",
     "Chen, 1994": "Chen, 1994b",
     "Chen, 1994a": "Chen, 1994a",
@@ -59180,28 +59178,10 @@
       ],
       "title": ""
     },
-    "Chen et al., 2025a": {
+    "Chen et al., 2025": {
       "aliases": [
-        "Chen et al., 2025a",
-        "Chen et al. (2025a)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Chen et al., 2025"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md",
-        "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md",
-        "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md",
-        "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
-      ],
-      "title": ""
-    },
-    "Chen et al., 2025b": {
-      "aliases": [
-        "Chen et al., 2025b",
-        "Chen et al. (2025b)"
+        "Chen et al., 2025",
+        "Chen et al. (2025)"
       ],
       "doi": "",
       "identity_keys": [

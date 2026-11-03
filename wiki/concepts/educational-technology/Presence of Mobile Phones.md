@@ -21,7 +21,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-03
 ---
 
 > [!metax-divider]
@@ -41,4 +41,4 @@ updated: 2026-10-22
 > > | Sunday et al. (2021) | Smartphone addiction | 44 | 147,943 | 45 | -0.24 |  |
 > > | Paterna et al. (2024) | Problematic phone use | 29 | 48,490 | 33 | -0.22 |  |
 > > | Böttger et al. (2023) | Presence of mobile phones | 22 | NA | 22 | -0.14 |  |
-> > | Chen et al. (2025) | Presence of mobile phones on immediate lecture recall | 27 | 2,245 | 55 | -0.59 |  |
+> > | Chen, Yan, et al. (2025) | Presence of mobile phones on immediate lecture recall | 27 | 2,245 | 55 | -0.59 |  |
