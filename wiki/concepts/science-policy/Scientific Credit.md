@@ -175,6 +175,17 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Matthew Effect in Academia]] | 概念 | 合著成果中资深学者不成比例截留学术声誉的社会学偏倚机制。 |
+> | [[Alphabetical Authorship]] | 概念 | 人文社科等领域规避序位偏倚但在大团队中导致感知信誉模糊的署名传统。 |
+> | [[Author Contribution Disclosures]] | 概念 | 细粒度自述任务分工以缓解署名名单信息不对称的制度性工具。 |
+> | [[Bibliometric Analysis]] | 方法 | 基于施引成果拓扑图谱构建共引矩阵、客观测算个体信誉份额的技术工具。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述科学信誉分配难题，探讨合作扩张背景下的马太效应与基于共引拓扑的个体信誉份额客观测度方法。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang & Barabási (2021)]] — 系统解构科学信誉构念、团队署名位次与实际劳动分工偏离，并基于共引图谱验证多合著者信誉分配矩阵算法（pp. 135–156）。
