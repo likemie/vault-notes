@@ -63,9 +63,10 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 status: stable
 created: 2026-06-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -231,3 +232,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 经典理论与实证[[Document|文献]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与[[Meaningful Human Control|人在回路]]的计算化审计追踪责任（Ch. 30）。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出在新管理主义官僚规训下过度泛滥的行政工时填报、项目核销与形式主义审计追踪已严重挤占学者的深思探究时间，倡导大幅削减合规审计负荷以守护科研创造力。

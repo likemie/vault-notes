@@ -58,10 +58,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -140,6 +141,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 汇聚全球大规模文献题录与引文网络数据，运用文献计量分析测度概念空间线性扩张特征、跨学科引文普适主曲线及团队规模世纪演化规律。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合吴令飞等（Wu et al., 2019）团队规模颠覆性定律等科学计量学与文献计量分析实证，揭示学术资本主义驱动下的过度竞争如何抑制科学颠覆性创新并加剧科研平庸化。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对微软学术图谱 1.34 亿篇核心出版物与 15.89 亿条引文网络实施规范化清洗与指标预计算，构建多源关联的大规模开放科学学数据基础设施。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 依托跨世纪文献计量全量引文网络与高精度学者消歧追踪，构建长周期物理学家与跨学科学者发表序列，实证解构个体学术生产力与影响力的生命周期演变机制。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
