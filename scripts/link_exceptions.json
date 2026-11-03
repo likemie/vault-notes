@@ -452,5 +452,11 @@
       "sentence": "warning] 研究边界与局限",
       "target": "wiki/concepts/research-methodology/Research Scope.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md": [
+    {
+      "sentence": "进入该校后，他融入该校崇尚高强度数理推导与合作研讨的学术文化，师从爱德华·普雷斯科特（Edward Prescott），在博士第一学年便共同起草发表了关于动态经济学与时间一致性的奠基性学术成果，直接奠定了其荣获 2004 年诺贝尔经济学奖的核心研究。",
+      "target": "wiki/persons/us/James C. Scott.md"
+    }
   ]
 }
