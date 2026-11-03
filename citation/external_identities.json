@@ -3312,6 +3312,14 @@
       ],
       "title": ""
     },
+    "Anders Ericsson, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Chance-Configuration Theory.md"
+      ],
+      "title": ""
+    },
     "Anders et al., 2017": {
       "doi": "",
       "isbn": "",
@@ -7200,6 +7208,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
@@ -63911,7 +63920,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
+      ],
       "title": "Research on the influence of metacognitive strategies on primary and middle school students' academic performance from the perspective of technical support"
     },
     "Liu et al., 2024": {
@@ -70718,6 +70729,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Goliath's Shadow.md",
@@ -96198,12 +96210,37 @@
       "seen_in": [],
       "title": "Domain-Specific Prior Knowledge and Learning: A Meta-Analysis"
     },
+    "Simonton, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
+      ],
+      "title": ""
+    },
     "Simonton, 1988": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/theories/science-policy/R-Model.md"
+      ],
+      "title": ""
+    },
+    "Simonton, 1989": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
+        "wiki/theories/science-policy/Chance-Configuration Theory.md"
+      ],
+      "title": ""
+    },
+    "Simonton, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Chance-Configuration Theory.md"
       ],
       "title": ""
     },

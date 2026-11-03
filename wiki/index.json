@@ -16316,6 +16316,17 @@
     ]
   },
   {
+    "title": "Disruption-Impact Time Lag",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Disruption-Impact Time Lag.md",
+    "aliases": [
+      "颠覆与影响时序时滞",
+      "颠覆峰值领先效应",
+      "颠覆时滞",
+      "Disruption-Impact Lag"
+    ]
+  },
+  {
     "title": "Distributed Agency",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Distributed Agency.md",
@@ -22438,6 +22449,17 @@
     ]
   },
   {
+    "title": "Chance-Configuration Theory",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Chance-Configuration Theory.md",
+    "aliases": [
+      "机会构型理论",
+      "机遇构型理论",
+      "机会构型假说",
+      "Chance-Configuration Hypothesis"
+    ]
+  },
+  {
     "title": "Citation Copy Model",
     "type": "theory",
     "path": "wiki/theories/science-policy/Citation Copy Model.md",
@@ -25417,6 +25439,17 @@
       "DIF",
       "测验题目偏倚",
       "项目功能偏侧"
+    ]
+  },
+  {
+    "title": "Discounted Cumulative Gain",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Discounted Cumulative Gain.md",
+    "aliases": [
+      "折损累积增益",
+      "累积增益折损",
+      "DCG",
+      "Discounted Cumulated Gain"
     ]
   },
   {

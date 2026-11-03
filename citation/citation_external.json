@@ -770,8 +770,10 @@
     "Anastasiou et al., 2024": "Anastasiou et al., 2024",
     "Anderberg (1996)": "Anderberg, 1996",
     "Anderberg, 1996": "Anderberg, 1996",
+    "Anders Ericsson (1993)": "Anders Ericsson, 1993",
     "Anders Ericsson et al. (1993)": "Anders Ericsson et al., 1993",
     "Anders Ericsson et al., 1993": "Anders Ericsson et al., 1993",
+    "Anders Ericsson, 1993": "Anders Ericsson, 1993",
     "Anders et al. (2017)": "Anders et al., 2017",
     "Anders et al., 2017": "Anders et al., 2017",
     "Andersen (2020)": "Andersen, 2020",
@@ -21874,9 +21876,15 @@
     "Simons, 2000": "Simons, 2000",
     "Simonsmeier et al. (2018)": "Simonsmeier et al., 2018",
     "Simonsmeier et al., 2018": "Simonsmeier et al., 2018",
+    "Simonton (1977)": "Simonton, 1977",
     "Simonton (1988)": "Simonton, 1988",
+    "Simonton (1989)": "Simonton, 1989",
+    "Simonton (1991)": "Simonton, 1991",
     "Simonton (1997)": "Simonton, 1997",
+    "Simonton, 1977": "Simonton, 1977",
     "Simonton, 1988": "Simonton, 1988",
+    "Simonton, 1989": "Simonton, 1989",
+    "Simonton, 1991": "Simonton, 1991",
     "Simonton, 1997": "Simonton, 1997",
     "Simpfendorfer (2014)": "Simpfendorfer, 2014",
     "Simpfendorfer, 2014": "Simpfendorfer, 2014",
@@ -32805,6 +32813,21 @@
       ],
       "title": ""
     },
+    "Anders Ericsson, 1993": {
+      "aliases": [
+        "Anders Ericsson, 1993",
+        "Anders Ericsson (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anders Ericsson, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Chance-Configuration Theory.md"
+      ],
+      "title": ""
+    },
     "Anders et al., 2017": {
       "aliases": [
         "Anders et al., 2017",
@@ -39249,6 +39272,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
@@ -133040,7 +133064,9 @@
         "Liu et al., 2021"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
+      ],
       "title": "Research on the influence of metacognitive strategies on primary and middle school students' academic performance from the perspective of technical support"
     },
     "Liu et al., 2024a": {
@@ -144239,6 +144265,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Goliath's Shadow.md",
@@ -186562,6 +186589,21 @@
       "seen_in": [],
       "title": "Domain-Specific Prior Knowledge and Learning: A Meta-Analysis"
     },
+    "Simonton, 1977": {
+      "aliases": [
+        "Simonton, 1977",
+        "Simonton (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simonton, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
+      ],
+      "title": ""
+    },
     "Simonton, 1988": {
       "aliases": [
         "Simonton, 1988",
@@ -186575,6 +186617,37 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/theories/science-policy/R-Model.md"
+      ],
+      "title": ""
+    },
+    "Simonton, 1989": {
+      "aliases": [
+        "Simonton, 1989",
+        "Simonton (1989)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simonton, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
+        "wiki/theories/science-policy/Chance-Configuration Theory.md"
+      ],
+      "title": ""
+    },
+    "Simonton, 1991": {
+      "aliases": [
+        "Simonton, 1991",
+        "Simonton (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simonton, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Chance-Configuration Theory.md"
       ],
       "title": ""
     },

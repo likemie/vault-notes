@@ -28,8 +28,12 @@ related_concepts:
   - "[[Hot Streak]]"
   - "[[Creativity]]"
   - "[[Scientific Productivity]]"
+  - "[[Disruption-Impact Time Lag]]"
   - "[[Epistemology]]"
+  - "[[Exploration-Exploitation in Science]]"
+  - "[[Matthew Effect in Academia]]"
   - "[[Operationalization]]"
+  - "[[Combinatorial Novelty]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Independent Variable]]"
@@ -37,10 +41,13 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Big Science]]"
 related_theories:
+  - "[[Chance-Configuration Theory]]"
   - "[[Constant-Probability-of-Success Model]]"
   - "[[Random Impact Rule]]"
+  - "[[Preferential Attachment in Academia]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Discounted Cumulative Gain]]"
   - "[[Analytic Framework]]"
   - "[[Disruption Index]]"
   - "[[Fixed-Effect Model]]"
@@ -59,16 +66,16 @@ sources:
 part_of:
 status: draft
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-04
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_2025_HSSC"
 argument_key: "Argument_Chen_2025_HSSC"
 argument_display_title: "Hot streaks and disruptiveness in the career of scientists: is there an association between both phenomena? Humanities and Social Sciences Communications, 12, Article 1424"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 36
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Humanities and Social Sciences Communications"
 book_title: ""
@@ -88,7 +95,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** [[Microsoft Academic Graph|微软学术图谱]]（Microsoft Academic Graph, MAG）中 21,271 位拥有 20 年以上研究经历、发表论著不少于 15 篇的经济学学者全生命周期产出记录，包含 241,158 篇经过被引与参考文献阈值清洗的代表性论著，并以计算机科学、地质学与生物学数据开展跨学科对照。
 > - **张力** 既有计量研究表明单篇最具颠覆性的工作往往仅获中等引用；而在长周期学术生涯尺度下，高被引集聚的爆发期究竟与知识颠覆脱节，还是遵循前沿突破在先、引文承认在后的共生规律，构成理解科学创造节奏的核心张力。
-> - **贡献** 首次在学者长周期全生涯尺度上确立学术爆发期兼具高颠覆度的实证特征；揭示颠覆峰值系统性早于引文峰值的学术时滞规律；引入折损累积增益算法（Discounted Cumulative Gain, DCG）有效解决多篇成果颠覆度聚合测度的技术瓶颈；为优化科技资助节奏、加大对中年探索期学者的高容错支持提供计量依据。
+> - **贡献** 首次在学者长周期全生涯尺度上确立学术爆发期兼具高颠覆度的实证特征；揭示颠覆峰值系统性早于引文峰值的[[Disruption-Impact Time Lag|颠覆—影响时序时滞]]规律；引入[[Discounted Cumulative Gain|折损累积增益]]算法（Discounted Cumulative Gain, DCG）有效解决多篇成果颠覆度聚合测度的技术瓶颈；为优化科技资助节奏、加大对中年探索期学者的高容错支持提供计量依据。
 
 ---
 
@@ -96,13 +103,15 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **学术爆发期理论**<br>[[Hot Streak]] | 界定创造性职业生涯中成果质量显著超越个人基线的暂态卓越时期，为将学者全生命周期划分为爆发期前、爆发期内、爆发期后三阶段提供时空[[Analytic Framework\|分析框架]]。 |
-> | **机会构型理论 / 成功恒定概率模型**<br>[[Constant-Probability-of-Success Model]] | [[Dean Keith Simonton\|迪恩·凯斯·西蒙顿]]（Dean Keith Simonton）提出的创造力认知模型（Simonton, 1997, 2004），指出重大突破源于海量随机尝试中的机遇配置；为颠覆性产出的时序随机性及发文规模对进入爆发期的正向预测作用提供理论解释。 |
+> | **机会构型理论**<br>[[Chance-Configuration Theory]] | [[Dean Keith Simonton\|迪恩·凯斯·西蒙顿]]（Dean Keith Simonton）提出的创造力认知模型（Simonton, 1989, 1991），指出重大突破源于海量随机尝试中的机遇配置；为颠覆性产出的时序随机性及发文规模对进入爆发期的正向预测作用提供理论解释。 |
+> | **成功恒定概率模型**<br>[[Constant-Probability-of-Success Model]] | 表明杰出产出率与总产出规模保持严格恒定比例，为机会构型机制在宏观成果序列上的等几率规律提供数理假说（Simonton, 1977, 1988）。 |
 > | **随机影响规律**<br>[[Random Impact Rule]] | 表明重大代表作在学者全生涯发表时序中均匀随机出现（[[Argument_Sinatra_2016_Science\|Sinatra et al., 2016]]），为检验颠覆性极值成果涌现时机提供统计无偏基准。 |
 > | **常规科学与科学革命理论**<br>[[Paradigm]] | [[Thomas Kuhn\|托马斯·库恩]]（Thomas S. Kuhn; Kuhn, 1962）关于常规科学解谜与科学革命范式更替的理论，为颠覆型研究（开启新方向）与巩固型研究（深化旧传统）提供[[Epistemology\|认识论]]区隔。 |
-> | **探索—利用动力学**<br>Exploration vs. Exploitation | 解释学者在爆发期前展开广泛涉猎探索、在爆发期内聚焦突破、在爆发期后利用成果红利的策略切换机制（March, 1991）。 |
+> | **探索—利用动力学**<br>[[Exploration-Exploitation in Science]] | 解释学者在爆发期前展开广泛涉猎探索、在爆发期内聚焦突破、在爆发期后利用成果红利的策略切换机制（March, 1991; Liu et al., 2021）。 |
+> | **优先连接与累积优势理论**<br>[[Preferential Attachment in Academia]] / [[Matthew Effect in Academia]] | 解释为何突破性成果需要经历长周期消化才能在网络中形成声誉集聚与高被引认可，阐明颠覆时滞的引文动力学机制（Barabási & Albert, 1999; Merton, 1968）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 托马斯·库恩（Thomas S. Kuhn）的范式理论将科学成果区分为开辟新路径的革命性工作与巩固旧框架的常规工作，[[Disruption Index|颠覆性指数]]从引文拓扑结构上将这一区隔[[Operationalization|操作化]]。西蒙顿的机会构型理论与成功恒定概率模型假定重大创新的涌现依赖持续尝试与盲目变异，由此推导出提高探索总量有助于触碰突破边界。结合学术爆发期理论与机会构型假说，将颠覆度测度置于学者生命周期演化视角下，形成发文尝试驱动机遇获取、爆发期迎来颠覆突破、后继工作走向常规巩固与引文扩散的解释逻辑。
+> 托马斯·库恩（Thomas S. Kuhn）的范式理论将科学成果区分为开辟新路径的革命性工作与巩固旧框架的常规工作，[[Disruption Index|颠覆性指数]]从引文拓扑结构上将这一区隔[[Operationalization|操作化]]，并与[[Combinatorial Novelty|组合新颖性]]区分。西蒙顿的[[Chance-Configuration Theory|机会构型理论]]与[[Constant-Probability-of-Success Model|成功恒定概率模型]]假定重大创新的涌现依赖持续尝试与盲目变异，由此推导出提高探索总量有助于触碰突破边界。结合学术爆发期理论与机会构型假说，将颠覆度测度置于学者生命周期演化视角下，形成发文尝试驱动机遇获取、爆发期迎来颠覆突破、后继工作走向常规巩固并通过[[Preferential Attachment in Academia|优先连接]]迎来引文扩散的解释逻辑。
 
 ---
 
@@ -111,12 +120,12 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable|变量]]操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **颠覆度差异（因变量）**<br>（D_diff） | 学者在爆发期内的学术颠覆度相对爆发期之前的净增量，表征爆发期激发的创造性范式转换强度。 | 采用折损累积增益算法分别计算爆发期内与爆发期前 2 年窗口的成果颠覆度总分：$D_{diff} = DCG(D_{during}) - DCG(D_{before})$。主模型基于去除自引与噪声的 $D_5$ 指数，稳健性检验采用无参考分母的 $D_{noR}^5$、百分位排序颠覆度以及求和加总法。 |
+> | **颠覆度差异（因变量）**<br>（D_diff） | 学者在爆发期内的学术颠覆度相对爆发期之前的净增量，表征爆发期激发的创造性范式转换强度。 | 采用[[Discounted Cumulative Gain|折损累积增益]]算法分别计算爆发期内与爆发期前 2 年窗口的成果颠覆度总分：$D_{diff} = DCG(D_{during}) - DCG(D_{before})$。主模型基于去除自引与噪声的 $D_5$ 指数，稳健性检验采用无参考分母的 $D_{noR}^5$、百分位排序颠覆度以及求和加总法。 |
 > | **爆发期时空特征（自变量）**<br>（length_hot, start_hot_period, start_year_hot） | 学者经历学术爆发期的持续时长与在生涯序列中开启的时间节点。 | `length_hot` 为爆发期持续年数（样本均值 3.67 年）；`start_hot_period` 为从学者首次发表到爆发期起始之间的年份跨度（样本均值 13.09 年）；`start_year_hot` 为爆发期起始年份相对学者平均生涯跨度的相对偏移量。 |
 > | **科研产出与生产力（自变量）**<br>（#pub_before, #pub_during, cits_num_*, D_num_*） | 学者在各阶段的发文总量、获得引用的文献数以及具有正向颠覆度成果的规模。 | `#pub_before` 与 `#pub_during` 分别记录对应时期的发文总数；`cits_num_before` 与 `cits_num_during` 为获得至少 1 次引用的论著数量；`D_num_before` 与 `D_num_during` 为颠覆度大于 0 的论著数量。 |
 > | **团队协作规模（控制变量）**<br>（team_size_before, team_size_during） | 学者在爆发期前后发表成果的平均署名规模。 | 计算对应时期内单篇论著合作人数的算术平均值，控制大团队倾向于巩固、小团队倾向于颠覆对个体成果指标的影响。 |
 >
-> **方法说明** 借助折损累积增益算法（DCG），引文网络衍生的单篇颠覆度得以聚合为学者阶段性指标，克服了算术平均易受低值稀释与求和法偏袒发文堆砌的缺陷。
+> **方法说明** 借助[[Discounted Cumulative Gain|折损累积增益]]算法（DCG），引文网络衍生的单篇颠覆度得以聚合为学者阶段性指标，克服了算术平均易受低值稀释与求和法偏袒发文堆砌的缺陷。
 
 ---
 
@@ -135,7 +144,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **全量引文网络清洗** | 基于微软学术图谱提取学者成果的自引网络与施引拓扑，设定 $I = 5$ 阈值（即施引文献必须引用焦点成果参考文献中至少 5 篇先驱成果才计入共引集合 $N_B^5$），有效剔除引文膨胀与偶然共引噪声，生成 $D_5$ 与 $D_{noR}^5$ 指标。 |
-> | **阶段产出聚合算法**<br>Discounted Cumulative Gain (DCG) | 借鉴信息检索领域的折损累积增益算法，按成果颠覆度或被引频次降序排列后施加对数位置折损权重：$DCG(D) = \sum_{i=1}^{p'} \frac{D_i}{\log_2(i+1)}$。克服算术平均数受大量低值成果稀释、直接求和偏袒单纯堆砌边缘成果的缺陷，突显顶尖成果的权重。 |
+> | **阶段产出聚合算法**<br>[[Discounted Cumulative Gain]] (DCG) | 借鉴信息检索领域的折损累积增益算法，按成果颠覆度或被引频次降序排列后施加对数位置折损权重：$DCG(D) = \sum_{i=1}^{p'} \frac{D_i}{\log_2(i+1)}$。克服算术平均数受大量低值成果稀释、直接求和偏袒单纯堆砌边缘成果的缺陷，突显顶尖成果的权重。 |
 > | **时序配对与计量回归** | 以爆发期前 2 年作为基准窗口，运用配对样本 t 检验比较爆发期前、中、后的 DCG 颠覆度分布差异；进而构建包含领域[[Fixed-Effect Model\|固定效应]]的多变量回归模型，识别爆发期长度、起始时机、产出规模与团队结构对颠覆度增量的影响机制。 |
 > | **跨学科有效性检验** | 将经济学核心分析框架与回归模型完整迁移至计算机科学、地质学与生物学三个学科样本中，验证爆发期高颠覆度及产出规模效应在更广泛学科情境下的稳健性。 |
 
@@ -235,7 +244,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Chen_2025_HSSC/figures/Chen_2025_HSSC_Fig7_Ddiff_Hot_Streak_Characteristics.jpg)
 > *按爆发期时长分组的颠覆度增量单调递增（左图），而爆发期在生涯中的起始与结束时间占比均未呈现方向性规律（中图、右图），印证颠覆突破时序降临的随机性。*
 
-> [!sub-claim] 2. 最具颠覆性的论著平均比最高引文论著早发表数年
+> [!sub-claim] 2. 最具颠覆性的论著平均比最高引文论著早发表数年（[[Disruption-Impact Time Lag|颠覆—影响时序时滞]]）
 
 > [!phase] 颠覆探索与引文爆发的时序阶段演进
 >
@@ -259,7 +268,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 爆发期内多发文通过试错提高颠覆突破概率
 
 > [!factors] 爆发期产出特征对颠覆度增量的驱动与制约机制
-> - **发文总量的试错拉动** 爆发期内的发文总量（`#pub_during`）对颠覆度增量具有高度显著的正向影响（模型 4 中 $\beta = 0.029, p < .001$；模型 3 中 $\beta = 2.026, p < .001$）。密集发表为学者提供了更广泛的概念重组与试验空间，印证了 Simonton (1997, 2004) 关于重大突破依赖海量试错规模的机遇构型机制。
+> - **发文总量的试错拉动** 爆发期内的发文总量（`#pub_during`）对颠覆度增量具有高度显著的正向影响（模型 4 中 $\beta = 0.029, p < .001$；模型 3 中 $\beta = 2.026, p < .001$）。密集发表为学者提供了更广泛的概念重组与试验空间，印证了 Simonton (1989, 1991, 2004) 关于重大突破依赖海量试错规模的[[Chance-Configuration Theory|机会构型机制]]。
 > - **常规高引的资源挤出** 期内被引论著数量（`cits_num_during`）呈现高度显著的负向抑制（模型 4 中 $\beta = -0.126, p < .001$）。高被引成果往往偏向既有范式内的常规解谜与渐进拓展，占用学者的认知带宽与探索精力。
 > - **颠覆产出的直接提升** 期内颠覆性论著数量（`D_num_during`）对颠覆度增量具有决定性拉动作用（模型 4 中 $\beta = 1.162, p < .001$），而前期颠覆底仓（`D_num_before`）产生负向基准效应（$\beta = -0.955, p < .001$）。
 
