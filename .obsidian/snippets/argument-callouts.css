@@ -26568,3 +26568,31 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type { white-space:normal !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type { white-space:normal !important; }
 /* <<< IMPLICATION AND METHOD CONTEXT */
+
+/* >>> THREE-ITEM EVIDENCE LAYOUT · 2026-11-03 */
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) { grid-template-columns:repeat(3,minmax(0,1fr)) !important; gap:.75rem 1.1rem !important; align-items:start; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li { grid-column:auto !important; grid-row:auto !important; padding:.75rem .25rem .25rem !important; min-height:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li > p:first-of-type > strong:first-of-type { margin-bottom:.35rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li > strong:first-of-type + br,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li > p:first-of-type > strong:first-child + br { display:none !important; }
+@container (max-width:820px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) { grid-template-columns:repeat(2,minmax(0,1fr)) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li:first-child { grid-column:1 / -1 !important; }
+}
+@container (max-width:600px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) { grid-template-columns:minmax(0,1fr) !important; gap:.6rem !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="evidence-grid"] > .callout-content > :is(ul,ol):has(> li:nth-child(3):last-child) > li:first-child { grid-column:auto !important; }
+}
+/* <<< THREE-ITEM EVIDENCE LAYOUT */
+
+/* >>> FIVE-ITEM FINDINGS LAYOUT · 2026-11-03 */
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) { grid-template-columns:repeat(2,minmax(0,1fr)) !important; gap:.75rem 1.35rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li { grid-column:auto !important; grid-row:auto !important; min-height:0 !important; padding:.75rem .3rem .4rem 2.1rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li:last-child { grid-column:1 / -1 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li > p:first-of-type > strong:first-of-type { margin-bottom:.35rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li > strong:first-of-type + br,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li > p:first-of-type > strong:first-child + br { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li::before { top:.82rem !important; }
+@container (max-width:600px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) { grid-template-columns:minmax(0,1fr) !important; gap:.6rem !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="finding-cards"] > .callout-content > :is(ul,ol):has(> li:nth-child(5):last-child) > li:last-child { grid-column:auto !important; }
+}
+/* <<< FIVE-ITEM FINDINGS LAYOUT */

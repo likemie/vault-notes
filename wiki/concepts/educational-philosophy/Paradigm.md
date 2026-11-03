@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 85
+related_count: 86
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---

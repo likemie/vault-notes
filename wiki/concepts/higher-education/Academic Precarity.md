@@ -10,7 +10,7 @@ aliases:
 summary: "刻画当代高等教育与科研体系中普遍存在的结构性劳动力脆弱性状态。由于博士与博士后规模急剧扩张而终身教职增长停滞，青年学者长期受困于短期流动合同、软钱资助周期与层级依附，正职初聘年龄推迟，且微小外部评价挫折即可触发高概率离职流失。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

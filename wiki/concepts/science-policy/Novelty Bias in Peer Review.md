@@ -10,10 +10,10 @@ aliases:
 summary: "指在学术资助申请与同行评议中，评审专家对高度新颖的跨学科探索与非常规概念组合系统性打出偏低评分并规避风险的认知偏误；双盲实验与国家基金实证表明，申请书新颖性与跨学科认知距离越高，获资助概率越显著走低，确立了同行评审系统性的风险厌恶壁垒。"
 type: concept
 domain: "science-policy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/peer-review
