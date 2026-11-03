@@ -1,6 +1,7 @@
 ---
 citation: "Haubrock, P. J., Kouba, A., Soto, I., Abreo, N. A. S., Vilizzi, L., Błońska, D., Tarkan, A. S., De Santis, V., Sousa, R., Nogueira, A. B., Heeren, S., Nogueira, J. G., Cano-Barbacil, C., Cremella, B., Strubbe, D., Silva, J. P. d., Poloni, R., Deschepper, P., Thoré, E. S. J., ... Everts, T. (2026). How contemporary academic structures constrain scientific creativity and hold back early-career researchers. Nature Human Behaviour, Advance online publication. https://doi.org/10.1038/s41562-026-02575-5"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Haubrock_2026_NHB]]"
 processed_date: 2026-11-03
 ---
 
