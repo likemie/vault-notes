@@ -7039,10 +7039,12 @@
     "Ennis & Weir, 1985": "Ennis & Weir, 1985",
     "Ennis (1987)": "Ennis, 1987",
     "Ennis (1989)": "Ennis, 1989",
+    "Ennis (1993)": "Ennis, 1993",
     "Ennis et al. (2005)": "Ennis et al., 2005",
     "Ennis et al., 2005": "Ennis et al., 2005",
     "Ennis, 1987": "Ennis, 1987",
     "Ennis, 1989": "Ennis, 1989",
+    "Ennis, 1993": "Ennis, 1993",
     "Enosh et al. (2015)": "Enosh et al., 2015",
     "Enosh et al., 2015": "Enosh et al., 2015",
     "Ensergueix (2011)": "Ensergueix, 2011",
@@ -78700,6 +78702,21 @@
         "wiki/concepts/competency-and-assessment/Critical Thinking Disposition.md",
         "wiki/concepts/educational-psychology/Domain Specificity.md",
         "wiki/theories/curriculum/Ennis's Curricular Typology.md"
+      ],
+      "title": ""
+    },
+    "Ennis, 1993": {
+      "aliases": [
+        "Ennis, 1993",
+        "Ennis (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ennis, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Domain Specificity.md"
       ],
       "title": ""
     },

@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -260,7 +260,7 @@ updated: 2026-11-03
 > > - **小团队颠覆保护派** 指出颠覆性科学发现多源于边缘敏捷小团队，过度集权资助会导致科学源头活力枯竭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–133)]]
 
 > [!warning|limits] 适用局限
-> 大科学组织模式适用于界定清晰、具有明确客观物理工程技术里程碑与高资本设备需求的攻关任务；不适用于高度依赖个人自由探索、非常规假说试错的颠覆性早期科学，亦难以直接迁移至涉及复杂价值观念、生活习惯与利益博弈的社会系统治理领域。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 132–133)]]
+> 大科学组织模式适用于界定清晰、具有明确客观物理工程技术里程碑与高资本设备需求的攻关任务；不适用于高度依赖个人自由探索、非常规假说试错的颠覆性早期科学，亦难以直接迁移至涉及复杂价值观念、生活习惯与利益博弈的社会系统治理领域（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 794–795]]；[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021, pp. 132–133]]）。此外，在数千人跨国协作的极端大科学实验中，基于常规小团队学科检验的个人学术爆发期与颠覆性创造力法则亦面临明确的组织生态与学科特异性泛化边界（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）。
 
 ---
 
@@ -277,7 +277,25 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Domain Specificity]] | 概念 | 科学学规律在不同学科中的泛化边界，数千人极端大科学实验与小团队常规学科呈现显著组织分殊。 |
+> | [[Focused Research Organization]] | 概念 | 智能时代新型大科学组织形态，填补高校单 PI 课题组与企业商业开发之间的工程公共品攻关空白。 |
+> | [[Megascience Installations]] | 概念 | 大科学模式的核心物质载体，如对撞机、超算与光源，具有高资本消耗与集约化调度特征。 |
+> | [[Disruption Index]] | 方法 | 测度科技成果开辟新方向与颠覆旧技术程度的引文拓扑指标，实证揭示大团队倾向发展而非颠覆。 |
+> | [[Social Contract of Science]] | 理论 | 基础科学与国家之间的公共资助契约，大科学成本膨胀与审计刚性化推升了契约合法性危机。 |
+> | [[National Innovation System]] | 概念 | 国家的制度性科研架构，冷战经验揭示缺乏民用微观反馈的封闭军工大科学易引发系统失灵。 |
+> | [[Alvin Weinberg]] | 人物 | 橡树岭国家实验室主任，最早提出大科学概念并系统反思大科学工程向社会问题迁移的局限性。 |
+> | [[Derek de Solla Price]] | 人物 | 科学计量学奠基人，在《小科学，大科学》（1963）中奠定科学知识与人员指数增长规律。 |
+> | [[Dashun Wang]] | 人物 | 计算科学学者，实证确立大小团队组织规模创新分工法则及学术劳动力管道梗阻机制。 |
+> | [[Mariana Mazzucato]] | 人物 | 使命导向创新政策学者，系统剖析大科学攻关在需求侧公共采购倒逼产业工艺创新的外溢机制。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 探讨学术爆发期与创造力机会构型规律在常规学科（经济学、生物学、地质学）的稳健性，并指出其在数千人跨国协作的物理大科学实验等极端领域的泛化边界。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》综述中系统评述团队规模膨胀与现代大科学协作，以 CERN LHC 极端工程协作剖析大科学设施攻关优势及信用分配与复现治理难题。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 确立大科学团队发展、小团队颠覆法则（Unit 05），并揭示大科学文献指数扩张与博士过度生产伴随的教职滞后断层（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 161–172]]）。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐释大科学在人工智能时代的范式重构，剖析聚焦研究组织与前竞争联合体治理机制。
