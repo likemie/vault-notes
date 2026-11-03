@@ -37,7 +37,8 @@
               "title": "Argument_Wang_Barabasi_2021_Cambridge"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,8 +253,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "23341fc83e2eb64c",
+  "active": "8cf060930e9cdf12",
   "lastOpenFiles": [
+    "wiki/methods/quantitative/Disruption Index.md",
     "tmp/callout-refinement/theory-foundation-inspect/mobile-page-01.jpg",
     "tmp/callout-refinement/theory-foundation-inspect/mobile-fold.jpg",
     "tmp/callout-refinement/theory-foundation-inspect/tablet-page-01.jpg",
