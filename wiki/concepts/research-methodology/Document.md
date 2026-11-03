@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-24
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 ---
@@ -159,7 +159,7 @@ updated: 2026-10-31
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 文献载体的物质原真性 vs 数字化虚拟可及性
 > > 历史学者关于数字化文献能否完全替代实体档案的认识论分歧。
@@ -178,5 +178,18 @@ updated: 2026-10-31
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Primary and Secondary Documents]] | 概念 | 文献依见证直接性与分析后摄性划分的基本类型层次。 |
+> | [[Virtual Documents]] | 概念 | 数字化网络环境下呈现与流通的非实体文献形态。 |
+> | [[Artefact]] | 概念 | 区别于文本符号记录的物质人工历史制品。 |
+> | [[Documentary Analysis]] | 方法 | 考证与解读各类文献真实性、可靠性与意义的核心研究方法。 |
+> | [[Transcription in Qualitative Research]] | 方法 | 将口头音频记录转译为可供分析的文本形式的技术规程。 |
+> | [[Critical Theory]] | 理论 | 用于解构官方文献中隐含的意识形态霸权与权力关系的理论脉络。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011)]] — 提出文献四轴分类体系，阐明一手二手界限与虚拟文献特征；引介 Cunningham（1992，报刊教师形象）、Foster（1999，教材族群）、Mangan（1986，公学刊物）与 Vincent（1981，工人自传）等实证案例。

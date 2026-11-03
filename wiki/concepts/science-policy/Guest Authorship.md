@@ -13,7 +13,7 @@ aliases:
 summary: "指未达到学术合署最低贡献标准，仅因行政职权、实验室空间提供、资金获取或人际礼遇而被列入正式署名名单的学术失范现象；其发生率随团队规模膨胀呈显著非线性上升，在依赖位次贡献序的学科中尤为普遍，主要受学术职称晋升激励与科层权力交换驱动。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,16 +36,19 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Phillip J. Haubrock]]"
+  - "[[Teun Everts]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
-status: draft
+status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 ---
@@ -126,6 +129,7 @@ updated: 2026-10-31
 > - **20 世纪中叶 — 团队规模化萌生阶段** 随着大[[Science Programs|科学项目]]兴起，合著人数迅速递增，资助人挂名与教研室主任惯例列名现象初现端倪。
 > - **2000s — 实证调查与伦理规训阶段** 国际医学期刊编辑委员会（ICMJE）出台四项合署资格标准，实证研究证实 33% 成果存在不当合署。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
 > - **2010s — 细粒度[[Author Contribution Disclosures|贡献声明]]推行阶段** 期刊通过强制自陈各个具体任务分工，试图利用信息透明度遏制纯粹名义挂名空间。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 137)]]
+> - **2026 — 学术门阀网络与成果向上摄取批判** 豪布罗克等系统批判学术领主庇护体系下的赠礼署名（Gift Authorship）与互引卡特尔，揭示资深学术权威对青年学者创造力成果的无偿向上摄取机制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 
@@ -150,5 +154,18 @@ updated: 2026-10-31
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Ghost Authorship]] | 概念 | 挂名署名与幽灵署名构成学术贡献与名义承认错位的反向两极。 |
+> | [[Academic Inbreeding]] | 概念 | 门阀化近亲繁殖网络是强推资深学者赠礼挂名的组织温床。 |
+> | [[Strategic Conformity in Academia]] | 概念 | 青年学者为换取考评庇护而主动向学术权威让渡署名的策略。 |
+> | [[Alphabetical Authorship]] | 概念 | 对防御名义挂名具有天然制度抵抗力的高门槛署名规范。 |
+> | [[Author Contribution Disclosures]] | 概念 | 期刊推行用于挤压名义挂名与虚假合署的细粒度透明度规程。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Wang and Barabási (2021)]] — 揭示挂名署名随团队规模急剧上升的规律，剖析晋升考评驱动下的学术声誉寻租机制。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统批判学术领主门阀体系下的赠礼署名（Gift Authorship）与互引卡特尔，揭示层级权力垄断对青年学者独创成果的向上摄取。
