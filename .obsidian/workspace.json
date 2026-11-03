@@ -81,9 +81,24 @@
               "icon": "lucide-file",
               "title": "广东省民政事业发展十五五规划_全文1至26页_合并校对稿"
             }
+          },
+          {
+            "id": "ab72653b149292ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_全文1至26页_合并校对稿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "广东省民政事业发展十五五规划_全文1至26页_合并校对稿"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,8 +313,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c14e7a13503cf3a9",
+  "active": "ab72653b149292ad",
   "lastOpenFiles": [
+    "sources/Chen_2025_HSSC/figures",
+    "sources/Chen_2025_HSSC/Chen_2025_HSSC.md",
+    "sources/Chen_2025_HSSC/Chen_2025_HSSC.pdf",
+    "sources/Chen_2025_HSSC",
+    "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
+    "sources/Chen_2025_HSSC.md",
+    "sources/Chen_2025_HSSC.pdf",
     "raw_extracted_text.txt",
     "wiki/facts/eu/Marie Skłodowska-Curie Actions.md",
     "wiki/concepts/science-policy/Slow Science.md",
@@ -315,22 +337,18 @@
     "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-009/result.json",
     "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-008/result.json",
     "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-007/result.json",
-    "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-006/result.json",
     "wiki/concepts/science-policy/Scientific Productivity.md",
-    "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-005/result.json",
     "wiki/facts/global/Internet Movie Database.md",
     "wiki/facts/global/Google Scholar.md",
     "wiki/concepts/science-policy/Career Collective Impact.md",
     "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
     "wiki/concepts/science-policy/Metascience.md",
-    "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-004/result.json",
     "tmp/callout-refinement/proposition-topic-dark-390.png",
     "tmp/callout-refinement/proposition-topic-dark-768.png",
     "tmp/callout-refinement/proposition-topic-dark-1440.png",
     "tmp/callout-refinement/proposition-topic-light-390.png",
     "tmp/callout-refinement/proposition-topic-light-768.png",
     "tmp/callout-refinement/proposition-topic-light-1440.png",
-    "tmp/callout-refinement/proposition-topic-check.log",
     "tmp/callout-refinement/proposition-topic-inspect/mobile-page-01.jpg",
     "tmp/callout-refinement/proposition-topic-inspect/mobile-fold.jpg",
     "tmp/callout-refinement/proposition-topic-inspect/tablet-page-01.jpg",
@@ -343,9 +361,6 @@
     "wiki/facts/global/UNESCO Institute for Statistics.md",
     "wiki/concepts/higher-education/Postdoctoral Pileup.md",
     "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-012/prompt.md",
-    "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-001/prompt.md",
-    "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-011/prompt.md",
-    "output/related-updates/Argument_Haubrock_2026_NHB-fa081e51/batch-010/prompt.md",
     "未命名.canvas"
   ]
 }
