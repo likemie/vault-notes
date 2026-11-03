@@ -58738,14 +58738,15 @@
     },
     "Kuhn, 1962": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780226458083",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md",
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/concepts/educational-philosophy/Incommensurability.md",
         "wiki/concepts/educational-philosophy/Paradigm.md"
       ],
-      "title": ""
+      "title": "The Structure of Scientific Revolutions"
     },
     "Kuhn, 1970": {
       "doi": "",
@@ -67133,9 +67134,10 @@
       "title": ""
     },
     "March, 1991": {
-      "doi": "",
+      "doi": "10.1287/orsc.2.1.71",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md",
         "wiki/concepts/science-policy/Exploration-Exploitation in Science.md",
         "wiki/concepts/science-policy/Institutionalising Social Learning.md",
@@ -67143,7 +67145,7 @@
         "wiki/concepts/science-policy/Public Dynamic Capabilities.md",
         "wiki/persons/austria/Joseph Schumpeter.md"
       ],
-      "title": ""
+      "title": "Exploration and Exploitation in Organizational Learning"
     },
     "Marcucci, 1980": {
       "datasets": [
@@ -96201,6 +96203,14 @@
         "wiki/theories/science-policy/R-Model.md"
       ],
       "title": ""
+    },
+    "Simonton, 1997": {
+      "doi": "10.1037/0033-295X.104.1.66",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
+      ],
+      "title": "Creative productivity: A predictive and explanatory model of career trajectories and landmarks"
     },
     "Simpfendorfer, 2014": {
       "doi": "",
