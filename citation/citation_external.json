@@ -2189,6 +2189,8 @@
     "Berelson, 1952": "Berelson, 1952",
     "Bereményi & Carrasco (2018)": "Bereményi & Carrasco, 2018",
     "Bereményi & Carrasco, 2018": "Bereményi & Carrasco, 2018",
+    "Berg & Seeber (2025)": "Berg & Seeber, 2025",
+    "Berg & Seeber, 2025": "Berg & Seeber, 2025",
     "Berg & Timmermans (2000)": "Berg & Timmermans, 2000",
     "Berg & Timmermans, 2000": "Berg & Timmermans, 2000",
     "Berg (1957)": "Berg, 1957",
@@ -6795,6 +6797,8 @@
     "Edwards & Mercer, 1987": "Edwards & Mercer, 1987",
     "Edwards & Potter (1993)": "Edwards & Potter, 1993",
     "Edwards & Potter, 1993": "Edwards & Potter, 1993",
+    "Edwards & Roy (2017)": "Edwards & Roy, 2017",
+    "Edwards & Roy, 2017": "Edwards & Roy, 2017",
     "Edwards & Usher (2000)": "Edwards & Usher, 2000",
     "Edwards & Usher, 2000": "Edwards & Usher, 2000",
     "Edwards (1972)": "Edwards, 1972",
@@ -9974,7 +9978,9 @@
     "Hanson (2011)": "Hanson, 2011",
     "Hanson (2012)": "Hanson, 2012",
     "Hanson et al. (1988)": "Hanson et al., 1988",
+    "Hanson et al. (2024)": "Hanson et al., 2024",
     "Hanson et al., 1988": "Hanson et al., 1988",
+    "Hanson et al., 2024": "Hanson et al., 2024",
     "Hanson, 1958": "Hanson, 1958",
     "Hanson, 2003": "Hanson, 2003",
     "Hanson, 2011": "Hanson, 2011",
@@ -19672,6 +19678,8 @@
     "Rhea, 2007": "Rhea, 2007",
     "Rheem (1959)": "Rheem, 1959",
     "Rheem, 1959": "Rheem, 1959",
+    "Rhodes & Linnenluecke (2025)": "Rhodes & Linnenluecke, 2025",
+    "Rhodes & Linnenluecke, 2025": "Rhodes & Linnenluecke, 2025",
     "Rhodes (1961)": "Rhodes, 1961",
     "Rhodes (1996)": "Rhodes, 1996",
     "Rhodes (2001)": "Rhodes, 2001",
@@ -20297,6 +20305,8 @@
     "Rotter, 1954": "Rotter, 1954",
     "Rotter, 1966": "Rotter, 1966",
     "Rotter, 1975": "Rotter, 1975",
+    "Rouby (2026)": "Rouby, 2026",
+    "Rouby, 2026": "Rouby, 2026",
     "Rouse & Spohrer (2018)": "Rouse & Spohrer, 2018",
     "Rouse & Spohrer, 2018": "Rouse & Spohrer, 2018",
     "Rouse (2004)": "Rouse, 2004",
@@ -43216,6 +43226,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Cultural Capital.md"
+      ],
+      "title": ""
+    },
+    "Berg & Seeber, 2025": {
+      "aliases": [
+        "Berg & Seeber, 2025",
+        "Berg & Seeber (2025)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Berg & Seeber, 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Slow Science.md"
       ],
       "title": ""
     },
@@ -76897,6 +76922,21 @@
       ],
       "title": ""
     },
+    "Edwards & Roy, 2017": {
+      "aliases": [
+        "Edwards & Roy, 2017",
+        "Edwards & Roy (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Edwards & Roy, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Junkification of Research.md"
+      ],
+      "title": ""
+    },
     "Edwards & Usher, 2000": {
       "aliases": [
         "Edwards & Usher, 2000",
@@ -85109,7 +85149,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
-        "wiki/concepts/science-policy/Scientific Creativity.md"
+        "wiki/concepts/science-policy/Scientific Creativity.md",
+        "wiki/concepts/science-policy/Slow Science.md"
       ],
       "title": ""
     },
@@ -100117,6 +100158,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Social skill training: a critical meta-analytic review"
+    },
+    "Hanson et al., 2024": {
+      "aliases": [
+        "Hanson et al., 2024",
+        "Hanson et al. (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hanson et al., 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Junkification of Research.md"
+      ],
+      "title": ""
     },
     "Hanson, 1958": {
       "aliases": [
@@ -170453,6 +170509,21 @@
       ],
       "title": ""
     },
+    "Rhodes & Linnenluecke, 2025": {
+      "aliases": [
+        "Rhodes & Linnenluecke, 2025",
+        "Rhodes & Linnenluecke (2025)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rhodes & Linnenluecke, 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Junkification of Research.md"
+      ],
+      "title": ""
+    },
     "Rhodes, 1961": {
       "aliases": [
         "Rhodes, 1961",
@@ -175014,6 +175085,21 @@
       "seen_in": [
         "wiki/persons/us/Julian B. Rotter.md",
         "wiki/theories/educational-psychology/Social Learning Theory.md"
+      ],
+      "title": ""
+    },
+    "Rouby, 2026": {
+      "aliases": [
+        "Rouby, 2026",
+        "Rouby (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rouby, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Slow Science.md"
       ],
       "title": ""
     },

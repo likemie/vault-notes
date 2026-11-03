@@ -16681,6 +16681,20 @@
     ]
   },
   {
+    "title": "Junkification of Research",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Junkification of Research.md",
+    "aliases": [
+      "研究劣质化",
+      "学术劣质化",
+      "科研成果劣质化",
+      "学术生产垃圾化",
+      "研究垃圾化",
+      "junkification of science",
+      "research junkification"
+    ]
+  },
+  {
     "title": "Knowledge Hotspots",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Knowledge Hotspots.md",
@@ -17300,6 +17314,20 @@
       "延迟认可",
       "Sleeping Beauties",
       "Delayed Recognition"
+    ]
+  },
+  {
+    "title": "Slow Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Slow Science.md",
+    "aliases": [
+      "慢科学",
+      "慢科学运动",
+      "慢学术",
+      "慢速科学",
+      "slow science movement",
+      "slow academia",
+      "slow productivity in science"
     ]
   },
   {
@@ -36461,6 +36489,21 @@
       "LEONARDO Programme",
       "达·芬奇计划",
       "达芬奇项目"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Marie Skłodowska-Curie Actions",
+    "type": "fact",
+    "path": "wiki/facts/eu/Marie Skłodowska-Curie Actions.md",
+    "aliases": [
+      "玛丽·斯克沃多夫斯卡-居里行动计划",
+      "玛丽·居里行动计划",
+      "玛丽居里行动计划",
+      "玛丽居里奖学金",
+      "MSCA",
+      "Marie Curie Actions",
+      "Marie Skłodowska-Curie Postdoctoral Fellowships"
     ],
     "subtype": "program"
   },

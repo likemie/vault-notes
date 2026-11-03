@@ -62,6 +62,8 @@ related_concepts:
   - "[[Modified Lottery in Research Funding]]"
   - "[[White Bull Effect]]"
   - "[[Precarity Paradox]]"
+  - "[[Junkification of Research]]"
+  - "[[Slow Science]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods:
@@ -79,6 +81,7 @@ related_facts:
   - "[[UNESCO Institute for Statistics]]"
   - "[[UNESCO]]"
   - "[[EU]]"
+  - "[[Marie Skłodowska-Curie Actions]]"
   - "[[National Science Foundation]]"
   - "[[Declaration on Research Assessment]]"
   - "[[Engineering Research Centers]]"
@@ -95,7 +98,7 @@ title: "Argument_Haubrock_2026_NHB"
 argument_key: "Argument_Haubrock_2026_NHB"
 argument_display_title: "How contemporary academic structures constrain scientific creativity and hold back early-career researchers"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -241,7 +244,7 @@ publisher: "Nature Publishing Group"
 > - **公共资金流失转移** 强制性开放获取合规要求迫使各国大学将巨额公共科研经费转账注入商业出版巨头的利润账户，挤占了原本用于支持聘用青年学者与实验基础设施的长期财力。
 
 > [!mechanism] 发表通胀与选题平庸化的自适应循环
-> 为了争夺有限的版面与期刊关注度，学者被迫将精力投向叙事过度包装与热点追逐，以低风险、可快速见刊的小步迭代成果维持履历声望，直接导致学术成果的大规模增量化与垃圾化（Junkification）。
+> 为了争夺有限的版面与期刊关注度，学者被迫将精力投向叙事过度包装与热点追逐，以低风险、可快速见刊的小步迭代成果维持履历声望，直接导致[[Junkification of Research|学术成果的大规模劣质化与垃圾化（Junkification）]]。
 
 > [!tension] 评价导向张力｜期刊声望符号资本与成果实质科学价值的脱钩
 > - **期刊声望符号资本** 高校与资助机构高度依赖[[Journal Impact Factor|期刊影响因子]]（Journal Impact Factor, JIF）与期刊引证报告（Journal Citation Reports, JCR）分区作为人才选拔的代理指标，诱发对顶刊标签的盲目崇拜。
@@ -270,7 +273,7 @@ publisher: "Nature Publishing Group"
 > 资助机构日益推行主题导向与地理绑定的战略资助框架，将资金集中投放于少数卓越中心与头部机构，造成绝大多数中小研究团队承担了极为繁重的标书起草与行政报销成本，却鲜能获得实际回报，产生巨大的智识空转。
 
 > [!case] 欧洲前沿资助实证｜2025 玛丽·居里行动计划博士后奖学金的极度内耗
-> - **立项竞争白热化** 2025 年[[EU|欧盟]]玛丽·斯克沃多夫斯卡-居里行动计划（Marie Skłodowska-Curie Actions, MSCA）博士后奖学金共收到 17,066 份申请，评审委员会经严格审查判定其中 15,836 份（占 92.8%）完全具备立项资助资格。
+> - **立项竞争白热化** 2025 年[[EU|欧盟]][[Marie Skłodowska-Curie Actions|玛丽·斯克沃多夫斯卡-居里行动计划]]（Marie Skłodowska-Curie Actions, MSCA）博士后奖学金共收到 17,066 份申请，评审委员会经严格审查判定其中 15,836 份（占 92.8%）完全具备立项资助资格。
 > - **预算硬约束与畸高门槛** 受制于财政总额刚性约束，最终仅有 1,610 项获得立项资助，获批率骤降至 9.6%，立项门槛要求专家打分总评超过 96 分。
 > - **无谓行政精力损耗** 超过 1.4 万名具备顶尖科研潜质的优秀青年学者及其合作团队，耗费数月心血起草撰写数百页基金标书，其智识投入在微小偶然的分数折损中遭遇彻底空转。
 > - **国家层面资金高度集聚** 在法国国家研究署（Agence Nationale de la Recherche, ANR）的竞争性科研经费分配中，前 20% 的头部大学与科研院所吸纳了全法 80% 的总经费池，固化了阶层壁垒。
@@ -292,7 +295,7 @@ publisher: "Nature Publishing Group"
 > [!sub-claim] 1. 延长资助周期并引入抽签机制能降低内耗并保护慢科学
 
 > [!pathways] 慢科学长周期资助与遴选改革路径
-> - **扩充基线拨付与延长资助周期** 各级政府与高校必须扩充稳定常态的基线经费拨付机制（[[Block Grants]]），摆脱大学对碎片化短期竞争性课题的病态依赖；在项目总预算不变的约束下延长单项资助执行周期，显著降低每单位资金的边际低效损耗（Fortin & Currie, 2013），为探索性慢科学（Slow Science）提供充足的缓冲空间。
+> - **扩充基线拨付与延长资助周期** 各级政府与高校必须扩充稳定常态的基线经费拨付机制（[[Block Grants]]），摆脱大学对碎片化短期竞争性课题的病态依赖；在项目总预算不变的约束下延长单项资助执行周期，显著降低每单位资金的边际低效损耗（Fortin & Currie, 2013），为[[Slow Science|探索性慢科学（Slow Science）]]提供充足的缓冲空间。
 > - **设立探索通道与适度抽签机制** 资助机构应当建立独立的探索型通道，推行对失败免责的包容性资助标准，在通过初筛的前提下引入[[Modified Lottery in Research Funding|资助适度随机抽签制]]（Modified Lottery），打破因微小分值差异引发的残酷过度竞争。
 > - **精简行政层级与去官僚化** 高校必须削减不必要的行政官僚层级，精简[[Audit Trail|审计追踪]]负担，将时间与精力归还给一线的潜心教学与科学沉思。
 
