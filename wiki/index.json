@@ -9301,6 +9301,18 @@
     ]
   },
   {
+    "title": "Doctoral Dissertation",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Doctoral Dissertation.md",
+    "aliases": [
+      "博士学位论文",
+      "学位论文",
+      "博士论文",
+      "doctoral thesis",
+      "PhD dissertation"
+    ]
+  },
+  {
     "title": "Double Spatiality of Universities",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Double Spatiality of Universities.md",
@@ -9751,6 +9763,17 @@
       "心智产品化",
       "美国心智产品化",
       "productization of the American mind"
+    ]
+  },
+  {
+    "title": "Professional Interest",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Professional Interest.md",
+    "aliases": [
+      "专业志趣",
+      "学术志趣",
+      "志趣",
+      "academic interest"
     ]
   },
   {
@@ -25403,6 +25426,18 @@
       "横截面调查",
       "cross-sectional survey",
       "cross-sectional design"
+    ]
+  },
+  {
+    "title": "Curriculum Vitae Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Curriculum Vitae Analysis.md",
+    "aliases": [
+      "简历分析法",
+      "履历分析法",
+      "CV分析法",
+      "CV analysis",
+      "curriculum vitae method"
     ]
   },
   {
@@ -48300,6 +48335,11 @@
     "title": "Argument_Fan_2026_BCAS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
+  },
+  {
+    "title": "Argument_Zhang_Zhao_2026_EDR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
   },
   {
     "title": "Argument_Yu_Xie_2025_JHE",

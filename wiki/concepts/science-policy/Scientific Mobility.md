@@ -9,7 +9,7 @@ aliases:
 summary: "指科研人员在不同国家、区域或学术机构之间的地理与聘任迁移；科学学实证检验揭示跨国流动学者的引文优势主要源于优秀学者获得流动机会的事前选择性偏差，且跨校流动普遍遵循同等声望阶梯；在控制个体科研能力后，机构排位的升降并未对学者后续研究影响力产生系统性增减，证实是学者造就机构而非机构造就学者（Fortunato et al., 2018）。"
 type: concept
 domain: "science-policy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -33,10 +33,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Zhang_Zhao_2026_EDR]]"
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -104,11 +105,20 @@ updated: 2026-11-03
 
 ---
 
+> [!concept-proposition] 命题三｜学术流动的实质塑造力取决于关键阶段向学术中心的高质量嵌入
+> **阶段窗口与中心场域嵌入** 这类命题探讨学术流动的塑造力如何随受教育阶段演变，以及物理空间迁移是否必然转化为学术成长动能。
+>
+> > [!claim] [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]]
+> > **研究生阶段中心场域高质量嵌入的决定性** 对 1901—2025 年 757 位诺贝尔奖得主受教育历程的动态异质性分析表明，学术流动的塑造力在于能否在研究生等科研训练关键阶段进入全球学术中心并实现高质量嵌入，而非简单的物理空间位移；跨校流动绝大多数集中于研究生阶段（硕士 20.48%、博士 73.95%），且世界一流大学在流动网络中占据核心枢纽。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, pp. 33–34)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **选择性偏差命题** | 跨国流动学者的引文溢价源于事前能力筛选而非纯粹地理环境激励 | 国际学术劳动力流动与人才引进计划评估 | Sugimoto et al. (2017); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **个体决定机构命题** | 机构声望排位变迁无法系统性改变学者成果的学术影响力轨迹 | 大学声望评价与高层次学者跨校聘任机制 | Deville et al. (2014); [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
+> | **中心嵌入命题** | 学术流动塑造力取决于研究生关键阶段向全球学术中心的高质量嵌入 | 拔尖创新人才跨境跨校培养与学术网络布局 | [[Argument_Zhang_Zhao_2026_EDR\|张娟和赵祥辉 (2026)]] |
 
 ---
 
@@ -149,3 +159,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统阐明学术流动的声望同质层级匹配规律，基于学者跨校跳槽引文追踪证实机构排位并不因果改变学者个人学术影响力，确立学者造就机构的核心论断（p. 4）。
+> - [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]] — 基于 757 位诺贝尔奖得主履历证实学术流动的塑造力在于关键科研训练阶段进入学术中心的高质量嵌入，而非单纯空间位移（pp. 33–34）。
