@@ -10,10 +10,10 @@ aliases:
 summary: "指将私营企业的市场逻辑、绩效问责、契约管理与成本中心核算移植到公共教育特别是高等教育机构中的治理范式，强调通过目标量化、审计文化与行政集权重构学术组织。"
 type: concept
 domain: "higher-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/higher-education
   - theme/educational-governance
@@ -31,6 +31,9 @@ related_concepts:
   - "[[Externalization]]"
   - "[[New Public Management]]"
   - "[[International Education]]"
+  - "[[Scientific Creativity]]"
+  - "[[Academic Precarity]]"
+  - "[[Block Grants]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Academic Capitalism]]"
@@ -45,10 +48,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Grace_2010_NZJES]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -56,23 +60,23 @@ updated: 2026-11-02
 > [!def] New Managerialism
 > 新管理主义（New Managerialism）是指伴随新自由主义公共部门改革，将私营企业的市场竞争逻辑、企业化科层管控、绩效量化指标与契约化问责体系全盘移植到教育机构（特别是高等教育系统）中的治理模式。该模式将大学与中小学重塑为自负盈亏的法人实体，将学者与教师重构为绩效合约的执行雇员，将学生定位为教育消费者。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向公共教育机构内部权力结构向专业管理者与行政考核指标倾斜的组织控制逻辑。
 > - **用途** 帮助研究者透视高等教育市场化、学术劳工无产阶级化以及量化审计文化如何重塑大学的科研与教学实践。
 > - **边界** 不等于传统的韦伯式科层行政（[[Bureaucracy]]），也不等于一般意义上的学术质量评估；其核心特质在于以市场收益、外包竞争与目标产出替代传统的同行自主与专业声誉。
 
-> [!citation-card] 市场化规训与学术机构的新管理主义
+> [!citation-card|notitle] 市场化规训与学术机构的新管理主义
 > 在高等教育层面，新管理主义将市场的语言与逻辑全面应用于监督学术单位的日常运作与产出成果。政府在缩减公共开支的同时，强调选择、问责、标准与测试，国家的角色转变为设定目标与优先事项，并通过绩效评估来审查次级行政单元乃至单所学校是否达成了预期结果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 >
-> *At the higher education level, there is the "new managerialism" that applies the language and logic of the market place to overseeing the operations and outcomes of academic units... Government policies based on these notions have led to a drastic reduction in the state's role in social spending... with the state's role to specify goals and priorities and evaluate whether or not the various subnational administrative units, and even individual schools, [[Achieve]] the desired results.*
+> *(At the higher education level, there is the "new managerialism" that applies the language and logic of the market place to overseeing the operations and outcomes of academic units... Government policies based on these notions have led to a drastic reduction in the state's role in social spending... with the state's role to specify goals and priorities and evaluate whether or not the various subnational administrative units, and even individual schools, achieve the desired results.)*
 
 > [!boundary]- 概念边界
-> - 不等于传统学术同行评议（Academic Collegiality）——同行评议依托学者共同体的内在学术声誉与专业自治；新管理主义依托外部管理层制定的硬性量化指标、关键[[Performance Indicators|绩效指标]]（KPIs）与行政审查。
-> - 不等于纯粹的市场私有化——新管理主义往往在公立教育系统内部运作，通过引入准市场机制（Quasi-market）与内部竞聘实现公立机构的企业化改造。
+> - 不等于传统学术同行评议（Academic Collegiality） — 同行评议依托学者共同体的内在学术声誉与专业自治；新管理主义依托外部管理层制定的硬性量化指标、关键[[Performance Indicators|绩效指标]]（KPIs）与行政审查。
+> - 不等于纯粹的市场私有化 — 新管理主义往往在公立教育系统内部运作，通过引入准市场机制（Quasi-market）与内部竞聘实现公立机构的企业化改造。
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 新管理主义（New Managerialism） | 传统大学自治（Academic Collegiality） | 传统韦伯式[[Bureaucracy\|科层制]]（Bureaucracy） |
 > |---|---|---|---|
 > | **权力重心** | 职业管理者与行政考核主管 | 教授会、学者同行与学术委员会 | 遵循既定章程的常任事务官僚 |
@@ -111,10 +115,13 @@ updated: 2026-11-02
 > [!claim] [[Gerald Grace|Grace, G.]]
 > **法定良知职能作为抵御新管理主义殖民的制度反制** 格雷斯指出，新管理主义与财政部原教旨主义试图将大学重塑为自负盈亏的技术培训机构与行政绩效附庸。为抵御新管理主义对高等教育的意识形态殖民，新西兰学界推动将[[Critic and Conscience of Society|社会的批评者与良知]]写入《1989 年教育法》，以法定形式赋予大学向权力讲真话的独立制衡职责，构成了学术系统抵制管理主义渗透的关键制度防御。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 
+> [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
+> **行政繁文缛节与量化指标对深度探究时空的剥夺** 豪布罗克等学者实证指出，高校在新管理主义导向下设立了繁重的工时填报、项目核销与合规审计要求，行政事务碎片化严重挤占了一线科研人员潜心开展深度思考与高风险探索的整块时间；同时，以期刊影响因子和发文篇数等短期指标挂钩人才晋升，迫使学者特别是青年科研人员退守稳妥平庸的安全选题，将策略性依从作为个体生存策略，诱发学术成果的大规模增量化与平庸化。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+
 ---
 
 > [!concept-proposition] 命题二｜责任下放与自负盈亏机制掩盖了中央对关键绩效标准的集权规训
-> **探讨维度　治理结构的虚假分权与隐性集权** 剖析新管理主义如何在“去中心化”、“扩大[[School Autonomy|学校自主权]]”的政策修辞下，实现更严密的远距离中央控制。
+> **探讨维度　治理结构的虚假分权与隐性集权** 剖析新管理主义如何在去中心化、扩大[[School Autonomy|学校自主权]]的政策修辞下，实现更严密的远距离中央控制。
 
 > [!claim] Hartley, D.
 > **审计控制下的假性自主** 新管理主义在形式上将预算编制、日常人事与教学安排下放给基层学术单位或中小学校长，营造出高度分权自治的表象；但中央政府与管理高层通过牢牢掌控评估指标、认证标准与资金挂钩机制，实现了比传统[[Bureaucracy|官僚制]]更为苛刻的远距离行为控制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
@@ -127,7 +134,7 @@ updated: 2026-11-02
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **学术劳动与专业自主侵蚀** | 揭示以商业指标为核心的审计文化对学者专业探索、批判意识与大学学术生态的负面冲击 | 大学内部治理改革、学术职业生存状态分析 | Deem, R.; Marginson, S.; Arnove, R. F.; [[Argument_Grace_2010_NZJES\|Grace (2010)]] |
+> | **学术劳动与专业自主侵蚀** | 揭示以商业指标为核心的审计文化对学者专业探索、批判意识与大学学术生态的负面冲击 | 大学内部治理改革、学术职业生存状态分析 | Deem, R.; Marginson, S.; Arnove, R. F.; [[Argument_Grace_2010_NZJES\|Grace (2010)]]; [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
 > | **假性分权与远距离控制** | 阐明财务与运营责任下放背后，依托考核标准与绩效挂钩实现的隐性行政集权机制 | 公立大学准市场化、中小学校本管理与绩效问责体制 | Hartley, D.; Arnove, R. F. |
 
 ---
@@ -137,18 +144,33 @@ updated: 2026-11-02
 > - **1988–1989 — 新西兰将“[[Critic and Conscience of Society|社会的批评者与良知]]”立法定为反制机制** 面对财政部与新管理主义倡导者的市场化冲击，格雷斯提出大学必须承担面向公权力的批判良知使命；该原则被写入《1989 年教育法》，开创了以国家立法抗拒新管理主义意识形态殖民的先例。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **1990 年代 — 全面渗透高等教育领域** 英美、澳新等国学者（如 Deem, Marginson）系统记录并批判管理主义进驻大学，揭示其对大学文化与学术劳动的解构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 115)]]
 > - **2000 年代至今 — 全球扩散与跨国排名驱动** 伴随全球化浪潮、跨国大学排行榜与[[International Education|国际教育]]服务贸易的激增，新管理主义演变为全球高等教育机构竞争与治理的标准配置。
+> - **2026 年 — 新管理主义对科研生态与创造力的系统抑制批判** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 深入剖析新管理主义绩效监控、短周期课题竞争与商业出版版面费如何共同构成将学术生产锁定于低风险增量轨道的制度传导链条，倡导基线财政拨付与去中心化治理。
 
 ---
 
-> [!tension] 核心张力
+> [!tension|notitle] 核心张力
 > - **治理有效论（管理主义拥护者）** 主张引入企业化管理能够打破传统大学官僚体系的懈怠与低效，提高财政资金使用产出，增强高校对外部劳动力市场需求与科技创新的敏感度。
 > - **[[Academic Capitalism|学术资本主义]]批判论（[[Critical Theory|批判理论]]学者）** 抨击新管理主义将教育降格为消费品，制造学术倦怠、数据造假与短期功利主义，严重破坏[[Academic Freedom|学术自由]]与大学探究高深知识的非功利精神。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 新管理主义在各国的具体呈现受制于本土高等教育传统与国家福利体制。在欧洲大陆或东亚等国家中心传统深厚的语境下，新管理主义往往与国家行政科层深度嫁接，形成具有独特混合特征的行政化绩效控制。
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Academic Freedom]] | 概念 | 新管理主义绩效审计与职业管理者集权直接侵蚀传统学术自由与专业自治。 |
+> | [[Scientific Creativity]] | 概念 | 新管理主义短周期考核与行政负荷挤压深度思考时间，扼杀科学创造力。 |
+> | [[Academic Precarity]] | 概念 | 新管理主义用工短期化与成本核算制造了严重的博士后蓄积与青年学者生存困境。 |
+> | [[Academic Capitalism]] | 理论 | 新管理主义的理论同源构念，指大学全面融入资本循环与市场化经营。 |
+> | [[Block Grants]] | 概念 | 稳定常态的基线经费机制是抵御新管理主义碎片化竞争性考核的关键解药。 |
+> | [[Critic and Conscience of Society]] | 概念 | 大学作为社会的批评者与良知是抵御新管理主义行政殖民的法定防线。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 论证新自由主义全球化如何在微观上通过新管理主义重构高等教育运行逻辑，并与宏观世界体系的资本积累需求形成联动。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 回溯新西兰高教治理史，论述如何通过立法确立大学作为[[Critic and Conscience of Society|社会的批评者与良知]]，抵御新管理主义与财政依附对学术独立性的侵蚀。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 剖析新管理主义行政杂务与短期量化指标对深度思考时空的侵蚀，揭示其迫使青年学者采取策略性依从并扼杀科学创造力的制度传导链条。

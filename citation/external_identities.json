@@ -34814,7 +34814,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md"
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
+        "wiki/concepts/science-policy/Scientific Creativity.md"
       ],
       "title": ""
     },
@@ -93834,6 +93835,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
+        "wiki/concepts/science-policy/Scientific Creativity.md",
         "wiki/methods/quantitative/Journal Impact Factor.md"
       ],
       "title": ""
@@ -113051,6 +113053,7 @@
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md",
         "wiki/concepts/science-policy/Big Science.md",
+        "wiki/concepts/science-policy/Scientific Creativity.md",
         "wiki/facts/us/Microsoft Academic Graph.md",
         "wiki/persons/us/Lingfei Wu.md",
         "wiki/theories/science-policy/Core and Extended Teams Model.md"

@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 104
+related_count: 105
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -123,6 +123,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Creative Problem Solving]]"
@@ -134,7 +135,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -142,32 +143,32 @@ updated: 2026-11-02
 > [!def] Creativity
 > 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制、行为表现及制度化探索能力。
 > - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程，为[[Creativity Assessment|创造力测评]]提供[[Ontology|本体论]]与认知[[Construct|构念]]基础；在政策层面用于诊断学术评价机制对颠覆性探索的激励或抑制；在技术文明层面辨析从 0 到 1 的原真突破与浅层商业拼贴。
 > - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，不等于常规智力测验表现，不等于成熟[[Paradigm|范式]]内的碎化发表，更不等于将消除日常微观琐事过度包装为颠覆性创新的商业派生品。
 
-> [!citation-card] Runco 与郭等论创造力的双重[[Variable|变量]]定位与可塑性
+> [!citation-card|notitle] Runco 与郭等论创造力的双重[[Variable|变量]]定位与可塑性
 > 这一区分反映了这样一个事实：有时创造力被定义为一种结果或产物，并在分析中作为效标，以其他变量作为预测指标；而在其他时候，研究将创造力作为[[Independent Variable|预测变量]]，去预测健康、问题解决或学业成功等其他结果。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
 >
-> *The distinction reflects the fact that sometimes creativity is defined as an outcome or result and used in analyses as the criterion, with other variables used as predictors... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...*
+> *(The distinction reflects the fact that sometimes creativity is defined as an outcome or result and used in analyses as the criterion, with other variables used as predictors... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...)*
 >
 > 总体而言，结果显示训练项目对大学生的创造力具有中等但在统计上显著的影响（Hedges' $g = 0.628$）。这些发现为教育实践者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 1)]]
 
-> [!citation-card] 科学创造力的生命周期规律与体制性风险规避
-> 创新经济学与科学学研究表明，科学家取得颠覆性突破的‘大想法（Great Ideas）’与诺贝尔奖级发现的高峰期，普遍集中在其 20 岁末至 30 岁中期的早年阶段（Jones, 2010）。然而，当代学术评价体系中泛滥的增量发表指标、极低的基金资助率与共识型同行评议，迫使最具创造力的年轻学者陷入严重的‘学术风险规避（[[Academic Risk Aversion]]）’，将精力耗费在迎合主流范式的切香肠式平庸研究中。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
+> [!citation-card|notitle] 科学创造力的生命周期规律与体制性风险规避
+> 创新经济学与科学学研究表明，科学家取得颠覆性突破的大想法（Great Ideas）与诺贝尔奖级发现的高峰期，普遍集中在其 20 岁末至 30 岁中期的早年阶段（Jones, 2010）。然而，当代学术评价体系中泛滥的增量发表指标、极低的基金资助率与共识型同行评议，迫使最具创造力的年轻学者陷入严重的学术风险规避（[[Academic Risk Aversion]]），将精力耗费在迎合主流范式的切香肠式平庸研究中。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
 >
-> *A classic finding in innovation economics is that scientists have their 'great ideas' early in their careers—typically in their 30s. Today, our institutional incentives enforce extreme academic risk aversion, suffocating radical divergent exploration during researchers' most fertile creative years.*
+> *(A classic finding in innovation economics is that scientists have their 'great ideas' early in their careers—typically in their 30s. Today, our institutional incentives enforce extreme academic risk aversion, suffocating radical divergent exploration during researchers' most fertile creative years.)*
 
-> [!citation-card] 卡普与扎米斯卡论原真艺术开创与衍生性商业拼贴的界限
+> [!citation-card|notitle] 卡普与扎米斯卡论原真艺术开创与衍生性商业拼贴的界限
 > 艺术家让-米歇尔·巴斯奎特（Basquiat）在 1980 年代的画作要求重新划定高雅艺术的边界，将街头涂鸦融入其作品中。然而，使其画作独具原创性的诸多元素，后来被一个渴望新颖表象的文化无休止地挪用和回收……1990 年代末年轻互联网的鼎盛期同样如此：有一些真正的艺术正在被创造，一些巴斯奎特正在打磨他们的技艺；但大多数初创企业不过是无生命的衍生性作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 >
-> *The artist Jean-Michel Basquiat, whose paintings in the 1980s demanded that the boundaries of what could be considered high art be redrawn... So much of what made his paintings original, however, would later be repurposed and recycled, almost endlessly, by a culture ravenous for even hints of the novel... There was some real art being created, some Basquiats refining their craft. But most of the companies were lifeless and derivative works.*
+> *(The artist Jean-Michel Basquiat, whose paintings in the 1980s demanded that the boundaries of what could be considered high art be redrawn... So much of what made his paintings original, however, would later be repurposed and recycled, almost endlessly, by a culture ravenous for even hints of the novel... There was some real art being created, some Basquiats refining their craft. But most of the companies were lifeless and derivative works.)*
 
-> [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论协作网络拓扑对团队创造力的倒 U 形法则
+> [!citation-card|notitle] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论协作网络拓扑对团队创造力的倒 U 形法则
 > [[Team Science|团队科学]]与艺术创作的实证表明，合作网络拓扑对集体创造力具有决定性影响。由[[Small-World Quotient|小世界商数]] $W$ 测度的小世界网络特征与团队创造力及绩效呈现典型的倒 U 形曲线：当 $W$ 过低时，网络割裂且缺乏凝聚力，异质构想难以流动融合；当 $W$ 过高时，所有团队陷入重叠度过高的同质化小圈子，形成认知回音室并扼杀原创突破；唯有在中等小世界网络拓扑下，团队才能在保障高效沟通信任的同时吸收跨集群的异质思想，最大化释放协同创造潜能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 >
-> *The small-world topology of collaboration networks facilitates creative success up to a point, after which hyper-cohesiveness stifles novelty and locks teams into cognitive echo chambers.*
+> *(The small-world topology of collaboration networks facilitates creative success up to a point, after which hyper-cohesiveness stifles novelty and locks teams into cognitive echo chambers.)*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Divergent Thinking|发散思维]]：发散思维侧重于构想生成阶段的流畅与灵活性，创造力则涵盖[[Problem Finding|问题发现]]、评价选择与产品实现的完整系统。
@@ -178,7 +179,7 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 创造力（Creativity） | 智力（Intelligence） | 创新（Innovation） | [[Divergent Thinking\|发散思维]]（Divergent Thinking） |
 > |------|-------------------|-------------------|-------------------|-----------------------------|
 > | **核心特征** | 新颖性与适切性；打破常规[[Paradigm\|范式]] | 适应环境、逻辑推理、抽象思维与知识习得能力 | 构想的实施、推广、市场化与组织变革 | 观念生成的流畅性、灵活性与独创性 |
@@ -341,10 +342,11 @@ updated: 2026-11-02
 > - **2025 年 模仿毒性批判与抵抗性创造[[Epistemology|认识论]]** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 156–159)]] 论证未受反省的模仿本能演化为创新的毒药，以[[Jackson Pollock|波洛克]]与[[Thomas Hart Benton|本顿]]的抵抗性师生张力为例，提出从无到有的“创造傲慢”，批判现代企业将“讨人喜欢”作为牢笼的平庸合群文化。
 > - **2025 年 审美品味与奥德修斯自愿自我约束的创造力哲学** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, pp. 207–212)]] 阐明前沿软件构建高度依赖艺术直觉与审美品味，结合德雷珀名画《奥德修斯与塞壬女妖》与法伦布拉赫（2009）、普渡大学（2016）实证，提出自愿自我约束与长程资产托管是抵御短期主义并实现突破性创造力的根本路径。
 > - **2026 年 [[Man-Computer Symbiosis|人机协同]]、[[Cognitive Deskilling|去技能化]]防范与国家科研体制反思** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 确立防范 AI 引发[[Creative Deskilling|创造力去技能化]]的[[Virtue Epistemology|美德认识论]]支架；[[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] 将科学创造力从心理学扩展至国家创新政策，揭示学术风险规避与共识评审对颠覆性探索的系统性压制。
+> - **2026 年 — 科学创造力的学术生态涌现转向** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 在《自然-人类行为》发文，将创造力从单纯的个体心理认知特质拓展为依赖支持性制度生态的系统涌现属性，揭示短周期考核与不稳定聘用对青年学者创造力的体制性窒息。
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] [[Criterion Problem|效标问题]]（The Criterion Problem）
 > > 创造力研究中缺乏统一、绝对且普遍认可的客观效标，导致不同研究采用不同[[Operationalization|操作化]]定义时[[Effect Size|效应量]][[Heterogeneity|异质性]]巨大。
@@ -489,7 +491,20 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Scientific Creativity]] | 概念 | 创造力在科学知识探索与范式更迭语境下的专门化形态。 |
+> | [[Creativity Assessment]] | 概念 | 评估创造潜能、发散思维与创新表现的测量工具与效标方法。 |
+> | [[Critical Thinking]] | 概念 | 创造力构想评估与理性求证阶段不可或缺的批判性质审构念。 |
+> | [[Problem Solving]] | 概念 | 创造力在不良结构任务中的具体应用与高阶认知问题解决表现。 |
+> | [[Innovation Ecosystem]] | 概念 | 培育颠覆性创造力与实现成果价值转化的外部社会制度系统。 |
+> | [[Academic Risk Aversion]] | 概念 | 考核与评审体制诱发的保守心理，对高风险创造力探索产生抑制。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统总结科学创造力规律，打破年龄决定创造力衰退迷思，阐明常规稳固基础与非典型跨界重组的创造力平衡机制。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出生涯序列置换反事实检验法，证实重大突破在生涯序列中服从均匀随机分布，打破科学创造力随年龄衰退的传统迷思。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]确立创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应及教育干预效能。
@@ -503,4 +518,4 @@ updated: 2026-11-02
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统综述揭示 ChatGPT 拓展构想空间与结构[[Scaffolding|脚手架]]的赋能效能，警示文风均质化与个人声音淹没风险。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 元分析确立生成式 AI 对学生创造力的中等偏小促进效应（$g = 0.444$），揭示统计模型同质化瓶颈。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 界定创造力为[[Epistemic Virtues and Vices|理智美德]]，揭示过度依赖 AI 导致的[[Cognitive Deskilling|去技能化]]风险，提出[[Counterfactual|反事实]]设问与经验图式交织的支架路径。
-> - [[Creativity Assessment]] — 系统整合[[Divergent Thinking|发散思维]]测验、同感评定法与情境任务的创造力测评专门条目。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统批判当代学术体制量化考核与雇佣不稳定对科学创造力的结构性抑制，确立创造力作为支持性生态环境系统涌现属性的宏观理论框架。

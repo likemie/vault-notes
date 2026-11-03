@@ -10,7 +10,7 @@ aliases:
 summary: "指生成能够挑战、突破或实质扩展既有学术范式的高风险概念构想与开创性方法的能力与过程。现代科学政策与科学学视角将科学创造力确立为学术生态系统环境下的涌现属性，其培育深度依赖于长探索周期、容忍失败、学术自主权与制度化雇佣稳定保障。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

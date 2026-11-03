@@ -10,7 +10,7 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程；整体大于部分之和且无法向下机械还原，广泛存在于生态系统、社会组织、科学引文网络、质性探究设计及万亿参数大模型认知智能演化之中。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -77,10 +77,11 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -217,6 +218,7 @@ updated: 2026-11-02
 > - **2018 — 科学网络宏观涌现机制系统确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 阐明科学系统中的多尺度自组织涌现规律，涵盖合著网络巨连通分量相变、概念空间局部扎堆与跨学科引文动力学主曲线坍缩（pp. 1–5）。
 > - **2021 — 科学学引文网络与去中心化集体智慧涌现** 王大顺与巴拉巴西将涌现动力学引入科学学，论证宏观学术影响力是成千上万研究者去中心化微观引证决策自发涌现的集体智慧共识，为客观量化科学价值提供了复杂网络依据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
 > - **2020s — 深度学习与大语言模型认知智能涌现** 随着万亿参数大模型与多模态 Transformer 模型的崛起，计算科学证实超大规模高维隐空间中能够自组织涌现出世界模型与跨模态常识推理能力，重塑[[Artificial General Intelligence|通用人工智能]]与人机关系范式（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska, 2025]]）。
+> - **2026 — 科学创造力系统生态涌现** 豪布罗克等在《自然-人类行为》发文，将[[Scientific Creativity|科学创造力]]正式界定为支持性学术生态系统的系统涌现属性，突破个体能力论假设。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 
@@ -255,9 +257,23 @@ updated: 2026-11-02
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Complexity Theory]] | 理论 | 涌现概念的理论母体，提供非线性动力学与自组织演化模型。 |
+> | [[Scientific Creativity]] | 概念 | 科学创造力作为支持性学术生态系统的系统涌现属性。 |
+> | [[Collective Intelligence]] | 概念 | 去中心化微观引证决策汇聚涌现的宏观学术共识形态。 |
+> | [[Interpretive Paradigm]] | 概念 | 自然主义质性范式以理论扎根与设计的动态涌现为核心承诺。 |
+> | [[Agent-based Modelling]] | 方法 | 基于简单微观规则模拟高阶社会宏观涌现秩序的核心计算工具。 |
+> | [[Generative Artificial Intelligence]] | 概念 | 万亿参数规模跨越临界阈值时自组织涌现的通用认知智能。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立科学系统的复杂网络涌现范式，实证揭示新兴学科合著网络拓扑相变涌现巨连通分量与引文动力学主曲线坍缩的宏观规律（pp. 1–5）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合学者认知实验与引文网络论证影响力源于集体智慧自发涌现（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并以引文复制模型阐明局部行为生成宏观优先连接（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09, pp. 259–261]]）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节系统论述涌现的多维意涵：在[[Epistemology|认识论]]上解构受控实验的[[Variable|变量]]恒常假定（Ch. 1），在方法论上确立自然主义[[Qualitative Research|质性研究]]中理论与设计的双重涌现公理（Ch. 11），并在计算模拟中阐明基于主体建模（[[Agent-based Modelling|ABM]]）微观规则生成宏观社会事实的动力学机制（Ch. 19）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在质性研究设计框架中规范阐述[[Emergent Design|涌现式设计]]与数据分析主题生发规程。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 详尽解构头部大模型在万亿参数高维隐空间中常识物理推理与概念具象化能力的自组织涌现，探讨[[Artificial General Intelligence|通用人工智能]]火花的哲学与战略意涵。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 将科学创造力界定为依托支持性学术生态系统的系统涌现属性，论证宏观资助分配与长周期评价对微观创造力涌现的决定性作用。
