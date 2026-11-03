@@ -667,12 +667,14 @@
     "Altbach & de Wit, 2020": "Altbach & de Wit, 2020",
     "Altbach (1971)": "Altbach, 1971",
     "Altbach (1977)": "Altbach, 1977",
+    "Altbach (1981)": "Altbach, 1981",
     "Altbach (1991)": "Altbach, 1991",
     "Altbach (1998)": "Altbach, 1998",
     "Altbach (2004)": "Altbach, 2004",
     "Altbach (2011)": "Altbach, 2011",
     "Altbach, 1971": "Altbach, 1971",
     "Altbach, 1977": "Altbach, 1977",
+    "Altbach, 1981": "Altbach, 1981",
     "Altbach, 1991": "Altbach, 1991",
     "Altbach, 1998": "Altbach, 1998",
     "Altbach, 2004": "Altbach, 2004",
@@ -18695,8 +18697,6 @@
     "Philip Altbach, 1991": "Philip Altbach, 1991",
     "Philip Cooke (1992)": "Philip Cooke, 1992",
     "Philip Cooke, 1992": "Philip Cooke, 1992",
-    "Philip G. Altbach (1981)": "Philip G. Altbach, 1981",
-    "Philip G. Altbach, 1981": "Philip G. Altbach, 1981",
     "Philip Y. Gee (1995)": "Philip Y. Gee, 1995",
     "Philip Y. Gee, 1995": "Philip Y. Gee, 1995",
     "Philipp Mayring (2000)": "Philipp Mayring, 2000",
@@ -23541,9 +23541,7 @@
     "Thomas Kuhn, 1962": "Thomas Kuhn, 1962",
     "Thomas Kuhn, 1970": "Thomas Kuhn, 1970",
     "Thomas S. Kuhn (1970)": "Thomas S. Kuhn, 1970",
-    "Thomas S. Kuhn (2012)": "Thomas S. Kuhn, 2012",
     "Thomas S. Kuhn, 1970": "Thomas S. Kuhn, 1970",
-    "Thomas S. Kuhn, 2012": "Thomas S. Kuhn, 2012",
     "Thomas et al. (2013)": "Thomas et al., 2013",
     "Thomas et al. (2014)": "Thomas et al., 2014",
     "Thomas et al. (2021)": "Thomas et al., 2021",
@@ -26493,8 +26491,10 @@
     "Zucker, 2021": "Zucker, 2021",
     "Zuckerman (1967)": "Zuckerman, 1967",
     "Zuckerman (1977)": "Zuckerman, 1977",
+    "Zuckerman (1979)": "Zuckerman, 1979",
     "Zuckerman, 1967": "Zuckerman, 1967",
     "Zuckerman, 1977": "Zuckerman, 1977",
+    "Zuckerman, 1979": "Zuckerman, 1979",
     "Zukin (2020)": "Zukin, 2020",
     "Zukin, 2020": "Zukin, 2020",
     "Zumeta (2009)": "Zumeta, 2009",
@@ -32077,6 +32077,21 @@
       "seen_in": [
         "wiki/concepts/comparative-education/Revolutionism.md",
         "wiki/theories/comparative-education/Dependency Theory.md"
+      ],
+      "title": ""
+    },
+    "Altbach, 1981": {
+      "aliases": [
+        "Altbach, 1981",
+        "Altbach (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Altbach, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
       ],
       "title": ""
     },
@@ -124795,6 +124810,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md",
         "wiki/persons/uk/Karl Popper.md"
       ],
@@ -144269,6 +144285,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
@@ -163328,21 +163345,6 @@
       ],
       "title": ""
     },
-    "Philip G. Altbach, 1981": {
-      "aliases": [
-        "Philip G. Altbach, 1981",
-        "Philip G. Altbach (1981)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Philip G. Altbach, 1981"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-      ],
-      "title": ""
-    },
     "Philip Y. Gee, 1995": {
       "aliases": [
         "Philip Y. Gee, 1995",
@@ -172243,7 +172245,6 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/higher-education/The 41st Chair.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
@@ -198428,21 +198429,6 @@
       ],
       "title": ""
     },
-    "Thomas S. Kuhn, 2012": {
-      "aliases": [
-        "Thomas S. Kuhn, 2012",
-        "Thomas S. Kuhn (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Thomas S. Kuhn, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-      ],
-      "title": ""
-    },
     "Thomas et al., 2013": {
       "aliases": [
         "Thomas et al., 2013",
@@ -219534,6 +219520,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md"
+      ],
+      "title": ""
+    },
+    "Zuckerman, 1979": {
+      "aliases": [
+        "Zuckerman, 1979",
+        "Zuckerman (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Zuckerman, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
       ],
       "title": ""
     },

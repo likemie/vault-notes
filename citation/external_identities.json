@@ -2872,6 +2872,14 @@
       ],
       "title": ""
     },
+    "Altbach, 1981": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
+      ],
+      "title": ""
+    },
     "Altbach, 1991": {
       "doi": "",
       "isbn": "",
@@ -58821,6 +58829,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md",
         "wiki/persons/uk/Karl Popper.md"
       ],
@@ -70729,6 +70738,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md",
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md",
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
@@ -82217,14 +82227,6 @@
       ],
       "title": ""
     },
-    "Philip G. Altbach, 1981": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-      ],
-      "title": ""
-    },
     "Philip Y. Gee, 1995": {
       "doi": "",
       "isbn": "",
@@ -87573,7 +87575,6 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit08.md",
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/higher-education/The 41st Chair.md",
         "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
@@ -103443,14 +103444,6 @@
       ],
       "title": ""
     },
-    "Thomas S. Kuhn, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-      ],
-      "title": ""
-    },
     "Thomas et al., 2013": {
       "datasets": [
         "metax:S1814"
@@ -116325,6 +116318,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md"
+      ],
+      "title": ""
+    },
+    "Zuckerman, 1979": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
       ],
       "title": ""
     },
