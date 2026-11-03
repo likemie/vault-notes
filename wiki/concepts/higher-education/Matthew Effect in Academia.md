@@ -8,10 +8,10 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化并由 Wang and Barabási (2021) 拓展至科学计量与引文网络的概念，描述个体声望溢价、机构评估拨款循环及优先连接机制如何驱动学术资源与注意力持续向既有优势方集中。"
 type: concept
 domain: "higher-education"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - matthew-effect
   - higher-education
@@ -32,6 +32,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Literature Search]]"
   - "[[Variable]]"
+  - "[[Status Bias in Peer Review]]"
+  - "[[Academic Inbreeding]]"
+  - "[[Scientific Creativity]]"
 related_theories:
   - "[[Bianconi-Barabási Model]]"
 related_methods:
@@ -40,6 +43,7 @@ related_methods:
   - "[[Pilot Testing]]"
 related_persons:
   - "[[Robert K. Merton]]"
+  - "[[Santo Fortunato]]"
   - "[[Derek de Solla Price]]"
   - "[[Albert-László Barabási]]"
 related_facts: []
@@ -48,14 +52,15 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -164,6 +169,7 @@ updated: 2026-11-03
 > - **2018 — Bol 等利用荷兰 NWO 全量申请数据确证资助端的马太效应** 蒂斯·博尔（Thijs Bol）等借助荷兰科学研究组织（NWO）包含未获批提议的全口径基金申请底表，利用断点回归证实微小外生资助优势引发后续 2.5 倍资金累积差距，实证确证资助系统自我强化的马太效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 243)]]
 > - **2018 — Fortunato et al. 声誉局域加速与团队信誉解构** 福图纳托等在《科学》科学学综述中汇总引文网络实证，揭示累积声望仅在成果初期加速获引，并系统引介基于拓扑共引网络的集体信誉分配算法以破解团队合著中的马太效应。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–3)]]
 > - **2021 — 科学学实证大数据全景确证** [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]系统整合双盲评审自然实验、荣誉随机赋予干预及多学科引文追踪大数据，确立了学术马太效应在认知、组织与网络维度的因果基石。
+> - **2025 — 累积优势催化爆发期与常规高引对颠覆性的挤出（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）** 陈等人在 21,271 名经济学家生涯研究中证实，累积产出与被引优势能催化爆发期开启，但常规高被引累积对成果颠覆性产生显著负向抑制（$\beta = -0.126, p < .001$），揭示出学术马太效应在促进声望扩张的同时对激进创新的潜在抑制。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 6–7)]]
 > - **2026 — 资助高度集聚与大团队保守生产确证** 豪布罗克等系统阐明全球与国家层面科研资助的马太效应，实证揭示法国前 20% 机构吸纳全法 80% 经费、超级大团队依赖资历从事安全增量生产并垄断资助，确立其对小团队颠覆性突破的挤出效应。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
@@ -201,6 +207,7 @@ updated: 2026-11-03
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]] | 网络生物学新兴学科全量[[Document\|文献]]引文网络 | 新兴学科历史队列被引追踪 | 2001 年首创队列与 2003 年成熟队列的长期引文均值对比 | 2001 年论著获得平均 101 次引用，2003 年论著平均被引 26 次，先发红利达 3.88 倍 | 多学科可重复验证 | 揭示顺沿既有链接的优先连接机制赋予先发成果长周期被引优势 |
 > | Bol, de Vaan, & van de Rijt (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang and Barabási (2021)]] | 荷兰科学研究组织（NWO）青年早期学者基金全量申请底表（涵盖资助分数线边缘申请人） | 断点回归准实验（RDD） | 早期基金获批与否对后续获取后续资助总额及职业声望的累积影响 | 刚越过分数线的险胜申请人，在后续八年内累计获取的后续资助总额是惜败同行的 2.5 倍以上 | 严格反事实断点检验，$p < 0.01$ | 实证确证了资助体系中独立于学者原初能力的纯制度性马太效应（Bol et al., 2018; [[Argument_Wang_Barabasi_2021_Cambridge\|Wang & Barabási, 2021, p. 243]]） |
 > | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 法国国家研究署（ANR）经费库与 2025 欧盟 MSCA 博士后奖学金申请全量数据 | 竞争性科研经费分布计量与资助选择分析 | 头部机构经费集中度与资助竞争淘汰率 | 法国前 20% 头部机构吸纳全法 80% 竞争性总经费池；MSCA 奖学金申请 17,066 份中 92.8% 合格，但仅 9.6%（1,610 项）获批，要求评审总评超 96 分；高风险研究资助受挫率达 42% | 欧洲多国官方基金大数据交叉验证 | 实证揭示资助体系中极度严苛的准入与资源向头部过度倾斜加剧了马太效应并挤出边缘颠覆性探索 |
+> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 21,271 名经历爆发期的经济学家长周期职业轨迹 | 面板计量回归与两阶段最小二乘法（2SLS） | 累积被引对成果颠覆性（CD 指数）的影响 | 累积被引对颠覆性呈现显著负向效应（$\beta = -0.126$），控制内生性后负向关联依然稳健 | 回归模型高度显著（$p < .001$） | 证实学术声誉与常规被引的马太效应积累会促使学者深耕既有范式，从而挤出范式颠覆型研究 |
 
 ---
 
@@ -222,3 +229,4 @@ updated: 2026-11-03
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 阐释[[Quasi-markets in Higher Education|高等教育准市场]]与绩效评估机制如何推动资源向已有优势机构集中，形成制度化的学术马太效应。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 剖析学术马太效应在[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|评审与引文门槛]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|合著声誉分配]]及[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|引文优先连接动力学]]中的多维机制，并援引荷兰 NWO 基金全量申请底表（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11, p. 243]]）揭示克服幸存者偏差后的纯制度性累积规律。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统揭示科研经费向少数发达经济体与超级大团队的高度集聚（如法国前 20% 机构吸纳 80% 经费），剖析资助马太效应对独立青年学者与高风险小团队颠覆性创新的系统性挤出。
+> - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 基于 21,271 名经济学家生涯轨迹，揭示学术声誉与常规被引的马太效应积累对学术爆发期的催化作用，以及对成果颠覆性创新的负向挤出效应。

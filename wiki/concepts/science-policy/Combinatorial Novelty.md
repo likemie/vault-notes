@@ -10,10 +10,10 @@ aliases:
 summary: "通过将既有不同知识领域或技术构件进行非传统重组而产生新构想的创新机制；在带来高学术影响概率的同时伴随着极高的产出方差与同行评审偏见，唯有深植于成熟常规知识之上的非典型组合方能系统性放大科学突破概率。"
 type: concept
 domain: "science-policy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/innovation-studies
@@ -36,18 +36,20 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Brian Uzzi]]"
+  - "[[Santo Fortunato]]"
   - "[[Joseph Schumpeter]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Chen_2025_HSSC]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -148,6 +150,7 @@ updated: 2026-11-03
 > - **2016 — 基金申请与国家资助中的保守偏见证实** 布德罗与布罗姆汉姆等学者分别通过双盲实验与全量国家基金追踪，证实同行评审对高新颖性方案存在系统性打压。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Boudreau et al., 2016; Bromham et al., 2016; pp. 192–193)]]
 > - **2018 — Fortunato et al. 跨学科科学学系统综述** 福图纳托等在《科学》发表科学学里程碑综述，系统确立“常规基底托底非常规重组”为兼顾创新冲击力与同行可接纳度的最优知识生产范式。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
 > - **2021 — 科学学生命力与新颖性悖论系统集成** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统总结组合新颖性动力学，将其确立为解析成果内生适应度与突破性科学涌现的核心构架。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–193)]]
+> - **2025 — 组合新颖性与颠覆性创新测度维度分流（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）** 陈等人在针对 21,271 名经济学家的生涯测度中，将参考文献异质重组的组合新颖性与基于后续引用割裂的颠覆性（CD 指数）进行对照，实证揭示二者在爆发期演化中存在机制分离，新颖性重组侧重输入端概念嫁接，颠覆性则体现对前人成果的遮蔽效应。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 2–3)]]
 
 ---
 
@@ -184,3 +187,4 @@ updated: 2026-11-03
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述组合新颖性，强调深植于常规成熟知识基础上的罕见非典型组合斩获超高引用的概率倍增，是突破性成果最稳妥的接纳路径。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 系统解构组合新颖性测度、新颖性悖论、同行评审偏见以及适度平衡架构使高引突破概率倍增的经验证据（pp. 189–193）。
+> - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 结合经济学家长周期职业轨迹，将参考文献的跨学科组合新颖性与颠覆性创新指标相对照，剖析爆发期内学术探索与知识重组的演进路径。
