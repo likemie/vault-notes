@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md"
     },
     {
+      "basename": "Scientific Creativity",
+      "path": "wiki/concepts/science-policy/Scientific Creativity.md"
+    },
+    {
+      "basename": "Academic Precarity",
+      "path": "wiki/concepts/higher-education/Academic Precarity.md"
+    },
+    {
+      "basename": "UNESCO Institute for Statistics",
+      "path": "wiki/facts/global/UNESCO Institute for Statistics.md"
+    },
+    {
       "basename": "Postdoctoral Pileup",
       "path": "wiki/concepts/higher-education/Postdoctoral Pileup.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Douglas Walton",
       "path": "wiki/persons/canada/Douglas Walton.md"
-    },
-    {
-      "basename": "Daniel Schugurensky",
-      "path": "wiki/persons/canada/Daniel Schugurensky.md"
-    },
-    {
-      "basename": "Christopher Martin",
-      "path": "wiki/persons/canada/Christopher Martin.md"
-    },
-    {
-      "basename": "Carolyn Shields",
-      "path": "wiki/persons/canada/Carolyn Shields.md"
     }
   ],
   "omittedPaths": [],
