@@ -224,6 +224,7 @@ updated: 2026-11-03
 > - **19 世纪初 — [[Humboldtian Model of Higher Education|洪堡理念]]确立现代学术自由经典内涵** 1810 年柏林大学创办确立教学与科研相统一的原则，教学自由（Lehrfreiheit）与学习自由（Lernfreiheit）正式确立为现代大学追求客观真理、摆脱宗教教条与政治微观附庸的制度母本。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 32–33)]]
 > - **1915 年 — 美式专业化转型与终身教职（Tenure）制度化结合** 美国大学教授协会（AAUP）发布《原则宣言》，将学术自由从单纯的哲学与道德理想，转化为依托大学雇佣长聘契约与同行评议独立保护的专业法定权利。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 11)]]
 > - **1945 年至 1950 年代 — 战后科学契约确立国家资助而不干预原则** 《[[Science, The Endless Frontier 1945|布什报告]]》与国家科学基金会（[[National Science Foundation|NSF]]）的设立确立了现代科学契约：国家向大学注入大量公共科研经费，但将选题优先级与立项评价权完全让渡给学术同行评议，学术自由被确立为国家创新中枢的制度宪章。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
+> - **1950–1960 年代 — 冷战军事任务资助制约与基础研究黄金期学术自治博弈** 二战后至冷战初期五角大楼与原子能委员会以涉密军工合同垄断大学科研，学者沦为外包雇工且学术自由受到行政与保密指令严重压缩；卫星危机后学术精英依托白宫 PSAC（《西博格报告》）与国会 COSPUP（《基础研究与国家目标》）开展双轨游说，将学术自主权与国家长远基础科学实力绑定，推动科研资助转向依托同行评议的非涉密民用基础研究，迎来了小科学年增 15% 的黄金时代。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–38)]]
 > - **1980 年代 — 市场化、知识产权化与产学契约重塑自由边界** 《[[Bayh-Dole Act of 1980|拜杜法案]]》与[[Engineering Research Centers|工程研究中心]]（ERC）兴起，大学深度介入[[Technology Transfer|技术转移]]与商业化开发；学术公开发表与企业商业秘密保护发生剧烈碰撞，促使学界确立[[Precompetitive Research|前竞争研究]]边界、发表延迟机制与咨询权分流等契约折衷方案。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241, 246–249)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 373–374)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 143)]]
 > - **1980 年代末至 1990 年代 — [[Steering at a Distance|远距离操纵]]治理转型与成文法社会良知防线确立** 荷兰 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书破除行政事前微观审批，以[[Block Grants|总额预算]]和事后同行评估确立学术自治与公共问责的契约平衡；新西兰《1989 年教育法》将[[Critic and Conscience of Society|社会的批评者与良知]]载入成文法，确立面向公权力讲真话为学术自由的终极合法性基石。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145, 150–152)]]; [[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **21 世纪当代 — 资助竞争内卷与[[Securitization of Technology|技术安全化]]的新型再规训** 青年学者资助率走低与指标考核压力诱发同行评议保守化与学者避险自我审查；大国地缘博弈与关键[[Securitization of Technology|技术安全化]]审查对传统无边界跨国学术合作施加了刚性管控边界。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]; [[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 25–26)]]
@@ -281,6 +282,7 @@ updated: 2026-11-03
 > | 观察情境 / 研究 | 样本与分析对象 | 核心考察维度 | 原始统计与制度发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|
 > | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008, pp. 44–45)]] | [[Research Universities\|美国研究型大学]]自然科学与工程学部青年教师群像 | 课题资助成功率与选题避险行为 | [[National Science Foundation\|NSF]] 总体资助率跌至约 30%，青年博士首申成功率跌至约 20%；青年教师在 3 年启动金耗尽后面临解组压力，被迫放弃高风险颠覆性假说并申报渐进安全项目 | 实证揭示极度竞争压力下的微观考核直接扭曲了学者行使探索自由的行为取向，诱发文献平庸化 |
+| [[Argument_Yang_2017_MUE\|杨九斌 (2017, pp. 36–37)]] | 二战后至冷战初期全美大学科研经费格局与学科资助结构 | 军工任务合同对学术自由的制约与转向 | 1958 年前国防部与 AEC 资助占大学研发总额 76%，大学沦为军工外包机构；卫星危机后转向 NSF/NIH 民用同行评议，联邦科研占高校科研总收入比例由 1953 年 54.6% 上升至 1963 年 68% | 实证揭示学术自主在冷战初期受国家安全焦虑与涉密合同深度压缩，随后通过制度化双轨游说确立同行评议保护屏障 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, p. 132)]] | 比较教育学核心期刊撰稿学者群体（UCLA 调查） | [[Discipline-Based Theory\|学科理论]][[Paradigm\|范式]]分布与学术自由认同 | 调查证实当代比较教育学呈现 26 种并存理论范式，单一功能主义正统彻底瓦解；多数学者肯定[[Pluralism\|多元主义]]保障了理论选择自由 | 实证表明理论多元主义依托学术自由维系了学术活力，构建起更具弹性的多中心学术生态 |
 > | [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025, p. 266)]] | 美国高校[[University-Industry Collaboration\|产学合作]]与国家安全项目 | 发表延迟（Postponement）与保密研究审批 | 高校普遍实行 30–90 天发表延迟机制；南加州大学（USC）通过教师委员会专门审批涉密项目发表限制 | 表明学术自由在现实契约实践中存在制度化妥协机制 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 244–249)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）资助之全美顶尖研究型大学网络；档案数据计量与关键利益相关者访谈（$N=19$） | 前竞争边界执行、成果公开发表自由度、学术自主权感知 | 累计产出 377 项共享专利与丰富公开成果；[[Focus Center Research Program\|FCRP]]/NRI 高校教授享有高度学术自主权；完全公开学位成果未受商业保密压制 | 证实前竞争边界与公私分层矩阵能够有效化解商业资本对大学学术自由的侵蚀风险 |
@@ -303,6 +305,7 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 系统考察二战后至冷战初期五角大楼军工合同与涉密指令对大学学术自由的压缩，以及卫星危机后学者依托 PSAC 与 COSPUP 双轨游说化解政治干预、确立同行评议与科教一体信条的博弈历程（pp. 35–38）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统对比西方基于[[Washington Consensus|华盛顿共识]]的新自由主义高等教育模式与中国基于[[Beijing Consensus|北京共识]]的发展型国家模式，揭示学术自由、大学自治与国家战略规划在全球高等教育治理中的深层哲学分野（pp. 689–690）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 结合中国对东南亚教育外交，阐明大学战略从属治理与西方学术自由传统的制度差异，以及孔院学术自主争议外溢对涉外办学形成的防范制约（pp. 79–80, 85–86）。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论述同行评议作为学术自治屏障在二战后的确立，以及当代因资助率走低导致学者主动避险、产出平庸化及国会政治专项分肥侵蚀的严峻危机。

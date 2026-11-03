@@ -121,6 +121,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1945 — 政策[[Paradigm|范式]]制度化** [[Vannevar Bush|万尼瓦尔·布什]]在报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中正式将科研划分为基础与应用，确立政府仅对无功利目的的基础科学负责，直接塑造了 [[National Science Foundation|NSF]] 的立馆宗旨。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> - **1960–1965 — 抵御功利干预与“小科学”话语建构** 在苏联卫星危机引发的科研体制重组中，白宫总统科学顾问委员会（[[President's Science Advisory Committee|PSAC]]）发布《[[Seaborg Report 1960|西博格报告]]》，将基础研究与研究生教育锚定为不可分割的整体；国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）在《基础研究与国家目标》中进一步将基础研究操作化为由学者自由探索的“小科学”，确立 15% 稳定预算增长基准，使二分法成为学术精英抵御国防部军工实用干预与争取非涉密自主拨款的战略修辞工具。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]
 > - **1963 — 全球统计口径标准化** [[OECD|经济合作与发展组织]]（OECD）出台《[[Frascati Manual|弗拉斯卡蒂手册]]》，正式将基础研究、应用研究与试验开发作为国家研发经费（R&D）统计的三大固定科目，使二分法成为全球通用官僚规程。
 > - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维拓扑打破** [[Donald Stokes|唐纳德·斯托克斯]]提出二维动机矩阵，创立用启发性基础研究概念，有力挑战了一维对立，但在[[Discourse|话语]]上仍保留了二分法词汇。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **2013 — 宣告二分法终结** 纳拉亚纳穆尔提等人在《科学与技术问题》撰文宣布二分法寿终正寝（RIP），主张以客观产出的发现与发明循环模型全面替代动机二分，并以[[Long-Term Public Utility|长期公共效用]]重构科研资助准绳。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
@@ -139,7 +140,26 @@ updated: 2026-11-03
 > - **[[Epistemology|认识论]]伪命题批评** 纳拉亚纳穆尔提等人批评二分法是人为制造的身心二元论投射，完全无视物理学诺奖谱系中发明与发现不可分割的历史经验。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 > - **制度性断裂批评** 批评二分法将国家实验室与大学置于互不理解的藩篱之中，阻碍了应对气候变化、公共卫生等复合型国家重大危机的能力。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 
+> [!warning|limits] 适用局限
+> 基础/应用研究二分法仅适用于粗粒度的财政预算科目分类与冷战特定时期学术界争取自主资助的政治话语防御；在微观科研实践中，人为割裂基础与应用会忽视工程发明的认知反哺作用，并导致具有长期公共价值的高风险硬件工艺陷入资助盲区。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Pasteur's Quadrant]] | 理论 | 斯托克斯提出的二维替代框架，打破二分法的一维对立但保留其词汇。 |
+> | [[Discovery-Invention Cycle]] | 理论 | 纳拉亚纳穆尔提等提出的彻底替代范式，以发现与发明的双向对称循环取代二分法。 |
+> | [[Curiosity-Driven Research]] | 概念 | 二分法所预设的纯基础研究核心动力形态。 |
+> | [[Mission-Oriented Research]] | 概念 | 二分法所排斥或对立的国家战略任务驱动型研究范式。 |
+> | [[Big Science]] | 概念 | 冷战时期被 COSPUP 区分于学者自由探索小科学的巨型工程化研发模式。 |
+> | [[Vannevar Bush]] | 人物 | 在《无尽的前沿》中将二分法制度化为战后美国国家科技政策基石的代表学者。 |
+> | [[Science, The Endless Frontier 1945]] | 事实 | 二分法作为公共财政资助准则首次被法定确立的历史标志性报告。 |
+> | [[Seaborg Report 1960]] | 事实 | 依托基础与应用区分确立大学科研与研究生教育一体化信条的关键政策文件。 |
+
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 结合冷战初期至卫星危机前后美国大学科研资助政策演进，揭示学术精英如何战略性调配基础/应用二分法话语，依托 PSAC 与 COSPUP 将基础研究界定为免受军工任务干预的“小科学”并确立 15% 增长基准（pp. 36–38）。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 全面梳理并宣告基础/应用研究二分法终结，论证其历史文化根源与现实危害，提出以[[Discovery-Invention Cycle|发现-发明循环]]与[[Long-Term Public Utility|长期公共效用]]重构科技政策。
