@@ -73,7 +73,7 @@ title: "Argument_Haubrock_2026_NHB"
 argument_key: "Argument_Haubrock_2026_NHB"
 argument_display_title: "How contemporary academic structures constrain scientific creativity and hold back early-career researchers"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

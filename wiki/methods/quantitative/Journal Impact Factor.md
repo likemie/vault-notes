@@ -9,7 +9,7 @@ summary: "由 Eugene Garfield (1955, 1972) 提出并由科学信息研究所建�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -114,12 +114,12 @@ updated: 2026-11-03
 > > [!geogebra] 动态参数模拟与塞格伦偏斜效应
 > > - **主卡片（左侧）** 动态展示两年期算术均值 JIF、单篇真实中位数被引以及两者的偏斜虚高倍率。
 > > - **滑块 P_tot** 评价前两年目标期刊发表的可引论著总篇数 $P_{y-1} + P_{y-2}$（100–500 篇）。
-> > - **滑块 c_med** 常规论文单篇中位数获引频次（1.0–10.0 次）。
-> > - **滑块 p_top** 顶端极端高引爆款论文占期刊总发文的比例（0%–25%）。
-> > - **滑块 k_mult** 爆款论文相对于中位数论文的获引放大倍率（5–40 倍）。
-> > - **明细面板（底部）** 呈现常规论著与高引论文的获引贡献拆解，直观还原塞格伦（Seglen, 1997）偏斜机制。
+> > - **滑块 c_med** 常规论著单篇中位数获引频次（1.0–10.0 次）。
+> > - **滑块 p_top** 顶端极端高引爆款论著占期刊总发文的比例（0%–25%）。
+> > - **滑块 k_mult** 爆款成果相对于中位数论著的获引放大倍率（5–40 倍）。
+> > - **明细面板（底部）** 呈现常规论著与高引成果的获引贡献拆解，直观还原塞格伦（Seglen, 1997）偏斜机制。
 > >
-> > 拖动滑块 $p_{top}$ 与 $k_{mult}$ 可观察到算术均值对极端值的敏感性：当仅有 15% 的爆款成果获得 20 倍引用时，JIF 即被推高至单篇中位数的近 4 倍，且这 15% 的论文占据了整刊近 80% 的总被引量。
+> > 拖动滑块 $p_{top}$ 与 $k_{mult}$ 可观察到算术均值对极端值的敏感性：当仅有 15% 的爆款成果获得 20 倍引用时，JIF 即被推高至单篇中位数的近 4 倍，且这 15% 的高引成果占据了整刊近 80% 的总被引量。
 > >
 > > ![[wiki/assets/geogebra/journal_impact_factor.ggb]]
 
@@ -167,3 +167,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 证实同一期刊内部成果被引存在极端方差，确立影响因子不能预测单篇成果影响（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，p. 207）；论证破除影响因子崇拜并引入替代计量与专利实现多维评价（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 244–248）。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 剖析学术界将期刊影响因子作为人才晋升与资助分配决定性依据的评价异化，论证该指标加剧了青年学者避险心理与成果增量化。
