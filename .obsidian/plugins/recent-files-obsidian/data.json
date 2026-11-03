@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "change_log",
+      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/change_log.md"
+    },
+    {
       "basename": "Argument_Liu_2018_Nature",
       "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "广东省民政事业发展十五五规划_逐页文字整理_待核对",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_逐页文字整理_待核对.md"
-    },
-    {
-      "basename": "SciSciNet",
-      "path": "wiki/facts/us/SciSciNet.md"
     }
   ],
   "omittedPaths": [],

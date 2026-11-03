@@ -78,10 +78,11 @@ related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -189,6 +190,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 援引 2025 年欧盟玛丽·斯克沃多夫斯卡-居里行动计划（MSCA）博士后奖学金仅 9.6% 获批率的极度内耗案例，实证批判超国家资助体系中预算硬约束引发的学术精力空转与青年人才流失。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证[[Document|文献]]。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析欧盟如何在[[Subsidiarity Principle|辅助性原则]]约束下通过三重机制渗透国家教育政策的核心论证文献。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 剖析[[EU Skills Agenda|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。

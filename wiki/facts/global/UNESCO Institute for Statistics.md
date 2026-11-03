@@ -60,10 +60,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -169,5 +170,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 调用 UIS 2024 年度全职当量科研人员密度与各国研发支出占 GDP 比例全量指标，实证揭示全球北方对科研财力与人力资源的极端垄断对全球南方探索范式的边缘化冲击。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 战略审查实证确认 UIS 在全球经常调阅证据源中名列第 7，作为多边统计中枢支撑全球教育规划。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析 UIS 依托 ISCED 标准与 SDG 4 法定托管职能构建全球教育数字治理基础设施的演进历程。

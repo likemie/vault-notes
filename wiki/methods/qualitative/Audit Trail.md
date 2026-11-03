@@ -11,9 +11,9 @@ summary: "质性研究中系统记录研究全过程证据与决策链条的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual

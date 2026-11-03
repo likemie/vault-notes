@@ -2,7 +2,6 @@
 title: Rainer Kattel
 aliases:
   - 莱纳·卡特尔
-  - 卡特尔
   - Kattel, R.
 summary: "爱沙尼亚裔公共治理与创新政策学者，伦敦大学学院创新与公共目的研究所（IIPP）教授兼副所长，开创公共部门动态能力与演化政策能力理论，系统阐释使命导向创新政策的历史代际转型与创新官僚制。"
 type: person
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-03
 ---
 
 ---
@@ -107,7 +106,7 @@ updated: 2026-10-22
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Mariana Mazzucato]] — 共同领导 UCL IIPP 研究所，联合开创[[Public Dynamic Capabilities|公共部门动态能力]]与[[Mission-Oriented Innovation Policy|使命导向创新政策]]系列理论。
+> - **师承／合作学者** [[Mariana Mazzucato]] — 共同领导 UCL IIPP 研究所，联合开创[[Public Dynamic Capabilities|公共部门动态能力]]与[[Mission-Oriented Innovation Policy|使命导向创新政策]]系列理论。
 > - **理论渊源** [[Evolutionary Economics|演化经济学]]（[[Joseph Schumpeter|约瑟夫·熊彼特]]） — 继承演化经济学[[Creativity|创造性]]破坏与[[Technological Trajectories|技术轨道]]理论，拓展至公共部门组织领域。
 > - **理论渊源** [[Max Weber|马克斯·韦伯]]（Max Weber） — 吸收理性[[Bureaucracy|官僚制]]与精英功绩制思想，探讨国家能力演化。
 

@@ -122,10 +122,11 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -351,6 +352,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合联合国教科文组织统计研究所（UIS）跨国数据剖析全球科研人力与经费分布的极端极化格局，探讨多边国际组织在推动开放科学与矫正地缘科研不平等中的制度角色。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987)]] — 记录教科文组织对营养科学课程推广的小额专项资助，辨析国际规范倡导与具体办学供给责任。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 梳理教育多边主义演进中教科文组织主导权流失，辨析 6-3-3 学制模板在本土落地时的适切性张力。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 剖析宗迪恩大会后教科文组织教育理念主导权易手，以及脱离信贷资金支持导致的免费建议廉价性困境。

@@ -132,10 +132,11 @@ related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -294,6 +295,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合科学基金同行评审的分辨力局限与评审实验，论证在前 20% 达标标书中引入适度随机抽签制可有效破除申请人围绕微小分差展开的辞藻过度包装，为高风险非共识探索开辟制度生路。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托 NSF 资助项目的全流程追踪档案，揭示跨学科攻坚团队面临显著的发表前沟通壁垒与协调成本，成果流产或未能发表风险偏高，印证多样性引文溢价存在幸存者偏差。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 讨论政策研究员经历如何促进研究者理解政策过程，以及进入 NSF 等联邦机构参与资助决策的可能路径。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 以工作未来项目说明 STEM 与人文社科融合，并讨论产学参与对不同学科的双向价值。
