@@ -346,10 +346,19 @@ updated: 2026-11-03
 ---
 
 > [!entry-map] 条目关联
-> - 统计与方法维度：[[Meta-analysis|元分析]]、[[Effect Size|效应量]]、[[Between-Study Variance|研究间方差]]、[[Random-Effects Model|随机效应模型]]、[[Moderator Analysis|调节变量分析]]、[[Sampling Error|抽样误差]]
-> - 理论与认识论脉络：[[Complexity Theory|复杂性理论]]、[[Critical Realism|批判实在论]]、[[Paradigm|范式]]、[[Ontology|本体论]]、[[Epistemology|认识论]]
-> - 科学学与宏观结构：[[Citation Distribution|引文分布]]、[[Relative Citation Normalization|相对引文归一化]]
-> - 教育实践与微观机制：[[Cognitive Load Theory|认知负荷理论]]、[[Executive Function|执行功能]]、[[Inhibitory Control|抑制控制]]、[[Ecological Validity|生态效度]]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Meta-analysis]] | 方法 | 元分析通过检验跨研究效应量发散程度评估异质性并指导模型选择。 |
+> | [[Moderator Analysis]] | 方法 | 探寻效应量系统性异质性来源与干预有效情境边界的核心分析手段。 |
+> | [[Between-Study Variance]] | 方法 | 随机效应模型中衡量超出偶发抽样误差的跨研究真实异质性方差（$\tau^2$）。 |
+> | [[Random-Effects Model]] | 方法 | 容纳并建模研究间真实异质性的基础元分析统计模型。 |
+> | [[Sampling Error]] | 概念 | 区别于系统性异质性的样本偶然随机抽样变异。 |
+> | [[Complexity Theory]] | 理论 | 将异质性确立为开放社会系统基本存在形态与方法论多元主义公理。 |
+> | [[Critical Realism]] | 理论 | 强调深层因果机制与情境递归交互，反对话语与统计粗暴同质化。 |
+> | [[Citation Distribution]] | 概念 | 展现跨学科巨大引用容量异质性的宏观知识演化分布。 |
+> | [[Relative Citation Normalization]] | 方法 | 通过相对尺度变换消除跨学科引用异质性并还原普适标度规律的计量技术。 |
+> | [[Ecological Validity]] | 概念 | 抵制人为数学清洗异质性、捍卫复杂多变量课堂情境真实性的方法论标准。 |
 
 ---
 
