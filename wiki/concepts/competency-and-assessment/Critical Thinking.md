@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，整合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 120
+related_count: 121
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -133,6 +133,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -145,13 +146,13 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Critical Thinking
 > 批判性思维是以理由为依据、有目的且能够自我调节的反思判断。个体需要识别和分析论证，评价证据与信息来源，形成推论与解释，权衡相关理由后决定相信什么或采取何种行动。完整[[Construct\|构念]]还包括探究、开放、公正、智识[[Humility\|谦逊]]和自我纠正等倾向，以及使判断成立的领域知识和情境标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 批判性思维把解释、分析、评价、推论、说明和自我调节组织为有理由的判断过程。
 > - **用途** 它用于判断学生能否独立处理知识主张，指导教学干预与课程大纲设计，并为[[Critical Thinking Assessment\|批判性思维测评]]提供[[Ontology\|本体论]]与认知构念基础。
 > - **边界** 技能名称或命令词只能提示认知活动。实际思维质量还取决于倾向、视角、学科知识、任务情境和评价标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–35)]]
@@ -164,7 +165,7 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 相近思维[[Construct\|构念]]
+> [!contrast-table|notitle] 相近思维[[Construct\|构念]]
 > | 维度 | 批判性思维 | 纯形式推理 | [[Higher-Order Thinking Skills\|高阶思维]] | [[Creativity\|创造性]]思维与问题解决 |
 > |---|---|---|---|---|
 > | **核心对象** | 知识主张、证据、论证、判断与行动 | 命题形式及推导有效性 | 超越记忆和理解的复杂认知活动 | 新方案、问题表征与可行解法 |
@@ -195,7 +196,7 @@ updated: 2026-11-02
 >     F --> C
 > ```
 
-> [!framework-table] 主要分类框架
+> [!framework-table|notitle] 主要分类框架
 > | 框架 | [[Construct\|构念]]组织方式 | 主要贡献与边界 |
 > |---|---|---|
 > | **Facione 的德尔菲共识框架** | 六项技能、16 项子技能和 19 项倾向 | 提供技能与倾向并重的规范性框架，适合测量和课程对齐。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]] |
@@ -317,7 +318,7 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **构念组成** | 技能、倾向、知识和情境共同决定思维质量 | 定义、测量、量表解释 | Siegel; Ennis; Facione; Paul |
@@ -338,10 +339,11 @@ updated: 2026-11-02
 > - **2000 年代　[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]下的工具化窄化与反思遮蔽** 批判政策学者揭示，在新自由主义全球治理与知识经济[[Discourse|话语]]下，批判性思维在政策层面被窄化为适应劳动力市场的非政治性技能，其民主公民批判与价值反思功能面临系统性遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 > - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、对话与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
 > - **2019 年　全球微观[[Classroom Observation|课堂观察]]与[[Rote Learning|死记硬背]]打破** [[World Bank|世界银行]]发布《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），将批判性思维下沉为发展中国家初等教育课堂的核心评价要素（要素 6）；打破了将批判性思维视为仅属于高等教育或发达国家的精英偏见，在基础教育语境中将死记硬背（Rote Learning）与实质性[[Higher-Order Thinking Skills|高阶思维]]任务（Substantial Thinking Tasks）作出了严格的学科化行为锚定。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
+> - **2026 年　学术过度竞争对青年学者批判性反思的挤压** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 揭示以末位淘汰和短期项目制为特征的学术评价生态，逼迫青年科研人员将策略性从众作为生存策略，在学者独立性孕育的关键期严重压制了批判性思维与高风险学术质疑。
 
 ---
 
-> [!debates] [[Construct|构念]]边界与迁移争议
+> [!debates|notitle] [[Construct|构念]]边界与迁移争议
 >
 > > [!axis] 通用结构与领域依赖
 > > 争论集中于批判性思维能否稳定跨学科迁移，以及领域知识在新任务中承担多大作用。
@@ -484,7 +486,16 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+> - 核心认知与倾向：[[Higher-Order Thinking Skills|高阶思维]]、[[Reflective Thinking|反思性思维]]、[[Critical Thinking Disposition|批判性思维倾向]]、[[Metacognition|元认知]]、[[Problem Solving|问题解决]]、[[Creativity|创造力]]
+> - 认识论与规范标准：[[Epistemic Cognition|认识论认知]]、[[Epistemological Understanding|认识论理解]]、[[Evaluativist|评价论]]、[[Evidence Standards|证据标准]]、[[Scientific Explanation|科学解释]]
+> - 教学法与环境支架：[[Authentic Instruction|真实性教学]]、[[Explicit Critical Thinking Instruction|显性批判性思维教学]]、[[Dialogue in Education|对话教育]]、[[Cooperative Learning|合作学习]]、[[Problem-Based Learning|基于问题的学习]]、[[Generative Artificial Intelligence|生成式人工智能]]
+> - 测评与课程转化：[[Critical Thinking Assessment|批判性思维测评]]、[[Construct Validity|构念效度]]、[[Constructive Alignment|建构性对齐]]、[[General Education|通识教育]]、[[IB Diploma Programme|国际文凭大学预科项目]]
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - **学术过度竞争对青年学者批判性反思的挤压** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 揭示以末位淘汰和短期项目制为特征的学术评价生态，逼迫青年科研人员将策略性从众作为生存策略，在学者独立性孕育的关键期严重压制了批判性思维与高风险学术质疑。
 > - **[[Man-Computer Symbiosis|人机协同]][[Scientific Explanation|科学解释]]与[[Epistemological Vigilance|认识论警觉]]** [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 运用[[Multimodal Discourse Analysis|多模态话语分析]]追踪高中生与 [[Generative Artificial Intelligence|GenAI]] 协同建构科学解释的认知过程，揭示双轨支架对批判性审验与证据[[Triangulation|三角互证]]的激活机制。
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 以 [[IB Diploma Programme|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity|构念效度]]** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct|构念]]覆盖。

@@ -16000,6 +16000,19 @@
     ]
   },
   {
+    "title": "Career Collective Impact",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Career Collective Impact.md",
+    "aliases": [
+      "生涯累积影响力",
+      "职业累积引文量",
+      "个体累积引文轨迹",
+      "Collective Impact",
+      "Cumulative Career Impact",
+      "g(t)"
+    ]
+  },
+  {
     "title": "Citation Aging",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Citation Aging.md",
@@ -38598,6 +38611,18 @@
     "subtype": "program"
   },
   {
+    "title": "Google Scholar",
+    "type": "fact",
+    "path": "wiki/facts/global/Google Scholar.md",
+    "aliases": [
+      "谷歌学术",
+      "GS",
+      "Google Scholar Citations",
+      "谷歌学术引文档案"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Institutional Management in Higher Education",
     "type": "fact",
     "path": "wiki/facts/global/Institutional Management in Higher Education.md",
@@ -38657,6 +38682,17 @@
       "ISTP",
       "International Summit on the Teaching Profession",
       "国际教师职业高峰会"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Internet Movie Database",
+    "type": "fact",
+    "path": "wiki/facts/global/Internet Movie Database.md",
+    "aliases": [
+      "IMDb",
+      "互联网电影资料库",
+      "IMDB"
     ],
     "subtype": "program"
   },

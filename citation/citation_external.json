@@ -24951,6 +24951,8 @@
     "Wasik, 2020": "Wasik, 2020",
     "Wassenaar et al. (2020)": "Wassenaar et al., 2020",
     "Wassenaar et al., 2020": "Wassenaar et al., 2020",
+    "Wasserman et al. (2015)": "Wasserman et al., 2015",
+    "Wasserman et al., 2015": "Wasserman et al., 2015",
     "Watanabe (2015)": "Watanabe, 2015",
     "Watanabe, 2015": "Watanabe, 2015",
     "Waterboro et al. (2023)": "Waterboro et al., 2023",
@@ -208474,6 +208476,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A critical evaluation of systematic reviews assessing the effect of chronic physical activity on academic achievement, cognition and the brain in children and adolescents: a systematic review."
+    },
+    "Wasserman et al., 2015": {
+      "aliases": [
+        "Wasserman et al., 2015",
+        "Wasserman et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wasserman et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Internet Movie Database.md"
+      ],
+      "title": ""
     },
     "Watanabe, 2015": {
       "aliases": [

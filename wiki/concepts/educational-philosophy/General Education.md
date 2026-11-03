@@ -24,6 +24,9 @@ related_concepts:
   - "[[Assessment Backwash]]"
   - "[[Terminal Courses]]"
   - "[[Variable]]"
+  - "[[Critical Thinking]]"
+  - "[[Knowledge Production]]"
+  - "[[Academic Freedom]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -34,6 +37,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-08-23
@@ -49,7 +53,7 @@ updated: 2026-11-02
 > [!def] General Education
 > 通识教育（General Education）是一种使学生获得多种思想工具，并愿意把这些工具用于新情境的教育理念。[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）参与的[[International Baccalaureate|国际文凭]]课程改革把通识性从知识覆盖范围转向学习过程。学生仍需掌握事实、概念和背景，但教育成效主要体现为能否运用语言、数学、历史、实验科学、道德与审美判断等不同思维方式理解经验。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–44)]]
 
-> [!concept-lens] 教育广度、课程用途与适用边界
+> [!concept-lens|notitle] 教育广度、课程用途与适用边界
 > - **含义** 教育广度来自学生能够进入多少种性质不同的思维活动，以及能否分辨各自的证据、判断规则与限度。
 > - **用途** 它为高中后期课程协调跨领域分布、单科学习深度和大学专业准备，也为国际课程无法建立共同知识全集的问题提供选择标准。
 > - **边界** 通识教育主要处理共同智识能力和思维方式的广度。[[Whole Person Education|全人教育]]还包括创造、社会行动、审美生活、身体经验、精神生活和享受闲暇的能力。
@@ -65,7 +69,7 @@ updated: 2026-11-02
 
 相近概念涉及不同的目标范围与分析层次。
 
-> [!contrast-table] 通识教育及其相近课程理念
+> [!contrast-table|notitle] 通识教育及其相近课程理念
 > | 维度 | 通识教育 | [[Encyclopaedism\|百科全书主义]] | [[Curriculum as Process\|作为过程的课程]] | [[Whole Person Education\|全人教育]] |
 > |---|---|---|---|---|
 > | **核心对象** | 多种思维方式及其迁移 | 广泛学科与知识内容 | 学习者经历的探究和理解过程 | 人在理解、行动与享受中的完整发展 |
