@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Multiple Regression",
+      "path": "wiki/methods/quantitative/Multiple Regression.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+    },
+    {
+      "basename": "Survivorship Bias",
+      "path": "wiki/concepts/research-methodology/Survivorship Bias.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "WSB Model",
+      "path": "wiki/theories/science-policy/WSB Model.md"
+    },
+    {
+      "basename": "Combinatorial Novelty",
+      "path": "wiki/concepts/science-policy/Combinatorial Novelty.md"
     },
     {
       "basename": "Disruption Index",
@@ -117,10 +137,6 @@
       "path": "wiki/templates/template-argument-monograph.md"
     },
     {
-      "basename": "Combinatorial Novelty",
-      "path": "wiki/concepts/science-policy/Combinatorial Novelty.md"
-    },
-    {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
     },
@@ -177,28 +193,12 @@
       "path": "wiki/persons/bulgaria/Pepka Boyadjieva.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
-    },
-    {
       "basename": "Cowen(Ed.)_2009_Springer",
       "path": "books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer.md"
     },
     {
       "basename": "Argument_Cowen_2009_HistoryCreation",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
-    },
-    {
-      "basename": "Argument_Beech_2009_GlobalGarden",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
-    },
-    {
-      "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
-    },
-    {
-      "basename": "Portfolio-Based Research Funding",
-      "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md"
     }
   ],
   "omittedPaths": [],
