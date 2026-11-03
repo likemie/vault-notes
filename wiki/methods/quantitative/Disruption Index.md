@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-03
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis|文献计量分析]]、复杂网络引文[[Network Analysis|网络分析]]。
 > - **前置步骤** 成果参考文献消歧与引文网络图谱构建。
-> - **变体与扩展** CD5 指数（发表后 5 年窗口）、去除自引后的修正颠覆度、按期刊与年代加权的相对颠覆百分位。
+> - **变体与扩展** CD5 指数（发表后 5 年窗口）、无参考文献分母修正变体 $D_{noR}^5$、去除自引后的修正颠覆度、折损累积增益聚合算法（DCG）、按期刊与年代加权的相对颠覆百分位。
 
 > [!dev-timeline] 方法演变
 > - **2017 — 基础定义提出** Russell J. Funk 与 Jason Owen-Smith 在创新研究中首次形式化 CD 指数算法，用于评估医学发明专利的[[Technological Trajectories|技术轨道]]路线变革。
@@ -132,6 +132,12 @@ updated: 2026-11-03
 > > | 读法 | 零值均势 | $D = 0$（或 $n_i = n_j$）表明成果在颠覆开拓与累积巩固之间达成均势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 130)]] |
 > > | 注意 | [[Value Neutrality\|价值中立]] | 指数仅区分工作类型而非科学质量的高低，实验验证理论的重大突破常表现为高度负值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 130)]] |
 > > | 注意 | 时滞效应 | 原创新概念常经历较长的承认延迟，短期引文窗口内的 $D$ 值波动较大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 131)]] |
+
+> [!method-stack] 数据口径
+> - **数据来源** 依赖具有完备引文链接的数据库（如 Web of Science、OpenAlex、Microsoft Academic Graph）。
+> - **时间与范围** 通常设置 5 年（$D_5$）或 10 年统计时间窗以平衡引文充分累积与时滞效应；区分研究型论著与综述或无参考文献成果。
+> - **清洗与归属** 需剔除自引干扰；对于无参考文献的开创性理论成果，采用无参考分母修正变体 $D_{noR}^5$。
+> - **标准化与聚合** 按学科与发表年份计算百分位（Disruption Percentile）消除时间通胀；多篇成果生涯聚合时采用折损累积增益（DCG）算法解决算术平均导致的代表作掩盖偏差。
 
 ---
 
