@@ -9,7 +9,7 @@ aliases:
 summary: "由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) 提出的科学学生涯规律理论；通过反事实生涯序列置换零模型，证实学者在生涯不同阶段产出最高影响力代表作的概率完全由发文生产力演进曲线所驱动，单篇成果影响力在发表序列中服从均匀随机分布，打破了青年期天赋创造力垄断重大科学突破的传统迷思。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 31
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"

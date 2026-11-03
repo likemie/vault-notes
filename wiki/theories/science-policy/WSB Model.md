@@ -10,7 +10,7 @@ aliases:
 summary: "由 Dashun Wang、Chaoming Song 与 Albert-László Barabási (2013) 提出的单篇文献引文动力学最小模型；系统整合文献指数增长、优先连接、内生适应度与对数正态衰老，推导出累积被引轨迹的封闭解析解与跨学科普适主曲线，证明成果长程终极影响仅由相对适应度支配（Wang & Barabási, 2021）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Santo Fortunato]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Lin_2023_SciData]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -96,6 +97,7 @@ updated: 2026-11-02
 > [!dev-timeline] 理论版本与贡献
 > - **2013 — 基础 WSB 最小引文动力学模型确立** 王大顺、宋朝鸣与巴拉巴西在 Science 发文，形式化整合四大机制并推导出三参数单篇引文轨迹解析解，确立跨学科普适主曲线坍缩。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]
 > - **2013 — 睡美人与双峰激活轨迹拓展** 将对数正态存活概率拓展为双峰混合分布，成功拟合加菲尔德引文索引论著与 BCS 超导理论等非典型延迟认可与二次爆发文献。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> - **2018 — 与爆发期模型结合推导生涯累积影响力** 刘路（Lu Liu）等将 WSB 引文动力学模型与爆发期双状态模型结合，以 WSB 模型的对数正态被引函数作为单篇成果生命周期基准，推导出个体学者全生命周期累积影响力演化的解析方程 $g(t) = g_0(t) + \Delta g(t)$，证实爆发期增量贡献项 $\Delta g(t)$ 主导了个体生涯总影响力的差异。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 398–399)]]
 > - **2018 — 《科学》全景综述整合静态分布与动态生长（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等人在《科学》发文系统梳理科学学基准模型，将 WSB 微观引文动力学方程与宏观引文分布普适性相整合，展示经微观参数重标度后跨学科成果引文时序轨迹精确重叠于标准对数正态主曲线，为成果长效影响力预测确立理论基准。
 > - **2021 — 科学学实证综合与终极影响定理确立** 王大顺与巴拉巴西在《科学学》中系统集成 WSB 模型，追踪 Cell、PNAS 与 PRB 跨越二十年的实证演化，确立成果长程价值严格由适应度决定、期刊品牌溢价必然衰减的物理极限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 214–217)]]
 > - **2023 — 大规模工程化解算与长程预测稳健性复现** 林泽、尹亚楠、刘鲁与王大顺在构建 SciSciNet 时，研发分布式非线性拟合算法，对 36,802 篇物理学长周期成果实施 WSB 模型参数全量解算；实证验证了经验引文轨迹向标准正态累积分布主曲线的普适坍缩，证实基于 15 年历史引文训练期对终身引文的长程预测误差（MAPE）严格保持在 0.15 以下。[[Argument_Lin_2023_SciData|(Lin et al., 2023, Figure 5)]]
@@ -176,6 +178,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 将 WSB 引文动力学模型与爆发期模型相结合，推导出个体学者生涯累积被引影响力的封闭解析解（pp. 398–399）。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》综述中系统评述 WSB 引文动力学模型，指出其整合优先连接、知识老化与内在适合度，能够精确预测成果全生命周期引文累积轨迹（p. 4）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 中规模化预解算数千万篇成果的 WSB 模型参数（$\mu, \sigma, c_\infty$），基于 3.68 万篇物理学论著稳健复现了引文动力学主曲线坍缩与长程低误差预测（MAPE < 0.15）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 系统推导 WSB 最小引文模型解析方程，确立跨学科普适曲线坍缩，并实证揭示终极影响由相对适应度决定的物理极限。

@@ -12,7 +12,7 @@ summary: "由 Roberta Sinatra et al. (2016) 提出的科学学生涯纵向引文
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -51,6 +51,8 @@ related_persons:
   - "[[Lu Liu]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Liu_2018_Nature]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
@@ -93,7 +95,7 @@ updated: 2026-11-03
 > [!dev-timeline] 方法演化
 > - **2016 — 代表作时序随机性检验** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）等在《科学》（*Science*）论著中通过打乱引文序列检验最高成果出现时间 $t^*$ 与相对位次 $N^*/N$，确立[[Random Impact Rule|随机影响法则]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–56)]]
 > - **2016 — 全生命周期能力稳态检验** 西纳特拉等将长周期物理学者生涯等分为早晚期，基于随机置换零模型测定波动置信带，证实 95.1% 学者的 [[Q-Factor|Q 因子]]波动落入纯随机置换带，验证了能力的终身平稳性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 66–67)]]
-> - **2018 — 局域成簇与零模型偏离检验** 刘禄（[[Lu Liu]]）等通过置换发文时序构建间隔方差零模型，发现真实生涯中最高与次高代表作紧邻发表概率是随机预期的 1.57 倍，突破了独立置换假定并促成爆发期模型确立。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
+> - **2018 — 局域成簇与零模型偏离检验** [[Lu Liu|刘路]]（Lu Liu）等通过置换发文时序构建间隔方差零模型，发现真实生涯中最高与次高代表作紧邻发表概率是随机预期的 1.57 倍，突破了独立置换假定并促成爆发期模型确立。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–398)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 
 ---
 
@@ -196,7 +198,7 @@ updated: 2026-11-03
 
 > [!method-limits] 方法局限
 > - **偏误来源** 生涯筛选生存偏误（仅能纳入长周期存续学者）、初期消歧错误引发的虚假发表、长周期引文窗口的时滞滞后。
-> - **适用边界** 结论适用于解释单篇成果影响力的相对出现顺序，不适用于推导学者整体学术能力的形成原因。此外，传统生涯随机置换法假定成果影响力时序完全独立；实证揭示真实代表作存在局域成簇聚集现象（连续出现概率是随机预期的 1.57 倍），促使后续引入非平稳激发的爆发期模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
+> - **适用边界** 结论适用于解释单篇成果影响力的相对出现顺序，不适用于推导学者整体学术能力的形成原因。此外，传统生涯随机置换法假定成果影响力时序完全独立；实证揭示真实代表作存在局域成簇聚集现象（连续出现概率是随机预期的 1.57 倍），促使后续引入非平稳激发的爆发期模型。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–398)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 > - **误用风险** 容易被误读为科学研究全凭运气盲动，忽视了学者内在能力参数对平均引文基准的决定性作用。
 > - **补救方式** 结合品质因子模型进行个体能力标准化；对诺贝尔奖得主剔除直接获奖论著以校正生存偏误。
 
@@ -216,7 +218,7 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 运用生涯置换零模型检验代表作时序间距与最长连胜长度，排除了局部成簇源于独立随机过程的可能性（pp. 396–398）。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 创新设计生涯序列随机置换反事实零模型，在保持发文节奏的前提下打乱被引次序，证实突破时序分布完全由发文速率所主导。
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 运用生涯置换零模型检验代表作时序间距与最长连胜长度，排除了局部成簇源于独立随机过程的可能性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用生涯置换零模型确立随机影响法则，并将其拓展至早晚期能力稳态检验与代表作成簇偏离识别。

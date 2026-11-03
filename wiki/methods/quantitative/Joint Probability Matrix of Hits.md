@@ -48,9 +48,9 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts:
-  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Microsoft Academic Graph]]"
 related_arguments:
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: active
@@ -61,7 +61,7 @@ updated: 2026-11-03
 ---
 
 > [!def] Joint Probability Matrix of Hits
-> 代表作联合发生概率矩阵（Joint Probability Matrix of [[Victorian HITS and Literacy Toolkit|Hits]]，$\phi(N^\ast, N^{\ast\ast})$）是科学学中用于检验学者、艺术家及电影导演全生命周期产出序列中顶级代表作是否具有时序自相关成簇特征的量化检验矩阵。通过统计个体最高被引论著（第 $N^\ast$ 篇）与次高被引论著（第 $N^{\ast\ast}$ 篇）在全产生涯序列中同时出现的经验联合概率分布 $P(N^\ast, N^{\ast\ast})$，并除以基于生涯洗牌法置换生成的独立随机[[Null Hypothesis|零假设]]期望 $P_{\text{rand}}(N^\ast, N^{\ast\ast})$，输出归一化比值矩阵 $\phi(N^\ast, N^{\ast\ast})$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
+> 代表作联合发生概率矩阵（Joint Probability Matrix of Hits，$\phi(N^\ast, N^{\ast\ast})$）是科学学中用于检验学者、艺术家及电影导演全生命周期产出序列中顶级代表作是否具有时序自相关成簇特征的量化检验矩阵。通过统计个体最高被引论著（第 $N^\ast$ 篇）与次高被引论著（第 $N^{\ast\ast}$ 篇）在全产生涯序列中同时出现的经验联合概率分布 $P(N^\ast, N^{\ast\ast})$，并除以基于生涯洗牌法置换生成的独立随机[[Null Hypothesis|零假设]]期望 $P_{\text{rand}}(N^\ast, N^{\ast\ast})$，输出归一化比值矩阵 $\phi(N^\ast, N^{\ast\ast})$。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 测度个体学术生涯中的成果时序自相关性与[[Hot Streak|学术爆发期]]成簇强度。
@@ -91,7 +91,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 方法演变
 > - **2016 — 随机影响法则与独立基准确立** [[Roberta Sinatra]] et al. 提出随机影响规律，确立单篇成果在全生涯服从均匀抽样，为联合矩阵提供了基线零假设。
-> - **2018 — 《自然》刊载成果正式提出代表作联合概率矩阵** [[Lu Liu|刘路]]与[[Dashun Wang|王大顺]]等人发明归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$，首次在大样本实证中量化证实对角线峰值达到 1.57 倍，为学术爆发期提供首要实证支柱。[[Argument_Liu_2018_Nature|(Liu et al., 2018)]]
+> - **2018 — 《自然》刊载成果正式提出代表作联合概率矩阵** [[Lu Liu|刘路]]与[[Dashun Wang|王大顺]]等人发明归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$，首次在大样本实证中量化证实对角线峰值达到 1.57 倍，为学术爆发期提供首要实证支柱。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]
 > - **2021 — 科学学专著系统推广** 王大顺与巴拉巴西在《[[Metascience|科学的科学]]》专著中将该矩阵列为检验科研、艺术与影视跨界创造力动力学的标准诊断[[Paradigm|范式]]。
 
 ---
@@ -217,6 +217,6 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 首创代表作联合发生概率矩阵并应用于跨领域个体生涯分析，量化证实头两项代表作紧邻发表概率达随机预期的 1.57 倍。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 首创代表作联合发生概率矩阵并应用于跨领域个体生涯分析，量化证实头两项代表作紧邻发表概率达随机预期的 1.57 倍（pp. 396–397）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 运用归一化联合概率矩阵图示科学家、艺术家与导演的最佳代表作成簇现象，测定紧邻发表概率达随机预期的 1.57 倍。

@@ -24065,6 +24065,8 @@
     "Tutal, 2023": "Tutal, 2023",
     "Tuters (2017)": "Tuters, 2017",
     "Tuters, 2017": "Tuters, 2017",
+    "Tversky & Kahneman (1971)": "Tversky & Kahneman, 1971",
+    "Tversky & Kahneman, 1971": "Tversky & Kahneman, 1971",
     "Twemlow (2001)": "Twemlow, 2001",
     "Twemlow, 2001": "Twemlow, 2001",
     "Twilhaar et al. (2018)": "Twilhaar et al., 2018",
@@ -26729,6 +26731,8 @@
     "发布了, 2006": "发布了, 2006",
     "史密斯 (2000)": "史密斯, 2000",
     "史密斯, 2000": "史密斯, 2000",
+    "吉洛维奇与特沃斯基 (1985)": "吉洛维奇与特沃斯基, 1985",
+    "吉洛维奇与特沃斯基, 1985": "吉洛维奇与特沃斯基, 1985",
     "名古屋 (1939)": "名古屋, 1939",
     "名古屋, 1939": "名古屋, 1939",
     "后期幻灭 (2008)": "后期幻灭, 2008",
@@ -27078,6 +27082,8 @@
     "等学者 (2012)": "等学者, 2012",
     "等学者, 2009": "等学者, 2009",
     "等学者, 2012": "等学者, 2012",
+    "米勒与桑胡尔霍 (2018)": "米勒与桑胡尔霍, 2018",
+    "米勒与桑胡尔霍, 2018": "米勒与桑胡尔霍, 2018",
     "米德 (1934)": "米德, 1934",
     "米德, 1934": "米德, 1934",
     "米特 (2009)": "米特, 2009",
@@ -202165,6 +202171,21 @@
       ],
       "title": ""
     },
+    "Tversky & Kahneman, 1971": {
+      "aliases": [
+        "Tversky & Kahneman, 1971",
+        "Tversky & Kahneman (1971)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tversky & Kahneman, 1971"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Hot Hand Fallacy.md"
+      ],
+      "title": ""
+    },
     "Twemlow, 2001": {
       "aliases": [
         "Twemlow, 2001",
@@ -221120,6 +221141,21 @@
       ],
       "title": ""
     },
+    "吉洛维奇与特沃斯基, 1985": {
+      "aliases": [
+        "吉洛维奇与特沃斯基, 1985",
+        "吉洛维奇与特沃斯基 (1985)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "吉洛维奇与特沃斯基, 1985"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Hot Hand Fallacy.md"
+      ],
+      "title": ""
+    },
     "名古屋, 1939": {
       "aliases": [
         "名古屋, 1939",
@@ -223706,6 +223742,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/teacher-education/Joint Practice Development.md"
+      ],
+      "title": ""
+    },
+    "米勒与桑胡尔霍, 2018": {
+      "aliases": [
+        "米勒与桑胡尔霍, 2018",
+        "米勒与桑胡尔霍 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "米勒与桑胡尔霍, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Hot Hand Fallacy.md"
       ],
       "title": ""
     },
