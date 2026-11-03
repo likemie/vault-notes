@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -49,10 +49,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 项目推进历程
 > - **2015 年 — 系统架构发布与全量开源** 微软研究院在国际学术会议上正式公开微软学术知识图谱技术规范，向科研界免费开放全量原始数据压缩包下载。
-> - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）、[[Creativity|创造力]]迸发（Liu et al., 2018）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
+> - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）、[[Creativity|创造力]]迸发（[[Argument_Liu_2018_Nature|Liu et al., 2018]]）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 > - **2021 年 — 宣布退役与向开放科学社区移交** 微软官方于 2021 年 5 月宣布项目将在年底停运；全球开放科学组织依托其最后一版全量数据（截至 2021 年 12 月 31 日）启动数据归档与继任基础设施建设。
 > - **2022 年至今 — 衍生 OpenAlex 开放生态** 非营利机构 OurResearch 承接 MAG 的实体拓扑模式与唯一标识符体系，无缝推出全开源学术基础设施 OpenAlex，使 MAG 的数据遗产得以长期维系。
 > - **2023 年 — SciSciNet 承接数据清洗与深化扩展** 西北大学 CSSI 团队以 MAG 2021 年终版为底库，解决其预印本-正式出版成果家族重复与未分类记录噪声问题，重算 1.34 亿篇文献引文分布并贯通 NSF/NIH 资助与专利转化，建立 SciSciNet 开源数据湖。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
@@ -163,3 +164,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 以 MAG 2021 年终版为底库，通过成果家族聚拢与引文重新配赋提炼 1.34 亿篇核心出版物，开源构建连接外部资助与转化的 SciSciNet 数据湖。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将微软学术图谱作为核心实证基座，系统测定科学文献膨胀、科研人员增长与人均生产力百年稳态规律（pp. 8–9, 136, 169）。
+> - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 依托微软学术图谱提取 1800–2019 年间 21,271 位经济学家的长周期全量论著与引文网络（含 24.1 万篇代表性文献），实证揭示学者学术爆发期内的颠覆度演变与时滞规律。
