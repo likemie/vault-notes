@@ -9,7 +9,7 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -83,7 +83,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -221,11 +221,14 @@ updated: 2026-11-03
 > | **指标更新时效** | 长期稳定基准（维持历时可比性） | 动态敏捷修正（反映生源变迁） | 汉堡社会指数等通约工具数年未更新会导致学校遭遇制度性失真再现，若频繁调整则破坏时间序列纵向可比性并削弱政策效力[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]。 |
 > | **问责挂钩后果** | 强化奖惩绑定（驱动系统改进） | 诱发策略博弈（扭曲原始数据） | 一旦通约得分与资源划拨（如补偿性师资经费）或高利害后果（如学校托管）绑定，即诱发学校虚报低社会经济生源或修改测评记录等博弈行为[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 9–10)]]。 |
 
+> [!warning|limits] 适用局限
+> 通约机制适用于能够抽取共同公分母与标准化测度的管理与监控场景；在面对具有深厚文化历史积淀、强调师生具身关系与漫长教化涵育（[[Bildung]]）的本真教育活动时，强行数量通约存在严重的去情境化暴力与效度削减局限。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2–3)]]
+
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 通约机制在跨尺度教育治理中的[[Operationalization|操作化]]对照
+> [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -236,10 +239,23 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Space of Equivalence]] | 概念 | 通约机制通过脱域化指标在异质实体间虚构出的全球或区域可比空间。 |
+> | [[Incommensurability]] | 概念 | 通约机制试图克服或强制抹平的不同范式、价值或质态之间的不可比状态。 |
+> | [[International Large-Scale Assessments]] | 概念 | 依赖数量通约技术建立全球统一学生能力标尺的大规模测评制度。 |
+> | [[Goodhart's Law]] | 概念 | 揭示通约指标一旦与高利害问责刚性挂钩便诱发策略性博弈与目标置换的规律。 |
+> | [[Alain Desrosières]] | 人物 | 统计社会学家，在《大数的政治》中阐释大规模统计与等值空间建构。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较德美州级学校数据监测，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合等值空间理论，剖析经合组织如何通过 PISA 制造全球通约测量标尺并在方法上以信度压倒构念效度。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示经合组织如何通过通约技术构建等值空间，将异质教育传统化约为通用标尺以实现跨国软治理。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以效应量为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将跨国通约性界定为 PISA 规制权威的三大技术支柱之一，揭示其依托等价空间排位将新自由主义绩效治理包装为中立测量事实的机制。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释欧洲高等教育区如何依托 ESG 元标准与 DEQAR 数据库构建通约公分母，将各国异质质保体制转化为全欧可比与自动互认的等值空间。
+> - [[Argument_Zhang_Zhao_2026_EDR|张娟, 赵祥辉 (2026)]] — 提出跨学科教育经历遵循方法可迁移与知识可通约规律，指出数理与实验硬核工具的通约性是促成近缘学科交叉创新的必要基础。
