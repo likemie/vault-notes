@@ -108,6 +108,7 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-06-13
@@ -249,6 +250,7 @@ updated: 2026-11-02
 > - **2023 — 科学学数据湖对范式颠覆与组合新颖性的实证度量（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建覆盖 1.34 亿篇跨学科文献的 SciSciNet 数据湖，大规模预计算 2,800 万篇颠覆性指数与 4,500 万篇组合新颖性测度，实证再现了小团队开辟新范式探索（颠覆性显著更高）与高引突破兼顾常规性基底与尾部新颖性的普遍规律，为宏观范式演进与知识拓扑重构提供了计算实证基底。
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — [[Output-Oriented Governance|循证治理]]与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在[[Literature Review|文献综述]]中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
+> - **2026 — 既有范式守门机制与同行评审保守化** 豪布罗克等系统阐明同行评审与学术考评体制如何演变为既有范式的守门工具，通过对非常规概念打折与量化指标考核压制范式突破，迫使青年学者采取策略性顺应。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 
@@ -289,6 +291,20 @@ updated: 2026-11-02
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Scientific Paradigm]] | 概念 | 范式在自然科学与实证探究中的具体建制形态。 |
+> | [[Incommensurability]] | 概念 | 范式之间因根本世界观与评价公理不同而产生的不可通约性。 |
+> | [[Strategic Conformity in Academia]] | 概念 | 学者面对主流范式垄断时采取的主动迎合与安全避险行为。 |
+> | [[Knowledge Production]] | 概念 | 范式规定了知识生产的合法性边界、认识论假定与方法论准则。 |
+> | [[Positivism]] | 概念 | 强调客观现实与因果规律验证的经典实证科学范式。 |
+> | [[Constructivist Paradigm]] | 概念 | 强调意义生成与主体互构的解释学与建构主义范式。 |
+> | [[Critical Realism]] | 理论 | 调和实证主义本体论与诠释主义认识论的后实证主义理论框架。 |
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立科学学定量范式，实证阐明小团队颠覆既有范式、大团队深化成熟路径的生态位分工（pp. 1–5）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，预计算 2800 万篇颠覆性指数与 4500 万篇组合新颖性测度，在大规模跨学科样本中复现小团队开辟新范式突破等经典规律，为范式演变研究提供计算实证基底。
@@ -300,3 +316,4 @@ updated: 2026-11-02
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 剖析[[Geopolitics|地缘政治]][[Knowledge Power|知识权力]]范式与[[Developmentalism|发展主义]][[Knowledge Diplomacy|知识外交]]范式在跨国大学联盟解释中的理论张力与整合限度（pp. 1702–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家[[School Inspection|学校督导]]为工具性个案，分析行政审计如何通过编制锚定单一研究范式的知识综述消除学术争议，以及外部学者如何通过情境化辩驳打破单一范式的确定性幻觉（pp. 649–651）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 历史社会学解构欧盟教育治理范式从《马斯特里赫特条约》辅助性原则向[[Lisbon Strategy|里斯本战略]][[Open Method of Coordination|开放协调法]]（OMC）[[Panopticism|全景敞视]]治理范式的断裂性重构（pp. 488–491）。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统揭示当代同行评审与量化考评如何作为既有主流范式的守门机制，抑制高风险的非典型理论假说并阻碍科学范式更迭。
