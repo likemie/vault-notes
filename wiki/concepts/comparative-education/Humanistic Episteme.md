@@ -66,15 +66,15 @@ updated: 2026-11-03
 ---
 
 > [!def] Humanistic Episteme
-> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义人文科学（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴把比较教育学界定为一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义人文科学（*Wissenschaft* / *Episteme*），其职责超出对学校组织效能、劳动力产出或政策工具移植的测量。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向比较教育学在认知对象与终极目的上的最高哲学定位：研究的焦点不是冷冰冰的体制条文与量化指标，而是制度背后作为主体的人之生成与生存境况。
+> - **含义** 指向比较教育学在认知对象与终极目的上的最高哲学定位：研究的焦点是制度背后作为主体的人之生成与生存境况。
 > - **用途** 帮助研究者透视跨国比较研究如何抵御技术官僚主义（[[Technical Rationality\|技术理性]]）与经济主义[[Performance Indicators\|绩效指标]]对教育本质的剥离，重建学科的价值反思与人文批判力量。
 > - **边界** 不等于脱离制度现实的主观抒情或无根文学叙述；它要求研究者将历史制度考掘、社会结构分析与深层哲学反思有机融为一体。
 
 > [!citation-card] 卡扎米亚斯论以人为中心的人本认识论与全人文化关怀
-> [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]这四位历史学派最杰出的代表人物，对教育的考察从来不局限于狭隘的“学校规训”（schooling），而是从广义的教化与文化（paideia/culture）出发；他们将比较教育构想为一种以“人”（anthropos）为主要关切的“人本认识论”（humanistic episteme）。正因如此，这一传统具有鲜明的以人为中心（anthropocentric）取向；它浸润着人文主义哲学精神，并深切关怀人类所面临的政治、社会以及根本的伦理问题。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]这四位历史学派最杰出的代表人物，对教育的考察从广义的教化与文化（paideia/culture）出发，超出狭隘的“学校规训”（schooling）；他们将比较教育构想为一种以“人”（anthropos）为主要关切的“人本认识论”（humanistic episteme）。正因如此，这一传统具有鲜明的以人为中心（anthropocentric）取向；它浸润着人文主义哲学精神，并深切关怀人类所面临的政治、社会以及根本的伦理问题。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 >
 > *Sadler, Kandel, Hans, and Ulich, four of its most noted exponents, approached education not just from the narrow sense of 'schooling' but from the broader sense of paideia/culture, and comparative education as a 'humanistic episteme' whose major concern should be with the 'human being', the anthropos ('man'). As such, it should therefore be anthropocentric ('man-centred'); it should be pervaded by a 'humanistic' philosophy, and it should be concerned with the great problems—political, social but also ethical—which 'mankind' faces.*
 
@@ -125,7 +125,7 @@ updated: 2026-11-03
 > **批判技术工具主义对教育灵魂的剥离** 人本[[Epistemology\|认识论]]从根本上指责现代实证研究过度窄化了研究视域。
 
 > [!claim] [[Michael Sadler\|Sadler, M.]] & [[Robert Ulich\|Ulich, R.]]
-> **学校外部文化生活对教育效能的决定性支配** 萨德勒指出，教育绝非仅关乎学校围墙内部的书本知识或组织规章；校外无形无质的精神传统、社会道德环境与民族历史积淀，才是决定教育系统生命力的主导动因。乌利希进一步强调，教育学必须将具体的“人”置于绝对中心，课程、体制、评估与统计图表若脱离了对人的心智滋养，便蜕变为毫无灵魂的学术空转。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900/1964; Nash, 1977; Kazamias, 2009: 44, 52, 引自 Kazamias, 2009b)]]
+> **学校外部文化生活对教育效能的决定性支配** 萨德勒指出，校外无形无质的精神传统、社会道德环境与民族历史积淀决定教育系统的生命力，学校围墙内部的书本知识与组织规章只是其中一部分。乌利希进一步强调，教育学必须将具体的“人”置于绝对中心；课程、体制、评估与统计图表若脱离对人的心智滋养，就成为失去育人内容的学术空转。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900/1964; Nash, 1977; Kazamias, 2009: 44, 52, 引自 Kazamias, 2009b)]]
 
 ---
 

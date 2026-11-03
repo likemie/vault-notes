@@ -58,7 +58,7 @@ updated: 2026-11-03
 > **高级市场承诺（Advance Market Commitments, [[Academic Medical Center|AMC]]）**，又称“预先市场承诺”或“前瞻性采购承诺”，是一种典型的创新[[Pull Mechanisms for Innovation|拉动机制]]（Pull Mechanism）。指政府、跨国发展机构或慈善基金会在具有重大公共利益但由于外部性强、早期市场需求不确定而导致私人投资严重不足的前沿技术领域（如罕见传染病疫苗、长时储能电池、直接空气碳捕集），预先签署具有法律约束力的采购协议，承诺一旦研发团队成功研制出满足预设技术指标与安全标准的产品，出资方将以保障价格（或按差额补贴方式）向其采购特定规模的最终产品。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29, 452)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 资助机构不再试图在研发第一天评判哪一条技术路线最可行，而是通过在终点线预先设立有保障的商业市场，激发全社会多元团队展开路线竞争。
+> - **含义** 资助机构把技术路线的评判留到结果出现之后，通过在终点线预先设立有保障的商业市场，激发全社会多元团队展开路线竞争。
 > - **用途** 解决高风险实体技术从实验室向规模化量产跨越时的“[[Valley of Death|死亡之谷]]”问题，消除私人资本因担心研发成功后无法收回成本而放弃立项的[[Market Failure|市场失灵]]。
 > - **边界** AMC 高度适用于 **“最终目标清晰但实现路径未知”** 的重大工程与医疗瓶颈（如疫苗有效率达到 90%、储能成本降至每千瓦时 20 美元）；它绝不适用于漫无目的、指标难以预先界定的纯好奇心基础探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 29, 820)]]
 
@@ -77,7 +77,7 @@ updated: 2026-11-03
 > - **清晰严格的技术性能基准（Objective Technical Specifications）** 预先公开发布可量化、可[[Falsification|证伪]]的最低产品性能标准（如有效性、稳定性、单价上限、不良反应率），确保验收过程免受主观人为干预。
 > - **具有法律约束力的承购保证（Legally Binding Purchase Guarantee）** 出资方设立受保护的专项托管基金，向符合标准的获胜者保证首批产品的最低采购单价与总采购量。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
 > - **后续市场平价过渡与产能承诺（Affordable Transition & Scale）** 获资助企业在享受早期溢价采购补贴的同时，必须签署协议承诺在后续阶段以边际成本向公共卫生或能源电网长期稳定供货。
-> - **精准适用边界与机制搭配（Strategic Mechanism [[Matching]]）** 在国家资助组合中，将 [[Academic Medical Center|AMC]] 与事前对人资助、金券制和 [[Focused Research Organization|FRO]] 新型组织精准搭配，在目标明确的工程攻关中发挥杠杆撬动效应。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–30)]]
+> - **精准适用边界与机制搭配（Strategic Mechanism [[Matching]]）** 在国家资助组合中，将 [[Academic Medical Center|AMC]] 与事前对人资助、金券制和 [[Focused Research Organization|FRO]] 新型组织精准搭配，在目标明确的工程攻关中发挥放大效应。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–30)]]
 
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-11-03
 > **激励经济学与[[Market Failure|市场失灵]]矫正** 剖析公共品外部性如何导致私人研发投资严重不足，以及 [[Academic Medical Center|AMC]] 如何重塑市场收益预期。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **需求创造与投资风险消除假说** 诺贝尔经济学奖得主迈克尔·克雷默（Michael Kremer）与白宫科技战略报告共同论证指出，在疫苗、清洁能源等强公共品领域，私人企业因担心研发成功后遭遇政府价格压制或难以独占收益，往往缺乏投资意愿。AMC 机制通过预先锁定采购合同，将分散不确定的潜在社会效益转化为看得见、摸得着的确定性市场需求，从而在不依赖政府直接指令的情况下，以极高资金杠杆撬动庞大私人资本与创新人才涌入高风险攻坚领域。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
+> **需求创造与投资风险消除假说** 诺贝尔经济学奖得主迈克尔·克雷默（Michael Kremer）与白宫科技战略报告共同论证指出，在疫苗、清洁能源等强公共品领域，私人企业因担心研发成功后遭遇政府价格压制或难以独占收益，往往缺乏投资意愿。AMC 机制通过预先锁定采购合同，将分散不确定的潜在社会效益转化为看得见、摸得着的确定性市场需求，从而在不依赖政府直接指令的情况下，以有限公共资金带动庞大私人资本与创新人才涌入高风险攻坚领域。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
 
 ---
 
@@ -162,4 +162,4 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第二章，系统阐述高级市场承诺、重大悬赏奖金与[[Pull Mechanisms for Innovation|拉动机制]]在联邦组合式资助中的杠杆效能。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第二章，系统阐述高级市场承诺、重大悬赏奖金与[[Pull Mechanisms for Innovation|拉动机制]]在联邦组合式资助中的带动作用。

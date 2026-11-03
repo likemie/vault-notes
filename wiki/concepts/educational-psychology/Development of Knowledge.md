@@ -51,7 +51,7 @@ updated: 2026-11-03
 ---
 
 > [!def] Development of Knowledge
-> [[Development of Knowledge\|知识的发展]]（Development of Knowledge）是[[Epistemic Cognition\|认识论认知]]中关于“知识性质”（[[Epistemology\|nature of knowledge]]）维度的核心[[Construct\|构念]]，指个体认识到科学与人类知识并非一成不变的客观教条，而是随着新证据出现、理论[[Paradigm\|范式]]革新和共同体探究而处于持续演进、修正与动态建构之中的信念。在[[Meta-analysis\|元分析]]实证中，它是预测[[Academic Achievement\|学业成就]]效力最强、最稳健的单一[[Epistemology\|认识论]]构念。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, p. 1097)]]
+> [[Development of Knowledge\|知识的发展]]（Development of Knowledge）是[[Epistemic Cognition\|认识论认知]]中关于“知识性质”（[[Epistemology\|nature of knowledge]]）维度的核心[[Construct\|构念]]，指个体认识到科学与人类知识随着新证据出现、理论[[Paradigm\|范式]]革新和共同体探究而处于持续演进、修正与动态建构之中的信念。在[[Meta-analysis\|元分析]]实证中，它是预测[[Academic Achievement\|学业成就]]效力最强、最稳健的单一[[Epistemology\|认识论]]构念。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, p. 1097)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标识学习者对知识暂定性（Tentativeness）与演化性的深刻理解，代表认识论认知从“朴素静态观”走向“成熟生成观”的关键转变。
@@ -80,7 +80,7 @@ updated: 2026-11-03
 ## 理论主张与核心命题
 
 > [!concept-proposition] 命题一｜知识发展信念在所有[[Epistemology|认识论]][[Construct|构念]]中对[[Academic Achievement|学业成就]]具有最强大的正向预测力
-> **[[Construct\|构念]]效力的[[Heterogeneity\|异质性]]假设** [[Epistemic Cognition\|认识论认知]]下辖的各细分构念并非均质发挥作用，直接关注知识演化属性的构念能产生最大的预测红利。
+> **[[Construct\|构念]]效力的[[Heterogeneity\|异质性]]假设** [[Epistemic Cognition\|认识论认知]]下辖的各细分构念的作用并不均质，直接关注知识演化属性的构念能产生最大的预测红利。
 
 > [!claim] Greene, J.
 > **知识发展构念的[[Effect Size\|效应量]]榜首地位** 在[[Meta-analysis\|元分析]]对 19 个独立[[Epistemology\|认识论]]构念的亚组检验中，知识的发展（Development of Knowledge）展现出了最高的关联效应量：

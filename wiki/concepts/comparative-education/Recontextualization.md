@@ -90,7 +90,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 强调知识与教育理念跨越空间或[[Champ|场域]]移动时发生的选择性过滤、语义重组与功能性变形。
 > - **用途** 帮助研究者摒弃“忠实移植 vs 被动误解”的二元假象，分析接受者在[[Policy Borrowing|政策借用]]、课程转化与教学改革中的主体能动性与权力协商。
-> - **边界** 再情境化不是无中生有的全新原创，也不同于非理性的认知失误；它受制于本土既有文化传统（[[Selective Affinity|选择性亲和]]）与硬性制度架构（如高利害[[Test-Based Accountability|考试问责]]）所设定的结构边界。
+> - **边界** 再情境化受制于本土既有文化传统（[[Selective Affinity|选择性亲和]]）与硬性制度架构（如高利害[[Test-Based Accountability|考试问责]]）所设定的结构边界，也不同于非理性的认知失误。
 
 > [!citation-card] [[Basil Bernstein|伯恩斯坦]]论再情境化的选择性重构秩序
 > 再情境化……选择性地挪用、重新定位、重新聚焦其他话语并将其关联以构成自身秩序。
@@ -117,7 +117,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **生产、再情境化与再生产场所的[[Champ|场域]]分立** [[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）指出，[[Knowledge Production|知识生产]]语境（主要由学术界掌控）负责划定“不可思”（Unthinkable）的[[Epistemology|认识论]]界限；官方再情境化场域（Official Recontextualising Field, ORF，如教育部）依据政治合法性重组[[Discourse|话语]]；教学再情境化场域（Pedagogic Recontextualising Field, PRF，如大学教育院系、专业出版物）提供批判与调试；再生产语境则发生在基层学校日常实践中。
 > - **跨国五位置循环流动与层级变形** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）将再情境化拓展为全球教育场域五大结构位置模型：全球学术[[Space Production|空间生产]]专业知识；国际组织出于紧迫[[Pragmatic Paradigm|实用主义]]将其过度简化为去情境化的普遍处方（[[Global Educational Discourse|全球教育话语]]）；国家层面将其与既有规范折衷并置为政策大纲；本土学术界因[[Gatekeepers|守门人]]群体垄断而陷入依附与失声；基层教育机构在落地时则遭遇剧烈实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
-> - **选择性挪用与重构** 行动者绝非被动接收，而是从外来思想中选择性拾取符合自身诉求的元素，同时忽略或扭曲不契合的部分。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
+> - **选择性挪用与重构** 行动者从外来思想中选择性拾取符合自身诉求的元素，同时忽略或扭曲不契合的部分。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
 > - **双重驱动力：想象的亲和性与感知的不可兼容性** [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 识别出本土行动者在再情境化过程中的深层动机——既可能主动发现外来思想与本土传统的表面共鸣（如将[[John Dewey|杜威]]思想与经世致用或[[Quality Education|素质教育]]勾连），也可能因感知到对本土核心价值的威胁而将其排斥为异端。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 70)]]
 > - **三层空间变形与[[Floating Signifier|漂浮能指]]** [[Argument_Beech_2009_CE|Beech (2009a)]] 揭示话语在全球[[Space of Flows|流动空间]]被掏空为漂浮能指，在国家层与本土保守话语矛盾并置，在微观场所空间受地缘物质条件制约发生功能突变。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
 > - **[[Pragmatic Paradigm|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] 发现外来教学理念（如以学生为中心教学法）被实用主义转译为提分与课堂效率工具，与儒家对话传统亲和，但受限于统一升学大纲而保留了排斥学生共决权力的结构性硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
@@ -153,7 +153,7 @@ updated: 2026-11-03
 > **转移中意义再造的必然性** 围绕外来知识离开原始生产情境后的脱情境与重情境机制展开。经典观点强调知识在传播中会因接受者的意识形态、集体经验与权力秩序而被重新赋予含义。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
-> **接受者主动再造与[[John Dewey|杜威]]在中国的百年质变** 跨国教育思想转移不是思想从源头到接收端的无损流动，而是接受者基于本土意识形态议程与社会痛点展开的选择性挪用与重写。以约翰·杜威（John Dewey）思想在中国 100 年的四次再情境化为例：民国时期[[Hu Shi|胡适]]将其转译为反迷信武器与经世致用传统；毛泽东时代因威胁马克思主义根基而被批判为唯心主义毒瘤；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化建设旗帜；当代被部署为[[Quality Education|素质教育]]代言人。最终产物是“Duwei”这一高度质变的本土[[Knowledge Building Theory|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
+> **接受者主动再造与[[John Dewey|杜威]]在中国的百年质变** 跨国教育思想转移由接受者基于本土意识形态议程与社会痛点展开的选择性挪用与重写。以约翰·杜威（John Dewey）思想在中国 100 年的四次再情境化为例：民国时期[[Hu Shi|胡适]]将其转译为反迷信武器与经世致用传统；毛泽东时代因威胁马克思主义根基而被批判为唯心主义毒瘤；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化建设旗帜；当代被部署为[[Quality Education|素质教育]]代言人。最终产物是“Duwei”这一高度质变的本土[[Knowledge Building Theory|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
 
 > [!claim] [[Argument_Beech_2009_CE|Beech (2009a)]]
 > **三层空间变形与[[Floating Signifier|漂浮能指]]的抽象化** 再情境化在不同空间层次上呈现出差异化机制：在全球层，话语被抽象化为漂浮能指以寻求最大跨国适用性；在国家层，官方将革新与保守话语并置以协商多元利益；在实践层，教师根据地缘物质条件（如将尊重多样性解读为“尊重贫困”）赋予其具体含义，甚至产生与原始意图相反的效果。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
@@ -179,8 +179,8 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题四｜跨国去情境化话语在基层机构再情境化中的结构性解耦与替代性依赖
-> **基层实践遭遇中的异化与替代** 围绕国际机构推销的普遍改革处方进入后发国家微观学校时发生的制度解耦与意外后果展开。
+> [!concept-proposition] 命题四｜跨国去情境化话语在基层机构再情境化中的结构性脱节与替代性依赖
+> **基层实践遭遇中的异化与替代** 围绕国际机构推销的普遍改革处方进入后发国家微观学校时发生的制度脱节与意外后果展开。
 
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
 > **一线教师课程自主权[[Shape-Shifting|形变]]为对商业教辅目录的集体依附** 国际多边机构向发展中国家兜售的去情境化改革方案，在降落到微观学校与师训机构时，必然由于脱离一线教师的专业准备与物质基础而引发深刻的结构性脱节。在 20 世纪 90 年代阿根廷课程改革中，官方文本采纳国际倡导，赋予教师自主制定教学内容的自由；然而一线教师由于从未接受过课程开发培训而深感恐慌，为了消除教学不确定性，教师集体直接翻抄商业出版公司为学生编印的教辅教材目录来排定全学期教学大纲。崇高的专业自主在再情境化中异化为对民营出版商商业逻辑的被动依附；同样在巴西，强行延长师范生实习时长因脱离院校承载力而引发管理瘫痪。这一过程印证了外来切片即便未能成长为健康植株，其附带的制度扰动也会深刻改变本土实践生态。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–356)]]

@@ -98,7 +98,7 @@ updated: 2026-11-03
 > **非线性成长对固定折算率的系统性击穿** 大规模实证常模数据显示，低幼儿童在一年内的自然认知进展可达 1.0 至 1.5 个标准差，而高中阶段学生的年自然进展仅为 0.15 至 0.20 个标准差。使用固定的全局转换比率（如 $0.1 SD = 1$ 个月）将高年级微小的[[Effect Size\|效应量]]折算为数个月的学业成长，在因果逻辑上完全不成立，必然对决策者产生严重的定向误导。[[Argument_Gorard_2020_ROE\|(Baird & Pane, 2019; Gorard et al., 2020, p. 584)]]
 
 > [!claim] [[Adrian Simpson\|Simpson, A.]]
-> **公共政策的错误导向** 针对 [[Education Endowment Foundation\|EEF]] 工具包的批判表明，不同测验工具的方差[[Heterogeneity\|异质性]]与测验针对性（Targeted vs. Broad Tests）对效应量大小具有决定性影响。将异质研究的效应量统合为统一的月度时间尺度，向公众与校方输送了虚假的精确性幻象，导致公共教育投资出现错配。[[Argument_Gorard_2020_ROE\|(Simpson, 2017; Gorard et al., 2020, p. 584)]]
+> **公共政策的错误导向** 针对 [[Education Endowment Foundation\|EEF]] 工具包的批判表明，不同测验工具的方差[[Heterogeneity\|异质性]]与测验针对性（Targeted vs. Broad Tests）对效应量大小具有决定性影响。将异质研究的效应量换算成统一的月度时间尺度，向公众与校方输送了虚假的精确性幻象，导致公共教育投资出现错配。[[Argument_Gorard_2020_ROE\|(Simpson, 2017; Gorard et al., 2020, p. 584)]]
 
 ---
 

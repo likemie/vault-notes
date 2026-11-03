@@ -128,8 +128,8 @@ updated: 2026-11-03
 > 综合 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的历史梳理与当代最新进展，认识论认知的理论演进可划分为五种代表性[[Paradigm\|范式]]：
 > - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历[[Pluralism|多元主义]]（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King and Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
 > - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的假设，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge\|知识的来源]]、知识的证成）两大核心[[Construct\|构念]]簇。
-> - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] 及 Chinn, Rinehart and Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition\|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims\|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals\|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes\|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding\|认识论理解]]及共同体[[Epistemic Agency\|认识主体性]]深度纠缠。
-> - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective\|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby and Hammer (2001) 提出的[[Epistemic Resources\|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity\|领域特异性]]的理论框架。
+> - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] 及 Chinn, Rinehart and Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition\|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims\|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals\|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes\|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知与学科实体知识、元[[Epistemological Understanding\|认识论理解]]及共同体[[Epistemic Agency\|认识主体性]]深度纠缠。
+> - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective\|情境认知]]（Situated cognition）理论深度启发，强调认识论高度依赖特定任务情境。例如，Elby and Hammer (2001) 提出的[[Epistemic Resources\|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity\|领域特异性]]的理论框架。
 > - **[[Man-Computer Symbiosis|人机共生]]适应性模型（Symbiotic & AI-Mediated Models）** 以 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出的共生[[Epistemic Stances\|适应性认识立场]]框架为代表。面对[[Generative Artificial Intelligence\|生成式人工智能]]环境中的海量生成与不确定性，该流派揭示认识论认知表现为学习者在人机交互中的[[Epistemic Stances\|适应性认识立场]]调适，阐明认识立场如何决定[[Cognitive Offloading\|认知卸载]]的性质分化，并论证通过技术提示词支架与教学法支架的双轨干预促进认识立场向评价主义演进。
 
 > [!feature] 认识论认知的微观构成
@@ -154,7 +154,7 @@ updated: 2026-11-03
 
 ## 理论主张与核心命题
 
-> [!concept-proposition] 命题一｜[[Epistemology|认识论]]认知不再是脱域的稳定特质，而是高度依赖情境的动态微观资源库
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]认知是高度依赖情境的动态微观资源库
 > **理论模型的微观构成与结构假设** 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
 
 > [!claim] Chinn, C.
@@ -173,12 +173,12 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜认识论认知的实证预测效力绝对依赖于测量颗粒度的对齐与工具[[Reliability|信度]]
-> **认识论认知的实证方法论法则** 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
+> [!concept-proposition] 命题二｜认识论认知的实证预测效力绝对依赖于测量层次的对齐与工具[[Reliability|信度]]
+> **认识论认知的实证方法论法则** 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和层次错配。
 
 > [!claim] Greene, J.
 > **[[Measurement Alignment\|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
-> - **对齐法则（Alignment）** 只有当测量工具的特异性与成绩任务在颗粒度上严格匹配时（如用学科[[Questionnaire\|问卷]]预测特定学科成绩，而非用通用问卷），预测效力才会大幅提升。
+> - **对齐法则（Alignment）** 只有当测量工具的特异性与成绩任务在层次上严格匹配时（如用学科[[Questionnaire\|问卷]]预测特定学科成绩，而非用通用问卷），预测效力才会大幅提升。
 > - **高阶认知强关联** [[Epistemological Beliefs\|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或[[Procedural Knowledge\|程序性知识]]。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 
 > [!claim] Greene, J.
@@ -192,7 +192,7 @@ updated: 2026-11-03
 > **论证评价中认识论认知的实践具身与学科实质维度** 探究认识论认知在[[Authentic Science Practices|真实科学探究]]任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
-> **[[AIR Model of Epistemic Cognition\|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency\|认识主体性]]的核心杠杆。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
+> **[[AIR Model of Epistemic Cognition\|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多来源相互印证）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency\|认识主体性]]的主要途径。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-11-03
 > **[[Man-Computer Symbiosis|人机共生]]认识论与干预机制** 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
 
 > [!claim] Wu et al.
-> **适应性认识立场的动态调适与双轨支架矩阵** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）深度介入的学习环境中，认识论认知不再仅仅是个体内隐的静态特质，而是表现为学习者在人机交互中动态调适三种[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）的高级调控能力：
+> **适应性认识立场的动态调适与双轨支架矩阵** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）深度介入的学习环境中，认识论认知表现为学习者在人机交互中动态调适三种[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）的高级调控能力：
 > - **认识立场的动态中介效应** 学习者的认识立场直接决定其与大模型交互时的认知加工深度：绝对主义导致对机器输出的表面顺从与盲目[[Cognitive Offloading\|认知卸载]]，相对主义滑向主观臆测与交互抗拒，而评价主义则驱动对模型输出的批判性审问与跨信源证据协调。
 > - **双轨干预支架矩阵的赋能效能** 通过技术提示词支架（如[[Chain-of-Thought Prompting\|思维链]]引导、反思提示）与教学法支架（如交互式同行评议）的双轨协同干预，能够有效打破绝对主义认知的[[Path Dependence|路径依赖]]，培育评价主义立场并最大化人机共生学习效益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
@@ -210,7 +210,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观资源与多层系统** | 认识论认知的内在结构是高度情境化的资源池，需从微观个体至宏观共同体多层分析 | 认知访谈、课堂[[Ethnography\|民族志]]、[[Discourse Analysis\|话语分析]] | Chinn; Sandoval |
-> | **对齐法则与信度决定论** | 只有确保测量颗粒度严格对齐并提高工具信度，才能捕捉到其对高阶[[Academic Achievement\|学业成就]]的真实影响 | 心理测量工具设计、量化回归、[[Meta-analysis\|元分析]] | Greene |
+> | **对齐法则与信度决定论** | 只有确保测量层次严格对齐并提高工具信度，才能捕捉到其对高阶[[Academic Achievement\|学业成就]]的真实影响 | 心理测量工具设计、量化回归、[[Meta-analysis\|元分析]] | Greene |
 > | **论证具身与认识论实质** | 认识论认知具身为AIR三元实质协调，超越单纯句法结构并深植于学科实体推理 | 科学论证教学与评价、元认识论审议与认识主体性培育 | Duncan & Chinn |
 > | **人机共生与自适应调适** | 认识论认知在AI环境中表现为适应性认识立场的动态调适，依赖双轨支架干预维系认识主体性 | 生成式人工智能介入的[[Inquiry-Based Learning\|探究学习]]、跨信源阅读、[[Knowledge Production\|知识建构]]与人机协作 | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] |
 
@@ -229,11 +229,11 @@ updated: 2026-11-03
 
 > [!tension] 核心张力：知识与认知是如何存在的？
 > - **认知建构学说（蓝方）** 以 Piaget 发生[[Epistemology\|认识论]]为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
-> - **[[Situative Perspective\|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会实践活动（social practices）”。
+> - **[[Situative Perspective\|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，把认识论认知看作特定共同体解决问题的“社会实践活动（social practices）”。
 
 > [!tension] 核心张力：普遍性还是高度情境性？
 > - **宏大领域特质论（蓝方）** 认为认识论具有宏大跨学科间的特异性，但在学科内部保持稳定状态，主张通过标准化[[Questionnaire\|问卷]]测量总体特征。
-> - **微观资源库理论（红方）** 摒弃大颗粒度维度，认为面对同一学科文本，个体的[[Justificatory Standards\|确证标准]]也会随当下任务发生剧烈切换，传统通用量表根本无法捕捉动态。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> - **微观资源库理论（红方）** 摒弃过粗的维度，认为面对同一学科文本，个体的[[Justificatory Standards\|确证标准]]也会随当下任务发生剧烈切换，传统通用量表根本无法捕捉动态。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 > [!tension] 核心张力：静态心智表征 vs 动态人机交互[[Epistemic Stances\|认识立场]]调适
 > - **静态表征论（蓝方）** 倾向于将认识论认知视为个体在特定发展阶段或学科领域中相对恒定的信念特质，主要通过问卷或访谈在任务前后静态捕获。

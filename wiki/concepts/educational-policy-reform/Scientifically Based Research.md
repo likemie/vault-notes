@@ -98,7 +98,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家通过法定立法手段将以实验[[Causality\|因果推断]]为核心的[[Positivism\|实证主义]]科学规范转化为教育行政准入与财政资助的规制门槛。
-> - **用途** 帮助研究者透视国家如何运用财政杠杆规训教育科研生产[[Paradigm\|范式]]，以及[[Technical Rationality\|技术理性]]指标在自上而下规制过程中引发的实践转化断层与政策异化。
+> - **用途** 帮助研究者透视国家如何运用财政条件规训教育科研生产[[Paradigm\|范式]]，以及[[Technical Rationality\|技术理性]]指标在自上而下规制过程中引发的实践转化断层与政策异化。
 > - **边界** 它不等于特定干预方案本身经过了严格实证检验，亦不等于后续兼具包容性与可操作性的 [[Every Student Succeeds Act\|ESSA]] 四级[[Operationalization\|操作化]]证据分级。
 
 > [!citation-card] 联邦法典关于科学本位研究的法定界定
@@ -123,8 +123,8 @@ updated: 2026-11-03
 > | **代表机制** | [[What Works Clearinghouse\|WWC]] 早期审核标准 | WWC 现行标准、各州采购准入清单 | [[Success for All]]、证明有效证据网 |
 
 > [!tension] 法定科学本位研究的双重制度功能分野
-> 联邦政策文本中的“科学本位研究”并非均质铁板一块，而是存在着根本性的制度功能区隔：
-> - **服务经费支出证明（Service-Provider Expenditure Justification）** 涵盖 1998 年 REA、2001 年 NCLB、残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）相关条款。其制度意图在于规约学区与项目受资助者如何使用联邦专项资金购买教学服务，因而偏好设定狭隘的假设检验与实验因果门槛以证明资金效益。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
+> 联邦政策文本中的“科学本位研究”内部存在着根本性的制度功能区隔：
+> - **服务经费支出证明（Service-Provider Expenditure Justification）** 涵盖 1998 年 REA、2001 年 NCLB、残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）相关条款。其制度意图在于约束学区与项目受资助者如何使用联邦专项资金购买教学服务，因而偏好设定狭隘的假设检验与实验因果门槛以证明资金效益。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **科研资助范围划定（Research Funding Parameters）** 涵盖 2000 年卡斯尔草案（H.R. 4875）与 2002 年 ESRA。其制度意图在于界定联邦[[Institute of Education Sciences|教育科学研究院]]（IES）资助何种教育科研，最终立法摒弃了预设的方法学清单，确立了“研究设计与方法契合所提出[[Research Question|研究问题]]”的宽泛科学标准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-11-03
 > - **法定立法源流与术语演变（Statutory Lineage & Term Evolution）** 该标准的成文法表述源自 1998 年《[[Reading Excellence Act|卓越阅读法案]]》在国会参众两院的立法博弈：众议院初版曾试图推行更为狭隘的“可靠且可复制的研究”（Reliable, replicable research），后在参议院经专业组织游说与多方妥协，正式确立为“科学本位阅读研究”（Scientifically based reading research, SBRR），并为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植提供了标准法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **程序系统性与客观性（Rigorous & Objective Procedures）** 要求研究采用严密的经验证据收集与量化分析技术，确保研究结论具备可重复性与跨情境统计效度。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 > - **实验[[Causality\|因果推断]]偏好（Preference for Experimental Designs）** 在法典中明确确立了因果推断方法学等级，优先资助和采纳采用[[Random Assignment\|随机分配]]实验与[[Pre-test and Post-test\|前测]]对照准实验的方案。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
-> - **联邦财政资助准入杠杆（Statutory Funding Leverage）** 将符合 SBR 标准作为学区获取 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿教育资助、阅读优先计划（Reading First）等数百亿美元联邦专项拨款的法定义务。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
+> - **联邦财政资助准入条件（Statutory Funding Leverage）** 将符合 SBR 标准作为学区获取 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿教育资助、阅读优先计划（Reading First）等数百亿美元联邦专项拨款的法定义务。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 > - **抽象原理掩护漏洞（Theoretical Principle Shielding）** 因缺乏对具体方案的独立实证审查，厂商与开发者普遍借用流体力学式的基础心理学原理作为包装，导致低效方案轻易通过合规审查。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]
 
 > [!logic-map]- 科学本位研究规制逻辑与异化传导图
@@ -165,7 +165,7 @@ updated: 2026-11-03
 > **评估对象定位维度** 探讨教育方案的合规依据究竟应当建立在抽象的心理学科学原理之上，还是建立在方案本身经受严格现场实验检验的实证证据之上。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **基于研究与经过评估的本质分野** 罗伯特·E·斯莱文（Robert E. Slavin, 2002）在 [[No Child Left Behind Act 2001\|NCLB]] 法案出台之初即尖锐指出，法案全文 110 次提及的“基于科学研究”（based on scientifically based research）是一个存在致命漏洞的标准；任何教学项目只要借助认知发展或学习理论的某项抽象原理，都能轻易声称自身符合该标准，导致低质项目长驱直入。Slavin 提出著名的“莱特兄弟类比”：其他航空先驱同样依据真实的流体力学科学研究原理，但只有莱特兄弟的飞机真正离开地面并经受了反复试飞；教育改革需要的绝非借用科学理论的概念包装，而是项目本身在真实课堂中经受严格实验评估并被确凿证明有效。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]
+> **基于研究与经过评估的本质分野** 罗伯特·E·斯莱文（Robert E. Slavin, 2002）在 [[No Child Left Behind Act 2001\|NCLB]] 法案出台之初即尖锐指出，法案全文 110 次提及的“基于科学研究”（based on scientifically based research）是一个存在致命漏洞的标准；任何教学项目只要借助认知发展或学习理论的某项抽象原理，都能轻易声称自身符合该标准，导致低质项目长驱直入。Slavin 提出著名的“莱特兄弟类比”：其他航空先驱同样依据真实的流体力学科学研究原理，但只有莱特兄弟的飞机真正离开地面并经受了反复试飞；教育改革需要项目本身在真实课堂中经受严格实验评估并被确凿证明有效。只借用科学理论做概念包装，达不到这一标准。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]
 
 ---
 
@@ -173,7 +173,7 @@ updated: 2026-11-03
 > **政策支撑条件维度** 考察国家立法在强制推行高门槛实证标准时，若没有同步建立高质量公共研发资助与项目孵化管线，会导致怎样的实践供给困境。
 
 > [!claim] Slavin, R. E.
-> **证据供给存量断层与制度闭环滞后** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 追踪全美因果[[Intervention Research\|干预研究]]库指出，在 NCLB 颁布实施的前期（1988–2003 年），全美中小学领域每两年仅产出 0–2 项符合严谨因果标准的合格研究；政策虽然在法律上强制要求采用科学本位研究，但市场上根本不存在足以支撑全国各学区采购的高质量实证项目储备。单纯颁布规制口号毫无实效，唯有在 2002 年通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）成立[[Institute of Education Sciences\|教育科学研究院]]（IES）与 [[What Works Clearinghouse\|WWC]]，并在后续推行创新投资（i3）与教育创新研究（[[Education Innovation and Research\|EIR]]）建立长期公共研发孵化管线后，合格干预项目才跃升至每两年 20 项以上，方才勉强填补了实践供给的巨大缺口。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
+> **证据供给存量断层与制度配套滞后** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 追踪全美因果[[Intervention Research\|干预研究]]库指出，在 NCLB 颁布实施的前期（1988–2003 年），全美中小学领域每两年仅产出 0–2 项符合严谨因果标准的合格研究；政策虽然在法律上强制要求采用科学本位研究，但市场上根本不存在足以支撑全国各学区采购的高质量实证项目储备。单纯颁布规制口号毫无实效，唯有在 2002 年通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）成立[[Institute of Education Sciences\|教育科学研究院]]（IES）与 [[What Works Clearinghouse\|WWC]]，并在后续推行创新投资（i3）与教育创新研究（[[Education Innovation and Research\|EIR]]）建立长期公共研发孵化管线后，合格干预项目才增加到每两年 20 项以上，方才勉强填补了实践供给的巨大缺口。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
 
@@ -197,7 +197,7 @@ updated: 2026-11-03
 > **政治经济与话语垄断维度** 探讨法定科学证据标准如何超越纯技术属性，成为行政官僚、立法领导与商业出版集团结成次政府铁三角、排斥异质学术[[Paradigm|范式]]并进行利益再生产的制度化工具。
 
 > [!claim] [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]
-> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（[[National Research Council|NRC]] 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
+> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（[[National Research Council|NRC]] 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
 
 ---
 
@@ -205,17 +205,17 @@ updated: 2026-11-03
 > **制度功能与民主审议维度** 考察联邦立法中科学证据标准在服务提供与科研资助中的不同制度定位，以及学术界公共参与和国会质证如何促成法定标准的动态演进与去窄化。
 
 > [!claim] [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]]
-> **制度功能二重性与公共质证的杠杆效应** 玛格丽特·艾森哈特（Margaret Eisenhart）与丽莎·汤恩（Lisa Towne, 2003）反驳了将华盛顿政策源流混同为单一实证霸权的倾向，指出科学本位研究在成文法中具有清晰的双重功能分野：
-> 1. **服务提供法案（如 NCLB）** 旨在规约联邦公帑购买教学方案的支出合规，设定了偏向实验因果假设检验的准入门槛；
+> **制度功能二重性与公共质证所能改变的范围** 玛格丽特·艾森哈特（Margaret Eisenhart）与丽莎·汤恩（Lisa Towne, 2003）反驳了将华盛顿政策源流混同为单一实证霸权的倾向，指出科学本位研究在成文法中具有清晰的双重功能分野：
+> 1. **服务提供法案（如 NCLB）** 旨在约束联邦公帑购买教学方案的支出合规，设定了偏向实验因果假设检验的准入门槛；
 > 2. **科研资助法案（如 [[Education Sciences Reform Act 2002|ESRA]]）** 旨在界定整体科学探究的边界。
 > 
-> 更为重要的是，法定标准并非不可撼动的实证霸权，而是留有公共审议的民主博弈空间：
+> 法定标准留有公共审议的民主博弈空间：
 > - 2000 年初始卡斯尔草案（H.R. 4875）试图将实证假说检验强加为唯一科研标准，并将质性方法降格为仅供提出初步假说的边缘工具；
 > - [[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）受托发布《教育科学研究》（Scientific Research in Education, SRE）报告，提炼出跨学科通用的六[[Big Science|大科学]]探究原则，并由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上提供专业质证，有力论证了“任何方法学清单都无法定义科学，科学性取决于方法与[[Research Question|研究问题]]的逻辑契合”；
 > - 国会最终在 2002 年通过的 ESRA 第 102(18) 节中彻底删除了卡斯尔草案对质性方法的歧视性条款，确立了“研究设计与方法切合待决问题”的包容性科学标准；
 > - 随后的有效干预清算中心（[[What Works Clearinghouse]], WWC）研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）在吸纳 47 项公共评议后，亦主动打破对实验的排他性垄断，将[[Regression Discontinuity Design|断点回归]]等准实验与深入的[[Implementation and Process Evaluation|过程评估]]纳入审查规程。
 > 
-> 这确凿表明，学术共同体有理有据的专业介入与公开辩论，能够有效发挥制度杠杆效应，阻止政策对科学研究定义进行狭隘政治垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–37)]]
+> 这确凿表明，学术共同体有理有据的专业介入与公开辩论，能够实际改变制度结果，阻止政策对科学研究定义进行狭隘政治垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–37)]]
 
 ---
 
@@ -247,7 +247,7 @@ updated: 2026-11-03
 > > [!axis] 法定方法指令与学术共同体自治
 > > 争论国家法律是否有权预设[[Scientific Method|科学探究方法]]，抑或科学性只能由专业学术共同体评议确立。
 > >
-> > - **法定规制与预设标准立场（Castle, 2000; Sweet, 2003）** 主张国会必须在法案中明文界定可资助的研究方法标准，以行政法规约束科研资源配置并确保纳税人资金用于可靠研究。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
+> > - **法定规制与预设标准立场（Castle, 2000; Sweet, 2003）** 主张国会必须在法案中明文界定可资助的研究方法标准，以行政规章约束科研资源配置并确保纳税人资金用于可靠研究。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > > - **学术共同体自主与方法契合立场（NRC, 2002; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003]]）** 坚决反对将方法定义作为联邦强制法令，论证指出科学客观性与知识积累源于探究者共同体的持续审议与严格批判，国家科研机构应与学术领域协同确立质量原则，而非在法律中钦定狭隘方法。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
 
 ---
