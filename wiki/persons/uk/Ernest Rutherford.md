@@ -10,10 +10,10 @@ summary: "新西兰裔英国核物理学家，近代核物理学之父，1908 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1871"
 died: "1937"
 lifespan: "1871–1937"
@@ -37,18 +37,19 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[The Royal Society]]"
+  - "[[Cavendish Laboratory]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: completed
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-04
 ---
 
 ---
 
 > [!person-profile|notitle] 人物档案
-> - **身份位置** 新西兰裔英国实验物理学家，近代核物理学奠基人，1908 年诺贝尔化学奖得主，曾任[[The Royal Society|英国皇家学会]]会长（1925–1930）与剑桥大学卡文迪许实验室主任（1919–1937）。
+> - **身份位置** 新西兰裔英国实验物理学家，近代核物理学奠基人，1908 年诺贝尔化学奖得主，曾任[[The Royal Society|英国皇家学会]]会长（1925–1930）与[[Cavendish Laboratory|剑桥大学卡文迪许实验室]]主任（1919–1937）。
 > - **核心角色** 实验原子物理学的开创者与现代学术交流体制的改革者；面对 20 世纪初优先权竞争的加剧，开创了利用顶刊读者栏目快速刊发完整科研成果的交流[[Paradigm|范式]]。
 > - **代表贡献** 发现放射性衰变规律并提出半衰期概念；1911 年提出原子的核式行星结构模型；1919 年实现人类首次人工核反应；在学术发表机制上开创了现代物理学期刊标志性的[[Letters Format|快报发表范式]]。
 

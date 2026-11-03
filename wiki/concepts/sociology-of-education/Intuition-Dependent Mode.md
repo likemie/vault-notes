@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Self-Authorship]]"
   - "[[Academic Achievement]]"
+  - "[[Continuous Doctoral Training]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-10-30
 ---
 
 > [!example] 相关案例／政策
-> - **禹海**（北方大学工科，山西农村，第一代大学生）：[[Gaokao\|高考]]全省前 20 名，但每一步"没有想清楚理由是什么"。大一目标反射性地就是"成绩排名 30%–40%"。后来才惊觉其他同学的目标远不止成绩，回看大学是"自己不知道自己在忙什么"的状态。大三匆忙选择直博，后来对当初的选择"统统都有点后悔"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
+> - **禹海**（北方大学工科，山西农村，第一代大学生）：[[Gaokao\|高考]]全省前 20 名，但每一步"没有想清楚理由是什么"。大一目标反射性地就是"成绩排名 30%–40%"。后来才惊觉其他同学的目标远不止成绩，回看大学是"自己不知道自己在忙什么"的状态。大三匆忙选择[[Continuous Doctoral Training|直博]]，后来对当初的选择"统统都有点后悔"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - **冰倩**（南方大学社科，湖南农村，第一代大学生）：轻信"大学好自由，喜欢的东西就努力追寻"，大一抱着"拿个 60 分就可以了"的心态，到大三才意识到绩点的重要性。无实习、未做求职准备、考研落榜，最终延毕。反复说自己"好傻"——"要是当时有谁跟我说说绩点决定很多东西，我估计就不会抱着那么随便的态度去学习了"
 > - **昌盛**（南方大学社科，甘肃偏僻农村，贫困专项计划）：上大学后发现"现实已经远远地偏离了我的预期"，大二陷入轻度抑郁——"每次出门我都会有一种恐惧，就是害怕与其他人交流"
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度以大一至大三的累积学分绩点为选拔依据。直觉依赖者可能在入学初期未认识到[[Academic Achievement\|学业成绩]]与推免资格的关联，等大二、大三意识到时为时已晚，错失最优升学路径

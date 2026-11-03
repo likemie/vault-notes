@@ -9271,6 +9271,20 @@
     ]
   },
   {
+    "title": "Continuous Doctoral Training",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Continuous Doctoral Training.md",
+    "aliases": [
+      "贯通式博士培养",
+      "贯通式培养",
+      "贯通式研究生培养",
+      "硕博连读",
+      "直博",
+      "本硕博连读",
+      "integrated doctoral education"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -9635,6 +9649,19 @@
       "高校转学流动",
       "multiple institution enrollment",
       "concurrent enrollment across institutions"
+    ]
+  },
+  {
+    "title": "Near-field Interdisciplinarity",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Near-field Interdisciplinarity.md",
+    "aliases": [
+      "邻近学科交叉",
+      "近缘跨界",
+      "近场交叉",
+      "认知邻近跨学科",
+      "cognitive proximity in interdisciplinarity",
+      "adjacent disciplinary mobility"
     ]
   },
   {
@@ -20176,6 +20203,18 @@
       "全球教育场域话语流通模型",
       "比奇五位置模型",
       "Five Positions in the Global Educational Field"
+    ]
+  },
+  {
+    "title": "Center and Periphery in Higher Education",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Center and Periphery in Higher Education.md",
+    "aliases": [
+      "高等教育中心—边缘理论",
+      "高等教育中心-边缘理论",
+      "阿特巴赫中心-边缘理论",
+      "center-periphery model of higher education",
+      "academic center-periphery"
     ]
   },
   {
@@ -41323,6 +41362,18 @@
       "英国内阁办公室",
       "英国内阁府",
       "UK Cabinet Office"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Cavendish Laboratory",
+    "type": "fact",
+    "path": "wiki/facts/uk/Cavendish Laboratory.md",
+    "aliases": [
+      "卡文迪许实验室",
+      "剑桥大学卡文迪许实验室",
+      "卡文迪许物理实验室",
+      "Department of Physics, University of Cambridge"
     ],
     "subtype": "organization"
   },

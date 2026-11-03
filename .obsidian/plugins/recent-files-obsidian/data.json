@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
     },
     {
+      "basename": "Zhang_Zhao_2026_EDR",
+      "path": "sources/Zhang_Zhao_2026_EDR/Zhang_Zhao_2026_EDR.md"
+    },
+    {
       "basename": "Argument_Chen_2025_HSSC",
       "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "广东省民政事业发展十五五规划_第4至6页_校对版",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_第4至6页_校对版.md"
-    },
-    {
-      "basename": "Relative Citation Normalization",
-      "path": "wiki/methods/quantitative/Relative Citation Normalization.md"
     }
   ],
   "omittedPaths": [],

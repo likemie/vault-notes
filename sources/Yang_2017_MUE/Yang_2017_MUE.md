@@ -1,6 +1,7 @@
 ---
 citation: "杨九斌. (2017). 学术与政治: 卫星危机前后美国联邦政府大学科研资助政策的博弈与嬗变. 现代大学教育, (3), 35–40."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Yang_2017_MUE]]"
 processed_date: 2026-11-04
 ---
 

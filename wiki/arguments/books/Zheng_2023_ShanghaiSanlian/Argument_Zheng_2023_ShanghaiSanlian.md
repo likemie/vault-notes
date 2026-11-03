@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 113
+argument_related_count: 114
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -87,6 +87,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Peidu]]"
   - "[[The Shock of the Elite]]"
+  - "[[Continuous Doctoral Training]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
   - "[[Work Meaning Schemas]]"
@@ -149,7 +150,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-04
 year: 2023
 doi: ""
 citation_aliases:
@@ -926,7 +927,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 核心主张：目标掌控者对待学业成绩不是"重视"或"轻视"，而是根据成绩之于生涯目标的"用处"来决定投入程度。这是一种"将成就的意义重新定义"的文化技能。
 
 具体机制：
-- **成绩的功能性看待** 海文（已决定直博）直言"成绩只有在一种条件下很重要，就是你推研的时候"——"没有必要为了分数把自己给套死"
+- **成绩的功能性看待** 海文（已决定[[Continuous Doctoral Training|直博]]）直言"成绩只有在一种条件下很重要，就是你推研的时候"——"没有必要为了分数把自己给套死"
 - **不同目标导向的差异化策略** （1）未明确目标者→将成绩控制在安全区间，节省精力探索；（2）确定读博者→密集投入学业和研究；（3）确定求职者→维持最低线即可（敏浩只需绩点 2.8）
 - **选课策略** 南方大学《选课学概论》——"帮助大家在学习总时间不变的情况下最大限度地提高自己的 GPA"。泽斌以"效益最大化"逻辑选课："用最短的时间来获得我能够满意的这个成绩"
 - **专业调剂的灵活超越** 即使被调剂，也会分析该专业能为自己所"用"的方面——"那些工作需要的东西你学哪个专业都要自己去积累啊"（泽斌）；"你只需要从他的教育里面获得你所需要的东西就可以了"（敏浩）

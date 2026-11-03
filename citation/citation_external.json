@@ -17137,7 +17137,9 @@
     "Neace (2002)": "Neace, 2002",
     "Neace, 2002": "Neace, 2002",
     "Neal (1995)": "Neal, 1995",
+    "Neal et al. (2008)": "Neal et al., 2008",
     "Neal et al. (2015)": "Neal et al., 2015",
+    "Neal et al., 2008": "Neal et al., 2008",
     "Neal et al., 2015": "Neal et al., 2015",
     "Neal, 1995": "Neal, 1995",
     "Neave (1998)": "Neave, 1998",
@@ -26782,6 +26784,8 @@
     "发布了, 2006": "发布了, 2006",
     "史密斯 (2000)": "史密斯, 2000",
     "史密斯, 2000": "史密斯, 2000",
+    "叶晓梅与马莉萍 (2022)": "叶晓梅与马莉萍, 2022",
+    "叶晓梅与马莉萍, 2022": "叶晓梅与马莉萍, 2022",
     "吉洛维奇与特沃斯基 (1985)": "吉洛维奇与特沃斯基, 1985",
     "吉洛维奇与特沃斯基, 1985": "吉洛维奇与特沃斯基, 1985",
     "名古屋 (1939)": "名古屋, 1939",
@@ -26852,6 +26856,8 @@
     "尽管哈蒂, 2010": "尽管哈蒂, 2010",
     "岳昌君和周丽萍 (2016)": "岳昌君和周丽萍, 2016",
     "岳昌君和周丽萍, 2016": "岳昌君和周丽萍, 2016",
+    "岳英 (2018)": "岳英, 2018",
+    "岳英, 2018": "岳英, 2018",
     "布卢默 (1969)": "布卢默, 1969",
     "布卢默, 1969": "布卢默, 1969",
     "布朗等人 (1997)": "布朗等人, 1997",
@@ -27052,6 +27058,8 @@
     "沃克与阿德尔曼, 1975": "沃克与阿德尔曼, 1975",
     "沈怡 (1915)": "沈怡, 1915",
     "沈怡, 1915": "沈怡, 1915",
+    "沈文钦 (2009)": "沈文钦, 2009",
+    "沈文钦, 2009": "沈文钦, 2009",
     "沈颐 (1915)": "沈颐, 1915",
     "沈颐, 1915": "沈颐, 1915",
     "法学博士 (1992)": "法学博士, 1992",
@@ -27119,6 +27127,8 @@
     "科塞勒克, 2006": "科塞勒克, 2006",
     "科恩等人 (2011)": "科恩等人, 2011",
     "科恩等人, 2011": "科恩等人, 2011",
+    "程飞亚 (2025)": "程飞亚, 2025",
+    "程飞亚, 2025": "程飞亚, 2025",
     "第五阶段 (2023)": "第五阶段, 2023",
     "第五阶段, 2023": "第五阶段, 2023",
     "等人 (1958)": "等人, 1958",
@@ -27209,6 +27219,8 @@
     "蒋贵友, 2025": "蒋贵友, 2025",
     "蔡今中及其合作者 (2025)": "蔡今中及其合作者, 2025",
     "蔡今中及其合作者, 2025": "蔡今中及其合作者, 2025",
+    "蔺亚琼与李紫玲 (2021)": "蔺亚琼与李紫玲, 2021",
+    "蔺亚琼与李紫玲, 2021": "蔺亚琼与李紫玲, 2021",
     "行为经济 (2024)": "行为经济, 2024",
     "行为经济, 2024": "行为经济, 2024",
     "袁振国 (2017)": "袁振国, 2017",
@@ -27269,6 +27281,8 @@
     "阿施, 1951": "阿施, 1951",
     "阿根廷 (2006)": "阿根廷, 2006",
     "阿根廷, 2006": "阿根廷, 2006",
+    "阿特巴赫 (1981)": "阿特巴赫, 1981",
+    "阿特巴赫, 1981": "阿特巴赫, 1981",
     "阿特金森与布兰皮德 (2008)": "阿特金森与布兰皮德, 2008",
     "阿特金森与布兰皮德, 2008": "阿特金森与布兰皮德, 2008",
     "阿特金森与布兰皮德警示 (2008)": "阿特金森与布兰皮德警示, 2008",
@@ -32091,7 +32105,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
+        "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
+        "wiki/theories/comparative-education/Center and Periphery in Higher Education.md"
       ],
       "title": ""
     },
@@ -151882,6 +151897,21 @@
       "seen_in": [],
       "title": "Evaluating a safety net for at-risk students  Impact of research-based interventions on non-cognitive and cognitive measures"
     },
+    "Neal et al., 2008": {
+      "aliases": [
+        "Neal et al., 2008",
+        "Neal et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Neal et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/现代大学教育/Argument_Yang_2017_MUE.md"
+      ],
+      "title": ""
+    },
     "Neal et al., 2015": {
       "aliases": [
         "Neal et al., 2015",
@@ -221585,6 +221615,21 @@
       ],
       "title": ""
     },
+    "叶晓梅与马莉萍, 2022": {
+      "aliases": [
+        "叶晓梅与马莉萍, 2022",
+        "叶晓梅与马莉萍 (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "叶晓梅与马莉萍, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Continuous Doctoral Training.md"
+      ],
+      "title": ""
+    },
     "吉洛维奇与特沃斯基, 1985": {
       "aliases": [
         "吉洛维奇与特沃斯基, 1985",
@@ -222088,6 +222133,21 @@
       ],
       "title": ""
     },
+    "岳英, 2018": {
+      "aliases": [
+        "岳英, 2018",
+        "岳英 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "岳英, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Doctoral Dissertation.md"
+      ],
+      "title": ""
+    },
     "布卢默, 1969": {
       "aliases": [
         "布卢默, 1969",
@@ -222358,7 +222418,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Educational Level.md"
+        "wiki/concepts/sociology-of-education/Educational Level.md",
+        "wiki/theories/comparative-education/Center and Periphery in Higher Education.md"
       ],
       "title": ""
     },
@@ -223585,6 +223646,21 @@
       ],
       "title": ""
     },
+    "沈文钦, 2009": {
+      "aliases": [
+        "沈文钦, 2009",
+        "沈文钦 (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "沈文钦, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Doctoral Dissertation.md"
+      ],
+      "title": ""
+    },
     "沈颐, 1915": {
       "aliases": [
         "沈颐, 1915",
@@ -224080,6 +224156,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Postmodernism.md"
+      ],
+      "title": ""
+    },
+    "程飞亚, 2025": {
+      "aliases": [
+        "程飞亚, 2025",
+        "程飞亚 (2025)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "程飞亚, 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/uk/Cavendish Laboratory.md"
       ],
       "title": ""
     },
@@ -224750,6 +224841,21 @@
       ],
       "title": ""
     },
+    "蔺亚琼与李紫玲, 2021": {
+      "aliases": [
+        "蔺亚琼与李紫玲, 2021",
+        "蔺亚琼与李紫玲 (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "蔺亚琼与李紫玲, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Continuous Doctoral Training.md"
+      ],
+      "title": ""
+    },
     "行为经济, 2024": {
       "aliases": [
         "行为经济, 2024",
@@ -225202,6 +225308,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md"
+      ],
+      "title": ""
+    },
+    "阿特巴赫, 1981": {
+      "aliases": [
+        "阿特巴赫, 1981",
+        "阿特巴赫 (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "阿特巴赫, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Center and Periphery in Higher Education.md"
       ],
       "title": ""
     },

@@ -6,7 +6,7 @@ aliases:
 summary: "大学生理解工作意义的三角图式结构，由地位保障与家庭责任、家国理想与社会价值、个体趣味与自我表达三种文化逻辑构成。"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Discourse]]"
   - "[[Multiplicity]]"
+  - "[[Continuous Doctoral Training]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-22
+updated: 2026-11-04
 ---
 
 > [!info] 定义
@@ -113,7 +114,7 @@ updated: 2026-10-22
 
 大学生在毕业之时工具箱中的各类图式均保持在较低的内化水平，因而在择业关头未能主动调用任何图式来驱动选择，其出路结果通常是服从外部制度安排或偶然性因素的结果。此时学生可能调用与该结果相符的某图式来合理化自己的择业结果([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
-> 例：牛铭（北方大学）"稀里糊涂就直博了"，对自己所学方向并不十分感兴趣，但当谈起工作意义时，很自然地援引了家国理想/社会价值图式——"研究社会问题，为社会做贡献"——通过事后激活相应图式为权宜之策维持了些许价值感([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
+> 例：牛铭（北方大学）"稀里糊涂就[[Continuous Doctoral Training|直博]]了"，对自己所学方向并不十分感兴趣，但当谈起工作意义时，很自然地援引了家国理想/社会价值图式——"研究社会问题，为社会做贡献"——通过事后激活相应图式为权宜之策维持了些许价值感([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 
 两种情形中，意义感在出路获得中扮演的角色截然不同：在"方向导引"中，意义感如灯塔般驱动和指引了对出路的选择；在"结果合理化"中，意义感则仅仅起到对已经形成的出路结果进行事后解释的作用([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
