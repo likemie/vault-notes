@@ -59,6 +59,9 @@ related_concepts:
   - "[[Block Grants]]"
   - "[[Critical Thinking]]"
   - "[[General Education]]"
+  - "[[Modified Lottery in Research Funding]]"
+  - "[[White Bull Effect]]"
+  - "[[Precarity Paradox]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods:
@@ -92,9 +95,9 @@ title: "Argument_Haubrock_2026_NHB"
 argument_key: "Argument_Haubrock_2026_NHB"
 argument_display_title: "How contemporary academic structures constrain scientific creativity and hold back early-career researchers"
 argument_kind: "journal-article"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Nature Human Behaviour"
 publisher: "Nature Publishing Group"
@@ -179,7 +182,7 @@ publisher: "Nature Publishing Group"
 
 > [!case] 德法学术劳动力市场实证｜终身教职门槛攀升与博士后蓄积困境
 > - **正职初聘年龄推迟** 在德国，获得全职教授常任轨编制的平均年龄已推迟至 42.5 岁；在法国，研究人员首次获得稳定职位的平均年龄从 32.7 岁攀升至 34.4 岁。
-> - **用工机制短期化** 高校人事管理体制为了最大化短期科研产出与压低运营成本，系统性青睐廉价且缺乏流动谈判权的初级短期博士后岗位，抑制资深科研人员的长期常任聘用。
+> - **用工机制短期化与不稳定悖论** 高校人事管理体制为了最大化短期科研产出与压低运营成本，系统性青睐廉价且缺乏流动谈判权的初级短期博士后岗位，抑制资深科研人员的长期常任聘用，诱发了以短期名义成本节约牺牲系统长期生产力的[[Precarity Paradox|不稳定悖论]]（Ferreira & Quesado Delgado, 2024）。
 > - **试错时空剥夺** 青年学者面临长达十余年的短期合同流转，高龄化与零工化剥夺了成家立业与长期沉思的安定条件，直接迫使学者退守安全平庸的快餐式选题。
 
 > [!case] 早期科研基金实证｜边缘微弱落选（Near Miss）的断崖淘汰惩罚
@@ -195,7 +198,7 @@ publisher: "Nature Publishing Group"
 
 > [!case] 欧洲高等教育治理实证｜意大利学术领主门阀网络与依附性生产
 > - **门阀庇护网络垄断** 在意大利部分高校体系中，学术领主（Academic Barons）通过牢固的宗派庇护与近亲繁殖体系掌控教职评聘、经费下拨与实验室准入，学者个人依附忠诚度往往凌驾于客观学术功绩之上。
-> - **创造力向上摄取机制** 青年学者深陷大型流水线课题，其提出的原创性概念常被资深学术权威以通信署名或主位名义向上摄取，甚至演化为赠礼署名（[[Guest Authorship|Gift Authorship]]）与互引[[Rainer Kattel|卡特尔]]（Citation Cartels）。
+> - **创造力向上摄取机制与白牛效应** 青年学者深陷大型流水线课题，其提出的原创性概念常被资深学术权威以通信署名或主位名义向上摄取，演化为利用层级权力强行索要署名的[[White Bull Effect|白牛效应]]（Kwok, 2005）、赠礼署名（[[Guest Authorship|Gift Authorship]]）与互引垄断联盟（Citation Cartels）。
 > - **独立研究议程扼杀** 青年学者的选题自由度完全取决于门阀权威的主观偏好，任何挑战导师既有学派观点的离经叛道探索都会遭到资源断供，导致思想[[Heterogeneity|异质性]]在源头被阻断。
 
 > [!warning] 长期职业不确定性引发的青年学者心理健康危机
@@ -290,12 +293,12 @@ publisher: "Nature Publishing Group"
 
 > [!pathways] 慢科学长周期资助与遴选改革路径
 > - **扩充基线拨付与延长资助周期** 各级政府与高校必须扩充稳定常态的基线经费拨付机制（[[Block Grants]]），摆脱大学对碎片化短期竞争性课题的病态依赖；在项目总预算不变的约束下延长单项资助执行周期，显著降低每单位资金的边际低效损耗（Fortin & Currie, 2013），为探索性慢科学（Slow Science）提供充足的缓冲空间。
-> - **设立探索通道与适度抽签机制** 资助机构应当建立独立的探索型通道，推行对失败免责的包容性资助标准，在通过初筛的前提下引入适度随机抽签（Modified Lottery）机制，打破因微小分值差异引发的残酷过度竞争。
+> - **设立探索通道与适度抽签机制** 资助机构应当建立独立的探索型通道，推行对失败免责的包容性资助标准，在通过初筛的前提下引入[[Modified Lottery in Research Funding|资助适度随机抽签制]]（Modified Lottery），打破因微小分值差异引发的残酷过度竞争。
 > - **精简行政层级与去官僚化** 高校必须削减不必要的行政官僚层级，精简[[Audit Trail|审计追踪]]负担，将时间与精力归还给一线的潜心教学与科学沉思。
 
 > [!case] 资助评审实验｜瑞士国家科学基金会（Swiss [[National Science Foundation]], SNSF）与新西兰的适度抽签制（Modified Lottery）探索
 > - **同行评审分辨力局限** 科学计量实证证实，当申请标书进入前 20% 的优质区间后，评审专家打分的细微差异主要反映了个人学派偏好与随机主观噪声，不再具备预测长期科学影响的有效分辨力。
-> - **抽签改革实践** 瑞士国家科学基金会（SNSF）、新西兰健康研究理事会与德国大众汽车基金会开展了资助遴选实验：由同行评议淘汰不合格方案后，对进入资助线边缘的所有合格项目采取计算机随机抽签定夺。
+> - **抽签改革实践** 瑞士国家科学基金会（SNSF）、新西兰健康研究理事会与德国大众汽车基金会开展了[[Modified Lottery in Research Funding|资助适度抽签制]]遴选实验：由同行评议淘汰不合格方案后，对进入资助线边缘的所有合格项目采取计算机随机抽签定夺。
 > - **破除过度包装内耗** 适度抽签机制不仅大幅削减了学者围绕 1% 微小分差进行的标书辞藻过度包装，更打破了学术马太效应与熟面孔偏好，为青年学者非常规假说的立项开辟了制度生路。
 
 > [!sub-claim] 2. 破除唯影响因子考核并保护科研人员非线性成长轨迹

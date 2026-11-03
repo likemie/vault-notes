@@ -9731,6 +9731,19 @@
     ]
   },
   {
+    "title": "Precarity Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Precarity Paradox.md",
+    "aliases": [
+      "不稳定悖论",
+      "高校科研不稳定雇佣悖论",
+      "学术不稳定悖论",
+      "预备期用工悖论",
+      "precarity-driven inefficiency",
+      "academic precarity paradox"
+    ]
+  },
+  {
     "title": "Productization of the Mind",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Productization of the Mind.md",
@@ -16796,6 +16809,22 @@
     ]
   },
   {
+    "title": "Modified Lottery in Research Funding",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Modified Lottery in Research Funding.md",
+    "aliases": [
+      "资助适度随机抽签制",
+      "适度抽签制",
+      "资助适度抽签",
+      "科研资助部分抽签",
+      "资助部分随机化",
+      "Modified Lottery",
+      "Funding Lottery",
+      "Partial Lottery in Research Funding",
+      "Modified Lottery in Science Funding"
+    ]
+  },
+  {
     "title": "Mountain of Science",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Mountain of Science.md",
@@ -17442,6 +17471,23 @@
       "存储程序架构",
       "Stored-program architecture",
       "Von Neumann computer architecture"
+    ]
+  },
+  {
+    "title": "White Bull Effect",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/White Bull Effect.md",
+    "aliases": [
+      "白牛效应",
+      "学术掠夺性署名",
+      "掠夺性署名",
+      "寄生性署名",
+      "学术寄生性合署",
+      "强迫署名",
+      "署名欺凌",
+      "abusive coauthorship",
+      "publication parasitism",
+      "coercive authorship"
     ]
   },
   {

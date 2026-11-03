@@ -5758,6 +5758,8 @@
     "De Laine, 2000": "De Laine, 2000",
     "De Ligny (1996)": "De Ligny, 1996",
     "De Ligny, 1996": "De Ligny, 1996",
+    "De Peuter & Conix (2022)": "De Peuter & Conix, 2022",
+    "De Peuter & Conix, 2022": "De Peuter & Conix, 2022",
     "De Silva et al. (2021)": "De Silva et al., 2021",
     "De Silva et al., 2021": "De Silva et al., 2021",
     "De Smet et al. (2014)": "De Smet et al., 2014",
@@ -7568,6 +7570,8 @@
     "Feron, 2020": "Feron, 2020",
     "Ferrance (2000)": "Ferrance, 2000",
     "Ferrance, 2000": "Ferrance, 2000",
+    "Ferreira & Quesado Delgado (2024)": "Ferreira & Quesado Delgado, 2024",
+    "Ferreira & Quesado Delgado, 2024": "Ferreira & Quesado Delgado, 2024",
     "Ferreira & Trudel (2012)": "Ferreira & Trudel, 2012",
     "Ferreira & Trudel, 2012": "Ferreira & Trudel, 2012",
     "Ferreira (2017)": "Ferreira, 2017",
@@ -10534,6 +10538,8 @@
     "Heward, 1988": "Heward, 1988",
     "Hewson et al. (2003)": "Hewson et al., 2003",
     "Hewson et al., 2003": "Hewson et al., 2003",
+    "Heyard et al. (2022)": "Heyard et al., 2022",
+    "Heyard et al., 2022": "Heyard et al., 2022",
     "Heyman (1979)": "Heyman, 1979",
     "Heyman, 1979": "Heyman, 1979",
     "Heyneman (1999)": "Heyneman, 1999",
@@ -13499,6 +13505,8 @@
     "Kvernbekk, 2016": "Kvernbekk, 2016",
     "Kwan et al. (2002)": "Kwan et al., 2002",
     "Kwan et al., 2002": "Kwan et al., 2002",
+    "Kwok (2005)": "Kwok, 2005",
+    "Kwok, 2005": "Kwok, 2005",
     "Kwon & Lawson (2000)": "Kwon & Lawson, 2000",
     "Kwon & Lawson, 2000": "Kwon & Lawson, 2000",
     "Kwon et al. (2021)": "Kwon et al., 2021",
@@ -14622,6 +14630,8 @@
     "Longino (2002)": "Longino, 2002",
     "Longino, 1990": "Longino, 1990",
     "Longino, 2002": "Longino, 2002",
+    "Longman (2026)": "Longman, 2026",
+    "Longman, 2026": "Longman, 2026",
     "Longo (2002)": "Longo, 2002",
     "Longo, 2002": "Longo, 2002",
     "Longworth (1986)": "Longworth, 1986",
@@ -17596,7 +17606,9 @@
     "O'Connor (2014)": "O'Connor, 2014",
     "O'Connor (2017)": "O'Connor, 2017",
     "O'Connor et al. (2016)": "O'Connor et al., 2016",
+    "O'Connor et al. (2024)": "O'Connor et al., 2024",
     "O'Connor et al., 2016": "O'Connor et al., 2016",
+    "O'Connor et al., 2024": "O'Connor et al., 2024",
     "O'Connor, 1994": "O'Connor, 1994",
     "O'Connor, 1996": "O'Connor, 1996",
     "O'Connor, 2002": "O'Connor, 2002",
@@ -21536,10 +21548,12 @@
     "Shavelson, 2020": "Shavelson, 2020",
     "Shaw & Thomas (1978)": "Shaw & Thomas, 1978",
     "Shaw & Thomas, 1978": "Shaw & Thomas, 1978",
+    "Shaw (2023)": "Shaw, 2023",
     "Shaw Sullivan & Johnson (1997)": "Shaw Sullivan & Johnson, 1997",
     "Shaw Sullivan & Johnson, 1997": "Shaw Sullivan & Johnson, 1997",
     "Shaw et al. (2013)": "Shaw et al., 2013",
     "Shaw et al., 2013": "Shaw et al., 2013",
+    "Shaw, 2023": "Shaw, 2023",
     "Shawyer et al. (2017)": "Shawyer et al., 2017",
     "Shawyer et al., 2017": "Shawyer et al., 2017",
     "Shayer (2010)": "Shayer, 2010",
@@ -22644,10 +22658,12 @@
     "Stentoft, 2017": "Stentoft, 2017",
     "Stephan (1986)": "Stephan, 1986",
     "Stephan (2012)": "Stephan, 2012",
+    "Stephan (2015)": "Stephan, 2015",
     "Stephan Lewandowsky et al. (2017)": "Stephan Lewandowsky et al., 2017",
     "Stephan Lewandowsky et al., 2017": "Stephan Lewandowsky et al., 2017",
     "Stephan, 1986": "Stephan, 1986",
     "Stephan, 2012": "Stephan, 2012",
+    "Stephan, 2015": "Stephan, 2015",
     "Stephen (2019)": "Stephen, 2019",
     "Stephen Ball (1993)": "Stephen Ball, 1993",
     "Stephen Ball, 1993": "Stephen Ball, 1993",
@@ -69331,6 +69347,21 @@
       "seen_in": [],
       "title": "How will the use of the Jigsaw technique of cooperative learning affect mathematics achievement of sixth graders?"
     },
+    "De Peuter & Conix, 2022": {
+      "aliases": [
+        "De Peuter & Conix, 2022",
+        "De Peuter & Conix (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "De Peuter & Conix, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Modified Lottery in Research Funding.md"
+      ],
+      "title": ""
+    },
     "De Silva et al., 2021": {
       "aliases": [
         "De Silva et al., 2021",
@@ -82575,6 +82606,23 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md"
+      ],
+      "title": ""
+    },
+    "Ferreira & Quesado Delgado, 2024": {
+      "aliases": [
+        "Ferreira & Quesado Delgado, 2024",
+        "Ferreira & Quesado Delgado (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ferreira & Quesado Delgado, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
+        "wiki/concepts/higher-education/Precarity Paradox.md",
+        "wiki/concepts/science-policy/White Bull Effect.md"
       ],
       "title": ""
     },
@@ -104283,6 +104331,21 @@
       ],
       "title": ""
     },
+    "Heyard et al., 2022": {
+      "aliases": [
+        "Heyard et al., 2022",
+        "Heyard et al. (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Heyard et al., 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Modified Lottery in Research Funding.md"
+      ],
+      "title": ""
+    },
     "Heyman, 1979": {
       "aliases": [
         "Heyman, 1979",
@@ -125545,6 +125608,22 @@
       ],
       "title": ""
     },
+    "Kwok, 2005": {
+      "aliases": [
+        "Kwok, 2005",
+        "Kwok (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kwok, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
+        "wiki/concepts/science-policy/White Bull Effect.md"
+      ],
+      "title": ""
+    },
     "Kwon & Lawson, 2000": {
       "aliases": [
         "Kwon & Lawson, 2000",
@@ -133611,6 +133690,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
+      ],
+      "title": ""
+    },
+    "Longman, 2026": {
+      "aliases": [
+        "Longman, 2026",
+        "Longman (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Longman, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/White Bull Effect.md"
       ],
       "title": ""
     },
@@ -155193,6 +155287,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Guo_2025_TSC.md"
+      ],
+      "title": ""
+    },
+    "O'Connor et al., 2024": {
+      "aliases": [
+        "O'Connor et al., 2024",
+        "O'Connor et al. (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "O'Connor et al., 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Precarity Paradox.md"
       ],
       "title": ""
     },
@@ -184116,6 +184225,21 @@
       ],
       "title": ""
     },
+    "Shaw, 2023": {
+      "aliases": [
+        "Shaw, 2023",
+        "Shaw (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Shaw, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Modified Lottery in Research Funding.md"
+      ],
+      "title": ""
+    },
     "Shawyer et al., 2017": {
       "aliases": [
         "Shawyer et al., 2017",
@@ -192054,6 +192178,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Academic Risk Aversion.md"
+      ],
+      "title": ""
+    },
+    "Stephan, 2015": {
+      "aliases": [
+        "Stephan, 2015",
+        "Stephan (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stephan, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Precarity Paradox.md"
       ],
       "title": ""
     },
