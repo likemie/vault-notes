@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-10-30
 ---
 
 > [!concept-proposition] 命题一｜跨机构协作的崛起并未消除物理距离对科研伙伴选择的强力约束
-> **探讨维度　地理空间对科研网络的阻尼效应** 检验远程信息技术能否使科学合作摆脱空间摩擦与地理引力法则。
+> **地理空间对科研网络的阻尼效应** 检验远程信息技术能否使科学合作摆脱空间摩擦与地理引力法则。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **空间幂律衰减与地理粘性** 尽管数字通信极大促进了跨国与跨校联合发表，海量[[Document|文献]]地理轨迹仍展现出鲜明的空间衰减律（$P(d) \propto d^{-\alpha}$）；学者优先在物理邻近圈层中物色科研伙伴，地理距离消亡假说与经验现实相悖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
@@ -109,7 +109,7 @@ updated: 2026-10-30
 ---
 
 > [!concept-proposition] 命题二｜面对面即时交互是转化复杂默会知识与促成重大突破的核心机制
-> **探讨维度　知识类型与空间集聚动力学** 剖析默会知识传递对实体接触的刚性依赖如何维系科研高地的集聚优势。
+> **知识类型与空间集聚动力学** 剖析默会知识传递对实体接触的刚性依赖如何维系科研高地的集聚优势。
 
 > [!claim] Wang, D. & Barabási, A.-L.
 > **默会知识传递与走廊偶遇** 前沿未知探索中大量关键细节无法被结构化编码为文本或邮件；同一空间环境内的即时面对面交互提供了不可替代的信任机制与研讨带宽，使实体[[Research Universities|研究型大学]]与创新集群始终保持持久活力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 93–94)]]

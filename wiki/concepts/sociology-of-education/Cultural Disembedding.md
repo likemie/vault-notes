@@ -13,7 +13,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-11-02
+updated: 2026-11-03
 tags:
   - cultural-disembedding
   - higher-education
@@ -94,7 +94,7 @@ related_arguments:
 ---
 
 > [!concept-proposition] 命题一｜寒门学子进入精英大学面临微观环境与社交语码的短期文化脱嵌
-> **探讨维度　精英大学[[Champ\|场域]]与阶层[[Cultural Barrier\|文化障碍]]** 探讨弱势阶层学生在进入精英高等教育时所经历的初级适应危机。
+> **精英大学[[Champ\|场域]]与阶层[[Cultural Barrier\|文化障碍]]** 探讨弱势阶层学生在进入精英高等教育时所经历的初级适应危机。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
 > **第一代大学生的文化脱嵌体验** [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 提出文化脱嵌是寒门学子面临的第一重文化障碍。学生在进入精英大学后，感受到物理空间（大都市交通、选课系统）与社交[[Discourse|话语]]（无法用精英同学熟悉的语码表达）的全面陌生感，并伴随着[[Sense of Shame\|羞耻感]]。这一障碍偏向短期，随着同伴支持、组织整合与校园生活的累积，多数学生可在一年内逐步缓解[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 115–120)]]。
@@ -102,7 +102,7 @@ related_arguments:
 ---
 
 > [!concept-proposition] 命题二｜少数民族与信教学生在汉儒中心课程中面临结构性与制度性的宏观文化脱嵌
-> **探讨维度　国家课程、[[Official Knowledge\|官方知识]]与民族边缘化** 探讨学校课程单向度推行主导文化时，如何在边缘少数族群中引发长期的身份疏离。
+> **国家课程、[[Official Knowledge\|官方知识]]与民族边缘化** 探讨学校课程单向度推行主导文化时，如何在边缘少数族群中引发长期的身份疏离。
 
 > [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **官方课程中的国族文化脱嵌** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将文化脱嵌延伸至国家课程研究。217 册必修教材将“中国文化”系统等同于汉族儒家传统，而缺乏对少数民族与宗教文化的实质代表。这种[[Official Knowledge\|官方知识]]塑造导致少数民族和信教学生在接受课程时产生制度性的文化脱嵌——他们虽身在中国学校，却感到课程呈现的“中国性”极度陌生且排斥自身认同。约 86% 的边缘学生因此产生反思，拒斥官方的儒家垄断地位[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–71)]]。

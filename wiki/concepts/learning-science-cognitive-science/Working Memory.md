@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Working Memory
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜工作记忆的容量限制与短时衰退构成了人类处理新异信息的根本认知瓶颈
-> **探讨维度　认知架构与容量瓶颈** 剖析人类在面对全新[[Areas of Knowledge\|知识领域]]时，工作记忆如何受制于生物学限制并决定了教学信息输入的边界。
+> **认知架构与容量瓶颈** 剖析人类在面对全新[[Areas of Knowledge\|知识领域]]时，工作记忆如何受制于生物学限制并决定了教学信息输入的边界。
 
 > [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; Sweller
 > **3–4 组块容量上限与新异信息加工的脆弱性** 人类认知架构的基本特征在于工作记忆容量的绝对狭窄。成年人在缺乏长时记忆图式支持时，一次最多只能保持并更新 3–4 个离散信息单元。无论学习者潜能多高，当环境呈现过多未经提炼的复杂规则或混乱信息流时，有限的工作记忆单元将瞬间被占满，导致深层因果推导与长时记忆图式建构彻底停滞。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 5)]]
@@ -135,7 +135,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Executive Function|执行功能]]中注意力分配与[[Inhibitory Control|抑制控制]]协同调节工作记忆资源的有效利用
-> **探讨维度　[[Executive Function\|执行功能]]与抗干扰机制** 探讨注意力定向与对直觉迷思的[[Inhibitory Control\|抑制能力]]如何决定工作记忆在复杂问题中的有效吞吐率。
+> **[[Executive Function\|执行功能]]与抗干扰机制** 探讨注意力定向与对直觉迷思的[[Inhibitory Control\|抑制能力]]如何决定工作记忆在复杂问题中的有效吞吐率。
 
 > [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; Kwon & Lawson; Homer & Plass
 > **抑制控制对保护工作记忆免受直觉干扰的决定性功能** 工作记忆的高效运转不仅取决于容量本身，更依赖中央执行系统的抑制控制（Inhibitory Control）。在科学探究与概念转变中，直觉迷思与无关实验[[Variable\|变量]]往往优先占据意识通道；学习者若缺乏抑制控制，工作记忆将被表面无关细节挤占。实证研究表明，学生的抑制控制能力能够直接解释科学探究技能 29% 的方差以及概念理解增益 28% 的方差，证实抵御干扰、保持工作记忆聚焦是探究成功的核心认知基石。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Scaffolding|教学支架]]与长时记忆图式能够有效解除工作记忆过载并支撑深层探究
-> **探讨维度　负荷分担与教学协同** 阐明如何通过外部教学设计与长时记忆联动，打破工作记忆瓶颈并实现高阶概念建构。
+> **负荷分担与教学协同** 阐明如何通过外部教学设计与长时记忆联动，打破工作记忆瓶颈并实现高阶概念建构。
 
 > [!claim] [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **支架卸载外在负荷与长时记忆图式的双轨解放机制** 脱离指导的自由探究常因工作记忆被过度塞满杂乱信息而陷入瘫痪（即所谓垃圾桶过载效应）。通过在探究中引入针对性的[[Scaffolding\|教学支架]]（如变量控制提示、状态看板、即时原理解释），能够将机械搜索与信息保持负担外包给学习环境，使有限的工作记忆容量完全集中于假设验证与证据协调。同时，长时记忆中积累的自动化图式能够将繁复的知识网络打包为单一复合单元调入工作记忆，彻底突破 3–4 组块的生理限制，为高水平自主探究创造认知空间。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 71–73)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 3, 8)]]
@@ -151,7 +151,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜人工智能中介引发双向[[Cognitive Offloading|认知卸载]]：消除机械冗余释放带宽，与过度剥离思维摩擦导致深层加工萎缩
-> **探讨维度　[[Cognitive Offloading\|认知卸载]]与生产性摩擦** 探讨生成式技术如何改变工作记忆负荷分配，剖析外包表层操作与外包核心评价对工作记忆高阶运转的截然不同后果。
+> **[[Cognitive Offloading\|认知卸载]]与生产性摩擦** 探讨生成式技术如何改变工作记忆负荷分配，剖析外包表层操作与外包核心评价对工作记忆高阶运转的截然不同后果。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **双向认知卸载与生产性摩擦捍卫** [[Generative Artificial Intelligence\|生成式人工智能]]对工作记忆具有复杂的双向塑造功能。一方面，系统能有效卸载繁琐格式排错、机械数据整理等浪费性摩擦，降低外在认知负荷，为工作记忆释放聚焦核心概念推理的宝贵带宽；另一方面，若通过一键交付的无摩擦委派直接生成论据评判与结论，技术将直接切除直面反常证据、权衡冲突解释等生产性认识摩擦（Productive [[Epistemic Friction]]）。这种过度卸载使有限的工作记忆退化为被动接受现成答案的狭隘通道，阻断了工作记忆与长时记忆交互重构深层图式的过程，导致学习者在脱离工具后认知表现发生断崖式瓦解。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
@@ -215,7 +215,7 @@ updated: 2026-11-02
 > > | Friso-van den Bos et al. (2013) | Working memory on achievement | 111 | 16,921 | 1,233 | 0.70 |  |
 > > | Carretti et al. (2009) | Working memory on reading achievement | 19 | 1,613 | 19 | 0.71 |  |
 > > | Shin (2020) | Working memory second language learning | 25 | 2,682 | 37 | 0.63 |  |
-> > | Hijkata & Koizumi (2022) | Working memory and L2 Reading | 74 | 5,693 | 228 | 0.63 |  |
+> > | Hijkata and Koizumi (2022) | Working memory and L2 Reading | 74 | 5,693 | 228 | 0.63 |  |
 
 > [!metax] [工作记忆训练 · Working memory training](https://www.visiblelearningmetax.com/influences/view/working_memory_training)
 > 学生学习策略 › 学习策略
@@ -227,15 +227,15 @@ updated: 2026-11-02
 > > [!metax-ma]- 11 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Melby-Lervag & Hulme (2013) | Working memory training | 23 | NA | 30 | 0.35 |  |
+> > | Melby-Lervag and Hulme (2013) | Working memory training | 23 | NA | 30 | 0.35 |  |
 > > | Linck et al. (2014) | Working memory training | 79 | 3,707 | 748 | 0.41 |  |
 > > | McLaughlin (2017) | Working memory on reading & math (Cogmed) | 6 | 835 | 8 | 0.08 |  |
-> > | Spencer-Smith & Klingberg (2015) | Working memory training on verbal and visual spatial working memory performance | 7 | 306 | 8 | 0.54 |  |
+> > | Spencer-Smith and Klingberg (2015) | Working memory training on verbal and visual spatial working memory performance | 7 | 306 | 8 | 0.54 |  |
 > > | Hyman (2017) | Working memory (Lumosity) | 4 | NA | 4 | 0.07 |  |
-> > | Daneman & Merikle (1996) | Working memory training | 77 | 6,179 | 150 | 0.82 |  |
+> > | Daneman and Merikle (1996) | Working memory training | 77 | 6,179 | 150 | 0.82 |  |
 > > | Rolhelser-Bennett (1987) | Memory training | 12 | 1,968 | 78 | 1.28 |  |
 > > | Sala et al. (2019) | Working memory via Cogmed | 56 | 3,059 | 637 | 0.05 |  |
-> > | Sala & Gobet (2019) | Working memory training | 41 | 2,375 | 393 | 0.13 |  |
+> > | Sala and Gobet (2019) | Working memory training | 41 | 2,375 | 393 | 0.13 |  |
 > > | Sala et al. (2019) | Working memory on reading & math (Cogmed) | 50 | 3,059 | 637 | 0.05 |  |
 > > | Bharadwaj et al. (2021) | Cogmed on achievement & executive functioning | 11 | NA | 11 | -0.10 |  |
 

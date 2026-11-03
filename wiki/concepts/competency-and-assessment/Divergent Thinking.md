@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （发散思维 / 发散性认知加工）
@@ -159,7 +159,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜发散思维是[[Creativity|创造性]]过程的重要组成部分而非唯一决定要素
-> **探讨维度　认知构件与整体过程的层级关系** 发散思维构成了[[Creativity\|创造潜能]]的基石，但在解释实际创造性成就时，涵盖[[Problem Finding\|问题发现]]与灵活整合的整体创造过程具备更强的关联效应。
+> **认知构件与整体过程的层级关系** 发散思维构成了[[Creativity\|创造潜能]]的基石，但在解释实际创造性成就时，涵盖[[Problem Finding\|问题发现]]与灵活整合的整体创造过程具备更强的关联效应。
 
 > [!claim] Runco et al.
 > **发散思维与综合创造过程的效应差异** 在[[Meta-meta-analysis\|二阶元分析]]模型中，发散思维与创造力相关指标的综合[[Effect Size\|效应量]]为 $r = 0.14$（95% [[Confidence Interval\|置信区间]] $[0.04, 0.24]$），而包含问题发现（Abdulla et al., 2020）、酝酿（Sio & Ormerod, 2009）、顿悟（Shen et al., 2016）与灵活整合等多维构件的整体创造过程效应量达到 $r = 0.27$（95% 置信区间 $[0.10, 0.43]$），表明发散思维作为单一构件仅能解释部分创造性变异。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
@@ -167,7 +167,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜显式指导语、言语符号[[Externalization|外化]]与认知训练能显著提升发散思维任务表现并存在黄金时间窗口
-> **探讨维度　发散思维的可塑性、教学干预路径与时间窗口调节** 外部教学设计、显式言语反馈与认知策略训练对发散思维表现具有显著的促进效应，表明发散思维是一种高度可塑的认知技能。
+> **发散思维的可塑性、教学干预路径与时间窗口调节** 外部教学设计、显式言语反馈与认知策略训练对发散思维表现具有显著的促进效应，表明发散思维是一种高度可塑的认知技能。
 
 > [!claim] Runco et al.
 > **干预与指导对发散生成的促进效应** 针对创造性思维与发散生成的专门干预程序（如[[Creative Problem Solving\|创造性问题解决模型]]、普渡创造性思维计划）及显式指导语（Explicit Instructions; Acar et al., 2020），在一阶与二阶[[Meta-analysis\|元分析]]中均表现出稳健的正向促进效应，证明发散思维能够通过教学设计得到有效激发。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
@@ -178,7 +178,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜空间可视化[[Scaffolding|脚手架]]通过降低[[Working Memory|工作记忆]]维持负荷强效赋能发散思维
-> **探讨维度　空间隐喻与语义联想释放** 空间拓扑结构将低阶信息外显化，释放[[Working Memory\|工作记忆]]并激活放射状语义联结，对发散思维的赋能显著超越[[Convergent Thinking\|聚合思维]]。
+> **空间隐喻与语义联想释放** 空间拓扑结构将低阶信息外显化，释放[[Working Memory\|工作记忆]]并激活放射状语义联结，对发散思维的赋能显著超越[[Convergent Thinking\|聚合思维]]。
 
 > [!claim] Lei et al.
 > **发散思维对空间表征工具的高度敏感性** 大样本元分析表明，[[Graphic Organizer\|图形组织器]]对发散思维具有强效促进作用，显著高于对聚合思维的促进幅度。特别是以单一主题为中心向外放射多级分支的[[Mind Mapping\|思维导图]]，以极低的结构规则门槛最大化激活了学习者的观念流畅性与联想独创性，证实空间可视化支架是培育发散思维的高效认知工具。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4, 9–11)]]
@@ -186,7 +186,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜生成式 AI 具有发散构想催化与思维早熟汇合压制的双向[[Interaction Effect|调节效应]]
-> **探讨维度　[[Man-Computer Symbiosis|人机协同]]发散与心智惰性风险** 大模型在[[Problem Solving\|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟汇合与主体性剥落。
+> **[[Man-Computer Symbiosis|人机协同]]发散与心智惰性风险** 大模型在[[Problem Solving\|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟汇合与主体性剥落。
 
 > [!claim] Urban et al.; Awal; Li et al.
 > **AI 发散赋能与早熟汇合张力** 在高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming\|头脑风暴]]的高效[[Scaffolding\|脚手架]]，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking\|TTCT]]）及[[Alternate Uses Test\|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，大量学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence\|能力错觉]]与构想惰性。只有在[[Structured Teaching\|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–8, 11)]]

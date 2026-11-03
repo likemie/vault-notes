@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜开放式探究与深度社会协商是驱动理工科深层概念建构与情感赋能的强效引擎
-> **探讨维度　科学探究与效能感协同机制** 当学生经历真实的科研探究流程并自主掌控调查路径时，其学科动机、效能感与高阶概念理解将产生质的转向。
+> **科学探究与效能感协同机制** 当学生经历真实的科研探究流程并自主掌控调查路径时，其学科动机、效能感与高阶概念理解将产生质的转向。
 
 > [!claim] Sharan & Sharan; Tanjung et al.; Güngör et al.
 > **小组[[Survey Research\|调查法]]展现出极高层级的干预效益** [[Meta-meta-analysis\|二阶元分析]]表明，小组调查法在所有合作技术亚组中呈现出仅次于 [[Cooperative Integrated Reading and Composition\|CIRC]] 的极高效益（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）；在一阶物理课堂实验中，小组调查法对物理[[Academic Achievement\|学业成就]]（$ES = 0.96$）与物理学习情感能力（$ES = 1.26$）均产生巨大促进，证实自主探究对突破传统理科教学[[Rote Learning\|死记硬背]]具有决定性价值。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]

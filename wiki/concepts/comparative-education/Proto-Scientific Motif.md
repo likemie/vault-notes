@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜准科学母题将经验事实图表归纳与崇高人道主义关怀统一为不可分割的[[Epistemology|认识论]]整体
-> **探讨维度　科学经验性与人道规范性的有机融合** 揭示早期比较教育学如何兼具自然科学实证精神与启蒙人文主义价值承诺。
+> **科学经验性与人道规范性的有机融合** 揭示早期比较教育学如何兼具自然科学实证精神与启蒙人文主义价值承诺。
 
 > [!claim] [[Marc-Antoine Jullien\|Jullien, M.]]-A.
 > **事实图表归纳服务于人类灵魂重生与社会秩序改良** 朱利安论证，单纯的哲学思辨无法根治欧洲社会的政治腐败与动荡危机，必须依托客观事实与系统观察表格将教育推向准实证科学的高度；然而，收集客观事实的终极归宿是为了借由道德、心智与身体的全人体智德教化重塑人性的尊严，使跨国比较事实成为抵御野蛮暴力的理性工具，有别于为了数字本身。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 12–14, 23–24)]]；引自 Fraser (1964:35, 48)
@@ -154,7 +154,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜准科学母题的价值负载性揭示了现代[[Positivism|实证主义]]去伦理化建构的历史局限
-> **探讨维度　历史学史批判与[[Scientism\|科学主义]]反思** 反思后世实证派对早期母题的误读与矮化。
+> **历史学史批判与[[Scientism\|科学主义]]反思** 反思后世实证派对早期母题的误读与矮化。
 
 > [!claim] [[Harold Noah\|Noah, H. J.]] and [[Max Eckstein\|Eckstein, M. A.]]
 > **[[Positivism\|实证主义]]视阈下早期母题的方法论缺陷** 诺亚与埃克斯坦基于 20 世纪下半叶逻辑实证主义与社会科学标准指出，朱利安的[[Questionnaire\|问卷]]体系过于繁复宏大，且充斥着大量带有强烈道德教育偏见的主观“引导性提问（[[Leading Questions]]）”，未能在方法论上实现事实与价值的严格分离，因此未能建立起现代意义上严谨可检验的因果假说验证机制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 16–17)]]；引自 Noah & Eckstein (1969:29)

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜特许学校以办学自主与市场竞争为由推动公立教育的商业外包与[[Endogenous Privatisation|内生私有化]]
-> **探讨维度　[[Public-Private Partnership|公私伙伴关系]]与制度侵蚀维度** 探讨特许契约如何将市场契约机制嵌入公立教育，以及私营外包失败时的责任转嫁逻辑。
+> **[[Public-Private Partnership|公私伙伴关系]]与制度侵蚀维度** 探讨特许契约如何将市场契约机制嵌入公立教育，以及私营外包失败时的责任转嫁逻辑。
 
 > [!claim] [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]
 > **商业合同外包削弱公共责任法定底线** 奥尼尔等人的政策审查表明，新西兰等国在亲市场智库游说下引入特许学校（[[Partnership Schools Kura Hourua]], PSKH），允许营利与非营利机构依商业合同直接支配公帑办学。这一安排以灵活性为修辞掩盖了深刻的制度风险：私人慈善与商业赞助具有高度不稳定性，无法替代公共财政的普惠均等；更为严重的是，当特许学校经营失败或学业效果不佳时，私营机构可通过破产解约全身而退，而留滞学生的教育受损与安置成本最终只能由国家公立体系被动兜底。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30, 134–136)]]
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Test-Based Accountability|基于测验的问责制]]与基金会[[Catalytic Philanthropy|催化慈善]]协同加速特许学校政策扩张
-> **探讨维度　[[Policy Network|政策网络]]与全球软治理动员维度** 揭示国际评估危机动员、严苛问责制裁与跨国慈善资本如何合流推动特许学校扩散。
+> **[[Policy Network|政策网络]]与全球软治理动员维度** 揭示国际评估危机动员、严苛问责制裁与跨国慈善资本如何合流推动特许学校扩散。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]; [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
 > **问责制裁压力与战略慈善结盟推动结构重组** 跨国政策比较与全球治理研究表明，特许学校政策具有复杂的外部驱动机制。基于测验的问责制（TBA）将特许重组作为惩罚学业达标不合格公立学校的核心制裁工具；同时，跨国比较测验（如 [[PISA]]）引发的危机感被商业智库与改革联盟借用，作为推动特许学校立法扩张的正当化证据。另一方面，跨国慈善基金会通过定向资金占据特许倡导联盟总预算的大部，依托催化慈善模式深度渗透公共决策网络，实现了对传统公办体系的战略性重塑。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Meta-analysis|元分析]]证据显示特许学校对[[Academic Achievement|学业成就]]的整体[[Effect Size|效应量]]微弱且受制于研究方法质量
-> **探讨维度　实证评估与方法学偏差维度** 检视特许学校声称的学术增值假定，分析其效应量随研究因果严谨性提升而衰减的规律。
+> **实证评估与方法学偏差维度** 检视特许学校声称的学术增值假定，分析其效应量随研究因果严谨性提升而衰减的规律。
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
 > **学业增值假定在严谨[[Counterfactual|反事实]]检验下趋于消解** 针对倡导者宣称特许学校能显著提高弱势群体分数的断言，[[Ivan Snook|斯努克]]等人的方法学审计指出，早期宏观元分析报告的正向效应量（如 $d = 0.20$）在剔除缺乏对照的低质量研究后，组间差异降低至统计不显著的零水平。[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》MetaX 全球数据库汇总的 6 项元分析（涵盖 347 项原始研究、780 个效应量）同样证实，特许学校对总体学业成就的加权综合效应量仅为 $d = 0.04$，属于微弱正向效应，证实其并未在宏观尺度上带来超越常规公立学校的实质学业改善。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 181, 192)]]
@@ -186,8 +186,8 @@ updated: 2026-11-02
 > > [!metax-ma]- 6 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Miron & Nelson (2001) | Charter schools | 18 | NA | 18 | 0.20 |  |
-> > | Betts & Tang (2008) | Charter schools | 191 | NA | 191 | 0.01 |  |
+> > | Miron and Nelson (2001) | Charter schools | 18 | NA | 18 | 0.20 |  |
+> > | Betts and Tang (2008) | Charter schools | 191 | NA | 191 | 0.01 |  |
 > > | Krowka et al. (2017) | Charter schools | 73 | NA | 146 | 0.14 |  |
 > > | Erickson (2013) | Charter schools | 11 | NA | 122 | -0.27 |  |
 > > | Cheng et al. (2017) | No excuse charter schools | 17 | NA | 266 | 0.14 |  |

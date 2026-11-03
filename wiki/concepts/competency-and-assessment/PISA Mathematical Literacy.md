@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜基于现实生活情境的数学化建模循环重塑了[[Knowledge-Based Economy|知识经济]]时代的数理胜任力基准
-> **探讨维度　劳动力市场需求与数学教育[[Paradigm|范式]]翻转** 该命题探讨 [[PISA]] 数学框架如何打破传统以符号[[Rote Learning|死记硬背]]为主的应试教学，确立与现代高新技术产业和[[Governing by Numbers|数字治理]]高度吻合的应用型人才培养标准。
+> **劳动力市场需求与数学教育[[Paradigm|范式]]翻转** 该命题探讨 [[PISA]] 数学框架如何打破传统以符号[[Rote Learning|死记硬背]]为主的应试教学，确立与现代高新技术产业和[[Governing by Numbers|数字治理]]高度吻合的应用型人才培养标准。
 
 > [!claim] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] & [[Argument_Li_2025_HSSC|Li et al. (2025)]]
 > **应用情境抽象与批判性推理的价值确立** 在现代劳动力市场中，几乎所有的纯数值计算与标准化方程求解已被计算机算法和专业软件自动化替代。个人最稀缺的胜任力在于从非结构化的现实业务中提炼关键[[Variable|变量]]、建立数学模型，并对机器输出的量化结果进行常识性检验与批判性审视。PISA 数学素养测评通过三年一轮的全球对标，有力推动了德国、日本、爱沙尼亚等参测国修订国家中小学数学课程标准，普遍压缩死记硬背算法的课时，大幅增加数据分析、概率论与现实项目建模内容。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 7–8)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -120,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜高度依赖生活情境文本的测评形式在跨国移植中易受语言阅读负荷与文化熟悉度的复合干扰
-> **探讨维度　测量[[Construct|构念]]纯净度与跨文化等值性挑战** 该命题探讨现实情境题型对语言理解的寄生性依赖，如何影响其跨国统计[[Reliability|信度]]与[[Construct Validity|构念效度]]。
+> **测量[[Construct|构念]]纯净度与跨文化等值性挑战** 该命题探讨现实情境题型对语言理解的寄生性依赖，如何影响其跨国统计[[Reliability|信度]]与[[Construct Validity|构念效度]]。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] & [[Argument_Zhao_2020_JEC|Zhao (2020)]]
 > **情境化包装引发的构念污染与文化偏误** 由于 PISA 数学试题必须将任务嵌入长篇叙述的现实情境背景中，学生的数学表现往往与其阅读理解能力发生高度共线性；阅读障碍或非母语参测学生在未触及核心数学逻辑前就因题干过长而被筛选淘汰。同时，部分西方中产阶级所熟悉的生活消费情境（如信用卡分期、金融衍生品、特定体育规则），对非西方发展中国家或底层弱势学生构成额外的文化理解阻碍，使测评结果难以完全纯净地反映纯粹的数理推理潜能。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]; [[Argument_Zhao_2020_JEC|(Zhao, 2020)]]

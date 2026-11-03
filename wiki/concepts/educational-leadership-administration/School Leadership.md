@@ -77,7 +77,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] School Leadership
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学校领导力深嵌于微观社会情境与宏观权力结构之中，不存在脱离情境的通用卓越处方
-> **探讨维度　情境特异性与权力结构嵌入** 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
+> **情境特异性与权力结构嵌入** 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
 
 > [!claim] Møller; Eacott
 > **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与[[James C. Scott|斯科特]]·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜市场化自主权与[[New Public Management|新公共管理]]绩效主义将校长撕裂于教育育人与企业化交付的制度陷阱
-> **探讨维度　[[New Public Management\|新公共管理]]与校长双重[[Habitus|习性]]绑定** 揭示市场化[[School Autonomy\|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
+> **[[New Public Management\|新公共管理]]与校长双重[[Habitus|习性]]绑定** 揭示市场化[[School Autonomy\|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
 
 > [!claim] Eacott; Keddie et al.
 > **管理主义双重绑定** 市场驱动的学校自主权与新公共管理（NPM）改革，将学校校长推入了不可调和的制度性撕裂之中。埃科特与阿曼达·凯迪（Amanda Keddie）等学者基于[[Pierre Bourdieu\|皮埃尔·布迪厄]]（Pierre Bourdieu）[[Champ\|场域]]理论及对澳大利亚校长的实证研究表明，校长被赋予了看似庞大的预算与用人自主权，但实质上沦为国家竞争性问责项目的交付者（Deliverers）。校长不得不把大量精力转向争夺生源、包装学校形象、追逐标准化统考名次与应付繁琐审计；这种企业家角色的膨胀诱发了严重的目标置换（Goal [[Institutional Displacement|displacement]]），不仅削弱了对处境不利学生的公平扶助，更导致校长群体普遍陷入身心健康危机与严重职业倦怠。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–54)]]；(Keddie et al., 2020, pp. 438–442)
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜在[[Evidence-Informed Practice|证据知情实践]]中，榜样型领导示范与互信文化构成了破除教师防卫与实现高质量证据转化的决定性手段
-> **探讨维度　组织使能与证据转化机制** 探讨外部科研证据如何穿透学校微观壁垒，论证领导者亲身示范与制度化排程对教师常态化循证行为的促进机制。
+> **组织使能与证据转化机制** 探讨外部科研证据如何穿透学校微观壁垒，论证领导者亲身示范与制度化排程对教师常态化循证行为的促进机制。
 
 > [!claim] Rickinson et al.
 > **榜样型领导与心理安全** 在推动高质量研究[[Research Utilization\|证据使用]]的过程中，学校领导者承担着不可替代的组织使能中枢功能。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）等学者基于澳大利亚中小学实证调查指出，领导者口头倡导研究无法消除一线教师的抵触与信心赤字，唯有领导者言行一致、躬身示范研究在教学中的具体转化，才能赋予教师试错的心理安全感；通过在日常排程中刚性划拨专有研读工时、建立[[Professional Learning Community\|专业学习共同体]]（PLCs），领导者成功破除了行政文书杂务对教研的残酷挤压，使得外部适切证据能够在互信对话中扎根微观课堂。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–193)]]
@@ -166,7 +166,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜产出导向与[[Output-Oriented Governance|循证治理]]驱动学校领导者系统重置微观工时，向专业化教育企业管理者转型
-> **探讨维度　工时结构重置与专业身份转型** 探讨宏观治理模式如何穿透学校领导者的日常时间分配，论证从兼课教师向教育企业管理者的结构性转型机制。
+> **工时结构重置与专业身份转型** 探讨宏观治理模式如何穿透学校领导者的日常时间分配，论证从兼课教师向教育企业管理者的结构性转型机制。
 
 > [!claim] Altrichter et al.
 > **教育企业管理者角色的经验确立** [[Herbert Altrichter\|阿尔特里希特]]（Herbert Altrichter）等学者基于对奥地利中小学校长的实证调查指出，领导力的制度重塑最终必须落实于微观时间结构的重构。在传统科层体制下，中小学校长长期固守兼任行政事务的资深任课教师（Unterrichtende mit Zusatzaufgaben）这一历史角色；而高度认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长，在实践中系统性缩减了近 14 个百分点的直接授课负担，将释放出的宝贵工时实质性投向深入课堂听课观摩、教学诊断研讨与校本自我评估，在实际行动中转型为以组织改进和教学质量引领为核心的教育企业管理者（Manager eines pädagogischen Betriebs）。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 30–33)]]
@@ -174,7 +174,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜学校领导力作为高位组织使能手段获得专家德尔菲高度认可，是整合微观教学的不可替代支撑
-> **探讨维度　组织使能手段与实践价值分层** 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
+> **组织使能手段与实践价值分层** 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能手段。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织手段的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
@@ -241,28 +241,28 @@ updated: 2026-11-02
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pantili et al. (1991) | Assessment ratings of principals and job performance | 32 | 10,773 | 32 | 0.41 |  |
-> > | Bosker & Witziers (1995) | Principals on student achievement | 21 | NA | 65 | 0.04 |  |
+> > | Bosker and Witziers (1995) | Principals on student achievement | 21 | NA | 65 | 0.04 |  |
 > > | Brown (2001) | Leadership on student achievement | 38 | NA | 339 | 0.57 |  |
 > > | Wiseman (2002) | Instructional management on achievement | 59 | 16,326 | 59 | -0.26 |  |
 > > | Witziers et al. (2003) | Principals on student achievement | 61 | NA | 377 | 0.02 |  |
 > > | Waters et al. (2003) | District superintendents on student achievement | 70 | 1,100,000 | 70 | 0.52 |  |
-> > | Waters & Marzano (2006) | District superintendents on achievement | 27 | NA | 27 | 0.49 |  |
+> > | Waters and Marzano (2006) | District superintendents on achievement | 27 | NA | 27 | 0.49 |  |
 > > | Chin (2007) | Transformational leadership | 21 | 6,558 | 11 | 1.12 |  |
 > > | Robinson et al. (2008) | Principals on student achievement | 22 | NA | 199 | 0.41 |  |
-> > | Creemers & Kyriakides (2008) | School leadership | 29 | NA | 29 | 0.07 |  |
-> > | Hendriks & Steen (2012) | Leadership on outcomes | 15 | NA | 15 | 0.03 |  |
-> > | Scheerens & Steen (2012) | Instructional leadership on achievement | 53 | NA | 170 | 0.05 |  |
+> > | Creemers and Kyriakides (2008) | School leadership | 29 | NA | 29 | 0.07 |  |
+> > | Hendriks and Steen (2012) | Leadership on outcomes | 15 | NA | 15 | 0.03 |  |
+> > | Scheerens and Steen (2012) | Instructional leadership on achievement | 53 | NA | 170 | 0.05 |  |
 > > | Tsai (2015) | Teacher leadership on achievement | 12 | 3,233 | 3 | 0.31 |  |
 > > | Karadag et al. (2015) | Instructional leadership on achievement | 57 | 28,964 | 57 | 0.72 |  |
-> > | Leithwood & Sun (2012) | Transformational leadership | 24 | 2,185 | 20 | 0.18 |  |
+> > | Leithwood and Sun (2012) | Transformational leadership | 24 | 2,185 | 20 | 0.18 |  |
 > > | Wang (2010) | School leadership | 108 | NA | 108 | 0.22 |  |
 > > | Shen et al. (2020) | School leadership | 21 | NA | 22 | 0.39 |  |
-> > | Uysal & Sarier (2018) | School leadership | 39 | NA | 68 | 0.05 |  |
-> > | Liebowitz & Porter (2019) | Principal behaviors | 31 | NA | 346 | 0.12 |  |
+> > | Uysal and Sarier (2018) | School leadership | 39 | NA | 68 | 0.05 |  |
+> > | Liebowitz and Porter (2019) | Principal behaviors | 31 | NA | 346 | 0.12 |  |
 > > | Tan, Gao, et al. (2020) | School leaders on student achievement | 16 | NA | 16 | 0.49 |  |
 > > | Tan et al. (2021) | School leaders on student achievement | 108 | NA | 493 | 0.28 |  |
 > > | Sertel et al. (2022) | Leadership across cultures | 15 | 7,769 | 15 | 0.70 |  |
-> > | Wu & Shen (2022) | School leaders on student achievement | 42 | NA | 42 | 0.21 |  |
+> > | Wu and Shen (2022) | School leaders on student achievement | 42 | NA | 42 | 0.21 |  |
 > > | Almarshad (2017) | Leadership on achievement | 14 | 12,757 | 16 | 0.56 |  |
 > > | Karadag (2020) | School leadership | 151 | 131,498 | 151 | 0.68 |  |
 > > | Ertem (2021) | School leadership | 7 | 8,180 | 7 | 0.93 |  |

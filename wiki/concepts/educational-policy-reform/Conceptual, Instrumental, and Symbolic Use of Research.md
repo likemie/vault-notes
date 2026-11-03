@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜使用方式的类型学源于 Weiss 的七种[[Research Utilization Models|研究利用模型]]，并归纳为概念、工具与象征三种基本形态
-> **探讨维度　类型学源流与归纳机制** [[Research Utilization|研究利用]]的方式可以用有限几种类型概括，各种类型对应不同的知识与决策关系。
+> **类型学源流与归纳机制** [[Research Utilization|研究利用]]的方式可以用有限几种类型概括，各种类型对应不同的知识与决策关系。
 
 > [!claim] Weiss (1979)
 > **七模型起源** 1979 年提出七种[[Research Utilization Models|研究使用模型]]（知识驱动、[[Problem Solving|问题解决]]、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），为后来的类型学提供基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
@@ -153,7 +153,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜学校中的研究使用以象征性与工具性使用为主，深思熟虑的整合性使用相对罕见
-> **探讨维度　学校情境中的使用分布** 在学校实证文献中，浅层、象征性或工具性使用比深思熟虑参与更常见。
+> **学校情境中的使用分布** 在学校实证文献中，浅层、象征性或工具性使用比深思熟虑参与更常见。
 
 > [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
 > **分布不均** [[Systematic Review|系统综述]]发现深思熟虑参与是纳入研究中相对罕见的现象，相比之下工具性与象征性使用更为常见；部分研究把使用描述为浅层、象征性或为达成其它目的的工具性使用，研究或证据被稀释或改造以[[Fitness for Purpose|适合目的]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 10–11)]]
@@ -164,7 +164,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜类型学从使用方式扩展为成果分类，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]的影响
-> **探讨维度　从使用方式向成果分类的拓展** 类型学不仅描述如何使用研究，还被用来分类与测量研究干预的长期成果。
+> **从使用方式向成果分类的拓展** 类型学不仅描述如何使用研究，还被用来分类与测量研究干预的长期成果。
 
 > [!claim] [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]
 > **成果分类的应用** 在[[Evidence-Informed Practice|证据知情实践]]的成果测量中，[[National Center for Research in Policy and Practice|NCRPP]] 学者把工具性、概念性与象征性使用识别为长期成果的三类形态：工具性对应研究对实践的直接影响，概念性对应研究对思维的间接影响，象征性对应使用证据合法化做法或说服他人。Wentworth et al. 据此开发[[Questionnaire|问卷]]，测量美国[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者[[Evidence-Based Policy-Making|证据本位决策]]的影响。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 132)]]
@@ -172,7 +172,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜政策机构内部的三种使用呈现动态流转与交叠共存，终审定稿权力促成向象征性合法化的滑移
-> **探讨维度　政策组织全流程中的使用形态流转** 探讨在公共机构内部，工具性、概念性与象征性使用如何随工作流程先后出现与交织，以及行政定稿审查如何重塑证据性质。
+> **政策组织全流程中的使用形态流转** 探讨在公共机构内部，工具性、概念性与象征性使用如何随工作流程先后出现与交织，以及行政定稿审查如何重塑证据性质。
 
 > [!claim] Segerholm et al.
 > **组织全流程中的形态流转与定稿清洗** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]的质性追踪表明，三种使用形态随政策生产流程相继展现。常规督导将研究结论直接编码为评估指标，体现工具性使用；质量审计借助知识综述和学者研讨启发反思，体现概念性使用；然而，当审计报告进入终审定稿时，传播部门删改了关于课程结构限制的合理解释，仅保留教师不自信的缺陷归因，使研究最终转变为维护既定督导权力的象征性合法化使用。这表明研究使用的性质受制于组织内部的科层控制与文本定稿机制。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–654)]]
@@ -183,7 +183,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜象征性利用的仪式化固化会加剧执行鸿沟并侵蚀决策社群对科学证据的基本信任
-> **探讨维度　政策借贷与行政审计中的仪式化象征使用** 探讨当证据利用演变为满足国际捐赠方审计或上级绩效核验的仪式性文书生产时，其对真实政策工具性落地的反噬效应。
+> **政策借贷与行政审计中的仪式化象征使用** 探讨当证据利用演变为满足国际捐赠方审计或上级绩效核验的仪式性文书生产时，其对真实政策工具性落地的反噬效应。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **仪式化象征利用与执行信任侵蚀** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）结合对[[Development Education|发展中国家教育]]政策文本的实证分析指出，当国际组织与受援国教育部门陷入象征性研究利用的[[Path Dependence|路径依赖]]时，政策诊断报告与改进行动指南会呈现跨年份的字句级雷同复制（如[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（[[UNESCO]] International Institute for Educational Planning, IIEP）报告中所见机械重复建议）；这种利用方式使证据沦为应对财政资助与机构声誉考评的仪式化道具，掩盖了真实行政执行资源的匮乏，拉大了从政策宣示到一线落地的执行鸿沟，并深层瓦解了决策官僚对实证研究工具性价值的制度信任。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 348–349)]]

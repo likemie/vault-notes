@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜客观主义将社会世界假定为外在于个体意识的硬性实在并以发现普遍法则为旨归
-> **探讨维度　哲学本体与[[Nomothetic|通则式]]方法论** 探讨客观主义如何奠定[[Positivism|实证主义]]社会科学的方法论架构，并将自然科学[[Paradigm|研究范式]]全面移植至社会现象探索。
+> **哲学本体与[[Nomothetic|通则式]]方法论** 探讨客观主义如何奠定[[Positivism|实证主义]]社会科学的方法论架构，并将自然科学[[Paradigm|研究范式]]全面移植至社会现象探索。
 
 > [!claim] Burrell and Morgan (1979) / [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
 > **硬性外部实在与普遍规律探寻** 伯勒尔与摩根指出，客观主义取向预设社会实在具有客观实在性，强加于个体意识之上。社会科学的任务如同自然科学，在于分析选定[[Variable|变量]]之间的恒常规律性，通过数学建模与严密的量化测量，将复杂的社会互动抽象为普遍法则，确立了通则式实证研究的基本纲领。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜超国家教育治理借助客观主义科学品牌将价值权衡包装为中立的技术决策
-> **探讨维度　治理去政治化与客观主义权威** 剖析超国家机构如何利用客观主义修辞将政策建议包装为毋庸置疑的科学规律，以技术排位压制本土价值冲突。
+> **治理去政治化与客观主义权威** 剖析超国家机构如何利用客观主义修辞将政策建议包装为毋庸置疑的科学规律，以技术排位压制本土价值冲突。
 
 > [!claim] Martens (2007) / [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **客观主义品牌与政策决策去政治化** [[Kerstin Martens|克里斯汀·马滕斯]]（Kerstin Martens, 2007）与索蒂里亚·格雷克（[[Sotiria Grek]]）指出，客观主义取向在当代超越了单纯的学术方法论，演变为超国家治理的核心权威工具。[[OECD|经合组织]]（OECD）通过推进[[Comparative Turn in Education Policy|比较转向]]与量化指标，将自身政策建议塑造成建立在严密实证科学之上的“客观主义品牌”（Objectivism Brand）。客观主义修辞将复杂的教育价值取向与政治权衡置换为无可争辩的技术事实与科学规律，赋予治理中枢超然于国家政治纷争之上的中立合法性，促使成员国在遵循科学规律的[[Discourse|话语]]下主动接受外部规制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 25, 27–28)]]

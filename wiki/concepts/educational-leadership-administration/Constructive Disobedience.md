@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜组织选拔的自恋偏好导致唯唯诺诺的顺从文化，进而引发机构系统性平庸化与脆断风险
-> **探讨维度　领导力病理学与组织衰变机制** 探讨管理层对顺从下属的心理偏好如何侵蚀组织的自适应与抗风险能力。
+> **领导力病理学与组织衰变机制** 探讨管理层对顺从下属的心理偏好如何侵蚀组织的自适应与抗风险能力。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **管理自恋与组织脆断** 商业公司与公共治理机构最普遍的制度退化，根源于管理者倾向于选拔和提拔那些不加批判、完全顺从自己意志的下属。这种文化虽然满足了管理者的虚荣心并维持了表面的和谐秩序，但会将整个组织降格为仅仅依赖领导者个人直觉运转的脆弱外壳。在面对复杂多变的外部危机时，缺乏内部批判性纠偏机制的顺从型组织极易发生灾难性脆断。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 136)]]
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜建设性不服从以战略意图的深度内化为前提，通过实战物理反馈纠偏上级错误指令
-> **探讨维度　行动哲学与纠偏动力学机制** 阐明建设性不服从的成立边界与依托客观物理现实纠偏的内在机理。
+> **行动哲学与纠偏动力学机制** 阐明建设性不服从的成立边界与依托客观物理现实纠偏的内在机理。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **实战纠错与一线能动性** 在瞬息万变的技术前沿与复杂对抗环境中，后方管理者的抽象指令往往与一线残酷的物理现实脱节。卓越的工程组织依靠一线人员在深刻领会战略终极目标的同时，敢于依据一手实战数据推翻不切实际的微观命令。这种违抗是以实战物理有效性为准绳，对自上而下的错误方案实施根本性修正，是技术复杂系统实现自我演化的关键机制，有别于否定领导权威。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 136–138)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜复杂自适应系统的前沿演化依赖一线工程师的抗命能动性与去中心化[[Swarm Intelligence|群智能]]
-> **探讨维度　组织形态学与[[Swarm Intelligence|群智能]][[Emergence|涌现]]机制** 探讨从传统科层金字塔向扁平化、去中心化工程生态演进的微观组织基础。
+> **组织形态学与[[Swarm Intelligence|群智能]][[Emergence|涌现]]机制** 探讨从传统科层金字塔向扁平化、去中心化工程生态演进的微观组织基础。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]; Johnstone (1979)
 > **地位流动与[[Shadow Hierarchy|影子层级]]赋能** 借鉴[[Role-playing|即兴戏剧]]（Keith Johnstone, 1979）中的“[[Status Transactions|地位交易]]”理论，前沿科技初创企业必须打破静态的职级高低，建立动态流动的[[Shadow Hierarchy|影子层级]]。一线工程师凭借对技术细节与现场现实的精准把握，在特定战术决策中能够临时获取高于管理层的权威，通过践行建设性不服从重构任务流程。这种去中心化的“群智能”网络使得组织能够像复杂自适应生物体一样快速感知变化并自主纠错。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 122–129)]]

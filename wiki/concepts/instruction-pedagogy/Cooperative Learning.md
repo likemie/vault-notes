@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Cooperative Learning
@@ -132,7 +132,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜合作学习对学生的[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]具有稳健的中等促进效应
-> **探讨维度　认知与[[Affective Outcomes\|非认知产出]]的多维协同赋能机制** 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维]]）与非认知情感维度的整体干预效能。
+> **认知与[[Affective Outcomes\|非认知产出]]的多维协同赋能机制** 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维]]）与非认知情感维度的整体干预效能。
 
 > [!claim] Güngör et al.
 > **多维学习成效的均衡促进** [[Meta-meta-analysis\|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis\|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size\|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes\|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），[[Fail-Safe N\|失安全系数]]（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与[[Trim and Fill Method\|剪补法]]一致证实结论无[[Publication Bias\|发表偏倚]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–9)]]
@@ -140,7 +140,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜合作学习的干预成效受具体教学技术模式与学科知识结构的显著调节
-> **探讨维度　技术结构严密度与学科任务形态的[[Interaction Effect\|交互效应]]** 探讨不同合作学习分支技术的设计严密度，以及语言、社会科、自然科学与体育学科在[[Task Structure\|任务结构]]上的差异如何调节合作干预的最终产出。
+> **技术结构严密度与学科任务形态的[[Interaction Effect\|交互效应]]** 探讨不同合作学习分支技术的设计严密度，以及语言、社会科、自然科学与体育学科在[[Task Structure\|任务结构]]上的差异如何调节合作干预的最终产出。
 
 > [!claim] Güngör et al.
 > **技术形态与学科领域的[[Heterogeneity\|异质性]]分化** 合作学习的具体教学技术对学习结果存在显著调节效应（$Q_b(3) = 9.36, p = .02$）：高度结构化整合阅读的[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）技术（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）与强调自主探究的小组[[Survey Research\|调查法]]（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）呈现出极高效应，显著高于[[Jigsaw\|拼图法]]（$ES = 0.72$）与一般合作学习模式（$ES = 0.61$）。在学科领域维度上调节效应同样高度显著（$Q_b(5) = 20.16, p < .01$）：语言学科（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）展现高效应，数学领域呈现中等效应（$ES = 0.70$），而体育教育领域效应极低且不显著（$ES = 0.05, 95\%\text{ CI} = [-1.44, 1.54]$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–10)]]
@@ -148,7 +148,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜真实课堂准实验较严格实验室全实验展现出更显著的生态干预效应
-> **探讨维度　真实教学情境的[[Ecological Validity\|生态效度]]与实验控制张力** 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
+> **真实教学情境的[[Ecological Validity\|生态效度]]与实验控制张力** 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
 
 > [!claim] Güngör et al.
 > **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全[[Experimental Research|实验设计]]的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化积累。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
@@ -156,7 +156,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜教师专业素养与五大要素的规范落实是决定合作学习课堂效能的关键瓶颈
-> **探讨维度　教学转化中的形式主义陷阱与专业赋能路径** 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
+> **教学转化中的形式主义陷阱与专业赋能路径** 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
 
 > [!claim] Güngör et al.
 > **理论素养与规范实施的决定性制约** 合作学习在课堂中的有效应用高度依赖教师对理论基础与操作技术的深刻理解。尽管多数教师主观上认为自己在组织合作学习，但实际活动往往因过于松散、脱离特定方法论规范而沦为形式化的小组扎堆。唯有教师精准落实积极互赖、个体责任与小组反思，并为学生提供充分的合作技能训练时间与结构化[[Scaffolding\|脚手架]]，合作学习才能产生实质性学业与思维增益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
@@ -213,7 +213,7 @@ updated: 2026-11-02
 > > [!metax-ma]- 38 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Ayaz & Sekerci (2015) | Constructivist teaching | 53 | 3,271 | 53 | 1.16 |  |
+> > | Ayaz and Sekerci (2015) | Constructivist teaching | 53 | 3,271 | 53 | 1.16 |  |
 > > | Johnson et al. (1981) | Cooperative learning | 122 | NA | 183 | 0.73 |  |
 > > | Rolhelser-Bennett (1987) | Cooperative learning | 23 | 4,002 | 78 | 0.72 |  |
 > > | Hall (1988) | Cooperative learning | 22 | 10,022 | 52 | 0.31 |  |
@@ -225,26 +225,26 @@ updated: 2026-11-02
 > > | Bowen (2000) | Cooperative learning in high school chemistry | 37 | 3,000 | 49 | 0.51 |  |
 > > | Neber, Finsterwald, & Urban (2001b) | Cooperative learning with gifted | 12 | NA | 314 | 0.13 |  |
 > > | Dietrichson, Bog, Filges, & Jorgensen (2017a) | Cooperative learning | 10 | NA | 10 | 0.22 |  |
-> > | Tuncer & Dikmen (2017) | Cooperative learning | 6 | NA | 6 | 0.52 |  |
+> > | Tuncer and Dikmen (2017) | Cooperative learning | 6 | NA | 6 | 0.52 |  |
 > > | Gu (2013) | Cooperative learning | 48 | NA | 54 | 0.44 |  |
 > > | Stoner (2004) | Cooperative learning | 22 | 6,455 | 22 | 0.14 |  |
 > > | Romero (2009) | Cooperative learning | 32 | NA | 52 | 0.31 |  |
 > > | Igel (2010) | Cooperative learning | 20 | 2,412 | 20 | 0.44 |  |
-> > | McMaster & Fuchs (2002) | Cooperative learning | 15 | 864 | 49 | 0.30 |  |
+> > | McMaster and Fuchs (2002) | Cooperative learning | 15 | 864 | 49 | 0.30 |  |
 > > | Nunnery et al. (2013) | Cooperative learning in math | 15 | NA | 15 | 0.16 |  |
-> > | Puzio & Colby (2013) | Cooperative learning | 18 | NA | 29 | 0.16 |  |
+> > | Puzio and Colby (2013) | Cooperative learning | 18 | NA | 29 | 0.16 |  |
 > > | Kyndt et al. (2013) | Cooperative learning | 65 | NA | 51 | 0.54 |  |
-> > | Capar & Tarim (2015) | Cooperative learning in math | 26 | NA | 36 | 0.59 |  |
+> > | Capar and Tarim (2015) | Cooperative learning in math | 26 | NA | 36 | 0.59 |  |
 > > | Turgut & Gülsen-Turgut (2018) | Cooperative learning | 47 | NA | 59 | 0.84 |  |
-> > | Apugliese & Lewis (2017) | Cooperative learning | 26 | NA | 26 | 0.70 |  |
+> > | Apugliese and Lewis (2017) | Cooperative learning | 26 | NA | 26 | 0.70 |  |
 > > | Susman (1998) | Cooperative learning via ICT | 23 | NA | 23 | 0.25 |  |
-> > | Jung & Shin (2016) | Cooperative learning | 13 | NA | 13 | 1.07 |  |
+> > | Jung and Shin (2016) | Cooperative learning | 13 | NA | 13 | 1.07 |  |
 > > | Warfa (2016) | Cooperative learning in chemistry | 25 | 3,985 | 25 | 0.68 |  |
 > > | Setiana (2020) | Cooperative learning | 16 | 805 | 16 | 0.15 |  |
-> > | Baomin & Lingling (2021) | Cooperative learning | 57 | NA | 57 | 0.59 |  |
+> > | Baomin and Lingling (2021) | Cooperative learning | 57 | NA | 57 | 0.59 |  |
 > > | Park (2009) | Cooperative learning | 272 | NA | 272 | 0.43 |  |
-> > | Gürdogan-Bayir & Bozkurt (2018) | Cooperative learning | 22 | NA | 32 | 0.96 |  |
-> > | Li & Gong (2019) | Cooperative learning | 54 | NA | 54 | 0.34 |  |
+> > | Gürdogan-Bayir and Bozkurt (2018) | Cooperative learning | 22 | NA | 32 | 0.96 |  |
+> > | Li and Gong (2019) | Cooperative learning | 54 | NA | 54 | 0.34 |  |
 > > | Swanson et al. (2019) | Team based learning | 17 | NA | 17 | 0.55 |  |
 > > | Shin (2018) | Cooperative learning | 77 | NA | 376 | 0.77 |  |
 > > | Rizki et al. (2022) | Cooperative learning | 21 | NA | 21 | 1.08 |  |

@@ -61,7 +61,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜量程截断是导致教育因果试验大面积呈现微弱效应与[[Publication Bias|发表偏倚]]的隐形测量根源
-> **探讨维度　探讨维度：测量工具心理计量属性对[[Causality\|因果推断]]精度的系统性制约** 评估方法学研究指出：学界常将试验呈现的零效应归咎于[[Didaktik\|教学理论]]无效或[[Business as Usual\|常态教学]]基线过高，却往往忽视了市售商业测验因量程截断造成的测量失效。
+> **测量工具心理计量属性对[[Causality\|因果推断]]精度的系统性制约** 评估方法学研究指出：学界常将试验呈现的零效应归咎于[[Didaktik\|教学理论]]无效或[[Business as Usual\|常态教学]]基线过高，却往往忽视了市售商业测验因量程截断造成的测量失效。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Hodgen et al. (2019)
 > **测验截断引发的因果遮蔽** 在 [[Education Endowment Foundation\|EEF]] 资助的 [[Catch Up Numeracy]] 数学试验中，由于选用的商业测验在两端存在严重的题项截断，评估数据显示干预成效微乎其微。然而[[Implementation and Process Evaluation\|过程评估]]却表明学生在特定算术策略上取得了明显突破。深入的计量审计表明，这种假阴性结果很大程度上是由天花板与地板效应直接诱发的。由于缺乏跨学段的足够量程，工具强行把连续的能力增益压缩成离散的极值堆积，从而使高标准的量化试验沦为钝器。
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜防范量程截断面临两难抉择：自编测验的人为虚高 vs 商业测验的截断钝化
-> **探讨维度　探讨维度：测量工具外部公信力与微观干预灵敏度的内在张力** [[Evidence-Based Education\|循证教育]]治理揭示：研究者在选择主要结局工具时，始终在“过度敏感的自编题”与“量程受限的通用商业题”之间艰难权衡。
+> **测量工具外部公信力与微观干预灵敏度的内在张力** [[Evidence-Based Education\|循证教育]]治理揭示：研究者在选择主要结局工具时，始终在“过度敏感的自编题”与“量程受限的通用商业题”之间艰难权衡。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Cheung and Slavin (2016)
 > **测验选择的双重心理计量陷阱** 若采用紧密贴合教材的自编测验，极易与干预内容高度同构，从而人为夸大 50% 至 100% 的[[Effect Size\|效应量]]（Cheung & Slavin, 2016）；但若严格遵循循证标准采纳独立的通用商业测验，又极其普遍地遭遇天花板与地板效应，导致对真实干预不敏感。破除此两难困境的唯一出路，在于资助机构必须前置委托专业计量团队开发高[[Reliability\|信度]]、宽量程的权威测验库，并优先锚定国家级长期高利害普查数据（如英国 NPD 统考）。

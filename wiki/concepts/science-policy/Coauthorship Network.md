@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜合著网络展现跨学科[[Heterogeneity|异质性]]的重尾度分布与超级枢纽结构
-> **探讨维度　科研合作网络的拓扑微观异质性** 探讨不同[[Knowledge Production|知识生产]][[Paradigm|范式]]下合著网络连接度衰减速率的学科差异。
+> **科研合作网络的拓扑微观异质性** 探讨不同[[Knowledge Production|知识生产]][[Paradigm|范式]]下合著网络连接度衰减速率的学科差异。
 
 > [!claim] [[Albert-László Barabási|Barabási, A.-L.]]
 > **学科劳动分工决定网络连接长尾** 当代生物医学湿实验的大规模分工拉长了度分布极值尾部，物理学的[[Big Science|大科学工程]]团队与中等理论团队并存，而纯理论数学的合著规模分布衰减最陡峭，高度协作型个体在数学界极度稀缺。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–106)]]
@@ -110,7 +110,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜适度小世界拓扑在维持群体凝聚力与吸纳异质新颖性之间取得最优平衡
-> **探讨维度　网络拓扑对集体[[Creativity|创造力]]与绩效的调控** 探讨合作网络松紧程度与团队创新表现之间的非线性因果机制。
+> **网络拓扑对集体[[Creativity|创造力]]与绩效的调控** 探讨合作网络松紧程度与团队创新表现之间的非线性因果机制。
 
 > [!claim] [[Brian Uzzi|Uzzi, B.]]
 > **[[Small-World Quotient|小世界商数]]与团队创造力的倒 U 形关联** 百老汇百年创作网络实证表明，网络过于稀疏阻碍外部知识流动，过度紧密纠缠引发同质化认知回音室，唯有适度小世界网络兼具局域信任与外部异质思想，产出最高的商业与艺术绩效。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜微观组配规则调控宏观合著网络拓扑相变并决定成果新颖度
-> **探讨维度　在任老手经验与重复搭档封闭度的相变临界点** 阐明个体微观组队选择如何自下而上重塑全学科宏观网络连通性与学术突破质量。
+> **在任老手经验与重复搭档封闭度的相变临界点** 阐明个体微观组队选择如何自下而上重塑全学科宏观网络连通性与学术突破质量。
 
 > [!claim] [[Roger Guimera|Guimerà, R.]] & [[Brian Uzzi|Uzzi, B.]]
 > **团队[[Assemblage|组装]]参数驱动全网[[Giant Component|巨连通分支]]相变** 罗杰·吉梅拉（Roger Guimerà）与布赖恩·乌齐（Brian Uzzi）建立的[[Team Assembly Model|团队组装模型]]表明，宏观合著网络的全局贯通取决于在任老手资历参数 $p$ 与重复合作参数 $q$。只有当老手比例 $p$ 达到统计临界值时，全网才会[[Emergence|涌现]]出连通绝大多数学者的巨连通分支；然而，若老手过度倾向于与旧搭档重复合署（高 $q$），网络将迅速退化为封闭孤立的小世界派系，阻碍跨界知识流动并系统性压低期刊影响因子。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–121, 254–256)]]
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜合著网络由高流失弱纽带支配但依赖少数终身[[Super Ties in Science|超级联结]]创造代表作
-> **探讨维度　合著关系生命周期与非对称产出极值** 揭示合著网络中普遍的短暂弱纽带与罕见的终身强纽带在学术生涯中的分工法则。
+> **合著关系生命周期与非对称产出极值** 揭示合著网络中普遍的短暂弱纽带与罕见的终身强纽带在学术生涯中的分工法则。
 
 > [!claim] [[Alexander M. Petersen|Petersen, A. M.]]
 > **弱纽带流动与超级搭档高产并存** 亚历山大·彼得森（Alexander M. Petersen）追踪资深学者数十年发表全景，证实科学合著网络中 60% 至 80% 的合作关系仅维系 1 年；然而平均每 25 位合署学者中即存在 1 位终身超级搭档（Super Tie）。学者与超级搭档合署了半数以上的核心成果，享有 8 倍产出速率与 14 倍引文净收益，表明科学合作网络依托微观弱纽带维系广泛流动，依托宏观极少数超级强纽带筑造顶尖突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 121–123)]]

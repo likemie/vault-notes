@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜集体抗争对利害后果的切断反向提升了[[Data Infrastructure|数据基础设施]]的系统韧性
-> **探讨维度　阻力吸收与制度演进的逆向强化** 探讨社会反抗如何被行政系统吸纳，从而转化为巩固底层技术架构的正向资源。
+> **阻力吸收与制度演进的逆向强化** 探讨社会反抗如何被行政系统吸纳，从而转化为巩固底层技术架构的正向资源。
 
 > [!claim] Verger, A., Fontdevila, C. & Parcerisa, L.
 > **制度减震加固假说** 集体行动虽然能成功迫使政府修改政策工具的运用方式，却难以撼动工具本身的存在；切断惩戒后果使全员统考褪去了压迫性外观，消解了要求全盘废除数据治理的核心动能，最终实现了规制装置的长期延续。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜外围[[Institutional Layering|制度分层]]调整保护了核心技术装置免受生存危机
-> **探讨维度　制度构件的分层弹性** 探讨政策工具的构件如何通过牺牲外围可变构件来保全核心数据载体。
+> **制度构件的分层弹性** 探讨政策工具的构件如何通过牺牲外围可变构件来保全核心数据载体。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **分层保护机制** 问责制是附加在评估工具之上的分层构件；当外部环境出现危机时，行政系统优先剥离引起公愤的分层奖惩规则，从而确保底层测验数据库不受损害。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 263)]]

@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （边际效益假说）
@@ -110,7 +110,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜国家与区域数字化基础设施水平与教育技术干预[[Effect Size|效应量]]呈现显著负向调节
-> **探讨维度　技术基线与边际回报反比机制** 探讨宏观技术环境（ICT Level）如何调节教育技术促学效应的实际收益幅度。
+> **技术基线与边际回报反比机制** 探讨宏观技术环境（ICT Level）如何调节教育技术促学效应的实际收益幅度。
 
 > [!claim] [[OECD]]
 > **低数字化发展区域的超额技术回报** 在技术发展水平相对滞后的地区，由于学生此前极度匮乏数字化学习支持，教育技术的初次系统性引入往往能带来比高度发达地区更为显著的相对学业增益。[[Argument_Chen_Cheung_2025_ERR\|(OECD, 2015, 2023; 引自 Chen & Cheung, 2025, pp. 6, 18)]]
@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜弱势[[Socioeconomic Status|社会经济地位]]学习者通过智能化自适应中介获得超越优势群体的相对补偿
-> **探讨维度　弱势群体阶层补偿机制** 探讨[[Socioeconomic Status|社会经济地位]]（SES）在智能化教育工具介入时的调节作用及公平意涵。
+> **弱势群体阶层补偿机制** 探讨[[Socioeconomic Status|社会经济地位]]（SES）在智能化教育工具介入时的调节作用及公平意涵。
 
 > [!claim] Cheung & Slavin
 > **循证干预中弱势群体的资源弹性** 在大规模教育实证干预中，缺乏课外补习和家庭[[Cultural Capital\|文化资本]]支持的弱势学生对高质量[[Individualised Instruction\|个性化教学]]干预表现出更高的敏感度与提升空间。[[Argument_Chen_Cheung_2025_ERR\|(Cheung & Slavin, 2013, 2016; 引自 Chen & Cheung, 2025, pp. 6, 18)]]

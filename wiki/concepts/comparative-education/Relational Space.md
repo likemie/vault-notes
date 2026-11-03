@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜空间由行动者网络动态构型而非由领土边界先验规定
-> **探讨维度　网络生产空间** 探讨社会学空间转向如何打破地理容器假设，确立以网络拓扑为基准的空间本体。
+> **网络生产空间** 探讨社会学空间转向如何打破地理容器假设，确立以网络拓扑为基准的空间本体。
 
 > [!claim] [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]]
 > **网络配置对实践空间的动态生成** 空间是由行动者网络持续交织生成的社会效果，有别于等待事物填入的被动空盒。在教育知识传播中，不存在脱离沟通网络的绝对空间；知识也是在跨越不同节点的沟通交互网络中被共同建构，有别于在固定地点生产后再向外扩散。教育空间分析的核心任务从测绘领土地图转向解析行动者网络的配置与[[Assemblage\|组装]]过程。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, pp. 182–184)]]
@@ -139,7 +139,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜全球与国家作为关系性空间共生且被行动者[[Externalization|策略性外在化]]
-> **探讨维度　相互依存与工具性[[Externalization\|外化]]** 揭示全球与国家在本体上的相互嵌合，以及本土行动者在认知上将其人为区隔的政治修辞。
+> **相互依存与工具性[[Externalization\|外化]]** 揭示全球与国家在本体上的相互嵌合，以及本土行动者在认知上将其人为区隔的政治修辞。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **共生依存关系与外部权威的策略性假借** 全球与国家在现实中是高度相互依存、彼此渗透的连续关系性空间，全球治理力量深度内生于国家的政策演变。然而，在主权国家内部面临改革僵局或激烈政治冲突时，政策制定者倾向于在修辞上将全球行动者建构成一种超越国内纷争的“纯粹外部政治力量”，通过工具性外化借用跨国基准与专家意见为既定国内议程寻求无可辩驳的合法性背书。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
@@ -147,7 +147,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Transfer Space|转移空间]]是政策[[Research Translation|知识转译]]与意义重塑的实质性关系[[Champ|场域]]
-> **探讨维度　[[Transfer Space\|转移空间]]中的转译与过滤** 分析[[Policy Borrowing\|政策借用]]在转移空间中所经历的多阶段非对称筛选与本土化变异。
+> **[[Transfer Space\|转移空间]]中的转译与过滤** 分析[[Policy Borrowing\|政策借用]]在转移空间中所经历的多阶段非对称筛选与本土化变异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **转移空间中的两阶段过滤断裂** 跨国[[Policy Mobility\|政策流动]]是发生在充满权力博弈的转移空间之中，有别于单向均质的全球趋同。在转移空间内部，不仅国际组织依据自身利基打包差异化证据，主权国家内部的不同职能部门亦依据政治周期展开非对称过滤：在早期的议程设置阶段，专家咨询网络广泛吸纳跨国中介知识以制造危机动员；在进入行政法令出台的决策阶段，官僚机构则会施加戏剧性的去国际化过滤，仅留下极少数高度契合本土行政控制诉求的外部工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–548)]]
@@ -155,7 +155,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜关系空间作为制度装配与异层权力的运作拓扑，耐用客体在其中构筑隐蔽支配秩序
-> **探讨维度　异层网络与制度装配维度：耐用客体与隐形权力拓扑** 探讨耐用客体如何将[[Policy Network\|政策网络]]转化为具有排他边界的关系空间，使资本与精英在科层监管之外行使超流动权力。
+> **异层网络与制度装配维度：耐用客体与隐形权力拓扑** 探讨耐用客体如何将[[Policy Network\|政策网络]]转化为具有排他边界的关系空间，使资本与精英在科层监管之外行使超流动权力。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
 > **耐用客体、防野狗围栏隐喻与关系空间的排他性装配** 埃玛·罗威（Emma Rowe，结合 Murdoch, 2006 与 Law, 1992 的社会-物质装配理论）指出，关系性空间不仅跨越全球与国家尺度，而且纵向穿透公私制度层级。在澳大利亚教育改革实践中，由[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）与[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）构成的中介网络犹如一道“防野狗围栏”（dingo-proof fence）式的拓扑边界，将公共教育重组为一个高度排他的关系空间。在此空间内，权力不再依靠传统的宪政科层行政，是借由一系列“耐用客体”（durable materials）持续固化和再生：包括使中介机构免受信息公开法案审查的《公司法》担保有限公司登记、联邦国库部特许的《1997年所得税评估法》[[Deductible Gift Recipient\|DGR1]] 免税修正案，以及英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）传授的因果证据工具箱。这些耐用客体使关系空间不仅具有主观流动性，更具备了抵御民主监督的制度刚性，为跨界商业资本在关系网络缝隙中行使隐蔽支配提供了坚固基础。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–531)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 8–11)]]

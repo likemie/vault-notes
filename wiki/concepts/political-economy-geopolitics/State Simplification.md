@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜国家督导机构通过国家简化消解学术[[Pluralism|多元主义]]以维系科层权威
-> **探讨维度　循证政策中的国家简化与学术规训** 探讨国家行政机构在推行[[Output-Oriented Governance|循证治理]]时，如何借助科学研究包装政治意志，通过剪裁知识消解学科内部固有的争议性。
+> **循证政策中的国家简化与学术规训** 探讨国家行政机构在推行[[Output-Oriented Governance|循证治理]]时，如何借助科学研究包装政治意志，通过剪裁知识消解学科内部固有的争议性。
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **国家简化对科学多元主义的制度性排斥** 塞格霍尔姆等指出，[[Swedish Schools Inspectorate|瑞典学校督察局]]在常规督导与质量审计中选择性使用成功学校研究，并编制宣称代表“当前知识现状”的知识综述。这种操作实质上是现代国家简化的生动体现：为了使教育治理顺畅运作，机构必须排除学术界关于[[Effective Teaching|有效教学]]的理论纷争与[[Horizontal Knowledge Structure|弱语法]]冲突，将科研成果包装为单一明确的指导规范，从而使复杂的教育实践转变为便于自上而下监督与追责的客体。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]

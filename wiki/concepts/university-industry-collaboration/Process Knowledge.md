@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜制造外流将诱发工程设计能力与前沿探索问题的不可逆衰减
-> **探讨维度　[[Industrial Commons|产业公地]]（Industrial Commons）与设计-制造反馈循环** 检验将实体制造外包离岸、仅在本土保留高附加值设计与文章研发的政策假设是否有效。
+> **[[Industrial Commons|产业公地]]（Industrial Commons）与设计-制造反馈循环** 检验将实体制造外包离岸、仅在本土保留高附加值设计与文章研发的政策假设是否有效。
 
 > [!claim] Kratsios, M. J.; [[Chris Freeman|Freeman, C.]]
 > **制造集聚地必然在演进中掌控核心设计能力** 技术创新的长期经济回报与战略主导权，在于将原型设计转化为可量化生产、降低制造成本并维持密集供应商网络的后续工艺攻关，有别于实验室产出文章的瞬间。当实体制造外迁后，本土科学家将失去由真实生产难题激发的科研问题来源，本土工程界也将丧失关键工艺经验；长期承接实体制造的区域将在反复迭代中积累深厚的过程知识，并在高端工程设计与设备制造上反向实现超越。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48, 54)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
@@ -110,7 +110,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜在人工智能使假设生成极其廉价的时代，物理实现与过程知识成为创新的硬性瓶颈
-> **探讨维度　比特与原子的不对称性：充沛的认知 vs. 稀缺的手艺** 探讨人工智能普及重塑科研工作流后，科技进步的决定性限速步（Rate-Limiting [[Skills Toward Employment and Productivity|Step]]）向何处转移。
+> **比特与原子的不对称性：充沛的认知 vs. 稀缺的手艺** 探讨人工智能普及重塑科研工作流后，科技进步的决定性限速步（Rate-Limiting [[Skills Toward Employment and Productivity|Step]]）向何处转移。
 
 > [!claim] Kratsios, M. J.
 > **物理世界中的原子不会因为认知算力充沛而自发加速运动** [[Generative Artificial Intelligence|生成式人工智能]]虽能以极低成本自动生成海量分子设计、材料假设与预测模型，但并未消除实验合成、仪器维护、环境公差控制与中试量产的物理硬约束。当“想出点子”变得极其廉价时，能够亲手搭建高精度测试平台、调试精密仪器并排除制造故障的熟练技师与实验工程师，构成了[[National Innovation System|国家创新体系]]中最稀缺、最易被卡脖子的核心资产。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 61)]]
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜过程知识的传承必须依托非传统的资格认证与[[Apprenticeship|学徒制]]教育渠道
-> **探讨维度　[[Engineering Education|工程教育]][[Paradigm|范式]]与劳动力技能重构** 探讨单一学术学位评价如何割裂动手手艺，以及重振技能基底的制度方案。
+> **[[Engineering Education|工程教育]][[Paradigm|范式]]与劳动力技能重构** 探讨单一学术学位评价如何割裂动手手艺，以及重振技能基底的制度方案。
 
 > [!claim] Kratsios, M. J.
 > **破除单一四年制学位垄断并重塑学徒通道** 传统高等教育过分偏向数学理论抽象，忽视车间排障与动手实验；国家必须将过程知识制度化纳入人才培养体系，依托社区学院、国家工匠奖学金、[[Practitioner-in-Residence|驻校实践者项目]]以及允许短期培训使用联邦学生资助的[[Workforce Pell Grants 2025|劳动力佩尔助学金]]，建立产研紧密咬合的技能传承生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]

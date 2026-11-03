@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[PISA]] 效应依托政策工具化重塑[[Pluri-Scalar Governance|多标度教育治理]]空间
-> **探讨维度　跨国软治理与空间重构** 探讨国际大型评估如何通过去立法的技术工具，在超国家与主权国家之间建立连通性，促成跨国教育治理空间的[[Institutional Isomorphism|制度同构]]。
+> **跨国软治理与空间重构** 探讨国际大型评估如何通过去立法的技术工具，在超国家与主权国家之间建立连通性，促成跨国教育治理空间的[[Institutional Isomorphism|制度同构]]。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **[[Governing by Numbers|数目化治理]]构建[[European Education Space|欧洲教育空间]]** 索蒂里亚·格雷克（[[Sotiria Grek]]）对芬兰、德国与英国的比较研究表明，PISA 不仅是一项统计测量，更构成了新型的政策技术装置。在[[EU|欧洲联盟]]层面，由于[[Subsidiarity Principle|辅助性原则]]限制了欧盟在教育事务上的直接立法权，[[European Commission|欧盟委员会]]通过与[[OECD|经合组织]]建立紧密的制度共生关系（分担 80% 的调研经费并高度依赖其指标体系），借助 PISA 效应成功推进了欧洲教育空间的实质整合。数据生产创造了共同的比较语言，使跨国[[Peer Debriefing|同行审议]]与最佳实践对标成为超越主权法律约束的规制力量。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–34)]]
@@ -130,7 +130,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜PISA 效应驱动国家治理从传统输入控制向跨尺度[[Data Infrastructure|数据基础设施]]翻转
-> **探讨维度　治理技术与制度基础设施转型** 探讨外部测评数据如何穿透宪制分权壁垒，驱动主权国家在微观教学与国家标准之间建立基于数据的拓扑监控网络。
+> **治理技术与制度基础设施转型** 探讨外部测评数据如何穿透宪制分权壁垒，驱动主权国家在微观教学与国家标准之间建立基于数据的拓扑监控网络。
 
 > [!claim] [[Argument_Hartong_2018_GSE|Hartong (2018)]]
 > **[[Center of Calculation|计算中心]]与政策[[Topological Spatialisation|拓扑空间化]]** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）对德国长周期教育监测体系的研究揭示，PISA 效应在德国的最深远遗产在于促成了国家教育治理的拓扑学重组。经历 2000 年震荡后，德国各州在 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 框架下联合创办[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB），装配起覆盖全德的学业质量数据基础设施。这套系统在恪守禁止公开学校排名的宪法原则下，通过常模研发与[[Vergleichsarbeiten|校际比较测试]]（VERA），在微观教室与国家标准之间构筑了跨尺度的远距离监控回路，完成了从行政大纲输入控制向实证数据产出监测的历史性转向。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 140–146)]]

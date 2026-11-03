@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （自动化数据提取 / 自动化数据抽取）
@@ -122,7 +122,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜前沿大语言模型在[[Meta-meta-analysis|二阶元分析]]数据提取中的准确性已全面达到人类专家水准
-> **探讨维度　准确性等值与[[Reliability\|可靠性]]评估** 评估大语言模型与人类专家在面对高度复杂的学术[[Meta-analysis\|元分析]]文本时，提取[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]的统计一致度与分布对齐性。
+> **准确性等值与[[Reliability\|可靠性]]评估** 评估大语言模型与人类专家在面对高度复杂的学术[[Meta-analysis\|元分析]]文本时，提取[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]的统计一致度与分布对齐性。
 
 > [!claim] Jansen et al.
 > **模型提取准确度与专家基准无偏对齐** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 对 156 项教育元分析进行实证评测显示，三大前沿模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到了卓越水平（$\text{ICC} = 0.96–0.97$），百分比一致率介于 77%–81%，不仅模型间彼此高度汇合（$\text{ICC} = 0.95–0.97$），且表现完全匹敌甚至超越了单一人类专家的提取精度（$\text{ICC} = 0.81–0.95$），彻底打破了以往将人类单次提取视为无误差真值的传统假设。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–19)]]
@@ -130,7 +130,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜二阶元分析数据提取的技术难点集中于总样本量计算与亚组选择而非事实幻觉
-> **探讨维度　误差结构解构与认知负荷分布** 识别大模型在[[Meta-meta-analysis\|二阶元分析]]特定场景下的典型瓶颈，破除对模型凭空捏造数据的泛化恐慌。
+> **误差结构解构与认知负荷分布** 识别大模型在[[Meta-meta-analysis\|二阶元分析]]特定场景下的典型瓶颈，破除对模型凭空捏造数据的泛化恐慌。
 
 > [!claim] Jansen et al.
 > **误差聚焦于分散数据加总与报告模糊性** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 揭示，在严格提示词约束下，模型的纯事实性幻觉发生率极低（仅 3–4 例，与专家持平）。提取误差的主要诱因在于：① 原始元分析对参与者总数（$N$）的报告往往分散在多个分表或亚组中，需要模型跨表多步累加，易引发计算疏漏；② [[Primary and Secondary Documents\|原始文献]]存在多重合理的总体效应汇报或摘要与正文数值矛盾，导致模型捕获了符合语境的局部亚组效应而非代码簿预期的主效应。（pp. 16–18）

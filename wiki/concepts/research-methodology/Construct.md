@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜跨测验构念等价性判定挑战宏观国际评估的独立性声称
-> **探讨维度　大规模国际评估中的构念重叠维度** 探讨不同测验工具是否在测量同一底层潜[[Variable|变量]]，检视跨国测评声称测量不同素养的理论合法性。
+> **大规模国际评估中的构念重叠维度** 探讨不同测验工具是否在测量同一底层潜[[Variable|变量]]，检视跨国测评声称测量不同素养的理论合法性。
 
 > [!claim] [[Argument_Zhao_2020_JEC|Zhao (2020)]]
 > **国际认知测验在底层构念上实质重叠** 针对大规模跨国学生评估（[[PISA]]、[[TIMSS]]、[[PIRLS]]）的因子分析表明，各测验间跨国相关性极高，均高度载荷于单一强 $g$ 因子。这表明 PISA 声称测量的“面向未来生活的基本技能”与 TIMSS 声称测量的“基于课程的知识”在底层构念上实质等价，所谓独特素养构念的独立性声称缺乏充分的[[Construct Validity|构念效度]]支持。[[Argument_Zhao_2020_JEC|(Zhao, 2020, pp. 248–250)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜二阶[[Research Synthesis|证据综合]]中的构念错配会瓦解因果效应的可[[Commensuration|通约]]性
-> **探讨维度　[[Meta-meta-analysis|二阶元分析]]与证据综合中的构念一致性门禁维度** 检视宏观证据库是否忠实维护了初级研究中干预与结局构念的因果同质性，揭示构念混淆对[[Evidence-Based Policy-Making|循证决策]]效度的破坏。
+> **[[Meta-meta-analysis|二阶元分析]]与证据综合中的构念一致性门禁维度** 检视宏观证据库是否忠实维护了初级研究中干预与结局构念的因果同质性，揭示构念混淆对[[Evidence-Based Policy-Making|循证决策]]效度的破坏。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **构念混淆导致宏观合成[[Effect Size|效应量]]丧失理论所指** 对《[[Visible Learning|可见的学习]]》全库 322 个影响因素开展的[[Preregistration|预注册]][[Metascience|元科学]]审计表明，宏观证据库存在广泛的构念混淆：全库仅 19% 的因素在 [[PICO Framework|PICO]] 四维度上构念清晰，54% 混入了名不副实的干预，近 60% 混入了非学业构念测试或对照组构念错位。这种构念层面的概念漂移使得合并出的宏观平均效应量失去了明确的理论所指，削弱了其作为政策与教学干预依据的[[Reliability|可靠性]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]
@@ -131,7 +131,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜理论构念必须通过多重外显指标的[[Operationalization|操作化]]对齐以保障构念效度
-> **探讨维度　操作化转换与测量构念效度维度** 探讨如何通过多重指标设计确保经验测量真实、完整地映射抽象理论构念。
+> **操作化转换与测量构念效度维度** 探讨如何通过多重指标设计确保经验测量真实、完整地映射抽象理论构念。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
 > **多重指标操作化保障理论构念与测量的统一** 单一指标难以完全覆盖高阶理论构念的丰富内涵。为了保障构念效度（Construct Validity），研究者必须建立操作化链条，通过多维度题项测量与假设检验网络交叉验证外显测量与潜变量之间的对应关系，确保量化变量能够准确反映目标构念的核心属性。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 130)]]

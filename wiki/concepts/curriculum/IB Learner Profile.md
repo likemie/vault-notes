@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -108,14 +108,14 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学习者特征是推动[[Concurrency of Learning|并发学习]]与跨学科理解的核心动力
-> **探讨维度　课程联动与迁移** 探讨宏观的育人目标如何落实为具体的学习行为，以及当一种特质（如反思）被全校推崇时，如何打破学科壁垒，促成连贯的学习体验。
+> **课程联动与迁移** 探讨宏观的育人目标如何落实为具体的学习行为，以及当一种特质（如反思）被全校推崇时，如何打破学科壁垒，促成连贯的学习体验。
 
 > [!claim] Metli, A. & Akış, D.
 > **通过学习者特征促进[[Concurrency of Learning\|并发学习]]** 
 > 将“学习者特征”融入全校范围的推广中，有助于提升[[Concurrency of Learning\|并发学习]]的效果。鼓励师生共同展现这些特质，能加深其对跨学科学习的理解。例如，“探究者”特质能够发展研究技能，鼓励学生去调查不同学科并发现其内在联系；而“反思者”则是并发学习中不可或缺的一环，反思经验能够引导学生发展[[Creativity\|创造性]]与[[Critical Thinking\|批判性思维]]，从而将知识从一个学科迁移到另一个学科，以及在 [[Chinese Academy of Sciences|CAS]] 和 [[Theory of Knowledge\|TOK]] 之间形成反思互文。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]
 
 > [!concept-proposition] 命题二｜探究性课程能有效激活并重塑师生双向的学习者特质
-> **探讨维度　师生双向重塑** 探讨独立的[[Higher-Order Thinking Skills\|高阶思维]]课程（如知识论）如何使纸面上的特征鲜活起来，以及这种教学实践对教师自身理念的反向影响。
+> **师生双向重塑** 探讨独立的[[Higher-Order Thinking Skills\|高阶思维]]课程（如知识论）如何使纸面上的特征鲜活起来，以及这种教学实践对教师自身理念的反向影响。
 
 > [!claim] Bergeron, L. & Rogers, L.
 > **胸襟开阔与教学信念的转变**

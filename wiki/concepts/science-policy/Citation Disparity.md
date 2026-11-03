@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题一｜学术文献影响力呈现出底层大体量沉没与顶层高度垄断的极端层级极化
-> **探讨维度　科学之山分层模型与注意力分配断层** 探讨文献全量堆叠中的被引分层，揭示知识沉没成本与超级名作的罕见性。
+> **科学之山分层模型与注意力分配断层** 探讨文献全量堆叠中的被引分层，揭示知识沉没成本与超级名作的罕见性。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Van Noorden et al. (2014)]]
 > **乞力马扎罗科学之山实证测定** 理查德·范·诺登（Richard Van Noorden）等统计 Web of Science 索引的 5800 万篇全量科技论著，发现山底高达 2,500 米（占总高度 43% 以上）的文献自发表以来从未获得任何引用；而山顶被引突破 1,000 次的成果仅占 1.5 米薄层，突破 10,000 次的传世经典仅占峰顶 1.5 厘米微小截面，具象化确立了学术影响力分布的极端悬殊性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Van Noorden et al., 2014, via Wang & Barabási, 2021, pp. 174–176)]]
@@ -122,7 +122,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题二｜顶尖科学成果所占引文份额跨越百年持续攀升呈现注意力超级极化
-> **探讨维度　历史动态演化与[[Matthew Effect in Academia|学术马太效应]]加剧** 追踪长周期期刊全量引文，检验学术共同体在文献爆炸情境下注意力配置的演变轨迹。
+> **历史动态演化与[[Matthew Effect in Academia|学术马太效应]]加剧** 追踪长周期期刊全量引文，检验学术共同体在文献爆炸情境下注意力配置的演变轨迹。
 
 > [!claim] [[Albert-László Barabási|Barabási, A.-L.]], Song, C., & [[Dashun Wang|Wang, D.]]
 > **百年物理学顶尖引文份额翻番轨迹** 巴拉巴西、宋超明与王大顺调取《物理评论》自 1893 至 2009 年发表的逾 46 万篇全量成果，测定排名前 1% 的顶尖论著在发表次年分得的引文总份额；研究表明该份额从 1900 年代的不足 8% 翻倍攀升至 2000 年代的 20% 以上，与宏观社会财富集中走势高度镜像，反映出学术界在注意力稀缺约束下愈发借助声望与顶刊品牌作为筛选信标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Barabási et al., 2012, via Wang & Barabási, 2021, pp. 180–181)]]
@@ -130,7 +130,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题三｜增长与优先连接构成了引文差距的微观起源，成果内生适应度打破了先发垄断
-> **探讨维度　累积优势动力学与后发反超机制** 探讨引文差距如何在网络演化中内生[[Emergence|涌现]]，以及成果实质价值如何打破纯时间维度的先发[[Determinism|决定论]]。
+> **累积优势动力学与后发反超机制** 探讨引文差距如何在网络演化中内生[[Emergence|涌现]]，以及成果实质价值如何打破纯时间维度的先发[[Determinism|决定论]]。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Price, D. J.]]
 > **富者愈富机制对引文差距的数学解释** [[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Price, 1976）证明，出版物规模的持续增长与基于存量的优先连接（$\Pi_i \propto c_i$）两大构件，足以在宏观上解析推导出肥尾引文差距，解释了引文超级明星的微观起源与先发优势的自我强化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Price, 1976, via Wang & Barabási, 2021, pp. 185–186)]]

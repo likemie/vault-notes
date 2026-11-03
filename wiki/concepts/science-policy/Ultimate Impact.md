@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-01"
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-01
 ---
 
 > [!concept-proposition] 命题一｜学术成果的长程终极价值仅取决于内生适应度并与载文期刊声誉彻底脱钩
-> **探讨维度　引文动力学生命周期与学术评价载体分离** 探讨单篇成果的长远学术影响力究竟由期刊光环还是成果内在质量所支配。
+> **引文动力学生命周期与学术评价载体分离** 探讨单篇成果的长远学术影响力究竟由期刊光环还是成果内在质量所支配。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang et al. (2013)]]
 > **二十年跨刊队列追踪与长程均等趋同** 王大顺等追踪 1992 年发表于《细胞》（Cell, JIF = 33.62）、《美国国家科学院院刊》（PNAS, JIF = 10.48）与《物理评论B》（PRB, JIF = 3.26）上具有相同相对适应度（$\lambda \approx 1$）的一组论著：在发表后前 2–4 年，Cell 成果凭借顶刊光环获引显著领先；但到发表后第 20 年，三份期刊中相同适应度论著的累积引文曲线完全重叠并均趋同于理论均值 $c_\infty \approx 51.5$。这在实证上证明期刊影响因子仅充当短期可见度加速器，成果的长程终极学术影响严格取决于其内在适应度，与发表载体彻底分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 214–217)]]

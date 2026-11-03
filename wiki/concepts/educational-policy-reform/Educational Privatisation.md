@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜教育私有化是新自由主义国家以市场逻辑重塑教育权力的阶级策略
-> **探讨维度　国家权力与阶级再生产维度** 探讨私有化改革如何是新自由主义国家用于卸载公共福利负担、分化劳动阶层并巩固优势阶级利益的结构性政治工具，有别于中立的技术优化。
+> **国家权力与阶级再生产维度** 探讨私有化改革如何是新自由主义国家用于卸载公共福利负担、分化劳动阶层并巩固优势阶级利益的结构性政治工具，有别于中立的技术优化。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.; [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **市场机制作为阶级策略** 斯蒂芬·鲍尔指出，在教育政策中以市场逻辑取代国家的公共保障职能，实质上是新自由主义国家的一项阶级策略。市场化将教育塑造为可购买的商品，使得拥有丰富[[Cultural Capital|文化资本]]与经济资本的中产阶级能够通过选择权机制稳固排他性优势，同时将底层阶级锁定在资源匮乏的边缘学校。奥尔莫斯与托雷斯进一步论证，私有化通过使用者自费与[[Educational Decentralization|教育分权]]，重构了中央与地方的权力分配，将教育系统分裂为服务精英的优质民办体系与低质劣质的公立救济体系。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993, cited in Olmos & Torres, 2009, p. 83)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -144,7 +144,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Conditioned State Theory|受限国家]]在外债危机与国际金融制约下被迫推行依附型私有化
-> **探讨维度　[[Dependency Theory|依附理论]]与发展中国家主权受制维度** 揭示外围国家如何在债务危机与跨国资本制约下，将教育私有化作为满足国际[[Policy Conditionalities|贷款附加条件]]的制度妥协。
+> **[[Dependency Theory|依附理论]]与发展中国家主权受制维度** 揭示外围国家如何在债务危机与跨国资本制约下，将教育私有化作为满足国际[[Policy Conditionalities|贷款附加条件]]的制度妥协。
 
 > [!claim] Olmos, L. E. & Torres, C. A.; [[Robert Arnove|Arnove, R.]] F.
 > **结构调整与教育公共性剥夺** 在拉丁美洲等外围[[Conditioned State Theory|受限国家]]，1980 年代债务危机爆发后，以[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]（IMF）为首的跨国金融机构推行[[Structural Adjustment Programs|结构调整方案]]（[[Statistical Analysis Plan|SAP]]），将推行使用者收费、削减公共教育支出与推行分权私有化作为发放紧急贷款的刚性前置条件。这种依附型私有化剥夺了发展中国家制定独立教育政策的自主权，导致公立教育基础设施大面积破败，极度恶化了贫困人口的基本受教育权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–84)]]
@@ -152,7 +152,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜内生企业化规训与外生契约外包相互支撑构成自洽的制度回路
-> **探讨维度　双轨演化与治理网络维度** 探讨公立系统内部的企业化改造如何为外部商业资本的进入提供标准化对接端口。
+> **双轨演化与治理网络维度** 探讨公立系统内部的企业化改造如何为外部商业资本的进入提供标准化对接端口。
 
 > [!claim] Ball, S. J. & Youdell, D.; O'Neill, J. et al.
 > **内外双轨的协同共生** 鲍尔与尤德尔指出，[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]是相互强化的共生网络，有别于割裂的独立过程。外生私有化（如向私营机构购买标准化测验与师训项目）制造了对内部量化绩效控制的技术需求；而内部推行的[[New Public Management|新公共管理]]指标考核则为外部私营承包商提供了精确的合同结算界面与利润实现渠道。[[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者进一步证实，二者交织使得私营资本从单纯的服务承包升级为国家立法议程的制定者。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–5)]]
@@ -160,7 +160,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜跨国流动与国际化收入加速公立大学不可逆的永久性内生私有化
-> **探讨维度　[[Internationalization of Higher Education|高等教育国际化]]与财政依赖维度** 探讨全球学生跨国流动如何成为独立于国内政策的外部推力，迫使公立高等教育永久性依附于商业企业逻辑。
+> **[[Internationalization of Higher Education|高等教育国际化]]与财政依赖维度** 探讨全球学生跨国流动如何成为独立于国内政策的外部推力，迫使公立高等教育永久性依附于商业企业逻辑。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]]
 > **留学生市场与大学永久企业化** 法扎尔·里兹维（Fazal Rizvi）论证指出，西方公立大学对亚洲全额自费国际留学生学费的成功吸纳，反向促使本国政府大幅缩减公共经常性拨款。公共资金的撤退倒逼大学全面采用新公共管理技术、全球排名竞争与商业品牌营销；而这种企业化运作又反过来强化了对国际学生市场收入的深度依赖，使内生私有化转变为公立高等教育不可逆转的永久性特征。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]

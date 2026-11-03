@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜理论与实践的脱节本质上是[[Knowledge Production|知识生产]]方式问题而非单纯的信息传播失效
-> **探讨维度　[[Knowledge Production\|知识生产]]方式的[[Epistemology\|认识论]]归因** 探讨理论为何难以指导实践，批判将脱节单纯归咎于传播技术或实践者能力赤字的线性偏见。
+> **[[Knowledge Production\|知识生产]]方式的[[Epistemology\|认识论]]归因** 探讨理论为何难以指导实践，批判将脱节单纯归咎于传播技术或实践者能力赤字的线性偏见。
 
 > [!claim] Van de Ven and Johnson (2006) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
 > **知识生产决定理论距离** 知识在何处生产、如何生产以及由谁生产，决定了理论与现场的距离。传统大学体制假定学者独立在实验室或书斋中生产“科学真理”，再由外部渠道推销给一线学校，这种生产方式从起点就剥离了复杂的组织情境与人际动态。唯有将研究前沿迁移至学校与政策现场，让实践者作为共同主体参与知识的孕育与打磨，才能从源头上消除理论与实践的隔绝。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19, 21–22)]]
@@ -128,7 +128,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜现行学院派期刊评价体系与参与式学术所需的时间和信任投入存在深层制度性冲突
-> **探讨维度　学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压** 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
+> **学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压** 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
 
 > [!claim] Cherney et al. (2012) / Burkhardt and Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
 > **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高影响因子学术期刊上的文章发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]

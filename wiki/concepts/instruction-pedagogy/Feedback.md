@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Feedback
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜教学反馈具有高度情境依赖性与心理敏感性，平均[[Effect Size|效应量]]掩盖了负向抑制效应与注意转向风险
-> **探讨维度　效应分布与情境[[Heterogeneity|异质性]]** 剖析反馈实证研究的真实效应分布，揭示将反馈视作普遍高效干预的统计学盲点。
+> **效应分布与情境[[Heterogeneity|异质性]]** 剖析反馈实证研究的真实效应分布，揭示将反馈视作普遍高效干预的统计学盲点。
 
 > [!claim] Kluger & DeNisi; [[Dylan Wiliam|Wiliam, D.]]
 > **38% 负效应分布与注意力层级转移机制** 克鲁格与德尼西（Kluger & DeNisi, 1996）对 131 项严格实验开展系统[[Meta-analysis|元分析]]表明，尽管反馈干预（FI）总体平均效应为正（$d = 0.38$），但其中高达 38% 的研究产生了负向抑制效应。威廉（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 11]]）据此指出，在超过三分之一的课堂情境中，提供不当反馈反而不如不给反馈。根据[[Feedback Intervention Theory|反馈干预理论]]（FIT），反馈有效性取决于个体的注意力分配：当反馈引导注意力聚焦于任务细节与[[Learning Strategies|学习策略]]时，促进[[Academic Achievement|学业表现]]；当反馈引发自我防卫、焦虑或人际比较时，注意力从任务转向自我，直接损害认知表现（Shute, 2008; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 11–12]]）。
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜将反馈还原为[[Behaviorism|行为主义]]刺激—纠错回路消解了学习者[[Intentionality|意向性]]与主体间承认
-> **探讨维度　[[Epistemology|认识论]]前设与交往异化批判** 从批判哲学与解释学视界反思[[Technical Rationality|技术理性]][[Paradigm|范式]]对教育关系的工具化降格。
+> **[[Epistemology|认识论]]前设与交往异化批判** 从批判哲学与解释学视界反思[[Technical Rationality|技术理性]][[Paradigm|范式]]对教育关系的工具化降格。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] & Klitmøller, J.; Honneth, A.
 > **技术理性控制回路对[[Intentionality|主体意向性]]的消解** 尼尔森等（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）指出，[[John Hattie|哈蒂]]对反馈的界定承袭了[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]（Skinner-Glaser）的[[Behaviorism|行为主义]]谱系，将反馈窄化为修正偏差的外部刺激回路，服务于工程学式的输入—输出控制。这种模式将能动学习者降格为被动响应的技术[[Problem Solving|问题解决]]器，忽略了个体寻求生命意义与社会认同的意向性（intentionality）。[[Axel Honneth|霍耐特]]（Honneth, 1996）的[[Recognition Theory|承认理论]]表明，对个体自主性与意向性的社会承认是人类健全发展的心理基石；若教学评估系统将师生对话矮化为单向纠错代码，便构成了对主体承认的系统性剥夺，导致教学实践的社会异化（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 13–15]]）。
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜宏观二阶综合通过异质拼贴与吸纳低质研究合成了虚假的超级效应量
-> **探讨维度　元分析[[Construct Validity|构念效度]]与方法学批判** 审查宏观循证体系中反馈超级指标的底层数据链，揭示[[Construct|构念]]错位与二次拼贴的失真机制。
+> **元分析[[Construct Validity|构念效度]]与方法学批判** 审查宏观循证体系中反馈超级指标的底层数据链，揭示[[Construct|构念]]错位与二次拼贴的失真机制。
 
 > [!claim] Nielsen, K. & Klitmøller, J.; Kalmendal et al.
 > **支撑反馈效应 92% 样本的构念名实不符** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）细读支撑哈蒂反馈超级效应（$d = 0.73$）中权重占比达 92.4%（$N = 62,761$）的五大核心元分析发现，有四项根本未测量真正的教学反馈：将课堂奖励强化（Lysakowski and Walberg, 1980）、前置教学线索（Lysakowski and Walberg, 1982）、教师身体亲和力（Witt et al., 2004）以及测验诊断辅助（Swanson and Lussier, 2001）机械混合为一体；唯一契合界定的 Kluger and DeNisi (1996) [[Effect Size|效应量]]仅为 $0.38$。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）的独立复现审计进一步证实全库数据链高度受损，所谓“普遍高效”实为异质拼贴建构的统计假象。
@@ -206,14 +206,14 @@ updated: 2026-11-02
 > > [!metax-ma]- 10 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Jeong-Hwa & Byung-gee (2019) | Feedback | 180 | NA | 1,393 | 0.59 |  |
-> > | Yeany & Miller (1983) | Diagnostic feedback in college science | 49 | NA | 49 | 0.52 |  |
-> > | Kluger & DeNisi (1996) | Feedback | 470 | 12,652 | 470 | 0.38 |  |
+> > | Jeong-Hwa and Byung-gee (2019) | Feedback | 180 | NA | 1,393 | 0.59 |  |
+> > | Yeany and Miller (1983) | Diagnostic feedback in college science | 49 | NA | 49 | 0.52 |  |
+> > | Kluger and DeNisi (1996) | Feedback | 470 | 12,652 | 470 | 0.38 |  |
 > > | Neubert (1998) | Goals plus feedback | 16 | 744 | 16 | 0.63 |  |
 > > | Hatala et al. (2014) | Feedback for simulation skills | 31 | 653 | 31 | 0.74 |  |
 > > | Biber et al. (2011) | Feedback in ESL Writing and Reading | 25 | NA | 88 | 0.87 |  |
-> > | Thirakunkovit & Chamcharatsri (2019) | Teacher feedback | 27 | NA | 52 | 0.90 |  |
-> > | Lee & Bak (2018) | Feedback | 180 | NA | 991 | 0.59 |  |
+> > | Thirakunkovit and Chamcharatsri (2019) | Teacher feedback | 27 | NA | 52 | 0.90 |  |
+> > | Lee and Bak (2018) | Feedback | 180 | NA | 991 | 0.59 |  |
 > > | Mertens et al. (2022) | Computer presented feedback | 77 | NA | 163 | 0.40 |  |
 > > | Gui et al. (2022) | Feedback in rich technology contexts | 61 | NA | 180 | 0.44 |  |
 
@@ -241,11 +241,11 @@ updated: 2026-11-02
 > > [!metax-ma]- 6 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Tenenbaum & Goldring (1989) | Cues, and reinforcement | 15 | 522 | 15 | 0.72 |  |
-> > | Lysakowski & Walberg (1982) | Cues, participation and corrective feedback | 54 | 15,689 | 94 | 0.97 |  |
-> > | Lysakowski & Walberg (1980) | Classroom reinforcement | 39 | 4,842 | 102 | 1.17 |  |
+> > | Tenenbaum and Goldring (1989) | Cues, and reinforcement | 15 | 522 | 15 | 0.72 |  |
+> > | Lysakowski and Walberg (1982) | Cues, participation and corrective feedback | 54 | 15,689 | 94 | 0.97 |  |
+> > | Lysakowski and Walberg (1980) | Classroom reinforcement | 39 | 4,842 | 102 | 1.17 |  |
 > > | Schenck (2022) | Corrective feedback on learning | 15 | NA | 15 | 1.28 |  |
-> > | Lim & Renandya (2020) | Corrective feedback on writing | 35 | NA | 35 | 0.59 |  |
+> > | Lim and Renandya (2020) | Corrective feedback on writing | 35 | NA | 35 | 0.59 |  |
 > > | Gramling (2016) | Corrective feedback on learning | 6 | 494 | 6 | 0.47 |  |
 
 > [!metax] [反馈（学生评教） · Feedback (from student re quality)](https://www.visiblelearningmetax.com/influences/view/feedback_(from_student_re_quality))
@@ -262,12 +262,12 @@ updated: 2026-11-02
 > > | Cohen (1981) | Student rating of teacher | 19 | NA | 19 | 0.68 |  |
 > > | Cohen (1981) | Student rating of teacher | 41 | NA | 68 | 0.48 |  |
 > > | L'Hommedieu et al. (1990) | Feedback from college student ratings | 28 | 1,698 | 28 | 0.34 |  |
-> > | Dowell & Neal (1982) | Student rating of teacher | 6 | NA | 6 | 0.40 |  |
+> > | Dowell and Neal (1982) | Student rating of teacher | 6 | NA | 6 | 0.40 |  |
 > > | Clayson (2009) | Student rating of teacher | 17 | NA | 42 | 0.66 |  |
 > > | Uttl et al. (2017) | Student rating of learning | 51 | NA | 97 | 0.47 |  |
-> > | Menges & Brinko (1986) | Student evaluation as feedback | 27 | NA | 31 | 0.44 |  |
+> > | Menges and Brinko (1986) | Student evaluation as feedback | 27 | NA | 31 | 0.44 |  |
 > > | Cohen (1986) | Student rating of teacher | 47 | NA | 74 | 0.44 |  |
-> > | Penny & Coe (2004) | Consultation after student feedback | 11 | NA | 11 | 0.69 |  |
+> > | Penny and Coe (2004) | Consultation after student feedback | 11 | NA | 11 | 0.69 |  |
 > > | McCallum (1984) | Teacher rating and achievement | 14 | NA | 14 | 0.68 |  |
 
 > [!metax] [反馈（来自测验） · Feedback (from Tests)](https://www.visiblelearningmetax.com/influences/view/feedback_(from_tests))
@@ -282,7 +282,7 @@ updated: 2026-11-02
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Schimmel (1983) | Feedback from tests | 15 | NA | 15 | 0.47 |  |
 > > | Bangert-Drowns, Kulik, Kulik, et al. (1991) | Feedback from tests | 40 | 4,666 | 58 | 0.26 |  |
-> > | Travlos & Pratt (1995) | Knowledge of results | 17 | NA | 17 | 0.71 |  |
+> > | Travlos and Pratt (1995) | Knowledge of results | 17 | NA | 17 | 0.71 |  |
 
 > [!metax] [反馈（自我层面） · Feedback (Self)](https://www.visiblelearningmetax.com/influences/view/feedback_(self))
 > 教学策略 › 反馈
@@ -308,11 +308,11 @@ updated: 2026-11-02
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Miller (2003) | Corrective feedback on learning | 8 | NA | 8 | 1.08 |  |
-> > | Kang & Han (2015) | Corrective feedback on learning | 22 | NA | 22 | 0.68 |  |
-> > | Lyster & Saito (2010) | Oral feedback on learning | 15 | NA | 28 | 0.74 |  |
+> > | Kang and Han (2015) | Corrective feedback on learning | 22 | NA | 22 | 0.68 |  |
+> > | Lyster and Saito (2010) | Oral feedback on learning | 15 | NA | 28 | 0.74 |  |
 > > | Li (2010) | Corrective feedback on learning | 33 | 1,773 | 28 | 0.64 |  |
 > > | Truscott (2007) | Error correction on writing | 6 | 283 | 20 | 0.15 |  |
-> > | Russell & Spada (2006) | Error correction on writing | 15 | NA | 15 | 1.16 |  |
+> > | Russell and Spada (2006) | Error correction on writing | 15 | NA | 15 | 1.16 |  |
 > > | Lv et al. (2021) | Online feedback on learning | 17 | 1,568 | 17 | 0.75 |  |
 > > | Kao (2013) | Focused feedback | 7 | NA | 7 | 0.70 |  |
 > > | Swart et al. (2022) | Feedback targeting comprehension | 8 | NA | 8 | 0.61 |  |
@@ -329,7 +329,7 @@ updated: 2026-11-02
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | van der Kleij et al. (2015) | Feedback in ICT | 40 | 4,266 | 70 | 0.42 |  |
-> > | Azevedo & Bernard (1995) | Computer presented feedback | 22 | NA | 22 | 0.80 |  |
+> > | Azevedo and Bernard (1995) | Computer presented feedback | 22 | NA | 22 | 0.80 |  |
 > > | Moshen (2022) | Computer mediated feedback | 14 | 1,220 | 14 | 1.21 |  |
 > > | Mohamed (2022) | Feedback re computer in language learning | 26 | 1,283 | 26 | 0.56 |  |
 
@@ -343,7 +343,7 @@ updated: 2026-11-02
 > > [!metax-ma]- 1 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Kulik & Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
+> > | Kulik and Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
 
 > [!eef-divider]
 

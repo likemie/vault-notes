@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Tracking
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学力分轨加剧社会阶层隔离并显著抑制教育公平与[[Student Motivation|学生学习动机]]
-> **探讨维度　宏观制度层面的层化代价与公平侵蚀** 探讨国家中等教育体系的分层分轨程度如何系统性放大社会背景差距，并对青少年的内在学习动机产生负向挫伤。
+> **宏观制度层面的层化代价与公平侵蚀** 探讨国家中等教育体系的分层分轨程度如何系统性放大社会背景差距，并对青少年的内在学习动机产生负向挫伤。
 
 > [!claim] [[OECD]]; Grey & Morris
 > **宏观层化对公平与动机的双重抑制** 基于 [[PISA]] 全球数据库的跨国回归与实证分析证实，中等教育体制的分轨与[[Grade Retention\|留级]]等层化手段，对教育系统的公平性构成直接破坏；过早进行学力选拔与分轨的国家，其[[Socioeconomic Status|家庭社会经济背景]]对学生[[Academic Achievement\|学业成就]]的解释力显著更高，且处于高度分层系统中的学生，其普遍的学习效能感与[[Academic Engagement\|学业投入]]动机均显著弱于全纳性[[Comprehensive Education|综合教育]]系统中的同龄人。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 114)]]
@@ -135,7 +135,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜实体论智力信念驱动的分轨实践通过适应逻辑触发自我实现的失败预言
-> **探讨维度　微观组织与文化心理维度的认知锁定机制** 探讨教育者内化的智力固定假设如何将学校课程重组为适应性轨道，迫使低轨学生经历个人降级并主动放弃努力。
+> **微观组织与文化心理维度的认知锁定机制** 探讨教育者内化的智力固定假设如何将学校课程重组为适应性轨道，迫使低轨学生经历个人降级并主动放弃努力。
 
 > [!claim] Oakes & Guiton; Li
 > **适应逻辑与自我贬抑预言的制度生产** 在西方固定自我观与天赋论假设支配下，学校将分轨的目的定位于被动适应学生已显现的特征，而非改变和发展其认知潜能。被归入低轨的学生直接吸收了能力固化信念，认为低轨身份证明自己缺乏智识才能、努力亦属徒劳，从而产生深刻的个人降级（Personal Downgrading）并撤回学业努力；教师的低期望与学生的低投入相互强化，使分轨成为自我实现的失败预言。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99)]]
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜推迟分轨与推行综合中学化改革能够有效阻断家庭劣势向学业差距的代际传导
-> **探讨维度　去分轨政策治理对系统效能与社会平等的修复机制** 探讨主权国家如何通过结构性制度重组破除早期分轨，实现学业质量与社会公平的协同共赢。
+> **去分轨政策治理对系统效能与社会平等的修复机制** 探讨主权国家如何通过结构性制度重组破除早期分轨，实现学业质量与社会公平的协同共赢。
 
 > [!claim] OECD; Grey & Morris
 > **去分轨与综合中学体制的均等化效能** 经合组织的长期追踪评估显示，推行全系统去分轨（Destratification）与综合中学化改革（如波兰推迟初中分流建立统一年轻人体制、德国缩减早期分轨）能够同时化解多重不平等根源，包括社会经济贫困、移民融入困境与复杂家庭结构劣势，从而在不损害卓越的前提下极大提升整体体系的教育公平度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 114)]]
@@ -151,7 +151,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜因果评估中能力分组的学校抵制与准实验转向
-> **探讨维度　宏观组织决策在[[Causality\|因果推断]]中的生态刚性与方法妥协** 探讨能力分组政策如何因触及学校文化与教师核心利益而引发对[[Random Assignment\|随机分配]]的系统性抵制，倒逼循证因果评估从单纯 [[Randomised Controlled Trials\|RCT]] 转向利用自然变异的[[Quasi-Experimental Designs\|准实验设计]]（QEDs）。
+> **宏观组织决策在[[Causality\|因果推断]]中的生态刚性与方法妥协** 探讨能力分组政策如何因触及学校文化与教师核心利益而引发对[[Random Assignment\|随机分配]]的系统性抵制，倒逼循证因果评估从单纯 [[Randomised Controlled Trials\|RCT]] 转向利用自然变异的[[Quasi-Experimental Designs\|准实验设计]]（QEDs）。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 55–56)]]
 > **能力分流决策刚性与自然变异准实验转向** 混合能力分组与基于能力的分轨分流（setting and streaming）属于学校深层的内生组织决策。[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助开展的“混合能力分组 vs 能力分组分流”大规模随机对照试验（Randomised Controlled Trials, RCT）因学校坚决拒绝被随机分配教学组织形态而遭遇彻底的招募失败（Roy et al., 2014）。这一实证挫败推翻了将所有政策问题均诉诸 RCT 验证的教条，促使 EEF 于 2019 年设立“研究[[School Choice\|学校选择]]（[[Researching School Choices]]）”专门资助序列，转向利用现实教育生态中客观存在的自然变异（natural variation），采用准[[Experimental Research|实验设计]]（Quasi-Experimental Designs, QEDs）评估能力分组政策对学生学业产出与弱势群体的真实因果影响。

@@ -89,7 +89,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -148,7 +148,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[PISA]] 国际比较测试是 GERM 跨国扩散的核心制度载体
-> **探讨维度　超国家软治理与制度载体** 探讨超国家测试工具如何在不具备法律强制约束力的条件下，驱动主权国家主动采纳 GERM 的标准化与问责框架。
+> **超国家软治理与制度载体** 探讨超国家测试工具如何在不具备法律强制约束力的条件下，驱动主权国家主动采纳 GERM 的标准化与问责框架。
 
 > [!claim] [[Argument_Li_2025_HSSC|Li et al. (2025)]]
 > **[[PISA]] 的三层跨国扩散机制** [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇实证[[Document|文献]]的[[Systematic Review|系统综述]]中揭示，[[PISA]] 通过新自由主义价值的全球渗透，使 GERM 的五大核心支柱获得了制度基础设施：在宏观决策层面，PISA 推动各国接受问责制与市场竞争逻辑；在中观决策层面，推动各国建立对接 PISA 的全国性监测体系（如瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；在微观决策层面，迫使国家调整课程目标与教学规程，形成以测试为纲的均质化治理。
@@ -159,7 +159,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜GERM 依托标准化指标与循证[[Discourse|话语]]建构多层级技术官僚治理机制
-> **探讨维度　循证科学与技术官僚规训** 探讨[[Scientism|科学主义]][[Discourse|话语]]如何将育人实践转化为可测量、可审计与可问责的行政指标。
+> **循证科学与技术官僚规训** 探讨[[Scientism|科学主义]][[Discourse|话语]]如何将育人实践转化为可测量、可审计与可问责的行政指标。
 
 > [!claim] Sahlberg (2012)
 > **教学专业的工业泰勒制降格** Sahlberg (2012) 指出 GERM 通过将工业质量管理原则强加于教育，使学校丧失了探索复杂教学的生态空间；教师从具备自主裁量权的专业人员，退化为严格依从外部考核标准的生产线操作员，导致系统性教学窄化与防卫性应试教学。
@@ -170,7 +170,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜GERM 借助[[Class Size|班级规模]]无效论为财政紧缩与公共服务私有化提供[[Social Science as Legitimation Alibi|合法化借口]]
-> **探讨维度　政治经济学动因与财政卸责** 探讨 GERM 如何通过制造数字霸凌为政府财政紧缩提供实证掩护，并通过公共危机推动私有化资本进驻。
+> **政治经济学动因与财政卸责** 探讨 GERM 如何通过制造数字霸凌为政府财政紧缩提供实证掩护，并通过公共危机推动私有化资本进驻。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **饥饿—危机—私有化治理循环** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]揭示新自由主义改革者惯常采用制造财政饥饿的手法：削减公共拨款并同步提高测验问责要求，使公立学校陷入混乱与服务质量下滑；随后以拯救危机为借口，将责任推卸给基层教师的教学技能不足，借机引入特许经营、商业培训与咨询外包等私有化方案，促使国家从公共教育的财政托底职责中全面抽身（pp. 30–31）。
@@ -181,7 +181,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜GERM 政策工具包的跨国落地受制于本土行政体制的中介调节与路径分化
-> **探讨维度　本土行政体制对全球[[Convergence Theory in Comparative Education|趋同论]]的中介调节** 探讨 GERM 倡导的同质化政策工具包在遭遇主权国家既有历史制度土壤时的过滤、转化与非均质演进机制。
+> **本土行政体制对全球[[Convergence Theory in Comparative Education|趋同论]]的中介调节** 探讨 GERM 倡导的同质化政策工具包在遭遇主权国家既有历史制度土壤时的过滤、转化与非均质演进机制。
 
 > [!claim] Verger, A. et al.
 > **全球趋同假说的实证破产与行政体制中介调节模型** 安东尼·维格（Antoni Verger）等基于全球 158 篇实证文献的系统综述表明，GERM 主张的全球同质化趋同假说在面对本土历史制度土壤时发生断裂。虽然 GERM 推动了标准、统考与问责工具在全球范围的广泛采纳，但其治理轨迹深度受制于既有政体行政传统的中介调节：[[New Public Management|新公共管理]]体制强化了[[School Choice|择校]]与惩戒叠加，[[Neo-Weberian State|新韦伯主义]]体制主动叫停了声誉排位，拿破仑体制则陷入常任文官与工会抵制的长期拉锯。这表明国家治理多样性持续存在，GERM 工具包通过[[Institutional Layering|制度分层]]被本土行政机器差异化吸纳与重构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249–255)]]

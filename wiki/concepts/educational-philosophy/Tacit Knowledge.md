@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜编码知识的技术廉价化导致默会知识与持续学习能力成为核心经济资本
-> **探讨维度　[[Knowledge-Based Economy|知识经济]]下的相对价值反转** 探讨为什么在信息技术高度发达、知识搜索唾手可得的后工业时代，教育体系反而降低了对事实记忆的要求，转而全面押注于以默会能力为导向的终身素养。
+> **[[Knowledge-Based Economy|知识经济]]下的相对价值反转** 探讨为什么在信息技术高度发达、知识搜索唾手可得的后工业时代，教育体系反而降低了对事实记忆的要求，转而全面押注于以默会能力为导向的终身素养。
 
 > [!claim] Foray & Lundvall
 > **学习型经济的相对稀缺转移** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]指出，数字化革命将编码知识推向无限丰裕，导致[[Rote Learning|死记硬背]]的事实性知识在劳动力市场迅速贬值；相反，那些支撑个体快速吸收新信息、在不确定情境中做出权衡决断以及协同创新的默会技能，成为了无法被机器替代的唯一核心生产力要素。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜默会知识的获得依赖深度的具身实践而非符号化单向灌输
-> **探讨维度　学习方式的实践转向** 探讨默会知识独特的认知获取规律如何颠覆传统赫尔巴特式的“讲台授课”模式。
+> **学习方式的实践转向** 探讨默会知识独特的认知获取规律如何颠覆传统赫尔巴特式的“讲台授课”模式。
 
 > [!claim] Polanyi, M.
 > **意会维度的实践优先性** 迈克尔·波兰尼（Polanyi, 1966）深刻揭示，无论是外科医生的触诊诊断、艺术家的运笔手感，还是自然科学家的科学直觉，本质上都依赖行动者在长期的试错、观察与模仿中内化的综合感知框架；这种知识绝不可能通过阅读操作规程单向灌输获得，必须通过全身心卷入的具身活动才能实现传递。
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Positivism|实证主义]]证据等级制排斥情境化实践默会知识并诱发[[Epistemic Injustice|认识论不公]]正
-> **探讨维度　[[Output-Oriented Governance|循证治理]]中的认识论排斥与正义诉求** 超国家[[Evidence-Based Policy-Making|循证决策]]体系将因果识别与量化实验树立为最高准绳，割裂了深植于本土与教育一线的默会经验。
+> **[[Output-Oriented Governance|循证治理]]中的认识论排斥与正义诉求** 超国家[[Evidence-Based Policy-Making|循证决策]]体系将因果识别与量化实验树立为最高准绳，割裂了深植于本土与教育一线的默会经验。
 
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
 > **证据等级制对实践默会知识的边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、[[World Bank|世界银行]]与[[UNESCO|教科文组织]]证据政策的批判分析指出，超国家机构标榜的客观中立证据体系，推行了以量化因果评估为首要准绳的认识等级，将严谨性狭隘等同于[[Experimental Research|实验研究]]与[[Meta-analysis|元分析]][[Effect Size|效应量]]。这一[[Technical Rationality|技术理性]]体系排斥了深嵌于具体历史与文化情境中的[[Qualitative Research|质性研究]]、实践默会知识与本土传统，将一线教师与本土社区的默会经验贬低为缺乏科学效度的非正规经验。研究者与决策团队之间的沟通断层根源在于全球知识供给与本土现实需求之间的认识论鸿沟，推进包容性证据生态必须倡导认识论正义，赋予教师[[Phronesis|实践智慧]]与社区默会知识合法地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]

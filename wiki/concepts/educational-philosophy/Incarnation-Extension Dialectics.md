@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学习是身心综合的具身融入过程，超越单纯符号表征的心智计算
-> **探讨维度　具身存在、[[Tacit Knowledge|默会知识]]与心身综合** 探讨学习的[[Ontology|本体论]]定位，批判将认知抽离于生命机体的符号主义模型。
+> **具身存在、[[Tacit Knowledge|默会知识]]与心身综合** 探讨学习的[[Ontology|本体论]]定位，批判将认知抽离于生命机体的符号主义模型。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; Fuchs (2018)
 > **具身融合对信息计算模式的超越** 拉森与福克斯论证指出：
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜深度具身化驱动在世存在的向外延展并拓展主体的行动自由
-> **探讨维度　视界延展、自由生成与在世存在** 探讨内在具身融入如何转化为外在行动潜能，彰显教育赋予生命的自由维度。
+> **视界延展、自由生成与在世存在** 探讨内在具身融入如何转化为外在行动潜能，彰显教育赋予生命的自由维度。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; Sheets-Johnstone (2015)
 > **从具身根基向行动自由的辩证生成** 玛克辛·希茨-约翰斯通（Maxine Sheets-Johnstone）与拉森指出：
@@ -160,7 +160,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜具身-延展辩证法揭示了可见学习将教育扁平化为可测数据的技术异化
-> **探讨维度　可见性拜物教、[[Panopticism|全景敞视]]与生存论批判** 运用具身-延展辩证法剖析数据驱动型实证教学论的盲区。
+> **可见性拜物教、[[Panopticism|全景敞视]]与生存论批判** 运用具身-延展辩证法剖析数据驱动型实证教学论的盲区。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
 > **对“可见学习”透明性假定的[[Phenomenology|现象学]]批判** 拉森深刻指出：
@@ -170,7 +170,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜具身-延展运动从侧翼复兴全人教化（[[Bildung]]）传统并重塑教育学主体
-> **探讨维度　教化复兴、语义更新与教育学主体性** 探讨如何通过身体现象学重构当代教育哲学[[Discourse|话语]]，抵御“[[Learnification|学习化]]”的语义枯竭。
+> **教化复兴、语义更新与教育学主体性** 探讨如何通过身体现象学重构当代教育哲学[[Discourse|话语]]，抵御“[[Learnification|学习化]]”的语义枯竭。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; Klafki (1998)
 > **以具身哲学重构教化理念** 拉森明确声明：

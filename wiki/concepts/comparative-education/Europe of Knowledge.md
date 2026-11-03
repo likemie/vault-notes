@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜知识欧洲[[Discourse|话语]]将教育建构为从属于全球经济竞争与资本积累的工具性载体
-> **探讨维度　经济工具主义与知识商品化** 探讨超国家政策[[Discourse|话语]]如何借助全球化与信息技术震荡的危机叙事，将教育从公共福祉领域改造为从属于市场效率与经济[[Competitiveness|竞争力]]的生产要素。
+> **经济工具主义与知识商品化** 探讨超国家政策[[Discourse|话语]]如何借助全球化与信息技术震荡的危机叙事，将教育从公共福祉领域改造为从属于市场效率与经济[[Competitiveness|竞争力]]的生产要素。
 
 > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
 > **危机修辞驱动的市场化话语建构** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，[[European Commission|欧盟委员会]]在 20 世纪 90 年代相继发布的《[[Growth, Competitiveness, Employment|增长、竞争力、就业]]》（1993）与《[[Teaching and Learning - Towards the Learning Society|教与学：迈向学习型社会]]》（1995）白皮书，正式奠定了知识欧洲的市场导向话语。该话语将全球化、信息社会与技术科学（techno-science）预设为不可逆转的外部巨变，以此倒逼欧洲重塑教育结构；教育被直接界定为决定就业与社会凝聚的无形投资，个体在社会中的地位也被简化为其掌握工具性知识的能力。该话语深度吸纳[[OECD|经合组织]]、[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的新自由主义信条，倡导削减公共教育开支、推行受教育者共同出资以及按可测量绩效拨款，从而将知识矮化为可消费、可折旧与可替换的商业产品。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
@@ -113,7 +113,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜知识欧洲通过软法协调与指标监控构筑超国家教育[[Panopticism|全景敞视]]治理架构
-> **探讨维度　软法规训与全景监视机制** 考察[[EU|欧盟]]如何在缺乏强制性立法权威的宪制约束下，依托技术官僚精英与数字监控技术建立对成员国教育主权的隐性规训。
+> **软法规训与全景监视机制** 考察[[EU|欧盟]]如何在缺乏强制性立法权威的宪制约束下，依托技术官僚精英与数字监控技术建立对成员国教育主权的隐性规训。
 
 > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
 > **[[Technologies of Surveillance|规训监视技术]]与欧洲教育[[Panopticism|全景敞视]]的建立** 帕西亚斯与鲁萨基斯指出，知识欧洲不仅是一套政策修辞，更是一套成熟的规训权力技术体系。面对《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]严禁推进立法一体化的宪制限制，欧盟在[[Lisbon Strategy|里斯本战略]]中确立[[Open Method of Coordination|开放协调法]]，由非民选的技术专家官僚主导，推行由结果掌舵（steering by results）的治理模式。该机制综合运用了三种监视技术：以量化指标和统计图表为载体的凝视技术（technologies of theasis），将成员国体制置于透明强光之下；以基准线、最佳实践与同行评审为载体的绩效技术（technologies of performance），施加持续的声誉与[[Peer Pressure|同侪压力]]；以及以常设工作组与专业网络为载体的治理技术（technologies of governance）。成员国在签署共同目标的同时，自愿将外部规训机制嵌入国内政策规划，最终在[[European Education Area|欧洲教育区]]上空确立了高度隐蔽却严密运转的现代全景敞视建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486–487, 490–493)]]

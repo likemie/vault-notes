@@ -96,7 +96,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜地缘政治[[Paradigm|范式]]经历了从物质领土控制向[[Discursive Field|话语空间]]生产的[[Ontology|本体论]]转向
-> **探讨维度　空间本体与[[Paradigm|范式]]演变** 探讨地缘政治理论如何从客观地理[[Determinism|决定论]]与主权领土容器假定，转向将空间视为社会关系与[[Discourse|话语实践]]持续生产的动态产物。
+> **空间本体与[[Paradigm|范式]]演变** 探讨地缘政治理论如何从客观地理[[Determinism|决定论]]与主权领土容器假定，转向将空间视为社会关系与[[Discourse|话语实践]]持续生产的动态产物。
 
 > [!claim] [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]
 > **物质领土向[[Discursive Field|话语空间]]的范式扩展** 地缘政治理论的演进围绕两个[[Ontology|本体论]]问题展开：地缘政治是物质性还是观念性，以及地缘政治是科学性（知识）还是实践性（行动）。[[Classical Geopolitics|古典地缘政治]]立足于物质—实践端，受社会达尔文主义与国家有机体论影响，将空间界定为先验、中立且可分割占有的物理容器，导致理论陷入国家中心主义的“领土陷阱”。20 世纪 90 年代兴起的[[Critical Geopolitics|批判地缘政治]]立足于观念—科学端，确立空间作为流动社会建构的本体地位，指出空间经由命名、分类、评价与叙事持续生成。知识在此过程中被确认为嵌入特定历史与权力关系中的制度化实践，具有鲜明的意识形态与治理属性。二者在当代学术研究中形成延续与互补的复合嵌套形态。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 11–13)]]
@@ -163,7 +163,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Knowledge-Based Economy|知识经济]]时代的地缘政治竞争聚焦于科技创新高地与制度性[[Knowledge Power|知识权力]]的争夺
-> **探讨维度　[[Knowledge-Based Economization|知识经济化]]与制度性权力博弈** 探讨当代大国地缘博弈如何突破传统边界防卫范畴，转向围绕前沿科研高地、科技标准与跨国学术规程的主导权竞争。
+> **[[Knowledge-Based Economization|知识经济化]]与制度性权力博弈** 探讨当代大国地缘博弈如何突破传统边界防卫范畴，转向围绕前沿科研高地、科技标准与跨国学术规程的主导权竞争。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]; [[Argument_Moisio_2022_Springer|Moisio (2022)]]
 > **科技创新[[Champ|场域]]中的[[Knowledge Power|知识权力]]重构** 在全球[[Knowledge-Based Economy|知识经济]]背景下，地缘政治博弈从单纯争夺地理疆土延伸至争夺全球学术网络与科技创新链的中心节点。国家通过动员高水平[[Research Universities|研究型大学]]、设立跨国大学联盟与布局科技研发中心，行使以知识创新为载体的“知识权力”。以排他性精英高校联盟为例，组织通过聚集区域[[Intellectual Capital|智力资本]]与制定前沿研究规则，建立自主界定学术议程的制度性权力，从而在去中心化的全球知识版图中确立排他性地缘领导地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697, 1702–1703)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
@@ -177,7 +177,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜地缘政治逻辑与跨国科学合作之间存在开放流动与国家安全边界的结构性张力
-> **探讨维度　跨国流动与再国家化安全边界** 探讨全球科学共同体的普世互联理想与民族国家维护技术安全、划分战略边界之间的持续对立。
+> **跨国流动与再国家化安全边界** 探讨全球科学共同体的普世互联理想与民族国家维护技术安全、划分战略边界之间的持续对立。
 
 > [!claim] [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]; [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]
 > **科学全球主义与国家安全壁垒的张力** 现代高等教育与科学研究具有全球网络化的内在动力，依托水平协同、开放出版与跨国人才流动生产全球公共产品。地缘政治竞争的加剧引发了民族国家的“再国家化”与“再边界化”进程。国家安全审查、敏感技术出口管制、关键科研领域合规排查等政策工具，将跨国学术流动转化为安全化管理对象，导致开放的跨国学术交往与排他的地缘安全防卫之间产生深刻的制度性冲突。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 10–13)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]

@@ -38,7 +38,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜三方合作重构了国际发展援助中的地缘权力与[[Knowledge Production|知识生产]]格局
-> **探讨维度　知识生产与南向主体性** 探讨三方合作如何打破传统中心—边缘的单向度流动，确立南方制度创新的全球合法性。
+> **知识生产与南向主体性** 探讨三方合作如何打破传统中心—边缘的单向度流动，确立南方制度创新的全球合法性。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **多边协作驱动跨国流动** 国际发展合作性质的演变为南南与南北政策转移注入了新动力，三方合作将具备发展情境适配性的南方[[Phronesis|实践智慧]]转化为全球认可的公共产品。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 12)]]
@@ -98,7 +98,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜三方合作的多边介入兼具放大创新与施加科层约束的双重张力
-> **探讨维度　国际组织的中介效应** 探讨国际多边组织在资助和评估三方合作时对南方方案产生的标准化裁剪与[[Discourse|话语]]约束。
+> **国际组织的中介效应** 探讨国际多边组织在资助和评估三方合作时对南方方案产生的标准化裁剪与[[Discourse|话语]]约束。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **科层过滤与规范同质化** 国际金融组织在资助与调解三方合作时，容易将多元扎根的南方方案强行裁剪为标准化的最佳实践清单，从而抹平本土制度情境的[[Heterogeneity|异质性]]。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 12–13)]]

@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜跨国大规模评估通过量化指标体系将主权教育政策转化为不可逆转的全球中介市场
-> **探讨维度　[[Governing by Numbers\|数字治理]]技术的制度化扩张机制** 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
+> **[[Governing by Numbers\|数字治理]]技术的制度化扩张机制** 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
 
 > [!claim] Steiner-Khamsi et al.
 > **指标规制的不归路** 跨国比较与指标生产一旦启动，便具备自发繁衍的生命力；[[OECD\|经合组织]]从 1980 年代开发 [[International Indicators of Education Systems\|INES]] 指标，到 2000 年 [[PISA]] 放榜，再到衍生出教师调查（[[Teaching and Learning International Survey\|TALIS]]）、成人能力（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）与发展中国家版（[[PISA for Development\|PISA-D]]），构建了一个主权国家无法退出、且必须持续采购其知识产品的规制自指系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
@@ -129,7 +129,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜测评结果激发的周期性外部危机是国家内部强推争议性改革的合法化燃料
-> **探讨维度　危机叙事与政策[[Externalization\|外部化]]借用动力学** 围绕政府如何借测评排名打破国内政治僵局展开。
+> **危机叙事与政策[[Externalization\|外部化]]借用动力学** 围绕政府如何借测评排名打破国内政治僵局展开。
 
 > [!claim] Martens (2007)
 > **硬事实的[[Soft Power\|软权力]]手段** 跨国排名以“科学客观硬事实”的外观，构成了摧毁国内保守集团抗拒心理的最强软权力；落后名次引发的“PISA 冲击”能够迅速在公众中制造教育落后必将导致国家经济衰亡的恐慌，为执政者强推市场化或标准化改革铺平道路。

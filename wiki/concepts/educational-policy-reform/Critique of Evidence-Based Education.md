@@ -116,7 +116,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -190,7 +190,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜“什么有效”的[[Epistemology|认识论]]预设切断了教育的价值目的与情境连贯性
-> **探讨维度　[[Epistemology\|认识论]]预设与价值目的遮蔽** 聚焦 [[Evidence-Based Education\|EBE]] 的哲学前提，批判将复杂教育关系降格为确定性输入—产出机制对教育目的与认识论自洽性的系统破坏。
+> **[[Epistemology\|认识论]]预设与价值目的遮蔽** 聚焦 [[Evidence-Based Education\|EBE]] 的哲学前提，批判将复杂教育关系降格为确定性输入—产出机制对教育目的与认识论自洽性的系统破坏。
 
 > [!claim] [[Argument_Biesta_2010_SPE\|Biesta (2010)]]
 > **民主缺陷与三重[[Deficit Framing\|缺陷框架]]** 循证教育存在根本性的“民主缺陷”，将教育决策从价值审议转移为技术官僚的操作规程；同时面临三重内在缺陷：（1）知识缺陷：实验只能总结过去发生的事实，无法对未来的教育行动提供必然预测；（2）效力缺陷：教育[[Causality\|因果关系]]是非线性的、依赖意义诠释的开放过程，无法还原为物理式的封闭因果作用；（3）应用缺陷：科学知识在教育中的运用是[[Phronesis\|实践智慧]]（phronesis）的审辨，而非工程式的线性技术套用。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–501)]]
@@ -207,7 +207,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜将医学试验与统计合成移植于教育导致严重的方法论失真与施为者悖论
-> **探讨维度　方法论还原与统计失真** 剖析以 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]为核心的方法工具在面对教育复杂性时的数据失真与逻辑悖论。
+> **方法论还原与统计失真** 剖析以 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]为核心的方法工具在面对教育复杂性时的数据失真与逻辑悖论。
 
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]
 > **[[Critical Realism\|批判实在论]]解构与施为者悖论** 依据巴斯卡（[[Roy Bhaskar]]）的[[Critical Realism\|批判实在论]]解构 EBE：（1）实在分为深层机制、实际事件与经验现象三层，EBE 仅在经验表层计算效应量均值；（2）教育是开放系统，不可按封闭实验室还原；（3）施为者悖论：RCT 极力控制并视为“混淆干扰”的教师自由意志与学生主观意义建构，恰恰是产生真实教学效果不可或缺的核心因果动力。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–15)]]
@@ -227,7 +227,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜标准化证据在课堂微观落地中遭遇情境调适障碍与多元价值挤压
-> **探讨维度　实践转化与情境抵制** 考察标准化循证干预在微观学校[[Champ\|场域]]中面临的调适重构与潜在系统性副作用。
+> **实践转化与情境抵制** 考察标准化循证干预在微观学校[[Champ\|场域]]中面临的调适重构与潜在系统性副作用。
 
 > [!claim] [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]
 > **课堂转化的结构性障碍与黑箱机制** 学校无法“开箱即用”地直接套用证据清单，一线教学始终伴随高度情境化的调适与再发明；缺乏对底层因果机制的理解，机械照搬 Toolkit 效应量无法指导复杂的课堂生成性互动，[[New Public Management\|新公共管理]]式的强制推行反而引发一线阻抗。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 12–18)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 63–67)]]
@@ -244,7 +244,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜证据在政策网络中异化为官僚[[Rationalized Myth|合理化神话]]与[[Policy-Based Evidence-Making|基于政策的证据制造]]
-> **探讨维度　政治经济学与[[Epistemic Governance\|知识治理]]异化** 揭示证据如何在国家政策网络中被官僚机构仪式化使用，演化为维护既定路线的辩护护符。
+> **政治经济学与[[Epistemic Governance\|知识治理]]异化** 揭示证据如何在国家政策网络中被官僚机构仪式化使用，演化为维护既定路线的辩护护符。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]、政府[[Gatekeepers\|守门人]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）** 在从测量时代走向[[Evidence Era\|证据时代]]的过程中，研究证据并未驱动客观中立的政策制定，是异化为官僚体系彰显合法性的[[Rationalized Myth\|合理化神话]]；政府[[Gatekeepers\|守门人]]（如教育部高级官员与特别顾问）确立了强烈的“落地偏好”，通过扶植官方外围智库、选择性引证与定向委托审查，形成了[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）反馈回路，使证据沦为证明政治行动“适宜性”（logic of appropriateness）与规避决策过失责任的防护盾牌。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]

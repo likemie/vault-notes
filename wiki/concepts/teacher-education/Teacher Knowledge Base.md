@@ -48,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -106,7 +106,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜教师知识库具有根本的多元[[Heterogeneity|异质性]]，科研证据必须与实践经验和学情展开平权协商
-> **探讨维度　复合[[Heterogeneity\|异质性]]与[[Knowledge Integration\|知识整合]]** 阐明教师知识体系的多源特征，打破将外部科学研究视作唯一权威处方的[[Technical Rationality\|技术理性]]幻想。
+> **复合[[Heterogeneity\|异质性]]与[[Knowledge Integration\|知识整合]]** 阐明教师知识体系的多源特征，打破将外部科学研究视作唯一权威处方的[[Technical Rationality\|技术理性]]幻想。
 
 > [!claim] Shulman (1987); Grimen (2008); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **异质知识库中的非线性协商** 专业教师的日常决策从来有别于单向套用外部科研处方的线性过程；因为教学情境充满了不确定性与个体差异，外部研究证据必须进入由学科知识、[[Phronesis\|实践智慧]]、微观学情构成的多元知识库中，与其他资源进行平权的相互印证、权衡取舍与动态整合，才能转化为切合特定时空条件的[[Effective Teaching\|有效教学]]行为。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜育人伦理与专业规范在教师知识库中充当价值中介，决定科研成果的转化边界
-> **探讨维度　伦理调节与实践适切性** 揭示教育价值观与专业规范在教师调用和转化外部科研知识时的把关机制。
+> **伦理调节与实践适切性** 揭示教育价值观与专业规范在教师调用和转化外部科研知识时的把关机制。
 
 > [!claim] Eriksen (2022); Hermansen and Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **价值信念对知识使用的中介与过滤** 教学不仅关乎教学成效，更关乎育人伦理与价值追求；在教师知识库中，专业规范与价值信念构成了调节知识转化的核心中介，当某项科研结论所推荐的高效方法可能损害学生长远身心健康或教育公平时，教师会基于育人伦理审慎调整或搁置该方案，这种取舍反映了高度成熟的专业理性而非认知缺陷。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]

@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Learning Styles
@@ -119,7 +119,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学习风格假说的教学匹配效应在严谨实证检验中缺乏科学证据支撑
-> **探讨维度　实证有效性与认知科学检验** 认知心理学家与循证研究者系统检验匹配假设是否成立，评估其是否存在可重复的因果增益。
+> **实证有效性与认知科学检验** 认知心理学家与循证研究者系统检验匹配假设是否成立，评估其是否存在可重复的因果增益。
 
 > [!claim] Bauer and Asberger (2022)
 > **理论前提的逻辑落空** 学习者在特定情境下的信息接收偏好并不等同于认知理解能力；将知识内容（如几何空间概念或音乐节奏）与特定感官通道强制剥离并套用给“特定类型”的学生，在[[Epistemology\|认识论]]和学科教学论上均不成立。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
@@ -130,7 +130,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜学习风格的[[Meta-analysis|元分析]]聚合暴露了不加质控的统计合成在方法学上的内在矛盾
-> **探讨维度　[[Meta-analysis|元分析]]数据与理论审视的冲突** 围绕[[John Hattie|哈蒂]]对学习风格[[Effect Size|效应量]]的处理，探讨无差别汇总底层[[Document|文献]]带来的方法学破产。
+> **[[Meta-analysis|元分析]]数据与理论审视的冲突** 围绕[[John Hattie|哈蒂]]对学习风格[[Effect Size|效应量]]的处理，探讨无差别汇总底层[[Document|文献]]带来的方法学破产。
 
 > [!claim] Snook, I.
 > **研究质量对综合判断的约束** [[Ivan Snook|伊万·斯努克]]（Ivan Snook）等指出，哈蒂对学习风格的综合效应量持怀疑态度，并因相关研究的动机与质量问题判定其不可信。这一处理表明，效应量需要结合基础研究的质量解释，单独采用数值门槛不足以制定教学建议。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
@@ -138,7 +138,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜学习风格神话的弥散扭曲了教学资源配置并对学生学业潜力的客观评估产生负面偏差
-> **探讨维度　教学实践代价与教育公平** 探讨信奉学习风格神话对一线教师专业行动、课堂教学效能及学生个体发展带来的实质危害。
+> **教学实践代价与教育公平** 探讨信奉学习风格神话对一线教师专业行动、课堂教学效能及学生个体发展带来的实质危害。
 
 > [!claim] Nancekivell et al. (2020)
 > **对个体学习进度的潜在阻碍** 当学生和家长将自身固定归类为某种特定学习类型后，极易形成自我设限，规避需要调动其他感官与思维模式的深度学习任务，阻碍综合认知能力的均衡发展。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
@@ -149,7 +149,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜通俗化语言与概念转变导向的科学传播媒介能够显著促进职前教师对[[Neuromyth|神经神话]]的认知重构
-> **探讨维度　科学传播干预与[[Teacher Beliefs\|教师信念]]重塑** 探讨如何通过针对性的科学传播格式打破教师对[[Neuromyth|神经神话]]的心理防御与直觉依恋。
+> **科学传播干预与[[Teacher Beliefs\|教师信念]]重塑** 探讨如何通过针对性的科学传播格式打破教师对[[Neuromyth|神经神话]]的心理防御与直觉依恋。
 
 > [!claim] Götzfried et al. (2022)
 > **通俗语言与概念转变设计的纠偏效能** 针对师范生的[[Experimental Research\|实验研究]]表明，相较于纯学术文章的单向批驳，采用贴近日常教学语境的通俗化表达、并明确针对学习风格神话开展概念转变（Conceptual Change）设计的音频播客干预，能更有效地促成师范生修正对学习风格的错误认知。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 256)]]
@@ -225,7 +225,7 @@ updated: 2026-11-02
 > > | Ostovar (2023) | Learning styles | 98 | NA | 384 | 0.19 |  |
 > > | Mohammadi et al. (2013) | Learning styles on achievement | 10 | NA | 10 | 0.25 |  |
 > > | Kanadli (2016) | Learning styles on achievement | 30 | NA | 30 | 1.03 |  |
-> > | Erdem & Kaf (2023) | Learning styles | 18 | 1,465 | 19 | 0.78 |  |
+> > | Erdem and Kaf (2023) | Learning styles | 18 | 1,465 | 19 | 0.78 |  |
 
 > [!metax] [按学习风格匹配教学 · Matching teaching to style of learning](https://www.visiblelearningmetax.com/influences/view/matching_teaching_to_style_of_learning)
 > 学生学习策略 › 学生导向干预
@@ -237,10 +237,10 @@ updated: 2026-11-02
 > > [!metax-ma]- 4 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Garlinger & Frank (1986) | Field independence/dependence on achievement | 7 | 1,531 | 7 | -0.03 |  |
-> > | Kavale & Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
+> > | Garlinger and Frank (1986) | Field independence/dependence on achievement | 7 | 1,531 | 7 | -0.03 |  |
+> > | Kavale and Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
 > > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
-> > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
+> > | Peterson and Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
 
 > [!eef-divider]
 

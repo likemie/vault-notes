@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜国家公共撤资与市场化改革将[[Democratic Education|民主教育]]主体降格为孤立的经济消费者
-> **探讨维度　国家撤资与教育公共属性沦丧** 探讨新自由主义国家转型如何切断公民与公立学校之间的宪法政治纽带。
+> **国家撤资与教育公共属性沦丧** 探讨新自由主义国家转型如何切断公民与公立学校之间的宪法政治纽带。
 
 > [!claim] Olmos & Torres; Puiggrós
 > **公共教育撤资对公民教育主体性的系统剥夺** 阿德里安娜·[[Adriana Puiggrós|普伊格罗斯]]（Adriana Puiggrós）与托雷斯（Torres, 1995）在拉美教育史实证研究中论证，国家对公立教育的财政撤资与私有化推手，深刻动摇了公民作为教育主体的形塑基础。当国家放弃作为公共教育首要供给者与宪法兜底者的角色，推行教育凭证化与使用者付费机制时，教育从公共民主培育阵地退化为排他性消费市场。公民被剥离了民主反思与社会正义追求，被强行再造为自负盈亏、自担风险的市场竞争个体。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
@@ -117,7 +117,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Positivism|实证主义]]全景监视将教育主体剥离为无主体的参数调控单元
-> **探讨维度　[[Learnification|学习化]]异化与算法全视凝视** 探讨可见学习与测验问责如何压制师生的主观存在体验与具身反思。
+> **[[Learnification|学习化]]异化与算法全视凝视** 探讨可见学习与测验问责如何压制师生的主观存在体验与具身反思。
 
 > [!claim] Larsen
 > **可见学习[[Paradigm|范式]]对教育主体的精神抽空与行为规训** 拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 7–10]]）揭示，当代“[[Learnification|学习化]]”（Learnification）与[[Visible Learning|可见的学习]]范式构成了[[Cognitive Capitalism|认知资本主义]]的生物政治控制装配。通过强迫学生向教师口头汇报、向外部评估者展示透明学习过程，学校教育复活了全景视界般的持续审查传统。这种外在量化监视将师生结构性错位为数据达标的执行机器，彻底剥离了真正学习所具有的潜伏性、[[Incommensurability|不可通约性]]与个人心智生成自由，造成教育主体的严重空心化。
@@ -125,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜具身教化传统与批判[[Popular Education|民众教育]]是重塑教育主体性的根本路径
-> **探讨维度　教化自觉与[[Popular Education|民众教育]]抵抗** 探讨如何结合唯物批判传统与大陆哲学重构主体的精神自主性。
+> **教化自觉与[[Popular Education|民众教育]]抵抗** 探讨如何结合唯物批判传统与大陆哲学重构主体的精神自主性。
 
 > [!claim] Larsen; Freire
 > **具身化-延展辩证法与批判意识的赋权潜能** 重建教育主体性要求超越新自由主义的[[Human Capital Theory|人力资本]]还原论与[[Positivism|实证主义]]量化规训。在拉美脉络中，[[Paulo Freire|弗莱雷]]式的[[Popular Education|民众教育]]通过对现实条件的批判性[[Decodification|解码]]，唤醒被压迫者的主体历史能动性；在哲学[[Ontology|本体论]]层面，拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–10]]）提出重返德意志教化（[[Bildung]]）传统与具身化-延展辩证法。教育主体的根基在于心智在中观世界中的具身肉身化与向文化世界的反思延展，将受教育者锚定为拥有内在精神尊严的自主主体，方能彻底打破外部算法问责的控制循环。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜外向型[[Internationalization of Higher Education|高等教育国际化]]标志着国家从知识接收者向知识规则供给者的角色转型
-> **探讨维度　角色转变与治理结构** 探讨[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]转型如何重塑新兴国家在全球知识秩序中的身份认同。
+> **角色转变与治理结构** 探讨[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]转型如何重塑新兴国家在全球知识秩序中的身份认同。
 
 > [!claim] Wu (2019a); [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
 > **从依附接受转向主动赋形** 早期内向型国际化基于知识差距假定，将西方界定为知识中心，自身作为外围接收者；外向型国际化彻底重构了这一角色假定，通过主动输出教育体系与设立跨国多边平台，将自身定位于区域乃至全球高等教育公共产品的提供者与新治理规则的倡导者。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697, 1703)]]
@@ -120,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜外向型国际化通过[[Knowledge Power|知识权力]]与[[Knowledge Diplomacy|知识外交]]的双轨运作服务国家[[Total War|总体战]]略
-> **探讨维度　动力机制与战略协同** 探讨外向型国际化实践中[[Geopolitics|地缘政治]]考量与多边[[Developmentalism|发展主义叙事]]的辩证统一。
+> **动力机制与战略协同** 探讨外向型国际化实践中[[Geopolitics|地缘政治]]考量与多边[[Developmentalism|发展主义叙事]]的辩证统一。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
 > **双轨协同论** 外向型高教国际化在制度设计层面展现出明确的分工协同：既通过开放包容的大众化多边网络深化[[People-to-People Connectivity|民心相通]]与践行[[Knowledge Diplomacy|知识外交]]，又依托精简筛选的顶尖[[Research Universities|研究型大学]]网络主导区域学术议程并积蓄[[Knowledge Power|知识权力]]，协同服务于提升大国总体[[Soft Power|软实力]]与常态化网络中心地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1705)]]
@@ -128,7 +128,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜外向型高教国际化的战略效能受制于校际协议形式化与微观教学断裂
-> **探讨维度　机制落地与形式化阻滞** 探讨当国家宏观外向拓展强劲时，微观高校间合作协议的形式化倾向如何制约实质性知识合作。
+> **机制落地与形式化阻滞** 探讨当国家宏观外向拓展强劲时，微观高校间合作协议的形式化倾向如何制约实质性知识合作。
 
 > [!claim] [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]]
 > **形式化协议削弱外向拓展实效** 重点大学在推进外向型高教拓展时，常将同发展中国家高校签署合作备忘录（MOU）作为提升自身国际化指标的象征性工具，缺乏长效科研经费配套与深入跟进；加之课堂教学缺乏启发互动，使外向型高教输出面临从宏观政策工具向微观学术互信转化的制度性阻滞（pp. 648–651）。

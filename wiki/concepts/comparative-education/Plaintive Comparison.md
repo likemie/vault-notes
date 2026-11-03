@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜将教育落后单一归咎于历史政治困境构成了逃避体制专业改进问责的[[Social Science as Legitimation Alibi|合法化借口]]
-> **探讨维度　政治归因与专业问责的遮蔽机制** 该命题揭示了后发转型国家在面临国际评估压力时，官方[[Discourse|话语]]如何利用国家历史创伤将具体的教育专业问题政治化、抽象化，从而阻断体制内的实质反省。
+> **政治归因与专业问责的遮蔽机制** 该命题揭示了后发转型国家在面临国际评估压力时，官方[[Discourse|话语]]如何利用国家历史创伤将具体的教育专业问题政治化、抽象化，从而阻断体制内的实质反省。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
 > **虔诚借口论** 西班牙教育改革长期深陷一种归因定式：朝野各派习惯将教育不发达解释为政治不发达的产物。这种宿命论叙事为立法者承认自身落后于欧洲提供了体面的掩护，使得学校管理混乱、十年综合初中辍学率高企以及激进分权造成的行政割据等具体专业缺陷，均被宏大的政治话语所赦免。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]

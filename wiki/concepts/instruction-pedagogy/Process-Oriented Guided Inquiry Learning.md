@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -160,7 +160,7 @@ POGIL 的成功运作依赖于“学习环认知进阶”与“合作角色互�
 ---
 
 > [!concept-proposition] 命题一｜角色化互锁分工能有效分散外在认知负荷并抑制搭便车现象
-> **探讨维度　[[Cognitive Load Theory\|认知负荷理论]]与协同认知维度** 解释结构化角色分工如何赋能复杂科学推理。
+> **[[Cognitive Load Theory\|认知负荷理论]]与协同认知维度** 解释结构化角色分工如何赋能复杂科学推理。
 
 > [!claim] Moog, R. S. & Spencer, J. N.
 > **集体[[Working Memory\|工作记忆]]对复杂认知任务的协同分担** 大学科学课程中的前沿概念往往具有极高的内在认知复杂度。单个初学者的[[Working Memory\|工作记忆]]极易在阅读长文本与操纵计算时超载。POGIL 通过将记录、计时、质疑与归纳等外在程序性职责显性分配给不同角色，构成了分布式集体认知系统。学生在相互辩驳中澄清模糊直觉，显著降低了个体的认知压力，使认知资源得以聚焦于深层概念建构。（Moog & Spencer, 2008；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
@@ -168,7 +168,7 @@ POGIL 的成功运作依赖于“学习环认知进阶”与“合作角色互�
 ---
 
 > [!concept-proposition] 命题二｜过程导向[[Inquiry-Based Learning|探究学习]]环显著提升科学课程通过率并有效降低挂科弃学率
-> **探讨维度　学业保留率与教育公平维度** 剖析 POGIL 对 [[STEM Education\|STEM]] 关键门槛课程（[[Gatekeepers\|gatekeeper]] Courses）通过率的重大影响。
+> **学业保留率与教育公平维度** 剖析 POGIL 对 [[STEM Education\|STEM]] 关键门槛课程（[[Gatekeepers\|gatekeeper]] Courses）通过率的重大影响。
 
 > [!claim] Walker, L. & Warfa, A. M.
 > **课程通过优势比的大幅提升与及格底线保障** 针对全美多所高校与中学 STEM 课堂的权威一阶[[Meta-analysis\|元分析]]表明，尽管 POGIL 对标准化期末测验的平均分提升效应相对温和，但其对课程通过率产生了具有[[Statistical Significance\|统计显著性]]的重大增益：实施 POGIL 的班级其学生顺利通过课程的优势比（Odds Ratio）系统性提升，挂科率与退课率（DFW 率）发生断崖式下跌。这一结果证明，POGIL 能够为处于学业边缘的处境不利学生提供坚实的学习支撑网，有效遏制了传统纯讲授大班下的群体性掉队。（Walker & Warfa, 2017；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
@@ -176,7 +176,7 @@ POGIL 的成功运作依赖于“学习环认知进阶”与“合作角色互�
 ---
 
 > [!concept-proposition] 命题三｜POGIL 显著促进学生从被动表面学习转向深层概念理解与长效保持
-> **探讨维度　学习途径与概念保持维度** 检验 POGIL 对高阶[[Scientific Literacy\|科学素养]]与延迟[[Academic Achievement\|学业表现]]的塑造效能。
+> **学习途径与概念保持维度** 检验 POGIL 对高阶[[Scientific Literacy\|科学素养]]与延迟[[Academic Achievement\|学业表现]]的塑造效能。
 
 > [!claim] Joshi, N. & Lau, S. K.
 > **[[Surface and Deep Learning\|深层学习]]方法与长期抗遗忘表现的质性提升** 实证对比研究表明，经历 POGIL 教学干预的学生在《学习过程[[Questionnaire\|问卷]]》（R-SPQ-2F）上的深层学习途径得分显著提高，表面机械应付倾向大幅降低。在学期末及更长周期的延迟测验中，POGIL 组学生对基本科学规律的因果推理与概念保持显著超越传统讲授班级，证实自发经历探索与概念形成的学生掌握了更为弹性的学科知识。（Joshi & Lau, 2023；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）

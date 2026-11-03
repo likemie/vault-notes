@@ -34,7 +34,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜个体的[[Epistemological Beliefs|认识论信念]]在心智中以连贯的“个人理论”形式存在
-> **探讨维度　维度的连贯互构** 探讨个体对于知识各维度的信念是否各自为政，还是共同构成了一个指导思维和感知的底层解释框架。
+> **维度的连贯互构** 探讨个体对于知识各维度的信念是否各自为政，还是共同构成了一个指导思维和感知的底层解释框架。
 
 > [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **个人理论主张** 个体的[[Epistemological Beliefs\|认识论信念]]是以相互关联、内部一致的方式构成了某种具有[[Domain Specificity\|领域特殊性]]或一般性的“朴素理论（naive theories）”，有别于零散的事实集合。

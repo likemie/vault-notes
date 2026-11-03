@@ -61,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Self-Regulated Learning
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜显性[[Metacognition|元认知]]支架是激活技术增强环境中自我调节学习的关键前提
-> **探讨维度　[[Metacognition\|元认知]][[Scaffolding\|脚手架]]与自主监控** 探讨外部教学提示词与反思规程如何转化为学习者内部的自我调节操作。
+> **[[Metacognition\|元认知]][[Scaffolding\|脚手架]]与自主监控** 探讨外部教学提示词与反思规程如何转化为学习者内部的自我调节操作。
 
 > [!claim] Li, C.; Cui, H.; Hagedorn, L. S.
 > **支架驱动的自我调节激活** 在高等教育使用[[Generative Artificial Intelligence\|生成式人工智能]]的实证研究中，自我调节学习能力的发挥高度依存于显性教学支架。当教师嵌入[[Reflexivity\|反思性]]引导问题、同行比对任务或结构化提示工程训练时，学生表现出高频的思维监控与自我纠错行为（17 项研究证实）；反之，当缺乏反思提示时，学生极易出现元[[Cognitive Offloading\|认知卸载]]，放弃自我监控与调整。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7, 10–12)]]
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜高水平自我调节学习能够抵御技术依赖并维持批判性认知主体性
-> **探讨维度　认知主体性与抗依赖机制** 探讨学习者自主调控能力对防范人工智能盲从和认知外包的防御作用。
+> **认知主体性与抗依赖机制** 探讨学习者自主调控能力对防范人工智能盲从和认知外包的防御作用。
 
 > [!claim] Zimmerman, B. J.; Azevedo, R.; Li, C.
 > **自我调节抵御技术顺从** 具备较强自我调节学习能力的学生能够将人工智能定位为“协作对话伙伴”而非“答案供给者”。他们通过主动设立检验标准、持续提问和交叉验证，有效规避了语义流畅性带来的证实偏误，在大模型交互中始终保持认知的自主权与批判性审视。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–9)]]
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜自我调节学习在[[Man-Computer Symbiosis|人机协同]]中承担风险中和中枢与成效断层分流的决定性调节功能
-> **探讨维度　风险中和中枢与群体认知分水岭** 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了[[Man-Computer Symbiosis|人机协同]]促学成效的断层式两极分化。
+> **风险中和中枢与群体认知分水岭** 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了[[Man-Computer Symbiosis|人机协同]]促学成效的断层式两极分化。
 
 > [!claim] [[Wang Yangming\|Wang, Y.]]; Huang, R.; [[Yong Zhao\|Zhao, Y.]]
 > **风险中和机制与认知分水岭** 生成式 AI 对思维发展的赋能有别于无条件成立，自我调节学习构成了至关重要的中枢调节机制。理论上，大语言模型交互具有即时满足与表层流畅的特质，极易诱发心智惰性与盲目顺从；SRL 通过持续的监控、反思与策略调整，充当了不可或缺的“风险中和器”，有效抵消了算法幻觉、认知外包与思维惰性等潜在负面效应。在机制分流上，高自律学习者主动设定目标、将 AI 视为协同副驾驶并批判性吸收其输出，从而实现认知图式的提升；而低自律学习者缺乏目标校准与审验能力，极易被算法牵引而滑向被动顺从与虚假理解，致使技术赋能严重受限。[[Argument_Zhao_2025_JIntell\|(Wang & Huang, 2024; Zhao et al., 2025, pp. 11–12, 16)]]
@@ -198,15 +198,15 @@ updated: 2026-11-02
 > > | Benz (2010) | Self regulated interventions | 44 | 4,047 | 44 | 0.45 |  |
 > > | Zheng (2016) | Self-regulated learning strategies | 29 | 2,648 | 29 | 0.44 |  |
 > > | Danisman (2017b) | Self-regulation | 346 | 215,452 | 346 | 0.54 |  |
-> > | Broadbent & Poon (2015) | Self-regulated learning strategies | 12 | NA | 12 | 0.26 |  |
-> > | Ergen & Kanadli (2017) | Self-regulation strategies | 21 | NA | 21 | 0.86 |  |
+> > | Broadbent and Poon (2015) | Self-regulated learning strategies | 12 | NA | 12 | 0.26 |  |
+> > | Ergen and Kanadli (2017) | Self-regulation strategies | 21 | NA | 21 | 0.86 |  |
 > > | Dent (2013) | Self-regulated learning | 145 | NA | 173 | 0.56 |  |
 > > | Lavery (2008b) | Self-regulated learning | 30 | 1,937 | 223 | 0.46 |  |
 > > | Dignath et al. (2008) | Self-regulation strategies | 30 | 2,364 | 263 | 0.69 |  |
-> > | Sitzmann & Ely (2011) | Self-regulation strategies | 369 | 90,380 | 855 | 0.37 |  |
+> > | Sitzmann and Ely (2011) | Self-regulation strategies | 369 | 90,380 | 855 | 0.37 |  |
 > > | Pandey et al. (2018) | Self-regulation interventions | 39 | 23,098 | 39 | 0.42 |  |
 > > | Jansen et al. (2019) | Self-regulated interventions and correlates | 126 | NA | 284 | 0.36 |  |
-> > | Kim & Seo (2014) | Self-regulated learning | 82 | NA | 289 | 0.91 |  |
+> > | Kim and Seo (2014) | Self-regulated learning | 82 | NA | 289 | 0.91 |  |
 > > | Li, Ye, et al. (2018) | Self-regulated learning | 59 | 23,497 | 264 | 0.47 |  |
 > > | de Boer et al. (2013) | Self-regulated learning | 55 | NA | 95 | 0.66 |  |
 > > | Theobald (2021) | Self-regulated learning | 49 | 5,786 | 251 | 0.38 |  |
@@ -216,7 +216,7 @@ updated: 2026-11-02
 > > | Brydges et al. (2015) | Supervised vs non-supervised SRL interventions | 19 | NA | 19 | 0.34 |  |
 > > | Shao et al. (2023) | Self-regulated programs on achievement | 46 | NA | 34 | 0.50 |  |
 > > | Xu et al. (2021) | Self-regulation interventions | 37 | NA | 73 | 0.69 |  |
-> > | Hemmler & Ifenthaler (2024) | Self-regulation strategies | 32 | NA | 32 | 0.68 |  |
+> > | Hemmler and Ifenthaler (2024) | Self-regulation strategies | 32 | NA | 32 | 0.68 |  |
 > > | Chen (2022) | Self-regulation interventions | 16 | NA | 32 | 0.72 |  |
 > > | Elhusseini et al. (2022) | Self-regulation interventions | 46 | 5,255 | 150 | 0.83 |  |
 > > | Hitt (2023) | Self-regulation interventions | 60 | NA | 60 | 0.46 |  |

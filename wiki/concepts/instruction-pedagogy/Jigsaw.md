@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Jigsaw
@@ -102,7 +102,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜信息不对称与角色互换为深度认知加工与高阶反思提供了制度化动力
-> **探讨维度　教学即最佳学习（Learning by Teaching）机制** “作为专家向他人传授”的责任感迫使学生在专家组阶段进行更深层的语义建构与[[Metacognition\|元认知]]监控，显著强化[[Critical Thinking\|批判性思维]]与概念整合。
+> **教学即最佳学习（Learning by Teaching）机制** “作为专家向他人传授”的责任感迫使学生在专家组阶段进行更深层的语义建构与[[Metacognition\|元认知]]监控，显著强化[[Critical Thinking\|批判性思维]]与概念整合。
 
 > [!claim] Aronson; Slavin; Güngör et al.
 > **角色互换对高阶素养与态度的双重驱动** 实证[[Meta-analysis\|元分析]]显示，拼图法不仅对常规学业掌握有效（$ES = 0.58\sim0.72$），更在护理临床批判性思维（$ES = 0.70$）、专业态度认同（$ES = 1.18$）及 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（$ES = 0.84$）中展现出突出成效，证实[[Epistemic Responsibility\|认知责任]]的制度化下沉能有效激活[[Higher-Order Thinking Skills\|高阶思维]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]
@@ -110,7 +110,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜拼图法的干预成效对真实课堂生态文化具有强依赖性
-> **探讨维度　生态情境效度与干预周期** 拼图法依赖师生之间建立的同伴互信、倾听规范与长周期默契，短周期孤立实验极易低估其实际效能。
+> **生态情境效度与干预周期** 拼图法依赖师生之间建立的同伴互信、倾听规范与长周期默契，短周期孤立实验极易低估其实际效能。
 
 > [!claim] Güngör et al.
 > **常态课堂与严格实验室控制的效应分化** 在[[Meta-meta-analysis\|二阶元分析]]中，基于常态准实验的拼图法干预表现出强劲成效；而瑞士严格个体[[Randomised Controlled Trials\|随机对照试验]]（Stanczak et al., 2022）报告六年级单次拼图法效应为零（$ES = 0.00$），揭示出抽离班级常态社交生态的人工实验难以激活拼图法的微观互动动力。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
@@ -153,7 +153,7 @@ updated: 2026-11-02
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
 > > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
-> > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
+> > | Ozkan and Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
 
 > [!empirical-divider]
 

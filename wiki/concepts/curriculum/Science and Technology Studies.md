@@ -60,7 +60,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜指标与分类工具通过排序操作与机械客观性建构治理合法性
-> **探讨维度　统计指标与国际比较的社会建构** 关注跨国组织如何借助统计指标的程序化生产掩盖底层妥协，生产出超越地方政治争议的机械客观性与治理效能。
+> **统计指标与国际比较的社会建构** 关注跨国组织如何借助统计指标的程序化生产掩盖底层妥协，生产出超越地方政治争议的机械客观性与治理效能。
 
 > [!claim] [[Argument_Gorur_2014_Discourse|Gorur (2014)]]
 > **指标制造中的程序妥协与客观性建构** [[OECD|经济合作与发展组织]]（OECD）的《[[Education at a Glance|教育概览]]》指标实质上是政策制定者与统计专家历经激烈博弈妥协所生成的“正在制造中的科学”；通过[[International Education|国际教育]]标准分类（ISCED）等排序操作抹杀各国体制独特性，以标准化公式替代专业个人判断，使指标获得程序产生的可[[Reliability|信度]]并成为跨国治理的关键支点。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5–16)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜教育改革方案依托商业特许与逐字脚本等物质网络行使跨国治理权力
-> **探讨维度　跨国教育商业与技术规训网络** 考察循证方案如何通过商业特许专营、逐字脚本与数字记录工具突破主权国家边界，行使集权化规训并实现数据资产回收。
+> **跨国教育商业与技术规训网络** 考察循证方案如何通过商业特许专营、逐字脚本与数字记录工具突破主权国家边界，行使集权化规训并实现数据资产回收。
 
 > [!claim] [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]
 > **特许合同与逐字脚本对专业自主的技术规训** 科学技术研究视角揭示出《[[Visible Learning|可见的学习]]》跨国扩散实质上是非国家行动者依托商事特许网络实施的标准化治理；项目方借助严格的法律解约条款、精确到一字一句的工作坊脚本以及对教师课堂轶事的全面禁止，将统计[[Meta-analysis|元分析]]成果转化为工业化流水线，在维系[[Implementation Fidelity|实施忠实度]]的同时与地方民主教养传统爆发深刻冲突。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–256)]]
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Epistemic Infrastructure|认识论基础设施]]依赖分类标准与微观数据库的模块化增量缝合实现治理扩张
-> **探讨维度　基础设施的物质载体与增量缝合** 关注分类系统、标准化表单与数字数据库等隐性技术载体，如何通过模块化增量缝合在行动者网络中确立持久的制度秩序。
+> **基础设施的物质载体与增量缝合** 关注分类系统、标准化表单与数字数据库等隐性技术载体，如何通过模块化增量缝合在行动者网络中确立持久的制度秩序。
 
 > [!claim] [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]]
 > **分类标准与数据库的模块化增量缝合** 科学技术研究揭示，跨国治理体系的成型依赖分类标准与数字代码等物质载体的支撑。借鉴 Star（1999）与 Bowker and Star（1999）的基础设施社会技术理论，跨国高等教育质量保障网络依托专家中介在多边博弈中对独立模块进行持续调适，通过准则规程（[[European Standards and Guidelines|ESG]]）、注册局准入名录（[[European Quality Assurance Register for Higher Education|EQAR]]）以及高校微观底账（[[European Tertiary Education Register|ETER]]）与认证结果数据库（[[Database of External Quality Assurance Results|DEQAR]]）的模块化增量缝合（Modular Increments），逐步演进为具有自持繁殖能力的超国家治理基础设施。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 219–220, 227–228)]]

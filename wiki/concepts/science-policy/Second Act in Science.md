@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-02"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -94,7 +94,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜非典型引文轨迹受外生环境突破所驱动，具有可建模的双峰特征
-> **探讨维度　多峰引文动力学与外生范式重振** 探讨已沉寂的成熟理论如何在外部科学环境重构中实现二次繁荣。
+> **多峰引文动力学与外生范式重振** 探讨已沉寂的成熟理论如何在外部科学环境重构中实现二次繁荣。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]]
 > **二次激活可预测性命题** 王大顺与巴拉巴西基于全学科引文时序分析指出，科学共同体内部的思想演化呈现开放的动态更新特征；外部实验发现能够系统性重塑过往理论的现实解释力，通过对双峰动力学进行参数化重标度，能够形式化捕捉成果二次唤醒的微观发生轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]

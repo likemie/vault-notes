@@ -65,7 +65,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜显性讲授信源评估规则是促进多文本理解与学业成效的高增益教学[[Paradigm|范式]]
-> **探讨维度　[[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制** 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
+> **[[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制** 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
 
 > [!claim] Cartiff, B. M.
 > **显性信源评估教学的高效应红利** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，教学框架对学业表现展现出显著的调节作用。以显性讲授信源评估为核心框架的[[Intervention Research\|干预研究]]（如 Mason et al., 2014）录得了高达 $d = 0.800$ 的大效应量，与[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）共同位列六类教学框架之首。实证表明，单纯让学生沉浸于海量网络信息进行自由探索，极易导致认知超载与盲从表面权威；相反，当教师明确示范并提供具体的信源查验清单（检查撰写者资历、核实发布机构意图、寻找数据支撑）时，学生能迅速掌握可操作的批判性[[Scaffolding\|脚手架]]，将抽象的怀疑态度转化为有条理的跨文本分析，显著提升深层学业表现。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜信源评估是将外在教学支架转化为深层[[Source of Knowledge|知识来源]]信念的关键桥梁
-> **探讨维度　策略练习与[[Epistemological Beliefs\|认识论信念]]重塑的动力学机制** 探讨具体的阅读与评估行为如何推动学生底层认知结构的质变。
+> **策略练习与[[Epistemological Beliefs\|认识论信念]]重塑的动力学机制** 探讨具体的阅读与评估行为如何推动学生底层认知结构的质变。
 
 > [!claim] Bråten, I.
 > **认知行为反哺信念成熟假说** 伊瓦尔·布拉滕（Ivar Bråten）等学者指出，个体的认识论信念是深度内嵌于具体的[[Problem Solving\|问题解决]]与阅读行为中，有别于仅通过哲学说教发生转变。信源评估教学迫使学习者直面不同权威之间的观点对立与证据冲突，粉碎了“权威天然代表绝对真理”的朴素绝对主义观念。通过日复一日对信源资质、立场与证据力度的系统审验，学习者逐步确立起“知识是由不同主体在特定情境中基于证据建构”的成熟[[Source of Knowledge\|知识来源]]信念，实现了从被动的信息接收者向审慎的理性评价者的本质飞跃。
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜生成式 AI 交互重构了信源评估的认知对象，要求从单一网页核查升级为算法输出背后的[[Document|文献]]溯源与权威对照
-> **探讨维度　智能时代信源评估客体演化维度** 探讨大语言模型如何遮蔽[[Primary and Secondary Documents|原始文献]]出处，以及学习者如何通过显性提问提示语对 AI 展开二手信源审问。
+> **智能时代信源评估客体演化维度** 探讨大语言模型如何遮蔽[[Primary and Secondary Documents|原始文献]]出处，以及学习者如何通过显性提问提示语对 AI 展开二手信源审问。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
 > **[[Man-Computer Symbiosis|人机协同]]中的第二手信源审验与权威共识对照机制** [[Generative Artificial Intelligence|生成式人工智能]]是通过统计模型重组互联网数据的第二手信息中介，有别于一手[[Knowledge Production|知识生产]]者。在利用 GenAI 建构[[Scientific Explanation|科学解释]]时，初中生在显性反思提问提示语（如“这与课本一致吗”、“谁支持该观点”）引导下，系统展开针对 AI 输出的二手信源评估（Second-hand Source Evaluation）：

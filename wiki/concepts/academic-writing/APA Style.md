@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] APA Style
@@ -171,7 +171,7 @@ APA 格式对学术文章不同章节的动词时态与语态提出了明确的�
 ---
 
 > [!concept-proposition] 命题一｜格式规范通过降低外在认知负荷使读者聚焦实质学术内容
-> **探讨维度　认知负荷与学术传播效率** 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
+> **认知负荷与学术传播效率** 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
 
 > [!claim] Creswell & Creswell
 > **降低认知负荷** APA 格式的核心目的是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中，有别于[[Red Tape|繁文缛节]]或装饰性排版。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
@@ -179,7 +179,7 @@ APA 格式对学术文章不同章节的动词时态与语态提出了明确的�
 ---
 
 > [!concept-proposition] 命题二｜包容性语言规范推动了学术[[Knowledge Production|知识生产]]中的伦理自觉与平等建构
-> **探讨维度　[[Linguistic Turn\|语言学转向]]与学术伦理** 探讨学术写作格式如何通过语言表述规则塑造学术共同体的包容性价值观。
+> **[[Linguistic Turn\|语言学转向]]与学术伦理** 探讨学术写作格式如何通过语言表述规则塑造学术共同体的包容性价值观。
 
 > [!claim] American Psychological Association
 > **伦理与语言包容性** 学术语言不仅反映现实，也在建构社会权力关系。通过在格式规范中制度化确立单数 they、人本语言及去标签化规则，APA 格式促使研究者在[[Literature Review\|文献综述]]、数据采集与结果报告中保持对边缘群体的伦理敏感性，避免在[[Knowledge Production\|知识生产]]中复制历史偏见与刻板印象。

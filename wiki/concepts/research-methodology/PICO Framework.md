@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜PICO 准入契合度是[[Meta-meta-analysis|二阶元分析]]因果推论效度与[[Effect Size|效应量]]可比性的首要方法论门禁
-> **探讨维度　概念同质性与因果推论基础** 探讨为何在更高层级进行定量汇总时，必须对底层纳入研究的 PICO 四要素实施严格对齐，防止因果解释发生系统性失真。
+> **概念同质性与因果推论基础** 探讨为何在更高层级进行定量汇总时，必须对底层纳入研究的 PICO 四要素实施严格对齐，防止因果解释发生系统性失真。
 
 > [!claim] Kalmendal et al.
 > **PICO 契合性作为[[Research Synthesis|证据综合]]的前置有效性门槛** 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，[[Effect Size|效应量]]（[[Effect Size]]）不能脱离产生它的具体情境而孤立存在。若二阶综合在定义特定教育影响因素时未严格执行 PICO 筛选，将不同学段人群（如大学生与幼儿）、不同性质干预、以及非同质对照条件粗暴合并，所得综合效应量将丧失明确的统计与现实解释意义。缺乏严格 PICO 守门的宏观综合不能作为教育政策制定与教学实践的可靠依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–8, 14–15)]]
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜将替代干预对比与常规对照基线混为一谈会导致二阶综合效应量产生严重的方向性误导
-> **探讨维度　对照基线（Comparison）[[Heterogeneity|异质性]]与因果解释扭曲** 剖析对照组性质对效应量计算与排名的决定性作用，揭示混同两类对照条件引发的因果误读。
+> **对照基线（Comparison）[[Heterogeneity|异质性]]与因果解释扭曲** 剖析对照组性质对效应量计算与排名的决定性作用，揭示混同两类对照条件引发的因果误读。
 
 > [!claim] Kalmendal et al.
 > **比较基线异质性引发的效应量虚低误导** 在教育干预实证研究中，干预措施若与另一个同样高度有效的创新干预进行直接头对头对比（Head-to-head / Active Comparison），所得组间效应量必然接近于零；但若与“常规教学”或无干预空白对照相比，其实质效果可能极大。二阶元综合若未能识别对照条件的性质差异，将两类完全不同的比较结果直接混合平均，将把极其有效的干预错误贬低为“无效或低效”，从而彻底误导一线教学决策与公共预算资源配置。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8, 15)]]

@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -151,7 +151,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜精神科学确立人文阐释与生命体验理解作为区别于自然科学因果说明的独立[[Epistemology|认识论]]合法性
-> **探讨维度　[[Epistemology|认识论]]划界与学科自主性维度** 阐明精神科学如何打破自然科学一元论的垄断，确立人文社会现象研究独特的知识合法性与解释学法则。
+> **[[Epistemology|认识论]]划界与学科自主性维度** 阐明精神科学如何打破自然科学一元论的垄断，确立人文社会现象研究独特的知识合法性与解释学法则。
 
 > [!claim] [[Wilhelm Dilthey|Dilthey, W.]]
 > **自然与精神生活的认识论划界** 狄尔泰论证指出，自然科学面对的是外在物理事实，其目标在于通过数学与实验建立普遍因果规律以说明（*Erklären*）现象；而精神科学面对的是由人类内在生命体验、价值判断与精神创造构成的生活世界，其核心旨趣在于通过对客观精神表达的解释学循环达到内在理解（*Verstehen*）。精神科学的研究客体是不可还原为物理粒子的历史-社会现实，必须拥有独立的认识论原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89)]]；引自 Dilthey (1883)
@@ -162,7 +162,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜精神科学传统将比较教育学构筑为探寻深层文化精神与历史因素的人文阐释学科
-> **探讨维度　学科经典[[Paradigm|范式]]与文化有机论维度** 探讨 20 世纪上半叶古典学者如何借助精神科学视野，将跨国教育比较从表层校本描述升华为深层文化与政体关系的学术体系。
+> **学科经典[[Paradigm|范式]]与文化有机论维度** 探讨 20 世纪上半叶古典学者如何借助精神科学视野，将跨国教育比较从表层校本描述升华为深层文化与政体关系的学术体系。
 
 > [!claim] [[Michael Sadler|Sadler, M.]]
 > **探寻学校门外[[Intangible Spiritual Forces|无形精神力量]]与设身处地同情理解** 萨德勒确立了文化情境分析公理：教育深嵌于广阔的社会文化生态之中，决定学校成败的根本动因深藏于家庭、社区、历史信仰等不可捉摸的精神力量（*intangible spiritual forces*）之中，学校制度仅是这一整体文化生命的外在显现。研究外国教育体系必须摒弃民族优越感，采取设身处地的同情理解态度，将民族国家教育体系作为文化有机整体加以考察。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
@@ -176,7 +176,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Positivism|实证主义]]对精神科学的驱逐催生了[[Empiricism|唯方法论主义]]并导致比较教育学陷入[[Historical Amnesia|历史健忘症]]危机
-> **探讨维度　方法论主义批判与学科危机诊断维度** 揭示二战后实证科学化运动放逐精神科学传统所付出的认识论代价，诊断当代学科因丢失历史而面临的认识论贫困。
+> **方法论主义批判与学科危机诊断维度** 揭示二战后实证科学化运动放逐精神科学传统所付出的认识论代价，诊断当代学科因丢失历史而面临的认识论贫困。
 
 > [!claim] Barber, B. and Kazamias, A. M.
 > **[[Empiricism|唯方法论主义]]对实证科学神话的实质性解构** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯深刻指出，战后英美比较教育学掀起的实证运动陷入了严重的唯方法论主义（Methodologism）。该倾向错误地预设存在通行一切领域的单一通用方法，以为只要采用[[Multiple Regression|多元回归]]、[[Variable|变量]][[Operationalization|操作化]]与[[Questionnaire|问卷调查]]就能自动产出科学真理。唯方法论主义将技术工具误当成实质知识，彻底剥离了教育背后的历史文化根基与道德伦理关怀，使研究退化为服务于国家规划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]

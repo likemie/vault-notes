@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-01"
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-01
 ---
 
 > [!concept-proposition] 命题一｜学术引文网络存在分段激活机制，7 次被引是马太效应开启的客观门槛
-> **探讨维度　优先连接的微观临界转换** 探讨成果获引速率如何从低被引随机状态切换至线性优先连接状态。
+> **优先连接的微观临界转换** 探讨成果获引速率如何从低被引随机状态切换至线性优先连接状态。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Eom & Fortunato (2011)]]
 > **初始吸引力参数与分段状态转换实证** 严希范与桑托·福图纳托基于大规模物理学引文网络实测不同被引区间的年度获引速率，证实成果在累积被引跨越 $c_0 \approx 7$ 之前，获引速率几乎与既有被引无关，呈现平台期特征；唯有越过 7 次被引的临界门槛后，优先连接的正反馈才全面启动，获引速率转为严格线性正比于累积被引（图 A2-1）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]

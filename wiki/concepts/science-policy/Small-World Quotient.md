@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜协作网络小世界参数与团队绩效呈现倒 U 形非线性规律
-> **探讨维度　宏观网络拓扑对微观团队创新的非线性调控** 检验网络连通度与凝聚力对团队[[Creativity|创造力]]的复杂非线性作用。
+> **宏观网络拓扑对微观团队创新的非线性调控** 检验网络连通度与凝聚力对团队[[Creativity|创造力]]的复杂非线性作用。
 
 > [!claim] [[Brian Uzzi|Uzzi, B.]] & Spiro, J.
 > **倒 U 形最优小世界区间** 分析百老汇音乐剧创作团队与跨学科[[Coauthorship Network|科学合著网络]]证实，小世界商数 $W$ 与团队商业成功及原创评分呈现显著倒 U 形关系；适度 $W$ 水平最能兼顾团队内部信任默契与跨界异质知识输入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]

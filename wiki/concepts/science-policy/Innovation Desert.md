@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Market Triumphalism|市场必胜论]]与[[Technological Escapism|技术逃避主义]]诱导科技产业脱离硬核公共治理责任
-> **探讨维度　科技产业的公共避让与外部性缺失** 探讨科技界将资源过度集中于[[Consumer Internet|消费互联网]]、逃避复杂政治责任的内在动因及其对社会治理造成的系统性技术贫困。
+> **科技产业的公共避让与外部性缺失** 探讨科技界将资源过度集中于[[Consumer Internet|消费互联网]]、逃避复杂政治责任的内在动因及其对社会治理造成的系统性技术贫困。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **科技精英向消费级轻应用退缩导致公共荒漠化** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，当代硅谷企业出于对政治争议与公众苛责的恐惧，在道德不可知论与[[Market Triumphalism|市场必胜论]]的主导下，将数百亿美元资本与顶尖智力深锁于在线游戏、折扣聚合、打车外卖等日常消费琐事中；科技界发现服务普通消费者远比服务复杂的公共部门更赚钱、更安全，主动放弃了对国家安全、城市治安、教育与医疗等硬核公共工程的智力支持，直接催生了大面积的创新荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–10, 14–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
@@ -163,7 +163,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜政客避险推责与特权阶层的[[Luxury Belief|炫耀性信念]]构筑了抵制技术拯救生命的制度性防御
-> **探讨维度　政治避险、道德表演与制度防御** 分析政府官员与文化精英如何借未知风险之名推卸治理责任，将前沿治安与民生软件阻绝于体制之外。
+> **政治避险、道德表演与制度防御** 分析政府官员与文化精英如何借未知风险之名推卸治理责任，将前沿治安与民生软件阻绝于体制之外。
 
 > [!claim] Karp, A. C., & Zamiska, N. W.
 > **公关避险与[[Luxury Belief|炫耀性信念]]阻断公共技术应用** 卡普与扎米斯卡论证指出，全美创新荒漠的固化是政客推卸责任与企业公关避险共同作用的结果。建制派政客在严重的暴力犯罪面前采取耸肩不作为态度，向科技界释放“切勿涉足”的明确警告；大科技企业则以公关辞令关停警用算法以迎合舆论。这种由特权阶层倡导的[[Luxury Belief|炫耀性信念]]将全部道德义愤倾泻在新型技术本身，却对每年数以万计底层平民遭受暴力侵害表现出令人震惊的冷漠，使关键公共部门与现代技术生态彻底断绝。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–177)]]
@@ -171,7 +171,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜消除创新荒漠依赖于在公共部门重塑崇尚实战成果的[[Founder Culture|创始人文化]]与所有权社会
-> **探讨维度　组织再造与责任担当机制** 阐明消除技术荒漠不仅仅是采办商业软件，是必须对公共部门的[[Organizational Culture|组织文化]]和问责机制进行深层工程化改造。
+> **组织再造与责任担当机制** 阐明消除技术荒漠不仅仅是采办商业软件，是必须对公共部门的[[Organizational Culture|组织文化]]和问责机制进行深层工程化改造。
 
 > [!claim] Karp, A. C., & Zamiska, N. W.
 > **引入[[Founder Culture|创始人文化]]与所有权社会再造公共治理机制** 卡普与扎米斯卡提出，彻底消灭创新荒漠的关键在于公共部门必须吸纳硅谷文化中最核心的工程价值观——以切实改善人民生活质量（减少饥饿、犯罪与疾病）为唯一衡量准绳，在政府治理中引入权责对称的“创始人文化”（Founder Culture）与“所有权社会”（Ownership Society）。绝不把领导权交给那些对自身成败没有任何切身利益担当的人，唯有让掌管关键公共机构的决策者承担直接实战成败责任，才能打破官僚与文化阻隔，重建[[Technological Republic|技术共和国]]的治理根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11, 14–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
@@ -179,7 +179,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜公共部门薪酬倒挂与[[Procedural Piety|程序虔敬]]构成了固化创新荒漠的深层制度壁垒
-> **探讨维度　公共[[Human Capital Theory|人力资本]]激励与官僚避责病理维度** 探讨公共机构为何不仅在技术采办上面临阻碍，更因制度性薪酬抑制与[[Procedural Piety|程序虔敬]]道德审查导致顶尖创新与治理人才流失。
+> **公共[[Human Capital Theory|人力资本]]激励与官僚避责病理维度** 探讨公共机构为何不仅在技术采办上面临阻碍，更因制度性薪酬抑制与[[Procedural Piety|程序虔敬]]道德审查导致顶尖创新与治理人才流失。
 
 > [!claim] [[Lee Kuan Yew|Lee, K. Y.]], Rickover, H., & [[Alexander Karp|Karp, A. C.]]
 > **公共激励匮乏与程序虔敬固化荒漠断言** 亚历山大·卡普与尼古拉斯·扎米斯卡结合李光耀（[[Lee Kuan Yew]]）的新加坡薪酬改革与[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover]]）的核潜艇遭遇指出：

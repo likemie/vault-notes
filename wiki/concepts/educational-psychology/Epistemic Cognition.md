@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-11-03
 ---
 （[[Epistemology|认识论]]认知）
 
@@ -155,7 +155,7 @@ updated: 2026-10-29
 ## 理论主张与核心命题
 
 > [!concept-proposition] 命题一｜[[Epistemology|认识论]]认知不再是脱域的稳定特质，而是高度依赖情境的动态微观资源库
-> **探讨维度　理论模型的微观构成与结构假设** 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
+> **理论模型的微观构成与结构假设** 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
 
 > [!claim] Chinn, C.
 > **扩展五组件框架** 认识论认知是由五个高度情境化的组件构成的微观网络：
@@ -174,7 +174,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题二｜认识论认知的实证预测效力绝对依赖于测量颗粒度的对齐与工具[[Reliability|信度]]
-> **探讨维度　认识论认知的实证方法论法则** 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
+> **认识论认知的实证方法论法则** 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
 
 > [!claim] Greene, J.
 > **[[Measurement Alignment\|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
@@ -189,7 +189,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题三｜认识论认知在学科论证中展现为目标、理想与[[Reliable Epistemic Processes|可靠过程]]三元架构的实质协调
-> **探讨维度　论证评价中认识论认知的实践具身与学科实质维度** 探究认识论认知在[[Authentic Science Practices|真实科学探究]]任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
+> **论证评价中认识论认知的实践具身与学科实质维度** 探究认识论认知在[[Authentic Science Practices|真实科学探究]]任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
 > **[[AIR Model of Epistemic Cognition\|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency\|认识主体性]]的核心杠杆。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
@@ -197,7 +197,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题四｜人工智能中介环境中认识论认知表现为[[Epistemic Stances|适应性认识立场]]的动态调适与双轨支架干预响应
-> **探讨维度　[[Man-Computer Symbiosis|人机共生]]认识论与干预机制** 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
+> **[[Man-Computer Symbiosis|人机共生]]认识论与干预机制** 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
 
 > [!claim] Wu et al.
 > **适应性认识立场的动态调适与双轨支架矩阵** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）深度介入的学习环境中，认识论认知不再仅仅是个体内隐的静态特质，而是表现为学习者在人机交互中动态调适三种[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）的高级调控能力：
@@ -258,7 +258,7 @@ updated: 2026-10-29
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
-> > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
+> > | McMullin and Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
 
 > [!empirical-divider]
 

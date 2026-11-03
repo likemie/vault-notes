@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜在做中学是促成主动探究与[[Critical Thinking|批判性思维]]生长的根本机制，而非机械试错
-> **探讨维度　教育[[Epistemology|认识论]]与[[Reflexivity|反思性]]经验重构** 解释个体认知如何从被动接受外在符号转向在真实操作反馈中发展[[Higher-Order Thinking Skills|高阶思维]]与自适应专长。
+> **教育[[Epistemology|认识论]]与[[Reflexivity|反思性]]经验重构** 解释个体认知如何从被动接受外在符号转向在真实操作反馈中发展[[Higher-Order Thinking Skills|高阶思维]]与自适应专长。
 
 > [!claim] Dewey (1961) & [[Argument_Darwish_2009_Queens|Darwish (2009)]]
 > **经验重组与心智增长的行动性路径** [[John Dewey|杜威]]指出，最先进入个体认知且留存最深的是行动知识；但“做”必须是有目的、受[[Reflective Thinking|反思性思维]]引导的智性操作。通过构建真实问题情境（如自主设计并制造一台可投射的投石机），学习者在面对材料断裂、角度偏差等真实阻碍时，自然激发了假设检验、参数微调与同伴协商，从而使经验在持续重组中实现智性增长。[[Argument_Darwish_2009_Queens|(Dewey, 1961; Darwish, 2009, pp. 35, 44)]]
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜制造良率爬坡的组织化干中学构成了高科技先发优势与产业政策补贴的核心经济学辩护
-> **探讨维度　产业经济学与动态规模报酬递增** 阐明高科技制造业为何具有强烈的[[Path Dependence|路径依赖]]，以及政府通过公共补贴分担早期生产规模积累风险的正当性。
+> **产业经济学与动态规模报酬递增** 阐明高科技制造业为何具有强烈的[[Path Dependence|路径依赖]]，以及政府通过公共补贴分担早期生产规模积累风险的正当性。
 
 > [!claim] [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]
 > **半导体良率学习曲线与产业政策的效率假说** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，芯片制造不仅要求百亿美元级的沉没研发支出，更具有极度陡峭的干中学学习曲线。新一代尖端制程在刚投产时良率往往极低（甚至不足 20%），企业唯有通过连续大规模生产才能暴露出微观工艺缺陷并完成良率爬坡。这一机制意味着先发扩大产能的企业能以最快速度降低平均成本并挤垮对手。由于早期高缺陷率造成的亏损构成了巨大的私人投资壁垒，政府动用直接采购或建厂补贴支持本土企业承担早期规模化风险，在经济学上具备纠正[[Market Failure|市场失灵]]、培育动态比较优势的理论正当性。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 102)]]
@@ -138,7 +138,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜首发采购作为干中学孵化器：国防采购驱动[[General Purpose Technology|通用技术]]跨越商业化成本门槛
-> **探讨维度　创新经济学与需求侧采购孵化** 解释政府首发采购如何通过垫付高额早期溢价，帮助新兴技术供应商在真实应用场景中完成工艺排障与规模累积，使原本昂贵的尖端产品快速降价并外溢至民用市场。
+> **创新经济学与需求侧采购孵化** 解释政府首发采购如何通过垫付高额早期溢价，帮助新兴技术供应商在真实应用场景中完成工艺排障与规模累积，使原本昂贵的尖端产品快速降价并外溢至民用市场。
 
 > [!claim] [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]]
 > **军方首发采购作为学习曲线加速器** 基拉·法布里齐奥（Kira R. Fabrizio）与戴维·莫厄里（[[David C. Mowery]]）指出，战后[[Department of Defense|美国国防部]]（DoD）的集成电路（Integrated Circuit, IC）与计算机采购实质上扮演了“规模学习孵化器”的角色。在技术问世初期，民用市场无法承受集成电路极高的初始价格与不可靠的工艺良率；军方通过导弹制导系统（如“民兵”导弹）的大额首发订单，不仅为供应商提供了不计早期亏损的规模化试验场景，更强制要求推行第二供应商（[[Second-Sourcing]]）制度以共享制造诀窍。大批量军工生产使供应商得以在持续制造中排查晶圆缺陷，驱动芯片单位价格从 1962 年的 32 美元断崖式下跌至 1968 年的不足 2 美元。这一干中学过程使集成电路迅速突破民用商业化盈亏平衡点，外溢成为全行业[[General Purpose Technology|通用技术]]（[[General Purpose Technology]]）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
@@ -149,7 +149,7 @@ updated: 2026-11-02
 > *"Military procurement played a critical role in facilitating the improvements in manufacturing yields and reductions in production costs (i.e. 'learning by doing') that were essential to the commercial adoption of integrated circuits... Military demand provided a testing ground and scale economies at a time when civilian demand was nascent."*
 
 > [!concept-proposition] 命题四｜车间现场的干中学与工艺改良构成[[National Innovation System|国家创新系统]]的微观基石，无法被线性研发核算替代
-> **探讨维度　创新经济学与非线性组织学习** 阐明创新知识不仅产生于正规研发实验室，更内生于车间现场一线技工与工程师的干中学、逆向工程与试错改良过程。
+> **创新经济学与非线性组织学习** 阐明创新知识不仅产生于正规研发实验室，更内生于车间现场一线技工与工程师的干中学、逆向工程与试错改良过程。
 
 > [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
 > **车间现场干中学与生产工程的非线性价值** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，传统的研发统计与科学推动模型（如《[[Frascati Manual|弗拉斯卡蒂手册]]》指标）存在严重盲区：它们仅统计正规实验室中的专业研发人员与研发支出，却系统性忽略了车间生产现场的干中学、技术改良、工装设计与一线排障。战后日本制造业的崛起与德国历史上的[[Technological Catch-up|技术赶超]]表明，在制造现场持续开展干中学、将一线普通工人与技术人员组织为质量改进圈（QC 圈）并与用户需求形成密集双向反馈，是产业获得动态[[Competitiveness|竞争力]]的核心根源；相反，前苏联即便拥有庞大的科研院所与高额研发投入，但因科研与车间生产脱节、工人缺乏现场干中学与试错改良的微观机制，导致技术创新陷入僵化。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
@@ -162,7 +162,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜产业战略实施依托干中学形成自适应政策纠偏机制以规避官僚僵化与执行脱轨
-> **探讨维度　公共治理与政策过程的演化调整** 阐明产业政策是依赖执行中的“干中学”持续吸收新信息并自适应修正规则的动态解决问题过程，有别于单向指定赢家的静态规划方案。
+> **公共治理与政策过程的演化调整** 阐明产业政策是依赖执行中的“干中学”持续吸收新信息并自适应修正规则的动态解决问题过程，有别于单向指定赢家的静态规划方案。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **依托干中学的动态弹性与规制学习** 伊丽莎白·雷诺兹（Elisabeth B. Reynolds）指出，21 世纪现代产业战略的成败高度取决于“如何实施”（How），其中核心过程准则之一便是“依托干中学的动态弹性”（Flexibility through Learning by Doing）。大规模公共投资在进入落地阶段后必然面临未曾预料的结构性瓶颈（如电网互联排队积压、环境许可审查繁琐及本土零部件产能爬坡迟缓）。健全的产业战略治理架构要求行政部门将政策执行视为持续探索与解决问题的动态过程，在干中学中敏捷吸收产业反馈并推行自适应改革（如联邦能源监管委员会 2023 年电网互联改革条例、白宫美国制造办公室对电动汽车充电桩的阶段性豁免机制），从而在保持科层独立性的同时实现政策纠偏与平稳落地。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 13–14)]]

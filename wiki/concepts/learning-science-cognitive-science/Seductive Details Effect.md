@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜诱人细节效应的干扰强度受学习者[[Meta-Representational Competence|元表征能力]]与认知成熟度的显著调节
-> **探讨维度　年龄发展与抗干扰门槛** 小学生尚未发展出成熟的[[Meta-Representational Competence\|元表征能力]]，对视觉装饰信息的过滤与选择性注意调控较弱，因而最易遭受诱人细节的负面干扰。
+> **年龄发展与抗干扰门槛** 小学生尚未发展出成熟的[[Meta-Representational Competence\|元表征能力]]，对视觉装饰信息的过滤与选择性注意调控较弱，因而最易遭受诱人细节的负面干扰。
 
 > [!claim] Rowland-Bryant et al.; Lei, Ding & Chiu
 > **学段发展与诱人细节敏感性** 在[[Graphic Organizer\|图形组织器]]促学效应的[[Meta-analysis\|元分析]]中，小学生[[Higher-Order Thinking Skills\|高阶思维]]获益（$g = 0.877$）显著低于中学生（$g = 1.113, W = 6.10, p = .014$）。这一现象的核心解释之一即为小学生在面对带有丰富图像与色彩的视觉图示时，难以抑制诱人细节效应的干扰，无法精准聚焦于节点间的语义逻辑连线；而中学生具备更强的主动过滤与图式抽象能力，能最大化榨取空间表征的认知红利。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]

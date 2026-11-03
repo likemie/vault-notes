@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -128,7 +128,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜非教育专门机构依靠外延性使命[[Discourse|话语]]重构了全球教育治理格局
-> **探讨维度　机构跨界与使命扩张** 探讨原本服务于经济与地缘协调的国际组织如何成功确立在教育政策领域的权威统治地位。
+> **机构跨界与使命扩张** 探讨原本服务于经济与地缘协调的国际组织如何成功确立在教育政策领域的权威统治地位。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **教育从专门领域向综合治理工具的异化** 自 20 世纪 60 年代末以来，大量原本并无教育政策法定授权的国际组织相继在其政策组合中开辟教育板块；这些机构通过将教育锚定于经济增长、和平稳定、可持续发展或全球[[Knowledge-Based Economy\|知识经济]]等工具性使命，成功为自身介入教育事务赋予正当性，最终导致以经济合作为导向的机构占据了全球教育治理中枢的主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜全球治理复合体依靠指标武器化维系远距离跨国规制
-> **探讨维度　量化工具与软性问责** 分析复合体如何在缺乏强制制裁权的情境下，通过数据技术维持对主权国家的有效调控。
+> **量化工具与软性问责** 分析复合体如何在缺乏强制制裁权的情境下，通过数据技术维持对主权国家的有效调控。
 
 > [!claim] Ydesen (2019); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的表现指标转化为问责手段，诱发国际排名与“[[Naming and Shaming in Education Governance|点名羞辱]]”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 539, 549)]]
@@ -144,7 +144,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜跨国治理复合体在多边协同修辞掩护下演化出排他性权力同盟与利基割据
-> **探讨维度　组织利基与战略割据** 剖析国际组织在表面多边协作修辞下如何通过组建排他性联盟争夺全球规制领导权。
+> **组织利基与战略割据** 剖析国际组织在表面多边协作修辞下如何通过组建排他性联盟争夺全球规制领导权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **公开平台协作与私下排他联盟的双重结构** 复合体内部各大组织在公开报告中普遍使用高度趋同的中介修辞（如强调推进[[UN Sustainable Development Goals\|可持续发展目标]]、提炼政策洞见），并在数字平台上提供开放数据与研讨资源；然而在争夺核心规制主导权与外部资助时，各大机构表现出强烈的排他性割据倾向——[[World Bank\|世界银行]]联合美英援助机构成立[[Building Evidence in Education\|构建教育证据联盟]]（BE2），[[UNESCO\|联合国教科文组织]]与[[UNICEF\|儿童基金会]]则另立[[Learning Data Compact\|学习数据协定]]，彼此在组织利基上形成严密防范与正面竞争。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]

@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜显性[[Epistemology|认识论]]支架通过外显化学科认识论规范赋能学习者参与[[Authentic Science Practices|真实科学探究]]与主张辩护
-> **探讨维度　学科[[Epistemology\|认识论]]外显化与探究参与维度** 该命题探讨如何克服传统科学探究中评价准则内隐化所导致的盲目试错，确立显性学科标准作为学习者高阶认知支柱的机制。
+> **学科[[Epistemology\|认识论]]外显化与探究参与维度** 该命题探讨如何克服传统科学探究中评价准则内隐化所导致的盲目试错，确立显性学科标准作为学习者高阶认知支柱的机制。
 
 > [!claim] Lin & Puntambekar
 > **认识论规范显性化对高阶探究实践的奠基机制** 科学探究的核心难点不仅在于操作步骤，更在于学习者往往缺乏评估证据与协调主张的学科认识论准则。显性认识论支架通过在计算机支持的[[Collaborative Learning|协作学习]]环境中将科学论证与证据评价的隐性规则转化为可感知的[[Scaffolding\|脚手架]]，能够显著降低学习者的元认识论负荷，使学生能够聚焦于科学证据的因果协调与模型修正。[[Argument_Han_Gutierez_2026_IJSE\|(Lin & Puntambekar, 2019; Barzilai et al., 2020, 引自 Han & Gutierez, 2026, p. 4)]]
@@ -113,7 +113,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜学科标准与反思提示语构成的双轨支架在[[Man-Computer Symbiosis|人机协同]]中实现对算法内容、信源与理解状态的协同监控
-> **探讨维度　[[Man-Computer Symbiosis|人机共生]]学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度** 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]深度介入科学探究的情境，阐明单一支架的局限以及标准与提问双轨协同驱动全面认知审验的内在逻辑。
+> **[[Man-Computer Symbiosis|人机共生]]学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度** 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]深度介入科学探究的情境，阐明单一支架的局限以及标准与提问双轨协同驱动全面认知审验的内在逻辑。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
 > **学科标准与反思提问双轨支架对三维认识论警觉的互补驱动** 在利用生成式人工智能建构[[Scientific Explanation\|科学解释]]时，单一形式的支架难以应对多模态算法输出的复杂性：

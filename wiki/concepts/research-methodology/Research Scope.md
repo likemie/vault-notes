@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-20
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜研究课题窄化通向操作严谨性且窄聚焦并不导致浅薄
-> **探讨维度　课题可管理性与方法严谨性的内在关联** 探讨研究规模收窄如何充当保障研究质量与严谨性的首要方法论纪律，以及小样本研究如何实现理论[[Rich and Thick Description|深描]]。
+> **课题可管理性与方法严谨性的内在关联** 探讨研究规模收窄如何充当保障研究质量与严谨性的首要方法论纪律，以及小样本研究如何实现理论[[Rich and Thick Description|深描]]。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011)]] / Hopkins (1985)
 > **课题可管理性作为严谨性的先决前提** 科恩、[[Lawrence Manion|马尼恩]]与[[Keith Morrison|莫里森]]强调，选择和执行一项研究的首要专业纪律，在于将其收窄到可管理且可研究的比例（Hopkins, 1985, p. 47）。方法的严谨性（[[Fitness for Purpose|目的适配性]]与[[Reliability|信度]]保障）只有在被紧密界定的课题中才能扎实嵌入。课题过于宏大必然导致执行失控，执行失控则无法保证研究严谨性，最终导致研究彻底落空。与此同时，小样本和窄聚焦的研究不仅不会损害研究品质，反倒能催生最具颠覆性的学术贡献：研究对象边界越审慎清晰，越能实现研究的纵深剖析而非浮皮潦草，深层理论理解恰恰诞生于对细微现象的穷尽探究之中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜研究范围由微观个案向宏观全景扩展检验实证规律的尺度不变性
-> **探讨维度　分析尺度与经验概括效度** 考察将范围限定于局部样本或单刊档案的微观发现在扩展至跨学科宏观总体时能否保持规律自洽。
+> **分析尺度与经验概括效度** 考察将范围限定于局部样本或单刊档案的微观发现在扩展至跨学科宏观总体时能否保持规律自洽。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] / Price (1961)
 > **从微观载体向宏观总体扩展范围以验证增长定律** 普莱斯（Price, 1961）的研究表明，严谨的研究范围界定不仅用于微观课题的落地操作，还体现在多阶段研究中审慎推演分析边界：他首先在书房内以[[The Royal Society|英国皇家学会]]单刊合订本为狭窄研究范围，精确测算出 15 年翻倍的增长节奏；随后他将研究范围拓展至全球期刊清单、科研队伍规模及《物理学文摘》（*Physics Abstracts*），进而确立了科学[[Document|文献]]与研发人力普遍遵从指数增长的宏观通则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, pp. 161–164)]]

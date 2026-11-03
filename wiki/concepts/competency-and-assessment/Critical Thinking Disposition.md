@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Critical Thinking|批判性思维]]倾向可通过明确教学干预显著培育
-> **探讨维度　可教性与干预效能维度** 探讨思维倾向是否仅为不可更改的性格特质，抑或能在学校教育与系统训练中被有效塑造。
+> **可教性与干预效能维度** 探讨思维倾向是否仅为不可更改的性格特质，抑或能在学校教育与系统训练中被有效塑造。
 
 > [!claim] Abrami et al.
 > **思维倾向的实证可塑性与干预增益** 针对 25 项真实验与准[[Experimental Research|实验研究]]的[[Meta-analysis|元分析]]证实，教学干预能够显著提升学习者的[[Critical Thinking|批判性思维]]倾向（$g+ = 0.23, 95\%\text{ CI } [0.06, 0.40], p < .001$）。出版偏倚检验显示结果稳健，从统计学上确证了批判精神与理性习性是可通过教学实践获得实质塑造，有别于纯粹先天禀赋。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 296–297)]]
@@ -131,7 +131,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜导师指导在培育批判性思维倾向中发挥最核心的催化塑造功能
-> **探讨维度　教学策略与情意[[Habitus|习性]]养成机制维度** 探讨不同微观教学策略在塑造思维态度与心智习性时的差异化效能。
+> **教学策略与情意[[Habitus|习性]]养成机制维度** 探讨不同微观教学策略在塑造思维态度与心智习性时的差异化效能。
 
 > [!claim] Abrami et al.
 > **[[Mentorship|导师制]]对思维倾向的峰值促进作用** 对比不同教学策略对思维倾向的培养效果发现：单纯的对话策略获得 $g+ = 0.27$（$k = 12$），[[Authentic Instruction|真实性教学]]获得 $g+ = 0.29$（$k = 8$），而**融入[[Mentorship|导师制]]（Mentoring）的教学干预获得了最高的效果量（$g+ = 0.38, k = 5$）**。机制在于批判性思维倾向本质上是一种态度认同与实践习性，导师通过身体力行地展示面对错误时的智识[[Humility|谦逊]]、对复杂问题的求知执着以及对异见的开放包容，发挥了强有力的“榜样示范（Role Modeling）”功能。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 296–298)]]
@@ -139,7 +139,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜批判性思维倾向要求抵御合群从众与脆弱性文化，具备直面认知不适与反教条实验精神
-> **探讨维度　心理韧性、反从众与工程[[Epistemology|认识论]]维度** 探讨个体如何在现实组织与文化压力中保持批判精神，抵御过度保护主观脆弱性所带来的认知退化。
+> **心理韧性、反从众与工程[[Epistemology|认识论]]维度** 探讨个体如何在现实组织与文化压力中保持批判精神，抵御过度保护主观脆弱性所带来的认知退化。
 
 > [!claim] Friedman, R. A.; [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **直面认知不适与抵御脆弱性文化** 理查德·弗里德曼（Richard Alan Friedman）与卡普、扎米斯卡指出，过度迎合个体主观脆弱性（如高校滥用“触发预警 / Trigger Warnings”将课堂不适体验夸大为实质伤害）正在催生脆弱的“受害抱怨机制”，严重削弱学习者的心理韧性与批判性面对异见的勇气；真正的批判性思维倾向要求个体具备在不适中保持审慎理性与分寸感（Sense of Proportion）的精神强度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–157)]]

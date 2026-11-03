@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜单盲评审机制赋予高声望机构学者显著的超额录用因果优势
-> **探讨维度　[[Randomised Controlled Trials|随机对照实验]]确证声望偏倚[[Causality|因果性]]** 探讨[[Blinding|盲法]]控制如何消除不可观测混淆[[Variable|变量]]并揭示[[Scientific Credit|学术承认]]的体制特权。
+> **[[Randomised Controlled Trials|随机对照实验]]确证声望偏倚[[Causality|因果性]]** 探讨[[Blinding|盲法]]控制如何消除不可观测混淆[[Variable|变量]]并揭示[[Scientific Credit|学术承认]]的体制特权。
 
 > [!claim] Tomkins et al. (2017)
 > **单盲体制对知名学者的录用倾斜** Tomkins et al. (2017) 在网络搜索与数据挖掘顶级会议（WSDM）开展的大规模随机对照双轨实验证实，在相同投稿质量控制下，单盲轨道的评审专家对知名学者领导团队的成果评分显著高于双盲轨道；知名团队在单盲评审中的最终录用概率是双盲条件下的 1.76 倍，且来自顶尖知名学府的投稿在单盲下同样享有显著统计优势。这以严格因果试验证实单盲评审中存在强烈的正向声望溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]
@@ -93,7 +93,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜自选双盲制度反常诱发逆向选择并对边缘机构成果构成次生惩罚
-> **探讨维度　制度设计中的自选择偏误与信号博弈** 分析柔性自愿改革何以由于微观博弈演变为加剧不平等的制度陷阱。
+> **制度设计中的自选择偏误与信号博弈** 分析柔性自愿改革何以由于微观博弈演变为加剧不平等的制度陷阱。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
 > **自选双盲的逆向信号偏误** 《自然》旗下 25 种核心期刊自 2015 至 2017 年试行自选双盲的大规模实证分析表明，普通非名校机构研究人员为了抵消偏见，申请自选双盲的比例是知名机构学者的两倍以上；然而，选择双盲的成果在编辑初筛送审率与同行外审接收率上均显著落后于单盲成果。由于顶尖机构知名学者普遍选择单盲以利用声望优势，导致自选双盲在编辑与评审人心中被潜意识标记为“弱势机构规避竞争”的防御性信号，使得自愿性质的制度设计反常加剧了对边缘成果的排斥。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]

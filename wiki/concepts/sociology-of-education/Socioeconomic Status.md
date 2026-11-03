@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Socioeconomic Status
@@ -125,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜社会经济地位构成学生[[Academic Achievement|学业成就]]变异的首要来源，是教育公平政策的基础基准
-> **探讨维度　宏观社会结构对教育结果的决定性制约** 探讨社会阶层背景在全部学业方差中所占的客观比重，确立其作为教育政策效果评估不可绕过的基线地位。
+> **宏观社会结构对教育结果的决定性制约** 探讨社会阶层背景在全部学业方差中所占的客观比重，确立其作为教育政策效果评估不可绕过的基线地位。
 
 > [!claim] [[OECD]]; Snook et al.
 > **社会背景对学业技能变异的绝对主导地位** 国际大型学生评估机构与批判学者一致证实，家庭背景是塑造教育结果的最强力量：
@@ -135,7 +135,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜将社会经济地位剔除为教学调节[[Variable|变量]]催生阶级盲教学思维，掩盖底层学生的结构性劣势
-> **探讨维度　[[Technical Rationality|技术理性模型]]对阶层结构的刻意遮蔽与意识形态功能** 批判量化[[Meta-meta-analysis|元综合]]将社会阶层降格为孤立正向均值并拒绝将其作为调节[[Variable|变量]]的方法学操作，揭示其服务于[[Neo-Taylorism|新泰勒主义]]治理的技术主义本质。
+> **[[Technical Rationality|技术理性模型]]对阶层结构的刻意遮蔽与意识形态功能** 批判量化[[Meta-meta-analysis|元综合]]将社会阶层降格为孤立正向均值并拒绝将其作为调节[[Variable|变量]]的方法学操作，揭示其服务于[[Neo-Taylorism|新泰勒主义]]治理的技术主义本质。
 
 > [!claim] Nielsen & Klitmøller; Bergeron & Rivard; Wrigley
 > **正负数值转换误导与阶级盲教学思维的构建** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中对社会经济地位的处理存在严重的方法学与意识形态偏误：

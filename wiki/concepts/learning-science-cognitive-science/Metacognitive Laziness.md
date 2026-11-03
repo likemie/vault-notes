@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （[[Metacognition|元认知]]惰性）
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Generative Artificial Intelligence|生成式人工智能]]的无门槛答案生成机制旁路了学习者内部[[Metacognition|元认知监控]]的自发激活
-> **探讨维度　人机交互中的内部监控抑制** 探讨生成式 AI 作为中介工具介入学习活动时，如何通过改变信息加工形态来抑制主体的[[Metacognition\|元认知]]加工深度。
+> **人机交互中的内部监控抑制** 探讨生成式 AI 作为中介工具介入学习活动时，如何通过改变信息加工形态来抑制主体的[[Metacognition\|元认知]]加工深度。
 
 > [!claim] Fan et al.
 > **[[Cognitive Offloading\|认知外包]]对深层加工的剥离** 学习者在与大语言模型对话时，往往将原本需要内部元认知统筹的问题拆解、推理验证和逻辑重构外包给模型；尽管作文与[[Homework\|作业]]得分显著提高，但概念内化与知识迁移测试中并无增益，表明缺乏思考挑战的交互形式导致了元认知监控机制的休眠。[[Argument_Chen_Cheung_2025_ERR\|(Fan et al., 2025; 引自 Chen & Cheung, 2025, p. 4)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜外在教学与技术[[Scaffolding|脚手架]]的显性植入是打破元认知惰性并重塑[[Self-Regulated Learning|自我调节学习]]的关键前提
-> **探讨维度　外部反思干预与元认知重塑** 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型转向为思维激发型。
+> **外部反思干预与元认知重塑** 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型转向为思维激发型。
 
 > [!claim] Karaoglan Yilmaz & Yilmaz
 > **元[[Scaffolding\|认知脚手架]]的不可或缺性** 学习者在使用 AI 工具时需要更强大的[[Self-Regulated Learning\|自我调节学习]]能力以主动设定目标和评估进度；未来技术与教学设计必须强制嵌入元认知脚手架，推动 AI 从单纯的信息传输转向促进[[Cognitive Flexibility\|认知灵活性]]与自省意识。[[Argument_Chen_Cheung_2025_ERR\|(Karaoglan Yilmaz & Yilmaz, 2025; 引自 Chen & Cheung, 2025, p. 16)]]

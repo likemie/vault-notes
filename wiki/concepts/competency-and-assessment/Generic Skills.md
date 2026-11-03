@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜脱离学科[[Epistemology|认识论]]情境的通用技能测量存在深刻的[[Construct|构念]]脆弱性与跨文化水土不服
-> **探讨维度　[[Domain Specificity|领域特异性]]与文化情境制约维度** 探讨[[Higher-Order Thinking Skills|高阶思维技能]]是否能够剥离具体学科语境而被独立提取与测量，以及西方情境下开发的通用技能测评工具跨国移植时面临的效度危机。
+> **[[Domain Specificity|领域特异性]]与文化情境制约维度** 探讨[[Higher-Order Thinking Skills|高阶思维技能]]是否能够剥离具体学科语境而被独立提取与测量，以及西方情境下开发的通用技能测评工具跨国移植时面临的效度危机。
 
 > [!claim] Morgan & Shahjahan
 > **通用技能工具[[Hard Policy Transfer|硬政策转移]]的适切性危机** [[OECD|经合组织]]在研制 [[OECD AHELO Project|AHELO]] 通用技能测评时，为节省时间与成本，直接采纳了美国教育援助委员会（[[Council for Aid to Education|CAE]]）基于美国本土大学生开发的大学学习评估（[[Collegiate Learning Assessment|CLA]]）表现性任务，构成典型的硬政策转移。然而，通用技能的表现任务高度植根于特定的社会文化常识与特定语言表达[[Habitus|惯习]]，跨国翻译与本地化适应遭遇巨大困难，最终迫使研发团队增补[[Multiple-Choice Questions|多项选择题]]并推迟项目进程。这一挫折实证证明，将通用技能视作放之四海而皆准的真空特质不仅缺乏充分的知识基础支撑，更激化了跨国评价中的效度水土不服。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜通用技能是超国家组织建构全球[[Space of Equivalence|等值空间]]与推行新自由主义治理的核心技术通货
-> **探讨维度　治理技术与教育目的异化维度** 探讨跨国组织如何借由通用技能概念将高等教育质量转换为同质化可比的统计序列，服务于劳动力市场的[[Human Capital Theory|人力资本]]规训。
+> **治理技术与教育目的异化维度** 探讨跨国组织如何借由通用技能概念将高等教育质量转换为同质化可比的统计序列，服务于劳动力市场的[[Human Capital Theory|人力资本]]规训。
 
 > [!claim] Morgan & Shahjahan
 > **建构全球[[Space of Equivalence|等值空间]]与锁定评价[[Discourse|话语]]权的技术工具** 通用技能充当了经合组织将高等教育纳入跨国量化治理的关键载体。通过声称大学毕业生的核心价值在于可转移的职场通用胜任力，经合组织建构起一个独立于各国异质课程传统的“等值空间”（space of equivalence）。在这种[[Technical Rationality|技术理性]]规制下，复杂的大学育人使命被窄化为迎合全球经济竞争的通用人力资本生产，跨国组织借此在评价工具编制早期便锁定了界定何为有效教育的全球合法威权。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 199–200, 202–203)]]

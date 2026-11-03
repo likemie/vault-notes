@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Output-Oriented Governance|循证治理]][[Paradigm|范式]]促使跨国借用由政策内容拓展至评估规程
-> **探讨维度　政策搜寻深层动力** 探讨政策制定者在面对因果验证问责时，如何将海外成熟的评估工具转化为本土政策合法性的技术支撑。
+> **政策搜寻深层动力** 探讨政策制定者在面对因果验证问责时，如何将海外成熟的评估工具转化为本土政策合法性的技术支撑。
 
 > [!claim] Legrand, T.
 > **评估规程的制度化吸纳** 蒂莫西·勒格朗（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）指出，当国家确立何者有效治理准则时，政策制定者在面临紧迫执政日程时，倾向于定向搜寻拥有充沛评估数据的国家经验；此时输入的不仅是政策方案，更将海外成套的实验评估规程与专业机构直接引入本土治理结构。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]

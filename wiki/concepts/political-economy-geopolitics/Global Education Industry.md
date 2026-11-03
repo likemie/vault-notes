@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-07'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题类型一｜全球教育治理与国家课程的吸纳（Global [[Educational Governance Framework|Educational Governance]] & Curricular Absorption）
-> **探讨维度　全球教育治理的[[Discourse|话语]]转化** 这一命题群关注全球教育产业如何通过话语和政策工具渗透国家教育体制，将本具有整体性、批判性倾向的本地方言改革（如芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]）转化为符合全球资本运作所需的标准化指标。
+> **全球教育治理的[[Discourse|话语]]转化** 这一命题群关注全球教育产业如何通过话语和政策工具渗透国家教育体制，将本具有整体性、批判性倾向的本地方言改革（如芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]）转化为符合全球资本运作所需的标准化指标。
 
 > [!claim] <Parreira do Amaral, M.>
 > GEI 绝仅是商业公司提供教育产品的物质现象，更是一种话语生产。它生产出诸如“颠覆”、“创新”和“面向未来的技能”等替代性教育想象，以重塑大众对学校体制的理解，从而为私营行动者介入政策 and 替代公共管理确立合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
@@ -152,7 +152,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题类型二｜教育科技与数字教学的算法异化（EdTech & Algorithmic Alienation of Pedagogy）
-> **探讨维度　数字化与算法对教育关系的重塑** 这一命题群剖析数字教育技术（EdTech）的垄断、平台化运作以及背后的资本逻辑，分析算法技术如何将教师矮化为工具执行者，并消除地域文化多样性以推广硅谷标准的教学假设。
+> **数字化与算法对教育关系的重塑** 这一命题群剖析数字教育技术（EdTech）的垄断、平台化运作以及背后的资本逻辑，分析算法技术如何将教师矮化为工具执行者，并消除地域文化多样性以推广硅谷标准的教学假设。
 
 > [!claim] <Amos, S.>
 > 数字化之所以在 GEI 中表现出不可逆的强力扩张，是因为它受到三重利益机制的相互强化：首先是商业巨头追求的高额**利润（Profit）**；其次是由国际组织和慈善机构推动的、作为道德合法性外衣的教育**正义与平等（Justice & Equality）** 叙事；最后是教师**专业发展（Professional Development）** 对[[Learning Analytics\|学习分析]]和个性化算法的需求。三者螺旋上升，导致“去数字化”在现实中近乎不可能（[[Argument_Amos_2022_Springer\|Amos, 2022, pp. 56–57]]）。

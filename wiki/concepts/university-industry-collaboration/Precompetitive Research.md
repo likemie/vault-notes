@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜前竞争边界设定能够使直接商业竞争者在知识共享中达成合作而不侵蚀个体专有竞争优势
-> **探讨维度　合作与竞争的制度脱钩** 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
+> **合作与竞争的制度脱钩** 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
 
 > [!claim] [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]]
 > **分层度量匹配机制** 探索性[[University-Industry Collaboration|产学合作]]绝大多数属于前竞争性质，其产出的知识产权商业价值有限；对前竞争研发套用成熟商业项目的严格知识产权条款是一种制度错配，导致过度的法务谈判损耗合作信任；唯有按研究成熟度分层设立轻量审批机制，才能保障早期前竞争创新的顺畅启动。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
@@ -138,7 +138,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜高技术[[Industry Affiliate Program|产业联盟]]中的前竞争研发面临专有权保护与知识扩散的内在张力并自发向近中期通用基础设施演化
-> **探讨维度　[[Industry Affiliate Program|产业联盟]]内部的治理演化与纵向协同** 考察在高技术制造业联盟中，直接竞争对手之间的保密防范如何重构前竞争研发的技术定位与组织形态。
+> **[[Industry Affiliate Program|产业联盟]]内部的治理演化与纵向协同** 考察在高技术制造业联盟中，直接竞争对手之间的保密防范如何重构前竞争研发的技术定位与组织形态。
 
 > [!claim] [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]
 > **专有权张力与纵向协同转向** [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 与欧洲 [[ESPRIT]] 的跨国比较表明，直接竞争对手在横向联盟中因担心技术外泄与失去竞争优势，天然难以无保留共享核心制造工艺配方；受成员企业追求可衡量[[Return on Investment|投资回报]]的推动，产业主导的前竞争联盟必然从长周期基础研究逐步汇合为近中期的行业技术路线图、通用标准与设备中试测试平台，并通过转向与上游设备供应商的纵向供应链协同化解专有权冲突。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]

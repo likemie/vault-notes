@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-02"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学术文献具有客观有效期限，跨越失效期后引文分布进入确定性稳态
-> **探讨维度　引文饱和动力学与有限注意力窗口** 探讨科学文献在时间轴上的影响力持续时间与终身稳态边界。
+> **引文饱和动力学与有限注意力窗口** 探讨科学文献在时间轴上的影响力持续时间与终身稳态边界。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Stringer et al. (2008)]]
 > **引文稳态饱和命题** 斯特林格等通过实证检验表明，科学论著不会无限期获得同行关注；在发表经历特定年限后，文献必然抵达失效期；跨越失效期后，论著的引文分布呈现稳态特征，其相对影响力排位不再发生实质改变。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Stringer et al., 2008, via Wang & Barabási, 2021, pp. 205–206)]]

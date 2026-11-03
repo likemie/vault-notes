@@ -5,7 +5,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 32
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -40,6 +40,8 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Determinism]]"
   - "[[Academic Oligarchy]]"
+  - "[[Academic Precarity]]"
+  - "[[Block Grants]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Varieties of Capitalism]]"
@@ -54,10 +56,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 
 ---
@@ -69,7 +72,7 @@ updated: 2026-10-30
 > - **知识位置** 处于高等教育社会学、公共政策与马克思主义[[Politics of Knowledge|知识政治]]经济学交汇处，与[[Knowledge Capitalism|知识资本主义]]、[[Entrepreneurial University|创业型大学]]及[[New Public Management|新公共管理]]紧密关联。
 
 > [!claim] 核心判断
-> 大学不再是超脱于资本积累之外的传统学术庇护所，而是深度演化为具有自利动机的经济行动者；高校通过重构内部组织治理（商场空间租赁、扣取间接成本、设置软钱岗位）以及外包学术劳动力（依赖低薪博士后与研究生），将学术追求全面嵌入外部竞争性资金获取与资本增殖循环之中。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
+> 大学深度演化为具有自利动机的经济行动者；高校通过重构内部组织治理（商场空间租赁、扣取间接成本、设置软钱岗位）以及外包学术劳动力（依赖低薪博士后与研究生），将学术追求全面嵌入外部竞争性资金获取与资本增殖循环之中。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
 
 ---
 
@@ -81,9 +84,10 @@ updated: 2026-10-30
 
 > [!dev-timeline] 理论演进脉络
 > - **1997 — 原始奠基版本（Slaughter & Leslie）** 聚焦高校面临国家财政削减时的应对策略，界定院校和教师为获取外部竞争性资金而采取的市场和类市场行为。
-> - **2004 — 知识体制扩展（Slaughter & Rhoades）** 从个体行为策略跃升为制度分析，提出“学术资本主义知识体制”，关注大学管理层、中介机构（如[[Technology Transfer|技术转让]]办公室）与外部资本形成的联结网络。
+> - **2004 — 知识体制扩展（Slaughter & Rhoades）** 从个体行为策略拓展为制度分析，提出“学术资本主义知识体制”，关注大学管理层、中介机构（如[[Technology Transfer|技术转让]]办公室）与外部资本形成的联结网络。
 > - **2013 — 微观经济学与商场模型深化（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]引入商场模型与[[Soft-Money Faculty Model|软钱教职模式]]，揭示战后美国大学如何反客为主倒逼政府承担薪资与间接成本，以及实验室将研究生作为边际廉价用工的微观组织理性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
 > - **2017 — 福利[[Varieties of Capitalism|资本主义多样性]]整合（Schulze-Cleven et al.）** 结合[[Varieties of Capitalism|资本主义多样性]]（VoC）框架，系统比较自由主义（美）、保守主义（德）与社会民主主义（挪）国家在学术资本主义推进中的差异化[[Path Dependence|路径依赖]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> - **2026 — 学术资本主义危机的系统生态审议与基线资助倡导** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 针对全球高教过度竞争与量化锦标赛危机，系统审议了学术资本主义驱动下的四大系统性异化（青年学术零工化、课题申报策略性从众、指标化合规博弈与学术造假蔓延），从生态韧性视角倡导扩充基线整笔拨款以遏止大学市场化异化。
 
 ---
 
@@ -96,6 +100,8 @@ updated: 2026-10-30
 > | [[Shopping Mall Model of Research Universities]] | 机制 | 将大学组织功能透视为空房出租与基础设施搭建，学者作为独立商铺自负盈亏并上缴租金税费。 |
 > | [[Soft-Money Faculty Model]] | 机制 | 大学将教师薪酬[[Externalization\|外部化]]转嫁至外部科研项目，免除自身经常性财务兜底义务。 |
 > | [[PhD Overproduction in Science]] | 机制 / 后果 | 课题组为降低边际科研交付成本而系统性过度吸纳并剥削低薪受训者，造成劳动力市场脱节。 |
+> | [[Academic Precarity]] | 后果 | 描述学术资本主义下青年学者在短期合同、软钱教职与非稳定雇佣中的生存困境。 |
+> | [[Block Grants]] | 改革机制 | 作为对抗学术资本主义与新管理主义的重要财政工具，以稳定基线拨款保障学者长周期自由探索。 |
 > | [[Varieties of Capitalism]] | 分类 / 框架 | 区分自由主义、保守主义与社会民主主义福利体制下学术资本主义演化的[[Path Dependence\|路径依赖]]差异。 |
 
 ---
@@ -106,12 +112,12 @@ updated: 2026-10-30
 > **应用实例** 全美研究型医学院普遍要求全职专任教师（包括终身教授）将其薪酬的 80%–100% 通过 [[National Institutes of Health|NIH]] 等外部科研项目报销；一旦资助断档，学校不提供收入保障，学者直接面临减薪甚至实验室关闭风险。
 
 > [!theory-proposition] 命题二｜学术劳动力组织向灵活剥削与外包化重塑
-> **解释** 为在学术资本主义竞争中降低科研交付成本并维持论文发表流水线，实验室课题组负责人本能地排斥雇佣享有正规福利与晋升保障的永久性专职科学家（staff scientists），转而系统性依赖以受训为名义的高流动性、低薪资博士生与博士后。这一微观最优成本选择在宏观上导致学术劳动力再生产与行业吸纳容量严重脱节，演化为制度化的博士生产过剩与青年学者阶层分化。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]; [[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 796)]]
+> **解释** 为在学术资本主义竞争中降低科研交付成本并维持学术成果产出流水线，实验室课题组负责人本能地排斥雇佣享有正规福利与晋升保障的永久性专职科学家（staff scientists），转而系统性依赖以受训为名义的高流动性、低薪资博士生与博士后。这一微观最优成本选择在宏观上导致学术劳动力再生产与行业吸纳容量严重脱节，演化为制度化的博士生产过剩与青年学者阶层分化。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]; [[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 796)]]
 >
 > **应用实例** 欧美高校生物医学实验室内普遍由多名博士后与高年级博士生承担 80% 以上的高强度常规实验；完成训练后的博士毕业生能落实学术教职的比例持续跌破历史均值，大批学者被长期困在微薄津贴的博士后蓄水池中。
 
 > [!theory-proposition] 命题三｜国家职能由学术公共品直接提供者转向竞争秩序规制者
-> **解释** 国家并未在市场化大潮中退出高等教育，而是转变了自身的职能角色：从提供经常性生均拨款的直接赞助人，转变为制定知识产权法案（如 1980 年《拜杜法案》）、主导绩效评估审计与维护科研竞价准市场秩序的制度监管者；公共财政通过学生贷款与竞争性基金杠杆，深度撬动并规制大学的资本化运作。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
+> **解释** 国家在市场化转型中重塑了自身的职能角色：从提供经常性生均拨款的直接赞助人，转变为制定知识产权法案（如 1980 年《拜杜法案》）、主导绩效评估审计与维护科研竞价准市场秩序的制度监管者；公共财政通过学生贷款与竞争性基金调控机制，深度规制大学的资本化运作。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
 >
 > **应用实例** 美国联邦政府通过设立行政间接成本报销上限与科研绩效考核指标，引导大学将基建与设备折旧作为套取间接成本补偿的主要管道，直接刺激了各校竞相举债扩建高端实验设施的热潮。
 
@@ -146,4 +152,11 @@ updated: 2026-10-30
 > - **准市场与价格机制的本质差异** 高等教育领域扩散的竞争主要围绕学术声望、同行认可与权威地位展开，并不遵循经典价格机制，将企业资本积累逻辑生搬硬套至大学可能遮蔽学术[[Champ|场域]]特有的[[Cultural Capital|文化资本]]再生产机制。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 797)]]
 > - **忽视高等教育公共效用的顽强韧性** 学术资本主义模型过度聚焦经济边际收益，可能低估了学者对探索真理、启蒙教学与知识公共基础设施的内在价值坚守。
 > - **单向经济[[Determinism|决定论]]风险** 容易将高校内部的一切官僚化或课题竞争简单化归因于资本逻辑，而忽略了[[Academic Oligarchy|学术寡头]]权力寻租、国家政治安全战略等非经济维度的独立塑造力量。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–799)]]
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统批判全球高等教育由学术资本主义与新管理主义主导所诱发的青年教职零工化、选题策略性从众与计量造假危机，倡导以基线整笔拨款与多元同行评价重构学术生态。
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 结合资本主义多样性（VoC）框架，比较自由主义、保守主义与社会民主主义福利体制下学术资本主义演进的差异化制度路径。
+> - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 运用科学经济学商场模型揭示美国研究型大学通过间接成本与软钱教职转嫁运营成本、系统性依赖廉价博士后劳动力的微观机制。
 

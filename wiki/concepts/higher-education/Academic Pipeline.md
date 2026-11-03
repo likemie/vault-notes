@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题一｜知识存量膨胀与[[Evidence Standards|证据标准]]抬升系统性拉长了学术管道的学位修业周期
-> **探讨维度　认知负荷向人才培养环节的转嫁机制** 探讨学术界前沿拓展与期刊审稿证据要求如何演化为延长青年学者培养耗时的制度刚性。
+> **认知负荷向人才培养环节的转嫁机制** 探讨学术界前沿拓展与期刊审稿证据要求如何演化为延长青年学者培养耗时的制度刚性。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Cyranoski et al. (2011)]]
 > **博士修业年限普遍延长与高淘汰率** 戴维·西兰诺斯基（David Cyranoski）等学者测定指出，面对不断外推的知识前沿，2007 年全美科学与工程博士毕业中位年限已攀升至 7.2 年，超过 55% 的学生耗时 7 年以上；仅有不足 25% 的学生能在名义宣传的 5 年内毕业，全美 40% 至 50% 的注册生最终无法完成学业，确立了学术管道入口端极高的沉没成本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Cyranoski et al., 2011, via Wang & Barabási, 2021, p. 167)]]
@@ -110,7 +110,7 @@ updated: 2026-10-31
 ---
 
 > [!concept-proposition] 命题二｜学术管道的终端分流受宏观产业经济结构与国家科技政策统筹的强烈调节
-> **探讨维度　[[National Innovation System|国家创新体系]]的跨部门人才承接功能** 检视大学学术劳动力供给过剩在面对不同外部经济环境时的分流差异，评估科技人才跨界溢出的社会价值。
+> **[[National Innovation System|国家创新体系]]的跨部门人才承接功能** 检视大学学术劳动力供给过剩在面对不同外部经济环境时的分流差异，评估科技人才跨界溢出的社会价值。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Zolas et al. (2015)]]
 > **八所大学追踪证实产业界分流的超额经济回报** 尼克拉斯·唑拉斯（Nikolas Zolas）等人将全美八所顶尖大学博士毕业生档案与人口普查微观收入匹配，证实近 40% 理工博士进入高科技企业；分流产业界博士中位薪资超 90,000 美元，整体失业率仅 2.1%，表明学术管道溢出的人才在更广阔的[[Research Translation|技术转化]]与专利构建中发挥了关键创新支撑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Zolas et al., 2015, via Wang & Barabási, 2021, pp. 171–172)]]

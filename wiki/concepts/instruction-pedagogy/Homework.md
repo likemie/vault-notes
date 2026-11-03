@@ -87,7 +87,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Homework
@@ -155,7 +155,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学段认知发展断层调节家庭作业的学业促进效应
-> **探讨维度　发展阶段的认知调节机制** 家庭作业的学业效益表现出鲜明的非线性特征，其效能严格依附于学习者的发展阶段与[[Self-Regulated Learning|自我调节学习]]成熟度。
+> **发展阶段的认知调节机制** 家庭作业的学业效益表现出鲜明的非线性特征，其效能严格依附于学习者的发展阶段与[[Self-Regulated Learning|自我调节学习]]成熟度。
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]]; [[EEF Teaching and Learning Toolkit|EEF Toolkit]]
 > **学段间断层式的[[Effect Size|效应量]]分化** 大规模量化综合表明，家庭作业在小学阶段与中学阶段存在显著的学业增益断层：
@@ -165,7 +165,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜作业有效性取决于形成性反馈回路而非机械耗时，全班集中反馈打破教师工时内卷
-> **探讨维度　学习机制的反馈核心说与工作量悖论** 课外作业的促学机制取决于认知加工质量而非单纯延长工时，缺乏即时有效反馈的重复性做题往往固化错误概念；优化反馈流向是提升作业效能与减轻教师负担的关键路径。
+> **学习机制的反馈核心说与工作量悖论** 课外作业的促学机制取决于认知加工质量而非单纯延长工时，缺乏即时有效反馈的重复性做题往往固化错误概念；优化反馈流向是提升作业效能与减轻教师负担的关键路径。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021, p. 56)]]
 > **教师微观决策与批改反馈的因果解构** 切斯特·埃多瓦尔德（Chester Edovald）与克莱尔·内维尔（Claire Nevill）系统回顾 EEF 针对“[[Teacher Choices|教师选择]]（Teacher choices）”开展的因果研究试点，深刻解构了学校传统作业批改的无效神话：
@@ -175,7 +175,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Meta-analysis|元分析]]无加权简单平均与[[Construct|构念]]异质拼盘制造出误导性的虚假数字繁荣
-> **探讨维度　宏观合成的[[Construct|构念]]模糊性与算法不透明性** 将[[Heterogeneity|异质性]]极高的一级研究通过隐匿数学公式的简单算术平均粗暴合并，不仅掩盖了[[Sample Size Determination|样本量]]差异与学段鸿沟，更制造出缺乏实践指导意义的方法学泡沫。
+> **宏观合成的[[Construct|构念]]模糊性与算法不透明性** 将[[Heterogeneity|异质性]]极高的一级研究通过隐匿数学公式的简单算术平均粗暴合并，不仅掩盖了[[Sample Size Determination|样本量]]差异与学段鸿沟，更制造出缺乏实践指导意义的方法学泡沫。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023, pp. 25–27)]]; [[Argument_Higgins_2016_ROE|Higgins (2016, pp. 37–38)]]; [[Argument_Terhart_2011_JCS|Terhart (2011, p. 427)]]; [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a, pp. 8–9)]]
 > **总体平均效应量 $d = 0.29$ 的算法解构与实质偏误** [[John Hattie|约翰·哈蒂]]（John Hattie）在其[[Visible Learning|可见的学习]][[Meta-meta-analysis|元综合]]中声称汇总了 5 项作业[[Meta-analysis|元分析]]（涵盖 161 项研究与逾 10 万名学生），得出总体合并效应量 $d = 0.29$（全书排名第 88 位，处于所谓的“教师常态效应区”），常被决策者援引为家庭作业总体处于平庸低效区的实证铁证。然而方法学法医核查与批判解构揭示：
@@ -195,7 +195,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜比较对照基线不对等性对家庭作业因果效应量造成系统性扭曲
-> **探讨维度　[[Causality|因果推断]]的方法论基线混淆** 元分析中不同研究对照基线的非同质性，会导致处理条件与对照条件发生逻辑倒错，瓦解[[Counterfactual|反事实]]有效性。
+> **[[Causality|因果推断]]的方法论基线混淆** 元分析中不同研究对照基线的非同质性，会导致处理条件与对照条件发生逻辑倒错，瓦解[[Counterfactual|反事实]]有效性。
 
 > [!claim] [[Argument_Simpson_2017_JEdPolicy|Simpson (2017, pp. 5–7)]]
 > **对照组生态混淆与条件倒错** [[Adrian Simpson|阿德里安·辛普森]]（Adrian Simpson）以经典家庭作业元分析（如 Paschal, Weinstein & Walberg, 1984）为例，尖锐指出了元分析因果推断中的基线瓦解：
@@ -205,7 +205,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜[[Generative Artificial Intelligence|生成式人工智能]]导致传统静态成品作业效度崩塌，倒逼作业考评转向全流程思维追踪与独立可恢复性
-> **探讨维度　评价导向异化与中间认识动作可恢复性危机** 分析大语言模型如何通过一键交付使传统的课后成品作业失去考核效度，阐明向过程性探究与概念独立复现能力转型的必要性。
+> **评价导向异化与中间认识动作可恢复性危机** 分析大语言模型如何通过一键交付使传统的课后成品作业失去考核效度，阐明向过程性探究与概念独立复现能力转型的必要性。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **静态成品作业的效度瓦解与可恢复性考评重构** 在[[Generative Artificial Intelligence|生成式人工智能]]介入后，作业考核面临的核心危机是“无摩擦委派”对中间认识动作的剥离。当教育考评只奖励光鲜精美的最终成品（如论述严密的研究报告、无语病的解题），却让推导过程与论证辩护隐形不可见时，全盘委托技术便成为学生的“理性选择”。此时学生虽能交出高水平作业，却无法阐明结论的证据依据，丧失了在脱离工具后自主复现推理的“可恢复性（Recoverability）”。因此，作业[[Paradigm|范式]]必须前移至全流程思维追踪：引入分阶段草稿追踪、对抗性质询反思日志与思维决策记录，并结合无技术辅助的概念迁移测试与口头答辩，使作业考核重新聚焦于学生的实际心智劳动与认识责任。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6, 8)]]

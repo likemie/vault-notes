@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜单纯增加全球证据供给无法自发解决本土执行赤字，必须依赖双向需求反馈通道
-> **探讨维度　线性信息推送模式的失效机制** 考察为何以建立门户网站和印发政策简报为核心的传统知识传播无法弥合治理断裂。
+> **线性信息推送模式的失效机制** 考察为何以建立门户网站和印发政策简报为核心的传统知识传播无法弥合治理断裂。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] et al.
 > **单向证据供给的边际效应递减** 吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）等学者基于对全球 103 国[[Questionnaire|问卷]]与[[Elite Interview|关键知情人访谈]]指出，国际组织持续增发政策简报与最佳实践数据库并未带来政策质量的同步提升。相反，由于缺乏由本土官员和实践者反向界定研究需求的通道，外来产品越繁杂，地方官员的信息检索负担就越沉重。弥合第一重与第二重断裂的前提是颠覆单一自上而下的推送逻辑，转而依据国家和地方具体的改革任务，建立自下而上反馈研究需求的常规程序。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 13–16, 39–43)]]
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜区域支持枢纽是修复全球普适产品与国家本土需求脱节的关键治理桥梁
-> **探讨维度　空间多级治理与区域中枢的中介机制** 探讨如何通过组织架构重组来连接全球多边资源与边缘国家的本土孤岛。
+> **空间多级治理与区域中枢的中介机制** 探讨如何通过组织架构重组来连接全球多边资源与边缘国家的本土孤岛。
 
 > [!claim] Steiner-Khamsi, G. et al.
 > **区域枢纽的上下双向转译功能** 课题研究团队论证，全球证据生态拓扑网络呈现出极度极化格局，超过半数的国家本土机构处于彼此孤立的边缘状态。全球多边机构无法逐一深入处理数百个主权国家的[[Heterogeneity|异质性]]情境，最可行的治理路径是授权并资助已在地方具备公信力的区域性组织（如拉美地区的 [[SUMMA]]、[[Latin American Campaign for the Right to Education|CLADE]] 或非洲地区的 [[Africa Network Campaign on Education for All|ANCEFA]]）。这些区域枢纽向下汇聚本土政策需求与优先议题，向上调取并重新情境化全球公共知识产品，从而充当修复第二重反馈回路断裂的长效制度中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23–24, 43–47)]]

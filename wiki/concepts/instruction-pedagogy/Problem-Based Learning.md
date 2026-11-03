@@ -87,7 +87,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Problem-Based Learning
@@ -197,7 +197,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜PBL 通过专业目标、问题活动与案例评估的对齐形成教学效力
-> **探讨维度　对齐机制** 问题同时承担目标载体、学习任务和评价情境三种功能。学生为完成评估而练习的活动，正是专业目标所要求的活动。
+> **对齐机制** 问题同时承担目标载体、学习任务和评价情境三种功能。学生为完成评估而练习的活动，正是专业目标所要求的活动。
 
 > [!claim] [[John Biggs\|Biggs, J.]]
 > **专业问题贯穿课程系统** 专业教育要求毕业生解决本领域的实际问题。PBL 据此把专业问题写入培养目标，以同类问题组织小组分析、资料检索、知识应用和复盘，再通过案例表现评价诊断、提出假设、综合及自我监控。目标、活动和评估调用相同的认知行为，学生处理案例的过程同时产生学习活动与学习结果。Biggs 因而把 PBL 称为对齐本身。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–73)]]
@@ -205,7 +205,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜问题序列同时决定知识覆盖范围与知识的可用方式
-> **探讨维度　内容与应用** PBL 的内容需要课程设计者主动选择和组织。问题的选择与排列决定学生覆盖哪些知识，并使这些知识在工作情境中获得应用结构。
+> **内容与应用** PBL 的内容需要课程设计者主动选择和组织。问题的选择与排列决定学生覆盖哪些知识，并使这些知识在工作情境中获得应用结构。
 
 > [!claim] Biggs, J.
 > **相近覆盖可以产生不同性质的知识** 传统课程按学科传递陈述性知识，学生常依据考试要求组织这些知识，应用范围也可能停在考试。PBL 则选择一组问题，使课程结束时覆盖与传统方案大体相近的内容，同时要求学生在获得知识的情境中立即使用它。知识覆盖量可以接近，知识的组织方式与可用性仍会不同。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 71)]]；[[Argument_Biggs_1999_HERD\|Hmelo et al. (1997, as cited in Biggs, 1999, p. 71)]]
@@ -216,7 +216,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜先备知识、问题结构和导师能力共同调节 PBL 的效果
-> **探讨维度　实施条件** 学生需要知识支点来建立因果解释，也需要保留搜索和选择的空间。导师负责在[[Open-Mindedness|开放性]]与支架之间持续调整。
+> **实施条件** 学生需要知识支点来建立因果解释，也需要保留搜索和选择的空间。导师负责在[[Open-Mindedness|开放性]]与支架之间持续调整。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **引入时机影响推理质量** Hattie 将 PBL 的低平均效应部分归因于过早实施。新手知识库中的错误较多，容易把无关材料加入解释，并从未知条件逆向推导；专家较常从已知条件向未知问题推进。[[Argument_Hattie_2015_SOTLP\|Walker & Leary (2009, as cited in Hattie, 2015b, pp. 85–86)]] 还发现，新手的逆向推理错误可能持续到教学结束之后。因此，事实和概念基础需要在[[Problem Solving\|复杂问题解决]]之前或过程中得到明确支持。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
@@ -236,7 +236,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜PBL 的平均效应量不能替代对情境、结果类型与证据质量的判断
-> **探讨维度　证据解释** PBL 研究横跨医学、大学、护理、高中和多学科情境，[[Dependent Variable\|结果变量]]又包括知识、技能、评估表现与专业应用。平均值只能作为进一步分析的起点。
+> **证据解释** PBL 研究横跨医学、大学、护理、高中和多学科情境，[[Dependent Variable\|结果变量]]又包括知识、技能、评估表现与专业应用。平均值只能作为进一步分析的起点。
 
 > [!claim] Hattie, J.
 > **低平均效应需要条件解释** 九项[[Meta-analysis\|元分析]]的二级综合（简单算术平均）得到 d ≈ 0.08，各项结果从 −0.30 到 0.32。Hattie 提出先备知识不足的解释，但同时承认该解释仍需研究。[[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 报告知识增加时效果反而下降，也没有支持简单的年级递增模型。现有证据提示显著[[Heterogeneity\|异质性]]，却缺少统一的结果分类与正式调节检验。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
@@ -280,19 +280,19 @@ updated: 2026-11-02
 > > [!metax-ma]- 31 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Albanese & Mitchell (1993) | PBL in medicine | 11 | 2,208 | 66 | 0.27 |  |
-> > | Vernon & Blake (1993) | PBL in college level | 8 | NA | 28 | -0.18 |  |
+> > | Albanese and Mitchell (1993) | PBL in medicine | 11 | 2,208 | 66 | 0.27 |  |
+> > | Vernon and Blake (1993) | PBL in college level | 8 | NA | 28 | -0.18 |  |
 > > | Dochy et al. (2003) | PBL on knowledge and skills | 43 | 21,365 | 35 | 0.12 |  |
 > > | Smith (2003) | PBL in medicine | 82 | 12,979 | 121 | 0.31 |  |
 > > | Newman (2004) | PBL in medicine | 12 | NA | 12 | -0.30 |  |
 > > | Haas (2005) | PBL in algebra | 7 | 1,538 | 14 | 0.52 |  |
 > > | Gijbels et al. (2005) | PBL on assessment outcomes | 40 | NA | 49 | 0.32 |  |
-> > | Walker & Leary (2009) | PBL across disciplines | 82 | NA | 201 | 0.13 |  |
-> > | Dagyar & Demirel (2015) | PBL | 98 | NA | 98 | 0.76 |  |
+> > | Walker and Leary (2009) | PBL across disciplines | 82 | NA | 201 | 0.13 |  |
+> > | Dagyar and Demirel (2015) | PBL | 98 | NA | 98 | 0.76 |  |
 > > | Jiang et al. (2013) | PBL | 38 | NA | 87 | 0.32 |  |
-> > | Chen & Yang (2019) | PBL | 30 | 12,585 | 30 | 0.71 |  |
+> > | Chen and Yang (2019) | PBL | 30 | 12,585 | 30 | 0.71 |  |
 > > | Jensen (2015) | PBL | 34 | 9,998 | 34 | 0.59 |  |
-> > | Kalaian & Kasim (2014b) | PBL | 14 | NA | 16 | 0.29 |  |
+> > | Kalaian and Kasim (2014b) | PBL | 14 | NA | 16 | 0.29 |  |
 > > | Sayyah et al. (2017) | PBL | 21 | NA | 21 | 0.80 |  |
 > > | Zhou et al. (2016) | PBL in Chinese clinical training | 13 | 913 | 13 | 0.06 |  |
 > > | Rosli et al. (2014) | PBL | 13 | NA | 14 | 0.88 |  |
@@ -300,11 +300,11 @@ updated: 2026-11-02
 > > | Leary et al. (2013) | PBL | 94 | 34,689 | 213 | 0.24 |  |
 > > | Hong (2008) | PBL | 85 | NA | 49 | 0.69 |  |
 > > | Dolmans et al. (2016) | PBL on surface and dep outcomes | 21 | NA | 17 | 0.09 |  |
-> > | Funa & Prudente (2021) | PBL | 11 | 1,422 | 11 | 0.87 |  |
+> > | Funa and Prudente (2021) | PBL | 11 | 1,422 | 11 | 0.87 |  |
 > > | Stojadinovic et al. (2021) | PBL | 18 | 2,518 | 18 | 0.39 |  |
-> > | Aisyah & Usdiyana (2022) | PBL | 8 | NA | 8 | 0.80 |  |
-> > | Alacapinar & Mustafa (2020) | PBL | 25 | NA | 32 | 1.23 |  |
-> > | Juandi & Tamur (2021) | PBL | 50 | NA | 50 | 0.82 |  |
+> > | Aisyah and Usdiyana (2022) | PBL | 8 | NA | 8 | 0.80 |  |
+> > | Alacapinar and Mustafa (2020) | PBL | 25 | NA | 32 | 1.23 |  |
+> > | Juandi and Tamur (2021) | PBL | 50 | NA | 50 | 0.82 |  |
 > > | Novitasri et al. (2022) | PBL | 24 | NA | 24 | 0.70 |  |
 > > | Brice (2017) | PBL | 9 | 3,485 | 9 | -0.39 |  |
 > > | Waterboro et al. (2023) | PBL | 73 | NA | 73 | 1.05 |  |

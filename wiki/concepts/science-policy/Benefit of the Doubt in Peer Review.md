@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜同行评审中的审稿宽容度随学者学术声望呈非对称倾斜
-> **探讨维度　审稿认知心理与地位偏倚** 考察学术声望如何在单盲同行评阅中转化为具体的审稿豁免与宽容待遇。
+> **审稿认知心理与地位偏倚** 考察学术声望如何在单盲同行评阅中转化为具体的审稿豁免与宽容待遇。
 
 > [!claim] [[Harriet Zuckerman|Zuckerman, H.]]
 > **学术威望赋予压倒性质疑豁免** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman）对全美诺贝尔奖得主的[[In-depth Interview|深度访谈]]证实，顶尖学者公开承认其知名度为复杂成果进入审稿程序提供了决定性的疑罪从无空间，大幅降低了编辑与审稿人的初筛阻力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]
@@ -97,7 +97,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜强制双盲审稿能够阻断基于声望符号的特权推定
-> **探讨维度　评审制度设计与客观性校准** 考察剥离署名与机构标识对恢复同行评阅客观公正性的制度效能。
+> **评审制度设计与客观性校准** 考察剥离署名与机构标识对恢复同行评阅客观公正性的制度效能。
 
 > [!claim] Tomkins, A. et al.
 > **隐去身份信号彻底消除名家超额红利** 汤姆金斯等人在计算机顶会 WSDM 开展的大规模双向分流审稿试验证明，当审稿专家无法获知学者姓名与供职机构时，名家成果的录用优势收缩达 63%，证实身份信号正是驱动单盲审稿录用倾斜的核心动力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]

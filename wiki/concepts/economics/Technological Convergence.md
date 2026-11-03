@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜技术趋同依托标准元器件架构与物理接口消除了跨行业应用的技术转换成本
-> **探讨维度　接口标准化与[[General Purpose Technology|通用技术]]跨行业扩散** 探讨[[Heterogeneity|异质性]]工业部门如何通过共同采纳标准化的微电子物理封装与逻辑芯片，消除特定行业专有技术的沉没壁垒。
+> **接口标准化与[[General Purpose Technology|通用技术]]跨行业扩散** 探讨[[Heterogeneity|异质性]]工业部门如何通过共同采纳标准化的微电子物理封装与逻辑芯片，消除特定行业专有技术的沉没壁垒。
 
 > [!claim] Lécuyer, C.
 > **标准封装界面驱动跨行业工艺汇聚** 莱屈耶（Christophe Lécuyer）论证道，硅微电子技术由军用利基向全美工业转型的根本机制在于促成了跨行业的技术趋同。通过推出以[[Dual In-Line Package|双列直插封装]]（DIP）为代表的标准化组件，[[Fairchild Semiconductor|仙童半导体]]成功使商用大型计算机、家用电视机和汽车电子控制系统共享完全相同的印刷电路板设计规范与自动化插装设备，打破了此前各行业依赖专用分立元件的割裂格局，极大地压低了跨部门采纳新技术的重组成本。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 207–209)]]
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜工程技能与设计[[Paradigm|范式]]的趋同为现代[[Engineering Education|高等工程教育]]通用课程与人才跨界流动提供了知识基础
-> **探讨维度　工程知识体系重塑与[[Human Capital Theory|人力资本]]流动** 探讨底层技术的统一如何反向重塑[[Engineering Education|工程教育]]学科边界，促成通用型工程人才的培育与高效跨界配置。
+> **工程知识体系重塑与[[Human Capital Theory|人力资本]]流动** 探讨底层技术的统一如何反向重塑[[Engineering Education|工程教育]]学科边界，促成通用型工程人才的培育与高效跨界配置。
 
 > [!claim] Lécuyer, C.
 > **通用工程知识库与跨行业人才流动自由** 莱屈耶指出，随着仙童[[Application Engineering|应用工程]]实验室向全社会分发开源《应用说明书》并普及标准电路设计方法，原本分散在真空管、机电继电器和锗晶体管领域的工程师群体，迅速趋同并掌握了以硅逻辑门为基础的通用微电子设计语言。这种知识[[Paradigm|范式]]的汇聚不仅促成了工程师在计算机、消费电子与汽车工业之间的自由流动，更直接为高等院校重构电子工程与计算机学科的基础教学大纲提供了统一的工业参照。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 190–194, 208–209)]]

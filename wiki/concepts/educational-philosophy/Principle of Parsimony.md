@@ -46,7 +46,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜在同等解释效力下，包含较少假定与概念实体的理论在[[Epistemology|认识论]]上更为优越
-> **探讨维度　理论评价与概念经济维度** 探讨科学理论的选择准则。简约原则确立了理论美学与[[Epistemology\|认识论]]上的优先性排序。
+> **理论评价与概念经济维度** 探讨科学理论的选择准则。简约原则确立了理论美学与[[Epistemology\|认识论]]上的优先性排序。
 
 > [!claim] Cohen, Manion & Morrison
 > **概念经济性与理论选择判定** 科学探究要求以最经济的方式解释现象；面对同一教育事实，用两项概念予以说明明确优于使用三项概念，简明的理论模型在认识论上始终优先于臃肿繁复的理论系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜良好的科学假说必须以最经济的形式表达[[Variable|变量]]关联，以实现可检验性最大化
-> **探讨维度　假说构建与实证操作维度** 探讨经验假说的构建规范。简约原则是连接抽象猜想与实证验证的桥梁。
+> **假说构建与实证操作维度** 探讨经验假说的构建规范。简约原则是连接抽象猜想与实证验证的桥梁。
 
 > [!claim] [[Fred N. Kerlinger\|Kerlinger, F. N.]]
 > **假说经济性表述判定** 良好假说不仅要求陈述[[Variable\|变量]]关系并具备清晰的检验含义，还必须满足以最经济的方式加以表述的辅助准则；精炼的假说能够最大限度排除模糊语义干扰，使因果检验的逻辑链条保持高度透明与聚焦。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Kerlinger, 1970 via Cohen et al., 2011, Ch. 1, p. 16)]]
@@ -117,7 +117,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜教育现实的错综复杂性对机械简约构成刚性制约，要求在[[Rich and Thick Description|深描]]与模型精简之间寻求辩证张力
-> **探讨维度　生态复杂性与方法论张力维度** 探讨简约原则在社会教育探究中的适用边界。情境依赖性阻遏了无条件的极简抽象。
+> **生态复杂性与方法论张力维度** 探讨简约原则在社会教育探究中的适用边界。情境依赖性阻遏了无条件的极简抽象。
 
 > [!claim] [[Keith Morrison\|Morrison, K.]]
 > **反约简张力与复杂系统判定** 教育世界充满了历史偶然性、多重意图与非线性反馈，机械推行简约原则极易演化为对鲜活教育事实的粗暴裁剪；研究者必须认识到，简单的底层规则[[Emergence\|涌现]]出的宏观生态具有不可简化的整体复杂性，唯有结合[[Rich and Thick Description\|厚描述]]才能防止简约原则沦为空洞的抽象自娱。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Morrison, 2002 via Cohen et al., 2011, Ch. 1, pp. 29–31)]]

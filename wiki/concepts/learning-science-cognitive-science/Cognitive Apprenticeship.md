@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜认知学徒机制是[[Mentorship|导师制]]在真实探究情境中发挥催化作用的微观支柱
-> **探讨维度　策略协同与认知整合机制** 探讨[[Mentorship\|导师制]]如何与真实任务及对话研讨发生协同共振。
+> **策略协同与认知整合机制** 探讨[[Mentorship\|导师制]]如何与真实任务及对话研讨发生协同共振。
 
 > [!claim] Abrami, P. C., et al.; Collins, A., et al.
 > **三维复合策略的认知学徒解释** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 发现，将[[Authentic Instruction\|真实性教学]]（A）、对话研讨（D）与[[Mentorship\|导师制]]（M）结合时，[[Critical Thinking\|批判性思维]]增益达到最高水平（$g+ = 0.57$），且导师指导发挥了关键的催化功能（$z = 1.98, p = .024$）。从认知[[Apprenticeship|学徒制]]视角看，真实性任务提供了探究情境，对话研讨提供了“阐明与反思”的社交载体，而导师的“示范与辅导”则精准填补了新手面对复杂[[Wicked Problem|劣构问题]]时的认知鸿沟，三者共同构成了完整的认知学徒反馈回路。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288, 298)]]

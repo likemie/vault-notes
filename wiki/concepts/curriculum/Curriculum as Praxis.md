@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜作为实践的课程是真正实现解放教育与打破[[Culture of Silence|沉默文化]]的唯一课程[[Paradigm|范式]]
-> **探讨维度　课程解放维度** 探讨实践[[Paradigm\|范式]]如何通过要求改变压迫结构的行动，防止教育退化为无用的口头学术游戏。
+> **课程解放维度** 探讨实践[[Paradigm\|范式]]如何通过要求改变压迫结构的行动，防止教育退化为无用的口头学术游戏。
 
 > [!claim] Grundy, S.
 > **实践范式的解放承诺** 葛兰蒂与达维什断言，唯有当课程超越纯粹的过程探讨、做出显性的解放承诺并要求变革实践时，[[Active Learning\|主动学习]]才能获得终极的伦理与政治意义。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, p. 102; Darwish, 2009, pp. 68–71, p. 81)]]

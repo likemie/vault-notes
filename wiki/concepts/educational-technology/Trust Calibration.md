@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜过度信任是[[Automation Bias|强自动化偏差]]的实质根源，其本质是向技术代理让渡合法认识权威
-> **探讨维度　信任失调与权威让渡** 探讨信任失调如何从一般的行为顺从演化为深层的哲学与[[Epistemology|认识论]]让渡。
+> **信任失调与权威让渡** 探讨信任失调如何从一般的行为顺从演化为深层的哲学与[[Epistemology|认识论]]让渡。
 
 > [!claim] Muir (1987); Lee and See (2004); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **过度信任驱动的[[Epistemic Deference|认识论顺从]]** 传统工效学将[[Automation Bias|自动化偏差]]定性为有限注意力的认知节省策略；规范研究指出，当操作人员在已接触到反常冲突证据的情境下依然顺从系统时（强自动化偏差），其根本驱动力是过度信任（Overtrust）。操作人员单凭系统以往的高准确率或算法客观性光环，预先假定机器比自身拥有更高的认识特权，从而将最终[[Evaluative Judgement|评价性判断]]权威让渡给算法黑箱，发生了深层的[[Epistemic Deference|认识论顺从]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 10–12)]]
@@ -105,7 +105,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜信任校准独立于操作人员主观自信，其评价基准在于信任分配是否具备客观情境理由
-> **探讨维度　规范理性与客观理由** 澄清将信任校准还原为主观自信高低所带来的理论混淆。
+> **规范理性与客观理由** 澄清将信任校准还原为主观自信高低所带来的理论混淆。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **客观理由对主观自信的规范优先性** 针对“操作人员自信心低因而顺从高准确率算法属于合理论据”的辩护，规范认识论论证了信任校准的客观规范属性。信任校准是操作人员是否依据现场反常证据做出了符合情境极限的合理判断，有别于主体主观信心与算法标称准确率的简单机械相减。只要操作人员掌握了当前案例超出模型训练边界的充分证据（[[Defeater|击败者]]），无论其自身信心高低，盲目顺从均构成失调的过度信任。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–10)]]
@@ -113,7 +113,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜注入[[Epistemic Friction|认识论摩擦]]与击败者机制是实现人机批判性信任动态校准的关键路径
-> **探讨维度　交互干预与动态校准** 探讨如何通过界面工程主动重构操作人员的信任分配。
+> **交互干预与动态校准** 探讨如何通过界面工程主动重构操作人员的信任分配。
 
 > [!claim] Hoff and Bashir (2015); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **[[Epistemic Friction|认识论摩擦]]对信任失调的动态阻断** 静态警示与单向解释无法从根本上遏制过度信任；唯有在人机决策回路中注入生产性[[Epistemic Friction|认识论摩擦]]（如反思机器的[[Socrates|苏格拉底]]式追问与反驳型击败者的反例呈现），才能打破无反思的自动顺从惯性，促使操作人员从被动接受转向主动审议，实现信任水平与系统客观能力的精准校准。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]

@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜比较教育学的论述代际演替深刻依附于特定时代的[[Epistemology|认识论]][[Paradigm|范式]]与政治合法化诉求
-> **探讨维度　论述代际更迭与时代政治智识语境的共振机制** 卡扎米亚斯剖析了比较教育学从启蒙发端至当代演进的内在谱系，论证学科每一次外貌更迭与[[Discourse|话语]]转型都非纯粹内在理论推演，是与同时期的主流社会科学理论[[Paradigm|范式]]及国家治理诉求紧密共振。
+> **论述代际更迭与时代政治智识语境的共振机制** 卡扎米亚斯剖析了比较教育学从启蒙发端至当代演进的内在谱系，论证学科每一次外貌更迭与[[Discourse|话语]]转型都非纯粹内在理论推演，是与同时期的主流社会科学理论[[Paradigm|范式]]及国家治理诉求紧密共振。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
 > **论述代际的四阶段更迭模型** 比较教育学的发展可以理论化为四大论述代际：第一代为十八世纪末十九世纪初由[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）开创的[[Proto-Scientific Motif|准科学母题]]以及[[Victor Cousin|库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等行政官员开创的[[Policy Borrowing|政策借用]][[Educational Meliorism|改良主义]]母题，二者皆直接植根于[[Enlightenment|启蒙运动]]的理性进步观与现代民族国家建构；第二代为二十世纪上半叶由[[Michael Sadler|萨德勒]]（Michael Sadler）、[[Isaac Kandel|坎德尔]]（Isaac Kandel）、汉斯（[[Nicholas Hans]]）和[[Robert Ulich|乌利希]]（Robert Ulich）奠定的历史-哲学与自由人文主义传统，将研究聚焦于民族国家精神、文化传统与民主公民素养，抵制技术官僚化；第三代为 1950 至 1970 年代爆发的实证科学化运动（包括芝加哥学派功能主义、诺亚与埃克斯坦的方法论[[Positivism|实证主义]]、霍姆斯的[[Problem Approach|问题法]]），顺应了战后[[Human Capital Theory|人力资本理论]]、现代化理论以及国家中央计划体制对确定性技术指标的极度渴求；第四代为新马克思主义、韦伯主义与[[World-Systems Theory|世界体系分析]]等冲突范式，揭露资本主义国家机器再生产不平等的权力结构。学科正是在这四重代际的更替中展现了如普罗透斯般变幻莫测的理论面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–155)]]
@@ -166,7 +166,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜实证[[Scientism|科学主义]]对单一全能方法的狂热追求将比较教育学窄化为脱离价值与情境的方法论主义
-> **探讨维度　方法论主义对学科人文深度与情境根基的剥离** 在反思战后“科学化”狂热时，卡扎米亚斯揭示了实证主义范式将自然科学经验量化模型奉为唯一圭臬所带来的学术异化。
+> **方法论主义对学科人文深度与情境根基的剥离** 在反思战后“科学化”狂热时，卡扎米亚斯揭示了实证主义范式将自然科学经验量化模型奉为唯一圭臬所带来的学术异化。
 
 > [!claim] Barber, B. R. & Kazamias, A. M.
 > **方法论主义对实体情境的剥离与价值放逐** 战后以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）以及萨卡洛普洛斯（[[George Psacharopoulos]]）为代表的“纯科学”比较教育纲领，其核心在于一种一元论科学观（Monistic View of Science），即预设存在一种“放之四海皆准的单一[[Scientific Method|科学方法]]”（Single, All-purpose Scientific Method）。这种被[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber）批判为“方法论主义”（[[Empiricism|Methodologism]]）的取向假定：只要忠实恪守特定的量化测量与统计控制技术，无论研究对象性质如何，都能获得客观确定性。这种进路将科学视为数学公理化网络，粗暴地将科学研究领地与形式、价值、美、至善以及所有不可测量的质性维度割裂开来，使比较教育退化为抽离制度历史语境的去情境化统计推断。[[Argument_Kazamias_2009_HistoricalReflections|(Barber, 1972; Kazamias, 2009a, pp. 147–149)]]
@@ -174,7 +174,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜学科演进在获得多元实证工具的同时付出了放逐历史维度的沉重代价并诱发[[Historical Amnesia|历史健忘症]]
-> **探讨维度　历史维度放逐与[[Historical Amnesia|学科历史健忘症]]的诊断** 卡扎米亚斯警示：在经历实证主义洗礼、冲突理论批判与世纪之交理论繁荣之后，比较教育学内部发生了一场严重的[[Epistemology|认识论]]退化——对历史维度近乎彻底的遗忘与抛弃。
+> **历史维度放逐与[[Historical Amnesia|学科历史健忘症]]的诊断** 卡扎米亚斯警示：在经历实证主义洗礼、冲突理论批判与世纪之交理论繁荣之后，比较教育学内部发生了一场严重的[[Epistemology|认识论]]退化——对历史维度近乎彻底的遗忘与抛弃。
 
 > [!claim] Larsen, M. & Kazamias, A. M.
 > **历史研究边缘化与学科历史健忘症** 尽管比较教育学在 1980 至 1990 年代吸纳了女性主义批判、后现代思潮、[[Comparative Pedagogy|比较教学论]]等新范式，展现出理论[[Pluralism|多元主义]]的繁荣，但这种扩张是以牺牲历史维度为沉重代价的。实证期刊计量研究显示，在 1955 至 1994 年间英美三大旗舰学术期刊发表的近 2000 篇文章中，仅有 10.5% 依赖史学编纂与历史研究；而在 1985 至 1995 年间，这一比例更是雪崩式跌至不足 5%。学科由此患上了严重的“历史健忘症”（Historical Amnesia），切断了与自身奠基传统的有机联系，极易沦为追逐当代方法论时髦与技术指标的短视附庸。[[Argument_Kazamias_2009_HistoricalReflections|(Larsen, 2001; Kazamias, 2009a, pp. 155–156)]]

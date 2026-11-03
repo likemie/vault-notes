@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Executive Function
@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜执行功能是[[Academic Achievement|学业成就]]与社会情绪发展的关键纵向预测因素
-> **探讨维度　发展认知轨迹与[[Academic Achievement\|学业表现]]预测** 执行功能不仅为课堂知识吸收奠定注意力与[[Self-control\|自控]]基础，更是跨学科学业表现与品格成熟的早期核心指征。
+> **发展认知轨迹与[[Academic Achievement\|学业表现]]预测** 执行功能不仅为课堂知识吸收奠定注意力与[[Self-control\|自控]]基础，更是跨学科学业表现与品格成熟的早期核心指征。
 
 > [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]
 > **超越智力常模的学业预测力与社会情绪发展** 大规模经验证据与[[Longitudinal Study\|纵向研究]]表明，执行功能的发展是学生学业成就的关键先决因素与预测指标；时间序列分析表明是早期的执行功能促进了后续学业成就，而非学业成就倒流促成执行功能成熟；执行功能对学业成就变异的预测准确度显著超越传统智商（IQ）测验。此外，执行功能还深入调控儿童的情绪成熟、道德判断、沟通互动与社会认知，是全人发展的神经心理基石。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5)]]
@@ -129,7 +129,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享执行功能的微观神经认知调控基础
-> **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]能力的神经认知机制整合** 发散性创新与汇合性批判表面取向相反，但在微观神经加工层面深度依赖相同的执行控制过程。
+> **[[Higher-Order Thinking Skills\|高阶思维]]能力的神经认知机制整合** 发散性创新与汇合性批判表面取向相反，但在微观神经加工层面深度依赖相同的执行控制过程。
 
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
 > **高阶思维双翼的共同执行控制机制** [[Meta-analysis\|元分析]]表明，发散生成的[[Creativity\|创造力]]与汇合评价的[[Critical Thinking\|批判性思维]]之间存在中度显著正相关（$r = 0.38$）。两者共同依赖[[Inhibitory Control\|抑制控制]]（压制显而易见的平庸方案或直觉认知偏见）、[[Cognitive Flexibility\|认知灵活性]]（在多重维度与跨学科视角间穿梭）以及[[Working Memory\|工作记忆]]更新等执行功能组件；执行功能的这一共享神经认知基础，为学校课程实施高阶思维联合培养方案提供了强有力的心理学辩护。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
@@ -137,7 +137,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜抑制控制是科学探究推理技能与概念转变的微观认知调控基石
-> **探讨维度　科学探究与概念重构的心理调控机制** 科学探究并不单纯的感官操作，其成败取决于学生能否在认知层面主动压制错误直觉并维持严谨的[[Variable\|变量]]控制。
+> **科学探究与概念重构的心理调控机制** 科学探究并不单纯的感官操作，其成败取决于学生能否在认知层面主动压制错误直觉并维持严谨的[[Variable\|变量]]控制。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **抑制控制对探究技能与概念转变的方差解释** 在科学教育与[[Inquiry-Based Learning\|探究式学习]]中，执行功能（尤其是抑制控制能力）发挥着不可或缺的底层支撑功能。实证研究证实，中学生的抑制控制能力独立解释了科学探究推理技能 **29%** 的方差变异，以及科学概念转变（Conceptual Gain）**28%** 的方差变异（Kwon & Lawson, 2000）；在复杂仿真模拟中，缺乏足够抑制控制的学习者极易被表面生动的无关知觉线索（Salient Perceptual Features）吸引，从而产生认知超载并得出错误归因（Homer & Plass, 2014）；教师提供的结构化支架在认知机制上本质上是对学生执行功能负荷的外部代偿，确保学习者将有限的执行资源聚焦于实质[[Causality\|因果关系]]的推导。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]

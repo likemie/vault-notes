@@ -57,7 +57,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜超国家组织通过修辞隐喻建构证据文化，将量化综合证据确立为排他性认知层级
-> **探讨维度　语言修辞与认知层级建构** 探讨国际多边组织如何调动象征性隐喻与叙事修辞塑造证据文化，揭示普遍主义知识供给对地方情境经验的[[Epistemology|认识论]]排斥机制。
+> **语言修辞与认知层级建构** 探讨国际多边组织如何调动象征性隐喻与叙事修辞塑造证据文化，揭示普遍主义知识供给对地方情境经验的[[Epistemology|认识论]]排斥机制。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **修辞隐喻对证据文化与认知层级的建构** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与[[World Bank|世界银行]]（World Bank）6 份核心政策文本的[[Interpretive Policy Analysis|解释性政策分析]]指出，超国家组织所调动的修辞隐喻不仅具有阐释功能，更实质性地参与了证据文化的制度建构。例如，OECD 将[[Evidence-Based Policy-Making|循证决策]]比喻为“爵士乐队”，将研究证据设定为基准低音旋律而将地方实践裁量视作即兴伴奏；世界银行与全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）则将政策团队界定为“[[Smart Buys|智能购买]]者”，推崇高性价比标准化证据采购。这些隐喻将量化实验与[[Meta-meta-analysis|二阶元分析]]确立为至高认知层级，把证据文化塑造成崇尚跨国普遍主义处方的体系，边缘化了地方教育实践者的[[Tacit Knowledge|默会知识]]与语境特异性经验。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
@@ -117,7 +117,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜证据文化的开放度受制于制度使能环境，个体责任化偏颇遮蔽了结构性改革需求
-> **探讨维度　制度使能环境与责任个体化批判** 剖析超国家治理[[Discourse|话语]]将政策转化阻碍归咎于公职人员个人能力短板的还原论偏误，阐明重构制度使能条件与包容性[[Deliberative Space|审议空间]]对证据文化的决定性作用。
+> **制度使能环境与责任个体化批判** 剖析超国家治理[[Discourse|话语]]将政策转化阻碍归咎于公职人员个人能力短板的还原论偏误，阐明重构制度使能条件与包容性[[Deliberative Space|审议空间]]对证据文化的决定性作用。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **超越个体责任化与制度使能重构** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入揭示了超国家证据文化话语中的治理责任个体化倾向：国际机构在分析政策落地受阻时，普遍归咎于政府官员与基层教师缺乏[[Data Literacy|数据素养]]与分析胜任力，从而将体制机制层面的深层缺陷转嫁给公职人员个体。这种个体责任化叙事遮蔽了行政日常运作中时间匮乏、政治周期冲突与科层条块分割等系统性障壁；健康的证据文化无法单纯通过个体技能培训达成，必须依托刚性的工时保障、跨部门审议机制与长效激励等制度使能条件，并在决策社群内部确立兼顾全球标准与本土知识主权的认知正义。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 347–351)]]

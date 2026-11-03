@@ -68,7 +68,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 created: 2026-08-13
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜个体[[Epistemology|认识论假设]]是由多个相对独立的维度构成的连续体
-> **探讨维度　多维独立性与量表测量** 探讨个体的[[Epistemology\|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测[[Academic Achievement\|学业表现]]。
+> **多维独立性与量表测量** 探讨个体的[[Epistemology\|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测[[Academic Achievement\|学业表现]]。
 
 > [!claim] Schommer (1990)
 > **独立维度假说与学业预测** 个体的各项认识论假设不必是整合在同一阶段的结构，是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：
@@ -129,7 +129,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜个体的认识论信念不仅是离散的维度，是具有解释力的“个人理论”
-> **探讨维度　维度的连贯互构** 探讨各个认识论维度之间是否存在内在逻辑关联，以及它们如何构成一个指导认知的整体框架。
+> **维度的连贯互构** 探讨各个认识论维度之间是否存在内在逻辑关联，以及它们如何构成一个指导认知的整体框架。
 
 > [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **理论连贯性主张** 个体的认识论信念有别于像 Schommer 宣称的那样完全相互独立。相反，基于 Wellman 等人关于“什么是理论”的判定标准，如果一个人在“确定知识”维度上持有幼稚观点（认为知识绝对对错），那么他极有可能在“知识来源”维度上也持有幼稚观点（认为知识由权威传授）。这种内在的强关联性证明，各项维度之间是连贯互构的。因此，这些信念构成了指导他们认知世界的一套连贯的“个人理论（personal theories）”，有别于一组零散的观念集合。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 117-118)]]
@@ -137,7 +137,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜认识论信念应与[[Ontology|本体论认知]]相区分，并具有发展阶段的类属性
-> **探讨维度　维度整合与[[Domain Specificity\|领域特殊性]]** 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
+> **维度整合与[[Domain Specificity\|领域特殊性]]** 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
 > [!claim] [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]
 > **多维阶段融合模型与领域特殊性** Greene et al. 提出整合性的[[Epistemic and Ontological Cognition\|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge\|知识的简单性]]与确定性”属于[[Ontology\|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling\|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（现实主义者、教条主义者、怀疑论者、理性主义者）。研究还证实，认识论发展并不绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, pp. 245-247)]]
@@ -145,7 +145,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜聚焦知识本质与确证机制的现代认识论干预显著优于宽泛的学习特质信念
-> **探讨维度　理论模型指导干预的因果分野** 探讨指导教学设计的[[Epistemological Theories\|认识论理论]]框架如何实质调节对学业成就的促进成效。
+> **理论模型指导干预的因果分野** 探讨指导教学设计的[[Epistemological Theories\|认识论理论]]框架如何实质调节对学业成就的促进成效。
 
 > [!claim] Cartiff, B. M.
 > **[[Construct\|构念]]纯化与理论模型干预效能分野** 在[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，基于不同理论模型的干预方案在学业产出上存在显著分野。以 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 多维信念模型（$d = 0.625$）以及 Kuhn / Barzilai 发展协调模型（$d = 0.633$）为指导的教学干预，能够带来中等至大程度的稳健学业增益；相反，基于 Schommer (1990) 宽泛认知信念模型（混入了固定能力、快速学习等非认识论特质）的干预方案，平均[[Effect Size\|效应量]]仅为 $d = 0.185$（未达[[Statistical Significance\|统计显著性]]）。这一因果证据从实践干预维度有力确证了 Hofer 和 Pintrich 的理论主张：只有将认识论信念严格聚焦于“知识的本质”与“辩护来源”（而非泛化的学习意志力或智力特质），教学干预才能精准激活学生的深度证据检验与论证推理能力。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
@@ -153,7 +153,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜技术中介与人工智能交互中认识论信念的调节与逆向重塑机制
-> **探讨维度　数字化与[[Man-Computer Symbiosis|人机共生]]学习情境** 探讨学习者的认识论信念如何调节其在数字化与智能中介环境中的认知策略，以及技术环境如何反向驱动认识论信念演进。
+> **数字化与[[Man-Computer Symbiosis|人机共生]]学习情境** 探讨学习者的认识论信念如何调节其在数字化与智能中介环境中的认知策略，以及技术环境如何反向驱动认识论信念演进。
 
 > [!claim] Tsai & Wu et al.
 > **认识论信念在技术环境中的双向互动机制** 学习者对知识本质与来源的认识论信念在数字与[[Generative Artificial Intelligence\|生成式人工智能]]环境中展现出双向互动规律：

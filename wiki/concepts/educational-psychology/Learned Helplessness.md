@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （习得性无助）
@@ -113,7 +113,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Growth Mindset|实体智力观]]是诱发学业习得性无助的底层认知根源
-> **探讨维度　智力内隐观对无助反应的决定作用** 探讨学生持有的智力理论如何直接决定其在面对学业失败时的归因路径与行为反应。
+> **智力内隐观对无助反应的决定作用** 探讨学生持有的智力理论如何直接决定其在面对学业失败时的归因路径与行为反应。
 
 > [!claim] Dweck and Leggett (1988); [[Argument_Li_2012_Cambridge|Li (2012)]]
 > **[[Growth Mindset|实体智力观]]致病假说** 学生的行为模式深刻取决于其内隐智力理论。
@@ -122,7 +122,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜固定快速学习信念与[[Self-Efficacy|自我效能感]]崩塌加剧即时放弃
-> **探讨维度　[[Epistemological Beliefs|认识论信念]]与[[Self-Efficacy|自我效能]]的协同催化** 探讨固定与快速学习认识论信念如何与自我效能感交互，加速[[Problem Solving|复杂问题解决]]中的无助退缩。
+> **[[Epistemological Beliefs|认识论信念]]与[[Self-Efficacy|自我效能]]的协同催化** 探讨固定与快速学习认识论信念如何与自我效能感交互，加速[[Problem Solving|复杂问题解决]]中的无助退缩。
 
 > [!claim] Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]]
 > **快速学习期望与效能骤降命题** 认为学习必须迅速发生（Quick Learning）或能力生来固化（Fixed Ability）的认识论信念，是导致学生在复杂学术任务中过早放弃的关键催化剂。
@@ -131,7 +131,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜固定能力认识论信念在[[Academic Achievement|学业成就]]阶梯中呈现显著两极分化
-> **探讨维度　学业分层中的能力观分化** 长期学困生的认知系统普遍被固定快速学习能力信念所禁锢。
+> **学业分层中的能力观分化** 长期学困生的认知系统普遍被固定快速学习能力信念所禁锢。
 
 > [!claim] Qian and Alvermann (1995); [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]]
 > **学业阶梯中的[[Epistemology|认识论]]无助断层** 在中学科学教育实证中，固定与快速学习能力（Fixed and Quick Ability to Learn, FQAL）信念是预测学生长期总体[[Academic Achievement|学业成就]]预估值（EOAA）的最强因子（$\Delta R^2 = .08, p < .001$）。低学业成就组在固定能力信念上的幼稚程度显著高于高成就组（$M = .31$ vs $-.24, p < .001, \eta^2 = .08$）。学困生普遍深信能力天生且无法提升，这种认识论无助感使其在日常学习中长期处于低努力投入与防御性回避状态。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, pp. 318–320)]]
@@ -139,7 +139,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜性别社会化调节固定能力信念与无助易感性
-> **探讨维度　性别社会化与能力归因偏差** 探讨男女学生在能力可塑性信念上的系统性差异及其对学业耐挫力的影响。
+> **性别社会化与能力归因偏差** 探讨男女学生在能力可塑性信念上的系统性差异及其对学业耐挫力的影响。
 
 > [!claim] Enman and Lupart (2000); [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]]
 > **性别认识论分化与抗无助优势** 在基础教育阶段，男生比女生显著更幼稚地笃信天生能力论与快速学习论（$t = -5.07, p < .001, \eta^2 = .06$）。女生表现出更成熟的能力增长观与对持续努力价值的认可，在面对良构与劣构科学任务时均能维持更持久的自我调节与更低的无助放弃倾向，这一认识论优势构成了女生取得更高学业总评的重要心理支撑。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, pp. 321–322, 324)]]
@@ -147,7 +147,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜[[Generative Artificial Intelligence|生成式人工智能]]全流程代劳诱发自加[[Reliability|信度]]赤字与技术性习得性无助
-> **探讨维度　技术代写外包、心智剥夺与认知致残** 探讨当生成式 AI 充当全流程“私人厨师”时，如何剥夺学习者的实践机能并诱发认识论层面的自加[[Reliability|信度]]赤字。
+> **技术代写外包、心智剥夺与认知致残** 探讨当生成式 AI 充当全流程“私人厨师”时，如何剥夺学习者的实践机能并诱发认识论层面的自加[[Reliability|信度]]赤字。
 
 > [!claim] Nikolaidis (2021); [[Argument_Smith_2026_SPE|Smith (2026)]]
 > **技术代劳与自加信度赤字命题** 斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中指出，生成式 AI 的全流程代写给学生施加了深刻的[[Reliability|信度]]自我认知失真（Misperception of Credibility）。

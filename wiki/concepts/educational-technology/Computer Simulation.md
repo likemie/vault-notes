@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -147,7 +147,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜计算机模拟以[[Complexity Theory|复杂性理论]]为根基，能从微观简单规则中[[Emergence|涌现]]出宏观复杂网络与行为模式
-> **探讨维度　[[Complexity Theory|复杂性理论]]与[[Emergence|涌现]]建模维度** 解释为何数学模拟在教育社会学与网络科学等复杂开放系统中仍然具备扎实的解释力。
+> **[[Complexity Theory|复杂性理论]]与[[Emergence|涌现]]建模维度** 解释为何数学模拟在教育社会学与网络科学等复杂开放系统中仍然具备扎实的解释力。
 
 > [!claim] Waldrop, M. M. & Lewin, R.
 > **复杂系统根植于简单生成规则** 真实世界的社会与教育现象虽然表象高度复杂，但其底层往往建立在相对简单的局部互动规则之上。计算机模拟的理论基础植根于[[Complexity Theory|复杂性理论]]，通过反复迭代初始参数与 what-if 操作，研究者能够观察到复杂系统中微观行动者交互如何自组织涌现出宏观的群体行为模式（如学业分流固化、资源竞争极化），有力回应了模拟必然陷入过度简化论的批评。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|(Waldrop, 1992 via Cohen et al., 2011, pp. 147–154)]]
@@ -161,7 +161,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜模拟研究在保留实验控制精度的同时能够有效保持受试者能动行为的完整性
-> **探讨维度　实验逻辑与生态真实性交叉维度** 剖析计算机模拟在实验室受控实验与真实社会生态调查之间构建的独特方法论桥梁。
+> **实验逻辑与生态真实性交叉维度** 剖析计算机模拟在实验室受控实验与真实社会生态调查之间构建的独特方法论桥梁。
 
 > [!claim] Palys, T. S.
 > **环境控制度与行动者能动性的高度共存** 模拟一方面赋予研究者对情境环境参数（如任务难度、反馈频率、外界干扰）的完全控制能力；另一方面，被试置身于高度仿真的互动情境中，能够依据自身信念与决策风格自主行动。时间维度的连续纳入使被试成为积极的环境共建者，使研究者能够实时捕获具有反馈回路、多向因果交互的动态社会行为，消解了传统实验室纸笔测试中因过度僵硬而引发的[[Hawthorne Effect|霍桑效应]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|(Palys, 1978 via Cohen et al., 2011, pp. 166–167)]]
@@ -169,7 +169,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜配备[[Scaffolding|认知支架]]与即时介入的模拟探究在概念理解与科学推理上系统优于传统教学
-> **探讨维度　科学[[Inquiry-Based Learning|探究学习]]效能与支架协同维度** 聚焦现代教育技术[[Document|文献]]，确立虚拟模拟在 [[STEM Education|STEM]] 概念学习与远迁移中的循证优势。
+> **科学[[Inquiry-Based Learning|探究学习]]效能与支架协同维度** 聚焦现代教育技术[[Document|文献]]，确立虚拟模拟在 [[STEM Education|STEM]] 概念学习与远迁移中的循证优势。
 
 > [!claim] Smetana, L. K. & Bell, R. L.
 > **支持结构下模拟探究的促学优势** 对 61 项实证研究的[[Systematic Review|系统综述]]表明，当计算机模拟配备了清晰的引导问题、反思提示或[[Concept Mapping|概念图]]支架时，高达 80% 的实证研究证实计算机模拟探究在促进学科概念掌握与推理技能上显著优于传统讲授与纯实体实验。[[Argument_DeJong_2023_ERR|(Smetana & Bell, 2012 via De Jong et al., 2023, p. 5)]]
@@ -235,8 +235,8 @@ updated: 2026-11-02
 > > [!metax-ma]- 14 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Dekkers & Donatti (1981) | Simulations and achievement | 93 | NA | 93 | 0.33 |  |
-> > | Remmer & Jernstedt (1982) | Computer simulations | 21 | NA | 21 | 0.20 |  |
+> > | Dekkers and Donatti (1981) | Simulations and achievement | 93 | NA | 93 | 0.33 |  |
+> > | Remmer and Jernstedt (1982) | Computer simulations | 21 | NA | 21 | 0.20 |  |
 > > | Szczurek (1982) | Simulation games | 58 | NA | 58 | 0.33 |  |
 > > | Lee (1999) | Simulations on achievement | 19 | NA | 34 | 0.28 |  |
 > > | McKenna (1991) | Simulations in economics | 26 | NA | 118 | 0.38 |  |
@@ -247,7 +247,7 @@ updated: 2026-11-02
 > > | D'Angelo et al. (2014) | Simulations in STEM | 40 | NA | 36 | 0.67 |  |
 > > | Sitzmann (2011) | Computer simulations | 65 | 4,518 | 68 | 0.30 |  |
 > > | Chernikova et al. (2023) | Simulation based learning | 214 | NA | 409 | 0.94 |  |
-> > | Robledo & Prudente (2021) | Simulations | 15 | NA | 15 | 0.77 |  |
+> > | Robledo and Prudente (2021) | Simulations | 15 | NA | 15 | 0.77 |  |
 > > | Talan (2021c) | Simulations | 91 | 7,575 | 91 | 0.76 |  |
 
 > [!empirical-divider]

@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -157,7 +157,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜理论整合汇合于具有最大解释潜力的核心范畴以建构高概念密度
-> **探讨维度　理论整合与概念密度** 质性分析从离散编码提升为实质理论的关键，在于确立能够整合全部因果网络与叙事[[Story Line|故事线]]的核心范畴，实现[[Saturation|理论饱和]]与高概念密度。
+> **理论整合与概念密度** 质性分析从离散编码提升为实质理论的关键，在于确立能够整合全部因果网络与叙事[[Story Line|故事线]]的核心范畴，实现[[Saturation|理论饱和]]与高概念密度。
 
 > [!claim] Strauss (1987)
 > **核心范畴具备最大解释潜力** [[Grounded Theory|扎根理论]]分析必须在众多范畴中识别出具有最大解释潜力的核心范畴，所有其他次级范畴反复且紧密地与之产生实质关联。[[Selective Coding|选择性编码]]正是将所有已建立的范畴围绕核心范畴进行系统整合与经验回测的过程，通过理论饱和达成高概念密度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）。核心范畴在整合中展现为三重结构功能：充当六要素[[Paradigm|范式]]模型的引力轴心（因果条件、中介脉络与行动策略均围绕其展开）、汇聚主导故事线（将分散范畴在维度属性上对接并检验关联），以及作为编码包容层级系统的顶层整合节点。
@@ -165,7 +165,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜探究设计坚持单一聚焦与[[Nondirectional Language|非方向性语言]]以保障质性生成真实性
-> **探讨维度　探究设计与语言中立** [[Qualitative Research|质性研究]]在设计前端必须严守单一探索聚焦点与中立描述语言，防止研究者先验价值判断预先固化[[Variable|变量]]关系或污染经验[[Emergence|涌现]]过程。
+> **探究设计与语言中立** [[Qualitative Research|质性研究]]在设计前端必须严守单一探索聚焦点与中立描述语言，防止研究者先验价值判断预先固化[[Variable|变量]]关系或污染经验[[Emergence|涌现]]过程。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
 > **单一聚焦与非方向性准则维护探究[[Open-Mindedness|开放性]]** 质性[[Purpose Statement|目的陈述]]与核心提问推进单一核心现象，着重探明单一观念的深层内涵，避免在设计初期过早固化变量关联。同时，依据[[Nondirectional Language|非方向性法则]]（Law of Nondirection），界定核心现象时严禁使用暗示积极或消极结果的价值预设词汇，确保经验材料的开放性生成（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 125–126]]）。
@@ -173,7 +173,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜核心现象在[[Axial Coding|主轴编码]]中充当六要素范式模型的拓扑整合中心
-> **探讨维度　因果拓扑与机制编织** 在微观经验拆解后，核心现象充当拓扑中心，将条件、情境、行动与后果编织为有机自洽的因果解释网络。
+> **因果拓扑与机制编织** 在微观经验拆解后，核心现象充当拓扑中心，将条件、情境、行动与后果编织为有机自洽的因果解释网络。
 
 > [!claim] Strauss and Corbin (1990)
 > **六要素范式模型围绕核心现象建立因果网络** [[Axial Coding|主轴编码]]通过因果条件、核心现象、情境脉络、中介条件、行动/互动策略与结果六大要素重构数据。核心现象在这一拓扑网络中处于中心位置，脱离核心现象的组织整合，各个因果要素将退化为互不连贯的碎片（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。

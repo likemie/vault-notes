@@ -170,7 +170,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -255,7 +255,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜技术理性将专业实践简化为线性手段-目的计算并在复杂情境中面临根本性[[Epistemology|认识论]]危机
-> **探讨维度　沼泽地情境与工具理性的[[Epistemology\|认识论]]错配** 真实教育情境充满不确定性、不稳定性和价值冲突，技术理性基于封闭系统假定的因果控制在实践中必然遭遇认识论破产。
+> **沼泽地情境与工具理性的[[Epistemology\|认识论]]错配** 真实教育情境充满不确定性、不稳定性和价值冲突，技术理性基于封闭系统假定的因果控制在实践中必然遭遇认识论破产。
 
 > [!claim] Schön (1983) / [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] / [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]]
 > **技术理性的沼泽地困境与[[Reflexivity\|反思性]]转向** [[Positivism\|实证主义]]技术理性铺平了专业实践中的手段-目的思维，将工程材料分析与医学病理诊断树立为专业实践的唯一标杆（Schön, 1983, p. 31），将实践问题设想为独立于情境的良构实体，认为只要查阅和应用基础科学规律就能解决实际困难。然而，真实的专业实践深陷于由混乱、不确定与价值冲突构成的“沼泽地”（Swampy Lowland），突破了坚固高地的假设。在教育中，如 Nielsen & Klitmøller（2021a, 2021b）批判[[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》所示，将教学解构为孤立的[[Behaviorism|行为主义]]因果干预并压缩为[[Effect Size\|效应量]]排行榜，完全抹杀了具体课堂的生发性。技术理性无法处理[[Problem Finding\|问题界定]]本身，迫使专业人员必须转向“行动中反思”（Reflection-in-Action）以重构问题情境。
@@ -263,7 +263,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜教育政策中技术理性的制度化扩张通过去情境化因果控制剥夺教师[[Professional Judgment|专业判断]]并诱发治理[[Legitimation Crisis|合法化危机]]
-> **探讨维度　系统治理侵蚀生活世界与认识论全流程断裂** 当现代国家与跨国政策系统借由客观科学修辞推行技术官僚治理时，不仅瓦解了基层实践共识，更导致教育学科人本价值与因果推论基础的严重异化。
+> **系统治理侵蚀生活世界与认识论全流程断裂** 当现代国家与跨国政策系统借由客观科学修辞推行技术官僚治理时，不仅瓦解了基层实践共识，更导致教育学科人本价值与因果推论基础的严重异化。
 
 > [!claim] Habermas (1976) / Biesta (2007)
 > **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management\|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的[[Intentionality|意向性]]，剥夺了教师的[[Professional Judgment\|专业判断]]权，最终诱发深层的系统[[Legitimation Crisis|合法化危机]]。
@@ -310,7 +310,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜超越技术理性要求从单向线性研究供给转向基于专业判断与社会互动的[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Practice|证据知情实践]]
-> **探讨维度　终结自上而下输送模型与确立多元证据知情生态** 克服技术理性在教育中的弊端，应当以社会建构的[[Knowledge Mobilisation|知识动员]]与情境审议取代单向的“科学搬运”，防范滑向非理性的[[Subjectivism|主观主义]]。
+> **终结自上而下输送模型与确立多元证据知情生态** 克服技术理性在教育中的弊端，应当以社会建构的[[Knowledge Mobilisation|知识动员]]与情境审议取代单向的“科学搬运”，防范滑向非理性的[[Subjectivism|主观主义]]。
 
 > [!claim] [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] / Bryk et al. (2015)
 > **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为自上而下的“技术-理性”研究供给过程。[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017, p. 127)]] 指出，这种线性传递因忽视学校中介条件与教师专业准备度而频遭受挫，并触发了以 [[ResearchED]] 为代表的草根教师证据运动。推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP），必须确立[[Professional Judgment|专业判断]]为整合研究、系统数据与课堂情境的核心枢纽，将知识流动理解为多方协同共创的[[Knowledge Mobilisation|知识动员]]社会互动过程。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–131)]]

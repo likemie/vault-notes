@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Creativity Training
@@ -251,7 +251,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Creativity|创造潜能]]具有高度的教育可塑性且专门教学干预在各类影响因素中效应最强
-> **探讨维度　[[Creativity\|创造力]]的教育可塑性与干预效能** 探讨创造力究竟是不可改变的天赋特质，还是能够通过系统教学设计与认知训练获得显著提升的心理潜能。
+> **[[Creativity\|创造力]]的教育可塑性与干预效能** 探讨创造力究竟是不可改变的天赋特质，还是能够通过系统教学设计与认知训练获得显著提升的心理潜能。
 
 > [!claim] Runco et al.
 > **教育干预在各类相关因素中效应最大** [[Meta-meta-analysis\|二阶元分析]]表明，在各类与创造力相关的因素中，专门的教育教学干预与创造力呈现出最大的关联[[Effect Size\|效应量]]（$r = 0.20$, 95% [[Confidence Interval\|置信区间]] $[0.10, 0.29]$），显著超越认知相关因素（$r = 0.12$）、外认知人格动机因素（$r = 0.14$）以及人口学背景[[Variable\|变量]]（$r = 0.07$），有力证实了人类创造潜能对教育干预的高度响应性。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
@@ -265,7 +265,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜包含问题重构与评价选择的全流程复合训练效能显著优于单一技巧训练
-> **探讨维度　干预深度与全流程创造循环** 探讨创造力教学究竟应停留在浅层的[[Brainstorming\|头脑风暴]]构想生成技巧，还是必须涵盖从[[Problem Finding\|问题界定]]、策略生成到方案评价的完整反馈回路。
+> **干预深度与全流程创造循环** 探讨创造力教学究竟应停留在浅层的[[Brainstorming\|头脑风暴]]构想生成技巧，还是必须涵盖从[[Problem Finding\|问题界定]]、策略生成到方案评价的完整反馈回路。
 
 > [!claim] Scott et al.; Ma
 > **复合训练包的优势效应** 整合了问题发现、[[Divergent Thinking\|发散思维]]练习、概念重组启发式工具与构想评估标准的系统课程（如 [[Creative Problem Solving\|CPS]] 模型 $d = 0.74 \sim 0.77$、PCTP 方案 $d = 0.63$），其在各年龄段与不同领域的促进效应与迁移稳定性显著超越孤立单一的自由联想练习。
@@ -276,7 +276,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜干预周期呈现倒 U 型非线性调节规律且中短期强化干预具备最优效能
-> **探讨维度　时间跨度、认知饱和与动机疲劳调节** 探讨创造力干预时长是受到策略精熟度、动机倦怠与[[Habituation\|习惯化]]定势的非线性调节，有别于线性越长越好。
+> **时间跨度、认知饱和与动机疲劳调节** 探讨创造力干预时长是受到策略精熟度、动机倦怠与[[Habituation\|习惯化]]定势的非线性调节，有别于线性越长越好。
 
 > [!claim] Guo et al.
 > **干预周期的倒 U 型时间窗口** 多层元分析与[[Meta-regression\|元回归]]表明，干预周期在元回归中解释了 13.4% 的组间方差（$\Delta\tau = 0.074$）：$< 2$ 个月（4–8 周）的中短期训练产生最强促进效应（$g = 0.844$），构成认知策略精熟与动机维持的最佳黄金窗口；而长达数年的超长周期训练因常规化倦怠与[[Habituation\|习惯化]]定势，干预效应明显衰退甚至不显著（$< 3$ 年 $g = -0.122, p = .522$）。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–8)]]
@@ -287,7 +287,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜言语符号即时[[Externalization|外化]]与独立沉思组织形式展现出最强干预增益
-> **探讨维度　教学媒介与互动形式的认知机制** 探讨不同教学方式（言语 vs 思维 vs 技术 vs 情绪）与组织形态（个体练习 vs 小组协作）对创造力激发的差异化效能。
+> **教学媒介与互动形式的认知机制** 探讨不同教学方式（言语 vs 思维 vs 技术 vs 情绪）与组织形态（个体练习 vs 小组协作）对创造力激发的差异化效能。
 
 > [!claim] Guo et al.
 > **言语训练与独立沉思的优势路径** 在各类干预方式中，言语训练通过口头叙述与另类用途即时表达，加速远距离语义检索并解除语义抑制，获得最高效应量（$g = 0.998$）；在组织形式上，独立个体练习（$g = 0.682$）显著优于小组协作（$g = 0.567$），证实个体深思能有效规避群体互动中的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking）。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 7–9)]]
@@ -361,9 +361,9 @@ updated: 2026-11-02
 > > [!metax-ma]- 20 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Rose & Lin (1984) | Long term creativity programs | 46 | NA | 46 | 0.47 |  |
+> > | Rose and Lin (1984) | Long term creativity programs | 46 | NA | 46 | 0.47 |  |
 > > | Cohn (1984) | Creativity training effectiveness | 106 | NA | 177 | 0.55 |  |
-> > | Bangert-Drowns & Bankert (1990) | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |  |
+> > | Bangert-Drowns and Bankert (1990) | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |  |
 > > | Hollingsworth (1991) | Creativity programs | 39 | NA | 39 | 0.82 |  |
 > > | Conard (1992) | Creative dramatics | 20 | NA | 28 | 0.48 |  |
 > > | Scope (1998) | Instructional influences on creativity | 30 | NA | 40 | 0.90 |  |
@@ -373,14 +373,14 @@ updated: 2026-11-02
 > > | Huang (2005) | Creativity programs | 51 | NA | 62 | 0.89 |  |
 > > | Berkowitz (2006) | Various creative communication strategies | 23 | 5,000 | 39 | 0.46 |  |
 > > | Niu et al. (2013) | Programs on creative thinking | 31 | NA | 40 | 0.20 |  |
-> > | Liu & Chang (2017) | 4P creativity program | 11 | 745 | 11 | 0.95 |  |
+> > | Liu and Chang (2017) | 4P creativity program | 11 | 745 | 11 | 0.95 |  |
 > > | Yu (2012) | Practical reasoning on home economics outcomes | 25 | NA | 35 | 0.60 |  |
-> > | Huber & Kuncel (2016) | Programs on creative thinking | 71 | 25,577 | 71 | 0.59 |  |
+> > | Huber and Kuncel (2016) | Programs on creative thinking | 71 | 25,577 | 71 | 0.59 |  |
 > > | Abrami et al. (2008) | Interventions on critical thinking skills and dispositions | 117 | 20,698 | 161 | 0.34 |  |
 > > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | Teaching students to think critically | 341 | NA | 867 | 0.33 |  |
 > > | Allen et al. (2011) | Public speaking on critical thinking skills | 23 | 4,545 | 35 | 0.43 |  |
-> > | Sahin & Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
-> > | Sio & Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
+> > | Sahin and Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
+> > | Sio and Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
 
 > [!empirical-divider]
 

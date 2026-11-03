@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题类型一｜全球化对本土模式的冲击（Global [[Hegemony]] & Local Erosion）
-> **探讨维度　软治理对国家[[Discourse|话语]]的扭转** 这一命题群关注国际经济组织如何利用量化治理侵蚀并重塑北欧各国的教育主权与核心价值。
+> **软治理对国家[[Discourse|话语]]的扭转** 这一命题群关注国际经济组织如何利用量化治理侵蚀并重塑北欧各国的教育主权与核心价值。
 
 > [!claim] <Schaffar, B., & Wolff, L.-A.>
 > 20世纪90年代以来，芬兰等国遭遇严重经济衰退，这削弱了本土模式的抵抗力，导致国家急于响应 [[OECD]] 的”信息社会”和”[[21st Century Skills and Competencies Discourse\|21世纪技能]]”政策话语。[[PISA]] 测试的意外成功非但没有增强其自主权，反而带来了维持”最佳模型”的焦虑，加速吸纳全球测量和经济竞争逻辑，破坏了传统福利教育的团结基础（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。

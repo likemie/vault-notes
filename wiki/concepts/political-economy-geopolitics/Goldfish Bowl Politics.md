@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜金鱼缸式的微观道德曝光系统性恶化了现代民主政体的治理能力
-> **探讨维度　政治激励与精英选拔机制** 探讨全景式隐私曝光如何扭曲政治公职的人才供给，并在制度上奖励无信念的平庸官僚。
+> **政治激励与精英选拔机制** 探讨全景式隐私曝光如何扭曲政治公职的人才供给，并在制度上奖励无信念的平庸官僚。
 
 > [!claim] Sabato, L. J.
 > **[[Feeding Frenzy|攻击性新闻业]]对公共利益的破坏** 媒体对公职候选人个人私事无底线的窥探与狂欢式围剿，大幅推高了权力角逐的个人代价，导致大量能为公共福祉作出卓越贡献的顶尖人才因不愿承受侵入性报道而彻底放弃从政。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]; (Sabato, 1993, p. 211)

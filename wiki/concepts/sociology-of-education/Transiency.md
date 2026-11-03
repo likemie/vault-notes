@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜政策绩效问责制将学生中途转学异化为遮蔽学校责任的病理化免责指标
-> **探讨维度　绩效问责异化与制度免责** 探讨高利害评价体系如何扭曲流动的政策语义，促使学校系统将学生的身体移动工具化为免受处罚的制度借口。
+> **绩效问责异化与制度免责** 探讨高利害评价体系如何扭曲流动的政策语义，促使学校系统将学生的身体移动工具化为免受处罚的制度借口。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **绩效问责下的免责替罪羊** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）强制推行“学校报告卡（School Report Card）”制度，中途转入或转出学校的[[Student Mobility|学生流动]]率被确立为反映生源特征的核心参数。奥芬伯格（Offenberg, 2004）等研究表明，薄弱学校管理者普遍利用高转学流动率作为未达成年度[[Adequate Yearly Progress|充分学业进展]]（AYP）的免责说辞，声称学业退步是由生源“频繁漂泊”造成的不可抗力，从而将系统性资源匮乏与学校教学失职巧妙转嫁给底层学生家庭。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜实证研究证实中途转学主要受居住动荡驱动并构成底层家庭的主动避险策略
-> **探讨维度　去病理化与底层家庭能动性** 探讨量化追踪与微观质性调查如何[[Falsification|证伪]]官方管理[[Discourse|话语]]中的“家庭病态论”，还原弱势群体在恶劣空间环境中的抗争理性。
+> **去病理化与底层家庭能动性** 探讨量化追踪与微观质性调查如何[[Falsification|证伪]]官方管理[[Discourse|话语]]中的“家庭病态论”，还原弱势群体在恶劣空间环境中的抗争理性。
 
 > [!claim] Rumberger (2003)
 > **居住变迁的主导因果律** 实证教育社会学研究直接推翻了“家庭道德失范导致漂泊”的病理学假设。拉塞尔·伦伯格（Russell Rumberger, 2003）通过大样本追踪数据证实，约 60% 的中小学生学年中途转校完全是由居住地变迁驱动的（如租约到期、租金上涨、父母被解雇或调换工作等经济客观约束），而非家庭缺乏定居意愿。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]

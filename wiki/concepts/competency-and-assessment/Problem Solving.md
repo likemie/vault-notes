@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征与[[Metacognition|元认知监控]]
-> **探讨维度　问题空间表征与认知负荷调控** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助[[Metacognition|元认知监控]]实现自适应路径调整。
+> **问题空间表征与认知负荷调控** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助[[Metacognition|元认知监控]]实现自适应路径调整。
 
 > [!claim] Zhao et al.
 > **深层问题表征与逻辑推演机制** 复杂情境中的问题解决是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索，有别于被动的步骤模仿。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
@@ -144,7 +144,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜智能工具的程序性契合能显著分担搜索负荷但需防范[[Cognitive Offloading|认知外包]]
-> **探讨维度　智能副驾驶与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为“思维副驾驶”对逻辑推演的赋能机制及其引发的心智懒惰风险。
+> **智能副驾驶与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为“思维副驾驶”对逻辑推演的赋能机制及其引发的心智懒惰风险。
 
 > [!claim] Zhao et al.
 > **程序性高度契合与[[Cognitive Offloading|认知外包]]反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在[[Man-Computer Symbiosis|人机协同]]中充当强大的“思维副驾驶”。然而，若缺乏强有力的过程性监管与反思引导，学生极易滑向直接索取现成答案的“捷径式学习”，导致底层逻辑推演与手动排错能力的退化。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
@@ -152,7 +152,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜真实工程问题解决遵循多重物理约束下的权衡决策与现场排障规程
-> **探讨维度　[[Domain Specificity|学科特异性]]工程排障与[[Epistemic Practices|认识论实践]]** 探讨工程与实验科学中，问题解决如何超越纯认知符号计算，体现为材料约束、原型测试与现场故障排除的具身实践。
+> **[[Domain Specificity|学科特异性]]工程排障与[[Epistemic Practices|认识论实践]]** 探讨工程与实验科学中，问题解决如何超越纯认知符号计算，体现为材料约束、原型测试与现场故障排除的具身实践。
 
 > [!claim] Kelly, G. J. & Kratsios, M.
 > **多约束折中与现场排障实践论** 真实世界中的工程问题解决以“设计—测试—排障—迭代”为核心[[Epistemology|认识论]]规程，解题者必须在材料极限、制造成本、安全规程与工艺公差之间寻求最优权衡（Trade-offs）。白宫科技政策办公室 2026 报告进一步指出，最关键的问题解决能力往往表现为资深工程师与机械师在产线一线面对异常噪声与良率波动时展现的排障直觉（Troubleshooting Intuition）与[[Phronesis|实践智慧]]，这种物理层面的具身排障经验无法被纯软件算法所取代。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]

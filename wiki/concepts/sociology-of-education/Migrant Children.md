@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜城乡二元[[Hukou System|户籍制度]]将居住权与公共品分配解绑，生产出具有空间准入壁垒的第二等教育公民身份
-> **探讨维度　[[Hukou System|户籍制度]]的公民权排斥** 现代民族国家的社会契约通常预设“常住居住即享有地方公共品”；而二元户籍制度将受教育权与出生地血缘严格绑定，造成劳动力贡献与公共品享有的制度脱节。
+> **[[Hukou System|户籍制度]]的公民权排斥** 现代民族国家的社会契约通常预设“常住居住即享有地方公共品”；而二元户籍制度将受教育权与出生地血缘严格绑定，造成劳动力贡献与公共品享有的制度脱节。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Liang and Chen (2007)
 > **二元户籍对流动儿童的教育剥夺** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, p. 365）援引梁在与陈艳霞（Zai Liang & Yanxia Chen, 2007）以及邵庆与守礼（Shaoqing & Shouli, 2004）的考证指出，中国城乡二元户籍制度在本质上建立了一种领地化准入壁垒。尽管数以千万计的进城务工人员为城市繁荣贡献了充沛的人口红利，但其随迁子女却被城市公共教育管理体系界定为“非正规城市居民”（Non-formal Urban Residents），长期被剥夺平等享受地方公共财政资助的权利，使其在法律和制度上沦为第二等教育公民。
@@ -104,7 +104,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜特大城市人口调控通过准入门槛行政化，将随迁子女就学工具化为劳动力空间筛选的人口治理技术
-> **探讨维度　[[Spatial Governmentality|空间治理术]]与人口筛选手段** 当城市政府难以通过直接行政命令阻断劳动力流入时，抬升随迁家属与子女的公共服务获得门槛，便成为柔性调控人口分布的空间[[Governmentality|治理术]]。
+> **[[Spatial Governmentality|空间治理术]]与人口筛选手段** 当城市政府难以通过直接行政命令阻断劳动力流入时，抬升随迁家属与子女的公共服务获得门槛，便成为柔性调控人口分布的空间[[Governmentality|治理术]]。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & French (2007)
 > **教育准入作为空间人口调控的手段** 索贝与菲舍尔指出，特大城市对[[Migrant Education|流动儿童教育]]政策的收紧（如 2006 年北京集中关停上百所打工子弟学校，以及后续出台极其严苛的租房税、社保连续缴纳等入学前置审批），表面上是出于办学安全考量，实质上是城市政府为了控制特大城市人口承载规模所施行的空间[[Governmentality|治理术]]。在 2000 万流动儿童的庞大规模下，教育准入被异化为驱逐低端劳动力、筛选高技能人口的空间调控行政手段。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜随迁儿童进入公办学校后面临从显性空间隔离向隐性文化区隔的[[Discourse|话语]]再生产
-> **探讨维度　[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]下的隐性文化排斥** 物理校舍大门的敞开并不代表实质平等的实现；象征空间的认知分类与[[Cultural Capital|文化资本]]差异，会完成对边缘主体的二次筛选。
+> **[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]下的隐性文化排斥** 物理校舍大门的敞开并不代表实质平等的实现；象征空间的认知分类与[[Cultural Capital|文化资本]]差异，会完成对边缘主体的二次筛选。
 
 > [!claim] Yan (2005) & [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **校园内部的象征区隔与文化贬抑** 严（Yan, 2005）的实证研究表明，即便公办学校依据“两为主”政策接纳了随迁儿童（满足了公平-参与层面的物理准入），但在知识分类与日常人际互动层面，由[[Sedentarism|定居主义]]主导的[[Discourse|话语]]体系依然将流动背景与“缺乏家教”、“普通话不标准”、“学业落后”紧密绑定。流动儿童往往在学校内部被安排在特定的后进生群体或边缘位置，面临着从物理阻隔向心理与文化象征隔离的异化再生产。

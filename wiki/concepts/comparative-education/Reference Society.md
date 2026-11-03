@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜系统[[Externalization|外化]]需求驱动决策者内部建构外部模范社会以打破本土政治僵局
-> **探讨维度　政治合法性危机与外化建构维度** 本类命题围绕公共政策系统为何需要树立模范社会展开，阐发内部自我参照失效时决策精英调用外部权威的因果逻辑。
+> **政治合法性危机与外化建构维度** 本类命题围绕公共政策系统为何需要树立模范社会展开，阐发内部自我参照失效时决策精英调用外部权威的因果逻辑。
 
 > [!claim] [[Jurgen Schriewer|Schriewer, J.]] & [[Niklas Luhmann|Luhmann, N.]]
 > **外部参照点的系统论建构机制** 现代社会教育系统的结构性矛盾与[[Policy Ambiguity|决策歧义性]]，迫使政策行动者通过“内部建构外部参照点”来获得论据豁免权。参考社会是本土系统为克服自身内在合法性赤字而主动建构的[[Epistemology|认识论]]避风港，其权威建立于"仿佛有效"的[[Discourse|话语]]投射之上——只有当它看似有效时，这一建构才发挥实际效用。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
@@ -147,7 +147,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜模范社会的选择深受文化亲和力与[[Geopolitics|地缘政治]]偏见的筛选规制
-> **探讨维度　文化距离与意识形态过滤维度** 本类命题聚焦参考社会在跨国流动中的选择性偏向，揭示测评数据与文化政治边界之间的张力。
+> **文化距离与意识形态过滤维度** 本类命题聚焦参考社会在跨国流动中的选择性偏向，揭示测评数据与文化政治边界之间的张力。
 
 > [!claim] [[Jin Li|Li, J.]] et al.
 > **文化亲和力对客观排名的规制筛选** 国际评估排名仅构成候选池，真正的参考社会地位取决于与借用方社会的文化距离与政治兼容度。西方发达国家更倾向于将芬兰或加拿大而非东亚高分地区树立为标准典范，证明了符号借用中的西方中心主义与文化筛选逻辑。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜超国家治理复合体分化为外向型同行参照与机构自指性中介体系
-> **探讨维度　多边机构[[Knowledge Mediation|知识中介]]的分野机制** 本类命题聚焦全球[[Governing by Numbers|数字治理]]时代多边组织如何通过差异化策略重构模范社会逻辑。
+> **多边机构[[Knowledge Mediation|知识中介]]的分野机制** 本类命题聚焦全球[[Governing by Numbers|数字治理]]时代多边组织如何通过差异化策略重构模范社会逻辑。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **外向型同行参照与自指性中介的分野** 在数字治理时代，[[Policy Brokerage|政策中介]]工具箱的多样化瓦解了单一模范逻辑：[[OECD|经合组织]]依托横向国别比较维持外向型参考社会网络；[[World Bank|世界银行]]则通过排他性技术工具（[[Systems Approach for Better Education Results|SABER]]）构筑起闭门自证的自指性话语体系，将自身工具直接等同于最佳实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]

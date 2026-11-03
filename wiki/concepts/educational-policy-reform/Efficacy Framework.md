@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜跨国出版资本通过设定实效性标准将商业评测转化为排他性的公共采购准入门槛
-> **探讨维度　市场准入与准垄断机制** 探讨跨国教育企业如何利用高成本的因果实证审计设定行业准入门槛，将中小竞争者与传统公办机构排除出政府采购清单。
+> **市场准入与准垄断机制** 探讨跨国教育企业如何利用高成本的因果实证审计设定行业准入门槛，将中小竞争者与传统公办机构排除出政府采购清单。
 
 > [!claim] [[Michael Barber|Barber, M.]]
 > **商业问责正当性** 跨国教育机构有道德义务证明其每一项商业销售都能带来真实的学习成效改善，通过公开实效审计报告能够打破低效产品的市场生存空间。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜实效性[[Discourse|话语]]将复杂的教育人文本质窄化为可量化的[[Technical Rationality|技术理性]]因果产出
-> **探讨维度　[[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]]异化** 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
+> **[[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]]异化** 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
 
 > [!claim] O'Neill et al.
 > **技术理性压制[[Professional Judgment|专业判断]]** 实效性框架以因果量化为唯一合法尺度，迫使公立学校采购能够短期推高测验分数的流水线式工具，削弱了教师基于具体学生情境的专业反思。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 134–135)]]

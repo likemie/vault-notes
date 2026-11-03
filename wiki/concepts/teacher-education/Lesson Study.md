@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜基于微观学生证据的同伴反思是穿透教师专业盲区的核心动力
-> **探讨维度　微观实证观察对主观盲区的消解** 课例研究将教学反思从“教师主观感觉”锚定在“学生客观学习证据”之上。
+> **微观实证观察对主观盲区的消解** 课例研究将教学反思从“教师主观感觉”锚定在“学生客观学习证据”之上。
 
 > [!claim] 课例实证研讨的机制优势
 > 课例研究之所以在东亚被证实能持续提升教学质量，关键在于其将教研焦点从“抽象理念清谈”下沉为“微观课堂行为观察”，并以个案学童的真实反应作为检验教学假设的试金石。这种基于证据的对话打破了教师各自为政的课堂孤岛，使隐性经验转化为公共知识。
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜脱离制度化保障的跨文化移植极易沦为形式主义并产生时间挤出效应
-> **探讨维度　制度支撑脱嵌与机会成本代价** 课例研究有别于轻量级工具，缺乏课时减免与高位引领的生硬推行会造成零效应与时间贫困。
+> **制度支撑脱嵌与机会成本代价** 课例研究有别于轻量级工具，缺乏课时减免与高位引领的生硬推行会造成零效应与时间贫困。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Murphy, R. et al.
 > **移植阻抗与时间替代代价** 当一种深度依附于东亚集体主义文化与制度化教研保障的教育[[Paradigm\|范式]]被生硬植入高度问责且课时繁重的西方学校时，课例研究往往沦为“耗费大量教师精力、制造了高度协作满意假象，却未能穿透微观学科认知”的表层形式主义活动，甚至因占用教师日常备课和个别辅导时间对学生产出构成无形挤占。（p. 56）
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜课例研究作为[[Joint Practice Development|联合实践发展]]载体，是融通[[Practitioner Enquiry|实践者探究]]与外部[[Research Utilization|研究使用]]的操作中枢
-> **探讨维度　[[Joint Practice Development\|JPD]] 载体与 [[Professional Learning Community\|PLC]] 循证落地的组织中枢** 课例研究消解了[[Practitioner Enquiry\|实践者探究]]与外部证据运用的壁垒，是 PLC 避免[[Activity Traps\|活动陷阱]]的关键制度保障。
+> **[[Joint Practice Development\|JPD]] 载体与 [[Professional Learning Community\|PLC]] 循证落地的组织中枢** 课例研究消解了[[Practitioner Enquiry\|实践者探究]]与外部证据运用的壁垒，是 PLC 避免[[Activity Traps\|活动陷阱]]的关键制度保障。
 
 > [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Sebba, J. et al.; Dudley, P.
 > **实践探究与外部证据的双向交融** 教师参与[[Evidence-Informed Practice\|证据知情实践]]面临两难：自主探究容易因循守旧，外部研究容易浮于表面。Brown & Greany 指出，课例研究作为联合实践发展（JPD）的典型模式，使“教师自主探究”与“运用成熟研究证据”在真实磨课中实现有机结合。课例研究不仅提供微观课堂反思，更为学校 PLC 提供了正式的制度系统，使教师得以协同测试、实施并微调外部循证干预举措；唯有依托此类严密结构，学校才能避免陷入频繁开会却无因果检验的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122, 125)]]

@@ -91,7 +91,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Constructivist Instruction
@@ -140,7 +140,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学习效能取决于学生建构活动与课程评估的系统对齐
-> **探讨维度　[[Constructive Alignment\|建构性对齐]]机制** 探讨为何单纯改变教师讲授技巧难以提升理解，阐明学生实际开展的认知活动如何决定最终学习品质。
+> **[[Constructive Alignment\|建构性对齐]]机制** 探讨为何单纯改变教师讲授技巧难以提升理解，阐明学生实际开展的认知活动如何决定最终学习品质。
 
 > [!claim] [[Argument_Biggs_1999_HERD\|Biggs (1999)]]
 > **活动对齐驱动深度理解** [[Constructivist Paradigm\|建构主义]]的核心命题在于，学生学到了什么取决于其为了达成目标所实际开展的认知活动，这优先于教师单纯展示讲授技巧。在第三级教学观下，教师不仅要设定具有高阶认知动词的预期目标，更必须设计能够强迫学生调用高阶加工的活动，并使评估方式同样考核这些建构性表现。当目标、活动与评估形成建构性对齐时，学生便无法依靠低阶[[Rote Learning\|死记硬背]]通过考核，深层建构与概念理解自然得以发生。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 61–65)]]
@@ -148,7 +148,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜建构主义教学的因果收益取决于结构化指导支架的精准嵌入
-> **探讨维度　支架介入与因果效能机制** 考察建构主义教学究竟应采取放任自流还是结构化支架，揭示程序规范教学在突破认知负荷瓶颈中的决定性价值。
+> **支架介入与因果效能机制** 考察建构主义教学究竟应采取放任自流还是结构化支架，揭示程序规范教学在突破认知负荷瓶颈中的决定性价值。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
 > **结构化指导保障建构效能** 针对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]表明，建构主义常规教学对学生的[[Academic Achievement\|学业成就]]与高阶认知表现具有稳健的显著因果促进效应。然而，干预框架呈现出显著的层级分化：当建构主义教学配套了显性的程序支架与评估规程（如[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]）时，干预效应录得大幅提升；相反，缺乏结构化支架的无指导自由探索（如基于问题的开放学习或自由辩论）效应微弱且未达统计显著。这实证确立了建构主义教学的实践边界：成熟建构主义教学以高水平支架护航高阶建构，有别于取消指导的放任探索。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
@@ -156,7 +156,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜学习建构性要求教师承担主动激活与结构化指导角色
-> **探讨维度　教学论范畴澄清与角色重塑** 辨析学习心理学的概念建构本质与具体教学实践形态之间的[[Epistemology|认识论]]关联，破除将建构主义等同于放任非指导的范畴误区。
+> **教学论范畴澄清与角色重塑** 辨析学习心理学的概念建构本质与具体教学实践形态之间的[[Epistemology|认识论]]关联，破除将建构主义等同于放任非指导的范畴误区。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]; Hattie (2009)
 > **建构认识论驱动显性激活领导** 针对[[International Education|国际教育]]界长期将建构主义窄化为无指导自由探究、并把教师贬低为被动促进者的流行风尚，[[John Hattie|约翰·哈蒂]]与[[Ewald Terhart|埃瓦尔德·特哈特]]从实证[[Meta-meta-analysis|元综合]]与[[Didaktik|欧陆教学论]]视角进行了系统澄清与辩正：第一，“建构主义是一种知识形式，无法直接作为具体的教学形式”（Hattie, 2009, p. 243；Terhart, 2011, p. 433）；第二，学习者的理解固然是通过内部心智图式的同化与顺应主动建构生成的，但这在逻辑上从未要求教师放弃教学领导或退居旁观；相反，正因为深层概念建构需要克服认知偏差与盲目试错，教学更需要教师作为主动激活者，明确呈现结构化标准、搭建支架并持续提供形成性反馈。实证二阶综合中激活者对促进者的显著优势，确证了高质量建构主义教学必须与教师的主动认知领导紧密结合。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431–434)]]
@@ -230,8 +230,8 @@ updated: 2026-11-02
 > > [!metax-ma]- 8 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Erisen & Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
-> > | Semerci & Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
+> > | Erisen and Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
+> > | Semerci and Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
 > > | Li, Din, et al. (2021) | Learner centered education | 42 | NA | 72 | 0.54 |  |
 > > | Selçuk & Yilmaz (2020) | Constructivist teaching | 57 | 6,237 | 114 | 1.04 |  |
 > > | Ulum & Tümkaya (2022) | Student centered teaching | 63 | NA | 66 | 0.79 |  |

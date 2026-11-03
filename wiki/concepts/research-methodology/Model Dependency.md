@@ -66,7 +66,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜统计模型的微小假定差异足以颠覆大规模现场试验的政策定性与证据等级
-> **探讨维度　探讨维度：[[Causality\|因果推断]]在数学模型层面的高度脆弱性** 计量方法学研究揭示：教育干预的有效性判定是高度受制于后端统计分析师选用的回归公式结构，有别于仅仅取决于教学方案本身。
+> **[[Causality\|因果推断]]在数学模型层面的高度脆弱性** 计量方法学研究揭示：教育干预的有效性判定是高度受制于后端统计分析师选用的回归公式结构，有别于仅仅取决于教学方案本身。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 52)]]; Xiao, Higgins, & Kasim (2016)
 > **多模型复算下的显著性漂移** 杜伦大学团队对英国 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 原始数据进行的四模型复算显示：超过三分之二的干预项目，其是否具有[[Statistical Significance\|统计显著性]]完全取决于使用的是简单均值对比、[[Ordinary Least Squares\|OLS]] 回归、[[Hierarchical Linear Model\|MLM]] 还是 [[Generalized Estimating Equations\|GEE]] 模型。某些干预在研究者自选的模型中呈现耀眼的 $p < .05$，一旦放入严格校正学校两级嵌套的随机截距模型中，置信区间便直接跨越零点。这意味着如果没有统一的模型规范，政策制定者可能基于统计模型的偶然选择，错误资助无效方案或扼杀有潜力的实践。
@@ -135,7 +135,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜单纯依靠数据透明无法解决推断危机，必须通过前置[[Statistical Analysis Plan|统计分析计划]]（SAP）构建方法学制度防火墙
-> **探讨维度　探讨维度：从开放数据到流程规程化的治理转向** 开放科学研究指出：公开原始微观数据虽然保障了可复现性（Reproducibility），但无法自主解决可比性（Comparability）；唯有剥夺事后自由挑选模型的裁量权，才能维护循证科学的公信力。
+> **从开放数据到流程规程化的治理转向** 开放科学研究指出：公开原始微观数据虽然保障了可复现性（Reproducibility），但无法自主解决可比性（Comparability）；唯有剥夺事后自由挑选模型的裁量权，才能维护循证科学的公信力。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 52–53)]]
 > **统计分析指南的制度化诞生** 面对 17 项试验复算揭示的模型依赖性危机，[[Education Endowment Foundation\|EEF]] 迅速将学术危机转化为治理法典，于 2018 年出台了行业里程碑《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。该指南硬性确立三条基准：

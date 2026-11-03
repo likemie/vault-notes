@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜研究证据过剩非但未能消解政策模糊性反倒为决策者的策略性政治采纳提供了丰富弹药
-> **探讨维度　政治选择性挪用与证据合法化辩护机制** 围绕海量证据如何成为执政者合理化既定偏好的工具展开。
+> **政治选择性挪用与证据合法化辩护机制** 围绕海量证据如何成为执政者合理化既定偏好的工具展开。
 
 > [!claim] Lubienski (2019)
 > **思想市场中的逆向选择** 在竞争激烈的思想市场中，政客往往类似“在超市自选商品”，精准挑拣佐证其既定意识形态主张的研究报告，并将不利研究斥为伪科学。
@@ -125,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜海量信息超载确立了[[Policy Brokerage|政策中介]]机构对证据进行提炼与权威认证的垄断特权
-> **探讨维度　中介[[Gatekeepers|守门人]]特权与[[Governing by Numbers|数字治理]] 2.0 转型** 围绕信息过载如何将治理权力转移至知识包装中介手中展开。
+> **中介[[Gatekeepers|守门人]]特权与[[Governing by Numbers|数字治理]] 2.0 转型** 围绕信息过载如何将治理权力转移至知识包装中介手中展开。
 
 > [!claim] Steiner-Khamsi et al.
 > **从知识制造到[[Policy Brokerage|政策中介]]的重心转移** 在信息过量时代，治理权力的核心在于“在海量数据中提取清晰洞见并建立说服力”的能力；[[OECD|经合组织]]与[[World Bank|世界银行]]正是依托其指标打包与转译技术，在过剩的证据生态中成为各国政府的重要政策导航中枢。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538, 544)]]

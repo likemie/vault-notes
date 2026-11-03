@@ -52,7 +52,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Allgemeine Pädagogik|普通教育学]]作为母体学科为教育科学及其分支领域筑牢规范教化与哲学本体防线
-> **探讨维度　母体奠基与规范抵御维度** 探讨[[Allgemeine Pädagogik|普通教育学]]如何作为欧陆教育科学的母体中枢，为应用和分支学科提供价值防护。在技术官僚主义与唯经济效益论的冲击下，普通教育学维系了教育以人为本的核心尊严。
+> **母体奠基与规范抵御维度** 探讨[[Allgemeine Pädagogik|普通教育学]]如何作为欧陆教育科学的母体中枢，为应用和分支学科提供价值防护。在技术官僚主义与唯经济效益论的冲击下，普通教育学维系了教育以人为本的核心尊严。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > **母体归属对学科独立性的庇护** 米特指出，德国及中东欧教育学科发展的一大核心特质，就是该学科从哲学与神学底色的普通教育学中衍生而来。这种源自普通教育学母体的血缘纽带，使得欧洲大陆的教育学者在面对政治动员、意识形态规训或外部经济功利指标冲击时，始终能够退守至对人的教化（[[Bildung]]）这一根本规范承诺之中，防止教育研究沦为纯粹服务于国家竞争的技术工程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜现代普通教育学通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制克服哲学封闭并实现跨学科经验实证扩展
-> **探讨维度　学科[[Open-Mindedness|开放性]]与[[Knowledge Integration|知识整合]]维度** 考察普通教育学如何突破传统形而上学书斋的自我封闭。通过将比较教育等分支确立为[[Comparative Education as a Cross-Sectional Area|交叉领域]]，普通教育学在维系育人核心的同时成功实现了面向历史与经验社会科学的现代化转型。
+> **学科[[Open-Mindedness|开放性]]与[[Knowledge Integration|知识整合]]维度** 考察普通教育学如何突破传统形而上学书斋的自我封闭。通过将比较教育等分支确立为[[Comparative Education as a Cross-Sectional Area|交叉领域]]，普通教育学在维系育人核心的同时成功实现了面向历史与经验社会科学的现代化转型。
 
 > [!claim] Mitter, W.
 > **母体依托下的跨学科制度创新** 米特论证指出，[[Oskar Anweiler|奥斯卡·安维勒]]在 20 世纪 60 年代将依托普通教育学母体的比较教育界定为面向历史学与社会学的交叉领域，具有深远的[[Paradigm|范式]]突破意义。这一建制构想既没有抛弃普通教育学对人的主体性培育这一母体传统，又果断打破了传统德意志唯心主义教育学的狭隘国别与哲学封闭性，成功开创了兼具深厚历史制度解释力与现代实证经验视野的学科新格局。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]

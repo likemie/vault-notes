@@ -84,7 +84,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -172,7 +172,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜研究素养让专业实践摆脱艺术与科学的二元对立，把[[Research Utilization|研究使用]]转化为[[Recontextualization|再情境化]]过程
-> **探讨维度　教学作为专业技艺模型** 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]是带有专业反思的[[Recontextualization|再情境化]]创造，有别于照搬文章处方。
+> **教学作为专业技艺模型** 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]是带有专业反思的[[Recontextualization|再情境化]]创造，有别于照搬文章处方。
 
 > [!claim] Eriksen (2022); Mausethagen and Hermansen (2023)
 > **技艺模型与再情境化裁决** 反对把教学简单划分为纯个人经验手艺或标准化科学处方，主张通过专业技艺模型看待教学：研究素养作为一种德性，在有效性与适切性之间发挥着关键的调和把关作用。实证案例表明，优秀的教师和管理者在面对外部研究时，其选择、改编与整合过程始终兼具探索性与[[Creativity\|创造性]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
@@ -180,7 +180,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜研究素养的培养依赖初始教育与持续专业发展，属于跨层技能发展机制的一部分
-> **探讨维度　培养途径与系统支持责任** 研究素养不只是教师个人的天赋或私事，其养成高度依赖职前教师教育与职后教研体系的系统支持。
+> **培养途径与系统支持责任** 研究素养不只是教师个人的天赋或私事，其养成高度依赖职前教师教育与职后教研体系的系统支持。
 
 > [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]
 > **跨层技能发展机制支撑** 研究素养是把科研知识与教师实践经验融会贯通的综合德性，因此培养研究素养是超出教师个体的系统责任，需要从职前[[Normal School\|师范教育]]和职后专业发展体系入手，支持教师深思熟虑地参与教研与整合研究。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
@@ -197,7 +197,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜研究素养超越个体技能赤字测度，是指向多源[[Knowledge Integration|知识整合]]与价值调和的专业实践德性
-> **探讨维度　[[Knowledge Integration\|知识整合]]德性与赤字思维破除** 批判把研究素养窄化为[[Questionnaire\|问卷]]打分与技能短板测度的倾向，将其重构为专业敏感型的多源知识整合能力。
+> **[[Knowledge Integration\|知识整合]]德性与赤字思维破除** 批判把研究素养窄化为[[Questionnaire\|问卷]]打分与技能短板测度的倾向，将其重构为专业敏感型的多源知识整合能力。
 
 > [!claim] [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **超越[[Deficit Framing\|赤字框架]]的知识整合实践** 传统[[Document|文献]]倾向于把研究素养缩减为[[Literature Search\|文献检索]]和看懂统计图表的技术技能，陷入指责教师能力不足的[[Deficit Framing\|赤字框架]]；第四代专业敏感型框架表明，真正的研究素养体现在教师把外部科研与学科知识、具体学情进行主动权衡的综合能力，以及在育人伦理冲突中作出明智裁决的专业德性。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 6–8)]]
@@ -205,7 +205,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜[[Theory of Planned Behavior|计划行为理论]]视阈下研究技能构成行为转化的核心控制枢纽，与态度共同驱动研究使用
-> **探讨维度　行为转化机制与知觉控制枢纽** 将研究素养置于行为[[Scientific Explanation\|科学解释]]链中，探讨研究意识、态度与技能如何协同促成实际的研究使用行为。
+> **行为转化机制与知觉控制枢纽** 将研究素养置于行为[[Scientific Explanation\|科学解释]]链中，探讨研究意识、态度与技能如何协同促成实际的研究使用行为。
 
 > [!claim] [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]
 > **知觉行为控制与多维能力建构** 基于[[Theory of Planned Behavior\|计划行为理论]]（Theory of Planned Behavior, TPB）与量表实证检验，研究素养中方差贡献最大的是研究技能（解释 46.90% 方差），表明知觉行为控制（Perceived Behavioral Control, PBC）是推动教师将积极科研态度（均值高达 4.37）转化为实际教学使用（均值 3.78）的关键中介。亲身做研究对技能提升具有最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动研究使用行为（$\eta^2 = .046$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–15)]]
@@ -213,7 +213,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜批判性研究素养是公职决策者与教师抵御后真相操纵、捍卫[[Scientific Literacy|科学素养]]作为基本民主权利的制度基石
-> **探讨维度　宏观治理反思与民主权利护卫** 将研究素养从微观课堂技能拓展为公共治理核心能力，探讨公职人员培训与批判性研究素养对守护科学公信力的决定性意义。
+> **宏观治理反思与民主权利护卫** 将研究素养从微观课堂技能拓展为公共治理核心能力，探讨公职人员培训与批判性研究素养对守护科学公信力的决定性意义。
 
 > [!claim] Chalmers et al. (2018); [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
 > **公职培训、多元方法批判与民主权利护卫** 在社交媒体算法茧房、反专家情绪滋长与商业自利操纵者（Spinners）将“证据知情”标签异化为营销噱头的后真相时代，研究素养不仅属于一线教师，更构成了公务员与政策决策者的法定核心能力（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60, 69]]）。单纯提供更多数据或培训机械检索技能无法克服认知反弹；唯有在教师教育与公职人员培训中同步强化批判性审视与使用多元方法论各类研究（涵盖质性[[Rich and Thick Description\|深描]]、定量实验、[[Case Study\|案例研究]]与[[Action Research\|行动研究]]）的能力，打破对单一算法提示和平均[[Effect Size\|效应量]]的盲信，才能筑牢抵御自利操纵的认知免疫防线，将[[Scientific Literacy\|科学素养]]捍卫为公民有效参与公共治理的基本民主权利（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。

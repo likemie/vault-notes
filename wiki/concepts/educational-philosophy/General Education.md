@@ -6,10 +6,10 @@ aliases:
 summary: "一种以多种思维方式及其迁移能力界定教育广度的课程理念，用于协调知识范围、学科学习深度与共同教育经验。"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [theme/general-education, theme/curriculum, level/upper-secondary]
 related_concepts:
   - "[[International Baccalaureate]]"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-11-02
 以下命题分别讨论教育目的、实现机制和成立条件。
 
 > [!concept-proposition] 命题一｜知识范围的扩大不能自动形成通识教育
-> **探讨维度　知识广度与个人理解** 通识教育需要广阔材料，但材料只有经过学习者的推理、比较和判断，才会转化为能够继续使用的理解。
+> **知识广度与个人理解** 通识教育需要广阔材料，但材料只有经过学习者的推理、比较和判断，才会转化为能够继续使用的理解。
 
 多科目与短课时之间的关系，能够检验知识覆盖的局限。
 
@@ -129,7 +129,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜通识广度需要通过有分布的专门学习形成
-> **探讨维度　跨科分布与科内深究** 广度和深度由不同课程层次承担。学生在若干性质不同的领域学习，以获得思想工具的广度；每个领域再保留足够时间，使学生真正进入学科实践。
+> **跨科分布与科内深究** 广度和深度由不同课程层次承担。学生在若干性质不同的领域学习，以获得思想工具的广度；每个领域再保留足够时间，使学生真正进入学科实践。
 
 不同领域的分布与单科深究，需要由不同课程层次承担。
 
@@ -139,7 +139,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜未进入资格与评价结构的通识课程容易被升学压力挤出
-> **探讨维度　正式地位与课程时间** 高中后期的时间分配受大学录取和外部考试强烈影响。课程是否计入正式评价，会改变学校、教师和学生对其投入的时间。
+> **正式地位与课程时间** 高中后期的时间分配受大学录取和外部考试强烈影响。课程是否计入正式评价，会改变学校、教师和学生对其投入的时间。
 
 课程是否得到考试承认，会改变实际可用的课堂和课外时间。
 
@@ -149,7 +149,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜国际课程会把共同内容难题转化为思维方式问题
-> **探讨维度　国际共同性与知识选择** 多国学生共同学习时，各国都能提出应纳入的历史、文学和社会经验。课程无法用无限扩展的内容清单公平代表所有传统。
+> **国际共同性与知识选择** 多国学生共同学习时，各国都能提出应纳入的历史、文学和社会经验。课程无法用无限扩展的内容清单公平代表所有传统。
 
 国际历史课程的内容选择，展示了共同知识清单难以穷尽的原因。
 
@@ -159,7 +159,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜通识教育的理解目标还涉及同情、道德与审美判断
-> **探讨维度　信息用途与人格发展** 不同思维方式的形成还要联系怎样理解他人的生活，知识用途不能独自确定教育价值。
+> **信息用途与人格发展** 不同思维方式的形成还要联系怎样理解他人的生活，知识用途不能独自确定教育价值。
 
 认知广度之外，需要继续判断信息怎样进入人与人的关系。
 
@@ -169,7 +169,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题六｜通识课程的长期用途要求不再深造的领域具有终结性目的
-> **探讨维度　学科广度与离校后的生活** 专门深度与跨领域广度需要承担不同任务，最后一次正式学习应为持续理解、应用与兴趣留下条件。
+> **学科广度与离校后的生活** 专门深度与跨领域广度需要承担不同任务，最后一次正式学习应为持续理解、应用与兴趣留下条件。
 
 学生未来的专业选择，会改变某门课程应承担的教育责任。
 
@@ -208,6 +208,10 @@ updated: 2026-11-02
 > - **1960 年代后期　[[International Baccalaureate|国际文凭]]形成制度形态**
 >
 >   六学科承担思维方式的分布，共同核心与深度选项协调背景和范例研究，[[Theory of Knowledge|知识论]]比较各学科的知识根据和限度，[[Extended Essay|拓展文章]]与直接经验又扩充个人探究和行动。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–48)]]
+>
+> - **2026 年　回归知识生产与通识育人的大学公共使命倡导**
+>
+>   [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 针对高校评价指标化与学术零工化危机，呼吁大学坚决摆脱唯篇数与期刊声望的代理指标束缚，重新聚焦于开展通识教育与知识生产的公共使命，将真实的育人与学术能力与单纯的计件生产力明确区分开来。
 
 ---
 
@@ -247,6 +251,13 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid] 研究索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲和北美通识教育的制度分化，并说明多种思维方式如何进入[[International Baccalaureate|国际文凭]]的学科分布、课程核心和评价设计。
-> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 193–206)]] 将完整心智能力的发展连接认知与情感，并以[[Terminal Courses|终结性课程]]和应用综合检验跨学科广度的长期用途。
+> [!entry-map] 条目关联
+> - 核心构念与理念：[[Whole Person Education|全人教育]]、[[Encyclopaedism|百科全书主义]]、[[Curriculum as Process|作为过程的课程]]、[[Paradigmatic Learning|范例学习]]
+> - 课程载体与实施：[[International Baccalaureate|国际文凭]]、[[Theory of Knowledge|知识论]]、[[Extended Essay|拓展文章]]、[[Creativity, Action, Service|CAS活动]]、[[Terminal Courses|终结性课程]]
+> - 高等教育与公共使命：[[Critical Thinking|批判性思维]]、[[Academic Freedom|学术自由]]、[[Knowledge Production|知识生产]]、[[Assessment Backwash|评估反拨]]
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 呼吁大学摆脱唯篇数与期刊声望的计件评估，重新聚焦于开展通识教育与知识生产的大学核心公共使命。
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 专著《国际文凭的形成》追踪欧洲和北美通识教育的制度分化，说明多种思维方式如何进入学科分布、课程核心和评价设计（[[Argument_Peterson_1987_OpenCourt_Ch03|Ch. 3]]），并将完整心智能力连接认知与情感，以[[Terminal Courses|终结性课程]]检验跨学科广度的长期用途（[[Argument_Peterson_1987_OpenCourt_Ch08|Ch. 8, pp. 193–206]]）。

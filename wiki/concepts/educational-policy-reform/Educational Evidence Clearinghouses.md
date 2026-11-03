@@ -187,7 +187,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -332,7 +332,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜清算中心评级实践在实证上呈现低汇合性与有限的[[Construct Validity|构念效度]]
-> **探讨维度　[[Convergent and Discriminant Validity\|辐合效度]]与多质多法检验** 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、汇合的评级。基于 Campbellian 多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）框架，[[Reliability\|信度]]与跨机构汇合性是[[Construct Validity\|构念效度]]的先决条件。
+> **[[Convergent and Discriminant Validity\|辐合效度]]与多质多法检验** 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、汇合的评级。基于 Campbellian 多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）框架，[[Reliability\|信度]]与跨机构汇合性是[[Construct Validity\|构念效度]]的先决条件。
 
 > [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **评级辐合效度的经验崩溃** 实证检验 10 个清算中心评估的 1,359 个教育项目发现，83.2% 的项目仅由单一清算中心评级（存在严重的信息孤岛）；在 228 个获得多重评级的项目中，完全一致率仅约 30.5%，且一致性主要体现为共同判定为“无效/不推荐”（占 21.3%），而共同判定为最高推荐（1&1）仅占 1.2%；完全对立的极端冲突（1&3，一家强推 vs 另一家否决）高达 35.4%，成为最主要的分歧形态。这证明“基于证据”在清算中心体系中仅具有极其有限的实践构念效度([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3, 18–20, 26]])。
@@ -340,7 +340,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜证据评级冲突主要源于跨[[Research Synthesis|研究综合]]门槛的分歧而非单项因果识别偏好
-> **探讨维度　单项[[Internal Validity\|内部效度]]审查 vs 跨研究[[Research Synthesis|证据综合]]门槛** 探讨导致清算中心评级分裂的核心方法论机制：是各中心对单项研究的[[Causality\|因果推断]]设计偏好不同，还是在项目层面的证据综合规则上设定了截然不同的门槛。
+> **单项[[Internal Validity\|内部效度]]审查 vs 跨研究[[Research Synthesis|证据综合]]门槛** 探讨导致清算中心评级分裂的核心方法论机制：是各中心对单项研究的[[Causality\|因果推断]]设计偏好不同，还是在项目层面的证据综合规则上设定了截然不同的门槛。
 
 > [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **证据综合门槛悬殊是分歧首因** 12 个清算中心在单项研究层面高度一致地将 [[Randomised Controlled Trials\|RCT]] 视为黄金标准，但当进入项目级综合评级时产生本质分化：[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 强制要求“至少一项由[[Evaluator Independence\|独立评估者]]完成的研究”和“干预结束后 12 个月的[[Fade-out Effect\|持续效果]]”，直接过滤了 90% 以上的商业项目；而 [[National Dropout Prevention Center\|NDPC]] 仅需单项无需长期追踪的显著研究即可给予最高评级。评级不一致的最主要根源在于综合门槛与[[Document|文献]]池准入规则，而非因果识别偏好([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
@@ -348,7 +348,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜正式证据评级无法自动替代实践者的本地决策信息与情境适配
-> **探讨维度　[[Research Translation|研究转译]]与基层实践采购信息需求** 探讨清算中心公布的宏观证据等级能否充分满足学校管理层在真实采购中的信息需求。
+> **[[Research Translation|研究转译]]与基层实践采购信息需求** 探讨清算中心公布的宏观证据等级能否充分满足学校管理层在真实采购中的信息需求。
 
 > [!claim] [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]]
 > **正式证据库的实用信息缺口** 尽管 [[What Works Clearinghouse\|WWC]] 和 Evidence for [[Every Student Succeeds Act\|ESSA]] 显著提高了研究证据的可及性，但一线教育决策者仍普遍偏好同伴推荐与本地试点。因为清算中心评级仅提供抽象的[[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]]，缺失了学校采购必不可少的实施难度、教师培训时长、年度维护成本、用户满意度及特殊生源适配性等地方性情境信息([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 110, 120–121]])。
@@ -356,7 +356,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜通用清算中心高门槛对本土创新工具具有过度排除风险
-> **探讨维度　外部证据准入门槛与本土工具培育** 探讨将清算中心的严苛标准直接套用于早期教育改革和本土教学工具开发时所产生的制度排斥效应。
+> **外部证据准入门槛与本土工具培育** 探讨将清算中心的严苛标准直接套用于早期教育改革和本土教学工具开发时所产生的制度排斥效应。
 
 > [!claim] [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]]
 > **包容性阶梯式验证的必要性** 在本土[[Experimental Research\|实验研究]]和成熟项目证据匮乏的语境下，若机械照搬 WWC、[[Education Endowment Foundation\|EEF]] 或 [[Best Evidence Encyclopedia\|BEE]] 的顶级认证门槛，将导致绝大多数本地创新工具被直接排除。必须建立[[Inclusive Evidence Validation Typology\|包容性证据验证类型学]]，通过设定发展性的最低验证标准，支持本土工具从概念验证逐步走向严格因果检验([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp. 175–176]])。
@@ -364,7 +364,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜中介机构存续受制于短期政治预算周期且亟需推进“中介的中介”元协调机制
-> **探讨维度　政治预算周期错配与跨国元治理协调** 探讨公共资助教育中介与清算机构在生命周期上的非绩效存续悖论，以及超越机构孤岛构建跨国累积性知识基石的组织化进路。
+> **政治预算周期错配与跨国元治理协调** 探讨公共资助教育中介与清算机构在生命周期上的非绩效存续悖论，以及超越机构孤岛构建跨国累积性知识基石的组织化进路。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
 > **政治预算周期[[Determinism\|决定论]]与元中介协同** 纵向考察[[OECD\|经合组织]] 2007 年确立的 6 家标杆清算与中介机构，历经十五年仅有 2 家（美国 WWC 与英国 [[EPPI-Centre]]）保持完全活跃，多达 4 家发生关停（加拿大 [[Canadian Council on Learning\|CCL]]、丹麦 Clearinghouse）、收缩（新西兰 BES）或停摆（荷兰 [[Kenniskamer]]）。机构淘汰的核心推手是源于 2 至 3 年的政党轮替与财政预算短周期与教育改革所需漫长显效[[Incubation\|潜伏期]]的结构性错配，有别于成效评估证实“绩效不佳”；在预算紧缩与换届压力下，耗时漫长的中介成效评估几乎被行政部门完全跳过（OECD, 2009）。单一机构即便在本土取得成功，其实证综合规模与公信力依然受限；必须超越机构孤岛，在跨国层面协同推进“中介的中介”（Brokering the Brokers），通过联合攻关二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）与元协调机制，方能建立起经得起检验、被广泛公认的累积性教育知识基石([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–68]])。

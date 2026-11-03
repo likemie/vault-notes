@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学生在探究实践中运用的实践[[Epistemology|认识论]]观念往往独立于对专业科学的[[Formal Epistemology|形式认识论]]信念
-> **探讨维度　认知信念的远近端分离** 探讨学生自身探究认知与对专业科学理解之间的结构性脱节。
+> **认知信念的远近端分离** 探讨学生自身探究认知与对专业科学理解之间的结构性脱节。
 
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
 > **形式与实践[[Epistemology\|认识论]]分离断裂** 学生的实践认识论（近端）与[[Formal Epistemology\|形式认识论]]（远端）在认知结构上高度分离。学生在[[Questionnaire\|问卷调查]]中可能表现出对[[Nature of Science\|科学本质]]的先进理解（如[[Recognition Theory|承认理论]]具有暂定性），但在自己动手进行[[Experimental Research|实验设计]]与数据解释时，依然表现出朴素[[Positivism\|实证主义]]倾向（如认为单次观测即可证明真理、忽视异常数据）。这种分离表明，传统依赖脱离情境问卷的评估无法真实反映学生的探究认知水平。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜微观课堂[[Discourse|话语]]互动中的认识论演进通过立足点与意义裂隙的跨越而原生地实现
-> **探讨维度　语言游戏与行动认识论** 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
+> **语言游戏与行动认识论** 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **[[Discourse|话语]]行动中的认识论生成** 认识论是在微观话语和具身互动中展开的语言游戏，有别于深锁于大脑内部的静态表征。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借助教具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜高水平探究实践需辅以显性认识论反思与元话语才能完成向形式认识论的转化
-> **探讨维度　显性教学转化机制** 探讨动手实践如何升华为对科学本质的成熟领悟。
+> **显性教学转化机制** 探讨动手实践如何升华为对科学本质的成熟领悟。
 
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
 > **显性反思的弥合机制** 单纯让学生参与高水平探究活动，无法自发促成其高级实践认识论向专业科学形式认识论的转化。必须在探究过程中引入显性的认识论反思（explicit epistemological reflection），引导学生对比自身在探究中的权衡决策与专业科研团队的[[Knowledge Building Theory|知识建构]]机制，方能实现[[Epistemological Beliefs\|认识论信念]]的系统升级。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 649–650)]]

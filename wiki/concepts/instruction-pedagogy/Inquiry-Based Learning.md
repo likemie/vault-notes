@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Inquiry-Based Learning
@@ -156,7 +156,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜辅以支架的探究式教学在概念知识习得与深层迁移上显著优于单一[[Direct Instruction|直接教学]]
-> **探讨维度　指导介入度与探究成效的关系** 学界关于探究教学成效的争论根源在于未严格区分指导程度。受控实验与[[Meta-analysis\|元分析]]一致表明，无指导发现成效匮乏，但一旦提供合理认知与[[Metacognition\|元认知]]支架，探究式教学的学业成效显著超越传统[[Direct Instruction\|直接讲授]]。
+> **指导介入度与探究成效的关系** 学界关于探究教学成效的争论根源在于未严格区分指导程度。受控实验与[[Meta-analysis\|元分析]]一致表明，无指导发现成效匮乏，但一旦提供合理认知与[[Metacognition\|元认知]]支架，探究式教学的学业成效显著超越传统[[Direct Instruction\|直接讲授]]。
 
 > [!claim] Alfieri et al. & Furtak et al.
 > **辅助探究的优越性与纯发现的局限** 对 164 项实证研究的元分析表明，无辅助[[Discovery Learning\|发现学习]]的效果确实劣于显性直接教学；然而，包含启发提示、策略示范或过程反馈的辅助式探究学习（Assisted Inquiry），其在概念知识掌握上的成效显著优于单纯由教师进行结构化讲授与示范的直接教学。Furtak et al. 对 37 项对比研究的元分析进一步确认了探究教学的整体正向效应，且教师指导的介入进一步放大了该优势。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4–5)]]
@@ -170,7 +170,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜探究与直接指导的非线性时序整合构成实现深度概念理解的最优路径
-> **探讨维度　教学时序编排与认知准备状态** 直接教学与探究式学习有别于非此即彼的对立[[Paradigm\|范式]]。在教学进程的不同节点灵活配置两种教学行为，能够兼顾概念表征的深度建构与外在负荷的有效控制。
+> **教学时序编排与认知准备状态** 直接教学与探究式学习有别于非此即彼的对立[[Paradigm\|范式]]。在教学进程的不同节点灵活配置两种教学行为，能够兼顾概念表征的深度建构与外在负荷的有效控制。
 
 > [!claim] De Jong et al.
 > **多节点时序互补与即时支架嵌入** 探究与直接指导的最佳结合方式因教学目标与任务情境而异：既可采用先直接讲授基础知识再开展复杂探究的演进路径，也可采用先探究遭遇挫折以激活认知图式、随后提供直接讲授的[[Productive Failure\|生产性失败]]路径（Productive Failure），更可在探究过程中嵌入按需触发的即时解释与自适应提示。这种时序协同消解了二元对立，实现了深层概念内化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
@@ -181,7 +181,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜探究教学的有效性受制于内容性质、先验知识与个体认知特质的深度调节
-> **探讨维度　教学方法有效性的边界条件与调节机制** 不存在绝对适用于一切情境的万能教学法。探究式学习的效能高度依存于教学目标的深浅层次、学习者的领域先验知识储备以及一般认知控制能力。
+> **教学方法有效性的边界条件与调节机制** 不存在绝对适用于一切情境的万能教学法。探究式学习的效能高度依存于教学目标的深浅层次、学习者的领域先验知识储备以及一般认知控制能力。
 
 > [!claim] Hirsh et al. & Frey et al.
 > **学习目标与知识层级的结构匹配** 教学设计的核心原则在于教学方法与期望学习产出的精准对齐。对于事实性信息记忆与常规算理等表层、良构知识，直接教学具有更高的传递效率；而当教学目标聚焦于复杂、不良构、易引发直觉迷思（Misconceptions）的概念理解与跨情境远迁移时，探究式学习能够通过激发认知冲突与深层表征重构，达成直接教学难以企及的深层理解。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 6–7)]]
@@ -236,18 +236,18 @@ updated: 2026-11-02
 > > [!metax-ma]- 12 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Sweitzer & Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
+> > | Sweitzer and Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
 > > | Shymansky et al. (1990) | Inquiry methods in science | 81 | NA | 320 | 0.27 |  |
 > > | Bangert-Drowns (1992) | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |  |
 > > | Smith (1997) | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |  |
-> > | Lazonder & Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
+> > | Lazonder and Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
 > > | Estrella et al. (2018) | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |  |
 > > | Aktamis et al. (2016) | Inquiry learning in science | 16 | NA | 16 | 1.03 |  |
 > > | Furtak et al. (1998) | Inquiry method in science | 37 | NA | 37 | 0.50 |  |
 > > | Abdurrahman (2017) | Inquiry methods in science | 15 | 2,118 | 15 | 0.46 |  |
 > > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
 > > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
-> > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
+> > | Antonio and Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
 
 > [!empirical-divider]
 

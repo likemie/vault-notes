@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜教育知识累积性匮乏源于[[Knowledge Production|知识生产]]、中介与政策评估周期的结构性错配
-> **探讨维度　[[Epistemic Governance\|知识治理]]生态的周期错配** 探讨公共财政资助机制、政治换届选举与教育研究长周期显效之间的体制性张力。
+> **[[Epistemic Governance\|知识治理]]生态的周期错配** 探讨公共财政资助机制、政治换届选举与教育研究长周期显效之间的体制性张力。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
 > **政治预算短周期与长期知识积累的结构性断裂** 教育之所以未能建立类似医学的坚固知识基石，核心体制瓶颈在于治理维度的周期性错配，有别于研究者生产力不足。政府拨款与中介服务合同普遍以 2 至 3 年为考核考核周期，而重大教育改革与复杂知识吸收通常需要 5 至 10 年才能全面显效（Borman et al., 2003）。在面临政治选举更迭或财政紧缩时，成效评估往往是最先被削减或直接略过的环节；大量原本具有探索价值的中介项目（如[[Canadian Council on Learning\|加拿大终身学习委员会]]、丹麦清算中心）在成效评估出炉前便被仓促撤资关停，致使教育知识系统陷入“不断另起炉灶、始终无法纵向累积”的碎片化循环。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜单体中介机构孤岛无法支撑知识大厦，推进“中介的中介”是凝聚跨国共识的必由之路
-> **探讨维度　组织元治理与跨网络协同** 探讨如何超越单个机构在资源、国别与受众上的局限性，建构跨系统元中介机制。
+> **组织元治理与跨网络协同** 探讨如何超越单个机构在资源、国别与受众上的局限性，建构跨系统元中介机制。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Gough et al. (2011)
 > **元中介协作对克服机构孤岛与推进二阶综合的决定性作用** 单一中介组织无论资源多么丰富，都不可避免地受制于本国政策议程、特定目标受众（如仅偏向政策或仅偏向课堂）以及特定方法学偏好（如纯粹 [[Randomised Controlled Trials\|RCT]] 派或多元派）的局限。[[EU|欧盟]]资助的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 网络长达十年的自主维系经验表明，唯有通过建立跨国跨系统的“中介的中介”（Brokering the Brokers），依托“公开网络大会（扩展参与广度）与闭门伙伴会议（深化方法攻坚）”的双轨协同治理机制，才能共同攻克[[Heterogeneity\|异质性]]数据综合与质量评估的公认标准，使[[Research Synthesis|研究综合]]从单篇个案迈向二阶[[Systematic Review\|系统综述]]，最终建立起跨越国别界限、经受全球同行检验的累积性知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 66–68]])
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜累积性知识库必须兼顾科学因果严谨性与教师临床[[Professional Judgment|专业判断]]的[[Ecological Validity|生态效度]]
-> **探讨维度　[[Epistemology\|认识论]]整合与反技术化拆解** 探讨[[Positivism\|实证主义]]量化因果标准与一线复杂微观[[Phronesis\|实践智慧]]之间的动态平衡。
+> **[[Epistemology\|认识论]]整合与反技术化拆解** 探讨[[Positivism\|实证主义]]量化因果标准与一线复杂微观[[Phronesis\|实践智慧]]之间的动态平衡。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Greenhalgh et al. (2014)
 > **反教条化规则并捍卫教师作为知识型专业人员的专业主体地位** 汲取循证医学（EBM）深陷“指南泛滥、微小效应缺乏临床意义、刚性技术规则排挤个体关怀”五大意外后果的教训，教育累积性知识库绝不能异化为自上而下的算法指令或机械教学处方。课堂分析学与 AI 评分工具若试图将教学活动拆解（Unbundling）为离散的自动化单元，将不可避免地导致教师职业的“[[Cognitive Deskilling|去技能化]]”（Deskilling）（Facer & Selwyn, 2021）。真正的累积性知识库必须将严谨因果证据定位为[[Reflexivity\|反思性]]专业对话的催化剂，高度尊重教师在微观情境中权衡调适证据的临床[[Professional Judgment\|专业判断]]（[[Professional Judgment\|专业判断]]）与实践智慧（[[Phronesis\|实践智慧]]），形成科学实证与扎根实践相融共生的知识大厦。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]])

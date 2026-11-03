@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜大学学术浸润与校本学徒技能培训构成教师职前准备的长期[[Paradigm|范式]]博弈
-> **探讨维度　培养阵地与专业[[Paradigm Wars\|范式之争]]** 探讨教师职前准备究竟应当以大学学术研究为根基，还是以中小学校本学徒实践为核心。
+> **培养阵地与专业[[Paradigm Wars\|范式之争]]** 探讨教师职前准备究竟应当以大学学术研究为根基，还是以中小学校本学徒实践为核心。
 
 > [!claim] Menter et al.
 > **大学教育与校本学徒的[[Paradigm\|范式]]张力** 教师培养长期存在两种范式冲突：一方主张大学是培育批判性反思、[[Research Literacy\|研究素养]]与专业自主权的必要摇篮；另一方（由[[New Public Management\|新公共管理]]与保守党政策推动）则将教学定义为可以在现场模仿习得的手艺（craft），主张将培训重心全盘转移至中小学现场，削弱高等教育机构的中间盘剥。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–90)]]
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Evidence Era|证据时代]]下国家通过强制课程清单对职前培训实施远程微观集权
-> **探讨维度　循证修辞与治理集权** 揭示表面上的办学主体多元化如何与国家层面的课程内容控制强化并存。
+> **循证修辞与治理集权** 揭示表面上的办学主体多元化如何与国家层面的课程内容控制强化并存。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Rationalized Myth\|合理化神话]]下的中央远程控制** 在[[Evidence Era\|证据时代]]，英格兰政府虽然在供给侧推进学校主导（School-led）的市场化分权，但在需求侧却借助[[Rationalized Myth\|合理化神话]]与[[Carter Review of Initial Teacher Training\|卡特审查]]，出台了高度精细的核心内容框架（[[Initial Teacher Training Core Content Framework\|CCF]]），通过规定新教师“必须了解什么”和“必须如何做”，实现了国家对职前培训知识内容的空前中央微观集权。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–94)]]
@@ -162,11 +162,11 @@ updated: 2026-11-02
 > > [!metax-ma]- 7 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Qu & Becker (2003) | Certified vs. alternative certified teachers | 24 | NA | 192 | 0.08 |  |
-> > | Qu & Becker (2003) | Traditional vs. Emergency licensed teachers | 24 | NA | 76 | 0.14 |  |
+> > | Qu and Becker (2003) | Certified vs. alternative certified teachers | 24 | NA | 192 | 0.08 |  |
+> > | Qu and Becker (2003) | Traditional vs. Emergency licensed teachers | 24 | NA | 76 | 0.14 |  |
 > > | Sparks (2005) | Traditional vs. emergency or probationary training | 5 | NA | 18 | 0.12 |  |
 > > | Whitford et al. (2018) | Traditional vs Alternative programs | 32 | 106,016 | 118 | 0.03 |  |
-> > | Kelley & Camilli (2007) | Teacher education in early childhood | 32 | NA | 105 | 0.15 |  |
+> > | Kelley and Camilli (2007) | Teacher education in early childhood | 32 | NA | 105 | 0.15 |  |
 > > | Dunst et al. (2019) | Teacher preparation program on student achievement | 6 | 1,047,391 | 21 | -0.04 |  |
 > > | Dunst et al. (2019) | Teacher degree on student achievement | 54 | 27,532 | 54 | 0.19 |  |
 

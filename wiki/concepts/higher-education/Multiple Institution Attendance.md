@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜高等教育绩效政策[[Discourse|话语]]将国内跨校就读编码为拉低完备率与损耗效率的负面因子
-> **探讨维度　效率主义绩效问责与流动贬损** 探讨高等教育管理主义如何将学生的流动性简化为投入产出比的干扰项。
+> **效率主义绩效问责与流动贬损** 探讨高等教育管理主义如何将学生的流动性简化为投入产出比的干扰项。
 
 > [!claim] Pusser and Turner (2004)
 > **多机构就读对系统运转效率的负面冲刷** 布赖恩·普瑟与萨拉·特纳（Brian Pusser & Sarah Turner, 2004）指出，在美国高等教育政策分析中，政策制定者高度聚焦于学位完备率（Degree Completion Rates）与财政投入效益。多机构就读被认定为显著延长了获得学士学位的实际年限（如从 4 年拖延至 6 年以上），并因学分折损引发重复选课，推高了州政府对公立高等教育系统的生均补贴负担与学生个人负债，因而被系统性定性为效率损耗源。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
@@ -98,7 +98,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜阶层特权话语将跨国游学尊奉为救赎叙事而将国内跨校转学降格为体制损耗
-> **探讨维度　阶层双标与流动的道德区隔** 探讨空间移动的社会价值评判如何依附于主体的[[Socioeconomic Status|社会经济地位]]。
+> **阶层双标与流动的道德区隔** 探讨空间移动的社会价值评判如何依附于主体的[[Socioeconomic Status|社会经济地位]]。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **国内流动与国际交换的阶层化[[Discourse|话语]]断裂** 索比与菲舍尔（Sobe & Fischer）尖锐指出，美国高等教育是施加了鲜明的阶层化双重标准，有别于完全否定流动。当富裕阶层大学生开展海外游学时，政策话语绝不将其定性为多机构就读或流动损耗，是冠以“国际交流（International Exchange）”的崇高之名，并将其编织进跨文化领袖成长的“社会救赎叙事（Social Salvation Narrative）”之中；反之，由于经济困难先在社区学院就读再转入四年制大学的普通工薪学生，其跨校流动则被剔除了一切文化价值，在管理报表上被贬为降低系统完备率的“多机构就读”。

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜结构调整方案通过金融附加条件剥夺了外围国家的教育公共主权
-> **探讨维度　外部债务规训与国家公共职能让渡** 探讨国际金融机构如何将技术官僚紧缩条款内化为发展中国家法律与政策，瓦解外围国家的教育政策自主权。
+> **外部债务规训与国家公共职能让渡** 探讨国际金融机构如何将技术官僚紧缩条款内化为发展中国家法律与政策，瓦解外围国家的教育政策自主权。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **金融附加条件对[[Conditioned State Theory|受限国家]]教育主权的蚕食** 结构调整是跨国金融资本重组外围国家统治秩序的权力手段。在 1980 年代债务危机爆发后，拉美等地的外围国家面对无法偿付的主权债务，被迫签署[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整协议。这些协议强制要求国家压低社会支出以优先偿付外债利息，并将教育从国家必须承担的基本人权，彻底降格为由个人买单的自负盈亏商品。这导致外围国家沦为丧失公共再分配能力的[[Conditioned State Theory|受限国家]]，彻底剥夺了拉美大众自战后以来争取到的公共教育民主权利。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜结构调整的教育市场化处方本质上是跨国资产阶级转嫁危机的阶级策略
-> **探讨维度　市场化改革的阶级实质与社会再生产** 探讨[[Educational Privatisation|教育私有化]]、使用者付费与分权化如何将资本主义积累危机的成本转移给劳动阶级。
+> **市场化改革的阶级实质与社会再生产** 探讨[[Educational Privatisation|教育私有化]]、使用者付费与分权化如何将资本主义积累危机的成本转移给劳动阶级。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.
 > **市场机制作为锁定统治优势的阶级策略** 正如[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）所深刻指出的，在新自由主义结构调整中，用市场的逻辑替代国家的公共供给是一场经过精心包装的统治阶层“阶级策略”。通过推行私有化与校际竞争，国家成功将教育投资失败与失业的责任转嫁给贫困家庭个体；同时，拥有财富和[[Cultural Capital|文化资本]]的优势中上阶级则能在私立学校市场中自如运作，通过购买精英教育将自身的阶级优势合法地再生产给下一代。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993; Olmos & Torres, 2009, pp. 79–80)]]
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜技术官僚成本效益[[Discourse|话语]]与[[Shadow State|影子国家]]外包深化了依附性外围地位
-> **探讨维度　技术官僚规训[[Discourse|话语]]与非政府组织体制异化** 探讨结构调整如何通过看似中立的经济学计量模型推进政策规训，并通过公共服务外包将民间组织异化为[[Shadow State|影子国家]]，从而固化全球依附体系。
+> **技术官僚规训[[Discourse|话语]]与非政府组织体制异化** 探讨结构调整如何通过看似中立的经济学计量模型推进政策规训，并通过公共服务外包将民间组织异化为[[Shadow State|影子国家]]，从而固化全球依附体系。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
 > **技术官僚规训话语与非政府组织“影子国家”异化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）结合[[Dependency Theory|依附理论]]与[[World-Systems Theory|世界体系分析]]指出，结构调整方案的推进依靠外在的金融胁迫，并高度依赖一整套被普遍化为中立科学法则的技术官僚话语（如[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），以此将紧缩开支和削减教育公共预算包装为不可逆的理性经济规律（Carnoy & Rhoten, 2002; Heyneman, 2003）。更具破坏性的是，随着结构调整削减国家职能，国际援助方与受援国政府普遍绕过公共部门，将基础教育等社会服务大规模外包给非政府组织（NGOs）。这不仅未能达成公民社会赋权的初衷，反而使非政府组织被外部捐助指标所驯化，转变为缺乏基层问责的[[Shadow State|影子国家]]，进而导致外围国家[[National Education|国民教育]]体系四分五裂，彻底锁定了对中心国家的依附地位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 110–112)]]

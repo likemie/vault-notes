@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-18
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜研究欺骗在方法论上构成了绕过被试社会赞许性偏误并揭示深层行为规律的必要实验手段
-> **探讨维度　实验控制与[[Ecological Validity|生态效度]]维度** 阐释在研究服从权威、从众压力与隐性偏见等高度敏感的人性弱点时，欺骗为何成为确保科学数据真实有效的必要手段。
+> **实验控制与[[Ecological Validity|生态效度]]维度** 阐释在研究服从权威、从众压力与隐性偏见等高度敏感的人性弱点时，欺骗为何成为确保科学数据真实有效的必要手段。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], et al.; [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **信息遮蔽确保科学真实性断言** 艾略特·阿伦森（Elliot Aronson）等学者论证指出，如果欺骗实验是发现具有重大[[Public Value|公共价值]]真相的唯一途径，且在过程中能严格避免不可逆实质伤害，则所得科学洞见具有伦理上的权衡正当性。亚历山大·卡普与尼古拉斯·扎米斯卡进一步指出，在 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Milgram Obedience Experiment|米尔格拉姆服从实验]]中，研究者若不借助掩饰故事与同谋假象，受试者必将出于道德自我美化与社会赞许性做出虚假表现；唯有通过严密的信息欺骗，才能剥离世俗掩饰，揭示出人类在群体压力与权威指令面前惊人的盲从弱点与[[Banality of Evil|平庸之恶]]根源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 110–113)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
@@ -128,7 +128,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜欺骗实践与[[Informed Consent|知情同意]]及[[Non-maleficence and Beneficence in Research|不伤害原则]]存在根本性张力并可能造成严重心理生理创伤
-> **探讨维度　[[Research Ethics|研究伦理]]与受试者保护维度** 剖析欺骗实验如何侵犯受试者自主权，并可能诱发受试者极度惊恐、内疚与对科学界的信任崩塌。
+> **[[Research Ethics|研究伦理]]与受试者保护维度** 剖析欺骗实验如何侵犯受试者自主权，并可能诱发受试者极度惊恐、内疚与对科学界的信任崩塌。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], et al.
 > **受试者自主权侵犯与创伤风险断言** 路易斯·科恩等人论证强调，研究欺骗从根本上否定了受试者基于充分事实行使自主决定的[[Informed Consent|知情同意]]权。在极端案例中，欺骗会给受试者带来深重创伤：例如 1964 年坎贝尔等人（Campbell et al., 1964）在未提前警告的情况下通过药物诱导受试者产生暂时性呼吸中断，致使所有受试者误以为自己正在濒死；类似地，米尔格拉姆实验中许多受试者在误以为自己杀害他人后遭受了长期的内疚与精神折磨，表明未加节制的欺骗将彻底摧毁[[Non-maleficence and Beneficence in Research|不伤害原则]]与公众对学术界的信任基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 111–112)]]
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜通过强化程序审议、事后充分解释与开发[[Role-playing|角色扮演]]等替代程序可实现欺骗伤害的最小化
-> **探讨维度　伦理补救与替代程序维度** 探讨如何通过制度化事后说明（Debriefing）与新型[[Experimental Research|实验设计]]化解欺骗带来的负面伦理效应。
+> **伦理补救与替代程序维度** 探讨如何通过制度化事后说明（Debriefing）与新型[[Experimental Research|实验设计]]化解欺骗带来的负面伦理效应。
 
 > [!claim] Kelman, H. C.; Cooper, D. R., & Schindler, P. S.
 > **欺骗治理与事后说明救济断言** 赫伯特·凯尔曼（Herbert Kelman）提出处理研究欺骗的三重进路：提升研究者对欺骗伦理风险的主动审议意识、将操纵限制在中低强度并严格筛除脆弱个体、积极开发[[Role-playing|角色扮演]]（Role-playing）与情景假设等替代程序。库珀与辛德勒（Cooper & Schindler）进一步确立了事后说明（Debriefing）作为核心补救机制的标准流程，要求研究者在实验后详尽解释欺骗动机、分享真实科学假设并提供后续心理疏导，以真诚沟通重建受试者的心理平衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 111–113)]]

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -117,7 +117,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜因变量操作化对理论构念的偏离会导致因果逻辑倒置
-> **探讨维度　构念效度与因果单向性** 探讨量化[[Causality|因果推断]]中因变量的[[Operationalization|操作化]]边界，揭示当评价导向的测验结果被泛化为抽象[[Construct|理论构念]]时所产生的测量失真与循环定义风险。
+> **构念效度与因果单向性** 探讨量化[[Causality|因果推断]]中因变量的[[Operationalization|操作化]]边界，揭示当评价导向的测验结果被泛化为抽象[[Construct|理论构念]]时所产生的测量失真与循环定义风险。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
 > **因变量操作化充分性与因果效应测量** 因变量必须具备对[[Independent Variable|自变量]]操纵的敏感性与充分的测量效度。因变量与其所代表理论构念之间的对应关系构成了[[Internal Validity|内部效度]]的核心；如果因变量的[[Definition of Terms|操作性定义]]不充分或代理指标失当，测量结果将无法反映理论构念的真实状态，使得因果推断指向错误的对象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 330–337)]]

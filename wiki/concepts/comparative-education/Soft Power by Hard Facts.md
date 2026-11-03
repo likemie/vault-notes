@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜跨国量化指标将复杂教育过程简化为硬事实从而赋予国际组织准客观裁判权
-> **探讨维度　知识客观化与规制正当性** 阐明无权力的国际机构如何通过数字技术将自身打造成超越党派争端的中立裁判者。
+> **知识客观化与规制正当性** 阐明无权力的国际机构如何通过数字技术将自身打造成超越党派争端的中立裁判者。
 
 > [!claim] [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **技术官僚客观性** 国际组织深知在教育领域直接发布命令会触发主权国家的抵触心理；通过研发技术门槛极高的跨国测验，将复杂的学校实践还原为不可争辩的“硬数据”，国际组织成功将自身重塑为不偏不倚的科学裁判，从而获得了对主权国家政策展开合法干预的正当性授权。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜硬事实通过国际排名与[[Naming and Shaming in Education Governance|命名羞辱]]机制激活主权国家国内危机叙事实现远处规制
-> **探讨维度　软法规制与政治动员** 揭示跨国数字如何跨越国家内外边界，改变国内政治博弈格局并倒逼政策妥协。
+> **软法规制与政治动员** 揭示跨国数字如何跨越国家内外边界，改变国内政治博弈格局并倒逼政策妥协。
 
 > [!claim] Ydesen (2019); [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **危机投射与[[Governing at a Distance\|远处治理]]** 跨国测验与指标库的规制力量源于定期发布的排名引发的公众震荡与国际声誉受损。面对排名下滑的硬数据，国内决策者难以回避问责，转而借用国际组织推介的政策处方平息危机，使国际组织达成了无需直接行政指令的远处治理。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–543, 548)]]
@@ -138,7 +138,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜硬事实作为多边治理复合体在信息过载环境中武器化的规制工具
-> **探讨维度　知识武器化与政治经济学** 批判硬事实背后的利益垄断、[[Paradigm\|范式]]排他以及与跨国商业资本的共生关系。
+> **知识武器化与政治经济学** 批判硬事实背后的利益垄断、[[Paradigm\|范式]]排他以及与跨国商业资本的共生关系。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **知识武器化** 在当代信息过载环境中，国际组织将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如[[World Bank\|世行]]主导的 [[Building Evidence in Education\|BE2]]）并争夺私人慈善资本，在数字平台共享的表象下维持各自的[[Punctuated Equilibrium Theory|政策垄断]]，将硬事实作为全球治理复合体维系制度地位的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538, 545)]]

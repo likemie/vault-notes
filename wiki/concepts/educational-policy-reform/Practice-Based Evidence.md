@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-08-26"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜教学一线的细粒度实践知识构成正当合法的证据形态
-> **探讨维度　[[Epistemology\|认识论]]合法性与证据主权** 解构[[Positivism\|实证主义]]对证据概念的排他性界定，确立实践者生成的扎根知识具有不可替代的证据地位。
+> **[[Epistemology\|认识论]]合法性与证据主权** 解构[[Positivism\|实证主义]]对证据概念的排他性界定，确立实践者生成的扎根知识具有不可替代的证据地位。
 
 > [!claim] Bryk (2015); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **实践知识的正当性与抗衡赤字偏见** 长期以来，学术界部分学者将教师主导的研究贬为小规模、轶事性与不可复制的次级知识（Borg, 2010; Wilkins, 2012）。Bryk 提出的实践本位证据概念打破了这种认识论偏见，证明教育者在日常实践中生成的细粒度知识能够有效揭示教学机制的微观运作，在支持教师专业学习与学生成长方面具备独立的合法性与不可替代的[[Epistemic Value\|认识论价值]]。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
@@ -181,7 +181,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜实践本位证据比去情境化实验结论更具微观形成性效能
-> **探讨维度　形成性改进与变异性学习** 阐明宏观统计结论在指导微观课堂教学中的局限性，论证 PBE 在持续改进中的适应性优势。
+> **形成性改进与变异性学习** 阐明宏观统计结论在指导微观课堂教学中的局限性，论证 PBE 在持续改进中的适应性优势。
 
 > [!claim] [[Argument_Peterson_2016_IJRME\|Peterson (2016)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Bryk et al. (2015)
 > **情境变异性与小步迭代** 传统以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为代表的实验[[Paradigm\|范式]]提供的是宏观平均[[Effect Size\|效应量]]，适用于非此即彼的二选一采办决策，却无法指导微观教学互动如何展开。教育实践作为开放系统充满情境变异；[[Improvement Science\|改进科学]]主张通过网络化改进共同体（NICs）从跨情境变异中学习，利用实践本位证据进行微小改变与快速反馈循环（PDSA），实现对教学过程的形成性持续优化。[[Argument_Peterson_2016_IJRME\|(Peterson, 2016, pp. 306–307)]]; [[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 14)]]
@@ -189,7 +189,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜一线证据流动与决策采纳高度依赖实践本位证据与同行网络
-> **探讨维度　信息获取生态与社会资本** 揭示一线教育者在真实决策情境中的证据采纳偏好，确立实践本位证据作为[[Knowledge Mobilisation\|知识动员]]主力资源的现实基础。
+> **信息获取生态与社会资本** 揭示一线教育者在真实决策情境中的证据采纳偏好，确立实践本位证据作为[[Knowledge Mobilisation\|知识动员]]主力资源的现实基础。
 
 > [!claim] Cooper et al. (2017); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]]; [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **同行网络主导与实践证据优先** 实证调查表明，即使在主动推进[[Research Utilization\|证据使用]]的试验项目中，教师获取实践信息的最首要渠道依然是其他一线教师（同行专业网络），对实践本位证据的接纳与使用程度显著高于原始学术研究。在学区重大教育改革与采购中，决策者同样高度看重来自同伴学校的本地试点经验与满意度反馈；实践本位证据构成了维系[[Evidence-Informed Practice\|证据知情实践]]的现实社会纽带。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–121)]]
@@ -197,7 +197,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜PBE 的有效性依赖协作探究架构与[[Triangulation|三角验证]]以防范主观[[Empiricism|经验主义]]
-> **探讨维度　严谨性保障与组织支撑** 厘清实践本位证据与个人随意直觉的界限，确立方法论[[Triangulation\|三角验证]]与组织协作架构的规范功能。
+> **严谨性保障与组织支撑** 厘清实践本位证据与个人随意直觉的界限，确立方法论[[Triangulation\|三角验证]]与组织协作架构的规范功能。
 
 > [!claim] LaPointe-McEwan et al. (2017); Campbell et al. (2017); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **三角验证与网络化组织支撑** 实践本位证据有别于不受约束的主观臆断；其严谨性依赖教育者对[[Qualitative Observation\|质性观察]]、过程性记录与量化测评展开深层[[Triangulation\|三角验证]]。为防止 PBE 滑向狭隘的地方主义经验反馈回路，必须在组织层级建立中层领导者引领的协作探究网络与全系统知识动员平台，使分散的实践证据得以在跨校交流中接受批判性审议与升华。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–131)]]

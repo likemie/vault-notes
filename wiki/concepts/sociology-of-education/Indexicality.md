@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # Indexicality
@@ -125,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜日常言语与行动的意义深嵌于特定时空情境因而具有本然的索引性
-> **探讨维度　语言哲学与[[Ontology\|本体论]]维度** 本命题批判将语言视为独立符号工具箱的机械论，确立行动与语境不可分割的本体论地位。
+> **语言哲学与[[Ontology\|本体论]]维度** 本命题批判将语言视为独立符号工具箱的机械论，确立行动与语境不可分割的本体论地位。
 
 > [!claim] Garfinkel, H.
 > **日常生活的惊人索引性** 加芬克尔强调，日常生活的理性是行动者在具体情境中展示的实践成就，有别于形式逻辑推演；一切日常陈述均带有惊人的索引性，任何试图脱离具体情境去追问“一句话到底是什么意思”的努力，都是对社会现实本性的背离。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜索引性的顺畅运作依托于行动者共享的常识知识库与未言明默契
-> **探讨维度　认知与微观秩序维度** 本命题揭示索引性能够在互动中实现高效沟通的内在机制，阐明常识知识库的基石作用。
+> **认知与微观秩序维度** 本命题揭示索引性能够在互动中实现高效沟通的内在机制，阐明常识知识库的基石作用。
 
 > [!claim] Schutz, A.
 > **常识知识库与[[Typification\|类型化]]支撑** 舒茨指出，行动者在日常生活中运用共享的常识知识库（stock of knowledge at hand）理解他人；索引性[[Discourse|话语]]之所以不需要每次都重新定义，是因为行动者预设了彼此拥有对情境的共同类型化理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
@@ -147,7 +147,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Positivism|实证主义]]去情境化的行为编码必然导致对索引性意义的系统误读
-> **探讨维度　研究方法论批判维度** 本命题以[[Classroom Observation|课堂观察]]为例，深刻揭示[[Positivism\|实证主义]]量化测量工具在面对微观索引性时的[[Epistemology\|认识论]]破产。
+> **研究方法论批判维度** 本命题以[[Classroom Observation|课堂观察]]为例，深刻揭示[[Positivism\|实证主义]]量化测量工具在面对微观索引性时的[[Epistemology\|认识论]]破产。
 
 > [!claim] Walker, R. & Adelman, C.
 > **[[Flanders Interaction Analysis Categories\|FIAC]] 分类体系在索引性面前的崩溃** 传统弗兰德斯互动分析（FIAC）追求无偏、客观的标准化记录，将课堂互动拆解为 10 类离散的行为代码；然而在面对带有浓厚情境索引性的“草莓事件”时，FIAC 只能机械输出 '7-4-9-10'，将师生高度默契的亲密互动错误归类为教师斥责与学生对抗，完全无法解释全班哄堂大笑的真实机理；这证明任何脱离[[Rich and Thick Description\|深描]]的量化行为测度都不可避免地陷入认识论盲区。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜常人方法学主张索引性是社会现实的内在特征而非待清除的技术缺陷
-> **探讨维度　科学哲学与[[Reflexivity\|反思性]]维度** 本命题探讨索引性对社会科学研究者自身定位的深刻重塑。
+> **科学哲学与[[Reflexivity\|反思性]]维度** 本命题探讨索引性对社会科学研究者自身定位的深刻重塑。
 
 > [!claim] Garfinkel, H.
 > **拒绝修补索引性** 加芬克尔严正反对主流社会学试图“修补（remedy）”或消灭索引性的做法；他主张社会科学不应像自然科学那样妄图确立超然于语境的绝对法则，而应当将“索引性现象如何在具体行动中被实践性地达成与管理”作为社会科学最核心的[[Research Problem\|研究议题]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]

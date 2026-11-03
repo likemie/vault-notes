@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜课程与教学本质上是围绕[[Cultural Capital|文化资本]]与意识形态[[Discourse|话语]]权展开的文化政治
-> **探讨维度　文化政治与意识形态解构维度** 该命题批判了[[Positivism|实证主义]]课程论的纯洁性神话，确立了一切课程选择均涉及利益代表与权力分配的政治属性。
+> **文化政治与意识形态解构维度** 该命题批判了[[Positivism|实证主义]]课程论的纯洁性神话，确立了一切课程选择均涉及利益代表与权力分配的政治属性。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **课程作为文化权力的争夺[[Champ|场域]]** 课程深嵌于特定历史与社会情境之中，属于文化政治产物，超越了纯粹客观真理集合的假定。统治群体通过将自身的文化形态法定化为普遍规范，使边缘群体的声音与活经验在正规教学中被系统性边缘化。批判教育学的作用在于引导学习者辨识被隐藏的意识形态信息，使学校教育从再生产不平等的机器转变为促成社会批判的熔炉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 145–149)]]
@@ -169,7 +169,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜提问式对话与[[Conscientization|批判意识觉醒]]是解构沉积式压迫与实现求知者主体性解放的根本路径
-> **探讨维度　[[Epistemology|认识论]]对话与主体意识化维度** 该命题从认识发生学出发，论证真正的知识必须产生于反思与实践的辩证运动之中，确立对话作为认识论平等的核心表征。
+> **[[Epistemology|认识论]]对话与主体意识化维度** 该命题从认识发生学出发，论证真正的知识必须产生于反思与实践的辩证运动之中，确立对话作为认识论平等的核心表征。
 
 > [!claim] [[Paulo Freire|Freire, P.]]
 > **[[Problem-Posing Education|提问式教育]]破除储蓄式知识剥削** 在[[Banking Model of Education|储蓄式教育]]中，教师是存款员而学生是空容器，这种教学安排本质上是对学生作为求知者资格的否定。提问式教育通过确立师生平等的对话关系，将现实本身呈现为有待破解的问题，使受教育者在不断反思中形成批判意识（[[Conscientization|conscientização]]），打破压迫所造成的[[Culture of Silence|沉默文化]]。引自 [[Argument_Partaken_2022_Springer\|Partaken (2022, pp. 75–76)]]; [[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 5–9)]]
@@ -180,7 +180,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]潜藏着数字储蓄式教育风险，必须通过确立[[Alien Intelligence|异己智能]]视角与思维全外显重构批判教学防线
-> **探讨维度　[[Man-Computer Symbiosis|人机共生]]异化与数字时代解放维度** 该命题将批判教育学的核心命题延伸至人工智能时代，揭示算法全盘代劳与技术崇拜背后的新型被动受教风险，重构技术环境下的反思防御规程。
+> **[[Man-Computer Symbiosis|人机共生]]异化与数字时代解放维度** 该命题将批判教育学的核心命题延伸至人工智能时代，揭示算法全盘代劳与技术崇拜背后的新型被动受教风险，重构技术环境下的反思防御规程。
 
 > [!claim] Smith, S. J.
 > **破除算法共情迷思并以[[Alien Intelligence|异己智能]]重塑批判对话客体** 当教育界将生成式 AI 视作中性计算器或共情导师时，实际上是在构建一种更隐蔽的数字储蓄式教育：学生向算法快速索取现成文字与结论，将构思、提纲与修改等核心思维环节全盘外包，陷入严重的[[Cognitive Deskilling|认知去技能化]]并承受成长性认识侵害。继承弗莱雷的批判教育学精神，教师必须坚决打破对大模型的拟人化崇拜，将其准确定位为缺乏人类生活经验与伦理关怀的异己智能（Alien Intelligence）；通过在课堂中推行思维步骤全透明外显（Showing Steps），迫使学生对 AI 输出开展反向修辞审问，将技术从代劳主体的私厨转变为接受批判性检验的靶子，捍卫学生在算法环境中的[[Epistemic Agency|认识主体性]]。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 10–11)]]
@@ -188,7 +188,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜跨国教育干预往往异化为资本主义不平等结构的强制再生产，批判教育学必须以主权自决与人道主义解放实践为旨归
-> **探讨维度　跨国教育政治与全球再生产批判维度** 该命题将批判教育学从微观学校课堂延伸至全球宏观[[Geopolitics|地缘政治]]与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
+> **跨国教育政治与全球再生产批判维度** 该命题将批判教育学从微观学校课堂延伸至全球宏观[[Geopolitics|地缘政治]]与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
 
 > [!claim] Shor and Freire (1987); Rust, Johnstone, & Allaf (2009)
 > **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（EFA）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为核心的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]

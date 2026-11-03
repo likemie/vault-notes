@@ -56,7 +56,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜弱否决壁垒与高[[Zone of Discretion|裁量空间]]构成制度转换的结构土壤
-> **探讨维度　制度转换的宏观与微观咬合机制** 探讨为何在特定权力结构下，变革力量优先选择“旧瓶装新酒”的功能转用，而非推动正式立法的更新。
+> **制度转换的宏观与微观咬合机制** 探讨为何在特定权力结构下，变革力量优先选择“旧瓶装新酒”的功能转用，而非推动正式立法的更新。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **低成本功能重定向机制** 当守旧势力缺乏强力否决点阻止新阐释、同时成文规则留有广阔的司法与行政裁量权时，改革者无需承担废法重立的漫长政治谈判成本；他们能够直接夺取司法或行政解释主导权，将既有规则直接转用于新目标，实现高效的低成本质变。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–21)]]
@@ -122,7 +122,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜[[Rule Ambiguity|规则模糊性]]是制度内生转换的永久动力源泉
-> **探讨维度　[[Rule Ambiguity|规则模糊性]]与行动者能动性的交互机制** 批判将制度文本视为明晰无歧义中立契约的传统假定，揭示多方妥协立法如何为后续制度转换留下后门。
+> **[[Rule Ambiguity|规则模糊性]]与行动者能动性的交互机制** 批判将制度文本视为明晰无歧义中立契约的传统假定，揭示多方妥协立法如何为后续制度转换留下后门。
 
 > [!claim] Mahoney, J. & Thelen, K.
 > **内生模糊性与转用温床** 成文规则不可避免地带有内生模糊性；法律正式化不仅难以消除歧义，而且往往将冲突各方的妥协模糊表述固定下来；正是这一持续存在的解释缝隙，使得后继行动者能够策略性调用既有法条对抗其最初设计初衷。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 11–14)]]
@@ -130,7 +130,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜规制机构在宏观竞争压力下向微观[[Competitiveness|竞争力]]工具内生转换
-> **探讨维度　制度转换在比较政治经济学中的市场重构维度** 探讨劳工保护与社会规制实体在经济全球化冲击下，如何通过功能重定向演变为协助企业提升[[Competitiveness|竞争力]]的平台。
+> **制度转换在比较政治经济学中的市场重构维度** 探讨劳工保护与社会规制实体在经济全球化冲击下，如何通过功能重定向演变为协助企业提升[[Competitiveness|竞争力]]的平台。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **防御性机构向竞争力伙伴的重新部署** 制度转换不仅发生在司法审判中，更是[[Varieties of Capitalism|生产体制]]适应外部压力的关键机制。在市场竞争压力加剧时，原本旨在限制资本特权、捍卫工人法定权益的阶级规制实体（如德国企业理事会，Betriebsräte），在未修改成文法的前提下被劳资双方重新部署，转变为推动工厂内部特许让步（Concession bargaining）、商定弹性工时与共谋削减成本的微观竞争力联盟平台。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜学习分析通过将不可见学习过程数据化表征，重构了教学决策并产生生产性现实
-> **探讨维度　数据化与[[Performativity of Measurement\|测量的生产性]]** 学习分析不仅是中立的测量工具，它通过量化与指标赋值，创造出关于“好学生/风险学生”的新型等级秩序并深刻重塑师生互动。
+> **数据化与[[Performativity of Measurement\|测量的生产性]]** 学习分析不仅是中立的测量工具，它通过量化与指标赋值，创造出关于“好学生/风险学生”的新型等级秩序并深刻重塑师生互动。
 
 > [!claim] Amos; Thompson et al.
 > **数据表征重塑教师角色并创造新型价值秩序** 学习分析将教师的直觉观察转化为数据仪表盘指标，使教师从“经验观察者”转变为“数据响应者”；同时，量化过程伴随着价值化（Valorization），通过界定何种行为指标具有高权重，反向塑造了学生的[[Learning Strategies|学习策略]]与机构资源分配。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 57)]]; [[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
@@ -122,7 +122,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜学习分析在高等教育质量治理中正从微观点击流转向多维度的纵向“[[Learning Gain|学习增益]]”评估
-> **探讨维度　认知能力增益与宏观质量测查** 面对[[Knowledge-Based Economy\|知识经济]]对高阶素养的要求，国家高教治理正利用测试分析技术开展大规模[[Learning Gain\|增值性评价]]，以衡量院校教学对学生高阶能力的实质贡献。
+> **认知能力增益与宏观质量测查** 面对[[Knowledge-Based Economy\|知识经济]]对高阶素养的要求，国家高教治理正利用测试分析技术开展大规模[[Learning Gain\|增值性评价]]，以衡量院校教学对学生高阶能力的实质贡献。
 
 > [!claim] Bouckaert / [[OECD]]
 > **[[Learning Gain\|学习增益]]分析成为连接国家政策与院校评价的关键工具** 英国 [[Higher Education Funding Council for England\|HEFCE]] 学习增益项目（涵盖 70 余所高校）、德国 [[KoKoHs Program\|KoKoHs]] 计划 与意大利 [[TECO Project\|TECO]] 项目 表明，现代学习分析正将纵向追踪、机考技术与真实量规相结合，用以精准测定[[Critical Thinking\|批判性思维]]与通用能力的增益幅度；这不仅推动了高教增值评价的科学化，也倒逼参与高校系统反思其整体教学与考核设计。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19, 21–22)]]
@@ -130,7 +130,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜基于算法预判的[[Preemptive Governance|先发制人治理]]将学生主体性重构为对标“[[Digital Optimum|数字最优]]”的自我调节机器
-> **探讨维度　主体性生产与先发制人规训** 算法在学生发生实际学业危机前便提前介入，将求助的自主权转化为被动接受算法调制的依附性。
+> **主体性生产与先发制人规训** 算法在学生发生实际学业危机前便提前介入，将求助的自主权转化为被动接受算法调制的依附性。
 
 > [!claim] Thompson et al.
 > **[[Preemptive Governance\|先发制人治理]]重塑有前景学生的主体性** 在 在线自我评估（[[Online Self-Assessment\|OSA]]） 等场景中，学习分析在入学前即构建出“[[Digital Self\|数字自我]]”并对标“[[Digital Optimum\|数字最优]]”；当学生的日常行为偏离最优轨迹时，系统触发先发制人式干预（[[Preemptive Governance]]），迫使个体将自身不断修剪为符合算法预设的“[[Promising Student\|有前景的学生]]”，剥夺了学生在真实探索与犯错中生成主体性的空间。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, pp. 224–226)]]
@@ -138,7 +138,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜仪表盘与[[Gamification|游戏化]]界面的视觉符号规训可能以[[Behaviorism|行为主义]]顺从遮蔽深层的[[Theory of Knowledge|知识论]]理解
-> **探讨维度　界面认知与算法修养危机** 仪表盘的颜色警戒与[[Gamification\|游戏化]]代币制造了强烈的情绪刺激，容易使学生陷入刷取指标的数字游戏中，背离深度教化（[[Bildung]]）。
+> **界面认知与算法修养危机** 仪表盘的颜色警戒与[[Gamification\|游戏化]]代币制造了强烈的情绪刺激，容易使学生陷入刷取指标的数字游戏中，背离深度教化（[[Bildung]]）。
 
 > [!claim] Jornitz & Klinge
 > **视觉符号条件反射侵蚀质性知识反思** 学习分析仪表盘的色彩符号（红黄绿）与[[Gamification\|游戏化]]代币（金币、徽章）具有强大的情绪压迫力；学生与教师逐渐被条件化为追求“100% 处于绿色安全区”或累积虚拟代币，算法绕过了复杂的批判性反思与概念理解，使教育退化为遵循指令的[[Data Behaviorism\|数据行为主义]]。[[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, pp. 242–245)]]

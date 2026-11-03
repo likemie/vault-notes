@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-11-02
 > **质量保障要监测学校是否提供良好条件，不应把所有经验压缩为分数** 彼得森担心，若把文凭资格直接系于形式参与，抵制者可能只完成最低动作，并破坏其他学生的合作经验。他因而支持加强教师指导和文凭附件中的详细档案，不赞成把 CASS 纳入普通积分体系。这是他对当时制度的规范性判断，有别于后来 [[Chinese Academy of Sciences|CAS]] 要求的现状说明。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
 
 > [!concept-proposition] 命题三｜核心组件只有共享问题与证据，才能形成[[Concurrency of Learning|并发学习]]
-> **探讨维度　跨组件[[Concurrency of Learning|并发学习]]（Concurrency of Learning）** 探究 CAS 如何与 [[Theory of Knowledge|TOK]] 和 EE 共享问题、证据和反思，从相互分离的任务转为系统联动。
+> **跨组件[[Concurrency of Learning|并发学习]]（Concurrency of Learning）** 探究 CAS 如何与 [[Theory of Knowledge|TOK]] 和 EE 共享问题、证据和反思，从相互分离的任务转为系统联动。
 
 > [!claim] Metli, A. & Akış, D.
 > **作为[[Epistemology|认识论]]现实锚点与实践出口的 CAS** 

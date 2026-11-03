@@ -140,7 +140,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-29
+updated: 2026-11-03
 ---
 
 ---
@@ -211,7 +211,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题一｜[[Epistemic Stances|认识论立场]]决定不同[[Paradigm|研究范式]]的有效知识判准与方法论路径
-> **探讨维度　[[Paradigm\|研究范式]]的认识论映射** 探讨不同社会科学研究范式在“什么是有效知识”上的根本分歧，以及对探究路径的界定与约束。
+> **[[Paradigm\|研究范式]]的认识论映射** 探讨不同社会科学研究范式在“什么是有效知识”上的根本分歧，以及对探究路径的界定与约束。
 
 > [!claim] Cohen et al.
 > **范式背后的认识论反思与进路选择** 研究规划由底层的认识论假设所奠定。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
@@ -229,7 +229,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题二｜后实证主义对客观主义认识论构成了根本性理论解构
-> **探讨维度　传统实证神话的理论解构** 探讨[[Cognitive Decoupling|事实与价值分离]]的客观主义神话是如何被打破的，以及理论负载与可错论的学术确立。
+> **传统实证神话的理论解构** 探讨[[Cognitive Decoupling|事实与价值分离]]的客观主义神话是如何被打破的，以及理论负载与可错论的学术确立。
 
 > [!claim] Cohen et al.
 > **事实的理论负载与可错论原则** 后实证主义与法兰克福学派[[Critical Theory\|批判理论]]彻底颠覆了传统实证主义的认识论自负。[[Jürgen Habermas\|尤尔根·哈贝马斯]]（Jürgen Habermas）指出，[[Scientism\|科学主义]]将经验实证方法神化为西方唯一的合法认识论，将所有知识狭隘等同于科学知识，彻底抹杀了诠释、审美、批判与伦理等核心知识形态，将人类丰富的生活实践贬低为[[Technical Rationality\|技术理性]]（Habermas, 1972）。后实证主义在此基础上确立了“可错论”（fallibilism）：所有科学事实与观察都是理论负载（theory-laden）与价值负载（value-laden）的；世界上不存在免受先验概念框架污染的纯粹客观经验事实，研究者自身的价值预设与理论参照系从源头决定了其探究焦点与解释边界，使得事实与价值的机械二分在认识论上彻底破产[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 437)]]。
@@ -240,7 +240,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题三｜个体认识论的发展是一个领域特殊的、主客观协调的过程
-> **探讨维度　个体认识论演进的机制** 将认识论视为个体心智可发展的[[Metacognition\|元认知]]能力，探讨其在不同[[Areas of Knowledge\|知识领域]]的演进机制与宽容陷阱。
+> **个体认识论演进的机制** 将认识论视为个体心智可发展的[[Metacognition\|元认知]]能力，探讨其在不同[[Areas of Knowledge\|知识领域]]的演进机制与宽容陷阱。
 
 > [!claim] Kuhn et al.
 > **跨领域的反转序列与宽容陷阱** 认识论在个体心智中的成熟是个体对认知主客观维度进行持续协调的发展成果，依赖专门的认知反思训练。主观性的觉醒（由绝对论向多元论转变）最早萌发于个人品味和审美领域，而客观评估标准的重新整合（向评价论转变）则高度依赖于物理与社会事实领域的实证逻辑，由此引发认知序列的反转。在这一历程中，未受系统反思训练的成年人极易陷入“宽容陷阱”，误将对多元视角的宽容等同于“所有观点与论断都具有相同的有效性”，陷入彻底相对主义，阻碍个体迈向以证据检验与论证辩护为基石的高阶[[Epistemological Understanding\|认识论理解]]（评价论）[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 319-326)]]。
@@ -248,7 +248,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题四｜[[World-Systems Theory|世界体系分析]]的批判认识论将[[Knowledge Production|知识生产]]界定为对主导范式假象的抗争，确立求真与求善的认识论同构
-> **探讨维度　批判认识论与[[Knowledge Production|知识生产]]的政治性** 探讨认识论如何从技术性的真理判准拓展为反思 19 世纪社会科学欺骗性前提的智识抗争，以及求真与追求正义社会的价值同构。
+> **批判认识论与[[Knowledge Production|知识生产]]的政治性** 探讨认识论如何从技术性的真理判准拓展为反思 19 世纪社会科学欺骗性前提的智识抗争，以及求真与追求正义社会的价值同构。
 
 > [!claim] Wallerstein & Arnove
 > **作为认识论抗争的[[World-Systems Theory|世界体系分析]]** 知识生产植根于具体的历史现实与权力关系。伊曼纽尔·[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）指出，世界体系分析将自身定位为一场“针对被忽视议题与欺骗性认识论的反抗”（a protest against neglected issues and deceptive epistemologies）；它向整个社会科学界发出智识变革的召唤，要求学者彻底反思并抛弃（unthinking）19 世纪欧洲社会科学确立的主流前提假设（如机械的现代性发展阶段论、国家中心主义及事实与价值的虚假中立）。沃勒斯坦主张，知识探究作为一项智识任务，同时是一项政治任务——在认识论层面，“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）是同一项不可分割的事业。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
@@ -261,7 +261,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题五｜跨学科探究作为[[Protean Episteme|普罗透斯式认识体系]]必须警惕[[Empiricism|唯方法论主义]]并将实证技术锚定于历史与价值情境
-> **探讨维度　跨学科认识论流变与方法主义反思维度** 探讨社会与教育探究如何在历史演进中形成因应时代思潮的流变认识体系，以及为何必须抵御将技术工具冒充为实质知识的[[Empiricism|唯方法论主义]]偏误。
+> **跨学科认识论流变与方法主义反思维度** 探讨社会与教育探究如何在历史演进中形成因应时代思潮的流变认识体系，以及为何必须抵御将技术工具冒充为实质知识的[[Empiricism|唯方法论主义]]偏误。
 
 > [!claim] Barber, B. & [[Andreas Kazamias|Kazamias, A.]] M.
 > **唯方法论主义对客观确定性神话的实质解构** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]深入剖析指出，战后经验实证化风潮在社会探究中催生了严重的“唯方法论主义（Methodologism）”偏误：误认为存在通行一切领域的单一通用方法，以为只要照搬[[Multiple Regression|多元回归]]、跨国标准化调查与[[Variable|变量]][[Operationalization|操作化]]规程就能自动产出科学真理。唯方法论主义错误地将方法工具混同于实质认识论真理，抽离了教育所植根的历史文化土壤，使实证指标极易异化为国家五年计划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
@@ -272,7 +272,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题六｜大规模跨国测评推动教育评价认识论从课程知识再现转向生活情境胜任力与自主规制
-> **探讨维度　评价认识论的跨学科与效用转向** 探讨[[International Large-Scale Assessments|国际大规模评估]]如何重构有效教育知识的判准，将测量基准从掌握国家规定教材内容转向应对未来生活挑战的通用素养。
+> **评价认识论的跨学科与效用转向** 探讨[[International Large-Scale Assessments|国际大规模评估]]如何重构有效教育知识的判准，将测量基准从掌握国家规定教材内容转向应对未来生活挑战的通用素养。
 
 > [!claim] Grek
 > **脱离国家课程的跨国评价认识论范式更替** 跨国量化评估确立了新型评价认识论。[[IEA|国际教育成就评价协会]]（IEA）依据各国课程大纲测评学科掌握程度；[[OECD|经济合作与发展组织]]（[[OECD]]）推行的[[PISA]]测评则打破了依附特定国家课程的评价传统，将有效知识基准界定为学生在未来真实情境中迁移与应用知识的通用能力（fitness for life）。这种评价认识论将教育直接界定为[[Knowledge-Based Economy|知识经济]]的投入要素，将测评范畴拓展至[[Student Motivation|学习动机]]、[[Self-Efficacy|自我效能感]]与自我规制策略等非认知倾向，把 15 岁学生预设为必须终身持续自我监测与学习的自主规制主体[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]。

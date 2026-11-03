@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜取证式督导通过循证修辞建立[[Punctuated Equilibrium Theory|政策垄断]]并阻断专业自主反思
-> **探讨维度　督导权力与证据构建的合法化机制** 探讨督察机构如何利用科学证据的客观性外观掩盖行政主导的取证逻辑，进而达成对一线教学实践的强力控制。
+> **督导权力与证据构建的合法化机制** 探讨督察机构如何利用科学证据的客观性外观掩盖行政主导的取证逻辑，进而达成对一线教学实践的强力控制。
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **取证式调查违背了科学求证的[[Open-Mindedness|开放性]]本质** 塞格霍尔姆等指出，科学证据的根本特性在于其所呈现的事实往往具有超越预期的意外性，能够拓宽观察者的认知视野（Eriksson & Martinsen, 2012）。[[Swedish Schools Inspectorate|瑞典学校督察局]]的质量审计完全偏离了这一求真逻辑，沦为典型的取证式风格：机构在定稿前刻意抹去外部专家对国家课程大纲缺陷的学术批评，将教学问题全部归咎为[[School Leadership|学校领导]]与教师缺乏自信，从而使取证式督导成为迫使专业人员无条件服从国家既定教育方针的技术工具。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–653)]]

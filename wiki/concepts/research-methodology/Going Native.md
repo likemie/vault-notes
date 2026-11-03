@@ -54,7 +54,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜完全[[Participant Observation|参与观察]]者角色内生必然遭遇客观性剥夺与本土化危机
-> **探讨维度　观察者角色方法论：参与深度与分析反思的此消彼长** 揭示完全融入研究场景如何系统性削弱观察者的外在分析视角。
+> **观察者角色方法论：参与深度与分析反思的此消彼长** 揭示完全融入研究场景如何系统性削弱观察者的外在分析视角。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011)]]
 > **完全参与角色的结构性盲区** 科恩等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23]]）指出，[[Participant Observation|参与观察]]在方法论上始终被两极张力所撕裂：完全观察者因距离过远而面临主观推断与失真危险；完全参与者虽能最大程度消除观察者的反应性（Reactivity），但由于过度融入情境与内化规范，不可避免地遭遇“本土化”危机，导致对情境的独特性视而不见，彻底丧失社会科学研究必需的批判反思与概括能力。
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜跨文化比较教育田野深陷文化共情融入与横向批判反思的双重[[Epistemology|认识论]]张力
-> **探讨维度　比较教育田野[[Epistemology|认识论]]：后殖民反思与比较批判视角的平衡** 探讨学者在非本土教育田野中如何跨越欧洲中心主义与极端本土主义的双重陷阱。
+> **比较教育田野[[Epistemology|认识论]]：后殖民反思与比较批判视角的平衡** 探讨学者在非本土教育田野中如何跨越欧洲中心主义与极端本土主义的双重陷阱。
 
 > [!claim] [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
 > **跨文化田野的双向认识论戒律** 拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p. 129]]）在论述比较教育学实地[[Fieldwork|田野工作]]时指出，研究者进入异质文化体系开展教育考察时，一方面必须保持足够的文化共情与谦卑，通过深度浸润破除西方中心主义的先入之见；但另一方面，研究者绝不能过度“本土化”，若全盘接纳当地族群对于教育实践的自我辩护，研究便会退化为纯粹的地方志记载，从而丧失了开展跨国横向比较分析与结构性批判的学术立足点。
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜分析性反思与制度化脱离机制是化解本土化陷阱的核心屏障
-> **探讨维度　田野反思治理：边缘性意识与定期抽离的制度设计** 探讨如何通过方法论策略维持“边缘人”（Marginal Native）的建设性张力。
+> **田野反思治理：边缘性意识与定期抽离的制度设计** 探讨如何通过方法论策略维持“边缘人”（Marginal Native）的建设性张力。
 
 > [!claim] Hammersley and Atkinson (1983); Merriam (1998)
 > **维持边缘人定位与[[Reflexivity|反思性]]抽离** 著名[[Ethnography|民族志]]学者哈默斯利与阿特金森（Hammersley and Atkinson, 1983, pp. 93–95）主张，理想的田野从业者应当保持“边缘人”（The Marginal Native）的自觉——既深入其境又保持心理距离；梅里亚姆（Merriam, 1998, p. 103）形象地指出，优秀的参与观察者在精神状态上必须维持健康的“双重意识”（Dual Consciousness），通过撰写带有反思[[Memos|札记]]（Reflexive Journaling）的[[Field Notes|田野笔记]]、定期物理抽离田野现场、以及与未卷入田野的学术同行开展批判审议，强制重构分析距离。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜社会情感能力构成了学生[[Academic Achievement|学业成就]]提升与危机韧性发育的非认知基底
-> **探讨维度　个体心理与认知发展的非认知协同机制** 围绕非认知心理技能如何作为支架促进学校学业产出、缓解心理健康危机展开。
+> **个体心理与认知发展的非认知协同机制** 围绕非认知心理技能如何作为支架促进学校学业产出、缓解心理健康危机展开。
 
 > [!claim] Durlak et al. (2011)
 > **多维协同增益效应** 严密的实验与准实验[[Meta-analysis\|元分析]]实证证实，参与正规校本社会情感学习方案的学生，其在情感调节与亲社会行为方面展现出中等[[Effect Size\|效应量]]增益，且这种心理层面的改善能够强劲溢出至传统学业考试之中，促成[[Academic Achievement\|学业表现]]高达 11 个百分点的显著提升。
@@ -118,7 +118,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜新兴政策议题的开拓构成了国际组织抢占全球规范主导权与慈善资本的核心生态利基
-> **探讨维度　全球多边治理市场的组织间竞争与议题殖民** 围绕国际组织如何通过制造新颖政策议题来防御地盘萎缩、争夺外部私人资助展开。
+> **全球多边治理市场的组织间竞争与议题殖民** 围绕国际组织如何通过制造新颖政策议题来防御地盘萎缩、争夺外部私人资助展开。
 
 > [!claim] Steiner-Khamsi et al.
 > **组织利基开辟与多边跟进内卷** [[Global Education Governing Complex\|全球教育治理复合体]]内部存在高度白热化的地盘争夺；当[[UNICEF\|儿童基金会]]凭借 SEL 成功占据弱势关怀道德高地并撬动乐高、盖茨等私人基金会巨额赠款后，[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]迅速通过将其标准化与测验化实施跨界殖民，将原本具有批判人道色彩的议题重新编码为服务于自身多边中介权力的量化指标。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
@@ -177,7 +177,7 @@ updated: 2026-11-02
 > > | Quinn et al. (1999) | SS with emotional and behavioral disorders | 35 | 1,123 | 35 | 0.20 |  |
 > > | Taylor et al. (2017) | Social-emotional learning interventions | 82 | 3,658 | 8 | 0.33 |  |
 > > | Corcoran et al. (2018) | Social-emotional learning interventions | 40 | 135,495 | 73 | 0.25 |  |
-> > | Shi & Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
+> > | Shi and Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
 > > | Cipriano et al. (2023) | Social-emotional learning interventions | 424 | 575,361 | 2,049 | 0.11 |  |
 
 > [!eef-divider]

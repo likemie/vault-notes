@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜回溯推测具有与实验预测同等坚固的[[Epistemology|认识论]]客观性与检验力
-> **探讨维度　历史科学哲学地位维度** 探讨回溯推测如何通过确凿证据建立对历史假说的严格检验。
+> **历史科学哲学地位维度** 探讨回溯推测如何通过确凿证据建立对历史假说的严格检验。
 
 > [!claim] Ault, C. R. (1998)
 > **地学探究的卓越准则** 奥尔特论证指出，地学探究并不低劣于物理实验；地质学家通过在宏大尺度上管理歧义性与建立汇合[[Chain of Evidence\|证据链]]，发展出了一套高度精密且适用于复杂开放系统的卓越[[Epistemology\|认识论]]准则。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 151)]]

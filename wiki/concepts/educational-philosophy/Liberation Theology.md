@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜解放神学确立了超越[[Technical Rationality|技术官僚理性]]的[[Representational Knowledge|代表性知识]]权威
-> **探讨维度　[[Epistemology|认识论]]合法性与道德连带** 该命题探讨扎根底层苦难与解放承诺的知识体系如何打破由先发国家[[Positivism|实证主义]]所垄断的技术理性标准。
+> **[[Epistemology|认识论]]合法性与道德连带** 该命题探讨扎根底层苦难与解放承诺的知识体系如何打破由先发国家[[Positivism|实证主义]]所垄断的技术理性标准。
 
 > [!claim] Stone, D.
 > **解放神学神职人员是代表性知识的典型范例** 在发展合作与政策跨国循环中，技术专家依赖经院文凭与统计模型的单向知识垄断，常常因脱离地方实际而遭遇抵制。倡导解放神学的拉美神职人员与[[Paulo Freire|弗莱雷]]等学者展现出深厚的道德信念和与被压迫者的生命团结，这种代表性知识构成了强有力的专业专长标尺，成功在后发展国家与成熟民主国家之间搭建起具有道义穿透力的反思对话[[Champ|场域]]。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 7)]]
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜基层教会识字网络构成了[[Critical Pedagogy|批判教育学]]生根与[[Conscientization|意识化]]觉醒的实践母体
-> **探讨维度　教育实践的制度空间与社会动员** 探讨解放神学的组织形态如何为平民[[Problem-Posing Education|提问式教育]]提供免受军警威权干预的庇护所与微观阵地。
+> **教育实践的制度空间与社会动员** 探讨解放神学的组织形态如何为平民[[Problem-Posing Education|提问式教育]]提供免受军警威权干预的庇护所与微观阵地。
 
 > [!claim] Freire, P.
 > **信仰反思与解放对话推动了[[Culture of Silence|沉默文化]]的解构** 20 世纪 60 年代巴西东北部的基层教会基体（CEBs）将圣经阅读转化为审视土地掠夺、低工资剥削与文盲困境的生活实践。通过将生成性词汇与穷人苦难直接挂钩，教育过程转变为唤醒受压迫者政治觉悟的解放过程，打破了长期笼罩在拉美乡村的沉默文化。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 7)]]

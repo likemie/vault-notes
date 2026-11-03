@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜弹性协作通过通透边界与自组织流动打破传统小组的信息孤岛
-> **探讨维度　社会组织架构维度** 本命题阐明弹性协作如何重构课堂社会互动结构，消除传统固定分组导致的小组壁垒与知识隔绝。
+> **社会组织架构维度** 本命题阐明弹性协作如何重构课堂社会互动结构，消除传统固定分组导致的小组壁垒与知识隔绝。
 
 > [!claim] [[Jianwei Zhang|Zhang, J.]] et al.
 > **通透边界与去孤岛化** 张建伟等通过 3 年[[Design-Based Research|设计实验]]实证表明，固定分组模式不可避免地导致小组间形成认知护城河；而弹性协作赋予学生自由组队的权能，促使学生在不同问题领域间高频穿梭，将分散的小组智慧交织成全班互通的知识网络。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 892–893)]]; (Zhang et al., 2007, 2009)
@@ -125,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜弹性协作显著提升学生的[[Epistemic Responsibility|集体认知责任]]与深度概念建构水平
-> **探讨维度　认知与[[Knowledge Building Theory|知识建构]]维度** 本命题探讨组织形式的灵活性如何转化为深层科学理解与高阶认识责任。
+> **认知与[[Knowledge Building Theory|知识建构]]维度** 本命题探讨组织形式的灵活性如何转化为深层科学理解与高阶认识责任。
 
 > [!claim] [[Marlene Scardamalia|Scardamalia, M.]] & [[Carl Bereiter|Bereiter, C.]]
 > **集体责任与观点持续改进** 斯卡达玛利亚与贝赖特论证，当学生拥有重构协作团队的自由时，他们不再将完成小组[[Homework|作业]]当成应付差事，是对全班共同体知识库的整体质量产生强烈的集体所有权与[[Epistemic Responsibility|认知责任]]感。(Scardamalia & Bereiter, 2014)
@@ -136,7 +136,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜跨组流动创造的意外相遇是驱动集体知识创生的关键动力
-> **探讨维度　知识涌现与创新动力维度** 本命题揭示跨界思想碰撞如何成为科学概念提升与跨学科整合的催化剂。
+> **知识涌现与创新动力维度** 本命题揭示跨界思想碰撞如何成为科学概念提升与跨学科整合的催化剂。
 
 > [!claim] Zhang, J. et al.
 > **意外相遇的创生效能** 张建伟等在五年级人体系统探究中证实，眼睛小组与基因小组、神经反射小组之间的偶然交流（意外相遇，Serendipity of Encounters），直接催生了对虹膜遗传、疲劳反射等跨系统机制的突破性理解，使 81.25% 的总结达到完全科学水平。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 916–917)]]

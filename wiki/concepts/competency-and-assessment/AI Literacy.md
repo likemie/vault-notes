@@ -73,7 +73,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （人工智能素养）
@@ -148,7 +148,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜人工智能素养的核心底线在于放大人类认知而非[[Cognitive Offloading|认知外包]]
-> **探讨维度　认知协同与主体性坚守** 智能工具的普及并不自然带来思维能力的提升；若缺乏明确规制，直接依赖生成式作答会导致学生跳过深层阅读与推导，引发[[Critical Thinking\|批判性思维]]萎缩。
+> **认知协同与主体性坚守** 智能工具的普及并不自然带来思维能力的提升；若缺乏明确规制，直接依赖生成式作答会导致学生跳过深层阅读与推导，引发[[Critical Thinking\|批判性思维]]萎缩。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]
 > **认知放大底线** 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32, 34)]]
@@ -156,7 +156,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜AI 素养是决定[[Man-Computer Symbiosis|人机协同]]走向“思维协同”或“心智退化”的核心调节中介
-> **探讨维度　认知调节与[[Epistemological Vigilance\|认识论警觉]]建构** 探讨学生的 AI 素养水平如何调节其在人机对话中是对模型输出进行批判性核验还是盲目顺从。
+> **认知调节与[[Epistemological Vigilance\|认识论警觉]]建构** 探讨学生的 AI 素养水平如何调节其在人机对话中是对模型输出进行批判性核验还是盲目顺从。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **AI 素养的情境调节机制** 在高等教育生成式 AI 整合研究中，AI 素养构成决定人机互动深度的核心调节[[Variable\|变量]]。具备高 AI 素养的学生能够理解大模型的概率生成本质与幻觉倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源[[Triangulation\|三角互证]]；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误，在 20 项实证研究中表现出严重的创造被动与认知侵蚀。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–12)]]
@@ -164,7 +164,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜AI 素养普及倒逼课程体系贯穿嵌入与过程性综合测评转型
-> **探讨维度　课程嵌入与测评生态重塑** 传统的封闭式纸笔事实记忆测试在生成式 AI 面前效度崩塌，倒逼测评向真实情境探究、提示词溯源与口头答辩转型。
+> **课程嵌入与测评生态重塑** 传统的封闭式纸笔事实记忆测试在生成式 AI 面前效度崩塌，倒逼测评向真实情境探究、提示词溯源与口头答辩转型。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]
 > **贯穿式课程与测评重构** 应对 AI 对传统课后[[Homework\|作业]]与记忆考试的颠覆性冲击，教育系统不能将 AI 素养孤立为附加选修，必须将其作为贯穿线索嵌入主干学科，并加快开发基于真实情境、多源证据评析与现场探究答辩的综合测评方案。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 34)]]
@@ -172,7 +172,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜人工智能素养的核心超越提示词技巧，立足于将算法输出作为探究对象的[[Epistemology|认识论]]审判与[[Feedback Literacy|反馈素养]]
-> **探讨维度　[[Epistemic Practices\|认识论实践]]与[[Reflexivity\|反思性]]协同** 探讨如何防止人工智能素养窄化为工具主义操作流，阐明将模型生成物置于学科[[Epistemic Ideals\|认识论标准]]下审视的高阶素养内涵。
+> **[[Epistemic Practices\|认识论实践]]与[[Reflexivity\|反思性]]协同** 探讨如何防止人工智能素养窄化为工具主义操作流，阐明将模型生成物置于学科[[Epistemic Ideals\|认识论标准]]下审视的高阶素养内涵。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **从提示词技巧转向[[Epistemology\|认识论]]探究实践** 当前教育[[Discourse|话语]]常将人工智能素养窄化为孤立的操作技术、提示词技巧（Prompt Technique）或学术诚信合规难题（Ng et al., 2021）。然而，真正的关键在于培养学生将人工智能生成物作为“探究对象”（Object of Inquiry）而非“权威交付成果”的认识论实践能力。高水平的人工智能素养必然与学科[[Evidence Standards\|证据标准]]、[[Evaluative Judgement\|评价性判断]]（Evaluative Judgement, Tai et al., 2018）以及[[Feedback Literacy\|反馈素养]]（Feedback Literacy, Carless & Boud, 2018）深度融合：学生不仅要能获取算法反馈，更要能批判性追问“输出遵循了哪种学科标准”、“什么证据能推翻该结论”，并在[[Man-Computer Symbiosis|人机协同]]中对最终成果承担不可推卸的[[Epistemic Responsibility\|认识论责任]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 1, 6, 8)]]

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -98,7 +98,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜论证图在结构化写作与批判性论辩中效能优异且认知开销适中
-> **探讨维度　逻辑严密性与认知门槛的权衡** 论证图通过显式[[Externalization\|外化]]论据与反驳链条有效指引推论方向，其促进效能显著优于结构过于冗余的[[Concept Mapping\|概念图]]。
+> **逻辑严密性与认知门槛的权衡** 论证图通过显式[[Externalization\|外化]]论据与反驳链条有效指引推论方向，其促进效能显著优于结构过于冗余的[[Concept Mapping\|概念图]]。
 
 > [!claim] Davies; van Gelder; Lei, Ding & Chiu
 > **[[Graphic Organizer\|图形组织器]]形态级差命题** 在针对[[Higher-Order Thinking Skills\|高阶思维]]培养的[[Meta-analysis\|元分析]]中，论证图表现出强效的显著促进作用（$g = 0.798$），显著优于概念图（$g = 0.548, W = 13.98, p < .001$），但略低于[[Mind Mapping\|思维导图]]（$g = 1.041, W = 11.23, p < .001$）。这一效能级差表明：论证图所提供的逻辑语法既有效避免了概念图多向交叉网状连接所带来的认知超载与视觉拥挤，又提供了比思维导图更严密的推理约束，因而在科学论辩与批判性写作教学中具有独特的育人价值。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–11)]]

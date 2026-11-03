@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜高等教育大众化驱动就业能力由绝对专业积累向相对排位竞争与履历包装异化
-> **探讨维度　文凭贬值与排位博弈** 当高等教育普及化打破了稀缺学位的天然阶层区隔，大学文凭的交换价值随之缩水；求职竞争的重心不可逆转地向简历呈现、社会性实习与微观[[Cultural Capital|文化资本]]转移。
+> **文凭贬值与排位博弈** 当高等教育普及化打破了稀缺学位的天然阶层区隔，大学文凭的交换价值随之缩水；求职竞争的重心不可逆转地向简历呈现、社会性实习与微观[[Cultural Capital|文化资本]]转移。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] & Brown and Hesketh (2004)
 > **[[Credential Inflation|文凭通胀]]下的相对就业力统治** 在分析高等教育大众化时代的毕业生竞争时指出，文凭从昔日的就业保障退化为初筛门槛。面对高度同质化的学术资格，雇主转向考察求职者展示自我品质、性格修养与组织契合度的“演绎能力”（Performance）。求职者被迫卷入对实习声望、名企背书与职业人际网络的无休止竞逐，使就业能力演变为高度阶层化、依赖家庭社会文化资本支撑的相对排序博弈。
@@ -123,7 +123,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜超国家空间治理将跨国流动性重构为就业能力并将宏观劳动力市场动荡个体化
-> **探讨维度　[[Spatial Governmentality|空间治理术]]与流动的伦理化** 超国家治理机构借助空间流动政策，将青年肉体的地理跨越包装为现代劳动者的至高美德，隐秘地转移了去工业化与经济紧缩的治理危机。
+> **[[Spatial Governmentality|空间治理术]]与流动的伦理化** 超国家治理机构借助空间流动政策，将青年肉体的地理跨越包装为现代劳动者的至高美德，隐秘地转移了去工业化与经济紧缩的治理危机。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Papatsiba (2005)
 > **流动胜任力[[Discourse|话语]]对结构性风险的个人化转嫁** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]官方政策话语通过 [[Erasmus Programme|ERASMUS]] 与综合性[[Lifelong Learning|终身学习]]计划，将[[Student Mobility|跨国学生流动]]（[[Student Mobility|学生流动性]]）重塑为获取“就业能力（Employability）”的法定途径。然而，将流动性道德化为个人竞争优势的[[Governmentality|治理术]]，直接将宏观经济去规制化、就业不安全感与全球化结构性动荡的制度成本，系统性地个体化（individualized）为青年劳动者个人的责任。官方话语宣称青年必须随时保持灵活流动以适应资本流动；结构性失业风险由此被归咎于劳动者自身缺乏跨国流动意愿与地理适应能力，掩盖了宏观经济治理责任。
@@ -131,7 +131,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜技能素养话语将就业能力建构为[[Self-Entrepreneur|自我企业家]]持续获取的生产要素与[[Governing at a Distance|远距治理]]技术
-> **探讨维度　外部期望内化与自我企业化规训** 探讨国际技能框架如何通过设定外在于个体的规范期望，将劳动者塑造成自发追逐资本效益与持续自我审计的规训主体。
+> **外部期望内化与自我企业化规训** 探讨国际技能框架如何通过设定外在于个体的规范期望，将劳动者塑造成自发追逐资本效益与持续自我审计的规训主体。
 
 > [!claim] [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] & Hampson and Junor (2009)
 > **[[Self-Entrepreneur|自我企业家]]的生产与外部标准的内化** 泽林卡（Milos Zelinka, 2022, pp. 258–261）解构 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）指出，就业能力被制度化呈现为[[Self-Entrepreneur|自我企业家]]必须源源不断采购并整合的通用资产。素养（Competency）概念本身遵循高度盎格鲁化的雇主导向逻辑：其[[Success Criteria|成功标准]]完全由外部劳动力市场决定，迫使个体在日常学习中不断开展自我审计，使教育成为服务于劳动力可雇佣性的工具性规训，构成了典型的福柯式[[Governing at a Distance|远距治理]]。
@@ -139,7 +139,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜知识易耗品化与超国家规训将维持就业能力确立为个体终身自我更新的强制义务
-> **探讨维度　知识折旧、终身学习与就业能力规训** 探讨在[[Knowledge-Based Economy|知识经济]]话语下，知识的易耗品化如何将维持就业能力转变为劳动者必须终身承担的自我规训任务。
+> **知识折旧、终身学习与就业能力规训** 探讨在[[Knowledge-Based Economy|知识经济]]话语下，知识的易耗品化如何将维持就业能力转变为劳动者必须终身承担的自我规训任务。
 
 > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
 > **知识易耗品化与维持就业能力的规训要求** 乔治·帕西亚斯与扬尼斯·鲁萨基斯解构欧盟教育政策话语指出，在[[Lisbon Strategy|里斯本战略]]构筑的“欧洲[[Panopticism|全景敞视建筑]]”中，知识被重新定义为具有明确保质期、随技术迭代迅速折旧的易耗品（consumable good）。为应对不稳定的劳动力市场与全球竞争，超国家话语将维持“[[Employability|就业能力]]”升格为个体不可推卸的生存伦理。劳动者被迫通过[[Lifelong Learning|终身学习]]持续进行技能翻新与自我监控，在缺乏外部直接强制的形式下自发承担起维系自身经济可用性的全部风险与责任。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484, 487, 492–493)]]

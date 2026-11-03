@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜深度学习新教学法通过专有商标特许将公共素养概念转化为商业加盟商品
-> **探讨维度　教学法商品化与商标特许机制** 探讨[[Policy Entrepreneur|政策创业者]]与跨国公司如何将公共领域的教育学常识包装为受知识产权保护的专有商品。
+> **教学法商品化与商标特许机制** 探讨[[Policy Entrepreneur|政策创业者]]与跨国公司如何将公共领域的教育学常识包装为受知识产权保护的专有商品。
 
 > [!claim] [[Michael Fullan|Fullan, M.]] & Langworthy, M.
 > **新教学法的全系统支持** 深度学习不仅是传统课堂的技术更新，是通过 6C 素养量规与全球网络协同，使每一名学生获得应对未来复杂挑战的核心能力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25)]]
@@ -116,7 +116,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜排他性学校集群加盟机制导致公立教师研训资金被商业中介长期抽吸
-> **探讨维度　财政依附与公共教研边缘化** 聚焦商业加盟合同如何迫使公立学校将国家教师研训财政补贴输送至私营咨询中介。
+> **财政依附与公共教研边缘化** 聚焦商业加盟合同如何迫使公立学校将国家教师研训财政补贴输送至私营咨询中介。
 
 > [!claim] O'Neill et al.
 > **公费研训预算的私营汲取** 本土[[Educational Management Organisation|教育管理组织]]借助代销 NPDL，要求加盟学校签署三年合约并支付高额年度会费与协调费，将学校享有的国家教师专业学习与发展（PLD）公款转化为私营公司的营业利润，并未转化为公共[[Normal School|师范院校]]的长期教研能力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 94–103)]]

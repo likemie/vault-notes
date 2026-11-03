@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （自动化偏差 / 弱自动化偏差与强自动化偏差）
@@ -126,7 +126,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜弱自动化偏差根植于认知吝啬，强自动化偏差由[[Trust Calibration|过度信任]]与[[Epistemic Deference|认识论顺从]]驱动
-> **探讨维度　认知启发式视角与[[Trust Calibration|过度信任]]视角的整合** 辨析自动化偏差在认知心理学与社会[[Epistemology|认识论]]中的双重机制基础。
+> **认知启发式视角与[[Trust Calibration|过度信任]]视角的整合** 辨析自动化偏差在认知心理学与社会[[Epistemology|认识论]]中的双重机制基础。
 
 > [!claim] Mosier et al. (1998); Skitka et al. (2000); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **启发式替代与过度信任的分流** 传统的认知启发式视角将自动化偏差定义为在决策中以系统线索替代警觉性信息搜索的启发式偏误，基于认知吝啬（Cognitive Miser）假说解释了弱自动化偏差；然而，当操作人员在已明确感知反常证据的情况下依然放弃自身立场追随系统时，启发式模型无法提供充分解释。强自动化偏差的实质是操作人员对系统能力的信任严重超出其客观边界（过度信任），从而在社会认识论层面将系统视作更高权威，发生深层的[[Epistemic Deference|认识论顺从]]（[[Epistemic Deference]]）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 4–11)]]
@@ -134,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜强自动化偏差从程序与实质双重维度侵蚀人类操作人员的自主能动性
-> **探讨维度　自主行动能力与社会技术制度架构** 解构强自动化偏差如何破坏人类作为独立自主行动者的核心条件。
+> **自主行动能力与社会技术制度架构** 解构强自动化偏差如何破坏人类作为独立自主行动者的核心条件。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **信念修正失效与关系性权威削弱** 在程序主义视角下，理性自主要求行动者具备根据新证据修正信念的能力；操作人员在面对累积的反向证据时持续顺从系统错误输出，表明其信念修正能力受到系统性抑制，构成了程序性自主的瓦解。在实质主义与关系自主视角下，自动化偏差不仅是个人认知偏差，更是由社会技术系统结构性诱发的：对算法客观中立的社会预设、组织要求偏离系统建议时承担极高举证成本的制度惯性，以及长期依赖导致的人类专业[[Cognitive Deskilling|去技能化]]（Deskilling），共同削弱了操作人员将自身视为合法决策权威的自我评价态度，使自主能动性在制度层面受到削弱。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 11–17)]]
@@ -142,7 +142,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜强自动化偏差将[[Meaningful Human Control|人在回路]]退化为形式化橡皮图章，违背高风险情境下的道德能动性义务
-> **探讨维度　尊严关切与有意义人类控制的捍卫** 论证在高风险甚至关乎生死存亡的决策情境中，放弃人类独立道德判断构成了根本性的伦理失职。
+> **尊严关切与有意义人类控制的捍卫** 论证在高风险甚至关乎生死存亡的决策情境中，放弃人类独立道德判断构成了根本性的伦理失职。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **道德判断的不可让渡性与控制架空** 基于人类尊严的伦理立场，关乎人的生命安全与重大利益的决策必须包含对生命内在价值的道德审思与敬畏，而自动化与人工智能系统天然缺乏这种道德关切与理解能力。在自主武器系统、重症医疗诊断或司法风控中保留[[Meaningful Human Control|人在回路]]（Human-in-the-Loop, HITL），核心目的在于注入真实的人类道德能动性（Moral Agency）与[[Meaningful Human Control|有意义的人类控制]]；强自动化偏差使人类操作人员退化为被动的橡皮图章（Rubber Stamp），实质上将杀伤或处置裁决权全盘让渡给无道德能力的机器，造成了对人类尊严与道德受托义务的严重背弃。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
@@ -150,7 +150,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜通过反思机器与[[Defeater|击败者机制]]引入[[Epistemic Friction|认识论摩擦]]是校准批判性信任的核心路径
-> **探讨维度　设计干预与人机交互重构** 探讨如何利用交互机制打破自动化偏差，培育批判性信任。
+> **设计干预与人机交互重构** 探讨如何利用交互机制打破自动化偏差，培育批判性信任。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **生产性[[Epistemic Friction|认知摩擦]]对盲从的解构** 克服强自动化偏差不能仅依赖道德说教或增加事后问责，而必须在人机交互节点主动注入[[Epistemic Friction|认识论摩擦]]。主要技术方案包括：

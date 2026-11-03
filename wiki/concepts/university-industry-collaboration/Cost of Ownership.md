@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜基于所有权成本的全生命周期核算打破了低价劣质采购与高额停机调试的负向锁定循环
-> **探讨维度　供应链激励与技术升级机制** 传统设备采购中买方常利用买方垄断地位压低供应商设备标价，导致设备商缩减工程设计与[[Reliability|可靠性]]测试预算，最终在晶圆厂运行中因频繁故障和良率损失导致巨额隐形成本。
+> **供应链激励与技术升级机制** 传统设备采购中买方常利用买方垄断地位压低供应商设备标价，导致设备商缩减工程设计与[[Reliability|可靠性]]测试预算，最终在晶圆厂运行中因频繁故障和良率损失导致巨额隐形成本。
 
 > [!claim] Grindley, P. C., [[David C. Mowery|Mowery, D. C.]], & Silverman, B. S.; Macher, J. T., Mowery, D. C., & Hodges, D. A.
 > **采购激励机制重构** 在 [[Sematech]] 的推动下，全行业建立起统一的 COO 模型（后上升为 SEMI 行业标准）。芯片制造商不再单纯依据采购单价压榨上游供应商，是根据设备在 5 年生命周期内的单位产出综合成本进行竞标，促使设备商将研发重点由“拼低价”转向“提升平均无故障工作时间（MTBF）与工艺良率”，使关键设备运行成本降低高达 50%。Macher et al. 进一步指出，COO 模型的确立是联盟最持久的制度遗产之一，它将零和对抗的买卖关系转化为基于全生命周期经济学的长期[[Strategic Compact|战略契约]]。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
@@ -107,7 +107,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜标准化 COO 模型构成了产学研跨界协同中降低信息不对称与技术验证风险的通用语言
-> **探讨维度　产学研协同度量与标准积累** 高校与中试机构研发的新型工艺装备若无法提供工业界认可的经济学可信数据，难以跨越[[Research Translation|技术转化]]过程中的“[[Valley of Death|死亡之谷]]”。
+> **产学研协同度量与标准积累** 高校与中试机构研发的新型工艺装备若无法提供工业界认可的经济学可信数据，难以跨越[[Research Translation|技术转化]]过程中的“[[Valley of Death|死亡之谷]]”。
 
 > [!claim] Grindley, P. C., Mowery, D. C., & Silverman, B. S.
 > **中试验证与通用评价语言** 在奥斯汀建立的[[Pilot Scale Platform|中试验证平台]]中，COO 模型与[[Statistical Process Control|统计过程控制]]（SPC）共同作为设备准入与交付验收的法定工具。通过在真实生产工况下模拟连续运行，平台精确测算并验证了新型原型机的 COO 指标，消除了制造厂对中小创新企业设备可靠性的顾虑，大幅加速了前沿技术的商业化落地。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–735)]]

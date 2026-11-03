@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜实践共同体通过合法边缘性参与促进新手与跨界学者的知识社会化
-> **探讨维度　参与演进与学习社会化机制** 围绕个体如何由共同体外部边缘逐步走向核心展开，强调学习是在真实情境实践中不断深化参与度的过程，有别于单向灌输。
+> **参与演进与学习社会化机制** 围绕个体如何由共同体外部边缘逐步走向核心展开，强调学习是在真实情境实践中不断深化参与度的过程，有别于单向灌输。
 
 > [!claim] Lave and Wenger (1991)
 > **合法边缘性参与机制** 学习是学习者以“合法[[Legitimate Peripheral Participation|边缘参与]]者”（Legitimate Peripheral Participation, LPP）身份介入真实实践共同体文化的过程，有别于去情境化的知识符号灌输；初学者通过观察、倾听、承担外围边缘性任务获得共同体成员身份认同，并在日常互动中逐渐向核心主导参与演进。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
@@ -99,7 +99,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜面对面非正式交往是实践共同体凝聚信任与激发[[Tacit Knowledge|隐性知识]]流转的关键条件
-> **探讨维度　物理具身性与交往深度** 围绕不同组织交往模态（实体线下 vs 纯虚拟线上 vs 混合）对共同体信任建立与知识共享深度的[[Heterogeneity|异质性]]影响展开。
+> **物理具身性与交往深度** 围绕不同组织交往模态（实体线下 vs 纯虚拟线上 vs 混合）对共同体信任建立与知识共享深度的[[Heterogeneity|异质性]]影响展开。
 
 > [!claim] [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]]
 > **实体面对面交互的不可替代性** 尽管虚拟与混合会议显著提升了共同体的参与规模和空间辐射半径，但实践共同体内部深层互信的建立、学科藩篱的真正消弭以及[[Tacit Knowledge|隐性知识]]的流动，高度依赖实体面对面的社会化互动；线下研讨与预留的非正式交流时间满意度显著高于线上和混合模式。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]

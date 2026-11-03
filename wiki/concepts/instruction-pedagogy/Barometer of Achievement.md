@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -116,7 +116,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜气压计图表源于行政问责与全景监控软件，将技术官僚的管理控制逻辑物化为教学图腾
-> **探讨维度　[[Neo-Taylorism|新泰勒主义]]管理逻辑与软件视觉迁移** 探讨气压计图表如何将最初用于行政层面对教师实施联网监视的技术界面，转化为指导日常课堂教学的规范性符号。
+> **[[Neo-Taylorism|新泰勒主义]]管理逻辑与软件视觉迁移** 探讨气压计图表如何将最初用于行政层面对教师实施联网监视的技术界面，转化为指导日常课堂教学的规范性符号。
 
 > [!claim] Johnson & Janzen
 > **全景监视界面向课堂教学符号的异化迁移** 泰勒（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。[[John Hattie|哈蒂]]在出版《可见学习》前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件，其关键卖点在于向管理层提供能够全网实时监视全校 6 个科目教师软件使用情况的后台仪表盘。书中反复出现的气压计图表正是直接搬用自这一行政监控界面。这一视觉迁移将原本用于自上而下考核与问责的技术工具，神圣化为衡量教师专业成效的教学图腾，体现了典型的[[Neo-Taylorism|新泰勒主义]]管理诉求：把丰富的育人实践降格为仪表刻度，削弱教师的[[Professional Judgment|专业判断]]，迫使基层教师听令于外部技术指标。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
@@ -124,7 +124,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜半圆形仪表盘将丰富的人文育人实践压缩为机械刻度，强化了教育领域的[[Scientism|科学主义]]与[[Performativity|表演性危机]]
-> **探讨维度　视觉物化修辞与[[Performativity|表演性危机]]** 探讨仪表盘式视觉呈现如何配合医学手术隐喻，诱发一线学校追求形式主义指标的职业异化。
+> **视觉物化修辞与[[Performativity|表演性危机]]** 探讨仪表盘式视觉呈现如何配合医学手术隐喻，诱发一线学校追求形式主义指标的职业异化。
 
 > [!claim] Johnson & Janzen
 > **仪表盘物化修辞诱发去专业化与表演性异化** 气压计图表通过模仿精密物理仪器的表盘刻度，赋予[[Meta-meta-analysis|二阶元分析]]未经加权的简单均值以虚假的硬科学权威。这种将教育简化为速度表读数的做法，与保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]将教学比附为外科手术与高山救援的论调高度契合。然而，真实的学校教育是一项植根于特定社区的人际伦理实践，有别于对照仪表打卡。当气压计指标被澳大利亚维多利亚州等地转化为刚性的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）时，一线教师被要求在上课铃响前于白板抄写[[Learning Intentions|学习意图]]以备巡查，导致严重的[[Performativity|表演性]]危机，教师沦为应试流水线上的装配工，而学生被异化为产出分数的冰冷数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]

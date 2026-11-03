@@ -35,7 +35,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜任务结构的松散程度决定了[[Epistemological Beliefs|认识论信念]]对学术表现的预测力与激活机制
-> **探讨维度　[[Epistemological Beliefs\|认识论信念]]的激活条件** 探讨任务结构如何作为边界条件，决定认识论信念（尤其是[[Simplicity of Knowledge\|简单知识]]与确定性信念）何时对学业产出产生实质影响。
+> **[[Epistemological Beliefs\|认识论信念]]的激活条件** 探讨任务结构如何作为边界条件，决定认识论信念（尤其是[[Simplicity of Knowledge\|简单知识]]与确定性信念）何时对学业产出产生实质影响。
 
 > [!claim] [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]]
 > **劣构任务特异性预测效应** 学生的认识论信念对良构任务的表现无显著预测力（$R^2 = .04, p = .37$），但对劣构任务的表现具有显著预测力（$R^2 = .12, p = .01$）；其中简单知识（simple knowledge, SK）信念越朴素（认为知识由孤立碎片构成、回避复杂性），在劣构任务中的总成绩（$\beta = -0.24, R^2 = .06, p = .02$）和[[Reflexivity\|反思性]]判断得分（$\beta = -0.24, R^2 = .06, p = .02$）越差。这是因为劣构任务的模糊性与复杂性激活了认识动机（epistemic motivation），迫使认知者进行假设检验与认知解冻；而良构任务因提供现成线索与明确标准，抵消了个体认识论信念朴素带来的认知劣势。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 320-324)]]
@@ -78,7 +78,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜课堂任务结构的失衡会阻碍学生的认知迁移或引发焦虑退缩
-> **探讨维度　教学设计的任务平衡** 探讨过度单一的良构或劣构任务配置对学习者认知发展与动机状态的负面后果。
+> **教学设计的任务平衡** 探讨过度单一的良构或劣构任务配置对学习者认知发展与动机状态的负面后果。
 
 > [!claim] Spiro et al. (1988)
 > **良构任务过载的简化错觉** 长期、过度布置高度良构的任务（如孤立记忆事实的工作表）会向学生传递该学科领域本质上简单且无需概念整合的虚假理解，促发表面化[[Student Engagement\|学习投入]]，并严重妨碍高级知识获取与远迁移能力的形成。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 311, 324)]]

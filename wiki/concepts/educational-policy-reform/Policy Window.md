@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜政策之窗的时间紧迫性迫使证据形态由复杂基础研究转向操作性对标工具
-> **探讨维度　证据形态的阶段权变机制** 传统循证政策理论假设决策者有充分的时间消化严密的对照实验；但在真实世界中，政策之窗的开启往往稍纵即逝，迫使行动者根据时间约束调整证据形态。
+> **证据形态的阶段权变机制** 传统循证政策理论假设决策者有充分的时间消化严密的对照实验；但在真实世界中，政策之窗的开启往往稍纵即逝，迫使行动者根据时间约束调整证据形态。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.; Campbell et al.
 > **时间压缩下的证据形态转换与常态化知识库需求** 麦克唐纳与韦瑟福德指出，[[Common Core State Standards|共同核心标准]]各州法定采纳阶段的推进时间被极度压缩（Truncated adoption stage）。各州官员为了争夺联邦[[Race to the Top|力争上游]]（RTTT）的 43.5 亿美元拨款，必须在数月内将法案提交州教育委员会表决。在此极端时间限制下，决策者根本无法等待学术界进行长周期的对照实验；厚重的学术专著与期刊研究全面隐退，取而代之的是由智库编制的高度工具化的逐条对标分析（Crosswalks）与同行专家审查声誉，以此充当火速表决的合法性证据（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 6, 16–18]]）。坎贝尔等学者进一步指出，超国家[[Evidence-Based Policy-Making|循证决策]]同样受制于转瞬即逝的政策之窗；若系统缺乏预先建立的常态化储备知识库（Standing Knowledge Repositories）与快速综合通道，极短的决策窗口将直接诱使决策者转向案例的轶事化挑拣与后置辩护，凸显出前置[[Knowledge Mediation|知识经纪]]对于把握政策之窗的核心价值（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026, pp. 348–350]]）。
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜政策之窗既受外生政治财政危机触发亦可由[[Policy Entrepreneur|政策企业家]]借助指标危机策略性开启
-> **探讨维度　政策之窗的能动开启机制** 政策之窗具有显著的能动建构特征，[[Policy Entrepreneur|政策企业家]]能够通过策略性包装客观指标，主动塑造危机共识以撬开制度之窗。
+> **政策之窗的能动开启机制** 政策之窗具有显著的能动建构特征，[[Policy Entrepreneur|政策企业家]]能够通过策略性包装客观指标，主动塑造危机共识以撬开制度之窗。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
 > **指标危机的主动议程动员** 在议程设置阶段，政策企业家主动搜集州考与全美统考（[[National Assessment of Educational Progress|NAEP]]）的落差数据以及国际测评（[[TIMSS]]/[[PISA]]）的滞后指标，并将其与国家经济安全等两党核心关切深度绑定，向立法机构和公众展示各州现行标准“宽一英里、深一英寸”的溃败景象，从而人为撕开维持现状的制度防线，主动促成了全国统一学术标准的政策之窗开启。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
@@ -120,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜政党联合执政契机开启政策机会之窗并促成政策企业家的伺机突围
-> **探讨维度　政治流突变与政策方案突围** 当政治体制内出现少数派联合执政或议席微弱多数的特殊政治周期时，边缘议题可作为组阁政治交换筹码，瞬间撬开常态下被建制官僚与专业协会所阻遏的政策之窗；早已预研成熟办学模型的[[Policy Entrepreneur|政策企业家]]能够借窗突围，直接介入法律起草与规程拟定。
+> **政治流突变与政策方案突围** 当政治体制内出现少数派联合执政或议席微弱多数的特殊政治周期时，边缘议题可作为组阁政治交换筹码，瞬间撬开常态下被建制官僚与专业协会所阻遏的政策之窗；早已预研成熟办学模型的[[Policy Entrepreneur|政策企业家]]能够借窗突围，直接介入法律起草与规程拟定。
 
 > [!claim] O'Neill, J., Duffy, C., & Fernando, S.
 > **联合执政政治交换撬开[[Charter Schools|特许学校]]政策之窗** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者在考察[[Partnership Schools Kura Hourua|新西兰特许学校]]（PSKH）政策议程设置时发现，2011 年大选后国家党（National Party）因议席不足，被迫与持自由意志主义立场的行动党（ACT Party）签署《信任与供给协议》（Confidence and Supply Agreement）。行动党将设立打破公立教育垄断的特许学校作为联合执政不可退让的先决条件，从而在极短时间内强行开启了原本在民意与教育界毫无共识的政策机会之窗。阿尔温·普尔（Alwyn Poole）主导的别墅教育信托（Villa Education Trust）与普纳马拉马信托（He Puna Marama Trust）等政策企业家群体，早已备好私立办学模型与军事化培训方案，在此政治之窗开启时迅速借道突围，直接进驻教育部特许学校执行工作组，主导起草了绕过国家课程标准与公立[[Teacher Qualifications|教师资质]]限制的特许办学合同法案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23, 29–30, 42–46)]]

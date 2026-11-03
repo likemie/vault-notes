@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜提问技能是驱动个性化理解与深层探究的程序性认知中枢
-> **探讨维度　认知机制与理解建构** 探讨提问技能如何作为[[Scaffolding|认知脚手架]]，将静态信息转化为学习者的个性化[[Knowledge Building Theory|知识建构]]。
+> **认知机制与理解建构** 探讨提问技能如何作为[[Scaffolding|认知脚手架]]，将静态信息转化为学习者的个性化[[Knowledge Building Theory|知识建构]]。
 
 > [!claim] Naeem, H.
 > **认知图式的主动连接** 学生的理解具有高度个性化特征，取决于其将新概念与独特前序知识相联结的方式。提问技能使学习者能够主动构想符合自身认知结构的高质量问题，从而引导有价值的探究路径并实现深层概念理解，避免沦为被动的信息接收者。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–276)]]
@@ -120,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜提问技能是开启多元视角、通往[[Open-Mindedness|思想开放]]与认知去中心化的核心程序通道
-> **探讨维度　提问驱动的视角转换与[[Open-Mindedness|思想开放]]** 探讨提问技能如何通过激活[[Counterfactual|反事实]]追问与多元解释生成，打破非黑即白的二元论，为养成思想开放美德奠定技术基石。
+> **提问驱动的视角转换与[[Open-Mindedness|思想开放]]** 探讨提问技能如何通过激活[[Counterfactual|反事实]]追问与多元解释生成，打破非黑即白的二元论，为养成思想开放美德奠定技术基石。
 
 > [!claim] [[Argument_Naeem_2026_Episteme\|Naeem (2026)]]
 > **多答案追问规范与思想开放技能的习得** 提问技能不仅用于澄清已知，更是打破思维僵化与先入偏见的关键工具。在[[Man-Computer Symbiosis|人机协同]]或教学探究中，通过引导学生构思能够诱导“多个可能答案”而非单一标准答案的开放性问题，并追问不同回答背后的论据支撑，提问技能直接训练了认识主体生成和审视替代性视角的胜任力。这一程序性操作构成了培育[[Open-Mindedness|思想开放]]（Open-Mindedness）[[Epistemic Virtues and Vices|理智美德]]不可或缺的技能阶梯。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 273, 278–280)]]
@@ -131,7 +131,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]可作为提问技能的反向训练脚手架而非答案替代机
-> **探讨维度　人机交互重构与[[Cognitive Deskilling|去技能化]]防范** 探讨如何通过转变人工智能交互[[Paradigm|范式]]，将技术从引发认知退化的答案机器重塑为强化提问技能的启发式对话伙伴。
+> **人机交互重构与[[Cognitive Deskilling|去技能化]]防范** 探讨如何通过转变人工智能交互[[Paradigm|范式]]，将技术从引发认知退化的答案机器重塑为强化提问技能的启发式对话伙伴。
 
 > [!claim] Naeem, H.
 > **提问导师系统的双向训练范式** 传统聊天机器人直接提供现成答案，剥夺了学生锻炼[[Working Memory|工作记忆]]与推理的机会，导致认知去技能化。通过设计专门的提问导师（Question-Tutor, Q-Tutor），系统在 AI 主导探究与学生主导练习双模式间切换，内置直接答案拦截规则，通过分步追问与反向启发训练学生的提问技能，从而激活深度认知加工。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 275–278)]]

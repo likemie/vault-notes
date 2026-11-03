@@ -108,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -157,7 +157,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜核心素养在[[Global Policy Space|全球政策空间]]中作为[[Floating Signifier|漂浮能指]]运作，以高度可塑性促成跨意识形态趋同
-> **探讨维度　[[Floating Signifier|漂浮能指]]机制** 概念在剥离具体历史情境后成为高度抽象的符号容器，促成了不同意识形态背景下政策主体的广泛采纳。
+> **[[Floating Signifier|漂浮能指]]机制** 概念在剥离具体历史情境后成为高度抽象的符号容器，促成了不同意识形态背景下政策主体的广泛采纳。
 
 > [!claim] Beech; Zelinka
 > **抽象化与权威光环促成强制同质化** 能力[[Discourse|话语]]的可塑性使其能适应不同国家的文化与意识形态包装，而其稳定性的权威光环使其成为不可质疑的现代化政策象征；话语越空泛，能填充的语境越多，进而促成了全球范围内的强制同质化。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]
@@ -165,7 +165,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜通用技能若脱离学科[[Big Ideas|大概念]]与实证探究载体，将不可避免地导致技能空心化与实践断裂
-> **探讨维度　[[Epistemology\|认识论]]扎根与[[Big Ideas\|大概念]]** [[Critical Thinking\|批判性思维]]、协作与[[Data Literacy\|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实实践，技能训练将沦为虚幻的形式主义。
+> **[[Epistemology\|认识论]]扎根与[[Big Ideas\|大概念]]** [[Critical Thinking\|批判性思维]]、协作与[[Data Literacy\|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实实践，技能训练将沦为虚幻的形式主义。
 
 > [!claim] [[The Royal Society]]
 > **学科认识论锚定与大概念融合** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（[[Socioscientific Issues\|SSI]]）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 30–33)]]
@@ -173,7 +173,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜技能话语通过[[Self-Entrepreneur|自我企业家]]逻辑生产出愿意主体，将结构性失业隐蔽地转嫁为个体能力缺陷
-> **探讨维度　主体性规训** 话语将经济转型中的劳动风险完全个体化，创造出时刻准备自我更新的理想员工形象。
+> **主体性规训** 话语将经济转型中的劳动风险完全个体化，创造出时刻准备自我更新的理想员工形象。
 
 > [!claim] Zelinka
 > **愿意主体生产与[[Self-Entrepreneur|自我企业家]]规训** [[Single-Case Design|SCD]] 确立了不断学习新技能的“愿意主体”（自我企业家）为规范标准，并将未能适应市场变迁的群体标记为“不愿主体”或“可弃置个体”，使国家免于承担解决劳动力市场结构性不平等的根本责任。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 260–261)]]
@@ -184,7 +184,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜社会建构型[[Cooperative Learning|合作学习]]为21世纪高阶素养的发展提供了高效益的课堂实现机制
-> **探讨维度　课堂干预效能** 政策话语中倡导的 4C 技能与高阶素养需要具体教学模式支撑；[[Meta-meta-analysis|二阶元分析]]证实同伴协商与小组探究是发展综合素养的强效载体。
+> **课堂干预效能** 政策话语中倡导的 4C 技能与高阶素养需要具体教学模式支撑；[[Meta-meta-analysis|二阶元分析]]证实同伴协商与小组探究是发展综合素养的强效载体。
 
 > [!claim] Güngör et al.
 > **合作互动对21世纪高阶技能具有显著促进效应** 二阶[[Meta-analysis|元分析]]表明，[[Cooperative Learning|合作学习]]对涵盖 21 世纪技能的[[Higher-Order Thinking Skills|高阶思维]]产出具有强劲促进效应（$ES = 0.76$ $[0.42, 1.11]$），其中[[Jigsaw|拼图法]]对 21 世纪复合素养的一阶促进效应达 $ES = 0.84$ $[0.66, 1.03]$。[[Heterogeneity|异质性]]小群体的认知冲突与深度协作，为批判思维、[[Creativity|创造力]]与沟通素养的具身养成提供了微观社会机制。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
@@ -192,7 +192,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜21世纪技能话语在高等教育落地上面临“宏观政策高调宣示”与“微观学业评价滞后”的深层制度脱节
-> **探讨维度　评价脱节与[[Constructive Alignment|建构性对齐]]危机** 尽管 21 世纪技能话语已全面渗透进超国家框架与国家白皮书，但由于大学内部学业评价机制严重滞后，导致核心素养在高校难以转化为实际[[Learning Gain|学习增益]]。
+> **评价脱节与[[Constructive Alignment|建构性对齐]]危机** 尽管 21 世纪技能话语已全面渗透进超国家框架与国家白皮书，但由于大学内部学业评价机制严重滞后，导致核心素养在高校难以转化为实际[[Learning Gain|学习增益]]。
 
 > [!claim] Bouckaert
 > **宏观能力宣示与微观评价实践的制度断裂** 尽管[[OECD|经合组织]]成员国几乎全员在国家资格框架（如 [[European Qualifications Framework|EQF]]、《[[Melbourne Declaration|墨尔本宣言]]》）中将创造力与批判性思维列为最高培养目标，但微观评价层面存在三重系统性阻碍：
@@ -203,7 +203,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题六｜智能充沛时代促发技能话语的二元重组：从抽象认知技巧转向实体排障手艺与自动化机器核验
-> **探讨维度　智能时代的技能重构与制造公地** 探讨人工智能普及使代码编写与文本推演边际成本急剧下降后，21 世纪核心素养为何必须向“实体排障手艺”与“人机自动化核验”深度转向。
+> **智能时代的技能重构与制造公地** 探讨人工智能普及使代码编写与文本推演边际成本急剧下降后，21 世纪核心素养为何必须向“实体排障手艺”与“人机自动化核验”深度转向。
 
 > [!claim] Kratsios, M.
 > **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象[[Text Generation|文本生成]]的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中发挥了显著支撑作用，要求人才具备[[Man-Computer Symbiosis|人机协同]]的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场积累的默会[[Process Knowledge|过程知识]]、物理排障直觉（[[Problem Solving|Troubleshooting]]）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]

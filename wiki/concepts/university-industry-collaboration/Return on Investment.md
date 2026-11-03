@@ -108,7 +108,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -194,7 +194,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜跨国金融组织将教育收益率建构为自指性政策帝国与贷款规制门槛
-> **探讨维度　宏观地缘金融规制：[[Technical Rationality\|技术理性]]对政策主权的置换** 揭示跨国组织如何将经验经济学测算转化为剥夺全球南方借款国教育自决权的硬性治理技术。
+> **宏观地缘金融规制：[[Technical Rationality\|技术理性]]对政策主权的置换** 揭示跨国组织如何将经验经济学测算转化为剥夺全球南方借款国教育自决权的硬性治理技术。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **收益率数据库构建自指性封闭循环体系** 1980 年[[World Bank|世界银行]]发布首份独立《教育部门政策文件》，彻底脱离[[UNESCO|联合国教科文组织]]（UNESCO）的人文主义倡导路线；高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压导性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542, 548)]]
@@ -205,7 +205,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜中观[[Venture Philanthropy|风险慈善]]与异层网络将投资回报重构为重塑公共教育再分配的意识形态手段
-> **探讨维度　批判政治经济学维度：[[Philanthrocapitalism|慈善资本主义]]与[[Social Impact Investing|社会投资]]回报[[Discourse|话语]]** 探讨[[Policy Network|政策网络]]如何借由社会投资回报（SROI）与因果证据量规，将国家宪制供给义务异化为准市场竞标，掩护公共财富逆向倒流。
+> **批判政治经济学维度：[[Philanthrocapitalism|慈善资本主义]]与[[Social Impact Investing|社会投资]]回报[[Discourse|话语]]** 探讨[[Policy Network|政策网络]]如何借由社会投资回报（SROI）与因果证据量规，将国家宪制供给义务异化为准市场竞标，掩护公共财富逆向倒流。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]; [[Argument_Rowe_2022_IJER|Rowe (2022)]]
 > **商业投资修辞对公共财政再分配的颠覆** 埃玛·罗威（Emma Rowe）揭示，在澳大利亚的异层政策网络中，以[[Social Ventures Australia|澳大利亚社会创投]]（SVA）为中枢的[[Venture Philanthropy|风险慈善]]资本将“提升社会投资回报（SROI）”确立为其核心正当性修辞。通过鼓吹“金钱是我们对话的通用货币”，SVA 等中介将传统的公共教育直接财政供给，偷换为要求“纳税人可负担能力限制”下的“社会投资”与“政府补贴”（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。公立学校被迫为了维系生计而向免税中介乞求微额资助，并屈从于严苛的商业因果量规考核；与此同时，SVA 本身作为免税慈善机构，收到的政府直接财政补贴（2021 年达 121.6 万澳元）远超其对外资助净额（仅 62.5 万澳元，占比 51%），旗下高额咨询部门年入近千万澳元。投资回报话语实质上充当了企业资本享受税收减免、侵蚀公共民主审议并将公共财富导流向私营中介的意识形态掩体。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 527–528)]]; [[Argument_Rowe_2022_IJER|(Rowe, 2022, pp. 3–6)]]
@@ -216,7 +216,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[University-Industry Collaboration|产学合作]]各方对回报定义的结构性分歧是驱动复合创新的根本引擎
-> **探讨维度　组织社会学维度：[[Heterogeneity|异质性]]博弈与终端用户底线** 探讨异质性组织如何在追求完全不同的收益诉求下维系长程协同，以及终端用户受益如何充当统一质检器。
+> **组织社会学维度：[[Heterogeneity|异质性]]博弈与终端用户底线** 探讨异质性组织如何在追求完全不同的收益诉求下维系长程协同，以及终端用户受益如何充当统一质检器。
 
 > [!claim] [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick and Jones (2025)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]]
 > **分歧是合作的动因而非阻碍** 在[[University-Industry Collaboration|产学合作]]中，大学追求学术声誉与基础科学突破，企业追求商业利润与市场份额，医疗系统追求临床疗效与患者安全；各方追求完全不同的 ROI 定义恰恰是跨部门合作得以发生的根本动因——若各方追求完全相同的回报，合作将迅速退化为[[Zero-Sum Competition|零和竞争]]。维系该多方协同的唯一共同基准在于“终端用户受益检验”，即任何技术创新若无法安全改善最终用户的实质体验，所有参与方的潜在 ROI 预期都将直接归零。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
@@ -227,7 +227,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜[[OECD|经合组织]]将教育系统效率重构为生产率投资回报并消解民主公共性
-> **探讨维度　全球治理[[Epistemology|认识论]]转型：生产率经济主义对民主公共善的置换** 探讨[[OECD|经合组织]]如何将教育系统效率的评判准则从二战后保障机会均等与社会流动，重构为追求可衡量的投资回报率与生产率增长，揭示教育公私混合商品化过程中的民主赤字。
+> **全球治理[[Epistemology|认识论]]转型：生产率经济主义对民主公共善的置换** 探讨[[OECD|经合组织]]如何将教育系统效率的评判准则从二战后保障机会均等与社会流动，重构为追求可衡量的投资回报率与生产率增长，揭示教育公私混合商品化过程中的民主赤字。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **系统效率向投资回报率的[[Paradigm|范式]]位移与民主公共性剥离** 里兹维与林加德指出，冷战后经合组织教育政策发生了根本性的规范转型：在战后凯恩斯主义时期，教育被界定为民主意义上的公共物品（public good in the democratic sense），教育系统的效率标准取决于其能否保障受教育机会平等并促进社会流动与凝聚力；而在20世纪90年代中期[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]确立后，教育系统效率被彻底重构为“能否产生充分的投资回报率（adequate return on investment, ROI），且严格依凭其对生产率增长的贡献予以评估”（Table 28.1）。在此框架下，教育不再是公民基本权利，而被重塑为兼具公共投资与个人[[Human Capital Theory|人力资本]]积累属性的公私混合商品；公共与私人经费的分担被机械校准于各自的预期收益率，公民审议、批判反思与社会平等追求被降格为从属于经济产出的工具[[Variable|变量]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442, 449–451)]]

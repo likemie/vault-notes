@@ -18,7 +18,7 @@ tags:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜知识存量扩张与仪器复杂化促成了团队生产对单人模式的历史替代
-> **探讨维度　科学生产组织演化的底层动力** 围绕科研[[Paradigm|范式]]转型由物质与认知规律决定的机制分歧展开。
+> **科学生产组织演化的底层动力** 围绕科研[[Paradigm|范式]]转型由物质与认知规律决定的机制分歧展开。
 
 > [!claim] [[Benjamin F. Jones|Jones, B. F.]]
 > **知识负担倒逼专业化分工** 人类知识存量的几何级增长大幅拉长了学者抵达前沿所需的受训年限，独立学者日益局限于细分分支导致[[Polymath|通才]]消亡；学者唯有通过团队合作跨界拼接专业知识碎片，方能维系颠覆性创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
@@ -86,7 +86,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜团队科学在享有引文溢价的同时重塑了全球学术声望分层
-> **探讨维度　跨界协作效益与社会结构不平等** 探讨跨机构与跨国团队合作在消融地理阻隔时对学术不平等的加剧效应。
+> **跨界协作效益与社会结构不平等** 探讨跨机构与跨国团队合作在消融地理阻隔时对学术不平等的加剧效应。
 
 > [!claim] Jones, B. F.
 > **跨校合作溢价与声望同质分层** 跨校合作能够引入[[Heterogeneity|异质性]]智力资源并产出显著高于同校合作的被引表现；但学者在选择跨校伙伴时严格遵循学术声望匹配原则，加速了资源与荣誉向顶尖精英大学群体聚集。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 91–93)]]
@@ -94,7 +94,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜团队规模与人员组配机制调控创新形态（小团队颠覆、大团队发展）
-> **探讨维度　团队规模法则与[[Nature of Innovation|创新本质]]的分野** 探讨不同规模与[[Assemblage|组装]]模式的团队在科学探索中承担的差异化功能。
+> **团队规模法则与[[Nature of Innovation|创新本质]]的分野** 探讨不同规模与[[Assemblage|组装]]模式的团队在科学探索中承担的差异化功能。
 
 > [!claim] [[Lingfei Wu|Wu, L.]] & [[James A. Evans|Evans, J. A.]]
 > **规模决定颠覆度与发展度分工** 大团队倾向于推进近期热门与已被公认的科技成果，享受更高的即时被引；而小团队与个体探索者更深入地汲取陈旧与非共识知识，其[[Disruption Index|颠覆性指数]]显著占优，承担着开辟全新学科范式的关键使命。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]

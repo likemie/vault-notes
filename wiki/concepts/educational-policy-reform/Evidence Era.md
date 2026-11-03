@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -106,7 +106,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜证据时代标志着政策合法化从单一量化数据向多维学术修辞的[[Paradigm|范式]]升级
-> **探讨维度　合法化机制的修辞演进** 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
+> **合法化机制的修辞演进** 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **合法化形式的学术化转向** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，是广泛吸收学术[[Document|文献]]、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
@@ -114,7 +114,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜证据在证据时代被建构为主导性[[Rationalized Myth|合理化神话]]并维系中央远程控制
-> **探讨维度　治理神话与权力把关** 揭示证据时代表象下的[[Scientism\|科学主义]]光环与深层政治集权之间的制度张力。
+> **治理神话与权力把关** 揭示证据时代表象下的[[Scientism\|科学主义]]光环与深层政治集权之间的制度张力。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Rationalized Myth\|合理化神话]]与守门把关** 诉诸证据已演变为一种不可挑战的主导性[[Rationalized Myth\|合理化神话]]；政府通过充当[[Gatekeepers\|守门人]]，在倡导分权办学的表象下，借助[[Carter Review of Initial Teacher Training\|卡特审查]]与核心框架实施严格的远程中央控制，使证据生产在适宜性逻辑驱动下演进为[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–95)]]

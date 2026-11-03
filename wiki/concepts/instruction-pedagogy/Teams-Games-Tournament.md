@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜同质能力竞赛台设计通过确保成功的均等机会消解了学困生的[[Learned Helplessness|习得性无助]]
-> **探讨维度　均等成功机会（Equal Opportunity for Success）机制** 当低成就学生仅与同等水平的伙伴竞争时，其努力能够直接转化为团队胜势，从而最大化[[Self-Efficacy\|自我效能感]]与同伴接纳度。
+> **均等成功机会（Equal Opportunity for Success）机制** 当低成就学生仅与同等水平的伙伴竞争时，其努力能够直接转化为团队胜势，从而最大化[[Self-Efficacy\|自我效能感]]与同伴接纳度。
 
 > [!claim] DeVries & Edwards; Slavin
 > **均等竞争与积极互赖的协同效应** TGT 打破了传统课堂中高成就学生垄断奖励的格局；在低能力竞赛桌上获胜所贡献的团队分数与在高能力竞赛桌上完全相同，促使异质小组全员高度重视并全力辅导学困生，实现学业提升与社会融合的双重收益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
@@ -100,7 +100,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜TGT [[Gamification|游戏化]]竞技与同伴支持深度契合基础教育阶段学生的动机激活需求
-> **探讨维度　[[Game-Based Learning|游戏化学习]]与社会动机连结** 游戏规则的即时反馈、适度竞争刺激与团队归属感相结合，能够显著降低学习焦虑并提高抗遗忘率。
+> **[[Game-Based Learning|游戏化学习]]与社会动机连结** 游戏规则的即时反馈、适度竞争刺激与团队归属感相结合，能够显著降低学习焦虑并提高抗遗忘率。
 
 > [!claim] Güngör et al.
 > **游戏化合作模式对学业掌握的稳健支撑** 在[[Meta-meta-analysis\|二阶元分析]]所涵盖的综合[[Cooperative Learning\|合作学习]]研究池中，TGT 作为经典结构化技术之一，证实了将游戏化同伴互动融入常规学科复习能够显著提升基础教育阶段的学业掌握度与[[Student Attitude\|学习态度]]（综合合作效应 $ES = 0.61$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–6)]]

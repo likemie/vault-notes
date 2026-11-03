@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜北京共识通过[[Developmentalism|发展主义]]成效与[[South-South Cooperation|南南合作]]叙事确立替代西方模式的治理合法性
-> **探讨维度　治理替代与合法性建构** 探讨北京共识如何通过诊断西方治理失灵与倡导共同繁荣，在全球南方重构跨国教育的道义正当性。
+> **治理替代与合法性建构** 探讨北京共识如何通过诊断西方治理失灵与倡导共同繁荣，在全球南方重构跨国教育的道义正当性。
 
 > [!claim] Woo, E.
 > **替代性全球治理秩序投射** 面对2008年全球金融危机及西方新自由主义治理危机对[[Washington Consensus|华盛顿共识]]公信力的削弱，中国政治精英积极将北京共识建构为更加包容、务实且行之有效的新型现代化[[Paradigm|范式]]。在跨国高等教育政策中，通过[[Policy Framing|诊断性框架]]指出沿线国家技术与人才瓶颈，依托处方性框架供给整套全额奖学金与办学平台，借助[[Community of Shared Future for Mankind|人类命运共同体]]激励性[[Discourse|话语]]，将高等[[Education Going Global|教育出海]]包装为互利共赢的[[South-South Cooperation|南南合作]]事业，力求在全球南方赢得对抗西方话语霸权的制度合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684, 689–691)]]
@@ -112,7 +112,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜北京共识跨国教育吸引力对经济[[Hard Power|硬实力]]依附构成其长期推进的结构性脆弱根源
-> **探讨维度　[[Soft Power|软实力]]与[[Hard Power|硬实力]]依附** 探讨依托经济补贴推进的跨国教育在面对外部地缘环境与东道国社会反弹时的局限性。
+> **[[Soft Power|软实力]]与[[Hard Power|硬实力]]依附** 探讨依托经济补贴推进的跨国教育在面对外部地缘环境与东道国社会反弹时的局限性。
 
 > [!claim] Woo, E.
 > **物质补贴依附与地缘抗拒风险** 尽管[[Public Diplomacy|公共外交]]叙事充满合作共赢与[[People-to-People Connectivity|民心相通]]的崇高修辞，北京共识在高等教育领域的实际投射高度依附于中国经济高速增长所带来的全额财政奖学金与基建就业预期等功利性拉动因素。一旦经济增长放缓或外部大国对抗升级，缺乏深层文化与[[Academic Freedom|学术自由]]价值认同的教育合作极易遭遇冲击；自上而下的政府间推进模式在遭遇合作国本土草根市民社会的透明度质疑与主权主张时，展现出显著的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]

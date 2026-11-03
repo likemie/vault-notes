@@ -65,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜课堂数据的层级化感知导致终结性评估在决策中过度主导并边缘化质性证据
-> **探讨维度　课堂证据认知偏差与决策窄化** 探讨实践者对不同形态课堂数据的感知偏倚，揭示终结性测验的绝对支配地位对丰富质性过程证据的挤压机制。
+> **课堂证据认知偏差与决策窄化** 探讨实践者对不同形态课堂数据的感知偏倚，揭示终结性测验的绝对支配地位对丰富质性过程证据的挤压机制。
 
 > [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **终结性评估支配与[[Triangulation\|三角验证]]必要性** 在日常教育实践中，课堂数据是存在显著的层级感知——正式的终结性评估结果在学校与教学决策中占据绝对支配地位，有别于被等量齐观地对待。这种认知偏误导致丰富的[[Formative Assessment\|形成性评价]]、师生日常互动及质性[[Classroom Observation|课堂观察]]等细粒度证据被严重边缘化。教育者必须通过发展[[Data Literacy\|数据素养]]，建立对定性与定量数据进行三角验证（triangulate）的分析视角，才能避免片面依赖标准化考试分数造成的决策失真，做出兼顾学业指标与学生情境的平衡决策。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
@@ -135,7 +135,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜基于数据的决策与研究知情实践在孤立运行中存在双重缺陷并亟需通过[[School Enquiry Cycle|学校探究循环]]加以整合
-> **探讨维度　内部诊断与外部干预两个世界的结构性割裂** 剖析 DBDM 专注于校本数据诊断但缺乏成熟干预良方，与 [[Research-Informed Teaching Practice\|RITP]] 掌握外部有效方案但脱离校本真实学情之间的互补张力。
+> **内部诊断与外部干预两个世界的结构性割裂** 剖析 DBDM 专注于校本数据诊断但缺乏成熟干预良方，与 [[Research-Informed Teaching Practice\|RITP]] 掌握外部有效方案但脱离校本真实学情之间的互补张力。
 
 > [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **双轮嵌合与[[School Enquiry Cycle\|学校探究循环]]** 基于数据的决策（DBDM）与研究知情教学实践（RITP）长期被视作两个相对割裂的独立领域，在现实学校中极少真正交融。单纯依赖 DBDM 只能诊断校内存在什么问题与潜在成因，却无法提供经过实证检验的有效干预举措；单纯推行 RITP 则容易使外部学术成果悬浮于空中，缺乏针对本校具体学情的精准锚定。证据知情系统的核心主张在于打破二者壁垒，通过系统的“证据知情学校与教师改进”（ESTI）八步[[Inquiry Cycle\|探究循环]]，将 DBDM 的校本诊断与 RITP 的研究干预有机嵌合，形成学校与教师持续改进的行动反馈回路。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜基于数据的决策必须超越对易量化指标的单一依赖以防范窄化问责陷阱
-> **探讨维度　抵御[[Technical Rationality\|技术理性]]陷阱与维护动态社会过程** 阐明 DBDM 本质上是复杂的专业审议与社会互动过程，警惕其退化为片面迎合可量化指标的技术主义合规审计。
+> **抵御[[Technical Rationality\|技术理性]]陷阱与维护动态社会过程** 阐明 DBDM 本质上是复杂的专业审议与社会互动过程，警惕其退化为片面迎合可量化指标的技术主义合规审计。
 
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] / Wentworth et al. (2017)
 > **警惕量化主义与统筹多元成果** 如果学校在决策中落入“只去理解那些容易被量化的组成部分”的陷阱，就会严重扭曲教育生态并损害教师的[[Professional Judgment\|专业判断]]。基于数据的决策必须建立在成熟的[[Theory of Change\|变革理论]]之上，成效评估需区分行为与心智模式等中间成果（intermediate outcomes）以及工具性、概念性与象征性等长期成果（long-term outcomes），坚持多元量化指标与丰富质性描述的有机结合。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 132–133)]]

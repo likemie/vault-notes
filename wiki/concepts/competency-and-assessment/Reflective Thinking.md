@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -62,7 +62,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜反思能力必须经过从绝对到语境的纵向发展才能达成
-> **探讨维度　认知层级的心理学测度** 探讨个体是如何从不能反思，逐渐发展出真正的[[Reflexivity\|反思性]]思维的。这标志着[[John Dewey\|杜威]]的哲学理念被转化为可测量的心理学阶段。
+> **认知层级的心理学测度** 探讨个体是如何从不能反思，逐渐发展出真正的[[Reflexivity\|反思性]]思维的。这标志着[[John Dewey\|杜威]]的哲学理念被转化为可测量的心理学阶段。
 
 > [!claim] King and Kitchener (1994)
 > **反思判断的演进机制** 个体必须穿过认知阶梯，才能达到杜威所定义的最高阶“反思思维”。

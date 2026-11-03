@@ -173,7 +173,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜常规科学的异常积累驱动科学革命与非常规范式转换
-> **探讨维度　科学演进的非累积性与革命性断裂** 探讨科学知识遵循常规科学框架危机与革命性范式更迭实现制度化重构的非累积演化规律。
+> **科学演进的非累积性与革命性断裂** 探讨科学知识遵循常规科学框架危机与革命性范式更迭实现制度化重构的非累积演化规律。
 >
 > > [!claim] Kuhn, T.
 > > **常规科学由共享范式提供解谜规范** 库恩指出，在常规科学时期，科学家的核心工作聚焦于公认范式指引下的精细化“解谜活动”（puzzle-solving）；范式为共同体提供了免于形而上学底层争辩的知识共识。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
@@ -190,7 +190,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜不同范式间存在深层[[Incommensurability|不可通约性]]与科学社会学的权力建制
-> **探讨维度　[[Incommensurability|不可通约性]]与[[Knowledge Production|知识生产]]的社会维度** 聚焦范式之间缺乏公认的中立评价尺度，以及范式胜出往往依托学术权威与制度建制的权力属性。
+> **[[Incommensurability|不可通约性]]与[[Knowledge Production|知识生产]]的社会维度** 聚焦范式之间缺乏公认的中立评价尺度，以及范式胜出往往依托学术权威与制度建制的权力属性。
 >
 > > [!claim] Kuhn, T.
 > > **范式间的不可[[Commensuration|通约]]性阻断了纯中立的优劣裁决** 库恩确立了经典的不可通约性论点（[[Incommensurability]]）：不同范式植根于截然不同的实在观与方法公理，二者之间不存在超然的、共同的衡量尺度。选择一种范式意味着接纳一整套不可分割的世界观体系，因而学者无法在保留旧范式[[Ontology|本体论]]的同时无缝采纳新范式。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
@@ -204,7 +204,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜比较教育百年演进呈现从宏大历史文化全景、实证主义论战到当代多元[[Autopoiesis|自创生]]的多范式重构
-> **探讨维度　比较教育学科演进的范式更迭轨迹** 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差异化的建制轨迹。
+> **比较教育学科演进的范式更迭轨迹** 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差异化的建制轨迹。
 >
 > > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > > **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 占据主导，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
@@ -215,7 +215,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题四｜全球教育治理演进展现出从大纲课程考查向成人生活技能、从硬性法律规制向软性[[Governing by Numbers|数字治理]]的双重范式转换
-> **探讨维度　评价与治理维度的双重范式转换** 探讨在大规模跨国测评与区域一体化进程中，教育评价[[Epistemology|认识论]]如何从学校大纲知识考查转向功能性生活技能，以及超国家治理如何从硬法强制转向软性量化数据治理。
+> **评价与治理维度的双重范式转换** 探讨在大规模跨国测评与区域一体化进程中，教育评价[[Epistemology|认识论]]如何从学校大纲知识考查转向功能性生活技能，以及超国家治理如何从硬法强制转向软性量化数据治理。
 >
 > > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > > **评价认识论范式从课程内聚转向成人功能性生活技能** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[OECD|经合组织]]通过 [[PISA]] 确立了教育评价领域的重大范式转换：传统评价范式以国家具体教学大纲为基准，检验学科知识体系的内部达成度；PISA 则脱离各国课程大纲，转而建立面向成人生活现实情境的功能性素养范式。该范式将评估锚定于未来劳动力市场所需的应用能力与[[Lifelong Learning|终身学习]]自我调节，把应对经济竞争风险的责任深植于个体，确立了全球通用的评价新范式。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]

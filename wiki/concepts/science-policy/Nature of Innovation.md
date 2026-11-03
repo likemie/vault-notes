@@ -62,7 +62,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-31
+updated: 2026-11-03
 title: Nature of Innovation
 aliases:
   - 创新本质
@@ -126,7 +126,7 @@ aliases:
 ---
 
 > [!concept-proposition] 命题一｜创新在本质上是充满根本不确定性、路径依赖与集体共创的演化突变过程
-> **探讨维度　演化本体论与新古典静态模型的决裂** 阐明创新活动无法被还原为已知生产函数的参数微调，确立不确定性试错与集体共创在创新推进中的核心地位。
+> **演化本体论与新古典静态模型的决裂** 阐明创新活动无法被还原为已知生产函数的参数微调，确立不确定性试错与集体共创在创新推进中的核心地位。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel, R. & Mazzucato, M.]]
 > **根本不确定性与集体探索本质** 卡特尔与马祖卡托指出，创新不同于概率已知的普通商业风险，其演化方向与具体成果在事前无法精确预测；创新是由国家公共部门、大学实验室、供应链企业与金融耐心资本构成的分布式网络协同推进的集体实验过程。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
@@ -134,7 +134,7 @@ aliases:
 ---
 
 > [!concept-proposition] 命题二｜科技创新的微观本质是对存量知识要素与技术代码的非典型重组
-> **探讨维度　组合创新机制与大数据计量证据** 探讨科学发现与技术发明的微观构架，论证创新主要源于对既有构件的跨界重构而非凭空突发。
+> **组合创新机制与大数据计量证据** 探讨科学发现与技术发明的微观构架，论证创新主要源于对既有构件的跨界重构而非凭空突发。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang, D. & Barabási, A.-L.]]
 > **重大发明与科学突破的构件重组本质** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]指出，人类的新思想多源于对已有知识构件的[[Creativity|创造性]]拼装。1885 年卡尔·本茨制造的第一辆现代汽车由自行车、马车与内燃机三大既有构件重组而成；对美国专利商标局 1790 至 2010 年全部专利的计量分析揭示，19 世纪近半数专利属于单一技术类别代码，而当代超过 90% 的专利跨越两个以上技术类别，证实技术与科学创造已经全面演进为跨领域要素的组合重组过程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–190)]]
@@ -142,7 +142,7 @@ aliases:
 ---
 
 > [!concept-proposition] 命题三｜把握创新的演化本质要求公共政策转向引领与学习的动态能力范式
-> **探讨维度　公共治理工具与制度创新机制** 探讨科技治理体系如何契合创新的演化特征，摆脱机械[[Cost-Benefit Analysis|成本收益分析]]束缚。
+> **公共治理工具与制度创新机制** 探讨科技治理体系如何契合创新的演化特征，摆脱机械[[Cost-Benefit Analysis|成本收益分析]]束缚。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel, R. & Mazzucato, M.]]
 > **公共部门动态能力契合创新本质** 卡特尔与马祖卡托论证，公共部门在面对充满根本不确定性的[[Systems of Innovation|创新系统]]时，不能仅局限于静态市场失灵后的被动修补；政府必须建立具备探索、实验与反思能力的动态能力架构，采用多路径组合投资与敏捷试错机制，主动向公共价值目标[[Tilting the Playing Field|倾斜竞争场地]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–800)]]

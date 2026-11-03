@@ -120,7 +120,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -206,7 +206,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜研究证据是开放系统中的概率性资源，须经专业判断转化为情境化行动
-> **探讨维度　证据本体与情境转化** 从实在论与复杂系统视角，论证量化统计证据为何不能直接规定微观教学，确立专业判断作为因果机制激活者的中介地位。
+> **证据本体与情境转化** 从实在论与复杂系统视角，论证量化统计证据为何不能直接规定微观教学，确立专业判断作为因果机制激活者的中介地位。
 
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006)
 > **开放系统与概率性资源定位** 教育实践是由符号、意义、主体能动性与复杂制度脉络构成的开放系统。在开放系统中，干预效果深度依赖具体背景；[[Quantitative Research\|量化研究]]或[[Meta-analysis\|元分析]]提供的平均[[Effect Size\|效应量]]只是概率分布，无法直接推论出特定班级和具体学生的确定性因果结论。依据[[Critical Realism\|批判实在论]]与[[Realist Evaluation\|实在论评估]]，干预成效取决于受试者在特定情境中对资源进行的能动推理；教师必须运用专业判断权衡情境特征，激活有益的因果机制。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 7, 12, 16)]]
@@ -217,7 +217,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜新自由主义[[Governing by Numbers|数字治理]]与排行榜文化挤压价值审议并导致教师去专业化
-> **探讨维度　制度环境与去专业化危机** 揭示绩效主义、数字审计、商业洗白与自动化算法对教师专业判断空间的系统性剥夺。
+> **制度环境与去专业化危机** 揭示绩效主义、数字审计、商业洗白与自动化算法对教师专业判断空间的系统性剥夺。
 
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]]
 > **[[Governing by Numbers\|数字治理]]与去专业化异化** 新自由主义政策盛行[[Governing by Numbers\|数字治理]]，通过诸如 [[Education Endowment Foundation\|EEF]] 工具包等扁平化排行榜向学校推销单一有效性[[Discourse|话语]]。这种审计文化挤压了关于教育根本目的（To What Ends）的价值探讨，迫使教师沦为依照标准化清单执行技术传递的操作工人，造成教师群体的去专业化（De-professionalisation）。政策评估与学校改进必须警惕排行榜的破坏性决策，捍卫教师的专业自主能动性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 4, 14, 16)]]
@@ -243,7 +243,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜专业判断构成[[Evidence-Informed Practice|证据知情实践]]的核心枢纽且与严谨证据互为条件
-> **探讨维度　[[Evidence-Informed Practice|EIP]] 整合机制与专业能动性** 论述在 EIP 与 [[Quality Use of Research Evidence Framework|QURE]] 框架中，专业判断如何统领多源信息，以及严谨证据与严谨判断的共生关系。
+> **[[Evidence-Informed Practice|EIP]] 整合机制与专业能动性** 论述在 EIP 与 [[Quality Use of Research Evidence Framework|QURE]] 框架中，专业判断如何统领多源信息，以及严谨证据与严谨判断的共生关系。
 
 > [!claim] [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]; Campbell (2016); Evers and Kneyber (2015)
 > **四源整合枢纽与翻转系统** 证据知情实践（EIP）定义为专业判断、系统层面数据、课堂数据与研究证据的整合，专业判断是多源信息汇聚与审议的决定性枢纽。成为证据知情既需要严谨的证据，也需要严谨的专业判断过程；翻转系统（Flip the System）运动倡导以教师专业判断引领教育变革、抗衡自上而下的行政技术问责，使证据在教师主动批判、实施与改编的肥沃土壤中发挥效能。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–129, 132)]]
@@ -254,7 +254,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜专业判断的有效运作依赖批判反思机制与组织支持性环境而非孤立直觉
-> **探讨维度　判断条件与制度支撑** 阐明专业判断的有效性植根于[[Bounded Rationality|有限理性]]下的信息反馈与协作探究生态，超越了孤立的个人封闭经验。
+> **判断条件与制度支撑** 阐明专业判断的有效性植根于[[Bounded Rationality|有限理性]]下的信息反馈与协作探究生态，超越了孤立的个人封闭经验。
 
 > [!claim] [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]; [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]]
 > **有限理性、反馈循环与跨层治理** 教师在不确定性和信息赤字条件下开展工作，专业判断依赖持续的反馈（[[Feedback]]）与反思实践循环以克服[[Bounded Rationality|有限理性]]局限。专业判断的健康运作依赖组织支持性环境，包括信任文化、技能培训、协作探究时间与跨界中介支持；在跨层治理与专业共同体中，专业判断能够避免退化为浪漫化的个人偏见，实现向高质量证据整合的深化。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 5–6)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 12–15)]]
@@ -262,7 +262,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜在学术实证供给不足的宏观政策研制中，专业判断充当不可或缺的知识补位与同行互信支柱
-> **探讨维度　宏观政策研制与实证供给不足条件下的专业判断** 阐明在大规模教育立法与国家课程标准研制中，当学术界因果实证供给滞后或存在知识盲区时，专业判断如何通过学科逻辑演绎、一线可行性论证与同行互信提供关键知识支撑。
+> **宏观政策研制与实证供给不足条件下的专业判断** 阐明在大规模教育立法与国家课程标准研制中，当学术界因果实证供给滞后或存在知识盲区时，专业判断如何通过学科逻辑演绎、一线可行性论证与同行互信提供关键知识支撑。
 
 > [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
 > **实证缺位下的知识补位与同行互信支柱** 在宏观教育政策与课程标准研制中，学术研究基础往往存在严重的不完全性与争议性，无法为所有关键决策提供确定性因果答案（例如高中高阶数学序列编排与文本复杂度界定）。[[Technical Rationality|技术理性]]试图依据纯粹量化实证推导政策细则的设想在现实中难以成立。政策研制必须依赖学科专家的公理化逻辑演绎（如数学家依据学科内在结构推导[[Epistemic Ascent|概念进阶]]）与一线实践者的可行性物理检验（如一线教师逐条剪贴审阅标准的可实施性），以专业判断实现结构性知识补位。在政策采纳阶段，程序严谨的专业判断进一步转化为同行互信的合法性支柱（跨学科专家验证委员会基于对起草者严谨专业判断的信任签署背书），促成全美范围内的法案快速采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–16, 19)]]

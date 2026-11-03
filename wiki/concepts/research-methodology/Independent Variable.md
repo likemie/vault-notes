@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜自变量与因变量的因果单向性要求自变量具备独立的理论实体地位
-> **探讨维度　因果推断与构念独立性** 探讨自变量在因果实验与[[Meta-analysis|元分析]]综合中的本体独立性，防范[[Dependent Variable|因变量]]反向规训自变量导致的循环自指危机。
+> **因果推断与构念独立性** 探讨自变量在因果实验与[[Meta-analysis|元分析]]综合中的本体独立性，防范[[Dependent Variable|因变量]]反向规训自变量导致的循环自指危机。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]]
 > **可操纵性与因果输入的实体地位** 自变量作为因果推断的前因输入，必须通过[[Definition of Terms|操作性定义]]明确其操作水平与隔离控制边界。[[Experimental Research|实验研究]]的内在有效性建立在对自变量的主动操纵与对混杂变量的有效隔离之上，唯有保持自变量作为前因条件的独立可识别性，才能确证观察到的输出变化确系由自变量所引起。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 312–313, 330)]]

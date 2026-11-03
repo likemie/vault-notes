@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜同伴导师通过低威胁情境与近同辈[[Scaffolding|认知脚手架]]赋能高阶探究
-> **探讨维度　心理安全与认知建构机制** 探讨近同辈互动如何降低认知焦虑并促进深度反思。
+> **心理安全与认知建构机制** 探讨近同辈互动如何降低认知焦虑并促进深度反思。
 
 > [!claim] Abrami, P. C., et al.; Topping, K. J.
 > **同伴导师的认知催化价值** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 指出，[[Mentorship\|导师制]]在探究教学中包含教师专家指导与同伴导师（Peer Mentoring）两种核心形态。实证表明，同伴导师由于具备相似的认知视角，能够更敏锐地识别同伴在理解复杂概念时的关键盲区，在无权威威慑的轻松氛围下激发受训者勇于暴露错误、质疑假设并展开深度论辩。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 298)]]

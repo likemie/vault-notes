@@ -82,7 +82,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 （AI 幻觉 / 大模型幻觉）
@@ -161,7 +161,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜AI 幻觉是自回归大语言模型概率生成机制的内在副产物而非偶发故障
-> **探讨维度　技术底层逻辑与[[Epistemology\|认识论]]局限** 解构大模型的运作本质，破除“AI 只是偶尔犯错、未来会很快彻底无错误”的[[Techno-Utopianism|技术乌托邦]]幻想。
+> **技术底层逻辑与[[Epistemology\|认识论]]局限** 解构大模型的运作本质，破除“AI 只是偶尔犯错、未来会很快彻底无错误”的[[Techno-Utopianism|技术乌托邦]]幻想。
 
 > [!claim] Ji et al.; Li et al.
 > **概率生成的内在幻觉性** 大语言模型是基于高维向量空间进行概率采样的“词语预测引擎”，有别于事实检索数据库。模型为了维持文本的自然流畅与语义连贯，在遇到知识盲区时天然倾向于基于统计联想填补空白，因而生成幻觉是生成式模型赖以运行的内在计算特性，有别于外部偶发 bug。[[Argument_Li_2026_CEAI\|(Ji et al., 2023; Li et al., 2026, pp. 2, 10–11)]]
@@ -169,7 +169,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜在非结构化学习中，AI 幻觉是诱发学术失范与心智惰性的核心风险源
-> **探讨维度　[[Cognitive Offloading\|认知卸载]]与学术诚信危机** 揭示学生在缺乏批判意识与自主调节能力时直接采纳幻觉内容的严重后果。
+> **[[Cognitive Offloading\|认知卸载]]与学术诚信危机** 揭示学生在缺乏批判意识与自主调节能力时直接采纳幻觉内容的严重后果。
 
 > [!claim] Li et al.; Zhao et al.
 > **幻觉诱发的心智风险与自律脆弱性** 在缺乏显性指导的自由使用环境中，学生由于存在[[Illusion of Competence\|能力错觉]]与惰性心理，极易将虚构引用与伪事实直接吸收到学术文章中，导致严重的论证漏洞与学术合规焦虑[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–8)]]。[[Meta-analysis\|元分析]]进一步证实，[[Self-Regulated Learning\|自主调节学习]]（SRL）薄弱的学生缺乏对生成内容真实性与相关性的审验判断能力，更容易不加甄别地顺从和采纳包括幻觉在内的错误信息，导致人机交互难以转化为有意义的认知建构[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11, 16)]]。
@@ -177,7 +177,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜在结构化探究中，AI 幻觉可被教学化转化为激发[[Critical Thinking|批判性思维]]与认识论演进的认知靶子
-> **探讨维度　教学转化与[[Epistemological Vigilance\|认识论警觉]]培养** 阐明教师与[[Man-Computer Symbiosis|人机协同]]机制如何将技术缺陷转化为培养批判反思与促成[[Evaluativist\|评价主义认识立场]]转向的[[Scaffolding\|脚手架]]。
+> **教学转化与[[Epistemological Vigilance\|认识论警觉]]培养** 阐明教师与[[Man-Computer Symbiosis|人机协同]]机制如何将技术缺陷转化为培养批判反思与促成[[Evaluativist\|评价主义认识立场]]转向的[[Scaffolding\|脚手架]]。
 
 > [!claim] Archila et al.; Li et al.; Zhao et al.; Wu et al.
 > **算法缺陷对[[Critical Thinking\|批判性思维]]的倒逼与认识论重塑效应** 当教师明确将 AI 输出设定为“包含潜在错误的初级素材”并设计对抗性查错（Red-teaming）任务时，AI 幻觉构成了极佳的反思磨刀石[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11–12)]]。元分析证实，生成式 AI 固有的幻觉与不准确信息，在客观上倒逼学生放弃盲从，显著强化批判性评估技能（$g = 0.691$）[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–11, 14)]]。实证研究进一步从认识论视角揭示，算法幻觉构成了促发认识论扰动（Epistemic Perturbation）的教学契机：绝对主义者盲信幻觉导致错误扩散，而结合提示词与同行评议支架，能够引导学生直面算法破绽，激发出多源实证核验动机，促成向[[Evaluativist\|评价主义认识立场]]的跨越。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–366)]]

@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜东亚道德自我完善的诚心驱动打破了西方内在与外在动机的二元划分
-> **探讨维度　文化建构与[[Epistemology|认识论]]反思维度** 检视西方心理学将兴趣驱动视为最高级内在动机、将义务责任划归外在操纵的二元预设，揭示东亚文化中道德自主性的深层机制。
+> **文化建构与[[Epistemology|认识论]]反思维度** 检视西方心理学将兴趣驱动视为最高级内在动机、将义务责任划归外在操纵的二元预设，揭示东亚文化中道德自主性的深层机制。
 
 > [!claim] [[Argument_Li_2012_Cambridge|Li (2012)]]
 > **诚心驱动具有高度自律自主性** [[Jin Li|李瑾]]对中美学习信念的比较研究确证，东亚传统将学习视为全人道德陶冶与品格完善的核心途径。在这种文化图式下，学生的驱动力源于“人应当通过求知实现自我完善”的深刻伦理认同。即使面对缺乏趣味的内容，学生依靠诚心与意志保持专注，这种自律展现出高度自主的内化行动，体现出道德修养信念所蕴含的深层主体能动性。强行将非兴趣驱动的用功归类为受制于外界压力的外在动机，忽视了文化信念对动机内化的决定性作用。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 120–142, 3473)]]
@@ -135,7 +135,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜学习动机在背景特征与[[Academic Achievement|学业成就]]间发挥关键中介与条件性[[Interaction Effect|交互作用]]
-> **探讨维度　[[Variable|变量]]关系与统计机制维度** 探讨学习动机如何作为结构性环境变量向终端成绩传导的枢纽，并展现出复杂的条件性调节规律。
+> **[[Variable|变量]]关系与统计机制维度** 探讨学习动机如何作为结构性环境变量向终端成绩传导的枢纽，并展现出复杂的条件性调节规律。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]]; [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]]
 > **多变量因果系统中动机的中介与调节功能** 针对人口统计学变量对学生成绩的因果归因，实证研究表明性别等生物特征对学业成就的直接解释力极小（挪威 48 校 4128 名学生研究显示直接方差解释率仅约 0.2%），宏观差距主要通过[[School Norm Adaptation|学校规范适应]]、学习动机与学业[[Self-Efficacy|自我效能感]]等校内心理变量间接生成。同时，[[Factorial Design|因子设计]]（Factorial Design）实证检验表明，外部教学资源对成绩的促进效应随学生的初始学习动机水平发生显著分异；在兼具充足资源与积极动机的条件下，学业产出才呈现出最显著的交互增益。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, pp. 323–324)]]; [[Argument_Lekhal_2015_Paideia|(Lekhal et al., 2015)]]
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜高压应试竞争与过度标准化测验在制造高排位的同时系统性损耗[[Surface and Deep Learning|深层学习]]动机
-> **探讨维度　宏观政策效应与心理成本维度** 解构国际大型测评中高绩效体制与学生心理健康之间的结构性脱节，揭示绩效治理的逆向侵蚀。
+> **宏观政策效应与心理成本维度** 解构国际大型测评中高绩效体制与学生心理健康之间的结构性脱节，揭示绩效治理的逆向侵蚀。
 
 > [!claim] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
 > **高分光环背后的动机赤字与心理挤出效应** 比较教育与教育政策社会学对 [[PISA]] 效应的追踪表明，部分在国际测试中常年名列前茅的东亚教育体制，普遍伴随着学生学习动机低迷、[[Academic Anxiety|学业焦虑]]高企与学术自信心不足的尖锐矛盾。日本在 2003 年与 2006 年 PISA 排名波动后的政策争辩清晰揭示了这一点：在保守派政界将学力下滑推咎于[[Yutori Education|宽松教育]]并恢复高压课时之际，教育学术界与教师团体则依据同组测评数据指出，长期以选拔排位为导向的高利害应试训练，严重挤压了青少年的自主探索空间与内在求知动机，盲目推行回归机械做题的高压问责只会加剧学生动机的枯竭。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
@@ -205,21 +205,21 @@ updated: 2026-11-02
 > > [!metax-ma]- 20 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Uguroglu & Walberg (1979) | Motivation | 40 | 36,946 | 232 | 0.34 |  |
+> > | Uguroglu and Walberg (1979) | Motivation | 40 | 36,946 | 232 | 0.34 |  |
 > > | Schiefele et al. (1993) | Interest and achievement | 21 | NA | 121 | 0.65 |  |
-> > | Crede & Phillips (2011) | Motivation strategies | 67 | 19,900 | 2,158 | 0.24 |  |
+> > | Crede and Phillips (2011) | Motivation strategies | 67 | 19,900 | 2,158 | 0.24 |  |
 > > | Cerasoli et al. (2014) | Intrinsic motivation | 125 | 196,778 | 125 | 0.43 |  |
 > > | Ozen (2017) | Motivation | 205 | 772,903 | 205 | 0.56 |  |
 > > | Bauer et al. (2016) | Motivation | 19 | 2,314 | 19 | 0.14 |  |
 > > | Chen et al. (2012) | Motivation on physical education outcomes | 29 | NA | 283 | 0.43 |  |
-> > | von Stumm & Ackerman (2013) | Investment in learning | 112 | 22,621 | 77 | 0.24 |  |
+> > | von Stumm and Ackerman (2013) | Investment in learning | 112 | 22,621 | 77 | 0.24 |  |
 > > | Schwinger et al. (2014) | (Lack of) Self-handicapping on achievement | 36 | 25,550 | 49 | 0.47 |  |
 > > | Jansen et al. (2022) | Motivation on achievement | 18 | 2,544,213 | 51 | 0.46 |  |
 > > | Okada (2021) | Intrinsic autonomy motivation | 16 | 6,116 | 16 | 0.37 |  |
 > > | Waluyohadi (2019) | Academic motivation | 14 | 39,059 | 14 | 0.70 | ∑ |
 > > | Quílez-Robres et al. (2021) | Motivation | 37 | 15,734 | 37 | 0.68 |  |
-> > | Adiputra & Mujiyati (2017) | Motivation | 20 | 2,591 | 20 | 0.46 |  |
-> > | Goksu & Bolat (2021) | Motivation | 38 | NA | 110 | 0.74 |  |
+> > | Adiputra and Mujiyati (2017) | Motivation | 20 | 2,591 | 20 | 0.46 |  |
+> > | Goksu and Bolat (2021) | Motivation | 38 | NA | 110 | 0.74 |  |
 > > | Fong, Krou, et al. (2021) | Motivation | 186 | 71,855 | 219 | 0.43 |  |
 > > | Rusz et al. (2020) | Low or neutral vs. high rewards | 91 | 2,362 | 91 | 0.35 |  |
 > > | Toste et al. (2020) | Motivation and reading | 132 | NA | 1,154 | 0.45 |  |
@@ -240,8 +240,8 @@ updated: 2026-11-02
 > > [!metax-ma]- 2 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
-> > | Lazowski & Hulleman (2016) | Motivation programs on achievement | 42 | 31,635 | 61 | 0.52 |  |
-> > | Wagner & Szamoskozi (2012) | Motivation programs on achievement | 17 | 3,720 | 17 | 0.29 |  |
+> > | Lazowski and Hulleman (2016) | Motivation programs on achievement | 42 | 31,635 | 61 | 0.52 |  |
+> > | Wagner and Szamoskozi (2012) | Motivation programs on achievement | 17 | 3,720 | 17 | 0.29 |  |
 
 > [!metax] [任务价值感知 · Perceived task value](https://www.visiblelearningmetax.com/influences/view/perceived_task_value)
 > 学生学习策略 › 学习策略

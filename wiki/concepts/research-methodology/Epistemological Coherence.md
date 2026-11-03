@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Epistemology|认识论]]连贯性的断裂直接诱发政策伪科学与专业教条化
-> **探讨维度　证据异化与伪科学机制** 探讨学术研究在进入政治[[Champ\|场域]]后为何会由科学结论异化为僵化的行政规训。
+> **证据异化与伪科学机制** 探讨学术研究在进入政治[[Champ\|场域]]后为何会由科学结论异化为僵化的行政规训。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Epistemology\|认识论]]链条断裂导致真知退化为 [[Doxa]]** 当[[Policy Network\|政策网络]]脱离原始研究的完整论证脉络，仅凭单一[[Effect Size\|效应量]]或口号式结论制定政策时，严谨科学所需的认识论连贯性即被切断；教育研究不再发挥启发专业思考的作用，反而被固化为不容置疑的操作教条，使教师被降格为执行标准化干预的被动受众，加剧了政策实践中的伪科学风险。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 95–96)]]
@@ -127,7 +127,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜非正式口碑流通与政府守门是割裂认识论连贯性的关键制度推手
-> **探讨维度　政策网络与中介偏误** 揭示官僚流动性与政治偏好如何从制度上瓦解科学知识的连贯转化。
+> **政策网络与中介偏误** 揭示官僚流动性与政治偏好如何从制度上瓦解科学知识的连贯转化。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **文官轮岗、口口相传与落地偏好** 在高流动率的官僚体系中，公务员缺乏研读完整学术原著的时间与专业训练，高度依赖社交媒体博主与官方扶植中介的口口相传；加之政府[[Gatekeepers\|守门人]]强烈的“落地偏好”，符合官方政治路线的片段证据被过度放大，相悖结论被隐匿搁置，最终从制度上腰斩了认识论连贯性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 94–96)]]

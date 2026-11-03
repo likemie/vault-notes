@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜新质人才培养依赖全生命周期技能生态圈与跨界产教共生载体
-> **探讨维度　育人模式与产业协同维度** 聚焦现代工程技术技能升级对传统单一学制课堂教学的冲击，探讨多主体协同培养的实现机制。
+> **育人模式与产业协同维度** 聚焦现代工程技术技能升级对传统单一学制课堂教学的冲击，探讨多主体协同培养的实现机制。
 
 > [!claim] [[Wang Yangming|Wang, Y.]]
 > **全链条生态培养** 新质人才无法通过封闭单一的学校课堂培育，必须依托[[Industry-Education Integration Community|行业产教融合共同体]]，整合职前系统学历教育、入职工程定制实训与在职数字化技能提升，形成跨越学校与工厂界限的全生命周期育人通道，以支撑国际产能合作的技术韧性。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 299–301)]]

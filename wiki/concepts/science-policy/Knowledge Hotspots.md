@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-01"
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-11-01
 ---
 
 > [!concept-proposition] 命题一｜重大科学突破产生于前沿议题与深厚经典的代际知识杂交
-> **探讨维度　文献搜索架构与颠覆性知识生产** 探讨学者在时间维度上检索与引用过往成果的模式如何系统性决定成果的长程学术影响。
+> **文献搜索架构与颠覆性知识生产** 探讨学者在时间维度上检索与引用过往成果的模式如何系统性决定成果的长程学术影响。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Mukherjee et al. (2017)]]
 > **前沿与经典协同增益效应** 萨蒂亚姆·穆克吉（Satyam Mukherjee）等通过对 Web of Science 全量文献的二维热点空间测算证明，孤立依靠前沿文献或陈旧经典的成果其影响力均受限；只有将当下紧迫的前沿挑战置于经久考验的经典知识框架中重新审视，才能最大化激发知识重组的原创活力，显著提升跻身前 5% 顶尖突破的几率。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Mukherjee et al., 2017, via Wang & Barabási, 2021, pp. 200–202)]]

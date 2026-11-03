@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜量化与质性[[Paradigm|范式]]战争根源于[[Epistemology|认识论]]与世界观的[[Incommensurability|不可通约性]]
-> **探讨维度　[[Paradigm\|范式]]战争的哲学[[Ontology\|本体论]]根基** 论证范式战争为何无法通过单纯的技术妥协而平息，揭示其深层深嵌于主客观哲学的根本对立。
+> **[[Paradigm\|范式]]战争的哲学[[Ontology\|本体论]]根基** 论证范式战争为何无法通过单纯的技术妥协而平息，揭示其深层深嵌于主客观哲学的根本对立。
 
 > [!claim] Gage, N. L.
 > **方法之争的实质是不可调和的世界观冲突** 范式战争是两套关于世界究竟是客观硬质还是主观建构的根本信念之战，有别于关于[[Questionnaire\|问卷]]好还是访谈好的技术分歧；学者们退守于不可[[Commensuration\|通约]]的方法论阵营中，使得理性对话在长达二十年间陷入僵局。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
@@ -132,7 +132,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜范式阵营的教条化固守造成学科共同体分裂与[[Knowledge Production|知识生产]]封闭
-> **探讨维度　战争内耗对学术生态的负面反思** 批判范式清教徒主义对教育探究造成的学科撕裂与认知闭塞。
+> **战争内耗对学术生态的负面反思** 批判范式清教徒主义对教育探究造成的学科撕裂与认知闭塞。
 
 > [!claim] [[Stephen Gorard\|Gorard, S.]] & Smith, E.
 > **粗暴二分严重禁锢[[Knowledge Production\|知识生产]]潜能** 将探究方法非黑即白地二分为量化与质性并强加价值道德审判，切断了不同方法之间的协同可能；这种教条化内耗既无助于理解复杂的教育实践，更严重禁锢了教育知识生产的创新潜能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 195]]
@@ -143,7 +143,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜[[Mixed Methods Research|混合方法研究]]作为第三次方法论运动以实用主义超越范式对立
-> **探讨维度　[[Mixed Methods Research\|混合方法]]运动对战争的历史终结** 阐释混合方法如何确立实用主义哲学基石，宣告范式战争的落幕并开辟协同路径。
+> **[[Mixed Methods Research\|混合方法]]运动对战争的历史终结** 阐释混合方法如何确立实用主义哲学基石，宣告范式战争的落幕并开辟协同路径。
 
 > [!claim] Tashakkori, A. & Teddlie, C.
 > **混合方法运动开启第三种范式纪元** 混合方法研究作为第三次方法论运动，其核心贡献在于将教育研究从“非此即彼”的范式对抗引向“兼收并蓄”的实用主义融合；实用主义承认实践目的的首要地位，确立了方法服从于问题、效用优于教条的探究准则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 195]]
@@ -154,7 +154,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜超越二元对立并不等同于抹平哲学差异与隐性[[Positivism|实证主义]]霸权
-> **探讨维度　对范式和平主义的深层批判反思** 警示混合调和过程中可能潜伏的消解质性批判性与隐性霸权还魂风险。
+> **对范式和平主义的深层批判反思** 警示混合调和过程中可能潜伏的消解质性批判性与隐性霸权还魂风险。
 
 > [!claim] Giddings, L. S.
 > **警惕混合方法掩盖隐形[[Positivism\|实证主义]]霸权** 混合方法研究的普及可能演化为一种虚假的“范式和平”；强行消弭量质深层哲学差异如同将“油与水混合”，在实际科研体制中，混合方法往往转变为用[[Qualitative Interview\|质性访谈]]作为量化问卷点缀的“隐形实证主义”，削弱了[[Qualitative Research\|质性研究]]反思体制压迫的批判锋芒。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 196]]

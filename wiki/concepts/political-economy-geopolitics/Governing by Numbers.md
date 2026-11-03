@@ -95,7 +95,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -167,7 +167,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜跨国量化评估构筑起无需强制法律的远距离软治理机制
-> **探讨维度　软治理与排名问责** 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使[[Soft Power\|软性权力]]。
+> **软治理与排名问责** 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使[[Soft Power\|软性权力]]。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **信息生产与软性权力机制** [[PISA]] 代表的数字治理机制通过将教育系统表现量化为跨国可比的排名和数据，使 [[OECD]] 能够在不对各国施加法律强制的情况下引导全球教育改革方向。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–26, 34–35)]]
@@ -181,7 +181,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜数字治理 2.0 将治理中枢拓展至[[Policy Brokerage|政策中介]]的证据筛选与周期博弈
-> **探讨维度　信息过载与政策周期过滤** 探讨从 1.0 的测验排名推进至 2.0 阶段的[[Policy Brokerage|政策中介]]竞争与国家政策周期的多阶段过滤。
+> **信息过载与政策周期过滤** 探讨从 1.0 的测验排名推进至 2.0 阶段的[[Policy Brokerage|政策中介]]竞争与国家政策周期的多阶段过滤。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **中介证据包装与行政出台阶段的政治过滤** 在信息过载与[[Surplus of Evidence|证据过剩]]的数字经济下，数字治理进入 2.0 阶段；国际组织转向通过长期扮演政策中介，将测评工具与辅助知识打包以确立组织利基。在国家政策周期中，跨国中介证据在议程设置阶段被广泛动员，但在行政部门颁布法令的法定决策阶段，主权国家官僚往往展现出强烈的自主筛选与政治过滤倾向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–547)]]
@@ -189,7 +189,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜量化知识的深度武器化激化了跨国治理复合体内部的利基争夺
-> **探讨维度　知识武器化与利基壁垒** 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
+> **知识武器化与利基壁垒** 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]共同发起“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）意图整合多边评估格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 [[PISA for Development|PISA-D]]，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 539, 549–550)]]

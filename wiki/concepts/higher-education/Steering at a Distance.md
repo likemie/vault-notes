@@ -78,7 +78,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -166,7 +166,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜基于事后产出评估与[[Block Grants|统包拨款]]的间接调控能有效克服微观过度规制并激发专业自组织活力
-> **探讨维度　组织控制论与[[Policy Network|政策网络]]治理维度** 探讨国家如何在承认专业多重理性的前提下，通过权力后移与负反馈机制重塑治理有效性。
+> **组织控制论与[[Policy Network|政策网络]]治理维度** 探讨国家如何在承认专业多重理性的前提下，通过权力后移与负反馈机制重塑治理有效性。
 
 > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
 > **负反馈与自组织调节的治理有效性** [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert）论证指出，在专业高度分工且权力分散的高等教育系统中，传统的细密法律禁令与事前行政审批会导致系统僵化并引发严重政策抵触。国家必须背离古典层级命令控制，将调控重心转向扩[[Grandes Ecoles|大学校]]办学自治权、下放财务管理责任并推行统包经费拨款；通过将公共干预严格限定于宏观部门规划与基于产出质量的事后反馈调节，国家不仅没有放弃调控，反而克服了过度规制的失灵，从实质上增强了应对外部环境波动的系统自适应能力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135, 148–151)]]
@@ -174,7 +174,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜超国家机构借[[New Public Management|新公共管理]]远处掌舵机制推行比较绩效测度并将教育治理置换为经济效率
-> **探讨维度　跨国政策社会学与[[Governing by Numbers|数字治理]]维度** 探讨超国家组织如何在缺乏主权强制力的情境下，运用[[Performance Indicators|绩效指标]]与问责框架实现远程政策对齐。
+> **跨国政策社会学与[[Governing by Numbers|数字治理]]维度** 探讨超国家组织如何在缺乏主权强制力的情境下，运用[[Performance Indicators|绩效指标]]与问责框架实现远程政策对齐。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **比较绩效指标作为远处掌舵的治理技术** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[OECD|经合组织]]等超国家机构将远距离操纵（steering at a distance）吸纳为新自由主义[[New Public Management|新公共管理]]（OECD, 1995）的核心操作装置。由于缺乏对主权国家立法的直接强制管辖权，经合组织借由比较绩效测度、国际基准对标（benchmarking）、质量保证规制与透明问责技术，构建起超越国界的远处掌舵机制；这一机制有效地将全球教育治理从关于教育目的、社会公平与文化传承的哲学辩论，全面置换为服务全球[[Knowledge-Based Economy|知识经济]]劳动力市场需求的经济效率核算。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
@@ -182,7 +182,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜规制与评估型政策工具构成当代国家统驭多层碎片化教育系统的远程调控载体
-> **探讨维度　政策工具化与国家治理现代化维度** 探讨国家在面临分权化与网络化碎片治理困境时，如何通过标准化测验与绩效问责工具重建远程统驭权。
+> **政策工具化与国家治理现代化维度** 探讨国家在面临分权化与网络化碎片治理困境时，如何通过标准化测验与绩效问责工具重建远程统驭权。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; Neave (1998); Maroy (2009)
 > **规制与评估工具作为多层系统的远程调控载体** 安东尼·维格等指出，近几十年来各国公共教育治理普遍经历权力下放、自主权扩张与多层网络分化；面对日益碎片化和多层级的教育系统，主权国家在分权背景下转向开发学习标准、[[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]等规制性与评估性政策工具。依据评价国家（Evaluative State）与政策工具理论，评估工具超越了纯粹中立的技术外观，构成国家实施远程调控（steering at a distance）的核心制度载体；通过由国家集中设定绩效标准、全员监测[[Academic Achievement|学业表现]]并挂钩差异化制裁，中央政府得以在保持形式放权的同时，重新确立起对基础教育体系的战略调控与规制统驭权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–250)]]

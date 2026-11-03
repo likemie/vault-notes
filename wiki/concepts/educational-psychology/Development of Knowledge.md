@@ -43,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-29
+updated: 2026-11-03
 ---
 
 （知识的发展）
@@ -80,7 +80,7 @@ updated: 2026-10-29
 ## 理论主张与核心命题
 
 > [!concept-proposition] 命题一｜知识发展信念在所有[[Epistemology|认识论]][[Construct|构念]]中对[[Academic Achievement|学业成就]]具有最强大的正向预测力
-> **探讨维度　[[Construct\|构念]]效力的[[Heterogeneity\|异质性]]假设** [[Epistemic Cognition\|认识论认知]]下辖的各细分构念并非均质发挥作用，直接关注知识演化属性的构念能产生最大的预测红利。
+> **[[Construct\|构念]]效力的[[Heterogeneity\|异质性]]假设** [[Epistemic Cognition\|认识论认知]]下辖的各细分构念并非均质发挥作用，直接关注知识演化属性的构念能产生最大的预测红利。
 
 > [!claim] Greene, J.
 > **知识发展构念的[[Effect Size\|效应量]]榜首地位** 在[[Meta-analysis\|元分析]]对 19 个独立[[Epistemology\|认识论]]构念的亚组检验中，知识的发展（Development of Knowledge）展现出了最高的关联效应量：
@@ -90,7 +90,7 @@ updated: 2026-10-29
 ---
 
 > [!concept-proposition] 命题二｜知识演化观是驱动高阶概念转变与论证表现的核心认识论引擎
-> **探讨维度　认知加工机制与[[Learning Strategies|学习策略]]中介** 知识发展信念通过改变学生的深层加工取向而间接提升其在复杂学术任务中的成就。
+> **认知加工机制与[[Learning Strategies|学习策略]]中介** 知识发展信念通过改变学生的深层加工取向而间接提升其在复杂学术任务中的成就。
 
 > [!claim] Greene, J.
 > **认知深度的机制联结** 坚持知识发展观的学生更容易接纳与已有直觉相冲突的新科学概念，促进概念转变（Conceptual Change）；在面对不一致文本时，他们更倾向于运用多源证据进行综合论证，因而在要求深度理解的概念性知识与论证任务中表现尤为卓越。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]

@@ -118,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -169,7 +169,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜受控实验的[[Variable|变量]]隔离与封闭系统假设在开放动态的复杂教育生态中存在[[Epistemology|认识论]]悖论
-> **探讨维度　开放系统、复杂[[Emergence\|涌现]]与还原论解构** 该命题从科学哲学与[[Complexity Theory\|复杂性理论]]出发，反思受控实验将微观[[Variable\|变量]]从关系网络中剥离的人为封闭性，论证教育世界的动态演进与自发秩序无法还原为离散因果链。
+> **开放系统、复杂[[Emergence\|涌现]]与还原论解构** 该命题从科学哲学与[[Complexity Theory\|复杂性理论]]出发，反思受控实验将微观[[Variable\|变量]]从关系网络中剥离的人为封闭性，论证教育世界的动态演进与自发秩序无法还原为离散因果链。
 
 > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]], & Morrison, K. (2011)
 > **控制变量恒常的逻辑悖论** Morrison 指出受控实验假定研究者能够操纵单一变量而保持其他条件不变（ceteris paribus）。但在一个持续涌现、高度关系性的开放教育世界中，保持变量恒常不仅实操不可能，更是极度误导的：研究者在受控条件下精确测量到的，仅仅是早已死去的历史（What is measured is history；人不可能两次踏入同一条河流）。机械原子化分解必然彻底扼杀要素间的动态协同，核心主体本质注定在原子化测量的缝隙中逃逸。卡普拉（Capra, 1996）据此主张将[[Unit of Analysis\|分析单位]]从孤立个体转向围绕奇异吸引子织就的关系网络与生态系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–30)]]
@@ -183,7 +183,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜真实教育情境中的主体交互、未测量变异与实施稀释使试验的内部与[[External Validity|外部效度]]面临结构性损耗
-> **探讨维度　真实学校生态的操作与效度困境** 该命题从实地实验的操作细节出发，系统梳理课堂与学校中违背计量模型假设、侵蚀统计推断基础的结构性偏误。
+> **真实学校生态的操作与效度困境** 该命题从实地实验的操作细节出发，系统梳理课堂与学校中违背计量模型假设、侵蚀统计推断基础的结构性偏误。
 
 > [!claim] Berliner, D. (2002) & Møller, J. (2017)
 > **教育作为难以完成的科学与本地条件限制** 伯利纳指出教育研究是“难以完成的科学”（hard-to-do-science），因为教育研究者必须处理限制推广的严苛本地条件。学校嵌套在复杂多变的社会关系中，学习过程永远不可能被完全控制，使得药物试验式的组间等价假设在学校中格外脆弱。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 379; Berliner, 2002)]]
@@ -206,7 +206,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜循证政策将微观受控试验奉为黄金标准导致[[Epistemological Coherence|全流程认识论连贯性]]断裂与法定采购的“合规假象”
-> **探讨维度　证据治理异化、[[Rationalized Myth\|合理化神话]]与制度规制赤字** 该命题从批判政策学与教育政治经济学视角，剖析受控试验如何被权力网络吸纳为脱离教学实际、推卸系统责任与掩饰意识形态决断的治理借口。
+> **证据治理异化、[[Rationalized Myth\|合理化神话]]与制度规制赤字** 该命题从批判政策学与教育政治经济学视角，剖析受控试验如何被权力网络吸纳为脱离教学实际、推卸系统责任与掩饰意识形态决断的治理借口。
 
 > [!claim] Helgetun, R., & Menter, I. (2022)
 > **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策[[Discourse|话语]]借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使[[Evidence-Based Policy-Making|循证决策]]异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 17–24)]]

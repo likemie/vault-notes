@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Creativity|创造力]]测量深受[[Criterion Problem|效标困境]]制约，不同测量[[Paradigm|范式]]之间仅呈低至中度相关
-> **探讨维度　[[Criterion Problem\|效标问题]]与[[Construct\|构念]]多维性** 探讨[[Creativity\|创造力]]心理测量中潜能测验、产品评定与成就自陈之间的统计分离及其方法学根源。
+> **[[Criterion Problem\|效标问题]]与[[Construct\|构念]]多维性** 探讨[[Creativity\|创造力]]心理测量中潜能测验、产品评定与成就自陈之间的统计分离及其方法学根源。
 
 > [!claim] Runco et al.; Shapiro; Hocevar
 > **效标困境与多维复合测评的必要性** 创造力测量长期受制于“效标问题（The Criterion Problem）”——不同测量[[Paradigm\|范式]]之间的相关系数普遍仅为弱至中等（$r = 0.20 \sim 0.40$）。[[Divergent Thinking\|发散思维]]测验测查的是认知潜能（Potential），专家[[Consensual Assessment Technique\|同感评估技术]]（CAT）测查的是即时作品（Product），[[Creative Achievement Questionnaire\|创造性成就问卷]]（CAQ）记录的是历史表现（Achievement）。若将单一工具等同于整体创造力，将导致严重的[[Construct Validity\|构念效度]]滑坡。[[Meta-meta-analysis\|二阶元分析]]证实，创造力作为[[Independent Variable\|预测变量]]时的效应（$r = 0.29$）显著强于作为[[Dependent Variable\|结果变量]]（$r = 0.12$），这一不对称性进一步印证了效标[[Heterogeneity\|异质性]]对创造力归因研究的根本制约，确立了多源复合测评的必要性。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
@@ -182,7 +182,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜测量类型显著调节实证相关，自陈测量受[[Common Method Variance|共同方法变异]]膨胀而表现测验具真实认知基础
-> **探讨维度　测量方法学调节与方法变异** 探讨主观自陈与客观表现测量在实证研究中如何改变创造力与其他[[Higher-Order Thinking Skills\|高阶思维]]构念的关系估计。
+> **测量方法学调节与方法变异** 探讨主观自陈与客观表现测量在实证研究中如何改变创造力与其他[[Higher-Order Thinking Skills\|高阶思维]]构念的关系估计。
 
 > [!claim] Park et al.; Podsakoff et al.
 > **[[Common Method Variance\|共同方法变异]]与真实认知重叠的双重机制** [[Three-Level Meta-Analysis\|三水平元分析]]证实，测量类型是调节创造力与[[Critical Thinking\|批判性思维]]相关的关键[[Variable\|变量]]（$Q_M(1) = 10.133, p = .002$）：两构念均采用自陈主观测量时相关最高（$r = 0.509$），均采用任务表现客观测量时次之（$r = 0.317$），混合测量组合相关最低（$r = 0.195 \sim 0.260$）。这一结果证明：双自陈[[Questionnaire\|问卷]]的高相关受社会赞许性、自尊与[[Rating Scale\|评定量表]]格式所致的共同方法变异（CMV）人为放大；而双客观表现测验依然保持中等正相关，则证明两者在[[Executive Function\|执行功能]]（抑制、[[Cognitive Flexibility\|认知灵活性]]、[[Working Memory\|工作记忆]]）与[[Problem Solving\|问题解决]]阶段存在真实的认知共享基础。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]
@@ -190,7 +190,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜专家同感评估技术是产品测量的黄金标准，但受限于专家主观变异与高昂组织成本
-> **探讨维度　真实产品评定与主观[[Reliability\|信度]]** 探讨专家共识技术在测量真实创新产品时的效度优势与制度局限。
+> **真实产品评定与主观[[Reliability\|信度]]** 探讨专家共识技术在测量真实创新产品时的效度优势与制度局限。
 
 > [!claim] Amabile; Baer & McKool; Bouckaert
 > **黄金标准的[[Ecological Validity\|生态效度]]与实施瓶颈** 阿玛比尔提出的共识评估技术（CAT）直接评定学生创作的真实文学、艺术、工程与学术产品，避免了发散思维脱离情境的缺陷，被公认为创造力测评的“黄金标准”。然而，CAT 高度依赖多位领域专家的独立主观评判，评分一致性受评委学术流派与审美偏好影响；且在大规模常态化考试与招生中，专家招募与人工评审开销极其巨大，难以实现常模化与自动化推广。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–24)]]
@@ -198,7 +198,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜课程嵌入式真实性[[Scoring Rubrics|评分量规]]能够有效化解常模脱节，赋能微观教学中的形成性反馈
-> **探讨维度　校本评价与形成性促学生态** 探讨高校如何跨越标准化测验与微观专业教学之间的鸿沟，构建支持创造力培育的评价体系。
+> **校本评价与形成性促学生态** 探讨高校如何跨越标准化测验与微观专业教学之间的鸿沟，构建支持创造力培育的评价体系。
 
 > [!claim] Rhodes; Vincent-Lancrin et al.; Wagenaar; Bouckaert
 > **真实性评分量规的促学赋能机制** 斯腾伯格在大学招生中试行的“[[Rainbow Project\|彩虹项目]]”与“万花筒项目”虽然证实了创造力任务的增益价值，但因常模校准繁复未能制度化；以 AAC&U VALUE 创造性思维量规、[[OECD]] [[Centre for Educational Research and Innovation\|CERI]] 原型量规和欧洲 [[CALOHEE Project\|CALOHEE]] 参照框架为代表的课程嵌入式质性评分量规，将“承担智识风险”、“突破常规模式”与“多源观念整合”转化为公开透明的 4 级阶梯表现描述符，直接嵌入专业课程[[Homework\|作业]]与毕业设计中。它既克服了标准化测验的常模脱节，又为师生提供了低利害试错与多轮反馈的形成性支架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–30)]]
@@ -206,7 +206,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题五｜创造力子构念测量工具对教育干预呈现高度分化的敏感度谱系
-> **探讨维度　测量构念响应度与工具敏感性** 探讨不同测评工具在捕获教育干预[[Learning Gain\|学习增益]]时的灵敏度分化及其心理测量学机制。
+> **测量构念响应度与工具敏感性** 探讨不同测评工具在捕获教育干预[[Learning Gain\|学习增益]]时的灵敏度分化及其心理测量学机制。
 
 > [!claim] Guo et al.
 > **构念响应分化与测量工具选择依据** 基于 29 项高校实证（109 个[[Effect Size\|效应量]]）的[[Three-Level Meta-Analysis\|多层元分析]]表明，[[Creativity Training\|创造力干预]]效果在不同测量工具与子构念上展现出清晰的敏感度阶梯：以 [[Alternate Uses Test\|AUT]]、[[Torrance Tests of Creative Thinking\|TTCT]]、[[Abbreviated Torrance Test for Adults\|ATTA]] 为代表的发散创造性思维测量工具增益最强（$N = 24, g = 0.671$），以 [[Test for Creative Thinking-Drawing Production\|TCT-DP]] 与 [[Creative Engineering Design Assessment\|CEDA]] 为代表的图形创造力测验紧随其后（$N = 27, g = 0.644$）；而基于自陈量表的情绪创造力测量（如 [[Emotional Creativity Inventory\|ECI]]）响应相对滞后（$N = 9, g = 0.397$）。这表明认知启发式与结构化思维干预能优先激活发散性构想生成与具象空间重组，但难以迅速改变深层情绪调节特质，研究者与评价者必须依据干预目标审慎匹配测量工具。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–7)]]

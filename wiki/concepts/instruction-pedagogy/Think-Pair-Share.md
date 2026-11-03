@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[Totally Pedagogised Society|TPS]] 通过保证充足的思考等待时间与低风险口头排练显著提升深层概念理解
-> **探讨维度　认知排练与心理安全机制** 独立静思提供了深层语义加工的时间窗口，而同伴配对则提供了低风险的观点试错与口头排练机会，有效降低课堂焦虑并激活主动认知。
+> **认知排练与心理安全机制** 独立静思提供了深层语义加工的时间窗口，而同伴配对则提供了低风险的观点试错与口头排练机会，有效降低课堂焦虑并激活主动认知。
 
 > [!claim] Lyman; Slavin
 > **等待时间与同伴协商驱动认知深化** [[Totally Pedagogised Society\|TPS]] 突破了传统课堂“提问即回答”的浅层记忆反应模式；强制性的静思时间保证了复杂[[Higher-Order Thinking Skills\|高阶思维]]的发生，同伴间的促进性对话促使学生在向他人解释概念的过程中完成自我知识结构的重组与精细化加工。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
@@ -97,7 +97,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜作为综合[[Cooperative Learning|合作学习]]的基础组件，TPS 广泛赋能各类学科的常态课堂互动
-> **探讨维度　微结构的普遍可迁移性与嵌入性** TPS 具有极高的情境适应性，能够无缝嵌入语言、科学、数学与社科教学中，成为现代[[Constructivist Paradigm\|建构主义]]课堂不可或缺的高频微技术。
+> **微结构的普遍可迁移性与嵌入性** TPS 具有极高的情境适应性，能够无缝嵌入语言、科学、数学与社科教学中，成为现代[[Constructivist Paradigm\|建构主义]]课堂不可或缺的高频微技术。
 
 > [!claim] Güngör et al.
 > **微技术对大班课堂全员参与的普适支撑** 在[[Meta-meta-analysis\|二阶元分析]]所涵盖的综合[[Cooperative Learning\|合作学习]]研究池中，TPS 是一线教师使用频次最高、普及面最广的即时交互技术，为合作学习整体取得 $ES = 0.71$ 的学业与思维增益奠定了基础层面的全员参与保障。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–6)]]

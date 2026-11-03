@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜宏观情境锚定能够显著降低复杂抽象推理的认知阻力
-> **探讨维度　[[Situative Perspective\|情境认知]]与探究驱动机制** 探讨锚点设计如何促进深度学习。
+> **[[Situative Perspective\|情境认知]]与探究驱动机制** 探讨锚点设计如何促进深度学习。
 
 > [!claim] Abrami, P. C., et al.; CTGV
 > **[[Authentic Instruction\|真实性教学]]的示范基石** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 明确将范德堡 CTGV 的抛锚式教学列为真实性教学范畴的代表性[[Paradigm\|范式]]。[[Meta-analysis\|元分析]]与干预实证表明，通过将抽象概念“锚定”在具有现实挑战性的连续情境中，学生不仅掌握了跨学科知识，更在经历多步决策与数据验证的过程中稳定发展了[[Critical Thinking\|批判性思维]]技能与审慎反思倾向。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
