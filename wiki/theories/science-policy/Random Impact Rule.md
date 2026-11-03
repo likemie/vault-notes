@@ -50,6 +50,7 @@ related_persons:
   - "[[Santo Fortunato]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
@@ -83,7 +84,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 理论演进与扩展脉络
 > - **2016 — 随机影响规律的确立** 西纳特拉等人在《科学》论著中确立物理学者生涯代表作相对位置 $N^*/N$ 服从均匀分布的数学规律，指出[[Scientific Productivity|科研生产力]]的非对称波峰是塑造早年突破表象的根本因果中介。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 53–55)]]
-> - **2018 — 跨创意领域的普遍性推广** [[Lu Liu|刘路]]（Lu Liu）与王大顺等人在《自然》（*Nature*）将该法则推展至 20,040 名跨学科科学家、3,480 名艺术家（基于拍卖价格）以及 6,233 名电影导演（基于 IMDb 评分），证实个人第二、第三巅峰成果同样在职业序列中均匀随机分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> - **2018 — 跨创意领域的普遍性推广** [[Lu Liu|刘路]]（Lu Liu）与王大顺等人在《自然》（*Nature*）将该法则推展至 20,040 名跨学科科学家、3,480 名艺术家（基于拍卖价格）以及 6,233 名电影导演（基于 IMDb 评分），证实个人第二、第三巅峰成果同样在职业序列中均匀随机分布。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–399)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 > - **2018 — 《科学》全景综述确证发文生产力驱动机制（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等人在《科学》发文系统梳理科学学宏观规律，展示基于万名学者发表序列最高被引代表作位置的平坦直方图，确证重大突破在序列任意位次出现的先验概率完全均等，彻底打破年龄决定创造力衰退的传统假设。
 > - **2019 — 诺奖精英生存偏误的剥离** 李继文（Jiwen Li）等人在自然科研子刊揭示，诺贝尔奖因不可死后追授的制度属性导致早期获奖者更易被历史捕获；在剔除该特定选拔偏倚后，诺贝尔奖得主的其他重要成果同样严格符合随机影响法则。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 57–58)]]
 > - **2023 — 科学学生涯经验规律确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** 刘等人在《自然-人类行为》中将随机影响法则归纳为个体学术生涯的基准经验规律，论证重大创新突破在作品发表序列中服从均匀随机分布，最具影响力的代表作在学术生涯早期、中期或晚期出现的先验概率完全均等。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 231)]]
@@ -160,7 +161,7 @@ updated: 2026-11-03
 > > [!axis] 单篇随机分布 vs 连胜爆发聚集（[[Hot Hand Fallacy|Hot Hand]] / [[Hot Streak]]）
 > > 随机影响法则假定各篇成果影响力独立随机出现；后续研究发现在随机背景下学者往往经历集中的连胜爆发期（[[Hot Streak|学术爆发期]]），在数年内连续产出代表作，引发关于局部聚集与全局随机的理论调和争鸣。
 > >
-> > - **[[Argument_Liu_2018_Nature|Liu et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang and Barabási (2021)]]** 提出爆发期模型，实证揭示爆发期内部成果虽存在强自相关，但爆发期在学者全生涯中的降临起点随机分布，从而在微观局部聚集与宏观全域随机之间建立了数理统一。[[Argument_Liu_2018_Nature|(Liu et al., 2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 76–77)]]
+> > - **[[Argument_Liu_2018_Nature|Liu et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang and Barabási (2021)]]** 提出爆发期模型，实证揭示爆发期内部成果虽存在强自相关，但爆发期在学者全生涯中的降临起点随机分布，从而在微观局部聚集与宏观全域随机之间建立了数理统一。[[Argument_Liu_2018_Nature|(Liu et al., 2018, p. 398)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 76–77)]]
 
 ---
 

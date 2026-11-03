@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -59,6 +59,41 @@ updated: 2026-11-02
 
 > [!claim] 核心判断
 > 学术论著的原始引文数量主要取决于所在学科领域的[[Document|文献]]总量与文献引证习惯，难以直接反映成果在学术共同体中的相对重要性；当论著引文计数通过该学科同年度所有出版物的平均引文数予以归一化缩放（$c_f = c / \langle c \rangle$）后，不同学科迥异的[[Citation Distribution|引文分布]]曲线在统计上发生坍缩，契合单一的通用对数正态分布函数；在微观时间维度上，经由特征参数重标度后的各学科文献引文时序轨迹进一步完全坍缩至同一标准正态累积分布曲线上。不同学科内产生平庸、中等或杰出学术成果的相对概率具有跨学科的一致性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 177–179)]]；[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 211–214)]]
+
+> [!formula] 相对引文归一化与普适对数正态分布方程
+> 文献 $i$ 在学科 $s$ 与出版年份 $y$ 的相对引文指标定义为绝对被引计数与同领域年份基线均值的比值：
+> 
+> $$c_f = \frac{c}{\langle c \rangle_{s, y}}$$
+> 
+> 在全学科范围内，相对引文概率密度分布 $P(c_f)$ 遵循与学科属性无关的普适对数正态分布：
+> 
+> $$P(c_f) = \frac{1}{\sqrt{2\pi}\sigma c_f} \exp\left(-\frac{(\ln c_f - \mu)^2}{2\sigma^2}\right)$$
+> 
+> 实证拟合均值参数 $\mu \approx -0.27$，方差参数 $\sigma \approx 1.25$。(Radicchi et al., 2008)
+> 
+> 各学科原始引文分布 $P(c)$ 与普适主曲线 $P(c_f)$ 满足一阶矩尺度变换关系：
+> 
+> $$P(c) = \frac{1}{\langle c \rangle} P\left(\frac{c}{\langle c \rangle}\right) = \frac{1}{\sqrt{2\pi}\sigma c} \exp\left(-\frac{(\ln(c / \langle c \rangle) - \mu)^2}{2\sigma^2}\right)$$
+> 
+> 在微观生长动力学中，对时间 $t$ 与累积被引 $c_i(t)$ 执行无量纲重标度：
+> 
+> $$\tilde{t} = \frac{\ln t - \mu_i}{\sigma_i}, \quad \tilde{c} = \frac{\ln(1 + c_i(t)/m)}{\lambda_i}$$
+> 
+> 跨学科成果引文时序曲线坍缩至标准正态累积分布主曲线上：
+> 
+> $$\tilde{c} = \Phi(\tilde{t}) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{\tilde{t}} e^{-u^2/2} \, du$$
+
+> [!geogebra] 引文分布普适性与尺度坍缩动态模拟
+> - **横轴** 相对被引指标 $c_f = c / \langle c \rangle$（或学科原始被引尺度）
+> - **纵轴** 概率密度 $P(c_f)$
+> - **滑块 alpha** 调节标准化坍缩因子（$\alpha \in [0, 1]$），$\alpha = 0$ 展示三门学科原始引文分布的分散状态，$\alpha \to 1$ 演示无量纲重标度下的曲线坍缩，$\alpha = 1$ 完全重合于普适主曲线
+> - **滑块 c01** 调节生物医学高引用容量基准（默认 $\langle c_1 \rangle = 35$）
+> - **滑块 c02** 调节应用物理中引用容量基准（默认 $\langle c_2 \rangle = 15$）
+> - **滑块 c03** 调节工程数学低引用容量基准（默认 $\langle c_3 \rangle = 4$）
+> - **滑块 mu / sigma** 调节普适对数正态参数（默认 $\mu = -0.27, \sigma = 1.25$）
+> - **观察提示** 拖动滑块 $\alpha$ 从 0 滑向 1，观察学科表观分布差异如何经由相对引文标准化彻底消除，各学科曲线统一坍缩至蓝色的普适对数正态主曲线上。
+> 
+> ![[wiki/assets/geogebra/universality_citation_distributions.ggb]]
 
 ---
 
