@@ -52,7 +52,8 @@ related_concepts:
 related_theories:
   - "[[Academic Capitalism]]"
   - "[[Neo-feudalism in Higher Education]]"
-related_methods: []
+related_methods:
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons:
   - "[[Phillip J. Haubrock]]"
@@ -183,7 +184,7 @@ publisher: "Nature Publishing Group"
 ### 论证步骤二　保守同行评审与声望发文经济将学术生产锁定于增量范式
 
 > [!claim|step]
-> 传统同行评审制度与商业化学术出版模式深度交织，构筑起抵制非常规思想的保守过滤网络；文章处理费的高企与对期刊影响因子的盲目迷信，进一步固化了学术成果对既有主流范式的依顺。
+> 传统同行评审制度与商业化学术出版模式深度交织，构筑起抵制非常规思想的保守过滤网络；文章处理费的高企与对[[Journal Impact Factor|期刊影响因子]]的盲目迷信，进一步固化了学术成果对既有主流范式的依顺。
 
 #### 子论点一　同行评审异化为排斥概念新颖性的守门机制
 
