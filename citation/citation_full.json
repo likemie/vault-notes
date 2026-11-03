@@ -6011,6 +6011,28 @@
       "title": "Argument_Lin_2023_SciData",
       "year": "2023"
     },
+    "Liu et al. (2018)": {
+      "aliases": [
+        "Liu et al., 2018",
+        "Liu et al. (2018)"
+      ],
+      "argument": "Argument_Liu_2018_Nature",
+      "authors": [
+        "[[Lu Liu|Liu, L.]]",
+        "Wang, Y.",
+        "[[Roberta Sinatra|Sinatra, R.]]",
+        "Giles, C. L.",
+        "[[Chaoming Song|Song, C.]]",
+        "[[Dashun Wang|Wang, D.]]"
+      ],
+      "citation": "Liu, L., Wang, Y., Sinatra, R., Giles, C. L., Song, C., & Wang, D. (2018). Hot streaks in artistic, cultural, and scientific careers. Nature, 559(7714), 396–399. https://doi.org/10.1038/s41586-018-0315-8",
+      "doi": "10.1038/s41586-018-0315-8",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md",
+      "source_language": "en",
+      "title": "Argument_Liu_2018_Nature",
+      "year": "2018"
+    },
     "Liu et al. (2023)": {
       "aliases": [
         "Liu et al., 2023",
@@ -6070,6 +6092,28 @@
       "source_language": "en",
       "title": "Argument_Liu_2026_CHBR",
       "year": "2026"
+    },
+    "Liu et al., 2018": {
+      "aliases": [
+        "Liu et al., 2018",
+        "Liu et al. (2018)"
+      ],
+      "argument": "Argument_Liu_2018_Nature",
+      "authors": [
+        "[[Lu Liu|Liu, L.]]",
+        "Wang, Y.",
+        "[[Roberta Sinatra|Sinatra, R.]]",
+        "Giles, C. L.",
+        "[[Chaoming Song|Song, C.]]",
+        "[[Dashun Wang|Wang, D.]]"
+      ],
+      "citation": "Liu, L., Wang, Y., Sinatra, R., Giles, C. L., Song, C., & Wang, D. (2018). Hot streaks in artistic, cultural, and scientific careers. Nature, 559(7714), 396–399. https://doi.org/10.1038/s41586-018-0315-8",
+      "doi": "10.1038/s41586-018-0315-8",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md",
+      "source_language": "en",
+      "title": "Argument_Liu_2018_Nature",
+      "year": "2018"
     },
     "Liu et al., 2023": {
       "aliases": [

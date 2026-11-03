@@ -14515,14 +14515,12 @@
     "Liu (2022)": "Liu, 2022",
     "Liu et al. (2014)": "Liu et al., 2014",
     "Liu et al. (2017)": "Liu et al., 2017",
-    "Liu et al. (2018)": "Liu et al., 2018",
     "Liu et al. (2019)": "Liu et al., 2019",
     "Liu et al. (2021)": "Liu et al., 2021",
     "Liu et al. (2024a)": "Liu et al., 2024a",
     "Liu et al. (2024b)": "Liu et al., 2024b",
     "Liu et al., 2014": "Liu et al., 2014",
     "Liu et al., 2017": "Liu et al., 2017",
-    "Liu et al., 2018": "Liu et al., 2018",
     "Liu et al., 2019": "Liu et al., 2019",
     "Liu et al., 2021": "Liu et al., 2021",
     "Liu et al., 2024": "Liu et al., 2024a",
@@ -132809,25 +132807,6 @@
       "seen_in": [],
       "title": "A meta-analysis of the relationship of academic performance and Social Network Site use among adolescents and young adults"
     },
-    "Liu et al., 2018": {
-      "aliases": [
-        "Liu et al., 2018",
-        "Liu et al. (2018)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Liu et al., 2018"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
-        "wiki/concepts/science-policy/Hot Streak.md",
-        "wiki/facts/us/Microsoft Academic Graph.md",
-        "wiki/theories/science-policy/Random Impact Rule.md"
-      ],
-      "title": "Effectiveness of the flipped classroom on the development of self-directed learning in nursing education: A meta-analysis."
-    },
     "Liu et al., 2019": {
       "aliases": [
         "Liu et al., 2019",
@@ -162590,8 +162569,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
-        "wiki/concepts/science-policy/Sudden Career Death.md"
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
       ],
       "title": ""
     },
@@ -176450,7 +176428,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
-        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
+        "wiki/facts/us/MEDLINE.md"
       ],
       "title": ""
     },

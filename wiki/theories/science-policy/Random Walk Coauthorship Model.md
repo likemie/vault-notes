@@ -7,6 +7,11 @@ aliases:
   - Random Walk Model of Coauthorship
 summary: "由伯尔纳等提出并经福图纳托等在《科学》综述中作为微观生成机理阐发的基础物理模型；假定学者在既有学术合署网络拓扑上通过随机游走搜寻并确定未来的合作同侪，仅凭局部连接规则即可自下而上涌现宏观多尺度合作结构，完整复现学者的个体生产力分布、各学科团队规模演化以及成果与学者的跨学科渗透特征（Börner et al., 2010; Fortunato et al., 2018）。"
 type: theory
+theory_field: "science-policy"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/science-policy
   - field/complex-networks

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -160,11 +160,12 @@ updated: 2026-11-02
 > > [!axis] 单篇随机分布 vs 连胜爆发聚集（[[Hot Hand Fallacy|Hot Hand]] / [[Hot Streak]]）
 > > 随机影响法则假定各篇成果影响力独立随机出现；后续研究发现在随机背景下学者往往经历集中的连胜爆发期（[[Hot Streak|学术爆发期]]），在数年内连续产出代表作，引发关于局部聚集与全局随机的理论调和争鸣。
 > >
-> > - **Liu et al. (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang and Barabási (2021)]]** 提出爆发期模型，实证揭示爆发期内部成果虽存在强自相关，但爆发期在学者全生涯中的降临起点随机分布，从而在微观局部聚集与宏观全域随机之间建立了数理统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 76–77)]]
+> > - **[[Argument_Liu_2018_Nature|Liu et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang and Barabási (2021)]]** 提出爆发期模型，实证揭示爆发期内部成果虽存在强自相关，但爆发期在学者全生涯中的降临起点随机分布，从而在微观局部聚集与宏观全域随机之间建立了数理统一。[[Argument_Liu_2018_Nature|(Liu et al., 2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 76–77)]]
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 证实爆发期起点在全生涯序列中随机出现，在数理上调和了代表作局部成簇与全域时序随机影响规律。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述随机影响法则，展示万名科学家发表序列最高引成果位置平坦直方图，证实早年突破集聚完全由发文生产力演进所驱动。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023, p. 231)]] — 将随机影响法则归纳为个体学术生涯的基准经验规律，确证重大科学突破在学者生涯发表序列中服从均匀分布。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 实证确立学者生涯代表作在发表序列中服从均匀随机分布，证实早年中年重大突破密集完全由发文生产力演进所驱动。

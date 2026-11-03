@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -119,6 +119,7 @@ updated: 2026-11-02
 > - **政策路径** 其关于团队规模配置、青年科研基金资助容错机制、期刊影响因子局限性及终极影响定理的量化结论，被[[National Science Foundation|美国国家科学基金会]]（NSF）与各大私立基金会广泛引为科技评价改革实证依据。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 主持在《自然》发表关于学术爆发期的奠基论著，揭示代表作成簇规律并构建二状态动力学模型。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科研生产力（Unit 01）、热手效应（Unit 03）、团队规模（Unit 04）、引文分布与动力学（Units 07, 09）及挫折韧性与学科前景（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 
 ---

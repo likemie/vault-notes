@@ -87,6 +87,8 @@ related_persons:
   - "[[Santo Fortunato]]"
 related_facts:
   - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[MEDLINE]]"
   - "[[American Physical Society]]"
   - "[[United States Patent and Trademark Office]]"
   - "[[National Institutes of Health]]"
@@ -105,7 +107,7 @@ title: "Argument_Fortunato_2018_Science"
 argument_key: "Argument_Fortunato_2018_Science"
 argument_display_title: "Science of science"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -150,14 +152,14 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **大规模文献计量分析**<br>[[Bibliometric Analysis]] | 分析科学网（Web of Science, WoS）与医学文献联机数据库（Medical Literature Analysis and Retrieval System Online, MEDLINE）数千万篇学术成果的题录、摘要文本与引文网络，测度概念空间扩张速率与学科引文分布形态。 |
+> | **大规模文献计量分析**<br>[[Bibliometric Analysis]] | 分析科学网（Web of Science, WoS）、[[Scopus]] 与医学文献联机数据库（[[MEDLINE]]）数千万篇学术成果的题录、摘要文本与引文网络，测度概念空间扩张速率与学科引文分布形态。 |
 > | **复杂网络建模与超图分析**<br>[[Network Analysis]] | 构建学者合作网络、文献共被引网络与生化学科实体超图，运用随机游走算法模拟合作网络搜索过程，测算网络连通分量与模块度。 |
 > | **微观生成机制模型与统计重标度**<br>Generative Modeling and Rescaling | 运用微观随机过程拟合引文增长动力学，通过相对引文无量纲缩放与适合度重标度，实现跨学科引文轨迹的通用坍缩检验。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文献样本** | 涵盖 Web of Science 核心合集历年收录成果、MEDLINE 历年生物医药文献、[[American Physical Society\|美国物理学会]]（American Physical Society, APS）期刊全文库以及[[United States Patent and Trademark Office\|美国专利商标局]]（United States Patent and Trademark Office, USPTO）数百万件发明专利。 |
+> | **文献样本** | 涵盖 Web of Science 核心合集与 [[Scopus]] 历年收录成果、[[MEDLINE]] 历年生物医药文献、[[American Physical Society\|美国物理学会]]（American Physical Society, APS）期刊全文库以及[[United States Patent and Trademark Office\|美国专利商标局]]（United States Patent and Trademark Office, USPTO）数百万件发明专利。 |
 > | **学者队列样本** | 覆盖数万名具备长周期发表记录的跨学科学者全生命周期发表序列，包含诺贝尔物理学奖得主的连续发表档案。 |
 > | **材料情境** | 贯穿自然科学、工程技术与社会科学各主要门类，整合学术发表、引文流向、基金资助、机构流动与同行评审文本等多源元数据。 |
 
@@ -196,7 +198,7 @@ issuing_organization: ""
 > - **拓扑网络路径锁定** 学者在开拓新课题时高度依赖自身或合作成员的既有专长，导致学术关系网局部过度稠密，既有拓扑结构反过来限制了向未知领域的跨界探索。
 
 > [!case] 八个代表性学科合署网络的生命周期演化（Börner et al., 2012）
-> 对跨越不同知识门类的 8 个代表性学术领域开展全生命周期追踪发现，成功走向成熟的新兴学科普遍经历知识规范与社会合作网络的双重整合。在演化初期，研究人员呈现高度离散、自发分散的合作斑块；随着理论[[Paradigm|范式]]确立与共识形成，合署网络发生拓扑相变，涌现出由稳定合作群体构成的巨连通分量（[[Giant Component|Giant Connected Component]]）。通过在合作网络上构建随机游走演化模型，能够精准复现[[Scientific Productivity|科研生产力]]分布、各学科研究人员体量以及跨学科合著特征。
+> 对跨越不同知识门类的 8 个代表性学术领域开展全生命周期追踪发现，成功走向成熟的新兴学科普遍经历知识规范与社会合作网络的双重整合。在演化初期，研究人员呈现高度离散、自发分散的合作斑块；随着理论[[Paradigm|范式]]确立与共识形成，合署网络发生拓扑相变，涌现出由稳定合作群体构成的巨连通分量（[[Giant Component|Giant Connected Component]]）。通过构建合作网络随机游走模型（[[Random Walk Coauthorship Model]]），能够精准复现[[Scientific Productivity|科研生产力]]分布、各学科研究人员体量以及跨学科合著特征。
 
 ---
 
@@ -211,11 +213,11 @@ issuing_organization: ""
 
 > [!factors] 保守深耕选题策略的驱动因素与全局效率损耗（Foster et al., 2015）
 > - **成熟领域的聚集效应** 随着细分领域走向成熟，科研人员日益聚焦于已被广泛验证的化学分子关联。
-> - **避险理性的全局效率偏离** 全网探索策略模拟证实，学者实际采取的保守深耕策略（[[Exploration-Exploitation in Science]]）虽能维持个人短期的稳定产出，却使整个学科拓展新知识网络的集体效率远低于全局最优水准。
+> - **避险理性的全局效率偏离** 在集体发现模拟模型（[[Collective Discovery Simulation Model]]；Rzhetsky et al., 2015）中，全网探索策略模拟证实，学者实际采取的保守深耕策略（[[Exploration-Exploitation in Science]]）虽能维持个人短期的稳定产出，却使整个学科拓展新知识网络的集体效率远低于全局最优水准。
 
 > [!figure]- 图 2　集体发现实验策略与化学网络覆盖
 > ![](https://img.mylikemie.icu/sources/Fortunato_2018_Science/figures/Fortunato_2018_Science_Fig2_Choosing_Experiments_Collective_Discovery.jpg)
-> *(A) 基于 2010 年 MEDLINE 索引文献测算的全局化学实体发现效率对比。纵轴数值越低代表探索效率越高；学者实际采取的保守策略仅能揭示全网 13% 的潜在化学关联，而达到 50% 最优效率的策略即可完整揭示全部网络。(B) 500 次模拟探索过程网络拓扑示意图（Rzhetsky et al., 2015）。*
+> *(A) 基于 2010 年 [[MEDLINE]] 索引文献测算的全局化学实体发现效率对比。纵轴数值越低代表探索效率越高；学者实际采取的保守策略仅能揭示全网 13% 的潜在化学关联，而达到 50% 最优效率的策略即可完整揭示全部网络。(B) 500 次模拟探索过程网络拓扑示意图（Rzhetsky et al., 2015）。*
 
 > [!case] 美国生物医药科研经费分配与疾病实际负担的脱节（Gross et al., 1999）
 > 对[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）长期经费流向的实证考察显示，生物医药研究资源的分配额度主要取决于往年的历史拨款与现有文献积累，而与各类疾病给人群带来的实际健康负担残疾调整生命年（Disability-Adjusted Life Years, DALYs）明显脱节（Gross et al., 1999）。这一错位反映出由传统领域资深学者主导的评审委员会存在明显的制度惯性，亟需机制改革。

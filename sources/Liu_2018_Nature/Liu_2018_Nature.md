@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Liu, L., Wang, Y., Sinatra, R., Giles, C. L., Song, C., & Wang, D. (2018). Hot streaks in artistic, cultural, and scientific careers. Nature, 559(7714), 396–399. https://doi.org/10.1038/s41586-018-0315-8"
 extracted_to: []
 processed_date: 2026-11-03
 ---

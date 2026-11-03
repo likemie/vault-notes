@@ -22324,6 +22324,18 @@
     ]
   },
   {
+    "title": "Collective Discovery Simulation Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Collective Discovery Simulation Model.md",
+    "aliases": [
+      "集体发现探索模拟模型",
+      "科学探索效率模型",
+      "集体发现模型",
+      "科学选题超图探索模型",
+      "Collective Discovery Model"
+    ]
+  },
+  {
     "title": "Constant-Probability-of-Success Model",
     "type": "theory",
     "path": "wiki/theories/science-policy/Constant-Probability-of-Success Model.md",
@@ -22535,6 +22547,17 @@
       "随机冲击定律",
       "随机影响规则",
       "Random Impact Hypothesis"
+    ]
+  },
+  {
+    "title": "Random Walk Coauthorship Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Random Walk Coauthorship Model.md",
+    "aliases": [
+      "合作网络随机游走模型",
+      "合署网络随机游走模型",
+      "学者合作随机游走模型",
+      "Random Walk Model of Coauthorship"
     ]
   },
   {
@@ -38821,6 +38844,17 @@
     "subtype": "program"
   },
   {
+    "title": "Scopus",
+    "type": "fact",
+    "path": "wiki/facts/global/Scopus.md",
+    "aliases": [
+      "斯科普斯数据库",
+      "Elsevier Scopus",
+      "爱思唯尔Scopus引文数据库"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Skills Toward Employment and Productivity",
     "type": "fact",
     "path": "wiki/facts/global/Skills Toward Employment and Productivity.md",
@@ -45577,6 +45611,17 @@
     "subtype": "program"
   },
   {
+    "title": "MEDLINE",
+    "type": "fact",
+    "path": "wiki/facts/us/MEDLINE.md",
+    "aliases": [
+      "MEDLARS Online",
+      "医学文献联机检索系统",
+      "美国国家医学图书馆联机数据库"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Microelectronics Commons",
     "type": "fact",
     "path": "wiki/facts/us/Microelectronics Commons.md",
@@ -47682,6 +47727,11 @@
     "title": "Argument_Logar_2014_Minerva",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
+  },
+  {
+    "title": "Argument_Liu_2018_Nature",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
   },
   {
     "title": "Argument_Liu_2023_NHB",

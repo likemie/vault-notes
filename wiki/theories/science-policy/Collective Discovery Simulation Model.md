@@ -8,6 +8,11 @@ aliases:
   - Collective Discovery Model
 summary: "由热茨基与福斯特等提出、经福图纳托等在《科学》封面综述中系统阐发的科学选题超图演化计算模型；将学科知识生产形式化为超图网络中的实体搜寻，实证测定学者基于避险理性的保守深耕策略仅能揭示全网 13% 潜在关联，而达 50% 最优效率的探索即可覆盖全部网络，揭示了个体发表理性与全局探索效率的深刻制度裂隙（Fortunato et al., 2018）。"
 type: theory
+theory_field: "science-policy"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/science-policy
   - field/scientometrics

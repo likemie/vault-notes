@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 
 ---
@@ -95,4 +95,5 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 探究创造力职业生涯是否存在“连胜带来更多胜利”的真实爆发期，证实顶尖代表作成簇并构建爆发期模型。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 结合篮球热手统计偏差修正公案，引申检验科学创造力中的代表作成簇现象。

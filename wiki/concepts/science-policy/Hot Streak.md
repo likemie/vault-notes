@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-10-30
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **时序随机性** | 爆发期起点在全生涯随机分布，打破青年创造力宿命论 | 学术生涯发展规律、人才成长研判 | Liu et al. (2018); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
+> | **时序随机性** | 爆发期起点在全生涯随机分布，打破青年创造力宿命论 | 学术生涯发展规律、人才成长研判 | [[Argument_Liu_2018_Nature\|Liu et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 > | **基金错位性** | 科研资助倾向追溯奖励既往成果，滞后于爆发期黄金窗口 | 科研经费分配、前沿探索资助机制设计 | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 > | **制度淘汰性** | 刚性生理年龄红线忽视晚发型爆发期，造成人才结构性筛除 | 青年人才计划遴选、学术荣誉评审规则制定 | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
 
@@ -166,6 +166,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 确立艺术、文化与科研生涯中学术爆发期的微观特征，证实爆发期时序随机、发文平稳且大多具备终身唯一性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 大样本实证确立学术爆发期的终身唯一性、跨领域普遍性与时序随机性，揭示基金资助滞后与刚性年龄门槛的制度弊端。
 
 ---

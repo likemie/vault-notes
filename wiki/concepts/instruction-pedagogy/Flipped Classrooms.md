@@ -21,7 +21,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-03
 ---
 
 > [!metax-divider]
@@ -53,7 +53,7 @@ updated: 2026-10-22
 > > | Gillette et al. (2018) | Flipped classrooms | 6 | 315 | 6 | 0.35 |  |
 > > | Algarni (2018) | Flipped classrooms | 34 | 8,598 | 36 | 0.27 |  |
 > > | Shi et al. (2020) | Flipped classrooms | 33 | 6,957 | 33 | 0.53 |  |
-> > | Liu et al. (2018) | Flipped classrooms in nursing | 12 | 1,440 | 12 | 1.18 |  |
+> > | Liu, Li, et al. (2018) | Flipped classrooms in nursing | 12 | 1,440 | 12 | 1.18 |  |
 > > | Xu, Chen, et al. (2019) | Flipped classrooms | 22 | 4,295 | 22 | 1.79 |  |
 > > | Zhu et al. (2019) | Flipped classrooms | 25 | NA | 25 | 0.56 |  |
 > > | Zhu (2021) | Flipped classrooms | 27 | NA | 53 | 0.54 |  |

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 ---
@@ -218,4 +218,5 @@ updated: 2026-11-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 创新设计生涯序列随机置换反事实零模型，在保持发文节奏的前提下打乱被引次序，证实突破时序分布完全由发文速率所主导。
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 运用生涯置换零模型检验代表作时序间距与最长连胜长度，排除了局部成簇源于独立随机过程的可能性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用生涯置换零模型确立随机影响法则，并将其拓展至早晚期能力稳态检验与代表作成簇偏离识别。
