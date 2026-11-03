@@ -61,6 +61,7 @@ related_arguments:
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Grek_2024_EERJ]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Zhang_Zhao_2026_EDR]]"
 related_persons:
   - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
@@ -90,7 +91,7 @@ updated: 2026-11-03
 > [!def] Commensuration
 > 通约（Commensuration）指将不同性质、不同质态的异质事物转化为基于共同公分母或标准化尺度的可比较、通常是量化指标的社会建构过程（Espeland & Stevens, 1998）。在教育治理与学校监测中，通约机制通过脱域化编码与算法建模，将复杂的学校生态、生源背景、教学质量及财政支出统一折算为可横向排序与统计对照的数值指标，为政策干预、资源再分配与外部问责提供依据[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 6–7)]]。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向异质质态向单一量化尺度的折算机制及其背后涉及的社会、政治与价值权重裁决。
 > - **用途** 帮助研究者透视指标中立表象之下的规范预设，揭示教育数据从原始信息向治理知识转化时的权力运作。
 > - **边界** 区别于纯数学单位换算，通约本质上是充满政治协商与制度权衡的社会实践，带有鲜明的权力界定与价值偏向属性。
@@ -111,7 +112,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 通约（Commensuration） | 测量的履行性（[[Performativity of Measurement]]） | 评估与赋值社会学（[[Sociology of Valuation and Evaluation]]） |
 > |---|---|---|---|
 > | **分析对象** | 质态差异向同质量化度量的折算技术与社会过程 | 量化指标介入实践后诱发被测对象行为变形的因果机制 | 排名与评估工具在宏观中观制度中赋予价值与地位的广泛文化机制 |
@@ -187,7 +188,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 通约学术争议与[[Epistemology|认识论]]交锋
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 客观中立的跨国比较镜鉴 vs 新自由主义政治等值虚构与去情境化暴力
 > > 围绕跨国评估建立的通约标尺是客观反映系统质量的技术进步，还是抹杀文化[[Heterogeneity|异质性]]的意识形态虚构展开交锋。
