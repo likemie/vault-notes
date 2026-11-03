@@ -9153,6 +9153,19 @@
     ]
   },
   {
+    "title": "Academic Precarity",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Precarity.md",
+    "aliases": [
+      "学术不稳定状态",
+      "学术职业不稳定性",
+      "学术零工化",
+      "学术预备期不稳定",
+      "Precarity in Academia",
+      "Academic Job Insecurity"
+    ]
+  },
+  {
     "title": "Academic Risk Aversion",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Risk Aversion.md",
@@ -9876,6 +9889,19 @@
       "远距离调控",
       "sturen op afstand",
       "remote government steering"
+    ]
+  },
+  {
+    "title": "Strategic Conformity in Academia",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Strategic Conformity in Academia.md",
+    "aliases": [
+      "学术策略性依从",
+      "学术战略性顺应",
+      "科研策略性从众",
+      "学术顺从主义",
+      "Strategic Conformity",
+      "Strategic Conformity in Science"
     ]
   },
   {
@@ -17118,6 +17144,19 @@
       "科学即时性命题",
       "科学前沿即时性",
       "科学即时特征"
+    ]
+  },
+  {
+    "title": "Scientific Creativity",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Scientific Creativity.md",
+    "aliases": [
+      "科学创造力",
+      "科研创造力",
+      "学术创造力",
+      "科学创新力",
+      "Emergent Scientific Creativity",
+      "Creativity in Science"
     ]
   },
   {
@@ -47755,6 +47794,11 @@
     "title": "Argument_Liu_2018_Nature",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
+  },
+  {
+    "title": "Argument_Haubrock_2026_NHB",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md"
   },
   {
     "title": "Argument_Liu_2023_NHB",

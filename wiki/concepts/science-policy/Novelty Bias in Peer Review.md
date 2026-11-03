@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 ---
@@ -95,6 +95,9 @@ updated: 2026-10-31
 > 
 > > [!claim] Boudreau et al. (2016)
 > > **新颖性评分折价** 在严格控制申请人背景的双盲实验中，引入罕见关键词组合的高新颖性申请方案获得的综合评分系统性低于常规方案；这种偏见根植于专家对不熟悉领域的风险厌恶，揭示出常规同行评审天然压制原创探索的制度属性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Boudreau et al., 2016; Wang & Barabási, 2021, pp. 192–193)]]
+> 
+> > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
+> > **同行评审作为范式守门人对概念创新的结构性压制** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者指出，同行评审在演进中形成了偏向既有成熟范式的保守筛选机制。在审稿负担过重与学术同质性规训下，同行评审对高新颖性假说展现出强烈的风险回避倾向，系统性优先接纳可预测的增量型成果，构成压制青年学者概念突破的结构性滤网。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 
@@ -109,7 +112,7 @@ updated: 2026-10-31
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知折价命题** | 评审专家对罕见知识组合系统性打出偏低分数 | 双盲项目立项打分与评议 | Boudreau et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
+> | **认知折价命题** | 评审专家对罕见知识组合系统性打出偏低分数 | 双盲项目立项打分与评议 | Boudreau et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]]; [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
 > | **跨界惩罚命题** | 跨学科距离与国家级资助成功率呈负向相关 | 竞争性跨学科科研基金项目立项 | Bromham et al. (2016) |
 
 ---
@@ -136,3 +139,4 @@ updated: 2026-10-31
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 结合顶级医学院双盲打分实验与 1.8 万份国家级资助方案大数据，系统确立了同行评审系统在面对高新颖性构想时的保守偏见。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 从同行评审历史演变与学术评价机制切入，阐述同行评审在过重负荷与范式守门压力下如何系统性压制非常规概念突破，迫使青年科研人员退守安全课题。
