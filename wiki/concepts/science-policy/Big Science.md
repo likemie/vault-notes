@@ -101,22 +101,22 @@ updated: 2026-11-03
 > - **用途** 帮助科技政策学者区分不同类型科技任务的组织治理构型，评估大型国家实验室、前竞争财团与[[Megascience Installations|大科学装置]]的战略效能与民用外溢机制。
 > - **边界** 适用于目标明确、工程界定清晰的物理极限与跨学科共性技术攻关；不等于分散在大学内部的自由探索型课题组，亦不等于企业以商业利润为驱动的封闭产品开发。
 
-> [!citation-card] 樊春良论大科学成本膨胀对[[Social Contract of Science|科学社会契约]]的制度压力
+> [!citation-card|notitle] 关键表述：樊春良论大科学成本膨胀对科学社会契约的制度压力
 > 科学体系自身演化进一步加剧了科学社会契约的压力，如大科学模式推高科研成本，强化了外部绩效问责与政治审计；近年来学术界广泛讨论的[[Reproducibility Crisis|可重复性危机]]则削弱了部分领域的知识权威，使基础科学在为什么值得支持、如何被评价与应当解决什么问题三个层面均失去了自动的正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *大科学模式推高科研成本并强化外部问责，与可重复性危机交织，使科学正当性从自明走向不稳定且具有争议性的结构形态。*
 
-> [!citation-card] 大科学的组织特征与演进张力
+> [!citation-card|notitle] 关键表述：大科学的组织特征与演进张力
 > 大科学政策往往由单一国家实验室或公共机构执行，且这些机构由极具声望的权威主管领导。这种政策直接导致这些实验室的组织构架比大学更为层级化。然而，大科学研究所建立在界定清晰的物理和工程目标之上；当国家试图将这种封闭集权的大科学工程模式直接套用于解决城市衰败、环境退化等复杂的社会系统问题时，必然遭遇制度失灵。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 >
 > *Organizationally such policies were often implemented by single national/public laboratories... These facilities were built up more hierarchically than universities. Weinberg argues that Big Science institutes are based on well-defined physical targets and that the same approach cannot be easily transferred to social problems... such problems are much more complex.*
 
-> [!citation-card] 智能时代大科学的范式扩展：从物理巨器到科学 AI 平台与聚焦研究组织
+> [!citation-card|notitle] 关键表述：智能时代大科学的范式扩展
 > 传统大科学主要聚焦于粒子对撞机与航天发射等国家主导工程。而在当代，一方面领军企业投入数千亿美元建设智能算力基础设施，将 Transformer 与大模型引入前沿探索；另一方面，耗资数千万美元、需数十人工程团队攻关的中等规模公共品科学（如蛋白质折叠基准、全脑连接组测绘）在大学课题组与商业企业之间形成空白，催生了聚焦研究组织（FRO）与 [[NSF X-Labs]] 等新型大科学载体。与此同时，2025 年启动的[[Genesis Mission|创世纪计划]]统筹能源部 17 所国家实验室打造“美国科学与安全平台”（ASSP），展现了大科学在 AI 驱动研发范式下的国家级系统集成。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 22–26, 61–63)]]
 >
 > *Beyond traditional national aerospace and physics projects, Big Science now encompasses massive compute clusters, mid-scale Focused Research Organizations (FROs), and the Genesis Mission marshaling 17 national laboratories for AI-driven discovery.*
 
-> [!citation-card] [[Derek de Solla Price|普赖斯]]与[[Dashun Wang|王大顺]]论大科学时代的指数扩张与学术生产管道堵塞
+> [!citation-card|notitle] 关键表述：普赖斯与王大顺论大科学时代的指数扩张与学术生产管道堵塞
 > 大科学不仅意味着装置与经费的巨型化，更表现为科学[[Knowledge Production|知识生产]]系统自身的指数级扩张。自普赖斯在 1963 年指出科学[[Document|文献]]以约 10–15 年翻番的节奏持续增长以来，百余年间全球学术出版物呈现出不可阻挡的指数级扩张，形成“历史上 80% 至 90% 的科学家都生活在当代”的即时性特征。然而，[[Academic Pipeline|学术管道]]的各环节扩张极不均衡：博士毕业生数量在数十年间膨胀数倍，而大学终身教职岗位数长期保持平滞，导致博士后队伍急剧堆叠，大批科研人员向产业界分流。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–171)]]
 >
 > *Big Science is defined not only by large budgets and facilities, but by the relentless exponential growth of the scientific literature and workforce. While PhD production has soared, faculty positions have remained flat, driving a massive postdoc pileup and workforce restructuring.*
