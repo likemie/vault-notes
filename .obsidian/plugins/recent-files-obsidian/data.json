@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Multiple Regression",
-      "path": "wiki/methods/quantitative/Multiple Regression.md"
-    },
-    {
       "basename": "Disruption Index",
       "path": "wiki/methods/quantitative/Disruption Index.md"
+    },
+    {
+      "basename": "Argument_Liu_2018_Nature",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
+    },
+    {
+      "basename": "Multiple Regression",
+      "path": "wiki/methods/quantitative/Multiple Regression.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
@@ -195,10 +199,6 @@
     {
       "basename": "Cowen(Ed.)_2009_Springer",
       "path": "books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer.md"
-    },
-    {
-      "basename": "Argument_Cowen_2009_HistoryCreation",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
     }
   ],
   "omittedPaths": [],
