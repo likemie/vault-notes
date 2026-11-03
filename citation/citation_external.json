@@ -11033,15 +11033,13 @@
     "Huang et al. (2014)": "Huang et al., 2014",
     "Huang et al. (2017)": "Huang et al., 2017",
     "Huang et al. (2020)": "Huang et al., 2020",
-    "Huang et al. (2024a)": "Huang et al., 2024a",
-    "Huang et al. (2024b)": "Huang et al., 2024b",
+    "Huang et al. (2024)": "Huang et al., 2024",
     "Huang et al., 2013": "Huang et al., 2013",
     "Huang et al., 2014": "Huang et al., 2014",
     "Huang et al., 2017": "Huang et al., 2017",
     "Huang et al., 2020": "Huang et al., 2020",
-    "Huang et al., 2024": "Huang et al., 2024a",
-    "Huang et al., 2024a": "Huang et al., 2024b",
-    "Huang et al., 2024b": "Huang et al., 2024b",
+    "Huang et al., 2024": "Huang et al., 2024",
+    "Huang et al., 2024a": "Huang et al., 2024",
     "Huang, 1991": "Huang, 1991",
     "Huang, 2005": "Huang, 2005",
     "Huang, 2010": "Huang, 2010",
@@ -107959,25 +107957,10 @@
       "seen_in": [],
       "title": "The impact of gamification in educational settings on student learning outcomes: A meta-analysis."
     },
-    "Huang et al., 2024a": {
+    "Huang et al., 2024": {
       "aliases": [
-        "Huang et al., 2024a",
-        "Huang et al. (2024a)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Huang et al., 2024"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/EST Integrated Development.md"
-      ],
-      "title": ""
-    },
-    "Huang et al., 2024b": {
-      "aliases": [
-        "Huang et al., 2024b",
-        "Huang et al. (2024b)"
+        "Huang et al., 2024",
+        "Huang et al. (2024)"
       ],
       "doi": "",
       "identity_keys": [
