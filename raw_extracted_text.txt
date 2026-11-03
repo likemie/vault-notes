@@ -1,0 +1,1223 @@
+=== PAGE 1 ===
+Nature Human Behaviour
+nature human behaviour
+https://doi.org/10.1038/s41562-026-02575-5
+Perspective
+How contemporary academic structures 
+constrain scientific creativity and hold back 
+early-career researchers
+ 
+We argue that contemporary scientific systems progressively constrain 
+high-risk and conceptually innovative research while being increasingly 
+structured around short funding cycles, productivity-based evaluation criteria 
+and risk-averse frameworks that favour predictable and non-transformative 
+research outputs. Drawing on recent empirical literature, we show how such 
+systems can place disproportionate pressure on early-career researchers by 
+incentivizing safe, tractable and easily evaluated outputs. Structural academic 
+mechanisms such as peer review and funding, escalating publication costs 
+and institutional inequalities interact with precarious employment and 
+hierarchical dependencies. In this environment, we contend that strategic 
+conformity becomes a rational career path. This risks suppressing creativity 
+and critical thinking precisely at the stage when scientific independence could 
+otherwise emerge. Consequently, the probability of substantive contributions 
+by early-career researchers is declining, while talent may increasingly abandon 
+academia or cluster within a limited number of well-resourced institutions 
+and national systems. By adopting a systems-level perspective, we argue that 
+scientific creativity is not merely an individual trait but an emerging property 
+of a supportive academic landscape and that maintaining or restoring it 
+may require substantial structural reforms. These include promoting stable 
+research pathways, decentralized decision-making and evaluation frameworks 
+that better recognize collaboration, originality, persistence and nonlinear 
+career trajectories. Without systemic change, we risk stifling the potential 
+of early-career researchers to go beyond the confines of existing methods 
+and approaches and deliver transformative advances. This would limit their 
+capacity to meaningfully change our understanding of the world or benefit 
+society, with impacts that fall short of their potential.
+Many historic breakthroughs that took place under difficult exter -
+nal conditions permitted greater intellectual autonomy, but only 
+along specific lines of gender, race and class. These conditions have 
+changed. Specifically, modern scientific advances increasingly 
+require intellectual freedom, tolerance of uncertainty and long 
+time horizons 1– 3. However, such enabling conditions are increasingly 
+difficult to access because of the contemporary publish-or-perish 
+culture 4, short funding cycles combined with escalating evaluation 
+pressures5,6 and a strong preference among funding institutions for 
+projects that are predictable, short-lived, easily publishable and 
+comfortably framed within prevailing paradigms 7. Concomitantly, 
+scientific output and productivity metrics have increased sharply 
+over recent decades 8, yet this quantitative growth has not been 
+matched by comparable gains in conceptual originality or research 
+quality 9,10. Rather than reduced collaboration 11, this divergence 
+probably reflects incentive structures that reward short-horizon, 
+Received: 3 March 2026
+Accepted: 11 August 2026
+Published online: xx xx xxxx
+ Check for updates
+ e-mail: phaubrock@bournemouth.ac.uk; teun.everts@inbo.be
+A list of authors and their affiliations appears at the end of the paper
+=== PAGE 2 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+with the average age at professorship increasing in many countries (for 
+example, 42.5 years in Germany, and from 32.7 to 34.4 years in France), 
+intensifying precarity32. Under these structurally zero-sum conditions, 
+intensified competition shapes not only who remains in academia 
+but also which questions and perspectives are pursued, increasingly 
+disincentivizing independence and creativity1,33.
+In this high-pressure environment, even small setbacks can 
+carry outsized consequences. For example, a near miss on a critical 
+early-career grant application can increase the risk of leaving academia 
+by over 10%, even as those who persist often produce higher-impact 
+work in the long run31. Selection pressures strongly favour conformity 
+and short-term signalling over exploratory work. For instance, in many 
+systems, academic positions are opened primarily in response to teach-
+ing demand rather than ambitious research strategies, and evaluation 
+systems systematically favour cheaper junior postdoctoral positions 
+over more experienced researchers to maximize short-cycle output 
+and cost efficiency34. Patronage networks and academic inbreeding 
+may be deeply entrenched. In Italy, for example, ‘academic barons’ have 
+been known to exert disproportionate influence through loyalty-based 
+systems where merit has frequently been secondary 35– 38. Wherever 
+such hierarchies dominate, power is centralized, and creativity can 
+become contingent on supervisor tolerance. Senior researchers may 
+restrict access to ideas, resources and visibility, and many ECRs may be 
+embedded in projects conceived and controlled by principal investiga-
+tors on whom their employment, publications and references depend39. 
+Over time, this dynamic may externalize creativity upwards, reshaping 
+research groups into production-oriented units in which ECRs execute 
+narrowly defined tasks rather than developing independent agendas. 
+While collaboration and interdisciplinary teamwork are essential for 
+tackling complex problems and breaking down silos, this dynamic may 
+be seen as undesirable when it systematically suppresses independ -
+ent agendas of ECRs, reducing them to executors of narrowly defined 
+tasks and limiting the emergence of novel, diverse perspectives that 
+fuel long-term innovation. Senior scholars may appropriate credit for 
+themselves, while the ‘Matthew effect’ concentrates recognition among 
+established scientists and systematically undervalues contributions 
+from those with lower institutional power40– 42. Although many crea-
+tive ECRs eventually leave for industry, startups, non-governmental 
+organizations or independent research, a form of brain drain that may 
+act as a temporary safety valve, this outflow risks depleting precisely 
+the innovative talent needed to drive meaningful reform within the 
+system itself (see ref. 43 for a more detailed discussion on structural 
+precarity and power asymmetries affecting ECRs).
+Exploitation and invisible labour
+ECRs perform a share of the day-to-day labour that sustains academic 
+production, including research, teaching, supervision, fundraising, 
+project management, administration and peer review, yet often lack 
+stability, autonomy and appropriate credit44,45. When layered onto heavy 
+teaching loads and expanding administrative demands (for example, 
+time sheeting, performance tracking, partaking in academic commit-
+tees, data management plans, peer review and editorial work), these 
+responsibilities create context switching that compresses the uninter-
+rupted time needed for exploratory and conceptually novel work1,46. The 
+situation is exacerbated by the managerial turn in universities, which 
+has prioritized revenue, branding, compliance and risk management, 
+leading to a bureaucratic apparatus that generates additional demands 
+rather than relieving academic labour47,48. Caregiving responsibilities 
+add further strain, as evaluation systems frequently penalize reduced 
+productivity associated with parenthood, disproportionately affecting 
+women and single parents49,50. Authorship exploitation and intellectual 
+theft compound these issues, when senior researchers claim undue 
+credit through gift authorship and citation cartels, while ECRs risk hav-
+ing their contributions downgraded or erased51– 53 (see ref. 43 for a more 
+detailed discussion on exploitation and invisible labour affecting ECRs).
+low-variance outputs (that is, ‘junkification’) 12 over exploratory, 
+concept-driven inquiry 1,13,14.
+These pressures are widely reported and often appear structural, 
+being rooted in funding, evaluation, publishing and employment 
+conditions in many academic systems15–17 . They affect creativity (here 
+understood as the generation of novel, high-risk ideas that challenge 
+or substantially extend existing paradigms) and ingenuity, essential 
+foundations of long-term scientific progress18 because they converge 
+most intensely during the early-career phase, the exact academic 
+career stage when precarity and hierarchical dependence render crea-
+tive risk-taking especially costly 19,20. More specifically, the resulting 
+selection pressures favour incremental, low-variance research strate-
+gies and penalize conceptual novelty through conformity and risk 
+aversion, while administrative expansion and metric optimization 
+divert researchers’ time away from deep, sustained thinking, ultimately 
+undermining intellectual diversity, epistemic robustness and the 
+capacity for transformative discovery21– 23. At the end of this systemic 
+cascade are early-career researchers (ECRs), who are here considered to 
+be researchers from the PhD phase through the pre-tenure phase whose 
+careers remain structurally precarious and evaluation-dependent, lack-
+ing durable institutional autonomy24,25. Many of these ECRs are often 
+compelled into strategic conformity at the expense of their creative 
+potential, while only a relatively small proportion manage to stabilize 
+professionally9,21,26,27. Under such conditions, the costs of intellectual 
+deviation rise sharply: limited time for deeper analytical work, lack of 
+access to funding and vulnerability to retaliation create an environment 
+in which critical thinking and creative risk-taking become profession-
+ally hazardous16,28. This does not mean that structural academic hurdles 
+are unique to ECRs; senior principal investigators, university adminis-
+trators and funding officers also operate under their own institutional 
+constraints and incentives, which often reinforce risk-averse structures. 
+Nevertheless, intellectual deviation and long-horizon projects become 
+rare under such conditions, so that novel ideas are structurally confined 
+to narrow temporal windows (that is, between grants, during unfunded 
+side work or at specific career transitions) rather than being pursued 
+iteratively, cumulatively and consistently21,24.
+In this Perspective, we synthesize how existing academic struc -
+tures may shape scientific behaviour, with a focus on ECRs across fields 
+and geographies. For this purpose, we analyse the mechanisms through 
+which contemporary academic structures could suppress creativity 
+and the psychological and epistemic effects of risk minimization. We 
+analyse how system-level incentives and constraints can influence 
+collective research trajectories and argue that creativity in science is 
+best understood as an inherent property of institutional environments, 
+arising from the interaction between autonomy, time horizons, toler-
+ance of uncertainty and failure, and material security 29,30. Finally, we 
+propose measures that can help to foster a creativity-enabling research 
+environment, allowing ECRs to pursue bold, innovative ideas without 
+being disproportionately constrained by precarity or counterproduc-
+tive conservative incentives. While many examples in this Perspective 
+draw from the natural sciences, reflecting the authors’ collective expe-
+rience, the core systemic pressures described are widespread, even 
+though their intensity and specific manifestations (such as publication 
+norms, funding models and the role of monographs versus articles) 
+vary across disciplines.
+The costs of precarity for ECRs
+Structural precarity and power asymmetries
+Global researcher density has expanded unevenly, showing notable 
+differences in the number of researchers and available funding by 
+country (Fig. 1). Concomitantly, the number of PhD graduates and 
+postdoctoral researchers (often in short-term fellowships with rigid age 
+limits and little autonomy) has grown much faster than the availability 
+of stable positions, creating chronic under-employment16,27,31. Rising 
+standards and reduced resources have further delayed recruitment, 
+=== PAGE 3 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+Psychological consequences
+Chronic stress, burnout, impostor syndrome and mental health disor-
+ders are commonly reported among ECRs, with estimated prevalence 
+rates exceeding those in the general population, leading some to state 
+that academia faces a mental health crisis54– 56. More than one third of 
+PhD students report suffering from depression syndromes and one 
+third from anxiety56, with rates that persist through later career stages57. 
+While also being in the most prolific (and highly competitive) period 
+of their academic careers58, ECRs face inequality and instability in both 
+their working and personal lives. This may coincide with major life 
+events (such as parenthood, first professional experience after the PhD 
+or long-distance relocation), further amplifying psychological distress, 
+inequality and attrition. As a consequence of these pressures, ECRs may 
+also be more vulnerable to questionable or undisclosed uses of cheating 
+possibilities, such as those provided by artificial intelligence (AI) (for 
+example, superficial writing engagements, automation of analysis or 
+unverified citations). Such practices constitute academic misconduct, 
+which is ethically unacceptable and can cause error and/or retraction 
+60 °S
+40 °S
+20 °S
+0°
+20 °N
+40 °N
+60 °N
+100 1,000 10,000
+Researchers per million inhabitants
+0°
+0.03 0.10 0.30 1.00 3.00
+Expenditure (% of GDP)
+a
+b
+60 °N
+40 °N
+20 °N
+20 °S
+40 °S
+60 °S
+Fig. 1 | Global distribution of researchers and expenditure on research and 
+development. a, Number of researchers (full-time equivalent, including those 
+in public institutions and private companies) per million inhabitants by country 
+in 2024. b, Gross domestic expenditure on research and development as a 
+percentage of gross domestic product (GDP) by country in 2024. Data from 
+the UNESCO Institute for Statistics (UIS) (https://databrowser.uis.unesco.org/
+browser); data extracted January 2025.
+=== PAGE 4 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+of published articles59–61 . Meanwhile, modern proposal requirements 
+increase pressure on the moral fabric of ECRs by expecting the inte-
+gration of multiple state-of-the-art elements and buzzwords (such as 
+‘artificial intelligence’ , ‘extensive outreach’ , ‘citizen science’ , ‘multidis-
+ciplinarity’ , ‘transformative change’ and ‘complex data-management 
+plans’), rarely with corresponding increases in resources. This encour-
+ages strategic overselling and narrative optimization at the expense 
+of conceptual rigour, while undervaluing essential non-research con-
+tributions such as collaboration, mentoring, education and public 
+engagement, despite their vital role in academia and the science–soci-
+ety nexus62,63. Coupled with expectations of high productivity and rapid 
+PhD completion (3–4 years), these dynamics risk converting educa -
+tion into workflow training, eroding intangible intellectual skills and 
+exposing ECRs to burnout and psychological strain, particularly when 
+projects are pursued under compressed timelines64. These institutional 
+pressures may be embedded within broader political and cultural cli-
+mates that are openly sceptical of and/or hostile towards some forms 
+of scientific expertise. Such anti-science ideologies can translate into 
+abrupt withdrawal of funding, institutional instability and heightened 
+precarity for research teams, adding an additional layer of uncertainty 
+and psychological burden across career stages65,66.
+Structural filters that suppress novelty
+Dominant paradigms are often reinforced by institutional mechanisms, 
+such as funding schemes, publications and evaluation criteria, which 
+can make it difficult for alternative perspectives to gain visibility and 
+credibility. These could be reformed to encourage creativity—for 
+instance, by introducing longer grant cycles and novelty-weighted 
+funding criteria, reducing reliance on journal prestige and article pro-
+cessing charges (APCs), and training peer reviewers to better recognize 
+high-risk, high-reward ideas.
+Peer review as a filtering mechanism
+Peer review is often portrayed as a cornerstone of scientific quality con-
+trol, yet we and others have argued that it may disadvantage conceptual 
+novelty1,67. Originally an internal vetting process to protect a learned 
+society’s reputation in the seventeenth to eighteenth centuries, it devel-
+oped into systematic external refereeing in the nineteenth century for 
+confidential editorial advice and reputational risk management. After 
+World War II, and especially from the 1970s onwards, it became framed 
+as a marker of scientific legitimacy to manage growing submissions 
+and distribute gatekeeping across expert communities68. For much of 
+the twentieth century, journals were handled by recognized experts 
+capable of in-depth assessment, but rising manuscript volumes led 
+to editorial responsibilities being increasingly subcontracted to col-
+legial researchers69. In its current form, peer review often operates 
+under conditions of severe workload, largely on a voluntary basis and 
+with limited incentives, as many academics lack sufficient time or the 
+expertise required70. Under such conditions, reviewers may ration-
+ally prioritize methodological clarity and conformity to established 
+frameworks over conceptual risk71. This occurs as journals increasingly 
+struggle to recruit qualified experts45, shifting review responsibilities 
+to less experienced researchers72. The resulting variability and limited 
+constructiveness of feedback offer little guidance for improvement73, 
+penalizing ECRs for having limited prior project acquisition experi-
+ence and affecting their scientific aptitude, productivity and career 
+advancement74– 76.
+Under the above conditions, peer review can deviate from expert 
+review and may be losing its capacity to nurture creativity by reinforc-
+ing conservative selection. ECRs, and especially PhDs, who are often 
+required to have published a number of papers to obtain their degree, 
+can be constrained by delays in the review process77. Meanwhile, the 
+anticipation of prestige-based rejection may lead many researchers 
+(especially those in precarious positions, which are common among 
+ECRs) to abandon, soften or reframe unconventional ideas before 
+submission for conformity purposes, even in the absence of explicit 
+rejection, or to resort to submission to lower-impact or lower-quality 
+journals 78. Over time, such anticipatory adaptation risks creating 
+a feedback loop in which reviewers encounter progressively fewer 
+high-variance submissions, reinforcing conservative norms within dis-
+ciplines and generating a Matthew effect that advantages established 
+researchers while disadvantaging others79,80. Perhaps as a consequence 
+of these dynamics, we see evidence of uneven funding and publication 
+outcomes across groups and career stages81– 83, widespread dissatisfac-
+tion with review processes84– 86 and a disconnect between peer reviewer 
+assessments and the citation impact of published papers87–89 .
+Journal prestige, APCs and signalling
+In our experience of contemporary academic culture, there is a wide-
+spread perception that the quantity of research outweighs conceptual 
+or methodological quality. This may incentivize researchers to prior-
+itize output volume over genuine scientific contribution and may lead 
+some to conflate research impact, research quality and a journal’s bib-
+liometric prestige, despite substantial evidence that prestige metrics 
+are poor predictors of reliability or long-term impact90,91. Yet, at initial 
+career stages, researchers are particularly well positioned to engage 
+in small-scale, methodologically traditional studies that rarely lead to 
+immediate breakthroughs or high-impact publications but are essential 
+for building the empirical foundations of future advances. However, 
+the limited recognition of such foundational work within prevailing 
+incentive structures discourages its pursuit, despite its importance for 
+skill development, baseline data generation and the identification of 
+patterns that may later inspire novel research directions.
+The exponential growth of journals, including predatory and 
+mega-journals, is stretching editorial and review capacities and may be 
+contributing to rising volumes of low-quality or incremental output91,92. 
+APCs and journal prestige further reinforce conservative strategies by 
+privileging well-resourced institutions and countries, while evaluation 
+systems that prioritize impact factors and journal quartiles exacer -
+bate financial asymmetries that stratify publication pathways, embed 
+inequalities in visibility and career progression, drain research budgets 
+and constrain capable ECRs. Even when high-prestige publications are 
+secured, they often fail to translate into improved institutional support 
+or security, and in extreme cases the cumulative cost of open-access 
+publishing can approach an ECR’s annual salary93– 97. Thus, while open 
+access is often framed as a moral imperative to resolve the restrictions 
+on knowledge exchange, access barriers alone do not fully explain con-
+temporary inequalities in scientific communication95. Many research-
+ers, students and non-academics can obtain articles through direct 
+author contact, legal open-access repositories, institutional libraries 
+or alternative, possibly illegal, means, while greater recognition of 
+preprints and non-commercial repositories could reduce depend -
+ence on expensive publishing models 98,99. At the same time, paywall 
+systems can restrict information access for most researchers, as exem-
+plified by the Centre for Agriculture and Bioscience International100. 
+Finally, some organizations promote or require open-access policies 
+(for example, the European Union). T o comply with this, many com-
+mercial publishers now offer pay-to-publish open-access models, 
+which create a barrier to researchers from under-resourced settings95, 
+transferring substantial funds from public to private sectors and, 
+in some cases, between socio-economic regions 101. Concerns about 
+the misuse of journal-based metrics have been formally codified in 
+research-assessment reform statements such as the Declaration on 
+Research Assessment and the Leiden Manifesto102,103, although their 
+implementation is still a challenge104.
+Inequality as a constraint
+Creativity must be nurtured throughout time, as it can be con -
+strained not only at the individual level but also structurally and 
+geographically1,101. For instance, high-income countries, mostly in the 
+=== PAGE 5 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+global north, produce a disproportionate share of scientific publica-
+tions and dominate research funding despite comprising less than 20% 
+of the global population105,106. At the level of research groups, larger 
+groups tend to prioritize proven track records (often seen as ‘safe bets’) 
+and incremental research over creative potential and risky endeavours, 
+leaving little room for exploratory phases or productive failure71,107. 
+Smaller groups, by contrast, may produce slower but more disrup-
+tive and innovative ideas, yet struggle to secure sufficient funding to 
+realize these ambitions107. Over time, these mechanisms reproduce 
+inequality and weaken the long-term vitality of the scientific system by 
+constricting opportunities for innovation and renewal34,108. This imbal-
+ance extends beyond research groups, as researchers in less resourced 
+or politically constrained environments face additional barriers related 
+to infrastructure, funding stability and language. This is regardless of 
+their creative potential, which further narrows the pool of ideas that 
+shape global scientific narratives35,109. Such structural imbalances are 
+exacerbated by the tendency of highly skilled ECRs to relocate from 
+regions with comparatively limited possibilities to better-funded 
+institutions offering stronger infrastructure, clearer career trajecto-
+ries, competitive remuneration and broader international networks, 
+another form of brain drain110–112 . This dynamic is not confined to the 
+global south113, whereas in the global north, persistent constraints in 
+research funding limit career opportunities and promote local hiring 
+practices that foster ‘academic inbreeding’37 and comparatively slow 
+outward mobility of researchers and graduates114,115, thus reinforcing 
+structural disparities in global knowledge production116.
+Funding architecture
+Increasingly strategic, geography-bound funding priorities tend to 
+privilege thematic alignment over conceptual novelty, reinforcing 
+institutional asymmetries in what research is deemed fundable32,117. 
+Well-funded research groups draw in more students, potentially 
+leading to publishing more research papers, building up reputation 
+and ultimately increasing the potential to secure more funding. Pro-
+grammes that fund ‘excellence’ may affect how one operates in the 
+field, but ultimately, only a small group reaps the rewards, while the 
+remainder bear the extra planning burden, proposal-writing time and 
+mental strain without tangible pay-offs 25,118. For instance, the 2025 
+Marie Skłodowska-Curie Postdoctoral Fellowships call was extremely 
+selective, with a success rate of just 9.6%. Out of 17,066 proposals sub-
+mitted, only 1,610 were ultimately funded (even though 15,836 had 
+been judged worthy of funding), typically requiring evaluation scores 
+above 96% (https://marie-sklodowska-curie-actions.ec.europa.eu/ 
+news/msca-awards-eu4043-million-to-postdoctoral-researchers). 
+These hypercompetitive funding systems may be monopolized by a 
+few big institutions that are capable of attracting more funding and 
+delivering results faster than smaller teams, creating a positive feed-
+back loop in which top institutions concentrate an increasing share 
+of funding (for example, 20% of universities in France acquire 80% of 
+the available funding distributed through the Agence nationale de la 
+recherche: https://tinyurl.com/ycy4mba6)119,120.
+Systemic drift towards incrementalism and 
+pathways to reform
+Contemporary scientific institutions have increasingly adopted an 
+incremental (broadly Popperian) logic of science, optimizing for veri-
+fiable, cumulative advances while structurally disincentivizing the 
+anomaly-driven paradigm shifts emphasized by Kuhn121 (see ref. 43 
+for philosophical context). This drift towards micro-incrementalism 
+risks creating a ‘mirage’ of progress. As fields mature and researchers 
+mine similar datasets, studies increasingly converge on incremental 
+variations rather than meaningful novelty122– 124. Reputational concerns, 
+fears of irreproducibility and AI-driven productivity further discourage 
+bold hypotheses and exploratory research, reinforcing the preference 
+for safe, low-risk outputs21,71,125,126. Hyper-specialization, growing politi-
+cization and metric optimization additionally constrain intellectual 
+space, penalizing heterodoxy, cross-disciplinary ideas and dissent127– 131, 
+while limited professional security and heterodoxy become rationally 
+avoided challenges (Table 1).
+Reversing these trends requires structural reforms because crea-
+tivity in ECRs emerges from systems that tolerate uncertainty, absorb 
+failure and provide protected time for deep work 71,132,133. Large inter-
+national programmes such as the European Research Council have 
+shown that longer grant durations, higher risk tolerance and evalua-
+tion criteria that explicitly reward ambitious, ground-breaking ideas 
+can effectively foster originality among ECRs, despite concentrating 
+large amounts of funding on few researchers. However, scaling such 
+approaches remains challenging due to entrenched evaluation cul -
+tures, resistance from established institutions and political pressures 
+favouring short-term, measurable outputs. While we acknowledge 
+that the majority of existing academic mechanisms were well intended 
+and probably more effective under past conditions, they are no longer 
+suited to contemporary pressures, necessitating urgent cultural and 
+structural reform132,134.
+Reforms could begin with a bottom-up restructuring of 
+peer-review processes in both publishing and fundraising 135,136. For 
+publishing, this includes not only shifting towards community-based 
+publishing fora but also investing more in reviewer training to ensure 
+evaluations are rigorous, fair and attuned to paradigm-shifting poten-
+tial rather than penalizing uncertainty 89. Changes that could further 
+improve fairness and creativity include increasing the weight that 
+peer reviews have in research career evaluations 137,138, mechanisms 
+such as strict filtering of ‘insufficient’ applications, the determination 
+of different requirements at different career stages, partial lotteries 
+at the final evaluation stages to reduce bias139–141  and explicit novelty 
+weighting to prioritize innovative ideas over conservative ones 142. 
+Table 1 | Summary of identified challenges impacting the progress of science
+Challenge Description Impact on the progress of science
+Short-term funding and productivity 
+pressure
+Short funding cycles, publish-or-perish culture, 
+rigid metrics and standardized tools (for example, 
+AI templates)
+Fragments deep inquiry and favours incremental and safe outputs 
+over risky, high-reward ideas, slowing conceptual breakthroughs
+Conservative peer review and 
+journal prestige
+Preference for conformity to established paradigms; 
+high APCs and prestige-based selection
+Reduces the dissemination of novel ideas, reinforces dominant 
+paradigms and excludes diverse or unconventional perspectives
+Geographic, gender and language 
+inequalities
+Creative leeway and visibility largely reserved for 
+well-resourced, established academics
+Narrows the global pool of ideas and talent, limiting epistemic 
+diversity and innovation from underrepresented regions and groups
+Hyper-specialization and 
+metric-driven alignment
+Pressure to align with dominant narratives and 
+optimize for narrow metrics
+Constricts the epistemic space of inquiry, making unconventional 
+breakthroughs harder and reducing interdisciplinary 
+cross-fertilization
+Hierarchical dependencies and 
+early-career trap
+Creativity contingent on supervisor tolerance; ECRs 
+often limited to executing predefined tasks with 
+invisible labour and credit issues
+Externalizes creativity upwards, stifles independent agendas, 
+increases attrition of innovative talent and slows long-term 
+paradigm shifts
+=== PAGE 6 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+Further compromising an unbiased review process means stepping 
+away from the continued use of non-anonymized manuscript submis-
+sions, as evidence indicates that double-blind review can reduce some 
+identity-linked inequities in review outcomes 143,144. While ultimately 
+depending on economic health and government willingness to invest 
+in research and development145, funding allocation should diversify 
+through extended grant cycles that enable sustained exploration and 
+dedicated long-term exploratory grants for high-risk, high-reward 
+projects, without demanding immediate deliverables, thereby shift-
+ing the focus from short-term outputs. Maintaining the same overall 
+budget while disbursing it over longer periods would benefit both 
+creativity and impact and has been shown to reduce per-dollar inef -
+ficiency compared with larger grants146.
+Academic systems must provide more baseline funding to research 
+bodies, allowing them to run long-term ‘slow science’ without constant 
+dependence on smaller projects147. Establishing stable, competitive 
+research-track positions would grant ECRs the security to pursue ambi-
+tious ideas, while decentralizing power through flatter hierarchies and 
+robust oversight mechanisms could curb abuses of authority and foster 
+environments where diverse voices can thrive146,148,149. Furthermore, 
+protecting slow, local and field-intensive research as essential public 
+goods could preserve context-specific methodologies often marginal-
+ized in fast-paced systems150,151. Reducing administrative burdens and 
+non-essential managerial layers would reallocate time and resources 
+towards research and teaching rather than internal processes. More 
+broadly, universities should re-centre on their public mission of edu-
+cation and knowledge production, and evaluation frameworks must 
+distinguish scientific competence from mere productivity by valuing 
+collaboration, caregiving periods and nonlinear trajectories rather than 
+relying on discipline-independent proxies such as raw counts or journal 
+prestige, which incentivize gaming over substantive assessment152.
+Highly creative researchers often secure prestigious projects, 
+publish in top-tier journals and build strong international networks 
+that generate substantial institutional advantages. However, when 
+evaluation frameworks prioritize aggregated institutional outputs over 
+individual contributions, these achievements are redistributed across 
+the organization, diluting performance signals and obscuring the com-
+petencies ostensibly being rewarded. If competence is poorly meas -
+ured and proxy metrics become targets, selection may shift towards 
+those who optimize signalling over substance, and leadership incen-
+tives may amplify adverse selection by favouring non-threatening, 
+metric-oriented hires134,153,154. Such dynamics could lead to cumulative 
+competence dilution at senior levels. Implementing these reforms will 
+require confronting difficult trade-offs, including greater selectivity 
+in PhD training, funding with lower budgets but longer timelines, and 
+new oversight mechanisms to prevent capture of bottom-up processes. 
+While no perfect system exists, programmes such as the European 
+Research Council demonstrate that it is possible to combine rigorous 
+evaluation with substantially higher tolerance for risk and failure. 
+Treating research as a public good does not mean blanket funding, but 
+rather stable baseline support combined with competitive streams 
+that explicitly reward originality and long-term inquiry. Addressing 
+global inequities would similarly demand targeted capacity-building 
+for under-resourced regions, even if this reduces resources available 
+to established centres. Critically needed changes (Table 2) must also 
+empower ECRs with protected freedom from precarity and conform-
+ity pressures, providing early access to permanent employment or to 
+long-term contracts such as tenure tracks to actively foster intellectual 
+defiance, blue-sky ideation and failure-tolerant experimentation. At the 
+same time, the socio-economic sustainability of APC-dependent pub-
+lishing models requires reassessment, as escalating costs divert public 
+research funds away from personnel and long-term capacity building.
+Conclusion
+Academia has never been flawless155, yet prevailing dynamics introduce 
+novel issues and exacerbate long-standing ones, disproportionately 
+affecting ECRs. Systems that reward speed, branding and low-risk incre-
+mentalism over depth and rigour select for strategic compliance rather 
+than scientific creativity. If this trend continues, the consequences 
+are predictable: increased precarity, diminished intellectual diver-
+sity and slower conceptual progress, eroding precisely the qualities 
+that modern academia nominally praises. Moreover, if evaluative 
+frameworks continue to privilege quantitative output metrics over 
+qualitative contributions, one effect will be selection for quantity, 
+not quality, giving an illusion of fast scientific progress. The remedy is 
+structural, not motivational: stable career pathways, longer explora-
+tory funding156, and evaluation and peer review criteria that explicitly 
+weight conceptual novelty (substantive, high-risk ideas that challenge 
+existing paradigms) over performative novelty (superficial claims of 
+innovation designed mainly to impress). Such criteria could include 
+novelty-weighted scoring rubrics and reviewer guidelines that reward 
+well-justified risk-taking. Our argument is therefore not for a funda-
+mental epistemological shift in how scientific progress is conceptual-
+ized, but for structural reforms that restore the conditions (autonomy, 
+time and tolerance of failure) necessary for ECRs to pursue ambitious, 
+paradigm-challenging research within existing frameworks of scientific 
+inquiry. With these changes, academia can become a system in which 
+ECRs are able not only to survive but also to prosper through the prac-
+tice of bold, rigorous and transformative science.
+References
+1. Haubrock, P. J. & Everts, T. Can there be another Einstein? Creat. 
+Res. J https://doi.org/10.1080/10400419.2025.2608301 (2025).
+2. Nature Custom Media & Max Planck Gesellschaft. Research 
+freedom and unique conditions enable scientists to shine. Nature 
+Portfolio https://doi.org/10.1038/d42473-025-00334-0 (2025).
+Table 2 | Summary of key structures and systems that can foster creativity among ECRs, including responsible actors, 
+implementation pathways and expected benefits
+Reform Responsible actors How/where to implement Anticipated impacts
+Tolerate uncertainty 
+and failure
+Funding agencies,  
+universities, journals
+Remove punitive metrics for negative results; reform 
+evaluation criteria and peer review guidelines to value 
+well-justified risk-taking
+Reduces risk aversion, encourages bold 
+hypotheses and increases the likelihood of 
+paradigm-shifting discoveries
+Protect time for  
+deep work
+Universities, department  
+heads, funders
+Provide stable baseline funding, reduce 
+administrative burdens, introduce humane evaluation 
+metrics and protect downtime for reflection
+Enables sustained, creative thinking; 
+improves retention of innovative ECRs and 
+quality of long-term research
+Reduce biases and 
+reward novelty
+Journals, funding agencies, 
+peer reviewers
+Introduce novelty-weighted scoring, double-blind 
+review, reviewer training and balanced assessment of 
+methodological rigour alongside originality
+Broadens epistemic diversity, improves 
+fairness and allows unconventional ideas to 
+compete on merit
+Diversify grant cycles Funding agencies (for example, 
+the European Research 
+Council, national funders)
+Offer parallel short-, medium- and long-term 
+funding tracks with dedicated streams for high-risk, 
+high-reward exploratory projects
+Supports cumulative, iterative inquiry; 
+enables true exploration rather than 
+short-term deliverables, accelerating 
+scientific progress
+=== PAGE 7 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+3. Partha, D. & David, P. A. Toward a new economics of science. Res. 
+Policy 23, 487–521 https://doi.org/10.1016/0048-7333(94)01002-1 
+(1994).
+4. Elbanna, S. & Child, J. From ‘publish or perish’ to ‘publish for 
+purpose’. Eur. Manage. Rev. 20, 614–618 https://doi.org/10.1111/ 
+emre.12618 (2023).
+5. Horta, H. & Li, H. in Handbook of Public Funding of Research (eds 
+Lepori, B. et al.) 322–338 https://doi.org/10.4337/9781800883086. 
+00027 (Edward Elgar, 2023).
+6. Mocanu, M., Rusu, V. D. & Bibiri, A.-D. Competing for research 
+funding: key elements impacting the evaluation of grant 
+proposal. Heliyon 10, e36015 https://doi.org/10.1016/j.heliyon. 
+2024.e36015 (2024).
+7. Pergl, J. et al. Need for routine tracking of biological invasions. 
+Conserv. Biol. 34, 1311–1314 https://doi.org/10.1111/cobi.13445 
+(2020).
+8. Hanson, M. A., Barreiro, P. G., Crosetto, P. & Brockington, D. The 
+strain on scientific publishing. Quant. Sci. Stud. 5, 823–843 
+https://doi.org/10.1162/qss_a_00327 (2024).
+9. Foster, J. G., Rzhetsky, A. & Evans, J. A. Tradition and innovation 
+in scientists’ research strategies. Am. Sociol. Rev. 80, 875–908 
+https://doi.org/10.1177/0003122415601618 (2015).
+10. Tijssen, R. J. W. Is the commercialisation of scientific research 
+affecting the production of public knowledge? Res. Policy 33, 
+709–733 https://doi.org/10.1016/j.respol.2003.11.002 (2004).
+11. Jones, B. F., Wuchty, S. & Uzzi, B. Multi-university research teams: 
+shifting impact, geography, and stratification in science. Science 
+322, 1259–1262 https://doi.org/10.1126/science.1158357 (2008).
+12. Rhodes, C. & Linnenluecke, M. K. The junkification of research. 
+Organization https://doi.org/10.1177/13505084251399576  
+(2025).
+13. Edwards, M. A. & Roy, S. Academic research in the 21st century: 
+maintaining scientific integrity in a climate of perverse incentives 
+and hypercompetition. Environ. Eng. Sci. 34, 51–61 https://doi.org/ 
+10.1089/ees.2016.0223 (2017).
+14. Ferreira, A. & Quesado Delgado, J. The precarity paradox: the 
+precarity-driven inefficiencies of research at a public university. 
+Sci. Public Policy 51, 297–308 https://doi.org/10.1093/scipol/ 
+scad075 (2024).
+15. Lawson, C., Geuna, A. & Finardi, U. The funding–productivity–
+gender nexus in science, a multistage analysis. Res. Policy 50, 
+104182 https://doi.org/10.1016/j.respol.2020.104182 (2021).
+16. O’Connor, P., Le Feuvre, N. & Sümer, S. Cross-national variations 
+in postdoc precarity: an inquiry into the role of career structures 
+and research funding models. Policy Futures Educ. 22, 606–624 
+https://doi.org/10.1177/14782103231177483 (2024).
+17. Van Noorden, R. Open access: the true cost of science publishing. 
+Nature 495, 426–429 https://doi.org/10.1038/495426a (2013).
+18. Johann, D., Neufeld, J., Thomas, K., Rathmann, J., & Rauhut, H. The 
+impact of researchers’ perceived pressure on their publication 
+strategies. Res. Eval https://doi.org/10.1093/reseval/rvae011 
+(2024).
+19. González Flores, J. E. Academic fatigue of young researchers:  
+the price of the publish or perish culture. Cureus 17, e97223 
+https://doi.org/10.7759/cureus.97223 (2025).
+20. Heffernan, T. & Smithers, K. The rise of the pro-sessional: 
+precarious employees taking on complex and faculty-critical 
+roles. Discourse 47, 126–137 https://doi.org/10.1080/01596306.20 
+25.2493862 (2026).
+21. Crepaldi, M., Fusi, G., Iannello, P. & Rusconi, M. L. The bidirectional 
+relationship between risk and creativity: a systematic review. TPM 
+Test. Psychom. Methodol. Appl. Psychol. 31, 41–57 (2024).
+22. Davidovitch, N. & Cohen, E. Administrative roles in academia—
+potential clash with research output and teaching quality? 
+Cogent Educ. 11, 2357914 (2024).
+23. Lou, W., Zhao, Y., Chen, Y. & Zhang, J. Research or management? 
+An investigation of the impact of leadership roles on the research 
+performance of academic administrators. Scientometrics 117, 
+191–209 https://doi.org/10.1007/s11192-018-2842-3 (2018).
+24. Jamali, H. R. et al. Early career researchers and their authorship 
+and peer review beliefs and practices: an international study. 
+Learn. Publ. 33, 142–152 https://doi.org/10.1002/leap.1283 
+(2020).
+25. de Winde, C. M. et al. Towards inclusive funding practices for 
+early career researchers. J. Sci. Policy Gov. 18 https://doi.org/ 
+10.38126/JSPG180105 (2021).
+26. Cyranoski, D., Gilbert, N., Ledford, H., Nayar, A. & Yahia, M. 
+Education: the PhD factory. Nature 472, 276–279 https://doi.org/ 
+10.1038/472276a (2011).
+27. Larson, R. C., Ghaffarzadegan, N. & Xue, Y. Too many PhD 
+graduates or too few academic job openings: the basic 
+reproductive number R0 in academia. Syst. Res. Behav. Sci. 31, 
+745–750 https://doi.org/10.1002/sres.2210 (2014).
+28. Hoskins, K. & Moreau, M.-P. From PhD to ECR: supervisory 
+relationships, precarity and the temporal regimes of academia. 
+Access 11, 47–62 (2023).
+29. Hunter, P. It is not just about money. EMBO Rep. 21, 
+EMBR202050165 https://doi.org/10.15252/embr.202050165 
+(2020).
+30. Uzzi, B., Mukherjee, S., Stringer, M. & Jones, B. Atypical 
+combinations and scientific impact. Science 342, 468–472 
+https://doi.org/10.1126/science.1240474 (2013).
+31. Wang, Y., Jones, B. F. & Wang, D. Early-career setback and future 
+career impact. Nat. Commun. 10, 4331 (2019).
+32. Kuhnt, M., Müßig, P. & Reitz, T. There are alternatives: models for 
+sustainable employment structures in the German system of 
+higher education. Front. Res. Metr. Anal. 9, 1301354 https://doi.org/ 
+10.3389/frma.2024.1301354 (2024).
+33. Piret, G. et al. A call to action to address escalating global threats 
+to academic research. Innovation 6, 100758 https://doi.org/ 
+10.1016/j.xinn.2024.100758 (2025).
+34. Stephan, P. How Economics Shapes Science (Harvard Univ. Press, 
+2015).
+35. Allesina, S. Measuring nepotism through shared last names: the 
+case of Italian academia. PLoS ONE 6, e21160 https://doi.org/ 
+10.1371/journal.pone.0021160 (2011).
+36. Abramo, G., D’Angelo, C. A. & Rosati, F. Career advancement and 
+scientific performance in universities. Scientometrics 98, 891–907 
+https://doi.org/10.1007/s11192-013-1075-8 (2014).
+37. Grilli, J. & Allesina, S. Last name analysis of mobility, gender 
+imbalance, and nepotism across academic systems. Proc. Natl 
+Acad. Sci. USA 114, 7600–7605 https://doi.org/10.1073/pnas. 
+1703513114 (2017).
+38. Pezzoni, M., Sterzi, V. & Lissoni, F. Career progress in centralized 
+academic systems: social capital and institutions in France and 
+Italy. Res. Policy 41, 704–719 https://doi.org/10.1016/j.respol. 
+2011.12.009 (2012).
+39. Longman, R. in Starting Academia Differently (eds Deal, N. M. & 
+Williams, K. S.) 215–222 (Routledge, 2026).
+40. Fricker, M. Epistemic Injustice https://doi.org/10.1093/acprof:o
+so/9780198237907.001.0001 (Oxford Univ. Press, 2007).
+41. Kwok, L. S. The White Bull effect: abusive coauthorship and 
+publication parasitism. J. Med. Ethics 31, 554–556 https://doi.org/ 
+10.1136/jme.2004.010553 (2005).
+42. Merton, R. K. The Matthew effect in science. Science 159, 56–63 
+https://doi.org/10.1126/science.159.3810.56 (1968).
+43. Haubrock, P. Supplementary information: how contemporary 
+academic structures constrain scientific creativity and hold back 
+early career researchers. OSF https://doi.org/10.17605/OSF.IO/ 
+FPGMA (2026).
+=== PAGE 8 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+44. Bégin-Caouette, O., Jansson, J. & Beaupré-Lavallée, A. The 
+perceived contribution of early-career researchers to research 
+production in Nordic higher education systems. High. Educ. Policy 
+33, 777–798 https://doi.org/10.1057/s41307-018-0125-5 (2020).
+45. Meyerson, L. A., Suzzi-Simmons, A. & Simberloff, D. Quantifying 
+reviewer declines in scientific publishing: twenty-one years of 
+data from biological invasions 2002–2024. Biol. Invasions 27, 223 
+https://doi.org/10.1007/s10530-025-03679-1 (2025).
+46. Woelert, P. Administrative burden in higher education institutions: 
+a conceptualisation and a research agenda. J. High. Educ. Policy 
+Manage. 45, 409–422 https://doi.org/10.1080/136008 
+0X.2023.2190967 (2023).
+47. Hursh, D. & Wall, A. F. Repoliticizing higher education assessment 
+within neoliberal globalization. Policy Futures Educ. 9, 560–572 
+https://doi.org/10.2304/pfie.2011.9.5.560 (2011).
+48. Williamson, T. W., Hughes, E. S. & Head, P. L. An exploration of 
+administrative bloat in American higher education. Plann. High. 
+Educ. 46, 15–22 (2018).
+49. Cech, E. A. & Blair-Loy, M. The changing career trajectories  
+of new parents in STEM. Proc. Natl Acad. Sci. USA 116, 4182–4187 
+https://doi.org/10.1073/pnas.1810862116 (2019).
+50. Moschella-Smith, E. A. & Potter, S. J. Impacts of COVID-19 on 
+research productivity: disruptions to the pipeline for early  
+career researchers. Soc. Sci. 13, 595 https://doi.org/10.3390/ 
+socsci13110595 (2024).
+51. Ioannidis, J. P. A., Collins, T. A. & Baas, J. Evolving patterns of 
+extreme publishing behavior across science. Scientometrics 129, 
+5783–5796 https://doi.org/10.1007/s11192-024-05117-w (2024a).
+52. Ioannidis, J. P. & Maniadis, Z. Quantitative research assessment: 
+using metrics against gamed metrics. Intern. Emerg. Med. 19, 
+39–47 (2024b).
+53. Nicholas, D. et al. Early career researchers and their publishing 
+and authorship practices. Learn. Publ. 30, 205–217 https://doi. 
+org/10.1002/leap.1102 (2017).
+54. Bergvall, S., Fernström, C., Ranehill, E. & Sandberg, A. The impact 
+of PhD studies on mental health—a longitudinal population study.  
+J. Health Econ. 104, 103070 https://doi.org/10.1016/j.jhealeco. 
+2025.103070 (2025).
+55. Cilli, E., Ranieri, J., Guerra, F. & Di Giacomo, D. Early career 
+researchers and mental health: observational study of challenge 
+and wellbeing. Health Sci. Rep. 6, e1649 https://doi.org/10.1002/ 
+hsr2.1649 (2023).
+56. Evans, T. M., Bira, L., Gastelum, J. B., Weiss, L. T. & Vanderford, N. 
+L. Evidence for a mental health crisis in graduate education. Nat. 
+Biotechnol. 36, 282–284 https://doi.org/10.1038/nbt.4089 (2018).
+57. CACTUS Mental Health Survey Team and Collaborators. Joy 
+and Stress Triggers: A Global Survey on Mental Health among 
+Researchers (CACTUS Mental Health Survey Report, 2020).
+58. Lawrence, P. A. The last 50 years: mismeasurement and 
+mismanagement are impeding scientific research. Curr. Top. 
+Dev. Biol. 116, 617–631 https://doi.org/10.1016/bs.ctdb.2015.12.013 
+(2016).
+59. Grieneisen, M. L. & Zhang, M. A comprehensive survey of 
+retracted articles from the scholarly literature. PLoS ONE 7, 
+e44118 https://doi.org/10.1371/journal.pone.0044118 (2012).
+60. Sharma, K. Team size and retracted citations reveal the patterns 
+of retractions from 1981 to 2020. Scientometrics 126, 8363–8374 
+https://doi.org/10.1007/s11192-021-04125-4 (2021).
+61. Shi, L. et al. Mapping retracted articles and exploring regional 
+differences in China, 2012–2023. PLoS ONE 19, e0314622 
+https://doi.org/10.1371/journal.pone.0314622 (2024).
+62. Gestson, S. & Barner, M. How engineering faculty define and value 
+the impact of university service. In 2025 ASEE Annual Conference 
+& Exposition Proceedings https://doi.org/10.18260/1-2-56704 
+(ASEE, 2025).
+63. McKiernan, E. C. Use of the Journal Impact Factor in academic 
+review, promotion, and tenure evaluations. eLife 8, e47338 
+https://doi.org/10.7554/elife.47338 (2019).
+64. Jaremka, L. M. et al. Common academic experiences no one talks 
+about: repeated rejection, impostor syndrome, and burnout. 
+Perspect. Psychol. Sci. 15, 519–543 https://doi.org/10.1177/ 
+1745691619898848 (2020).
+65. Jacques, P. J. & Dunlap, R. E. Foundations of climate change 
+denial: anti-environmentalism and anti-science. PLoS ONE 20, 
+e0334544 https://doi.org/10.1371/journal.pone.0334544 (2025).
+66. Oreskes, N. & Conway, E. M. From anti-government to anti-science: 
+why conservatives have turned against science. Daedalus 151, 
+98–123 https://doi.org/10.1162/daed_a_01946 (2022).
+67. Stanford, P. K. Unconceived alternatives and conservatism in 
+science: the impact of professionalization, peer-review, and Big 
+Science. Synthese 196, 3915–3932 https://doi.org/10.1007/ 
+s11229-015-0856-4 (2019).
+68. Baldwin, M. in Encyclopedia of the History of Science  
+https://doi.org/10.34758/7s4y-5f50 (Carnegie Mellon University 
+Libraries Publishing Service, 2019).
+69. Adam, D. The peer-review crisis: how to fix an overloaded system. 
+Nature 644, 24–27 https://doi.org/10.1038/d41586-025-02457-2 
+(2025).
+70. Aczel, B., Szaszi, B. & Holcombe, A. O. A billion-dollar donation: 
+estimating the cost of researchers’ time spent on peer review. 
+Res. Integr. Peer Rev. 6, 14 https://doi.org/10.1186/s41073-021- 
+00118-2 (2021).
+71. Schwartz, M. A. The importance of stupidity in scientific 
+research. J. Cell Sci. 121, 1771 https://doi.org/10.1242/jcs.033340 
+(2008).
+72. Emanuele, E. & Minoretti, P. The peer review crisis demands 
+radical reform: why reviewers should become paid professional 
+referees. Cureus 17, e87817 https://doi.org/10.7759/cureus.87817 
+(2025).
+73. Gallo, S. A., Schmaling, K. B., Thompson, L. A. & Glisson, S. R. 
+Grant review feedback: appropriateness and usefulness. Sci. Eng. 
+Ethics 27, 18 https://doi.org/10.1007/s11948-021-00295-9 (2021).
+74. Bol, T., de Vaan, M. & van de Rijt, A. The Matthew effect in  
+science funding. Proc. Natl Acad. Sci. USA 115, 4887–4890  
+https://doi.org/10.1073/pnas.1719557115 (2018).
+75. Langfeldt, L., Reymert, I. & Svartefoss, S. M. Distrust in grant  
+peer review—reasons and remedies. Sci. Public Policy 51, 28–41 
+https://doi.org/10.1093/scipol/scad051 (2024).
+76. Silbiger, N. J. & Stubler, A. D. Unprofessional peer reviews 
+disproportionately harm underrepresented groups in STEM. PeerJ 
+7, e8247 https://doi.org/10.7717/peerj.8247 (2019).
+77. Fiorillo, L. & Mehta, V. Accelerating editorial processes in 
+scientific journals: leveraging AI for rapid manuscript review. Oral 
+Oncol. Rep. 10, 100511 https://doi.org/10.1016/j.oor.2024.100511 
+(2024).
+78. Wang, J., Veugelers, R. & Stephan, P. Bias against novelty in 
+science: a cautionary tale for users of bibliometric indicators. Res. 
+Policy 46, 1416–1436 (2017).
+79. Laudel, G. The ‘quality myth’: promoting and hindering conditions 
+for acquiring research funds. High. Educ. 52, 375–403 https://doi. 
+org/10.1007/s10734-004-6414-5 (2006).
+80. Chu, J. S. & Evans, J. A. Slowed canonical progress in large  
+fields of science. Proc. Natl Acad. Sci. USA 118, e2021636118 
+(2021).
+81. Sheltzer, J. M. & Smith, J. C. Elite male faculty in the life sciences 
+employ fewer women. Proc. Natl Acad. Sci. USA 111, 10107–10112 
+https://doi.org/10.1073/pnas.1403334111 (2014).
+82. Taffe, M. A. & Gilpin, N. W. Racial inequity in grant funding  
+from the US National Institutes of Health. eLife 10, e65697  
+https://doi.org/10.7554/elife.65697 (2021).
+=== PAGE 9 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+83. Witteman, H. O., Hendricks, M., Straus, S. & Tannenbaum, C. Are 
+gender gaps due to evaluations of the applicant or the science? 
+A natural experiment at a national funding agency. Lancet 393, 
+531–540 https://doi.org/10.1016/S0140-6736(18)32611-4 (2019).
+84. Gillies, D. Selecting applications for funding: why random choice 
+is better than peer review. RT J. Res. Policy Eval. https://doi.org/ 
+10.13130/2282-5398/3834 (2014).
+85. Kuehn, B. M. Peer review: rooting out bias. eLife 6, e32014  
+https://doi.org/10.7554/elife.32014 (2017).
+86. Vesper, I. Peer reviewers unmasked: largest global survey reveals 
+trends. Nature https://doi.org/10.1038/d41586-018-06602-y 
+(2018).
+87. Danthi, N., Wu, C. O., Shi, P. & Lauer, M. Percentile ranking and 
+citation impact of a large cohort of National Heart, Lung, and 
+Blood Institute–funded cardiovascular R01 grants. Circ. Res. 
+114, 600–606 https://doi.org/10.1161/CIRCRESAHA.114.302656 
+(2014).
+88. Pier, E. L. et al. Low agreement among reviewers evaluating 
+the same NIH grant applications. Proc. Natl Acad. Sci. USA 115, 
+2952–2957 https://doi.org/10.1073/pnas.1714379115 (2018).
+89. Scheiner, S. M. & Bouchie, L. M. The predictive power of NSF 
+reviewers and panels. Front. Ecol. Environ. 11, 406–407  
+https://doi.org/10.1890/13.WB.017 (2013).
+90. Arabi, S., Ni, C. & Hutchins, B. I. Most researchers would receive 
+more recognition if assessed by article-level metrics than by 
+journal-level metrics. PLoS Biol. 23, e3003532 https://doi.org/ 
+10.1371/journal.pbio.3003532 (2025).
+91. Brembs, B. Prestigious science journals struggle to reach even 
+average reliability. Front. Hum. Neurosci. 12, 37 https://doi.org/ 
+10.3389/fnhum.2018.00037 (2018).
+92. Richtig, G., Berger, M., Lange-Asschenfeldt, B., Aberer, W. & 
+Richtig, E. Problems and challenges of predatory journals. J. Eur. 
+Acad. Dermatol. Venereol. 32, 1441–1449 https://doi.org/10.1111/ 
+jdv.15039 (2018).
+93. Acharjee, A. & Acharjee, P. in Scientific Publishing Ecosystem  
+(eds Joshi, P. B. et al.) 79–104 https://doi.org/10.1007/978-981-97- 
+4060-4_5 (Springer Nature Singapore, 2024).
+94. Alizon, S. Inexpensive research in the golden open-access  
+era. Trends Ecol. Evol. 33, 301–303 https://doi.org/10.1016/ 
+j.tree.2018.02.005 (2018).
+95. Huais, P. Y. et al. Payment-based open access is biasing  
+scientific participation from the global south in ecology. Oikos 
+https://doi.org/10.1002/oik.11867 (2026).
+96. Mekonnen, A. et al. Can I afford to publish? A dilemma for African 
+scholars. Ecol. Lett. 25, 711–715 https://doi.org/10.1111/ele.13949 
+(2022).
+97. Receveur, A. et al. David versus Goliath: early career researchers 
+in an unethical publishing system. Ecol. Lett. 27, e14395  
+https://doi.org/10.1111/ele.14395 (2024).
+98. González, L. El verdadero coste de los Acuerdos Transformativos. 
+An. Quím. RSEQ 119, 298 https://doi.org/10.62534/rseq.aq.1950 
+(2023).
+99. Ye, Q. & Hong, H. ResearchGate, an effective way to improve the 
+academic dissemination for highly cited researchers? J. Zhejiang 
+Univ. Sci. A 20, 375–379 https://doi.org/10.1631/jzus.A1900140 
+(2019).
+100. CABI. Invasive Species Compendium https://www.cabi.org/what- 
+we-do/invasive-species/ (CAB International, 2023).
+101. Haubrock, P. J. et al. Intertwined threats of nationalized nature 
+and privatized ecological research for global biodiversity 
+conservation. Conserv. Biol https://doi.org/10.1111/cobi.70228 
+(2026).
+102. Hicks, D., Wouters, P., Waltman, L., de Rijcke, S. & Rafols, I. 
+Bibliometrics: the Leiden Manifesto for research metrics. Nature 
+520, 429–431 https://doi.org/10.1038/520429a (2015).
+103. American Society of Cell Biology. San Francisco Declaration on 
+Research Assessment (DORA) https://sfdora.org/ (San Francisco 
+Declaration on Research Assessment, 2012).
+104. Gagliardi, A. R. et al. DORA-compliant measures of research 
+quality and impact to assess the performance of researchers 
+in biomedical institutions: review of published research, 
+international best practice and Delphi survey. PLoS ONE 18, 
+e0270616 https://doi.org/10.1371/journal.pone.0270616 (2023).
+105. Collyer, F. M. Global patterns in the publishing of academic 
+knowledge: global north, global south. Curr. Sociol. 66, 56–73 
+(2018).
+106. Petersen, O. H. Inequality of research funding between different 
+countries and regions is a serious problem for global science. 
+Function 2, zqab060 (2021).
+107. Wu, L., Wang, D. & Evans, J. A. Large teams develop and small 
+teams disrupt science and technology. Nature 566, 378–382 
+https://doi.org/10.1038/s41586-019-0941-9 (2019).
+108. Sarewitz, D. The pressure to publish pushes down quality. Nature 
+533, 147–147 https://doi.org/10.1038/533147a (2016).
+109. Clavero, M. “Awkward wording. Rephrase”: linguistic injustice in 
+ecological journals. Trends Ecol. Evol. 25, 552–553 https://doi.org/ 
+10.1016/j.tree.2010.07.001 (2010).
+110. Becker, S. O., Ichino, A. & Peri, G. How large is the ‘Brain Drain’ 
+from Italy? G. Econ. Ann. Econ. 63, 1–32 (2004).
+111. Morano Foadi, S. Key issues and causes of the Italian brain  
+drain. Innovation 19, 209–223 https://doi.org/10.1080/ 
+13511610600804315 (2006).
+112. Anas, M. U. M. & Wickremasinghe, S. I. Brain drain of the scientific 
+community of developing countries: the case of Sri Lanka. Sci. 
+Public Policy 37, 381–388 https://doi.org/10.3152/03023421 
+0X501199 (2010).
+113. Docquier, F., Lohest, O. & Marfouk, A. Brain drain in developing 
+countries. World Bank Econ. Rev. 21, 193–218 https://doi.org/ 
+10.1093/wber/lhm008 (2007).
+114. Cattaneo, M., Malighetti, P. & Paleari, S. The Italian brain drain: 
+cream and milk. High. Educ. 77, 603–622 https://doi.org/10.1007/ 
+s10734-018-0292-8 (2019).
+115. Khan, J. European academic brain drain: a meta-synthesis. Eur. J. 
+Educ. 56, 265–278 (2021).
+116. Ortiga, Y. Y., Chou, M., Sondhi, G. & Wang, J. Academic ‘centres,’ 
+epistemic differences and brain circulation. Int. Migr. 56, 90–105 
+https://doi.org/10.1111/imig.12354 (2018).
+117. Teichler, U. & Bracht, O. The academic profession in Germany. In 
+Reports of Changing Academic Profession Project Workshop on 
+Quality, Relevance, and Governance in the Changing Academia: 
+International Perspectives Vol. 20, 129–150 (Research Institute for 
+Higher Education, Hiroshima Univ., 2006).
+118. Schweiger, G. et al. The costs of competition in distributing 
+scarce research funds. Proc. Natl Acad. Sci. USA 121, e2407644121 
+https://doi.org/10.1073/pnas.2407644121 (2024).
+119. Larive, M. et al. Amendement n° 000215 au projet de loi de 
+programmation de la recherche pour les années 2021 à 2027 
+(Assemblée nationale, 2020).
+120. Meirmans, S. How competition for funding impacts scientific 
+practice: building pre-fab houses but no cathedrals. Sci. Eng. 
+Ethics 30, 6 https://doi.org/10.1007/s11948-024-00465-5 (2024).
+121. Kuhn, T. S. The Structure of Scientific Revolutions (Univ. Chicago 
+Press, 1962).
+122. Hao, Q., Xu, F., Li, Y. & Evans, J. Artificial intelligence tools expand 
+scientists’ impact but contract science’s focus. Nature 649, 
+1237–1243 https://doi.org/10.1038/s41586-025-09922-y (2026).
+123. Horgan, J. The End of Science: Facing the Limits of Knowledge in the 
+Twilight of the Scientific Age (Addison-Wesley (Helix Books), 1996).
+124. Park, M., Leahey, E. & Funk, R. J. Papers and patents are becoming 
+less disruptive over time. Nature 613, 138–144 (2023).
+=== PAGE 10 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+125. Korbmacher, M. et al. The replication crisis has led to positive 
+structural, procedural, and community changes. Commun. 
+Psychol. 1, 3 https://doi.org/10.1038/s44271-023-00003-2 
+(2023).
+126. Qian, Y. et al. The rise of large language models and the direction 
+and impact of US federal research funding. Proc. Natl Acad. Sci. 
+USA 123, e2601439123 https://doi.org/10.1073/pnas.2601439123 
+(2026).
+127. Ahmed, D. A. et al. Scholarly discourse in polarizing 
+interdisciplinary contexts. BioScience 75, 1009–1012  
+https://doi.org/10.1093/biosci/biaf122 (2025).
+128. Davidovitch, N. & Cohen, E. Administrative roles in academia—
+potential clash with research output and teaching quality? 
+Cogent Educ. 11 https://doi.org/10.1080/2331186X.2024.2357914 
+(2024).
+129. Fire, M. Goodhart’s law: are academic metrics being gamed? 
+Gradient (2 June 2019).
+130. Nguyen, C. T. Expertise and the fragmentation of intellectual 
+autonomy. Philos. Inq. 6, 107–124 (2018).
+131. Rekker, R. The nature and origins of political polarization over 
+science. Public Underst. Sci. 30, 352–368 https://doi.org/10.1177/ 
+0963662521989193 (2021).
+132. Berg, M. & Seeber, B. K. The Slow Professor: Challenging the 
+Culture of Speed in the Academy (Univ. Toronto Press, 2025).
+133. Gimenez, O. My paper was proved wrong. After a sleepless night, 
+here’s what I did next. Nature https://doi.org/10.1038/d41586-024- 
+02870-z (2024).
+134. Cano-Barbacil, C. et al. Overcoming barriers that limit the  
+impact of ecological research. Front. Ecol. Environ. 24, e70016 
+https://doi.org/10.1002/fee.70016 (2026).
+135. Vignoli, M., Kraker, P. & Sevault, A. Paving the way for Science 
+2.0: top-down and bottom-up approaches. In Proc. International 
+Conference for E-Democracy and Open Government 2015 (eds. 
+Parycek, P. & Edelmann, N.) 119–130 (Edition Donau-Universität 
+Krems (Danube University Krems), 2015).
+136. Guthrie, S., Ghiga, I. & Wooding, S. What do we know about 
+grant peer review in the health sciences? F1000Research 6, 1335 
+https://doi.org/10.12688/f1000research.11917.2 (2018).
+137. Krause, E. T. Impact: take peer review into account. Nature 503, 
+198–198 https://doi.org/10.1038/503198b (2013).
+138. Crediting early-career researchers in peer review. Nat. Methods 
+22, 1121–1122 https://doi.org/10.1038/s41592-025-02738-8  
+(2025).
+139. De Peuter, S. & Conix, S. The modified lottery: formalizing the 
+intrinsic randomness of research funding. Account. Res. 29, 
+324–345 https://doi.org/10.1080/08989621.2021.1927727 (2022).
+140. Heyard, R., Ott, M., Salanti, G. & Egger, M. Rethinking the funding 
+line at the Swiss National Science Foundation: Bayesian ranking 
+and lottery. Stat. Public Policy 9, 110–121 https://doi.org/10.1080/ 
+2330443X.2022.2086190 (2022).
+141. Shaw, J. Peer review in funding-by-lottery: a systematic overview 
+and expansion. Res. Eval. 32, 86–100 https://doi.org/10.1093/ 
+reseval/rvac022 (2023).
+142. Boudreau, K. J., Guinan, E. C., Lakhani, K. R. & Riedl, C. Looking 
+across and looking beyond the knowledge frontier: intellectual 
+distance, novelty, and resource allocation in science. Manage. 
+Sci. 62, 2765–2783 (2016).
+143. Fox, C. W., Meyer, J. & Aimé, E. Double-blind peer review affects 
+reviewer ratings and editor decisions at an ecology journal. Funct. 
+Ecol. 37, 1144–1157 https://doi.org/10.1111/1365-2435.14259 (2023).
+144. Pros and cons of open peer review. Nat. Neurosci. 2, 197–198 
+https://doi.org/10.1038/6295 (1999).
+145. Coccia, M. Science, funding and economic growth: analysis and 
+science policy implications. World Rev. Sci. Technol. Sustain. Dev. 
+5, 1–27 (2008).
+146. Fortin, J.-M. & Currie, D. J. Big science vs. little science: how 
+scientific impact scales with funding. PLoS ONE 8, e65263  
+https://doi.org/10.1371/journal.pone.0065263 (2013).
+147. Gulland, A. Slow productivity worked for Marie Curie—here’s why 
+you should adopt it, too. Nature 632, 461–463 https://doi.org/ 
+10.1038/d41586-024-02540-0 (2024).
+148. Bravo-Moreno, A. Demystifying the academy: resistance, ethics 
+and abuse of power. Power Educ. 14, 140–156 https://doi.org/ 
+10.1177/17577438211068283 (2022).
+149. Franzoni, C. & Rossi-Lamastra, C. Academic tenure, risk-taking 
+and the diversification of scientific research. Ind. Innov. 24, 
+691–712 https://doi.org/10.1080/13662716.2016.1264067 (2017).
+150. Ríos-Saldaña, C. A., Delibes-Mateos, M. & Ferreira, C. C. 
+Are fieldwork studies being relegated to second place in 
+conservation science? Glob. Ecol. Conserv. 14, e00389  
+https://doi.org/10.1016/j.gecco.2018.e00389 (2018).
+151. White, E. R. Measuring what matters in the era of big data. Front. 
+Ecol. Environ. 23, e70013 https://doi.org/10.1002/fee.70013 
+(2025).
+152. Pourret, O., Irawan, D. E., Shaghaei, N., van Rijsingen, E. M. & 
+Besançon, L. Toward more inclusive metrics and open science 
+to measure research assessment in Earth and natural sciences. 
+Front. Res. Metr. Anal. 7, 850333 https://doi.org/10.3389/ 
+frma.2022.850333 (2022).
+153. Holmström, B. Managerial incentive problems: a dynamic 
+perspective. Rev. Econ. Stud. 66, 169–182 https://doi.org/10.1111/ 
+1467-937X.00083 (1999).
+154. Lane, J. N. et al. Conservatism gets funded? A field experiment 
+on the role of negative information in novel project evaluation. 
+Manage. Sci. 68, 4478–4495 https://doi.org/10.1287/mnsc. 
+2021.4107 (2022).
+155. McElreath, R. Which kind of science reform. Elements of 
+Evolutionary Anthropology https://evolutionaryanthropology.
+com/2025/07/09/which-kind-of-science-reform/ (2025).
+156. Rouby, E. Why 50-year studies are needed in a 3-year-grant world. 
+Nat. Rev. Biodivers. 2, 75 https://doi.org/10.1038/s44358-026- 
+00129-1 (2026).
+Author contributions
+P.J.H. and T.E. conceived the study, coordinated the author team 
+and drafted the majority of the manuscript. P.J.H., I.S., T.E. and N.C.B. 
+created the visualizations with input from all authors. R.S., J.R.B. and 
+D.D. provided senior guidance and substantial intellectual input. 
+A.K., I.S., N.A.S.A., L.V., D.B., A.S.T., V.D.S. and R.S. contributed to the 
+conceptual framework and drafting of key sections. A.B.N., S.H., 
+J.G.N., C.C.-B., B.C., D.S., J.P.d.S., R.P., P.D., E.S.J.T., B.M., J.S., M.P., V.S., 
+S.M.G., C.M., W.B., B.Š., E.Z., I.K., D.K., A.F.H., D.H., J.d.A.G.P., P.B., 
+C.K., E. Bayçelebi, M.M., D.A.A., G.S., S.A., B.M.K., M.C., X.J., M.R.-R., 
+I.M.-F., S.G.L., L.P., J.P., F.R., H.W., N.I.K., E. Briski and L.G. contributed 
+to the drafting of the original manuscript and to revisions. All authors 
+approved the final version of the manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence should be addressed to Phillip J. Haubrock  
+or Teun Everts.
+Peer review information Nature Human Behaviour thanks Maximilian 
+Fochler, Charles Gomez and John Healy for their contribution to the 
+peer review of this work.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+=== PAGE 11 ===
+Nature Human Behaviour
+Perspective https://doi.org/10.1038/s41562-026-02575-5
+Publisher’s note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with 
+the author(s) or other rightsholder(s); author self-archiving of the 
+accepted manuscript version of this article is solely governed by the 
+terms of such publishing agreement and applicable law.
+© Springer Nature Limited 2026
+1Faculty of Health, Environment and Medical Sciences, Bournemouth University, Poole, UK. 2South Bohemian Research Center of Aquaculture and 
+Biodiversity of Hydrocenoses, Faculty of Fisheries and Protection of Waters, University of South Bohemia in České Budějovice, Vodňany, Czech Republic. 
+3Department of Conservation Biology and Global Change, Doñana Biological Station (CSIC), Seville, Spain. 4College of Health Sciences, Mapua 
+Malayan Colleges Mindanao, Davao City, Philippines. 5Faculty of Biology and Environmental Protection, Department of Ecology and Vertebrate Zoology, 
+University of Lodz, Lodz, Poland. 6Faculty of Fisheries, Muğla Sıtkı Koçman University, Muğla, Türkiye. 7IRSA-CNR, Brugherio, Italy. 8CBMA—Centre for 
+Molecular and Environmental Biology/ARNET—Aquatic Research Network/IB-S - Institute of Science and Innovation for Bio-Sustainability, Department 
+of Biology, University of Minho, Braga, Portugal. 9Department of Microbiology, Immunology and Transplantation, Rega Institute for Medical Research, 
+KU Leuven, Belgium. 10Department of Biomedical Sciences, Institute of Tropical Medicine, Antwerp, Belgium. 11CIBIO, Centro de Investigação em 
+Biodiversidade e Recursos Genéticos, InBIO Laboratório Associado, Campus de Vairão, Universidade do Porto, Vairão, Portugal. 12BIOPOLIS Program 
+in Genomics, Biodiversity and Land Planning, CIBIO, Campus de Vairão, Vairão, Portugal. 13Departamento de Biodiversidad y Biología Evolutiva, Museo 
+Nacional de Ciencias Naturales, CSIC, Madrid, Spain. 14Laboratoire d’Océanographie de Villefranche, CNRS/Sorbonne Université, Villefranche-sur-
+Mer, France. 15Research Institute for Nature and Forest (INBO), Brussels, Belgium. 16Centre for Research on Ecology, Cognition and Behaviour of Birds 
+(ECoBird), Ghent University, Ghent, Belgium. 17MARE—Marine and Environmental Sciences Centre & ARNET—Aquatic Research Network, University of 
+Coimbra, Coimbra, Portugal. 18Centre Interdisciplinaire de Recherche en Biologie, Collège de France, Université PSL, CNRS, INSERM, Paris, France. 
+19ISYEB, MNHN, CNRS, Sorbonne Université, EPHE, Université des Antilles, Paris, France. 20Royal Belgian Institute for Natural Sciences, Brussels, Belgium. 
+21Laboratory of Adaptive Biodynamics, Research Unit in Environmental and Evolutionary Biology, Institute of Life, Earth, and Environment, University 
+of Namur, Namur, Belgium. 22Department of Wildlife, Fish, and Environmental Studies, Swedish University of Agricultural Sciences, Umeå, Sweden. 
+23TRANSfarm—Science, Engineering, & Technology Group, KU Leuven, Lovenjoel, Belgium. 24WasserCluster Lunz—Biological Station, Lunz am See, 
+Austria. 25Yunnan Key Laboratory of International Rivers and Transboundary Eco-Security, Institute of International Rivers and Eco-Security, Yunnan 
+University, Kunming, China. 26Ministry of Education Key Laboratory for Transboundary Eco-Security, Yunnan University, Kunming, China. 27CICS.NOVA, 
+NOVA University Lisbon, Lisbon, Portugal. 28University of Hong Kong, Hong Kong SAR, China. 29Department of Marine Sciences, University of the Aegean, 
+Mytilene, Greece. 30School of Civil Engineering, Aristotle University of Thessaloniki, Thessaloniki, Greece. 31Department of Fisheries, University of 
+Rajshahi, Rajshahi, Bangladesh. 32Department of Information and Communication Sciences, Université Libre de Bruxelles, Brussels, Belgium. 33South 
+African Institute for Aquatic Biodiversity, Grahamstown, South Africa. 34RAVON—Reptile, Amphibian and Fish Conservation Netherlands, Nijmegen, 
+Netherlands. 35Department of Ecology, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia. 36Marine and Inland Waters Sciences 
+and Technology, Ege University, İzmir, Türkiye. 37GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany. 38Faculty of Fisheries, Recep 
+Tayyip Erdogan University, Rize, Türkiye. 39Department of Biology, University of Florence, Sesto Fiorentino, Italy. 40Department of Mathematics and 
+Natural Sciences, Gulf University for Science and Technology, Hawally, Kuwait. 41Faculty of Science, Department of Biology, İstanbul University, Fatih/
+İstanbul, Türkiye. 42Vocational School of Health Services, Eskişehir Osmangazi University, Eskişehir, Türkiye. 43Xi’an University of Technology, Xi’an, China. 
+44University of Alcalá, Alcalá, Spain. 45College of Sciences and Engineering, Flinders University, Bedford Park, South Australia, Australia. 46Marine Science 
+Institute, University of Texas at Austin, Austin, TX, USA. 47West University of Timisoara, Timisoara, Romania. 48Crayfish Research Centre, West University 
+of Timisoara, Timisoara, Romania. 49Institute of Botany, Czech Academy of Sciences, Průhonice, Czech Republic. 50Instituto Pirenaico de Ecología, IPE-
+CSIC, Zaragoza, Spain. 51Guangxi Academy of Fishery Sciences, Nanning, China. 52Sukachev Institute of Forest, Siberian Branch of the Russian Academy 
+of Sciences, Federal Research Center, Krasnoyarsk Science Center SB RAS, Krasnoyarsk, Russia. 53Institute of Ecology and Geography, Siberian Federal 
+University, Krasnoyarsk, Russia. 54All-Russian Plant Quarantine Center, Moscow, Russia. 55Independent researcher, Rome, Italy. 56Biology Department, KU 
+Leuven, Leuven, Belgium. 57Present address: Independent researcher, Brugherio, Italy.  e-mail: phaubrock@bournemouth.ac.uk; teun.everts@inbo.be
+Phillip J. Haubrock    1,2 , Antonín Kouba2, Ismael Soto2,3, Neil Angelo S. Abreo2,4, Lorenzo Vilizzi5, Dagmara Błońska5, 
+Ali Serhan Tarkan5,6, Vanessa De Santis    7,57, Ronaldo Sousa    8, António Barbosa Nogueira8, Senne Heeren    9,10, 
+Joana Garrido Nogueira    11,12, Carlos Cano-Barbacil    13, Bruno Cremella    14, Diederik Strubbe15,16, 
+Janine Pereira da Silva17, Riccardo Poloni18,19, Pablo Deschepper20, Eli S. J. Thoré21,22,23, Benjamin Misteli24, 
+Jingrui Sun    25,26, Martina Panisi11,12,27, David Dudgeon    28, Valentini Stamatiadou29,30, Shams M. Galib    31, Chelly Maes32, 
+Nompumelelo C. Baso33, Wouter Beukema    34, Barbora Števove35, Eva Záhorská35, Irmak Kurtul1,36, Davinder Kaur2, 
+Augusto Frederico Huber2, Dariusz Halabowski    5, Janeide de Assis Guilherme Padilha8, Paride Balzani2,37, Cüneyt Kaya38, 
+Esra Bayçelebi38, Michele Mugnai    39, Danish A. Ahmed40, Gülşah Saç41, Sadi Aksu42, Burak Malik Kaya42, 
+Mulkibar Ciftcioglu6, Xiaoming Jiang43, Marta Rodríguez-Rey44, Irene Martín-Forés45, Suzana Gonçalves Leles46, 
+Lucian Pârvulescu    47,48, Jan Pergl    49, Federica Rossetto    50, Hui Wei51, Natalia I. Kirichenko52,53,54, Elizabeta Briski    37, 
+Luca Gallitelli55, J. Robert Britton1 & Teun Everts    15,56 
