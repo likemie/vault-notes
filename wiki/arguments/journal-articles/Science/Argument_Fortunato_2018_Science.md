@@ -59,6 +59,9 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Research Scope]]"
   - "[[Survivorship Bias]]"
+  - "[[Scientific Mobility]]"
+  - "[[Gender Inequality in Science]]"
+  - "[[Sudden Career Death]]"
 related_theories:
   - "[[Universality of Citation Distributions]]"
   - "[[Random Impact Rule]]"
@@ -67,6 +70,8 @@ related_theories:
   - "[[Q-Model]]"
   - "[[Path Dependence]]"
   - "[[R-Model]]"
+  - "[[Collective Discovery Simulation Model]]"
+  - "[[Random Walk Coauthorship Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Network Analysis]]"
@@ -93,14 +98,14 @@ sources:
 part_of:
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-03
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fortunato_2018_Science"
 argument_key: "Argument_Fortunato_2018_Science"
 argument_display_title: "Science of science"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -134,6 +139,8 @@ issuing_organization: ""
 > | **随机影响法则**<br>[[Random Impact Rule]] | 证实学者最高影响力代表作在发表序列中服从均匀随机分布，打破年龄决定[[Creativity\|创造力]]衰退的传统假设。 |
 > | **核心与扩展团队模型**<br>[[Core and Extended Teams Model]] | 区分小型稳定核心团队与依赖生产力累积优势吸附成员的扩展团队，解释团队规模幂律分布的生成机理。 |
 > | **WSB 模型**<br>[[WSB Model]] | 整合优先连接、[[Citation Aging\|知识老化]]与内在适合度，刻画成果生命周期引文累积轨迹并实现长期影响力预测。 |
+> | **集体发现模拟模型**<br>[[Collective Discovery Simulation Model]] | 将学科选题形式化为超图网络搜寻，量化测定保守深耕与全局最优探索策略之间的巨大效率鸿沟。 |
+> | **合作网络随机游走模型**<br>[[Random Walk Coauthorship Model]] | 基于学术合署网络局部无规行走机制，自下而上涌现宏观团队规模分布与跨学科知识渗透规律。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将海量[[Document|文献]]计量指标由表层描述提升为对底层自组织演化机制的数理阐释。复杂网络模型为描绘科学共同体结构与语义概念空间提供了拓扑骨架；随机影响法则与 [[Q-Model|Q 模型]]将个体学者生涯中的偶然运气与稳定能力有效区分；核心与扩展团队模型揭示了科研劳动组织形态转变的微观分工规律；引文分布普适性与 WSB 模型则确立了跨学科客观比较与时序外推的基准。整套理论架构直接连通了宏观知识演化规律与微观政策干预设计。
@@ -257,6 +264,13 @@ issuing_organization: ""
 
 > [!case] 霍华德·休斯医学研究所以人为本的长周期资助机制（Azoulay et al., 2011）
 > 对比霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）稳定资助的学者与获得 NIH 传统 R01 课题资助的同资历学者发现，HHMI 实行周期长达 5 至 7 年、免于繁琐中期考核的资助人而非项目模式，并明确包容早期探索失败（Azoulay et al., 2011）。实证表明，HHMI 资助的学者更敢于涉足未知的跨学科领域，成果进入全球前 1% 高被引行列的概率直接翻倍，即便中途探索失利也不会受到行政性惩罚；相比之下，受制于短期考评的 R01 负责人则普遍表现出明显的避险倾向。
+
+> [!sub-claim] 3. 短期契约加剧生涯猝死风险，早期隐性偏见与学术流动塑造劳动力微观分层
+
+> [!evidence-grid] 学术劳动力分层与制度风险的实证证据
+> - **短期聘任与学术生涯淘汰风险** 复杂系统动力学模拟揭示，非终身轨短期聘用合同引入了多重竞争性时间尺度的冲突，使学者微观生产力剧烈波动，极易在偶发性产出间歇期遭遇突发且难以逆转的学术生涯猝死（[[Sudden Career Death]]；Petersen et al., 2012）。
+> - **早期准入中的性别隐性歧视** 科学界的性别不平等（[[Gender Inequality in Science]]）在成果产出、资助获取与晋升全周期普遍存在；求职简历双盲随机对照实验直接证实，评审委员会在学术极早期阶段即对女性候选人施加系统性评分折损（Moss-Racusin et al., 2012），初期偏见通过优势累积机制演变为长程资源鸿沟。
+> - **学术流动的学者自携因果规律** 跨国与跨校学术流动（[[Scientific Mobility]]）呈现出声望同质层级匹配特征；追踪学者跨校跳槽前后的引文轨迹证实，机构排位升降并未改变学者后续研究影响力，表明学术声望的核心源泉在于学者个体而非机构平台（Deville et al., 2014）。
 
 ---
 

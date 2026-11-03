@@ -26446,6 +26446,15 @@
       ],
       "title": ""
     },
+    "Deville et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
+        "wiki/concepts/science-policy/Scientific Mobility.md"
+      ],
+      "title": ""
+    },
     "Dewald et al., 2010": {
       "datasets": [
         "metax:S0183"
@@ -73593,7 +73602,9 @@
       "doi": "https://doi.org/10.1073/pnas.1211286109",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
+        "wiki/concepts/science-policy/Gender Inequality in Science.md"
       ],
       "title": "Science faculty’s subtle gender biases favor male students"
     },
@@ -81796,6 +81807,15 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
         "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md"
+      ],
+      "title": ""
+    },
+    "Petersen et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
+        "wiki/concepts/science-policy/Sudden Career Death.md"
       ],
       "title": ""
     },
@@ -100845,6 +100865,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the long-term effects of phonemic awareness, phonics, fluency, and reading comprehension interventions"
+    },
+    "Sugimoto et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Scientific Mobility.md"
+      ],
+      "title": ""
     },
     "Sujarwo & Herwin, 2023": {
       "datasets": [

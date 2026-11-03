@@ -8,6 +8,11 @@ aliases:
   - 学术迁移
 summary: "指科研人员在不同国家、区域或学术机构之间的地理与聘任迁移；科学学实证检验揭示跨国流动学者的引文优势主要源于优秀学者获得流动机会的事前选择性偏差，且跨校流动普遍遵循同等声望阶梯；在控制个体科研能力后，机构排位的升降并未对学者后续研究影响力产生系统性增减，证实是学者造就机构而非机构造就学者（Fortunato et al., 2018）。"
 type: concept
+domain: "science-policy"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - field/scientometrics

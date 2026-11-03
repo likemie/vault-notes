@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "936d23bf26189926",
+        "id": "2ed51cf1e48a5a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "1a250490dce5d2e7",
+            "id": "23341fc83e2eb64c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:/Users/shaoyangwu/Downloads/ch05_成稿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ch05_成稿"
+              "title": "新标签页"
             }
           }
         ]
@@ -237,8 +232,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a250490dce5d2e7",
+  "active": "23341fc83e2eb64c",
   "lastOpenFiles": [
+    "sources/Liu_2018_Nature.md",
+    "sources/Liu_2018_Nature.pdf",
+    "wiki/theories/science-policy/Random Walk Coauthorship Model.md",
+    "raw_text_p1_6.txt",
+    "wiki/theories/science-policy/Collective Discovery Simulation Model.md",
+    "wiki/concepts/science-policy/Sudden Career Death.md",
+    "file:/Users/shaoyangwu/Downloads/ch05_成稿.md",
     "wiki/concepts/science-policy/Gender Inequality in Science.md",
     "file:/Users/shaoyangwu/Downloads/大学线后二十话规划 (2).md",
     "wiki/concepts/science-policy/Scientific Mobility.md",
@@ -268,8 +270,6 @@
     "output/fortunato_fulltext.txt",
     "wiki/templates/template-argument-monograph.md",
     "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-013/result.json",
-    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-012/result.json",
-    "output/related-updates/Argument_Fortunato_2018_Science-929c2b07/batch-011/result.json",
     "tmp/callout-refinement/monograph-inspect/mobile-page-01.jpg",
     "tmp/callout-refinement/monograph-inspect/mobile-fold.jpg",
     "tmp/callout-refinement/monograph-inspect/tablet-page-01.jpg",
@@ -280,11 +280,6 @@
     "tmp/callout-refinement/monograph-dark-768.png",
     "tmp/callout-refinement/monograph-dark-1440.png",
     "tmp/callout-refinement/monograph-light-390.png",
-    "wiki/concepts/science-policy/Combinatorial Novelty.md",
-    "wiki/templates/template-argument-textbook.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit10.md",
-    "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_第4至6页_校对版.md",
-    "wiki/methods/quantitative/Relative Citation Normalization.md",
     "未命名.canvas"
   ]
 }

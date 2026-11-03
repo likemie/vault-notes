@@ -16416,6 +16416,18 @@
     ]
   },
   {
+    "title": "Gender Inequality in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Gender Inequality in Science.md",
+    "aliases": [
+      "科学界性别不平等",
+      "学术界性别差距",
+      "科学领域的性别不平等",
+      "Gender Gap in Science",
+      "学术性别差距"
+    ]
+  },
+  {
     "title": "Ghost Authorship",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Ghost Authorship.md",
@@ -17122,6 +17134,18 @@
     ]
   },
   {
+    "title": "Scientific Mobility",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Scientific Mobility.md",
+    "aliases": [
+      "学术流动",
+      "科学学者流动",
+      "科学家迁移",
+      "学者流动",
+      "学术迁移"
+    ]
+  },
+  {
     "title": "Scientific Productivity",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Scientific Productivity.md",
@@ -17232,6 +17256,18 @@
       "路灯效应",
       "Streetlight Effect in Science",
       "醉汉找钥匙效应"
+    ]
+  },
+  {
+    "title": "Sudden Career Death",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Sudden Career Death.md",
+    "aliases": [
+      "学术生涯猝死",
+      "学术职业突然终结",
+      "职业生涯猝死",
+      "突然职业终结",
+      "Career Termination in Academia"
     ]
   },
   {
