@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -38,10 +38,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -136,4 +137,5 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 阐释 DORA 倡导的全面研究评估视角对破除期刊影响因子垄断、激励教师参与产学合作及促进科研公平的制度价值(pp. 250–251)。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 强调全面落实 DORA 宣言以推进学术评价去指标化改革，禁止在招聘与晋升评审中调用期刊影响因子与发文篇数，建立代表作质性叙事同行审议机制以保护青年学者非线性成长轨迹。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 揭示古德哈特定律下单一文献计量指标诱发的学术异化机制，论述推行 DORA 与 CRediT 贡献者分类法在纠正团队合署模糊与维护科研生态中的关键功能（pp. 341–350）。
