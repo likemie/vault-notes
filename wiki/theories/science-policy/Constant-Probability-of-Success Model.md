@@ -41,6 +41,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Liu_2018_Nature]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -70,7 +71,7 @@ updated: 2026-11-01
 > - **1977 — 恒定成功概率假说的提出** 西蒙顿通过古典音乐大师历史数据确立杰作产出与产出总量成线性正比的经验关系。
 > - **1988 — 达尔文主义科学天才模型** 专著《科学天才》将假说拓展至科学探索，论证科学构想的产生类似于生物基因突变，前沿突破在微观上具有不可预知的盲目性。
 > - **2016 — 科学学大数据的全量证实与零模型推导** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）与[[Dashun Wang|王大顺]]等人通过物理学与跨学科数万名学者的全量引文追踪，将该假说形式化为科学学基准零模型（[[R-Model|R 模型]]），证实单人职业序列内代表作位次服从均匀分布（[[Random Impact Rule|随机影响规律]]），同时通过证实学者间存在持久的能力异质性进一步发展出 [[Q-Model|Q 模型]]。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–598)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
-> - **2018 — 跨科学、艺术与电影三界确证** [[Lu Liu|刘路]]与王大顺等人在《自然》（*Nature*）证实跨学科科学家、艺术家与导演的高质量作品分布全部支持成功恒定概率模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> - **2018 — 跨科学、艺术与电影三界确证与修正** [[Lu Liu|刘路]]与王大顺等人在《自然》（*Nature*）证实跨学科科学家、艺术家与导演的高质量作品宏观分布支持成功恒定概率模型，但发现局部时间窗口存在集聚的爆发期现象（[[Argument_Liu_2018_Nature|Liu et al., 2018]]）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 
 ---
 
@@ -145,4 +146,5 @@ updated: 2026-11-01
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将西蒙顿等几率假说形式化为科学学微观 R 模型并予以检验，确证单人序列内概率恒定（随机影响规律），同时揭示学者间存在持久的能力异质性（Q 模型）。
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 基于大规模职业数据证实代表作宏观分布支持成功恒定概率假说，但揭示局部时间成团聚集的爆发期现象，对纯随机试错模型做出关键边界修正。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将西蒙顿成功恒定概率模型作为微观假说纳入科学学生涯分析，验证其在跨学科科学家、艺术家与导演全样本中的普适有效性。

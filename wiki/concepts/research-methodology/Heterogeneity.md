@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，在跨学科科学学中通过尺度变换消除学科引用容量异质性并确立普适标度主曲线；在批判视角下聚焦粗暴算术平均对实践异质性的隐匿。"
 type: concept
 domain: "research-methodology"
-related_count: 93
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -98,6 +98,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -118,7 +119,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -344,7 +345,16 @@ updated: 2026-11-02
 
 ---
 
+> [!entry-map] 条目关联
+> - 统计与方法维度：[[Meta-analysis|元分析]]、[[Effect Size|效应量]]、[[Between-Study Variance|研究间方差]]、[[Random-Effects Model|随机效应模型]]、[[Moderator Analysis|调节变量分析]]、[[Sampling Error|抽样误差]]
+> - 理论与认识论脉络：[[Complexity Theory|复杂性理论]]、[[Critical Realism|批判实在论]]、[[Paradigm|范式]]、[[Ontology|本体论]]、[[Epistemology|认识论]]
+> - 科学学与宏观结构：[[Citation Distribution|引文分布]]、[[Relative Citation Normalization|相对引文归一化]]
+> - 教育实践与微观机制：[[Cognitive Load Theory|认知负荷理论]]、[[Executive Function|执行功能]]、[[Inhibitory Control|抑制控制]]、[[Ecological Validity|生态效度]]
+
+---
+
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出科研人员在预审筛查与过度竞争逼迫下趋向安全主流，消解了学术选题与探索视角的认知多样性与深层异质性。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 论述科学学中的普适规律与学科异质性，警示科技政策制定必须尊重不同学科在发表周期与评价文化上的实质异质性（p. 5）。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出双因子 Q 模型，证实学者个体生涯引文的极端异质性可通过个人能力参数约化标度还原全部坍缩至通用构想潜力分布 $P(p)$。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 揭示学术载体发表模式的结构异质性（Unit 01），并证实学科篇均引文异质性可通过相对尺度归一化完全消除（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 177–180]]）。

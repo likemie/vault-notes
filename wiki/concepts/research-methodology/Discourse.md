@@ -101,6 +101,7 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-10-07
@@ -114,7 +115,7 @@ updated: 2026-11-02
 > 1. **微观语言与互动视阈** 指涉行动者在日常生活、课堂对话或专业共同体中生产的具体文本与言语互动。语言不仅传达字面内容，更通过预设规则规定谁拥有发言资格、何种知识被判定为有效，并参与微观权力关系的协商与再生产；
 > 2. **宏观社会学与跨国政策视阈** 指涉由国际组织、跨国智库与国家行政机器共同建构的标准化意义网络（如[[Global Educational Discourse|全球教育话语]]）。话语作为去情境化的“[[Floating Signifier|漂浮能指]]”，在跨国空间流动并被过度简化为普遍主义改革处方，进而制约民族国家的政策议程并重构教育系统的合法性基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–351)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 话语是在具体文化与制度网络中组织现实、分配真理与规训行动的符号权力系统，超越了纯粹中立的语言学词句堆叠或单向度的个人心理意识。
 > - **用途** 帮助研究者透视语言背后隐蔽的权力分配机制；在微观层面识别课堂师生互动中的制度化控制，在宏观层面解构国际组织如何借助去情境化的技术性辞令推行[[Governing at a Distance|远处治理]]。
 > - **边界** [[Discourse Analysis|话语分析]]拒绝将任何文本的权力解释视为唯一的先验教条；文本的多义性要求研究者始终扎根于一手语料细节，并警惕将具体的社会生活粗暴化约为单纯的话语[[Determinism|决定论]]。
@@ -136,7 +137,7 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 话语与相近概念辨析
+> [!contrast-table|notitle] 话语与相近概念辨析
 > | 分析维度 | 话语（Discourse） | 语言（Language） | 意识形态（Ideology） | 叙事（Narrative） |
 > |---|---|---|---|---|
 > | **本体定位** | 意义生产与权力关系的实践网络 | 抽象的符号、语法与词汇系统 | 具有阶级或群体偏向的观念体系 | 具有时间因果序列的情节化重述 |
@@ -217,7 +218,7 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观权力日常再生产** | 谈话规则与言语互动分配发言特权，制度化微观合规秩序 | 课堂师生互动与机构内部对话 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31\|Cohen et al. (2011)]] |
@@ -238,7 +239,7 @@ updated: 2026-11-02
 
 ---
 
-> [!debates] 学术争议与理论张力
+> [!debates|notitle] 学术争议与理论张力
 >
 > > [!axis] 纯粹符号建构 vs 制度权威与法定职权对言说效力的制约
 > > 争论政策话语的效力究竟取决于其修辞说服力与概念创新性，还是取决于行动者背后的法定职权与制度资源。
@@ -257,7 +258,16 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+> - 微观语言与会话：[[Discourse Analysis|话语分析]]、[[Critical Discourse Analysis|批判话语分析]]、[[Conversation Analysis|会话分析]]、[[Intentionality|意向性]]
+> - 制度与权力机制：[[Knowledge Power|知识权力]]、[[Epistemic Governance|知识治理]]、[[Discursive Institutionalism|话语制度主义]]、[[Regimes of Truth|真理体制]]、[[Governing at a Distance|远处治理]]
+> - 宏观流动与空间：[[Global Educational Discourse|全球教育话语]]、[[Floating Signifier|漂浮能指]]、[[Recontextualization|再情境化]]、[[Policy Mobility|政策流动]]、[[Space of Flows|流动空间]]
+> - 批判反思与评价：[[Reflexivity|反思性]]、[[Order of Discourse|话语秩序]]、[[Politics of Knowledge|知识政治]]
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出在学术资助竞争加剧背景下，科研人员被迫迎合主流叙事话语并在申报文本中策略性拼贴流行符号，造成学术言说与实质探索深层脱节。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 运用话语制度主义解构欧洲教育区战略议程设定，揭示闭门协调性话语与公共交流性话语在多层科层博弈中的妥协机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] — 结合课堂会话、机构叙事与教师自传，系统阐述话语的概念界定、文本性七大标准与解释学多义性，奠定质性会话与文本[[Discourse Analysis|话语分析]]基础。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育[[Champ|场域]]五位置模型，实证剖析国际组织推销普遍模型时引发的过度简化、拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 348–355）。

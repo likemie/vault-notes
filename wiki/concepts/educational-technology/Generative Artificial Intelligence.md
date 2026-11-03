@@ -9,9 +9,9 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 149
-related_level: 14
-related_stars: "💎💎💎💎⭐⭐"
+related_count: 150
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - educational-technology
@@ -179,10 +179,11 @@ related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Bown_2024_JEconPersp]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > [!def] Generative Artificial Intelligence
@@ -567,7 +568,7 @@ updated: 2026-11-02
 
 ---
 
-> [!entry-map] 条目关联网络
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -583,14 +584,15 @@ updated: 2026-11-02
 > | [[Evaluative Judgement]] | Concept | 生成式[[Man-Computer Symbiosis\|人机协同]]中的核心人类认识能力，防范高风险评价性判断被算法置换。 |
 > | [[AI Literacy]] | Concept | 数智时代学习者审视、引导与核验生成式 AI 系统能力边界的[[21st Century Skills and Competencies Discourse\|核心素养]]基准。 |
 > | [[General Purpose Technology]] | Concept | 生成式人工智能作为通用目的技术对教育、科研与经济生产力系统的全方位渗透与重构。 |
-| [[Cognitive Offloading]] | Concept | 学习者在非结构化使用生成式工具时将深度思考外包给模型的负向认知机制。 |
-| [[Counterculture Computing]] | Concept | 1970 年代硅谷反体制计算运动，奠定了早期软件与个人计算赋权个体、脱离国家战略的文化基因。 |
-| [[Consumer Internet]] | Concept | 反文化个人主义演化转变形成的浅层商业网络形态，生成式 AI 正在打破其消极自满并重构国家硬实力。 |
-| [[Technological Agnosticism]] | Concept | 硅谷将技术置于政治与伦理真空的不可知论立场，在生成式 AI 驱动的大国算法竞争中受到现实主义批判。 |
+> | [[Cognitive Offloading]] | Concept | 学习者在非结构化使用生成式工具时将深度思考外包给模型的负向认知机制。 |
+> | [[Counterculture Computing]] | Concept | 1970 年代硅谷反体制计算运动，奠定了早期软件与个人计算赋权个体、脱离国家战略的文化基因。 |
+> | [[Consumer Internet]] | Concept | 反文化个人主义演化转变形成的浅层商业网络形态，生成式 AI 正在打破其消极自满并重构国家硬实力。 |
+> | [[Technological Agnosticism]] | Concept | 硅谷将技术置于政治与伦理真空的不可知论立场，在生成式 AI 驱动的大国算法竞争中受到现实主义批判。 |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出科研人员在竞争重压下借助生成式 AI 机械批量生产模板化手稿与套用前沿流行术语，加剧了边际成果膨胀并稀释了颠覆性创新的深层探索。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统论述万亿参数大模型的 [[Artificial General Intelligence|AGI]] 火花与[[AI Deterrence|算法威慑]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]）、软件世纪软硬件主从支配关系的根本逆转与破除[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及超越 1970 年代反文化运动与[[Consumer Internet|消费互联网]]消极自满以构筑国家战略[[Hard Power|硬实力]]中枢（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证生成式人工智能如何成为 2025 年起美国科技政策“再集中与再动员”的核心叙事，以及国家如何依托私营科技巨头与国家实验室绕开大学基础探索直接获取技术主导权。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义三大[[Epistemic Stances\|认识立场]]，构建技术提示支架（[[Role-playing\|角色扮演]]、[[Chain-of-Thought Prompting\|思维链]]分解）与教学法支架协同矩阵，阐明维系人类[[Epistemic Agency\|认识主体性]]与防范[[Cognitive Offloading\|认知卸载]]的实践路径。

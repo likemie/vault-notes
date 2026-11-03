@@ -30,8 +30,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title::before,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-icon { display:none !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner {
  display:block !important; position:relative; min-width:0; flex:1; padding:0 !important; overflow-wrap:anywhere;
- font:700 1.42em/1.45 var(--ac-serif,"Songti SC",Georgia,serif) !important;
- letter-spacing:.015em !important; color:var(--text-normal) !important;
+ font:650 1.42em/1.5 var(--ac-serif,"Songti SC",Georgia,serif) !important;
+ letter-spacing:.005em !important; color:var(--text-normal) !important;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner::before {
  content:"PROPOSITION" !important; display:block !important; position:static !important;
@@ -47,15 +47,15 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
  border:0 !important; border-radius:10px !important;
  background:rgba(var(--cp-accent),.07) !important;
  box-shadow:inset 3px 0 0 rgba(var(--cp-accent),.7) !important;
- color:var(--text-normal) !important; font:400 .94em/1.85 var(--ac-sans,var(--font-text,sans-serif)) !important;
+ color:var(--text-normal) !important; font:400 .96em/1.8 var(--ac-sans,var(--font-text,sans-serif)) !important;
  overflow-wrap:anywhere; transition:background-color 240ms ease !important;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p { margin:.5rem 0 !important; padding:0 !important; color:inherit !important; font:inherit !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > :first-child { margin-top:0 !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > :last-child { margin-bottom:0 !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p:first-child > strong:first-child {
- display:block; margin:0 0 .4rem !important; padding:0 !important;
- color:rgb(var(--cp-accent)) !important; font-size:.9em !important; font-weight:650 !important;
+ display:block; margin:0 0 .35rem !important; padding:0 !important;
+ color:rgb(var(--cp-accent)) !important; font:600 1.04em/1.6 var(--ac-serif,"Songti SC",Georgia,serif) !important; letter-spacing:.01em;
  background:none !important; border:0 !important;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-fold { align-self:center; padding:.5rem !important; color:rgb(var(--cp-accent)) !important; opacity:.8; }
