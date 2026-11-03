@@ -85,6 +85,8 @@ related_instruments: []
 related_persons:
   - "[[John B. Fenn]]"
   - "[[Santo Fortunato]]"
+  - "[[Ludo Waltman]]"
+  - "[[Carl T. Bergstrom]]"
 related_facts:
   - "[[Web of Science]]"
   - "[[Scopus]]"
@@ -107,7 +109,7 @@ title: "Argument_Fortunato_2018_Science"
 argument_key: "Argument_Fortunato_2018_Science"
 argument_display_title: "Science of science"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -129,7 +131,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 全球数字化科研输入与产出大数据（涵盖跨世纪引文网络、学者合署网络、科研经费分配记录、学者职涯流动与概念语义空间）。
 > - **张力** 微观层面科研人员受避险激励与评价体系锁定的保守选题倾向，同宏观层面科学系统拓展认知疆界、实现颠覆性发现之间的结构性脱节。
-> - **贡献** 汇聚统计物理学、计算科学、网络科学与科学社会学，系统确立科学学（[[Metascience|Science of science]], SciSci）的跨学科研究纲领，整合[[Web of Science|科学网]]络演化、选题权衡、生涯动力学、[[Team Science|团队科学]]与引文机制五大核心维度，构建连接基础实证与科技政策设计的全景分析架构。
+> - **贡献** 汇聚统计物理学、计算科学、网络科学与科学社会学（由[[Santo Fortunato|桑托·福图纳托]]、[[Carl T. Bergstrom|卡尔·T·伯格斯特龙]]与[[Ludo Waltman|卢多·沃尔特曼]]等学者领衔），系统确立科学学（[[Metascience|Science of science]], SciSci）的跨学科研究纲领，整合[[Web of Science|科学网]]络演化、选题权衡、生涯动力学、[[Team Science|团队科学]]与引文机制五大核心维度，构建连接基础实证与科技政策设计的全景分析架构。
 
 ---
 
