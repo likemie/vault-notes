@@ -87,3 +87,9 @@ updated: 2026-10-26
 > | [[National Science Foundation]] | Fact (Organization) | NDEA 法案所授权、承担全美科学教育与教材革新重任的核心执行机构。 |
 > | [[President's Science Advisory Committee]] | Fact (Organization) | [[Dwight D. Eisenhower\|艾森豪威尔]]总统任内为配合 NDEA 出台提供高层战略科技建议的顾问智囊。 |
 > | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 布什报告中倡导联邦资助青年科学奖学金思想的制度化实践延伸。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论述 NDEA 对 NSF 科学教育职能扩张、中小学理科教材重构及拔尖人才培养体系的重构作用。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017, p. 37)]] — 考证《国防教育法》作为白宫与国会达成基础研究共识的标志性立法，论证国家安全合法性如何开启大学科研经费剧增历史阶段。

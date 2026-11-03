@@ -138,3 +138,10 @@ updated: 2026-10-26
 > | [[Soft-Money Faculty Model]] | Concept | 报告预警若大学不承担托底责任将制造出“二等公民”软钱教职阶层。 |
 > | [[Shopping Mall Model of Research Universities]] | Concept | 报告开启的间接成本全额补偿与卓越中心建制为商场模型奠定了物理扩张基础。 |
 > | [[Paula Stephan]] | Person | 系统剖析《西博格报告》如何在大学自利推动下促成资助契约异化的科学经济学家。 |
+| [[Committee on Science and Public Policy]] | Fact | 承接西博格报告基础研究理念并向国会争取具体预算指标的科学院常设咨询机构。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统剖析《西博格报告》如何在大学自利推动下促成间接成本全额报销与软钱资助模式，揭示科研合同异化的制度机制。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017, pp. 37–38)]] — 考证《西博格报告》作为肯尼迪政府科学资助意识信条的历史地位，提炼大学基础研究与研究生培养一体化论述。

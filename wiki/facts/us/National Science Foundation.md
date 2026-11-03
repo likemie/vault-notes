@@ -311,3 +311,4 @@ updated: 2026-11-03
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释国家微电子顶层战略下 NSF 作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，通过未来半导体（FuSe）计划、全美纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与[[Advanced Technological Education|先进技术教育]]（ATE）技术员培养体系，全链条支撑从基础发现到中试转化的跨部门制度网络。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 研发非结构化引文解析算法，将 131 万条 NSF 资助致谢字符串高精度对齐至核心主出版物，支撑科学学全景资助转化网络构建。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将 NSF 公共资助数据库确立为科学学多源全景数据体系的上游源头，评述资助记录与学术发表、下游专利的多源链接与投资回报测度（pp. 341–350）。
+- [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 梳理基金会早期预算受挫与首任主任沃特曼对计划性科研的抵制，揭示卫星危机如何促成其预算剧增并跃升为大学基础研究主资助机构。

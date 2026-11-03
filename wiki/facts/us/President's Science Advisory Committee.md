@@ -152,6 +152,7 @@ updated: 2026-10-30
 > | [[Restoring Gold Standard Science Executive Order]] | Fact | 2025 年特朗普政府行政令，其通过行政可重复性审查[[Disciplina and Doctrina\|规训]]学术自治，与 PSAC 的完全自治形成鲜明对比。 |
 > | [[Office of Scientific Research and Development]] | Fact | 二战期间由[[Vannevar Bush\|万尼瓦尔·布什]]领导的战时科技动员机构，为 PSAC 提供了科学深度嵌入国家大战略的历史先例。 |
 > | [[National Science Foundation]] | Fact | 接受白宫科技战略协调并在基础研究领域落地实施的独立资助机构。 |
+| [[Committee on Science and Public Policy]] | Fact | 科学院国会沟通中枢，与 PSAC 形成学术界游说与政策影响的双轨互补。 |
 > | [[Science, The Endless Frontier 1945]] | Fact | 战后建立白宫科技顾问与独立科学资助体制的思想理论源头。 |
 > | [[Research Universities]] | Concept | PSAC 委员的核心输送阵地与利益依托平台，战后高水平大学由此成为国家研发中枢。 |
 > | [[Big Science]] | Concept | PSAC 统领的核工程、雷达网与太空探测直接开创了大科学时代国家重大科研工程组织范式。 |
@@ -166,3 +167,4 @@ updated: 2026-10-30
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 从[[Social Contract of Science\|科学社会契约]]演化视角，论证 1957 年艾森豪威尔组建 PSAC 如何标志着学术精英作为“国家理性”[[Avatar\|化身]]进入白宫决策中枢，开创“高自治—高嵌入”科技治理结构巅峰；并系统提炼维系该黄金时期的五大制度支柱。 | pp. 1058–1059, 1062–1063 |
 > | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] | 详尽梳理二战后至 1970 年代白宫总统科学顾问制度的兴衰历程，分析 PSAC 的创设、黄金期运转机制以及因反战政治对立导致尼克松下令解散的制度教训。 | pp. 38–39 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] | 考察 PSAC 在 1960 年[[Seaborg Report 1960\|西博格报告]]中对联邦大学科研资助机制的制度设计，剖析[[Indirect Costs of Research\|科研间接成本]]与研究生资助模式的经济学影响。 | p. 15 |
+| [[Argument_Yang_2017_MUE\|杨九斌 (2017)]] | 考察卫星危机后 PSAC 相继发布《加强美国科学》与《科学进步、大学及联邦政府》，确立大学基础研究与研究生教育一体化信条并推动自由基础研究转向。 | pp. 37–38 |

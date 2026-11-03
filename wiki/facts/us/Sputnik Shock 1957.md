@@ -209,7 +209,8 @@ updated: 2026-11-02
 > | [[National Aeronautics and Space Administration]] | Fact (Organization) | 1958 年国会通过法案设立的民用航天机构，重构美国外层空间科研体制。 |
 > | [[National Defense Education Act of 1958]] | Fact (Policy) | 联邦政府因应危机出台的首部直接大规模资助中小学与高等教育的国家安全法案。 |
 > | [[OECD]] | Fact (Organization) | 在危机地缘压力下由欧洲经济合作组织重组而成的“经济北约”，开创跨国教育统计与人力资本规制。 |
-> | [[Human Capital Theory]] | Theory | 危机后主导跨国教育规划、将教育界定为国家战略投资的核心经济学理论。 |
+> | [[Committee on Science and Public Policy]] | Fact (Organization) | 危机后由国家科学院设立的常设科学政策机构，为国会提供基础研究资助标准与学科普查支撑。 |
+| [[Human Capital Theory]] | Theory | 危机后主导跨国教育规划、将教育界定为国家战略投资的核心经济学理论。 |
 > | [[STEM Education]] | Concept | 危机后由联邦与顶尖学者联合推行的学科结构化与科学人才培养核心领域。 |
 
 ---
@@ -221,3 +222,4 @@ updated: 2026-11-02
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 拆解斯普特尼克危机如何促成《国防教育法》、芝加哥比较教育中心成立及比较教育学实证主义转型。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 揭示危机如何成为欧洲经济合作组织重组为 OECD（“经济北约”）并开创跨国统计规制的关键动力。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示危机如何被概念化为初等教育失败并触发美国借用英国幼儿学校经验的开放课堂运动。
+- [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考证卫星危机如何作为政策分水岭，促使联邦资助由国防任务机构主导的计划性研发转向国家科学基金会主导的大学自由基础研究。
