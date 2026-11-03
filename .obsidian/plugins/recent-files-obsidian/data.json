@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Universality of Citation Distributions",
-      "path": "wiki/theories/science-policy/Universality of Citation Distributions.md"
+      "basename": "Hot-Streak Model",
+      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "Joint Probability Matrix of Hits",
+      "path": "wiki/methods/quantitative/Joint Probability Matrix of Hits.md"
+    },
+    {
+      "basename": "Q-Model",
+      "path": "wiki/theories/science-policy/Q-Model.md"
+    },
+    {
+      "basename": "Q-Factor",
+      "path": "wiki/methods/quantitative/Q-Factor.md"
+    },
+    {
+      "basename": "Random Impact Rule",
+      "path": "wiki/theories/science-policy/Random Impact Rule.md"
+    },
+    {
+      "basename": "Career Shuffling Method",
+      "path": "wiki/methods/quantitative/Career Shuffling Method.md"
+    },
+    {
+      "basename": "Shockley's Multiplicative Hurdle Model",
+      "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
+    },
+    {
+      "basename": "Universality of Citation Distributions",
+      "path": "wiki/theories/science-policy/Universality of Citation Distributions.md"
     },
     {
       "basename": "Argument_Fortunato_2018_Science",
@@ -171,34 +199,6 @@
     {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "Argument_Skipp_Tanner_2015_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
-    },
-    {
-      "basename": "Argument_Lin_2023_SciData",
-      "path": "wiki/arguments/journal-articles/Scientific Data/Argument_Lin_2023_SciData.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit09",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md"
-    },
-    {
-      "basename": "Ultimate Impact",
-      "path": "wiki/concepts/science-policy/Ultimate Impact.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit07",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit07.md"
-    },
-    {
-      "basename": "Citation Distribution",
-      "path": "wiki/concepts/science-policy/Citation Distribution.md"
-    },
-    {
-      "basename": "National Institutes of Health",
-      "path": "wiki/facts/us/National Institutes of Health.md"
     }
   ],
   "omittedPaths": [],
