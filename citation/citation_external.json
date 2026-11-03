@@ -4937,8 +4937,6 @@
     "Collins (2007)": "Collins, 2007",
     "Collins (2011)": "Collins, 2011",
     "Collins (2018)": "Collins, 2018",
-    "Collins et al. (1989)": "Collins et al., 1989",
-    "Collins et al., 1989": "Collins et al., 1989",
     "Collins, 1963": "Collins, 1963",
     "Collins, 1974": "Collins, 1974",
     "Collins, 1979": "Collins, 1979",
@@ -63244,21 +63242,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Epistemic Forms.md"
-      ],
-      "title": ""
-    },
-    "Collins et al., 1989": {
-      "aliases": [
-        "Collins et al., 1989",
-        "Collins et al. (1989)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Collins et al., 1989"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Mentorship.md"
       ],
       "title": ""
     },
@@ -219521,6 +219504,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/higher-education/Mentorship.md",
         "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md"
       ],
       "title": ""
