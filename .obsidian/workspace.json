@@ -37,8 +37,7 @@
               "title": "Multiple Regression"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +252,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8cf060930e9cdf12",
+  "active": "23341fc83e2eb64c",
   "lastOpenFiles": [
+    "wiki/methods/quantitative/Multiple Regression.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
     "wiki/concepts/research-methodology/Survivorship Bias.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
@@ -300,7 +300,6 @@
     "wiki/persons/netherlands/Ludo Waltman.md",
     "wiki/facts/global/Scopus.md",
     "wiki/facts/us/MEDLINE.md",
-    "sources/Liu_2018_Nature/Liu_2018_Nature.md",
     "未命名.canvas"
   ]
 }

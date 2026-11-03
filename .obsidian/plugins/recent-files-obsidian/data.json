@@ -5,6 +5,10 @@
       "path": "wiki/methods/quantitative/Multiple Regression.md"
     },
     {
+      "basename": "Disruption Index",
+      "path": "wiki/methods/quantitative/Disruption Index.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Combinatorial Novelty",
       "path": "wiki/concepts/science-policy/Combinatorial Novelty.md"
-    },
-    {
-      "basename": "Disruption Index",
-      "path": "wiki/methods/quantitative/Disruption Index.md"
     },
     {
       "basename": "Team Science",

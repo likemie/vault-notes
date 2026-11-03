@@ -9,7 +9,7 @@ summary: "美籍分析化学家与诺贝尔化学奖得主，曾任耶鲁大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 ---
@@ -94,9 +95,10 @@ updated: 2026-11-02
 
 > [!influence-path] 影响路径
 > - **分析化学与生物物理路径** 电喷雾电离技术使得巨型完整生物大分子能够完好进入质谱仪气相，开创现代蛋白质组学与结构生物学分析时代。
-> - **科学学与生涯理论路径** 成为随机影响法则、[[Constant-Probability-of-Success Model|成功恒定概率模型]]与爆发期模型的标志性案例，证实爆发期可以在生涯任何阶段降临，[[Scientific Productivity|科研生产力]]是维系创新概率的关键[[Variable|变量]]；为批判现行科研资助体系依据生理年龄设置刚性资助门槛提供了关键经验反例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 78–80)]]
+> - **科学学与生涯理论路径** 成为随机影响法则、[[Constant-Probability-of-Success Model|成功恒定概率模型]]与爆发期模型的标志性案例，证实爆发期可以在生涯任何阶段降临，[[Scientific Productivity|科研生产力]]是维系创新概率的关键[[Variable|变量]]；为批判现行科研资助体系依据生理年龄设置刚性资助门槛提供了关键经验反例。[[Argument_Liu_2018_Nature|(Liu et al., 2018, p. 398)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 78–80)]]
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 将芬恩作为验证爆发期起点在全生涯时序随机分布且与生理年龄脱钩的科学界典型代表案例（p. 398）。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将芬恩（$N^*=N$）与维尔切克（$N^*=1$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记述芬恩七旬做出诺奖成果的传奇生平，反驳创造力随年龄衰退的迷思，印证爆发期随时可能降临并批评科技资助的刚性年龄红线。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将芬恩作为生涯动力学的经典案例（图 3），印证重大科学突破在毕生发表序列中服从均匀随机分布，证实突破概率与生理年龄脱钩。
