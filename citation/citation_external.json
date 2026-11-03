@@ -7913,6 +7913,8 @@
     "Forsetlund et al., 2003": "Forsetlund et al., 2003",
     "Fortescue (1986)": "Fortescue, 1986",
     "Fortescue, 1986": "Fortescue, 1986",
+    "Fortin & Currie (2013)": "Fortin & Currie, 2013",
+    "Fortin & Currie, 2013": "Fortin & Currie, 2013",
     "Fortunato & Barthélemy (2007)": "Fortunato & Barthélemy, 2007",
     "Fortunato & Barthélemy, 2007": "Fortunato & Barthélemy, 2007",
     "Fortunato et al. (2014)": "Fortunato et al., 2014",
@@ -85042,6 +85044,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
+      ],
+      "title": ""
+    },
+    "Fortin & Currie, 2013": {
+      "aliases": [
+        "Fortin & Currie, 2013",
+        "Fortin & Currie (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fortin & Currie, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md"
       ],
       "title": ""
     },
@@ -182580,6 +182597,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit09.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
         "wiki/methods/quantitative/Journal Impact Factor.md"
       ],
       "title": ""
@@ -207864,6 +207882,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
