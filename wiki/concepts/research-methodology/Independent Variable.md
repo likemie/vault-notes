@@ -66,7 +66,7 @@ updated: 2026-11-03
 > - **用途** 通过设定自变量的不同水平（处理组 vs 对照组、不同剂量梯度），隔离外部混杂，确证因果效应的有无与大小。
 > - **边界** 限于特定因果推断模型中的输入假设，自变量并不等同于客观本体原因本身，其推断效力受制于操作化定义与外部变量隔离程度。
 
-> [!citation-card] 罗默论评价综合中自变量的实体消解与封闭自指
+> [!citation-card|notitle] 关键表述：罗默论评价综合中自变量的实体消解与封闭自指
 > 在实证评价综合中，自变量极易丧失其独立实体地位：当研究者未能对终端因变量（学习）做出明确理论界定时，自变量（教学）被狭隘地定义为“任何能够产生显著效应的干预”，而因变量又被定义为“自变量干预所测得的指标提升”。这种自变量与因变量互为前提的循环论证，彻底摧毁了自变量作为独立原因的本体属性，使实证模型退化为脱离教育实践的封闭自指体系。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 5–7)]]
 >
 > *Evaluational learning ultimately comes to define the independent variable, i.e. teaching. This makes the independent variable dependent on the dependent variable... the independent variable is dissolved as an independent pedagogical entity and reduced to a mere instrument for maximizing measurable test outcomes.*
@@ -150,6 +150,20 @@ updated: 2026-11-03
 
 > [!warning|limits] 适用局限
 > 在社会科学与教育情境中，绝大多数自变量无法完全脱离其所嵌入的机构文化与人际网络进行绝对隔离；试图将多维教学实践还原为单一孤立自变量容易损害生态效度。此外，观察性研究中自变量极易与未观测混杂因素高度相关，若无准实验外生冲击，难以保障因果识别的纯粹性。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Variable]] | 概念 | 自变量所属的上位概念范畴，指具备可测取值变异的分析属性。 |
+> | [[Dependent Variable]] | 概念 | 与自变量配对的核心结果变量，用于测量自变量操纵或状态变动引起的因果效应。 |
+> | [[Causality]] | 概念 | 实验设计通过操纵自变量并隔离混杂以确立自变量与因变量之间的必然因果关联。 |
+> | [[Operationalization]] | 概念 | 将抽象前因条件转化为具备明确水平与处理规程的外显自变量的操作化过程。 |
+> | [[Experimental Research]] | 方法 | 依靠主动操纵自变量、随机分组与外生控制以验证因果假设的经典实证方法。 |
+> | [[Factorial Design]] | 方法 | 同时操纵两个或多个自变量以检验各自独立主效应与交互效应的实验设计范式。 |
+> | [[Thomas Aastrup Rømer]] | 人物 | 教育哲学学者，深刻批判实证综合中自变量与因变量循环自指所导致的封闭研究牢笼。 |
 
 ---
 

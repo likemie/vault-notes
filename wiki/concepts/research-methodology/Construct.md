@@ -64,17 +64,17 @@ updated: 2026-11-03
 > [!def] Construct
 > 构念（Construct，亦称理论构念）是[[Variable|变量]]在理论层面的抽象与一般化表达（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 130]]）。它是研究者为了理论解释、预测或[[Causality|因果推断]]而有意建构的理性概念实体，代表现实中不可直接感官观察的潜在状态或特质（如[[Academic Achievement|学业成就]]、[[Student Motivation|学习动机]]、[[Self-Efficacy|自我效能感]]、认知负荷），必须通过明确的[[Operationalization|操作化]]转化为具有可测属性的外显变量，方能在实证研究中接受检验与二阶合成。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 130)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 构念指向不可直接观察的心智机制、特质倾向或社会关系，是连接抽象理论命题与经验测量工具的枢纽。
 > - **用途** 确立理论建构的核心概念实体，并指导[[Scale of Measurement|测量量表]]、测试题目与观测指标的编制与效度验证。
 > - **边界** 构念独立于具体测量工具与经验数值；在[[Meta-analysis|元分析]]中，构念必须具备严密的 [[PICO Framework|PICO]] 边界，缺乏构念一致性的粗糙合并会导致因果解释力彻底瓦解。
 
-> [!citation-card] 构念在理论与变量间的桥接角色
+> [!citation-card|notitle] 关键表述：构念在理论与变量间的桥接角色
 > 构念是用于变量的更抽象、更一般意义的术语。它位于理论空间，代表研究者假设存在但无法直接触及的实体；而变量存在于测量空间，是研究者通过工具获得的数值表达。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 130)]]
 >
 > *Constructs is a term used for a more [[Abstract|abstract]], general meaning of a variable.*
 
-> [!citation-card] 宏观[[Research Synthesis|证据综合]]中的构念一致性门禁
+> [!citation-card|notitle] 关键表述：宏观证据综合中的构念一致性门禁
 > 缺乏严格 PICO 门禁的宏观综合会导致构念严重错配并破坏证据的因果解释力。在二阶综合中，将名不副实的干预、非学业结局测试或异质对照混为一谈，会使合并[[Effect Size|效应量]]丧失明确的理论所指与政策指导价值。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]
 >
 > *Without rigorous PICO criteria, secondary synthesis suffers severe construct misalignment, eroding the causal interpretability of effect sizes and invalidating policy guidance.*
@@ -85,7 +85,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 构念、变量与日常概念的多维辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 构念（Construct） | 变量（Variable） | 概念（Concept） |
 > |---|---|---|---|
 > | **抽象层级** | 位于理论层面的抽象概念，不可直接感官观察 | 位于经验测量层面的具象数值形式，可直接观测记录 | 位于日常经验或语言分类层面的概括性语义标签 |
@@ -155,7 +155,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 实体实在论 vs 实用操作主义
 > > 争论构念所代表的潜在实体是真实客观存在的心理/社会结构，还是研究者为了简化经验数据而虚构的工具性假设。
@@ -169,11 +169,11 @@ updated: 2026-11-03
 > > - **细分深化论** 认为微观教育情境需要高特异性构念以指导精准教学。
 > > - **概念清理派（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）** 指出海量细分构念往往只是对一般认知能力的换皮包装，遮蔽了底层核心机制。
 
-> [!tension] 核心张力
+> [!tension|notitle] 核心张力
 > - **高阶构念跨情境概括的普遍性追求** 推动研究者建立能够跨文化、跨学段通用的宏观理论构念。
 > - **具体经验测量对本土文化情境的依附性** 导致同一构念的操作化指标在跨文化迁移中频繁遭遇构念偏差与效度漂移。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 构念作为抽象概念实体，不能直接等同于单一量表总分；若缺乏严谨的因子结构与构念效度检验，以偏概全的指标代指极易引发构念低代表性与无关变异。
 
 ---
@@ -190,7 +190,21 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Variable]] | 概念 | 构念在经验测量层面的可测表征，构念通过操作化转化为具体变量。 |
+> | [[Operationalization]] | 概念 | 将理论层面的抽象构念转化为具象测量指标与变量的系统过程。 |
+> | [[Construct Validity]] | 概念 | 评估经验测量是否真实、准确映射目标理论构念的核心效度维度。 |
+> | [[PICO Framework]] | 概念 | 宏观证据综合中保障人群、干预、对照与结局四维构念同质性的门禁框架。 |
+> | [[Scale Development]] | 方法 | 编制外显行为题项以系统测量潜在心理或社会构念的标准化测量方法。 |
+> | [[Meta-analysis]] | 方法 | 跨研究效应量合成方法，依赖构念同质性保障合并效应的理论解释力。 |
+> | [[Visible Learning]] | 概念 | 经典二阶证据库，元科学审计揭示其存在广泛的干预与结局构念错位危机。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 研究设计经典专著，系统阐发理论构念、外显变量与假设检验链条的方法论定位（pp. 53, 130）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 首个对宏观教育二阶证据库开展的全量元科学审计，揭示干预与结局构念错位危机，确立 PICO 构念一致性门禁规范。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 援引因子分析实证数据，解构 PISA 与 TIMSS 在一般认知能力底层构念上的实质重叠，批判虚假构念包装现象。
