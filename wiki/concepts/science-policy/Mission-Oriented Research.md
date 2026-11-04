@@ -56,7 +56,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -141,13 +141,14 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **国家干预与资源重构** | 任务导向重塑国家干预模式，由间接调节转向目标约束与需求牵引直接治理 | 国家战略攻坚、新兴技术竞赛与产业政策深度融合情境 | 樊春良 |
-> | **体系平衡与长期脆弱性** | 任务导向过度膨胀会挤压自由探索空间，诱发原始理论积累断裂与系统脆弱性 | 长期科技政策规划、国家[[Innovation Ecosystem\|创新生态]]平衡与基础研究资助治理 | 樊春良 |
+> | **体系平衡与长期脆弱性** | 任务导向过度膨胀会挤压自由探索空间，诱发原始理论积累断裂与系统脆弱性 | 长期科技政策规划、国家[[Innovation Ecosystem\|创新生态]]平衡与基础研究资助治理 | 樊春良; 杨九斌 |
 > | **国防首要客户与颠覆孵化** | 国家安全危机与军工前沿采购充当颠覆性底层技术跨越死亡之谷的首要孵化器 | 颠覆性技术演化、硅谷军工科技史与国家安全创新生态 | Karp & Zamiska |
 
 ---
 
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
-> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统领下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
+> - **1940s–1957 — 战时动员与杜鲁门时期涉密军工垄断期** 以[[Manhattan Project|曼哈顿工程]]与科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）为起点，冷战初期五角大楼与原子能委员会以涉密合同垄断全美大学研发总额的 76%，科研深度从属于武器试制任务。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+> - **1957–1970s — 卫星危机驱动的任务转向与民用同行评议平衡** 苏联卫星危机打破军工任务垄断，学术精英依托 PSAC 与 COSPUP 将战略使命从狭隘军工合同拓展为国家基础科学人才储备，资助格局向 NSF、NIH 与 NASA 转移，形成任务导向与自由基础研究的制度平衡。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]与[[Technological Republic|技术共和国]]重构期** 在[[Technology-Oriented Social Contract|技术型社会契约]]与重塑[[Technological Republic|技术共和国]]诉求导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、[[Autonomous Drone Swarms|自主无人机蜂群]]、先进制程与量子计算为核心，推行“[[Genesis Mission|创世纪计划]]”与敏捷软件采办，打破公共部门[[Innovation Desert|创新荒漠]]，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]
 
@@ -174,6 +175,33 @@ updated: 2026-11-03
 
 ---
 
+> [!empirical-divider]
+
+> [!ref-table]- 任务导向科研实证与制度观察
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Yang_2017_MUE\|杨九斌 (2017, pp. 36–37)]] | 1945–1970 年美国联邦机构对大学科研资助结构 | 历史制度与财政统计追踪 | 国防部/AEC 资助份额、基础研究占国防部研发比重、联邦占大学科研收入比例 | 1958 年前国防部与 AEC 占大学研发总额 76%，基础研究仅占国防部研发预算 4%；卫星危机后资助向民用转移，联邦资助占高校科研总收入比例由 1953 年 54.6% 升至 1963 年 68% | 联邦历史统计档案核查 | 实证揭示极度军工任务导向对基础研究的挤出效应及向民用同行评议的制度转向 |
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Curiosity-Driven Research]] | 概念 | 任务导向型研究的对应范式，以学者个人学术好奇心驱动。 |
+> | [[Use-Inspired Basic Research]] | 概念 | 巴斯德象限范式，寻求基础机理理解与实际应用双重结合。 |
+> | [[Basic-Applied Research Dichotomy]] | 概念 | 科技政策分类范式，冷战时期学者以此抵御狭隘任务导向。 |
+> | [[Research Universities]] | 概念 | 任务导向型科研在学术系统的关键承载载体与博弈主体。 |
+> | [[Big Science]] | 概念 | 任务导向研发在物理实验与空间探索中的典型巨型工程化形态。 |
+> | [[DARPA]] | 事实 | 冷战时期国防任务导向孵化通用颠覆性技术的标杆机构。 |
+> | [[Office of Scientific Research and Development]] | 事实 | 二战战时任务导向动员的制度原型。 |
+> | [[President's Science Advisory Committee]] | 事实 | 卫星危机后协调任务导向与基础研究平衡的白宫科学精英咨询机构。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 系统考察二战后至冷战初期五角大楼以任务导向合同垄断大学科研导致的体制依附与学术界抵制，以及卫星危机后学术精英依托白宫与国会双轨游说推动科研资助转向民用同行评议的博弈历程（pp. 35–38）。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析 2025 年美国科技政策转向与未来科研格局演进，指出任务导向型研究正在国家竞争与产业目标驱动下迅速扩张，重塑了科研资源分配机制与政府直接干预模式。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]] — 剖析二战与冷战时期任务导向型国家研发动员如何直接孕育早期硅谷与计算技术，论证面向 AI 战争时代重塑国家与科技产业任务同盟的紧迫性。

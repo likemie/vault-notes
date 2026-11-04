@@ -462,5 +462,15 @@
       "sentence": "经济学大师索洛在哈佛大学受教于瓦西里·列昂惕夫（Wassily Leontief），导师在研讨班上一对一日常讨论中对投入产出模型与经济增长动态精髓的精辟点拨，促使索洛领悟到现代宏观增长理论的内在精神脉络；化学诺奖得主戴森霍费尔在慕尼黑马克斯·普朗克生物化学研究所攻读博士期间，导师罗伯特·胡贝尔（Robert Huber）对 X 射线晶体解析精益求精的炽热激情与对科学真理的执着信仰，宛如一种无声的精神力量深刻濡染了门下弟子，最终合力攻克光合作用反应中心三维结构解析难题。",
       "target": "wiki/persons/germany/Max Planck.md"
     }
+  ],
+  "wiki/arguments/journal-articles/现代大学教育/Argument_Yang_2017_MUE.md": [
+    {
+      "sentence": "面对大学科研被军工任务捆绑的现实，大学校长、学术基金会与初创时期的国家科学基金会持续发出抗议，但在紧缩预算与政治审查下，早期争取自由基础研究经费的努力历经波折。",
+      "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
+    },
+    {
+      "sentence": "tension] 国会立法分支的实用主义考量 vs 学术精英群体的自主决策主张",
+      "target": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
+    }
   ]
 }

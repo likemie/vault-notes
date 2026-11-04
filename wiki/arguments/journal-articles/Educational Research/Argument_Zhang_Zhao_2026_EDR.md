@@ -494,7 +494,7 @@ updated: 2026-11-04
 ---
 
 > [!citation-card] 高等教育塑造卓越学术人才的核心机制
-> 卓越学术人才的高等教育塑造体现为一个长周期、高强度、渐进式的系统科研训练过程。学术流动重在研究生关键阶段进入全球学术中心实现深层制度化嵌入；跨学科转向严格遵循知识可衔接、方法可迁移的近缘转换规律；导师指导的核心在于营建包容失败、协作共享的微观科研生态与文化濡染；专业志趣定型虽在自然科学领域向中小学前移，但大学依然是学术定型的最关键场域；博士学位研究则兼备直接孵化重大突破的产品卓越与磨砺科研规范的过程底色双重属性。(张娟和赵祥辉, 2026, pp. 29, 38–39)
+> 卓越学术人才的高等教育塑造体现为一个长周期、高强度、渐进式的系统科研训练过程。学术流动重在研究生关键阶段进入全球学术中心实现深层制度化嵌入；跨学科转向严格遵循知识可衔接、方法可迁移的近缘转换规律；导师指导的核心在于营建包容失败、协作共享的微观科研生态与文化濡染；专业志趣定型虽在自然科学领域向中小学前移，但大学依然是学术定型的最关键场域；博士学位研究则兼备直接孵化重大突破的产品卓越与磨砺科研规范的过程底色双重属性。
 >
 > *Higher education cultivates top academic talents through a long-cycle, progressive, and intensive scientific research training system, characterized by deep embeddedness in academic centers, near-field interdisciplinary transfer, laboratory cultural enculturation, and the dual product-process value of doctoral research.*
 
