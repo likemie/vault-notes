@@ -773,6 +773,14 @@
       ],
       "title": ""
     },
+    "Aczel et al., 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Unpaid Peer Review Labor.md"
+      ],
+      "title": ""
+    },
     "Acácia Kuenzer, 2000": {
       "doi": "",
       "isbn": "",
@@ -3100,6 +3108,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Investigating the Effects of Active Learning Strategies on Problem Solving.  A Quasi-Experimental Study in Cycle Two"
+    },
+    "Amano et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Linguistic Injustice in Science.md"
+      ],
+      "title": ""
     },
     "Amato & Gilbreth, 1999": {
       "datasets": [
@@ -5770,6 +5786,14 @@
         "wiki/concepts/educational-philosophy/Causality.md"
       ],
       "title": "Incentives and creativity: evidence from the HHMI investigator program"
+    },
+    "Azoulay et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Patent-Paper Pairs.md"
+      ],
+      "title": ""
     },
     "Azoulay et al., 2014": {
       "doi": "",
@@ -8691,6 +8715,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Post-Imperialism Theory.md"
+      ],
+      "title": ""
+    },
+    "Becker et al., 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Academic Brain Drain.md"
       ],
       "title": ""
     },
@@ -12557,6 +12589,14 @@
       "seen_in": [],
       "title": "School effects: Problems, solutions, and a meta-analysis"
     },
+    "Bosman et al., 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Diamond Open Access.md"
+      ],
+      "title": ""
+    },
     "Bossert, 1995": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -13455,14 +13495,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
         "wiki/concepts/sociology-of-education/Organizational Actorhood.md"
-      ],
-      "title": ""
-    },
-    "Brannen, 2005": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/mixed/Mixed Methods Research.md"
       ],
       "title": ""
     },
@@ -20806,6 +20838,15 @@
       ],
       "title": ""
     },
+    "Clavero, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
+        "wiki/concepts/science-policy/Linguistic Injustice in Science.md"
+      ],
+      "title": ""
+    },
     "Claxton, 2013": {
       "doi": "",
       "isbn": "",
@@ -21443,6 +21484,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Behavioral Education/Argument_Hitchcock_2015_JBE.md",
         "wiki/concepts/research-methodology/5-3-20 Rule.md"
+      ],
+      "title": ""
+    },
+    "Cohen, 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
       ],
       "title": ""
     },
@@ -25546,8 +25595,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
-        "wiki/methods/mixed/Exploratory Sequential Design.md"
+        "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md"
       ],
       "title": ""
     },
@@ -26788,6 +26836,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Familiarization with Oral Expository Text on Listening and Reading Comprehension Levels"
+    },
+    "Diamond & Sekhon, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Genetic Matching.md"
+      ],
+      "title": ""
     },
     "Diamond, 2013": {
       "doi": "",
@@ -30785,6 +30841,14 @@
       "seen_in": [],
       "title": "Meta-analysis of effect size statistic on the relationship between emotional intelligence and academic achievement in North Central Nigeria"
     },
+    "Emanuele & Minoretti, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Unpaid Peer Review Labor.md"
+      ],
+      "title": ""
+    },
     "Emery, 1992": {
       "datasets": [
         "eef:oral-language-interventions"
@@ -31002,8 +31066,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/research-methodology/Purpose Statement.md",
-        "wiki/methods/mixed/Exploratory Sequential Design.md"
+        "wiki/concepts/research-methodology/Purpose Statement.md"
       ],
       "title": ""
     },
@@ -32096,6 +32159,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-psychology/Academic Impostor Syndrome.md",
         "wiki/concepts/higher-education/Early-Career Researchers.md"
       ],
       "title": ""
@@ -33114,8 +33178,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
-        "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md",
-        "wiki/methods/mixed/Mixed Methods Research.md"
+        "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
       ],
       "title": ""
     },
@@ -36934,8 +36997,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
         "wiki/concepts/educational-philosophy/Incommensurability.md",
         "wiki/concepts/educational-philosophy/Paradigm Wars.md",
-        "wiki/concepts/educational-philosophy/Paradigm.md",
-        "wiki/methods/mixed/Mixed Methods Research.md"
+        "wiki/concepts/educational-philosophy/Paradigm.md"
       ],
       "title": ""
     },
@@ -41196,8 +41258,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
-        "wiki/methods/mixed/Mixed Methods Research.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
       ],
       "title": ""
     },
@@ -45279,6 +45340,14 @@
       ],
       "title": ""
     },
+    "Hayden, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+      ],
+      "title": ""
+    },
     "Hayek, 1942": {
       "doi": "",
       "isbn": "",
@@ -45926,6 +45995,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Online Self-Assessment.md"
+      ],
+      "title": ""
+    },
+    "Heller & Eisenberg, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
       ],
       "title": ""
     },
@@ -48585,6 +48662,14 @@
       ],
       "title": ""
     },
+    "Huais et al., 2023": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Diamond Open Access.md"
+      ],
+      "title": ""
+    },
     "Huang & Qiao, 2024": {
       "doi": "",
       "isbn": "",
@@ -50226,8 +50311,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
-        "wiki/methods/mixed/Mixed Methods Research.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
       ],
       "title": ""
     },
@@ -51028,6 +51112,14 @@
       "seen_in": [],
       "title": "Developing strategic readers in elementary school"
     },
+    "Jaremka et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Academic Impostor Syndrome.md"
+      ],
+      "title": ""
+    },
     "Jarmon et al., 2009": {
       "doi": "",
       "isbn": "",
@@ -51060,6 +51152,14 @@
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Gorur_2014_Discourse.md",
         "wiki/concepts/educational-policy-reform/Performativity of Measurement.md",
         "wiki/theories/research-methodology/Sociology of Measurement.md"
+      ],
+      "title": ""
+    },
+    "Jasjeet S. Sekhon, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Genetic Matching.md"
       ],
       "title": ""
     },
@@ -52441,8 +52541,7 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
-        "wiki/concepts/educational-philosophy/Epistemology.md",
-        "wiki/methods/mixed/Mixed Methods Research.md"
+        "wiki/concepts/educational-philosophy/Epistemology.md"
       ],
       "title": ""
     },
@@ -55793,6 +55892,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
+      ],
+      "title": ""
+    },
+    "Khan, 2021": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Academic Brain Drain.md"
       ],
       "title": ""
     },
@@ -62192,6 +62299,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
+      ],
+      "title": ""
+    },
+    "Levecque et al., 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Academic Impostor Syndrome.md"
       ],
       "title": ""
     },
@@ -72636,14 +72751,6 @@
       ],
       "title": ""
     },
-    "Molina-Azorin & Fetters, 2022": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/mixed/Mixed Methods Research.md"
-      ],
-      "title": ""
-    },
     "Moll & Amanti, 2005": {
       "doi": "",
       "isbn": "",
@@ -74437,6 +74544,14 @@
       ],
       "title": ""
     },
+    "Murray & Stern, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Patent-Paper Pairs.md"
+      ],
+      "title": ""
+    },
     "Murray et al., 2012": {
       "datasets": [
         "metax:S0401"
@@ -74454,6 +74569,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Gaining Alphabetic Insight  Is Phoneme Manipulation Skill or Identity Knowledge Causal?."
+    },
+    "Murray, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Patent-Paper Pairs.md"
+      ],
+      "title": ""
     },
     "Murray, 2005": {
       "datasets": [
@@ -74477,6 +74600,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
         "wiki/persons/australia/Philomena Murray.md"
       ],
       "title": "Comparative Regional Integration in the EU and East Asia: Moving beyond Integration Snobbery"
@@ -74841,6 +74965,14 @@
       ],
       "title": ""
     },
+    "NIH Working Group on Research Tools, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Research Tool.md"
+      ],
+      "title": ""
+    },
     "NIH, 1947": {
       "doi": "",
       "isbn": "",
@@ -74959,6 +75091,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Neuro-cognitive performance in children with type 1 diabetes—a meta-analysis"
+    },
+    "Nagy et al., 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Academic Impostor Syndrome.md"
+      ],
+      "title": ""
     },
     "Nagy, 2022": {
       "doi": "",
@@ -82104,6 +82244,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/Post-Imperialism Theory.md"
+      ],
+      "title": ""
+    },
+    "Petrescu & Krishen, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Unpaid Peer Review Labor.md"
       ],
       "title": ""
     },
@@ -91237,6 +91385,14 @@
       ],
       "title": ""
     },
+    "Sampat & Ziedonis, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+      ],
+      "title": ""
+    },
     "Samritin et al., 2023": {
       "datasets": [
         "metax:S1598"
@@ -94126,6 +94282,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
         "wiki/facts/global/World Bank.md"
+      ],
+      "title": ""
+    },
+    "Sekhon, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Genetic Matching.md"
       ],
       "title": ""
     },
@@ -100624,6 +100788,14 @@
       ],
       "title": ""
     },
+    "Strandburg, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+      ],
+      "title": ""
+    },
     "Strang & Meyer, 1993": {
       "doi": "",
       "isbn": "",
@@ -103339,7 +103511,6 @@
       "seen_in": [
         "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch04.md",
         "wiki/concepts/science-policy/Big Idea Famine.md",
-        "wiki/facts/us/Apollo Program.md",
         "wiki/persons/us/Peter Thiel.md"
       ],
       "title": ""
@@ -109228,6 +109399,15 @@
       ],
       "title": ""
     },
+    "Walsh et al., 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/university-industry-collaboration/Material Transfer Agreement.md"
+      ],
+      "title": ""
+    },
     "Walsh, 2009": {
       "datasets": [
         "eef:oral-language-interventions",
@@ -109500,6 +109680,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/concepts/higher-education/Academic Brain Drain.md",
         "wiki/concepts/higher-education/Early-Career Researchers.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
@@ -117432,14 +117613,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/George Kelly.md"
-      ],
-      "title": ""
-    },
-    "创立宗旨, 1958": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/us/Sputnik Shock 1957.md"
       ],
       "title": ""
     },

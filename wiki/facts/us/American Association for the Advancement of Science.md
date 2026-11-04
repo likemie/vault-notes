@@ -31,7 +31,6 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
-  - "[[Grandes Ecoles]]"
   - "[[Research Topic]]"
   - "[[Science Journalism]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -60,11 +59,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
+  - "[[Argument_Yang_2017_MUE]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-04
 ---
 
 ---
@@ -80,11 +80,12 @@ updated: 2026-10-26
 
 ---
 
-> [!dev-timeline] 组织发展历程
+> [!org-evolution] 组织发展历程
 > - **1848–1900 — 奠基与《科学》杂志整合**
 >   - 推动美国早期国家科研机构的设立；1900 年正式收购托马斯·爱迪生创办的《科学》（*Science*）杂志并将其确立为官方旗舰学刊，奠定了全球综合学术界的崇高权威。
 > - **1945–1972 — 战后科学政策建制化与国家科学基金会创设**
 >   - 二战后深度参与《[[Science, The Endless Frontier 1945|无尽的前沿]]》所倡导的国家科研体制构建，积极推动民事独立的[[National Science Foundation|美国国家科学基金会]]（NSF）立法设立与冷战初期科技政策审议；前 NSF 主任[[Richard C. Atkinson|理查德·C·阿特金森]]等顶尖科技领袖先后出任 AAAS 会长。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37, 48)]]
+>   - 1959 年与国家科学院及斯隆基金会联合主办全美基础研究研讨会，促成艾森豪威尔总统发表《科学：自由的女仆》演讲，为国家保障大学学术自由与基础研究财政支持确立最高政治担保。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 >   - 拓展教育学部（Section Q），深度参与全美中小学科学教材现代化与课程标准化改革。
 > - **1973–2000 — 科技政策研究员制度化与联邦 R&D 预算权威监测**
 >   - 1973 年面对水门事件后国会山专业科学幕僚极其匮乏的困境，AAAS 开创性设立国会科学研究员计划，此后迅速扩展为全美科技政策研究员计划（STPF）。在 [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 的分析中，该计划与 [[American Educational Research Association|AERA]] 等专业学会联合，成为教育研究者全职沉浸于国会山立法生态的最具变革性的制度通道。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
@@ -100,14 +101,14 @@ updated: 2026-10-26
 > - **24 个专业学部（Sections）** 包括教育学（Section Q）、心理学（Section J）、社会经济与政治学（Section K）等，体现了自然科学与社会科学高度交融的综合特性。
 > - **研发预算与政策项目组（R&D Budget and Policy Program）** 独立测算并长程跟踪联邦研发预决算、机构支出与学科分布，为学术界与政策制定者提供独立财政量化基准。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]
 
-> [!pathways] 业务运行机制与跨界协同网络
+> [!pathways] 业务运行机制
 > - **科技政策研究员遴选与集中培植** 每年在全美公开遴选数百名拥有博士学位的各学科顶尖科学家，开展为期两周的“华盛顿政治与立法微型魔鬼集训”，随后派遣至参众两院议员个人办公室、常设委员会或联邦部委担任为期一至两年的全职特别幕僚。
 > - **同盟学会协同模式** AAAS 充当超级平台，与 [[American Educational Research Association|AERA]]、[[Society for Research in Child Development|SRCD]]、APA 等三十余个专业协会建立联合资助联盟，协同管理学科专长研究员的国会入驻与后续校友网络。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 > - **国家科学政策独立研讨与冷战史学反思** 定期组织由原政府高官、高校领袖与科学政策史学家参与的高峰研讨会，系统剖析早期冷战对美国国家科学政策形成的影响、基础研究资助结构变迁及跨国体制比较。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 47)]]
 
 ---
 
-> [!finding-cards] 核心业务矩阵
+> [!finding-cards] 核心产品与业务矩阵
 > - **《科学》（*Science*）顶尖期刊集群** 出版世界顶尖综合学术期刊《科学》（*Science*）及《科学·进展》（*Science Advances*）、《科学·转化医学》（*Science Translational Medicine*）等子刊，是全球前沿重大科研突破发表的绝对殿堂。
 > - **AAAS 科技政策研究员计划（STPF）** 运行超过 50 年的全球标杆性科学政策实战项目，已向联邦政府输送逾 4,000 名跨学科科学家，被誉为“华盛顿最宝贵的隐形科学智库”。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 > - **AAAS 年度跨学科科学盛会** 全球最具综合性的年度科学大会，广泛探讨科学伦理、气候变化、人工智能与教育不平等。
@@ -129,10 +130,10 @@ updated: 2026-10-26
 
 > [!finding-cards] 关键成效与辐射影响
 > - **破除政治认知壁垒并内化立法[[Tacit Knowledge|隐性知识]]** 在 [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 的实证反思中，AAAS 开创的研究员沉浸机制具有不可替代的“在[[Learning by Doing|干中学]]”效能；一年的全职幕僚经历彻底消除了学者对国会政治的傲慢与偏见，使研究者掌握了如何将复杂数据压缩为三分钟听证口径的实战艺术。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
-> - **构建终身政策影响力辐射网络** 结项后的学者展现出极强的制度穿透力：部分学者选择留在联邦行政机构（如 [[Institute of Education Sciences|IES]] 或 [[National Science Foundation|NSF]]）主导国家科研指南设定；部分出任国会委员会常设专业主任；返回[[Grandes Ecoles|大学校]]园的高校教师则彻底重构了自己的[[Research Topic|研究选题]]视野，将科学传播实战深度注入研究生培养之中。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 47)]]
+> - **构建终身政策影响力辐射网络** 结项后的学者展现出极强的制度穿透力：部分学者选择留在联邦行政机构（如 [[Institute of Education Sciences|IES]] 或 [[National Science Foundation|NSF]]）主导国家科研指南设定；部分出任国会委员会常设专业主任；返回大学校园的高校教师则彻底重构了自己的[[Research Topic|研究选题]]视野，将科学传播实战深度注入研究生培养之中。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 47)]]
 > - **搭建科学界与白宫/国会的制度性对话桥梁** 作为全美非官方科学共同体的联合代言人，AAAS 在历次冷战危机、科研伦理辩论与联邦预算紧缩关头，为捍卫大学基础研究独立性与反击政治干预提供了坚实的制度屏障。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 
-> [!stat-cards]- 核心组织与项目数据
+> [!stat-cards]- 核心规模数据
 > - **1848** 学会正式创设年份。
 > - **120,000+** 全球注册科学家与专业会员总数。
 > - **24** （个） 学会下设常设专门学科学部（Sections）。
@@ -182,4 +183,5 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 深度引用并依赖 AAAS 年度联邦研发预算报告历史数据，系统考证战后五十年联邦国防与非国防研发支出结构变迁、冷战高校科研经费比重及 9/11 后反恐预算重组趋势。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统梳理二战后 AAAS 在推动国家科技体制设立、捍卫同行评议拨款及冷战科技政策史学审议中的制度角色。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考证 1959 年 AAAS 联合国家科学院与斯隆基金会召开基础研究研讨会，促成艾森豪威尔总统发表主旨演讲并确立国家对学术自由与基础科研慷慨资助的政治背书。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 基于自身作为教育政策研究员的亲历反思，深入剖析 AAAS 开创的科技政策研究员计划（STPF）如何通过全职沉浸跨越研究与立法两社区鸿沟。

@@ -7,16 +7,15 @@ aliases:
   - 语言不公
   - 科学语言不公
   - linguistic injustice
-  - linguistic injustice in science
   - linguistic bias in academic publishing
   - English hegemony in science
 summary: "科学社会学与科学政策学中的结构性不平等概念；指当代全球学术交流与主流同行评审期刊被英语单一语种垄断，对非英语母语科研人员构成的非对称学术成本与话语壁垒；非英语母语学者需承担显著偏高的翻译润色支出、时间消耗与非学术性语言拒稿风险，导致本土化情境认知与发展中国家学者的原创贡献在国际科学话语中遭遇系统性挤压与遮蔽。"
 type: concept
 domain: "science-policy"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - theme/sociology-of-science
@@ -24,24 +23,17 @@ tags:
   - theme/academic-career
   - theme/research-integrity
 related_concepts:
-  - "[[Academic Precarity]]"
-  - "[[Early-Career Researchers]]"
-  - "[[Novelty Bias in Peer Review]]"
   - "[[Status Bias in Peer Review]]"
-  - "[[Matthew Effect in Academia]]"
-  - "[[Fieldwork]]"
+  - "[[Novelty Bias in Peer Review]]"
   - "[[Scientific Creativity]]"
+  - "[[Academic Precarity]]"
 related_theories:
   - "[[Epistemic Injustice]]"
-  - "[[Academic Capitalism]]"
 related_methods:
-  - "[[Bibliometric Analysis]]"
+  - "[[Fieldwork]]"
 related_instruments: []
-related_persons:
-  - "[[Phillip J. Haubrock]]"
-  - "[[Teun Everts]]"
-related_facts:
-  - "[[Declaration on Research Assessment]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
@@ -60,7 +52,7 @@ updated: 2026-11-04
 > - **用途** 诊断全球科学知识生产中的中心—依附格局，揭示非英语母语科研群体在国际学术竞争中承受的隐性损耗。
 > - **边界** 语言不公指向同行评审与评价建制对修辞细节的过度惩罚与资助支撑缺失，并不否定科学界需要统一国际通用语以促进跨国交流的技术合理性。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card] 语言壁垒对全球科学思想池的收窄效应
 > 这种不平衡超出了研究团队层面，资源匮乏或受政治约束环境中的研究人员，面临着与基础设施、资金稳定性和语言相关的额外壁垒；这与其创造潜力无关，进一步收窄了塑造全球科学叙事的思想池。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 >
 > *(This imbalance extends beyond research groups, as researchers in less resourced or politically constrained environments face additional barriers related to infrastructure, funding stability and language. This is regardless of their creative potential, which further narrows the pool of ideas that shape global scientific narratives.)*

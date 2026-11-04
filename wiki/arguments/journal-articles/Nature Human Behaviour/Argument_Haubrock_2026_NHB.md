@@ -37,6 +37,7 @@ tags:
   - theme/sociology-of-science
   - theme/scientometrics
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Creativity]]"
   - "[[Emergence]]"
   - "[[Academic Freedom]]"
@@ -49,22 +50,26 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Postdoctoral Pileup]]"
   - "[[Document]]"
+  - "[[Precarity Paradox]]"
+  - "[[Unpaid Peer Review Labor]]"
   - "[[Academic Inbreeding]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[White Bull Effect]]"
   - "[[Guest Authorship]]"
   - "[[Heterogeneity]]"
+  - "[[Academic Impostor Syndrome]]"
+  - "[[Academic Brain Drain]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Citizen Science]]"
   - "[[Discourse]]"
+  - "[[Junkification of Research]]"
+  - "[[Linguistic Injustice in Science]]"
   - "[[Block Grants]]"
+  - "[[Slow Science]]"
+  - "[[Modified Lottery in Research Funding]]"
+  - "[[Diamond Open Access]]"
   - "[[Critical Thinking]]"
   - "[[General Education]]"
-  - "[[Modified Lottery in Research Funding]]"
-  - "[[White Bull Effect]]"
-  - "[[Precarity Paradox]]"
-  - "[[Junkification of Research]]"
-  - "[[Slow Science]]"
-  - "[[Early-Career Researchers]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods:
@@ -76,7 +81,6 @@ related_methods:
   - "[[Peer Debriefing]]"
 related_instruments: []
 related_persons:
-  - "[[Rainer Kattel]]"
   - "[[Lingfei Wu]]"
 related_facts:
   - "[[UNESCO Institute for Statistics]]"
@@ -85,6 +89,7 @@ related_facts:
   - "[[Marie Skłodowska-Curie Actions]]"
   - "[[National Science Foundation]]"
   - "[[Declaration on Research Assessment]]"
+  - "[[Leiden Manifesto]]"
   - "[[Engineering Research Centers]]"
 related_arguments: []
 sources:
@@ -99,7 +104,7 @@ title: "Argument_Haubrock_2026_NHB"
 argument_key: "Argument_Haubrock_2026_NHB"
 argument_display_title: "How contemporary academic structures constrain scientific creativity and hold back early-career researchers"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -198,6 +203,7 @@ publisher: "Nature Publishing Group"
 
 > [!mechanism] [[New Managerialism|新管理主义]]行政负荷与门阀网络的双重挤压机制
 > - **科层管理与深度探究时间被剥夺** 高校推行新管理主义（[[New Managerialism]]），制造了繁重的工时填报、项目核销与合规审计，行政琐务碎片化严重挤占一线深思探究所需的整块时间。
+> - **隐形劳动与审稿负担转嫁** 早期学者承担了大量维系学术日常运转却未获制度回馈的隐形事务，包括[[Unpaid Peer Review Labor|同行评审无偿劳动]]（Unpaid Peer Review Labor）、教学监考与杂务管理，进一步加剧精力耗散。
 > - **门阀网络与成果向上摄取** 在[[Academic Inbreeding|学术近亲繁殖]]（[[Academic Inbreeding]]）与层级依附控制下，青年学者被降格为流水线执行单元，其[[Creativity|创造力]]成果与署名权益频遭学术权威向上摄取，加剧[[Matthew Effect in Academia|学术马太效应]]（[[Matthew Effect in Academia]]）。
 
 > [!case] 欧洲高等教育治理实证｜意大利学术领主门阀网络与依附性生产
@@ -206,13 +212,13 @@ publisher: "Nature Publishing Group"
 > - **独立研究议程扼杀** 青年学者的选题自由度完全取决于门阀权威的主观偏好，任何挑战导师既有学派观点的离经叛道探索都会遭到资源断供，导致思想[[Heterogeneity|异质性]]在源头被阻断。
 
 > [!warning] 长期职业不确定性引发的青年学者心理健康危机
-> 青年科研阶段与成家育儿、异地安家和教职竞聘高度重叠。长期职业不确定性与超负荷运转产生多重压力叠加，使得青年学者群体深陷职业倦怠、严重焦虑与精神内耗。
+> 青年科研阶段与成家育儿、异地安家和教职竞聘高度重叠。长期职业不确定性与超负荷运转产生多重压力叠加，使得青年学者群体深陷职业倦怠、严重焦虑、精神内耗与[[Academic Impostor Syndrome|学术冒名顶替综合征]]（Academic Impostor Syndrome）。
 
 > [!stat-cards]- 青年学者生存压力与心理健康危机关键指标
 > - **> 33%** 超过三分之一的在读博士生报告存在临床抑郁症状，发病率显著超出普通公众基准并延续至博士后阶段。
 > - **> 33%** 超过三分之一的青年研究人员长期饱受严重焦虑障碍折磨，学术界深陷心理健康危机。
 > - **$10,000+** 商业化顶刊单篇开放获取出版处理费门槛，其数额常逼近青年学者全职年薪，形成显著的阶层排斥。
-> - **> 10%** 关键早期项目微弱落选导致的学者永久退出学术界的额外流失风险。
+> - **> 10%** 关键早期项目微弱落选导致的学者永久退出学术界的额外流失风险，构成学术界向产业界与外部流失人才的[[Academic Brain Drain|学术智力外流]]。
 
 ---
 
@@ -222,7 +228,7 @@ publisher: "Nature Publishing Group"
 > [!sub-claim] 1. 审稿专家习惯否定非常规构想以规避未知风险
 
 > [!mechanism] 同行审稿的认知防御与基金申请的辞藻包装
-> - **认知防御与新颖性折价惩罚** 审稿专家身负过重评审负担，面对反直觉假说或跨学科构想时，更容易出于认知防御和风险规避给出保守评价，抓住方法细节瑕疵全盘否定，展现出对创新思想的系统性排斥（[[Novelty Bias in Peer Review]]）。
+> - **认知防御与新颖性折价惩罚** 审稿专家身负沉重的[[Unpaid Peer Review Labor|无偿同行审稿劳动]]负担，面对反直觉假说或跨学科构想时，更容易出于认知防御和风险规避给出保守评价，抓住方法细节瑕疵全盘否定，展现出对创新思想的系统性排斥（[[Novelty Bias in Peer Review]]）。
 > - **时髦词汇包装挤压实质探究** 基金申报充斥空洞的时髦词汇导向，迫使申请人在标书中堆叠人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）、社会外展、[[Citizen Science|公民科学]]与跨学科变革等前沿概念博取眼球，助长夸大包装并挤压对实质科学问题的论证。
 
 > [!row-contrast] 阻碍科学进步的核心结构性挑战矩阵
@@ -266,7 +272,8 @@ publisher: "Nature Publishing Group"
 
 > [!implication] 全球科研资源失衡对认知多样性与人才生态的冲击
 > - **边缘地区探索范式边缘化** 高收入国家吸纳绝大多数研发资金，剥夺了全球南方低资源团队的试错机会，导致特定本土情境、野外实践与长周期[[Fieldwork|田野调查]]等范式遭到系统性漠视。
-> - **中心—依附格局与人才流失** 欠发达地区学者被迫流向核心资源中心，移居后面临签证身份与用工壁垒的双重规训，进一步固化了全球学术生产的中心—依附格局。
+> - **中心—依附格局与人才流失** 欠发达地区学者被迫流向核心资源中心，导致严重的[[Academic Brain Drain|学术智力外流]]（Academic Brain Drain），移居后面临签证身份与用工壁垒的双重规训，进一步固化了全球学术生产的中心—依附格局。
+> - **非英语母语学者的语言税与表达壁垒** 全球学术交流对英语的绝对垄断构成了[[Linguistic Injustice in Science|科学出版语言不公]]（Clavero, 2010），非英语母语学者承担了沉重的语言转换与润色成本，审稿环节频遭基于语言流畅度而非学术质量的隐性偏见，进一步剥夺了全球南方与非英语区域学者的学术可见度。
 
 > [!sub-claim] 2. 巨额项目追求稳妥交账排挤了真正敢冒险的小团队
 
@@ -319,7 +326,7 @@ publisher: "Nature Publishing Group"
 > | **保障深度思考时间** | 大学管理层、院系主任、公共资助机构 | 提供稳定的基线财政资助；大幅削减行政审计报销负担；推行更具包容性的考评体系；保护沉思时段。 | 维系长期持续的深层学术探究；降低青年创新人才流失率；提升长远研究质量。 |
 > | **消除评审偏见并奖励新颖性** | 学术期刊、资助评审专家组、学术学会 | 推行新颖性加权打分；全面采用双盲评审；开展审稿人偏见防范培训；平衡方法严谨度与概念原创度。 | 扩充全球认知多样性；提升学术甄选公平性；促成非常规创新思想凭实质学术价值胜出。 |
 > | **多元化资助周期** | 国家自然与人文科学基金会、欧洲研究理事会（European Research Council, [[Engineering Research Centers\|ERC]]） | 设立短、中、长期并行资助通道；开设专属于高风险、高回报探索项目的专项基金流。 | 支持累积性、迭代式学术探索；摆脱短期交付指标绑架；加速实质性科技进展。 |
-> | **无障碍推进开放获取** | 科研资助机构、图书馆联盟、学术出版界 | 转向钻石开放获取（Diamond Open Access）等双向免除研创者与读者费用的机制；抵制掠夺性文章处理费（APC）商业暴利。 | 消除发文层面的经济壁垒；促进全球范围内研究成果的公平可见度；阻止公共资金流失。 |
+> | **无障碍推进开放获取** | 科研资助机构、图书馆联盟、学术出版界 | 转向[[Diamond Open Access|钻石开放获取]]（Diamond Open Access）等双向免除研创者与读者费用的机制；抵制掠夺性文章处理费（APC）商业暴利。 | 消除发文层面的经济壁垒；促进全球范围内研究成果的公平可见度；阻止公共资金流失。 |
 > | **构建扁平化协作网络** | 大学管理委员会、课题组长（Principal Investigator, PI）、资助机构 | 设立权责监督机制以遏制门阀权威垄断；在项目经费与成果署名中推行透明平权的贡献者分配模式。 | 释放青年研究人员创造活力；防止学术劳动成果被单向剥削；培育良性科研合作网络。 |
 > | **重构学术考评指标体系** | 大学聘任委员会、终身教职评审会、政府评估院 | 签署并全面落实 DORA 与推进科研评估联盟（Coalition for Advancing Research Assessment, CoARA）倡议；采用代表作质性叙事评价；包容育儿休假与非线性轨迹。 | 杜绝以简单数字指标替代学术实质评价；阻断资深梯队的能力稀释；纠偏短期功利导向。 |
 > | **建立稳定学术晋升路径** | 各国教育部、高校人事部门、立法监督机关 | 增加终身常任轨教职编制；为博士后提供具有独立科研自主权的长期固定通道；规范外包劳工权益。 | 消除零工化带来的生存恐惧；为敢于向未知领域进军的青年后备力量提供物质底气。 |

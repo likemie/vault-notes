@@ -11,7 +11,7 @@ aliases:
 summary: "由研究者好奇心驱动并自主设定议程的开放式探索，涉及原创知识生产、同行问责，以及教育研究和科学资助中的自主性条件。"
 type: concept
 domain: "science-policy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -63,12 +63,13 @@ related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Yang_2017_MUE]]"
 related_methods:
   - "[[Intervention Research]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---

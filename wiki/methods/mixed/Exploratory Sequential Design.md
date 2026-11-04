@@ -4,13 +4,13 @@ aliases:
   - 探索性序列设计
   - exploratory sequential mixed methods design
   - 探索性序列混合方法设计
-summary: "先以小样本进行质性探索、基于质性发现开发或修改量化工具、再用大样本检验的混合方法核心设计，整合洞见在于获得对特定样本和人群更具文化或情境适切性的测量工具"
+summary: "先以小样本进行质性探索、基于质性发现开发或修改量化工具、再用大样本检验的混合方法核心设计，整合洞见在于获得对特定样本和人群更具文化或情境适切性的测量工具与实证检验。"
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 18
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
@@ -18,145 +18,120 @@ tags:
   - method/mixed-methods
 related_concepts:
   - "[[Interpretivism]]"
-  - "[[Postpositivism]]"
-  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Positivism]]"
+  - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Variable]]"
   - "[[Content Validity]]"
-  - "[[Reliability]]"
-  - "[[Hypothesis]]"
-  - "[[Construct]]"
-  - "[[Metainferences]]"
   - "[[Construct Validity]]"
+  - "[[Reliability]]"
+  - "[[Metainferences]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[In-depth Interview]]"
-  - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
-  - "[[Explanatory Sequential Design]]"
   - "[[Joint Display]]"
+  - "[[In-depth Interview]]"
+  - "[[Semi-structured Interview]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Questionnaire]]"
+  - "[[Explanatory Sequential Design]]"
   - "[[Convergent Design]]"
-  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-confidence: medium
-status: draft
+  - "[[Argument_Mo_2026_BNSFC]]"
+confidence: high
+status: active
 created: 2026-05-31
 updated: 2026-11-04
 ---
 
 ---
 
-> [!info] 定义
-> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关假设（第三阶段）。
-> 
-> [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.138)]] 将其目的概括为：to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.（首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，然后在大样本中检验该设计的或修改后的量化评估。）
+> [!def] Exploratory Sequential Design
+> **探索性序列设计（Exploratory Sequential Design）** 是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集探索未知现象、提炼核心主题与维度（第一阶段）；随后基于质性发现设计、编制或修改量化调查工具与测量指标（第二阶段）；最后在大样本中施测量化工具，检验测量学属性并验证理论假设（第三阶段）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 138)]]; [[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 19)]]
 
-> [!quote|notitle]
-> "The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.138]])
-> 
-> 本探索性序列设计的目的是，首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，随后在大样本中检验这一设计的或修改后的量化评估。
+> [!method-scope] 方法范围
+> - **研究对象** 缺乏现成量表、概念边界模糊或既有测量工具在特定本土文化群体中适切性存疑的新兴复杂现象与实践经验。
+> - **问题类型** 适合回答“该现象包含哪些核心维度与主观体验”（质性探索）以及“这些维度在大样本中呈现何种分布特征、结构效度与因果关联”（量化检验）的连贯性研究问题。
+> - **分析单位** 个体行动者、专业群体（如青年科技人才、一线教师）、组织机构或微观互动事件。
+> - **输出形式** 本土化测量量表、问卷条目库、构念维度模型、心理测量学检验指标及大样本假设检验结果。
 
-### 核心价值：文化与情境适切性
-该设计的独特贡献在于解决了量化工具的**情境适切性问题**。研究者先深入目标人群的真实经验，从中生成植根于参与者经验的测量项，避免直接套用未经检验的既有通用量表。对于跨文化研究、边缘群体研究和新兴现象研究，这种设计避免了用别人的尺子量自己的对象的误区。
-
----
-
-## 2. 适用场景
-
-探索性序列设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.138]])：
-- **新兴现象探索** 研究对象缺乏既有量表，没有现成可用的测量工具。
-- **工具适切性存疑** 既有量表对特定文化群体的适用性不强（如翻译后的意义流失、经验覆盖不足）。
-- **植根性开发** 研究者希望新工具真正源自参与者的主观经验而非完全来自理论演绎。
-- **阶段性产出** 研究分为明显的先后阶段（先理解再检验），每个阶段可相对独立地完成。
+> [!citation-card] 克雷斯威尔论探索性序列设计的核心意图
+> 本探索性序列设计的目的是，首先通过小样本进行质性探索，基于质性发现设计或修改量化评估（如工具、实验干预活动或新变量），随后在大样本中检验这一设计的或修改后的量化评估。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 138)]]
+>
+> *The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.*
 
 ---
 
-> [!abstract] 从[[Interpretivism|解释主义]]转向[[Postpositivism\|后实证主义]]
-> 该设计体现了[[Epistemology\|认识论]]的转变：初始阶段采用解释主义/[[Constructivist Paradigm\|建构主义]]立场（通过深入探究捕捉参与者的意义建构），随后转向后[[Positivism\|实证主义]]立场（通过标准化测量在大样本中验证规律）。这种转换服务于[[Pragmatic Paradigm\|实用主义]]目标：将深度的质性洞见转化为可推广的量化证据。
+> [!method-position] 认识论与方法定位
+> - **知识观** 体现了由[[Interpretivism|解释主义]]/[[Constructivist Paradigm|建构主义]]向[[Postpositivism|后实证主义]]的认识论过渡，服从于[[Pragmatic Paradigm|实用主义]]解决现实问题的导向：先通过深入探究捕捉主观意义建构，再通过标准化测量验证规律。
+> - **研究者角色** 在第一阶段作为扎根现场的质性倾听者与意义阐释者；在第二阶段作为从经验向测量条目转化的设计者；在第三阶段作为保持客观测量准则的统计检验者。
+> - **有效性标准** 质性阶段遵循真实性、情境适切性与概念饱和度；工具开发阶段遵循[[Content Validity|内容效度]]与专家评定；量化阶段遵循[[Construct Validity|构念效度]]、内部一致性[[Reliability|信度]]与结构方程模型拟合指标。
+> - **不声称回答的问题** 不能跳过中间的测量学工具开发直接将质性词汇等同于量化变量；横截面调查阶段不能单凭关联分析直接确立确定性因果链条。
+
+> [!method-stack] 整合设计
+> - **设计类型** 探索性序列混合方法设计（Exploratory Sequential Design, QUAL $\rightarrow$ quan）。
+> - **先后顺序** 质性阶段先行（阶段一），工具开发与条目转化承接（阶段二），量化施测与统计验证收尾（阶段三）。
+> - **整合点** 发生在数据收集与工具开发连接点（通过[[Joint Display|联合展示]]将质性引文与主题转化为量表条目）以及最终的解释整合阶段。
+> - **整合逻辑** 发展工具与概念泛化，解决外来通用量表脱离本土情境的“水土不服”，实现“用参与者自己的语言构建测量指标”。
 
 ---
 
-## 4. 研究设计与程序
+> [!proc] 通用程序
+> 1. **第一阶段：小样本质性探索** 针对典型受访群体开展[[In-depth Interview|深度访谈]]或[[Semi-structured Interview|半结构化访谈]]，运用[[Coding in Qualitative Research|质性编码]]提炼核心主题、两难张力与行为构念。
+> 2. **第二阶段：量化测量工具研制** 依据质性引文编制[[Questionnaire|问卷]]条目，通过专家同行评议和预测试评估[[Content Validity|内容效度]]，形成正式测量问卷。
+> 3. **第三阶段：大样本统计检验** 面向目标总体开展大样本问卷抽样施测，利用探索性与验证性因子分析确立结构效度，检验研究假设。
+> 4. **综合推论生成** 对比质性微观机制与量化宏观效应，提炼跨范式元推论（[[Metainferences]]）并形成理论与治理启示。
 
-### 4.1 概念化：目的陈述脚本 (Purpose Statement Script)
-在研究开始前，需明确三阶段的转化逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.138]])：
+> [!sample-panel]- 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 阶段一：受访者半结构化深度访谈录音与转录文稿；阶段三：大规模自陈式问卷量表调查数据。 |
+> | 选案逻辑 | 阶段一采用理论抽样或关键案例抽样（如高成就创新人才）；阶段三采用分层随机抽样或全国大样本覆盖。 |
+> | 样本独立性准则 | **关键原则** 质性阶段的参与者不应纳入第三阶段量化测试样本，避免自评污染与记忆效应。 |
+> | 资料边界 | 质性样本通常为 10–30 人直至理论饱和；量化样本通常需达到数千人规模以保障统计功效。 |
 
-> **英文脚本：**
-> This study will address ________ (overall intent). The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment (e.g., instrument, website, experimental intervention activities, new [[Variable\|variables]]) based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample. The first, qualitative phase of the study will involve collecting ________ data from ________ (participants) at ________ (research site) to understand ________. Based on this initial exploration, the qualitative findings will be used to design a culturally or contextually specific quantitative assessment for testing with a large sample. This testing will ________ (relate or compare) ________ quantitative data from ________ (participants) at ________ (research site). The insight gained from designing a quantitative assessment based on qualitative data will be ________.
-> 
-> **中文译文：**
-> 本研究解决________（总体意图）。本探索性序列设计的目的是先以小样本进行质性探索，基于质性发现设计或修改量化评估（如工具、网站、实验干预活动、新[[Variable\|变量]]），然后用大样本检验这一设计或修改后的量化评估。第一阶段的质性探索将从________参与者在________研究场所收集________数据以理解________。基于这一初步探索，质性发现将用于设计可用于大样本检验的文化或情境特定的量化评估。该检验将________（关联/比较）来自________参与者在________研究场所的________量化数据。基于质性数据设计量化评估的洞见将是________。
-
-### 4.2 执行程序：三阶段基本流程
-操作逻辑为先探索、再开发、后检验：
-1. **第一质性阶段** 从小样本（通常 10-30 人）收集质性数据（如[[In-depth Interview|深度访谈]]），产出对现象的丰富理解（主题、维度或过程模型）。
-2. **工具开发阶段** 核心桥梁。将质性主题转化为[[Questionnaire|问卷]]条目，通过专家审查或认知访谈验证[[Content Validity|内容效度]]，形成初步量化工具。
-3. **第三量化阶段** 在大样本施测，通过因子分析、[[Reliability|信度]]分析等评估测量属性，并检验基于质性发现推导的[[Hypothesis|研究假设]]。
-
-### 4.3 桥梁逻辑：从文字到数字的翻译
-中间阶段要求研究者具备翻译能力，具体转化路径如下([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.242]])：
-- **质性引用 (Quotes)** $\rightarrow$ 用于撰写问卷条目 (Survey Items)。
-- **[[Coding in Qualitative Research|质性编码]] (Codes)** $\rightarrow$ 用于开发变量 (Variables)，将条目分组。
-- **质性主题 (Themes)** $\rightarrow$ 用于开发量表 (Scales)，形成更高维度的[[Construct|构念]]。
-
-### 4.4 样本策略
-**关键原则** 质性阶段的样本不应包含在量化阶段中。
-- **理由** 避免同一批人既参与开发又参与受测而引入的混淆因素。
-- **对比** 这与[[Explanatory Sequential Design|解释性序列设计]]（质性样本是量化样本的子集）正好相反([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.242–243]])。
-
-### 4.5 整合工具：联合展示 (Joint Display)
-[[Joint Display|联合展示]]追踪从质性产出到量化设计的转化路径([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.242]])。
-
-**表 10.4：探索性序列设计联合展示模板（以调查开发为例）**
-
-| 质性阶段 (Qualitative Phase) | 设计特征 (Design Features) | [[Metainferences\|元推论]] (Meta-inferences) |
-| :--- | :--- | :--- |
-| **质性引用(Quotes)** | **量化调查条目(Survey Items)** | 评估条目的清晰度与适切性 |
-| **质性编码(Codes)** | **量化调查变量(Variables)** | 评估变量结构的代表性 |
-| **质性主题(Themes)** | **量化调查量表(Scales)** | 评估量表的心理测量属性 |
+> [!proc] 质性分析程序
+> 1. **转录与原始编码** 逐字转录访谈录音，通过开放编码提取受访者原初叙述中的高频词汇与情感体验。
+> 2. **主题归纳与结构提炼** 通过轴心编码与选择性编码，将离散经验整合为结构化维度矩阵。
+> 3. **从主题到条目的转化（翻译规程）** 规范建立从经验材料到定量工具的映射路径：
+>    - 质性原话引用（Quotes） $\rightarrow$ 撰写为问卷题项（Survey Items）。
+>    - 质性编码（Codes） $\rightarrow$ 归纳为自变量、中介变量或调节变量（Variables）。
+>    - 核心范畴与主题（Themes） $\rightarrow$ 构筑为多题项量表（Scales）。
+> 4. **联合展示编制** 建立转化矩阵对比表，透明化呈现质性证据与量化条目的映射关系。
 
 ---
 
-## 5. 局限性与效度关注点
-
-在使用探索性序列设计时，需注意以下挑战([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.243–244]])：
-
-### 局限性 (Limitations)
-- **时间成本高** 三阶段必须依次完成，研究周期远长于其他设计。
-- **综合能力要求** 要求研究者同时掌握质性主题提炼与心理测量学开发技术。
-- **发表篇幅限制** 在单篇期刊成果中完整呈现三阶段内容常面临巨大的字数压力。
-
-### 效度威胁 (Validity Threats)
-- **测量学开发不规范** 未遵循严格的工具开发指南（如条目分析、效度估计），导致生成的量表质量存疑。需参考 DeVellis (2017) 等标准。
-- **质性发现利用不足** 若质性探索阶段过于单薄（仅有简短评论而非[[In-depth Interview|深度访谈]]），将无法支撑有意义的条目开发。
-- **样本混淆** 若质性参与者被纳入量化受测样本，将损害研究的独立性。
+> [!method-fit] 适用判断
+> - **适合使用** 适合探究缺乏成熟测量工具的新兴现象；适合检验外来理论在本土独特制度环境下的适用边界；适合需要在大样本中验证深层质性发现的研究场景。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 138)]]; [[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 19)]]
+> - **谨慎使用** 适合具有充足研究周期的项目；若时间紧迫或缺乏跨方法学术储备，三阶段依次推进易造成项目延期。
+> - **不适合使用** 当研究领域已有高度成熟、公认的标准化成熟量表时，无需重复开展探索性序列工具开发，宜直接采用聚敛式或解释性序列设计。
 
 ---
 
-> [!tip] 6. 方法变体与对比
-> - [[Explanatory Sequential Design\|解释性序列设计]]：顺序相反（量化在前），目的是解释结果而非开发工具。
-> - [[Convergent Design\|聚敛式设计]]：同时收集，不涉及工具开发。
-> - **工具开发研究 (Instrument Development Studies)** 探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research\|混合方法]]框架的标准方案。
+> [!method-limits] 方法局限
+> - **偏误来源** 质性探索阶段若抽样过于狭隘或存在选择偏差，将导致开发的量化条目出现结构性遗漏；测量工具编制若缺乏严格心理测量学规程，易引入系统误差。
+> - **适用边界** 工具的有效性高度受限于质性探索所覆盖的文化与制度边界；跨群体迁移时仍需重新检验测量等值性。
+> - **误用风险** 质性阶段草率走过场（仅做简单交谈），直接将未经检验的概念粗暴塞入问卷；或混淆质性与量化样本导致独立性被破坏。
+> - **补救方式** 邀请领域专家开展多轮条目审议与认知访谈（Cognitive Interviewing）；在大规模施测前开展小样本预调查（Pilot Testing）。
 
 ---
 
-> [!example] 案例：Enosh et al. (2015)
-> 首先通过[[Qualitative Interview\|质性访谈]]探索社会工作专业人员遭受客户暴力的经历，基于发现开发了客户暴力[[Questionnaire\|问卷]]（CVQ），随后通过两种不同的调查程序应用并检验了该工具([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.138–139]])。
-
----
-
-> [!tip] 8. 相关概念与理论
-> - [[Construct Validity]] in Quantitative Measurement — 第三阶段检验的核心指标。
-> - [[Coding in Qualitative Research]] — 第一阶段向第二阶段转化的基础。
+> [!entry-map] 相关理论与方法
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Pragmatic Paradigm]] | 理论 | 为跨越建构主义与后实证主义认识论鸿沟提供实用主义哲学基础。 |
+> | [[Mixed Methods Research]] | 上位方法 | 探索性序列设计是混合方法三大核心设计之一。 |
+> | [[In-depth Interview]] | 前置方法 | 第一阶段用于深度探索未解现象的主观意义与微观机制。 |
+> | [[Semi-structured Interview]] | 前置方法 | 第一阶段通过标准化大纲与灵活追问系统提取核心议题。 |
+> | [[Questionnaire]] | 后置方法 | 第三阶段用于承载质性转化出的测量条目开展大样本验证。 |
+> | [[Explanatory Sequential Design]] | 替代方法 | 顺序相反（量化先行解释滞后），适用于解释已知变量统计结果中的机制细节。 |
+> | [[Convergent Design]] | 替代方法 | 同步并行推进，适用于两类异质数据在相同维度的交叉三角互证。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释探索性序列混合方法设计的核心逻辑、阶段转化规程与量化工具情境适切性价值。
-> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 先对 14 位取得突破性原始创新成果的基础研究青年学者开展半结构化访谈提炼关键张力与影响因素，再面向全国 4,569 名青年学者开展大样本问卷调查完成实证检验。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐发探索性序列混合方法设计的核心逻辑、阶段转化规程、联合展示矩阵与测量工具情境适切性价值。（pp. 138, 242–244）
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 规范运用探索性序列混合方法：第一阶段对 14 位国家级基础研究青年学者开展半结构化深度访谈提炼六重关键张力，第二阶段转化为量化测量问卷，第三阶段面向全国 4,569 名青年学者展开大样本调查并完成实证检验。（pp. 18–20）

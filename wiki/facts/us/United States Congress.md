@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -44,10 +44,11 @@ related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
+  - "[[Argument_Yang_2017_MUE]]"
 confidence: medium
 status: draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-04
 ---
 
 ---

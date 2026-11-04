@@ -6,13 +6,15 @@ aliases:
   - Vannevar Bush report
   - 无尽的前沿
   - 布什报告
+  - "科学：无尽的前沿"
+  - "科学：无尽的边疆"
 summary: "1945 年万尼瓦尔·布什向美国总统提交的划时代科技政策报告，确立二战后联邦资助大学基础研究的科学社会契约原型与技术共和国制度基石，促成 NSF 成立与多元分布式资助网络奠基；其单向线性模型在主导西方科技治理八十年后，于2026年被白宫战略报告系统重构。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -81,10 +83,11 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 ---
@@ -102,8 +105,8 @@ updated: 2026-10-30
 
 > [!dev-timeline] 报告编制与契约演变历程
 > - **1944–1945 — 战时动员与报告起草呈递** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展起草；1945 年 7 月将报告《科学——无止境的边疆》呈交继任总统杜鲁门，将战时研发合同经验升华为国家科学资助蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1057–1058)]]
-> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（[[ASEAN Economic Community|AEC]]）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法[[Paradigm|范式]]固化** 美苏对抗将国家安全确立为资助科学的统摄性合法性来源，科学家精英通过[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长，二分法与单向线性范式成为联邦预算编制的黄金法则，直接催生了[[ARPANET|阿帕网]]、早期人工智能与硅谷半导体微电子革命的底层硬件基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（[[Atomic Energy Commission|AEC]]）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法[[Paradigm|范式]]固化** 美苏对抗将国家安全确立为资助科学的主导性合法性来源，科学家精英通过[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长，二分法与单向线性范式成为联邦预算编制的黄金法则，直接催生了[[ARPANET|阿帕网]]、早期人工智能与硅谷半导体微电子革命的底层硬件基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1990s–2000s — 冷战终结、赤字攀升与[[Pasteur's Quadrant|巴斯德象限]]的再签约妥协** 安全红利消退与财政紧缩迫使科学界回应经济回报与社会问责诉求；唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|巴斯德象限]]，确立用启发性基础研究的合法性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 刚性绩效问责与[[Research Security|科研安全]]壁垒** GPRAMA 法案出台与 NSF 强化“更广泛的影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审门槛，叠加生物医学[[Reproducibility Crisis|可重复性危机]]与《[[CHIPS and Science Act|芯片与科学法案]]》，终结了基础科学无需自证的免检地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
 > - **2026 — 八十年后的系统对照与体制重构** 2026 年 7 月 21 日，[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]呈交《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，全面对照 1945 年布什报告；文本保留了公共资助基础科学的核心合法性，但宣告单向分工管道彻底失真，系统开启向组合资助、新型组织、本土制造转化与生成核验协同的新时代重构。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix, 5–7)]]
@@ -116,14 +119,14 @@ updated: 2026-10-30
 > | **资助哲学与模型** | 单向线性管道：基础 $\to$ 应用 $\to$ 开发 $\to$ 市场繁荣 | [[Pasteur's Quadrant\|巴斯德象限]]：基础理解与现实应用双向交汇 |
 > | **研发出资与格局** | 联邦政府作为研发绝对主要资助者 | 私人研发超联邦与高校总和 3 倍，产业基础研究崛起（>35%） |
 > | **机构执行主体** | 依托传统[[Research Universities\|研究型大学]]单 PI 课题组 | 大学 + [[Focused Research Organization\|聚焦研究组织]]（FRO） + 开放联邦实验室 + 产业联合体 |
-> | **科学与制造关系** | 假定论文专利自然转化，制造外流无碍创新 | 科学必须锚定本土制造与中试线，守护不可编码的[[Process Knowledge\|过程知识]] |
+> | **科学与制造关系** | 假定学术成果与专利自然转化，制造外流无碍创新 | 科学必须锚定本土制造与中试线，守护不可编码的[[Process Knowledge\|过程知识]] |
 > | **资助机制与治理** | 短周期项目竞争、同行评议打分共识 | 组合式资助、对人长期赋权、金券/快速通道、法定[[Metascience\|元科学]] RCT 实验 |
 > | **时代[[Paradigm\|范式]]与基础设施** | 印刷期刊传播、数月至数年评审周期 | AI 假设生成（[[Genesis Mission\|创世纪计划]]）与黄金标准自动化核验网络 |
 
 ---
 
 > [!citation-card] 基础科学作为技术进步源泉的核心宣言
-> 基础研究是技术进步的起搏器。新产品和新工艺并非自发产生，它们建立在新的科学原理和新构想之上，而这些原理必须在最纯粹的科学探索中费力开发出来。如果放弃对纯基础科学的资助，工业界的应用研发很快就会陷入停滞。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> 基础研究是技术进步的起搏器。新产品与新工艺建立在新的科学原理和新构想之上，无法凭空自发出现，而这些原理必须在最纯粹的科学探索中费力开发出来。如果放弃对纯基础科学的资助，工业界的应用研发很快就会陷入停滞。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 >
 > *Basic Research is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science.*
 

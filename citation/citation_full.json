@@ -10085,6 +10085,25 @@
       "title": "Argument_RoyalSociety_2026_ScienceForSociety",
       "year": "2026"
     },
+    "Thompson et al. (2018)": {
+      "aliases": [
+        "Thompson et al., 2018",
+        "Thompson et al. (2018)"
+      ],
+      "argument": "Argument_Thompson_et_al_2018_RP",
+      "authors": [
+        "Thompson, N. C.",
+        "Ziedonis, A. A.",
+        "[[David C. Mowery|Mowery, D. C.]]"
+      ],
+      "citation": "Thompson, N. C., Ziedonis, A. A., & Mowery, D. C. (2018). University licensing and the flow of scientific knowledge. Research Policy, 47(6), 1060–1069. https://doi.org/10.1016/j.respol.2018.03.008",
+      "doi": "https://doi.org/10.1016/j.respol.2018.03.008",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+      "source_language": "en",
+      "title": "Argument_Thompson_et_al_2018_RP",
+      "year": "2018"
+    },
     "Thompson et al. (2022)": {
       "aliases": [
         "Thompson et al., 2022",
@@ -10103,6 +10122,25 @@
       "source_language": "en",
       "title": "Argument_Thompson_2022_Promising_Student",
       "year": "2022"
+    },
+    "Thompson et al., 2018": {
+      "aliases": [
+        "Thompson et al., 2018",
+        "Thompson et al. (2018)"
+      ],
+      "argument": "Argument_Thompson_et_al_2018_RP",
+      "authors": [
+        "Thompson, N. C.",
+        "Ziedonis, A. A.",
+        "[[David C. Mowery|Mowery, D. C.]]"
+      ],
+      "citation": "Thompson, N. C., Ziedonis, A. A., & Mowery, D. C. (2018). University licensing and the flow of scientific knowledge. Research Policy, 47(6), 1060–1069. https://doi.org/10.1016/j.respol.2018.03.008",
+      "doi": "https://doi.org/10.1016/j.respol.2018.03.008",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+      "source_language": "en",
+      "title": "Argument_Thompson_et_al_2018_RP",
+      "year": "2018"
     },
     "Thompson et al., 2022": {
       "aliases": [

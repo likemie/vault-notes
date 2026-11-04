@@ -25,11 +25,14 @@ related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Mission-Oriented Research]]"
   - "[[Big Science]]"
+  - "[[Little Science]]"
   - "[[Research Topic]]"
   - "[[Grandes Ecoles]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
+  - "[[Pluralistic Federal Funding System]]"
+  - "[[Curiosity-Driven Research]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_methods:
@@ -37,21 +40,36 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Dwight D. Eisenhower]]"
+  - "[[Harry S. Truman]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Vannevar Bush]]"
+  - "[[George Kistiakowsky]]"
+  - "[[James B. Conant]]"
+  - "[[Alan T. Waterman]]"
+  - "[[James R. Killian Jr.]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[President's Science Advisory Committee]]"
   - "[[Committee on Science and Public Policy]]"
   - "[[National Science Foundation]]"
   - "[[Seaborg Report 1960]]"
+  - "[[Basic Research and National Goals 1965]]"
   - "[[National Defense Education Act of 1958]]"
+  - "[[Strengthening American Science 1958]]"
   - "[[Department of Defense]]"
+  - "[[Atomic Energy Commission]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Apollo Program]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[National Institutes of Health]]"
+  - "[[National Academy of Sciences]]"
+  - "[[Office of Naval Research]]"
+  - "[[Symposium on Basic Research 1959]]"
+  - "[[Education for the Age of Science 1959]]"
+  - "[[COSPUP Discipline Surveys 1962–1966]]"
+  - "[[United States Congress]]"
+  - "[[Science, The Endless Frontier 1945]]"
 related_arguments: []
 sources:
   - "[[sources/Yang_2017_MUE/Yang_2017_MUE|Yang_2017_MUE]]"
@@ -65,9 +83,9 @@ title: "Argument_Yang_2017_MUE"
 argument_key: "Argument_Yang_2017_MUE"
 argument_display_title: "学术与政治: 卫星危机前后美国联邦政府大学科研资助政策的博弈与嬗变"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "现代大学教育"
 book_title: ""
@@ -79,15 +97,15 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 二战后至冷战初期，美国联邦政府对大学科研的资助深陷国防军事计划性与实用目标的制约；1957年苏联人造卫星发射引发的外部冲击如何打破这一既有格局？在国家安全焦虑与[[Academic Freedom|学术自由]]理想的持续博弈中，联邦政府、国会与学术界精英如何达成制度共识，推动大学科研资助政策发生结构性转型并缔造基础研究的黄金时代？
+> 二战后至冷战初期，美国联邦政府对大学科研的资助深陷国防军事计划性与实用目标的制约；1957年苏联人造卫星发射引发的外部冲击如何打破这一既有格局？在国家安全焦虑与[[Academic Freedom|学术自由]]理想的持续博弈中，联邦政府、[[United States Congress|国会]]与学术界精英如何达成制度共识，推动大学科研资助政策发生结构性转型并缔造基础研究的黄金时代？
 
 > [!claim] 核心主张
-> [[Sputnik Shock 1957|苏联卫星危机]]打破了冷战初期由国防部和原子能委员会垄断的军事计划性科研资助体制。学术界咨询精英依托[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）与[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）重构了基础科学服务国家安全的合法性论述，推动联邦政府将资助重心转向以国家科学基金会（[[National Science Foundation]], NSF）为代表的同行评议自由研究，缔造了1950至1970年代美国大学基础研究的黄金期；这一转型始终受制于冷战大国竞争的政治逻辑，未能摆脱政治议程对学术发展的深层约束。
+> [[Sputnik Shock 1957|苏联卫星危机]]打破了冷战初期由[[Department of Defense|国防部]]和[[Atomic Energy Commission|原子能委员会]]（Atomic Energy Commission, AEC）垄断的军事计划性科研资助体制。学术界咨询精英依托[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）与[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）重构了基础科学服务国家安全的合法性论述，推动联邦政府将资助重心转向以国家科学基金会（[[National Science Foundation]], NSF）为代表的同行评议自由研究，缔造了1950至1970年代美国大学基础研究的黄金期；这一转型始终受制于冷战大国竞争的政治逻辑，未能摆脱政治议程对学术发展的深层约束。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1945至1970年代美国联邦政府对[[Research Universities|研究型大学]]科研资助政策的演变轨迹，涵盖杜鲁门、[[Dwight D. Eisenhower|艾森豪威尔]]、肯尼迪政府时期的立法文本、行政报告、预算分配及学科普查档案。
-> - **张力** 学术界对自主探索与[[Academic Freedom|学术自由]]的诉求（以范内瓦·布什《科学：无尽的边疆》与同行评议为依据），同联邦行政分支与国会对国防安全、实用产出及定向计划性控制的制度偏好之间的结构性博弈。
-> - **贡献** 突破外生科技冲击的单向[[Determinism|决定论]]，系统揭示以民间科学家为主体的咨询精英如何利用危机契机搭建直通白宫与国会的制度化桥梁，通过[[Seaborg Report 1960|西博格报告]]与《基础研究与国家目标》等里程碑文件重塑科研资助规则。
+> - **对象** 1945至1970年代美国联邦政府对[[Research Universities|研究型大学]]科研资助政策的演变轨迹，涵盖[[Harry S. Truman|哈里·S·杜鲁门]]（Harry S. Truman）、[[Dwight D. Eisenhower|艾森豪威尔]]、肯尼迪政府时期的立法文本、行政报告、预算分配及学科普查档案。
+> - **张力** 学术界对自主探索与[[Academic Freedom|学术自由]]的诉求（以范内瓦·布什[[Science, The Endless Frontier 1945|《科学：无尽的边疆》]]与同行评议为依据），同联邦行政分支与[[United States Congress|国会]]对国防安全、实用产出及定向计划性控制的制度偏好之间的结构性博弈。
+> - **贡献** 突破外生科技冲击的单向[[Determinism|决定论]]，系统揭示以民间科学家为主体的咨询精英如何利用危机契机搭建直通白宫与国会的制度化桥梁，通过[[Seaborg Report 1960|西博格报告]]与[[Basic Research and National Goals 1965|《基础研究与国家目标》]]等里程碑文件重塑科研资助规则。
 
 ---
 
@@ -96,11 +114,13 @@ issuing_organization: ""
 > |---|---|
 > | **[[Social Contract of Science\|科学的社会契约（Social Contract of Science）]]** | 阐释二战后科学家与国家之间达成的制度妥协：国家以公共财政保障学者自由探索的自治权，科学界则以基础发现转化为国防与经济实力回馈国家。 |
 > | **[[Basic-Applied Research Dichotomy\|基础研究与应用研究二分法（Basic-Applied Research Dichotomy）]]** | 作为学术界划定专业自主边界的核心概念工具，用于抵御政治权力将科研简化为具体技术工程开发的功利化倾向。 |
-> | **[[Mission-Oriented Research\|任务导向型研究（Mission-Oriented Research）]]** | 刻画以国防部、原子能委员会为代表的特定战略任务拨款机制，揭示合同制资助对大学长期基础研究生态的挤压。 |
-> | **[[Big Science\|大科学与小科学（Big Science and Little Science）]]** | 区分依赖巨额工程预算的国家大设施项目与依托学者个人智力构思的自由探索，为基础学科向国会争取常规化预算增长提供分类学支撑。 |
+> | **[[Mission-Oriented Research\|任务导向型研究（Mission-Oriented Research）]]** | 刻画以[[Department of Defense|国防部]]、[[Atomic Energy Commission|原子能委员会]]为代表的特定战略任务拨款机制，揭示合同制资助对大学长期基础研究生态的挤压。 |
+> | **[[Curiosity-Driven Research\|好奇心驱动研究（Curiosity-Driven Research）]]** | 刻画学者基于学术自主选题与认知好奇的自由探索模式，与任务导向型研究构成贯穿战后资助博弈的核心对偶。 |
+> | **[[Pluralistic Federal Funding System\|联邦多元科研资助体系（Pluralistic Federal Funding System）]]** | 阐明战后美国由国防部、原子能委员会、国家科学基金会等多家去中心化部门共同构成的资助架构演进。 |
+> | **[[Big Science\|大科学]]与[[Little Science\|小科学（Little Science）]]** | 区分依赖巨额工程预算的国家大设施项目与依托学者个人智力构思的自由探索，为基础学科向国会争取常规化预算增长提供分类学支撑。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱揭示了二战后学术自主权与国家政治控制之间的动态博弈机制。[[Social Contract of Science|科学的社会契约]]界定了联邦政府介入大学资助的合法性边界；学术界借助基础研究与应用研究二分法确立知识探索的独立价值，批判过度偏向[[Mission-Oriented Research|任务导向型研究]]的弊端；通过界定[[Big Science|大科学]]工程与小科学基础探索的差异，论证了国家必须为大学基础科学提供持续稳定的制度性拨款。
+> 理论工具箱揭示了二战后学术自主权与国家政治控制之间的动态博弈机制。[[Social Contract of Science|科学的社会契约]]界定了联邦政府介入大学资助的合法性边界；学术界借助基础研究与应用研究二分法确立知识探索的独立价值，批判过度偏向[[Mission-Oriented Research|任务导向型研究]]的弊端；通过界定[[Big Science|大科学]]工程与[[Little Science|小科学]]基础探索的差异，论证了国家必须为大学基础科学提供持续稳定的制度性拨款。
 
 ---
 
@@ -113,7 +133,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **政策报告样本** | 涵盖《加强美国科学：联邦政府的角色》（1958）、《科学时代的教育》（1959）、《[[Seaborg Report 1960\|科学进步、大学及联邦政府]]》（1960）、《基础研究与国家目标》（1965）等标志性政策文献。 |
+> | **政策报告样本** | 包括 1958 年[[Strengthening American Science 1958|《加强美国科学：联邦政府的角色》]]、1959 年《科学时代的教育》、1960 年《[[Seaborg Report 1960\|科学进步、大学及联邦政府]]》、1965 年[[Basic Research and National Goals 1965|《基础研究与国家目标》]]等标志性政策文献。 |
 > | **立法与统计样本** | 包括1958年《[[National Defense Education Act of 1958\|国防教育法]]》（National Defense Education Act of 1958, NDEA）、联邦预算报告、国家科学基金会历年拨款记录及研究型大学科研收入历史数据。 |
 > | **学科调研文本** | 涵盖1962至1966年由科学与公共政策委员会（COSPUP）组织的天文学、化学、物理学与植物学四份十年发展调查报告。 |
 
@@ -141,24 +161,24 @@ issuing_organization: ""
 > [!sub-claim] 1. 杜鲁门政府确立遏制战略，将大学科研作为赢得冷战对抗的关键手段
 
 > [!case] 历史案例：[[J. Robert Oppenheimer|奥本海默]]的氢弹异议与技术威慑抉择
-> - **战略威慑需求** 1947年杜鲁门提出遏制共产主义的杜鲁门主义，美苏进入冷战对抗；二战期间基于大学研究取得的核能火箭与原子弹突破，使行政当局坚信前沿技术是赢得大国竞争的关键砝码，投资研究型大学成为施政要义。
-> - **强推氢弹研发** 1949年8月29日苏联成功试爆原子弹后，杜鲁门随即对外宣布全力启动破坏力更大的氢弹研制工程，试图依托技术垄断维持绝对威慑优势。
+> - **战略威慑需求** 1947年[[Harry S. Truman|杜鲁门]]提出遏制共产主义的杜鲁门主义，美苏进入冷战对抗；二战期间基于大学研究取得的核能火箭与原子弹突破，使行政当局坚信前沿技术是赢得大国竞争的关键砝码，投资研究型大学成为施政要义。
+> - **强推氢弹研发** 1949年8月29日苏联成功试爆原子弹后，[[Harry S. Truman|杜鲁门]]随即对外宣布全力启动破坏力更大的氢弹研制工程，试图依托技术垄断维持绝对威慑优势。
 > - **压制专业异议** 原子弹之父[[J. Robert Oppenheimer|罗伯特·奥本海默]]（J. Robert Oppenheimer）早在1945年便起草秘密报告呼吁政府不要在研制氢弹上耗费精力；然而专业建言遭到忽视，大学实验室被深度卷入以武器研制为核心的政治议程。
 
 > [!sub-claim] 2. 军方与任务机构通过定向合同垄断拨款，布什倡导的自由探索遭到边缘化
 
 > [!factors] 战后初期科研军事化与计划性资助的主导机制
-> - **财政规模急剧膨胀** 1951至1953年间联邦资助大学研发经费从13亿美元激增至31亿美元，至60年代达每年150亿美元；资金主要由[[Department of Defense|五角大楼]]与原子能委员会以定向合同垄断，占据学术研发总额的76%。
-> - **管理权限归于行政官僚** 伴随战后科学管理权限的分歧，范内瓦·布什（[[Vannevar Bush]]）失去政治威信于1947年离开华府，战时建立的科学研究与发展办公室（[[Office of Scientific Research and Development]], OSRD）随之废除，其倡导的免于政治干预的纯基础研究设想遭到搁置。
+> - **财政规模急剧膨胀** 1951至1953年间联邦资助大学研发经费从13亿美元激增至31亿美元，至60年代达每年150亿美元；资金主要由[[Department of Defense|五角大楼]]与[[Atomic Energy Commission|原子能委员会]]（AEC）以定向合同垄断，占据学术研发总额的76%。
+> - **管理权限归于行政官僚** 伴随战后科学管理权限的分歧，范内瓦·布什（[[Vannevar Bush]]）失去政治威信于1947年离开华府，战时建立的科学研究与开发办公室（[[Office of Scientific Research and Development]], OSRD）随之废除，其倡导的免于政治干预的纯基础研究设想遭到搁置。
 > - **战备诉求压制学术反思** 朝鲜战争陷入僵局促使政府全力依靠技术优势尽快制胜，进一步强化科研的实用与军事倾向；经历广岛长崎原子弹轰炸后科学界产生的道德反思被行政当局压制，工程技术被固化为解决政治与社会问题的首要手段。
 
-> [!tension] 杜鲁门政府军工任务导向 vs 布什无尽前沿学术自由
+> [!tension] [[Harry S. Truman|杜鲁门]]政府军工任务导向 vs 布什无尽前沿学术自由
 > - **杜鲁门政府军事化计划模式**
 >   - 核心诉求：依托定向科研合同快速产出氢弹、火箭与武器系统，赢得冷战地缘优势与局部战争胜利。
->   - 资助主体：五角大楼、海军研究局与原子能委员会等任务机构。
+>   - 资助主体：五角大楼、[[Office of Naval Research|海军研究局]]与[[Atomic Energy Commission|原子能委员会]]等任务机构。
 >   - 管理机制：密级审查、定向任务合同与政治目标驱动。
 > - **布什学派纯科学自治模式**
->   - 核心诉求：由科学家同行自主决定[[Research Topic|研究选题]]，通过基础发现积累长远知识储备与国家福祉。
+>   - 核心诉求：践行[[Science, The Endless Frontier 1945|《科学：无尽的前沿》]]理念，由科学家同行自主决定[[Research Topic|研究选题]]，通过基础发现积累长远知识储备与国家福祉。
 >   - 资助主体：独立于政治与军方的国家科研基金机构。
 >   - 管理机制：同行评议、非定向资助与长周期探索。
 
@@ -170,17 +190,17 @@ issuing_organization: ""
 > [!sub-claim] 1. 大学管理层与学者联合批评军事机构的线性拨款破坏学术生态
 
 > [!evidence-grid] 学术界领袖对军事线性拨款模式的系统批评
-> - **柯南特的组织化风险警示** 哈佛大学校长詹姆斯·柯南特（James B. Conant）公开警告，研究型大学学术活动走向程序化、组织化的任务导向存在深刻危险。
+> - **柯南特的组织化风险警示** 哈佛大学校长[[James B. Conant|詹姆斯·柯南特]]（James B. Conant）公开警告，研究型大学学术活动走向程序化、组织化的任务导向存在深刻危险。
 > - **卡内基基金会的狭隘目标质疑** 卡内基基金会指出大学承担的大部分研发工作被限定在军工任务内，即便是名义上的基础研究也沦为特定目标导向。
 > - **杜布里奇的拨款异常定性** 加州理工学院院长李·杜布里奇（Lee A. DuBridge）直言由军事机构通过线性预算维持基础研究是极其反常且不稳定的科研生态。
-> - **咨询智囊的预算倍增诉求** 总统科学研究署与国家科学院科学公共政策委员会等机构敦促联邦回归布什理念，要求将大学基础研究经费提高数倍以摆脱拮据困境。
+> - **咨询智囊的预算倍增诉求** 总统科学研究署与[[National Academy of Sciences|国家科学院]]科学公共政策委员会等机构敦促联邦回归布什理念，要求将大学基础研究经费提高数倍以摆脱拮据困境。
 
-> [!sub-claim] 2. 麦卡锡主义政治审查加剧，国家科学基金会早期争取预算屡遭国会重挫
+> [!sub-claim] 2. 麦卡锡主义政治审查加剧，国家科学基金会早期争取预算屡遭[[United States Congress|国会]]重挫
 
 > [!case] 制度博弈案例：国家科学基金会创设初期的生存抗争
-> - **理念捍卫** 1950年设立的国家科学基金会（NSF）首任主任艾伦·沃特曼（Alan T. Waterman）多次公开质问军方机构垄断大学科研资金的合理性，反思过度强调应用开发对科学长远发展的破坏。
+> - **理念捍卫** 1950年设立的国家科学基金会（NSF）首任主任[[Alan T. Waterman|艾伦·沃特曼]]（Alan T. Waterman）多次公开质问军方机构垄断大学科研资金的合理性，反思过度强调应用开发对科学长远发展的破坏。
 > - **政治阻力** 朝鲜战争开支压力与麦卡锡主义政治忠诚审查导致自由科学被贴上标签，国防动员办公室主任查尔斯·威尔逊（Charles Wilson）粗鲁断言绝不能让纳税人的钱耗费在纯科学上。
-> - **预算博弈** 1952财年基金会向国会申请1400万美元预算，众议院拨款委员会大幅削减至30万美元；经紧急游说参议院，最终以350万美元妥协过关，早期拨款始终在低位徘徊。
+> - **预算博弈** 1952财年基金会向[[United States Congress|国会]]申请1400万美元预算，众议院拨款委员会大幅削减至30万美元；经紧急游说参议院，最终以350万美元妥协过关，早期拨款始终在低位徘徊。
 
 > [!row-contrast] 1952–1957财年国家科学基金会预算申请与国会审批对比表
 > | 财年 | 基金会申请预算 | 国会审批通过预算 | 预算缩水与博弈结果 | 历史语境与政策约束 |
@@ -204,7 +224,7 @@ issuing_organization: ""
 > - **认知瓦解** 危机粉碎了美国政界关于苏联科技依附德国战后遗产与情报窃取的傲慢偏见，暴露了美国在空间科技人才储备与基础理论探索上的长期亏欠。
 > - **合法性重塑** 冷战对抗赋予了联邦大规模投资大学科研最不容置疑的合法性支柱，国家安全成为整合全美政治意愿、推动大学基础研究优先资助的核心动员力量。
 
-> [!sub-claim] 2. 国会出台《国防教育法》，以成文法形式将高教与基础科研确立为国家战略防线
+> [!sub-claim] 2. [[United States Congress|国会]]出台《国防教育法》，以成文法形式将高教与基础科研确立为国家战略防线
 
 > [!feature] 1958年《国防教育法》（NDEA）的制度突破与资源导向
 > - **确立法定战略地位** 美国历史上首次以成文法形式把教育与基础研究置于事关国家安全的最高战略地位，消除联邦干预高教的合宪性疑虑。
@@ -229,14 +249,14 @@ issuing_organization: ""
 > [!sub-claim] 1. 总统科学顾问委员会充当学术界政治游说的核心前沿
 
 > [!case] 智囊建制案例：基利安与总统科学顾问委员会（PSAC）的成立
-> - **建制组建** 1957年11月3日艾森豪威尔总统借卫星危机在白宫正式重组PSAC，任命麻省理工学院校长詹姆斯·基利安（James R. Killian Jr.）为主席，充当国家应对科学危机的避雷针。
+> - **建制组建** 1957年11月3日艾森豪威尔总统借卫星危机在白宫正式重组PSAC，任命麻省理工学院校长[[James R. Killian Jr.|詹姆斯·基利安]]（James R. Killian Jr.）为主席，充当国家应对科学危机的避雷针。
 > - **体制破壁** 委员会作为学术界精英代表，直接跨越行政官僚壁垒向总统谏言，成为学术界游说白宫优先发展基础科学的核心前线。
-> - **纲领输出** 相继起草《加强美国科学：联邦政府的角色》《科学时代的教育》与《科学进步、大学及联邦政府》，为联邦科研政策转型确立理论纲领。
+> - **纲领输出** 相继起草[[Strengthening American Science 1958|《加强美国科学：联邦政府的角色》]]、[[Education for the Age of Science 1959|《科学时代的教育》]]与《科学进步、大学及联邦政府》，为联邦科研政策转型确立理论纲领。
 
 > [!sub-claim] 2. 1959年基础研究研讨会促成艾森豪威尔公开承诺国家对学术自由的财政支持
 
 > [!warrant]- 自由科学理念如何赢得总统层面的政治担保
-> 顾问委员会在1958年报告中指出，政府若只资助短期流行的应用开发而忽视基础探索，必将导致国家科学贫困与技术二流；1959年国家科学院、[[American Association for the Advancement of Science|美国科学促进会]]（American Association for the Advancement of Science, AAAS）与斯隆基金会联合召开基础研究研讨会，250名由顾问委员会成员及各学科领袖组成的科学政治家共同论证自由基础研究的战略价值。艾森豪威尔总统亲临研讨会并发表题为《科学：自由的女仆》（*Science: Handmaiden of Freedom*）的主旨演讲，公开宣布政府乐于在顾问建议下慷慨资助学术探索，为学术自由确立了最高政治背书。
+> 顾问委员会在1958年报告中指出，政府若只资助短期流行的应用开发而忽视基础探索，必将导致国家科学贫困与技术二流；1959年[[National Academy of Sciences|国家科学院]]、[[American Association for the Advancement of Science|美国科学促进会]]（American Association for the Advancement of Science, AAAS）与斯隆基金会联合召开[[Symposium on Basic Research 1959|基础研究研讨会]]，250名由顾问委员会成员及各学科领袖组成的科学政治家共同论证自由基础研究的战略价值。艾森豪威尔总统亲临研讨会并发表题为《科学：自由的女仆》（*Science: Handmaiden of Freedom*）的主旨演讲，公开宣布政府乐于在顾问建议下慷慨资助学术探索，为学术自由确立了最高政治背书。
 
 > [!sub-claim] 3. 1960年西博格报告提出科教一体命题，成为肯尼迪政府扩大资助的蓝图
 
@@ -252,25 +272,25 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤五　科学院成立科学与公共政策委员会，通过划分小科学与学科普查化解国会质疑
+> [!claim|step] 论证步骤五　科学院成立科学与公共政策委员会，通过划分[[Little Science|小科学]]与学科普查化解[[United States Congress|国会]]质疑
 > 学术界领袖在国家科学院创立科学与公共政策委员会，通过划分大科学与小科学并组织系统性学科普查，成功化解国会对实用产出的顾虑，缔造了大学科研黄金时代。
 
 > [!sub-claim] 1. 基斯佳科夫斯基创立COSPUP，建立学术界直接对接国会的制度平台
 
 > [!tension] 国会立法分支的[[Pragmatic Paradigm|实用主义]]考量 vs 学术精英群体的自主决策主张
 > - **国会立法分支立场** 习惯于政治利益博弈与功利产出评估，对白宫外部专家咨询机构抱有防范戒备心理，坚持科研资助必须有立竿见影的实用成果。
-> - **学术咨询精英诉求** 主张遵循科学自身演进规律与同行评议标准，兼任国家科学院副院长的哈佛大学物理化学教授乔治·基斯佳科夫斯基（George Kistiakowsky）于1963年发起成立国家科学院常设学术机构[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP），专门搭建学者直通国会的沟通桥梁，谋求长期稳定的基础探索拨款。
+> - **学术咨询精英诉求** 主张遵循科学自身演进规律与同行评议标准，兼任[[National Academy of Sciences|国家科学院]]副院长的哈佛大学物理化学教授[[George Kistiakowsky|乔治·基斯佳科夫斯基]]（George Kistiakowsky）于1963年发起成立国家科学院常设学术机构[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP），专门搭建学者直通国会的沟通桥梁，谋求长期稳定的基础探索拨款。
 
-> [!sub-claim] 2. 《基础研究与国家目标》界定小科学，提出每年15%的联邦资助增长基准
+> [!sub-claim] 2. 《基础研究与国家目标》界定[[Little Science|小科学]]，提出每年15%的联邦资助增长基准
 
-> [!case] 立法咨询案例：《基础研究与国家目标》划定小科学增长基准
+> [!case] 立法咨询案例：《基础研究与国家目标》划定[[Little Science|小科学]]增长基准
 > - **国会之问** 众议院科学与航天委员会委托COSPUP回应根本难题：“为了美国的安全与全民福祉，联邦政府究竟应该在基础研究中投入多少资金？”
-> - **概念策略** 1965年COSPUP在《基础研究与国家目标》（*Basic Research and National Goals*）报告中明确区分巨型工程装置的大科学（[[Big Science]]）与学者自主构想的小科学，将小科学界定为大学基础研究的同义语。
-> - **量化标尺** 报告首次提出联邦对小科学的资助应保持每年15%的稳定增长基准，为后续各学科争取预算提供了坚实的[[Discourse|话语]]依据。
+> - **概念策略** 1965年COSPUP在[[Basic Research and National Goals 1965|《基础研究与国家目标》]]（*Basic Research and National Goals*）报告中明确区分巨型工程装置的大科学（[[Big Science]]）与学者自主构想的[[Little Science|小科学]]，将小科学界定为大学基础研究的同义语。
+> - **量化标尺** 报告首次提出联邦对[[Little Science|小科学]]的资助应保持每年15%的稳定增长基准，为后续各学科争取预算提供了坚实的[[Discourse|话语]]依据。
 
 > [!sub-claim] 3. 基础学科普查机制与联邦科研资助黄金期的制度化形成
 
-> [!row-contrast] 1962–1966年科学与公共政策委员会（COSPUP）四大学科十年调查报告
+> [!row-contrast] [[COSPUP Discipline Surveys 1962–1966|1962–1966年科学与公共政策委员会（COSPUP）四大学科十年调查报告]]
 > | 调查学科领域 | 报告名称（十年发展规划） | 核心申诉与资源诉求 | 政策干预成效与影响 |
 > |---|---|---|---|
 > | **天文学** | 《陆基天文：一个十年计划》（*Ground-Based Astronomy: A Ten-Year Program*） | 强调射电天文与大型地面光学望远镜建设落后，呼吁设立国家级天文观测联合基地。 | 促成国家科学基金会全额资助大型地面射电与光学观测设施，推动天文科研国家化。 |

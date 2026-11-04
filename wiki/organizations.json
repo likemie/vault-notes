@@ -284,6 +284,15 @@
         "医学研究慈善协会"
       ]
     },
+    "Atomic Energy Commission": {
+      "path": "wiki/facts/us/Atomic Energy Commission.md",
+      "names": [
+        "Atomic Energy Commission",
+        "美国原子能委员会",
+        "USAEC",
+        "United States Atomic Energy Commission"
+      ]
+    },
     "Australian Council for Educational Research": {
       "path": "wiki/facts/australia/Australian Council for Educational Research.md",
       "names": [
@@ -3041,6 +3050,12 @@
         "wiki/facts/us/1956 IBM Consent Decree.md"
       ]
     },
+    "美国总统科学顾问委员会（PSAC）": {
+      "seen_in": [
+        "wiki/facts/us/Education for the Age of Science 1959.md",
+        "wiki/facts/us/Strengthening American Science 1958.md"
+      ]
+    },
     "Aarhus University": {
       "seen_in": [
         "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
@@ -3516,6 +3531,11 @@
         "wiki/facts/china/Rural School Consolidation.md"
       ]
     },
+    "国际科学计量与信息计量学会（ISSI）/ 莱顿大学科学技术研究中心（CWTS）学者联盟": {
+      "seen_in": [
+        "wiki/facts/global/Leiden Manifesto.md"
+      ]
+    },
     "奥地利联邦教育、科学与研究部（BMBWF）": {
       "seen_in": [
         "wiki/facts/austria/New Teacher Education Scheme.md"
@@ -3619,6 +3639,11 @@
     "白宫管理与预算办公室（OMB）": {
       "seen_in": [
         "wiki/facts/us/Build America, Buy America Act.md"
+      ]
+    },
+    "科学技术部": {
+      "seen_in": [
+        "wiki/facts/china/Open Competition Mechanism.md"
       ]
     },
     "美国卫生与公众服务部": {

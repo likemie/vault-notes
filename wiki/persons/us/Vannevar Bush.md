@@ -14,7 +14,7 @@ person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-26
+updated: 2026-11-04
 tags:
   - person/engineer
   - person/policy-architect
@@ -56,7 +56,6 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Chris Freeman]]"
@@ -92,6 +91,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
+  - "[[Argument_Yang_2017_MUE]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Fan_2026_BCAS]]"
@@ -106,9 +106,9 @@ created: 2026-10-02
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国电机工程师、发明家、科学管理者与战后国家科技政策奠基人；麻省理工学院（MIT）副校长兼工学院院长（1932–1938）、卡内基科学研究所所长（1939–1955）；二战期间出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，直接向[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报。
+> - **身份位置** 美国电机工程师、发明家、科学管理者与战后国家科技政策奠基人；麻省理工学院（MIT）副校长兼工学院院长（1932–1938）、卡内基科学研究所所长（1939–1955）；二战期间出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，直接向[[Franklin D. Roosevelt|富兰克林·罗斯福总统]]汇报。
 > - **核心角色** 战后美国国家科研资助契约的总缔造者与[[Technological Republic|技术共和国]]的制度原型奠基人；在 1945 年具有里程碑意义的国情咨询报告《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中，成功确立了联邦政府全额资助大学自由学术探索的合法性，推动了国家科学基金会（[[National Science Foundation|NSF]]）的创立；其报告制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
-> - **代表贡献** 提出并起草《科学——无尽的前沿》；战时统筹动员全美科研资源推进微波雷达、近炸引信与原子弹（[[Manhattan Project|曼哈顿工程]]）攻关；发明机械式连续微分分析仪（早期模拟计算机原型）；在 1945 年论文《诚如所思》（*As We May Think*）中构想了微缩胶片信息检索系统 Memex（超文本与现代互联网概念先驱）。
+> - **代表贡献** 提出并起草《科学——无尽的前沿》；战时统筹动员全美科研资源推进微波雷达、近炸引信与原子弹（[[Manhattan Project|曼哈顿工程]]）攻关；发明机械式连续微分分析仪（早期模拟计算机原型）；在 1945 年发表的《诚如所思》（*As We May Think*）中构想了微缩胶片信息检索系统 Memex（超文本与现代互联网概念先驱）。
 
 > [!citation-card] 布什的战后科学契约定位与当代对照
 > 布什将研究分割为基础与应用领域的做法，在过去七十年间被载入美国多数科技政策中，成为战后联邦介入科研过程的试金石与传统创新叙事的基石。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
@@ -133,6 +133,7 @@ created: 2026-10-02
 > - **1939–1941年** 出任华盛顿卡内基科学研究所所长，深度介入国家防务与科技战略咨询；1940 年说服[[Franklin D. Roosevelt|罗斯福总统]]设立国防科研委员会（NDRC）并担任主席。
 > - **1941–1945年** 出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，战时动员全美顶尖大学学者与工业企业工程师，以合同外包机制统筹推进雷达、青霉素量产、近炸引信及[[Manhattan Project|曼哈顿工程]]；1942 年《科利尔》（*Collier's*）杂志直称其为可能赢得战争的人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1944–1945年** 1944 年 11 月应罗斯福总统关于战后如何将受战事冲击的物理学家等科研力量重新导向民用科学进步之问询，组织四大学者委员会起草纲领性报告，于 1945 年 7 月正式呈交《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science, The Endless Frontier*），为战后美国国家科技战略确立了长达数十年的制度框架。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
+> - **1947–1950年** 伴随战后科学管理权限分歧与杜鲁门政府军工计划性倾向，布什失去政治威信于 1947 年离开华府，战时建立的 OSRD 随之撤销；其倡导的免于政治干预的纯基础研究设想一度遭到搁置，大学科研被五角大楼与原子能委员会的定向合同深度捆绑。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 > - **1950–1974年** 推动[[United States Congress|美国国会]]通过法案设立国家科学基金会（NSF，1950）；担任 AT&T 与默克制药等企业董事；1974 年逝世于马萨诸塞州贝尔蒙特，享年 84 岁。
 
 ---
@@ -141,7 +142,7 @@ created: 2026-10-02
 > - **1920s–1930s — 工程技术创新与计算先驱期** 专注于复杂电力网络计算与模拟计算机硬件设计，开创模拟计算工程学。
 >   - **代表工作** 微分分析仪研制；创立雷神公司（Raytheon）前身。
 >   - **阶段特征** 具备深厚的工程师动手制作与工程制造底色，强调以机器与实用工具突破人类计算极限。
-> - **1940–1945 — 战时国防科研动员与跨界协同期** 在 [[Office of Scientific Research and Development|OSRD]] 架构下将大学学者与工业研发网络高度统合，实现理论物理与装备工程的跨界大协同。1942 年《科利尔》杂志向全美近三百万读者介绍布什为可能赢得战争的人，树立了科学家在国家生存中的崇高地位。
+> - **1940–1945 — 战时国防科研动员与跨界协同期** 在 [[Office of Scientific Research and Development|OSRD]] 架构下紧密联合大学学者与工业研发网络，实现理论物理与装备工程的跨界大协同。1942 年《科利尔》杂志向全美近三百万读者介绍布什为可能赢得战争的人，树立了科学家在国家生存中的崇高地位。
 >   - **代表著作** *As We May Think* (Atlantic Monthly, 1945)。
 >   - **关键机制** 战时合同外包制、Memex 超文本概念原型、军工产学大协同、[[Technological Republic|技术共和国]]雏形。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
@@ -180,7 +181,7 @@ created: 2026-10-02
 ---
 
 > [!person-network] 关系网络
-> - **政治委托人** [[Michael Fullan|富兰]]克林·罗斯福（[[Franklin D. Roosevelt]]）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
+> - **政治委托人** [[Franklin D. Roosevelt|富兰克林·罗斯福]]、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战时科学指挥协同者** [[J. Robert Oppenheimer]] — 布什支持并委任奥本海默领导洛斯阿拉莫斯实验室，二人共同开创了[[Manhattan Project|曼哈顿工程]][[Big Science|大科学]]攻坚[[Paradigm|范式]]。
 > - **当代历史对话者与改革者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 2026 年主持起草《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照[[Science, The Endless Frontier 1945|布什报告]]的基础上重构战后科技资助与制造承接体系。
 > - **地缘战略与技术动员反思者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 2025 年在《[[Technological Republic|技术共和国]]》中回顾布什主导 [[Office of Scientific Research and Development|OSRD]] 时期科学界与国家安全机构的高度互信与战略结盟，呼唤在新一代人工智能竞争与破除[[Big Idea Famine|大构想饥荒]]中重振这一动员传统。
@@ -211,7 +212,7 @@ created: 2026-10-02
 > >
 > > - **科学技术史与政策学者批评** 纳拉亚纳穆尔提等人指出，布什将科学与技术人为割裂为两条平行轨道，忽视了瓦特蒸汽机启发热力学、半导体异质结构发明催生量子物理发现等工程先于理论的历史事实；这种划分强化了轻视工艺制作的文化偏见，导致美国在长周期关键战略硬件制造与先进制造工艺上面临政府不愿投、市场投不起的系统性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“纯基础研究免受实用干扰”假定，在当时具有紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
-> > - **地缘技术动员辩护** 卡普与扎米斯卡强调，布什真正的历史遗产不在于后人僵化的线性理论教条，而在于其在战时与冷战初期成功构建了国家安全使命与顶尖科研探索高度互信的组织动员能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 7)]]
+> > - **地缘技术动员辩护** 卡普与扎米斯卡强调，布什历史遗产的核心体现为其在战时与冷战初期成功构建了国家安全使命与顶尖科研探索高度互信的组织动员能力，超越了后人僵化的线性理论教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 7)]]
 >
 > > [!axis] 布什所播之种 vs. 大学能动改造：当代学术危机的历史归因
 > > 当代[[Research Universities|研究型大学]]科研系统面临的避险风气、博士生产过剩与学科失衡，究竟应当归咎于布什的顶层设计，还是大学的主动策略？
@@ -227,14 +228,14 @@ created: 2026-10-02
 
 ---
 
-> [!entry-map] 相关条目网络
+> [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关系 |
+> | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Technological Republic]] | Concept | 布什领导的 [[Office of Scientific Research and Development\|OSRD]] 是现代技术共和国政产学研深度结盟的组织原型。 |
 > | [[Big Idea Famine]] | Concept | 当代科技界背离布什攻坚深层实体物理难题传统而陷入的消费软件内卷现象。 |
 > | [[Counterculture Computing]] | Concept | 1970 年代硅谷反体制计算运动，颠覆了布什开创的国家战略与科学结盟传统。 |
-> | [[Consumer Internet]] | Concept | 反文化计算运动蜕变形成的消费网络形态，背离了布什时期的深层国家使命。 |
+> | [[Consumer Internet]] | Concept | 反文化计算运动演化形成的消费网络形态，背离了布什时期的深层国家使命。 |
 > | [[Technological Agnosticism]] | Concept | 硅谷与国家战略利益脱节的技术不可知论，与布什将科技服务于国家大战略的信念形成对立。 |
 > | [[Hacker Ethic]] | Concept | 硅谷黑客伦理对集中官僚体制的批判，直接构成了对布什[[Big Science\|大科学]]管理[[Paradigm\|范式]]的反叛。 |
 > | [[Science, The Endless Frontier 1945]] | Fact ([[Document]]) | 布什起草的战后美国国家科技政策奠基性国情咨询报告。 |
@@ -243,17 +244,18 @@ created: 2026-10-02
 > | [[Manhattan Project]] | Fact (Project) | 布什在国家战略顶层统筹推进的标志性战时[[Big Science\|大科学]]攻坚工程。 |
 > | [[J. Robert Oppenheimer]] | Person | 布什委任并支持的曼哈顿工程科学主任，二人共同开创大科学工程攻坚模式。 |
 > | [[Franklin D. Roosevelt]] | Person | 委托布什成立 NDRC/OSRD 并起草战后科学发展报告的美国总统。 |
-> | [[Alexander Karp]] | Person | 《技术共和国》作者，高度评价布什开创的科学家与国家战略使命结盟模式。 |
+> | [[Alexander Karp]] | Person | 在《技术共和国》中高度评价布什开创的科学家与国家战略使命结盟模式。 |
 > | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，主张重振布什动员传统以消解公共部门[[Innovation Desert\|创新荒漠]]。 |
 > | [[Fred Block]] | Person | 政治社会学家，系统剖析布什二分法的后工业失效与美国[[Developmental Network State\|发展型网络国家]]的崛起。 |
 
 ---
 
-> [!evidence-grid-a] 相关文献索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中深度解构布什 1945 年报告的战后体制假定，揭示其依赖大企业封闭实验室吸收基础发现的历史局限；论证随着大企业实验室收缩与[[Valley of Death|死亡之谷]]凸显，美国被迫通过 1980 年代科技立法转向由发展型网络国家暗中主导的早期研发撮合机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考察二战后布什因科学管理权分歧离开华府、OSRD 撤销及自由基础研究设想在冷战初期军工合同垄断下受挫的历史波折。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]视角系统解构布什的线性模型。
 > - [[Argument_Stephan_2013_NBER|Stephan, 2013]] — 考察战后大学对布什契约的能动改造与微观异化。

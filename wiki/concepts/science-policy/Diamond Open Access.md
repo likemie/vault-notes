@@ -6,7 +6,6 @@ aliases:
   - 社区开放获取
   - 非商业开放获取
   - 零费用开放获取
-  - Diamond Open Access
   - Diamond OA
   - platinum open access
   - community-driven open access
@@ -14,10 +13,10 @@ aliases:
 summary: "学术出版与科学传播中由学术机构、学会或公共基金直接出资维护的非商业性学术交流范式；其核心特征是发文无须缴纳高昂文章处理费（APC），阅读亦无须支付订阅费或打破付费墙；通过将学术出版基础设施重归公共学术共同体托管，旨在根除商业出版寡头通过 APC 转移公共科研经费的暴利寻租，消除低资源地区与青年学者面临的经济发表壁垒。"
 type: concept
 domain: "science-policy"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - theme/open-science
@@ -25,21 +24,14 @@ tags:
   - theme/academic-publishing
   - theme/science-policy
 related_concepts:
-  - "[[Academic Precarity]]"
   - "[[Junkification of Research]]"
-  - "[[Slow Science]]"
-  - "[[Strategic Conformity in Academia]]"
   - "[[Early-Career Researchers]]"
-  - "[[Journal Impact Factor]]"
-  - "[[Block Grants]]"
+  - "[[Slow Science]]"
 related_theories:
   - "[[Academic Capitalism]]"
-related_methods:
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Phillip J. Haubrock]]"
-  - "[[Teun Everts]]"
+related_persons: []
 related_facts:
   - "[[Declaration on Research Assessment]]"
   - "[[Leiden Manifesto]]"
@@ -61,7 +53,7 @@ updated: 2026-11-04
 > - **用途** 瓦解商业出版商通过 APC 制造的财富准入壁垒，防范科研财政资金被商业期刊利润截留，保护低资源学者平等的科学表达权。
 > - **边界** 钻石开放获取关注的是出版基础设施的公共属性与零费用准入，仍需维持严格独立的同行学术质量评审，不能与缺乏同行审议的纯粹个人网络张贴混为一谈。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card] 社区主导出版与 APC 模式的反思
 > 转向钻石开放获取等双向免除研创者与读者费用的机制，抵制商业文章处理费的暴利寻租……消除发文层面的经济壁垒，阻止公共资金向私人出版部门流失。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 >
 > *(Shifting towards community-based publishing fora... Diamond Open Access... At the same time, the socio-economic sustainability of APC-dependent publishing models requires reassessment, as escalating costs divert public research funds away from personnel and long-term capacity building.)*

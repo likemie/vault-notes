@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 48
+method_related_count: 49
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Classroom Observation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Mo_2026_BNSFC]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
@@ -75,7 +76,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-29
+updated: 2026-11-04
 ---
 
 ---
@@ -155,6 +156,7 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 在探索性序列设计第一阶段对 14 位取得原始创新突破的青年拔尖人才开展一对一半结构化访谈（单次 60～120 分钟），系统提炼学术职业早期的六重两难抉择。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–11)]] — 在英格兰、格拉斯哥与汉堡选取 9 所学校的校长做 1 小时半结构化访谈，探究[[School Leadership|学校领导]]者在不同治理背景下获取与使用证据的渠道和约束。

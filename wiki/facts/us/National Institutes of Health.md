@@ -11,10 +11,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 50
-fact_related_level: 5
-fact_related_stars: "💎⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_count: 48
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dcfce7"
 org_type: 联邦生物医学与公共健康科研机构
 headquarters: 美国马里兰州贝塞斯达（Bethesda, Maryland）
 established: "1887"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Total War]]"
   - "[[Golden Ticket Mechanism]]"
-  - "[[Data Infrastructure]]"
   - "[[Avatar]]"
   - "[[Clinical Trial]]"
   - "[[Externalization]]"
@@ -51,12 +50,10 @@ related_methods:
   - "[[External Auditor]]"
 related_instruments: []
 related_persons:
-  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
-  - "[[Mariana Mazzucato]]"
   - "[[Fred Block]]"
+  - "[[Mariana Mazzucato]]"
 related_facts:
-  - "[[ASEAN Economic Community]]"
   - "[[Office of Naval Research]]"
   - "[[National Science Foundation]]"
   - "[[Human Genome Project]]"
@@ -66,31 +63,32 @@ related_facts:
   - "[[Science A New Golden Age 2026]]"
   - "[[Accelerating Medicines Partnership]]"
   - "[[Protein Data Bank]]"
-  - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[DARPA]]"
   - "[[SciSciNet]]"
 related_arguments:
-  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Yang_2017_MUE]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 ---
 
 > [!claim] 核心定位
-> 国立卫生研究院（National Institutes of Health, NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于卫生与公众服务部（Department of Health and Human Services, HHS）；作为战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的健康使命基石，与原子能委员会（[[ASEAN Economic Community|AEC]]）、[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）及国家科学基金会（[[National Science Foundation]], NSF）并立，在[[Social Contract of Science|科学社会契约]]框架下推进基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> 国立卫生研究院（National Institutes of Health, NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于卫生与公众服务部（Department of Health and Human Services, HHS）；作为战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的健康使命基石，与原子能委员会（Atomic Energy Commission, AEC）、[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）及国家科学基金会（[[National Science Foundation]], NSF）并立，在[[Social Contract of Science|科学社会契约]]框架下推进基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 前身为 1887 年在纽约斯塔滕岛建立的海员卫生检验实验室，1891 年迁至华盛顿特区，1930 年通过《兰斯德尔法案》（Ransdell Act）正式重组命名为国家卫生研究院（NIH），旨在为控制烈性传染病与提升国家公共卫生水平提供科学支撑。
@@ -100,10 +98,11 @@ updated: 2026-11-02
 
 ---
 
-> [!dev-timeline] 组织发展与治理演变历程
+> [!org-evolution] 组织发展历程
 > - **1887–1937 — 传染病控制与中央实验室初创期** 早期专注于霍乱、黄热病等跨国烈性传染病的病原微生物分离与检疫，奠定了美国现代公共卫生微观科学基础。
-> - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
-> - **1948–1960s — 战后主动动员与院外资助体系确立** 1948 年资助约 120 所高校（前 10 位医学院占据约 75% 经费）；高级官员弗雷德·斯通差旅逾 20 万英里动员学者申报，确立了以独立同行评审委员会（Study Sections）为核心的 R01 独立研究员资助机制与薪资报销渠道，奠定了分布式资助支柱地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 7–8, 14)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
+> - **1948–1957 — 战后主动动员与院外资助体系确立** 1948 年资助约 120 所高校（前 10 位医学院占据约 75% 经费）；高级官员弗雷德·斯通差旅逾 20 万英里动员学者申报，确立了以独立同行评审委员会（Study Sections）为核心的 R01 独立研究员资助机制与薪资报销渠道，奠定了分布式资助支柱地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 7–8, 14)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1957–1968 — 危机驱动的民用转向与基础医学黄金鼎盛期** 斯普特尼克危机促成联邦科研资助格局向民事同行评议机构转移，NIH 与 NSF、NASA 共同确立为全美大学自由探索式基础研究的核心出资中枢，推动联邦科研拨款占大学科研总收入比例由 1953 年的 54.6% 持续攀升至 1970 年的 69.7%。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **1970s–1990s — 资助机制转向、法定[[Technology Transfer|技术转移]]与[[Human Genome Project|人类基因组计划]]** 独立培训项目缩减，研究生与博士后普遍依赖课题助研津贴；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1986 年《联邦技术转移法》（FTTA）赋予 NIH 及其科研人员通过[[Cooperative Research and Development Agreement|合作研究与开发协议]]（CRADA）将公共资助专利直接授权私营药企商业化的法定权力，促使 NIH 全面嵌入生物医药商业化网络；联合能源部（[[Department of Energy]], DOE）启动并攻克[[Human Genome Project|人类基因组计划]]（HGP）。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 18, 20)]]
 > - **1998–2002 — 国会预算翻倍计划及其体制后遗症** 国会推行五年预算翻倍（从 1998 年约 130 亿美元增至 2002 年 270 余亿美元）；刺激高校大举借债扩建科研大楼与设立软钱教职，但在翻倍结束后引发课题立项率暴跌（跌破 20%）、项目负责人显著老龄化与医学院偿债危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28, 33–34)]]
 > - **2003–2022 — 转化医学创新、主任先锋奖与可重复性反思** 设立国家推进[[Transfer Science|转化科学]]中心（NCATS）跨越临床转化“[[Valley of Death|死亡之谷]]”；创设主任先锋奖（NIH Director's Pioneer Award）探索长周期对人资助；同时面对日益严峻的[[Reproducibility Crisis|可重复性危机]]与评审避险倾向。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
@@ -231,3 +230,4 @@ updated: 2026-11-02
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 统计核心资助老龄化倒挂与首资门槛推迟（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit 02]]），并分析青年 R01 挫折断点效应与专利转化网络（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 清洗并高保真映射 601 万条 NIH 课题资助与主出版物记录（重合度 99.7%），打通公共资助向上游立项与下游专利、临床转化的全景实证网络。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 综述基于 NIH R01 资助打分断点检验早期学术挫折对高影响力代表作产出的强化效应（+6.1%），并评述 HHMI 对人资助与 NIH 传统项目资助对突破性探索的因果对比（pp. 341–350）。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考证斯普特尼克危机后联邦科研重心从军工合同向 NIH 等民事同行评议机构转移的演化历程，量化呈现联邦资助占大学科研总收入比重显著增长的黄金时代。

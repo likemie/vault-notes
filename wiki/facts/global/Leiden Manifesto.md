@@ -12,6 +12,10 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "国际科学计量与信息计量学会（ISSI）/ 莱顿大学科学技术研究中心（CWTS）学者联盟"
 start_year: "2015"
 tags:
@@ -21,18 +25,13 @@ tags:
   - theme/scientometrics
   - theme/higher-education-policy
 related_concepts:
-  - "[[Declaration on Research Assessment]]"
-  - "[[Journal Impact Factor]]"
   - "[[Goodhart's Law]]"
-  - "[[Author Contribution Disclosures]]"
   - "[[Scientific Creativity]]"
   - "[[Slow Science]]"
   - "[[Junkification of Research]]"
-  - "[[Strategic Conformity in Academia]]"
 related_theories: []
 related_methods:
-  - "[[Bibliometric Analysis]]"
-  - "[[Evaluation Research]]"
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -123,7 +122,7 @@ updated: 2026-11-04
 > | [[Goodhart's Law]] | 概念 | 莱顿宣言倡导定期审查指标、防范策略性刷量的核心理论依归。 |
 > | [[Scientific Creativity]] | 概念 | 落实莱顿原则有助于为颠覆性假说松绑，促成创造力的涌现。 |
 > | [[Slow Science]] | 概念 | 莱顿宣言保护本土研究与长程探索的原则与慢科学范式深度契合。 |
-> | [[Junkification of Research]] | 概念 | 坚决破除粗放数量指标是扭转科研成果劣质化泛滥的关键抓手。 |
+> | [[Junkification of Research]] | 概念 | 坚决破除粗放数量指标是扭转科研成果劣质化泛滥的核心举措。 |
 
 ---
 

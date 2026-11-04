@@ -7516,6 +7516,20 @@
     ]
   },
   {
+    "title": "Academic Impostor Syndrome",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Academic Impostor Syndrome.md",
+    "aliases": [
+      "学术冒名顶替综合征",
+      "学术冒充者综合征",
+      "冒名顶替综合征",
+      "学术冒充者现象",
+      "冒名顶替现象",
+      "impostor phenomenon in academia",
+      "academic impostorism"
+    ]
+  },
+  {
     "title": "Academic Procrastination",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Academic Procrastination.md",
@@ -9107,6 +9121,20 @@
       "学习社交融入理论",
       "学业融入与社交融入",
       "Tinto 融入理论"
+    ]
+  },
+  {
+    "title": "Academic Brain Drain",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Brain Drain.md",
+    "aliases": [
+      "学术智力外流",
+      "学术人才外流",
+      "学术脑流失",
+      "学术人才流失",
+      "科学人才外流",
+      "academic talent flight",
+      "brain drain in academia"
     ]
   },
   {
@@ -16361,6 +16389,22 @@
     ]
   },
   {
+    "title": "Diamond Open Access",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Diamond Open Access.md",
+    "aliases": [
+      "钻石开放获取",
+      "钻石OA",
+      "社区开放获取",
+      "非商业开放获取",
+      "零费用开放获取",
+      "Diamond OA",
+      "platinum open access",
+      "community-driven open access",
+      "no-fee open access"
+    ]
+  },
+  {
     "title": "Digital Twin in Manufacturing",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Digital Twin in Manufacturing.md",
@@ -16823,6 +16867,30 @@
     ]
   },
   {
+    "title": "Linguistic Injustice in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Linguistic Injustice in Science.md",
+    "aliases": [
+      "科学出版语言不公",
+      "学术语言不公",
+      "学术语言壁垒",
+      "语言不公",
+      "科学语言不公",
+      "linguistic injustice",
+      "linguistic bias in academic publishing",
+      "English hegemony in science"
+    ]
+  },
+  {
+    "title": "Little Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Little Science.md",
+    "aliases": [
+      "小科学",
+      "传统小科学"
+    ]
+  },
+  {
     "title": "Long-Term Public Utility",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Long-Term Public Utility.md",
@@ -17263,6 +17331,17 @@
     ]
   },
   {
+    "title": "Research Tool",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Research Tool.md",
+    "aliases": [
+      "科研工具",
+      "实验工具",
+      "研究工具",
+      "research tools"
+    ]
+  },
+  {
     "title": "Retraction Penalty",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Retraction Penalty.md",
@@ -17590,6 +17669,23 @@
       "终身总引用量",
       "终身学术影响",
       "Ultimate Scientific Impact"
+    ]
+  },
+  {
+    "title": "Unpaid Peer Review Labor",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Unpaid Peer Review Labor.md",
+    "aliases": [
+      "同行评审无偿劳动",
+      "审稿无偿劳动",
+      "志愿审稿劳动",
+      "学术审稿无偿劳动",
+      "免费审稿劳动",
+      "审稿劳动异化",
+      "unpaid peer review",
+      "volunteer peer review",
+      "uncompensated peer review",
+      "peer review exploitation"
     ]
   },
   {
@@ -19534,6 +19630,17 @@
       "篮式试验",
       "伞式试验",
       "平台试验"
+    ]
+  },
+  {
+    "title": "Material Transfer Agreement",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Material Transfer Agreement.md",
+    "aliases": [
+      "材料转移协议",
+      "材料转让协议",
+      "MTA",
+      "Material Transfer Agreements"
     ]
   },
   {
@@ -25844,6 +25951,16 @@
     ]
   },
   {
+    "title": "Genetic Matching",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Genetic Matching.md",
+    "aliases": [
+      "遗传匹配",
+      "遗传匹配算法",
+      "GenMatch"
+    ]
+  },
+  {
     "title": "h-alpha Index",
     "type": "method",
     "path": "wiki/methods/quantitative/h-alpha Index.md",
@@ -26556,6 +26673,18 @@
     "aliases": [
       "参数设计",
       "parametric experiment"
+    ]
+  },
+  {
+    "title": "Patent-Paper Pairs",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Patent-Paper Pairs.md",
+    "aliases": [
+      "专利-论文对",
+      "专利论文对",
+      "专利论文配对法",
+      "patent-paper pair",
+      "patent paper pairs"
     ]
   },
   {
@@ -31625,6 +31754,17 @@
     ]
   },
   {
+    "title": "Alan T. Waterman",
+    "type": "person",
+    "path": "wiki/persons/us/Alan T. Waterman.md",
+    "aliases": [
+      "艾伦·T·沃特曼",
+      "艾伦·沃特曼",
+      "Alan Tower Waterman",
+      "沃特曼"
+    ]
+  },
+  {
     "title": "Albert Bandura",
     "type": "person",
     "path": "wiki/persons/us/Albert Bandura.md",
@@ -32577,6 +32717,17 @@
     ]
   },
   {
+    "title": "George Kistiakowsky",
+    "type": "person",
+    "path": "wiki/persons/us/George Kistiakowsky.md",
+    "aliases": [
+      "乔治·基斯佳科夫斯基",
+      "基斯佳科夫斯基",
+      "George B. Kistiakowsky",
+      "George Bogdan Kistiakowsky"
+    ]
+  },
+  {
     "title": "George Psacharopoulos",
     "type": "person",
     "path": "wiki/persons/us/George Psacharopoulos.md",
@@ -32664,6 +32815,18 @@
       "Harriet Anne Zuckerman",
       "H. Zuckerman",
       "Zuckerman, H."
+    ]
+  },
+  {
+    "title": "Harry S. Truman",
+    "type": "person",
+    "path": "wiki/persons/us/Harry S. Truman.md",
+    "aliases": [
+      "哈里·S·杜鲁门",
+      "哈里·杜鲁门",
+      "杜鲁门",
+      "Harry Truman",
+      "杜鲁门总统"
     ]
   },
   {
@@ -32902,6 +33065,17 @@
     ]
   },
   {
+    "title": "James B. Conant",
+    "type": "person",
+    "path": "wiki/persons/us/James B. Conant.md",
+    "aliases": [
+      "詹姆斯·B·柯南特",
+      "詹姆斯·柯南特",
+      "柯南特",
+      "James Bryant Conant"
+    ]
+  },
+  {
     "title": "James C. Scott",
     "type": "person",
     "path": "wiki/persons/us/James C. Scott.md",
@@ -32945,6 +33119,18 @@
       "James Cattell",
       "J. M. Cattell",
       "Cattell, J. M."
+    ]
+  },
+  {
+    "title": "James R. Killian Jr.",
+    "type": "person",
+    "path": "wiki/persons/us/James R. Killian Jr.md",
+    "aliases": [
+      "詹姆斯·R·基利安",
+      "詹姆斯·基利安",
+      "基利安",
+      "James Rhyne Killian Jr.",
+      "James Killian"
     ]
   },
   {
@@ -35749,6 +35935,8 @@
     "path": "wiki/facts/china/Open Competition Mechanism.md",
     "aliases": [
       "揭榜挂帅",
+      "揭榜挂帅制",
+      "科技攻关揭榜挂帅",
       "Jiebang Guashuai"
     ],
     "subtype": "policy"
@@ -38569,6 +38757,19 @@
       "ICMJE 数据共享要求",
       "ICMJE clinical trial registration requirement",
       "ICMJE data sharing statement"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Leiden Manifesto",
+    "type": "fact",
+    "path": "wiki/facts/global/Leiden Manifesto.md",
+    "aliases": [
+      "莱顿宣言",
+      "Leiden Manifesto for Research Metrics",
+      "负责任科研计量莱顿宣言",
+      "科研计量莱顿宣言",
+      "莱顿原则"
     ],
     "subtype": "policy"
   },
@@ -43456,7 +43657,9 @@
       "Bush report",
       "Vannevar Bush report",
       "无尽的前沿",
-      "布什报告"
+      "布什报告",
+      "科学：无尽的前沿",
+      "科学：无尽的边疆"
     ],
     "subtype": "event"
   },
@@ -43522,6 +43725,18 @@
       "Physician Payments Sunshine Act",
       "Open Payments",
       "开放支付"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Symposium on Basic Research 1959",
+    "type": "fact",
+    "path": "wiki/facts/us/Symposium on Basic Research 1959.md",
+    "aliases": [
+      "1959年基础研究研讨会",
+      "基础研究研讨会",
+      "基础研究研讨会 1959",
+      "纽约基础研究研讨会"
     ],
     "subtype": "event"
   },
@@ -43752,6 +43967,17 @@
       "高级健康研究计划局",
       "美国高级健康研究计划局",
       "Advanced Research Projects Agency for Health"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Atomic Energy Commission",
+    "type": "fact",
+    "path": "wiki/facts/us/Atomic Energy Commission.md",
+    "aliases": [
+      "美国原子能委员会",
+      "USAEC",
+      "United States Atomic Energy Commission"
     ],
     "subtype": "organization"
   },
@@ -44887,6 +45113,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Basic Research and National Goals 1965",
+    "type": "fact",
+    "path": "wiki/facts/us/Basic Research and National Goals 1965.md",
+    "aliases": [
+      "基础研究与国家目标",
+      "基础研究与国家目标 1965",
+      "Basic Research and National Goals",
+      "COSPUP 1965 Report",
+      "1965年基础研究与国家目标报告"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Bayh-Dole Act of 1980",
     "type": "fact",
     "path": "wiki/facts/us/Bayh-Dole Act of 1980.md",
@@ -44946,6 +45185,33 @@
       "Federal Policy for the Protection of Human Subjects",
       "人类受试者保护通用规则",
       "OHRP Common Rule"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "COSPUP Discipline Surveys 1962–1966",
+    "type": "fact",
+    "path": "wiki/facts/us/COSPUP Discipline Surveys 1962–1966.md",
+    "aliases": [
+      "COSPUP 学科普查报告 1962–1966",
+      "COSPUP 学科调查",
+      "COSPUP 学科普查报告",
+      "COSPUP Discipline Surveys",
+      "科学与公共政策委员会学科调查报告",
+      "四大学科十年调查报告"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Education for the Age of Science 1959",
+    "type": "fact",
+    "path": "wiki/facts/us/Education for the Age of Science 1959.md",
+    "aliases": [
+      "科学时代的教育",
+      "科学时代的教育 1959",
+      "Education for the Age of Science",
+      "PSAC 1959 Report",
+      "1959年科学时代的教育报告"
     ],
     "subtype": "policy"
   },
@@ -45103,7 +45369,8 @@
       "国防教育法案",
       "国防教育法",
       "NDEA",
-      "1958年国防教育法"
+      "1958年国防教育法",
+      "National Defense Education Act"
     ],
     "subtype": "policy"
   },
@@ -45333,6 +45600,20 @@
       "美国高等教育未来委员会报告",
       "A Test of Leadership",
       "Commission on the Future of Higher Education Report"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Strengthening American Science 1958",
+    "type": "fact",
+    "path": "wiki/facts/us/Strengthening American Science 1958.md",
+    "aliases": [
+      "加强美国科学：联邦政府的角色",
+      "加强美国科学",
+      "加强美国科学 1958",
+      "Strengthening American Science",
+      "PSAC 1958 Report",
+      "1958年加强美国科学报告"
     ],
     "subtype": "policy"
   },
@@ -48276,6 +48557,11 @@
     "title": "Argument_Schnee_1978_RP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Research Policy/Argument_Schnee_1978_RP.md"
+  },
+  {
+    "title": "Argument_Thompson_et_al_2018_RP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
   },
   {
     "title": "Argument_Bainbridge_2022_ROE",

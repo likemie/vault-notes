@@ -1,0 +1,1282 @@
+=== PAGE 1 ===
+Contents lists available at ScienceDirect
+Research Policy
+journal homepage: www.elsevier.com/locate/respol
+University licensing and the ﬂow of scientiﬁc knowledge☆
+Neil C. Thompsona, Arvids A. Ziedonisb,⁎, David C. Moweryc
+a Sloan School of Management, Massachusetts Institute of Technology, United States
+b Questrom School of Business, Boston University, United States
+c Haas School of Business, University of California, Berkeley, United States
+A R T I C L E I N F O
+JEL classiﬁcation:
+O31
+O32
+R12
+Keywords:
+University research
+Technology transfer
+Scientiﬁc communication
+Intellectual property
+Licensing
+Material transfer agreements
+Research inputs
+Research tools
+A B S T R A C T
+As university involvement in technology transfer and entrepreneurship has increased, concerns over the patenting
+and licensing of scientiﬁc discoveries have grown. This paper examines the eﬀect that the licensing of academic
+patents has on journal citations to academic publications covering the same scientiﬁc research. We analyze data on
+invention disclosures, patents, and licenses from the University of California, a leading U.S. academic patenter and
+licensor, between 1997 and 2007. We also develop a novel “inventor-based” maximum-likelihood matching
+technique to automate and generalize Murray's (2002) “patent-paper pairs” methodology. We use this metho-
+dology to identify the scientiﬁc publications associated with University of California patents and licenses.
+Based on a “diﬀerence-in-diﬀerences” analysis, we ﬁnd that within our sample of patented academic dis-
+coveries, citations to licensed patent-linked publications are higher in the three years after the license, although
+this diﬀerence is not statistically signiﬁcant. We then disaggregate our sample into (a) patented discoveries that
+are likely to be used as “research tools” by other researchers (based on the presence of material transfer
+agreements (MTAs) that cover them) and (b) patented discoveries not covered by MTAs. Citations to publications
+linked to licensed patents in the latter subset (not covered by MTAs) are higher for publications linked to
+licensed patents, and this diﬀerence is statistically signiﬁcant. In contrast, licensing of patented discoveries that
+are also research tools is associated with a reduction in citations to papers linked to these research advances,
+raising the possibility that licensing may restrict the ﬂow of inputs to “follow-on” scientiﬁc research.
+1. Introduction
+Growth in patenting of academic research advances in U.S. and
+other universities within the OECD has triggered considerable debate
+since at least 1980, the year of passage of the U.S. Bayh-Dole Act.
+Supporters contend that patenting and licensing of university inven-
+tions can speed the transfer of scientiﬁc discoveries to the private
+sector, promoting the commercialization of such advances. On the other
+hand, critics predict a collision between the norms of science and the
+norms of commerce, arguing that the exclusionary eﬀects of patents will
+slow the progress of science. Despite the importance of this question,
+there has been relatively little empirical work on the extent to which
+the patenting of academic research results aﬀects scientiﬁc research
+progress. The modest volume of this work (e.g., Fehder et al., 2014;
+Murray and Stern, 2007) reﬂects the challenge of obtaining data that
+can be used to examine any such eﬀects.
+This paper develops a new approach to matching scientiﬁc publica-
+tions and patents, and employs this methodology to examine the eﬀect of
+https://doi.org/10.1016/j.respol.2018.03.008
+Received 7 February 2017; Received in revised form 12 March 2018; Accepted 12 March 2018
+☆We are grateful to Wendy Streitz, Ron Franck, and other employees of the UC Oﬃce of the President for access to the intellectual property data employed in this paper, and to
+Thompson Reuters for its data on scientiﬁc publications. We also thank Fiona Murray and Scott Stern for sharing their data. This work has beneﬁted greatly from comments and
+suggestions by Brian Wright, Bronwyn Hall, Christian Helmers, Fiona Murray, Guido Bünstorf, Heidi Williams, Janet Bercovitz, Jennifer Kuan, Jian Wang, Joanne Oxley, Martin Kenney,
+Michael Frakes, Paul David, Rebecca Eisenberg, Rob Seamans, Robin Rasor, Rosemarie Ziedonis, and two anonymous reviewers and participants in seminars at the Copenhagen Business
+School, UC Berkeley, North Carolina State University, the Ohio State University, Santa Clara University, the University of South Carolina, Stanford University, the University at Buﬀalo,
+the University of Rhode Island, the 2014 USPTO-Searle Center Conference on Innovation Economics at Northwestern University, 2011 NBER Economics of Intellectual Property Policy
+and Innovation Workshop, the 2011 Georgia Tech Roundtable for Engineering Entrepreneurship Research, the 2012 Academy of Management annual meeting, the 2014 Economics of
+Knowledge Contribution and Distribution Workshop, the 3rd ZEW Conference on the Dynamics of Entrepreneurship, the Universität Bocconi Workshop on Market and Non-Market
+Mechanisms for the Exchange and Diﬀusion of Innovation, the 2016 Sumantra Ghoshal Strategy Conference, and the 2016 Munich Summer Institute. Robert Picard provided expert
+programming assistance. The authors gratefully acknowledge ﬁnancial support from the Institute for Business Innovation at the Haas School of Business, the National Science Foundation,
+the Industrial Partnerships Oﬃce at Lawrence Livermore National Laboratory, the Program in Law, Economics, and Technology at the University of Michigan Law School, the Rotman
+School of Management at the University of Toronto, and the Sloan Foundation. We also appreciate the support of the Stanford Institute of Economic Policy Research and Harvard Business
+School.
+⁎ Corresponding author.
+E-mail addresses: ziedonis@berkeley.edu, aaz1@bu.edu (A.A. Ziedonis).
+Research Policy 47 (2018) 1060–1069
+Available online 25 April 2018
+0048-7333/ © 2018 Elsevier B.V. All rights reserved.
+T
+
+
+=== PAGE 2 ===
+licensing on the journal citations to related publications. We interpret
+increased citations to these scientiﬁc publications after a license issues as
+evidence that licensing is correlated with greater prominence and use by
+other scientists of the knowledge embodied in the paper, while decreases
+in such citations may indicate a restrictive eﬀect of licensing on scientiﬁc
+communication. Drawing on related work by Walsh et al. (2007), we also
+examine the eﬀect of licenses on related scientiﬁc publications covering
+inputs to the experiments of other researchers, a class of research results
+often referred to as “research tools.”
+The next section of this paper discusses the use and potential eﬀects
+on scientiﬁc research of formal intellectual property rights covering
+academic discoveries. We describe our data and methodology in Section
+3. We present the results of our analysis in Section 4. Finally, we discuss
+the implications of our results and conclude with a summary of the
+contributions and limitations of this paper in Section 5.
+2. Research and intellectual property in academia
+Universities have long been important performers of research, par-
+ticularly basic research. U.S. universities have expanded their perfor-
+mance of basic research since the 1970s, performing almost 49% of U.S.
+basic research in 1979 (National Science Foundation, 2012, Table 4–4)
+and almost 59% in 2006 (National Science Board, 2016, Appendix
+Tables 4–7, pp. 4-150–4-156). Expansion in their role in basic research
+has coincided with increased patenting and licensing of U.S. university
+discoveries, particularly in biotechnology.
+The roles of universities as sources of both basic knowledge and
+potentially valuable ingredients for commercial innovation raises the
+possibility of conﬂict between these roles, with detrimental con-
+sequences for the advance of scientiﬁc research. Do patents and licenses
+restrict access to such knowledge? Or is the existence of a patent and/or
+a license for that patent a signal of the quality or commercial potential
+of scientiﬁc work that leads to greater exploration of the area?
+Our examination of the eﬀects of patenting and licensing on scien-
+tiﬁc communication focuses on “patent-linked publications” (Murray,
+2002). These are discoveries that are published in scientiﬁc journals
+and become the subject of successful patent applications.
+2.1. The eﬀects of intellectual property protection and licensing on scientiﬁc
+research and communication
+The growth of academic patenting has been the subject of a large
+literature and considerable debate over its eﬀects on the scientiﬁc re-
+search enterprise (e.g., Mowery et al., 2004). Heller and Eisenberg
+(1998) argue that expanded patenting of academic research results may
+result in fragmented and overlapping property rights covering biome-
+dical research, limiting the ability of scientists to access patented and
+licensed research outputs for follow-on research. Other scholars raising
+concerns over the expanded assertion of property rights in science in-
+clude Nelson (2004) and David (2004). Empirical research seeking to
+assess the eﬀects of patenting on scientiﬁc communication has ex-
+amined the eﬀects of patenting on biomedical researchers’ willingness
+to share information on their work (Blumenthal et al., 1997; Campbell
+et al., 2002). More recent research has analyzed the eﬀects of patenting
+biomedical discoveries that are also disclosed in scientiﬁc papers. Some
+of this work ﬁnds that the issuance of a patent resulted in modest but
+signiﬁcant declines in citations to the research papers related to the
+patent (Murray and Stern, 2007; Sampat, 2005).1 Similarly, Williams
+(2013) ﬁnds that patenting of genes by the private ﬁrm Celera reduced
+citations to related scientiﬁc research. Other work, however, argues
+that academic researchers rarely if ever search to determine whether a
+prospective research project or experiment will infringe on patents
+(Lei et al., 2009; Walsh et al., 2007), raising questions about the me-
+chanism behind any observed citation decreases.
+As the previous paragraph indicates, the majority of prior empirical
+research on the eﬀects on scientiﬁc communication of academic pa-
+tenting and licensing of discoveries has focused mainly on patenting of
+academic research results. The eﬀects of university licensing of these
+patents have received much less attention from scholars.
+Why and how might licenses for a speciﬁc research advance aﬀect
+the behavior of other researchers not involved as authors or patent
+holders? Sampat and Ziedonis (2004) examined patent citations to
+Columbia University and University of California patents that were li-
+censed and found that citations were higher for licensed than for un-
+licensed patents.2 These scholars interpreted this pattern of increased
+patent citations as reﬂecting growth in patenting (and potentially, re-
+search) activity in the technological area(s) surrounding the licensed
+patents. More recently, Drivas et al. (2017) found that non-licensees
+increased their citations to patents exclusively licensed (based on re-
+strictions covering either geographic area or ﬁeld of use) by the Uni-
+versity of California after the licenses were executed. Similar to Sampat
+and Ziedonis (2004), Drivas et al. (2017) regard the increase in non-
+licensee patent citations as a reaction to the potential commercial value
+signaled by the negotiation of the license.3
+A similar signaling eﬀect associated with the execution of a license
+could increase citations to publications linked to a patented and li-
+censed discovery. In such a case, the issue of a license would “de-
+monstrate” that a particular area of research has scientiﬁc value,
+leading other investigators to pursue work in related ﬁelds. It is also
+possible (see Larsen, 2011) that contemporary academic researchers
+may choose research areas partly based on their potential commercial
+value, and therefore might respond positively to a “signal” that a given
+area of research has attracted the attention of industrial licensees. Re-
+gardless of whether any such signal operates through perceptions
+among researchers of scientiﬁc or commercial potential, this argument
+predicts an increase in citations to publications linked to patented
+disclosures following the negotiation of the license.
+Equally plausible arguments, however, suggest a chilling eﬀect of
+licensing on scientiﬁc communication. Reactions by university tech-
+nology licensing oﬃces and/or their licensees to any evidence of patent
+infringement (even for research purposes, inasmuch as the legal status
+of any “research exemption” from such infringement suits remains
+unclear) could be swifter and stronger in the case of patents that are
+licensed. And licenses may include provisions for reach-through roy-
+alties and limitations on the management of intellectual property re-
+sulting from follow-on research. Moreover, the negotiation of a license
+may take considerable time, delaying other researchers’ access to the
+materials or tools embodied in the disclosure.
+We are thus agnostic on the likely direction of any eﬀect of licenses
+on scientiﬁc communication associated with publications linked to li-
+censed academic patents. Indeed, both eﬀects may be present for papers
+in various ﬁelds of research, and our ﬁndings could shed light on the
+magnitude of any oﬀsetting eﬀects.
+1 In follow-on work, Fehder et al. (2014) ﬁnd that the negative eﬀect is most pro-
+nounced for patent-related papers published in the early years of a journal's founding,
+leading them to conclude that this eﬀect is greatest before a journal has established a
+reputation for publishing “high quality” science.
+2 Although Sampat and Ziedonis, Sampat and Ziedonis do not diﬀerentiate between
+pre- and post-license citations in their regressions, they do report that 86% of citations to
+licensed patents in their sample occur after the license.
+3 Ziedonis (2007) reports that licenses negotiated by the University of California are
+conﬁdential. Firms must sign a “non-disclosure” agreement prohibiting the disclosure of
+the license or use of the University's name in marketing of products arising from the
+licensed discovery. In exchange, the University agrees to not disclose the existence of the
+license or the identity of the licensee. Under such conﬁdentiality provisions, one would
+expect a “signal” to be weak or non-existent. According to our conversations with a di-
+rector of a leading public research university technology transfer oﬃce, however, despite
+such secrecy provisions in licensing, the existence of and identity of licensees are typically
+widely known through informal conversations among academic scientists, “freedom of
+information act” requests for licensing data from public universities, and other means.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1061
+
+
+=== PAGE 3 ===
+2.2. The importance of access to research inputs
+Patents and licenses increase the “excludability” of intellectual
+property, exposing other researchers to potential legal liability in the
+event that they utilize or exploit the intellectual property protected by
+patents issued to others for their own research or commercial use. A
+diﬀerent form of excludability, highlighted by Walsh et al. (2007),
+occurs when one researcher denies physical access to materials or other
+research results that are inputs to the experiments of another re-
+searcher. The survey results of Walsh et al. (2007) indicate that such
+denials can impose signiﬁcant costs and delays on the scientiﬁc work of
+other researchers, costs and delays that according to these authors,
+exceed those associated with patents.
+One class of research inputs is widely (and imprecisely) identiﬁed as
+“research tools.” For example, the NIH Working Group on Research
+Tools (1998) deﬁnes them as “the full range of resources that scientists
+use in the laboratory … the term may thus include cell lines, mono-
+clonal antibodies, reagents, animal models, growth factors, combina-
+torial chemistry libraries, drugs and drug targets, clones and cloning
+tools (such as PCR), methods, laboratory equipment and machines,
+databases and computer software.”4
+As we noted above, Walsh et al. (2007) argue that denials of access
+to such research tools are more likely when the erstwhile supplier of
+them is engaged in “business activity,” such as licensing of the inven-
+tion disclosure associated with the tools.5 Interviews with researchers
+conducted for this study support this view, with one academic scientist
+involved in a start-up ﬁrm saying “if another company asked to use our
+[materials] for [the same purpose as our company uses them] we would
+say ‘no’ ”.6
+Even when permission is granted, however, researchers gaining
+access to research tools that are associated with licensed disclosures
+may encounter other diﬃculties, as highlighted by the celebrated case
+of the Oncomouse (Murray, 2010):
+“In 1984, scientists at Harvard University carefully engineered a
+new mouse to have a predisposition to cancer, the Oncomouse
+…The Harvard researchers …patented their creation and subse-
+quently licensed this patent to DuPont …
+[Dupont] set a high price per mouse …placed restrictions on
+breeding programs …demanded publication oversight …[and] in-
+sisted upon a share of any commercial breakthroughs made using
+the Oncomouse.”
+These and similar restrictions may limit the use by other researchers
+of research tools such as the Oncomouse. Moreover, as the NIH Working
+Group on Research Tools (1998) noted in its report, licensees may have
+an incentive to restrict access to these materials:
+“If the sponsor or licensee plans to develop the research tool as a
+commercial product for sale to researchers, it may be unwilling to
+permit the university to undercut its position in this particular
+market by giving the tool away to potential paying customers.”
+Surveys of scientists by Walsh et al. (2007) and Lei et al. (2009) ﬁnd
+that requests by researchers for research tools from industrial re-
+searchers, a group more likely to be engaged in commercial applica-
+tions of research, were rejected approximately twice as often as re-
+quests to other academics.
+As this discussion of “research tools” indicates, developing a deﬁ-
+nition that facilitates their identiﬁcation and empirical analysis is
+challenging. The deﬁnitions of research tools employed by the NIH
+Working Group and Walsh et al. (2007) are very broad and do not lend
+themselves to empirical operationalization using administrative data.
+Instead of attempting to develop and defend a deﬁnition of research
+tools that relies on the characteristics of the relevant invention dis-
+closure or patent, we identify research tools based on the existence of a
+Material Transfer Agreement (MTA) associated with a patented inven-
+tion disclosure.
+Material Transfer Agreements (MTAs) are agreements that govern
+the transfer and exchange of materials used in research. Although the
+informal exchange by researchers of biological materials for use in
+fundamental research has a long and occasionally controversial history
+in the biomedical sciences, these materials exchanges historically were
+governed by little more than a letter from the source accompanying the
+materials, requesting acknowledgement and in some cases asking that
+the materials not be passed on to third parties (McCain, 1991). The
+more elaborate MTAs used in many contemporary materials exchanges
+appear to be a byproduct of the post-1980 surge in academic patenting
+(Streitz and Bennett, 2003).
+It is important to highlight the diﬀerences between MTAs and
+formal licenses. The “research tools” that typically are covered by MTAs
+are inputs to other research activities, rather than a discovery that may
+have commercial potential. Research tools frequently are linked to li-
+censed research advances, but both the intent and the content of li-
+censes and MTAs diﬀer from one another. Licensing of academic re-
+search advances generally is limited to patented discoveries, but many
+MTAs cover unpatented research results, including cell lines, data, and
+physical artifacts. Many if not most licensing agreements contain ex-
+tensive language covering the ﬁnancial terms under which the user of a
+patented academic discovery is legally bound to compensate the li-
+censor institution, while MTAs rarely include royalty provisions beyond
+occasional “reach-through” provisions covering the use by recipient
+researchers of a research input in a research advance that is itself li-
+censed for royalties. Academic research projects may generate artifacts
+that are transferred to other researchers under the terms of an MTA, but
+produce nothing that is patented and/or licensed.
+We use the presence of an MTA to proxy whether an invention
+disclosure is a research tool.7 To conﬁrm that MTAs are a good in-
+dicator that an invention disclosure is associated with a research tool,
+we examine UC Berkeley data on incoming MTAs—that is, the agree-
+ments associated with research materials requested from other re-
+searchers by UC Berkeley researchers during 2004–2008. These data
+describe the requested materials and their intended use by the recipient
+UC Berkeley researcher. We analyzed a random sample of 50 of these
+MTAs, and found that 44% were related to DNA/RNA/Plasmids, 32%
+concerned cell lines or other biological/chemical agents, 16% were
+animal models, 6% were data transfers, and 2% were concerned with
+“other non-research inputs.” Overall, therefore, 98% of these MTAs
+4 The National Research Council panel has a similarly broad deﬁnition that includes
+materials that “…may be critical inputs for the success of a research project.” (National
+Research Council, 2010; .
+5 Walsh et al. (2007) deﬁne an academic scientist receiving a request for research in-
+puts as being involved in business activity when he or she “had been involved in nego-
+tiations over rights to their inventions; had begun developing a business plan or laying
+other groundwork for starting a ﬁrm; had a startup based on their invention; had a
+product of process in the market; or had some licensing income” (p. 1196) (italics added).
+6 Even though this scientist was unwilling to share materials in this instance, in other
+instances he/she had shared materials.
+7 It is important to emphasize that we use MTAs to identify a research tool but do not
+attempt to more precisely capture the “eﬀect” of an MTA on the communication of sci-
+entiﬁc research results. Among other things, such an analysis would require a more
+comprehensive sample of MTA-linked disclosures, including those for patented and un-
+patented disclosures, than we have. One of the few analyses of the role of MTAs in the
+scientiﬁc research enterprise is Scott Stern's discussion of biological resource centers
+(Stern, 2004). Biological resource centers (BRCs) are nonproﬁt materials depositories that
+play a key role in maintaining the reliability and provenance of cell lines used by in-
+dustrial and academic researchers-as Stern notes, contamination of widely used cell lines
+has caused major research ﬁascoes in the past several decades. Stern argues that the use of
+MTAs by BRCs has aided the exchange of materials, and recommends that MTAs be a
+standard complement to patents covering biological discoveries: “Putting MTAs in place
+at the time of patent approval lowers the cost of mutually beneﬁcial transactions between
+the developers of materials and follow-on researchers and widens the availability of pa-
+tented biomaterials” (Stern, 2004; pp. 96–97). Stern thus argues that MTAs can facilitate
+the integrity and exchange or research materials, enhancing the eﬃciency of the research
+enterprise.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1062
+
+
+=== PAGE 4 ===
+involved materials that ﬁt within the NIH Research Tools Working
+Group deﬁnition of research tools. We also analyzed the descriptions of
+the intended use for the materials requested through the MTA by UC
+Berkeley researchers, and found that 94% of the MTAs indicated that
+the requested material was to be used as an input to further research
+and a further 4% implicitly indicated that such uses were intended.
+This analysis of UC Berkeley MTAs leads us to conclude that our
+treatment of the presence of an MTA as an empirical indicator that a
+given invention disclosure is a research tool and/or input to follow-on
+scientiﬁc research is defensible. It is important nevertheless to note two
+caveats associated with our empirical use of MTAs as indicators of re-
+search tools. As Walsh et al. (2007) and Mowery and Ziedonis (2007)
+point out in their discussions of MTAs, a majority of the materials
+transfers among academic scientists do not rely on formal MTAs that
+are disclosed to academic Technology Transfer Oﬃces (TTOs). Al-
+though we believe that the presence of an MTA is a reasonable indicator
+that a given disclosure has applications as a research tool, our data in
+fact contain many other disclosures (including disclosures that are pa-
+tented and licensed) that may well be research tools but (lacking an
+MTA) cannot be identiﬁed as such. It is likely that our empirical ap-
+proach thus understates the eﬀects on citations of licensing of patented
+disclosures that are research tools. In addition, our data enable us to
+only identify the eﬀects of those MTAs that are negotiated and agreed to
+by all parties to the materials transfer. In other words, and in contrast to
+Walsh et al. (2007), we do not identify the eﬀects on scientiﬁc research
+of the denial by researchers of other researchers’ requests for research
+materials, nor do we attempt to explain why MTAs might aﬀect the
+dissemination of these scientiﬁc results within the research community.
+Instead, we are solely concerned with analyzing the eﬀect of licensing
+on research tools.
+Our empirical research strategy thus addresses two questions: (1)
+Using citations to related scientiﬁc papers as a proxy for scientiﬁc
+communication, do licenses on patents tend to increase or decrease
+such communication, and (2) how does negotiation of a license for a
+disclosure linked to a research tool aﬀect citations to related research
+papers?
+3. Data and methodology
+This section describes our data and methodology. We draw on two
+principal sources of data for our empirical analysis. The ﬁrst, the “IP
+data,” is an extract from the technology disclosure database maintained
+by the technology transfer oﬃce within the University of California
+Oﬃce of the President (UCOP). UCOP monitors and in some cases
+manages invention disclosures, patent applications, and licensing
+transactions for nine campuses of the University of California (including
+ﬁve medical schools) during the period of our study.8
+These data list 11,341 inventions reported by University of
+California faculty from 1997 to 2007. These invention disclosures led to
+2035 issued U.S. patents, 1890 licenses to these patents, and 3853
+MTAs by the end of 2009. Note that only a small subset of technology
+disclosures is patented, and universities’ patenting propensity varies
+among ﬁelds of academic research—since the 1980s, patenting and li-
+censing activity at UC has been dominated by biomedical research
+(Mowery et al., 2004). The distribution of MTAs also is highly skewed,
+with few disclosures generating the majority of MTAs and many dis-
+closures associated with no MTAs. This echoes the ﬁnding in Mowery
+and Ziedonis (2007) that MTAs are disproportionately concentrated in
+biomedical ﬁelds of research, as are licenses.
+The second source, “publications data,” comes from the Web of
+Science, an internet-based service that tracks the bibliographic in-
+formation and the citations to and from articles published in 10,000 of
+the highest-impact journals across 256 disciplines.9 This database
+supplied the title, author names, journal, publication date, and citation
+information for each scientiﬁc paper. The information on “forward ci-
+tations,” citations from subsequent published papers to that publica-
+tion, was extracted through the end of 2009. The Web of Science also
+provides a number of well-accepted measures of journal quality. The
+most prominent of these is an “impact factor” that measures the average
+number of times an article in that journal is cited in its ﬁrst two years,
+and which we include in our analysis.
+Observing the relationship between the licensing of a patent on ci-
+tations to a related publication requires identifying the linkages among
+publications, patents, and licenses. The connections among disclosures,
+patents, and licenses are contained in the data provided by UCOP,
+which tracks these directly. But the UC data themselves provide no
+direct link between published papers and any patents covering the re-
+search advances covered by them—what Murray and Stern (2007)
+termed “patent paper pairs.” Prior work linking patents to related
+journal articles has relied on expert judgment (Murray, 2002; Murray
+and Stern, 2007) or matched publication characteristics to scientiﬁc
+references in patents (Azoulay et al., 2012). We instead employ an
+“inventor-based matching” methodology to link patents to scientiﬁc
+papers. This technique assumes that inventors listed on a patent are
+likely to be authors of related publications. We thus construct a max-
+imum-likelihood estimator for the publication(s) that best match a
+particular patent. We describe this technique in greater detail in the
+Appendix.10
+3.1. Construction of control groups
+Designing a speciﬁcation to test the eﬀect of licensing on scientiﬁc
+communication is a challenging exercise, because of the complex and
+varied patterns of citations that publications may receive during our
+sample period. Citations to some publications may grow throughout
+the period covered by our data, whereas for other publications, ci-
+tations may rise, peak, and then decline. Moreover, the timing and
+rate of any ascent and decline in citations may vary. It is diﬃcult to
+construct a suﬃciently ﬂexible parametric model to adequately ac-
+commodate these diﬀerences, yet it is essential to accommodate
+variations in citation patterns in order to construct a credible control
+sample and avoid spurious statistical results.11 Because of the com-
+plex and potentially non-linear interactions of various control vari-
+ables that we employ to construct treatment and matching control
+groups, we pursue a ﬂexible nonparametric approach. This technique
+allows us to weaken the assumption of linearity and enables us to
+account for the many plausible interaction eﬀects that may be present
+in our analysis.
+The non-parametric method we use is “nearest neighbor” matching.
+It searches the set of non-treatment observations to identify the one
+“closest” to each treated observation, based on the characteristics of
+nontreatment and treated observations. Collectively, these “closest”
+non-treatment observations form a control group. Because this search is
+8 A tenth campus was established at Merced in 2005, but no invention disclosures
+leading to patents originated from that campus during the period covered by this study.
+9 http://thomsonreuters.com/products_services/science/science_products/a-z/web_of_
+science (downloaded May 2010).
+10 As we explain in detail in the Appendix, we tested our methodology using the pa-
+tent-paper pairs generated by Murray and Stern (2007) through hand matching. Our
+methodology found identical patent-paper pairs for 95% of their sample.
+11 For example, it is reasonable to assume that publications in more highly cited
+journals accrue more citations, which would argue for including Journal Impact Factor as a
+control variable. Similarly, the academic discipline (hereafter Journal Subject) could also
+drive citation patterns, as could patterns of citations to a publication prior to the license
+(Citations in t −1, Citations in t −2). Each of these the eﬀects could be non-linear, which
+suggests the inclusion of higher-order terms. Interaction terms among these variables
+would also be important, since the eﬀects of Journal Impact Factor could diﬀer by dis-
+cipline, to cite only one example. Each of these eﬀects could aﬀect a publication diﬀer-
+ently at diﬀerent points in time, calling for them to be interacted with age ﬁxed eﬀects.
+Fully interacting all of these eﬀects would result in many of the parameter estimates being
+determined by small numbers of observations, or lacking observations at all.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1063
+
+
+=== PAGE 5 ===
+done based on observable characteristics, the control and treatment
+observations should be similar along these dimensions.12
+We identify these “nearest neighbors” using the “Matching” package
+for R software,13 which employs the evolutionary search algorithm
+“genetic matching” to pair treatment observations with potential con-
+trols and iteratively improve covariate balance (Diamond and Sekhon,
+2013; Sekhon, 2011).14 According to Sekhon (2011), genetic matching
+“dominates the other matching methods in terms of MSE [Mean
+Squared Error] when assumptions required for EPBR [Equal Percent
+Bias Reduction] hold and, even more so, when they do not.”15
+Our procedure employs two types of variables (observable char-
+acteristics), those where we specify an exact match and those where a
+nearby (nearest neighbor) match is suﬃcient. We require an exact
+match on the following variables:
+• Publication Age: Number of years between paper publication date
+and year of the observation.
+• Journal Subject: Academic discipline of the journal (e.g., medicine).
+• Patent Granted (yes/no): Whether the related patent has been
+granted at the time of license.
+• MTA Issued (yes/no): Whether the paper has an associated MTA at
+the time of the license.
+For example, these restrictions imply that in our analysis a (li-
+censed) treatment observation in the life sciences with an issued patent
+and no MTA would be compared with a non-licensed control group
+observation that also has those characteristics (i.e., (1) it is in the life
+sciences, (2) it is associated with an issued patent, (3) it has no MTA,
+and (4) the number of years since publication is identical for the
+treatment and control observations).
+For each treatment observation that matches on these exact char-
+acteristics, we then choose its nearest neighbor based on its proximity
+in the following ﬁve characteristics:
+• Journal Impact Factor.
+• Publication Year.
+• Citations in t −2: Number of citations two years before the treat-
+ment.
+• Citations in t −1: Number of citations one year before the treat-
+ment.
+• Slope of citation curve between t −2 and t −1.
+In each of these dimensions we limit the maximum “distance” be-
+tween each treatment and control observation to one standard devia-
+tion for that variable (the “caliper”), thus excluding any observation
+that diﬀers by more than that amount for any characteristic.16 Under
+this procedure, treatment observations with no equivalent control ob-
+servation are dropped from the sample. Collectively, these restrictions
+produce control observations such that for each characteristic, the
+control matches either exactly or within one standard deviation to the
+corresponding treatment observation.17
+Before we estimate the eﬀects of licensing on citations to patented
+publications, we must verify the covariate balance between the treat-
+ment and control groups. An eﬀective matching procedure should yield
+summary statistics for the treatment and control groups that are similar.
+Table 1 reports the mean of each variable for the treatment and control
+groups produced by genetic matching and the results of t-tests (diﬀer-
+ence of means) and Kolmogorov–Smirnov (KS) tests (diﬀerence in dis-
+tributions) between these two groups.
+The means and distributions for the ﬁrst four variables reported in
+Table 1, Publication Age, Journal Subject, Patent Issued, and MTA Issued,
+are equal between the treatment and control groups, which is not sur-
+prising in light of our requirement for an exact match in these dimen-
+sions across the two groups. For the remaining variables, means for the
+control and treatment groups are much more similar than prior to
+matching, although diﬀerences in means remain statistically signiﬁcant
+for four variables (Journal Impact Factor, Citations in t −1, Citations in
+t −2, and Citations Slope). Diﬀerences in distributions are signiﬁcant for
+only two variables, Citations in t −1 and Citations Slope, as shown by the
+KS Test. The magnitude and signiﬁcance of these diﬀerences suggests a
+relatively balanced sample, but one where further controls are needed
+to ensure that these diﬀerences are not driving the result. The coeﬃ-
+cient estimates reported in Section 4 suggest that the diﬀerences in
+observable characteristics do not meaningfully inﬂuence our estimated
+eﬀects.
+3.2. Estimation
+Once we have generated our treatment and control group sample,
+we report both the raw citation counts and employ a diﬀerence-in-
+diﬀerences approach to account for any remaining unobserved diﬀer-
+ences between the treated and control observations to estimate the size
+and direction of the treatment eﬀect. More speciﬁcally for the latter, we
+compare the change in the number of citations to one patented pub-
+lication following the execution of a license (a treated observation) to
+the change in number of citations for a comparable publication that
+lacks a license (a matching control observation). A citation by a sci-
+entist to his or her own prior publication does not represent a knowl-
+edge ﬂow among researchers, and we therefore exclude papers where at
+least one of the authors of the citing publication is also an author of the
+cited publication (i.e., a self-citation). We deﬁne our outcome of in-
+terest as:
+=
+−
+−
+−
+−
+→+
++
+−
++
+−
+Treatment Effect
+(Citations
+Citations
+)
+(Citations
+Citations
+)
+t
+t
+i
+t
+i
+t
+t
+i
+t
+(
+1)
+(
+)
+1 pub
+1 pub
+w
+w o
+/ License
+/ License
+(1)
+where i is the number of years after the license, ranging from 1 to 3.
+The speciﬁcation is as follows:
+12 Restricting ourselves to control observations that satisfy our matching criteria de-
+creases our sample size. The eﬀects of a smaller sample size on the precision of our es-
+timates, however, are ambiguous. Smaller samples will tend to reduce our precision
+(making the standard errors larger), but this loss of precision may be oﬀset by greater
+homogeneity within the smaller sample of treatment and control observations.
+13 Available from the Comprehensive R Archive network at http://CRAN.R-project.
+org/package=matching (R Core Team, 2014).
+14 Treatment and control variables are in “covariate balance” when they have the same
+joint distribution of their observed covariates (Diamond and Sekhon, 2013).
+15 Previous studies in the social sciences that utilize genetic matching include Morgan
+and Harding (2006), Gilligan and Sergenti (2008), Eggers and Mainmueller (2009), Ladd
+and Lenz (2009), Gordon (2009), and Hopkins (2010).
+16 Coarsened exact matching is one alternative matching approach. Employing a ca-
+liper-based method rather than coarsened exact matching, however, allows us to exclude
+observations whose observable covariates would make them outliers as well as those
+which would qualify them as “inliers,” that is, observations that are within the range of
+the data, but nevertheless lack a comparable control observation (Sekhon, 2011).
+17 Previous work has shown that patented research diﬀers in quality and type from
+non-patented research, and it is plausible that citations to papers linked to licensed and
+non-licensed research disclosures likewise might diﬀer systematically. It is precisely to
+minimize such otherwise unobserved diﬀerences in such citation behavior that we per-
+form the matching procedure. Our matching procedure uses pre-license citations data to
+ensure that the licensed and non-licensed groups are as similar as we can make them. This
+procedure makes the pre-license citation trends mechanically equal, but it also imposes a
+substantive equality: papers linked to both patented and nonpatented disclosures are
+cited to an equal extent and at the same growth rate. This procedure provides a sig-
+niﬁcantly better “apples-to-apples” comparison than is usually found in similar literature,
+where linear control terms in Poisson or negative-binomial regressions can only make
+crude adjustments.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1064
+
+
+=== PAGE 6 ===
+=
++
++
++
++
++
++
++
++
++
++
+−
+→+
+−
+−
+β
+γ
+β
+β
+β
+β
+β
+β
+β
+β
+ΔCitations
+License
+Age
+Publication Year
+Journal Subject
+Journal Impact Factor
+Citations
+Citations
+MTA Issued
+Patent Granted
+ϵ
+t
+t
+i
+t
+t
+(
+1)
+(
+)
+0
+1
+2
+3
+4
+5
+2
+6
+1
+7
+8
+(2)
+Our coeﬃcient of interest is γ, which we present in our results.18
+Using a diﬀerence-in-diﬀerences estimator allows us to avoid bias
+associated with changes that aﬀect the “before” and “after” periods
+equally. For example, in the matched sample case, if a particular pub-
+lication receives on average ﬁve additional citations per year due to
+some unobserved covariate, these citations will be included in both
+Citationst−1 and Citationst+1 terms, and the impact on the estimate will
+be zero.
+To summarize, our analysis employs two techniques. First, we
+identify the nearest neighbor to each of our treatment observations
+using genetic matching. This non-parametric matching technique
+means that we make fewer assumptions about the parametric form of
+the eﬀect than we would with a linear or generalized linear speciﬁca-
+tion (e.g., negative binomial). We then estimate the size and direction
+of the treatment eﬀect by employing a diﬀerence-in-diﬀerences ap-
+proach that accounts for any remaining unobserved diﬀerences be-
+tween the treated and control observations that are constant over time.
+Based on this sample construction, our results should be interpreted as
+an Average Treatment Eﬀect on the Treated (ATT). In other words, our
+sample construction implies that our estimates of the eﬀects of licensing
+on citations have the most external validity for patent-linked publica-
+tions whose covariates resemble those that receive licenses.
+4. Results
+4.1. The eﬀects of licensing on citations to patent-linked publications
+We now turn to estimating the eﬀects of licensing on scientiﬁc
+communication as measured by citations to patent-linked publications.
+We ﬁrst report the ﬁndings based on our full sample (588 observations).
+The eﬀect can be seen directly through the citation pattern for the
+treatment group (dashed line with circles) and the control group
+(dotted line with squares), as shown in Fig. 1.
+As depicted in the ﬁgure, patent-linked publications that are li-
+censed receive more citations immediately after a license is executed
+than do publications that are linked to unlicensed patents. This diﬀer-
+ence in the numbers of citations between the treated group and control
+group slowly increases in years following the license.
+Fig. 2 reports results from the diﬀerence-in-diﬀerences analysis (Eq.
+(2)), conﬁrming the post-licensing citation pattern presented in Fig. 1
+and testing for the statistical signiﬁcance of the diﬀerences in citations
+between the two groups. The eﬀect of licensing on the number of ci-
+tations is not statistically signiﬁcant in the year of the execution of the
+license (γ = 0.91 with a standard error of 0.57). On average, papers
+linked to a licensed patent receive 1.46 more annual citations than
+papers linked to non-licensed patents by the ﬁrst year (standard error of
+1.14), a diﬀerence that grows to 2.56 citations by year t + 2 (standard
+error of 1.15) and 3.43 citations by year t + 3 (standard error of 2.17).
+Only the coeﬃcient in year t + 2 is barely signiﬁcant at a 10% level.
+This pattern is very similar to the citation trends depicted in Fig. 1, a
+result that we interpret as reﬂecting the good covariate balance prior to
+the diﬀerence-in-diﬀerences regression.19
+Inspection of the residuals from our regressions (not reported)
+shows that the mean and median are aligned and that the residuals are
+distributed approximately normally, supporting the validity of our
+model.
+The results of this initial analysis of our data suggest that that the
+negotiation of a license covering a patented academic invention has a
+modestly positive but not statistically signiﬁcant eﬀect on follow-on
+citations by other scientists in subsequent published papers. But this
+initial analysis does not consider whether the licensed published dis-
+covery is a “research tool.” In the next section, therefore, we undertake
+further analysis below by disaggregating our sample into two subsets,
+Fig. 1. License eﬀect-full sample.
+Fig. 2. Regression results of license eﬀect-full sample. (Error bars signify ± 1
+standard error.)
+18 Because we expect the diﬀerences in covariates between the treated and control
+groups after the nearest neighbor matching to be smaller, the linearity assumption em-
+bedded in least-squares is more plausible than it would be for an unmatched sample. This
+assumption nonetheless introduces a lack of ﬂexibility into the speciﬁcation. Rubin
+(1979) discusses the value of using these (slightly modiﬁed) techniques and concludes
+that “pair-matching coupled with regression adjustment on the matched pairs is a quite
+eﬀective general plan for controlling the bias due to matching variables, and this com-
+bination is clearly superior to regression adjustment” (p. 318).
+19 We also tested for the overall eﬀect of licensing on citations to related articles by
+comparing the total number of citations in years 1–3 between articles linked to licensed
+patents and articles linked to unlicensed patents (unlike our diﬀerence-in-diﬀerences
+analysis, this comparison does not control for pre-license citations). Similarly to our re-
+sults when considering each year separately, we ﬁnd a positive but not signiﬁcant result
+for this comparison (coeﬃcient of +6.26 with a standard error of 4.80).
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1065
+
+
+=== PAGE 7 ===
+(1) discoveries that are research tools, which we deﬁne as patented
+disclosures linked to MTAs; and (2) discoveries that are not research
+tools based on the absence of an MTA.
+4.2. Licensing and citations to patented publications associated with
+research tools
+We now focus our attention on the relationship between licensing
+and citations to publications linked to patented disclosures that we
+believe are associated with research tools. In their 2007 paper, Murray
+and Stern, Murray and Stern deﬁned such publications as those linked
+to any patents within their sample in the 3-digit patent classes 435
+(Chemistry:
+Molecular
+Biology
+and
+Microbiology)
+and
+800
+(Multicellular Living Organisms and Unmodiﬁed Parts Thereof and
+Related Processes) as pertaining to research tools. A patent class-based
+deﬁnition, however, does not account for the patent's use. Instead of
+employing patent classes, as we noted above, we believe that patented
+publications for which MTAs are issued are more likely to fall within a
+rough deﬁnition of “research tool.”
+Our analysis of the eﬀects of licensing on this class of publications
+linked to patented disclosures restricts the sample to only those with
+material transfer agreements.20 Thus, both treatment and the control
+observations have MTAs and the diﬀerence between them is whether a
+license is issued.21 Table 2 presents the covariate balance for this
+sample.
+As in the full sample, means and distributions for ﬁrst four variables
+reported in Table 2, Publication Age, Journal Subject, Patent Issued, and
+MTA Issued, are equal between the treatment and control groups, re-
+ﬂecting our requirement of an exact match. For the remaining vari-
+ables, only Journal Impact Factor and Citations in t −1 exhibits sig-
+niﬁcant diﬀerences in the t-test and only Journal Impact Factor exhibits a
+signiﬁcant diﬀerence in the distributions (KS) test. We once again in-
+terpret the results of this KS test as an indication that our matching
+Table 2
+Covariate balance for the research tools sample.
+Covariate
+Research tools sample
+Mean treated
+Mean control
+t-test
+KS Test
+Publication Age
+1.65
+1.65
+–
+–
+Journal Subject
+4.65
+4.65
+–
+–
+Patent Issued
+0.73
+0.73
+–
+–
+MTA Issued
+0.30
+0.30
+–
+–
+Journal Impact Factor
+5.45
+5.40
+***
+**
+Publication Year
+2001.58
+2001.28
+–
+–
+Citations in t −1
+1.85
+2.33
+–
+–
+Citations in t −2
+0.40
+0.90
+**
+–
+Citation slope from t −2 to t −1
+1.45
+1.43
+–
+–
+Note:
+* p < 0.10.
+** p < 0.05.
+*** p < 0.01.
+Fig. 3. License eﬀect—non-research tools sample.
+Fig. 4. Regression results of license eﬀect—non-research tools. (Error bars
+signify ± 1 standard error.)
+Table 1
+Covariate balance for the full licensing sample.
+Covariate
+Full licensing sample
+Mean treated
+Mean control
+t-test
+KS test
+Publication Age
+1.88
+1.88
+–
+–
+Journal Subjecta
+4.91
+4.91
+–
+–
+Patent Issued
+0.54
+0.54
+–
+–
+MTA Issued
+0.04
+0.04
+–
+–
+Journal Impact Factor
+7.81
+7.54
+**
+–
+Publication Year
+2000.81
+2000.76
+–
+–
+Citations in t −1
+5.61
+4.82
+***
+***
+Citations in t −2
+2.83
+2.33
+***
+–
+Citation slope from t −2 to t −1
+2.78
+2.49
+**
+***
+Notes:
+* p < 0.10.
+** p < 0.05.
+*** p < 0.01.
+a Journal Subject is a categorical variable, with each subject mapped to a
+random integer. Therefore the 4.91 values have no literal meaning, but the
+equality between treatment and control reﬂects the success of the exact
+matching.
+20 Our control sample includes published disclosures with MTAs that are issued before
+or after the license. We also restricted the sample to instances where an MTA exists prior
+to the license, so as to ensure against possible reverse causality, and obtained results that
+are similar in direction, although with much smaller sample sizes. Thus we report results
+with the larger sample of MTA-linked inventions. This produces a sample of 61 ob-
+servations.
+21 Because we also match treatment to control observations based on whether the
+observation has an MTA, treated observations with MTAs prior to license are matched to
+controls for which an MTA is observed at approximately the same time or earlier, while
+those that have not received an MTA prior to license are matched to controls that also
+have not yet received an MTA as of the license execution date.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1066
+
+
+=== PAGE 8 ===
+procedure has produced a relatively balanced sample, but nevertheless
+include additional controls in our estimates to ensure that these small
+diﬀerences do not drive our results.
+Before we report our analysis of citations to “research tool-related”
+publications, we ﬁrst report the unadjusted citation curve and regres-
+sion adjusted results for the subset of observations not associated with
+MTAs. These results are based on 484 observations and are shown in
+Figs. 3 and 4.22
+The unadjusted citation curve for the subset of inventions not as-
+sociated with an MTA (the non-research tools subsample) in Fig. 3 is
+similar to the citation curve from the overall sample (Fig. 1). As in the
+overall sample, the citations to these licensed patent-linked publica-
+tions are higher at the time of the license, and this diﬀerence is in-
+creasing in the three years after the license. Unlike the results of our
+empirical analysis for the overall sample, however, these diﬀerences are
+slightly more statistically signiﬁcant in three of the four time periods
+covered by our analysis: the coeﬃcient 1.23 is signiﬁcant at the 9%
+level at the time of the license, the coeﬃcient of 3.71 is signiﬁcant at
+the 5% level in year t + 2, and the coeﬃcient 4.85 is signiﬁcant at the
+7% level in year t + 3 after the execution of the license. Only the
+coeﬃcient in year t + 1 (2.11) is not signiﬁcant for the sample of in-
+ventions not associated with an MTA.23
+We now present our analysis of citations to “research tool-related”
+publications. We report both the unadjusted citation curve for the mat-
+ched samples in Fig. 5 and the regression adjusted results in Fig. 6 below.
+Our diﬀerence-in-diﬀerences analysis of the eﬀects of licensing on
+citations to patent-paper pairs that are associated with MTAs reveals a
+pattern that diﬀers from that observed in the overall sample and the
+non-research tools subsample. Our earlier results for the overall sample
+indicated little relationship between licensing and citations to the
+publications linked to the underlying patented disclosure. But when we
+disaggregate the sample into MTA-linked and non-MTA-linked dis-
+coveries, we ﬁnd very diﬀerent results.
+For the non-MTA-linked subsample, licensing has a positive, weakly
+signiﬁcant correlation with subsequent journal citations. For the MTA-
+linked sample, however, licensing is associated with a signiﬁcant de-
+cline in citations. Using the covariate adjusted values (Fig. 6), the
+magnitude of the licensing eﬀect is -1.02 citations in the year of the
+license (standard error of 0.33), -1.97 citations in year t + 1 (standard
+error of 0.39), -6.57 citations in year t + 2 (standard error of 1.07), and
+-6.58 in year t + 3 (standard error of 1.14). The diﬀerences in all these
+years are statistically signiﬁcant at the 1% level.24 Overall, these
+coeﬃcients represent a decrease in citations of more than 50% for the
+average publication, although our small sample size calls for caution in
+interpreting the exact magnitude of the eﬀect.25
+5. Discussion and conclusion
+This paper has investigated the relationship between licensing and
+communication among scientists of published research results that are
+linked to patented academic invention disclosures within the University
+of California system. Our results suggest that in general, licenses cov-
+ering patented research disclosures have little impact on the number of
+citations to related publications (changes in the numbers of citations
+are not signiﬁcant for any years in the overall treated sample relative to
+the control group and only weakly signiﬁcant (at the 9% conﬁdence
+level) for a single year in the overall sample). When we disaggregate
+our sample into those discoveries that are inputs to further research
+(research tools, i.e., patented disclosures for which MTAs are nego-
+tiated) and those discoveries not identiﬁed as research tools, however,
+we ﬁnd contrasting results. Licensing is associated with a weak but
+positive eﬀect on follow-on journal citations to articles related to pa-
+tented disclosures that are not deﬁned as research tools. But licensing
+has a signiﬁcantly negative correlation with citations to scientiﬁc pa-
+pers linked to a class of patented invention disclosures that we believe
+includes a high share of research tools. For these inventions we observe
+Fig. 5. License eﬀect—research tools.
+Fig. 6. Regression results of license eﬀect—research tools. (Error bars sig-
+nify ± 1 standard error.)
+22 We also checked the covariate balance between the treated and control groups for
+the subset of non-MTA-related observations (not reported). As was true of our results for
+the full sample, there are small diﬀerences in the variable means that we address through
+a diﬀerences-in-diﬀerences speciﬁcation.
+23 Similarly to our test for the overall sample, we compared the total number of ci-
+tations through years 1–3 after the year of the license to articles related to licensed pa-
+tents with the number of citations to articles related to unlicensed patents for the subset of
+non-MTA-linked patents. The resulting coeﬃcient (+9.58 with a standard error of 5.86)
+is just outside the 10% signiﬁcant level).
+24 As with the overall and non-MTA-linked samples, we compared the total number of
+citations through years 1–3 after the year of the license to articles related to licensed
+patents with the number of citations to articles related to unlicensed patents for the subset
+of MTA-linked patents. The coeﬃcient for licensing (−14.20) is strongly negative and
+signiﬁcant (1% level), paralleling our year-by-year results.
+25 We examined whether diﬀerences in the make-up of exclusive licenses between
+research tool (MTA-linked) licensed patents and non-MTA-linked licensed patents could
+explain the diﬀerence in results between the two subsamples by conducting a diﬀerence
+in proportions test for the percentages of exclusive licenses. Eighty-six percent of the
+licenses of MTA-linked patents are exclusive and 94% of the licenses to non-research tool
+patents are exclusive. This diﬀerence is weakly signiﬁcant at a 6% level. The similarity in
+fractions of licenses that are exclusive and the lack of strong statistical signiﬁcance in this
+test suggests that a diﬀerence between the two samples in the shares of exclusive licenses
+is not driving our results.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1067
+
+
+=== PAGE 9 ===
+a decrease in the number of citations following a license.
+Our results on the eﬀect of licensing on scientiﬁc communication
+expand earlier ﬁndings in the literature that examine the eﬀect of li-
+censing on the citation behavior of nonlicensees. Drivas et al. (2017)
+and Sampat and Ziedonis (2004) found that licensing is associated with
+increased inventive eﬀort in related ﬁelds, assuming that increased ci-
+tations to the focal patents reﬂect such inventive eﬀort. We ﬁnd a si-
+milarly positive but nonsigniﬁcant eﬀect (at the 5% level) of licensing
+on citations to papers related to the licensed patent for non-research-
+tool related discoveries.
+Our ﬁndings regarding the links between licenses and citations to
+patented disclosures covering research tools, however, are consistent
+with other arguments and some evidence that academic licensing of
+intellectual property may limit dissemimation and exploitation of re-
+search advances that are important for follow-on research (Heller and
+Eisenberg, 1998; Walsh et al., 2007). The results of Walsh et al. (2007)
+underscore the potential impediments to research resulting from de-
+nials of access to research materials.
+Other anecdotal evidence also suggests that the commercial ex-
+ploitation of university research advances may be associated with re-
+strictions on access to research materials. One example of the con-
+sequences of such a restriction was reported in Science (Cohen, 1997).
+Scientists at Stanford University developed a machine to automate the
+low-cost synthesis of oligonucleotides, which are critical building
+blocks of DNA. Prior to the development of this technique, researchers
+using “oligos” as research inputs had to purchase them from commer-
+cial ﬁrms at high cost. The availability of low-cost research materials
+had the potential to accelerate progress in research requiring such in-
+puts, such as in the Human Genome Project. Stanford licensed its
+technology exclusively to a private ﬁrm that sold oligos to researchers
+but that ﬁrm refused to further make the technology available to re-
+searchers for their own use. Although the project was completed ahead
+of its original schedule, genomics researchers argued at the time that
+this license was “counterproductive to the goal of completing the
+Human Genome Project as quickly as possible” according to Cohen (p.
+1489).
+In a more recent episode, scientists studying Rett syndrome, a de-
+bilitating disease primarily aﬀecting young girls, have complained
+about the inability to obtain access to a genetically modiﬁed mouse that
+exhibits traits useful in research on this disease (Hayden, 2011). They
+blame provisions within the original license that restricted sharing of
+this input with other researchers. According to Hayden, “scientists and
+experts in intellectual property issues say that the case shows how
+science can be impeded when onerous licensing rules govern the
+sharing of research materials” (p. 318).
+How might the licensing of a research tool cause a decline in sci-
+entiﬁc communication or restrict follow-on research in scientiﬁc areas
+that are reliant on access to such tools? As we note in Section 2.2, re-
+searchers who receive requests for materials are more likely to refuse
+requests when they are involved in related commercial activity, which
+could include licensing, as Walsh et al. (2007) reported. Such activity
+could center on the commercialization of a licensed invention linked to
+a research tool. Campbell et al. (2002) found a similar result in their
+survey of geneticists-those engaged in “commercial activities” were
+72% more likely to deny others’ requests for research inputs than sci-
+entists not engaged in such activities.
+Restriction of scientiﬁc communication as a result of licensing may
+also be an indirect outcome of scientiﬁc competition. For example,
+Strandburg (2008) quotes the Harvard University scientist who devel-
+oped the Oncomouse as characterizing the terms of the license with
+DuPont as a “perfect alibi for refusing to send [the mouse] to
+others—he was no longer a strategic opportunist but rather a scientist
+beleaguered by legal constraints” (p. 64).
+Our data unfortunately do not enable us to discern among these and
+other possible explanations as underpinning a negative eﬀect of licen-
+sing of research tools on subsequent scientiﬁc communication and
+follow-on discovery that depends on access to such materials. This
+question remains an object for future investigation.
+Despite our best eﬀorts to construct comparable treatment and
+control groups, could uncaptured diﬀerences in “quality” between li-
+censed and unlicensed inventions account for our ﬁndings? We believe
+that the contrasting results between the MTA-linked and non-MTA-
+linked samples should mitigate such a concern. If our licensed pub-
+lications sample exhibited higher quality than unlicensed publications,
+we should ﬁnd higher citations everywhere, which would work against
+our negative ﬁnding in the MTA-linked sample.
+Nevertheless, our ﬁndings should be interpreted with caution. Our
+sample of patented publications represents discoveries made by scien-
+tists at a single institution, albeit one with nine campuses and ﬁve
+academic medical centers.26 The University of California has been as-
+signed more U.S. patents than any other U.S. university, and therefore
+may not be representative of all academic institutions. Our MTA-linked
+subset of inventions representing research tools is small (61 observa-
+tions), also limiting our ability to generalize our ﬁndings. At the same
+time, however, our comprehensive matching process generates treat-
+ment and control groups that are much better balanced than larger-
+sample analyses that assume that licensed and unlicensed research are
+similar (which they often are not). Thus, while we have a small sample,
+our internal validity is relatively strong, and we are less susceptible to
+misleading results that arise from incorrect parametric assumptions.
+Although our empirical results suggest that the licensing of research
+tools may impede scientiﬁc communication, we are unable to reach
+strong conclusions about the eﬀects of licensing on scientiﬁc commu-
+nication for the (potentially) much larger set of research tools not
+covered by MTAs. Moreover, our sample of MTA-linked disclosures is
+limited in scope. Developing clearer and empirically tractable measures
+that enable the identiﬁcation of research tools is an important task for
+future research.
+This study makes three contributions. First, it introduces a novel
+method for linking patents and publications associated with an aca-
+demic research advance, and thereby automates a previously arduous
+process that has been diﬃcult to scale up. Second, it employs a
+matching methodology that avoids strong and potentially inappropriate
+parametric assumptions about the complex interactions that underpin
+journal citation patterns. And ﬁnally, but most importantly, this paper
+contributes to our understanding of the eﬀect of the licensing of in-
+tellectual property rights covering academic research output on scien-
+tiﬁc communication.
+Supplementary data and analysis.
+Supplementary data and analysis associated with this article can be
+found, in the online version, at https://doi.org/10.1016/j.respol.2018.
+03.008.
+26 Moreover, the UC system is widely acknowledged to be one of the leading research
+performers in the United States and arguably, the global economy. Five UC campuses, UC
+Berkeley, UC San Francisco, UC San Diego, UCLA, and UC Santa Barbara) were included
+in the 2017 listing of the world's top ﬁfty universities compiled by Shanghai Jiaotong
+University (http://www.shanghairanking.com/ARWU2017.html; consulted 12/14/17),
+and the UC system received more ﬁscal 2016 federal research funding through the
+National Science Foundation and the National Institutes of Health than any other U.S.
+university
+(http://www.ucop.edu/federal-government-relations/_ﬁles/Advocacy/
+Federal-Research/Fact_Sheet_Federal_Investment_in_Research_Final.pdf;
+consulted
+12/
+14/17). Although our empirical results thus cover a single public university system, it is
+one that is a leader in research performance, and results for this system may well apply to
+other leading U.S. research universities.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1068
+
+
+=== PAGE 10 ===
+References
+Azoulay, P., Sampat, B.N., Zivin, J.G., 2012. The diﬀusion of scientiﬁc knowledge across
+time and space: evidence from professional transitions for the superstars of medicine.
+In: Lerner, J., Stern, S. (Eds.), The Rate and Direction of Innovative Activity Revisited,
+pp. 107–160 Chicago.
+Blumenthal, D., Campbell, E.G., Anderson, M.S., Causino, N., Louis, K.S., 1997.
+Withholding research results in academic life science. J. Am. Med. Assoc. 277,
+1224–1228.
+Campbell, E.G., Clarridge, B.R., Gockhale, M., Birenbaum, L., Hilgartner, S., Holtzman,
+N.A., Blumenthal, D., 2002. Data withholding in academic genetics: evidence from a
+national survey. J. Am. Med. Assoc. 287 (4), 473–480.
+Casella, G., Berger, R.L., 1993. Statistical inference. Biometrics 49 (1), 320.
+Cohen, J., 1997. Exclusive license rankles genome researchers. Science 276 (5318), 1489.
+David, P.A., 2004. Can “open science” be protected from the evolving regime of IPR
+protections? J. Inst. Theor. Econ. 160, 9–34.
+Diamond, A., Sekhon, J.S., 2013. Genetic matching for estimating causal eﬀects: a general
+multivariate matching method for achieving balance in observational studies. Rev.
+Econ. Stat. 95 (3), 932–945.
+Drivas, K., Lei, Z., Wright, B.D., 2017. Academic patent licenses: roadblocks or signposts
+for nonlicensee cumulative innovation? J. Econ. Beh. Org. 137, 282–303.
+Eggers, A.C., Mainmueller, J., 2009. MPs for sale? Returns to oﬃce in postwar British
+politics. Am. Polit. Sci. Rev. 103 (04), 513–533.
+Fehder, D.C., Murray, F., Stern, S., 2014. Intellectual property rights and the evolution of
+scientiﬁc journals as knowledge platforms. Int. J. Ind. Organ. 36 (C), 83–94.
+Gilligan, M.J., Sergenti, E.J., 2008. Do UN interventions cause peace? Using matching to
+improve causal inference. Q. J. Polit. Sci. 3 (2), 89–122.
+Gordon, S.C., 2009. Assessing partisan bias in federal public corruption prosecutions. Am.
+Polit. Sci. Rev. 103 (4), 534–554.
+Hayden, E.C., 2011. Licence rules hinder work on rare disease. Nature 470 (February),
+318–319.
+Heller, M.A., Eisenberg, R.S., 1998. Can patents deter innovation? The anticommons in
+biomedical research. Science 280 (5364), 698–701.
+Hopkins, D.J., 2010. Politicized places: explaining where and when immigrants provoke
+local opposition. Am. Polit. Sci. Rev. 104 (1), 40–60.
+Ladd, J.M., Lenz, G.S., 2009. Exploiting a rare communication shift to document the
+persuasive power of the news media. Am. J. Polit. Sci. 53 (2), 394–410.
+Larsen, M.T., 2011. The implications of academic enterprise for public science: an
+overview of the empirical evidence. Res. Policy 40 (1), 6–19.
+Lei, Z., Juneja, R., Wright, B.D., 2009. Patents versus patenting: implications of in-
+tellectual property protection for biological research. Nat. Biotechnol. 27 (1), 36–40.
+McCain, K.W., 1991. Communication, competition, and secrecy: the production and
+dissemination of research-related information in genetics. Sci. Technol. Hum. Values
+16 (4), 491–516.
+Morgan, S.L., Harding, D.J., 2006. Matching estimators of causal eﬀects: prospects and
+pitfalls in theory and practice. Sociol. Methods Res. 35 (1), 3–60.
+Mowery, D.C., Nelson, R.R., Sampat, B.N., Ziedonis, A.A., 2004. Ivory Tower and
+Industrial Innovation: University-Industry Technology Transfer Before and After the
+Bayh-Dole Act in the United States. Stanford University Press, Stanford, CA.
+Mowery, D.C., Ziedonis, A.A., 2007. Academic patents and materials transfer agreements:
+substitutes or complements? J. Technol. Transfer 32 (3), 157–172.
+Murray, F., 2002. Innovation as co-evolution of scientiﬁc and technological networks:
+exploring tissue engineering. Res. Policy 31, 1389–1403.
+Murray, F., 2010. The oncomouse that roared: hybrid exchange strategies as a source of
+distinction at the boundary of overlapping institutions. Am. J. Sociol. 116 (2),
+341–388.
+Murray, F., Stern, S., 2007. Do formal intellectual property rights hinder the free ﬂow of
+scientiﬁc knowledge? J. Econ. Behav. Organ. 63 (4), 648–687.
+National Institutes of Health Working Group on Research Tools, 1998. Report of the
+National Institutes of Health (NIH) Working Group on Research Tools: Presented to
+the Advisory Committee to the Director, June 4, 1998. pp. 1–56.
+National Research Council, 2010. Managing University Intellectual Property in the Public
+Interest. The National Academy Press, Washington, DC.
+National Science Board, 2016. Science and Engineering Indicators. National Science
+Board, Technical report.
+National Science Foundation, 2012. Science and Engineering Indicators.
+Nelson, R.R., 2004. The market economy, and the scientiﬁc commons. Res. Policy 33 (3),
+455–471.
+R Core Team, 2014. R: A Language and Environment for Statistical Computing. R
+Foundation for Statistical Computing, Vienna, Austria.
+Rubin, D.B., 1979. Using multivariate matched sampling and regression adjustment to
+control bias in observational studies. J. Am. Stat. Assoc. 74 (366), 318–328.
+Sampat, B.N., 2005. Genomic Patenting by Academic Researchers: Bad for Science? pp.
+1–48.
+Sampat, B.N., Ziedonis, A.A., 2004. Patent citations and the economic value of patents. In:
+Moed, H.F., Glänzel, W., Schmoch, U. (Eds.), Handbook of Quantitative Science and
+Technology Research, pp. 277–298 London.
+Sekhon, J.S., 2011. Multivariate and propensity score matching software with automated
+balance optimization: the matching package for R. J. Stat. Softw. 42 (7), 1–52.
+Stern, S., 2004. Biological Resource Centers: Knowledge Hubs for the Life Sciences.
+Brookings Institution Press, Washington, DC.
+Strandburg, K.J., 2008. Sharing research tools and materials: Homo Scientiﬁcus and user
+innovator community norms. SSRN Working Paper 1136606 1–68.
+Streitz, W.D., Bennett, A.B., 2003. Material transfer agreements: a university perspective.
+Plant Physiol. 133, 10–13.
+Walsh, J.P., Cohen, W.M., Cho, C., 2007. Where excludability matters: material versus
+intellectual property in academic biomedical research. Res. Policy 36 (8),
+1184–1203.
+Williams, H.L., 2013. Intellectual property rights and innovation: evidence from the
+human genome. J. Polit. Econ. 121 (1), 1–27.
+Ziedonis, A.A., 2007. Real options in technology licensing. Manag. Sci. 53 (10),
+1618–1633.
+N.C. Thompson et al.
+Research Policy 47 (2018) 1060–1069
+1069
+
+

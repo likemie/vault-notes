@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 ---
@@ -200,8 +200,17 @@ updated: 2026-11-02
 > | [[ESPRIT]] | 事实 | 比较欧洲跨国合作计划与美国本土[[Industry Affiliate Program\|产业联盟]]在技术溢出与行政交易成本上的制度分化。 |
 > | [[DARPA]] | 事实 | 剖析军民两用研发资助、早期国防采购拉动与联盟配套补贴的协同机制。 |
 > | [[Bayh-Dole Act of 1980]] | 事实 | 展开长期历史计量评估，破除单一法案创造大学专利繁荣的[[Rationalized Myth\|制度神话]]。 |
+> | [[Research Tool]] | 概念 | 实证考察科研工具专利排他许可对后续科学知识流动与学术引用的负向抑制效应。 |
+> | [[Material Transfer Agreement]] | 概念 | 早期研究学术专利与材料转移协议的互补替代关系，并作为识别科研工具的核心操作化指标。 |
+> | [[Patent-Paper Pairs]] | 方法 | 推动基于发明人的自动化最大似然配对算法，因果评估大学专利许可对科学知识流动的影响。 |
 > | [[National Academy of Sciences]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
 > | [[National Research Council]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
 > | [[OECD]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
 
 ---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 历史回顾战后美国创新政策组合，论证国防研发与反垄断政策对信息技术产业竞争生态的塑造。
+> - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 评估 Sematech 半导体联盟从横向工艺开发向纵向供应商协同的治理机制转型。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 剖析国防研发支出对民用高技术创新的生命周期性及其递减效应。
+> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 分析加利福尼亚大学专利许可数据，证实涉及材料转移协议的科研工具在许可后学术引用下降超过 50%。
