@@ -55,10 +55,10 @@ updated: 2026-11-04
 > - **知识位置** 发展心理学与教育生态学奠基之作，由[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]于 1970 年代奠定（Bronfenbrenner, 1979），并在 1990 年代与斯蒂芬·J·塞西（Stephen J. Ceci）发展出整合历时系统（Chronosystem）的成熟模型（Bronfenbrenner & Ceci, 1994）。在教育政策领域，[[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 将其时间生态构想[[Creativity\|创造性]]移植为[[Policymaking Chronosystem\|政策制定时间系统]]。
 
 > [!claim] 核心主张
-> **生态系统理论（Ecological Systems Theory）** 主张：个体的发展绝非生物遗传本能的机械展开或外部刺激的单向印刻，而是处于发展中的主动个体与其所栖居的、由内向外层层嵌套的多维环境系统之间持续不断的互惠性[[Interaction Effect\|交互作用]]过程。该环境体系由五大同心圆子系统构成：**微系统（Microsystem）**、**中系统（Mesosystem）**、**外系统（Exosystem）**、**宏系统（Macrosystem）** 以及支配所有系统历史演进节律的**历时系统（Chronosystem）**。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> **生态系统理论（Ecological Systems Theory）** 主张：个体的发展是处于成长进程中的主动个体与其所栖居的、由内向外层层嵌套的多维环境系统之间持续不断的互惠性[[Interaction Effect\|交互作用]]过程。该环境体系由五大同心圆子系统构成：**微系统（Microsystem）**、**中系统（Mesosystem）**、**外系统（Exosystem）**、**宏系统（Macrosystem）** 以及支配所有系统历史演进节律的**历时系统（Chronosystem）**。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 > [!citation-card] 生态系统的时间演化维度
-> 借用布朗芬布伦纳与塞西关于人类发展的理论，政策演进并非发生在真空中，而是具有特定的时间系统，即由社会历史环境以及在生命历程中[[Emergence\|涌现]]并激发变革的环境事件所决定的条件集合。将时间系统概念引入政策思考，能够凸显出政策兼具稳定性与变革性，并且跨越历史时间与文化空间的诸多因素相互交织共同影响着政策发展。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> 借用布朗芬布伦纳与塞西关于人类发展的理论，政策演进植根于特定的时间系统，即由社会历史环境以及在生命历程中[[Emergence\|涌现]]并激发变革的环境事件所决定的条件集合。将时间系统概念引入政策思考，能够凸显出政策兼具稳定性与变革性，并且跨越历史时间与文化空间的诸多因素相互交织共同影响着政策发展。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 >
 > *Borrowing from Bronfenbrenner and Ceci's (1994) theory about human development, policy development does not happen in a vacuum and has a particular chronosystem or a set of changing conditions determined by sociohistorical circumstance and environmental events that emerge over the life course and prompt change.*
 
@@ -77,7 +77,7 @@ updated: 2026-11-04
 ---
 
 > [!proposition-chain] 核心命题一｜人类发展受个体与即时环境之间持续且渐进的近端过程所驱动
-> - **前提一** 个体并非被动接受环境塑形的对象，其具有生物特质与主动探索意向。
+> - **前提一** 个体是具有生物特质与主动探索意向的发展主体。
 > - **前提二** 只有当个体与周围环境中的人、符号、物体发生规律性、高频且具有实质挑战性的直接面对面互动（即近端过程）时，认知与情感潜能才得以实际兑现。
 > - **推导** 缺乏高质量近端过程（如缺乏温暖亲子互动或富有启发性的师生对话）将直接阻断遗传潜能向现实能力的转化，导致成长停滞。
 
@@ -92,7 +92,7 @@ updated: 2026-11-04
 > - **推导** 宏观法律与公共政策的任何微调，都会沿着外系统渗透至家庭收入、学校师资与社区安全，最终重塑微系统内的微观互动体验。
 
 > [!proposition-chain] 核心命题四｜突发历史事件与制度时间周期构成的历时系统支配着系统的突变与重构
-> - **前提一** 人类生命历程与社会制度的发展绝非静止平稳的线性流转，而是深受重大历史转折点所切割。
+> - **前提一** 人类生命历程与社会制度的发展深受重大历史转折点与外部环境事件的塑形和切割。
 > - **前提二** 外部环境中的极端偶发危机（如战争、瘟疫、突发惨案）会在极短时间内打破生态系统的内稳态，迫使各层系统发生剧烈适应性重组。
 > - **推导** 历时系统赋予了生态模型动态历史观。在公共治理领域，这一机制直接解释了为何政策演进常受危机事件驱动，突发事件瞬间打开[[Policy Window|政策窗口]]，迫使决策者在短时间内重塑宏观法律秩序。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
@@ -126,7 +126,7 @@ updated: 2026-11-04
 ---
 
 > [!exegesis]- 从联邦贫困儿童干预到宏观教育立法时间系统分析
-> 生态系统理论不仅在微观教育干预中发挥基石作用，更在宏观教育[[Policy Science in Comparative Education\|政策科学]]中实现了跨学科跃迁：
+> 生态系统理论不仅在微观教育干预中发挥基石作用，更在宏观教育[[Policy Science in Comparative Education\|政策科学]]中实现了跨学科扩展应用：
 > 1. **微观至中观层面的“开端计划”（Head Start）实践** [[Urie Bronfenbrenner\|布朗芬布伦纳]]主张，单纯在教室内为贫困儿童补习无法根除学业失败，必须从生态中系统入手：项目不仅提供学前教育，还强制要求家长深度参与、提供免费儿童营养餐、开展家庭走访，并联动社区医疗卫生外系统，构建了全美最持久的多系统综合干预工程。
 > 2. **宏观政策层面的[[Policymaking Chronosystem\|政策制定时间系统]]跨学科移植** [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 借鉴了布朗芬布伦纳的历时系统思想，指明宏观教育立法生态中存在独特的“时间节律”。当桑迪胡克小学枪击案或[[Niall Ferguson|弗格森]]事件等重大突发事件（历时系统的关键扰动）爆发时，整个政策系统的平稳状态瞬间瓦解，立法者受激触发极速响应，迫切在数小时内宣布政治立场并调集证据，揭示了实证学者必须掌握的宏观政策时间运行法则。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 > 3. **青年科技人才发展生态系统分析** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] 借鉴生态系统理论分析框架，将基础研究青年学者的学术成长解构为微观个体特征（好奇心与长期目标）、中观组织设计（稳定科研资源与专家引领）以及宏观政策环境（宽松氛围与延续性资助）三层嵌套系统，实证论证了多层生态协同对原始创新突破的支撑机制。

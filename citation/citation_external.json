@@ -7301,9 +7301,11 @@
     "Evans et al. (2000)": "Evans et al., 2000",
     "Evans et al. (2011)": "Evans et al., 2011",
     "Evans et al. (2017)": "Evans et al., 2017",
+    "Evans et al. (2018)": "Evans et al., 2018",
     "Evans et al., 2000": "Evans et al., 2000",
     "Evans et al., 2011": "Evans et al., 2011",
     "Evans et al., 2017": "Evans et al., 2017",
+    "Evans et al., 2018": "Evans et al., 2018",
     "Evans, 1995": "Evans, 1995",
     "Evans, 2008": "Evans, 2008",
     "Evans, 2010": "Evans, 2010",
@@ -13724,6 +13726,8 @@
     "Larsen, 2011": "Larsen, 2011",
     "Larsen, 2015": "Larsen, 2015",
     "Larson (1972)": "Larson, 1972",
+    "Larson et al. (2014)": "Larson et al., 2014",
+    "Larson et al., 2014": "Larson et al., 2014",
     "Larson, 1972": "Larson, 1972",
     "Larsson (2009)": "Larsson, 2009",
     "Larsson, 2009": "Larsson, 2009",
@@ -80668,6 +80672,21 @@
       ],
       "title": ""
     },
+    "Evans et al., 2018": {
+      "aliases": [
+        "Evans et al., 2018",
+        "Evans et al. (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Evans et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Early-Career Researchers.md"
+      ],
+      "title": ""
+    },
     "Evans, 1995": {
       "aliases": [
         "Evans, 1995",
@@ -127253,6 +127272,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Research Cage.md"
+      ],
+      "title": ""
+    },
+    "Larson et al., 2014": {
+      "aliases": [
+        "Larson et al., 2014",
+        "Larson et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Larson et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Early-Career Researchers.md"
       ],
       "title": ""
     },
@@ -208377,6 +208411,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md",
         "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
+        "wiki/concepts/higher-education/Early-Career Researchers.md",
         "wiki/concepts/research-methodology/Credibility Revolution.md"
       ],
       "title": "A study on the impact of intelligent tutor systems on academic achievement: A quantitative meta-analysis perspective."

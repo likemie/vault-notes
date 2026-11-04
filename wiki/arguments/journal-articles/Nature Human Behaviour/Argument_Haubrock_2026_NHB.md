@@ -64,6 +64,7 @@ related_concepts:
   - "[[Precarity Paradox]]"
   - "[[Junkification of Research]]"
   - "[[Slow Science]]"
+  - "[[Early-Career Researchers]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods:
@@ -91,14 +92,14 @@ sources:
 part_of:
 status: active
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-04
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Haubrock_2026_NHB"
 argument_key: "Argument_Haubrock_2026_NHB"
 argument_display_title: "How contemporary academic structures constrain scientific creativity and hold back early-career researchers"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -112,10 +113,10 @@ publisher: "Nature Publishing Group"
 > 当代大学与科研资助建制为何在产出海量学术成果的同时，难以同等催生颠覆性理论突破与概念创新？以青年科研人员为代表的新兴学术力量如何在雇佣不稳定、量化考评以及保守评审机制的交织约束下被规训，进而系统性削弱了整个科学建制的创新潜能？
 
 > [!claim] 核心主张
-> 当代科学系统正通过短周期竞争性资助、唯数量绩效考评、保守同行评审以及期刊声望壁垒，深度诱发学术研究的增量化与避险主义；在结构性就业不稳定与科层门阀依附的双重挤压下，青年科研人员将策略性依从作为个体生存的理性出路。[[Scientific Creativity|科学创造力]]体现为支持性学术生态系统的系统[[Emergence|涌现]]属性，克服创新停滞危机要求学术界推行基线经费支持、长周期探索机制、去中心化治理以及包容非线性生涯的深层结构性变革。
+> 当代科学系统正通过短周期竞争性资助、唯数量绩效考评、保守同行评审以及期刊声望壁垒，深度诱发学术研究的增量化与避险主义；在结构性就业不稳定与科层门阀依附的双重挤压下，[[Early-Career Researchers|青年科研人员]]将策略性依从作为个体生存的理性出路。[[Scientific Creativity|科学创造力]]体现为支持性学术生态系统的系统[[Emergence|涌现]]属性，克服创新停滞危机要求学术界推行基线经费支持、长周期探索机制、去中心化治理以及包容非线性生涯的深层结构性变革。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 跨国科研体系中的青年科研人员（Early-Career Researchers, ECRs）、学术资助机制、同行评议体系、大学管理制度以及全球科研不平等格局。
+> - **对象** 跨国科研体系中的[[Early-Career Researchers|青年科研人员]]（Early-Career Researchers, ECRs）、学术资助机制、同行评议体系、大学管理制度以及全球科研不平等格局。
 > - **张力** 科学突破对[[Academic Freedom|学术自由]]、失败容忍度与长研究周期的客观需求，与当代[[New Managerialism|新管理主义]]主导下的短周期考核、量化绩效监控和发文通胀之间的尖锐冲突。
 > - **贡献** 突破单纯将[[Creativity|创造力]]归结为个体认知天赋的传统假设，确立以系统生态学视角审视学术创造力的[[Analytic Framework|分析框架]]，系统揭示了从宏观资助分配到微观心理耗竭的制度传导链条。
 
