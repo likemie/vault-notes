@@ -149,7 +149,7 @@ Total entries: **276**
 > [!index-list]- Higher Education (5)
 > - [[Academic Capitalism]] — Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程
 > - [[Biglan's Disciplinary Classification Scheme]] — Anthony Biglan 提出的经典三维学科分类理论，依据范式共识程度（硬学科 vs 软学科）、应用实践取向（纯科学 vs 应用科学）及研究对象生命属性（生命 vs 非生命）划分学术门类，是研究高等教育学科文化与认识论信念的基础框架。
-> - [[Challenge-Hindrance Stressor Framework]] — 由卡瓦诺等人（Cavanaugh et al., 2000）开创并经莱派恩等人（LePine et al., 2005）与波德萨科夫等人（Podsakoff et al., 2007, 2023）系统完善的职业压力与行为分析理论框架；该框架突破了传统压力研究的单一负面视角，将工作场所压力源划分为个体认为克服后可促进学习成长与成就的挑战性压力源，以及个体认为直接阻碍目标达成并无端消耗资源的阻碍性压力源，两类压力源通过相异的认知评价与心理机制对动机、创造力与绩效产生截然相反的作用。
+> - [[Challenge-Hindrance Stressor Framework]] — 由 Cavanaugh et al. (2000) 开创，并经 LePine et al. (2005) 与 Podsakoff et al. (2007, 2023) 系统完善的职业压力与行为分析理论框架；该框架突破了传统压力研究的单一负面视角，将工作场所压力源划分为个体认为克服后可促进学习成长与成就的挑战性压力源，以及个体认为直接阻碍目标达成并无端消耗资源的阻碍性压力源，两类压力源通过相异的认知评价与心理机制对动机、创造力与绩效产生截然相反的作用。
 > - [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
 > - [[Zawacki-Richter AI in Higher Education Framework]] — 系统整合高等教育全生命周期人工智能应用的四维分类理论框架，将 AI 划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学与管理领域
 

@@ -18917,10 +18917,8 @@
     "Podlozny (2000)": "Podlozny, 2000",
     "Podlozny, 2000": "Podlozny, 2000",
     "Podsakoff et al. (2003)": "Podsakoff et al., 2003",
-    "Podsakoff et al. (2007)": "Podsakoff et al., 2007",
     "Podsakoff et al. (2023)": "Podsakoff et al., 2023",
     "Podsakoff et al., 2003": "Podsakoff et al., 2003",
-    "Podsakoff et al., 2007": "Podsakoff et al., 2007",
     "Podsakoff et al., 2023": "Podsakoff et al., 2023",
     "Poirier (1989)": "Poirier, 1989",
     "Poirier (2013)": "Poirier, 2013",
@@ -165011,21 +165009,6 @@
         "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md",
         "wiki/concepts/research-methodology/Common Method Variance.md",
         "wiki/concepts/research-methodology/Self-report Bias.md"
-      ],
-      "title": ""
-    },
-    "Podsakoff et al., 2007": {
-      "aliases": [
-        "Podsakoff et al., 2007",
-        "Podsakoff et al. (2007)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Podsakoff et al., 2007"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
       ],
       "title": ""
     },
