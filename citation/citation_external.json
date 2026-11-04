@@ -12693,8 +12693,6 @@
     "Kerstin Martens, 2018": "Kerstin Martens, 2018",
     "Kester (1998)": "Kester, 1998",
     "Kester, 1998": "Kester, 1998",
-    "Ketelhut (2007)": "Ketelhut, 2007",
-    "Ketelhut, 2007": "Ketelhut, 2007",
     "Kevin Anthony Hoff & Masooda Bashir (2015)": "Kevin Anthony Hoff & Masooda Bashir, 2015",
     "Kevin Anthony Hoff & Masooda Bashir, 2015": "Kevin Anthony Hoff & Masooda Bashir, 2015",
     "Keyworth (1986)": "Keyworth, 1986",
@@ -14563,8 +14561,6 @@
     "Liu & Lipowski, 2021": "Liu & Lipowski, 2021",
     "Liu & Pásztor (2022)": "Liu & Pásztor, 2022",
     "Liu & Pásztor, 2022": "Liu & Pásztor, 2022",
-    "Liu & Wang (2022)": "Liu & Wang, 2022",
-    "Liu & Wang, 2022": "Liu & Wang, 2022",
     "Liu & Yang (2015)": "Liu & Yang, 2015",
     "Liu & Yang, 2015": "Liu & Yang, 2015",
     "Liu & Zhang (2018)": "Liu & Zhang, 2018",
@@ -23220,9 +23216,7 @@
     "Sweller (2011)": "Sweller, 2011",
     "Sweller (2021)": "Sweller, 2021",
     "Sweller (2022)": "Sweller, 2022",
-    "Sweller et al. (2003)": "Sweller et al., 2003",
     "Sweller et al. (2019)": "Sweller et al., 2019",
-    "Sweller et al., 2003": "Sweller et al., 2003",
     "Sweller et al., 2019": "Sweller et al., 2019",
     "Sweller, 1988": "Sweller, 1988",
     "Sweller, 1998": "Sweller, 1998",
@@ -106961,8 +106955,7 @@
         "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
         "wiki/concepts/learning-science-cognitive-science/Executive Function.md",
         "wiki/concepts/learning-science-cognitive-science/Inhibitory Control.md",
-        "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
-        "wiki/concepts/research-methodology/Interaction Effect.md"
+        "wiki/concepts/learning-science-cognitive-science/Working Memory.md"
       ],
       "title": ""
     },
@@ -120033,21 +120026,6 @@
       "seen_in": [],
       "title": "Year two program evaluation report  Academic volunteer and mentor program. Giano Intermediate School."
     },
-    "Ketelhut, 2007": {
-      "aliases": [
-        "Ketelhut, 2007",
-        "Ketelhut (2007)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Ketelhut, 2007"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Interaction Effect.md"
-      ],
-      "title": ""
-    },
     "Kevin Anthony Hoff & Masooda Bashir, 2015": {
       "aliases": [
         "Kevin Anthony Hoff & Masooda Bashir, 2015",
@@ -126074,8 +126052,7 @@
         "wiki/concepts/learning-science-cognitive-science/Executive Function.md",
         "wiki/concepts/learning-science-cognitive-science/Inhibitory Control.md",
         "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md",
-        "wiki/concepts/research-methodology/Interaction Effect.md"
+        "wiki/concepts/research-methodology/Heterogeneity.md"
       ],
       "title": ""
     },
@@ -133352,21 +133329,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
-      ],
-      "title": ""
-    },
-    "Liu & Wang, 2022": {
-      "aliases": [
-        "Liu & Wang, 2022",
-        "Liu & Wang (2022)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Liu & Wang, 2022"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Interaction Effect.md"
       ],
       "title": ""
     },
@@ -196246,21 +196208,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md"
-      ],
-      "title": ""
-    },
-    "Sweller et al., 2003": {
-      "aliases": [
-        "Sweller et al., 2003",
-        "Sweller et al. (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Sweller et al., 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Interaction Effect.md"
       ],
       "title": ""
     },
