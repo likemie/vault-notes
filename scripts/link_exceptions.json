@@ -485,6 +485,10 @@
     {
       "sentence": "理论工具箱将关注焦点从专利权授予本身推进至专利商业许可与实体材料控制的交互作用。",
       "target": "wiki/concepts/research-methodology/Interaction Effect.md"
+    },
+    {
+      "sentence": "**材料管控与收益索取** 杜邦公司对实验小鼠推行极高的单鼠采购定价，严禁科研人员自行繁育后代，要求科学家在发表研究成果前接受公司预先审查，并强制要求对任何利用该小鼠获得的后续科研突破索取到达提成（reach-through royalties）。",
+      "target": "wiki/facts/uk/Reach.md"
     }
   ]
 }

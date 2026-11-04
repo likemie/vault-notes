@@ -27338,7 +27338,9 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Statistical Significance.md",
     "aliases": [
-      "统计显著性"
+      "统计显著性",
+      "显著性检验",
+      "p-value"
     ]
   },
   {

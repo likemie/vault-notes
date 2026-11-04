@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-05
 ---
 
 ---
@@ -89,12 +89,22 @@ updated: 2026-10-26
 > - **100,000+ ×** 基因测序成本从人类基因组计划时期的单人次约数亿美元下降至当代数百美元的降幅倍数。
 
 > [!finding-cards] 关键体系成效与治理启示
-> - **奠定现代生命科学与精准医学平台基石** 提供了全人类基因变异的参考坐标，直接催生了肿瘤靶向治疗、单克隆抗体药物、mRNA 核酸疫苗与基因编辑等颠覆性产业。
+> - **奠定现代生命科学与精准医学平台基石** 提供了全人类基因变异的参考坐标，直接催生了分子定向治疗、单克隆抗体药物、mRNA 核酸疫苗与基因编辑等颠覆性产业。
 > - **确立开放科学与公共数据公地治理[[Paradigm|范式]]** 证明了国家通过强制数据即时开源，能够有效防止上游共性科学知识被排他性专利垄断，为全球数万名研究者提供了平等的创新起点。
 > - **验证[[Pasteur's Quadrant|巴斯德象限]]中等规模工程攻坚的组织可行性** 证明了将宏[[Big Science|大科学]]机理探索与大规模工程流水线结合的可行性，成为国家组织跨学科、跨机构大攻坚的范式样板。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
 > - **对 2026 年国家科技新政的直接映射** 在白宫科技政策办公室 2026 年报告中，人类基因组计划被作为两项国家重大战略的直接原型：
 >   1. **[[Genesis Mission|创世纪计划]]（Genesis Mission）** 借鉴基因组计划“甄选具有全局牵引力之基石问题”的逻辑，在人工智能时代构建跨物理、材料与生物科学的高质量机器可读基础数据库。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
 >   2. **[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会 X 实验室与[[Focused Research Organization|聚焦研究组织]]（FRO）** 借鉴其将前沿复杂技术“转化为廉价普及能力”的路径，规划在哺乳动物神经动机环路绘制等前沿领域建设连接组测绘基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
+
+---
+
+> [!debates] 核心争议
+>
+> > [!axis] 数据开源公地 vs 上游实验工具专利垄断
+> > 围绕基因组测序数据与基础实验设备究竟应无条件公开还是允许实施商业排他许可产生分歧。
+> >
+> > - **开源公地派（《百慕大原则》）** 坚持测序数据 24 小时内向全社会开源，严禁对基础遗传序列申请排他性专利。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
+> > - **工具排他管制批判派** 指出大学与商业公司对自动化寡核苷酸合成仪等核心测序工具实施排他许可，显著推高了测序试剂成本并引发学界对延误计划按期推进的强烈抗议。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 
 ---
 
@@ -119,4 +129,5 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 指出大学对自动化寡核苷酸合成仪等核心测序工具实施排他许可，曾对人类基因组计划的早期推进构成严重阻滞。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把人类基因组计划视为在[[Pasteur's Quadrant|巴斯德象限]]中组织[[Big Science|大科学]]攻坚的典范：以《百慕大原则》保障数据共享，并作为[[Genesis Mission|创世纪计划]]与 [[National Science Foundation|NSF TIP]] 的组织蓝本。

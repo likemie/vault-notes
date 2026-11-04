@@ -2,126 +2,114 @@
 title: Statistical Significance
 aliases:
   - 统计显著性
-summary: "用于判断观察到的差异是否足以拒绝零假设的统计判断标准，其解释需要结合样本量、效应大小和研究设计。"
+  - 显著性检验
+  - p-value
+summary: "推断统计中用于判定样本观察差异是否足以拒绝零假设的数理判定规则；通过计算在零假设为真前提下获得当前或更极端统计量的概率（p 值）并与预设显著性水平对比，但显著性本身不直接度量效应大小或实践价值。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
-- statistical-significance
-- p-value
-- hypothesis-testing
-- effect-size
-- research-methodology
-related_concepts:
-  - "[[Null Hypothesis]]"
-  - "[[Threats to Internal Validity]]"
-  - "[[Evaluation Research]]"
-  - "[[Internal Validity]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Publication Bias]]"
-  - "[[Evidence Standards]]"
-  - "[[Visible Learning]]"
-related_theories: []
-related_methods:
-  - "[[Sample Size Determination]]"
-  - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
-  - "[[Standard Error]]"
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Correlational Research]]"
-related_persons: []
-related_facts:
-  - "[[Every Student Succeeds Act]]"
-related_arguments:
-  - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
-  - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
-confidence: low
-status: draft
+  - method/quantitative
+  - statistics/hypothesis-testing
+  - statistics/inference
+  - field/research-methodology
+confidence: high
+status: active
 created: '2026-05-05'
-updated: 2026-10-29
+updated: 2026-11-05
+---
+
 ---
 
 > [!def] Statistical Significance
-> 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的[[Null Hypothesis\|零假设]]。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
+> **统计显著性（Statistical Significance）** 是推断统计与假设检验中用于判定经验观察差异是否足以拒绝[[Null Hypothesis|零假设]]的数理决策规则。其核心机制在于计算检验统计量（如 $t$ 值、$F$ 值、$\chi^2$ 值）在零假设分布下出现的条件概率（$p$ 值）；当该概率低于研究者预设的显著性水平 $\alpha$（通常设定为 0.05 或 0.01）时，表明观察到的样本差异难以归因于纯粹的随机抽样波动，从而判定该差异具有统计显著性（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p. 45]]）。
 
-> [!concept-lens] 概念透镜
-> - **含义** 统计显著性回答"观察到的差异是否可能仅由随机因素造成"，而非"差异有多大"或"差异是否重要"。
-> - **用途** 为研究者在[[Null Hypothesis\|零假设]]框架下提供可否拒绝零假设的标准化判断依据，是假设检验的核心决策工具。
-> - **边界** 统计显著性不说明效应大小、实践意义或政策价值。它只是众多[[Threats to Internal Validity\|内部效度威胁]]中的一个，而非研究价值的最终裁判。
+> [!method-scope] 方法范围
+> - **测量或估计对象** 检验处理组与对照组均值差异、回归模型系数或变量间相关性偏离随机预期的统计置信度。
+> - **问题类型** 假设检验与推断统计决策（回答“观察到的样本变异是否仅仅是由随机抽样误差引起的”）。
+> - **分析单位** 统计样本集合、经验估计参数及其抽样分布。
+> - **输出形式** 检验统计量（$t$、$F$、$z$）、显著性概率值（$p$ 值）以及显著性标记（如 $p < 0.05$、$p < 0.01$）。
 
-> [!boundary]- 概念边界
-> - **不等于效应大小** 统计显著性受[[Sample Size Determination\|样本量]]驱动——大样本可使微小效应显著，小样本可使大效应不显著。详见 [[Effect Size]]。
-> - **不等于实践重要性** 显著结果可能对应微不足道的实际差异，非显著结果可能对应有实践价值的效应。
-> - **不替代[[Confidence Interval\|置信区间]]** 仅报告 p 值而不报告[[Confidence Interval\|置信区间]]或[[Standard Error\|标准误]]，无法判断估计的稳定性。
-
-### 与效应量的数学关系
-
-Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效应量替代统计显著性作为[[Evaluation Research|评估研究]]的主要指标，将统计显著性重新定位为"[[Internal Validity|内部效度]]众多可能威胁中的一个"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。
-
-> [!formula-step] 统计显著性与效应量的数学关系
-> $$t = d\sqrt{n}$$
+> [!citation-card] 关键定义
+> 统计检验的核心在于确定检验统计量是否超过临界值。超过预设临界值时即可判定差异达到统计显著，能够拒绝两个总体均值相等的零假设；反之则表明样本数据不足以排除零假设成立的可能性。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 45)]]
 >
-> **读法** 其中 $d$ 为标准化均值差（[[Effect Size\|效应量]]），$n$ 为观测数。样本量越大，同样 $d$ 值对应的 $t$ 值越大，越容易达到统计显著。
+> *Statistical significance tests determine whether the observed difference exceeds the critical value required to reject the null hypothesis of equal population means... failing to reject means the data are consistent with chance variation.*
+
+---
+
+> [!method-position] 认识论与方法定位
+> - **知识观** 建立在频率主义抽样理论与反证逻辑之上，通过控制假阳性推断风险（I 型错误 $\alpha$）评估经验证据的稳健度。
+> - **研究者角色** 研究者需在检验前客观选定适宜的单双侧假设、检验水平 $\alpha$ 及统计模型，防范事后 $p$ 值操纵（p-hacking）。
+> - **有效性标准** 内部效度取决于统计模型对随机抽样误差的严密控制；统计结论效度需结合[[Standard Error|标准误]]与[[Confidence Interval|置信区间]]共同检验。
+> - **不声称回答的问题** 统计显著性不度量效应大小（Effect Size），亦不说明干预措施在教育现实中的实践意义或政策效益。
+
+> [!method-stack] 方法层级
+> - **上位方法** [[Quantitative Research|量化实证研究]]、推断统计学（Inferential Statistics）。
+> - **前置步骤** 确立理论假设、设立[[Null Hypothesis|零假设]]（$H_0$）与备择假设（$H_1$）、采集数据并清洗。
+> - **实现模型** 双样本 $t$ 检验、方差分析（ANOVA）、卡方检验、线性与非线性回归显著性检验。
+> - **互补指标** [[Effect Size|效应量]]（Cohen's $d$、Hedges' $g$）、95% [[Confidence Interval|置信区间]]、统计检力分析。
+
+---
+
+> [!proc] 通用程序
+> 1. **设立检验假设与显著性水平** 确立研究假设并形式化设定 $H_0$（如 $\mu_1 - \mu_2 = 0$），确定可接受的 I 型错误率 $\alpha$。
+> 2. **计算估计值及其标准误** 依据样本数据计算点估计值及其抽样标准误 $SE$。
+> 3. **推导统计量与 p 值** 构造检验统计量并依据理论抽样分布推导其双尾或单尾 $p$ 值。
+> 4. **统计决策与审慎解释** 比对 $p$ 值与 $\alpha$ 阈值，结合效应量与置信区间共同解读研究结果的实践价值。
+
+---
+
+> [!formula-step] 步骤一　检验统计量与样本量的数学关联
+> $$t = \frac{\bar{X}_1 - \bar{X}_2}{SE} = d\sqrt{n}$$
 >
-> **示例** 以 $n = 25$ 为例，$d \approx 0.412$ 对应 $t = 2.060$，接近双侧检验 $p \approx 0.05$ 的临界值。这意味着 Hattie 的 $d = 0.40$ 关节点在特定样本量下恰好与 $p \approx 0.05$ 相连，并非脱离样本量的普遍边界（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
+> **这个公式在做什么** 揭示统计显著性检验量（如独立样本 $t$ 值）与标准化均值差[[Effect Size|效应量]] $d$ 及样本容量 $n$ 之间的代数关系。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 45)]]
+>
+> **符号说明** $d$ 为标准化效应量；$n$ 为各组样本容量；$SE$ 为差值的标准误。
+>
+> **数学直觉** 统计检验量由效应量与样本规模共同决定。在效应量固定时，样本容量越大，$t$ 检验量越大，越容易达到拒绝零假设的显著性门槛。
+>
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 临界值判断 | 当 $n = 25$ 时，$d \approx 0.412$ 对应 $t = 2.060$，恰好对应双侧检验 $p \approx 0.05$ 门槛。 |
+> > | 注意 | 样本规模依存 | 相同的效应量在不同样本量下展现完全不同的统计显著性，显著性水平高度取决于样本规模的大小。 |
 
 ---
 
-> [!dev-timeline] 统计显著性的概念演变
-> - **2011 — Terhart 的区分** Terhart 在解释 Hattie 的 [[Effect Size\|效应量]]时区分了统计显著性和效应大小：统计显著性只说明结果不太可能由随机因素造成，却不说明效应有多大或实践意义是什么（[[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]]）。
-> - **2015 — Allerup 的数学联系** 效应量与显著性检验在给定[[Sample Size Determination\|样本量]]时可通过 $t = d\sqrt{n}$ 建立数学联系（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
-> - **2024 — 清算中心标准分化** Wadhwa et al. 发现不同[[Educational Evidence Clearinghouses\|教育证据清算中心]]对统计显著性和效应量阈值的要求不一致：有的要求统计显著正向效果，有的还额外要求最低效应量（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]]）。
+> [!method-fit] 适用判断
+> - **适合使用** 评估随机对照试验或观察性研究中样本差异是否显著超出随机误差波动的参数假设检验。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 45)]]
+> - **谨慎使用** 巨型大数据集分析（样本量极大时极微小的琐碎差异亦会产生极高显著性），需严格以效应量为主要研判依据。
+> - **不适合使用** 探索性质性研究、无概率抽样的非代表性个案研究，或缺乏方差控制的单项描述性统计。
 
 ---
 
-> [!feature] 核心要素
-> - **[[Null Hypothesis\|零假设]]** 在两个分布均值比较中，零假设写作 $H_0: \mu_1 = \mu_2$（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
-> - **t 值与[[Sample Size Determination\|样本量]]** 在[[Effect Size\|效应量]] $d$ 已知时，若观测数为 $n$，可构造 $t = d\sqrt{n}$；样本量越大，同样 $d$ 值越容易达到统计显著。
-> - **p 值** p 值表示在零假设成立时获得当前或更极端 $t$ 值的概率，是统计分析结果的核心呈现形式。
-> - **显著不等于重要** Terhart 强调统计显著性不说明效应大小和实践意义，需[[Effect Size\|效应量]]或原始量表差异补充（[[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]]）。
-> - **显著不等于可采购** 学校项目选择中，统计显著性不能说明项目成本、实施难度、教师接受度或本地适配性（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.120-121]]）。
+> [!method-limits] 方法局限
+> - **显著不等于重要（Significance vs. Importance）** 统计显著性仅表明样本差异难以用抽样误差解释，绝不代表该差异具备实质教育效益或政策采纳价值。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 427)]]
+> - **二元标签诱发发表偏倚** 将连续的 $p$ 值粗暴划分为显著（$p < 0.05$）与不显著的二元标签，容易诱发选择性发表与数据挖掘偏误。
+> - **忽略估计不确定性** 孤立报告 $p$ 值而省略置信区间与标准误，会导致读者无法评估估计值的精确度与相邻干预的重叠可能。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 47–48)]]
 
 ---
 
-> [!contrast-table] 与相关概念的区别
-> - **vs [[Effect Size]]** 统计显著性回答"差异是否足以排除随机波动"，效应量回答"差异有多大"。二者可通过 $t = d\sqrt{n}$ 在特定[[Sample Size Determination\|样本量]]下关联，但不能相互替代（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
-> - **vs [[Confidence Interval]]** 统计显著性以是否越过临界值或 p 值阈值呈现；置信区间把估计值的误差范围显示出来，使读者能判断相邻估计是否可能重叠（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47–48]]）。
-
-> [!info] 相关方法
-> - [[Meta-analysis]] — 元分析若只合并点估计而忽略显著性检验和[[Confidence Interval\|置信区间]]，容易把不同精度的研究结果放在同一层级比较。
-> - [[Meta-meta-analysis]] — 联合[[Standard Error\|标准误]]、95% CI 和显著性检验是判断二级综合点估计是否稳定的必要信息（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, p.30]]）。
-
----
-
-> [!success] 实证发现
-> - 在 $n = 25$ 的示例中，$d \approx 0.412$ 对应 $t = 2.060$，接近双侧检验 $p \approx 0.05$ 的临界值；换成其他[[Sample Size Determination\|样本量]]，这一对应关系会改变（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
-> - 在[[Educational Evidence Clearinghouses\|教育证据清算中心]]中，统计显著性并不总是以同样方式进入评级标准；部分机构要求统计显著正向效果，部分机构还加入最低[[Effect Size\|效应量]]门槛（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]]）。
-> - 在 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 中，只有 23% 的成就效应显著大于零；这提示”严格设计”并不自动带来统计显著的教育成就效果（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.112]]）。
+> [!entry-map] 相关理论与方法
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Null Hypothesis]] | 概念 | 统计显著性检验所设定并尝试予以拒绝的核心基准命题。 |
+> | [[Effect Size]] | 方法 | 衡量差异实际大小的互补指标，弥补统计显著性受制于样本量的缺陷。 |
+> | [[Standard Error]] | 方法 | 计算检验统计量分母所必需的核心抽样离散度指标。 |
+> | [[Confidence Interval]] | 方法 | 反映参数估计精确范围的互补展示形式，优于单一显著性判定。 |
+> | [[Sample Size Determination]] | 方法 | 决定统计检验功效（Power）与显著性检出能力的前置设计步骤。 |
+> | [[Meta-analysis]] | 方法 | 综合多项初级研究检验结果并控制发表偏倚的宏观证据整合方法。 |
 
 ---
 
-> [!warning] 争议与批评
-> - 如果只报告统计显著性，研究者可能忽略实际效应大小；如果只报告[[Effect Size\|效应量]]点估计，则无法判断该估计是否稳定。只有 $d$ 值而缺少 [[Confidence Interval]]、[[Standard Error\|标准误]]或相邻排名显著性检验时，读者无法判断数值接近的干预是否真的不同（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47–48]]）。
-> - [[Publication Bias\|发表偏倚]]与统计显著性偏好相关：发表系统更容易接纳显著或正面结果，从而使[[Meta-analysis\|元分析]]平均效应量偏高。
-> - 现行[[Evidence Standards\|证据标准]]容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.110-112]]）。
-
----
-
-> [!evidence-grid-a] 相关案例索引
-> - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低[[Effect Size\|效应量]]阈值组合成项目评级规则（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]]）
-> - [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials\|RCT]]、[[Quasi-Experimental Designs\|QED]] 和[[Correlational Research\|相关性研究]]与项目有效性标准连接起来（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.109]]）
-> - [[Visible Learning]] — Hattie 将 $d = 0.40$ 作为实践阈值，但该值与显著性的关系依赖[[Sample Size Determination\|样本量]]（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 推导显著性检验量与效应量在给定样本量下的代数关联，指出显著性受制于样本规模的数学机制。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 强调统计显著性仅说明结果不属于随机噪音，不能直接等同于教育实践的重要程度。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 分析 141 项大型教育 RCT 发现仅 23% 达到统计显著，反思严格证据标准对项目采纳的过度约束。
