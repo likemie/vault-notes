@@ -302,10 +302,12 @@ updated: 2026-11-02
 > | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | 1970–1989年东德斯塔西（Stasi）在西方针对37个工业部门收集的情报 | 历史计量与[[Fixed-Effect Model\|固定效应]]面板回归 | 科技间谍情报数与[[Total Factor Productivity\|全要素生产率]]（TFP）差距 | 斯塔西累计收集 189,725 条科技情报，显著缩小了两德行业 TFP 差距 | $p < 0.01$ | 揭示非法/秘密技术转移渠道对吸收能力较强的追赶国产业的技术追赶效应 |
 > | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]] | 2023年美国全美大学[[University-Industry Collaboration\|产学合作]]资助与技术转移 | 行业统计调查（AUTM） | 产学合作研究资助总额与联邦资助份额演变 | 2023年全美产学合作科研资助超 71 亿美元；联邦资助占大学研发支出比例由 1991 年约 70% 降至 2021 年不足 60% | — | 说明大学研发资金来源多元化趋势以及正式技术转移合同谈判在财务上的关键权重 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 1970–1990 年代美国微电子产学中心（[[Silicon Structures Project\|SSP]]、[[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、CIS）与生物医疗跨界转化 | 历史档案考证与比较[[Process Tracing\|过程追踪]] | 外部用户占比、咨询辐射机构数与跨界专利许可成效 | 康奈尔 NRRFSS 外部用户达 60%（12% 工业界），为 40 余家机构提供微细加工建设咨询；基因枪成为康奈尔史上最高额专利版税技术转移；斯坦福 CIS 孵化出 Affymetrix DNA 微阵列芯片 | 定性历史档案证据分析 | 适用于重资产微纳加工平台型技术转移与向生命科学跨界转化情境 |
+> | [[Argument_Thompson_et_al_2018_RP\|Thompson et al. (2018)]] | 加州大学系统 1997–2007 年发明披露（含 61 件科研工具与 527 件非工具发明） | 遗传匹配与双重差分法（DID） | 商业许可对后续期刊引用的影响 | 全样本前三年累计增加 9.58 次引用（$p < 0.05$）；科研工具样本三年累计减少 14.20 次引用（$p < 0.01$） | 全样本三年累计 $SE = 4.29$；科研工具三年累计 $SE = 2.05$ | 揭示大学技术许可对学术知识流动的异质性影响，受限于单一公立大学系统 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 利用加利福尼亚大学专利与许可数据，证实常规技术许可带来微弱知识溢出，而实体科研工具许可导致后续学术引用暴跌过半。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 追踪[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示中国对外高教合作如何依托跨[[Regional University Alliances|区域大学联盟]]、联合研究中心与技术转移基地，推动科研合作深度服务于重大产业走廊与跨国产能建设（pp. 226–230）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示顶尖[[Research Universities|研究型大学]]通过海外联合实验室与技术转移中心推动产学研跨国协同与[[Hard Power|硬实力]]输出。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构技术转移体系，论证破除跨校许可壁垒、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 审批与深化 [[Other Transaction Authority|OTA]] 商业授权对本土制造能力建设的核心作用。
