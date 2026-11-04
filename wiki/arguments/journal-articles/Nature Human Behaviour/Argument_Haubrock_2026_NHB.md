@@ -308,7 +308,7 @@ publisher: "Nature Publishing Group"
 > [!sub-claim] 2. 破除唯影响因子考核并保护科研人员非线性成长轨迹
 
 > [!pathways] 评价去指标化与治理平权化路径
-> - **质性代表作审议替代量化指标** 学术界应落实《[[Declaration on Research Assessment|旧金山科研评估宣言]]》（San Francisco Declaration on Research Assessment, DORA）与《莱顿宣言》（Leiden Manifesto）的改革主张，坚决废除以期刊影响因子和发文篇数挂钩人才晋升的做法，回归对代表作实质贡献的质性审议，充分考量团队协作、成果转化以及育儿休假等非线性生涯轨迹。
+> - **质性代表作审议替代量化指标** 学术界应落实《[[Declaration on Research Assessment|旧金山科研评估宣言]]》（San Francisco Declaration on Research Assessment, DORA）与《[[Leiden Manifesto|莱顿宣言]]》（Leiden Manifesto）的改革主张，坚决废除以期刊影响因子和发文篇数挂钩人才晋升的做法，回归对代表作实质贡献的质性审议，充分考量团队协作、成果转化以及育儿休假等非线性生涯轨迹。
 > - **双盲纠偏与新颖性加权准入** 在出版与评审前端广泛普及双盲同行评审以消除基于身份、机构与地缘的歧视偏见，同时增设新颖性加权评分机制，给予高风险假说更高的准入容错度。
 > - **扁平化治理与常任教职通道** 在组织治理层面建立扁平化的权责监督体系，遏制资深学术权威对青年后备力量的单向劳动剥削，尽早为青年学者打通通往长聘常任轨的稳定职业通道，赋予新生代挑战学术既成权威的智识底气。
 

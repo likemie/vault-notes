@@ -12464,8 +12464,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Policymaking Chronosystem.md",
-        "wiki/persons/us/Urie Bronfenbrenner.md",
-        "wiki/theories/educational-psychology/Ecological Systems Theory.md"
+        "wiki/persons/us/Urie Bronfenbrenner.md"
       ],
       "title": ""
     },
@@ -14221,7 +14220,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md"
+        "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md",
+        "wiki/theories/educational-psychology/Ecological Systems Theory.md"
       ],
       "title": ""
     },
@@ -83201,6 +83201,14 @@
         "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md",
         "wiki/concepts/research-methodology/Common Method Variance.md",
         "wiki/concepts/research-methodology/Self-report Bias.md"
+      ],
+      "title": ""
+    },
+    "Podsakoff et al., 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
       ],
       "title": ""
     },

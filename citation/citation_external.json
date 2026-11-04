@@ -18917,8 +18917,10 @@
     "Podlozny (2000)": "Podlozny, 2000",
     "Podlozny, 2000": "Podlozny, 2000",
     "Podsakoff et al. (2003)": "Podsakoff et al., 2003",
+    "Podsakoff et al. (2007)": "Podsakoff et al., 2007",
     "Podsakoff et al. (2023)": "Podsakoff et al., 2023",
     "Podsakoff et al., 2003": "Podsakoff et al., 2003",
+    "Podsakoff et al., 2007": "Podsakoff et al., 2007",
     "Podsakoff et al., 2023": "Podsakoff et al., 2023",
     "Poirier (1989)": "Poirier, 1989",
     "Poirier (2013)": "Poirier, 2013",
@@ -48051,8 +48053,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Policymaking Chronosystem.md",
-        "wiki/persons/us/Urie Bronfenbrenner.md",
-        "wiki/theories/educational-psychology/Ecological Systems Theory.md"
+        "wiki/persons/us/Urie Bronfenbrenner.md"
       ],
       "title": ""
     },
@@ -50955,7 +50956,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md"
+        "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md",
+        "wiki/theories/educational-psychology/Ecological Systems Theory.md"
       ],
       "title": ""
     },
@@ -165013,6 +165015,21 @@
         "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md",
         "wiki/concepts/research-methodology/Common Method Variance.md",
         "wiki/concepts/research-methodology/Self-report Bias.md"
+      ],
+      "title": ""
+    },
+    "Podsakoff et al., 2007": {
+      "aliases": [
+        "Podsakoff et al., 2007",
+        "Podsakoff et al. (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Podsakoff et al., 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
       ],
       "title": ""
     },
