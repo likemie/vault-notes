@@ -3221,7 +3221,9 @@
     "Bronfenbrenner & Ceci (1994)": "Bronfenbrenner & Ceci, 1994",
     "Bronfenbrenner & Ceci, 1994": "Bronfenbrenner & Ceci, 1994",
     "Bronfenbrenner (1979)": "Bronfenbrenner, 1979",
+    "Bronfenbrenner (2000)": "Bronfenbrenner, 2000",
     "Bronfenbrenner, 1979": "Bronfenbrenner, 1979",
+    "Bronfenbrenner, 2000": "Bronfenbrenner, 2000",
     "Bronwyn H. Hall (2005)": "Bronwyn H. Hall, 2005",
     "Bronwyn H. Hall, 2005": "Bronwyn H. Hall, 2005",
     "Brookhart (2010)": "Brookhart, 2010",
@@ -4121,7 +4123,9 @@
     "Cavan, 1977": "Cavan, 1977",
     "Cavanaugh (2001)": "Cavanaugh, 2001",
     "Cavanaugh (2017)": "Cavanaugh, 2017",
+    "Cavanaugh et al. (2000)": "Cavanaugh et al., 2000",
     "Cavanaugh et al. (2004)": "Cavanaugh et al., 2004",
+    "Cavanaugh et al., 2000": "Cavanaugh et al., 2000",
     "Cavanaugh et al., 2004": "Cavanaugh et al., 2004",
     "Cavanaugh, 2001": "Cavanaugh, 2001",
     "Cavanaugh, 2017": "Cavanaugh, 2017",
@@ -13860,6 +13864,8 @@
     "Lazarsfeld, 1940": "Lazarsfeld, 1940",
     "Lazarsfeld, 1940s": "Lazarsfeld, 1940",
     "Lazarsfeld, 1958": "Lazarsfeld, 1958",
+    "Lazarus & Folkman (1984)": "Lazarus & Folkman, 1984",
+    "Lazarus & Folkman, 1984": "Lazarus & Folkman, 1984",
     "Lazarus (2014)": "Lazarus, 2014",
     "Lazarus, 2014": "Lazarus, 2014",
     "Lazonder & Egberink (2014)": "Lazonder & Egberink, 2014",
@@ -13895,6 +13901,8 @@
     "LeLorier et al., 1997": "LeLorier et al., 1997",
     "LeNoir (1989)": "LeNoir, 1989",
     "LeNoir, 1989": "LeNoir, 1989",
+    "LePine et al. (2005)": "LePine et al., 2005",
+    "LePine et al., 2005": "LePine et al., 2005",
     "LeVine (1990)": "LeVine, 1990",
     "LeVine, 1990": "LeVine, 1990",
     "Leach (1990)": "Leach, 1990",
@@ -18905,7 +18913,11 @@
     "Podlozny (2000)": "Podlozny, 2000",
     "Podlozny, 2000": "Podlozny, 2000",
     "Podsakoff et al. (2003)": "Podsakoff et al., 2003",
+    "Podsakoff et al. (2007)": "Podsakoff et al., 2007",
+    "Podsakoff et al. (2023)": "Podsakoff et al., 2023",
     "Podsakoff et al., 2003": "Podsakoff et al., 2003",
+    "Podsakoff et al., 2007": "Podsakoff et al., 2007",
+    "Podsakoff et al., 2023": "Podsakoff et al., 2023",
     "Poirier (1989)": "Poirier, 1989",
     "Poirier (2013)": "Poirier, 2013",
     "Poirier, 1989": "Poirier, 1989",
@@ -26796,6 +26808,8 @@
     "周刊, 1986": "周刊, 1986",
     "周怡 (2004)": "周怡, 2004",
     "周怡, 2004": "周怡, 2004",
+    "周茜 (2022)": "周茜, 2022",
+    "周茜, 2022": "周茜, 2022",
     "哈蒂 (1987)": "哈蒂, 1987",
     "哈蒂 (2009)": "哈蒂, 2009",
     "哈蒂, 1987": "哈蒂, 1987",
@@ -50926,6 +50940,21 @@
       ],
       "title": ""
     },
+    "Bronfenbrenner, 2000": {
+      "aliases": [
+        "Bronfenbrenner, 2000",
+        "Bronfenbrenner (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bronfenbrenner, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/中国科学基金/Argument_Mo_2026_BNSFC.md"
+      ],
+      "title": ""
+    },
     "Bronwyn H. Hall, 2005": {
       "aliases": [
         "Bronwyn H. Hall, 2005",
@@ -57571,6 +57600,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md",
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Cavanaugh et al., 2000": {
+      "aliases": [
+        "Cavanaugh et al., 2000",
+        "Cavanaugh et al. (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cavanaugh et al., 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
       ],
       "title": ""
     },
@@ -128248,6 +128292,21 @@
       ],
       "title": ""
     },
+    "Lazarus & Folkman, 1984": {
+      "aliases": [
+        "Lazarus & Folkman, 1984",
+        "Lazarus & Folkman (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lazarus & Folkman, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
+      ],
+      "title": ""
+    },
     "Lazarus, 2014": {
       "aliases": [
         "Lazarus, 2014",
@@ -128514,6 +128573,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of manipulatives in mathematics instruction in grades K-college: a meta-analysis of thirty years of research"
+    },
+    "LePine et al., 2005": {
+      "aliases": [
+        "LePine et al., 2005",
+        "LePine et al. (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "LePine et al., 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
+      ],
+      "title": ""
     },
     "LeVine, 1990": {
       "aliases": [
@@ -164903,6 +164977,37 @@
         "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md",
         "wiki/concepts/research-methodology/Common Method Variance.md",
         "wiki/concepts/research-methodology/Self-report Bias.md"
+      ],
+      "title": ""
+    },
+    "Podsakoff et al., 2007": {
+      "aliases": [
+        "Podsakoff et al., 2007",
+        "Podsakoff et al. (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Podsakoff et al., 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
+      ],
+      "title": ""
+    },
+    "Podsakoff et al., 2023": {
+      "aliases": [
+        "Podsakoff et al., 2023",
+        "Podsakoff et al. (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Podsakoff et al., 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/中国科学基金/Argument_Mo_2026_BNSFC.md",
+        "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md"
       ],
       "title": ""
     },
@@ -221702,6 +221807,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+      ],
+      "title": ""
+    },
+    "周茜, 2022": {
+      "aliases": [
+        "周茜, 2022",
+        "周茜 (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "周茜, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/中国科学基金/Argument_Mo_2026_BNSFC.md"
       ],
       "title": ""
     },

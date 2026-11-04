@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -125,6 +125,21 @@ updated: 2026-11-03
 
 > [!warning|limits] 适用局限
 > 研究主题选择受到研究者自身知识结构、时间周期与客观经费资源的严格制约；过分追求宏大主题容易导致方案悬空与操作性丧失，而过分追求短期可行性则可能陷入浅层数据收集的碎片化陷阱。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Research Question]] | 概念 | 从研究主题进一步提炼和聚焦后形成的经验检验核心疑问。 |
+> | [[Literature Review]] | 方法 | 围绕研究主题搜集并评估已有研究以明确研究空白的方法活动。 |
+> | [[Literature Search]] | 方法 | 确定研究主题后的文献检索与材料筛选过程。 |
+> | [[Operationalization]] | 概念 | 将研究主题中抽象概念转化为可测量指标的具象化过程。 |
+> | [[Creativity]] | 概念 | 选题创造性维度所依托的研究者创新思维与新颖视角。 |
+> | [[John W. Creswell]] | 人物 | 研究方案设计学者，提出工作标题草拟与六种新视角切入策略。 |
+> | [[Louis Cohen]] | 人物 | 教育研究方法学者，提出四类选题驱动力与实质学术贡献标准。 |
+> | [[Keith Morrison]] | 人物 | 教育研究方法学者，参与构建选题与方案设计规范。 |
 
 ---
 

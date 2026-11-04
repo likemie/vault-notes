@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 ---
@@ -64,6 +64,8 @@ updated: 2026-10-30
 >   3. **重大战略突破项目** 重点项目、重大项目、国家重大科研仪器研制项目。
 > - **覆盖全国高校与院所的开放公平竞争**
 >   向全中国所有具备科研资质的大学与科研机构平等开放申请，成为全国高校教师获得国家级学术认可与启动独立科研生涯的核心资助通道。
+> - **青年科技人才长周期资助机制改革**
+>   在国家自然科学基金青年科学基金项目中实施结题分级评价与择优延续资助机制，打破单周期一次性资助壁垒；将资助端口前移至优秀本科生与博士生阶段设立青年学生基础研究项目；常态化举办[[Shuangqing Forum|双清论坛]]以促进青年骨干与战略科学家对接前沿国家战略需求。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 ---
 
@@ -89,3 +91,11 @@ updated: 2026-10-30
 > | [[Chinese Academy of Sciences]] | Fact (Organization) | 参与科学基金早期发起设立、并在基金竞争中占据关键份额的国家战略科技力量。 |
 > | [[Research Universities]] | Concept | NSFC 重点资助以支撑其前沿科研与博士研究生培养的核心依托载体。 |
 > | [[China S&T Innovation Policy Evolution]] | Fact (Policy) | 梳理中国 1980 年代科技体制改革与引入科学基金制的宏观历史背景。 |
+> | [[Shuangqing Forum]] | Fact (Program) | 科学基金委常设主办的高层次战略研讨平台。 |
+> | [[Continuous Research Funding]] | Concept | 科学基金委在青年人才资助中探索实行的长周期接续资助机制。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 梳理 NSFC 借鉴美式 NSF 同行评审体制的创设历程与推动中国基础科研制度现代化的历史成效。
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 分析科学基金委在青年科学基金结题分级评价、择优延续资助与双清论坛战略引领中的改革举措，揭示其对青年人才原始创新能力的系统支撑作用。

@@ -16272,6 +16272,22 @@
     ]
   },
   {
+    "title": "Continuous Research Funding",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Continuous Research Funding.md",
+    "aliases": [
+      "延续性资助",
+      "滚动资助",
+      "接续性资助",
+      "滚动支持机制",
+      "连续性资助",
+      "延续资助机制",
+      "Continuous Funding",
+      "Roll-over Funding",
+      "Sequential Funding"
+    ]
+  },
+  {
     "title": "Crowded Frontier",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Crowded Frontier.md",
@@ -16993,6 +17009,19 @@
       "双元组织",
       "ambidexterity",
       "探索与利用双元平衡"
+    ]
+  },
+  {
+    "title": "Original Innovation Capability",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Original Innovation Capability.md",
+    "aliases": [
+      "原始创新能力",
+      "原始创新",
+      "原始创新突破",
+      "从0到1创新",
+      "Original Innovation",
+      "Original Innovation Breakthroughs"
     ]
   },
   {
@@ -21569,6 +21598,18 @@
       "Biglan's classification of academic disciplines",
       "Biglan's model of academic disciplines",
       "Biglan's disciplinary taxonomy"
+    ]
+  },
+  {
+    "title": "Challenge-Hindrance Stressor Framework",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md",
+    "aliases": [
+      "挑战性-阻碍性压力框架",
+      "挑战-阻碍压力模型",
+      "挑战性-阻碍性压力源框架",
+      "Challenge-Hindrance Stressor Model",
+      "Challenge-Hindrance Framework"
     ]
   },
   {
@@ -35887,6 +35928,17 @@
     "subtype": "program"
   },
   {
+    "title": "Shuangqing Forum",
+    "type": "fact",
+    "path": "wiki/facts/china/Shuangqing Forum.md",
+    "aliases": [
+      "双清论坛",
+      "国家自然科学基金委员会双清论坛",
+      "Shuangqing Academic Forum"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Silk Road Scholarship",
     "type": "fact",
     "path": "wiki/facts/china/Silk Road Scholarship.md",
@@ -48392,6 +48444,11 @@
     "title": "Argument_Wecker_2016_ZfE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+  },
+  {
+    "title": "Argument_Mo_2026_BNSFC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/中国科学基金/Argument_Mo_2026_BNSFC.md"
   },
   {
     "title": "Argument_Fan_2026_BCAS",

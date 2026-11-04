@@ -471,6 +471,10 @@
     {
       "sentence": "tension] 国会立法分支的实用主义考量 vs 学术精英群体的自主决策主张",
       "target": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
+    },
+    {
+      "sentence": "**量化标尺** 报告首次提出联邦对小科学的资助应保持每年15%的稳定增长基准，为后续各学科争取预算提供了坚实的话语依据。",
+      "target": "wiki/concepts/research-methodology/Discourse.md"
     }
   ]
 }

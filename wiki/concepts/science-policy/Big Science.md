@@ -242,6 +242,7 @@ updated: 2026-11-04
 > [!dev-timeline] 概念演变
 > - **1961 — 大科学概念提出与反思** 阿尔温·温伯格（[[Alvin Weinberg]]）在《科学》（Science）首次系统提出 Big Science 概念，反思国家实验室层级化治理与社会问题失灵。
 > - **1963 — [[Bibliometric Analysis|科学计量学]]奠基与增长指数** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek J. de Solla Price）出版《小科学，大科学》（*Little Science, Big Science*），确立科学文献每 10–15 年翻番的指数律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–164)]]
+> - **1965 — COSPUP 划定小科学与大科学界限** 国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）发布《基础研究与国家目标》报告，将巨型工程装置的大科学与学者自由构想的小科学（即大学基础研究）严格区分，并设定小科学每年 15% 稳定预算增长基准，防止基础科学被巨型大科学工程挤压。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **1984 — 大科学模式向大学系统移植** 美国国家科学基金会（NSF）设立工程研究中心（ERC），推动跨学科大合作协议进入民用高校。
 > - **2015 — 万人署名大科学极值展现** 欧洲核子研究中心（CERN）发表 5,154 人联合署名成果，创下单篇文献署名人数世界纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
 > - **2018 — 极端大科学协作与治理挑战** 福图纳托等在《科学》综述中以 CERN LHC 万人合作为例，剖析超大科学工程在集约攻关的同时带来的个体贡献模糊、科研流水线化与独立复现高昂等治理挑战。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
@@ -295,6 +296,7 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 系统梳理冷战时期学术界咨询精英如何通过 COSPUP《基础研究与国家目标》区分大科学与小科学，确立大学小科学 15% 增长基准以化解政治质疑并保障基础研究（pp. 37–38）。
 > - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 探讨学术爆发期与创造力机会构型规律在常规学科（经济学、生物学、地质学）的稳健性，并指出其在数千人跨国协作的物理大科学实验等极端领域的泛化边界。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》综述中系统评述团队规模膨胀与现代大科学协作，以 CERN LHC 极端工程协作剖析大科学设施攻关优势及信用分配与复现治理难题。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 确立大科学团队发展、小团队颠覆法则（Unit 05），并揭示大科学文献指数扩张与博士过度生产伴随的教职滞后断层（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07, pp. 161–172]]）。

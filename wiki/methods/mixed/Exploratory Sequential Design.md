@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-04
 ---
 
 ---
@@ -157,6 +157,6 @@ updated: 2026-10-29
 
 ---
 
-## 9. 来源
-
-- [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释探索性序列混合方法设计的核心逻辑、阶段转化规程与量化工具情境适切性价值。
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 先对 14 位取得突破性原始创新成果的基础研究青年学者开展半结构化访谈提炼关键张力与影响因素，再面向全国 4,569 名青年学者开展大样本问卷调查完成实证检验。
