@@ -73,29 +73,25 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
-
-## 定义
-
-在教育[[Experimental Research|实验研究]]、课程评估与政策试验中，“常态教学”（Business as Usual, BAU），亦称常规教学实践或照常教学，指对照组学校、教师与学生在未接受特定实验性干预方案时所维持的既有课程进度、教学常规与专业支持状态。
 
 > [!def] Business as Usual
-> 常态教学是构建[[Counterfactual\|反事实]][[Causality\|因果推断]]的核心基线，干预组在此基线之上取得的相对增益被界定为净[[Effect Size\|效应量]]。与医学[[Clinical Trial\|临床试验]]中生理上惰性的安慰剂（Placebo）截然不同，现代学校环境中的常态教学是一个活跃、动态且由具备专业素养的教师日常推进的坚实基线（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。在宏观课程改革与教学法实验中，常态教学往往是由经验丰富的教师实施其操练多年的传统[[Direct Instruction\|直接教学]]，且学生对这一教学流程已高度适应；因此，超越或打平这一高度熟练的常态基准，构成了衡量新型教学法真实有效性的高标准实证检验（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）。
+> **常态教学（Business as Usual, BAU）**，亦称常规教学实践或照常教学，指在教育[[Experimental Research|实验研究]]、课程评估与政策试验中，对照组学校、教师与学生在未接受特定实验性干预方案时所维持的既有课程进度、教学常规与专业支持状态。常态教学是构建[[Counterfactual|反事实]][[Causality|因果推断]]的核心基线，干预组在此基线之上取得的相对增益被界定为净[[Effect Size|效应量]]。与医学[[Clinical Trial|临床试验]]中生理上惰性的安慰剂（Placebo）截然不同，现代学校环境中的常态教学是一个活跃、动态且由具备专业素养的教师日常推进的坚实基线（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 56–57]]）。在宏观课程改革与教学法实验中，常态教学往往是由经验丰富的教师实施其操练多年的传统[[Direct Instruction|直接教学]]，且学生对这一教学流程已高度适应；因此，超越或打平这一高度熟练的常态基准，构成了衡量新型教学法真实有效性的高标准实证检验（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 6]]）。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 常态教学指向教育现场试验中对照组所处的情境生态与活动全貌，它是学校现存成熟的教学常规、校本资源与师生交互，有别于“零教学”。
 > - **用途** 迫使研究者将干预效应置于基准对照线中客观评估，避免因脱离真实学校基线而将微弱正效应过度神化，同时为[[Implementation and Process Evaluation\|实施与过程评估]]提供基线监测靶标。
 > - **边界** 常态教学不等于“缺乏教育支持的教学真空”；亦非跨校完全均质的统一模式，不同学区与学校的常态教学存在显著的情境[[Heterogeneity\|异质性]]。
 
-> [!citation-card] 埃多瓦尔德与内维尔论常态教学的高基线特征与无效证据的实践价值
+> [!citation-card|notitle] 埃多瓦尔德与内维尔论常态教学的高基线特征与无效证据的实践价值
 > 循证运动不仅要能指出什么有效，更必须明确什么无效，因为耗费在低效做法上的公共资源本可用于更需要的地方。绝大多数流行项目并不显著优于学校正在开展的常态教学（business as usual），这一信息极具价值；而缺乏干预影响恰恰可能反映了常态教学本身的高质量。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）
 >
 > *In addition, it is essential that the [[What Works Movement]] is not only able to say what does work but also what does not, as resources spent on ineffective practices could be better used elsewhere. The message that few popular programs available to schools are better than what schools are already doing (business as usual) is useful. What is even more valuable is to reflect on why only a few programs generate positive effects... as the lack of intervention impacts may reflect high-quality teaching practice.*
 
-> [!citation-card] [[Ton de Jong\|德容]]等论真实学校常态直接讲授的深厚熟练基线
+> [!citation-card|notitle] [[Ton de Jong|德容]]等论真实学校常态直接讲授的深厚熟练基线
 > 直接教学倡导者批评宏观课程实验缺乏干净的实验室对照组且存在教师培训等额外混杂[[Variable\|变量]]。然而，在真实学校常态教学（Business as Usual）中，对照组教师实施传统直接讲授多年、经验丰富，学生对传统讲授规程亦已高度适应；因此，在真实学校环境中探究课程若能打平或击败这一深厚熟练的常态对照基线，其循证效力与[[Ecological Validity\|生态效度]]更为坚实。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）
 >
 > *Critics argued that curriculum projects lacked clean laboratory control groups... However, in business as usual conditions, control teachers have practiced traditional direct instruction for years and are highly experienced, and students are thoroughly adapted to it. Demonstrating advantages over this entrenched baseline provides a rigorous test of efficacy.*
@@ -108,24 +104,16 @@ updated: 2026-11-03
 
 ---
 
-## 概念辨析
-
-通过对比不同研究传统与[[Experimental Research|实验设计]]中的对照条件，可以清晰界定常态教学的[[Epistemology|认识论]]定位与方法论特征。
-
-> [!contrast-table] 常态教学与邻近对照概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念：常态教学（Business as Usual, BAU） | 医学安慰剂（Placebo） | 替代性积极干预（Active Alternative） | 实验室受控对照（Lab Control） |
 > |---|---|---|---|---|
-> | **对照性质** | 真实活跃的常规专业实践与日常教学生态 | 生理与认知无活性的惰性对照剂 | 接受另一种明确命名的竞争性教改方案 | 严格剔除目标[[Variable\|变量]]的人为简化任务 |
+> | **对照性质** | 真实活跃的常规专业实践与日常教学生态 | 生理与认知无活性的惰性对照剂 | 接受另一种明确命名的竞争性教改方案 | 严格剔除目标[[Variable|变量]]的人为简化任务 |
 > | **基线水准** | 具备成熟经验与校本资源的高专业基准 | 理论上的绝对零效应基线 | 已知效能的标准化教法或旧版方案 | 人为冻结外部输入的基线状态 |
-> | **[[Ecological Validity\|生态效度]]** | **极高**（直接根植于日常真实课堂） | 低（教育场景中无法设立无感知假教学） | 中至高（取决于新方案在真实学校的适配度） | 极低（脱离学校组织、学期时间与师资脉络） |
-> | **偏倚风险** | 对照组竞品污染、补偿性竞争与黑箱不可知 | 破盲效应、受试者依从性脱落 | 两组干预组分混淆、[[Implementation Fidelity\|实施保真度]]不均衡 | 实验情境过于狭隘导致不可推广 |
-> | **过程监测** | **必须开展[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）详实记录** | 仅需确保双盲操作无破损 | 需对两组干预分别开展保真度监控 | 严格实验室仪器监控与标准化记录 |
+> | **[[Ecological Validity|生态效度]]** | **极高**（直接根植于日常真实课堂） | 低（教育场景中无法设立无感知假教学） | 中至高（取决于新方案在真实学校的适配度） | 极低（脱离学校组织、学期时间与师资脉络） |
+> | **偏倚风险** | 对照组竞品污染、补偿性竞争与黑箱不可知 | 破盲效应、受试者依从性脱落 | 两组干预组分混淆、[[Implementation Fidelity|实施保真度]]不均衡 | 实验情境过于狭隘导致不可推广 |
+> | **过程监测** | **必须开展[[Implementation and Process Evaluation|实施与过程评估]]（IPE）详实记录** | 仅需确保双盲操作无破损 | 需对两组干预分别开展保真度监控 | 严格实验室仪器监控与标准化记录 |
 
 ---
-
-## 核心要素
-
-常态教学在循证[[Experimental Research|实验设计]]中包含了基线高度、[[Counterfactual|反事实]]透明度、教法惯性与组织生态等多重理论要素。
 
 > [!feature] 核心要素
 > - **动态高基线属性** 公立学校的常态教学是包含了受过专业师范培训教师的日常讲授、校本教研、课后答疑与国家统考准备（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]），有别于落后低效的真空。任何外部干预必须在这一高起点基线上展示增量增益。
@@ -161,10 +149,6 @@ updated: 2026-11-03
 >     F -.-> G
 >     G --> H
 > ```
-
----
-
-围绕常态教学的[[Epistemology|认识论]]基线地位、试验透明度治理规范以及在真实课程实验中的[[Ecological Validity|生态效度]]，学界确立了三项系统性理论命题。
 
 ---
 
@@ -207,10 +191,6 @@ updated: 2026-11-03
 
 ---
 
-## 概念演变
-
-常态教学从实证设计中的技术性默认术语，演化为[[Evidence-Based Education|循证教育]]学中反思[[Causality|因果推断]]效度与公共治理价值的核心概念。
-
 > [!dev-timeline] 概念演变
 > - **2002 — 因果评估默认对照条件的制度化确立** 随着美国《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与[[Institute of Education Sciences\|教育科学研究院]]（IES）的成立，常态教学被正式确立为教育现场因果试验的法定[[Counterfactual\|反事实对照]]基准。
 > - **2016–2017 — 反事实黑箱批判与透明度治理呼吁** 方法论学者对教育试验报告中对照组描述的严重匮乏发起集中批判，强调“未界定的常态教学”构成了因果推断可解释性与[[External Validity\|外部效度]]的系统性威胁。（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p. 113]]）
@@ -220,11 +200,7 @@ updated: 2026-11-03
 
 ---
 
-## 争议与批评
-
-围绕常态教学的基线测量、实验室纯净对照与真实学校[[Ecological Validity|生态效度]]的权衡，学界展开了持续的交锋。
-
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 实验室纯净控制 vs 真实学校生态效度
 > > 争论焦点在于教育评估是否必须追求医学式的实验室纯净控制组。
@@ -238,7 +214,7 @@ updated: 2026-11-03
 > > - **方法论纯粹立场（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）** 坚持所有试验必须详尽汇报对照组每一教学环节、教材投入与课时细节，否则[[Effect Size\|效应量]]毫无实质科学意义。
 > > - **实务评估立场** 认为过度密集的对照组调查会增加基层学校配合负担甚至引发生态干扰，主张通过轻量化[[Questionnaire\|问卷]]与关键指标抽检建立务实的监测机制。
 
-> [!critique] 外部批评
+> [!critique|notitle] 外部批评
 > - **[[Counterfactual\|反事实]]未界定黑箱** 大量早期教育试验仅报告干预组措施，将对照组轻率标注为“常态教学”，使不同研究之间的效应量彻底失去可比性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）。
 > - **忽视对照组补偿性竞争心理** 对照组教师若意识到自己被分配至对照组，可能产生约翰·亨利效应（John Henry effect）或自发借用外部学习资源，从而导致对照基线异常抬高并掩盖真实的干预价值。
 
@@ -287,7 +263,7 @@ updated: 2026-11-03
 
 ---
 
-> [!entry-map] 相关条目
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -302,7 +278,7 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐发常态教学高水准基线假说，论证证明干预无法超越常态教学对保护公共财政与防止商业营销绑架的重要治理价值。
 > - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 深入剖析教育实验中未界定的常态教学黑箱对[[Counterfactual\|反事实]][[Causality\|因果推断]]可解释性与[[External Validity\|外部效度]]的严重损害。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统辩护真实学校宏观课程实验的对照效度，指出常态教学由资深教师熟练实施[[Direct Instruction\|直接讲授]]，超越或打平该基线具备极高[[Ecological Validity\|生态效度]]。

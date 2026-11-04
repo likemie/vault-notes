@@ -1216,7 +1216,7 @@ Total entries: **4710**
 > - [[Teaching Students to Be Teachers]] — Visible Learning MetaX 因素学生当小老师的条目，归属学生学习策略 › 学生学习观；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teaching Test Taking and Coaching]] — Visible Learning MetaX 因素应试技巧训练的条目，归属学生学习策略 › 学习策略；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Text Generation]] — Visible Learning MetaX 因素文本生成的条目，归属学生学习策略 › 学习策略；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Time Management]] — Visible Learning MetaX 因素时间管理的条目，归属学生学习策略 › 学习策略；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Time Management]] — 个体对有限时间资源进行有意识规划、分配、保护与监控的认知与自我调节过程；在学习科学中作为自主学习的核心策略，元分析证实对学业成就有稳健促进效应（d = 0.47）；在科研劳动中表现为保障深度探索与应对教学行政多重角色撕扯的结构性张力。
 > - [[Transfer Strategies]] — Visible Learning MetaX 因素迁移策略的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Turn-Taking Equality]] — 在组织沟通与群体动力学中，指团队互动会话中成员发言频次与时间分布的均等程度（以会话轮换的方差测度）。实证研究表明，发言均等度高的团队能有效抑制单兵权威垄断，促进多元观点充分汇聚，是预测团队集体智慧卓越表现的关键行为互动指标。
 > - [[Tutoring Interventions]] — Visible Learning MetaX 因素一对一辅导、辅导的条目，归属学生学习策略 › 学生导向干预；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

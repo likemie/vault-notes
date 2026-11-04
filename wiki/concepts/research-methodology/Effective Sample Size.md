@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 ---
@@ -63,12 +63,12 @@ updated: 2026-11-03
 > [!def] Effective Sample Size
 > **有效[[Sample Size Determination\|样本量]]（Effective Sample Size，ESS）** 指在复杂抽样设计、多层嵌套模型或整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster-Randomised Controlled Trials）中，扣除由聚集性（Clustering）和[[Intraclass Correlation Coefficient\|群内相关系数]]（Intra-Cluster Correlation Coefficient，ICC）所引起的方差膨胀与设计效应（Design Effect，Deff）后，样本在统计学上实际等价于“独立同分布[[Random Sampling\|简单随机抽样]]（Simple Random Sampling）”的观测单位数量。它直接决定了统计检验力（Statistical Power）与参数估计的精度（即[[Confidence Interval\|置信区间]]宽度）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 这个概念指向复杂研究设计中“表面观察人头数（名义样本量）”与“实际独立统计信息量（有效样本量）”之间的本质落差，揭示了同校同班学生相似性对[[Causality\|因果推断]]功效的内在稀释。
 > - **用途** 帮助[[Evaluation Research\|评估研究]]者在规划整群试验时穿透名义规模假象，精确计算达成预设检验力（如 80% 功效检测最小可测[[Effect Size\|效应量]] MDES）所需的最少学校数量（集群数）与每校学生数。
 > - **边界** 它解决的是样本量对估计精度与假阴性错误（[[Type I and Type II Errors\|Type II error]]）的控制能力，无法自动消除由选择性流失、混淆[[Variable\|变量]]或测量偏倚带来的[[Internal Validity\|内部效度]]系统性偏差。
 
-> [!citation-card] 试验样本规模演进与信息量积累
+> [!citation-card|notitle] 试验样本规模演进与信息量积累
 > “对英格兰[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与美国[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（NCEE）资助的 141 项 RCT 进行的重新分析显示，多数试验效应量微弱（均值 0.06 个标准差）且置信区间过宽（均值宽度 0.30 个标准差），据此得出这些试验缺乏信息量的结论；然而这忽视了试验质量的动态演进。有效性运动的基本前提是不仅持续探究‘何为有效’，更要不断探究‘如何更好地研究何为有效’。一个明证是：EEF 试验的有效样本量随着时间推移持续大幅攀升（与早期试验相比，2014 年后的有效样本量几乎翻番），这意味着 EEF 资助的试验正在变得越来越具备实质信息量。”[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 >
 > *"A fundamental premise of the [[What Works Movement]] is to keep learning not just about what works but also about how to best research what works. A good example of this is that the effective sample size of EEF trials over time has risen over time (and almost doubled in 2014 when compared to earlier trials), meaning that EEF trials have become progressively more informative (Sanders, 2019)."*
@@ -79,7 +79,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 统计样本概念横向对比
+> [!contrast-table|notitle] 统计样本概念横向对比
 > | 维度 | 有效[[Sample Size Determination\|样本量]]（Effective Sample Size） | 名义样本量（Nominal Sample Size） | 最小可测[[Effect Size\|效应量]]（MDES） |
 > |---|---|---|---|
 > | **核心含义** | 考虑多层相关性后等效于[[Random Sampling\|简单随机抽样]]的独立信息量 | 试验中实际招募并测量的总受试者人数 | 在既定功效与显著性水平下能可靠检出的最小效应门槛 |
@@ -150,7 +150,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] [[Confidence Interval\|置信区间]]宽度与教育试验的“信息量”标准之争
 > > 学界围绕如何判定大规模整群教育试验的学术价值存在尖锐分歧。
@@ -175,6 +175,20 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Sample Size Determination]] | 方法 | 有效样本量是整群与复杂设计下样本量确定的核心校正标准。 |
+> | [[Intraclass Correlation Coefficient]] | 方法 | 群内相关系数是计算设计效应并折损有效样本量的数理关键参数。 |
+> | [[Cluster Randomized Trials]] | 方法 | 整群随机试验是有效样本量概念最核心的应用场景。 |
+> | [[Random Sampling]] | 方法 | 有效样本量在数学上等价于简单随机抽样下的独立观测单位数。 |
+> | [[Confidence Interval]] | 方法 | 有效样本量直接决定参数估计标准误与置信区间的收窄幅度。 |
+> | [[Business as Usual]] | 概念 | 有效样本量扩张支撑试验以足够统计精度辨别干预是否优于常态教学。 |
+> | [[Education Endowment Foundation]] | 事实 | 英国 EEF 通过跨校网络动员系统性倍增试验有效样本量，提升循证推断精度。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详尽记录了面对学界对 141 项英美教育 [[Randomised Controlled Trials\|RCT]] 效应微弱且[[Confidence Interval\|置信区间]]过宽（0.30 SD）的批评，[[Education Endowment Foundation\|EEF]] 如何通过系统化制度动员将 2014 年后的试验有效[[Sample Size Determination\|样本量]]翻番，使大规模试验逐步演变为能够高精度识别真实微弱效应的决策支持工具。
 

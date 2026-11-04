@@ -1114,7 +1114,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Time Management.md"
+      ],
       "title": "Does time management work? A meta-analysis."
     },
     "Against Learning, 2004": {
@@ -34693,7 +34695,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Time Management.md"
+      ],
       "title": "LASSI's great adventure: A meta-analysis of the Learning and Study Strategies Inventory and academic outcomes"
     },
     "Fong et al., 2021a": {
