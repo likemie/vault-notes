@@ -523,6 +523,10 @@
     {
       "sentence": "tension] 机构职责分歧：教科文组织的综合教育观 vs 世行与儿童基金会的初等优先偏向",
       "target": "wiki/concepts/comparative-education/Comprehensive Education.md"
+    },
+    {
+      "sentence": "They take insufficient account of the factors that have really secured and sustained school enrolment over time: Raising school enrolment, like economic development in general, takes a long time.",
+      "target": "wiki/methods/qualitative/Accounts.md"
     }
   ]
 }

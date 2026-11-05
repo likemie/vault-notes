@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-15
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 
 ---
@@ -217,6 +217,7 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_King_2007_CE|King (2007)]] — 引证克莱门斯实证发现指出，相较于短期政策干预，父母受教育水平的代际演化与宏观经济条件在更大程度上决定了儿童入学率的长时段增长（p. 387）。
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 验证受教育水平对个体认识论发展阶段的预测效度，确认教育年限越高，个体越倾向于表现出成熟的批判理性认知信念。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 揭示拉美等外围国家在各受教育层级扩张上的倒金字塔式畸变，批判高阶教育过度供给作为政治补偿而牺牲基础大众初等识字的制度实质。
 > - [[Argument_Zhang_Zhao_2026_EDR|张娟, 赵祥辉 (2026)]] — 基于 1901—2025 年 757 位诺贝尔奖得主履历大数据，揭示顶尖人才受教育年限百年间稳步延长至 9.18 年且集中于研究生阶段的客观规律，破除早熟跳级迷信。

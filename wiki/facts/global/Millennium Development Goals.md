@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 0
+fact_related_count: 1
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,11 +28,12 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_King_2007_CE]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 ---
@@ -136,3 +137,8 @@ updated: 2026-11-05
 > | [[UNESCO]] | 组织事实 | 维护达喀尔六大目标及包容性基础教育范畴的联合国教育专业专门机构。 |
 > | [[OECD]] | 组织事实 | 其下属开发援助委员会于 1996 年提出国际开发目标（IDTs），奠定 MDGs 指标框架。 |
 > | [[Kenneth King]] | 人物 | 系统解构多边机构在 MDGs 议程构建与转译中窄化教育生态的英国比较教育学者。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2007_CE|King (2007)]] — 考证多边机构在建立千年发展目标中将达喀尔六项目标压缩为两项初等指标的过程，揭示指标化治理对受援国教育生态的扭曲（pp. 377–389）。
