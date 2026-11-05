@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md"
     },
     {
+      "basename": "Scientific Creativity",
+      "path": "wiki/concepts/science-policy/Scientific Creativity.md"
+    },
+    {
       "basename": "Argument_Azoulay_2011_RJE",
       "path": "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Argument_Sinatra_2016_Science",
       "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
-    },
-    {
-      "basename": "Scientific Creativity",
-      "path": "wiki/concepts/science-policy/Scientific Creativity.md"
     },
     {
       "basename": "Academic Precarity",
