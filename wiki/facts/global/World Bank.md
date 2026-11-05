@@ -160,7 +160,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 ---
@@ -399,6 +399,11 @@ updated: 2026-11-02
 >
 > *World Bank funding exerts little influence on social policy... High concentrations of World Bank funding have virtually no impact on the share of educational resources devoted to primary education... Although the World Bank has the financial resources and the technocratic allies to buttress the transmission of its ideas, bureaucratic and political forces often get in the way... In the final analysis, the World Bank can pressure but cannot force the Brazilian government to adopt its recommendations... Domestic political forces prevail over international technocratical linkages when it comes to redistributive social polity making.*
 
+> [!citation-card] 世界银行教育自主政策研究的独立宣言
+> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育[[Document|文献]]与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, p. 542]])
+>
+> *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
+
 ---
 
 > [!entry-map] 相关条目网络
@@ -437,6 +442,7 @@ updated: 2026-11-02
 > | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 世界银行联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
 > | [[Policy Ambassador]] | 概念 | 主导南方本土减贫与教育创新并进入世行等机构推动全球议程设置的跨国政策使者。 |
 > | [[South-South Cooperation]] | 概念 | 世行在多边技术援助与[[Triangular Cooperation\|三方合作]]中逐步吸纳的南方[[Mutual Learning\|互学互鉴]]合作模式。 |
+> | [[Kenneth King]] | 人物 | 考证世界银行推动初等教育指标偏向、减贫战略文件与快速通道倡议历史演进的比较教育学者。 |
 
 ---
 
@@ -452,3 +458,4 @@ updated: 2026-11-02
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育[[Epistemic Governance|认知治理]]中枢的三维机制。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。
+> - [[Argument_King_2007_CE|King (2007)]] — 考证世界银行在宗滴恩大会、减贫战略与快速通道倡议中将教育窄化为初等指标的历史脉络。

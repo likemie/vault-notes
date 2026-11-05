@@ -527,6 +527,10 @@
     {
       "sentence": "They take insufficient account of the factors that have really secured and sustained school enrolment over time: Raising school enrolment, like economic development in general, takes a long time.",
       "target": "wiki/methods/qualitative/Accounts.md"
+    },
+    {
+      "sentence": "**原初建议性质** 宗滴恩行动框架第 8 段使用了审慎的建议性措辞，指出各国可以根据所提建议维度设定自身在 1990 年代的发展目标（Countries may wish to set their own targets for the 1990s in terms of the following proposed dimensions...），保持了本土弹性的建议维度（proposed dimensions）。",
+      "target": "wiki/facts/global/Dimensions.md"
     }
   ]
 }
