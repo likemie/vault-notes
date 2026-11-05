@@ -89,7 +89,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 
 ---
@@ -229,6 +229,7 @@ updated: 2026-11-03
 > |---|---|---|---|---|---|---|
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 新西兰官方财务档案与第三方支付明细（2011–2015） | 机构财务审计核查 | 认知教育公司支付给学者[[John Hattie\|哈蒂]]的劳务报酬 | 5 年间累计支付第三方报酬达 \$869,453 NZD；考文出版社年营收估算达 \$50,000,000 USD | 档案财务实录 | 揭示了学术声誉转化为商业垄断资本的收益链条，确立学者与商业利益的深度捆绑 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Glass and Smith (1979) 班级规模实验[[Meta-analysis\|元分析]]原图 | 图表曲线复核与数据回溯 | 40 人大班与 1 人个别辅导的[[Academic Achievement\|学业成就]]差距 | 控制良好的[[Experimental Research\|实验研究]]中，班级从 40 人缩减至 1 人，学生成绩百分位提升超过 30 个百分位点 | $d=0.09$ 纯属断章取义 | 澄清了班额有效性的真实证据，揭露了 GERM 文献对原始经典文献的片面剪裁 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰 1965–2012 跨周期标准化国际测验微观数据与应征士兵智力数据 | 长周期历史趋势分析与微观计量文献综合 | 外部问责、学校竞争、标准化统考与自主权在学业表现中的真实效应 | 计量文献显示自由学校竞争提升 PISA 均分，问责制强化课时效益；芬兰学业跃升始于集权督导与统考校准时期，在 1990 年代去问责分权后出现滑坡 | 历史时序微观校准与微观计量证据综合 | 经验反驳了反 GERM 政策（去问责、去测试、完全自主）促成教育卓越的流行主张 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252–260)]] | 全球 158 篇涵盖经合组织与拉美中等收入国家的教育治理改革文献 | [[Systematic Review\|系统文献综述]]与国别分析表提取 | GERM 核心工具包（标准、外部统考与问责制）在不同行政传统下的采纳动力与制度化轨迹 | 证实全球同质化趋同并未出现，GERM 政策工具在不同行政传统下分化为市场化制裁、[[Neo-Weberian State\|新韦伯主义]]诊断基准与拿破仑科层拉锯三大异质轨迹；外包测评产业形成制度锁定 | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析，无元分析统计合并 | 依托英文核心数据库索引文献，对非英语国家边缘实践覆盖有限 |
 
 ---
@@ -268,6 +269,7 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合微观标准化测试与历史制度分析，经验反驳 GERM 政策有害学业成就的断言，证实芬兰学业飞跃始于集权问责体制而衰退于反 GERM 改革（pp. 7–17）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合[[Historical Institutionalism|历史制度主义]]与[[Policy Instrumentation Theory|政策工具社会学]]，通过 158 篇文献的[[Systematic Review|系统综述]]解构 GERM 政策工具包在全球三大行政传统下的中介调节与分化轨迹。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合新西兰公共教育市场化改制、企业财报与词频统计，系统解构了《[[Visible Learning|可见的学习]]》如何充当 GERM 的政治经济工具与财政紧缩挡箭牌（pp. 23–41）。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何作为 GERM 的核心驱动力运作，揭示了 PISA 在宏观、中观与微观三层决策上推动 GERM 全球扩散的具体机制和国别案例。

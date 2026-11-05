@@ -7,6 +7,11 @@ aliases:
   - 基础学习需要
 summary: "1990年《世界全民教育宣言》（宗滴恩宣言）确立的核心理念与奠基构念。由读写算与问题解决等基础学习工具，以及知识、技能、价值观与态度等基本学习内容构成，旨在赋予个体生存、全面发展与终身学习的潜能，区别于将受教育权窄化为正规小学学龄在册率的技术官僚取向。"
 type: concept
+domain: "comparative-education"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept
   - field/comparative-education

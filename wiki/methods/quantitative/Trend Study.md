@@ -56,7 +56,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-30
+updated: 2026-11-06
 ---
 
 ---
@@ -141,4 +141,5 @@ updated: 2026-10-30
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统界定趋势研究的定义、核心特征（规避预试敏感化、滚动样本设计）、优势局限以及与队列研究和面板研究的方法学对比。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 整合国际测验微观标准化数据库与数十万应征士兵智力数据，长周期追踪芬兰半个世纪以来学业成就的上升与滑坡趋势。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 运用趋势计量分析检索 Scopus 跨学科引文数据库与[[World Bank|世行]]出版物库，长时段追踪世界银行 1977–2013 年间教育学术产出与引文影响力的演化轨迹（pp. 6–7）。

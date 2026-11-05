@@ -72,14 +72,14 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 1990 至 2006 年间全球教育发展议程是如何被一步步建构起来的？多边援助机构在这一议程的设计、指标选择与跨国监测体系中发挥了何种主导作用？国际援助界高调宣称的国家自主拥有（country ownership）在多大程度上反映了南方发展中国家的真实需求与制度意志？
+> 1990 至 2006 年间全球教育发展议程是如何被一步步建构起来的？多边援助机构在这一议程的设计、指标选择与跨国监测体系中发挥了何种主导作用？国际援助界高调宣称的[[Country Ownership|国家自主拥有]]（country ownership）在多大程度上反映了南方发展中国家的真实需求与制度意志？
 
 > [!claim] 核心主张
 > 全球教育发展议程本质上是由少数北方主导的多边机构在闭门协商中建构的技术官僚产物；在政策转译与指标化过程中，原本具有包容性的基础教育愿景被系统性窄化为易测量的初等教育普及与性别均等指标，脱离了南方国家赖以维系的经济增长与生产能力基础，并借由庞大的外部监测官僚体制施加于受援国，导致国家自主拥有修辞与外部强加现实之间产生深刻分裂。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1990 年宗滴恩世界[[Education for All|全民教育]]大会、1996 年[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）下属发展援助委员会（Development Assistance Committee, DAC）《塑造21世纪》报告、2000 年达喀尔世界教育论坛以及 2000 年联合国千年峰会的政策文本、起草档案、官员书信与监测体制。
-> - **张力** 多边援助机构宣称的伙伴关系与国家自主拥有修辞，与南方受援国在议程确立中的实际缺席、完整教育体系被指标割裂以及被动接受外部监测之间的制度性张力。
+> - **对象** 1990 年宗滴恩世界[[Education for All|全民教育]]大会、1996 年[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）下属[[Development Assistance Committee|发展援助委员会]]（Development Assistance Committee, DAC）《塑造21世纪》报告、2000 年达喀尔世界教育论坛以及 2000 年联合国千年峰会的政策文本、起草档案、官员书信与监测体制。
+> - **张力** 多边援助机构宣称的伙伴关系与[[Country Ownership|国家自主拥有]]修辞，与南方受援国在议程确立中的实际缺席、完整教育体系被指标割裂以及被动接受外部监测之间的制度性张力。
 > - **贡献** 突破将[[Education for All|全民教育]]（Education for All, EFA）与[[Millennium Development Goals|千年发展目标]]（Millennium Development Goals, MDGs）视作自发普世共识的非历史化叙事，揭示多边官僚在指标转译中的[[Discourse|话语]]权力与简化机制，阐明社会发展指标脱离生产性经济基础与整体教育生态的结构性缺陷。
 
 ---
@@ -99,13 +99,13 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **材料分析／政策文献分析**<br>[[Documentary Analysis\|文献分析法]] | 细致梳理 1990 至 2006 年间四份里程碑式国际文件的原始草案、终版文本与配套框架，考证核心术语出现的频次与语义流变。 |
-> | **历史追溯／机构内部通信考证** | 结合与宗滴恩大会执行秘书沃迪·哈达德（Wadi Haddad）、经合组织国际开发目标（International Development Targets, IDTs）起草关键亲历者理查德·乔利（Richard Jolly）等高阶官员的书信往来与访谈记录，还原密室磋商与文本妥协过程。 |
+> | **历史追溯／机构内部通信考证** | 结合与宗滴恩大会执行秘书[[Wadi Haddad|沃迪·哈达德]]（Wadi Haddad）、经合组织[[International Development Targets|国际开发目标]]（International Development Targets, IDTs）起草关键亲历者[[Richard Jolly|理查德·乔利]]（Richard Jolly）等高阶官员的书信往来与访谈记录，还原密室磋商与文本妥协过程。 |
 > | **批判解构／多边监测架构分析** | 检视联合国开发计划署（United Nations Development Programme, UNDP）国别报告网络、千年项目专家组报告以及《[[Global Education Monitoring Report\|全球教育监测报告]]》（Global Education Monitoring Report, GEMR）的运行逻辑与运作假设。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | 1990 年《世界全民教育宣言》及行动框架、1996 年经合组织 DAC《塑造21世纪》报告、2000 年《达喀尔行动纲领》、2000 年《联合国千年宣言》、联合国千年项目 2005 年报告、2006 年全民教育全球监测报告以及英国国际发展部（Department for International Development, DFID）与日本外务省官方白皮书。 |
+> | **文本样本** | 1990 年[[World Declaration on Education for All|《世界全民教育宣言》]]及行动框架、1996 年经合组织 DAC《塑造21世纪》报告、2000 年[[Dakar Framework for Action|《达喀尔行动纲领》]]、2000 年《联合国千年宣言》、联合国千年项目 2005 年报告、2006 年全民教育全球监测报告以及英国国际发展部（Department for International Development, DFID）与日本外务省官方白皮书。 |
 > | **历史证言** | 国际指导委员会档案记录、理查德·乔利关于经合组织 DAC 与联合国开发计划署起草内幕的书信证言、沃迪·哈达德关于单一全球目标历史误判的口述记录。 |
 > | **材料情境** | 覆盖 1990 年冷战结束至 2006 年千年发展目标中期审查长达 16 年的国际发展合作全过程。 |
 
@@ -141,7 +141,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 宗滴恩宣言有意用满足基本学习需求取代传统学段划分
 
 > [!case] 宗滴恩文本对基础教育范畴的界定与传统学段排除
-> 宗滴恩会议由联合国开发计划署（UNDP）、[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[UNICEF|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）与[[World Bank|世界银行]]（World Bank）四大机构联合发起。文本统计表明，初等教育（primary education）在《宣言》及《行动框架》全篇 37 页中仅出现 10 次，而基础教育（basic education）出现 76 次，基本学习需求（basic learning needs）出现 47 次，全民教育（education for all）出现 22 次。中等教育、职业技术教育与高等教育等传统学段被有意排除，高等教育在整部[[Document|文献]]中仅提及一次。基础教育被界定为一个高度包容的概念，涵盖早期儿童保育、初等教育、成人识字、青年与成人实用技能，以及通过大众传媒获取生活知识六个向度。
+> 宗滴恩会议由联合国开发计划署（UNDP）、[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[UNICEF|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）与[[World Bank|世界银行]]（World Bank）四大机构联合发起。文本统计表明，初等教育（primary education）在《宣言》及《行动框架》全篇 37 页中仅出现 10 次，而基础教育（basic education）出现 76 次，[[Basic Learning Needs|基本学习需求]]（basic learning needs）出现 47 次，全民教育（education for all）出现 22 次。中等教育、职业技术教育与高等教育等传统学段被有意排除，高等教育在整部[[Document|文献]]中仅提及一次。基础教育被界定为一个高度包容的概念，涵盖早期儿童保育、初等教育、成人识字、青年与成人实用技能，以及通过大众传媒获取生活知识六个向度。
 
 > [!tension] 机构职责分歧：教科文组织的[[Comprehensive Education|综合教育]]观 vs 世行与儿童基金会的初等优先偏向
 > 围绕宗滴恩大会的资金投向与战略重点，四大发起机构之间存在深刻的路线分歧。
@@ -168,7 +168,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 经合组织发展援助委员会在南方受援国缺席下闭门制定国际开发目标
 
 > [!case] 国际开发目标的密室起草与闭门协商档案
-> 1996 年 5 月经合组织 DAC 在巴黎召开第 34 届高级别会议，正式通过题为《塑造21世纪：发展合作的贡献》的报告，旨在综合 1990 年代前七次联合国世界首脑会议的共识。档案证据显示，该报告的形成源于当时最大的双边捐助国日本的推动。由于 DAC 内部 1995 年草拟的报告文本空泛乏力，日本代表团非正式地求助于联合国开发计划署人类发展报告办公室的萨基子·福田-帕尔（Sakiko Fukuda-Parr）与塞利姆·贾汉（Selim Jahan），由后者草拟出包含具体量化目标的文本，再由日本转呈 DAC 最终通过。在巴黎通过该报告的高级别会议上，没有任何发展中国家代表在场。这套决定全球未来 20 年发展优先级的国际开发目标（IDTs），纯属北方捐助国内部协商的产物。
+> 1996 年 5 月经合组织 [[Development Assistance Committee|DAC]] 在巴黎召开第 34 届高级别会议，正式通过题为《塑造21世纪：发展合作的贡献》的报告，旨在综合 1990 年代前七次联合国世界首脑会议的共识。档案证据显示，该报告的形成源于当时最大的双边捐助国日本的推动。由于 DAC 内部 1995 年草拟的报告文本空泛乏力，日本代表团非正式地求助于联合国开发计划署人类发展报告办公室的萨基子·福田-帕尔（Sakiko Fukuda-Parr）与塞利姆·贾汉（Selim Jahan），由后者草拟出包含具体量化目标的文本，再由日本转呈 DAC 最终通过。在巴黎通过该报告的高级别会议上，没有任何发展中国家代表在场。这套决定全球未来 20 年发展优先级的[[International Development Targets|国际开发目标]]（IDTs），纯属北方捐助国内部协商的产物。
 
 > [!sub-claim] 2. 国际开发目标将教育内涵压缩为初等入学数量并设立了倒挂的时间表
 
@@ -232,15 +232,15 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤四　跨国监测网络以国家拥有为修辞掩盖了受援国的被动从属现实
+> [!claim|step] 论证步骤四　跨国监测网络以[[Country Ownership|国家自主拥有]]为修辞掩盖了受援国的被动从属现实
 > 建立在 MDGs 与达喀尔目标之上的庞大监测官僚体系，促成了对全球南方受援国的密集评估，导致受援国被动遵从外部规训，扭曲了本土教育部门的整体规划。
 
-> [!sub-claim] 1. 跨国监测体系以自主拥有为名将发展中国家置于被动考核地位
+> [!sub-claim] 1. 跨国监测体系以[[Country Ownership|国家自主拥有]]为名将发展中国家置于被动考核地位
 
 > [!critique] 跨国监测超结构与受援国被动受检现实
 > MDGs 确立后，国际援助界迅速搭建起庞大的跟踪与评估网络。联合国开发计划署在全球设立国别联合监测机构，联合国教科文组织设立了具有独立编辑权的《全球教育监测报告》，联合国千年项目设立了多项专家工作组。这套庞大的监测机器运作的前提，是假定所有被监测的目标得到了发展中国家的真实拥有。然而在实践中，许多发展中国家参与这些评估更接近于被动接受联合国开发计划署和教科文组织专家团队的既定程序。
 
-> [!factors] 决定学校入学率长期演化的核心因素（Clemens, 2004）
+> [!factors] 决定学校入学率长期演化的核心因素（[[Michael Clemens|Clemens]], 2004）
 > - **宏观经济增长基础** 持续的经济增长与家庭收入提升构成支撑儿童长期入学的物质前提。
 > - **代际[[Cultural Capital|文化资本]]积累** 父母[[Educational Level|受教育水平]]的缓慢提高对子女在学留存率具有决定性影响，其演变速度受制于历史周期。
 > - **短期政策干预局限** 外部援助机构短期设定的政策补贴与宣誓性时间表，在脱离社会经济基础时往往成效有限且容易反弹。
@@ -280,7 +280,7 @@ issuing_organization: ""
 > *Despite the pervasive rhetoric in the Report about developing countries driving the action, and about external aid only being a complement to country action, it is clearly from this particular Report that the new global agenda emerges. As the title of the Report more honestly implies, it was in fact the donors who were 'shaping the twenty-first century'. Indeed, unlike the World Conferences whose conclusions the DAC Report sought to synthesize, the developing countries were not even present at the Thirty-Fourth High Level Meeting of the Development Assistance Committee of 6–7 May 1996 which formally adopted Shaping the 21st Century on their behalf. The world's IDTs were thus agreed in Paris.*
 
 > [!citation-card] 历史视角下教育指标设定期限的不可持续性
-> 迈克尔·克莱门斯（Michael Clemens）通过从历史视角考察国际教育目标指出，频繁设定与重置目标所伴随的狭隘短期时间跨度适得其反。这些目标忽视了长时段内真正保障和维持学校入学率的根本因素。提高入学率与整体经济发展一样需要漫长的历史进程。海量经验证据表明，相较于具体的教育政策干预，宏观经济条件以及父母受教育水平的缓慢演进在更大程度上决定了儿童的入学状况。
+> [[Michael Clemens|迈克尔·克莱门斯]]（Michael Clemens）通过从历史视角考察国际教育目标指出，频繁设定与重置目标所伴随的狭隘短期时间跨度适得其反。这些目标忽视了长时段内真正保障和维持学校入学率的根本因素。提高入学率与整体经济发展一样需要漫长的历史进程。海量经验证据表明，相较于具体的教育政策干预，宏观经济条件以及父母受教育水平的缓慢演进在更大程度上决定了儿童的入学状况。
 >
 > *Michael Clemens, through examining 'international education goals in historical perspective', had affirmed that the short time horizons associated with the constant setting and re-setting of goals were counterproductive. They take insufficient [[Accounts|account]] of the factors that have really secured and sustained school enrolment over time: Raising school enrolment, like economic development in general, takes a long time. This is partly because, as a mountain of empirical evidence now shows, economic conditions and slowly-changing parental education levels determine children's school enrolment to a greater degree than education policy interventions.* (Clemens, 2004, p. 1; cited in p. 387)
 

@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 
 > [!def] Direct Instruction
@@ -313,6 +313,7 @@ updated: 2026-11-03
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写[[Intervention Research\|干预研究]]（非 STEM 领域） | 元分析与[[Critical Review\|批判性综述]]审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | [[PISA\|国际学生评估项目]]（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的[[Interaction Effect\|交互作用]] | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 29–30)]]<br>（审计 Haas, 2005 与 Hattie 数据库） | Haas (2005) 直接教学元分析（19 个效应量，$\text{SD} = 0.59$） | 统计审计与[[Inverse-Variance Weighting\|逆方差加权]]复核 | 二级元分析[[Standard Error\|标准误]]计算与权重分配 | Hattie 伪造标准误 $\text{SE} = 0.135$（$W = 54.9$），真实标准误 $\text{SE} = 0.092$（$W = 118.1$） | 权重被削减 53.5% | 揭示 Hattie 数据处理错误导致直接教学大样本高精度研究在总库中的权重被严重压低 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰基础教育课堂长期观察、TIMSS与PISA历史数据库及国际计量文献 | 历史比较与教学法效应综合审查 | 教师主导直接教学对比学生中心探究教学对认知学业表现的影响 | 证实芬兰在国际测验中的历史高分与教师长期保留高结构直接教学密切相关；1990年代后期转向以学生为中心的探究发现法导致认知成绩系统性下降 | 跨国与跨期历史实证一致 | 提供了宏观国家教育系统因过早放弃直接教学而导致认知绩效滑坡的系统性案例 |
 > | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 六年级学生 | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 即时与延迟测验两组得分高度均等（Equivalence） | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
 
@@ -326,5 +327,6 @@ updated: 2026-11-03
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 比较[[Australian Curriculum\|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 历史实证考证芬兰保留教师主导直接教学对国际测验高分的因果贡献，揭示转向学生中心探究法诱发学业滑坡（pp. 38–48, 58–62）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
 

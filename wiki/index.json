@@ -557,6 +557,17 @@
     ]
   },
   {
+    "title": "Basic Learning Needs",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Basic Learning Needs.md",
+    "aliases": [
+      "基本学习需求",
+      "基本学习需要",
+      "基础学习需求",
+      "基础学习需要"
+    ]
+  },
+  {
     "title": "Circular Transfer",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Circular Transfer.md",
@@ -675,6 +686,18 @@
       "普世主义",
       "Cosmopolitan Education",
       "世界公民主义"
+    ]
+  },
+  {
+    "title": "Country Ownership",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Country Ownership.md",
+    "aliases": [
+      "国家自主拥有",
+      "国家所有权",
+      "受援国自主权",
+      "本土发展战略主导权",
+      "国家自主性"
     ]
   },
   {
@@ -30089,6 +30112,17 @@
     ]
   },
   {
+    "title": "Wadi Haddad",
+    "type": "person",
+    "path": "wiki/persons/global/Wadi Haddad.md",
+    "aliases": [
+      "沃迪·哈达德",
+      "瓦迪·哈达德",
+      "Wadi D. Haddad",
+      "Haddad, W. D."
+    ]
+  },
+  {
     "title": "Aristotle",
     "type": "person",
     "path": "wiki/persons/greece/Aristotle.md",
@@ -31519,6 +31553,17 @@
       "雷米·阿德科亚",
       "Adekoya, R.",
       "阿德科亚"
+    ]
+  },
+  {
+    "title": "Richard Jolly",
+    "type": "person",
+    "path": "wiki/persons/uk/Richard Jolly.md",
+    "aliases": [
+      "理查德·乔利",
+      "阿瑟·理查德·乔利",
+      "Sir Richard Jolly",
+      "Jolly, R."
     ]
   },
   {
@@ -33751,6 +33796,17 @@
       "Max A. Eckstein",
       "马克斯·埃克斯坦",
       "M. A. Eckstein"
+    ]
+  },
+  {
+    "title": "Michael Clemens",
+    "type": "person",
+    "path": "wiki/persons/us/Michael Clemens.md",
+    "aliases": [
+      "迈克尔·克莱门斯",
+      "迈克尔·A·克莱门斯",
+      "Michael A. Clemens",
+      "Clemens, M. A."
     ]
   },
   {
@@ -37203,6 +37259,17 @@
     "subtype": "program"
   },
   {
+    "title": "Fennoman Movement",
+    "type": "fact",
+    "path": "wiki/facts/finland/Fennoman Movement.md",
+    "aliases": [
+      "芬诺曼运动",
+      "芬兰人运动",
+      "Fennomania"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Finnish PISA Miracle",
     "type": "fact",
     "path": "wiki/facts/finland/Finnish PISA Miracle.md",
@@ -37215,6 +37282,18 @@
       "Finnish PISA Success"
     ],
     "subtype": "event"
+  },
+  {
+    "title": "Comprehensive School Reform in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Comprehensive School Reform in Finland.md",
+    "aliases": [
+      "芬兰综合学校改革",
+      "芬兰基础教育综合化改革",
+      "Peruskoulu Reform",
+      "Finnish Comprehensive School Reform"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Finnish National Core Curriculum",
@@ -38269,6 +38348,19 @@
     "subtype": "organization"
   },
   {
+    "title": "Development Assistance Committee",
+    "type": "fact",
+    "path": "wiki/facts/global/Development Assistance Committee.md",
+    "aliases": [
+      "OECD DAC",
+      "DAC",
+      "发展援助委员会",
+      "经合组织发展援助委员会",
+      "OECD Development Assistance Committee"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Development Economics Vice Presidency",
     "type": "fact",
     "path": "wiki/facts/global/Development Economics Vice Presidency.md",
@@ -38808,6 +38900,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Dakar Framework for Action",
+    "type": "fact",
+    "path": "wiki/facts/global/Dakar Framework for Action.md",
+    "aliases": [
+      "达喀尔行动纲领",
+      "达喀尔行动框架",
+      "达喀尔全民教育行动框架",
+      "Dakar Framework"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Declaration on Research Assessment",
     "type": "fact",
     "path": "wiki/facts/global/Declaration on Research Assessment.md",
@@ -38878,6 +38982,18 @@
       "ICMJE 数据共享要求",
       "ICMJE clinical trial registration requirement",
       "ICMJE data sharing statement"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "International Development Targets",
+    "type": "fact",
+    "path": "wiki/facts/global/International Development Targets.md",
+    "aliases": [
+      "IDTs",
+      "国际开发目标",
+      "国际发展目标",
+      "OECD International Development Targets"
     ],
     "subtype": "policy"
   },
@@ -38977,6 +39093,19 @@
       "联合世界书院关联学校政策",
       "1977年联合世界书院关联学校政策",
       "UWC Associated Schools Policy"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "World Declaration on Education for All",
+    "type": "fact",
+    "path": "wiki/facts/global/World Declaration on Education for All.md",
+    "aliases": [
+      "世界全民教育宣言",
+      "宗滴恩宣言",
+      "琼泰恩宣言",
+      "Jomtien Declaration",
+      "World Declaration on Education for All: Meeting Basic Learning Needs"
     ],
     "subtype": "policy"
   },
@@ -41788,6 +41917,17 @@
       "Curriculum, Evaluation and Management Centre",
       "课程评估与管理中心",
       "Cambridge CEM"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Centre for Policy Studies",
+    "type": "fact",
+    "path": "wiki/facts/uk/Centre for Policy Studies.md",
+    "aliases": [
+      "政策研究中心",
+      "英国政策研究中心",
+      "CPS"
     ],
     "subtype": "organization"
   },

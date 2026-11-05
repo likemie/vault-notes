@@ -8,6 +8,11 @@ aliases:
   - 国家自主性
 summary: "国际发展援助与跨国政策制定中的核心政治经济学构念。指发展中国家对本国发展优先事项、政策议程与制度设计的实际主导权。实证研究揭示了多边捐助机构在话语上高调标榜自主权与在制度上通过减贫战略文件及外生量化目标实施刚性规训之间的深刻结构性分裂。"
 type: concept
+domain: "comparative-education"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept
   - field/comparative-education

@@ -561,6 +561,15 @@
         "澳大利亚独立研究中心"
       ]
     },
+    "Centre for Policy Studies": {
+      "path": "wiki/facts/uk/Centre for Policy Studies.md",
+      "names": [
+        "Centre for Policy Studies",
+        "政策研究中心",
+        "英国政策研究中心",
+        "CPS"
+      ]
+    },
     "Centre for the Use of Research and Evidence in Education": {
       "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
       "names": [
@@ -863,6 +872,17 @@
         "DOE",
         "United States Department of Energy",
         "U.S. Department of Energy"
+      ]
+    },
+    "Development Assistance Committee": {
+      "path": "wiki/facts/global/Development Assistance Committee.md",
+      "names": [
+        "Development Assistance Committee",
+        "OECD DAC",
+        "DAC",
+        "发展援助委员会",
+        "经合组织发展援助委员会",
+        "OECD Development Assistance Committee"
       ]
     },
     "Development Economics Vice Presidency": {
@@ -3041,6 +3061,12 @@
         "wiki/facts/europe/Bologna Process.md"
       ]
     },
+    "UNDP": {
+      "seen_in": [
+        "wiki/facts/global/Education for All.md",
+        "wiki/facts/global/World Declaration on Education for All.md"
+      ]
+    },
     "United Nations": {
       "seen_in": [
         "wiki/facts/global/Millennium Development Goals.md",
@@ -3446,11 +3472,6 @@
         "wiki/facts/uk/Parliamentary Office of Science and Technology.md"
       ]
     },
-    "UNDP": {
-      "seen_in": [
-        "wiki/facts/global/Education for All.md"
-      ]
-    },
     "United Nations Convention on Biological Diversity": {
       "seen_in": [
         "wiki/facts/global/Nagoya Protocol.md"
@@ -3694,6 +3715,11 @@
     "联合质量倡议（Joint Quality Initiative）/ 博洛尼亚进程后继工作组": {
       "seen_in": [
         "wiki/facts/europe/Dublin Descriptors.md"
+      ]
+    },
+    "芬兰议会": {
+      "seen_in": [
+        "wiki/facts/finland/Comprehensive School Reform in Finland.md"
       ]
     },
     "英国议会（Parliament of the United Kingdom）": {

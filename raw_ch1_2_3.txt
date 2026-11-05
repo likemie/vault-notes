@@ -1,0 +1,522 @@
+--- Page 10 (Doc p.1) ---
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1. INTRODUCTION 
+The problem of education in the modern world lies 
+in the fact that by its very nature it cannot forgo 
+either authority or tradition, and yet must proceed in 
+a world that is neither structured by authority nor 
+held together by tradition. 
+Hannah Arendt, The Crisis in Education, 1954 
+“We didn’t think we were that good”, a headte acher at a school 
+outside of Helsinki mused. “Right before the first PISA results were 
+released, I was involved in a Nordic cooperation project in 
+education. And nobody cared about Finland.”1 
+The headteacher’s Nordic colleagues were not alone. During the 
+20th century, few were interested in the Finnish schooling system. 
+But at the turn of the millennium , this changed rapidly. When the 
+first results of PISA – a now established global ranking of 15-year 
+old pupils’ performance produced by the OECD – were released 
+in December 2001, Finland emerged seemingly out of nowhere as 
+a top performer, leaving other Nordic countries behind by a 
+considerable margin. Instead, Finland found itself competing with 
+the best East Asian countries. T he world was baffled – as were 
+the Finns. It was a “PISA miracle”.  
+
+--- Page 11 (Doc p.2) ---
+ 
+2 
+Suddenly, Finland’s school system was catapulted to stardom. 
+And for the next decade it was the rock star of education 
+worldwide, with droves of policy makers and pundits visiting the 
+country to find out the secrets behind its results.  
+But then the tide turned. In December 2013, the latest PISA results 
+showed that Finland had slipped in two consecutive studies. Was 
+it just a temporary setback? Or had the  world mistaken a rock 
+star for a “one decade wonder”? 
+This monograph tells the story of how a small Nordic country first 
+triumphed and then began to slip in a global education race 
+spurred by the emergence of PISA . It also discusses which 
+policies, if any, might be relevant to policy makers in  other 
+countries. It is a story that goes beyond the fashionable 
+explanations of Finnish success as highlighted in the international 
+media. Indeed, while the focus so far has been on certain 
+characteristics of Finland’s current education system, there has 
+been little rigorous analysis of whether those features can explain 
+the country’s performance historically.  
+Similarly, the socio-historical context in which Finland’s rise and 
+decline emerged has not been explored sufficiently. An education 
+system does not exist in a vacuum ; it is necessary to dig deeper 
+into the country’s social, political, and cultural underpinnings to 
+understand its workings. 
+This is perhaps especially important in the case of Finland, whose 
+modern history has been tumultuous. Having been annexed by 
+Russia from Sweden in 1809, the country achieved independence 
+in 1917, soon to be followed by a bloody civil war between 
+socialists and conservatives in 1918. Later it endured an invasion 
+by the USSR in 1939  to 1940, while teaming up with Germany in 
+
+--- Page 12 (Doc p.3) ---
+ 
+3 
+1941 to 1944 to invade the Soviets, whose advance s led to an 
+armistice that in turn compelled Finland into conflict with the 
+Germans. All this set the prelude for the country’s unusually close 
+and delicate relationship with the USSR during the Cold War. 
+In addition, and partly because of these fac tors, Finland has 
+historically been poorer and less educated than its Scandinavian 
+neighbours, spending the second half of the 20th century rapidly 
+narrowing this gap. This trajectory also ensured a different 
+societal and educational culture , which is often ignored in the 
+international debate. 
+The story told here attempts to fill the gaps in the current 
+discussion, and to tease out a more complete picture of Finland’s 
+educational rise and decline . Admittedly, this is far from an easy 
+task. While analysing the credibility of hitherto presented 
+hypotheses is relatively straightforward, it is unfortunately 
+impossible to conclusively determine the factors behind changes 
+in Finland’s educational performance and what can be learnt from 
+these. Yet, for what it is worth, this is an attempt at getting a bit 
+closer to the truth. 
+  
+
+--- Page 13 (Doc p.4) ---
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+2. FROM POSTER CHILD TO  
+OMINOUS SLIPPAGE 
+The story begins in December 2001, when the results from the first 
+PISA study were released. The PISA survey was created by the 
+OECD as a response to member countries’ demand for a reliable 
+metric of pupils’ knowledge and skills. Every three years , 
+nationally representative samples o f 15-year old pupils sit a test 
+in mathematical, reading, and scientific literacy. The number of 
+participants has increased over time, and in the latest 2012 survey 
+65 countries and economies were represented. 
+One subject is selected to be the main domain for each cycle, 
+and total test scores in each subject are comparable across all 
+future cycles only after it has been the main domain once. This 
+means that while reading literacy scores are comparable over 
+time from the first assessment, mathematical  and scientific 
+literacy scores are only fully comparable over time from 2003 and 
+2006 respectively. It also means that we cannot be sure when 
+Finland peaked in PISA in other subjects than reading literacy. 2 
+Nevertheless, in the first PISA 2000 results, Finland shocked both 
+itself and the world, achieving top positions in all three subjects. 
+
+--- Page 14 (Doc p.5) ---
+ 
+5 
+And the success story continued. While there were no statistically 
+significant achievement changes in the subjects that can be 
+reliably linked to full future assessment s, Finland came in first or 
+second place in all three subjects in 2003 and 2006. 3 In the mid-
+2000s, therefore, Finland was clearly a poster child of PISA. 
+But then something happened. Finnish scores in all domains 
+slipped slightly in PISA 2009 and then more strongly in PISA 2012. 
+Between 2006 and 2012 , Finland’s performance declined by 18 
+points in scientific literacy, 23 points in reading literacy, and 29 
+points in mathematical literacy. On average , this was the largest 
+fall of all Nordic countries in this period.4 The news hit Helsinki like 
+a bomb. “ [T]he golden days are over”, one Finnish website 
+dramatically announced.5 
+Of course, the decline should have been expected given other 
+evidence. In TIMSS, a more curriculum-focused international test, 
+Finnish 13-year old pupils fell by 38 points between 1999 and 2011 
+in mathematics – leaving the country’s 14-year olds to perform 
+slightly lower in 2011 than its 13-year olds did in 1 999. In science, 
+however, there was only a statistically insignificant decline of  six 
+points.6 Nevertheless, Finnish domestic sample-based tests in 
+different subject areas, including science, also show a decline in 
+pupil knowledge since the late 1990s and early 2000s.7 The same 
+applies to evaluations of more general competences. Indeed, one 
+such test indicated a drop of the equivalent of 46 PISA points 
+between 2001 and 2012 among pupils in the final year of 
+compulsory education.8 
+While these results do not tell us exactly when Finland began 
+falling in the different subjects, they show a rather clear -cut 
+picture: the Finnish education miracle has stalled and gone into 
+reverse in recent years.  
+
+--- Page 15 (Doc p.6) ---
+ 
+6 
+Certainly, it remains the highest performing country in Europe on 
+average, which should be compared with its neighbours’ much 
+lower performance. For example, Sweden has fallen significantly 
+in international tests since the mid -1990s, and is now one of the 
+lower-performing countries in Europe. 9 So it is clearly important 
+to put Finland’s decline in perspective.  
+Nevertheless, focusing on the country’s peak results in PISA is 
+insufficient when attempting to draw policy lessons for other 
+nations. Finland’s performance trajectory has changed, a nd it is 
+therefore important also to look at the potential reasons for its 
+current decline and what can be learnt from it. 
+  
+
+--- Page 16 (Doc p.7) ---
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+3. QUESTIONING THE FASHIONABLE  
+POLICY EXPLANATIONS 
+But let us start with the rise. Looking at articles and books about 
+the lessons from Finland , there is no shortage of policy 
+explanations for the country’s initial performance in PISA. In 
+general, a strong focus on equity is highlighted as the bedrock in 
+this respect. 10 This began when the old two -stream system was 
+abolished gradually across the country in the 1970s, following the 
+Special Systems Act in 1968, in favour of nine-year comprehensive 
+schooling modelled after similar reforms in Sweden and Norway.11 
+To succeed in accommodating pupils with diverse learning needs 
+in the same schools, special education, often part-time, increased 
+rapidly as a result of the reform. 12 The comprehensive school 
+reform and its egalitarian implications are often considere d key 
+for the Finnish education system’s success.13 
+Other explanations include the absence of standardised tests, 
+accountability, and market reforms. They also highlight 
+collaboration among, and autonomy for, schools and teachers, 
+who are trusted to do their jobs without anybody looking over 
+their shoulders.14 
+
+--- Page 17 (Doc p.8) ---
+ 
+8 
+This is also something that is highlighted by senior Finnish 
+officials. “We trust municipalities, schools, headteachers, and 
+teachers, who have freedom and autonomy to do their job well 
+and tweak it to local circumstances”, Aulis Pitkälä, Director 
+General at the Finnish National Board of Education (NBE), said. “It 
+sounds idealistic, but you need to trust.”  
+This trust is then often linked to the competitive teacher 
+education, which only accepts on average about 10 per cent of 
+applicants who all graduate with master’s degrees. 15 These 
+features are supposed to ensure high quality teachers, who are 
+deemed crucial for pupil achievement.16  
+Another oft-voiced idea is that Finnish children do well because 
+they do not have to study as much as other children. Finnish 
+school days are relatively short, with a comparatively low teaching 
+load, and pupils do not complete as much homework as children 
+in other countries. This a llows them to play more, while also 
+freeing up time for teachers to collaborate and share ideas. So, it 
+is supposed, “less is more” when it comes to producing higher 
+PISA achievement.17 
+If this story were true, Western countries, and many others, would 
+clearly be on the wrong path. In both England and the US, for 
+example, education policy since the 1980s has focused on 
+changing the external incentive structure in schools by increasing 
+accountability and introducing market-based reforms. Similarly , 
+they have also aimed to increase instructional time and 
+schoolwork. Critics of these reforms have  often cited the Finnish 
+success story in an attempt to repudiate these policies.  
+Indeed, this is the message from Dr Pasi Sahlberg, a world-
+famous Finnish educationalist. In his view , the Global Education 
+
+--- Page 18 (Doc p.9) ---
+ 
+9 
+Reform Movement (GERM), as he calls it, has infected the world 
+with school accountability, market -based reforms, and more 
+schoolwork. A ccording to him , an important part of Finland’s 
+secret is that it has not followed those trends.18 
+And the suggested prescriptions for other countries follow these 
+explanations. In a 2012 House of Commons lecture, Dr Sahlberg 
+argued that the absence of standardisation, competition, and 
+accountability are key Finnish lessons for English policymakers. 
+He also stressed the importance of equity and the “less is more” 
+approach.19 The implication of Finland’s success is therefore in 
+many cases that other count ries should be doing essentially the 
+opposite of what they are doing currently. 
+“It was certainly not the 1970s reforms that made Finnish schools 
+successful” 
+But, in fact, there is little basis for any of these arguments. “We 
+have very little evidence regarding any of the claims that are 
+made regarding Finnish PISA performance”, said Dr Tuomas 
+Pekkarinen of the Finnish Government Institute for Economic 
+Research. Instead , arguments regarding what makes Finland 
+successful tend to rest on expert opinion. 
+Here it is important to note that observations of high - and low-
+performing countries’ characteristics, which are often used as 
+evidence by pundits and policymakers, are not particularly useful. 
+This is because this “best practice” appro ach tells us nothing 
+about causality. It is impossible to know whether the feature 
+someone chooses to emphasise has spurred, been irrelevant for, 
+or even hindered a country’s success.20 
+To see why, consider a hypothetical country with an inherent 
+advantage that is difficult to observe, for example unusually highly 
+
+--- Page 19 (Doc p.10) ---
+ 
+10 
+motivated pupils. In this country, it takes less instructional time to 
+achieve the same or even better results than in other countries. 
+This, in turn, makes it look as if the country’s pupils are doing well 
+because they receive less instructional time – even if they 
+actually would be doing better if they got more. 
+The same problem applies to the OECD’s official PISA report s, 
+which include one chapter that supposedly explains why certain  
+countries do better than others. Yet this chapter is little more than 
+a firework of high -level correlations between countries’ 
+characteristics and their results, which reduces its evidence value 
+considerably.21 
+It might not be surprising, therefore, that the economics of 
+education research, which takes stronger precautions to tease 
+out causal relationships, does not support most of the highlighted 
+policy explanations behind Finland’s improvements. 
+Indeed, a recent study suggests that the comprehensive scho ol 
+reform, the supposed bedrock of Finland’s performance, did not 
+have more than a marginal direct positive impact on pupil 
+achievement. It had no overall effects on arithmetic or logical 
+reasoning test scores among male army conscripts, and only a 
+tiny ov erall positive impact on verbal reasoning test scores .22 
+“What we take away from that is that it was certainly not the 1970s 
+reforms that made Finnish schools successful”, Dr Pekkarinen 
+highlighted.  
+Similarly, there is no evidence that league tables are negative for 
+achievement in international tests. On the contrary , research 
+suggests that league tables are one reason why England 
+performs better in PISA than Wales, which abolished them in 
+2001.23 Meanwhile, th e evidence on the impact of school 
+
+--- Page 20 (Doc p.11) ---
+ 
+11 
+competition on international test scores shows that the 
+equivalents of free schools and academies in fact raise countries’ 
+performance in PISA overall. 24 In general , there is little rigorous 
+research suggesting that GERM -inspired policies are bad for 
+international test scores.25 
+The same point could be made regarding the idea that less work 
+and more play are important factors behind Finland’s success. 
+For example, Professor Victor Lavy has shown that more 
+instructional time raises PISA scores, an effect that increases with 
+stronger school accountability.26 Meanwhile, other researchers 
+have found positive average effects of completing more 
+homework in PISA and TIMSS. 27 In other words, the idea that less 
+school- and homework contributed to Finland’s peak pupil 
+performance in international tests does not receive support in the 
+literature. 
+“Nothing happens overnight” 
+Some might argue that the total impact of a country’s policies 
+cannot be uncovered in econometric research. This could be 
+because the overall system – in which each separate part 
+contributes to the whole – is difficult to measure and therefore 
+analyse. 
+Even if we were to accept this argument, it does not change the 
+overall impression regarding the common policy explanations. As 
+noted, most people link the features of today’s Finnish model to 
+the country’s PISA performance in the early-to-mid 2000s. Indeed, 
+these features are also emphasised as important lessons in the 
+OECD’s own best practice report for US policymakers. 28 
+Yet this is an ahistorical approach.29 For example, Finland was not 
+always so dece ntralised. On the contrary, up until the 1990s, its 
+
+--- Page 21 (Doc p.12) ---
+ 
+12 
+education system was centralised and controlled by the state. 
+The national curriculum was detailed and prescriptive, and all  
+teachers had to undergo extensive in -service training , while 
+further being required to record what was taught hour by hour 
+in class diaries  to ensure they delivered the mandatory content . 
+There was also an active school inspectorate, and all textbooks 
+had to be approved by the NBE .30 
+Meanwhile, until 1985, pupils’ marks attained at the end of 
+compulsory education were cohort -referenced, and school 
+average marks  were generally calibrated using sample-based 
+standardised tests . While criterion-referenced assessment was 
+implemented in  1985, the  national curriculum continued to be 
+prescriptive in terms of goals and content. 31 
+Of course , this also hints at the fact that politicians and 
+bureaucrats did not trust teachers in the old system. “In Finnish 
+discourse, there was generally very little trust of teachers until 
+the 1990s”, education sociology professor Hannu Simola of the 
+University of Helsinki argued.  
+Indeed, in one study Professor Simola analysed thousands of 
+pages of state documents between the 1860s and the early 
+1990s – and found only one instance since the implementation 
+of the comprehensive school reform where teachers were not  
+seen as roadblocks to the development of schooling. 32 This 
+indicates that teachers were not trusted historically.  
+So the old system spelled “centralisation ”, partly to consolidate 
+the comprehensive school reform  that was being gradually 
+rolled out in the 1970s. “There were doubts that everybody would 
+accept the comprehensive system, and a suspicion whether it 
+would be implemented across the country”, Pär Stenbäck, 
+
+--- Page 22 (Doc p.13) ---
+ 
+13 
+Minister of Education from 1979 to 19 82, said. “When you 
+implement a reform, it’s important to be consistent in the 
+beginning.” 
+Decentralisation began in 1985, when  local autonomy to some 
+extent increased, and was completed in the early -to-mid 1990s, 
+when the system was further liberalised, school autonomy  
+significantly increased, and school inspections as well as the 
+national textbook approval process abolished entirely. 33 Indeed, 
+as Dr Sahlberg has put it: “In the early 1990s, the era of a trust-
+based school culture formally started in Finland.” 34 
+Chart 1: Finnish lower-secondary pupil performance in 
+international assessments over time 
+ 
+How, then, did Finland perform before and after decentralisation 
+was completed? Until now it has been difficult to reliably compare 
+countries’ performance over time. But Dr Nadir Altinok and 
+colleagues have recently standardised lower -secondary school 
+performance from micro data in all different types of international 
+assessments in mathematics and science, while reading scores 
+480
+490
+500
+510
+520
+530
+540
+550
+560
+570
+580
+590
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
+
+--- Page 23 (Doc p.14) ---
+ 
+14 
+to some extent also form part of the analysis, which makes it 
+possible to compare overall results from 1965 onwards. 35 
+And it appears as if Finland’s rise accelerated primarily during the 
+old centralised system. While results increased by approximately 
+the equivalent of 23 TIMSS points between 1965 and 1980, they 
+rose a further 32 points in the 1980s. They also increased a further 
+34 points in the 1990s, but started to level off in the latter part of 
+the decade, and ultimately started to decline in the mid-2000s. In 
+fact, given the age at test, the strongest gains took place when 
+pupils mostly attended school before the old system was entirely 
+abolished – and the peak occurs soon after it was entirely 
+abolished. 
+But the standardised data are not actually necessary to show that 
+Finnish education improved before the current system was put in 
+place. For example, between 1970 and 1983, Finland’s science 
+performance among ten -year old pupils increased by the 
+equivalent of 48 to 59 TIMSS points, depending on the adjustment 
+made, a larger gain than any other country enjoyed. In 1983 , 
+Finland consequently tied first place in science with Japan and 
+South Korea. Among 14-year olds, Finland increased its science 
+scores by the equivalent of 11 to 22 points between 1970 and 1983, 
+placing the  country only statistically significantly lower than 
+Hungary, Japan, and the Netherlands among 26 education 
+systems in total in the latter year.36 
+Similarly, in 1991, at the end of the centralised system, Finland’s 
+nine- and 14-year olds out -competed all ot her countries in 
+reading.37 In fact, Finnish pupils achieved top positions in a similar 
+test already in 1970, ending up in third place in both age groups.38 
+And in mathematics, Finland’s lower-secondary scores increased 
+more in absolute terms between the mid-1960s and the early 1980s 
+
+--- Page 24 (Doc p.15) ---
+ 
+15 
+than in all other nine countries that participated on both occasions, 
+apart from the Netherlands, although Finland only emerged as a 
+top performer in the first PISA results in 2000.39 
+Other data support the general trajectory of rise and decline in 
+international surveys. Average test scores of Finnish 18- to 20-year 
+old male military conscripts increased by approximately the 
+equivalent of 24 PISA points between 1988 and 1997, whereas they 
+declined between 1997 and 2009 by about 21 PISA points. 40 In 
+other words, performance improved while male youngsters 
+attended primary - and lower -secondary school before the old 
+system was entirely abolished and began falling when they 
+became more exposed to the new one.  
+Chart 2: Average male army test scores in Finland over time 
+ 
+So the available evidence indicates that the Finnish education 
+journey towards stardom began to accelerate during the old 
+centralised system – which suggests that the reforms in the late 
+1980s and early 1990s were not the cause of the transformation.  
+Of course, it was always improbable that these reforms even had 
+much to do with the first results in PISA, simply because it often 
+22
+22.2
+22.4
+22.6
+22.8
+23
+23.2
+23.4
+23.6
+23.8
+24
+24.2
+1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010
+
+--- Page 25 (Doc p.16) ---
+ 
+16 
+takes time before effects of such reforms are visible. “The results 
+in the first PISA tests were more due to the old system and its 
+traditions”, Professor Jari Lavonen at the University of Helsinki 
+argued. “Nothing happens overnight.” Similarly, Sirkku Kupiainen, a 
+researcher at the same university, said: “The results, as far as they 
+were in fact due to the education system, had more to do with the 
+decades-old centralised arrangements.” 
+This is also evidence to challenge the idea that changes in teacher 
+education policy are linked to the transformation. Teacher 
+education was reformed in the mid -to-late 1970s, when it was 
+moved to universities from teacher colleges, which had mostly 
+involved practical training for two to three years. In 1979, primary 
+school teachers joined the master’s club. For secondary school 
+teachers, who were already required to have master’s degrees in 
+the subject they teach prior to the reform, the only difference was 
+that they now had to do their (expanded) pedagogical studies and 
+training in connection with the new university faculties.41 
+But none of these changes is likely to have been crucial for 
+Finland’s improvements, which accelerated before any teacher 
+candidates going through the new system had entered the labour 
+market, let alone formed a substantial part of it. The in -service 
+training may or may not have changed things, but this is separate 
+from the pre -service master’s level, university -based training in 
+pedagogical faculties, which internationally is upheld as a reason 
+behind Finland’s improvements. 
+Indeed, given how long it takes to change the entire teacher force 
+by letting candidates undergo the new system, it is similarly 
+improbable that changes to teacher education  are a good 
+explanation for the first PISA results. “There’s been a lack of  
+understanding of the timeline here”, education professor Jarkko 
+
+--- Page 26 (Doc p.17) ---
+ 
+17 
+Hautamäki of the University of Helsinki argued. “[The changes in] 
+teacher education can’t be a n explanatory factor behind our 
+performance in the early 2000s.” If anything, in fact, the retirement 
+of teachers who were trained under the old regime coincides with 
+the country’s performance stagnation and eventual decline.42 
+The historical trajectory therefore indicates that Finland’s journey 
+from low performer to high performer was not caused by most of 
+the education policies that have been emphasised during the 
+PISA heydays. Since there are no test score data available prior 
+to the 1960s, we cannot be sure exactly when the country’s rise 
+began, but it accelerated primarily under  the old centralised 
+arrangements. While this is far from proof that the old system lies 
+behind the improvement stage, it is enough to refute the idea that 
+the current one does.  
+
