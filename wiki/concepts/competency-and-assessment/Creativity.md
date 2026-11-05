@@ -11,9 +11,9 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 106
-related_level: 10
-related_stars: "💎💎💎⭐"
+related_count: 127
+related_level: 12
+related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/creativity
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Scientific Creativity]]"
   - "[[Technological Pastiche]]"
   - "[[Creativity Assessment]]"
   - "[[Ontology]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Salami Publishing]]"
   - "[[Star Scientists]]"
+  - "[[Big Science]]"
   - "[[Big Idea Famine]]"
   - "[[Constructive Disobedience]]"
   - "[[Bureaucracy]]"
@@ -70,6 +72,8 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Heterogeneity]]"
   - "[[Champ]]"
+  - "[[Emergence]]"
+  - "[[Early-Career Researchers]]"
   - "[[Criterion Problem]]"
   - "[[Domain Specificity]]"
   - "[[Polymath]]"
@@ -82,6 +86,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
+  - "[[Combinatorial Novelty]]"
   - "[[Critical Thinking Assessment]]"
 related_methods:
   - "[[Effect Size]]"
@@ -90,7 +95,10 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Difference-in-Differences]]"
   - "[[Sample Size Determination]]"
+  - "[[Discounted Cumulative Gain]]"
+  - "[[Fixed-Effect Model]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -98,6 +106,9 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
   - "[[Socrates]]"
+  - "[[Santo Fortunato]]"
+  - "[[John B. Fenn]]"
+  - "[[Pierre Azoulay]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Ralph Waldo Emerson]]"
@@ -107,6 +118,7 @@ related_persons:
   - "[[Michael Kratsios]]"
   - "[[Solomon Asch]]"
   - "[[Stanley Milgram]]"
+  - "[[Dean Keith Simonton]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Guo_2025_TSC]]"
@@ -120,18 +132,27 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Azoulay_2011_RJE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Chen_2025_HSSC]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
-  - "[[Argument_Azoulay_2011_RJE]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Creative Problem Solving]]"
+  - "[[Random Impact Rule]]"
+  - "[[Manso's Model of Innovation]]"
   - "[[Organizational Culture]]"
+  - "[[Chance-Configuration Theory]]"
 related_facts:
+  - "[[Howard Hughes Medical Institute]]"
+  - "[[National Institutes of Health]]"
   - "[[Asch Conformity Experiment]]"
   - "[[Milgram Obedience Experiment]]"
+  - "[[Microsoft Academic Graph]]"
   - "[[OECD]]"
 confidence: high
 status: active
@@ -142,7 +163,7 @@ updated: 2026-11-05
 ---
 
 > [!def] Creativity
-> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
+> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性[[Scientific Creativity|科学创造力]]高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制、行为表现及制度化探索能力。
@@ -259,13 +280,13 @@ updated: 2026-11-05
 > **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与[[Bibliometric Analysis|科学计量学]]研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（[[Salami Publishing|Salami Slicing]]）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和[[Document|文献]]引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
 
 > [!claim] Sinatra et al.
-> **反事实置换确证随机影响法则与创造力衰退迷思打破** 针对科学创造力随年龄衰退的传统假设，[[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 依托 2.8 万余名物理学家与跨学科学者全生涯发表数据开展反事实置换检验。结果显示，将各篇论著被引时序打乱后，模拟曲线与真实早年突破峰值完全重叠；最高被引代表作在发表序列中的相对位次 $N^*/N$ 严格服从均匀分布。这证实早年重大突破聚集纯属发文生产力高峰的抽样效应，学者的科学创造力在全生命周期内保持稳定，并未随年龄发生系统性衰退。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
+> **反事实置换确证[[Random Impact Rule|随机影响法则]]与创造力衰退迷思打破** 针对科学创造力随年龄衰退的传统假设，[[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 依托 2.8 万余名物理学家与跨学科学者全生涯发表数据开展反事实置换检验。结果显示，将各篇论著被引时序打乱后，模拟曲线与真实早年突破峰值完全重叠；最高被引代表作在发表序列中的相对位次 $N^*/N$ 严格服从均匀分布。这证实早年重大突破聚集纯属发文生产力高峰的抽样效应，学者的科学创造力在全生命周期内保持稳定，并未随年龄发生系统性衰退。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
-> **终身突破均等几率与常规非典型重组假说** 桑托·福图纳托等系统评述科学创造力实证规律，进一步以 85 岁荣获诺贝尔奖的约翰·B·芬恩（John B. Fenn）为例，印证重大科学突破与生理年龄脱钩，只要学术研究保持活跃，多产学者终身享有均等的突破几率。在成果微观结构上，兼具成熟常规知识基础与少数罕见非典型跨界配对的论著，斩获极高被引频次的几率达到常规论著的 2 倍（Uzzi et al., 2013），确立了新旧构件平衡混合是驱动科学创造力获得共同体接纳的最佳路径。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
+> **终身突破均等几率与常规非典型重组假说** [[Santo Fortunato|桑托·福图纳托]]等系统评述科学创造力实证规律，进一步以 85 岁荣获诺贝尔奖的[[John B. Fenn|约翰·B·芬恩]]（John B. Fenn）为例，印证重[[Big Science|大科学]]突破与生理年龄脱钩，只要学术研究保持活跃，多产学者终身享有均等的突破几率。在成果微观结构上，兼具成熟常规知识基础与少数罕见非典型跨界配对的论著，斩获极高被引频次的几率达到常规论著的 2 倍（Uzzi et al., 2013），确立了新旧构件平衡混合是驱动科学创造力获得共同体接纳的最佳路径。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
 
 > [!claim] [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]]
-> **资助契约设计对高风险科学创造力的因果倍增** 阿祖莱（Pierre Azoulay）等学者依托霍华德·休斯医学研究所（HHMI）研究员项目与美国国立卫生研究院（NIH）R01 课题资助的准实验对比，实证检验了[[Manso's Model of Innovation|曼索创新激励模型]]。计量分析表明，以具体课题为单元且不容忍早期挫折的传统考核方式，迫使科学家规避探索并退缩至确定性高的增量利用；而以人为资助单元、放宽前 5 年考核并重奖长程突破的宽松契约，使科学家产出全球排名前 1% 极端顶尖突破的发生率提升近一倍（半参数双重差分点估计 $\beta = 0.678, p < .01$）。该突破效应伴随低被引试错成果的同步增加与前沿医学主题词的高频更迭，因果确证了宽容失败与长程赋权是释放科学家颠覆性创造潜能的关键制度保障。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011)]]
+> **资助契约设计对高风险科学创造力的因果倍增** [[Pierre Azoulay|阿祖莱]]（Pierre Azoulay）等学者依托[[Howard Hughes Medical Institute|霍华德·休斯医学研究所]]（HHMI）研究员项目与[[National Institutes of Health|美国国立卫生研究院]]（NIH）R01 课题资助的准实验对比，实证检验了[[Manso's Model of Innovation|曼索创新激励模型]]。计量分析表明，以具体课题为单元且不容忍早期挫折的传统考核方式，迫使科学家规避探索并退缩至确定性高的增量利用；而以人为资助单元、放宽前 5 年考核并重奖长程突破的宽松契约，使科学家产出全球排名前 1% 极端顶尖突破的发生率提升近一倍（半参数[[Difference-in-Differences|双重差分]]点估计 $\beta = 0.678, p < .01$）。该突破效应伴随低被引试错成果的同步增加与前沿医学主题词的高频更迭，因果确证了宽容失败与长程赋权是释放科学家颠覆性创造潜能的关键制度保障。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011)]]
 
 ---
 
@@ -346,9 +367,9 @@ updated: 2026-11-05
 > - **2025 年 反从众心理机制与工程组织哲学** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025, pp. 136–138)]] 结合 [[Asch Conformity Experiment|阿施从众实验]] 与 [[Milgram Obedience Experiment|米尔格拉姆服从实验]]，揭示顺从与合规文化对颠覆性创造力的致命压制，提出以 [[Social Deafness|社交失聪]] 抵御虚假共识、以 [[Constructive Disobedience|建设性不服从]] 激活组织原创活力的工程哲学。
 > - **2025 年 模仿毒性批判与抵抗性创造[[Epistemology|认识论]]** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 156–159)]] 论证未受反省的模仿本能演化为创新的毒药，以[[Jackson Pollock|波洛克]]与[[Thomas Hart Benton|本顿]]的抵抗性师生张力为例，提出从无到有的“创造傲慢”，批判现代企业将“讨人喜欢”作为牢笼的平庸合群文化。
 > - **2025 年 审美品味与奥德修斯自愿自我约束的创造力哲学** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, pp. 207–212)]] 阐明前沿软件构建高度依赖艺术直觉与审美品味，结合德雷珀名画《奥德修斯与塞壬女妖》与法伦布拉赫（2009）、普渡大学（2016）实证，提出自愿自我约束与长程资产托管是抵御短期主义并实现突破性创造力的根本路径。
-> - **2025 年 机会构型机制实证检验与常规高引挤出效应** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 基于 19,152 位经济学家全生命周期数据检验西蒙顿创造力机会构型理论，实证确证爆发期发文规模的扩张通过海量试错提高触碰颠覆性创造力边界的几率（$\beta = 0.029$），同时揭示常规解谜型高引成果对原创颠覆度存在资源挤出效应（边际贡献 −0.097）。
+> - **2025 年 机会构型机制实证检验与常规高引挤出效应** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 基于 19,152 位经济学家全生命周期数据检验[[Dean Keith Simonton|西蒙顿]]创造力[[Chance-Configuration Theory|机会构型理论]]，实证确证爆发期发文规模的扩张通过海量试错提高触碰颠覆性创造力边界的几率（$\beta = 0.029$），同时揭示常规解谜型高引成果对原创颠覆度存在资源挤出效应（边际贡献 −0.097）。
 > - **2026 年 [[Man-Computer Symbiosis|人机协同]]、[[Cognitive Deskilling|去技能化]]防范与国家科研体制反思** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 确立防范 AI 引发[[Creative Deskilling|创造力去技能化]]的[[Virtue Epistemology|美德认识论]]支架；[[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] 将科学创造力从心理学扩展至国家创新政策，揭示学术风险规避与共识评审对颠覆性探索的系统性压制。
-> - **2026 年 — 科学创造力的学术生态涌现转向** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 在《自然-人类行为》发文，将创造力从单纯的个体心理认知特质拓展为依赖支持性制度生态的系统涌现属性，揭示短周期考核与不稳定聘用对青年学者创造力的体制性窒息。
+> - **2026 年 — 科学创造力的学术生态[[Emergence|涌现]]转向** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 在《自然-人类行为》发文，将创造力从单纯的个体心理认知特质拓展为依赖支持性制度生态的系统涌现属性，揭示短周期考核与不稳定聘用对[[Early-Career Researchers|青年学者]]创造力的体制性窒息。
 
 ---
 
@@ -493,8 +514,8 @@ updated: 2026-11-05
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对创造性思维（CrT）影响的主题频数分布 | 赋能维度：构想发散与[[Brainstorming\|头脑风暴]]（31 项）、结构脚手架（24 项）、视角转换（18 项）、修辞表达丰富（12 项）；风险维度：文风均质化（19 项）、探索停滞与过早定型（15 项）、个人声音淹没（13 项）、表面流畅掩盖实质平庸（11 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对创造性思维的赋能显著，但伴随输出同质化风险 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang & Barabási (2021)]]; Uzzi and Spiro (2005) | 1889–2004 年百老汇音乐剧创作团队与全美跨学科科研合作网络 | 小世界网络拓扑回归与非线性样条分析 | 网络小世界商数 $W$ 对团队商业成功与艺术原创评价的影响 | 小世界商数与团队创造力及绩效呈现典型倒 U 形曲线；中等 $W$ 产出最高，极高 $W$ 导致绩效显著衰退 | 二次项与样条回归显著（$p < .01$） | 证实团队创造力依赖于网络局部凝聚力与全局异质连接的最佳拓扑平衡，过度紧密会形成认知回音室 |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大学科 24,630 位跨学科学者 | 反事实生涯序列置换实验 | 代表作相对位次 $N^*/N$、年龄突破时序 $t^*$ 与生产力 $n(t)$ | 打乱被引时序后的反事实曲线与真实早年突破曲线重叠；相对位次在 $(0, 1]$ 上服从均匀分布 | 置换检验与均匀分布拟合显著 | 确证科学创造力在学者全生命周期保持恒定，早年突破扎堆纯属发文生产力高峰的抽样假象 |
-> | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018, pp. 3–4)]] | 全球跨学科数千万篇论著与长周期学者发表序列 | 随机影响检验、引文网络重组度量与诺奖案例追踪 | 最高引代表作位次分布、非典型组合倍率与突破年限 | 代表作在万名学者发表序列中呈绝对平坦的均匀分布；常规基础+非典型跨界组合斩获千次以上高引概率提升至 2 倍；芬恩 70 岁完成奠基工作并于 85 岁获诺贝尔化学奖 | 全球跨学科科研大数据综合 | 实证打破创造力随年龄衰退的传统迷思，确立持续产出与新旧构件平衡混合是科学创造力的核心驱动力 |
-> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 微软学术图谱 19,152 位资深经济学家全生涯发表记录 | 基于 DCG 算法的面板固定效应回归与微观边际贡献测算 | 发文总量（#pub_during）、期内被引论著与颠覆度增量 $D_{diff}$ | 发文总量显著正向提升颠覆度增量（$\beta = 0.029, p < .001$）；期内被引论著负向抑制颠覆度（$\beta = -0.126, p < .001$）；单篇常规高引工作边际贡献为 −0.097 | 主模型 $R^2 = 0.822, p < .001$ | 证实海量尝试为博取突破机遇提供试错构型基础，而常规高引解谜对颠覆性创造力产生净挤出 |
+> | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018, pp. 3–4)]] | 全球跨学科数千万篇论著与长周期学者发表序列 | 随机影响检验、引文网络重组度量与诺奖案例追踪 | 最高引代表作位次分布、[[Combinatorial Novelty\|非典型组合]]倍率与突破年限 | 代表作在万名学者发表序列中呈绝对平坦的均匀分布；常规基础+非典型跨界组合斩获千次以上高引概率提升至 2 倍；芬恩 70 岁完成奠基工作并于 85 岁获诺贝尔化学奖 | 全球跨学科科研大数据综合 | 实证打破创造力随年龄衰退的传统迷思，确立持续产出与新旧构件平衡混合是科学创造力的核心驱动力 |
+> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | [[Microsoft Academic Graph\|微软学术图谱]] 19,152 位资深经济学家全生涯发表记录 | 基于 [[Discounted Cumulative Gain\|DCG]] 算法的面板[[Fixed-Effect Model\|固定效应]]回归与微观边际贡献测算 | 发文总量（#pub_during）、期内被引论著与颠覆度增量 $D_{diff}$ | 发文总量显著正向提升颠覆度增量（$\beta = 0.029, p < .001$）；期内被引论著负向抑制颠覆度（$\beta = -0.126, p < .001$）；单篇常规高引工作边际贡献为 −0.097 | 主模型 $R^2 = 0.822, p < .001$ | 证实海量尝试为博取突破机遇提供试错构型基础，而常规高引解谜对颠覆性创造力产生净挤出 |
 > | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 417 位美国顶尖生命科学家微观面板（73 位 HHMI 处理组与 344 位 NIH 对照组，1980–2006 年） | 逆概率加权半参数双重差分模型（IPTW-SDD） | 全球前 1% 引文突破、个人基准试错成果（Flops）与医学主题词新颖度 | 入选 HHMI 显著提高前 1% 顶尖产出（$\beta = 0.678$），试错低引论著同步增加（$\beta = 0.317$），主题词重合度显著降低（$\beta = -0.259$） | $p < .01$ / $p < .10$ | 确证容忍早期失败与长程人本资助契约因果驱动高风险探索与重大突破 |
 
 ---

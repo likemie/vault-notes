@@ -17111,7 +17111,8 @@
       "doi": "10.1126/science.319.5865.900b",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md"
+        "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md",
+        "wiki/facts/us/NIH R01 Grant.md"
       ],
       "title": "Response"
     },
@@ -18330,6 +18331,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Performance of Head Start and non-Head Start participants at first grade"
+    },
+    "Cech, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/People, Not Projects.md"
+      ],
+      "title": ""
     },
     "Cecilia Osorio Gonnet, 2018": {
       "doi": "",
@@ -67232,6 +67241,14 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Reflection Problem.md"
+      ],
+      "title": ""
+    },
+    "Manso, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Gustavo Manso.md"
       ],
       "title": ""
     },

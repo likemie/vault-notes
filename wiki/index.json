@@ -17181,6 +17181,18 @@
     ]
   },
   {
+    "title": "People, Not Projects",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/People, Not Projects.md",
+    "aliases": [
+      "资助人才而非资助项目",
+      "重学者轻项目",
+      "People Not Projects",
+      "重人才轻项目",
+      "以人为本的科研资助"
+    ]
+  },
+  {
     "title": "Permissionless Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Permissionless Innovation.md",
@@ -32861,6 +32873,17 @@
     ]
   },
   {
+    "title": "Gustavo Manso",
+    "type": "person",
+    "path": "wiki/persons/us/Gustavo Manso.md",
+    "aliases": [
+      "古斯塔沃·曼索",
+      "曼索",
+      "G. Manso",
+      "Manso, G."
+    ]
+  },
+  {
     "title": "Hannah Arendt",
     "type": "person",
     "path": "wiki/persons/us/Hannah Arendt.md",
@@ -46506,6 +46529,20 @@
       "NGMM Program",
       "下一代微系统制造",
       "三维异构集成国家中试中心"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "NIH R01 Grant",
+    "type": "fact",
+    "path": "wiki/facts/us/NIH R01 Grant.md",
+    "aliases": [
+      "NIH R01",
+      "R01资助机制",
+      "R01项目资助",
+      "R01 Research Project Grant",
+      "NIH R01资助",
+      "R01 Grant"
     ],
     "subtype": "program"
   },

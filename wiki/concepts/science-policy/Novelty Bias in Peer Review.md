@@ -10,37 +10,50 @@ aliases:
 summary: "指在学术资助申请与同行评议中，评审专家对高度新颖的跨学科探索与非常规概念组合系统性打出偏低评分并规避风险的认知偏误；双盲实验与国家基金实证表明，申请书新颖性与跨学科认知距离越高，获资助概率越显著走低，确立了同行评审系统性的风险厌恶壁垒。"
 type: concept
 domain: "science-policy"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/peer-review
   - theme/scientometrics
   - theme/sociology-of-science
 related_concepts:
-  - "[[Novelty Paradox]]"
+  - "[[Paradigm]]"
   - "[[Status Bias in Peer Review]]"
+  - "[[Novelty Paradox]]"
   - "[[Benefit of the Doubt in Peer Review]]"
-  - "[[Combinatorial Novelty]]"
-  - "[[Strategic Conformity in Academia]]"
+  - "[[Halo Effect]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Scientific Uncertainty]]"
+  - "[[Gatekeepers]]"
+  - "[[Homophily]]"
+  - "[[Working Hypothesis]]"
+  - "[[Disciplinary Institutionalization]]"
+  - "[[Heterogeneity]]"
   - "[[Scientific Creativity]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Variable]]"
+  - "[[Document]]"
+  - "[[Strategic Conformity in Academia]]"
+  - "[[Creativity]]"
   - "[[Academic Risk Aversion]]"
 related_theories: []
 related_methods:
-  - "[[Combinatorial Novelty Measurement]]"
+  - "[[Pilot Testing]]"
+  - "[[Case Study]]"
+  - "[[Effect Size]]"
+  - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
-  - "[[Brian Uzzi]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Phillip J. Haubrock]]"
-  - "[[Teun Everts]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Heinze_2009_RP]]"
 confidence: high
 status: active
 created: 2026-10-31
@@ -55,7 +68,7 @@ updated: 2026-11-05
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 同行评议系统对高新颖性研究方案的系统性保守折价倾向。
 > - **用途** 诊断跨学科前沿探索在竞争性学术立项中遭遇淘汰的制度性与心理学根源。
-> - **边界** 不等于对缺乏科学严谨性或存在明显方法漏洞伪创新的合理淘汰；仅指涉因范式陌异或不确定性导致的超额苛评。
+> - **边界** 不等于对缺乏科学严谨性或存在明显方法漏洞伪创新的合理淘汰；仅指涉因[[Paradigm|范式]]陌异或不确定性导致的超额苛评。
 
 > [!citation-card|notitle] 关键表述
 > 对资助申请的研究表明，科学家往往在研究工作实际开展之前就对新颖概念抱有偏见……研究人员发现，新颖性得分较高的申请书获得的评分系统性地低于新颖性较低的对照组；即便名义上的“跨学科”资助项目也无法免于类似的偏见。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 192–193)]]
@@ -73,8 +86,8 @@ updated: 2026-11-05
 > | 维度 | 同行评审新颖性偏见 | [[Status Bias in Peer Review\|同行评审地位偏见]] | [[Benefit of the Doubt in Peer Review\|疑点利益偏袒]] |
 > |---|---|---|---|
 > | **偏误客体** | 研究方案的知识组合与概念新颖度 | 申请人的学术头衔、所属机构与社会资本 | 顶尖精英学者的不确定性边界成果 |
-> | **心理根源** | 认知防御、范式陌异与不确定性规避 | 权威光环效应与声誉信号依赖 | 积极认知偏向与学者信任溢价 |
-> | **典型后果** | 高原创性与跨学科激进探索立项受阻 | 青年学者与普通机构研究者遭遇评审折价 | 资深学者获得同行评审的宽容裁量权 |
+> | **心理根源** | 认知防御、范式陌异与不确定性规避 | 权威[[Halo Effect\|光环效应]]与声誉信号依赖 | 积极认知偏向与学者信任溢价 |
+> | **典型后果** | 高原创性与跨学科激进探索立项受阻 | [[Early-Career Researchers\|青年学者]]与普通机构研究者遭遇评审折价 | 资深学者获得同行评审的宽容裁量权 |
 
 ---
 
@@ -97,44 +110,48 @@ updated: 2026-11-05
 ---
 
 > [!concept-proposition] 命题一｜同行评审专家对高新颖性组合方案存在显著的系统性打分折价
-> **认知不确定性规避与评审折价** 考察评审专家在面对非典型新颖构想时的认知防御心理及其在打分分布中的客观表现。
+> **[[Scientific Uncertainty|认知不确定性]]规避与评审折价** 考察评审专家在面对非典型新颖构想时的认知防御心理及其在打分分布中的客观表现。
 
 > [!claim] Boudreau et al. (2016)
 > **新颖性评分折价** 在严格控制申请人背景的双盲实验中，引入罕见关键词组合的高新颖性申请方案获得的综合评分系统性低于常规方案；这种偏见根植于专家对不熟悉领域的风险厌恶，揭示出常规同行评审天然压制原创探索的制度属性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Boudreau et al., 2016; Wang & Barabási, 2021, pp. 192–193)]]
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
-> **同行评审作为范式守门人对概念创新的结构性压制** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者指出，同行评审在演进中形成了偏向既有成熟范式的保守筛选机制。在审稿负担过重与学术同质性规训下，同行评审对高新颖性假说展现出强烈的风险回避倾向，系统性优先接纳可预测的增量型成果，构成压制青年学者概念突破的结构性滤网。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+> **同行评审作为范式[[Gatekeepers|守门人]]对概念创新的结构性压制** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者指出，同行评审在演进中形成了偏向既有成熟范式的保守筛选机制。在审稿负担过重与学术[[Homophily|同质性]]规训下，同行评审对高新颖性假说展现出强烈的风险回避倾向，系统性优先接纳可预测的增量型成果，构成压制青年学者概念突破的结构性滤网。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+
+> [!claim] [[Argument_Heinze_2009_RP|Heinze et al. (2009)]]
+> **同行评议对早期[[Working Hypothesis|探索性假说]]的体制性排斥** 托马斯·海因策等基于欧美 20 项重大突破案例指出，公共科研资助从机构基线拨款向竞争性同行评审转轨加剧了选题避险。同行评议偏爱合理性与可行性等共识标准，苛求扎实[[Pilot Testing|预实验]]证据，导致高风险、跨学科的前沿假说在早期极易被判定为过于投机而遭遇系统性淘汰。[[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 618–620)]]
 
 ---
 
 > [!concept-proposition] 命题二｜资助申请的跨学科认知距离与获批立项概率呈现负向关联
-> **学科建制藩篱与跨界惩罚** 考察国家级科研基金资助体系中跨学科方案的实际生存率与评审制度障碍。
+> **[[Disciplinary Institutionalization|学科建制]]藩篱与跨界惩罚** 考察国家级科研基金资助体系中跨学科方案的实际生存率与评审制度障碍。
 
 > [!claim] Bromham et al. (2016)
-> **跨学科资助劣势** 即使在宣称鼓励交叉创新的资助通道中，跨越学科边界越远、涉及领域异质性越强的申请方案，其实际立项成功率越低；学科建制的分野导致跨界方案容易遭遇跨学科盲区与挑剔审视的双重挤压。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Bromham et al., 2016; Wang & Barabási, 2021, p. 193)]]
+> **跨学科资助劣势** 即使在宣称鼓励交叉创新的资助通道中，跨越学科边界越远、涉及领域[[Heterogeneity|异质性]]越强的申请方案，其实际立项成功率越低；学科建制的分野导致跨界方案容易遭遇跨学科盲区与挑剔审视的双重挤压。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Bromham et al., 2016; Wang & Barabási, 2021, p. 193)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知折价命题** | 评审专家对罕见知识组合系统性打出偏低分数 | 双盲项目立项打分与评议 | Boudreau et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]]; [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
+> | **认知折价命题** | 评审专家对罕见知识组合系统性打出偏低分数 | 双盲项目立项打分与评议 | Boudreau et al. (2016); [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]]; [[Argument_Heinze_2009_RP\|Heinze et al. (2009)]]; [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
 > | **跨界惩罚命题** | 跨学科距离与国家级资助成功率呈负向相关 | 竞争性跨学科科研基金项目立项 | Bromham et al. (2016) |
 
 ---
 
 > [!dev-timeline] 概念演变
+> - **2009 — 微观质性案例揭示早期探索排斥机制** 海因策等基于欧美 20 项重大突破多[[Case Study|案例研究]]，指出竞争性同行评议的合理性标准鼓励趋同，对处于萌芽期的高风险假说构成体制性排斥。[[Argument_Heinze_2009_RP|(Heinze et al., 2009)]]
 > - **2016 — 顶级医学院双盲打分实验确立折价** 布德罗（Kevin Boudreau）等组织 142 位医学科学家对 15 份项目进行双盲随机评审，首次严格确证新颖性评分折价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Boudreau et al., 2016; Wang & Barabási, 2021, pp. 192–193)]]
 > - **2016 — 澳大利亚国家基金全样本跨界劣势检验** 布朗姆（Lindell Bromham）等分析 18,476 份申请方案，实测确立跨学科距离越远获批率越低。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Bromham et al., 2016; Wang & Barabási, 2021, p. 193)]]
-> - **2021 — 科学学实证综合与评审制度审视** 王大顺与巴拉巴西系统总结新颖性偏见对科研创新的阻滞效应，呼吁建立包容高风险探索的资助机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 192–193)]]
-> - **2026 — 同行评审保守守门机制与创新扼杀** 豪布罗克等系统阐明同行评审在过重负荷与范式维稳压力下对非常规高风险假说的系统性打折，证实高风险资助受挫率达 42%，确立其作为阻碍科学创造力的制度性壁垒。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+> - **2021 — 科学学实证综合与评审制度审视** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统总结新颖性偏见对科研创新的阻滞效应，呼吁建立包容高风险探索的资助机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 192–193)]]
+> - **2026 — 同行评审保守守门机制与创新扼杀** 豪布罗克等系统阐明同行评审在过重负荷与范式维稳压力下对非常规高风险假说的系统性打折，证实高风险资助受挫率达 42%，确立其作为阻碍[[Scientific Creativity|科学创造力]]的制度性壁垒。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 质量筛选审慎 vs 创新压制偏倚
-> > 争论评审专家对高新颖性方案的严格苛评属于负责任的科研质量防线，还是阻碍科学范式突破的保守偏倚。
+> > 争论评审专家对高新颖性方案的严格苛评属于负责任的科研质量防线，还是阻碍[[Scientific Paradigm|科学范式]]突破的保守偏倚。
 > >
 > > - **审慎防线立场** 认为高度激进探索往往伴随高失败率，严格挑剔是保护稀缺公共科研经费免遭浪费的必要机制。
 > > - **创新压制立场** 指出系统性偏见将最具潜力的变革性思想拒之门外，助长了科研选题的同质化与平庸化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 192–193)]]
@@ -146,14 +163,14 @@ updated: 2026-11-05
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]]; Boudreau et al. (2016) | 顶级医学院 142 位医学研究专家，评审 15 份项目方案（生成 2,130 组专家-方案打分） | 双盲随机对照实验与面板回归分析 | 申请书新颖性（非典型关键词组合）与专家打分评分 | 新颖性得分最高的申请方案获得的评审综合得分显著偏低；即便控制申请人履历与机构声誉，高新颖性仍遭遇系统性打分折价 | 回归系数显著负相关（$p < .01$） | 实证确立同行评审专家对陌异新颖概念的内生风险厌恶偏误 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]]; Boudreau et al. (2016) | 顶级医学院 142 位医学研究专家，评审 15 份项目方案（生成 2,130 组专家-方案打分） | 双盲[[Randomised Controlled Trials\|随机对照实验]]与面板回归分析 | 申请书新颖性（非典型关键词组合）与专家打分评分 | 新颖性得分最高的申请方案获得的评审综合得分显著偏低；即便控制申请人履历与机构声誉，高新颖性仍遭遇系统性打分折价 | 回归系数显著负相关（$p < .01$） | 实证确立同行评审专家对陌异新颖概念的内生风险厌恶偏误 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Wang and Barabási (2021)]]; Bromham et al. (2016) | 澳大利亚研究理事会（ARC）Discovery 计划 18,476 份基金申请案 | 全样本资助大数据与跨学科距离计量分析 | 跨学科距离（涉及不同学科类目的认知跨度）与项目获批资助成功率 | 跨学科距离与资助成功率呈单调负相关；跨越学科边界越广泛的方案，其实际资助立项概率显著偏低 | 多变量逻辑回归检验显著（$p < .001$） | 实证打破跨学科资助鼓励修辞，揭示学科建制分割对交叉前沿方案的系统性排斥 |
-> | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 全球科研资助与同行评议调查汇编 | 文献综合与科学政策实证数据分析 | 高风险前沿研究资助受挫率与同行评审负荷 | 包含非常规假说的高风险研究资助申请受挫率达 42%；同行评审过载与范式守门倾向促使评审专家系统性偏好渐进增量型研究 | 跨国实证调查与科学政策数据综合 | 证实同行评审机制在筛选高新颖性研究时存在系统性避险壁垒 |
+> | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 全球科研资助与同行评议调查汇编 | [[Document\|文献]]综合与科学政策实证数据分析 | 高风险前沿研究资助受挫率与同行评审负荷 | 包含非常规假说的高风险研究资助申请受挫率达 42%；同行评审过载与范式守门倾向促使评审专家系统性偏好渐进增量型研究 | 跨国实证调查与科学政策数据综合 | 证实同行评审机制在筛选高新颖性研究时存在系统性避险壁垒 |
 
 ---
 
@@ -165,7 +182,7 @@ updated: 2026-11-05
 > | [[Status Bias in Peer Review]] | 概念 | 同行评议中偏向资深学者与名牌大学声望的评价偏倚。 |
 > | [[Benefit of the Doubt in Peer Review]] | 概念 | 评审专家给予学术权威的信任溢价与宽容裁量权。 |
 > | [[Strategic Conformity in Academia]] | 概念 | 申请人为迎合同行评审偏见而采取的套用热词与求稳从众策略。 |
-> | [[Scientific Creativity]] | 概念 | 新颖性偏见直接抑制非常规科学创造力的立项资助与发表通道。 |
+> | [[Scientific Creativity]] | 概念 | 新颖性偏见直接抑制非常规科学[[Creativity\|创造力]]的立项资助与发表通道。 |
 > | [[Academic Risk Aversion]] | 概念 | 新颖性偏见在评审专家与资助委员会层面的避险心理表现。 |
 
 ---

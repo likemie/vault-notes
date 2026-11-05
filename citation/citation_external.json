@@ -4149,6 +4149,8 @@
     "Caviola et al., 2021": "Caviola et al., 2021",
     "Cawley (1970)": "Cawley, 1970",
     "Cawley, 1970": "Cawley, 1970",
+    "Cech (2005)": "Cech, 2005",
+    "Cech, 2005": "Cech, 2005",
     "Cecilia Osorio Gonnet (2018)": "Cecilia Osorio Gonnet, 2018",
     "Cecilia Osorio Gonnet, 2018": "Cecilia Osorio Gonnet, 2018",
     "Celio et al. (2011)": "Celio et al., 2011",
@@ -15296,6 +15298,8 @@
     "Mansfield et al., 1978": "Mansfield et al., 1978",
     "Manski (1993)": "Manski, 1993",
     "Manski, 1993": "Manski, 1993",
+    "Manso (2011)": "Manso, 2011",
+    "Manso, 2011": "Manso, 2011",
     "Mantzicopoulos (1992a)": "Mantzicopoulos, 1992a",
     "Mantzicopoulos (1992b)": "Mantzicopoulos, 1992b",
     "Mantzicopoulos (2013)": "Mantzicopoulos, 2013",
@@ -55862,7 +55866,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md"
+        "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md",
+        "wiki/facts/us/NIH R01 Grant.md"
       ],
       "title": "Response"
     },
@@ -57884,6 +57889,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Performance of Head Start and non-Head Start participants at first grade"
+    },
+    "Cech, 2005": {
+      "aliases": [
+        "Cech, 2005",
+        "Cech (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cech, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/People, Not Projects.md"
+      ],
+      "title": ""
     },
     "Cecilia Osorio Gonnet, 2018": {
       "aliases": [
@@ -138650,6 +138670,21 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Reflection Problem.md"
+      ],
+      "title": ""
+    },
+    "Manso, 2011": {
+      "aliases": [
+        "Manso, 2011",
+        "Manso (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Manso, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Gustavo Manso.md"
       ],
       "title": ""
     },

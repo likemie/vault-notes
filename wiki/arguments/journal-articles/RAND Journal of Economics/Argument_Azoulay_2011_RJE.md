@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[Pierre Azoulay|Azoulay, P.]]"
   - "Graff Zivin, J. S."
-  - "Manso, G."
+  - "[[Gustavo Manso|Manso, G.]]"
 source_language: en
 citation: "Azoulay, P., Graff Zivin, J. S., & Manso, G. (2011). Incentives and creativity: evidence from the academic life sciences. RAND Journal of Economics, 42(3), 527–554. https://doi.org/10.1111/j.1756-2171.2011.00140.x"
 year: 2011
@@ -26,13 +26,13 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Exploration-Exploitation in Science]]"
   - "[[Paradigm]]"
+  - "[[People, Not Projects]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Citation Distribution]]"
   - "[[Document]]"
-  - "[[Anthropomorphic Model]]"
   - "[[Effective Sample Size]]"
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
@@ -48,15 +48,16 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Ordinary Least Squares]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Gustavo Manso]]"
 related_facts:
   - "[[Howard Hughes Medical Institute]]"
   - "[[National Institutes of Health]]"
   - "[[Web of Science]]"
+  - "[[NIH R01 Grant]]"
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[National Academy of Sciences]]"
   - "[[Advanced Technological Education]]"
-  - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments: []
 sources:
   - "[[sources/Azoulay_2011_RJE/Azoulay_2011_RJE|Azoulay_2011_RJE]]"
@@ -70,7 +71,7 @@ title: "Argument_Azoulay_2011_RJE"
 argument_key: "Argument_Azoulay_2011_RJE"
 argument_display_title: "Incentives and creativity: evidence from the academic life sciences"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -99,11 +100,11 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Manso's Model of Innovation\|曼索创新激励模型]]**<br>[[Manso's Model of Innovation]] | 契约理论模型；形式化证明激励代理人承担未知高风险探索必须同时具备宽容早期失败、奖励长期成功和提供及时专业反馈，否则代理人必然退缩至确定性高的增量利用。 |
+> | **[[Manso's Model of Innovation\|曼索创新激励模型]]**<br>[[Manso's Model of Innovation]] | 契约理论模型；由[[Gustavo Manso\|古斯塔沃·曼索]]形式化提出，证明激励代理人承担未知高风险探索必须同时具备宽容早期失败、奖励长期成功和提供及时专业反馈，否则代理人必然退缩至确定性高的增量利用。 |
 > | **[[Exploration-Exploitation in Science\|科研中的探索与利用]]**<br>[[Exploration-Exploitation in Science]] | 知识搜寻分类框架；将研究活动划分为深耕已知成熟[[Paradigm\|范式]]（利用）与试错未知全新领域（探索），揭示避险考核如何固化科研人员的近邻深耕倾向。 |
 
 > [!warrant]- 理论如何支撑论证
-> 曼索的动态委托代理模型为剖析科研资助契约提供了严谨的数理机理。当委托人依据短期既定交付物考核代理人时，早期探索的高失败率会导致代理人遭受资金断供惩罚，迫使其选择容易交付的平庸课题；HHMI 通过将资助单元从具体课题转换为学者个人，给予五年期自主权、放宽首次考核并提供两年退坡退出缓冲，在现实中构建了容忍早期失败且奖励长程突破的契约形态。这一理论逻辑表明，经验检验应当聚焦于[[Dependent Variable|因变量]]的极端分布方差、关键词变迁度与跨界引用广度，跳脱单纯统计常规平均发文总量的局限。
+> [[Gustavo Manso|曼索]]的动态委托代理模型为剖析科研资助契约提供了严谨的数理机理。当委托人依据短期既定交付物考核代理人时，早期探索的高失败率会导致代理人遭受资金断供惩罚，迫使其选择容易交付的平庸课题；HHMI 通过践行[[People, Not Projects|资助人才而非资助项目]]的治理理念，将资助单元从具体课题转换为学者个人，给予五年期自主权、放宽首次考核并提供两年退坡退出缓冲，在现实中构建了容忍早期失败且奖励长程突破的契约形态。这一理论逻辑表明，经验检验应当聚焦于[[Dependent Variable|因变量]]的极端分布方差、关键词变迁度与跨界引用广度，跳脱单纯统计常规平均发文总量的局限。
 
 ### 核心变量与操作化编码表
 
@@ -114,7 +115,7 @@ issuing_organization: ""
 > | **试错低被引成果（Flops）** | 衡量高风险探索所伴随的未达预期成果或失败实验记录；基于个体学者基线引文分布及全库低分位。 | 统计处于全球引用倒数 25% 的成果数量，以及低于学者入选前自身单篇最低引文基准的失败论著数量。 |
 > | **学术探索方向变动** | 刻画学者是否跨出既有知识舒适区并采用全新概念工具；基于 PubMed 官方医学主题词（Medical Subject Headings, MeSH）。 | 测度学者当年产出所附医学主题词的平均新颖年限，以及任职前后医学主题词的归一化重叠指数。 |
 > | **知识辐射与学科多样性** | 衡量学术产出是否渗透至自身学科以外的广泛前沿阵地；基于被引期刊门类分布。 | 计算引用该学者成果的学术期刊赫芬达尔多样性指数，取值介于 0 至 1 之间。 |
-> | **资助激励制度分类** | 区分两类治理范式：长期人本赋权（HHMI）对垒短期项目考核（NIH 独立研究项目基金，Research Project Grant, R01）。 | 处理变量编码为是否入选 HHMI 资助体系，时间窗口划分为入选前基线期与入选后追踪期。 |
+> | **资助激励制度分类** | 区分两类治理范式：[[People, Not Projects\|长期人本赋权]]（HHMI）对垒短期项目考核（[[NIH R01 Grant\|NIH 独立研究项目基金，Research Project Grant, R01]]）。 | 处理变量编码为是否入选 HHMI 资助体系，时间窗口划分为入选前基线期与入选后追踪期。 |
 >
 > **图表解读** 该操作化方案突破了单纯统计发表篇数或总被引均值的传统局限，通过对称测度顶层峰值突破与底层失败成果，并结合医学主题词词频演化，完整刻画探索行为在统计分布上的特征形态。
 
@@ -159,11 +160,11 @@ issuing_organization: ""
 > [!sub-claim] 1. HHMI 与 NIH 形成鲜明对照：一个资助人且给足自由，一个紧盯项目且不容失败
 
 > [!contrast-table] NIH R01 课题制与 HHMI 研究员项目的资助契约全景对比
-> | 制度维度与条款 | 国立卫生研究院（[[National Institutes of Health\|NIH]] R01 资助体系） | 霍华德·休斯医学研究所（[[Howard Hughes Medical Institute\|HHMI]] 研究员项目） | 契约理论经济学含义 |
+> | 制度维度与条款 | 国立卫生研究院（[[National Institutes of Health\|NIH]] [[NIH R01 Grant\|R01 资助体系]]） | 霍华德·休斯医学研究所（[[Howard Hughes Medical Institute\|HHMI]] 研究员项目） | 契约理论经济学含义 |
 > |---|---|---|---|
-> | **资助单元定位** | 资助项目而非个人（Projects, not people），绑定申报书预设技术路线。 | 资助人而非项目（People, not projects），赋予研究员高度探索自主权。 | 降低代理人偏离预设课题的惩罚风险，赋权转向未知赛道。 |
+> | **资助单元定位** | 资助项目而非个人（Projects, not people），绑定申报书预设技术路线。 | 资助人而非项目（[[People, Not Projects\|People, not projects]]），赋予研究员高度探索自主权。 | 降低代理人偏离预设课题的惩罚风险，赋权转向未知赛道。 |
 > | **初始支持年限** | 通常为 3 至 5 年（样本均值为 3.86 年），评审周期相对短促。 | 固定为 5 年一期，为长周期前沿探索提供充裕时间窗口。 | 延长委托人考核时间范围，匹配探索性活动的孕育周期。 |
-> | **考核审查重点** | 严格核查预设交付物的达成进度与[[Pilot Testing\|预实验]]初步数据。 | 考察学者本[[Anthropomorphic Model\|人的科学]]直觉、原创学术品格与长期研究愿景。 | 破除定量指标绑架，防止研究者在无前景方向上被动履约。 |
+> | **考核审查重点** | 严格核查预设交付物的达成进度与[[Pilot Testing\|预实验]]初步数据。 | 考察学者本人的科学直觉、原创学术品格与长期研究愿景。 | 破除定量指标绑架，防止研究者在无前景方向上被动履约。 |
 > | **早期失败容忍度** | 极度不容忍失败；未按原计划产出预期阳性结果通常导致评审打分暴跌。 | 首次续聘评审标准宽松，重点考察探索野心，极度宽容探索阶段的早期挫折。 | 满足曼索模型第一支柱：消除代理人第一阶段试错风险。 |
 > | **续聘与退出机制** | 竞争性续聘考核失败即刻断供，无任何过渡期保障。 | 续约成功率约 80%；未能续聘者享有长达 2 年的全额退坡退出缓冲期。 | 提供实验室软着陆安全网，消除探索失败导致团队解体的恐惧。 |
 > | **过程学术反馈** | 评审专家匿名书面审查，评审意见多聚焦于具体实验合规性。 | 由知名科学家顾问团面对面深入研讨，提供具有建设性的机理指引。 | 满足曼索模型第三支柱：及时反馈压缩探索试错损耗。 |
@@ -229,14 +230,14 @@ issuing_organization: ""
 > *动态事件研究路径显示，两组的总发表数量在入选后未见显著分化（图 A），但前 5% 顶尖成果自入选后第 2 年起迅速拉开差距，并在 10 年追踪期内持续扩大（图 B）。*
 
 > [!matrix-table] HHMI 任命对不同引文分位数成果产出的多模型估计矩阵
-> | 被解释变量产出层级 | [[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS） | 平均处理效应（Average Treatment Effect, [[Advanced Technological Education\|ATE]]） | 处理组平均处理效应（Average Treatment Effect on the Treated, ATT） | 基础双重差分（Difference-in-Differences, DID） | 半参数双重差分（SDD） |
+> | 被解释变量产出层级 | [[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS） | 平均处理效应（Average Treatment Effect, ATE） | 处理组平均处理效应（Average Treatment Effect on the Treated, ATT） | 基础双重差分（Difference-in-Differences, DID） | 半参数双重差分（SDD） |
 > |---|---|---|---|---|---|
 > | **全部发表篇数** | $0.419^{**}$（$0.076$） | $0.235^{**}$（$0.078$） | $0.227^{*}$（$0.088$） | $0.178^{*}$（$0.072$） | $0.333^{**}$（$0.109$） |
 > | **全球排名前 25% 成果** | $0.514^{**}$（$0.079$） | $0.297^{**}$（$0.085$） | $0.305^{**}$（$0.087$） | $0.212^{**}$（$0.074$） | $0.268^{*}$（$0.114$） |
 > | **全球排名前 5% 成果** | $0.733^{**}$（$0.093$） | $0.482^{**}$（$0.111$） | $0.510^{**}$（$0.102$） | $0.293^{**}$（$0.108$） | $0.439^{**}$（$0.161$） |
 > | **全球排名前 1% 成果** | $0.964^{**}$（$0.133$） | $0.663^{**}$（$0.138$） | $0.817^{**}$（$0.133$） | $0.363^{*}$（$0.148$） | $0.678^{**}$（$0.240$） |
 > | **全球排名后 25% 成果** | $0.181$（$0.128$） | $0.094$（$0.131$） | $0.154$（$0.135$） | $0.187$（$0.292$） | $0.155$（$0.887$） |
-> | **个人基准高被引突破（[[Victorian HITS and Literacy Toolkit\|Hits]]）** | — | — | $0.299^{*}$（$0.128$） | — | $0.356^{**}$（$0.128$） |
+> | **个人基准高被引突破（Hits）** | — | — | $0.299^{*}$（$0.128$） | — | $0.356^{**}$（$0.128$） |
 > | **个人基准低被引试错（Flops）** | — | — | $0.272^{*}$（$0.121$） | — | $0.317^{\dagger}$（$0.162$） |
 
 > [!result-reading]- 极端长尾突破的非线性分位数增长解读
@@ -263,7 +264,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 摆脱繁杂申请释放了精力，同等经费对照证实关键在于制度容错
 
 > [!matrix-table] 入选 HHMI 对学者 NIH 资助依赖与申请行为的替代效应估计矩阵
-> | 行为解释维度 | 普通最小二乘法（OLS） | 平均处理效应（ATE） | 处理组平均处理效应（ATT） | 基础双重差分（DID） | 半参数双重差分（SDD） |
+> | 行为解释维度 | 普通最小二乘法（OLS） | 平均处理效应（[[Advanced Technological Education\|ATE]]） | 处理组平均处理效应（ATT） | 基础双重差分（DID） | 半参数双重差分（SDD） |
 > |---|---|---|---|---|---|
 > | **获得的 NIH 资助金额（$）** | $-0.404^{**}$（$0.095$） | $-0.549^{**}$（$0.099$） | $-0.497^{**}$（$0.094$） | $-0.546^{**}$（$0.105$） | $-0.426^{**}$（$0.115$） |
 > | **提交的 R01 项目申请数** | $-0.521^{**}$（$0.122$） | $-0.603^{**}$（$0.126$） | $-0.486^{**}$（$0.122$） | — | — |

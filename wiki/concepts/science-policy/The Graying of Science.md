@@ -11,7 +11,7 @@ aliases:
 summary: "指现代科学体系中主导科研基金获得者与独立研究团队负责人的平均年龄持续攀升、青年科研人员占比下挫且首次获得资助年龄系统性后移的人口统计学与体制演进现象；以美国国立卫生研究院（NIH）资深与青年资助者比例的大幅倒转为典型标志，反映了同行评议稳妥偏好与延长受训对青年学术独立的挤压。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - theme/research-funding
   - concept/demographic-shift
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Goliath's Shadow]]"
   - "[[Creativity]]"
@@ -41,19 +42,20 @@ related_persons:
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[National Institutes of Health]]"
+  - "[[NIH R01 Grant]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 ---
 
 > [!def] The Graying of Science
-> 科学界老龄化指代现代科研资助生态中主要基金获得者与实验室带头人整体年龄结构向老年阶层系统性偏移的宏观现象。以[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）为代表的资助格局显示，资深学者获得核心研究课题资助的比例呈数倍扩张，而 36 岁及以下青年学者占比急剧缩减，首席研究员首次斩获独立资助的平均年龄大幅后移，形成了制度稳妥偏好与青年学者学术独立起步之间的结构性脱节。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 39–40)]]
+> 科学界老龄化指代现代科研资助生态中主要基金获得者与实验室带头人整体年龄结构向老年阶层系统性偏移的宏观现象。以[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）为代表的资助格局显示，资深学者获得核心研究课题资助的比例呈数倍扩张，而 36 岁及以下[[Early-Career Researchers|青年学者]]占比急剧缩减，首席研究员首次斩获独立资助的平均年龄大幅后移，形成了制度稳妥偏好与青年学者学术独立起步之间的结构性脱节。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 39–40)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示国家级科技资助体系内首席科学家年龄分布的单向高龄化漂移，体现体制筛选机制对不同代际学者的非对称倾斜。
@@ -152,7 +154,7 @@ updated: 2026-11-03
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Alberts et al. (2014)]] | 1980–2010 年间美国 NIH R01 独立科研资助获得者全量档案 | 历时性代际人口统计追踪分析 | 青年（$\le 36$ 岁）与资深（$\ge 66$ 岁）PI 占比 | 青年 PI 占比从 18% 降至 7%；资深 PI 占比从 $<1\%$ 升至 $\sim 7\%$（资历人数增长 10 倍）；两群体比例由 18:1 倒转为 1:2 | 纵向全口径普查数据 | 统计范围严格限定于 NIH R01 资助类别 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Alberts et al. (2014)]] | 1980–2010 年间美国 [[NIH R01 Grant\|NIH R01]] 独立科研资助获得者全量档案 | 历时性代际人口统计追踪分析 | 青年（$\le 36$ 岁）与资深（$\ge 66$ 岁）PI 占比 | 青年 PI 占比从 18% 降至 7%；资深 PI 占比从 $<1\%$ 升至 $\sim 7\%$（资历人数增长 10 倍）；两群体比例由 18:1 倒转为 1:2 | 纵向全口径普查数据 | 统计范围严格限定于 NIH R01 资助类别 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|Jones (2009, 2010)]] | 当代美国 NIH 首席研究员及 1980–2010 年间 96 位获诺奖的 NIH 资助学者 | 年龄基准横向匹配与时序比较 | 首次获得 R01 资助平均年龄与诺贝尔奖奠基性代表作平均产出年龄 | 首次获 R01 资助平均年龄推迟至 42.0 岁；对应诺贝尔奖代表作完成平均年龄为 41.0 岁 | 均值对比呈现倒挂 | 诺奖样本限定于获得过 NIH 基金资助的得主群体 |
 
 ---
