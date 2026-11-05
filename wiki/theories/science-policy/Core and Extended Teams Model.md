@@ -8,7 +8,7 @@ aliases:
 summary: "解释当代科学中团队规模分布从经典泊松分布向重尾幂律分布演进的双重生成模型；区分随机招募成员的小型核心团队与依赖高产学者声誉累积优势快速聚集成员的扩展团队，揭示两类团队在长期存续性与知识生产中的互补分工。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-02
+updated: 2026-11-05
 ---
 
 ---
