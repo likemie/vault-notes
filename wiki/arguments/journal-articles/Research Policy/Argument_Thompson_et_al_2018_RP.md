@@ -67,7 +67,7 @@ sources:
 part_of: ""
 status: completed
 created: 2026-11-04
-updated: 2026-11-05
+updated: 2026-11-06
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Thompson_et_al_2018_RP"
@@ -103,9 +103,9 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | [[Tragedy of the Anticommons|反公地悲剧理论]]<br>Heller and Eisenberg (1998) | 阐明当大量上游基础研究成果被授予排他性专利权时，过多的权利人与高昂的交易成本将导致后续科研人员难以整合必要的研发要素，造成公共知识资源的低效利用。 |
-> | [[Data Withholding|实体排他性与材料扣留理论]]<br>Walsh et al. (2007) | 区分无形专利权利要求与物理实验材料的排他性控制，指出当科学家参与商业活动时，拒绝提供实体研究材料的概率大幅上升，构成阻碍后续实验的直接机制。 |
-> | **市场信号假说与[[Cumulative Innovation|累积创新]]催化论**<br>Sampat and Ziedonis (2004) | 认为专利许可能够公开证实技术成果的商业潜力与科学重要性，向同行传递高质量声誉信号，进而激发更多关联领域的后续探索。 |
+> | [[Tragedy of the Anticommons\|反公地悲剧理论]]<br>Heller and Eisenberg (1998) | 阐明当大量上游基础研究成果被授予排他性专利权时，过多的权利人与高昂的交易成本将导致后续科研人员难以整合必要的研发要素，造成公共知识资源的低效利用。 |
+> | [[Data Withholding\|实体排他性与材料扣留理论]]<br>Walsh et al. (2007) | 区分无形专利权利要求与物理实验材料的排他性控制，指出当科学家参与商业活动时，拒绝提供实体研究材料的概率大幅上升，构成阻碍后续实验的直接机制。 |
+> | **市场信号假说与[[Cumulative Innovation\|累积创新]]催化论**<br>Sampat and Ziedonis (2004) | 认为专利许可能够公开证实技术成果的商业潜力与科学重要性，向同行传递高质量声誉信号，进而激发更多关联领域的后续探索。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将关注焦点从专利权授予本身推进至专利商业许可与实体材料控制的[[Interaction Effect|交互作用]]。反公地假说与实体排他理论预测：当专利成果涉及后续实验必需的有形输入品时，独家商业许可会赋予被许可方控制或限制材料供给的经济动机，形成知识流动阻碍；信号假说则预测：对于无需实体样本交付的一般性发明，商业许可主要充当成果重要性的公开认证，能够提升关联科学成果在学术界的显示度。

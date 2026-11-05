@@ -66,7 +66,7 @@ sources:
 part_of:
 status: draft
 created: 2026-11-03
-updated: 2026-11-04
+updated: 2026-11-06
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_2025_HSSC"
@@ -120,7 +120,7 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable|变量]]操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **颠覆度差异（因变量）**<br>（D_diff） | 学者在爆发期内的学术颠覆度相对爆发期之前的净增量，表征爆发期激发的创造性范式转换强度。 | 采用[[Discounted Cumulative Gain|折损累积增益]]算法分别计算爆发期内与爆发期前 2 年窗口的成果颠覆度总分：$D_{diff} = DCG(D_{during}) - DCG(D_{before})$。主模型基于去除自引与噪声的 $D_5$ 指数，稳健性检验采用无参考分母的 $D_{noR}^5$、百分位排序颠覆度以及求和加总法。 |
+> | **颠覆度差异（因变量）**<br>（D_diff） | 学者在爆发期内的学术颠覆度相对爆发期之前的净增量，表征爆发期激发的创造性范式转换强度。 | 采用[[Discounted Cumulative Gain\|折损累积增益]]算法分别计算爆发期内与爆发期前 2 年窗口的成果颠覆度总分：$D_{diff} = DCG(D_{during}) - DCG(D_{before})$。主模型基于去除自引与噪声的 $D_5$ 指数，稳健性检验采用无参考分母的 $D_{noR}^5$、百分位排序颠覆度以及求和加总法。 |
 > | **爆发期时空特征（自变量）**<br>（length_hot, start_hot_period, start_year_hot） | 学者经历学术爆发期的持续时长与在生涯序列中开启的时间节点。 | `length_hot` 为爆发期持续年数（样本均值 3.67 年）；`start_hot_period` 为从学者首次发表到爆发期起始之间的年份跨度（样本均值 13.09 年）；`start_year_hot` 为爆发期起始年份相对学者平均生涯跨度的相对偏移量。 |
 > | **科研产出与生产力（自变量）**<br>（#pub_before, #pub_during, cits_num_*, D_num_*） | 学者在各阶段的发文总量、获得引用的文献数以及具有正向颠覆度成果的规模。 | `#pub_before` 与 `#pub_during` 分别记录对应时期的发文总数；`cits_num_before` 与 `cits_num_during` 为获得至少 1 次引用的论著数量；`D_num_before` 与 `D_num_during` 为颠覆度大于 0 的论著数量。 |
 > | **团队协作规模（控制变量）**<br>（team_size_before, team_size_during） | 学者在爆发期前后发表成果的平均署名规模。 | 计算对应时期内单篇论著合作人数的算术平均值，控制大团队倾向于巩固、小团队倾向于颠覆对个体成果指标的影响。 |

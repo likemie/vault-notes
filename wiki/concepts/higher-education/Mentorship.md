@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 
 ---
@@ -87,10 +87,10 @@ updated: 2026-11-04
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 传统学术导师制（Faculty Mentorship） | 产学/工业界导师制（Industrial Mentorship） | [[Peer Mentoring|同伴导师制（Peer Mentoring）]] | 行政督导 / 教师考评（Supervision） |
+> | 维度 | 传统学术导师制（Faculty Mentorship） | 产学/工业界导师制（Industrial Mentorship） | [[Peer Mentoring\|同伴导师制（Peer Mentoring）]] | 行政督导 / 教师考评（Supervision） |
 > |---|---|---|---|---|
 > | **互动主体** | 教授/学者与研究生/博士后 | 工业界资深专家与高校科研团队/博士生 | 高年级/资深学长与新手学生 | 行政主管/教研员与一线教师 |
-> | **核心目标** | 科学探究训练、学术独立与职业引领 | 工业需求对齐、真实工程测试与人才直聘 | 学术适应、[[Scaffolding|认知脚手架]]与情感支持 | 教学质量监控与合规性评估 |
+> | **核心目标** | 科学探究训练、学术独立与职业引领 | 工业需求对齐、真实工程测试与人才直聘 | 学术适应、[[Scaffolding\|认知脚手架]]与情感支持 | 教学质量监控与合规性评估 |
 > | **权力动态** | 垂直学术权威与师承契约 | 跨界专业协同与用户驱动评估 | 横向、近同辈对称互动 | 垂直科层权力与等级考核 |
 > | **认知过程** | 隐性思维外显化与长程社会化 | 前沿科学的情境化转化与工艺痛点输入 | 经验共情与低威胁讨论 | 依照标准量表进行绩效评估 |
 

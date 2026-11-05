@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 ---
@@ -90,11 +90,11 @@ updated: 2026-11-05
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 拟人化模型（Anthropomorphic Model） | 行为主义模型（Behaviouristic Model） |
 > |---|---|---|
-> | **基本人性观** | 能动的自身行动发起者，具自由意志与反思[[Creativity|创造力]] | 受外部环境[[Variable|变量]]或生理驱力支配的被动响应器 |
-> | **核心机制** | 意向性赋意、[[Reflexivity|反思性]]监控、规则遵循与理由陈述 | 外部刺激强化、操作条件反射、联结习惯形成 |
+> | **基本人性观** | 能动的自身行动发起者，具自由意志与反思[[Creativity\|创造力]] | 受外部环境[[Variable\|变量]]或生理驱力支配的被动响应器 |
+> | **核心机制** | 意向性赋意、[[Reflexivity\|反思性]]监控、规则遵循与理由陈述 | 外部刺激强化、操作条件反射、联结习惯形成 |
 > | **研究基本单位** | 情境中的社会事件（[[Social Episodes]] in Context） | 孤立割裂的生理或物理行为碎片（Behaviors） |
-> | **核心数据形态** | 当事人的主观说明（[[Accounts]]）、叙事文本与[[Dialogue in Education|对话]][[Rich and Thick Description|深描]] | 客观外显行为频次、实验室反应[[Incubation|潜伏期]]与量化指标 |
-> | **典型方法工具** | 事件分析法（[[Ethogenic Approach]]）、微观民族志 | [[Flanders Interaction Analysis Categories|FIAC]] 机械预设分类编码、受控实验 |
+> | **核心数据形态** | 当事人的主观说明（[[Accounts]]）、叙事文本与[[Dialogue in Education\|对话]][[Rich and Thick Description\|深描]] | 客观外显行为频次、实验室反应[[Incubation\|潜伏期]]与量化指标 |
+> | **典型方法工具** | 事件分析法（[[Ethogenic Approach]]）、微观民族志 | [[Flanders Interaction Analysis Categories\|FIAC]] 机械预设分类编码、受控实验 |
 
 ---
 

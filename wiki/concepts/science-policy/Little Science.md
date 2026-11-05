@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-11-04
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **基础探索生态保障** | 强调小科学与大学基础探索同构，主张以常规稳定增量抵御工程任务挤压 | 国家科技政策资助结构规划与基础学科预算分配 | [[Basic Research and National Goals 1965|COSPUP (1965)]]; [[Argument_Yang_2017_MUE\|杨九斌 (2017)]] |
+> | **基础探索生态保障** | 强调小科学与大学基础探索同构，主张以常规稳定增量抵御工程任务挤压 | 国家科技政策资助结构规划与基础学科预算分配 | [[Basic Research and National Goals 1965\|COSPUP (1965)]]; [[Argument_Yang_2017_MUE\|杨九斌 (2017)]] |
 
 ---
 
