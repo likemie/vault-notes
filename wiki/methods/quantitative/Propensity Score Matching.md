@@ -10,7 +10,7 @@ summary: "一种基于可观测协变量将多维特征压缩为单一参与概�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Sample Size Determination]]"
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
@@ -90,7 +91,7 @@ updated: 2026-11-05
 > - **有效性标准** [[Internal Validity\|内部效度]]取决于协变量的完备性与匹配后各维度标准化均值差（SMD $< 0.10$）；统计推断必须考虑配对依赖性。
 > - **不声称回答的问题** PSM 绝对无法消除未被观测到的混杂因素（如学生天赋动机、校长未公开领导力风格或校内隐性文化）。
 
-> [!contrast-table] 匹配方法横向对比：PSM vs 粗化精确匹配 vs 协变量精确匹配 vs 逆概率加权
+> [!contrast-table] 匹配方法横向对比：PSM vs 粗化精确匹配 vs 协变量精确匹配 vs [[Inverse Probability of Treatment Weighting|逆概率加权]]
 > | 匹配策略 | 空间压缩维度 | 维数灾难敏感度 | 协变量平衡机制 | 适用数据场景与主要瓶颈 |
 > |---|---|---|---|---|
 > | **倾向得分匹配（PSM）** | 压缩为单一概率标量 $[0, 1]$ | **极低**（彻底规避维数灾难） | 基于倾向得分绝对距离配对 | 协变量丰富、[[Sample Size Determination\|样本量]]充裕；但可能存在模型设定偏误。 |

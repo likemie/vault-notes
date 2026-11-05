@@ -368,6 +368,14 @@
       "seen_in": [],
       "title": "Diagnosis and treatment of reading disabilities based on the component model of reading  An alternative to the discrepancy model of LD"
     },
+    "Abadie, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Inverse Probability of Treatment Weighting.md"
+      ],
+      "title": ""
+    },
     "Abadzi, 1984": {
       "datasets": [
         "eef:setting-and-streaming"
@@ -47174,6 +47182,14 @@
       "seen_in": [],
       "title": "The effects of study abroad duration and predeparture proficiency on the L2 proficiency of Japanese university students: A meta-analysis approach."
     },
+    "Hirano & Imbens, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Inverse Probability of Treatment Weighting.md"
+      ],
+      "title": ""
+    },
     "Hirsch, 1988": {
       "doi": "",
       "isbn": "",
@@ -88283,6 +88299,14 @@
       "seen_in": [],
       "title": "Is more better? The effects of full- day vs. half-day preschool on early school achievement"
     },
+    "Robins & Rotnitzky, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/quantitative/Inverse Probability of Treatment Weighting.md"
+      ],
+      "title": ""
+    },
     "Robinson & Kelley, 2007": {
       "doi": "",
       "isbn": "",
@@ -109212,7 +109236,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md",
+        "wiki/concepts/research-methodology/Survivorship Bias.md"
       ],
       "title": ""
     },

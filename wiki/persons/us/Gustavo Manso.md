@@ -95,7 +95,7 @@ updated: 2026-11-05
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 曼索作为共同作者将 2011 年理论模型应用于 HHMI 与 NIH 资助机制的经验检验，实证确立了两阶段动态考核在科学界的有效性。
+> - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 曼索与合作团队将 2011 年理论模型应用于 HHMI 与 NIH 资助机制的经验检验，实证确立了两阶段动态考核在科学界的有效性。
 
 ---
 
@@ -104,7 +104,7 @@ updated: 2026-11-05
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Manso's Model of Innovation]] | Theory | 曼索于 2011 年形式化提出的动态两阶段创新激励契约模型。 |
-> | [[Pierre Azoulay]] | Person | 长期学术合作者，共同推进科研资助制度因果检验的实证经济学家。 |
+> | [[Pierre Azoulay]] | Person | 长期科研合作伙伴，共同推进科研资助制度因果检验的实证经济学家。 |
 > | [[People, Not Projects]] | Concept | 曼索模型在科学政策与私立资助基金会实践中的制度化体现。 |
 > | [[Exploration-Exploitation in Science]] | Concept | 曼索契约模型用以权衡的核心微观科研行为[[Paradigm\|范式]]。 |
 > | [[Howard Hughes Medical Institute]] | Fact (Organization) | 曼索等实证检验其长周期容错契约激励效应的核心机构案例。 |

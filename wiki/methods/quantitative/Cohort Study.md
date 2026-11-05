@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -55,6 +55,7 @@ related_methods:
   - "[[Model Fit Indices in SEM and CFA]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Survey Research]]"
 related_persons:
   - "[[Robert Arnove]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-09
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 ---
@@ -156,7 +157,7 @@ updated: 2026-10-29
 > - **控制效应与测量敏感化** 反复接受访谈或测验使受试者对原本未关注的议题敏感化，改变其自然行为与态度（Riley, 1963），对[[Internal Validity|内部效度]]造成威胁（Gorard, 2001b）。
 > - **生物、环境与干预的[[Interaction Effect|交互作用]]** 生长成熟、历史情境变迁与干预[[Variable|变量]]相互交织，增加了从复合背景中分离纯净因果效应的统计难度（Keeves, 1997a）。
 > - **组织与情境连续性挑战** 在教育系统内部，校长变动、教师更迭、教材换版等体制微调使得长期研究极难完全依循最初方案线性推进。
-> - **补救方式** 采用逆概率加权（IPW）或全信息最大似然估计（FIML）校正流失偏误；设立未受干预的平行对照队列隔离敏感化与历史事件效应；严格执行跨期测量等值性检验。
+> - **补救方式** 采用[[Inverse Probability of Treatment Weighting|逆概率加权]]（IPW）或全信息最大似然估计（FIML）校正流失偏误；设立未受干预的平行对照队列隔离敏感化与历史事件效应；严格执行跨期测量等值性检验。
 
 ---
 

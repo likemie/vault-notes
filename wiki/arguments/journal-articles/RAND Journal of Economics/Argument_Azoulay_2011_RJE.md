@@ -41,7 +41,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Difference-in-Differences]]"
-  - "[[Propensity Score Matching]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Pilot Testing]]"
@@ -124,7 +124,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **反事实样本构建**<br>[[Propensity Score Matching\|逆概率处理加权]] | 鉴于 HHMI 选聘过程存在高度的天资自选择偏误，从 NIH 资助库中筛选获得杰出资深研究扩展奖（Method to Extend Research in Time, MERIT）、青年科学家总统奖（Presidential Early Career Award for Scientists and Engineers, PECASE）及早期杰出调查员奖项的学者群体，运用逻辑回归估计入选概率，采用逆概率处理加权（Inverse Probability of Treatment Weighting, IPTW）构建平衡反事实对照。 |
+> | **反事实样本构建**<br>[[Inverse Probability of Treatment Weighting\|逆概率处理加权]] | 鉴于 HHMI 选聘过程存在高度的天资自选择偏误，从 NIH 资助库中筛选获得杰出资深研究扩展奖（Method to Extend Research in Time, MERIT）、青年科学家总统奖（Presidential Early Career Award for Scientists and Engineers, PECASE）及早期杰出调查员奖项的学者群体，运用逻辑回归估计入选概率，采用[[Inverse Probability of Treatment Weighting\|逆概率处理加权]]（Inverse Probability of Treatment Weighting, IPTW）构建平衡反事实对照。 |
 > | **因果效应识别**<br>[[Difference-in-Differences\|半参数双重差分]] | 结合倾向得分权重运行双向[[Fixed-Effect Model\|固定效应]]的半参数双重差分模型（Semi-parametric Difference-in-Differences, SDD），严格剥离学者个体时间不变的未观测天资差异以及生命科学领域的宏观时间趋势。 |
 > | **计数与极端分布估计**<br>准极大似然泊松估计 | 针对发表篇数及各引文分位数计数的偏态离散分布特征，采用准极大似然泊松模型（Quasi-Maximum Likelihood Poisson, QML Poisson）并对学者个体层面聚类稳健[[Standard Error\|标准误]]实施 Bootstrap 抽样检验。 |
 > | **有界多样性估计**<br>分数逻辑斯特模型 | 针对词汇重叠度与期刊多样性指数等被严格限制在 0 与 1 之间的连续比率变量，采用分数逻辑斯特模型（Fractional Logit）展开参数估计。 |
@@ -207,7 +207,7 @@ issuing_organization: ""
 
 > [!figure]- 图3：HHMI 研究员与对照组科学家在基线产出与资助分布上的平衡性核密度图
 > ![](https://img.mylikemie.icu/sources/Azoulay_2011_RJE/figures/Azoulay_2011_RJE_Fig3_Baseline_Balance.jpg)
-> *入选前作为通讯负责人的累计发表篇数（左图）与累计 NIH 资助金额（右图）核密度分布显示，两组在未经加权前处理组略显右偏，经逆概率倾向得分加权后两组分布高度拟合，消除了基线能力与资源禀赋差异。*
+> *入选前作为通讯负责人的累计发表篇数（左图）与累计 NIH 资助金额（右图）核密度分布显示，两组在未经加权前处理组略显右偏，经[[Inverse Probability of Treatment Weighting|逆概率处理加权]]后两组分布高度拟合，消除了基线能力与资源禀赋差异。*
 
 > [!contrast-table] 处理组与对照组基线特征及全生涯学术成就对比
 > | 观察指标维度 | 对照组：NIH 顶尖获奖学者（N = 393） | 处理组：HHMI 资助研究员（N = 73） | 组间差异实质解读 |
@@ -303,7 +303,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> - **对照组潜在不可观测能力残留** 尽管综合运用了逆概率加权与双重差分模型，但 HHMI 入选者由高度主观的秘密同行委员会遴选产生，对照组学者仍可能在某种无法被既往文献指标度量的隐性学术雄心上存在微弱差异。
+> - **对照组潜在不可观测能力残留** 尽管综合运用了[[Inverse Probability of Treatment Weighting|逆概率处理加权]]与双重差分模型，但 HHMI 入选者由高度主观的秘密同行委员会遴选产生，对照组学者仍可能在某种无法被既往文献指标度量的隐性学术雄心上存在微弱差异。
 > - **实验室团队吸纳效应的测度边界** HHMI 聘任带来的极高学术声望可能会吸引全球最顶尖的博士后与研究生自愿流入其实验室，虽然实证分析通过首位署名顺序与团队成员独立后的发展轨迹进行了控制，但合作团队[[Human Capital Theory|人力资本]]的内生优化可能承担了部分因果解释力。
 > - **学科情境推广性受限** 经验证据完全扎根于高资本投入、高实验周期的学术生命科学领域，对于实验试错成本较低的理论数学或社会科学领域，该激励契约的最优参数可能存在[[Heterogeneity|异质性]]偏移。
 

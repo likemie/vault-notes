@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 127
+related_count: 128
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -99,6 +99,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Discounted Cumulative Gain]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -516,7 +517,7 @@ updated: 2026-11-05
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大学科 24,630 位跨学科学者 | 反事实生涯序列置换实验 | 代表作相对位次 $N^*/N$、年龄突破时序 $t^*$ 与生产力 $n(t)$ | 打乱被引时序后的反事实曲线与真实早年突破曲线重叠；相对位次在 $(0, 1]$ 上服从均匀分布 | 置换检验与均匀分布拟合显著 | 确证科学创造力在学者全生命周期保持恒定，早年突破扎堆纯属发文生产力高峰的抽样假象 |
 > | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018, pp. 3–4)]] | 全球跨学科数千万篇论著与长周期学者发表序列 | 随机影响检验、引文网络重组度量与诺奖案例追踪 | 最高引代表作位次分布、[[Combinatorial Novelty\|非典型组合]]倍率与突破年限 | 代表作在万名学者发表序列中呈绝对平坦的均匀分布；常规基础+非典型跨界组合斩获千次以上高引概率提升至 2 倍；芬恩 70 岁完成奠基工作并于 85 岁获诺贝尔化学奖 | 全球跨学科科研大数据综合 | 实证打破创造力随年龄衰退的传统迷思，确立持续产出与新旧构件平衡混合是科学创造力的核心驱动力 |
 > | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | [[Microsoft Academic Graph\|微软学术图谱]] 19,152 位资深经济学家全生涯发表记录 | 基于 [[Discounted Cumulative Gain\|DCG]] 算法的面板[[Fixed-Effect Model\|固定效应]]回归与微观边际贡献测算 | 发文总量（#pub_during）、期内被引论著与颠覆度增量 $D_{diff}$ | 发文总量显著正向提升颠覆度增量（$\beta = 0.029, p < .001$）；期内被引论著负向抑制颠覆度（$\beta = -0.126, p < .001$）；单篇常规高引工作边际贡献为 −0.097 | 主模型 $R^2 = 0.822, p < .001$ | 证实海量尝试为博取突破机遇提供试错构型基础，而常规高引解谜对颠覆性创造力产生净挤出 |
-> | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 417 位美国顶尖生命科学家微观面板（73 位 HHMI 处理组与 344 位 NIH 对照组，1980–2006 年） | 逆概率加权半参数双重差分模型（IPTW-SDD） | 全球前 1% 引文突破、个人基准试错成果（Flops）与医学主题词新颖度 | 入选 HHMI 显著提高前 1% 顶尖产出（$\beta = 0.678$），试错低引论著同步增加（$\beta = 0.317$），主题词重合度显著降低（$\beta = -0.259$） | $p < .01$ / $p < .10$ | 确证容忍早期失败与长程人本资助契约因果驱动高风险探索与重大突破 |
+> | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 417 位美国顶尖生命科学家微观面板（73 位 HHMI 处理组与 344 位 NIH 对照组，1980–2006 年） | [[Inverse Probability of Treatment Weighting\|逆概率加权]]半参数双重差分模型（IPTW-SDD） | 全球前 1% 引文突破、个人基准试错成果（Flops）与医学主题词新颖度 | 入选 HHMI 显著提高前 1% 顶尖产出（$\beta = 0.678$），试错低引论著同步增加（$\beta = 0.317$），主题词重合度显著降低（$\beta = -0.259$） | $p < .01$ / $p < .10$ | 确证容忍早期失败与长程人本资助契约因果驱动高风险探索与重大突破 |
 
 ---
 

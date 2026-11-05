@@ -513,6 +513,10 @@
     {
       "sentence": "重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的互补多样性支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学创造力的关键制度障碍。",
       "target": "wiki/concepts/competency-and-assessment/Creativity.md"
+    },
+    {
+      "sentence": "**科层隔阂阻断敏捷反馈** 实验室内部滋生层级汇报阻隔，导师与基层研究人员日常接触骤减，早期敏捷试错的互动机制瓦解。",
+      "target": "wiki/concepts/science-policy/Agile Governance.md"
     }
   ]
 }

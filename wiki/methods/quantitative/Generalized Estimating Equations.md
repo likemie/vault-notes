@@ -9,7 +9,7 @@ summary: "用于分析纵向追踪与群聚相关数据的半参数半回归方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Stratified Sampling]]"
   - "[[Robust Variance Estimation]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Simple Difference in Means Model]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-05
 ---
 
 ---
@@ -203,7 +204,7 @@ updated: 2026-10-30
 
 > [!method-limits] 方法局限
 > - **小集群三明治方差向下偏倚** 当集群数量不足 30 所时，经验三明治方差对真实方差的估计存在系统性低估，导致[[Type I and Type II Errors\|第一类错误]]（假阳性）虚高。
-> - **缺失数据处理严苛** GEE 默认仅在数据完全随机缺失（Missing Completely at Random, MCAR）时保持无偏；若数据属于随机缺失（MAR），必须引入逆概率加权（IPW-GEE），否则估计量可能产生偏误（相比之下，全参数 [[Hierarchical Linear Model\|HLM]] 在 MAR 条件下依然无偏）。
+> - **缺失数据处理严苛** GEE 默认仅在数据完全随机缺失（Missing Completely at Random, MCAR）时保持无偏；若数据属于随机缺失（MAR），必须引入[[Inverse Probability of Treatment Weighting|逆概率加权]]（IPW-GEE），否则估计量可能产生偏误（相比之下，全参数 [[Hierarchical Linear Model\|HLM]] 在 MAR 条件下依然无偏）。
 > - **无法进行受试特异性预测** GEE 估计的是宏观边际效应，无法为具体某所学校预测其实际潜在产出值。
 > - **补救方式** 采用小样本纠偏算法；在 MAR 缺失下联合倾向得分赋权；或与 HLM 进行并行双重模型验证（Xiao et al., 2016）。
 

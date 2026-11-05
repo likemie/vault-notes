@@ -26236,6 +26236,19 @@
     ]
   },
   {
+    "title": "Inverse Probability of Treatment Weighting",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Inverse Probability of Treatment Weighting.md",
+    "aliases": [
+      "逆概率处理加权",
+      "IPTW",
+      "倾向得分逆概率加权",
+      "逆概率加权",
+      "Inverse Probability Weighting",
+      "IPW"
+    ]
+  },
+  {
     "title": "Inverse-Variance Weighting",
     "type": "method",
     "path": "wiki/methods/quantitative/Inverse-Variance Weighting.md",

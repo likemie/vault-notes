@@ -9,7 +9,7 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Case Study]]"
   - "[[Cross-sectional Study]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Trautwein_2007_CEP]]"
@@ -54,7 +55,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-30
+updated: 2026-11-05
 ---
 
 > [!def] Longitudinal Study
@@ -122,13 +123,13 @@ updated: 2026-10-30
 > | 典型实例 | NCDS（1958 年启动，追踪约 17,000 人） | BHPS（1991–2008，每年访谈约 10,000 人） |
 
 > [!feature] 三种前瞻性子类型
-> - **队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg and Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体被追踪但在样本内进行选择性抽样，某些成员可能并非每次都纳入。典型代表：英国全国儿童发展研究（National Child Development Study，NCDS，1958 年启动，追踪约 17,000 人）、英国队列研究（BCS70，1970 年）、千禧年队列研究（MCS，2000 年），均由伦敦大学学院教育研究所的纵向研究中心（CLS）管理。
+> - **队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg and Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体被追踪但在样本内进行选择性抽样，某些成员可能不一定每次都纳入。典型代表：英国全国儿童发展研究（National Child Development Study，NCDS，1958 年启动，追踪约 17,000 人）、英国队列研究（BCS70，1970 年）、千禧年队列研究（MCS，2000 年），均由伦敦大学学院教育研究所的纵向研究中心（CLS）管理。
 > - **面板研究（Panel Study）** 追踪每个相同的个体。Lazarsfeld 在 1940 年代引入面板概念，旨在识别因果模式和追踪[[Causality\|因果关系]]中的困难（Ruspini, 2002, p. 13）。典型代表：英国家庭面板调查（British Household Panel Survey，BHPS，1991–2008，每年访谈约 10,000 人），2009 年并入 Understanding Society 研究。
 > - **趋势研究（Trend Study）** 关注因素而非人群，在数据收集的每个阶段抽取新样本但聚焦相同因素。每次抽取不同样本可以避免反应性（reactivity）问题——首次调查可能改变参与者的认知或行为（预试敏感化，pre-test sensitisation），趋势研究通过每轮更换样本切断这种"自我污染"的链条（p.269）。详见 [[Trend Study]] 条目。
 
 ### 回溯性纵向研究
 
-回溯性纵向研究聚焦于已达到某种定义终点或状态的个体。例如，研究者可能关注一组已达到特定状态的年轻人（意愿成为社会工作者、被定罪的毒品罪犯或大学辍学生），追问"这些个体先前的经历中是否有什么可以解释他们目前的处境？"（p.268）。需要明确回溯的时间段（如一年、五年）。
+回溯性纵向研究聚焦于已达到某种定义终点或状态的个体。例如，研究者可能关注一组已达到特定状态的年轻人（意向从事社会工作、被定罪的毒品罪犯或大学辍学生），追问"这些个体先前的经历中是否有什么可以解释他们目前的处境？"（p.268）。需要明确回溯的时间段（如一年、五年）。
 
 回溯分析不限于纵向研究：Rose and Sullivan (1993, p. 185)和 Ruane (2005, p. 87)建议横截面研究也可使用回溯性事实问题（先前职业、家庭成员出生日期、结婚/离婚日期），但 Rose & Sullivan 建议不要在横截面研究中收集其他类型的回溯性数据——回溯越远，数据质量越差（p.268）。
 
@@ -181,7 +182,7 @@ updated: 2026-10-30
 > - **偏误来源** [[Attrition\|样本流失]]偏误（流失者系统性不同于留存者）；[[Pre-test Sensitisation\|预试敏感化]]（首次测量改变后续行为）；历史效应和成熟效应混淆[[Causality\|因果推断]]；测量工具在时间上的不一致（即使名称不变，内容和标准可能变化）；研究团队和方法的变更引入额外变异。
 > - **适用边界** 因果推断的有效性依赖面板数据质量和足够的时间点；个体层面分析仅适用于追踪同一受访者的设计（[[Cohort Study\|面板研究]]），[[Trend Study\|趋势研究]]和重复横截面设计不能进行个体层面分析；回溯性纵向研究依赖参与者记忆的准确性和完整性，越远[[Reliability\|可靠性]]越低。
 > - **误用风险** 将趋势研究或重复横截面的聚合数据解释为个体层面变化；忽视样本流失导致的系统性偏倚（留存者往往更中产阶级化、更健康、更稳定）；将调查本身引发的行为改变误读为自然变化。
-> - **补救方式** 在开始时抽取尽可能大的样本以缓冲流失（Wilson et al., 2006, p. 354）；使用统计方法（如多重插补、逆概率加权）处理缺失数据和选择性流失；采用混合设计——结合面板追踪和补充样本（topping up）；进行敏感性分析以评估流失对结论的影响；通过试测和标准化培训降低研究者变异。
+> - **补救方式** 在开始时抽取尽可能大的样本以缓冲流失（Wilson et al., 2006, p. 354）；使用统计方法（如多重插补、[[Inverse Probability of Treatment Weighting|逆概率加权]]）处理缺失数据和选择性流失；采用混合设计——结合面板追踪和补充样本（topping up）；进行敏感性分析以评估流失对结论的影响；通过试测和标准化培训降低研究者变异。
 
 ---
 

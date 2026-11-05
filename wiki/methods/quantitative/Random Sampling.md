@@ -12,7 +12,7 @@ summary: "从研究总体中按非零且已知概率选取样本单元的方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 43
+method_related_count: 45
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Homophily]]"
   - "[[Global Universities Rankings]]"
   - "[[Performance Pay]]"
   - "[[New Public Management]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Cluster Sampling]]"
   - "[[Stage Sampling]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Systematic Sampling]]"
   - "[[Stratified Sampling]]"
   - "[[Sample Size Determination]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-05
 ---
 
 ---
@@ -112,7 +114,7 @@ updated: 2026-10-30
 > - **研究设计** 抽样调查研究设计、国家大尺度测评（[[National Large-Scale Assessments]], NLSA）抽样监测、横截面与纵向追踪调查。
 > - **数据收集** 基于电子学籍库或组织名册的随机选样、分层多阶段[[Cluster Sampling|整群抽样]]（如[[PISA|国际学生评估项目]] PISA 的两[[Stage Sampling|阶段抽样]]）。
 > - **分析方法** 加权参数估计、复杂抽样方差校准（泰勒级数线性化、刀切法 Jackknife、平衡半样本法 BRR）。
-> - **辅助技术** 伪随机数生成算法、抽样框加权平滑技术、无应答逆概率加权（Inverse Probability Weighting, IPW）与事后分层调整。
+> - **辅助技术** 伪随机数生成算法、抽样框加权平滑技术、无应答[[Inverse Probability of Treatment Weighting|逆概率加权]]（Inverse Probability Weighting, IPW）与事后分层调整。
 
 ---
 
@@ -155,7 +157,7 @@ updated: 2026-10-30
 >
 > **结果怎么读** 算出的数值代表无偏推断所需的样本底线；若总体规模有限，可结合公式 $n_{adj} = \frac{n}{1 + (n-1)/N}$ 进行有限总体修正以削减冗余样本。
 >
-> **注意事项** 该公式假定简单随机抽样；若采用整群抽样，实际样本量必须乘以设计效应系数 $DEFF = 1 + (m-1)\rho$（$m$ 为群规模，$\rho$ 为群内相关系数），以对冲样本同质性带来的统计功效损耗。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch8, p. 145)]]
+> **注意事项** 该公式假定简单随机抽样；若采用整群抽样，实际样本量必须乘以设计效应系数 $DEFF = 1 + (m-1)\rho$（$m$ 为群规模，$\rho$ 为群内相关系数），以对冲样本[[Homophily|同质性]]带来的统计功效损耗。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch8, p. 145)]]
 
 > [!software-impl] 软件实现
 > - **数据处理** 检查抽样框唯一标识码，剔除重复记录，按分层变量排序并计算抽样概率。

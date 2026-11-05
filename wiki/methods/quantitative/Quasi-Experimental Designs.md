@@ -11,9 +11,9 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 89
-method_related_level: 8
-method_related_stars: "💎💎⭐⭐"
+method_related_count: 90
+method_related_level: 9
+method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Visible Learning]]"
   - "[[Commensuration]]"
+  - "[[Screening Off]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Construct Validity]]"
@@ -82,6 +83,7 @@ related_methods:
   - "[[Matching]]"
   - "[[Analysis of Covariance]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Meta-analysis]]"
@@ -92,7 +94,6 @@ related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 related_persons:
   - "[[Mark Ginsburg]]"
-  - "[[Santo Fortunato]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -122,7 +123,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-11-02
+updated: 2026-11-05
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-02
 > 2. **实施全面基线测量** 采集详尽的[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]与背景协[[Variable\|变量]]，严密核验两组基线等值性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。
 > 3. **常态化现场干预实施** 干预组落实新教学方案，对照组维持**常规[[Business as Usual\|照常教学]]（Business-As-Usual, BAU）**，同步监控[[Implementation Fidelity\|实施忠实度]]（Implementation Fidelity）。
 > 4. **终结性后测数据采集** 采用完全相同的独立标准化测验开展后测，系统排查差异性[[Attrition\|样本流失]]（Differential Attrition）。
-> 5. **构建统计因果纠偏模型** 运用[[Difference-in-Differences\|双重差分法]]（DID）、逆概率加权（Inverse Probability Weighting, IPW）或[[Analysis of Covariance\|协方差分析]]（ANCOVA）剥离基线初始差异与自然时间趋势。
+> 5. **构建统计因果纠偏模型** 运用[[Difference-in-Differences\|双重差分法]]（DID）、[[Inverse Probability of Treatment Weighting|逆概率加权]]（Inverse Probability Weighting, IPW）或[[Analysis of Covariance\|协方差分析]]（ANCOVA）剥离基线初始差异与自然时间趋势。
 > 6. **开展替代解释敏感性分析** 针对历史事件、测验敏感化、选择-成熟[[Interaction Effect\|交互作用]]及对照组代偿性努力开展[[Falsification\|证伪]]与安慰剂检验。
 
 ---
@@ -270,7 +271,7 @@ updated: 2026-11-02
 > - **均值回归假象（Regression to the Mean）** 当依据前测极端低分筛选补救干预对象时，后测成绩的提高往往部分源于极端测验误差的统计回归，而非干预方案的纯因果实效。
 > - **设计参数[[Incommensurability|不可通约性]]与跨设计混杂（Design Parameter Incommensurability）** 比较独立两组的组间准实验与追踪同一受试群体的组内前后测设计估计的是完全不同的总体参数（Morris & DeShon, 2002）。二阶[[Metascience|元科学]]审计证实，《[[Visible Learning|可见的学习]]》等宏观证据库存在严重的方法学违规——全库多达 17% 的因素直接混合组间与组内前后测，21% 混合组间实验与[[Correlational Research|相关性研究]]，彻底摧毁了[[Effect Size|效应量]]的可[[Commensuration|通约]]性与因果解释力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 15–16]]）。
 > - **法定单项合规掩盖全量证据赤字** 在证据治理中，单项 QED 易被异化为合规工具，掩盖同一实践在全量证据库中高达 42%–51% 的无支持或负效应现实（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 177]]）。
-> - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials\|RCT]] 一样，若仅报告平均[[Effect Size\|效应量]]，会系统性遗漏学校采纳最急需的微观实施成本、师生满意度与本地适配指南（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]]）。
+> - **实践维度的信息[[Screening Off|遮蔽]]** QED 同 [[Randomised Controlled Trials\|RCT]] 一样，若仅报告平均[[Effect Size\|效应量]]，会系统性遗漏学校采纳最急需的微观实施成本、师生满意度与本地适配指南（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]]）。
 
 ---
 

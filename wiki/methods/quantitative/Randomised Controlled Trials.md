@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 163
+method_related_count: 168
 method_related_level: 16
 method_related_stars: "💎💎💎💎💎⭐"
 method_related_color: "#dcfce7"
@@ -47,11 +47,12 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Policy Brokerage]]"
   - "[[Screening Off]]"
+  - "[[Credibility Revolution]]"
+  - "[[External Validity]]"
   - "[[Metascience]]"
   - "[[Empiricism]]"
   - "[[Positivism]]"
   - "[[Causal Processes]]"
-  - "[[External Validity]]"
   - "[[Emergence]]"
   - "[[Learning Gain]]"
   - "[[Research Question]]"
@@ -119,6 +120,7 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
+  - "[[Inverse Probability of Treatment Weighting]]"
   - "[[Covariate Adjustment]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
@@ -130,11 +132,14 @@ related_methods:
   - "[[Non-intervention Research]]"
   - "[[Observation Method]]"
   - "[[Correlational Research]]"
+  - "[[Pilot Testing]]"
 related_persons:
   - "[[Karl Pearson]]"
   - "[[Richard J. Shavelson]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
@@ -174,6 +179,7 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -186,14 +192,13 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Liu_2023_NHB]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-02
+updated: 2026-11-05
 ---
 
 > [!def] Randomised Controlled Trials
@@ -233,7 +238,7 @@ updated: 2026-11-02
 >
 >   - 2011 — 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）成立，累计资助超 200 项涉及百万学生的大规模试验，通过翻倍[[Effective Sample Size|有效样本量]]显著提升统计功效（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 50]]）。
 >   - 2018 — 《[[Foundations for Evidence-Based Policymaking Act of 2018|2018年循证决策基础法案]]》颁布，推动循证标准从对孤立 RCT 的机械崇拜拓展至跨部门微观行政数据开放共享与综合数据治理（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020, pp. 42–43]]）。
->   - 2018 — 雷纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，公共部门在推进第三代使命导向政策（应对气候与老龄化等[[Wicked Problem|复杂社会难题]]）时，开始吸纳 RCT 与敏捷原型试验，但强调必须超越传统[[New Public Management|新公共管理]]（NPM）静态的“支持并测量”成本效益合规，将试验嵌入动态赋能的[[Lead-and-Learn Paradigm|引领与学习范式]]中（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 796–798]]）。
+>   - 2018 — 雷纳·卡特尔（[[Rainer Kattel]]）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，公共部门在推进第三代使命导向政策（应对气候与老龄化等[[Wicked Problem|复杂社会难题]]）时，开始吸纳 RCT 与敏捷原型试验，但强调必须超越传统[[New Public Management|新公共管理]]（NPM）静态的“支持并测量”成本效益合规，将试验嵌入动态赋能的[[Lead-and-Learn Paradigm|引领与学习范式]]中（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 796–798]]）。
 >   - 2019 — Lortie-Forgues and Inglis (2019) 元再分析 141 项英美大规模教育 RCT（涵盖 122 万学生），揭示其平均效应量仅为 0.06 SD 且[[Confidence Interval|置信区间]]宽达 0.30 SD，引发试验信息量与“效力向实效效应衰减”的大讨论（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 56–57]]）。
 >   - 2020 — 经验期刊中随机实验比例进一步回落至 20%，[[Paradigm|研究范式]]呈现方法多元化（[[Argument_Brady_2023_EPR|Brady et al., 2023, p. 8]]）。
 >   - 2020 — Serpell 批判将 RCT 奉为宏观政策唯一金标准的制度性脱节，指出十年前置实验周期导致研究在出炉时即已技术过时，并结合劳登布什（Stephen Raudenbush, 2015）论证孤立因果效应无法指导宏观系统性治理（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020, pp. 41–42]]）。
@@ -248,7 +253,7 @@ updated: 2026-11-02
 >   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“[[Screening Off|屏蔽]]”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 544–548]]）。
 >   - 2024 — Ginsberg et al. 实证审计 15 个学区 138 项受资助干预，揭示 [[Every Student Succeeds Act|ESSA]] Tier I 法定单项合格门槛导致合规假象（全量研究支持率由 >95% 腰斩至 49%–58%）、学段供给断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。
 >   - 2017 — Boudreau et al. 在哈佛医学院内部研讨会中实施大规模随机对照实地试验，从 400 名科学家中随机结对进行 90 分钟面对面交流，证实消除物理搜寻成本使后续实际科研合作概率相对净增 75%，确立了实验设计在科学组织与学术合作机制评估中的因果识别效力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 249–250]]）。
->   - 2021 — 王大顺与巴拉巴西在《科学学》中系统评估微观计量经济学可信性革命对科学学的塑造，确立随机对照试验在平衡不可观测变量上的最高内部效度，同时揭示微观局部实验确定性与宏观科学政策可推广性之间的内在权衡（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 248–251]]）。
+>   - 2021 — [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在《科学学》中系统评估微观计量经济学[[Credibility Revolution|可信性革命]]对科学学的塑造，确立随机对照试验在平衡不可观测变量上的最高内部效度，同时揭示微观局部实验确定性与宏观科学政策[[External Validity|可推广性]]之间的内在权衡（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 248–251]]）。
 >   - 2024–2026 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）与白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）将 RCT 及部分随机化/抽签试验（Lottery Allocation）引入科研资助机制与同行评议一致性检验，标志着 RCT 从单一政策干预评估拓展为对科学资助体制本身的科学学实证评估工具（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 31–32]]）。
 
 > [!citation-card] 实验技术与变量控制的因果效力
@@ -307,7 +312,7 @@ updated: 2026-11-02
 > **注意事项** 该公式假设方差齐性与正态分布；若存在集群随机化（CRT），必须对标准差和[[Standard Error\|标准误]]进行组内相关系数（ICC）膨胀因子校正，否则会导致[[Type I and Type II Errors\|第一类错误]]率剧烈膨胀。
 
 > [!software-impl] 软件实现
-> - **数据处理** 协变量基线平衡性检验（`cobalt`）、样本流失与无应答分析、缺失值逆概率加权与多重插补。
+> - **数据处理** 协变量基线平衡性检验（`cobalt`）、样本流失与无应答分析、缺失值[[Inverse Probability of Treatment Weighting|逆概率加权]]与多重插补。
 > - **推荐软件** R、Stata、Python。
 > - **核心包或命令** R 语言的 `randomizr`（分层与集群随机分配）、`estimatr`（稳健标准误回归与 ITT 估计）、`lme4`（集群多水平混合效应模型）、`DeclareDesign`（实验功效与设计仿真）；Stata 命令 `ritest`（随机化推断与置换检验）、`mixed`（多水平[[Random-Effects Model|随机效应]]回归）。
 > - **实现流程** 1. 制定并[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）；2. 设定随机种子运行分层/集群随机化；3. 录入基线与后测数据并检验样本损耗；4. 构建[[Covariate Adjustment\|协变量调整]]的意向治疗模型（ITT）并输出聚类稳健标准误；5. 估计 Hedges' g 效应量与 95% [[Confidence Interval\|置信区间]]。
@@ -429,5 +434,5 @@ updated: 2026-11-02
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判[[Meta-meta-analysis|二阶元分析]]将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如[[Class Size|班级规模]]缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党如何将以[[Random Assignment|随机分配]]为代表的美式量化评估规程成套引入“新政”福利改革，在[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目中实施大规模受控试验并由美方机构跨国落地。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 探讨科学学中利用随机对照试验检验学术合作成因（如哈佛医学院研讨会面对面交流将合作概率提升 75%）的因果推断范式，同时指出微观干预实验在确定性与外部效度之间的内在张力（pp. 248–251）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 探讨科学学中利用随机对照试验检验学术合作成因（如哈佛医学院研讨会面对面交流将合作概率提升 75%）的因果推断范式，同时指出微观干[[Pilot Testing|预实验]]在确定性与外部效度之间的内在张力（pp. 248–251）。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 评述科学学中通过实验室受控实验与实地随机对照试验检验机制假说的研究范式（如双盲简历实验检验性别偏误、物理空间随机匹配检验面对面交流对跨学科合作的因果促进），论证微观因果实验对确立科学学因果链条的关键价值（pp. 341–350）。

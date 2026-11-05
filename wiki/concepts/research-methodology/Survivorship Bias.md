@@ -9,10 +9,10 @@ aliases:
 summary: "在数据采集与统计推断中仅纳入经历筛选机制存留下来的成功样本，系统性忽略被淘汰或失败的样本，导致因果推断失真与反事实推断倒错的选择性偏倚"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/research-methodology
   - theme/causal-inference
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Preregistration]]"
   - "[[Initial Teacher Training]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Observation Method]]"
@@ -32,12 +34,16 @@ related_methods:
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Experimental Research]]"
+  - "[[Bibliometric Analysis]]"
+  - "[[Effect Size]]"
   - "[[Regression Discontinuity Design]]"
 related_instruments: []
 related_persons:
   - "[[Abraham Wald]]"
   - "[[Santo Fortunato]]"
 related_facts:
+  - "[[United States Patent and Trademark Office]]"
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
@@ -45,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 ---
@@ -81,7 +87,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **样本可见性非对称** 处于终态的可见数据池由胜出样本主导，淘汰样本的物理轨迹或原始记录在常规数据源中缺失（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 242]]）。
 > - **因果推断反转风险** 忽视未存活个体的致命特征会导致归因逻辑倒错，误将承受非致命打击的表征当作决定生存的关键优势（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 242–243]]）。
-> - **全口径底表穿透要求** 克服偏倚需要打通全量过程数据，例如结合美国专利商标局（United States Patent and Trademark Office, USPTO）全量公开申请库、[[National Institutes of Health|美国国家卫生研究院]]（NIH）未获资助申请底表，以及荷兰科学研究组织（Netherlands Organisation for Scientific Research, NWO）全口径课题申请档案（Bol et al., 2018; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 243]]），重建完整的创造与淘汰管线。
+> - **全口径底表穿透要求** 克服偏倚需要打通全量过程数据，例如结合[[United States Patent and Trademark Office|美国专利商标局]]（United States Patent and Trademark Office, USPTO）全量公开申请库、[[National Institutes of Health|美国国家卫生研究院]]（NIH）未获资助申请底表，以及荷兰科学研究组织（Netherlands Organisation for Scientific Research, NWO）全口径课题申请档案（Bol et al., 2018; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 243]]），重建完整的创造与淘汰管线。
 
 > [!logic-map]- 幸存者偏差发生与纠偏机制
 > ```mermaid
@@ -100,8 +106,8 @@ updated: 2026-11-03
 > [!concept-proposition] 命题一｜仅统计成功存活样本会导致因果逻辑与干预决策的反直觉倒错
 > **样本生成偏差与反事实推断** 探讨当数据仅记录通过生存筛选的个体时，研究者极易将承受非致命打击的暴露特征误认为成功生存的保护因素。
 
-> [!claim] [[Abraham Wald|Wald (1943)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]]
-> **返航弹孔与反向装甲防护推论** 沃尔德在二战统计分析中指出，返航轰炸机上密集分布的弹孔恰恰证明机翼和机身遭击中后战机仍有能力返航，属于非致命损伤；相反，返航飞机上完全没有弹孔的发动机等关键结构，才是未返航飞机遭遇致命摧毁的部位。如果在常规观察中忽略坠毁样本，军方就会做出加强机翼装甲的错误决策。这一经典推论表明，若不获取失败个体的完整记录，仅凭成功样本展开分析必然得出截然相反的虚假结论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 242–243)]]
+> [!claim] Wald (1943); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]]
+> **返航弹孔与反向装甲防护推论** [[Abraham Wald|沃尔德]]在二战统计分析中指出，返航轰炸机上密集分布的弹孔恰恰证明机翼和机身遭击中后战机仍有能力返航，属于非致命损伤；相反，返航飞机上完全没有弹孔的发动机等关键结构，才是未返航飞机遭遇致命摧毁的部位。如果在常规观察中忽略坠毁样本，军方就会做出加强机翼装甲的错误决策。这一经典推论表明，若不获取失败个体的完整记录，仅凭成功样本展开分析必然得出截然相反的虚假结论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 242–243)]]
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
 > **已公开文献与专利数据库的幸存者偏倚警示** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，现有科学学实证分析高度依赖已发表学术论著、获批专利以及成功立项资助等公开数据库，未能涵盖被拒稿件、失败实验记录以及非正式学术交流；这种单一依赖成功存留产出的数据结构，使得学界总结的科研合作与生产力演进图景内生带有幸存者偏差，呼吁整合全流程未见数据以校准对真实科学探索机制的认识。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
@@ -112,7 +118,7 @@ updated: 2026-11-03
 > **失败冲击下的学术职业分流与能力提升机制** 探讨学术竞争中的负向外部冲击如何同时诱发样本非随机流失与留存群体的逆境成长。
 
 > [!claim] Wang, Lee, and Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]]
-> **基金惜败群体的职业淘汰与长期引用反超** 针对美国国家卫生研究院青年学者 R01 资助评审的断点准实验研究表明，早期竞争失利产生双重效应：一方面，惜败申请人在后续十年内从资助系统中永久流失的比例比险胜者高出 2.6 个百分点；另一方面，在克服挫折并坚持科研的学者中，其后续发表的成果平均被引频次比当年险胜的同行高出 6.1%，产出高被引顶尖成果的比例也高出 2.7 个百分点。这一发现证实挫折经历具备筛选并淬炼高韧性个体的积极功能，单纯观察资助成功者将彻底掩盖这种逆境成长规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
+> **基金惜败群体的职业淘汰与长期引用反超** 针对美国国家卫生研究院[[Early-Career Researchers|青年学者]] R01 资助评审的断点准[[Experimental Research|实验研究]]表明，早期竞争失利产生双重效应：一方面，惜败申请人在后续十年内从资助系统中永久流失的比例比险胜者高出 2.6 个百分点；另一方面，在克服挫折并坚持科研的学者中，其后续发表的成果平均被引频次比当年险胜的同行高出 6.1%，产出高被引顶尖成果的比例也高出 2.7 个百分点。这一发现证实挫折经历具备筛选并淬炼高韧性个体的积极功能，单纯观察资助成功者将彻底掩盖这种逆境成长规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
 
 ---
 
@@ -128,7 +134,7 @@ updated: 2026-11-03
 > - **1943 — 概念机理确立** 统计学家[[Abraham Wald|亚伯拉罕·沃尔德]]在哥伦比亚大学统计研究小组中分析盟军战机弹痕分布，提出加强无弹孔部位防护的逆向推理，形式化奠定幸存者偏差的分析基础。
 > - **1970s–1980s — 金融计量与生存分析应用** 经济学界系统揭示共同基金业绩排行中忽略已破产清算基金所造成的收益率虚高，确立排除幸存者偏差的金融计量标准。
 > - **2010s 至今 — 科学学打通全流程底表** 科学学通过获取包含被拒申请与未公开专利的官方全口径过程数据库，将幸存者偏差纠偏引入科技创新政策与学术职业规律研究中。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 241–245)]]
-> - **2018 — 科学学反思已发表文献与专利的幸存者偏倚** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）在《科学》发文指出，现有科学计量分析主要依赖已公开文献与授权专利，系统遗漏了被拒稿件、失败实验与非正式学术交流，导致目前所描绘的科研图景带有内生幸存者偏差，强调需关注全流程失败与淘汰数据。
+> - **2018 — 科学学反思已发表文献与专利的幸存者偏倚** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）在《科学》发文指出，现有[[Bibliometric Analysis|科学计量分析]]主要依赖已公开文献与授权专利，系统遗漏了被拒稿件、失败实验与非正式学术交流，导致目前所描绘的科研图景带有内生幸存者偏差，强调需关注全流程失败与淘汰数据。
 
 ---
 
@@ -146,9 +152,9 @@ updated: 2026-11-03
 > [!ref-table]- 幸存者偏差相关实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 美国国家卫生研究院（NIH）首度申请 R01 资助资历线附近的青年学者（$N = 1,162$ 惜败组 vs $N = 1,007$ 险胜组） | 断点回归准实验追踪（RDD） | 学术系统永久流失率；后续 10 年篇均被引；前 5% 高被引成果产出比例 | 惜败组流失率高 2.6 个百分点（12.6% vs 10.0%）；坚守者篇均被引高 6.1%；前 5% 高被引成果比例为 16.0% vs 13.3% | 流失率差异 $p < 0.05$；顶尖成果比例差异 $p < 0.01$ | 效应仅适用于竞争截断线附近的边缘申请人群体，不可随意向全样本外推 |
+> | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 美国国家卫生研究院（NIH）首度申请 R01 资助资历线附近的青年学者（$N = 1,162$ 惜败组 vs $N = 1,007$ 险胜组） | [[Regression Discontinuity Design\|断点回归]]准实验追踪（RDD） | 学术系统永久流失率；后续 10 年篇均被引；前 5% 高被引成果产出比例 | 惜败组流失率高 2.6 个百分点（12.6% vs 10.0%）；坚守者篇均被引高 6.1%；前 5% 高被引成果比例为 16.0% vs 13.3% | 流失率差异 $p < 0.05$；顶尖成果比例差异 $p < 0.01$ | 效应仅适用于竞争截断线附近的边缘申请人群体，不可随意向全样本外推 |
 
 ---
 
