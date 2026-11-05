@@ -16357,6 +16357,19 @@
     ]
   },
   {
+    "title": "Data Withholding",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Data Withholding.md",
+    "aliases": [
+      "学术材料与数据扣留",
+      "科研材料扣留",
+      "实体材料扣留",
+      "Material Withholding",
+      "Data and Material Withholding",
+      "研究输入品扣留"
+    ]
+  },
+  {
     "title": "Death of Distance",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Death of Distance.md",
@@ -22989,6 +23002,18 @@
       "Three Transformations of Mission-Oriented Policies",
       "骆驼-狮子-儿童使命政策演化模型",
       "three generations of mission-oriented policies"
+    ]
+  },
+  {
+    "title": "Tragedy of the Anticommons",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Tragedy of the Anticommons.md",
+    "aliases": [
+      "反公地悲剧",
+      "反公地悲剧理论",
+      "Anticommons Tragedy",
+      "反公地困境",
+      "Anticommons"
     ]
   },
   {
@@ -43533,6 +43558,18 @@
       "报纸罢工实验",
       "New York Times Strike Quasi-Experiment",
       "1978 New York Times Strike Natural Experiment"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Oncomouse",
+    "type": "fact",
+    "path": "wiki/facts/us/Oncomouse.md",
+    "aliases": [
+      "哈佛致癌小鼠",
+      "致癌小鼠",
+      "肿瘤小鼠",
+      "Harvard Oncomouse"
     ],
     "subtype": "event"
   },

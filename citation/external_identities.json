@@ -4917,7 +4917,8 @@
         "wiki/concepts/science-policy/Market Failure.md",
         "wiki/concepts/science-policy/Transformative System Failures.md",
         "wiki/concepts/university-industry-collaboration/Innovation Policy Paradigms.md",
-        "wiki/concepts/university-industry-collaboration/Learning Economy.md"
+        "wiki/concepts/university-industry-collaboration/Learning Economy.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -16774,6 +16775,14 @@
       ],
       "title": ""
     },
+    "Campbell et al., 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Data Withholding.md"
+      ],
+      "title": ""
+    },
     "Campbell et al., 2012": {
       "doi": "",
       "isbn": "",
@@ -25089,6 +25098,15 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md",
         "wiki/methods/qualitative/Participatory Action Research.md"
+      ],
+      "title": ""
+    },
+    "David, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -46001,7 +46019,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -56873,6 +56892,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cooperative groupings and computer-based instruction  The effects of grouping by ability"
+    },
+    "Kitch, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
+      ],
+      "title": ""
     },
     "Kitchin & Lauriault, 2014": {
       "doi": "",
@@ -74582,6 +74609,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/facts/us/Oncomouse.md",
         "wiki/persons/australia/Philomena Murray.md"
       ],
       "title": "Comparative Regional Integration in the EU and East Asia: Moving beyond Integration Snobbery"
@@ -75827,6 +75856,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of metacognitive strategy instruction on fifth-grade comprehension of expository text"
+    },
+    "Nelson, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Data Withholding.md"
+      ],
+      "title": ""
     },
     "Nelson, 2005": {
       "datasets": [
@@ -100773,7 +100810,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/science-policy/Data Withholding.md"
       ],
       "title": ""
     },
@@ -109377,7 +109415,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
-        "wiki/concepts/university-industry-collaboration/Material Transfer Agreement.md"
+        "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/concepts/university-industry-collaboration/Material Transfer Agreement.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -118898,6 +118938,14 @@
       ],
       "title": ""
     },
+    "汤普森等, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
+      ],
+      "title": ""
+    },
     "沃克与阿德尔曼, 1975": {
       "doi": "",
       "isbn": "",
@@ -119690,6 +119738,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Category Mistake.md"
+      ],
+      "title": ""
+    },
+    "赫勒与艾森伯格, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },

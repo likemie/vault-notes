@@ -3814,9 +3814,11 @@
     "Campbell (2016)": "Campbell, 2016",
     "Campbell (2025)": "Campbell, 2025",
     "Campbell et al. (1964)": "Campbell et al., 1964",
+    "Campbell et al. (2002)": "Campbell et al., 2002",
     "Campbell et al. (2012)": "Campbell et al., 2012",
     "Campbell et al. (2017)": "Campbell et al., 2017",
     "Campbell et al., 1964": "Campbell et al., 1964",
+    "Campbell et al., 2002": "Campbell et al., 2002",
     "Campbell et al., 2012": "Campbell et al., 2012",
     "Campbell et al., 2017": "Campbell et al., 2017",
     "Campbell, 1969": "Campbell, 1969",
@@ -5654,6 +5656,7 @@
     "David (1985)": "David, 1985",
     "David (1990)": "David, 1990",
     "David (2002)": "David, 2002",
+    "David (2004)": "David, 2004",
     "David Berliner (2002)": "David Berliner, 2002",
     "David Berliner (2007)": "David Berliner, 2007",
     "David Berliner, 2002": "David Berliner, 2002",
@@ -5705,6 +5708,7 @@
     "David, 1985": "David, 1985",
     "David, 1990": "David, 1990",
     "David, 2002": "David, 2002",
+    "David, 2004": "David, 2004",
     "Davidson & Nowicki (2012)": "Davidson & Nowicki, 2012",
     "Davidson & Nowicki, 2012": "Davidson & Nowicki, 2012",
     "Davidson & Rees-Mogg (1999)": "Davidson & Rees-Mogg, 1999",
@@ -12938,6 +12942,8 @@
     "Kissinger, 2000": "Kissinger, 2000",
     "Kissoon-Singh (1996)": "Kissoon-Singh, 1996",
     "Kissoon-Singh, 1996": "Kissoon-Singh, 1996",
+    "Kitch (1977)": "Kitch, 1977",
+    "Kitch, 1977": "Kitch, 1977",
     "Kitchin & Lauriault (2014)": "Kitchin & Lauriault, 2014",
     "Kitchin & Lauriault, 2014": "Kitchin & Lauriault, 2014",
     "Kitchin (2014)": "Kitchin, 2014",
@@ -17241,6 +17247,7 @@
     "Nelson (1996)": "Nelson, 1996",
     "Nelson (2002)": "Nelson, 2002",
     "Nelson (2003)": "Nelson, 2003",
+    "Nelson (2004)": "Nelson, 2004",
     "Nelson (2005a)": "Nelson, 2005a",
     "Nelson (2005b)": "Nelson, 2005b",
     "Nelson (2007)": "Nelson, 2007",
@@ -17262,6 +17269,7 @@
     "Nelson, 1996": "Nelson, 1996",
     "Nelson, 2002": "Nelson, 2002",
     "Nelson, 2003": "Nelson, 2003",
+    "Nelson, 2004": "Nelson, 2004",
     "Nelson, 2005": "Nelson, 2005a",
     "Nelson, 2005a": "Nelson, 2005b",
     "Nelson, 2005b": "Nelson, 2005b",
@@ -27110,6 +27118,8 @@
     "汉斯 (1958)": "汉斯, 1958",
     "汉斯, 1949": "汉斯, 1949",
     "汉斯, 1958": "汉斯, 1958",
+    "汤普森等 (2018)": "汤普森等, 2018",
+    "汤普森等, 2018": "汤普森等, 2018",
     "沃克与阿德尔曼 (1975)": "沃克与阿德尔曼, 1975",
     "沃克与阿德尔曼, 1975": "沃克与阿德尔曼, 1975",
     "沈怡 (1915)": "沈怡, 1915",
@@ -27309,6 +27319,8 @@
     "资金规模, 2015": "资金规模, 2015",
     "赖尔 (1949)": "赖尔, 1949",
     "赖尔, 1949": "赖尔, 1949",
+    "赫勒与艾森伯格 (1998)": "赫勒与艾森伯格, 1998",
+    "赫勒与艾森伯格, 1998": "赫勒与艾森伯格, 1998",
     "赵乃传 (1925)": "赵乃传, 1925",
     "赵乃传, 1925": "赵乃传, 1925",
     "赵勇 (2012)": "赵勇, 2012",
@@ -35556,7 +35568,8 @@
         "wiki/concepts/science-policy/Market Failure.md",
         "wiki/concepts/science-policy/Transformative System Failures.md",
         "wiki/concepts/university-industry-collaboration/Innovation Policy Paradigms.md",
-        "wiki/concepts/university-industry-collaboration/Learning Economy.md"
+        "wiki/concepts/university-industry-collaboration/Learning Economy.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -55263,6 +55276,21 @@
       ],
       "title": ""
     },
+    "Campbell et al., 2002": {
+      "aliases": [
+        "Campbell et al., 2002",
+        "Campbell et al. (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Campbell et al., 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Data Withholding.md"
+      ],
+      "title": ""
+    },
     "Campbell et al., 2012": {
       "aliases": [
         "Campbell et al., 2012",
@@ -69030,6 +69058,22 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md",
         "wiki/methods/qualitative/Participatory Action Research.md"
+      ],
+      "title": ""
+    },
+    "David, 2004": {
+      "aliases": [
+        "David, 2004",
+        "David (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "David, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -103720,7 +103764,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -121708,6 +121753,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cooperative groupings and computer-based instruction  The effects of grouping by ability"
+    },
+    "Kitch, 1977": {
+      "aliases": [
+        "Kitch, 1977",
+        "Kitch (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kitch, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
+      ],
+      "title": ""
     },
     "Kitchin & Lauriault, 2014": {
       "aliases": [
@@ -150681,6 +150741,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/facts/us/Oncomouse.md",
         "wiki/persons/australia/Philomena Murray.md"
       ],
       "title": "Comparative Regional Integration in the EU and East Asia: Moving beyond Integration Snobbery"
@@ -152836,6 +152898,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of metacognitive strategy instruction on fifth-grade comprehension of expository text"
+    },
+    "Nelson, 2004": {
+      "aliases": [
+        "Nelson, 2004",
+        "Nelson (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nelson, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Data Withholding.md"
+      ],
+      "title": ""
     },
     "Nelson, 2005a": {
       "aliases": [
@@ -194225,7 +194302,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md"
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/science-policy/Data Withholding.md"
       ],
       "title": ""
     },
@@ -208303,7 +208381,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
-        "wiki/concepts/university-industry-collaboration/Material Transfer Agreement.md"
+        "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/concepts/university-industry-collaboration/Material Transfer Agreement.md",
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },
@@ -224092,6 +224172,21 @@
       ],
       "title": ""
     },
+    "汤普森等, 2018": {
+      "aliases": [
+        "汤普森等, 2018",
+        "汤普森等 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "汤普森等, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
+      ],
+      "title": ""
+    },
     "沃克与阿德尔曼, 1975": {
       "aliases": [
         "沃克与阿德尔曼, 1975",
@@ -225570,6 +225665,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Category Mistake.md"
+      ],
+      "title": ""
+    },
+    "赫勒与艾森伯格, 1998": {
+      "aliases": [
+        "赫勒与艾森伯格, 1998",
+        "赫勒与艾森伯格 (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "赫勒与艾森伯格, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
     },

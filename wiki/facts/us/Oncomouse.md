@@ -5,11 +5,16 @@ aliases:
   - 致癌小鼠
   - 肿瘤小鼠
   - Harvard Oncomouse
-  - OncoMouse
 summary: "哈佛大学科学家于 1984 年培育并于 1988 年获得美国首项高等哺乳动物专利的转基因癌症模型小鼠；哈佛大学将其排他性许可授予杜邦公司引发了高额定价、繁育禁令与到达提成争议，成为全球科技政策与高校技术转移中探讨反公地悲剧与科研工具材料管制的里程碑历史事件。"
 type: fact
 subtype: event
 region: us
+fact_region: "us"
+fact_kind: "event"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#fef3c7"
 tags:
   - fact/event
   - theme/intellectual-property
@@ -20,18 +25,15 @@ related_concepts:
   - "[[Research Tool]]"
   - "[[Material Transfer Agreement]]"
   - "[[Data Withholding]]"
-  - "[[Technology Transfer]]"
-  - "[[Public Value]]"
 related_theories:
   - "[[Tragedy of the Anticommons]]"
-related_methods:
-  - "[[Patent-Paper Pairs]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Bayh-Dole Act of 1980]]"
-  - "[[National Institutes of Health]]"
   - "[[United States Patent and Trademark Office]]"
+  - "[[National Institutes of Health]]"
+  - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
   - "[[Argument_Thompson_et_al_2018_RP]]"
 confidence: high
@@ -58,7 +60,7 @@ updated: 2026-11-05
 >   哈佛大学研究团队成功将激活的人类致癌基因（myc 癌基因）植入小鼠胚胎，培育出极易自发产生乳腺肿瘤的模型动物；哈佛大学向 USPTO 提交涵盖转基因非人哺乳动物的宽泛权利要求，并在 1988 年获得正式授权（US Patent 4,736,866），随后将全球独占实施许可转让给资助该研究的杜邦公司。[[Argument_Thompson_et_al_2018_RP|(Murray, 2010; via Thompson et al., 2018, p. 1062)]]
 >
 > - **1988–1998 — 杜邦严苛商业管制与学术界全面抗争**
->   杜邦公司推行激进的商业独占策略：要求每只小鼠支付数十倍于常规实验动物的高昂费用；严禁科学家在实验室自行繁育子代，强制要求逐次购买；要求学者在公开发表论文前接受杜邦预先审查；强制推行到达提成条款（Reach-Through Royalties），索取利用该小鼠获得的任何后续商业药物研发的利润分成。大批生命科学家被迫放弃肿瘤实验，发明人亦将杜邦合同作为拒绝向同行寄送实验样本的法律合规借口。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
+>   杜邦公司推行激进的商业独占策略：要求每只小鼠支付数十倍于常规实验动物的高昂费用；严禁科学家在实验室自行繁育子代，强制要求逐次购买；要求学者在公开发表论著前接受杜邦预先审查；强制推行到达提成条款（Reach-Through Royalties），索取利用该小鼠获得的任何后续商业药物研发的利润分成。大批生命科学家被迫放弃肿瘤实验，发明人亦将杜邦合同作为拒绝向同行寄送实验样本的法律合规借口。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
 >
 > - **1998–1999 — NIH 介入调停与公共共享备忘录达成**
 >   面对癌症研究进展遭遇大面积延误的严峻危机，NIH 院长哈罗德·瓦姆斯（Harold Varmus）于 1998 年组建科研工具工作组（NIH Working Group on Research Tools），正式界定基础实验工具的公共属性；1999 年 NIH 与杜邦公司签署具有约束力的谅解备忘录（MOU），杜邦同意放弃对联邦资助机构科学家的到达提成与发表审查要求，允许在非营利科研机构内部以简化的[[Material Transfer Agreement|材料转移协议]]（MTA）免费共享小鼠，确立了学术研究非排他使用的制度先例。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
@@ -66,7 +68,7 @@ updated: 2026-11-05
 ---
 
 > [!citation-card] 默里论致癌小鼠引发的制度边界震荡
-> 1984 年，哈佛大学科学家成功培育出具有癌症易感体质的新型小鼠（Oncomouse）。哈佛研究人员为该成果申请了专利，并随后将专利排他性独家许可给杜邦公司。杜邦为每只小鼠设定了高昂价格，严禁科学家自行繁育，要求对论文发表实施审查监督，并坚持对任何使用致癌小鼠获得的商业突破索取到达提成。这一系列严苛条款极大限制了其他科学家对该研究工具的利用。[[Argument_Thompson_et_al_2018_RP|(Murray, 2010, p. 341; via Thompson et al., 2018, p. 1062)]]
+> 1984 年，哈佛大学科学家成功培育出具有癌症易感体质的新型小鼠（Oncomouse）。哈佛研究人员为该成果申请了专利，并随后将专利排他性独家许可给杜邦公司。杜邦为每只小鼠设定了高昂价格，严禁科学家自行繁育，要求对学术成果发表实施审查监督，并坚持对任何使用致癌小鼠获得的商业突破索取到达提成。这一系列严苛条款极大限制了其他科学家对该研究工具的利用。[[Argument_Thompson_et_al_2018_RP|(Murray, 2010, p. 341; via Thompson et al., 2018, p. 1062)]]
 >
 > *In 1984, scientists at Harvard University carefully engineered a new mouse to have a predisposition to cancer, the Oncomouse... The Harvard researchers... patented their creation and subsequently licensed this patent to DuPont... DuPont set a high price per mouse... placed restrictions on breeding programs... demanded publication oversight... and insisted upon a share of any commercial breakthroughs made using the Oncomouse.*
 
@@ -114,7 +116,7 @@ updated: 2026-11-05
 > > 探讨将基础模型小鼠独占化究竟是推动产业投资的良策还是对医学进步的沉重打击。
 > >
 > > - **产业专利辩护视角** 杜邦公司承担了早期高风险的研究资助，若无法获得排他性商业控制权，企业将缺乏动力投入数百万美元用于小鼠的标准化繁育、品系纯化与规模化生产。
-> > - **公共卫生与科学学批评（Murray, 2010; Thompson et al., 2018）** 致癌小鼠本质上是基础研究工具而非最终上市药物，将其排他垄断直接破坏了全球科学界对抗癌症的协同探索网络，造成了严重的知识闲置与效率损失。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
+> > - **公共卫生与科学学批评（Murray, 2010; [[Argument_Thompson_et_al_2018_RP|Thompson et al., 2018]]）** 致癌小鼠本质上是基础研究工具而非最终上市药物，将其排他垄断直接破坏了全球科学界对抗癌症的协同探索网络，造成了严重的知识闲置与效率损失。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 >
 > > [!axis] 生命专利伦理争鸣与公共价值边界
 > > 争论高等哺乳动物是否应当作为工业产权的客体予以排他性垄断。

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Material Transfer Agreement]]"
   - "[[Technology Transfer]]"
+  - "[[Data Withholding]]"
   - "[[Interaction Effect]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -38,7 +39,8 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Big Science]]"
   - "[[Document]]"
-related_theories: []
+related_theories:
+  - "[[Tragedy of the Anticommons]]"
 related_methods:
   - "[[Patent-Paper Pairs]]"
   - "[[Genetic Matching]]"
@@ -53,6 +55,7 @@ related_persons: []
 related_facts:
   - "[[Web of Science]]"
   - "[[United States Patent and Trademark Office]]"
+  - "[[Oncomouse]]"
   - "[[Reach]]"
   - "[[Human Genome Project]]"
   - "[[National Institutes of Health]]"
@@ -62,7 +65,7 @@ sources:
 part_of: ""
 status: completed
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-05
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Thompson_et_al_2018_RP"
@@ -98,8 +101,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **反公地悲剧理论**<br>Heller and Eisenberg (1998) | 阐明当大量上游基础研究成果被授予排他性专利权时，过多的权利人与高昂的交易成本将导致后续科研人员难以整合必要的研发要素，造成公共知识资源的低效利用。 |
-> | **实体排他性与输入品扣留理论**<br>Walsh et al. (2007) | 区分无形专利权利要求与物理实验材料的排他性控制，指出当科学家参与商业活动时，拒绝提供实体研究材料的概率大幅上升，构成阻碍后续实验的直接机制。 |
+> | [[Tragedy of the Anticommons|反公地悲剧理论]]<br>Heller and Eisenberg (1998) | 阐明当大量上游基础研究成果被授予排他性专利权时，过多的权利人与高昂的交易成本将导致后续科研人员难以整合必要的研发要素，造成公共知识资源的低效利用。 |
+> | [[Data Withholding|实体排他性与材料扣留理论]]<br>Walsh et al. (2007) | 区分无形专利权利要求与物理实验材料的排他性控制，指出当科学家参与商业活动时，拒绝提供实体研究材料的概率大幅上升，构成阻碍后续实验的直接机制。 |
 > | **市场信号假说与累积创新催化论**<br>Sampat and Ziedonis (2004) | 认为专利许可能够公开证实技术成果的商业潜力与科学重要性，向同行传递高质量声誉信号，进而激发更多关联领域的后续探索。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -280,8 +283,8 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 实体材料扣留切断了后续实验室的基础科研输入
 
-> [!case] 案例一　致癌小鼠（Oncomouse）独占许可与排他性材料管制
-> - **事件背景与专利许可** 1984 年哈佛大学科学家成功构建携带致癌基因的转基因小鼠（Oncomouse），申请并获得美国专利后，将该专利排他性独家许可给杜邦公司（DuPont）。
+> [!case] 案例一　[[Oncomouse|致癌小鼠（Oncomouse）]]独占许可与排他性材料管制
+> - **事件背景与专利许可** 1984 年哈佛大学科学家成功构建携带致癌基因的转基因小鼠（[[Oncomouse]]），申请并获得美国专利后，将该专利排他性独家许可给杜邦公司（DuPont）。
 > - **材料管控与收益索取** 杜邦公司对实验小鼠推行极高的单鼠采购定价，严禁科研人员自行繁育后代，要求科学家在发表研究成果前接受公司预先审查，并强制要求对任何利用该小鼠获得的后续科研突破索取到达提成（[[Reach|reach]]-through royalties）。
 > - **规避同行索取的免责策略** 严苛的商业条款迫使大批生命科学实验室放弃相关探索。同时，发明人以杜邦许可协议为防御盾牌，借法律条款约束回绝同行的实验材料索取请求（Strandburg, 2008; Murray, 2010）。
 
@@ -323,12 +326,12 @@ issuing_organization: ""
 
 ---
 
-> [!citation-card] Heller and Eisenberg (1998) 论反公地悲剧与生物医学上游知识产权壁垒
+> [!citation-card] Heller and Eisenberg (1998) 论[[Tragedy of the Anticommons|反公地悲剧]]与生物医学上游知识产权壁垒
 > 生物医学研究中的专利保护正在从下游终端产品向上游基础研究工具蔓延。当基础科研构件被分散授予众多私人权利人时，任何后续开发团队都必须在开展工作前与多方当事人分别达成许可协议。高昂的交易成本、战略性扣留与认知偏差将导致谈判破裂，进而阻碍能够拯救生命的新药或新疗法走向临床，造成公共知识财富的严重闲置与科技进步的整体停滞。
 >
 > *A proliferation of intellectual property rights upstream may be stifling life-saving innovations further downstream in the course of research and product development... People often think that private property always promotes efficiency... But privatization can go too far, resulting in an "anticommons" in which multiple owners each have a right to exclude others from a scarce resource and no one has an effective privilege of use.*
 
-> [!citation-card] Walsh et al. (2007) 论实体排他性与商业卷入导致的科研材料扣留
+> [!citation-card] Walsh et al. (2007) 论实体排他性与商业卷入导致的[[Data Withholding|科研材料扣留]]
 > 在学术生物医学研究中，对后续实验构成普遍阻碍与严重延误的实质阻力来自同行对实体科研材料索要请求的直接拒绝。学者卷入商业活动（例如开展专利许可谈判、制定商业计划、创办衍生公司或收取许可收益）时，拒绝向学术界同行提供实验材料、基因序列或细胞系的概率大幅上升 72%。这种有形输入品的物理扣留构成了阻碍科学累积创新的主要实质机制。
 >
 > *Access to research inputs in biomedical research is not frequently impeded by patents, but access to physical materials and data is often delayed or denied... Academic scientists involved in commercial activities, such as licensing negotiations, spin-off firm foundation, or business planning, are significantly more likely to refuse requests for research inputs.*

@@ -9,6 +9,11 @@ aliases:
   - 研究输入品扣留
 summary: "科学社会学与科技政策概念，指学术研究人员在同行索取用于验证或拓展研究的实验材料（如细胞系、质粒、突变动物）或未发表的底层研究数据时，出于商业利益保护、先发发表竞争或专利合规借口，采取拒绝提供、拖延答复或施加严苛限制条件的非共享防卫行为。"
 type: concept
+domain: "science-policy"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - concept/sociology-of-science
@@ -16,22 +21,12 @@ tags:
   - theme/open-science
   - theme/research-integrity
 related_concepts:
-  - "[[Research Tool]]"
-  - "[[Material Transfer Agreement]]"
-  - "[[Technology Transfer]]"
-  - "[[Technology Transfer Office]]"
-  - "[[Public Value]]"
-related_theories:
-  - "[[Tragedy of the Anticommons]]"
-  - "[[Social Contract of Science]]"
-related_methods:
-  - "[[Patent-Paper Pairs]]"
-  - "[[Difference-in-Differences]]"
+  - "[[Patent Citation]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Oncomouse]]"
-  - "[[National Institutes of Health]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Thompson_et_al_2018_RP]]"
 confidence: high
@@ -42,7 +37,7 @@ updated: 2026-11-05
 
 ---
 
-> [!def] Data and Material Withholding
+> [!def] Data Withholding
 > 学术材料与数据扣留指科研人员在学术同行依据学术公开发表成果索取必要的实验输入品（包括生物试剂、细胞系、转基因动物模型、基因序列底表或原始实验数据集）时，通过断然拒绝、无限期拖延或附加苛刻许可条件，实质性封锁研究输入品流通的制度与行为现象。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 
 > [!concept-lens|notitle] 概念透镜
@@ -57,7 +52,7 @@ updated: 2026-11-05
 
 > [!boundary]- 概念边界
 > - 不等于 [[Patent Citation|专利侵权排他]] — 专利排他通过法律诉讼或停止侵权禁令阻断技术的商业制造与销售；材料扣留则通过物理拒绝交付独特的实验输入品直接瘫痪同行的后续探索。
-> - 不等于 学术不端与数据造假 — 数据造假涉及虚构或伪造证据以骗取发表；材料扣留通常发生在已发表真实成果的情境下，作者出于自利或商业约束拒绝同行复现或跟进。
+> - 不等于 学术不端与数据造假 — 数据造假涉及虚构或伪造证据以骗取发表；材料扣留通常发生在已发表真实成果的情境下，原研科研团队出于自利或商业约束拒绝同行复现或跟进。
 
 ---
 
@@ -66,12 +61,12 @@ updated: 2026-11-05
 > |------|------------------------|--------------|----------------------|
 > | **分析对象** | 针对已发表成果关联的物理材料或底层数据请求。 | 针对受专利权保护的技术方案的实施与应用。 | 针对尚未公开发表的科研构想与实验进展。 |
 > | **核心机制** | 物理占有权的排他性控制与合同约束借口。 | 司法诉讼风险与排他性排他权的法定威慑。 | 抢先发表优先权的自我保护机制。 |
-> | **典型表现** | 拒绝派发转基因小鼠、索要到达提成。 | 发送律师侵权警告函、索取巨额许可规费。 | 在学术会议上保留关键参数、推迟论文提交。 |
+> | **典型表现** | 拒绝派发转基因小鼠、索要到达提成。 | 发送律师侵权警告函、索取巨额许可规费。 | 在学术会议上保留关键参数、推迟成果投稿与提交。 |
 
 ---
 
 > [!feature] 核心要素
-> - **实体唯一性与不可替代性** 生物医学与实验科学高度依赖特定细胞株、杂交瘤或基因敲除模型，此类物理材料无法仅凭论文文字描述在短时间内独立复现。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
+> - **实体唯一性与不可替代性** 生物医学与实验科学高度依赖特定细胞株、杂交瘤或基因敲除模型，此类物理材料无法仅凭公开论著的文字描述在短时间内独立复现。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 > - **商业化卷入的利益绑定** 参与专利申请、技术许可或衍生企业运营的研究人员，受制于被许可企业的市场独占诉求与专有保密协议。[[Argument_Thompson_et_al_2018_RP|(Campbell et al., 2002; via Thompson et al., 2018, p. 1068)]]
 > - **合规盾牌策略（Strategic Alibi）** 科学家借助企业许可协议中的排他条款作为正当防卫托词，将个人或团队的防卫性扣留转嫁为外部法律合同约束。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
 
@@ -111,12 +106,12 @@ updated: 2026-11-05
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观行为机制** | 商业化卷入导致科研人员拒绝交付材料的概率上升 72% | 高校科研人员面对外部同行的实验材料与数据索要请求 | Campbell et al. (2002); Walsh et al. (2007) |
-> | **宏观知识阻滞** | 实体科研材料扣留导致学术成果后续被引断崖式萎缩超 50% | 依赖独特生物试剂、模型与质粒的累积性实验研究 | Thompson et al. (2018) |
+> | **宏观知识阻滞** | 实体科研材料扣留导致学术成果后续被引断崖式萎缩超 50% | 依赖独特生物试剂、模型与质粒的累积性实验研究 | [[Argument_Thompson_et_al_2018_RP\|Thompson et al. (2018)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1991 — 早期科学社会学关注** 麦凯恩（Katherine W. McCain）在《科学、技术与人类价值》发表论文，首次系统探讨遗传学领域中由于学术竞争加剧导致的非正式研究信息与物料交流受限现象。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
+> - **1991 — 早期科学社会学关注** 麦凯恩（Katherine W. McCain）在《科学、技术与人类价值》刊发实证研究，首次系统探讨遗传学领域中由于学术竞争加剧导致的非正式研究信息与物料交流受限现象。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 > - **1997–2002 — 全美生命科学实证调查** 布卢门撒尔与坎贝尔等（David Blumenthal & Eric G. Campbell）在《美国医学会杂志》（JAMA）连续发表全国性实证研究，确立了材料与数据扣留（Data Withholding）的量化测量指标，揭示商业化卷入对信息共享的负面冲击。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1061)]]
 > - **2007 — 实体排他性与专利权有效分离** 沃尔什等明确将“专利法律排他性”与“实验材料物理排他性”区分开来，证明科研材料拒绝交付是阻滞生物医学研究的核心现实障碍。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 > - **2018 — 知识流动因果计量确证** 汤普森等运用加利福尼亚大学技术转移微观数据与双重差分模型，确证实体材料扣留直接导致关联成果后续学术引文腰斩 50% 以上。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1060)]]
