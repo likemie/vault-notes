@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
     },
     {
+      "basename": "Professional Interest",
+      "path": "wiki/concepts/higher-education/Professional Interest.md"
+    },
+    {
+      "basename": "Center and Periphery in Higher Education",
+      "path": "wiki/theories/comparative-education/Center and Periphery in Higher Education.md"
+    },
+    {
       "basename": "第九讲_实现中国梦归根到底靠人才靠教育",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/第九讲_实现中国梦归根到底靠人才靠教育.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Arnove_2009_WorldSystems",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
-    },
-    {
-      "basename": "林婉如和吴老师的第一次",
-      "path": "file:/Users/shaoyangwu/Downloads/林婉如和吴老师的第一次.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
     }
   ],
   "omittedPaths": [],
