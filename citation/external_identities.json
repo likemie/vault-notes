@@ -13248,8 +13248,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Keddie_2020_IJLE.md",
-        "wiki/concepts/educational-policy-reform/School Autonomy.md"
+        "wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Keddie_2020_IJLE.md"
       ],
       "title": ""
     },
@@ -20673,6 +20672,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/research-methodology/Anonymity in Research.md",
         "wiki/persons/us/Cindy E. Hmelo-Silver.md",
         "wiki/persons/us/Clark A. Chinn.md"
@@ -35793,7 +35793,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
-        "wiki/concepts/instruction-pedagogy/Active Learning.md"
+        "wiki/concepts/instruction-pedagogy/Active Learning.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
       ],
       "title": ""
     },
@@ -43149,7 +43150,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
       ],
       "title": ""
     },
@@ -44242,6 +44244,14 @@
       ],
       "title": ""
     },
+    "Hanushek et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/School Autonomy.md"
+      ],
+      "title": ""
+    },
     "Hanushek et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -45294,6 +45304,7 @@
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/concepts/instruction-pedagogy/Homework.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
@@ -45301,8 +45312,7 @@
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
         "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
         "wiki/concepts/research-methodology/Ecological Validity.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md",
-        "wiki/concepts/research-methodology/Sampling Error.md"
+        "wiki/concepts/research-methodology/Heterogeneity.md"
       ],
       "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
     },
@@ -57207,6 +57217,7 @@
         "wiki/concepts/educational-policy-reform/STEM Education.md",
         "wiki/concepts/instruction-pedagogy/Control of Variables Strategy.md",
         "wiki/concepts/instruction-pedagogy/Discovery Learning.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/persons/us/David Klahr.md"
       ],
       "title": ""
@@ -61080,7 +61091,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
       ],
       "title": ""
     },
@@ -77331,7 +77343,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
       ],
       "title": ""
     },
@@ -92126,6 +92139,14 @@
       "seen_in": [],
       "title": "Cognitive Tutor Algebra 1  Program evaluation"
     },
+    "Sarmavuori, 1988": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
+      ],
+      "title": ""
+    },
     "Sarsons, 2017": {
       "doi": "",
       "isbn": "",
@@ -102317,6 +102338,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md"
+      ],
+      "title": ""
+    },
+    "Sweller et al., 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Lecturing.md"
       ],
       "title": ""
     },
