@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 82
+method_related_count: 83
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Internal Consistency]]"
 related_arguments:
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
@@ -113,7 +114,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-30
+updated: 2026-11-05
 ---
 
 ---
@@ -233,6 +234,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2007_CE|King (2007)]] — 运用政策文献分析系统比对宗滴恩宣言、DAC 报告、达喀尔纲领与千年宣言，揭示多边机构在政策转译中将基础教育议程窄化为初等量化指标的机制（pp. 377–389）。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 系统比对[[European Commission|欧盟委员会]]公报、工作人员工作文件与[[EU|欧盟]]理事会决议等战略政策文本，对比里斯本目标、[[Education and Training 2020|ET2020]] 与[[European Education Area|欧洲教育区]]指标体系的历史演进与话语流变。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用政策法规与课程大纲文献分析，梳理阿根廷与巴西 1990 年代国家教育法、联邦课程指南及商业教辅目录，结合访谈揭示官方修辞与学校微观实践的剧烈脱节。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] — 系统介绍了文献分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。

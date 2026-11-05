@@ -5509,6 +5509,23 @@
       "title": "Argument_Kickert_1995_Governance",
       "year": "1995"
     },
+    "King (2007)": {
+      "aliases": [
+        "King, 2007",
+        "King (2007)"
+      ],
+      "argument": "Argument_King_2007_CE",
+      "authors": [
+        "[[Kenneth King|King, K.]]"
+      ],
+      "citation": "King, K. (2007). Multilateral agencies in the construction of the global agenda on education. Comparative Education, 43(3), 377–391. https://doi.org/10.1080/03050060701556331",
+      "doi": "10.1080/03050060701556331",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_King_2007_CE.md",
+      "source_language": "en",
+      "title": "Argument_King_2007_CE",
+      "year": "2007"
+    },
     "King (2020)": {
       "aliases": [
         "King, 2020",
@@ -5525,6 +5542,23 @@
       "source_language": "en",
       "title": "Argument_King_2020_ECNUROE",
       "year": "2020"
+    },
+    "King, 2007": {
+      "aliases": [
+        "King, 2007",
+        "King (2007)"
+      ],
+      "argument": "Argument_King_2007_CE",
+      "authors": [
+        "[[Kenneth King|King, K.]]"
+      ],
+      "citation": "King, K. (2007). Multilateral agencies in the construction of the global agenda on education. Comparative Education, 43(3), 377–391. https://doi.org/10.1080/03050060701556331",
+      "doi": "10.1080/03050060701556331",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_King_2007_CE.md",
+      "source_language": "en",
+      "title": "Argument_King_2007_CE",
+      "year": "2007"
     },
     "King, 2020": {
       "aliases": [

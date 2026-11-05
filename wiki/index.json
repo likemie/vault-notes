@@ -38894,6 +38894,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Millennium Development Goals",
+    "type": "fact",
+    "path": "wiki/facts/global/Millennium Development Goals.md",
+    "aliases": [
+      "MDGs",
+      "千年发展目标",
+      "联合国千年发展目标",
+      "UN Millennium Development Goals"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Nagoya Protocol",
     "type": "fact",
     "path": "wiki/facts/global/Nagoya Protocol.md",
@@ -47899,6 +47911,11 @@
     "title": "Argument_Grey_2018_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Grey_2018_CE.md"
+  },
+  {
+    "title": "Argument_King_2007_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_King_2007_CE.md"
   },
   {
     "title": "Argument_Klerides_2023_CE",

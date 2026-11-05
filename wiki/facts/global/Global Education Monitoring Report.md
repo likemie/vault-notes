@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -50,11 +50,12 @@ related_facts:
   - "[[Global Partnership for Education]]"
   - "[[International Institute for Educational Planning]]"
 related_arguments:
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-05
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-10-30
 > - **民办私立化的公平侵蚀隐患** 2021 年报告深入剖析了低成本私立学校在发展中国家的无序扩张，指出将基础教育推向市场化往往加剧阶层隔离，弱化了国家对公共教育的根本托底责任。
 
 > [!stat-cards]- 关键实证数据
-> 覆盖 200 余个国家和地区、累计出版逾 20 部全球年度旗舰专著、委托超 1,000 份国别实证背景论文，是全球所有涉及教育公平政策分析引用频次最高的旗舰监测文库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> 覆盖 200 余个国家和地区、累计出版逾 20 部全球年度旗舰专著、委托超 1,000 份国别实证背景研究报告，是全球所有涉及教育公平政策分析引用频次最高的旗舰监测文库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 
@@ -134,6 +135,12 @@ updated: 2026-10-30
 > >
 > > - **现实主义政治学批评** 认为 GEMR 虽然拥有无懈可击的数据严谨性与崇高道德感，但由于其不能如[[World Bank\|世界银行]]那样通过切断信贷来行使强制性权力，对冥顽不化的违约国家缺乏实质性的惩戒牙齿。
 > > - **[[Constructivist Paradigm\|建构主义]]制度回应** 坚信在[[Governing by Numbers\|数字治理]]与[[Global Citizenship\|全球公民]]社会崛起时代，声誉成本（Reputational Cost）与公共硬事实羞辱（[[Naming and Shaming in Education Governance|Naming and Shaming]]）本身就是重塑国家偏好的强效[[Soft Power\|软权力]]武器。
+>
+> > [!axis] 捐助国主导的外部监测 vs 南方受援国的实质自主拥有
+> > 围绕全球监测机制的公信力与受众定位，比较教育学者审视了监测超结构与南方国家真实拥有感之间的脱节。
+> >
+> > - **肯尼斯·金（Kenneth King）** 指出，《全球监测报告》虽然具备高质量的独立分析，但主要由 11 个双边机构与教科文组织出资，其影响力在很大程度上局限于北方捐助国共同体内部；报告假设受检国家真正拥有相关目标，然而南方受援国往往仅视其为被动遵从的外部施加任务。[[Argument_King_2007_CE|(King, 2007, pp. 387–388)]]
+> > - **多边监测团队与捐助方** 坚称独立的跨国监测是促成透明问责、调动全球教育资金与倒逼受援国履约的核心制度保障。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 仅仅指出问题与资金赤字无法自动带来结构变革；必须将监测指标与受援国本土财政部、议会预算委员会的具体立法程序深度挂钩。
@@ -151,3 +158,11 @@ updated: 2026-10-30
 > | [[International Institute for Educational Planning]] | 事实 (机构) | 教科文组织旗下为 GEMR 报告提供国别规划与财政诊断支持的一类机构。 |
 > | [[Multiple Indicator Cluster Surveys]] | 事实 (项目) | GEMR 报告衡量底层家庭微观教育公平的重要数据来源。 |
 > | [[Soft Power by Hard Facts]] | 概念 | GEMR 以独立严密的硬事实监测行使全球道德[[Soft Power\|软权力]]的典型范例。 |
+> | [[Millennium Development Goals]] | 事实 (政策) | GEMR 承担教育监测职能的核心全球目标之一。 |
+> | [[Kenneth King]] | 人物 | 审视全球监测超结构及其关于受援国自主拥有制度假设的比较教育学者。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_King_2007_CE|King (2007)]] — 考察达喀尔与千年目标之上的监测超结构，揭示全球监测报告对北方捐助界的高度依赖及其关于受援国“国家自主拥有”制度假定的局限（pp. 387–388）。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 阐明国际协定催生的全球基准与多边中介规制机制，揭示 GEMR 报告在推动基于硬事实跨国监测中的关键地位（pp. 541, 544）。

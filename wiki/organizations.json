@@ -3041,6 +3041,12 @@
         "wiki/facts/europe/Bologna Process.md"
       ]
     },
+    "United Nations": {
+      "seen_in": [
+        "wiki/facts/global/Millennium Development Goals.md",
+        "wiki/facts/global/UN Sustainable Development Goals.md"
+      ]
+    },
     "与联邦政府（U.S. Congress & Executive Office of the President）": {
       "seen_in": [
         "wiki/facts/us/Elementary and Secondary Education Act of 1965.md",
@@ -3443,11 +3449,6 @@
     "UNDP": {
       "seen_in": [
         "wiki/facts/global/Education for All.md"
-      ]
-    },
-    "United Nations": {
-      "seen_in": [
-        "wiki/facts/global/UN Sustainable Development Goals.md"
       ]
     },
     "United Nations Convention on Biological Diversity": {

@@ -4758,6 +4758,8 @@
     "Cleary, 2017": "Cleary, 2017",
     "Cleland (2002)": "Cleland, 2002",
     "Cleland, 2002": "Cleland, 2002",
+    "Clemens (2004)": "Clemens, 2004",
+    "Clemens, 2004": "Clemens, 2004",
     "Clements (2007)": "Clements, 2007",
     "Clements (2008)": "Clements, 2008",
     "Clements (2011a)": "Clements, 2011a",
@@ -16270,6 +16272,8 @@
     "Michael Apple, 1982": "Michael Apple, 1982",
     "Michael Clarke (2022)": "Michael Clarke, 2022",
     "Michael Clarke, 2022": "Michael Clarke, 2022",
+    "Michael Clemens (2004)": "Michael Clemens, 2004",
+    "Michael Clemens, 2004": "Michael Clemens, 2004",
     "Michael Deacon (2013)": "Michael Deacon, 2013",
     "Michael Deacon, 2013": "Michael Deacon, 2013",
     "Michael Huberman (1994)": "Michael Huberman, 1994",
@@ -62149,6 +62153,21 @@
         "wiki/concepts/research-methodology/Retrodiction.md"
       ],
       "title": ""
+    },
+    "Clemens, 2004": {
+      "aliases": [
+        "Clemens, 2004",
+        "Clemens (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Clemens, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_King_2007_CE.md"
+      ],
+      "title": "The long walk to school: international educational goals in historical perspective"
     },
     "Clements, 2007": {
       "aliases": [
@@ -145639,6 +145658,21 @@
         "wiki/theories/political-economy-geopolitics/Settler Colonialism.md"
       ],
       "title": ""
+    },
+    "Michael Clemens, 2004": {
+      "aliases": [
+        "Michael Clemens, 2004",
+        "Michael Clemens (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Michael Clemens, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Millennium Development Goals.md"
+      ],
+      "title": "The long walk to school: international educational goals in historical perspective"
     },
     "Michael Deacon, 2013": {
       "aliases": [

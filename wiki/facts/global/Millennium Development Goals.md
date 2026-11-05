@@ -11,6 +11,10 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dbeafe"
 issuing_organization: "United Nations"
 tags:
   - fact/policy
@@ -76,7 +80,7 @@ updated: 2026-11-05
 > [!pathways] 实施路径
 > - **自上而下的指标转译** 多边机构将《千年宣言》提炼为高度可测量的指标清单，并把行动责任主要赋予全球南方国家（前 7 项具有刚性时间表），北方国家发展伙伴责任（目标 8）则保持开放式无时限状态。[[Argument_King_2007_CE|(King, 2007, p. 386)]]
 > - **跨国监测网络铺设** UNDP 在全球数十个国家建立 MDG 专题评估机制，与各受援国政府联合定期编制国别跟踪报告。[[Argument_King_2007_CE|(King, 2007, pp. 387–388)]]
-> - **援助杠杆与优先级重置** 双边与多边机构将援助预算重点锁定于初等入学率指标，促使受援国公共开支向初等教育阶段单点倾斜。[[Argument_King_2007_CE|(King, 2007, pp. 388–389)]]
+> - **援助资金导向与优先级重置** 双边与多边机构将援助预算重点锁定于初等入学率指标，促使受援国公共开支向初等教育阶段单点倾斜。[[Argument_King_2007_CE|(King, 2007, pp. 388–389)]]
 
 ---
 
