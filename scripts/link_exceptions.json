@@ -490,5 +490,11 @@
       "sentence": "**材料管控与收益索取** 杜邦公司对实验小鼠推行极高的单鼠采购定价，严禁科研人员自行繁育后代，要求科学家在发表研究成果前接受公司预先审查，并强制要求对任何利用该小鼠获得的后续科研突破索取到达提成（reach-through royalties）。",
       "target": "wiki/facts/uk/Reach.md"
     }
+  ],
+  "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md": [
+    {
+      "sentence": "考察学者本人的科学直觉、原创学术品格与长期研究愿景。",
+      "target": "wiki/concepts/educational-philosophy/Anthropomorphic Model.md"
+    }
   ]
 }

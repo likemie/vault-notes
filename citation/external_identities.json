@@ -10082,7 +10082,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
+        "wiki/concepts/educational-philosophy/Anthropomorphic Model.md"
       ],
       "title": ""
     },
@@ -12887,6 +12888,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md",
+        "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
       "title": ""
@@ -23524,6 +23526,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Postpositivism.md",
+        "wiki/concepts/research-methodology/Hypothesis.md",
         "wiki/concepts/research-methodology/Rich and Thick Description.md",
         "wiki/concepts/research-methodology/Theoretical Perspective.md",
         "wiki/methods/mixed/Multimethod Research.md"
@@ -35554,6 +35557,14 @@
       ],
       "title": ""
     },
+    "Fred N. Kerlinger, 1970": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Hypothesis.md"
+      ],
+      "title": ""
+    },
     "Frederic Vester, 1975": {
       "doi": "",
       "isbn": "",
@@ -38983,6 +38994,7 @@
         "wiki/concepts/educational-philosophy/Interpretive Paradigm.md",
         "wiki/concepts/educational-philosophy/Principle of Parsimony.md",
         "wiki/concepts/research-methodology/Central Phenomenon.md",
+        "wiki/concepts/research-methodology/Hypothesis.md",
         "wiki/methods/qualitative/Grounded Theory.md",
         "wiki/methods/qualitative/Negative Case Analysis.md",
         "wiki/methods/qualitative/Qualitative Content Analysis.md",
@@ -47967,8 +47979,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/research-methodology/Hypothesis.md"
+        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
     },
@@ -48176,8 +48187,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/research-methodology/Hypothesis.md"
+        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
     },
@@ -67040,6 +67050,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Heterogeneity.md",
+        "wiki/concepts/research-methodology/Hypothesis.md",
         "wiki/concepts/research-methodology/Order Effects.md",
         "wiki/concepts/research-methodology/Type I and Type II Errors.md",
         "wiki/concepts/research-methodology/Visual Data.md",
@@ -70282,8 +70293,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
-        "wiki/concepts/research-methodology/Hypothesis.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
       ],
       "title": ""
     },
@@ -70291,8 +70301,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Principle of Parsimony.md",
-        "wiki/concepts/research-methodology/Hypothesis.md"
+        "wiki/concepts/educational-philosophy/Principle of Parsimony.md"
       ],
       "title": ""
     },
@@ -88646,6 +88655,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
+        "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",
         "wiki/concepts/educational-philosophy/Determinism.md"
       ],
       "title": ""
