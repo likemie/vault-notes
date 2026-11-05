@@ -2326,6 +2326,8 @@
     "Berryman et al., 2018": "Berryman et al., 2018",
     "Berso (2020)": "Berso, 2020",
     "Berso, 2020": "Berso, 2020",
+    "Bertalanffy (1949)": "Bertalanffy, 1949",
+    "Bertalanffy, 1949": "Bertalanffy, 1949",
     "Berth Danermark et al. (2002)": "Berth Danermark et al., 2002",
     "Berth Danermark et al., 2002": "Berth Danermark et al., 2002",
     "Bertrand (2005)": "Bertrand, 2005",
@@ -2481,6 +2483,8 @@
     "Bingham (2016)": "Bingham, 2016",
     "Bingham, 2010": "Bingham, 2010",
     "Bingham, 2016": "Bingham, 2016",
+    "Binnig & Rohrer (1982)": "Binnig & Rohrer, 1982",
+    "Binnig & Rohrer, 1982": "Binnig & Rohrer, 1982",
     "Binuraj (2014)": "Binuraj, 2014",
     "Binuraj, 2014": "Binuraj, 2014",
     "Birch & Muniesa (2020)": "Birch & Muniesa, 2020",
@@ -6879,6 +6883,8 @@
     "Ehri et al., 2001c": "Ehri et al., 2001c",
     "Ehri et al., 2007": "Ehri et al., 2007",
     "Ehri, 2007": "Ehri, 2007",
+    "Einstein (1905)": "Einstein, 1905",
+    "Einstein, 1905": "Einstein, 1905",
     "Eisenberg (1998)": "Eisenberg, 1998",
     "Eisenberg, 1998": "Eisenberg, 1998",
     "Eisenhardt (1989)": "Eisenhardt, 1989",
@@ -44344,6 +44350,21 @@
       "seen_in": [],
       "title": "Peer tutoring  Exploring the effects on learning grade 9 mathematics"
     },
+    "Bertalanffy, 1949": {
+      "aliases": [
+        "Bertalanffy, 1949",
+        "Bertalanffy (1949)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bertalanffy, 1949"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md"
+      ],
+      "title": ""
+    },
     "Berth Danermark et al., 2002": {
       "aliases": [
         "Berth Danermark et al., 2002",
@@ -45504,6 +45525,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Examining the impacts of Systematic and Engaging Early Literacy (SEEL)  Attention to teacher practices and classroom effects across the kindergarten year"
+    },
+    "Binnig & Rohrer, 1982": {
+      "aliases": [
+        "Binnig & Rohrer, 1982",
+        "Binnig & Rohrer (1982)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Binnig & Rohrer, 1982"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md"
+      ],
+      "title": ""
     },
     "Binuraj, 2014": {
       "aliases": [
@@ -77639,6 +77675,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reading Rescue  An Effective Tutoring Intervention Model For Language-Minority Students Who Are Struggling Readers in First Grade"
+    },
+    "Einstein, 1905": {
+      "aliases": [
+        "Einstein, 1905",
+        "Einstein (1905)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Einstein, 1905"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md"
+      ],
+      "title": ""
     },
     "Eisenberg, 1998": {
       "aliases": [
@@ -190904,6 +190955,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md",
         "wiki/concepts/learning-science-cognitive-science/Executive Function.md",
         "wiki/theories/research-methodology/Classical Test Theory.md"
       ],
