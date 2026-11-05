@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 95
-fact_related_level: 9
-fact_related_stars: "💎💎💎"
+fact_related_count: 108
+fact_related_level: 10
+fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: government-research-agency
 headquarters: "Alexandria, Virginia, USA"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Engineering Education]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Sunset Provisions]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Academic Entrepreneurship]]"
@@ -41,35 +42,45 @@ related_concepts:
   - "[[Golden Ticket Mechanism]]"
   - "[[Portable Fellowship]]"
   - "[[Document]]"
+  - "[[Survivorship Bias]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Seed Funding]]"
   - "[[Valley of Death]]"
   - "[[Co-Design]]"
+  - "[[Research Universities]]"
+  - "[[Knowledge Production]]"
+  - "[[Scientific Creativity]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Market Fundamentalism]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Gatekeepers]]"
   - "[[Scientific Literacy]]"
+  - "[[Original Innovation Capability]]"
+  - "[[Early-Career Researchers]]"
   - "[[Scale Enlargement]]"
   - "[[Scientific Method]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Pull Mechanisms for Innovation]]"
-  - "[[Research Universities]]"
+  - "[[Big Science]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Center of Calculation]]"
+  - "[[Return on Investment]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Developmental Network State]]"
   - "[[Social Contract of Science]]"
 related_methods:
+  - "[[Mechanism Experiments]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[External Auditor]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Harry S. Truman]]"
+  - "[[Alan T. Waterman]]"
   - "[[Richard C. Atkinson]]"
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
@@ -87,6 +98,7 @@ related_facts:
   - "[[United States Congress]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Board]]"
+  - "[[Sputnik Shock 1957]]"
   - "[[National Defense Education Act of 1958]]"
   - "[[Industry-University Cooperative Research Centers]]"
   - "[[SBIR and STTR Programs]]"
@@ -98,13 +110,13 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
+  - "[[Advanced Technological Education]]"
+  - "[[SciSciNet]]"
   - "[[NSF X-Labs]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[DARPA]]"
-  - "[[Advanced Technological Education]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[National Semiconductor Technology Center]]"
-  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Fan_2026_BCAS]]"
@@ -126,6 +138,7 @@ related_arguments:
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Heinze_2009_RP]]"
   - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
@@ -133,7 +146,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 ---
@@ -142,7 +155,7 @@ updated: 2026-11-04
 > 美国国家科学基金会（National Science Foundation, NSF）是美国联邦政府负责促进非医学领域基础科学、工程技术研究、科学教育以及前沿跨学科创新的核心独立官方资助机构；作为二战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的民事基石，与[[Office of Naval Research|海军研究办公室]]（ONR）、原子能委员会（[[ASEAN Economic Community|AEC]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）形成机制协同，统领全美大学基础研究投资、科学、技术、工程与数学教育（[[STEM Education|STEM]]）改革以及产学研区域协同创新网络。在《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体战略中，NSF 联合主持白宫微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]），统领未来半导体（FuSe）前沿攻关与全美纳米中试设施；在 2026 年国家科技战略重塑中，NSF 进一步肩负起探索[[Metascience|元科学]]资助机制创新、依托技术创新合作理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）孵化[[NSF Regional Innovation Engines|区域创新引擎]]与支持新型[[Focused Research Organization|聚焦研究组织]]（FRO）的战略重任。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1950 年依据[[United States Congress|美国国会]]立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向杜鲁门总统呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
+> - **成立时间 / 创设背景** 1950 年依据[[United States Congress|美国国会]]立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向[[Harry S. Truman|杜鲁门总统]]呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
 > - **总部地点 / 业务辐射** 总部位于美国弗吉尼亚州亚历山德里亚（Alexandria, Virginia），业务资助与合作网络辐射全美 2,000 多所高校、科研院所、学区以及数十个跨部门区域创新网络。
 > - **法人属性与经费基础** 属于美国联邦政府独立行政机构，享有国会独立财政预算拨款，年度科研投资预算约 90 至 100 亿美元，约占美国大学所获联邦非医学基础科研资助总额的四分之一。
 > - **核心宗旨与法定职责** 法定使命为“促进科学进步；增进国家健康、繁荣与福利；保障国家安全”；资助自由探索的[[Curiosity-Driven Research|蓝天研究]]、推进全纳的科学与[[Engineering Education|工程教育]]（[[STEM Education]]），并通过产学研协同机制促进实验室成果向经济生产力转化。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
@@ -159,10 +172,10 @@ updated: 2026-11-04
 
 - **1951–1968** **冷战初创生存博弈、卫星危机转折与基础研究主渠道确立**
 
-  建会初期在军方机构垄断与国会实用主义偏好下历经生存危机；首任主任[[Alan T. Waterman|艾伦·沃特曼]]（Alan T. Waterman）公开发声抵制军方对大学科研的计划性控制；卫星危机爆发后联邦研发预算直线上升，NSF 打破国防部与原子能委员会以武器合同对高校研发的垄断（曾占 76%），成为国家资助大学自由基础研究的核心中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36–37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]; [[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]
+  建会初期在军方机构垄断与国会[[Pragmatic Paradigm|实用主义]]偏好下历经生存危机；首任主任[[Alan T. Waterman|艾伦·沃特曼]]（Alan T. Waterman）公开发声抵制军方对大学科研的计划性控制；卫星危机爆发后联邦研发预算直线上升，NSF 打破国防部与原子能委员会以武器合同对高校研发的垄断（曾占 76%），成为国家资助大学自由基础研究的核心中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36–37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]; [[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]
 
   - **1951–1953** 朝鲜战争开支紧缩与麦卡锡主义政治审查导致国会大幅削减纯科学申请，1952 财年申请 1400 万美元仅获批 350 万美元（众议院初裁仅 30 万美元），1953 财年申请 1500 万仅获批 475 万美元。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
-  - **1957** 国际地球物理年（IGY）启动，预算申请获全额批准（4000 万美元）；同年 10 月苏联发射 Sputnik 卫星引爆全美科技危机。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
+  - **1957** 国际地球物理年（IGY）启动，预算申请获全额批准（4000 万美元）；同年 10 月苏联发射 [[Sputnik Shock 1957|Sputnik]] 卫星引爆全美科技危机。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
   - **1958** 国会通过《[[National Defense Education Act of 1958|国防教育法]]》（NDEA），向 NSF 注入巨额资金，NSF 预算两年内激增 250%，成为全美大学基础学科与研究生培养的主力渠道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]; [[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
   - **1960 年代** 资助全美高校计算机实验室建设（占采购支出的 66%）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
   - **1968** 国会通过 NSF 修正案，正式授权 NSF 涉足应用研究并资助全层级科学教育。
@@ -184,13 +197,13 @@ updated: 2026-11-04
 
 - **2022–2024** **《[[CHIPS and Science Act|芯片法案]]》赋能、[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与国家微电子战略协同**
 
-  依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。在[[National Science and Technology Council|国家科学技术委员会]]（NSTC）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；设立未来半导体前沿（FuSe）专项计划，统领全美 16 个高校开放纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与先进技术教育（ATE）技术员培养体系。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 26–28)]]
+  依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。在[[National Science and Technology Council|国家科学技术委员会]]（NSTC）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；设立未来半导体前沿（FuSe）专项计划，统领全美 16 个高校开放纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与[[Advanced Technological Education|先进技术教育]]（ATE）技术员培养体系。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 26–28)]]
 
 - **2023** **全量科研资助与论著关联网络规范化解析**
 
-  林子敬等依托 SciSciNet 开放数据湖研发非结构化引文解析流水线，成功将 1,309,518 条非结构化 NSF 资助字符串高精度对齐至核心主出版物，首次建立起覆盖跨学科领域的全景 NSF 资助-产出-转化实证数据库。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+  林子敬等依托 [[SciSciNet|SciSciNet 开放数据湖]]研发非结构化引文解析流水线，成功将 1,309,518 条非结构化 NSF 资助字符串高精度对齐至核心主出版物，首次建立起覆盖跨学科领域的全景 NSF 资助-产出-转化实证数据库。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
-- **2025–2026** **[[Metascience|元科学]]单元设立、资助机制试验与非学术组织直接资助**
+- **2025–2026** **[[Metascience|元科学]]单元设立、资助[[Mechanism Experiments|机制试验]]与非学术组织直接资助**
 
   白宫科技战略报告系统诊断 NSF 沿袭自 1950 年代的学科分立壁垒与 42%–44% 的行政文书负担，要求建立直属独立[[Metascience|元科学]]单元以推行[[Randomised Controlled Trials|随机对照试验]]（RCTs）；通过 TIP [[NSF X-Labs|X-Labs]] 突破大学系所界限、直接资助新型[[Focused Research Organization|聚焦研究组织]]（FRO）；全面推行金券制（Golden Tickets）、对人长期资助与可携带式研究生早期奖学金；并依据《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令建立强制性代码数据开源与复现机制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 26–28, 31–32, 65–66)]]
 
@@ -207,7 +220,7 @@ updated: 2026-11-04
 > - **TIP [[NSF X-Labs|X-Labs]] 与新型科研组织直接资助** 突破传统仅向大学系所拨款的限制，TIP X-Labs 开始直接资助具备全职工程师团队的独立[[Focused Research Organization|聚焦研究组织]]（FRO），围绕全脑神经动机环路绘制等中等规模公共品科学开展攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
 > - **可携带式早期学者奖学金（[[Portable Fellowship|Portable Fellowships]]）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
-> - **跨学科团队资助与协调成本监测** 基金会对资助项目的全流程跟踪评估显示，高度跨学科与跨机构攻关团队在发表前阶段面临显著沟通磨合障碍与协调成本，流产与未发表风险偏高；资助成效评估需警惕[[Document|文献]]引文多样性溢价背后的幸存者偏差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 118)]]
+> - **跨学科团队资助与协调成本监测** 基金会对资助项目的全流程跟踪评估显示，高度跨学科与跨机构攻关团队在发表前阶段面临显著沟通磨合障碍与协调成本，流产与未发表风险偏高；资助成效评估需警惕[[Document|文献]]引文多样性溢价背后的[[Survivorship Bias|幸存者偏差]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 118)]]
 
 ---
 
@@ -231,13 +244,13 @@ updated: 2026-11-04
 ---
 
 > [!indicators] 影响力维度与指标
-> - **资源与网络规模** 年度联邦科研预算规模约 90–100 亿美元，资助网络辐射全美 2,000 余所研究型大学与学术机构，占全美高校所获联邦非医学基础科研资助总额的近四分之一。
-> - **学术与知识生产** 资助覆盖全部非医学自然科学与工程技术学科，支持成果累计产生数百位诺贝尔奖得主；在 SciSciNet 开放数据湖中成功对齐并贯通 1,309,518 篇核心主出版物的科研资助链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **资源与网络规模** 年度联邦科研预算规模约 90–100 亿美元，资助网络辐射全美 2,000 余所[[Research Universities|研究型大学]]与学术机构，占全美高校所获联邦非医学基础科研资助总额的近四分之一。
+> - **学术与[[Knowledge Production|知识生产]]** 资助覆盖全部非医学自然科学与工程技术学科，支持成果累计产生数百位诺贝尔奖得主；在 SciSciNet 开放数据湖中成功对齐并贯通 1,309,518 篇核心主出版物的科研资助链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **政策与制度渗透** 主导未来半导体（FuSe）、全美微纳中试设施（NNCI）与先进技术教育（ATE）技术员认证规范，设立 I/UCRC 与 ERC 产学合作示范范式，催生强制推广至全联邦的小企业创新研究（SBIR）法案。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **非医学基础科学核心支柱** 确立了战后美国大学自由探索与蓝天研究的主渠道，维持了微观个体学术创造力与宏观科学体系的持久繁荣。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
-> - **产学研深度协同与转化策源** 通过 I/UCRC、ERC 与 SBIR 等制度发明，有效填补了实验室原理与商业工业化之间的概念验证鸿沟，重塑了美国发展型网络国家的创新生态。[[Argument_Block_2008_PS|(Block, 2008, pp. 174–178)]]
+> - **非医学基础科学核心支柱** 确立了战后美国大学自由探索与蓝天研究的主渠道，维持了微观个体[[Scientific Creativity|学术创造力]]与宏观科学体系的持久繁荣。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
+> - **产学研深度协同与转化策源** 通过 I/UCRC、ERC 与 SBIR 等制度发明，有效填补了实验室原理与商业工业化之间的概念验证鸿沟，重塑了美国[[Developmental Network State|发展型网络国家]]的[[Innovation Ecosystem|创新生态]]。[[Argument_Block_2008_PS|(Block, 2008, pp. 174–178)]]
 > - **资助数据公共品化与全景可观测性** 依托开放资助元数据与 SciSciNet 等开放数据湖建设，将基金资助转化为支撑全球科学学研究的基石级公共实证资产。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!stat-cards]- 核心规模数据
@@ -276,10 +289,10 @@ updated: 2026-11-04
 > > 围绕在硬核技术提案中引入非学术性评价指标（如 [[Diversity, Equity, and Inclusion|DEI]] 倡议）的争论。
 > >
 > > - **多元代表性倡导** 认为应通过资助倾斜促进历史上代表性不足群体在科学界的参与。
-> > - **学术能力准则坚守论** 2021 至 2024 年间 NSF 重点涉及 DEI 倡议的资助份额由不足 1% 激增至 25% 以上；批评者指出以偏离[[Scientific Literacy|科学素养]]与技术优劣的标准筛选项目，不仅造成巨大行政公关内耗，更直接损害国家科研体系的原始创新能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> > - **学术能力准则坚守论** 2021 至 2024 年间 NSF 重点涉及 DEI 倡议的资助份额由不足 1% 激增至 25% 以上；批评者指出以偏离[[Scientific Literacy|科学素养]]与技术优劣的标准筛选项目，不仅造成巨大行政公关内耗，更直接损害国家科研体系的[[Original Innovation Capability|原始创新能力]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 >
 > > [!axis] 课题助研津贴 vs 可携带式早期奖学金
-> > 探讨研究生资助究竟应以充当 PI 实验室用工为导向，还是以赋权青年学者独立探索为导向。
+> > 探讨研究生资助究竟应以充当 PI 实验室用工为导向，还是以赋权[[Early-Career Researchers|青年学者]]独立探索为导向。
 > >
 > > - **课题助研用工化批评（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 资助过度绑定在 PI 项目上的助研津贴（GRAs），导致学生被异化为廉价劳动力并延长修读年限。
 > > - **可携带奖学金改革论** 主张大[[Scale Enlargement|规模扩充]] NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
@@ -313,6 +326,7 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 比较欧美 20 起重[[Big Science|大科学]]突破，论证 NSF 青年学者专属资助对激活早期原创自主权的关键价值，同时批判竞争性项目立项同行评议偏爱渐进稳妥方案、扼杀高风险假说的体制弊端（pp. 614, 619–621）。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合科学基金同行评审的分辨力局限与评审实验，论证在前 20% 达标标书中引入适度随机抽签制可有效破除申请人围绕微小分差展开的辞藻过度包装，为高风险非共识探索开辟制度生路。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang and Barabási (2021)]] — 依托 NSF 资助项目的全流程追踪档案，揭示跨学科攻坚团队面临显著的发表前沟通壁垒与协调成本，成果流产或未能发表风险偏高，印证多样性引文溢价存在幸存者偏差。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 讨论政策研究员经历如何促进研究者理解政策过程，以及进入 NSF 等联邦机构参与资助决策的可能路径。
@@ -328,5 +342,5 @@ updated: 2026-11-04
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《芯片与科学法案》下商务部、国防部、能源部与 NSF 共同构建国家半导体全链条研发转化体系的制度构想。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释国家微电子顶层战略下 NSF 作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，通过未来半导体（FuSe）计划、全美纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与[[Advanced Technological Education|先进技术教育]]（ATE）技术员培养体系，全链条支撑从基础发现到中试转化的跨部门制度网络。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 研发非结构化引文解析算法，将 131 万条 NSF 资助致谢字符串高精度对齐至核心主出版物，支撑科学学全景资助转化网络构建。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将 NSF 公共资助数据库确立为科学学多源全景数据体系的上游源头，评述资助记录与学术发表、下游专利的多源链接与投资回报测度（pp. 341–350）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将 NSF 公共资助数据库确立为科学学多源全景数据体系的上游源头，评述资助记录与学术发表、下游专利的多源链接与[[Return on Investment|投资回报]]测度（pp. 341–350）。
 > - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 梳理基金会早期预算受挫与首任主任沃特曼对计划性科研的抵制，揭示卫星危机如何促成其预算剧增并成长为大学基础研究主资助机构（pp. 36–38）。
