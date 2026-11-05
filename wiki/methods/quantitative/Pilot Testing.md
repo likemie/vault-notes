@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -69,6 +69,7 @@ related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Azoulay_2011_RJE]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Heinze_2009_RP]]"
 confidence: high
 status: completed
 created: 2026-05-31
@@ -98,7 +99,7 @@ updated: 2026-11-05
 > - **研究者角色** 工具开发者、程序诊断者与质量审核者；在正式大规模调查或昂贵实验前完成可行性核验。
 > - **有效性标准** 能否敏锐识别工具缺陷、程序摩擦、受试者理解偏差或评分者认知超载。
 > - **不声称回答的问题** 预测试仅评估工具与流程的可行性，不能直接回答实质性理论假设；小样本预测试的可行性亦不能完全保证复杂大规模现场的实施成功。
-> - **资助门槛外溢效应** 在传统科研评审体系中，预实验数据常被评审委员会视作规避失败风险的硬性前置指标，导致研究者倾向于在预实验完成大半后才敢申请立项。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
+> - **资助门槛外溢效应** 在传统科研评审体系中，预实验数据常被评审委员会视作规避失败风险的硬性前置指标，导致研究者倾向于在预实验完成大半后才敢申请立项。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]; [[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 620–621)]]
 
 > [!method-stack] 方法层级
 > - **研究设计层** 问卷调查、实验室实验与标准化[[Observation Method|观察研究]]均将预测试设为正式数据收集前的标准质控节点。
@@ -150,7 +151,7 @@ updated: 2026-11-05
 > - **样本量限制导致参数波动** 预试样本规模通常较小，相关系数、Cronbach's α 与区分度指数容易受到偶发极端值干扰，不可直接作为最终信效度终审指标。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
 > - **统计驱动剥离重要理论维度** 机械依据相关系数或因子载荷剔除题项，容易意外裁撤[[Construct|理论构念]]中的关键低频要素；必须确立理论与专业判断高于纯粹统计指标的原则。
 > - **受试者[[Hawthorne Effect|霍桑效应]]与观察员疲劳** 预试环境中的受试者因意识到处于测试状态容易改变日常表现，观察员高强度试测亦容易产生评分标准漂移。
-> - **科研资助生态的保守化异化** 竞争性基金评审（如 [[NIH R01 Grant|NIH R01]]）若过度要求完备成熟的预实验数据，会形成排斥高风险颠覆性探索的准入门槛，迫使学者退缩至确定性高的渐进课题。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
+> - **科研资助生态的保守化异化** 竞争性基金评审（如 [[NIH R01 Grant|NIH R01]]）若过度要求完备成熟的预实验数据，会形成排斥高风险颠覆性探索的准入门槛，迫使学者退缩至确定性高的渐进课题；跨学科或跨越原有研究领域的假说在早期萌芽阶段由于缺乏预实验支撑，极易在同行评议中被判定为过于投机而遭淘汰。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]; [[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 620–621)]]
 
 ---
 
@@ -175,3 +176,4 @@ updated: 2026-11-05
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 记录全球课堂观察手册 Teach 历时两年的跨国预测试历程，详述通过预测试发现观察员认知过载并完成双轨架构重构的实践。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 揭示科研同行评审对预实验数据的过度依赖如何诱发学术避险并形成创新进入壁垒。
 > - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 对比 NIH 严格基于预实验初步数据考核与 [[Howard Hughes Medical Institute|HHMI]] 考察长期科研愿景的资助机制，实证分析解绑预实验刚性要求对颠覆性探索的激励效应。
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 比较欧美 20 起重大科学突破，揭示竞争性课题立项对完备预实验数据的刚性要求如何将跨学科前沿探索排斥为“过度投机”，扼杀早期颠覆性萌芽（pp. 620–621）。
