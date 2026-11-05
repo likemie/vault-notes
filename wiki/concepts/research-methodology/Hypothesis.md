@@ -114,7 +114,7 @@ updated: 2026-11-05
 > **变量关系陈述与经验可测量性基准** 柯林格指出，科学假设的核心特征在于其形式逻辑的严格性。好假设必须满足双重标准：第一，假设必须是变量之间关系的陈述，指明自变量对因变量的作用；第二，假设必须蕴含明确的检验含义，变量必须具备明确的可操作界定。克雷斯韦尔（Creswell & Creswell）进一步补充，有价值的假设应当从成熟理论中逻辑推导产生，具备明确的具体性与理论依托，有别于凭空捏造的盲目猜测。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 11)]]; [[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 7)]]
 
 > [!claim] Medawar (1972, 1981)
-> **想象力预想与逻辑即时性约束** 彼得·梅达沃（Peter Medawar）提出，科学发现始于思辨冒险与想象性预想，但这种预想必须接受严苛的经验批判。好假设的关键在于“逻辑即时性”（Logical Immediacy），即它必须精准指向并解释特定的待解现象，而不是泛化解释其他无关现象。一个假设如果过于松散、足以容纳任何经验结果，其所传递的信息量等同于零；假设所禁止的经验现象越多，其提供的信息增量就越丰富。设计能够通过可行实验检验的假设构成了科学探究的核心艺术。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 11)]]
+> **想象力预想与逻辑即时性约束** 彼得·梅达沃（Peter Medawar）提出，科学发现始于思辨冒险与想象性预想，但这种预想必须接受严苛的经验批判。好假设的关键在于“逻辑即时性”（Logical Immediacy），即它必须精准指向并解释特定的待解现象，具备排他性的解释边界。一个假设如果过于松散、足以容纳任何经验结果，其所传递的信息量等同于零；假设所禁止的经验现象越多，其提供的信息增量就越丰富。设计能够通过可行实验检验的假设构成了科学探究的核心艺术。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 11)]]
 
 ---
 
@@ -133,7 +133,7 @@ updated: 2026-11-05
 > **统计推断与证伪主义方法论** 探讨零假设作为受试稻草人的逻辑功能，阐明通过拒斥零假设间接支持备择假设的概率推断机制。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
-> **互斥假设设定与统计检验的概率裁决** 在形式化假设检验中，[[Null Hypothesis|零假设]]（$H_0$）预设变量间无关联或组间无差异，充当被尝试拒绝的逻辑靶标；[[Alternative Hypothesis|备择假设]]（$H_1$）则代表研究者真正试图支持的理论主张。二者构成互斥命题。统计检验并不直接证实备择假设，而是通过评估在零假设为真的前提下出现当前样本数据的极小概率（$p$ 值），做出拒绝零假设的裁决，从而以反向证伪逻辑为备择假设提供经验支撑。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 7, p. 140)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 140)]]
+> **互斥假设设定与统计检验的概率裁决** 在形式化假设检验中，[[Null Hypothesis|零假设]]（$H_0$）预设变量间无关联或组间无差异，充当被尝试拒绝的逻辑靶标；[[Alternative Hypothesis|备择假设]]（$H_1$）则代表研究者真正试图支持的理论主张。二者构成互斥命题。统计检验通过评估在零假设为真的前提下出现当前样本数据的极小概率（$p$ 值），做出拒绝零假设的裁决，以此在概率逻辑上支持备择假设。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 7, p. 140)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 140)]]
 
 ---
 
@@ -192,7 +192,5 @@ updated: 2026-11-05
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 11)]] — 阐明柯林格假设定义、梅达沃的逻辑即时性原则与科学预想的思辨冒险属性。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch. 7, pp. 138–140)]] — 系统阐述方向性与非方向性假设区分、操作化转化规程、中介变量建模及零假设设定。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 阐明柯林格假设定义、梅达沃的逻辑即时性原则与科学预想的思辨冒险属性（见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Ch. 1, p. 11]]）；详细论述方向性与非方向性假设区分、操作化转化规程、中介变量建模及零假设设定（见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch. 7, pp. 138–140]]）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, Ch. 7)]] — 论述量化研究假设的核心特征、方向性备择假设编写规范及摩尔（2000）女性身份认同实证范例。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 贯穿量化与混合方法论，提供因果假设推导与检验的系统参照。

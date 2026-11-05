@@ -82,7 +82,7 @@ updated: 2026-11-05
 
 > [!boundary]- 概念边界
 > - 不等于 行为主义刺激—反应模型（S-R Model）：行为主义视人为被动响应外部环境刺激的操作条件反射载体；拟人化模型赋予行动者意向性、反思性与自主监控权。
-> - 不等于 唯我论（Solipsism）：拟人化模型并不将主体封闭于孤立心智，而是强调行动者在主体间性的社会脉络中通过共享符号与他人协调行动。
+> - 不等于 唯我论（Solipsism）：拟人化模型强调行动者在主体间性的社会脉络中通过共享符号与他人协调行动，不同于将主体封闭于孤立心智。
 > - 不等于 文学拟人修辞（Anthropomorphism in Literature）：文学中的拟人是将人类情感投射于非生物客体；方法论拟人化模型则是呼吁社会科学停止将人类客体化降维为机器，恢复人类研究对象应有的主体本色。
 
 ---
@@ -192,5 +192,4 @@ updated: 2026-11-05
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18–19, 32)]] — 介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判，呈现草莓事件微观课堂案例与复杂系统多元视角。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 贯穿课堂观察与事件分析章节，剖析师生微观互动的意义阐释机制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判（见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Ch. 1, pp. 18–19, 32]]），呈现草莓事件微观课堂案例与复杂系统多元视角，并在全书中贯穿课堂观察与事件分析章节。
