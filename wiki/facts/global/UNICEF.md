@@ -88,11 +88,37 @@ updated: 2026-11-02
 
 ---
 
-> [!dev-timeline] 组织发展历程
-> - **1946–1989 — 人道战后紧急救援与儿童基本生存保障期** 早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步意识到儿童心智发展与基础初等教育对阻断代际贫困的关键意义，开始资助农村小学初级卫生与女童识字培训。
-> - **1989–2000 — 《儿童权利公约》与[[Education for All|全民教育]]（EFA）联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO|教科文组织]]、[[World Bank|世行]]在泰国宗迪恩联合发起《[[Education for All|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, p. 541]]）。在此期间，儿童基金会深度介入全球南方基础教育能力建设，在印度等地资助开创性的小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实儿童受教育权（Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
-> - **2000–2015 — 女童教育倡议与爱生学校模式全球推广期** 发起联合国女童教育倡议（UNGEI），推动撒哈拉以南非洲和南亚女童入学率跨越式提升；系统研发并推广“爱生学校”（Child-Friendly Schools, CFS）标准框架，倡导健康、安全、保护儿童免受暴力的人文教学环境。
-> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱、数据契约共治与全球证据咨询** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟；2020 年起联合世界银行、英国外交部（FCDO）与美国国际开发署（USAID）共同发起设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP），资助发布中低收入国家教育改革“[[Smart Buys|智能购买]]”（Smart Buys）分级循证指引；同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
+> [!org-evolution] 组织发展历程
+> - **1946–1989** **人道战后紧急救援与儿童基本生存保障期**
+>
+>   早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步拓展至发展中国家儿童的心智发展与基础初等教育，资助农村小学初级卫生与女童识字培训。
+>
+>   - **1946** 联合国大会决议设立国际儿童紧急救援基金，救济二战受灾儿童。
+>   - **1953** 改组为联合国常设机构，职能扩展至发展中国家儿童的长期福祉。
+>
+> - **1989–2000** **《儿童权利公约》确立与全民教育联盟推进**
+>
+>   确立以儿童最大利益为首要考量原则，深度介入基础教育普及与微观多指标监测；在宗滴恩大会上与世界银行合力推动将资金集中于正规小学教育。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
+>
+>   - **1989** 联合国大会通过《儿童权利公约》（UNCRC），将儿童受教育权载入国际法。
+>   - **1990** 联合世界银行、教科文组织与开发计划署在泰国宗滴恩发起世界全民教育大会；在大会现场散发《普及所有儿童的教育》（*Schooling All the Children*；Colclough & Lewin, 1993），明确主张将资金重点投向初等学校教育。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
+>   - **1995** 正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补全球南方底层家庭儿童福祉微观数据的空白。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+>   - **1990s** 在印度等地资助小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实受教育权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 109)]]
+>
+> - **2000–2015** **女童教育倡议与爱生学校模式全球推广**
+>
+>   发起联合国女童教育倡议，推动发展中地区女童入学率提升；系统推广爱生学校标准，营造包容安全的校园环境。
+>
+>   - **2000** 启动联合国女童教育倡议（UNGEI），配合千年发展目标推动消除教育性别差距。
+>   - **2000s** 推广“爱生学校”（CFS）标准框架，倡导健康、安全与反暴力教学环境。
+>
+> - **2015–至今** **社会情感学习先驱、数据契约共治与全球证据咨询**
+>
+>   在全球多边机构中率先系统倡导社会情感学习框架；联合教科文组织与世界银行结成数据契约同盟，参与全球循证决策咨询。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
+>
+>   - **2015** 倡导推广[[Social-Emotional Learning|社会情感学习]]（SEL）框架，后被 OECD 和 UNESCO 吸纳。
+>   - **2020** 联合世界银行等机构发起设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP），发布中低收入国家教育改革“[[Smart Buys|智能购买]]”分级指引。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
+>   - **2021** 联合 UNESCO 与世界银行签署[[Learning Data Compact|学习数据契约]]。
 
 ---
 
@@ -116,10 +142,10 @@ updated: 2026-11-02
 > - **教师专业增能与性别平等项目** 资助并设计面向发展中国家农村小学的在职教师培训计划，支持基层女教师专业能力建设与实践自主性（如印度北方邦女教师在职培训项目；Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
 > - **旗舰出版物与咨询成果** 《世界儿童状况》（The State of the World's Children，年度旗舰报告）；因诺琴蒂研究报告卡（Innocenti Report Card）；[[Learning Crisis|全球学习危机]]与儿童心理福祉评估简报。
 
-> [!citation-card] 国际组织政策议程竞争中的先发优势
-> 国际组织之间围绕全球规范制定与政策影响力的争夺，究竟意味着什么？它不仅在于识别那些前沿且尚未被触碰的政策重点议题——例如社会情感学习（Social-Emotional Learning，SEL），该议程最早由联合国儿童基金会倡导开辟，如今也已相继被[[OECD|经合组织]]和联合国教科文组织吸纳推进；更在于通过与公民社会联盟（如基础教育联盟）、教育企业及私人慈善基金会建立战略伙伴关系，扩大其实质政策影响力与财政资源储备。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
+> [!citation-card] 《联合国儿童权利公约》第二十八条（1989年）
+> 缔约国确认儿童有受教育的权利，为在机会均等的基础上逐步实现此项权利，缔约国尤其应当：实现免费义务初等教育；鼓励发展不同形式的中等教育，包括普通教育和职业教育，使所有儿童均能享有和接受；根据能力以一切适当方式使所有人均有接受高等教育的机会；采取措施鼓励学生定期出勤和降低辍学率。
 >
-> *What exactly does the race over global norm setting and policy impact entail for IOs? Is it about identifying new, untapped thematic priorities, such as social-emotional learning (first promoted by UNICEF, and now also by OECD and UNESCO), increasing impact, and in some instances financial resources, by establishing partnerships with civil society (e.g. Basic Education Coalitions), EDU businesses and philanthropic foundations?*
+> *States Parties recognize the right of the child to education, and with a view to achieving this right progressively and on the basis of equal opportunity, they shall, in particular: (a) Make primary education compulsory and available free to all; (b) Encourage the development of different forms of secondary education, including general and vocational education...*
 
 ---
 
