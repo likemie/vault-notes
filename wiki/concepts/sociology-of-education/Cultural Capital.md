@@ -67,22 +67,20 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-11-03
+updated: 2026-11-06
 ---
-
-（文化资本）
 
 ---
 
 > [!def] Cultural Capital
 > 文化资本（Cultural Capital）是法国社会学家 [[Pierre Bourdieu]] 提出的核心概念，指个体通过早期家庭社会化与正规教育过程获得、并在特定社会[[Champ\|场域]]中具有合法交换价值与排他性收益的文化资源总和。文化资本存在具身化、客体化和制度化三种形态；学校教育往往将对这一资本的默认占有作为隐性选拔前提，从而将社会出身的不平等转化为[[Academic Achievement\|学业成就]]的客观差距，在实质上履行了社会阶级再生产的功能。在大规模教育实证研究中，它常被[[Operationalization\|操作化]]为家庭藏书量等客体化资源，用以捕捉家庭文化刺激对学生认知与[[Epistemology\|认识论]]发展的深层促进作用。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]；[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 353–355)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 具有阶层印记的[[Habitus|惯习]]、文化品位、学术工具（如藏书）以及制度化文凭凭证。
 > - **用途** 揭示看似客观中立的学业考试、[[School Choice\|择校]]竞争与高校选拔背后的阶级筛选机制，解释优势地位的隐性代际传递与认知发展分化。
-> - **边界** 不等于个体理性投资所形成的[[Human Capital Theory\|人力资本]]；其积累高度依赖于家庭早期无意识的身体化熏陶与文化环境刺激，且其变现价值受特定场域规则的制约。
+> - **边界** 区别于个体理性投资所形成的[[Human Capital Theory\|人力资本]]；其积累高度依赖于家庭早期无意识的身体化熏陶与文化环境刺激，且其变现价值受特定场域规则的制约。
 
-> [!citation-card] 关键表述
+> [!citation-card|notitle] 关键表述
 > 即使在学历相同的情况下，社会出身的差别仍然体现为文化能力的差别。当人们对一种严格的、可严格评测的能力要求越少，而对一种文化的熟习要求越多，这种差别就越明显。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu, 1984, p. 63）
 >
 > *Even when they have the same qualifications, the difference in social origin is still reflected in differences in cultural competence. The difference is all the more visible when the demand for strictly, technically assessable competence decreases and the demand for [[Familiarization\|familiarity]] with a culture increases.*
@@ -94,7 +92,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 资本类型对比
+> [!contrast-table|notitle] 资本类型对比
 > | 维度 | 文化资本（Cultural Capital） | [[Social Capital Theory\|社会资本（Social Capital）]] | [[Human Capital Theory\|人力资本]]（Human Capital） |
 > |---|---|---|---|
 > | **分析焦点** | 阶层化的[[Habitus\|惯习]]、文化品位、家庭藏书与文凭凭证 | 社会网络连接、熟人关系网与体制内权力资源 | 个体理性的教育投资与专业生产力技能 |
@@ -198,7 +196,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 概念边界的重叠性与新自由主义转译
 > > 学界对其与[[Human Capital Theory|人力资本]]、社会资本的清晰界线存在争议。例如在劳动力市场中，优雅的沟通能力常被经济学家直接折算为高效率的人力资本回报。
@@ -214,7 +212,7 @@ updated: 2026-11-03
 > > - **[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]** 将其本土化为精英高校[[Champ|场域]]中的制度性出路直觉，成功实现了中国语境下的转译。
 > > - **[[Argument_Teng_2025_CE|Teng and Wang (2025)]]** 论证了小城市简化选拔机制下文化资本的边缘化与妥协。
 
-> [!critique] 外部批评
+> [!critique|notitle] 外部批评
 > - **[[School Leadership\|学校领导力]]定义的去自主化** 当社会文化资本的定义权完全由政治和经济场域的主导利益所垄断时（例如将教育质量等同于标准化的考分排名和名校率），学校领导者将丧失自主定义什么是合法教育成就的能力。[[Argument_Eacott_2011_JEAH\|Eacott (2011, pp. 48–50)]]
 
 > [!warning] 适用局限

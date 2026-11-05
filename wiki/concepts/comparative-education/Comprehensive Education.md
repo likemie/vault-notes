@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 
 ---
@@ -50,25 +50,24 @@ updated: 2026-11-03
 > [!def] Comprehensive Education
 > **综合教育（Comprehensive Education）** 是指在义务教育或中等教育阶段，打破基于学力测试、学术倾向或社会出身过早划分学轨的体制，将所有适龄学生整合于统一的学校形态与共同基础课程之中，以促进社会阶层流动、延缓淘汰分选并保障公民教育权利为目标的教育制度组织原则。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向中等教育内部对阶层分化与学力筛选的制度性解构，主张向全体青少年提供无差别的共通课程经验。
 > - **用途** 帮助比较教育学者辨析战后福利国家教育民主化进程，透视形式平等与个体禀赋[[Heterogeneity|异质性]]之间的政策拉锯。
-> - **边界** 不等于单一无差别的初等教育普及；综合教育特指在原本具有高度筛选性与分轨传统的中等教育阶段推行去分流一体化改革。
+> - **边界** 区别于单一无差别的初等教育普及；综合教育特指在原本具有高度筛选性与分轨传统的中等教育阶段推行去分流一体化改革。
 
-> [!citation-card|notitle]
-> **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论均质综合教育的局限与平庸化风险**
+> [!citation-card|notitle] [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论均质综合教育的局限与平庸化风险
 > 综合教育原则要求在初等与初中阶段实施整合，消除课程与轨道的细节分歧。然而，当这一原则被硬性延伸至 16 岁且强加完全相同的课程时，在缺乏切合实际的分流机制下，极易演变为掩饰不平等与学业冷漠的虚假外壳。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 >
-> *The [[General Act of Education of 1970]] had applied... the comprehensive principle... The 1990 Law, while amplifying obligatory education to 16 years of age also applied to all students up to this age an identical curriculum.*
+> *The General Act of Education of 1970 had applied... the comprehensive principle... The 1990 Law, while amplifying obligatory education to 16 years of age also applied to all students up to this age an identical curriculum.*
 
 > [!boundary]- 概念边界
-> - 不等于 **[[Tracking|学力分轨]]（[[Tracking]]）** — 分轨制主张根据学生能力与意愿在早期分流至学术、技术或职业不同轨道，而综合教育致力于在同一物理空间与核心课程下延缓这种分化。
-> - 不等于 **[[Dual School System|双轨学制]]（[[Dual School System]]）** — 双轨学制是 19 世纪欧陆建立在阶级壁垒之上的封闭平行系统，综合教育则是 20 世纪下半叶反思双轨制特权再生产的产物。
-> - 不等于 **完全均质化教学** — 成熟的综合教育体制（如英国综合中学）通常在共同学校框架内保留宽口径选修与学科分层，而激进单一综合制则强推无差别统一步调课程。
+> - 区别于 **[[Tracking|学力分轨]]（[[Tracking]]）** — 分轨制主张根据学生能力与意愿在早期分流至学术、技术或职业不同轨道，而综合教育致力于在同一物理空间与核心课程下延缓这种分化。
+> - 区别于 **[[Dual School System|双轨学制]]（[[Dual School System]]）** — 双轨学制是 19 世纪欧陆建立在阶级壁垒之上的封闭平行系统，综合教育则是 20 世纪下半叶反思双轨制特权再生产的产物。
+> - 区别于 **完全均质化教学** — 成熟的综合教育体制（如英国综合中学）通常在共同学校框架内保留宽口径选修与学科分层，而激进单一综合制则强推无差别统一步调课程。
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 综合教育（Comprehensive Education） | [[Tracking\|学力分轨（Tracking）]] | [[Dual School System\|双轨学制（Dual School System）]] |
 > |---|---|---|---|
 > | 分析对象 | 20 世纪民主化中等教育组织形态与一体化学校。 | 中等学校内部按学科成绩分配班级或课程的微观与中观分流机制。 | 19 世纪以阶层身份为基础的终点式平民学校与精英学术学校平行体系。 |
@@ -135,7 +134,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 民主平权与反阶层再生产 vs 拔尖英才培养与学术平庸
 > > - **左翼平权倡导者** 综合中学打破了双轨制对底层阶级子女的早熟淘汰，为弱势背景学生提供了留在主流学术文化[[Champ|场域]]的制度保障。
@@ -158,8 +157,23 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较西班牙、英、法、德等国中等学制演进，批判西班牙 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 将均质综合中学硬性延展至 16 岁所导致的学业抗拒者泛滥与系统性平庸。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Heterogeneity]] | 概念 | 综合教育在初中阶段所面临的学生资质与志趣异质性张力。 |
+> | [[Tracking]] | 概念 | 综合教育运动所反对的早期学术、技术与职业分流体制。 |
+> | [[Dual School System]] | 概念 | 综合教育运动旨在打破的 19 世纪欧陆平民与精英双轨学制。 |
+> | [[Grade Retention]] | 概念 | 均质综合课程实施中因学生学力脱节而出现的留级现象。 |
+> | [[Champ]] | 概念 | 综合中学内部多元背景学生汇聚并发生文化区隔博弈的社会场域。 |
+> | [[Academic Achievement]] | 概念 | 均质综合课程评价中涉及的学业成就与卓越率受抑维度。 |
+> | [[José Luis García Garrido]] | 人物 | 深刻剖析西班牙与欧洲综合教育改革演进及其平庸化风险的比较教育学者。 |
+> | [[General Act of Education of 1970]] | 事实 | 西班牙在基础教育阶段确立 8 年一贯综合教育原则的里程碑法律。 |
+> | [[Organic Law on the General Organization of the Education System 1990]] | 事实 | 西班牙将均质综合教育硬性延长至 16 岁的关键改革立法。 |
+> | [[Eleven-plus Exam]] | 事实 | 英国战后综合中学运动旨在废除的 11 岁小学升初中淘汰性分选考试。 |
+> | [[PISA]] | 事实 | 检验欧洲分轨制与综合制学制改革成效的跨国学生评价项目。 |
 
 ---
 
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较西班牙、英、法、德等国中等学制演进，批判西班牙 LOGSE 将均质综合中学硬性延展至 16 岁所导致的学业抗拒者泛滥与系统性平庸。

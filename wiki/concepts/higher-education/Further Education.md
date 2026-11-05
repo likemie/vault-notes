@@ -42,10 +42,10 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: 2026-05-18
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 ---
@@ -53,24 +53,24 @@ updated: 2026-11-02
 > [!def] Further Education
 > 继续教育（Further Education，又称中学后非正规培训或在职继续教育）指位于义务教育与全日制正规高等教育之外的中学后教育与培训形态。该形态主要发生在传统学校与大学等结构化教育体制之外，通常与非学位证书（Non-degree Credentials）及微证书（Micro-credentials）紧密挂钩。在[[Post-Fordism|后福特主义]]“永久创新经济”与跨国产业协同格局下，继续教育与正规高等教育并列为支撑[[Lifelong Learning|终身学习]]、劳动力技能重塑及全生命周期职业发展的两大支柱。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 179–180)]]; [[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉个人在完成初始正规教育（Initial Education）后，为适应劳动力市场技术变迁、岗位晋升或职业转换而参与的有组织、非正规继续职业教育与成人培训体系。
 > - **用途** 帮助教育学与政治经济学学者透视后福特制生产方式下劳动力技能的持续再生产机制，分析企业内化培训与市场[[Externalization|外化]]采购的治理边界，以及诊断跨国产业链转移中的全周期技能配套需求。
 > - **边界** 区别于授予学士及以上学术学位的正规高等教育，亦有别于覆盖人一生全部认知活动的泛在化[[Lifelong Learning|终身学习]]；继续教育特指面向成年劳动力、以非学历文凭和实用技能升级为主要目标的有组织教育实践。
 
-> [!citation-card] 继续教育在永久创新经济中的制度地位
+> [!citation-card|notitle] 继续教育在永久创新经济中的制度地位
 > 在制造业向知识密集型经济转型的后福特时代，知识生命周期的快速缩短与人口老龄化加剧了劳动力的技能折旧。终身学习需求随之稳步上升，使继续教育从教育系统的边缘地带走向中心，与正规高等教育共同构成了国家创新与劳动力再技能化的核心制度载体。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 >
 > *In a perpetual innovation economy, shorter knowledge lifecycles and demographic shifts make lifelong learning an imperative, elevating further education alongside higher education as a foundational pillar of [[Human Capital Theory|human capital]] renewal.*
 
 > [!boundary]- 概念边界
-> - 不等于 **正规高等教育（Higher Education）** 正规高等教育是国家教育资格框架内授予学术学位的结构化中学后阶段；继续教育则主要发生于正规学制之外，以职业资格证书、技能学时认证与短期模块为主。
-> - 不等于 **[[Corporate Education|企业教育]]（Corporate Education）** 继续教育是包含雇主自办、商业采购、行业公会组织等多主体的上位范畴；企业教育特指由雇主直接出资或组织、面向自身雇员的特定子集。
-> - 不等于 **[[Lifelong Learning|终身学习]]（Lifelong Learning）** 终身学习涵盖从学前早期干预到老年休闲的一切学习活动，属于宽泛的教育哲学理念；继续教育特指初始教育结束后针对劳动年龄人口开展的有组织非正规培训。
+> - 区别于 **正规高等教育（Higher Education）** 正规高等教育是国家教育资格框架内授予学术学位的结构化中学后阶段；继续教育则主要发生于正规学制之外，以职业资格证书、技能学时认证与短期模块为主。
+> - 区别于 **[[Corporate Education|企业教育]]（Corporate Education）** 继续教育是包含雇主自办、商业采购、行业公会组织等多主体的上位范畴；企业教育特指由雇主直接出资或组织、面向自身雇员的特定子集。
+> - 区别于 **[[Lifelong Learning|终身学习]]（Lifelong Learning）** 终身学习涵盖从学前早期干预到老年休闲的一切学习活动，属于宽泛的教育哲学理念；继续教育特指初始教育结束后针对劳动年龄人口开展的有组织非正规培训。
 
 ---
 
-> [!contrast-table] 继续教育、高等教育与企业教育多维辨析
+> [!contrast-table|notitle] 继续教育、高等教育与企业教育多维辨析
 > | 维度 | 继续教育（Further Education） | 正规高等教育（Higher Education） | 企业教育（Corporate Education） |
 > |---|---|---|---|
 > | **制度定位** | 中学后非正规教育，依托证书与技能模块运作 | 正规学制最高阶段，以学位授予与学术研究为核心 | 继续教育的企业子集，由用人单位出资与定制 |
@@ -98,36 +98,30 @@ updated: 2026-11-02
 
 ---
 
-### 命题一　永久创新经济与知识半衰期缩短驱动继续教育成为终身学习核心支柱
+> [!concept-proposition] 命题一｜永久创新经济与知识半衰期缩短驱动继续教育成为终身学习核心支柱
+> **生产范式转型与技能折旧** 考察知识密集型经济转型如何瓦解一次性学校教育终身够用的传统假设，重塑继续教育的制度正当性。
 
-> [!concept-lens] 生产[[Paradigm|范式]]转型与劳动力技能折旧
-> 考察知识密集型经济转型如何瓦解“一次性学校教育终身够用”的传统假定，重塑继续教育的制度正当性。
+> [!claim] Hartmann, E.
+> **后福特生产方式下的再技能化必然性** 在制造业与服务业加速向高新技术转型的“永久创新经济”中，生产工艺与数字工具的高频更替导致劳动力技能折旧周期大幅压缩；这使得单纯依赖一次性正规高等教育已无法满足产业生命周期需求，促使继续教育成为国家与产业维持创新[[Competitiveness|竞争力]]的战略必需。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 
-> [!claim] [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]
-> **后福特生产方式下的再技能化必然性** 在制造业与服务业加速向高新技术转型的“永久创新经济”中，生产工艺与数字工具的高频更替导致劳动力技能折旧周期大幅压缩；这使得单纯依赖一次性正规高等教育已无法满足产业生命周期需求，促使继续教育成为国家与产业维持创新[[Competitiveness|竞争力]]的战略必需。（p. 179）
-
-> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
-> **超国家空间构建中的初始与继续教育一体化整合** 乔治·帕西亚斯与扬尼斯·鲁萨基斯考察[[EU|欧洲联盟]]教育政策演进指出，在构筑制度化[[European Education Space|欧洲教育空间]]（European educational area）的过程中，欧盟通过正式网络、合作协议与资格互认机制，明确将初始教育（initial education）与继续教育体系（further education systems）的一体化整合确立为关键战略基石，使继续教育从教育外围上升为[[Lifelong Learning|终身学习]]与区域一体化的核心支撑。（p. 485）
+> [!claim] Pasias, G. & Roussakis, Y.
+> **超国家空间构建中的初始与继续教育一体化整合** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）考察[[EU|欧洲联盟]]教育政策演进指出，在构筑制度化[[European Education Space|欧洲教育空间]]（European educational area）的过程中，欧盟通过正式网络、合作协议与资格互认机制，明确将初始教育（initial education）与继续教育体系（further education systems）的一体化整合确立为关键战略基石，使继续教育从教育外围上升为[[Lifelong Learning|终身学习]]与区域一体化的核心支撑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 
 ---
 
-### 命题二　跨国企业继续教育展现出基于阶层资本的滴漏分层与商业模型波动性
+> [!concept-proposition] 命题二｜跨国企业继续教育展现出基于阶层资本的滴漏分层与商业模型波动性
+> **培训资源配置分层与市场化权威困境** 诊断继续教育在跨国企业实践中产生的资源分配倾斜，以及营利性培训供应商面临的模型标准化张力。
 
-> [!concept-lens] 培训资源配置分层与市场化权威困境
-> 诊断继续教育在跨国企业实践中产生的资源分配倾斜，以及营利性培训供应商面临的模型标准化张力。
-
-> [!claim] [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]
-> **滴漏策略偏向与教育模型更迭困境** 跨国公司在继续教育投资中普遍遵循“滴漏策略”（Trickle-down Strategy），即员工初始学历越高、职位越核心，获得高规格国际化培训的几率和预算倾斜越显著，加剧了组织内部技能分化；同时，营利性商业培训机构为维持市场份额频繁推陈出新商业模型，类似于时尚潮流的快速更替，削弱了继续教育体系所需的教学标准化与知识积累。（pp. 185, 191–192）
+> [!claim] Hartmann, E.
+> **滴漏策略偏向与教育模型更迭困境** 跨国公司在继续教育投资中普遍遵循“滴漏策略”（Trickle-down Strategy），即员工初始学历越高、职位越核心，获得高规格国际化培训的几率和预算倾斜越显著，加剧了组织内部技能分化；同时，营利性商业培训机构为维持市场份额频繁推陈出新商业模型，类似于时尚潮流的快速更替，削弱了继续教育体系所需的教学标准化与知识积累。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 185, 191–192)]]
 
 ---
 
-### 命题三　跨区域产教协同中继续教育充当打通全周期技能培养的贯通载体
+> [!concept-proposition] 命题三｜跨区域产教协同中继续教育充当打通全周期技能培养的贯通载体
+> **产业出海协同与全生命周期培养机制** 探讨在国际产能合作与[[Internationalization of Vocational Education|职业教育高水平对外开放]]中，如何通过继续教育破除学历教育与属地化生产实际需求脱节的结构性矛盾。
 
-> [!concept-lens] 产业出海协同与全生命周期培养机制
-> 探讨在国际产能合作与[[Internationalization of Vocational Education|职业教育高水平对外开放]]中，如何通过继续教育破除学历教育与属地化生产实际需求脱节的结构性矛盾。
-
-> [!claim] [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]]
-> **职前、入职与在职全流程数字化贯通** 在跨国产业园区与[[Education Going Global|教育出海]]走廊建设中，单一的职前学历培养无法完全满足属地化复合型技能人才的动态需求；必须依托数字化资源库与跨国培训工坊，打通职前学历培养、入职实操训练与在职继续教育的全链条，通过多语种微课程与工艺认证支撑跨国企业员工的终身技能演进。（pp. 300–301）
+> [!claim] Wang, X. et al.
+> **职前、入职与在职全流程数字化贯通** 在跨国产业园区与[[Education Going Global|教育出海]]走廊建设中，单一的职前学历培养无法完全满足属地化复合型技能人才的动态需求；必须依托数字化资源库与跨国培训工坊，打通职前学历培养、入职实操训练与在职继续教育的全链条，通过多语种微课程与工艺认证支撑跨国企业员工的终身技能演进。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
 
 ---
 
@@ -150,10 +144,12 @@ updated: 2026-11-02
 ---
 
 > [!warning] 适用局限与研究审思
-> - **教育研究的“公立偏见”（Public Bias）** 学术研究长期以公立中小学与[[Research Universities|研究型大学]]为中心，对继续教育这一庞大的非正规体系存在系统性理论与经验关注不足。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
+> - **教育研究的公立偏见（Public Bias）** 学术研究长期以公立中小学与[[Research Universities|研究型大学]]为中心，对继续教育这一庞大的非正规体系存在系统性理论与经验关注不足。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 > - **商业化培训的稳定性赤字** 营利性商业教育机构为维持营销热度，往往频繁推出短期概念模型，容易造成教育知识积累的碎片化与表面化。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 191–192)]]
 
 ---
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -167,7 +163,26 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 系统梳理继续教育与[[Corporate Education|企业教育]]的政治经济学脉络，揭示永久创新经济驱动机制、企业培训外化率以及跨国商业培训市场的运作逻辑。
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域产教协同与职业教育出海实践，阐明在职继续教育在打通全周期人才培养链条与支撑跨国产业用工中的关键枢纽功能（pp. 300–301）。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Post-Fordism]] | 概念 | 驱动劳动力技能快速折旧与终身学习培训需求的宏观生产范式。 |
+> | [[Lifelong Learning]] | 概念 | 贯穿全生命周期的上位教育理念，继续教育为其关键实践支柱。 |
+> | [[Externalization]] | 概念 | 企业在继续教育供给中将内部培训向外部专业机构采购外化的机制。 |
+> | [[Corporate Education]] | 概念 | 由用人单位直接出资和定制的继续教育子集。 |
+> | [[Competitiveness]] | 概念 | 产业与国家通过持续劳动力技能重塑维持的全球经贸竞争优势。 |
+> | [[European Education Space]] | 概念 | 欧盟推进初始教育与继续教育体系一体化整合的超国家政策空间。 |
+> | [[Internationalization of Vocational Education]] | 概念 | 推动继续教育跨国输出与属地化协同的高水平对外开放实践。 |
+> | [[Education Going Global]] | 概念 | 伴随跨国工程与产业出海同步推进的技能培训与海外办学工程。 |
+> | [[Research Universities]] | 概念 | 传统教育研究中优先关注的正规高教机构，与非正规继续教育形成研究偏向对比。 |
+> | [[Human Capital Theory]] | 理论 | 将继续教育视为提升个体生产力与延缓技能折旧的核心理论。 |
+> | [[EU]] | 事实 | 通过白皮书与 CVTS 调查推动继续职业教育指标建制的超国家实体。 |
+> | [[ASEAN]] | 事实 | 开展跨国产教协同与全周期技能链条贯通试验的区域合作组织。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 梳理继续教育与企业教育的政治经济学脉络，揭示永久创新经济驱动机制、企业培训外化率以及跨国商业培训市场的运作逻辑。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域产教协同与职教出海实践，阐明在职继续教育在打通全周期人才培养链条与支撑跨国产业用工中的关键枢纽功能（pp. 300–301）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考察欧盟教育政策演进，指出构筑制度化欧洲教育空间的关键目标之一是推进初始教育与继续教育体系的一体化整合（p. 485）。

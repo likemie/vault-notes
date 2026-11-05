@@ -121,7 +121,7 @@ updated: 2026-11-03
 > [!def] Performance Indicators
 > 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993）。从[[Policy Instrumentation Theory|政策工具社会学]]的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标界定为同时包含 **[[Technical Rationality|技术理性]]成分（Techniques）** 与**权力规制成分（Power）** 的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与[[Policy Ambiguity|政策歧义性]]生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 绩效指标是一种“被制造出的度量工具”（Engineered Measure），将多源复杂异质数据压缩为单一可视数字，承载着特定的政策干预假设，超越了对原始事实的简单记录。
 > - **用途** 帮助研究者透视超国家机构与国家政府如何借由量化数据推进[[Steering at a Distance|远程调控]]；解构绩效考核指标如何反向促成教学应试化、办学短期功利化与统计合规游戏。
 > - **边界** 区别于原始统计数据（Statistics 记录事实，指标包含价值导向与干预意图）；区别于教育评价（Assessment 诊断个别主体的成就，指标聚焦系统宏观态势的横向比较与警示）。
@@ -265,6 +265,8 @@ updated: 2026-11-03
 > - **1988 — [[International Indicators of Education Systems|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）确立以实用为主的政策工具导向。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 8)]]
 > - **1990s — [[World Education Indicators|世界教育指标]]（WEI）项目与多边技术同盟** OECD 联合[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术方案（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 443–444]]）。
 > - **1992 — 《[[Education at a Glance|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《[[Education at a Glance|教育概览]]》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 11)]]
+> - **1996 — 经合组织 DAC 报告确立国际发展指标（IDTs）** 经合组织发展援助委员会（DAC）在巴黎闭门通过《塑造21世纪》报告，将全球教育目标首次窄化为初等普及与性别两项国际发展指标。[[Argument_King_2007_CE|(King, 2007, pp. 380–383)]]
+> - **2000 — 联合国千年发展目标（MDGs）量化指标体系** 联合国秘书处会同世界银行等机构的技术官僚，将千年宣言提炼为 8 项目标与 48 项指标，将教育议程压缩为初等与性别两项硬指标。[[Argument_King_2007_CE|(King, 2007, pp. 383–386)]]
 > - **2000s — 欧盟里斯本战略与经合组织数据采购共生** 欧盟启动里斯本战略并以开放协调法（OMC）确立教育绩效指标体系，其监测框架中 50%–60% 的指标数据直接采购自 OECD，形成跨机构数据依附网络（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
 > - **2000s — PISA 与心理测量跨国排名的全面渗透** 跨国评估演变为以标准分数排序决定国家教育优劣的全球问责机制，超越了单纯提供系统概况的统计功能。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
 > - **2010s — 区域记分牌与多边排他性同盟分化** 欧盟推广区域创新记分牌（[[Regional Innovation System|RIS]]）；世界银行开发“[[Systems Approach for Better Education Results|改善教育成果系统分析法]]”（[[Systems Approach for Better Education Results|SABER]]），各多边机构形成自成体系的指标数据库并建立政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
@@ -274,7 +276,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 科学纯度（Scientific Purity） vs 政策可用性（Policy Usability）
 > > [[International Indicators of Education Systems|INES]] 项目自创设起就面临学术严谨性与行政实用性之间的权衡。
@@ -315,7 +317,31 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+
+| 条目 | 类型 | 关系 |
+|:-----|:-----|:-----|
+| [[Technical Rationality]] | 概念 | 绩效指标获取客观中立外表与数理统计合法性的核心理性形态。 |
+| [[Governing by Numbers]] | 概念 | 以量化指标、统计审计与评比排名为特征的现代远处治理机制。 |
+| [[Façade of Rationality]] | 概念 | 指标为政治决策者在政策歧义性环境下所构筑的理性表象防护脚手架。 |
+| [[Scaffolding]] | 概念 | 指标作为量化支撑物协助政策制定者抵御问责并激发政治叙事的功能。 |
+| [[Steering at a Distance]] | 概念 | 超国家组织依托跨国指标与基准考核对主权国家实施的远程调控。 |
+| [[Evidence-Based Policy-Making]] | 概念 | 绩效指标所宣称服务、但实践中常被用作政治合法化工具的决策模式。 |
+| [[Commensuration]] | 概念 | 将异质复杂的教育实践折算还原为均一可比数值的关键度量技术。 |
+| [[Space of Equivalence]] | 概念 | 跨国指标体系为确保横向可比性而创造的制度与统计等价空间。 |
+| [[Policy Instrumentation Theory]] | 理论 | 将指标视为蕴含技术理性与权力规制双重属性的政策工具理论基础。 |
+| [[Human Capital Theory]] | 理论 | 将教育指标锚定于投入产出效率与劳动力技能回报的核心经济学支撑。 |
+| [[OECD]] | 事实 | 创设计算指标体系（INES/EAG）并引领全球教育指标治理的多边组织。 |
+| [[World Bank]] | 事实 | 开发 EdStats 与 SABER 量规体系并主导全球南方教育指标贷款的金融机构。 |
+| [[European Commission]] | 事实 | 将软法教育指标挂钩欧洲学期与财政基金以强化政策约束力的超国家实体。 |
+| [[Fazal Rizvi]] | 人物 | 深刻剖析经合组织教育指标数字进路及其对教育目的置换的批判学者。 |
+| [[Bob Lingard]] | 人物 | 与里兹维合作揭示跨国教育指标等价空间与信度优先逻辑的教育社会学家。 |
+| [[Kenneth King]] | 人物 | 考证多边机构建构国际发展指标与千年目标指标两次窄化历程的比较教育学者。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_King_2007_CE|King (2007)]] — 考证多边机构建构国际发展指标（IDTs/MDGs）的两次窄化历程，揭示极简指标如何割裂生产性经济增长并造成受援国教育生态失衡（pp. 377–389）。
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构经合组织 INES 项目与《教育概览》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的反身履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以欧盟区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 比较全民教育（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化规训在提升教育绩效上的实质困境。

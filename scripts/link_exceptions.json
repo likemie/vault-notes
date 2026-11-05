@@ -518,5 +518,11 @@
       "sentence": "**科层隔阂阻断敏捷反馈** 实验室内部滋生层级汇报阻隔，导师与基层研究人员日常接触骤减，早期敏捷试错的互动机制瓦解。",
       "target": "wiki/concepts/science-policy/Agile Governance.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Comparative Education/Argument_King_2007_CE.md": [
+    {
+      "sentence": "tension] 机构职责分歧：教科文组织的综合教育观 vs 世行与儿童基金会的初等优先偏向",
+      "target": "wiki/concepts/comparative-education/Comprehensive Education.md"
+    }
   ]
 }
