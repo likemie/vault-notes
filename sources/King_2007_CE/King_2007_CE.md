@@ -1,6 +1,7 @@
 ---
 citation: "King, K. (2007). Multilateral agencies in the construction of the global agenda on education. Comparative Education, 43(3), 377–391. https://doi.org/10.1080/03050060701556331"
-extracted_to: []
+extracted_to:
+  - "[[Argument_King_2007_CE]]"
 processed_date: 2026-11-05
 ---
 
