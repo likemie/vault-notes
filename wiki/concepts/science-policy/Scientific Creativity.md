@@ -10,10 +10,10 @@ aliases:
 summary: "指生成能够挑战、突破或实质扩展既有学术范式的高风险概念构想与开创性方法的能力与过程。现代科学政策与科学学视角将科学创造力确立为学术生态系统环境下的涌现属性，其培育深度依赖于长探索周期、容忍失败、学术自主权与制度化雇佣稳定保障。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -32,23 +32,27 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Block Grants]]"
   - "[[Postdoctoral Pileup]]"
+  - "[[Exploration-Exploitation in Science]]"
 related_theories:
   - "[[Paradigm]]"
   - "[[Planck's Principle]]"
+  - "[[Manso's Model of Innovation]]"
 related_methods:
   - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons:
   - "[[Phillip J. Haubrock]]"
   - "[[Teun Everts]]"
+  - "[[Pierre Azoulay]]"
 related_facts:
   - "[[Declaration on Research Assessment]]"
 related_arguments:
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Azoulay_2011_RJE]]"
 confidence: high
 status: completed
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 ---
@@ -126,18 +130,28 @@ updated: 2026-11-03
 
 ---
 
+> [!concept-proposition] 命题四｜宽容早期失败且奖励长程突破的人本资助契约因果激发极端颠覆性科学创造力
+> **资助契约设计与高风险探索激励** 检验委托代理激励契约对科学家选题与学术突破的影响，确立容忍早期失败与人本长程赋权对激发突破性创造力的因果效能。
+
+> [!claim] [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]]
+> **容错激励契约对极端前沿探索与重大突破的因果倍增** 阿祖莱（Pierre Azoulay）等学者依托霍华德·休斯医学研究所（HHMI）研究员项目与美国国立卫生研究院（NIH）R01 课题资助的准实验对比，实证检验了[[Manso's Model of Innovation|曼索创新激励模型]]。计量分析表明，以具体项目为单元且不容忍早期挫折的考核方式，迫使科学家退守至确定性高的增量利用；而以人为资助单元、赋予五年自主权并在首期免除硬性发文考核的宽松契约，使科学家产出全球排名前 1% 极端重大突破的发生率提升近一倍（半参数双重差分点估计 $\beta = 0.678, p < .01$）。该突破效应伴随低被引试错论著的显著增加以及专业主题词更新速度的大幅加快，因果确证了科学创造力的充分展现高度依赖于对探索失败的制度性包容以及对长程突破的超额奖励。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **制度资源庇护** | 论证长周期基线财政拨付对慢科学深度沉思与高风险探索的庇护价值 | 基础科研资助体制、探索型项目评审 | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]]; Fortin and Currie (2013) |
 > | **评价代理异化** | 揭示脱离实质学术贡献的量化指标对探索活力的挤出与学术能力稀释 | 大学聘任评审、期刊计量考核反思 | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]]; Seglen (1997) |
 > | **团队规模分化** | 阐明小团队主导非常规范式颠覆与大团队巩固既有轨道的结构差异 | 跨学科科研协作网络、科研资助规模配置 | Wu et al. (2019); [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] |
+> | **容错激励契约** | 确证宽容早期失败且重奖长程突破的人本契约因果倍增顶尖学术创造力 | 顶尖科研资助评审、学术资助合同设计 | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **20 世纪中叶 — 心理学个体特质取向** 早期创造力研究多聚焦于科学家个体的人格特质、智商与发散思维测试。
 > - **1960s–1970s — 范式转换与科学社会学拓展** 库恩《科学革命的结构》确立常规科学解谜与革命性范式突破的界分，将创造力置于学术共同体范式演进脉络。
+> - **2011 — 资助契约对科学创造力的因果计量识别** 阿祖莱等在《兰德经济学杂志》结合 HHMI 与 NIH 准实验面板，实证确证宽容早期失败与人本长程赋权使前 1% 突破性科研产出激增近一倍，确立了激励契约在激发探索性创造力中的因果决定作用。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011)]]
 > - **2010s — 科学计量学与网络科学介入** 大数据与引文网络实证揭示非典型知识组合、团队规模对颠覆性创造力的非线性影响。
 > - **2026 — 系统生态学转向与结构性批判** 豪布罗克等在《自然-人类行为》发文，正式将科学创造力确立为学术生态环境的系统涌现属性，系统诊断短周期考核与不稳定聘用对青年学者创造力的体制性窒息。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
@@ -162,6 +176,7 @@ updated: 2026-11-03
 > | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 德国与法国正职教授初聘队伍 | 跨国高等教育劳动力市场追踪 | 正职教授首次初聘平均年龄 | 德国推迟至 42.5 岁，法国从 32.7 岁推迟至 34.4 岁 | — | 证实学术劳动力市场晋升阶梯延后，压缩了青年学者的长期试错时空 |
 > | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 2025 年欧盟玛丽·居里博士后奖学金申请群体（$N = 17,066$） | 资助评审数据统计与文本审查 | 达标合格比例与最终立项资助率 | 合格率 92.8%（15,836 项），立项资助率骤降至 9.6% | 达标门槛 96 分 | 证实极端竞争导致的智识空转严重消耗青年学者创造精力 |
 > | [[Argument_Haubrock_2026_NHB\|Wu et al. (2019) via Haubrock et al. (2026)]] | 1954–2014 年 6,500 万项论著、专利与软件项目 | 大规模跨学科文献计量分析 | 团队规模对研究颠覆性指标（$D$ 指标）的影响 | 小团队（1–3人）颠覆性得分显著高于大团队；大团队倾向于既有范式增量发展 | $p < .001$ | 确证小团队更具开创新构想的突破活力，大团队更具范式巩固效应 |
+> | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 417 位美国顶尖生命科学家微观面板（73 位 HHMI 处理组与 344 位 NIH 对照组，1980–2006 年） | 逆概率加权半参数双重差分模型（IPTW-SDD） | 全球前 1% 引文突破、个人基准试错成果（Flops）与医学主题词新颖度 | 入选 HHMI 显著提高前 1% 顶尖产出（$\beta = 0.678$），试错低引论著同步增加（$\beta = 0.317$），主题词重合度显著降低（$\beta = -0.259$） | $p < .01$ / $p < .10$ | 确证容忍早期失败与长程人本资助契约因果驱动高风险探索与重大突破 |
 
 ---
 
@@ -169,6 +184,8 @@ updated: 2026-11-03
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Exploration-Exploitation in Science]] | 概念 | 科学创造力的微观行为载体，通过跨界探索与纵深利用的时序嵌套实现突破。 |
+> | [[Manso's Model of Innovation]] | 理论 | 为科学创造力资助提供数理契约基础，形式化证明容忍早期失败与奖励长程突破的最优性。 |
 > | [[Academic Precarity]] | 概念 | 就业不稳定迫使青年学者退守安全选题，抑制科学创造力涌现。 |
 > | [[Strategic Conformity in Academia]] | 概念 | 青年学者为求学术生存采取的顺从策略直接削弱了原创理论突破。 |
 > | [[Novelty Bias in Peer Review]] | 概念 | 同行评议中的新颖性防御偏见构成了扼杀非常规创造性构想的制度门槛。 |
@@ -184,4 +201,5 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 比较 HHMI 与 NIH 资助模式，实证确证以人为资助单元、宽容早期失败且奖励长程突破的契约机制能够有效破除避险考核，使全球前 1% 顶尖科学创造力成果产出提高近一倍。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统确立科学创造力的学术生态涌现论，剖析短期资助、不稳定聘用与保守评审对颠覆性创新的多重扼杀机制，提出长周期慢科学改革方案。
