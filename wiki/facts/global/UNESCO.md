@@ -167,7 +167,7 @@ updated: 2026-11-03
 >   全球[[Educational Multilateralism|教育多边主义]]转入新自由主义主导的防卫性与规训性多边主义（Defensive and Disciplinary Multilateralism），教科文组织设定全球教育政策方向的主导权被信贷资本雄厚的世界银行取代。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
 >
 >   - **1984–1985** 美英等国因不满新世界信息秩序相继退约并冻结经常性会费，教科文组织陷入[[Discourse|话语]]与财政的双重边缘化。
->   - **1990** 在泰国宗迪恩联合发起世界全民教育大会。圈内实务分析表明，大会实质由资本实力雄厚的世界银行主导，教科文组织别无选择只能参与，却在会议理念与组织中缺乏有力发言权，标志着战后由它引领全球教育新理念的时代终结。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
+>   - **1990** 在泰国宗迪恩联合发起世界全民教育大会。联合国教科文组织力推涵盖幼儿、扫盲与生活技能的广义基础教育，但世界银行与联合国儿童基金会在现场宣布将资金严格集中于正规小学教育，主导权由此发生实质性转移。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]; [[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
 >   - **1996** 发布里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*），确立教育四大支柱，并指出技术变革与经济全球化正在侵蚀既有社会政策、工作结构与全球公平。菲利普·琼斯（Phillip Jones）与[[David Coleman|戴维·科尔曼]]（David Coleman, 2005）的研究揭示，该报告实质是教科文组织在北遭[[OECD|经合组织]]侵蚀、南受世界银行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 >   - **1996** 报告表层诉诸人本主义哲学以对抗世行的经济主义，深层却与世行及经合组织共同把未来全球社会判定为不可逆的信息时代，合力推销由行政分权、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷与巴西等受援国注重博雅积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效，收紧了借款国探索替代性道路的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1996 起** 在 OECD 发布《以知识为基础的经济》后，相继采纳并重申[[Knowledge-Based Economy|知识经济]]政策话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
@@ -179,7 +179,8 @@ updated: 2026-11-03
 >
 >   教科文组织从全民教育监测者转为[[Sustainability Education|可持续发展教育]]目标的全球协调中枢，并推动全球教育治理的焦点从入学率转向实质性学习质量。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 545)]]
 >
->   - **2000** 达喀尔行动框架确立 EFA 六大目标并建立年度监测机制。
+>   - **2000** 4 月在达喀尔主持召开世界教育论坛，力图扭转经合组织 DAC 报告带来的议程收缩，通过《达喀尔行动纲领》确立涵盖早期儿童保育、全纳优质初等教育、生活技能、成人识字率提升 50%、性别平等与教育质量的六大目标；但事实上被迫向经合组织 DAC 妥协，全盘吸纳了后者设立的 2015 年普及与 2005 年性别目标。数月后联合国千年峰会技术官僚闭门提炼 MDGs 时再次将达喀尔六大目标边缘化，退回经合组织的两项初等教育指标。[[Argument_King_2007_CE|(King, 2007, pp. 384–386)]]
+>   - **2002** 为捍卫达喀尔六大目标的完整性，联合国教科文组织组建具备独立编辑权的团队推出旗舰年度出版物《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report*，GMR），系统跟踪全球全纳教育进展，制衡世界银行同年度启动的、仅聚焦初等完成率与宏观基准的“[[Global Partnership for Education|快速通道倡议]]”（Fast Track Initiative，FTI）。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
 >   - **2006** 《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report 2006*）显示，多数依赖西方外援与[[International Monetary Fund|国际货币基金组织]]／世界银行结构调整贷款的发展中国家未能如期达成 2005 年性别均等与基础教育普及指标；不依赖西方外援、顶住私有化浪潮的古巴则凭借国家组织动员与人道主义优先保障率先实现优质普及基础教育，印证教育公共属性依赖于主权国家的实质政治承诺。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]
 >   - **2013 / 2014** 全球监测报告《教学与学习：实现全员质量》首次系统界定全球学习危机：至少 2.5 亿学龄儿童在接受数年基础教育后仍无法读写简单句子或完成基础运算（其中 1.3 亿已完成四年小学学业），每年造成约 1,290 亿美元的教育财政浪费。报告指出入学普及若不伴随教学质量提升，弱势群体将面临在校却无所获的隐性失学，这也成为世界银行等机构研制 Teach 等[[Classroom Observation|课堂观察]]工具的宏观问题起点。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
 >   - **2015** 仁川世界教育论坛通过《教育 2030 行动框架》，教科文组织被联合国大会指定为 SDG 4 的全球牵头与协调机构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
@@ -214,10 +215,10 @@ updated: 2026-11-03
 > - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；第三世界区域教育技术规划大会（1956 年利马教育部长会议、1958 年华盛顿泛美大会；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1996 年里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；IIEP《战略审议》（*Strategic Review*, 2025）；IIEP Dakar 第 6 号政策简报（2025）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
-> [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
-> 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
+> [!citation-card] 《联合国教科文组织宪章》序言（1945年）
+> 战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障；自古以来，对彼此风俗习惯之无知始终是人类各族群间猜忌与互不信任之通因，此种猜忌与互不信任屡屡导致其分歧最终爆发为战争……因此，各缔约国特在此创立联合国教育、科学及文化组织，旨在通过各国在教育、科学与文化上之联系，促进实现人类普遍正义、法治及人权与基本自由之宗旨。
 >
-> *In the early years, the World Bank’s portfolio in education was almost identical to that of UNESCO. In stark contrast to the World Bank, however, UNESCO had a humanistic and human rights-driven approach to education. The connection between the two organisations was sealed through the Co-operative Agreement signed in 1964. After gaining access to countries of the Global South with the help of UNESCO, the World Bank started to distance itself from UNESCO. It became increasingly apparent that the two organisations neither shared outlooks and priorities nor a modus operandi in governance.*
+> *Since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed; That ignorance of each other’s ways and lives has been a common cause, throughout the history of mankind, of that suspicion and mistrust between the peoples of the world through which their differences have all too often broken into war... For these reasons, the States Parties to this Constitution... do hereby create the United Nations Educational, Scientific and Cultural Organization...*
 
 ---
 
@@ -232,13 +233,7 @@ updated: 2026-11-03
 > - **学校与实践改变** 在发展中国家基层推动扫盲课程、和平教育、母语教学与环境[[Sustainability Education|可持续发展教育]]实验。
 
 > [!stat-cards]- 核心规模数据
-> - **194** 个成员国。
-> - **12** 个准会员。
-> - **200** 个以上国家和地区的年度官方教育普查数据由 [[UNESCO Institute for Statistics|UIS]] 汇聚。
->
-> > [!feature] 数十亿
-> > 人口涉及原条目所述 2030 年 SDG 4 监测目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
->
+> 拥有 194 个成员国与 12 个准会员，UIS 汇聚逾 200 个国家和地区的年度官方教育普查数据，全球教育监测网络覆盖数十亿学龄与终身学习人口。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 
@@ -295,6 +290,12 @@ updated: 2026-11-03
 > > - **全球南方本土困境与批判视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 教科文组织达喀尔办事处（UNESCO IIEP Dakar, 2025）指出，全球顶层证据库对大样本[[Randomised Controlled Trials|随机对照试验]]的偏好造成了认知排斥，将大量非洲本土高适应性草根创新排除在官方证据清单之外；同时 IIEP (2025)《战略审议》尖锐揭示外部宏观诊断报告在受援国往往陷入年年雷同却从未落地的仪式性重复，暴露出全球证据供给与地方治理现实的深刻断层。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
 > > - **教科文组织知识公平倡导** 教科文组织及其规划机构主张将证据界定为人际协作与系统共建的产物，倡导在发展中国家搭建扎根本土的常设政策审议与专业协调机制，通过确立区域自主权与一线实践者深度参与实现知识公平。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 346)]]
 >
+> > [!axis] 全纳受教育权的人文愿景与简约量化指标的技术官僚规训
+> > 围绕达喀尔全民教育六大目标与联合国千年发展目标两项指标之间的理念张力与政治博弈。[[Argument_King_2007_CE|(King, 2007, pp. 384–388)]]
+> >
+> > - **教科文组织全纳人文主义视角** 坚守受教育权作为不可分割的普遍人权，主张涵盖早期保育、成人扫盲、生活技能与教育质量的整体生态；批评多边出资机构主导的 MDGs 将教育狭隘窄化为孤立的小学入学率，不仅割裂了教育与生产性经济增长的联系，更导致中高等教育严重失血。
+> > - **多边出资机构技术效率视角** 辩称资源稀缺情境下必须集中攻克最底层的普及初等教育与消除性别差距；极简的量化指标具有极强的国际政治号召力与审计可行性，便于动员官方发展援助（ODA）并开展跨国监督。
+>
 > > [!citation-card] 琼斯与科尔曼论《德洛尔报告》作为教科文组织应对南北夹击的地缘政治反击
 > > 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1996 年联合国教科文组织发布的里程碑式报告《学习：内在的财富》（德洛尔报告），实质上是该机构在领导权遭受严重危机时的直接产物。当时，教科文组织深感自身在全球教育治理中的威权正被迅速侵蚀——在北方发达国家面临经合组织（OECD）的步步进逼，在南方发展中国家则遭受资金实力雄厚的世界银行的全面挤压；德洛尔报告正是教科文组织为赢回政治合法性与公众声誉而发动的一场明确的公开反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 > >
@@ -314,6 +315,11 @@ updated: 2026-11-03
 > 我们绝不能忘记，像联合国教科文组织这样的其他国际机构，极其慷慨地向成员国提供源源不断的政策建议。但显而易见的是，即便这些理念完全免费提供，各国也根本不怎么理会。经验表明，推动受援国投身深层体制改革的一个真正而巨大的动力，正是随贷款而来的巨额资金。……脱离了资金支持的理念，极易落入绝大多数国家对待联合国教科文组织理念的下场：听起来悦耳动听，签署批准时庄严华丽，但最终全然无足轻重。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 466, 472–473]]）
 >
 > *Let us not forget that other international agencies, such as UNESCO, are prodigal in advice to member countries. And it is quite clear that countries do not pay much attention to what they propose, even though the ideas come free of charge. Experience seems to suggest that one big and real motivation to engage in reforms is the large sums of money that come with the loans... Ideas divorced from funds are likely to be treated as most countries treat UNESCO ideas, good to hear, beautiful declarations to sign and approve, but totally inconsequential.*
+
+> [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
+> 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
+>
+> *In the early years, the World Bank’s portfolio in education was almost identical to that of UNESCO. In stark contrast to the World Bank, however, UNESCO had a humanistic and human rights-driven approach to education. The connection between the two organisations was sealed through the Co-operative Agreement signed in 1964. After gaining access to countries of the Global South with the help of UNESCO, the World Bank started to distance itself from UNESCO. It became increasingly apparent that the two organisations neither shared outlooks and priorities nor a modus operandi in governance.*
 
 ---
 
@@ -348,6 +354,8 @@ updated: 2026-11-03
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，将教科文组织等国际机构定位于话语过度简化与中介的第二位置。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–352)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；系统剖析教科文组织《德洛尔报告》的地缘政治合法性反击及其与经济主义话语深层共谋的学者。 |
 > | [[SDG 4 High-Level Steering Committee]] | 事实 (机构) | 联合国教科文组织全球教育合作机制下的最高政治领导机构。 |
+> | [[Global Partnership for Education]] | 事实 (机构) | 前身为世界银行 2002 年启动的快速通道倡议（FTI），聚焦初等教育借贷，与教科文组织达喀尔六大目标形成范式竞争。[[Argument_King_2007_CE\|(King, 2007, pp. 386–387)]] |
+> | [[Kenneth King]] | 人物 | 考证教科文组织达喀尔全纳教育议程被多边机构二次窄化历史脉络的比较教育学者。 |
 
 ---
 
@@ -366,3 +374,4 @@ updated: 2026-11-03
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示《德洛尔报告》背后教科文组织与世行、经合组织共建全球话语的深层共谋及地缘反击。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 UNESCO IIEP 2025 年战略审议与 Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。
+> - [[Argument_King_2007_CE|King (2007)]] — 考证教科文组织达喀尔六大目标在千年峰会遭遇二次窄化以及设立全球监测报告抗衡世行的历程。

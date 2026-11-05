@@ -251,6 +251,7 @@ updated: 2026-10-31
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
 >   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型新自由主义视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
 >   - **1995** 发布《转型中的治理》（*Governance in Transition*），系统推广以分权、绩效管理与问责为特征的新公共管理原则；后续研究表明，经合组织倡导的 NPM 与[[Test-Based Accountability|考试问责]]（TBA）在各成员国落地时受到英美市场模式、欧洲大陆新韦伯模式与[[Napoleonic Administrative Tradition|拿破仑模式]]等行政传统的深刻过滤与折射。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
+>   - **1996** 经合组织发展援助委员会（Development Assistance Committee, DAC）在巴黎召开第 34 届高级别会议，在广大发展中国家缺席的情境下通过《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century*）报告。该报告将宗滴恩大会的宽泛基础教育议程精简为两项具有刚性时间表的量化指标：2015 年普及初等教育（UPE）与 2005 年在初中等教育消除性别差距。这套由北方捐助国闭门制定的国际开发目标（IDTs），直接奠定了 2000 年联合国千年发展目标（MDGs）教育条款的底层框架。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
 >   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《[[Delors Report|德洛尔报告]]》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 >   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1997** 发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），官方科技政策范式从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。
@@ -408,6 +409,12 @@ updated: 2026-10-31
 > >
 > > - **批判学者视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 经合组织在 2024 年《Yes Minister, Yes Evidence》报告中详细列出政策制定者应掌握的证据技能清单，将循证政策短板归结为公务员队伍的方法论素养不足；然而行政人员普遍受制于碎片化的政治咨询周期和对立党派的舆论压力，将系统性制度供给不足替换为个体胜任力缺失，导致基层官员在缺乏时间保障和容错机制的情境下承受双重问责压力。同时，经合组织 2025 年针对全球 288 家中介机构的调查亦证实，现实中象征性利用往往压倒工具性利用，[[Knowledge Mediation|知识中介]]生态系统仍面临严重的资源匮乏与制度断裂。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
 > > - **经合组织官方治理立场** 强调系统文化建设与公职人员证据能力的双轮驱动，主张建立长效反馈机制与差异化传播方案，通过有机自适应的中介生态系统连接学术研究与政策制定。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–347)]]
+>
+> > [!axis] 北方捐助国指标制定与全球南方自主拥有修辞的张力
+> > 考证经合组织发展援助委员会（DAC）在确立国际开发目标时是否存在制度性局限与议程收缩。[[Argument_King_2007_CE|(King, 2007, pp. 380–383)]]
+> >
+> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** 档案研究证实，经合组织 DAC 1996 年《塑造21世纪》报告完全由北方捐助国在巴黎闭门协商制定，发展中国家未能参与；报告一方面倡导受援国自主拥有，另一方面却将全纳基础教育愿景窄化为孤立的初等教育入学数量与脱节的时间表，并通过政策摘要过滤掉人均经济增长与法治秩序等制度前提。
+> > - **经合组织多边协调立场** 坚称 DAC 确立的量化目标旨在凝聚国际发展合作政治共识，为动员官方发展援助与监测减贫成效提供便于跨国问责的可操作基准。
 
 > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
 > 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1990 年代经合组织（OECD）凭借指标网络与政策审查在北方发达国家教育治理中的迅速崛起，对联合国教科文组织的传统领导地位构成了强烈侵蚀；教科文组织深感自身权威在北面遭遇经合组织的强力挤压，而在南面则遭遇世界银行雄厚信贷资本的蚕食，直接诱发了其深层合法性危机。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
@@ -463,3 +470,30 @@ updated: 2026-10-31
 > | [[Jason Beech]] | Person | 比较教育学者；实证剖析经合组织 1964 年拉美规划报告、五大支柱[[Discourse\|话语]]共谋及对[[UNESCO\|教科文组织]]领导权挤压的代表学者。 |
 > | [[Steen Nepper Larsen]] | Person | 批判经合组织[[Panopticism\|全景敞视]]式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
 > | [[Andreas Schleicher]] | Person | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导[[Metacognition\|元认知]]反思思维。 |
+> | [[Millennium Development Goals]] | Fact (Policy) | 经合组织 DAC 1996 年报告确立的两项教育指标直接成为千年发展目标教育条款的蓝本。[[Argument_King_2007_CE\|(King, 2007, pp. 380–382)]] |
+> | [[Kenneth King]] | Person | 考证经合组织 DAC 确立国际开发目标并精简全球教育议程历史脉络的比较教育学者。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际关系理论透镜剖析 OECD 远处治理、量化排名与知识霸权对主权国家教育体系的规训。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用世界教育改革数据库实证检验 OECD 政策中介机制、挪威课程改革中的中介垄断以及跨国机构竞争。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 剖析 OECD 弗拉斯卡蒂手册单一研发投入排行的局限，阐明国家创新系统理论对科技政策的范式重构。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 梳理 OECD 从冷战社会民主主义妥协向新自由主义经济基要主义的范式断裂，解构其数字治理与等值空间制造。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考证 OECD 1964 年阿根廷规划报告的技术官僚渗透，揭示其与世行合构全球教育话语并对教科文组织产生挤压。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 实证考察 OECD 倡导的新公共管理与考试问责在不同行政传统国家落地时的折射与本土调适。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从欧洲比较教育学科史视角批判 OECD 经济主义与指标治理对航海隐喻传统和独立学者探究自主权的侵蚀。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 总结 OECD CERI 历经二十余年推进教育知识治理、知识动员与国家级证据生态系统建设的演进图景。
+> - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 剖析 OECD 启动 AHELO 可行性研究试图将指标治理拓展至高校教学的尝试及参测国委员会治理机制。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 批判比较公共政策中的经合组织北方中心主义偏见，揭示全球南方微观创新与南南合作对政策流动的重塑。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 提出硬事实软治理命题，阐明 OECD 依托探究模式与调解模式确立认知权威并推动全球教育的经合组织化。
+> - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 剖析 OECD 在跨国政策借用连续谱中通过软法建议与同行评议扮演的协商性政策转移中介功能。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用布迪厄场域理论解构经合组织如何依托测量资本与象征资本确立全球教育政策场域的跨国仲裁者权威。
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 揭示 OECD 双轨发布策略与媒介定制机制，剖析本土政客制造教育危机与 OECD 测试品牌扩张的象征性共谋。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 援引 OECD 博士培养规模追踪数据，为量化识别全球科研劳动力市场供需失衡与学术职业瓶颈提供实证基准。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 考察 OECD 指标体系与循证治理对主权国家建立国家级质量监测与督导评估机制的推动作用。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 OECD 与欧盟委员会的跨机构共生机制，揭示比较指标如何成为赋权主权国家推行国内改革的准外部合法化权威。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 运用批判哲学透视 OECD 全景敞视式量化测评对存在性自由的剥夺，揭示其标准化测验与高阶反思思维的悖论。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 在全球 654 个证据平台网络测绘中将 OECD 定位于中心群第 4 位，揭示多边机构主导全球证据生产的格局。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 评析 OECD 知识动员与证据利用调查报告，批判其将系统性制度供给不足转嫁为公职人员个体能力赤字的倾向。
+> - [[Argument_King_2007_CE|King (2007)]] — 考证经合组织 DAC 1996 年巴黎会议闭门确立国际开发目标并将教育窄化为初等与性别两项指标的历史脉络。
