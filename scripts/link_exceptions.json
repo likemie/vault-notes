@@ -504,5 +504,15 @@
       "sentence": "**个人基准高被引突破（Hits）**",
       "target": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md": [
+    {
+      "sentence": "重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的互补多样性支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学创造力的关键制度障碍。",
+      "target": "wiki/concepts/science-policy/Big Science.md"
+    },
+    {
+      "sentence": "重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的互补多样性支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学创造力的关键制度障碍。",
+      "target": "wiki/concepts/competency-and-assessment/Creativity.md"
+    }
   ]
 }
