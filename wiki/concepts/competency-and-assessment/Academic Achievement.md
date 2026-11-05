@@ -191,6 +191,7 @@ related_arguments:
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: active
 created: 2026-08-15

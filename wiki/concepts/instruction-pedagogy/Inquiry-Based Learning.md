@@ -92,6 +92,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhang_2022_SE]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: active
 created: 2026-09-20
@@ -285,6 +286,7 @@ updated: 2026-11-03
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Minner et al., 2010） | 138 项包含探究要素的实证研究（42 项严格受控比较研究） | [[Systematic Review\|系统综述]]与受控实验亚组分析 | 概念知识习得与探究饱和度 | 全样本中 51% 报告正向效应，仅 2% 为负向；42 项受控研究中 55% 证实高探究饱和度显著优于低探究，仅 1 项（2%）低探究占优 | 具有统计学显著性 | 跨越数十年理科实证研究，推翻了直接教学在概念知识上普遍优于探究的断言 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Smetana & Bell, 2012） | 61 项[[Computer Simulation\|计算机模拟]]探究与讲授/实验对比研究 | 系统[[Literature Review\|文献综述]] | 科学理解与概念掌握 | 49 项研究（80%）表明计算机模拟探究组具有明显学业优势 | 定性实证梳理 | 强调计算机模拟必须配套高质量支持结构方能充分发挥探究效能 |
@@ -294,6 +296,7 @@ updated: 2026-11-03
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 变量控制策略掌握率与跨情境迁移成绩 | 即时后测与延迟迁移测试两组得分高度均等 | 组间差异无统计学显著性（等效） | 受控课堂实验；表明探究教学与直接教学在程序与概念掌握上均具同等有效性 |
 > | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级学生 | 物理概念学习：学生自主设计与探究 vs. 教师直接讲授方案 | 深度概念理解与跨情境远迁移测验 | 自主设计探究组在解释性因果机制与迁移任务得分显著占优 | 显著高于直接讲授组 | 实验室受控实验；证实自主权衡[[Variable\|变量]]关系有助于深层认知表征的重构 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5, 9)]]<br>（引述 d'Angelo et al., 2014） | 59 篇文章（128 个效应量） | 元分析：标准化均数差（SMD），随机效应模型 | 干预措施：评估[[Computer Simulation\|计算机模拟]]探究教学对比非模拟传统教学的学效 | 内容知识（$k=96$）、探究推理技能（$k=17$）及非认知结果（$k=15$）均呈显著正效应 | 实验与[[Quasi-Experimental Designs\|准实验设计]]效应无显著差异 | 证实带支持的仿真探究显著优于非仿真教学，且有支架组优于无支架组 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰全国初中综合评估样本（Kupiainen et al., 2014）与 PISA 跨国微观数据 | 历史制度考证与多层回归实证分析 | 学生主导的开放探究与信息检索频次 vs 教师高结构讲授 | 国内评估与 PISA 均证实频繁推行学生主导探究与数理成绩呈显著负相关；保留教师高结构讲解班级成绩显著领先 | 具有统计学显著性（$p < .05$） | 提供了宏观国家基础教育因盲目转向学生中心探究教学引发大规模认知表现滑坡的实证案例（pp. 58–63） |
 
 ---
 
@@ -301,4 +304,5 @@ updated: 2026-11-03
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
 > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
+> - **[[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]** — 结合芬兰国家评估与 PISA 微观数据，实证检验 1990 年代建构主义大纲落地与学生中心探究教学普及对基础认知表现的负向因果效应，警示过早放弃教师主导讲授的教学风险（pp. 58–63）。
 

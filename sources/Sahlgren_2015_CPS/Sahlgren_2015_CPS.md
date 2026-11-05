@@ -1,6 +1,7 @@
 ---
 citation: "Sahlgren, G. H. (2015). Real Finnish Lessons: The true story of an education superpower. Centre for Policy Studies."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Sahlgren_2015_CPS]]"
 processed_date: 2026-11-06
 ---
 
