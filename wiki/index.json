@@ -41927,7 +41927,7 @@
     "aliases": [
       "政策研究中心",
       "英国政策研究中心",
-      "CPS"
+      "英国CPS智库"
     ],
     "subtype": "organization"
   },
@@ -49112,6 +49112,11 @@
     "title": "Argument_Hattie_2005_ACER",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md"
+  },
+  {
+    "title": "Argument_Sahlgren_2015_CPS",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
   },
   {
     "title": "Argument_Cowen_2015_CHESS",

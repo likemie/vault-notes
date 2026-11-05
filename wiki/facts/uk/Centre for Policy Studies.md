@@ -3,7 +3,7 @@ title: Centre for Policy Studies
 aliases:
   - 政策研究中心
   - 英国政策研究中心
-  - CPS
+  - 英国CPS智库
 summary: "英国著名保守派政策智库与研究机构，由基思·约瑟夫与玛格丽特·撒切尔等人于1974年创立，系统阐发货币主义、公用事业私有化与教育择校竞争方案，在战后英国新右派政策范式确立与现代教育问责改革中扮演了核心思想母体角色。"
 type: fact
 subtype: organization
