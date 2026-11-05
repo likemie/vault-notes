@@ -1054,7 +1054,9 @@
     "Ardoy, 2014": "Ardoy, 2014",
     "Areas which rank highly in Marzano (1998)": "Areas which rank highly in Marzano, 1998",
     "Areas which rank highly in Marzano, 1998": "Areas which rank highly in Marzano, 1998",
+    "Arendt (1954)": "Arendt, 1954",
     "Arendt (1963)": "Arendt, 1963",
+    "Arendt, 1954": "Arendt, 1954",
     "Arendt, 1963": "Arendt, 1963",
     "Argyris & Schon (1978)": "Argyris & Schon, 1978",
     "Argyris & Schon, 1978": "Argyris & Schon, 1978",
@@ -8188,7 +8190,9 @@
     "Frelin, 2015": "Frelin, 2015",
     "French (2007)": "French, 2007",
     "French, 2007": "French, 2007",
+    "Freud (1930)": "Freud, 1930",
     "Freud (2012)": "Freud, 2012",
+    "Freud, 1930": "Freud, 1930",
     "Freud, 2012": "Freud, 2012",
     "Freund & Kasten (2012)": "Freund & Kasten, 2012",
     "Freund & Kasten, 2012": "Freund & Kasten, 2012",
@@ -10007,9 +10011,7 @@
     "Hanna (1993)": "Hanna, 1993",
     "Hanna, 1993": "Hanna, 1993",
     "Hannah (2008)": "Hannah, 2008",
-    "Hannah Arendt (1954)": "Hannah Arendt, 1954",
     "Hannah Arendt (1963)": "Hannah Arendt, 1963",
-    "Hannah Arendt, 1954": "Hannah Arendt, 1954",
     "Hannah Arendt, 1963": "Hannah Arendt, 1963",
     "Hannah, 2008": "Hannah, 2008",
     "Hans (1949)": "Hans, 1949",
@@ -21905,9 +21907,7 @@
     "Siew (2019)": "Siew, 2019",
     "Siew, 2019": "Siew, 2019",
     "Sigmund Freud (1907)": "Sigmund Freud, 1907",
-    "Sigmund Freud (1930)": "Sigmund Freud, 1930",
     "Sigmund Freud, 1907": "Sigmund Freud, 1907",
-    "Sigmund Freud, 1930": "Sigmund Freud, 1930",
     "Signetics (1961)": "Signetics, 1961",
     "Signetics, 1961": "Signetics, 1961",
     "Signorella et al. (2013)": "Signorella et al., 2013",
@@ -35045,6 +35045,21 @@
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEdPolicy.md"
       ],
       "title": ""
+    },
+    "Arendt, 1954": {
+      "aliases": [
+        "Arendt, 1954",
+        "Arendt (1954)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Arendt, 1954"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+      ],
+      "title": "The Crisis in Education"
     },
     "Arendt, 1963": {
       "aliases": [
@@ -87349,6 +87364,21 @@
       ],
       "title": ""
     },
+    "Freud, 1930": {
+      "aliases": [
+        "Freud, 1930",
+        "Freud (1930)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Freud, 1930"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+      ],
+      "title": "Civilization and Its Discontents"
+    },
     "Freud, 2012": {
       "aliases": [
         "Freud, 2012",
@@ -100558,21 +100588,6 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md",
         "wiki/concepts/competency-and-assessment/Achievement and Aptitude Tests.md"
-      ],
-      "title": ""
-    },
-    "Hannah Arendt, 1954": {
-      "aliases": [
-        "Hannah Arendt, 1954",
-        "Hannah Arendt (1954)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hannah Arendt, 1954"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
       ],
       "title": ""
     },
@@ -186981,21 +186996,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Culture of Disbelief.md"
-      ],
-      "title": ""
-    },
-    "Sigmund Freud, 1930": {
-      "aliases": [
-        "Sigmund Freud, 1930",
-        "Sigmund Freud (1930)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Sigmund Freud, 1930"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
       ],
       "title": ""
     },
