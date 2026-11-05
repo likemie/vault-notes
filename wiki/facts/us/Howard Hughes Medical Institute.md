@@ -10,10 +10,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#f1f5f9"
+fact_related_color: "#dcfce7"
 org_type: 非营利私立医学研究资助机构
 headquarters: 美国马里兰州切维切斯（Chevy Chase, Maryland）
 established: "1953"
@@ -25,7 +25,10 @@ tags:
   - region/us
 related_concepts:
   - "[[Exploration-Exploitation in Science]]"
-related_theories: []
+  - "[[Scientific Productivity]]"
+  - "[[Creativity]]"
+related_theories:
+  - "[[Manso's Model of Innovation]]"
 related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Propensity Score Matching]]"
@@ -34,7 +37,8 @@ related_persons:
   - "[[Pierre Azoulay]]"
 related_facts:
   - "[[National Institutes of Health]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Azoulay_2011_RJE]]"
 confidence: high
 status: active
 created: 2026-11-05
@@ -82,9 +86,9 @@ updated: 2026-11-05
 > - **驻校联合雇佣模式** HHMI 研究员保持在所属大学的终身教职，同时被任命为 HHMI 雇员，HHMI 直接承担其全额薪资、福利保障及实验室专属科研预算。
 
 > [!pathways] 业务运行机制
-> - **人本导向的准入遴选** 不要求申报具体课题的研究方案或详尽实验步骤，候选人仅需提交代表性历史论文与未来探索愿景陈述；评审重点考察科学家本人的学术洞察力、原创品格与攻关远见。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, pp. 531–532)]]
+> - **人本导向的准入遴选** 不要求申报具体课题的研究方案或详尽实验步骤，候选人仅需提交代表性历史论著与未来探索愿景陈述；评审重点考察科学家本人的学术洞察力、原创品格与攻关远见。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, pp. 531–532)]]
 > - **五年期弹性资助与方向自主权** 首次聘期固定为 5 年，期间允许研究人员自由更换实验物种、理论假说或具体课题方向，无需向资助方申请事前变更审批，支持其在遭遇早期挫折时快速转向新实验路径。
-> - **宽容早期失败的评审标准** 首次续聘评审以考察探索广度与学术勇气为主，不以短周期论文篇数设立刚性淘汰指标；续聘成功率达 80% 左右。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
+> - **宽容早期失败的评审标准** 首次续聘评审以考察探索广度与学术勇气为主，不以短周期发表篇数设立刚性淘汰指标；续聘成功率达 80% 左右。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
 > - **两年退出缓冲期（Phase-down Grace Period）** 若研究员在期满评审中未能续聘，HHMI 提供长达两年的全额资助递减退出机制，保障实验室团队稳定并缓冲转轨冲击，从而实质解除科研人员对探索失败导致资金链瞬间断裂的心理顾虑。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
 
 ---
@@ -112,10 +116,10 @@ updated: 2026-11-05
 > - **倒逼公共资助机制革新** HHMI 的成功经验促使美国联邦政府与 NIH 反思传统 R01 课题制评审中的避险偏误，推动设立 NIH 主任先锋奖等长周期对人资助试点。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 552)]]
 
 > [!stat-cards]- 核心规模数据
-> - **5 年** 基础任命周期，考核合格后续聘 5 年，赋予极高选题自主权。
-> - **2 年** 未能续聘时的全额退坡缓冲资助期，免除实验骤停风险。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
+> - **5** （年） 基础任命周期，考核合格后续聘 5 年，赋予极高选题自主权。
+> - **2** （年） 未能续聘时的全额退坡缓冲资助期，免除实验骤停风险。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
 > - **≈ 80%** HHMI 研究员聘期届满时的续聘比例。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]
-> - **> 60%** 相较对照组，入选 HHMI 对产出全球前 1% 高被引论文发生率的半参数双重差分净增幅。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 544)]]
+> - **> 60%** 相较对照组，入选 HHMI 对产出全球前 1% 高被引成果发生率的半参数双重差分净增幅。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 544)]]
 
 ---
 
@@ -131,7 +135,7 @@ updated: 2026-11-05
 > > 学界探讨 HHMI 研究员成果的高被引是否主要由机构金字招牌的注意力和马太效应驱动。
 > >
 > > - **声誉假说质疑** 学者入选 HHMI 赋予的光环效应引导了学术界同行的注意力搜寻，使得相同质量的成果更容易获得高引用。
-> > - **实证反驳结论** 计量检验显示，HHMI 研究员不仅在顶尖论文上显著增加，在冷门未被引的试错论文数量上同样显著增加，且研究选题的医学词汇更替速度明显加快，证明其核心驱动力源自真实的探索冒险而非单纯的声望贴牌。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, pp. 545–548)]]
+> > - **实证反驳结论** 计量检验显示，HHMI 研究员不仅在顶尖成果上显著增加，在冷门未被引的试错成果数量上同样显著增加，且研究选题的医学词汇更替速度明显加快，证明其核心驱动力源自真实的探索冒险而非单纯的声望贴牌。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, pp. 545–548)]]
 
 ---
 

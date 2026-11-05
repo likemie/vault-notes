@@ -10,10 +10,10 @@ aliases:
 summary: "科学社会学与科技政策概念，指学术研究人员在同行索取用于验证或拓展研究的实验材料（如细胞系、质粒、突变动物）或未发表的底层研究数据时，出于商业利益保护、先发发表竞争或专利合规借口，采取拒绝提供、拖延答复或施加严苛限制条件的非共享防卫行为。"
 type: concept
 domain: "science-policy"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/science-policy
   - concept/sociology-of-science

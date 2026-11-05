@@ -16343,6 +16343,18 @@
     ]
   },
   {
+    "title": "Cumulative Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Cumulative Innovation.md",
+    "aliases": [
+      "累积性创新",
+      "累积创新",
+      "后续研究",
+      "Follow-on Research",
+      "累积技术进步"
+    ]
+  },
+  {
     "title": "Curiosity-Driven Research",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Curiosity-Driven Research.md",
@@ -19894,6 +19906,19 @@
     ]
   },
   {
+    "title": "Reach-Through Rights",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md",
+    "aliases": [
+      "穿透性提成条款",
+      "到达提成",
+      "穿透性权利",
+      "到达权利",
+      "Reach-Through Royalties",
+      "Reach-Through Claims"
+    ]
+  },
+  {
     "title": "Regional Innovation System",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Regional Innovation System.md",
@@ -22803,6 +22828,17 @@
       "科学生产力反比平方定律",
       "Lotka's Power Law",
       "Inverse Square Law of Scientific Productivity"
+    ]
+  },
+  {
+    "title": "Manso's Model of Innovation",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Manso's Model of Innovation.md",
+    "aliases": [
+      "曼索创新激励模型",
+      "容忍失败与长周期激励理论",
+      "Manso's Theory of Motivating Innovation",
+      "Motivating Innovation Model"
     ]
   },
   {
@@ -32603,6 +32639,15 @@
       "加菲尔德",
       "E. Garfield",
       "Garfield, E."
+    ]
+  },
+  {
+    "title": "Fiona Murray",
+    "type": "person",
+    "path": "wiki/persons/us/Fiona Murray.md",
+    "aliases": [
+      "菲奥娜·默里",
+      "Fiona E. Murray"
     ]
   },
   {
@@ -44364,6 +44409,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Howard Hughes Medical Institute",
+    "type": "fact",
+    "path": "wiki/facts/us/Howard Hughes Medical Institute.md",
+    "aliases": [
+      "HHMI",
+      "霍华德·休斯医学研究所",
+      "休斯医学研究所"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Hunt Institute",
     "type": "fact",
     "path": "wiki/facts/us/Hunt Institute.md",
@@ -48572,6 +48628,11 @@
     "title": "Argument_Kalmendal_2025_PsyArXiv",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
+  },
+  {
+    "title": "Argument_Azoulay_2011_RJE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md"
   },
   {
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",

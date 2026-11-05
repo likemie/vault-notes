@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Tool]]"
   - "[[Heterogeneity]]"
   - "[[Material Transfer Agreement]]"
+  - "[[Cumulative Innovation]]"
   - "[[Technology Transfer]]"
   - "[[Data Withholding]]"
   - "[[Interaction Effect]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Causality]]"
   - "[[Reliability]]"
+  - "[[Reach-Through Rights]]"
   - "[[Public Value]]"
   - "[[Big Science]]"
   - "[[Document]]"
@@ -51,12 +53,12 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Experimental Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Fiona Murray]]"
 related_facts:
   - "[[Web of Science]]"
   - "[[United States Patent and Trademark Office]]"
   - "[[Oncomouse]]"
-  - "[[Reach]]"
   - "[[Human Genome Project]]"
   - "[[National Institutes of Health]]"
 related_arguments: []
@@ -72,7 +74,7 @@ title: "Argument_Thompson_et_al_2018_RP"
 argument_key: "Argument_Thompson_et_al_2018_RP"
 argument_display_title: "University licensing and the flow of scientific knowledge"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -89,12 +91,12 @@ issuing_organization: ""
 > 大学对学术科研成果申请发明专利并签署商业许可协议，究竟会提升成果在产业与学术界的可见度，还是通过排他性产权保护与材料转让限制阻滞科学知识在学术同行间的自由扩散？在作为后续实验直接输入的[[Research Tool|科研工具]]与一般性发明之间，这种知识流动效应是否存在实质性制度[[Heterogeneity|异质性]]？
 
 > [!claim]
-> 大学学术专利的商业许可对科学知识流动的因果影响取决于技术成果是否属于后续实验必需的实体输入品。对于不涉及[[Material Transfer Agreement|材料转移协议]]（Material Transfer Agreement, MTA）的一般性专利发明，商业许可使关联学术出版物的期刊被引频次呈现弱正向增长；对于作为科研工具（Research Tool）并受 MTA 规制的专利成果，商业许可导致关联学术成果在许可后三年的学术被引频次显著下降超过 50%，证实实体输入品的商业排他控制对后续累积性科学发现构成了实质性阻滞。
+> 大学学术专利的商业许可对科学知识流动的因果影响取决于技术成果是否属于后续实验必需的实体输入品。对于不涉及[[Material Transfer Agreement|材料转移协议]]（Material Transfer Agreement, MTA）的一般性专利发明，商业许可使关联学术出版物的期刊被引频次呈现弱正向增长；对于作为科研工具（Research Tool）并受 MTA 规制的专利成果，商业许可导致关联学术成果在许可后三年的学术被引频次显著下降超过 50%，证实实体输入品的商业排他控制对后续[[Cumulative Innovation|累积性科学发现]]构成了实质性阻滞。
 
 > [!concept-lens]
 > - **对象** 加利福尼亚大学（University of California, UC）总校长办公室（University of California Office of the President, UCOP）知识产权与[[Technology Transfer|技术转移]]机构在 1997 至 2007 年间管理的 11,341 件教研人员发明披露、2,035 项授权美国专利、1,890 项专利许可协议以及 3,853 份 MTA，结合 [[Web of Science]] 对应的期刊发表成果与前向引文追踪记录。
 > - **张力** 知识产权与商业许可的市场催化论（通过排他权利保护激励产业开发并释放成果质量信号）与反公地悲剧论（碎片化权利堆叠与实体材料拒绝交付阻碍后续基础科学探索）。
-> - **贡献** 开发基于发明人的最大似然匹配算法以自动化构建专利与科学出版物配对（[[Patent-Paper Pairs]]）；运用[[Genetic Matching|遗传匹配]]（Genetic [[Matching]]）算法构建高均衡对照组；依托 MTA 行政记录在微观层面精确分离出科研工具属性，因果测度了专利排他许可对后续学术引用的负向冲击。
+> - **贡献** 开发基于发明人的最大似然匹配算法以自动化拓展[[Fiona Murray|菲奥娜·默里（Fiona Murray）]]首创的专利与科学出版物配对（[[Patent-Paper Pairs]]）方法；运用[[Genetic Matching|遗传匹配]]（Genetic [[Matching]]）算法构建高均衡对照组；依托 MTA 行政记录在微观层面精确分离出科研工具属性，因果测度了专利排他许可对后续学术引用的负向冲击。
 
 ---
 
@@ -103,7 +105,7 @@ issuing_organization: ""
 > |----------|----------|
 > | [[Tragedy of the Anticommons|反公地悲剧理论]]<br>Heller and Eisenberg (1998) | 阐明当大量上游基础研究成果被授予排他性专利权时，过多的权利人与高昂的交易成本将导致后续科研人员难以整合必要的研发要素，造成公共知识资源的低效利用。 |
 > | [[Data Withholding|实体排他性与材料扣留理论]]<br>Walsh et al. (2007) | 区分无形专利权利要求与物理实验材料的排他性控制，指出当科学家参与商业活动时，拒绝提供实体研究材料的概率大幅上升，构成阻碍后续实验的直接机制。 |
-> | **市场信号假说与累积创新催化论**<br>Sampat and Ziedonis (2004) | 认为专利许可能够公开证实技术成果的商业潜力与科学重要性，向同行传递高质量声誉信号，进而激发更多关联领域的后续探索。 |
+> | **市场信号假说与[[Cumulative Innovation|累积创新]]催化论**<br>Sampat and Ziedonis (2004) | 认为专利许可能够公开证实技术成果的商业潜力与科学重要性，向同行传递高质量声誉信号，进而激发更多关联领域的后续探索。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将关注焦点从专利权授予本身推进至专利商业许可与实体材料控制的[[Interaction Effect|交互作用]]。反公地假说与实体排他理论预测：当专利成果涉及后续实验必需的有形输入品时，独家商业许可会赋予被许可方控制或限制材料供给的经济动机，形成知识流动阻碍；信号假说则预测：对于无需实体样本交付的一般性发明，商业许可主要充当成果重要性的公开认证，能够提升关联科学成果在学术界的显示度。
@@ -165,7 +167,7 @@ issuing_organization: ""
 > 1. **提取发明人先验信息** 从加州大学披露库与[[United States Patent and Trademark Office|美国专利商标局]]（United States Patent and Trademark Office, USPTO）专利文本中提取全部发明人姓名、单位隶属与专业领域。
 > 2. **设定时间与机构窗口** 在 Web of Science 数据库中检索该发明人在披露日前后窗口期内以加州大学名义发表的候选学术成果。
 > 3. **构建最大似然估计器** 基于学术出版物署名者与专利发明人重合度、学科门类匹配概率及关键词相似度计算联合概率似然值。
-> 4. **基准样本双向比对验证** 将算法生成的匹配结果与 Murray and Stern (2007) 手工甄别的经典样本比对，取得 95% 的配对一致率，确立了自动化工具的高保真度。
+> 4. **基准样本双向比对验证** 将算法生成的匹配结果与[[Fiona Murray|默里]]和斯特恩（Murray & Stern, 2007）手工甄别的经典样本比对，取得 95% 的配对一致率，确立了自动化工具的高保真度。
 
 > [!sub-claim] 2. 全样本双重差分检验显示许可前后学术引用并无显著差异
 
@@ -285,7 +287,7 @@ issuing_organization: ""
 
 > [!case] 案例一　[[Oncomouse|致癌小鼠（Oncomouse）]]独占许可与排他性材料管制
 > - **事件背景与专利许可** 1984 年哈佛大学科学家成功构建携带致癌基因的转基因小鼠（[[Oncomouse]]），申请并获得美国专利后，将该专利排他性独家许可给杜邦公司（DuPont）。
-> - **材料管控与收益索取** 杜邦公司对实验小鼠推行极高的单鼠采购定价，严禁科研人员自行繁育后代，要求科学家在发表研究成果前接受公司预先审查，并强制要求对任何利用该小鼠获得的后续科研突破索取到达提成（[[Reach|reach]]-through royalties）。
+> - **材料管控与收益索取** 杜邦公司对实验小鼠推行极高的单鼠采购定价，严禁科研人员自行繁育后代，要求科学家在发表研究成果前接受公司预先审查，并强制要求对任何利用该小鼠获得的后续科研突破索取到达提成（[[Reach-Through Rights|reach-through royalties]]）。
 > - **规避同行索取的免责策略** 严苛的商业条款迫使大批生命科学实验室放弃相关探索。同时，发明人以杜邦许可协议为防御盾牌，借法律条款约束回绝同行的实验材料索取请求（Strandburg, 2008; Murray, 2010）。
 
 > [!case] 案例二　斯坦福大学低成本寡核苷酸自动合成仪排他许可与基因组测序受阻

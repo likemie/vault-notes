@@ -11,7 +11,7 @@ summary: "一种用于评估公共政策或教育干预因果效应的准实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -69,11 +69,13 @@ related_facts:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Azoulay_2011_RJE]]"
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Thompson_et_al_2018_RP]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 ---
@@ -260,6 +262,7 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 结合倾向得分加权构建半参数双重差分模型，因果识别长周期宽容失败资助对生命科学家极端引文产出分布的提升效能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用双重差分法与[[Propensity Score Matching\|倾向得分匹配]]评估学校宏观体制选择的因果成效。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 综述生命科学家猝逝等准自然实验（Azoulay et al., 2010），运用匹配双重差分模型克服同伴效应中的反射问题与选择偏误，因果识别学术网络对科研伙伴生产力的实质溢出。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将双重差分法确立为科学学三大准实验方法之一，评析利用学者猝逝等外生突发冲击识别学术合作溢出效应的因果识别逻辑。

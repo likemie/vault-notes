@@ -1328,13 +1328,11 @@
     "Azmi et al., 2024": "Azmi et al., 2024",
     "Azoulay (2012)": "Azoulay, 2012",
     "Azoulay et al. (2010)": "Azoulay et al., 2010",
-    "Azoulay et al. (2011)": "Azoulay et al., 2011",
     "Azoulay et al. (2012)": "Azoulay et al., 2012",
     "Azoulay et al. (2014)": "Azoulay et al., 2014",
     "Azoulay et al. (2019)": "Azoulay et al., 2019",
     "Azoulay et al. (2020)": "Azoulay et al., 2020",
     "Azoulay et al., 2010": "Azoulay et al., 2010",
-    "Azoulay et al., 2011": "Azoulay et al., 2011",
     "Azoulay et al., 2012": "Azoulay et al., 2012",
     "Azoulay et al., 2014": "Azoulay et al., 2014",
     "Azoulay et al., 2019": "Azoulay et al., 2019",
@@ -6879,6 +6877,8 @@
     "Ehri et al., 2001c": "Ehri et al., 2001c",
     "Ehri et al., 2007": "Ehri et al., 2007",
     "Ehri, 2007": "Ehri, 2007",
+    "Eisenberg (1998)": "Eisenberg, 1998",
+    "Eisenberg, 1998": "Eisenberg, 1998",
     "Eisenhardt (1989)": "Eisenhardt, 1989",
     "Eisenhardt, 1989": "Eisenhardt, 1989",
     "Eisenhart & Howe (1992)": "Eisenhart & Howe, 1992",
@@ -10867,6 +10867,8 @@
     "Holmes, 2013": "Holmes, 2013a",
     "Holmes, 2013a": "Holmes, 2013b",
     "Holmes, 2013b": "Holmes, 2013b",
+    "Holmström (1989)": "Holmström, 1989",
+    "Holmström, 1989": "Holmström, 1989",
     "Holsti (1969)": "Holsti, 1969",
     "Holsti, 1969": "Holsti, 1969",
     "Holt (2007)": "Holt, 2007",
@@ -16965,6 +16967,8 @@
     "Murray (2010)": "Murray, 2010",
     "Murray et al. (2012)": "Murray et al., 2012",
     "Murray et al., 2012": "Murray et al., 2012",
+    "Murray's (2002)": "Murray's, 2002",
+    "Murray's, 2002": "Murray's, 2002",
     "Murray, 1998": "Murray, 1998",
     "Murray, 2002": "Murray, 2002",
     "Murray, 2005": "Murray, 2005",
@@ -21346,6 +21350,8 @@
     "Scionti et al., 2020": "Scionti et al., 2020",
     "Scope (1998)": "Scope, 1998",
     "Scope, 1998": "Scope, 1998",
+    "Scotchmer (1991)": "Scotchmer, 1991",
+    "Scotchmer, 1991": "Scotchmer, 1991",
     "Scott & Davis (2016)": "Scott & Davis, 2016",
     "Scott & Davis, 2016": "Scott & Davis, 2016",
     "Scott & Kirst (2017)": "Scott & Kirst, 2017",
@@ -26760,6 +26766,8 @@
     "以上, 2005": "以上, 2005",
     "以卡拉汉 (1962)": "以卡拉汉, 1962",
     "以卡拉汉, 1962": "以卡拉汉, 1962",
+    "以默里和斯特恩 (2007)": "以默里和斯特恩, 2007",
+    "以默里和斯特恩, 2007": "以默里和斯特恩, 2007",
     "伍兹 (1979)": "伍兹, 1979",
     "伍兹, 1979": "伍兹, 1979",
     "会长 (1997)": "会长, 1997",
@@ -26972,6 +26980,8 @@
     "德国, 2015": "德国, 2015",
     "德容等 (2023)": "德容等, 2023",
     "德容等, 2023": "德容等, 2023",
+    "德里瓦斯等 (2017)": "德里瓦斯等, 2017",
+    "德里瓦斯等, 2017": "德里瓦斯等, 2017",
     "思想先声 (1925)": "思想先声, 1925",
     "思想先声, 1925": "思想先声, 1925",
     "思想实验与防御策略分析 (2019)": "思想实验与防御策略分析, 2019",
@@ -27389,7 +27399,9 @@
     "鲍尔斯顿与勒鲁瓦 (1980)": "鲍尔斯顿与勒鲁瓦, 1980",
     "鲍尔斯顿与勒鲁瓦, 1980": "鲍尔斯顿与勒鲁瓦, 1980",
     "鲍格丹与比克连 (1992)": "鲍格丹与比克连, 1992",
-    "鲍格丹与比克连, 1992": "鲍格丹与比克连, 1992"
+    "鲍格丹与比克连, 1992": "鲍格丹与比克连, 1992",
+    "默里 (2002)": "默里, 2002",
+    "默里, 2002": "默里, 2002"
   },
   "items": {
     "14.1 Adelman et al., 1980": {
@@ -37000,24 +37012,6 @@
         "wiki/methods/quantitative/Difference-in-Differences.md"
       ],
       "title": "Superstar Extinction"
-    },
-    "Azoulay et al., 2011": {
-      "aliases": [
-        "Azoulay et al., 2011",
-        "Azoulay et al. (2011)"
-      ],
-      "doi": "https://doi.org/10.1093/qje/qjr020",
-      "identity_keys": [
-        "Azoulay et al., 2011"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
-        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
-        "wiki/concepts/educational-philosophy/Causality.md"
-      ],
-      "title": "Incentives and creativity: evidence from the HHMI investigator program"
     },
     "Azoulay et al., 2012": {
       "aliases": [
@@ -69072,6 +69066,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md",
         "wiki/concepts/science-policy/Data Withholding.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
@@ -77618,6 +77613,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reading Rescue  An Effective Tutoring Intervention Model For Language-Minority Students Who Are Struggling Readers in First Grade"
+    },
+    "Eisenberg, 1998": {
+      "aliases": [
+        "Eisenberg, 1998",
+        "Eisenberg (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Eisenberg, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md"
+      ],
+      "title": ""
     },
     "Eisenhardt, 1989": {
       "aliases": [
@@ -103765,6 +103775,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
@@ -106878,6 +106889,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Manipulative Use on PK-12 Mathematics Achievement: A Meta-Analysis"
+    },
+    "Holmström, 1989": {
+      "aliases": [
+        "Holmström, 1989",
+        "Holmström (1989)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Holmström, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Manso's Model of Innovation.md"
+      ],
+      "title": ""
     },
     "Holsti, 1969": {
       "aliases": [
@@ -121765,6 +121791,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
@@ -138765,7 +138792,8 @@
         "wiki/concepts/science-policy/Institutionalising Social Learning.md",
         "wiki/concepts/science-policy/Organizational Ambidexterity.md",
         "wiki/concepts/science-policy/Public Dynamic Capabilities.md",
-        "wiki/persons/austria/Joseph Schumpeter.md"
+        "wiki/persons/austria/Joseph Schumpeter.md",
+        "wiki/theories/science-policy/Manso's Model of Innovation.md"
       ],
       "title": "Exploration and Exploitation in Organizational Learning"
     },
@@ -150658,7 +150686,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/methods/quantitative/Patent-Paper Pairs.md"
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/methods/quantitative/Patent-Paper Pairs.md",
+        "wiki/persons/us/Fiona Murray.md"
       ],
       "title": ""
     },
@@ -150674,6 +150704,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Children's antisocial behavior, mental health, drug use, and educational performance after parental incarceration: a systematic review and meta-analysis"
+    },
+    "Murray's, 2002": {
+      "aliases": [
+        "Murray's, 2002",
+        "Murray's (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Murray's, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Fiona Murray.md"
+      ],
+      "title": ""
     },
     "Murray, 1998": {
       "aliases": [
@@ -150742,8 +150787,10 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
         "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md",
         "wiki/facts/us/Oncomouse.md",
-        "wiki/persons/australia/Philomena Murray.md"
+        "wiki/persons/australia/Philomena Murray.md",
+        "wiki/persons/us/Fiona Murray.md"
       ],
       "title": "Comparative Regional Integration in the EU and East Asia: Moving beyond Integration Snobbery"
     },
@@ -182842,6 +182889,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis o research on creativity: the effects of instructional variables"
+    },
+    "Scotchmer, 1991": {
+      "aliases": [
+        "Scotchmer, 1991",
+        "Scotchmer (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scotchmer, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md"
+      ],
+      "title": ""
     },
     "Scott & Davis, 2016": {
       "aliases": [
@@ -221469,6 +221531,21 @@
       ],
       "title": ""
     },
+    "以默里和斯特恩, 2007": {
+      "aliases": [
+        "以默里和斯特恩, 2007",
+        "以默里和斯特恩 (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "以默里和斯特恩, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Fiona Murray.md"
+      ],
+      "title": ""
+    },
     "伍兹, 1979": {
       "aliases": [
         "伍兹, 1979",
@@ -223084,6 +223161,21 @@
       ],
       "title": ""
     },
+    "德里瓦斯等, 2017": {
+      "aliases": [
+        "德里瓦斯等, 2017",
+        "德里瓦斯等 (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "德里瓦斯等, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md"
+      ],
+      "title": ""
+    },
     "思想先声, 1925": {
       "aliases": [
         "思想先声, 1925",
@@ -224183,6 +224275,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
@@ -226195,6 +226288,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+      ],
+      "title": ""
+    },
+    "默里, 2002": {
+      "aliases": [
+        "默里, 2002",
+        "默里 (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "默里, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Fiona Murray.md"
       ],
       "title": ""
     }

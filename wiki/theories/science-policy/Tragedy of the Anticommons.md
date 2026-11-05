@@ -9,10 +9,10 @@ aliases:
 summary: "迈克尔·赫勒与丽贝卡·艾森伯格于 1998 年提出的科技政策与法经济学理论，指出当大量上游基础研究构件被分散授予排他性知识产权时，过多的权利主体与高昂的交易成本将导致后续科研人员难以整合必要的研发要素，造成公共知识资源的低效闲置与累积性科学探索的受阻。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 12
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 9
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/science-policy
   - theory/innovation-economics

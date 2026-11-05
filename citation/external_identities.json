@@ -5777,17 +5777,6 @@
       ],
       "title": "Superstar Extinction"
     },
-    "Azoulay et al., 2011": {
-      "doi": "https://doi.org/10.1093/qje/qjr020",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md",
-        "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
-        "wiki/concepts/educational-philosophy/Causality.md"
-      ],
-      "title": "Incentives and creativity: evidence from the HHMI investigator program"
-    },
     "Azoulay et al., 2012": {
       "doi": "",
       "isbn": "",
@@ -25105,6 +25094,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md",
         "wiki/concepts/science-policy/Data Withholding.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
@@ -30236,6 +30226,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reading Rescue  An Effective Tutoring Intervention Model For Language-Minority Students Who Are Struggling Readers in First Grade"
+    },
+    "Eisenberg, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md"
+      ],
+      "title": ""
     },
     "Eisenhardt, 1989": {
       "doi": "",
@@ -46020,6 +46018,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
@@ -47895,6 +47894,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Manipulative Use on PK-12 Mathematics Achievement: A Meta-Analysis"
+    },
+    "Holmström, 1989": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Manso's Model of Innovation.md"
+      ],
+      "title": ""
     },
     "Holsti, 1969": {
       "doi": "",
@@ -56897,6 +56904,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
@@ -67326,7 +67334,8 @@
         "wiki/concepts/science-policy/Institutionalising Social Learning.md",
         "wiki/concepts/science-policy/Organizational Ambidexterity.md",
         "wiki/concepts/science-policy/Public Dynamic Capabilities.md",
-        "wiki/persons/austria/Joseph Schumpeter.md"
+        "wiki/persons/austria/Joseph Schumpeter.md",
+        "wiki/theories/science-policy/Manso's Model of Innovation.md"
       ],
       "title": "Exploration and Exploitation in Organizational Learning"
     },
@@ -74556,7 +74565,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/methods/quantitative/Patent-Paper Pairs.md"
+        "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
+        "wiki/methods/quantitative/Patent-Paper Pairs.md",
+        "wiki/persons/us/Fiona Murray.md"
       ],
       "title": ""
     },
@@ -74568,6 +74579,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Children's antisocial behavior, mental health, drug use, and educational performance after parental incarceration: a systematic review and meta-analysis"
+    },
+    "Murray's, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Fiona Murray.md"
+      ],
+      "title": ""
     },
     "Murray, 1998": {
       "datasets": [
@@ -74610,8 +74629,10 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research Policy/Argument_Thompson_et_al_2018_RP.md",
         "wiki/concepts/science-policy/Data Withholding.md",
+        "wiki/concepts/university-industry-collaboration/Reach-Through Rights.md",
         "wiki/facts/us/Oncomouse.md",
-        "wiki/persons/australia/Philomena Murray.md"
+        "wiki/persons/australia/Philomena Murray.md",
+        "wiki/persons/us/Fiona Murray.md"
       ],
       "title": "Comparative Regional Integration in the EU and East Asia: Moving beyond Integration Snobbery"
     },
@@ -93858,6 +93879,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis o research on creativity: the effects of instructional variables"
+    },
+    "Scotchmer, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md"
+      ],
+      "title": ""
     },
     "Scott & Davis, 2016": {
       "doi": "",
@@ -117467,6 +117496,14 @@
       ],
       "title": ""
     },
+    "以默里和斯特恩, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Fiona Murray.md"
+      ],
+      "title": ""
+    },
     "伍兹, 1979": {
       "doi": "",
       "isbn": "",
@@ -118354,6 +118391,14 @@
       ],
       "title": ""
     },
+    "德里瓦斯等, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md"
+      ],
+      "title": ""
+    },
     "思想先声, 1925": {
       "doi": "",
       "isbn": "",
@@ -118942,6 +118987,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/science-policy/Cumulative Innovation.md",
         "wiki/theories/science-policy/Tragedy of the Anticommons.md"
       ],
       "title": ""
@@ -120023,6 +120069,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+      ],
+      "title": ""
+    },
+    "默里, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Fiona Murray.md"
       ],
       "title": ""
     }

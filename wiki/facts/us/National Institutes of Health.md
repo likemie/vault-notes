@@ -11,10 +11,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 48
-fact_related_level: 4
-fact_related_stars: "💎⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 50
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: 联邦生物医学与公共健康科研机构
 headquarters: 美国马里兰州贝塞斯达（Bethesda, Maryland）
 established: "1887"
@@ -65,6 +65,7 @@ related_facts:
   - "[[Protein Data Bank]]"
   - "[[DARPA]]"
   - "[[SciSciNet]]"
+  - "[[Howard Hughes Medical Institute]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -77,12 +78,13 @@ related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Azoulay_2011_RJE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 ---
@@ -216,10 +218,12 @@ updated: 2026-11-04
 > | [[Fred Block]] | Person | 经济社会学家，以紫杉醇案例批判 NIH 创新中公帑托底风险与私人独吞暴利的分配断裂。 |
 > | [[Academic Medical Center]] | 概念 | 承担 NIH 院外科研与[[Clinical Trial\|临床试验]]重任的高校附属医学中心网络。 |
 > | [[SciSciNet]] | 事实 | 科学学开放数据湖，系统清洗并高保真映射 601 万条 NIH 课题资助成果链条。 |
+> | [[Howard Hughes Medical Institute]] | 事实 | 与 NIH 项目资助并立的美国顶尖私立医学研究对人资助机构。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 比较 NIH 传统项目制资助（R01）与 HHMI 长周期对人资助，实证揭示短期交付物问责对学术风险探索的挤出效应。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将 NIH 长期资助作为科学政策实证案例，揭示经费分配依赖往年拨款惯性而与疾病实际健康负担（DALYs）脱节的制度惯性机制。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 以抗癌药紫杉醇（Taxol）为例，批判 NIH 资助模式下“公帑托底早期临床风险、私人药企独吞商业暴利”的双重付费弊端。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，高度评价 NIH 主任先锋奖在长周期对人资助上的倍增效应，剖析 [[Accelerating Medicines Partnership|AMP]] 公私伙伴平台与学者老龄化/行政羁绊，主张设立法定[[Metascience|元科学]]单元。
