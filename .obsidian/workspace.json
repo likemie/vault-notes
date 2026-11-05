@@ -300,6 +300,10 @@
   },
   "active": "87fb6cf657f73fe8",
   "lastOpenFiles": [
+    "sources/Azoulay_2011_RJE/figures/Azoulay_2011_RJE_Fig4_Dynamic_Effects.jpg",
+    "sources/Azoulay_2011_RJE/figures/Azoulay_2011_RJE_Fig3_Baseline_Balance.jpg",
+    "sources/Azoulay_2011_RJE/figures/Azoulay_2011_RJE_Fig2_Grant_Length.jpg",
+    "sources/Azoulay_2011_RJE/figures/Azoulay_2011_RJE_Fig1_Tail_Distribution.jpg",
     "sources/Azoulay_2011_RJE/figures",
     "sources/Azoulay_2011_RJE/Azoulay_2011_RJE.pdf",
     "sources/Azoulay_2011_RJE/Azoulay_2011_RJE.md",
@@ -330,7 +334,6 @@
     "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-007/result.json",
     "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-006/result.json",
     "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-005/result.json",
-    "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-004/result.json",
     "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-008/prompt.md",
     "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-007/prompt.md",
     "output/related-updates/Argument_Thompson_et_al_2018_RP-099067ff/batch-006/prompt.md",
@@ -343,9 +346,6 @@
     "sources/Zhang_Zhao_2026_EDR/figures/Zhang_Zhao_2026_EDR_Fig1_Analytical_Framework.jpg",
     "temp_fig-002.png",
     "temp_fig-001.png",
-    "temp_fig-000.png",
-    "sources/Chen_2025_HSSC/figures/Chen_2025_HSSC_Fig7_Ddiff_Hot_Streak_Characteristics.jpg",
-    "sources/Chen_2025_HSSC/figures/Chen_2025_HSSC_Fig6_Disruptive_vs_Cited_Years.jpg",
     "未命名.canvas"
   ]
 }

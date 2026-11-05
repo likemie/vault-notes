@@ -3872,6 +3872,8 @@
     "Capano, 2009": "Capano, 2009",
     "Capar & Tarim (2015)": "Capar & Tarim, 2015",
     "Capar & Tarim, 2015": "Capar & Tarim, 2015",
+    "Capecchi (2008)": "Capecchi, 2008",
+    "Capecchi, 2008": "Capecchi, 2008",
     "Caplan (1976)": "Caplan, 1976",
     "Caplan (1979)": "Caplan, 1979",
     "Caplan (1982)": "Caplan, 1982",
@@ -55804,6 +55806,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Efficacy of the Cooperative Learning Method on Mathematics Achievement and Attitude: A Meta-Analysis Research"
+    },
+    "Capecchi, 2008": {
+      "aliases": [
+        "Capecchi, 2008",
+        "Capecchi (2008)"
+      ],
+      "doi": "10.1126/science.319.5865.900b",
+      "identity_keys": [
+        "Capecchi, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md"
+      ],
+      "title": "Response"
     },
     "Caplan, 1976": {
       "aliases": [
