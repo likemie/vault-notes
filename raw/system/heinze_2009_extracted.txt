@@ -1,0 +1,1693 @@
+=== PAGE 1 ===
+Research Policy 38 (2009) 610–623
+Contents lists available at ScienceDirect
+Research Policy
+journal homepage: www.elsevier.com/locate/respol
+Organizational and institutional inﬂuences on creativity in scientiﬁc research
+Thomas Heinze a,∗, Philip Shapira b,c, Juan D. Rogers b, Jacqueline M. Senker d
+a Faculty for Social and Economic Sciences, Department of Sociology, University of Bamberg, Lichtenhaidestraße 1 1, 96045 Bamberg, Germany
+b School of Public Policy, Georgia Institute of Technology, Atlanta, GA 30332-0345, USA
+c Manchester Institute of Innovation Research, Manchester Business School, University of Manchester, M13 9PL, UK
+d Science and Technology Policy Research (SPRU), University of Sussex, Brighton BN1 9QE, UK
+article info
+Article history:
+Available online 28 February 2009
+Keywords:
+Scientiﬁc creativity
+Organizational environment
+Research context
+Research management
+Case study method
+abstract
+This paper explores institutional and organizational inﬂuences on creativity in scientiﬁc research. Using
+a method for identifying creative scientiﬁc research accomplishments in two ﬁelds of science (nanotech-
+nology and human genetics) in Europe and the US, the paper summarizes results derived from twenty
+case studies of highly creative research accomplishments, focusing on contextual patterns at the group,
+organizational, and institutional levels. We ﬁnd that creative accomplishments are associated with small
+group size, organizational contexts with sufﬁcient access to a complementary variety of technical skills,
+stable research sponsorship, timely access to extramural skills and resources, and facilitating leadership.
+A potential institutional threat to creative science is the increase in competitive research council funding
+at the expense of ﬂexible institutional sponsorship. Implications for research management and research
+policy are considered.
+© 2009 Elsevier B.V. All rights reserved.
+1. Introduction
+Scientiﬁc creativity is a key driver for scientiﬁc and technologi-
+cal progress, and also a precondition for advances in other societal
+domains. Yet, our knowledge and understanding of how research
+organizations and institutional environments, and changes in both,
+impinge upon capabilities of research groups to conduct creative
+research is fragmented. The complex relationships between pro-
+ductivity, social stratiﬁcation, reward structures, and organizational
+context in scientiﬁc research were frequently studied until the mid-
+1970s within the institutional paradigm of the sociology of science
+(see, for example, Shepard, 1956; Meltzer, 1956; Merton, 1957;
+Meltzer and Salter, 1962; Stein, 1962; Pelz, 1964; Crane, 1965; Pelz
+and Andrews, 1966; Cole and Cole, 1967; Reskin, 1977; Zuckermann,
+1977; Andrews, 1979; Long and McGinnis, 1981). Since then science
+studies have been dominated by a social-constructivist paradigm
+that focuses on the micro-conditions of knowledge production in
+laboratory settings and epistemic cultures ( Latour and Woolgar,
+1979; Knorr-Cetina, 1981, 1999; Knorr-Cetina and Mulkay, 1983 ).
+At the same time, the study of creativity has become popular in
+psychology, although organizational and institutional questions
+play only a marginal, if any role ( Dunbar, 1997; Amabile, 1996;
+Sternberg, 2003; Simonton, 1999, 2004 ). It was only recently that
+∗ Corresponding author.
+E-mail addresses: thomas.heinze@uni-bamberg.de (T. Heinze),
+pshapira@mbs.ac.uk (P. Shapira), juan.rogers@pubpolicy.gatech.edu (J.D. Rogers),
+jacky.senker@ntlworld.com (J.M. Senker).
+new attempts were undertaken to re-establish an organizational
+and institutional perspective in the study of scientiﬁc accom-
+plishments. For example, Hollingsworth (2000, 2002) and Hage
+(2006) have published on organizational structures that foster
+breakthrough research. Hemlin et al. (2004) have explored various
+institutional factors that are associated with what they call “cre-
+ative knowledge environments”. Yet, in their book on serendipity
+in science, Merton and Barber (2004) conclude that the institu-
+tional analysis of discoveries in science is still in its infancy. Many
+important questions remain about what creative scientiﬁc accom-
+plishments are, how we can identify them, in which organizations
+they occur most often, and which institutional factors are inﬂuential
+in shaping cutting-edge research environments.
+The desire to know more about the factors that contribute to sci-
+entiﬁc creativity is given further impetus by the substantial changes
+seen over the last few decades in the institutional and organi-
+zational conditions under which scientiﬁc research is conducted
+(Jansen, 2007; Laudel, 2006; Schimank, 2005; Etzkowitz, 2003;
+Owen-Smith, 2003; Langfeldt, 2001; Bourke and Butler, 1999 ).
+Public research funding is now increasingly allocated through com-
+petitive processes, rather than long-term institutional block-grants;
+increased research collaboration is encouraged through a vari-
+ety of measures including through organized research centers,
+networks, centers of excellence, and interdisciplinary teams, to
+address diverse challenges of complexity, convergence, knowledge
+exchange, scale, scope, and internationalization in contemporary
+science; and evaluation systems for research performance are
+increasingly implemented as a supplement to peer review (Münch,
+2008; Thèves et al., 2007; Lepori et al., 2007; Corley et al., 2006;
+0048-7333/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.respol.2009.01.014
+=== PAGE 2 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 611
+Shapira and Kuhlmann, 2003; Chompalov et al., 2002; van Leeuwen
+and Tijssen, 2000; Henkel, 1999 ). In the context of heightened
+competitive pressures to foster science-driven business develop-
+ment and the rise of new global locations for research (especially
+China), research policymakers in developed economies hope that
+adjustments to research organizations and broader institutional
+environments for scientiﬁc research will not only promote more
+efﬁciency but also boost scientiﬁc excellence and creativity ( Blau,
+2005). There is an increasing need for recommendations about the
+design of science policy to support highly creative researchers and
+their groups.
+This paper explores factors which inﬂuence the ways in which
+research groups conduct their work. Besides features of the research
+group itself, such as size and career stage of group leaders, our main
+analytical and empirical focus is on organizational variables and
+the institutional environment in which these groups operate, such
+as leadership, funding structures, or competitive pressures. Our
+study is built on a longitudinal multi-method research design based
+on survey, interview, archive and bibliometric data, and uses both
+quantitative and qualitative research methods including as network
+and regression techniques, and in-depth interviews and case stud-
+ies ( Heinze et al., 2007; Heinze and Bauer, 2007 ). We identiﬁed
+creative research accomplishments in two broad ﬁelds of science,
+analyzed why certain research groups are more creative than oth-
+ers, and investigated which factors in their work environment were
+inﬂuential for their accomplishments.
+We begin the paper by reviewing contributions to the lit-
+erature on scientiﬁc creativity and by highlighting selected key
+issues important for further research (Section 2). Second, we intro-
+duce our methodology (Section 3). Third, we discuss in more
+detail the results from our case studies of highly creative research
+accomplishments, focusing particularly on ﬁndings related to
+organizational and institutional inﬂuences on scientiﬁc creativ-
+ity including work group factors, such as size of research groups
+or communication patterns, and organizational features, such as
+sponsorship or disciplinary variety (Section 4). Then, we discuss
+our ﬁndings in the light of previous results, and we demonstrate
+how our ﬁndings improve our understanding of creative knowledge
+environments (Section 5). Finally, we consider the implications for
+research management and research policy (Section 6).
+2. Literature review: deﬁnitions, approaches and ﬁndings
+on scientiﬁc creativity
+The importance of creativity in numerous areas of society has
+resulted in studies of creativity from diverse ﬁelds, including man-
+agement and business ( Sutton, 2002 ), arts ( Maritain, 1977; Berka
+et al., 2003 ), politics ( Otten, 2001; Nagel, 2002 ), and urban and
+regional development ( Florida, 2002 ). However, there is a conver-
+gence in characterizing creativity as encompassing capabilities to
+do things that are new and useful (see Ochse, 1990 and Amabile,
+1996, for a summary of deﬁnitions).
+In the world of science, creativity is similarly deﬁned in terms
+of knowledge and capabilities that are new, original, surprising,
+and useful ( Hollingsworth, 2004; Simonton, 2004 ). As in other
+ﬁelds, standards and norms are established in science against which
+claims for innovative contributions are assessed, although sci-
+ence, more than other ﬁelds, has evolved procedures, disciplines,
+and institutions to accredit new knowledge ( Whitley, 2000 ). In
+making judgments about scientiﬁc creativity, scientiﬁc peers use
+criteria such as plausibility, validity, and originality. There are well-
+recognized tensions here, since criteria of plausibility and validity
+tend to encourage conformity, while originality draws upon and
+encourages dissent. The history of science is replete with examples
+of path-breaking research achievements that were initially rejected
+by the scientiﬁc establishment because they challenged existing
+paradigms ( Kuhn, 1962; Polanyi, 1969; Hessenbruch, 2004 ). In
+other cases, work that was initially proclaimed publicly to be highly
+creative was found, following more considered scientiﬁc review, to
+be ﬂawed ( Lewenstein, 1992). In short, the scientiﬁc community
+must be persuaded that novel and unexpected contributions have
+value, and claims that research is highly creative need validation
+over time and by other scientists.
+There are varied approaches to examining and empirically mea-
+suring creativity. These include examining creative individuals, the
+products or outcomes of creative work, creative processes and cre-
+ative knowledge environments (Stumpf, 1995; Hemlin et al., 2004).
+At the individual level, there has been much discussion – not neces-
+sarily with consensus – about the relationship between intelligence
+and creativity (Mansﬁeld and Busse, 1981; Sternberg, 2003 ). There
+has also been a focus on the behavioral traits of creative individu-
+als, including their level of curiosity, risk tolerance, motivation, and
+willingness to overcome failure, leading to arguments that creative
+people typically tolerate higher levels of contradiction, ambigu-
+ity, and uncertainty in their work ( Sternberg et al., 1997; Weinert,
+2000). Still, such individual characteristics are neither easily mea-
+sured nor uniformly correlated with creative accomplishments,
+leading others to concentrate on tangible scientiﬁc publication out-
+comes and citations to identify highly creative researchers.
+A prominent attempt to assess scientiﬁc creativity through out-
+comes is publication and citation analysis within an evolutionary-
+probability theoretical frame ( Simonton, 1999, 2004 ). Simonton
+argues that scientists who are highly productive in publishing
+papers encounter a greater likelihood that one or more of their
+papers will come to the attention of other scientists, be cited,
+and recognized as creative. In other words, the more contribu-
+tions to knowledge that a scientist produces, the higher his or
+her chances are that one of these contributions resonates well in
+the scientiﬁc community. This approach is not without criticism
+because, for example, some highly creative scientists publish only
+a few papers, while citation counts typically consider only jour-
+nal publications and not books or other contributions, such as new
+scientiﬁc instrumentation. Another outcome approach is based on
+studying prestigious prize winners in science ( Zuckermann, 1977;
+Hollingsworth, 2002 ). Of course, such prizes are highly selective –
+and there are surely more creative research accomplishments than
+Nobel committees can recognize. Hollingsworth (2002) addresses
+this problem by obtaining access to short-listed Nobel Prize nomi-
+nees until the 1940s.
+Creative processes, including the selection of problems, meth-
+ods, partners and knowledge sources, have been another area of
+inquiry. Rather than focusing on innate individual traits, work on
+creative processes has highlighted the opportunity structures in
+collaboration networks that facilitate the generation and diffusion
+of novel ideas. Proponents of network brokerage argue that people
+who are placed at the intersection of heterogeneous social groups
+have an increased likelihood of drawing upon multiple knowledge
+sources, leading to the generation of new ideas. For example, man-
+agers who occupy brokerage positions are more often than others
+the source of good ideas ( Burt, 2004; Rodan and Galunic, 2004 ).
+In contrast, proponents of cohesive collaborative networks argue
+for the beneﬁts of trust, shared risk taking and easy mobilization in
+facilitating information and knowledge transfer. According to these
+studies, individuals with cohesive social ties are more likely to be
+involved in innovations ( Uzzi and Spiro, 2005; Obstfeld, 2005 ). In
+reference to this ongoing debate, Fleming et al. (2007) argue that
+although brokering inventors are more likely to generate new ideas,
+the brokered network structure itself is less suited to diffusing these
+ideas. Therefore, network structures that enhance the generation of
+novel ideas may inherently diminish the likelihood of their diffu-
+sion.
+=== PAGE 3 ===
+612 T. Heinze et al. / Research Policy 38 (2009) 610–623
+Considerations of the research environment add a series of fur-
+ther elements – including organizational and institutional features
+– to the examination of scientiﬁc creativity. Research environments
+inﬂuence opportunities for research collaboration and multidis-
+ciplinarity, which may in turn affect processes of knowledge
+discovery. But once we contemplate the role of organizational
+and institutional aspects, a range of other factors may come into
+play in stimulating creative research situations, including auton-
+omy for researchers, adequate facilities and funding, development
+of complementary disciplines and ﬁelds, staff selection, manage-
+ment structures, and leadership. Less conducive factors include:
+insufﬁcient basic funding, limited time for research, bureaucratic
+management, narrow range of disciplinary expertise, and exces-
+sive evaluation and accountability pressures ( Hemlin et al., 2004 ,
+pp. 16–1 7, 195–196).
+Perhaps the ﬁrst comprehensive effort to empirically exam-
+ine modern research environments was a study of 17 research
+facilities in the United States across various types of ﬁelds and lab-
+oratories by Pelz and Andrews (1966) .
+1 Another major effort to
+analyze research organizations in a comparative fashion was the
+UNESCO study by Andrews (1979) on more than 1200 research
+groups across six countries.
+2 Again other studies have investigated
+university departments and their role in setting research goals
+and inﬂuencing scientists’ productivity ( Long and McGinnis, 1981;
+Baird, 1986; Allison and Long, 1990 ), More recently, Hollingsworth
+(2002) examined a large number of research breakthroughs in
+the biomedical sciences across 128 research organizations in the
+United States, of which 28 had two or more major discoveries in
+the ﬁrst half of the twentieth century.
+3 There are also historical
+accounts of exceptionally successful institutes in the biomedi-
+cal sciences, such as Rockefeller University, California Institute of
+Technology (Hollingsworth, 2000, 2004 ) or Institut Pasteur ( Hage,
+2006). These studies differ in methodology, for example, with
+respect to the identiﬁcation of research groups, by key outcome
+variable (productivity, recognition or research breakthroughs), and
+by level of analysis (group, department, institute, or project). Sig-
+niﬁcantly, although some are published recently, they all examine
+research organizations and institutional environments from ear-
+lier periods. For example, Hollingsworth (2002) and Hage (2006)
+study breakthroughs in the ﬁrst half of the 20th century; Pelz and
+Andrews (1966) report on research organizations of the 1950s;
+and Andrews (1979) capture the situation before 1975. Research
+organizations and institutional environments have changed exten-
+sively in the last three decades following periods of post-Second
+World War expansion (Windolf, 1997), 1970s stabilization ( Ziman,
+1994), and more recent restructuring (as noted in Section 1 of
+this paper). While our emphasis is on recent research organiza-
+tions and institutional environments, it is insightful to consider
+the ﬁndings from studies focusing on earlier scientiﬁc genera-
+tions. In particular, this literature raises three important themes
+still relevant today, namely: specialization, communication, and
+research autonomy; group size and departmental effects; and
+1 Pelz and Andrews analyzed industrial, government and university labs which
+spanned the following R&D ﬁelds: pharmaceuticals, glass and ceramics, electronics,
+electrical equipment, weapons guidance, animal diseases, commercial uses of agri-
+cultural products, basic research in several physical sciences, biological and social
+sciences (Pelz and Andrews, 1966,p .2 ) .
+2 Andrews and colleagues studied within the ﬁelds of mathematics, astronomy,
+physics, chemistry, life sciences, earth and space sciences, agricultural sciences,
+medical sciences, technological sciences, and social sciences the following types
+of research organizations: academic organizations, academies, cooperative organi-
+zations, productive enterprises, and private institutions (Andrews, 1979, pp. 1 7–52).
+3 Hollingsworth (2002) examined universities, medical centers, free standing
+research institutes, and industrial research laboratories in the biomedical sciences.
+resources, recruitment and leadership, as discussed in the following
+sections.4
+2.1. Specialization, communication, and research autonomy
+Pelz and Andrews (1966, pp. 22–27, 35) ﬁnd that scientists
+are most productive when they both interact vigorously with
+and involve their colleagues in setting up their research goals.
+Research productivity is correlated with high frequency of intra-
+organizational communication. Hollingsworth (2000, 2004) argues
+that research breakthroughs are typical for research organizations
+where scientists communicate across disciplinary and thematic
+borders, and where research leaders provide strategies for inte-
+grating scientiﬁc diversity with rigorous standards of scientiﬁc
+excellence. For example, because the Rockefeller University was
+organized around laboratories rather than scientiﬁc disciplines
+and ﬁelds, it had a greater capacity to adapt quickly to research
+strategies and to allow effective communication across cognitive
+boundaries (Hollingsworth, 2004, pp. 34–35). Further strategies for
+intellectual integration within the boundaries of an organization
+are mobility of researchers and teamwork between departments
+(Hage, 2006 ). However, the way in which the individual and
+organizational levels interpenetrate is somewhat contested in the
+literature. Hollingsworth (2000) emphasizes scientiﬁc excellence
+and depth of domain-speciﬁc knowledge at the individual level
+in combination with intellectual integration at the organizational
+level. In contrast, Pelz and Andrews show that high-performance
+scientists are often not in agreement with their organization in
+terms of research agenda and strategy. The authors argue that “a
+laboratory remains vigorous when it encourages a certain tension
+between what the members want, and what they think the orga-
+nization wants” ( Pelz and Andrews, 1966 , p. 139).
+5 Such tension,
+however, is only bearable if scientists share the same motivation
+for their work: “It seemed helpful if sets of close colleagues shared
+a common enthusiasm for similar kinds of problems and preferred
+social relations” ( Pelz and Andrews, 1966, p. 146). Pelz and Andrews
+found thematic breadth to be most effective when combined with
+freedom in goal setting and research strategy, whereas coordinated
+research settings were better suited to more specialized researchers
+(Pelz and Andrews, 1966, pp. 29–31, 158–1 73).
+2.2. Group size and departmental effects
+There is considerable evidence in the literature that research
+performance initially tends to rise as group size increases, but that
+above a certain group size threshold, this effect tails off or becomes
+negative, i.e. either no increase or even a decrease in performance
+(for a review, see von Tunzelmann et al., 2003). For example, analy-
+ses based on the large dataset of Andrews (1979)show that above a
+threshold of 4–6 team members, per capita performance decreases
+markedly, particularly in academic natural science groups. Also,
+in order for groups larger than 5–7 scientists to reach the perfor-
+mance levels of smaller groups, both coherent research programs
+and group leaders with strong time commitments to research activ-
+ities are needed. Although the curvilinear relationship between
+group size and performance is evident both for quantity and qual-
+ity of research across various countries and ﬁelds, quality seems to
+be affected more negatively from large group size than per capita
+research quantity (Andrews, 1979, pp. 55–94, 192–222). In addition,
+the department level has been found inﬂuential. Long and McGinnis
+4 See also Bland and Rufﬁn (1992) for a more detailed literature review on pro-
+ductive research environments.
+5 On a more general level, March (1991) argues that organizations learn more
+effectively from individuals who are slow (rather than fast) in acquiring what is
+known and taken for granted by the organization.
+=== PAGE 4 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 613
+(1981) and Allison and Long (1990) ﬁnd for the ﬁelds of physics,
+chemistry, mathematics and biology that scientists with growing
+departmental prestige tend to show an increase in both the number
+of publications and the number of citations. Again other studies ﬁnd
+that university departments with clear research goals show higher
+productivity levels than those without such goals (Baird, 1986), and
+that ﬂat and decentralized structures in research organizations cor-
+relate with higher productivity at the level of organizational units
+(Birnbaum, 1983).
+2.3. Resources, recruitment and leadership
+Other important variables for productive research climate are
+human resources, instrumentation and funding. Pelz and Andrews
+(1966) report that actual resources are associated less highly with
+productivity than the resources researchers perceived they could
+access. Similarly, Andrews (1979) ﬁnds that the perceived acces-
+sibility of human resources but not the de facto level of human
+resources explains the largest amount of variance in a research
+unit’s performance. Recruiting outstanding scientists in a research
+team is another important variable. For example, Dill (1985) shows
+that highly productive research units can be distinguished by the
+signiﬁcance they attach to hiring talent. The importance of recruit-
+ment also points to the inﬂuence of leadership. Hage (2006) argues
+that plural organizational leadership ensures diversity of research
+strategies and richness in ideas. The three directors of Institute Pas-
+teur operated with diverse recruitment patterns but all three kept
+a look-out for creative people in their ﬁelds and then attempted
+to convince them to come to the Institute. However, leadership
+is crucial not only for recruitment, but also for directing research
+groups. Andrews (1979, p. 68, 102, 219) ﬁnds that effective lead-
+ers are involved in ongoing research. Active participation in the
+praxis of scientiﬁc work is important for leaders to understand the
+problems of the group, to motivate group members and to organize
+a coherent research program. This ﬁnding is also reﬂected in the
+literature review by Mumford et al. (2002) who suggest that lead-
+ership in creative environments requires predominantly technical
+and scientiﬁc expertise.
+In summary, the available literature provides several ideas
+which informed the development of our interview protocol (Section
+4). However, opportunities abound for new work that probes. Much
+of the extant literature is based on historical analyses of science
+prior to recent developments in the structure and dynamics of sci-
+entiﬁc research in the advanced economies. Moreover, while there
+has been a signiﬁcant focus on intra-organizational communica-
+tion and the balancing of individual and institutional research goals,
+inter-organizational and institutional aspects have been somewhat
+less studied. For example, there has been little discussion of the role
+of research councils in sponsoring new research ﬁelds; there is little
+emphasis on how basic research activities are framed differently in
+public sector research organizations and private laboratories; and
+most studies are concerned with understanding productivity and
+recognition, but less with scientiﬁc creativity. In these respects, our
+study of creative scientiﬁc events and the research groups respon-
+sible for them seeks to generate new insights, particularly since
+we are embedding our cases in current organizational and institu-
+tional contexts. In the next section we introduce the methodology
+for identifying highly creative research accomplishments and the
+case study approach for examining work environments of highly
+creative scientists and their groups.
+3. Methodology: identiﬁcation of creative
+accomplishments and case study design
+The exploration of the features of the organizational and institu-
+tional context that have an effect on scientiﬁc creativity was carried
+Table 1
+Typology of scientiﬁc creativity.
+Type of scientiﬁc creativity Examples
+1 Formulation of new ideas (or
+set of new ideas) that open up
+a new cognitive frame or brings
+theoretical claims to a new
+level of sophistication.
+Theory of speciﬁc relativity in
+physics (EINSTEIN, 1905)
+2 Discovery of new empirical
+phenomena that stimulated
+new theorizing
+Biodiversity → Theory of
+evolution (Biology), DARWIN
+(1859)
+3 Development of a new
+methodology, by means of
+which theoretical problems
+could be empirically tested.
+Factor analysis → Theory on
+mental abilities (Psychology),
+SPEARMAN (1904a, 1904b, 1927)
+4 Invention of novel instruments
+that opened up new search
+perspectives and research
+domains.
+Scanning tunneling
+microscopy → Nanotechnology
+(Physics), BINNIG & ROHRER
+(1982)
+5 New synthesis of formerly
+dispersed existing ideas into
+general theoretical laws
+enabling analyses of diverse
+phenomena within a common
+cognitive frame.
+General systems theory (Biology,
+Cybernetics, Sociology),
+BERTALANFFY (1949), ASHBY
+(1956), LUHMANN (1984)
+Source: Heinze et al. (2007). See source for full references to and discussion of exam-
+ples.
+out by means of a set of case studies anchored around selected
+individuals and their groups identiﬁed as highly creative in a new
+nomination method, previously reported in Heinze et al. (2007) .
+Since the highly creative researchers were identiﬁed by indepen-
+dent experts and prize review panels, our work is based on ex post,
+external attributions of creativity by others rather than by modeling
+creative mechanisms at the individual level.
+3.1. Identiﬁcation of highly creative research accomplishments
+First of all, we conducted a survey that obtained more than
+400 European and US nominations from 185 experts in two
+ﬁelds of research, human genetics and nanoscience/nantechnology
+(referred to as nanotechnology), across ﬁve categories of promi-
+nence: highly cited researchers, active academic researchers,
+active industry researchers, journal editors, and research program
+managers.
+6 The two research ﬁelds were chosen to offer a com-
+parison between a more established, disciplined-embedded ﬁeld
+(human genetics) and an emerging interdisciplinary ﬁeld (nan-
+otechnology). Furthermore, both ﬁelds have undergone substantial
+growth in recent years (see Heinze, 2004 and Youtie et al., 2008
+for nanotechnology; Sulston and Ferry, 2002 for human genetics),
+while the science system as a whole is in a steadier state ( Ziman,
+1994). Field growth is an important variable for the development
+of creative ideas, because more novel ideas are produced, and the
+forces of sorting out original ideas are relatively weak (March, 2007,
+pp. 16–17). Therefore, it is especially fruitful to study the organi-
+zational context of creative research in growing research ﬁelds. In
+order to account for creative activity of several sorts, we introduced
+a typology of scientiﬁc creativity, with ﬁve stipulated categories and
+one open category for respondents to include types not included in
+the original list ( Heinze et al., 2007 ; Table 1).
+7
+In parallel with the nomination survey, we identiﬁed rele-
+vant prizes in the two ﬁelds, drawing on respondent nominations,
+other expert input, and our own knowledge. It should be noted
+that few prizes are speciﬁcally dedicated to nanotechnology, an
+6 For details of the sample frame and operationalization of the categories, see
+Heinze et al. (2007) .
+7 The scientiﬁc creativity typology is discussed in detail in Heinze et al. (2007) .
+=== PAGE 5 ===
+614 T. Heinze et al. / Research Policy 38 (2009) 610–623
+Table 2
+Distribution of creative scientists, combining nominations and prize winners.
+Nanotechnology Human genetics
+Europe US Europe US
+Multiple prize winners 9 5 10 1
+Multiple nominations 7 21 0 3
+Prize winner and nomination 16 1 7 5 9
+Multiple prize winners and
+multiple nominations
+34 00
+Total highly creative
+scientists
+22 29 14 1 1
+Total scientists in database 224 204 150 1 1 1
+Source: CREA database, 2005 (Heinze et al., 2007). There is overlap between the four
+categories, so the total number of highly creative scientists is smaller than the sum
+of the rows 1–4.
+exception being the Feynman Prize. Prizes for nanotechnology
+accomplishments are usually associated with a discipline (such as
+physics or materials research) or an organization (such as the Max-
+Planck-Society in Germany or the Centre National de la Recherche
+Scientiﬁque in France). Our approach was therefore to identify
+relevant prizes broadly, then to carefully review all awards and lau-
+dations to explicitly identify relevant prize winners. We merged the
+nomination and prize winner data so as to offer a consolidated basis
+for studying creative research accomplishments ( Table 2). Supple-
+mented by additional web-based research, this provides us with a
+unique data source of information about creative research accom-
+plishments in our two target science domains. We are particularly
+interested in scientists with multiple nominations, since recogni-
+tion of their research is derived from more than one source.
+3.2. Case study methodology
+Our database of highly creative scientists offers a foundation
+from which to develop case studies, since we can identify scientists
+by the number and type of creativity nominations, by ﬁeld, and the
+character and timing of their creative research accomplishment.
+8
+Hence, drawing on the subset of multiply-nominated creative sci-
+entists (i.e. those with most nominations from different sources),
+we undertook case studies of creative events of twenty research
+groups across Europe and the United States in the two ﬁelds of
+nanotechnology and human genetics. These cases explored the
+organizational and institutional dimensions of work environments
+in which creative research has been conducted.
+The theoretical framework for the case studies addresses the
+relationship between features of the context of research work and
+the occurrence of a creative event that has already happened and
+has been recognized by colleagues and other experts who partici-
+pated in the nomination process. The theoretical question for the
+case study design is whether there is a predominant contextual
+pattern for creative events in scientiﬁc research. Since creativity
+is surely also a matter of individual talent, our approach cannot
+completely isolate the contextual factors from the individual abil-
+ities of the researchers as causes of the creative event. Rather, our
+exploration addresses a set of necessary conditions for a creative
+event to come to fruition given that the researchers in our cases
+are already regarded as highly talented. Moreover, the span of an
+individual’s research career is generally long enough for the same
+person to have worked in changing contextual conditions and it is
+therefore likely that the pursuit of research goals involves strategic
+calculations for the researcher in which an assessment of contextual
+factors is inherent in choosing alternative paths of action. There-
+fore, it is possible to compare the effects of contextual factors at
+8 Although not reported here, we also know their names and current institutions.
+different times in the career of the same researcher. In order to
+obtain reliable data about the context from our informants, we
+used information from the nomination process, including publi-
+cations, citations, prize citations, among other external indicators,
+to identify a speciﬁc creative event so that the features of the con-
+text could be related to actual conditions of work at a determined
+time and place. This signiﬁcantly reduced the potential for recall
+problems, ambiguous statements and generic opinions in response
+to our interview questions because the creative events were promi-
+nent occurrences in the lives of our respondents, the circumstances
+of which they are likely to remember in detail.
+The cases were selected using parameters most relevant to fea-
+tures of the context, such as the research ﬁeld (nanotechnology
+and human genetics), organizational afﬁliation (universities, med-
+ical facilities, industry R&D labs), geographical location which also
+provided diversity in various institutional and cultural dimensions
+(different regions of the United States and several European coun-
+tries with their different funding mechanisms, academic styles,
+promotion rules, among other things), and different sorts of creative
+event as identiﬁed by nominators using our proposed typology.
+By conducting case studies under all these conditions we aimed
+at establishing whether there were emergent patterns that could
+conﬁrm the presence of essentially the same sort of phenomenon
+across cases. In other words, and as a brief reminder, the logic
+of multiple case studies is not based on a representative sample
+for generalizing to a large population, as statistical inference does.
+Rather, cases are selected to elucidate the mechanism of a phe-
+nomenon for generalization to theory and concepts ( George and
+Bennett, 2005; Eisenhardt, 1989 ).
+Each case included a fairly complete account, both histori-
+cally and technically, of the creative event obtained from the key
+researcher (or researchers) associated with the accomplishment
+and validated by others familiar with the event (colleagues, col-
+laborators, competitors or external observers). A comprehensive
+ﬁle with information on publications, co-authors, and citations,
+research themes, and the organizational context of the research
+group was also compiled. Then, in-depth interviews were con-
+ducted with the group leader, and follow-up interviews with
+colleagues and associates, group members, and other scientists
+who were knowledgeable about the circumstances under which
+the creative event materialized. In total, we conducted 44 inter-
+views between November 2005 and February 2007 (see List of
+interviews).
+The interview protocol included questions related to the prepa-
+ration phase prior to the creative accomplishment, the creative
+accomplishment phase, and factors related to research group, orga-
+nizational and institutional levels. The main variables about which
+data is gathered are derived from the literature review above
+(Section 2). At the group level, variables include the size and
+composition of research team, communication patterns, quality
+of research leadership, and need and access to outside resources
+such as specialized equipment. At the organizational level, the
+variable set comprises (all variables at the time of the accom-
+plishment): structure and size of the organization, centralization
+of decision-making, clarity of research goals, features of the fund-
+ing arrangement, accountability burden, reputation and visibility
+of the organization. Finally, the institutional level variables include
+job mobility opportunities, competitiveness within the research
+ﬁeld, and muniﬁcence of the funding environment. The case study
+method enables an in-depth analysis, capturing more of the texture
+and detail of behavior than is possible in conventional aggregate
+data-oriented methods. In addition, the case study method is “non-
+linear” in the sense that the researcher learns from the case and,
+if appropriate, adjusts the focus of the research during the course
+of the project. Hence, there is no need to hold fast to hypotheses
+if they are clearly being discredited in favor of more accurate and
+=== PAGE 6 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 615
+Table 3
+Creativity case summaries.
+Case number
+12345 6 7 8 9 1 0
+Type of multiple expert and
+prize nominations
+MultPrizNom MultNom MultNom MultPrizNom MultNom MultPrizNom PrizNom MultPrizNom PrizNom MultNom
+Type(s) of CE 2 2, 3 3 1, 2, 3 3, 5 3, 5 1, 5 2, 3 2, 3 3
+Multiple CEs Yes Yes Yes Yes Yes Yes Yes Yes
+CE preparation phase 1988–1997 1985–1992 1983–1990 1990–1996 1993–1996 1997–1998 1995–2000 1993–1997 1995–1999 1988–1992
+CE accomplishment phase 1997–1998 1995–2000 1990–1999 1997–2002 1997–2002 1998–2000 2000–2004 1997–1998 2000–2005 1993–2000
+Career stage Mid Early Early Mid Early Early Early Mid Mid Early
+Field Nano Nano Nano Nano Nano Nano Nano Nano Nano Nano
+CE accomplishment institution Basic Ind. Lab. Basic Ind. Lab. Basic Ind. Lab. Basic Ind. Lab. Univ. Univ./Gov. Lab. Univ./Gov. Lab. Univ. Univ. Univ.
+CE accomplishment country JP, US US US US US DE, FR DE NL US US
+Current institution Univ. Univ. Univ. Ind. Lab Univ. Univ./Gov. Lab. Univ./Gov. Lab. Univ. Univ. Univ.
+Current country D SSSD S S S S S
+Case number
+11 12 13 14 15 16 17 18 19 2 0
+Type of multiple expert and
+prize nominations
+MultPrizNom MultNom MultNom MultPriz MultNom PrizNom MultPriz PrizNom MultPriz PrizNom
+Type(s) of CE 2 3, 5 1, 3, 5 1, 3 3, 4, 5 2 1, 3 3 2 1, 2
+Multiple CEs Yes Yes Yes Yes Yes Yes
+CE preparation phase 1974–1983 1993–1997 1980–1992 1970–1990s 1990–1996 1986–1991 1988–1994 1975–1990 1981–1985 1985–1992
+CE accomplishment phase 1983–1988 1998–2002 1993–1999 Mid 1990s 1996–1997 1991–1996 1994–1995 1990–2000 1985–1993 1993–2002
+Career stage Mid Early Mid Mid Mid Early Early Mid Mid Early
+Field Nano Nano Nano Nano Nano HG HG HG HG HG
+CE accomplishment institution Univ. Univ Univ Univ. Univ. Gov. Lab. Univ./Gov. Lab. Hosp./Gov. Lab. Univ. Univ.
+CE accomplishment country UK US US US US UK DE FR NL US
+Current institution Univ. Univ. Univ. Univ. Univ. Hosp./Gov. Lab. Univ. Hosp./Gov. Lab. Univ. Univ.
+Current country S S S S S S S S S S
+Notes: MultPriz = multiple prizes, MultNom = multiple nominations, PrizNom = nomination and prize, MultPrizNom = multiple nominations and prizes; CE type a bbreviations: 1 = New theoretical concepts, 2 = New empirical
+discovery, 3 = New methodology, 4 = New instruments, 5 = New synthesis; Country abbreviations: JP = Japan, FR = France, US = United States, DE = Germany, U K = United Kingdom, NL = Netherlands. Current country: D = different;
+and S = same.
+=== PAGE 7 ===
+616 T. Heinze et al. / Research Policy 38 (2009) 610–623
+valid explanations. Thus, the case study provides ﬂexibility for the
+researcher to follow the most fruitful path.
+3.3. Case description
+Of the twenty cases, ten were undertaken with researchers cur-
+rently located in Europe, and ten with creative researchers currently
+located in the US. Fifteen cases were undertaken in nanotechnology,
+ﬁve in human genetics. There is some concentration in the creativity
+types 3 (new methodology) and 2 (empirical discoveries), followed
+by type 1 (theoretical concepts) and 5 (new synthesis). Thirteen out
+of twenty accomplishments can be characterized by more than one
+creativity type, and 1&3, 2&3 and 3&5 are the most frequent combi-
+nations in this regard. Five scientists/groups fall in the most select
+category: multiple nominations and multiple prizes. Seven cases
+are in the multiple nomination category, ﬁve in the prize and nom-
+ination category, and three cases in the multiple prizes category
+(Table 3).
+Fourteen cases appear as “serial” producers of creative
+accomplishments, indicating some institutionalization of effective
+practices for creative research. About half of the accomplishments
+have their roots in the mid-1980s, and three cases even in the late
+1970s, indicating the substantial time necessary to move from idea
+generation to accomplishment. This time lag was due to resistance
+within the research community to accept these novel results and to
+incorporate them in the collective stock of knowledge. In one case,
+the group leader worked for about one decade solely on the problem
+until the research community accepted the novelty and usefulness
+of his work. In another case it took about nine years until an exper-
+imental result, that contradicted an established theory, could be
+matched with a new theoretical explanation provided by a collab-
+oration partner. However, there are also several cases with rapid
+advancement from the preparation to the accomplishment phase,
+particularly when groups were involved in “priority races”.
+The creative events were accomplished across a wide range of
+institutional environments, predominantly in universities ( N = 1 1),
+followed by basic research labs in industry ( N = 4), settings in the
+public research sector spanning both a university and a govern-
+ment lab ( N = 3), government labs ( N = 1), and settings spanning
+government labs and hospitals (N = 1). The institutions in which our
+target scientists/groups work today are mostly universities (N = 15),
+but also mixed settings including hospitals and government labs
+(N = 4). Only one group with a creative accomplishment in an indus-
+trial basic research lab has remained in this institutional context.
+It should also be noted that US cases have some geographical con-
+centration in areas which are already known to have a large share
+of R&D, such as the San Francisco Bay area and the greater Boston
+area. In contrast, we are not able to identify such concentration for
+Europe ( Table 3 ). In the next section we report on the organiza-
+tional and institutional factors that were obtained by systematic
+cross-case analysis.
+4. Organizational and institutional factors inﬂuencing
+scientiﬁc creativity
+This section discusses key results from the twenty case stud-
+ies with an emphasis on factors that support creative scientists and
+groups in their research, but also with ﬁndings regarding barriers to
+scientiﬁc creativity. The two levels: organizational and institutional
+are clearly intertwined, but we discuss them separately for analyti-
+cal clarity. As noted above, our unit of analysis is the research group.
+The group is embedded in both an organizational and broader
+institutional environment which contributes to or constrains the
+capability of group leaders and group members to conduct research
+in a way that seems most fruitful to them.
+The comparison of the dimensions and variables from the case
+study protocol with the emerging dimensions demonstrates the
+learning process we underwent as we were exposed to the case
+study material. It shows how some of our initial expectations
+about the basic elements of the context of creativity were enriched
+and corrected by it. For example, spatial arrangements and infras-
+tructure emerged as somewhat more important inﬂuences than
+anticipated. Furthermore, larger institutional developments, such
+as the severe budget cuts in (if not breakdown of) the former Soviet
+Union research system, and the increasing international mobility
+of scientists, ﬁgured more prominently in our data than initially
+expected. Finally, the comparatively strong representation of indus-
+trial R&D laboratories as organizational environments for scientiﬁc
+creativity, particularly until the early 1990s, corrected our initial
+expectation that the academic heartland is exclusively institution-
+alized in universities and government laboratories. In our policy
+conclusions, we will return to these and other issues.
+4.1. Organizational level
+The cases indicate that creative researchers have a number
+of distinctive ways in which they manage their research groups.
+This includes highly effective supervisor–student relationships, the
+careful selection of new group members for complementary skills
+and attributes, and the ﬂexibility to address new problems or ideas
+that arise. We also ﬁnd that groups in our sample are relatively small
+at the time of the main creative event: typically around six to eight
+researchers, including juniors and students, and sometimes with
+only 2–3 researchers, but they beneﬁt from organizational contexts
+that provide sufﬁcient access to a relatively large variety of technical
+skills. A frequent factor associated with scientiﬁc accomplishments
+is stable research sponsorship, provided either through some kind
+of basic institutional funding or dedicated funding schemes for
+junior scientists.
+4.1.1. Research autonomy
+First of all, among the prerequisites for a productive scientiﬁc
+atmosphere is a context in which there is a set of broadly deﬁned
+problems or long term targets and carefully selected individuals
+are brought in as group members. They are then given freedom to
+pursue a more focused problem within the larger set of problems
+as a step toward the broad target. Freedom to deﬁne and pursue
+individual scientiﬁc interests within or beyond a broadly deﬁned
+thematic area is central to understanding why scientists and their
+groups are highly creative. Individual scientiﬁc freedom is made
+even more productive when group members are conducting their
+work in units with many other bright and curious scientiﬁc minds
+who stimulate each other. Mutual curiosity and interest is a strong
+norm in all groups under consideration. For example, one group
+leader reported that one of his PhD students got upset because
+he expected the group leader to approach him about the ongoing
+experiment more frequently than just twice a week. Subsequently,
+the group leader communicated more frequently with his students.
+4.1.2. Small group size
+Second, we identiﬁed small group size as important organi-
+zational dimension for the development of creative work. This
+conﬁrms ﬁndings previously reported (Section 2). In ﬁfteen of our
+twenty case studies, small group size was highly inﬂuential for the
+creative accomplishment; in another four case studies this variable
+had some inﬂuence. The analysis of the case studies indicates that
+research groups responsible for creative events often start with two
+people, the group leader and a PhD student or a post-doc. Later on,
+leaders deliberately limited their groups to no more than six to
+eight researchers (excluding technicians and other support staff).
+Small group size has a number of advantages. It allows the group
+=== PAGE 8 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 617
+leader to be actively involved in research and to stimulate effective
+scientiﬁc exchanges within the group. This is corroborated by the
+majority of our cases. In contrast, we have reason to believe that
+large research groups are less able than small groups to unleash the
+creative potential of their group members, because group leaders
+are forced to spend more time on administration than science which
+weakens the crucial link between group members and group lead-
+ers. In addition, small groups typically show a lack of hierarchical
+decision-making in relation to research activities. The ﬂat structure
+of communication, with no difference in communication between
+formal hierarchical levels, fuelled the dynamics regarding creative
+research accomplishments. Furthermore, small group size fosters
+productive mentor–student relationships that larger groups have
+difﬁculty to establish and to maintain.
+However, several groups (although not all) did grow signiﬁcantly
+in the period following the main creative event. This growth seems
+to be associated with following up and capitalizing on the opportu-
+nities that the creative event opened up. This raises an interesting
+question of the value of the research activities in each period, since
+the later ones would be deemed less creative but are critical for
+actually realizing the potential of the creative event itself. Also,
+it seems that group growth as a particular reward mechanism in
+science produces unintended negative effects, such as more hierar-
+chical decision-making and reduced group leader involvement in
+research activities.
+4.1.3. Complementary variety
+Third, the small groups were typically embedded in an organiza-
+tional context that had a complementary variety of scientiﬁc skills
+and instrumentation. For example, one scientist reported his expe-
+rience within an industry lab: “We were going to have lunch and of
+course if you come back from lunch with a thousand ideas because
+everybody is in a slightly different ﬁeld but not so far from you so
+you can talk – it’s close enough.” We also found collaboration within
+a university between theoreticians and experimentalists in physics
+that had enabled a highly recognized creative event in one of our
+cases. This type of environment provides numerous opportunities
+for stimulation, collaboration, the acquisition of new knowledge
+and research techniques or access to instrumentation. The combi-
+nation of small work units in rich research contexts with requisite
+scientiﬁc variety allows for rapid elimination of dead ends when
+pursuing high-risk ideas. Researchers saw this as a critical factor
+since it allowed them to quickly test many of the possible paths
+to a solution for their problem and discard the ones that did not
+seem promising. Our case studies provided numerous examples
+of the importance to scientiﬁc creativity of a large, well-endowed
+organizational environment, with a good intellectual and technical
+infrastructure and access to a large diversity of skills and interdis-
+ciplinary knowledge across the organization.
+However, we found that the scientiﬁc diversity of an orga-
+nizational environment alone may not foster creativity unless it
+is also linked to organizational arrangements that support mul-
+tidisciplinary contact. These include spatial arrangements, such
+as the organization of laboratory facilities or ofﬁce space, but
+also staircases or coffee bars designed to promote interaction.
+Social arrangements, such as lunchtime patterns, can also play an
+important role in fostering communication opportunities across
+departmental borders. In university contexts, for example, these
+interactions take place mostly across department boundaries. In
+our cases, some laboratories were more adept than others at facili-
+tating these exchanges by cultivating a culture of shared resources
+and reduced bureaucratic requirements. For example, one group
+leader described the physical infrastructure of the university where
+the creative event materialized, as one in which all disciplines
+are united “under one roof”. Walking along the corridors initiated
+acquaintanceships and discussion between scientists from vari-
+ous disciplines. “Within three minutes I change from chemistry to
+physics to biology. When I walk to the electron microscope, I went
+through the faculties of physics and biology. These contact points
+are very important.”
+4.1.4. Communication with groups in external organizations
+Fourth, effective communication with other groups that have
+complementary knowledge and expertise are an important fac-
+tor for accomplishing creative events. For example, several theory
+groups depended on data from experimental groups in other
+research institutes, often abroad, or measurement groups needed
+access to sophisticated materials which they could neither produce
+in their own labs nor acquire from specialized companies. Inter-
+estingly, the emergent communication pattern showed that most
+of the in depth communication on matters close to the problem
+of interest to the group occurred with groups that were outside
+the organization; sometimes they were collaborators and on others
+competitors. On the other hand, the most important type of com-
+munication with groups within the organization was of a broader
+multidisciplinary nature and related to key skills the group itself
+did not possess. In other words, there is somewhat of an inverse
+relationship between cognitive distance and physical distance in
+the typical patterns of scientiﬁc communication.
+In addition to our case-study ﬁndings on communication across
+organizational boundaries, we examined the collaboration patterns
+of creative scientists in a quantitative way. Drawing on our database
+of multiply-nominated highly creative nanotechnology scientists,
+Heinze and Bauer (2007) ﬁnd that these scientists collaborate much
+more frequently with other peers than scientists from a compar-
+ison group of similarly productive researchers; they have larger
+collaboration networks and more often link disconnected peers.
+Because of this particular communication pattern, creative scien-
+tists also publish in a wide range of academic journals, and thus
+they are capable of speaking to different audiences and special-
+ties. Although, for technical reasons, Heinze and Bauer (2007) do
+not distinguish between intramural and extramural communica-
+tion, the increasing gap in the volume of collaborations between the
+two types of scientists (i.e. creative researchers versus comparison
+group) demonstrates that getting timely access to complementary
+expertise, skills and instrumentation from other groups is impor-
+tant to achieving creative events.
+4.1.5. Facilitating leadership
+Fifth, as we had anticipated from the literature review, both
+group and organizational leadership are important for the devel-
+opment of creative work. Effective group leaders perform many
+important roles. They bridge otherwise disconnected knowledge
+domains, carefully select new group members for their comple-
+mentary skills and attributes, have the ﬂexibility to address new
+problems or ideas that arise, help post-docs with a good idea both to
+attract funds so they can become self-sustaining and develop good
+intuition about the right measure of risk to take on with their new
+idea, and provide a protected area under which group members
+conduct their research. We also identiﬁed two types of mentor-
+student relationships. In the ﬁrst type, mentors provide a research
+avenue where their students can develop their particular research
+interests. For instance, mentors provide ideas and directions, but
+students arrange the experimental setting. In the second type, men-
+tors recruit highly talented students in their group but do not set
+them on a particular research track. Their role is more responsive
+to the needs of the students.
+In addition to group leadership, we also witnessed the impor-
+tance of directing research organizations through active leadership.
+In more than half of the cases, the director’s research vision at
+the R&D management level of the organization was inﬂuential in
+shaping the creative accomplishment. This vision is not so much
+=== PAGE 9 ===
+618 T. Heinze et al. / Research Policy 38 (2009) 610–623
+about goal clarity as it is about goal-fruitfulness in generating
+more focused problems that are tractable and signiﬁcant. Typical
+visions are “ﬁnding the highest possible storage density for com-
+puter memory” or “explain the Fragile-X syndrome” which are more
+fruitful than clear, since the actual initial goal may undergo signif-
+icant metamorphosis in the process of its pursuit. Perhaps most
+importantly, these leaders gave their junior staff freedom. Half of
+the creative events in our case studies are based on the research of
+junior scientists, highlighting the importance of providing indepen-
+dent research support to outstanding individuals at an early stage
+of their careers (see career stage in Table 3). As the focus of research
+missions is on the solution of a major problem and not on advancing
+disciplinary knowledge, this factor also has the attribute of encour-
+aging interdisciplinary work because research teams were typically
+composed of people from a variety of disciplinary backgrounds that
+contributed to meeting the goals of the mission.
+4.1.6. Flexible research funding
+Sixth, ﬂexible research funds were found pivotal in several
+research breakthroughs in our set of cases. Flexibility means that
+funds are not earmarked for speciﬁc purposes; that group lead-
+ers have discretion about when and how to spend them; and that
+funds can be used for high risk/high potential investments. In this
+regard, ﬂexibility allows scientists to shift research funds in the
+research direction that seems most fruitful to them. One group
+leader argued: “When someone has to invest or wants to invest
+unexpectedly much more money in a project, you need the ﬂexi-
+bility. You need a good funding level in order to be able to afford
+ﬂexibility.“In particular, core institutional funds, which are inde-
+pendent from success in attracting external grant money from
+research councils, have been found highly important to support-
+ing scientiﬁc accomplishments in eight out of twenty cases, and in
+seven other cases these funds had some inﬂuence. Surprisingly, the
+four industrial research laboratory groups in our sample received
+high levels of such institutional core funding. For example, one
+group leader recalled that staff scientists in the industrial laboratory
+were not encouraged to write grant proposals, but to communicate
+directly with management about their demands for new resources.
+The interviewee argued that research managers who recruited him
+used to say: “I did not hire you to be a manager, I hired you because
+you are a scientist. I want you to do science. I want you to be in
+the lab.” In contrast, group leaders in universities were sometimes
+forced to raise funds for their research with small grants from many
+different agencies, and progress was achieved only because these
+group leaders used grants from research councils imaginatively.
+Another category of ﬂexible funds are large, multi-year research
+awards provided to scientists in an ascending stage of their career.
+In total, six junior scientists were awarded prestigious and well-
+endowed individual awards. They were either supported by the
+Förderpreis of the Krupp von Bohlen und Halbach Foundation, the
+European Commission’s Young Investigator Award, the National
+Science Foundation’s Young Investigator Award, the James McDon-
+nell Foundation’s Centennial Fellowship, or the Howard Hughes
+Institute’s Investigator Award. An in-depth study of these (and
+other) award schemes shows that they differ considerably with
+respect to target group and ﬁeld, selection process and criteria, bud-
+get size, and funding duration; and that several of these schemes
+are powerful tools to support junior scientists ( Heinze, 2008 ). In
+addition, we ﬁnd unanimous consensus among our interviewees
+that too few such awards are currently available.
+4.2. Institutional level
+So far, our ﬁndings suggest that there are several organiza-
+tional factors that support the capabilities of research groups to
+accomplish creative scientiﬁc results. In addition, however, we have
+identiﬁed features in the institutional environment which facili-
+tate or constrain the creative capabilities of research groups. In
+this section, we will report on such institutional factors. In brief,
+our cases indicate that job mobility is a necessary condition for
+creativity in science, because when scientists accept a new job,
+they tend to move to research units that offer an opportunity to
+change ﬁeld or to address intrinsically risky research problems.
+Also, although competition is believed to be an important institu-
+tional mechanism in science, we observe several cases with little or
+no inﬂuence of competitive pressures in the institutional environ-
+ment on the preparation or accomplishment phase of a creative
+event. Finally, we ﬁnd that whilst the conservative procedures
+adopted by research funding agencies for allocating grants may be
+appropriate for “normal science” in established disciplines, they
+create many problems for scientists with original research ideas.
+4.2.1. Job mobility
+We did not ﬁnd that job mobility is as unidirectional a factor
+as one might assume. Several group leaders spent many years in
+the same place and either had been in one main institution their
+entire career or had made one major change in their career. The uni-
+versity setting has absorbed many researchers who moved away
+from industry labs when the attractive conditions in the latter
+deteriorated. But we did not ﬁnd evidence of competitive recruit-
+ing mid-career as a mechanism to encourage creative research.
+Resources for hosting visitors or spending periods of time with
+other groups working on the same problem area had a greater effect
+on the success of the creative pursuits of our interviewees.
+We found that when they move, creative scientists tend to
+move to research units that offer an opportunity to change ﬁeld
+or to address intrinsically risky research problems. Fundamental
+research labs of large, leading industrial companies were a magnet
+for such scientists, at least until the early 1990s. Other cases demon-
+strate that the United States has the most open academic job market
+in this regard and offers ample opportunities not only for scientists
+from Western European countries, but particularly for researchers
+from the former Soviet Union where the public research sector
+underwent severe budget cuts in the early 1990s. In eight of our
+cases “immigrant scientists” moved to different countries (includ-
+ing the United States, France, Japan, and Germany) permanently or
+for a long period in order to pursue their research. These researchers
+reported that they had to work much harder than native scientists
+in order to receive recognition, but all described their moves as
+pivotal for the development of their scientiﬁc skills, their success
+in accomplishing the creative event, and future career options. We
+conclude from these observations that job mobility is an impor-
+tant condition for an institutional environment that is conducive to
+creative research.
+4.2.2. Reputational competition in the intellectual ﬁeld
+Competition for reputation in the intellectual ﬁeld seems to
+work in different ways depending on the phase of the creative
+work. In seven cases, competition was highly inﬂuential in either
+the creative event preparation or accomplishment phase. During
+the preparation phase, friendly competition within an organization
+is an important motivator. At the cusp, when an important result
+seems within grasp, chances are that groups in different organi-
+zations are also close to a signiﬁcant achievement and the race to
+be ﬁrst with important results will carry over even into the accom-
+plishment phase, where important derivative results are pursued in
+a competitive fashion. For example, several groups were involved
+in “priority races” between competing scientists/groups. One group
+received materials for analysis and characterization from another
+group, but these materials were given, at the same time, to a rival
+group. In another case the priority race took place quite ﬁercely
+and without any mutual communication. In both cases, priority was
+=== PAGE 10 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 619
+given informally to the groups in our sample, but their publications
+appeared around the same time and even in the same journal as
+those of their rival peers.
+Yet, we also observed cases where competitive pressures in the
+institutional environment had little or no inﬂuence on the prepara-
+tion or accomplishment phase. Most of these were found in the ﬁeld
+of nanotechnology. One reason may be that the ﬁeld of nanotech-
+nology is still emerging: the new opportunities in nanotechnology
+have made possible many new research paths, such that several
+of our creative cases developed these with little initial competi-
+tion, although still with substantial risk. Some of these paths have
+attracted considerable attention over time. One interviewee argued
+that in the preparation phase of the accomplishment, this new path
+was met with enthusiasm by the research community: “People liked
+it, right away. When engineers ﬁrst saw it, it was immediately a hit,
+there was ecstatic enthusiasm, it provided understanding, and we
+got inundated by request for talks and presentations.” Today, there
+are more than 50 groups worldwide working in this new area.
+4.2.3. Funding agency behavior
+The manner in which responsibility for a certain ﬁeld of research
+is allocated to a speciﬁc division of the funding agency and advised
+by experts in the area is a signiﬁcant barrier for creative research
+because each division tends to award funds to scientists who have
+a record of publications in the area. Several group leaders had
+achieved their creative event on the basis of moving to a new
+ﬁeld, or integrating new ﬁelds with their area of expertise. But
+one university group leader said her group “had no chance” to get
+money from a funding agency for their “wild ideas”. The group
+leader recalled that one always needs preliminary results in order
+to compete for external funds. Therefore, getting into a new ﬁeld
+without having preliminary results is regarded as “almost impos-
+sible”. Another group leader argued that “ﬁeld-hopping is bad for
+research grant income because it takes ﬁve years to build up credi-
+bility to get research funding”. The current research system does not
+appear ﬂexible enough to accept that a scientist with an excellent
+track record in a given ﬁeld can have the capability to investigate a
+phenomenon that involves moving into a new ﬁeld and that there
+are synergies in funding such research.
+A second problem is connected to funding agencies jumping
+onto the bandwagon once the results of breakthroughs in research
+generate attention. Research councils and other funding agencies
+allocate funds for a program in the ﬁeld and often set goals for work
+that is either already done, or unrealistic. Although programme ofﬁ-
+cers in funding agencies may have a scientiﬁc background, they
+are perceived by several of our group leaders to have been out of
+research for too long to understand how research works. In conse-
+quence, the guidelines in calls for research proposals, according to
+one group leader, “tend to be wrong, and they do not present the
+actual priorities in the ﬁeld”.
+Furthermore, many funding agencies require research proposals
+to set targets, or give exact details of the likely results, but this is
+often not possible with exploratory, open-ended research, charac-
+terized by one group leader as “a meandering path, you’re branching
+out, making new things all the time and closing up other things and
+so you’re moving through a difﬁcult landscape to ﬁnd your way to
+interesting things”. We also found evidence that renewal funding is
+jeopardised if the expected results are not achieved. Several group
+leaders argued that a substantial portion of their research had not
+been described in any way in the research proposal. So, when it
+comes to grant renewals, funding agencies might argue that this
+research did not achieve its goals. Funding agencies also now require
+more accountability by scientists, and have increased the adminis-
+trative burden on them. They require scientists to provide frequent
+progress reports, show they have worked the proposed hours or
+carried out the working steps according to the original proposal.
+Our case study results suggest that creativity would be promoted by
+having more ﬂexibility in the use of grant income and less demands
+for constant progress reports.
+4.3. Factor combinations
+The variables at the organizational and institutional level must
+be understood as interrelated contributing inﬂuences rather than
+as independent, cumulative factors. Set in its context, the creative
+research process that we were able to detect from interviews and
+supporting documents of the cases has mechanisms that combine
+many of the inﬂuences mentioned above in ways that are more
+than their simple aggregation. One of these mechanisms is found
+in large R&D laboratories in industry. Several of our highly creative
+researchers were recruited to these labs at an early stage in their
+careers, either as post-docs or junior staff researchers. They were
+then integrated into a mission-oriented research program while
+also allowed signiﬁcant freedom to pursue an aspect of the overall
+program that most interested or excited them. This work environ-
+ment was characterized by organizations that provided signiﬁcant
+job stability for their staff scientists, a base level of funding, and
+access to a large diversity of skills and multidisciplinary knowl-
+edge across the organization. These research laboratories were
+well equipped with instruments and experimental capabilities that
+allowed the pursuit of empirical research in any direction the prob-
+lem might suggest and had in-house, expert technicians to provide
+reliable experimental results in a relatively short period of time.
+The second mechanism is the university setting which is rather
+different from the industrial labs described above. We found that
+scientists that experienced their main creative events in a univer-
+sity context made efforts to create a setting as close as possible to
+the one described above while preserving the broader mission of
+academic work. The central difference between the main model
+described above and the academic setting, in the words of one
+of our interviewees, is that “industry labs are equipment rich and
+labour poor while universities are labour rich and equipment poor.”
+Therefore, university scientists must devote considerable efforts to
+gain access to the necessary equipment and compensate for the
+time demanded by graduate students, who are “in training mode”
+by selecting problems that are not too time sensitive. Three other
+important areas in which the academic setting departs from the
+fundamental research laboratory in industry mechanism are the
+conspicuous lack of core funding to protect against interruptions of
+the work, the burden of non-research academic obligations such as
+committee work and other service activities of the university, but
+also the strong individual freedom associated with a group leader’s
+position in the academic setting. In the next section, we review our
+ﬁndings in the light of the literature reviewed above, and we point
+to future directions for research.
+5. Discussion
+Previous studies reported that intra-organizational communica-
+tion across disciplinary or departmental boundaries is associated
+with a productive research climate ( Andrews, 1979; Pelz and
+Andrews, 1966 ). Although in some cases this view is conﬁrmed,
+we also found that extramural collaborations have a much greater
+beneﬁt for scientiﬁc progress than was previously assumed.
+The changes in institutional and organizational conditions men-
+tioned in Section 1, especially the encouragement of research
+collaboration, may explain the growing importance of extramural
+collaborations to scientiﬁc progress. However, timely access to skills
+and partners are not necessarily available within the boundaries of
+the research organization in which the focal group is embedded.
+As mentioned, there is an inverse relationship between cognitive
+=== PAGE 11 ===
+620 T. Heinze et al. / Research Policy 38 (2009) 610–623
+and physical distance in the typical patterns of communication that
+facilitate the accomplishment of creative events. While accessibil-
+ity to outside skills and resources tends to expand the capabilities
+of research teams to make rapid progress on matters close to
+the problem of interest to the group, other teams and resources
+within organizational boundaries provide a scientiﬁc reservoir for
+serendipitous observations generated through effective intramural
+communication.
+However, the opinion that deep knowledge and specialization
+at the individual level is integrated at the organizational level
+(Hollingsworth, 2002 ) is not fully supported. Creative scientists
+in our sample typically possess a rather broad scientiﬁc proﬁle
+that distinguishes them from more specialized normal scientists—a
+ﬁnding that is also corroborated by Heinze and Bauer (2007)
+with respect to the nanotechnology domain. In addition, several
+group leaders have accomplished creative events because they had
+changed their research ﬁeld, for example from chemistry to optics,
+or from semiconductor physics to biophysics. In these cases, intel-
+lectual variety is integrated at the individual level rather than at the
+level of the entire research organization.
+However, our results do conﬁrm previous ﬁndings regarding the
+strong correlation between small group size and per capita perfor-
+mance ( von Tunzelmann et al., 2003 ). This is noteworthy because
+previous studies usually examined productivity and recognition,
+but not creative scientiﬁc accomplishments or research break-
+throughs. Compared to the entire populations of researchers in the
+two ﬁelds, our twenty cases represent a very small fraction only,
+so the clear impact of small team size can be interpreted both as
+strong conﬁrmation but also as an extension of previous evidence
+(because our dependent variable is creativity and not productivity).
+Interestingly, we obtained mixed ﬁndings with respect to
+departmental effects as identiﬁed by Long and McGinnis (1981) or
+Allison and Long (1990). Whereas the authors argue that once scien-
+tists have joined departments, their productivity level matches that
+of the department, in several cases of our immigrant group leaders
+the causality seemed to point in the opposite direction. Typically,
+these immigrant scientists had to prove their scientiﬁc capabilities
+by working much harder and by contributing substantially higher
+performance than native scientists before they were invited to join
+prestigious departments. On the other hand, group leaders in indus-
+try reported that the dynamics and pace within these fundamental
+laboratories was an important driver and an inspiration for their
+own creativity.
+Perhaps the two (strongly interconnected) variables where our
+ﬁndings diverge most sharply from previous evidence are fund-
+ing and organizational leadership. Most importantly, in the public
+research sector the predominance of institutional block-grant funds
+(1st stream funding) has been replaced by a new regime based
+on competitive research council grants (2nd stream) and private
+foundation or industry sponsorship (3rd stream). Whereas previous
+studies were concerned with the relationship between perceived or
+actual resource levels and performance ( Andrews, 1979; Pelz and
+Andrews, 1966 ), our ﬁndings suggest that the continued expan-
+sion of peer-reviewed funding, in particular at early stages of the
+research process, may eliminate ideas that are judged by peers
+as speculative, unorthodox, or transdisciplinary. Peer-review crite-
+ria, such as plausibility and validity tend to encourage conformity,
+while originality draws upon and encourages dissent. For this
+reason, funding arrangements based on peer review tend to dis-
+criminate against the early stages of exploratory research, as they
+have an inherent tendency to support conventional mainstream
+research and scientiﬁc work that follows established research lines
+while ignoring visionary and high-risk approaches.
+Apart from a conservative bias, the double trend of decreasing
+institutional funding and increasing external sponsorship has at
+least two other consequences. First of all, winning funding com-
+petitions and reviewing increasing amounts of research proposals
+requires substantial time investment by scientists, time that they
+can neither spend on laboratory work and group interaction, nor
+for reading and contemplation. Since style and content of research
+proposals are different from presenting arguments and evidence
+in journal articles, these activities have reduced the precious time
+of the group leaders studied. Second, increasing extramural spon-
+sorship requires a new type of organizational leadership. While
+research directors are expected to articulate a research vision, to
+recruit outstanding personnel, and to motivate scientists (as argued
+in previous literature), a new type of expectation has emerged: they
+need the capability to equip research organizations with appropri-
+ate funding from diverse sponsors and balance research budgets.
+Organizational leaders need to be successful in acquiring new
+grants and opening up additional funding channels. They must be
+competent in continuously monitoring the complex landscape of
+funding agencies and sponsorship programs. These new leadership
+role requirements are non-voluntary because organizations usually
+cannot afford to neglect their funding environment.
+9 Our case stud-
+ies demonstrate, however, that not only university provosts and
+institute directors but increasingly group leaders are confronted
+with meeting these new roles. The consequences were described
+by one group leader, who had formerly worked in a fundamental
+industry laboratory, as follows: “When I came [to this university],
+I thought I would still do research. I haven’t done just one experi-
+ment in the seven years since I’ve been here, in the lab myself. Of
+course, I direct experiments but I don’t carry them out myself. ( ... )
+People do most of my ideas but I’m a manager”.
+The discussion shows that while the institutional literature in
+science studies (mostly from the 1950s to the 1970s) offers useful
+starting point with respect to group and organizational variables,
+new themes have emerged that reﬂect the broader institutional
+changes in the research system since the 1970s. There are sev-
+eral examples where we believe our exploratory results could
+be fruitfully extended: (1) to understand the institutional forces
+that led to the marked decline of industrial companies funding
+exploratory and basic research (for an introduction see, for exam-
+ple, Chesbrough, 2003 ); (2) to explore the changed relationship
+between industry and public sector research in generating and
+diffusing knowledge (for an introduction see, for example, Evans,
+2004); (3) to analyze quantitatively career trajectories of creative
+(entrepreneurial) group leaders (for an introduction see, for exam-
+ple, Levin and Stephan, 1991 ). More generally, it would be highly
+desirable to learn more about the differences between creativity
+in the natural and technical sciences on the one hand, and in the
+humanities and the social sciences on the other hand (for an intro-
+duction see, for example, Guetzkow et al., 2004 ). Also, we need
+more general theoretical propositions that serve as a framework
+for generalization and for stating cumulative hypotheses. Clearly,
+the renewed interest in organizational and institutional questions
+about the governance of research is an opportunity for more sys-
+tematic theorizing. Several colleagues have started to investigate
+contingent variables at the group, organization and institutional
+level with organizational research outcomes (see, for example,
+Jordan, 2006 ; and the contributions in Jansen, 2007 ). Although a
+governance theory of research organizations does not yet exist, its
+development is underway. In the next and ﬁnal section of this paper,
+we discuss conclusions for research management and research pol-
+icy.
+9 There are exceptions, such as the German Max-Planck-Society whose institutes
+receive permanent institutional funding. However, many Max-Planck institutes are
+actively seeking external funding in the 2nd and 3rd stream (for an overview of the
+German research landscape see Heinze and Arnold, 2008 and Heinze and Kuhlmann,
+2008).
+=== PAGE 12 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 621
+6. Policy conclusions
+This paper uses the results of a new nomination method to select
+a set of highly creative scientiﬁc accomplishments in Europe and the
+United States in two scientiﬁc ﬁelds, nanotechnology and human
+genetics, in order to explore organizational and institutional fac-
+tors associated with creative research. We employ a multiple-case
+study approach of twenty highly creative research accomplish-
+ments encompassing diverse types of scientiﬁc creativity. In these
+cases, we did not ﬁnd remarkable differences by scientiﬁc ﬁeld or
+creativity type; rather, the principal ﬁndings relate to mechanisms
+at the group, organizational, and institutional level. Several of these
+mechanisms are relevant for current policy making. In this sec-
+tion, we explore some of the lessons for research management and
+research policy.
+We collected evidence that a stimulating work context offers
+ample opportunities for fruitful scientiﬁc exchange, often across
+established cognitive domains. In contrast, the exploration mode
+is weakened when research groups are large and organized hier-
+archically. Despite this ﬁnding, large hierarchical groups can be
+found almost in every university and in every government lab-
+oratory. Large groups are either valued by research cultures (for
+example in Germany), or they emerge systematically because the
+predominant funding mechanism produces large structure after
+initial scientiﬁc successes (for example in the United Kingdom and
+the United States). Several of our case studies demonstrate that suc-
+cessful groups can grow substantially in a short time period (the
+Matthew effect, see Merton, 1957). Clearly, this mechanism is in
+conﬂict with the fact that breakthroughs are typically accomplished
+by small groups. Therefore, senior research management should be
+aware that highly creative research can be more difﬁcult to under-
+take in large research groups, and that path-opening solutions in
+science seem to emerge more readily from small research units. The
+size of research groups should be considered an important man-
+agement objective for effective research governance, particularly in
+new and frontier research areas. Policy makers also need to think
+about new mechanisms that relieve successful scientists from man-
+aging too many projects and too large groups, because large groups
+and hierarchical structures are barriers for creative research.
+Well-endowed research institutes with a good intellectual and
+material facilities infrastructure and access to a large diversity of
+skills and multidisciplinary knowledge provide numerous inter-
+nal and external opportunities for stimulation, collaboration, the
+acquisition of new knowledge and research techniques, or access
+to instrumentation. Interactions within and across such organi-
+zational contexts are particularly fruitful when groups work in
+related and complementary ﬁelds of expertise and when research
+institutes have the requisite variety of skills and knowledge.
+Those involved in the planning of periodic reorganizations of
+research institutions should ensure that changes maintain and
+increase the breadth of disciplinary expertise available. Further-
+more, the scientiﬁc diversity of research organizations may be more
+likely to support creativity if linked to organizational, social and
+spatial arrangements that support planned and unplanned mul-
+tidisciplinary contact. Organizational opportunities may include
+multi-disciplinary or cross-unit seed research awards, lab staff rota-
+tions, cross-training and inter-unit seminars and exchanges. Spatial
+arrangements, such as the allocation of ofﬁces, junior research
+space, hallways, coffee bars or laboratory facilities, and social
+arrangements, such as lunchtime patterns, may also be organized
+so as to encourage the opportunities for communication across
+departmental borders, between staff, regardless of their status, and
+between disciplines.
+For more than three decades, the science system has been oper-
+ating under “steady state” conditions ( Ziman, 1994). Steady-state
+science has been accompanied by a decreasing lifespan for research
+projects, and this trend has given strength to the forces that elimi-
+nate unorthodox and original ideas. In several of our cases a certain
+kind of funding helped to reap the fruits of novel ideas: funding
+based on trust that scientists will do their work as well as they can.
+However, for many years, scientiﬁc research activity has been con-
+fronted with a high level of distrust, and this distrust is visible in the
+widespread use of performance indicators and by growth in mea-
+sures such as evaluation, progress reports, management reports,
+audit certiﬁcates and the like. Permissive, trust-based funding does
+not appear to play the central role that it should play in the budgets
+of funding agencies. Therefore, policy makers should now be ready
+to accept that there is a clear need to provide appropriate funding
+for exploratory and high-risk research, even under the regime of
+steady-state science.
+When considering the institutional landscape that fosters cre-
+ative research, it should be noted that a conspicuously favorable
+environment was found in a set of fundamental R&D labs in industry
+that, due to changes in market conditions and industry strategies,
+has been drastically reduced in size over the last decade. Many of
+the industrial labs mentioned by our interviewees no longer exist
+and some that do no longer allow the sort of work that resulted in
+the creative events that earned them the recognition reﬂected in
+our nomination process. This raises another sort of policy question
+that is not limited to lessons for R&D management and grant mech-
+anisms aimed at stimulating individual choices by researchers.
+Rather, it points to the overall direction of the innovation system
+and whether this change in research arrangements will have an
+effect on its capacity to be as creative as it has been to date.
+Acknowledgements
+This paper is based on research undertaken by the Project on
+Creativity Capabilities and the Promotion of Highly Innovative
+Research in Europe and the United States (CREA), sponsored by
+the European Union Newly Emerging Science and Technologies
+program (see: http://www.cherry.gatech.edu/crea/). Research
+assistance for the expert nomination survey and the development
+of data on scientiﬁc prizes was provided by Gerrit Bauer, Ajay
+Bhaskarabhatla, Taehyun Jung, Li Tang, Jue Wang, and Jingjing
+Zhang. We are grateful for survey responses supplied by numerous
+experts in Europe and the United States. An earlier version of
+this paper was presented at the 40th Anniversary Conference
+of Science and Technology Policy Research (SRPU), University of
+Sussex, Brighton, UK, 1 1–13 September, 2006. We appreciate the
+many helpful comments and suggestions provided by conference
+participants and by subsequent reviewers.
+Appendix A. List of interviews
+Country Interview dates
+Cambridge University UK 5.4.2006*, 16.7.2006
+Columbia University US 22.1.2007*, 29.1.2007
+Eidgenössische Technische
+Hochschule Zürich
+CH 7.3.2006
+Emory University US 22.1 1.2005
+Erasmus-MC, Rotterdam University NL 14.2.2006
+Forschungszentrum
+Karlsruhe/Universität Karlsruhe
+DE 14.7.2006
+Georgia Institute of Technology US 19.1.2007, 30.1.2007*,
+6.3.2006, 13.7.2006
+Harvard University US 6.5.2006
+Hopital Necker, Paris FR 17.3.2006
+Howard Hughes Foundation US 8.1.2007*
+IBM Watson Lab US 5.12.2005
+Instituut voor Atoom-en
+Molecuulfysica, Amsterdam
+NL 1 1.7.2006
+Massachusetts Institute of
+Technology
+US 4.4.2006, 6.4.2006*
+=== PAGE 13 ===
+622 T. Heinze et al. / Research Policy 38 (2009) 610–623
+Appendix A ( Continued )
+Country Interview dates
+Max-Planck-Institut, Dresden DE 5.5.2006
+Max-Planck-Institut, Stuttgart DE 27.2.2006
+McDonnell Foundation US 20.1 1.2006*
+New York University US 8.8.2006*
+Purdue University US 9.2.2007*
+Rheinisch-Westfälische
+Hochschule Aachen
+DE 20.4.2006
+Rice University US 31.1.2007*
+Stanford University US 22.3.2006
+Technische Universität München DE 1 1.1.2007
+Technische Universiteit Delft NL 1.6.2006
+UC Santa Barbara US 28.2.2007*
+Universität Bayreuth DE 22.5.2006*, 10.1 1.2006
+Universität Heidelberg DE 6.2.2006
+Universität Karlsruhe DE 1 1.12.2005, 9.2.2006
+Université Louis Pasteur,
+Strasbourg
+FR 2.6.2006
+University Illinois,
+Urbana-Champaign
+US 20.3.2006
+University of Connecticut US 23.2.2007
+University of Iowa US 1 1.9.2006
+Volkswagen-Stiftung DE 14.1 1.2006*
+Wellcome Trust UK 2.5.2006*
+Western General Hospital,
+Edinburgh
+UK 28.1 1.2005, 24.8.2006*
+Western Michigan University US 9.1.2007*
+Notes: *Interview by telephone, all other interviews in-person. Interview date in Day,
+Month, Year format.
+References
+Amabile, T.M., 1996. Creativity in Context. Westview Press, Boulder, Colorado.
+Allison, P.D., Long, S., 1990. Departmental effects on scientiﬁc productivity. American
+Sociological Review 55, 469–478.
+Andrews, R. (Ed.), 1979. Scientiﬁc Productivity: The Effectiveness of Research Groups
+in Six Countries. Cambridge University Press, Cambridge.
+Baird, L., 1986. What characterizes a productive research department? Research in
+Higher Education 25, 21 1–225.
+Birnbaum, P.H., 1983. Predictors of long-term research performance. In: Epton, S.R.,
+Payne, R.L., Pearson, A.W. (Eds.), Managing Interdisciplinary Research. Wiley and
+Sons, New York, pp. 47–59.
+Berka, W., Brix, E., Smekal, C. (Eds.), 2003. Woher Kommt das Neue? Kreativität in
+Wissenschaft und Kunst. Böhlau, Wien.
+Bland, C.J., Rufﬁn, M.T., 1992. Characteristics of a productive research environment:
+a literature review. Academic Medicine 67, 385–397.
+Blau, J., 2005. Europe seeks greater creativity in basic research. Research Technology
+Management May–June, 2–3.
+Bourke, P., Butler, L., 1999. The efﬁcacy of different modes of funding research: per-
+spectives from Australian data on the biological sciences. Research Policy 28,
+489–499.
+Burt, R.S., 2004. Structural holes and good ideas. American Journal of Sociology 1 10
+(2), 349–399.
+Chesbrough, H., 2003. Open Innovation. The New Imperative for Creating and Prof-
+iting from Technology. Harvard Business School Press, Boston.
+Chompalov, I., Genuth, J., Shrum, W., 2002. The organization of scientiﬁc collabora-
+tions. Research Policy 31 (5), 749–767.
+Cole, S., Cole, J., 1967. Scientiﬁc output and recognition: a study in the operation of
+the reward system in science. American Sociological Review 32, 377–390.
+Corley, E.A., Boardman, P.C., Bozeman, B., 2006. Design and the management of
+multi-institutional research collaborations: theoretical implications from two
+case studies. Research Policy 35 (7), 975–993.
+Crane, D., 1965. Scientists at major and minor universities: a study of productivity
+and recognition. American Sociological Review 30, 699–714.
+Dill, D.D., 1985. Theory versus practice in the stafﬁng of R&D laboratories. R&D
+Management 15, 227–241.
+Dunbar, K., 1997. How scientists think: online creativity and conceptual change in
+science. In: Ward, T.B., Smith, S.M., Vaid, S. (Eds.), Conceptual Structures and
+Processes: Emergence, Discovery and Change. APA Press, Washington, DC, pp.
+461–493.
+Eisenhardt, K.M., 1989. Building theories from case study research. The Academy of
+Management Review 14, 532–550.
+Etzkowitz, H., 2003. Research groups as ‘quasi-ﬁrms’: the invention of the
+entrepreneurial university. Research Policy 32 (1), 109–121.
+Evans, J.A., 2004. Sharing the Harvest: The Uncertain Fruits of Public/Private Collab-
+oration in Plant Biotechnology. Doctoral Dissertation, Department of Sociology,
+Stanford University.
+Fleming, L., Mingo, S., Chen, D., 2007. Collaborative brokerage, generative creativity,
+and creative success. Administrative Science Quarterly 52, 443–475.
+Florida, R., 2002. The Rise of the Creative Class: And How It’s Transforming Work,
+Leisure, Community and Everyday Life. Basic Books, New York.
+George, A., Bennett, A., 2005. Case Studies and Theory Development in the Social
+Sciences. MIT Press, Cambridge.
+Guetzkow, J., Lamont, M., Mallard, G., 2004. What is originality in the humanities
+and the social sciences? American Sociological Review 69, 190–212.
+Hage, J., 2006. Radical innovation and institutional change: French biomedicine,
+1888–1919. In: Annual Meeting of the American Association for the Advance-
+ment of Science, 1 7 February.
+Heinze, T., 2004. Nanoscience and nanotechnology in Europe: analysis of publica-
+tions and patent applications including comparisons with the United States.
+Nanotechnology Law & Business 1, 427–445.
+Heinze, T., 2008. How to sponsor ground-breaking research: a comparison of funding
+schemes. Science & Public Policy 35, 302–318.
+Heinze, T., Arnold, N., 2008. Governanceregimes im Wandel. Eine Analyse des
+außeruniversitären, staatlich ﬁnanzierten Forschungssektors in Deutschland.
+Kölner Zeitschrift für Soziologie und Sozialpsychologie 60 (4), 686–722.
+Heinze, T., Bauer, G., 2007. Characterizing creative scientists in nano S&T: produc-
+tivity, multidisciplinarity, and network brokerage in longitudinal perspective.
+Scientometrics 70 (3), 81 1–830.
+Heinze, T., Kuhlmann, S., 2008. Across institutional boundaries? Research collabora-
+tion in German public sector nanoscience. Research Policy 37, 888–899.
+Heinze, T., Shapira, P., Senker, J., Kuhlmann, S., 2007. Identifying creative research
+accomplishments: methodology and results for nanotechnology and human
+genetics. Scientometrics 70 (1), 125–152.
+Hemlin, S., Allwood, C.M., Martin, B.R., 2004. Creative Knowledge Environments. The
+Inﬂuences on Creativity in Research and Innovation. Edward Elgar, Cheltenham,
+UK.
+Henkel, M., 1999. The modernization of research evaluation: the case of the UK.
+Higher Education 38 (1), 105–122.
+Hessenbruch, A., 2004. Nanotechnology and the negotiation of novelty. In: Baird,
+D., Nordmann, A., Schummer, J. (Eds.), Discovering the Nanoscale. IOS Press,
+Amsterdam, pp. 135–144.
+Hollingsworth, R., 2000. Major Discoveries and Biomedical Research Orga-
+nizations: Perspectives on Interdisciplinarity, Nurturing Leadership, and
+Integrated Structure and Cultures. Paper Presented at a Research Symposium,
+University of Saskatchewan. < http://www.usask.ca/research/communications/
+symposium/hollingsworth.php>.
+Hollingsworth, R., 2002. Research organizations and major discoveries in twentieth-
+century science: a case of excellence in biomedical research. WZB Discussion
+Paper P02-003, Berlin.
+Hollingsworth, R., 2004. Institutionalizing excellence in biomedical research: the
+case of Rockefeller University. In: Stapleton, D.H. (Ed.), Creating a Tradition of
+Biomedical Research. Contributions to the History of the Rockefeller University.
+Rockefeller University Press, New York, pp. 1 7–63.
+Jansen, D. (Ed.), 2007. New Forms of Governance in Research Organizations. From
+Disciplinary Theories towards Interfaces and Integration. Springer, Dordrecht.
+Jordan, G.B., 2006. Factors inﬂuencing advances in basic and applied research:
+variation due to diversity in research proﬁles. In: Hage, J., Meeus, M. (Eds.),
+Innovation, Science, and Institutional Change. Oxford University Press, Oxford,
+pp. 1 73–195.
+Knorr-Cetina, K., 1981. The Manufacture of Knowledge. Oxford University Press,
+Oxford.
+Knorr-Cetina, K., 1999. Epistemic Cultures. How The Sciences Make Knowledge. Har-
+vard University Press, Cambridge, MA.
+Knorr-Cetina, K., Mulkay, M. (Eds.), 1983. Science Observed: Perspectives on the
+Social Study of Science. SAGE, Beverly Hills, CA.
+Kuhn, T., 1962. The Structure of Scientiﬁc Revolutions. University of Chicago Press,
+Chicago.
+Langfeldt, L., 2001. The decision-making constraints and processes of grant peer
+review, and their effects on the review outcome. Social Studies of Science 31,
+820–841.
+Latour, B., Woolgar, S., 1979. Laboratory Life. The Construction of Scientiﬁc Facts.
+Princeton, New Jersey.
+Laudel, G., 2006. The art of getting funded: how scientists adapt to their funding
+conditions. Science and Public Policy 33, 489–504.
+Lepori, B., van den Besselaar, P., Dinges, M., Potì, B., Reale, E., Slipersæter, S., Thèves, J.,
+van der Meulen, B., 2007. Comparing the evolution of national research policies:
+what patterns of change? Science and Public Policy 34, 372–388.
+Levin, S.G., Stephan, P.E., 1991. Research Productivity Over the Life Cycle: Evidence
+for Academic Scientists. The American Economic Review 81, 1 14–132.
+Lewenstein, B.V., 1992. Cold fusion and hot history. Osiris 7, 135–163.
+Long, J.S., McGinnis, R., 1981. Organizational context and scientiﬁc productivity.
+American Sociological Review 46, 422–442.
+Mansﬁeld, R.S., Busse, T.V., 1981. The Psychology of Creativity and Discovery. Nelson-
+Hall, Chicago. IL.
+March, J.G., 1991. Exploration and exploitation in organizational learning. Organiza-
+tion Science 2, 71–87.
+March, J.G., 2007. The study of organizations and organizing since 1945. Organization
+Studies 28, 9–19.
+Maritain, J., 1977. Creative Intuition in Art and Poetry. Princeton University Press,
+Princeton, NJ.
+Meltzer, L., 1956. Productivity in organizational settings. Journal of Social Issues 12,
+32–40.
+Meltzer, L., Salter, J., 1962. Organization structure and performance and job satisfac-
+tion of scientists. American Sociological Review 27, 351–362.
+=== PAGE 14 ===
+T. Heinze et al. / Research Policy 38 (2009) 610–623 623
+Merton, R.K., 1957. Social Theory and Social Structure. Free Press of Glencoe, New
+York.
+Merton, R.K., Barber, E., 2004. The Travels and Adventures of Serendipity. A Study in
+Sociological Semantics and the Sociology of Science. Princeton University Press,
+Princeton.
+Mumford, M.D., Scott, G., Gaddis, B., Strange, J.M., 2002. Leading creative people:
+orchestrating expertise and relationships. The Leadership Quarterly 13, 705–750.
+Münch, R., 2008. Stratiﬁkation durch Evaluation. Mechanismen der Konstruktion
+von Statushierarchien in der Forschung. Zeitschrift für Soziologie 37, 60–80.
+Nagel, S.S. (Ed.), 2002. Policy Creativity: New Perspectives. Nova Science Publishers,
+Hauppauge.
+Obstfeld, D., 2005. Social networks, the tertius iungens orientation, and involvement
+in innovation. Administrative Science Quarterly 50, 100–130.
+Ochse, R., 1990. Before the Gates of Excellence. The Determination of Creative Genius.
+Cambridge University Press, Cambridge, UK.
+Otten, H.R., 2001. Wie kreativ ist der homo politicus? Überlegungen zu Max Weber.
+In: Bluhm, H., Gebhardt, J. (Eds.), Konzepte Politischen Handelns. Kreativität –
+Innovation – Praxen. Nomos, Baden-Baden.
+Owen-Smith, J., 2003. From separate systems to a hybrid order: accumulative advan-
+tage across public and private science at research one universities. Research
+Policy 32 (6), 1081–1 104.
+Pelz, D.C., 1964. The ‘creative years’ and the research environment. IEEE Transactions
+in Engineering Management EM-1 1, 23–29.
+Pelz, D.C., Andrews, F.M., 1966. Scientists in Organizations. Productive Climates for
+Research and Development. John Wiley and Sons, New York.
+Polanyi, M., 1969. Knowing and Being. Chicago University Press, Chicago.
+Reskin, B.F., 1977. Scientiﬁc productivity and the reward structure of science. Amer-
+ican Sociological Review 42, 491–504.
+Rodan, S., Galunic, C., 2004. More than network structure: how knowledge het-
+erogeneity inﬂuences managerial performance and innovativeness. Strategic
+Management Journal 25, 541–562.
+Schimank, U., 2005. “New public management” and the academic professions: reﬂec-
+tions on the German situation. Minerva 43, 361–376.
+Shapira, P., Kuhlmann, S. (Eds.), 2003. Learning from Science and Technology Policy
+Evaluation. Edward Elgar, Cheltenham, UK.
+Shepard, H.A., 1956. Creativity in R&D teams. Research and Engineering, October,
+10–13.
+Simonton, D.K., 1999. Origins of Genius: Darwinian Perspectives on Creativity.
+Oxford University Press, New York.
+Simonton, D.K., 2004. Creativity in Science: Chance, Logic, Genius, and Zeitgeist.
+Cambridge University Press, Cambridge, UK.
+Stein, M.I., 1962. Creativity and the scientist. In: Barber, B., Hirsch, W. (Eds.), The
+Sociology of Science. The Free Press of Clencoe, New York, pp. 329–343.
+Sternberg, R.J., 2003. Wisdom, Intelligence, and Creativity Synthesized. Cambridge
+University Press, Cambridge, UK.
+Sternberg, R.J., Ohara, L.A., Lubart, T.I., 1997. Creativity as investment. California
+Management Review 40, 8–32.
+Stumpf, H., 1995. Scientiﬁc creativity: a short overview. Educational Psychology
+Review 7 (3), 225–241.
+Sulston, J., Ferry, G., 2002. The Common Thread: A Story of Science, Politics, Ethics
+and the Human Genome. Joseph Henry Press Books, Washington, DC.
+Sutton, R.I., 2002. Weird ideas that spark innovation. MIT Sloan Management Review,
+83–87.
+Thèves, J., Lepori, B., Larédo, P., 2007. Changing patterns of public research funding
+in France. Science and Public Policy 34, 389–399.
+Uzzi, B., Spiro, J., 2005. Collaboration and creativity: the small world problem. Amer-
+ican Journal of Sociology 1 1 1, 447–504.
+van Leeuwen, T., Tijssen, R., 2000. Interdisciplinary dynamics of modern sci-
+ence: analysis of cross-disciplinary citation ﬂows. Research Evaluation 9 (3),
+183–187.
+von Tunzelmann, N., Ranga, M., Martin, B., Geuna, A., 2003. The Effects of Size on
+Research Performance: A SPRU Review. University of Sussex, Brighton.
+Weinert, F.E., 2000. Individuelle Kreativität und kollektives Ergebnis. Der Architekt.
+Zeitschrift des Bundes deutscher Architekten 48 (3), 24–31.
+Whitley, R., 2000. The Intellectual and Social Organization of the Sciences, 2nd ed.
+Oxford University Press, Oxford.
+Windolf, P., 1997. Expansion and Structural Change: Higher Education in Germany,
+the United States, and Japan, 1870–1990. Westview Press, Boulder.
+Youtie, J., Shapira, P., Porter, A., 2008. National nanotechnology publications and
+citations. Journal of Nanoparticle Research 10 (6), 981–986.
+Ziman, J., 1994. Promotheus Bound. Science in a Dynamic Steady State. Cambridge
+University Press, Cambridge.
+Zuckermann, H., 1977. Scientiﬁc Elite: Nobel Laureates in the United States. Free
+Press, New York.
