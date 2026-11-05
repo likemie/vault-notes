@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 64
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -96,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 
 > [!def] Inquiry-Based Learning
@@ -296,7 +296,7 @@ updated: 2026-11-03
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 变量控制策略掌握率与跨情境迁移成绩 | 即时后测与延迟迁移测试两组得分高度均等 | 组间差异无统计学显著性（等效） | 受控课堂实验；表明探究教学与直接教学在程序与概念掌握上均具同等有效性 |
 > | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级学生 | 物理概念学习：学生自主设计与探究 vs. 教师直接讲授方案 | 深度概念理解与跨情境远迁移测验 | 自主设计探究组在解释性因果机制与迁移任务得分显著占优 | 显著高于直接讲授组 | 实验室受控实验；证实自主权衡[[Variable\|变量]]关系有助于深层认知表征的重构 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5, 9)]]<br>（引述 d'Angelo et al., 2014） | 59 篇文章（128 个效应量） | 元分析：标准化均数差（SMD），随机效应模型 | 干预措施：评估[[Computer Simulation\|计算机模拟]]探究教学对比非模拟传统教学的学效 | 内容知识（$k=96$）、探究推理技能（$k=17$）及非认知结果（$k=15$）均呈显著正效应 | 实验与[[Quasi-Experimental Designs\|准实验设计]]效应无显著差异 | 证实带支持的仿真探究显著优于非仿真教学，且有支架组优于无支架组 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰全国初中综合评估样本（Kupiainen et al., 2014）与 PISA 跨国微观数据 | 历史制度考证与多层回归实证分析 | 学生主导的开放探究与信息检索频次 vs 教师高结构讲授 | 国内评估与 PISA 均证实频繁推行学生主导探究与数理成绩呈显著负相关；保留教师高结构讲解班级成绩显著领先 | 具有统计学显著性（$p < .05$） | 提供了宏观国家基础教育因盲目转向学生中心探究教学引发大规模认知表现滑坡的实证案例（pp. 58–63） |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰全国初中综合评估样本（Kupiainen et al., 2014）与 PISA 跨国微观数据 | 历史制度考证与多层回归实证分析 | 学生主导的开放探究与信息检索频次 vs 教师高结构讲授 | PISA 2006–2012 芬兰数学降 29 分、阅读降 23 分、科学降 18 分；初中一般认知能力国内抽样跌幅达 46 分；国内评估与 PISA 均证实学生主导探究频次与认知表现显著负相关 | 具有统计学显著性（$p < .05$） | 提供了宏观国家基础教育因盲目转向学生中心探究教学引发大规模认知表现滑坡的实证案例（pp. 58–63） |
 
 ---
 

@@ -8,10 +8,10 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/instructional-design
   - theme/academic-achievement
@@ -75,6 +75,7 @@ related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
 related_persons:
   - "[[Steve Higgins]]"
   - "[[John Hattie]]"
@@ -87,7 +88,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 
 > [!def] Homework
@@ -393,4 +394,5 @@ updated: 2026-11-03
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 记录英国 [[Education Endowment Foundation|EEF]] 启动的“[[Teacher Choices|教师选择]]”新型微型试验，探索以全班集中反馈替代教师逐本逐页批改作业的微观因果实证（p. 56）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 记录丹麦教育机构依据哈蒂 $d=0.29$ 均值一刀切废除家庭作业的政策案例，批判无调节元分析对学段、学科与能力[[Heterogeneity|异质性]]的系统性遮蔽（pp. 8–9）。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence|生成式人工智能]]对静态成品作业的颠覆性冲击，提出向全流程思维追踪、反思决策日志与无技术迁移测试转型的作业重构方案。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合跨国实证文献与国际测验数据，反驳将芬兰少作业宽松课业视作学业奇迹原因的流行神话，证实家庭作业量与数理学业表现保持显著正向关联（p. 11）。
 
