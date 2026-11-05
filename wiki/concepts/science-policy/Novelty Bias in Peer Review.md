@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 ---
@@ -173,3 +173,4 @@ updated: 2026-11-03
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]] — 结合顶级医学院双盲打分实验与 1.8 万份国家级资助方案大数据，系统确立了同行评审系统在面对高新颖性构想时的保守偏见。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 从同行评审历史演变与学术评价机制切入，阐述同行评审在过重负荷与范式守门压力下如何系统性压制非常规概念突破，迫使青年科研人员退守安全课题。
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 结合 20 项重大突破案例指出同行评议偏好稳妥规范与既定轨道，在早期阶段系统性排斥推测性与非正统前沿构想。

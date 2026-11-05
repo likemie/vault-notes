@@ -16280,6 +16280,17 @@
     ]
   },
   {
+    "title": "Complementary Variety",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Complementary Variety.md",
+    "aliases": [
+      "互补多样性",
+      "互补性技能多样性",
+      "组织互补多样性",
+      "互补多样性环境"
+    ]
+  },
+  {
     "title": "Complexity Paradox",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Complexity Paradox.md",
@@ -48648,6 +48659,11 @@
     "title": "Argument_Fuchs_2010_RP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
+  },
+  {
+    "title": "Argument_Heinze_2009_RP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Research Policy/Argument_Heinze_2009_RP.md"
   },
   {
     "title": "Argument_Pavitt_1984_RP",

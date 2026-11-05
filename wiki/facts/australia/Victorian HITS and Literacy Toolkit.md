@@ -68,7 +68,7 @@ part_of: ""
 confidence: high
 status: stable
 created: 2026-05-03
-updated: 2026-11-02
+updated: 2026-11-05
 year: 2017
 doi: ""
 citation_aliases: []
@@ -153,7 +153,7 @@ citation_aliases: []
 > - **高权力 · 高利益 — 维州教育部技术官僚** 将 HITS 视作展现政绩与回应公共问责的核心治理工具，强调政策的标准化与可控性。
 > - **高权力 · 高利益 — 商业出版与咨询网络（[[Corwin Press|Corwin]] / Cognition）** 借助官方政策背书，将《[[Visible Learning|可见的学习]]》系列图书与教师培训服务大举导入公立教育体系，获取巨额品牌特许与版税收益（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 > - **低权力 · 高利益 — 一线中小学教师群体** 承受最直接的管理规训压力，课堂自主裁量权受到严格压制，面临繁重且虚妄的[[Performativity|表演性]]合规劳动（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
-> - **低权力 · 低利益 — 批判性教育研究学者** 独立发表同行评议论文指出其数据算错与政策偏误，但长期被官方行政决策机制边缘化（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）。
+> - **低权力 · 低利益 — 批判性教育研究学者** 通过同行评议实证研究指出其数据算错与政策偏误，但长期被官方行政决策机制边缘化（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）。
 
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 典型策略 |
@@ -180,14 +180,14 @@ citation_aliases: []
 > [!finding-cards] 效果与评价
 > - **伪科学数据驱动的政策偏误（奥康纳审查）** 奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）深入拆解[[John Hattie|哈蒂]][[Whole Language|全语言]]与语音教学[[Meta-analysis|元分析]]后发现，哈蒂不仅混淆了研究属性、犯下致命的样本加总错误，而且存在选择性剔除支持全语言研究的严重先验偏见。维州教育部在未经二次同行评审的情况下直接将充满瑕疵的[[Effect Size|效应量]]转化为政策刚性指导，导致公立学校过激压缩全语言阅读空间，损害了儿童整体性阅读能力的发展。
 > - **形式主义表演与专业自主性萎缩** 实地调研（Lilley, 2022; Wescott, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）表明，将 HITS 刚性化的制度设计直接催生了严重的[[Performativity|表演性]]困境：教师被迫将大量精力用于应付上课前在白板上端正书写学习意图等琐碎外在动作，同行间的真诚研讨被流水线教案对标取代，教师对职业的热爱与[[Professional Judgment|专业判断力]]遭到严重侵蚀。
-> - **育人关系的物化与特许加盟化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）指出，HITS 的制度遗产在于将公立学校重塑为由外部清单统一管制的商业加盟店，教师蜕变为缺乏裁量权的操作技工，学生则沦为单纯生产测验分数的指标载体。
+> - **育人关系的物化与特许加盟化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）指出，HITS 的制度遗产在于将公立学校重塑为由外部清单统一管制的商业加盟店，教师退化为缺乏裁量权的操作技工，学生则沦为单纯生产测验分数的指标载体。
 
 ---
 
 > [!debates] 政策争议
 >
 > > [!axis] [[Chain of Evidence|证据链]]条断裂与统计学基础崩塌
-> > 政策声称立足于全球最高层级的[[Meta-analysis|元分析]]证据，但实证复核揭示其底座存在严重的假科学风险。
+> > 政策声称立足于全球最高层级的[[Meta-analysis|元分析]]证据，但实证复核揭示其证据根基存在严重的假科学风险。
 > >
 > > - **维州官方技术官僚（DET Victoria, 2017）** 宣称 HITS 是建立在涵盖数千万学生的元分析实证综合基础之上的最佳实践指南。
 > > - **奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）** 批评政策采纳了未经验证且存在严重数学算错与概念混淆的伪科学数据，制造了垃圾进、垃圾出的政策灾难。

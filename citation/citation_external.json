@@ -10425,6 +10425,8 @@
     "Heinrich & Streblow, 2019": "Heinrich & Streblow, 2019",
     "Heintz (2010)": "Heintz, 2010",
     "Heintz, 2010": "Heintz, 2010",
+    "Heinze et al. (2007)": "Heinze et al., 2007",
+    "Heinze et al., 2007": "Heinze et al., 2007",
     "Heishman et al. (1997)": "Heishman et al., 1997",
     "Heishman et al., 1997": "Heishman et al., 1997",
     "Heitmann (2013)": "Heitmann, 2013",
@@ -10841,7 +10843,9 @@
     "Hollingsworth & Hollingsworth (2011)": "Hollingsworth & Hollingsworth, 2011",
     "Hollingsworth & Hollingsworth, 2011": "Hollingsworth & Hollingsworth, 2011",
     "Hollingsworth (1991)": "Hollingsworth, 1991",
+    "Hollingsworth (2000)": "Hollingsworth, 2000",
     "Hollingsworth, 1991": "Hollingsworth, 1991",
+    "Hollingsworth, 2000": "Hollingsworth, 2000",
     "Holloway (2004)": "Holloway, 2004",
     "Holloway, 2004": "Holloway, 2004",
     "Holly & Whitehead (1986)": "Holly & Whitehead, 1986",
@@ -103655,6 +103659,21 @@
       ],
       "title": ""
     },
+    "Heinze et al., 2007": {
+      "aliases": [
+        "Heinze et al., 2007",
+        "Heinze et al. (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Heinze et al., 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Scientific Creativity.md"
+      ],
+      "title": ""
+    },
     "Heishman et al., 1997": {
       "aliases": [
         "Heishman et al., 1997",
@@ -106703,6 +106722,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of existing creativity training research: An evaluation of program effectiveness and possible confounding variables"
+    },
+    "Hollingsworth, 2000": {
+      "aliases": [
+        "Hollingsworth, 2000",
+        "Hollingsworth (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hollingsworth, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Complementary Variety.md"
+      ],
+      "title": ""
     },
     "Holloway, 2004": {
       "aliases": [
