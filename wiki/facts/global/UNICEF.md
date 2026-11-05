@@ -190,11 +190,22 @@ updated: 2026-11-02
 > >
 > > - **批判学者视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 指出 GEEAP 将全球干预措施归类为“智能购买”与低效投资，高度依赖因果实验与量化[[Effect Size|效应量]]比率，体现出显著的经济学与[[Positivism|实证主义]][[Technical Rationality|技术理性]]；这种框架将教育简化为去情境化的采购清单，容易将教师视为存在实施缺陷的客体，忽略了薄弱地区制度使能条件与微观文化土壤，与儿童基金会传统上对本土[[Teacher Professional Agency|教师专业自主权]]和弱势儿童多维福祉的关照存在潜在张力。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
 > > - **儿童基金会循证合作立场** 强调在中低收入国家财政极度紧缩与疫情后学习危机叠加的背景下，多边协同提炼高性价比证据能防范稀缺教育资金流向低效项目，为保障处境最不利儿童享有经受严谨检验的高质量教育提供科学依据。
+>
+> > [!axis] 初等学校优先聚焦与全纳基础教育愿景的收缩
+> > 考证联合国儿童基金会在全民教育联盟中聚焦正规小学教育是否加速了全球教育议程的窄化。[[Argument_King_2007_CE|(King, 2007, pp. 383–384, 387)]]
+> >
+> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** 档案分析指出，儿童基金会作为宗滴恩大会发起方之一，在现场散发《普及所有儿童的教育》（Colclough & Lewin, 1993）专著，主张将资金与政策重点严格锁定于正规小学教育；这一立场与世界银行的技术官僚倾向合流，直接导致宗滴恩原本包含成人识字、青年技能与早期保育的六维广义愿景被收缩为小学入学数量指标，边缘化了终身教育与生产性技能。
+> > - **儿童基金会儿童权益立场** 强调儿童生存与基本发展权益具有不可替代的伦理优先性，在资源极度紧缺的全球南方，集中力量保障每个学龄儿童特别是女童享有免费义务初等教育，是阻断贫困代际传递的最坚实防线。
 
 > [!citation-card] 五大国际组织争夺私人慈善资本的竞争生态
 > 初步评估表明，教育领域的五大主要国际组织（[[Global Partnership for Education|GPE]]、经合组织、[[UNESCO|联合国教科文组织]]、联合国儿童基金会与世界银行）在过去几年中竞争日益加剧，部分原因在于这些国际组织现在还在争夺来自私人基金会（比尔及梅琳达·盖茨基金会、惠普基金会、[[Mastercard Foundation|万事达卡基金会]]、乐高基金会、博蒂克斯基金会等）的同一笔资金来源。随着经合组织 [[PISA]] 向非成员伙伴国扩张，这些国际组织现在很大程度上在同一批国家展开业务重叠的治理角逐。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 >
 > *A preliminary assessment seems to suggest that the five main IOs in education (GPE, OECD, UNESCO, UNICEF, and the World Bank) have increased their competition over the past few years, in part because the IOs now also compete over the same funds of private foundations (Bill and Melinda Gates Foundation, Hewlett Packard Foundation, Master Card Foundation, Lego Foundation, Porticus Foundation, and others). With the OECD’s PISA expansion into non-OECD partner countries, these IOs now operate in great part in the same countries.*
+
+> [!citation-card] 国际组织政策议程竞争中的先发优势
+> 国际组织之间围绕全球规范制定与政策影响力的争夺，不仅在于识别前沿且尚未被触碰的政策重点议题（例如社会情感学习首先由儿童基金会倡导，随后被经合组织和教科文组织吸纳）；更在于通过与公民社会联盟、教育企业及私人慈善基金会建立伙伴关系，扩大其实质政策影响力与财政资源储备。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
+>
+> *What exactly does the race over global norm setting and policy impact entail for IOs? Is it about identifying new, untapped thematic priorities, such as social-emotional learning (first promoted by UNICEF, and now also by OECD and UNESCO), increasing impact, and in some instances financial resources, by establishing partnerships with civil society, EDU businesses and philanthropic foundations?*
 
 ---
 
@@ -210,6 +221,7 @@ updated: 2026-11-02
 > | [[Robert Arnove]] | 人物 | 在全球体系与比较教育分析中评述儿童基金会教师援助项目与基层能动性。 |
 > | [[Pluri-Scalar Governance]] | 理论 | 儿童基金会作为超国家行动者参与的多层级[[Educational Governance Framework\|教育治理理论]]。 |
 > | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 联合国儿童基金会与世行等联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
+> | [[Kenneth King]] | 人物 | 考证联合国儿童基金会在宗滴恩大会推动小学优先偏向并收紧全球教育议程的比较教育学者。 |
 
 ---
 
@@ -217,3 +229,4 @@ updated: 2026-11-02
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 在全球 654 个证据平台网络测绘中将儿童基金会定位于核心层第 3 位，揭示其与多边国际组织主导中心网络的格局。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析儿童基金会在五大国际组织生态中率先开辟社会情感学习议程及争夺私人慈善资本的竞争机制。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 GEEAP 职责规程的[[Discourse|话语]]修辞，批判其“智能购买”背后的技术理性与去情境化实证倾向。
+> - [[Argument_King_2007_CE|King (2007)]] — 考证联合国儿童基金会与世行在宗滴恩大会推动小学教育优先偏向并收紧全球教育议程的历史。

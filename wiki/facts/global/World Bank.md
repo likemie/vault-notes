@@ -201,10 +201,12 @@ updated: 2026-11-02
 >   - **1980s** 激进强推附加条件遭遇借款国强烈的本土政治抵制与官僚消极应对，多达三分之一的教育借贷项目陷入停摆与低效（赶猫式失败），迫使世行认识到外部银行无法以蛮力强推深层体制重组。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]
 >   - **1980s** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）从[[Evolutionary Economics|演化经济学]]指出，世行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了巴西等拉美国家的国家[[Systems of Innovation|创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，使其与依靠自主研发和教育扩张赶超的韩国等东亚经济体拉开差距。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 >   - **1980s–1990s** 政策议程呈现剧烈的教育时尚周期：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，资金单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 473–474)]]
+>   - **1990** 联合联合国教科文组织、儿童基金会与开发计划署发起宗滴恩世界全民教育大会，其原教育部门负责人沃迪·哈达德（Wadi Haddad）出任大会执行秘书；世行在现场公开宣布将贷款重心集中于正规小学，并发布 1990 年《初等教育》政策白皮书，确立以小学普及为核心的多边资助基调。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
 >   - **1995** 成为南方国家最大的单一外部教育资助来源，并在《教育优先与战略》报告中自称其研究在广度与严谨性上无可匹敌（World Bank, 1995: 21），将三十余年的回报率与成本效益核算确立为最高评判准绳。比奇指出其悖论在于，世行贷款仅占[[Development Education|发展中国家教育]]总开支的 0.5%，却伴随全方位的体制干预。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1999）进一步揭示，其成本效益模型将教材、黑板与粉笔定为最划算的教学物资，把教师薪酬视作削减成本的核心障碍，并以“若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值将萎缩 40%”一类宏观计量推论作为修辞武器。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–347)]]
 >   - **1996 起** 在 [[OECD]] 发布《以知识为基础的经济》后迅速跟进，拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合[[OECD|经合组织]]与教科文组织发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将量化指标方法学推广至非成员转型经济体。
->   - **1999** 联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（Poverty Reduction Strategy Papers，PRSPs），将教育指标纳为国家宏观多边信用评级的关键考核指标。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024b, p. 542)]]
+>   - **1999** 联合国际货币基金组织引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将受援国国际开发协会（IDA）优惠信贷资格与普及初等教育及消除性别差距等量化指标挂钩，借由减贫规训深度重塑南方国家教育财政。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+>   - **2002** 主导发起“[[Global Partnership for Education|快速通道倡议]]”（Fast Track Initiative，FTI），设立以初等教育完成率与宏观财政支出为核心的基准指标框架（Indicative Framework）；该倡议绕开教科文组织达喀尔六大全纳目标，聚焦于千年发展目标两项初等教育指标，成为多边捐助国协调基础教育资金供给的核心操作平台。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
 >
 > - **1999–2018** **[[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机**
 >
@@ -271,10 +273,10 @@ updated: 2026-11-02
 > - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《2024 年世界银行年度报告》；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024b, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
-> [!citation-card] 世界银行教育自主政策研究的独立宣言
-> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育[[Document|文献]]与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, p. 542]])
+> [!citation-card] 《国际复兴开发银行协定》第一条（1944年）
+> 国际复兴开发银行的宗旨为：通过促进生产性目的的投资，协助成员国领土的复兴与开发，包括恢复战争破坏的经济与鼓励欠发达国家生产设施与资源的开发；通过提供担保或参与贷款及其他投资，促进私人对外投资；在无法以合理条件获得私人资本时，提供融资以补充私人投资；通过鼓励国际投资以开发成员国的生产资源，促进国际贸易长期均衡增长并维持国际收支平衡，从而提高劳动生产率、生活水平及改善劳动条件。
 >
-> *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
+> *The purposes of the Bank are: (i) To assist in the reconstruction and development of territories of members by facilitating the investment of capital for productive purposes... (ii) To promote private foreign investment by means of guarantees or participations in loans and other investments... (iii) To promote the long-range balanced growth of international trade and the maintenance of equilibrium in balances of payments by encouraging international investment for the development of the productive resources of members...*
 
 > [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论世界银行的主权信用合作社金融机制
 > 从技术机制观察，[[Multilateral Development Bank|多边开发银行]]在性质上高度接近仅供成员借款的主权信用合作社。当世界银行或[[Inter-American Development Bank|泛美开发银行]]在金融市场发行债券时，可以享受到市场上的最低利率。因此，“开发银行”的整个构想在于搭建精巧的信用传导机制，允许贫困国家以其自身单打独斗时一半的利率和更长的偿还周期获得贷款。大国的信誉——美国、德国、日本、英国等——赋予了银行 AAA 评级。这种评级使银行能够在全球任何地方以最低利率借款。银行借贷资金直接来源于国际金融市场融通资本，只要在利息中额外增加一个百分点以支付运营人员薪水，就能实现收支平衡。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
@@ -370,6 +372,12 @@ updated: 2026-11-02
 > >
 > > - **批判[[Policy Mobility|政策流动]]视角（Mosse, 2011; [[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 指出世行虽然投入庞大[[Intellectual Capital|智力资本]]搜寻与筛选全球前沿方案并赋予其全球合法性，但往往将复杂多元的地方实践强行剪裁为标准化的“最佳实践清单”（Best Practice），抹平了本土制度情境的异质性；同时滋生“援助国度”（Aidland）封闭官僚文化，将南方政策大使收编入主流新自由主义话语体系，导致扎根基层的原初经验被技术化稀释。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 237–239)]]
 > > - **多边机构治理辩护** 强调将地方创新提炼为标准化操作手册与量规是跨国规模化推广、确保项目可问责性与防范治理失败的必要技术手段。
+>
+> > [!axis] 初等教育指标集聚与国家整体教育生态失衡
+> > 考证世界银行将贷款重点全面锁定于初等教育对全球南方国家中高等教育与经济生产能力的结构性影响。[[Argument_King_2007_CE|(King, 2007, pp. 383–384, 387–389)]]
+> >
+> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** 档案分析指出，世行自 1990 年《初等教育》白皮书与宗滴恩大会起，将多边援助与优惠信贷过度绑定于单一的初等教育入学指标；这一导向通过减贫战略文件（PRSPs）与快速通道倡议（FTI）系统性虹吸了外部与国内公共资源，导致受援国中等教育、职业技术教育与高等教育长期面临失血与衰退，割裂了教育扩张与国家宏观生产性经济增长的内在联系。
+> > - **世界银行官方经济学论证** 坚称依据长达数十年的微观教育投资回报率实证研究，在资源高度匮乏的低收入国家，初等教育具备最高的社会回报率与最显著的代际减贫效益；在预算紧缩约束下优先保障最处境不利群体享有基础受教育权，是实现社会公平与财政配置效率最优的必然选择。
 >
 > > [!citation-card] 卡诺伊与比奇论世行成本效益模型与知识银行的制度愿景借贷
 > > 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）与卡诺伊（Carnoy, 1999）指出，世界银行在 1995 年宣称其教育研究在广度与严谨性上无可匹敌，确立了成本效益分析与[[Return on Investment|投资回报率]]的最高统治地位。然而其贷款资金仅占南方国家教育总支出的 0.5%，转型为“知识银行”实质上迫使借款国在获得微量贷款的同时，必须成套借入西方设计的分权化、[[School Autonomy|学校自主权]]与能力本位等制度愿景；卡诺伊进一步揭示，在该模型下，教材与黑板被定为最划算教学物资，而教师薪酬却被视作削减成本的主要障碍。[[Argument_Beech_2009_GlobalGarden|(World Bank, 1995; Carnoy, 1999, cited in Beech, 2009b, pp. 345–347)]]
