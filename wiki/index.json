@@ -6649,6 +6649,18 @@
     ]
   },
   {
+    "title": "No Excuses School Model",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/No Excuses School Model.md",
+    "aliases": [
+      "No Excuses 范式",
+      "No Excuses 模式",
+      "免借口学校范式",
+      "No Excuses Charter Schools",
+      "No Excuses Paradigm"
+    ]
+  },
+  {
     "title": "Outcome-Based Apprenticeship Funding",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Outcome-Based Apprenticeship Funding.md",
@@ -37393,6 +37405,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Centralized Textbook Approval System in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Centralized Textbook Approval System in Finland.md",
+    "aliases": [
+      "芬兰中央教科书核准制",
+      "芬兰国家教科书审查制度",
+      "National Textbook Approval Process in Finland",
+      "Textbook Inspection in Finland"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Comprehensive School Reform in Finland",
     "type": "fact",
     "path": "wiki/facts/finland/Comprehensive School Reform in Finland.md",
@@ -37401,6 +37425,18 @@
       "芬兰基础教育综合化改革",
       "Peruskoulu Reform",
       "Finnish Comprehensive School Reform"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Compulsory Education Act 1921",
+    "type": "fact",
+    "path": "wiki/facts/finland/Compulsory Education Act 1921.md",
+    "aliases": [
+      "1921年芬兰义务教育法",
+      "Oppivelvollisuuslaki 1921",
+      "Finnish Compulsory Education Act of 1921",
+      "1921年义务教育法案"
     ],
     "subtype": "policy"
   },

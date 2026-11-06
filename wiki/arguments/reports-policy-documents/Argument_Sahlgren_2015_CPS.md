@@ -7,10 +7,10 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dcfce7"
+argument_related_count: 51
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[Gabriel Heller Sahlgren|Sahlgren, G. H.]]"
 source_language: en
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Inverted U-Curve Hypothesis of Educational Achievement]]"
   - "[[Herbart-Zillerist Pedagogy]]"
   - "[[Kansankynttilä]]"
+  - "[[No Excuses School Model]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -79,6 +80,8 @@ related_facts:
   - "[[Great Migration in Finland]]"
   - "[[Framework Curriculum 1994]]"
   - "[[1979 Finnish Teacher Education Reform]]"
+  - "[[Compulsory Education Act 1921]]"
+  - "[[Centralized Textbook Approval System in Finland]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
@@ -160,8 +163,8 @@ related_methods:
 
 > [!feature] 1970至1980年代中央集权督导机制
 > - **指令性大纲与轮训** 国家教育委员会（National Board of Education, NBE）推行详尽指令性教学大纲，强制全体教师接受在职轮训（pp. 11–12）。
-> - **日志填报与视导抽检** 教师逐日填写教学日志备查，各级督学实施定期视导抽检，教科书实行全国严格审定（pp. 11–12）。
-> - **统一常模参照测试** 1985 年前推行全国常模参照测试校准义务教育结业成绩，直至 1990 年代初才全面取消视导与教科书审定（pp. 11–13）。
+> - **日志填报与视导抽检** 教师逐日填写教学日志备查，各级督学实施定期视导抽检，通过[[Centralized Textbook Approval System in Finland|中央教科书核准制]]实行全国严格审定（pp. 11–12）。
+> - **统一常模参照测试** 1985 年前推行全国常模参照测试校准义务教育结业成绩，直至 1991 年才全面取消视导与[[Centralized Textbook Approval System in Finland|教科书审查核准]]（pp. 11–13）。
 > - **行政科层的不信任规训** 教育社会学档案证实官僚系统视教师为改革潜在阻力，通过科层督导强化执行，未推行基于信任的放权（Simola, 2002；见 p. 12）。
 
 > [!figure]- 图1：国际测验中芬兰初中学生表现的历史变迁（1965–2015）
@@ -202,7 +205,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 芬兰教师享有的极高社会声望与严格选拔门槛，深层起源于 19 世纪中叶的[[Fennoman Movement|芬诺曼运动]]（pp. 18–20）。
 
 > [!feature] 芬诺曼建国运动塑造的教师社会资本
-> - **民族认同启蒙使命** 面对行政承袭瑞典、底层操芬兰语的二元格局，芬诺曼知识精英与教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]将初等学校与师范讲习所视作培育民族认同与抵御同化的战略阵地（pp. 20–21, 40）。
+> - **民族认同启蒙使命** 面对行政承袭瑞典、底层操芬兰语的二元格局，芬诺曼知识精英与教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]将初等学校与师范讲习所视作培育民族认同与抵御同化的战略阵地，为后续[[Compulsory Education Act 1921|1921年义务教育法]]的立法普及奠定了校舍与师资网络（pp. 20–21, 40）。
 > - **民族之烛崇高声望** 投身乡村初等教育被赋予浓厚的民族浪漫色彩，教师被誉为[[Kansankynttilä|民族之烛]]（芬兰语：kansankynttilä），享有与牧师、医生并列的道德威望（pp. 19–21）。
 > - **严苛生源与高认知素养** 崇高声望吸引顶尖人才从教，二战前小学教师持有高中毕业文凭比例即居国际首位（p. 19），当代教师在成人技能评估（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）中的读写与算术得分显著超越西方同类国家（Hanushek et al., 2014；见 pp. 18–19）。
 
@@ -298,6 +301,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 芬兰教育的兴衰轨迹为当代教育治理提供了深刻警示：混淆公共政治与教育本质、主动削弱课堂权威，将直接损害基础教育质量（pp. 65–67）。
 
 > [!implication] 教师权威与显性讲授的治理启示
+> - **权威主义文化的实证有效性** 美国关于[[No Excuses School Model|免借口学校范式]]的因果计量证据表明，高期望、严明纪律规范与教师主导讲授能大幅提升弱势群体学业表现；芬兰崛起期的微观课堂在传统权威取向上与其高度相通，证实权威型文化是保障基础认知的有效机制（pp. 41, 50, 65–66）。
 > - **保护性建制权威不可替代** 未成年人尚未具备完全理性，学校是引导学生进入文明世界的保护性建制；教师主动退居后台，剥夺了学生通过规则内化建立自律意识的心理机制（pp. 65–66）。
 > - **短期心理舒适与长期认知代价** 宽松环境带来的氛围改善以牺牲严肃认知学业发展为代价；过度迎合儿童天性无法保障长远公平与卓越（pp. 66–67）。
 > - **坚守教师主导显性教学** 抵制未经严肃科学检验的学生中心时髦教学法，坚守以系统知识传授为本位、由教师主动主导的高结构化显性讲授（pp. 66–67）。

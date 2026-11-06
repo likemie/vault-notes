@@ -3043,6 +3043,13 @@
         "wiki/facts/eu/Horizon Europe.md"
       ]
     },
+    "芬兰议会": {
+      "seen_in": [
+        "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
+        "wiki/facts/finland/Comprehensive School Reform in Finland.md",
+        "wiki/facts/finland/Compulsory Education Act 1921.md"
+      ]
+    },
     "Department for Science, Innovation and Technology": {
       "seen_in": [
         "wiki/facts/uk/Government Office for Science.md",
@@ -3097,10 +3104,10 @@
         "wiki/facts/us/Strengthening American Science 1958.md"
       ]
     },
-    "芬兰议会": {
+    "芬兰国家教育委员会": {
       "seen_in": [
-        "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
-        "wiki/facts/finland/Comprehensive School Reform in Finland.md"
+        "wiki/facts/finland/Centralized Textbook Approval System in Finland.md",
+        "wiki/facts/finland/Framework Curriculum 1994.md"
       ]
     },
     "Aarhus University": {
@@ -3721,11 +3728,6 @@
     "联合质量倡议（Joint Quality Initiative）/ 博洛尼亚进程后继工作组": {
       "seen_in": [
         "wiki/facts/europe/Dublin Descriptors.md"
-      ]
-    },
-    "芬兰国家教育委员会": {
-      "seen_in": [
-        "wiki/facts/finland/Framework Curriculum 1994.md"
       ]
     },
     "英国议会（Parliament of the United Kingdom）": {

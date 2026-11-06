@@ -12139,6 +12139,8 @@
     "Josephson, 1998": "Josephson, 1998",
     "Joshi & Lau (2023)": "Joshi & Lau, 2023",
     "Joshi & Lau, 2023": "Joshi & Lau, 2023",
+    "Joshua Angrist et al. (2013)": "Joshua Angrist et al., 2013",
+    "Joshua Angrist et al., 2013": "Joshua Angrist et al., 2013",
     "Joshua Cooper Ramo (2004)": "Joshua Cooper Ramo, 2004",
     "Joshua Cooper Ramo, 2004": "Joshua Cooper Ramo, 2004",
     "Joslin (1980)": "Joslin, 1980",
@@ -20241,6 +20243,8 @@
     "Rojas-Drummod, 2003": "Rojas-Drummod, 2003",
     "Rojo et al. (2024)": "Rojo et al., 2024",
     "Rojo et al., 2024": "Rojo et al., 2024",
+    "Roland Fryer (2014)": "Roland Fryer, 2014",
+    "Roland Fryer, 2014": "Roland Fryer, 2014",
     "Rolfe & Ramsey (2013)": "Rolfe & Ramsey, 2013",
     "Rolfe & Ramsey, 2013": "Rolfe & Ramsey, 2013",
     "Rolfhus (2012)": "Rolfhus, 2012",
@@ -23809,6 +23813,8 @@
     "Tilton, 1971": "Tilton, 1971",
     "Tim Cain (2015)": "Tim Cain, 2015",
     "Tim Cain, 2015": "Tim Cain, 2015",
+    "Tim Oates (2014)": "Tim Oates, 2014",
+    "Tim Oates, 2014": "Tim Oates, 2014",
     "Tim Tenbensel (2006)": "Tim Tenbensel, 2006",
     "Tim Tenbensel, 2006": "Tim Tenbensel, 2006",
     "Timmerman & Kruepke (2006)": "Timmerman & Kruepke, 2006",
@@ -116079,6 +116085,21 @@
       ],
       "title": ""
     },
+    "Joshua Angrist et al., 2013": {
+      "aliases": [
+        "Joshua Angrist et al., 2013",
+        "Joshua Angrist et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Joshua Angrist et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/No Excuses School Model.md"
+      ],
+      "title": ""
+    },
     "Joshua Cooper Ramo, 2004": {
       "aliases": [
         "Joshua Cooper Ramo, 2004",
@@ -174852,6 +174873,21 @@
       "seen_in": [],
       "title": "A Meta-Analysis of Mathematics Interventions: Examining the Impacts of Intervention Characteristics."
     },
+    "Roland Fryer, 2014": {
+      "aliases": [
+        "Roland Fryer, 2014",
+        "Roland Fryer (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Roland Fryer, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/No Excuses School Model.md"
+      ],
+      "title": ""
+    },
     "Rolfe & Ramsey, 2013": {
       "aliases": [
         "Rolfe & Ramsey, 2013",
@@ -200699,6 +200735,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md"
+      ],
+      "title": ""
+    },
+    "Tim Oates, 2014": {
+      "aliases": [
+        "Tim Oates, 2014",
+        "Tim Oates (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tim Oates, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/Centralized Textbook Approval System in Finland.md"
       ],
       "title": ""
     },
