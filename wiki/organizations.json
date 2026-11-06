@@ -1207,6 +1207,18 @@
         "FHI360"
       ]
     },
+    "Finnish National Board of Education": {
+      "path": "wiki/facts/finland/Finnish National Board of Education.md",
+      "names": [
+        "Finnish National Board of Education",
+        "芬兰国家教育委员会",
+        "National Board of Education",
+        "Opetushallitus",
+        "NBE",
+        "OPH",
+        "Finnish National Agency for Education"
+      ]
+    },
     "Forschungsmonitor Schule": {
       "path": "wiki/facts/germany/Forschungsmonitor Schule.md",
       "names": [
@@ -3102,12 +3114,6 @@
       "seen_in": [
         "wiki/facts/us/Education for the Age of Science 1959.md",
         "wiki/facts/us/Strengthening American Science 1958.md"
-      ]
-    },
-    "芬兰国家教育委员会": {
-      "seen_in": [
-        "wiki/facts/finland/Centralized Textbook Approval System in Finland.md",
-        "wiki/facts/finland/Framework Curriculum 1994.md"
       ]
     },
     "Aarhus University": {

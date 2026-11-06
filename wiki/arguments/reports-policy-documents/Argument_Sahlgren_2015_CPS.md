@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 51
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Herbart-Zillerist Pedagogy]]"
   - "[[Kansankynttilä]]"
   - "[[No Excuses School Model]]"
+  - "[[Eget Arbete]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -82,11 +83,13 @@ related_facts:
   - "[[1979 Finnish Teacher Education Reform]]"
   - "[[Compulsory Education Act 1921]]"
   - "[[Centralized Textbook Approval System in Finland]]"
+  - "[[Finnish National Board of Education]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
   - "[[Sigmund Freud]]"
   - "[[Uno Cygnaeus]]"
+  - "[[Hannu Simola]]"
 related_methods:
   - "[[Trend Study]]"
   - "[[Historical-Comparative Method]]"
@@ -162,10 +165,10 @@ related_methods:
 历史时间序列数据彻底动摇了流行神话的制度根基，芬兰直到 1980 年代中期之前始终保持高度中央集权化治理（pp. 11–13）。
 
 > [!feature] 1970至1980年代中央集权督导机制
-> - **指令性大纲与轮训** 国家教育委员会（National Board of Education, NBE）推行详尽指令性教学大纲，强制全体教师接受在职轮训（pp. 11–12）。
+> - **指令性大纲与轮训** [[Finnish National Board of Education|芬兰国家教育委员会]]（National Board of Education, NBE）推行详尽指令性教学大纲，强制全体教师接受在职轮训（pp. 11–12）。
 > - **日志填报与视导抽检** 教师逐日填写教学日志备查，各级督学实施定期视导抽检，通过[[Centralized Textbook Approval System in Finland|中央教科书核准制]]实行全国严格审定（pp. 11–12）。
 > - **统一常模参照测试** 1985 年前推行全国常模参照测试校准义务教育结业成绩，直至 1991 年才全面取消视导与[[Centralized Textbook Approval System in Finland|教科书审查核准]]（pp. 11–13）。
-> - **行政科层的不信任规训** 教育社会学档案证实官僚系统视教师为改革潜在阻力，通过科层督导强化执行，未推行基于信任的放权（Simola, 2002；见 p. 12）。
+> - **行政科层的不信任规训** 教育社会学学者[[Hannu Simola|汉努·西莫拉]]（Simola, 2002）的档案考证证实，官僚系统视教师为改革潜在阻力，通过科层督导强化执行，未推行基于信任的放权（见 p. 12）。
 
 > [!figure]- 图1：国际测验中芬兰初中学生表现的历史变迁（1965–2015）
 > ![](https://img.mylikemie.icu/sources/Sahlgren_2015_CPS/figures/Sahlgren_2015_CPS_Fig1_Altinok_Timeline.jpg)
@@ -243,7 +246,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 > [!case] 跨国镜像对照：[[Quebec Education Reform|加拿大魁北克建构主义改革]]与瑞典[[Learner Autonomy|自主学习]]转型的滑坡教训
 > 加拿大魁北克省在 2000 年代初全面推行[[Quebec Education Reform|建构主义课程改革]]（*Renouveau pédagogique*），强制全省学校采用学生主导、项目探究与开放式发现教学。微观计量实证研究（Haeck et al., 2014）运用严密的因果识别评估证实，这场激进改革在短短数年内导致中小学生数学成绩全面滑坡，且无论高分生还是低分生均遭受负面冲击，受影响时间越长成绩受损越严重，同时伴随多动与焦虑等心理问题的显著上升（pp. 46–47）。
 >
-> 瑞典在 1990 年代的转型提供了更切近的北欧对照。1994 年瑞典颁布强调学生自主的新课程大纲，独立自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%，每天多次进行独立自主探索的学生比例在 1995 至 2003 年间从 25% 翻倍至 50%（p. 47）。课堂权威的消解与教师主导讲授的撤退，直接导致瑞典在随后的 TIMSS 与 PISA 测试中遭遇历史性坠落，成为欧洲下滑最剧烈的国家。芬兰在 1990 年代由于基层教师的抵制，推迟了向瑞典和魁北克式学生中心模式的转变，因而得以在 2000 年代初暂时维持卓越表现。
+> 瑞典在 1990 年代的转型提供了更切近的北欧对照。1994 年瑞典颁布强调学生自主的新课程大纲，独立自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%，每天多次进行独立自主探索与[[Eget Arbete|自导作业]]（eget arbete）的学生比例在 1995 至 2003 年间从 25% 翻倍至 50%（p. 47）。课堂权威的消解与教师主导讲授的撤退，直接导致瑞典在随后的 TIMSS 与 PISA 测试中遭遇历史性坠落，成为欧洲下滑最剧烈的国家。芬兰在 1990 年代由于基层教师的抵制，推迟了向瑞典式自导作业与魁北克式学生中心模式的转变，因而得以在 2000 年代初暂时维持卓越表现。
 
 ---
 

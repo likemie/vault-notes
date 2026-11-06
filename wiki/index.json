@@ -10543,6 +10543,18 @@
     ]
   },
   {
+    "title": "Eget Arbete",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Eget Arbete.md",
+    "aliases": [
+      "自导作业模式",
+      "自选作业",
+      "瑞典式自导作业",
+      "Own Work",
+      "Independent Work Method"
+    ]
+  },
+  {
     "title": "Epistemic Practices",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Epistemic Practices.md",
@@ -29472,6 +29484,15 @@
     ]
   },
   {
+    "title": "Hannu Simola",
+    "type": "person",
+    "path": "wiki/persons/finland/Hannu Simola.md",
+    "aliases": [
+      "汉努·西莫拉",
+      "Hannu Tapani Simola"
+    ]
+  },
+  {
     "title": "Pasi Sahlberg",
     "type": "person",
     "path": "wiki/persons/finland/Pasi Sahlberg.md",
@@ -37391,6 +37412,20 @@
       "斯韦科曼派"
     ],
     "subtype": "event"
+  },
+  {
+    "title": "Finnish National Board of Education",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish National Board of Education.md",
+    "aliases": [
+      "芬兰国家教育委员会",
+      "National Board of Education",
+      "Opetushallitus",
+      "NBE",
+      "OPH",
+      "Finnish National Agency for Education"
+    ],
+    "subtype": "organization"
   },
   {
     "title": "1979 Finnish Teacher Education Reform",
