@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 60
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -89,6 +89,9 @@ related_facts:
   - "[[Health Behaviour in School-aged Children]]"
   - "[[Parallel School System in Finland]]"
   - "[[1968 School Systems Act in Finland]]"
+  - "[[1918 Finnish Civil War]]"
+  - "[[Russification of Finland]]"
+  - "[[Jyväskylä Teacher Seminary]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
@@ -244,9 +247,9 @@ related_methods:
 
 > [!feature] 芬诺曼建国运动塑造的教师社会资本
 > - **崇高社会声望与公众信任** 在 2000 年 PISA 放榜前开展的北欧民调中，仅有 20% 的芬兰民众认为教师职业地位较低（其他北欧国家高达 40% 至 80%），民众对基础教育的信任度位居全欧之冠（p. 18）。
-> - **民族国家建构与启蒙使命** 面对自 1809 年脱离瑞典成为沙皇俄国大公国后“承袭瑞典制度而底层操芬兰语”的二元割裂，芬诺曼知识精英深受黑格尔国家哲学启发，将教育确立为催生民族意识的唯一战略手段。教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]于 1863 年创立于韦斯屈莱师范学院（Jyväskylä Teacher Seminary），为后续[[Compulsory Education Act 1921|1921年义务教育法]]的立法普及奠定了校舍与师资网络（pp. 19–21）。
+> - **民族国家建构与启蒙使命** 面对自 1809 年脱离瑞典成为沙皇俄国大公国后“承袭瑞典制度而底层操芬兰语”的二元割裂，芬诺曼知识精英深受黑格尔国家哲学启发，将教育确立为催生民族意识的唯一战略手段。教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]于 1863 年创立[[Jyväskylä Teacher Seminary|于韦斯屈莱师范学院]]（Jyväskylä Teacher Seminary），为后续[[Compulsory Education Act 1921|1921年义务教育法]]的立法普及奠定了校舍与师资网络（pp. 19–21）。
 > - **“民族之烛”崇高威望** 投身乡村初等教育被赋予浓厚的民族浪漫色彩，教师被社会公认为[[Kansankynttilä|民族之烛]]（kansankynttilä），与路德宗教区牧师、乡村医生并列为支撑芬兰村社社会的三大知识精英支柱（pp. 19–21）。
-> - **反沙俄同化的被动抵抗阵地** 在 1899 至 1917 年沙皇俄国推行残酷的“俄罗斯化”（Russification）高压统治时期，芬兰中小学校舍成为守护民族语言与文化的被动抵抗阵地；1918 年芬兰内战爆发（3 个月内死亡 3.7 万人），战后初等学校进一步被确立为愈合社会裂痕、培育国民认同与爱国纪律的中枢（pp. 20–21）。
+> - **反沙俄同化的被动抵抗阵地** 在 1899 至 1917 年沙皇俄国推行残酷的[[Russification of Finland|俄罗斯化]]（Russification of Finland）高压统治时期，芬兰中小学校舍成为守护民族语言与文化的被动抵抗阵地；[[1918 Finnish Civil War|1918年芬兰内战]]爆发（3 个月内死亡 3.7 万人），战后初等学校进一步被确立为愈合社会裂痕、培育国民认同与爱国纪律的中枢（pp. 20–21）。
 > - **极其严苛的师资生源素养** 崇高的社会威望吸引全国最聪慧的青年投身教育。二战前芬兰初等教师持有高中毕业文凭（ylioppilastutkinto）的比例居全球之首（Halila 考证）；当代经合组织成人技能评估（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）数据显示，芬兰中小学教师的读写与算术素养得分显著超越所有西方同类国家（Hanushek et al., 2014；见 pp. 18–19）。
 
 > [!case] 境内自然实验：瑞典语少数族裔学校的生源优势与成绩反差

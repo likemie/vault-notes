@@ -37399,6 +37399,18 @@
     "subtype": "program"
   },
   {
+    "title": "1918 Finnish Civil War",
+    "type": "fact",
+    "path": "wiki/facts/finland/1918 Finnish Civil War.md",
+    "aliases": [
+      "1918年芬兰内战",
+      "芬兰内战",
+      "Suomen sisällissota",
+      "Finnish Civil War"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Fennoman Movement",
     "type": "fact",
     "path": "wiki/facts/finland/Fennoman Movement.md",
@@ -37436,6 +37448,19 @@
     "subtype": "event"
   },
   {
+    "title": "Russification of Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Russification of Finland.md",
+    "aliases": [
+      "芬兰俄罗斯化时期",
+      "压迫年代",
+      "芬兰俄罗斯化",
+      "Sortovuodet",
+      "Russification"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Svecoman Movement",
     "type": "fact",
     "path": "wiki/facts/finland/Svecoman Movement.md",
@@ -37458,6 +37483,19 @@
       "NBE",
       "OPH",
       "Finnish National Agency for Education"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Jyväskylä Teacher Seminary",
+    "type": "fact",
+    "path": "wiki/facts/finland/Jyväskylä Teacher Seminary.md",
+    "aliases": [
+      "于韦斯屈莱师范学院",
+      "于韦斯屈莱师范讲习所",
+      "芬兰于韦斯屈莱师范学院",
+      "Jyväskylän seminaari",
+      "Jyväskylä Teacher College"
     ],
     "subtype": "organization"
   },
