@@ -7153,6 +7153,8 @@
     "Ergen & Kanadli, 2017": "Ergen & Kanadli, 2017",
     "Eric Hanushek (1992)": "Eric Hanushek, 1992",
     "Eric Hanushek (2005)": "Eric Hanushek, 2005",
+    "Eric Hanushek et al. (2014)": "Eric Hanushek et al., 2014",
+    "Eric Hanushek et al., 2014": "Eric Hanushek et al., 2014",
     "Eric Hanushek, 1992": "Eric Hanushek, 1992",
     "Eric Hanushek, 2005": "Eric Hanushek, 2005",
     "Eric Schickler (2001a)": "Eric Schickler, 2001a",
@@ -10014,7 +10016,9 @@
     "Hannah Arendt (1963)": "Hannah Arendt, 1963",
     "Hannah Arendt, 1963": "Hannah Arendt, 1963",
     "Hannah, 2008": "Hannah, 2008",
+    "Hannu Simola (2002)": "Hannu Simola, 2002",
     "Hannu Simola (2015)": "Hannu Simola, 2015",
+    "Hannu Simola, 2002": "Hannu Simola, 2002",
     "Hannu Simola, 2015": "Hannu Simola, 2015",
     "Hans (1949)": "Hans, 1949",
     "Hans (1952)": "Hans, 1952",
@@ -11663,6 +11667,8 @@
     "Janzen, 2003": "Janzen, 2003",
     "Jaremka et al. (2020)": "Jaremka et al., 2020",
     "Jaremka et al., 2020": "Jaremka et al., 2020",
+    "Jarkko Hautamäki (2014)": "Jarkko Hautamäki, 2014",
+    "Jarkko Hautamäki, 2014": "Jarkko Hautamäki, 2014",
     "Jarmon et al. (2009)": "Jarmon et al., 2009",
     "Jarmon et al., 2009": "Jarmon et al., 2009",
     "Jarrett Spiro (2005)": "Jarrett Spiro, 2005",
@@ -22069,6 +22075,8 @@
     "Sirin, 2005": "Sirin, 2005",
     "Sirinides (2018)": "Sirinides, 2018",
     "Sirinides, 2018": "Sirinides, 2018",
+    "Sirkku Kupiainen (2014)": "Sirkku Kupiainen, 2014",
+    "Sirkku Kupiainen, 2014": "Sirkku Kupiainen, 2014",
     "Sisk et al. (2018a)": "Sisk et al., 2018a",
     "Sisk et al. (2018b)": "Sisk et al., 2018b",
     "Sisk et al., 2018": "Sisk et al., 2018a",
@@ -79697,6 +79705,21 @@
       "seen_in": [],
       "title": "The Effect of Self-Regulated Learning Strategies on Academic Achievement: A Meta-Analysis Study"
     },
+    "Eric Hanushek et al., 2014": {
+      "aliases": [
+        "Eric Hanushek et al., 2014",
+        "Eric Hanushek et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Eric Hanushek et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/1979 Finnish Teacher Education Reform.md"
+      ],
+      "title": ""
+    },
     "Eric Hanushek, 1992": {
       "aliases": [
         "Eric Hanushek, 1992",
@@ -100631,6 +100654,21 @@
       "seen_in": [],
       "title": "Attitudinal study  The interaction of students taking calculus and prerequisite courses while participating in peer tutorials"
     },
+    "Hannu Simola, 2002": {
+      "aliases": [
+        "Hannu Simola, 2002",
+        "Hannu Simola (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hannu Simola, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Kansankynttilä.md"
+      ],
+      "title": ""
+    },
     "Hannu Simola, 2015": {
       "aliases": [
         "Hannu Simola, 2015",
@@ -112710,6 +112748,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Academic Impostor Syndrome.md"
+      ],
+      "title": ""
+    },
+    "Jarkko Hautamäki, 2014": {
+      "aliases": [
+        "Jarkko Hautamäki, 2014",
+        "Jarkko Hautamäki (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jarkko Hautamäki, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/1979 Finnish Teacher Education Reform.md"
       ],
       "title": ""
     },
@@ -188206,6 +188259,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Impacts of Reading Recovery at Scale  Results From the 4-Year i3 External Evaluation"
+    },
+    "Sirkku Kupiainen, 2014": {
+      "aliases": [
+        "Sirkku Kupiainen, 2014",
+        "Sirkku Kupiainen (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sirkku Kupiainen, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Kansankynttilä.md"
+      ],
+      "title": ""
     },
     "Sisk et al., 2018a": {
       "aliases": [

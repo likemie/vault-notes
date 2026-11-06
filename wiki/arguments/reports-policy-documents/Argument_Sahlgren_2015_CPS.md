@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 45
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Sisu]]"
   - "[[Inverted U-Curve Hypothesis of Educational Achievement]]"
   - "[[Herbart-Zillerist Pedagogy]]"
+  - "[[Kansankynttilä]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -77,10 +78,12 @@ related_facts:
   - "[[Quebec Education Reform]]"
   - "[[Great Migration in Finland]]"
   - "[[Framework Curriculum 1994]]"
+  - "[[1979 Finnish Teacher Education Reform]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
   - "[[Sigmund Freud]]"
+  - "[[Uno Cygnaeus]]"
 related_methods:
   - "[[Trend Study]]"
   - "[[Historical-Comparative Method]]"
@@ -176,15 +179,15 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 关于教师硕士化教育的解释同样遭遇时序矛盾，无法构成学业腾飞的解释动因（pp. 16–17）。
 
 > [!tension] 师资硕士化时滞与老教师退休错位
-> - **新师资入职严重滞后** 芬兰于 1979 年将小学师范升格为硕士项目，在首批毕业生走上讲台并占据中小学师资队伍主流之前，国际测验成绩早已经历最迅猛提升（p. 16）。
-> - **老教师退休与成绩滑落** 集权旧体制培养的老一代教师在 2000 年代逐步进入退休阶段，此时芬兰学生的学业表现恰恰步入滞胀与滑坡通道（pp. 16–17）。
+> - **新师资入职严重滞后** 芬兰通过[[1979 Finnish Teacher Education Reform|1979年教师教育改革]]将小学师范升格为大学硕士项目，但在首批毕业生走上讲台并占据中小学师资队伍主流之前，国际测验成绩早已经历最迅猛提升（p. 16）。
+> - **老教师退休与成绩滑落** 集权旧体制与传统师范讲习所培养的老一代教师在 2000 年代逐步进入退休阶段，此时芬兰学生的学业表现恰恰步入滞胀与滑坡通道（pp. 16–17）。
 
 > [!contrast-table] 流行政策归因与历史因果实证检验对照
 > | 政策归因维度 | 国际流行神话（萨尔伯格叙事） | 历史时序与微观计量检验结果 | 实证[[Document\|文献]]支持与判定边界 |
 > |---|---|---|---|
 > | **[[Comprehensive School Reform in Finland\|综合学校改革]]** | 废除早期分轨是促成学业腾飞与高均值的制度基石 | 准实验差分估计显示对全国总体认知提升效应接近于零，主要促进底层代际流动 | Pekkarinen et al. (2009); 对全国平均认知无显著推动 |
 > | **[[School Autonomy\|学校自主]]与去问责** | 废除督学、取消考试与下放自主权释放了教学活力 | 成绩加速期发生于集权督导与统考校准时期；分权推行后成绩反而触顶回落 | Altinok et al. (2014); 政策与成绩提升存在严重时序倒置 |
-> | **教师硕士化培养** | 大学硕士学位与研究型师训保障了顶尖教学质量 | 成绩大幅攀升先于硕士毕业生入职，老教师退休与成绩滑坡在时间上高度重合 | Hautamäki (2014); 新师范毕业生入职无法解释早期飞跃 |
+> | **[[1979 Finnish Teacher Education Reform\|教师硕士化培养]]** | 大学硕士学位与研究型师训保障了顶尖教学质量 | 成绩大幅攀升先于硕士毕业生入职，老教师退休与成绩滑坡在时间上高度重合 | Hautamäki (2014); 新师范毕业生入职无法解释早期飞跃 |
 > | **短学时与少作业** | 少即是多，宽松课业为师生释放反思与创造空间 | 跨国计量研究一致确证教学课时与家庭作业对测试表现具有明确正向因果效应 | Lavy (2015); 观察到的短学时属于高效率的产物，不能作为成绩优异的原因 |
 
 ---
@@ -199,8 +202,8 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 芬兰教师享有的极高社会声望与严格选拔门槛，深层起源于 19 世纪中叶的[[Fennoman Movement|芬诺曼运动]]（pp. 18–20）。
 
 > [!feature] 芬诺曼建国运动塑造的教师社会资本
-> - **民族认同启蒙使命** 面对行政承袭瑞典、底层操芬兰语的二元格局，芬诺曼知识精英（以约翰·威廉·斯内尔曼［Johan Vilhelm Snellman］为代表）将初等教育视作培育民族认同与抵御同化的战略阵地（pp. 20–21）。
-> - **民族之烛崇高声望** 投身乡村初等教育被赋予浓厚的民族浪漫色彩，教师被誉为民族之烛（芬兰语：kansankynttilä），享有与牧师、医生并列的道德威望（pp. 19–21）。
+> - **民族认同启蒙使命** 面对行政承袭瑞典、底层操芬兰语的二元格局，芬诺曼知识精英与教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]将初等学校与师范讲习所视作培育民族认同与抵御同化的战略阵地（pp. 20–21, 40）。
+> - **民族之烛崇高声望** 投身乡村初等教育被赋予浓厚的民族浪漫色彩，教师被誉为[[Kansankynttilä|民族之烛]]（芬兰语：kansankynttilä），享有与牧师、医生并列的道德威望（pp. 19–21）。
 > - **严苛生源与高认知素养** 崇高声望吸引顶尖人才从教，二战前小学教师持有高中毕业文凭比例即居国际首位（p. 19），当代教师在成人技能评估（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）中的读写与算术得分显著超越西方同类国家（Hanushek et al., 2014；见 pp. 18–19）。
 
 > [!case] 境内[[Natural Experiment|自然实验]]：瑞典语少数族裔学校的生源优势与成绩反差

@@ -18386,6 +18386,18 @@
     ]
   },
   {
+    "title": "Kansankynttilä",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Kansankynttilä.md",
+    "aliases": [
+      "民族之烛",
+      "人民之烛",
+      "Candle of the Nation",
+      "Candle of the People",
+      "芬兰国民教师文化隐喻"
+    ]
+  },
+  {
     "title": "Kitwood's Paradox",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Kitwood's Paradox.md",
@@ -29465,6 +29477,16 @@
     ]
   },
   {
+    "title": "Uno Cygnaeus",
+    "type": "person",
+    "path": "wiki/persons/finland/Uno Cygnaeus.md",
+    "aliases": [
+      "乌诺·西格纽斯",
+      "芬兰初等教育之父",
+      "Father of Finnish Public Education"
+    ]
+  },
+  {
     "title": "Yrjö Engeström",
     "type": "person",
     "path": "wiki/persons/finland/Yrjö Engeström.md",
@@ -37357,6 +37379,18 @@
       "斯韦科曼派"
     ],
     "subtype": "event"
+  },
+  {
+    "title": "1979 Finnish Teacher Education Reform",
+    "type": "fact",
+    "path": "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
+    "aliases": [
+      "1979年芬兰教师教育改革",
+      "Teacher Education Act 1979",
+      "1979年教师教育法案",
+      "Finnish Teacher Education Reform 1979"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Comprehensive School Reform in Finland",
