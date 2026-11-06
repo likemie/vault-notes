@@ -47,9 +47,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-07
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1994–2005 年 — 创设与奠基期（TTA 时代）** 依据《1994 年教育法》正式设立，全面接管原由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE）掌握的 [[Initial Teacher Training\|ITT]] 资金分配权；1998 年颁布第 4/98 号通令（Circular 4/98），首次强制推行国家 ITT 课程大纲，大力扶持校本培训（SCITT）与研究生教师计划（GTP）。
+> - **1994–2005 年 — 创设与奠基期（TTA 时代）** 依据《1994 年教育法》正式设立，全面接管原由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE）掌握的 [[Initial Teacher Training\|ITT]] 资金分配权；1996 年戴维·哈格里夫斯（David Hargreaves）在 TTA 年度演说中尖锐批判传统教育学研究与课堂脱节，倡导教学效仿循证医学转型为证据本位专业，由此引爆了英国关于教学究竟属于经验技艺还是实证研究本位专业的广泛争鸣；1998 年颁布第 4/98 号通令（Circular 4/98），首次强制推行国家 ITT 课程大纲，大力扶持校本培训（SCITT）与研究生教师计划（GTP）。
 > - **2005–2012 年 — 职能扩张与更名（TDA 时代）** 依据《2005 年教育法》重组并更名为学校培训与发展署（TDA），职能由职前培训扩展至全校教育劳动力的终身持续专业发展（CPD）及辅助教职人员培训。
 > - **2012 年 — 撤销与职能回归教育部** 联合政府时期教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）推行小政府改革，撤销大量准政府机构（Quangos），TDA 被正式解散；其职能先并入国家教学与领导力学院（NCTL），后彻底回收至英国教育部（DfE）内设司局直接管理。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91)]]
 
@@ -78,7 +78,7 @@ updated: 2026-10-26
 > - **质控与协同网络** 与英国皇家教育标准局（[[Ofsted]]）深度捆绑，将 Ofsted 督导评级直接作为 TTA 增减各机构招生指标与经费拨款的硬性法定依据。
 
 > [!pathways] 业务运行机制
-> - **指标与拨款杠杆** 依据国家教师劳动力预测模型，每年向各大学和培训机构下达精准的招生指标（Allocations），通过资金杠杆引导培训重心向重点紧缺学科和校本模式倾斜。
+> - **指标与拨款调节** 依据国家教师劳动力预测模型，每年向各大学和培训机构下达精准的招生指标（Allocations），通过资金分配导向引导培训重心向重点紧缺学科和校本模式倾斜。
 > - **课程规程硬性推行** 制定详尽的《[[Initial Teacher Training\|初始教师培训]]国家标准》，明确规定准教师必须掌握的学科知识、教学策略与评价技能。
 > - **全国招募与营销** 运营官方“走向教学”（Get Into Teaching）全国招募热线与宣传网络，统筹全国教师生源选拔。
 
@@ -99,7 +99,7 @@ updated: 2026-10-26
 > [!finding-cards] 关键成效与辐射影响
 > - **制度格局重塑** 终结了英国高等教育机构对教师培养的自由放任状态，建立了中央政府主导的教师专业标准与绩效拨款体制。
 > - **校本培训生态建立** 成功扶植起一批独立的校本培训机构（SCITT），为 2010 年联合政府大规模推进学校主导（School-led）体系奠定了组织与政策基础。
-> - **行政官僚专权沉淀** 塑造了英格兰教师教育政策领域高度集中化、依赖行政指令与督导考核的技术官僚治理传统。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
+> - **行政官僚规制惯性** 塑造了英格兰教师教育政策领域高度集中化、依赖行政指令与督导考核的技术官僚治理传统。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 ---
 

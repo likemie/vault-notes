@@ -128,7 +128,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-02
+updated: 2026-11-07
 ---
 
 ---
@@ -149,7 +149,7 @@ updated: 2026-11-02
 > - **1960 年代 — 因果问责诉求起源** 参议员罗伯特·肯尼迪（Robert F. Kennedy）质问教育专员：“你是说你花了十亿美元却不知道他们是否会读写？”奠定了联邦追求教育实证确定性的政治动因([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[Office of Educational Research and Improvement|OERI]] 拨付初始合同与发布 [[Study Design and Implementation Assessment Device|Study DIAD]] 草案** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）向 WWC 资助 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动教育有效性证据审查；同年 11 月发布设计与[[Implementation and Process Evaluation|实施评估]]规程（Study Design and Implementation Assessment Device, Study DIAD）草案并向学界公开征求意见。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–35)]]
-> - **2003 — 吸纳 47 条公众评议大幅重构审查规程** WWC 针对 47 条公众评议意见大幅修改 [[Study Design and Implementation Assessment Device|Study DIAD]]，在引言中澄清量化方法并非唯一的“科学”方法，并增设[[Regression Discontinuity Design|断点回归设计]]评估模块、独立[[Quasi-Experimental Designs|准实验设计]]部分、30 余项调节[[Variable|变量]]编码特征以及干预与测量指标对齐（Intervention-Outcome Alignment）审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 35–36)]]
+> - **2003 — 吸纳 47 条公众评议大幅重构审查规程** WWC 针对 47 条公众评议意见大幅修改 [[Study Design and Implementation Assessment Device|Study DIAD]]，在引言中澄清科学方法包含多元设计取向，并增设[[Regression Discontinuity Design|断点回归设计]]评估模块、独立[[Quasi-Experimental Designs|准实验设计]]部分、30 余项调节[[Variable|变量]]编码特征以及干预与测量指标对齐（Intervention-Outcome Alignment）审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 35–36)]]
 > - **2010 — [[Single-Subject Design|单一被试设计]]标准确立** 发布单一被试设计（Single-Subject Design, [[Single-Case Design|SCD]]）试点标准，确立[[Internal Validity|内部效度]]门控与 5-3-20 规则([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]])。
 > - **2015 — [[Every Student Succeeds Act|ESSA]] 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（[[Title I of the Elementary and Secondary Education Act|Title I]]）学校改善拨款时认定“强证据（TIER 1）”与“中等证据（Tier 2）”的法定裁定基准。
 > - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、流失边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
@@ -160,7 +160,7 @@ updated: 2026-11-02
 > | **[[Quantitative Research\|量化研究]]取向** | 众多学者抗议 WWC 过度偏向定量实验而忽视[[Qualitative Research\|质性研究]]，建议制定平行的质性研究指南。 | 在规程引言中正式改写声明，明确强调：(a) WWC 聚焦评估因果有效性的最佳方法，但 (b) WWC 绝不认为定量方法是唯一可被称为科学的方法。 |
 > | **不同研究设计处理** | 学者质询除[[Randomised Controlled Trials\|随机对照试验]]外，其他设计如何被 Study DIAD 容纳。 | 增设独立的[[Regression Discontinuity Design\|断点回归设计]]（Regression Discontinuity Design, RDD）评估专章；将实验与准实验拆分为两个独立审查部分；预留[[Single-Subject Design\|单被试设计]]与[[Time Series Design\|时间序列设计]]模块。 |
 > | **重要设计特征编码** | 评议者提出大量应纳入编码的设计与实施特征。 | 将原仅提及的附录正式纳入规程，列出 30 多项涉及研究设计与实施情境的特征，作为[[Effect Size\|效应量]]的潜在调节[[Variable\|变量]]进行编码。 |
-> | **干预与测量指标对齐** | 学界担忧干预方案与测量结果之间的过度重合或脱节偏差。 | 增设对齐审查：排查关联过小（如教数学测阅读）与过度重合（如测试题直接包含干预材料原文而对照组未接触）的效度扭曲。 |
+> | **干预与测量指标对齐** | 学界担忧干预方案与测量结果之间的过度重合或脱节偏差。 | 增设对齐审查：排查关联过小（如教数学测阅读）与过度重合（如测试题直接包含干预教学材料内容而对照组未接触）的效度扭曲。 |
 
 > [!policy-context] 资助体系与国家级技术保障
 > - **超 1 亿美元联邦累计投入** 联邦政府持续稳定的研发与运维投入，使其拥有全美最庞大的常设方法论委员会与外包合同研究专家库([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
@@ -176,7 +176,7 @@ updated: 2026-11-02
 
 > [!pathways] 证据审查与产品生成规程
 > - **议题议程设定** 优先遴选联邦拨款重点领域、高采购率课程方案或一线学区广泛关注的教学实践。
-> - **广泛文献抓取** 系统回溯前 20 年的已发表期刊论文及未发表灰色评估报告，消除[[Publication Bias\|发表偏倚]]。
+> - **广泛文献抓取** 系统回溯前 20 年的已发表期刊论著及未发表灰色评估报告，消除[[Publication Bias\|发表偏倚]]。
 > - **逐级门控审查** 按照“因果识别设计 $\to$ [[Attrition\|样本流失]]模型 $\to$ 基线等值性检验 $\to$ [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]]聚合”程序完成标准化评级。
 
 ---
@@ -219,7 +219,7 @@ updated: 2026-11-02
 >    - **差值 $> 0.25\text{ SD}$** 认定基线严重不等价，直接裁定为“未达标（Does Not Meet Standards）”。
 >
 > 3. **前沿技术[[Meta-analysis\|元分析]]的实证准入迁移（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）**
->    - WWC (2022) 的基线等效性标准化均数差规程被正式引入[[Generative Artificial Intelligence\|生成式人工智能]]（Gen-AI）高等教育元分析中，作为剔除低质偏倚研究的核心门槛（[[Pre-test and Post-test\|前测]]组间差异 $d < 0.25$，且在 $0.05 \le d \le 0.25$ 必须进行协[[Variable\|变量]]调整），成功排除了过往综述中因未控基线而虚高的研究，使校正后的合并[[Effect Size\|效应量]]收敛至客观基准（$g^+ = 0.321$）([[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025, pp. 8–9, 15]])。
+>    - WWC (2022) 的基线等效性标准化均数差规程被正式引入[[Generative Artificial Intelligence\|生成式人工智能]]（Gen-AI）高等教育元分析中，作为剔除低质偏倚研究的核心门槛（[[Pre-test and Post-test\|前测]]组间差异 $d < 0.25$，且在 $0.05 \le d \le 0.25$ 必须进行协[[Variable\|变量]]调整），成功排除了过往综述中因未控基线而虚高的研究，使校正后的合并[[Effect Size\|效应量]]稳定在客观基准（$g^+ = 0.321$）([[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025, pp. 8–9, 15]])。
 
 ---
 
@@ -291,7 +291,7 @@ updated: 2026-11-02
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]汇总的 1,359 个去重教育干预项目池 | 清算机构跨案例比较与跨中心[[Network Analysis\|网络分析]] | 项目收录规模（537 项）、重叠项目数（131 项）、跨机构评级一致率与极端冲突率 | WWC 占全美去重项目总量的 39.5%（规模居首）；与其它清算中心评级一致率仅 24.1%，极端冲突率达 35.7% | — | 实证揭示官方清算中心在评级标准与微观分域上的独特严格性及其与其它机构的分歧（pp. 16–20） |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | WWC 数据库收录的教育干预[[Evaluation Research\|评估研究]]全样本 | 开发者利益冲突[[Meta-regression\|元回归]]与偏差审查 | 开发者主导 vs 独立第三方评估效应量差异、自编测验使用率（29% vs 8%） | 开发者实施或[[Categorical Funding\|委托研究]]效应量平均高出 0.141 个标准差（约为独立研究的 1.8 倍） | $p < 0.01$ | 实证确立清算机构建立独立评估防火墙与强制方案预注册的紧迫性（pp. 430–443） |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与[[Mathematics Intervention Programs\|数学干预项目]]三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
-> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 联邦初创期 [[Study Design and Implementation Assessment Device\|WWC Study DIAD]] 规程草案与 47 项公众反馈 | 政策文本追踪与公共评议质评分析 | 初始合同金额（1850 万美元）、公众评议条数（47 条）、规程修正要点（澄清量化非唯一科学、增设 [[Regression Discontinuity Design\|RDD]]、30+ 调节变量） | 初版 Study DIAD 在 47 项公共评议推动下大幅重构，打破实验排他垄断并设立准实验专章 | — | 证实官方清算机构的因果标准在初创期具备可变性，学界民主质证能成为反制行政狭隘化的关键杠杆（pp. 34–36） |
+> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 联邦初创期 [[Study Design and Implementation Assessment Device\|WWC Study DIAD]] 规程草案与 47 项公众反馈 | 政策文本追踪与公共评议质评分析 | 初始合同金额（1850 万美元）、公众评议条数（47 条）、规程修正要点（澄清量化非唯一科学、增设 [[Regression Discontinuity Design\|RDD]]、30+ 调节变量） | 初版 Study DIAD 在 47 项公共评议推动下大幅重构，打破实验排他垄断并设立准实验专章 | — | 证实官方清算机构的因果标准在初创期具备可变性，学界民主质证能够成为反制行政狭隘化的关键机制（pp. 34–36） |
 > | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元《[[Title I of the Elementary and Secondary Education Act\|每一个学生成功法]]》Title I 教育经费，跨 129 项采购实践、4 个公共证据库（WWC、Evidence for ESSA、EEF、ERIC） | 跨库证据审计与财务合规分析 | 单库单研究合规率 vs 四库证据体综合合规率；26 项无目标学段研究实践数；跨学段降维推断案例 | 单研究合规视角下合规率达 95%–99%；切换至四库证据体综合视角后骤降至 49%–58%（保守敏感性分析：20%）；26 项实践在任一库中均无目标学段研究 | — | 揭示 ESSA 法定单研究合规门槛制造的循证采购虚假性，以及 WWC 作为单一来源不足以支撑完整体证据评估的结构性局限（pp. 170–174） |
 
 ---
