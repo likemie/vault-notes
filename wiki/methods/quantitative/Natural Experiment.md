@@ -9,7 +9,7 @@ summary: "利用自然界、历史事件、政策突变或制度行政划分产�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -37,10 +37,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 ---
@@ -51,7 +52,7 @@ updated: 2026-11-02
 > [!method-scope] 方法范围
 > - **研究对象** 经历外生政策冲击、突发制度变动、自然灾害或制度截断阈值的个体、机构、地区或科学共同体。
 > - **问题类型** 因果效应识别、政策干预净效应评估、制度机制检验。
-> - **分析单位** 科学家个体、科研团队、学术成果、资助申请、大学或国家创新系统。
+> - **分析单位** 科学家个体、科研团队、学术成果、资助申请、学生群体、学校、大学或国家创新系统。
 > - **输出形式** 平均处理效应（ATE）、局部平均处理效应（LATE）、因果弹性系数或断点跳跃估计值。
 
 > [!citation-card] 关键定义
@@ -89,7 +90,7 @@ updated: 2026-11-02
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 现实场景中无法进行人为随机干预（受限于科研伦理或财政体制）、但存在明确制度切分线或外生突发事件的因果评估场景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 249–250)]]
+> - **适合使用** 现实场景中无法进行人为随机干预（受限于科研伦理或财政体制）、但存在明确制度切分线、行政门槛或外生突发事件的因果评估场景（如评估资助门槛效应或基于境内族裔语言群体制度内对照剥离混杂）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 249–250)]]; [[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25–29)]]
 > - **谨慎使用** 外生性假设存在争议、个体具有主动操纵跨越门槛动机、或冲击存在跨组溢出效应的场景。
 > - **不适合使用** 缺乏外生变异的纯横截面观察性调查，以及旨在回答宏观系统演化的全局命题。
 
@@ -119,3 +120,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐释自然实验在科学学因果识别中的方法论逻辑，并结合 NIH 青年基金及格线自然实验展示因果识别实证（pp. 249–250）。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 利用芬兰境内瑞典语少数族裔学校构建制度内自然实验，在同等大纲与经费下剥离家庭背景混杂，因果揭示师资选拔门槛对学业产出的决定性影响（pp. 25–29）。
