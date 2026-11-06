@@ -54,6 +54,7 @@ related_arguments:
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_facts:
   - "[[OECD]]"
   - "[[Monash Q Project]]"
@@ -163,6 +164,9 @@ updated: 2026-11-03
 > [!claim] Rickinson et al.
 > **榜样型领导与心理安全** 在推动高质量研究[[Research Utilization\|证据使用]]的过程中，学校领导者承担着不可替代的组织使能中枢功能。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）等学者基于澳大利亚中小学实证调查指出，领导者口头倡导研究无法消除一线教师的抵触与信心赤字，唯有领导者言行一致、躬身示范研究在教学中的具体转化，才能赋予教师试错的心理安全感；通过在日常排程中刚性划拨专有研读工时、建立[[Professional Learning Community\|专业学习共同体]]（PLCs），领导者成功破除了行政文书杂务对教研的残酷挤压，使得外部适切证据能够在互信对话中扎根微观课堂。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–193)]]
 
+> [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
+> **领导者在循证治理中的催化与门禁双重性** 基于对 109 项实证研究的框架综合，学校领导者（$k = 20$）在研究使用治理中具有关键的双重性：一方面，领导者主动研读前沿成果、言行一致示范转化、向教师让渡课程决策权并调配资源化解杂务干扰，构成了培育人际互信与专业自主的催化剂（$k = 25$）；另一方面，在高利害行政问责压力下，领导者常因追求合规而带头进行象征性应付，甚至主动充当门禁角色阻断教师的专业探索。这表明领导力对循证实践的支撑作用深嵌于学校内外部治理机制之中。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 15, 17)]]
+
 ---
 
 > [!concept-proposition] 命题四｜产出导向与[[Output-Oriented Governance|循证治理]]驱动学校领导者系统重置微观工时，向专业化教育企业管理者转型
@@ -189,7 +193,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **情境与权力嵌入** | 领导实践深嵌于具体社会学情与宏观权力结构，反对去情境普适论 | 多元文化、薄弱校与社会公平变革 | [[Argument_Møller_2017_EERJ\|Møller (2017)]]; [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] |
 > | **管理主义双重绑定** | 市场化自主权将校长异化为绩效交付者，引发伦理妥协与目标置换 | 基础[[Educational Decentralization\|教育分权]]改革与标准化问责体制 | Eacott; Keddie et al. (2020) |
-> | **循证使能与榜样示范** | 领导亲身示范与制度化排程是破除教师防卫、促进证据使用的中枢 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] |
+> | **循证使能与榜样示范** | 领导亲身示范与制度化排程是促进证据使用的中枢，但在高压问责下亦具象征性应付与门禁风险 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **工时重置与角色转型** | 治理理念促使校长削减直接授课并增加听课研讨，向教育企业管理者转型 | 学校管理专业化、领导力工时配置与组织再造 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] |
 > | **高位组织使能支柱** | 专家评审获评高分，作为系统孵化与保障微观课堂教学的高位手段 | 学校整体改进规划、循证治理系统设计 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 > | **官僚异化治理风险** | 追逐领导力[[Performance Indicators\|绩效指标]]异化为持续生产数据，加剧行政官僚化与教师流失 | 循证政策行政转译、教师工作负荷与师资留任危机 | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
@@ -203,10 +207,11 @@ updated: 2026-11-03
 > - **2010s — [[Critical Policy Analysis|批判性政策研究]]与管理主义反思** 学界运用[[Critical Theory\|批判理论]]与[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]视角，深刻反思[[New Public Management\|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导习性。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–58)]]
 > - **2010s 至今 — 德语区产出导向与校长角色转型** 随着国家教育标准与数据监测体系确立，欧陆中小学校长逐步打破兼课教师传统，在路径自主架构下转型为以教学诊断和质量保障为核心的教育企业管理者。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–21, 30–33)]]
 > - **2020s — [[Evidence-Informed Practice\|证据知情实践]]中的组织使能重塑** 莫[[Roy Nash|纳什]]大学 Q 项目在[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）中，将榜样型领导力与制度化排程确立为促进循证实践的组织使能支柱，完成从行政管辖向循证培育的[[Paradigm\|范式]]提升。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–192)]]
+> - **2026 — 跨层治理视角下领导力的催化与门禁双重机制** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 框架综合 109 项研究，实证揭示学校领导者在推动证据使用中兼具赋权示范催化剂与行政门禁阻断者的双重角色（pp. 15, 17）。
 
 ---
 
-> [!debate] 学术争议与批判反思
+> [!debates] 学术争议与批判反思
 >
 > > [!axis] 个人英雄叙事与分布式协作的断裂
 > > 许多领导力实证研究主要依赖校长的自我陈述，极易滑向过度美化个人能力的英雄主义传奇（Heroic Tales），遮蔽了教师同侪协作与学校深层权力结构。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 380–381)]]
@@ -299,6 +304,7 @@ updated: 2026-11-03
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
 > | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
 > | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题编码分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项中小学教师与学校领导者研究使用实证研究（跨 28 国） | 框架综合（[[Framework Synthesis\|Framework Synthesis]]） | 学校领导在研究使用中的双重角色（促成 vs 障碍） | 领导作为使能与示范（$k = 25$ 项研究报告）vs 领导作为合规障碍或门禁（$k = 20$ 项研究报告） | 混合方法质性综合 | 揭示学校领导者既是营造信任与示范研究的关键催化剂，亦常因行政问责压力成为阻断教师探索的门禁（pp. 15, 17） |
 
 ---
 
@@ -327,3 +333,4 @@ updated: 2026-11-03
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立学校领导力为最高相关度的组织使能支柱（$M=4.50$），实证揭示将其与微观课堂教学在扁平[[Effect Size|效应量]]排行榜中机械对比的方法学局限。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 记录对《[[Visible Learning|可见的学习]]》排名在地方教育领导力应用中的反思，结合 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 揭示追求数据绩效导致教师官僚文书负担激增与流失加剧的“治理悲剧”（pp. 236, 240–241）。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从卡拉汉[[Cult of Efficiency|效率崇拜]]与[[Neo-Taylorism|新泰勒主义]]视角，深度解构澳大利亚学校领导力对[[John Hattie|哈蒂]] VL 学说的教父式崇拜，批判将领导力窄化为持续数据生产的技术官僚异化（pp. 413–426）。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 系统综述 109 项实证研究，揭示学校领导者在研究使用治理中兼具赋权示范催化剂与合规门禁阻断者的双重角色（pp. 15, 17）。

@@ -60,6 +60,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_persons:
   - "[[John Hattie]]"
 confidence: high
@@ -133,6 +134,9 @@ updated: 2026-11-03
 > [!claim] [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **三十年跨度下的问题定势与同质结论** 从 1996 年将教师缺乏培训视为主要障碍，到 2007 年关注教师参与不足，再到 2012 年与 2019 年持续指出实践者极少使用研究，该领域的问题出发点在近三十年间保持了高度一致；由于研究从一开始就假定[[Research Utilization\|研究使用]]是教师理应具备却普遍缺失的特征，导致即便研究者采用了[[Questionnaire\|问卷]]、访谈或[[Mixed Methods Research\|混合方法]]，最终实证数据均显示教师虽对研究持积极态度，但日常实际使用率持续处于极低水平。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 4–6)]]
 
+> [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
+> **实证文献画像的层级错配与系统性归因偏误** 基于对 109 项中小学教师与学校领导者研究使用实证文献的框架综合，多达 83% 的实证研究（$k = 91$）将关注焦点集中于一线教师个体的技能赤字与心态消极；然而经验现实中最顽固的致阻因素（时间剥夺、高压问责、恶劣工作环境与象牙塔鸿沟）压倒性地驻留于系统与组织层级。将系统性制度约束矮化为微观个体过失造成了认识论层级错配，在长达二十年的时间里遮蔽了深层治理机制的建设。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 8, 17–18)]]
+
 ---
 
 > [!concept-proposition] 命题二｜赤字[[Discourse|话语]]在实证推论中诱发还原主义倾向与循环论证，阻碍对研究使用概念本身的理论革新
@@ -162,7 +166,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同 | 审视教育循证改革文献与政策[[Discourse\|话语]] | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Hodges (1996); Cain et al. (2019) |
+> | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同，形成个体缺陷偏向与系统障碍的层级错配 | 审视教育循证改革文献与政策[[Discourse\|话语]] | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; Hodges (1996) |
 > | **推论简单化与自我循环** | 剖析政策建议退回技能补课的还原主义机制与理论盲点 | [[Evaluation Research\|评估研究]]使用干预方案与教师培训设计 | Schaik et al. (2018); Brown and Zhang (2018) |
 > | **课堂免责与差距固化** | 揭示教师对学生家庭的赤字归因如何成为推卸教学责任的防御心理盾牌 | 弱势群体教育、土著教育与[[Differentiated Instruction\|差异化教学]]研究 | Bishop et al. (2003) |
 > | **数据意外与图式重构** | 论证平行班级高增值证据（$d > 0.80$）如何打破赤字神话并驱动教学反思 | 校本教研干预、读写加速项目与[[Professional Learning Community\|专业学习共同体]]建设 | Timperley (2004, 2005)；Schutzwohl (1998)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] |
@@ -173,6 +177,7 @@ updated: 2026-11-03
 > - **1990s — 萌芽与批判** 伴随循证实践兴起，教师与弱势文化在政策与学术中被频繁界定为缺乏知识或资本的客体；学者开始反思赤字思维对少数族裔教育的伤害（Hodges, 1996; Valencia, 1997）。
 > - **2000s — 课堂归因与干预实证** 比肖普等人（Bishop et al., 2003）在 [[Te Kotahitanga]] 项目中系统剖析毛利学生的赤字理论；廷珀利（Timperley, 2004, 2005）与[[John Hattie\|哈蒂]]（[[Argument_Hattie_2005_ACER\|Hattie, 2005]]）揭示“数据意外”对低经济地位学校教师赤字借口的破解机制。
 > - **2025 — 系统解构与[[Paradigm\|范式]]重塑** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 运用[[Critical Review\|批判性综述]]正式从[[Epistemology\|认识论]]层面解构科研使用领域 30 年的赤字框架，倡导专业敏感型研究范式。
+> - **2026 — 框架综合量化实证文献的个体赤字偏向** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 框架综合 109 项研究，量化证实 83%（$k = 91$）的实证研究聚焦个体技能与态度赤字，揭示个体缺陷归因与深层系统组织障碍之间的层级错配（pp. 8, 17–18）。
 
 ---
 
@@ -184,6 +189,7 @@ updated: 2026-11-03
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | 同上（方法学分析） | 同上 | 同上 | 实证研究设计与结论分布 | 24 项实证研究中 13 项采用自陈[[Questionnaire\|问卷调查]]，100% 得出教师实际使用有限的结论 | — | 表明[[Methodological Individualism\|方法论个体主义]]主导的调查设计不断复制同质化结论，陷入推论循环 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项中小学教师与学校领导者研究使用实证研究（跨 28 国） | 框架综合（[[Framework Synthesis\|Framework Synthesis]]） | 实证文献的层级分布偏向（个体 vs 组织 vs 系统） | 个体层面研究占 83%（$k = 91$ 项），组织层面 $k = 56$，系统层面 $k = 46$ | 混合方法系统综述 | 实证量化证实研究使用文献呈现微观个体赤字归因偏向，遮蔽了系统与组织层面的硬约束（pp. 8, 17–18） |
 > | Bishop et al. (2003) | 新西兰 4 所中学 11 名骨干教师及其 9–10 年级毛利学生 | 质性叙事探究＋行动干预试验（[[Te Kotahitanga]]） | 教师赤字归因转变与毛利学生出勤、留校率 | 转变赤字归因并建立关系性教学后，毛利学生出勤率与学业保留率系统性上升 | 质性与描述性验证 | 证实破除教师赤字图式是改善少数族裔学生[[Academic Achievement\|学业表现]]的前提条件 |
 > | Timperley (2004, 2005)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 Decile 1（最低十分位 [[Socioeconomic Status\|SES]]）小学读写教师 | 校本评估干预与数据对照实验 | 教师归因信念与学生读写增益效应量 | 平行班级教师创设出 $d > 0.80$ 的读写净增益，击碎“家庭无支持即无法学会阅读”的普遍信念 | $d > 0.80$ | 证明“数据意外”能够有效瓦解防御性认知图式 |
 
