@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 54
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -84,12 +84,16 @@ related_facts:
   - "[[Compulsory Education Act 1921]]"
   - "[[Centralized Textbook Approval System in Finland]]"
   - "[[Finnish National Board of Education]]"
+  - "[[Health Behaviour in School-aged Children]]"
+  - "[[Parallel School System in Finland]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
   - "[[Sigmund Freud]]"
   - "[[Uno Cygnaeus]]"
   - "[[Hannu Simola]]"
+related_instruments:
+  - "[[Finnish Defence Forces Basic Ability Test]]"
 related_methods:
   - "[[Trend Study]]"
   - "[[Historical-Comparative Method]]"
@@ -156,7 +160,7 @@ related_methods:
 [[International Education|国际教育]]政策界在谈论[[Finnish PISA Miracle|芬兰PISA奇迹]]时，普遍将其归因于学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg）倡导的进步主义理念，主张抵抗[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）（pp. 7–9）。然而截面观察无法确立[[Causality|因果关系]]，观察到的特征完全可能是无关副产物甚至阻碍因素（pp. 9–10）。
 
 > [!evidence-grid] 流行归因的计量经济学反证
-> - **综合学校改革** Pekkarinen et al.（2009）利用芬兰分步推行改革的[[Quasi-Experimental Designs|准实验设计]]进行[[Difference-in-Differences|双重差分]]估计，发现废除早期分轨对男青年在算术和逻辑推理上的总体认知得分仅产生极其微弱的正面影响，主要贡献在于促进低收入群体的代际流动，对整体学业水准推动微乎其微。
+> - **综合学校改革** Pekkarinen et al.（2009）利用芬兰废除旧有[[Parallel School System in Finland|二元分流学制]]（two-stream system）并分步推行综合学校的[[Quasi-Experimental Designs|准实验设计]]进行[[Difference-in-Differences|双重差分]]估计，发现废除早期分轨对男青年在算术和逻辑推理上的总体认知得分仅产生极其微弱的正面影响，主要贡献在于促进低收入群体的代际流动，对整体学业水准推动微乎其微。
 > - **课时与[[Homework|作业]]量** 跨国微观计量研究一致表明，教学课时对测试表现具有显著正向因果效应，且更强的问责制能进一步放大课时收益（Lavy, 2015），家庭作业量同样与数学和科学得分呈显著正相关（p. 11）。
 > - **市场[[School Choice|择校]]竞争** 跨国实证研究证实类似自由学校与自主学院的择校竞争总体上有助于提升参测国 [[PISA]] 平均表现，排斥竞争与外部评价的教条缺乏严肃经验证据支持（pp. 10–11）。
 
@@ -178,7 +182,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 > [!figure]- 图2：芬兰应征入伍男青年平均智力测验得分走势（1986–2010）
 > ![](https://img.mylikemie.icu/sources/Sahlgren_2015_CPS/figures/Sahlgren_2015_CPS_Fig2_Army_Test_Scores.jpg)
 
-芬兰国防军征兵入伍测试数据为该历史时序提供了独立互证（图 2）。1988 至 1997 年间，芬兰 18 至 20 岁入伍男青年的平均认知得分稳步攀升，相当于提升了 24 个 PISA 分值；而在 1997 至 2009 年间，其平均得分急剧下坠 21 个 PISA 分值（p. 15）。由于该群体在 1980 年代受教育期间正处于中央集权体制之下，这证实认知飞跃发生于集权时代，而衰退恰恰伴随着新分权体系的落地。
+芬兰国防军征兵入伍测试数据为该历史时序提供了独立互证（图 2）。基于[[Finnish Defence Forces Basic Ability Test|芬兰国防军基础能力测验]]历年档案，1988 至 1997 年间，芬兰 18 至 20 岁入伍男青年的平均认知得分稳步攀升，相当于提升了 24 个 PISA 分值；而在 1997 至 2009 年间，其平均得分急剧下坠 21 个 PISA 分值（p. 15）。由于该群体在 1980 年代受教育期间正处于中央集权体制之下，这证实认知飞跃发生于集权时代，而衰退恰恰伴随着新分权体系的落地。
 
 > [!sub-claim] 3. 教师硕士化政策落地过晚，无法解释早期的成绩上升
 
@@ -268,7 +272,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 
 > [!factors] 富裕社会文化转型对学习动力的消解
 > - **传统权威与秩序认同回落** 伴随芬兰迈入高度富裕的后工业化信息社会，年轻一代的生活方式发生深刻转向，对纪律秩序与努力工作的认可度显著走低（pp. 51–53）。
-> - **后物质主义价值转向** 欧洲价值观调查（European Values Study, EVS）数据显示，民众对闲暇与个人自由的追求大幅攀升，财富效应跨越临界拐点进入负向区间（pp. 53–56）。
+> - **后物质主义价值转向** 欧洲价值观调查（European Values Study, EVS）与世界卫生组织[[Health Behaviour in School-aged Children|学龄儿童健康行为调查]]（HBSC）数据显示，学生感知到的课堂师生关怀度（从 18% 升至 32%）与发言自由度显著上升，但民众对闲暇与个人自由的追求大幅攀升，财富效应跨越临界拐点进入负向区间（pp. 53–56, 61, 71）。
 
 > [!sub-claim] 3. 课堂盲目转向以学生为中心的探究学习，直接损害了基础学业表现
 

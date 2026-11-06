@@ -7745,6 +7745,11 @@
     "Finnemore, 1993": "Finnemore, 1993",
     "Finnigan & Daly (2014)": "Finnigan & Daly, 2014",
     "Finnigan & Daly, 2014": "Finnigan & Daly, 2014",
+    "Finnish Defence Forces (1955)": "Finnish Defence Forces, 1955",
+    "Finnish Defence Forces (1980)": "Finnish Defence Forces, 1980",
+    "Finnish Defence Forces, 1955": "Finnish Defence Forces, 1955",
+    "Finnish Defence Forces, 1980": "Finnish Defence Forces, 1980",
+    "Finnish Defence Forces, 1980s": "Finnish Defence Forces, 1980",
     "Fiorilli (2021)": "Fiorilli, 2021",
     "Fiorilli, 2021": "Fiorilli, 2021",
     "Firestone & Gonzalez (2007)": "Firestone & Gonzalez, 2007",
@@ -27283,6 +27288,8 @@
     "相对主义与后现代认识论批判, 2015": "相对主义与后现代认识论批判, 2015",
     "石中英 (2017)": "石中英, 2017",
     "石中英, 2017": "石中英, 2017",
+    "社会民主与中左阵营 (1968)": "社会民主与中左阵营, 1968",
+    "社会民主与中左阵营, 1968": "社会民主与中左阵营, 1968",
     "社论 (1916)": "社论, 1916",
     "社论, 1916": "社论, 1916",
     "福瑞与伦德瓦尔 (1996)": "福瑞与伦德瓦尔, 1996",
@@ -84102,6 +84109,36 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_EducRes.md"
+      ],
+      "title": ""
+    },
+    "Finnish Defence Forces, 1955": {
+      "aliases": [
+        "Finnish Defence Forces, 1955",
+        "Finnish Defence Forces (1955)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Finnish Defence Forces, 1955"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/tests/Finnish Defence Forces Basic Ability Test.md"
+      ],
+      "title": ""
+    },
+    "Finnish Defence Forces, 1980": {
+      "aliases": [
+        "Finnish Defence Forces, 1980",
+        "Finnish Defence Forces (1980)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Finnish Defence Forces, 1980s"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/tests/Finnish Defence Forces Basic Ability Test.md"
       ],
       "title": ""
     },
@@ -162738,7 +162775,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
-        "wiki/facts/finland/Comprehensive School Reform in Finland.md"
+        "wiki/facts/finland/Comprehensive School Reform in Finland.md",
+        "wiki/facts/finland/Parallel School System in Finland.md"
       ],
       "title": ""
     },
@@ -225523,6 +225561,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/ECNU Declaration on Evidence-Based Research.md"
+      ],
+      "title": ""
+    },
+    "社会民主与中左阵营, 1968": {
+      "aliases": [
+        "社会民主与中左阵营, 1968",
+        "社会民主与中左阵营 (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "社会民主与中左阵营, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/Parallel School System in Finland.md"
       ],
       "title": ""
     },

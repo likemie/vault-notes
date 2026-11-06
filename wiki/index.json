@@ -28465,6 +28465,18 @@
     ]
   },
   {
+    "title": "Finnish Defence Forces Basic Ability Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Finnish Defence Forces Basic Ability Test.md",
+    "aliases": [
+      "芬兰国防军基础能力测验",
+      "芬兰入伍士兵认知测验",
+      "Finnish Military Conscript Test",
+      "Peruskoe 1",
+      "Peruskoe 2"
+    ]
+  },
+  {
     "title": "Graduate Skills Assessment",
     "type": "instrument",
     "path": "wiki/instruments/tests/Graduate Skills Assessment.md",
@@ -37498,6 +37510,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Parallel School System in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Parallel School System in Finland.md",
+    "aliases": [
+      "芬兰二元分流学制",
+      "芬兰双轨制学校体系",
+      "Oppikoulu-Kansakoulu Dual Track System",
+      "Finnish Two-Stream System"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "SveaSus Project",
     "type": "fact",
     "path": "wiki/facts/finland/SveaSus Project.md",
@@ -39538,6 +39562,18 @@
       "GS",
       "Google Scholar Citations",
       "谷歌学术引文档案"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Health Behaviour in School-aged Children",
+    "type": "fact",
+    "path": "wiki/facts/global/Health Behaviour in School-aged Children.md",
+    "aliases": [
+      "学龄儿童健康行为调查",
+      "HBSC",
+      "WHO-Koululaistutkimus",
+      "WHO Health Behaviour in School-aged Children Study"
     ],
     "subtype": "program"
   },
