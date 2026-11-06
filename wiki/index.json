@@ -8259,6 +8259,16 @@
     ]
   },
   {
+    "title": "Sisu",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Sisu.md",
+    "aliases": [
+      "西苏",
+      "芬兰坚毅精神",
+      "芬兰西苏精神"
+    ]
+  },
+  {
     "title": "Sleep Deprivation in Students",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Sleep Deprivation in Students.md",
@@ -18350,6 +18360,18 @@
     "path": "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
     "aliases": [
       "直觉依赖模式"
+    ]
+  },
+  {
+    "title": "Inverted U-Curve Hypothesis of Educational Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Inverted U-Curve Hypothesis of Educational Achievement.md",
+    "aliases": [
+      "学业成就倒U型假说",
+      "学业成就的财富效应",
+      "Wealth Effect in Educational Achievement",
+      "经济增长与学业表现倒U型关系",
+      "Inverted U-Curve of Educational Achievement"
     ]
   },
   {
@@ -35537,6 +35559,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Quebec Education Reform",
+    "type": "fact",
+    "path": "wiki/facts/canada/Quebec Education Reform.md",
+    "aliases": [
+      "魁北克教育改革",
+      "加拿大魁北克教育改革",
+      "Quebec Curriculum Reform",
+      "Renouveau pédagogique",
+      "魁北克新教育改革"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Canadian Education Indicators Program",
     "type": "fact",
     "path": "wiki/facts/canada/Canadian Education Indicators Program.md",
@@ -37285,6 +37320,18 @@
       "芬兰PISA现象",
       "Finnish PISA Phenomenon",
       "Finnish PISA Success"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Svecoman Movement",
+    "type": "fact",
+    "path": "wiki/facts/finland/Svecoman Movement.md",
+    "aliases": [
+      "斯韦科曼运动",
+      "瑞典族人运动",
+      "Svecomania",
+      "斯韦科曼派"
     ],
     "subtype": "event"
   },

@@ -7,6 +7,10 @@ aliases:
 summary: "芬兰特有的表示在逆境中坚忍执着、内在力量与坚不可摧决心的文化构念；在教育社会学与比较教育研究中被视作后发工业化社会特有的深层文化资本，驱动高强度学业投入与教育抱负；实证数据揭示其在芬兰家庭教养与经济危机中表现出显著的代际传承韧性。"
 type: concept
 domain: "educational-psychology"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/educational-psychology
   - theme/cultural-capital

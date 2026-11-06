@@ -7,9 +7,9 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
 authors:
   - "[[Gabriel Heller Sahlgren|Sahlgren, G. H.]]"
@@ -61,6 +61,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Literacy]]"
   - "[[Structured Teaching]]"
+  - "[[Sisu]]"
+  - "[[Inverted U-Curve Hypothesis of Educational Achievement]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -70,6 +72,8 @@ related_facts:
   - "[[Comprehensive School Reform in Finland]]"
   - "[[Fennoman Movement]]"
   - "[[OECD]]"
+  - "[[Svecoman Movement]]"
+  - "[[Quebec Education Reform]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
@@ -199,14 +203,14 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 > [!case] 境内[[Natural Experiment|自然实验]]：瑞典语少数族裔学校的生源优势与成绩反差
 > 芬兰境内的瑞典语少数族裔（约占总人口 5%）构成了一组绝佳的制度内自然实验对照组（pp. 25–29）。该群体历史底蕴深厚，在政治与经济上享有显著优势：2011 年赫尔辛基证券交易所前 50 大上市公司董事会成员中 24% 操瑞典语，人均投资财富为芬兰语人群的 3 倍，且在平均[[Educational Level|受教育年限]]、健康水平与预期寿命上全面占优（p. 25）。然而，在历次学业评估中，瑞典语学校学生的表现却系统性落后于芬兰语学校学生。在 PISA 2009 超额抽样调查中，瑞典语学校数学落后 14 分、阅读落后 27 分、科学落后 28 分（p. 29）。
 >
-> 造成这一反差的核心机制在于教师职业地位与师训选拔强度的悬殊。瑞典语少数派历史上的斯韦科曼（Svecoman）运动本质上是保守防御性的，直接继承瑞典本土现成文化，无需将教师塑造成唤醒农民的民族英雄；教师职业在瑞典语社区常被视作保底职业（p. 28）。2000 至 2009 年间，瑞典语师训项目录取率高达 40%，而芬兰语师范录取率仅为 10%（pp. 27–28）。校长调查显示瑞典语学校长期面临高素质合格师资严重短缺，印证了教师社会地位对生源选拔与学业产出的决定性意义。
+> 造成这一反差的核心机制在于教师职业地位与师训选拔强度的悬殊。瑞典语少数派历史上的[[Svecoman Movement|斯韦科曼（Svecoman）运动]]本质上是保守防御性的，直接继承瑞典本土现成文化，无需将教师塑造成唤醒农民的民族英雄；教师职业在瑞典语社区常被视作保底职业（p. 28）。2000 至 2009 年间，瑞典语师训项目录取率高达 40%，而芬兰语师范录取率仅为 10%（pp. 27–28）。校长调查显示瑞典语学校长期面临高素质合格师资严重短缺，印证了教师社会地位对生源选拔与学业产出的决定性意义。
 
 > [!sub-claim] 2. 经济快速追赶期的财富效应激发了国民强烈的求学动力
 
-芬兰在现代化进程中属于典型的后发国家，二战后爆发性工业化催生了独特的传统价值底色与倒 U 型教育财富效应（pp. 27–34）。
+芬兰在现代化进程中属于典型的后发国家，二战后爆发性工业化催生了独特的传统价值底色与[[Inverted U-Curve Hypothesis of Educational Achievement|倒 U 型教育财富效应]]（pp. 27–34）。
 
 > [!factors] 推动学业冲顶的后发社会资本与财富机制
-> - **深厚传统[[Cultural Capital|文化资本]]** 长期保留自给自足农业结构，孕育了集体纪律、内敛沉默、敬畏科层权威、坚忍执着（sisu）与路德宗服从天职观念（pp. 31–34）。
+> - **深厚传统[[Cultural Capital|文化资本]]** 长期保留自给自足农业结构，孕育了集体纪律、内敛沉默、敬畏科层权威、坚忍执着（[[Sisu|sisu]]）与路德宗服从天职观念（pp. 31–34）。
 > - **经济追赶的财富效应** 经济起飞初期，收入增长改善了营养与办学条件，全民族产生通过知识摆脱贫困的极强内驱力，推动学业成就快速冲顶（pp. 35–37）。
 > - **跨越拐点后的抑制效应** 伴随人均国内生产总值（Gross Domestic Product, GDP）追平斯堪的纳维亚均值，后物质主义价值抬头，对闲暇与自我表达的追求压倒了艰苦努力，财富效应跨越拐点转入抑制区间（pp. 36–38）。
 
@@ -227,8 +231,8 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 > - **国际课堂录像取证** 跨国对比与录像分析证实，在芬兰 PISA 巅峰期，其数理课堂呈现出极高比例的教师主导讲授与独立静坐练习，[[Inquiry-Based Learning|探究式学习]]占比在欧洲居最低之列（Norris et al., 1996；见 pp. 41–43）。
 > - **认知负荷实证确证** 认知心理学与微观计量因果检验（Klahr & Nigam, 2004; Lavy, 2016）一致证实，高结构直接讲授在传授知识、控制认知负荷与提升测验表现上显著优于自主发现（pp. 43–48）。
 
-> [!case] 跨国镜像对照：加拿大魁北克[[Constructivist Paradigm|建构主义]]改革与瑞典[[Learner Autonomy|自主学习]]转型的滑坡教训
-> 加拿大魁北克省在 2000 年代初全面推行建构主义课程改革，强制全省学校采用学生主导、项目探究与开放式发现教学。微观计量实证研究（Haeck et al., 2014）运用严密的因果识别评估证实，这场激进改革在短短数年内导致中小学生数学成绩全面滑坡，且无论高分生还是低分生均遭受负面冲击，受影响时间越长成绩受损越严重，同时伴随多动与焦虑等心理问题的显著上升（pp. 46–47）。
+> [!case] 跨国镜像对照：[[Quebec Education Reform|加拿大魁北克建构主义改革]]与瑞典[[Learner Autonomy|自主学习]]转型的滑坡教训
+> 加拿大魁北克省在 2000 年代初全面推行[[Quebec Education Reform|建构主义课程改革]]（*Renouveau pédagogique*），强制全省学校采用学生主导、项目探究与开放式发现教学。微观计量实证研究（Haeck et al., 2014）运用严密的因果识别评估证实，这场激进改革在短短数年内导致中小学生数学成绩全面滑坡，且无论高分生还是低分生均遭受负面冲击，受影响时间越长成绩受损越严重，同时伴随多动与焦虑等心理问题的显著上升（pp. 46–47）。
 >
 > 瑞典在 1990 年代的转型提供了更切近的北欧对照。1994 年瑞典颁布强调学生自主的新课程大纲，独立自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%，每天多次进行独立自主探索的学生比例在 1995 至 2003 年间从 25% 翻倍至 50%（p. 47）。课堂权威的消解与教师主导讲授的撤退，直接导致瑞典在随后的 TIMSS 与 PISA 测试中遭遇历史性坠落，成为欧洲下滑最剧烈的国家。芬兰在 1990 年代由于基层教师的抵制，推迟了向瑞典和魁北克式学生中心模式的转变，因而得以在 2000 年代初暂时维持卓越表现。
 

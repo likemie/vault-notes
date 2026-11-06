@@ -27212,6 +27212,8 @@
     "波森与蒂利, 1997": "波森与蒂利, 1997",
     "波特 (1990)": "波特, 1990",
     "波特, 1990": "波特, 1990",
+    "海克等 (2014)": "海克等, 2014",
+    "海克等, 2014": "海克等, 2014",
     "海克纳 (1985)": "海克纳, 1985",
     "海克纳, 1985": "海克纳, 1985",
     "潘洪建 (2018)": "潘洪建, 2018",
@@ -224972,6 +224974,21 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md",
         "wiki/persons/us/Michael Porter.md"
+      ],
+      "title": ""
+    },
+    "海克等, 2014": {
+      "aliases": [
+        "海克等, 2014",
+        "海克等 (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "海克等, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/canada/Quebec Education Reform.md"
       ],
       "title": ""
     },
