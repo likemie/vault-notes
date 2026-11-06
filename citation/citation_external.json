@@ -10014,6 +10014,8 @@
     "Hannah Arendt (1963)": "Hannah Arendt, 1963",
     "Hannah Arendt, 1963": "Hannah Arendt, 1963",
     "Hannah, 2008": "Hannah, 2008",
+    "Hannu Simola (2015)": "Hannu Simola, 2015",
+    "Hannu Simola, 2015": "Hannu Simola, 2015",
     "Hans (1949)": "Hans, 1949",
     "Hans (1952)": "Hans, 1952",
     "Hans (1955)": "Hans, 1955",
@@ -100629,6 +100631,21 @@
       "seen_in": [],
       "title": "Attitudinal study  The interaction of students taking calculus and prerequisite courses while participating in peer tutorials"
     },
+    "Hannu Simola, 2015": {
+      "aliases": [
+        "Hannu Simola, 2015",
+        "Hannu Simola (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hannu Simola, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/Framework Curriculum 1994.md"
+      ],
+      "title": ""
+    },
     "Hans Reichenbach, 1956": {
       "aliases": [
         "Hans Reichenbach, 1956",
@@ -114623,6 +114640,7 @@
         "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/educational-philosophy/Research Cage.md",
+        "wiki/facts/finland/Framework Curriculum 1994.md",
         "wiki/methods/quantitative/Random Assignment.md"
       ],
       "title": ""

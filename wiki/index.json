@@ -10633,6 +10633,17 @@
     ]
   },
   {
+    "title": "Herbart-Zillerist Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Herbart-Zillerist Pedagogy.md",
+    "aliases": [
+      "赫尔巴特-齐勒教学法",
+      "赫尔巴特-齐勒主义教育学",
+      "Herbartian-Zillerist Pedagogy",
+      "赫尔巴特学派五段教学法"
+    ]
+  },
+  {
     "title": "Homework",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Homework.md",
@@ -37324,6 +37335,18 @@
     "subtype": "event"
   },
   {
+    "title": "Great Migration in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Great Migration in Finland.md",
+    "aliases": [
+      "芬兰大迁徙",
+      "芬兰战后大迁徙",
+      "Suuri muutto",
+      "The Great Migration in Finland"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Svecoman Movement",
     "type": "fact",
     "path": "wiki/facts/finland/Svecoman Movement.md",
@@ -37354,6 +37377,18 @@
     "aliases": [
       "Finnish National Core Curriculum 2014",
       "芬兰国家核心课程2014"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Framework Curriculum 1994",
+    "type": "fact",
+    "path": "wiki/facts/finland/Framework Curriculum 1994.md",
+    "aliases": [
+      "1994年芬兰基础教育框架大纲",
+      "Framework Curriculum for the Comprehensive School 1994",
+      "1994年综合学校大纲改革",
+      "Peruskoulun opetussuunnitelman perusteet 1994"
     ],
     "subtype": "policy"
   },

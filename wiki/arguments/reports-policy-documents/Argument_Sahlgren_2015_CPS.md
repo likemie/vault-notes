@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 42
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Sisu]]"
   - "[[Inverted U-Curve Hypothesis of Educational Achievement]]"
+  - "[[Herbart-Zillerist Pedagogy]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -74,6 +75,8 @@ related_facts:
   - "[[OECD]]"
   - "[[Svecoman Movement]]"
   - "[[Quebec Education Reform]]"
+  - "[[Great Migration in Finland]]"
+  - "[[Framework Curriculum 1994]]"
 related_persons:
   - "[[Pasi Sahlberg]]"
   - "[[Hannah Arendt]]"
@@ -207,7 +210,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 
 > [!sub-claim] 2. 经济快速追赶期的财富效应激发了国民强烈的求学动力
 
-芬兰在现代化进程中属于典型的后发国家，二战后爆发性工业化催生了独特的传统价值底色与[[Inverted U-Curve Hypothesis of Educational Achievement|倒 U 型教育财富效应]]（pp. 27–34）。
+芬兰在现代化进程中属于典型的后发国家，二战后爆发性工业化与[[Great Migration in Finland|战后大迁徙]]催生了独特的传统价值底色与[[Inverted U-Curve Hypothesis of Educational Achievement|倒 U 型教育财富效应]]（pp. 27–34）。
 
 > [!factors] 推动学业冲顶的后发社会资本与财富机制
 > - **深厚传统[[Cultural Capital|文化资本]]** 长期保留自给自足农业结构，孕育了集体纪律、内敛沉默、敬畏科层权威、坚忍执着（[[Sisu|sisu]]）与路德宗服从天职观念（pp. 31–34）。
@@ -227,7 +230,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 在微观课堂层面，芬兰基层教师长期坚守传统的教师主导直接[[Lecturing|讲授法]]，构成了学业神话的真正课堂引擎（pp. 38–41）。
 
 > [!evidence-grid] 直接教学主导微观课堂的实证支柱
-> - **基层教师专业抵制** 面对 1970 年代教育界对进步主义理念的倡导，一线教师凭借威权抵制教学试验，将高度结构化的[[Direct Instruction|直接教学]]与全班规范练习延续至 1990 年代（pp. 38–41）。
+> - **基层教师专业抵制** 面对 1970 年代教育界对进步主义理念的倡导，一线教师受历史悠久的[[Herbart-Zillerist Pedagogy|赫尔巴特-齐勒学派教学法]]熏陶，形成内生化教学权威并抵制教学试验，将高度结构化的[[Direct Instruction|直接教学]]与全班规范练习延续至 1990 年代（pp. 38–41, 46）。
 > - **国际课堂录像取证** 跨国对比与录像分析证实，在芬兰 PISA 巅峰期，其数理课堂呈现出极高比例的教师主导讲授与独立静坐练习，[[Inquiry-Based Learning|探究式学习]]占比在欧洲居最低之列（Norris et al., 1996；见 pp. 41–43）。
 > - **认知负荷实证确证** 认知心理学与微观计量因果检验（Klahr & Nigam, 2004; Lavy, 2016）一致证实，高结构直接讲授在传授知识、控制认知负荷与提升测验表现上显著优于自主发现（pp. 43–48）。
 
@@ -263,7 +266,7 @@ Altinok et al.（2014）对 1965 年以来国际初中学生测试数据的追�
 1990 年代建构主义课程[[Paradigm|范式]]的现实落地与学生中心教学法的普及，构成了学业持续滑落的直接病灶（pp. 58–61）。
 
 > [!evidence-grid] 探究式教学损害认知成就的实证检验
-> - **范式转化与代际更替** 1994 年核心大纲采纳社会建构主义哲学；废除视导后学校享有充分自主权，接受新理论熏陶的青年教师在 2000 年代中后期接替老教师，探究学习全面进入课堂（pp. 58–61）。
+> - **范式转化与代际更替** [[Framework Curriculum 1994|1994 年核心框架大纲]]采纳社会建构主义哲学；废除视导后学校享有充分自主权，接受新理论熏陶的青年教师在 2000 年代中后期接替老教师，探究学习全面进入课堂（pp. 58–61）。
 > - **国内学业评估负相关** 芬兰国内评估（Kupiainen et al., 2014）证实，课堂中频繁采用以学生为主导、自主检索与开放探究与数理成绩呈显著负相关；保留教师主导高结构讲授的班级成绩显著领先（pp. 61–62）。
 > - **跨国微观数据因果检验** [[OECD|经合组织]]基于 PISA 微观数据确证，探究式教学频次与[[Scientific Literacy|科学素养]]呈明确负相关，而教师直接指导始终保持正向回报；过早放权导致认知超载（pp. 62–63）。
 
