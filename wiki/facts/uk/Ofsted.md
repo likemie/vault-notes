@@ -88,9 +88,9 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Kelly_2025_ROE]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-05-07
-updated: 2026-11-02
+updated: 2026-11-07
 ---
 
 ---
@@ -159,6 +159,12 @@ updated: 2026-11-02
 > - **混淆行政检查数据与科学研究证据** 严苛的督导问责文化在一线教师中造成严重的认知混同。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]的[[Systematic Review\|系统综述]]实证指出，教师与管理者普遍将 Ofsted 的行政检查“数据”等同于科学“研究”,学校宁可采信具有行政威慑力的督导报告，也不愿采纳经过严格同行评议的学术实证研究。
 > - **督导威慑诱发“揣摩督学”与[[Activity Traps\|活动陷阱]]（Brown & Greany, 2018 实证诊断）** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018, pp. 130–131)]]在英格兰 79 所小学调查中实证发现，61% 的教师对“学校变革应建立在研究证据之上”持怀疑或否定态度。学者指出其关键根源在于 Ofsted 高利害问责压制了[[School Autonomy|学校自主]]性：面临评级降级威胁，学校的核心精力被扭曲为“揣摩 Ofsted 想看什么”而非求证科学证据；同时被迫依赖无法指导教学改进的总结性分数数据，盲目推行追求短期速赢的未证实举措，深陷只顾忙碌盲动、缺乏因果探究的[[Activity Traps\|活动陷阱]]。
 > - **证据使用的[[Performativity|表演性]]异化与防御性外包（Kelly et al., 2025 实证诊断）** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 10–12)]]对英格兰与德国学校的跨国比较实证发现，在 Ofsted 高利害督导与学生人头补助金（[[Pupil Premium]]）合规审计的重压下，英格兰学校领导者普遍承受严重的职业生存焦虑。这种高压环境驱使学校将循证实践异化为一种表演性（[[Performativity]]）合规策略——校长倾向于将 [[Education Endowment Foundation\|EEF]] 工具箱等权威证据标签作为防范督导问责的“自保徽章”，过度依赖商业中介包装好的现成方案与二手摘要，阻断了教师发展对实证研究的批判性解读与深层专业交互能力（贡献性专长与交互性专长）。
+
+> [!stat-cards]- 核心规模数据
+> - **20,000+** 纳入常态化督导管辖的英格兰中小学校总数。
+> - **~1,800** 全职女王督学（HMI）与在职从业督学（Ofsted Inspectors, OIs）人员规模。
+> - **4** 级法定统一评级矩阵（Outstanding / Good / Requires Improvement / Inadequate）。
+> - **97.5%** 获得 Good 及以上评级的文法学校比例（159/163 所），形成显著的体制评级特权集群（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）。
 
 ---
 
@@ -241,3 +247,4 @@ updated: 2026-11-02
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]] — 实证揭示迎检焦虑与数据合规压制教师研究需求，并呼吁重构督导框架支持证据知情改进的实证文献。
 > - [[Argument_Kelly_2025_ROE|Kelly et al., 2025]] — 跨国实证揭示 Ofsted 高利害督导如何诱发英格兰学校领导者的表演性合规与防御性证据采购。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 剖析英格兰[[New Public Management|新公共管理]]体制下 Ofsted 督导利害演进，以及 2010 年联合政府对“杰出”学校实行常规督导豁免的制度调适。（p. 257）
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 系统综述纳入 109 项实证研究，揭示 Ofsted 高利害行政视导威慑导致学校将视导检查与科学研究严重混淆，教条式迎检文化严重挤占学术实证探索（pp. 11, 230）。
