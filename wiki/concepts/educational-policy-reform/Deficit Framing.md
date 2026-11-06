@@ -15,7 +15,7 @@ aliases:
 summary: "将社会、政策或教育教学问题归因于目标群体（如教师、弱势学生或家庭文化）知识、技能、动机或资本匮乏的认识论预设，在宏观政策上表现为假定教师能力赤字，在微观教学中表现为推卸教学责任的防御性归因"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-26
-updated: 2026-11-03
+updated: 2026-11-07
 ---
 
 ---
@@ -212,3 +212,4 @@ updated: 2026-11-03
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 系统解构了教育[[Research Utilization\|研究使用]]领域 30 年来的 34 项核心文献，全面确立了赤字框架在[[Problem Finding\|问题界定]]、研究设计与政策推论中的表现形态与理论弊端。
 > - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]]** 结合比肖普（Bishop et al., 2003）与廷珀利（Timperley, 2004, 2005）的研究，深刻剖析了课堂教学中教师赤字理论对学业平等的阻碍机制，并提出“数据意外”与效能重构的突破路径。
+> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 框架综合 109 项实证研究，量化证实 83% 的文献聚焦个体技能与心态赤字，揭示个体归因与系统组织障碍之间的严重层级错配（pp. 8, 17–18）。
