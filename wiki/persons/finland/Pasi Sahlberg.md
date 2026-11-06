@@ -6,7 +6,7 @@ summary: "芬兰著名教育学者、教育政策顾问，全球教育改革运�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
