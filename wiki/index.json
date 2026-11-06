@@ -29527,6 +29527,17 @@
     ]
   },
   {
+    "title": "Johan Vilhelm Snellman",
+    "type": "person",
+    "path": "wiki/persons/finland/Johan Vilhelm Snellman.md",
+    "aliases": [
+      "约翰·威廉·斯内尔曼",
+      "J. V. Snellman",
+      "J.V. 斯内尔曼",
+      "Johan Snellman"
+    ]
+  },
+  {
     "title": "Pasi Sahlberg",
     "type": "person",
     "path": "wiki/persons/finland/Pasi Sahlberg.md",
@@ -30793,6 +30804,17 @@
     ]
   },
   {
+    "title": "Gabriel Heller Sahlgren",
+    "type": "person",
+    "path": "wiki/persons/sweden/Gabriel Heller Sahlgren.md",
+    "aliases": [
+      "加布里埃尔·赫勒·萨尔格伦",
+      "加布里埃尔·萨尔格伦",
+      "Gabriel H. Sahlgren",
+      "G. H. Sahlgren"
+    ]
+  },
+  {
     "title": "Jarl Bengtsson",
     "type": "person",
     "path": "wiki/persons/sweden/Jarl Bengtsson.md",
@@ -31319,6 +31341,16 @@
     "aliases": [
       "Huxley, J.",
       "朱利安·赫胥黎"
+    ]
+  },
+  {
+    "title": "Julian Le Grand",
+    "type": "person",
+    "path": "wiki/persons/uk/Julian Le Grand.md",
+    "aliases": [
+      "朱利安·勒·格兰德",
+      "勒·格兰德",
+      "Julian Grand"
     ]
   },
   {
@@ -39599,6 +39631,18 @@
       "世界银行教育知识管理系统",
       "World Bank EKMS",
       "Education Knowledge Management System"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "First International Mathematics Study",
+    "type": "fact",
+    "path": "wiki/facts/global/First International Mathematics Study.md",
+    "aliases": [
+      "第一届国际数学研究",
+      "FIMS",
+      "First IEA Mathematics Study",
+      "第一次国际数学研究"
     ],
     "subtype": "program"
   },
