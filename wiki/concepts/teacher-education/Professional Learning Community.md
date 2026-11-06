@@ -53,6 +53,7 @@ related_arguments:
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Besa_2024_UW]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Network Analysis]]"
