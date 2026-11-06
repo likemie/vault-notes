@@ -1245,8 +1245,6 @@
     "August, 2002": "August, 2002",
     "August, 2003": "August, 2003",
     "August, 2006": "August, 2006",
-    "Aukland (2022)": "Aukland, 2022",
-    "Aukland, 2022": "Aukland, 2022",
     "Auld & Morris (2016)": "Auld & Morris, 2016",
     "Auld & Morris (2019)": "Auld & Morris, 2019",
     "Auld & Morris (2023)": "Auld & Morris, 2023",
@@ -3273,8 +3271,10 @@
     "Brown & Tandon (2005)": "Brown & Tandon, 2005",
     "Brown & Tandon, 2005": "Brown & Tandon, 2005",
     "Brown & Zhang (2016)": "Brown & Zhang, 2016",
+    "Brown & Zhang (2017)": "Brown & Zhang, 2017",
     "Brown & Zhang (2018)": "Brown & Zhang, 2018",
     "Brown & Zhang, 2016": "Brown & Zhang, 2016",
+    "Brown & Zhang, 2017": "Brown & Zhang, 2017",
     "Brown & Zhang, 2018": "Brown & Zhang, 2018",
     "Brown (1990)": "Brown, 1990",
     "Brown (1992)": "Brown, 1992",
@@ -3722,14 +3722,17 @@
     "Cai et al., 2022": "Cai et al., 2022b",
     "Cai et al., 2022a": "Cai et al., 2022a",
     "Cai et al., 2022b": "Cai et al., 2022b",
-    "Cain (2015)": "Cain, 2015",
+    "Cain (2015a)": "Cain, 2015a",
+    "Cain (2015b)": "Cain, 2015b",
     "Cain (2017)": "Cain, 2017",
     "Cain (2019)": "Cain, 2019",
     "Cain et al. (2016)": "Cain et al., 2016",
     "Cain et al. (2019)": "Cain et al., 2019",
     "Cain et al., 2016": "Cain et al., 2016",
     "Cain et al., 2019": "Cain et al., 2019",
-    "Cain, 2015": "Cain, 2015",
+    "Cain, 2015": "Cain, 2015a",
+    "Cain, 2015a": "Cain, 2015a",
+    "Cain, 2015b": "Cain, 2015b",
     "Cain, 2017": "Cain, 2017",
     "Cain, 2019": "Cain, 2019",
     "Cairney (2016)": "Cairney, 2016",
@@ -7511,11 +7514,13 @@
     "Farberow (1963)": "Farberow, 1963",
     "Farberow, 1963": "Farberow, 1963",
     "Farley-Ripple (2012)": "Farley-Ripple, 2012",
+    "Farley-Ripple (2024)": "Farley-Ripple, 2024",
     "Farley-Ripple et al. (2017)": "Farley-Ripple et al., 2017",
     "Farley-Ripple et al. (2018)": "Farley-Ripple et al., 2018",
     "Farley-Ripple et al., 2017": "Farley-Ripple et al., 2017",
     "Farley-Ripple et al., 2018": "Farley-Ripple et al., 2018",
     "Farley-Ripple, 2012": "Farley-Ripple, 2012",
+    "Farley-Ripple, 2024": "Farley-Ripple, 2024",
     "Farmer-Hinton (2009)": "Farmer-Hinton, 2009",
     "Farmer-Hinton, 2009": "Farmer-Hinton, 2009",
     "Farmus et al. (2020)": "Farmus et al., 2020",
@@ -7745,6 +7750,8 @@
     "Finnemore, 1993": "Finnemore, 1993",
     "Finnigan & Daly (2014)": "Finnigan & Daly, 2014",
     "Finnigan & Daly, 2014": "Finnigan & Daly, 2014",
+    "Finnigan et al. (2013)": "Finnigan et al., 2013",
+    "Finnigan et al., 2013": "Finnigan et al., 2013",
     "Finnish Defence Forces (1955)": "Finnish Defence Forces, 1955",
     "Finnish Defence Forces (1980)": "Finnish Defence Forces, 1980",
     "Finnish Defence Forces, 1955": "Finnish Defence Forces, 1955",
@@ -11160,6 +11167,8 @@
     "Hudson (2010)": "Hudson, 2010",
     "Hudson (2011)": "Hudson, 2011",
     "Hudson (2021)": "Hudson, 2021",
+    "Hudson et al. (2016)": "Hudson et al., 2016",
+    "Hudson et al., 2016": "Hudson et al., 2016",
     "Hudson, 2010": "Hudson, 2010",
     "Hudson, 2011": "Hudson, 2011",
     "Hudson, 2021": "Hudson, 2021",
@@ -12620,6 +12629,8 @@
     "Keith Stanovich, 2009": "Keith Stanovich, 2009",
     "Kelchen et al. (2011)": "Kelchen et al., 2011",
     "Kelchen et al., 2011": "Kelchen et al., 2011",
+    "Keles (2026)": "Keles, 2026",
+    "Keles, 2026": "Keles, 2026",
     "Kelle & Laurie (1995)": "Kelle & Laurie, 1995",
     "Kelle & Laurie, 1995": "Kelle & Laurie, 1995",
     "Kelle (2000)": "Kelle, 2000",
@@ -17821,6 +17832,7 @@
     "OECD (2021)": "OECD, 2021",
     "OECD (2022a)": "OECD, 2022a",
     "OECD (2022b)": "OECD, 2022b",
+    "OECD (2023)": "OECD, 2023",
     "OECD (2024)": "OECD, 2024",
     "OECD (2025)": "OECD, 2025",
     "OECD 2003 (2013)": "OECD 2003, 2013",
@@ -17866,6 +17878,7 @@
     "OECD, 2022": "OECD, 2022a",
     "OECD, 2022a": "OECD, 2022a",
     "OECD, 2022b": "OECD, 2022b",
+    "OECD, 2023": "OECD, 2023",
     "OECD, 2024": "OECD, 2024",
     "OECD, 2025": "OECD, 2025",
     "OED (2020)": "OED, 2020",
@@ -18420,7 +18433,9 @@
     "Pascual et al. (2019)": "Pascual et al., 2019",
     "Pascual et al., 2019": "Pascual et al., 2019",
     "Pasi Sahlberg (2012)": "Pasi Sahlberg, 2012",
+    "Pasi Sahlberg (2023)": "Pasi Sahlberg, 2023",
     "Pasi Sahlberg, 2012": "Pasi Sahlberg, 2012",
+    "Pasi Sahlberg, 2023": "Pasi Sahlberg, 2023",
     "Pasias (2005)": "Pasias, 2005",
     "Pasias (2006)": "Pasias, 2006",
     "Pasias, 2005": "Pasias, 2005",
@@ -22065,6 +22080,8 @@
     "Sinha & Kapur, 2021": "Sinha & Kapur, 2021",
     "Sink (2003)": "Sink, 2003",
     "Sink, 2003": "Sink, 2003",
+    "Sinnema et al. (2011)": "Sinnema et al., 2011",
+    "Sinnema et al., 2011": "Sinnema et al., 2011",
     "Sio & Lortie-Forgues (2024a)": "Sio & Lortie-Forgues, 2024a",
     "Sio & Lortie-Forgues (2024b)": "Sio & Lortie-Forgues, 2024b",
     "Sio & Lortie-Forgues, 2024": "Sio & Lortie-Forgues, 2024a",
@@ -36496,21 +36513,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Can evidence-based prevention programs be sustained in community practice settings? The Early Risers’ advanced-stage effectiveness trial"
-    },
-    "Aukland, 2022": {
-      "aliases": [
-        "Aukland, 2022",
-        "Aukland (2022)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Aukland, 2022"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
-      ],
-      "title": ""
     },
     "Auld & Morris, 2016": {
       "aliases": [
@@ -51494,6 +51496,21 @@
       ],
       "title": ""
     },
+    "Brown & Zhang, 2017": {
+      "aliases": [
+        "Brown & Zhang, 2017",
+        "Brown & Zhang (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brown & Zhang, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
     "Brown & Zhang, 2018": {
       "aliases": [
         "Brown & Zhang, 2018",
@@ -54802,10 +54819,10 @@
       ],
       "title": ""
     },
-    "Cain, 2015": {
+    "Cain, 2015a": {
       "aliases": [
-        "Cain, 2015",
-        "Cain (2015)"
+        "Cain, 2015a",
+        "Cain (2015a)"
       ],
       "doi": "",
       "identity_keys": [
@@ -54819,6 +54836,21 @@
         "wiki/concepts/educational-policy-reform/Evidence-Informed Decision-Making.md",
         "wiki/concepts/educational-policy-reform/Research Utilization.md",
         "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md"
+      ],
+      "title": ""
+    },
+    "Cain, 2015b": {
+      "aliases": [
+        "Cain, 2015b",
+        "Cain (2015b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cain, 2015b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
       "title": ""
     },
@@ -82459,6 +82491,21 @@
       ],
       "title": ""
     },
+    "Farley-Ripple, 2024": {
+      "aliases": [
+        "Farley-Ripple, 2024",
+        "Farley-Ripple (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Farley-Ripple, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
     "Farmer-Hinton, 2009": {
       "aliases": [
         "Farmer-Hinton, 2009",
@@ -84110,6 +84157,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_EducRes.md"
+      ],
+      "title": ""
+    },
+    "Finnigan et al., 2013": {
+      "aliases": [
+        "Finnigan et al., 2013",
+        "Finnigan et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Finnigan et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
       "title": ""
     },
@@ -89338,6 +89400,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
         "wiki/methods/qualitative/Framework Synthesis.md"
       ],
@@ -96745,6 +96808,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md",
         "wiki/concepts/educational-policy-reform/Institutional Distrust.md",
         "wiki/concepts/teacher-education/Profession-Sensitive Conceptualisations of Research Use.md",
@@ -102714,7 +102778,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -109082,6 +109145,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
         "wiki/concepts/research-methodology/Response Bias.md"
+      ],
+      "title": ""
+    },
+    "Hudson et al., 2016": {
+      "aliases": [
+        "Hudson et al., 2016",
+        "Hudson et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hudson et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
       "title": ""
     },
@@ -119555,6 +119633,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Do the Effects of Early Childhood Programs on Academic Outcomes Vary by Gender? A Meta-Analysis"
+    },
+    "Keles, 2026": {
+      "aliases": [
+        "Keles, 2026",
+        "Keles (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Keles, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
     },
     "Kelle & Laurie, 1995": {
       "aliases": [
@@ -157468,6 +157561,21 @@
       ],
       "title": ""
     },
+    "OECD, 2023": {
+      "aliases": [
+        "OECD, 2023",
+        "OECD (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "OECD, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
     "OECD, 2024": {
       "aliases": [
         "OECD, 2024",
@@ -161514,6 +161622,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md"
+      ],
+      "title": ""
+    },
+    "Pasi Sahlberg, 2023": {
+      "aliases": [
+        "Pasi Sahlberg, 2023",
+        "Pasi Sahlberg (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pasi Sahlberg, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
       "title": ""
     },
@@ -188206,6 +188329,21 @@
       "seen_in": [],
       "title": "Raising achievement test scores of early elementary school students through comprehensive school counseling programs"
     },
+    "Sinnema et al., 2011": {
+      "aliases": [
+        "Sinnema et al., 2011",
+        "Sinnema et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sinnema et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
     "Sio & Lortie-Forgues, 2024a": {
       "aliases": [
         "Sio & Lortie-Forgues, 2024a",
@@ -213453,6 +213591,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md",
         "wiki/concepts/comparative-education/Methodological Individualism.md",
         "wiki/concepts/educational-policy-reform/Research Utilization.md",
