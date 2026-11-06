@@ -13,7 +13,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -54,6 +54,7 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Zhao_2020_JEC]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-10-21
@@ -93,6 +94,14 @@ updated: 2026-11-06
 
 ---
 
+> [!actor-grid] 权力—立场矩阵
+> - **本土政策倡导与官方代言** 芬兰教育与文化部、芬兰国家教育委员会与萨尔伯格（[[Pasi Sahlberg]]）等学者 — 将测试佳绩作为本土综合学校路线合法性的国际背书，抵御新自由主义市场化问责。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–29)]]
+> - **跨国政策借用与朝圣者** 英美德日韩等国教育决策者与国际观察家 — 将芬兰确立为全球示范性[[Reference Society|参考社会]]，发起以学习“芬兰秘诀”为导向的教育朝圣浪潮。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **历史制度与因果解构方** 萨尔格伦（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, pp. 11–17]]）等实证研究者 — 依据长周期数据批判时间序列错位，将奇迹归因于历史文化积累与直接教学法而非现代进步主义改革。
+> - **受影响的基层教育群体** 芬兰一线公立中小学师生 — 享有去标准化统考的高信任自主环境，但在探究式教学转向后承受学科素养回落与国际排位下滑的现实压力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 49–52)]]
+
+---
+
 > [!indicators] 芬兰奇迹的四大制度支柱
 > - **无早期分流的综合基础学校（Peruskoulu）** 7–16 岁儿童不分轨入读统一综合初中，坚决废除精英分流考试；极小的校际差异（校际变异仅占总变异的 5% 以内，居全球最低）。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **研究型硕士师资培育与绝对专业信任** 基础教育教师均须具备研究型硕士学位；国家废除督学检查制与教师量化绩效考评，将教学法选择与课程实施完全赋权予一线教师。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -120,4 +129,26 @@ updated: 2026-11-06
 > > 随着 2012 年后芬兰在 [[PISA]] 中的数学与科学排位被爱沙尼亚、新加坡等超越，部分学者批评探究式教学削弱了学科基础（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, pp. 58–62]]）；另一派主流学界（[[Argument_Li_2025_HSSC|Li et al., 2025]]）则认为，成绩回落受数字屏幕娱乐对青少年深度阅读习惯的普遍冲击，芬兰在[[Student Well-being|学生幸福感]]与教育公平指标上依然处于全球前列。
 
 ---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Pasi Sahlberg]] | Person | 芬兰奇迹的核心国际阐释者与“芬兰之路”（Finnish Lessons）倡导者。 |
+> | [[PISA]] | Fact | 催生芬兰奇迹认知并使之成为全球焦点的大规模跨国素养评估项目。 |
+> | [[OECD]] | Fact | PISA 的主办与治理机构，借此确立芬兰作为全球教育标杆的合法性。 |
+> | [[Comprehensive Education]] | Concept | 芬兰 1970 年代确立的基础学校制度形态，被视为奇迹的核心均等化支柱。 |
+> | [[Reference Society]] | Concept | 芬兰在 PISA 冲击后在各国教育政策借用与正当化叙事中扮演的标杆国角色。 |
+> | [[Global Education Reform Movement]] | Concept | 芬兰奇迹被用作抵抗英美市场化与标准化绩效问责浪潮的替代性典范。 |
+> | [[Direct Instruction]] | Concept | 历史实证研究揭示的芬兰崛起期实际长期维持的主导课堂教学形态。 |
+> | [[Fennoman Movement]] | Fact | 奠定芬兰教师崇高社会声望、重教伦理与高选拔门槛的历史文化渊源。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 梳理 PISA 冲击后芬兰政策精英如何将优异测评结果用于本土综合学校与教师专业信任的合法化确证。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较英德芬三国应对 PISA 的不同政策机制，剖析芬兰确立为全球“参考社会”并催生教育朝圣热潮的治理特征（pp. 28–29）。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 借助长周期测验与历史制度分析解构芬兰奇迹神话，证实成绩飞跃源于旧体制遗产与直接教学而非晚近进步主义改革（pp. 11–26, 63–66）。
+> - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 检视全球借用芬兰模式的认知误区与制度不可移植性，强调北欧高信任文化与社会福利资本的不可复制性。
+> - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 考察芬兰跨文化教育实践与拔尖学生表现，分析芬兰在国际学生素养测试中的结构性特征（pp. 6–8）。
 

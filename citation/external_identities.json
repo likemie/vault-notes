@@ -9953,7 +9953,6 @@
         "wiki/concepts/educational-philosophy/Empiricism.md",
         "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md",
-        "wiki/facts/global/IEA.md",
         "wiki/persons/us/Harold Noah.md",
         "wiki/persons/us/Max Eckstein.md"
       ],
@@ -81650,7 +81649,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
+        "wiki/facts/finland/Comprehensive School Reform in Finland.md"
       ],
       "title": ""
     },
