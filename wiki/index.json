@@ -568,6 +568,17 @@
     ]
   },
   {
+    "title": "Best Practice Approach in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md",
+    "aliases": [
+      "比较教育最佳实践法",
+      "最佳实践外推谬误",
+      "最佳实践归纳法",
+      "Best Practice Fallacy in Comparative Education"
+    ]
+  },
+  {
     "title": "Circular Transfer",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Circular Transfer.md",
@@ -6510,6 +6521,17 @@
       "政策工具支持联盟",
       "政策工具受益群体",
       "instrument constituency"
+    ]
+  },
+  {
+    "title": "Internalised Centralisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Internalised Centralisation.md",
+    "aliases": [
+      "内生化集权制",
+      "内化集权",
+      "内生集权",
+      "Internalized Centralization"
     ]
   },
   {
@@ -37438,6 +37460,20 @@
       "Finnish National Agency for Education"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "1968 School Systems Act in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/1968 School Systems Act in Finland.md",
+    "aliases": [
+      "芬兰1968年基础学校制度法案",
+      "芬兰1968年学校制度法",
+      "1968年基础学校法",
+      "Koulujärjestelmälaki",
+      "School Systems Act 1968",
+      "Special Systems Act 1968"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1979 Finnish Teacher Education Reform",
