@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -54,10 +54,11 @@ related_facts:
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-06
 ---
 
 ---
@@ -115,9 +116,10 @@ updated: 2026-10-26
 > - **产出与结果指标** 读写与计算素养熟练度等级（1–5 级）、技能利用不足率与技能不足重叠率、技能工资溢价率。
 
 > [!finding-cards] 核心实证结论
-> - **技能溢价超越单纯学历文凭** 实证证实实际认知技能对个人劳动报酬和就业稳定具有强劲的独立解释力；在控制[[Educational Level\|受教育年限]]后，认知技能得分高一个标准差，个人平均工资溢价超 15%–20%。
+> - **技能溢价超越单纯学历文凭** 实证证实实际认知技能对个人劳动报酬和就业稳定具有强劲的独立解释力；在控制[[Educational Level|受教育年限]]后，认知技能得分高一个标准差，个人平均工资溢价超 15%–20%。
 > - **普遍存在的代际损耗与技能错配** 全球范围内有约四分之一的成年劳动力存在技能错配（资质过度或技能短缺）；离开正规学校教育后，若缺乏持续学习，成年人的计算素养在 35 岁后出现不可逆的生理与职业折旧。
 > - **基础技能匮乏对民主信任的侵蚀** 读写算素养处于最低等级（低于 1 级）的群体，其社会政治信任度与政治参与度显著低下，健康素养匮乏且更易卷入贫困代际传递。
+> - **行业群体优势与代际队列追赶轨迹** 微观数据揭示了特定职业群体的显著素养优势（如芬兰中小学教师在读写与算术得分上均处于西方最高水平，Hanushek et al., 2014）；同时不同年龄队列的认知水平清晰映射出后发国家在长周期经济追赶中的人力资本代际积累历程。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19, 35–38)]]
 
 > [!stat-cards]- 关键实证数据
 > 涵盖近 40 个国家和经济体、累计入户测试超 250,000 名成年劳动者，建立全球最大成人认知微观公共数据集，成为测算现代[[Human Capital Theory\|人力资本]]贬值与增值的顶级金标准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
@@ -153,3 +155,9 @@ updated: 2026-10-26
 > | [[Human Capital Theory]] | 理论 | PIAAC 将成年人认知技能换算为经济增长与劳动力报酬的底层理论基石。 |
 > | [[Lifelong Learning]] | 概念 | PIAAC 为之提供跨国量化评估诊断的终身教育核心议题。 |
 > | [[Policy Brokerage]] | 概念 | 经合组织借成人技能诊断介入各国劳动力市场与职业教育政策的中介手段。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析经合组织如何通过 PIAAC 将规制触角延伸至全生命周期成人能力治理与政策经纪网络（pp. 541–543）。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合 PIAAC 跨国微观数据证实芬兰师资的高认知素养储备，并利用成人年龄队列技能追踪后发现代化经济追赶历程（pp. 18–19, 35–38）。
