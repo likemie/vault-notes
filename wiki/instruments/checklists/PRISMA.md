@@ -77,6 +77,7 @@ related_persons: []
 related_facts:
   - "[[Education Resources Information Center]]"
 related_arguments:
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Runco_2026_CRJ]]"
@@ -96,7 +97,7 @@ updated: 2026-10-30
 > - **工具类型** 方法学报告规范与透明度核查清单（Checklist）。
 > - **开发者与年份** Page et al. (2021) / PRISMA 核心工作组（PRISMA 2020 声明）。
 > - **测量目的** 规范[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]的检索、筛选、纳入与结果报告，防范选择性报告偏倚与[[Publication Bias\|发表偏倚]]，提升综合研究的透明度、可复现性与证据质量。
-> - **实施方式** 自陈核查（Self-Report）或同行评议专家审核，由系统综述作者在撰写报告时自查填报各条目对应页码，期刊编辑与审稿人据此核验合规性。
+> - **实施方式** 自陈核查（Self-Report）或同行评议专家审核，由系统综述研究人员在撰写报告时自查填报各条目对应页码，期刊编辑与审稿人据此核验合规性。
 
 > [!citation-card] PRISMA 2020 声明与方法学使命
 > 系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）是一套旨在提升系统综述与元分析研究透明度、规范性与可复现性的国际权威方法学标准与报告指南。PRISMA 体系由核心报告检查清单（涵盖 27 项条目）和四阶段[[Document|文献]]流转图（PRISMA [[Flow]] Diagram）构成，要求研究者系统记录从文献数据库检索、去重、标题摘要初筛、全文合格性审阅到最终纳入证据合成的完整决策路径与排除缘由。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4–5)]]
@@ -122,7 +123,7 @@ updated: 2026-10-30
 
 > [!instrument-items] 核查与报告规则
 > - **题项形式** 标准化方法学陈述核查条目（Checklist Items）。
-> - **作答格式** 二元合规核查（已报告并注明论文对应页码 / 未报告 / 不适用说明）。
+> - **作答格式** 二元合规核查（已报告并注明报告对应页码 / 未报告 / 不适用说明）。
 > - **流转图规程** 严格按识别（Identification）、初筛（Screening）、合格性审阅（Eligibility）与最终纳入（Included）四阶段绘制流程图，透明记录各阶段排除的具体理由与篇数。
 
 ### PRISMA 2020 核心核查清单
@@ -131,7 +132,7 @@ updated: 2026-10-30
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > 评定依据：Page et al. (2021, pp. 3–5)
 >
-> | 编号 | 章节与主题 | 原文核查重点 | 方法学功能与偏倚防范 |
+> | 编号 | 章节与主题 | 条目核查重点 | 方法学功能与偏倚防范 |
 > |---|---|---|---|
 > | **Item 1** | 题目（Title） | 题名中明确标明研究设计类型为[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]] | 确保文献在数据库中被精准检索与归类识别 |
 > | **Item 2** | 结构化摘要（Structured [[Abstract]]） | 依照 PRISMA 摘要扩展标准，结构化报告背景、目标、标准、合成结果与局限 | 杜绝摘要与正文脱节的宣传性夸大 |
@@ -158,7 +159,7 @@ updated: 2026-10-30
 > | **Item 23** | 讨论与实践启示（Discussion） | 综合全证据体讨论结论、指出研究局限并审慎推导政策与实践启示 | 避免脱离证据质量盲目做出激进推广建议 |
 > | **Item 24** | [[Preregistration\|预注册]]与方案获取（Registration & Protocol） | 报告综述在 PROSPERO 等平台的预注册编号与公开协议网址 | 防范研究者在看到数据后随意篡改分析计划 |
 > | **Item 25** | 资助与支持（Support） | 明确披露研究资助方及其在综述构思、执行与撰写过程中的角色 | 防范资助方学术干预与商业利益冲突 |
-> | **Item 26** | 利益冲突声明（Competing Interests） | 明确声明全体作者是否存在与本综述主题相关的财务或非财务利益冲突 | 切断利益绑定导致的学术倾向性偏倚 |
+> | **Item 26** | 利益冲突声明（Competing Interests） | 明确声明全体研究团队成员是否存在与本综述主题相关的财务或非财务利益冲突 | 切断利益绑定导致的学术倾向性偏倚 |
 > | **Item 27** | 数据与代码共享（Availability of Materials） | 说明原始提取数据矩阵、分析脚本代码及[[Adjunct Aids\|辅助材料]]的公开获取途径 | 落实完全开放科学与证据可计算复现 |
 
 > [!proc] PRISMA 四阶段标准流转程序
@@ -197,10 +198,11 @@ updated: 2026-10-30
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | PRISMA 2020 声明 | 109 项中小学教师与学校领导者研究使用实证文献 | 系统综述全流程合规与流程图呈现 | 规范呈现三库检索 32,333 条记录至最终 109 项纳入研究的双盲筛选全流程。 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | PRISMA 2020 | 跨 Web of Science、Scopus、[[Education Resources Information Center\|ERIC]]、PsycINFO 与 CNKI 检索的 66 篇实证研究（72 个[[Effect Size\|效应量]]） | [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]报告规范性 | 严格依循 PRISMA 2020 标准开展双语跨库检索，双人独立背对背完成初筛与全文本审阅，并以规范流转图详尽报告排除理由。 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | PRISMA 2020 | Web of Science、Scopus 与 ERIC 检索的 409 篇初始记录至 67 篇最终纳入实证研究 | 高等教育生成式 AI 实证综述规范性 | 严格落实四阶段流转程序，经标题摘要初筛与全文审阅，最终纳入 67 篇研究进行[[Higher-Order Thinking Skills\|高阶思维]]认知模式主题综合。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | PRISMA 声明 | 52 项[[Creativity\|创造力]]一阶元分析数据库 | [[Meta-meta-analysis\|二阶元分析]]系统检索与纳入控制 | 依据 PRISMA 规范对初级元分析进行分层提取，严格剔除缺乏定量合并统计量的质性综述。 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | PRISMA 声明 | 创造力与[[Critical Thinking\|批判性思维]]相关性实证文献集 | 相关性元分析检索与合规筛选 | 运用 PRISMA 规范流程图完整呈现从初始检索至最终合格研究的收敛漏斗。 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | PRISMA 声明 | 创造力与[[Critical Thinking\|批判性思维]]相关性实证文献集 | 相关性元分析检索与合规筛选 | 运用 PRISMA 规范流程图完整呈现从初始检索至最终合格研究的筛选漏斗。 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | PRISMA 声明 | [[Epistemic Cognition\|认识论认知]]实证研究文献集 | 多水平元分析文献筛选路径 | 以标准 PRISMA 流程图呈现多数据库检索记录、去重与全文本审阅决策流。 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | PRISMA 规范原型 | 341 项批判性思维教学[[Intervention Research\|干预研究]] | 教学干预大规模元分析筛选 | 采用规范的系统检索与流转筛选流程，对批判性思维干预研究进行分层质量准入。 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | PRISMA 声明 | ERIC、Scopus 等数据库 1,617 篇初始记录至 34 篇纳入文献 | 教育[[Research Utilization\|研究使用]][[Critical Review\|批判性综述]]质控 | 结合 PRISMA 检索规范与多维概念分析，对教育研究使用实证文献进行全文本解构。 |
