@@ -19048,6 +19048,8 @@
     "Plummer, 2001": "Plummer, 2001",
     "Pluta et al. (2011)": "Pluta et al., 2011",
     "Pluta et al., 2011": "Pluta et al., 2011",
+    "Pluye et al. (2011)": "Pluye et al., 2011",
+    "Pluye et al., 2011": "Pluye et al., 2011",
     "Podhajski (2009)": "Podhajski, 2009",
     "Podhajski, 2009": "Podhajski, 2009",
     "Podlozny (2000)": "Podlozny, 2000",
@@ -166133,6 +166135,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md"
+      ],
+      "title": ""
+    },
+    "Pluye et al., 2011": {
+      "aliases": [
+        "Pluye et al., 2011",
+        "Pluye et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pluye et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/instruments/checklists/Mixed Methods Appraisal Tool.md"
       ],
       "title": ""
     },

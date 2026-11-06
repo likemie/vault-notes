@@ -8,7 +8,7 @@ aliases:
 summary: "由国际同行方法学专家组研制的系统综述与元分析优先报告条目清单，包含27项核心核查条目与四阶段文献流转图，为证据综合提供从数据库检索、去重、初筛、全文合格性审阅到最终纳入全流程的方法学透明度与报告合规性标准。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 41
+instrument_related_count: 42
 instrument_related_level: 4
 instrument_related_stars: "💎⭐"
 instrument_related_color: "#e5e7eb"
@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-30
+updated: 2026-11-07
 ---
 
 ---
