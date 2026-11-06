@@ -557,6 +557,10 @@
     {
       "sentence": "**个体层面** 涉及校内教研组日常形成的心理互助网络、读书研讨小组及网络学习共同体。",
       "target": "wiki/concepts/educational-technology/Web-Based Learning.md"
+    },
+    {
+      "sentence": "**张力** 文献研究视角呈现严重的层级错配：83% 的实证文献聚焦教师个体层面的心理认知与技能缺陷（Deficit Framing），而时间匮乏、高利害问责、劳动负荷与研习脱节等深层结构性障碍却压倒性地驻留于系统与组织层级。",
+      "target": "wiki/methods/qualitative/Documentary Analysis.md"
     }
   ]
 }
