@@ -9,10 +9,10 @@ aliases:
 summary: "质性研究中将特定理论作为整体导向透镜运用于研究全过程的认识论方式，围绕边缘群体赋权与社会正义塑造问题提出、资料收集与分析，兼具分析框架与明确的价值倡导功能。"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 21
 related_level: 2
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
   - paradigm/constructivist
@@ -147,7 +147,7 @@ updated: 2026-11-07
 > > 争论预先确立理论立场是否会诱发认知确认偏误，损害质性研究对意外发现的开放度。
 > >
 > > - **古典扎根理论学者** 主张研究者应当悬置所有先入之见，纯粹从田野经验数据中归纳出理论终点，防范理论预设对真实情况的剪裁。
-> > - **变革范式学者（Creswell & Creswell, 2022）** 指出任何研究都不存在免受理论预设污染的真空状态；公开坦陈理论立场反而增强了研究透明度，确保研究聚焦深层权力机制。
+> > - **变革范式学者（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）** 指出任何研究都不存在免受理论预设污染的真空状态；公开坦陈理论立场反而增强了研究透明度，确保研究聚焦深层权力机制。
 >
 > > [!axis] 明确价值倡导 vs 客观学术中立
 > > 争论研究报告是否应当承担明确的政治倡导与社会变革呼吁。
