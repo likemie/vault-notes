@@ -43416,6 +43416,18 @@
     "subtype": "program"
   },
   {
+    "title": "EPPI-Reviewer",
+    "type": "fact",
+    "path": "wiki/facts/uk/EPPI-Reviewer.md",
+    "aliases": [
+      "EPPI Reviewer",
+      "EPPI-Reviewer 4",
+      "EPPI-Reviewer 6",
+      "循证政策与实践信息中心综述软件"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Feedback Action Research Trial",
     "type": "fact",
     "path": "wiki/facts/uk/Feedback Action Research Trial.md",
