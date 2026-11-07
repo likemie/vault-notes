@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -26,9 +26,10 @@ publisher: "Centre for Policy Studies"
 publication_place: "London"
 related_theories:
   - "[[Historical Institutionalism]]"
+  - "[[Wealth Effect in Education]]"
 status: active
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-07
 tags:
   - theme/pisa
   - theme/comparative-education
@@ -132,13 +133,13 @@ related_methods:
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **历史制度主义**<br>[[Historical Institutionalism]] | 揭示政策出台时间与成效显现时间的时滞结构，检验制度安排与学业成就因果推论的历史相符性。 |
-> | **教育财富效应假说**<br>Wealth Effect in Education | 阐明国家人均收入增长对教育成就呈现先促进后抑制的倒 U 型曲线，解释后发经济体求学动力的演化。 |
+> | **教育财富效应假说**<br>[[Wealth Effect in Education]] | 阐明国家人均收入增长对教育成就呈现先促进后抑制的倒 U 型曲线，解释后发经济体求学动力的演化。 |
 > | **直接教学理论**<br>[[Direct Instruction]] | 提供微观课堂认知架构基准，论证教师主导结构化讲授在保障基础学科认知掌握上的实证优越性。 |
 > | **文明与权威内化理论**<br>Freudian Socialization Framework | 解释学校作为社会化机构通过权威结构内化行为规范的社会学功能，剖析放弃课堂权威对纪律氛围的侵蚀。 |
 > | **阿伦特教育权威理论**<br>Arendtian Authority Theory | 界定学校作为引导未成年人进入文明世界的保护性建制定位，批判将儿童预设为完全理性公民的去权威化偏颇。 |
 
 > [!warrant]- 理论如何支撑论证
-> 历史制度主义框架为识别政策与成就的时序[[Causality|因果关系]]提供了方法学筛子，彻底剥离了在学业飞跃完成后才出台的晚近政策干扰；教育财富效应假说将芬兰置于后发现代化工业追赶的宏观社会经济轨迹中，揭示其与东亚经济体高度相似的文化勤勉动力；微观教学法理论与社会化权威理论则搭建起自宏观社会变迁通往微观课堂交互的解释桥梁，合理解释了 1990 年代教学法转型如何对认知表现产生实质损伤。
+> 历史制度主义框架为识别政策与成就的时序[[Causality|因果关系]]提供了方法学筛子，彻底剥离了在学业飞跃完成后才出台的晚近政策干扰；[[Wealth Effect in Education|教育财富效应假说]]将芬兰置于后发现代化工业追赶的宏观社会经济轨迹中，揭示其与东亚经济体高度相似的文化勤勉动力；微观教学法理论与社会化权威理论则搭建起自宏观社会变迁通往微观课堂交互的解释桥梁，合理解释了 1990 年代教学法转型如何对认知表现产生实质损伤。
 
 ---
 

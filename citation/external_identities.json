@@ -43191,7 +43191,8 @@
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
         "wiki/concepts/instruction-pedagogy/Eget Arbete.md",
-        "wiki/concepts/instruction-pedagogy/Lecturing.md"
+        "wiki/concepts/instruction-pedagogy/Lecturing.md",
+        "wiki/facts/canada/Quebec Education Reform.md"
       ],
       "title": ""
     },
@@ -59831,7 +59832,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
+        "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md"
       ],
       "title": ""
     },
@@ -63903,6 +63905,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Open-Mindedness.md"
+      ],
+      "title": ""
+    },
+    "Lindbeck & Nyberg, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Wealth Effect in Education.md"
       ],
       "title": ""
     },
@@ -117360,6 +117370,14 @@
       ],
       "title": ""
     },
+    "latter corroborates Kvernbekk's, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md"
+      ],
+      "title": ""
+    },
     "lisahunter, 2014": {
       "datasets": [
         "eef:physical-activity"
@@ -119468,14 +119486,6 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md",
         "wiki/persons/us/Michael Porter.md"
-      ],
-      "title": ""
-    },
-    "海克等, 2014": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/canada/Quebec Education Reform.md"
       ],
       "title": ""
     },

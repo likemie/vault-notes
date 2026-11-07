@@ -3398,6 +3398,11 @@
         "wiki/facts/pakistan/National Education Policy 2009 Pakistan.md"
       ]
     },
+    "Ministère de l'Éducation du Québec": {
+      "seen_in": [
+        "wiki/facts/canada/Quebec Education Reform.md"
+      ]
+    },
     "MIT Industrial Performance Center": {
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
@@ -3781,11 +3786,6 @@
     "香港特别行政区政府教育局": {
       "seen_in": [
         "wiki/facts/hong-kong/National Education.md"
-      ]
-    },
-    "魁北克省教育体育娱乐部": {
-      "seen_in": [
-        "wiki/facts/canada/Quebec Education Reform.md"
       ]
     }
   }

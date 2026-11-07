@@ -14549,6 +14549,8 @@
     "Lincoln, 2009": "Lincoln, 2009",
     "Linda Zagzebski (1996)": "Linda Zagzebski, 1996",
     "Linda Zagzebski, 1996": "Linda Zagzebski, 1996",
+    "Lindbeck & Nyberg (2006)": "Lindbeck & Nyberg, 2006",
+    "Lindbeck & Nyberg, 2006": "Lindbeck & Nyberg, 2006",
     "Lindberg et al. (2010)": "Lindberg et al., 2010",
     "Lindberg et al., 2010": "Lindberg et al., 2010",
     "Lindblad & Popkewitz (2004)": "Lindblad & Popkewitz, 2004",
@@ -26746,6 +26748,8 @@
     "influential philosopher Tingyang Zhao, 2021": "influential philosopher Tingyang Zhao, 2021",
     "interpretive analysis followed Yanow’s (2000)": "interpretive analysis followed Yanow’s, 2000",
     "interpretive analysis followed Yanow’s, 2000": "interpretive analysis followed Yanow’s, 2000",
+    "latter corroborates Kvernbekk's (2016)": "latter corroborates Kvernbekk's, 2016",
+    "latter corroborates Kvernbekk's, 2016": "latter corroborates Kvernbekk's, 2016",
     "lisahunter (2014)": "lisahunter, 2014",
     "lisahunter, 2014": "lisahunter, 2014",
     "metaphor contrasts sharply with Orland’s (2009)": "metaphor contrasts sharply with Orland’s, 2009",
@@ -27255,8 +27259,6 @@
     "波森与蒂利, 1997": "波森与蒂利, 1997",
     "波特 (1990)": "波特, 1990",
     "波特, 1990": "波特, 1990",
-    "海克等 (2014)": "海克等, 2014",
-    "海克等, 2014": "海克等, 2014",
     "海克纳 (1985)": "海克纳, 1985",
     "海克纳, 1985": "海克纳, 1985",
     "潘洪建 (2018)": "潘洪建, 2018",
@@ -99248,7 +99250,8 @@
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
         "wiki/concepts/instruction-pedagogy/Eget Arbete.md",
-        "wiki/concepts/instruction-pedagogy/Lecturing.md"
+        "wiki/concepts/instruction-pedagogy/Lecturing.md",
+        "wiki/facts/canada/Quebec Education Reform.md"
       ],
       "title": ""
     },
@@ -126714,7 +126717,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
+        "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md"
       ],
       "title": ""
     },
@@ -133347,6 +133351,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Open-Mindedness.md"
+      ],
+      "title": ""
+    },
+    "Lindbeck & Nyberg, 2006": {
+      "aliases": [
+        "Lindbeck & Nyberg, 2006",
+        "Lindbeck & Nyberg (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lindbeck & Nyberg, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Wealth Effect in Education.md"
       ],
       "title": ""
     },
@@ -221570,6 +221589,21 @@
       ],
       "title": ""
     },
+    "latter corroborates Kvernbekk's, 2016": {
+      "aliases": [
+        "latter corroborates Kvernbekk's, 2016",
+        "latter corroborates Kvernbekk's (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "latter corroborates Kvernbekk's, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md"
+      ],
+      "title": ""
+    },
     "lisahunter, 2014": {
       "aliases": [
         "lisahunter, 2014",
@@ -225303,21 +225337,6 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md",
         "wiki/persons/us/Michael Porter.md"
-      ],
-      "title": ""
-    },
-    "海克等, 2014": {
-      "aliases": [
-        "海克等, 2014",
-        "海克等 (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "海克等, 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/canada/Quebec Education Reform.md"
       ],
       "title": ""
     },

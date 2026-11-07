@@ -4272,6 +4272,17 @@
     ]
   },
   {
+    "title": "Semi-Permeable Culture",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md",
+    "aliases": [
+      "半透性组织文化",
+      "半透性文化",
+      "半透性学校文化",
+      "Semi-permeable School Culture"
+    ]
+  },
+  {
     "title": "Shadow Hierarchy",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Shadow Hierarchy.md",
@@ -8301,8 +8312,9 @@
     "path": "wiki/concepts/educational-psychology/Sisu.md",
     "aliases": [
       "西苏",
-      "芬兰坚毅精神",
-      "芬兰西苏精神"
+      "芬兰坚忍精神",
+      "芬兰坚毅文化",
+      "坚忍精神"
     ]
   },
   {
@@ -19219,6 +19231,18 @@
     ]
   },
   {
+    "title": "Third Voice",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Third Voice.md",
+    "aliases": [
+      "第三声音",
+      "Three Voices",
+      "三种声音",
+      "教学审议中的第三声音",
+      "Third Voice in Professional Dialogue"
+    ]
+  },
+  {
     "title": "Academic Engagement",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Academic Engagement.md",
@@ -22694,6 +22718,17 @@
       "协调型市场经济",
       "LMEs",
       "CMEs"
+    ]
+  },
+  {
+    "title": "Wealth Effect in Education",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Wealth Effect in Education.md",
+    "aliases": [
+      "教育财富效应假说",
+      "教育中的财富效应",
+      "Wealth Effect Hypothesis in Education",
+      "教育财富效应"
     ]
   },
   {
@@ -35701,10 +35736,9 @@
     "path": "wiki/facts/canada/Quebec Education Reform.md",
     "aliases": [
       "魁北克教育改革",
-      "加拿大魁北克教育改革",
+      "魁北克以学生为中心课程改革",
       "Quebec Curriculum Reform",
-      "Renouveau pédagogique",
-      "魁北克新教育改革"
+      "Programme de formation de l'école québécoise"
     ],
     "subtype": "policy"
   },
