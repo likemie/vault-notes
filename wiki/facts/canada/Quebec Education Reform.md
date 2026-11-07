@@ -35,6 +35,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
+  - "[[Catherine Haeck]]"
   - "[[Gabriel Heller Sahlgren]]"
 related_facts:
   - "[[PISA]]"
@@ -76,7 +77,7 @@ updated: 2026-11-07
 > - **1997** 魁北克省教育部正式启动《教育改革：新方向与实施方案》，确立建构主义课程纲领。
 > - **2000** 全省公立小学一年级与二年级率先推行以学生为主导的探究式新大纲。
 > - **2005** 新大纲全面进入初中一年级（Secondary 1），引发教师工会关于学生基础学科知识匮乏的强烈反弹。
-> - **2014** 经济学者凯瑟琳·海克（Catherine Haeck）等人在《教育经济学评论》（*Economics of Education Review*）发表里程碑因果评估报告，从微观计量层面确证了该改革对学业认知的破坏效应。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 47)]]
+> - **2014** 经济学者[[Catherine Haeck|凯瑟琳·海克]]等人在《教育经济学评论》（*Economics of Education Review*）发表里程碑因果评估报告，从微观计量层面确证了该改革对学业认知的破坏效应。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 47)]]
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 90
+argument_related_count: 92
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -90,6 +90,7 @@ related_theories:
   - "[[Ecosystem for Research-Engaged Schools]]"
   - "[[Critical Realism]]"
   - "[[Organizational Culture]]"
+  - "[[Deep Use Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
@@ -105,12 +106,17 @@ related_methods:
   - "[[Action Research]]"
   - "[[Secondary Analysis]]"
   - "[[Pilot Testing]]"
+  - "[[Aggregative and Configurative Synthesis]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Pasi Sahlberg]]"
+  - "[[Tim Cain]]"
+  - "[[Elizabeth Farley-Ripple]]"
+  - "[[Tone Kvernbekk]]"
+  - "[[Sølvi Mausethagen]]"
 related_facts:
   - "[[PISA]]"
   - "[[Teacher Training Agency]]"
@@ -157,12 +163,12 @@ updated: 2026-11-07
 > |----------|----------|
 > | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] | 确立质量使用的核心判准：好使用要求深思熟虑地参与恰当研究并付诸行动，超越泛泛接触，且受个体（技能、心态、关系）、组织（结构、文化、领导）与系统三层条件立体支撑。用作分析主干框架。 |
 > | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>Hagevold, Forsström, and Keles (2026) | 跨层[[Educational Governance Framework\|治理分析框架]]：以信任、技能发展、可持续结构与关系四类横切机制替代原先各层级机械嵌套逻辑，解释持久障碍的生成根源与转化条件。 |
-> | **[[Conceptual, Instrumental, and Symbolic Use of Research\|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 刻画证据使用的微观活动过程：区分工具性、策略性与概念性使用，将实践者对研究的搜寻、阐释与整合界定为核心活动；用来刻画深思熟虑参与同恰当研究之间的双向互动箭头。 |
+> | **[[Deep Use Framework|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 刻画证据使用的微观活动过程：区分工具性、策略性与概念性使用，将实践者对研究的搜寻、阐释与整合界定为核心活动；用来刻画深思熟虑参与同恰当研究之间的双向互动箭头。 |
 > | **[[Research Literacy\|研究素养]]**<br>Eriksen (2022) | 将教师专业工作界定为兼具情境敏感性的实践技艺，强调实践者依据完整性、理性审议与灵活性三种德性对证据展开审慎权衡；用来界定恰当研究的四大判准，避免机械照搬。 |
 > | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey and Brown (2019) | 采用社会生态学微观、中观、外层、宏观与时间维度，刻画研究参与嵌入外部宏观体制的生态图景；为个体、组织、系统三层级及其细分主题提供理论来源。 |
 
 > [!warrant]- 理论如何支撑论证
-> 初始框架以 QURE 框架为基石，吸纳深层使用框架的双向活动逻辑，引入研究素养的敏感性维度以细化恰当研究判准，并依托生态系统模型扩展宏观系统层的公共话语与教育政策主题。该先验框架作为[[Framework Synthesis|框架综合]]的先验分析透镜，指导两阶段数据提取与节点编码。通过聚合式分析统计各层级编码研究频数以揭示文献偏误，进而运用配置式分析穿透离散层级，提炼四类跨层治理机制并完成理论框架修订。
+> 初始框架以 QURE 框架为基石，吸纳深层使用框架的双向活动逻辑，引入研究素养的敏感性维度以细化恰当研究判准，并依托生态系统模型扩展宏观系统层的公共话语与教育政策主题。该先验框架作为[[Framework Synthesis|框架综合]]的先验分析透镜，指导两阶段数据提取与节点编码。通过[[Aggregative and Configurative Synthesis|聚合式分析]]统计各层级编码研究频数以揭示文献偏误，进而运用[[Aggregative and Configurative Synthesis|配置式分析]]穿透离散层级，提炼四类跨层治理机制并完成理论框架修订。
 
 ---
 
@@ -171,7 +177,7 @@ updated: 2026-11-07
 > |------|----------------|
 > | **系统检索与流程规范** | 检索词全面覆盖研究证据使用的各类学术表述（如 evidence-based practice, knowledge mobilization, use of research evidence, research-informed teaching）与教育情境词。2025 年 1 月在 Scopus、Web of Science 与 ERIC 三大数据库检索，获 32,333 条记录，去重后得 23,299 篇。在循证政策与实践信息中心综述软件（Evidence for Policy and Practice Information Reviewer, EPPI-Reviewer）中执行两阶段独立双盲筛选（先题名摘要、后全文），题名摘要一致率 98.1%，全文筛选一致率 81%，最终纳入 109 项实证研究。方案在开放科学框架（Open Science Framework, OSF）预注册，严格遵循[[PRISMA\|系统综述和荟萃分析优先报告条目]]（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）规范。 |
 > | **纳入标准与质量评估** | 纳入标准严格限定为针对小学或中学在职教师及学校领导者、探讨主动参与并利用研究改进决策或实践、同行评议期刊发表的英文实证研究；排除纯理论研讨、评论、早期儿童教育与保育（Early Childhood Education and Care, ECEC）、高等教育与职前师范生样本。研究质量采用[[Mixed Methods Appraisal Tool\|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT；Hong et al., 2018）双盲评估，分歧由第三位研究者裁定；低质量研究发现仅在获得高质量研究佐证时方予采纳。 |
-> | **两阶段框架综合分析** | 依据 Gale et al. (2013) 框架综合指南展开两阶段分析：第一阶段以 Excel 提取研究特征（年份、国别、设计、学段、主题）；第二阶段在 NVivo 15 中依据框定与描述、障碍及促成因素三大先验主节点编码。障碍节点经全团队盲编码并讨论至 100% 共识。聚合式分析统计各代码覆盖文献数，配置式分析进一步跨层级提炼深层生成机制。 |
+> | **两阶段框架综合分析** | 依据 Gale et al. (2013) 框架综合指南展开两阶段分析：第一阶段以 Excel 提取研究特征（年份、国别、设计、学段、主题）；第二阶段在 NVivo 15 中依据框定与描述、障碍及促成因素三大先验主节点编码。障碍节点经全团队盲编码并讨论至 100% 共识。聚合式分析统计各代码覆盖文献数，[[Aggregative and Configurative Synthesis|配置式分析]]进一步跨层级提炼深层生成机制。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

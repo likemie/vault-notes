@@ -7519,8 +7519,10 @@
     "Farley-Ripple (2024)": "Farley-Ripple, 2024",
     "Farley-Ripple et al. (2017)": "Farley-Ripple et al., 2017",
     "Farley-Ripple et al. (2018)": "Farley-Ripple et al., 2018",
+    "Farley-Ripple et al. (2022)": "Farley-Ripple et al., 2022",
     "Farley-Ripple et al., 2017": "Farley-Ripple et al., 2017",
     "Farley-Ripple et al., 2018": "Farley-Ripple et al., 2018",
+    "Farley-Ripple et al., 2022": "Farley-Ripple et al., 2022",
     "Farley-Ripple, 2012": "Farley-Ripple, 2012",
     "Farley-Ripple, 2024": "Farley-Ripple, 2024",
     "Farmer-Hinton (2009)": "Farmer-Hinton, 2009",
@@ -7752,8 +7754,10 @@
     "Finnemore, 1993": "Finnemore, 1993",
     "Finnigan & Daly (2014)": "Finnigan & Daly, 2014",
     "Finnigan & Daly, 2014": "Finnigan & Daly, 2014",
+    "Finnigan (2021)": "Finnigan, 2021",
     "Finnigan et al. (2013)": "Finnigan et al., 2013",
     "Finnigan et al., 2013": "Finnigan et al., 2013",
+    "Finnigan, 2021": "Finnigan, 2021",
     "Finnish Defence Forces (1955)": "Finnish Defence Forces, 1955",
     "Finnish Defence Forces (1980)": "Finnish Defence Forces, 1980",
     "Finnish Defence Forces, 1955": "Finnish Defence Forces, 1955",
@@ -20188,6 +20192,8 @@
     "Robinson, 2016": "Robinson, 2016",
     "Robinson-Smith (2019)": "Robinson-Smith, 2019",
     "Robinson-Smith, 2019": "Robinson-Smith, 2019",
+    "Robitaille (1990)": "Robitaille, 1990",
+    "Robitaille, 1990": "Robitaille, 1990",
     "Robledo & Prudente (2021)": "Robledo & Prudente, 2021",
     "Robledo & Prudente, 2021": "Robledo & Prudente, 2021",
     "Robledo-Ramón (2013)": "Robledo-Ramón, 2013",
@@ -32442,7 +32448,8 @@
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
-        "wiki/facts/global/First International Mathematics Study.md"
+        "wiki/facts/global/First International Mathematics Study.md",
+        "wiki/facts/global/Second International Mathematics Study.md"
       ],
       "title": ""
     },
@@ -52262,6 +52269,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/methods/mixed/Aggregative and Configurative Synthesis.md",
         "wiki/methods/qualitative/Framework Synthesis.md"
       ],
       "title": ""
@@ -82476,7 +82484,23 @@
         "wiki/arguments/journal-articles/Educational Research/Argument_Rickinson_2022_EducRes.md",
         "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md",
         "wiki/concepts/educational-policy-reform/Research-Practice Partnership.md",
+        "wiki/theories/educational-policy-reform/Deep Use Framework.md",
         "wiki/theories/educational-policy-reform/Governing Mechanisms of Research Use.md"
+      ],
+      "title": ""
+    },
+    "Farley-Ripple et al., 2022": {
+      "aliases": [
+        "Farley-Ripple et al., 2022",
+        "Farley-Ripple et al. (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Farley-Ripple et al., 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-policy-reform/Deep Use Framework.md"
       ],
       "title": ""
     },
@@ -84176,6 +84200,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
+    "Finnigan, 2021": {
+      "aliases": [
+        "Finnigan, 2021",
+        "Finnigan (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Finnigan, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-policy-reform/Deep Use Framework.md"
       ],
       "title": ""
     },
@@ -95121,6 +95160,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md",
+        "wiki/methods/mixed/Aggregative and Configurative Synthesis.md",
         "wiki/methods/qualitative/Critical Review.md"
       ],
       "title": ""
@@ -174470,6 +174510,21 @@
       "seen_in": [],
       "title": "EasyPeasy  Learning through play - Evaluation report"
     },
+    "Robitaille, 1990": {
+      "aliases": [
+        "Robitaille, 1990",
+        "Robitaille (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Robitaille, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Second International Mathematics Study.md"
+      ],
+      "title": ""
+    },
     "Robledo & Prudente, 2021": {
       "aliases": [
         "Robledo & Prudente, 2021",
@@ -211548,6 +211603,7 @@
         "wiki/concepts/educational-policy-reform/Research-Policy Gap.md",
         "wiki/persons/uk/Jenny Ozga.md",
         "wiki/persons/us/Carol Weiss.md",
+        "wiki/theories/educational-policy-reform/Deep Use Framework.md",
         "wiki/theories/educational-policy-reform/Governing Mechanisms of Research Use.md",
         "wiki/theories/educational-policy-reform/Research Utilization Models.md"
       ],

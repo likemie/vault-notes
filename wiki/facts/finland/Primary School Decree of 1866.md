@@ -13,7 +13,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 0
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -78,7 +78,7 @@ updated: 2026-11-07
 > - **1863** 为该法令落地储备专业师资，西格纽斯先行创办[[Jyväskylä Teacher Seminary|于韦斯屈莱师范学院]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 24)]]
 > - **1866** 参议院正式颁布法令，并在随后设立专门的世俗学校管理部门。
 > - **1869** 成立世俗的芬兰最高学校管理局（Skolstyrelsen），全面接管全国学校行政管辖权。
-> - **1921** 法令所奠定的市镇校舍与师资网络，为最终出台[[Compulsory Education Act 1921|1921年义务教育法]]提供了不可或缺的制度底座。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 21–22)]]
+> - **1921** 法令所奠定的市镇校舍与师资网络，为最终出台[[Compulsory Education Act 1921|1921年义务教育法]]提供了不可或缺的制度基础。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 21–22)]]
 
 ---
 

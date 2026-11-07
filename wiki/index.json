@@ -21327,6 +21327,17 @@
     ]
   },
   {
+    "title": "Deep Use Framework",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Deep Use Framework.md",
+    "aliases": [
+      "深层使用框架",
+      "Deep Use",
+      "Deep Use of Research Evidence",
+      "证据深层使用框架"
+    ]
+  },
+  {
     "title": "Dynamic Sustainability Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Dynamic Sustainability Framework.md",
@@ -23596,6 +23607,19 @@
       "agent-based modeling",
       "ABM",
       "agent-based models"
+    ]
+  },
+  {
+    "title": "Aggregative and Configurative Synthesis",
+    "type": "method",
+    "path": "wiki/methods/mixed/Aggregative and Configurative Synthesis.md",
+    "aliases": [
+      "聚合式与配置式综合",
+      "聚合性与配置性综合",
+      "聚合与配置综合",
+      "Aggregative Synthesis",
+      "Configurative Synthesis",
+      "证据综合的聚合与配置范式"
     ]
   },
   {
@@ -37633,6 +37657,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Finland-Swedish School System",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finland-Swedish School System.md",
+    "aliases": [
+      "芬兰瑞典语学校系统",
+      "芬兰瑞典语少数族裔教育系统",
+      "Swedish-speaking School System in Finland",
+      "Svenska utbildningsväsendet i Finland",
+      "芬兰瑞典语平行学校体系"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Finnish National Core Curriculum",
     "type": "fact",
     "path": "wiki/facts/finland/Finnish National Core Curriculum.md",
@@ -37663,6 +37700,20 @@
       "芬兰双轨制学校体系",
       "Oppikoulu-Kansakoulu Dual Track System",
       "Finnish Two-Stream System"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Primary School Decree of 1866",
+    "type": "fact",
+    "path": "wiki/facts/finland/Primary School Decree of 1866.md",
+    "aliases": [
+      "1866年国民学校法令",
+      "Folkskoleförordningen 1866",
+      "1866年芬兰初等学校法令",
+      "Primary School Act of 1866",
+      "1866年国民学校政令",
+      "1866年公立初等教育法令"
     ],
     "subtype": "policy"
   },
@@ -40060,6 +40111,18 @@
       "斯科普斯数据库",
       "Elsevier Scopus",
       "爱思唯尔Scopus引文数据库"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Second International Mathematics Study",
+    "type": "fact",
+    "path": "wiki/facts/global/Second International Mathematics Study.md",
+    "aliases": [
+      "第二届国际数学研究",
+      "SIMS",
+      "Second IEA Mathematics Study",
+      "第二次国际数学研究"
     ],
     "subtype": "program"
   },

@@ -3014,6 +3014,15 @@
     }
   },
   "unresolved": {
+    "芬兰议会": {
+      "seen_in": [
+        "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
+        "wiki/facts/finland/Comprehensive School Reform in Finland.md",
+        "wiki/facts/finland/Compulsory Education Act 1921.md",
+        "wiki/facts/finland/Finland-Swedish School System.md",
+        "wiki/facts/finland/Parallel School System in Finland.md"
+      ]
+    },
     "Australian Government": {
       "seen_in": [
         "wiki/facts/australia/Gonski 2.0.md",
@@ -3028,14 +3037,6 @@
         "wiki/facts/us/Nuclear Regulatory Reform Executive Orders 2025.md",
         "wiki/facts/us/Restoring Gold Standard Science Executive Order.md",
         "wiki/facts/us/Science in the National Interest 1994.md"
-      ]
-    },
-    "芬兰议会": {
-      "seen_in": [
-        "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
-        "wiki/facts/finland/Comprehensive School Reform in Finland.md",
-        "wiki/facts/finland/Compulsory Education Act 1921.md",
-        "wiki/facts/finland/Parallel School System in Finland.md"
       ]
     },
     "西班牙教育部": {
@@ -3751,6 +3752,11 @@
     "联合质量倡议（Joint Quality Initiative）/ 博洛尼亚进程后继工作组": {
       "seen_in": [
         "wiki/facts/europe/Dublin Descriptors.md"
+      ]
+    },
+    "芬兰大公国参议院": {
+      "seen_in": [
+        "wiki/facts/finland/Primary School Decree of 1866.md"
       ]
     },
     "芬兰议会（Parliament of Finland）": {

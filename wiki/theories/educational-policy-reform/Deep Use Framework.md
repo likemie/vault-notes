@@ -5,8 +5,13 @@ aliases:
   - Deep Use
   - Deep Use of Research Evidence
   - 证据深层使用框架
-summary: "由 Elizabeth Farley-Ripple 等人（2018, 2022）在特拉华大学教育研究使用中心（CRUE）开发的分析框架，超越了将证据利用视为二元使用或孤立事件的传统假设，将微观使用刻画为搜寻、阐释与整合的三阶段动态活动过程，并阐明学校深层使用证据所依托的组织文化、结构、惯例与领导力使能机制。"
+summary: "由 Elizabeth Farley-Ripple et al.（2018, 2022）在特拉华大学教育研究使用中心（CRUE）开发的分析框架，超越了将证据利用视为二元使用或孤立事件的传统假设，将微观使用刻画为搜寻、阐释与整合的三阶段动态活动过程，并阐明学校深层使用证据所依托的组织文化、结构、惯例与领导力使能机制。"
 type: theory
+theory_field: "educational-policy-reform"
+theory_related_count: 16
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/research-use
   - theme/evidence-informed-practice
@@ -55,8 +60,8 @@ updated: 2026-11-07
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 美国特拉华大学教育学院教授、教育研究使用中心（Center for Research Use in Education, CRUE）主任 Elizabeth Farley-Ripple 及其团队在《教育研究者》（*Educational Researcher*）发表的纲领性论文（Farley-Ripple et al., 2018），随后通过覆盖多所学校的大样本混合方法多案例研究（Farley-Ripple et al., 2022）进行了实证深化。
-> - **原初问题** 循证教育运动推动了海量实证研究的产出与中介扩散，但一线学校呈现出明显的“知行脱节”（value-action gap）：教育工作者口头上高度认可科学研究的价值，在真实决策中却极少实质性采纳，学术界缺乏能够细致解剖学校日常证据转化机制的显微镜。
+> - **提出者与原始文本** 美国特拉华大学教育学院教授、教育研究使用中心（Center for Research Use in Education, CRUE）主任 Elizabeth Farley-Ripple 及其团队在《教育研究者》（*Educational Researcher*）发表的纲领性论著（Farley-Ripple et al., 2018），随后通过覆盖多所学校的大样本混合方法多案例研究（Farley-Ripple et al., 2022）进行了实证深化。
+> - **原初问题** 循证教育运动推动了海量实证研究的产出与中介扩散，但一线学校呈现出明显的“知行脱节”（value-action gap）：教育实践人员口头上高度认可科学研究的价值，在真实决策中却极少实质性采纳，学术界缺乏能够细致解剖学校日常证据转化机制的显微镜。
 > - **理论资源与材料** 吸收了 Weiss（1979）关于概念性、工具性与象征性使用的经典区分，吸纳了知识动员与组织学习理论；经验材料源自 CRUE 团队在全美开展的中小学证据使用调查（SEE-S 与 SEE-D）以及针对深层使用典型校的现场田野调研。
 > - **形成路径** 提出者将研究使用解构为“使用何种证据”与“如何使用证据”的双重视角，提炼出搜寻、阐释与整合三项微观活动，并进一步自下而上归纳出区分浅层应付与深层整合的组织使能结构。
 
@@ -81,9 +86,9 @@ updated: 2026-11-07
 ---
 
 > [!theory-proposition] 命题一｜研究使用的实践深度由搜寻、阐释与整合的微观活动链条所决定
-> **解释** 该命题主张研究使用并非单一维度的瞬间决策事件，而是一个由问题界定、证据检索（搜寻）、批判性权衡（阐释）到课堂情境适配（整合）的序列性互动过程。若搜寻渠道局限于非正式网络、阐释停留在碎片化经验比对、整合缺乏对教学情境的改造，研究使用就会退化为浅层的符号应付；深层使用要求实践者在三个环节均保持高强度的认知投入与反思性审议。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4, 18)]]
+> **解释** 该命题主张研究使用表现为一个由问题界定、证据检索（搜寻）、批判性权衡（阐释）到课堂情境适配（整合）构成的序列性互动过程，超越单一维度的瞬间决策事件。若搜寻渠道局限于非正式网络、阐释停留在碎片化经验比对、整合缺乏对教学情境的改造，研究使用就会退化为浅层的符号应付；深层使用要求实践者在三个环节均保持高强度的认知投入与反思性审议。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4, 18)]]
 >
-> **应用实例** 在学校推行早期阅读教学改革时，深层使用学校的教师团队并非直接照搬外部推荐的拼读手册，而是主动检索关于语音意识与全语言教学的实证研究（搜寻），集体研讨实验条件的适用边界与样本局限（阐释），进而结合本校处境不利学生的学情重构教学序列（整合）。
+> **应用实例** 在学校推行早期阅读教学改革时，深层使用学校的教师团队主动检索关于语音意识与全语言教学的实证研究（搜寻），集体研讨实验条件的适用边界与样本局限（阐释），进而结合本校处境不利学生的学情重构教学序列（整合），避免对外部拼读手册的直接照搬。
 
 ---
 
@@ -125,7 +130,7 @@ updated: 2026-11-07
 > > 围绕如何客观准确测量学校中的证据使用展开的学术争论。
 > >
 > > - **定量调查取向者（Finnigan, 2021）** 呼吁开发标准化的量表工具进行大样本监测，以提高研究结果的可比性与跨区域推论效度。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
-> > - **深层使用与实践敏感取向者（Farley-Ripple et al., 2022; Mausethagen et al., 2025）** 指出量表调查极易捕捉到虚假的表层自陈，证据利用深度必须通过嵌入现场的混合方法、案例研究与话语分析方能真实还原。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
+> > - **深层使用与实践敏感取向者（Farley-Ripple et al., 2022; [[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）** 指出量表调查极易捕捉到虚假的表层自陈，证据利用深度必须通过嵌入现场的混合方法、案例研究与话语分析方能真实还原。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
 
 > [!critique] 批评索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 指出深层使用框架虽然精细刻画了微观活动与学校使能条件，但在解释宏观政策高压问责、系统外科研-实践鸿沟等制度机制时存在边界，需要与跨层治理机制相补充。

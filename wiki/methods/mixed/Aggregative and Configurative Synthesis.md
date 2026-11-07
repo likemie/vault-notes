@@ -7,13 +7,13 @@ aliases:
   - Aggregative Synthesis
   - Configurative Synthesis
   - 证据综合的聚合与配置范式
-summary: "由 David Gough 等人奠定的系统综述证据整合元方法论范式。聚合式综合基于实证主义经验累积观，重在先验框架下的同质化证据汇总、频数统计与效应量合并；配置式综合基于解释学与批判实在论，重在异质性概念编织、跨层关系重组与深层生成机制的理论发现。两者构成连续谱系，为两阶段框架综合与复杂证据整合提供范式指引。"
+summary: "由 David Gough et al. 奠定的系统综述证据整合元方法论范式。聚合式综合基于实证主义经验累积观，重在先验框架下的同质化证据汇总、频数统计与效应量合并；配置式综合基于解释学与批判实在论，重在异质性概念编织、跨层关系重组与深层生成机制的理论发现。两者构成连续谱系，为两阶段框架综合与复杂证据整合提供范式指引。"
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 24
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 17
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
