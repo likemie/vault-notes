@@ -8,9 +8,13 @@ summary: "挪威奥斯陆大学教育哲学教授，循证教育哲学分析的�
 type: person
 nationality: norway
 person_region: "norway"
-born: ""
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
+born: "1960"
 died: ""
-lifespan: ""
+lifespan: "1960–至今"
 tags:
   - person/norway
   - theme/educational-philosophy
@@ -77,7 +81,7 @@ updated: 2026-11-07
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 将因果机制哲学（特别是 Nancy Cartwright 等人的因果能力思想）创造性引入教育学界，确立了内外系统差异与副作用考量的经典哲学分析框架。
+> - **理论路径** 将因果机制哲学（特别是 Nancy Cartwright et al. 的因果能力思想）创造性引入教育学界，确立了内外系统差异与副作用考量的经典哲学分析框架。
 > - **方法路径** 深刻反思了随机对照试验在社会科学中作为“黄金标准”的方法论局限，为质性实证研究与机制性综合正名。
 > - **政策路径** 促使欧洲部分教育决策机构在评估循证教改方案时，将潜在负面衍生影响与本土情境适配度纳入审查准则。
 > - **跨国／跨领域传播** 思想广泛辐射至医学哲学、社会政策评估及比较教育学界，成为当代批判性反思循证运动的必读文献。

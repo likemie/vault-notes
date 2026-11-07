@@ -7516,7 +7516,6 @@
     "Farberow (1963)": "Farberow, 1963",
     "Farberow, 1963": "Farberow, 1963",
     "Farley-Ripple (2012)": "Farley-Ripple, 2012",
-    "Farley-Ripple (2024)": "Farley-Ripple, 2024",
     "Farley-Ripple et al. (2017)": "Farley-Ripple et al., 2017",
     "Farley-Ripple et al. (2018)": "Farley-Ripple et al., 2018",
     "Farley-Ripple et al. (2022)": "Farley-Ripple et al., 2022",
@@ -7524,7 +7523,6 @@
     "Farley-Ripple et al., 2018": "Farley-Ripple et al., 2018",
     "Farley-Ripple et al., 2022": "Farley-Ripple et al., 2022",
     "Farley-Ripple, 2012": "Farley-Ripple, 2012",
-    "Farley-Ripple, 2024": "Farley-Ripple, 2024",
     "Farmer-Hinton (2009)": "Farmer-Hinton, 2009",
     "Farmer-Hinton, 2009": "Farmer-Hinton, 2009",
     "Farmus et al. (2020)": "Farmus et al., 2020",
@@ -54857,7 +54855,8 @@
         "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md",
         "wiki/concepts/educational-policy-reform/Evidence-Informed Decision-Making.md",
         "wiki/concepts/educational-policy-reform/Research Utilization.md",
-        "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md"
+        "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md",
+        "wiki/persons/uk/Tim Cain.md"
       ],
       "title": ""
     },
@@ -82500,6 +82499,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/persons/us/Elizabeth Farley-Ripple.md",
         "wiki/theories/educational-policy-reform/Deep Use Framework.md"
       ],
       "title": ""
@@ -82516,21 +82516,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
-      ],
-      "title": ""
-    },
-    "Farley-Ripple, 2024": {
-      "aliases": [
-        "Farley-Ripple, 2024",
-        "Farley-Ripple (2024)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Farley-Ripple, 2024"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
       "title": ""
     },
@@ -99288,7 +99273,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
         "wiki/concepts/instruction-pedagogy/Eget Arbete.md",
         "wiki/concepts/instruction-pedagogy/Lecturing.md",
         "wiki/facts/canada/Quebec Education Reform.md"
@@ -126757,8 +126741,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
-        "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md"
+        "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md",
+        "wiki/persons/norway/Tone Kvernbekk.md",
+        "wiki/persons/uk/Tim Cain.md"
       ],
       "title": ""
     },

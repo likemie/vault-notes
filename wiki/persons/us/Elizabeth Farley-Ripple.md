@@ -9,9 +9,13 @@ summary: "美国特拉华大学教育学院教授、教育研究使用中心（C
 type: person
 nationality: us
 person_region: "us"
-born: ""
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
+born: "c. 1977"
 died: ""
-lifespan: ""
+lifespan: "c. 1977–至今"
 tags:
   - person/us
   - theme/research-use
@@ -49,11 +53,11 @@ updated: 2026-11-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代教育政策学者，特拉华大学教育学院副院长兼教授，特拉华大学教育研究使用中心（Center for Research Use in Education, CRUE）与教育和社会政策研究中心（CRESP）主任。
-> - **核心角色** 美国循证教育测量与学校研究使用机制研究的领军学者，主导了全美规模最大的教育工作者证据使用实证调研工程。
+> - **核心角色** 美国循证教育测量与学校研究使用机制研究的领军学者，主导了全美规模最大的教育实践群体证据使用实证调研工程。
 > - **代表贡献** 创立[[Deep Use Framework|深层使用框架（Deep Use Framework）]]，开发全美教育证据调查工具（SEE-S 与 SEE-D），系统阐明中小学深层利用证据的微观活动链条与组织生态。
 
 > [!citation-card] 深层使用与组织内嵌定位
-> Farley-Ripple 等人提出了深层使用框架，关注何种证据被使用以及如何被使用，细分为工具性、策略性或概念性形态，并解构教育者搜寻、阐释和将研究整合到工作中的微观过程。应用该框架的大型混合方法多案例研究显示，将各类深层使用学校联合起来的共同特征，是将研究使用深度融入学校的日常文化、组织结构与协作规程之中。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
+> Farley-Ripple et al. 提出了深层使用框架，关注何种证据被使用以及如何被使用，细分为工具性、策略性或概念性形态，并解构教育者搜寻、阐释和将研究整合到工作中的微观过程。应用该框架的大型混合方法多案例研究显示，将各类深层使用学校联合起来的共同特征，是将研究使用深度融入学校的日常文化、组织结构与协作规程之中。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
 >
 > *Farley-Ripple et al. (2018, 2022) introduced the "deep use" framework, which concerns what kinds of evidence are used and also how they were used, whether instrumentally, strategically, or conceptually, and how educators search for, interpret, and integrate research into their work... What united these schools, however, was the integration of research use into their culture, structures, and routines.*
 
@@ -61,7 +65,7 @@ updated: 2026-11-07
 
 > [!timeline] 生平与职涯
 > - **2010s** 在特拉华大学创立教育研究使用中心（CRUE），获得美国教育科学研究院（IES）等重大资助，针对全美学区与学校展开长期追踪。
-> - **2018** 在《教育研究者》（*Educational Researcher*）发表里程碑论文，系统构建教育研究与实践连接的全新概念框架，正式提出深层使用范畴。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
+> - **2018** 在《教育研究者》（*Educational Researcher*）发表标志性专文，系统构建教育研究与实践连接的全新概念框架，正式提出深层使用范畴。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
 > - **2022** 发布 CRUE 多案例实证研究成果，详尽绘制全美典型深层使用学校在领导力、能力建设与证据中介上的组织支持图谱。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]
 > - **2024** 在《教育科学》（*Education Sciences*）发表专文，系统揭示校长在学校证据利用中的专业胜任力、角色定位与制度贡献。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 10–11)]]
 
@@ -75,7 +79,7 @@ updated: 2026-11-07
 ---
 
 > [!claim] 核心思想
-> 学校对研究证据的吸收与利用绝非单次自发的个人行为，而是一项由搜寻、阐释和整合构成的微观认知活动链；深层使用的达成依赖于学校组织将外部证据内嵌于自身文化规范、课表结构与教研惯例之中，辅以管理者的专业示范与证据中介机构的长效支持。
+> 学校对研究证据的吸收与利用表现为一项由搜寻、阐释和整合构成的微观认知活动链，超越单次自发的个人行为；深层使用的达成依赖于学校组织将外部证据内嵌于自身文化规范、课表结构与教研惯例之中，辅以管理者的专业示范与证据中介机构的长效支持。
 
 > [!citation-card] 学校领导力与组织赋权
 > 在学校日常实践中，校长与行政管理层不仅是资源的调配者，更是研究文化的主要催化剂。通过向教师让渡课程决策权、搭建跨学科协同结构与化解琐碎杂务干扰，具备良好学术素养的学校领导能够有效打破教师的孤立感，促成全校性的集体审议。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 10–11)]]

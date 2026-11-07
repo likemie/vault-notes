@@ -8,9 +8,13 @@ summary: "挪威奥斯陆城市大学（OsloMet）教育学教授，教育治理
 type: person
 nationality: norway
 person_region: "norway"
-born: ""
+person_related_count: 16
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
+born: "c. 1976"
 died: ""
-lifespan: ""
+lifespan: "c. 1976–至今"
 tags:
   - person/norway
   - theme/research-use
@@ -53,14 +57,14 @@ updated: 2026-11-07
 > - **代表贡献** 深刻揭露教育研究使用三十年来受[[Deficit Framing|赤字框架（Deficit Framing）]]主导的认识论偏误，系统构建[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]概念框架，深化学校领导的[[Research Literacy|研究素养]]理论。
 
 > [!citation-card] 赤字框架批判与专业敏感性倡导
-> Mausethagen 等人对 34 篇关于教育中研究使用概念化流变的文献展开系统性批判综述。他们的分析揭示出既有文献中根深蒂固的赤字框架，即研究使用长久以来被窄化呈现为某种实践者‘缺乏’或‘能力不足’的问题。他们力倡推进更具专业敏感性的概念化，严肃对待教师认识论工作的复杂性。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
+> Mausethagen et al. 对 34 篇关于教育中研究使用概念化流变的文献展开系统性批判综述。他们的分析揭示出既有文献中根深蒂固的赤字框架，即研究使用长久以来被窄化呈现为某种实践者‘缺乏’或‘能力不足’的问题。他们力倡推进更具专业敏感性的概念化，严肃对待教师认识论工作的复杂性。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
 >
 > *Their analysis identified a persistent deficit framing in the literature, namely that research use is consistently presented as something that is lacking or insufficient. They also argued for more profession-sensitive conceptualizations that take seriously the complexity of teachers' epistemic work.*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **2013** 获得奥斯陆大学教育学博士学位，博士论文聚焦督导治理、国家测试问责与教师专业身份的制度张力。
+> - **2013** 获得奥斯陆大学教育学博士学位，博士研究聚焦督导治理、国家测试问责与教师专业身份的制度张力。
 > - **2015** 出版《治理与教学：国家测试与新问责》（*Governance and Teaching*）等代表作，奠定其在北欧教育督导与教师社会学领域的学术声誉。
 > - **2023** 与 Hermansen 合作发表学校领导研究素养的质性实证成果，阐发证据再脉络化（Recontextualisation）中的实践敏感性与情境敏感性。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]
 > - **2025** 在《教育研究评论》（*Educational Research Review*）发表标志性批判综述，提出划时代的“第四代专业敏感型研究使用”理论。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025)]]
@@ -106,7 +110,7 @@ updated: 2026-11-07
 > > 围绕如何客观定性一线教师在研究使用中的现实短板存在争端。
 > >
 > > - **缺陷模型主张者** 坚称大量实证数据显示教师缺乏基础统计素养与证据鉴别能力，继续主张对一线教师开展补偿性科研技能培训。
-> > - **专业敏感型批判者（Mausethagen et al., 2025）** 指出单纯强化个体技能是缘木求鱼，只要时间剥夺与高利害问责体制不改变，个体培训成果必然归零，必须转向制度生态改造。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3, 10)]]
+> > - **专业敏感型批判者（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）** 指出单纯强化个体技能是缘木求鱼，只要时间剥夺与高利害问责体制不改变，个体培训成果必然归零，必须转向制度生态改造。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3, 10)]]
 
 ---
 

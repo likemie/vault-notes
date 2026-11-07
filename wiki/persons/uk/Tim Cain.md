@@ -8,9 +8,13 @@ summary: "英国 Edge Hill 大学教育学教授，教师研究使用与循证�
 type: person
 nationality: uk
 person_region: "uk"
-born: ""
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
+born: "c. 1960"
 died: ""
-lifespan: ""
+lifespan: "c. 1960–至今"
 tags:
   - person/uk
   - theme/research-use
@@ -82,7 +86,7 @@ updated: 2026-11-07
 > - **理论路径** 开创“三种声音”理论模型，打破了传统证据转化中的线性传递神话，为当代证据整合范式与教师研究素养理论提供了坚实的认识论基础。
 > - **方法路径** 倡导采用质性个案追踪与扎根反思法捕捉教师研读学术文本时的微观认知表述，示范了如何在课堂真实场景中测量研究使用的深层形态。
 > - **政策路径** 深度参与英国教师教育大纲与教师培训署倡导的循证教研改革，警示高压问责可能引发的行政合规异化。
-> - **跨国／跨领域传播** 思想被经合组织（OECD）知识动员项目（Torres, 2022b）与欧洲多国框架综合（Hagevold et al., 2026）广泛吸纳，成为国际循证教育领域的重要理论资源。
+> - **跨国／跨领域传播** 思想被经合组织（OECD）知识动员项目（[[Argument_Torres_2022_KMModels|Torres, 2022b]]）与欧洲多国框架综合（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）广泛吸纳，成为国际循证教育领域的重要理论资源。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 将 Tim Cain 的第三声音概念作为核心支柱，论证学校研究使用必须从外推实施转向情境整合（pp. 11–12, 18–19）。
@@ -101,7 +105,7 @@ updated: 2026-11-07
 > > [!axis] 研究证据在课堂决策中的权威属性
 > > 围绕科学实证研究是否应当对教师日常教学行为施加刚性约束存在学术分歧。
 > >
-> > - **标准化实施取向（Slavin, 2002）** 主张严谨实证证据代表教学规律的客观最优解，教师应当追求忠实度实施。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 2–3)]]
+> > - **标准化实施取向（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 主张严谨实证证据代表教学规律的客观最优解，教师应当追求忠实度实施。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 2–3)]]
 > > - **专业审议取向（Cain, 2015; Kvernbekk, 2016）** 坚决维护教师的实践裁量权，强调研究仅充当启发审议的对话伙伴，杜绝行政教条化。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 11–12)]]
 
 ---

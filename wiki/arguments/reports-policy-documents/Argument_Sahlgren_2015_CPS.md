@@ -7,7 +7,7 @@ title: "Argument_Sahlgren_2015_CPS"
 argument_key: "Argument_Sahlgren_2015_CPS"
 argument_display_title: "Real Finnish Lessons: The true story of an education superpower"
 argument_kind: "report"
-argument_related_count: 71
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -106,6 +106,8 @@ related_persons:
   - "[[Sigmund Freud]]"
   - "[[Uno Cygnaeus]]"
   - "[[Hannu Simola]]"
+  - "[[Mikael Soininen]]"
+  - "[[Catherine Haeck]]"
 related_instruments:
   - "[[Finnish Defence Forces Basic Ability Test]]"
 related_methods:
@@ -290,7 +292,7 @@ related_methods:
 
 > [!feature] 芬诺曼建国运动塑造的教师社会资本
 > - **崇高社会声望与公众信任** 在 2000 年 PISA 放榜前开展的北欧民调中，仅有 20% 的芬兰民众认为教师职业地位较低（其他北欧国家高达 40% 至 80%），民众对基础教育的信任度位居全欧之冠（p. 18）。
-> - **民族国家建构与启蒙使命** 面对自 1809 年脱离瑞典成为沙皇俄国大公国后“承袭瑞典制度而底层操芬兰语”的二元割裂，芬诺曼运动思想领袖[[Johan Vilhelm Snellman|约翰·威廉·斯内尔曼]]（Johan Vilhelm Snellman）等知识精英深受黑格尔国家哲学启发，将教育确立为催生民族意识的唯一战略手段。教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]于 1863 年创立[[Jyväskylä Teacher Seminary|于韦斯屈莱师范学院]]（Jyväskylä Teacher Seminary），并起草推动出台[[Primary School Decree of 1866|《1866年国民学校法令》]]，为后续[[Compulsory Education Act 1921|1921年义务教育法]]的立法普及奠定了校舍与师资网络（pp. 19–21）。
+> - **民族国家建构与启蒙使命** 面对自 1809 年脱离瑞典成为沙皇俄国大公国后“承袭瑞典制度而底层操芬兰语”的二元割裂，芬诺曼运动思想领袖[[Johan Vilhelm Snellman|约翰·威廉·斯内尔曼]]（Johan Vilhelm Snellman）等知识精英深受黑格尔国家哲学启发，将教育确立为催生民族意识的唯一战略手段。教育奠基人[[Uno Cygnaeus|乌诺·西格纽斯]]于 1863 年创立[[Jyväskylä Teacher Seminary|于韦斯屈莱师范学院]]（Jyväskylä Teacher Seminary），并起草推动出台[[Primary School Decree of 1866|《1866年国民学校法令》]]，为后续[[Mikael Soininen|米卡埃尔·索伊尼宁]]推动出台的[[Compulsory Education Act 1921|1921年义务教育法]]的立法普及奠定了校舍与师资网络（pp. 19–21）。
 > - **“民族之烛”崇高威望** 投身乡村初等教育被赋予浓厚的民族浪漫色彩，教师被社会公认为[[Kansankynttilä|民族之烛]]（kansankynttilä），与路德宗教区牧师、乡村医生并列为支撑芬兰村社社会的三大知识精英支柱（pp. 19–21）。
 > - **反沙俄同化的被动抵抗阵地** 在 1899 至 1917 年沙皇俄国推行残酷的[[Russification of Finland|俄罗斯化]]（Russification of Finland）高压统治时期，芬兰中小学校舍成为守护民族语言与文化的被动抵抗阵地；[[1918 Finnish Civil War|1918年芬兰内战]]爆发（3 个月内死亡 3.7 万人），战后初等学校进一步被确立为愈合社会裂痕、培育国民认同与爱国纪律的中枢（pp. 20–21）。
 > - **极其严苛的师资生源素养** 崇高的社会威望吸引全国最聪慧的青年投身教育。二战前芬兰初等教师持有高中毕业文凭（ylioppilastutkinto）的比例居全球之首（Halila 考证）；当代经合组织成人技能评估（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）数据显示，芬兰中小学教师的读写与算术素养得分显著超越所有西方同类国家（Hanushek et al., 2014；见 pp. 18–19）。
@@ -321,12 +323,12 @@ related_methods:
 > [!sub-claim] 3. 基层教师长期坚持直接讲授法，筑牢了扎实的学科基础
 
 > [!evidence-grid] 直接教学主导微观课堂的实证支柱
-> - **基层教师对时髦理论的专业抵御** 面对 1970 至 1980 年代教育行政官僚自上而下推广的进步主义教育学试验，一线教师深受历史悠久的[[Herbart-Zillerist Pedagogy|赫尔巴特-齐勒学派教学法]]熏陶，在法定放权下形成了独具特色的[[Internalised Centralisation|内生化集权制]]，凭借深厚权威传统对激进教学法展开强力抵御，将高度结构化的[[Direct Instruction|直接教学]]、全班整齐划一练习与讲台授课延续至 1990 年代末（pp. 38–41, 46）。
+> - **基层教师对时髦理论的专业抵御** 面对 1970 至 1980 年代教育行政官僚自上而下推广的进步主义教育学试验，一线教师深受历史悠久的[[Herbart-Zillerist Pedagogy|赫尔巴特-齐勒学派教学法]]（由[[Mikael Soininen|米卡埃尔·索伊尼宁]]系统本土化奠基）熏陶，在法定放权下形成了独具特色的[[Internalised Centralisation|内生化集权制]]，凭借深厚权威传统对激进教学法展开强力抵御，将高度结构化的[[Direct Instruction|直接教学]]、全班整齐划一练习与讲台授课延续至 1990 年代末（pp. 38–41, 46）。
 > - **跨国课堂录像取证证实高度保守** 跨国比较与课堂视频分析证实，在芬兰 PISA 巅峰期，其数理课堂呈现出全欧最高比例的教师主导讲授与独立静坐教材练习；全班合作探究与[[Inquiry-Based Learning|探究式学习]]占比在欧洲参测国中处于最低之列（Norris et al., 1996；见 pp. 41–43）。
 > - **微观计量因果检验支持显性教学** 约翰·哈蒂（John Hattie）对数百项元分析的综合研判表明，主动主导的显性指导教学，其提升学业效果是建构主义非指导性探究的三倍以上；现代因果计量文献（Klahr & Nigam, 2004; Lavy, 2016）确证高结构显性教学在控制认知负荷与夯实基础学科测试表现上的压倒性优势（pp. 43–48）。
 
 > [!case] 跨国镜像对照：加拿大魁北克建构主义改革与瑞典自主学习转型的滑坡教训
-> 加拿大魁北克省在 2000 年代初全面推行[[Quebec Education Reform|建构主义课程改革]]（*Renouveau pédagogique*），强制全省学校采用学生主导、项目探究与开放式发现教学。微观计量实证研究（Haeck et al., 2014）运用严密的因果识别评估证实，这场激进改革在短短数年内导致中小学生数学成绩全面滑坡，且无论高分生还是低分生均遭受负面冲击，受影响时间越长成绩受损越严重，同时伴随多动与焦虑等心理问题的显著上升（pp. 46–47）。
+> 加拿大魁北克省在 2000 年代初全面推行[[Quebec Education Reform|建构主义课程改革]]（*Renouveau pédagogique*），强制全省学校采用学生主导、项目探究与开放式发现教学。微观计量实证研究（[[Catherine Haeck|凯瑟琳·海克]]等，Haeck et al., 2014）运用严密的因果识别评估证实，这场激进改革在短短数年内导致中小学生数学成绩全面滑坡，且无论高分生还是低分生均遭受负面冲击，受影响时间越长成绩受损越严重，同时伴随多动与焦虑等心理问题的显著上升（pp. 46–47）。
 >
 > 瑞典在 1990 年代的转型提供了更切近的北欧对照。1994 年瑞典颁布强调学生自主的新课程大纲，独立自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%，每天多次进行独立自主探索与[[Eget Arbete|自导作业]]（eget arbete）的学生比例在 1995 至 2003 年间从 25% 翻倍至 50%（p. 47）。课堂权威的消解与教师主导讲授的撤退，直接导致瑞典在随后的 TIMSS 与 PISA 测试中遭遇历史性坠落，成为欧洲下滑最剧烈的国家。芬兰在 1990 年代由于基层教师的抵制，推迟了向瑞典式自导作业与魁北克式学生中心模式的转变，因而得以在 2000 年代初暂时维持卓越表现。
 

@@ -7,10 +7,13 @@ summary: "加拿大教育与劳动经济学家，魁北克大学蒙特利尔分�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 0
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
+born: "c. 1980"
+died: ""
+lifespan: "c. 1980–至今"
 tags:
   - person/economist
   - region/canada
@@ -58,7 +61,7 @@ updated: 2026-11-07
 > - **2005** 获得蒙特利尔大学经济学硕士学位。
 > - **2012** 获比利时鲁汶天主教大学（KU Leuven）经济学博士学位，专注于劳动经济学、人力资本积累与家庭微观计量评估。
 > - **2012** 入职魁北克大学蒙特利尔分校管理学院经济学系任助理教授。
-> - **2014** 与 Pierre Lefebvre 及 Philip Merrigan 在《教育经济学评论》（*Economics of Education Review*）发表里程碑论文，利用加拿大全国少年纵向调查（NLSCY）大样本，评估[[Quebec Education Reform|魁北克教育改革]]的分布因果效应。
+> - **2014** 与 Pierre Lefebvre 及 Philip Merrigan 在《教育经济学评论》（*Economics of Education Review*）发表里程碑成果，利用加拿大全国少年纵向调查（NLSCY）大样本，评估[[Quebec Education Reform|魁北克教育改革]]的分布因果效应。
 > - **2018** 晋升为魁北克大学蒙特利尔分校经济学副教授，出任 CIRANO 儿童与人力资本研究项目联合主任。
 > - **2023** 晋升为魁北克大学蒙特利尔分校经济学正教授。
 
