@@ -6,9 +6,14 @@ aliases:
   - 认知领地
   - cognitive extent of science
   - CE
-summary: "科学计量学与知识图谱分析中基于词汇与短语离散空间测度某一学科认知领地与概念多样性的量化方法；通过从学术出版物标题与摘要中提取独立概念短语，并依托希普斯定律（Heaps' Law）或固定规模样本控制样本量偏误，评估学科知识边界的探索范围（Milojević, 2015; Hao et al., 2026）。"
+summary: "科学计量学与知识图谱分析中基于词汇与短语离散空间测度某一学科认知领地与概念多样性的量化方法；通过从学术出版物标题与摘要中提取独立概念短语，并依托希普斯定律（Heaps Law）或固定规模样本控制样本量偏误，评估学科知识边界的探索范围（Milojević, 2015; Hao et al., 2026）。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 17
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:
@@ -18,45 +23,54 @@ tags:
   - theme/science-of-science
   - theme/computational-linguistics
 related_concepts:
+  - "[[Document]]"
+  - "[[Construct]]"
   - "[[Knowledge Production]]"
-  - "[[Scientific Productivity]]"
-  - "[[Heterogeneity]]"
+  - "[[Unit of Analysis]]"
+  - "[[Paradigm]]"
+  - "[[Champ]]"
+  - "[[Construct Validity]]"
+  - "[[Emergence]]"
+  - "[[Generative Artificial Intelligence]]"
 related_theories: []
 related_methods:
+  - "[[Bibliometric Analysis]]"
+  - "[[Sample Size Determination]]"
   - "[[Knowledge Extent]]"
   - "[[Knowledge Entropy]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[James A. Evans]]"
-related_facts: []
+  - "[[Stasa Milojevic]]"
+related_facts:
+  - "[[OpenAlex]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 > [!def] Cognitive Extent
-> 认知广度（Cognitive Extent, CE）是科学计量学中测度特定学科或研究领域知识疆界与概念空间覆盖范围的量化方法。该方法输入一组文献出版物的标题与摘要文本，通过自然语言处理抽取指代科学构念的核心词汇与名词短语集合，统计独立概念短语的数量随发文规模扩展的幂律关系，或在固定样本量（如 $N = 1,000$ 篇）下计算去重概念总量，输出表征认知领地宽度的数值。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
+> 认知广度（Cognitive Extent, CE）是[[Bibliometric Analysis|科学计量学]]中测度特定学科或研究领域知识疆界与概念空间覆盖范围的量化方法。该方法输入一组[[Document|文献]]出版物的标题与摘要文本，通过自然语言处理抽取指代科学[[Construct|构念]]的核心词汇与名词短语集合，统计独立概念短语的数量随发文规模扩展的幂律关系，或在固定[[Sample Size Determination|样本量]]（如 $N = 1,000$ 篇）下计算去重概念总量，输出表征认知领地宽度的数值。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 测度学科的[[Knowledge Production|知识生产]]探索范围、概念库丰富度与前沿知识概念的累积扩散形态。
 > - **问题类型** 学科演化广度测度、跨学科认知覆盖面比较与前沿概念增量监测。
-> - **分析单位** 细分学科、科研门类或特定技术范式在设定时间窗内的文献集合。
+> - **[[Unit of Analysis|分析单位]]** 细分学科、科研门类或特定技术[[Paradigm|范式]]在设定时间窗内的文献集合。
 > - **输入数据** 包含规范标题、摘要与关键词记录的学术文献文本语料库。
 > - **输出形式** 去重独立短语计数（整数）或幂律增长指数 $\beta$（实数）。
 
 > [!citation-card] 关键定义
 > 学科认知领地宽度的基础度量方式，以给定规模抽样文献批次中包含的独立概念短语总数作为科学构念代理，为控制跨学科样本量规模偏差提供了基准框架。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 >
-> *Cognitive extent, which is a measure of the breadth of a scientific field’s cognitive territory, and is quantified by the number of unique phrases—as a proxy for scientific concepts—found within a sampled batch of papers of a given size.*
+> *Cognitive extent, which is a measure of the breadth of a scientific [[Champ|field]]’s cognitive territory, and is quantified by the number of unique phrases—as a proxy for scientific concepts—found within a sampled batch of papers of a given size.*
 
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 以抽取的自然语言学术短语作为科学概念（Scientific Concepts）的经验代理，能够直观反映学者共同体在词汇表层探索新术语与新议题的活跃程度。
+> - **[[Construct Validity|构念效度]]** 以抽取的自然语言学术短语作为科学概念（Scientific Concepts）的经验代理，能够直观反映学者共同体在词汇表层探索新术语与新议题的活跃程度。
 > - **研究者判断** 短语抽取的词频过滤门槛（如最小出现频次）、词干还原（Stemming）与同义词合并规则，以及对比时抽样批次规模 $N$ 的设定。
 > - **有效性标准** 需控制总体发文规模膨胀对词汇数量的机械抬升效应，通过固定样本规模重抽样或拟合增长指数确保跨群体可比。
 > - **不声称回答的问题** 词汇层面的丰富度受限于自然语言的多义性与同义替换，无法完全捕捉深层概念之间复杂的非线性几何关联。
@@ -67,8 +81,8 @@ updated: 2026-11-08
 > - **变体与扩展** 结合词嵌入语义相似度的连续向量空间扩展版本，即[[Knowledge Extent|知识广度]]（Knowledge Extent）。
 
 > [!dev-timeline] 方法演变
-> - **2015 — 原初指标提出** 斯塔莎·米洛耶维奇（Staša Milojević）在《信息计量学杂志》（Journal of Informetrics）发表经典研究，形式化提出认知广度概念，证实多数学科的认知领地扩张遵循亚线性幂律，揭示了科学知识生产的认知承载约束。
-> - **2026 — 抽样控制与几何对比** 郝钱跃（Qianyue Hao）等将米洛耶维奇的认知广度抽样控制思想（1,000 篇批次重复 1,000 次）引入连续嵌入向量测度，与几何广度及知识熵并列，奠定了现代科学学评估学科视野宽度的经验基准。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
+> - **2015 — 原初指标提出** [[Stasa Milojevic|斯塔莎·米洛耶维奇]]（Staša Milojević）在《信息计量学杂志》（Journal of Informetrics）发表经典研究，形式化提出认知广度概念，证实多数学科的认知领地扩张遵循亚线性幂律，揭示了科学知识生产的认知承载约束。
+> - **2026 — 抽样控制与几何对比** 郝钱跃（Qianyue Hao）等将米洛耶维奇的认知广度抽样控制思想（1,000 篇批次重复 1,000 次）引入连续嵌入向量测度，与几何广度及[[Knowledge Entropy|知识熵]]并列，奠定了现代科学学评估学科视野宽度的经验基准。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 
 ---
 
@@ -83,12 +97,12 @@ updated: 2026-11-08
 > - $\alpha$：初始词汇丰富度缩放参数。
 > - $\beta$：希普斯幂律增长指数（通常 $0 < \beta < 1$），表征新概念涌现的边际速率。
 >
-> **数学直觉** 随着文献数量递增，常见核心概念被反复提及，新概念短语的涌现速度呈现边际递减规律（$\beta < 1$）。若某领域 $\beta$ 显著偏低，表明该领域虽发文数量增加，但词汇概念高度固化停滞；而在固定样本规模 $N$ 下直接比较 $V(N)$，则可消除发文体量带来的统计伪影。
+> **数学直觉** 随着文献数量递增，常见核心概念被反复提及，新概念短语的[[Emergence|涌现]]速度呈现边际递减规律（$\beta < 1$）。若某领域 $\beta$ 显著偏低，表明该领域虽发文数量增加，但词汇概念高度固化停滞；而在固定样本规模 $N$ 下直接比较 $V(N)$，则可消除发文体量带来的统计伪影。
 >
 > > [!example]- 手算示例
 > > 对某领域抽取固定规模 $N = 1,000$ 篇文献批次。
-> > 自然语言处理流水线共识别出 15,000 个概念短语候选，经去重与词形归一化后，保留独立概念短语 $V(1000) = 4,200$ 个。
-> > 对对照领域抽取相同规模 $N = 1,000$ 篇文献，去重独立概念短语仅为 $V(1000) = 2,800$ 个。
+> > 自然语言处理流水线共识别出 15,000 个概念短语候选，经去重与词形归一化后，保留独立概念短语 $V(N=1000) = 4,200$ 个。
+> > 对对照领域抽取相同规模 $N = 1,000$ 篇文献，去重独立概念短语仅为 $V(N=1000) = 2,800$ 个。
 > > 结果表明基准领域具有高出 50% 的概念认知广度，词汇探索空间更为开阔。
 >
 > > [!formula-reading] 结果解读与注意事项
@@ -99,7 +113,7 @@ updated: 2026-11-08
 > > | 注意 | 样本规模平衡 | 绝不能在样本量差异悬殊的总体之间直接比对绝对词汇数，必须使用等量抽样批次。 |
 
 > [!software-impl] 软件实现
-> - **数据来源** OpenAlex、PubMed 或 Web of Science 导出的纯文本元数据（标题与摘要）。
+> - **数据来源** [[OpenAlex]]、PubMed 或 [[Web of Science]] 导出的纯文本元数据（标题与摘要）。
 > - **核心包或命令** Python 环境采用 `spacy` 或 `nltk` 提取候选名词短语（Noun Phrases），配合 `scikit-learn` 的 `CountVectorizer` 统计词表。
 > - **实现流程** 对文本进行分词与词性标注；抽取符合“形容词+名词”或名词串的实体短语；统计唯一样本词汇量并拟合幂律曲线。
 > - **报告标准** 明确报告分词工具、停用词表来源、词形还原规则与批次抽样重复次数。
@@ -155,7 +169,7 @@ updated: 2026-11-08
 ---
 
 > [!method-limits] 方法局限
-> - **符号离散局限** 词汇计数将近义词（如 "AI" 与 "artificial intelligence"）视作独立概念，容易高估表面词汇繁荣而无法反映真实语义重叠。
+> - **符号离散局限** 词汇计数将近义词（如 "AI" 与 "[[Generative Artificial Intelligence|artificial intelligence]]"）视作独立概念，容易高估表面词汇繁荣而无法反映真实语义重叠。
 > - **语境脱离** 仅统计短语出现，无法识别词汇在不同语境下的多义性变化。
 > - **补救方式** 结合密集语义嵌入模型，将离散符号测度升级为连续几何空间的[[Knowledge Extent|知识广度]]（Knowledge Extent）测度。
 

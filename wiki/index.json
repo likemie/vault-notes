@@ -25696,6 +25696,18 @@
     ]
   },
   {
+    "title": "Cognitive Extent",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cognitive Extent.md",
+    "aliases": [
+      "认知广度",
+      "认知疆界",
+      "认知领地",
+      "cognitive extent of science",
+      "CE"
+    ]
+  },
+  {
     "title": "Cohort Study",
     "type": "method",
     "path": "wiki/methods/quantitative/Cohort Study.md",
@@ -26589,6 +26601,17 @@
       "Kaiser-Meyer-Olkin",
       "KMO and Bartlett's Test",
       "Bartlett's Test of Sphericity"
+    ]
+  },
+  {
+    "title": "Knowledge Entropy",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Knowledge Entropy.md",
+    "aliases": [
+      "知识熵",
+      "语义多样性熵",
+      "主题分布信息熵",
+      "semantic entropy"
     ]
   },
   {

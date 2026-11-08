@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-01"
-updated: 2026-11-02
+updated: 2026-11-09
 ---
 
 ---
@@ -105,6 +105,7 @@ updated: 2026-11-02
 > - **2017–2021 — 科学学重大理论实证依托** 萨蒂亚姆·穆克吉等基于 WoS 涵盖的 **2,800 万篇**跨学科文献，证实融合前沿探索与深厚经典的[[Knowledge Hotspots|知识热点]]能够提升成果成为顶尖爆款的概率达 2.2 倍；王大顺与巴拉巴西基于该数据库揭示了百年文献指数增长与引文动力学的统一物理规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 162–163)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 199–202)]]
 > - **2018 — 全景科学学实证范式基石** 桑托·福图纳托等在《科学》发表纲领综述，依托 WoS 收录的数千万篇成果绘制全球科学指数级增长曲线（图 1A），并基于近两千万篇跨学科成果实证揭示团队科研对学者独立探索模式的历史性替代。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–4)]]
 > - **2023 — 开放数据湖大规模基准验证** 林子敬（Zijing Lin）等在构建 SciSciNet 开放数据湖时，将 WoS 作为顶级期刊引文计数的外部黄金检验基准；在《自然》、《科学》与 PNAS 成果抽样验证中，SciSciNet 重算引文与 WoS 记录的一致性相关系数达 0.99 以上，证实了引文统计跨数据库的可靠性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **2026 — 人工智能科学学影响的大样本交叉验证** 郝钱跃（Qianyue Hao）等将 WoS 作为 1980 至 2025 年自然科学出版物的基准比对库，与 OpenAlex 交叉验证，证实 AI 工具在扩大学者个人学术产出与声誉的同时，导致科学集体探索广度系统性收缩 4.63%。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1238)]]
 
 ---
 
@@ -186,3 +187,4 @@ updated: 2026-11-02
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]]（亦见 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）— 检视百年文献指数增长律（Unit 01, 07）并依托 2,800 万篇全样本确立知识热点突破架构（Unit 09, pp. 200–202）。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 将 WoS 顶刊引文记录作为外部黄金验证基准，通过跨库抽样比对检验 SciSciNet 重算引文网络的测量一致性（CCC > 0.99）。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将 WoS 定位为科学学全景多源数据体系的中游核心基石，系统剖析其与 Scopus 及 OpenAlex 的多源记录链接规程，并揭示其超过 90% 的英语出版物语种偏误与高昂商业获取壁垒（pp. 341–350）。
+> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 将 WoS 作为自然科学大样本基准库交叉验证，揭示 AI 采纳加速学者个人产出却收窄科学集体关注焦点。
