@@ -9,7 +9,7 @@ aliases:
 summary: "指在开放或不良结构情境中主动识别、界定、重构与提出潜在创造性问题的认知加工过程，是创造过程的前端核心驱动力。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,10 +51,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -134,6 +135,7 @@ updated: 2026-11-03
 > - **1976 — 艺术创造中的问题发现开创** 盖泽尔斯与希克森特米哈伊（Getzels & Csikszentmihalyi, 1976）基于对美术专业学生的长期[[Cohort Study|追踪研究]]，首次将问题发现确立为区别于常规问题解答的独立高阶认知过程。
 > - **1988–1993 — 认知测量与任务[[Paradigm|范式]]拓展** 伦科与奥库达（Runco & Okuda, 1988）开发出显性问题发现测验，证实问题发现与观念评价能够显著提升[[Divergent Thinking|发散思维]]测验的[[Predictive Validity|预测效度]]。
 > - **2020 — 一阶[[Meta-analysis|元分析]]实证整合** 阿卜杜拉等（Abdulla et al., 2020）对 84 项[[Effect Size|效应量]]进行一阶元分析，证实问题发现任务与[[Creativity|创造性]]表现存在中等偏强的显著正相关（$r = 0.35$）。
+> - **2025 — 政策证据利用中的问题界定与方案选择知识二分** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 将问题界定拓展至公共政策与比较治理领域，实证揭示北欧决策者如何将研究知识区分为立足本国体制痛点的“问题界定知识”与外部借用的“解决方案知识”，阐明问题界定在政策合法化中的中枢功能（pp. 535–538）。
 > - **2026 — 创造过程多维[[Meta-meta-analysis|二阶元分析]]确证** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 跨 52 项一阶元分析开展大规模二阶元分析，证实整合问题发现的综合创造过程效应量（$r = 0.27$）显著超越单一发散思维测验，确立其作为[[Creativity Assessment|创造力测量]]核心构件的地位。
 
 ---
@@ -163,5 +165,18 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Creativity]] | 概念 | 上位概念，问题发现构成创造过程最前端的核心认知驱动力。 |
+> | [[Divergent Thinking]] | 概念 | 互补认知成分，问题发现侧重框架重构，发散思维侧重方案生成。 |
+> | [[Problem Solving]] | 概念 | 区别于应对良构任务的常规解题过程。 |
+> | [[Problem-Based Learning]] | 概念 | 实践教学范式，以不良结构任务促进学习者的问题发现与探究能力。 |
+> | [[Policy-Based Evidence-Making]] | 概念 | 政策应用延伸，决策者立足本国体制问题界定策略性筛选外部因果证据。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 跨 52 项一阶[[Meta-analysis|元分析]]实施大规模[[Meta-meta-analysis|二阶元分析]]与[[Meta-regression|元回归]]，确立涵盖问题发现的综合创造过程相较于单一[[Divergent Thinking|发散思维]]测验具有显著更强的效标预测力（pp. 3–8）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证揭示教育决策者将研究区分为诊断本国体制痛点的“问题界定”知识与外部借用的“解决方案”因果证据，阐明问题界定在政策合法化中的中枢功能（pp. 535–538）。

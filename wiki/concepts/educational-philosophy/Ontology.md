@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,10 +55,11 @@ related_arguments:
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -100,6 +101,7 @@ updated: 2026-11-03
 > - **学习者的本体论认知（Ontological Cognition）** 心理认知结构中对知识属性的范畴分类，经历从“知识是绝对客观事实”向“知识是多重视角建构”的本体论转变[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
 > - **具身存在的[[Phenomenology|现象学]]本体论（Embodied Process Ontology）** 现象学与身体哲学强调，人作为“身处世界之身体中的大脑”（brain-in-the-body-in-the-world）处于向生活世界敞开的动态生成过程之中，拒绝被还原为孤立的客体实体或可测量的认知公分母[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–6)]]。
 > - **空间治理与关系共生的开放本体论（Open Ontology of Spatial Governance / [[Tianxia Heuristic|Tianxia]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1704)]] 引入非西方天下观的开放空间本体论。天下本体论将世界视作无外部边界的有机共生整体，将跨国空间治理建构为动态包容、层级与网络并存的演进秩序，超越威斯特伐利亚主权国家实体绝对二分的封闭设定，为理解跨国高等教育区域化与全球知识流动提供了全新的本体基础。
+> - **大写背景的关系性本体论（Relational Ontology of Context）** 比较教育与政策知识社会学确立背景不仅是包含政策实施的外部容器或给定的物理地理疆域（小写 context），更是由政策行动者、知识证据网络与跨国流动话语相互装配并纠缠生成的动态社会实在（大写 Context；Volmari et al., 2025）。
 
 > [!logic-map]- 本体论假设的光谱展开与方法论映射
 > ```mermaid
@@ -170,12 +172,30 @@ updated: 2026-11-03
 > - **2010年代 — 认知心理学转向** 被引入教育心理学与学习科学，剥离出独立的“本体论认知”（Ontological Cognition）维度，揭示学习者关于知识属性分类的[[Domain Specificity\|领域特殊性]]心智演进（[[Argument_Greene_2010_JEP\|Greene et al., 2010]]）。
 > - **当代前沿 — [[Complexity Theory\|复杂性理论]]动态[[Emergence\|涌现]]** 复杂适应系统（[[Chinese Academy of Sciences|CAS]]）彻底解构机械静态实在观，确立实在具有动态生成、自组织临界与非线性共生属性（Kuhn, 2007）。
 > - **2024年 — 非西方开放空间本体论拓展** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 将非西方“天下”哲学引入全球高等教育与[[Knowledge Power|知识权力]]分析，提出超越主权国家领土实体二元对立的开放空间本体论（open spatial ontology），确立多边共生与网络互嵌的全球秩序本体图景。
+> - **2025年 — 比较教育大写背景的关系性本体论确立** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 突破传统将民族国家视作外在固定物理容器的被动实在观，确立制度背景是由政策行动者、知识证据网络与跨国流动话语相互装配与纠缠而动态生成的社会实在（Context；pp. 531, 542–544）。
 
 ---
 
-> [!tension] 核心张力：实在论（Realism）vs [[Nominalism\|唯名论]]（Nominalism）
-> - **实在论阵营（蓝方）** 坚信客体具有独立于知觉者的客观硬质存在，不以人类意志为转移；社会结构与组织是实在的实体，研究应当运用自然科学法则发现其运行通则（p. 115）。
-> - **唯名论阵营（红方）** 坚信所谓概念与范畴仅仅是人类为了指称事物而发明的语言标签；外部世界不存在独立于知觉者的实体，社会现实完全是主体意义赋予与认知建构的产物（p. 115）。
+> [!debates] 学术争议
+>
+> > [!axis] 客观实在论 vs 唯名论与社会建构
+> > 争论社会现实是外在硬性的客观规律，还是主体意义赋予与语言符号的发明物。
+> >
+> > - **客观实在论阵营（Burrell & Morgan, 1979）** 坚信客体具有独立于知觉者的客观存在；社会结构与组织如同自然法则般支配人类行动，应通过受控测量探求运行通则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
+> > - **唯名论与建构论阵营（Greenfield, 1975）** 坚信概念是人类发明的指称标签，不存在独立于知觉者的实体，社会现实完全是主体意义赋予与情境建构的产物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 185)]]
+>
+> > [!axis] 静态物理容器背景观 vs 关系性装配大写背景观
+> > 争论比较教育与政策研究所面对的情境背景是预设的外在物理容器，还是由行动者与网络动态生成的建构实在。
+> >
+> > - **传统小写背景观** 将民族国家和学校体制视为外在于干预措施的给定容器或控制变量。
+> > - **关系性大写背景观（[[Argument_Volmari_2025_CE|Volmari et al., 2025]]）** 论证背景是由政策行动者、证据网络与跨国流动话语相互装配与纠缠而动态生成的社会实在（Context），超越外在物理容器的设想。
+
+> [!tension] 核心张力
+> - **实在论（Realism）** 坚信客体具有独立于知觉者的客观硬质存在，不以人类意志为转移；社会结构与组织是客观实体。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
+> - **唯名论（Nominalism）** 坚信概念与范畴仅是人类指称事物的语言标签；外部世界不存在独立于知觉者的实体，社会现实是主体意义赋予的产物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
+
+> [!warning] 适用局限
+> 本体论假设界定实在的存在范畴与基本属性，不可直接代替认识论探究标准与具体方法论程序；在具体研究设计中，过于执念于抽象本体论对立容易陷入认识论僵局，阻碍跨范式协作与多源经验证据的审议互补。
 
 ---
 
@@ -190,9 +210,23 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Epistemology]] | 概念 | 研究哲学双生基石，本体论决定认识论推导进路。 |
+> | [[Axiology]] | 概念 | 探究哲学价值论基石，规范引导本体论与认识论的价值承诺。 |
+> | [[Paradigm]] | 概念 | 共享本体论公理与认识论范式规则的科学共同体世界观。 |
+> | [[Nominalism]] | 概念 | 主观主义本体论极，主张范畴与实在全赖人类语言与认知建构。 |
+> | [[Emergence]] | 概念 | 复杂系统本体论核心，描述非线性高阶特性的自组织生成。 |
+> | [[Assemblage]] | 概念 | 关系性本体论构型，描述异质实体与网络动态纠缠生成的社会实在。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism\|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm\|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 依托具身认知与[[Phenomenology|现象学]]划分经验[[Epistemology|认识论]]与存在本体论界限，批判将活生生的具身学习降解为标准化量化指标的本体论扁平化（pp. 3–6）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”概念构建开放空间本体论，超越主权国家领土二元对立，为解释跨国高等教育枢纽与知识[[Network Governance|网络治理]]提供全新的本体论支撑（pp. 1703–1705）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 确立比较教育中关系性大写背景（Context）的生成本体论，揭示背景是由政策行动者、知识证据网络与跨国流动话语相互装配与纠缠而生成的动态实在（pp. 531, 542–544）。
 

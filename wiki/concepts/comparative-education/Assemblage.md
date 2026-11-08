@@ -10,10 +10,10 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - social-theory
   - actor-network-theory
@@ -74,10 +74,11 @@ related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -193,6 +194,7 @@ updated: 2026-11-03
 > - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm\|范式]]。
 > - **2018 年 — 联邦多级治理与政策[[Topological Spatialisation\|拓扑学重组]]** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将装配理论与[[Topological Spatialisation\|拓扑空间化]]结合，深入考察德国在 [[PISA]] 震荡后建立的绩效[[Data Infrastructure\|数据基础设施]]与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]，揭示法律条文、统计模型与在线题库构成的社会-物质复合体如何实现跨尺度的政策重组。
 > - **2020 年代至今 — 批判政策社会学与国家-慈善资本共生装配** 政策社会学者将装配拓展至全球教育治理与国家中介研究。拉德希卡·戈鲁尔（Radhika Gorur, 2016）解构 [[PISA]] 测评装配；埃玛·罗威（Emma Rowe, 2022, 2023）提出“无生命客体的装配”（assemblage of inanimate objects）与“国家-慈善资本共生装配”，借助防野狗围栏隐喻与中介实体映射，揭示税法、公司法、闭门竞标与专家委员会如何装配成掩盖跨国[[Venture Philanthropy\|风险慈善]]掠夺公共资源与重构[[Knowledge Production\|知识生产]]的隐蔽权力机器。
+> - **2025 年 — 比较教育大写背景的动态装配理论化** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 突破传统将民族国家视作外在固定容器的小写背景观，将背景理论化为由政策行动者、知识证据网络与跨国流动话语相互装配与纠缠而动态生成的社会实在（Context；pp. 531, 542–544）。
 
 ---
 
@@ -232,9 +234,22 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Actor-Network Theory]] | 理论 | 方法论哲学母体，提供对称性与异质行动者网络基础。 |
+> | [[Ontology]] | 概念 | 关系性本体论构型，解构静态实体与封闭系统假设。 |
+> | [[Relational Space]] | 概念 | 空间理论基础，阐述拓扑关系网络对欧几里得地理空间的超越。 |
+> | [[Policy Network]] | 概念 | 政策研究延伸，分析公私资本与专家网络在制度中的隐蔽装配。 |
+> | [[Data Infrastructure]] | 概念 | 现代治理技术构件，作为耐用材料实现远处规制与跨尺度折叠。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合装配理论与[[Topological Spatialisation\|拓扑空间化]]，深入剖析德国国家教育监测基础设施与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]如何实现跨尺度的政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 提出无生命客体的政策装配框架，运用防野狗围栏隐喻解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 背后的企业法注册基础、跨国[[Venture Philanthropy\|风险慈善]]网络与特许商业分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 将装配视角推进至国家与[[Philanthrocapitalism\|慈善资本主义]]的共生关系，揭示权力作为隐蔽装配效应如何依托税法修正案（[[Deductible Gift Recipient\|DGR1]]）、定向闭门采购与双重申报架构重塑公共教育交换规则。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] — 将教育治理视作空间、行动者、政策与权力的异质组装，以瑞典学校督察局为工具性个案，阐明文本化规程、具身经验与践行斡旋如何共同支撑起证据本位治理大厦。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用装配与 [[Actor-Network Theory\|ANT]] 分析阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目，证明跨国技术资本权力如何绕过国家宏观法律直接部署在课堂微观装配中。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国基础教育改革，将比较教育中的大写背景（Context）理论化为政策行动者、知识证据网络与跨国流动话语相互装配与纠缠生成的动态构型（pp. 531, 542–544）。

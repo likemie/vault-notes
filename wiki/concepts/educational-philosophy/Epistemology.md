@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 113
+related_count: 114
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -136,11 +136,12 @@ related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -302,6 +303,7 @@ updated: 2026-11-03
 > - **2009年 — 跨国比较治理与评价认识论的效用转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）阐明，经济合作与发展组织（OECD）的[[PISA]]测评确立了脱离国家具体课程、以应对未来生活挑战为核心的新型评价认识论，将有效知识判准界定为跨学科通用胜任力与[[Self-Efficacy|自我效能感]]等非认知自我规制倾向，为[[European Education Space|欧洲教育空间]]的量化治理提供了认识论基础（pp. 26–27, 35）。
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
 > - **2024年 — 非西方关系认识论拓展与全球治理知识反思** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 依托“天下”本体与认识论框架（[[Tianxia Heuristic|Tianxia heuristic]]），提出突破主客二元对立与西方中心主义的非西方关系性认识论，论证全球知识体系中的等级制秩序与多中心网络化赋权能够在关系共生中并存，拓展了比较教育与全球[[Epistemic Governance|知识治理]]的认识论视域。
+> - **2025年 — 证据与背景共生的关系性认识论** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 批判将民族国家背景视为外在静态物理容器的实证主义认识论假设，提出证据与大写背景（Context）在政策行动者、知识网络与跨国流动中动态共生的关系性认识论（Relational Epistemology；pp. 531, 542–544）。
 > - **2020s — [[Output-Oriented Governance|循证治理]]中“当前知识状态”的认识论批判** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 结合发生认识论与知识社会学，解构了国家督导机构将学术研究冻结为静态审计标准的认识论假设，确立了教育知识流变性与一线践行智慧的情境价值（pp. 654–655）。
 > - **2026年 — 超国家政策[[Discourse|话语]]中的认识论等级与认知正义转向** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 剖析国际组织官方文本如何借助修辞隐喻建构崇尚量化实证的认识论特权，提出破除治理责任个体化并重塑保障本土[[Phronesis|实践智慧]]与边缘群体发声权的认识论正义（pp. 340, 347–351）。
 
@@ -373,6 +375,7 @@ updated: 2026-11-03
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 将认识论视角拓展至公共政策与比较治理领域，实证揭示国家决策层对“证据本位”的认识论追求如何构成偏向实证强国的政策学习机会结构，阐明认识论取向对跨国政策转移与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制（pp. 344–345）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”认识论启发框架（[[Tianxia Heuristic|Tianxia heuristic]]），以关系性思维解构全球[[Knowledge Power|知识权力]]结构，揭示等级制集中与多边平权网络并存的跨国高等教育治理图景（pp. 1703–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 结合[[Jean Piaget|让·皮亚杰]]发生认识论与[[Basil Bernstein|伯恩斯坦]]知识社会学，解构国家学校督察局将学术研究固化为“当前知识状态”与静态审计标准的官僚认识论幻觉（pp. 654–655）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 解构传统比较教育将国家情境视作外部物理容器的认识论预设，确立证据与制度背景共生生成的动态关系性认识论（pp. 531, 542–544）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
 
