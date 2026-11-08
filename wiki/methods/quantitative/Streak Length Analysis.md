@@ -10,6 +10,11 @@ aliases:
 summary: "时间序列与序列统计中用于检验离散二元产出序列是否偏离独立随机假设的非参数方法族；通过统计游程数、比较观测游程分布与伯努利独立零模型的理论预期，诊断序列中是否存在异常成簇（正自相关）或过度交替（负自相关）；在体育竞技热手论争与科学学学术爆发期研究中均为核心检验工具。"
 type: method
 method_type: quantitative
+method_family: "quantitative"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
 tags:

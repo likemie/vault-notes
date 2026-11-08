@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 
 ---
@@ -70,6 +70,7 @@ updated: 2026-11-02
 > - **2008 — *Electronic Publication and the Narrowing of Science and Scholarship* (*Science*)** 揭示学术数字化出版并未扩大参考[[Document|文献]]广度，反而通过算法超链接加剧了引文向少数顶尖文献集聚的窄化倾向。
 > - **2019 — *Large teams develop and small teams disrupt science and technology* (*Nature*)** 跨越科学论著、专利与开源代码多领域，揭示团队规模与科研成果颠覆性的单调负向关联。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 > - **2021 — *Attention and the growth of scientific ideas* (*Nature Human Behaviour*)** 形式化建模注意力瓶颈对科学思想传播与遗忘的调节动力学。
+> - **2026 — *Artificial intelligence tools expand scientists’ impact but contract science’s focus* (*Nature*)** 跨越自然科学多领域实证揭示人工智能工具加剧个体科研生产力与集体科学探索广度的结构性张力，加速学者生涯晋升的同时导致科学知识广度收缩。[[Argument_Hao_2026_Nature|(Hao et al., 2026)]]
 
 ---
 
@@ -87,6 +88,7 @@ updated: 2026-11-02
 > - **政策路径** 其关于小团队颠覆性优势与引文过度同质化风险的实证发现，引发全球科技基金与学术出版机构对评审机制与搜索算法的系统性反思。
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 4,130 万篇自然科学论文揭示人工智能工具扩大科学家个体学术影响却收缩科学集体关注焦点，导致知识广度收缩 4.63% 并减少 22% 的后续学术交流（pp. 1237–1243）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 深度征引埃文斯关于小团队颠覆规律的封面实证研究，探讨科技资助对大团队过度倾斜的潜在风险（pp. 128–133）。
 
 ---

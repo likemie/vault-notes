@@ -7,7 +7,7 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,6 +55,7 @@ related_persons:
   - "[[Chris Brown]]"
   - "[[Toby Greany]]"
   - "[[Nancy Cartwright]]"
+  - "[[David Hargreaves]]"
 related_facts:
   - "[[Research Learning Communities]]"
   - "[[Department for Education]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-08
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **2005 — 实践转移失败与 JPD 雏形奠定** 迈克尔·菲尔丁（Michael Fielding）等学者受[[Department for Education|英国教育部]]委托完成专项研究，发表报告《影响良好实践转移的因素》（*Factors Influencing the Transfer of Good Practice*），首次正式提出“联合实践发展”（JPD）概念，严厉批评新工党政府推行的机械式“优秀实践转移”政策，奠定情境共创[[Paradigm\|范式]]。
-> - **2010–2012 — 成为英格兰国家领导力战略核心范式** 英国著名教育学者戴维·哈格里夫斯（David Hargreaves）在论述“[[Self-Improving School System\|自我改进学校系统]]”（SISS）时将 JPD 确立为校际协作成熟度的标志；朱迪·塞巴（Judy Sebba）等学者（2012）为英格兰国家[[School Leadership\|学校领导力]]学院（NCSL）撰写《强大专业学习：学校领导者联合实践发展指南》，使 JPD 成为[[Teaching Schools\|教学学校联盟]]（TSAs）与卓越校建设的法定指南。
+> - **2010–2012 — 成为英格兰国家领导力战略核心范式** 英国教育学者[[David Hargreaves|戴维·哈格里夫斯]]（David Hargreaves）在论述“[[Self-Improving School System\|自我改进学校系统]]”（SISS）时将 JPD 确立为校际协作成熟度的标志；朱迪·塞巴（Judy Sebba）等学者（2012）为英格兰国家[[School Leadership\|学校领导力]]学院（NCSL）撰写《强大专业学习：学校领导者联合实践发展指南》，使 JPD 成为[[Teaching Schools\|教学学校联盟]]（TSAs）与卓越校建设的法定指南。
 > - **2014–2018 — 证据知情学校与微观课堂转译整合** [[Chris Brown\|克里斯·布朗]]（Chris Brown）与[[Toby Greany\|托比·格里尼]]（Toby Greany）通过“[[Research Learning Communities\|研究学习共同体]]”（RLC）项目，将 JPD、[[Lesson Study\|课例研究]]与[[School Enquiry Cycle\|学校探究循环]]深度熔铸，确立 JPD 为一线学校实现研究证据微观转译、规避[[Activity Traps\|活动陷阱]]的[[Operationalization\|操作化]]中枢（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 
 ---

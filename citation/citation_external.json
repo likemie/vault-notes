@@ -15595,6 +15595,8 @@
     "Marton, 1981": "Marton, 1981",
     "Martyn Hammersley & Paul Atkinson (1983)": "Martyn Hammersley & Paul Atkinson, 1983",
     "Martyn Hammersley & Paul Atkinson, 1983": "Martyn Hammersley & Paul Atkinson, 1983",
+    "Martyn Hammersley (1997)": "Martyn Hammersley, 1997",
+    "Martyn Hammersley, 1997": "Martyn Hammersley, 1997",
     "Martyn Rademakers (2014)": "Martyn Rademakers, 2014",
     "Martyn Rademakers, 2014": "Martyn Rademakers, 2014",
     "Martínez et al. (2019)": "Martínez et al., 2019",
@@ -140929,6 +140931,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Reflexivity.md"
+      ],
+      "title": ""
+    },
+    "Martyn Hammersley, 1997": {
+      "aliases": [
+        "Martyn Hammersley, 1997",
+        "Martyn Hammersley (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Martyn Hammersley, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/David Hargreaves.md"
       ],
       "title": ""
     },

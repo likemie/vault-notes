@@ -26547,6 +26547,18 @@
     ]
   },
   {
+    "title": "Knowledge Extent",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Knowledge Extent.md",
+    "aliases": [
+      "知识广度",
+      "知识跨度",
+      "知识范围",
+      "知识向量空间跨度",
+      "KE"
+    ]
+  },
+  {
     "title": "Leave-One-Out Sensitivity Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Leave-One-Out Sensitivity Analysis.md",
@@ -27667,6 +27679,19 @@
       "stratified random sampling",
       "随机分层抽样",
       "stratified sample"
+    ]
+  },
+  {
+    "title": "Streak Length Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Streak Length Analysis.md",
+    "aliases": [
+      "游程长度分析",
+      "连胜长度分析",
+      "游程检验",
+      "Run Length Test",
+      "Wald-Wolfowitz Runs Test",
+      "瓦尔德-沃尔夫维茨游程检验"
     ]
   },
   {
@@ -31188,6 +31213,19 @@
     "aliases": [
       "戴维·高夫",
       "D. Gough"
+    ]
+  },
+  {
+    "title": "David Hargreaves",
+    "type": "person",
+    "path": "wiki/persons/uk/David Hargreaves.md",
+    "aliases": [
+      "David H. Hargreaves",
+      "Sir David Hargreaves",
+      "戴维·哈格里夫斯",
+      "大卫·哈格里夫斯",
+      "Hargreaves, D. H.",
+      "Hargreaves, D."
     ]
   },
   {
@@ -49374,6 +49412,11 @@
     "title": "Argument_Logar_2014_Minerva",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
+  },
+  {
+    "title": "Argument_Hao_2026_Nature",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md"
   },
   {
     "title": "Argument_Liu_2018_Nature",

@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -111,6 +111,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Elizabeth Farley-Ripple]]"
   - "[[Pasi Sahlberg]]"
+  - "[[David Hargreaves]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -139,7 +140,7 @@ updated: 2026-11-08
 ---
 
 > [!question]
-> 二十年来，全球教育系统普遍将基于研究证据改进学校实践确立为核心政策目标，然而多项国际大规模测验，如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）主办的[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）数据显示学生[[Academic Achievement|学业表现]]在多个领域持续下滑，并未因连绵不断的循证改革而实现实质突破（OECD, 2023; Perry & Morris, 2023; Sahlberg, 2023）。这一追求可追溯至 1996 年戴维·哈格里夫斯（David Hargreaves）在伦敦[[Teacher Training Agency|教师培训署]]（Teacher Training Agency）的演说，由此引发关于教学究竟应定性为经验技艺还是实证研究本位专业的广泛争论。随后[[Effective Teaching|有效教学]]（What Works）运动全面兴起：[[Argument_Slavin_2002_ER|Slavin (2002)]]力倡采用[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）检验教学法；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》将[[Effect Size|效应量]]转化为通用专业[[Discourse|话语]]；美国有效教学信息交换所（[[What Works Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）作为官方[[Educational Brokerage Agency|证据中介机构]]建立，以系统评估证据质量并推动干预扩散。
+> 二十年来，全球教育系统普遍将基于研究证据改进学校实践确立为核心政策目标，然而多项国际大规模测验，如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）主办的[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）数据显示学生[[Academic Achievement|学业表现]]在多个领域持续下滑，并未因连绵不断的循证改革而实现实质突破（OECD, 2023; Perry & Morris, 2023; Sahlberg, 2023）。这一追求可追溯至 1996 年[[David Hargreaves|戴维·哈格里夫斯]]（David Hargreaves）在伦敦[[Teacher Training Agency|教师培训署]]（Teacher Training Agency）的演说，由此引发关于教学究竟应定性为经验技艺还是实证研究本位专业的广泛争论。随后[[Effective Teaching|有效教学]]（What Works）运动全面兴起：[[Argument_Slavin_2002_ER|Slavin (2002)]]力倡采用[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）检验教学法；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》将[[Effect Size|效应量]]转化为通用专业[[Discourse|话语]]；美国有效教学信息交换所（[[What Works Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）作为官方[[Educational Brokerage Agency|证据中介机构]]建立，以系统评估证据质量并推动干预扩散。
 >
 > 随着实践推进，识别并发布有效干预即能自发促成学校变革的简单线性假设遭遇严峻挫折。在[[New Public Management|新公共管理]]（New Public Management, NPM）与[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）的数据驱动问责挤压下，标准化推行循证实践极易退化为形式主义的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]（Weiss, 1979）：新概念与外部指令仅仅作为浅层符号叠加在传统教学思维之上。OECD 旗下的[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）于 2021 年启动强化教育研究影响项目，呼吁研究治理必须从机械的证据中介传递转向多边平等的专业深度参与，并指出深思熟虑的专业参与唯有在高度信任的制度生态中方能扎根（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; Révai & Mouthaan, 2023）。然而，既有[[Systematic Review|系统综述]]普遍停留于机械罗列障碍与促成因素的静态清单，未能解释学校真实发生深思熟虑参与的具体机理，亦未能洞察障碍为何历经数十年改革依然顽固存在。
 >
