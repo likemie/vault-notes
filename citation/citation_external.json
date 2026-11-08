@@ -8578,10 +8578,12 @@
     "Gardella et al. (2017)": "Gardella et al., 2017",
     "Gardella et al., 2017": "Gardella et al., 2017",
     "Gardner (1978)": "Gardner, 1978",
+    "Gardner (1983)": "Gardner, 1983",
     "Gardner (1993)": "Gardner, 1993",
     "Gardner (1998)": "Gardner, 1998",
     "Gardner (2003)": "Gardner, 2003",
     "Gardner, 1978": "Gardner, 1978",
+    "Gardner, 1983": "Gardner, 1983",
     "Gardner, 1993": "Gardner, 1993",
     "Gardner, 1998": "Gardner, 1998",
     "Gardner, 2003": "Gardner, 2003",
@@ -24015,6 +24017,8 @@
     "Tomkinson, 2004": "Tomkinson, 2004",
     "Tomlin (1995)": "Tomlin, 1995",
     "Tomlin, 1995": "Tomlin, 1995",
+    "Tomlinson (2001)": "Tomlinson, 2001",
+    "Tomlinson, 2001": "Tomlinson, 2001",
     "Tompkins-Stange (2016)": "Tompkins-Stange, 2016",
     "Tompkins-Stange, 2016": "Tompkins-Stange, 2016",
     "Tonetti et al. (2015)": "Tonetti et al., 2015",
@@ -26923,8 +26927,10 @@
     "临床医疗, 2025": "临床医疗, 2025",
     "丹麦 (2000)": "丹麦, 2000",
     "丹麦 (2011)": "丹麦, 2011",
+    "丹麦 (2014)": "丹麦, 2014",
     "丹麦, 2000": "丹麦, 2000",
     "丹麦, 2011": "丹麦, 2011",
+    "丹麦, 2014": "丹麦, 2014",
     "为入口 (2009)": "为入口, 2009",
     "为入口, 2009": "为入口, 2009",
     "九州 (1911)": "九州, 1911",
@@ -27201,7 +27207,9 @@
     "拉森 (2019)": "拉森, 2019",
     "拉森, 2019": "拉森, 2019",
     "挪威 (2005)": "挪威, 2005",
+    "挪威 (2020)": "挪威, 2020",
     "挪威, 2005": "挪威, 2005",
+    "挪威, 2020": "挪威, 2020",
     "提出 (1979)": "提出, 1979",
     "提出, 1979": "提出, 1979",
     "改革规划 (2007)": "改革规划, 2007",
@@ -27453,6 +27461,8 @@
     "舒茨 (1967)": "舒茨, 1967",
     "舒茨, 1962": "舒茨, 1962",
     "舒茨, 1967": "舒茨, 1967",
+    "芬兰 (2014)": "芬兰, 2014",
+    "芬兰, 2014": "芬兰, 2014",
     "苏罗威基 (2005)": "苏罗威基, 2005",
     "苏罗威基, 2005": "苏罗威基, 2005",
     "范德海登 (2011)": "范德海登, 2011",
@@ -90157,6 +90167,21 @@
       ],
       "title": ""
     },
+    "Gardner, 1983": {
+      "aliases": [
+        "Gardner, 1983",
+        "Gardner (1983)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gardner, 1983"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+      ],
+      "title": ""
+    },
     "Gardner, 1993": {
       "aliases": [
         "Gardner, 1993",
@@ -103164,7 +103189,7 @@
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
         "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
-        "wiki/concepts/research-methodology/Ecological Validity.md"
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
       ],
       "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
     },
@@ -158175,6 +158200,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
       "title": ""
@@ -178383,6 +178409,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/educational-psychology/Self-Determination Theory.md"
       ],
       "title": ""
@@ -189894,7 +189921,9 @@
         "Slavin, 1987"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+      ],
       "title": "Ability grouping and student achievement in elementary schools: A best-evidence synthesis."
     },
     "Slavin, 1987b": {
@@ -197763,6 +197792,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
       ],
       "title": ""
@@ -202268,6 +202298,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A mentor program for improving the academic attainment of black adolescent males"
+    },
+    "Tomlinson, 2001": {
+      "aliases": [
+        "Tomlinson, 2001",
+        "Tomlinson (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tomlinson, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+      ],
+      "title": ""
     },
     "Tompkins-Stange, 2016": {
       "aliases": [
@@ -208739,6 +208784,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md",
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/concepts/learning-science-cognitive-science/Zone of Proximal Development.md",
         "wiki/theories/educational-philosophy/Third Generation Activity Theory.md"
       ],
@@ -222889,6 +222935,21 @@
       ],
       "title": ""
     },
+    "丹麦, 2014": {
+      "aliases": [
+        "丹麦, 2014",
+        "丹麦 (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "丹麦, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+      ],
+      "title": ""
+    },
     "为入口, 2009": {
       "aliases": [
         "为入口, 2009",
@@ -224986,6 +225047,21 @@
       ],
       "title": ""
     },
+    "挪威, 2020": {
+      "aliases": [
+        "挪威, 2020",
+        "挪威 (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "挪威, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Evaluation Research.md"
+      ],
+      "title": ""
+    },
     "提出, 1979": {
       "aliases": [
         "提出, 1979",
@@ -226858,6 +226934,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
+      ],
+      "title": ""
+    },
+    "芬兰, 2014": {
+      "aliases": [
+        "芬兰, 2014",
+        "芬兰 (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "芬兰, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
       ],
       "title": ""
     },

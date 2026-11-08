@@ -37640,6 +37640,14 @@
       ],
       "title": ""
     },
+    "Gardner, 1983": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+      ],
+      "title": ""
+    },
     "Gardner, 1993": {
       "doi": "",
       "isbn": "",
@@ -45508,8 +45516,8 @@
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
         "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
-        "wiki/concepts/research-methodology/Ecological Validity.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md"
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
+        "wiki/concepts/research-methodology/Ecological Validity.md"
       ],
       "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
     },
@@ -78842,6 +78850,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
       "title": ""
@@ -90983,6 +90992,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/educational-psychology/Self-Determination Theory.md"
       ],
       "title": ""
@@ -97943,7 +97953,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+      ],
       "title": "Ability grouping and student achievement in elementary schools: A best-evidence synthesis."
     },
     "Slavin, 1987a": {
@@ -102746,6 +102758,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md"
       ],
       "title": ""
@@ -105483,6 +105496,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A mentor program for improving the academic attainment of black adolescent males"
+    },
+    "Tomlinson, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+      ],
+      "title": ""
     },
     "Tompkins-Stange, 2016": {
       "doi": "",
@@ -109446,6 +109467,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md",
+        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/concepts/learning-science-cognitive-science/Zone of Proximal Development.md",
         "wiki/theories/educational-philosophy/Third Generation Activity Theory.md"
       ],
@@ -118125,6 +118147,14 @@
       ],
       "title": ""
     },
+    "丹麦, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+      ],
+      "title": ""
+    },
     "为入口, 2009": {
       "doi": "",
       "isbn": "",
@@ -119270,6 +119300,14 @@
       ],
       "title": ""
     },
+    "挪威, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Evaluation Research.md"
+      ],
+      "title": ""
+    },
     "提出, 1979": {
       "doi": "",
       "isbn": "",
@@ -120274,6 +120312,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
+      ],
+      "title": ""
+    },
+    "芬兰, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
       ],
       "title": ""
     },

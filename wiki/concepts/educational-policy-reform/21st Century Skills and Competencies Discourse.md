@@ -108,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -120,6 +120,11 @@ updated: 2026-11-03
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
 > - **用途** 揭示全球教育政策趋同的修辞动力，批判以经济生产力与[[Human Capital Theory|人力资本]]为单一维度的工具主义教育观，并诊断高阶通用素养在政策宏观倡导与微观学业评价之间的制度断裂。
 > - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / [[Generic Skills]]）；但若脱离具体学科知识脉络、实体制造公地与实证探究载体，极易沦为抽象口号与技能空心化。
+
+> [!citation-card|notitle] 关键表述
+> 核心素养话语作为去情境化的漂浮能指在全球政策空间流通，使立场迥异的行动者能够达成表面共识；当其降落至国家课程改革时，主要充当向公众证明改革前沿性与合法性的政治背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]; [[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
+>
+> *The discourse of 21st-century skills functions as a decontextualized floating signifier in global policy space, enabling diverse actors to achieve superficial consensus and serving primarily as a political legitimation device in national reforms.*
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Graduate Attributes|毕业生特质]]** —— SCD 运作于全球与国家政策话语层，界定哪些通用能力具有市场合法性；毕业生特质则是高等院校对这些技能的制度化转译与课程操作，兼顾学术传承与公民责任。[[Argument_Wong_2022_HERD|(Wong et al., 2022, p. 1341)]]
@@ -161,6 +166,9 @@ updated: 2026-11-03
 
 > [!claim] Beech; Zelinka
 > **抽象化与权威光环促成强制同质化** 能力[[Discourse|话语]]的可塑性使其能适应不同国家的文化与意识形态包装，而其稳定性的权威光环使其成为不可质疑的现代化政策象征；话语越空泛，能填充的语境越多，进而促成了全球范围内的强制同质化。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]
+
+> [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
+> **跨国素养话语对本土改革的政治合法化功能** 丹麦、芬兰与挪威学校改革经验表明，尽管三国在证据采信机制、委员会设置与学术引证率上分歧巨大，且均强调改革植根于独特国情，但在核心课程重构上，三国均全面吸纳了经合组织关于 21 世纪技能与核心素养的话语框架。各国专家工作组均赴经合组织总部考察并将能力话语嵌入总纲，国际技能话语主要充当向公众证明改革前沿性与必要性的政治合法化工具。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
 
 ---
 
@@ -213,7 +221,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **漂浮能指** | 概念抽象化促成全球政策同质化趋同 | [[Global Policy Space\|全球政策空间]]、跨国组织议程分析 | [[Jason Beech\|Beech (2009a)]]; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] |
+> | **漂浮能指** | 概念抽象化促成全球政策同质化趋同并充当改革的政治背书 | [[Global Policy Space\|全球政策空间]]、跨国组织议程分析、北欧课程改革比较 | [[Jason Beech\|Beech (2009a)]]; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] |
 > | **认识论扎根** | 批判抽象技能清单，倡导学科大概念与实证探究融合 | K-12 科学课程设计、跨学科素养整合 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
 > | **自我企业家** | 将结构性经济风险转化为个体自我责任化与灵活素养规训 | 劳动力政策、主体性社会学分析、欧盟里斯本战略批判 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 260)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 > | **课堂教学效能** | 合作学习是培养 21 世纪高阶复合素养的强效载体 | 课堂教学法改革、高阶思维培养干预 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
@@ -286,7 +294,21 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Floating Signifier]] | 概念 | 漂浮能指，21 世纪技能话语以此机制在跨国政策空间调动表面共识。 |
+> | [[Context in Comparative Education]] | 概念 | 关系性背景观揭示本土改革如何依托吸收全球技能话语重构国家大写背景。 |
+> | [[Global Policy Space]] | 概念 | 全球政策空间，多边组织生产与扩散核心素养话语的去疆界化场所。 |
+> | [[Employability]] | 概念 | 就业能力，21 世纪技能话语界定的核心功利性目标与人力资本产出。 |
+> | [[Self-Entrepreneur]] | 概念 | 自我企业家，技能话语建构的对自身终身发展负全责的理想主体。 |
+> | [[Discourse]] | 概念 | 话语理论，提供解构技能修辞背后权力规训与主体建构的分析范式。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国学校改革，实证揭示经合组织 21 世纪技能与核心素养话语在差异化国家体制中如何被用作政治合法化背书。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策机制与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性规训与被边缘化的全人素养。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的转译断裂与概念混乱。

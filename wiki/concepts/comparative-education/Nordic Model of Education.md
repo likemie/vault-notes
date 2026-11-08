@@ -8,10 +8,10 @@ aliases:
 summary: "北欧福利国家公共教育范式，以民主、团结、社会公平与全纳基础教育为核心原则；在全球化与循证治理冲击下，既展现出文化语言上的防御韧性，又在证据采信与改革机制上呈现显著的国别分化与隐秘跨国趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept
   - comparative-education
