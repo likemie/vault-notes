@@ -564,5 +564,15 @@
       "sentence": "*By consequence, adoption of AI in science presents what seems to be a paradox: an expansion of individual scientists’ impact but a contraction in collective science’s reach, as AI-augmented work moves collectively towards areas richest in data.",
       "target": "wiki/facts/uk/Reach.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md": [
+    {
+      "sentence": "**逆向还原问题建构** 通过审视芬兰政府出资设立微专业培训、修改职业教育法规及扶持出口企业等具体干预方案，逆向还原政策制定者预先设定的公立教育缺乏商业能力这一问题表征，揭示国家权力如何借助看似技术性的改革重塑公共教育的边界与宗旨。",
+      "target": "wiki/concepts/competency-and-assessment/Problem Finding.md"
+    },
+    {
+      "sentence": "采纳巴奇（Bacchi, 2009）的问题表征分析框架（WPR），针对政策实践文本提炼的干预措施展开逆向解码，识别政策建构的核心假定、概念二元对立与沉默维度。",
+      "target": "wiki/concepts/educational-philosophy/Decodification.md"
+    }
   ]
 }

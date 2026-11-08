@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -186,6 +186,7 @@ updated: 2026-11-03
 > - **2007–2008 年 — 内生与[[Exogenous Privatisation|外生私有化]]双维框架提出** 鲍尔与尤德尔在为[[International Education|国际教育]]组织（[[Education International]]）撰写的报告中，正式界定“在公立体系内部（in）”与“针对公立体系（of）”的私有化形态分类。
 > - **2016 年 — 政策制定权私有化与双层法人实证深化** [[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）以新西兰为个案，揭示[[Charter Schools|特许学校]]推行过程中跨界非正式精英网络如何实现国家教育立法议程的隐性私有化与双层企业避税。
 > - **2022 年 — 高等教育跨国市场永久企业化理论整合** [[Fazal Rizvi|法扎尔·里兹维]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）系统阐述留学生学费吸纳与公立大学永久企业化的双向依赖机制。
+> - **2025 年 — 北欧高中教育出口与离岸混合私有化** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰普通高中教育出口如何打破北欧福利国家去商品化传统，通过市政离岸有限责任公司与私营中介推行内生与外生私有化。
 
 ---
 
@@ -239,3 +240,4 @@ updated: 2026-11-03
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证审计新西兰公立教育体系在内生与[[Exogenous Privatisation|外生私有化]]双轨下的演变历程，揭示特许学校背后的双层企业法人架构与政策制定权私有化。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 阐释全球留学生跨国流动如何成为财政脱节的代偿工具，驱动公立高等教育走向不可逆的永久性内生企业化。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 考证新西兰教育私有化与教育券倡导的历史线索（如《[[The Scott Report|斯科特报告]]》），辨析公立教育公共性在政治博弈中的守成。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 揭示北欧福利国家公立高中教育出口中的内生与外生私有化机制，实证剖析市镇离岸公司与私营教育科技中介如何将公立教育资产转化为商业创收工具。
