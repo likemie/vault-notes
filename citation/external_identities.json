@@ -6028,6 +6028,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
         "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
       ],
       "title": ""
@@ -16105,6 +16106,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Dean_2025_UICollaborationSupport.md"
+      ],
+      "title": ""
+    },
+    "CBR, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -32564,11 +32573,27 @@
       ],
       "title": ""
     },
+    "FNAE, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
     "FOCAC, 2015": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/facts/multi/Forum on China-Africa Cooperation.md"
+      ],
+      "title": ""
+    },
+    "FORMIN, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -66366,6 +66391,38 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
         "wiki/concepts/comparative-education/PISA Literacy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2016a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2016b": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },

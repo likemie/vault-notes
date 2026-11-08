@@ -857,6 +857,17 @@
     ]
   },
   {
+    "title": "Education Export",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Education Export.md",
+    "aliases": [
+      "教育出口",
+      "koulutusvienti",
+      "教育服务出口",
+      "教育跨境商业化"
+    ]
+  },
+  {
     "title": "Education-for-Mandates",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Education-for-Mandates.md",
@@ -24912,6 +24923,17 @@
       "照片诱导访谈",
       "照片启发法",
       "photo-elicitation interview"
+    ]
+  },
+  {
+    "title": "Post-structural Policy Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Post-structural Policy Analysis.md",
+    "aliases": [
+      "后结构主义政策分析",
+      "后结构政策分析",
+      "PSPA",
+      "poststructural policy analysis"
     ]
   },
   {
@@ -49292,6 +49314,11 @@
     "title": "Argument_Helgetun_2022_JEdPolicy",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEdPolicy.md"
+  },
+  {
+    "title": "Argument_Kuortti_2025_JEdPolicy",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
   },
   {
     "title": "Argument_Simpson_2017_JEdPolicy",

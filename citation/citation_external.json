@@ -3655,6 +3655,8 @@
     "CAE, 2013": "CAE, 2013",
     "CAUBO (2020)": "CAUBO, 2020",
     "CAUBO, 2020": "CAUBO, 2020",
+    "CBR (2010)": "CBR, 2010",
+    "CBR, 2010": "CBR, 2010",
     "CCC (1987)": "CCC, 1987",
     "CCC, 1987": "CCC, 1987",
     "CCTDI (1992)": "CCTDI, 1992",
@@ -7413,8 +7415,12 @@
     "FAZ, 1998": "FAZ, 1998",
     "FFT Education Datalab (2018)": "FFT Education Datalab, 2018",
     "FFT Education Datalab, 2018": "FFT Education Datalab, 2018",
+    "FNAE (2020)": "FNAE, 2020",
+    "FNAE, 2020": "FNAE, 2020",
     "FOCAC (2015)": "FOCAC, 2015",
     "FOCAC, 2015": "FOCAC, 2015",
+    "FORMIN (2018)": "FORMIN, 2018",
+    "FORMIN, 2018": "FORMIN, 2018",
     "FUT (2018)": "FUT, 2018",
     "FUT, 2018": "FUT, 2018",
     "Faber & Visscher (2014a)": "Faber & Visscher, 2014a",
@@ -15107,6 +15113,14 @@
     "MCEETYA, 2008": "MCEETYA, 2008",
     "MEXT (2004)": "MEXT, 2004",
     "MEXT, 2004": "MEXT, 2004",
+    "MINEDU (2010)": "MINEDU, 2010",
+    "MINEDU (2013)": "MINEDU, 2013",
+    "MINEDU (2016a)": "MINEDU, 2016a",
+    "MINEDU (2016b)": "MINEDU, 2016b",
+    "MINEDU, 2010": "MINEDU, 2010",
+    "MINEDU, 2013": "MINEDU, 2013",
+    "MINEDU, 2016a": "MINEDU, 2016a",
+    "MINEDU, 2016b": "MINEDU, 2016b",
     "MIT Whirlwind (1951)": "MIT Whirlwind, 1951",
     "MIT Whirlwind, 1951": "MIT Whirlwind, 1951",
     "MOE (2016)": "MOE, 2016",
@@ -37586,6 +37600,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
         "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
       ],
       "title": ""
@@ -54310,6 +54325,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Dean_2025_UICollaborationSupport.md"
+      ],
+      "title": ""
+    },
+    "CBR, 2010": {
+      "aliases": [
+        "CBR, 2010",
+        "CBR (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "CBR, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -81704,6 +81734,21 @@
       ],
       "title": ""
     },
+    "FNAE, 2020": {
+      "aliases": [
+        "FNAE, 2020",
+        "FNAE (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "FNAE, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
     "FOCAC, 2015": {
       "aliases": [
         "FOCAC, 2015",
@@ -81716,6 +81761,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/multi/Forum on China-Africa Cooperation.md"
+      ],
+      "title": ""
+    },
+    "FORMIN, 2018": {
+      "aliases": [
+        "FORMIN, 2018",
+        "FORMIN (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "FORMIN, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -137392,6 +137452,66 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
         "wiki/concepts/comparative-education/PISA Literacy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2010": {
+      "aliases": [
+        "MINEDU, 2010",
+        "MINEDU (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MINEDU, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2013": {
+      "aliases": [
+        "MINEDU, 2013",
+        "MINEDU (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MINEDU, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2016a": {
+      "aliases": [
+        "MINEDU, 2016a",
+        "MINEDU (2016a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MINEDU, 2016a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+      ],
+      "title": ""
+    },
+    "MINEDU, 2016b": {
+      "aliases": [
+        "MINEDU, 2016b",
+        "MINEDU (2016b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MINEDU, 2016b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
