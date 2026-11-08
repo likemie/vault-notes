@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Matthew Effect in Academia",
-      "path": "wiki/concepts/higher-education/Matthew Effect in Academia.md"
-    },
-    {
-      "basename": "Argument_Liu_2018_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
+      "basename": "Argument_Yang_2017_MUE",
+      "path": "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md"
     },
     {
       "basename": "Disruption Index",
       "path": "wiki/methods/quantitative/Disruption Index.md"
     },
     {
-      "basename": "WSB Model",
-      "path": "wiki/theories/science-policy/WSB Model.md"
+      "basename": "Argument_Liu_2018_Nature",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
+    },
+    {
+      "basename": "Career Collective Impact",
+      "path": "wiki/concepts/science-policy/Career Collective Impact.md"
     },
     {
       "basename": "Hot Hand Fallacy",
       "path": "wiki/theories/science-policy/Hot Hand Fallacy.md"
+    },
+    {
+      "basename": "Matthew Effect in Academia",
+      "path": "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+    },
+    {
+      "basename": "WSB Model",
+      "path": "wiki/theories/science-policy/WSB Model.md"
     },
     {
       "basename": "Random Impact Rule",
@@ -27,10 +35,6 @@
     {
       "basename": "Constant-Probability-of-Success Model",
       "path": "wiki/theories/science-policy/Constant-Probability-of-Success Model.md"
-    },
-    {
-      "basename": "Argument_Yang_2017_MUE",
-      "path": "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md"
     },
     {
       "basename": "Yang_2017_MUE",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Zapp_2017_IJED",
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Zapp_2017_IJED.md"
-    },
-    {
-      "basename": "Argument_Chen_2025_HSSC",
-      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
     }
   ],
   "omittedPaths": [],
