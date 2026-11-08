@@ -3039,6 +3039,7 @@
     "芬兰议会": {
       "seen_in": [
         "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
+        "wiki/facts/finland/Basic Education Act 1998.md",
         "wiki/facts/finland/Comprehensive School Reform in Finland.md",
         "wiki/facts/finland/Compulsory Education Act 1921.md",
         "wiki/facts/finland/Finland-Swedish School System.md",
@@ -3786,9 +3787,19 @@
         "wiki/facts/finland/Primary School Decree of 1866.md"
       ]
     },
+    "芬兰教育文化部": {
+      "seen_in": [
+        "wiki/facts/finland/Teacher Training School System in Finland.md"
+      ]
+    },
     "芬兰议会（Parliament of Finland）": {
       "seen_in": [
         "wiki/facts/finland/1968 School Systems Act in Finland.md"
+      ]
+    },
+    "芬兰财政部": {
+      "seen_in": [
+        "wiki/facts/finland/1993 Finnish Municipal Subsidy Reform.md"
       ]
     },
     "英国议会（Parliament of the United Kingdom）": {

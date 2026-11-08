@@ -5,6 +5,10 @@
       "path": "output/youth-talent-lit-review/draft.md"
     },
     {
+      "basename": "draft-v6",
+      "path": "output/youth-talent-lit-review/draft-v6.md"
+    },
+    {
       "basename": "Argument_Sahlgren_2015_CPS",
       "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Combinatorial Novelty",
       "path": "wiki/concepts/science-policy/Combinatorial Novelty.md"
-    },
-    {
-      "basename": "Team Science",
-      "path": "wiki/concepts/university-industry-collaboration/Team Science.md"
     }
   ],
   "omittedPaths": [],

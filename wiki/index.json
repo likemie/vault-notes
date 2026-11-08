@@ -37567,6 +37567,20 @@
     "subtype": "event"
   },
   {
+    "title": "1990s Economic Depression in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/1990s Economic Depression in Finland.md",
+    "aliases": [
+      "芬兰1990年代经济萧条",
+      "芬兰1990年代严重萧条",
+      "Suomen 1990-luvun alun lama",
+      "1990s Finnish Banking Crisis",
+      "Great Depression of 1990s in Finland",
+      "The Great Finnish Depression"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Fennoman Movement",
     "type": "fact",
     "path": "wiki/facts/finland/Fennoman Movement.md",
@@ -37708,6 +37722,32 @@
     "subtype": "policy"
   },
   {
+    "title": "1993 Finnish Municipal Subsidy Reform",
+    "type": "fact",
+    "path": "wiki/facts/finland/1993 Finnish Municipal Subsidy Reform.md",
+    "aliases": [
+      "芬兰1993年地方教育财政综合拨款改革",
+      "1993年芬兰地方财政补助改革",
+      "Valtionosuusuudistus 1993",
+      "1993 Municipal Subsidy Reform in Finland",
+      "State Subsidy Reform 1993"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Basic Education Act 1998",
+    "type": "fact",
+    "path": "wiki/facts/finland/Basic Education Act 1998.md",
+    "aliases": [
+      "芬兰1998年基础教育法",
+      "1998年基础教育法",
+      "Perusopetuslaki",
+      "Perusopetuslaki 628/1998",
+      "Basic Education Act of 1998"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Centralized Textbook Approval System in Finland",
     "type": "fact",
     "path": "wiki/facts/finland/Centralized Textbook Approval System in Finland.md",
@@ -37817,6 +37857,33 @@
       "1866年公立初等教育法令"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Teacher Training School System in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Teacher Training School System in Finland.md",
+    "aliases": [
+      "芬兰大学附属教师实习学校体系",
+      "芬兰教师培训学校体系",
+      "Harjoittelukoulu",
+      "Normal Schools in Finland",
+      "Finnish Teacher Training Schools",
+      "Normaalikoulu"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "KiVa Anti-Bullying Program",
+    "type": "fact",
+    "path": "wiki/facts/finland/KiVa Anti-Bullying Program.md",
+    "aliases": [
+      "芬兰KiVa反校园欺凌项目",
+      "KiVa反霸凌项目",
+      "KiVa Koulu",
+      "KiVa Program",
+      "KiVa Anti-Bullying Intervention"
+    ],
+    "subtype": "program"
   },
   {
     "title": "SveaSus Project",
