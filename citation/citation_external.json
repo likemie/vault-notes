@@ -312,7 +312,10 @@
     "Ahmed & Pervin (2015)": "Ahmed & Pervin, 2015",
     "Ahmed & Pervin, 2015": "Ahmed & Pervin, 2015",
     "Ahmed (2016)": "Ahmed, 2016",
+    "Ahmed (2019)": "Ahmed, 2019",
     "Ahmed, 2016": "Ahmed, 2016",
+    "Ahmed, 2019": "Ahmed, 2019",
+    "Ahmed, 2019b": "Ahmed, 2019",
     "Ahn & Choi (2004)": "Ahn & Choi, 2004",
     "Ahn & Choi, 2004": "Ahn & Choi, 2004",
     "Ahsan & Smith (2016)": "Ahsan & Smith, 2016",
@@ -23593,6 +23596,8 @@
     "Teimouri et al., 2019": "Teimouri et al., 2019",
     "Tekbiyik & Akdeniz (2010)": "Tekbiyik & Akdeniz, 2010",
     "Tekbiyik & Akdeniz, 2010": "Tekbiyik & Akdeniz, 2010",
+    "Tekleselassie (2006)": "Tekleselassie, 2006",
+    "Tekleselassie, 2006": "Tekleselassie, 2006",
     "Teltemann & Klieme (2016)": "Teltemann & Klieme, 2016",
     "Teltemann & Klieme, 2016": "Teltemann & Klieme, 2016",
     "Templeton (1958)": "Templeton, 1958",
@@ -29743,7 +29748,7 @@
         "Ahmed & Pervin, 2015",
         "Ahmed & Pervin (2015)"
       ],
-      "doi": "",
+      "doi": "10.1080/19415257.2013.861860",
       "identity_keys": [
         "Ahmed & Pervin, 2015"
       ],
@@ -29751,14 +29756,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
-      "title": ""
+      "title": "English-language teachers’ engagement with research: Findings from Bangladesh"
     },
     "Ahmed, 2016": {
       "aliases": [
         "Ahmed, 2016",
         "Ahmed (2016)"
       ],
-      "doi": "",
+      "doi": "10.1080/1743727x.2016.1166485",
       "identity_keys": [
         "Ahmed, 2016"
       ],
@@ -29766,7 +29771,22 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
-      "title": ""
+      "title": "Language teachers’ responses to educational research: Addressing the ‘crisis’ of representation"
+    },
+    "Ahmed, 2019": {
+      "aliases": [
+        "Ahmed, 2019",
+        "Ahmed (2019)"
+      ],
+      "doi": "10.1080/03054985.2019.1612342",
+      "identity_keys": [
+        "Ahmed, 2019b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": "How language teachers address the crisis of praxis in educational research"
     },
     "Ahn & Choi, 2004": {
       "aliases": [
@@ -199106,6 +199126,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analytical investigation of the influence of computer assisted instruction on achievement in science,"
+    },
+    "Tekleselassie, 2006": {
+      "aliases": [
+        "Tekleselassie, 2006",
+        "Tekleselassie (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tekleselassie, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": "Crossing traditional boundaries: How do practitioners and university faculty describe their experience with educational research literature?"
     },
     "Teltemann & Klieme, 2016": {
       "aliases": [
