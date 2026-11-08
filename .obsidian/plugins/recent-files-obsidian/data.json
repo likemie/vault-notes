@@ -9,16 +9,20 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     },
     {
+      "basename": "Argument_Hao_2026_Nature",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md"
+    },
+    {
+      "basename": "Sahlgren_2015_CPS",
+      "path": "sources/Sahlgren_2015_CPS/Sahlgren_2015_CPS.md"
+    },
+    {
       "basename": "Disruption Index",
       "path": "wiki/methods/quantitative/Disruption Index.md"
     },
     {
       "basename": "Argument_Yang_2017_MUE",
       "path": "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md"
-    },
-    {
-      "basename": "Argument_Hao_2026_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md"
     },
     {
       "basename": "Knowledge Extent",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Fan_2026_BCAS",
       "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
-    },
-    {
-      "basename": "Professional Interest",
-      "path": "wiki/concepts/higher-education/Professional Interest.md"
     }
   ],
   "omittedPaths": [],

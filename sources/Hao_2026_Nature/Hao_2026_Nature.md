@@ -1,6 +1,7 @@
 ---
 citation: "Hao, Q., Xu, F., Li, Y., & Evans, J. A. (2026). Artificial intelligence tools expand scientists’ impact but contract science’s focus. Nature, 649, 1237–1243. https://doi.org/10.1038/s41586-025-09922-y"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Hao_2026_Nature]]"
 processed_date: 2026-11-08
 ---
 
