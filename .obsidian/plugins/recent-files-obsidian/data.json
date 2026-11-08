@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "基础领域青年人才与科研资助文献摘要",
+      "path": "output/基础领域青年人才与科研资助文献摘要.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+    },
+    {
       "basename": "Argument_Sahlgren_2015_CPS",
       "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hot-Streak Model",
       "path": "wiki/theories/science-policy/Hot-Streak Model.md"
-    },
-    {
-      "basename": "Q-Model",
-      "path": "wiki/theories/science-policy/Q-Model.md"
-    },
-    {
-      "basename": "Q-Factor",
-      "path": "wiki/methods/quantitative/Q-Factor.md"
     }
   ],
   "omittedPaths": [],
