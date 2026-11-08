@@ -1560,6 +1560,7 @@
     "Ball (2010)": "Ball, 2010",
     "Ball (2012)": "Ball, 2012",
     "Ball (2016)": "Ball, 2016",
+    "Ball (2017)": "Ball, 2017",
     "Ball et al. (2012)": "Ball et al., 2012",
     "Ball et al. (2017)": "Ball et al., 2017",
     "Ball et al., 2012": "Ball et al., 2012",
@@ -1581,6 +1582,7 @@
     "Ball, 2010": "Ball, 2010",
     "Ball, 2012": "Ball, 2012",
     "Ball, 2016": "Ball, 2016",
+    "Ball, 2017": "Ball, 2017",
     "Baltzell (1964)": "Baltzell, 1964",
     "Baltzell, 1964": "Baltzell, 1964",
     "Balu et al. (2015)": "Balu et al., 2015",
@@ -23597,10 +23599,12 @@
     "Taylor (2023)": "Taylor, 2023",
     "Taylor Boas (2007)": "Taylor Boas, 2007",
     "Taylor Boas, 2007": "Taylor Boas, 2007",
+    "Taylor et al. (1997)": "Taylor et al., 1997",
     "Taylor et al. (2004)": "Taylor et al., 2004",
     "Taylor et al. (2006)": "Taylor et al., 2006",
     "Taylor et al. (2017)": "Taylor et al., 2017",
     "Taylor et al. (2023)": "Taylor et al., 2023",
+    "Taylor et al., 1997": "Taylor et al., 1997",
     "Taylor et al., 2004": "Taylor et al., 2004",
     "Taylor et al., 2006": "Taylor et al., 2006",
     "Taylor et al., 2017": "Taylor et al., 2017",
@@ -25361,7 +25365,9 @@
     "Weiner (1994)": "Weiner, 1994",
     "Weiner, 1994": "Weiner, 1994",
     "Weingart (1999)": "Weingart, 1999",
+    "Weingart (2003)": "Weingart, 2003",
     "Weingart, 1999": "Weingart, 1999",
+    "Weingart, 2003": "Weingart, 2003",
     "Weinstein (1991)": "Weinstein, 1991",
     "Weinstein (2013)": "Weinstein, 2013",
     "Weinstein et al. (1982)": "Weinstein et al., 1982",
@@ -27490,8 +27496,6 @@
     "诺沃亚, 2002": "诺沃亚, 2002",
     "诺沃亚与劳恩 (2002)": "诺沃亚与劳恩, 2002",
     "诺沃亚与劳恩, 2002": "诺沃亚与劳恩, 2002",
-    "课时分配与目标提案 (2012)": "课时分配与目标提案, 2012",
-    "课时分配与目标提案, 2012": "课时分配与目标提案, 2012",
     "课程改革 (1923)": "课程改革, 1923",
     "课程改革, 1923": "课程改革, 1923",
     "谢爱磊 (2016)": "谢爱磊, 2016",
@@ -39081,6 +39085,21 @@
         "wiki/concepts/educational-policy-reform/Co-affiliation.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md",
         "wiki/methods/qualitative/Network Ethnography.md"
+      ],
+      "title": ""
+    },
+    "Ball, 2017": {
+      "aliases": [
+        "Ball, 2017",
+        "Ball (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ball, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
       ],
       "title": ""
     },
@@ -137915,6 +137934,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
         "wiki/concepts/comparative-education/Democratisation of Expertise.md",
         "wiki/concepts/comparative-education/Technologies of Exclusion.md"
       ],
@@ -162959,6 +162979,7 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rambla_2022_Springer.md",
         "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md",
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md",
         "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
         "wiki/concepts/educational-policy-reform/Professional Judgment.md",
@@ -191077,6 +191098,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
         "wiki/concepts/comparative-education/Context in Comparative Education.md"
       ],
       "title": ""
@@ -199110,6 +199132,21 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Composite-Standard Model.md",
         "wiki/theories/political-economy-geopolitics/Path Dependence.md"
+      ],
+      "title": ""
+    },
+    "Taylor et al., 1997": {
+      "aliases": [
+        "Taylor et al., 1997",
+        "Taylor et al. (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Taylor et al., 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
       ],
       "title": ""
     },
@@ -211862,6 +211899,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Scientization of Politics.md"
+      ],
+      "title": ""
+    },
+    "Weingart, 2003": {
+      "aliases": [
+        "Weingart, 2003",
+        "Weingart (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Weingart, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
       ],
       "title": ""
     },
@@ -227129,21 +227181,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/portugal/António Nóvoa.md"
-      ],
-      "title": ""
-    },
-    "课时分配与目标提案, 2012": {
-      "aliases": [
-        "课时分配与目标提案, 2012",
-        "课时分配与目标提案 (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "课时分配与目标提案, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
       ],
       "title": ""
     },

@@ -1,5 +1,5 @@
 ---
-summary: "基于对丹麦、芬兰和挪威 15 场政策决策者专家访谈与 16 份核心改革文本计量分析，追溯北欧学校改革中科学证据与国家背景的建构逻辑。研究表明，尽管三国政策均标榜循证与契合国情，但对学术证据的采信存在显著差异：挪威重用专家委员会与系统综述，芬兰依靠行政官员的默会知识与全国评估数据，丹麦则完全依从政治议程筛选政策导向型证据。深层决策高度依赖非正式社会关系，三国最终均在本土合法化需求下吸收了经合组织的能力与技能话语，印证了大写背景（Big-C Context）在知识、专家与跨国话语交织中的动态生成。"
+summary: "基于对丹麦、芬兰与挪威 15 场决策者与专家访谈及 16 份核心政策文献计量分析，解构北欧学校改革中证据与背景的建构逻辑。研究表明三国学术期刊成果在政策引文中占比偏低，呈现三种知识采信机制：挪威依托学者委员会与系统综述，芬兰依靠行政官员以默会知识和国家评估数据主导，丹麦依从政治议程筛选政策导向型证据。深层决策高度依赖熟人学术网络，三国均在本土合法化需求下吸纳了经合组织能力框架，印证了背景属于在知识与话语交织装配中动态生成的大写背景。"
 type: argument
 authors:
   - "Volmari, S."
@@ -20,6 +20,7 @@ tags:
   - theme/politics-of-knowledge
   - method/qualitative-interview
   - method/bibliometrics
+  - subject/comparative-education
 related_concepts: []
 related_theories: []
 related_methods: []
@@ -59,7 +60,7 @@ issuing_organization: ""
 > 学校改革中的证据采信深嵌于政治合法化博弈与非正式社会关系网络之中；各国的“改革背景”属于关系性的大写背景（Big-C Context），由决策者在挑选证据、平衡本土合法性与吸纳全球素养话语的过程中共同建构而成，超越了预设静止的制度容器假定。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 丹麦 2014 年公立学校改革、芬兰 2014 年国家基础教育核心课程改革以及挪威 2020 年知识促进改革更新的核心政策文件（16 份官方文献、1,314 条引文）与 15 位关键决策者及委员会专家访谈。
+> - **对象** 丹麦 2014 年公立学校改革（Folkeskole Reform 2014）、芬兰 2014 年国家基础教育核心课程改革（POPS 2014）以及挪威 2020 年知识促进改革更新（Fagfornyelsen 2020）的核心政策文件（16 份官方文献、1,314 条引文）与 15 位关键决策者及委员会专家访谈。
 > - **张力** 官方公开标榜的“客观中立、以科学为本的循证决策”与实际运作中“学术证据显性占比偏低、依赖熟人社交圈、行政官员默会裁量以及政治方案后置辩护”之间的落差。
 > - **贡献** 结合[[Context in Comparative Education|比较教育中的关系性背景观]]（c/Context）与[[Scientization of Politics|政治科学化]]理论，解构了[[Nordic Model of Education|北欧教育模式]]表面的一致性，确立了证据采信的三重情境性，阐明了去语境化的全球技能话语如何在国家改革中被重构为合法化工具。
 
@@ -68,10 +69,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **政治科学化与科学政治化**<br>[[Scientization of Politics]] | 阐释决策系统如何日益依赖学术专家提供客观权威，以及政治议程反向筛选、操纵和工具化利用科学研究的双向缠绕机制。 |
-> | **比较教育中的关系性背景观**<br>[[Context in Comparative Education]] | 区分静态容器式的小写背景（small-c context）与处于持续生成流动之中的大写背景（Big-C Context），揭示背景是在知识、专家与跨国话语的交织装配中被共同建构的。 |
-> | **政策作为过程**<br>Policy as a Process | 依据鲍尔（Stephen Ball）的批判政策理论，将政策界定为持续处于协商、妥协与话语权力博弈之中的动态演化过程。 |
-> | **政策导向型证据**<br>[[Policy-Based Evidence-Making]] | 基于波森（Ray Pawson）的批判概念，刻画决策者预先确立政治方案、随后逆向挑选实证研究作为辩护支撑的工具化证据使用逻辑。 |
+> | **政治科学化与科学政治化**<br>[[Scientization of Politics]] | 阐释决策系统如何日益依赖学术专家提供客观权威，以及政治议程反向筛选、操纵和工具化利用科学研究的双向缠绕机制（Maasen & Weingart, 2005; Weingart, 2003）。 |
+> | **比较教育中的关系性背景观**<br>[[Context in Comparative Education]] | 区分静态容器式的小写背景（small-c context）与处于持续生成流动之中的大写背景（Big-C Context），揭示背景是在知识、专家与跨国话语的交织装配中被共同建构的（Sobe & Kowalczyk, 2012, 2014, 2018）。 |
+> | **政策作为过程**<br>Policy as a Process | 依据鲍尔（Stephen Ball）与泰勒（Sandra Taylor）的批判政策理论，将政策界定为持续处于协商、妥协与话语权力博弈之中的动态演化过程，关注文本生产背后的微观行动者（Ball, 2017; Taylor et al., 1997）。 |
+> | **政策导向型证据**<br>[[Policy-Based Evidence-Making]] | 基于波森（Ray Pawson）的批判概念，刻画决策者预先确立政治方案、随后逆向挑选实证研究作为辩护支撑的工具化证据使用逻辑（Pawson, 2006）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 政治科学化与科学政治化理论提供了分析决策系统对学术证据双向需求的宏观框架，揭示出官方文献大量征引专家的合法化功能；政策过程理论将视野从正式文本引向准备阶段的微观协商，捕捉未被官方报告记录的妥协与人际博弈；关系性背景观则超越了将北欧三国视为同质制度容器的传统假定，论证各国的证据层级体系正是决策者在调适本土权力传统与对接全球素养框架的过程中动态装配出来的社会现实。
@@ -81,77 +82,129 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献计量分析**<br>[[Bibliometric Analysis]] | 统计丹麦、芬兰与挪威 16 份核心改革文本中的 1,314 条参考文献，量化测定同行评议学术刊物文献在各类政策文本引证网络中的实际占比与学科分布。 |
-> | **半结构化专家访谈**<br>[[Expert Interview]] | 针对曾直接参与上述三国改革提案起草与委员会决策的 15 位关键行动者实施 60 至 90 分钟深度访谈，挖掘证据筛选标准、咨询流程与人际互动。 |
-> | **理论导向主题分析**<br>Thematic Analysis | 围绕关系性背景、政治科学化、[[Democratisation of Expertise|专业知识民主化]]与政策合法化等核心构念，对转录口述文本展开演绎与归纳结合的质性编码。 |
-> | **交叉比较分析**<br>Criss-Crossing Comparison | 摒弃固定国家容器的传统对照，追踪证据、专家与跨国政策理念在不同国家改革网络中的流通穿行与节点重组轨迹。 |
+> | **文献计量分析**<br>[[Bibliometric Analysis]] | 依托国际比较背景下北欧学校改革的政策知识与政策借鉴项目（POLNET），提取丹麦、芬兰与挪威 16 份核心改革文本中的 1,314 条参考文献，量化测定同行评议学术刊物文献在各类政策文本引证网络中的实际占比与学科分布。 |
+> | **半结构化专家访谈**<br>[[Expert Interview]] | 针对曾直接参与上述三国改革提案起草与委员会决策的 15 位关键行动者实施 60 至 90 分钟深度访谈，重点挖掘证据筛选准则、熟人网络引荐、咨询研讨会流程及权力协商机制。 |
+> | **理论导向主题分析**<br>Thematic Qualitative Analysis | 围绕关系性背景（c/Context）、政治科学化、[[Democratisation of Expertise|专业知识民主化]]与政策合法化等核心理论构念，对访谈逐字转录文稿展开演绎与归纳双向结合的系统编码。 |
+> | **交叉比较分析**<br>Criss-Crossing Comparison | 摒弃固定国家容器的传统静态比对，追踪知识形态、专业网络与跨国政策理念（如 OECD 素养框架）在不同国家改革节点间的穿梭流动与重组轨迹。 |
 
-> [!sample-panel]- 样本与材料快照
+> [!sample-panel]- 样本与材料快照（复刻 Table 1：三方案例、数据与方法全景）
 > | 维度 | 丹麦（Denmark） | 芬兰（Finland） | 挪威（Norway） |
 > |------|----------------|----------------|----------------|
-> | **考察改革案例** | 公立学校改革（Folkeskole Reform 2013/2014） | 国家基础教育核心课程改革（POPS 2014） | 知识促进改革更新（Fagfornyelsen 2020） |
-> | **改革核心面向** | 涵盖学校组织架构调整与课程教学重组 | 聚焦课时分配标准与核心课程总纲修订 | 聚焦基础教育课程核心内容与未来素养体系重构 |
-> | **文献计量样本** | 政府改革提案（2012）等 4 份核心政策文件，共计 231 条引文 | 课时分配与目标提案（2012）等 10 份核心文件，共计 677 条引文 | 卢德维格森委员会报告（2014, 2015）等 2 份核心文件，共计 406 条引文 |
-> | **学术文献占比** | 同行评议期刊文献占比 16.02% | 同行评议期刊文献占比 9.45% | 同行评议学术文献占比较高（侧重元分析与系统综述） |
-> | **专家访谈样本** | 4 位受访者（前教育部官员 1 人、前国会议员 1 人、学校委员会成员 2 人） | 5 位受访者（2012 年工作组成员 1 人、2010 年工作组成员 4 人） | 6 位受访者（均为官方调查委员会核心专家成员） |
+> | **考察改革案例** | 公立学校改革（Public School Reform 2013/2014） | 国家基础教育核心课程改革（National Core Curriculum of Finland 2014） | 知识促进改革更新（The Renewal of the Knowledge Promotion Reform 2020） |
+> | **改革核心内容** | 涵盖学校组织架构调整与课程教学重组（延长在校时长、增加丹麦语与数学课时、每日体育锻炼、提早外语启蒙） | 聚焦课时分配标准与核心课程总纲修订（课时分配法令 Decree 422/2012，确立全国统一教学目标框架并授权国家教育署编制分科大纲） | 聚焦基础教育课程核心内容与未来素养体系重构（审议中小学学科内容、评估未来社会与劳动市场所需关键能力） |
+> | **文献计量焦点** | 丹麦政府 2012 年发布的改革提案等 4 份核心政策文件 | 芬兰 2012 年课时分配与总体目标修订提案等 10 份核心政策文件 | 卢德维格森委员会（Ludvigsen Commission）2014 与 2015 年两份国家官方调查报告（NOU） |
+> | **政策引文样本** | 4 份核心文献，共计 231 条引文 | 10 份核心文献，共计 677 条引文 | 2 份核心文献，共计 406 条引文 |
+> | **学术文献占比** | 同行评议学术期刊文献占比 16.02% | 同行评议学术期刊文献占比 9.45% | 同行评议学术文献占比较高（明确侧重系统综述与元分析） |
+> | **访谈样本构成** | 4 位高层受访者（前教育部官员 1 人、前国会议员 1 人、学校委员会成员 2 人） | 5 位起草专家（2012 年工作组成员 1 人、2010 年工作组成员 4 人） | 6 位委员会成员（均为官方调查委员会核心专家） |
+> | **访谈执行规程** | 录音时长 60 至 90 分钟，完整逐字转录，赋予国家代号与序号（如 DK-I1、FI-I2、NO-I3） | 同左 | 同左 |
+
+> [!sample-panel]- 核心政策文本库清单（复刻 Appendix 1：十六份国家政策基石文献）
+> | 国家 | 官方文本原名 | 英文译名与发布机构 | 文件性质与分析角色 |
+> |---|---|---|---|
+> | **丹麦** | Gør en god skole bedre – et faglig løft af folkeskolen（2012 年） | Make a Good School Better – Improving the Academic Level of the Public School (Danish Government) | 核心改革提案，确立延长学时与强化基础学科 |
+> | **丹麦** | Beretning om Evaluering og Kvalitetsudvikling af Folkeskolen 2011 | Report on the Evaluation of Quality Development of the Public School 2011 (Danish School Council) | 学校委员会年度质量评估报告 |
+> | **丹麦** | Beretning om Evaluering og Kvalitetsudvikling af Folkeskolen 2012 | Report on the Evaluation of Quality Development of the Public School 2012 (Danish School Council) | 学校委员会年度质量评估报告 |
+> | **丹麦** | Undervisningsdifferentiering som bærende pædagogisk princip（2011 年） | Differentiated Teaching as a Core Pedagogical Principle (Danish Evaluation Institute) | 丹麦评估研究所关于分层差异化教学的研究报告 |
+> | **丹麦** | Ledelse af folkeskolerne – vilkår og former for skoleledelse（2011 年） | Leadership in the Public Schools – Conditions and Forms of School Management (SFI) | 丹麦国家社会研究中心关于学校领导力条件之调查 |
+> | **芬兰** | Tulevaisuuden perusopetus | Future Basic Education | 面向未来的基础教育愿景规划文本 |
+> | **芬兰** | Perusopetus 2020 – yleiset valtakunnalliset tavoitteet ja tuntijako | Basic Education 2020: Common National Aims and Division of Teaching Hours | 基础教育 2020 全国总目标与课时分配方案建议书 |
+> | **芬兰** | Opinto-ohjauksen arviointi perusopetuksessa, lukiossa ja ammatillisessa koulutuksessa | Evaluation of Student Counseling in Basic Education, Upper Secondary and VET | 基础教育、高中与职业教育学生升学指导评估报告 |
+> | **芬兰** | Onko laskutaito laskussa? Matematiikan oppimistulokset peruskoulun päättövaiheessa 2011 | Are Mathematical Skills in Decline? Math Learning Results at End of Basic Education 2011 | 基础教育终结阶段数学学业成就评估专题报告 |
+> | **芬兰** | Aihekokonaisuuksen tavoitteiden toteutumisen seuranta-arviointi 2010 | Evaluation of Achievement of Overarching Education Goals 2010 | 跨学科跨领域教育总目标达成度追踪评估报告 |
+> | **芬兰** | Opettajat Suomessa 2010 | Teachers in Finland 2010 | 芬兰教师队伍结构与专业状态国家统计调查报告 |
+> | **芬兰** | Esi- ja perusopetuksen opetussuunnitelmajärjestelmän toimivuus | Evaluation of the Curriculum of Pre-School and Primary Education | 学前与初等教育课程体系运作效能综合评价报告 |
+> | **芬兰** | Liikunnan oppimistulosten seuranta-arviointi perusopetuksessa 2010 | Evaluation of Learning Results in Physical Education 2010 | 基础教育体育学科学习成效监测评估专报 |
+> | **芬兰** | Luonnontieteiden seuranta-arviointi | Evaluation of Natural Sciences | 自然科学学科学业表现国家监测报告 |
+> | **芬兰** | Historian ja yhteiskuntaopin oppimistulokset perusopetuksen päättövaiheessa 2011 | Evaluation of Learning Results in History and Social Studies 2011 | 基础教育历史与社会研究学科学习成效评估报告 |
+> | **挪威** | Elevenes læring i fremtidens skole – Et kunnskapsgrunnlag (NOU 2014: 7) | Student Learning in the School of the Future – A Knowledge Base | 卢德维格森委员会首期绿皮书，奠定改革研究知识库 |
+> | **挪威** | The School of the Future. Renewal of Subjects and Competences (NOU 2015: 8) | The School of the Future: Renewal of Subjects and Competences | 卢德维格森委员会最终白皮书，重构学科核心素养 |
 
 ---
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart LR
->     A["文献计量：学术证据引证占比偏低"] --> B["专家访谈：微观决策依赖社会网络与默会知识"]
->     B --> C["比较呈现三种证据采信模式：挪威科学审议 / 芬兰文官默会 / 丹麦政策辩护"]
->     C --> D["证据采信服从于政治合法化与三重情境性"]
->     D --> E["跨国技能框架（经合组织 21 世纪技能）在本土合法化中达成隐秘趋同"]
->     E --> F["结论：超越容器式背景，大写背景（Big-C Context）动态生成"]
+> flowchart TD
+>     A["实证起点：政策文献计量分析（16份文件 / 1,314条引文）"]
+>     A --> B["引证特征：学术期刊论文占比偏低（丹麦16.02% / 芬兰9.45%）"]
+>     B --> C["深入决策黑箱：15场高层决策官员与委员会专家深度访谈"]
+>     C --> D["解构三国微观决策机制与案例差异"]
+>     D --> D1["丹麦案例：政治议程先行 / 缺乏委员会 / 政策导向型证据（PBEM）"]
+>     D --> D2["芬兰案例：政党更迭 / 文官专属工作组（无学者）/ 依赖评估数据与默会经验"]
+>     D --> D3["挪威案例：调查委员会（NOU）制度化 / 学者主导 / 偏好系统综述与元分析"]
+>     D1 & D2 & D3 --> E["微观社会学动力：证据筛选依赖私人学术圈子与就近采信"]
+>     E --> F["证据的三重情境性：国家治理体制 × 改革议题属性 × 专家委员会微观构成"]
+>     F --> G["表面国情独特性 vs 实质全球趋同：三国均吸纳经合组织（OECD）21世纪技能话语"]
+>     G --> H["理论收束：超越静态容器论，确立大写背景（Big-C Context）的关系性装配本质"]
 > ```
 
 ---
 
-> [!claim|step] 论证步骤一　政策文献计量揭示学术证据占比偏低且呈现显著国家异质性
+> [!claim|step] 论证步骤一　政策文献计量揭示学术证据占比偏低且呈现显著国家知识偏好分野
 > 尽管北欧三国在官方叙事中均标榜改革建立在客观科学基础之上，但文献计量分析表明同行评议学术成果在政策参考文献中占比普遍偏低，且引证结构映射出各具特色的知识偏好。
 
 > [!sub-claim] 1. 学术研究在政策文本中处于边际显性地位
-> 文献计量数据显示，丹麦改革提案中同行评议学术文献占比为 16.02%，芬兰为 9.45%，挪威虽然在官方委员会报告中较为密集地征引学术研究，但整体引文仍被大量的政府报告、评估公报与内部咨询文本所稀释。这一实证发现直接质疑了全球循证决策话语所宣称的学术知识占据绝对统治地位的神话。
+> 依据施泰纳-哈姆西（Gita Steiner-Khamsi）关于文献引用作为“证据有效性背书”的技术界定，对纳入分析的 16 份核心政策文本实施文献类型分类编码（划分为报告、专著、学术期刊成果、政府法令公报与其他文献）。计量统计显示，丹麦改革提案中同行评议学术期刊文献占比为 16.02%，芬兰核心文件中期刊学术成果占比仅为 9.45%，挪威虽然在官方调查委员会报告中显性引用学术成果较多，但其引文总体仍被官方评估公报与内部咨询材料摊薄。这一实证发现直接打破了循证治理规范性假设中关于科学知识占据绝对主导地位的假象。
 
 > [!sub-claim] 2. 三国引证结构折射出不同的知识偏好
-> 挪威官方委员会格外强调研究证据的层级次序，优先采信系统综述、元分析与经过质量认证的实证研究；芬兰工作组的引文几乎全部集中于国家教育评估数据与政府统计监测报告；丹麦则表现出对直接针对具体政策干预效果方案的实证报告的偏好。引文形态的分野表明，有效证据在不同国家行政系统中的界定标准存在深刻差异。
+> 挪威官方调查委员会格外注重研究证据的等级秩序，表现出采信系统综述（Systematic reviews）、元分析（Meta-analyses）以及经过学术同行质量鉴定的研究成果的偏好；芬兰课程改革核心工作组的 677 条引文几乎全部集中于国家学生学业成就评估报告、全国统计监测指标与教师队伍调查；丹麦则高度关注直接针对具体政策干预效果的实用型报告。引文形态的分野表明，有效证据在不同国家行政系统中的界定标准存在深刻差异。
 
 ---
 
-> [!claim|step] 论证步骤二　专家访谈揭示微观决策中的社会关系依赖、默会经验与学术淡化
+> [!claim|step] 论证步骤二　北欧三国学校改革机制与案例深潜：丹麦、芬兰与挪威的差异化实践
+> 深入考察三国的具体改革历程可以发现，国家行政架构、委员会设置方式以及学界人员的吸纳程度直接决定了改革准备期的证据运作形态。
+
+> [!row-contrast] 北欧三国学校改革决策机制与证据采信横向比对
+> | 属性维度 | 丹麦（Folkeskole 2014） | 芬兰（POPS 2014） | 挪威（Fagfornyelsen 2020） |
+> |---|---|---|---|
+> | **改革驱动与核心问题** | 强化公立学校学业水平；延长学生在校学时，强化丹麦语与数学，推行差异化教学，引入每日锻炼。 | 顺应经合组织核心素养理念，重组课时分配标准与全国基础教育课程总目标（Decree 422/2012）。 | 针对 2006 知识促进改革开展深度评估，全面重构未来社会与劳动力市场所需的学科核心能力。 |
+> | **决策准备机构性质** | 无正式官方调查委员会；依托教育部主办的利益相关者研讨会与国会政党闭门谈判。 | 历经政党更迭后由教育部与国家教育署纯文官组成专属工作组，完全剔除大学专职学者。 | 成立高规格官方调查委员会（卢德维格森委员会），产出两部独立国家官方报告（NOU 2014:7 与 2015:8）。 |
+> | **学术专家的制度角色** | 处于边缘与外围地位；仅作为部委偶尔邀请的单场演讲嘉宾或外部智库顾问。 | 学者参与率大幅缩减；学者不担任工作组主席，学术见解仅作为文官个人知识储备的一部分。 | 大学校长与资深教授担任委员会主席和核心成员；学术界直接主导研究证据层级的裁定。 |
+> | **核心采信证据类型** | 聚焦能够证明预期干预因果成效的具体评估方案，辅以丹麦评估研究所的教学报告。 | 长期积累的国家学生成就评估（KARVI）、学科监测报告与国际大型测评（PISA）管理数据。 | 学习科学领域的研究综述、元分析、基于系统综述的高质量实证研究与既往改革实证评估。 |
+> | **经合组织（OECD）关联** | 以 PISA 排名优秀国家为参照，组织海外参访并借鉴循证干预案例。 | 由国家 PISA 测评管理机构专家提供咨询，但在话语上淡化外部直接影响。 | 委员会全员赴巴黎经合组织总部深度参访，将 OECD 21 世纪技能作为本国课程核心框架。 |
+
+> [!case] 丹麦公立学校改革案例：政治妥协、缺乏委员会与政策导向型证据筛选
+> 丹麦 2014 年公立学校改革源于政府 2012 年 12 月发布的《让好学校变得更好：提升公立学校的学术水平》改革提案。该改革伴随着高度的政治争议，包括延长学生在校时长、增加基础学科课时、推行全员每日体育锻炼以及提早外语学习阶段；同期还启动了涵盖 0 至 18 岁教育机构的“新北欧学校”（Ny Nordisk Skole）试验项目。在制度层面上，丹麦并不存在类似于挪威或瑞典产生官方调查报告（NOU/SOU）的常设调查委员会机制，该项改革在前期完全没有正式委员会提供研究支撑。改革方案的准备过程是在教育部与关键利益相关者举行的三场内部研讨会中酝酿成型，并最终由国会各政党在激烈政治妥协下达成协议。在这一背景下，决策者对实证研究的使用呈现典型的“采樱桃”（Cherry-picking）策略，证据仅在契合既定政治路线时被调取，学术文献占比仅为 16.02%。
+
+> [!case] 芬兰基础教育课程改革案例：政党更迭、文官专属工作组与国家评估数据主导
+> 芬兰 2014 年核心课程改革聚焦于由中央政府通过法令（Decree 422/2012）确立的课时分配标准与全国总目标。2010 年，由国家教育署、政党代表与社会团体组成的跨界工作组曾草拟一份方案，但因议会换届与新政府上台，该方案未能在议会展开审议即遭直接废弃。2012 年新执政联盟组建后，教育部单独成立了一个完全由教育部和国家教育署职业文官组成的精简工作组，专职学者被全部排除在外。工作组在 2012 年底迅速完成法令草案编制，随后将具体的各科课程大纲编制工作授权国家教育署推进。在芬兰政策文本的 677 条引文中，期刊学术文献仅占 9.45%；决策者调取的依据几乎全部来自芬兰教育评估中心（KARVI）、于韦斯屈莱大学芬兰教育研究院以及赫尔辛基大学教育评估中心长期积累的全国学业成就监测报告。职业文官依靠自身深厚专业背景与日常工作积累的“默会知识”，主导了整个决策过程。
+
+> [!case] 挪威知识促进改革更新案例：官方调查委员会制度化、学术专家主导与系统综述偏好
+> 挪威 2020 年推行的知识促进改革更新（Fagfornyelsen）延续了挪威高度制度化的官方调查委员会传统。政府于 2013 年正式任命由学者主导的卢德维格森委员会，该委员会先后发布了绿皮书 NOU 2014:7（确立未来学校的学生学习知识库）与白皮书 NOU 2015:8（规划学科内容与未来素养体系更新）。在委员会的运作过程中，大学专职学者与资深研究人员扮演了核心掌舵角色。委员会对学术研究展现出极高的推崇态度，明确确立了采信证据的质量门槛：优先调取同行评议的学术期刊成果、系统综述与元分析报告，拒绝采信缺乏方法学严谨度的零散个案。然而委员会成员亦坦承，由于课程领域难以完全找到能够直接跨国移植的纯经验因果证据，委员会最终构建了由高质量实证综述、既往改革评估数据以及思辨性理论分析构成的混合知识库。
+
+---
+
+> [!claim|step] 论证步骤三　微观决策网络中的社会关系依赖、熟人采信与文官默会经验
 > 深入政策准备工作组的专家访谈表明，学术证据的采信受制于委员会专家的个人社会关系网络、职业官员的默会知识以及政治议程的后置需要，不同于基于客观文献检索系统的穷尽技术分析。
 
 > [!sub-claim] 1. 个人学术网络与就近采信机制
-> 在挪威和芬兰，委员会成员坦承所引用的学术成果多由其亲密学术同行、合作学者或本国标志性机构生产。在信息过载与知识快速生产的时代，专家在紧迫的立法周期内倾向于调取最易获取和最为信任的人际关系网络所提供的成果，使看似客观的证据筛选充满了人际互信与学术圈子的微观烙印。
+> 在挪威与芬兰的访谈中，委员会成员坦承其所征引的研究文献大部分来自其个人的熟人网络、亲密学术同行或本国标志性学术机构。在政策起草时间高度紧迫、全球文献呈指数级爆发的治理环境下，专家倾向于就近获取最信任、最易获取的学术圈子成果。这一微观机制揭示出，公开宣称为中立理性的循证政策，在实际运作中深嵌于专家的学术社交资本与微观人际信任网络之中。
 
-> [!sub-claim] 2. 芬兰文官的默会知识替代了显性学术引用
-> 芬兰负责课程改革的工作组中完全没有大学专职学者的席位，这一结构区别于挪威学者主导的官方委员会。芬兰教育部与国家教育署的职业文官将跟踪学术动态视为自身日常专业职责，主要通过快速浏览同行推荐文本或学术研究摘要吸收知识。文官将多年行政与教学实践积淀的[[Tacit Knowledge|默会知识]]作为核心裁判依据，将学术洞见内化为工作组内的专业讨论，从而解释了芬兰政策文本显性学术引文极低但决策专业化水平依然受到信任的制度现象。
+> [!sub-claim] 2. 芬兰文官的“默会知识”作为证据筛选过滤器
+> 芬兰负责课程改革的工作组中完全没有专职学者任职，这一现象反映了芬兰政府各部委工作组中学术专家席位自 2010 年代以来缩减过半的宏观趋势。芬兰受访文官解释，跟踪国际教育科研动态属于其日常专业素养的本职工作，文官习惯于快速浏览同行推荐成果或学术研究摘要。文官在数十年公共服务与教育管理实践中凝练出深厚的[[Tacit Knowledge|默会知识]]，受访者将其形象比喻为“两耳之间处于持续运动中的大脑肿块”。文官依靠这种内在的默会经验来识别有效研究，并将其转化为工作组内的政策协商语言，从而解释了芬兰政策文本显性学术引文极低但决策公信力依然稳固的制度特质。
 
-> [!sub-claim] 3. 丹麦案例凸显基于政策的证据制造与科学政治化
-> 丹麦的决策受访者明确指出，政策制定中并不刻意区分学术研究与专家意见，二者的价值完全取决于其能否有力论证改革方案的政治与意识形态主张。丹麦受访官员提出将研究区分为“问题界定”与“方案选择”：前者依赖对丹麦本国体制现状的理解，后者则要求因果证明特定干预能产生预期成效。由于因果干预研究通常来自外部情境，决策者便策略性地挑选能与既定政治叙事相吻合的外部案例，充分印证了[[Policy-Based Evidence-Making|基于政策的证据制造]]（PBEM）特征。
+> [!sub-claim] 3. 丹麦模式中证据服从于既定方案辩护的工具化二分
+> 丹麦决策受访者明确指出，在政策制定中并不刻意区分学术论著与专家咨询意见，二者的价值完全取决于其能否有力论证改革方案的政治与意识形态主张。丹麦受访官员提出将研究区分为“问题界定知识”与“解决方案知识”两类：前者依赖对丹麦本国体制现状与痛点的体察，后者则要求因果证明特定干预措施能够产出预期成效。由于因果干预研究通常来自外部情境，决策者便策略性地挑选能与既定政治叙事相吻合的外部案例，充分印证了[[Policy-Based Evidence-Making|基于政策的证据制造]]（PBEM）特征。
 
 ---
 
-> [!claim|step] 论证步骤三　证据采信服从于政治合法化与三重情境性，并在全球技能话语中隐秘趋同
+> [!claim|step] 论证步骤四　证据采信的三重情境性与经合组织（OECD）跨国技能话语的隐秘趋同
 > 证据在学校改革中的首要功能是充当政治合法化的修辞工具；证据的采信同时受制于三重情境维度，并在去语境化的跨国素养话语下实现了深层趋同。
 
-> [!sub-claim] 1. 证据采信的三重情境性维度
+> [!sub-claim] 1. 证据采信的三重情境性层级
 > 改革所调用的证据呈现出高度的情境特异性，主要由三个层级共同塑造：
-> - **国家行政体制情境** 包括国家宪制结构、官僚机构对专家咨询的依赖程度（如挪威的常设调查委员会传统对比丹麦的行政自主裁量）。
+> - **国家行政体制情境** 包括国家宪制结构与官僚机构对专家咨询的依赖程度（如挪威常设调查委员会的学术传统对比丹麦行政政治妥协）。
 > - **改革议题情境** 改革究竟聚焦结构性学制变革、课时分配、抑或课程哲学重构，直接决定了何种证据被视作相关。
 > - **专家委员会构成情境** 被委任进入特定工作组的个体学者的学科背景、价值立场与社会资本直接决定了特定理论与实证流派的取舍。
 
-> [!sub-claim] 2. 经合组织 21 世纪技能话语的隐秘共识
+> [!sub-claim] 2. 经合组织 21 世纪技能话语的跨国流通与本土合法化背书
 > 尽管三国在证据来源、委员会结构与国家传统上差异巨大，且所有受访者均强调本国改革植根于独特的本土情境，但在最终推行的核心课程改革内容上，三国均全面倒向了[[21st Century Skills and Competencies Discourse|21 世纪技能与核心素养话语]]。各国专家委员会均将赴[[OECD|经合组织]]总部的实地考察作为重要准备环节，吸纳了经合组织关于核心能力的跨国框架。国际比较证据在这里作为向公众宣示改革具有国际前沿性与不可避免性的合法化背书，其功能服从于政治辩护，并未直接发挥因果决策向导的作用。
 
 ---
 
-> [!claim|step] 论证步骤四　解构容器式背景，大写背景（Big-C Context）在知识与权力纠缠中动态生成
+> [!claim|step] 论证步骤五　比较教育本体论重构：超越容器论，大写背景（Big-C Context）的关系性装配
 > 研究超越了传统比较教育将民族国家作为固定容器的小写背景观，确立了证据与背景共生的关系性认识论。
 
-> [!sub-claim] 1. 证据反向定义并建构教育的社会现实
+> [!sub-claim] 1. 证据对教育社会现实的能动建构
 > 证据通过界定何为合理的目标、何为真实的教育问题，反向塑造了改革的社会现实，超越了单纯适应既定国情的被动工具角色。挪威对系统综述的推崇建构了学术化审议的改革现实，芬兰对评估数据与文官默会的信赖建构了高度自主专业的改革现实，丹麦对干预成效的功利筛选建构了问责导向的政治现实。
 
 > [!sub-claim] 2. 关系性大写背景（Big-C Context）的持续生成
@@ -176,7 +229,7 @@ issuing_organization: ""
 
 ---
 
-> [!citation-card] 挪威委员会专家论系统综述与研究证据的采信标准
+> [!citation-card] 挪威委员会专家论系统综述与混合知识库构建
 > 我们非常关注如何呈现研究成果。对我们而言，最重要的是立足于经过质量保证的研究类型，在有研究综述的地方优先采用综述而非零散报告，尤其是在以此作为政策建议基础的时候。特别是在学习科学领域，我们热衷于采用研究总结与基于系统综述的分析。但与此同时，我们也拥有关于既往知识促进改革的实证评估。这是极其重要的基础，我认为学术研究是最核心的支撑。然而在课程领域，很难去开展针对某一措施在这一国情或另一国情中何以奏效的研究。因此我们不得不依赖更多的理论分析与非经验性研究，必须构建一个混合型的知识库。
 >
 > *So we were very concerned about how we represented research... It was important for us to base ourselves on the type [of research] and use reviews rather than reports where they exist. Especially if you’re going to use it as a basis for recommendations. So, especially in the field of learning research, we were keen to use research summaries, but also review-based analyses... But at the same time, in the field of curricula, in particular, it’s not so easy to conduct studies on what works in one context in one country and in another. So, of course, we had to rely on more analyses and non-empirical research. So, it has to be a mixed knowledge base as well.*
@@ -190,6 +243,11 @@ issuing_organization: ""
 > 坦率地说，对于那些国际比较，在其他地方以某种方式开展并不意味着我们也会照做。关于国际比较所具有的重要性，我认为教育政策制定与政治博弈的日常生活本质上是去合法化那些已经被做出的决定。证据并没有真正指引工作的前进方向。
 >
 > *In all honesty I would say with those international comparisons that if somewhere else is done in a certain way, it does not mean that we will do the same. In other words, for the importance of international comparisons have, I would say that the everyday life in education policymaking and politics is legitimizing decisions that have already been taken. It [evidence] does not really direct the work.*
+
+> [!citation-card] 挪威委员会成员论赴经合组织（OECD）参访与 21 世纪技能框架采纳
+> 我曾研究过那些极具影响力的跨国能力框架。针对以能力为本位的课程，国际上存在若干极具影响力的框架，例如欧盟委员会拥有专属框架，21 世纪技能也有对应模型，一些美国跨国公司同样推出了能力框架。但是横向比对这些框架之后，我认为在挪威的政策制定过程中，经合组织（OECD）的框架无疑是最具支配性影响力的。
+>
+> *In another project, I studied those transnational competence-based frameworks that are influential... there are several influential frameworks for competence-based curricula, for example, the European Commission has a framework, and 21st Century skills, and there are some companies, U.S. based companies that also have frameworks for competence-based curriculum, but when comparing those frameworks I think in this case when it comes to Norwegian policy making the OECD framework is the most influential.*
 
 ---
 
