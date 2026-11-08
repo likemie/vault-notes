@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Volmari, S., Reder, T. J., & Hörmann, B. (2025). Scientification or political legitimation? Tracing the concepts of evidence and context in Nordic school reforms. Comparative Education, 61(4), 530–547. https://doi.org/10.1080/03050068.2024.2402638"
 extracted_to: []
 processed_date: 2026-11-09
 ---

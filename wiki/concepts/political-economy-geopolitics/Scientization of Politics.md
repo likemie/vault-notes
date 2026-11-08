@@ -3,7 +3,9 @@ title: Scientization of Politics
 aliases:
   - 政策的科学化
   - 政治的科学化
+  - 政治科学化
   - scientisation of politics
+  - Scientification of Politics
 summary: "指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从信息来源转变为治理权威的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
@@ -37,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-22
+updated: 2026-11-09
 ---
 
 ---
@@ -76,7 +78,7 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 > [!abstract] 核心要素
 > 政策的科学化涉及三个相互关联的运作机制（综合自 Zapp, 2022, pp.145–146）：
 
-- **[[Epistemology|认识论]]权威转移** 当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不再仅仅是决策的信息来源，而成为治理合法性的构成性要素。这种转变将认识论权威从政治机构（议会、政府部门）部分转移到[[Knowledge Production|知识生产]]机构（大学、研究所），但不是以正式权力移交的方式，而是以"谁的知识被认可为有效"的规范性基准的方式([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
+- **[[Epistemology|认识论]]权威转移** 当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不再仅仅是决策的信息来源，而成为治理合法性的构成性要素。这种转变将认识论权威从政治机构（议会、政府部门）部分转移到[[Knowledge Production|知识生产]]机构（大学、研究所），以"谁的知识被认可为有效"的规范性基准体现出来，有别于正式权力移交方式([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
 
 - **研究评估的制度化** 政策的科学化在高等教育领域的一个具体表现是研究评估体系中将"影响"（impact）纳入评分标准。以英国[[Research Excellence Framework|研究卓越框架]]（[[Research Excellence Framework]], REF）为例：2009 年首次讨论影响评估，REF 2014 将影响作为第二重要评分项，REF 2021 预期影响权重进一步增长（Marques et al., 2017，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]]）。这一趋势将研究的社会影响力从"锦上添花"转变为"[[Necessary and Sufficient Conditions|必要条件]]"
 
@@ -95,3 +97,7 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 > - **"影响"评价的异化风险** 将研究的社会影响力纳入正式评估体系（如 REF）虽然推动了政策的科学化，但可能导致研究者优先选择"容易展示影响"的课题而非由学术好奇心驱动的问题——认识漂移在制度层面的系统化([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.146]])
 
 ---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zapp_2022_Springer\|Zapp (2022)]] — 分析世界社会中大学如何成为全球治理合法性的共同生产者，系统阐述政策科学化与科学政治化的双向张力。
+> - [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] — 比较丹麦、芬兰与挪威学校改革中的证据使用，揭示政治科学化在各国制度传统下的差异化实践与微观关系网络。

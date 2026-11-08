@@ -688,6 +688,21 @@
     ]
   },
   {
+    "title": "Context in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Context in Comparative Education.md",
+    "aliases": [
+      "比较教育背景观",
+      "关系性背景",
+      "大写背景与小写背景",
+      "比较教育中的背景",
+      "Relational Context",
+      "c/Context",
+      "Big-C Context",
+      "Big-C Context and Small-c Context"
+    ]
+  },
+  {
     "title": "Cosmopolitanism",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cosmopolitanism.md",
@@ -13857,7 +13872,9 @@
     "aliases": [
       "政策的科学化",
       "政治的科学化",
-      "scientisation of politics"
+      "政治科学化",
+      "scientisation of politics",
+      "Scientification of Politics"
     ]
   },
   {
@@ -37822,6 +37839,29 @@
     "subtype": "event"
   },
   {
+    "title": "Education Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Education Finland.md",
+    "aliases": [
+      "芬兰教育出口集群",
+      "芬兰教育品牌网络",
+      "Education Finland Programme"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Finnish Education Evaluation Centre",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish Education Evaluation Centre.md",
+    "aliases": [
+      "KARVI",
+      "芬兰教育评估中心",
+      "Kansallinen koulutuksen arviointikeskus",
+      "FINEEC"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Finnish National Board of Education",
     "type": "fact",
     "path": "wiki/facts/finland/Finnish National Board of Education.md",
@@ -38050,6 +38090,18 @@
       "Normaalikoulu"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Finnish Government Education Export Programme",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish Government Education Export Programme.md",
+    "aliases": [
+      "FGEE",
+      "芬兰政府教育出口计划",
+      "芬兰教育出口国家计划",
+      "Finnish Education Export Programme"
+    ],
+    "subtype": "program"
   },
   {
     "title": "KiVa Anti-Bullying Program",
@@ -48889,6 +48941,11 @@
     "title": "Argument_Vickers_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md"
+  },
+  {
+    "title": "Argument_Volmari_2025_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
   },
   {
     "title": "Argument_Wang_2025_CE",

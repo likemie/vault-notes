@@ -3962,9 +3962,11 @@
     "Carmines & Zeller, 1979": "Carmines & Zeller, 1979",
     "Carnevale & Strohl (2010)": "Carnevale & Strohl, 2010",
     "Carnevale & Strohl, 2010": "Carnevale & Strohl, 2010",
+    "Carney (2008)": "Carney, 2008",
     "Carney (2009)": "Carney, 2009",
     "Carney et al. (2012)": "Carney et al., 2012",
     "Carney et al., 2012": "Carney et al., 2012",
+    "Carney, 2008": "Carney, 2008",
     "Carney, 2009": "Carney, 2009",
     "Carnine (2000)": "Carnine, 2000",
     "Carnine, 2000": "Carnine, 2000",
@@ -11676,6 +11678,8 @@
     "James, 2017": "James, 2017",
     "Jameson (1991)": "Jameson, 1991",
     "Jameson, 1991": "Jameson, 1991",
+    "Jamie A. Kowalczyk (2012)": "Jamie A. Kowalczyk, 2012",
+    "Jamie A. Kowalczyk, 2012": "Jamie A. Kowalczyk, 2012",
     "Jamie Peck (1998)": "Jamie Peck, 1998",
     "Jamie Peck, 1998": "Jamie Peck, 1998",
     "Jamison (2022)": "Jamison, 2022",
@@ -12523,6 +12527,8 @@
     "Kaufmann & Vosburg, 2002": "Kaufmann & Vosburg, 2002",
     "Kauh (2011)": "Kauh, 2011",
     "Kauh, 2011": "Kauh, 2011",
+    "Kauko & Medvedeva (2016)": "Kauko & Medvedeva, 2016",
+    "Kauko & Medvedeva, 2016": "Kauko & Medvedeva, 2016",
     "Kaul (1991)": "Kaul, 1991",
     "Kaul, 1991": "Kaul, 1991",
     "Kaur (2023)": "Kaur, 2023",
@@ -22458,6 +22464,8 @@
     "Snyder, 2016": "Snyder, 2016",
     "So (2013)": "So, 2013",
     "So, 2013": "So, 2013",
+    "Sobe & Kowalczyk (2012)": "Sobe & Kowalczyk, 2012",
+    "Sobe & Kowalczyk, 2012": "Sobe & Kowalczyk, 2012",
     "Sobe (2017)": "Sobe, 2017",
     "Sobe, 2017": "Sobe, 2017",
     "Sobel (1982)": "Sobel, 1982",
@@ -27482,6 +27490,8 @@
     "诺沃亚, 2002": "诺沃亚, 2002",
     "诺沃亚与劳恩 (2002)": "诺沃亚与劳恩, 2002",
     "诺沃亚与劳恩, 2002": "诺沃亚与劳恩, 2002",
+    "课时分配与目标提案 (2012)": "课时分配与目标提案, 2012",
+    "课时分配与目标提案, 2012": "课时分配与目标提案, 2012",
     "课程改革 (1923)": "课程改革, 1923",
     "课程改革, 1923": "课程改革, 1923",
     "谢爱磊 (2016)": "谢爱磊, 2016",
@@ -56655,6 +56665,21 @@
       ],
       "title": ""
     },
+    "Carney, 2008": {
+      "aliases": [
+        "Carney, 2008",
+        "Carney (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carney, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Context in Comparative Education.md"
+      ],
+      "title": ""
+    },
     "Carney, 2009": {
       "aliases": [
         "Carney, 2009",
@@ -81818,7 +81843,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+        "wiki/facts/finland/Finnish Government Education Export Programme.md"
       ],
       "title": ""
     },
@@ -112903,6 +112929,21 @@
       ],
       "title": ""
     },
+    "Jamie A. Kowalczyk, 2012": {
+      "aliases": [
+        "Jamie A. Kowalczyk, 2012",
+        "Jamie A. Kowalczyk (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jamie A. Kowalczyk, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Context in Comparative Education.md"
+      ],
+      "title": ""
+    },
     "Jamie Peck, 1998": {
       "aliases": [
         "Jamie Peck, 1998",
@@ -118928,6 +118969,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "AfterZone  Outcomes for youth participating in Providence’s citywide after-school system"
+    },
+    "Kauko & Medvedeva, 2016": {
+      "aliases": [
+        "Kauko & Medvedeva, 2016",
+        "Kauko & Medvedeva (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kauko & Medvedeva, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/Finnish Government Education Export Programme.md"
+      ],
+      "title": ""
     },
     "Kaul, 1991": {
       "aliases": [
@@ -137630,7 +137686,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+        "wiki/facts/finland/Finnish Government Education Export Programme.md"
       ],
       "title": ""
     },
@@ -137660,7 +137717,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+        "wiki/facts/finland/Finnish Government Education Export Programme.md"
       ],
       "title": ""
     },
@@ -191008,6 +191066,21 @@
       ],
       "title": ""
     },
+    "Sobe & Kowalczyk, 2012": {
+      "aliases": [
+        "Sobe & Kowalczyk, 2012",
+        "Sobe & Kowalczyk (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sobe & Kowalczyk, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Context in Comparative Education.md"
+      ],
+      "title": ""
+    },
     "Sobe, 2017": {
       "aliases": [
         "Sobe, 2017",
@@ -227056,6 +227129,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/portugal/António Nóvoa.md"
+      ],
+      "title": ""
+    },
+    "课时分配与目标提案, 2012": {
+      "aliases": [
+        "课时分配与目标提案, 2012",
+        "课时分配与目标提案 (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "课时分配与目标提案, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
       ],
       "title": ""
     },

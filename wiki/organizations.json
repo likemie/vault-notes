@@ -961,6 +961,15 @@
         "教育捐赠基金会"
       ]
     },
+    "Education Finland": {
+      "path": "wiki/facts/finland/Education Finland.md",
+      "names": [
+        "Education Finland",
+        "芬兰教育出口集群",
+        "芬兰教育品牌网络",
+        "Education Finland Programme"
+      ]
+    },
     "Education International": {
       "path": "wiki/facts/global/Education International.md",
       "names": [
@@ -1205,6 +1214,16 @@
         "家庭健康国际",
         "Family Health International 360",
         "FHI360"
+      ]
+    },
+    "Finnish Education Evaluation Centre": {
+      "path": "wiki/facts/finland/Finnish Education Evaluation Centre.md",
+      "names": [
+        "Finnish Education Evaluation Centre",
+        "KARVI",
+        "芬兰教育评估中心",
+        "Kansallinen koulutuksen arviointikeskus",
+        "FINEEC"
       ]
     },
     "Finnish National Board of Education": {

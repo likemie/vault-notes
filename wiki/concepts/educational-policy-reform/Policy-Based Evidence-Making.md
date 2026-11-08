@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -159,3 +159,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 结合英格兰 1983–2019 年教师教育政策演变与 20 位[[Elite Interview\|精英访谈]]，系统揭示了英国教育部作为[[Gatekeepers\|守门人]]通过[[Carter Review of Initial Teacher Training\|卡特审查]]与[[Chartered College of Teaching\|特许教学学院]]运作基于政策的证据制造的机制。
+> - [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] — 比较北欧三国学校改革，揭示丹麦决策者在公立学校改革中依从政治议程策略性筛选支持性研究，展现出政策导向型证据中问题与方案的工具化二分。

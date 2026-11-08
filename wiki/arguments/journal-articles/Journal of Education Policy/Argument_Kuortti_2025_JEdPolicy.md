@@ -66,6 +66,9 @@ related_facts:
   - "[[PISA]]"
   - "[[EU]]"
   - "[[Trade Union of Education in Finland]]"
+  - "[[Finnish Government Education Export Programme]]"
+  - "[[Education Finland]]"
+  - "[[Finnish Education Evaluation Centre]]"
 related_arguments: []
 sources:
   - "[[sources/Kuortti_2025_JEdPolicy|Kuortti_2025_JEdPolicy]]"
@@ -79,7 +82,7 @@ title: "Argument_Kuortti_2025_JEdPolicy"
 argument_key: "Argument_Kuortti_2025_JEdPolicy"
 argument_display_title: "Repurposing public education: Governmental rationality of education export in Finland through public education problematisations"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -93,7 +96,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 2010 年芬兰政府启动芬兰[[Education Export|教育出口]]国家计划（Finnish Government's Education Export programme, FGEE）以来，官方政策[[Discourse|话语]]如何将以普遍平等、免费入学与去市场化为标志的公共教育系统表征为亟待纠偏的问题？通过何种话语运作与微观治理技术，教育出口从一项外围的边缘商业倡议，演进为横向贯通芬兰学前教育、基础教育、职业教育与高等教育并深刻重塑公共治理理性的中枢机制？
+> 2010 年芬兰政府启动[[Finnish Government Education Export Programme|芬兰教育出口国家计划]]（Finnish Government's Education Export programme, FGEE）以来，官方政策[[Discourse|话语]]如何将以普遍平等、免费入学与去市场化为标志的公共教育系统表征为亟待纠偏的问题？通过何种话语运作与微观治理技术，教育出口从一项外围的边缘商业倡议，演进为横向贯通芬兰学前教育、基础教育、职业教育与高等教育并深刻重塑公共治理理性的中枢机制？
 
 > [!claim] 核心主张
 > 芬兰政府[[Education Export|教育出口]]计划通过[[Post-structural Policy Analysis|后结构主义政策分析]]（Post-structural Policy Analysis, PSPA）话语，将公立教育主动表征为受制于僵化法规、缺乏商业敏锐度且未能将声誉有效变现的制度障碍；这种问题表征掩盖了对外部商业需求的主观建构，为引入高等教育学费制度、推动职业院校设立营利性混合法人、依托官方微专业对教职人员实施企业家化规训，以及将公立学校转化为私营教育科技公司的测试试验场提供了正当性依据，促使公共教育的功能定位由福利社会的普遍公民权利转向国家参与全球知识竞争的经济资产。
@@ -149,17 +152,17 @@ issuing_organization: ""
 > | **Q3：这一问题表征是如何在历史中形成的？** | 追溯教育出口话语与芬兰历史上关于教育国际化、质量提升及财政赤字争论的演进联系。 |
 > | **Q4：表征中哪些维度被[[Epoché\|悬置]]与沉默？** | 识别被政策话语系统性排除的议题，探讨公共教育与法律框架是否存在替代性理解可能。 |
 > | **Q5：该问题表征产生了何种治理与主体效果？** | 分析政策对公共机构职能分割、教职人员职业身份及国内教育生态所造成的物质与话语后果。 |
-> | **Q6：该表征在何处被生产传播，如何被质疑？** | 追踪推动教育出口的[[Policy Network\|政策网络]]、中介机构（如 Education Finland）以及潜在的学术与工会抵制力量。 |
+> | **Q6：该表征在何处被生产传播，如何被质疑？** | 追踪推动教育出口的[[Policy Network\|政策网络]]、中介机构（如 [[Education Finland]]）以及潜在的学术与工会抵制力量。 |
 
 ---
 
 > [!coding-frame] 表 2：芬兰教育出口政策文献编码与六大子问题表征分析矩阵
 > | 子问题表征 | 底层预设与概念范畴（Q2） | 历史渊源与话语谱系（Q3） | 政策沉默与排除议题（Q4） | 产生的治理与主体效果（Q5） | 生产与传播节点（Q6） |
 > |---|---|---|---|---|---|
-> | **质量、财政与国际化赤字** | 质量等同于国际[[Competitiveness\|竞争力]]和财政回报；将排名成功与本土质量不足进行反差叙事 | 延续既有质量问责与高校拨款竞争话语；将国际化定位为创收渠道 | 忽视教育系统自身公平价值；回避高投入对维持公立质量的决定性支撑 | 催生以出口质量标签和认证标准为导向的公立质量重新诠释 | [[Finnish National Board of Education\|国家教育局]]、芬兰教育评估中心（Finnish Education Evaluation Centre, KARVI）、议会预算听证会 |
+> | **质量、财政与国际化赤字** | 质量等同于国际[[Competitiveness\|竞争力]]和财政回报；将排名成功与本土质量不足进行反差叙事 | 延续既有质量问责与高校拨款竞争话语；将国际化定位为创收渠道 | 忽视教育系统自身公平价值；回避高投入对维持公立质量的决定性支撑 | 催生以出口质量标签和认证标准为导向的公立质量重新诠释 | [[Finnish National Board of Education\|国家教育局]]、[[Finnish Education Evaluation Centre|芬兰教育评估中心]]（Finnish Education Evaluation Centre, KARVI）、议会预算听证会 |
 > | **无法满足外部商业需求** | 供需关系被视为教育的自然属性；外部对[[Finnish PISA Miracle\|国际学生评估项目]]（Programme for International Student Assessment, PISA）测评表现的兴趣等同于商业市场需求 | 源自古典经济学供需理论；吸纳高校自费生政策讨论历史 | 排除除商业买卖之外的国际互惠、学术交流与公共援助等替代性回应 | 公共教育被界定为反应迟缓的主体；重构公立教育的国际交流语境 | FGEE 战略文件、高校拨款公式谈判、教育部专项咨询组 |
 > | **缺乏可规模化产品** | 教育必须被视为可解构、可封装的标准化产品；产品应具备模块化与可扩展性 | 公共部门[[New Public Management\|新公共管理]]与商业化演进；将芬兰特质简化为品牌符号 | 掩盖教育在社会整体福利网络中的高度嵌入性，忽视文化情境不可移植性 | 推动学校与大学设立产品开发部门，简化复杂教学为技术解决方案 | 官方认证培训项目、国家创新基金会、教育科技商业孵化器 |
-> | **现行法律规制构成阻碍** | 法律被表征为束缚商业活力的僵化障碍；呼吁简政放权与弹性监管 | 2015 年西皮莱政府规制松绑运动；将国家定位为消除商业壁垒的服务者 | 法律作为公民基本权利屏障的法治功能被系统性[[Screening Off\|遮蔽]] | 推动修改职业教育法与[[Higher Education Act of 1965\|高等教育法]]，解除公立机构设立营利子公司的属地限制 | 议会法案委员会、教育部法务司、Education Finland 产业游说团 |
+> | **现行法律规制构成阻碍** | 法律被表征为束缚商业活力的僵化障碍；呼吁简政放权与弹性监管 | 2015 年西皮莱政府规制松绑运动；将国家定位为消除商业壁垒的服务者 | 法律作为公民基本权利屏障的法治功能被系统性[[Screening Off\|遮蔽]] | 推动修改职业教育法与[[Higher Education Act of 1965\|高等教育法]]，解除公立机构设立营利子公司的属地限制 | 议会法案委员会、教育部法务司、[[Education Finland]] 产业游说团 |
 > | **教育从业人员商业技能匮乏** | 教师与管理人员被假定为缺乏市场运作意识；教育被等同于劳动力与产业生产环节 | 教师专业化历史的商业化转折；企业培训机制向公立教育领域的渗透 | 排除教育学专业智慧与教学伦理，仅将商业技能界定为发展资本 | 启动国家资助的教育出口微专业培训，促使教师向教育型企业家角色靠拢 | 哈梅应用科学大学（Häme University of Applied Sciences, HAMK）、Omnia 职业学院、各公立[[Further Education\|继续教育]]学院 |
 > | **封闭受保护的国内公立生态** | 将公立垄断表征为效率低下；主张构建公私合作模式（[[Public-Private Partnership\|Public-Private Partnerships]], PPP）生态与国内准市场 | [[GATS and Trade in Education Services\|服务贸易总协定]]（General Agreement on Trade in Services, GATS）话语；私营教育提供者要求公平竞争的诉求 | 规避私营资本侵蚀公共福利基础的结构性风险，忽视公私合作的不对称性 | 依托公办经费扶持商业网络，为本土教育科技公司培育试验型测试温床 | 《教育政策报告 2020》、城市教育局创新采购试点、行业公会 |
 
@@ -182,7 +185,7 @@ issuing_organization: ""
 >
 > - **2016–2020 全领域渗透与生态化扩张期**
 >
->   西皮莱政府推行规制松绑运动，教育出口路线图贯通中等职业教育与学前阶段；国家教育局设立专属品牌网络 Education Finland，启动微专业培训并构建国内准市场生态。
+>   西皮莱政府推行规制松绑运动，教育出口路线图贯通中等职业教育与学前阶段；国家教育局设立专属品牌网络 [[Education Finland]]，启动微专业培训并构建国内准市场生态。
 
 > [!case] 案例：从公立基础教育 PISA 成绩向高等教育学费制度的跨越
 > - **声誉资本积累** 芬兰自 2000 年参与首届国际学生评估项目（Programme for International Student Assessment, PISA）以来，凭借卓越的学业均值与极小的校际差距赢得国际瞩目。官方纲领性文献（MINEDU, 2010b, 2013）频繁征引 PISA 结果，宣称“国际教育市场对芬兰专业知识存在明确需求”（MINEDU, 2010b, p. 5）。
