@@ -141,17 +141,55 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> %%{init: {'flowchart': {'useMaxWidth': false}}}%%
-> flowchart LR
->     A["战后初期：冷战军备与任务机构垄断国防科研计划性资助"] --> B["学术界抗议：柯南特、杜布里奇与NSF早期抵制计划性控制"]
->     B --> C["1957年卫星危机：打破美国技术优势神话，暴露基础人才断层"]
->     C --> D["制度反思：危机转化为重塑国家安全合法性的政策窗口"]
->     D --> E["立法突破：1958年《国防教育法》将高教科研置于战略地位"]
->     E --> F["白宫智囊建制：PSAC组建并发布西博格报告确立基础研究信条"]
->     F --> G["国会通道搭建：基斯佳科夫斯基创立COSPUP发布《基础研究与国家目标》"]
->     G --> H["政治同盟达成：15%小科学增长基准与多学科普查促成预算倾斜"]
->     H --> I["黄金期确立：资助主体转向NSF/NIH/NASA，自由基础研究繁荣"]
->     I --> J["结构性局限：资助仍依附于地缘政治议程，1968年遭遇首度削减"]
+> block-beta
+>     columns 4
+>     block:S1:1
+>         columns 1
+>         T1["任务主导与学术抵制"]
+>         A["冷战军备扩张<br/>任务机构主导国防科研计划性资助"]
+>         B["柯南特、杜布里奇与早期 NSF<br/>抵制计划性控制"]
+>     end
+>     block:S2:1
+>         columns 1
+>         T2["危机冲击与立法转折"]
+>         C["1957 年卫星危机<br/>技术优势神话破裂，基础人才断层暴露"]
+>         D["危机成为政策窗口<br/>国家安全赋予科研投入合法性"]
+>         E["1958 年《国防教育法》<br/>高教科研进入国家战略"]
+>     end
+>     block:S3:1
+>         columns 1
+>         T3["咨询建制与预算联盟"]
+>         F["白宫：PSAC 与西博格报告<br/>确立基础研究信条"]
+>         G["基斯佳科夫斯基搭建 COSPUP<br/>发布《基础研究与国家目标》"]
+>         H["15% 小科学增长基准与学科普查<br/>促成预算倾斜"]
+>     end
+>     block:S4:1
+>         columns 1
+>         T4["自由研究繁荣及其边界"]
+>         I["资助主体转向 NSF / NIH / NASA<br/>自由基础研究进入黄金期"]
+>         J["1968 年首次削减<br/>科研资助仍受地缘政治制约"]
+>     end
+>     S1 --> S2
+>     S2 --> S3
+>     S3 --> S4
+>     A --> B
+>     C --> D --> E
+>     F --> G --> H
+>     I --> J
+>     classDef context fill:#293137,stroke:#7997a7,color:#e1e8ed,stroke-width:1px
+>     classDef turning fill:#332f27,stroke:#b6a06c,color:#ece4cf,stroke-width:1px
+>     classDef alliance fill:#27322e,stroke:#82a795,color:#e0eae4,stroke-width:1px
+>     classDef limit fill:#342c30,stroke:#ad8895,color:#eadde2,stroke-width:1px
+>     class A,B context
+>     class C,D,E turning
+>     class F,G,H,I alliance
+>     class J limit
+>     style S1 fill:none,stroke:#53616a,stroke-width:1px,color:#a9c1ce
+>     style S2 fill:none,stroke:#6c6046,stroke-width:1px,color:#dac594
+>     style S3 fill:none,stroke:#52665b,stroke-width:1px,color:#b8d3c2
+>     style S4 fill:none,stroke:#64545c,stroke-width:1px,color:#d2b5c0
+>     classDef stageTitle fill:none,stroke:none,color:#cedbdc,font-weight:600
+>     class T1,T2,T3,T4 stageTitle
 > ```
 
 ---
