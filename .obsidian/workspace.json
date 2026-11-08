@@ -66,9 +66,19 @@
               "icon": "lucide-file",
               "title": "Argument_Zhang_Zhao_2026_EDR"
             }
+          },
+          {
+            "id": "3ac2639cc8584945",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,8 +293,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "3ac2639cc8584945",
   "lastOpenFiles": [
+    "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
     "tmp/callout-sync-review/subclaim-results.json",
     "tmp/callout-sync-review/subclaim-light-390.png",
     "tmp/callout-sync-review/subclaim-light-768.png",
@@ -305,9 +316,7 @@
     "tmp/callout-refinement/dev-timeline-tail-check.log",
     "tmp/callout-refinement/dev-timeline-tail-check.mjs",
     "tmp/callout-refinement/dev-timeline-tail-index.log",
-    "tmp/callout-refinement/dev-timeline-tail.html",
     "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md",
-    "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
     "wiki/concepts/educational-psychology/Sisu.md",
     "wiki/facts/finland/Comprehensive School Reform in Finland.md",
     "wiki/facts/finland/1990s Economic Depression in Finland.md",
