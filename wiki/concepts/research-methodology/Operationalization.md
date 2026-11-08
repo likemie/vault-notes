@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-11-05
+updated: 2026-11-09
 ---
 
 ---
@@ -83,12 +83,12 @@ updated: 2026-11-05
 > [!def] Operationalization
 > 操作化意味着**指定一套可以被测量、处理或操纵的操作或行为**。其核心是将一般[[Research Purpose|研究目的]]转化为具体、可回答的问题或可检验的假设，使抽象概念走向经验具体（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7, p. 126]]）。
 
-> [!concept-lens|notitle] 概念透镜
+> [!concept-lens] 概念透镜
 > - **含义** 操作化指向[[Research Purpose|研究目的]]从抽象层面向经验层面的转换机制，将研究意图转化为可经验测度的指标网络。
 > - **用途** 帮助研究者将模糊的研究兴趣转化为可执行的研究设计，识别所需数据载体与适宜的测量工具。
 > - **边界** 操作化不同于具体研究方法本身，它是在选择具体方法之前的分解和转化过程，亦无法直接保证实证结论的真确性。
 
-> [!citation-card|notitle] 关键表述
+> [!citation-card] 科恩等界定操作化本质
 > 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的研究目的或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。因此，研究者将每个一般研究目的分解为更具体的研究目的和组成要素，继续这一过程直到达到具体、可回答的问题。（第7章, p.126）
 >
 > *Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the [[Abstract]] to the concrete. Thus the researcher breaks down each general research purpose or general aim into more specific research purposes and constituent elements, continuing the process until specific, concrete questions have been reached to which specific answers can be provided.* (p.126)
@@ -99,7 +99,7 @@ updated: 2026-11-05
 
 ---
 
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 操作化（Operationalization） | 概念化（Conceptualization） | 指标化（Indicator Formulation） | 测量（Measurement） |
 > |---|---|---|---|---|
 > | **分析焦点** | 从抽象理论目的到具体可回答问题或可检验假设的转化机制 | 界定核心[[Construct\|构念]]的理论内涵、外延与边界特征 | 为操作化要素匹配具体的量化或质性观测表征 | 依据特定测度规则为观测对象赋予数值或符号代码 |
@@ -210,6 +210,7 @@ updated: 2026-11-05
 > - **2010s — 潜变量多层级行为锚定** [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] 研制 Teach [[Classroom Observation|课堂观察]]工具，建立“4 领域 $\to$ 10 要素 $\to$ 28 项行为描述符”的多层级操作化框架，开创低推论快照与高推论行为锚定结合的现代田野测评[[Paradigm|范式]]。
 > - **2015–2021 — 计算科学学将研究课题操作化为网络拓扑边** 福斯特等人与王大顺、巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021, p. 227]]）将生物医学研究课题操作化为化学知识网络中的拓扑边，开辟了宏观科研探索网络动力学的操作化研究范式。
 > - **2020s — [[Output-Oriented Governance|循证治理]]与国家督导常模操作化** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析国家教育督导机构如何通过定向萃取成功学校实证文献，将抽象的教育法规原则操作化为刚性的督导指标与办学常模，揭示了操作化在技术官僚政策转译中的核心机制（pp. 647–648）。
+> - **2025 — 后结构主义政策分析的设问操作化** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 示范了巴奇 WPR 框架在芬兰教育出口政策中的六步设问操作化规程，将抽象的问题表征与治理理性转化为系统化的质性分析操作链条。
 
 ---
 
@@ -259,6 +260,7 @@ updated: 2026-11-05
 > | [[Classroom Observation]] | 方法 | 课堂观察依赖行为锚定评分法（BARS）将复杂教学互动操作化为客观行为描述符。 |
 > | [[Percy Williams Bridgman]] | 人物 | 科学哲学家，在《现代物理学的逻辑》（1927）中提出操作主义，为现代经验科学操作化奠定哲学基础。 |
 > | [[World Bank]] | 事实 | 研制 Teach 课堂观察工具，示范了“4 领域 $\to$ 10 要素 $\to$ 28 描述符”的多层级操作化框架。 |
+> | [[Bacchi's WPR Approach]] | 方法 | 依托 6 大核心设问将抽象的问题表征与政策假定操作化为质性分析操作链条的框架。 |
 
 ---
 
@@ -270,3 +272,4 @@ updated: 2026-11-05
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪瑞典学校督导实践中将抽象法律要求操作化为常规督导指标与办学常模的完整链条，揭示技术官僚操作化对教学情境性的简化风险（pp. 647–651）。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批判可见学习中理论构念与实证测量的操作化断裂，以及将整体性学校实践碎片化操作为孤立参数的还原主义风险。（pp. 4–6）
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批评将[[Student-Teacher Relationship|师生关系]]与漫长教化过程还原为[[Effect Size|效应量]]（$d$）的操作化指标体系，阐明可[[Commensuration|通约化]]操作对教育本真体验的遮蔽。（pp. 2–3）
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 示范后结构主义政策分析中巴奇 WPR 框架的本土操作化规程，通过 6 大核心设问将抽象的问题表征转化为质性分析操作链条。

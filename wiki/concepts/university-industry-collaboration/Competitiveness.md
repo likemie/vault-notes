@@ -122,7 +122,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -338,6 +338,7 @@ updated: 2026-11-03
 > - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化、跨国教育对标与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；[[EU|欧洲联盟]]启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）；[[OECD|经合组织]]启动[[PISA]]，确立国家经济竞争力直接系于教育绩效跨国对标的新自由主义政策[[Paradigm|范式]]（Brown et al., 1997; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
 > - **2009 — 超国家全景敞视式竞争力规训批判** 帕西亚斯与鲁萨基斯运用福柯权力-规训理论解构欧盟教育话语，揭示里斯本战略如何以成为全球最具竞争力的[[Knowledge-Based Economy|知识经济]]体为轴心，依托开放协调法与量化指标凝视构筑欧洲教育全景敞视建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 486–487, 492–493)]]
 > - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
+> - **2025 — 北欧教育出口话语与国家竞争力变现** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰政策话语如何将公立教育质量等同于国际竞争力和财政回报，将 PISA 排名优势重塑为教育出口创收的无形资产，同时以国际竞争赤字为由推动公立系统私有化。
 
 ---
 
@@ -410,4 +411,5 @@ updated: 2026-11-03
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 援引布朗等人（1997）论述，解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于[[International Education|国际教育]]质量，揭示[[OECD|经合组织]]多边监测与 [[PISA]] 将全球竞争内化为国内政策议程的机制（pp. 444–445, 447）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判全球[[Knowledge-Based Economy|知识经济]]与新自由主义竞争逻辑对教育哲学的侵蚀，揭示可见学习与量化[[Performance Indicators|绩效指标]]如何将教育降维为国家经贸竞争与劳动力人力资本最大化的工具，从而消解教育作为生命转化与全面启蒙的本质。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论批判解构欧盟教育话语，揭示里斯本战略如何以全球竞争力为驱动，依托开放协调法与量化指标构筑超国家规训建筑（pp. 480, 486–487, 492–493）。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 揭示芬兰教育出口政策如何将公共教育质量窄化为国际竞争力与财政创收指标，将全球声誉转化为商业变现资本。
 
