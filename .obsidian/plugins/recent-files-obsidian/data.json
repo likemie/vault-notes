@@ -5,16 +5,44 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     },
     {
+      "basename": "Best Practice Approach in Comparative Education",
+      "path": "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md"
+    },
+    {
+      "basename": "Sisu",
+      "path": "wiki/concepts/educational-psychology/Sisu.md"
+    },
+    {
+      "basename": "Comprehensive School Reform in Finland",
+      "path": "wiki/facts/finland/Comprehensive School Reform in Finland.md"
+    },
+    {
+      "basename": "1990s Economic Depression in Finland",
+      "path": "wiki/facts/finland/1990s Economic Depression in Finland.md"
+    },
+    {
+      "basename": "Health Behaviour in School-aged Children",
+      "path": "wiki/facts/global/Health Behaviour in School-aged Children.md"
+    },
+    {
+      "basename": "1979 Finnish Teacher Education Reform",
+      "path": "wiki/facts/finland/1979 Finnish Teacher Education Reform.md"
+    },
+    {
+      "basename": "Finnish National Board of Education",
+      "path": "wiki/facts/finland/Finnish National Board of Education.md"
+    },
+    {
+      "basename": "Centralized Textbook Approval System in Finland",
+      "path": "wiki/facts/finland/Centralized Textbook Approval System in Finland.md"
+    },
+    {
       "basename": "Primary School Decree of 1866",
       "path": "wiki/facts/finland/Primary School Decree of 1866.md"
     },
     {
       "basename": "Hannah Arendt",
       "path": "wiki/persons/us/Hannah Arendt.md"
-    },
-    {
-      "basename": "Best Practice Approach in Comparative Education",
-      "path": "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md"
     },
     {
       "basename": "Uno Cygnaeus",
@@ -171,34 +199,6 @@
     {
       "basename": "Scientific Productivity",
       "path": "wiki/concepts/science-policy/Scientific Productivity.md"
-    },
-    {
-      "basename": "Argument_Fortunato_2018_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md"
-    },
-    {
-      "basename": "Metascience",
-      "path": "wiki/concepts/science-policy/Metascience.md"
-    },
-    {
-      "basename": "Argument_Sinatra_2016_Science",
-      "path": "wiki/arguments/journal-articles/Science/Argument_Sinatra_2016_Science.md"
-    },
-    {
-      "basename": "Academic Precarity",
-      "path": "wiki/concepts/higher-education/Academic Precarity.md"
-    },
-    {
-      "basename": "UNESCO Institute for Statistics",
-      "path": "wiki/facts/global/UNESCO Institute for Statistics.md"
-    },
-    {
-      "basename": "Postdoctoral Pileup",
-      "path": "wiki/concepts/higher-education/Postdoctoral Pileup.md"
-    },
-    {
-      "basename": "Multiple Regression",
-      "path": "wiki/methods/quantitative/Multiple Regression.md"
     }
   ],
   "omittedPaths": [],

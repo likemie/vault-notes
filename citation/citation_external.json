@@ -8463,6 +8463,8 @@
     "GOS, 2023": "GOS, 2023",
     "GRI (2019)": "GRI, 2019",
     "GRI, 2019": "GRI, 2019",
+    "Gabriel Heller Sahlgren (2015)": "Gabriel Heller Sahlgren, 2015",
+    "Gabriel Heller Sahlgren, 2015": "Gabriel Heller Sahlgren, 2015",
     "Gadamer (1960)": "Gadamer, 1960",
     "Gadamer (1975)": "Gadamer, 1975",
     "Gadamer, 1960": "Gadamer, 1960",
@@ -18441,7 +18443,9 @@
     "Paschal et al., 1984": "Paschal et al., 1984",
     "Pascual et al. (2019)": "Pascual et al., 2019",
     "Pascual et al., 2019": "Pascual et al., 2019",
+    "Pasi Sahlberg (2011)": "Pasi Sahlberg, 2011",
     "Pasi Sahlberg (2012)": "Pasi Sahlberg, 2012",
+    "Pasi Sahlberg, 2011": "Pasi Sahlberg, 2011",
     "Pasi Sahlberg, 2012": "Pasi Sahlberg, 2012",
     "Pasias (2005)": "Pasias, 2005",
     "Pasias (2006)": "Pasias, 2006",
@@ -89263,6 +89267,21 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
         "wiki/concepts/higher-education/University Social Responsibility.md"
+      ],
+      "title": ""
+    },
+    "Gabriel Heller Sahlgren, 2015": {
+      "aliases": [
+        "Gabriel Heller Sahlgren, 2015",
+        "Gabriel Heller Sahlgren (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gabriel Heller Sahlgren, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md"
       ],
       "title": ""
     },
@@ -161656,6 +161675,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The relationship between executive functions and academic performance in primary education: Review and meta-analysis"
+    },
+    "Pasi Sahlberg, 2011": {
+      "aliases": [
+        "Pasi Sahlberg, 2011",
+        "Pasi Sahlberg (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pasi Sahlberg, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md"
+      ],
+      "title": ""
     },
     "Pasi Sahlberg, 2012": {
       "aliases": [
