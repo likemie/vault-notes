@@ -12636,8 +12636,6 @@
     "Keith Stanovich, 2009": "Keith Stanovich, 2009",
     "Kelchen et al. (2011)": "Kelchen et al., 2011",
     "Kelchen et al., 2011": "Kelchen et al., 2011",
-    "Keles (2026)": "Keles, 2026",
-    "Keles, 2026": "Keles, 2026",
     "Kelle & Laurie (1995)": "Kelle & Laurie, 1995",
     "Kelle & Laurie, 1995": "Kelle & Laurie, 1995",
     "Kelle (2000)": "Kelle, 2000",
@@ -18442,9 +18440,7 @@
     "Pascual et al. (2019)": "Pascual et al., 2019",
     "Pascual et al., 2019": "Pascual et al., 2019",
     "Pasi Sahlberg (2012)": "Pasi Sahlberg, 2012",
-    "Pasi Sahlberg (2023)": "Pasi Sahlberg, 2023",
     "Pasi Sahlberg, 2012": "Pasi Sahlberg, 2012",
-    "Pasi Sahlberg, 2023": "Pasi Sahlberg, 2023",
     "Pasias (2005)": "Pasias, 2005",
     "Pasias (2006)": "Pasias, 2006",
     "Pasias, 2005": "Pasias, 2005",
@@ -119677,21 +119673,6 @@
       "seen_in": [],
       "title": "Do the Effects of Early Childhood Programs on Academic Outcomes Vary by Gender? A Meta-Analysis"
     },
-    "Keles, 2026": {
-      "aliases": [
-        "Keles, 2026",
-        "Keles (2026)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Keles, 2026"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
-      ],
-      "title": ""
-    },
     "Kelle & Laurie, 1995": {
       "aliases": [
         "Kelle & Laurie, 1995",
@@ -161670,21 +161651,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md"
-      ],
-      "title": ""
-    },
-    "Pasi Sahlberg, 2023": {
-      "aliases": [
-        "Pasi Sahlberg, 2023",
-        "Pasi Sahlberg (2023)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Pasi Sahlberg, 2023"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
       ],
       "title": ""
     },
