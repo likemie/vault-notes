@@ -6,10 +6,10 @@ aliases:
 summary: "由安迪·哈格里夫斯和迈克尔·富兰提出的教师专业发展构念，整合人类资本、社会资本与决策资本三重视角，并在跨国政策扩散与新自由主义治理中被用于重塑教师自主、管理与网络化运作能力。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
-related_color: "#bfdbfe"
+related_color: "#99f6e4"
 tags:
   - theme/teacher-professionalism
   - theme/educational-governance

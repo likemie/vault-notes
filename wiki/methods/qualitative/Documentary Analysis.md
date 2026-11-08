@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 83
+method_related_count: 84
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -83,6 +83,7 @@ related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
@@ -114,7 +115,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-06
+updated: 2026-11-09
 ---
 
 ---
@@ -226,3 +227,4 @@ updated: 2026-11-06
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 79–86)]] — 结合中国高教改革法规、留学生统计年鉴与智库[[Soft Power|软实力]]指数开展政策文献与统计综合分析，解构[[Educational Diplomacy|教育外交]]的三大支柱与[[Geopolitics|地缘政治]]转化制约。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸协定、中国—[[ASEAN|东盟]]战略伙伴关系愿景、国家全会决议及部区共建纪要等官方政策文献，系统梳理跨国职业教育开放的政策脉络与制度演进（pp. 286–288, 292–293）。
 > - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 运用政策文献与历史档案分析，梳理二战后至卫星危机前后美国联邦大学科研资助政策演进，解析杜鲁门国防计划性资助与后卫星时代以基金会为代表的自由基础研究转向。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编芬兰 2010–2020 年间关于教育出口的 16 份关键政策文献（含 5 份核心实践文本与 11 份支撑政策），运用 Atlas.ti 对改革措施与指标展开系统节点编码（p. 5）。

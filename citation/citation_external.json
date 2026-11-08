@@ -1385,6 +1385,8 @@
     "Babha, 1994": "Babha, 1994",
     "Babuder (2015)": "Babuder, 2015",
     "Babuder, 2015": "Babuder, 2015",
+    "Bacchi & Goodwin (2016)": "Bacchi & Goodwin, 2016",
+    "Bacchi & Goodwin, 2016": "Bacchi & Goodwin, 2016",
     "Bacchi (2009)": "Bacchi, 2009",
     "Bacchi, 2009": "Bacchi, 2009",
     "Bach et al. (2009)": "Bach et al., 2009",
@@ -9168,6 +9170,8 @@
     "Goodson, 2011": "Goodson, 2011",
     "Goodwin & Ahn (2010)": "Goodwin & Ahn, 2010",
     "Goodwin & Ahn, 2010": "Goodwin & Ahn, 2010",
+    "Goodwin (2016)": "Goodwin, 2016",
+    "Goodwin, 2016": "Goodwin, 2016",
     "Goos (2013)": "Goos, 2013",
     "Goos et al. (2021)": "Goos et al., 2021",
     "Goos et al., 2021": "Goos et al., 2021",
@@ -37596,6 +37600,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Efficiency of reading comprehension training in pupils living in poverty"
+    },
+    "Bacchi & Goodwin, 2016": {
+      "aliases": [
+        "Bacchi & Goodwin, 2016",
+        "Bacchi & Goodwin (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bacchi & Goodwin, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
+      ],
+      "title": ""
     },
     "Bacchi, 2009": {
       "aliases": [
@@ -94488,6 +94507,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of morphological interventions: Effects on literacy achievement of children with literacy difficulties"
+    },
+    "Goodwin, 2016": {
+      "aliases": [
+        "Goodwin, 2016",
+        "Goodwin (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Goodwin, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
+      ],
+      "title": ""
     },
     "Goos et al., 2021": {
       "aliases": [
@@ -160129,8 +160163,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
-        "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
+        "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md"
       ],
       "title": ""
     },

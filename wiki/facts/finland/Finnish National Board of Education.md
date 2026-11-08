@@ -44,6 +44,7 @@ related_facts:
   - "[[Comprehensive School Reform in Finland]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-11-06
@@ -84,6 +85,7 @@ updated: 2026-11-06
 >
 >   - **2004** 颁布《2004 年国家核心课程》，微调学科要求。
 >   - **2014** 颁布[[Finnish National Core Curriculum|《2014年国家核心课程》]]，引入跨学科现象本位学习（PhBL）与横向核心素养。
+>   - **2017** 与国际交流流动中心（CIMO）合并重组为芬兰国家教育局（Finnish National Agency for Education, FNAE），下设 Education Finland 等专业网络推进国家教育出口与国际化推广。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 4, 7)]]
 
 ---
 
@@ -104,6 +106,7 @@ updated: 2026-11-06
 > - **国家核心课程纲要** 《综合学校国家核心大纲》（1994、2004、2014 版本），构成全国基础教育的法定指导框架。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12, 58)]]
 > - **国家抽样学业测评** 定期针对综合学校结业阶段（9年级）组织数学、母语及外语国内抽样评估。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 5)]]
 > - **教师专业发展与项目资助** 分配国家专项竞争性基金，支持学校开展教学法实验、跨学科融合及数字化探索。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 58)]]
+> - **教育出口质量认证与国家品牌推广** 运营 Education Finland 官方服务网络，协同制定教育出口质量认证标准与对外推广方案。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 4, 7)]]
 
 > [!citation-card] 专业信任型治理理念
 > 我们信任各市镇、学校、校长和教师，他们拥有做好工作的自由与自主权，并能根据当地实际情况进行调整。这听起来很理想主义，但教育必须建立在信任之上。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 8)]]

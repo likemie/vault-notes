@@ -6023,6 +6023,14 @@
       "seen_in": [],
       "title": "Efficiency of reading comprehension training in pupils living in poverty"
     },
+    "Bacchi & Goodwin, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
+      ],
+      "title": ""
+    },
     "Bacchi, 2009": {
       "doi": "",
       "isbn": "",
@@ -40265,6 +40273,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of morphological interventions: Effects on literacy achievement of children with literacy difficulties"
+    },
+    "Goodwin, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
+      ],
+      "title": ""
     },
     "Goos et al., 2021": {
       "datasets": [
@@ -80072,8 +80088,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
-        "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md"
+        "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md"
       ],
       "title": ""
     },
