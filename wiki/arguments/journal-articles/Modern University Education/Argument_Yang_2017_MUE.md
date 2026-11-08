@@ -76,7 +76,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-04
-updated: 2026-11-06
+updated: 2026-11-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2017_MUE"
@@ -141,6 +141,7 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
+> %%{init: {'flowchart': {'useMaxWidth': false}}}%%
 > flowchart LR
 >     A["战后初期：冷战军备与任务机构垄断国防科研计划性资助"] --> B["学术界抗议：柯南特、杜布里奇与NSF早期抵制计划性控制"]
 >     B --> C["1957年卫星危机：打破美国技术优势神话，暴露基础人才断层"]
