@@ -11680,8 +11680,6 @@
     "James, 2017": "James, 2017",
     "Jameson (1991)": "Jameson, 1991",
     "Jameson, 1991": "Jameson, 1991",
-    "Jamie A. Kowalczyk (2012)": "Jamie A. Kowalczyk, 2012",
-    "Jamie A. Kowalczyk, 2012": "Jamie A. Kowalczyk, 2012",
     "Jamie Peck (1998)": "Jamie Peck, 1998",
     "Jamie Peck, 1998": "Jamie Peck, 1998",
     "Jamison (2022)": "Jamison, 2022",
@@ -22873,6 +22871,7 @@
     "Steiner-Khamsi (2006)": "Steiner-Khamsi, 2006",
     "Steiner-Khamsi (2012)": "Steiner-Khamsi, 2012",
     "Steiner-Khamsi (2013)": "Steiner-Khamsi, 2013",
+    "Steiner-Khamsi (2022)": "Steiner-Khamsi, 2022",
     "Steiner-Khamsi (2023)": "Steiner-Khamsi, 2023",
     "Steiner-Khamsi (2024)": "Steiner-Khamsi, 2024",
     "Steiner-Khamsi et al. (2020)": "Steiner-Khamsi et al., 2020",
@@ -22889,6 +22888,7 @@
     "Steiner-Khamsi, 2006": "Steiner-Khamsi, 2006",
     "Steiner-Khamsi, 2012": "Steiner-Khamsi, 2012",
     "Steiner-Khamsi, 2013": "Steiner-Khamsi, 2013",
+    "Steiner-Khamsi, 2022": "Steiner-Khamsi, 2022",
     "Steiner-Khamsi, 2023": "Steiner-Khamsi, 2023",
     "Steiner-Khamsi, 2024": "Steiner-Khamsi, 2024",
     "Steinert (2010)": "Steinert, 2010",
@@ -112948,21 +112948,6 @@
       ],
       "title": ""
     },
-    "Jamie A. Kowalczyk, 2012": {
-      "aliases": [
-        "Jamie A. Kowalczyk, 2012",
-        "Jamie A. Kowalczyk (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Jamie A. Kowalczyk, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/comparative-education/Context in Comparative Education.md"
-      ],
-      "title": ""
-    },
     "Jamie Peck, 1998": {
       "aliases": [
         "Jamie Peck, 1998",
@@ -194161,6 +194146,21 @@
       "seen_in": [
         "wiki/concepts/comparative-education/Façade of Rationality.md",
         "wiki/concepts/comparative-education/Soft Power by Hard Facts.md"
+      ],
+      "title": ""
+    },
+    "Steiner-Khamsi, 2022": {
+      "aliases": [
+        "Steiner-Khamsi, 2022",
+        "Steiner-Khamsi (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Steiner-Khamsi, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
       ],
       "title": ""
     },
