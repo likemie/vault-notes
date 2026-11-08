@@ -5,6 +5,18 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     },
     {
+      "basename": "Hannah Arendt",
+      "path": "wiki/persons/us/Hannah Arendt.md"
+    },
+    {
+      "basename": "Best Practice Approach in Comparative Education",
+      "path": "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md"
+    },
+    {
+      "basename": "Uno Cygnaeus",
+      "path": "wiki/persons/finland/Uno Cygnaeus.md"
+    },
+    {
       "basename": "First International Mathematics Study",
       "path": "wiki/facts/global/First International Mathematics Study.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit11",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit11.md"
-    },
-    {
-      "basename": "Survivorship Bias",
-      "path": "wiki/concepts/research-methodology/Survivorship Bias.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
-    },
-    {
-      "basename": "WSB Model",
-      "path": "wiki/theories/science-policy/WSB Model.md"
     }
   ],
   "omittedPaths": [],
