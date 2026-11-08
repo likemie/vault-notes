@@ -81,9 +81,24 @@
               "icon": "lucide-file",
               "title": "Argument_Hao_2026_Nature"
             }
+          },
+          {
+            "id": "96c685dea1ff308e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,27 +313,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "96c685dea1ff308e",
   "lastOpenFiles": [
-    "wiki/facts/global/PISA.md",
-    "tmp_main_text.txt",
-    "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-002/result.json",
+    "raw/1-s2.0-S1747938X26000643-main.pdf",
+    "raw/Kuortti_2025_extracted.txt",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-001/result.json",
+    "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md",
+    "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
     "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-002/batch-result.schema.json",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-005/batch-result.schema.json",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-005/prompt.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-004/prompt.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-004/batch-result.schema.json",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-001/prompt.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-001/batch-result.schema.json",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-003/prompt.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-003/batch-result.schema.json",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-002/prompt.md",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/state.json",
+    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-005",
+    "wiki/facts/finland/Finnish PISA Miracle.md",
+    "wiki/facts/global/PISA.md",
+    "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
     "sources/Sahlgren_2015_CPS/Sahlgren_2015_CPS.md",
     "wiki/methods/quantitative/Disruption Index.md",
-    "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md",
-    "tmp_paper_text.txt",
-    "raw/From Finland to the world  interrogating the global learning crisis.pdf",
     "wiki/methods/quantitative/Knowledge Extent.md",
     "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
     "tmp/callout-refinement/yang-block-dark.png",
-    "tmp/callout-refinement/yang-block-check.log",
-    "tmp/callout-refinement/yang-block-check.mjs",
     "tmp/callout-refinement/yang-redesign-dark-390.png",
     "tmp/callout-refinement/yang-redesign-dark-1440.png",
-    "tmp/callout-refinement/yang-redesign-check.log",
-    "tmp/callout-refinement/yang-redesign-check.mjs",
-    "tmp/callout-refinement/yang-redesign.py",
     "top_Hao_2026_Nature_Fig4_Follow_on_Engagement_and_Overlapping_Works.jpg",
     "top_Hao_2026_Nature_Fig1_AI_Adoption_Prevalence.jpg",
     "sources/Hao_2026_Nature/figures/Hao_2026_Nature_Fig4_Follow_on_Engagement_and_Overlapping_Works.jpg",
@@ -326,8 +351,6 @@
     "sources/Hao_2026_Nature/figures/Hao_2026_Nature_Fig2_Impact_and_Career_Advancement.jpg",
     "sources/Hao_2026_Nature/figures/Hao_2026_Nature_Fig1_AI_Adoption_Prevalence.jpg",
     "p6-06.png",
-    "tmp/callout-refinement/yang-horizontal-lint.log",
-    "tmp/callout-refinement/yang-horizontal-check.log",
     "sources/Hao_2026_Nature/Hao_2026_Nature.md",
     "sources/Hao_2026_Nature.md",
     "wiki/persons/uk/David Hargreaves.md",
@@ -338,13 +361,6 @@
     "wiki/concepts/higher-education/Matthew Effect in Academia.md",
     "wiki/theories/science-policy/WSB Model.md",
     "wiki/theories/science-policy/Random Impact Rule.md",
-    "wiki/theories/science-policy/Constant-Probability-of-Success Model.md",
-    "wiki/concepts/educational-policy-reform/Thoughtful Engagement.md",
-    "wiki/concepts/educational-policy-reform/Appropriate Research.md",
-    "wiki/concepts/educational-policy-reform/Research Integration.md",
-    "sources/Yang_2017_MUE/Yang_2017_MUE.md",
-    "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md",
-    "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md",
     "未命名.canvas"
   ]
 }
