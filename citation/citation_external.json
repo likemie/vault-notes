@@ -7519,6 +7519,7 @@
     "Farberow (1963)": "Farberow, 1963",
     "Farberow, 1963": "Farberow, 1963",
     "Farley-Ripple (2012)": "Farley-Ripple, 2012",
+    "Farley-Ripple (2024)": "Farley-Ripple, 2024",
     "Farley-Ripple et al. (2017)": "Farley-Ripple et al., 2017",
     "Farley-Ripple et al. (2018)": "Farley-Ripple et al., 2018",
     "Farley-Ripple et al. (2022)": "Farley-Ripple et al., 2022",
@@ -7526,6 +7527,7 @@
     "Farley-Ripple et al., 2018": "Farley-Ripple et al., 2018",
     "Farley-Ripple et al., 2022": "Farley-Ripple et al., 2022",
     "Farley-Ripple, 2012": "Farley-Ripple, 2012",
+    "Farley-Ripple, 2024": "Farley-Ripple, 2024",
     "Farmer-Hinton (2009)": "Farmer-Hinton, 2009",
     "Farmer-Hinton, 2009": "Farmer-Hinton, 2009",
     "Farmus et al. (2020)": "Farmus et al., 2020",
@@ -82535,6 +82537,21 @@
       ],
       "title": ""
     },
+    "Farley-Ripple, 2024": {
+      "aliases": [
+        "Farley-Ripple, 2024",
+        "Farley-Ripple (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Farley-Ripple, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
     "Farmer-Hinton, 2009": {
       "aliases": [
         "Farmer-Hinton, 2009",
@@ -126742,6 +126759,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
         "wiki/concepts/educational-leadership-administration/Semi-Permeable Culture.md",
         "wiki/persons/norway/Tone Kvernbekk.md",
         "wiki/persons/uk/Tim Cain.md"
