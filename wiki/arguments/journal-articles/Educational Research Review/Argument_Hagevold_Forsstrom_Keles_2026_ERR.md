@@ -7,9 +7,9 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 88
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 91
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 journal: "Educational Research Review"
 authors:
@@ -43,11 +43,14 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[School Leadership]]"
   - "[[Paradigm]]"
+  - "[[Research Integration]]"
   - "[[Teacher Professional Agency]]"
   - "[[Third Voice]]"
   - "[[Professional Judgment]]"
   - "[[Deficit Framing]]"
   - "[[Epistemology]]"
+  - "[[Thoughtful Engagement]]"
+  - "[[Appropriate Research]]"
   - "[[Research Literacy]]"
   - "[[Epistemic Stances]]"
   - "[[Literature Search]]"
@@ -145,7 +148,7 @@ updated: 2026-11-08
 > - **阻碍瓶颈与深层机制** 一线教师与[[School Leadership|学校领导]]者在研究使用中面临哪些普遍障碍与促成条件，背后的深层治理机制究竟为何？
 
 > [!claim] 核心主张
-> 学校中的研究使用深受宏观系统性制度条件的制约，但既有实证研究严重局限于个体归因的缺陷框定，将问题狭隘归咎于教师个人的技能缺乏与态度消极。事实上，最顽固的障碍与最关键的促成条件均横向穿透个体、组织与系统三个层级，由信任、技能发展、可持续结构与关系四类相互强化的跨层治理机制协同塑造。因此，学校研究使用无法依靠自上而下的行政指令强制落地，必须实现[[Paradigm|范式]]转型：从外推方案的工具性实施（implementation）转向扎根专业实践的整合（integration），依托制度化的可持续结构培育[[Teacher Professional Agency|教师专业能动性]]，使研究证据作为平等的[[Third Voice|第三声音]]融入集体研讨与[[Professional Judgment|专业判断]]。
+> 学校中的研究使用深受宏观系统性制度条件的制约，但既有实证研究严重局限于个体归因的缺陷框定，将问题狭隘归咎于教师个人的技能缺乏与态度消极。事实上，最顽固的障碍与最关键的促成条件均横向穿透个体、组织与系统三个层级，由信任、技能发展、可持续结构与关系四类相互强化的跨层治理机制协同塑造。因此，学校研究使用无法依靠自上而下的行政指令强制落地，必须实现[[Paradigm|范式]]转型：从外推方案的工具性实施（implementation）转向扎根专业实践的[[Research Integration|研究整合]]（research integration），依托制度化的可持续结构培育[[Teacher Professional Agency|教师专业能动性]]，使研究证据作为平等的[[Third Voice|第三声音]]融入集体研讨与[[Professional Judgment|专业判断]]。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2025 年 1 月在 [[Scopus]]、[[Web of Science]] 与[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center, ERIC）三大数据库规范检索，历经两轮独立双盲筛选后纳入的 109 项关于中小学教师与学校领导者研究使用的同行评议实证研究（涵盖 28 个国家，横跨定量、质性与[[Mixed Methods Research|混合方法]]设计）。
@@ -157,10 +160,10 @@ updated: 2026-11-08
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] | 确立质量使用的核心判准：高质量使用要求深思熟虑地参与恰当研究并付诸行动，超越泛泛接触，且受个体（技能、心态、关系）、组织（结构、文化、领导）与系统三层条件立体支撑。用作分析主干框架。 |
+> | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] | 确立质量使用的核心判准：高质量使用要求以[[Thoughtful Engagement\|审思参与]]（thoughtful engagement）对待[[Appropriate Research\|适切研究]]（appropriate research）并付诸行动，超越泛泛接触，且受个体（技能、心态、关系）、组织（结构、文化、领导）与系统三层条件立体支撑。用作分析主干框架。 |
 > | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]** | 跨层[[Educational Governance Framework\|治理分析框架]]：以信任、技能发展、可持续结构与关系四类横切机制替代原先各层级机械嵌套逻辑，解释持久障碍的生成根源与转化条件。 |
-> | **[[Deep Use Framework\|深层使用框架（Deep Use）]]**<br>[[Elizabeth Farley-Ripple\|Farley-Ripple et al. (2018, 2022)]] | 刻画证据使用的微观活动过程：区分工具性、策略性与概念性使用，将实践者对研究的搜寻、阐释与整合界定为核心活动；用来刻画深思熟虑参与同恰当研究之间的双向互动箭头。 |
-> | **[[Research Literacy\|研究素养]]**<br>Eriksen (2022) | 将教师专业工作界定为兼具情境敏感性的实践技艺，强调实践者依据完整性、理性审议与灵活性三种德性对证据展开审慎权衡；用来界定恰当研究的四大判准，避免机械照搬。 |
+> | **[[Deep Use Framework\|深层使用框架（Deep Use）]]**<br>[[Elizabeth Farley-Ripple\|Farley-Ripple et al. (2018, 2022)]] | 刻画证据使用的微观活动过程：区分工具性、策略性与概念性使用，将实践者对研究的搜寻、阐释与整合界定为核心活动；用来刻画[[Thoughtful Engagement\|深思熟虑参与]]同[[Appropriate Research\|恰当研究]]之间的双向互动箭头。 |
+> | **[[Research Literacy\|研究素养]]**<br>Eriksen (2022) | 将教师专业工作界定为兼具情境敏感性的实践技艺，强调实践者依据完整性、理性审议与灵活性三种德性对证据展开审慎权衡；用来细化[[Appropriate Research\|恰当研究]]的四大判准，避免机械照搬。 |
 > | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey and Brown (2019) | 采用社会生态学微观、中观、外层、宏观与时间维度，刻画研究参与嵌入外部宏观体制的生态图景；为个体、组织、系统三层级及其细分主题提供理论来源。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -258,7 +261,7 @@ updated: 2026-11-08
 > [!feature] 组织生态与恰当研究的核心构件
 > - **[[Semi-Permeable Culture|半透性组织文化]]（Semi-permeable Culture）** 具备创新活力的学校文化展现出恰当的动态平衡：既具备维系教育核心价值与稳定性的制度韧性，又保持足够的[[Open-Mindedness|开放性]]以接纳前沿研究对既有教条的反思与质疑（Kvernbekk, 2016）。在此类环境中，心理安全感成为创新的先决条件，教师必须确信当尝试失败时背后有人托底（Gaussel et al., 2021, p. 9）。
 > - **研究定位为[[Third Voice|第三声音]]（Third Voice）** 即使研究证据具备高度的科学可信度，在教师与学校管理者的日常决策审议中，它始终且仅应充当由实践经验、师生需求和专业伦理构成的多方对话中的第三声音（Third Voice; Cain, 2015b, p. 482），独立于行政指令，保障实践者的专业审议自主。
-> - **适切证据的四维属性** 一线实践者认可的恰当研究必须同时满足四项指标：情境高度适配（与本校生源与文化相容）、实践工具性明确（具有清晰操作指向与通俗表述）、与其他知识来源深度相容（能与个人[[Tacit Knowledge|默会知识]]调和），以及方法学上的稳健可靠（Baan et al., 2023; Gleeson et al., 2024）。
+> - **适切证据的四维属性** 一线实践者认可的[[Appropriate Research|恰当研究]]必须同时满足四项指标：情境高度适配（与本校生源与文化相容）、实践工具性明确（具有清晰操作指向与通俗表述）、与其他知识来源深度相容（能与个人[[Tacit Knowledge|默会知识]]调和），以及方法学上的稳健可靠（Baan et al., 2023; Gleeson et al., 2024）。
 
 > [!figure]- 研究使用的整合框架（初始框架）
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig1_Consolidated_Framework.jpg)
@@ -412,10 +415,10 @@ updated: 2026-11-08
 ---
 
 > [!claim|step] 论证步骤四　学校用好研究必须转向扎根课堂情境的专业整合
-> 面对实证研究揭示的复杂机制网络，学校研究使用必须实现根本转型：抛弃自上而下单向灌输的工具性实施范式，转向立足专业智慧与情境调和的整合范式，依托可持续结构充分激发[[Teacher Professional Agency|教师专业能动性]]。
+> 面对实证研究揭示的复杂机制网络，学校研究使用必须实现根本转型：抛弃自上而下单向灌输的工具性实施范式，转向立足专业智慧与情境调和的[[Research Integration|研究整合]]范式，依托可持续结构充分激发[[Teacher Professional Agency|教师专业能动性]]。
 
 > [!sub-claim] 1. 专业整合要求把科学证据与本土智慧结合并固化为学校常规
-> 整合概念克服了传统工具性应用的僵化与概念性使用的虚化，确立了具有高度操作性的双重专业内涵。
+> [[Research Integration|专业整合]]概念克服了传统工具性应用的僵化与概念性使用的虚化，确立了具有高度操作性的双重专业内涵。
 
 > [!evidence-grid] 支持从实施转向整合的理论与经验证据
 > - **研究在实践决策中始终充当第三声音** 跨越 109 项研究的广泛经验证据一致表明，在现实复杂生动的课堂面前，外部科研成果无法直接自动推导出唯一的教学法。科学证据在实践决策中充当实践经验与情境智慧对话中的[[Third Voice|第三声音]]（Third Voice; Cain, 2015b），避免沦为发号施令的教条指令。因此，整合以教师充分的专业裁量权为第一前提，由教师自主审定证据在具体情境下的可适用性。
@@ -424,7 +427,7 @@ updated: 2026-11-08
 > - **认识论与组织维度的双向共生机制** 整合包含认识论与组织两大相辅相成的维度。**认识论维度**指向研究知识与情境智慧、专业经验的积极调和；**组织维度**指向研究参与在学校文化、日常规程与制度结构中的深度内嵌。缺乏组织结构的保障，认识论调和无从谈起；缺乏真实的认识论对话，组织规程必然异化为形式主义的空壳。
 
 > [!sub-claim] 2. 深度参与的核心在于从容反思与结合情境的权变决策
-> 在整合范式下，高质量的研究使用，即深思熟虑的参与（Thoughtful Engagement），呈现出具体而从容的专业实践图景。
+> 在整合范式下，高质量的研究使用，即[[Thoughtful Engagement|深思熟虑的参与]]（Thoughtful Engagement），呈现出具体而从容的专业实践图景。
 
 > [!pathways] 深思熟虑参与的三重实践形态
 > - **前置性的深度批判研读** 教师与管理者结合本土面临的真实问题，对严谨的一手实证报告或高质量系统综述展开沉浸式研读，超越商业中介碎片化技巧清单的局限，审视其样本情境、边界条件与可能引发的衍生[[Side Effects|副作用]]。
@@ -466,7 +469,7 @@ updated: 2026-11-08
 ---
 
 > [!citation-card] 整合的界定与双重维度
-> 从工具性实施转向专业整合，比概念性使用更推进一步：概念性使用仅描述研究在不直接应用的情况下潜移默化地改变思维，而整合则意味着一个更加积极、更加刻意的专业过程，旨在将科学研究知识与实践者的专业智慧、情境判断紧密调和起来。在组织层面上，整合是指将研究参与制度化内嵌于学校的日常文化、规程与结构之中，使之扎根为持续的集体实践。
+> 从工具性实施转向[[Research Integration|专业整合]]，比概念性使用更推进一步：概念性使用仅描述研究在不直接应用的情况下潜移默化地改变思维，而整合则意味着一个更加积极、更加刻意的专业过程，旨在将科学研究知识与实践者的专业智慧、情境判断紧密调和起来。在组织层面上，整合是指将研究参与制度化内嵌于学校的日常文化、规程与结构之中，使之扎根为持续的集体实践。
 >
 > *Integration here can be understood in two complementary senses. Epistemologically, it refers to the active reconciliation of research knowledge with professional wisdom, contextual judgment and the experiential knowledge of teachers and school leaders - research as a third voice in professional dialogue rather than a directive. Organizationally, it refers to the embedding of [[Engagement in and with Research|research engagement]] into the culture, routines, and structures of schools as a sustained collective practice rather than an individual or occasional activity.*
 

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Matthew Effect in Academia",
+      "path": "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+    },
+    {
+      "basename": "Argument_Liu_2018_Nature",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
+    },
+    {
+      "basename": "Disruption Index",
+      "path": "wiki/methods/quantitative/Disruption Index.md"
+    },
+    {
+      "basename": "WSB Model",
+      "path": "wiki/theories/science-policy/WSB Model.md"
+    },
+    {
+      "basename": "Hot Hand Fallacy",
+      "path": "wiki/theories/science-policy/Hot Hand Fallacy.md"
+    },
+    {
+      "basename": "Random Impact Rule",
+      "path": "wiki/theories/science-policy/Random Impact Rule.md"
+    },
+    {
+      "basename": "Constant-Probability-of-Success Model",
+      "path": "wiki/theories/science-policy/Constant-Probability-of-Success Model.md"
+    },
+    {
       "basename": "Argument_Yang_2017_MUE",
       "path": "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md"
     },
@@ -67,10 +95,6 @@
     {
       "basename": "First International Mathematics Study",
       "path": "wiki/facts/global/First International Mathematics Study.md"
-    },
-    {
-      "basename": "Argument_Liu_2018_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
     },
     {
       "basename": "Argument_Zhang_Zhao_2026_EDR",
@@ -157,10 +181,6 @@
       "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
     },
     {
-      "basename": "Disruption Index",
-      "path": "wiki/methods/quantitative/Disruption Index.md"
-    },
-    {
       "basename": "Professional Interest",
       "path": "wiki/concepts/higher-education/Professional Interest.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Argument_Chen_2025_HSSC",
       "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Chen_2025_HSSC.md"
-    },
-    {
-      "basename": "Argument_Liu_2023_NHB",
-      "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Liu_2023_NHB.md"
-    },
-    {
-      "basename": "Zhang_Zhao_2026_EDR",
-      "path": "sources/Zhang_Zhao_2026_EDR/Zhang_Zhao_2026_EDR.md"
-    },
-    {
-      "basename": "Thomas Kuhn",
-      "path": "wiki/persons/us/Thomas Kuhn.md"
-    },
-    {
-      "basename": "Joint Probability Matrix of Hits",
-      "path": "wiki/methods/quantitative/Joint Probability Matrix of Hits.md"
-    },
-    {
-      "basename": "广东省民政事业发展十五五规划_全文1至26页_合并校对稿",
-      "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/广东省民政事业发展十五五规划_全文1至26页_合并校对稿.md"
     }
   ],
   "omittedPaths": [],

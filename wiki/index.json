@@ -5806,6 +5806,18 @@
     ]
   },
   {
+    "title": "Appropriate Research",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Appropriate Research.md",
+    "aliases": [
+      "恰当研究",
+      "适切研究",
+      "适切证据",
+      "恰当研究证据",
+      "appropriate research evidence"
+    ]
+  },
+  {
     "title": "Bilingual Education Policy",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Bilingual Education Policy.md",
@@ -7089,6 +7101,16 @@
     ]
   },
   {
+    "title": "Research Integration",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research Integration.md",
+    "aliases": [
+      "教育研究整合",
+      "研究整合范式",
+      "evidence integration"
+    ]
+  },
+  {
     "title": "Research Utilization",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Research Utilization.md",
@@ -7433,6 +7455,18 @@
       "第三空间对话",
       "Third Space",
       "第三空间"
+    ]
+  },
+  {
+    "title": "Thoughtful Engagement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Thoughtful Engagement.md",
+    "aliases": [
+      "审思参与",
+      "深思熟虑的参与",
+      "深思熟虑的研究参与",
+      "审慎证据参与",
+      "thoughtful engagement with research"
     ]
   },
   {
