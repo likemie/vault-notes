@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -162,5 +162,18 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Politics of Knowledge]] | 概念 | 知识政治学，专业知识民主化直接构成教育知识政治博弈的底层生态。 |
+> | [[Technologies of Exclusion]] | 概念 | 排除性技术，专业知识民主化的反向机制，通过行话与资格壁垒维系垄断。 |
+> | [[Policy Brokerage]] | 概念 | 政策中介，中介机构通过构建量化证据层级来防御专业知识民主化带来的公信力侵蚀。 |
+> | [[Scientization of Politics]] | 概念 | 政治科学化与专业知识民主化相互交织，导致科学证据高度暴露于公共争议。 |
+> | [[Randomised Controlled Trials]] | 方法 | 随机对照试验常被中介机构作为排除性黄金标准用于维系专业中立权威。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 阐释专业知识民主化如何使得教育[[Policy Brokerage\|政策中介]]机构承受巨大的公信力拷问，从而倒逼出以 [[Randomised Controlled Trials\|RCT]] 为金标准的证据层级体系与量化规制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 阐释专业知识民主化如何使得教育政策中介机构承受公信力拷问，倒逼出以随机对照试验为金标准的证据层级体系。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 将专业知识民主化作为质性编码核心构念，比较北欧三国学校改革中科学证据与政治合法化博弈的微观机制。
