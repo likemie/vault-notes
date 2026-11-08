@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Sahlgren_2015_CPS",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+    },
+    {
+      "basename": "First International Mathematics Study",
+      "path": "wiki/facts/global/First International Mathematics Study.md"
+    },
+    {
+      "basename": "Argument_Liu_2018_Nature",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
+    },
+    {
+      "basename": "Argument_Zhang_Zhao_2026_EDR",
+      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
+    },
+    {
+      "basename": "基础领域青年人才与科研资助文献摘要",
+      "path": "output/基础领域青年人才与科研资助文献摘要.md"
+    },
+    {
       "basename": "draft",
       "path": "output/youth-talent-lit-review/draft.md"
     },
@@ -9,16 +29,8 @@
       "path": "output/youth-talent-lit-review/draft-v6.md"
     },
     {
-      "basename": "Argument_Sahlgren_2015_CPS",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
-    },
-    {
       "basename": "Comparative Education",
       "path": "information/Comparative Education.md"
-    },
-    {
-      "basename": "基础领域青年人才与科研资助文献摘要",
-      "path": "output/基础领域青年人才与科研资助文献摘要.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
@@ -69,10 +81,6 @@
       "path": "wiki/arguments/journal-articles/Nature Human Behaviour/Argument_Haubrock_2026_NHB.md"
     },
     {
-      "basename": "Argument_Zhang_Zhao_2026_EDR",
-      "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-    },
-    {
       "basename": "第二讲_坚持党对教育事业的全面领导_三节合并",
       "path": "file:/private/var/spool/pdfwriter/shaoyangwu/第三节/第二讲_坚持党对教育事业的全面领导_三节合并.md"
     },
@@ -95,10 +103,6 @@
     {
       "basename": "Disruption Index",
       "path": "wiki/methods/quantitative/Disruption Index.md"
-    },
-    {
-      "basename": "Argument_Liu_2018_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
     },
     {
       "basename": "Professional Interest",
@@ -195,10 +199,6 @@
     {
       "basename": "WSB Model",
       "path": "wiki/theories/science-policy/WSB Model.md"
-    },
-    {
-      "basename": "Combinatorial Novelty",
-      "path": "wiki/concepts/science-policy/Combinatorial Novelty.md"
     }
   ],
   "omittedPaths": [],

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md",
+                "file": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Liu_2018_Nature"
+              "title": "Argument_Sahlgren_2015_CPS"
             }
           },
           {
@@ -66,39 +66,9 @@
               "icon": "lucide-file",
               "title": "Argument_Zhang_Zhao_2026_EDR"
             }
-          },
-          {
-            "id": "87fb6cf657f73fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output/youth-talent-lit-review/draft.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "draft"
-            }
-          },
-          {
-            "id": "0a5f5f34a97a09e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output/基础领域青年人才与科研资助文献摘要.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "基础领域青年人才与科研资助文献摘要"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,16 +283,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "87fb6cf657f73fe8",
+  "active": "e2374d26ccaac553",
   "lastOpenFiles": [
+    "wiki/facts/global/First International Mathematics Study.md",
+    "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
+    "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md",
+    "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
+    "output/基础领域青年人才与科研资助文献摘要.md",
+    "output/youth-talent-lit-review/draft.md",
     "output/youth-talent-lit-review/draft-v9.md",
     "output/youth-talent-lit-review/draft-v8.md",
     "wiki/facts/finland/KiVa Anti-Bullying Program.md",
     "output/youth-talent-lit-review/draft-v6.md",
     "output/youth-talent-lit-review/draft-v7.md",
-    "output/youth-talent-lit-review/draft.md",
     "wiki/facts/finland/Teacher Training School System in Finland.md",
-    "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
     "output/youth-talent-lit-review/_cnt.py",
     "wiki/facts/finland/1990s Economic Depression in Finland.md",
     "wiki/facts/finland/1993 Finnish Municipal Subsidy Reform.md",
@@ -336,13 +310,9 @@
     "output/youth-talent-lit-review/draft-v2.md",
     "output/youth-talent-lit-review/draft-v1.md",
     "information/Comparative Education.md",
-    "output/基础领域青年人才与科研资助文献摘要.md",
     "output/youth-talent-lit-review/03-outline.md",
     "output/youth-talent-lit-review",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
-    "wiki/facts/uk/EPPI-Reviewer.md",
-    "wiki/persons/canada/Catherine Haeck.md",
-    "wiki/persons/norway/Sølvi Mausethagen.md",
     "output/hagevold_extracted_text.txt",
     "output/related-updates/Argument_Hagevold_Forsstrom_Keles_2026_ERR-7ba13f8a/batch-020/result.json",
     "output/related-updates/Argument_Hagevold_Forsstrom_Keles_2026_ERR-7ba13f8a/batch-019/result.json",
