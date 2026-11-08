@@ -45,10 +45,11 @@ related_facts:
   - "[[Genesis Mission]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 
 ---
@@ -85,6 +86,7 @@ updated: 2026-11-02
 > - **2003 — 组建全球蛋白质数据库联盟（wwPDB）** 形成由美国 RCSB PDB、欧洲 PDBe、日本 PDBj 及后来加入的生物核磁共振数据银行（BMRB）构成的四方联合治理架构。
 > - **2010s–至今 — 冷冻电镜革命与 AI 蛋白质折叠颠覆** 冷冻电镜（Cryo-EM）使复杂超大分子机器解析呈现爆炸式增长；PDB 累积的 20 余万个高质量原子级结构，直接成为 DeepMind 训练 AlphaFold 1/2/3 及 ESMFold 的决定性金矿。
 > - **2025–2026 — 白宫国家科技战略确立其为中等规模公共基础设施典范** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章深刻剖析 PDB 与 [[Critical Assessment of Structure Prediction|CASP]]，强调科学突破依赖长期公共数据公地，并以此作为推行国家级[[Genesis Mission|创世纪计划]]与新型科研组织（[[Focused Research Organization|FRO]]）的战略参照。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 22)]]
+> - **2026 — 作为高光基准数据集驱动人工智能选题集聚（[[Argument_Hao_2026_Nature|Hao et al., 2026]]）** 郝琦（Qi Hao）等实证指出，蛋白质三维结构库等高质量开源基准数据集的可得性是驱动学者超额采纳 AI 工具的主导性诱因；算法对已知基准数据的刚性依赖促使海量科研团队涌向同一成熟赛道，加剧了后继成果的同质化集聚与注意力极化。
 
 ---
 
@@ -131,3 +133,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 2026 年科技报告对 PDB 作为突破性 AI 科学基石的权威论述。
+> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 将 PDB 作为高信噪比开源基准数据的典型代表，实证揭示数据可获得性如何驱动学者超额采纳 AI 并诱发科研选题过度集聚。

@@ -16109,14 +16109,6 @@
       ],
       "title": ""
     },
-    "CBR, 2010": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
     "CCC, 1987": {
       "doi": "",
       "isbn": "",
@@ -17577,6 +17569,14 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/facts/global/World Bank.md",
         "wiki/persons/us/Martin Carnoy.md"
+      ],
+      "title": ""
+    },
+    "Carol Bacchi, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -32573,27 +32573,11 @@
       ],
       "title": ""
     },
-    "FNAE, 2020": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
     "FOCAC, 2015": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/facts/multi/Forum on China-Africa Cooperation.md"
-      ],
-      "title": ""
-    },
-    "FORMIN, 2018": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -42982,6 +42966,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Researcher/Argument_Eisenhart_Towne_2003_ER.md",
         "wiki/facts/us/Education Sciences Reform Act 2002.md"
+      ],
+      "title": ""
+    },
+    "HAMK, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -53725,6 +53717,14 @@
       "seen_in": [
         "wiki/persons/uk/Justin Parkhurst.md",
         "wiki/theories/educational-policy-reform/Good Governance of Evidence.md"
+      ],
+      "title": ""
+    },
+    "Juusola & Räihä, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -66394,31 +66394,7 @@
       ],
       "title": ""
     },
-    "MINEDU, 2010": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
-    "MINEDU, 2013": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
-    "MINEDU, 2016a": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
-    "MINEDU, 2016b": {
+    "MINEDU 2010b, 2013": {
       "doi": "",
       "isbn": "",
       "seen_in": [
@@ -78687,6 +78663,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Common Rule 2018.md"
+      ],
+      "title": ""
+    },
+    "OMNIA, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },

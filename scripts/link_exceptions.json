@@ -558,5 +558,11 @@
       "sentence": "而在高收入国家的干预实验中，See et al.",
       "target": "wiki/methods/quantitative/Pilot Testing.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md": [
+    {
+      "sentence": "*By consequence, adoption of AI in science presents what seems to be a paradox: an expansion of individual scientists’ impact but a contraction in collective science’s reach, as AI-augmented work moves collectively towards areas richest in data.",
+      "target": "wiki/facts/uk/Reach.md"
+    }
   ]
 }

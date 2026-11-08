@@ -3655,8 +3655,6 @@
     "CAE, 2013": "CAE, 2013",
     "CAUBO (2020)": "CAUBO, 2020",
     "CAUBO, 2020": "CAUBO, 2020",
-    "CBR (2010)": "CBR, 2010",
-    "CBR, 2010": "CBR, 2010",
     "CCC (1987)": "CCC, 1987",
     "CCC, 1987": "CCC, 1987",
     "CCTDI (1992)": "CCTDI, 1992",
@@ -3982,6 +3980,8 @@
     "Carnoy, 1985": "Carnoy, 1985",
     "Carnoy, 1992": "Carnoy, 1992",
     "Carnoy, 1999": "Carnoy, 1999",
+    "Carol Bacchi (2009)": "Carol Bacchi, 2009",
+    "Carol Bacchi, 2009": "Carol Bacchi, 2009",
     "Carol Fitz-Gibbon (1997)": "Carol Fitz-Gibbon, 1997",
     "Carol Fitz-Gibbon, 1997": "Carol Fitz-Gibbon, 1997",
     "Carol H. Weiss (1979)": "Carol H. Weiss, 1979",
@@ -7415,12 +7415,8 @@
     "FAZ, 1998": "FAZ, 1998",
     "FFT Education Datalab (2018)": "FFT Education Datalab, 2018",
     "FFT Education Datalab, 2018": "FFT Education Datalab, 2018",
-    "FNAE (2020)": "FNAE, 2020",
-    "FNAE, 2020": "FNAE, 2020",
     "FOCAC (2015)": "FOCAC, 2015",
     "FOCAC, 2015": "FOCAC, 2015",
-    "FORMIN (2018)": "FORMIN, 2018",
-    "FORMIN, 2018": "FORMIN, 2018",
     "FUT (2018)": "FUT, 2018",
     "FUT, 2018": "FUT, 2018",
     "Faber & Visscher (2014a)": "Faber & Visscher, 2014a",
@@ -9783,6 +9779,8 @@
     "H. M., 1991": "H. M., 1991",
     "H.R. 4875 (2000)": "H.R. 4875, 2000",
     "H.R. 4875, 2000": "H.R. 4875, 2000",
+    "HAMK (2018)": "HAMK, 2018",
+    "HAMK, 2018": "HAMK, 2018",
     "HEFCE (2018)": "HEFCE, 2018",
     "HEFCE, 2018": "HEFCE, 2018",
     "HRK (2019)": "HRK, 2019",
@@ -12232,6 +12230,8 @@
     "Justice, 2010": "Justice, 2010",
     "Justin Parkhurst (2017)": "Justin Parkhurst, 2017",
     "Justin Parkhurst, 2017": "Justin Parkhurst, 2017",
+    "Juusola & Räihä (2018)": "Juusola & Räihä, 2018",
+    "Juusola & Räihä, 2018": "Juusola & Räihä, 2018",
     "Jäger (2004)": "Jäger, 2004",
     "Jäger, 2004": "Jäger, 2004",
     "Jégo (2017)": "Jégo, 2017",
@@ -15113,14 +15113,8 @@
     "MCEETYA, 2008": "MCEETYA, 2008",
     "MEXT (2004)": "MEXT, 2004",
     "MEXT, 2004": "MEXT, 2004",
-    "MINEDU (2010)": "MINEDU, 2010",
-    "MINEDU (2013)": "MINEDU, 2013",
-    "MINEDU (2016a)": "MINEDU, 2016a",
-    "MINEDU (2016b)": "MINEDU, 2016b",
-    "MINEDU, 2010": "MINEDU, 2010",
-    "MINEDU, 2013": "MINEDU, 2013",
-    "MINEDU, 2016a": "MINEDU, 2016a",
-    "MINEDU, 2016b": "MINEDU, 2016b",
+    "MINEDU 2010b (2013)": "MINEDU 2010b, 2013",
+    "MINEDU 2010b, 2013": "MINEDU 2010b, 2013",
     "MIT Whirlwind (1951)": "MIT Whirlwind, 1951",
     "MIT Whirlwind, 1951": "MIT Whirlwind, 1951",
     "MOE (2016)": "MOE, 2016",
@@ -17912,6 +17906,8 @@
     "OED, 2020": "OED, 2020",
     "OHRP (2018)": "OHRP, 2018",
     "OHRP, 2018": "OHRP, 2018",
+    "OMNIA (2022)": "OMNIA, 2022",
+    "OMNIA, 2022": "OMNIA, 2022",
     "ONR (1946)": "ONR, 1946",
     "ONR, 1946": "ONR, 1946",
     "ONS (2026)": "ONS, 2026",
@@ -54328,21 +54324,6 @@
       ],
       "title": ""
     },
-    "CBR, 2010": {
-      "aliases": [
-        "CBR, 2010",
-        "CBR (2010)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "CBR, 2010"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
     "CCC, 1987": {
       "aliases": [
         "CCC, 1987",
@@ -56780,6 +56761,21 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/facts/global/World Bank.md",
         "wiki/persons/us/Martin Carnoy.md"
+      ],
+      "title": ""
+    },
+    "Carol Bacchi, 2009": {
+      "aliases": [
+        "Carol Bacchi, 2009",
+        "Carol Bacchi (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carol Bacchi, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -81734,21 +81730,6 @@
       ],
       "title": ""
     },
-    "FNAE, 2020": {
-      "aliases": [
-        "FNAE, 2020",
-        "FNAE (2020)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "FNAE, 2020"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
     "FOCAC, 2015": {
       "aliases": [
         "FOCAC, 2015",
@@ -81761,21 +81742,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/multi/Forum on China-Africa Cooperation.md"
-      ],
-      "title": ""
-    },
-    "FORMIN, 2018": {
-      "aliases": [
-        "FORMIN, 2018",
-        "FORMIN (2018)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "FORMIN, 2018"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -98936,6 +98902,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Researcher/Argument_Eisenhart_Towne_2003_ER.md",
         "wiki/facts/us/Education Sciences Reform Act 2002.md"
+      ],
+      "title": ""
+    },
+    "HAMK, 2018": {
+      "aliases": [
+        "HAMK, 2018",
+        "HAMK (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "HAMK, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -116798,6 +116779,21 @@
       "seen_in": [
         "wiki/persons/uk/Justin Parkhurst.md",
         "wiki/theories/educational-policy-reform/Good Governance of Evidence.md"
+      ],
+      "title": ""
+    },
+    "Juusola & Räihä, 2018": {
+      "aliases": [
+        "Juusola & Räihä, 2018",
+        "Juusola & Räihä (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Juusola & Räihä, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },
@@ -137455,59 +137451,14 @@
       ],
       "title": ""
     },
-    "MINEDU, 2010": {
+    "MINEDU 2010b, 2013": {
       "aliases": [
-        "MINEDU, 2010",
-        "MINEDU (2010)"
+        "MINEDU 2010b, 2013",
+        "MINEDU 2010b (2013)"
       ],
       "doi": "",
       "identity_keys": [
-        "MINEDU, 2010"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
-    "MINEDU, 2013": {
-      "aliases": [
-        "MINEDU, 2013",
-        "MINEDU (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "MINEDU, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
-    "MINEDU, 2016a": {
-      "aliases": [
-        "MINEDU, 2016a",
-        "MINEDU (2016a)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "MINEDU, 2016a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-      ],
-      "title": ""
-    },
-    "MINEDU, 2016b": {
-      "aliases": [
-        "MINEDU, 2016b",
-        "MINEDU (2016b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "MINEDU, 2016b"
+        "MINEDU 2010b, 2013"
       ],
       "isbn": "",
       "seen_in": [
@@ -157846,6 +157797,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Common Rule 2018.md"
+      ],
+      "title": ""
+    },
+    "OMNIA, 2022": {
+      "aliases": [
+        "OMNIA, 2022",
+        "OMNIA (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "OMNIA, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
       ],
       "title": ""
     },

@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -50,10 +50,11 @@ related_facts:
   - "[[COnnecting REpositories]]"
 related_arguments:
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-02
 >   - **开放数据管道供给** 提供无需身份审核的免费公共 REST API、数据过滤工具以及托管于亚马逊云（AWS S3）的定期全量数据湖快照下载。
 > - **实施控制** 建立持续运行的实体识别与消歧准确率基准测试，设立开源 GitHub 议题看板供全球科研人员纠错与反馈异常，维持元数据质量的高频迭代演进。
 
-> [!citation-card] [[Argument_Liu_2023_NHB|Liu et al. (2023)]] 论开放学术数据对科学学的价值
+> [!citation-card] 开放学术数据对科学学研究的制度价值
 > 商业文献数据库普遍依赖昂贵的付费订阅，造成了学术研究中的数据获取不平等。构建像 OpenAlex 这样更为开放的科学学数据集，不仅能够显著改善经验结论的稳健性与可复现性，还能实质性降低研究者进入该领域的制度门槛。([[Argument_Liu_2023_NHB|Liu et al., 2023, p. 1047]])
 >
 > *Commercial datasets require paid subscriptions, which can create inequality in data access. Creating more open datasets for the science of science, such as OpenAlex, may not only improve the robustness and replicability of empirical claims but also increase entry to the field.*
@@ -92,6 +93,7 @@ updated: 2026-11-02
 > - **2021 — 应急立项与架构设计期** 微软宣布将于年底关停 MAG 后，OurResearch 获得阿卡迪亚基金会 450 万美元资助，以 MAG 数据架构为蓝本设计新一代全开放替代架构。
 > - **2022 — OpenAlex 正式发布与生态扩展** 平台全面对公开放，无缝承接来自全球原 MAG 用户的量化分析工作流，实现篇级引文网络与学者消歧实体的动态每日更新。
 > - **2023–2024 — 全球负责任科研评估与大学排名采纳** 荷兰莱顿大学科学技术研究中心（CWTS）宣布莱顿大学排名（Leiden Ranking）推出基于 OpenAlex 数据的完全开放版本；法国高等教育与科研部宣布国家级资助支持 OpenAlex；索邦大学宣布停订 Web of Science 全面转向 OpenAlex，标志着开放科学基础设施进入主流体制化应用阶段。
+> - **2026 — 支撑千万级大规模科学学计算与人工智能影响度量（[[Argument_Hao_2026_Nature|Hao et al., 2026]]）** 郝琦（Qi Hao）等依托 OpenAlex 抽取自然科学六大门类 4,130 万篇全量论著与 538 万名学者，结合大模型微调分类器与高维语义嵌入，量化证实了人工智能工具重塑学术生产力与收窄集体知识边界的宏观规律，确立了其作为全球千万级大规模科学学计算的核心基座地位。
 
 ---
 
@@ -126,3 +128,22 @@ updated: 2026-11-02
 > >
 > > - **批评观点** 批评者指出，传统商业数据库（如 Web of Science）依靠长期人工编辑团队进行文献标引与分类，在特定细分专业领域的学者消歧与文献类型判定上具有更高的规范性；OpenAlex 高度依赖算法推理，偶有将同名学者或跨学科机构误合并的情况。
 > > - **回应辩护** OpenAlex 团队与开放科学学者指出，封闭商业数据库的人工清洗规则同样存在不透明与更新滞后问题；OpenAlex 提供完全公开的源数据与消歧代码，允许全球学者自主检验、改进算法并提交修正，这种透明纠错机制在长期演进中具备更强大的自我净化能力。
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Data Infrastructure]] | Concept | OpenAlex 属于全球开放学术元数据与知识图谱数据基础设施。 |
+> | [[Microsoft Academic Graph]] | Fact (Program) | 微软学术图谱是 OpenAlex 的前身与直接数据迁移蓝本。 |
+> | [[Metascience]] | Concept | OpenAlex 为科学学实证研究提供免费开放的大规模全景度量基座。 |
+> | [[Bibliometric Analysis]] | Method | 文献计量分析依托 OpenAlex 提供的引文与实体网络展开拓扑测度。 |
+> | [[Citation Distribution]] | Concept | OpenAlex 提供的全量篇级引文数据用于测绘宏观科学引文分布。 |
+> | [[Author Name Disambiguation]] | Method | 学者实体消歧算法是保障 OpenAlex 学者关系图谱质量的核心技术。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 系统评估 OpenAlex 在开放获取、多语种覆盖及学者机构对齐上的数据表现，论证其降低科学学准入门槛的制度价值。
+> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 OpenAlex 4,130 万篇自然科学论著全量数据与学者追踪，量化揭示人工智能扩散带来的个体收益倍增与集体知识广度收缩悖论。
