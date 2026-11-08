@@ -7,6 +7,10 @@ aliases:
 summary: "教师根据学生在准备度、兴趣和学习风格等维度的个体差异，主动调整教学内容、教学过程、学习成果及学习环境的教学框架（Tomlinson, 2001, 2014）；在班级异质性扩大的背景下被多国基础教育改革（如丹麦 2014 年综合学校改革）确立为兼顾卓越与公平的核心举措（Volmari et al., 2025），元分析显示其对整体学业成就具有加速效应（MetaX d = 0.58），但其实施成效高度依赖教师专业诊断能力与弹性分组机制。"
 type: concept
 domain: "learning-science-cognitive-science"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 status: active
 confidence: high
 tags:
@@ -21,7 +25,7 @@ updated: 2026-11-09
 
 ## 概念定义
 
-> [!def] 差异化教学 (Differentiated Instruction, DI)
+> [!def] Differentiated Instruction
 > 差异化教学是指教师在面对学生多元认知水平与异质性背景时，预先且持续规划的主动教学策略。教师依据对学生准备度（Readiness）、兴趣（Interest）和学习偏好（Learning Profile）的评估，在教学内容（Content）、学习过程（Process）、学习成果（Product）以及课堂学习环境（Learning Environment）四个核心维度实施动态调整，以确保每位学习者在适合自身的发展区内获得适切挑战（Tomlinson, 2001, 2014）。
 
 > [!concept-lens] 理论视角
@@ -43,7 +47,7 @@ updated: 2026-11-09
 >
 > | 比较维度 | 差异化教学 (Differentiated Instruction) | 能力分轨/固定快慢班 (Tracking / Streaming) | 个别化教学 (Individualized Instruction) |
 > |---|---|---|---|
-> | **组织形式** | 异质性常规班级内的弹性动态分组 | 依据成绩划分的刚性隔离班级或长周期固定组 | 单一学习者与教学材料的一对一独立闭环 |
+> | **组织形式** | 异质性常规班级内的弹性动态分组 | 依据成绩划分的刚性隔离班级或长周期固定组 | 单一学习者与教学材料的一对一独立自适应学习 |
 > | **评价机制** | 贯穿日常教学全过程的形成性诊断 | 阶段性高利害终结性测验或选拔性评价 | 阶段自测与程序化知识通关测试 |
 > | **核心目标** | 确保全体学生达到高水平共同核心标准 | 基于效率原则对不同能力学生实行分流培养 | 允许学生以完全自选的步调完成个人任务 |
 > | **公平性风险** | 教师精力分配不均及高难度备课压力 | 固化阶层隔离并加剧低轨学生的学业劣势 | 削弱课堂同伴互动与集体建构效应 |

@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -150,6 +150,9 @@ updated: 2026-11-03
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
 > **治理边缘草根默会知识对全球正统教条的反向重构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）基于公共卫生减害政策跨国流动案例指出，传统技术官僚理性将政策简化为中央与国际机构自上而下颁布的标准化禁令。然而，基层实务人员在治理边缘就地探索出的针具交换与替代疗法等草根默会知识（Tacit Knowledge），通过跨国城市网络横向传播，逐步自下而上渗透至地方立法，最终迫使国家管理部门与国际多边组织修正既有禁令教条。这证明一线行动者的情境化实践默会知识不仅具有独立的合法性，更能反向重塑被全球技术官僚垄断的正式制度规范。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–3, 5–6)]]
 
+> [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
+> **行政职业默会知识对实证研究的隐性转译与合法化支撑** Volmari 等人（[[Argument_Volmari_2025_CE|2025, pp. 541–542]]）通过对芬兰国家课程改革起草官员的质性访谈证实，芬兰官方改革文本中同行评议学术期刊直接引用率极低（仅占 9.45%），但这并未削弱其决策公信力。文官在数十年公共服务与教育治理中积淀出深厚的行政默会知识（受访官员生动描述为“两耳之间片刻不停运转的思维团块”），能够依托这种内在认知框架自主鉴别、消化并隐性转译学术研究成果，使默会经验成为连接宏观学术证据与微观政策协商的隐性枢纽。
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -157,7 +160,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **相对价值反转** | 信息技术普及导致编码知识贬值，默会学习能力转变为核心经济资产 | 知识经济演进与后工业劳动力市场变革 | Foray & Lundvall; Rizvi & Lingard |
 > | **具身实践获取** | 默会知识无法脱离身体与实践情境，必须依托浸润式经验习得 | 课堂教学法改革、职业教育与科研[[Apprenticeship\|学徒制]] | Polanyi; Nonaka |
-> | **认识论正义与去边缘化** | 批判实证主义证据等级制对实践与本土默会知识的排斥，揭示草根默会知识反向重构全球正统规范的效能 | 超国家教育治理、全球循证决策、跨国[[Policy Mobility\|政策流动]]与城市治理创新 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
+> | **认识论正义与去边缘化** | 批判实证主义证据等级制对实践与本土默会知识的排斥，揭示草根与行政默会经验反向重构正统规程的效能 | 超国家教育治理、全球循证决策、文官行政决策与城市治理创新 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]]; [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] |
 
 ---
 
@@ -168,6 +171,7 @@ updated: 2026-11-03
 > - **2000 年代至今 — 跨国素养测评与能力本位转向** 经合组织将默会技能的测量转化为[[PISA|国际学生评估项目]]（PISA）中脱离学科大纲的[[Problem Solving|问题解决能力]]与综合素养，推动全球课程体系的[[Pragmatic Paradigm|实用主义]]重构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **2020 年 — 跨国政策流动与治理边缘草根默会知识反向重构** [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] 结合拉美减害政策跨界扩散，揭示一线实务团队的实践默会知识如何打破中心-边缘依附，自下而上重构全球正统政策规范（pp. 2–6）。
 > - **2020年代 — 向全球[[Epistemic Governance|知识治理]]与地缘战略动员的扩展** [[Knowledge Diplomacy|知识外交]]与[[Geopolitics of Higher Education|高等教育地缘政治]]学者将隐性知识引入跨国[[Knowledge Power|知识权力]]分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **2025 年 — 行政官僚默会知识与隐性政策转译实证** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 结合芬兰基础教育改革案例，实证揭示文官群体积淀的深层行政默会知识如何替代形式化显性引文，成为政策制定中自主吸收与转译学术研究的核心中介（pp. 541–542）。
 > - **2026 年 — 证据生态治理中实践默会知识的边缘化与认识论正义** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 揭示超国家循证治理将证据严谨性等同于量化实验与元分析，系统排斥一线教师的实践默会知识与本土传统；主张确立认识论正义，赋予社区与教师实践默会知识合法地位（pp. 347–350）。
 
 ---
@@ -191,8 +195,17 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 概念图谱
+> - 上位概念：[[Epistemology|认识论]] · [[Knowledge-Based Economy|知识经济]] · [[Learning Theory|学习理论]]
+> - 核心维度：具身性 · 情境嵌入 · 不可完全编码性 · 实践反思 · 个人知识
+> - 对应/辨析概念：编码知识 · [[Procedural Knowledge|程序性知识]] · [[Phronesis|实践智慧]] · 形式化规则
+> - 治理与转化应用：[[Apprenticeship|学徒制]] · SECI 模型 · [[Evidence-Based Policy-Making|循证政策制定]] · [[Technical Rationality|技术理性]]批判
+
+---
+
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]与跨国城市治理案例，揭示一线实务团队的草根默会知识如何打破中心-边缘单向依附并反向重构全球正统政策规程（pp. 2–6）。
 > - [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] — 批判超国家机构以技术理性与因果评估特权化排斥一线实践默会知识的等级制，倡导承认教师与本土默会经验合法性的认识论正义（pp. 347–350）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 结合芬兰基础教育改革案例，实证揭示文官群体积淀的行政默会知识如何在极低学术引文率下完成对学术研究的隐性消化与政策合法化转译。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]分析中，揭示非正式网络规范与制度性隐性知识在全球[[Knowledge Power|知识权力]]配置与跨国政策动员中的关键中介作用。
