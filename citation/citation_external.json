@@ -1388,7 +1388,9 @@
     "Bacchi & Goodwin (2016)": "Bacchi & Goodwin, 2016",
     "Bacchi & Goodwin, 2016": "Bacchi & Goodwin, 2016",
     "Bacchi (2009)": "Bacchi, 2009",
+    "Bacchi (2016)": "Bacchi, 2016",
     "Bacchi, 2009": "Bacchi, 2009",
+    "Bacchi, 2016": "Bacchi, 2016",
     "Bach et al. (2009)": "Bach et al., 2009",
     "Bach et al., 2009": "Bach et al., 2009",
     "Bache (2020)": "Bache, 2020",
@@ -3984,6 +3986,8 @@
     "Carnoy, 1985": "Carnoy, 1985",
     "Carnoy, 1992": "Carnoy, 1992",
     "Carnoy, 1999": "Carnoy, 1999",
+    "Carol Bacchi (2009)": "Carol Bacchi, 2009",
+    "Carol Bacchi, 2009": "Carol Bacchi, 2009",
     "Carol Fitz-Gibbon (1997)": "Carol Fitz-Gibbon, 1997",
     "Carol Fitz-Gibbon, 1997": "Carol Fitz-Gibbon, 1997",
     "Carol H. Weiss (1979)": "Carol H. Weiss, 1979",
@@ -14026,6 +14030,8 @@
     "Lazowski & Hulleman, 2016": "Lazowski & Hulleman, 2016",
     "Le Galès (2016)": "Le Galès, 2016",
     "Le Galès, 2016": "Le Galès, 2016",
+    "Le Grand & Bartlett (1993)": "Le Grand & Bartlett, 1993",
+    "Le Grand & Bartlett, 1993": "Le Grand & Bartlett, 1993",
     "Le Pen (1996)": "Le Pen, 1996",
     "Le Pen, 1996": "Le Pen, 1996",
     "LeBel (1982)": "LeBel, 1982",
@@ -21156,7 +21162,9 @@
     "Schartinger et al. (2002)": "Schartinger et al., 2002",
     "Schartinger et al., 2002": "Schartinger et al., 2002",
     "Schatz (2003)": "Schatz, 2003",
+    "Schatz (2016)": "Schatz, 2016",
     "Schatz, 2003": "Schatz, 2003",
+    "Schatz, 2016": "Schatz, 2016",
     "Schau et al. (2001)": "Schau et al., 2001",
     "Schau et al., 2001": "Schau et al., 2001",
     "Scheerens & Bosker (1997)": "Scheerens & Bosker, 1997",
@@ -21639,6 +21647,8 @@
     "Seo & Bryant, 2009": "Seo & Bryant, 2009",
     "Seo (2019)": "Seo, 2019",
     "Seo, 2019": "Seo, 2019",
+    "Seppänen et al. (2019)": "Seppänen et al., 2019",
+    "Seppänen et al., 2019": "Seppänen et al., 2019",
     "Sequeira et al. (1996)": "Sequeira et al., 1996",
     "Sequeira et al., 1996": "Sequeira et al., 1996",
     "Sercenia & Prudente (2023)": "Sercenia & Prudente, 2023",
@@ -27099,6 +27109,8 @@
     "帕维特, 1984": "帕维特, 1984",
     "平克 (2011)": "平克, 2011",
     "平克, 2011": "平克, 2011",
+    "库尔蒂 (2025)": "库尔蒂, 2025",
+    "库尔蒂, 2025": "库尔蒂, 2025",
     "库恩 (1962)": "库恩, 1962",
     "库恩, 1962": "库恩, 1962",
     "库珀与施里弗 (1957)": "库珀与施里弗, 1957",
@@ -27548,9 +27560,11 @@
     "鲍尔 (1993)": "鲍尔, 1993",
     "鲍尔 (1998)": "鲍尔, 1998",
     "鲍尔 (2000)": "鲍尔, 2000",
+    "鲍尔 (2007)": "鲍尔, 2007",
     "鲍尔, 1993": "鲍尔, 1993",
     "鲍尔, 1998": "鲍尔, 1998",
     "鲍尔, 2000": "鲍尔, 2000",
+    "鲍尔, 2007": "鲍尔, 2007",
     "鲍尔斯顿与勒鲁瓦 (1980)": "鲍尔斯顿与勒鲁瓦, 1980",
     "鲍尔斯顿与勒鲁瓦, 1980": "鲍尔斯顿与勒鲁瓦, 1980",
     "鲍格丹与比克连 (1992)": "鲍格丹与比克连, 1992",
@@ -37633,6 +37647,21 @@
       ],
       "title": ""
     },
+    "Bacchi, 2016": {
+      "aliases": [
+        "Bacchi, 2016",
+        "Bacchi (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bacchi, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Problematisation.md"
+      ],
+      "title": ""
+    },
     "Bach et al., 2009": {
       "aliases": [
         "Bach et al., 2009",
@@ -38963,6 +38992,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md",
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_ONeill_2012_NZJES.md",
+        "wiki/concepts/educational-policy-reform/Quasi-market.md",
         "wiki/concepts/political-economy-geopolitics/Network Governance.md",
         "wiki/facts/new-zealand/Treasury Briefing on Student-Teacher Ratios.md"
       ],
@@ -56808,6 +56838,21 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/facts/global/World Bank.md",
         "wiki/persons/us/Martin Carnoy.md"
+      ],
+      "title": ""
+    },
+    "Carol Bacchi, 2009": {
+      "aliases": [
+        "Carol Bacchi, 2009",
+        "Carol Bacchi (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carol Bacchi, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Problematisation.md"
       ],
       "title": ""
     },
@@ -129704,6 +129749,21 @@
       ],
       "title": ""
     },
+    "Le Grand & Bartlett, 1993": {
+      "aliases": [
+        "Le Grand & Bartlett, 1993",
+        "Le Grand & Bartlett (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Le Grand & Bartlett, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Quasi-market.md"
+      ],
+      "title": ""
+    },
     "Le Pen, 1996": {
       "aliases": [
         "Le Pen, 1996",
@@ -181599,6 +181659,21 @@
       "seen_in": [],
       "title": "Academic achievement in children with sickle cell disease: a meta-analysis"
     },
+    "Schatz, 2016": {
+      "aliases": [
+        "Schatz, 2016",
+        "Schatz (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schatz, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Nation Branding.md"
+      ],
+      "title": ""
+    },
     "Schau et al., 2001": {
       "aliases": [
         "Schau et al., 2001",
@@ -185134,6 +185209,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the relationship between grit and related variables."
+    },
+    "Seppänen et al., 2019": {
+      "aliases": [
+        "Seppänen et al., 2019",
+        "Seppänen et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Seppänen et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Nation Branding.md"
+      ],
+      "title": ""
     },
     "Sequeira et al., 1996": {
       "aliases": [
@@ -224186,6 +224276,23 @@
       ],
       "title": ""
     },
+    "库尔蒂, 2025": {
+      "aliases": [
+        "库尔蒂, 2025",
+        "库尔蒂 (2025)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "库尔蒂, 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Nation Branding.md",
+        "wiki/concepts/educational-policy-reform/Quasi-market.md",
+        "wiki/concepts/sociology-of-education/Problematisation.md"
+      ],
+      "title": ""
+    },
     "库恩, 1962": {
       "aliases": [
         "库恩, 1962",
@@ -227555,6 +227662,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Stephen Ball.md"
+      ],
+      "title": ""
+    },
+    "鲍尔, 2007": {
+      "aliases": [
+        "鲍尔, 2007",
+        "鲍尔 (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "鲍尔, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Quasi-market.md"
       ],
       "title": ""
     },

@@ -1481,6 +1481,17 @@
     ]
   },
   {
+    "title": "Nation Branding",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Nation Branding.md",
+    "aliases": [
+      "国家品牌化",
+      "国家品牌",
+      "Country Branding",
+      "国家教育品牌化"
+    ]
+  },
+  {
     "title": "National Character",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/National Character.md",
@@ -7068,6 +7079,17 @@
       "素质教育",
       "suzhi jiaoyu",
       "quality-oriented education"
+    ]
+  },
+  {
+    "title": "Quasi-market",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Quasi-market.md",
+    "aliases": [
+      "准市场",
+      "教育准市场",
+      "准市场机制",
+      "Quasi-Market Mechanism"
     ]
   },
   {
@@ -18696,6 +18718,18 @@
       "后福特制",
       "后福特主义",
       "post-Fordist education"
+    ]
+  },
+  {
+    "title": "Problematisation",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Problematisation.md",
+    "aliases": [
+      "Problematization",
+      "问题化",
+      "问题表征",
+      "Problem Representation",
+      "问题化分析"
     ]
   },
   {
