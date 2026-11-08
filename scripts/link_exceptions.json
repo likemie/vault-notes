@@ -577,6 +577,18 @@
     {
       "sentence": "**Q4：表征中哪些维度被悬置与沉默？",
       "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    },
+    {
+      "sentence": "法律作为公民基本权利屏障的法治功能被系统性遮蔽",
+      "target": "wiki/concepts/educational-philosophy/Screening Off.md"
+    },
+    {
+      "sentence": "**真实商业投标考核** 2022 年，Omnia 进一步推出全球教育服务产品开发专业文凭（OMNIA, 2022），直接将学员的作业考核与海外真实商业投标挂钩。",
+      "target": "wiki/concepts/instruction-pedagogy/Homework.md"
+    },
+    {
+      "sentence": "warning] 制度情境与研究边界",
+      "target": "wiki/concepts/research-methodology/Research Scope.md"
     }
   ]
 }

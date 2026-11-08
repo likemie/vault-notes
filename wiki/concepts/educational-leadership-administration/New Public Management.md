@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -261,6 +261,7 @@ updated: 2026-11-03
 > - **2000s–2010s — 审计文化与[[Governing by Numbers\|数字治理]]高潮** 大规模测验（如 [[PISA]]）与大学[[Research Excellence Framework\|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **2010s 至今 — 证据异化与后 NPM 反思** 治理修辞演化为以科学证据与[[Randomised Controlled Trials\|随机对照试验]]（RCT）为包装的[[Rationalized Myth\|合理化神话]]；同时，创新政策与公共管理学界深刻反思 NPM 导致的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”，提出重塑[[Public Dynamic Capabilities|公共部门动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]以替代被动的 NPM 治理模式。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 90–93)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–798)]]
 > - **2019 — 政体行政传统中介与 NPM 市场化国家治理轨迹解构** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于 158 篇[[Document|文献]]的[[Systematic Review|系统综述]]，揭示了英美智等典型 NPM 市场化国家如何将数据密集型统考与[[School Choice|择校]]竞争、[[Performance Pay|绩效工资]]及刚性接管持续叠加，并通过外包测评服务催生商业利益同盟锁定治理体制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252–255, 259–260)]]
+> - **2025 — 教育出口政策中的可规模化产品封装** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示新公共管理逻辑在芬兰教育出口政策中的深化，通过将复杂教育实践解构并封装为模块化、可规模化的商业产品，消解了教育在社会福利网络中的情境嵌入性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 7)]]
 
 ---
 
@@ -335,4 +336,5 @@ updated: 2026-11-03
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 比较英德高等教育中 NPM 绩效评估与[[Research Excellence Framework|研究卓越框架]]对资源分层的强化。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合[[OECD|经合组织]]1995年报告剖析新公共管理如何借“良治”修辞将教育治理从目的辩论置换为比较[[Performance Indicators|绩效指标]]与远处掌舵。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020, p. 8)]] — 揭示英美跨国管理咨询巨头（麦肯锡、普华永道）如何将新公共管理技术包装为全球通用商品，充当跨国治理与公共教育改革商业推销中介。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用[[Bacchi's WPR Approach|WPR 方法]]揭示芬兰教育出口政策中新公共管理的商业化演进，剖析将公立教育封装为模块化、可规模化产品的政策问题表征及其对福利国家制度基础的消解。
 

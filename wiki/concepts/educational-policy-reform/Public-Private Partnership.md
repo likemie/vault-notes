@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 ---
@@ -182,6 +182,7 @@ updated: 2026-11-03
 > - **2000s — 公立教育核心业务外包与跨国集团扩张** 英国及多国将学区管理、督导与教师进修全面向私营公司开放；[[Nord Anglia Education|诺德安达]]与 [[GEMS Education|GEMS]] 等集团依托 PPP 崛起并在海外拓展，比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）批判其作为新型行动者深刻改写了全球教育转移生态。
 > - **2010s — 新西兰公立校舍长周期 PFI 与[[Charter Schools|特许学校]] PPP 落地** 新西兰教育部与商业财团签订长达 25 年的校舍设计-建造-融资-运维合同（LIP 财团与 Hobsonville Point 学校），并通过《2013年教育修正法案》设立特许学校（[[Partnership Schools Kura Hourua|PSKH]]），将公立办学权向商业公司与慈善信托全面转包（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 > - **2020s — 国家法定[[Innovation Hub|创新中心]]与战略供应链重构** 美国颁布《[[CHIPS and Science Act|芯片与科学法案]]》，设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），确立第三代法定 PPP 模式。
+> - **2025 — 公私混合法人与国内准市场培育** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示北欧福利国家以教育出口为名推行 PPP 生态，通过设立公私合营混合法人绕过公立法制监管，依托公立经费为私营教育科技培育测试温床。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 8)]]
 
 ---
 
@@ -238,6 +239,7 @@ updated: 2026-11-03
 > - [[Argument_Logar_2014_Minerva|Logar et al., 2014]] — 详尽复盘[[Semiconductor Research Corporation|半导体研究公司]]（SRC）30 年产学研公私合作历史，实证揭示其如何通过企业会费撬动联邦 70% 匹配资金。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al., 1994]] — 结合 [[Sematech]] 与 [[DARPA]] 对等注资案例，阐述研发型公私合作如何通过纵向用户—供应商协同克服企业利益冲突。
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 实证分析新西兰公立教育如何通过[[Policy Network|政策网络]]与公私合作伙伴关系引入外部私营资本，重塑学校治理生态。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]] — 结合芬兰教育出口政策剖析公私伙伴关系话语，揭示政策如何将公立生态表征为封闭垄断，借助公私混合法人构建国内准市场并侵蚀公立教育根基。
 
 ---
 

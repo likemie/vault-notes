@@ -10121,6 +10121,8 @@
     "Hare, 1985": "Hare, 1985",
     "Hargrave (2000)": "Hargrave, 2000",
     "Hargrave, 2000": "Hargrave, 2000",
+    "Hargreaves & Fullan (2012)": "Hargreaves & Fullan, 2012",
+    "Hargreaves & Fullan, 2012": "Hargreaves & Fullan, 2012",
     "Hargreaves (1996)": "Hargreaves, 1996",
     "Hargreaves et al. (2010)": "Hargreaves et al., 2010",
     "Hargreaves et al., 2010": "Hargreaves et al., 2010",
@@ -101488,6 +101490,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Book Reading Intervention with Preschool Children who have Limited Vocabularies  The Benefits of Regular Reading and Dialogic Reading"
+    },
+    "Hargreaves & Fullan, 2012": {
+      "aliases": [
+        "Hargreaves & Fullan, 2012",
+        "Hargreaves & Fullan (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hargreaves & Fullan, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Professional Capital.md"
+      ],
+      "title": ""
     },
     "Hargreaves et al., 2010": {
       "aliases": [
