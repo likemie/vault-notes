@@ -141,55 +141,41 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> block-beta
->     columns 4
->     block:S1:1
->         columns 1
->         T1["任务主导与学术抵制"]
->         A["冷战军备扩张<br/>任务机构主导国防科研计划性资助"]
->         B["柯南特、杜布里奇与早期 NSF<br/>抵制计划性控制"]
+> flowchart LR
+>     subgraph S1["一、任务垄断与学术抗争 (1945–1957)"]
+>         direction TB
+>         A["冷战军备与遏制战略<br/>任务机构以定向合同垄断76%研发经费"]
+>         B["学术界抗议与早期受挫<br/>柯南特与杜布里奇批评线性模式<br/>NSF初期遭政治审查与预算腰斩"]
+>         A --> B
 >     end
->     block:S2:1
->         columns 1
->         T2["危机冲击与立法转折"]
->         C["1957 年卫星危机<br/>技术优势神话破裂，基础人才断层暴露"]
->         D["危机成为政策窗口<br/>国家安全赋予科研投入合法性"]
->         E["1958 年《国防教育法》<br/>高教科研进入国家战略"]
+> 
+>     subgraph S2["二、外部危机与立法突破 (1957–1958)"]
+>         direction TB
+>         C["1957 苏联卫星危机<br/>技术神话破灭，暴露基础人才断层"]
+>         D["合法性重构<br/>国家安全升格为资助基础科研最高合法性"]
+>         E["1958 《国防教育法》(NDEA)<br/>成文法打破合宪疑虑，确立高教战略防线"]
+>         C --> D --> E
 >     end
->     block:S3:1
->         columns 1
->         T3["咨询建制与预算联盟"]
->         F["白宫：PSAC 与西博格报告<br/>确立基础研究信条"]
->         G["基斯佳科夫斯基搭建 COSPUP<br/>发布《基础研究与国家目标》"]
->         H["15% 小科学增长基准与学科普查<br/>促成预算倾斜"]
+> 
+>     subgraph S3["三、双轨建制与预算同盟 (1958–1965)"]
+>         direction TB
+>         F["【白宫行政通道】<br/>PSAC基利安进驻白宫直通总统<br/>1960《西博格报告》确立科教一体信条"]
+>         G["【国会立法通道】<br/>基斯佳科夫斯基创立COSPUP<br/>1965《基础研究与国家目标》界定小科学"]
+>         H["政治同盟达成<br/>15%小科学增长基准与四大学科普查<br/>促成两党议会实质性预算倾斜"]
+>         F --> H
+>         G --> H
 >     end
->     block:S4:1
->         columns 1
->         T4["自由研究繁荣及其边界"]
->         I["资助主体转向 NSF / NIH / NASA<br/>自由基础研究进入黄金期"]
->         J["1968 年首次削减<br/>科研资助仍受地缘政治制约"]
+> 
+>     subgraph S4["四、黄金时代与地缘边界 (1958–1968)"]
+>         direction TB
+>         I["同行评议与黄金期繁荣<br/>资助重心转向NSF/NIH/NASA民用机构<br/>联邦经费占高校研发收入升至近70%"]
+>         J["依附性契约与时代收束<br/>自由探索繁荣仍依附于冷战争霸<br/>1968越战危机触发首度预算削减"]
+>         I -->|冷战争霸红利消退| J
 >     end
->     S1 --> S2
->     S2 --> S3
->     S3 --> S4
->     A --> B
->     C --> D --> E
->     F --> G --> H
->     I --> J
->     classDef context fill:#293137,stroke:#7997a7,color:#e1e8ed,stroke-width:1px
->     classDef turning fill:#332f27,stroke:#b6a06c,color:#ece4cf,stroke-width:1px
->     classDef alliance fill:#27322e,stroke:#82a795,color:#e0eae4,stroke-width:1px
->     classDef limit fill:#342c30,stroke:#ad8895,color:#eadde2,stroke-width:1px
->     class A,B context
->     class C,D,E turning
->     class F,G,H,I alliance
->     class J limit
->     style S1 fill:none,stroke:#53616a,stroke-width:1px,color:#a9c1ce
->     style S2 fill:none,stroke:#6c6046,stroke-width:1px,color:#dac594
->     style S3 fill:none,stroke:#52665b,stroke-width:1px,color:#b8d3c2
->     style S4 fill:none,stroke:#64545c,stroke-width:1px,color:#d2b5c0
->     classDef stageTitle fill:none,stroke:none,color:#cedbdc,font-weight:600
->     class T1,T2,T3,T4 stageTitle
+> 
+>     B -->|1957外部冲击| C
+>     E -->|双轨建制破壁| F & G
+>     H -->|打通行政与立法| I
 > ```
 
 ---
