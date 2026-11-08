@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "draft",
+      "path": "output/youth-talent-lit-review/draft.md"
+    },
+    {
+      "basename": "Argument_Sahlgren_2015_CPS",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+    },
+    {
+      "basename": "Comparative Education",
+      "path": "information/Comparative Education.md"
+    },
+    {
       "basename": "基础领域青年人才与科研资助文献摘要",
       "path": "output/基础领域青年人才与科研资助文献摘要.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
-    },
-    {
-      "basename": "Argument_Sahlgren_2015_CPS",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     },
     {
       "basename": "Revolutionism",
@@ -27,10 +35,6 @@
     {
       "basename": "Journal of Education Policy",
       "path": "information/Journal of Education Policy.md"
-    },
-    {
-      "basename": "Comparative Education",
-      "path": "information/Comparative Education.md"
     },
     {
       "basename": "Argument_Yang_2017_MUE",
@@ -195,10 +199,6 @@
     {
       "basename": "Team Science",
       "path": "wiki/concepts/university-industry-collaboration/Team Science.md"
-    },
-    {
-      "basename": "Hot-Streak Model",
-      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
     }
   ],
   "omittedPaths": [],
