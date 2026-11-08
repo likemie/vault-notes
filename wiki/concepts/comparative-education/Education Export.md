@@ -76,7 +76,7 @@ updated: 2026-11-08
 > - **服务与产品包装（Productisation）** 将高度情境化的学校教学、课程大纲、教师培训规程与数字教学平台解构为可独立交付、可规模化复制的标准化商品模块。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 388–389]]）
 > - **法律与规制重塑（Deregulation & Legal Carve-outs）** 破除免费公立教育立法限制，允许公立院校对非欧盟/非本国公民收取全额学费，并允许公立学校设立商业化外围公司。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 382–383]]）
 > - **公共与私营混合生态（Ecosystem Hybridisation）** 构建由教育部、国家教育署、私营中介公司与公立学校共同参与的政策网络，模糊公共服务与商业营利的法定边界。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 390–392]]）
-> - **教育工作者主体重构（Subjectification into Entrepreneurs）** 通过官方资助的商业化微专业培训，要求公立教师与教育管理者习得商业谈判、成本核算与海外市场推广技能。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 389–390]]）
+> - **教职人员主体重构（Subjectification into Entrepreneurs）** 通过官方资助的商业化微专业培训，要求公立教师与教育管理者习得商业谈判、成本核算与海外市场推广技能。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 389–390]]）
 
 > [!logic-map]- 要素关系
 > ```mermaid

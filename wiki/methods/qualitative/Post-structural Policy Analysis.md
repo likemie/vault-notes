@@ -47,7 +47,7 @@ updated: 2026-11-08
 ---
 
 > [!def] Post-structural Policy Analysis
-> 植根于后结构主义认识论与福柯（Michel Foucault）思想脉络的质性政策研究方法。该方法拒绝将政策视为对客观预存社会问题的技术性中立回应，而是将政策文本视为积极生产特定知识、真理政制与治理边界的“实践文本”（practical texts）。核心分析路径在于运用巴奇（Carol Bacchi）的问题表征分析框架（WPR）等操作化工具，由政策提出的具体解决方案逆向推导其背后的问题表征，并解构其底层假设、历史演变、被沉默议题与主体化效应（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 379–381]]）。
+> 植根于后结构主义认识论与福柯（Michel Foucault）思想脉络的质性政策研究方法。该方法将政策文本界定为积极生产特定知识、真理政制与治理边界的“实践文本”（practical texts），批判将政策视为对客观预存社会问题之技术性中立回应的实证主义立场。核心分析路径在于运用巴奇（Carol Bacchi）的问题表征分析框架（WPR）等操作化工具，由政策提出的具体解决方案逆向推导其背后的问题表征，并解构其底层假设、历史演变、被沉默议题与主体化效应（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 379–381]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 法律法规、白皮书、战略路线图、政府间评估报告、部委咨询建议书等官方与非官方政策实践文本。
@@ -56,7 +56,7 @@ updated: 2026-11-08
 > - **输出形式** 问题表征图谱、隐性预设与对立范畴分类、历时性话语谱系、沉默议题清单、主体化效果解释机制。
 
 > [!citation-card] 后结构政策分析的认识论核心
-> 后结构政策分析假设政策方案并非中立地应对外在问题，而是主动建构了问题本身。分析者通过审视政策建议何种改革措施，逆向解码该问题是如何被表征的，进而揭示深植于话语网络中的治理理性与权力技术。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, p. 380]]）
+> 后结构政策分析假设政策方案在提出应对措施的同时主动建构了问题本身。分析者通过审视政策建议何种改革措施，逆向解码该问题是如何被表征的，进而揭示深植于话语网络中的治理理性与权力技术。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, p. 380]]）
 >
 > *Post-structural policy analysis assumes that policies do not simply address pre-existing problems. Indeed, policies create the problems and then set out to solve them by proposing and implementing measures. Starting with the questions of what a policy proposes, it is possible to work backwards to analyse what the problem is presented as.*
 
@@ -87,7 +87,7 @@ updated: 2026-11-08
 > [!proc] 质性分析程序
 > 1. **初读与定位文本** 搜集相关政策文件，识别直接涉及特定教育领域或整体制度改革的政策语句与倡议序列。
 > 2. **解剖政策变革措施** 提取政策文件中列出的具体改革措施、实施步骤、里程碑与考核指标，明确“政策提议变革什么”。
-> 3. **逆推问题表征（Q1）** 从提议的干预措施反推政策所假定的问题内核，梳理出分领域的子问题表征。
+> 3. **逆推问题表征（Q1）** 从提议的干预措施反推政策所假定的问题实质，梳理出分领域的子问题表征。
 > 4. **挖掘底层预设与范畴（Q2）** 分析问题表征依赖的概念二元对立（如公立与私营、封闭与开放、福利与竞争）及认识论前提。
 > 5. **追溯话语谱系（Q3）** 梳理这些问题表征的历史生成路径，辨析其如何吸纳并改造早期既存的政策争端与历史修辞。
 > 6. **识别沉默与排除（Q4）** 追问哪些关键社会现实、替代性解释或制度保障功能在政策表述中被系统性隐匿或忽略。
