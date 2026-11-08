@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 149
-fact_related_level: 14
-fact_related_stars: "💎💎💎💎⭐⭐"
+fact_related_count: 159
+fact_related_level: 15
+fact_related_stars: "💎💎💎💎💎"
 fact_related_color: "#fecdd3"
 period: "2000–至今"
 initiator_organization: "[[OECD]]"
@@ -41,11 +41,19 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
+  - "[[Scientific Literacy]]"
+  - "[[Scientific Explanation]]"
+  - "[[Learner Autonomy]]"
+  - "[[Algorithmic Bias]]"
+  - "[[Lifelong Learning]]"
+  - "[[Network Governance]]"
+  - "[[Floor and Ceiling Effects]]"
+  - "[[Gamification]]"
+  - "[[Executive Function]]"
   - "[[Learning Strategies]]"
   - "[[Governing by Numbers]]"
   - "[[Multilateral Surveillance]]"
   - "[[Steering at a Distance]]"
-  - "[[Network Governance]]"
   - "[[Rashomon Effect]]"
   - "[[School Autonomy]]"
   - "[[Instructional Leadership]]"
@@ -55,7 +63,6 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Normal School]]"
   - "[[Critical Thinking]]"
-  - "[[Scientific Literacy]]"
   - "[[Social Regime]]"
   - "[[Nature of Science]]"
   - "[[Socioscientific Issues]]"
@@ -107,6 +114,7 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Plausible Values]]"
   - "[[Cost-Benefit Analysis]]"
+  - "[[Item Analysis]]"
   - "[[Sampling Frame]]"
 related_persons:
   - "[[Andreas Schleicher]]"
@@ -123,6 +131,8 @@ related_facts:
   - "[[Baby PISA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[IEA]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Educational Testing Service]]"
   - "[[HarmoS]]"
@@ -219,8 +229,28 @@ updated: 2026-11-08
 > [!dev-timeline] 项目推进历程
 > - **1995–2000 — 方案论证与公民素养[[Paradigm|范式]]奠基** 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，确立面向未来现实生活的应用导向素养范式；2000 年首轮测评（32 个经济体），阅读为主测领域。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 > - **2001–2009 — PISA 冲击、三大领域轮换与全球扩散** PISA 2000 结果发布触发德国著名的“PISA 冲击”，芬兰成为全球[[Reference Society|参考社会]]；2003 年数学为主测，2006 年科学为主测，正式确立阅读、数学、科学三年轮换主测的经典机制。
-> - **2009–2018 — 东亚体系崛起、计算机化测评与产品线扩张** PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；2012 年数学为主测并首度引入财经素养；2015 年科学为主测，全面转向计算机化测评（[[Cost-Benefit Analysis|CBA]]）并引入模拟实验探究；2018 年阅读为主测并新增全球胜任力模块，参测系统增至 79 个。
+> - **2009–2018 — 东亚体系崛起、计算机化测评与产品线扩张** PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；2012 年数学为主测并首度引入财经素养；2015 年科学为主测，全面转向计算机化测评（Computer-Based Assessment, [[Cost-Benefit Analysis|CBA]]）并引入模拟实验探究；2018 年阅读为主测并新增全球胜任力模块，参测系统增至 79 个。
 > - **2018–至今 — 后疫情时代治理深化与不确定性应对** 参测范围覆盖 90+ 经济体；2022 年（延期一年）数学为主测并新增[[Creativity|创造性思维]]评估；2025 年最新轮次聚焦不确定世界中的探究决策、数字信息生态与算法不确定性审视。
+
+---
+
+> [!timeline] 基础素养与前沿交叉创新模块首测脉络
+> - **2000 — 阅读素养首测** PISA 首轮实施确立以阅读为主测领域，奠定面向真实生活情境的非课程化能力测度基准。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
+> - **2003 — 数学素养与静态[[Problem Solving|问题解决]]首测** 数学确立为主测领域；首度增设跨学科静态问题解决选测模块，考察面对既定规则情境的逻辑推理与分析决策。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **2006 — [[Scientific Literacy|科学素养]]首测** 科学确立为主测领域，系统评估解释科学现象、设计评价科学探究及[[Scientific Explanation|科学解释]]数据证据的能力，完成三大基础领域的完整轮换。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **2012 — 计算机交互式问题解决与财经素养首测** 数学第二轮主测中首度引入基于计算机的动态交互式问题解决，要求学生通过探索未完全透露的系统规则解决黑箱问题；同步首度设立个人金融与理财风险认知选测。
+> - **2015 — 协作问题解决与全面计算机化测评首测** 科学第二轮主测中彻底告别纸笔测试全面推行计算机化测评（CBA）；首次推出“协作问题解决”模块，通过人机拟真对话代理人评估多方协商与共同解决复杂难题的社会交互能力。
+> - **2018 — 全球胜任力首测** 阅读第二轮主测中设立全球胜任力评估模块，测度学生审视本土与全球多元议题、理解多元文化视角、进行开放得体跨文化互动以及采取集体福祉行动的综合素养。
+> - **2022 — 创造性思维首测** 数学第三轮主测中设立创造性思维评估模块，评估学生提出多样化想法、提出新颖原创方案以及评估并改善他人构想的日常创造力能力。
+> - **2025 — 不确定世界中的科学探究与数字化[[Learner Autonomy|自主学习]]首测** 科学第三轮主测全新聚焦于在信息爆炸与算法不确定性环境中评估证据真实性、防范[[Algorithmic Bias|算法偏差]]与科学探究决策能力，并首度引入数字化环境自律学习（LDW）模块。
+
+---
+
+> [!dev-timeline] 衍生测评产品线纵横扩张
+> - **2011–至今 — 成人劳动力技能：[[Programme for the International Assessment of Adult Competencies|PIAAC]]（成人版 PISA）** 经合组织立项推行国际成人能力评估项目（PIAAC），面向 16–65 岁成年劳动力，测查信息时代工作与日常生活中必需的读写素养、计算素养及技术丰富环境中的问题解决能力，将 PISA 的量化治理版图从义务教育阶段向[[Lifelong Learning|终身学习]]与劳动力技能错配延伸。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 26)]]
+> - **2012–至今 — 单校微观诊断：[[PISA for Schools]]（学校版 PISA）** 经合组织正式推出基于学校的评估项目（PBTS），将原本针对主权国家宏观监测的 PISA 标尺直接下沉至单所公立或私立学校，允许学校自愿出资参测并获取与全球高表现系统直接对标的微观诊断报告，开辟了经合组织绕开国家教育行政层级的商业化[[Network Governance|网络治理]]新模式。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **2014–至今 — 中低收入发展中国家：[[PISA for Development|PISA-D]]（发展型 PISA）** 针对全球南方中低收入国家设立定制化项目（PISA-D），通过降低[[Item Analysis|题目难度]]下限以规避严重“[[Floor and Ceiling Effects|地板效应]]”、纳入校外失学青少年抽样并细化贫困指标问卷，将发展中国家的基础素养监控吸纳进经合组织的全球等价空间，与[[World Bank|世界银行]]和[[UNESCO|联合国教科文组织]]展开国际治理竞争。
+> - **2015–至今 — 5 岁幼儿早期学习：[[Baby PISA]] / IELS（幼儿版 PISA）** 经合组织发起国际早期学习与儿童福祉研究（IELS，俗称 Baby PISA），以平板故事[[Gamification|游戏化]]互动形式测查 5 岁儿童的早期读写、早期数理、自律[[Executive Function|执行功能]]与社会情绪能力，将标准化人力资本测度前移至学前阶段与生命历程起点。
 
 ---
 
