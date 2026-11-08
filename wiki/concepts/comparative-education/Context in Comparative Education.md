@@ -30,14 +30,14 @@ updated: 2026-11-09
 ---
 
 > [!def] Context in Comparative Education
-> 比较教育背景观（Context in Comparative Education）指比较教育学界对背景（Context）概念在本体论与认识论层面的批判性重构。诺亚·索比（Noah W. Sobe）与杰米·科瓦尔奇克 (Jamie A. Kowalczyk; Sobe & Kowalczyk, 2012, 2014, 2018) 提出区分静态容器式的小写背景（small-c context）与关系涌现性的大写背景（Big-C Context / c/Context）。传统比较研究倾向于将背景假定为预先存在的外部容器，即由民族国家疆界、宪制传统、行政体制与既定地理模式构成的固定背景板；关系性背景观则认为，背景是由政策行动者、知识证据类型、跨国流动话语（如经合组织的 21 世纪技能框架）以及本土权力网络的动态相互纠缠（entanglement）与装配（assemblage）持续建构而成的社会现实。在教育改革中，背景由政策制定者在挑选特定证据和界定改革合理性的实践中共同建构而成，超越了给定不变的外部约束条件假定。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531, 541–543)]]
+> 比较教育背景观（Context in Comparative Education）指比较教育学界对背景（Context）概念在本体论与认识论层面的批判性重构。诺亚·索比（Noah W. Sobe）与杰米·科瓦尔奇克（Jamie A. Kowalczyk; Sobe & Kowalczyk, 2012, 2014, 2018）提出区分静态容器式的小写背景（small-c context）与关系涌现性的大写背景（Big-C Context / c/Context）。传统比较研究倾向于将背景假定为预先存在的外部容器，即由民族国家疆界、宪制传统、行政体制与既定地理模式构成的固定背景板；关系性背景观则认为，背景是由政策行动者、知识证据类型、跨国流动话语（如经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）的 21 世纪技能框架）以及本土权力网络的动态相互纠缠（entanglement）与装配（assemblage）持续建构而成的社会现实。在教育改革中，背景由政策制定者在挑选特定证据和界定改革合理性的实践中共同建构而成，超越了给定不变的外部约束条件假定。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531, 541–543)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示教育政策中的背景由行动者在政策话语和证据博弈中动态编织而成，属于关系性网络，超越了客观静止的物理容器设定。
 > - **用途** 帮助比较教育研究者透视国家改革如何在表面声称根植本土独特国情的同时，隐秘完成对全球趋同理念（如素养与技能）的吸收与合法化转译。
 > - **边界** 该概念重在解构知识与权力的关系性生成，在承认物理地理与正式法律制度客观存在的同时，警惕将制度等同于静止孤立的解释终点。
 
-> [!citation-card|notitle] Sobe & Kowalczyk 论关系性背景与反容器论
+> [!citation-card|notitle] 关键表述
 > 打破将背景视为预设容器的传统思维，背景由跨国流动、历史积淀与本土实践在交错纠缠中持续生成，属于物质-符号网络，超越了包容教育现象的封闭国家盒子设定。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 532, 541)]]
 >
 > *Revisioning 'context' in comparative education requires moving beyond static, container-like views of the nation-state. Context is not a fixed backdrop, but an ongoing assemblage and relational entanglement of actors, discourses, and practices.*
@@ -62,7 +62,7 @@ updated: 2026-11-09
 > - **去容器化与动态生成性** 打破将民族国家作为天然分析容器的方法论民族主义，视背景为在跨国政策借用、本土政治博弈与文官常态实践中持续演化的动态装配体。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 532, 541)]]
 > - **知识证据的现实塑造力** 决策者选取的特定政策证据（如国家评价数据或国际元分析）直接界定何为亟待解决的问题、何为可行的方案，从而反向塑造教育系统的社会现实。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
 > - **微观专家网络与宏观制度交织** 宏观的国家法案传统、中观的委员会制度安排与微观的专家熟人社交网络共同交织，形成特定改革情境的独特肌理。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 538, 541)]]
-> - **全球跨国话语的本土化转译** 国际组织如经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）的技能话语在全球范围内流动，在国家改革文本中被转译为符合本国教育传统的合法化叙事，达成形式多元与实质趋同的共生。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–541)]]
+> - **全球跨国话语的本土化转译** 国际组织如经合组织（OECD）的技能话语在全球范围内流动，在国家改革文本中被转译为符合本国教育传统的合法化叙事，达成形式多元与实质趋同的共生。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–541)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -78,17 +78,17 @@ updated: 2026-11-09
 
 > [!concept-proposition] 命题一｜证据选择反向塑造教育改革的制度与社会现实
 > **知识对背景的能动建构** 阐明政策证据主动建构出决策者所能感知与接受的制度现实，超越了单纯适应外部背景的被动工具角色。
->
-> > [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
-> > **知识建构社会现实** 政策制定者将特定类型的实证知识引入改革文本，在应对具体治理议题的同时，共同构建了特定改革的大写背景。在丹麦，依据政治议程筛选可行方案的做法建构了一个紧迫问责的改革现实；在挪威，重用大学学者与系统综述则构建了一个学术化的审议现实；在芬兰，依赖长期评估数据与行政默会经验则塑造了高度信赖文官传统的政策现实。证据的类型反向限定了何为合理改革的想象边界。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 539–542)]]
+
+> [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
+> **知识建构社会现实** 政策制定者将特定类型的实证知识引入改革文本，在应对具体治理议题的同时，共同构建了特定改革的大写背景。在丹麦，依据政治议程筛选可行方案的做法建构了一个紧迫问责的改革现实；在挪威，重用大学学者与系统综述则构建了一个学术化的审议现实；在芬兰，依赖长期评估数据与行政默会经验则塑造了高度信赖文官传统的政策现实。证据的类型反向限定了何为合理改革的想象边界。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 539–542)]]
 
 ---
 
 > [!concept-proposition] 命题二｜全球技能话语在差异化国家背景中达成隐秘趋同
 > **差异化合法化诉求下的全球趋同** 揭示即使声称完全立足本土独特国情的国家改革，亦在深层机制上受到跨国技能话语的塑形与整合。
->
-> > [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
-> > **跨国技能话语的隐秘共识** 丹麦、芬兰与挪威虽然在证据采信机制、委员会设置与学术文献引用率上存在巨大分歧，并且所有决策受访者均强调本国改革植根于独特的本土情境，但在课程重构的最终方案上，三国不约而同地吸纳了经合组织关于 21 世纪技能与核心素养的话语框架。这表明看似高度本土化的大写背景，属于跨国流动话语与本土合法化博弈深度纠缠的产物。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
+
+> [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
+> **跨国技能话语的隐秘共识** 丹麦、芬兰与挪威虽然在证据采信机制、委员会设置与学术文献引用率上存在巨大分歧，并且所有决策受访者均强调本国改革植根于独特的本土情境，但在课程重构的最终方案上，三国不约而同地吸纳了经合组织关于 21 世纪技能与核心素养的话语框架。这表明看似高度本土化的大写背景，属于跨国流动话语与本土合法化博弈深度纠缠的产物。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
 
 ---
 
