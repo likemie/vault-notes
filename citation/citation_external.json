@@ -4036,9 +4036,11 @@
     "Carrier, 2017": "Carrier, 2017",
     "Carro (2023)": "Carro, 2023",
     "Carro, 2023": "Carro, 2023",
+    "Carroll (1963)": "Carroll, 1963",
     "Carroll (1993)": "Carroll, 1993",
     "Carroll et al. (2021)": "Carroll et al., 2021",
     "Carroll et al., 2021": "Carroll et al., 2021",
+    "Carroll, 1963": "Carroll, 1963",
     "Carroll, 1993": "Carroll, 1993",
     "Carson (2012)": "Carson, 2012",
     "Carson et al. (2003)": "Carson et al., 2003",
@@ -57247,6 +57249,21 @@
       ],
       "title": ""
     },
+    "Carroll, 1963": {
+      "aliases": [
+        "Carroll, 1963",
+        "Carroll (1963)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carroll, 1963"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Extending School Time.md"
+      ],
+      "title": ""
+    },
     "Carroll, 1993": {
       "aliases": [
         "Carroll, 1993",
@@ -63712,6 +63729,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Extending School Time.md",
         "wiki/facts/us/Coleman Report 1966.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],

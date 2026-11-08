@@ -350,7 +350,16 @@ updated: 2026-11-09
 > - **2021 — 证据合成中的实证主义技术理性、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]]批判** [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 结合舍恩对技术理性作为实证主义遗产的定位，解构《可见的学习》的非理论化修辞与实证还原论；揭示其在变量建模中剔除社会阶层造成[[Socioeconomic Status|阶级盲教学思维]]、在数据汇总中混淆异质构念，确证其效能气压计实质上演化为对教师劳动实施自上而下标准化监控的新泰勒主义工具。
 > - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
 > - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review|系统综述]]，诊断循证运动中技术理性的核心致命伤在于假设“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
+> - **2025 — 北欧教育改革中技术理性神话的经验解构** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 深入剖析丹麦、芬兰与挪威的基础教育改革实证，揭示学术社交网络、行政默会知识与后置合法化需求对客观系统检索假说的实质替代，系统解构了循证治理的技术理性神话（pp. 535–542）。
 > - **2026 — 超国家循证咨询小组的技术理性独立性神话解构** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 剖析 GEEAP 与世界银行推行的“智能购买”成本效益排位与纯粹证据独立性宣告，揭示技术理性如何将教育严谨性狭隘等同于因果实验、边缘化本土实践智慧并掩盖议题遴选背后的地缘政治利益（pp. 347–348）。
+
+---
+
+> [!entry-map] 概念图谱
+> - 上位概念：[[Positivism|实证主义]] · [[Deductive Rationality|演绎理性]] · [[Epistemology|认识论]]
+> - 核心维度：手段-目的因果计算 · 去情境化控制 · 指标量化 · 技术官僚治理
+> - 对立/替代概念：[[Phronesis|实践智慧]] · [[Professional Judgment|专业判断]] · [[Bildung|教化]] · [[Tacit Knowledge|默会知识]]
+> - 批判与衍生机制：[[Governing by Numbers|数字治理]] · [[Neo-Taylorism|新泰勒主义]] · [[Legitimation Crisis|合法化危机]] · [[Policy-Based Evidence-Making|基于政策的证据炮制]]
 
 ---
 
@@ -367,6 +376,7 @@ updated: 2026-11-09
 > | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 4–10)]] | 美国联邦立法草案（H.R. 2614 与 P.L. 105-277）、国会听证会实录及逾 10 万名教师抗议公函 | 批判性政策[[Documentary Analysis\|文献分析]]与话语溯源 | 技术理性科学定义演变、铁三角利益同盟与基层教师[[Professional Judgment\|专业判断]]受抑程度 | 证实国会以科学客观性修辞排他性界定拼读与实验[[Paradigm\|范式]]，规避十万名教师请愿并赋权政商出版集团垄断 | 质性政策文本饱和分析 | 揭示技术理性在宏观立法中充当封闭次政府寡头利益掩护机制的深层政治属性 |
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b, pp. 78–87)]] | 丹麦公立学校（Folkeskole）2014 年改革与[[John Hattie\|约翰·哈蒂]]《[[Visible Learning\|可见的学习]]》合成体系 | [[Critical Theory\|批判理论]]文献考证与丹麦教改案例剖析 | [[Behaviorism\|行为主义]]变量还原、家庭背景（[[Socioeconomic Status\|SES]]）剥离、手段-目的因果回路与[[Legitimation Crisis\|合法化危机]] | 确证《可见的学习》将课堂动态还原为 138 个孤立变量并设定 0.40 机械分界线，消解师生生活世界的主体性；揭示行政系统将其采纳为平息财政紧缩与劳工冲突的技术理性防御掩体 | 质性深度案例考证与概念批判 | 揭示技术理性在教育证据合成与政策采纳中充当规避政治合法化危机工具的因果机制 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 3–15)]] | 约翰·哈蒂《可见的学习》反馈综合文献（覆盖总样本 67,931 人中 92.4% 权重的五大核心[[Meta-analysis\|元分析]]） | 概念批判与元分析底层[[Construct\|构念]]计量核查 | 行为主义变量还原、调节变量（SES）剔除、构念混淆与[[Neo-Taylorism\|新泰勒主义]][[Disciplina and Doctrina\|规训]] | 证实 5 项核心元分析中 4 项测量的属于强化、身体亲和力与测验提示等异质构念；唯一契合的研究实际效应仅为 $d=0.38$ 且包含 38% 负效应；揭示去理论化修辞掩盖下的行为主义预设与阶级盲还原 | 质性深度案例核查与概念批判 | 实证揭示技术理性在教育证据合成中导致的构念混淆、阶级盲偏误与自上而下劳动监控机制 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–542)]] | 丹麦、芬兰、挪威 16 份基础教育改革核心官方文献（含 1,385 条参考文献）及政策专家深度访谈 | 政策知识社会学与批判话语计量分析 | 技术理性证据搜寻与利用模型 vs 政策真实运作网络 | 政策制定深度依赖非正式社交网络、熟人圈子便利采信与官员行政默会知识；同行评议学术期刊在改革文本中仅占 13.9%–14.5%，逾六成依赖政府委托报告；丹麦案例更呈现鲜明的证据后置定制特征 | 跨国全量文献计量与质性访谈饱和分析 | 实证解构了将政策决策视为客观文献系统检索与线性推演的技术理性神话，确立证据利用的政治合法化与关系性本质 |
 
 ---
 
@@ -413,6 +423,7 @@ updated: 2026-11-09
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区全域统考与[[School Inspection|学校督导]]的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际机构推行普适社会技术（教育规划、课程）的技术理性机制，揭示其如何塑造中立客观专家形象并去政治化掩盖冲突。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧盟开放协调法（OMC）全景敞视网络中，成员国教育部与专家群体如何将以可就业性与绩效产出为核心的技术官僚理性内化为政策常模与自我规训机制（pp. 487, 492–493）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革政策起草实践，实证揭示行政默会知识、学术社交网络与后置合法化需求对客观系统检索假说的替代，系统解构循证政策制定的技术理性神话。
 > - Schön (1983) — 奠基性著作《反思性实践者》，系统界定技术理性并阐明反思性实践作为专业认识论的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
 
