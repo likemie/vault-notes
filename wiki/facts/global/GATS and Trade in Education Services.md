@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -163,6 +163,12 @@ updated: 2026-11-09
 > > 争论 GATS 对主权国家调控教育能力的非对称冲击。
 > >
 > > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 深刻论证，GATS 带来了极不平等的主权侵蚀：大国能够主动利用规则提升[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济体量弱小的国家则在世贸规则面前彻底丧失了宏观调控教育与维护国民福利的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+>
+> > [!axis] 多边贸易法全面规训 vs 民族国家保护主义防御（芬兰案例）
+> > 争论 GATS 规程是否必然导致成员国福利教育主权的消解。
+> >
+> > - **多标度规训视角（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; [[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）** 强调 GATS 通过超国家经贸权力与话语常识化，系统侵蚀各成员国公共福利兜底与调控主权。
+> > - **国家策略性防御视角（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, p. 381]]）** 揭示主权国家能够策略性利用正面清单自愿承诺机制，坚决拒绝在 GATS 框架下作出教育准入减让承诺，在筑牢国内免费公立教育法律防火墙的同时，单向组织本国教育资源向全球准市场出口。
 
 > [!citation-card] 代表性评论
 > 语言和文本可以创造、转变或维系意识形态。在服务贸易总协定的案例中，这种意识形态反映了一种新帝国主义——更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97, citing Collins, 2007, p. 283)]]
@@ -186,4 +192,5 @@ updated: 2026-11-09
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]矩阵，深入分析 GATS 消除边境壁垒对[[State Educational Sovereignty|国家教育主权]]的削弱，并揭示大国借力革新与小国调控权丧失的非对称结构（pp. 110–111）。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 检视芬兰官方在拒绝承担 GATS 教育市场准入承诺的防御壁垒下，如何策略性推进本国教育出口与高校收费的准市场治理理性（p. 381）。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 详尽剖析 GATS 在高等教育商品化中的制度与[[Discourse|话语]]角色，揭示其如何将新自由主义全球议程合法化为[[Doxa|不言自明]]的前提（pp. 97–98）。

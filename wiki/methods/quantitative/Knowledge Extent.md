@@ -87,21 +87,26 @@ updated: 2026-11-09
 
 ---
 
-> [!formula-step] 步骤一　集合几何均值中心计算
-> $$c = \frac{1}{n} \sum_{i=1}^n p_i$$
->
-> **这个公式在做什么** 计算目标文献集合中所有样本嵌入向量在高维空间中的算术均值，输出代表该领域语义重心的一维向量。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1242)]]
->
-> **符号说明** $n$ 代表被测文献集合包含的成果数量；$p_i \in \mathbb{R}^{d}$ 代表第 $i$ 篇成果的文本嵌入向量，在常规预训练语言模型中维度 $d = 768$；$c$ 为文献集合的高维几何中心向量。
->
-> **数学直觉** 通过对所有样本向量在各维度取均值，消除个体成果偶然离散波动的干扰，确定该学科或主题在语义空间中的基准锚点。
+> [!formula-set]- 公式链总览
+> ```mermaid
+> flowchart TD
+>   A["文献标题与摘要文本"] --> B["SPECTER 2.0 嵌入 768维密集向量"]
+>   B --> C1["宏观学科视角：等量抽样集合"]
+>   C1 --> D1["步骤一：计算样本集均值中心 c"]
+>   D1 --> E1["步骤一：计算最大外沿跨度 KE"]
+>   E1 --> F1["全学科集体知识广度对比（收缩 4.63%）"]
+>   B --> C2["微观成果视角：单篇原始基准成果"]
+>   C2 --> D2["提取后继施引文献时序序列"]
+>   D2 --> E2["步骤二：单篇文献家族衍生广度 KE_phi[n]"]
+>   E2 --> F2["微观辐射扩张对比（扩大 3.46%）"]
+> ```
 
-> [!formula-step] 步骤二　最大外沿几何跨度测算
-> $$KE = \max_{1 \le i \le n} \|p_i - c\|_2$$
+> [!formula-step] 步骤一　宏观文献集合知识广度（中心外沿测算）
+> $$c = \frac{1}{n} \sum_{i=1}^n p_i, \quad KE = \max_{1 \le i \le n} \|p_i - c\|_2$$
 >
-> **这个公式在做什么** 测算文献集合内每篇成果向量与均值中心之间的二范数欧几里得距离，提取其中的最大值作为该文献集合的知识广度。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1242)]]
+> **这个公式在做什么** 计算目标文献集合中所有样本嵌入向量在高维空间中的算术均值，输出代表该领域语义重心的一维向量；并测算集合内每篇成果向量与均值中心之间的二范数欧几里得距离，提取其中的最大值作为该文献集合的知识广度。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1242)]]
 >
-> **符号说明** $\| \cdot \|_2$ 表示 $L_2$ 欧几里得范数；$\max$ 为取上确界或最大值算子；$KE$ 为输出的标量数值。
+> **符号说明** $n$ 代表被测文献集合包含的成果数量；$p_i \in \mathbb{R}^{d}$ 代表第 $i$ 篇成果的文本嵌入向量（在常规预训练语言模型中维度 $d = 768$）；$c$ 为文献集合的高维几何中心向量；$KE$ 为输出的标量数值。
 >
 > **数学直觉** 几何直径反映了文献群体在主题空间所能辐射的最远探索半径。最大距离越长，表明至少有部分学者突破了核心圈约束，将探索触角延伸至高度异质的边际主题。
 >
@@ -126,24 +131,74 @@ updated: 2026-11-09
 > > | 读法 | 数值收缩 | $KE$ 数值下降表明文献集中在均值中心附近的紧凑聚类中，反映出研究议题的窄化与趋同。 |
 > > | 注意 | 样本规模敏感性 | 极值统计量容易受离群值与[[Sample Size Determination\|样本量]]大小影响，比对两组文献时必须严格平衡样本容量。 |
 
+> [!formula-step] 步骤二　微观文献家族衍生广度（时序演进测算）
+> $$KE_\phi[n] = \max_{1 \le i \le n \le n_\phi} \|p_\phi[i] - p_\phi\|_2$$
+>
+> **这个公式在做什么** 追踪单篇原始基准成果 $\phi$ 及其后继施引文献构成的文献家族（Paper Family）。将引用该成果的全部 $n_\phi$ 篇文献按发表时间升序排列，计算前 $n$ 篇后继文献与原始成果向量 $p_\phi$ 之间的最大欧几里得距离，输出该文献家族在不同引用规模下的衍生知识辐射半径。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241, 1243)]]
+>
+> **符号说明**
+> - $\phi$：关注的源头基准文献。
+> - $p_\phi \in \mathbb{R}^{768}$：源头基准文献的高维文本嵌入向量。
+> - $\{p_\phi[1], p_\phi[2], \dots, p_\phi[n_\phi]\}$：引用文献 $\phi$ 的全部 $n_\phi$ 篇施引文献向量，严格按发表时间戳先后升序排序。
+> - $n$：当前累计观测的后继施引文献数量（$1 \le n \le n_\phi$）。
+> - $KE_\phi[n]$：纳入前 $n$ 篇后继施引文献时，文献家族覆盖的衍生知识广度。
+>
+> **数学直觉** 步骤二以源头成果自身作为坐标原点，测度以该成果为根节点的知识树随时间向外生长的最大扩散距离。如果某一技术门类（如 AI）的单篇成果衍生广度更大，表明单篇成果本身具备向跨领域扩散的潜能；若此时全学科宏观广度却发生收缩，即可直接确证宏观收缩的根本机制：海量独立科研团队在选题时共同过度扎堆于相同的少数成熟数据集与高频议题，即便单篇成果具备向外辐射潜能，集体探索边界仍出现窄化。
+>
+> > [!example]- 手算示例
+> > 设源头成果向量为 $p_\phi = (0, 0)$。
+> > 按时间先后出现 3 篇后继施引文献：
+> > 1. 第 1 篇文献：$p_\phi[1] = (1, 1)$，距离原点 $\|p_\phi[1] - p_\phi\|_2 = \sqrt{1^2 + 1^2} = 1.414$；
+> > 2. 第 2 篇文献：$p_\phi[2] = (1, 2)$，距离原点 $\|p_\phi[2] - p_\phi\|_2 = \sqrt{1^2 + 2^2} = 2.236$；
+> > 3. 第 3 篇文献：$p_\phi[3] = (0.5, 0.5)$，距离原点 $\|p_\phi[3] - p_\phi\|_2 = 0.707$。
+> > 计算时序演进轨迹：
+> > - 当 $n=1$ 时，$KE_\phi[1] = 1.414$；
+> > - 当 $n=2$ 时，$KE_\phi[2] = \max(1.414, 2.236) = 2.236$；
+> > - 当 $n=3$ 时，$KE_\phi[3] = \max(1.414, 2.236, 0.707) = 2.236$。
+> > 随被引文献累积，文献家族广度单调不减，描绘出知识辐射边界的时序生长曲线。
+>
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 曲线斜率更陡 | 表明后继施引成果迅速跨越到更遥远的知识领域，成果具有强大的跨学科溢出与拓界效应。 |
+> > | 读法 | 曲线平缓贴近 | 表明后继研究紧密围绕源头成果既有方法进行同质小修补，未能推动认知向远端扩散。 |
+> > | 注意 | 宏微观分层区分 | 必须区分单篇文献家族广度（微观）与学科总体知识广度（宏观），两者变动方向可能完全背离。 |
+
 > [!software-impl] 软件实现
-> - **数据来源** 开放学术图谱 [[OpenAlex]] 或同等规模引文数据库，导出文献标题与摘要文本。
+> - **数据来源** 开放学术图谱 [[OpenAlex]] 或同等规模引文数据库，导出文献标题与摘要文本及施引时间戳。
 > - **核心包或命令** Python 科学计算栈 `numpy`、`scipy.spatial.distance` 及 HuggingFace `transformers`。
-> - **实现流程** 文本分词编码 → 预训练模型前向推理获取嵌入 → 计算均值向量 → 批量矩阵距离计算 → 提取极值输出。
+> - **实现流程** 文本分词编码 → 预训练模型前向推理获取嵌入 → 计算均值中心求取样本知识广度，或按时间戳提取后继施引向量计算累计最大欧氏距离。
 > - **报告标准** 明确报告文本嵌入模型架构与参数规模、向量维度、抽样匹配方案以及多次独立抽样的[[Confidence Interval|置信区间]]。
 
 > [!formula] Python 计算骨架
 > ```python
 > import numpy as np
+> from typing import List
 >
-> def compute_knowledge_extent(embeddings: np.ndarray) -> float:
+> def compute_sample_knowledge_extent(embeddings: np.ndarray) -> float:
 >     """
->     输入 embeddings: shape 为 (n_papers, embedding_dim) 的 NumPy 数组
->     输出 知识广度标量数值
+>     步骤一：计算样本集合相对于重心的知识广度 (Sample Knowledge Extent)
+>     :param embeddings: shape 为 (n_papers, embedding_dim) 的 NumPy 数组
+>     :return: 知识广度标量数值
 >     """
 >     centroid = np.mean(embeddings, axis=0)
 >     distances = np.linalg.norm(embeddings - centroid, axis=1)
 >     return float(np.max(distances))
+>
+> def compute_paper_family_knowledge_extent(focal_embedding: np.ndarray, citing_embeddings_sorted: np.ndarray) -> List[float]:
+>     """
+>     步骤二：计算文献家族随施引文献时序累积的衍生知识广度轨迹 (Paper Family Knowledge Extent)
+>     :param focal_embedding: shape 为 (embedding_dim,) 的基准源头文献向量
+>     :param citing_embeddings_sorted: shape 为 (n_citing, embedding_dim) 按发表时间升序排列的施引文献向量
+>     :return: 长度为 n_citing 的知识广度动态演进列表
+>     """
+>     if len(citing_embeddings_sorted) == 0:
+>         return []
+>     # 计算每篇后继文献到源头成果的欧氏距离
+>     distances = np.linalg.norm(citing_embeddings_sorted - focal_embedding, axis=1)
+>     # 计算累计最大值 (Cumulative Maximum)
+>     ke_trajectory = np.maximum.accumulate(distances)
+>     return [float(x) for x in ke_trajectory]
 > ```
 
 > [!method-stack] 数据口径
@@ -158,6 +213,12 @@ updated: 2026-11-09
 > - **适合使用** 评估跨学科科技创新政策、重大技术范式冲击（如[[Generative Artificial Intelligence|生成式人工智能]]工具引入）对学术生态探索视野的宏观塑造效应。[[Argument_Hao_2026_Nature|(Hao et al., 2026, pp. 1240–1242)]]
 > - **谨慎使用** 文献总量极小的小众分支领域因高维空间稀疏性难以形成稳定的几何均值中心，估计波动较大。
 > - **不适合使用** 无法用于微观评估单项研究在个别[[Experimental Research|实验设计]]上的方法严谨性或细节创新度。
+
+> [!ref-table]- 参照基准与阈值
+> | 情境 | 参照值 | 来源 |
+> |---|---|---|
+> | 自然科学六大门类集体知识广度中位数 | AI 成果较非 AI 成果系统性收缩 4.63%（$\chi^2 \ge 84.05, p < .001$） | [[Argument_Hao_2026_Nature\|Hao et al. (2026, p. 1240)]] |
+> | 自然科学单篇成果文献家族衍生广度 | AI 文献家族较非 AI 文献家族平均扩大 3.46%（$t \ge 1.91, p \le .10$） | [[Argument_Hao_2026_Nature\|Hao et al. (2026, p. 1241)]] |
 
 ---
 
