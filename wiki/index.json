@@ -37656,6 +37656,32 @@
     "subtype": "organization"
   },
   {
+    "title": "National Board of General Education in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/National Board of General Education in Finland.md",
+    "aliases": [
+      "芬兰国家普通教育管理局",
+      "芬兰最高学校管理局",
+      "Kouluhallitus",
+      "National Board of General Education",
+      "National Board of Schools in Finland",
+      "Skolstyrelsen"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Trade Union of Education in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Trade Union of Education in Finland.md",
+    "aliases": [
+      "芬兰教育工会",
+      "OAJ",
+      "Opetusalan Ammattijärjestö",
+      "Trade Union of Education"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "1968 School Systems Act in Finland",
     "type": "fact",
     "path": "wiki/facts/finland/1968 School Systems Act in Finland.md",
@@ -37727,6 +37753,20 @@
       "Swedish-speaking School System in Finland",
       "Svenska utbildningsväsendet i Finland",
       "芬兰瑞典语平行学校体系"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Finnish Matriculation Examination",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish Matriculation Examination.md",
+    "aliases": [
+      "芬兰大学入学资格统考",
+      "芬兰高中毕业统考",
+      "芬兰大学入学考试",
+      "Ylioppilastutkinto",
+      "Studentexamen",
+      "Matriculation Examination in Finland"
     ],
     "subtype": "policy"
   },
