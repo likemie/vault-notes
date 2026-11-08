@@ -22965,6 +22965,17 @@
     ]
   },
   {
+    "title": "Chaperone Effect",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Chaperone Effect.md",
+    "aliases": [
+      "学术伴随效应",
+      "护航效应",
+      "门徒效应",
+      "学术门徒效应"
+    ]
+  },
+  {
     "title": "Citation Copy Model",
     "type": "theory",
     "path": "wiki/theories/science-policy/Citation Copy Model.md",
@@ -26224,6 +26235,18 @@
       "Fixed-Effect Models",
       "Fixed Effect Model",
       "Fixed Effect"
+    ]
+  },
+  {
+    "title": "Follow-on Engagement",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Follow-on Engagement.md",
+    "aliases": [
+      "后继学术卷入度",
+      "后继研究互动度",
+      "follow-on paper engagement",
+      "follow-on scientific engagement",
+      "EG"
     ]
   },
   {

@@ -53,13 +53,13 @@ updated: 2026-11-08
 > - **边界** 不等于传统的跨国教育援助（如官方开发援助），亦不等于单纯的留学生自费流动，其核心在于有意识的商业化包装、定价机制与资本积累逻辑。
 
 > [!citation-card] 教育出口的定义与政策表征
-> 芬兰政府教育出口计划（FGEE）将教育出口界定为以商业为导向、向境外客户提供高品质教育服务、知识产权与学习解决方案的系统性战略。政策话语将[[Finnish PISA Miracle|PISA]]优异成绩转译为全球商业需求，进而将公共教育系统不具备商业销售敏锐度表征为亟待治理修复的“国家问题”。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 382–384]]）
+> 芬兰政府教育出口计划（Finnish Government's Education Export programme, FGEE）将教育出口界定为以商业为导向、向境外客户提供高品质教育服务、知识产权与学习解决方案的系统性战略。政策话语将[[Finnish PISA Miracle|国际学生评估项目]]（Programme for International Student Assessment, PISA）优异成绩转译为全球商业需求，进而将公共教育系统不具备商业销售敏锐度表征为亟待治理修复的国家治理问题。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 382–384]]）
 >
 > *The Finnish government’s education export (FGEE) programme, initiated in 2010, seeks to promote and coordinate education as an export product. In FGEE documents, education export defines education as a business opportunity, productising educational services while problematising the public education system's lack of commercial skills and regulatory flexibility.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Cross-National Attraction|跨国吸引力]]：跨国吸引力侧重他国对本国制度的主动参考、借鉴或政策借用意向，而教育出口侧重输出国主动发起的产品化包装、市场营销与有偿契约交付。
-> - 不等于 [[Educational Privatisation|教育私有化]]：教育私有化指向教育产权、管理权向私营资本转移的广泛形态；教育出口既可以由私营公司承接，也可以由公立学校与大学设立国有独资公司以“公立名义”参与海外营利。
+> - 不等于 [[Educational Privatisation|教育私有化]]：教育私有化指向教育产权、管理权向私营资本转移的广泛形态；教育出口既可以由私营公司承接，也可以由公立学校与大学设立国有独资公司以公立名义参与海外营利。
 
 ---
 
@@ -67,25 +67,26 @@ updated: 2026-11-08
 > | 维度 | 教育出口（Education Export） | 教育国际援助（Educational Aid） | 跨境学生流动（International Student Mobility） |
 > |---|---|---|---|
 > | **核心动机** | 创造外汇收入、拓展国家产业腹地、服务竞争国家战略 | 履行人道主义责任、推进全球教育公平与外交结盟 | 个体获取优质文凭、国际社会资本与移民机会 |
-> | **交易机制** | 市场化合同交付、服务定价、商业授权或许可 | 政府间无偿援助（ODA）、赠款或低息项目贷款 | 自费学费支付、奖学金赞助与跨境签证许可 |
+> | **交易机制** | 市场化合同交付、服务定价、商业授权或许可 | 官方发展援助（Official Development Assistance, ODA）、赠款或低息项目贷款 | 自费学费支付、奖学金赞助与跨境签证许可 |
 > | **制度影响** | 推动公立学校建立企业法人、松绑学费立法限制 | 强化受援国对外部标准的依赖与合规问责 | 推动高校国际化排名、迎合留学生消费偏好 |
 
 ---
 
 > [!feature] 核心要素
-> - **服务与产品包装（Productisation）** 将高度情境化的学校教学、课程大纲、教师培训规程与数字教学平台解构为可独立交付、可规模化复制的标准化商品模块。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 388–389]]）
-> - **法律与规制重塑（Deregulation & Legal Carve-outs）** 破除免费公立教育立法限制，允许公立院校对非欧盟/非本国公民收取全额学费，并允许公立学校设立商业化外围公司。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 382–383]]）
-> - **公共与私营混合生态（Ecosystem Hybridisation）** 构建由教育部、国家教育署、私营中介公司与公立学校共同参与的政策网络，模糊公共服务与商业营利的法定边界。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 390–392]]）
-> - **教职人员主体重构（Subjectification into Entrepreneurs）** 通过官方资助的商业化微专业培训，要求公立教师与教育管理者习得商业谈判、成本核算与海外市场推广技能。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 389–390]]）
+> - **教育产品化（Productisation）** 将高度情境化的学校教学、课程大纲、教师培训规程与数字教学平台解构为可独立交付、可规模化复制的标准化商品模块。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 388–389]]）
+> - **法规松绑与法律豁免** 破除免费公立教育立法限制，允许公立院校对非欧盟/非本国公民收取全额学费，并允许公立学校设立商业化外围公司。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 382–383]]）
+> - **公私混合生态建构** 构建由教育部、国家教育署、私营中介公司与公立学校共同参与的政策网络，模糊公共服务与商业营利的法定边界。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 390–392]]）
+> - **教职人员主体化重塑（Subjectification）** 通过官方资助的商业化微专业培训，要求公立教师与教育管理者习得商业谈判、成本核算与海外市场推广技能。（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 389–390]]）
 
 > [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     A["国家教育声誉与国际测评优势<br>(如 PISA 奇迹)"] --> B["话语建构：全球存在强劲商业需求"]
 >     B --> C["问题表征：国内公立体系过于僵化且缺乏商业技能"]
->     C --> D1["法律松绑与学费制度解禁"]
->     C --> D2["课程与师资培训商品化打包"]
->     C --> D3["教师与管理人员企业家化培训"]
+>     D1["法规松绑与学费制度解禁"]
+>     D2["课程与师资培训商品化打包"]
+>     D3["教师与管理人员企业家化培训"]
+>     C --> D1 & D2 & D3
 >     D1 & D2 & D3 --> E["教育出口产业生态形成"]
 >     E --> F["公共教育从福利权利重构为经济资产"]
 > ```
@@ -93,7 +94,7 @@ updated: 2026-11-08
 ---
 
 > [!tension] 理论张力
-> - **福利社会价值与市场逐利逻辑的冲突** 在推崇普遍平等、免费入学与去竞争化传统的国家（如芬兰），将教育打包为有偿出口商品，直接引发了“教育究竟是民主公物还是出口货物”的意识形态争论（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 378–379]]）。
+> - **福利社会价值与市场逐利逻辑的冲突** 在推崇普遍平等、免费入学与去竞争化传统的国家（如芬兰），将教育打包为有偿出口商品，直接引发了关于教育究竟属于民主公物还是出口商品的意识形态争论（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025, pp. 378–379]]）。
 > - **系统嵌入性与产品去语境化的矛盾** 一国教育体制的成功往往深深植根于本土高信任文化、教师高社会地位与全面社会保障网络中；然而教育出口政策通常假设这些成果可以被剥离语境、作为即插即用的产品在异国生根，忽视了结构性条件的不可移植性。
 
 ---
@@ -103,12 +104,12 @@ updated: 2026-11-08
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Governmentality]] | 理论 | 为教育出口提供了治理理性视角，揭示国家如何通过重塑问题定义与主体意识来推进市场化。 |
-> | [[Bacchi's WPR Approach]] | 理论 | 提供了剖析教育出口政策文本中“问题表征”的操作化框架。 |
-> | [[Post-structural Policy Analysis]] | 方法 | 解构教育出口话语如何建构公共教育“缺陷”的质性分析方法。 |
+> | [[Bacchi's WPR Approach]] | 理论 | 提供了剖析教育出口政策文本中问题表征的操作化框架。 |
+> | [[Post-structural Policy Analysis]] | 方法 | 解构教育出口话语如何建构公共教育制度缺陷的质性分析方法。 |
 > | [[Finnish PISA Miracle]] | 事实 | 芬兰教育出口得以启动的核心声誉资本与品牌来源。 |
 > | [[Educational Privatisation]] | 概念 | 教育出口构成了公立教育外生商业化与内生企业化改革的跨国延伸载体。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用后结构主义政策分析与 WPR 框架，解剖芬兰政府教育出口计划如何将公立教育表征为受制于法律和缺乏商业技能的问题，进而建构国家竞争导向的治理理性。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用后结构主义政策分析与问题表征分析法（WPR）框架，解剖芬兰政府教育出口计划如何将公立教育表征为受制于法律和缺乏商业技能的问题，进而建构国家竞争导向的治理理性。

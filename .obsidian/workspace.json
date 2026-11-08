@@ -315,6 +315,10 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "wiki/methods/quantitative/Cognitive Extent.md",
+    "wiki/methods/quantitative/Knowledge Entropy.md",
+    "wiki/theories/science-policy/Chaperone Effect.md",
+    "wiki/methods/quantitative/Follow-on Engagement.md",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-005/result.json",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-004/result.json",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-003/result.json",
@@ -334,7 +338,6 @@
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-005/prompt.md",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-004/prompt.md",
-    "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-001/prompt.md",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-003/prompt.md",
     "output/related-updates/Argument_Hao_2026_Nature-2e2bfc5f/batch-002/prompt.md",
@@ -358,9 +361,6 @@
     "sources/Hao_2026_Nature/Hao_2026_Nature.md",
     "sources/Hao_2026_Nature.md",
     "wiki/persons/uk/David Hargreaves.md",
-    "wiki/methods/quantitative/Streak Length Analysis.md",
-    "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md",
-    "wiki/concepts/science-policy/Career Collective Impact.md",
     "未命名.canvas"
   ]
 }

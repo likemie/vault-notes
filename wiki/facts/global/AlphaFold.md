@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 
 ---
@@ -78,6 +78,7 @@ updated: 2026-11-02
 > - **2016–2018 — 初代模型攻坚与 CASP13 夺冠** DeepMind 设立蛋白质折叠研发团队，2018 年 12 月初代 AlphaFold 在 CASP13 夺得榜首，预测精度实现历史性飞跃。
 > - **2020 — AlphaFold 2 原子级突破与 CASP14 绝尘** 引入空间演化几何约束与注意力机制，预测精度在 CASP14 达到可匹敌 X 射线晶体学实验的 90 分以上的 GDT 评分，公认基本攻克折叠难题。
 > - **2021–至今 — 全球结构数据库开源与生态扩散** 联合 EMBL-EBI 上线 AlphaFold 数据库，覆盖人类全蛋白质组及数亿种已知生命蛋白结构，深刻重塑生物医药研发范式。
+> - **2026 — 科学学实证检验与计算生物学重构** [[Argument_Hao_2026_Nature|Hao et al. (2026)]] 将其作为自然科学 AI 渗透的典型代表，实证揭示 AlphaFold 预测结构绕过传统实验成本，驱动分子生物学 AI 成果激增 4.70 倍。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1237)]]
 
 ---
 
@@ -115,3 +116,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 详述 AlphaFold 在 CASP13 击败 97 支人类专家团队的历史突破，并以此澄清现代深度学习系统的专用解题属性与人类科学家的领导力边界。
+> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 实证揭示 AlphaFold 为代表的结构预测模型驱动分子生物学 AI 成果激增 4.70 倍，重构了计算生物学工程范式。
