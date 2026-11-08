@@ -56,10 +56,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-28
+updated: 2026-11-09
 ---
 
 ---
@@ -143,6 +144,7 @@ updated: 2026-10-28
 > - **[[Discourse|话语]]效应远超直接强制力** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）强调，由于 GATS 允许成员国自愿选择开放部门，其直接司法制裁案例极为罕见；然而其最大的制度后果在于话语层面——它使“教育是一种可交易的商品”成为全球无可争议的前提，为西方大学将国际学生作为收入来源提供了完全合法的意识形态庇护。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **推动[[Internationalization of Higher Education|高等教育国际化]]理性根本转向** 促使高等教育国际化从二战后的“援助与文化交流理性”彻底转向追求经济利润与学术资本积累的“商业市场理性”。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **重构教育权力在多标度空间的再领土化** 罗伯逊、博纳尔与戴尔（2002）指出，GATS 促成了全球教育系统超越传统民族国家领土边界的重组，在超国家（[[World Trade Organization|WTO]]/经贸同盟）、国家与次国家层次之间建立了复杂的空间制约网络。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **国家防御性准市场调适与非对称出口（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）** 芬兰等北欧福利国家展现了对 GATS 的策略性防御机制：芬兰政府在国家教育规划中明确声明“未曾且无意在 GATS 下就教育市场准入与国民待遇作出承诺”，以此捍卫本国免学费教育传统免受多边贸易法规训；但政策文献同时在话语层面区分了 GATS 的全盘市场化与本土教育出口准市场，在保留免受外资冲击防御屏障的同时，单向推进公立高校向非欧盟学生收取学费并设立跨境营利实体，体现了主权国家在多边经贸规训下的保护主义策略。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 381)]]
 
 > [!stat-cards]- 核心数据
 > 涵盖服务模式：4 大供给模式（跨境、境外消费、商业存在、自然人）；教育子门类：初等、中等、高等、成人及其他共 5 项；全球教育服务贸易年总额：逾 1000 亿美元。

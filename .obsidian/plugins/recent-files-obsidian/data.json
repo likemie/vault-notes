@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Chaperone Effect",
+      "path": "wiki/theories/science-policy/Chaperone Effect.md"
+    },
+    {
+      "basename": "Argument_Hao_2026_Nature",
+      "path": "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md"
+    },
+    {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Argument_Zhang_Zhao_2026_EDR",
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-    },
-    {
-      "basename": "Argument_Hao_2026_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md"
     },
     {
       "basename": "Finnish PISA Miracle",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Mo_2026_BNSFC",
       "path": "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md"
-    },
-    {
-      "basename": "Shuangqing Forum",
-      "path": "wiki/facts/china/Shuangqing Forum.md"
     }
   ],
   "omittedPaths": [],

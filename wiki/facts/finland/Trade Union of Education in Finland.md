@@ -11,7 +11,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -42,10 +42,11 @@ related_facts:
   - "[[Finnish National Board of Education]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 ---
@@ -81,6 +82,7 @@ updated: 2026-11-08
 >   面对 2008 年后的财政紧缩与地方并校潮，工会持续为教师工作负荷与班额控制发声。
 >
 >   - **2014** 参与审议 2014 国家核心课程大纲，捍卫分科学科教师的基本课时与备课保障。
+>   - **2018** 协同教育部与哈梅应用科学大学支持启动首期教育出口专业化微专业培训，将教职人员专业发展延伸至跨国教育服务与商业技能领域。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 8)]]
 >   - **2020** 推动议会通过延长义务教育年限至 18 岁的高中免费化法案。
 
 ---
