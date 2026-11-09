@@ -59,10 +59,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 ---
@@ -147,3 +148,4 @@ updated: 2026-11-08
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 依托跨世纪文献计量全量引文网络与高精度学者消歧追踪，构建长周期物理学家与跨学科学者发表序列，实证解构个体学术生产力与影响力的生命周期演变机制。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 测定科研生产力分布（Unit 01），反思流产团队幸存者盲区（Unit 05），解构引文差距与相对标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 建立引文动力学模型与知识热点架构。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 提取丹麦、芬兰与挪威 16 份基础教育改革核心官方文献中的 1,314 条参考文献展开文献计量分析，量化揭示同行评议学术期刊在政策引证网络中仅占 9.45%–16.02% 的边缘地位（pp. 535–538）。
