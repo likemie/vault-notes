@@ -9,7 +9,7 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Grek_2024_EERJ]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Zhang_Zhao_2026_EDR]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 related_persons:
   - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
@@ -83,7 +84,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-04
+updated: 2026-11-10
 ---
 
 ---
@@ -185,6 +186,7 @@ updated: 2026-11-04
 > - **2006–2009 — 跨国教育治理与大规模评估应用** Lawn（2006）、[[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 与 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] 将通约理论引入[[International Large-Scale Assessments|国际大规模评估]]研究，揭示 [[PISA]] 如何通过数量通约在欧洲与全球制造可比等值空间。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2019 — 数字化监测与次国家治理微观机制深化** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 通过美德州级教育数据监测系统实证，深入剖析脱域化公分母、统计同伴组与微观做数据博弈。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3–7)]]
 > - **2024 — 高等教育质保元标准与跨国资质通约深化** 索蒂里亚·格雷克与伊恩·拉塞尔（[[Argument_Grek_2024_EERJ|Grek & Russell, 2024]]）拓展通约分析至质保基础设施，揭示 ESG 元标准与 DEQAR 数据库如何将各国异质质量体系通约为可互操作的数据记录，支撑全欧学历互认。
+> - **2026 — 全球学习危机话语中的量化及格线通约批判** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 批判国际组织将复杂育人实践强行通约为小学低年级基础读写算及格率（如学习贫困指标），指出这种技术通约抹杀了全球南方的语言情境与本土口述认识论传统。（pp. 675–676）
 
 ---
 
@@ -259,3 +261,4 @@ updated: 2026-11-04
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将跨国通约性界定为 PISA 规制权威的三大技术支柱之一，揭示其依托等价空间排位将新自由主义绩效治理包装为中立测量事实的机制。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释欧洲高等教育区如何依托 ESG 元标准与 DEQAR 数据库构建通约公分母，将各国异质质保体制转化为全欧可比与自动互认的等值空间。
 > - [[Argument_Zhang_Zhao_2026_EDR|张娟, 赵祥辉 (2026)]] — 提出跨学科教育经历遵循方法可迁移与知识可通约规律，指出数理与实验硬核工具的通约性是促成近缘学科交叉创新的必要基础。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 批判国际组织全球学习危机话语对小学低年级基础读写算及格线的普世通约，揭示技术化通约对全球南方语言生态与本土认识论传统的抹杀（pp. 675–676）。

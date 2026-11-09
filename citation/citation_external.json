@@ -84,6 +84,8 @@
     "AVU, 2016": "AVU, 2016",
     "Aadland (2019)": "Aadland, 2019",
     "Aadland, 2019": "Aadland, 2019",
+    "Aaker (1996)": "Aaker, 1996",
+    "Aaker, 1996": "Aaker, 1996",
     "Aarnoudse-Moens et al. (2009)": "Aarnoudse-Moens et al., 2009",
     "Aarnoudse-Moens et al., 2009": "Aarnoudse-Moens et al., 2009",
     "Aarnoutse (1997)": "Aarnoutse, 1997",
@@ -1264,6 +1266,8 @@
     "Aunio (2021)": "Aunio, 2021",
     "Aunio, 2005": "Aunio, 2005",
     "Aunio, 2021": "Aunio, 2021",
+    "Auren & Joshi (2016)": "Auren & Joshi, 2016",
+    "Auren & Joshi, 2016": "Auren & Joshi, 2016",
     "Aurora (2023)": "Aurora, 2023",
     "Aurora, 2023": "Aurora, 2023",
     "Austin (1962)": "Austin, 1962",
@@ -17478,6 +17482,8 @@
     "Neville & Searls, 1991": "Neville & Searls, 1991",
     "Neville (2008)": "Neville, 2008",
     "Neville, 2008": "Neville, 2008",
+    "New York Times (2011)": "New York Times, 2011",
+    "New York Times, 2011": "New York Times, 2011",
     "Newby (2010)": "Newby, 2010",
     "Newby, 2010": "Newby, 2010",
     "Newell & Simon (1972)": "Newell & Simon, 1972",
@@ -20879,8 +20885,10 @@
     "Sahin, 2010b": "Sahin, 2010b",
     "Sahin, 2013": "Sahin, 2013",
     "Sahlberg (2012)": "Sahlberg, 2012",
+    "Sahlberg (2015)": "Sahlberg, 2015",
     "Sahlberg (2023)": "Sahlberg, 2023",
     "Sahlberg, 2012": "Sahlberg, 2012",
+    "Sahlberg, 2015": "Sahlberg, 2015",
     "Sahlberg, 2023": "Sahlberg, 2023",
     "Said (1978)": "Said, 1978",
     "Said (1983)": "Said, 1983",
@@ -21197,6 +21205,8 @@
     "Schartinger et al., 2002": "Schartinger et al., 2002",
     "Schatz (2003)": "Schatz, 2003",
     "Schatz (2016)": "Schatz, 2016",
+    "Schatz et al. (2017)": "Schatz et al., 2017",
+    "Schatz et al., 2017": "Schatz et al., 2017",
     "Schatz, 2003": "Schatz, 2003",
     "Schatz, 2016": "Schatz, 2016",
     "Schau et al. (2001)": "Schau et al., 2001",
@@ -27311,6 +27321,8 @@
     "本文, 2025": "本文, 2025",
     "本赛德 (1999)": "本赛德, 1999",
     "本赛德, 1999": "本赛德, 1999",
+    "朱丽 (2018)": "朱丽, 2018",
+    "朱丽, 2018": "朱丽, 2018",
     "李军 (2018)": "李军, 2018",
     "李军, 2018": "李军, 2018",
     "李忠路 (2016)": "李忠路, 2016",
@@ -28246,6 +28258,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of the Active Smarter Kids (ASK) physical activity school-based intervention on executive functions  A cluster-randomized controlled trial"
+    },
+    "Aaker, 1996": {
+      "aliases": [
+        "Aaker, 1996",
+        "Aaker (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Aaker, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
+      ],
+      "title": ""
     },
     "Aarnoudse-Moens et al., 2009": {
       "aliases": [
@@ -36768,6 +36795,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "An early numeracy intervention for first-graders at risk for mathematical learning difficulties"
+    },
+    "Auren & Joshi, 2016": {
+      "aliases": [
+        "Auren & Joshi, 2016",
+        "Auren & Joshi (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Auren & Joshi, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
+      ],
+      "title": ""
     },
     "Aurora, 2023": {
       "aliases": [
@@ -154718,6 +154760,21 @@
       ],
       "title": ""
     },
+    "New York Times, 2011": {
+      "aliases": [
+        "New York Times, 2011",
+        "New York Times (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "New York Times, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
+      ],
+      "title": ""
+    },
     "Newby, 2010": {
       "aliases": [
         "Newby, 2010",
@@ -179728,6 +179785,21 @@
       ],
       "title": ""
     },
+    "Sahlberg, 2015": {
+      "aliases": [
+        "Sahlberg, 2015",
+        "Sahlberg (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sahlberg, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
+      ],
+      "title": ""
+    },
     "Sahlberg, 2023": {
       "aliases": [
         "Sahlberg, 2023",
@@ -181979,6 +182051,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
+      ],
+      "title": ""
+    },
+    "Schatz et al., 2017": {
+      "aliases": [
+        "Schatz et al., 2017",
+        "Schatz et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schatz et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
       ],
       "title": ""
     },
@@ -225871,6 +225958,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Praxis.md"
+      ],
+      "title": ""
+    },
+    "朱丽, 2018": {
+      "aliases": [
+        "朱丽, 2018",
+        "朱丽 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "朱丽, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
       ],
       "title": ""
     },

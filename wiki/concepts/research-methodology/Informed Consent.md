@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖能力、自愿、充分信息与理解四项前提要素，以及儿童赞同、质性持续协商与跨部门产学合作中的制度规范"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - method/research-ethics
   - theme/research-procedure
@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -214,7 +214,7 @@ updated: 2026-11-02
 > | 研究 | 研究情境与对象 | 研究设计 | 知情同意与审查机制 | 伦理挑战与风险点 | 应对策略与保护措施 |
 > |---|---|---|---|---|---|
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]常规督导与质量审计, 瑞典 | 工具性[[Case Study\|个案研究]]；访谈（N=45–60分钟）与[[Qualitative Observation\|田野观察]] | 访谈前取得参与官员书面知情同意后录音并逐字转录 | 质量审计报告定稿审查涉及内部学术与政治争论，受访者面临行政问责风险 | 严格保密质量审计的具体学科领域，隐匿受访人员具体身份特征（pp. 645–646） |
-| [[Argument_Santos_Silova_2026_Discourse\|Santos & Silova (2026)]] | 芬兰跨国教育发展专家（国际组织雇员与顾问） | 关键知情人访谈与文本话语分析 | 经芬兰外交部联络并征得受访者知情同意后访谈 | 芬兰从事国际教育发展专家圈子极小，对主流国际组织政策的批判极易导致身份暴露与职业风险 | 实施严格匿名化与去标识化编码处理（如采用随机分配的专家编号 ID1–ID9），隐匿受访者所属具体跨国机构名称（p. 672） |
+| [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] | 芬兰跨国教育发展专家（国际组织雇员与顾问） | 关键知情人访谈与文本话语分析 | 经芬兰外交部联络并征得受访者知情同意后访谈 | 芬兰从事国际教育发展专家圈子极小，对主流国际组织政策的批判极易导致身份暴露与职业风险 | 实施严格匿名化与去标识化编码处理（如采用随机分配的专家编号 ID1–ID9），隐匿受访者所属具体跨国机构名称（p. 672） |
 > | [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025)]] | 科技企业与[[Research Universities\|研究型大学]]赞助研发, 美国 | 法律与伦理政策案例分析 | 大学 [[Institutional Review Board\|IRB]] 依据《共同规则》强制审查知情同意书 | 企业习惯内部研发灵活性，大学受联邦法规刚性约束，存在严重进度延迟风险 | 在[[Sponsored Research Agreement\|赞助研究协议]]谈判中将知情同意与 IRB 审查时间线列为不可协商前提（pp. 265–268） |
 > | Walker and Adelman (1975) | 中学课堂师生即时语言互动, 英国 | 课堂微观[[Rich and Thick Description\|深描]]与[[Participant Observation\|参与观察]] | 征得学校与任课教师知情许可后入班观察 | 教师批评与学生调侃可能暴露[[Classroom Management\|课堂管理]]失控，对教师专业评价产生心理威胁 | 与师生建立长程信任，通过情境解码将表面违规解释为积极幽默默契（引自 Cohen et al., 2011） |
 > | Prosser et al. (2008) | 视觉[[Ethnography\|民族志]]与校园影像采集, 英国 | [[Visual Research Methods\|视觉研究方法]]实地拍摄 | 征求学生、教师与校方多层级知情许可与图像复制授权 | 图像具有不可伪装性，直接呈现人物面部与物理环境，极易泄露个体隐私 | 采用背光剪影、局部拍摄、模糊识别特征等视觉匿名技术，签订分阶段使用协议（pp. 12–15） |
