@@ -11,9 +11,9 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "independent-government-agency"
 headquarters: "Helsinki, Finland"
@@ -37,8 +37,10 @@ related_persons: []
 related_facts:
   - "[[Finnish National Board of Education]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[Basic Education Act 1998]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: completed
 created: 2026-11-09
@@ -116,6 +118,7 @@ updated: 2026-11-09
 > [!finding-cards] 关键成效与辐射影响
 > - **维系北欧专业信任与去集权评估模式的平衡** 证实了在没有高压督学与全员统考排位的情况下，依托独立、专业的发展性评估体系同样能够维持领先的国家教育质量标准。
 > - **在教育出口政策中被吸纳为质量话语生产节点** 批判政策学者指出，随着教育出口升格为国家战略，KARVI 的独立评估标准客观上被官方政策文献吸纳为建构“出口质量认证标签”与界定“质量赤字”的技术工具，服务于教育资本的海外商业背书。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 385)]]
+> - **为国家课程改革提供长期监测实证支撑** 芬兰 2014/2016 年基础教育核心课程改革起草委员会高度依赖 KARVI 长期积累的全国学生学业成就监测报告与数据；其历年学科抽样评估结论直接作为国家调整课时分配、设定跨学科横向能力目标的重要实证基准。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 536–538)]]
 
 > [!stat-cards]- 核心规模数据
 > - **50** （人） 拥有的专职资深评估专家与统计分析师队伍规模。
@@ -133,7 +136,7 @@ updated: 2026-11-09
 
 ---
 
-> [!entry-map] 相关概念／理论
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -142,4 +145,11 @@ updated: 2026-11-09
 > | [[Operationalization]] | Concept | KARVI 将抽象的国家核心课程素养与院校质量大纲操作化为具体评估指标体系。 |
 > | [[Finnish National Board of Education]] | Fact (Organization) | 制定国家核心课程大纲的行政主管部门，与负责独立外部评估的 KARVI 形成制衡协同。 |
 > | [[Finnish PISA Miracle]] | Fact (Event) | 芬兰早期凭借高均值与极小校际差距成为全球标杆，KARVI 的国内抽样监测持续佐证其微观结构。 |
+> | [[Basic Education Act 1998]] | Fact (Policy) | 确立芬兰柔性自我评估与国家抽样监测法律框架的基石法案。 |
 > | [[Bacchi's WPR Approach]] | Theory | 将 KARVI 界定为生产“质量赤字话语”与提供官方出口认证标签的核心政策传播节点。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用 WPR 政策分析法透视芬兰教育出口政策，揭示 KARVI 评估标准如何被官方吸纳为生产出口质量认证标签的技术工具。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 考察北欧基础教育改革中芬兰起草委员会对 KARVI 学生学业成就监测报告与 PISA 管理数据的依赖，揭示其在本土课程重构中的实证功能（pp. 536–538）。

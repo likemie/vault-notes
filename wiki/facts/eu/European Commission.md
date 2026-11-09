@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-09
 ---
 
 ---
@@ -165,6 +165,12 @@ updated: 2026-11-02
 > - **推动教育向[[Human Capital Theory|人力资本]]无形投资转型** 深刻改变了欧洲战后将教育视作福利消费开支的传统观念，将教育重塑为提升国际竞争力的核心生产力手段，并将就业风险转嫁至自负盈亏的学习者个体。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
 > - **协调型国家模式落地产业治理** 在半导体等高科技产业中担当协调者，通过撮合跨国公私研发网络与国家补贴合规审查维系欧洲内部市场统一。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
+> [!stat-cards]- 核心规模数据
+> - **27** 欧盟正式成员国数量。
+> - **32,000+** （名） 欧委会全职公务员与专业雇员队伍规模。
+> - **€26B** Erasmus+ 跨国教育流动与合作项目专项预算额度（2021–2027 年）。
+> - **€95.5B** [[Horizon Europe|地平线欧洲]]旗舰科研创新框架预算总额（2021–2027 年）。
+
 ---
 
 > [!debates] 核心争议交锋
@@ -178,22 +184,27 @@ updated: 2026-11-02
 > > [!axis] 新自由主义市场功能主义 vs 公共教育民主本质
 > > 批评欧委会出台的系列白皮书过度将教育与培训窄化为服务于单一市场竞争与知识经济资本积累的工具，严重挤压了公民教化与人文教育传统。
 
+> [!citation-card] 帕西亚斯与鲁萨基斯论欧委会全景敞视软治理与民主赤字
+> 软法协调实质上构建了高度精巧的欧洲教育全景敞视监控体系；常设指标工作组与排名榜单通过远距离注视迫使成员国自愿内化外部标准，架空了国家议会的民主审议，体现出超国家技术官僚的深层民主赤字。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
+>
+> *The open method of coordination establishes a sophisticated European panopticon where constant benchmarking and comparative indicators induce self-disciplining compliance among member states, bypassing democratic scrutiny.*
+
 ---
 
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[EU]] | 事实 | 欧委会所属的欧洲联盟超国家政体。 |
-> | [[Subsidiarity Principle]] | 概念 | 宪制条约设定的教育辅助性原则，禁止欧委会推行统一立法。 |
-> | [[Open Method of Coordination]] | 概念 | 欧委会用于突破辅助性原则、推进软法治理的核心政策工具。 |
-> | [[Performance Indicators]] | 概念 | 常设指标工作组制定的五大基准线等量化监控公尺。 |
-> | [[European Education Space]] | 概念 | 欧委会软治理旨在建构的超国家政策与符号空间。 |
-> | [[Panopticism]] | 理论 | 帕西亚斯与鲁萨基斯用于解构欧委会软法监控体系的核心权力理论。 |
-> | [[Governmentality]] | 理论 | 解释欧委会如何通过真理政制引导成员国自愿合规的治理术理论。 |
-> | [[Eurydice]] | 事实 | 与欧委会[[Knowledge Co-production\|合作生产]]教育信息与政策比较数据库的欧洲网络。 |
-> | [[European Chips Act]] | 事实 | 欧委会主导推进的半导体战略自主产业法案。 |
-> | [[Orchestrator State]] | 概念 | 描述欧委会在高科技产业政策中撮合与审批补贴的协调型角色。 |
+> | [[EU]] | Fact (Organization) | 欧委会所属的欧洲联盟超国家政体。 |
+> | [[Subsidiarity Principle]] | Concept | 宪制条约设定的教育辅助性原则，禁止欧委会推行统一立法。 |
+> | [[Open Method of Coordination]] | Concept | 欧委会用于突破辅助性原则、推进软法治理的核心政策工具。 |
+> | [[Performance Indicators]] | Concept | 常设指标工作组制定的五大基准线等量化监控公尺。 |
+> | [[European Education Space]] | Concept | 欧委会软治理旨在建构的超国家政策与符号空间。 |
+> | [[Panopticism]] | Theory | 帕西亚斯与鲁萨基斯用于解构欧委会软法监控体系的核心权力理论。 |
+> | [[Governmentality]] | Theory | 解释欧委会如何通过真理政制引导成员国自愿合规的治理术理论。 |
+> | [[Eurydice]] | Fact (Organization) | 与欧委会[[Knowledge Co-production\|合作生产]]教育信息与政策比较数据库的欧洲网络。 |
+> | [[European Chips Act]] | Fact (Policy) | 欧委会主导推进的半导体战略自主产业法案。 |
+> | [[Orchestrator State]] | Concept | 描述欧委会在高科技产业政策中撮合与审批补贴的协调型角色。 |
 
 ---
 

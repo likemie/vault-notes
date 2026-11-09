@@ -35,6 +35,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Learnology]]"
   - "[[Document]]"
+  - "[[Policy-Based Evidence-Making]]"
 related_theories:
   - "[[Legitimation Crisis]]"
   - "[[Critical Theory]]"
@@ -54,14 +55,13 @@ related_arguments:
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Hansen_2015_Paideia]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_instruments: []
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-02
+updated: 2026-11-09
 ---
-
-（丹麦 2014 年公立学校改革）
 
 ---
 
@@ -91,6 +91,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 政策发展脉络
 > - **2000s 初 — [[PISA]] 震荡与“圆桌教育学”终结** 丹麦在 PISA 初测表现平庸引起朝野震动，首相拉斯穆森 2003 年宣布转向严格的考核与绩效监督，为引入外部量化证据铺平道路。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 82)]]
+> - **2012 — 核心改革提案《让好学校变得更好》发布** 丹麦政府正式发布核心改革提案《让好学校变得更好——公立学校的专业提升》（*Gør en god skole bedre – et faglig løft af folkeskolen*），确立强制延长学时与强化丹麦语、数学基础学科的核心基调。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 535)]]
 > - **2013 — 教师大停工与劳工立法干预（Lov 409）** 市镇协会（KL）与教师工会关于劳动协议谈判破裂，导致全国范围近 7 万名公立学校教师被停工（Lockout）；议会迅速出台 409 号法律强制介入，削减备课保护，为推行全日制教改强行扫清障碍。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
 > - **2013 年底 — 议会通过《公立学校改革法案》** 执政的社会民主党与议会多数派达成跨党派协议，正式采纳《[[Visible Learning|可见的学习]]》核心逻辑，确立以学习目标为中枢的改革方案。
 > - **2014 年 8 月 — 改革正式落地与[[Technical Rationality|技术理性]]监控铺开** 全面实施近 3,000 项学习目标与延长学时，各市镇广泛采购[[John Hattie|哈蒂]]培训项目（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
@@ -108,6 +109,7 @@ updated: 2026-11-02
 > - **国家课程目标彻底量化** 传统的自由讨论与教养（Dannelse）传统被全面边缘化，取而代之的是由上至下层层下达的可测量学习指标。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **课堂教学行为的技术控制** 教师被要求严格依照[[John Hattie|哈蒂]]式的反馈程式（向后、向上、向前反馈）监控课堂，将教学活动降格为刺激-强化-纠偏的控制流水线。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 88–89)]]
 > - **学术招牌作为政治盾牌** 当家长和教师对死板考核与课时延长提出强烈抗议时，教育部与市镇官员反复将哈蒂的[[Meta-analysis|元分析]]数据奉为不可抗拒的科学准则，用以压制民主商榷并削弱教师专业自主。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86)]]
+> - **工具主义实证剪裁与证据逆向制造** 官方提案（2012）在论证延长学时与强化核心学科时表现出强烈的工具主义取向：优先采纳能够直接证明预期干预因果成效的应用型评估方案，极少引用同行评议期刊文献，主要将实证证据用作免于实质辩论的政治合法化背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535–536, 542)]]
 
 ---
 

@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 168
+fact_related_count: 169
 fact_related_level: 16
 fact_related_stars: "💎💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -202,10 +202,11 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-31
+updated: 2026-11-09
 ---
 
 ---
@@ -333,6 +334,7 @@ updated: 2026-10-31
 > - **国内政治权力格局重组** 经合组织测评数据作为外部合法性资源，赋权并强化了主权国家内部偏好与其一致的改革同盟（如财政经济部门与雇主协会），同时弱化了缺乏实证数据支撑的传统反对力量（如教师工会）的论辩[[Discourse|话语]]权，间接重构了国家教育政治的权力配置。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 277–278)]]
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）；并通过与[[EU|欧盟]]委员会建立深层跨机构共生（欧盟资助 80% 调查成本，50%–60% [[Lisbon Strategy|里斯本战略]]数据直接依赖经合组织），将比较指标建构为赋权主权国家推行国内争议性改革的准外部合法化权威（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 24–26, 32–35]]）。
 > - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
+> - **跨国课程趋同与政治合法化背书** 尽管北欧国家（丹麦、芬兰、挪威）在推进基础教育改革时极力强调本国改革植根于独特的本土情境，但在核心课程设计上均全面吸纳经合组织 21 世纪技能与素养框架（如挪威卢德维格森委员会赴巴黎总部实地考察并直接采纳其模型）；跨国比较证据主要被执政者用作宣示改革前沿性与科学化的政治背书，服从于政治合法化诉求。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531, 542–544)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -497,3 +499,4 @@ updated: 2026-10-31
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 在全球 654 个证据平台网络测绘中将 OECD 定位于中心群第 4 位，揭示多边机构主导全球证据生产的格局。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 评析 OECD 知识动员与证据利用调查报告，批判其将系统性制度供给不足转嫁为公职人员个体能力赤字的倾向。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证经合组织 DAC 1996 年巴黎会议闭门确立国际开发目标并将教育窄化为初等与性别两项指标的历史脉络。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证解构北欧基础教育改革（丹麦、芬兰、挪威）对经合组织 21 世纪技能框架的采纳，揭示跨国能力框架在本土改革中被用作政治合法化背书的科学化修辞（pp. 531, 542–544）。
