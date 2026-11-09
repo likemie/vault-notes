@@ -1391,6 +1391,8 @@
     "Bacchi & Goodwin, 2016": "Bacchi & Goodwin, 2016",
     "Bacchi (2009)": "Bacchi, 2009",
     "Bacchi (2016)": "Bacchi, 2016",
+    "Bacchi's (2009)": "Bacchi's, 2009",
+    "Bacchi's, 2009": "Bacchi's, 2009",
     "Bacchi, 2009": "Bacchi, 2009",
     "Bacchi, 2016": "Bacchi, 2016",
     "Bach et al. (2009)": "Bach et al., 2009",
@@ -37709,6 +37711,21 @@
       ],
       "title": ""
     },
+    "Bacchi's, 2009": {
+      "aliases": [
+        "Bacchi's, 2009",
+        "Bacchi's (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bacchi's, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/australia/Carol Bacchi.md"
+      ],
+      "title": ""
+    },
     "Bacchi, 2009": {
       "aliases": [
         "Bacchi, 2009",
@@ -54492,7 +54509,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/facts/finland/Finnish Country Brand Report.md"
       ],
       "title": ""
     },
@@ -137913,6 +137930,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+        "wiki/facts/finland/Finnish Country Brand Report.md",
         "wiki/facts/finland/Finnish Government Education Export Programme.md"
       ],
       "title": ""
@@ -137959,7 +137977,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+        "wiki/facts/finland/Government Bill 191-2021.md"
       ],
       "title": ""
     },
@@ -181987,7 +182006,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Nation Branding.md"
+        "wiki/concepts/comparative-education/Nation Branding.md",
+        "wiki/facts/finland/Finnish Country Brand Report.md"
       ],
       "title": ""
     },

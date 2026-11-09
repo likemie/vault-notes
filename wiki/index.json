@@ -29029,6 +29029,16 @@
     ]
   },
   {
+    "title": "Carol Bacchi",
+    "type": "person",
+    "path": "wiki/persons/australia/Carol Bacchi.md",
+    "aliases": [
+      "卡罗尔·巴奇",
+      "Carol Lee Bacchi",
+      "Bacchi"
+    ]
+  },
+  {
     "title": "David Gonski",
     "type": "person",
     "path": "wiki/persons/australia/David Gonski.md",
@@ -38158,6 +38168,20 @@
     "subtype": "policy"
   },
   {
+    "title": "Finnish Country Brand Report",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish Country Brand Report.md",
+    "aliases": [
+      "芬兰国家品牌报告",
+      "CBR 2010",
+      "Country Brand Report",
+      "芬兰使命：国家品牌委员会报告",
+      "Mission for Finland: Country Brand Report",
+      "Country Brand Delegation Report"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Finnish Matriculation Examination",
     "type": "fact",
     "path": "wiki/facts/finland/Finnish Matriculation Examination.md",
@@ -38192,6 +38216,19 @@
       "Framework Curriculum for the Comprehensive School 1994",
       "1994年综合学校大纲改革",
       "Peruskoulun opetussuunnitelman perusteet 1994"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Government Bill 191-2021",
+    "type": "fact",
+    "path": "wiki/facts/finland/Government Bill 191-2021.md",
+    "aliases": [
+      "Government Bill 191/2021",
+      "芬兰职业教育法修正案",
+      "职业教育法修改政府提案",
+      "HE 191/2021 vp",
+      "Hallituksen esitys eduskunnalle laiksi ammatillisesta koulutuksesta annetun lain muuttamisesta"
     ],
     "subtype": "policy"
   },

@@ -11,6 +11,12 @@ summary: "2010年由芬兰国家品牌委员会向总理府呈交的划时代国
 type: fact
 subtype: policy
 region: "finland"
+fact_region: "finland"
+fact_kind: "policy"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "Prime Minister's Office of Finland"
 tags:
   - theme/nation-branding

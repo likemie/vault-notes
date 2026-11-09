@@ -8,7 +8,7 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,10 +46,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -132,6 +133,7 @@ updated: 2026-11-03
 > - **2007 — 周期专长理论化与《重思专长》** Collins and Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖[[Tacit Knowledge|默会知识]]传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
 > - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发[[Performativity|表演性]]依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。
+> - **2026 — 国际发展治理中专家双重立场的认识论锚定** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 将贡献型专长概念延伸至国际组织内部专家的立场分析，将专长界定为理论规范与默会实践技能的结合，揭示兼具跨国机构文官身份与芬兰本土教育哲学的专家如何依托其实践经验反思全球学习危机话语。（p. 672）
 
 ---
 
@@ -153,6 +155,7 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，指出教育治理体制与专长形态深刻决定了证据接触方式，揭示高利害市场化问责导致证据被[[Performativity|表演性]]利用，而贡献型专长是抵制脱离情境教条的关键支柱。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 将贡献型专长引入国际组织内部专家的身份与认识论分析，指出其兼具理论规范与实践默会技能，为透视国际组织文官身份与本土教育哲学之间的双重张力提供分析抓手（p. 672）。
 
 ---
 

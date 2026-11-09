@@ -4,12 +4,17 @@ aliases:
   - 卡罗尔·巴奇
   - Carol Lee Bacchi
   - Bacchi
-summary: "澳大利亚政治学家、阿德莱德大学政治学荣休教授，后结构批判政策分析代表学者，创立“问题表征分析法”（WPR 框架），提出政策不单纯解决既定问题而是主动建构问题本身的颠覆性认识论命题"
+summary: "澳大利亚政治学家、阿德莱德大学政治学荣休教授，后结构批判政策分析代表学者，创立“问题表征分析法”（WPR 框架），确立政策主动生产并建构问题本身的建构主义认识论命题"
 type: person
-nationality: "Australia"
+nationality: australia
+person_region: "australia"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1945"
 died: ""
-lifespan: "1945–"
+lifespan: "1945–至今"
 tags:
   - theme/post-structural-policy-analysis
   - theme/wpr-approach
@@ -77,7 +82,7 @@ updated: 2026-11-10
 ---
 
 > [!claim] 核心思想
-> 政策绝非对客观存在的社会问题的中立技术回应；政策在提出解决方案的具体制度举措时，同时生产并固定了特定类型的“问题表征”（Problem Representation）。研究者应当以政策实践文本为唯物切入点，通过逆向推导（Working Backwards），解构政策背后的底层形而上学假定、二元概念对立、被系统性排斥的沉默议题，以及政策所强加的主体化规训与物质生活后果。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380–381)]]
+> 政策在提出解决方案的具体制度举措时，主动生产并固定了特定类型的“问题表征”（Problem Representation）。政策本身即是行使治理权力的实践；研究者应当以政策实践文本为唯物切入点，通过逆向推导（Working Backwards），解构政策背后的底层形而上学假定、二元概念对立、被系统性排斥的沉默议题，以及政策所强加的主体化规训与物质生活后果。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380–381)]]
 
 > [!citation-card] 政策作为生产问题的治理实践
 > 政策不仅仅是管理既定社会现实的手段；政策是行使治理权力的实践，它决定了何为可言说的真理，并通过塑造人们思考和行动的方式来生产主体。分析的核心任务在于打破这种看似理所当然的技术中立性，揭示其背后的偶然性与权力运作。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 381)]]
@@ -90,7 +95,7 @@ updated: 2026-11-10
 > - **理论路径** 沟通了福柯后结构主义权力哲学与公共行政政策研究，使治理术与真理政制理论具备了清晰可操作的话语解构透镜。
 > - **方法路径** 创立的 WPR 六步提问法成为全球批判政策学（Critical Policy Studies, CPS）的主流分析工具，广泛替代了传统的实证主义内容分析法。
 > - **政策路径** 推动政策制定者反思政策起草中的话语偏见，尤其在社会保障、教育公平、公共卫生与边缘群体赋权领域促进了政策评估的范式革新。
-> - **跨国／跨领域传播** WPR 框架从最初的澳大利亚性别政治研究，迅速扩散至北欧教育福利转型（Kuortti, 2025）、英国高等教育市场化、加拿大原住民政策及全球公共卫生危机治理。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380–381)]]
+> - **跨国／跨领域传播** WPR 框架从最初的澳大利亚性别政治研究，迅速扩散至北欧教育福利转型（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）、英国高等教育市场化、加拿大原住民政策及全球公共卫生危机治理。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380–381)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 严格采纳巴奇的 WPR 分析框架解构 2010–2020 年间芬兰 16 份教育出口核心政策文献，由“微专业培训、修改职业教育法”等干预措施逆推官方将公立教育表征为“商业技能匮乏与法律阻碍”的话语生成机制。
@@ -98,6 +103,6 @@ updated: 2026-11-10
 ---
 
 > [!citation-card] 库尔蒂论巴奇 WPR 框架的方法论价值
-> 巴奇的问题表征分析法为探究教育出口如何生产出独特的治理理性提供了唯物切入点。该框架引导我们探寻究竟是什么话语与假设使得公共教育的特定缺陷得以被如实表述出来，并指明政策知识并非纯粹理性的产物，而是深嵌于具体历史与统治实践中的产物。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 381)]]
+> 巴奇的问题表征分析法为探究教育出口如何生产出独特的治理理性提供了唯物切入点。该框架引导我们探寻究竟是什么话语与假设使得公共教育的特定缺陷得以被如实表述出来，并指明政策知识深嵌于具体历史与统治实践，具有鲜明的权力建构属性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 381)]]
 >
 > *Problem representations are the material entry point into studying how education export produces governmental rationalities. The WPR approach views the construction of problems as particular kinds of problems as an integral purpose of the policy process.*

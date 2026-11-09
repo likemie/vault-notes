@@ -55,7 +55,8 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Fieldwork]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Carol Bacchi]]"
 related_facts:
   - "[[Finnish Government Education Export Programme]]"
   - "[[Finnish National Board of Education]]"
@@ -66,6 +67,8 @@ related_facts:
   - "[[PISA]]"
   - "[[EU]]"
   - "[[Trade Union of Education in Finland]]"
+  - "[[Finnish Country Brand Report]]"
+  - "[[Government Bill 191-2021]]"
 related_arguments: []
 sources:
   - "[[sources/Kuortti_2025_JEdPolicy|Kuortti_2025_JEdPolicy]]"
@@ -79,7 +82,7 @@ title: "Argument_Kuortti_2025_JEdPolicy"
 argument_key: "Argument_Kuortti_2025_JEdPolicy"
 argument_display_title: "Repurposing public education: Governmental rationality of education export in Finland through public education problematisations"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -101,7 +104,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 2010 至 2020 年间芬兰教育文化部（Ministry of Education and Culture, MINEDU）、经济事务与就业部（Ministry of Economic Affairs and Employment, TEM）、外交部（Ministry for Foreign Affairs, FORMIN）、总理府（Prime Minister's Office, VNK）及芬兰国家教育局（[[Finnish National Board of Education|Finnish National Agency for Education]], FNAE）发布的 16 份核心政策文本、战略路线图与官方评估档案。
 > - **张力** 北欧福利国家长期坚持的教育去商品化、普惠均等与公法保障传统，与全球[[Competition State|竞争国家]][[Paradigm|范式]]下将教育打包为可交易商品、追求商业创收之间的深层价值冲突。
-> - **贡献** 金莫·库尔蒂（Kimmo Kuortti）运用福柯治理理性理论与巴奇（Carol Bacchi）提出的问题表征分析法（[[Bacchi's WPR Approach|What's the Problem Represented to be]]?, WPR）框架，突破了以往仅聚焦单一教育学段学费争端或宏观[[Nation Branding|国家品牌]]营销的经验局限，揭示出次要政策议题如何充当治理实验室，将各级异质教育学段串联为服务于出口竞争的知识社会基础生产系统。
+> - **贡献** 金莫·库尔蒂（Kimmo Kuortti）运用福柯治理理性理论与[[Carol Bacchi|巴奇（Carol Bacchi）]]提出的问题表征分析法（[[Bacchi's WPR Approach|What's the Problem Represented to be]]?, WPR）框架，突破了以往仅聚焦单一教育学段学费争端或宏观[[Nation Branding|国家品牌]]营销的经验局限，揭示出次要政策议题如何充当治理实验室，将各级异质教育学段串联为服务于出口竞争的知识社会基础生产系统。
 
 ---
 
@@ -109,7 +112,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **治理理性**<br>[[Governmentality]] | 福柯（Michel Foucault）提出的权力分析范畴，解释国家如何通过重构[[Regimes of Truth\|真理政制]]与思维方式，将原本违背传统福利伦理的市场竞争逻辑确立为公共治理不可回避的客观理性。 |
-> | **问题表征分析方法**<br>[[Bacchi's WPR Approach]] | 巴奇（Bacchi, 2009）提出的批判政策[[Analytic Framework\|分析框架]]，通过问题表征分析法（WPR）提出的六项核心提问，由政策建议的具体干预举措逆推政策话语背后的底层预设、历史谱系、话语沉默与主体化效果。 |
+> | **问题表征分析方法**<br>[[Bacchi's WPR Approach]] | [[Carol Bacchi|巴奇]]（Bacchi, 2009）提出的批判政策[[Analytic Framework\|分析框架]]，通过问题表征分析法（WPR）提出的六项核心提问，由政策建议的具体干预举措逆推政策话语背后的底层预设、历史谱系、话语沉默与主体化效果。 |
 > | **竞争国家理论**<br>[[Competition State]] | 阐释福利国家在经济全球化压力下的制度变迁，揭示国家核心职能如何从提供去商品化的社会公平保障，转向动员国内公共资源参与国际经济与知识产业竞争。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -122,7 +125,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **后结构政策分析**<br>[[Post-structural Policy Analysis]] | 采纳巴奇（Bacchi, 2009）的问题表征分析框架（WPR），以[[Problematisation\|问题化]]为分析枢纽，针对政策实践文本提炼的干预措施展开逆向[[Decodification\|解码]]，识别政策建构的核心假定、概念二元对立与沉默维度。 |
+> | **后结构政策分析**<br>[[Post-structural Policy Analysis]] | 采纳[[Carol Bacchi|巴奇]]（Bacchi, 2009）的问题表征分析框架（WPR），以[[Problematisation\|问题化]]为分析枢纽，针对政策实践文本提炼的干预措施展开逆向[[Decodification\|解码]]，识别政策建构的核心假定、概念二元对立与沉默维度。 |
 > | **政策文献系统编码**<br>[[Documentary Analysis]] | 汇编 2010 年至 2020 年间芬兰关于教育出口的 16 份关键政策[[Document\|文献]]（覆盖 5 份核心实践文本与 11 份关联支撑政策），运用 Atlas.ti 质性分析软件对涉及公共教育改革的语句、指标与里程碑进行节点编码。 |
 > | **实务立场反思** | 兼具公立高等教育机构教育出口实务与学术研究双重背景，分析中主动评估从业经验对文本解构可能带来的认知倾向，避免将商业惯例误设为中立前提。 |
 
@@ -134,10 +137,10 @@ issuing_organization: ""
 > | **实践文本 3（MINEDU, 2016a）** | 《教育出口路线图 2016–2019》（*Roadmap for education export 2016–2019*，教育部） | 西皮莱政府时期发布，聚焦消除法规阻碍，将教育出口深度嵌入国家数字化与产业创新议程。 |
 > | **实践文本 4（MINEDU, 2016b）** | 《促进中等教育出口措施报告》（*Measures to promote education export in secondary education*，教育部） | 专项研讨职业教育与高中出口方案，确立公办经费与商业创收严格分账的制度原则。 |
 > | **实践文本 5（FNAE, 2020）** | 《教育出口路线图 2020–2023》（*Koulutusviennin tiekartta 2020–2023*，国家教育局） | 强调构建公立与私营合作的教育生态系统，推广商业微专业培训，提出培育国内[[Quasi-market\|准市场]]测试基地。 |
-> | **支撑政策（CBR, 2010）** | 《芬兰使命：国家品牌委员会报告》（*Mission for Finland: Country Brand Report*，国家品牌委员会） | 将芬兰高品质基础教育作为[[Nation Branding\|国家品牌化]]（Country Brand）的核心资产与全球推广名片。 |
+> | **支撑政策（[[Finnish Country Brand Report|CBR, 2010]]）** | [[Finnish Country Brand Report|《芬兰使命：国家品牌委员会报告》]]（*Mission for Finland: Country Brand Report*，国家品牌委员会） | 将芬兰高品质基础教育作为[[Nation Branding\|国家品牌化]]（Country Brand）的核心资产与全球推广名片。 |
 > | **支撑政策（Government, 2015）** | 《解决方案的芬兰：战略政府规划》（*Ratkaisujen Suomi*，总理府） | 西皮莱内阁施政纲领，推行大规模简政放权与规制松绑，将公共教育确定为实验平台。 |
 > | **支撑政策（FORMIN, 2018）** | 《提升芬兰教育全球角色报告》（*Stepping Up Finland's Global Role in Education*，外交部） | 将教育出口与国际发展援助、外交经贸深度绑定，拓宽出口话语的部际协调网络。 |
-> | **支撑政策（Government Bill 191/2021）** | 《职业教育法修改政府提案》（*Government Bill 191/2021*，议会与总理府） | 修改法定条款，允许公立职业院校设立离岸法人公司并面向境外有偿授课。 |
+> | **支撑政策（[[Government Bill 191-2021|Government Bill 191/2021]]）** | [[Government Bill 191-2021|《职业教育法修改政府提案》]]（*Government Bill 191/2021*，议会与总理府） | 修改法定条款，允许公立职业院校设立离岸法人公司并面向境外有偿授课。 |
 
 ---
 
@@ -178,7 +181,7 @@ issuing_organization: ""
 >
 > - **2010–2015 国家战略成型与制度破冰期**
 >
->   2010 年《从兴趣到需求与产品》战略与国家品牌委员会报告（CBR, 2010）相继出台，教育出口正式升格为国家跨部委行动；2015 年法律修正案通过，决定自 2016 年起对[[EU|欧盟]]/欧洲经济区以外学生强制开征学费。
+>   2010 年《从兴趣到需求与产品》战略与[[Finnish Country Brand Report|国家品牌委员会报告（CBR, 2010）]]相继出台，教育出口正式升格为国家跨部委行动；2015 年法律修正案通过，决定自 2016 年起对[[EU|欧盟]]/欧洲经济区以外学生强制开征学费。
 >
 > - **2016–2020 全领域渗透与生态化扩张期**
 >
@@ -219,7 +222,7 @@ issuing_organization: ""
 > - **法规碎片化指控** 政策批评各级教育法律条文割裂，缺乏对[[Transnational Education|跨国教育]]有偿交付的统筹支持，导致公立院校开展海外业务面临法务合规风险。（MINEDU, 2013, p. 32）
 > - **过度保护与僵化论** 将禁止公立学校开展营利性经营的法定限制定性为抑制创新的体制束缚，忽视了立法初衷在于防止公共资源被私人资本蚕食。（MINEDU, 2016a, p. 24）
 > - **政府采购壁垒论** 抱怨国内公共采购法规过于严格，阻碍了地方政府直接向本土教育出口企业定向采购试验性产品。（MINEDU, 2016b, p. 25）
-> - **属地办学束缚论** 批评职业教育法规将文凭授予严格限定在芬兰本土境内，严重剥夺了职业院校赴海外设立分校或境外发证的商业契机。（Government Bill 191/2021, p. 3）
+> - **属地办学束缚论** 批评职业教育法规将文凭授予严格限定在芬兰本土境内，严重剥夺了职业院校赴海外设立分校或境外发证的商业契机。
 
 > [!warrant]- 去规制化话语的权力重塑逻辑
 > - **防护屏障功能的解构** 在福利国家体制中，法律原本承担着维系社会安全与防止教育商业化的防护屏障功能。
@@ -228,8 +231,8 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 法规修订允许公立职业院校设立营利子公司，将公共资源转用于境外商业办学
 
-> [!case] 案例：职业教育法修改（Government Bill 191/2021）与市镇学校离岸外围公司化
-> - **法定松绑与离岸营利特区** 针对公立职业院校无法直接在海外从事营利性文凭培训的困境，芬兰议会于 2021 年正式通过《职业教育法》修正案（Government Bill 191/2021）。该法案明确允许经国家认证的公立职业培训机构，通过在体制外设立有限责任公司（Limited Liability Company, LLC）的形式，面向非欧盟客户提供全额有偿的学历与技能资格认证等[[Transnational Education|跨国教育]]服务。
+> [!case] 案例：职业教育法修改（[[Government Bill 191-2021|Government Bill 191/2021]]）与市镇学校离岸外围公司化
+> - **法定松绑与离岸营利特区** 针对公立职业院校无法直接在海外从事营利性文凭培训的困境，芬兰议会于 2021 年正式通过《职业教育法》修正案（[[Government Bill 191-2021|Government Bill 191/2021]]）。该法案明确允许经国家认证的公立职业培训机构，通过在体制外设立有限责任公司（Limited Liability Company, LLC）的形式，面向非欧盟客户提供全额有偿的学历与技能资格认证等[[Transnational Education|跨国教育]]服务。
 > - **外围商业控股法人组建** 在此法律赋权下，埃斯波等地的公立职业教育联盟（如 Omnia）以及多所市镇联合学院纷纷设立专属的教育出口控股公司。
 > - **公共资产的商业化租赁** 公立学校的品牌、实训工坊、课程方案乃至正式编制教师，被这套外围私营法人按商业成本租赁使用。这种公办母体与商业外壳并行的双轨法人架构，模糊了公共事业与私人逐利的边界，使公共资产实质性演化为跨境商业经营的生产要素。
 
@@ -317,7 +320,7 @@ issuing_organization: ""
 > - **5** （份） 构成具体干预措施基石的官方实践文本（MINEDU, 2010b 至 FNAE, 2020）。
 > - **30** （ECTS 学分） 芬兰教育部全额出资设立、由 HAMK 与 Omnia 承办的教育出口专业化微专业学分数。
 > - **2016** （年） 芬兰打破长期免费教育宪政传统、对非欧盟/欧洲经济区留学生正式强制征收学费的转折年份。
-> - **191/2021** （号法案） 芬兰议会修改职业教育法、正式允许公立职业院校通过离岸法人开展营利性办学的政府法案编号。
+> - **[[Government Bill 191-2021|191/2021]]** （号法案） 芬兰议会修改职业教育法、正式允许公立职业院校通过离岸法人开展营利性办学的政府法案编号。
 
 ---
 

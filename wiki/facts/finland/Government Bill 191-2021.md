@@ -10,6 +10,12 @@ summary: "2021年芬兰国会通过的核心法律去规制化法案，正式打
 type: fact
 subtype: policy
 region: "finland"
+fact_region: "finland"
+fact_kind: "policy"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "Parliament of Finland"
 tags:
   - theme/deregulation
