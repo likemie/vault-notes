@@ -50,10 +50,8 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-11-03
+updated: 2026-11-10
 ---
-
-（高利害测验 / 高风险测验）
 
 ---
 
@@ -74,7 +72,7 @@ updated: 2026-11-03
 > | **制度后果** | **重大且具决定性**（升学、绩效、经费惩戒） | **无重大惩罚性后果**（保护性试错空间） | 中度至低度后果（注重作品集与同伴评审） |
 > | **对教学的逆向塑造** | 诱发课程窄化、套路化公式写作与刷题 | 促进适应性教学、因材施教与师生对话 | 激发跨学科探究、主观阐释与[[Reflexivity\|反思性]]迭代 |
 > | **技术代劳与作弊风险** | **极高（面临严厉问责时极易寻求 AI 代写）** | 低（聚焦课堂实时互动与过程表现） | 低（注重现场答辩、思维外显与个人阐释） |
-> | **代表学者与[[Document\|文献]]** | Harlen (1994); Haladyna et al. (1991); [[Argument_Smith_2026_SPE\|Smith (2026)]] | Black and Wiliam (1998); Gipps (1994) | Wiggins (1990); Darling-Hammond (1995) |
+> | **代表学者与[[Document\|文献]]** | Harlen (1994); Haladyna et al. (1991); [[Argument_Smith_2026_SPE\|Smith (2026)]]; [[Argument_Yang_2023_ICE\|杨明全和邓丽 (2023)]] | Black and Wiliam (1998); Gipps (1994) | Wiggins (1990); Darling-Hammond (1995) |
 
 ---
 
@@ -179,3 +177,4 @@ updated: 2026-11-03
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材第 24 章系统梳理高利害测验的伦理连续谱（Mehrens & Kaminski, 1989）、Gipps 评价标准以及排除低表现学生的系统性弊端。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 结合 Learned et al. (2020) 与 Davies (2022)，深入剖析高利害测验驱动公式化套路写作、促成[[Computerization of Education|教育计算机化]]，并与生成式 AI 协同诱发[[Formative Epistemic Injustice|成长性认识不正义]]的哲学机理。
+> - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 结合芬兰考试少成绩好的微观悖论，探讨以形成性反馈和师生信任为主导的支持性评价文化对高利害测验外部问责与纪律管制的超越（pp. 6, 8）。

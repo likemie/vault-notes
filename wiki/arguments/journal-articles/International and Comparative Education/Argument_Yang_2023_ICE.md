@@ -32,7 +32,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Scientific Literacy]]"
   - "[[Free School Meals]]"
-  - "[[Screening Off]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Creativity]]"
   - "[[National Competitive Advantage]]"
@@ -239,7 +238,7 @@ issuing_organization: ""
 > - **他者贬抑的共生机制** 宣传或营销特定国家的绝对竞争优势往往在树立优越国家形象的同时，不可避免地建构出相对低劣的他者（Schatz et al., 2017）。
 > - **价值宣示与情境剥离** 芬兰将其教育品牌标榜为全世界最好，带有强烈的价值宣示色彩；这种语言偏向容易贬低他国既有探索，且忽视了输入国具体的社会历史文化情境，使推广方案缺乏跨情境可操作性。
 
-> [!sub-claim] 2. 考试高分不等于教育全貌，抽象神话话术[[Screening Off|遮蔽]]了福利体制与全民信任的前提
+> [!sub-claim] 2. 考试高分不等于教育全貌，抽象神话话术遮蔽了福利体制与全民信任的前提
 
 > [!critique] 纸笔测验局部指标向不可证伪话术神话的修辞转译
 > - **测评指标代表性局限** PISA 测试成绩仅能反映特定学段部分科目的测试表现，无法代表教育体系的全貌。

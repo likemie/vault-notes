@@ -96,10 +96,11 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Heinze_2009_RP]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -216,3 +217,4 @@ updated: 2026-11-09
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 32–34)]] — 依托 [[Fabricating Quality in European Education|FabQ]] 跨国合作项目，对欧洲与国家层面的教育决策精英开展半结构化深度访谈，重点访谈[[European Commission|欧盟委员会]]教育文化总司及 [[Eurydice]] 政策官员，揭示跨国组织在指标生产与数据流动中的深层共生与策略外在化机制。
 > - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 对欧美 20 个重大科学突破团队的课题组长、科研人员与机构管理者开展 68 场深度半结构化访谈，结合档案资料深度重建突破性成果的微观孕育过程与组织环境约束。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 针对丹麦、芬兰与挪威 15 位参与学校改革起草的关键政策官员与委员会专家开展 60 至 90 分钟半结构化深度访谈，完整转录文本，深入挖掘政策起草中对行政默会知识与非正式学术网络的隐蔽依赖（pp. 535–538）。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 对曾在三大国际组织任职的 23 位芬兰教育专家开展 60 至 90 分钟半结构化深度访谈，挖掘跨国机构文官面对全球学习危机话语时的反思性与制度默会认知。

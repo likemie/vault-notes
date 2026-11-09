@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -77,7 +78,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -123,8 +124,8 @@ updated: 2026-11-09
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 担任特定行政管理职能、政策设计责任或技术评估任务的核心官员与专业人员口述转录文本。 |
-> | 抽样或选案 | [[Purposeful Sampling\|立意抽样]]（Purposeful sampling）与典型案例抽样，覆盖不同制度发展水平与治理绩效的代表性机构。 |
-> | 研究者位置 | 作为具备专业学术信誉的外部研究者进入官方科层体系，遵循严格学术伦理与保密协议。 |
+> | 抽样或选案 | [[Purposeful Sampling\|立意抽样]]（Purposeful sampling）与典型案例抽样，覆盖不同制度发展水平与治理绩效的代表性机构；或通过官方渠道在知情同意下获取初始名单后进行链式转介。[[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026)]] |
+> | 研究者位置 | 作为具备专业学术信誉的外部研究者进入官方科层体系，遵循严格学术伦理与保密协议；在专家圈层较小且议题高度敏感时实施深层匿名保护。[[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026)]] |
 > | 资料边界 | 聚焦特定政策周期内的制度实践、组织常规与信息流转过程。 |
 
 > [!proc] 质性分析程序
@@ -144,6 +145,7 @@ updated: 2026-11-09
 
 > [!method-limits] 方法局限
 > - **偏误来源** 印象管理偏误（专家美化本部门决策合规性）、官僚公关[[Discourse|话语]]阻隔、样本准入壁垒。
+> - **微小专家群体与伦理暴露风险** 当针对特定国别或高度专门化领域的国际组织文官展开访谈时，由于专家圈层规模极为狭小，个案极易被反向识别，必须对履职年限、具体部门与涉事项目做深度模糊化与合并处理。[[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026, pp. 671–673)]]
 > - **适用边界** 访谈结论受特定行政体制、法律传统与政治文化制约，跨国或跨制度外推需审慎。
 > - **误用风险** 容易将个别专家的主观认知或策略性辩白直接误判为客观组织事实。
 > - **补救方式** 坚持多方[[Triangulation\|三角互证]]，将专家口述与官方正式通告、统计报表、法案档案及对立利益相关者证言相互印证。

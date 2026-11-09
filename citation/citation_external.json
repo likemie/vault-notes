@@ -9676,8 +9676,6 @@
     "Guilford, 1967": "Guilford, 1967",
     "Guimerà et al. (2005)": "Guimerà et al., 2005",
     "Guimerà et al., 2005": "Guimerà et al., 2005",
-    "Gulbenkian Commission (1996)": "Gulbenkian Commission, 1996",
-    "Gulbenkian Commission, 1996": "Gulbenkian Commission, 1996",
     "Guler (2017)": "Guler, 2017",
     "Guler et al. (2021)": "Guler et al., 2021",
     "Guler et al., 2021": "Guler et al., 2021",
@@ -16462,13 +16460,11 @@
     "Mies, 1993": "Mies, 1993",
     "Mignolo (2000)": "Mignolo, 2000",
     "Mignolo (2002)": "Mignolo, 2002",
-    "Mignolo (2003)": "Mignolo, 2003",
     "Mignolo (2007)": "Mignolo, 2007",
     "Mignolo (2009)": "Mignolo, 2009",
     "Mignolo (2011)": "Mignolo, 2011",
     "Mignolo, 2000": "Mignolo, 2000",
     "Mignolo, 2002": "Mignolo, 2002",
-    "Mignolo, 2003": "Mignolo, 2003",
     "Mignolo, 2007": "Mignolo, 2007",
     "Mignolo, 2009": "Mignolo, 2009",
     "Mignolo, 2011": "Mignolo, 2011",
@@ -60126,8 +60122,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/persons/taiwan/Chen Kuan-Hsing.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/persons/taiwan/Chen Kuan-Hsing.md"
       ],
       "title": ""
     },
@@ -64512,8 +64507,7 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
       ],
       "title": ""
     },
@@ -76165,8 +76159,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md"
       ],
       "title": ""
     },
@@ -80680,8 +80673,7 @@
         "wiki/persons/chile/Humberto Maturana.md",
         "wiki/persons/us/Arturo Escobar.md",
         "wiki/theories/educational-philosophy/Autopoiesis.md",
-        "wiki/theories/educational-philosophy/Transition Design.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/theories/educational-philosophy/Transition Design.md"
       ],
       "title": ""
     },
@@ -98321,21 +98313,6 @@
         "wiki/concepts/science-policy/Giant Component.md",
         "wiki/concepts/science-policy/Homophily.md",
         "wiki/theories/science-policy/Team Assembly Model.md"
-      ],
-      "title": ""
-    },
-    "Gulbenkian Commission, 1996": {
-      "aliases": [
-        "Gulbenkian Commission, 1996",
-        "Gulbenkian Commission (1996)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gulbenkian Commission, 1996"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
       ],
       "title": ""
     },
@@ -147316,21 +147293,6 @@
       ],
       "title": ""
     },
-    "Mignolo, 2003": {
-      "aliases": [
-        "Mignolo, 2003",
-        "Mignolo (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mignolo, 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
-      ],
-      "title": ""
-    },
     "Mignolo, 2007": {
       "aliases": [
         "Mignolo, 2007",
@@ -147357,8 +147319,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md"
       ],
       "title": ""
     },
@@ -162181,8 +162142,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/Horizon 2020 SSH Integration.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/facts/eu/Horizon 2020 SSH Integration.md"
       ],
       "title": ""
     },
@@ -172170,8 +172130,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
-        "wiki/persons/us/Walter Mignolo.md",
-        "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md"
+        "wiki/persons/us/Walter Mignolo.md"
       ],
       "title": ""
     },
