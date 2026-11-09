@@ -113,7 +113,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **政治科学化与科学政治化**<br>[[Scientization of Politics]] | 阐释决策系统如何日益依赖学术专家提供客观权威，以及政治议程反向筛选、操纵和工具化利用科学研究的双向缠绕机制 (Maasen & Weingart, 2005; Weingart, 2003)。 |
 > | **比较教育中的关系性背景观**<br>[[Context in Comparative Education]] | 区分静态容器式的小写背景（small-c context）与处于持续生成流动之中的大写背景（Big-C Context），揭示背景是在知识、专家与跨国话语的交织装配中被共同建构的 (Sobe & Kowalczyk, 2012, 2014, 2018)。 |
-> | **政策作为过程**<br>Policy as a Process | 依据史蒂芬·鲍尔（Stephen Ball; Ball, 2017）与桑德拉·泰勒（Sandra Taylor; Taylor et al., 1997）的批判政策理论，将政策视为持续处于协商、妥协与话语权力博弈中的动态演化过程，关注政策文本生产背后的微观行动者。 |
+> | **政策作为过程**<br>[[Policy as a Process]] | 依据[[Stephen Ball|史蒂芬·鲍尔]]（Stephen Ball; Ball, 2017）与桑德拉·泰勒（Sandra Taylor; Taylor et al., 1997）的批判政策理论，将政策视为持续处于协商、妥协与话语权力博弈中的动态演化过程，关注政策文本生产背后的微观行动者。 |
 > | **政策导向型证据**<br>[[Policy-Based Evidence-Making]] | 基于[[Ray Pawson\|雷·波森]]（Ray Pawson; Pawson, 2006）的概念，刻画决策者预先确立政治方案、随后逆向挑选实证研究作为辩护支撑的工具化[[Research Utilization\|证据使用]]逻辑。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -127,7 +127,7 @@ issuing_organization: ""
 > | **文献计量分析**<br>[[Bibliometric Analysis]] | 依托[[POLNET|国际比较背景下北欧学校改革政策知识与经验借鉴项目]]（Policy Knowledge and Lesson Drawing in Nordic School Reform, POLNET），提取丹麦、芬兰与挪威 16 份核心改革文本中的 1,314 条参考文献，量化测定同行评议学术刊物文献在各类政策文本引证网络中的实际占比与学科分布。 |
 > | **半结构化专家访谈**<br>[[Expert Interview]] | 针对曾直接参与上述三国改革提案起草与委员会决策的 15 位关键行动者实施 60 至 90 分钟[[In-depth Interview\|深度访谈]]，重点挖掘证据筛选准则、熟人网络引荐、咨询研讨会流程及权力协商机制。 |
 > | **理论导向主题分析**<br>Thematic Qualitative Analysis | 围绕关系性背景（c/Context）、政治科学化、[[Democratisation of Expertise\|专业知识民主化]]与政策合法化等核心理论构念，对访谈逐字转录文稿展开演绎与归纳双向结合的系统编码。 |
-> | **交叉比较分析**<br>Criss-Crossing Comparison | 摒弃固定国家容器的传统静态比对，追踪知识形态、专业网络与跨国政策理念（如[[OECD\|经济合作与发展组织]]［Organisation for Economic Co-operation and Development, OECD］素养框架）在不同国家改革节点间的穿梭流动与重组轨迹。 |
+> | **交叉比较分析**<br>[[Criss-Crossing Comparison]] | 摒弃固定国家容器的传统静态比对，追踪知识形态、专业网络与跨国政策理念（如[[OECD\|经济合作与发展组织]]［Organisation for Economic Co-operation and Development, OECD］素养框架）在不同国家改革节点间的穿梭流动与重组轨迹。 |
 
 > [!sample-panel]- 北欧三国学校改革[[Case Study|案例研究]]设计、数据与方法
 > | 维度 | 丹麦 | 芬兰 | 挪威 |
@@ -187,7 +187,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 政策文件极少直接引用学术期刊成果
 
 > [!result-reading] 核心政策文本的文献类型分布与实证检验
-> 依据吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi; Steiner-Khamsi, 2022）关于文献引用作为证据有效性背书（validation of evidence）的技术界定，纳入分析的 16 份核心政策文本被分类编码为报告、专著、同行评议期刊成果、政府法令公报与其他文献。统计表明，丹麦改革提案中同行评议期刊成果占比仅为 16.02%，芬兰核心文件中更仅占 9.45%；挪威官方调查报告虽包含较多学术引文，但总体仍被评估公报与行政咨询材料摊薄。这一实证分布打破了[[Output-Oriented Governance|循证治理]]中关于科学知识天然占据主导地位的规范性假设。
+> 依据[[Gita Steiner-Khamsi|吉塔·施泰纳-哈姆西]]（Gita Steiner-Khamsi; Steiner-Khamsi, 2022）关于文献引用作为证据有效性背书（validation of evidence）的技术界定，纳入分析的 16 份核心政策文本被分类编码为报告、专著、同行评议期刊成果、政府法令公报与其他文献。统计表明，丹麦改革提案中同行评议期刊成果占比仅为 16.02%，芬兰核心文件中更仅占 9.45%；挪威官方调查报告虽包含较多学术引文，但总体仍被评估公报与行政咨询材料摊薄。这一实证分布打破了[[Output-Oriented Governance|循证治理]]中关于科学知识天然占据主导地位的规范性假设。
 
 > [!sub-claim] 2. 挪威偏好元分析，芬兰依赖评估报告，丹麦看重方案成效
 
@@ -239,7 +239,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 丹麦依据既定政治立场逆向定制支持性实证研究
 
 > [!critique] 丹麦政策导向型证据制造的运作逻辑
-> 丹麦受访官员明确指出，决策过程中并不刻意区分学术论著与专家咨询意见，二者的价值完全取决于其能否支撑改革方案的政治与意识形态立场。受访者将研究所提供的知识区分为[[Problem Finding|问题界定]]知识与解决方案知识：前者立足对本国体制痛点的体察，后者则要求证明干预措施在因果机制上的有效性。由于因果证据多来自外部国家，决策者便策略性地筛选契合既定政治叙事的案例，体现出鲜明的[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）特征。
+> 丹麦受访官员明确指出，决策过程中并不刻意区分学术论著与专家咨询意见，二者的价值完全取决于其能否支撑改革方案的政治与意识形态立场。受访者运用[[Problem and Solution Knowledge in Policymaking|问题界定知识与方案寻找知识]]的二元框架：前者立足对本国体制痛点的体察，后者则要求证明干预措施在因果机制上的有效性。由于因果证据多来自外部国家，决策者便策略性地筛选契合既定政治叙事的案例，体现出鲜明的[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）特征。
 
 ---
 

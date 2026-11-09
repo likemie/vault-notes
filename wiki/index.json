@@ -7040,6 +7040,17 @@
     ]
   },
   {
+    "title": "Problem and Solution Knowledge in Policymaking",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Problem and Solution Knowledge in Policymaking.md",
+    "aliases": [
+      "问题界定知识与方案选择知识",
+      "问题知识与方案知识",
+      "Problem-Identifying and Solution-Finding Knowledge",
+      "政策制定中的问题与方案知识"
+    ]
+  },
+  {
     "title": "Professional Judgment",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
@@ -21661,6 +21672,17 @@
     ]
   },
   {
+    "title": "Policy as a Process",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Policy as a Process.md",
+    "aliases": [
+      "政策即过程",
+      "政策过程论",
+      "Policy as Process",
+      "批判性政策过程理论"
+    ]
+  },
+  {
     "title": "Policy Instrumentation Theory",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Policy Instrumentation Theory.md",
@@ -24317,6 +24339,16 @@
       "会话分析",
       "conversational analysis",
       "课堂会话分析"
+    ]
+  },
+  {
+    "title": "Criss-Crossing Comparison",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Criss-Crossing Comparison.md",
+    "aliases": [
+      "穿梭比较法",
+      "交叉比较分析",
+      "Criss-Crossing Approach"
     ]
   },
   {
@@ -38077,7 +38109,9 @@
     "path": "wiki/facts/finland/Finnish National Core Curriculum.md",
     "aliases": [
       "Finnish National Core Curriculum 2014",
-      "芬兰国家核心课程2014"
+      "芬兰国家核心课程2014",
+      "POPS 2014",
+      "Perusopetuksen opetussuunnitelman perusteet 2014"
     ],
     "subtype": "policy"
   },

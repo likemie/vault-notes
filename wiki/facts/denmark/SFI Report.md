@@ -55,7 +55,7 @@ updated: 2026-11-09
 > - 报告没有发现其问项所测的反馈行为能提升学习；但这些问项只捕捉"告诉学生发展/表现如何"，没有捕捉"告诉学生如何做得更好"这一反馈核心，因此不能据此断言反馈在丹麦学校无效([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
 
 > [!success] 评价
-> [[Science Foundation Ireland|SFI]] Report 2013 是 Laursen 检验国际[[Effective Teaching\|有效教学]]综合丹麦适用性的主要本土证据。它与 Mehlbye 的高绩效学校研究共同支持一个判断：Hattie、Meyer and Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–40]])。
+> [[Danish National Centre for Social Research|SFI]] Report 2013 是 Laursen 检验国际[[Effective Teaching\|有效教学]]综合丹麦适用性的主要本土证据。它与 Mehlbye 的高绩效学校研究共同支持一个判断：Hattie、Meyer and Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–40]])。同时，该报告作为丹麦国家社会研究中心在改革前夕产出的核心实证文献之一，为 2014 年丹麦公立学校改革提供了关于教师管理与学业表现的关键本土依据([[Argument_Volmari_2025_CE\|Volmari et al., 2025, p. 534]])。
 >
 > 该报告也提示两个边界：第一，学生社会背景会显著改变开放教学、共同解题和个体解题的效果；第二，[[Questionnaire\|问卷]]项目如果没有抓住概念核心，可能导致反馈等结果被误读([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.38–39]])。
 
@@ -64,4 +64,11 @@ updated: 2026-11-09
 > - [[Visible Learning]] — 报告可与 Hattie 的[[Research Synthesis|研究综合]]对照，用来判断以英语国家研究为主的证据是否能迁移到丹麦。
 > - [[Individualised Instruction]] — 报告中的教学差异化结果与 Hattie 的个别化教学结果相互呼应。
 > - [[Feedback]] — 报告中的反馈结果主要提示测量口径问题。
+> - [[Danish Public School Reform]] — 报告产出的本土实证数据直接服务于丹麦 2014 年公立学校改革方案论证。
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 评析 SFI 2013 报告对有效教学特征在丹麦学校适用性的检验结果及其方法学边界（pp. 37–40）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 考察丹麦公立学校改革准备期中 SFI 评估报告作为核心政策证据的采信与合法化机制（pp. 534–536）。
 

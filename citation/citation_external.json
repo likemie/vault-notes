@@ -21569,6 +21569,8 @@
     "Secord (2000)": "Secord, 2000",
     "Secord, 2000": "Secord, 2000",
     "Seddon (2023)": "Seddon, 2023",
+    "Seddon et al. (2018)": "Seddon et al., 2018",
+    "Seddon et al., 2018": "Seddon et al., 2018",
     "Seddon, 2023": "Seddon, 2023",
     "Sedgwick (1990)": "Sedgwick, 1990",
     "Sedgwick, 1990": "Sedgwick, 1990",
@@ -39115,7 +39117,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
+        "wiki/persons/uk/Stephen Ball.md",
+        "wiki/theories/educational-policy-reform/Policy as a Process.md"
       ],
       "title": ""
     },
@@ -184683,6 +184687,21 @@
       ],
       "title": ""
     },
+    "Seddon et al., 2018": {
+      "aliases": [
+        "Seddon et al., 2018",
+        "Seddon et al. (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Seddon et al., 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/qualitative/Criss-Crossing Comparison.md"
+      ],
+      "title": ""
+    },
     "Seddon, 2023": {
       "aliases": [
         "Seddon, 2023",
@@ -194208,7 +194227,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
+        "wiki/persons/us/Gita Steiner-Khamsi.md"
       ],
       "title": ""
     },

@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-11-02
+updated: 2026-11-09
 ---
 
 ---
@@ -197,4 +197,5 @@ updated: 2026-11-02
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
 | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
+| [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 运用施泰纳-哈姆西（Steiner-Khamsi, 2022）关于政策文献引用作为“证据有效性背书”（validation of evidence）的理论，通过 POLNET 项目测定北欧三国 16 份核心政策文本引证网络，揭示学术期刊引文的边际化特征（pp. 535–536）。 |
 
