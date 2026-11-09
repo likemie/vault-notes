@@ -97,7 +97,8 @@
               "title": "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,10 +313,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "23341fc83e2eb64c",
+  "active": "8cf060930e9cdf12",
   "lastOpenFiles": [
-    "wiki/methods/quantitative/Disruption Index.md",
     "wiki/facts/finland/Finnish PISA Miracle.md",
+    "wiki/theories/science-policy/Chaperone Effect.md",
+    "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
+    "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+    "wiki/methods/quantitative/Disruption Index.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
     "wiki/concepts/comparative-education/Context in Comparative Education.md",
     "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md",
@@ -333,7 +337,6 @@
     "tmp/callout-refinement/theory-position.html",
     "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md",
     "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
-    "wiki/theories/science-policy/Chaperone Effect.md",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-012/result.json",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-011/result.json",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-010/result.json",
@@ -357,8 +360,6 @@
     "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-012/prompt.md",
     "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-011/prompt.md",
     "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-010/prompt.md",
-    "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-009/prompt.md",
-    "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-008/prompt.md",
     "tmp/callout-refinement/yang-block-dark.png",
     "未命名.canvas"
   ]
