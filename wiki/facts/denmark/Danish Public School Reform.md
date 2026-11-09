@@ -12,7 +12,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -117,19 +117,26 @@ updated: 2026-11-09
 > - **高权力 · 高利益 — 政策主导联盟** 丹麦教育部、地方市镇协会（KL）与政界多数派——追求低成本提升国际测评排名，利用[[Technical Rationality|技术理性]]控制手段压制工会与财政预算争议。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **高权力 · 低利益 — 循证咨询机构与商业培训网络** [[Corwin Press|考文出版社]]（Corwin）、丹麦本地出版集团（如 Dafolo）及[[John Hattie|哈蒂]]团队——通过销售培训教材、认证项目与工作坊获取高额版税与服务费。
 > - **低权力 · 高利益 — 基层抗争与受影响主体** 丹麦教师协会（DLF）、广大公立学校教师、学生与家长——承受备课时间被夺、职业倦怠激化与[[Whole Person Education|全人教育]]生态破坏的直接代价。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
-> - **低权力 · 低利益 — 批判学者群体** 批判心理学家、教育哲学家与社会学家——通过撰写《[[Hattie på dansk]]》与发表概念论文，为基层工会抗争提供学理支持。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80–81)]]
+> - **低权力 · 低利益 — 批判学者群体** 批判心理学家、教育哲学家与社会学家——通过撰写《[[Hattie på dansk]]》与发表概念探讨论述，为基层工会抗争提供学理支持。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80–81)]]
 
 ---
+
+> [!indicators] 评价指标
+> - **投入指标** 延长全国学生每周在校课时（小学低年级增至每周 30 课时、高年级增至 35 课时）、增加丹麦语与数学核心课时、强制削减教师传统备课工时额度。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+> - **过程指标** 98 个市镇落实近 3,000 个细分学习目标进度、教师在校考勤与微观课堂反馈规程合规率、全日制课外活动与体育活动嵌入度。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
+> - **结果指标** PISA 国际排名位次、全国标准化统考平均分、骨干教师离职与转岗率、公立基础学校生源流失至私立独立学校（Friskoler）比例。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 
 > [!finding-cards] 效果与评价
 > - **政策合法性与公信力遭遇严重受挫** 改革未能在不增加投入的前提下有效提升学业水平，反而引发大批经验丰富的骨干教师辞职、学生转入私立学校（Friskoler），加剧了公立教育系统的离心倾向。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **学习概念异化为[[Learnification|学习化]]（Learnification）** 斯特恩·内珀·拉森（Steen Nepper Larsen, 2019）指出，改革将教育简化为以结果为中心的狭隘技术逻辑，教育的崇高目的被机械的测试指标所吞噬。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
-> - **国家[[Legitimation Crisis|合法化危机]]借[[Technical Rationality|技术理性]]转嫁** [[Klaus Nielsen|克劳斯·尼尔森]]与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）诊断指出：[[John Hattie|哈蒂]]框架风靡丹麦绝非由于其数据科学严谨，而是丹麦行政系统在遭遇 [[PISA]] 冲击与紧缩危机时，急切需要一套能许诺稳定产出成绩的科学说辞来向公众交差；哈蒂恰恰提供了一套将教学切片为可控环节的统一工具，被政府视作平息政治合法化危机的技术掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]
+> - **国家[[Legitimation Crisis|合法化危机]]借[[Technical Rationality|技术理性]]转嫁** [[Klaus Nielsen|克劳斯·尼尔森]]与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）诊断指出：[[John Hattie|哈蒂]]框架风靡丹麦源于丹麦行政系统在遭遇 [[PISA]] 冲击与紧缩危机时，急切需要一套许诺稳定产出成绩的科学说辞向公众交差；哈蒂恰恰提供了一套将教学切片为可控环节的统一工具，被政府视作平息政治合法化危机的技术掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]
+> - **学术期刊文献占比极低与证据封闭性** 文献计量分析显示，丹麦改革官方提案抽取的 231 条参考文献中，同行评议学术期刊文献仅占 16.02%（37 条），高度依赖政府内部报告、委托评估与咨询机构文献；证据主要被用于证明预设政纲（如增加学时）的合理性，而非指导开放探索。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535–536, 540)]]
 
-> [!stat-cards]- 核心规模数据
+> [!stat-cards]- 核心数据
 > - **3,000+** 改革在三年制各科目中硬性嵌入的细分“学习目标”（项）。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
 > - **98** 实施该项法定公立学校改革的丹麦市镇总数（个）。
 > - **2013 Lov 409** 议会强行通过以终止全国教师大停工并剥夺传统工时协议的干预法案编号。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+> - **16.02%** 官方改革提案中同行评议学术期刊引文占比（总引文 231 条，仅 37 条来自学术期刊）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 536)]]
 
 ---
 
@@ -153,14 +160,15 @@ updated: 2026-11-09
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Visible Learning]] | 概念 | 丹麦 2014 年教改全盘采纳的核心理论蓝本与技术依据。 |
-> | [[Technical Rationality]] | 概念 | 解释丹麦教改将复杂的教学生活异化为手段-目的因果工程的核心哲学概念。 |
-> | [[Legitimation Crisis]] | 理论 | 揭示丹麦政府为何在面对 [[PISA]] 冲击和财政紧缩时狂热引进[[John Hattie\|哈蒂]]模式的宏观解释理论。 |
-> | [[Learnification]] | 概念 | 拉森用以定性丹麦教改把教育崇高宗旨缩减为[[Rote Learning\|机械学习]]指标的概念。 |
-> | [[Hattie på dansk]] | 事实 | 丹麦学界就 2014 年教改机械套用哈蒂模式展开全国性大论战并出版的批判文集。 |
-> | [[PISA]] | 事实 | 丹麦 2000 年代加入该跨国测评所引发的焦虑成为催生 2014 年教改的直接导火索。 |
-> | [[John Hattie]] | 人物 | 其可见[[Learnology\|学习学]]术体系与[[Effect Size\|效应量]]排行榜被丹麦政府奉为教改的“科学铁律”。 |
-> | [[Klaus Nielsen]] | 人物 | 丹麦批判心理学家，深入剖析丹麦 2014 年教改技术理性与合法化危机的核心学者。 |
+> | [[Visible Learning]] | Concept | 丹麦 2014 年教改全盘采纳的核心理论蓝本与技术依据。 |
+> | [[Technical Rationality]] | Concept | 解释丹麦教改将复杂的教学生活异化为手段-目的因果工程的核心哲学概念。 |
+> | [[Legitimation Crisis]] | Theory | 揭示丹麦政府为何在面对 [[PISA]] 冲击和财政紧缩时狂热引进[[John Hattie\|哈蒂]]模式的宏观解释理论。 |
+> | [[Learnification]] | Concept | 拉森用以定性丹麦教改把教育崇高宗旨缩减为[[Rote Learning\|机械学习]]指标的概念。 |
+> | [[Policy-Based Evidence-Making]] | Concept | 丹麦教改优先挑选能证明既定干预成效的实证数据，表现出逆向证据制造的政治合法化逻辑。 |
+> | [[Hattie på dansk]] | Fact (Event) | 丹麦学界就 2014 年教改机械套用哈蒂模式展开全国性大论战并出版的批判文集。 |
+> | [[PISA]] | Fact (Event) | 丹麦 2000 年代加入该跨国测评所引发的焦虑成为催生 2014 年教改的直接导火索。 |
+> | [[John Hattie]] | Person | 其可见[[Learnology\|学习学]]术体系与[[Effect Size\|效应量]]排行榜被丹麦政府奉为教改的“科学铁律”。 |
+> | [[Klaus Nielsen]] | Person | 丹麦批判心理学家，深入剖析丹麦 2014 年教改技术理性与合法化危机的核心学者。 |
 
 ---
 
@@ -168,3 +176,4 @@ updated: 2026-11-09
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 以丹麦 2014 年教改为例批判技术理性与合法化危机防御机制的权威期刊[[Document|文献]]。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 记录丹麦 2014 年教改引发的“解释社群”极化对立与教师劳动法争议。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 揭示丹麦 2014 年教改中三千个学习目标的细分及其引发的“学习化”异化。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证解构丹麦 2014 年公立学校改革核心提案的文献计量引文网络与证据利用模式，揭示实证证据服从于政治合法化诉求的工具主义本质（pp. 535–536, 542–544）。
