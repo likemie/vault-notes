@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 123
+method_related_count: 124
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -145,13 +145,14 @@ related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Framework for Teaching]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-02
+updated: 2026-11-09
 ---
 
 ---
@@ -408,6 +409,7 @@ updated: 2026-11-02
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍元分析四套操作流程、效应量计算方法与方法论局限。
 > - [[Argument_Hattie_2015_Paideia|Hattie (2015b)]] — 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 探讨元分析与证据合成在英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual|常态教学]]高基线以及再编码数据库对拆解元分析证据异质性的作用。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证剖析北欧基础教育改革中元分析证据的策略性动员边界：委员会在学习科学领域高度依赖元分析与系统综述以确立政策合法性，而在课程等高度情境依赖领域则因因果可迁移性受限而补充非经验与质性证据（pp. 535–538）。
 > - 针对元分析的批判、审计与[[Epistemology|认识论]]反思文献（Wecker et al., 2016；Nielsen & Klitmøller, 2021a；Terhart, 2011；Larsen, 2019；Kalmendal et al., 2025 等）见 [[Critique of Meta-analysis]]。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 推导两级固定效应合成的等价条件，揭示 SE/SD 混淆与伪[[Standard Error|标准误]]对合成结果的影响；详见 [[Critique of Meta-analysis]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 二阶聚合的信息损耗、时效滞后与[[Stability vs. Variability Dilemma|稳定性/变异性]]双重困境；详见 [[Critique of Meta-analysis]]。

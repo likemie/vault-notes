@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 85
+method_related_count: 86
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -93,6 +93,7 @@ related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"
@@ -114,7 +115,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-09
 ---
 
 ---
@@ -248,3 +249,4 @@ updated: 2026-10-30
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对《可见的学习》2,111 项元分析开展预注册审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 PICO 要求，并存在严重数据缺失。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]在开展质量审计时对“知识综述”（Knowledge Review）的编制与使用机制，揭示官方如何依托单一片面范式组织综述并规训学术多元性（pp. 648–650）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与[[Test-Based Accountability|考试问责]]在全球三大行政传统下的扩散演进。（pp. 252–253）
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证揭示北欧教育改革起草中系统综述的差异化动员机制：改革委员会在学习科学领域优先依托系统综述构筑政策合法性，而在课程领域则因跨国情境变异转向非经验分析与混合知识库（pp. 535–538）。

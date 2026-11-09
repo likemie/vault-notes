@@ -10,9 +10,9 @@ summary: "将口头访谈、焦点小组或人机交互有声思维等口语遭�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -65,12 +65,13 @@ related_arguments:
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_theories:
   - "[[Phenomenology]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-30
+updated: 2026-11-09
 ---
 
 ---
@@ -164,3 +165,4 @@ updated: 2026-10-30
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances|认识立场]]演变与[[Cognitive Offloading|认知卸载]]行为。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview|质性访谈]]转录作为理论性选择转换的[[Epistemology|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对 9 位[[EU|欧盟]]高级决策官员的深度英文[[Semi-structured Interview|半结构化访谈]]进行完整录音并实施逐字转录与匿名编码，为后续的主题分析与话语权力解构奠定高保真文本基础。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 对丹麦、芬兰与挪威 15 位参与学校改革起草的核心官员与专家的半结构化访谈（每场 60–90 分钟）进行完整录音与逐字转录，赋予国家代号与匿名序号，为后续话语分类与制度分析奠定规范文本底库（p. 535）。

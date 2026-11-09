@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 98
+method_related_count: 99
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -110,6 +110,7 @@ related_arguments:
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -125,7 +126,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-05
+updated: 2026-11-09
 ---
 
 ---
@@ -241,3 +242,4 @@ updated: 2026-11-05
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用定性案例研究设计，结合文档分析、机构数据与针对中柬高教项目 40 位受访者的半结构化访谈，评估新朝贡分析视角的解释效力。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 采用斯塔克式工具性个案研究，以[[Swedish Schools Inspectorate|瑞典学校督察局]]为总体个案，内嵌常规督导与质量审计两个迷你个案，结合 12 次半结构化访谈、两次内部会议观察与机构文件，追踪教育研究如何进入督导标准与报告（pp. 642–657）。
 > - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 结合专家提名、学术获奖与引文数据，对欧美纳米技术与人类遗传学领域的 20 个重大科研突破开展多案例比较研究，提炼微观团队规模、互补多样性与制度资助对科学创造力的复合影响机制。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 采用北欧跨国比较案例研究设计，对比丹麦、芬兰与挪威基础教育改革中的政策文本、引文网络与决策者访谈，揭示不同福利国家制度情境下证据利用与政治合法化的共生机制（pp. 531–535）。

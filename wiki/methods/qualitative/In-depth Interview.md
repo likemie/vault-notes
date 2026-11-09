@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 71
+method_related_count: 72
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -95,10 +95,11 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Heinze_2009_RP]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-05
+updated: 2026-11-09
 ---
 
 ---
@@ -214,3 +215,4 @@ updated: 2026-11-05
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 对澳大利亚与英国 19 位前卫生及就业政策部长与高级公务员开展深度访谈，考察英澳精英网络在跨国政策转移中的认知调适与主观动力机制。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 32–34)]] — 依托 [[Fabricating Quality in European Education|FabQ]] 跨国合作项目，对欧洲与国家层面的教育决策精英开展半结构化深度访谈，重点访谈[[European Commission|欧盟委员会]]教育文化总司及 [[Eurydice]] 政策官员，揭示跨国组织在指标生产与数据流动中的深层共生与策略外在化机制。
 > - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 对欧美 20 个重大科学突破团队的课题组长、科研人员与机构管理者开展 68 场深度半结构化访谈，结合档案资料深度重建突破性成果的微观孕育过程与组织环境约束。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 针对丹麦、芬兰与挪威 15 位参与学校改革起草的关键政策官员与委员会专家开展 60 至 90 分钟半结构化深度访谈，完整转录文本，深入挖掘政策起草中对行政默会知识与非正式学术网络的隐蔽依赖（pp. 535–538）。

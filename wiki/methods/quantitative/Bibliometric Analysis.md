@@ -12,9 +12,9 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
