@@ -7,10 +7,10 @@ summary: "英国利兹大学社会研究方法论名誉教授，科学实在论�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 41
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Document]]"
   - "[[Counterfactual]]"
+  - "[[Policy-Based Evidence-Making]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
@@ -65,10 +66,11 @@ related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-09
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-10-30
 > - **代表贡献** 创立 [[Realist Evaluation|实在论评估]] 理论大厦；提出背景-机制-结果（Context-Mechanism-Outcome, CMO）因果配置模型；开创实在论综合（Realist Synthesis）质性元综述方法；提出实在论评估核心命题——“什么在何种情境下对谁有效，为什么有效”，被广泛引申至公共政策与制度变迁[[Qualitative Research|定性研究]]。
 
 > [!citation-card] 实在论评估的核心[[Problem Finding|问题界定]]
-> 实在论评估的核心关切不是粗糙地追问某项干预整体上是否有效，而是扎根于复杂社会现实追问：它在何种情境下对谁有效、通过何种机制起作用，以及为什么产生这些结果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
+> 实在论评估超越粗糙追问干预整体有效性的传统取向，扎根于复杂社会现实追问：干预在何种情境下对谁有效、通过何种机制起作用，以及产生结果的具体原因。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 >
 > *The [[Central Question]] for realistic evaluation is 'what works for whom in what circumstances?'*
 
@@ -104,11 +106,11 @@ updated: 2026-10-30
 > - **1990年代 — [[Realist Evaluation|实在论评估]][[Paradigm|范式]]确立期** 批判主流评估盲目崇拜双盲实验与控制组设计，提出基于[[Critical Realism|批判实在论]]的生成性因果观。
 >   - **代表著作** *Realistic Evaluation* (1997, with Nick Tilley)。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 >   - **关键概念／方法** [[Realist Evaluation|实在论评估]]、生成性因果（Generative [[Causality]]）、CMO 因果配置模型。
->   - **阶段转向** 明确提出干预并非机械注射，而是通过向受试者提供外部资源并激活其能动推理（Reasoning）而发挥效用。
+>   - **阶段转向** 明确提出干预通过向受试者提供外部资源并激活其能动推理（Reasoning）生成结果，突破被动的机械注射隐喻。
 > - **2000年代 — 循证政策批判与实在论综合开拓期** 直面新工党[[What Works Movement|循证政策运动]]与[[Systematic Review|系统综述]]潮流，解构[[Meta-analysis|元分析]]将复杂社会研究扁平化的数据清洗机制。
 >   - **代表著作** *[[Evidence-Based Policy-Making|Evidence-based Policy]]: A Realist Perspective* (2006)。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
->   - **关键概念／方法** 实在论综合（Realist Synthesis）、元分析净化过程（The Purgative Process）、开放系统。
->   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型[[Research Synthesis|证据综合]]与中层理论构建。
+>   - **关键概念／方法** 实在论综合（Realist Synthesis）、[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making）、元分析净化过程（The Purgative Process）、开放系统。
+>   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型[[Research Synthesis|证据综合]]与中层理论构建，同时揭示循证政策实践中证据被逆向挑选以服务预设政治目的的异化倾向。
 > - **2010年代及以后 — 复杂系统评估宣言与跨学科扩展期** 将实在论评估提升为应对政策复杂性、制度[[Heterogeneity|异质性]]与多元行动者博弈的通用社会科学哲学。
 >   - **代表著作** *The Science of Evaluation: A Realist Manifesto* (2013)。
 >   - **关键概念／方法** [[Complexity Theory|复杂适应系统]]、制度情境敏感性、时空尺度感知偏差。
@@ -117,7 +119,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 社会与教育干预项目绝非被动的物理“注射”过程，而是一个通过向行动者提供外部资源并激发其主观能动推理（Reasoning）来生成结果的复杂互动过程；评估的核心任务在于阐明“背景-机制-结果”（Context-Mechanism-Outcome, CMO）的配置规律，而非计算脱离情境的平均[[Effect Size|效应量]]。脱离主体位置与时间尺度的评估必然陷入假象，唯有置于具体时空情境中，因果机制与变迁性质方可被准确辨识。（Pawson & Tilley, 1997; Pawson, 2006; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）
+> 社会与教育干预通过向行动者提供外部资源并激发其主观能动推理（Reasoning）生成结果，本质是多方参与的复杂互动过程；评估的核心任务在于阐明“背景-机制-结果”（Context-Mechanism-Outcome, CMO）的配置规律，替代脱离情境计算平均[[Effect Size|效应量]]的传统做法。脱离主体位置与时间尺度的评估必然陷入假象，唯有置于具体时空情境中，因果机制与变迁性质方可被准确辨识。（Pawson & Tilley, 1997; Pawson, 2006; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）
 
 > [!citation-card] 能动推理与生成性因果假说
 > 社会项目为受试者提供物质、社会或认知资源，而它们能否奏效完全取决于这些个体在具体情境中的推理。单纯测量干预前后的表观统计关联，不仅割裂了机制与情境的深层纽带，更将复杂的社会互动矮化为无生命的机械因果。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 7)]]
@@ -141,12 +143,20 @@ updated: 2026-10-30
 > - **方法路径** 创立的 CMO 模型与[[Realist Evaluation|实在论综合]]被英国医学研究理事会（[[Meta-Representational Competence|MRC]]）、英国国家卫生研究院（NIHR）以及国际评估联合会广泛采纳，成为复杂干预评估的标准工具。
 > - **政策与教育路径** 深刻启发了[[Critical Pedagogy|批判教育学]]者（如 [[Terry Wrigley]]）对英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）教学工具包去情境化[[Effect Size|效应量]]排行的解构，纠正了因简单平均数导致的[[Teaching Assistant|教学助理]]岗位错误裁剪。
 > - **跨学科制度分析扩展** [[Jeroen van der Heijden|范德海登]]（Van der Heijden et al., 2007; 2011）等学者将波森的实在论视角引入比较政治经济学与[[Historical Institutionalism|历史制度主义]]，成功破解了间断均衡突变论与历史渐进演进论在变迁定性上的[[Epistemology|认识论]]循环。
+> - **批判性政策分析路径** 波森对[[Policy-Based Evidence-Making|基于政策的证据制造]]（PBEM）与去情境化有效性的剖析，成为比较教育学者解构现代教育改革“科学化”修辞的批判武器（如 [[Argument_Volmari_2025_CE|Volmari et al., 2025]]）。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中[[Randomised Controlled Trials|随机对照试验]]的不适用性。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用波森的[[Realist Evaluation|实在论综合]]思想作为替代路线，揭示[[Meta-analysis|元分析]]“净化过程”的危害，并以[[Teaching Assistant|教学助理]]项目为例论证脱离 CMO 背景的排行榜对政策的误导。
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 借用波森与蒂利的实在论评估原则，在荷兰住房法执行史中论证主体位置与时间视域对制度变迁定性的决定性影响。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 依托波森（Pawson, 2006）对基于政策的证据制造（[[Policy-Based Evidence-Making|PBEM]]）与去情境化有效性的批判，实证解构北欧基础教育改革中证据利用的政治合法化本质（pp. 531, 542–544）。
 
 ---
 
 > [!person-network] 关系网络
 > - **师承与哲学渊源** [[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）— [[Critical Realism|批判实在论]]奠基人，为波森提供深层[[Ontology|本体论]]与生成性因果哲学的基石。
-> - **核心学术合作者** 尼克·蒂利（Nick Tilley）— 英国犯罪学学者，与波森共同创立[[Realist Evaluation|实在论评估理论]]大厦与 CMO 模型。
+> - **核心合作学者** 尼克·蒂利（Nick Tilley）— 英国犯罪学学者，与波森共同创立[[Realist Evaluation|实在论评估理论]]大厦与 CMO 模型。
 > - **教育批判继承者** [[Terry Wrigley]] — 将波森的实在论综合与开放系统命题引入教育政策研究，发起对[[Evidence-Based Education|循证教育]]排行榜的学术批判。
 > - **制度分析拓展者** [[Jeroen van der Heijden]] — 将波森关于“何为变迁、对谁而言、在何种情境下”的实在论评估原理引入建筑规制与[[Institutional Layering|制度层叠]][[Document|文献]]，论证观察者位置与时间跨度对变迁性质的决定作用。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 
@@ -168,8 +178,13 @@ updated: 2026-10-30
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中[[Randomised Controlled Trials|随机对照试验]]的不适用性。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用波森的[[Realist Evaluation|实在论综合]]思想作为替代路线，揭示[[Meta-analysis|元分析]]“净化过程”的危害，并以[[Teaching Assistant|教学助理]]项目为例论证脱离 CMO 背景的排行榜对政策的误导。
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 借用波森与蒂利的实在论评估原则，在荷兰住房法执行史中论证主体位置与时间视域对制度变迁定性的决定性影响。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Realist Evaluation]] | 理论 | 核心创立者，提出背景-机制-结果（CMO）因果配置理论。 |
+> | [[Critical Realism]] | 理论 | 将巴斯卡的批判实在论科学哲学操作化为经验政策评估范式。 |
+> | [[Policy-Based Evidence-Making]] | 概念 | 专著提出该批判性概念，揭示政策逆向挑选证据的合法化异化。 |
+> | [[Research Synthesis]] | 方法 | 开创实在论综合（Realist Synthesis），突破传统去情境化元分析。 |
+> | [[Meta-analysis]] | 方法 | 批判对象，系统解构元分析“洗涤与净化过程”对情境机制的抹除。 |
+> | [[Education Endowment Foundation]] | 政策 | 思想被批判教育学者用于反思与解构 EEF 工具包的去情境化效应量排名。 |

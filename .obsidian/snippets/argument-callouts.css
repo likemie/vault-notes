@@ -26583,7 +26583,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   --tf-accent:#88749b;
   --tf-ink:#604b76;
   --th-leaf:#506c65;
-  --th-root:color-mix(in srgb,var(--tf-accent) 9%,var(--ac-paper));
+  --th-root:color-mix(in srgb,var(--tf-accent) 17%,var(--ac-paper));
+  --th-inset:clamp(.4rem,2.3cqi,1rem);
   --th-detail:color-mix(in srgb,var(--th-leaf) 6%,var(--ac-paper));
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-hierarchy"]:where(.theme-dark *) { --tf-accent:#b7a1ca; --tf-ink:#e0cdeb; --th-leaf:#a8c9bb; }
@@ -26609,29 +26610,48 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
     color:var(--th-leaf) !important; font-weight:650;
     overflow-wrap:anywhere;
   }
-  & > ul { display:grid; gap:.8rem; }
+  & > ul { display:grid; gap:1rem; }
   & > ul > li {
     padding:.7rem .85rem .75rem !important;
     border:1px solid var(--tf-edge) !important; border-radius:7px;
-    background:linear-gradient(var(--th-root),var(--ac-paper) 5.5rem) !important;
+    background:var(--ac-paper) !important;
     transition:border-color 180ms ease !important;
   }
   & > ul > li > strong:first-of-type,
   & > ul > li > p:first-of-type > strong:first-of-type {
     color:var(--tf-ink) !important;
-    font:650 1.13em/1.5 var(--ac-serif) !important;
+    font:700 1.22em/1.5 var(--ac-serif) !important;
+    background:var(--th-root);
+    border-radius:4px;
+    padding:.1em .4em;
+    box-decoration-break:clone;
+    -webkit-box-decoration-break:clone;
   }
   & li > :is(ul,ol) {
     display:grid; gap:.45rem;
     margin-top:.48rem !important;
-    padding-inline-start:clamp(.35rem,2cqi,.8rem) !important;
+    padding-inline-start:var(--th-inset) !important;
   }
-  & > ul > li > ul { border-top:1px solid var(--tf-edge) !important; padding-top:.55rem !important; }
+  & > ul > li > ul { border-top:1px solid var(--tf-edge) !important; padding-top:.65rem !important; margin-top:.68rem !important; }
   & > ul > li > ul > li + li { border-top:1px solid var(--background-modifier-border); padding-top:.52rem !important; }
   & > ul > li > ul > li > strong:first-of-type,
   & > ul > li > ul > li > p:first-of-type > strong:first-of-type {
     color:var(--text-normal) !important;
-    font:650 1.01em/1.55 var(--ac-serif) !important;
+    font:650 1.07em/1.55 var(--ac-serif) !important;
+  }
+  & > ul > li > ul > li > strong:first-of-type::before,
+  & > ul > li > ul > li > p:first-of-type > strong:first-of-type::before {
+    content:""; display:inline-block;
+    width:.36em; height:.36em; margin-inline-end:.58em;
+    border:1px solid var(--tf-accent);
+    transform:translateY(-.08em) rotate(45deg);
+  }
+  & > ul > li > ul > li > ul:has(> li > :is(ul,ol)) {
+    padding-inline-start:calc(var(--th-inset) + .36rem) !important;
+  }
+  & > ul > li > ul > li > ul:has(> li > :is(ul,ol)) > li > strong:first-of-type,
+  & > ul > li > ul > li > ul:has(> li > :is(ul,ol)) > li > p:first-of-type > strong:first-of-type {
+    font:650 .96em/1.55 var(--ac-sans) !important;
   }
   & ul ul ul:not(:has(> li > :is(ul,ol))) {
     grid-template-columns:repeat(2,minmax(0,1fr));
@@ -26650,7 +26670,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   & ul ul ul:not(:has(> li > :is(ul,ol))) > li > strong:first-of-type,
   & ul ul ul:not(:has(> li > :is(ul,ol))) > li > p:first-of-type > strong:first-of-type {
     display:block; margin-bottom:.08rem;
-    font-size:.94em !important;
+    font-size:.86em !important;
     color:var(--th-leaf) !important;
   }
 }
