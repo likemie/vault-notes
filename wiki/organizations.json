@@ -813,6 +813,34 @@
         "Danish Clearinghouse"
       ]
     },
+    "Danish Evaluation Institute": {
+      "path": "wiki/facts/denmark/Danish Evaluation Institute.md",
+      "names": [
+        "Danish Evaluation Institute",
+        "丹麦评估研究所",
+        "EVA",
+        "Danmarks Evalueringsinstitut"
+      ]
+    },
+    "Danish National Centre for Social Research": {
+      "path": "wiki/facts/denmark/Danish National Centre for Social Research.md",
+      "names": [
+        "Danish National Centre for Social Research",
+        "丹麦国家社会研究中心",
+        "SFI (Denmark)",
+        "丹麦SFI",
+        "Det Nationale Forskningscenter for Velfærd",
+        "Danish National Centre for Social Research (SFI)"
+      ]
+    },
+    "Danish School Council": {
+      "path": "wiki/facts/denmark/Danish School Council.md",
+      "names": [
+        "Danish School Council",
+        "丹麦学校委员会",
+        "Skolerådet"
+      ]
+    },
     "DARPA": {
       "path": "wiki/facts/us/DARPA.md",
       "names": [
@@ -1852,6 +1880,15 @@
         "LPO",
         "DOE Loan Programs Office",
         "能源部贷款办公室"
+      ]
+    },
+    "Ludvigsen Commission": {
+      "path": "wiki/facts/norway/Ludvigsen Commission.md",
+      "names": [
+        "Ludvigsen Commission",
+        "卢德维格森委员会",
+        "Ludvigsen-utvalget",
+        "The Ludvigsen Commission"
       ]
     },
     "Manaiakalani Education Trust": {
@@ -3464,6 +3501,11 @@
     "NILOA": {
       "seen_in": [
         "wiki/facts/us/Measuring Quality Inventory.md"
+      ]
+    },
+    "Norwegian Ministry of Education and Research": {
+      "seen_in": [
+        "wiki/facts/norway/Fagfornyelsen.md"
       ]
     },
     "Nuffield Foundation and": {

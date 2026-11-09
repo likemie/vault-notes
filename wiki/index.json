@@ -36891,6 +36891,40 @@
     "subtype": "organization"
   },
   {
+    "title": "Danish Evaluation Institute",
+    "type": "fact",
+    "path": "wiki/facts/denmark/Danish Evaluation Institute.md",
+    "aliases": [
+      "丹麦评估研究所",
+      "EVA",
+      "Danmarks Evalueringsinstitut"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Danish National Centre for Social Research",
+    "type": "fact",
+    "path": "wiki/facts/denmark/Danish National Centre for Social Research.md",
+    "aliases": [
+      "丹麦国家社会研究中心",
+      "SFI (Denmark)",
+      "丹麦SFI",
+      "Det Nationale Forskningscenter for Velfærd",
+      "Danish National Centre for Social Research (SFI)"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Danish School Council",
+    "type": "fact",
+    "path": "wiki/facts/denmark/Danish School Council.md",
+    "aliases": [
+      "丹麦学校委员会",
+      "Skolerådet"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Danish Act on Transparency 2002",
     "type": "fact",
     "path": "wiki/facts/denmark/Danish Act on Transparency 2002.md",
@@ -41508,6 +41542,17 @@
     "subtype": "program"
   },
   {
+    "title": "POLNET",
+    "type": "fact",
+    "path": "wiki/facts/multi/POLNET.md",
+    "aliases": [
+      "北欧学校改革政策知识与经验借鉴项目",
+      "Policy Knowledge and Lesson Drawing in Nordic School Reform",
+      "Policy Knowledge and Lesson Drawing in Nordic School Reform in an Era of International Comparison"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Science Technology and Social Change Curriculum Pilot",
     "type": "fact",
     "path": "wiki/facts/multi/Science Technology and Social Change Curriculum Pilot.md",
@@ -42033,6 +42078,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Ludvigsen Commission",
+    "type": "fact",
+    "path": "wiki/facts/norway/Ludvigsen Commission.md",
+    "aliases": [
+      "卢德维格森委员会",
+      "Ludvigsen-utvalget",
+      "The Ludvigsen Commission"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Norwegian Agency for Quality Assurance in Education",
     "type": "fact",
     "path": "wiki/facts/norway/Norwegian Agency for Quality Assurance in Education.md",
@@ -42043,6 +42099,19 @@
       "Nasjonalt organ for kvalitet i utdanningen"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "Fagfornyelsen",
+    "type": "fact",
+    "path": "wiki/facts/norway/Fagfornyelsen.md",
+    "aliases": [
+      "知识促进改革更新",
+      "LK20",
+      "Renewal of the Knowledge Promotion Reform",
+      "The Renewal of the Knowledge Promotion Reform 2020",
+      "挪威2020年课程改革"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Studiebarometeret",
