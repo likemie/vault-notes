@@ -2166,6 +2166,14 @@
       ],
       "title": "Researching policy implementation: Interview data analysis in institutional contexts"
     },
+    "Alexiadou, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
+      ],
+      "title": ""
+    },
     "Alfano, 2020": {
       "doi": "",
       "isbn": "",
@@ -18545,6 +18553,14 @@
       "seen_in": [],
       "title": "The effect of childhood traumatic brain injury on verbal fluency performance: a systematic review and meta-analysis"
     },
+    "Cerny, 1990": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Competition State.md"
+      ],
+      "title": ""
+    },
     "Certeau, 1984": {
       "doi": "",
       "isbn": "",
@@ -22115,6 +22131,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-policy-reform/Soft Privatisation.md",
         "wiki/facts/eu/European Approach for Quality Assurance of Joint Programmes.md"
       ],
       "title": ""
@@ -39222,6 +39239,14 @@
       ],
       "title": ""
     },
+    "Gita Steiner-Khamsi, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Translation.md"
+      ],
+      "title": ""
+    },
     "Gladney, 1991": {
       "doi": "",
       "isbn": "",
@@ -44275,6 +44300,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Kansankynttilä.md"
+      ],
+      "title": ""
+    },
+    "Hannu Simola, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Competition State.md"
       ],
       "title": ""
     },
@@ -51419,6 +51452,14 @@
       ],
       "title": ""
     },
+    "Jane Knight, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Transnational Education.md"
+      ],
+      "title": ""
+    },
     "Jane Knight, 2021": {
       "doi": "",
       "isbn": "",
@@ -54947,6 +54988,14 @@
       "seen_in": [],
       "title": "Improving the reading comprehension of middle school students in inclusive classrooms"
     },
+    "Katja Brøgger, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
+      ],
+      "title": ""
+    },
     "Katz & Dack, 2013": {
       "doi": "",
       "isbn": "",
@@ -56969,6 +57018,17 @@
       ],
       "title": ""
     },
+    "Kimmo Kuortti, 2025": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Translation.md",
+        "wiki/concepts/comparative-education/Transnational Education.md",
+        "wiki/concepts/educational-policy-reform/Soft Privatisation.md",
+        "wiki/concepts/political-economy-geopolitics/Competition State.md"
+      ],
+      "title": ""
+    },
     "Kincade et al., 2020": {
       "datasets": [
         "metax:S0708"
@@ -57931,6 +57991,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/International Education Hubs.md"
+      ],
+      "title": ""
+    },
+    "Knight, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Transnational Education.md"
       ],
       "title": ""
     },
@@ -77494,6 +77562,14 @@
       "seen_in": [],
       "title": "The Effects of Thinking Aloud Pair Problem Solving on High School Students' Chemistry Problem-Solving Performance and Verbal Interactions"
     },
+    "Nokkala, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Competition State.md"
+      ],
+      "title": ""
+    },
     "Noland & Taylor, 1986": {
       "datasets": [
         "metax:S0663"
@@ -83031,6 +83107,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Regional Innovation System.md"
+      ],
+      "title": ""
+    },
+    "Philip G. Cerny, 1990": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Competition State.md"
       ],
       "title": ""
     },
@@ -97017,6 +97101,14 @@
       ],
       "title": ""
     },
+    "Simola, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Competition State.md"
+      ],
+      "title": ""
+    },
     "Simon Baron-Cohen et al., 2001": {
       "doi": "",
       "isbn": "",
@@ -100579,6 +100671,22 @@
       "seen_in": [
         "wiki/concepts/comparative-education/Façade of Rationality.md",
         "wiki/concepts/comparative-education/Soft Power by Hard Facts.md"
+      ],
+      "title": ""
+    },
+    "Steiner-Khamsi, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Translation.md"
+      ],
+      "title": ""
+    },
+    "Steiner-Khamsi, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Policy Translation.md"
       ],
       "title": ""
     },

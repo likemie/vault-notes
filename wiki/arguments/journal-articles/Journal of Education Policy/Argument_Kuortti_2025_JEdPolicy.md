@@ -47,6 +47,10 @@ related_concepts:
   - "[[Quasi-market]]"
   - "[[Nation Branding]]"
   - "[[Problematisation]]"
+  - "[[Competition State]]"
+  - "[[Soft Privatisation]]"
+  - "[[Transnational Education]]"
+  - "[[Policy Translation]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Governmentality]]"
@@ -82,7 +86,7 @@ title: "Argument_Kuortti_2025_JEdPolicy"
 argument_key: "Argument_Kuortti_2025_JEdPolicy"
 argument_display_title: "Repurposing public education: Governmental rationality of education export in Finland through public education problematisations"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

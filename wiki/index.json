@@ -1742,6 +1742,16 @@
     ]
   },
   {
+    "title": "Policy Translation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Policy Translation.md",
+    "aliases": [
+      "政策转译",
+      "政策翻译",
+      "政策转译机制"
+    ]
+  },
+  {
     "title": "Politics of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Politics of Knowledge.md",
@@ -2248,6 +2258,18 @@
       "3T framework",
       "政策迁移",
       "转移-转译-转化"
+    ]
+  },
+  {
+    "title": "Transnational Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Transnational Education.md",
+    "aliases": [
+      "跨国教育",
+      "跨境教育",
+      "跨国高等教育",
+      "TNE",
+      "Transnational Higher Education"
     ]
   },
   {
@@ -7445,6 +7467,17 @@
     "aliases": [
       "软问责",
       "软性问责制"
+    ]
+  },
+  {
+    "title": "Soft Privatisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Soft Privatisation.md",
+    "aliases": [
+      "软性私有化",
+      "软私有化",
+      "隐性私有化",
+      "Soft Privatization"
     ]
   },
   {
@@ -12678,6 +12711,18 @@
       "构建人类命运共同体",
       "Community of Shared Destiny",
       "A Community with a Shared Future for Mankind"
+    ]
+  },
+  {
+    "title": "Competition State",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Competition State.md",
+    "aliases": [
+      "竞争国家",
+      "竞争型国家",
+      "竞争国家理论",
+      "竞争国家范式",
+      "The Competition State"
     ]
   },
   {

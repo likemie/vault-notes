@@ -44,7 +44,7 @@ updated: 2026-11-10
 国际组织在运用危机叙事时展现出特定的认知与治理特征。
 
 > [!citation-card] 危机认识论在国际发展干预中的功能运作
-> 对学习危机的持续诉诸契合了怀特所界定的‘危机认识论’。这一叙事策略将种种挑战建构为前所未有的紧急状态，进而要求采取即刻的、方案导向的应对措施。这种框架将国际组织定位为拥有应对教育系统性失败之专门知识与权威的不可或缺的行动者；然而，它往往掩盖了构成教育差距底色的历史与结构性条件，诸如殖民遗产、地缘政治层级以及经济不平等。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–672)]]
+> 对学习危机的持续诉诸契合了怀特所界定的危机认识论。这一叙事策略将种种挑战建构为前所未有的紧急状态，进而要求采取即刻的、方案导向的应对措施。这种框架将国际组织定位为拥有应对教育系统性失败之专门知识与权威的不可或缺的行动者；然而，它往往掩盖了构成教育差距底色的历史与结构性条件，诸如殖民遗产、地缘政治层级以及经济不平等。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–672)]]
 >
 > *"The persistent invocation of the learning crisis aligns with what Whyte describes as 'crisis epistemology', a narrative strategy that constructs challenges as unprecedented emergencies necessitating immediate, solutions-oriented responses. This framing positions international organisations as indispensable actors with the expertise and authority to address systemic failures in education. Yet, it often obscures the historical and structural conditions – such as colonial legacies, geopolitical hierarchies, and economic inequities – that underpin educational disparities."*
 
@@ -132,4 +132,4 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 运用危机认识论解构联合国教科文组织、儿童基金会与世界银行的全球学习危机叙事，剖析技术官僚修补与救世主心态对全球南方教育依附的固化机制。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 运用危机认识论解构[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[UNICEF|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）与[[World Bank|世界银行]]（World Bank, WB）的全球学习危机叙事，剖析技术官僚修补与救世主心态对全球南方教育依附的固化机制。
