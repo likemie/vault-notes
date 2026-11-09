@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_theories:
   - "[[Policy Instrumentation Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Instrumental Variables]]"
   - "[[Documentary Analysis]]"
   - "[[Systematic Review]]"
 related_instruments: []
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -177,7 +178,7 @@ updated: 2026-11-02
 > |---|---|---|---|
 > | **内生累积转型命题** | 阐明层叠作为妥协策略如何通过边际规则累加导致深层行为重组与制度转型 | 面临高否决点、体制惯性强大且无法推行激进改革的制度环境 | [[Kathleen Thelen]]; Eric Schickler |
 > | **变迁与再生产边界命题** | 划定渐进变迁与制度再生产的分析红线，揭示外围图层保护核心的护城河机制 | 涉及复合标准演进、区域一体化预算与多层监管治理的经验分析 | Jeroen van der Heijden; Taylor Boas |
-> | **范式桥接命题** | 论证层叠通过聚焦行动者与工具变量具备超越外生突变与内生渐进二元对立的潜力 | 跨学科公共政策与制度演进分析，需要调和宏观断裂与微观演变的研究 | Jeroen van der Heijden; Giliberto Capano |
+> | **范式桥接命题** | 论证层叠通过聚焦行动者与[[Instrumental Variables\|工具变量]]具备超越外生突变与内生渐进二元对立的潜力 | 跨学科公共政策与制度演进分析，需要调和宏观断裂与微观演变的研究 | Jeroen van der Heijden; Giliberto Capano |
 
 ---
 

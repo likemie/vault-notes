@@ -11,7 +11,7 @@ subtype: program
 region: chile
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Vouchers]]"
   - "[[School Choice]]"
   - "[[Criterion-Referenced Test]]"
+  - "[[Quasi-market]]"
   - "[[School Autonomy]]"
   - "[[Space of Equivalence]]"
   - "[[Socioeconomic Status]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心干预／机制假说
-> 通过对全体学生进行[[Criterion-Referenced Test|标准参照]]与常模测评，将量化分数公开发布并作为家长[[School Choice|择校]]信号与学校问责依据，借由准市场竞争与行政奖惩促使[[School Autonomy|学校自主]]提升教学质量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 253, 257)]]
+> 通过对全体学生进行[[Criterion-Referenced Test|标准参照]]与常模测评，将量化分数公开发布并作为家长[[School Choice|择校]]信号与学校问责依据，借由[[Quasi-market|准市场]]竞争与行政奖惩促使[[School Autonomy|学校自主]]提升教学质量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 253, 257)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 测度学生在国家课程大纲规定之语言、数学、自然科学与社会科学等领域的学习达成度，为宏观教育决策与择校提供基准数据。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]

@@ -254,6 +254,7 @@ updated: 2026-11-03
 > - **20世纪末至今 — 经贸穿透、[[Pluri-Scalar Governance|多标度治理]]、跨国网络权力共享与次国家解构危机** 一方面，[[World Trade Organization|世贸组织]]（WTO/[[GATS and Trade in Education Services|GATS]]）推进教育商业化市场准入，侵蚀主权国家宏观调控权（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；国际援助方绕过政府直接资助非政府组织造成[[Shadow State|影子国家]]现象；在[[EU|欧洲联盟]]多层级治理下，各成员国对外严防死守主权边界，对内则面临激进分权与次国家民族主义争夺独立教育系统的分裂危机（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）。另一方面，[[OECD|经济合作与发展组织]]（OECD）推行软法治理与[[PISA]]量化测评，国家教育主权在跨国多层[[Network Governance|网络治理]]中转型为由多边组织与国内精英“权力共享行使”并用于破除国内改革阻力的外部合法化机制（Held & McGrew, 2005; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
 > - **2009 — 超国家[[Panopticism|全景敞视]]对主权防线的主动消解** 帕西亚斯与鲁萨基斯揭示欧盟成员国推行“[[Aggressive Intergovernmentalism|进取型政府间主义]]”，在恪守[[Subsidiarity Principle|辅助性原则]]的宪制假象下，主动将国家教育主权让渡给以[[Open Method of Coordination|开放协调法]]、量化指标凝视与[[Peer Pressure|同侪压力]]为核心的超国家全景敞视监视网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481, 485–487, 492–493)]]
 > - **2024 — 认识论基础设施对宪制主权壁垒的技术规避与实质重构** 索蒂里亚·格雷克与伊恩·拉塞尔（[[Argument_Grek_2024_EERJ|Grek & Russell, 2024]]）揭示，面对欧盟条约第 165 条禁止超国家立法协调的宪制限制，欧委会依托 ESG 元标准、EQAR 官方注册局与 DEQAR/ETER 数据库互操作性，绕开正面主权对抗，将跨国文凭互认下沉为数据系统的自动化校验，实现了对国家教育主权防线的底层穿透。
+> - **2026 — 去殖民反思与受援国教育主权权柄辩护** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 深入访谈国际组织内部的芬兰教育专家，揭示发展主义危机叙事与白人救世主心态对全球南方国家教育主权的系统性侵蚀，强调教育作为公民身份基石的不可让渡性，主张国际合作重回受援国本土主权主体性。
 
 ---
 
@@ -273,6 +274,10 @@ updated: 2026-11-03
 > > [!axis] 绝对主权独占 vs 跨国经贸穿透与[[Shadow State|影子国家]]外包
 > > - **新自由主义外包与自由贸易倡导方** 认为由市场竞争（[[World Trade Organization|WTO]]）和非政府组织（NGO）提供公共教育能克服国家官僚的腐败低效，提高资源配置灵活性。
 > > - **批判政治经济学与主权公共性维护视角（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Kamat, 2004）** 警告去政治化的外包与经贸穿透直接摧毁了国家履行国民公民权与社会正义兜底的宪法责任，使第三部门退化为影子国家，导致公共教育主权名存实亡。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
+>
+> > [!axis] 白人救世主式干预 vs 受援国教育主权主体性
+> > - **发展主义干预立场（跨国机构主流）** 将受援国教育系统定性为深陷危机的无能客体，以全知施教者自居推行自上而下的技术方案与外部顾问建言后离去的代办模式。
+> > - **去殖民与主权辩护立场（[[Argument_Santos_Silova_2026_Discourse|Santos & Silova, 2026]]）** 批判家长制干预对本土教育主权的架空，重申教育是不可让渡的国家主权授权与公民身份基石，主张由受援国主导平等的双向共创。
 >
 > > [!axis] 单一国家教育主权统一体 vs 次国家区域主权分立与排他体系
 > > - **国家宪法统一与整体利益视角** 强调国家教育权必须维系全国统一的学历对等、跨区域自由流动、最低质量基准与公民凝聚力，防范公共教育空间被地方民族主义割裂。

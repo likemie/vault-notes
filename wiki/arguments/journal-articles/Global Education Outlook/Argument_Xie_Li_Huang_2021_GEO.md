@@ -36,7 +36,9 @@ related_concepts:
   - "[[Global Educational Policy Field]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Borrowing]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Document]]"
+  - "[[Quasi-market]]"
   - "[[Epistemic Governance]]"
   - "[[Space of Equivalence]]"
   - "[[Lifelong Learning]]"
@@ -63,6 +65,7 @@ related_concepts:
   - "[[Social Regime]]"
   - "[[Geopolitics]]"
   - "[[Knowledge Production]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Learning Knowledge and Policy Knowledge]]"
   - "[[Habitus]]"
@@ -79,6 +82,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Unit of Analysis]]"
   - "[[Epoché]]"
+  - "[[Screening Off]]"
   - "[[Epistemology]]"
   - "[[Scientism]]"
   - "[[Reliability]]"
@@ -137,14 +141,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-26
-updated: 2026-10-29
+updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 104
+argument_related_count: 108
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -178,7 +182,7 @@ issuing_organization: ""
 > | **数字治理与政策借用理论**<br>[[Governing by Numbers]] / [[Policy Borrowing]] | 借助[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）与于尔根·施瑞尔（[[Jurgen Schriewer]]）等学者的理论，分析数目化管理如何赋能[[Governing at a Distance\|远距治理]]，以及国内政治精英如何利用外部化压力与模范社会进行战略性政策借用。 |
 
 > [!warrant]- 理论如何支撑论证
-> 三重理论透镜搭建了论证推导的立体阶梯：世界社会理论解释宏观层面全球趋同压力的合法性来源；布迪厄的场域理论揭示中观层面超国家组织如何将技术性指标兑换为跨国支配资本；福柯的治理术理论剖析微观层面数目化全景敞视对个体与学校的内化规训。三大理论共同解构了 PISA 中立技术测量的表象，确立其全球治理工具属性的社会学批判基础。
+> 三重[[Theoretical Standpoint|理论透镜]]搭建了论证推导的立体阶梯：世界社会理论解释宏观层面全球趋同压力的合法性来源；布迪厄的场域理论揭示中观层面超国家组织如何将技术性指标兑换为跨国支配资本；福柯的治理术理论剖析微观层面数目化全景敞视对个体与学校的内化规训。三大理论共同解构了 PISA 中立技术测量的表象，确立其全球治理工具属性的社会学批判基础。
 
 ---
 
@@ -211,7 +215,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤一　经合组织借 PISA 将教育重塑为新自由主义[[Human Capital Theory|人力资本]]竞争工具
-> PISA 是经合组织在冷战后探索跨国政策行动者定位、确立自身为思想提供者与政策知识中枢的关键制度载体。该项目深度浸透新自由主义人力资本逻辑，通过去背景化、通约性与政策导向三大技术机制，将复杂的教育实践降解为跨国可比的绩效数据，成为推行以考试为基础的问责制和准市场化竞争的特洛伊木马。
+> PISA 是经合组织在冷战后探索跨国政策行动者定位、确立自身为思想提供者与政策知识中枢的关键制度载体。该项目深度浸透新自由主义人力资本逻辑，通过去背景化、通约性与政策导向三大技术机制，将复杂的教育实践降解为跨国可比的绩效数据，成为推行以考试为基础的问责制和[[Quasi-market|准市场]]化竞争的特洛伊木马。
 
 > [!sub-claim] 1. 经合组织缺乏法定规制权力，转而依靠知识与数据推行软治理
 
@@ -381,7 +385,7 @@ issuing_organization: ""
 > - **开发评价工具** 研发国际通用的教育政策测量标准与学业质量评价概念工具。
 > - **施加比照压力** 通过国别同行审议与指标对标确立常态化横向竞争。
 
-> [!theory-components] 跨国教育认知共同体的四大支柱（Haas, 1992）
+> [!theory-components] [[Transnational Education|跨国教育]]认知共同体的四大支柱（Haas, 1992）
 > - **规范与原则性信念** 成员共享一套价值追求，为跨国政策干预的合理性提供社会价值基础。
 > - **因果信念** 成员共享一套因果判断框架，分析政策措施与学业产出之间的实质关联。
 > - **有效性检验标准** 成员共享基于统计量化与实证测量的跨国知识判定准则。
@@ -490,7 +494,7 @@ issuing_organization: ""
 > *When public policy systems face crises of political legitimacy, severe party polarization, or eroded public trust, internal self-referential mechanisms fail to resolve policy impasses. Decision-makers inevitably deploy externalization strategies, appealing to global semantics and using the scientific aura of cross-national comparative data and reference societies to legitimize inevitable domestic reforms.*
 
 > [!citation-card] 方法论民族主义在比较教育中的容器假设（Dale & Robertson, 2009）
-> 方法论民族主义盲目地将民族国家预设为社会科学分析的天然先验容器，把教育政策比较窄化为封闭领土单元之间的静态对抗，完全遮蔽了由超国家组织、跨国商业机构与地方学区在流动跨国空间中共同编织的多标度治理现实。
+> 方法论民族主义盲目地将民族国家预设为社会科学分析的天然先验容器，把教育政策比较窄化为封闭领土单元之间的静态对抗，完全[[Screening Off|遮蔽]]了由超国家组织、跨国商业机构与地方学区在流动跨国空间中共同编织的多标度治理现实。
 >
 > *Methodological nationalism blindly presupposes the nation-state as the natural, a priori container for social analysis, narrowing comparative education policy to static confrontations between closed territorial units and obscuring the pluri-scalar governance reality co-constructed by supranational bodies, transnational agencies, and local districts in fluid transnational spaces.*
 

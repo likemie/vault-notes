@@ -11,7 +11,7 @@ subtype: event
 region: chile
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - theme/accountability
   - theme/standardized-testing
 related_concepts:
+  - "[[Quasi-market]]"
   - "[[Critical Pedagogy]]"
   - "[[School Vouchers]]"
   - "[[School Choice]]"
@@ -42,13 +43,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
 
 > [!claim] 核心定性
-> 智利“停止 [[SIMCE]]”运动（Alto al SIMCE）是拉美地区最具代表性的反对标准化考试与准市场教育问责的草根社会运动，标志着民间力量正面挑战皮诺切特军政府时期遗留的新自由主义教育规制装置。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> 智利“停止 [[SIMCE]]”运动（Alto al SIMCE）是拉美地区最具代表性的反对标准化考试与[[Quasi-market|准市场]]教育问责的草根社会运动，标志着民间力量正面挑战皮诺切特军政府时期遗留的新自由主义教育规制装置。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2014 年至 2016 年；发源并席卷智利全国各主要大区与首都圣地亚哥。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]

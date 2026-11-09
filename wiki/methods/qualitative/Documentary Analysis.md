@@ -10,9 +10,9 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 84
-method_related_level: 8
-method_related_stars: "💎💎⭐⭐"
+method_related_count: 92
+method_related_level: 9
+method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -30,12 +30,13 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Linguistic Turn]]"
-  - "[[Technology Transfer]]"
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Discourse]]"
+  - "[[Country Ownership]]"
   - "[[Interpretive Paradigm]]"
   - "[[Market Fundamentalism]]"
   - "[[Champ]]"
+  - "[[Policy Translation]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
   - "[[Creativity]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Research Utilization]]"
   - "[[Research Universities]]"
+  - "[[Technology Transfer]]"
   - "[[Test Production]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
@@ -52,6 +54,8 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Educational Diplomacy]]"
   - "[[Geopolitics]]"
+  - "[[Education Export]]"
+  - "[[Nation Branding]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -63,10 +67,10 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Internal Consistency]]"
 related_arguments:
-  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -83,13 +87,16 @@ related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
+  - "[[Argument_Yang_2017_MUE]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Yang_2023_ICE]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[Sematech]]"
-  - "[[Bayh-Dole Act of 1980]]"
+  - "[[World Declaration on Education for All]]"
+  - "[[Development Assistance Committee]]"
   - "[[European Commission]]"
   - "[[EU]]"
   - "[[Education and Training 2020]]"
@@ -109,13 +116,14 @@ related_facts:
 related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Developmental Network State]]"
+  - "[[Integrated Marketing Communications Theory]]"
 related_persons:
-  - "[[Jason Beech]]"
   - "[[Fred Block]]"
+  - "[[Harry S. Truman]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -168,8 +176,8 @@ updated: 2026-11-09
 > [!proc] 质性分析程序
 > 1. **文本搜集与谱系建构** 系统搜集国家母法、部委规章、中央与地方课程指南或国际组织白皮书，建立自上而下的政策指令链条并完成法案编目。
 > 2. **编码与制度功能解构** 提取法定赋权条款、关键概念定义与指标规定（如专利下放、反垄断豁免、[[Cooperative Research and Development Agreement|CRADA]] 授权），解构政策方案中的工具配置与微观干预机制。
-> 3. **意识形态与[[Discourse|话语]]反思** 细致比对文本表层的现代化修辞（如“市场化改革”、“跨学科综合”、“国家自主拥有”）与其深层知识架构和排他性预设，识别两党政治妥协或外部规训机制。
-> 4. **多源材料[[Triangulation|三角互证]]与校准** 将政策法规文献与纵向实证数据（如资金流向、项目成果转移）、商业衍生出版物或质性访谈进行交叉比对，检验文本承诺与实践落地的真实距离，避免落入将政策文字误当作教育现实的文献实证主义陷阱。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–355)]]
+> 3. **意识形态与[[Discourse|话语]]反思** 细致比对文本表层的现代化修辞（如“市场化改革”、“跨学科综合”、“[[Country Ownership|国家自主拥有]]”）与其深层知识架构和排他性预设，识别两党政治妥协或外部规训机制。
+> 4. **多源材料[[Triangulation|三角互证]]与校准** 将政策法规文献与纵向实证数据（如资金流向、项目成果转移）、商业衍生出版物或[[Qualitative Interview|质性访谈]]进行交叉比对，检验文本承诺与实践落地的真实距离，避免落入将政策文字误当作教育现实的文献实证主义陷阱。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–355)]]
 
 > [!dimension] 文献分析的三种理论传统（Jupp & Norris, 1993）
 > - **实证主义传统（positivist approach）** 主张客观、系统、理性和量化的研究，寻求文本中的客观事实与频率证据（如 Halstead, 1988 对媒体文献的量化考察）。
@@ -206,7 +214,7 @@ updated: 2026-11-09
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_King_2007_CE|King (2007)]] — 运用政策文献分析系统比对宗滴恩宣言、DAC 报告、达喀尔纲领与千年宣言，揭示多边机构在政策转译中将基础教育议程窄化为初等量化指标的机制（pp. 377–389）。
+> - [[Argument_King_2007_CE|King (2007)]] — 运用政策文献分析系统比对[[World Declaration on Education for All|宗滴恩宣言]]、[[Development Assistance Committee|DAC]] 报告、达喀尔纲领与千年宣言，揭示多边机构在[[Policy Translation|政策转译]]中将基础教育议程窄化为初等量化指标的机制（pp. 377–389）。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 系统比对[[European Commission|欧盟委员会]]公报、工作人员工作文件与[[EU|欧盟]]理事会决议等战略政策文本，对比里斯本目标、[[Education and Training 2020|ET2020]] 与[[European Education Area|欧洲教育区]]指标体系的历史演进与话语流变。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用政策法规与课程大纲文献分析，梳理阿根廷与巴西 1990 年代国家教育法、联邦课程指南及商业教辅目录，结合访谈揭示官方修辞与学校微观实践的剧烈脱节。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] — 系统介绍了文献分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
@@ -226,5 +234,6 @@ updated: 2026-11-09
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对[[World Bank|世界银行]]历届教育部门政策战略与《世界发展报告》展开文献引文分析，揭示多边机构从行政声明向学术化[[Epistemic Governance|认知治理]]的演变（pp. 7–8）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 79–86)]] — 结合中国高教改革法规、留学生统计年鉴与智库[[Soft Power|软实力]]指数开展政策文献与统计综合分析，解构[[Educational Diplomacy|教育外交]]的三大支柱与[[Geopolitics|地缘政治]]转化制约。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸协定、中国—[[ASEAN|东盟]]战略伙伴关系愿景、国家全会决议及部区共建纪要等官方政策文献，系统梳理跨国职业教育开放的政策脉络与制度演进（pp. 286–288, 292–293）。
-> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 运用政策文献与历史档案分析，梳理二战后至卫星危机前后美国联邦大学科研资助政策演进，解析杜鲁门国防计划性资助与后卫星时代以基金会为代表的自由基础研究转向。
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编芬兰 2010–2020 年间关于教育出口的 16 份关键政策文献（含 5 份核心实践文本与 11 份支撑政策），运用 Atlas.ti 对改革措施与指标展开系统节点编码（p. 5）。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 运用政策文献与历史档案分析，梳理二战后至卫星危机前后美国联邦大学科研资助政策演进，解析[[Harry S. Truman|杜鲁门]]国防计划性资助与后卫星时代以基金会为代表的自由基础研究转向。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编芬兰 2010–2020 年间关于[[Education Export|教育出口]]的 16 份关键政策文献（含 5 份核心实践文本与 11 份支撑政策），运用 Atlas.ti 对改革措施与指标展开系统节点编码（p. 5）。
+- [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 系统梳理芬兰[[Nation Branding|国家品牌]]代表团报告、教育出口战略与海外媒体文本，运用[[Integrated Marketing Communications Theory|整合营销传播]]分析框架解构国家教育品牌形象建构与传播策略（pp. 3–9）。

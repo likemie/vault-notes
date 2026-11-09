@@ -40,6 +40,7 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Instrument Constituencies]]"
   - "[[Discourse]]"
+  - "[[Quasi-market]]"
   - "[[Performance Indicators]]"
   - "[[School Vouchers]]"
   - "[[Criterion-Referenced Test]]"
@@ -99,20 +100,21 @@ related_facts:
   - "[[National Education Association]]"
   - "[[National Education]]"
   - "[[American Federation of Teachers]]"
+  - "[[Scopus]]"
 related_arguments: []
 sources:
   - "[[sources/Verger_2019_Discourse|Verger_2019_Discourse]]"
 part_of:
 status: draft
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 72
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -246,7 +248,7 @@ issuing_organization: ""
 英格兰、美国、智利等推行[[New Public Management|新公共管理]]（NPM）体制的国家，早已奠定了市场选择与绩效主义的制度基础，因而迅速将测验问责深度嵌入到学校竞争与私有化进程中。
 
 > [!case] 市场化国家案例：智利、英格兰与美国
-> - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入[[SNED|国家学校绩效评估系统]]（[[SNED|Sistema Nacional de Evaluación del Desempeño]], SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行优先学校补贴法（[[Ley SEP|Ley de Subvención Escolar Preferencial]], SEP），向弱势学生提供差别化资助，并允许学校动用专项公帑采购[[Asistencias Técnicas Educativas|外部技术教育支持机构]]（[[Asistencias Técnicas Educativas]]）的提分与咨询服务，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。
+> - **智利的激进[[Quasi-market|准市场]]建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入[[SNED|国家学校绩效评估系统]]（[[SNED|Sistema Nacional de Evaluación del Desempeño]], SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行优先学校补贴法（[[Ley SEP|Ley de Subvención Escolar Preferencial]], SEP），向弱势学生提供差别化资助，并允许学校动用专项公帑采购[[Asistencias Técnicas Educativas|外部技术教育支持机构]]（[[Asistencias Técnicas Educativas]]）的提分与咨询服务，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。
 > - **英格兰的国家干预与表现主义治理深化** 1988 年《教育改革法》（[[Education Reform Act 1988|Education Reform Act]], ERA）确立全国关键学段统考、学校地方自主管理（Local Management of Schools, LMS）与官方排行榜；新工党执政期间（1997–2010）引入学校表现与评估报告（[[PANDA|Performance and Assessment Reports]], PANDA）和学生成就追踪系统（Pupil Achievement Tracker, PAT），推行绩效挂钩薪资，并对薄弱学校施加分级行政干预；2010 年联合政府进一步增设 6 岁语音拼读筛查（Phonics Screening Check）与英国学士学位（English Baccalaureate, EBacc）[[Performance Indicators|绩效指标]]，持续收紧量化控制网底。
 > - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（[[Adequate Yearly Progress]], AYP）制裁；2011 年《[[Race to the Top|力争上游]]》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（[[Value-Added Model]], VAM）将学生统考成绩与教师个人解聘直接绑定。
 
@@ -388,7 +390,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> 1. [[Literature Search|文献检索]]主要依赖英文索引数据库（Scopus），对非英语发表物及未被国际引文体系充分收录的发展中国家实证经验存在覆盖局限。
+> 1. [[Literature Search|文献检索]]主要依赖英文索引数据库（[[Scopus]]），对非英语发表物及未被国际引文体系充分收录的发展中国家实证经验存在覆盖局限。
 > 2. 既有实证研究多集中于宏观与中观维度的政策工具采纳与制度演变，对学校微观层面上校长与教师如何日常化再诠释、策略性挪用或隐性抵抗治理工具的经验证据相对匮乏。
 > 3. 针对不带刚性惩戒后果的[[Soft Accountability|软问责]]体系如何在学校生态中产生深层规训效应，实证积累依然不足。
 

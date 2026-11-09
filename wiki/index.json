@@ -20866,6 +20866,19 @@
     ]
   },
   {
+    "title": "Integrated Marketing Communications Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Integrated Marketing Communications Theory.md",
+    "aliases": [
+      "整合营销传播理论",
+      "整合营销传播",
+      "Integrated Marketing Communications",
+      "IMC",
+      "IMC理论",
+      "IMC Theory"
+    ]
+  },
+  {
     "title": "Liberal-Pluralist Theory of the State",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Liberal-Pluralist Theory of the State.md",
@@ -29898,7 +29911,8 @@
     "type": "person",
     "path": "wiki/persons/finland/Pasi Sahlberg.md",
     "aliases": [
-      "帕西·萨尔伯格"
+      "帕西·萨尔伯格",
+      "帕思·萨尔伯格"
     ]
   },
   {
@@ -49511,6 +49525,11 @@
     "title": "Argument_Liu_2025_IndHE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Liu_2025_IndHE.md"
+  },
+  {
+    "title": "Argument_Yang_2023_ICE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
   },
   {
     "title": "Argument_Zhuo_2026_ICE",

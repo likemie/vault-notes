@@ -11,7 +11,7 @@ subtype: program
 region: "chile"
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Test-Based Accountability]]"
   - "[[Institutional Layering]]"
+  - "[[Theoretical Standpoint]]"
 related_theories: []
 related_methods:
   - "[[Inter-Rater Reliability]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -130,4 +131,4 @@ updated: 2026-10-30
 > | [[SNED]] | Fact (Program) | 智利基于学校整体表现发放奖金的系统，与针对教师个体的 Docentemás 互为补充。 |
 > | [[Ley SEP]] | Fact (Policy) | 智利优先学校补贴法，对薄弱学校的问责监管与 Docentemás 教师师资考核相互交织。 |
 > | [[Test-Based Accountability]] | Concept | 支撑国家评价工具演进并决定教师职业利害的宏观问责模式。 |
-> | [[Institutional Layering]] | Concept | 解释智利在保留原有市场机制基础上不断增设教师考评制度的理论透镜。 |
+> | [[Institutional Layering]] | Concept | 解释智利在保留原有市场机制基础上不断增设教师考评制度的[[Theoretical Standpoint\|理论透镜]]。 |
