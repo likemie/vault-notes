@@ -76,7 +76,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-04
-updated: 2026-11-08
+updated: 2026-11-09
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2017_MUE"
@@ -141,41 +141,44 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart LR
->     subgraph S1["一、任务垄断与学术抗争 (1945–1957)"]
->         direction TB
+> block-beta
+>     columns 4
+>     block:S1:1
+>         columns 1
+>         T1["一、任务垄断与学术抗争 (1945–1957)"]
 >         A["冷战军备与遏制战略<br/>任务机构以定向合同垄断76%研发经费"]
 >         B["学术界抗议与早期受挫<br/>柯南特与杜布里奇批评线性模式<br/>NSF初期遭政治审查与预算腰斩"]
->         A --> B
 >     end
-> 
->     subgraph S2["二、外部危机与立法突破 (1957–1958)"]
->         direction TB
+>     block:S2:1
+>         columns 1
+>         T2["二、外部危机与立法突破 (1957–1958)"]
 >         C["1957 苏联卫星危机<br/>技术神话破灭，暴露基础人才断层"]
 >         D["合法性重构<br/>国家安全升格为资助基础科研最高合法性"]
 >         E["1958 《国防教育法》(NDEA)<br/>成文法打破合宪疑虑，确立高教战略防线"]
->         C --> D --> E
 >     end
-> 
->     subgraph S3["三、双轨建制与预算同盟 (1958–1965)"]
->         direction TB
+>     block:S3:1
+>         columns 1
+>         T3["三、双轨建制与预算同盟 (1958–1965)"]
 >         F["【白宫行政通道】<br/>PSAC基利安进驻白宫直通总统<br/>1960《西博格报告》确立科教一体信条"]
 >         G["【国会立法通道】<br/>基斯佳科夫斯基创立COSPUP<br/>1965《基础研究与国家目标》界定小科学"]
 >         H["政治同盟达成<br/>15%小科学增长基准与四大学科普查<br/>促成两党议会实质性预算倾斜"]
->         F --> H
->         G --> H
 >     end
-> 
->     subgraph S4["四、黄金时代与地缘边界 (1958–1968)"]
->         direction TB
+>     block:S4:1
+>         columns 1
+>         T4["四、黄金时代与地缘边界 (1958–1968)"]
 >         I["同行评议与黄金期繁荣<br/>资助重心转向NSF/NIH/NASA民用机构<br/>联邦经费占高校研发收入升至近70%"]
 >         J["依附性契约与时代收束<br/>自由探索繁荣仍依附于冷战争霸<br/>1968越战危机触发首度预算削减"]
->         I -->|冷战争霸红利消退| J
 >     end
-> 
->     B -->|1957外部冲击| C
->     E -->|双轨建制破壁| F & G
->     H -->|打通行政与立法| I
+>     S1 --> S2
+>     S2 --> S3
+>     S3 --> S4
+>     A --> B
+>     C --> D --> E
+>     F --> H
+>     G --> H
+>     I -->|冷战争霸红利消退| J
+>     classDef stage fill:none,stroke:none,font-weight:650
+>     class T1,T2,T3,T4 stage
 > ```
 
 ---
