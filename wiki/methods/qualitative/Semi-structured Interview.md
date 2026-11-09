@@ -8,9 +8,9 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 49
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 50
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -61,6 +61,7 @@ related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Skipp_Tanner_2015_EEF]]"
   - "[[Argument_Sanders_2021_EEF]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 related_facts:
   - "[[OECD]]"
   - "[[Semiconductor Research Corporation]]"
@@ -76,7 +77,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-04
+updated: 2026-11-10
 ---
 
 ---
@@ -169,3 +170,4 @@ updated: 2026-11-04
 
 > - [[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 8, 12)]] — 在[[Visible Classroom|可见课堂]]试点的三个交叠批次中开展 27 次半结构访谈，结合两次[[Classroom Observation|课堂观察]]识别技术、反馈使用与专业讨论的实施条件。
 > - [[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 19–20)]] — 在可见课堂效能试验中目的抽样访谈教师和导师共 26 次，逐行编码归纳主题，样本偏向高参与者。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 针对曾在三大国际组织任职的 23 位芬兰教育专家开展 60 至 90 分钟半结构化访谈，系统剖析跨国机构文官面对全球学习危机话语时的反思性认知与深层制度张力。

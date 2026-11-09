@@ -5184,7 +5184,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Free School Meals.md"
+      ],
       "title": "Individual participant data meta-analysis of the impact of educational interventions on pupils eligible for free school meals."
     },
     "Ashrafzade et al., 2023": {
@@ -9707,14 +9709,6 @@
       ],
       "title": ""
     },
-    "Berelson, 1952": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
-      ],
-      "title": ""
-    },
     "Bereményi & Carrasco, 2018": {
       "doi": "",
       "isbn": "",
@@ -10023,14 +10017,6 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Epistemology.md",
         "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
-      ],
-      "title": ""
-    },
-    "Bernard Berelson, 1952": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
       ],
       "title": ""
     },
@@ -13642,8 +13628,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Rickinson_2022_UsingResearchWell.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Rickinson_2022_UsingResearchWell.md"
       ],
       "title": ""
     },
@@ -32618,7 +32603,6 @@
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Feminist Research.md",
         "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Theoretical Sampling.md"
       ],
       "title": ""
@@ -33245,14 +33229,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/uk/Ofsted.md"
-      ],
-      "title": ""
-    },
-    "Farquharson, 2005": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Snowball Sampling.md"
       ],
       "title": ""
     },
@@ -34847,8 +34823,7 @@
         "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
         "wiki/methods/qualitative/Ethnography.md",
         "wiki/methods/qualitative/Participant Observation.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Qualitative Codebook.md"
       ],
       "title": ""
     },
@@ -39319,7 +39294,6 @@
         "wiki/concepts/research-methodology/Hypothesis.md",
         "wiki/methods/qualitative/Grounded Theory.md",
         "wiki/methods/qualitative/Negative Case Analysis.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Selective Coding.md",
         "wiki/methods/qualitative/Theoretical Sampling.md"
       ],
@@ -59153,8 +59127,7 @@
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Content Analysis.md",
-        "wiki/methods/qualitative/Intercoder Agreement.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Intercoder Agreement.md"
       ],
       "title": ""
     },
@@ -61823,7 +61796,6 @@
         "wiki/methods/qualitative/Ethnography.md",
         "wiki/methods/qualitative/Memos.md",
         "wiki/methods/qualitative/Participant Observation.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Typological Analysis.md"
       ],
       "title": ""
@@ -64136,7 +64108,6 @@
         "wiki/methods/qualitative/Intercoder Agreement.md",
         "wiki/methods/qualitative/Negative Case Analysis.md",
         "wiki/methods/qualitative/Peer Debriefing.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Qualitative Research.md",
         "wiki/methods/qualitative/Triangulation.md",
         "wiki/methods/quantitative/Inter-Rater Reliability.md",
@@ -68102,14 +68073,6 @@
       ],
       "title": ""
     },
-    "Margrit Schreier, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
-      ],
-      "title": ""
-    },
     "Marianne Larsen & Sandip Mehta, 2008": {
       "doi": "",
       "isbn": "",
@@ -69681,8 +69644,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md",
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/methods/qualitative/Content Analysis.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Qualitative Codebook.md"
       ],
       "title": ""
     },
@@ -69691,6 +69653,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
+      ],
+      "title": ""
+    },
+    "Mayring, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/qualitative/Qualitative Content Analysis.md"
       ],
       "title": ""
     },
@@ -94019,14 +93989,6 @@
       ],
       "title": ""
     },
-    "Schreier, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
-      ],
-      "title": ""
-    },
     "Schreier, 2014": {
       "doi": "10.4135/9781446282243.n12",
       "isbn": "",
@@ -99790,8 +99752,7 @@
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Domain Analysis.md",
-        "wiki/methods/qualitative/Interview Protocol.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Interview Protocol.md"
       ],
       "title": ""
     },
@@ -101742,7 +101703,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Central Phenomenon.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Selective Coding.md"
       ],
       "title": ""
@@ -111427,8 +111387,7 @@
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Data Reduction.md",
         "wiki/methods/qualitative/Intercoder Agreement.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Qualitative Codebook.md"
       ],
       "title": ""
     },

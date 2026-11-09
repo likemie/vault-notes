@@ -2216,8 +2216,6 @@
     "Bereiter (2006)": "Bereiter, 2006",
     "Bereiter, 2002": "Bereiter, 2002",
     "Bereiter, 2006": "Bereiter, 2006",
-    "Berelson (1952)": "Berelson, 1952",
-    "Berelson, 1952": "Berelson, 1952",
     "Bereményi & Carrasco (2018)": "Bereményi & Carrasco, 2018",
     "Bereményi & Carrasco, 2018": "Bereményi & Carrasco, 2018",
     "Berg & Seeber (2025)": "Berg & Seeber, 2025",
@@ -2291,8 +2289,6 @@
     "Bernard Barber (1973)": "Bernard Barber, 1973",
     "Bernard Barber, 1972": "Bernard Barber, 1972",
     "Bernard Barber, 1973": "Bernard Barber, 1973",
-    "Bernard Berelson (1952)": "Bernard Berelson, 1952",
-    "Bernard Berelson, 1952": "Bernard Berelson, 1952",
     "Bernard et al. (2004a)": "Bernard et al., 2004a",
     "Bernard et al. (2004b)": "Bernard et al., 2004b",
     "Bernard et al. (2009)": "Bernard et al., 2009",
@@ -7566,10 +7562,8 @@
     "Farmus et al., 2020": "Farmus et al., 2020",
     "Faro (2006)": "Faro, 2006",
     "Faro, 2006": "Faro, 2006",
-    "Farquharson (2005)": "Farquharson, 2005",
     "Farquharson et al. (2021)": "Farquharson et al., 2021",
     "Farquharson et al., 2021": "Farquharson et al., 2021",
-    "Farquharson, 2005": "Farquharson, 2005",
     "Farragher (1997)": "Farragher, 1997",
     "Farragher, 1997": "Farragher, 1997",
     "Farran (2014)": "Farran, 2014",
@@ -15510,8 +15504,6 @@
     "Marginson, 2022d": "Marginson, 2022b",
     "Marginson, 2023": "Marginson, 2023",
     "Marginson, 2024": "Marginson, 2024",
-    "Margrit Schreier (2012)": "Margrit Schreier, 2012",
-    "Margrit Schreier, 2012": "Margrit Schreier, 2012",
     "Marianne Larsen & Sandip Mehta (2008)": "Marianne Larsen & Sandip Mehta, 2008",
     "Marianne Larsen & Sandip Mehta, 2008": "Marianne Larsen & Sandip Mehta, 2008",
     "Marianne Larsen (2001)": "Marianne Larsen, 2001",
@@ -15874,9 +15866,11 @@
     "Mayring (2000)": "Mayring, 2000",
     "Mayring (2004)": "Mayring, 2004",
     "Mayring (2008)": "Mayring, 2008",
+    "Mayring (2014)": "Mayring, 2014",
     "Mayring, 2000": "Mayring, 2000",
     "Mayring, 2004": "Mayring, 2004",
     "Mayring, 2008": "Mayring, 2008",
+    "Mayring, 2014": "Mayring, 2014",
     "Mazeh (2020)": "Mazeh, 2020",
     "Mazeh, 2020": "Mazeh, 2020",
     "Mazower (1998)": "Mazower, 1998",
@@ -21405,9 +21399,7 @@
     "Schraw et al. (2002)": "Schraw et al., 2002",
     "Schraw et al., 2002": "Schraw et al., 2002",
     "Schraw, 1998": "Schraw, 1998",
-    "Schreier (2012)": "Schreier, 2012",
     "Schreier (2014)": "Schreier, 2014",
-    "Schreier, 2012": "Schreier, 2012",
     "Schreier, 2014": "Schreier, 2014",
     "Schreiner et al. (2019)": "Schreiner et al., 2019",
     "Schreiner et al., 2019": "Schreiner et al., 2019",
@@ -36277,7 +36269,9 @@
         "Ashraf et al., 2021"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Free School Meals.md"
+      ],
       "title": "Individual participant data meta-analysis of the impact of educational interventions on pupils eligible for free school meals."
     },
     "Ashrafzade et al., 2023": {
@@ -43792,21 +43786,6 @@
       ],
       "title": ""
     },
-    "Berelson, 1952": {
-      "aliases": [
-        "Berelson, 1952",
-        "Berelson (1952)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Berelson, 1952"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
-      ],
-      "title": ""
-    },
     "Bereményi & Carrasco, 2018": {
       "aliases": [
         "Bereményi & Carrasco, 2018",
@@ -44340,21 +44319,6 @@
       "seen_in": [
         "wiki/concepts/educational-philosophy/Epistemology.md",
         "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
-      ],
-      "title": ""
-    },
-    "Bernard Berelson, 1952": {
-      "aliases": [
-        "Bernard Berelson, 1952",
-        "Bernard Berelson (1952)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bernard Berelson, 1952"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
       ],
       "title": ""
     },
@@ -50333,8 +50297,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Rickinson_2022_UsingResearchWell.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Rickinson_2022_UsingResearchWell.md"
       ],
       "title": ""
     },
@@ -81923,7 +81886,6 @@
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Feminist Research.md",
         "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Theoretical Sampling.md"
       ],
       "title": ""
@@ -82974,21 +82936,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/uk/Ofsted.md"
-      ],
-      "title": ""
-    },
-    "Farquharson, 2005": {
-      "aliases": [
-        "Farquharson, 2005",
-        "Farquharson (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Farquharson, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Snowball Sampling.md"
       ],
       "title": ""
     },
@@ -85618,8 +85565,7 @@
         "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
         "wiki/methods/qualitative/Ethnography.md",
         "wiki/methods/qualitative/Participant Observation.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Qualitative Codebook.md"
       ],
       "title": ""
     },
@@ -93026,7 +92972,6 @@
         "wiki/concepts/research-methodology/Hypothesis.md",
         "wiki/methods/qualitative/Grounded Theory.md",
         "wiki/methods/qualitative/Negative Case Analysis.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Selective Coding.md",
         "wiki/methods/qualitative/Theoretical Sampling.md"
       ],
@@ -125819,8 +125764,7 @@
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/methods/qualitative/Content Analysis.md",
-        "wiki/methods/qualitative/Intercoder Agreement.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Intercoder Agreement.md"
       ],
       "title": ""
     },
@@ -130169,7 +130113,6 @@
         "wiki/methods/qualitative/Ethnography.md",
         "wiki/methods/qualitative/Memos.md",
         "wiki/methods/qualitative/Participant Observation.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Typological Analysis.md"
       ],
       "title": ""
@@ -133900,7 +133843,6 @@
         "wiki/methods/qualitative/Intercoder Agreement.md",
         "wiki/methods/qualitative/Negative Case Analysis.md",
         "wiki/methods/qualitative/Peer Debriefing.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Qualitative Research.md",
         "wiki/methods/qualitative/Triangulation.md",
         "wiki/methods/quantitative/Inter-Rater Reliability.md",
@@ -140442,21 +140384,6 @@
       ],
       "title": ""
     },
-    "Margrit Schreier, 2012": {
-      "aliases": [
-        "Margrit Schreier, 2012",
-        "Margrit Schreier (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Margrit Schreier, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
-      ],
-      "title": ""
-    },
     "Marianne Larsen & Sandip Mehta, 2008": {
       "aliases": [
         "Marianne Larsen & Sandip Mehta, 2008",
@@ -143051,8 +142978,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md",
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/methods/qualitative/Content Analysis.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Qualitative Codebook.md"
       ],
       "title": ""
     },
@@ -143068,6 +142994,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
+      ],
+      "title": ""
+    },
+    "Mayring, 2014": {
+      "aliases": [
+        "Mayring, 2014",
+        "Mayring (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mayring, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/methods/qualitative/Qualitative Content Analysis.md"
       ],
       "title": ""
     },
@@ -183527,21 +183468,6 @@
       ],
       "title": ""
     },
-    "Schreier, 2012": {
-      "aliases": [
-        "Schreier, 2012",
-        "Schreier (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Schreier, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
-      ],
-      "title": ""
-    },
     "Schreier, 2014": {
       "aliases": [
         "Schreier, 2014",
@@ -193005,8 +192931,7 @@
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Domain Analysis.md",
-        "wiki/methods/qualitative/Interview Protocol.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Interview Protocol.md"
       ],
       "title": ""
     },
@@ -196271,7 +196196,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Central Phenomenon.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md",
         "wiki/methods/qualitative/Selective Coding.md"
       ],
       "title": ""
@@ -212092,8 +212016,7 @@
         "wiki/methods/qualitative/Content Analysis.md",
         "wiki/methods/qualitative/Data Reduction.md",
         "wiki/methods/qualitative/Intercoder Agreement.md",
-        "wiki/methods/qualitative/Qualitative Codebook.md",
-        "wiki/methods/qualitative/Qualitative Content Analysis.md"
+        "wiki/methods/qualitative/Qualitative Codebook.md"
       ],
       "title": ""
     },

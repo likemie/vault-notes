@@ -10,7 +10,7 @@ aliases:
 summary: "诞生于 20 世纪 90 年代营销与传播学领域的跨学科分析框架，强调以统一的目标和品牌形象整合广告、公关、销售推广及接触点渠道，形成传达统一声音的内容整合与让受众接收一致信息的渠道整合；在比较教育与教育政策研究中，被用于解构主权国家如何系统打包教育成就、塑造国家教育品牌并推进跨国传播与教育出口。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Public Diplomacy]]"
   - "[[Research Question]]"
-  - "[[Screening Off]]"
   - "[[Critical Pedagogy]]"
   - "[[Discourse]]"
   - "[[Falsification]]"
@@ -102,7 +101,7 @@ updated: 2026-11-10
 > - **[[Research Question|研究问题]]** 国家或教育机构如何将分散的学术或制度优势组织为高识别度品牌，以及如何规划跨国传播路径以获取声誉或经贸收益。
 > - **分析对象与单位** 官方战略报告、跨国测评事件营销方案、外事公关档案、国家形象网站与海外宣传多媒体文本。
 > - **需要的材料** 历年国家品牌政策白皮书、外事接待与访问数据、教育出口统计、大众媒体报道文本及官方网络阅读数据。
-> - **解释目标** 评估传播策略的系统性与协同度，识别信息断裂点，并反思营销话术对深层教育现实的简化[[Screening Off|遮蔽]]。
+> - **解释目标** 评估传播策略的系统性与协同度，识别信息断裂点，并反思营销话术对深层教育现实的简化掩盖。
 
 > [!theory-framework] 命题如何转化为分析维度
 >

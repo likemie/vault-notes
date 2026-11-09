@@ -7,11 +7,11 @@ aliases:
   - chain-referral sampling
   - 受访者驱动抽样
   - respondent-driven sampling
-summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽样方法，在敏感研究中被称为网络化（networking），可通过非正式渠道绕过守门人接触隐藏群体，但需警惕初始种子偏差、同质性偏差和研究性质从概率抽样退化为便利抽样的风险。"
+summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽样方法，在敏感研究中被称为网络化，可通过非正式渠道绕过守门人接触隐藏群体或政策精英。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 47
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Research Security]]"
   - "[[External Validity]]"
+  - "[[Informed Consent]]"
 related_methods:
   - "[[Non-probability Sampling]]"
   - "[[Qualitative Interview]]"
@@ -54,111 +55,97 @@ related_methods:
   - "[[Convenience Sampling]]"
   - "[[Random Sampling]]"
   - "[[Purposeful Sampling]]"
+  - "[[Expert Interview]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Grek_2024_EERJ]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 related_theories: []
 related_facts:
   - "[[European Association for Quality Assurance in Higher Education]]"
   - "[[European Quality Assurance Register for Higher Education]]"
   - "[[European Commission]]"
   - "[[OECD]]"
+  - "[[UNESCO]]"
+  - "[[UNICEF]]"
+  - "[[World Bank]]"
+confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
 
 > [!def] Snowball Sampling
-> 滚雪球抽样（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling\|非概率抽样]]的一种具体形式。研究者首先识别少数具备所需特征的个体（种子），利用其社会网络与人际联系逐层识别并招募更多合格受访者，后者进一步提供转介，导致样本规模如滚雪球般层层扩大。该方法本质上是社会性的，高度依赖人际信任与强关系网络。
+> **滚雪球抽样（Snowball Sampling）** 亦称链式转介法（chain-referral methods），属于[[Non-probability Sampling|非概率抽样]]的具体形式。研究者首先识别少数具备目标特征的个体作为初始种子，利用其社会关系网络逐层推荐并招募更多符合资格的受访者，新加入者继续提供转介线索，使样本规模如雪球般层层拓展。该方法高度依赖人际信任与社会网络的结构性连接。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 203–204)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 难以通过正式渠道接触的隐藏人群、具有高度同质性与防御性的紧密社群、政策精英、敏感话题参与者。
-> - **问题类型** 适合回答探索性、解释性、描述性以及涉及社会关系网络的[[Research Question\|研究问题]]，特别是正式进入门槛较高的制度与空间博弈问题。
-> - **[[Unit of Analysis\|分析单位]]** 个体或嵌入特定人际关系网络中的社会行动者。
-> - **输出形式** 经由社会网络推荐链建立的非概率样本，主要以[[Qualitative Interview\|质性访谈]][[Transcription in Qualitative Research\|转录]]材料或探索性[[Questionnaire\|问卷]]数据形式呈现。
+> - **研究对象** 难以通过正式科层渠道接触的隐蔽人群、具有高度同质性与防御心理的紧密群体、跨国政策决策精英、敏感制度过程参与者。
+> - **问题类型** 适合回答探索性、描述性、解释性以及涉及社会资本动员与政策网络博弈的研究问题。
+> - **分析单位** 个体行动者或嵌入特定社会网络与机构关系中的专业文官。
+> - **输出形式** 经由关系链条拓展的非概率质性样本群体、访谈转录文稿、网络化关系映射图。
 
 > [!citation-card] 关键定义
-> 滚雪球抽样在[[Sensitive Research\|敏感研究]]中通常被称为网络化，旨在强调其借助社会关系链来规避行政审查与[[Gatekeepers\|守门人]]门槛的核心功能。每一波推荐不仅扩大了样本，同时也由于人际背书而在研究者与参与者之间建立了一层安全保护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]]（引自 Lee, 1993, p. 66）
+> 滚雪球抽样在敏感研究中通常被称为网络化，旨在借助社会关系链来规避行政审查与守门人门槛。每一波推荐不仅扩大了样本，而且依托人际背书在研究者与参与者之间建立安全保护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|(Cohen et al., 2011, Ch. 9)]]
+>
+> *Snowball sampling, often referred to as networking in sensitive research, uses social networks to access difficult-to-reach populations and bypass organizational gatekeepers through personal referrals.*
 
 ---
 
-> [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 认为个体知识与其所嵌入的社会网络结构密不可分，社会关系是获取真实经验与信任准入的合法通道，强调关系性事实的生产。
-> - **研究者角色** 研究者处于外部观察者和网络切入者的位置，必须依赖初始转介人的社会资本桥接作用，其自身的性别、职业、阶层背景会直接影响推荐链条的延伸方向。
-> - **有效性标准** 不依赖于统计意义上的大样本代表性，而取决于社会网络的覆盖深度、种子的多样性以及多起点策略下的网络[[Heterogeneity\|异质性]]。
-> - **不声称回答的问题** 无法直接推论总体的参数分布，无法宣称样本具有统计代表性，不能用于对行为发生率进行宏观推算。
+> [!method-position] 认识论与方法定位
+> - **知识观** 行动者的主观经验与其所嵌入的社会网络密不可分；社会人际信任是获取真实叙事与合法准入的关键媒介。
+> - **研究者角色** 研究者从外部观察者逐步转化为网络切入者，依赖转介人的声誉桥接克服受访者的防御心理，同时审视自身社会属性对推荐链延伸方向的塑造。
+> - **有效性标准** 依靠社会网络的纵深覆盖、多起点种子的异质性以及对转介路径的透明记录，确保经验材料的丰富度与情境可转移性。
+> - **不声称回答的问题** 不能直接推算总体的参数分布与发生率，不宣称具备统计代表性。
 
 > [!method-stack] 方法层级
-> - **研究设计** 质性[[Case Study\|案例研究]]、[[Critical Ethnography\|批判民族志]]或[[Mixed Methods Research\|混合方法研究]]中的探索性定性设计。
-> - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、非正式访谈、观察笔记与参与者网络追踪。
-> - **分析方法** 配合[[Grounded Theory\|扎根理论]]、主题编码分析、叙事重构或社会网络关系图解。
-> - **辅助技术** 多起点起点种子分流技术、多波次控制技术，以及受访者驱动抽样与声誉评议技术的结合。
+> - **研究设计** 质性案例研究、批判民族志或混合方法研究中的探索性定性设计。
+> - **数据收集** 半结构化专家访谈、生活史深度访谈、参与观察记录与非正式网络追踪。
+> - **分析方法** 扎根理论编码、质性内容分析、主题提炼与社会网络关系拓扑分析。
+> - **辅助技术** 多起点种子分流、受访者驱动抽样（RDS）、声誉评议法。
 
 ---
 
 > [!proc] 通用程序
-> 1. **识别初始种子** 寻找少数具备目标特征的个体作为抽样起点，起点的阶层与属性多样性直接决定后续网络覆盖面的广度。
-> 2. **建立信任与人际背书** 与初始种子建立信任关系，利用推荐人的声誉为研究进行社会背书，以打消被推荐者的防御心理。
-> 3. **关系网络转介扩展** 借助种子提供的线索联系下一个波次的合格行动者，由新进入者继续向更深层的人脉链条引荐。
-> 4. **多波次循环监控** 控制转介的代数，评估每一代样本在关键特征上的分布状态，若出现过度同质化则需补充新起点种子。
-> 5. **达到信息饱和** 当后续扩展不再产生新的主题经验，或达到研究设计所需的样本容量时，停止链式招募。
+> 1. **确定抽样标准与初始种子** 确立研究对象的资格界定准则，通过官方协作渠道、关键中介机构或专业同行圈选定初始种子。
+> 2. **建立互信与人际声誉背书** 与初始种子确立研究知情同意与保密承诺，借助其专业声誉或人际关系化解被推荐者的戒备。
+> 3. **多波次关系链条转介** 依据种子提供的联系线索接触下一波次受访者，逐级记录推荐关系与网络演变脉络。
+> 4. **监控网络结构与同质性偏差** 评估各波次样本在阶层、机构职能、地域与观点倾向上的分布，发现子群固化时及时补入不同背景的新种子。
+> 5. **达成信息饱和与终止招募** 当新的推荐链条不再产生新的经验主题或达到理论饱和时，结束滚雪球过程。
 
----
-
-> [!sample-panel]- 资料与进入现场
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | **材料来源** | 城乡学校教师与校长[[Qualitative Interview\|深度访谈]]、农村进城[[Peidu\|陪读]]家庭口述叙事、教育行政人员半结构化访谈。 |
-> | **抽样或选案** | 招募学校骨干教师作为初始种子节点，通过滚雪球链式转介获取进城陪读及留守乡村的家庭样本。 |
-> | **研究者位置** | 作为外部学术观察者，依赖教师群体的桥接作用获得家长的信任，遵守[[Research Ethics\|研究伦理]]与匿名保护。 |
-> | **资料边界** | 湖北省 G 县及下辖乡镇的 12 所小学，包含进城陪读、镇区陪读与乡村留守三类典型家庭类型。 |
+> | 材料来源 | 城乡公立学校教师与进城陪读家庭口述叙事；跨国组织（世界银行、联合国教科文组织、儿童基金会）离任及现任文官专家访谈文本。[[Argument_Teng_2025_CE\|(Teng & Wang, 2025)]]; [[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026)]] |
+> | 抽样或选案 | 在缺乏统一抽样框或面临行政门槛时，利用中介教师的声誉桥接，或在知情同意下从政府部门候选名册起步开展链式转介。 |
+> | 研究者位置 | 保持独立学术观察者身份；在直面行政守门人时采取网络化非正式策略，在面对微小专家群体时实行严格匿名保护。 |
+> | 资料边界 | 设定明确的转介代数与所属机构范围，以观点深度穷尽和理论饱和为终止准则。 |
 
 > [!proc] 质性分析程序
-> 1. **录音[[Transcription in Qualitative Research\|转录]]与匿名化** 将[[In-depth Interview\|深度访谈]]录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
-> 2. **主题编码分析** 提取学校撤并历史、陪读经济成本、社会资本关系网络求学渠道以及[[Cultural Capital\|文化资本]]边缘化等核心概念。
-> 3. **[[Triangulation\|三角互证]]** 将家长陈述、城乡教师评估与当地教育局官员反馈进行交叉比对，核实求学过程中的资本动员逻辑。
-> 4. **[[Rich and Thick Description\|厚描述]]呈现** 详细展示不同 [[Socioeconomic Status|SES]] 阶层在面对入学政策简化与人脉关系变现时的真实抉择与质性案例。
-
----
-
-### 典型应用案例
-
-在面临[[Sensitive Research|敏感研究]]对象或强力制度[[Gatekeepers|守门人]]的双重阻碍时，滚雪球抽样通常被转译为网络化操作策略：
-
-> [!case] Teng & Wang 的教师中介转介实践
-> 在中国县域城镇化[[School Choice\|择校]]迁移的调查中，由于进城随迁陪读家长数量庞大且缺乏统一的官方[[Sampling Frame\|抽样框]]，且部分农村家长对外部调查者存在防御心理。研究者采取了**教师中介转介**策略。首先，在 G County 选定的 12 所城乡公立学校中自愿招募部分城乡骨干教师作为初始种子节点（brokers）。通过这些教师的声誉桥接与信任引荐，成功招募并分类滚雪球出 128 名具有代表性的农村家庭访谈样本（包括县城陪读、镇区陪读及乡村非陪读家庭）。这一实践展示了在缺乏制度化抽样框时，如何利用特定[[Champ\|场域]]内的关键行动者来安全、高效地获取信任累积与样本拓展。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 305)]]
-
-> [!case] Morrison 的非正式网络化绕过实践
-> 在中国进行敏感教育行政研究时，Morrison 遭遇了学校守门人（如拒绝外部研究者准入的校长与高级职员）的强力行政抵制。研究者决定采取非正式网络化策略，绕过官方层级通道，转向私人朋友、专业同行和同学建立的信任推荐网络。通过这一非官方的关系引荐链条，逐层滚雪球接触到了多位学校教师与行政内部人员，获得了原本被制度行政封锁的真实资料，表明了雪球转介在突破守门人[[Screening Off\|屏蔽]]层方面的[[Pragmatic Paradigm\|实用主义]]价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]]
-
----
-
-> [!info] 滚雪球抽样的两种学术变体
-> - **受访者驱动抽样（Respondent-Driven Sampling, RDS）** 不仅由受访者提供联系方式，还直接由受访者承担招募其社交同伴（peers）的责任。在无法获取抽样框且人群极度防御隐私的情况下尤为适用，受访者之间的信任度远远高于外部研究者。（Heckathorn, 1997, 2002）
-> - **声誉滚雪球（Reputational Snowball）** 侧重于利用特定社会或[[Policy Network\|政策网络]]中行动者对彼此声望、权力影响力的评估，来逐步锁定起决策作用的关键精英，适合政策网络与权力精英结构的研究。（Farquharson, 2005）
+> 1. **全文本转录与严格去标识化** 录音转录后对涉及的机构、姓名、地理节点及具体项目执行深度匿名处理，防范因关系链条追溯造成身份暴露。
+> 2. **关系链与叙事主题交叉编码** 结合受访者在网络中的位置属性，对政策博弈、资源依附、文化资本及行政常规展开主题编码。
+> 3. **多源证据三角互证** 将滚雪球获得的内部口述与官方正式公文、统计档案及公开报道交叉比对，核实关键制度细节。
+> 4. **厚描述呈现行动逻辑** 展示行动者在制度约束下的抉择过程，阐明社会网络如何形塑教育实践与政策话语。
 
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 边缘或隐藏人群的研究，如流动家庭、少数族裔或敏感行为人群；在政治或商业机构面临[[Gatekeepers\|守门人]]拒绝正式准入时的替代路径；在网络信任不发达的熟人社会中，需要依赖中间人引荐建立初始信任的现场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]]
-> - **谨慎使用** 必须尽可能采取多起点、多方向的种子发散策略，以避免初始种子带入过度相似的子群偏差；必须警惕研究性质无意识地退化为[[Convenience Sampling\|便利抽样]]，从而严重削弱发现的可转移性。
-> - **不适合使用** 研究目标要求对总体参数进行无偏的点估计，或者研究要求样本具备严格的统计代表性时。
+> - **适合使用** 边缘、流动或高度私密群体的质性探究；正式科层机构守门人严格限制外部准入时的替代路径；缺乏公开抽样框的跨国政策网络与专业文官内部研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|(Cohen et al., 2011, Ch. 9)]]; [[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–673)]]
+> - **谨慎使用** 必须实施多起点、多方位的种子发散策略，防止过度局限于单一社交圈；警惕因扩展层级不足而无意识退化为便利抽样。
+> - **不适合使用** 研究目标要求对总体参数开展无偏点估计，或要求严格概率代表性的量化实证调查。
 
 ---
 
 > [!method-limits] 方法局限
-> - **初始种子偏差** 初始种子的阶层、种族或性别特质会系统性地主导后续样本网络。如 Browne (2005) 发现自身的中产白人女性身份所招募的初始种子，滚雪球出的均是相似背景的社交圈，无形中排除了边缘子群。（引自 Browne, 2005）
-> - **[[Gatekeepers\|守门人]]保护性偏差** 处于转介链节点上的行动者，可能会出于对家人、同事隐私的防备和保护，选择性中断链条，过滤掉可能暴露冲突或负面信息的受访者。（引自 Heckathorn, 1997）
-> - **同质性与传递性局限** 受访者推荐网络的互惠性与传递性（reciprocity and transitivity）极强，导致拉进来的新样本系统性地继承了上一波受访者的社会阶层与态度倾向，限制了结论的外推效度。（引自 Lee, 1993）
-> - **退化为[[Convenience Sampling\|便利抽样]]的风险** 在具体实施中，滚雪球常常因为扩展层级过少或终止过早，实质上沦为便利抽样，进而伤害推广性，必须结合跨案例对比等混合研究设计进行补救。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, pp. 203–205)]]
-
-> [!warning] 互惠性与安全的代价
-> 滚雪球虽然利用人际背书增强了[[Sensitive Research\|敏感研究]]中的[[Research Security\|研究安全]]性，保护了隐私，但这种安全性是建立在社交重叠性之上的，其代价是进一步收窄了样本的变异幅度。研究者必须在实证报告中对此保持透明度。
+> - **初始种子偏差** 初始种子的阶层、性别、政治倾向会系统性引导后续样本轨迹，容易排除异质性边缘子群（Browne, 2005）。
+> - **守门人保护性拦截与网络同质性** 处于推荐链节点上的受访者可能出于保护同事或机构隐私的意愿，主动中断推荐或仅引荐持相同立场的人士，导致样本观点过度集中（Lee, 1993; Heckathorn, 1997）。
+> - **小规模专家圈层的反向识别风险** 当滚雪球运用于特定国别或高层政策文官时，由于专业群体规模狭小，即使隐去姓名，个案职务特征仍易被圈内同行推断识别，必须对工作年限与机构信息进行多级泛化整合。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–673)]]
+> - **退化为便利抽样的风险** 扩展波次过短或过早终止容易使样本沦为研究者近邻圈层的便利组合，损伤研究发现的分析性推广价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 203–205)]]
+> - **补救方式** 增加初始种子的多样性与多部门分布，设立终止波次规则，并结合政策文本、档案与对立利益相关者证言进行三角互证。
 
 ---
 
@@ -166,14 +153,16 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Non-probability Sampling]] | 上级方法 | 滚雪球抽样是非[[Random Sampling\|概率抽样]]的一种具体形式，共享其无法保证统计代表性的方法论特征。 |
-> | [[Convenience Sampling]] | 退化方向 | 当滚雪球抽样的波次不足或种子选择缺乏多样性时，可能退化为便利抽样，导致样本的[[External Validity\|可推广性]]进一步降低。 |
-> | [[Purposeful Sampling]] | 补充方法 | 目的性抽样可用于选择具有最大差异的初始种子，从而缓解滚雪球抽样的同质性偏差。 |
-> | [[Gatekeepers]] | 相关概念 | 滚雪球抽样常被用作绕过守门人行政控制的工具，守门人的存在通常是该抽样策略被采用的直接动因之一。 |
+> | [[Non-probability Sampling]] | 父方法 | 滚雪球抽样是非概率抽样的一种具体形式，共享不具备概率代表性的特征。 |
+> | [[Convenience Sampling]] | 退化方向 | 缺乏波次控制与种子多样性时，滚雪球抽样易退化为便利抽样。 |
+> | [[Purposeful Sampling]] | 互补方法 | 目的抽样用于在初期遴选具有最大变异的种子节点，以缓解滚雪球的同质性偏差。 |
+> | [[Gatekeepers]] | 核心概念 | 守门人的制度性阻隔是研究者转向非正式网络化滚雪球抽样的关键动因。 |
+> | [[Informed Consent]] | 伦理规范 | 在借助官方名单作为种子起点开展链式转介时，必须以前置知情同意为伦理基石。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Teng_2025_CE|Teng and Wang (2025, p. 305)]] — 招募公立学校教师作为转介起点（种子），通过滚雪球抽样获取进城[[Peidu|陪读]]与留守乡村的农村家庭访谈样本。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍滚雪球、受访者驱动与声誉滚雪球抽样及其系统偏差；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Ch. 9]] 讨论用网络化绕过[[Gatekeepers|守门人]]接触特殊群体，及其同质性偏差。
-> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样在欧洲高等教育质保政策网络中逐层招募 [[European Association for Quality Assurance in Higher Education|ENQA]]、[[European Quality Assurance Register for Higher Education|EQAR]]、[[European Commission|欧盟委员会]]及[[OECD|经合组织]]的高级决策官员，揭示决策精英幕后互动与组织共生机制。
+> - [[Argument_Teng_2025_CE|Teng and Wang (2025, p. 305)]] — 招募公立学校教师作为转介种子，通过滚雪球抽样获取 128 名进城陪读与留守乡村的农村家庭访谈样本。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统阐述滚雪球抽样、受访者驱动抽样与声誉滚雪球的技术规程及其系统偏差；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Ch. 9]] 讨论运用非正式网络化策略绕过守门人行政屏蔽以进入敏感现场。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 在欧洲高等教育质保政策网络中逐层招募 ENQA、EQAR、欧盟委员会及经合组织的高级决策官员，揭示跨国官僚协同机制。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 依托芬兰外交部初始候选名单在知情同意下开展滚雪球抽样，招募 23 位曾在三大国际组织任职的芬兰教育专家。
