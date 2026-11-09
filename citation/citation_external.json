@@ -7243,8 +7243,10 @@
     "Escamilla (1997)": "Escamilla, 1997",
     "Escamilla, 1997": "Escamilla, 1997",
     "Escobar (1995)": "Escobar, 1995",
+    "Escobar (2011)": "Escobar, 2011",
     "Escobar (2018)": "Escobar, 2018",
     "Escobar, 1995": "Escobar, 1995",
+    "Escobar, 2011": "Escobar, 2011",
     "Escobar, 2018": "Escobar, 2018",
     "Eshel (2001)": "Eshel, 2001",
     "Eshel, 2001": "Eshel, 2001",
@@ -11542,6 +11544,8 @@
     "Iversen, 2005": "Iversen, 2005",
     "Iverson & Walberg (1982)": "Iverson & Walberg, 1982",
     "Iverson & Walberg, 1982": "Iverson & Walberg, 1982",
+    "Iveta Silova (2026)": "Iveta Silova, 2026",
+    "Iveta Silova, 2026": "Iveta Silova, 2026",
     "Iyengar & Lepper (1999)": "Iyengar & Lepper, 1999",
     "Iyengar & Lepper, 1999": "Iyengar & Lepper, 1999",
     "Izci & Akkoc (2024)": "Izci & Akkoc, 2024",
@@ -13678,6 +13682,8 @@
     "Kwong (2004)": "Kwong, 2004",
     "Kwong, 2004": "Kwong, 2004",
     "Kyle (2013)": "Kyle, 2013",
+    "Kyle Whyte (2021)": "Kyle Whyte, 2021",
+    "Kyle Whyte, 2021": "Kyle Whyte, 2021",
     "Kyle, 2013": "Kyle, 2013",
     "Kyndt et al. (2013a)": "Kyndt et al., 2013a",
     "Kyndt et al. (2013b)": "Kyndt et al., 2013b",
@@ -21374,7 +21380,9 @@
     "Schraw et al., 2002": "Schraw et al., 2002",
     "Schraw, 1998": "Schraw, 1998",
     "Schreier (2012)": "Schreier, 2012",
+    "Schreier (2014)": "Schreier, 2014",
     "Schreier, 2012": "Schreier, 2012",
+    "Schreier, 2014": "Schreier, 2014",
     "Schreiner et al. (2019)": "Schreiner et al., 2019",
     "Schreiner et al., 2019": "Schreiner et al., 2019",
     "Schriewer & Martinez (2004)": "Schriewer & Martinez, 2004",
@@ -25545,12 +25553,14 @@
     "Whyte (1986)": "Whyte, 1986",
     "Whyte (1991)": "Whyte, 1991",
     "Whyte (1993)": "Whyte, 1993",
+    "Whyte (2021)": "Whyte, 2021",
     "Whyte, 1943": "Whyte, 1943",
     "Whyte, 1955": "Whyte, 1955",
     "Whyte, 1982": "Whyte, 1982",
     "Whyte, 1986": "Whyte, 1986",
     "Whyte, 1991": "Whyte, 1991",
     "Whyte, 1993": "Whyte, 1993",
+    "Whyte, 2021": "Whyte, 2021",
     "Wicaksono (2018)": "Wicaksono, 2018",
     "Wicaksono, 2018": "Wicaksono, 2018",
     "Wichter & Busch (2006)": "Wichter & Busch, 2006",
@@ -80508,6 +80518,21 @@
       ],
       "title": ""
     },
+    "Escobar, 2011": {
+      "aliases": [
+        "Escobar, 2011",
+        "Escobar (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Escobar, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
+      ],
+      "title": ""
+    },
     "Escobar, 2018": {
       "aliases": [
         "Escobar, 2018",
@@ -111953,6 +111978,21 @@
       "seen_in": [],
       "title": "Home environment and school learning: A quantitative synthesis"
     },
+    "Iveta Silova, 2026": {
+      "aliases": [
+        "Iveta Silova, 2026",
+        "Iveta Silova (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Iveta Silova, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Crisis Epistemology.md"
+      ],
+      "title": ""
+    },
     "Iyengar & Lepper, 1999": {
       "aliases": [
         "Iyengar & Lepper, 1999",
@@ -127206,6 +127246,21 @@
         "wiki/concepts/sociology-of-education/Migrant Children.md",
         "wiki/facts/china/Hukou System.md",
         "wiki/facts/china/Schools for Migrant Children.md"
+      ],
+      "title": ""
+    },
+    "Kyle Whyte, 2021": {
+      "aliases": [
+        "Kyle Whyte, 2021",
+        "Kyle Whyte (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kyle Whyte, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Crisis Epistemology.md"
       ],
       "title": ""
     },
@@ -147124,6 +147179,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
+        "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md",
         "wiki/concepts/political-economy-geopolitics/De-Westernisation.md",
         "wiki/concepts/political-economy-geopolitics/Re-Westernisation.md"
       ],
@@ -183256,6 +183312,21 @@
       ],
       "title": ""
     },
+    "Schreier, 2014": {
+      "aliases": [
+        "Schreier, 2014",
+        "Schreier (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schreier, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
+      ],
+      "title": ""
+    },
     "Schreiner et al., 2019": {
       "aliases": [
         "Schreiner et al., 2019",
@@ -213255,6 +213326,21 @@
         "wiki/concepts/research-methodology/Sponsor in Research.md",
         "wiki/methods/qualitative/Member Checking.md",
         "wiki/persons/us/William Foote Whyte.md"
+      ],
+      "title": ""
+    },
+    "Whyte, 2021": {
+      "aliases": [
+        "Whyte, 2021",
+        "Whyte (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Whyte, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
       ],
       "title": ""
     },

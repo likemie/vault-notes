@@ -12713,6 +12713,15 @@
     ]
   },
   {
+    "title": "Crisis Epistemology",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Crisis Epistemology.md",
+    "aliases": [
+      "危机认识论",
+      "危机认识论视角"
+    ]
+  },
+  {
     "title": "Cultural Diplomacy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy.md",
@@ -49117,6 +49126,11 @@
     "title": "Argument_McKnight_2020_Discourse",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md"
+  },
+  {
+    "title": "Argument_Santos_Silova_2026_Discourse",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
   },
   {
     "title": "Argument_Verger_2019_Discourse",
