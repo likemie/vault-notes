@@ -11,10 +11,10 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 47
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/teacher-education
   - theme/comparative-education
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Faculty Psychology]]"
   - "[[School Inspection]]"
+  - "[[Learning Crisis]]"
+  - "[[Transnational Education]]"
+  - "[[Pedagogical Subject]]"
   - "[[Document]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Knowledge Production]]"
   - "[[Reflexivity]]"
   - "[[Critical Pedagogy]]"
   - "[[Dual School System]]"
@@ -46,6 +48,7 @@ related_concepts:
   - "[[Learning Styles]]"
   - "[[Neuromyth]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -73,9 +76,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Besa_2024_UW]]"
   - "[[Argument_Knogler_2025_BB]]"
-  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: completed
 created: 2026-06-07
@@ -145,7 +148,7 @@ updated: 2026-11-10
 > **师范示范体系是超越国界的国际和平治理基础设施** 马克-安托万·朱利安在 1817 年《计划》中将“师范教育（normal education）”单列为比较教育全景考察的第四大核心支柱，并开创性地提议由多国联合建立常设国际示范师范学院（Normal Institute of Education），出版多语种教育通报，统一全欧优秀教学法与师资准则，以跨国专业师范网络消除欧洲野蛮战争与政治动荡。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 22)]]；引自 Fraser (1964:39)
 
 > [!claim] [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]]
-> **正规师范建制对外部短期培训依赖的阻断** 在全球教育治理与国际援助中，国际组织常推行以数周工作坊为载体的短期教师培训，企图以速成干预弥补学习危机。受访的芬兰跨国教育发展专家指出，缺乏正规师范学校对教师进行长期、系统的学科知识与教学伦理涵育，单纯依靠外部资助的短期培训无法筑牢教育质量根基，反而将受援国锁定在对外部技术专家的长久依附中；恢复并巩固正规师范教育建制是捍卫受援国教育主体性与可持续发展的制度屏障。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 676–677)]]
+> **正规师范建制对外部短期培训依赖的阻断** 在全球教育治理与国际援助中，国际组织常推行以数周工作坊为载体的短期教师培训，企图以速成干预弥补[[Learning Crisis|学习危机]]。受访的芬兰[[Transnational Education|跨国教育]]发展专家指出，缺乏正规师范学校对教师进行长期、系统的学科知识与教学伦理涵育，单纯依靠外部资助的短期培训无法筑牢教育质量根基，反而将受援国锁定在对外部技术专家的长久依附中；恢复并巩固正规师范教育建制是捍卫受援国[[Pedagogical Subject|教育主体]]性与可持续发展的制度屏障。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 676–677)]]
 
 ---
 
@@ -242,3 +245,4 @@ updated: 2026-11-10
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统梳理 19 世纪大西洋两岸先驱（朱利安、[[Victor Cousin\|库森]]、曼、斯托）如何将普鲁士公立师范学校经验转译为母国确立[[State Educational Sovereignty\|国家教育权]]与公学法案的合法化武器。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用[[Relational Space\|关系性空间]]与[[Circular Transfer\|循环转移]]视角，追踪师范学校从欧陆经北美向阿根廷等拉美国家的空间流动、本土转化与制度变迁轨迹。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示大学师范教育职前知识供给的时效半衰期与在岗教师研究接触负荷，论证借助二阶清算中介与大学教师教育者乘数群体实现三阶段教师教育全流程循证[[Knowledge Mobilisation\|知识动员]]的必要性。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 针对全球学习危机[[Discourse|话语]]反思国际援助中的教师培训策略，批判速成工作坊的短视性，论证正规师范学校长期学科涵育对保障受援国教育主权与专业根基的制度不可替代性（pp. 676–677）。

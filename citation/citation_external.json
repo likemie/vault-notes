@@ -5453,6 +5453,8 @@
     "Cruz, 2023": "Cruz, 2023",
     "Csapó (1992)": "Csapó, 1992",
     "Csapó, 1992": "Csapó, 1992",
+    "Csikszentmihalyi (1990)": "Csikszentmihalyi, 1990",
+    "Csikszentmihalyi, 1990": "Csikszentmihalyi, 1990",
     "Cuban (1986)": "Cuban, 1986",
     "Cuban (1992)": "Cuban, 1992",
     "Cuban, 1986": "Cuban, 1986",
@@ -67432,6 +67434,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Improving Operational Abilities in Children"
+    },
+    "Csikszentmihalyi, 1990": {
+      "aliases": [
+        "Csikszentmihalyi, 1990",
+        "Csikszentmihalyi (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Csikszentmihalyi, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/learning-science-cognitive-science/Flow.md"
+      ],
+      "title": ""
     },
     "Cuban, 1986": {
       "aliases": [
@@ -224912,6 +224929,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/comparative-education/Education Export.md",
         "wiki/concepts/comparative-education/Nation Branding.md",
         "wiki/concepts/educational-policy-reform/Quasi-market.md",
         "wiki/concepts/sociology-of-education/Problematisation.md"
