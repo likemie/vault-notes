@@ -32,12 +32,10 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Democratisation of Expertise]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Evaluation Research]]"
   - "[[Differentiated Instruction]]"
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Grandes Ecoles]]"
   - "[[Extending School Time]]"
   - "[[Tacit Knowledge]]"
   - "[[Literature Search]]"
@@ -47,27 +45,34 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Assemblage]]"
   - "[[Champ]]"
-related_theories: []
+related_theories:
+  - "[[Policy as a Process]]"
 related_methods:
   - "[[Expert Interview]]"
   - "[[Bibliometric Analysis]]"
   - "[[In-depth Interview]]"
+  - "[[Criss-Crossing Comparison]]"
   - "[[Case Study]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Transcription in Qualitative Research]]"
 related_instruments: []
 related_persons:
+  - "[[Stephen Ball]]"
   - "[[Ray Pawson]]"
 related_facts:
+  - "[[Fagfornyelsen]]"
+  - "[[POLNET]]"
   - "[[OECD]]"
-  - "[[Science Foundation Ireland]]"
-  - "[[The Green Book]]"
+  - "[[Danish Public School Reform]]"
+  - "[[Finnish National Core Curriculum]]"
+  - "[[Ludvigsen Commission]]"
+  - "[[Danish School Council]]"
+  - "[[Danish Evaluation Institute]]"
+  - "[[Danish National Centre for Social Research]]"
   - "[[Finnish Education Evaluation Centre]]"
   - "[[PISA]]"
-  - "[[Evidence Network]]"
-  - "[[CORE Education]]"
-  - "[[Danish Public School Reform]]"
+  - "[[The Green Book]]"
   - "[[European Commission]]"
 related_arguments: []
 sources:
@@ -75,14 +80,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Volmari_2025_CE"
 argument_key: "Argument_Volmari_2025_CE"
 argument_display_title: "Scientification or political legitimation? Tracing the concepts of evidence and context in Nordic school reforms"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -102,7 +107,7 @@ issuing_organization: ""
 > 学校改革中的证据采信深嵌于政治合法化博弈与非正式社会关系网络之中；各国的改革背景属于关系性的大写背景（[[Context in Comparative Education|Big-C Context]]），由决策者在挑选证据、平衡本土合法性与吸纳全球素养话语的过程中共同建构而成，超越了预设静止的制度容器假定。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 丹麦 2014 年公立学校改革（Folkeskole Reform 2014）、芬兰 2014 年国家基础教育核心课程改革（Perusopetuksen opetussuunnitelman perusteet, POPS 2014）以及挪威 2020 年知识促进改革更新（Fagfornyelsen 2020）的核心政策文件（16 份官方[[Document|文献]]、1,314 条引文）与 15 位关键决策者及委员会[[Expert Interview|专家访谈]]。
+> - **对象** 丹麦 2014 年公立学校改革（Folkeskole Reform 2014）、芬兰 2014 年国家基础教育核心课程改革（Perusopetuksen opetussuunnitelman perusteet, POPS 2014）以及挪威 2020 年[[Fagfornyelsen|知识促进改革更新]]（Fagfornyelsen 2020）的核心政策文件（16 份官方[[Document|文献]]、1,314 条引文）与 15 位关键决策者及委员会[[Expert Interview|专家访谈]]。
 > - **张力** 官方公开标榜的客观中立与科学循证理念，与实际运作中学术证据显性占比偏低、依赖熟人社交圈、行政官员默会裁量以及政治方案后置辩护之间的落差。
 > - **贡献** 结合比较教育中的关系性背景观（c/Context）与[[Scientization of Politics|政治科学化]]理论，解构了[[Nordic Model of Education|北欧教育模式]]表面的一致性，揭示了证据采信在国家体制、改革议题与专家网络中的三重情境特征，并阐明跨国技能话语如何在本土改革中转化为政治合法化工具。
 
@@ -113,7 +118,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **政治科学化与科学政治化**<br>[[Scientization of Politics]] | 阐释决策系统如何日益依赖学术专家提供客观权威，以及政治议程反向筛选、操纵和工具化利用科学研究的双向缠绕机制 (Maasen & Weingart, 2005; Weingart, 2003)。 |
 > | **比较教育中的关系性背景观**<br>[[Context in Comparative Education]] | 区分静态容器式的小写背景（small-c context）与处于持续生成流动之中的大写背景（Big-C Context），揭示背景是在知识、专家与跨国话语的交织装配中被共同建构的 (Sobe & Kowalczyk, 2012, 2014, 2018)。 |
-> | **政策作为过程**<br>[[Policy as a Process]] | 依据[[Stephen Ball|史蒂芬·鲍尔]]（Stephen Ball; Ball, 2017）与桑德拉·泰勒（Sandra Taylor; Taylor et al., 1997）的批判政策理论，将政策视为持续处于协商、妥协与话语权力博弈中的动态演化过程，关注政策文本生产背后的微观行动者。 |
+> | **政策作为过程**<br>[[Policy as a Process]] | 依据[[Stephen Ball\|史蒂芬·鲍尔]]（Stephen Ball; Ball, 2017）与桑德拉·泰勒（Sandra Taylor; Taylor et al., 1997）的批判政策理论，将政策视为持续处于协商、妥协与话语权力博弈中的动态演化过程，关注政策文本生产背后的微观行动者。 |
 > | **政策导向型证据**<br>[[Policy-Based Evidence-Making]] | 基于[[Ray Pawson\|雷·波森]]（Ray Pawson; Pawson, 2006）的概念，刻画决策者预先确立政治方案、随后逆向挑选实证研究作为辩护支撑的工具化[[Research Utilization\|证据使用]]逻辑。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -124,7 +129,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献计量分析**<br>[[Bibliometric Analysis]] | 依托[[POLNET|国际比较背景下北欧学校改革政策知识与经验借鉴项目]]（Policy Knowledge and Lesson Drawing in Nordic School Reform, POLNET），提取丹麦、芬兰与挪威 16 份核心改革文本中的 1,314 条参考文献，量化测定同行评议学术刊物文献在各类政策文本引证网络中的实际占比与学科分布。 |
+> | **文献计量分析**<br>[[Bibliometric Analysis]] | 依托[[POLNET\|国际比较背景下北欧学校改革政策知识与经验借鉴项目]]（Policy Knowledge and Lesson Drawing in Nordic School Reform, POLNET），提取丹麦、芬兰与挪威 16 份核心改革文本中的 1,314 条参考文献，量化测定同行评议学术刊物文献在各类政策文本引证网络中的实际占比与学科分布。 |
 > | **半结构化专家访谈**<br>[[Expert Interview]] | 针对曾直接参与上述三国改革提案起草与委员会决策的 15 位关键行动者实施 60 至 90 分钟[[In-depth Interview\|深度访谈]]，重点挖掘证据筛选准则、熟人网络引荐、咨询研讨会流程及权力协商机制。 |
 > | **理论导向主题分析**<br>Thematic Qualitative Analysis | 围绕关系性背景（c/Context）、政治科学化、[[Democratisation of Expertise\|专业知识民主化]]与政策合法化等核心理论构念，对访谈逐字转录文稿展开演绎与归纳双向结合的系统编码。 |
 > | **交叉比较分析**<br>[[Criss-Crossing Comparison]] | 摒弃固定国家容器的传统静态比对，追踪知识形态、专业网络与跨国政策理念（如[[OECD\|经济合作与发展组织]]［Organisation for Economic Co-operation and Development, OECD］素养框架）在不同国家改革节点间的穿梭流动与重组轨迹。 |
@@ -132,22 +137,22 @@ issuing_organization: ""
 > [!sample-panel]- 北欧三国学校改革[[Case Study|案例研究]]设计、数据与方法
 > | 维度 | 丹麦 | 芬兰 | 挪威 |
 > |------|------|------|------|
-> | **考察改革案例** | [[Danish Public School Reform|公立学校改革]]（Public School Reform 2013/2014） | [[Finnish National Core Curriculum|国家基础教育核心课程改革]]（National Core Curriculum of Finland 2014） | [[Fagfornyelsen|知识促进改革更新]]（The Renewal of the Knowledge Promotion Reform 2020） |
+> | **考察改革案例** | [[Danish Public School Reform\|公立学校改革]]（Public School Reform 2013/2014） | [[Finnish National Core Curriculum\|国家基础教育核心课程改革]]（National Core Curriculum of Finland 2014） | [[Fagfornyelsen\|知识促进改革更新]]（The Renewal of the Knowledge Promotion Reform 2020） |
 > | **改革核心内容** | 涵盖学校组织架构调整与课程教学重组（延长在校时长、增加丹麦语与数学课时、每日体育锻炼、提早外语启蒙） | 聚焦课时分配标准与核心课程总纲修订（课时分配法令 Decree 422/2012，确立全国统一教学目标框架并授权国家教育署编制分科大纲） | 聚焦基础教育课程核心内容与未来素养体系重构（审议中小学学科内容、评估未来社会与劳动市场所需[[21st Century Skills and Competencies Discourse\|关键能力]]） |
-> | **文献计量焦点** | 丹麦政府 2012 年发布的改革提案等 4 份核心政策文件 | 芬兰 2012 年课时分配与总体目标修订提案等 10 份核心政策文件 | [[Ludvigsen Commission|卢德维格森委员会]]（Ludvigsen Commission）2014 与 2015 年两份挪威国家官方调查报告（Norges offentlige utredninger, NOU） |
+> | **文献计量焦点** | 丹麦政府 2012 年发布的改革提案等 4 份核心政策文件 | 芬兰 2012 年课时分配与总体目标修订提案等 10 份核心政策文件 | [[Ludvigsen Commission\|卢德维格森委员会]]（Ludvigsen Commission）2014 与 2015 年两份挪威国家官方调查报告（Norges offentlige utredninger, NOU） |
 > | **政策引文样本** | 4 份核心文献，共计 231 条引文 | 10 份核心文献，共计 677 条引文 | 2 份核心文献，共计 406 条引文 |
 > | **学术文献占比** | 同行评议学术期刊文献占比 16.02% | 同行评议学术期刊文献占比 9.45% | 同行评议学术文献占比较高（明确侧重[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]） |
-> | **访谈样本构成** | 4 位高层受访者（前教育部官员 1 人、前国会议员 1 人、[[Danish School Council|学校委员会]]成员 2 人） | 5 位起草专家（2012 年工作组成员 1 人、2010 年工作组成员 4 人） | 6 位委员会成员（均为官方调查委员会核心专家） |
+> | **访谈样本构成** | 4 位高层受访者（前教育部官员 1 人、前国会议员 1 人、[[Danish School Council\|学校委员会]]成员 2 人） | 5 位起草专家（2012 年工作组成员 1 人、2010 年工作组成员 4 人） | 6 位委员会成员（均为官方调查委员会核心专家） |
 > | **访谈执行规程** | 录音时长 60 至 90 分钟，完整[[Transcription in Qualitative Research\|逐字转录]]，赋予国家代号与序号（如 DK-I1、FI-I2、NO-I3） | 同左 | 同左 |
 
 > [!sample-panel]- 北欧三国核心政策文献档案
 > | 国家 | 官方文件名称（本国语言） | 对应英文名称与发布机构 | 文件性质与在改革中的定位 |
 > |---|---|---|---|
 > | **丹麦** | Gør en god skole bedre – et faglig løft af folkeskolen（2012 年） | Make a Good School Better – Improving the Academic Level of the Public School (Danish Government) | 核心改革提案，确立延长学时与强化基础学科 |
-> | **丹麦** | Beretning om Evaluering og Kvalitetsudvikling af Folkeskolen 2011 | Report on the Evaluation of Quality Development of the Public School 2011 ([[Danish School Council]]) | [[Danish School Council|学校委员会]]年度质量评估报告 |
-> | **丹麦** | Beretning om Evaluering og Kvalitetsudvikling af Folkeskolen 2012 | Report on the Evaluation of Quality Development of the Public School 2012 ([[Danish School Council]]) | [[Danish School Council|学校委员会]]年度质量评估报告 |
-> | **丹麦** | Undervisningsdifferentiering som bærende pædagogisk princip（2011 年） | Differentiated Teaching as a Core Pedagogical Principle ([[Danish Evaluation Institute]]) | [[Danish Evaluation Institute|丹麦评估研究所]]关于分层[[Differentiated Instruction\|差异化教学]]的研究报告 |
-> | **丹麦** | Ledelse af folkeskolerne – vilkår og former for skoleledelse（2011 年） | Leadership in the Public Schools – Conditions and Forms of School Management ([[Danish National Centre for Social Research|SFI]]) | [[Danish National Centre for Social Research|丹麦国家社会研究中心]]（The Danish National Centre for Social Research, SFI）关于[[School Leadership\|学校领导力]]条件之调查 |
+> | **丹麦** | Beretning om Evaluering og Kvalitetsudvikling af Folkeskolen 2011 | Report on the Evaluation of Quality Development of the Public School 2011 ([[Danish School Council]]) | [[Danish School Council\|学校委员会]]年度质量评估报告 |
+> | **丹麦** | Beretning om Evaluering og Kvalitetsudvikling af Folkeskolen 2012 | Report on the Evaluation of Quality Development of the Public School 2012 ([[Danish School Council]]) | [[Danish School Council\|学校委员会]]年度质量评估报告 |
+> | **丹麦** | Undervisningsdifferentiering som bærende pædagogisk princip（2011 年） | Differentiated Teaching as a Core Pedagogical Principle ([[Danish Evaluation Institute]]) | [[Danish Evaluation Institute\|丹麦评估研究所]]关于分层[[Differentiated Instruction\|差异化教学]]的研究报告 |
+> | **丹麦** | Ledelse af folkeskolerne – vilkår og former for skoleledelse（2011 年） | Leadership in the Public Schools – Conditions and Forms of School Management ([[Danish National Centre for Social Research\|SFI]]) | [[Danish National Centre for Social Research\|丹麦国家社会研究中心]]（The Danish National Centre for Social Research, SFI）关于[[School Leadership\|学校领导力]]条件之调查 |
 > | **芬兰** | Tulevaisuuden perusopetus | Future Basic Education | 面向未来的基础教育愿景规划文本 |
 > | **芬兰** | Perusopetus 2020 – yleiset valtakunnalliset tavoitteet ja tuntijako | Basic Education 2020: Common National Aims and Division of Teaching Hours | 基础教育 2020 全国总目标与课时分配方案建议书 |
 > | **芬兰** | Opinto-ohjauksen arviointi perusopetuksessa, lukiossa ja ammatillisessa koulutuksessa | Evaluation of Student Counseling in Basic Education, Upper Secondary and VET | 基础教育、高中与职业教育学生升学指导评估报告 |
@@ -158,8 +163,8 @@ issuing_organization: ""
 > | **芬兰** | Liikunnan oppimistulosten seuranta-arviointi perusopetuksessa 2010 | Evaluation of Learning Results in Physical Education 2010 | 基础教育体育学科学习成效监测评估专报 |
 > | **芬兰** | Luonnontieteiden seuranta-arviointi | Evaluation of Natural Sciences | 自然科学学科学业表现国家监测报告 |
 > | **芬兰** | Historian ja yhteiskuntaopin oppimistulokset perusopetuksen päättövaiheessa 2011 | Evaluation of Learning Results in History and Social Studies 2011 | 基础教育历史与社会研究学科学习成效评估报告 |
-> | **挪威** | Elevenes læring i fremtidens skole – Et kunnskapsgrunnlag (NOU 2014: 7) | Student Learning in the School of the Future – A Knowledge Base | [[Ludvigsen Commission|卢德维格森委员会]]首期绿皮书，奠定改革研究知识库 |
-> | **挪威** | The School of the Future. Renewal of Subjects and Competences (NOU 2015: 8) | The School of the Future: Renewal of Subjects and Competences | [[Ludvigsen Commission|卢德维格森委员会]]最终白皮书，重构学科核心素养 |
+> | **挪威** | Elevenes læring i fremtidens skole – Et kunnskapsgrunnlag (NOU 2014: 7) | Student Learning in the School of the Future – A Knowledge Base | [[Ludvigsen Commission\|卢德维格森委员会]]首期绿皮书，奠定改革研究知识库 |
+> | **挪威** | The School of the Future. Renewal of Subjects and Competences (NOU 2015: 8) | The School of the Future: Renewal of Subjects and Competences | [[Ludvigsen Commission\|卢德维格森委员会]]最终白皮书，重构学科核心素养 |
 
 ---
 
@@ -187,7 +192,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 政策文件极少直接引用学术期刊成果
 
 > [!result-reading] 核心政策文本的文献类型分布与实证检验
-> 依据[[Gita Steiner-Khamsi|吉塔·施泰纳-哈姆西]]（Gita Steiner-Khamsi; Steiner-Khamsi, 2022）关于文献引用作为证据有效性背书（validation of evidence）的技术界定，纳入分析的 16 份核心政策文本被分类编码为报告、专著、同行评议期刊成果、政府法令公报与其他文献。统计表明，丹麦改革提案中同行评议期刊成果占比仅为 16.02%，芬兰核心文件中更仅占 9.45%；挪威官方调查报告虽包含较多学术引文，但总体仍被评估公报与行政咨询材料摊薄。这一实证分布打破了[[Output-Oriented Governance|循证治理]]中关于科学知识天然占据主导地位的规范性假设。
+> 依据吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi; Steiner-Khamsi, 2022）关于文献引用作为证据有效性背书（validation of evidence）的技术界定，纳入分析的 16 份核心政策文本被分类编码为报告、专著、同行评议期刊成果、政府法令公报与其他文献。统计表明，丹麦改革提案中同行评议期刊成果占比仅为 16.02%，芬兰核心文件中更仅占 9.45%；挪威官方调查报告虽包含较多学术引文，但总体仍被评估公报与行政咨询材料摊薄。这一实证分布打破了[[Output-Oriented Governance|循证治理]]中关于科学知识天然占据主导地位的规范性假设。
 
 > [!sub-claim] 2. 挪威偏好元分析，芬兰依赖评估报告，丹麦看重方案成效
 
@@ -205,9 +210,9 @@ issuing_organization: ""
 > | 属性维度 | 丹麦（Folkeskole 2014） | 芬兰（POPS 2014） | 挪威（[[Fagfornyelsen]] 2020） |
 > |---|---|---|---|
 > | **改革驱动与核心问题** | 强化公立学校学业水平；延长学生在校学时，强化丹麦语与数学，推行差异化教学，引入每日锻炼。 | 顺应经合组织核心素养理念，重组课时分配标准与全国基础教育课程总目标（Decree 422/2012）。 | 针对 2006 知识促进改革开展深度评估，全面重构未来社会与劳动力市场所需的学科核心能力。 |
-> | **决策准备机构性质** | 无正式官方调查委员会；依托教育部主办的利益相关者研讨会与国会政党闭门谈判。 | 历经政党更迭后由教育部与国家教育署纯文官组成专属工作组，完全剔除大学专职学者。 | 成立高规格官方调查委员会（[[Ludvigsen Commission|卢德维格森委员会]]），产出两部独立国家官方报告（NOU 2014:7 与 2015:8）。 |
-> | **学术专家的制度角色** | 处于边缘与外围地位；仅作为部委偶尔邀请的单场演讲嘉宾或外部智库顾问。 | 学者参与率大幅缩减；学者不担任工作组主席，学术见解仅作为文官个人知识储备的一部分。 | [[Grandes Ecoles\|大学校]]长与资深教授担任委员会主席和核心成员；学术界直接主导研究证据层级的裁定。 |
-> | **核心采信证据类型** | 聚焦能够证明预期干预因果成效的具体评估方案，辅以[[Danish Evaluation Institute|丹麦评估研究所]]的教学报告。 | 长期积累的芬兰国家教育评估中心（[[Finnish Education Evaluation Centre]], KARVI）学生学业成就监测报告与[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）管理数据。 | 学习科学领域的研究综述、元分析、基于系统综述的高质量实证研究与既往改革实证评估。 |
+> | **决策准备机构性质** | 无正式官方调查委员会；依托教育部主办的利益相关者研讨会与国会政党闭门谈判。 | 历经政党更迭后由教育部与国家教育署纯文官组成专属工作组，完全剔除大学专职学者。 | 成立高规格官方调查委员会（[[Ludvigsen Commission\|卢德维格森委员会]]），产出两部独立国家官方报告（NOU 2014:7 与 2015:8）。 |
+> | **学术专家的制度角色** | 处于边缘与外围地位；仅作为部委偶尔邀请的单场演讲嘉宾或外部智库顾问。 | 学者参与率大幅缩减；学者不担任工作组主席，学术见解仅作为文官个人知识储备的一部分。 | 大学校长与资深教授担任委员会主席和核心成员；学术界直接主导研究证据层级的裁定。 |
+> | **核心采信证据类型** | 聚焦能够证明预期干预因果成效的具体评估方案，辅以[[Danish Evaluation Institute\|丹麦评估研究所]]的教学报告。 | 长期积累的芬兰国家教育评估中心（[[Finnish Education Evaluation Centre]], KARVI）学生学业成就监测报告与[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）管理数据。 | 学习科学领域的研究综述、元分析、基于系统综述的高质量实证研究与既往改革实证评估。 |
 > | **经合组织（OECD）关联** | 以 PISA 排名优秀国家为参照，组织海外参访并借鉴循证干预案例。 | 由国家 PISA 测评管理机构专家提供咨询，但在话语上淡化外部直接影响。 | 委员会全员赴巴黎经合组织总部深度参访，将 OECD 21 世纪技能作为本国课程核心框架。 |
 
 > [!case] 丹麦案例：缺乏独立委员会，决策被政党政治与实用方案主导
@@ -217,7 +222,7 @@ issuing_organization: ""
 > 芬兰 2014 年国家核心课程改革聚焦于由政府法令（Decree 422/2012）确立的课时分配与全国教学目标。2010 年，由国家教育署、政党代表与社会团体组成的跨界工作组曾拟定一份方案，但随着议会换届与新政府上台，该方案尚未提交审议便被废弃。2012 年新执政联盟履新后，教育部组建了一个完全由教育部和国家教育署职业文官构成的精简工作组，高校专职学者被全部排除在外。该工作组在数月内迅速敲定法令草案，并将各学科分科大纲的编制职权移交国家教育署。在芬兰政策文件的 677 条引文中，期刊学术成果仅占 9.45%；其采信依据几乎全部来自芬兰教育评估中心（KARVI）、于韦斯屈莱大学芬兰教育研究院以及赫尔辛基大学教育评估中心常年积累的全国学业成就监测报告。职业文官凭借自身长年实践积淀的默会经验，主导了政策证据的筛选与转化。
 
 > [!case] 挪威案例：高度依托官方调查委员会，大学学者主导研究证据层级
-> 挪威 2020 年推行的[[Fagfornyelsen|知识促进改革更新]]（Fagfornyelsen 2020）延续了本国制度化的官方调查委员会传统。政府于 2013 年正式任命由大学学者领衔的[[Ludvigsen Commission|卢德维格森委员会]]（Ludvigsen Commission）。该委员会先后发布两份具有里程碑意义的正式调查报告：作为绿皮书的 NOU 2014:7（奠定未来学校的学生学习知识库）与作为白皮书的 NOU 2015:8（规划学科内容与未来素养体系更新）。在委员会内部，大学资深学者居于主导地位，确立了明确的证据采信门槛：优先调取同行评议学术成果、系统综述与元分析报告，排斥缺乏方法严谨性的零散经验材料。访谈表明，鉴于课程领域极少存在可直接跨国复制的因果实证结论，委员会最终整合了实证综述、往期改革追踪数据以及思辨性理论分析，形成了一套复合型知识库。
+> 挪威 2020 年推行的[[Fagfornyelsen|知识促进改革更新]]（Fagfornyelsen 2020）延续了本国制度化的官方调查委员会传统。政府于 2013 年正式任命由大学学者领衔的[[Ludvigsen Commission|卢德维格森委员会]]（Ludvigsen Commission）。该委员会先后发布两份具有里程碑意义的正式调查报告：作为[[The Green Book|绿皮书]]的 NOU 2014:7（奠定未来学校的学生学习知识库）与作为白皮书的 NOU 2015:8（规划学科内容与未来素养体系更新）。在委员会内部，大学资深学者居于主导地位，确立了明确的证据采信门槛：优先调取同行评议学术成果、系统综述与元分析报告，排斥缺乏方法严谨性的零散经验材料。访谈表明，鉴于课程领域极少存在可直接跨国复制的因果实证结论，委员会最终整合了实证综述、往期改革追踪数据以及思辨性理论分析，形成了一套复合型知识库。
 
 ---
 
@@ -239,7 +244,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 丹麦依据既定政治立场逆向定制支持性实证研究
 
 > [!critique] 丹麦政策导向型证据制造的运作逻辑
-> 丹麦受访官员明确指出，决策过程中并不刻意区分学术论著与专家咨询意见，二者的价值完全取决于其能否支撑改革方案的政治与意识形态立场。受访者运用[[Problem and Solution Knowledge in Policymaking|问题界定知识与方案寻找知识]]的二元框架：前者立足对本国体制痛点的体察，后者则要求证明干预措施在因果机制上的有效性。由于因果证据多来自外部国家，决策者便策略性地筛选契合既定政治叙事的案例，体现出鲜明的[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）特征。
+> 丹麦受访官员明确指出，决策过程中并不刻意区分学术论著与专家咨询意见，二者的价值完全取决于其能否支撑改革方案的政治与意识形态立场。受访者运用[[Problem Finding|问题界定]]知识与方案寻找知识的二元框架：前者立足对本国体制痛点的体察，后者则要求证明干预措施在因果机制上的有效性。由于因果证据多来自外部国家，决策者便策略性地筛选契合既定政治叙事的案例，体现出鲜明的[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）特征。
 
 ---
 
@@ -276,7 +281,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 国家背景在本土传统与跨国话语的持续交织中不断被重新定义
 
 > [!conclusion] 比较教育关系性大写背景的[[Ontology|本体论]]确立
-> 背景是由政策行动者、知识[[Evidence Network|证据网络]]、社会关系纽带与跨国流动话语相互装配（[[Assemblage|assemblage]]）与纠缠（entanglement）而动态生成的社会现实，超越了外在物理容器的设想。北欧学校改革正是这一大写背景不断被编织与重构的典型体现。
+> 背景是由政策行动者、知识证据网络、社会关系纽带与跨国流动话语相互装配（[[Assemblage|assemblage]]）与纠缠（entanglement）而动态生成的社会现实，超越了外在物理容器的设想。北欧学校改革正是这一大写背景不断被编织与重构的典型体现。
 
 ---
 
@@ -288,7 +293,7 @@ issuing_organization: ""
 > 5. **确立大写背景（Big-C Context）的关系性建构** 背景属于由决策者在挑选证据、组织专家与转译国际话语的过程中动态生成的社会现实，超越了静态国家容器的假定。
 
 > [!stat-cards]- 核心数据
-> - **16** 纳入文献计量分析的丹麦、芬兰与挪威[[CORE Education|核心教育]]政策文件总数。
+> - **16** 纳入文献计量分析的丹麦、芬兰与挪威核心教育政策文件总数。
 > - **1,314** 三国核心政策文件中抽取的参考文献记录总数。
 > - **16.02%** [[Danish Public School Reform|丹麦公立学校改革]]官方提案中同行评议学术期刊文献占比（总引文 231 条）。
 > - **9.45%** 芬兰基础教育课程改革核心文件中同行评议学术期刊文献占比（总引文 677 条）。
@@ -300,7 +305,7 @@ issuing_organization: ""
 > [!citation-card] 挪威委员会专家论系统综述与混合知识库构建
 > 我们非常关注如何呈现研究成果。对我们而言，最重要的是立足于经过质量保证的研究类型，在有研究综述的地方优先采用综述而非零散报告，尤其是在以此作为政策建议基础的时候。特别是在学习科学领域，我们热衷于采用研究总结与基于系统综述的分析。但与此同时，我们也拥有关于既往知识促进改革的实证评估。这是极其重要的基础，我认为学术研究是最核心的支撑。然而在课程领域，很难去开展针对某一措施在这一国情或另一国情中何以奏效的研究。因此我们不得不依赖更多的理论分析与非经验性研究，必须构建一个混合型的知识库。
 >
-> *So we were very concerned about how we represented research... It was important for us to base ourselves on the type [of research] and use reviews rather than reports where they exist. Especially if you’re going to use it as a basis for recommendations. So, especially in the [[Champ|field]] of learning research, we were keen to use research summaries, but also review-based analyses... But at the same time, in the field of curricula, in particular, it’s not so easy to conduct studies on what works in one context in one country and in another. So, of course, we had to rely on more analyses and non-empirical research. So, it has to be a mixed knowledge base as well.*
+> *So we were very concerned about how we represented research... It was important for us to base ourselves on the type [of research] and use reviews rather than reports where they exist. Especially if you’re going to use it as a basis for recommendations. So, especially in the field of learning research, we were keen to use research summaries, but also review-based analyses... But at the same time, in the [[Champ|field]] of curricula, in particular, it’s not so easy to conduct studies on what works in one context in one country and in another. So, of course, we had to rely on more analyses and non-empirical research. So, it has to be a mixed knowledge base as well.*
 
 > [!citation-card] 丹麦决策官员论问题界定与方案选择的知识二分
 > 当我们在政策制定中利用研究时，我经常区分问题与方案。针对两者需要完全不同类型的知识。为了理解问题，你需要关于现状的知识，即对丹麦体制或现存问题的透彻理解。而一旦你需要寻找解决方案，你就必须去论证你所声称的效果在因果机制上是极具可能性的。然而这类因果效应研究通常是在与丹麦截然不同的外部背景下开展的。

@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 53
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Educational Privatisation]]"
   - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
+  - "[[Tacit Knowledge]]"
   - "[[Technical Rationality]]"
   - "[[Policy Science in Comparative Education]]"
 related_theories:
@@ -82,10 +83,11 @@ related_arguments:
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -152,7 +154,7 @@ updated: 2026-11-09
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 借鉴鲍尔政策社会学的驱动力—推进工具—价值分析视角，解构跨国高等教育政策文本背后的[[Geopolitics|地缘政治]]诉求、治理手段与意识形态取向（pp. 684–687）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 27–28)]] — 结合鲍尔（1998）与罗斯的研究，揭示 [[PISA]] 等跨国测评如何将适应不确定经济竞争的风险前置并转嫁给个体，驱动学习者成为自我调节与自我增值的新自由主义行动主体。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借助鲍尔的数字治理与[[Policy Borrowing|政策借用]]理论，分析数目化管理如何赋能[[Governing at a Distance|远距治理]]，并指出商业化媒体如何将统计量化降解为排位竞技以加剧教育决策的部长化与政治化（pp. 404, 423）。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 借鉴鲍尔关于“政策作为过程”（Policy as a Process; Ball, 2017）的批判分析范式，解构北欧三国课程改革准备阶段非正式文官协商、熟人学术网络与默会知识的微观博弈（pp. 532–533, 538–540）。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 借鉴鲍尔关于“政策作为过程”（Policy as a Process; Ball, 2017）的批判分析范式，解构北欧三国课程改革准备阶段非正式文官协商、熟人学术网络与[[Tacit Knowledge|默会知识]]的微观博弈（pp. 532–533, 538–540）。
 
 ---
 

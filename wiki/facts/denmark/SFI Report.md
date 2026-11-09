@@ -9,7 +9,7 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
 related_theories: []
@@ -32,17 +33,20 @@ related_methods:
   - "[[Research Synthesis]]"
 related_persons: []
 related_facts:
+  - "[[Science Foundation Ireland]]"
   - "[[Danish National Centre for Social Research]]"
+  - "[[Danish Public School Reform]]"
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 > [!info] 背景
-> [[Danish National Centre for Social Research|SFI]] Report 2013 指 Winther and Nielsen 编辑的丹麦报告 *Lærere, undervisning og elevpræstationer i folkeskolen*。它是丹麦关于教师、教学与学生表现的大型研究；Laursen 称其为丹麦关于"什么促进学生学习"的最大且方法上最先进的研究([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.37]])。
+> [[Science Foundation Ireland|SFI]] Report 2013 指 Winther and Nielsen 编辑的丹麦报告 *Lærere, undervisning og elevpræstationer i folkeskolen*。它是丹麦关于教师、教学与学生表现的大型研究；Laursen 称其为丹麦关于"什么促进学生学习"的最大且方法上最先进的研究([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.37]])。
 >
 > 报告主要以 Folkeskole 毕业考试成绩衡量学生学习，并在统计上控制学生社会背景。因此，它适合说明哪些教学质量与丹麦学生的[[Academic Achievement\|学业成绩]]相关，但不能穷尽教育目的、学生意义建构、[[Creativity\|创造力]]或民主参与等更宽问题。
 
@@ -55,7 +59,7 @@ updated: 2026-11-09
 > - 报告没有发现其问项所测的反馈行为能提升学习；但这些问项只捕捉"告诉学生发展/表现如何"，没有捕捉"告诉学生如何做得更好"这一反馈核心，因此不能据此断言反馈在丹麦学校无效([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
 
 > [!success] 评价
-> [[Danish National Centre for Social Research|SFI]] Report 2013 是 Laursen 检验国际[[Effective Teaching\|有效教学]]综合丹麦适用性的主要本土证据。它与 Mehlbye 的高绩效学校研究共同支持一个判断：Hattie、Meyer and Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–40]])。同时，该报告作为丹麦国家社会研究中心在改革前夕产出的核心实证文献之一，为 2014 年丹麦公立学校改革提供了关于教师管理与学业表现的关键本土依据([[Argument_Volmari_2025_CE\|Volmari et al., 2025, p. 534]])。
+> SFI Report 2013 是 Laursen 检验国际[[Effective Teaching\|有效教学]]综合丹麦适用性的主要本土证据。它与 Mehlbye 的高绩效学校研究共同支持一个判断：Hattie、Meyer and Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–40]])。同时，该报告作为[[Danish National Centre for Social Research|丹麦国家社会研究中心]]在改革前夕产出的核心实证[[Document|文献]]之一，为 2014 年[[Danish Public School Reform|丹麦公立学校改革]]提供了关于教师管理与学业表现的关键本土依据([[Argument_Volmari_2025_CE\|Volmari et al., 2025, p. 534]])。
 >
 > 该报告也提示两个边界：第一，学生社会背景会显著改变开放教学、共同解题和个体解题的效果；第二，[[Questionnaire\|问卷]]项目如果没有抓住概念核心，可能导致反馈等结果被误读([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.38–39]])。
 

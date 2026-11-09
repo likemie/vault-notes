@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Screening Off]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Institutional Displacement]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Soft Power]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Document]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[World Society Theory]]"
@@ -66,16 +68,18 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
+  - "[[POLNET]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -97,7 +101,7 @@ updated: 2026-11-09
 > - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的[[Discourse|话语]]形成专著中发表奠基篇章，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **2004** 出版纲领性论著《[[Policy Borrowing\|教育借用]]与借出的全球政治》（*The Global Politics of Educational Borrowing and Lending*），奠定当代跨国政策借用分析的基准[[Paradigm\|范式]]。
 > - **2004** 在德国教育研究协会苏黎世会议上报告重要研究，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·[[Maris O'Rourke|奥罗克]]效应（Maris O'Rourke Effect）。
-> - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
+> - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被[[Screening Off|遮蔽]]的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 > - **2012** 与弗洛里安·瓦尔多（Florian Waldow）共同主编《世界教育年鉴 2012：教育中的政策借用》（*World Yearbook of Education 2012*），进一步将政策借用理论扩展至实证比较。
 > - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要成果，正式提出“[[Governing by Numbers\|数字治理]] 2.0”与[[Policy Brokerage\|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024)]]
 
@@ -197,5 +201,5 @@ updated: 2026-11-09
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
 | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
-| [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 运用施泰纳-哈姆西（Steiner-Khamsi, 2022）关于政策文献引用作为“证据有效性背书”（validation of evidence）的理论，通过 POLNET 项目测定北欧三国 16 份核心政策文本引证网络，揭示学术期刊引文的边际化特征（pp. 535–536）。 |
+| [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 运用施泰纳-哈姆西（Steiner-Khamsi, 2022）关于政策[[Document\|文献]]引用作为“证据有效性背书”（validation of evidence）的理论，通过 [[POLNET]] 项目测定北欧三国 16 份核心政策文本引证网络，揭示学术期刊引文的边际化特征（pp. 535–536）。 |
 
