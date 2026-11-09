@@ -26422,6 +26422,11 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
     background-color:color-mix(in srgb,var(--tf-accent) 12%,var(--ac-paper)) !important;
   }
 }
+@container (max-width:560px) {
+  html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-framework"][data-callout][data-callout] > .callout-content {
+    position:relative;
+  }
+}
 @media print {
   html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-framework"][data-callout][data-callout] > .callout-content,
   html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-framework"][data-callout][data-callout] > .callout-content :is(.table-wrapper,.el-table) { overflow:visible !important; }

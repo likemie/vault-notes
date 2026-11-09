@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md",
+                "file": "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Yang_2017_MUE"
+              "title": "Argument_Volmari_2025_CE"
             }
           },
           {
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,8 +313,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3643ff474ee79da9",
+  "active": "8cf060930e9cdf12",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Context in Comparative Education.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
+    "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md",
+    "tmp/callout-refinement/theory-panels-dark-390.png",
+    "wiki/facts/finland/Finnish PISA Miracle.md",
+    "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md",
+    "tmp/callout-refinement/theory-panels-light-1440.png",
+    "tmp/callout-refinement/theory-panels-dark-1440.png",
+    "tmp/callout-refinement/theory-panels-check.mjs",
+    "tmp/callout-refinement/theory-panels.html",
     "tmp/callout-refinement/theory-position-inspect.mjs",
     "tmp/callout-refinement/theory-position-dark-390.png",
     "tmp/callout-refinement/theory-position-light-1440.png",
@@ -322,7 +332,6 @@
     "tmp/callout-refinement/theory-position-check.mjs",
     "tmp/callout-refinement/theory-position.html",
     "wiki/arguments/journal-articles/Bulletin of National Natural Science Foundation of China/Argument_Mo_2026_BNSFC.md",
-    "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md",
     "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md",
     "wiki/theories/science-policy/Chaperone Effect.md",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-012/result.json",
@@ -333,9 +342,6 @@
     "tmp/callout-refinement/theory-hierarchy-light-1440.png",
     "tmp/callout-refinement/theory-hierarchy-dark-390.png",
     "tmp/callout-refinement/theory-hierarchy-dark-1440.png",
-    "tmp/callout-refinement/theory-hierarchy-check.mjs",
-    "tmp/callout-refinement/theory-hierarchy.html",
-    "tmp/callout-refinement/theory-hierarchy-preview.py",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-012/prompt.md",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-011/prompt.md",
     "output/related-updates/Argument_Volmari_2025_CE-f218fc1a/batch-010/prompt.md",
@@ -354,13 +360,7 @@
     "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-009/prompt.md",
     "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-008/prompt.md",
     "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-007/prompt.md",
-    "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-006/prompt.md",
-    "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-005/prompt.md",
-    "output/related-updates/Argument_Volmari_2025_CE-20261109-022357/batch-004/prompt.md",
     "tmp/callout-refinement/yang-block-dark.png",
-    "tmp/callout-refinement/yang-redesign-dark-390.png",
-    "tmp/callout-refinement/yang-redesign-dark-1440.png",
-    "top_Hao_2026_Nature_Fig4_Follow_on_Engagement_and_Overlapping_Works.jpg",
     "未命名.canvas"
   ]
 }
