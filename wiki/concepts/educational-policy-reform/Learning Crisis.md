@@ -179,6 +179,7 @@ updated: 2026-11-02
 > - **2013/2014 — “全球学习危机”概念正式诞生** [[UNESCO|联合国教科文组织]]发布《[[Global Education Monitoring Report|全民教育全球监测报告]] 2013/2014》（EFA GMR），正式以“全球学习危机”为题，严正指出全球 2.5 亿儿童在完成数年小学教育后仍不识字、不会算术。
 > - **2018 — 《世界发展报告 2018》将学习危机确立为发展核心瓶颈** [[World Bank|世界银行]]发布旗舰报告《学习以实现教育的承诺》（Learning to Realize Education's Promise），系统确立了“就学不等于学习”的政策共识。
 > - **2019 — 微观诊断工具与“学习贫困”指标落地** 世界银行推出 Teach [[Classroom Observation|课堂观察]]手册，将危机治理落脚于课堂教学实践诊断；同年联合[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UIS）提出“学习贫困”（Learning Poverty）指标，将政策靶心锚定于 10 岁基础阅读能力。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–4)]]
+> - **2026 — 去殖民视角解构危机认识论** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 借助[[Crisis Epistemology|危机认识论]]，通过对国际组织内部芬兰教育专家的深度访谈，揭示全球学习危机叙事如何充当去历史化的权力话语，将深层地缘不公窄化为短效技术修补。
 
 ---
 
@@ -188,7 +189,7 @@ updated: 2026-11-02
 
 > [!tension] 核心张力：标准化素养问责 vs 本土文化情境适配
 > - **全球基准与实证问责导向（蓝方）** 主张学习危机是对儿童基本人权的严重侵害，必须确立全球统一的基础读写算硬指标，依托标准化测试与标准化[[Classroom Observation|课堂观察]]（如 Teach）实施严格诊断，确保公共财政投入产出真实认知回报。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
-> - **批判后殖民与多元生态导向（红方）** 质疑将全球南方复杂多样的教育生态过度简化为单一维度的“危机赤字叙事”（deficit discourse），批评某些标准化量化监测可能忽视了土著知识、多语言教学挑战与深层社会阶级不平等，易演变为新自由主义绩效问责与西方测量工具的单向移植。
+> - **批判后殖民与多元生态导向（红方）** 质疑将全球南方复杂多样的教育生态过度简化为单一维度的“危机赤字叙事”（deficit discourse）。批判学者与芬兰国际教育专家指出，这一叙事体现了[[Crisis Epistemology|危机认识论]]，忽视了本土知识体系与多语言情境，更掩盖了殖民遗产、宏观资源不均分配与白人救世主心态对受援国主权能动性的削弱。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–678)]]
 
 > [!critique] 外部批评
 > - **将系统制度困境狭隘归咎于一线教师** 某些政策话语在强调“学习危机本质是教学危机”时，容易产生将所有治理失能滑向基层教师个人的道德指责陷阱，忽视了欠发达地区教师工资拖欠、大[[Class Size|班额]]以及基本教具匮乏等宏观结构性制约。
@@ -212,4 +213,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 深度访谈教科文组织、儿童基金会与世界银行的 23 位芬兰教育专家，运用危机认识论解构全球学习危机话语对技术官僚干预与依附结构的固化。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 针对中低收入国家基础教育学习危机，研发开源标准化[[Classroom Observation|课堂观察]]工具 Teach，确立微观课堂实践作为破解危机的核心着力点。

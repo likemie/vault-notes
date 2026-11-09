@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
     },
     {
+      "basename": "Education Finland",
+      "path": "wiki/facts/finland/Education Finland.md"
+    },
+    {
       "basename": "Finnish PISA Miracle",
       "path": "wiki/facts/finland/Finnish PISA Miracle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Scientific Creativity",
       "path": "wiki/concepts/science-policy/Scientific Creativity.md"
-    },
-    {
-      "basename": "Argument_Azoulay_2011_RJE",
-      "path": "wiki/arguments/journal-articles/RAND Journal of Economics/Argument_Azoulay_2011_RJE.md"
     }
   ],
   "omittedPaths": [],

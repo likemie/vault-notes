@@ -167,4 +167,5 @@ updated: 2026-11-09
 > - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24, 32–34)]] — 深度访谈[[European Commission|欧盟委员会]]教育文化总司与 [[Eurydice]] 政策官员，剖析跨国组织在指标生产、数据采信、经费资助与政策动员中的机构共生与权力运作机制。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 访谈美国马萨诸塞州 [[Massachusetts Department of Elementary and Secondary Education|DESE]] 与德国汉堡 BSB、[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的 20 位数据专家，揭示州级机构在数据清洗、[[Commensuration\|通约]]与问责建模中的暗箱实践。
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017, pp. 253–254)]] — 对跨国教育倡导核心学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开展专家访谈，深挖其在《[[Visible Learning\|可见的学习]]》[[Knowledge Production|知识生产]]、全球专营授权、政府政策建言与海量数据回流等交错网络中的制度性职能与角色平衡。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 深度访谈曾在三大国际组织任职的 23 位芬兰教育专家并分析机构报告，解构全球学习危机叙事背后的技术官僚逻辑与救世主心态。
 > - [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] — 对丹麦、芬兰与挪威参与学校改革起草的 15 位关键决策官员与委员会专家实施深度访谈，揭示循证政策微观准备中对私人学术网络与文官默会知识的高度依赖。
