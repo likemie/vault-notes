@@ -3090,6 +3090,16 @@
     ]
   },
   {
+    "title": "Within-School Variance",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Within-School Variance.md",
+    "aliases": [
+      "校内方差",
+      "班级间方差",
+      "校内学业方差"
+    ]
+  },
+  {
     "title": "Acceleration Programs",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Acceleration Programs.md",
@@ -3267,6 +3277,15 @@
     "aliases": [
       "作为产物的课程",
       "行为目标课程范式"
+    ]
+  },
+  {
+    "title": "Curriculum Connection",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curriculum Connection.md",
+    "aliases": [
+      "课程连接",
+      "学科间课程连接"
     ]
   },
   {
@@ -11580,6 +11599,16 @@
       "教师表达清晰度",
       "clarity of teaching",
       "instructional clarity"
+    ]
+  },
+  {
+    "title": "Teacher Expertise",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher Expertise.md",
+    "aliases": [
+      "教师专业素养",
+      "专家型教师",
+      "Expert Teacher"
     ]
   },
   {

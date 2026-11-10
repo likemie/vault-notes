@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 53
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Peidu]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
+  - "[[Quasi-market]]"
   - "[[Performance Indicators]]"
   - "[[Operationalization]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -38,7 +39,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[School Effectiveness]]"
   - "[[Evidence-Based Education]]"
+  - "[[Screening Off]]"
   - "[[Policy Borrowing]]"
+  - "[[Within-School Variance]]"
+  - "[[Transnational Education]]"
+  - "[[School Autonomy]]"
   - "[[Variable]]"
   - "[[Magnet Schools]]"
   - "[[Student Suspension and Expulsion]]"
@@ -80,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -93,7 +98,7 @@ updated: 2026-11-03
 > - **用途** 帮助研究者透视国家新自由主义市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
 > - **边界** 解释义务教育和高中阶段的选择性入学行为，不涉及不具备选择权利的强制性分配和纯粹学术选拔。
 
-> [!citation-card|notitle] 腾飞与王论择校的双向政策话语与实践形态
+> [!citation-card|notitle] 腾飞与王论择校的双向政策[[Discourse|话语]]与实践形态
 > 在多数国家的政策话语中，择校被设计为一种通过市场竞争打破公立教育垄断、提高教育质量的自上而下改革策略。然而，它也可以表现为底层家庭在教育机会空间分配不均时，自下而上主动发起的地理随迁与家庭重组行为。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]
 > 
 > *In the policy discourses of most countries, school choice is designed as a top-down reform strategy to dismantle the state monopoly of public schooling and to improve educational quality... However, it can also manifest as an organic family practice.*
@@ -119,7 +124,7 @@ updated: 2026-11-03
 > - **[[Cultural Capital|文化资本]]** 指导家庭的教育品味并提供择校甄别力，但在注重人情和关系的县域[[Champ|场域]]中面临局部折旧。[[Argument_Teng_2025_CE|Teng and Wang (2025, p. 310)]]
 > - **校际与校内变异比率** 实证研究中衡量择校政策有效性的关键结构参数，即学校间方差（5–10%）与校内教师间方差（30%）的相对比值。[[Argument_Hattie_2005_ACER|Hattie (2005, pp. 13–14)]]
 > - **政策推进方位与目标取向** 在宏观政策矩阵中，择校属于典型的“自上而下发起”且以“经济效率为导向”的改革组合（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 113]]），其根本目标是将市场竞争逻辑引入公共教育部门。
-> - **[[OECD|经合组织]]准市场监测维度（OECD Quasi-Market Performance Monitoring）** 经合组织教育理事会（Directorate for Education）在 2005–2006 年工作规划中，将“择校”（choice）与质量、公平及成本分担并列为四大优先议程，通过量化[[Performance Indicators|绩效指标]]将择校[[Operationalization|操作化]]为激发准市场竞争、打破公立体系官僚垄断的核心治理工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
+> - **[[OECD|经合组织]][[Quasi-market|准市场]]监测维度（OECD Quasi-Market Performance Monitoring）** 经合组织教育理事会（Directorate for Education）在 2005–2006 年工作规划中，将“择校”（choice）与质量、公平及成本分担并列为四大优先议程，通过量化[[Performance Indicators|绩效指标]]将择校[[Operationalization|操作化]]为激发准市场竞争、打破公立体系官僚垄断的核心治理工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
 > - **跨国测评对本土择校体制的合法化确证（[[Social Science as Legitimation Alibi|Legitimation Alibi]] via Cross-National Testing）** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 30–31)]] 揭示，跨国大规模测评不仅被用作识别教育差距的工具，更常被执政精英挪用为维系既有择校制度的政治合法化借口（Legitimation alibi）：英格兰在 [[PISA]] 2000 中表现名列前茅，决策层与大众媒体将测试结果解读为对本土新自由主义择校竞争、[[High-Stakes Testing|高利害评估]]与标准化绩效控制模式的有力确证，强化了体制[[Path Dependence|路径依赖]]，并掩盖了教育系统内部严重的社会阶层表现鸿沟。
 
 > [!logic-map]- 要素关系
@@ -202,15 +207,15 @@ updated: 2026-11-03
 > | **学校流失恶化命题** | 自由择校从薄弱学校抽干资源与生源导致恶性衰落循环 | 农村学校撤并及城市落后学区 | Teng & Wang; Ball |
 > | **效能方差限度命题** | 学校间方差仅占 5–10%，远低于校内教师方差 30%，择校难以成为提升成就的关键手段 | [[School Effectiveness\|学校效能]]研究、[[Evidence-Based Education\|循证教育]]政策与宏观问责评价 | Hattie |
 > | **国家审计与商品化命题** | 自上而下的择校将教育降格为消费品，国家从公共提供者退化为考核审计者与准市场监测者 | 新自由主义全球化、教育政治经济学与[[World-Systems Theory\|世界体系分析]] | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
-> | **跨国数据确证命题** | 跨国评估优异表现被政策精英挪用为确证市场化择校政策的政治依据，强化体制路径依赖并遮蔽阶层鸿沟 | 比较教育[[Policy Borrowing\|政策借用]]、跨国评估政治社会学与教育准市场问责 | Grek |
+> | **跨国数据确证命题** | 跨国评估优异表现被政策精英挪用为确证市场化择校政策的政治依据，强化体制路径依赖并[[Screening Off\|遮蔽]]阶层鸿沟 | 比较教育[[Policy Borrowing\|政策借用]]、跨国评估政治社会学与教育准市场问责 | Grek |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
-> - **2005 — 学校间与校内方差实证分解** [[John Hattie|约翰·哈蒂]]（John Hattie）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
-> - **2005–2006 — [[OECD|经合组织]]择校[[Performance Indicators|绩效指标]]与准市场治理确立** 经合组织教育理事会在工作规划中确立“质量、公平、择校与成本分担”四大优先议程，依托量化绩效指标将择校机制制度化为跨国教育政策的关键审计构件。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
+> - **2005 — 学校间与[[Within-School Variance|校内方差]]实证分解** [[John Hattie|约翰·哈蒂]]（John Hattie）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
+> - **2005–2006 — [[OECD|经合组织]]择校[[Performance Indicators|绩效指标]]与准市场治理确立** 经合组织教育理事会在工作规划中确立“质量、公平、择校与成本分担”四大优先议程，依托量化绩效指标将择校机制制度化为[[Transnational Education|跨国教育]]政策的关键审计构件。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
 > - **2009 — 跨国测评与择校体制的[[Social Science as Legitimation Alibi|合法化借口]]** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）剖析英格兰对 PISA 2000 优异成绩的政策吸纳，揭示执政精英如何借助跨国排位为本土市场化择校竞争与高利害问责模式确立合法性，以此掩盖深层的阶层不平等（pp. 30–31）。
 > - **2009 — 全球新自由主义议程下的择校审计化批判** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从[[World-Systems Theory|世界体系分析]]与批判政治经济学视角，指出择校、教育券与私有化是超国家机构推行的自上而下新自由主义组合拳，批判其将国家退缩为审计者并加剧全球教育商品化分层。
 > - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策实践（[[Argument_Teng_2025_CE|Teng & Wang, 2025, pp. 303–304]]）。
@@ -227,7 +232,7 @@ updated: 2026-11-03
 > - **公共性流失与国家责任外包批判** 批评者指出，择校政策以“赋予家长权利”为修辞，实质上是国家将自身应当承担的优质均衡教育责任转嫁给个体家庭与市场；当弱势家庭因资本匮乏无法在择校市场中竞争时，国家借助审计达标的程序中立性掩盖了结构性不平等，导致公共教育体系碎片化与民主公信力流失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 113)]]
 
 > [!warning|limits] 适用局限
-> 择校理论主要适用于具有一定学校自主权、生源选择空间与交通可达性的城镇教育系统；在边远农村或只有单一学校布局的孤立社区，择校选择缺乏现实基础；且单纯择校无法替代微观教学质量提升。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]; [[Argument_Teng_2025_CE|(Teng & Wang, 2025)]]
+> 择校理论主要适用于具有一定[[School Autonomy|学校自主权]]、生源选择空间与交通可达性的城镇教育系统；在边远农村或只有单一学校布局的孤立社区，择校选择缺乏现实基础；且单纯择校无法替代微观教学质量提升。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]; [[Argument_Teng_2025_CE|(Teng & Wang, 2025)]]
 
 ---
 

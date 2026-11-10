@@ -15,6 +15,8 @@
     "AAMC, 2015": "AAMC, 2015",
     "ABPI (2024)": "ABPI, 2024",
     "ABPI, 2024": "ABPI, 2024",
+    "ACARA (2017)": "ACARA, 2017",
+    "ACARA, 2017": "ACARA, 2017",
     "ACEL & Corwin (2015)": "ACEL & Corwin, 2015",
     "ACEL & Corwin, 2015": "ACEL & Corwin, 2015",
     "ACLU (2018)": "ACLU, 2018",
@@ -23821,6 +23823,8 @@
     "Tharoor, 2017": "Tharoor, 2017",
     "Thatcher & Coen (2008)": "Thatcher & Coen, 2008",
     "Thatcher & Coen, 2008": "Thatcher & Coen, 2008",
+    "The Economist (2016)": "The Economist, 2016",
+    "The Economist, 2016": "The Economist, 2016",
     "Theda Skocpol (1985)": "Theda Skocpol, 1985",
     "Theda Skocpol (1992)": "Theda Skocpol, 1992",
     "Theda Skocpol, 1985": "Theda Skocpol, 1985",
@@ -27832,6 +27836,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch04.md"
+      ],
+      "title": ""
+    },
+    "ACARA, 2017": {
+      "aliases": [
+        "ACARA, 2017",
+        "ACARA (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ACARA, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Connection.md"
       ],
       "title": ""
     },
@@ -32730,6 +32749,8 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/concepts/competency-and-assessment/Within-School Variance.md",
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
         "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md",
         "wiki/persons/new-zealand/Adrienne Alton-Lee.md"
@@ -77651,6 +77672,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/concepts/instruction-pedagogy/Teacher Expertise.md",
         "wiki/persons/us/Eric Hanushek.md"
       ],
       "title": ""
@@ -103601,7 +103623,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/competency-and-assessment/Success Criteria.md",
-        "wiki/concepts/curriculum/Learning Intentions.md"
+        "wiki/concepts/curriculum/Learning Intentions.md",
+        "wiki/concepts/instruction-pedagogy/Teacher Expertise.md"
       ],
       "title": ""
     },
@@ -103632,6 +103655,7 @@
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
+        "wiki/concepts/competency-and-assessment/Within-School Variance.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
         "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
@@ -201039,6 +201063,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+      ],
+      "title": ""
+    },
+    "The Economist, 2016": {
+      "aliases": [
+        "The Economist, 2016",
+        "The Economist (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "The Economist, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Teacher Expertise.md"
       ],
       "title": ""
     },

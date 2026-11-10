@@ -32,12 +32,14 @@ related_concepts:
   - "[[Teacher Clarity]]"
   - "[[Heterogeneity]]"
   - "[[Epistemology]]"
+  - "[[Within-School Variance]]"
   - "[[Instructional Leadership]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Creativity]]"
   - "[[Individualised Instruction]]"
   - "[[Zone of Proximal Development]]"
   - "[[Personalized Learning]]"
+  - "[[Curriculum Connection]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Didactic Triangle]]"
@@ -52,25 +54,24 @@ related_instruments: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
+  - "[[Adrienne Alton-Lee]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[David Gonski]]"
   - "[[Geoff Masters]]"
-  - "[[Eric Hanushek]]"
-  - "[[Adrienne Alton-Lee]]"
 related_facts:
   - "[[Gonski 2.0]]"
   - "[[PISA]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[Education Review Office]]"
   - "[[Melbourne Declaration]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[OECD]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Australian College of Educators]]"
   - "[[Australian Council for Educational Research]]"
   - "[[ResearchED]]"
   - "[[Australian Curriculum]]"
   - "[[Australian Curriculum, Assessment and Reporting Authority]]"
-  - "[[Education Review Office]]"
-  - "[[Australian College of Educators]]"
 related_arguments: []
 sources:
   - "[[sources/Sarbiewska_2019_KiW/Sarbiewska_2019_KiW|Sarbiewska_2019_KiW]]"
@@ -84,7 +85,7 @@ title: "Argument_Sarbiewska_2019_KiW"
 argument_key: "Argument_Sarbiewska_2019_KiW"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -132,7 +133,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（[[Adrienne Alton-Lee|Alton-Lee]], 2004）、[[Education Review Office|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
+> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（[[Adrienne Alton-Lee\|Alton-Lee]], 2004）、[[Education Review Office\|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
 > | **课程与教学规程** | 包含《澳大利亚课程》（Australian Curriculum, 2012/2015）、《新西兰国家课程》（The New Zealand Curriculum, 2010/2012）以及维多利亚州《高影响教学策略》（High Impact Teaching Strategies, HITS; 2017）。 |
 > | **学术批判语料** | 纳入丹麦学者托马斯·罗默（[[Thomas Aastrup Rømer]]）关于可见学习激进建构主义倾向的哲学批判，以及统计学家皮埃尔-热罗姆·贝尔热龙（Pierre-Jérôme Bergeron）的方法论商榷。 |
 
@@ -245,7 +246,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 最佳证据综合证实校内班级差异远大于校际差异，责任主体锁定一线教师
 
 > [!warrant] 方差分解将教育成效责任锁定至微观课堂
-> 新西兰教育部发布的《运用最佳证据综合协助多样化学困生》（[[Adrienne Alton-Lee|Alton-Lee]], 2004）实证分析揭示：学生学业成绩的方差主要源自校内班级方差（within-school variance），校际方差（between-school variance）微乎其微。在同一所学校内，不同班级学生的表现差异极为悬殊。这一实证证据表明，决定教育成效的关键在于学校内部的[[Instructional Leadership|教学领导力]]，以及一线教师在课堂上的师生互动质量；硬件校舍与外部行政体制对缩小这一差距收效甚微。
+> 新西兰教育部发布的《运用最佳证据综合协助多样化学困生》（Alton-Lee, 2004）实证分析揭示：学生学业成绩的方差主要源自校内班级方差（[[Within-School Variance|within-school variance]]），校际方差（between-school variance）微乎其微。在同一所学校内，不同班级学生的表现差异极为悬殊。这一实证证据表明，决定教育成效的关键在于学校内部的[[Instructional Leadership|教学领导力]]，以及一线教师在课堂上的师生互动质量；硬件校舍与外部行政体制对缩小这一差距收效甚微。
 
 > [!feature] 循证视角下教育影响焦点的系统性转移
 > - **传统归因模式撤出** 放弃将学生失败简单归咎于家庭背景、校舍建筑更新、技术设备采购或外部考试大纲研发。
@@ -262,7 +263,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 提炼十项高影响教学策略，建立教师常态化分享实践证据的专业生态
 
 > [!evidence-grid] 教师教学效能差距与专家素养实证
-> - **效能增量悬殊** 斯坦福大学经济学家[[Eric Hanushek|哈努谢克]]测算表明，接受处于前 10% 顶尖教师指导的学生在一学年内能获得 1.5 年的知识成长，而接受后 10% 教师指导仅能获得 0.5 年的增量（The Economist, 2016）。
+> - **效能增量悬殊** 斯坦福大学经济学家哈努谢克测算表明，接受处于前 10% 顶尖教师指导的学生在一学年内能获得 1.5 年的知识成长，而接受后 10% 教师指导仅能获得 0.5 年的增量（The Economist, 2016）。
 > - **专家素养特征** 哈蒂（Hattie, 2003）提炼出优秀教师的 16 项典型特征，强调优秀教师善于营造积极探究氛围、及时提供高质量形成性反馈，并时刻关注自身教学对学生理解的影响。
 
 > [!case] 澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）与证据中介生态
@@ -274,7 +275,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 落实冈斯基成长评价，用学生个体年度学业进步取代按年龄一刀切
 
 > [!warrant] 个体准备度差异倒逼评价范式转向增量成长
-> 哈蒂（Hattie, 2008）实证研究表明，学生学业成绩方差中约 50% 取决于学习者自身的先备知识与经验。[[David Gonski|戴维·冈斯基]]（[[David Gonski]]）主导的澳大利亚教育评估委员会发布 Gonski 2.0 报告《通过成长实现成就》（2018），[[Geoff Masters|马斯特斯]]（Masters, 2018）指出，若教学脱离学生的真实准备起点，重复已知内容或强授缺乏基础的知识，学习均无法发生，评价机制必须从按年龄一刀切转向衡量个体年度增量。
+> 哈蒂（Hattie, 2008）实证研究表明，学生学业成绩方差中约 50% 取决于学习者自身的先备知识与经验。[[David Gonski|戴维·冈斯基]]（[[David Gonski]]）主导的澳大利亚教育评估委员会发布 Gonski 2.0 报告《通过成长实现成就》（2018），马斯特斯（Masters, 2018）指出，若教学脱离学生的真实准备起点，重复已知内容或强授缺乏基础的知识，学习均无法发生，评价机制必须从按年龄一刀切转向衡量个体年度增量。
 
 > [!row-contrast] 传统年级课程交付模型与 Gonski 2.0 个体增量模型多维对照
 > | 比较维度 | 传统年级课程交付模型 | Gonski 2.0 个体增量成长模型 |
@@ -286,19 +287,19 @@ issuing_organization: ""
 > | **评价机制** | 终结性横向常模考试，按掌握年级大纲百分比进行应试分级 | 纵向形成性成长测评，衡量每个学生在一年内的实质学业增量 |
 > | **资助定位** | 机械均摊或简单对标学校外部规模 | 定向对准学生个体需求与学业发展需要，实现实质性公平资助 |
 
-> [!sub-claim] 3. 推行弹性国家课程标准，开展维护学科深度的跨学科课程连接
+> [!sub-claim] 3. 推行弹性国家课程标准，开展维护学科深度的跨学科[[Curriculum Connection|课程连接]]
 
 > [!case] 澳新两国国家课程的弹性建构与课程连接实践
 > - **[[Australian Curriculum|澳大利亚课程]]弹性重构** [[Australian Curriculum, Assessment and Reporting Authority|澳大利亚课程评估与报告局]]（Australian Curriculum, Assessment and Reporting Authority, ACARA）于 2012 年发布《[[Australian Curriculum|澳大利亚课程]]》，设置学习领域、通用能力与跨课程优先事项三大维度。针对 2014 年课程审查发现的课业拥挤问题，教育部门组织一线骨干教师与专家协作，精简大纲内容，赋予学校更多的校本裁剪空间。
 > - **新西兰国家课程原则引领** 《新西兰国家课程》（2010）确立了高期望、学会学习、文化多样性等核心原则，由 ERO 定期督导评估。大纲授权各校结合本地社区愿景自主设计课程蓝图。
-> - **课程连接的跨学科探索** 区别于容易削弱学科深度的传统主题式教学，两国学校推行课程连接模式，在保持各学科知识体系严谨性的前提下建立跨学科关联。菲利普·杰利曼（Jellyman, 2015）对 12 所新西兰中学的调研表明，跨学科课程连接能够在保持学科规范的同时有效发展综合素养。
+> - **课程连接的跨学科探索** 区别于容易削弱学科深度的传统主题式教学，两国学校推行[[Curriculum Connection|课程连接]]模式，在保持各学科知识体系严谨性的前提下建立跨学科关联。菲利普·杰利曼（Jellyman, 2015）对 12 所新西兰中学的调研表明，跨学科课程连接能够在保持学科规范的同时有效发展综合素养。
 
 ---
 
 > [!finding-cards] 核心发现
 > 1. **改革重心转向教学论重构** 澳新两国的教育改革依托循证教育与[[Visible Learning|可见的学习]]理念，将理论基础确立在强调师生协同的修正版教学三角上，实现了从单向灌输到双向互动的范式转变。
 > 2. **学业差距责任主体锁定微观课堂** 国际测评与本土研究证实学业成绩分化主要来自学校内部班级之间，单纯追加硬件或调整外部行政体制难以奏效，一线教师的课堂教学质量是决定教育成效的核心。
-> 3. **循证工具渗透学校实践多维机制** 两国在教师端推行专家素养标准与维多利亚州 HITS 策略，在学生端推行 Gonski 2.0 个体增量评价模型，在课程端推行弹性国家标准与跨学科课程连接，建立起全方位的实践支持生态。
+> 3. **循证工具渗透学校实践多维机制** 两国在教师端推行专家素养标准与维多利亚州 HITS 策略，在学生端推行 Gonski 2.0 个体增量评价模型，在课程端推行弹性国家标准与跨学科[[Curriculum Connection|课程连接]]，建立起全方位的实践支持生态。
 > 4. **实证效能与批判反思并存** [[Visible Learning|可见的学习]]在指导实践的同时也受到方法学与教育哲学的审视，包括元分析统计折算争议，以及关于激进[[Constructivist Paradigm|建构主义范式]]是否会消解教师规范性作用的理论讨论。
 
 > [!stat-cards]- 核心数据

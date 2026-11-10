@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 173
+fact_related_count: 174
 fact_related_level: 17
 fact_related_stars: "💎💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Scientific Literacy]]"
   - "[[Scientific Explanation]]"
   - "[[Learner Autonomy]]"
@@ -248,7 +249,7 @@ updated: 2026-11-10
 
 ---
 
-> [!timeline] 基础素养与前沿交叉创新模块首测脉络
+> [!timeline] [[Foundational Literacy and Numeracy|基础素养]]与前沿交叉创新模块首测脉络
 > - **2000 — 阅读素养首测** PISA 首轮实施确立以阅读为主测领域，奠定面向真实生活情境的非课程化能力测度基准。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 > - **2003 — 数学素养与静态[[Problem Solving|问题解决]]首测** 数学确立为主测领域；首度增设跨学科静态问题解决选测模块，考察面对既定规则情境的逻辑推理与分析决策。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **2006 — [[Scientific Literacy|科学素养]]首测** 科学确立为主测领域，系统评估解释科学现象、设计评价科学探究及[[Scientific Explanation|科学解释]]数据证据的能力，完成三大基础领域的完整轮换。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
