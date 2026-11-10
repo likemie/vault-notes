@@ -11,7 +11,8 @@ argument_related_count: 0
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
-authors: ["Anderson, B."]
+authors:
+  - "Anderson, B."
 source_language: "en"
 book_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 publisher: "Verso"
@@ -24,14 +25,22 @@ citation_aliases:
 tags: ["theme/nationalism", "theme/book-reading"]
 sources:
   - "[[books/Anderson_2016_Verso/Anderson_2016_Verso|Anderson_2016_Verso]]"
+related_concepts:
+  - "[[Document]]"
+related_theories:
+  - "[[Imagined Community]]"
+related_persons:
+  - "[[Benedict Anderson]]"
+related_facts:
+  - "[[ROOTS]]"
 status: "draft"
 created: "2026-11-10"
 updated: "2026-11-10"
 ---
 
 > [!monograph-profile] 阅读档案
-> - **书名** 《想象的共同体：民族主义的起源与散布》（Imagined Communities: Reflections on the Origin and Spread of Nationalism）。
-> - **撰写者** 本尼迪克特·安德森（Benedict Anderson）。
+> - **书名** 《[[Imagined Community|想象的共同体]]：民族主义的起源与散布》（Imagined Communities: Reflections on the Origin and Spread of Nationalism）。
+> - **撰写者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）。
 > - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。各章待解读。
 > - **版本** Verso 版权页列出 2016 和 2006，著录采用版权页列出的较晚版次 2016。文件名与 EPUB 元数据标为 2011。
 
@@ -41,7 +50,7 @@ updated: "2026-11-10"
 > | 章节 | 文本入口 | 进度 |
 > |---|---|---|
 > | 第 1 章 Introduction | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch01_Introduction.txt) | 待解读 |
-> | 第 2 章 Cultural Roots | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch02_Cultural_Roots.txt) | 待解读 |
+> | 第 2 章 Cultural [[ROOTS\|Roots]] | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch02_Cultural_Roots.txt) | 待解读 |
 > | 第 3 章 The Origins of National Consciousness | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch03_The_Origins_of_National_Consciousness.txt) | 待解读 |
 > | 第 4 章 Creole Pioneers | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch04_Creole_Pioneers.txt) | 待解读 |
 > | 第 5 章 Old Languages, New Models | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch05_Old_Languages_New_Models.txt) | 待解读 |
@@ -56,8 +65,8 @@ updated: "2026-11-10"
 
 > [!book-limits] 配套材料与引用
 > - **第 1 章** 合并致谢、卷首引语和第二版序言。
-> - **未编号增补篇** [Travel and Traffic](../../../../raw/Anderson_2016_Verso_txt/Afterword_Travel_and_Traffic.txt)。
-> - **参考文献** [Bibliography](../../../../raw/Anderson_2016_Verso_txt/Bibliography.txt) 单独保存。
+> - **第 11 章** 章末附后记《Travel and Traffic》，保留增补篇标题与页码标记。
+> - **参考[[Document|文献]]** [Bibliography](../../../../raw/Anderson_2016_Verso_txt/Bibliography.txt) 单独保存。
 > - **引文定位** TXT 保留 EPUB 内已有的页码锚点和注释。图像位置有文字标记，图像请在 EPUB 中查看。
 > - **版本记录** 版权页英国电子书 ISBN 为 9781781683590，EPUB 内部登记的是美国电子书 ISBN 9781844674848。详见[章节清单](../../../../raw/Anderson_2016_Verso_txt/manifest.json)。
 

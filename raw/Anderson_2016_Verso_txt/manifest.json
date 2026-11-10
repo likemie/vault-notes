@@ -439,50 +439,47 @@
       "images": [
         "lineOwenProctorJacksonvalidcommenthotmail"
       ],
-      "supplements": [],
-      "sha256": "d51b899dbfdf68c59f1636bce8c17eae3fe12f7c66fb465496ed76d4a3487073"
-    },
-    {
-      "chapter": null,
-      "kind": "afterword",
-      "title": "Travel and Traffic: On the Geo-biography of Imagined Communities",
-      "spine_id": "chapter_12",
-      "txt": "Afterword_Travel_and_Traffic.txt",
-      "page_markers": [
-        "211",
-        "212",
-        "213",
-        "214",
-        "215",
-        "216",
-        "217",
-        "218",
-        "219",
-        "220",
-        "221",
-        "222",
-        "223",
-        "224",
-        "225",
-        "226",
-        "227",
-        "228",
-        "229",
-        "230",
-        "231",
-        "232",
-        "233",
-        "234",
-        "235"
+      "supplements": [
+        {
+          "kind": "afterword",
+          "title": "Travel and Traffic: On the Geo-biography of Imagined Communities",
+          "spine_id": "chapter_12",
+          "page_markers": [
+            "211",
+            "212",
+            "213",
+            "214",
+            "215",
+            "216",
+            "217",
+            "218",
+            "219",
+            "220",
+            "221",
+            "222",
+            "223",
+            "224",
+            "225",
+            "226",
+            "227",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "233",
+            "234",
+            "235"
+          ],
+          "note_targets": 15,
+          "images": [
+            "lineOwenProctorJacksonvalidcommenthotmail",
+            "lineOwenProctorJacksonvalidcommenthotmail",
+            "img02"
+          ]
+        }
       ],
-      "note_targets": 15,
-      "images": [
-        "lineOwenProctorJacksonvalidcommenthotmail",
-        "lineOwenProctorJacksonvalidcommenthotmail",
-        "img02"
-      ],
-      "supplements": [],
-      "sha256": "e76ad595ecb37d4fafcbca71066e262f63a93fb3827dc08249237d68796b03df"
+      "sha256": "e279015d54c8bb2b8658f78431ec9846c1874299b3c78b8029aeff3cfb5c36a2"
     },
     {
       "chapter": null,

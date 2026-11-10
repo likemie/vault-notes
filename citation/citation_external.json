@@ -20219,6 +20219,8 @@
     "Ritts et al., 1992": "Ritts et al., 1992",
     "Riva et al. (2003)": "Riva et al., 2003",
     "Riva et al., 2003": "Riva et al., 2003",
+    "Rivas et al. (2020)": "Rivas et al., 2020",
+    "Rivas et al., 2020": "Rivas et al., 2020",
     "Rivas-Drake et al. (2014)": "Rivas-Drake et al., 2014",
     "Rivas-Drake et al., 2014": "Rivas-Drake et al., 2014",
     "Rivera (2015)": "Rivera, 2015",
@@ -40219,7 +40221,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-policy-reform/Deliverology.md"
       ],
       "title": ""
     },
@@ -86121,6 +86124,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Scripted Curriculum.md",
         "wiki/concepts/instruction-pedagogy/Instructional Core.md",
         "wiki/concepts/teacher-education/Instructional Coaching.md"
       ],
@@ -152143,7 +152147,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Scripted Curriculum.md",
+        "wiki/concepts/educational-policy-reform/Deliverology.md"
       ],
       "title": ""
     },
@@ -175094,6 +175100,22 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md",
         "wiki/concepts/educational-technology/Presence.md",
         "wiki/concepts/educational-technology/Virtual World.md"
+      ],
+      "title": ""
+    },
+    "Rivas et al., 2020": {
+      "aliases": [
+        "Rivas et al., 2020",
+        "Rivas et al. (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rivas et al., 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Governance Platform.md"
       ],
       "title": ""
     },
@@ -221992,7 +222014,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Governance Platform.md"
       ],
       "title": ""
     },

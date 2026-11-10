@@ -3802,6 +3802,14 @@
     ]
   },
   {
+    "title": "Scripted Curriculum",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Scripted Curriculum.md",
+    "aliases": [
+      "scripted lesson plans"
+    ]
+  },
+  {
     "title": "Self-spectator",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Self-spectator.md",
@@ -4221,6 +4229,11 @@
       "FSM",
       "免费学校供餐"
     ]
+  },
+  {
+    "title": "Governance Platform",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Governance Platform.md"
   },
   {
     "title": "Instructional Leadership",
@@ -6182,6 +6195,11 @@
       "Deliberative Spaces",
       "Spaces for Deliberation"
     ]
+  },
+  {
+    "title": "Deliverology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Deliverology.md"
   },
   {
     "title": "Democratising Evidence",
