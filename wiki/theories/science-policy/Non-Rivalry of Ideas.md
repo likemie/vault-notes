@@ -9,10 +9,10 @@ aliases:
 summary: "创新经济学与科学学核心理论，由 Paul Romer (1990) 在内生增长理论中奠定微观基础，并由王大顺与巴拉巴西 (Wang & Barabási, 2021) 拓展用于解释科学指数扩张的动力学机制；该理论主张科学思想具有非消耗性与非竞争性公共品属性，既有学术思想在被使用与传播过程中不仅不发生物理磨损与价值折旧，反而充当新假说繁衍母体，通过跨领域概念重组与范式重置持续开辟全新探索疆域，从根本上破解了传统物质生产要素的边际收益递减与科学增长饱和预言。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/science-policy
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Eroom's Law]]"
   - "[[Document]]"
+  - "[[Cumulative Innovation]]"
   - "[[Emergence]]"
   - "[[Research Question]]"
   - "[[Patent Citation]]"
@@ -40,7 +41,8 @@ related_persons:
   - "[[Derek de Solla Price]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
@@ -66,7 +68,7 @@ updated: 2026-11-11
 > [!theory-origin|notitle] 提出者如何形成理论
 > - **提出者与原始文本** 诺贝尔经济学奖得主保罗·罗默（Paul Romer）在 1990 年《内生技术进步》（*Endogenous Technological Change*）中首次将思想的非竞争性（Non-Rivalry of Ideas）作为新增长理论的微观基石；[[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Dashun Wang & Albert-László Barabási）在 2021 年《[[Metascience|科学的科学]]》（*The Science of Science*）第 15 章《[[Big Science|大科学]]》中，将其系统拓展至科学知识增长极限与饱和争论的解释。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 > - **原初问题** 普赖斯在 1961 年与 1963 年断言科学指数增长将在 20 世纪中叶因资源耗尽而转向逻辑斯蒂饱和曲线；且微电子等工业研发数据表明维持摩尔定律需要投入 18 倍于早期的研究人员，引发了科学探索是否正在耗尽动力的宏观困惑。
-> - **理论资源与材料** 罗默的内生技术增长经济学公理，结合 Web of Science 与《物理评论》跨越百年的全量科研成果与活跃学者时间序列，以及跨学科概念文本的大规模自然语言挖掘。
+> - **理论资源与材料** 罗默的内生技术增长经济学公理，结合 [[Web of Science]] 与《物理评论》跨越百年的全量科研成果与活跃学者时间序列，以及跨学科概念文本的大规模自然语言挖掘。
 > - **形成路径** 王大顺与巴拉巴西比对物质能源系统与符号知识系统的运作差异，指出内燃机耗尽汽油、细菌耗尽培养基均源于消耗性物理要素的有限性；与此相反，科学探索以思想为原料，概念的使用不仅不折旧，反而通过组合催生更多分支，促使知识生产持续开拓全新维度。
 
 > [!dev-timeline|notitle] 理论演进与扩展脉络
@@ -88,21 +90,21 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜学术思想的非消耗属性免除了物理原料的折旧规律
-> 物质生产系统受制于热力学与资源储量限制，汽油在燃烧中损耗，培养基在微生物繁殖中消耗殆尽。学术思想具备非竞争性与非消耗性特征，任何定理、算法或理论模型在被同行引用和验证时，其内在价值与可用容量丝毫不受物理磨损，后续研究者可以在完全零边际成本的前提下无损继承既有全部成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
+> 物质生产系统受制于热力学与资源储量限制，汽油在燃烧中损耗，培养基在微生物繁殖中消耗殆尽。学术思想具备非竞争性与非消耗性特征，任何定理、算法或理论模型在被同行引用和验证时，其内在价值与可用容量丝毫不受物理磨损，[[Cumulative Innovation|后续研究]]者可以在完全零边际成本的前提下无损继承既有全部成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 牛顿万有引力定律与微积分方程在被数以百万计的物理学家与工程师使用三百年后，其作为科学基础构件的理论完备性未发生丝毫物理折旧，持续充当现代航天工程与经典力学研究的前提。
 
 > [!theory-proposition] 命题二｜既有思想作为繁衍母体驱动概念组合呈指数级空间裂变
 > 思想在被使用的过程中会成为新概念繁衍的母体。学术界每确立一项前沿概念，就会为整个知识网络提供一个全新的潜在组合节点；两个既有概念的跨界交叉能够生成全新命题，促使概念组合的潜在状态空间以超线性速率急剧扩张，打破了传统物质系统的增长瓶颈。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 图灵计算模型与现代神经生物学概念的跨学科融合催生了人工神经网络与计算神经科学，推动了当代人工智能领域的蓬勃繁衍。
 
 > [!theory-proposition] 命题三｜单一技术轨道的边际收益递减通过新学科的[[Emergence|涌现]]得到对冲
 > 在界定明确的既定工程技术轨道上，创新确实面临“低垂果实被摘尽”的困境；例如维系摩尔定律芯片密度翻倍需投入 18 倍于 1970 年代早期的研发人力。然而，基础科学并不局限于单一固定轨道；当传统内燃机、微电子或经典抗生素的渐进改良逼近物理极限时，非消耗性思想的自由繁衍催生出基因编辑、再生医学与量子计算等全新学科，全面拓展了人类探索的新疆界。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 172–173)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 当硅基芯片微缩面临量子隧穿物理极限时，材料物理与生物工程的交叉探索开拓了碳纳米管芯片与类脑神经拟态计算等前沿阵地。
 
 ---

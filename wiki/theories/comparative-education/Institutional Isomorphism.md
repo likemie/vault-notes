@@ -9,7 +9,7 @@ aliases:
 summary: "组织社会学新制度主义理论，阐明处于同一场域中的组织因追求制度合法性与采纳合理化神话，通过强制型、模仿型与规范型三种机制走向结构与行为模式的系统性趋同。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Demonstration Effect]]"
   - "[[Value Neutrality]]"
+  - "[[Transnational Education]]"
   - "[[Global Testing Culture]]"
 related_theories:
   - "[[Rational Action Theory]]"
@@ -121,25 +122,25 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜强制型同构源于资源依赖关系与外部政治权威施加的法定规制要求
 > 组织在生存中高度依赖外部政治权威（如立法机关、教育行政部门）或垄断性资源提供者。当违背外部规制将面临丧失办学资质、失去生源拨款或遭受法律制裁的高昂制度成本时，组织倾向于调整内部结构以完全符合外部法定要求，促成场域内组织形态与管理流程的制度趋同。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 183)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 90–93)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[Department for Education|英国教育部]]通过法定[[Teacher Qualifications|教师资质]]标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education|CATE]] 与 [[Ofsted]] 督导审查，强制大学与教师培训机构转型为校本技能与循证合规模式，各培训机构为了确保办学资质与拨款而建立高度一致的质量监控体系；在跨国企业教育中，微软（Microsoft）利用操作系统市场的技术排他性，强制上下游生态伙伴采纳其统一的技术认证培训体系。
 
 > [!theory-proposition] 命题二｜模仿型同构是不确定性环境下以声誉标杆组织与合理化神话为参照的标准反应
 > 当组织技术面临严重模糊性、实践因果机制不明或政策未来走向充满高度不确定性时，组织难以依靠纯粹的理性计算做出最优决策。模仿场域内被公认为成功、具有现代性声望或占据领先地位的标杆组织，能以较低的探索成本为组织抵御外部质疑并赢得制度合法性，引发跨组织与跨国界的结构复制。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 184)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292, 297)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 全美大学微电子研究中心在面临微细加工装备成本暴涨与技术路径不确定性时，康奈尔大学国家亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）主动向加州理工等 40 余所院校输出设计蓝本，推动同类科研中心在[[Industry Affiliate Program|产业联盟计划]]（CAP）等组织结构上展开广泛模仿；众多跨国公司普遍采用源自美国的“[[Corporate University|企业大学]]”称谓构建内部培训架构以获取学术声誉；在跨区域治理中，[[ASEAN|东盟]]与非盟为提升一体化公信力，往往以[[EU|欧盟]]为模板开展[[Institutional Mimesis|制度拟态]]；在教育政策领域，英格兰政策制定者面对提升[[Competitiveness|国家竞争力]]的焦虑，密集模仿 [[PISA]] 高表现国家的最佳实践。
 
 > [!theory-proposition] 命题三｜规范型同构由专业化网络、人员跨组织流动与同行正当性标准共同驱动
 > 大学专业教育、跨国行业协会与专业咨询网络为特定领域的从业者提供了标准化的认知图式与职业规范。专业人员在跨组织流动中将相同的专业理念、机台操作规程与学术准则随身带入新机构，使专业共同体确立的行业规范演进为全场域通行的实践正当性标准，推动组织结构自发对齐。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 297)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 93–94)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，大学微电子研究中心的实践之所以快速趋同，关键机制在于教员与博士毕业生在不同大学与科研中心之间的持续流动，前康奈尔与加州理工学者将机台计费规范、洁净室运行准则随身移植至新任职大学；跨国培训项目普遍寻求英国 CPD 认证服务或欧洲管理发展基金会（EFMD）同行评审以确立专业标准；英国政府扶植[[Chartered College of Teaching|特许教学学院]]研制教师专业标准，通过同行共同体将循证规程内化为教师专业伦理。
 
 > [!theory-proposition] 命题四｜全球尺度上的制度同构内嵌着[[Knowledge Production|知识生产]]与地缘政治的不对称权力结构
 > 当模仿型与规范型同构跨越国界在世界范围扩散时，往往伴随着深层的[[Geopolitics|地缘政治]]与[[Knowledge Production|知识生产]]不对称。占据中心地位的发达国家跨国企业或国际组织将自身的地方性知识编码为普适的合理化脚本，外围国家与地方组织在采纳这些规范时，常常面临制度修辞与本土实践的脱耦，并在无形中强化了中心-边缘的依赖关系。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 194–195)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 419)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在跨国企业教育中，美欧跨国企业将西方企业大学管理规范向全球南方单向输出，使本土员工在接受技能培训的同时内化了跨国资本的治理逻辑；各主权国家为了获取现代性合法地位参与 PISA 测评并借用外部政策，造成国家正式政策修辞与学校实际教学之间的深层脱节。
 
 > [!mechanism-map]- 机制运行图
@@ -205,7 +206,7 @@ updated: 2026-11-11
 > > - **批判全球政治经济学立场** 强调跨国模仿与规范同构往往内嵌了西方中心主义知识霸权与跨国资本控制，加剧中心-边缘不平等。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 194–195)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 419)]]
 
 > [!critique] 批评索引
-> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 揭示传统同构理论忽略全球跨国教育扩散中知识与权力不对称的地缘政治维度。
+> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 揭示传统同构理论忽略全球[[Transnational Education|跨国教育]]扩散中知识与权力不对称的地缘政治维度。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 指出[[Global Testing Culture|全球考试文化]]驱动的跨国制度趋同造成国家政策修辞与学校实际教学之间的深层制度脱离。（p. 419）
 
 ---

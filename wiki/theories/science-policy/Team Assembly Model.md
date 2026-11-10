@@ -8,7 +8,7 @@ aliases:
 summary: "解释科研与创意团队如何从资深成员与新手组成的候选池中吸纳成员的生成性网络演化模型；通过资历参数与多样性参数量化团队成员经验累积与重复合作倾向，阐释合著网络巨连通分支的涌现机制，以及资深经验与新鲜思维配比对团队创新绩效的决定性作用。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 20
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Giant Component]]"
   - "[[Metascience]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Clustering Coefficient]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Analytical Stance]]"
 related_theories: []
 related_methods:
+  - "[[Journal Impact Factor]]"
   - "[[Random Sampling]]"
 related_instruments: []
 related_persons:
@@ -41,7 +43,9 @@ related_persons:
   - "[[Brian Uzzi]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
 confidence: high
@@ -99,10 +103,10 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜团队学术水平与集体资历经验正相关而与重复抱团倾向负相关
-> 跨学科实证表明，期刊影响因子与资历参数 $p$ 显著正相关。完全由初学者构成的团队在研究设计严谨度与工程推进上面临高风险，老手经验是成果达到高学术水准的基础前提；同时期刊影响因子与重复合作参数 $q$ 呈现稳健负相关，当资深老手反复与熟悉搭档在固定圈内搭档时，共有知识背景消除了思维摩擦，导致团队陷入同质化盲区。唯有高 $p$ 低 $q$ 的黄金组合能实现最高期刊影响力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–120)]]
+> 跨学科实证表明，[[Journal Impact Factor|期刊影响因子]]与资历参数 $p$ 显著正相关。完全由初学者构成的团队在研究设计严谨度与工程推进上面临高风险，老手经验是成果达到高学术水准的基础前提；同时期刊影响因子与重复合作参数 $q$ 呈现稳健负相关，当资深老手反复与熟悉搭档在固定圈内搭档时，共有知识背景消除了思维摩擦，导致团队陷入同质化盲区。唯有高 $p$ 低 $q$ 的黄金组合能实现最高期刊影响力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–120)]]
 
-> [!example] 应用实例
-> 在高能物理或天文学攻关中，资深学者延揽外部青年学者搭档，既保障实验方案成熟，又引入新分析算法，显著提升成果学术水准。
+> [!example|notitle]
+> 在高能物理或天文学攻关中，资深学者延揽外部[[Early-Career Researchers|青年学者]]搭档，既保障实验方案成熟，又引入新分析算法，显著提升成果学术水准。
 
 ---
 
@@ -111,7 +115,7 @@ updated: 2026-11-11
 > $$p_c(m, q) = \frac{1}{\sqrt{(m - 1)(1 - q)}}$$
 > 其中 $m$ 为平均团队规模，$q$ 为重复合作倾向。当资历参数满足 $p > p_c$ 时，网络涌现出跨团队全局贯通的知识共同体；而若熟人封闭抱团倾向极高（$q \to 1$），则导致 $p_c \to \infty$，网络不可避免地割裂为相互孤立的小圈子。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 254–256)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 跨学科新兴领域的学术建制化早期，如果资深学者缺乏跨界合作动力（$p < p_c$），整个学科合作网络会长期停滞于割裂的孤岛状态，难以形成统一的学术共同体。
 
 ---
@@ -119,7 +123,7 @@ updated: 2026-11-11
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 科研机构与高校院系如何优化研究团队的人员梯队配置？科技管理部门如何通过项目资助机制平衡学术传承与破除学术小圈子壁垒？
 > - **分析对象与单位** 基础科研、工程攻坚与文化创意领域的项目团队；[[Unit of Analysis|分析单位]]为团队成员资历构成比、新老连边关系与历史合署矩阵。
-> - **需要的材料** 完整历时性学术合著数据库（如 Web of Science、PubMed、Scopus）、学者首次发表年份记录、团队成员既往合作履历。
+> - **需要的材料** 完整历时性学术合著数据库（如 [[Web of Science]]、PubMed、[[Scopus]]）、学者首次发表年份记录、团队成员既往合作履历。
 > - **解释目标** 评估团队知识同质化风险与人员断层危机，诊断学术网络宏观连通性与集聚度。
 
 > [!theory-framework] 命题如何转化为分析维度

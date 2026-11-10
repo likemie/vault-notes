@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 33
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Technology Infusion]]"
+  - "[[Algorithmic Bias]]"
   - "[[Scaffolding]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -45,6 +46,7 @@ related_theories:
   - "[[Theory of Mind]]"
   - "[[Epistemic Injustice]]"
 related_methods:
+  - "[[Cognitive Extent]]"
   - "[[Semi-structured Interview]]"
   - "[[Typological Analysis]]"
 related_arguments:
@@ -101,31 +103,31 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜宇称原则确立心智跨越生理边界延展的[[Ontology\|本体论]]合法性
 > 认知科学不应以解剖学边界作为判定心智存在的标准。心智本质上是因果计算组织的功能体现。只要外部实体在解决问题时所执行的功能与内部神经运算相一致（如记录信息、执行模式检索或计算步骤转换），该实体便与人类主体构成统一的延展心智系统。这一主张打破了将外部技术视为异己力量的机械二元对立。Clark and Chalmers (1998, pp. 8–9); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 4)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在数学解题教学中，学生借助几何画板拖动图形观察变异轨迹。画板上的动态图形并非仅仅是呈现在眼前的感官刺激，而是与学生的空间推理[[Working Memory\|工作记忆]]深度耦合，直接构成了该学生几何证明认知过程的外在回路。
 
 > [!theory-proposition] 命题二｜[[Cognitive Offloading\|认知卸载]]是心智适应环境的核心策略而非认知缺陷
 > 人脑并非孤立全能的信息库，生物进化塑造了人类大脑善于将记忆、导航与模式存储外包给环境人造物的生物特性。通过将繁重的维持性记忆或机械运算卸载至外部媒介，人类能够最大化释放宝贵的工作记忆资源，投入到需要反思审思、目标监控与[[Creativity\|创造性]]整合的高阶任务之中。因此，工具性卸载本身是智能成熟的标志，而非心智懒惰的赤字。Clark (2025); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–5)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 学术论文写作中，研究者利用[[Document|文献]]管理软件储存数千篇论文的元数据与引用索引，从而将注意力完全集中于观点对话与论证建构，这属于高度自适应的认知卸载。
 
 > [!theory-proposition] 命题三｜良性认知延展依赖于人机耦合中评价性控制权的有效维系
 > 外部工具的整合并不必然自动导致心智的发展延展。唯有当使用者满足“信任与粘合标准”，即外部信息能够随时恢复、因果逻辑可以被理解并接受审查，且使用者始终掌握最终的[[Evaluative Judgement\|评价性判断]]与接纳决策时，技术中介才属于生产性延展；如果外部系统以黑箱形式直接裁决知识优劣或消解探究冲突，学习者便失去了中间认识动作，延展系统将退化为支配与被支配的有害[[Epistemic Dependence\|认识依赖]]。Clark and Chalmers (1998, p. 17); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–7)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 当学生使用生成式 AI 构思提纲时，若学生主动对比 AI 提纲与自身构思并辨析逻辑缺陷，AI 成为良性延展工具；若学生直接照搬 AI 生成的整段文献评价且无法向导师解释其推论依据，技术便从认知延展蜕变为认知替代。
 
 > [!theory-proposition] 命题四｜认知延展在越过机体能力边界后退化为[[Cognitive Deskilling|去技能化]]，切断教育的内在发展目标
 > 延展[[Theory of Mind|心智理论]]通常为认知卸载提供功能主义辩护，但哈迪尔·纳伊姆（Hadeel Naeem）从教育[[Epistemology|认识论]]（Educational Epistemology）出发，提出了一条隐含于该理论却未被充分阐明的规范性限制：延展的合法性取决于外部工具是否保留、而非替代了机体需要完成的认知挣扎过程。教育的三重目标（强化内生认知机能、传授智力技能、养成[[Epistemic Virtues and Vices|理智美德]]）要求学习者的大脑必须亲历调动工作记忆、推演逻辑与整合证据的完整认知回路；当生成式 AI 直接输出现成答案，这些回路被短路，学习者虽然在产出层面获得了工具延展，但却在能力层面遭受了认知萎缩（Cognitive Atrophy）。钢琴家若将演奏全部外包给自动播放器，其手指记忆必然退化——这正是延展越过机体能力边界的典型代价。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 270–273)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 一名学生要求 ChatGPT 直接生成完整的议论文段落，并将其复制提交。从延展心智角度看，文档产出确实经由人机耦合完成；但从机体能力边界角度看，写作过程中调动记忆、梳理论点与评估证据的认知挣扎被完全绕过，学生的写作机能不仅未获延展，反而因缺乏练习而逐渐萎缩。与之形成对照的是，Q-Tutor 设计拒绝直接给出答案、以追问替代解答，使人机耦合始终保持在良性延展区间内。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 274–278)]]
 
 ---
 
 > [!theory-use] 框架入口
-> - **[[Research Question\|研究问题]]** 评估教育数字化技术（特别是大语言模型、[[Learning Analytics\|学习分析]]仪表板与智能导师）究竟是“扩展了学生的认知广度”还是“剥夺了学生的[[Epistemic Agency\|认识主体性]]”。
+> - **[[Research Question\|研究问题]]** 评估教育数字化技术（特别是大语言模型、[[Learning Analytics\|学习分析]]仪表板与智能导师）究竟是“扩展了学生的[[Cognitive Extent|认知广度]]”还是“剥夺了学生的[[Epistemic Agency\|认识主体性]]”。
 > - **分析对象与单位** 人机交互情境中的“人—机耦合单元”，分析物理界面、[[Cognitive Offloading\|认知卸载]]行为、反思调控与产出质量。
 > - **需要的材料** 学生人机交互操作日志、提示词追问记录、出声思考（Think-aloud）协议、独立闭卷迁移测验与[[Semi-structured Interview\|半结构化访谈]]。
 > - **解释目标** 判定特定教育技术设计在功能上属于“生产性认知放大（Amplification）”还是“有害性心智外包（Atrophy）”。
@@ -145,7 +147,7 @@ updated: 2026-11-11
 > - **成立条件** 需要有可观察的人机交互回路（操作日志、出声思考协议），以及撤除工具后的能力迁移测验数据，才能区分良性延展与有害替代。
 > - **严格区别于心理学[[Theory of Mind\|心智理论]]（Theory of Mind, ToM）** 本理论探讨认知系统在物理环境中的空间延展与工具耦合，切勿与发展心理学中关于儿童理解他人信念意图的心智理论（ToM）混淆。
 > - **偶联谬误（Coupling-Constitution Fallacy）** Adams and Aizawa（2001）指出，不能仅因某物与人脑存在紧密的因果耦合便认定该物构成了心智本身；在教学实践中不能将技术采纳等同于心智能力的自然提升。
-> - **技术资本与[[Epistemic Injustice\|认识不正义]]盲区** 延展心智理论早期高度关注个体功能主义分析，较少关注商业平台垄断、算法偏见与付费壁垒对延展能力分配的结构性不平等，需结合社会[[Epistemology\|认识论]]与认识正义理论予以校正。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–8)]]
+> - **技术资本与[[Epistemic Injustice\|认识不正义]]盲区** 延展心智理论早期高度关注个体功能主义分析，较少关注商业平台垄断、[[Algorithmic Bias|算法偏见]]与付费壁垒对延展能力分配的结构性不平等，需结合社会[[Epistemology\|认识论]]与认识正义理论予以校正。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–8)]]
 > - **不能直接推出** 使用外部工具不能自动推出认知能力的发展；是否构成良性延展必须结合可恢复性测验与迁移证据独立评估。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "由 Cavanaugh et al. (2000) 开创，并经 LePine et al. (2005) 与 Podsakoff et al. (2007, 2023) 系统完善的职业压力与行为分析理论框架；该框架突破了传统压力研究的单一负面视角，将工作场所压力源划分为个体认为克服后可促进学习成长与成就的挑战性压力源，以及个体认为直接阻碍目标达成并无端消耗资源的阻碍性压力源，两类压力源通过相异的认知评价与心理机制对动机、创造力与绩效产生截然相反的作用。"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 7
+theory_related_count: 9
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -20,17 +20,19 @@ tags:
   - theme/creativity
   - field/higher-education
 related_concepts:
-  - "[[Original Innovation Capability]]"
-  - "[[Continuous Research Funding]]"
-  - "[[Academic Press]]"
-related_theories:
-  - "[[Ecological Systems Theory]]"
+  - "[[Creativity]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Construct Validity]]"
+  - "[[Research Question]]"
+related_theories: []
 related_methods:
-  - "[[Exploratory Sequential Design]]"
+  - "[[Analytic Framework]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[National Natural Science Foundation of China]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Mo_2026_BNSFC]]"
 confidence: high
@@ -43,9 +45,9 @@ updated: 2026-11-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 解释工作场所（包含高校与科研机构等学术组织）中不同性质的压力源如何通过相异的认知评估通道，对个体的心理体验、工作动机、创新行为与绩效产出产生差异化乃至对立性的影响效应。
-> - **理论问题** 回应传统职业压力理论将所有压力无差别视为有害身心健康的单维局限，阐明为何特定类型的竞争或工作负荷能够激发个体的创造力与攻关韧性。
-> - **理论类型** 职业心理学与组织行为学领域的经典因果解释模型与认知评价分析框架。
-> - **知识位置** 承继理查德·拉扎勒斯（Richard Lazarus）的认知交互评价理论（Transactional Theory of Stress），并在高校科研人员与青年学者职业发展研究中广泛扩展应用。
+> - **理论问题** 回应传统职业压力理论将所有压力无差别视为有害身心健康的单维局限，阐明为何特定类型的竞争或工作负荷能够激发个体的[[Creativity|创造力]]与攻关韧性。
+> - **理论类型** 职业心理学与组织行为学领域的经典因果解释模型与认知评价[[Analytic Framework|分析框架]]。
+> - **知识位置** 承继理查德·拉扎勒斯（Richard Lazarus）的认知交互评价理论（Transactional Theory of Stress），并在高校科研人员与[[Early-Career Researchers|青年学者]]职业发展研究中广泛扩展应用。
 
 > [!claim] 核心判断
 > 工作压力源在认知评估与行为后果上呈现清晰的二维结构，区分为挑战性压力源（Challenge Stressors）与阻碍性压力源（Hindrance Stressors）。前者指个体评估为虽然耗费精力但克服后能够带来个人成长、能力进阶和长远成就的要求（如高标准科研攻坚、适度同侪竞争）；后者指个体评估为无端干扰核心目标实现、无法通过个人努力消除的制度性障碍（如繁琐报销行政规程、角色冲突、职业不安全感与资源匮乏）。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 19)]]
@@ -53,13 +55,13 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** Cavanaugh et al. (2000) 在管理人员样本中首次实证确立了压力的二维结构；此后，LePine et al. (2005) 与 Podsakoff et al. (2007, 2023) 通过大规模元分析与理论综合，确立了挑战性—阻碍性压力源框架的普适性效度。
+> - **提出者与原始文本** Cavanaugh et al. (2000) 在管理人员样本中首次实证确立了压力的二维结构；此后，LePine et al. (2005) 与 Podsakoff et al. (2007, 2023) 通过大规模[[Meta-analysis|元分析]]与理论综合，确立了挑战性—阻碍性压力源框架的普适性效度。
 > - **原初问题** 早期实证研究中工作压力与工作绩效之间的关系呈现高度混乱，既有显著正相关、显著负相关，也有不显著或倒 U 型关系，理论界亟需清晰的分类机制解释这一分歧。
-> - **理论资源与材料** 理论基础吸收自 Lazarus and Folkman (1984) 的初级评价与次级评价理论、维克托·弗鲁姆（Victor Vroom）的期望理论，结合大样本实证调查与元分析效应量整合。
+> - **理论资源与材料** 理论基础吸收自 Lazarus and Folkman (1984) 的初级评价与次级评价理论、维克托·弗鲁姆（Victor Vroom）的期望理论，结合大样本实证调查与元分析[[Effect Size|效应量]]整合。
 > - **形成路径** 从个体对压力事件的主观意义建构切入，确立压力性质评估 $\rightarrow$ 期望与情感反应 $\rightarrow$ 行为产出的双轨因果链条。
 
 > [!dev-timeline] 理论版本与贡献
-> - **2000 年 — 二维压力模型奠基** Cavanaugh et al. (2000) 通过因子分析确立了挑战性与阻碍性压力源的独立构念效度。
+> - **2000 年 — 二维压力模型奠基** Cavanaugh et al. (2000) 通过因子分析确立了挑战性与阻碍性压力源的独立[[Construct Validity|构念效度]]。
 > - **2005 年 — 动机中介机制确立** LePine et al. (2005) 通过元分析证明，挑战性压力通过提高努力期望与动机水平正向促进绩效，而阻碍性压力直接损伤效价与动机期望。
 > - **2023 年 — 压力框架 2.0 理论拓展** Podsakoff et al. (2023) 发表框架 2.0 综述，进一步将认知评价、情绪调节与组织情境嵌入系统框架中。
 > - **2026 年 — 基础研究青年学者职业压力应用** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] 将框架应用于全国基础研究青年学者群体，揭示竞争压力与突破性创新绩效呈正相关（$r = 0.11, p < 0.01$），证实适度学术竞争具备显著的挑战性创新驱动属性。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 20)]]
@@ -80,7 +82,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜挑战性压力源能够通过激发认知警觉与内在钻研动机正向促进突破式创新
 > 当科研人员面临具有学术意义且结果可控的高难度科学任务或健康适度的同侪竞争时，个体倾向于将压力评估为展现学术能力与实现重大突破的契机。该认知激发深层问题聚焦与反思探索，推动学者变外在压力为内在动能。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 19)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 基础研究青年学者在面对学科未解之谜与前沿课题竞逐时，竞争压力促使其持续深化理论思考并校准选题方向，大样本调查证实竞争程度与自评创新绩效显著正相关（$r = 0.11, p < 0.01$）。
 
 ---
@@ -88,15 +90,15 @@ updated: 2026-11-11
 > [!theory-proposition] 命题二｜阻碍性压力源系统性消耗认知带宽与心理资源并严重阻抑学术原创潜能
 > 阻碍性压力源（如繁琐报销审核、缺乏长远预期的合同聘期、科研启动经费匮乏）属于个体凭纯粹学术努力难以克服的外在制度摩擦。该压力直接引发工作不安全感与职业倦怠，促使学者转向防御性避险策略与短平快发表，遏制非共识前沿探索。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 20)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 调查显示 35 岁以下青年学者因职业早期资源短缺与考核逼近，其工作压力（$M = 4.61 > 4.53, p < 0.01$）与不安全感（$M = 3.99 > 3.70, p < 0.01$）显著高于资深群体，阻碍其深耕周期长、高风险的核心科学命题。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 适用于探究高校与科研机构中高强度工作环境对青年学者学术产出、创新创造力与职业留存的复杂影响机制。
+> - **[[Research Question|研究问题]]** 适用于探究高校与科研机构中高强度工作环境对青年学者学术产出、创新创造力与职业留存的复杂影响机制。
 > - **分析对象与单位** 个体科研人员的主观压力感知、认知评价方式与实际创新绩效。
-> - **需要的材料** 深度访谈记录、李克特多维压力与工作体验量表、客观基金立项数据及成果产出记录。
+> - **需要的材料** [[In-depth Interview|深度访谈]]记录、李克特多维压力与工作体验量表、客观基金立项数据及成果产出记录。
 > - **解释目标** 准确区分促进学术创新的良性机制与阻抑学术活力的制度摩擦，指导高校学术治理与科研评价体系改革。
 
 > [!theory-framework] 挑战-阻碍压力框架分析维度

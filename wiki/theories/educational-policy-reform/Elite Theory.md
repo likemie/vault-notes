@@ -8,7 +8,7 @@ aliases:
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Epoché]]"
+  - "[[Homophily]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Whole Language]]"
@@ -43,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
+  - "[[Vilfredo Pareto]]"
   - "[[Joseph Schumpeter]]"
 related_facts:
   - "[[National Research Council]]"
@@ -70,9 +72,9 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 查尔斯·赖特·米尔斯（C. Wright Mills）在《权力精英》（*The Power Elite*, 1956）中系统确立了现代精英理论框架；拉尔夫·米利班德（Ralph Miliband）在《资本主义社会中的国家》（*The State in Capitalist Society*, 1969）中深化了国家机器与统治阶级精英的人脉与意识形态同质性分析。
+> - **提出者与原始文本** 查尔斯·赖特·米尔斯（C. Wright Mills）在《权力精英》（*The Power Elite*, 1956）中系统确立了现代精英理论框架；拉尔夫·米利班德（Ralph Miliband）在《资本主义社会中的国家》（*The State in Capitalist Society*, 1969）中深化了国家机器与统治阶级精英的人脉与意识形态[[Homophily|同质性]]分析。
 > - **原初问题** 资本主义代议制民主宣称主权在民，但实际公共资源的分配、战争动员与法律规制却始终受控于互通款曲的少数上层阶级。
-> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的科层官僚统治理论、帕累托与莫斯卡的政治精英循环论，以及[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter, 1942/1976）关于精英民主与议程操纵的经验经济学批判。
+> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的科层官僚统治理论、[[Vilfredo Pareto|帕累托]]与莫斯卡的政治精英循环论，以及[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter, 1942/1976）关于精英民主与议程操纵的经验经济学批判。
 > - **形成路径** 从剖析政治高层、军队首脑与跨国企业董事会的核心圈流动入手，证明政策本质上是权力精英实现社会规训与利益再生产的权威性工具。
 
 > [!dev-timeline] 理论演变与教育政策批判
@@ -97,13 +99,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜公共政策是具有相似偏好与权力的少数精英自上而下推进的产物而非公众意志的汇总
 > 精英理论主张，公共政策并非多元利益群体自由协商折衷的产物，而是集中体现了社会核心领导层的价值预设与长期战略利益。精英集团凭借对信息、资本、行政权力与专业[[Discourse|话语]]的垄断，能够极其高效地在封闭圈层内达成排他性共识，并将非主流群体的诉求阻挡在正式立法程序之外。[[Argument_Edmondson_2005_EPAA\|(Mills, 1956; Theodoulou & Cahn, 1995; Edmondson, 2005, p. 10)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在美国《[[Reading Excellence Act\|卓越阅读法案]]》审议期间，全美逾十万名公立学校一线教师致信国会反对法案对自然拼读的狭隘规制，但国会教育委员会领导层与少数政商精英直接通过口头表决（voice vote）强行通过法案，基层民意在封闭的精英决策中完全失效。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8)]]
 
 > [!theory-proposition] 命题二｜国家级专家委员会以技术客观性为面具组建同质化精英同盟并制造排他性科学共识
 > 在高度依赖专业知识的教育与社会政策领域，统治精英往往不直接诉诸政治强权，而是通过设立享有崇高声誉的国家级专家委员会来行使精英控制职能。遴选机制表面上高呼“把政治热情留在门外，唯专业能力是举”，实质上却通过预设的方法论偏好精准挑选来自量化实验、神经医学等主流同质化背景的学者，系统性排斥质性、[[Action Research|行动研究]]与社会文化视角的学者。通过这种方式出台的国家评估报告看似汇集了全国最高学术共识，实为精英寡头巩固自身知识霸权与商业同盟的强力杠杆。[[Argument_Edmondson_2005_EPAA\|(Schumpeter, 1976; Edmondson, 2005, pp. 9–10)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[National Research Council|国家研究委员会]]（NRC）的《预防幼童阅读困难》报告以及随后的[[National Reading Panel\|国家阅读委员会]]（NRP），成员绝大多数来自实证认知心理学与医学背景，其得出的“五大阅读技能”被直接写入联邦法律，而反对机械技能切片的质性学者与[[Whole Language\|全语言]]教育者被扣上“反科学”标签并彻底逐出国家政策咨询体系。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
 
 ---

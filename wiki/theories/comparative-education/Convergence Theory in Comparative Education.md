@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育中关于不同国家和地区教育系统在现代化与全球化进程中走向相似的解释范式；经历了从早期联合国教科文组织科学理想、技术趋同论、现代性模式变量到当代新制度主义同构论的演变；后遭历史制度主义与批判学者关于遮蔽政治权力、抹杀国家行政传统与中介调节的深入批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[National Large-Scale Assessments]]"
   - "[[Emergence]]"
   - "[[Research Question]]"
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Mobility]]"
   - "[[Falsification]]"
@@ -93,26 +94,26 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜现代化与工业技术发展的客观要求驱动教育系统跨国趋同
 > 经典技术趋同理论主张，随着工业化进程深入，现代生产方式对高技术劳动力与复杂协作的需求呈现普世化。不同国家无论其原有文化传统与政治体制存在何种差异，均须建立结构相近的中等与高等教育轨道、统一的标准化考核和文凭认证机制，以配合现代工业生产的[[Technical Rationality|技术理性]]要求。（Halsey et al., 1965; [[Argument_Cowen_2023_CE|Cowen, 2023, p. 333]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 二战后无论是奉行自由市场体制的欧美发达国家，还是实行计划经济的东欧国家，均系统性扩大了中等技术学校与高等工程院校的办学规模，形成了功能高度重合的专业技术人才培养体系。
 
 > [!theory-proposition] 命题二｜世界文化与[[Institutional Isomorphism|制度同构]]机制推动全球教育政策模板的仪式化采纳
 > 当代新制度主义将趋同动力归结为世界文化规范的扩散。全球层面的跨国组织、国际议题网络与专家共同体塑造了关于现代国家与普及教育的合法性脚本。主权国家为证明自身具备现代文明形态、争取国际援助与地缘合法性，即便在缺乏本土技术需求的情况下，也会模仿并采纳通行的教育政策规程（如全员参与国际学业测评），形成表层结构的高度同构。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 广大发展中国家积极将国家大尺度测评（[[National Large-Scale Assessments]], NLSA）写入本国教育基本法，向国际社会证明本国教育治理已对接以证据为本的国际质量标准。
 
 > [!theory-proposition] 命题三｜去主体化的修辞策略遮蔽了趋同背后的[[Geopolitics|地缘政治]]与霸权运作
 > 考恩指出，趋同理论在学术表述中普遍采取温和中性的语义策略，倾向于使用缺乏明确行动主体的动词（如“[[Emergence|涌现]]”、“成形”、“自发演进”）。这种修辞将充满不对称权力对抗、西方霸权输出与跨国金融借贷强制条件的政策单向输出，粉饰为自然演进、普遍有益的全球现代性进程，从而消解了对主导政策施动者政治经济动机的理论审视。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 跨国金融组织在提供结构调整贷款时附加私有化与标准化测评改革条款，但在官方评估报告中常被表述为受援国教育管理体系面对全球化挑战自发发生的“质量现代化升级”。
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释不同国家间教育政策模板、组织形态与法律规章的高度相似性成因；诊断跨国趋同究竟属于功能性技术适应、合法性同构仪式还是霸权规训。
-> - **分析对象与单位** 跨国教育政策文本、国家教育制度架构、国际组织规章准则；[[Unit of Analysis|分析单位]]为国家政策体系与全球[[Policy Mobility|政策流动]]网络。
+> - **分析对象与单位** [[Transnational Education|跨国教育]]政策文本、国家教育制度架构、国际组织规章准则；[[Unit of Analysis|分析单位]]为国家政策体系与全球[[Policy Mobility|政策流动]]网络。
 > - **需要的材料** 国际组织倡议文本、国家教育法律与改革白皮书、跨国贷款协定附加条款、历史制度档案与行政执行细则。
 > - **解释目标** 识别政策趋同的具体机制类型（技术驱动、模仿同构或强制施压），评估国家采纳属于实质性一体化还是表层仪式性脱耦。
 

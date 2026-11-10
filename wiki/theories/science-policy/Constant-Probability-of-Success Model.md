@@ -10,10 +10,10 @@ aliases:
 summary: "由 Dean Keith Simonton (1977, 1988) 提出的创造力与科学产出认知模型；指出在学术与艺术全生涯中，高影响杰作产出量与总产出规模保持严格恒定比例，单位尝试成功率终身恒定，高产时期涌现更多杰出成就完全源于尝试总次数的扩张，为随机影响法则提供了微观试错机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 16
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 24
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/creativity
@@ -22,13 +22,19 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Emergence]]"
+  - "[[Heterogeneity]]"
+  - "[[Hot Streak]]"
   - "[[Epistemology]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Question]]"
   - "[[Citation Distribution]]"
   - "[[Deliberate Practice]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Random Impact Rule]]"
+  - "[[R-Model]]"
+  - "[[Q-Model]]"
+  - "[[Chance-Configuration Theory]]"
   - "[[Hot Hand Fallacy]]"
 related_methods:
   - "[[Random Sampling]]"
@@ -41,7 +47,9 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Liu_2018_Nature]]"
+  - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -70,9 +78,9 @@ updated: 2026-11-11
 > [!dev-timeline] 理论演进与扩展脉络
 > - **1977 — 恒定成功概率假说的提出** 西蒙顿通过古典音乐大师历史数据确立杰作产出与产出总量成线性正比的经验关系。
 > - **1988 — 达尔文主义科学天才模型** 专著《科学天才》将假说拓展至科学探索，论证科学构想的产生类似于生物基因突变，前沿突破在微观上具有不可预知的盲目性。
-> - **2016 — 科学学大数据的全量证实与零模型推导** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）与[[Dashun Wang|王大顺]]等人通过物理学与跨学科数万名学者的全量引文追踪，将该假说形式化为科学学基准零模型（[[R-Model|R 模型]]），证实单人职业序列内代表作位次服从均匀分布（[[Random Impact Rule|随机影响规律]]），同时通过证实学者间存在持久的能力异质性进一步发展出 [[Q-Model|Q 模型]]。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–598)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> - **2016 — 科学学大数据的全量证实与零模型推导** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）与[[Dashun Wang|王大顺]]等人通过物理学与跨学科数万名学者的全量引文追踪，将该假说形式化为科学学基准零模型（[[R-Model|R 模型]]），证实单人职业序列内代表作位次服从均匀分布（[[Random Impact Rule|随机影响规律]]），同时通过证实学者间存在持久的能力[[Heterogeneity|异质性]]进一步发展出 [[Q-Model|Q 模型]]。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, pp. 597–598)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 > - **2018 — 跨科学、艺术与电影三界确证与修正** [[Lu Liu|刘路]]与王大顺等人在《自然》（*Nature*）证实跨学科科学家、艺术家与导演的高质量作品宏观分布支持成功恒定概率模型，但发现局部时间窗口存在集聚的爆发期现象（[[Argument_Liu_2018_Nature|Liu et al., 2018]]）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
-> - **2025 — 颠覆性创新与机会构型机制实证检验** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 基于 19,152 位经济学家全生命周期数据检验西蒙顿创造力机会构型理论，实证证实学术爆发期发文规模的扩张通过海量试错提高触碰颠覆性突破边界的几率（$\beta = 0.029$），同时揭示常规解谜型成果对原创颠覆度存在资源挤出效应。
+> - **2025 — 颠覆性创新与机会构型机制实证检验** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 基于 19,152 位经济学家全生命周期数据检验西蒙顿创造力[[Chance-Configuration Theory|机会构型理论]]，实证证实[[Hot Streak|学术爆发期]]发文规模的扩张通过海量试错提高触碰颠覆性突破边界的几率（$\beta = 0.029$），同时揭示常规解谜型成果对原创颠覆度存在资源挤出效应。
 
 ---
 
@@ -92,13 +100,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜杰出成果数量与总产出规模呈现不可分割的线性正相关
 > 在创造性领域中，顶尖成果以大量平庸尝试甚至未达预期的探索论著为基石。西蒙顿模型预测，即便对于阿尔伯特·爱因斯坦（Albert Einstein）或巴勃罗·毕加索（Pablo Picasso）这类旷世奇才，其产出顶级代表作的比例与普通同行相比并无量级优势；其终身重大成就的总量之所以傲视群雄，核心在于其一生完成了远超常人数量级的作品探索，借助规模效应多次触碰概率上限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 约翰·塞巴斯蒂安·巴赫（Johann Sebastian Bach）与沃尔夫冈·阿马德乌斯·莫扎特（Wolfgang Amadeus Mozart）流传于世的传世名曲数量最多，然而其一生所谱写的不常上演的世俗乐曲总量同样稳居欧洲音乐家榜首。
 
 > [!theory-proposition] 命题二｜个体在不同生涯阶段的单次突破概率保持恒定
-> 学者在职业生涯早期发表的研究，与在年过半百时完成的成果，其成为生涯最佳的概率完全相等。青年期突破密集直接源于青年学者为确立学术地位而投入了更为密集的研究频次。一旦资深科学家保持同等强度的发表节奏，其产出重磅突破的几率不会衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+> 学者在职业生涯早期发表的研究，与在年过半百时完成的成果，其成为生涯最佳的概率完全相等。青年期突破密集直接源于[[Early-Career Researchers|青年学者]]为确立学术地位而投入了更为密集的研究频次。一旦资深科学家保持同等强度的发表节奏，其产出重磅突破的几率不会衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 现代物理学家全样本发表序列显示，第 10 篇论著与第 40 篇论著各自获得单篇 1000 次以上引用的经验比例完全一致。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 55)]]
 
 ---

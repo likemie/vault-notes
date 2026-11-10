@@ -9,7 +9,7 @@ aliases:
 summary: "法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）在《空间的生产》（1991）中创立的批判空间理论分析框架，确立空间并非自然中立的被动容器，而是由社会关系生产的动态产物；通过空间实践（感知空间）、空间表征（构想空间）与表征性空间（活生生空间）三元辩证互动，为比较教育学解构学校空间治理规训以及分析高等教育区域产学政网络提供了核心理论透镜。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
+  - "[[Transnational Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
   - "[[Operationalization]]"
@@ -113,7 +114,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜空间是社会关系与权力运作主动生产的动态产物而非中性物理容器
 > 列斐伏尔确立了空间[[Ontology|本体论]]的重大转向：空间绝非独立于人类实践之外的被动几何背景或中立地理舞台，而始终是由社会关系、资本积累与政治权力主动生产的产物（(Social) space is a (social) product）。在教育领域中，这一命题打破了将学校仅仅视为座落在某一经纬度上的物理建筑的传统假定；正如 [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 所阐明，现代学校不仅坐落在空间之中，其日常运作本身就是一套生产可治理人口的空间技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 现代基础教育学区制并不是中立地划分生源范围，而是通过划定行政地理边界，将不同阶层与族裔家庭物理隔离在特定税收支持的学校之内，借由空间领地化主动再生产了社会分层。
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题二｜空间的生产依托感知空间、构想空间与活生生空间的三元辩证互动
 > 列斐伏尔提出，完整的社会空间分析必须同时把握三重视角的辩证张力：第一是日常物质流动的**感知空间**（空间的物质实践，保证社会生活的生产与再生产）；第二是由知识分子与统治精英通过[[Discourse|话语]]、规划与法规构想出来的**构想空间**（主导性话语与权力表征）；第三是普通使用者通过情感、记忆与微观实践所体验的**活生生空间**（对抗性与被压迫的表征性空间）。三者并非线性递进，而是在持续的摩擦、共谋或冲突中共同维系或重构空间形态。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高等教育整合中，高铁网络与跨境联合实验室构成物质层面的感知空间，政府出台的《大湾区发展规划纲要》与资助政策构成构想空间，而具备跨界经验的大学教师穿梭于深港两地所感受到的体制摩擦、文化认同与创新探索，则构成了鲜活的活生生空间。
 
 ---
@@ -129,14 +130,14 @@ updated: 2026-11-11
 > [!theory-proposition] 命题三｜考察学校与区域日常运作的空间实践是透视制度规训与主体能动的关键纽带
 > [[Thomas S. Popkewitz|波普科维茨]]与林德布拉德（Popkewitz & Lindblad, 2000）指出教育研究长期割裂了关注物质资源分配的“公平-参与视角”与关注文化话语分类的“知识系统视角”。[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论证，考察学校与教育行动者赖以运作的**空间实践（Spatial Practices）** 正是弥合两套视角的关键纽带：空间实践一方面作为物理过滤器（校舍大门、学籍准入、经费核算）决定身体准入，另一方面作为文化判决所（界定何为正常流动、何为病态漂泊）对主体实施资格审查；而身处其中的边缘与底层群体（如[[Migrant Children|随迁子女]]、游牧家庭、跨界学者）亦能在微观空间中自发开辟出生存自卫或制度创新的策略空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 印度拉巴里游牧家庭面对国家以正规学校强制推行定居化的构想空间，并未被动顺从，而是战略性送一个儿子入学获取识字资本，在空间实践中将学校转化为抵御外部商人欺瞒的生计保险单。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 适用于解释：教育机构如何通过空间规划与物理环境行使人口规训？政策[[Discourse|话语]]如何将流动性建构为合法美德或越轨缺陷？微观主体如何在结构性空间约束中开辟抗争与协作路径？
-> - **分析对象与单位** 涵盖微观校园建筑与教室桌椅空间、中观跨学区与区域创新空间（如 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]]），以及宏观跨国教育空间（如欧洲高等教育区）。
+> - **分析对象与单位** 涵盖微观校园建筑与教室桌椅空间、中观跨学区与区域创新空间（如 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]]），以及宏观[[Transnational Education|跨国教育]]空间（如欧洲高等教育区）。
 > - **需要的材料** 物理空间规划图纸与建筑[[Ethnography|民族志]]观察材料、官方政策文本与规划纲要、受教育者与教师的日常流动轨迹记录、质性[[In-depth Interview|深度访谈]]与口述史。
 > - **解释目标** 揭示主导性政策构想与微观主体具身体验之间的裂隙，评估空间实践在强化社会排斥或促进赋权变革中的中介机制。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -65,6 +65,7 @@ related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
+  - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
 status: active
 created: 2026-10-11
@@ -116,19 +117,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜制度是承载权力偏向的分配工具，稳定性依赖持续动员
 > 历史制度主义坚决拒绝将制度视为技术中立的协调均衡或自发共享认知；制度在建立之初就是政治权力冲突妥协的产物，制度性地赋予特定群体资源特权而剥夺另一群体的权益；制度获益者必须在日常政治中持续动员支持并压制异议，制度稳定本质上是处于动态紧张中的平衡。该命题由霍尔（Hall, 1986）与[[Theda Skocpol|斯考切波]]奠定，并被[[Wolfgang Streeck|施特雷克]]、希伦与[[James Mahoney|马奥尼]]继承为内生变迁动力学的基石。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 9–10]]）
 
 > [!theory-proposition] 命题二｜历史具有不可逆的时间性与[[Path Dependence|路径依赖]]，初始差异通过报酬递增产生锁定
 > 历史过程具有序列敏感性，事件发生的先后次序对最终结果具有决定性影响；一旦某一政策路径在关键节点被选定，学习效应、协调效应与适应性预期会产生巨大的报酬递增，使得逆转成本极高，将后续演化锁定在特定历史轨道之中。该命题确立了历史制度主义长时段比较历史分析的核心方法论原则。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Pierson, 2000, 2004; Mahoney, 2000, 引自 Mahoney & Thelen, 2009)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 美国在二战后通过雇主提供商业医疗保险并享受税收豁免的制度安排，在数十年间形成了庞大的私营保险与制药利益同盟，极大地锁定了后续全民公立医保改革的政策选择空间。
 
 > [!theory-proposition] 命题三｜制度作为社会规制具有成文规则与执行缝隙，常态内生微调累积能够实现深层质变
 > 历史制度主义在 2000 年代后克服了早期将变迁局限于外生危机（间断均衡）的理论偏误。施特雷克与希伦证明，制度本质上是依赖国家等第三方强制保障的社会规制，成文规则与基层实际执行之间始终存在四重结构性缝隙（预见局限、多义妥协、遵从策略与时代流变）；行动者无须推翻法律文本，通过置换、分层、漂移、转换与耗竭五大机制在基层微调实践，就能在长历史周期中累积出足以颠覆既有体制的结构性演进后果。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 8–19, 31)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 德国劳资共决制（Mitbestimmung）在魏玛时期初创时部分旨在分化激进工会；二战后被温和工会掌控并转用为争取体面劳动的堡垒；1990 年代面对全球资本市场竞争，劳资双方再次将其转用为在车间协商企业重组方案、提升国际[[Competitiveness|竞争力]]的合作中枢，在制度结构未曾中断的情况下经历了实质性的三阶段功能翻转。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 18]], 27, 32）
 
 ---

@@ -31853,6 +31853,18 @@
     ]
   },
   {
+    "title": "Eric Hobsbawm",
+    "type": "person",
+    "path": "wiki/persons/uk/Eric Hobsbawm.md",
+    "aliases": [
+      "艾瑞克·霍布斯鲍姆",
+      "霍布斯鲍姆",
+      "E. Hobsbawm",
+      "Hobsbawm, E.",
+      "Eric John Ernest Hobsbawm"
+    ]
+  },
+  {
     "title": "Ernest Gellner",
     "type": "person",
     "path": "wiki/persons/uk/Ernest Gellner.md",
@@ -31939,6 +31951,18 @@
     "aliases": [
       "Gunter, H.",
       "海伦·冈特"
+    ]
+  },
+  {
+    "title": "Hugh Seton-Watson",
+    "type": "person",
+    "path": "wiki/persons/uk/Hugh Seton-Watson.md",
+    "aliases": [
+      "休·塞顿-沃森",
+      "塞顿-沃森",
+      "H. Seton-Watson",
+      "Seton-Watson, H.",
+      "George Hugh Nicholas Seton-Watson"
     ]
   },
   {
@@ -32665,6 +32689,17 @@
     "aliases": [
       "托比·格里尼",
       "Greany, T."
+    ]
+  },
+  {
+    "title": "Tom Nairn",
+    "type": "person",
+    "path": "wiki/persons/uk/Tom Nairn.md",
+    "aliases": [
+      "汤姆·内恩",
+      "T. Nairn",
+      "Nairn, T.",
+      "Thomas Russell Nairn"
     ]
   },
   {
@@ -35894,6 +35929,20 @@
     "subtype": "program"
   },
   {
+    "title": "1978-1979 Indochina Armed Conflicts",
+    "type": "fact",
+    "path": "wiki/facts/asia/1978-1979 Indochina Armed Conflicts.md",
+    "aliases": [
+      "1978–1979年印支武装冲突",
+      "印支武装冲突",
+      "1978-1979 Indochina Wars",
+      "柬越战争与中越战争",
+      "第三次印度支那战争",
+      "Third Indochina War"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "ANTRIEP",
     "type": "fact",
     "path": "wiki/facts/asia/ANTRIEP.md",
@@ -37573,6 +37622,15 @@
       "Very Large Scale Integration Project"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Ecuadorian Education Reform 2006-2017",
+    "type": "fact",
+    "path": "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md",
+    "aliases": [
+      "ecuadorian-education-reform-2006-2017"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Estonian STEM Education Model",
@@ -42952,6 +43010,15 @@
     "subtype": "policy"
   },
   {
+    "title": "Polish Education Reform of 1999",
+    "type": "fact",
+    "path": "wiki/facts/poland/Polish Education Reform of 1999.md",
+    "aliases": [
+      "polish-education-reform-of-1999"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Programa de Avaliação Externa das Escolas",
     "type": "fact",
     "path": "wiki/facts/portugal/Programa de Avaliação Externa das Escolas.md",
@@ -46438,6 +46505,15 @@
     "subtype": "organization"
   },
   {
+    "title": "Long Beach Unified School District",
+    "type": "fact",
+    "path": "wiki/facts/us/Long Beach Unified School District.md",
+    "aliases": [
+      "long-beach-unified-school-district"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Manufacturing USA",
     "type": "fact",
     "path": "wiki/facts/us/Manufacturing USA.md",
@@ -46758,6 +46834,16 @@
     "subtype": "organization"
   },
   {
+    "title": "New York City Community School District 2",
+    "type": "fact",
+    "path": "wiki/facts/us/New York City Community School District 2.md",
+    "aliases": [
+      "new-york-city-community-school-district-2",
+      "NYC Community School District 2"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Office of Educational Research and Improvement",
     "type": "fact",
     "path": "wiki/facts/us/Office of Educational Research and Improvement.md",
@@ -46847,6 +46933,15 @@
       "Research Triangle Institute",
       "RTI 国际",
       "RTI International Inc."
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Sanger Unified School District",
+    "type": "fact",
+    "path": "wiki/facts/us/Sanger Unified School District.md",
+    "aliases": [
+      "sanger-unified-school-district"
     ],
     "subtype": "organization"
   },
@@ -47860,6 +47955,15 @@
       "阿帕网",
       "高级研究计划局网络",
       "Advanced Research Projects Agency Network"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Blueprint for Student Success",
+    "type": "fact",
+    "path": "wiki/facts/us/Blueprint for Student Success.md",
+    "aliases": [
+      "blueprint-for-student-success"
     ],
     "subtype": "program"
   },

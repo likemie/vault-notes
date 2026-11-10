@@ -9,7 +9,7 @@ aliases:
 summary: "社会学新制度主义学者理查德·斯科特（W. Richard Scott）于1995年提出的宏观分析框架，将制度界定为由规制性（Regulative）、规范性（Normative）与文化-认知性（Cultural-Cognitive）构成的复合连续体；该理论系统阐释了不同维度的合规基础、机制载体与合法性形态，不仅解释了组织形式的趋同与制度脱耦，更为解构国际组织如何从强制贷款转向以科学分类与认知常识为中介的认知治理（Epistemic Governance）提供了核心理论透镜。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
   - theme/global-governance
   - field/educational-governance
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Construct]]"
   - "[[Artefact]]"
   - "[[Operationalization]]"
@@ -68,7 +69,7 @@ updated: 2026-11-11
 > - **知识位置** 植根于社会学新制度主义（Sociological Institutionalism）与组织社会学，与迈耶与罗文（Meyer & Rowan）的制度合法性理论以及迪马吉奥与鲍威尔（DiMaggio & Powell）的组织[[Convergence Theory in Comparative Education|趋同理论]]紧密呼应。
 
 > [!claim] 核心判断
-> 制度是由规制性、规范性与文化-认知性要素构成的弹性复合连续体，三者共同为社会生活提供意义、稳定秩序与合规预期；在现代知识社会与跨国教育治理中，最深层且持久的治理力量往往超越了法律惩罚与道德劝导，依托于将特定科学分类、度量指标与最佳实践视为“客观真理”的文化-认知支柱。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 1–3)]]
+> 制度是由规制性、规范性与文化-认知性要素构成的弹性复合连续体，三者共同为社会生活提供意义、稳定秩序与合规预期；在现代知识社会与[[Transnational Education|跨国教育]]治理中，最深层且持久的治理力量往往超越了法律惩罚与道德劝导，依托于将特定科学分类、度量指标与最佳实践视为“客观真理”的文化-认知支柱。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 1–3)]]
 
 ---
 
@@ -98,13 +99,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜制度稳定性依赖多重合法性机制的复合支撑
 > 制度的有效运转建立在法理合法性（规制性）、道德合法性（规范性）与认知正统性（文化-认知性）的协调配合之上。当外部强制（如法律制裁）缺乏深层文化认同支撑时，行动者极易采取象征性应付或制度脱耦；唯有当制度规则被转译为行动者理所当然的认知常识，制度方能达成最高效且低监督成本的稳定性。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 2)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在[[International Education|国际教育]]发展中，[[World Bank|世界银行]]早期推行的结构调整贷款仅依赖规制性附加条件（借贷制裁），遭遇广泛政治抵制；而在知识转向后，世行通过发布《世界发展报告》与输出 [[Systems Approach for Better Education Results|SABER]] 标准，将特定改革方案塑造成国际通用的客观常识（文化-认知支柱），促使受援国官员主动调整国内政策。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2, 7)]]
 
 > [!theory-proposition] 命题二｜文化-认知支柱确立免于反思的深层治理权力
 > 文化-认知要素通过建构解释现实的范畴（Categories）与度量标准，决定了行动者“何为可能”、“何为理性”的思维边界。这一层面的治理主要通过将特定理论模型转化为中立技术工具，消除竞争性替代解释的合法空间，实现对行动者世界观与决策逻辑的潜移默化塑造。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2–3)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，当受援国普遍采纳微观计量学评估指标与技能测试标准时，教育被简化为[[Human Capital Theory|人力资本]]积累的过程已经成为理所当然的认知前提，国际组织无须动用行政制裁即可实现跨国教育议程的一致化。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2, 9)]]
 
 ---

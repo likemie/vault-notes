@@ -98,19 +98,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一　人类意识形态演进的终点是自由民主制
 > [[Francis Fukuyama|福山]]论证，君主制、法西斯主义与共产主义等替代性政治意识形态在 20 世纪的竞争中相继瓦解，自由民主制在理念层面已无根本性对手。人类历史并非漫无目的的循环，而是一部朝向自由、平等与民主治理的单向目的论进程。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在冷战结束初期，中东欧国家普遍开启向西方市场经济与代议民主制的“[[Transitology|转型学]]”（Transitology）制度移植，被广泛视为历史终结论在现实政策中的直接印证。
 
 > [!theory-proposition] 命题二　大国兴衰循环被普世自由秩序所超越
 > 福山理论暗示，古典现实主义所描绘的大国之间必然爆发霸权战争与兴衰更替的残酷历史循环只是前现代的幻觉；在自由民主国家之间构建的国际法规范与经济相互依存网络中，持久和平（[[Perpetual Peace]]）将自发维系。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 1990 年代西方大国大幅削减常规军费开支，享受冷战胜利后的“和平红利”，将国家安全重心转向全球反恐与区域维和。
 
 > [!theory-proposition] 命题三　历史终结论诱发[[Winner's Fallacy|胜者自满]]并销蚀国家防务[[Hard Power|硬实力]]（批判性反命题）
 > 依据[[Strategic Bargaining Theory|战略博弈论]]与《[[Technological Republic|技术共和国]]》现实主义批判，福山的历史终结论构成了典型的当代[[Winner's Fallacy|胜者谬误]]。正如学者[[Allan Bloom|阿兰·布鲁姆]]（Allan Bloom）所剖析，该理论诱人地消解了大国博弈的危机感；然而自由民主社会的存续从来不能单纯依靠道义优越感，它根本上依赖于拥有让对手明确预期的[[Hard Power|硬实力]]（而在 21 世纪硬实力的核心是算法软件）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 面对竞争对手极速推进人脸识别监控与[[Autonomous Drone Swarms|自主无人机蜂群]]的实战化，沉溺于历史终结论的硅谷年轻工程师却以道德洁癖抵制国家防务合作（如谷歌员工抗议[[Project Maven|梅文项目]]），暴露出该理论带来的深层战略自满与认知盲区。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–35)]]
 
 ---

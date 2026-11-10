@@ -7255,8 +7255,6 @@
     "Eric Hanushek et al., 2014": "Eric Hanushek et al., 2014",
     "Eric Hanushek, 1992": "Eric Hanushek, 1992",
     "Eric Hanushek, 2005": "Eric Hanushek, 2005",
-    "Eric Hobsbawm (1977)": "Eric Hobsbawm, 1977",
-    "Eric Hobsbawm, 1977": "Eric Hobsbawm, 1977",
     "Eric Schickler (2001a)": "Eric Schickler, 2001a",
     "Eric Schickler (2001b)": "Eric Schickler, 2001b",
     "Eric Schickler, 2001": "Eric Schickler, 2001a",
@@ -10935,7 +10933,9 @@
     "Hoadley, 2018": "Hoadley, 2018",
     "Hobbs (2012)": "Hobbs, 2012",
     "Hobbs, 2012": "Hobbs, 2012",
+    "Hobsbawm (1983)": "Hobsbawm, 1983",
     "Hobsbawm (2002)": "Hobsbawm, 2002",
+    "Hobsbawm, 1983": "Hobsbawm, 1983",
     "Hobsbawm, 2002": "Hobsbawm, 2002",
     "Hodgen (2019)": "Hodgen, 2019",
     "Hodgen et al. (2019)": "Hodgen et al., 2019",
@@ -11337,8 +11337,6 @@
     "Hugh Heclo, 1978": "Hugh Heclo, 1978",
     "Hugh Lauder (2007)": "Hugh Lauder, 2007",
     "Hugh Lauder, 2007": "Hugh Lauder, 2007",
-    "Hugh Seton-Watson (1977)": "Hugh Seton-Watson, 1977",
-    "Hugh Seton-Watson, 1977": "Hugh Seton-Watson, 1977",
     "Hughes & Kitson (2012)": "Hughes & Kitson, 2012",
     "Hughes & Kitson, 2012": "Hughes & Kitson, 2012",
     "Hughes & Way (2008)": "Hughes & Way, 2008",
@@ -17375,6 +17373,8 @@
     "Nagy, 2022": "Nagy, 2022",
     "Nahapiet & Ghoshal (1998)": "Nahapiet & Ghoshal, 1998",
     "Nahapiet & Ghoshal, 1998": "Nahapiet & Ghoshal, 1998",
+    "Nairn (1977)": "Nairn, 1977",
+    "Nairn, 1977": "Nairn, 1977",
     "Najafi & Heidari (2018)": "Najafi & Heidari, 2018",
     "Najafi & Heidari, 2018": "Najafi & Heidari, 2018",
     "Najafi et al. (2014)": "Najafi et al., 2014",
@@ -21884,6 +21884,8 @@
     "Setiawan & Phillipson, 2019": "Setiawan & Phillipson, 2019",
     "Setiawan et al. (2025)": "Setiawan et al., 2025",
     "Setiawan et al., 2025": "Setiawan et al., 2025",
+    "Seton-Watson (1977)": "Seton-Watson, 1977",
+    "Seton-Watson, 1977": "Seton-Watson, 1977",
     "Setting & Streaming (2021)": "Setting & Streaming, 2021",
     "Setting & Streaming, 2021": "Setting & Streaming, 2021",
     "Sevilla et al. (2022)": "Sevilla et al., 2022",
@@ -22578,6 +22580,7 @@
     "Smith (1982a)": "Smith, 1982a",
     "Smith (1982b)": "Smith, 1982b",
     "Smith (1983)": "Smith, 1983",
+    "Smith (1986)": "Smith, 1986",
     "Smith (1991)": "Smith, 1991",
     "Smith (1992)": "Smith, 1992",
     "Smith (1996a)": "Smith, 1996a",
@@ -22617,6 +22620,7 @@
     "Smith, 1982a": "Smith, 1982b",
     "Smith, 1982b": "Smith, 1982b",
     "Smith, 1983": "Smith, 1983",
+    "Smith, 1986": "Smith, 1986",
     "Smith, 1991": "Smith, 1991",
     "Smith, 1992": "Smith, 1992",
     "Smith, 1996": "Smith, 1996a",
@@ -24220,8 +24224,6 @@
     "Tollefson, 2019": "Tollefson, 2019",
     "Tom Loveless (2012)": "Tom Loveless, 2012",
     "Tom Loveless, 2012": "Tom Loveless, 2012",
-    "Tom Nairn (1977)": "Tom Nairn, 1977",
-    "Tom Nairn, 1977": "Tom Nairn, 1977",
     "Tombari & Borich (1999)": "Tombari & Borich, 1999",
     "Tombari & Borich, 1999": "Tombari & Borich, 1999",
     "Tomcho & Foels (2012)": "Tomcho & Foels, 2012",
@@ -27791,6 +27793,8 @@
     "赵春艳和刘志彪, 2025": "赵春艳和刘志彪, 2025",
     "起草团队与支持派专家 (2010)": "起草团队与支持派专家, 2010",
     "起草团队与支持派专家, 2010": "起草团队与支持派专家, 2010",
+    "边康尼与巴拉巴西 (2001)": "边康尼与巴拉巴西, 2001",
+    "边康尼与巴拉巴西, 2001": "边康尼与巴拉巴西, 2001",
     "迈耶等 (1997)": "迈耶等, 1997",
     "迈耶等, 1997": "迈耶等, 1997",
     "运用卢曼与肖尔 (1979)": "运用卢曼与肖尔, 1979",
@@ -45264,7 +45268,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/us/Blueprint for Student Success.md"
       ],
       "title": ""
     },
@@ -69880,7 +69885,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
-        "wiki/concepts/educational-leadership-administration/Instructional Leadership.md"
+        "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
+        "wiki/facts/us/Sanger Unified School District.md"
       ],
       "title": ""
     },
@@ -79838,6 +79844,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/us/New York City Community School District 2.md",
         "wiki/persons/us/Richard Elmore.md"
       ],
       "title": ""
@@ -80868,21 +80875,6 @@
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md",
         "wiki/facts/us/No Child Left Behind Act 2001.md"
-      ],
-      "title": ""
-    },
-    "Eric Hobsbawm, 1977": {
-      "aliases": [
-        "Eric Hobsbawm, 1977",
-        "Eric Hobsbawm (1977)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Eric Hobsbawm, 1977"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -91989,6 +91981,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/persons/uk/Ernest Gellner.md",
+        "wiki/persons/uk/Hugh Seton-Watson.md",
         "wiki/persons/us/Benedict Anderson.md",
         "wiki/theories/political-economy-geopolitics/Imagined Community.md"
       ],
@@ -107874,6 +107867,21 @@
       "seen_in": [],
       "title": "Effects of an afterschool program on elementary and middle school math achievement in Georgia schools"
     },
+    "Hobsbawm, 1983": {
+      "aliases": [
+        "Hobsbawm, 1983",
+        "Hobsbawm (1983)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hobsbawm, 1983"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Eric Hobsbawm.md"
+      ],
+      "title": ""
+    },
     "Hobsbawm, 2002": {
       "aliases": [
         "Hobsbawm, 2002",
@@ -110798,21 +110806,6 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/concepts/comparative-education/International Schools.md"
-      ],
-      "title": ""
-    },
-    "Hugh Seton-Watson, 1977": {
-      "aliases": [
-        "Hugh Seton-Watson, 1977",
-        "Hugh Seton-Watson (1977)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hugh Seton-Watson, 1977"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -113845,7 +113838,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/poland/Polish Education Reform of 1999.md"
       ],
       "title": ""
     },
@@ -154290,6 +154284,21 @@
       ],
       "title": ""
     },
+    "Nairn, 1977": {
+      "aliases": [
+        "Nairn, 1977",
+        "Nairn (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nairn, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Tom Nairn.md"
+      ],
+      "title": ""
+    },
     "Najafi & Heidari, 2018": {
       "aliases": [
         "Najafi & Heidari, 2018",
@@ -184619,7 +184628,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md"
       ],
       "title": ""
     },
@@ -187344,6 +187354,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md"
+      ],
+      "title": ""
+    },
+    "Seton-Watson, 1977": {
+      "aliases": [
+        "Seton-Watson, 1977",
+        "Seton-Watson (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Seton-Watson, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Hugh Seton-Watson.md"
       ],
       "title": ""
     },
@@ -192465,6 +192490,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+      ],
+      "title": ""
+    },
+    "Smith, 1986": {
+      "aliases": [
+        "Smith, 1986",
+        "Smith (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Smith, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Eric Hobsbawm.md"
       ],
       "title": ""
     },
@@ -200145,6 +200185,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md",
         "wiki/facts/latin-america/LLECE.md"
       ],
       "title": ""
@@ -204172,21 +204213,6 @@
       ],
       "title": ""
     },
-    "Tom Nairn, 1977": {
-      "aliases": [
-        "Tom Nairn, 1977",
-        "Tom Nairn (1977)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Tom Nairn, 1977"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
-      ],
-      "title": ""
-    },
     "Tombari & Borich, 1999": {
       "aliases": [
         "Tombari & Borich, 1999",
@@ -206315,6 +206341,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/us/Marc Tucker.md"
       ],
       "title": ""
@@ -222201,7 +222228,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Governance Platform.md",
-        "wiki/facts/uk/London Challenge.md"
+        "wiki/facts/uk/London Challenge.md",
+        "wiki/facts/us/Long Beach Unified School District.md"
       ],
       "title": ""
     },
@@ -229767,6 +229795,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Common Core State Standards.md"
+      ],
+      "title": ""
+    },
+    "边康尼与巴拉巴西, 2001": {
+      "aliases": [
+        "边康尼与巴拉巴西, 2001",
+        "边康尼与巴拉巴西 (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "边康尼与巴拉巴西, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
       ],
       "title": ""
     },

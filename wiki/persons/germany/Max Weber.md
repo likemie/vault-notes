@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,6 +45,7 @@ related_persons:
   - "[[Jerome E. Schnee]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
+  - "[[Eric Hobsbawm]]"
   - "[[Immanuel Kant]]"
   - "[[Friedrich Nietzsche]]"
   - "[[Yajun Zheng]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -205,7 +206,7 @@ updated: 2026-10-30
 > *Max Weber was the greatest thinker of our era, embodying a passionate will to clarity in an age of fragmented knowledge and moral confusion.*
 
 > [!citation-card] Hobsbawm 论社会史学中的韦伯[[Paradigm\|范式]]
-> 霍布斯鲍姆指出，韦伯的历史社会学构想为 20 世纪社会史学提供了与历史唯物主义并驾齐驱的分析范式，特别是在揭示制度变迁的观念维度方面发挥了不可替代的奠基作用。（Kocka, 1986）
+> [[Eric Hobsbawm|霍布斯鲍姆]]指出，韦伯的历史社会学构想为 20 世纪社会史学提供了与历史唯物主义并驾齐驱的分析范式，特别是在揭示制度变迁的观念维度方面发挥了不可替代的奠基作用。（Kocka, 1986）
 >
 > *Weber's historical sociology created a powerful analytical tradition that profoundly shaped modern social history alongside historical materialism.*
 

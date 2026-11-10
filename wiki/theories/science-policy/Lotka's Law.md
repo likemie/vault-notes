@@ -10,7 +10,7 @@ aliases:
 summary: "由 Alfred J. Lotka (1926) 提出的描述科学生产力宏观分布的经验统计定律；指出产出 N 篇学术论著的学者数量大致遵循反比平方幂律 P(N) = C / N^α（其中 α ≈ 2），约 60% 的学者终生仅产出 1 篇论著，揭示了科研知识生产高度集中于极少数多产精英的核心特征。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_persons:
   - "[[William Shockley]]"
 related_facts:
   - "[[Microsoft Academic Graph]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
@@ -77,14 +78,14 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜学术发表生产力呈现重尾幂律分布且底层单发学者占据主体
 > 洛特卡基于化学与物理学经验数据证实，发表 $N$ 篇论著的学者规模随 $N$ 的增加呈幂律急剧衰减。以经验指数 $\alpha = 2$ 计算，若发表 1 篇论著的学者比例约为 $60.8\%$，则发表 2 篇者约为 $15.2\%$，发表 3 篇者降至 $6.8\%$，发表 10 篇者不足 $0.6\%$。这一规律确立了科研成果集中于极少数顶尖核心研究人员的宏观不均衡特征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 12)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高校科研基金与人事晋升制度设计中，洛特卡定律说明常态化学术产出天然具备极度右偏性，强行假定全员均质产出的平均主义考核机制违背科学生产力的宏观经验规律。
 
 > [!theory-proposition] 命题二｜有限数据规模对区分幂律与对数正态分布构成统计识别瓶颈
 > 洛特卡定律作为纯经验观察总结，受制于 1926 年的数据采集规模，在尾部数据处理上难以严格区分连续无界幂律与重尾对数正态分布。后续以[[William Shockley|威廉·肖克利]]（William Shockley）为代表的研究表明，当[[Sample Size Determination|样本量]]充足且引入微观认知因果机制时，生产力数据在中等偏高产区间更契合对数正态分布，并受人类生理时间上界的约束而在极端尾部出现截断。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 12)]]
 
-> [!example] 应用实例
-> 文献计量学者在拟合现代大规模引文数据库（如[[Microsoft Academic Graph|微软学术图谱]]、Web of Science）时，需要借助拟合优度检验与赤池信息量准则（AIC）对比洛特卡幂律与对数正态模型，避免直接套用简单反平方公式而误判超高产学者的真实分布形态。
+> [!example|notitle]
+> 文献计量学者在拟合现代大规模引文数据库（如[[Microsoft Academic Graph|微软学术图谱]]、[[Web of Science]]）时，需要借助拟合优度检验与赤池信息量准则（AIC）对比洛特卡幂律与对数正态模型，避免直接套用简单反平方公式而误判超高产学者的真实分布形态。
 
 ---
 

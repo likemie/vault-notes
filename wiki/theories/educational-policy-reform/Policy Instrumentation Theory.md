@@ -9,7 +9,7 @@ aliases:
 summary: "由法国公共行动社会学者拉斯库姆（Pierre Lascoumes）与勒加莱斯（Patrick Le Galès）等创立的政策分析理论，将政策工具界定为兼具技术与社会政治属性的制度性装置。该理论指出政策工具兼具技术与政治属性，内嵌特定价值假定与认知图景，具有自主结构化公共政策的能力，并借助制度分层、功能转换与新支持群体形成产生长期的锁定效应。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Performance Pay]]"
   - "[[New Public Management]]"
+  - "[[Quasi-market]]"
   - "[[Exogenous Privatisation]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
@@ -110,25 +111,25 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜政策工具承载特定的认知图景与权力关系并产生独立于政策目标的制度效应
 > 拉斯库姆与勒加莱斯认为，政策工具具有鲜明的社会政治属性，其技术构造内部深深铭刻着对社会问题的特定再现方式与规范预设。工具通过规定何种信息具有合法性与测量边界，重塑公共议题的可见度，赋予掌握工具操作权的行动者以支配地位，进而形成独立于决策者最初意向的制度效应。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–251)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在教育领域引入标准化考试与量化指标后，教学质量被窄化为卷面成绩的可比数据，复杂的德育与[[Critical Thinking|批判性思维]]被边缘化，教育决策权由此从一线教师的[[Professional Judgment|专业判断]]转移到外部数据分析官僚与心理测量专家手中。
 
 > [!theory-proposition] 命题二｜政策工具的演进遵循渐进性制度变迁逻辑并具有自主累加叠加性
 > 政策工具的演进极少表现为推倒重来的激进变革，主要通过[[Institutional Layering|制度分层]]化（Layering）和[[Institutional Conversion|政策转换]]（Conversion）实现。初期引入的非侵入性低利害数据收集工具（如国家抽样监测）随着时间推移逐渐扎根累加，后续决策者会在此基础上不断追加高利害奖惩、绩效排名及行政接管等新层级，使政策工具呈现出单向度扩张与功能复合化特征。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 263)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 英格兰与智利的国家统考最初仅用于监测国家宏观学业基准或向家庭提供[[School Choice|择校]]参考，经过数十年的分层叠加，逐步演化为挂钩校长任免、教师[[Performance Pay|绩效工资]]及薄弱学校关停接管的复合型惩戒系统。
 
 > [!theory-proposition] 命题三｜既有政体行政传统对通用治理工具的采纳与制度化产生[[Path Dependence|路径依赖]]调节
-> 跨国流动的标准化治理工具在落地时遭遇本土历史制度结构的深刻中介过滤。核心[[New Public Management|新公共管理]]市场化国家倾向于利用工具刺激准市场竞争与[[Exogenous Privatisation|外生私有化]]；[[Neo-Weberian State|新韦伯主义国家]]倾向于将工具改造为捍卫公办系统质量基准与促进社会公平的中央协调机制；[[Napoleonic Administrative Tradition|拿破仑行政传统]]国家则由于高度法治化与常任文官工会的强抵制，往往呈现断续试错、局部妥协与反复摇摆。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 252–255)]]
+> 跨国流动的标准化治理工具在落地时遭遇本土历史制度结构的深刻中介过滤。核心[[New Public Management|新公共管理]]市场化国家倾向于利用工具刺激[[Quasi-market|准市场]]竞争与[[Exogenous Privatisation|外生私有化]]；[[Neo-Weberian State|新韦伯主义国家]]倾向于将工具改造为捍卫公办系统质量基准与促进社会公平的中央协调机制；[[Napoleonic Administrative Tradition|拿破仑行政传统]]国家则由于高度法治化与常任文官工会的强抵制，往往呈现断续试错、局部妥协与反复摇摆。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 252–255)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 同样面对公布学校测验排名的治理方案，英美将其作为家长择校赋权的核心支柱；挪威与丹麦在经历短期试水后因违背专业自治与平等传统而在国家层面废止了官方排位榜；意大利与西班牙则在党派轮替与工会杯葛中反复停摆。
 
 > [!theory-proposition] 命题四｜新型支持群体的利益网络与行政惯性共同促成工具的制度锁定
 > 一旦特定治理工具实现日常化运作，便会在制度外部催生出一批依赖该工具获取商业利润、研究资助或行政权力的衍生群体（如商业测评跨国集团、数据咨询中介、智库与专门评估机构）。这些主体与行政技术官僚形成共生同盟，促使工具在学术有效性证据遭遇广泛质疑时仍能保持制度粘性与自我维持（Lock-in）。[[Argument_Verger_2019_Discourse|Verger et al. (2019, pp. 252, 260)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 商业跨国出版集团（如培生集团）在获得国家大规模统考命题、阅卷与数据分析合同后，持续通过游说和课程配套开发推动测评频次增加与学段下沉，巩固了即便遭到[[Opt-Out Movement|退考运动]]抵制也无法轻易撼动的测评经济体系。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "由公共行政学者波利特（Christopher Pollitt）与布卡尔特（Geert Bouckaert）提出的国家治理与行政改革理论，用以概括欧洲大陆与北欧国家区别于英美新公共管理市场化的现代化转型路径。该理论保留韦伯式科层制作为公共利益、社会正义与公民权利守护者的制度基石，同时吸收结果导向与以公民为中心的现代管理技术，但在教育治理中主动限制激进的市场竞争、教育券与惩罚性排位表。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Transparency Bypass]]"
   - "[[School Choice]]"
   - "[[Research Question]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
 related_methods:
@@ -86,20 +87,20 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜现代化管理工具必须服从于保障公共利益与公民平等的韦伯式国家基底
 > 新韦伯主义行政模式确信国家是解决社会问题与维系教育公平的核心组织载体。引入学习标准与质量监控等现代管理装置，旨在强化政府对宏观公共服务质量的守护能力，拒绝通过制造学校间恶性市场竞争与优胜劣汰来配置教育资源。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 254)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 挪威与丹麦在 2000 年代初期引入国家级评估系统，其初衷在于应对 1980 至 1990 年代激进地方市政化分权所诱发的中央质量失控焦虑，借助国家质量监控框架重塑中央政府对教育平等的兜底保障。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255)]]
 
 > [!theory-proposition] 命题二｜行政理性主动限制数据公开排名的污名化与商业化倾向
 > 当评估数据可能被用于激化[[School Choice|择校]]竞争与给薄弱学校[[Coding in Qualitative Research|贴标签]]时，新韦伯主义政体倾向于动用国家行政规制权力，主动中断排位表发布或降低考核利害，使数据工具回归校本诊断与专业支持。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255, 258)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 挪威在 2005 年鉴于教师工会抵制与学生抗议宣布暂停官方发布学校排行榜；丹麦在 2011 年中左翼政府上台后，正式在国家层面废除学校排位表，体现了新韦伯主义政体防范教育过度市场化的规制意志。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释为何相同的标准化评价工具在不同国家呈现出截然不同的政策利害度与规制后果。
-> - **分析对象与单位** 跨国教育行政体制、国家政策文本、评估规章与中央地方权力配置。
+> - **分析对象与单位** [[Transnational Education|跨国教育]]行政体制、国家政策文本、评估规章与中央地方权力配置。
 > - **需要的材料** 国家教育立法法令、统考成绩使用指南、政府与教师工会协商纪要及跨国案例比较数据。
 > - **解释目标** 识别不同政体在公共服务改革中的核心价值偏好，判定治理现代化的差异化制度构型。
 

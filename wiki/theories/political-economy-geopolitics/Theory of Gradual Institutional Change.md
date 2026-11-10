@@ -115,31 +115,31 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜制度稳定性依赖持续政治动员，内生分配冲突构成变迁源泉
 > 制度绝非技术中立的协调工具或自发运转的静态均衡，而是承载不对称资源配置的权力分配体系。制度在创制之初就凝固了获益者与受损者的权力妥协；制度获益者必须在日常政治中持续投入动员资源以压制异议，制度稳定本质上是处于动态紧张中的平衡状态。权力对比的微小变动随时会打破这一平衡，为制度注入持续的内生变迁动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（示例：苏哈托政权维系分析，Mahoney & Thelen, 2009, pp. 9–10）
 
 > [!theory-proposition] 命题二｜成文规则与基层执行的结构性缝隙将日常遵从转化为渐变温床
 > 法规条文永远无法穷尽复杂的未来情境。这一缝隙源于四重客观张力：立法者的认知预见局限、多党妥协导致的条文模糊性（公共承载体效应）、基层行动者的[[Strategic Compliance|策略性遵从]]权衡，以及外部时代环境的持续流变。由于成文规则必须依赖能动主体的具体执行，行动者无须推翻法律文本，只需利用自由裁量权重新解释条文或消极执行，就能在法律外壳完好的情况下引发体制实质质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 德国[[Apprenticeship|双元制学徒培训]]制度在 1897 年由德皇威廉二世政府创制时，初衷是扶植保守的手工业作坊主以阻击工人运动；但数十年间，工会利用培训委员会的条文解释缝隙与基层谈判权，反向将其改造为维护工人高技能与高工资的劳资协商支柱。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 28–29]]）
 
 > [!theory-proposition] 命题三｜五类渐进变迁形态在规则存废、实施偏离与因果机制上呈现系统分野
 > 排除外生大危机的强制打碎，制度变迁在经验上聚焦为五种互斥形态：置换依托背叛与外来规则竞争；分层依托边际新规的差异化高速增长蚕食旧核心；漂移依托外部风险演变下的策略性不作为；转换依托新行动者利用规则多义性实现功能借壳重定向；耗竭依托制度常规成功运转对外部财政与人口生态的内生自噬。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–31)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 德国提前退休政策（Vorruhestand）原本为化解煤钢产业危机而设，但当其被泛化为全社会解决失业的万灵丹后，退休人员急剧膨胀，缴费人员严重缩水，常规运作自身彻底吃光了财政支撑根基，展现了典型的[[Institutional Exhaustion|制度耗竭]]机制。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 29–30]]）
 
 > [!theory-proposition] 命题四｜[[Veto Possibilities|政治否决阻力]]与[[Enforcement Discretion|制度裁量空间]]共同筛选主导行动者并限定演进路径
 > 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的解释执行[[Zone of Discretion|裁量空间]]（高/低）构成双维空间，限定了四类演进模式并筛选出优势行动者：强否决+低裁量驱动[[Institutional Layering|制度分层]]，由表面守法但暗中增补新规的[[Subversives|颠覆者]]主导；强否决+高裁量驱动[[Institutional Drift|制度漂移]]，由利用漏洞寄生套利的[[Symbionts|共生者]]主导；弱否决+低裁量驱动[[Institutional Displacement|制度置换]]，由公开违规挑战现状的[[Insurrectionaries|起义者]]主导；弱否决+高裁量驱动[[Institutional Conversion|制度转换]]，由相机抉择利用模糊性的[[Opportunists|机会主义者]]主导。成功的制度演进往往依赖于跨阵营策略性政治联盟的构建。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–31)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 巴西军政府时期的激进卫生改革者作为颠覆者，表面服从威权行政体系，利用基层偏远地区的治理真空分层建立自治诊所网络，直至民主化转型时期顺势重塑了全国公立医疗体制。（示例：Falleti 巴西卫生改革案例，Mahoney & Thelen, 2009, pp. 26, 30–31）
 
 > [!theory-proposition] 命题五｜市场化[[Liberalization|自由化]]改革以渐进演进为低阻力推进的特权路径
 > 建立非市场化的集体规制制度，需要克服严重的搭便车困境，动员全社会克服阻力服从统一的呼吁逻辑（Voice）；而推进自由化改革只需向微观个体提供一个私有市场替代选项，行动者自利最大化的退出逻辑（Exit）便会自动瓦解既有集体制度。这种集体行动门槛的非对称性，使置换、分层、漂移、转换与耗竭五大机制成为当代西方资本主义国家深入推进新自由主义市场重塑的默认优势路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 美国反对公共养老金的保守派政客并未正面发起废除社会保障的立法决战，而是分层增设 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人账户的爆炸性增长迅速吸引了中产阶级，通过市场退出机制顺水推舟地削弱了对公共社保的政治拥护。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 22–23]], 33）
 
 > [!logic-map]- 渐进制度变迁理论的因果传导全景

@@ -8,7 +8,7 @@ aliases:
 summary: "卡尔·波普尔提出的多元论本体论框架，将实在划分为物理世界（世界一）、主观经验世界（世界二）与客观知识世界（世界三）。在教育理论中，该框架常被用于界定独立于个体心理的客观知识建构，但在可见的学习等循证方案中遭受了联想式借用，引致将客观文化世界还原为纯粹主观认知操作、抽空学科实质内容与教化维度的学术争议。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Lecturing]]"
   - "[[Surface and Deep Learning]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
@@ -71,7 +72,7 @@ updated: 2026-11-11
 > - **知识位置** 科学哲学与知识认识论传统，后经[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter]]）引入教育研究与[[Knowledge Building Theory|知识建构理论]]，并在课程论与教学论争鸣中构成关键分析参照。
 
 > [!claim] 核心判断
-> [[Karl Popper|卡尔·波普尔]]（Karl Popper）在坦纳演讲（Tanner Lecture）与系列著作中提出，实在由三个不可相互还原的自主世界构成：世界一（World 1）是物理对象与物理状态的世界；世界二（World 2）是个体主观意识体验与心理状态的世界；世界三（World 3）是人类精神产物构成的客观思想内容世界，涵盖书籍、理论假说、艺术作品及未被解决的客观问题（Popper, 2011，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 10–11]]）。
+> [[Karl Popper|卡尔·波普尔]]（Karl Popper）在坦纳演讲（Tanner [[Lecturing|Lecture]]）与系列著作中提出，实在由三个不可相互还原的自主世界构成：世界一（World 1）是物理对象与物理状态的世界；世界二（World 2）是个体主观意识体验与心理状态的世界；世界三（World 3）是人类精神产物构成的客观思想内容世界，涵盖书籍、理论假说、艺术作品及未被解决的客观问题（Popper, 2011，转引自 [[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 10–11]]）。
 
 ---
 
@@ -105,19 +106,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜实在由物理、主观心理与客观知识三个互不还原的自主世界构成
 > 波普尔坚持[[Ontology|本体论]][[Pluralism|多元主义]]，论证客观思想产物具有实在性。世界三虽然源于人类中枢神经与主观心智的创造，但一旦以符号[[Externalization|外化]]，便脱离个体的心理过程，获得独立的本体地位；世界三能对世界二产生反作用，并借由世界二的心智实践干预世界一的物理状态（Popper, 1972; [[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 10–11]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在学校科学实验室中，物理实验器材属于世界一，学生探索时的困惑感与主观假设属于世界二，而教材中记录的牛顿力学定律与数学方程则构成世界三的客观知识对象；三者相互激荡驱动探究。
 
 > [!theory-proposition] 命题二｜世界三知识客体具有客观性并孕育着自主逻辑后果
 > 世界三不仅包含已被主体认知的知识，更包含由客观命题自身逻辑衍生出、尚未被任何人发现的潜在问题与矛盾。世界三的伟大之处在于其“客观伟大性”（objectively great），其价值与真理性依据逻辑有效性与经验检验标准而确立，脱离任何个别主观心智的肯定或偏好（Popper, 2011; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 当数学家提出一组公理系统时，该系统蕴含的所有数学定理及未解难题便作为世界三的客观实在而存在，有待后继学者在具体研究中加以发现和证明。
 
 > [!theory-proposition] 命题三｜教育学习涉及主观心智面向客观知识世界的建构与对话
 > 在教育学引介中，主观学习（世界二的心智变化）不同于客观知识产品的生产与改善（世界三的协同进化）。真正的教育探究不仅是个体心理能力的内隐熟练，更是学习者共同体利用符号工具对客观思想理论进行持续批判、检验与协同完善的社会实践（Bereiter, 2002; [[Argument_Terhart_2011_JCS|Terhart, 2011, p. 430]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 学生不仅在头脑中记忆既有历史叙事，更以书面文本形式提出关于某一历史事件因果链条的探究假说，在班级共同体中经受同学的论据检验，从而参与到世界三理论的完善活动中。
 
 ---

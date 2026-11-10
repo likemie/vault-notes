@@ -8,7 +8,7 @@ aliases:
 summary: "解释当代科学中团队规模分布从经典泊松分布向重尾幂律分布演进的双重生成模型；区分随机招募成员的小型核心团队与依赖高产学者声誉累积优势快速聚集成员的扩展团队，揭示两类团队在长期存续性与知识生产中的互补分工。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 22
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,31 +21,35 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Big Science]]"
   - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
   - "[[Metascience]]"
+  - "[[Agile Governance]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Guest Authorship]]"
-  - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Disruption Index]]"
+  - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
   - "[[Stasa Milojevic]]"
+  - "[[Santo Fortunato]]"
   - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Santo Fortunato]]"
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[CERN]]"
   - "[[Laser Interferometer Gravitational-Wave Observatory]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
-  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Heinze_2009_RP]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-30
@@ -74,7 +78,7 @@ updated: 2026-11-11
 > [!dev-timeline] 理论版本与贡献
 > - **2009 — 突破性与扩展期团队规模分工的质性经验发现** 迈因策等对 20 起重大科学突破开展历时多案例比较，实证确证重大原创突破无一例外发端于 2–8 人的小型核心团队；成名后的奖励机制推动团队急剧膨胀为 15–30 人以上的扩展团队；扩展团队虽胜任跟进既有发现并释放工程潜能，但科层汇报阻隔与导师管理超载导致原发性颠覆力丧失，为核心与扩展团队模型提供了微观组织视角的先行实证支撑。[[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 614, 620–621)]]
 > - **2014 — 双模演化模型确立** Milojević 形式化区分核心团队与扩展团队机制，建立团队规模演化动力学方程。
-> - **2018 — 《科学》全景综述论证团队规模生态均衡（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等人在《科学》发文系统梳理核心团队与扩展团队机制，指出小型团队是概念颠覆与新构想的源泉，扩展团队主导主流范式工程化完善，强调科技资助政策必须平衡支持各类规模团队以防止科学系统官僚化。
+> - **2018 — 《科学》全景综述论证团队规模生态均衡（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** [[Santo Fortunato|福图纳托]]等人在《科学》发文系统梳理核心团队与扩展团队机制，指出小型团队是概念颠覆与新构想的源泉，扩展团队主导主流[[Paradigm|范式]]工程化完善，强调科技资助政策必须平衡支持各类规模团队以防止科学系统官僚化。
 > - **2019 — 颠覆性与规模法则衔接** [[Lingfei Wu|吴令飞]]、[[Dashun Wang|王大顺]]与埃文斯（Wu et al., 2019）利用[[Disruption Index|颠覆性指数]]全景验证团队规模与创新形态，将核心团队关联至概念颠覆，将扩展团队关联至渐进发展。
 > - **2021 — 科学学系统化整合** 王大顺与[[Albert-László Barabási|巴拉巴西]]在《[[Metascience|科学的科学]]》第 12 章系统阐发该模型，指出团队规模演变本质上是科研协作从纯随机招募向声誉吸附累积演化的制度表征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 126–127)]]
 
@@ -94,21 +98,21 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜科研团队规模分布向幂律重尾演化反映了随机招募与声誉吸附的双模共生
 > 20 世纪中叶的科研团队规模由泊松分布完全主导，均值仅 1.5 人且基本不存在超过 8 人的团队；进入大科学时代后，基于优先连接机制的扩展团队迅速壮大，以老牌学者的声誉和资源成比例招募新人，拉动团队规模跨越数个数量级演变为重尾幂律分布。核心团队与扩展团队在全领域科研产出中的相对份额长期保持基本恒定，证明两类机制具有深层互补共生性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 126–127)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在当代天文学或高能物理学界，既存在导师带领两三名研究生探索非常规冷门假说的小型核心团队，也存在依托国家天文台或粒子对撞机由上千人联合署名的巨型扩展团队。
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
 > **规模双模分化与防止科学官僚化政策意涵** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，现代团队合署成果已占全部发表的 90% 以上，平均规模每十年以 17% 的速率扩张；小型核心团队展现出更强的颠覆性概念探索能力，而大型扩展团队则长于推进主流技术的工程化开发。科技管理与资助政策若单向偏向资助巨型扩展团队，将不可避免地导致科研体系官僚化并扼杀颠覆性源头创新，强调必须维持各级规模团队均衡发展的资助生态。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 2–3)]]
 
 > [!claim] [[Argument_Heinze_2009_RP|Heinze et al. (2009)]]
-> **微观突破案例对核心与扩展团队功能分工的经验验证** 迈因策等（[[Argument_Heinze_2009_RP|Heinze et al., 2009]]）对欧美 20 起顶尖科学突破实验室的追踪研究表明，重大颠覆性发现全部（20/20）诞生于 2 至 8 人的小型核心团队，无一诞生于超过 10 人的大团队；核心团队依靠扁平沟通与带头人一线沉浸保障了敏捷试错；然而，突破确立后的声誉奖励与经费倾斜驱使团队普遍膨胀为 15 至 30 人以上的扩展团队。尽管扩展团队能够有效跟进既有突破并释放应用潜能，但层级化决策与首席科学家行政超载导致其后续原创颠覆能力显著下滑，从微观组织动力学维度实证支撑了小型核心团队负责概念颠覆、大型扩展团队负责范式完善的功能分工法则。[[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 614, 620–621)]]
+> **微观突破案例对核心与扩展团队功能分工的经验验证** 迈因策等（[[Argument_Heinze_2009_RP|Heinze et al., 2009]]）对欧美 20 起顶尖科学突破实验室的[[Cohort Study|追踪研究]]表明，重大颠覆性发现全部（20/20）诞生于 2 至 8 人的小型核心团队，无一诞生于超过 10 人的大团队；核心团队依靠扁平沟通与带头人一线沉浸保障了[[Agile Governance|敏捷试错]]；然而，突破确立后的声誉奖励与经费倾斜驱使团队普遍膨胀为 15 至 30 人以上的扩展团队。尽管扩展团队能够有效跟进既有突破并释放应用潜能，但层级化决策与首席科学家行政超载导致其后续原创颠覆能力显著下滑，从微观组织动力学维度实证支撑了小型核心团队负责概念颠覆、大型扩展团队负责范式完善的功能分工法则。[[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 614, 620–621)]]
 
 ---
 
 > [!theory-proposition] 命题二｜核心团队依托成员稳定性存活而扩展团队依托人员动态更迭存活
 > 两类团队在组织生态学维度展现出截然相反的生命周期法则。小型核心团队依赖成员间的高度互信、默契与认知稳定性维系运作，人员的频繁流动会迅速瓦解其协作基础并导致团队解体；大型扩展团队则属于资源与技术密集型协作工程平台，其长久存续根本依赖于持续吸收新鲜血液与动态人员更迭，以维持大尺度工程的适应性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 127)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 欧洲核子研究中心（CERN）的数千人巨型团队通过博士后与访问学者的常态化轮换维系数十年的运转；而两三名理论学者构成的课题小组若核心成员离职则往往意味着该项目终止。
 
 ---
@@ -144,7 +148,7 @@ updated: 2026-11-11
 > > 围绕上千人联合署名的大型团队是否合理展开争论。
 > >
 > > - **大科学工程派** 强调引力波探测、强子对撞等极端前沿必须依赖数千名工程师与物理学家的协同分工，巨型团队是人类攻克超级复杂科学难题的制度保障。
-> > - **学术劳动异化批评** 指出巨型团队容易滋生荣誉性挂名与学术流水线装配工现象，掩盖了青年学者的真实智力贡献，导致个体学术能动性被庞大官僚建制所稀释。
+> > - **学术劳动异化批评** 指出巨型团队容易滋生荣誉性挂名与学术流水线装配工现象，掩盖了[[Early-Career Researchers|青年学者]]的真实智力贡献，导致个体学术能动性被庞大官僚建制所稀释。
 >
 > > [!axis] 资助偏好大团队对科学颠覆力的生态挤出
 > > 围绕科技政策大额支持大团队是否危及颠覆性创新展开争论。
@@ -157,4 +161,4 @@ updated: 2026-11-11
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》科学学综述中系统评述核心团队与扩展团队机制，指出小型团队依靠稳定核心存续、大型团队依靠人员流动维持寿命，论证平衡资助各种规模团队对防止科学官僚化的必要性。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 第 12 章系统评析米洛耶维奇核心与扩展团队模型，阐明天文学等领域半世纪团队规模演化的泊松-幂律双模机制（pp. 125–127）。
-> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 历时追踪 20 起重大科学突破团队演变，实证揭示所有重大突破均诞生于 2 至 8 人小型核心团队，成名后扩张为 15 至 30 人以上的扩展团队虽利于消化跟进既有突破，但科层化与管理超载导致后续颠覆性创造力丧失（pp. 614, 620–621）。
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 历时追踪 20 起重大科学突破团队演变，实证揭示所有重大突破均诞生于 2 至 8 人小型核心团队，成名后扩张为 15 至 30 人以上的扩展团队虽利于消化跟进既有突破，但科层化与管理超载导致后续颠覆性[[Creativity|创造力]]丧失（pp. 614, 620–621）。

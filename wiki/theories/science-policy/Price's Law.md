@@ -9,7 +9,7 @@ aliases:
 summary: "由 Derek de Solla Price (1963) 在《小科学，大科学》中提出的科学计量学经验分布定律；指出在特定学术共同体中，全部学术文献的 50% 由总学术人口的平方根（k = √N）贡献，揭示了科研知识生产中极端精英集中的平方根分布特征与学术分层结构。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 13
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Big Science]]"
+  - "[[Little Science]]"
   - "[[Knowledge Production]]"
+  - "[[Early-Career Researchers]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Lotka's Law]]"
@@ -64,7 +66,7 @@ updated: 2026-11-11
 > - **青线** 普赖斯平方根定律曲线 $k = \sqrt{N}$
 > - **灰虚线** 10% 线性等比参照线
 >
-> 调节滑块可直观验证：当学术人口从百人小科学膨胀至数千人大科学时，生产半数文献的核心精英规模仅按平方根低速增长，其在总体人口中的相对比重从 10% 迅速稀释至 2%，印证大科学时代人均核心产出的结构性稀释。
+> 调节滑块可直观验证：当学术人口从百人[[Little Science|小科学]]膨胀至数千人大科学时，生产半数文献的核心精英规模仅按平方根低速增长，其在总体人口中的相对比重从 10% 迅速稀释至 2%，印证大科学时代人均核心产出的结构性稀释。
 >
 > ![[wiki/assets/geogebra/price_law_elite.ggb]]
 
@@ -92,14 +94,14 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜学术文献半数产出由总科研人口的平方根精英群体所主导
 > 普赖斯通过实证拟合证明，科学知识生产呈现极度的不对称性。在总体规模为 $N$ 的科研领域中，将全部学者按发表总量降序排列，排名前 $k = \sqrt{N}$ 的学者累计产出达到全部文献量的 $50\%$。例如在拥有 10,000 名有效发表学者的学科内，仅需约 100 位核心顶尖学者即可产出半数学术论著，而其余 9,900 名学者共同分摊剩余的 $50\%$ 产出。该命题确立了学术共同体内知识生产的高度集中特征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 10)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高校与国家实验室编制规划中，普赖斯定律说明试图通过盲目扩招普通科研人员来实现学科生产力成倍增长的边际效益递减，建设具有高生产力引领力的领军团队是提升机构核心产出的关键支撑。
 
 > [!theory-proposition] 命题二｜学术共同体规模膨胀导致人均高阶贡献率的结构性稀释
 > 普赖斯定律表明，随着科学共同体总体规模 $N$ 的扩张，核心领军学者群体 $k$ 的增长速度严格受制于平方根函数 $\sqrt{N}$。当学科总人口扩大 100 倍时，核心贡献者队伍仅扩大 10 倍，导致核心精英占总人口的相对比重从 $\frac{1}{\sqrt{N}}$ 持续下行。这一结构性矛盾表明，大科学时代科研队伍的指数增长并未伴随等比例的顶尖产出者扩充，绝大多数学术后继者主要承担细分验证、方法完善与长尾补充性工作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 10)]]
 
-> [!example] 应用实例
-> 在新兴学科布局中，新设学位点与研究生招生规模的爆发式扩张如果缺乏相应顶尖导师团队的支撑，会导致毕业生与青年学者中单篇发文边缘群体的堆积，拉低人均学术产出指标。
+> [!example|notitle]
+> 在新兴学科布局中，新设学位点与研究生招生规模的爆发式扩张如果缺乏相应顶尖导师团队的支撑，会导致毕业生与[[Early-Career Researchers|青年学者]]中单篇发文边缘群体的堆积，拉低人均学术产出指标。
 
 ---
 

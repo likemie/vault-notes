@@ -9,7 +9,7 @@ aliases:
 summary: "由热茨基与福斯特等提出、经福图纳托等在《科学》封面综述中系统阐发的科学选题超图演化计算模型；将学科知识生产形式化为超图网络中的实体搜寻，实证测定学者基于避险理性的保守深耕策略仅能揭示全网 13% 潜在关联，而达 50% 最优效率的探索即可覆盖全部网络，揭示了个体发表理性与全局探索效率的深刻制度裂隙（Fortunato et al., 2018）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 10
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,19 +19,25 @@ tags:
   - theme/problem-selection
   - theme/complex-networks
 related_concepts:
+  - "[[Emergence]]"
+  - "[[Scientific Explanation]]"
+  - "[[Metascience]]"
+  - "[[Operationalization]]"
   - "[[Exploration-Exploitation in Science]]"
-  - "[[Path Dependence]]"
-  - "[[Combinatorial Novelty]]"
-  - "[[Scientific Productivity]]"
+  - "[[Document]]"
+  - "[[Research Question]]"
+  - "[[Original Innovation Capability]]"
+  - "[[Unit of Analysis]]"
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
-  - "[[Network Analysis]]"
-  - "[[Mechanism Experiments]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Santo Fortunato]]"
 related_facts:
+  - "[[National Academy of Sciences]]"
+  - "[[MEDLINE]]"
   - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Fortunato_2018_Science]]"
@@ -44,10 +50,10 @@ updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 科学共同体在微观科研选题与宏观知识疆界拓扑扩张之间的非线性涌现关系，以及集体探索效率在制度激励下的损耗机理。
+> - **解释对象** 科学共同体在微观科研选题与宏观知识疆界拓扑扩张之间的非线性[[Emergence|涌现]]关系，以及集体探索效率在制度激励下的损耗机理。
 > - **理论问题** 解释为何个体科研人员追求高产出的最优发表理性，会在宏观学科层面导致科学发现严重扎堆于成熟传统、全局探索效率极其低下的系统性失灵。
-> - **理论类型** 计算社会科学解释模型与超图网络演化模拟框架。
-> - **知识位置** 处于科学学（Science of Science）、复杂网络科学与科学社会学的交叉地带，深化了从传统选题社会学定性分析向大规模图拓扑仿真模拟的定量跨越。
+> - **理论类型** 计算社会[[Scientific Explanation|科学解释]]模型与超图网络演化模拟框架。
+> - **知识位置** 处于科学学（[[Metascience|Science of Science]]）、复杂网络科学与科学社会学的交叉地带，深化了从传统选题社会学定性分析向大规模图拓扑仿真模拟的定量跨越。
 
 > [!claim] 核心判断
 > 科学共同体在微观层面的避险深耕选题策略同宏观学科拓展知识网络的集体最优效率存在显著裂隙；在超图网络模拟中，由个体发表激励驱动的常规深耕仅能揭示全网约 13% 的潜在科学实体关联，而适度引入鼓励高风险探索的制度激励即可在 50% 最优效率水准上完整揭示全部知识网络。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
@@ -55,10 +61,10 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 由安德雷·热茨基（Andrey Rzhetsky）与雅各布·福斯特（Jacob G. Foster）等团队在 2015 年发表于《美国国家科学院院刊》（PNAS）与《美国社会学评论》（ASR）的研究中奠定，并经桑托·福图纳托等在 2018 年《科学》（*Science*）封面综述中形式化确立为科学学解析选题保守性与探索效率的标准理论标尺。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
-> - **原初问题** 传统科学计量学依赖简单的发文计数与引文累积，无法量化全学科科研选题在整个可能知识空间中的搜寻效率，难以评估同行评议与资助机制对学术冒险的系统性压制。
-> - **理论资源与材料** 依托 MEDLINE 索引的数百万篇生物医学同行评议论著中化学分子、基因与疾病实体共现关系，构建起包含数百万节点的高维超图网络；运用统计物理网络动力学与马尔可夫链模拟学者的集体搜寻路径。
-> - **形成路径** 将科研选题操作化为在既有实体网络上添加超边的行为，通过对比学者实际采取的历史路径与全局遍历最优路径，推导出保守策略与探索策略的量化效率差。
+> - **提出者与原始文本** 由安德雷·热茨基（Andrey Rzhetsky）与雅各布·福斯特（Jacob G. Foster）等团队在 2015 年发表于《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）与《美国社会学评论》（ASR）的研究中奠定，并经[[Santo Fortunato|桑托·福图纳托]]等在 2018 年《科学》（*Science*）封面综述中形式化确立为科学学解析选题保守性与探索效率的标准理论标尺。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
+> - **原初问题** 传统[[Bibliometric Analysis|科学计量学]]依赖简单的发文计数与引文累积，无法量化全学科科研选题在整个可能知识空间中的搜寻效率，难以评估同行评议与资助机制对学术冒险的系统性压制。
+> - **理论资源与材料** 依托 [[MEDLINE]] 索引的数百万篇生物医学同行评议论著中化学分子、基因与疾病实体共现关系，构建起包含数百万节点的高维超图网络；运用统计物理网络动力学与马尔可夫链模拟学者的集体搜寻路径。
+> - **形成路径** 将科研选题[[Operationalization|操作化]]为在既有实体网络上添加超边的行为，通过对比学者实际采取的历史路径与全局遍历最优路径，推导出保守策略与探索策略的量化效率差。
 
 > [!dev-timeline] 理论版本与贡献
 > - **2015 — 超图经验拓扑与选题保守性测定** 福斯特与热茨基等实证测定生物医药领域学者选题高度集聚于既有专长 1 至 2 步的拓扑近邻，高风险跨界创新极度匮乏。
@@ -75,14 +81,14 @@ updated: 2026-11-11
 > | [[Path Dependence]] | 理论 | 解释知识超图在成熟传统近邻区域自我强化的拓扑锁死机制。 |
 > | 知识超图（Knowledge Hypergraph） | 框架 | 将学者、化学分子、疾病与方法连接为多方超边的数学拓扑载体。 |
 > | 避险发表理性（Risk-Averse Rationality） | 机制 | 驱使学者放弃高风险探索而扎堆于既有成熟知识的制度诱因。 |
-> | 全局探索效率（Collective Discovery Efficiency） | 分类 / 框架 | 衡量科学共同体揭示全网潜在实体关联所需文献总量的基准尺度。 |
+> | 全局探索效率（Collective Discovery Efficiency） | 分类 / 框架 | 衡量科学共同体揭示全网潜在实体关联所需[[Document\|文献]]总量的基准尺度。 |
 
 ---
 
 > [!theory-proposition] 命题一｜科研选题的避险微观理性导致知识超图陷入局部稠密化的效率陷阱
 > 在现行以同行评议和即时发文量为导向的学术考评下，学者探索全新未经验证假设的边际回报不足以抵消实验失败导致颗粒无收的巨大职业风险。因而研究人员普遍采取保守深耕策略，新立项的课题高度局限于距离已有专长 1 至 2 步之内的近邻节点。这种选择在微观上维系了个体稳定的产出流，但在宏观上导致知识超图网络在成熟区域过度稠密化，耗费海量公共科研资源却仅能揭示全网极小比例的潜在关联。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高校化学与药学院系中，大量青年教师倾向于在资深导师已验证的分子母核上做微小官能团修饰，通过高频发表同质化论著完成聘期考核，而真正具有全新作用机理的化合物研发则无人问津。
 
 ---
@@ -90,15 +96,15 @@ updated: 2026-11-11
 > [!theory-proposition] 命题二｜资助机制引入前沿探索补偿可将全网发现效率提升至全局最优边界
 > 集体发现模拟表明，克服科学共同体保守陷阱的关键在于外部制度性纠偏。通过设立专项高风险探索基金、实施包容失败的长周期对人资助以及在同行评议中显式要求考核非常规新颖性，资助机构能够为学者承担试错沉没成本。当探索策略的系统效率达到全局最优水准的 50% 时，科学共同体即可凭借相同规模的科研投入实现对全网未知知识拓扑的完全覆盖。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 2)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 国家自然科学基金设立原创探索计划或交叉科学专项，明确对未获同行共识的高风险前沿构想提供兜底资助，使得学者敢于离开既有舒适区，开辟全新的学科交叉实验。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 解释学科知识空间扩张的微观动力学机制，评估科技资助机构项目评审制度对原始创新探索的激励或扭曲程度。
-> - **分析对象与单位** 跨学科大规模文献共现网络，分析单位为科学实体（如分子、基因、方法、理论概念）构成的知识超边与学者发表时序。
-> - **需要的材料** 领域全量文献索引元数据（如 MEDLINE、Web of Science）、实体提取受控词表以及基金项目立项资助流向数据。
+> - **[[Research Question|研究问题]]** 解释学科知识空间扩张的微观动力学机制，评估科技资助机构项目评审制度对[[Original Innovation Capability|原始创新]]探索的激励或扭曲程度。
+> - **分析对象与单位** 跨学科大规模文献共现网络，[[Unit of Analysis|分析单位]]为科学实体（如分子、基因、方法、理论概念）构成的知识超边与学者发表时序。
+> - **需要的材料** 领域全量文献索引元数据（如 MEDLINE、[[Web of Science]]）、实体提取受控词表以及基金项目立项资助流向数据。
 > - **解释目标** 量化测定特定细分领域的探索集中度指数，绘制实际探索路径与理论最优覆盖路径之间的偏离度。
 
 > [!theory-framework] 命题如何转化为分析维度

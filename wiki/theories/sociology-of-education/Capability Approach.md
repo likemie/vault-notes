@@ -10,10 +10,10 @@ aliases:
 summary: "阿马蒂亚·森提出的福利与发展评价框架，将扩展个人与群体的实质自由界定为发展的核心目标，在高等教育与国际发展研究中为诊断大学多元使命、批判全球大学排名及阐明跨国定向工程教育自主造血机制提供了分析工具。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 26
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/capability-approach
   - theme/social-justice
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[University Social Responsibility]]"
+  - "[[Lecturing]]"
   - "[[Phronesis]]"
   - "[[Global Universities Rankings]]"
   - "[[Engineering Education]]"
@@ -31,17 +32,20 @@ related_concepts:
   - "[[Employability]]"
   - "[[Further Education]]"
   - "[[Research Question]]"
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Self-Efficacy]]"
   - "[[Academic Freedom]]"
   - "[[General Education]]"
   - "[[Reflexivity]]"
+  - "[[Study Abroad]]"
   - "[[Geopolitics]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Journal Impact Factor]]"
 related_persons:
   - "[[John Rawls]]"
   - "[[Pepka Boyadjieva]]"
@@ -71,7 +75,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 阿马蒂亚·森（Amartya Sen）在 1979 年坦纳讲座（Tanner Lecture）《什么方面的平等？》（*Equality of What?*）中首次提出可行能力构想，并在《以自由看待发展》（*Development as Freedom*, 1999）中系统确立理论体系。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 128)]]
+> - **提出者与原始文本** 阿马蒂亚·森（Amartya Sen）在 1979 年坦纳讲座（Tanner [[Lecturing|Lecture]]）《什么方面的平等？》（*Equality of What?*）中首次提出可行能力构想，并在《以自由看待发展》（*Development as Freedom*, 1999）中系统确立理论体系。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 128)]]
 > - **原初问题** 传统功利主义关注主观效用满足，易受适应性偏好（贫困群体安于现状）扭曲；[[John Rawls|罗尔斯]]的基本善清单关注收入等外在资源占有，忽视了不同人群将资源转化为实际福祉的能力差异（如残障者使用同等收入所获自由截然不同）。
 > - **理论资源与材料** 吸收了[[Aristotle|亚里士多德]]关于人类繁荣（eudaimonia）与潜能实现的哲学思想、卡尔·马克思关于人的自由全面发展论述，以及全球贫困、饥荒与跨国不平等的实证经济调查材料。
 > - **形成路径** 从批判资源占有论和主观效用论出发，森区分了商品资源、功能性活动（一个人实际能够做什么、成为什么）与可行能力（实际享有并可自由选择的功能组合空间），将自由界定为发展的根本目标与首要手段。
@@ -102,38 +106,38 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜发展的实质是拓展人们实际享有的自由，福祉评价必须立足于个体的可行能力空间
 > 阿马蒂亚·森认为，单纯以物质收入或国内生产总值衡量发展，忽视了收入仅是促进福祉的外在手段。人类生活的真正目的在于实现自身的自由繁荣。可行能力路径将评价基点确立在个体实际能够成为什么、做什么的实质自由空间之上，要求公共政策关注不同个体在健康、教育与政治参与等维度上的实质选择机会。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 128)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 评估一项贫困生教育资助项目时，不仅考察发放了多少助学金，更重点考察学生是否真正获得了免受经济顾虑干扰、自主选择专业与参与学术竞赛的实质自由。
 
 > [!theory-proposition] 命题二｜教育对可行能力的拓展包含内在价值、工具性收益与社会赋权等多重维度
 > 让·德雷兹与森指出，教育并不单是一种获取劳动力市场溢价的个人投资，其价值具有多重不可[[Commensuration|通约]]的维度。读书思考与获得知识本身拓展了个体的心智自由，具有不依赖外部经济回报的内在重要性；教育增强个体参与公共辩论的社会技能与拓展社会网络；同时，教育为弱势群体争取制度权益与平等分配提供了赋权基础。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 128)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 综合大学开设人文学科通识课程，使工科学生掌握反思科技伦理与社会正义的思维工具，直接激活了个体理智审视自身境遇的心智能力。
 
 > [!theory-proposition] 命题三｜资源占有不等于可行能力实现，个体与[[Institutional Conversion|制度转换]]因素决定资源向自由转化的效能
 > 同样的外部资源对不同个体而言并不能产生同等的可行能力拓展。转换因素（包括个体生理条件、社会文化规范、地理与制度环境）制约着资源向实际功能的转换。在教育政策中，若忽视弱势群体面临的[[Cultural Capital|文化资本]]短缺与结构性壁垒，即便提供名义上平等的硬件投入，亦无法实现实质性的教育可行能力平等。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 偏远乡村学校即便配齐多媒体数字化设备，若缺乏掌握现代教学法的专任教师与配套网络维护体系，设备硬件无法自发转化为学生的实际数字素养。
 
 > [!theory-proposition] 命题四｜基于单一科研声望的[[Global Universities Rankings|全球大学排名]]扭曲并遮蔽了高等教育的多维使命空间
 > 博亚吉耶娃基于可行能力路径论证指出，大学不仅具有促进经济生产的组织功能，更承担着建构社会认知框架与分配地位的制度责任。全球主流大学排名系统仅捕捉了多维使命矩阵中极小一部分（个体层面的[[Employability|就业力]]与社会层面的科研经济创新），系统性边缘化了大学在培育人格健全、捍卫思想自由、弘扬公共理性及赋能弱势群体社会流动等维度的核心价值。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 128–136)]]
 
-> [!example] 应用实例
-> 许多区域性大学为追求大学排行榜名次，削减服务地方社区生计与成人[[Further Education|继续教育]]的公共预算，转而集中资源追求高影响因子刊物发表指标，导致大学与本土社区发展需求脱节。
+> [!example|notitle]
+> 许多区域性大学为追求大学排行榜名次，削减服务地方社区生计与成人[[Further Education|继续教育]]的公共预算，转而集中资源追求高[[Journal Impact Factor|影响因子]]刊物发表指标，导致大学与本土社区发展需求脱节。
 
 > [!theory-proposition] 命题五｜以关键基础设施与本土工程人才培养为核心的国际援助实践践行了内生造血的能力进路
 > 刘文等学者指出，传统国际援助往往依赖单纯的资金转移或附带苛刻政治条件的贷款，难以解决受援国实体基建落后与工业技能匮乏的根本矛盾。基于能力进路的国际发展模式，通过重大交通能源工程建设与定向培养本土工程技术骨干相衔接，使受援国青年获得高水平系统工程运维能力并回流关键产业一线，从根本上激活了受援国自主维护现代化产业的内生动力。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 中国行业高校与中资跨国基建企业面向中亚及东南亚开展定向[[Engineering Education|工程教育]]（如 1+4 石油工程、1+3+1 水电电气工程），为伙伴国培养了大批能独立运维跨国天然气管道与高压电网的本土工程师队伍。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 某项教育政策、国际援助计划或大学评价体系是否促进了真实的社会福祉？各项指标对高等教育的多元价值是否存在结构性遮蔽？受助群体是否获得了实质性的自主发展能力？
-> - **分析对象与单位** 国家高等教育发展战略、全球大学评估指标体系、跨国教育合作项目；[[Unit of Analysis|分析单位]]涵盖宏观政策文本、大学使命宣言与微观学生受训及发展实录。
+> - **分析对象与单位** 国家高等教育发展战略、全球大学评估指标体系、[[Transnational Education|跨国教育]]合作项目；[[Unit of Analysis|分析单位]]涵盖宏观政策文本、大学使命宣言与微观学生受训及发展实录。
 > - **需要的材料** 大学评价指标权重方案、高校财政预算分配账目、定向人才培养协议文本、毕业生学业与就业发展追踪档案、受援国基建工程本土工程师占比统计。
 > - **解释目标** 诊断评价工具与政策干预的价值均衡性，识别遮蔽内在价值与社会正义的制度盲区，评估项目在赋能行动者能动性与促进内生发展方面的实际效能。
 
@@ -179,7 +183,7 @@ updated: 2026-11-11
 >   - **D2.2｜跨国造血与关键基建能力积累**
 >     - **D2.2.1｜技术主权与本土化工程梯队**
 >       - **含义** 发展中国家依托与伙伴国高校定向合作，建立能够独立运营现代化工业体系的人才储备。
->       - **观察线索** 重大跨国工程本土中高级工程师占比、留学生全额回流率。
+>       - **观察线索** 重大跨国工程本土中高级工程师占比、[[Study Abroad|留学]]生全额回流率。
 >       - **判读规则** 本土人才全面接管基建运维体现了受援国技术自主可行能力的长足发展。
 >       - **归属与出处** 跨国高教实证扩展；[[Argument_Liu_2025_IndHE|(Liu et al., 2025)]]。
 

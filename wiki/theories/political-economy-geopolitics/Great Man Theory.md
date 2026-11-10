@@ -91,13 +91,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜关键领袖的战略决断是打破历史平衡与激发时代潜能的引燃闪电
 > 卡莱尔主张，环境与客观条件仅仅提供了时代变革的燃料，但若缺乏具备非凡意志与真理洞察力的领袖作为闪电进行决断引燃，历史将陷入长期停滞与平庸妥协。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Carlyle, 1841/1908; Karp & Zamiska, 2025, p. 197)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 新加坡在 1965 年被迫独立时面临严峻的族群撕裂与生存危机，[[Lee Kuan Yew|李光耀]]以极具前瞻性的战略决断力主导推行[[Speak Mandarin Campaign|讲华语运动]]与公职薪酬市场化对标，将一个脆弱岛国塑造为全球科技与金融枢纽。
 
 > [!theory-proposition] 命题二｜去英雄化的平庸[[Bureaucracy|科层制]]与后现代解构会系统性削弱文明的战略生存能力
 > 卡普与扎米斯卡指出，当现代社会在平均主义与后现代解构名义下将所有历史领袖贬损为缺陷平庸者、彻底消解英雄崇拜与卓越追求时，国家便会失去在重大科技与防卫工程中承担风险的意志源泉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 美国在[[Manhattan Project|曼哈顿工程]]与核潜艇研发中高度依赖[[J. Robert Oppenheimer|奥本海默]]与[[Hyman Rickover|里科弗]]等硬核工程领袖的铁腕推进；一旦科研体制被平庸的委员会与[[Red Tape|繁文缛节]]所统治，颠覆性工程突破便会陷入停滞。
 
 ---

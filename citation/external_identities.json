@@ -10463,7 +10463,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/us/Blueprint for Student Success.md"
       ],
       "title": ""
     },
@@ -25296,7 +25297,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
-        "wiki/concepts/educational-leadership-administration/Instructional Leadership.md"
+        "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
+        "wiki/facts/us/Sanger Unified School District.md"
       ],
       "title": ""
     },
@@ -31246,6 +31248,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/us/New York City Community School District 2.md",
         "wiki/persons/us/Richard Elmore.md"
       ],
       "title": ""
@@ -31863,14 +31866,6 @@
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md",
         "wiki/facts/us/No Child Left Behind Act 2001.md"
-      ],
-      "title": ""
-    },
-    "Eric Hobsbawm, 1977": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -38552,6 +38547,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/persons/uk/Ernest Gellner.md",
+        "wiki/persons/uk/Hugh Seton-Watson.md",
         "wiki/persons/us/Benedict Anderson.md",
         "wiki/theories/political-economy-geopolitics/Imagined Community.md"
       ],
@@ -48122,6 +48118,14 @@
       "seen_in": [],
       "title": "Effects of an afterschool program on elementary and middle school math achievement in Georgia schools"
     },
+    "Hobsbawm, 1983": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Eric Hobsbawm.md"
+      ],
+      "title": ""
+    },
     "Hobsbawm, 2002": {
       "doi": "",
       "isbn": "",
@@ -49891,14 +49895,6 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/concepts/comparative-education/International Schools.md"
-      ],
-      "title": ""
-    },
-    "Hugh Seton-Watson, 1977": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -51703,7 +51699,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/poland/Polish Education Reform of 1999.md"
       ],
       "title": ""
     },
@@ -76318,6 +76315,14 @@
       ],
       "title": ""
     },
+    "Nairn, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Tom Nairn.md"
+      ],
+      "title": ""
+    },
     "Najafi & Heidari, 2018": {
       "datasets": [
         "metax:S1602"
@@ -94490,7 +94495,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md"
       ],
       "title": ""
     },
@@ -96129,6 +96135,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md"
+      ],
+      "title": ""
+    },
+    "Seton-Watson, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Hugh Seton-Watson.md"
       ],
       "title": ""
     },
@@ -99251,6 +99265,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md",
         "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+      ],
+      "title": ""
+    },
+    "Smith, 1986": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Eric Hobsbawm.md"
       ],
       "title": ""
     },
@@ -103940,6 +103962,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md",
         "wiki/facts/latin-america/LLECE.md"
       ],
       "title": ""
@@ -106376,14 +106399,6 @@
       ],
       "title": ""
     },
-    "Tom Nairn, 1977": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
-      ],
-      "title": ""
-    },
     "Tombari & Borich, 1999": {
       "doi": "",
       "isbn": "",
@@ -107685,6 +107700,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/us/Marc Tucker.md"
       ],
       "title": ""
@@ -117378,7 +117394,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Governance Platform.md",
-        "wiki/facts/uk/London Challenge.md"
+        "wiki/facts/uk/London Challenge.md",
+        "wiki/facts/us/Long Beach Unified School District.md"
       ],
       "title": ""
     },
@@ -121732,6 +121749,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Common Core State Standards.md"
+      ],
+      "title": ""
+    },
+    "边康尼与巴拉巴西, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Price Cumulative Advantage Model.md"
       ],
       "title": ""
     },

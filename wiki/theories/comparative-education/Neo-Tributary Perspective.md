@@ -112,25 +112,25 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜[[Chinese Exceptionalism|中国例外论]]驱动高等教育构建世界一流知识[[Innovation Hub|创新中心]]并追求国际认同
 > 该命题表明，当代中国对外战略蕴含着深层的文明自信与卓越追求。大学被赋予构建自主知识创新中心与提升学术国际地位的国家使命，向国际社会展示现代科技与经济成就，以此确立其在跨国知识网络中的引领地位。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1045–1046, 1051)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 清华大学、北京大学等顶尖高校设立北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]（Institute of [[South-South Cooperation]] and Development, ISSCAD），面向全球南方国家政要与学术精英开设公共管理和国家发展全英文研修项目，集中展示当代国家治理实践与政策经验。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1052)]]
 
 > [!theory-proposition] 命题二｜跨国高等教育交流深度绑定周边睦邻外交与经贸合作网络
 > 该命题揭示了高教合作与[[Geopolitics|地缘政治]]经济的高度依附关系。中国对外设立的政府奖学金、援外培训项目与校际合作，往往作为重大双边外交会晤、多边峰会（如中国—[[ASEAN|东盟]]峰会、澜湄合作机制）的标志性成果公布，旨在通过培育熟悉中国语言文化的经贸人才降低跨国交易成本。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050–1051)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 云南省教育厅指派大理大学与[[Royal University of Phnom Penh|金边皇家大学]]合建汉语中心，落实桥头堡对外开放战略；[[Confucius Institute|孔子学院]]直接为中国免税品集团等中资企业定向培训柬籍员工。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050–1051)]]
 
 > [!theory-proposition] 命题三｜高教输出追求当代发展治理模式的文化认同而非传统文明同化
 > 朱柯锦与[[Rui Yang|杨锐]]在 2025 年修正了[[Suyan Pan|潘苏燕]]等学者早期沿袭[[John King Fairbank|费正清]]模型的文化同化假设。实证调查表明，周边弱小受访国家并未被同化于儒家传统伦理，中国高教对外传播重点亦已转向以《中国概况》、移动支付、数字经济与基础设施发展经验为代表的当代国家治理叙事，旨在争取对其作为补充性现代化方案的客观认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 2017 年后教育部调整来华留学生必修的《中国概况》课程大纲，当代国情与古代知识点比例达 1.2:1；孔子学院编写《[[Belt and Road Initiative|一带一路]]·文化先行》教材，重点引入移动支付、共享单车等当代生活方式。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1049)]]
 
 > [!theory-proposition] 命题四｜善意礼遇与特权供给易诱发形象工程短期化与合作虚置张力
 > 该命题揭示了新朝贡模式在操作层面的内在矛盾。为在短期内塑造友善大国形象，高校对留学生给予优厚奖学金、独立住宿与降格学业考核，这种缺乏统一学术标准的过度礼遇不仅引发国内社会争议，也削弱了高教实质吸引力；受外交驱动的大量校际谅解备忘录（Memorandum of Understanding, MOU）因缺乏学术内生动力而沦为名义合作。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 部分高校留学生及格线降至 45 分，与本土学生 60 分形成鲜明落差；多所中国高校与金边皇家大学签署合作备忘录后从未派员实地回访开展实质性学术研究。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1052)]]
 
 ---

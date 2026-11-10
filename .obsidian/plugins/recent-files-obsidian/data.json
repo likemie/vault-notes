@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Barrenechea_2023_JEC",
+      "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+    },
+    {
+      "basename": "Argument_Unal_2026_JECR",
+      "path": "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md"
+    },
+    {
+      "basename": "Chaperone Effect",
+      "path": "wiki/theories/science-policy/Chaperone Effect.md"
+    },
+    {
+      "basename": "Imagined Community",
+      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch01",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
     },
     {
       "basename": "Ernest Gellner",
       "path": "wiki/persons/uk/Ernest Gellner.md"
-    },
-    {
-      "basename": "Imagined Community",
-      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
     },
     {
       "basename": "template-concept",
@@ -83,10 +95,6 @@
     {
       "basename": "Soft Privatisation",
       "path": "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
-    },
-    {
-      "basename": "Chaperone Effect",
-      "path": "wiki/theories/science-policy/Chaperone Effect.md"
     },
     {
       "basename": "Argument_Santos_Silova_2026_Discourse",
@@ -191,14 +199,6 @@
     {
       "basename": "Random Impact Rule",
       "path": "wiki/theories/science-policy/Random Impact Rule.md"
-    },
-    {
-      "basename": "Constant-Probability-of-Success Model",
-      "path": "wiki/theories/science-policy/Constant-Probability-of-Success Model.md"
-    },
-    {
-      "basename": "Yang_2017_MUE",
-      "path": "sources/Yang_2017_MUE/Yang_2017_MUE.md"
     }
   ],
   "omittedPaths": [],

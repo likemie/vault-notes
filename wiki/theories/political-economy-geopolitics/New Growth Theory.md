@@ -7,7 +7,7 @@ aliases:
 summary: "将知识积累、技术创新与人力资本投资从传统外生假定转变为经济系统内生核心引擎的经济学理论。论证创意与知识具有非竞争性与收益递增特征，打破资本边际报酬递减规律；驱动全球教育治理向学习型经济、实用操作技能与终身学习全面转向。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -18,6 +18,7 @@ tags:
   - endogenous-growth
   - comparative-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Lifelong Learning]]"
@@ -69,7 +70,7 @@ updated: 2026-11-11
 > - **解释对象** 长期经济持续增长的内在动力源泉，尤其是知识创新、技术进步与高素质劳动力如何在没有外部冲击的情况下驱动经济产出。
 > - **理论问题** 克服新古典增长模型将技术进步视作外生“天赐”之假设，解释为何国家间收入差距未能随资本积累自然收敛，阐明知识要素报酬递增的微观与宏观机制。
 > - **理论类型** 宏观经济解释理论与政策[[Analytic Framework|分析框架]]。
-> - **知识位置** 诞生于新古典宏观经济学与[[Evolutionary Economics|演化经济学]]的交叉地带，在跨国教育政策中成为[[OECD|经合组织]]（OECD）构筑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Lifelong Learning|终身学习]]政策纲领的核心理论支柱。
+> - **知识位置** 诞生于新古典宏观经济学与[[Evolutionary Economics|演化经济学]]的交叉地带，在[[Transnational Education|跨国教育]]政策中成为[[OECD|经合组织]]（OECD）构筑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Lifelong Learning|终身学习]]政策纲领的核心理论支柱。
 
 > [!claim] 核心判断
 > 经济增长主要受内生技术进步驱动，取决于一个经济体将其累积的知识存量与[[Human Capital Theory|人力资本]]转化为新产品与高附加值生产流程的制度能力；知识由于具备非竞争性而展现出收益递增特性，彻底打破了传统实物资本积累面临的边际报酬递减铁律。（Romer, 1986, 1990; Howitt, 2000; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 445]]）
@@ -105,19 +106,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜知识与技术创新的内生积累克服资本边际报酬递减并构成经济持续增长源泉
 > 新增长理论的核心命题在于彻底否定了传统新古典增长理论中“由于资本边际产出递减，长期增长率完全取决于外生技术冲击与人口增长”的被动假设。提出者罗默（Romer, 1986, 1990）与豪伊特（Howitt, 2000）论证，创意与知识存量是一种非竞争性物品；一旦某项技术配方或软件算法被创造出来，其边际复用成本近乎为零，且新的知识会与已有的知识存量发生组合式爆发。因此，由技术进步推动的经济增长具有收益递增特性，对研发与教育[[Knowledge Production|知识生产]]部门的内生投资能够永久性提高一国的长期稳态增长率。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 各国政府对高技术产业研发集群提供税收抵免与[[Congressional Earmarks|科研专项拨款]]，旨在通过扩大知识公共积累诱发私营部门的持续创新与跨行业溢出效应。
 
 > [!theory-proposition] 命题二｜[[Human Capital Theory|人力资本]]升级与创新转化能力直接决定国家在全球市场中的竞争优势
 > 在内生增长的分析架构下，物质资本与自然资源的禀赋地位显著下降，而掌握高技能知识与创新能力的人力资本成为[[Competitiveness|国家竞争力]]的决定性约束条件。[[OECD|经合组织]]（OECD, 1996c）据此提出，[[Knowledge-Based Economy|知识经济]]要求全社会劳动力不仅要掌握先进信息通信技术，更必须具备持续适应变革的文化态度、批判性[[Problem Solving|问题解决能力]]以及团队协作素养；一个经济体的实际增长绩效，取决于其能否源源不断地培养出能够将前沿科研成果商业化、工业化落地的复合型知识工人。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 经合组织成员国通过大幅扩充高等教育普及率、推进[[STEM Education|STEM]]（科学、技术、工程与数学）教育振兴计划，以防范因劳动力技能断层而陷入增长停滞。
 
 > [!theory-proposition] 命题三｜内生增长逻辑驱动教育向学习型经济、实用操作技能与[[Lifelong Learning|终身学习]]全面转向
 > 弗雷与隆德瓦尔（Foray & Lundvall, 1996）将内生增长逻辑推演至教育系统，指出在知识半衰期极速缩短的时代，孤立占有固态的陈述性[[Theoretical Knowledge|理论知识]]（Knowing That）已退居次要地位，更关键的是掌握动态的程序性与关系型操作技能（[[Procedural Knowledge|knowing how]]）——即知晓如何寻找知识、如何利用数字网络与他人协同解决现实问题。里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）指出，这一逻辑直接催生了教育[[Paradigm|范式]]的根本重构：教育机构不再被视作传播纯粹学科真理的象牙塔，而被重组为服务于终身技能迭代与市场灵活就业的“学习型经济”基础设施。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[PISA|国际学生评估项目]]（PISA）刻意脱离传统学科教学大纲，转而测试15岁青少年“将所学技能迁移并应用于现实生活挑战”的能力，正是这一命题在测评领域的具体物化。
 
 ---

@@ -1930,6 +1930,13 @@
         "能源部贷款办公室"
       ]
     },
+    "Long Beach Unified School District": {
+      "path": "wiki/facts/us/Long Beach Unified School District.md",
+      "names": [
+        "Long Beach Unified School District",
+        "long-beach-unified-school-district"
+      ]
+    },
     "Ludvigsen Commission": {
       "path": "wiki/facts/norway/Ludvigsen Commission.md",
       "names": [
@@ -2366,6 +2373,14 @@
         "大学企业关系官网络"
       ]
     },
+    "New York City Community School District 2": {
+      "path": "wiki/facts/us/New York City Community School District 2.md",
+      "names": [
+        "New York City Community School District 2",
+        "new-york-city-community-school-district-2",
+        "NYC Community School District 2"
+      ]
+    },
     "New Zealand Council for Educational Research": {
       "path": "wiki/facts/new-zealand/New Zealand Council for Educational Research.md",
       "names": [
@@ -2575,6 +2590,13 @@
         "Research Triangle Institute",
         "RTI 国际",
         "RTI International Inc."
+      ]
+    },
+    "Sanger Unified School District": {
+      "path": "wiki/facts/us/Sanger Unified School District.md",
+      "names": [
+        "Sanger Unified School District",
+        "sanger-unified-school-district"
       ]
     },
     "Schlegel-UW Research Institute for Aging": {
@@ -3547,6 +3569,11 @@
         "wiki/facts/finland/Stepping Up Finland's Global Role in Education.md"
       ]
     },
+    "Ministry of Education": {
+      "seen_in": [
+        "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md"
+      ]
+    },
     "Ministry of Education and Research of Estonia": {
       "seen_in": [
         "wiki/facts/estonia/Estonian STEM Education Model.md"
@@ -3570,6 +3597,11 @@
     "Ministry of Education, Government of Pakistan": {
       "seen_in": [
         "wiki/facts/pakistan/National Education Policy 2009 Pakistan.md"
+      ]
+    },
+    "Ministry of National Education": {
+      "seen_in": [
+        "wiki/facts/poland/Polish Education Reform of 1999.md"
       ]
     },
     "Ministère de l'Éducation du Québec": {

@@ -9,9 +9,9 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 88
-theory_related_level: 8
-theory_related_stars: "💎💎⭐⭐"
+theory_related_count: 92
+theory_related_level: 9
+theory_related_stars: "💎💎💎"
 theory_related_color: "#fef3c7"
 tags:
   - theme/innovation
@@ -44,6 +44,9 @@ related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[Directionality of Innovation]]"
+  - "[[Transnational Education]]"
+  - "[[Pilot Scale Platform]]"
+  - "[[Industry Advisory Board]]"
   - "[[Flow]]"
   - "[[Problem Solving]]"
   - "[[Learning by Doing]]"
@@ -60,6 +63,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Grand Challenges]]"
   - "[[Literature Search]]"
+  - "[[Scientific Mobility]]"
   - "[[Knowledge Transfer]]"
   - "[[Corporate R&D Labs]]"
   - "[[Critical Thinking]]"
@@ -68,7 +72,6 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Technological Catch-up]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[International Education Hubs]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Triple Helix]]"
@@ -95,6 +98,7 @@ related_facts:
   - "[[Gewerbe-Institut]]"
   - "[[Local Innovation Systems Project]]"
   - "[[Department of Defense]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[DARPA]]"
   - "[[EU]]"
   - "[[German Dual Education System]]"
@@ -110,9 +114,9 @@ related_arguments:
   - "[[Argument_Lester_2005_MIT]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Pavitt_1984_RP]]"
-  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-05-27
@@ -151,7 +155,7 @@ updated: 2026-11-11
 > - **2009 — 多通道互动学习与知识池重塑** 卡拉卡等（Caraça et al.）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，指出创新涉及科技、组织与营销三类知识池，创新系统的关键在于构筑企业与微观/宏观制度环境双向共演的组织界面。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 > - **2018 — 从系统修补到使命导向[[Market Shaping and Creating|市场塑造]]** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）指出传统[[Innovation Policy Paradigms|创新系统范式]]止步于“系统修补”（System Fixing），主张从被动弥补网络与制度失灵转向主动“市场塑造与创造”，围绕重大社会挑战设定技术与经济发展的明确方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
 > - **2018 至今 — [[Transformative Change|变革转型范式]]（Transformative Change）反思** 肖特与斯泰因穆勒（Schot & Steinmueller, 2018）指出传统创新系统范式过于聚焦经济增长优化与被动修复系统失灵，面对气候危机与社会不平等，亟需演进至具备“方向性”（[[Directionality of Innovation|directionality]]）的第三代政策范式。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
-> - **2024 — 跨国教育枢纽融入创新系统多标量拓扑** [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] 考察中国跨国高等教育枢纽在长三角、粤港澳大湾区与海南自贸港的实践，揭示跨境办学机构如何通过校地协同中试基地、产业顾问委员会（IAB）与园区平台共享，作为关键知识管道深度嵌入次国家区域创新系统，重塑地方技术吸收与产业转型生态。
+> - **2024 — [[Transnational Education|跨国教育]]枢纽融入创新系统多标量拓扑** [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] 考察中国跨国高等教育枢纽在长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港的实践，揭示跨境办学机构如何通过校地协同[[Pilot Scale Platform|中试基地]]、产业顾问委员会（[[Industry Advisory Board|IAB]]）与园区平台共享，作为关键知识管道深度嵌入次国家区域创新系统，重塑地方技术吸收与产业转型生态。
 
 ---
 
@@ -175,43 +179,43 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜创新是多行动者嵌入制度环境中的双向互动学习过程
 > 传统线性模型预设基础研究成果会自动沿技术研发、试制、商业生产的单向链条向市场扩散，且将三大主体视为彼此独立的外部主体。创新系统学派主张，科学、技术与市场之间不存在必然的单向支配关系；创新大量起源于生产车间与市场反馈中的渐进式[[Problem Solving|问题解决]]（[[Learning by Doing]], Learning by Using），并通过多主体在正式与非正式网络中的频繁互动实现知识积累与再创造。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]; [[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 863–864)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–11)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高端制造与工程机械领域，创新主要起源于企业工程师与供应商、最终用户以及大学工程系研究人员在反复试错与调试中的共同攻关，印证了多主体双向反馈的技术演进机制。
 
 > [!theory-proposition] 命题二｜显性知识只是冰山一角，[[Tacit Knowledge|隐性知识]]在网络界面的转移与[[Absorptive Capacity|吸收能力]]共同决定系统绩效
 > 专利[[Document|文献]]与技术标准等编码化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其转译为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟[[Industrial District|工业区]]（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
 
 > [!theory-proposition] 命题三｜公共政策的重心必须从弥补“[[Market Failure|市场失灵]]”转向识别并修复多维度的“系统失灵”
 > 新古典政策[[Paradigm|范式]]将政府职能局限于通过基础科研资助和税收补贴来弥补私营部门对公共品投资不足的“市场失灵”。创新系统理论指出，创新受阻往往根源于系统内部的结构性断裂，研发资金规模难以单独保障创新绩效。政府的核心使命是采取跨部门协同手段（涵盖科技、产业、教育与金融政策），诊断并修复网络链接、制度规则、[[Path Dependence|技术锁定]]及吸收能力层面的“系统失灵”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 30–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 某区域政府若仅通过科研基金向大学实验室注入研发经费，而忽视产学之间缺乏中介技术经纪人（网络失灵）、传统高耗能产业占据政策资源拒绝接纳新技术（锁定失灵）、以及本地中小企业无力招募硕博研发人才（能力失灵），那么高额科技投资将难以转化为现实生产力。
 
 > [!theory-proposition] 命题四｜大学在创新系统中承担多功能嵌入的公共空间与系统催化剂职能
 > 将大学简单定义为“向企业转让专利的发明车间”矮化了大学在创新系统中的真实价值。大学通过全方位的职能组合嵌入系统：提供跨学科基础研究、供应具备吸收能力的高素质毕业生、向中小企业开放大型科学仪器与概念验证设施，并作为中立的“公共空间”（Public Space）召集竞争性企业与政府开展前瞻性产业技术路线对话。大学的具体贡献模式必须与其所处的本地产业转型轨迹精准匹配。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 36–37)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在挪威斯塔万格石油工业转型中，地方技术学院立足针对性职业与工程培训课程、为本地老旧造船厂提供技术改装咨询，并作为产业协调中介促成外国石油巨头与本地供应商对接，催化了整个北海油气产业集群的崛起。
 
 > [!theory-proposition] 命题五｜公共先导采购与[[Open-Mindedness|开放性]]规制在产业萌芽期具有最大系统催化效应，系统成熟后呈现逆向技术溢出
 > 创新系统的公共政策干预效能高度受制于产业生命周期与规制设计。在颠覆性技术初生期，公共部门（如国防采购）通过承担早期高昂试错成本、提供规模化学习订单以及推行“第二货源”（[[Second-Sourcing]]）强制技术解密与开放公共协议，能打破传统寡头技术垄断，培育去中心化、高度动态的新创企业竞争网络；但当民用商业市场规模反超且技术规范分化后，公共部门对系统[[Technological Trajectories|技术轨迹]]的塑造力规律性递减，创新系统内部的知识流动演变为由商业民用向公共部门的“逆向技术溢出”（Reverse Spillovers），此时强推专用封闭规格反将导致系统失灵。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–34, 38, 41)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 美国战后半导体与互联网的崛起印证了这一规律：冷战早期军方采购德州仪器芯片并强制推行第二货源授权，加上 [[DARPA]] 将 TCP/IP 协议置于公共领域，催生了硅谷繁荣；而 1980 年代国防部试图耗资 9 亿美元推行超高速集成电路（VHSIC）和强推 Ada 编程语言时，由于商业微电子与民用软件生态已高度成熟，军用专用计划全面受挫，军工系统转而深度依赖商业采购。
 
 > [!theory-proposition] 命题六｜[[General Purpose Technology|通用技术]]范式转型要求全社会深度制度调适，创新系统的制度多样性是克服路径锁定的演化保障
 > 弗里曼与佩蕾丝（Freeman & Perez, 1988）以及弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）深刻指出，当新的[[General Purpose Technology|通用技术]]（如微电子与信息通信技术）颠覆既有生产函数时，技术变革的速率往往远快于社会制度的调整速率，引发严重的“制度滞后”（Institutional Lag）与结构性失衡。新技术潜能的释放要求劳动关系、职业技术教育大纲、企业组织构架（如质量圈与[[Lean Production|精益生产]]）、资本市场规制以及通信基础设施发生全方位的协同调适。在这一巨变期，全球切忌陷入单一发展模式的“单一文化”（Monoculture）；不同国家和[[Regional Innovation System|区域创新系统]]在制度设计、组织形态与产业政策上的多样性（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的试错与演化空间。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 1970 至 1980 年代微电子通用技术范式扩散期，日本[[National Innovation System|国家创新系统]]凭借弹性的多工种轮岗、终身雇佣与现场质量改进体系，比严格恪守流水线工种细分的福特制英美企业更快地实现了信息技术与制造业的深度融合；这一跨国经验印证了制度调适与组织多样性对释放新技术潜力的决定性价值。
 
 > [!theory-proposition] 命题七｜跨国空间网络并未消解民族国家，创新系统呈现上下双层嵌套的多标量空间架构
 > 全球化与区域一体化并未导致民族国家作为核心[[Unit of Analysis|分析单位]]过时。创新系统在空间上呈现纵向多标量（Multi-scalar）嵌套架构：上层跨国区域（Upper Regions，如欧共体、北美自由贸易协定）提供统一大市场与高层级技术规则协调；下层次国家区域（Nether Regions，即[[Regional Innovation System|区域创新系统]]，如硅谷、第三意大利）依托地理邻近、熟练劳动力流动与人际面对面信任构筑微观产业空间支撑；而处在核心枢纽位置的依然是[[National Innovation System|国家创新系统]]，因为跨国公司的核心战略研发（海外研发占比美 <10%，日 <2%）依然牢牢锚固于母国制度母体，且国际竞争优势深刻取决于母国公共教育、科研建制与产业政策的独特性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在欧洲一体化进程中，尽管[[EU|欧盟]]层面推行统一大市场并实施框架研发计划（上层区域），且[[Emergence|涌现]]出剑桥生物信息或巴伐利亚汽车等区域创新系统（下层区域），但英国、德国、法国等国的产业竞争优势依然深刻依赖其各自独特的国家创新体系（如德国[[German Dual Education System|双元制]]技术工人和弗劳恩霍夫应用院所网络）。
 
 ---
@@ -279,7 +283,7 @@ updated: 2026-11-11
 >   - **D3.2｜多通道交互界面建设**
 >     - **D3.2.1｜公共空间与非正式交流通道**
 >       - **含义** 评估组织之间是否具备促进[[Tacit Knowledge|隐性知识]]低成本共享的中介载体。
->       - **观察线索** 行业研讨会、共同测试中心、客座学者流动计划、概念验证中心运营状况。
+>       - **观察线索** 行业研讨会、共同测试中心、客座[[Scientific Mobility|学者流动]]计划、概念验证中心运营状况。
 >       - **判读规则** 仅有正式法务合同而缺乏高频人员交流的系统，隐性[[Knowledge Transfer|知识转移]]效率显著低下。
 >       - **归属与出处** 多通道互动模型（[[Argument_Caraca_2009_TFSC|Caraça et al., 2009]], Fig. 2）。
 

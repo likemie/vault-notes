@@ -5,7 +5,7 @@ aliases:
 summary: "罗伊·巴斯卡（Roy Bhaskar）创立的科学哲学与社会科学方法论框架。主张实在界、实际界与经验界的分层本体论，将因果关系确立为开放系统中潜在因果机制的激活或阻断；在教育研究与政策分析中，既用于解构循证教育与随机对照试验的均值黑箱，又通过“解释性批判”穿透表层修辞、揭示教育作为大国地缘博弈与意识形态推进工具的深层因果机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 58
+theory_related_count: 59
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Research Question]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Document]]"
   - "[[Interdiscursivity]]"
@@ -132,32 +133,32 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜实在界、实际界与经验界在[[Ontology|本体论]]上分立且不可相互还原
 > 批判实在论拒绝[[Empiricism|经验主义]]将“实在”等同于“可观察到的现象”的[[Epistemology|认识论]]谬误（Epistemic Fallacy）。经验界仅包含被主体主观观察或测量到的感知与数据；实际界包含不论是否被观测均客观发生的事件与状态；而实在界则是包含深层社会结构、权力关系与生成性因果机制的客观根源。实在界深层机制的因果力始终存在，即便其受阻未能转化为实际事件，或发生后未进入实证测量视线，其本体论实在性依然完备。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 117)]]; [[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 8)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在教育研究中，学生在测验中的量化分数仅属于“经验界”数据；教学互动中的特定问答事件属于“实际界”；而学生所属阶层[[Cultural Capital|文化资本]]、家庭结构以及学校管理控制制度等驱动学习行为的深层因果结构则属于“实在界”。若仅统计测验均值，研究将彻底遗失深层机制。
 
 > [!theory-proposition] 命题二｜社会世界是由异质因果机制相互竞争与阻断的复杂开放系统
 > 自然科学实验室通过人为封闭（Closure）隔绝外部干扰以制造恒常因果规则；然而社会世界与教育环境是典型的“开放系统”，其中存在无数并发运作且往往相互拮抗的因果力量。任何特定政策干预或教学法所蕴含的因果倾向，在落地时必须与现场特定情境（如学校文化、师生信任度、社区经济水平）发生[[Interaction Effect|交互作用]]；机制可能被环境充分触发并促成期望结果，亦可能被恶劣环境完全阻断或抵消。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, pp. 7, 12)]]; [[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 117)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 一项经过[[Randomised Controlled Trials|随机对照试验]]验证的“结构化阅读辅导法”，在师资充裕、生源稳定的 A 校取得了显著进展，但在[[Class Size|班额]]过大、生源流动频繁且存在严重校园霸凌的 B 校实施时却彻底失效。平均数法则无法解释这种落差，唯有辨识情境如何阻断了教学干预的深层因果机制，方能洞察成败根源。
 
 > [!theory-proposition] 命题三｜社会结构拥有超越个体意志的[[Emergence|涌现]]因果力并制约主体能动实践
 > 批判实在论确立了结构与能动性的双重实在性。社会结构由历史积淀的客观制度关系构成，先于特定个体的进入而存在，拥有自身独特的结构因果力（如阶级壁垒、管理科层、语言权力）；虽然结构必须依赖个体行动者的日常实践才能得以维系或再生产，但结构绝不能被还原为个体心理态度或行为的简单算术加总。行动者始终在既定结构脉络中展开权衡与推理。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 15)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 学校管理层解雇[[Teaching Assistant|教学助理]]（TA）往往依据“TA 辅助下学生成绩无显著提升”的粗糙统计报告；然而深入分析揭示，真正制约效果的是学校未设立集体备课时间、并系统性将薄弱学生排斥给无正式编制人员的层级管理结构。是管理结构的涌现力量阻碍了教学成效，而非辅助人员个人的工作能力缺陷。
 
 > [!theory-proposition] 命题四｜[[Scientific Explanation|科学解释]]对生成性因果机制的阐明直接蕴含对虚假[[Discourse|话语]]的[[Explanatory Critique|解释性批判]]
 > 巴斯卡指出，事实陈述与价值评价具有内在贯通性；如果一项社会科学解释能够确证某种错误信念或虚假意识形态表象是由特定社会结构的运作机制所系统性生产和支撑的，那么这项解释本身便在逻辑上蕴含了对该虚假信念及其背后的统治机制的否定性评价与实践批判。这一“解释性批判”（Explanatory Critique）构成了穿透官方合法化修辞、解构深层权力关系的强大武器。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 官方教育政策文件在表层反复使用“平等互利、[[People-to-People Connectivity|民心相通]]、共同繁荣”等理想化共赢修辞（经验表象）；然而批判实在论通过对政策立项驱动力、资金配套渠道与地缘战略部署的生成机制分析，揭示该项目深层根植于国家[[Hard Power|硬实力]]输出、涉外基建项目定向用工以及[[National Rejuvenation Narrative|民族复兴]][[Grand Theory|宏大叙事]]（实在界机制）。对生成机制的阐明直接构成了对表层利他修辞的解释性批判。
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 该理论适合回答“一项复杂的教育干预或政策为何在某些情境下有效而在另一些情境下失效”、“表层政策[[Discourse|话语]]与深层国家战略因果机制之间存在何种脱节与张力”。
-> - **分析对象与单位** 涵盖教育项目评估情境、学校管理日常制度、师生互动过程、宏观政策文本集群及跨国教育治理机制。
+> - **分析对象与单位** 涵盖教育项目评估情境、学校管理日常制度、师生互动过程、宏观政策文本集群及[[Transnational Education|跨国教育]]治理机制。
 > - **需要的材料** 统计评估数据（经验界）、项目具体执行日志与行动者[[Qualitative Interview|质性访谈]]（实际界）、制度结构规程、财政资助渠道与[[Geopolitics|地缘政治]]经济[[Document|文献]]（实在界）。
 > - **解释目标** 穿透均值统计或宣称话语的表层黑箱，识别情境（Context）、机制（Mechanism）与结果（Outcome）的互动构型，开展规范性制度批判。
 

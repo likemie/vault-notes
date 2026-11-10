@@ -8,7 +8,7 @@ aliases:
 summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全球教育趋同并非自愿的普世启蒙文化扩散，而是由全球资本主义体系的内在结构性矛盾（资本积累、国家合法性与社会凝聚力）通过跨国经贸组织自上而下结构化塑造的。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
   - region/global
 related_concepts:
   - "[[State Educational Sovereignty]]"
+  - "[[Transnational Education]]"
   - "[[Policy Mobility]]"
   - "[[Geopolitics]]"
   - "[[Variable]]"
@@ -63,7 +64,7 @@ updated: 2026-11-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 全球化时代民族国家教育政策趋同的动力源泉、超国家组织对主权[[State Educational Sovereignty|国家教育权]]力的渗透机制，以及教育在维系全球资本积累中的结构性功能。
-> - **理论问题** 正面回应并挑战[[Stanford School|斯坦福学派]][[World Society Theory|世界文化理论]]将教育扩张视为理性主义文化神话自愿扩散的共识论解释，破解跨国教育[[Policy Mobility|政策流动]]背后被遮蔽的资本积累与[[Geopolitics|地缘政治]]权力关系。
+> - **理论问题** 正面回应并挑战[[Stanford School|斯坦福学派]][[World Society Theory|世界文化理论]]将教育扩张视为理性主义文化神话自愿扩散的共识论解释，破解[[Transnational Education|跨国教育]][[Policy Mobility|政策流动]]背后被遮蔽的资本积累与[[Geopolitics|地缘政治]]权力关系。
 > - **理论类型** 批判政治经济学解释理论与宏观多标度[[Analytic Framework|分析框架]]。
 > - **知识位置** 植根于西方马克思主义批判教育社会学、批判地理学与[[World-Systems Theory|世界体系分析]]传统；在比较教育学界，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的世界文化理论共同构成当代全球化研究最重要的二元理论对质轴线。
 
@@ -99,13 +100,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜全球资本主义的积累危机驱动着跨国教育政策议程的结构化重塑
 > 戴尔认为，全球教育变革的核心驱动力并非文化理念的自发演化，而是世界资本主义经济为了克服利润率下降与生产过剩危机，迫切需要将教育重构为直接服务于资本积累的工具。这一动力迫使各国教育体系转向[[New Public Management|新公共管理]]、紧缩开支、文凭标准化与[[Human Capital Theory|人力资本]]弹性化，从而形成了跨国高度同质的新自由主义政策议程。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 在亚洲和[[Latin American Debt Crisis of 1982|拉美债务危机]]期间，强制推行结构调整计划，要求借贷国大幅削减公共教育支出并推行私有化，这一跨国政策协调正是全球资本积累议程结构化约束各国的典型体现。
 
 > [!theory-proposition] 命题二｜全球化通过分异化的机制组合穿透并重组民族国家的教育治理权力
 > 全球化对各国的冲击绝非千篇一律的机械复制。戴尔提出，外部力量进入民族国家取决于不同的权力关系与机制路径：对于核心发达国家，往往体现为自愿的“[[Policy Borrowing|政策借用]]与学习”；对于半边缘国家，多体现为区域协定的“规则调和与标准化”；而对于边缘贫困国家，则主要通过国际金融机构的“结构强加与苛刻贷款条件”实施硬性支配。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[EU|欧盟]]内部各成员国通过“[[Bologna Process|博洛尼亚进程]]”自愿开展资格互认与政策调和，而撒哈拉以南非洲国家则在世界银行贷款附带条件约束下被迫冻结教师工资总额。
 
 ---

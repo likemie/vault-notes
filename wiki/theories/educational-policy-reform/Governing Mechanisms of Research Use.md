@@ -7,10 +7,10 @@ aliases:
 summary: "由 Hagevold et al.（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 33
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/research-use
   - theme/evidence-informed-practice
@@ -21,28 +21,36 @@ related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Literacy]]"
   - "[[Epistemic Stances]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[School Leadership]]"
   - "[[Research-Practice Partnership]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Institutional Distrust]]"
-  - "[[Abstract]]"
-  - "[[Evaluation Research]]"
+  - "[[Reflexivity]]"
+  - "[[Third Voice]]"
   - "[[Professional Judgment]]"
-  - "[[Ontology]]"
+  - "[[Phronesis]]"
+  - "[[Institutional Distrust]]"
   - "[[Research Question]]"
-  - "[[Translational Research]]"
+  - "[[Unit of Analysis]]"
+  - "[[Evaluation Research]]"
+  - "[[Literature Search]]"
+  - "[[Professional Learning Community]]"
+  - "[[Operationalization]]"
+  - "[[Academic Achievement]]"
   - "[[Theoretical Perspective]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Realism]]"
+  - "[[Ecological Systems Theory]]"
   - "[[Ecosystem for Research-Engaged Schools]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Framework Synthesis]]"
-  - "[[Systematic Review]]"
-  - "[[Case Study]]"
+  - "[[Practitioner Enquiry]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -69,8 +77,8 @@ updated: 2026-11-11
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold, Forsström, and Keles (2026)]] 在《教育研究评论》（*Educational Research Review*）发表综合研究《Governing research use in schools: A framework synthesis of empirical studies》，正式构建研究使用治理机制框架。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 1–24)]]
-> - **原初问题** 既有文献在解释学校研究使用受阻时，83% 的研究仅在个体层面归因于教师的研究素养不足或动机缺乏，不仅忽略了深层治理与组织条件的制约，也无法解释为何孤立的培训或外部推送无法促成常态化研究使用。
-> - **理论资源与材料** 团队以批判实在论为认识论基础，以 QURE 框架、深层使用模型、社会生态系统理论及专业能动性理论为先验概念资源；经验材料涵盖 2010 年至 2023 年发表的 109 项跨国实证研究。
+> - **原初问题** 既有[[Document|文献]]在解释学校研究使用受阻时，83% 的研究仅在个体层面归因于教师的研究素养不足或动机缺乏，不仅忽略了深层治理与组织条件的制约，也无法解释为何孤立的培训或外部推送无法促成常态化研究使用。
+> - **理论资源与材料** 团队以批判实在论为[[Epistemology|认识论]]基础，以 QURE 框架、深层使用模型、社会[[Ecological Systems Theory|生态系统理论]]及专业能动性理论为先验概念资源；经验材料涵盖 2010 年至 2023 年发表的 109 项跨国实证研究。
 > - **形成路径** 研究团队采用框架综合法（Framework Synthesis），结合聚合式与配置式双重分析策略，对 109 项文献展开两阶段编码与解释性综合，识别出贯通个体、组织与系统层级的四类横切机制，进而推导得出跨层治理机制理论。
 
 > [!dev-timeline] 理论版本与贡献
@@ -97,36 +105,36 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜四类机制跨越个体、组织与系统层级持续运作而非局限于单一层级
 > 配置式分析显示，信任、技能发展、可持续结构与关系四大主题同时跨越个体、组织与宏观系统持续发挥作用。最持久的研究使用障碍与最关键的促成条件无法依靠单一层级孤立要素进行解释。治理机制框架以四类横切机制取代了层级机械嵌套的逻辑，强调必须基于跨层机制的互动联结来理解研究证据利用的深层动力。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 8, 15–18)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在学校推行循证阅读教学时，若仅由教师个人学习技能（个体层）而缺乏受保障的教研课表排程（组织层）与教育局考核制度的配套减负（系统层），技能无法长久维持；四类机制在各层级的同时贯通决定了改革的真实成效。
 
 > [!theory-proposition] 命题二｜四类机制相互强化并构成整合治理系统而非离散清单
 > 信任是技能发展与关系深化所必需的开放对话与试错前提；可持续结构为专业技能生长与伙伴关系的维系提供时间与空间制度保障；互惠关系则构成了信任赖以建立的社会基础设施。四类机制相互依存、相互强化，构成一个有机治理系统。任何层级上某一机制的缺位均会波及其他机制的效能，因而割裂的单项政策干预（如单纯增加课外培训或单向下发研究资料）难以带来常态化改变。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 17–18)]]
 
-> [!example] 应用实例
-> 某学区为学校购买了学术数据库（可持续结构中的硬件投入），但因学校日常排程中没有划拨研讨工时，且管理层对教师测验均值保持严苛问责（缺乏心理安全与信任），教师未曾开展基于数据的反思性研读，硬件投入最终沦为空置。
+> [!example|notitle]
+> 某学区为学校购买了学术数据库（可持续结构中的硬件投入），但因学校日常排程中没有划拨研讨工时，且管理层对教师测验均值保持严苛问责（缺乏心理安全与信任），教师未曾开展基于数据的[[Reflexivity|反思性]]研读，硬件投入最终沦为空置。
 
 > [!theory-proposition] 命题三｜从工具性实施转向专业整合要求培育教师能动性与可持续结构
-> 实证综合表明，研究在实践者决策中始终扮演与情境经验共同对话的“第三声音”，纯粹工具性或指令性实施容易引发象征性应付或防卫抵触。深度整合在认识论上要求研究知识与教师专业判断、实践智慧实现主动调和，在组织上要求将研究参与固化为学校日常惯例与可持续结构。推动研究使用的深化，关键在于依托长效治理结构保障教师专业能动性，消除科层规训带来的制度性不信任。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 11–12, 18–19)]]
+> 实证综合表明，研究在实践者决策中始终扮演与情境经验共同对话的“[[Third Voice|第三声音]]”，纯粹工具性或指令性实施容易引发象征性应付或防卫抵触。深度整合在认识论上要求研究知识与教师[[Professional Judgment|专业判断]]、[[Phronesis|实践智慧]]实现主动调和，在组织上要求将研究参与固化为学校日常惯例与可持续结构。推动研究使用的深化，关键在于依托长效治理结构保障教师专业能动性，消除科层规训带来的[[Institutional Distrust|制度性不信任]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 11–12, 18–19)]]
 
-> [!example] 应用实例
-> 芬兰与挪威部分研究参与型学校将学术研究引入校本课程开发，教师与大学研究者在教研例会中对研究发现展开情境化改编，研究成为激发教师探究的启发性资源，实现了由外在任务向内生实践的深度整合。
+> [!example|notitle]
+> 芬兰与挪威部分研究参与型学校将学术研究引入校本课程开发，教师与大学研究者在教研例会中对研究发现展开情境化改编，研究成为激发[[Practitioner Enquiry|教师探究]]的启发性资源，实现了由外在任务向内生实践的深度整合。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 学校教育中研究证据利用为何难以实现长效常态化，阻碍研究融入教师专业实践的深层跨层机制是什么。
-> - **分析对象与单位** 观察学校教师、校长、教研共同体、大学研究伙伴及教育治理部门的多主体互动过程；分析单位涵盖微观个体认知、中观学校惯例与宏观治理结构。
-> - **需要的材料** 教师与领导者深度访谈、教研制度文本、日常课表与工时安排、校内外伙伴关系协议及政策评估报告。
-> - **解释目标** 揭示信任、技能发展、结构与关系四类机制在各层级上的激活或受阻状态，评估研究使用是否实现了由浅层实施向深层整合的质态转化。
+> - **[[Research Question|研究问题]]** 学校教育中研究证据利用为何难以实现长效常态化，阻碍研究融入教师专业实践的深层跨层机制是什么。
+> - **分析对象与单位** 观察学校教师、校长、教研共同体、大学研究伙伴及教育治理部门的多主体互动过程；[[Unit of Analysis|分析单位]]涵盖微观个体认知、中观学校惯例与宏观治理结构。
+> - **需要的材料** 教师与领导者[[In-depth Interview|深度访谈]]、教研制度文本、日常课表与工时安排、校内外伙伴关系协议及政策评估报告。
+> - **解释目标** 揭示信任、技能发展、结构与关系四类机制在各层级上的激活或受阻状态，[[Evaluation Research|评估研究]]使用是否实现了由浅层实施向深层整合的质态转化。
 
 > [!theory-framework] 命题如何转化为分析维度
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | **信任机制维度**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026)]] | 系统内外是否存在对研究价值、评价制度与同事专业性的充分信任？ | 教师对问责制度的态度访谈、教学反思中的试错坦诚度、同事互信记录。 | 存在心理安全与专业互信为机制顺畅；存在制度性防卫与不信任为机制受阻。 |
-> | **技能发展机制维度**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026)]] | 实践者是否具备批判研读与本土调适研究的连贯技能？如何获得发展？ | 职前与职后培训课程记录、教研分析文本、教师反思日志。 | 具备证据甄别与课堂转化能力为机制健康；仅掌握碎片文献检索但缺乏批判审议为发展受限。 |
-> | **可持续结构机制维度**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026)]] | 学校是否在制度上为研究研讨配置了受保障的日常工作时间与平台？ | 学校课表排程、专业学习共同体例会时间表、教研资源预算。 | 内置固定研讨工时与教研平台为结构可持续；依赖业余加班或临时课题为结构缺失。 |
+> | **技能发展机制维度**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026)]] | 实践者是否具备批判研读与本土调适研究的连贯技能？如何获得发展？ | 职前与职后培训课程记录、教研分析文本、教师反思日志。 | 具备证据甄别与课堂转化能力为机制健康；仅掌握碎片[[Literature Search\|文献检索]]但缺乏批判审议为发展受限。 |
+> | **可持续结构机制维度**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026)]] | 学校是否在制度上为研究研讨配置了受保障的日常工作时间与平台？ | 学校课表排程、[[Professional Learning Community\|专业学习共同体]]例会时间表、教研资源预算。 | 内置固定研讨工时与教研平台为结构可持续；依赖业余加班或临时课题为结构缺失。 |
 > | **关系网络机制维度**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026)]] | 学校实践者与外部研究者、教育行政人员之间是否存在互惠伙伴关系？ | 校际协作网络记录、大学与中小学合作协议、共同研讨频次。 | 长期平等的伙伴关系支持知识双向流动；单向学术灌输或短期项目合作缺乏持久支撑。 |
 
 > [!exegesis]- 从理论到材料的一次完整分析
@@ -141,17 +149,17 @@ updated: 2026-11-11
 > - **适合分析** 中小学与区域教育系统中研究证据利用的跨层障碍、深层促成条件及从工具性实施向专业整合的转化过程。
 > - **成立条件** 适用于存在一定专业自主权与教研制度空间的现代学校组织；需要结合访谈、制度文本与工作排程等多维资料。
 > - **解释不足** 理论基于框架综合提炼，四类机制的划分具有一定的解释学敏化特征，尚未在微观心理动力学层面建立详尽的认知转化步骤。
-> - **转化困难** 信任与关系属于隐性社会资本，在跨文化或高度量化的实证研究中测量存在操作化难度；在高度中央集权或低资源系统中机制运作形态仍需实证检验。
-> - **不能直接推出** 四类机制的顺畅运转不能直接等同于学生学业成绩的必然提高，不能替代对具体教学法因果效应的实证评估。
+> - **转化困难** 信任与关系属于隐性社会资本，在跨文化或高度量化的实证研究中测量存在[[Operationalization|操作化]]难度；在高度中央集权或低资源系统中机制运作形态仍需实证检验。
+> - **不能直接推出** 四类机制的顺畅运转不能直接等同于学生[[Academic Achievement|学业成绩]]的必然提高，不能替代对具体教学法因果效应的实证评估。
 
 ---
 
 > [!debates] 理论争议
 >
-> > [!axis] 机制识别的理论视角敏感性
+> > [!axis] 机制识别的[[Theoretical Perspective|理论视角]]敏感性
 > > 机制的选择与命名依赖于研究团队的理论视角，其他学者对相同文献数据可能赋予不同权重或范畴。
 > >
-> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p. 8)]]** 承认机制识别受团队批判实在论与社会生态系统取向的引导，但强调四类机制在跨层级、跨研究设计与跨国语境中的高度一致性增强了识别的可信度。
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p. 8)]]** 承认机制识别受团队批判实在论与社会生态系统取向的引导，但强调四类机制在跨层级、跨研究设计与跨国语境中的高度一致性增强了识别的可[[Reliability|信度]]。
 >
 > > [!axis] 跨情境适用性与制度性不信任
 > > 治理机制框架主要基于英语国家与西欧教育语境的实证研究，在高度中央集权或低资源环境中的适用性仍需检验。

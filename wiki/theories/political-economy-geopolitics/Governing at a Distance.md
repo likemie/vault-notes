@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 50
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[New Public Management]]"
   - "[[Governing by Numbers]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Performance Indicators]]"
@@ -105,7 +106,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 理论版本与贡献
 > - **1992 — 政治社会学框架确立** Rose & Miller 将治理术空间化与技术化，界定“转译”、“专业知识”与“技术网络”为远处治理三大支柱。（Rose & Miller, 1992）
-> - **2003–2009 — 数字与指标治理转型** [[António Nóvoa|安东尼奥·诺沃亚]]（António Nóvoa）与[[Jenny Ozga|珍妮·奥兹加]]（Jenny Ozga）将理论引入比较教育学，提出“以数据行使治理”（[[Governing by Numbers]]），揭示跨国教育基准如何构成新型远处治理平台。（Nóvoa & Yariv-Mashal, 2003; Ozga, 2009）
+> - **2003–2009 — 数字与指标治理转型** [[António Nóvoa|安东尼奥·诺沃亚]]（António Nóvoa）与[[Jenny Ozga|珍妮·奥兹加]]（Jenny Ozga）将理论引入比较教育学，提出“以数据行使治理”（[[Governing by Numbers]]），揭示[[Transnational Education|跨国教育]]基准如何构成新型远处治理平台。（Nóvoa & Yariv-Mashal, 2003; Ozga, 2009）
 > - **2018 — [[Topological Spatialisation\|拓扑空间化]]与国家计算中心重组** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）整合 [[Actor-Network Theory\|ANT]] 计算中心与拓扑地理学，剖析德国在各州享有文化宪政主权且禁止公开排名的体制下，如何通过设立国家计算中心（[[Institute for Educational Quality Improvement\|IQB]]）与拓扑[[Data Infrastructure\|数据基础设施]]（[[Vergleichsarbeiten\|VERA]]）实现跨尺度的远处治理。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–146]]）
 > - **2022–2023 — 全球[[Geopolitics|地缘政治]]与微观学术主体性批判** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）解构国际组织测评作为分散权威下的地缘规训工具；米哈尔·泽林卡（Michal Zelinka）揭示单一受试设计（[[Single-Case Design\|SCD]]）等因果量规如何远距塑造学者的自我认知。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]；[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 251–260]]）
 
@@ -127,19 +128,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜权力通过将宏观治理抱负转译为中立技术标准，使受治主体在行使自由时实现自我规训
 > 远处治理并不依赖外在肉体惩罚或物理监禁，而是依托专业知识将国家或超国家精英的政治抱负转译为操作规程、证据量规与[[Performance Indicators\|绩效指标]]。这种治理理性利用被治理者追求“卓越”、“科学”与“专业发展”的自主愿望，使个体在行使自由选择时，主动将自身行为调整至符合治理者预设的绩效轨道上，完成深层的主体性生产与自我规训。（Rose & Miller, 1992; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 251–260]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在特殊教育科研界，资助机构与学术期刊并未强行指定学者[[Research Topic\|研究主题]]，而是通过推广单一受试设计（[[Single-Case Design\|SCD]]）的“循证金标准”量规，使研究者为了获得课题立项与发表机会，主动将自身改造成符合量化绩效要求的学术主体。（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022]]）
 
 > [!theory-proposition] 命题二｜多边与国家机构依托[[Center of Calculation\|计算中心]]和基准数据行使远处治理，构建非强制性软性规制
 > 面对主权国家或地方自治实体的独立性，治理中心无需直接发布行政命令，而是依托[[Center of Calculation\|计算中心]]收集海量“不变移动物”（如测验数据、统计报表），并通过跨国或跨区域比较生成基准（Benchmarks）与排行榜。这种中立科学的数据呈现引诱或迫使处于边缘的行动者产生落后焦虑，从而在追求“国际[[Competitiveness|竞争力]]”或“质量达标”的驱动下主动借用外部政策，实现跨时空的远处协调。（Latour, 1987; [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 国际[[OECD\|经合组织]]（OECD）在缺乏主权管辖权的情况下，通过定期发布[[PISA\|国际学生评估项目]]（PISA）跨国排名，成功引导德国、日本等多国开展以产出监测为核心的国内重大教育体制变革。（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）
 
 > [!theory-proposition] 命题三｜拓扑[[Data Infrastructure\|数据基础设施]]将远处国家与国际标准直接折叠进微观教学，绕过科层行政壁垒
 > 远处治理的空间逻辑正在从传统的欧几里得地理扩散演变为[[Topological Spatialisation\|拓扑重组]]。通过构建集成化的绩效[[Data Infrastructure\|数据基础设施]]（如中央校准题库、自适应数字练习软件），远处治理打破了传统行政等级的层层审批流程，将国家或国际层面的抽象能力标准直接“折叠”进教室内的日常备课与诊断反馈中，在不破坏地方宪政自治形式的前提下重构了教育政策[[Topological Spatialisation\|拓扑空间]]。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–144]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 德国在各州严守文化主权（Kulturhoheit）的宪制约束下，依托[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）设立国家题库与校际比较诊断（[[Vergleichsarbeiten\|VERA]]）数字平台，使国家标准直接渗透至 16 个联邦州的微观课堂教学中，实现了非宪法修订式的实质国家统一规制。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
 
 > [!mechanism-map]- 远处治理运作机制与拓扑折叠路径

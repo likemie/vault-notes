@@ -7,7 +7,7 @@ aliases:
 summary: "塞缪尔·亨廷顿提出的地缘政治理论，主张冷战后人类冲突的核心根源不再是意识形态或经济，而是文化与文明的断层线；将世界划分为七至八个主要文明板块，并预言伊斯兰与儒家文明对西方霸权的挑战；卡普与扎米斯卡进一步指出，学术界对该简化模型的全盘抵制产生了严重的副作用，导致关于文化在国际关系、经济产出与国家能力中实质作用的严肃探讨在高校中沦为学术禁区。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 26
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Cognitive Decoupling]]"
   - "[[Pride in Learning]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[De-Westernisation]]"
   - "[[Research Question]]"
+  - "[[Scientific Mobility]]"
   - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Student Mobility]]"
@@ -99,19 +101,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜冷战后全球政治冲突的深层根源在于文明认同而非意识形态或经济利益
 > [[Samuel P. Huntington|亨廷顿]]主张，现代化并不等同于西方化。非西方社会在经济和军事实力增强的过程中，反而强化了对本土文明传统的文化[[Pride in Learning|自豪]]感（本土化复兴），进而挑战西方霸权。冷战时期由意识形态划定的阵营让位于由宗教、历史叙事和语言维系的文明纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; Karp & Zamiska, 2025, p. 85)]]
 
-> [!example] 应用实例
-> 在跨国教育[[Policy Borrowing|政策借用]]中，非西方国家在引进西方科学技术（硬技术）的同时，往往坚决抵制西方关于人权、世俗化与通识价值的规范输出，呈现出“技术现代化与文化[[De-Westernisation|去西方化]]”并行的制度特征。
+> [!example|notitle]
+> 在[[Transnational Education|跨国教育]][[Policy Borrowing|政策借用]]中，非西方国家在引进西方科学技术（硬技术）的同时，往往坚决抵制西方关于人权、世俗化与通识价值的规范输出，呈现出“技术现代化与文化[[De-Westernisation|去西方化]]”并行的制度特征。
 
 > [!theory-proposition] 命题二｜文明断层线构成了全球地缘冲突与安全动员的关键物理与心理边界
 > 冲突最激烈的地方通常发生在不同文明的接壤地带（如中东、巴尔干与东欧断层线）。沿着断层线的局部冲突极易诱发同一文明内部不同国家的“亲缘动员（Kin-Country Syndrome）”，从而将局部危机放大为系统性阵营对抗。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 乌克兰危机与东欧地缘格局的变迁，在深层历史维度上高度契合[[Huntington-Wallace Line|亨廷顿-华莱士线]]所揭示的中欧天主教/新教传统与东正教斯拉夫传统之间的文化断层。
 
 > [!theory-proposition] 命题三｜学术界对文明冲突论的全盘抵制反向挤压了对文化实质塑造力量的严肃探究
 > 卡普与扎米斯卡指出，亨廷顿的框架确实具有还原论（Reductionist）色彩，但学术界在 1990 年代以来的激进抵制，却将所有讨论“文化如何塑造国际关系、制度效能与经济繁荣”的严肃研究彻底污名化，迫使追求终身教职的学者对文化差异与西方制度优势保持沉默，破坏了国家战略决策的清醒判断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86, 93–95)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 当代高校在讨论西方文明帝国历史份额（如控制 74% 全球产出）时，往往因恐惧被扣上[[Orientalism|东方主义]]或文明冲突论的帽子而放弃探究其底层制度与科技动员成因。
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-11-11
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 国际高等教育合作壁垒、跨国科技转化受阻、区域防务同盟凝聚力及国家战略认同的形成机制。
 > - **分析对象与单位** 跨国文明板块、国家安全决策集团、跨国教育体系、大学通识课程政策。
-> - **需要的材料** 文明断层线地缘分布、跨国学术流动数据、通识正典改革[[Document|文献]]、科技外包与地缘安全采办档案。
+> - **需要的材料** 文明断层线地缘分布、跨国[[Scientific Mobility|学术流动]]数据、通识正典改革[[Document|文献]]、科技外包与地缘安全采办档案。
 > - **解释目标** 评估地缘文化摩擦对技术采办与国家合法性的结构性约束。
 
 > [!theory-framework] 命题如何转化为分析维度

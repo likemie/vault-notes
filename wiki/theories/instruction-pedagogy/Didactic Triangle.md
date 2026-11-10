@@ -10,24 +10,39 @@ aliases:
 summary: "描述教师、学习者与课程三元关系的教学论分析模型，区分了假定教学等同于学习的经典传输模型与强调教学生成与自主相遇的修正模型"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 4
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 19
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - instruction-pedagogy
   - didaktik
   - teaching-theory
   - curriculum
 related_concepts:
+  - "[[Didaktik]]"
+  - "[[Learner Autonomy]]"
   - "[[Bildung]]"
+  - "[[Praxis]]"
+  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
+  - "[[Champ]]"
+  - "[[Metacognition]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Research Question]]"
+  - "[[Discourse]]"
+  - "[[Formative Assessment]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
   - "[[Dietrich Benner]]"
-related_facts: []
+related_facts:
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[The New Zealand Curriculum]]"
 related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: medium
@@ -40,9 +55,9 @@ updated: 2026-11-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 教学情境中教师、学习者与课程三者之间的结构性关系与互动机制。
-> - **理论问题** 解释传统学校教育将教学简化为单向知识传递的结构性缺陷，并为理解教学行动与学习行动的独立性与协同性提供分析框架。
-> - **理论类型** 分析框架与规范性教学理论模型。
-> - **知识位置** 源于欧洲与德国一般教学论（Allgemeine Didaktik）传统，经迪特里希·本纳（[[Dietrich Benner]]）与达柳斯·斯滕普科夫斯基（Dariusz Stępkowski）重构。
+> - **理论问题** 解释传统学校教育将教学简化为单向知识传递的结构性缺陷，并为理解教学行动与学习行动的独立性与协同性提供[[Analytic Framework|分析框架]]。
+> - **理论类型** 分析框架与规范性[[Didaktik|教学理论]]模型。
+> - **知识位置** 源于欧洲与德国一般教学论（Allgemeine Didaktik）传统，经[[Dietrich Benner|迪特里希·本纳]]（[[Dietrich Benner]]）与达柳斯·斯滕普科夫斯基（Dariusz Stępkowski）重构。
 
 > [!claim] 核心判断
 > 经典教学三角将课程作为教师向学生单向传递知识技能的交换客体，预设教学活动自然带来学习结果；修正版教学三角将课程界定为师生共同朝向的行动目标，将教育定位在教师教化行动与学生学习行动协同交汇的重叠区域。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–123)]]
@@ -51,14 +66,14 @@ updated: 2026-11-11
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 教学三角的拓扑结构可追溯至欧洲经典教学论传统；当代重构中，斯滕普科夫斯基基于本纳（[[Dietrich Benner]]）对教育作为塑造与成型观念的批判，系统总结了经典教学三角。本纳在一般教育学研究中基于因果律与教化行动的相对独立性，提出了修正版教学三角。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–123)]]
-> - **原初问题** 传统学校教育体制长期将教学视作自上而下的课程交付过程，将评估简化为区分学生掌握程度的分级工具，导致教学与自主学习发生脱节。
-> - **理论资源与材料** 德国教育学中的教化（[[Bildung]]）与训育（Erziehung）区分、实践哲学对主体行动自主性的界定，以及对学校机械官僚化倾向的实证与理论反思。
+> - **原初问题** 传统学校教育体制长期将教学视作自上而下的课程交付过程，将评估简化为区分学生掌握程度的分级工具，导致教学与[[Learner Autonomy|自主学习]]发生脱节。
+> - **理论资源与材料** 德国教育学中的教化（[[Bildung]]）与训育（Erziehung）区分、[[Praxis|实践哲学]]对主体行动自主性的界定，以及对学校机械官僚化倾向的实证与理论反思。
 > - **形成路径** 通过空间几何关系的重置，将原本横亘在师生之间的实体化课程移至顶点作为导向目标，把教育实践的重心转移到师生行动的相互呼应与动态协同之上。
 
 > [!dev-timeline] 理论版本与贡献
 > - **传统时期 — 经典教学三角** 确立教师、学习者与课程的三元关系，课程作为知识与技能在传授者与接受者之间的交换媒介，默认教学等同于学习。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–120)]]
 > - **2018 — 本纳修正版教学三角** 本纳调整各要素功能位置，将课程确立为教与学行动共同面对的目标，在教师一侧的教化行动与学生一侧的学习行动之间界定出重叠交汇的教育区域。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 122–123)]]
-> - **2019 — 循证教育改革分析应用** 安娜·萨尔别夫斯卡（Anna Sarbiewska）将修正模型引入澳大利亚与新西兰二十年教育改革分析，用以解释可见的学习（[[Visible Learning]]）等循证实践对教学互动本质的重塑。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 122–129)]]
+> - **2019 — [[Evidence-Based Education|循证教育]]改革分析应用** 安娜·萨尔别夫斯卡（Anna Sarbiewska）将修正模型引入澳大利亚与新西兰二十年教育改革分析，用以解释[[Visible Learning|可见的学习]]（[[Visible Learning]]）等循证实践对教学互动本质的重塑。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 122–129)]]
 
 ---
 
@@ -69,28 +84,28 @@ updated: 2026-11-11
 > | 教师 | 构件 | 传统模型中扮演单向交付者；修正模型中通过营造学习条件、提供有效反馈与尊重自主性发挥协同作用。 |
 > | 学习者 | 构件 | 传统模型中承担被动接受与应试分级角色；修正模型中作为主动建构意义的主体。 |
 > | 课程 | 构件 | 传统模型中作为师生之间的交换对象；修正模型中提升为指引教与学行动的共同目标。 |
-> | 交汇区域（Interference Area） | 机制 | 教师教化活动与学生学习活动实际相遇的动态空间，构成有效教育发生的实质场域。 |
+> | 交汇区域（Interference Area） | 机制 | 教师教化活动与学生学习活动实际相遇的动态空间，构成有效教育发生的实质[[Champ\|场域]]。 |
 
 ---
 
 > [!theory-proposition] 命题一｜教学活动与学习活动构成两类彼此独立且平等的实践行动
 > 教师的教学与学生的学习各自具有独立的行动逻辑，教师的讲授并不能直接替代或自动决定学生的内在理解建构。教育的发生依赖于两类活动在实践中的同步与共鸣，教师通过给予思考时间、允许试错和提供针对性反馈，唤起并支持学生的自主学习行动。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 122–125)]]
 
-> [!example] 应用实例
-> 在澳大利亚维多利亚州实施的高影响教学策略（High Impact Teaching Strategies, HITS）中，教师采用结构化反馈与元认知策略，促使学生主动监控自身学习进程，形成师生共同参与的协作探究。
+> [!example|notitle]
+> 在澳大利亚维多利亚州实施的高影响教学策略（[[Victorian HITS and Literacy Toolkit|High Impact Teaching Strategies]], HITS）中，教师采用结构化反馈与[[Metacognition|元认知]]策略，促使学生主动监控自身学习进程，形成师生共同参与的协作探究。
 
 > [!theory-proposition] 命题二｜课程在教学关系中充当共同探究的目标
-> 在修正版教学三角中，国家或区域课程标准为学校和教师提供发展核心素养的指引框架，具体教学内容需要在具体课堂情境中被转化为激发学生深度学习的问题情境与探究任务。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–120, 128–129)]]
+> 在修正版教学三角中，国家或区域课程标准为学校和教师提供发展[[21st Century Skills and Competencies Discourse|核心素养]]的指引框架，具体教学内容需要在具体课堂情境中被转化为激发学生深度学习的问题情境与探究任务。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–120, 128–129)]]
 
-> [!example] 应用实例
-> 新西兰实施《新西兰国家课程》（The New Zealand Curriculum）时，赋予学校根据社区特征自主设计课程实施路径的自主权，通过跨学科连接支持学生高阶思维发展。
+> [!example|notitle]
+> 新西兰实施《新西兰国家课程》（[[The New Zealand Curriculum]]）时，赋予学校根据社区特征自主设计课程实施路径的自主权，通过跨学科连接支持学生[[Higher-Order Thinking Skills|高阶思维]]发展。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 课堂教学实践是否实现了从机械内容传递向师生有效互动的转变；教育改革政策是强化了外部行政控制还是赋权了课堂师生互动。
+> - **[[Research Question|研究问题]]** 课堂教学实践是否实现了从机械内容传递向师生有效互动的转变；教育改革政策是强化了外部行政控制还是赋权了课堂师生互动。
 > - **分析对象与单位** 课堂师生互动微观过程、课程标准与实施文本、学校评价制度。
-> - **需要的材料** 课堂观察记录、师生互动话语、课程实施指南、学校评价与督导报告。
+> - **需要的材料** [[Classroom Observation|课堂观察]]记录、师生互动[[Discourse|话语]]、课程实施指南、学校评价与督导报告。
 > - **解释目标** 评估具体教学干预或宏观政策改革是固守了传统机械传输假设，还是推动了教与学协同共生。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -99,7 +114,7 @@ updated: 2026-11-11
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 命题一：行动独立性与交汇机制 [[Argument_Sarbiewska_2019_KiW\|(Sarbiewska, 2019, pp. 122–123)]] | 师生互动模式：课堂中教师与学生的角色如何定位？ | 提问类型、学生主动发言时长、试错机会、个性化反馈。 | 教师独占话语与统一划一推进指向经典模型；师生协商目标与动态支架指向修正模型。 |
 > | 命题二：课程定位与功能转换 [[Argument_Sarbiewska_2019_KiW\|(Sarbiewska, 2019, pp. 119–120)]] | 课程使用形态：课程被视作交付进度表还是探究目标？ | 教案设计思路、跨学科整合程度、本地化适应性。 | 机械追赶进度与对标测试指向传输模型；弹性模块与素养导向指向目标模型。 |
-> | 评价定位功能判断 [[Argument_Sarbiewska_2019_KiW\|(Sarbiewska, 2019, pp. 119, 126–127)]] | 评估功能分配：评估结果主要用于横向分级还是诊断改进？ | 形成性评价频次、学生自我评估、证据驱动改进记录。 | 仅输出外部排名的测评属于传统分级；指导师生反思行动的证据属于循证修正。 |
+> | 评价定位功能判断 [[Argument_Sarbiewska_2019_KiW\|(Sarbiewska, 2019, pp. 119, 126–127)]] | 评估功能分配：评估结果主要用于横向分级还是诊断改进？ | [[Formative Assessment\|形成性评价]]频次、学生自我评估、证据驱动改进记录。 | 仅输出外部排名的测评属于传统分级；指导师生反思行动的证据属于循证修正。 |
 
 ---
 

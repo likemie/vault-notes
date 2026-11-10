@@ -89,13 +89,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜政策能动界定问题痛点与改革必然性
 > 依据鲍尔（Ball, 2017）的界定，政策不仅仅是对既有客观现实的被动反映，更通过特定话语的建构力量，能动地界定出“何为问题”（the problematic）、“何为不可避免”（the inevitable）以及“何为势在必行”（the necessary）。决策者通过调取特定的实证研究成果，将特定的改革方案确立为唯一的常识性答案。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 532–533, 541)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在[[Danish Public School Reform|丹麦公立学校改革]]中，政府通过将[[Academic Achievement|学业表现]]与[[Extending School Time|延长在校时间]]绑定，将延长学时塑造为解决国家教育质量危机的必然举措，并后置调取支持性[[Intervention Research|干预研究]]进行政治合法化背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 539)]]
 
 > [!theory-proposition] 命题二｜政策演进深嵌于非正式熟人网络与文官默会经验
 > 政策作为过程的实际演进高度依赖委员会成员的微观人际圈子、亲近同僚推荐以及官僚常年实践积淀的默会经验（Tacit Knowledge）。这一特征解释了为何在官方政策文本中顶级学术期刊直接引证率普遍偏低，而决策依然能够通过熟人信任与文官经验协商得以高效闭门推进。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 538–540)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 芬兰 2014 课程改革中，职业文官专属工作组凭借深厚的行政直觉将国家评估数据转译为改革总纲，虽极少显性征引大学期刊学术成果，但在政策协商过程中展现出极高的决策权威与合法性。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 538–539)]]
 
 ---

@@ -9,10 +9,10 @@ aliases:
 summary: "认知科学、行为经济学与科学学中关于个体在经历连续成功后是否具备持续高成功概率的经典理论争论；托马斯·吉洛维奇与阿莫斯·特沃斯基等人（1985）将其定性为小数定律引发的认知偏误；米勒与桑胡尔霍（2018）在数理统计上证明传统样本计算存在系统性负偏误，证实真实手感在统计上客观存在；该争论直接启迪了科学学探究学术创造力是否存在真实的爆发期机制。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/hot-hand
@@ -24,23 +24,29 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Hot Streak]]"
   - "[[Null Hypothesis]]"
+  - "[[Scientific Creativity]]"
+  - "[[Research Question]]"
   - "[[Emergence]]"
+  - "[[Counterfactual]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Hot-Streak Model]]"
   - "[[Burstiness in Human Activities]]"
 related_methods:
+  - "[[Streak Length Analysis]]"
   - "[[Random Sampling]]"
   - "[[Joint Probability Matrix of Hits]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons:
+  - "[[Lu Liu]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Lu Liu]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Sinatra_2016_Science]]"
 confidence: high
 status: active
 created: "2026-10-30"
@@ -64,13 +70,13 @@ updated: 2026-11-11
 > - **提出者与原始文本** 认知心理学者托马斯·吉洛维奇（Thomas Gilovich）、罗伯特·瓦隆（Robert Vallone）与阿莫斯·特沃斯基（Amos Tversky）于 1985 年在 *Cognitive Psychology* 发表奠基论著《篮球中的热手：关于随机序列的认知错觉》（The Hot Hand in Basketball: On the Misperception of Random Sequences），正式提出热手错觉假说。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–72)]]
 > - **原初问题** 体育竞技教练、球员与球迷普遍坚信运动员在命中一次投篮后，下一次投篮命中的概率显著提高（即手感发热）；认知科学需要检验这一强烈直觉究竟源于客观运动生理状态，还是人类认知系统的归因偏差。
 > - **理论资源与材料** 分析美国职业篮球联赛（NBA）费城 76 人队连续多场比赛真实投篮时序数据、罚球命中记录以及受控投篮实验，结合特沃斯基与卡尼曼（Tversky & Kahneman, 1971）关于小数定律与代表性启发式认知偏误理论。
-> - **形成路径** 提出者通过游程检验（Wald-Wolfowitz Runs Test）与序列二项分布比对，发现球员连续命中与连续投失的游程频次与独立伯努利试验序列完全一致；由此判定人类大脑倾向于将随机序列中不可避免出现的局部成簇误读为因果连续性，确立了热手错觉理论。
+> - **形成路径** 提出者通过[[Streak Length Analysis|游程检验]]（Wald-Wolfowitz Runs Test）与序列二项分布比对，发现球员连续命中与连续投失的游程频次与独立伯努利试验序列完全一致；由此判定人类大脑倾向于将随机序列中不可避免出现的局部成簇误读为因果连续性，确立了热手错觉理论。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1985 — 热手错觉经典假说确立** 吉洛维奇、瓦隆与特沃斯基通过 NBA 投篮时序分析，提出所谓手感发热纯属小数定律导致的认知错觉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–72)]]
-> - **2018 — 数理统计纠偏发现经典抽样偏差** 经济学家马修·米勒（Matthew Miller）与亚当·桑胡尔霍（Adam Sanjurjo）证明经典文献存在条件概率计算的系统性负偏差，在有限投掷试验中前次命中后下一次命中的经验期望必然受制于样本耗尽效应；修正偏差后证实真实数据支持正向热手效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–72)]]
-> - **2018 — 科学学迁移至职业生涯创造力突破** 刘路（Lu Liu）与王大顺（Dashun Wang）等人在《自然》（*Nature*）将热手效应引入跨学科科学家、艺术家与导演的全生命周期分析，证实代表作前后紧邻的概率达随机预期的 1.57 倍，确立学术爆发期为客观存在的暂时激发态。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–399)]]
-> - **2021 — 科学学数理统一与政策拓展** 王大顺与巴拉巴西在专著中系统整合热手争论与创造力动力学，确立局域自相关成簇与全域时序随机影响规律的统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–77)]]
+> - **2018 — 数理统计纠偏发现经典抽样偏差** 经济学家马修·米勒（Matthew Miller）与亚当·桑胡尔霍（Adam Sanjurjo）证明经典[[Document|文献]]存在条件概率计算的系统性负偏差，在有限投掷试验中前次命中后下一次命中的经验期望必然受制于样本耗尽效应；修正偏差后证实真实数据支持正向热手效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–72)]]
+> - **2018 — 科学学迁移至职业生涯[[Creativity|创造力]]突破** [[Lu Liu|刘路]]（Lu Liu）与[[Dashun Wang|王大顺]]（Dashun Wang）等人在《自然》（*Nature*）将热手效应引入跨学科科学家、艺术家与导演的全生命周期分析，证实代表作前后紧邻的概率达随机预期的 1.57 倍，确立[[Hot Streak|学术爆发期]]为客观存在的暂时激发态。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–399)]]
+> - **2021 — 科学学数理统一与政策拓展** 王大顺与[[Albert-László Barabási|巴拉巴西]]在专著中系统整合热手争论与创造力动力学，确立局域自相关成簇与全域时序[[Random Impact Rule|随机影响规律]]的统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–77)]]
 
 ---
 
@@ -79,7 +85,7 @@ updated: 2026-11-11
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | 热手错觉（Hot Hand Fallacy） | 心理认知假说 | 假定人类将独立的随机波动误读为因果连续性的传统心理学假说。 |
-> | 条件概率抽样偏差 | 统计机制缺陷 | 揭示有限长度离散序列中前置条件筛选导致的系统性负期望偏差。 |
+> | 条件[[Random Sampling\|概率抽样]]偏差 | 统计机制缺陷 | 揭示有限长度离散序列中前置条件筛选导致的系统性负期望偏差。 |
 > | [[Joint Probability Matrix of Hits\|代表作联合概率矩阵]] $\phi(N^\ast, N^{\ast\ast})$ | 科学学检验工具 | 量化科研成果序列中头号高峰与次席高峰相对时序共现强度的判定工具。 |
 > | [[Hot Streak\|学术爆发期]] | 实质动力学状态 | 科学学确立的创造力真实热手形态，体现为数年内顶尖成果的密集落地。 |
 > | [[Hot-Streak Model]] | 衍生动力学模型 | 将热手现象在科研全生命周期中形式化表达的平稳基线与激发态演化模型。 |
@@ -91,21 +97,21 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜抽样选择偏差的修正确立了连胜机制的数理真实性
 > 米勒与桑胡尔霍在数理上证明，在有限长度投掷试验中，限定前次成功的条件子样本规模必然受到序列截断压制；修正该负偏差后，实际命中概率显著高于独立随机假设，为手感现象提供了坚实的统计学立论基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–72)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在有限长度抛硬币实验中，若连续抛 4 次硬币，在前一次为正面（H）的前提下后一次同为正面（H）的真实条件概率期望值为 40.5%（低于常人直觉设想的 50% 基准）；有限样本池的截断效应降低了条件概率，造成统计基准测算偏误。
 
 > [!theory-proposition] 命题二｜科研产出的局域时空自相关展现出确凿的爆发期
-> 科学学对跨学科科学家、艺术家与导演的大样本实证表明，前两大代表作紧邻发表的概率比随机预期高出 57%（1.57 倍），证实科研创造力在激发状态下呈现出确凿的真实爆发期，超越了独立无记忆过程的理论预期。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–74)]]
+> 科学学对跨学科科学家、艺术家与导演的大样本实证表明，前两大代表作紧邻发表的概率比随机预期高出 57%（1.57 倍），证实[[Scientific Creativity|科研创造力]]在激发状态下呈现出确凿的真实爆发期，超越了独立无记忆过程的理论预期。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–74)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 爱因斯坦在 1905 年“奇迹年”连续发表光电效应、布朗运动与狭义相对论三篇划时代成果；彼得·杰克逊在 2001 至 2003 年连续执导《指环王》三部曲斩获巅峰口碑，均体现出成果密集扎堆的真实热手特征。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 诊断人类在技能竞技、商业决策与科学创新中对连续成功的认知判断；评估重大成果密集涌现究竟是独立随机抽样的统计幻觉还是真实的激发态。
+> - **[[Research Question|研究问题]]** 诊断人类在技能竞技、商业决策与科学创新中对连续成功的认知判断；评估重大成果密集[[Emergence|涌现]]究竟是独立随机抽样的统计幻觉还是真实的激发态。
 > - **分析对象与单位** 包含时间序列标记的离散产出记录（如体育投篮序列、学术发表时序、艺术品拍卖记录）。
-> - **需要的材料** 连续时间跨度的产出记录、多维客观表现指标（命中率、被引量、成交额）与反事实随机置换序列。
+> - **需要的材料** 连续时间跨度的产出记录、多维客观表现指标（命中率、被引量、成交额）与[[Counterfactual|反事实]]随机置换序列。
 > - **解释目标** 厘清观察到的表现聚集是由于有限样本截断偏差引起的错觉，还是存在超越随机预期的真实自相关状态转移。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -120,7 +126,7 @@ updated: 2026-11-11
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 涉及连续成功感知、有限序列条件概率估计与科研成果成簇[[Emergence|涌现]]的认知与统计争议。
-> - **成立条件** 必须依托全样本无偏观测序列与小样本截断偏差修正公式，样本量需足够支撑游程或联合概率矩阵分析。
+> - **成立条件** 必须依托全样本无偏观测序列与小样本截断偏差修正公式，[[Sample Size Determination|样本量]]需足够支撑游程或联合概率矩阵分析。
 > - **解释不足** 统计层面的局部成簇验证未能直接阐明导致手感爆发的微观神经认知或心理注意机制。
 > - **转化困难** 在现实竞技与科研中，成功后的对手防守加强或任务难度提高可能产生负向对冲，掩盖真实的热手信号。
 > - **不能直接推出** 局部爆发期的客观存在不能直接推翻长期全局维度的均值回归与随机影响基准。

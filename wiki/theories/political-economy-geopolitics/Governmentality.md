@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 63
+theory_related_count: 68
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Migrant Children]]"
   - "[[Transiency]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Scientific Mobility]]"
   - "[[Commensuration]]"
   - "[[Student Motivation]]"
   - "[[Learning Strategies]]"
@@ -56,6 +57,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Determinism]]"
   - "[[Politics of Knowledge]]"
+  - "[[Education Export]]"
   - "[[Student Mobility]]"
   - "[[Migrant Education]]"
 related_theories:
@@ -69,10 +71,12 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
+  - "[[Post-structural Policy Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Nikolas Rose]]"
   - "[[Stephen Ball]]"
+  - "[[Noah Sobe]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -90,6 +94,7 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-05-20
@@ -125,7 +130,7 @@ updated: 2026-11-11
 > - **1978–1979 年 — 经典政治谱系学确立** 福柯系统阐明了规训身体、调节人口与自由主义治理理性的三重维度。
 > - **1990 年代 — 政治社会学与自由的力量** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）与科林·戈登（Colin Gordon）等推进英美治理术研究，提出“通过社区治理”与[[Spatial Governmentality|空间化治理]]（领地化、空间凝视、空间质地建模），指出治理依赖[[Lefebvre's Spatial Triad|空间的生产]]与划分。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **2008 年 — 教育社会学史的治理化重读** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball, 2008）论证教育社会学三大传统（[[Political Arithmetic|政治算术]]、[[New Sociology of Education|新教育社会学]]、[[School Effectiveness|学校效能]]）本身即是把家庭、知识与学校转化为可干预治理对象的权力技术。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 651, 654–665)]]
-> - **2009 年 — 比较教育学空间转向与[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]** 诺亚·索比与梅丽莎·菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）将治理术深化为“空间实践”与双重问题式的综合[[Analytic Framework|分析框架]]，揭示学校作为封闭容器与流动资格筛选关卡的职能。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 367–368)]]
+> - **2009 年 — 比较教育学空间转向与[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]** [[Noah Sobe|诺亚·索比]]与梅丽莎·菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）将治理术深化为“空间实践”与双重问题式的综合[[Analytic Framework|分析框架]]，揭示学校作为封闭容器与流动资格筛选关卡的职能。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 367–368)]]
 > - **2009 年 — [[OECD|经合组织]]跨国测评与[[Governing by Numbers|数字治理]]（Governing by Numbers）转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于 [[PISA]] 与[[European Education Space|欧洲教育空间]]实证推进治理术研究：一方面揭示大规模测评跳过具体课程大纲，将[[Lifelong Learning|终身学习]]前置为基础教育评估指标，通过数据反馈将应对经济不确定性的责任下沉为受[[Pedagogical Subject|教育主体]]的自我调节（[[Self-control|self-regulation]]）；另一方面论证经合组织与[[EU|欧盟]]在缺乏法定立法强制权下，依托跨国指标与排名比拼建立跨机构共生的软法数据治理机制，拓展了超国家尺度上的远距治理理论。
 > - **2009 年 — 欧盟[[Open Method of Coordination|开放协调法]]与跨国新自由主义治理术** 乔治·帕西亚斯与乔治·鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 480–481, 485, 493]]）运用福柯治理术理论分析欧洲教育空间，揭示[[European Commission|欧盟委员会]]如何在缺乏法定立法强制权的宪制约束下，依托“质量”、“[[Competitiveness|竞争力]]”、“[[Employability|就业能力]]”与“终身学习”等[[Regimes of Truth|真理政制]]（Regimes of Truth），结合开放协调法（OMC）的软法监测、基准比较与[[Peer Pressure|同行压力]]，实现对成员国教育政策与主体行动的远距引导（Conduct of Conduct）。
 > - **2022 年 — 算法时代与全球知识地缘治理** 汤普森等（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022]]）将治理术延伸至大学在线自测系统（[[Online Self-Assessment|OSA]]）与[[Digital Self|数字自我]]塑造；泽林卡（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022]]）将其扩展为全球尺度的“[[21st Century Skills and Competencies Discourse|21世纪技能]]”[[Governing at a Distance|远距治理]]。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–226)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 251–265)]]
@@ -166,31 +171,31 @@ graph TD
 > [!theory-proposition] 命题一｜权力通过“行为的引导”实现无暴力的深度秩序
 > 治理术的核心运作机制是将治理目标转化为个体的内在动机。权力系统放弃代价高昂的肉体强迫，转而通过知识[[Discourse|话语]]、专家建议与考核量表，建构出何为“理性”、“自主”与“负责任”的规范定义。个体在追求个人卓越与福祉的过程中，不自觉地履行了体制的期望。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–221)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高等教育中，大学并不强迫学生选择特定专业，但通过引入在线自测系统（[[Online Self-Assessment|OSA]]），让申请者自行评估胜任力；测试反馈诱导学生主动将自身理解为“自负盈亏的学术企业家”，若遭遇失败则归咎于自身储备不足，从而使大学零阻力地完成了生源筛选。
 
 > [!theory-proposition] 命题二｜自由是现代治理的必要技术条件而非对立面
 > 新自由主义治理理性最深沉的悖论在于：越是鼓吹“自由选择”与“去中心化”，治理权力的毛细血管渗透就越彻底。当政府赋予学校[[School Choice|择校]]权或赋予学生[[Learner Autonomy|自主学习]]权时，实际上是将宏观的结构性风险（失业、贫困、教育不公）个体化、道德化为个人选择的后果，从而免除了国家作为最终责任人的负担。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 222–223)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!theory-proposition] 命题三｜现代治理本质上依赖对空间的建构、计算与封闭
 > 治理既体现为时间上的历史演进与身体上的行为操练，也在根本上依赖于空间的构想、划界与操控。如 Rose（1999）与 [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer（2009）]]所示，现代权力通过人为制造“学区”、“教室”、“家庭”等离散单元（领地化），并通过统计图表将分散人群变为可见对象（空间凝视），从而使学校成为把人口圈禁在固定网格中的“封闭容器”（Enclosure），以及根据文化标准决定谁有资格跨入更广阔社会空间的“筛选关卡”（Qualification）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在[[Migrant Children|流动儿童]]管理中，中国通过城乡二元[[Hukou System|户籍制度]]在空间上设立公办学校准入门槛，而美国基础教育则在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》下将中途频繁转校的学生定性为拖累达标率的“[[Transiency|流动漂泊]]者”；两者均利用空间技术划定主体合法性。
 
 > [!theory-proposition] 命题四｜治理术通过远距机制在超国家尺度编织话语网络
 > 权力的有效运行超越了集中单一的主权中枢，转而依托跨国组织、智库与标准化指标体系所构筑的松散网络，在空间“远处”协调各方行为。全球[[Geopolitics of Knowledge|知识地缘政治]]通过界定“[[21st Century Skills and Competencies Discourse|21世纪技能]]”或“未来教育愿景”，远距离重塑各主权国家的课程大纲与公民自我期待（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp. 251–260]]）。帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）进一步揭示，超国家机构能够通过确立“质量”、“卓越”与“[[Employability|就业能力]]”等[[Regimes of Truth|真理政制]]（Regimes of Truth），将宏观经济竞争逻辑自然化为无可动摇的教育法则，依托软法与指标监测远距离规范主权国家的教育改革取向。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 485)]]
 
-> [!example] 应用实例
-> 欧盟通过[[TEMPUS|天普计划]]面向东欧与周边邻国输出[[Bologna Process|博洛尼亚进程]]标准；虽无主权行政强制力，却通过学术流动基金与学位对齐机制，引导伙伴国高校自愿重构内部专业与评估机制，实现了地缘空间上的远距规范治理。
+> [!example|notitle]
+> 欧盟通过[[TEMPUS|天普计划]]面向东欧与周边邻国输出[[Bologna Process|博洛尼亚进程]]标准；虽无主权行政强制力，却通过[[Scientific Mobility|学术流动]]基金与学位对齐机制，引导伙伴国高校自愿重构内部专业与评估机制，实现了地缘空间上的远距规范治理。
 
 > [!theory-proposition] 命题五｜量化测评通过数字治理与[[Lifelong Learning|终身学习]]将宏观竞争压力内化为个体的自我规制技术
 > 大规模跨国测评通过生成去情境化、可[[Commensuration|通约]]的量化数据，将外部治理转化为个体的自我管理技术。索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）结合[[Nikolas Rose|尼古拉斯·罗斯]]与[[Stephen Ball|斯蒂芬·鲍尔]]的研究指出，[[PISA]] 测验跳过特定民族国家课程大纲，直接考核面向成人市场与未来生活所需的功能性技能，并将终身学习理念前置至义务教育阶段，要求学生自我报告[[Student Motivation|学习动机]]与策略。这一数字治理机制把应对不确定市场竞争的结构性风险转化为受教育者个人的自我优化义务，通过持续的数据反馈驱动个体成为主动追求自我调节（[[Self-control|self-regulation]]）与自我增值的行动主体，并在超国家层面依托软性指标与同伴比拼达成了无需法律指令的深层治理协同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–28, 32–35)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[OECD|经合组织]]向全球推广 PISA 测评，促使各参与国学生在无统一国际大纲的条件下自发对标国际能力量表，使学校和个人主动开展[[Learning Strategies|学习策略]]调整与[[Self-Efficacy|自我效能]]监控，以顺应[[Knowledge-Based Economy|知识经济]]竞争对自律型[[Human Capital Theory|人力资本]]的规训要求。
 
 ---
@@ -237,7 +242,7 @@ graph TD
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 结合治理理性与后结构政策分析，剖析芬兰教育出口政策如何通过将公立教育表征为缺乏商业敏锐度的管理缺陷，将福利国家教育体系重构为参与全球竞争的治理技术。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 结合治理理性与[[Post-structural Policy Analysis|后结构政策分析]]，剖析芬兰[[Education Export|教育出口]]政策如何通过将公立教育表征为缺乏商业敏锐度的管理缺陷，将福利国家教育体系重构为参与全球竞争的治理技术。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 结合治理术与[[Societies of Control|控制社会]]理论，剖析德国高校在线自测系统如何呼唤出“[[Promising Student|有前景的学生]]”。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 运用治理术视角重访英国教育社会学史，揭示[[Political Arithmetic|政治算术]]与[[School Effectiveness|学校效能]]研究如何成为现代国家治理的认知工具。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能[[Discourse|话语]]如何作为全球治理技术，通过远距机制重塑各国[[Pedagogical Subject|教育主体]]。

@@ -7,7 +7,7 @@ aliases:
 summary: "由薇薇安·施密特（Vivien A. Schmidt）系统确立的制度主义分析范式，将理念与话语置于制度解释的核心，区分实质内容（认知性理念与规范性理念）与互动语境（协调性话语与交流性话语），结合理念权力（通过、支配与内置理念之权力），阐明行动者如何在既有制度结构中协商、重塑或维系制度权威与政策议程。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Ideational Power]]"
+  - "[[Cumulative Innovation]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Global Regionalisms]]"
@@ -69,7 +70,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 政治学者薇薇安·施密特（Vivien A. Schmidt）于 2008 年发表《话语制度主义：新制度主义中的第四流派》（*Discursive Institutionalism: The Fourth 'New Institutionalism'?*），并在后续研究中与马丁·卡斯滕森（Martin B. Carstensen）联合拓展理念权力分类学（Carstensen & Schmidt, 2016）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
+> - **提出者与原始文本** 政治学者薇薇安·施密特（Vivien A. Schmidt）于 2008 年发表《话语制度主义：新制度主义中的第四流派》（*Discursive Institutionalism: The Fourth 'New Institutionalism'?*），并在[[Cumulative Innovation|后续研究]]中与马丁·卡斯滕森（Martin B. Carstensen）联合拓展理念权力分类学（Carstensen & Schmidt, 2016）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
 > - **原初问题** 欧洲一体化进程与各国福利国家改革中频繁出现制度形式未改而实质政策重点剧烈变动的经验事实，既有理性主义或结构主义模型难以解释这种“无制度剧变的观念演变”。
 > - **理论资源与材料** 吸收[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的交往理性与沟通行动理论、米歇尔·福柯（Michel Foucault）的话语权力洞见，以及比较政治经济学中关于政策[[Paradigm|范式]]转移的实证案例。
 > - **形成路径** 将理念按功能划分为认知维度与规范维度，将话语按互动场景划分为协调性与交流性维度，进而在 2016 年整合结构与能动视角，提出涵盖三个权力向度的理念权力模型。
@@ -97,19 +98,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜理念具有界定政策因果与确立行动规范的双重功能
 > 政策理念包含多重功能维度。认知性理念为政策制定者提供认识现实的图式，明确何为问题、何为可行方案，使政策行动者能够在特定认知框架内协调行动；规范性理念发挥强烈的合法化功能，依托社会长期形成的默认假设为政治行动赋予价值正当性，决定哪些方案符合共同体价值观。两者在政策文本中相互交织，共同决定政策项目的行动边界。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 856)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在欧盟制定面向 2030 年的教育战略时，终身学习既作为连接基础教育、职教与成人技能提升的认知因果方案，又承载着保障公民全生命周期学习权利的规范价值。
 
 > [!theory-proposition] 命题二｜政策话语在精英协调网络与公众沟通[[Champ|场域]]中分层运作
 > 话语制度主义强调话语的互动本质。协调性话语发生于由政策官僚、内阁顾问与专家委员会构成的相对封闭网络中，其重点在于技术方案的推敲、妥协方案的达成以及跨部门共识的捏合；交流性话语表现为官方公报、议会辩论与公开宣传，旨在将协调成型的战略框架向社会公众展示，借助基准指标与战略愿景唤起普遍认同。两类话语层级可能存在节奏与重心的错位。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[European Commission|欧盟委员会]]发布欧洲教育区倡议公报属于交流性话语，而欧盟理事会教育委员会内部各成员国代表闭门修改指标文本属于深层的协调性话语。
 
 > [!theory-proposition] 命题三｜理念权力的达成依托行动者能动性与既有制度结构的互构
 > 行动者改变政策方向的理念权力区分为三种形态：其一为通过理念行使权力（Power through ideas），即行动者凭借论证说服他人接受新观点；其二为支配理念之权力（Power over ideas），即行动者控制议程与意义解释权，压制竞争性替代主张；其三为内置于理念之权力（Power in ideas），即某种理念长期嵌入制度框架，成为不证自明的制度权威。如果新理念无法在现有科层结构中找到制度支撑，单凭个别行动者的说服力往往难以撼动长久积累的内置权力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 857)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 欧盟委员会官员试图以“包容”概念替代“终身学习”，但终身学习理念已深度内置于欧盟长达二十年的工作方案、高层专家组与资助规则中，替代倡议最终未能形成足够的支配权力。
 
 ---

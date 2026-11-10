@@ -10,7 +10,7 @@ aliases:
 summary: "诞生于 20 世纪 90 年代营销与传播学领域的跨学科分析框架，强调以统一的目标和品牌形象整合广告、公关、销售推广及接触点渠道，形成传达统一声音的内容整合与让受众接收一致信息的渠道整合；在比较教育与教育政策研究中，被用于解构主权国家如何系统打包教育成就、塑造国家教育品牌并推进跨国传播与教育出口。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 14
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Nation Branding]]"
   - "[[Education Export]]"
+  - "[[Brand Honeycomb Model]]"
   - "[[Champ]]"
   - "[[Operationalization]]"
+  - "[[Finnish Paradoxes]]"
   - "[[Public Diplomacy]]"
   - "[[Research Question]]"
   - "[[Critical Pedagogy]]"
@@ -39,6 +41,7 @@ related_persons:
   - "[[Pasi Sahlberg]]"
 related_facts:
   - "[[PISA]]"
+  - "[[This is Finland]]"
 related_arguments:
   - "[[Argument_Yang_2023_ICE]]"
 confidence: high
@@ -68,7 +71,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 理论版本与贡献
 > - **1990 年代初 — 经典 IMC 框架确立** 美国广告代理商协会与唐·舒尔茨（Don Schultz）界定整合营销传播概念，确立围绕单一主题实现以同一种声音说话的战术协同原则。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 4)]]
-> - **2000 年代 — 品牌蜂窝模型开发** 日本电通集团提出品牌识别蜂窝模型，将核心价值、象征符号、权威基础、情感利益、功能利益、个性与理想顾客形象等七要素整合为网状操作模型。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 4)]]
+> - **2000 年代 — [[Brand Honeycomb Model|品牌蜂窝模型]]开发** 日本电通集团提出品牌识别蜂窝模型，将核心价值、象征符号、权威基础、情感利益、功能利益、个性与理想顾客形象等七要素整合为网状操作模型。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 4)]]
 > - **2020 年代 — 跨学科引入国家教育品牌研究** 比较教育学者将 IMC 与电通模型整合为四要素（核心价值、客观属性、利益特征、个性特征）与三渠道（事件营销、公共关系、新媒体）分析框架，用于解构芬兰等国将教育卓越转化为国家品牌与出口优势的实践经验。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, pp. 4–7)]]
 
 ---
@@ -88,14 +91,14 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜内容整合以单一核心价值凝聚多维品牌认知要素
 > 整合营销传播要求品牌形象具有内在一致性。品牌识别包含核心价值（本质与精神信念）、客观属性（视觉/文字符号与权威证据基础）、利益特征（功能效用与情感体验的融合）以及个性特征（典型特质与理想顾客画像）。内容整合通过将这些构成要素紧密围绕在单一核心信念周围，避免传播信息的杂乱发散，使受众建立清晰稳定的主观认知。在国家教育品牌化语境中，这一机制体现为将零散的政策成就统一收拢在卓越教育等核心价值之下。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, pp. 4–6)]]
 
-> [!example] 应用实例
-> 芬兰在国家品牌报告中以全世界最好的教育为核心价值，提炼小国可以通过教育变得强大的文字符号，将解决全球教育危机的能力与责任感融为一体，依托[[Pasi Sahlberg|帕思·萨尔伯格]]（Pasi Sahlberg）阐发的芬兰悖论塑造品牌个性，系统完成内容整合。
+> [!example|notitle]
+> 芬兰在国家品牌报告中以全世界最好的教育为核心价值，提炼小国可以通过教育变得强大的文字符号，将解决全球教育危机的能力与责任感融为一体，依托[[Pasi Sahlberg|帕思·萨尔伯格]]（Pasi Sahlberg）阐发的[[Finnish Paradoxes|芬兰悖论]]塑造品牌个性，系统完成内容整合。
 
 > [!theory-proposition] 命题二｜渠道整合通过协调多元接触点形成协同传播合力
 > 整合营销传播将受众与组织发生的每一次接触均视作信息传递通道。渠道整合要求根据品牌定位，将突发或策划的重大事件、日常[[Public Diplomacy|公共外交]]与组织交往、数字网络交互等多重传播路径紧密组合，消除渠道之间的噪音与冲突，使外部公众在不同情境下均能接收到相互验证的协调信息。内容整合依靠渠道整合得以具象外显，渠道整合依托内容一致性获得持续聚焦。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, pp. 4, 6–8)]]
 
-> [!example] 应用实例
-> 芬兰抓住[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）测评优异表现开展事件营销展示客观属性，接待各国访问团并推动教育服务出口与多边援助深化公共关系，运营《这就是芬兰》（This is Finland）多语种国家门户强化新媒体互动，实现渠道协同。
+> [!example|notitle]
+> 芬兰抓住[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）测评优异表现开展事件营销展示客观属性，接待各国访问团并推动教育服务出口与多边援助深化公共关系，运营《[[This is Finland|这就是芬兰]]》（This is Finland）多语种国家门户强化新媒体互动，实现渠道协同。
 
 ---
 

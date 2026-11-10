@@ -168,7 +168,7 @@ updated: 2026-11-11
 > [!theory-proposition] [[Thomas Schelling|谢林]][[Strategic Bargaining Theory|战略博弈论]]｜施加伤害的能力构成了外交谈判的核心筹码
 > 著名经济学家、诺贝尔经济学奖得主[[Thomas Schelling|托马斯·谢林]]（Thomas Schelling）在《武器与影响》（*Arms and Influence*, 1966/2020）中系统阐明，暴力若要产生强制效能就必须事先被对手明确预期（To be coercive, violence has to be anticipated），施加实质伤害的能力就是谈判的核心筹码（The power to hurt is bargaining power），而战争在本质上始终是一种流动的讨价还价过程（War is always a bargaining process）。谢林现实主义的深刻之处在于，它不带道德感伤地将道义评判与战略筹码清晰区分开来：在评价一项政策的道德是非之前，必须首先认清己方在谈判或武装冲突中是否拥有能够让对手承受实质伤害的相对强制优势（p. 32）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在现代大国危机外交中，若一方仅拥有道义宣言而缺乏能在几分钟内识别并摧毁敌方关键节点的前沿软件与算法系统，其外交警告在对手眼中将毫无威慑力；反之，具备压倒性精准打击能力的一方才能迫使对手回到谈判桌前达成稳定协议。
 
 这两种截然不同的权力认知，展现了自由主义道义空想与现实主义博弈之间的根本分歧。

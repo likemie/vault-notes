@@ -9,7 +9,7 @@ aliases:
 summary: "第三世界发展研究与国际政治经济学的重要批判理论流派，主张跨国大资产阶级与发展中国家本土统治阶级和管理资产阶级跨越国界结成支配同盟，解释了外围国家国家机器何以在外部跨国资本渗透与内部既得利益维护的双重合谋下推行阶级分化的教育与公共政策"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - development-studies
   - paradigm/critical
 related_concepts:
+  - "[[Country Ownership]]"
   - "[[Pact of Domination]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
@@ -46,7 +47,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 第三世界外围国家在跨国资本全球扩张中的跨国阶级结盟、国家自主性消解与公共资源分配偏向。
+> - **解释对象** 第三世界外围国家在跨国资本全球扩张中的跨国阶级结盟、[[Country Ownership|国家自主性]]消解与公共资源分配偏向。
 > - **理论问题** 回应传统帝国主义理论（列宁式民族国家对抗模型）与早期[[Dependency Theory|依附理论]]（将中心与外围完全置于外在对抗二元对立）无法充分解释跨国大资产阶级如何深度整合本土买办精英与管理阶级的经验谜题。
 > - **理论类型** 国际政治经济学与历史唯物主义批判解释框架。
 > - **知识位置** 介于经典帝国主义理论、依附理论（Dependency Theory）与[[World-Systems Theory|世界体系理论]]（World-Systems Theory）之间的第三世界发展理论谱系。
@@ -82,13 +83,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜第三世界欠发达根源于跨国资本与本土统治精英的双重利益共谋
 > 后帝国主义理论主张，第三世界国家的政策扭曲不能单纯归咎于外部跨国公司的强权强加，本土统治集团通过充当跨国资本的代理人与管理阶层，共同从不平等的世界经济分工中获利；国家机器因此蜕变为排他性的代用国家，优先服务于跨国资本积累而非国内大众的实质公共需求。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 82–83)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在拉美教育改革中，跨国金融机构与本土技术官僚合谋削减公立基础教育经费，同时对服务跨国企业技能需求的高等技术与商科教育进行定向倾斜，导致普通平民教育深陷资源短缺泥潭。
 
 > [!theory-proposition] 命题二｜跨国霸权机制削弱国家作为公共福利仲裁者的合法性
 > 当国家统治阶级依附于跨国资本同盟时，国家公共政策必然呈现严重的阶级双轨性：在[[Discourse|话语]]上高喊全民现代化，在实践中推行使用者付费与私有化，致使大众对国家公共性产生根本怀疑。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 墨西哥与阿根廷等国在新自由主义结构调整期间，政府将国立大学重组为自负盈亏的市场主体，这一政策直接顺应了跨国投资对廉价专业劳动力的需求，却激化了本土青年与工农阶级的广泛抗争。
 
 ---

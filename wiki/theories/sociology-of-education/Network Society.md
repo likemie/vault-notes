@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 52
+theory_related_count: 53
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Geopolitics]]"
   - "[[Performativity]]"
+  - "[[Transnational Education]]"
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Determinism]]"
@@ -117,31 +118,31 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜社会组织基本模式从垂直科层等级向水平跨界网络转型
 > 社会组织的主导[[Paradigm|范式]]正在从以民族国家和科层企业为代表的稳定等级制，转向高度灵活的水平网络形式。网络通过数字化通信节点相互联结，消解了地理空间对信息传递的物理阻滞。这并不意味着国家或传统机构消亡，而是意味着民族国家与大学等实体被全面嵌套进更广泛的全球网络关系中，其自主性必须通过网络连接性来重新确立。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高等教育跨国研究中，早期的大学国际化主要依赖由少数精英名校签订的排他性双边或多边校际协议（如 Universitas 21）；而在当代网络社会中，这种封闭等级联盟被更为灵活的、跨国跨学科的科研人员项目网络所取代，研究者直接跨国调动数据、设备与算力。
 
 > [!theory-proposition] 命题二｜网络与[[Space of Flows|流动空间]]成为[[Knowledge Production|知识生产]]与价值创造的主导载体
 > 在知识密集型经济与[[Informationalism|信息主义]]发展模式中，生产力不再主要依赖原材料或固定资产的物理集中，而是来自于知识与信息的优化配置。跨国流动网络本身成为价值创造的基本单位。本克勒（Benkler, 2006）指出，分布式的跨国同行协作机制能够跨越国界与机构围墙调动全人类的智力资源，使得基于网络公地的知识生产在效率与广度上展现出超越传统科层垄断的独特优势。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 开源软件开发协作模式及全球气候科学跨国数据库构建，数千名来自不同大洲、互不相识的科学家无须在同一栋科研大楼内肉身共在，便能协同攻克极端天气建模等前沿科研难题。
 
 > [!theory-proposition] 命题三｜空间的去领土化重构[[Cosmopolitanism|世界主义]]精英与本土大众的双重割裂
 > 网络社会的空间逻辑由[[Space of Flows|流动空间]]主导，其物质基础是跨国电子通信、国际会议航线、学术期刊与资本通道，由掌握战略代码的技术-管理-金融与学术精英所占据；这些精英具有鲜明的[[Cosmopolitanism|世界主义]]（Cosmopolitanism）特征，脱嵌于特定地方责任。相反，绝大多数普通民众仍生活在具体的场所空间之中，依赖本土社区、实体制度与实体就业。这种空间的二元分化引发了深刻的[[Cultural Disembedding|文化脱嵌]]、[[Technological Agnosticism|技术不可知论]]与[[Geopolitics|地缘政治]]紧张。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 穿梭于日内瓦、巴黎、华盛顿的跨国智库与多边机构顾问，熟练运用去情境化的全球评估语言（如 [[PISA]] 指标），其制定的能力课程方案完全脱离了拉美贫困乡村学校缺乏电力与合格师资的本土现实。
 
 > [!theory-proposition] 命题四｜[[Global Policy Space|全球政策空间]]中的[[Network Governance|网络化治理]]遵循[[Performativity|操演性]]与临时互通性逻辑
-> 在网络社会的[[Global Policy Space|全球政策空间]]中，多边机构（如[[World Bank|世界银行]]、[[OECD]]、[[UNESCO]]）、跨国教育企业、基金会与非政府组织构成了复杂的竞合网络。节点的决策并非依据僵化的意识形态教条，而是遵循卡斯特指出的操演性（Performativity）与临时互通性（Interoperability）原则——只要能提升在网络中的影响力和项目生存力，不同立场的组织便可迅速结盟；为了跨越[[Heterogeneity|异质性]]系统传播，政策方案被高度抽象为[[Floating Signifier|漂浮能指]]。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 351–353)]]
+> 在网络社会的[[Global Policy Space|全球政策空间]]中，多边机构（如[[World Bank|世界银行]]、[[OECD]]、[[UNESCO]]）、[[Transnational Education|跨国教育]]企业、基金会与非政府组织构成了复杂的竞合网络。节点的决策并非依据僵化的意识形态教条，而是遵循卡斯特指出的操演性（Performativity）与临时互通性（Interoperability）原则——只要能提升在网络中的影响力和项目生存力，不同立场的组织便可迅速结盟；为了跨越[[Heterogeneity|异质性]]系统传播，政策方案被高度抽象为[[Floating Signifier|漂浮能指]]。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 351–353)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 具有强烈反新自由主义立场的[[Education International|国际教育协会]]（Education International, EI）与推行市场化借贷的世界银行和[[International Monetary Fund|国际货币基金组织]]（IMF），能够在“[[Education for All|全民教育]]”（EFA）或消除儿童失学的临时项目平台上结成战略伙伴，展现了网络治理中多重理性的去意识形态化整合。
 
 > [!theory-proposition] 命题五｜网络化流动的抽象[[Discourse|话语]]在场所空间引发结构性解耦与实践异化
 > 网络生产的话语由于追求最大的跨国适用性，必然剥离地方历史特殊性。当这些去情境化的政策处方降落到微观学校等扎根于场所空间的机构时，无法与学校日常教学所需的微观一致性相兼容。基层实践者因缺乏支持而产生规避与异化反应，导致实际教学效果与网络政策文本的宣称初衷发生剧烈的结构性脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 阿根廷 1990 年代依据全球网络方案赋予教师自主决定课程内容的自由，但一线教师因从未受过课程建构培训而深陷恐慌，索性集体翻抄商业教辅图书目录编排授课计划，导致国家课程主权被民营出版商实质性架空。
 
 ---

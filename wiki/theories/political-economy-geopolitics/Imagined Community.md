@@ -19,7 +19,6 @@ tags:
   - theory/nationalism
   - paradigm/constructivist
 related_concepts:
-  - "[[Modular Nationalism]]"
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Geopolitics]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[One Country, Two Systems]]"
   - "[[Technological Republic]]"
+  - "[[Horizontal Comradeship]]"
   - "[[Everyday Plebiscite]]"
   - "[[Civic Religion]]"
   - "[[Bilingual Education Policy]]"
@@ -38,23 +38,23 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Hard Power]]"
   - "[[Pride in Learning]]"
+  - "[[Modular Nationalism]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
 related_persons:
   - "[[Benedict Anderson]]"
-  - "[[Ernest Gellner]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
 related_arguments:
-  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Xu_2024_CE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -95,7 +95,7 @@ updated: 2026-11-11
 > | 想象性（Imagined） | 核心属性 | 界定民族成员虽未谋面但在心灵中共有彼此同在的心理图像。 |
 > | 有限边界性（Limited） | 边界属性 | 界定任何民族均具备有限的领土与成员边界，不与全人类等同。 |
 > | 主权独立性（Sovereign） | 政治属性 | 承接启蒙理性，界定民族掌控自身命运与建立宪政秩序的最高自主权。 |
-> | 横向同志情谊（Horizontal Comradeship） | 情感构件 | 解释成员超越现实阶级与财富不平等、自愿为共同体奉献牺牲的情感基石。 |
+> | [[Horizontal Comradeship\|横向同志情谊]]（Horizontal Comradeship） | 情感构件 | 解释成员超越现实阶级与财富不平等、自愿为共同体奉献牺牲的情感基石。 |
 > | 印刷资本主义（Print Capitalism） | 物质媒介机制 | 民族语言印刷品的商品化消费创造了跨地域的大众同时性体验。 |
 > | 统一学校机器（Modern Schooling） | 制度化机制 | 国家通过统一课程与历史教科书将想象的共同体转化为代际传递的官方常识。 |
 > | 想象链接（Imagined Linkages） | 认知协作机制 | 突破[[Dunbar's Number\|邓巴数]]限制，使数百万陌生人能够围绕宏大国家工程协同攻坚。 |
@@ -106,33 +106,33 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜一切超越面对面村落的共同体均由特定风格所想象，民族是以有限疆界和政治主权为表象特征的文化人造物
-> 民族属性在本质上更接近亲属关系与宗教信仰等文化范畴，回应生老病死与终极归属等存在论问题，不同于自洽的政治意识形态。一切超越面对面接触村落的大规模人类群体，皆依赖特定媒介被想象出来；不同共同体的根本分野取决于各自被想象的具体风格，超越真实与虚假的二元划分。民族被想象为有限的，因其拥有清晰却具弹性的领土疆界；被想象为主权的，因其在启蒙运动消解神权秩序与世袭王朝合法性后成为自由与自决的最高象征；被构想为横向同志情谊，因其以平等的兄弟纽带跨越现实不平等，赋予有限想象以深沉的牺牲动力。该命题由 Anderson (1983/2016, Ch. 1) 奠定。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]
+> 民族属性在本质上更接近亲属关系与宗教信仰等文化范畴，回应生老病死与终极归属等存在论问题，不同于自洽的政治意识形态。一切超越面对面接触村落的大规模人类群体，皆依赖特定媒介被想象出来；不同共同体的根本分野取决于各自被想象的具体风格，超越真实与虚假的二元划分。民族被想象为有限的，因其拥有清晰却具弹性的领土疆界；被想象为主权的，因其在启蒙运动消解神权秩序与世袭王朝合法性后成为自由与自决的最高象征；被构想为横向同志情谊，因其以平等的兄弟纽带跨越现实不平等，赋予有限想象以深沉的牺牲动力。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 爪哇村民依据亲属与等级庇护网络展开超个人想象，法国旧制度贵族依附宗族血统确认身份；现代民族则借助印刷媒介与主权地图，将互不相识的数千万同胞想象为拥有共同边界与平权身份的政治共同体。
 
 > [!theory-proposition] 命题二｜印刷资本主义与国家统一教育机器共同提供了民族想象的物质与制度基础
 > 民族属于现代历史条件的建构产物，有别于关于其自古存在的生物血缘预设：印刷资本主义通过以大众通俗语言印刷报刊与书籍，打破了拉丁语等神圣语言的垄断，创造了数百万读者同时消费相同信息的共时性空间；随后现代民族国家建立统一公立学校系统，通过官方历史叙事将这种共享想象制度化为大众的常识认同。该命题由 Anderson (1983) 提出并由 Gellner (1983) 补充。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 现代大众每天早晨阅读相同的全国性日报或收看国家广播，在同一时刻感知到数千万同胞正在进行相同行为，由此在心理层面确认了共同体的客观同在。
 
 > [!theory-proposition] 命题三｜历史教科书作为制造[[Official Knowledge|官方知识]]与国家认同的政治装置塑造了差异化的民族想象
-> 历史教科书承载着国家依据现实政治需求选择性重构神话、传统与记忆的政治装置功能，带有鲜明的意识形态导向。在复杂的政治体制与历史遗产下，同一国家的不同区域教科书会构建出截然不同的民族想象模式。该命题由 [[Argument_Xu_2024_CE|Xu (2024)]] 实证确立。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 573–580)]]
+> 历史教科书承载着国家依据现实政治需求选择性重构神话、传统与记忆的政治装置功能，带有鲜明的意识形态导向。在复杂的政治体制与历史遗产下，同一国家的不同区域教科书会构建出截然不同的民族想象模式。[[Argument_Xu_2024_CE|(Xu, 2024, pp. 573–580)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在[[One Country, Two Systems|一国两制]]体制下，中国大陆初中历史教科书通过“构成性领土 + 表达性族群包容”建构涵盖五十六个民族的领土型共同体；而香港教科书则通过“构成性族群 + 表达性领土演变”建构以华夏汉族为核心的文化族群想象。
 
 > [!theory-proposition] 命题四｜语言与共享叙事构筑的想象链接是克服[[Dunbar's Number|邓巴数]]约束、维系超大规模人类技术协作的必要前提
-> 人类大脑新皮质容量决定了稳定面对面社交关系的上限约为 150 人（[[Dunbar's Number|邓巴数]]）。超出该规模的大规模协作无法依赖物理接触与日常梳毛维系，必须依托语言与共享神话构建跨越时空的“想象链接”（Imagined Linkages）。正是这种超越个人私利的集体认同，使现代社会能够组织跨区域、跨代际的顶尖人才从事深层科学探索、城市建设与国家防卫工程。放弃这一纽带，现代医学、城市网络与前沿人工智能攻坚都将无从谈起。该命题由 Karp & Zamiska (2025, Ch. 17) 确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
+> 人类大脑新皮质容量决定了稳定面对面社交关系的上限约为 150 人（[[Dunbar's Number|邓巴数]]）。超出该规模的大规模协作无法依赖物理接触与日常梳毛维系，必须依托语言与共享神话构建跨越时空的“想象链接”（Imagined Linkages）。正是这种超越个人私利的集体认同，使现代社会能够组织跨区域、跨代际的顶尖人才从事深层科学探索、城市建设与国家防卫工程。放弃这一纽带，现代医学、城市网络与前沿人工智能攻坚都将无从谈起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 新加坡在独立之初面临 12 种方言与多族裔割裂，[[Lee Kuan Yew|李光耀]]政府依据《[[Goh Report|吴庆瑞报告]]》推行[[Speak Mandarin Campaign|讲华语运动]]与[[Bilingual Education Policy|双语政策]]，以共享语言与国家叙事整合多元族群，最终创造了高科技产业与跨越式经济繁荣。
 
 > [!theory-proposition] 命题五｜放弃巡守“情感民族”边界导致认同真空与商业技术公社的替代性崛起
-> 后现代与西方左翼学者（如 Sennett, 1994; Nussbaum, 1994）因恐惧排他性而拒绝巡守安德森所谓的“情感民族”（Emotional Nation）边界，试图走向去国家化的[[Cosmopolitanism|世界主义]]。然而卡普与扎米斯卡指出，人类寻找超越个体的归属是生物学与心理学刚需；当国家放弃提供崇高意义与公共神话时，空缺立刻被商品消费文化、财富种姓与体育部落（图13）填补。硅谷科技巨头抓住这一真空，将园区打造成自足的“现代艺术公社”或“技术城邦”，以全员股权和封闭福利提供替代性的集体体验。维系国家共同体必须重振勒南的[[Everyday Plebiscite|每日公民投票]]与国家公共叙事。该命题由 Karp & Zamiska (2025, Ch. 17 & Ch. 18) 提出。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
+> 后现代与西方左翼学者（如 Sennett, 1994; Nussbaum, 1994）因恐惧排他性而拒绝巡守安德森所谓的“情感民族”（Emotional Nation）边界，试图走向去国家化的[[Cosmopolitanism|世界主义]]。然而卡普与扎米斯卡指出，人类寻找超越个体的归属是生物学与心理学刚需；当国家放弃提供崇高意义与公共神话时，空缺立刻被商品消费文化、财富种姓与体育部落（图13）填补。硅谷科技巨头抓住这一真空，将园区打造成自足的“现代艺术公社”或“技术城邦”，以全员股权和封闭福利提供替代性的集体体验。维系国家共同体必须重振勒南的[[Everyday Plebiscite|每日公民投票]]与国家公共叙事。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 硅谷[[Innovation Park|科技园区]]为工程师提供从餐饮、住宿到娱乐的全方位供给，员工在此获得强烈的使命归属与股权回报，成为独立于国家[[Grand Theory|宏大叙事]]之外的高科技自治城邦。
 
 ---
@@ -187,6 +187,6 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 《想象的共同体》导论提出民族是有限且享有主权的想象政治共同体，属于具有移植弹性的模块化文化人造物。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 《想象的共同体》导论提出民族是有限且享有主权的想象政治共同体，属于具有移植弹性的[[Modular Nationalism|模块化文化人造物]]。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

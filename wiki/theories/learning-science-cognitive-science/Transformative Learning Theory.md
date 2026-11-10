@@ -9,7 +9,7 @@ aliases:
 summary: "成人教育与学习科学中关于个体如何通过关键反思审视并重构既有心理假设、信念图式与参照框架，从而实现根本性视角转换的理论体系。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Jean Piaget]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Murphy_2026_JTS]]"
@@ -73,7 +74,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 杰克·梅兹罗（Jack Mezirow）于 1978 年针对重返[[Grandes Ecoles|大学校]]园的成年女性开展实证[[Qualitative Research|质性研究]]后提出雏形，并在 1991 年专著 *Transformative Dimensions of Adult Learning* 中完成系统化理论建构。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
+> - **提出者与原始文本** 杰克·梅兹罗（Jack Mezirow）于 1978 年针对重返[[Grandes Ecoles|大学校]]园的成年女性开展实证[[Qualitative Research|质性研究]]后提出雏形，并在 1991 年专著 *Transformative [[Dimensions]] of Adult Learning* 中完成系统化理论建构。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 > - **原初问题** 成人学习者在面临生活危机、职业转型或社会角色变迁时，如何打破早期社会化形成的固化偏见与刻板信念，获得自主理性判断与批判性反思能力。
 > - **理论资源与材料** 汲取[[Jürgen Habermas|哈贝马斯]]关于“工具性学习”（控制环境）与“交往性学习”（理解他人与规范意义）的二元区分，融合[[Paulo Freire|弗莱雷]]对解放性学习（Emancipatory Learning）的哲学洞见，并以 83 名重返高等教育项目的女性成人学生纵向[[Qualitative Interview|质性访谈]]作为经验材料。
 > - **形成路径** 从成年女性打破传统家庭性别分工参照框架的经验中，归纳出以“引发困惑的两难处境（Disorienting Dilemma）”为起点、经由批判性反思假设、最终实现行动整合的经典十阶段转化路径。
@@ -100,13 +101,13 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜参照框架的质性转变始于对潜隐假设的批判性反思
 > Mezirow (1991) 指出，个体的大多数日常学习属于在既有参照框架内部对知识与技能的增量同化；唯有当学习者面临既有图式彻底失效的重大现实困境时，才会激发对潜隐假设（Assumptions）的根本怀疑与理性批判。批判性自省是打破习惯心智盲区、促成框架由封闭狭隘向开放多元转化的必要充分动力。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高校教师专业发展中，传统理工科学者往往将科研视为纯粹封闭在实验室内部的客观技术探寻；面对《[[CHIPS and Science Act|芯片与科学法案]]》等国家重大产业战略，通过设立跨学科研讨，促使学者直面国家战略需求与自身狭隘技术研究之间的张力，认识到以往科研假设的局限性，进而由单科技术视角转向宏观产业生态视角。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
 
 > [!theory-proposition] 命题二｜转化学习推动学者突破纯技术思维并形成宏观政策与国家治理全局视野
 > 转化学习绝非抽象玄想，而是具身体现在学习者社会身份与实践参照系的重构上。在应对复杂科技革命与产业政策时，通过多轮次跨界对话，专业技术人员能够产生认知视阈的质性跃迁，将技术研发放置于国家安全、产业生态与高阶工程劳动力培育的复合系统中进行定位。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 6–7)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 在得克萨斯农工大学半导体学者工作坊中追踪发现，经过多期结构化研讨后，参会工程学者自发反馈“这是一次非常有趣的体验——让我看到了科学与工程事业背后的政治与政策维度”，这种新视角的获得直接驱动其科研自信心与应对国家重大项目申报就绪度由 50% 跃升至 80%。
 
 ---

@@ -8,10 +8,10 @@ aliases:
 summary: "社会整体与科学共同体围绕知识生产的公共价值形成的权利与责任结构性配置框架，核心涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构五个分析维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 46
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/science-policy
   - theme/research-governance
@@ -23,22 +23,24 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Research Security]]"
   - "[[Paradigm]]"
+  - "[[Mission-Oriented Research]]"
+  - "[[Little Science]]"
+  - "[[Geopolitics]]"
   - "[[Big Science]]"
   - "[[Competitiveness]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Public-Private Partnership]]"
   - "[[Grand Challenges]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Basic-Applied Research Dichotomy]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Heterogeneity]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Research Universities]]"
   - "[[Research Question]]"
   - "[[Document]]"
-  - "[[Basic-Applied Research Dichotomy]]"
-  - "[[Mission-Oriented Research]]"
-  - "[[Academic Freedom]]"
-  - "[[Geopolitics]]"
+  - "[[Variable]]"
+  - "[[Original Innovation Capability]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods:
@@ -47,25 +49,27 @@ related_methods:
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[David Guston]]"
+  - "[[Harry S. Truman]]"
   - "[[Sheila Slaughter]]"
-  - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[Science, The Endless Frontier 1945]]"
-  - "[[President's Science Advisory Committee]]"
-  - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[Department of Defense]]"
+  - "[[Atomic Energy Commission]]"
+  - "[[ASEAN Economic Community]]"
   - "[[National Science Foundation]]"
-  - "[[Office of Naval Research]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[National Defense Education Act of 1958]]"
+  - "[[President's Science Advisory Committee]]"
+  - "[[Seaborg Report 1960]]"
+  - "[[Committee on Science and Public Policy]]"
+  - "[[Basic Research and National Goals 1965]]"
+  - "[[National Institutes of Health]]"
+  - "[[National Aeronautics and Space Administration]]"
+  - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[NSF Broader Impacts Criterion]]"
   - "[[Genesis Mission]]"
   - "[[Office of Science and Technology Policy]]"
-  - "[[Sputnik Shock 1957]]"
-  - "[[National Defense Education Act of 1958]]"
-  - "[[Seaborg Report 1960]]"
-  - "[[Committee on Science and Public Policy]]"
-  - "[[Department of Defense]]"
-  - "[[National Institutes of Health]]"
-  - "[[National Aeronautics and Space Administration]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Yang_2017_MUE]]"
@@ -81,7 +85,7 @@ updated: 2026-11-11
 > - **解释对象** 社会整体（通常由政府或公共权威代表）与科学共同体围绕[[Knowledge Production|知识生产]]的[[Public Value|公共价值]]形成的权利与责任结构性关系，及其在不同政治、经济与安全情境下的制度演变。
 > - **理论问题** 解释为何国家应当对不可预测的基础研究提供持续公共资助，科学共同体何以在享有高度专业自治的同时向国家回报公共福祉，以及当国家安全危机、经济竞争或政治极化冲击既有平衡时，政府与科学的关系如何调整、失衡与重构。
 > - **理论类型** 制度主义与科技政策交叉的宏观结构[[Analytic Framework|分析框架]]。
-> - **知识位置** 处于科学社会学、科技政策学与政治学[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接国家治理与政治哲学中的社会契约传统，向下对接科研经费分配、同行评审、[[Academic Freedom|学术自治]]与[[Research Security|科研安全]]等制度实践。
+> - **知识位置** 处于科学社会学、科技政策学与政治学[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接国家治理与政治哲学中的社会契约传统，向下对接科研经费分配、同行评审、学术自治与[[Research Security|科研安全]]等制度实践。
 
 > [!claim] 核心判断
 > 科学的社会契约是一种具有历史延续性的制度性关系结构，核心体现为制度和资源支持、自治空间与功能期待之间的制度配置。在不同历史阶段，契约的合法性基础、自治空间、功能期待与责任结构会随国家战略需求发生深刻重构。二战后以科学为中心的认知契约，在经历冷战鼎盛期与后冷战调整后，正逐步转向以国家竞争、任务牵引与技术能力获取为主导的技术型契约形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056–1057)]]; [[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–40)]]
@@ -95,8 +99,8 @@ updated: 2026-11-11
 > - **形成路径** 从战时政府授权、科学自治与目标责任的合作机制提炼出三方互惠原型，进而在冷战国家安全叙事中固化为政府资助、学术自治与长期公共回报的标准契约[[Paradigm|范式]]。
 
 > [!dev-timeline] 科学社会契约的历史演变
-> - **1945—1957 年 — 战后军工任务契约期** 二战后杜鲁门政府将遏制战略置于首位，[[Department of Defense|国防部]]（Department of Defense, DOD）与原子能委员会（Atomic Energy Commission, AEC）通过定向科研合同垄断全美 76% 的大学科研经费；[[Office of Scientific Research and Development|OSRD]] 撤销后，[[Vannevar Bush|布什]]倡导的免于政治干预的纯基础研究设想受挫，[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）早期预算申请屡遭国会削减，大学科研深陷[[Mission-Oriented Research|任务导向型研究]]与计划性控制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
-> - **1957—1968 年 — 危机驱动与黄金鼎盛期** [[Sputnik Shock 1957|苏联卫星危机]]粉碎了技术自满，国家安全升格为大规模资助基础科学的最高合法性；1958 年《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act of 1958, NDEA）将高教与基础研究确立为国家战略防线；学术界依托[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）发布[[Seaborg Report 1960|西博格报告]]确立科教一体信条，并依托国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）在《基础研究与国家目标》中划定[[Big Science|小科学]]每年 15% 的增长基准，推动资助重心转向 [[National Science Foundation|NSF]]、[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）与 [[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）的同行评议自由研究，缔造了科学社会契约的黄金时代。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–40)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
+> - **1945—1957 年 — 战后军工任务契约期** 二战后[[Harry S. Truman|杜鲁门]]政府将遏制战略置于首位，国防部（[[Department of Defense]], DOD）与原子能委员会（[[Atomic Energy Commission]], [[ASEAN Economic Community|AEC]]）通过定向科研合同垄断全美 76% 的大学科研经费；[[Office of Scientific Research and Development|OSRD]] 撤销后，布什倡导的免于政治干预的纯基础研究设想受挫，[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）早期预算申请屡遭国会削减，大学科研深陷[[Mission-Oriented Research|任务导向型研究]]与计划性控制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+> - **1957—1968 年 — 危机驱动与黄金鼎盛期** [[Sputnik Shock 1957|苏联卫星危机]]粉碎了技术自满，国家安全升格为大规模资助基础科学的最高合法性；1958 年《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act of 1958, NDEA）将高教与基础研究确立为国家战略防线；学术界依托[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）发布[[Seaborg Report 1960|西博格报告]]确立科教一体信条，并依托国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）在《[[Basic Research and National Goals 1965|基础研究与国家目标]]》中划定[[Little Science|小科学]]每年 15% 的增长基准，推动资助重心转向 [[National Science Foundation|NSF]]、[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）与 [[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）的同行评议自由研究，缔造了科学社会契约的黄金时代。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–40)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
 > - **1968—1989 年 — 越战收缩与冷战末期平稳调整** 越战财政压力与经济下行迫使联邦政府在 1968 年首次削减科研资助，暴露了基础研究契约对[[Geopolitics|地缘政治]]议程的高度依附性；此后冷战对抗格局维系了多元资助网络与[[Big Science|大科学]]体系的平稳运行。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 40)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
 > - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了国家安全作为首要合法性来源的主导地位，合法性转向经济[[Competitiveness|竞争力]]、社会相关性与治理问责；通过引入[[Use-Inspired Basic Research|应用启发的基础研究]]理念（[[Pasteur's Quadrant|巴斯德象限]]）、[[Public-Private Partnership|公私伙伴关系]]与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010—2024 年 — 契约危机与重构期** 绩效问责强化、[[Grand Challenges|重大挑战]]导向与[[Research Security|科研安全]]审查刚性化，叠加政治极化与大国技术竞争；科学失去默认信任地位，正当性全面条件化，契约承载的多重功能负载显著上升。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
@@ -122,25 +126,25 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜契约稳定依赖于压倒性国家安全前提与高自治高嵌入对称结构
 > 当外部存在压倒一切的国家生存危机或体系性地缘对抗时，基础研究的长期潜能能够被直接折算为国家战略储备，从而赋予科学共同体极高的专业自治权与不设限的资源支持。科学精英深度嵌入最高安全决策，微观研究路径则免受官僚干涉，形成稳定的互惠平衡。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 1957 年[[Sputnik Shock 1957|苏联卫星危机]]爆发后，学术界咨询精英通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）直通白宫，在[[Seaborg Report 1960|西博格报告]]中确立基础探索与高层次研究生培养同构的科教一体信条；同时依托国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）直通国会，设定每年 15% 的小科学预算增长基准，推动联邦资助重心由国防军事合同转向[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）与[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）的同行评议资助，形成 1957—1967 年的基础研究黄金期。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–40)]]
 
 > [!theory-proposition] 命题二｜合法性拼合与多重功能过载促使科学正当性由自明滑向条件化
 > 当压倒一切的国家安全正当性分化后，国家开始将经济[[Competitiveness|竞争力]]、社会公平、环境保护与行政问责等多种[[Heterogeneity|异质性]]目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为由外部可测绩效换取的条件化正当性，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 2010 年美国出台《政府绩效与成果法案现代化法案》（Government Performance and Results Act Modernization Act, GPRAMA）并将 NSF 更广泛的影响（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审指标硬化为刚性门槛，使科研项目必须就解决重大社会挑战提供刚性证明，传统由好奇心驱动的基础探索丧失了无条件免检地位。
 
 > [!theory-proposition] 命题三｜国家在危机与激烈竞争情境下倾向于发展以能力获取为中心的技术型替代契约
 > 当地缘技术对抗急剧升温且关键新兴技术的突破主要发生于私营部门与产业生态时，国家倾向于弱化对传统学术体系漫长积累周期的依赖。政府通过行政统筹、跨部门动员、政府采购与强化安全审计，建立以技术能力快速掌控为核心的新型契约，科学由国家的认知中心降级为能力体系中的从属要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 2025 年特朗普政府启动[[Genesis Mission|创世纪计划]]（The Genesis Mission）并颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）与量子技术的工程化落地。
 
 > [!theory-proposition] 命题四｜科学无止境边疆的制度基石动摇促发全球科研组织分化为三轨结构
 > [[Science, The Endless Frontier 1945|布什报告]]确立的科学无止境边疆是一整套具有高度约束力的制度性承诺，超越了单纯描绘知识无限性的自然隐喻。当国家撤销对长周期探索价值的默认信任、收紧时间容忍度并施加即时效用与合规审查时，无止境边疆退化为待正当化命题，促使科研组织载体分化为任务导向型（与国家安全深度绑定）、应用启发型（公私研发网络主流）与自由探索型（退缩为小众或私人慈善资助的边缘形态）三条并行轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 2025 年后美国联邦研发资源全面向国防关键技术与重大工程计划倾斜，传统[[Research Universities|研究型大学]]中仅有少数从事战略应用的研究团队能稳定获得大额资助，纯粹好奇心驱动的纯理论探索在联邦资助收缩下被迫转向校友捐赠与私人基金会托底。
 
 ---
@@ -173,7 +177,7 @@ updated: 2026-11-11
 > - **适合分析** 适合分析国家政治行政中枢与科学共同体在宏观层面的制度化权利义务互动、科研经费分配范式演变、国家科技立法与重大科研战略转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1064)]]; [[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–40)]]
 > - **成立条件** 依托国家政策法规、总统行政令、联邦研发预算明细、国家科研基金评审准则及科学顾问委员会历史档案等公开文献体系。
 > - **解释不足** 理论高度聚焦宏观政学博弈与契约架构，对大学内部不同院系、各学科门类（如高能物理与基础生物医学）在微观层面的异质性适应策略关注不足；同时缺乏对中央集权制或后发追赶型国家科技体制的直接解释力。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1064)]]
-> - **转化困难** 契约中的自治空间与信任度属于软性制度变量，在缺少量化审计指标时较难进行跨时期与跨国别的精确比较测度。
+> - **转化困难** 契约中的自治空间与信任度属于软性制度[[Variable|变量]]，在缺少量化审计指标时较难进行跨时期与跨国别的精确比较测度。
 > - **不能直接推出** 无法直接推导微观科研团队的具体产出绩效，亦不能将宏观契约形式的变迁直接等同于微观科研成果质量的绝对升降。
 
 ---
@@ -190,7 +194,7 @@ updated: 2026-11-11
 > > 争论国家科技治理能否长期脱离自由探索型基础科学与专业自治，完全依靠国家实验室与私营科技企业维系国家竞争力。
 > >
 > > - **能力驱动工程论** 强调在新兴战略技术领域，私营企业与国家实验室具备更快速的技术迭代、工程部署与安全保密优势，能够直接组织战略技术能力。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
-> > - **认知基础不可替代论** 强调基础研究是原始创新的源头活水，科学共同体的同行评议自治是底层认知纠错的基石；切断基础探索将导致技术能力陷入无源之水。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
+> > - **认知基础不可替代论** 强调基础研究是[[Original Innovation Capability|原始创新]]的源头活水，科学共同体的同行评议自治是底层认知纠错的基石；切断基础探索将导致技术能力陷入无源之水。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
 
 > [!critique] 外部批评与修正
 > - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 指出战后自由基础研究的契约繁荣本质上依附于冷战大国科技竞争议程，缺乏超脱政治干预的法治化保障；越战导致财政紧缩后联邦资助立即发生削减，暴露出契约的政治脆弱性。

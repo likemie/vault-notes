@@ -9,7 +9,7 @@ aliases:
 summary: "解释学术引文网络中优先连接机制微观物理起源的动力学生成理论。该理论指出，学者撰写论著时无需掌握全网排行榜，仅通过顺藤摸瓜引述既有文献的参考文献列表，此种局部复制行为在全网聚合后，宏观上自发涌现严格等价的线性优先连接。辛金与罗乔杜里通过追踪文献排版错误传播规律，证实约 78% 的引文源自未查阅原始文献的连环复制（Simkin & Roychowdhury, 2003, 2005; Wang & Barabási, 2021）。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 14
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,22 +19,24 @@ tags:
   - theme/preferential-attachment
   - theme/citation-networks
 related_concepts:
-  - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
-  - "[[Literature Search]]"
-  - "[[Emergence]]"
   - "[[Document]]"
+  - "[[Emergence]]"
+  - "[[Initial Attractiveness]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Literature Search]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Research Question]]"
 related_theories:
+  - "[[Bounded Rationality]]"
   - "[[Price Cumulative Advantage Model]]"
   - "[[Preferential Attachment in Academia]]"
-  - "[[WSB Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Derek de Solla Price]]"
   - "[[Albert-László Barabási]]"
+  - "[[Derek de Solla Price]]"
+  - "[[John P. Perdew]]"
   - "[[Dashun Wang]]"
 related_facts: []
 related_arguments:
@@ -48,13 +50,13 @@ updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 复杂引文网络中优先连接机制（马太效应）的微观行为物理起源，以及学者个体在信息不对称与有限理性下如何通过局部阅读自发催生宏观无标度拓扑。
-> - **理论问题** 经典的[[Price Cumulative Advantage Model|普赖斯累积优势模型]]与巴拉巴西-阿尔伯特模型均假定学者在选择参考文献时以正比于被引量的概率选择论著（$\Pi \propto c$），然而在心理学与行为现实中，学者不可能实时掌握全网数千万篇文献的被引排行榜。该理论回应了“去中心化学者如何仅凭局部信息自发产生全局优先连接”的理论之谜。
+> - **解释对象** 复杂引文网络中优先连接机制（马太效应）的微观行为物理起源，以及学者个体在信息不对称与[[Bounded Rationality|有限理性]]下如何通过局部阅读自发催生宏观无标度拓扑。
+> - **理论问题** 经典的[[Price Cumulative Advantage Model|普赖斯累积优势模型]]与[[Albert-László Barabási|巴拉巴西]]-阿尔伯特模型均假定学者在选择参考[[Document|文献]]时以正比于被引量的概率选择论著（$\Pi \propto c$），然而在心理学与行为现实中，学者不可能实时掌握全网数千万篇文献的被引排行榜。该理论回应了“去中心化学者如何仅凭局部信息自发产生全局优先连接”的理论之谜。
 > - **理论类型** 微观行为动力学生成理论与局部网络搜索演化模型。
 > - **知识位置** 处于统计物理学、复杂网络科学、行为科学与[[Bibliometric Analysis|科学计量学]]的前沿交叉点。
 
 > [!claim] 核心判断
-> 优先连接机制无需假定学者具备全局文献计量榜单认知；学者在阅读既有文献时以一定概率顺藤摸瓜引述其参考文献列表中的条目（引文复制），必然导致被引频次越高的文献以更高的概率被再次复制引用，从而在宏观上自发涌现严格的线性优先连接与重尾幂律分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 259–261)]]
+> 优先连接机制无需假定学者具备全局文献计量榜单认知；学者在阅读既有文献时以一定概率顺藤摸瓜引述其参考文献列表中的条目（引文复制），必然导致被引频次越高的文献以更高的概率被再次复制引用，从而在宏观上自发[[Emergence|涌现]]严格的线性优先连接与重尾幂律分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 259–261)]]
 
 > [!formula] 引文复制动力学与宏观优先连接等价方程
 > 设学者在撰写新文献时包含两种引用模式：
@@ -69,20 +71,20 @@ updated: 2026-11-11
 > 
 > $$\Pi_i = (1 - p) \frac{1}{N} + p \frac{c_i}{\sum_j c_j} \propto c_i + c_0$$
 > 
-> 该方程在数学上严格证明：无需学者掌握全局网络信息，依靠局部的顺藤摸瓜即可自发涌现带有初始吸引力常数 $c_0$ 的普赖斯线性累积优势机制。
+> 该方程在数学上严格证明：无需学者掌握全局网络信息，依靠局部的顺藤摸瓜即可自发涌现带有[[Initial Attractiveness|初始吸引力]]常数 $c_0$ 的[[Derek de Solla Price|普赖斯]]线性累积优势机制。
 
 ---
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 计算机科学家琼·克莱因伯格（Jon Kleinberg）与拉维·库马尔（Ravi Kumar）等在 2000 年率先提出有向图复制模型（Copying Model）；理论物理学家米哈伊尔·辛金（Mikhail V. Simkin）与瓦尼·罗乔杜里（Vwani P. Roychowdhury）于 2003 年在《复杂系统》（*Complex Systems*）发表奠基之作《阅读与引用》（*Read before you cite!*），并在 2005 年通过引文排版错误在《科学计量学》（*Scientometrics*）上形式化确立引文复制模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 260–261)]]
-> - **原初问题** 优先连接理论被批评缺乏行为认知合理性，因为没有学者会根据被引排行榜来选择参考文献；网络科学亟需揭示富者愈富现象底层的微观认知机制。
-> - **关键经验材料（佩尔杜印刷错误连环传播）** 理论物理学家约翰·佩尔杜（John P. Perdew）1992 年发表于《物理评论B》的经典成果斩获 20,000 余次引用。辛金与罗乔杜里发现该成果在早期流传中产生了一处四位数页码排版错误（一位数字印刷错误）。由于多位独立学者独立发生同一排版错误的概率微乎其微（小于 $10^{-4}$），该印刷错误在后续数十篇引文列表中的高频重复出现，为引文直接连环复制提供了无从辩驳的物理铁证。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 261)]]
+> - **原初问题** [[Preferential Attachment in Academia|优先连接理论]]被批评缺乏行为认知合理性，因为没有学者会根据被引排行榜来选择参考文献；网络科学亟需揭示富者愈富现象底层的微观认知机制。
+> - **关键经验材料（[[John P. Perdew|佩尔杜]]印刷错误连环传播）** 理论物理学家约翰·佩尔杜（John P. Perdew）1992 年发表于《物理评论B》的经典成果斩获 20,000 余次引用。辛金与罗乔杜里发现该成果在早期流传中产生了一处四位数页码排版错误（一位数字印刷错误）。由于多位独立学者独立发生同一排版错误的概率微乎其微（小于 $10^{-4}$），该印刷错误在后续数十篇引文列表中的高频重复出现，为引文直接连环复制提供了无从辩驳的物理铁证。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 261)]]
 
 > [!dev-timeline] 理论版本与贡献
 > - **2000 — 网络复制图模型提出** 库马尔与克莱因伯格等在万维网网页链接演化中形式化建立二项复制随机图算法。
 > - **2003 — 引文未读复制假说** 辛金与罗乔杜里在学术引文网络中提出“不读即引”的引文复制假说与数学推导。
-> - **2005 — 印刷错误定量测定 78% 复制率** 辛金与罗乔杜里系统统计学术引文错误谱系，测定学术界高达 78% 的引文源于未查阅原始文献的连环复制。
-> - **2021 — 科学学微观物理基础整合** 王大顺与巴拉巴西在《科学学》专著附录 A2.2 中将复制模型正式确立为优先连接的物理行为起源。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 259–261)]]
+> - **2005 — 印刷错误定量测定 78% 复制率** 辛金与罗乔杜里系统统计学术引文错误谱系，测定学术界高达 78% 的引文源于未查阅[[Primary and Secondary Documents|原始文献]]的连环复制。
+> - **2021 — 科学学微观物理基础整合** [[Dashun Wang|王大顺]]与巴拉巴西在《科学学》专著附录 A2.2 中将复制模型正式确立为优先连接的物理行为起源。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 259–261)]]
 
 ---
 
@@ -98,15 +100,15 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜顺藤摸瓜的文献复制行为是宏观优先连接自发涌现的微观物理起源
-> 学者在撰写成果时面临巨大的文献超载压力，翻阅已读文献的参考文献并顺藤摸瓜挑选题目录入新成果是最经济的文献检索路径。这种行为使得高被引成果在全网参考文献列表中的曝光频次呈正比扩大，即便学者仅凭个人局部阅读随机挑一条参考文献引用，抽中高被引文献的几率也严格正比于该文献已有引用量。因此，微观上的分散复制行为无需全局信息即可在宏观上自发涌现出马太效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 259–261)]]
+> 学者在撰写成果时面临巨大的文献超载压力，翻阅已读文献的参考文献并顺藤摸瓜挑选题目录入新成果是最经济的[[Literature Search|文献检索]]路径。这种行为使得高被引成果在全网参考文献列表中的曝光频次呈正比扩大，即便学者仅凭个人局部阅读随机挑一条参考文献引用，抽中高被引文献的几率也严格正比于该文献已有引用量。因此，微观上的分散复制行为无需全局信息即可在宏观上自发涌现出马太效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 259–261)]]
 
-> [!example] 应用实例
-> 在新兴交叉学科初建期，学者通过少数开创性综述的参考文献列表快速掌握领域全貌并直接引述其中的核心条目，促使这些早期被引条目在短时间内迅速成长为不可撼动的超级中枢节点。
+> [!example|notitle]
+> 在新兴[[Comparative Education as a Cross-Sectional Area|交叉学科]]初建期，学者通过少数开创性综述的参考文献列表快速掌握领域全貌并直接引述其中的核心条目，促使这些早期被引条目在短时间内迅速成长为不可撼动的超级中枢节点。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 解释引文网络度分布重尾的微观生成机制、量化同行引述行为中的信息级联与学术疏失。
+> - **[[Research Question|研究问题]]** 解释引文网络度分布重尾的微观生成机制、量化同行引述行为中的信息级联与学术疏失。
 > - **分析对象与单位** 学术成果参考文献中的排版错漏、引文变体谱系以及学者阅读与引用行为序列。
 > - **需要的材料** 含有拼写错误、页码印刷错漏或非标准缩写的大规模引文网络全文数据。
 > - **解释目标** 测算学术界真实的文献阅读核实率，揭示注意力集聚的无意识行为驱动力。

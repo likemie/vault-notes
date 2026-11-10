@@ -9,10 +9,10 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指支配群体通过法律、教育、媒体、科学、大学及智能算法等文化制度，正当化其统治并赢得被统治者积极同意的治理机制。在教育中，学校课程、全球大学排名与平台技术嵌入充当了制造文化共识与自然化中心—边缘等级的霸权装置。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 49
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 domain: "political-economy-geopolitics"
 related_count: 32
 related_level: 3
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Value Neutrality]]"
   - "[[Research Question]]"
+  - "[[Study Abroad]]"
   - "[[Competitiveness]]"
   - "[[Operationalization]]"
   - "[[Hard Power]]"
@@ -134,38 +135,38 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜权力通过文化制度与教育装置制造积极同意而非纯粹依赖暴力强制
 > 葛兰西深刻指出，任何成熟的现代统治都不可能单凭军队、警察和法庭等暴力机器长期维系。稳定的统治必定是强制与霸权的有机结合，其中霸权通过学校教育、法律法理、大众媒体、科学共同体与大学体系，将统治阶级的特殊利益升华为“普遍理性”与“理所当然的常识”，使被统治阶层在无反思的认同中产生积极同意。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 13–14)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高等教育全球化中，英美顶尖大学从未依靠军事命令迫使全球高校服从，而是通过创设学术出版评价体系、英语主导地位及[[Global Universities Rankings\|全球大学排名]]规则，让非西方高校“自发、积极”地以英美指标自我规训并竞相争夺排名位次。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 14–16)]]
 
 > [!theory-proposition] 命题二｜文化部门具备半自主性且霸权始终面临不完整同意与反霸权抵抗
 > 霸权绝非机械的单向洗脑或全盘极权控制。文化部门（教育、学术、艺术）必须对政治与经济系统保持适度的“半自主性（[[Semi-Autonomy of Higher Education\|semi-autonomy]]）”；唯有当大学和学者展现出探求真理的专业自主假象时，其制造的共识才具备社会可[[Reliability\|信度]]。然而，正因为半自主性的存在，文化[[Champ\|场域]]永远无法实现百分之百的意识形态铁板一块，被支配者立足于边缘文化资源与日常经验，始终展开着反霸权抵抗与“不完整的同意（Incomplete Consent）”。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 13–14)]]; [[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–70)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 对中国 37 名少数民族大学生的[[In-depth Interview\|深度访谈]]表明，尽管学生在义务教育中全面接受了以汉儒为核心的官方教科书教育，但有高达 86% 的学生在大学阶段明确拒斥“儒家等于中华文化”的霸权等式，展现出立足于本土民族文化对主流教科书[[Discourse|话语]]的反霸权解构。
 
 > [!theory-proposition] 命题三｜霸权通过语法修辞与空间叙事自然化中心—边缘的[[Cultural Hierarchy\|文化等级]]
 > 霸权话语不仅仅是在内容层面灌输意识形态，更通过隐蔽的语法结构、师生隐喻与时空定位，将不平等的权力关系转化为具有道德善意的文明教化叙事，使处于边缘位置的主体在情感与认知上接受自身的次生地位。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 67–68)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 针对 217 册国家统编必修教材的批判性[[Discourse Analysis\|话语分析]]显示，教材在叙述少数民族历史时，统一采用“少数民族主动‘学习’汉族制度与儒家礼仪”的修辞模板。动词“学习”在语法上将汉文化构筑为施教的“中心教师”，而将非汉族群置于被动求教的“边缘学生”角色，通过教化善意将空间文化等级合法化。
 
 > [!theory-proposition] 命题四｜生成式算法与平台嵌入隐蔽再生产主导阶层文化霸权并侵害认识正义
 > [[Generative Artificial Intelligence|生成式人工智能]]并非[[Value Neutrality|价值中立]]的知识容器，其海量训练语料深度固化了强势文化、主导母语与全球学术精英的知识[[Paradigm|范式]]。当高校与技术供应商将商业化模型深度嵌入教学管理系统并将其设立为必经通道时，制度化依赖迫使多元文化背景的学生屈从于算法的标准模板。这种结构性依赖压制了边缘学生的本土修辞与非主流知识范式，构成了深刻的[[Epistemic Injustice|认识不正义]]与新型文化霸权再生产。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–8)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 某大学在毕业论文提交流程中强制嵌入商业 AI 润色检测，设定学术英语标准模板符合度阈值。结果导致使用地方性案例分析、采用非实证后现代修辞或来自非英语母语背景的学生频繁受阻，被迫将原本独特的质性质朴表达修改为迎合英美主流期刊格式的标准套话。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–7)]]
 
 > [!theory-proposition] 命题五｜跨国[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]通过去政治化话语建构霸权并排斥替代性愿景
 > 在全球治理场域中，跨国政策行动者（如[[OECD|经合组织]]）往往将经济全球化叙事本体化为不可逆转的客观自然法则，进而围绕[[Knowledge-Based Economy|知识经济]]建构起一套具有高度排他性的霸权性[[Social Imaginary|社会想象]]。这种话语霸权通过垄断官方政策词汇、制造对国家经济掉队与失业的群体性焦虑，将教育的本质目的强制收拢为满足全球市场竞争与[[Human Capital Theory|人力资本]]增值的工具，从而在无形中剥夺了公众和决策者构想公平、生态可持续与民主培育等替代性教育发展路径的能力（Schirato & Webb, 2003; Kenway et al., 2006）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 经合组织通过其全球教育政策报告与知识经济话语扩散，促使各成员国将教育体系全面改组为面向全球劳动力市场的实用操作技能培训体系，致使偏离人力资本最大化逻辑的人文主义与批判性教育改革方案被系统性边缘化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
 ---
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 某项教育政策、课程标准、国际评价工具或智能化教学平台，如何将特定群体的利益与世界观转化为不可置疑的常识？其中存在何种制度化共识制造机制与边缘反抗空间？
-> - **分析对象与单位** 国家统编教科书[[Discourse|话语]]、大学排名指标体系、国际留学流动政策文本、高校智能化采购与教学平台交互日志。
+> - **分析对象与单位** 国家统编教科书[[Discourse|话语]]、大学排名指标体系、国际[[Study Abroad|留学]]流动政策文本、高校智能化采购与教学平台交互日志。
 > - **需要的材料** 课程大纲与教科书文本、政策法案、高校师生[[In-depth Interview|深度访谈]]、排名机构指标计算权重、算法系统的训练数据分布与审核日志。
 > - **解释目标** 解构被视为客观中立的教育制度或技术中介背后的权力共谋，评估其制造积极同意与再生产不平等的效力，识别反霸权与认识正义的破局路径。
 

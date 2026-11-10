@@ -8,7 +8,7 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 54
+theory_related_count: 57
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Relational Space]]"
+  - "[[Problematisation]]"
+  - "[[Research Tool]]"
   - "[[Assemblage]]"
   - "[[Policy Mobility]]"
   - "[[Discourse]]"
@@ -42,6 +44,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Unit of Analysis]]"
   - "[[Boundary Spanner]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
@@ -104,7 +107,7 @@ updated: 2026-11-11
 > - **形成路径** 将符号学原理拓展至唯物主义领域，提出广义对称性原则（Generalized Symmetry），将人类科学家与微观细菌、测量仪器置于对等行动者地位，从行动者的实际结网行动而非先验结构推导社会秩序。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1986 — 转译四阶段模型建立** Callon 提出转译四阶段[[Analytic Framework\|分析框架]]（问题化、利益化、征募、动员），使行动者网络理论（Actor-Network Theory, ANT）具备可操作的经验研究工具。（Callon, 1986, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
+> - **1986 — 转译四阶段模型建立** Callon 提出转译四阶段[[Analytic Framework\|分析框架]]（[[Problematisation|问题化]]、利益化、征募、动员），使行动者网络理论（Actor-Network Theory, ANT）具备可操作的经验[[Research Tool|研究工具]]。（Callon, 1986, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
 > - **1992 — 关系物质性与耐用材料策略** Law 提出关系物质性概念，指出口头言语和思想瞬时易逝，社会秩序的跨时空维系必须借由文本、建筑与法律等耐用材料予以具身化践行。（Law, 1992, 引自 [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）
 > - **2005 — 重新[[Assemblage\|组装]]社会与方法论澄清** Latour 出版《重新组装社会》，澄清 ANT 并非一种实体论学说，而是一种追踪异质行动者痕迹的“旅行者方法论”。（Latour, 2005）
 > - **2015–2023 — 比较教育[[Policy Mobility\|政策流动]]转向** Beech & Artopoulos 将 ANT 引入跨国数字教育，提出超越领土国家的“[[Relational Space\|关系空间]]”政策流通论；Klerides 追溯比较教育引入 ANT 以解构全球治理流动[[Discourse|话语]]与基准测评[[Governing at a Distance\|远处治理]]黑箱。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, pp. 8–11]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
@@ -132,25 +135,25 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜社会并非先验存在的实体，而是由异质对称节点在持续关联中生成的装配网络
 > 传统社会学将宏观结构（如阶级、国家、制度）视为先验[[Independent Variable\|自变量]]，而 ANT 依据广义对称性原则，主张人类与非人类（如计算机、网线、实验量规、法案文本）在网络构建中拥有对等能动地位。社会关系无法仅凭人际口头互动维系，必须通过非人类实体的抗拒与传导才能成型。宏观权力并非既定本质，而是无数异质节点进行契约性[[Assemblage|组装]]后的网络效果；一旦关键非人类节点失效，整个社会结构将瞬间停摆。（Latour, 2005; Law, 1992; 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在阿根廷“[[Conectar Igualdad\|平等连接]]”（Conectar Igualdad）数字化项目中，课堂教学秩序并非单纯由教师威权或国家大纲决定，而是由 Netbook 笔记本电脑、教室插座、双系统软件及中国服务器共同构成的微观装配所维系；电池耗尽或断网会直接摧毁教学流程。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 11]]）
 
 > [!theory-proposition] 命题二｜政策和知识的跨空间流通是非线性的转译过程，而非机械的跨国领土借用
 > 全球教育改革倡议（如[[PISA\|国际学生评估项目]]［Programme for International Student Assessment, PISA］或[[Effective Teaching\|有效教学]]模型）的跨空间流动，不能被视作在一个中心生产、在另一个边缘原样接收的静态物理转移。政策流通是处于[[Relational Space\|关系空间]]中的流动[[Discourse|话语]]，必须经过本土多行动者网络（决策官员、政党智库、媒体评论员、教研员）在“问题化”、“利益化”、“征募”与“动员”四个阶段的博弈重构与物质条件折射，才能扎根为起作用的局部实践。（Callon, 1986; 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]；[[Argument_Li_2025_HSSC\|Li et al., 2025, p. 6]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 国际[[OECD\|经合组织]]（OECD）发布 PISA 数据后，并不能自动引发成员国教育改革；只有当本国[[Policy Network\|政策网络]]将数据转化为本土危机叙事，并借助本土化测试指南与媒体动员完成二次转译时，测评数据才能转化为具体的问责政策。（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）
 
 > [!theory-proposition] 命题三｜耐用材料与无生命客体的策略性装配能够构筑跨时空[[Governing at a Distance\|远处治理]]并掩盖公私权力渗透
 > 将社会关系具身于耐用材料（durable materials，如公司章程、法律修订案、标准化量规、咨询合同）中，是一种高效的秩序化策略。无生命客体能够跨越广袤地理空间维系形状，使科研事实与政策指令产生普遍性表象；与此同时，这种由客观仪器与法规文本构成的“互客体性”黑箱，往往掩盖了私营金融资本、智库游说与商业分包网络在国家行政内部的深层筑巢，规避了民主公开审议。（Law, 1992; Latour, 2002; [[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 澳大利亚国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）对外标榜为客观中立的公共机构（犹如荒原上的防野狗围栏），但维系该机构的是依据《公司法》注册的担保有限责任底座、特许慈善界合作的法案修正案及排他性因果量规；整套耐用装配将麦肯锡背景的[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）及跨国金融资本合法嵌入国家科研议程，并赋予其审计保密豁免。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–5, 11]]）
 
 > [!theory-proposition] 命题四｜[[Center of Calculation\|计算中心]]与拓扑[[Data Infrastructure\|数据基础设施]]能够跨越行政与地理阻隔实现远处治理与政策重组
 > 政策网络无需依赖传统的层级行政命令或领土强制，而是通过设立专门的[[Center of Calculation\|计算中心]]（Centers of Calculation），向边缘学校和课堂输送标准化测试题库与自适应练习系统等“不变移动物”（Immutable Mobiles），并在中心汇集、清洗和再处理各州绩效数据。这种社会-技术装配将远处的国际和国家质量基准直接“折叠”（folding）进微观日常教学，在尊重地方形式自治的同时实现了对教育系统的精细远处治理。（Latour, 1987; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–144]]）
 
-> [!example] 应用实例
+> [!example|notitle]
 > 德国[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家计算中心，通过开发经[[Item Response Theory\|项目反应理论]]（IRT）校准的统一题库与校际比较诊断（[[Vergleichsarbeiten\|VERA]]），将国家教育标准直接下沉至 16 个联邦州的数万间教室，在未触动宪法文化主权壁垒的前提下重组了全国教育政策空间。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
 
 > [!mechanism-map]- 多尺度行动者网络转译、计算中心与远处治理机制
@@ -195,7 +198,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 跨国教育[[Policy Borrowing\|政策借用]]与流动、数字教育软硬件在微观课堂的落地调适、跨界[[Policy Network\|政策网络]]（政-商-产-学）以及中介机构治理等复杂异质情境。
+> - **适合分析** [[Transnational Education|跨国教育]][[Policy Borrowing\|政策借用]]与流动、数字教育软硬件在微观课堂的落地调适、跨界[[Policy Network\|政策网络]]（政-商-产-学）以及中介机构治理等复杂异质情境。
 > - **成立条件** 研究者必须具备获取多尺度异质材料的可行性（如深入课堂进行观察，或调取法律底册、企业注册和财务档案）。
 > - **解释不足** 对宏观历史大周期发展规律、长程阶级结构固化及深度心理心智加工过程的阐释力较弱，容易陷入对当下一刻关系网的过度沉溺。
 > - **转化困难** 行动元边界的划定极为困难（网络在理论上无限延伸，研究者不得不主观决定在何处“切断网络”）；行动者主观意图与非人类能动性的界限在经验操作中容易引起混淆。

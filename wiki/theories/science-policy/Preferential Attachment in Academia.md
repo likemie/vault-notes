@@ -10,7 +10,7 @@ aliases:
 summary: "由 Derek de Solla Price (1965) 与 Albert-László Barabási (1999) 发展的网络演化动力学理论；指出学术网络中节点的增长具有富者愈富的累积附着规律。在引文网络中，成果获取新增引用的速率与既有被引基数成正比（dc/dt ∝ c），且在越过声望跨越阈值后由内在学术价值接管；在合著网络中，新晋研究者在起步阶段倾向于与高连通度的资深导师联合署名，驱动网络呈现重尾度分布并催生超级学术中枢。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 25
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Coauthorship Network]]"
   - "[[Document]]"
   - "[[Citation Distribution]]"
+  - "[[Early-Career Researchers]]"
   - "[[Erdős Number]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Emergence]]"
@@ -46,6 +47,7 @@ related_persons:
   - "[[Dashun Wang]]"
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -73,9 +75,9 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1965）在《科学》（*Science*）提出引文累积优势模型；[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási & Albert, 1999）正式构建无标度网络优先连接微观动力学方程；亚历山大·彼得森（Alexander M. Petersen et al., 2014）在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）建立学者声望与优先连接的交叉跨越模型；[[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] 进一步将其拓展至科学合作网络的全局拓扑演化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
+> - **提出者与原始文本** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1965）在《科学》（*Science*）提出引文[[Price Cumulative Advantage Model|累积优势模型]]；[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási & Albert, 1999）正式构建无标度网络优先连接微观动力学方程；亚历山大·彼得森（Alexander M. Petersen et al., 2014）在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）建立学者声望与优先连接的交叉跨越模型；[[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] 进一步将其拓展至科学合作网络的全局拓扑演化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 > - **原初问题** 全球学术[[Citation Distribution|引文分布]]与科研人员的科研伙伴数量均展现出极端右偏的重尾形态，少数成果垄断绝大多数引用，少数超级枢纽（如[[Paul Erdős|保罗·埃尔德什]]）拥有数百位合作同行，传统随机图理论无法解释此类结构。
-> - **理论资源与材料** 汇整大规模科学引文索引（SCI）、预印本平台（arXiv）物理学合著网络与生物医学、数学学科的跨学科署名数据，借鉴波利亚罐子与连续时间马尔可夫过程。
+> - **理论资源与材料** 汇整大规模[[Web of Science|科学引文索引]]（SCI）、预印本平台（arXiv）物理学合著网络与生物医学、数学学科的跨学科署名数据，借鉴波利亚罐子与连续时间马尔可夫过程。
 > - **形成路径** 将“连续增长”与“优先连接”两大微观演化规则引入学术文献与合作场景，推导得出网络度分布必然渐近服从幂律分布，并通过追踪学者终身引文轨迹测定声望效应退出的定量临界点。
 
 > [!dev-timeline] 理论演变
@@ -83,7 +85,7 @@ updated: 2026-11-11
 > - **1999 — 优先连接方程与无标度网络** 巴拉巴西与阿尔伯特确立无标度网络演化方程，证明优先连接与连续增长共同生成严格的幂律度分布。
 > - **2009 — 新兴学科队列与先发优势实证** [[Mark Newman|马克·纽曼]]（Mark Newman）通过追踪网络生物学首批发表成果与紧随其后成果的长期被引，证实先发成果平均获引 101 次，为紧随者（26 次）的 3.88 倍，经验确证了优先连接对早期文献的长期固化红利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009; Wang & Barabási, 2021, p. 186)]]
 > - **2014 — 声望跨越与机制接管验证** 彼得森等人确立声望半衰期与跨越阈值 $c_x$ 动力学，证明资深学者在 $c < c_x$ 享有 4 倍初始获引红利，超越阈值后由成果内在学术价值接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
-> - **2021 — 合著网络与科研枢纽拓展** [[Dashun Wang|王大顺]]与巴拉巴西在《科学学的科学》中系统阐明优先连接在合著网络中的运作机制：青年学者挂靠高中心度学者驱动合作网络重尾化，不同学科（生物学重尾深长、数学衰减快速）显现差异化拓扑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
+> - **2021 — 合著网络与科研枢纽拓展** [[Dashun Wang|王大顺]]与巴拉巴西在《科学学的科学》中系统阐明优先连接在合著网络中的运作机制：[[Early-Career Researchers|青年学者]]挂靠高中心度学者驱动合作网络重尾化，不同学科（生物学重尾深长、数学衰减快速）显现差异化拓扑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 > - **2023 — 科学学生成机制模型基底确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** 刘等人在《自然-人类行为》综述中将学术优先连接理论确立为科学学生成机制模型的理论基石，系统阐述其作为引文网络累积优势与马太效应微观生成机制的核心定位。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 128)]]
 > - **2025 — 颠覆性与引文峰值错位机制（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）** 陈等人在针对 21,271 名经济学家的全生涯分析中证实，颠覆性峰值出现于生涯第 14–16 年，而引文峰值滞后至 16 年后出现；优先连接与声望网络积累使中后期成果吸附更多常规引文，使引文网络对原创突破构想产生遮蔽效应。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 6–7)]]
 
@@ -104,25 +106,25 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜学术成果引文增长在跨过临界阈值后遵循优先连接动力学且独立于初始声望
 > 在学术成果全生命周期演化中，累积引用表现为阶段性转移过程。在发表早期，学者长期积累的外生学术声望发挥显著的注意力放大功能；但随着成果逐步进入同行检验阶段，这一声望偏倚呈现明确的半衰期。一旦累积引用数量越过特定门槛 $c_x$，学术共同体对该项发现内在学术价值的客观认知接管了引用过程，此时引文增长速率严格遵循基于既有认同的优先连接生长规律（$\frac{dc}{dt} \propto c$），前期声望溢价完全淡出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 资深物理学家的突破性研究与青年学者的同等高质量研究在面世数十年后，长程被引斜率趋于一致，验证了高引成果的长程扩散取决于集体认知共识，初始声望无法永久维持引文增速。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 
 > [!theory-proposition] 命题二｜学术声望通过降低检索与注意力门槛充当优先连接机制的早期催化剂
 > 在科学文献以指数级暴涨的情境下，学术同行无法全面精读所有新兴研究。知名学者与顶尖机构的学术声望构成了重要的注意力过滤信号，使得其成果在面世初期迅速跨越冷启动盲区。实证表明，资深知名物理学者的引文跨越门槛达到 $c_x \approx 40$，是初级青年学者（$c_x \approx 10$）的 4 倍，且在 $c < c_x$ 阶段享有约 4 倍的初始获引概率加成，表明声望能够有效缩短成果在可见度低谷中的徘徊时间，为优先连接机制的正反馈启动创造先决条件。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 知名领军科学家新近公布的预印本或期刊成果通常在数周内即可吸引同行广泛阅读与讨论，而不知名研究者的同类优质成果往往需要经历漫长的偶遇式传播才能越过初始关注门槛。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 
 > [!theory-proposition] 命题三｜合著网络中的优先挂靠催生超级枢纽并塑造学科异质网络拓扑
 > 合著网络中新连接的建立呈现显著的状态依赖集聚性。青年学者首次发表成果进入学术网络时，普遍倾向于选择与拥有广泛合作网络的资深导师联合署名；网络中已有学者开拓新方向时，同样倾向于结识高中心度与高声誉的科研伙伴。微观层面的优先连接驱动高连通度学者以更快速率积累新科研伙伴，推动合作网络自组织演化为无标度重尾拓扑，催生出连接全局的超级学术中枢。学科特性的差异同时决定了优先连接的尾部跨度：生物学等依赖大型实验团队的学科展现极其深长的重尾分布，而数学等以独立研究为主的学科其尾部衰减较快，极端合作枢纽更加稀见。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[Paul Erdős]] 终身与逾 500 位学者合作发表超过 1,500 篇论著，构成了数学合作网络的超级枢纽，派生出广为应用的“[[Erdős Number|埃尔德什数]]”；青年学者普遍通过加入拥有庞大国际合作网络的导师团队，迅速接入学科的核心交流圈层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–106)]]
 
 > [!theory-proposition] 命题四｜文献持续增长与基于被引存量的优先连接共同生成跨学科普适的幂律引文分布并确立先发优势
 > 在宏观演化尺度上，学术文献的持续指数增长与学者在检索时优先引用知名既有成果的微观行为，构成了生成重尾引文分布的[[Necessary and Sufficient Conditions|充分条件]]。普赖斯累积优势模型数学证明，只要新增引用概率严格正比于历史累积引用数（$\Pi(c) \propto c$），系统在宏观上必然[[Emergence|涌现]]出无标度幂律引文分布（$P(c) \sim c^{-\gamma}$）。这一机制同时具有强烈的历史依赖性：早期发表的成果拥有更长的连线吸附时间，在优先连接复利驱动下享有持久的先发优势，解释了不同学科引文分布的高度同构性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Price, 1976; Wang & Barabási, 2021, pp. 185–186)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在成体神经干细胞与网络生物学等新兴学科的演化追踪中，首批发表的前 10% 成果获得的平均引用数（101 次）几乎达到两年后发表成果（26 次）的 4 倍，证实优先连接赋予了学科奠基文献不可逆的早期时间红利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009; Wang & Barabási, 2021, p. 186)]]
 
 ---

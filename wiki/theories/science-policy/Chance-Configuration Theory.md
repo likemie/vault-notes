@@ -8,24 +8,37 @@ aliases:
 summary: "由 Dean Keith Simonton (1989, 1991) 提出的科学创造力演化认知理论，指出重大科学突破源于随机偶发事件与前人知识碎片的结构性构型重组，结合学者生涯四参数模型推导出单峰产出曲线与时序随机性规律。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 8
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/creativity
   - theory/science-policy
   - theme/scientometrics
 related_concepts:
+  - "[[Emergence]]"
+  - "[[Creativity]]"
+  - "[[Scientific Creativity]]"
   - "[[Big Science]]"
+  - "[[Big Ideas]]"
+  - "[[Paradigm]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Hot Streak]]"
+  - "[[Research Question]]"
+  - "[[Heterogeneity]]"
+  - "[[Academic Freedom]]"
+  - "[[Deliberate Practice]]"
 related_theories:
   - "[[Constant-Probability-of-Success Model]]"
   - "[[Random Impact Rule]]"
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Disruption Index]]"
 related_persons:
   - "[[Dean Keith Simonton]]"
+  - "[[Lee Fleming]]"
 related_facts:
   - "[[Microsoft Academic Graph]]"
 related_arguments:
@@ -40,13 +53,13 @@ updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 科学创新过程中的偶然性与必然性辩证关系、卓越科学家全生命周期产出峰值与杰作时序涌现规律。
+> - **解释对象** 科学创新过程中的偶然性与必然性辩证关系、卓越科学家全生命周期产出峰值与杰作时序[[Emergence|涌现]]规律。
 > - **理论问题** 回应传统线性积累观与神话天才论将突破归因于单一理性深耕或神秘灵感的解释困境，解释为何高产是孕育杰作的先决条件。
-> - **理论类型** 演化认知心理学理论、创造力动力学解释框架。
+> - **理论类型** 演化认知心理学理论、[[Creativity|创造力]]动力学解释框架。
 > - **知识位置** 承继唐纳德·T·坎贝尔（Donald T. Campbell）盲目变异与选择性保留（BVSR）框架，构成科学学中[[Constant-Probability-of-Success Model|成功恒定概率模型]]与[[Random Impact Rule|随机影响法则]]的微观认知心理学基石。
 
 > [!claim] 核心判断
-> [[Dean Keith Simonton|迪恩·凯斯·西蒙顿]]（Dean Keith Simonton）认为，科学创造力的本质在于对分散、随机的既有知识片段进行结构性重组与机遇构型（Chance Configuration）；科学突破受偶发事件与意外际遇深切塑造，提高发文与尝试规模能够直接扩张捕获高价值构型的概率空间。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, p. 3)]]
+> [[Dean Keith Simonton|迪恩·凯斯·西蒙顿]]（Dean Keith Simonton）认为，[[Scientific Creativity|科学创造力]]的本质在于对分散、随机的既有知识片段进行结构性重组与机遇构型（Chance Configuration）；科学突破受偶发事件与意外际遇深切塑造，提高发文与尝试规模能够直接扩张捕获高价值构型的概率空间。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, p. 3)]]
 
 ---
 
@@ -70,27 +83,27 @@ updated: 2026-11-11
 > |:-----|:-----|:--------------|
 > | 机会构型（Chance Configuration） | 核心机制 | 描述偶发知识碎片在认知空间中自发聚拢为创新解谜框架的重组过程。 |
 > | 试错规模效应 | 解释命题 | 表明单次尝试成功率恒定前提下，产出总量直接决定捕获杰作概率。 |
-> | 生涯四参数系统 | 分析框架 | 包含职业年资、初始潜能、观念生成率、理论阐发率的动态系统。 |
+> | 生涯四参数系统 | [[Analytic Framework\|分析框架]] | 包含职业年资、初始潜能、观念生成率、理论阐发率的动态系统。 |
 > | [[Constant-Probability-of-Success Model]] | 配套理论 | 机会构型理论在宏观成果序列上的等几率统计投射。 |
 
 ---
 
-> [!theory-proposition] 命题一｜重大科学突破源于随机变异与知识碎片的结构性构型重组
-> 科学创新不能仅靠既有经验的线性推导达成。前沿探索深入无人区时，重大概念突破往往依赖于非预期的偶发观察与跨范式异质元素的意料外碰撞，并在研究者心智中重组为崭新的结构性构型。这种微观层面的不可预知性决定了科学突破在时序上服从等概率分布。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, p. 3)]]
+> [!theory-proposition] 命题一｜重[[Big Science|大科学]]突破源于随机变异与知识碎片的结构性构型重组
+> 科学创新不能仅靠既有经验的线性推导达成。前沿探索深入无人区时，重[[Big Ideas|大概念]]突破往往依赖于非预期的偶发观察与跨[[Paradigm|范式]]异质元素的意料外碰撞，并在研究者心智中重组为崭新的结构性构型。这种微观层面的不可预知性决定了科学突破在时序上服从等概率分布。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, p. 3)]]
 
-> [!example] 应用实例
-> 弗莱明发现青霉素、伦琴发现 X 射线以及科学史中大量颠覆性概念的诞生，均符合机会构型理论对意外扰动与敏锐重组的机制刻画。
+> [!example|notitle]
+> [[Lee Fleming|弗莱明]]发现青霉素、伦琴发现 X 射线以及科学史中大量颠覆性概念的诞生，均符合机会构型理论对意外扰动与敏锐重组的机制刻画。
 
-> [!theory-proposition] 命题二｜高发文试错规模是获取稀缺构型机会与颠覆突破的必要条件
+> [!theory-proposition] 命题二｜高发文试错规模是获取稀缺构型机会与颠覆突破的[[Necessary and Sufficient Conditions|必要条件]]
 > 在每次尝试命中高价值构型的概率客观极低且保持相对恒定的约束下，获得卓越突破的研究者之所以能脱颖而出，在于其投入了远超同侪的试错规模并维持高频产出。密集发表为学者提供了广阔的概念重组与试验空间，高产出是触碰颠覆性创新边界的充要路径。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 3, 9)]]
 
-> [!example] 应用实例
-> 经济学家长周期面板数据表明，学术爆发期内发文总量对颠覆度增量呈现高度显著的正向驱动（模型 4 中 $\beta = 0.029, p < .001$；模型 3 中 $\beta = 2.026, p < .001$），印证了密集尝试对机遇构型的催化功能。
+> [!example|notitle]
+> 经济学家长周期面板数据表明，[[Hot Streak|学术爆发期]]内发文总量对颠覆度增量呈现高度显著的正向驱动（模型 4 中 $\beta = 0.029, p < .001$；模型 3 中 $\beta = 2.026, p < .001$），印证了密集尝试对机遇构型的催化功能。
 
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 解释学者创造力全生涯起伏、学术爆发期诱发条件、科研团队产出异质性。
+> - **[[Research Question|研究问题]]** 解释学者创造力全生涯起伏、学术爆发期诱发条件、科研团队产出[[Heterogeneity|异质性]]。
 > - **分析对象与单位** 科学家的全生命周期学术出版物序列、同行引文网络与突破时序。
 > - **需要的材料** 完备学术知识图谱（如 [[Microsoft Academic Graph]]）、单篇成果发表年份、被引频次与[[Disruption Index|颠覆性指数]]。
 > - **解释目标** 验证学者成就的随机时序规律，反思科研资助体制的遴选逻辑。
@@ -106,7 +119,7 @@ updated: 2026-11-11
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 基础科学探索、理论范式更替、个人创造性职业生涯动力学。
-> - **成立条件** 科学探索具有高度不确定性且允许广泛学术自由；科研人员能够自主决定选题方向。
+> - **成立条件** 科学探索具有高度不确定性且允许广泛[[Academic Freedom|学术自由]]；科研人员能够自主决定选题方向。
 > - **解释不足** 无法充分解释重资产、工程化、成百上千人协作的大科学工程（[[Big Science]]）中的计划推进模式。
 > - **不能直接推出** 理论强调发文规模的试错拉动，但不能机械推导出盲目灌水发表低质拼凑成果可自动催生科学革命。
 
@@ -114,7 +127,7 @@ updated: 2026-11-11
 
 > [!debates] 理论争议
 >
-> > [!axis] 达尔文随机试错 vs 刻意练习经验积累
+> > [!axis] 达尔文随机试错 vs [[Deliberate Practice|刻意练习]]经验积累
 > > 争论焦点在于前沿科学突破究竟是随机试错的概率配置，还是长年刻意积累带来的必然直觉。
 > >
 > > - **Dean Keith Simonton（1989, 2004）** 坚持盲目变异假说，认为前沿突破在微观上不可精确设计，必须依赖高规模尝试堆砌概率。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, p. 3)]]

@@ -9,10 +9,10 @@ aliases:
 summary: "由 Max Planck 提出并由 Pierre Azoulay et al. (2019) 依托明星学者猝逝准自然实验实证检验的科学社会学理论；指出学科领军人物在世期间会形成压制竞争的歌利亚阴影，科学范式的代际革新依赖于学术权威的自然退场与领域外部新锐的进场替代。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 18
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-of-science
   - theme/sociology-of-science
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Discourse]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Emergence]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
+  - "[[Natural Experiment]]"
   - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons:
@@ -55,7 +57,7 @@ updated: 2026-11-11
 > - **解释对象** 科学共同体内部新理论、颠覆性假说与新[[Paradigm|研究范式]]在面对既有主流学派阻力时的确立与扩散动力学。
 > - **理论问题** 检验[[Scientific Paradigm|科学范式]]的自我修正究竟由纯粹证据辩驳主导，还是受到学术权威生命周期与代际交替社会学机制的深度制约。
 > - **理论类型** 科学社会学假说与范式更替微观实证检验框架。
-> - **知识位置** 承接[[Max Planck|马克斯·普朗克]]（Max Planck）的科学哲学观察与[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn）的范式转移理论，由当代微观计量经济学通过准自然实验赋予了因果证据。
+> - **知识位置** 承接[[Max Planck|马克斯·普朗克]]（Max Planck）的科学哲学观察与[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn）的范式转移理论，由当代微观计量经济学通过[[Natural Experiment|准自然实验]]赋予了因果证据。
 
 > [!claim] 核心判断
 > 科学领域的颠覆性真理很少通过说服固守传统理论的既有学术权威来获得承认，其最终确立依赖于权威学者在生理与职业层面的自然退场。在学科领军人物健在期间，既有学派在基金分配、期刊审稿与议程设置中投下强大的结构性阴影；权威退场后，年轻学者与外部进入者方能大规模进入该领域，带动高影响力原创成果的激增。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
@@ -91,19 +93,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜学术领军学者在世对学科内部的颠覆性创新构成结构性抑制
 > 顶尖学术权威不仅具备卓越的学术声望，更掌握着同行评审、课题基金审批以及教职晋升的核心主导权。在这类学术重力场笼罩下，领域内学者倾向于迎合权威建立的研究范式以换取资源支持，而外部具有原创思路的探索者因顾忌权威的排斥与严苛否定，主动规避直接挑战核心传统。阿祖莱等人的量化证据表明，权威健在时该领域的词汇更新率与异端课题探索显著低于非中心学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高能物理与阿尔茨海默病分子发病机理研究中，主流假说往往由少数殿堂级学者主导数十载，其他具备潜力的替代假说在此期间极难获得主流基金与顶刊版面的充足准入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 50)]]
 
 > [!theory-proposition] 命题二｜领军人物外生离世为新一代学者进入并主导前沿扫清制度空间
 > 顶尖学者非预期离世带来学科权力真空。其传统核心圈层（学生与频繁合著团队）因失去声望庇护与资源调配中枢，生产力发生急剧萎缩；此前被排斥在外的年轻学者与[[Comparative Education as a Cross-Sectional Area|交叉学科]]研究者快速进场，利用新概念和新技术填补知识空白，其产出论著进入高被引前列的概率呈现跨越式提升。这一动态证实了科学进步在很大程度上必须等待旧权威退场以腾出探索生态位。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 实证测算表明，在明星科学家猝逝后的五年内，非既有合作网络发表的原创成果数量攀升了 8% 以上，且其中新词汇与新方法的使用频率显著高于同阶段对照领域。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 
-> [!theory-proposition] 命题三｜青年学者展现出更高的前沿新词探索倾向与跨范式开拓意愿
+> [!theory-proposition] 命题三｜[[Early-Career Researchers|青年学者]]展现出更高的前沿新词探索倾向与跨范式开拓意愿
 > 青年学者尚未在特定传统范式中积累大量专有声望资产，沉没成本较低，因而更倾向于涉足未经检验的新概念与前沿工具；资深学者则倾向于深耕既有成熟轨道。文本挖掘证实青年学者的首创性词汇采纳率显著居高。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 现代计算语言学对生物医学[[Documentary Analysis|文献分析]]表明，含有颠覆性新概念的早期论著绝大部分由处于学术生涯前十年的独立青年学者主导发表。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 50)]]
 
 ---

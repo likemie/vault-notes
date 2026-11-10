@@ -7,10 +7,10 @@ aliases:
 summary: "对事件或过程的持久性人为记录，文献研究与历史教育分析的基本单位（Cohen et al., 2011）。兼具非反应性与立场建构性双重特征，涵盖私人文献、官方记录与媒体文献等多维形态；一手与二手文献划分取决于具体研究问题与使用视角的情境转换，在数字化转型中面临档案选择性与原真性重构。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/research-methodology
   - theme/documentary-research
@@ -29,9 +29,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Virtual Documents]]"
   - "[[Presence]]"
+  - "[[Problematisation]]"
   - "[[Linguistic Turn]]"
   - "[[Tacit Knowledge]]"
+  - "[[Education Export]]"
 related_theories:
+  - "[[Bacchi's WPR Approach]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
@@ -39,12 +42,14 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Secondary Analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
   - "[[James C. Scott]]"
+  - "[[Eric Hobsbawm]]"
 related_facts:
   - "[[Education Resources Information Center]]"
 related_arguments:
@@ -54,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-24
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -110,7 +115,7 @@ updated: 2026-11-09
 > [!concept-proposition] 命题一｜文献记录兼具非反应性与立场建构性
 > **[[Text Generation|文本生成]]机制与非反应性价值** 探讨文献独立于研究者干预的[[Epistemology|认识论]]优势，以及文献内在的立场性、预设受众与权力选择机制。
 
-> [!claim] Cohen, L.; Manion, L. & Morrison, K.
+> [!claim] [[Louis Cohen|Cohen, L.]]; [[Lawrence Manion|Manion, L.]] & [[Keith Morrison|Morrison, K.]]
 > **非反应性优势与立场建构并存** [[Louis Cohen|路易斯·科恩]]（Louis Cohen）、[[Lawrence Manion|劳伦斯·马尼恩]]（Lawrence Manion）与[[Keith Morrison|基思·莫里森]]（Keith Morrison）指出，文献通常为研究控制之外的行政、通信或宣传目的而事先生产，因而在数据收集阶段免受研究者提问带来的反应性干扰。官方报告与个人日志都嵌入在特定的权力关系与受众考量之中，撰写者通过选择性叙事、措辞修饰乃至刻意沉默来达成特定目的。研究者必须开展真实性、[[Reliability|可靠性]]与意义阐释等多重审验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 249–250)]]
 
 > [!claim] Scott, J.
@@ -127,8 +132,8 @@ updated: 2026-11-09
 > [!claim] Cohen, L.; Manion, L. & Morrison, K.
 > **文献属性由研究问题而非形式载体决定** 科恩等学者论证，一手文献与二手文献的划分展现出显著的情境相对性，取决于研究者的使用方式与问题意识。同一份文本在不同的研究框架下承担不同的功能角色。当代学术专著通常被视作二手文献；当研究重点转向二战期间知识分子的社会政治关怀时，该专著即转换为反映特定时代思想立场的一手原初史料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 250–251)]]
 
-> [!claim] Hobsbawm, E.
-> **自传文本的一手目击与[[Secondary Analysis|二手分析]]双重交织** 艾瑞克·霍布斯鲍姆（Eric Hobsbawm）的生活史实践表明，自传撰写者既是历史事件的直接参与者与见证者（具一手史料属性），又在数十年后运用[[Analytic Framework|分析框架]]对时代演进展开理论化反思（具二手文献功能）；文本混合了亲历记忆的生动性与后见之明的选择性，需要研究者进行双重解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Hobsbawm, 2002, via Cohen et al., 2011, Ch. 12, p. 251)]]
+> [!claim] [[Eric Hobsbawm|Hobsbawm, E.]]
+> **自传文本的一手目击与[[Secondary Analysis|二手分析]]双重交织** 艾瑞克·霍布斯鲍姆（[[Education Resources Information Center|Eric]] Hobsbawm）的生活史实践表明，自传撰写者既是历史事件的直接参与者与见证者（具一手史料属性），又在数十年后运用[[Analytic Framework|分析框架]]对时代演进展开理论化反思（具二手文献功能）；文本混合了亲历记忆的生动性与后见之明的选择性，需要研究者进行双重解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Hobsbawm, 2002, via Cohen et al., 2011, Ch. 12, p. 251)]]
 
 ---
 
@@ -157,7 +162,7 @@ updated: 2026-11-09
 > - **1830s–19世纪末 — 教科书与制度化记录的普及** 教科书概念正式出现并演化为国家意识形态与价值传播的标准载体；公学杂志等半官方刊物成为学校日常生活的制度化记录。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 252–254)]]
 > - **1980s–1990s — 生活史转向与非官方个人文献的发掘** [[Documentary Analysis|文献研究]]从单纯关注官方文件转向自传、工人阶级信件与日记，彰显私人文献对主流教育史叙事的补充与抗衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Vincent, 1981; Cohen et al., 2011, Ch. 12, p. 254)]]
 > - **2000s 至今 — 数字化浪潮与虚拟文献的档案重构** 互联网与电子数据库使海量历史档案转为在线虚拟文献，开启了远程检索便利与选择性偏误并存的数字人文研究阶段。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Crook, 2000; Cohen et al., 2011, Ch. 12, pp. 251–252)]]
-> - **2025 年 — 政策文献问题表征与后结构解构** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 汇编芬兰 10 年间 16 份核心政策文献，运用计算机辅助质性编码与 WPR 框架，解构官方文献中危机叙事与问题表征的制度生产过程。
+> - **2025 年 — 政策文献[[Problematisation|问题表征]]与后结构解构** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 汇编芬兰 10 年间 16 份核心政策文献，运用计算机辅助[[Coding in Qualitative Research|质性编码]]与 [[Bacchi's WPR Approach|WPR]] 框架，解构官方文献中危机叙事与问题表征的制度生产过程。
 
 ---
 
@@ -191,4 +196,4 @@ updated: 2026-11-09
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011)]] — 提出文献四轴分类体系，阐明一手二手界限与虚拟文献特征；引介报刊教师形象、教材族群、公学刊物与工人自传等实证案例。
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编 16 份芬兰教育出口关键政策文献开展质性编码与后结构分析，揭示官方文献如何通过选择性问题表征将公共财政赤字转化为商业化改革依据。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编 16 份芬兰[[Education Export|教育出口]]关键政策文献开展质性编码与后结构分析，揭示官方文献如何通过选择性问题表征将公共财政赤字转化为商业化改革依据。

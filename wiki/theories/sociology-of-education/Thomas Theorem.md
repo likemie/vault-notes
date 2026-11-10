@@ -10,10 +10,10 @@ aliases:
 summary: "由威廉·伊萨克·托马斯与多萝西·斯温·托马斯（1928）提出的微观社会学与符号互动论奠基性理论，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、自证预言与制度性权力强制之间的辩证机制。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/sociology-of-education
   - paradigm/interpretive
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories:
   - "[[Behaviorism]]"
+  - "[[R-Model]]"
   - "[[Symbolic Interactionism]]"
   - "[[Phenomenology]]"
   - "[[Situative Perspective]]"
@@ -75,7 +76,7 @@ updated: 2026-11-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 社会行动者如何依据其对外部环境与互动关系的主观赋意界定情境，以及这种主观建构如何反向引发真实而坚固的客观社会后果。
-> - **理论问题** 回应实证[[Behaviorism|行为主义]]（S-R 模型）忽视人类主观能动性与认知诠释中介的机械论偏误，阐明主观认知、互动协商与客观社会结构之间的因果转化机制。
+> - **理论问题** 回应实证[[Behaviorism|行为主义]]（S-[[R-Model|R 模型]]）忽视人类主观能动性与认知诠释中介的机械论偏误，阐明主观认知、互动协商与客观社会结构之间的因果转化机制。
 > - **理论类型** 微观社会学奠基性定理、[[Symbolic Interactionism|符号互动论]]核心解释框架、主观意义与社会行动中介理论。
 > - **知识位置** 芝加哥社会学派与符号互动论传统。由威廉·伊萨克·托马斯与[[Dorothy Swaine Thomas|多萝西·斯温·托马斯]]（Thomas & Thomas, 1928）奠立，经由[[Robert K. Merton|默顿]]（Merton, 1948）拓展为自证预言，并在教育社会学与课堂微观[[Ethnography|民族志]]中经[[Peter Woods|伍兹]]（Woods, 1979）、[[Basil Bernstein|伯恩斯坦]]（Bernstein, 1974）与[[Keith Morrison|莫里森]]（Morrison, 1998, 2009）深化发展。
 
@@ -132,7 +133,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜主观情境定义先于行动并赋予现实以客观后果
 > 托马斯（Thomas & Thomas, 1928）打破了行为主义刺激—反应（S-R）的机械[[Determinism|决定论]]，在物理刺激与外显行动之间确立了不可跨越的认知诠释中介。人类行动的发起以个体对情境的初步界定为前提；正如莫里森（Morrison, 1998）的生动譬喻，若某人坚信桌下有一只老鼠，无论客观物理空间是否存在老鼠，他都会展现出惊恐、规避或防御等完全真实的行动。主观认知因此直接转化为物质性的社会行动与客观制度后果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 18)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在学校教育中，若学生将特定课堂预先界定为充满敌意或专制压迫的[[Champ|场域]]，他们便会据此采取防御性沉默、消极怠工或集体违纪行动；这种主观信念直接引发了教学秩序恶化与惩戒升级的客观制度事实。
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题二｜角色采纳与拟剧表演构成情境定义的微观动态协商机制
 > 情境定义是在社会符号互动中持续博弈与流动的动态过程（Woods, 1979, 1983）。行动者通过米德所阐述的角色采纳机制，在心智中模拟他人的可能反馈，并运用[[Michael Gove|戈夫]]曼拟剧论的印象管理策略，精心编排自身的言行演出，以此诱导或迫使互动对方接受自身偏好的情境定义。情境定义因此是多方行动者持续权衡、妥协与共同建构的实践成就。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 25–26)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 课堂师生互动中，学生通过集体咳嗽、交换眼神或特定亚文化暗语，将原本压抑的训话情境巧妙重构为同伴共享幽默的抵抗空间；教师则通过调整语调、巡视站位与眼神锁定，试图夺回对严肃学术情境的主导定义权。
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题三｜制度性权力不对称与自证预言构成情境定义的结构性反思边界
 > 微观互动的能动协商深嵌于客观社会权力关系之中（Bernstein, 1974）。在高度科层化的组织场域中，权力不对称决定了权威拥有向从属参与者单向强加官方情境定义的制度垄断权。此外，托马斯定理与自证预言紧密交织（Morrison, 2009）：初始偏见定义一旦转化为评价行动，将客观重塑当事人的发展轨迹，最终使初始虚假定义被证实为现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 26)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 教师若依据刻板印象将某位学生预先定性为学习困难生，在日常互动中给予冷淡反馈与低阶任务；学生在[[Learned Helplessness|习得性无助]]中逐渐丧失学习动力，[[Academic Achievement|学业成绩]]最终滑落，使教师最初的主观偏见在客观结果上彻底变成现实。
 
 ---
@@ -156,7 +157,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题四｜科学共同体对权威地位的情境定义造成了合作学者理论贡献的长期隐形
 > 在科学知识社会学中，托马斯定理的命名与归属本身构成了该定理运作的绝佳范例（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021]]）。托马斯定理最早发表于 W. I. 托马斯与多萝西·斯温·托马斯合作出版的《美国的儿童》；然而科学共同体基于资历与地位差距，预先将专著情境界定为成名大师个人的智力产物，导致多萝西的实质理论建树在长达近一个世纪的学术史中被完全抹除。共同体对学者权威地位的主观界定，在现实中产生了声誉垄断与贡献遮蔽的真实后果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147–149)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在现代跨资历科研合著中，外部同行往往主观假定资深教授主导了成果的全部理论构想，而将初阶研究者视为单纯的数据收集者；这一主观情境定义使学术奖励几乎全数流向权威学者，印证了认知界定对[[Scientific Credit|学术承认]]资本的客观支配。
 
 ---

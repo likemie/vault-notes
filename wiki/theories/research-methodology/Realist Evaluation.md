@@ -137,31 +137,31 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜[[Causality|因果关系]]源于潜在机制在特定背景中的激活而非表观经验相继（生成性因果与 CMO 配置）
 > 科学实在论坚决批判休谟经验相继观与[[Positivism|实证主义]]将因果等同于表观统计相关性（X 导致 Y），主张因果关系在于客观实在内部蕴含的深层因果力量。在开放的社会与教育生态系统中，因果机制通常处于休眠或潜在状态，必须在适宜的具体情境（Context）中才会被激活并生成特定结果（Outcome），即 \(C + M \rightarrow O\)（Pawson & Tilley, 1997；[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]]；[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 同一项探究式科学教学干预，在教研资源充裕且具备协同文化的学校中激发了师生的深度探索推理并带来学业提升；而在高压问责与时间匮乏的学校中则引发教师应对焦虑并压制其自主推理，导致干预归零甚至出现防卫性推诿。
 
 > [!theory-proposition] 命题二｜干预方案仅提供外部资源，成效必然取决于行动者的能动推理（推理与资源整合假说）
 > 社会与教育项目不是物理注射式因果。干预方案仅向参与者提供新的物质、认知或制度资源（作为自[[Variable|变量]]）；干预能否奏效、成效（[[Dependent Variable|因变量]]）如何呈现，必须经由受试者（教师、学生、管理者）在具体情境中对资源的能动认知推理与策略性决策（中介机制）方能转化呈现（Pawson, 2006；[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在班级辅导中，给学校直接配置[[Teaching Assistant|教学助理]]（Teaching Assistant, TA）本身并不产生学业效益；只有当主讲教师与 TA 建立制度化备课协同、并将辅导支架转化为激发后进生学业[[Self-Efficacy|自我效能]]的认知推理时，学业成效方能显著[[Emergence|涌现]]（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
 
 > [!theory-proposition] 命题三｜复杂干预的有效性评估必须融合多臂[[Factorial Design|析因设计]]与[[Implementation and Process Evaluation|过程评估]]以打破因果黑箱（现实主义试验假说）
 > 现实主义评估并不排斥量化实验，而是推动传统黑箱[[Randomised Controlled Trials|随机对照试验]]（RCT）向现实主义试验（Realist Trials）升级：通过[[Multi-Arm Trial|多臂试验]]与[[Factorial Design|析因设计]]剥离复合干预的独立组件与[[Interaction Effect|交互效应]]，测度中介传导路径，并在多元生态中实施跨地点试验以检验情境交互变异；同时嵌入[[Implementation and Process Evaluation|实施与过程评估]]（IPE），严密区分方案理论无效与现场实施走样（Bonell et al., 2012, p. 2299；Craig et al., 2008；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的“[[Literacy Octopus|识字八爪鱼]]”（Literacy Octopus）多臂试验动员全英 800 余所小学，系统对比了邮件寄送、主动培训与深度入校指导等 4 种机制，证实被动寄送材料的因果净效应为零，从而否定了“寄送研究报告即可改变教学”的浅层假设，倒逼国家循证体系走向深耕基层的[[Research Schools Network|研究学校网络]]（Lord et al., 2017）。
 
 > [!theory-proposition] 命题四｜去情境化统计聚合抹杀机制变异，[[Meta-analysis|元分析]][[Effect Size|效应量]]无法充当单一政策依据（去情境化批判）
 > 将脱离具体情境的研究结果简单粗暴地放入[[Meta-analysis|元分析]]中计算平均[[Effect Size|效应量]]是朴素[[Empiricism|经验主义]]的严重盲视。这种“数据洗涤”抹杀了导致干预成败的关键微观机制与学校生态背景，掩盖了不同群体或亚组间的结构性差异（Pawson, 2006；[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 早期 [[EEF Teaching and Learning Toolkit|EEF Toolkit]] [[Meta-meta-analysis|元-元分析]]汇总出教学助理项目“低影响、高成本”（平均效应量仅 $+0.08$），掩盖了优秀实践中[[Co-Teaching|协同教学]]带来的巨大提振与恶劣环境中将学生推给无资质助教带来的负面剥夺，导致政策制定者作出盲目裁撤助理岗位的粗暴决策（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
 
 > [!theory-proposition] 命题五｜政策变迁与干预性质取决于观察者的制度位置与评估时间尺度（实在论多维观察假说）
 > 在政策与制度演进中，不仅干预结果取决于受试者的能动推理，而且对“变革是否发生及变迁性质为何”本身的定性判断也具有深刻的情境相对性。借鉴 Pawson and Tilley（1997）的“何种方案在何种情境中对谁有效”，实在论政策评估将其拓展为“对谁而言、在何种情境下构成了何种变迁”（what is change, for whom, and in what context?）。微观行动者（处于体制内部直接承受规制变动的基层执行者）感受到的激进断裂，在宏观决策者（纵览顶层政策妥协的部委官员）眼中可能仅为渐进调适，在长期历史学家眼中则可能属于[[Path Dependence|路径依赖]]下的微小延续。若脱离主体的位置与时间跨度，任何对政策变迁激进还是渐进的定性评估都将陷入假性对立（Van der Heijden et al., 2007; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）。
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在荷兰 1992 年《住房法》建筑规制改革的评估中，承建商与基层检查员直面私营认证体系的替代，将其定性为激进破裂；而荷兰住房部官员纵览长达十数年的政治妥协，将其定性为渐进调适；百年尺度的制度学者则指出国家公权力依然保持兜底主导，本质为历史延续。实在论视角揭示出：三者皆为特定制度坐标与时间透镜下的真实经验，评估必须统合多重观察位置而非强加单一判词（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 11]]）。
 
 > [!mechanism-map]- CMO 机制与现实主义试验综合图

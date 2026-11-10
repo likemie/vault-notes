@@ -6,7 +6,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人提出的创新过程理论，以发现与发明两类互动循环替代基础/应用研究二分法，强调多时间尺度、非线性的创新网络。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
+  - "[[Research Tool]]"
   - "[[Market Failure]]"
   - "[[National Innovation System]]"
   - "[[Market Fundamentalism]]"
@@ -94,19 +95,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜发现与发明构成对称互促的双向循环网络，工程发明是重[[Big Science|大科学]]突破的前提载体
 > 传统单向线性模型认为技术发明只是基础科学理论的被动下游产物。纳拉亚纳穆尔提等人在 2013 年提出，工程发明不仅能够从前序技术中独立演进，更关键的是，它直接为科学家提供了探测未知物理世界的全新极端实验平台与工程载体。若无高度精密的工艺发明作为物理使能条件，许多颠覆性的自然法则根本无法被人类观测和发现。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[Bell Labs|贝尔实验室]]的研究者将阿尔费罗夫等人发明的半导体异质结构与先进晶体生长工艺相结合，制造出极高纯度的二维电子系统；正是利用这一工程发明平台，崔琦和斯特默才得以观测到分数量子化现象，进而促成劳克林对全新量子流体的理论发现（1998 年诺贝尔物理学奖）。
 
 > [!theory-proposition] 命题二｜颠覆性创新的知识价值唯有在 30 至 50 年的宏观历史长周期中方能显现
 > 依据立项时研究者的个人即时动机（纯求知还是纯实用）对科研进行定性，是一种严重的[[Epistemology|认识论]]狭隘。颠覆性创新的内在潜能往往在短期内被严重低估，其真正的知识溢出效应需要经历跨越半个世纪的反复迭代、交叉迁移与网络重组才能完全释放；任何局限于三至五年的短期考评机制都会扭曲创新的自然节律。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–35)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 1947 年晶体管的发明与晶体管效应的发现，在此后五十年间持续激发了激光、集成电路、量子霍尔效应、超纯光纤材料与电荷耦合器件（Charge-Coupled Device, CCD）的诞生，其长远价值无法在早期通过短期效益指标予以预见。
 
 > [!theory-proposition] 命题三｜国家科技政策的核心使命是消除循环瓶颈，公共研发资助应以[[Long-Term Public Utility|长期公共效用]]为准绳
 > 创新体系的生命力在于知识流转的通畅度。当基础科学探索者与工程工艺专家在体制上被分置于互不往来的孤岛时，创新循环就会陷入停滞。因此，政府研发资助的正当性不在于项目是否属于私人资本不愿涉足的“纯基础研究”，而在于该项目是否聚焦关乎国家长远福祉的战略方向，以及能否有效疏通[[Innovation Ecosystem|创新生态]]中的结构性堵点。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > [[Department of Energy|美国能源部]]（Department of Energy, DOE）资助前沿清洁能源技术时，不应因某项探索属于工程装置开发而推给市场，也不应因其属于材料物理机理研究而推给国家科学基金会，而应依据国家能源安全与气候转型的长远公共效用，对全链条关键节点提供持续公共支持。
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-11
 > |:---------|:---------------|:---------------------|:-------------------|
 > | **双向互动机制**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 33–35)]] | 当前技术突破依赖哪些前期工程工具作为物理载体？又反哺了哪些新基础科学的产生？ | 仪器装置自研程度、实验平台依赖图谱、跨学科引文网络 | 若仅表现为科学向技术的单向扩散，提示存在工程反馈缺失；若工程发明直接催生前沿机理突破，判定循环运转良好。 |
 > | **多时间尺度网络**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 32–33)]] | 项目考核与资源配置周期是否匹配该领域的自然酝酿期（如 10–30 年）？ | 基金资助年限、阶段性考核容错机制、长周期跟踪评价记录 | 考核周期若严格限定于 3–5 年且单纯以短期成果数为判据，判定存在系统性短视风险。 |
-> | **结构性瓶颈诊断**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 35–36)]] | 创新循环中的哪个环节缺乏资源配置？理论科学家与工程专家是否存在机构与学科藩篱？ | 人员双向流动比例、跨学科联合攻关平台、关键工程工艺资助缺口 | 若理论基础充沛但缺乏高精度工艺开发与实验工具制造资金，判定存在工艺与硬件瓶颈。 |
+> | **结构性瓶颈诊断**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 35–36)]] | 创新循环中的哪个环节缺乏资源配置？理论科学家与工程专家是否存在机构与学科藩篱？ | 人员双向流动比例、跨学科联合攻关平台、关键工程工艺资助缺口 | 若理论基础充沛但缺乏高精度工艺开发与[[Research Tool\|实验工具]]制造资金，判定存在工艺与硬件瓶颈。 |
 > | **[[Long-Term Public Utility\|长期公共效用]]判据**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, p. 36)]] | 该研发方向是否关乎国家核心安全、重大民生或产业底层公共基础设施？ | 国家战略规划契合度、知识外溢扩散范围、[[Market Failure\|市场失灵]]与高风险度分析 | 具备重大战略外部性的项目，即便形态属于工程原型开发，亦具备获得公共财政持续资助的正当性。 |
 
 ---

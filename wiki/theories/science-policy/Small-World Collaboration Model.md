@@ -9,7 +9,7 @@ aliases:
 summary: "由 Brian Uzzi 与 Jarrett Spiro (2005) 提出的网络拓扑与团队创造力理论；指出协作网络的小世界特性（W）与团队创造力及绩效呈现倒 U 形非线性关联，适度的小世界网络拓扑在促进信息跨群流动与维持认知多样性之间达成最优平衡。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Theoretical Perspective]]"
   - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Question]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Patent Citation]]"
@@ -94,19 +95,19 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜低小世界商数网络因结构割裂阻断异质知识流动并压制团队创造力
 > 当网络连接稀疏且缺乏跨群捷径时（低 $W$ 状态），团队被固化在彼此隔离的微型封闭圈子中，无法获知其他学术群落正在探索的方法与理念。这种割裂状态剥夺了团队汲取互补性认知资源的机会，限制了团队开展远距离知识重组的潜力，导致作品与学术成果陷入平庸。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在高校早期学科建设中，各教研室之间缺乏跨学科联合研讨与互访机制，科研人员各自深耕狭窄方向，导致团队难以获得相邻学科的计算工具与[[Theoretical Perspective|理论视角]]，产出成果多为增量改进而罕有颠覆性突破。
 
 > [!theory-proposition] 命题二｜过度稠密小世界网络因同质化认知回音室遏制非共识原创突破
 > 当网络过于稠密且相互交叉极度深入时（高 $W$ 状态），整个社群迅速形成高度一致的[[Paradigm|范式]]与思维定式。团队成员倾向于忽视甚至排斥违背既有共识的异常信息与非主流假说，异质思想的碰撞被同质化群际压力消除，从而引发群体盲思并显著降低产出重大原创的可能性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 108)]]
 
-> [!example] 应用实例
-> 在某些长期由少数资深学者及其门生垄断的狭窄专业学会中，合著圈子高度重叠，同行评议体系倾向于排斥不符合既定技术路线的非共识假说，导致青年学者被迫迎合主流范式进行切香肠式碎化发表。
+> [!example|notitle]
+> 在某些长期由少数资深学者及其门生垄断的狭窄专业学会中，合著圈子高度重叠，同行评议体系倾向于排斥不符合既定技术路线的非共识假说，导致[[Early-Career Researchers|青年学者]]被迫迎合主流范式进行切香肠式碎化发表。
 
 > [!theory-proposition] 命题三｜适度小世界网络拓扑在保障局域信任默契与吸纳异质新颖性之间取得最优平衡
 > 在中等 $W$ 值区间，网络呈现出模块化聚类与长程弱连带相结合的拓扑结构。团队既能在局部小圈子内部建立深厚的专业默契与信任资本以推进复杂实验，又能通过有限的长程连带敏锐捕捉外部新思想与交叉灵感，实现既扎根传统主流又融入前沿重组的最佳创新状态，达到收益与评价的双峰值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 百老汇在 1950 年代创作黄金期打造了《西区故事》等经典剧目，核心主创团队既有长年合作的成熟作曲家与编舞家保障配合精度，又吸纳了具备古典戏剧背景的新锐编剧，促成了艺术性与商业性的显著突破。
 
 ---

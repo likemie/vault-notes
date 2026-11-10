@@ -10,7 +10,7 @@ aliases:
 summary: "古代东亚以中华帝国为中心的区域国际关系与地缘政治秩序模型。经典费正清模型主张其为基于文化优越感与王化道德感召的阶序同化体系；现代修正派学者（康灿雄、周方银、濮德培等）则解构其为中心与边缘在非对称权力格局下通过仪式化厚往薄来与边境互市管理互动、维持长久区域和平并实现利益互惠的务实制度安排。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,7 +27,9 @@ related_concepts:
   - "[[Chinese Exceptionalism]]"
   - "[[Discourse]]"
   - "[[Hard Power]]"
+  - "[[Study Abroad]]"
   - "[[Research Question]]"
+  - "[[Transnational Education]]"
   - "[[South-South Cooperation]]"
   - "[[Cultural Recognition]]"
 related_theories:
@@ -98,7 +100,7 @@ updated: 2026-11-11
 > [!theory-proposition] 命题一｜非对称权力结构下的双向协调与利益互惠
 > 修正派历史学家与国际关系学者（周方银 Zhou, 2011; 沃马克 Womack, 2012）指出，经典[[John King Fairbank|费正清]]模型过度放大了华夏宗主国的单向支配与周边国家的从属心理。真实的朝贡体制是一套处理非对称关系的务实制度安排：中央帝国借助厚往薄来的物质资助与象征性宗主地位维护边疆安宁；周边国家则借助象征性纳贡朝觐，换取主权自治、边境互市特权以及面对第三方威胁时的安全保障。双方互动本质是务实的利益协调而非单向同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044–1045, 1051)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 在古代中国与柬埔寨（扶南与吴哥王朝）的交往中，高棉王国定期派使团遣使进贡，换取大宗丝绸瓷器赏赐及合法商贸路线经营权，保持了自身高度内政独立与区域繁荣。
 
 ---
@@ -106,9 +108,9 @@ updated: 2026-11-11
 ### 命题二　朝贡逻辑在现代转型中转化为融合科技实力与大国礼遇的实用主义例外论模式
 
 > [!theory-proposition] 命题二｜历史心智的当代演进与制度性张力
-> 朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）论证指出，古代朝贡的历史心智在当代大国对外拓展中依然投下深远投射。它一方面促使大学成为展示科技[[Hard Power|硬实力]]与大国宽仁善意的展演窗口，通过全额奖学金与生活礼遇吸纳周边留学生；另一方面，过于依赖自上而下的外交经贸动员，容易导致跨国合作重宏观签约而轻微观实质学术合作，诱发合作协议虚置与超国民待遇削弱学术水准的现实张力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
+> 朱俊成与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）论证指出，古代朝贡的历史心智在当代大国对外拓展中依然投下深远投射。它一方面促使大学成为展示科技[[Hard Power|硬实力]]与大国宽仁善意的展演窗口，通过全额奖学金与生活礼遇吸纳周边[[Study Abroad|留学]]生；另一方面，过于依赖自上而下的外交经贸动员，容易导致跨国合作重宏观签约而轻微观实质学术合作，诱发合作协议虚置与超国民待遇削弱学术水准的现实张力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
 
-> [!example] 应用实例
+> [!example|notitle]
 > 当代中柬高等教育合作中，中国高校扩招理工科留学生并给予全额资助以展示卓越与善意；但部分校际合作因缺乏学术动力而沦为纸面协议，体现出朝贡历史心智与现代高等教育学术本质之间的张力。
 
 ---
@@ -123,7 +125,7 @@ updated: 2026-11-11
 
 > [!warning] 适用边界与现代局限
 > - **忽视小国策略性自主** 若机械套用传统朝贡模式，极易忽略较小国家在非对称交往中的策略能动性与多边借力能力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1054)]]
-> - **文化同化假设的实证失灵** 当代跨国教育交流中受援国聚焦于当代治理知识与科技赋能的理性借鉴，否定了传统模型预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1050)]]
+> - **文化同化假设的实证失灵** 当代[[Transnational Education|跨国教育]]交流中受援国聚焦于当代治理知识与科技赋能的理性借鉴，否定了传统模型预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1050)]]
 > - **不适用于全球北方互动** 该框架主要适用于地缘毗邻或发展落差显著的[[South-South Cooperation|南南合作]]情境，难以有效解释大国与发达工业化国家之间的平等或对抗性高教交往。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1054)]]
 
 ---
