@@ -2172,10 +2172,12 @@
     "Bengtsson, 2008": "Bengtsson, 2008",
     "Benick (2021)": "Benick, 2021",
     "Benick, 2021": "Benick, 2021",
+    "Benjamin (1940)": "Benjamin, 1940",
     "Benjamin F. Jones (2009)": "Benjamin F. Jones, 2009",
     "Benjamin F. Jones, 2009": "Benjamin F. Jones, 2009",
     "Benjamin et al. (2000)": "Benjamin et al., 2000",
     "Benjamin et al., 2000": "Benjamin et al., 2000",
+    "Benjamin, 1940": "Benjamin, 1940",
     "Benkler (2006)": "Benkler, 2006",
     "Benkler, 2006": "Benkler, 2006",
     "Benn (1988)": "Benn, 1988",
@@ -4398,6 +4400,8 @@
     "Chase, 2000": "Chase, 2000",
     "Chatham House (1993)": "Chatham House, 1993",
     "Chatham House, 1993": "Chatham House, 1993",
+    "Chatterjee (2004)": "Chatterjee, 2004",
+    "Chatterjee, 2004": "Chatterjee, 2004",
     "Chauhan (2017)": "Chauhan, 2017",
     "Chauhan, 2017": "Chauhan, 2017",
     "Chaury (2015)": "Chaury, 2015",
@@ -43725,6 +43729,21 @@
       ],
       "title": ""
     },
+    "Benjamin, 1940": {
+      "aliases": [
+        "Benjamin, 1940",
+        "Benjamin (1940)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Benjamin, 1940"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Messianic Time.md"
+      ],
+      "title": ""
+    },
     "Benkler, 2006": {
       "aliases": [
         "Benkler, 2006",
@@ -60110,6 +60129,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Richard Rose.md"
+      ],
+      "title": ""
+    },
+    "Chatterjee, 2004": {
+      "aliases": [
+        "Chatterjee, 2004",
+        "Chatterjee (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Chatterjee, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Homogeneous, Empty Time.md"
       ],
       "title": ""
     },

@@ -7,7 +7,11 @@ aliases:
   - homogeneous and empty time
 summary: "源自瓦尔特·本雅明历史哲学、经由本尼迪克特·安德森引入民族主义理论的核心时间构念，指脱离神学救赎秩序、由时钟与公历精确度量的客观世俗线性时间。在这一时间轴线中，事件关联表现为横截面上的共时并存与“与此同时”的交错巧合；小说与报纸等印刷资本主义大众媒介将这种时间图式物化为日常生活仪式，为分散隔绝的现代个体将民族想象为在历史中齐步推进的稳固有机体提供了认知基础设施。"
 type: concept
-domain: political-economy-geopolitics
+domain: "political-economy-geopolitics"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/temporality
   - theme/nationalism

@@ -171,7 +171,22 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Social Imaginary]] | 概念 | 人类命运共同体在批判政策社会学中被定位为替代华盛顿共识的全局性宏大社会想象。 |
+> | [[Belt and Road Initiative]] | 事实 | 人类命运共同体理念对外展开实践推进与物质化落地的核心国家大战略依托。 |
+> | [[South-South Cooperation]] | 概念 | 人类命运共同体倡导的主权平等与发展中国家包容性互助的核心话语与实践模式。 |
+> | [[People-to-People Connectivity]] | 概念 | 共同体建设在社会文化维度推进民意基础与跨国理解的关键支柱。 |
+> | [[Knowledge Diplomacy]] | 概念 | 借助跨国高等教育、科研合作与鲁班工坊输出命运共同体理念的知识外交载体。 |
+> | [[Washington Consensus]] | 概念 | 与人类命运共同体形成鲜明对照的西方新自由主义全球治理传统范式。 |
+> | [[Hegemony]] | 理论 | 批判学者用以解构跨国倡议背后的地缘战略利益与话语霸权建构的理论透镜。 |
+> | [[Discourse Analysis]] | 方法 | 解构政策文本中道德激励框架与地缘经济工具主义张力的质性分析方法。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示命运共同体理念如何通过[[People-to-People Connectivity|民心相通]]、传统文化伦理互鉴（如儒家“立己达人”与非洲“独行快，众行远”）重塑跨大洲教育能力合作的多边正当性（pp. 228–232）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将人类命运共同体作为解构中国[[Belt and Road Initiative|一带一路]]教育政策[[Discourse|话语]]的[[Policy Framing|激励性框架]]（Motivational Framing），深入剖析了这一宏大[[Social Imaginary|社会想象]]如何赋予国家高等教育跨国扩张以道义正当性。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国与东盟全面战略伙伴关系与周边外交大局，阐明[[Internationalization of Vocational Education|职业教育高水平对外开放]]如何依托四级政策链条与多边平台网络服务中国—东盟命运共同体建设（pp. 287–289, 297–298）。

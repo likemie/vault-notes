@@ -28,6 +28,8 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Everyday Plebiscite]]"
   - "[[Modular Nationalism]]"
+  - "[[Tomb of the Unknown Soldier]]"
+  - "[[Homogeneous, Empty Time]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -39,6 +41,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
 confidence: high
 status: active
@@ -117,7 +120,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 概念演变
-> - **1983 — 人类学定义确立** 安德森出版《[[Imagined Community|想象的共同体]]》，将横向同志情谊确立为界定民族四大维度的核心基石，用以解答牺牲意愿之谜。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> - **1983 — 人类学定义确立与历史成因剖析** 安德森出版《[[Imagined Community|想象的共同体]]》，在开篇将横向同志情谊确立为界定民族四大维度的核心基石，并在第二章进一步揭示其历史生成机制：随着宗教共同体与世袭王权瓦解，人们迫切需要将兄弟情谊、世俗权力与齐一空洞时间重新缝合；无名烈士之墓以同胞手足的默会共识将个体的死亡偶然性升华为民族的永恒宿命。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 7–8)]]; [[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 9–11, 19, 36)]]
 > - **2000s — 批判性阶级与性别审视** 左翼学者与后殖民批评者深入解构该构念，质疑其以普遍兄弟情谊掩盖了父权制统治与资本剥削的实质。
 > - **2025 — 科技政治学与认知扩展** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中结合[[Dunbar's Number|邓巴数]]，将横向情谊重新确立为现代高科技工程与主权防卫所必需的核心文化纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 

@@ -6,7 +6,11 @@ aliases:
   - Messianic temporality
 summary: "源自犹太教基督教神学传统、经由瓦尔特·本雅明历史哲学阐释并在本尼迪克特·安德森文化理论中得到拓展的重要时间构念。该构念指一种过去与未来在转瞬即逝的当下发生完全交汇的非线性神圣时间；历史事件之间通过预表与实现的双向垂直轴线直接归向神圣天意，独立于世俗因果链条与横向时间关联，构成了中世纪宗教共同体表象现实与维系信仰秩序的基石。"
 type: concept
-domain: political-economy-geopolitics
+domain: "political-economy-geopolitics"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/temporality
   - theme/religious-studies

@@ -680,5 +680,27 @@
       "sentence": "当代历史学者常将1789年法国大革命时期的旧制度贵族整体归为一个阶级（例如 Eric Hobsbawm 将其统计为2300万人口中的40万人）。",
       "target": "wiki/facts/us/Education Resources Information Center.md"
     }
+  ],
+  "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md": [
+    {
+      "sentence": "通过引入真理语言、王朝合法性以及本雅明的时间哲学构念，论证系统瓦解了前现代人类安顿生命意义的传统坐标系；进而将小说与报纸确立为认知技术装置，清晰重构出世俗现代人如何在均质时间流中将陌生人连结为命运共同体的表象机制。",
+      "target": "wiki/concepts/political-economy-geopolitics/Community of Shared Future for Mankind.md"
+    },
+    {
+      "sentence": "融合奥尔巴赫（Erich Auerbach, 1957）《摹仿论》对基督教图型解释学的提炼，以及本雅明（Walter Benjamin, 1968）关于时间同质性的洞见，重构现代历史意识的哲学底层（pp.",
+      "target": "wiki/concepts/science-policy/Homophily.md"
+    },
+    {
+      "sentence": "在宗教共同体与世袭王权瓦解的深层，发生了一场理解世界方式的深刻革命：中世纪以预表与实现为特征的弥赛亚时间走向崩溃，让位于以钟表与日历度量的齐一而空洞的时间；这种横向共时的时间架构构成了将民族想象为历史有机实体的关键认知基础设施。",
+      "target": "wiki/concepts/sociology-of-education/Epistemic Infrastructure.md"
+    },
+    {
+      "sentence": "小说依靠与此同时的多线情节在读者心中组装客观社会",
+      "target": "wiki/concepts/comparative-education/Assemblage.md"
+    },
+    {
+      "sentence": "符号的任意性：语言是可通约交换的表征工具（p.",
+      "target": "wiki/concepts/sociology-of-education/Commensuration.md"
+    }
   ]
 }
