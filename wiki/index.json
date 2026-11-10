@@ -13081,6 +13081,19 @@
     ]
   },
   {
+    "title": "Dynastic Realm",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Dynastic Realm.md",
+    "aliases": [
+      "王朝领域",
+      "王朝国家",
+      "王朝体系",
+      "dynastic realms",
+      "dynastic state",
+      "dynastic states"
+    ]
+  },
+  {
     "title": "Economic and Industrial Espionage",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
@@ -14503,6 +14516,20 @@
       "Thick Conception of Belonging",
       "薄弱与丰厚归属",
       "Thin vs Thick Belonging"
+    ]
+  },
+  {
+    "title": "Tomb of the Unknown Soldier",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Tomb of the Unknown Soldier.md",
+    "aliases": [
+      "无名烈士之墓",
+      "无名战士之墓",
+      "无名英雄墓",
+      "无名烈士墓",
+      "tombs of the unknown soldier",
+      "Cenotaph",
+      "衣冠冢"
     ]
   },
   {
@@ -30431,6 +30458,26 @@
     ]
   },
   {
+    "title": "Lucien Febvre",
+    "type": "person",
+    "path": "wiki/persons/france/Lucien Febvre.md",
+    "aliases": [
+      "吕西安·费弗尔",
+      "Febvre, L.",
+      "L. Febvre"
+    ]
+  },
+  {
+    "title": "Marc Bloch",
+    "type": "person",
+    "path": "wiki/persons/france/Marc Bloch.md",
+    "aliases": [
+      "马克·布洛赫",
+      "Bloch, M.",
+      "M. Bloch"
+    ]
+  },
+  {
     "title": "Marc-Antoine Jullien",
     "type": "person",
     "path": "wiki/persons/france/Marc-Antoine Jullien.md",
@@ -31400,6 +31447,17 @@
       "托恩·克韦恩贝克",
       "Kvernbekk, T.",
       "克韦恩贝克"
+    ]
+  },
+  {
+    "title": "Jose Rizal",
+    "type": "person",
+    "path": "wiki/persons/philippines/Jose Rizal.md",
+    "aliases": [
+      "何塞·黎刹",
+      "José Rizal",
+      "Rizal, J.",
+      "J. Rizal"
     ]
   },
   {

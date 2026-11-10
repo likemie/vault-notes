@@ -7268,6 +7268,8 @@
     "Eric Woo, 2023": "Eric Woo, 2023",
     "Erica Fuchs (2010)": "Erica Fuchs, 2010",
     "Erica Fuchs, 2010": "Erica Fuchs, 2010",
+    "Erich Auerbach (1957)": "Erich Auerbach, 1957",
+    "Erich Auerbach, 1957": "Erich Auerbach, 1957",
     "Erickson (1973)": "Erickson, 1973",
     "Erickson (1992)": "Erickson, 1992",
     "Erickson (2013)": "Erickson, 2013",
@@ -10702,6 +10704,8 @@
     "Henig, 2013": "Henig, 2013",
     "Henk & Stahl (1985)": "Henk & Stahl, 1985",
     "Henk & Stahl, 1985": "Henk & Stahl, 1985",
+    "Henri-Jean Martin (1976)": "Henri-Jean Martin, 1976",
+    "Henri-Jean Martin, 1976": "Henri-Jean Martin, 1976",
     "Henrick et al. (2017)": "Henrick et al., 2017",
     "Henrick et al., 2017": "Henrick et al., 2017",
     "Henrickson et al. (2003)": "Henrickson et al., 2003",
@@ -15115,6 +15119,8 @@
     "Lucas-Thompson et al., 2010": "Lucas-Thompson et al., 2010",
     "Lucia Rafanelli (2022)": "Lucia Rafanelli, 2022",
     "Lucia Rafanelli, 2022": "Lucia Rafanelli, 2022",
+    "Lucien Febvre & Henri-Jean Martin (1976)": "Lucien Febvre & Henri-Jean Martin, 1976",
+    "Lucien Febvre & Henri-Jean Martin, 1976": "Lucien Febvre & Henri-Jean Martin, 1976",
     "Lucker (1976)": "Lucker, 1976",
     "Lucker, 1976": "Lucker, 1976",
     "Ludendorff (1935)": "Ludendorff, 1935",
@@ -18343,6 +18349,8 @@
     "Osborne et al., 2013": "Osborne et al., 2013",
     "Osborne et al., 2016": "Osborne et al., 2016",
     "Osborne, 2020": "Osborne, 2020",
+    "Oscar Jászi (1929)": "Oscar Jászi, 1929",
+    "Oscar Jászi, 1929": "Oscar Jászi, 1929",
     "Osenbach (2010)": "Osenbach, 2010",
     "Osenbach, 2010": "Osenbach, 2010",
     "Osenk et al. (2020)": "Osenk et al., 2020",
@@ -25332,6 +25340,8 @@
     "Walsh et al., 2007": "Walsh et al., 2007",
     "Walsh, 2009": "Walsh, 2009",
     "Walsh, 2019": "Walsh, 2019",
+    "Walter Benjamin (1968)": "Walter Benjamin, 1968",
+    "Walter Benjamin, 1968": "Walter Benjamin, 1968",
     "Walter Brewer (1971)": "Walter Brewer, 1971",
     "Walter Brewer, 1971": "Walter Brewer, 1971",
     "Walter J. M. Kickert (1995)": "Walter J. M. Kickert, 1995",
@@ -80975,6 +80985,21 @@
       ],
       "title": ""
     },
+    "Erich Auerbach, 1957": {
+      "aliases": [
+        "Erich Auerbach, 1957",
+        "Erich Auerbach (1957)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Erich Auerbach, 1957"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
+      ],
+      "title": ""
+    },
     "Erickson, 1973": {
       "aliases": [
         "Erickson, 1973",
@@ -106182,6 +106207,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the effect of notetaking on learning from lecture"
+    },
+    "Henri-Jean Martin, 1976": {
+      "aliases": [
+        "Henri-Jean Martin, 1976",
+        "Henri-Jean Martin (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Henri-Jean Martin, 1976"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
+      ],
+      "title": ""
     },
     "Henrick et al., 2017": {
       "aliases": [
@@ -137898,6 +137938,21 @@
       ],
       "title": ""
     },
+    "Lucien Febvre & Henri-Jean Martin, 1976": {
+      "aliases": [
+        "Lucien Febvre & Henri-Jean Martin, 1976",
+        "Lucien Febvre & Henri-Jean Martin (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lucien Febvre & Henri-Jean Martin, 1976"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
+      ],
+      "title": ""
+    },
     "Lucker, 1976": {
       "aliases": [
         "Lucker, 1976",
@@ -161421,6 +161476,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Using Online Interventions to Address Summer Learning Loss in Rising Sixth-Graders"
+    },
+    "Oscar Jászi, 1929": {
+      "aliases": [
+        "Oscar Jászi, 1929",
+        "Oscar Jászi (1929)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Oscar Jászi, 1929"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
+      ],
+      "title": ""
     },
     "Osenbach, 2010": {
       "aliases": [
@@ -212138,6 +212208,21 @@
         "wiki/concepts/research-methodology/Credibility Revolution.md",
         "wiki/concepts/research-methodology/Survivorship Bias.md",
         "wiki/concepts/science-policy/Scientific Productivity.md"
+      ],
+      "title": ""
+    },
+    "Walter Benjamin, 1968": {
+      "aliases": [
+        "Walter Benjamin, 1968",
+        "Walter Benjamin (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Walter Benjamin, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
       ],
       "title": ""
     },
