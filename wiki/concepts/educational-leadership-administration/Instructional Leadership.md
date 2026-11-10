@@ -8,7 +8,7 @@ aliases:
 summary: "学校管理中聚焦课程、教学与评估核心系统，直接参与教师专业学习与发展以提升学生学业成就的学校领导模式；在学校效能与循证证据推动下成为主流范式，但在微观实践中面临校长日常工时碎片化冲突，并在政商网络推动下呈现向可见学习效应量账本与新泰勒主义微观规训异化的治理风险。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 32
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Variable]]"
+  - "[[Literature Review]]"
+  - "[[System-Wide Improvement]]"
   - "[[Dependent Variable]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
@@ -45,6 +47,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Classroom Observation]]"
   - "[[Research Synthesis]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -56,6 +59,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-06-09
@@ -201,6 +205,7 @@ updated: 2026-11-10
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Alton-Lee, 2004） | 新西兰中小学多样化学困生最佳[[Research Synthesis\|证据综合]]（BES） | 国家政策演化分析与多层方差分解 | 校内班级方差 vs 校际方差 | 班级与教师层面的方差贡献高达 59%，远超学校间差异；在同一学校内班级间差异悬殊 | — | 实证确立决定成效的关键在于校内教学领导力与课堂微观互动，而非宏观外在行政体制 |
+| [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023)]]（引自 David & Talbert, 2012; O'Day & Quick, 2009） | 美国加州桑格学区（Sanger）与圣地亚哥学区（San Diego）全系统改革 | 系统[[Literature Review\|文献综述]]与案例比较 | 行政管理者角色定位与技能结构（管理者 vs 学习领导者） | 学区推动行政人员思维与技能从常规科层事务管理者转向“学习领导者”（leaders of learning），确立以教学领导力为轴心的[[System-Wide Improvement\|系统性改进]]支持架构 | — | 证实全系统持续改进有赖于将科层行政人员定位深度重构为教学支持与专业引领的核心角色 |
 
 ---
 
@@ -220,5 +225,6 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — [[Systematic Review|系统综述]]指出全系统改进实践中行政人员角色的核心转型，证实由科层事务管理者向教学领导力（学习领导者）重塑对系统持续变革的关键支撑（p. 491）。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从卡拉汉效率崇拜与新泰勒主义批判框架出发，系统考据教学领导力在澳大利亚的学术兴起、实证效应量数据（Robinson et al., 2008）及其在实践中异化为可见学习数据账本与微观控制的制度悲剧。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 结合新西兰[[Tomorrow's Schools Reforms|明日学校改革]]十年反思与 Alton-Lee 最佳证据综合方差分解数据，论证教育治理从外部宏观结构向校内教学领导力与微观课堂互动质量聚焦的转型历程。

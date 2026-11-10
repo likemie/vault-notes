@@ -27,7 +27,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Technical Rationality]]"
   - "[[Grammar of Schooling]]"
-  - "[[Screening Off]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[High-Stakes Testing]]"
@@ -39,18 +38,21 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Feedback]]"
+  - "[[Screening Off]]"
   - "[[Causality]]"
   - "[[Falsification]]"
-  - "[[Anchored Instruction]]"
   - "[[Mentorship]]"
+  - "[[Instructional Coaching]]"
   - "[[Professional Learning Community]]"
+  - "[[Instructional Leadership]]"
   - "[[Tacit Knowledge]]"
   - "[[Output-Oriented Governance]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Research Utilization]]"
   - "[[Structured Teaching]]"
   - "[[Effective Teaching]]"
   - "[[General Education]]"
-  - "[[Primary and Secondary Documents]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
@@ -63,6 +65,7 @@ related_methods:
   - "[[Grounded Theory]]"
 related_instruments: []
 related_persons:
+  - "[[Torsten Husén]]"
   - "[[Michael Fullan]]"
 related_facts:
   - "[[PISA]]"
@@ -82,7 +85,7 @@ title: "Argument_Barrenechea_2023_JEC"
 argument_key: "Argument_Barrenechea_2023_JEC"
 argument_display_title: "How can education systems improve? A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -112,18 +115,18 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **理性选择与新公共管理（New Public Management, NPM）** | 假定个体决策旨在最大化效益，主张通过绩效激励、去中心化管理与标准化统考等外部问责机制重塑教育系统（Becker, 1976; Hood, 1991）。 |
-> | **教育变革的文化取向** | 强调教育系统的历史惯性与深层制度规范（[[Grammar of Schooling\|学校文法（Grammar of Schooling）]]），主张系统变革必须结合全面社会改革并达成广泛社会共识（[[Torsten Husén|Husén, 1994]]; Tyack & Cuban, 1995）。 |
+> | **教育变革的文化取向** | 强调教育系统的历史惯性与深层制度规范（[[Grammar of Schooling\|学校文法（Grammar of Schooling）]]），主张系统变革必须结合全面社会改革并达成广泛社会共识（[[Torsten Husén\|Husén, 1994]]; Tyack & Cuban, 1995）。 |
 > | **课程规制与一致性取向** | 关注从国家规定课程到教材、课堂教学与实际学习的课程流转，将课程深度连贯性与教材标准化视为系统协调的核心中枢（Cogan et al., 2001; Schmidt et al., 2005）。 |
 > | **麦肯锡改进阶段论** | 依据系统初始绩效水平划分改进阶梯，主张低绩效系统依赖高度规范指令，高绩效系统逐步转向专业分权（Mourshed et al., 2010）。 |
 
 > [!warrant]- 理论工具的整合功能与解释机制
-> 理性选择视角提供了外部问责与可度量产出的分析工具，但容易[[Screening Off|遮蔽]]情境复杂性并导致应试异化；文化取向揭示了组织惯性与深层变革的阻力机制，指出单校改进在规模扩张上的公平困境；课程规制取向则提供了连接政策意图与课堂教学的技术纽带。将多元理论置于对质与整合视角下，能够解释为何单一政策工具无法实现系统持续提升，进而为四大互锁驱动要素提供理论支撑。
+> 理性选择视角提供了外部问责与可度量产出的分析工具，但容易遮蔽情境复杂性并导致应试异化；文化取向揭示了组织惯性与深层变革的阻力机制，指出单校改进在规模扩张上的公平困境；课程规制取向则提供了连接政策意图与课堂教学的技术纽带。将多元理论置于对质与整合视角下，能够解释为何单一政策工具无法实现系统持续提升，进而为四大互锁驱动要素提供理论支撑。
 
 > [!contrast-table] 系统改进四大理论[[Paradigm|范式]]之核心假设、干预路径与局限性对比
 > | 理论范式 | 核心[[Epistemology\|认识论假设]] | 政策干预路径 | 代表学者与文献 | 核心局限与争议 |
 > |---|---|---|---|---|
 > | **理性选择与[[New Public Management\|新公共管理]]** | 行动者依据激励结构最大化自身利益；市场竞争与问责驱动质量提升 | 简政分权、办学绩效排名、[[High-Stakes Testing\|高利害测验]]、[[Performance Pay\|绩效工资]]、引入民营赞助主体 | Becker (1976); Hood (1991) | 将干预措施与复杂情境人为割裂；容易催生应试导向、窄化课程与校际分化 |
-> | **教育变革的文化取向** | 教育系统由历史、身份与深层社会规范建构；学校文法具有强大组织抗变惯性 | 渐进式文化重构、寻求社会广泛共识、推动涵盖经济民生的综合社会改革、发展横向专业共同体 | [[Torsten Husén|Husén (1994)]]; Tyack and Cuban (1995); [[Michael Fullan\|Fullan (2016)]] | 变革周期极其漫长；在缺乏外部推力时容易陷入组织内卷与行动迟缓 |
+> | **教育变革的文化取向** | 教育系统由历史、身份与深层社会规范建构；学校文法具有强大组织抗变惯性 | 渐进式文化重构、寻求社会广泛共识、推动涵盖经济民生的综合社会改革、发展横向专业共同体 | [[Torsten Husén\|Husén (1994)]]; Tyack and Cuban (1995); [[Michael Fullan\|Fullan (2016)]] | 变革周期极其漫长；在缺乏外部推力时容易陷入组织内卷与行动迟缓 |
 > | **课程治理与流转取向** | 规定课程通过教材与教学材料转化为课堂实践；系统连贯性决定学习效能 | 建立强有力的国家课程中枢、统一高质量教科书、对齐教学目标、内容、方法与评估 | Cogan et al. (2001); Schmidt et al. (2005); Valverde (2014) | 过度强调学科知识逻辑可能压制地方灵活性与校本创新活力 |
 > | **麦肯锡阶段改进论** | 全球系统沿共同阶梯向上演进；改进路径严格取决于系统绩效初始起点 | 依据初始分段匹配政策包：低绩效系统抓标准化脚本与严规制，高绩效系统放权专业自主 | Mourshed et al. (2010); Barber et al. (2011) | 带有机械线性指令色彩；缺乏因果检验与[[Counterfactual\|反事实]]依据，遮蔽各国本土历史语境（Morris, 2015） |
 
@@ -211,9 +214,9 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 绩效考评难以改变学校固化惯性，深层变革需要文化重构与社会共识
 
-> [!tension] 激励控制取向（NPM）与文化系统取向（[[Torsten Husén|Husén]] & [[Michael Fullan|Fullan]]）的认识论张力
+> [!tension] 激励控制取向（NPM）与文化系统取向（Husén & Fullan）的认识论张力
 > - **理性选择与新公共管理（NPM）** 假定个体决策由利益最大化驱动，教育改进必须依赖外部激励结构的重塑。主张推行公共部门去官僚化与分权化、强化标准化统考的结果问责、维持财政纪律，并引入私营部门的管理风格（Hood, 1991）。该路径力求通过将具体干预措施从社会情境中孤立剥离以实现因果测度，容易滑向技术主义的单点政策崇拜。
-> - **文化制度与全系统变革取向** 强调教育改进是一个嵌于历史、认同、组织惯性与深层社会张力之中的复杂过程。[[Torsten Husén|托斯滕·胡森（Torsten Husén, 1994）]]提出四项核心原则：教育改革必须作为更广泛社会改革的一部分；改革需求必须由教育系统内部自主生发；系统性变革在本质上进程缓慢；牵涉越广越需要广泛共识。该路径关注学校文法（[[Grammar of Schooling]]）等深层组织结构的抗变属性，主张通过多维度、整合且连贯的战略行动理论打破低效平衡（Elmore, 2007; Fullan, 2016; Tyack & Cuban, 1995）。
+> - **文化制度与全系统变革取向** 强调教育改进是一个嵌于历史、认同、组织惯性与深层社会张力之中的复杂过程。托斯滕·胡森（Torsten Husén, 1994）提出四项核心原则：教育改革必须作为更广泛社会改革的一部分；改革需求必须由教育系统内部自主生发；系统性变革在本质上进程缓慢；牵涉越广越需要广泛共识。该路径关注学校文法（[[Grammar of Schooling]]）等深层组织结构的抗变属性，主张通过多维度、整合且连贯的战略行动理论打破低效平衡（Elmore, 2007; Fullan, 2016; Tyack & Cuban, 1995）。
 
 > [!sub-claim] 2. 咨询公司的通用模型脱离实际，国家课程与教材是连接教学的关键桥梁
 
@@ -224,7 +227,7 @@ issuing_organization: ""
 > 麦肯锡公司在 2007 年发布《顶尖学校系统如何脱颖而出》聚焦绝对高绩效系统后，于 2010 年发布《世界最佳改善学校系统如何精益求精》（Mourshed et al., 2010），基于 200 场[[In-depth Interview|深度访谈]]对 20 个教育系统的 575 项政策干预进行分类。报告提出全球系统依照统一阶段演进：从贫弱到合格依赖严格行政规制与脚本化教学；从合格到良好聚焦教师队伍专业建设；从良好到卓越向教师下放教学决策自主权。
 
 > [!critique-method] 对麦肯锡线性模型的认识论与方法学批判
-> Morris (2015) 批评麦肯锡报告遮蔽了[[Causality|因果关系]]的复杂性，将主观推测与不可[[Falsification|证伪]]的猜想转化为行动指南；多项研究指出报告抽离了各国独特的文化政治传统，陷入脆弱的表面横向类比，用线性说明书替代了教育改进在本土生发的真实复杂性（Auld & Morris, 2016; Coffield & Williamson, 2011; Feniger & Lefstein, 2014）。
+> Morris (2015) 批评麦肯锡报告[[Screening Off|遮蔽]]了[[Causality|因果关系]]的复杂性，将主观推测与不可[[Falsification|证伪]]的猜想转化为行动指南；多项研究指出报告抽离了各国独特的文化政治传统，陷入脆弱的表面横向类比，用线性说明书替代了教育改进在本土生发的真实复杂性（Auld & Morris, 2016; Coffield & Williamson, 2011; Feniger & Lefstein, 2014）。
 
 ---
 
@@ -237,7 +240,7 @@ issuing_organization: ""
 > - **少而精的核心目标** 聚焦具有关键牵引作用的核心领域（如早期读写与算术能力），在雄心勃勃与切实可行之间取得平衡，避免目标过于宽泛导致资源耗散（Levin, 2012）。
 > - **全系统共享连贯性（Shared Coherence）** 确保全系统各层级主体对改革愿景达成深度共识，将政策逻辑转化为学校与教师自觉认同的实践框架（Fullan, 2016）。
 > - **长期稳定的政治承诺** 维系核心战略与行动框架的跨周期稳定性，避免因政党交替或领导人变更导致改革中途废止（Cox, 2004; Zavadsky, 2016）。
-> - **牢固[[Anchored Instruction|锚定教学]]与学生学习** 改革战略的一切行政设计最终必须服务于课堂日常教学的改善，防止官僚规制取代实质学习目标（O'Day & Smith, 2016; Snipes et al., 2002）。
+> - **牢固锚定教学与学生学习** 改革战略的一切行政设计最终必须服务于课堂日常教学的改善，防止官僚规制取代实质学习目标（O'Day & Smith, 2016; Snipes et al., 2002）。
 
 > [!case] 全系统战略框架与长期政治承诺典型实践
 > - **加拿大安大略省的连贯性治理** Fullan 与 Levin 等学者深度参与的安大略改革，确立了少而精的宏观战略目标（重点提升小学读写算基础技能与高中毕业率）。政策实施构建了自上而下、自下而上与横向校际网络协同推进的共享连贯性机制，保持了长期战略定力（Campbell, 2020; Fullan & Rincon-Gallardo, 2016; Levin, 2012）。
@@ -252,9 +255,9 @@ issuing_organization: ""
 > - **澳大利亚维多利亚州埃尔莫尔模型** Elmore (2007) 对维多利亚州改革评估指出，学校改进必须通过深思熟虑且连贯地投资于广大教师与教育人员的专业知识与技能来实现，其余一切制度设计均属辅助工具。维多利亚州将政策重心集中投向教师教学知识体系的重塑。
 > - **加拿大安大略省全链条专业发展** Osmond-Johnson and Campbell (2018) 指出，安大略省建立涵盖准入招募、入职浸润、常态化研修、专业认可、劳动保障与职级晋升的全周期专业资本支持机制，将教师能力提升与学业成效紧密关联。
 
-> [!case] 扎根现场的导师带教与[[Instructional Coaching|校本教练]]网络
+> [!case] 扎根现场的导师带教与校本教练网络
 > - **美国纽约市第二学区校长[[Mentorship|导师制]]** Elmore and Burney (1998) 发现，第二学区通过设立资深校长与新手校长的深度结对带教机制，打破管理者孤立办学壁垒，构建全学区范围内的跨校专业互助网络。
-> - **英国伦敦挑战计划校本教练制** 伦敦学校改进计划全面转向基于本校真实课堂场景的[[Instructional Coaching|校本教学教练]]指导制度，通过优秀校长的同行带教实现横向教学经验辐射（McAleavy & Elwick, 2016; Zavadsky, 2016）。
+> - **英国伦敦挑战计划校本教练制** 伦敦学校改进计划全面转向基于本校真实课堂场景的校本[[Instructional Coaching|教学教练指导]]制度，通过优秀校长的同行带教实现横向教学经验辐射（McAleavy & Elwick, 2016; Zavadsky, 2016）。
 
 > [!case] 教学引领者转型与[[Professional Learning Community|专业学习共同体]]实践
 > - **加州桑格学区管理者角色转型** 桑格联合学区推动学区行政官员与中小学校长从传统的科层事务管理者转向以[[Instructional Leadership|教学领导力]]（Instructional Leadership）为核心的学习引领者，推行分布式领导与教师集体责任制（David & Talbert, 2012；另见圣地亚哥学区，O’Day & Quick, 2009）。
@@ -274,13 +277,13 @@ issuing_organization: ""
 > Schneider et al. (2019) 对厄瓜多尔 2006 至 2017 年教育改革的实证追踪发现，科雷亚政权通过凝聚执政政治力量，克服了厄瓜多尔传统全国教育工会（National Union of Educators, UNE）的制度阻挠，全面推行基于公开竞争的严格教师聘用标准与定期的教师绩效评估，确立了宏观教育标准对教师队伍的有效治理。
 
 > [!mechanism] 全国学段统测作为[[Output-Oriented Governance|循证治理]]的数据中枢：波兰实践
-> 波兰在推行学制改革的同时，在基础教育每一学段终点设立全国统一的可比性学业考试，为系统诊断教学薄弱环节提供客观标准，推动了教育政策向[[Evidence-Based Policy-Making|循证决策]]与[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation）深度转型，将证据使用聚焦于干预措施在真实教育情境中“如何以及为何发生作用”（Fazlagić & Erkol, 2015; Jakubowski, 2015）。
+> 波兰在推行学制改革的同时，在基础教育每一学段终点设立全国统一的可比性学业考试，为系统诊断教学薄弱环节提供客观标准，推动了教育政策向[[Evidence-Based Policy-Making|循证决策]]与[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation）深度转型，将[[Research Utilization|证据使用]]聚焦于干预措施在真实教育情境中“如何以及为何发生作用”（Fazlagić & Erkol, 2015; Jakubowski, 2015）。
 
 > [!sub-claim] 4. 经费、课时与教材优先保障薄弱学校，兜牢底线才能带动全系统提升
 
 > [!policy-design] 针对弱势学校的资源倾斜与[[Structured Teaching|结构化教学]]供给
 > - **智利 P.900 弱势小学专项资助** Cox (2004) 系统梳理了智利 1990 至 2003 年的教育平权改革。智利推行著名的 P.900 计划，锁定全国学业表现后 10% 的初等学校实施全方位补偿支持；国家公共教育财政投入增长超过三倍，向全国 92% 接受国家资助的学生免费配发全套 5 门核心学科教材，建立覆盖中小学的计算机网络基础设施；推行全日制学校改革（Jornada Escolar Completa, JEC），系统扩充学生的课堂在校有效学习时间。
-> - **南非豪登省教材教具与教学指导交付** Fleisch (2016) 对南非教育改革的研究表明，针对资源匮乏与师资薄弱环境，行之有效的策略是将优质教学材料的精准配发与到校教学教练紧密嵌合。向一线教师直接提供结构化脚本式教案、分级阅读图书，配合常态化[[Instructional Coaching|教学教练]]随堂指导，成功实现了微观教学实践的规制与提升。
+> - **南非豪登省教材教具与教学指导交付** Fleisch (2016) 对南非教育改革的研究表明，针对资源匮乏与师资薄弱环境，行之有效的策略是将优质教学材料的精准配发与到校教学教练紧密嵌合。向一线教师直接提供结构化脚本式教案、分级阅读图书，配合常态化教学教练随堂指导，成功实现了微观教学实践的规制与提升。
 
 > [!mechanism] 推迟学段分流与扩充[[Effective Teaching|有效教学]]时间：波兰学制改革
 > 波兰 1999 年改革在小学与高中之间创设独立的初级中学，强制将原本在初中阶段便过早分流的职业教育延后一年，使全体学生在 16 岁前接受均质化的[[General Education|通识教育]]；同时显著增加了核心学科的在校教学课时，成为波兰在 PISA 测试中大幅缩小学生学业差距的核心制度根源（Bin Mahfooz & Hovde, 2010; Jakubowski, 2015）。
@@ -297,7 +300,7 @@ issuing_organization: ""
 > 4. **弱势补偿是系统整体提质的基石** 显著改善的教育系统均高度重视教育公平，通过将财政经费、优秀师资、教学材料与课时资源优先倾斜于底层学校，拉动整体绩效提升。
 
 > [!stat-cards]- 核心数据与样本漏斗
-> - **1970** 四重检索策略获得的[[Primary and Secondary Documents|原始文献]]总量（篇）。
+> - **1970** 四重检索策略获得的原始文献总量（篇）。
 > - **328** 经标题与摘要初筛后进入全文本评估的系统改进相关候选文献（篇）。
 > - **43** 最终满足严格质性综述纳入标准、直接解释系统改进机制的核心文献（篇）。
 > - **4** [[Grounded Theory|扎根理论]]三级编码提炼出的互锁驱动架构（大核心驱动力：战略连贯、教师资本、治理桥接、资源倾斜）。

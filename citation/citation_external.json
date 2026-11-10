@@ -17964,6 +17964,8 @@
     "O'Connor, 2002": "O'Connor, 2002",
     "O'Connor, 2014": "O'Connor, 2014",
     "O'Connor, 2017": "O'Connor, 2017",
+    "O'Day & Quick (2009)": "O'Day & Quick, 2009",
+    "O'Day & Quick, 2009": "O'Day & Quick, 2009",
     "O'Day & Smith (2016)": "O'Day & Smith, 2016",
     "O'Day & Smith, 2016": "O'Day & Smith, 2016",
     "O'Day (2002)": "O'Day, 2002",
@@ -24337,7 +24339,9 @@
     "Torres, 2016": "Torres, 2016",
     "Torres, 2022": "Torres, 2022",
     "Torsten Husén (1982)": "Torsten Husén, 1982",
+    "Torsten Husén (1994)": "Torsten Husén, 1994",
     "Torsten Husén, 1982": "Torsten Husén, 1982",
+    "Torsten Husén, 1994": "Torsten Husén, 1994",
     "Toscano & Hattie (2018)": "Toscano & Hattie, 2018",
     "Toscano & Hattie, 2018": "Toscano & Hattie, 2018",
     "Tosh (2002)": "Tosh, 2002",
@@ -69815,7 +69819,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Instructional Leadership.md"
       ],
       "title": ""
     },
@@ -86094,7 +86099,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/teacher-education/Instructional Coaching.md"
       ],
       "title": ""
     },
@@ -111363,7 +111369,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/persons/sweden/Torsten Husén.md"
       ],
       "title": ""
     },
@@ -144254,7 +144260,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/teacher-education/Instructional Coaching.md"
       ],
       "title": ""
     },
@@ -158562,6 +158569,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Building Better Bridges  Teaching Adolescents Who Are Poor Readers in Eighth Grade to Comprehend History Text"
+    },
+    "O'Day & Quick, 2009": {
+      "aliases": [
+        "O'Day & Quick, 2009",
+        "O'Day & Quick (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "O'Day & Quick, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Instructional Leadership.md"
+      ],
+      "title": ""
     },
     "O'Day & Smith, 2016": {
       "aliases": [
@@ -204920,6 +204942,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+      ],
+      "title": ""
+    },
+    "Torsten Husén, 1994": {
+      "aliases": [
+        "Torsten Husén, 1994",
+        "Torsten Husén (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Torsten Husén, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },
