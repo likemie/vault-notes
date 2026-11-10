@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Qu_2024_IJED",
+      "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
+    },
+    {
+      "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
+      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+    },
+    {
       "basename": "Argument_Volmari_2025_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Education Finland",
       "path": "wiki/facts/finland/Education Finland.md"
-    },
-    {
-      "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
     },
     {
       "basename": "Disruption Index",
@@ -195,10 +199,6 @@
     {
       "basename": "First International Mathematics Study",
       "path": "wiki/facts/global/First International Mathematics Study.md"
-    },
-    {
-      "basename": "基础领域青年人才与科研资助文献摘要",
-      "path": "output/基础领域青年人才与科研资助文献摘要.md"
     }
   ],
   "omittedPaths": [],
