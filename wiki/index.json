@@ -30499,6 +30499,17 @@
     ]
   },
   {
+    "title": "Regis Debray",
+    "type": "person",
+    "path": "wiki/persons/france/Regis Debray.md",
+    "aliases": [
+      "雷吉斯·德布雷",
+      "Régis Debray",
+      "Debray, R.",
+      "R. Debray"
+    ]
+  },
+  {
     "title": "René Descartes",
     "type": "person",
     "path": "wiki/persons/france/René Descartes.md",
@@ -31205,6 +31216,19 @@
     "aliases": [
       "大野耐一",
       "Ohno, T."
+    ]
+  },
+  {
+    "title": "Jose Joaquin Fernandez de Lizardi",
+    "type": "person",
+    "path": "wiki/persons/mexico/Jose Joaquin Fernandez de Lizardi.md",
+    "aliases": [
+      "何塞·华金·费尔南德斯·德·利萨尔迪",
+      "何塞·华金·费尔南德斯·德·利萨尔蒂",
+      "利萨尔迪",
+      "Lizardi",
+      "El Pensador Mexicano",
+      "Fernández de Lizardi"
     ]
   },
   {
@@ -43600,6 +43624,19 @@
       "King-Archer debates",
       "金-阿彻论战",
       "1970年代方法论断裂"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Act of Union 1707",
+    "type": "fact",
+    "path": "wiki/facts/uk/Act of Union 1707.md",
+    "aliases": [
+      "1707年联合法案",
+      "联合法案 (1707)",
+      "1707年英苏联合法案",
+      "Acts of Union 1707",
+      "Treaty of Union 1707"
     ],
     "subtype": "event"
   },
