@@ -3666,14 +3666,6 @@
       ],
       "title": ""
     },
-    "Andrea Saltelli, 2017": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "Andreas Kazamias, 1961": {
       "doi": "",
       "isbn": "",
@@ -9887,7 +9879,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
+        "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md",
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -18397,14 +18390,6 @@
       ],
       "title": ""
     },
-    "Cathy Wylie, 1999": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "Cattan, 2014": {
       "datasets": [
         "eef-ey:earlier-starting-age"
@@ -25449,6 +25434,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/educational-philosophy/Learnification.md"
       ],
       "title": ""
@@ -29994,6 +29980,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Technological Forecasting and Social Change/Argument_Caraca_2009_TFSC.md"
+      ],
+      "title": ""
+    },
+    "Economist, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -43202,14 +43196,6 @@
       ],
       "title": ""
     },
-    "HITS, 2017": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "HRK, 2019": {
       "doi": "",
       "isbn": "",
@@ -45595,6 +45581,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/competency-and-assessment/Success Criteria.md",
         "wiki/concepts/curriculum/Learning Intentions.md"
       ],
@@ -45613,6 +45600,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -51964,6 +51952,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/tests/Test for Creative Thinking-Drawing Production.md"
+      ],
+      "title": ""
+    },
+    "Jellyman, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -69197,6 +69193,14 @@
       ],
       "title": ""
     },
+    "Masters, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
+    },
     "Mastropieri & Scruggs, 1989": {
       "datasets": [
         "metax:S1327"
@@ -83219,27 +83223,11 @@
       ],
       "title": ""
     },
-    "Philip Davies, 1999": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "Philip G. Cerny, 1990": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Competition State.md"
-      ],
-      "title": ""
-    },
-    "Philip Jellyman, 2015": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -83673,14 +83661,6 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
         "wiki/concepts/political-economy-geopolitics/Liberalization.md",
         "wiki/concepts/political-economy-geopolitics/Social Imaginary.md"
-      ],
-      "title": ""
-    },
-    "Pierre-Jérôme Bergeron, 2017": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -92159,6 +92139,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Saltelli, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },

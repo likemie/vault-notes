@@ -852,8 +852,6 @@
     "Andrade, 2008": "Andrade, 2008",
     "Andrea Mennicken (2019)": "Andrea Mennicken, 2019",
     "Andrea Mennicken, 2019": "Andrea Mennicken, 2019",
-    "Andrea Saltelli (2017)": "Andrea Saltelli, 2017",
-    "Andrea Saltelli, 2017": "Andrea Saltelli, 2017",
     "Andreas Kazamias (1961)": "Andreas Kazamias, 1961",
     "Andreas Kazamias (2009a)": "Andreas Kazamias, 2009a",
     "Andreas Kazamias (2009b)": "Andreas Kazamias, 2009b",
@@ -4169,8 +4167,6 @@
     "Catalini et al., 2015": "Catalini et al., 2015",
     "Cathy Amanti (1992)": "Cathy Amanti, 1992",
     "Cathy Amanti, 1992": "Cathy Amanti, 1992",
-    "Cathy Wylie (1999)": "Cathy Wylie, 1999",
-    "Cathy Wylie, 1999": "Cathy Wylie, 1999",
     "Cattan (2014)": "Cattan, 2014",
     "Cattan, 2014": "Cattan, 2014",
     "Catts (1992)": "Catts, 1992",
@@ -6827,7 +6823,9 @@
     "Economics of Poverty (2016)": "Economics of Poverty, 2016",
     "Economics of Poverty, 2016": "Economics of Poverty, 2016",
     "Economist (2007)": "Economist, 2007",
+    "Economist (2016)": "Economist, 2016",
     "Economist, 2007": "Economist, 2007",
+    "Economist, 2016": "Economist, 2016",
     "Ecorys 与 NHM (2022)": "Ecorys 与 NHM, 2022",
     "Ecorys 与 NHM, 2022": "Ecorys 与 NHM, 2022",
     "Eddy (1931)": "Eddy, 1931",
@@ -9837,8 +9835,6 @@
     "HAMK, 2018": "HAMK, 2018",
     "HEFCE (2018)": "HEFCE, 2018",
     "HEFCE, 2018": "HEFCE, 2018",
-    "HITS (2017)": "HITS, 2017",
-    "HITS, 2017": "HITS, 2017",
     "HRK (2019)": "HRK, 2019",
     "HRK, 2019": "HRK, 2019",
     "Ha & Sun (2021)": "Ha & Sun, 2021",
@@ -11824,6 +11820,8 @@
     "Jehng et al., 1993": "Jehng et al., 1993",
     "Jellen & Urban (1989)": "Jellen & Urban, 1989",
     "Jellen & Urban, 1989": "Jellen & Urban, 1989",
+    "Jellyman (2015)": "Jellyman, 2015",
+    "Jellyman, 2015": "Jellyman, 2015",
     "Jemsy (2018)": "Jemsy, 2018",
     "Jemsy, 2018": "Jemsy, 2018",
     "Jemutai (2019)": "Jemutai, 2019",
@@ -15767,6 +15765,8 @@
     "Massey, 2009": "Massey, 2009",
     "Masters & Birch (2016)": "Masters & Birch, 2016",
     "Masters & Birch, 2016": "Masters & Birch, 2016",
+    "Masters (2018)": "Masters, 2018",
+    "Masters, 2018": "Masters, 2018",
     "Mastropieri & Scruggs (1989)": "Mastropieri & Scruggs, 1989",
     "Mastropieri & Scruggs, 1989": "Mastropieri & Scruggs, 1989",
     "Mastropieri (2005)": "Mastropieri, 2005",
@@ -18947,12 +18947,8 @@
     "Philip Altbach, 1991": "Philip Altbach, 1991",
     "Philip Cooke (1992)": "Philip Cooke, 1992",
     "Philip Cooke, 1992": "Philip Cooke, 1992",
-    "Philip Davies (1999)": "Philip Davies, 1999",
-    "Philip Davies, 1999": "Philip Davies, 1999",
     "Philip G. Cerny (1990)": "Philip G. Cerny, 1990",
     "Philip G. Cerny, 1990": "Philip G. Cerny, 1990",
-    "Philip Jellyman (2015)": "Philip Jellyman, 2015",
-    "Philip Jellyman, 2015": "Philip Jellyman, 2015",
     "Philip Y. Gee (1995)": "Philip Y. Gee, 1995",
     "Philip Y. Gee, 1995": "Philip Y. Gee, 1995",
     "Philipp Mayring (2000)": "Philipp Mayring, 2000",
@@ -19052,8 +19048,6 @@
     "Pierre Azoulay, 2012": "Pierre Azoulay, 2012",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
-    "Pierre-Jérôme Bergeron (2017)": "Pierre-Jérôme Bergeron, 2017",
-    "Pierre-Jérôme Bergeron, 2017": "Pierre-Jérôme Bergeron, 2017",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
     "Pierson & Castles, 2002": "Pierson & Castles, 2002",
     "Pierson (1992)": "Pierson, 1992",
@@ -20987,6 +20981,8 @@
     "Salmon, 1998": "Salmon, 1998",
     "Salmons (2010)": "Salmons, 2010",
     "Salmons, 2010": "Salmons, 2010",
+    "Saltelli (2017)": "Saltelli, 2017",
+    "Saltelli, 2017": "Saltelli, 2017",
     "Saltman (2010)": "Saltman, 2010",
     "Saltman, 2010": "Saltman, 2010",
     "Salvione (2007)": "Salvione, 2007",
@@ -33811,21 +33807,6 @@
       ],
       "title": ""
     },
-    "Andrea Saltelli, 2017": {
-      "aliases": [
-        "Andrea Saltelli, 2017",
-        "Andrea Saltelli (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Andrea Saltelli, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "Andreas Kazamias, 1961": {
       "aliases": [
         "Andreas Kazamias, 1961",
@@ -44166,7 +44147,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
+        "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md",
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -58318,21 +58300,6 @@
       ],
       "title": ""
     },
-    "Cathy Wylie, 1999": {
-      "aliases": [
-        "Cathy Wylie, 1999",
-        "Cathy Wylie (1999)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Cathy Wylie, 1999"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "Cattan, 2014": {
       "aliases": [
         "Cattan, 2014",
@@ -69994,6 +69961,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/educational-philosophy/Learnification.md"
       ],
       "title": ""
@@ -77535,6 +77503,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Technological Forecasting and Social Change/Argument_Caraca_2009_TFSC.md"
+      ],
+      "title": ""
+    },
+    "Economist, 2016": {
+      "aliases": [
+        "Economist, 2016",
+        "Economist (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Economist, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -99493,21 +99476,6 @@
       ],
       "title": ""
     },
-    "HITS, 2017": {
-      "aliases": [
-        "HITS, 2017",
-        "HITS (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "HITS, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "HRK, 2019": {
       "aliases": [
         "HRK, 2019",
@@ -103478,6 +103446,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/competency-and-assessment/Success Criteria.md",
         "wiki/concepts/curriculum/Learning Intentions.md"
       ],
@@ -103507,6 +103476,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -114103,6 +114073,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/tests/Test for Creative Thinking-Drawing Production.md"
+      ],
+      "title": ""
+    },
+    "Jellyman, 2015": {
+      "aliases": [
+        "Jellyman, 2015",
+        "Jellyman (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jellyman, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -142353,6 +142338,21 @@
       ],
       "title": ""
     },
+    "Masters, 2018": {
+      "aliases": [
+        "Masters, 2018",
+        "Masters (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Masters, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
+    },
     "Mastropieri & Scruggs, 1989": {
       "aliases": [
         "Mastropieri & Scruggs, 1989",
@@ -165582,21 +165582,6 @@
       ],
       "title": ""
     },
-    "Philip Davies, 1999": {
-      "aliases": [
-        "Philip Davies, 1999",
-        "Philip Davies (1999)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Philip Davies, 1999"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
-      ],
-      "title": ""
-    },
     "Philip G. Cerny, 1990": {
       "aliases": [
         "Philip G. Cerny, 1990",
@@ -165609,21 +165594,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Competition State.md"
-      ],
-      "title": ""
-    },
-    "Philip Jellyman, 2015": {
-      "aliases": [
-        "Philip Jellyman, 2015",
-        "Philip Jellyman (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Philip Jellyman, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -166348,21 +166318,6 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
         "wiki/concepts/political-economy-geopolitics/Liberalization.md",
         "wiki/concepts/political-economy-geopolitics/Social Imaginary.md"
-      ],
-      "title": ""
-    },
-    "Pierre-Jérôme Bergeron, 2017": {
-      "aliases": [
-        "Pierre-Jérôme Bergeron, 2017",
-        "Pierre-Jérôme Bergeron (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Pierre-Jérôme Bergeron, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -180538,6 +180493,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Saltelli, 2017": {
+      "aliases": [
+        "Saltelli, 2017",
+        "Saltelli (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Saltelli, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
