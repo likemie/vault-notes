@@ -7,23 +7,39 @@ aliases:
   - Benjamin Levin
 summary: "多伦多大学安大略教育研究院（OISE）教育领导与政策教授，前安大略省教育部副部长；全系统教育改进与知识动员领域的代表学者与政策架构师，提炼并践行了以少数聚焦目标、现场微观情境学习及跨层级实施反馈环为特征的系统提质范式。"
 type: person
-nationality: "Canada"
+nationality: canada
+person_region: "canada"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1952"
 died: ""
-lifespan: "1952–"
+lifespan: "1952–至今"
 tags:
   - person/academic
   - educational-leadership
   - educational-policy
   - knowledge-mobilisation
   - systemic-reform
-related_concepts: []
+related_concepts:
+  - "[[Academic-Administrator Entrepreneurs]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Operationalization]]"
+  - "[[System-Wide Improvement]]"
+  - "[[Professional Accountability]]"
+  - "[[Instructional Core]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Knowledge Network for Applied Education Research]]"
+  - "[[OECD]]"
+related_arguments:
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: draft
 created: 2026-11-10
@@ -34,11 +50,11 @@ updated: 2026-11-10
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大著名教育政策与领导学学者、高级公共行政官员，多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE）领导力与政策讲席教授，曾任安大略省教育部副部长（Deputy Minister of Education）与曼尼托巴省高级教育部副部长。
-> - **核心角色** 深度整合理论研究与大规模公共治理的学者型官员，加拿大安大略省基础教育全系统提质工程的首席战略规划师之一，当代知识动员（[[Knowledge Mobilisation]]）理论与循证教育治理的领军倡导者。
-> - **代表贡献** 提出全系统教育改进的基准操作化定义，主导确立安大略“少而精目标-情境化能力建设-实施反馈环”改革架构（Levin, 2008, 2012），创立多伦多大学安大略教育研究应用知识网络（Knowledge Network for Applied Education Research, KNAER）。
+> - **核心角色** 深度整合理论研究与大规模公共治理的[[Academic-Administrator Entrepreneurs|学者型官员]]，加拿大安大略省基础教育全系统提质工程的首席战略规划师之一，当代[[Knowledge Mobilisation|知识动员]]（[[Knowledge Mobilisation]]）理论与[[Evidence-Based Education|循证教育]]治理的领军倡导者。
+> - **代表贡献** 提出全系统教育改进的基准[[Operationalization|操作化]]定义，主导确立安大略“少而精目标-情境化能力建设-实施反馈环”改革架构（Levin, 2008, 2012），创立多伦多大学安大略教育研究应用知识网络（[[Knowledge Network for Applied Education Research]], KNAER）。
 
 > [!citation-card] 莱文论全系统教育改进的实质
-> 教育系统改进是指在整个教育体系中实现具有实质意义的学生成果积极变化。改革的真正挑战不在于起草宏大的政策文件，而在于建立能够穿透至具体教室内部师生互动的常态化机制，通过扎根现场的情境化学习支持教师持续改善教学实践。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 480, 490, 493)]]
+> [[System-Wide Improvement|教育系统改进]]是指在整个教育体系中实现具有实质意义的学生成果积极变化。改革的决定性挑战是建立能够进入具体教室内部师生互动的常态化机制，通过扎根现场的情境化学习支持教师持续改善教学实践。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 480, 490, 493)]]
 >
 > *Levin defines educational improvement as achieving 'significant positive change in student outcomes across an entire education system'... highlights the need for learning in context and stress the need for a continuous learning strategy through research and data that allow the system to learn from its performance.*
 
@@ -71,7 +87,7 @@ updated: 2026-11-10
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了教育政策执行学与知识动员（Knowledge Mobilisation）理论，打破了将研究视为单向推送的传统线性假设，确立了多主体双向共创与制度化吸收模型。
-> - **政策路径** 作为副部长亲自规划并指挥了加拿大安大略省全系统提质工程，使安大略省在阅读达标率与高中毕业率上取得显著突破，被经合组织（OECD）定评为全球最成功的系统改革范例之一。
+> - **政策路径** 作为副部长亲自规划并指挥了加拿大安大略省全系统提质工程，使安大略省在阅读达标率与高中毕业率上取得显著突破，被[[OECD|经合组织]]（OECD）定评为全球最成功的系统改革范例之一。
 > - **跨国／跨领域传播** 其“改变 5000 所学校”的改革框架被澳大利亚、英国、新西兰以及智利等多个国家和次国家系统广泛借鉴，成为国际全系统改进领域的经典政策范本。
 
 ---
@@ -88,4 +104,4 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 系统综述开篇采用莱文关于全系统改进的经典定义，并全程引述其在安大略省改革中关于少数聚焦目标、现场微观情境学习及实施反馈环的实证论述（pp. 480, 488–493）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — [[Systematic Review|系统综述]]开篇采用莱文关于全系统改进的经典定义，并全程引述其在安大略省改革中关于少数聚焦目标、现场微观情境学习及实施反馈环的实证论述（pp. 480, 488–493）。

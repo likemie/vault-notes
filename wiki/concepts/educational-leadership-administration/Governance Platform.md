@@ -4,10 +4,10 @@ aliases:
 summary: "教育系统构建的集反思性领导力、深层文化理解、长期政治合法性与同行互信，以及高度精细化的宏微观联通通道于一体的治理平台；拉美486个次国家教育系统比较研究将其确立为成功突围的核心共享特征，有效克服了政策在教室门外耗散的组织困境。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-governance
   - school-leadership

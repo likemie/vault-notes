@@ -29541,6 +29541,17 @@
     ]
   },
   {
+    "title": "Ben Levin",
+    "type": "person",
+    "path": "wiki/persons/canada/Ben Levin.md",
+    "aliases": [
+      "ben-levin",
+      "本·莱文",
+      "莱文",
+      "Benjamin Levin"
+    ]
+  },
+  {
     "title": "Bob Darwish",
     "type": "person",
     "path": "wiki/persons/canada/Bob Darwish.md",
@@ -35042,6 +35053,17 @@
       "理查德·E·梅耶",
       "Mayer, R. E.",
       "Richard Mayer"
+    ]
+  },
+  {
+    "title": "Richard Elmore",
+    "type": "person",
+    "path": "wiki/persons/us/Richard Elmore.md",
+    "aliases": [
+      "richard-elmore",
+      "理查德·埃尔莫尔",
+      "埃尔莫尔",
+      "Richard F. Elmore"
     ]
   },
   {
@@ -44619,6 +44641,15 @@
       "识字八爪鱼试验",
       "八爪鱼试验",
       "Literacy Octopus Trial"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "London Challenge",
+    "type": "fact",
+    "path": "wiki/facts/uk/London Challenge.md",
+    "aliases": [
+      "london-challenge"
     ],
     "subtype": "program"
   },

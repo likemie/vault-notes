@@ -5,10 +5,10 @@ aliases:
 summary: "向一线教师提供详尽规定每日教学步骤、提问脚本、板书范式与练习反馈的高结构化课程教学方案；在师资素养极端薄弱或办学资源匮乏情境中被证实能够提供最低成本的教学规范托底，但成熟系统中过度使用会压制教师专业自主性与情境应变力。"
 type: concept
 domain: "curriculum"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - curriculum
   - instructional-materials

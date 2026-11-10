@@ -4,10 +4,10 @@ aliases:
 summary: "新公共管理与理性选择理论在教育系统改革中的工具化呈现；依托中央或部门级交付单元、少数聚焦的刚性量化指标、严密的推进时间表与层层问责例会，旨在通过外部目标压力与标准化处方集推动教育系统学业表现的快速突破。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-reform
   - new-public-management
