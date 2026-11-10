@@ -11,7 +11,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -45,10 +45,11 @@ related_facts:
   - "[[Thousand Talents Program]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -151,4 +152,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考证 1998 年启动的 985 工程重点支持若干高水平大学建设世界一流研究型大学的演进历程，分析顶尖本土名校作为母体大学在长三角（如浙江大学海宁国际校区）与大湾区建设跨国教育枢纽中的战略锚点功能（p. 2）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 实证记录 985 工程创设国际公认高水平研究型大学进程的政策分析文献。

@@ -4678,8 +4678,6 @@
     "Christopher Ansell, 2000": "Christopher Ansell, 2000",
     "Christopher Harrison (2010)": "Christopher Harrison, 2010",
     "Christopher Harrison, 2010": "Christopher Harrison, 2010",
-    "Christopher Hood (1991)": "Christopher Hood, 1991",
-    "Christopher Hood, 1991": "Christopher Hood, 1991",
     "Christopher Lubienski (2019)": "Christopher Lubienski, 2019",
     "Christopher Lubienski, 2019": "Christopher Lubienski, 2019",
     "Christopher Martin (2018)": "Christopher Martin, 2018",
@@ -8699,8 +8697,6 @@
     "Gartlehner et al., 2025": "Gartlehner et al., 2025",
     "Garud & Karnøe (2003)": "Garud & Karnøe, 2003",
     "Garud & Karnøe, 2003": "Garud & Karnøe, 2003",
-    "Gary Becker (1976)": "Gary Becker, 1976",
-    "Gary Becker, 1976": "Gary Becker, 1976",
     "Gary S. Becker (1964)": "Gary S. Becker, 1964",
     "Gary S. Becker, 1964": "Gary S. Becker, 1964",
     "Gary-Bobo (2016)": "Gary-Bobo, 2016",
@@ -24339,9 +24335,7 @@
     "Torres, 2016": "Torres, 2016",
     "Torres, 2022": "Torres, 2022",
     "Torsten Husén (1982)": "Torsten Husén, 1982",
-    "Torsten Husén (1994)": "Torsten Husén, 1994",
     "Torsten Husén, 1982": "Torsten Husén, 1982",
-    "Torsten Husén, 1994": "Torsten Husén, 1994",
     "Toscano & Hattie (2018)": "Toscano & Hattie, 2018",
     "Toscano & Hattie, 2018": "Toscano & Hattie, 2018",
     "Tosh (2002)": "Tosh, 2002",
@@ -62004,21 +61998,6 @@
       ],
       "title": ""
     },
-    "Christopher Hood, 1991": {
-      "aliases": [
-        "Christopher Hood, 1991",
-        "Christopher Hood (1991)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Christopher Hood, 1991"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
-      ],
-      "title": ""
-    },
     "Christopher Lubienski, 2019": {
       "aliases": [
         "Christopher Lubienski, 2019",
@@ -91315,21 +91294,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Distributed Agency.md"
-      ],
-      "title": ""
-    },
-    "Gary Becker, 1976": {
-      "aliases": [
-        "Gary Becker, 1976",
-        "Gary Becker (1976)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gary Becker, 1976"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },
@@ -204932,21 +204896,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-      ],
-      "title": ""
-    },
-    "Torsten Husén, 1994": {
-      "aliases": [
-        "Torsten Husén, 1994",
-        "Torsten Husén (1994)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Torsten Husén, 1994"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },

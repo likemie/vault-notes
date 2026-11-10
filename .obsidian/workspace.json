@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Silova",
+                "query": "Higher education regionalism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -315,6 +316,11 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-012/result.json",
+    "raw/he2018.pdf",
+    "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-011/result.json",
+    "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
+    "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-010/result.json",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-009/result.json",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-008/result.json",
@@ -327,16 +333,12 @@
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-003/result.json",
     "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
     "wiki/facts/china/Hainan International Education Innovation Pilot Zone.md",
-    "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
     "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md",
     "wiki/concepts/educational-policy-reform/System-Wide Improvement.md",
     "sources/Barrenechea_2023_JEC.md",
-    "sources/Barrenechea_2023_JEC.pdf",
     "wiki/persons/new-zealand/Cathy Wylie.md",
-    "extracted_paper_text.txt",
     "wiki/concepts/curriculum/Curriculum Delivery Model.md",
     "wiki/facts/new-zealand/New Zealand Council for Educational Research.md",
-    "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-002/result.json",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-012/prompt.md",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-011/prompt.md",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-010/prompt.md",
@@ -350,7 +352,6 @@
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-003/prompt.md",
     "output/related-updates/Argument_Qu_2024_IJED-9cac97c5/batch-001/prompt.md",
     "wiki/concepts/competency-and-assessment/Within-School Variance.md",
-    "wiki/concepts/instruction-pedagogy/Teacher Expertise.md",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig6_GBA_Cities.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig5_World_Major_Bay_Areas.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg",

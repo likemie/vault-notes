@@ -55,9 +55,9 @@ Total entries: **1124**
 | Semiconductor `#theme` | 37 |
 | Accountability `#theme` | 36 |
 | Global Governance `#theme` | 33 |
+| Higher Education `#theme` | 32 |
 | Innovation `#theme` | 32 |
 | Evidence Based Education `#theme` | 31 |
-| Higher Education `#theme` | 31 |
 
 ## Fast Trails
 
@@ -287,7 +287,7 @@ Total entries: **1124**
 > - [[China-ASEAN Federation for Vocational Education]] — 在教育部与东盟教育部门指导下，由参与中东盟双百职校旗舰计划的175所中外职业院校、应用型技术大学、科研院所及骨干企业共同发起的跨大多边职教协同组织，是推动区域产教融合与高技能人才跨国培养的核心枢纽平台。
 > - [[Chinese Academy of Sciences]] — 1949年建国初期依照苏联科研体制模式组建的中国国家级综合自然科学最高学术机构与研发中心；拥有百余个专业研究所，长期承担国家三分之二以上学术科研任务；20世纪80年代起创设自办研究生院并借鉴美式科研培训，与教育部直属高校系统形成了既平行分工又在研究生生源与科研基金上相互竞争的中国特色国家创新双轨体系。
 > - [[Institute of South-South Cooperation and Development]] — 依托北京大学国家发展研究院设立的国家级国际发展办学机构与智库，专门面向全球南方国家培养治国理政精英与高级公共管理人才。
-> - [[Ministry of Education of the People's Republic of China]] — 中国国务院主管教育事业的组成部门，发布基础教育课程改革纲要、一带一路教育行动与高校服务对外开放的系列行动计划，统筹国家教育政策与教育对外交流
+> - [[Ministry of Education of the People's Republic of China]] — 中华人民共和国国务院主管全国教育事业并统筹语言文字工作的组成部门。负责拟订教育体制改革与发展战略规划，主管学前教育至高等教育各学段办学标准与课程大纲，统筹“双一流”建设与国家教育财政转移支付，行使中外合作办学准入审批与境外独立办学特许监管权，构建覆盖粤港澳大湾区、海南自贸港与“一带一路”多边合作的现代教育对外开放治理体系。
 > - [[National Natural Science Foundation of China]] — 1986年中国国务院借鉴美国国家科学基金会（NSF）同行评议资助制度而设立的国家自然科学基础研究资助管理机构；主要依托竞争性申请与专家同行评审，面向全国高等学校与科研院所资助基础研究与应用基础研究，是中国破除传统行政指令拨款、确立现代学术择优机制与青年科技人才长周期培育的科技体制改革里程碑。
 > - [[Sino-Africa Joint Research Center]] — 中国科学院与肯尼亚农业与技术大学在肯尼亚联合设立的海外综合性科研与研究生教育机构，聚焦东非生物多样性保护、生态环境遥感与现代农业技术示范。
 > - [[University Alliance of the Silk Road]] — 西安交通大学于2015年发起成立的开放包容型跨国高等教育多边合作组织，汇聚全球38个国家和地区的165所高校与19所观察员院校，通过学科子联盟、青年夏令营与学分互认网络践行知识外交。

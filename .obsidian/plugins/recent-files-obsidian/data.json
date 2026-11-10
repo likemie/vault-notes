@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
     },
     {
+      "basename": "Argument_Chou_2017_PolSoc",
+      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
+    },
+    {
       "basename": "Hainan International Education Innovation Pilot Zone",
       "path": "wiki/facts/china/Hainan International Education Innovation Pilot Zone.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Primary School Decree of 1866",
       "path": "wiki/facts/finland/Primary School Decree of 1866.md"
-    },
-    {
-      "basename": "Hannah Arendt",
-      "path": "wiki/persons/us/Hannah Arendt.md"
     }
   ],
   "omittedPaths": [],

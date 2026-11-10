@@ -655,6 +655,10 @@
     {
       "sentence": "*左侧展示了浙大八校区网络对海宁校区的知识溢出；右侧展示了联合管理委员会（Joint Management Committee, JMC）与国际顾问委员会（International Advisory Board, IAB）的双层伙伴治理架构。",
       "target": "wiki/concepts/university-industry-collaboration/Industry Advisory Board.md"
+    },
+    {
+      "sentence": "This is an important step in opening up China's higher education system.*",
+      "target": "wiki/facts/global/Skills Toward Employment and Productivity.md"
     }
   ]
 }
