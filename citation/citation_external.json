@@ -1105,6 +1105,8 @@
     "Armstrong, 1998": "Armstrong, 1998",
     "Armstrong, 2000": "Armstrong, 2000",
     "Armstrong, 2016": "Armstrong, 2016",
+    "Arnab Bandyopadhyay (2019)": "Arnab Bandyopadhyay, 2019",
+    "Arnab Bandyopadhyay, 2019": "Arnab Bandyopadhyay, 2019",
     "Arndt & Oman (2008)": "Arndt & Oman, 2008",
     "Arndt & Oman, 2008": "Arndt & Oman, 2008",
     "Arnold & Atkins (1991)": "Arnold & Atkins, 1991",
@@ -1611,6 +1613,8 @@
     "Bandura, 1977": "Bandura, 1977",
     "Bandura, 1993": "Bandura, 1993",
     "Bandura, 1997": "Bandura, 1997",
+    "Bandyopadhyay (2019)": "Bandyopadhyay, 2019",
+    "Bandyopadhyay, 2019": "Bandyopadhyay, 2019",
     "Bang & Medin (2010)": "Bang & Medin, 2010",
     "Bang & Medin, 2010": "Bang & Medin, 2010",
     "Bangert et al. (1983)": "Bangert et al., 1983",
@@ -4951,9 +4955,11 @@
     "Coldwell et al. (2017)": "Coldwell et al., 2017",
     "Coldwell et al., 2017": "Coldwell et al., 2017",
     "Cole (2009)": "Cole, 2009",
+    "Cole (2012)": "Cole, 2012",
     "Cole (2013)": "Cole, 2013",
     "Cole (2014)": "Cole, 2014",
     "Cole, 2009": "Cole, 2009",
+    "Cole, 2012": "Cole, 2012",
     "Cole, 2013": "Cole, 2013",
     "Cole, 2014": "Cole, 2014",
     "Coleman & Pimentel (2010)": "Coleman & Pimentel, 2010",
@@ -21507,8 +21513,10 @@
     "Schweinhart et al., 2005": "Schweinhart et al., 2005",
     "Schweisfurth (2013)": "Schweisfurth, 2013",
     "Schweisfurth (2015)": "Schweisfurth, 2015",
+    "Schweisfurth (2022)": "Schweisfurth, 2022",
     "Schweisfurth, 2013": "Schweisfurth, 2013",
     "Schweisfurth, 2015": "Schweisfurth, 2015",
+    "Schweisfurth, 2022": "Schweisfurth, 2022",
     "Schwerdt (2017)": "Schwerdt, 2017",
     "Schwerdt, 2017": "Schwerdt, 2017",
     "Schwichow et al. (2016a)": "Schwichow et al., 2016a",
@@ -23693,6 +23701,8 @@
     "Teig, 2022": "Teig, 2022",
     "Teimouri et al. (2019)": "Teimouri et al., 2019",
     "Teimouri et al., 2019": "Teimouri et al., 2019",
+    "Teju Cole (2012)": "Teju Cole, 2012",
+    "Teju Cole, 2012": "Teju Cole, 2012",
     "Tekbiyik & Akdeniz (2010)": "Tekbiyik & Akdeniz, 2010",
     "Tekbiyik & Akdeniz, 2010": "Tekbiyik & Akdeniz, 2010",
     "Tekleselassie (2006)": "Tekleselassie, 2006",
@@ -35600,6 +35610,21 @@
       "seen_in": [],
       "title": "A meta-analysis of the effect of the physical education learning environment on student outcomes"
     },
+    "Arnab Bandyopadhyay, 2019": {
+      "aliases": [
+        "Arnab Bandyopadhyay, 2019",
+        "Arnab Bandyopadhyay (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Arnab Bandyopadhyay, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/White Saviour Mentality.md"
+      ],
+      "title": ""
+    },
     "Arndt & Oman, 2008": {
       "aliases": [
         "Arndt & Oman, 2008",
@@ -39388,6 +39413,21 @@
       "seen_in": [
         "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md",
         "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+      ],
+      "title": ""
+    },
+    "Bandyopadhyay, 2019": {
+      "aliases": [
+        "Bandyopadhyay, 2019",
+        "Bandyopadhyay (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bandyopadhyay, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/White Saviour Mentality.md"
       ],
       "title": ""
     },
@@ -63773,6 +63813,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
+      ],
+      "title": ""
+    },
+    "Cole, 2012": {
+      "aliases": [
+        "Cole, 2012",
+        "Cole (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cole, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/White Saviour Mentality.md"
       ],
       "title": ""
     },
@@ -184311,6 +184366,21 @@
       ],
       "title": ""
     },
+    "Schweisfurth, 2022": {
+      "aliases": [
+        "Schweisfurth, 2022",
+        "Schweisfurth (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schweisfurth, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Foundational Literacy and Numeracy.md"
+      ],
+      "title": ""
+    },
     "Schwerdt, 2017": {
       "aliases": [
         "Schwerdt, 2017",
@@ -199989,6 +200059,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Second language anxiety and achievement: A meta-analysis."
+    },
+    "Teju Cole, 2012": {
+      "aliases": [
+        "Teju Cole, 2012",
+        "Teju Cole (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Teju Cole, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/White Saviour Mentality.md"
+      ],
+      "title": ""
     },
     "Tekbiyik & Akdeniz, 2010": {
       "aliases": [

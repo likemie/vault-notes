@@ -502,6 +502,18 @@
     ]
   },
   {
+    "title": "Aid Volatility in Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Aid Volatility in Education.md",
+    "aliases": [
+      "教育援助波动性",
+      "外援波动性",
+      "Aid Volatility",
+      "援助动荡",
+      "突发外援现金流"
+    ]
+  },
+  {
     "title": "Aidland",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Aidland.md",
@@ -2362,6 +2374,18 @@
       "辉格主义史观",
       "Whig Interpretation of History",
       "Whiggish Historiography"
+    ]
+  },
+  {
+    "title": "White Saviour Mentality",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/White Saviour Mentality.md",
+    "aliases": [
+      "白人救世主心态",
+      "白人救世主情结",
+      "White Saviour Complex",
+      "White Savior Complex",
+      "白人拯救者心态"
     ]
   },
   {
@@ -6517,6 +6541,19 @@
       "取证式调查风格",
       "Forensic Investigation Style",
       "Forensic Style of Audit"
+    ]
+  },
+  {
+    "title": "Foundational Literacy and Numeracy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Foundational Literacy and Numeracy.md",
+    "aliases": [
+      "FLN",
+      "基础读写算",
+      "基础读写算能力",
+      "基础学习",
+      "Foundational Learning",
+      "基础素养"
     ]
   },
   {
