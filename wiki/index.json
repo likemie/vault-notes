@@ -3286,6 +3286,14 @@
     ]
   },
   {
+    "title": "Curriculum Coherence",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curriculum Coherence.md",
+    "aliases": [
+      "curriculum-coherence"
+    ]
+  },
+  {
     "title": "Curriculum Connection",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Curriculum Connection.md",
@@ -4167,6 +4175,14 @@
     "path": "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
     "aliases": [
       "大师崇拜"
+    ]
+  },
+  {
+    "title": "Distributed Leadership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
+    "aliases": [
+      "distributed-leadership"
     ]
   },
   {
@@ -21694,6 +21710,14 @@
     ]
   },
   {
+    "title": "Backward Mapping",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Backward Mapping.md",
+    "aliases": [
+      "backward-mapping"
+    ]
+  },
+  {
     "title": "COM-B Model",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/COM-B Model.md",
@@ -33335,6 +33359,14 @@
     ]
   },
   {
+    "title": "David Tyack",
+    "type": "person",
+    "path": "wiki/persons/us/David Tyack.md",
+    "aliases": [
+      "david-tyack"
+    ]
+  },
+  {
     "title": "Dean Keith Simonton",
     "type": "person",
     "path": "wiki/persons/us/Dean Keith Simonton.md",
@@ -34604,6 +34636,14 @@
       "吴令飞",
       "L. Wu",
       "Wu, L."
+    ]
+  },
+  {
+    "title": "Marc Tucker",
+    "type": "person",
+    "path": "wiki/persons/us/Marc Tucker.md",
+    "aliases": [
+      "marc-tucker"
     ]
   },
   {
@@ -40536,6 +40576,15 @@
       "负责任科研计量莱顿宣言",
       "科研计量莱顿宣言",
       "莱顿原则"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "McKinsey Education Reports",
+    "type": "fact",
+    "path": "wiki/facts/global/McKinsey Education Reports.md",
+    "aliases": [
+      "mckinsey-education-reports"
     ],
     "subtype": "policy"
   },

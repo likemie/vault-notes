@@ -5503,8 +5503,10 @@
     "Csikszentmihalyi, 1990": "Csikszentmihalyi, 1990",
     "Cuban (1986)": "Cuban, 1986",
     "Cuban (1992)": "Cuban, 1992",
+    "Cuban (1995)": "Cuban, 1995",
     "Cuban, 1986": "Cuban, 1986",
     "Cuban, 1992": "Cuban, 1992",
+    "Cuban, 1995": "Cuban, 1995",
     "Cui & Zheng (2018)": "Cui & Zheng, 2018",
     "Cui & Zheng, 2018": "Cui & Zheng, 2018",
     "Cui et al. (2022)": "Cui et al., 2022",
@@ -7115,7 +7117,9 @@
     "Elmonayer, 2013": "Elmonayer, 2013",
     "Elmore & Burney (1998)": "Elmore & Burney, 1998",
     "Elmore & Burney, 1998": "Elmore & Burney, 1998",
+    "Elmore (2000)": "Elmore, 2000",
     "Elmore (2007)": "Elmore, 2007",
+    "Elmore, 2000": "Elmore, 2000",
     "Elmore, 2007": "Elmore, 2007",
     "Elnegar & Darwazeh (2018)": "Elnegar & Darwazeh, 2018",
     "Elnegar & Darwazeh, 2018": "Elnegar & Darwazeh, 2018",
@@ -7284,6 +7288,8 @@
     "Erktin, 2004": "Erktin, 2004",
     "Erlenmeyer-Kimling & Jarvik (1963)": "Erlenmeyer-Kimling & Jarvik, 1963",
     "Erlenmeyer-Kimling & Jarvik, 1963": "Erlenmeyer-Kimling & Jarvik, 1963",
+    "Ernest Gellner (1983)": "Ernest Gellner, 1983",
+    "Ernest Gellner, 1983": "Ernest Gellner, 1983",
     "Ernest Rutherford (1900)": "Ernest Rutherford, 1900",
     "Ernest Rutherford, 1900": "Ernest Rutherford, 1900",
     "Ernst (2001)": "Ernst, 2001",
@@ -18421,6 +18427,8 @@
     "O’Connor, 2005": "O’Connor, 2005",
     "O’Connor, 2007": "O’Connor, 2007",
     "O’Connor, 2014": "O’Connor, 2014",
+    "O’Day & Quick (2009)": "O’Day & Quick, 2009",
+    "O’Day & Quick, 2009": "O’Day & Quick, 2009",
     "P. A. (1986)": "P. A., 1986",
     "P. A., 1986": "P. A., 1986",
     "P. David Miller (1989)": "P. David Miller, 1989",
@@ -21449,11 +21457,13 @@
     "Schissler & Soysal (2005)": "Schissler & Soysal, 2005",
     "Schissler & Soysal, 2005": "Schissler & Soysal, 2005",
     "Schleicher (2011)": "Schleicher, 2011",
+    "Schleicher (2012)": "Schleicher, 2012",
     "Schleicher (2017)": "Schleicher, 2017",
     "Schleicher (2018)": "Schleicher, 2018",
     "Schleicher et al. (2021)": "Schleicher et al., 2021",
     "Schleicher et al., 2021": "Schleicher et al., 2021",
     "Schleicher, 2011": "Schleicher, 2011",
+    "Schleicher, 2012": "Schleicher, 2012",
     "Schleicher, 2017": "Schleicher, 2017",
     "Schleicher, 2018": "Schleicher, 2018",
     "Schmid et al. (2009)": "Schmid et al., 2009",
@@ -24514,7 +24524,9 @@
     "Tuck (2009)": "Tuck, 2009",
     "Tuck, 2009": "Tuck, 2009",
     "Tucker (2002)": "Tucker, 2002",
+    "Tucker (2011)": "Tucker, 2011",
     "Tucker, 2002": "Tucker, 2002",
+    "Tucker, 2011": "Tucker, 2011",
     "Tuckman (1972)": "Tuckman, 1972",
     "Tuckman, 1972": "Tuckman, 1972",
     "Tudge (1996)": "Tudge, 1996",
@@ -36922,6 +36934,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/global/McKinsey Education Reports.md",
         "wiki/persons/uk/Paul Morris.md"
       ],
       "title": ""
@@ -40214,6 +40227,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
       "title": ""
@@ -63761,6 +63775,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Curriculum Coherence.md",
         "wiki/facts/global/TIMSS.md"
       ],
       "title": ""
@@ -68031,6 +68046,21 @@
       ],
       "title": ""
     },
+    "Cuban, 1995": {
+      "aliases": [
+        "Cuban, 1995",
+        "Cuban (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cuban, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Cui & Zheng, 2018": {
       "aliases": [
         "Cui & Zheng, 2018",
@@ -69849,6 +69879,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md"
       ],
       "title": ""
@@ -79811,6 +79842,21 @@
       ],
       "title": ""
     },
+    "Elmore, 2000": {
+      "aliases": [
+        "Elmore, 2000",
+        "Elmore (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Elmore, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Distributed Leadership.md"
+      ],
+      "title": ""
+    },
     "Elmore, 2007": {
       "aliases": [
         "Elmore, 2007",
@@ -81068,6 +81114,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
+      ],
+      "title": ""
+    },
+    "Ernest Gellner, 1983": {
+      "aliases": [
+        "Ernest Gellner, 1983",
+        "Ernest Gellner (1983)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ernest Gellner, 1983"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -84225,7 +84286,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/global/McKinsey Education Reports.md"
       ],
       "title": ""
     },
@@ -91925,7 +91987,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/persons/uk/Ernest Gellner.md",
         "wiki/persons/us/Benedict Anderson.md",
@@ -151238,7 +151299,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/global/McKinsey Education Reports.md"
       ],
       "title": ""
     },
@@ -152193,7 +152255,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Scripted Curriculum.md",
-        "wiki/concepts/educational-policy-reform/Deliverology.md"
+        "wiki/concepts/educational-policy-reform/Deliverology.md",
+        "wiki/facts/global/McKinsey Education Reports.md"
       ],
       "title": ""
     },
@@ -161924,6 +161987,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "An examination of the efficacy of INSIGHTS in enhancing the academic and behavioral development of children in early grades"
+    },
+    "O’Day & Quick, 2009": {
+      "aliases": [
+        "O’Day & Quick, 2009",
+        "O’Day & Quick (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "O’Day & Quick, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Distributed Leadership.md"
+      ],
+      "title": ""
     },
     "P. A., 1986": {
       "aliases": [
@@ -184146,6 +184224,21 @@
       ],
       "title": ""
     },
+    "Schleicher, 2012": {
+      "aliases": [
+        "Schleicher, 2012",
+        "Schleicher (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schleicher, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Schleicher, 2017": {
       "aliases": [
         "Schleicher, 2017",
@@ -184264,7 +184357,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
-        "wiki/concepts/curriculum/Curricular Governance.md"
+        "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Curriculum Coherence.md"
       ],
       "title": ""
     },
@@ -184292,7 +184386,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curriculum Coherence.md"
       ],
       "title": ""
     },
@@ -206209,6 +206304,21 @@
       "seen_in": [],
       "title": "Using culturally sensitive theories and research to meet the academic needs of low-income African American children"
     },
+    "Tucker, 2011": {
+      "aliases": [
+        "Tucker, 2011",
+        "Tucker (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tucker, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Marc Tucker.md"
+      ],
+      "title": ""
+    },
     "Tuckman, 1972": {
       "aliases": [
         "Tuckman, 1972",
@@ -206654,7 +206764,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
-        "wiki/concepts/comparative-education/Grammar of Schooling.md"
+        "wiki/concepts/comparative-education/Grammar of Schooling.md",
+        "wiki/persons/us/David Tyack.md"
       ],
       "title": ""
     },

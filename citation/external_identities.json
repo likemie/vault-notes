@@ -5462,6 +5462,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/global/McKinsey Education Reports.md",
         "wiki/persons/uk/Paul Morris.md"
       ],
       "title": ""
@@ -7436,6 +7437,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
       "title": ""
@@ -21623,6 +21625,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Curriculum Coherence.md",
         "wiki/facts/global/TIMSS.md"
       ],
       "title": ""
@@ -24210,6 +24213,14 @@
       ],
       "title": ""
     },
+    "Cuban, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Cui & Zheng, 2018": {
       "datasets": [
         "metax:S1665"
@@ -25284,6 +25295,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md"
       ],
       "title": ""
@@ -31238,6 +31250,14 @@
       ],
       "title": ""
     },
+    "Elmore, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Distributed Leadership.md"
+      ],
+      "title": ""
+    },
     "Elmore, 2007": {
       "doi": "",
       "isbn": "",
@@ -31989,6 +32009,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
+      ],
+      "title": ""
+    },
+    "Ernest Gellner, 1983": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -33861,7 +33889,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/global/McKinsey Education Reports.md"
       ],
       "title": ""
     },
@@ -38521,7 +38550,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/persons/uk/Ernest Gellner.md",
         "wiki/persons/us/Benedict Anderson.md",
@@ -74500,7 +74528,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/global/McKinsey Education Reports.md"
       ],
       "title": ""
     },
@@ -75093,7 +75122,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Scripted Curriculum.md",
-        "wiki/concepts/educational-policy-reform/Deliverology.md"
+        "wiki/concepts/educational-policy-reform/Deliverology.md",
+        "wiki/facts/global/McKinsey Education Reports.md"
       ],
       "title": ""
     },
@@ -80924,6 +80954,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "An examination of the efficacy of INSIGHTS in enhancing the academic and behavioral development of children in early grades"
+    },
+    "O’Day & Quick, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-leadership-administration/Distributed Leadership.md"
+      ],
+      "title": ""
     },
     "P. A., 1986": {
       "doi": "",
@@ -94212,6 +94250,14 @@
       ],
       "title": ""
     },
+    "Schleicher, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Schleicher, 2017": {
       "doi": "",
       "isbn": "",
@@ -94280,7 +94326,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
-        "wiki/concepts/curriculum/Curricular Governance.md"
+        "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Curriculum Coherence.md"
       ],
       "title": ""
     },
@@ -94297,7 +94344,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curriculum Coherence.md"
       ],
       "title": ""
     },
@@ -107633,6 +107681,14 @@
       "seen_in": [],
       "title": "Using culturally sensitive theories and research to meet the academic needs of low-income African American children"
     },
+    "Tucker, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Marc Tucker.md"
+      ],
+      "title": ""
+    },
     "Tuckman, 1972": {
       "doi": "",
       "isbn": "",
@@ -107903,7 +107959,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
-        "wiki/concepts/comparative-education/Grammar of Schooling.md"
+        "wiki/concepts/comparative-education/Grammar of Schooling.md",
+        "wiki/persons/us/David Tyack.md"
       ],
       "title": ""
     },
