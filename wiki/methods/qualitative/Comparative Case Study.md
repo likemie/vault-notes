@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 63
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -89,10 +89,12 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
-status: draft
+status: active
 created: 2026-05-19
-updated: 2026-10-29
+updated: 2026-11-10
 ---
 
 ---
@@ -145,7 +147,7 @@ updated: 2026-10-29
 > [!contrast-table]- 比较[[Case Study|案例研究]]（CCS）的三维分析轴体系
 > | 分析轴向 | 比较与考察重点 | 核心操作逻辑 | 典型研究示例 |
 > |---|---|---|---|
-> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；一带一路沿线丝路大学联盟与亚洲大学联盟比较（[[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1698–1702]]）；德、英、芬对 PISA 测评反响的国别吸纳对比（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 28–32]]） |
+> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；一带一路沿线丝路大学联盟与亚洲大学联盟比较（[[Argument_Chou_Demiryol_2024_HE\|Chou & Demiryol, 2024, pp. 1698–1702]]）；德、英、芬对 PISA 测评反响的国别吸纳对比（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 28–32]]）；中国三大跨境高教枢纽的多模式比较（[[Argument_Qu_2024_IJED\|Qu & Dai, 2024, pp. 4–10]]） |
 > | **垂直轴（Vertical Axis）** | 跨越微观、中观与宏观多个尺度考察[[Policy Mobility\|政策流动]]与权力博弈 | 同时关注自上而下的政策渗透与自下而上的协商抵抗，解构[[Pluri-Scalar Governance\|多标度治理]]下的权力损耗 | 追踪国际指标从世行/联合国，经国家教育部、地方学区到课堂教学的层层转译（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]]）；追踪经合组织与欧盟委员会指标生产向下穿透主权国家政策议程的策略性外在化（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 32–35]]） |
 > | **横贯轴（Transversal Axis）** | 历时性追溯现象的历史起源、宏观冲击与长期演化轨迹 | 将当前实践嵌入历史政治经济脉络，考察关键事件（冷战终结、金融危机）对体制的重塑 | 追溯 1990–2018 年间全球金融危机与地缘格局对教育枢纽政策变迁的影响（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 204]]） |
 

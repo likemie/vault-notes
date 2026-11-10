@@ -10,10 +10,10 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/innovation
   - theme/innovation-policy
@@ -102,7 +102,7 @@ updated: 2026-11-10
 > - **地方制度厚度与社会信任资本** 地方行业公会、[[Technology Transfer|技术转移]]中介、信用联盟与地方政府形成的非正式合作惯例，提供抗风险与协同创新缓冲。
 > - **本地大学作为中立公共空间与催化载体** 地方高校作为中立公共空间召集竞争性企业对话，提供定制化技术培训与工程咨询，有别于孤立的专利发明工厂。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
 > - **差异化产业转型路径适配** 区域[[Systems of Innovation|创新系统]]必须精准对接四类产业转型情境（新产业培育、外来产业移植、成熟产业多元化、既有传统产业工艺升级）。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
-> - **全球-地方知识管道连接** 依托高水平跨国高等教育枢纽与国际联合实验室，将全球前沿知识资源直接导入次国家区域创新网络，避免本地网络内卷与技术闭环锁定。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 4, 10)]]
+> - **全球-地方知识管道连接** 依托高水平跨国高等教育枢纽与国际联合实验室，将全球前沿知识资源直接导入次国家区域创新网络，避免本地网络过度内生封闭与技术锁定。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 4, 10)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -204,7 +204,7 @@ updated: 2026-11-10
 > | [[International Education Hubs]] | Concept | 跨国高等教育枢纽，作为全球知识管道嵌入区域创新系统、支撑地方知识经济转型的关键平台。 |
 > | [[Local Innovation Systems Project]] | Fact (Program) | 麻省理工学院主持的跨国区域实证研究，确立了大学适配四类本地产业转型轨迹的分析模型。 |
 > | [[Chris Freeman]] | Person | 演化经济学学者，系统论述次国家下层区域集聚对国家创新体系的微观支撑。 |
-> | [[Richard K. Lester]] | Person | 麻省理工学院教授，主持 LIS 项目，提出大学与本地产业转型路径匹配理论。 |
+> | [[Lester's Typology of University Contributions to Local Industry]] | Theory | 阐明大学在四类差异化产业转型轨迹（新产业培育、产业移植、多元化与成熟升级）中精准适配的理论框架。 |
 
 ---
 
