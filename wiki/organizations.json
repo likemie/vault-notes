@@ -3214,6 +3214,13 @@
         "wiki/facts/russia/Federal Law No. 85-FZ on Enlightenment Activities.md"
       ]
     },
+    "中华人民共和国国务院": {
+      "seen_in": [
+        "wiki/facts/china/Double First-Class Initiative.md",
+        "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md",
+        "wiki/facts/china/Made in China 2025.md"
+      ]
+    },
     "新西兰教育部": {
       "seen_in": [
         "wiki/facts/new-zealand/New Zealand National Standards.md",
@@ -3274,12 +3281,6 @@
       "seen_in": [
         "wiki/facts/us/Elementary and Secondary Education Act of 1965.md",
         "wiki/facts/us/Higher Education Act of 1965.md"
-      ]
-    },
-    "中华人民共和国国务院": {
-      "seen_in": [
-        "wiki/facts/china/Double First-Class Initiative.md",
-        "wiki/facts/china/Made in China 2025.md"
       ]
     },
     "美国司法部（U.S. Department of Justice）": {
@@ -3744,6 +3745,11 @@
         "wiki/facts/china/Hukou System.md"
       ]
     },
+    "中华人民共和国财政部; 中华人民共和国国家发展和改革委员会": {
+      "seen_in": [
+        "wiki/facts/china/Double First-Class Initiative.md"
+      ]
+    },
     "丹麦议会": {
       "seen_in": [
         "wiki/facts/denmark/Danish Public School Reform.md"
@@ -3797,6 +3803,11 @@
     "巴西联邦政府社会发展与消除饥饿部（MDS）": {
       "seen_in": [
         "wiki/facts/brazil/Bolsa Familia.md"
+      ]
+    },
+    "广东省人民政府": {
+      "seen_in": [
+        "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md"
       ]
     },
     "意大利共和国议会（Parlamento Italiano） / 意大利教育部（MIUR）": {
@@ -3967,11 +3978,6 @@
     "西班牙王国政府": {
       "seen_in": [
         "wiki/facts/spain/Moyano Law of 1857.md"
-      ]
-    },
-    "财政部 / 国家发展和改革委员会": {
-      "seen_in": [
-        "wiki/facts/china/Double First-Class Initiative.md"
       ]
     },
     "韩国教育部（Ministry of Education, MOE）": {

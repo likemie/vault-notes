@@ -7,7 +7,7 @@ summary: "加拿大国际高等教育学者，系统界定高等教育国际化�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -58,10 +58,11 @@ related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
-status: completed
+status: active
 created: 2026-05-07
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-30
 > - **理论路径** 开创了[[Knowledge Diplomacy|知识外交]]概念体系，为国际高等教育研究提供了区别于国际关系现实主义权力博弈的规范性解释工具；其[[International Education Hubs|国际教育枢纽]]三类型学成为分析跨境高教空间集聚的基础模型。
 > - **方法路径** 建构了涵盖意图、行动者、原则、模式与活动的五要素[[Analytic Framework|分析框架]]，为质性多[[Case Study|案例研究]]与跨国政策比较提供了可[[Operationalization|操作化]]的判读维度。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 > - **政策路径** 其学术定义广泛进入[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与各国高教主管部门政策[[Document|文献]]，深刻影响了新加坡、马来西亚、阿联酋等国建设区域教育枢纽的战略规划。
-> - **跨国／跨领域传播** 思想在全球南方与发展中国家研究中获得深度引申；中国学者与国际学者运用其框架系统检验“[[Belt and Road Initiative|一带一路]]”多边大学联盟与定向工程人才联合培养的互惠实效。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
+> - **跨国／跨领域传播** 思想在全球南方与发展中国家研究中获得深度引申；学者不仅运用其框架系统检验“[[Belt and Road Initiative|一带一路]]”多边大学联盟与定向工程人才联合培养的互惠实效，更将其教育枢纽三级模型拓展应用于中国等转型大国，揭示地方依托国家特许政策构建单核、多核集群与共享园区等多轨空间形态的实践机制。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 4, 10)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用简·奈特的知识外交五要素分析框架，实证评估三所中国行业特色大学在“一带一路”重点能源与基建中的跨国定向[[Engineering Education|工程教育]]实践。
@@ -127,6 +128,7 @@ updated: 2026-10-30
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 运用简·奈特的国际教育枢纽三级分类模型，系统解构全球[[Geopolitics of Knowledge|知识地缘政治]]格局下国家战略性知识空间的建构逻辑。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用简·奈特的国际教育枢纽模型开展跨国案例对比，同时批判其政策倡导导向在揭示深层[[Geopolitics|地缘政治]]后果方面的局限性。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 援引简·奈特关于知识村与教育枢纽的空间分析，论证全球化时代大学知识流动与国家地缘政治再领土化之间的结构性张力。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 运用简·奈特的国际教育枢纽三级演进模型（学生枢纽、人才枢纽与知识／创新枢纽），实证考察中国长三角、粤港澳大湾区与海南自贸港跨国教育枢纽的多轨空间模式与区域产业协同。
 
 ---
 
@@ -167,5 +169,5 @@ updated: 2026-10-30
 > | [[International Education Hubs]] | 概念 | 开创概念构架，系统提炼学生、人才与知识[[Innovation Hub\|创新枢纽]]的三级分类模型。 |
 > | [[Internationalization of Higher Education]] | 概念 | 提出广为引用的国际化经典操作定义，奠定国际高教政策比较基准。 |
 > | [[Soft Power]] | 概念 | 深入批判软实力的国家利己主义与单向投射局限，确立知识外交的对话边界。 |
-> | [[GATS and Trade in Education Services]] | 政策 | 深入分析跨境教育服务贸易对学术主权与公共善传统的制度冲击。
+> | [[GATS and Trade in Education Services]] | 政策 | 深入分析跨境教育服务贸易对学术主权与公共善传统的制度冲击。 |
 > | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（[[University Alliance of the Silk Road\|UASR]]） | 组织 | 其[[Knowledge Diplomacy\|知识外交]]框架被广泛用于审视该跨国多边大学网络及下属专业工程办学实践。[[Argument_Liu_2025_IndHE\|(Liu et al., 2025, pp. 189–190)]] |

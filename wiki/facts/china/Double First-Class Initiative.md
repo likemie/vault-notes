@@ -13,11 +13,11 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "中华人民共和国国务院 / [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]] / 财政部 / 国家发展和改革委员会"
+issuing_organization: "中华人民共和国国务院; 中华人民共和国教育部; 中华人民共和国财政部; 中华人民共和国国家发展和改革委员会"
 tags:
   - fact/policy
   - region/china
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Document]]"
   - "[[People-to-People Connectivity]]"
   - "[[Academic Freedom]]"
+  - "[[International Education Hubs]]"
 related_theories: []
 related_methods:
   - "[[Critical Discourse Analysis]]"
@@ -54,14 +55,16 @@ related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Confucius Institute]]"
+  - "[[Hainan International Education Innovation Pilot Zone]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-10
 ---
 
 ---
@@ -98,6 +101,7 @@ updated: 2026-10-29
 > - 2015 国务院印发《统筹推进世界一流大学和一流学科建设总体方案》，正式确立“双一流”战略框架。
 > - 2017 三部委正式公布首轮建设高校名单（42 所一流大学建设高校，95 所一流学科建设高校）。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > - 2022 公布第二轮“双一流”建设高校及建设学科名单，全面取消一流大学与一流学科分类，聚焦优势学科建设。
+> - 2024 “双一流”高校深度嵌入国家新一代跨国教育枢纽网络，作为主力机构承接长三角、粤港澳大湾区与海南自贸港的高水平中外合作办学。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
 
 ---
 
@@ -111,6 +115,7 @@ updated: 2026-10-29
 > - **中央战略统筹与超常规资金倾斜** 国家持续增加对高等教育的公共财政投入，从 2016 年的 10,110 亿元大幅扩充至 2020 年的约 14,000 亿元，为尖端实验设备、高薪引才与大型科研攻关提供充裕资金保障。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–82)]]
 > - **聚焦自然科学与工程技术[[Scientific Productivity|科研生产力]]** 强调国际同行评议指标与顶级期刊发文量，推动科研从技术跟踪向原始创新转变，使中国科技发文总量在 2018 年超越美国，并在 2020 年达到 195 万篇。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
 > - **服务[[Public Diplomacy|对外公共外交]]与国际生源汇聚** 依托持续攀升的[[Global Universities Rankings|全球大学排名]]与全英文优势学科，打造面向“[[Belt and Road Initiative|一带一路]]”沿线及东南亚国家的[[Educational Diplomacy|教育外交]]高地，带动在华外国留[[Student Mobility|学生流动]]规模在 2018 年增至 49.2 万人。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 82–83)]]
+> - **牵头布局国家新一代[[International Education Hubs|教育枢纽]]** “双一流”高校（如浙江大学、中国传媒大学、电子科技大学、北京邮电大学等）作为中方主力，与海外世界名校共建长三角国际校区与海南自贸港合作办学机构，成为中国高水平教育对外开放的制度载体。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6–7)]]
 
 ---
 
@@ -138,34 +143,39 @@ updated: 2026-10-29
 >
 > > [!axis] 国家意志行政主导 vs 大学学术自主追求
 > > 各方学者围绕中国特色现代大学制度的治理结构展开理论审视。
-> >
-> > - **外部批判视角** 指出与西方研究型大学追求高度学术自主与去行政化不同，中国大学在制度上深度依附国家政策导向与政府意志，其国际化办学和科研优先领域直接服从大国外交与产业安全战略。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–80)]]
+> > - **外部批判视角** 指出与西方研究型大学追求高度学术自主与去行政化不同，中国大学在制度上依附国家政策导向与政府意志，其国际化办学和科研优先领域直接服从大国外交与产业安全战略。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–80)]]
 > > - **国家发展视角** 强调紧密的国家与大学战略协同能够集中力量办大事，精准攻克关键核心技术瓶颈，为发展中国家探寻自主科技现代化道路提供新型体制模式。
 >
 > > [!axis] 理工科指标突进 vs 人文社科全面均衡
-> > 针对一流学科建设评价指标高度偏向自然科学与工程技术发表的现象产生学术反思。
-> >
-> > - **指标异化担忧** 资源高度向具备量化排位优势的理工科学科倾斜，可能导致人文学科与社会科学在学术生态中面临边缘化与评价尺度趋同风险。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
-> > - **竞争策略辩护** 强调在科技强国建设初期，聚焦关键战略技术和可比国际指标是快速缩小与西方大国科技代差的现实必然选择。
+> > 针对一流学科建设评价指标偏向自然科学与工程技术发表的现象产生学术反思。
+> > - **指标异化担忧** 资源向具备量化排位优势的理工科学科倾斜，可能导致人文学科与社会科学在学术生态中面临边缘化与评价尺度趋同风险。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
+> > - **竞争策略辩护** 强调在科技强国建设初期，聚焦关键战略技术和可比国际指标是快速缩小与西方大国科技代差的现实选择。
 
 ---
 
-> [!entry-map] 相关条目网络
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Research Universities]] | Concept | 双一流建设重点支持与治理重组的核心机构组织形态。 |
-> | [[Soft Power]] | Concept | 国家试图通过提升大学国际排位与学术声誉直接转化的战略资产。 |
-> | [[Educational Diplomacy]] | Concept | 双一流高校面向周边发展中国家输出教育资源与招收留学生的外交职能。 |
-> | [[Public Diplomacy]] | Concept | 高校海外办学分校与孔子学院依托一流学科开展[[People-to-People Connectivity\|民心相通]]的实践载体。 |
-> | [[International Branch Campus]] | Concept | 双一流高校如厦门大学与苏州大学在东南亚设立境外独立校区的制度实践。 |
-> | [[Academic Freedom]] | Concept | 围绕大学深度依附国家大战略导向而引发的大学自主权理论争议。 |
-> | [[Student Mobility]] | Concept | 双一流学科建设直接拉动的沿线国家留学生在华流动与国际化指标。 |
-> | [[Project 211]] | Fact (Program) | 双一流战略整合与重构的早期国家重点大学和学科建设计划。 |
-| [[Project 985]] | Fact (Program) | 双一流战略整合与重构的早期世界一流大学建设计划。 |
-| [[Thousand Talents Program]] | Fact (Program) | 与双一流学科建设深度协同、延揽海外高层次师资团队的国家引才工程。 |
-> | [[Belt and Road Initiative]] | Fact (Program) | 双一流高校定向配置丝路奖学金与共建大学联盟的宏观地缘战略环境。 |
-> | [[Confucius Institute]] | Fact (Program) | 双一流承办大学在海外输出语言教学与文化交流的合作网络。 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统梳理中国高教政策演进，剖析科研扩张与财政投入如何支撑国家教育外交与软实力战略。 |
-> | [[Argument_Woo_2023_HEP\|Woo (2023)]] | Argument | 结合[[Critical Discourse Analysis\|批判话语分析]]，揭示高水平大学在国家对外大战略中充当科技研发与软实力输出的顶层政策工具。 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 考察中国顶尖大学在东南亚跨境办学中展示科技卓越与工程应用能力的协同逻辑。 |
+> | [[Research Universities]] | 概念 | 双一流建设重点支持与治理重组的核心机构组织形态。 |
+> | [[Soft Power]] | 概念 | 国家试图通过提升大学国际排位与学术声誉直接转化的战略资产。 |
+> | [[Educational Diplomacy]] | 概念 | 双一流高校面向周边发展中国家输出教育资源与招收留学生的外交职能。 |
+> | [[Public Diplomacy]] | 概念 | 高校海外办学分校与孔子学院依托一流学科开展[[People-to-People Connectivity\|民心相通]]的实践载体。 |
+> | [[International Branch Campus]] | 概念 | 双一流高校如厦门大学与苏州大学在东南亚设立境外独立校区的制度实践。 |
+> | [[Academic Freedom]] | 概念 | 围绕大学深度服务国家大战略导向而引发的学术自主权理论审视。 |
+> | [[Student Mobility]] | 概念 | 双一流学科建设直接拉动的沿线国家留学生在华流动与国际化指标。 |
+> | [[Project 211]] | 政策 | 双一流战略整合与重构的早期国家重点大学和学科建设计划。 |
+> | [[Project 985]] | 政策 | 双一流战略整合与重构的早期世界一流大学建设计划。 |
+> | [[Thousand Talents Program]] | 政策 | 与双一流学科建设深度协同、延揽海外高层次师资团队的国家引才工程。 |
+> | [[Belt and Road Initiative]] | 政策 | 双一流高校定向配置丝路奖学金与共建大学联盟的宏观地缘战略环境。 |
+> | [[Confucius Institute]] | 政策 | 双一流承办大学在海外输出语言教学与文化交流的合作网络。 |
+> | [[International Education Hubs]] | 概念 | 双一流高校作为中方主体深度参与构建的新一代跨境高教枢纽平台。 |
+> | [[Hainan International Education Innovation Pilot Zone]] | 政策 | 国内双一流高校与境外名校联合开展中外合作办学探索的自贸港先导区。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 系统梳理中国高教政策演进，剖析科研扩张与财政投入如何支撑国家教育外交与软实力战略。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合[[Critical Discourse Analysis|批判话语分析]]，揭示高水平大学在国家对外大战略中充当科技研发与软实力输出的顶层政策工具。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 考察中国顶尖大学在东南亚跨境办学中展示科技卓越与工程应用能力的协同逻辑。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 阐明中国高等教育规模化与“双一流”战略如何为新一代国际教育枢纽（长三角海宁、大湾区、海南）奠定资源基底与主力合作阵容。
