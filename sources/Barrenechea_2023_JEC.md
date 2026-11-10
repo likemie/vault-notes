@@ -1,6 +1,7 @@
 ---
 citation: "Barrenechea, I., Beech, J., & Rivas, A. (2023). How can education systems improve? A systematic literature review. Journal of Educational Change, 24(3), 479–499. https://doi.org/10.1007/s10833-022-09453-7"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Barrenechea_2023_JEC]]"
 processed_date: 2026-11-10
 ---
 
