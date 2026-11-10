@@ -37,6 +37,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
+  - "[[Effective Teaching]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Inquiry Cycle]]"
@@ -59,6 +60,7 @@ related_facts:
   - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -96,7 +98,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 项目推进历程
 > - **2003–2010 — 奠基与四大旗舰[[Systematic Review\|系统综述]]产出期** 新西兰教育部陆续委托并发布多卷划时代的 BES 迭代专著：
->   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；
+>   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；实证测算出学生学业成就方差中高达 59% 源于校内教师与班级间差异（远超校际方差），并援引 Hanushek（1992）指出优秀教师一学年可带来 1.5 年的年级增量，而低效教师仅能带来 0.5 年增量；该报告直接奠定了新西兰 2003 年《优质教学战略》的实证基石，促使改革视线由 1989 年《明日学校》的宏观行政分权全面转向微观课堂师生互动。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
 >   - **社区与家庭影响综合（Biddulph et al., 2003）** 剖析家庭-学校-社区协同育人对低收入弱势群体的补偿机制；
 >   - **教师专业学习与发展综合（Timperley et al., 2007）** 确立基于[[Practitioner Enquiry\|教师探究]]与[[Knowledge Building Theory|知识建构]]循环（Teacher [[Inquiry Cycle]]）的专业发展模型；
 >   - **[[School Leadership\|学校领导力]]与学生结果综合（Robinson et al., 2009）** 实证测算出教学型领导（[[Instructional Leadership]]）对学生学业增值的显著[[Effect Size\|效应量]]（$d = 0.42$），成为全球教育领导力奠基[[Document|文献]]。
@@ -120,10 +122,12 @@ updated: 2026-10-30
 
 > [!finding-cards] 核心成效与学术贡献
 > - **开创部委嵌入式中介范例** 证实教育部内部设立专门研发单元能够极大缩短政策决策与学术证据的时空延迟，确保国家战略直接汲取全球实证智慧([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])。
+> - **揭示校内教学方差与驱动政策微观转向** Alton-Lee（2003）通过系统综合证实，学生学业成就方差中高达 59% 源自校内教师与班级差异，打破了将学业差距归咎于校际差异的迷思；为新西兰教育部 2003 年启动聚焦课堂师生协同与有效教学的国家战略提供了权威的循证支点。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
 > - **引领[[International Education\|国际教育]]领导力与专业学习实证标准** Robinson et al. (2009) 的领导力[[Meta-analysis\|元分析]]与海伦·廷珀利（Helen Timperley et al., 2007）的教师专业学习框架被[[OECD\|经合组织]]及英美澳等国广泛引为国家标准，极大提升了新西兰教育研究的国际[[Discourse|话语]]权。
 > - **兼顾科学严谨与文化多元性** 成功验证了[[Systematic Review\|系统综述]]可以同时兼纳量化[[Effect Size\|效应量]]与质性文化叙事，为原住民国家探索非殖民化[[Evidence-Based Education\|循证教育]]提供了制度示范。
 
 > [!stat-cards]- 标志性产出与规模指标
+> - **59%** Alton-Lee 测算的学业成就方差中归属于校内教师与班级质量差异的份额[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 121)]]
 > - **4** 国际公认的划时代教育迭代综合专著（部；优质教学、家校合作、教师发展、[[School Leadership\|学校领导力]]）
 > - **0.42** Robinson et al. 测算的教学型领导对学生学习成果的平均效应量（$d$）
 >

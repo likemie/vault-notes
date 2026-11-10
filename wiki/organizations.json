@@ -3242,6 +3242,12 @@
         "wiki/facts/china/Made in China 2025.md"
       ]
     },
+    "新西兰教育部": {
+      "seen_in": [
+        "wiki/facts/new-zealand/New Zealand National Standards.md",
+        "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md"
+      ]
+    },
     "美国司法部（U.S. Department of Justice）": {
       "seen_in": [
         "wiki/facts/us/1956 AT&T Consent Decree.md",
@@ -3292,6 +3298,11 @@
     "Association of Public and Land-grant Universities (APLU)": {
       "seen_in": [
         "wiki/facts/us/Public Impact-Focused Research.md"
+      ]
+    },
+    "Australian Curriculum, Assessment and Reporting Authority": {
+      "seen_in": [
+        "wiki/facts/australia/Australian Curriculum.md"
       ]
     },
     "Australian Government Productivity Commission": {
@@ -3777,11 +3788,6 @@
     "新西兰政府后义务教育与培训审查委员会": {
       "seen_in": [
         "wiki/facts/new-zealand/Learning for Life Report.md"
-      ]
-    },
-    "新西兰教育部": {
-      "seen_in": [
-        "wiki/facts/new-zealand/New Zealand National Standards.md"
       ]
     },
     "新西兰议会教育与科学选择委员会（Education and Science Select Committee）": {
