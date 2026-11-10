@@ -33830,6 +33830,15 @@
     ]
   },
   {
+    "title": "Iveta Silova",
+    "type": "person",
+    "path": "wiki/persons/us/Iveta Silova.md",
+    "aliases": [
+      "Silova, I.",
+      "伊薇塔·西洛娃"
+    ]
+  },
+  {
     "title": "J. C. R. Licklider",
     "type": "person",
     "path": "wiki/persons/us/J. C. R. Licklider.md",
@@ -39366,6 +39375,19 @@
     "subtype": "event"
   },
   {
+    "title": "Transforming Education Summit 2022",
+    "type": "fact",
+    "path": "wiki/facts/global/Transforming Education Summit 2022.md",
+    "aliases": [
+      "TES 2022",
+      "2022年联合国教育变革峰会",
+      "教育变革峰会",
+      "Transforming Education Summit",
+      "联合国教育变革峰会"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "World Bank Education Sector Policy Paper 1980",
     "type": "fact",
     "path": "wiki/facts/global/World Bank Education Sector Policy Paper 1980.md",
@@ -40268,6 +40290,19 @@
       "琼泰恩宣言",
       "Jomtien Declaration",
       "World Declaration on Education for All: Meeting Basic Learning Needs"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "World Development Report 2018",
+    "type": "fact",
+    "path": "wiki/facts/global/World Development Report 2018.md",
+    "aliases": [
+      "WDR 2018",
+      "2018年世界发展报告",
+      "学习以实现教育的承诺",
+      "Learning to Realize Education's Promise",
+      "World Development Report 2018: Learning to Realize Education's Promise"
     ],
     "subtype": "policy"
   },

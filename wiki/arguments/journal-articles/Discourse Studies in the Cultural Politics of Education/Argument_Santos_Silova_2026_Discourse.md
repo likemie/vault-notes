@@ -62,6 +62,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[UNICEF]]"
@@ -70,6 +71,8 @@ related_facts:
   - "[[Education for All]]"
   - "[[Millennium Development Goals]]"
   - "[[Global Education Monitoring Report]]"
+  - "[[World Development Report 2018]]"
+  - "[[Transforming Education Summit 2022]]"
 related_arguments: []
 sources:
   - "[[sources/Santos_Silova_2026_Discourse|Santos_Silova_2026_Discourse]]"
@@ -83,7 +86,7 @@ title: "Argument_Santos_Silova_2026_Discourse"
 argument_key: "Argument_Santos_Silova_2026_Discourse"
 argument_display_title: "From Finland to the world: Interrogating the global learning crisis"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -113,7 +116,7 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > | **[[Contributory Expertise\|贡献性专业知识]]**<br>Contributory Expertise | 区分理论规范与实践默会技能，用于锚定芬兰专家兼具机构内部实务与芬兰高信任教育传统的独特认识论位置。 |
 
 > [!warrant]- 理论如何支撑论证
-> 危机认识论搭建了从政策修辞通往权力审视的分析桥梁，穿透有学无习的表层赤字诊断，揭示国际组织将复杂政治经济问题窄化为技术漏洞的话语策略；去殖民视角则进一步将这种技术主义追溯至现代性与殖民性的权力共谋，解释了为何由西方主导的发展干预必然伴随救世主情结并剥夺受援国能动性；贡献性专业知识则为挖掘芬兰专家口述材料的批判深度提供了合法性基础。
+> 危机认识论搭建了从政策修辞通往权力审视的分析桥梁，穿透有学无习的表层赤字诊断，揭示国际组织将复杂政治经济问题窄化为技术漏洞的话语策略；去殖民视角（延续了[[Iveta Silova|伊薇塔·西洛娃]]在去殖民地缘知识政治与比较教育认识论批判中的一贯进路）则进一步将这种技术主义追溯至现代性与殖民性的权力共谋，解释了为何由西方主导的发展干预必然伴随救世主情结并剥夺受援国能动性；贡献性专业知识则为挖掘芬兰专家口述材料的批判深度提供了合法性基础。
 
 ---
 
@@ -174,8 +177,8 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > - **1957 年** 苏联发射首颗人造地球卫星（[[Sputnik Shock 1957|Sputnik]] 1）促使冷战地缘博弈将教育绩效同国家安全紧密绑定，人道主义理想逐步退让于技术官僚目标。
 > - **1967–1968 年** [[Philip H. Coombs|菲利普·库姆斯]]（Coombs, 1968）在弗吉尼亚州威廉斯堡召集世界教育危机国际会议，随后出版《世界教育危机：系统分析》（*The World Educational Crisis: A Systems Analysis*），将危机认知与跨国协调治理正式制度化。
 > - **1990 年与 2000 年** 宗甸（Jomtien）[[Education for All|全民教育]]大会与达喀尔世界教育论坛在[[Millennium Development Goals|千年发展目标]]（Millennium Development Goals, MDGs）推动下全力追求普遍初等教育入学率。
-> - **2013–2019 年** 伴随就学人口暴增，联合国教科文组织《[[Global Education Monitoring Report|全民教育全球监测报告]] 2013/2014》正式启用全球学习危机概念，世界银行《2018 年世界发展报告》确立有就学无学习断言，并于 2019 年联合推出学习贫困指标。
-> - **2022 年** 联合国教育变革峰会上，古特雷斯再次警示全球教育深陷危机并难以适应 21 世纪需求，使危机叙事持续充当调配资源与启动外部干预的关键政策工具。
+> - **2013–2019 年** 伴随就学人口暴增，联合国教科文组织《[[Global Education Monitoring Report|全民教育全球监测报告]] 2013/2014》正式启用全球学习危机概念，世界银行《[[World Development Report 2018|2018 年世界发展报告]]》确立有就学无学习断言，并于 2019 年联合推出学习贫困指标。
+> - **2022 年** 在[[Transforming Education Summit 2022|联合国教育变革峰会]]上，古特雷斯再次警示全球教育深陷危机并难以适应 21 世纪需求，使危机叙事持续充当调配资源与启动外部干预的关键政策工具。
 
 ---
 

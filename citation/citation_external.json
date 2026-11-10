@@ -26022,6 +26022,8 @@
     "World Bank, 2018": "World Bank, 2018",
     "World Bank, 2023": "World Bank, 2023",
     "World Bank, 2024": "World Bank, 2024",
+    "World Bank’s (2018)": "World Bank’s, 2018",
+    "World Bank’s, 2018": "World Bank’s, 2018",
     "World Pharma News (2017)": "World Pharma News, 2017",
     "World Pharma News, 2017": "World Pharma News, 2017",
     "Worrall (2006)": "Worrall, 2006",
@@ -27367,6 +27369,10 @@
     "格雷斯, 2010": "格雷斯, 2010",
     "桑德尔 (1998)": "桑德尔, 1998",
     "桑德尔, 1998": "桑德尔, 1998",
+    "桑托斯与西洛娃等批判学者 (2026)": "桑托斯与西洛娃等批判学者, 2026",
+    "桑托斯与西洛娃等批判学者, 2026": "桑托斯与西洛娃等批判学者, 2026",
+    "桑托斯与西洛娃等批判视角 (2026)": "桑托斯与西洛娃等批判视角, 2026",
+    "桑托斯与西洛娃等批判视角, 2026": "桑托斯与西洛娃等批判视角, 2026",
     "桑迪福德 (1918)": "桑迪福德, 1918",
     "桑迪福德, 1918": "桑迪福德, 1918",
     "欧盟 (2009)": "欧盟, 2009",
@@ -27558,6 +27564,8 @@
     "袁振国, 2017": "袁振国, 2017",
     "被马奥尼与希伦 (2009)": "被马奥尼与希伦, 2009",
     "被马奥尼与希伦, 2009": "被马奥尼与希伦, 2009",
+    "西洛娃与去殖民学者 (2026)": "西洛娃与去殖民学者, 2026",
+    "西洛娃与去殖民学者, 2026": "西洛娃与去殖民学者, 2026",
     "詹姆逊 (1991)": "詹姆逊, 1991",
     "詹姆逊, 1991": "詹姆逊, 1991",
     "译注本 (1968)": "译注本, 1968",
@@ -213694,7 +213702,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md",
-        "wiki/concepts/political-economy-geopolitics/Crisis Epistemology.md"
+        "wiki/concepts/political-economy-geopolitics/Crisis Epistemology.md",
+        "wiki/persons/us/Iveta Silova.md"
       ],
       "title": "Against crisis epistemology"
     },
@@ -216748,6 +216757,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
         "wiki/concepts/educational-policy-reform/Smart Buys.md"
+      ],
+      "title": ""
+    },
+    "World Bank’s, 2018": {
+      "aliases": [
+        "World Bank’s, 2018",
+        "World Bank’s (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "World Bank’s, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/World Development Report 2018.md"
       ],
       "title": ""
     },
@@ -226302,6 +226326,36 @@
       ],
       "title": ""
     },
+    "桑托斯与西洛娃等批判学者, 2026": {
+      "aliases": [
+        "桑托斯与西洛娃等批判学者, 2026",
+        "桑托斯与西洛娃等批判学者 (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "桑托斯与西洛娃等批判学者, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/World Development Report 2018.md"
+      ],
+      "title": ""
+    },
+    "桑托斯与西洛娃等批判视角, 2026": {
+      "aliases": [
+        "桑托斯与西洛娃等批判视角, 2026",
+        "桑托斯与西洛娃等批判视角 (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "桑托斯与西洛娃等批判视角, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/Transforming Education Summit 2022.md"
+      ],
+      "title": ""
+    },
     "桑迪福德, 1918": {
       "aliases": [
         "桑迪福德, 1918",
@@ -227721,6 +227775,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/Jacob S. Hacker.md"
+      ],
+      "title": ""
+    },
+    "西洛娃与去殖民学者, 2026": {
+      "aliases": [
+        "西洛娃与去殖民学者, 2026",
+        "西洛娃与去殖民学者 (2026)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "西洛娃与去殖民学者, 2026"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Iveta Silova.md"
       ],
       "title": ""
     },

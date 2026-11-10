@@ -1,0 +1,656 @@
+=== PAGE 1 ===
+Anna Sarbiewska*
+ https://orcid.org/0000-0002-9429-8228
+independent researcher
+https://doi.org/10.25312/2083-2923.16/2019_10as
+Visible Learning and educational policies 
+in New Zealand and Australia
+Abstract: This article analyses the theoretical background of changes that have taken 
+place over the last two decades in the Australian and New Zealander educational sys-
+tems. That background has two elements: first, understanding of pedagogical activities 
+performed by the teacher and students in the educational process has been modified, sec-
+ond, Hattie’s concept of Visible Learning has gained a following. The text consists of four 
+sections. The first section presents a reconstruction of the traditional model of perceiving 
+the actions of teaching and learning. In the second section an insight into the foundations 
+of an innovative, evidence-based approach to education is provided. The following sec-
+tion describes the concept of Visible Learning in relation to the main determining factors 
+of education. Finally, the last section describes some of innovations introduced in New 
+Zealand’s and Australia’s educational systems which, it is argued, raise the effectiveness of 
+educational practices there.
+Keywords: traditional education concept, evidence-based teaching, Visible Learning, ed-
+ucation, system of education, New Zealand, Australia.
+Introduction
+Education and its management system require constant reform. This is not only 
+due to the changing political situation, as one might think, looking at the reality in 
+Poland, but also due to the problems that the public education system must face. Out 
+* Anna Sarbiewska – MA in English Philology (UWM 2005). Teacher at the Jan III Sobieski 
+Secondary School in Szczytno since 2003. Teacher of pedagogical practice (Zespół Kolegiów 
+Nauczycielskich in Szczytno 2003–2009), English language teacher (ZKN in Szczytno 2005–2008), 
+chartered teacher, secondary school-leaving and eighth-grade-leaving examiner (OKE in Łomża). 
+She was awarded the Medal of the National Education Commission (2017) and distinction in British 
+Alumni Society “Teacher of the Y ear 2016” competition. In her research she focuses on the culture of 
+education functioning in Polish schools, the possibilities of its modification, teaching and learning 
+activities and their correlation; e-mail address: anna.sarbiewska@loszczytno.edu.pl.
+=== PAGE 2 ===
+118
+Anna Sarbiewska
+of many problems, one of the most important is guaranteeing students the conditions 
+for real learning at school, and not just spending time (many years!) more or less vol-
+untarily in it. This task forms the basis of public legitimacy of the education system 
+and the school as an institutionalized space for teaching and learning. Understanding 
+this issue should also be at the heart of decisions regarding education reforms. The 
+changes that have been introduced for many decades in New Zealand and Austra-
+lia prove, in my opinion, the raising public awareness, what is the main problem of 
+education and the search for ways to solve it. The starting point of the longstand-
+ing changes in the 1980s was the focus on insufficient use of educational research 
+data. Pedagogues and researchers recognised shortcomings in ‘using a combination of 
+privileged and tacit knowledge of the context, political savvy, professional training and 
+logical analysis. Data played almost no part in decisions’.
+1 New Zealand and Australia 
+stopped omitting research and data and started to base education policy on the results 
+of educational research. Policy makers and educators reviewed the existing way of 
+thinking about the tasks of the education system and the whole attention was directed 
+to education and its quality derived from research. In 2003 New Zealand’s Education 
+Minister, Trevor Mallard put a new emphasis on quality teaching and said it would 
+be a priority in his programme to improve student achievement. Nowadays all minor 
+and major decisions at school or government level are taken after in-depth analyses 
+of facts and data received from education research. I believe that tracing the processes 
+that took place in Australia and New Zealand will benefit us to think about Polish 
+education, its strengths and weaknesses.
+2
+In this article I will present changes in the education system not by analysing par-
+ticular education programmes but by referring to two models of teaching and learn-
+ing – a traditional and modified. This is due to my interest in the essence of change 
+and not particular modifications which took place in New Zealand and Australia. In 
+the first section I will sketch a traditional model that can be easily compared to the 
+pre-reform period. The following section provides an insight into foundations of an 
+innovative evidence-based approach to education. The third part of the article sheds 
+light on factual constituents of education process and their interaction according to 
+the modified teaching and learning model. The fourth part presents New Zealander 
+and Australian methods of education improvement by integrating Visible Learning 
+with the system of education. Conclusions illustrate ideas on how Poland may follow 
+effective and proven education practices.
+1 L. Earl, S. Kat, Leading Schools in a Data-Rich World, https://www.researchgate.net/publica-
+tion/252669674_Leading_Schools_in_a_Data-Rich_World.
+2 D. Klus-Stańska, Dlaczego szkolna kultura dydaktyczna się nie zmienia, “Studia Pedagogiczne” 
+2011, t. LXIV , pp. 43–50. 
+=== PAGE 3 ===
+119
+Visible Learning and educational policies in New Zealand and Australia
+1. Traditional understanding of education
+I suggest looking at the changes in New Zealand and Australia mentioned in 
+the introduction through the prism of traditional model of education. Traditionally 
+teaching is perceived as a process planned outside the school by policy makers and 
+carried out in the same way by all the schools. The main aim of educators in this mod-
+el is to prepare students for external exams so that they obtain high results. Schools 
+compete with each other and fight for the best position in ratings, which are later pub-
+lished in newspapers and widely discussed in the media. According to Geoff Masters, 
+Chief Executive of the Australian Council for Educational Research, teaching in the 
+pre-reform was based on
+[…] the delivery of the appropriate year-level curriculum to all students. Under 
+this view, the role of teachers is to deliver the relevant curriculum; the job of 
+students is to learn what teachers teach; and the role of assessment is to estab-
+lish how well students have learnt what teachers have taught and to grade them 
+accordingly.
+3
+The process of schooling is simplified to an assumption that ‘teaching’ equals 
+‘learning’ . Dariusz Stępkowski, following the German pedagogue Dietrich Benner, 
+points out that such traditional understanding of education as ‘forming’ , ‘shaping’ or 
+‘bending’ can be well illustrated by the following figure of the didactic triangle in the 
+classic version.4
+Figure 1. Didactic triangle in the classic version
+Source: D. Stępkowski, Kształcenie jako dobro pedagogiczne i źródło nierówności edukacyjnej (in print).
+The ‘Curriculum’ plays the key role in the above-mentioned construction. It fo-
+cuses on the Teacher’s activity – ‘teaching’ , and the Learner’s – ‘learning’ . According to 
+this mapping, education is understood as a transfer of knowledge and skills between 
+the person who has them and the person who should master them. The action ‘edu-
+3 G. Masters, The Role Of Evidence In Teaching And Learning, https://www.teachermagazine.
+com.au/columnists/geoff-masters/the-role-of-evidence-in-teaching-and-learning.
+4 D. Stępkowski, Kształcenie jako dobro pedagogiczne i źródło nierówności edukacyjnej (in 
+print).
+=== PAGE 4 ===
+120
+Anna Sarbiewska
+cate’ creates a separate kind of pedagogical interactions5, which are loosely connected 
+with the concepts prevailing in education – teaching and learning, or are not connect-
+ed with them at all. The above structure presents why in the traditional model of ed-
+ucation the concept of schooling is divided into two actions: teaching and educating. 
+‘Educating’ is limited to the moral sphere or gaining good manners.
+By looking at New Zealand’s system of education through the prism of the model 
+presented above, we can understand what changes have occurred in the transforma-
+tions that took place in 1989–1999. It was not yet the period of reforming the edu-
+cational system on the basis of research approach, but the focus was rather put on 
+administrative modifications. At that time education was perceived as a crucial factor 
+of economic growth and social development.
+6 The report Ten years on: How schools 
+view educational reform presents principals’ , trustees’ , parents’ , and teachers’ opinions 
+about the impact of the reforms. Some of the main findings seem to be rather nega-
+tive: 87% of principals thought government funding was inadequate to meet school 
+needs, rising workload and paperwork, longer working hours, more severe competi-
+tion between schools, inequality in quality education. 7
+2. An innovative evidence-based revision of education
+The weaknesses of the reform movement mentioned above became an incentive to 
+modify thinking about education and the traditional model required a deeper reform. 
+That became the starting point for developing a new approach known as evidence-based 
+approach. At that point it is worth explaining the term ‘evidence’ and its source. 
+The meaning of the evidence-based approach can be explained by referring to 
+Philip Davies, who indicates the relationship of this approach with the field of medi-
+cine (identifying and applying good practices). As an example, Davies presents Uni-
+versity of Oxford Master’s programme in Evidence-Based Health Care. He believes its 
+central feature is that students learn by attempting to solve clinical and population- 
+-based problems that they bring to the course. This approach to learning, and teach-
+ing, is explicitly based on the problem-solving, self-directed model of adult education.
+ 
+8 It means that in order to treat a patient, medical practitioners need to take into ac-
+5 D. Benner, John Dewey, a Modern Thinker: On Education (as Bildung and Erziehung) and 
+Democracy (as a Political System and a Mode of Associated Living), [in:] L. Waks, A. English (eds.), 
+John Dewey’s Democracy and Education: A Centennial Handbook, Cambridge University Press, 
+Cambridge 2017, p. 265.
+6 G. Hawke, Education Reform: the New Zealand experience, pp. 3–4, https://www.researchgate.
+net/publication/228585086_Education_reform_the_New_Zealand_experience.
+7 C. Wylie, Ten years on: How schools view educational reform, https://www.nzcer.org.nz/re-
+search/publications/ten-years-how-schools-view-educational-reform.
+  8 P . Davies, What is Evidence-Based Education, “British Journal of Educational Studies” 1999, 
+vol. 47, no. 2, p. 110.
+=== PAGE 5 ===
+121
+Visible Learning and educational policies in New Zealand and Australia
+count all the best available evidence but also use multiple forms and sources of those 
+evidence. Alongside using the evidence from academic enquiries doctors collect and 
+use data such as patient’s histories or they set additional control tests. 
+It is then no surprise that the approach has inspired some academics to transfer 
+good practice from medicine into education. Among many researchers who were try-
+ing to make use of the data was John Hattie who presented his findings in the form of 
+Visible Learning concept.
+Hattie presented his concept of Visible Learning in a book of the same name.9 These 
+are research synthesises results from 1500 meta-analyses of 90,000 studies involving 
+300 million students into what works best in education presents multiple attributes that 
+affect student learning. Deeper analyses of those influences on student achievement 
+show the importance of both the student and the teacher in achieving objectives. 
+To determine the impact of teaching and learning activities on the achieved effect, 
+Hattie developed a measure – the size of the effect. It is the difference between the av-
+erage of the effects of the same group studied before and after the intervention or the 
+difference between the average of the effects in the test group and the control group 
+(without the intervention tested) divided by the standard deviation or the measure of 
+dispersion (the measure of random changes). It is a number which has both positive 
+and negative values. Hattie distinguished its 4 ranges: below 0.0 (negative) Decrease 
+achievement; from 0.0 to 0.15 (low) What students could achieve without schooling; 
+from 0.15 to 0.4 (medium) Typical effects of teachers on students that can be accom-
+plished in a year of teaching; from 0.4 and above (high) Zone of desired effects. To 
+illustrate the concept I will present one activity dependent on a teacher and a student 
+from each area e.g. Negative effect: Retention (–0.16) Television (–0.18); Low effect: 
+Reacher subject matter knowledge (0.09) Diet (0.12); Medium effect: Homework 
+(0.29) Personality (0.19); High effect: Teacher clarity (0.75) Self-report grades (1.44).
+10
+The proposed concept has met two types of criticism. On the one hand, the crit-
+icism affected the research methodology – calculating the size of the effect ‘Funda -
+mentally, Hattie’s method is not statistically sophisticated and can be summarized as 
+calculating averages and standard deviations, the latter of which he does not really use’.
+11 
+On the other hand, the Visible Learning theory itself has become the subject of crit-
+icism e.g. ’ it belongs to the radical constructivist paradigm therefore the problems of 
+constructivism is directly connected with Hattie’s concept of teaching, which results 
+in a double breakdown of the essence of teaching’ .12 Despite criticism of Hattie’s Vis-
+  9 J. Hattie, Visible Learning, Routledge, New Y ork 2008.
+10 Ibidem.
+11 P . J. Bergeron, How to engage in pseudoscience with real data: a criticism of John Hattie’s 
+arguments in Visible Learning from the perspective of a statistician, https://mje.mcgill.ca/article/
+view/9475/7229.
+12 T. A. Rømer, A Critique of John Hattie’s Theory of Visible Learning, “Educational Philosophy 
+and Theory” 2019, vol. 51, no. 6, pp. 587–598.
+=== PAGE 6 ===
+122
+Anna Sarbiewska
+ible Learning theory, the quest for justification of improving the school system, in 
+particular teaching and learning, remains a current task. The change that has been 
+made thanks to evidence-based approach should be continued in order to find better 
+solutions between teaching and learning, which I suppose is the heart of the matter.
+3. A new perspective on education
+I believe that despite criticism Hattie’s Visible Learning theory places his approach 
+appropriately in the modified model of thinking about the relationship between 
+teaching and learning and harmonizes with Benner’s and Stępkowski’s understanding 
+of education. The synchronization of a student’s and a teacher’s interactions create 
+real education. Both participants of pedagogical action are needed and have separate 
+activities to perform – one teaching, the other one learning. The introduction of har-
+mony or synergy in these activities is the task of school education. It is also the key to 
+success in education.
+This concept where both activities equally contribute to education is well depict-
+ed by Dietrich Benner in the form of a modified didactic triangle.
+13 The following 
+figure presented in Figure 2 is a graphical representation of Benner’s proposal.
+ 
+Figure 2. Modified didactic triangle
+Source: D. Benner, Allgemeine Pädagogik und Sonderpädagogik. Überlegungen zum Verhältnis von Inklusion und 
+Exklusion aus der Sicht Dreier Kausalitäten in Erziehungs- und Bildungsprozessen, “Człowiek – Niepełnosprawność – 
+Społeczeństwo” 2018, vol. 4(42), p. 9.
+Although the position of participants of the didactic situation – the ‘Teacher’ and 
+the ‘Learner’ – is the same as expressed in Figure 1, the arrangement of the activities 
+performed by them in relation to ‘Curriculum’ is fundamentally different. It is worth 
+remembering here that in the traditional system of education the ‘Curriculum’ is the 
+object of an exchange between the ‘Teacher’ and the ‘Learner’ . In the new concept of 
+13 D. Benner, Allgemeine Pädagogik und Sonderpädagogik. Űberlegungen zum Verhältnis von 
+Inklusion und Exklusion aus der Sicht Dreiser Kausalitäten in Erziehungs- und Bildungsprozessen, 
+“Człowiek – Niepełnosprawność – Społeczeństwo” 2018, vol. 4(42).
+=== PAGE 7 ===
+123
+Visible Learning and educational policies in New Zealand and Australia
+education (the same as in evidence-based education), however, it is the goal of per -
+forming the activities of ‘learn/teach’ . The activities ‘teach/educate’ coming from the 
+‘Teacher’ side are aimed at the area marked with the circle in which they meet the 
+‘Student’s’ activities.
+The above considerations on teaching and learning may support my reconstruc-
+tion of the way school education and its system have changed in Australia and New 
+Zealand. To confirm that view, I would like to draw one’s attention to a bottom-up 
+movement that has been triggered by the search for a better teaching/learning mod-
+el. In this context, the undoubted merit of Hatti’s Visible Learning theory is the en-
+couragement to reflect and to change school practice – it is sort of the third face of 
+Visible Learning. In this part, a bottom-up change in the way of thinking about the 
+relationship between teaching and learning that is taking place, regardless of Hatti’s 
+theory and book, can be illustrated by the results that both New Zealand and Austra-
+lia achieve in the PISA study.
+ In 2001 the Organization for Economic Cooperation and Development (OECD) 
+published the first Programme for International Student Achievement (PISA) results of 
+15-year-olds’ achievement in reading literacy in OECD countries. The test was con-
+ducted among 265 thousand students from 32 countries. The countries which re-
+ceived results at ‘High quality and Low equity’ level were: Finland, Canada, Ireland, 
+Korea, Japan, Sweden, Austria and Iceland. The countries which received results at 
+‘High quality and High equity’ level were: New Zealand, Australia, Belgium, Norway, 
+United Kingdom, United States. The countries which received results at ‘Low quality 
+and High equity’ level were: Czech Republic, Spain, Hungary, Mexico. The countries 
+which received results at ‘Low quality and Low equity’ level were: Poland, Greece, 
+Portugal, Luxembourg, Denmark, Switzerland, Germany.
+It is clear that PISA is being criticised for e.g.
+underestimating the margin of error on the scores provided by the OECD, rank-
+ing of countries from best to worst what is more open to interpretation than 
+one would understand from OECD analyses. To resolve this issue, the OECD 
+should provide PISA users with a structured sensitivity analysis that takes all 
+the variables in the ranking into account.
+14
+The interesting fact in the view of the above model of the relationship between 
+teaching and learning is that both New Zealand and Australia had high achievements, 
+but achievement disparities were quite wide (High Average and Large Variance). This 
+means that despite the reform movement in the education system of both countries, 
+prevailed thinking that according to a traditional education model the external fac-
+tors not relationship between a teacher and a student is in the center of attention. 
+14 A. Saltelli, The International PISA tests show how evidence-based policy can go wrong, 
+https://theconversation.com/international-pisa-tests-show-how-evidence-based-policy-can-go-
+wrong-77847.
+=== PAGE 8 ===
+124
+Anna Sarbiewska
+When looking for the reasons of this situation, it is worth to pay attention to the 
+report from 2004 Using Best Evidence Syntheses to Assist in Making a Bigger Difference 
+for Diverse Learners prepared by New Zealand’s Ministry of Education explains that
+for New Zealand, such variance is predominantly within-school variance rather 
+than between-school variance, suggesting an important role for New Zealand 
+principals in both recognizing excellence within their schools, and building up 
+the quality of teaching across the school.
+15
+As it turns out from the quote, the reasons of the above differences in the quality 
+of education were noticed both in the work of a teacher and school. In other words 
+the same schools educate students who gain really high scores in external tests and 
+students who receive poor results. Therefore, neither the government nor the system 
+of education but individual schools and teachers seem to have the biggest impact and 
+are responsible for effective education.16
+The focus both in Australia and New Zealand has shifted in recent years from 
+pointing at influences of the home, the structures of schools, investing money into 
+school buildings, greater use of modern technologies and creating new examinations.17 
+The above valid considerations lead to seeking better ways of teachers’ and schools’ 
+functioning and sharing their experiences. Examples of activities in this area will be 
+presented below.
+The vital areas which are nowadays undergoing constant improvements include,  
+among others: implementing a variety of research-based strategies and approaches 
+to improve learning
+18, effective collaboration within and between schools 19, devel-
+oping students’ features of leadership and moral courage20, developing students’ fea-
+tures of confidence and creativity 21, review and improvement of curriculum. 22 The 
+interventions in those areas are student centred, tailored exactly to specific school 
+requirements and all concern two main participants of education process: a learner 
+and a teacher. 
+15 A. Alton-Lee, Using Best Evidence Syntheses to Assist in Making a Bigger Difference for Diverse 
+Learners, p. 3, http://www.leadspace.govt.nz/leadership/leading_learning/synthesis.php.
+16 Ibidem.
+17 J. Hattie, Distinguishing Expert Teachers from Novice and Experienced Teachers, p. 2, https://
+research.acer.edu.au/cgi/viewcontent.cgi?article=1003&context=research_conference_2003.
+18 Keeping children engaged and achieving in reading, https://www.ero.govt.nz/assets/Uploads/
+ERO-AoG-17985-Teaching-strategies-that-work-Reading-v3.pdf.
+19 Collaboration to improve learner outcomes. What does the evidence tell us about what works, 
+https://www.ero.govt.nz/assets/Uploads/Collaboration-to-Improve-Learner-Outcomes.pdf.
+20 What Drives Learning in the Senior Secondary School?, https://www.ero.govt.nz/publications/
+what-drives-learning-in-the-senior-secondary-school/.
+21 Melbourne Declaration on Educational Goals for Young Australians, http://www.curriculum.
+edu.au/verve/_resources/National_Declaration_on_the_Educational_Goals_for_Y oung_Australi-
+ans.pdf.
+22 “Primary Matters” 2015, Issue 5, http://docs.acara.edu.au/resources/20150420_Primary_
+Matters_Issue_5_2015.pdf.
+=== PAGE 9 ===
+125
+Visible Learning and educational policies in New Zealand and Australia
+In order to develop an efficient evidence-based educational strategy, decision or 
+improvement Australian and New Zealand school leaders and teachers first gather, 
+analyse, and use objective data. They primarily focus on research and ‘quantitative’ 
+numerical data but also the use a of ‘qualitative’ information is quite vital. With the 
+purpose of collecting and managing only high quality student related data educators 
+are provided with professional help and guidelines. In Australia teachers are provid-
+ed with procedures by e.g. NSW Government Department of Education.
+23 Moreover, 
+in order to keep quality teaching they regularly undergo professional training. Data 
+Driven Evidence Based Teaching in Schools is a conference to benefit the needs of 
+teachers in Australia.
+24
+The appropriate Evidence-Based Teaching model exploration in New Zealand 
+aims at changing the viewpoint of what education is. The government reports and 
+findings presented above convince me that the learner and his active role is more 
+and more emphasised in education process. Furthermore, the Ministry of Education 
+and subordinate institutions make successful use of evidence and devolve this notion 
+downwards. The concept of Visible Learning is deeply rooted in a classroom practice 
+and is supported by the system.
+4. New Zealand and Australia – the use of Visible Learning 
+in effective student education
+The above Figure 2 explains the position and actions of two participants of educa-
+tional situation. The new area which lies between the Learner, Teacher and the Curric-
+ulum is constituted from blending the actions – teach/educate and learn. Both partic-
+ipants of the pedagogical interaction perform actions assigned to their role (teachers 
+do not absolve young people of being active, do not hurry, give time to think, allow 
+learners to perform actions on their own, allow them to make mistakes, etc.).
+Teachers who cooperate with their students in this way start to understand them 
+better and get to know their aspirations and dreams. New Zealand’s Ministry of Edu-
+cation endorses the above opinion: ‘sharing power and the responsibility for learning, 
+teachers set their students on a path to fulfilling the vision we have for them, with the 
+ability to secure a sustainable social, cultural, economic and environmental future for 
+our country’.
+25
+23 Principles for collecting internal school data, https://education.nsw.gov.au/teaching-and-learn-
+ing/school-excellence-and-accountability/sef-evidence-guide/guidelines-for-using-data/collect-
+ing-internal-school-data.
+24 Data Driven Evidence Based Teaching in Schools conference, https://www.criterionconferenc-
+es.com/event/evidence-based-teaching-conference/brochure/.
+25 Leading Innovative Learning in New Zealand Schools, p. 11, https://www.ero.govt.nz/assets/
+Uploads/Leading-Innovative-Learning-in-Schools-2018.pdf.
+=== PAGE 10 ===
+126
+Anna Sarbiewska
+The Leading Innovative Learning in New Zealand Schools report illustrates the 
+actions undertaken by all the examined school teachers. They were constantly look-
+ing for new solutions to improve the results of their students and to make learning 
+relevant for the future: ‘they were striving to develop students who were both academ-
+ically successful, in relation to New Zealand education standards and qualifications, 
+as well as confident, connected and actively involved learners.26
+High quality data are used predominantly for the main components of education:
+1. Teacher – being a great teacher has long been perceived as an inborn abili-
+ty. Quality teaching has been examined by Eric Hanushek, an economist at Stanford 
+University. He has established that during a school year ‘pupils taught by teachers at 
+the 90th percentile for effectiveness learn 1.5 years’ worth of material. Those taught by 
+teachers at the 10th percentile learn half a year’s worth’.
+27
+Hattie goes deeper as far as an expert teacher is concerned and provides a list of 
+16 prototypic attributes of a great teacher. According to Hattie expert teachers adopt 
+a problem-solving stance to their work, are proficient at creating an optimal class-
+room climate for learning. Expert teachers have a multidimensionally complex per-
+ception of classroom situations, are more adept at monitoring student problems and 
+assessing their level of understanding and progress, and they provide much more rel-
+evant, useful feedback. Those teachers have high respect for students, are passionate 
+about teaching and learning. They engage students in learning and help to develop 
+their students’ self-regulation, learning skills, self-efficacy, and self-esteem.
+28
+In order to facilitate quality teaching the Australian Department of Education and 
+Training has developed the High Impact Teaching Strategies (HITS). These are 10 in-
+structional practices that emerge from the findings of international researchers like 
+John Hattie and Robert Marzano. The strategies give ‘teachers and school leaders an 
+opportunity to embed and share the use of successful instructional practices’ .
+29
+Another helpful tool which enables teachers to share their practice-based evi-
+dence is at the Australian researchED (Australian College of Educators, 2017), which 
+started at the Australian Council for Educational Research (ACER) Excellence in Pro-
+fessional Practice Conference (ACER, 2017). 30 This platform allows practitioners to 
+publish their findings, share their way of thinking and helps ‘great practice become 
+common practice’ .31
+26 Ibidem , p. 16.
+27 Teaching the teachers., https://www.economist.com/briefing/2016/06/11/teaching-the-teach-
+ers.
+28 J. Hattie, Distinguishing Expert Teachers from Novice and Experienced Teacher, https://re-
+search.acer.edu.au/cgi/viewcontent.cgi?article=1003&context=research_conference_2003.
+29 High Impact Teaching Strategies. Excellence in Teaching and Learning, p. 7, https://www.edu-
+cation.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx.
+30 Australian Council for Educational Research, https://www.acer.org/au.
+31 M. Deeble, T. Vaughan, An evidence broker for Australian schools, Centre for Strategic Edu-
+cation, Victoria 2018, p. 13.
+=== PAGE 11 ===
+127
+Visible Learning and educational policies in New Zealand and Australia
+New Zealand’s Education Review Office (ERO) helps teachers cooperate with 
+parents and the local community by informing and explaining the complexity of the 
+education process.
+To help every student make progress, teachers have to find out what each stu-
+dent knows and can do. Teachers want to build on the strengths of each of their 
+students. This involves teachers constantly reviewing their teaching practice – 
+is it working, and what changes are needed?.
+32 
+Moreover, the Office clarifies the nature of best teachers: Effective teachers are 
+flexible and responsive to all their students, use different teaching approaches for stu-
+dents who need extra support or extensions, draw on the support and expertise of 
+other adults to help with some of their students, and also use the expertise of com-
+munity members.33
+2. Learner – it is worth remembering that according to Hattie on about 50% of 
+the variance of student’s achievement is due to the student him/herself. This refers 
+mainly to the student’s prior knowledge and abilities. Recent improvements in the 
+Australian education system have been led by David Gonski who was assigned his job 
+in 2010 by the Minister of Education. Later, the proposed reforms and funding model 
+became known as “Gonski” . The second Gonski report, referred to as Gonski 2.0, was 
+published on 30 April 2018. Gonski is aware that ‘learning is unlikely when people are 
+taught what they already know or when they lack the prerequisite knowledge or skills for 
+success’.
+ 34 Gonski’s model looks at successful learning from a totally different angle – 
+‘rather than being judged only in terms of age-based expectations, successful learning 
+would be measured as the progress individuals make, whatever their starting points’.35
+3. Curriculum – the shape of the present Australian Curriculum was approved by 
+the Australian Curriculum Assessment and Reporting Authority (ACARA) Board in 
+2012. The Curriculum undergoes systematic evaluation by ACARA.
+36 This govern-
+ment institution is collecting feedback and analysing data on curriculum’s effective-
+ness by reporting these findings to the government and public every year.
+37 The ACA-
+RA Board determines if any newest findings require further evaluation and change 
+in the curriculum. For instance, in 2014 as a result of the review of the Australian 
+32 Effective Teaching What’s happening in my child’s classroom?, p. 2, https://www.ero.govt.nz/
+assets/Uploads/Effective-Teaching.pdf.
+33 Ibidem , p. 5.
+34 G. Masters, Gonski, learning and the case for change, https://www.teachermagazine.com.au/
+columnists/geoff-masters/gonski-learning-and-the-case-for-change.
+35 G. Masters, Gonski’s model for schools , https://www.teachermagazine.com.au/columnists/
+geoff-masters/gonskis-model-for-schools.
+36 “Primary Matters” 2014, Issue 2, http://docs.acara.edu.au/resources/20140710_Primary_
+Matters_issue_2.pdf.
+37 Monitoring the effectiveness of the Foundation – Year 10 Australian Curriculum Annual Re-
+port, https://www.acara.edu.au/docs/default-source/curriculum/20180122_2017-monitoring-re-
+port.pdf.
+=== PAGE 12 ===
+128
+Anna Sarbiewska
+Curriculum the federal government recognised a problem of overcrowded curric-
+ulum. Later on vital steps were taken leading to curriculum improvement (March 
+2015 meetings of education ministers, 12–13 March 2015 cooperation of practising 
+primary teachers from around the country with ACARA officers to provide input 
+and feedback on options for reducing, redesigning and rebalancing the curriculum 
+for primary schools).38 The Australian Curriculum consists of the three dimensions – 
+learning areas, general capabilities and cross-curriculum priorities. Each school has 
+the right to create its own unique way of using the dimensions as they implement the 
+Australian Curriculum.
+In 2010, around the same time as in Australia, schools in New Zealand were 
+obliged to implement The New Zealand Curriculum. 39 There are eight principles of 
+The New Zealand Curriculum. The principles are for example: High expectations, 
+Learning to learn, Future focus. 40 The Ministry of Education assigned ERO to regu-
+larly evaluate the extent to which the principles of The New Zealand Curriculum are 
+present in schools’ curricula and applied in classrooms.
+41 Similarly to Australia, The 
+New Zealand Curriculum permits all schools to
+‘design their own learning programmes to meet the needs of their communi-
+ties and students. Every school’s curriculum should be a unique and responsive 
+blueprint of what they and their community consider is important and desir -
+able for students to learn. The vision, values, principles and key competencies of 
+The New Zealand Curriculum provide a framework for stakeholders to engage 
+in discussion about the kind of people they want students to be, and the best 
+means to support students to develop their potential’
+42.
+Both Australian and New Zealand schools practice curriculum connection. It is 
+considered to be ‘effective in stimulating effective collaboration between teachers and 
+students at many levels. It is distinctive from a thematic approach in that it conscious-
+ly maintains the rigour of each of the learning areas. It clearly empowers the learn-
+ing through connections and does not lose the integrity of the individual subject’ .
+43 
+Philip Jellyman, the headteacher at St Dominic’s Catholic College in New Zealand, 
+has investigated twelve schools to look for the ways in which curriculum integration 
+has been implemented. He believes that combined curriculum ‘has the potential to 
+38 “Primary Matters” 2015, Issue 5, http://docs.acara.edu.au/resources/20150420_Primary_
+Matters_Issue_5_2015.pdf.
+39 The New Zealand Curriculum Principles: Foundations for Curriculum Decision-Making, 
+https://www.ero.govt.nz/assets/Uploads/Curriculum-Principles-2012.pdf.
+40 Annual Report 2017/18, p. 3, https://www.ero.govt.nz/assets/Uploads/ERO-Annual-Re -
+port-2018.pdf.
+41 Ibidem.
+42 Ibidem.
+43 “Primary Matters” 2017, Issue 11, https://www.acara.edu.au/curriculum/primary-mat-
+ters-newsletter/primary-matters-may-2017.
+=== PAGE 13 ===
+129
+Visible Learning and educational policies in New Zealand and Australia
+enhance student learning and competencies beyond what is generally possible in subject 
+specific lessons’. 44
+Conclusions
+New Zealand’s and Australia’s education systems have reformed education not 
+by implementing structural changes in the system itself, but by putting an emphasis 
+on a new and innovative perception of what education and education improvement 
+is. A vital element in this process was development of research on Evidence Based 
+Teaching and in particular the concept of Hatti’s Visible Learning. Visible Learning is 
+the key to understanding the changes that are taking place. It does not mean, however, 
+that this concept is uncritically supported
+45, but undoubtedly it makes the pedagog-
+ical interaction not only visible but also effective And this is the direction that  New 
+Zealand’s and Australia’s educational systems are heading – to encourage teachers 
+to see what they can do and how it works for the students. In a longer perspective it 
+encourages teachers to modify their own activities.
+I believe the improvements and changes in Polish educational system should and 
+can be based on evidence. Scientists and practitioners should establish closer coop-
+eration in order to find and analyse quantitative and qualitative data. The shape and 
+direction of the changes in the Polish system of education need to be made on the 
+basis of high quality evidence. But foremost there needs to be a different way of look-
+ing at the two participants of the education process: the learner and the teacher. The 
+learner should be encouraged by schools to a become a more proactive participant. 
+The teacher’s role should be to ‘bring up’ all the student’s assets. 
+That may be the key to quality teaching.
+Bibliography
+Alton-Lee A., Using Best Evidence Syntheses to Assist in Making a Bigger Difference for 
+Diverse Learners, http://www.leadspace.govt.nz/leadership/leading_learning/
+synthesis.php [access: 14.06.2019].
+Annual Report 2017/18, https://www.ero.govt.nz/assets/Uploads/ERO-Annual-Re-
+port-2018.pdf [access: 14.06.2019].
+44 P . Jellyman, Models of Curriculum Integration in New Zealand Secondary Schools, Sabbatical 
+report, Term 2, 2015, St Dominic’s Catholic College, p. 7, http://www.educationalleaders.govt.nz/
+Leadership-development/SSMs-sabbatical-reports/SSM-award-recipients-2015/Jellyman-Philip.
+45 I. Snook, J. Clark, R. Harker, A.-M. O’Neill, J. O’Neill, Critic and conscience of society: A reply 
+to John Hattie, ‘New Zealand Journal of Educational Studies’ 2010, vol. 45(2), p. 93.
+=== PAGE 14 ===
+130
+Anna Sarbiewska
+Australian Council for Educational Research, https://www.acer.org/au [access: 
+14.06.2019].
+Benner D., Allgemeine Pädagogik und Sonderpädagogik. Űberlegungen zum Verhältnis 
+von Inklusion und Exklusion aus der Sicht Dreiser Kausalitäten in Erziehungs- 
+und Bildungsprozessen, “Człowiek – Niepełnosprawność – Społeczeństwo” 
+2018, vol. 4(42). 
+Benner D., John Dewey, a Modern Thinker: On Education (as Bildung and Erziehung) 
+and Democracy (as a Political System and a Mode of Associated Living), [in:] 
+L. Waks, A. English (eds.), John Dewey’s Democracy and Education: A Centen-
+nial Handbook, Cambridge University Press, Cambridge 2017.
+Bergeron P .J., How to engage in pseudoscience with real data : a criticism of John Hattie’s 
+arguments in Visible Learning from the perspective of a statistician, https://mje.
+mcgill.ca/article/view/9475/7229 [access: 10.12.2019].
+Collaboration to improve learner outcomes. What does the evidence tell us about 
+what works, https://www.ero.govt.nz/assets/Uploads/Collaboration-to-Im-
+prove-Learner-Outcomes.pdf [access: 14.06.2019].
+Data Driven Evidence Based Teaching in Schools conference, https://www.criterioncon-
+ferences.com/event/evidence-based-teaching-conference/brochure/ [access: 
+14.06.2019].
+Davies P ., What is Evidence-Based Education, “British Journal of Educational Studies” 
+1999, vol. 47, no. 2.
+Deeble M., Vaughan T., An evidence broker for Australian schools, Centre for Strategic 
+Education, Victoria 2018.
+Earl L., Kat S., Leading Schools in a Data-Rich World, https://www.researchgate.net/
+publication/252669674_Leading_Schools_in_a_Data-Rich_World [access: 
+14.06.2019].
+Effective Teaching What’s happening in my child’s classroom?, https://www.ero.govt.nz/
+assets/Uploads/Effective-Teaching.pdf [access: 14.06.2019].
+Hattie J., Distinguishing Expert Teachers from Novice and Experienced Teachers, 
+https://research.acer.edu.au/cgi/viewcontent.cgi?article=1003&context=re-
+search_conference_2003 [access: 14.06.2019].
+Hattie J., Visible Learning, New Y ork 2008.
+Hawke G., Education Reform: the New Zealand experience, https://www.researchgate.
+net/publication/228585086_Education_reform_the_New_Zealand_experi-
+ence [access: 14.06.2019].
+High Impact Teaching Strategies. Excellence in Teaching and Learning, https://www.
+education.vic.gov.au/school/teachers/teachingresources/practice/improve/
+Pages/hits.aspx [access: 14.06.2019].
+Jellyman P ., Models of Curriculum Integration in New Zealand Secondary Schools, Sab-
+batical report, Term 2, 2015, St Dominic’s Catholic College, http://www.ed-
+=== PAGE 15 ===
+131
+Visible Learning and educational policies in New Zealand and Australia
+ucationalleaders.govt.nz/Leadership-development/SSMs-sabbatical-reports/
+SSM-award-recipients-2015/Jellyman-Philip [access: 14.06.2019].
+Keeping children engaged and achieving in reading , https://www.ero.govt.nz/assets/
+Uploads/ERO-AoG-17985-Teaching-strategies-that-work-Reading-v3.pdf  
+[access: 14.06.2019]. 
+Klus-Stańska D., Dlaczego szkolna kultura dydaktyczna się nie zmienia, “Studia Peda-
+gogiczne” 2011, t. LXIV .
+Leading Innovative Learning in New Zealand Schools , https://www.ero.govt.nz/as-
+sets/Uploads/Leading-Innovative-Learning-in-Schools-2018.pdf [access: 
+14.06.2019]. 
+Masters G., Gonski, learning and the case for change, https://www.teachermagazine.
+com.au/columnists/geoff-masters/gonski-learning-and-the-case-for-change  
+[access: 14.06.2019].
+Masters G., Gonski’s model for schools, https://www.teachermagazine.com.au/colum-
+nists/geoff-masters/gonskis-model-for schools [access: 14.06.2019].
+Masters G., The Role of Evidence in Teaching and Learning, https://www.teacherma-
+gazine.com.au/columnists/geoff-masters/the-role-of-evidence-in-teaching-
+and-learning [access: 14.06.2019].
+Melbourne Declaration on Educational Goals for Young Australians, http://www.cur-
+riculum.edu.au/verve/_resources/National_Declaration_on_the_Education-
+al_Goals_for_Y oung_Australians.pdf [access: 14.06.2019]. 
+Monitoring the effectiveness of the Foundation – Year 10 Australian Curriculum 
+Annual Report , https://www.acara.edu.au/docs/default-source/curricu-
+lum/20180122_2017-monitoring-report.pdf [access: 14.06.2019]. 
+“Primary Matters” 2014, Issue 2, http://docs.acara.edu.au/resources/20140710_Pri-
+mary_Matters_issue_2.pdf [access: 14.06.2019].
+“Primary Matters” 2015, Issue 5, http://docs.acara.edu.au/resources/20150420_Pri-
+mary_Matters_Issue_5_2015.pdf [access: 14.06.2019]. 
+“Primary Matters” 2017, Issue 11, https://www.acara.edu.au/curriculum/prima-
+ry-matters-newsletter/primary-matters-may-2017 [access: 14.06.2019]. 
+Principles for collecting internal school data , https://education.nsw.gov.au/teach-
+ing-and-learning/school-excellence-and-accountability/sef-evidence-guide/
+guidelines-for-using-data/collecting-internal-school-data [access: 
+14.06.2019]. 
+Rømer T. A., A Critique of John Hattie’s Theory of Visible Learning, “Educational Phi-
+losophy and Theory” 2019, vol. 51, no. 6, pp. 587–598.
+Saltelli A., The International PISA tests show how evidence-based policy can go wrong, 
+“The Conversation” 2017, https://theconversation.com/international-pi-
+sa-tests-show-how-evidence-based-policy-can-go-wrong-77847 [access: 
+10.12.2019].
+=== PAGE 16 ===
+132
+Anna Sarbiewska
+Stępkowski D., Kształcenie jako dobro pedagogiczne i źródło nierówności edukacyjnej, 
+(in print).
+Snook I., Clark J., Harker R., O’Neill A.-M., O’Neill J., Critic and conscience of society: 
+A reply to John Hattie, “New Zealand Journal of Educational Studies” 2010, 
+vol. 45(2).
+Teaching the teachers , https://www.economist.com/briefing/2016/06/11/teach-
+ing-the-teachers [access: 14.06.2019]. 
+The New Zealand Curriculum Principles: Foundations for Curriculum Decision-Making, 
+https://www.ero.govt.nz/assets/Uploads/Curriculum-Principles-2012.pdf   
+[access: 14.06.2019]. 
+What Drives Learning in the Senior Secondary School?, https://www.ero.govt.nz/
+publications/what-drives-learning-in-the-senior-secondary school/ [access: 
+14.06.2019]. 
+Wylie C., Ten years on: How schools view educational reform, https://www.nzcer.org.
+nz/research/publications/ten-years-how-schools-view-educational-reform  
+[access: 14.06.2019].
