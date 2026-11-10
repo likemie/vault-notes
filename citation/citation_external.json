@@ -15585,6 +15585,8 @@
     "Maradan & Mangold, 2005": "Maradan & Mangold, 2005",
     "Marblestone et al. (2020)": "Marblestone et al., 2020",
     "Marblestone et al., 2020": "Marblestone et al., 2020",
+    "Marc Bloch (1961)": "Marc Bloch, 1961",
+    "Marc Bloch, 1961": "Marc Bloch, 1961",
     "March & Olsen (1989)": "March & Olsen, 1989",
     "March & Olsen, 1989": "March & Olsen, 1989",
     "March (1991)": "March, 1991",
@@ -141296,6 +141298,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Focused Research Organization.md"
+      ],
+      "title": ""
+    },
+    "Marc Bloch, 1961": {
+      "aliases": [
+        "Marc Bloch, 1961",
+        "Marc Bloch (1961)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Marc Bloch, 1961"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
       ],
       "title": ""
     },

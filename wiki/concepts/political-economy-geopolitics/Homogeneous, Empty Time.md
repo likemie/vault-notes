@@ -8,7 +8,7 @@ aliases:
 summary: "源自瓦尔特·本雅明历史哲学、经由本尼迪克特·安德森引入民族主义理论的核心构念，指脱离神学救赎秩序、由时钟与日历精确度量的线性客观时间。在这一时间轴线中，事件之间的关联表现为横截面上的共时并存与在此期间的巧合，为分散隔绝的现代个体提供了将民族想象为在历史中齐步推进的稳固有机体的认知基础设施。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,13 +17,18 @@ tags:
   - concept/temporality
   - theme/nationalism
   - theme/political-philosophy
-related_concepts: []
+related_concepts:
+  - "[[Construct]]"
+  - "[[Messianic Time]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Walter Benjamin]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
 status: draft
 created: 2026-11-11
@@ -33,7 +38,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Homogeneous, Empty Time
-> 齐一而空洞的时间（Homogeneous, Empty Time）是[[Walter Benjamin|瓦尔特·本雅明（Walter Benjamin）]]提出、后被[[Benedict Anderson|本尼迪克特·安德森]]作为核心分析支柱引入现代民族研究的构念。该构念描述了一种由钟表与日历均匀刻度所度量的客观、世俗且线性的时间范畴。在这种时间意识中，同时性表现为横截面上跨空间的共时发生与“在此期间”（meanwhile）的客观并存，脱离了古典时代对神圣事件纵向预表的依附。安德森指出，这种时间体验为现代社会提供了认知前提，使数以百万计素未谋面的个体能够将民族想象为一个在均质时间流中稳固前行的有机实体。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
+> 齐一而空洞的时间（Homogeneous, Empty Time）是[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）提出、后被[[Benedict Anderson|本尼迪克特·安德森]]作为核心分析支柱引入现代民族研究的[[Construct|构念]]。该构念描述了一种由钟表与日历均匀刻度所度量的客观、世俗且线性的时间范畴。在这种时间意识中，同时性表现为横截面上跨空间的共时发生与与此同时（meanwhile）的客观并存，脱离了古典时代对神圣事件纵向预表的依附。安德森指出，这种时间体验为现代社会提供了认知前提，使数以百万计素未谋面的个体能够将民族想象为一个在均质时间流中稳固前行的有机实体。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向现代世俗社会中由机械计时装置与历法标定的连续、均质且前后承续的客观时间之流。
@@ -55,7 +60,7 @@ updated: 2026-11-11
 > | 比较维度 | 齐一而空洞的时间（Homogeneous, Empty Time） | 弥赛亚时间（Messianic Time） |
 > |----------|---------------------------------------------|------------------------------|
 > | **度量基准** | 机械时钟、客观公历与世俗出版周期（pp. 24–25） | 神圣救赎天意与末世预言节点（pp. 23–24） |
-> | **同时性结构** | 横向展开的共时巧合，以“在此期间”为连结标记（pp. 25–26） | 纵向预表与实现的瞬间重叠，缺乏世俗共时概念（pp. 23–24） |
+> | **同时性结构** | 横向展开的共时巧合，以与此同时为连结标记（pp. 25–26） | 纵向预表与实现的瞬间重叠，缺乏世俗共时概念（pp. 23–24） |
 > | **历史观念** | 沿线性时间单向无限延展的世俗因果链条（pp. 24–26） | 创世、堕落与末日救赎构成的封闭神学循环（pp. 23–24） |
 > | **共同体形式** | 现代民族：在均质时间中齐步移动的世俗有机体（p. 26） | 古典宗教共同体：向神圣中心汇聚的宇宙等级秩序（pp. 12–16） |
 
@@ -63,7 +68,7 @@ updated: 2026-11-11
 
 > [!feature] 齐一而空洞时间的核心支撑要素
 > - **钟表与公历的机械规训** 现代计时体系将无限的时间之流切割为等距、标准化的计量单位，赋予个体行为以统一的共时参照框架。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
-> - **“在此期间”的横向交错逻辑** 在这一时间维度中，空间隔离且互不相识的行动者通过日历标记被编织进同一时刻的历史织锦，构成了近代小说多线叙事与报纸版面拼接的深层语法。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 25–26, 33–34)]]
+> - **在此期间的横向交错逻辑** 在这一时间维度中，空间隔离且互不相识的行动者通过日历标记被编织进同一时刻的历史织锦，构成了近代小说多线叙事与报纸版面拼接的深层语法。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 25–26, 33–34)]]
 > - **历史有机体的世俗移动隐喻** 均质时间将民族构想为一个拥有持续生命的实体，在既定日历时间轴上平稳驶向未知未来。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 26)]]
 
 > [!logic-map]- 时间感知转型与民族共同体表象生成

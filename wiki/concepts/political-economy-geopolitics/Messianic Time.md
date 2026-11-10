@@ -7,7 +7,7 @@ aliases:
 summary: "源自犹太教基督教神学传统与瓦尔特·本雅明历史哲学的重要时间构念，指过去与未来在当下一个瞬间发生共时交汇的非线性神圣时间。在该时间构架中，历史事件之间通过预表与实现的垂直轴线直接归向神圣天意，独立于世俗因果链条与横向时间关联；埃里希·奥尔巴赫与本尼迪克特·安德森将其确立为透视中世纪宗教共同体与现代民族时间意识根本差异的关键基准。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,13 +16,18 @@ tags:
   - concept/temporality
   - theme/religious-studies
   - theme/political-philosophy
-related_concepts: []
+related_concepts:
+  - "[[Construct]]"
+  - "[[Homogeneous, Empty Time]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Walter Benjamin]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
 status: draft
 created: 2026-11-11
@@ -32,7 +37,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Messianic Time
-> 弥赛亚时间（Messianic Time）是源自犹太教基督教神学传统、经由[[Walter Benjamin|瓦尔特·本雅明（Walter Benjamin）]]历史哲学阐释并在[[Benedict Anderson|本尼迪克特·安德森]]文化理论中得到拓展的重要构念。该构念指一种过去与未来在转瞬即逝的当下发生完全交汇的非线性神圣时间观。在该时间构架内，不同历史时期的事件通过预表（prefiguring）与实现（fulfilment）的双向垂直关联共同折射先验天意，独立于世俗线性的因果序列。安德森指出，中世纪基督宗教共同体正是依托这种弥赛亚同时性，将相隔遥远的信徒与事件缝合进单一的宇宙秩序之中。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 23–24)]]
+> 弥赛亚时间（Messianic Time）是源自犹太教基督教神学传统、经由[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）历史哲学阐释并在[[Benedict Anderson|本尼迪克特·安德森]]文化理论中得到拓展的重要[[Construct|构念]]。该构念指一种过去与未来在转瞬即逝的当下发生完全交汇的非线性神圣时间观。在该时间构架内，不同历史时期的事件通过预表（prefiguring）与实现（fulfilment）的双向垂直关联共同折射先验天意，独立于世俗线性的因果序列。安德森指出，中世纪基督宗教共同体正是依托这种弥赛亚同时性，将相隔遥远的信徒与事件缝合进单一的宇宙秩序之中。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 23–24)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向历史事件摆脱世俗线性时序、垂直直接系联于神圣天意并在瞬间当下达成圆满的神圣时间体验。
@@ -45,7 +50,7 @@ updated: 2026-11-11
 > *If an occurrence like the sacrifice of Isaac is interpreted as prefiguring the sacrifice of Christ, so that in the former the latter is as it were announced and promised and the latter 'fulfills' . . . the former, then a connection is established between two events which are linked neither temporally nor causally – a connection which it is impossible to establish by reason in the horizontal dimension . . . It can be established only if both occurrences are vertically linked to Divine Providence.*
 
 > [!boundary]- 概念边界
-> - 区别于 [[Homogeneous, Empty Time|齐一而空洞的时间]]：弥赛亚时间缺乏“在此期间”的横向世俗共时概念，历史在神性注视下被视为随时可能降临终结的圆满时刻；齐一而空洞的时间则以无尽向前的日历刻度作为事件关联的中介。
+> - 区别于 [[Homogeneous, Empty Time|齐一而空洞的时间]]：弥赛亚时间缺乏横向世俗共时概念，历史在神性注视下被视为随时可能降临终结的圆满时刻；齐一而空洞的时间则以无尽向前的日历刻度作为事件关联的中介。
 > - 区别于纯粹神话循环时间：弥赛亚时间包含明确的创世起点与末日审判终点，具有末世论维度的历史方向感，但拒绝近代世俗进步主义的线性因果假定。
 
 ---
