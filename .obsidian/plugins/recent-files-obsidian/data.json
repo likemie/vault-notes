@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "template-metax",
+      "path": "wiki/templates/template-metax.md"
+    },
+    {
+      "basename": "template-method",
+      "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "Imagined Community",
+      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch01",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
+    },
+    {
+      "basename": "Screening Off",
+      "path": "wiki/concepts/educational-philosophy/Screening Off.md"
+    },
+    {
+      "basename": "Argument_Popkewitz_2005_Palgrave",
+      "path": "wiki/arguments/books/Popkewitz_2005_Palgrave/Argument_Popkewitz_2005_Palgrave.md"
     },
     {
       "basename": "Argument_Qu_2024_IJED",
@@ -175,30 +199,6 @@
     {
       "basename": "Sisu",
       "path": "wiki/concepts/educational-psychology/Sisu.md"
-    },
-    {
-      "basename": "Comprehensive School Reform in Finland",
-      "path": "wiki/facts/finland/Comprehensive School Reform in Finland.md"
-    },
-    {
-      "basename": "1990s Economic Depression in Finland",
-      "path": "wiki/facts/finland/1990s Economic Depression in Finland.md"
-    },
-    {
-      "basename": "Health Behaviour in School-aged Children",
-      "path": "wiki/facts/global/Health Behaviour in School-aged Children.md"
-    },
-    {
-      "basename": "1979 Finnish Teacher Education Reform",
-      "path": "wiki/facts/finland/1979 Finnish Teacher Education Reform.md"
-    },
-    {
-      "basename": "Finnish National Board of Education",
-      "path": "wiki/facts/finland/Finnish National Board of Education.md"
-    },
-    {
-      "basename": "Centralized Textbook Approval System in Finland",
-      "path": "wiki/facts/finland/Centralized Textbook Approval System in Finland.md"
     }
   ],
   "omittedPaths": [],
