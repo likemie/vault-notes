@@ -62,7 +62,7 @@ updated: 2026-11-11
 ---
 
 > [!feature] 真理语言的核心运行特征
-> - **符号的非任意性（Non-arbitrariness of the sign）** 字符不是经验客体的人工代号，而是宇宙神圣权能的具象化身，具有不可翻译性。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 14)]]
+> - **符号的非任意性（Non-arbitrariness of the sign）** 字符被视作宇宙神圣权能的具象化身与实在流溢，有别于经验客体的人为代号，具有不可翻译性。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 14)]]
 > - **转化与炼金式吸纳冲动（Impulse towards conversion）** 异质人群只要掌握神圣字词书写并接受礼仪熏陶，即可被完全接纳，如非汉族人经由汉字科举成为天子臣民。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 14–15)]]
 > - **双语教士阶层的向心层级调解** 掌握真理语言的双语精英位居宇宙等级的中枢，在凡俗口语与天上神圣之间发挥中介连接功能。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 15–16)]]
 

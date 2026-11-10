@@ -99,7 +99,7 @@ updated: 2026-11-11
 > | [[Horizontal Comradeship\|横向同志情谊]]（Horizontal Comradeship） | 情感构件 | 解释成员超越现实阶级与财富不平等、自愿为共同体奉献牺牲的情感基石。 |
 > | [[Truth-Language\|真理语言]]（Truth-Language） | 文化符号载体 | 阐释古典宗教共同体依托不可替代的神圣文字符号构建跨地域普世认同。 |
 > | [[Homogeneous, Empty Time\|齐一而空洞的时间]]（Homogeneous, Empty Time） | 时间哲学基石 | 确立以时钟与公历度量的线性共时框架，使大众能够想象民族有机体的齐步前行。 |
-> | [[Messianic Time\|弥赛亚时间]]（Messianic Time） | 前现代时间参照 | 揭示中世纪以预表与实现垂直统摄天意的神圣时间观，反衬现代世俗共时性。 |
+> | [[Messianic Time\|弥赛亚时间]]（Messianic Time） | 前现代时间参照 | 揭示中世纪以预表与实现垂直贯通天意的神圣时间观，反衬现代世俗共时性。 |
 > | 印刷资本主义（Print Capitalism） | 物质媒介机制 | 民族语言印刷品的商品化消费创造了跨地域的大众同时性体验。 |
 > | 统一学校机器（Modern Schooling） | 制度化机制 | 国家通过统一课程与历史教科书将想象的共同体转化为代际传递的官方常识。 |
 > | 想象链接（Imagined Linkages） | 认知协作机制 | 突破[[Dunbar's Number\|邓巴数]]限制，使数百万陌生人能够围绕宏大国家工程协同攻坚。 |

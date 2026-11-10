@@ -6509,6 +6509,8 @@
     "Douglas (1976)": "Douglas, 1976",
     "Douglas Carnine (2000)": "Douglas Carnine, 2000",
     "Douglas Carnine, 2000": "Douglas Carnine, 2000",
+    "Douglas MacArthur (1962)": "Douglas MacArthur, 1962",
+    "Douglas MacArthur, 1962": "Douglas MacArthur, 1962",
     "Douglas, 1973": "Douglas, 1973",
     "Douglas, 1976": "Douglas, 1976",
     "Douglass (2012)": "Douglass, 2012",
@@ -75393,6 +75395,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Thomas B. Fordham Institute.md"
+      ],
+      "title": ""
+    },
+    "Douglas MacArthur, 1962": {
+      "aliases": [
+        "Douglas MacArthur, 1962",
+        "Douglas MacArthur (1962)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Douglas MacArthur, 1962"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
       ],
       "title": ""
     },
