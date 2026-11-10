@@ -82,6 +82,24 @@
         }
       ]
     },
+    "Qu & Dai, 2024": {
+      "aliases": [
+        "Qu & Dai, 2024",
+        "Qu and Dai (2024)"
+      ],
+      "argument": "Argument_Qu_2024_IJED",
+      "external": [
+        {
+          "apa": "Qu et al. (2024)",
+          "authors": "Qu, Shu, Liu, Ma, Han, Zhang, Wang, Yang, & Sun",
+          "id": "S0181",
+          "source": "metax",
+          "status": "collision",
+          "title": "Association between adverse childhood experiences and academic performance among children and adolescents: a global meta-analysis.",
+          "year": "2024"
+        }
+      ]
+    },
     "Wang & Barabási, 2021": {
       "aliases": [
         "Wang & Barabási, 2021",

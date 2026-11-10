@@ -1,5 +1,6 @@
 ---
-summary: "Qu 与 Dai 探讨中国作为新兴国际教育枢纽的崛起态势与发展影响，基于长三角浙大国际联合学院、粤港澳大湾区示范区与海南自贸港创新岛的三地比较案例研究，提炼出单核驱动、多核集群与园区平台共享三种枢纽模式，阐明大学、产业与政府的三螺旋协同如何支持区域向知识与服务型经济转型。"
+title: Argument_Qu_2024_IJED
+summary: "Qu 与 Dai 探讨中国作为新兴国际教育枢纽的崛起态势与区域发展影响，基于长三角浙江大学国际联合学院、粤港澳大湾区示范区与海南自贸港创新岛的三地比较案例研究，系统提炼出单核驱动、多核集群与园区平台共享三种高教枢纽制度形态，阐明大学、产业与政府的三螺旋协同机制如何支持区域经济向知识与服务型转型。"
 type: argument
 authors:
   - "Qu, L."
@@ -8,10 +9,8 @@ source_language: en
 citation: "Qu, L., & Dai, Y. (2024). Education hubs in a globalized world: The emergence of China. *International Journal of Educational Development*, *104*, 102959. https://doi.org/10.1016/j.ijedudev.2023.102959"
 year: 2024
 doi: "10.1016/j.ijedudev.2023.102959"
-citation_aliases:
-  - "Qu & Dai, 2024"
-  - "Qu and Dai (2024)"
 isbn: ""
+citation_aliases: []
 tags:
   - theme/education-hubs
   - theme/transnational-education
@@ -44,14 +43,6 @@ created: 2026-11-10
 updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
-title: "Argument_Qu_2024_IJED"
-argument_key: "Argument_Qu_2024_IJED"
-argument_display_title: "Education hubs in a globalized world: The emergence of China"
-argument_kind: "journal-article"
-argument_related_count: 11
-argument_related_level: 1
-argument_related_stars: "⭐"
-argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Development"
 book_title: ""
 publication_place: ""
@@ -62,13 +53,13 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 既往跨境高等教育研究普遍将中国视作国际留学生的最大生源输出国，相对忽视其作为留学目的国及新兴国际教育枢纽（Education Hub）的战略地位；同时，现有教育枢纽文献多集中于新加坡、马来西亚、卡塔尔、阿联酋等东南亚与中东中小型经济体，缺乏对大型经济体多层级区域高教枢纽制度形态的系统考察。中国如何在国家区域协调发展战略下构建具有异质性制度设计的国际教育枢纽，不同区域枢纽在空间模式、产学政合作治理与功能定位上呈现何种差异，以及这些枢纽如何协同区域产业结构向知识与服务型经济转型。
+> 既往跨境高等教育研究普遍将中国视作国际留学生的最大输出国，相对忽视其作为留学目的国及新兴国际教育枢纽（Education Hub）的战略地位；同时，既有教育枢纽文献多集中于新加坡、马来西亚、卡塔尔、阿联酋等东南亚与中东中小型经济体，缺乏对大型经济体多层级区域高教枢纽制度形态的系统考察。中国如何在国家区域协调发展战略下构建具有异质性制度设计的国际教育枢纽，不同区域枢纽在空间模式、产学政合作治理与功能定位上呈现何种差异，以及这些枢纽如何协同区域产业结构向知识与服务型经济转型。
 
 > [!claim] 核心主张
 > 中国正在从单纯的留学生输出国转向兼具重要集聚辐射功能的新兴国际教育枢纽；依托大学-产业-政府的三螺旋协同机制，中国在国家区域协调发展战略下形成了长三角单核驱动型（以本土高水平大学链接多元世界顶尖名校的知识创新枢纽）、粤港澳大湾区多核集群型（在一国两制下依托港澳高水平大学内地合作办学的人才与创新枢纽）以及海南自贸港园区平台共享型（以“大共享+小学院”集约化运作并率先试点境外高校独立办学的转型枢纽）三种差异化教育枢纽模式，系统支持区域经济向知识与服务型转型。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角浙江大学国际联合学院（iZJU）国际合作教育样板区、粤港澳大湾区国际高等教育示范区以及[[Hainan International Education Innovation Pilot Zone|海南自由贸易港陵水黎安国际教育创新试验区]]。
+> - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角浙江大学国际联合学院（iZJU）国际合作教育样板区、粤港澳大湾区国际高等教育示范区以及海南自由贸易港陵水黎安国际教育创新试验区。
 > - **张力** 传统跨境高等教育“中心-外围”单向生源输送假设与新兴大国通过战略规划主动配置全球智力资源的制度实践之间的张力；集中式单体校区、多中心跨关税区法域集群与高共享度园区平台之间的组织形态差异。
 > - **贡献** 拓展了全球教育枢纽文献的地理与制度视界，将分析视野从东南亚与中东小型城邦国家推进至转型大国；基于简·奈特（[[Jane Knight]]）的教育枢纽演进模型与三螺旋分析框架，提炼出中国在国家战略指引与地方实践中生成的三类制度性空间模式。
 
@@ -126,13 +117,15 @@ issuing_organization: ""
 
 > [!figure]- 图1：中国高等教育毛入学率变迁（1990–2020）
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig1_Tertiary_Enrollment_China.jpg)
+> *数据来源：联合国教科文组织统计研究所（UIS）与世界银行数据库。*
 
 > [!figure]- 图2：2020 年全球主要地区高等教育毛入学率对比
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig2_Tertiary_Enrollment_Comparison_2020.jpg)
+> *数据来源：联合国教科文组织统计研究所（UIS）与世界银行数据库。中国毛入学率达到 58%，高于东亚太平洋及世界平均水平。*
 
 > [!sub-claim] 2. 出国留学、课程国际化与跨境合作办学多轨并进培育了教育枢纽生长土壤
 
-在国际化战略推进中，中国高等教育形成了公派与自费出国留学、本土课程与教学国际化以及[[Transnational Education|中外合作办学]]（涵盖中外合作办学项目与合作办学机构）三大实施路径。这三大路径协同提升了国内高等教育的办学质量，推动更多学生选择本土接受高质量国际化培养，并吸引外国学生来华留学。中国在 2019 年成为亚洲第一大留学目的国，2020 年上升为全球第四大留学目的国。
+在国际化战略推进中，中国高等教育形成了公派与自费出国留学、本土课程与教学国际化以及[[Transnational Education|中外合作办学]]（涵盖中外合作办学项目与合作办学机构）三大实施路径。这三大路径协同提升了国内高等教育的办学质量，推动更多学生选择本土接受高质量国际化培养，并吸引外国学生来华留学。中国在 2019 年成为亚洲第一大留学目的国，2020 年位列全球第四大留学目的国。
 
 > [!sub-claim] 3. 既有学术文献对教育枢纽的考察呈现显著的地理倾斜
 
@@ -141,14 +134,14 @@ issuing_organization: ""
 > [!row-contrast] 全球主要国家与地区教育枢纽文献分布
 > | 区域 | 国家或地区 | 枢纽类型定位 | 核心代表性文献 |
 > |---|---|---|---|
-> | 东南亚 | 新加坡 | 学生枢纽、人才枢纽、知识/创新枢纽 | Lee (2014); Mok and Yu (2011); Sidhu et al. (2011); Soong (2020) |
+> | 东南亚 | 新加坡 | 学生枢纽、人才枢纽、知识/创新枢纽 | Lee (2014); Mok & Yu (2011); Sidhu et al. (2011); Soong (2020) |
 > | 东南亚 | 马来西亚 | 学生枢纽、人才枢纽 | Cheng et al. (2013); Knight (2014); Morshidi (2008) |
 > | 中东 | 卡塔尔 | 学生枢纽、人才枢纽、知识/创新枢纽 | Ibnouf, Dou, & Knight (2013); Knight (2014); Rostron (2009) |
-> | 中东 | 阿拉伯联合酋长国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Fox and Al Shamisi (2013); Knight (2014); Wilkins (2010) |
-> | 东亚 | 中国香港 | 学生枢纽、人才枢纽 | Cheng, Cheung, & Yeun (2011); Knight (2014); Mok and Bodycott (2014) |
-> | 东亚 | 韩国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Byun and Kim (2011); Dou and Knight (2013) |
+> | 中东 | 阿拉伯联合酋长国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Fox & Al Shamisi (2013); Knight (2014); Wilkins (2010) |
+> | 东亚 | 中国香港 | 学生枢纽、人才枢纽 | Cheng, Cheung, & Yeun (2011); Knight (2014); Mok & Bodycott (2014) |
+> | 东亚 | 韩国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Byun & Kim (2011); Dou & Knight (2013) |
 > | 撒哈拉以南非洲 | 博茨瓦纳 | 学生枢纽 | John, Wilmoth, & Mokopakgosi (2013) |
-> | 东亚 | 中国大陆 | 学生枢纽、人才枢纽、知识/创新枢纽 | Mok and Yu (2011); Qu and Dai (2024); Wen and Hu (2019) |
+> | 东亚 | 中国大陆 | 学生枢纽、人才枢纽、知识/创新枢纽 | Mok & Yu (2011); Qu & Dai (2024); Wen & Hu (2019) |
 
 ---
 
@@ -161,6 +154,7 @@ issuing_organization: ""
 
 > [!figure]- 图3：中国四大区域协调发展板块与粤港澳大湾区空间分布
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig3_China_Regional_Development_Areas.jpg)
+> *图片来源：Xie, Liu, and McNay (2023, Figure 2)。展示了长三角、粤港澳大湾区、京津冀以及成渝地区等协调发展核心板块。*
 
 > [!feature] 浙大国际合作教育样板区核心政策支撑体系
 > | 发布年份 | 政策文件名称 | 颁布机构 | 核心政策要点 |
@@ -175,6 +169,7 @@ issuing_organization: ""
 
 > [!figure]- 图4：浙大国际联合学院校区层面与学院层面治理架构
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg)
+> *图片来源：Qu & Dai (2024, Figure 4)。左侧展示了浙大八校区网络对海宁校区的知识溢出；右侧展示了联合管理委员会（JMC）与国际顾问委员会（IAB）的双层伙伴治理架构。*
 
 > [!feature] 浙大国际联合学院中外合作办学机构名录
 > | 联合学院名称 | 中方高校 | 外方合作高校 | 成立年份 | 重点学科领域 |
@@ -197,9 +192,11 @@ issuing_organization: ""
 
 > [!figure]- 图5：世界主要湾区空间地理分布
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig5_World_Major_Bay_Areas.jpg)
+> *图片来源：香港特别行政区政府教育局。横向比较旧金山湾区、纽约大都会区、东京湾区与粤港澳大湾区。*
 
 > [!figure]- 图6：粤港澳大湾区城市群空间地理结构
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig6_GBA_Cities.jpg)
+> *图片来源：香港特别行政区政府粤港澳大湾区发展办公室。展示大湾区“9+2”城市空间格局。*
 
 > [!row-contrast] 2021 年世界四大主要湾区关键经济指标对比
 > | 湾区名称 | 土地面积（平方公里） | 人口规模（百万人） | 人均 GDP（美元） | 第三产业占 GDP 比重（%） |
@@ -247,8 +244,9 @@ issuing_organization: ""
 > | 中国传媒大学考文垂学院 | 中外合作办学 | 陵水黎安创新试验区 | 中国传媒大学 + 英国考文垂大学 |
 > | 北京邮电大学玛丽女王海南学院 | 中外合作办学 | 陵水黎安创新试验区 | 北京邮电大学 + 英国伦敦玛丽女王大学 |
 > | 中央民族大学密德萨斯学院 | 中外合作办学 | 陵水黎安创新试验区 | 中央民族大学 + 英国密德萨斯大学 |
+> | 北京体育大学阿尔伯塔国际休闲体育与旅游学院 | 中外合作办学 | 陵水黎安创新试验区 | 北京体育大学 + 加拿大阿尔伯塔大学 |
 > | 海南大学亚利桑那州立大学联合国际旅游学院 | 中外合作办学 | 海口市 | 海南大学 + 美国亚利桑那州立大学 |
-> | 海南师范大学德保罗密苏里联合学院 | 中外合作办学 | 海口市 | 海南师范大学 + 美国德保罗大学 |
+> | 琼台师范学院北安普顿国际学院 | 中外合作办学 | 海口市 | 琼台师范学院 + 英国北安普顿大学 |
 > | 海南医学院西英格兰学院 | 中外合作办学 | 海口市 | 海南医学院 + 英国西英格兰大学 |
 > | 海南比勒费尔德应用科学大学 | 境外高校独立办学（全外资） | 陵水先行办学／儋州 | 德国比勒费尔德应用技术大学独立办学 |
 
