@@ -7207,8 +7207,6 @@
     "Erduran & Duschl, 2004": "Erduran & Duschl, 2004",
     "Erduran (2007)": "Erduran, 2007",
     "Erduran, 2007": "Erduran, 2007",
-    "Erfurth (2019)": "Erfurth, 2019",
-    "Erfurth, 2019": "Erfurth, 2019",
     "Ergas (1987)": "Ergas, 1987",
     "Ergas, 1987": "Ergas, 1987",
     "Ergen & Kanadli (2017)": "Ergen & Kanadli, 2017",
@@ -10013,8 +10011,6 @@
     "Halpin & Troyna (1995)": "Halpin & Troyna, 1995",
     "Halpin & Troyna, 1995": "Halpin & Troyna, 1995",
     "Halsey (1972)": "Halsey, 1972",
-    "Halsey Fox & Al Shamisi (2014)": "Halsey Fox & Al Shamisi, 2014",
-    "Halsey Fox & Al Shamisi, 2014": "Halsey Fox & Al Shamisi, 2014",
     "Halsey et al. (1961)": "Halsey et al., 1961",
     "Halsey et al. (1965)": "Halsey et al., 1965",
     "Halsey et al., 1961": "Halsey et al., 1961",
@@ -13236,13 +13232,9 @@
     "Knauer, 2020": "Knauer, 2020",
     "Kneese (1996)": "Kneese, 1996",
     "Kneese, 1996": "Kneese, 1996",
-    "Knight & Lee (2014)": "Knight & Lee, 2014",
-    "Knight & Lee, 2014": "Knight & Lee, 2014",
     "Knight (1930)": "Knight, 1930",
     "Knight (2011)": "Knight, 2011",
-    "Knight (2014a)": "Knight, 2014a",
-    "Knight (2014b)": "Knight, 2014b",
-    "Knight (2014c)": "Knight, 2014c",
+    "Knight (2014)": "Knight, 2014",
     "Knight (2015)": "Knight, 2015",
     "Knight (2018)": "Knight, 2018",
     "Knight (2021)": "Knight, 2021",
@@ -13250,10 +13242,7 @@
     "Knight (2022b)": "Knight, 2022b",
     "Knight, 1930": "Knight, 1930",
     "Knight, 2011": "Knight, 2011",
-    "Knight, 2014": "Knight, 2014a",
-    "Knight, 2014a": "Knight, 2014b",
-    "Knight, 2014b": "Knight, 2014c",
-    "Knight, 2014c": "Knight, 2014c",
+    "Knight, 2014": "Knight, 2014",
     "Knight, 2015": "Knight, 2015",
     "Knight, 2018": "Knight, 2018",
     "Knight, 2021": "Knight, 2021",
@@ -22087,10 +22076,8 @@
     "Siddiqui (2014)": "Siddiqui, 2014",
     "Siddiqui, 2014": "Siddiqui, 2014",
     "Sidhu et al. (2011)": "Sidhu et al., 2011",
-    "Sidhu et al. (2014)": "Sidhu et al., 2014",
     "Sidhu et al. (2021)": "Sidhu et al., 2021",
     "Sidhu et al., 2011": "Sidhu et al., 2011",
-    "Sidhu et al., 2014": "Sidhu et al., 2014",
     "Sidhu et al., 2021": "Sidhu et al., 2021",
     "Sieber & Stanley (1988)": "Sieber & Stanley, 1988",
     "Sieber & Stanley, 1988": "Sieber & Stanley, 1988",
@@ -27241,6 +27228,8 @@
     "尼尔森等, 2021a": "尼尔森等, 2021",
     "尽管哈蒂 (2010)": "尽管哈蒂, 2010",
     "尽管哈蒂, 2010": "尽管哈蒂, 2010",
+    "屈丽娟与代玉文 (2024)": "屈丽娟与代玉文, 2024",
+    "屈丽娟与代玉文, 2024": "屈丽娟与代玉文, 2024",
     "岳昌君和周丽萍 (2016)": "岳昌君和周丽萍, 2016",
     "岳昌君和周丽萍, 2016": "岳昌君和周丽萍, 2016",
     "岳英 (2018)": "岳英, 2018",
@@ -77239,7 +77228,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
-        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/facts/uae/UAE Education Hub Projects.md"
       ],
       "title": ""
@@ -80371,21 +80359,6 @@
       "seen_in": [
         "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md",
         "wiki/theories/curriculum/Family Resemblance Approach.md"
-      ],
-      "title": ""
-    },
-    "Erfurth, 2019": {
-      "aliases": [
-        "Erfurth, 2019",
-        "Erfurth (2019)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Erfurth, 2019"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
     },
@@ -100856,21 +100829,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
-      ],
-      "title": ""
-    },
-    "Halsey Fox & Al Shamisi, 2014": {
-      "aliases": [
-        "Halsey Fox & Al Shamisi, 2014",
-        "Halsey Fox & Al Shamisi (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Halsey Fox & Al Shamisi, 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
     },
@@ -124297,21 +124255,6 @@
       "seen_in": [],
       "title": "Impact of the year-round calendar on student achievement in Alameda unified school district"
     },
-    "Knight & Lee, 2014": {
-      "aliases": [
-        "Knight & Lee, 2014",
-        "Knight & Lee (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Knight & Lee, 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
-      ],
-      "title": ""
-    },
     "Knight, 1930": {
       "aliases": [
         "Knight, 1930",
@@ -124350,10 +124293,10 @@
       ],
       "title": ""
     },
-    "Knight, 2014a": {
+    "Knight, 2014": {
       "aliases": [
-        "Knight, 2014a",
-        "Knight (2014a)"
+        "Knight, 2014",
+        "Knight (2014)"
       ],
       "doi": "",
       "identity_keys": [
@@ -124363,36 +124306,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
-        "wiki/concepts/higher-education/International Education Hubs.md"
-      ],
-      "title": ""
-    },
-    "Knight, 2014b": {
-      "aliases": [
-        "Knight, 2014b",
-        "Knight (2014b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Knight, 2014a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
-      ],
-      "title": ""
-    },
-    "Knight, 2014c": {
-      "aliases": [
-        "Knight, 2014c",
-        "Knight (2014c)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Knight, 2014b"
-      ],
-      "isbn": "",
-      "seen_in": [
         "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
@@ -149363,7 +149276,6 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
         "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md",
         "wiki/persons/finland/Sami Moisio.md",
@@ -149427,8 +149339,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
-        "wiki/concepts/higher-education/International Education Hubs.md"
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
       ],
       "title": ""
     },
@@ -155498,7 +155409,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
-        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/facts/singapore/Singapore Education Hub Policy.md"
       ],
       "title": ""
@@ -188622,21 +188532,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
-      ],
-      "title": ""
-    },
-    "Sidhu et al., 2014": {
-      "aliases": [
-        "Sidhu et al., 2014",
-        "Sidhu et al. (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Sidhu et al., 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
     },
@@ -224321,6 +224216,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/theories/comparative-education/Dependency Theory.md"
       ],
       "title": ""
@@ -225467,6 +225363,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Publication Bias.md"
+      ],
+      "title": ""
+    },
+    "屈丽娟与代玉文, 2024": {
+      "aliases": [
+        "屈丽娟与代玉文, 2024",
+        "屈丽娟与代玉文 (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "屈丽娟与代玉文, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/International Education Hubs.md",
+        "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
       ],
       "title": ""
     },

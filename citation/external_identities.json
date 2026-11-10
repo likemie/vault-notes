@@ -29797,7 +29797,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
-        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/facts/uae/UAE Education Hub Projects.md"
       ],
       "title": ""
@@ -31654,14 +31653,6 @@
       "seen_in": [
         "wiki/arguments/books/Matthews(Ed.)_2018_Springer/Argument_Kelly_Licona_2018_EpistemicPractices.md",
         "wiki/theories/curriculum/Family Resemblance Approach.md"
-      ],
-      "title": ""
-    },
-    "Erfurth, 2019": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
     },
@@ -44001,14 +43992,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
-      ],
-      "title": ""
-    },
-    "Halsey Fox & Al Shamisi, 2014": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
     },
@@ -58151,14 +58134,6 @@
       "seen_in": [],
       "title": "Impact of the year-round calendar on student achievement in Alameda unified school district"
     },
-    "Knight & Lee, 2014": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
-      ],
-      "title": ""
-    },
     "Knight, 1930": {
       "doi": "",
       "isbn": "",
@@ -58189,22 +58164,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
-        "wiki/concepts/higher-education/International Education Hubs.md"
-      ],
-      "title": ""
-    },
-    "Knight, 2014a": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
-      ],
-      "title": ""
-    },
-    "Knight, 2014b": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
         "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
@@ -73449,7 +73408,6 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
         "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md",
         "wiki/persons/finland/Sami Moisio.md",
@@ -73485,8 +73443,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
-        "wiki/concepts/higher-education/International Education Hubs.md"
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
       ],
       "title": ""
     },
@@ -77121,7 +77078,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
-        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/facts/singapore/Singapore Education Hub Policy.md"
       ],
       "title": ""
@@ -97042,14 +96998,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
-      ],
-      "title": ""
-    },
-    "Sidhu et al., 2014": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/International Education Hubs.md"
       ],
       "title": ""
     },
@@ -118831,6 +118779,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/theories/comparative-education/Dependency Theory.md"
       ],
       "title": ""
@@ -119466,6 +119415,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Publication Bias.md"
+      ],
+      "title": ""
+    },
+    "屈丽娟与代玉文, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/International Education Hubs.md",
+        "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
       ],
       "title": ""
     },
