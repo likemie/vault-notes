@@ -14,7 +14,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"

@@ -68,7 +68,7 @@ updated: 2026-11-10
 
 > [!logic-map]- 要素关系
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["核心价值<br>（Core Value）"] --- B["象征符号 & 权威基础<br>（客观属性）"]
 >     A --- C["功能利益 & 情感利益<br>（利益特征）"]
 >     A --- D["独特个性 & 理想顾客<br>（个性特征）"]

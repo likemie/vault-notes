@@ -20,9 +20,11 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[Nation Branding]]"
+  - "[[Finnish Paradoxes]]"
   - "[[Education Export]]"
   - "[[Soft Power]]"
   - "[[Falsification]]"
+  - "[[Brand Honeycomb Model]]"
   - "[[Operationalization]]"
   - "[[Competitiveness]]"
   - "[[Learning Crisis]]"
@@ -50,12 +52,17 @@ related_persons:
   - "[[Pasi Sahlberg]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Finnish Country Brand Report]]"
+  - "[[Finnish Government Education Export Programme]]"
+  - "[[Action Plan for Global Education Brand Finland]]"
   - "[[Luban Workshop]]"
+  - "[[This is Finland]]"
   - "[[OECD]]"
   - "[[UNICEF]]"
   - "[[UNESCO]]"
   - "[[PIRLS]]"
   - "[[TIMSS]]"
+  - "[[Finnish Institute for Educational Research]]"
   - "[[Education Finland]]"
   - "[[EU]]"
   - "[[Global Partnership for Education]]"
@@ -72,9 +79,9 @@ title: "Argument_Yang_2023_ICE"
 argument_key: "Argument_Yang_2023_ICE"
 argument_display_title: "芬兰教育品牌建构与国际传播——基于整合营销传播理论视角"
 argument_kind: "journal-article"
-argument_related_count: 35
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "International and Comparative Education"
 book_title: ""

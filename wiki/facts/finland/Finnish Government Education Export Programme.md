@@ -14,7 +14,7 @@ subtype: program
 region: finland
 fact_region: "finland"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,10 +31,6 @@ related_concepts:
   - "[[Quasi-market]]"
   - "[[Nation Branding]]"
   - "[[Problematisation]]"
-  - "[[Regimes of Truth]]"
-  - "[[Educational Privatisation]]"
-  - "[[Public-Private Partnership]]"
-  - "[[Competitiveness]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Governmentality]]"
@@ -42,10 +38,10 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Education Finland]]"
   - "[[Finnish National Board of Education]]"
   - "[[Finnish PISA Miracle]]"
   - "[[Trade Union of Education in Finland]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Yang_2023_ICE]]"

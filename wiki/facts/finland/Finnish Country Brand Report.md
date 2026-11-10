@@ -17,9 +17,9 @@ subtype: policy
 region: "finland"
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 3
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "Prime Minister's Office of Finland"
 tags:
@@ -27,21 +27,13 @@ tags:
   - theme/education-export
   - theme/competition-state
   - policy/educational-reform
-related_concepts:
-  - "[[Nation Branding]]"
-  - "[[Education Export]]"
-  - "[[Competition State]]"
-  - "[[Policy Translation]]"
-related_theories:
-  - "[[Governmentality]]"
-related_methods:
-  - "[[Post-structural Policy Analysis]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Finnish Government Education Export Programme]]"
   - "[[Education Finland]]"
-  - "[[Finnish PISA Miracle]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Yang_2023_ICE]]"
