@@ -293,6 +293,13 @@
         "United States Atomic Energy Commission"
       ]
     },
+    "Australian College of Educators": {
+      "path": "wiki/facts/australia/Australian College of Educators.md",
+      "names": [
+        "Australian College of Educators",
+        "澳大利亚教师学院"
+      ]
+    },
     "Australian Council for Educational Research": {
       "path": "wiki/facts/australia/Australian Council for Educational Research.md",
       "names": [
@@ -300,6 +307,15 @@
         "澳大利亚教育研究委员会",
         "澳大利亚教育研究理事会",
         "ACER"
+      ]
+    },
+    "Australian Curriculum, Assessment and Reporting Authority": {
+      "path": "wiki/facts/australia/Australian Curriculum, Assessment and Reporting Authority.md",
+      "names": [
+        "Australian Curriculum, Assessment and Reporting Authority",
+        "ACARA",
+        "澳大利亚课程评估与报告局",
+        "澳大利亚课程、评估与报告局"
       ]
     },
     "Australian Education Research Organisation": {
@@ -1040,6 +1056,15 @@
         "ERIC",
         "教育资源信息中心",
         "Educational Resources Information Center"
+      ]
+    },
+    "Education Review Office": {
+      "path": "wiki/facts/new-zealand/Education Review Office.md",
+      "names": [
+        "Education Review Office",
+        "ERO",
+        "新西兰教育审查办公室",
+        "Te Tari Arotake Mātauranga"
       ]
     },
     "Education Sub Saharan Africa": {
@@ -3298,11 +3323,6 @@
     "Association of Public and Land-grant Universities (APLU)": {
       "seen_in": [
         "wiki/facts/us/Public Impact-Focused Research.md"
-      ]
-    },
-    "Australian Curriculum, Assessment and Reporting Authority": {
-      "seen_in": [
-        "wiki/facts/australia/Australian Curriculum.md"
       ]
     },
     "Australian Government Productivity Commission": {

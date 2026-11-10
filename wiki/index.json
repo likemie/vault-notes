@@ -35677,6 +35677,15 @@
     "subtype": "program"
   },
   {
+    "title": "Australian College of Educators",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian College of Educators.md",
+    "aliases": [
+      "澳大利亚教师学院"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Australian Council for Educational Research",
     "type": "fact",
     "path": "wiki/facts/australia/Australian Council for Educational Research.md",
@@ -35684,6 +35693,17 @@
       "澳大利亚教育研究委员会",
       "澳大利亚教育研究理事会",
       "ACER"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Australian Curriculum, Assessment and Reporting Authority",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Curriculum, Assessment and Reporting Authority.md",
+    "aliases": [
+      "ACARA",
+      "澳大利亚课程评估与报告局",
+      "澳大利亚课程、评估与报告局"
     ],
     "subtype": "organization"
   },
@@ -42239,6 +42259,17 @@
       "核心教育",
       "CORE Education Charitable Trust",
       "CORE Education Limited"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Education Review Office",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Education Review Office.md",
+    "aliases": [
+      "ERO",
+      "新西兰教育审查办公室",
+      "Te Tari Arotake Mātauranga"
     ],
     "subtype": "organization"
   },

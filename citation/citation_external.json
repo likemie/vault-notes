@@ -2058,6 +2058,8 @@
     "Beech, 2006b": "Beech, 2006b",
     "Beech, 2015": "Beech, 2015",
     "Beech, 2023": "Beech, 2023",
+    "Beelen et al. (2015)": "Beelen et al., 2015",
+    "Beelen et al., 2015": "Beelen et al., 2015",
     "Beelmann et al. (1994)": "Beelmann et al., 1994",
     "Beelmann et al., 1994": "Beelmann et al., 1994",
     "Beer (1972)": "Beer, 1972",
@@ -4476,12 +4478,14 @@
     "Cheney, 2009": "Cheney, 2009",
     "Cheng & Koh (2022)": "Cheng & Koh, 2022",
     "Cheng & Koh, 2022": "Cheng & Koh, 2022",
+    "Cheng et al. (2011)": "Cheng et al., 2011",
     "Cheng et al. (2013)": "Cheng et al., 2013",
     "Cheng et al. (2014)": "Cheng et al., 2014",
     "Cheng et al. (2017)": "Cheng et al., 2017",
     "Cheng et al. (2019)": "Cheng et al., 2019",
     "Cheng et al. (2022)": "Cheng et al., 2022",
     "Cheng et al. (2023)": "Cheng et al., 2023",
+    "Cheng et al., 2011": "Cheng et al., 2011",
     "Cheng et al., 2013": "Cheng et al., 2013",
     "Cheng et al., 2014": "Cheng et al., 2014",
     "Cheng et al., 2017": "Cheng et al., 2017",
@@ -11466,6 +11470,8 @@
     "Ianno, 1995": "Ianno, 1995",
     "Ibe (2009)": "Ibe, 2009",
     "Ibe, 2009": "Ibe, 2009",
+    "Ibnouf et al. (2013)": "Ibnouf et al., 2013",
+    "Ibnouf et al., 2013": "Ibnouf et al., 2013",
     "Ibrahim et al. (2014)": "Ibrahim et al., 2014",
     "Ibrahim et al., 2014": "Ibrahim et al., 2014",
     "Ide (2016)": "Ide, 2016",
@@ -12080,7 +12086,9 @@
     "John W. Kingdon (1984)": "John W. Kingdon, 1984",
     "John W. Kingdon, 1984": "John W. Kingdon, 1984",
     "John et al. (2012)": "John et al., 2012",
+    "John et al. (2013)": "John et al., 2013",
     "John et al., 2012": "John et al., 2012",
+    "John et al., 2013": "John et al., 2013",
     "John, 2015": "John, 2015",
     "Johnson & Johnson (1987)": "Johnson & Johnson, 1987",
     "Johnson & Johnson (1989)": "Johnson & Johnson, 1989",
@@ -13229,7 +13237,7 @@
     "Knight & Lee (2014)": "Knight & Lee, 2014",
     "Knight & Lee, 2014": "Knight & Lee, 2014",
     "Knight (1930)": "Knight, 1930",
-    "Knight (2013)": "Knight, 2013",
+    "Knight (2011)": "Knight, 2011",
     "Knight (2014a)": "Knight, 2014a",
     "Knight (2014b)": "Knight, 2014b",
     "Knight (2014c)": "Knight, 2014c",
@@ -13239,7 +13247,7 @@
     "Knight (2022a)": "Knight, 2022a",
     "Knight (2022b)": "Knight, 2022b",
     "Knight, 1930": "Knight, 1930",
-    "Knight, 2013": "Knight, 2013",
+    "Knight, 2011": "Knight, 2011",
     "Knight, 2014": "Knight, 2014a",
     "Knight, 2014a": "Knight, 2014b",
     "Knight, 2014b": "Knight, 2014c",
@@ -16735,8 +16743,6 @@
     "Mok et al., 2024": "Mok et al., 2024",
     "Mok, 2022": "Mok, 2022",
     "Mok, 2023": "Mok, 2023",
-    "Mokopakgosi (2013)": "Mokopakgosi, 2013",
-    "Mokopakgosi, 2013": "Mokopakgosi, 2013",
     "Mokrova (2015)": "Mokrova, 2015",
     "Mokrova, 2015": "Mokrova, 2015",
     "Mol & Bus (2011)": "Mol & Bus, 2011",
@@ -17663,6 +17669,8 @@
     "Nikolaou, 2001": "Nikolaou, 2001",
     "Nikolas Rose (1999)": "Nikolas Rose, 1999",
     "Nikolas Rose, 1999": "Nikolas Rose, 1999",
+    "Nilsson (2003)": "Nilsson, 2003",
+    "Nilsson, 2003": "Nilsson, 2003",
     "Ninnes & Burnett (2003)": "Ninnes & Burnett, 2003",
     "Ninnes & Burnett, 2003": "Ninnes & Burnett, 2003",
     "Ninomiya (2019)": "Ninomiya, 2019",
@@ -26372,8 +26380,6 @@
     "Yeo et al., 2024": "Yeo et al., 2024",
     "Yernazar (2020)": "Yernazar, 2020",
     "Yernazar, 2020": "Yernazar, 2020",
-    "Yeun (2011)": "Yeun, 2011",
-    "Yeun, 2011": "Yeun, 2011",
     "Yeung & Watkins (2000)": "Yeung & Watkins, 2000",
     "Yeung & Watkins, 2000": "Yeung & Watkins, 2000",
     "Yi et al. (2025)": "Yi et al., 2025",
@@ -42672,6 +42678,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Promissory Legitimacy.md"
+      ],
+      "title": ""
+    },
+    "Beelen et al., 2015": {
+      "aliases": [
+        "Beelen et al., 2015",
+        "Beelen et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beelen et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
       ],
       "title": ""
     },
@@ -60448,6 +60469,21 @@
       ],
       "title": ""
     },
+    "Cheng et al., 2011": {
+      "aliases": [
+        "Cheng et al., 2011",
+        "Cheng et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cheng et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
+      ],
+      "title": ""
+    },
     "Cheng et al., 2013": {
       "aliases": [
         "Cheng et al., 2013",
@@ -70978,6 +71014,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md",
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/facts/australia/Australian College of Educators.md",
         "wiki/facts/australia/Evidence for Learning.md",
         "wiki/facts/uk/ResearchED.md"
       ],
@@ -81292,6 +81329,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
         "wiki/theories/university-industry-collaboration/Triple Helix.md"
       ],
       "title": ""
@@ -111531,6 +111569,21 @@
       "seen_in": [],
       "title": "Metacognitive Strategies on Classroom Participation and Student Achievement in Senior Secondary School Science Classrooms"
     },
+    "Ibnouf et al., 2013": {
+      "aliases": [
+        "Ibnouf et al., 2013",
+        "Ibnouf et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ibnouf et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
+      ],
+      "title": ""
+    },
     "Ibrahim et al., 2014": {
       "aliases": [
         "Ibrahim et al., 2014",
@@ -115936,6 +115989,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md"
+      ],
+      "title": ""
+    },
+    "John et al., 2013": {
+      "aliases": [
+        "John et al., 2013",
+        "John et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "John et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
       ],
       "title": ""
     },
@@ -124242,14 +124310,14 @@
       ],
       "title": ""
     },
-    "Knight, 2013": {
+    "Knight, 2011": {
       "aliases": [
-        "Knight, 2013",
-        "Knight (2013)"
+        "Knight, 2011",
+        "Knight (2011)"
       ],
       "doi": "",
       "identity_keys": [
-        "Knight, 2013"
+        "Knight, 2011"
       ],
       "isbn": "",
       "seen_in": [
@@ -149400,21 +149468,6 @@
       ],
       "title": ""
     },
-    "Mokopakgosi, 2013": {
-      "aliases": [
-        "Mokopakgosi, 2013",
-        "Mokopakgosi (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mokopakgosi, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
-      ],
-      "title": ""
-    },
     "Mokrova, 2015": {
       "aliases": [
         "Mokrova, 2015",
@@ -156175,6 +156228,21 @@
         "wiki/concepts/research-methodology/Space of Equivalence.md",
         "wiki/concepts/sociology-of-education/Commensuration.md",
         "wiki/theories/political-economy-geopolitics/Governmentality.md"
+      ],
+      "title": ""
+    },
+    "Nilsson, 2003": {
+      "aliases": [
+        "Nilsson, 2003",
+        "Nilsson (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nilsson, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
       ],
       "title": ""
     },
@@ -217896,6 +217964,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/educational-leadership-administration/New Public Management.md",
+        "wiki/facts/new-zealand/Education Review Office.md",
         "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md"
       ],
       "title": ""
@@ -219296,21 +219365,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Development of metacognitive skill in teaching mathematics"
-    },
-    "Yeun, 2011": {
-      "aliases": [
-        "Yeun, 2011",
-        "Yeun (2011)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Yeun, 2011"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
-      ],
-      "title": ""
     },
     "Yeung & Watkins, 2000": {
       "aliases": [

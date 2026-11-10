@@ -62,10 +62,12 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[OECD]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[American Council on Education]]"
   - "[[Australian Council for Educational Research]]"
   - "[[ResearchED]]"
   - "[[Australian Curriculum]]"
+  - "[[Australian Curriculum, Assessment and Reporting Authority]]"
+  - "[[Education Review Office]]"
+  - "[[Australian College of Educators]]"
 related_arguments: []
 sources:
   - "[[sources/Sarbiewska_2019_KiW/Sarbiewska_2019_KiW|Sarbiewska_2019_KiW]]"
@@ -79,7 +81,7 @@ title: "Argument_Sarbiewska_2019_KiW"
 argument_key: "Argument_Sarbiewska_2019_KiW"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -127,7 +129,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（Alton-Lee, 2004）、新西兰教育审查办公室（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
+> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（Alton-Lee, 2004）、[[Education Review Office|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
 > | **课程与教学规程** | 包含《澳大利亚课程》（Australian Curriculum, 2012/2015）、《新西兰国家课程》（The New Zealand Curriculum, 2010/2012）以及维多利亚州《高影响教学策略》（High Impact Teaching Strategies, HITS; 2017）。 |
 > | **学术批判语料** | 纳入丹麦学者托马斯·罗默（[[Thomas Aastrup Rømer]]）关于可见学习激进建构主义倾向的哲学批判，以及统计学家皮埃尔-热罗姆·贝尔热龙（Pierre-Jérôme Bergeron）的方法论商榷。 |
 
@@ -262,9 +264,9 @@ issuing_organization: ""
 
 > [!case] 澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）与证据中介生态
 > - **HITS 教学策略体系** 维多利亚州教育部联合学者实证成果，总结出 10 项高影响教学策略（HITS），为一线教师提供明确的课堂教学操作规程。
-> - **实践证据分享网络** 澳大利亚教师学院（Australian College of Educators, [[American Council on Education|ACE]]）与 [[Australian Council for Educational Research|ACER]] 推动创设 [[ResearchED|researchED]] 平台与专业实践卓越大会，建立证据中介机制（Deeble & Vaughan, 2018），促进优秀教学经验的跨校推广。
+> - **实践证据分享网络** [[Australian College of Educators|澳大利亚教师学院]]（Australian College of Educators, ACE）与 [[Australian Council for Educational Research|ACER]] 推动创设 [[ResearchED|researchED]] 平台与专业实践卓越大会，建立证据中介机制（Deeble & Vaughan, 2018），促进优秀教学经验的跨校推广。
 > - **校内数据收集规范** 新南威尔士州教育部制定《校内数据收集指引》，规范过程性与结果性教学数据的常态化采集。
-> - **新西兰 ERO 督导支持** 新西兰教育审查办公室（ERO, 2018）通过《引领新西兰学校创新学习》等指南，指导教师灵活回应多元学情，运用社区资源支持[[Individualised Instruction|个性化教学]]。
+> - **新西兰 ERO 督导支持** [[Education Review Office|新西兰教育审查办公室]]（ERO, 2018）通过《引领新西兰学校创新学习》等指南，指导教师灵活回应多元学情，运用社区资源支持[[Individualised Instruction|个性化教学]]。
 
 > [!sub-claim] 2. 落实冈斯基成长评价，用学生个体年度学业进步取代按年龄一刀切
 
@@ -284,7 +286,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 推行弹性国家课程标准，开展维护学科深度的跨学科课程连接
 
 > [!case] 澳新两国国家课程的弹性建构与课程连接实践
-> - **[[Australian Curriculum|澳大利亚课程]]弹性重构** 澳大利亚课程评估与报告局（Australian Curriculum, Assessment and Reporting Authority, ACARA）于 2012 年发布《[[Australian Curriculum|澳大利亚课程]]》，设置学习领域、通用能力与跨课程优先事项三大维度。针对 2014 年课程审查发现的课业拥挤问题，教育部门组织一线骨干教师与专家协作，精简大纲内容，赋予学校更多的校本裁剪空间。
+> - **[[Australian Curriculum|澳大利亚课程]]弹性重构** [[Australian Curriculum, Assessment and Reporting Authority|澳大利亚课程评估与报告局]]（Australian Curriculum, Assessment and Reporting Authority, ACARA）于 2012 年发布《[[Australian Curriculum|澳大利亚课程]]》，设置学习领域、通用能力与跨课程优先事项三大维度。针对 2014 年课程审查发现的课业拥挤问题，教育部门组织一线骨干教师与专家协作，精简大纲内容，赋予学校更多的校本裁剪空间。
 > - **新西兰国家课程原则引领** 《新西兰国家课程》（2010）确立了高期望、学会学习、文化多样性等核心原则，由 ERO 定期督导评估。大纲授权各校结合本地社区愿景自主设计课程蓝图。
 > - **课程连接的跨学科探索** 区别于容易削弱学科深度的传统主题式教学，两国学校推行课程连接模式，在保持各学科知识体系严谨性的前提下建立跨学科关联。菲利普·杰利曼（Jellyman, 2015）对 12 所新西兰中学的调研表明，跨学科课程连接能够在保持学科规范的同时有效发展综合素养。
 
