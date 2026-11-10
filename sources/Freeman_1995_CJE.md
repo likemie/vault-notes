@@ -1,7 +1,6 @@
 ---
 citation: "Freeman, C. (1995). The 'National System of Innovation' in historical perspective. Cambridge Journal of Economics, 19(1), 5–24."
-extracted_to:
-  - "[[Argument_Freeman_1995_CJE]]"
+extracted_to: []
 processed_date: 2026-10-05
 ---
 
