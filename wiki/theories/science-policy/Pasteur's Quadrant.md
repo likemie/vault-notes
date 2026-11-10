@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -116,24 +116,28 @@ updated: 2026-10-30
 ---
 
 > [!theory-proposition] 命题一｜科研动机在[[Epistemology|认识论]]与社会功能上构成二维正交空间，而非互斥的零和滑动轴
-> **解释** 布什学派的传统教条假定，对实用目的的关注必然会损害科学探索的纯洁性与自主性；斯托克斯从科学史中考证出，科学发展史上大量最卓越的理论飞跃，恰恰是在攻克工业生产、农业疫病、国家防卫等极端严苛的现实问题时被逼迫出来的。动机之间不存在天然互斥，二维正交模型更符合科学共同体的实证常态。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
->
-> **应用实例** [[Manhattan Project|曼哈顿工程]]中的理论物理学家，在极其具体的核武器工程研制目标的倒逼下，极大地深化了中子输运理论、状态方程与流体力学非线性计算的前沿理论认知。
+> 布什学派的传统教条假定，对实用目的的关注必然会损害科学探索的纯洁性与自主性；斯托克斯从科学史中考证出，科学发展史上大量最卓越的理论飞跃，恰恰是在攻克工业生产、农业疫病、国家防卫等极端严苛的现实问题时被逼迫出来的。动机之间不存在天然互斥，二维正交模型更符合科学共同体的实证常态。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+
+> [!example] 应用实例
+> [[Manhattan Project|曼哈顿工程]]中的理论物理学家，在极其具体的核武器工程研制目标的倒逼下，极大地深化了中子输运理论、状态方程与流体力学非线性计算的前沿理论认知。
 
 > [!theory-proposition] 命题二｜巴斯德象限研究应成为国家创新政策与公共研发资助的战略重心
-> **解释** 斯托克斯主张，纯基础研究（玻尔象限）往往周期漫长且方向难以预测，纯应用研究（爱迪生象限）易于被私营部门资本化，而巴斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
->
-> **应用实例** [[DARPA|国防高级研究计划局]]（DARPA）通过设立极具挑战性的现实应用目标（如隐形飞机、分布式互联网络、全球定位系统），引导顶尖科学家在基础理论与前沿工程交汇处展开攻关，成为巴斯德象限模式在制度上的成功样板。
+> 斯托克斯主张，纯基础研究（玻尔象限）往往周期漫长且方向难以预测，纯应用研究（爱迪生象限）易于被私营部门资本化，而巴斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+
+> [!example] 应用实例
+> [[DARPA|国防高级研究计划局]]（DARPA）通过设立极具挑战性的现实应用目标（如隐形飞机、分布式互联网络、全球定位系统），引导顶尖科学家在基础理论与前沿工程交汇处展开攻关，成为巴斯德象限模式在制度上的成功样板。
 
 > [!theory-proposition] 命题三｜巴斯德象限是冷战后科学界重构公共资助合法性并抵御工具化收编的制度缓冲器
-> **解释** 樊春良考察指出，巴斯德象限不仅是认识论分类模型，更是特定历史阶段[[Social Contract of Science|科学社会契约]]的制度妥协产物。冷战结束后，科学面临从“默认信任”向“条件化正当性”的重大转型；斯托克斯提出用启发性基础研究，巧妙地为科学界构建了一道既回应经济与社会绩效要求、又捍卫基础机理探究主导权的制度缓冲带，使科学共同体在安全正当性消退的三十年间成功避免了沦为短期产业工程附庸的命运。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
->
-> **应用实例** 国家科学基金会（[[National Science Foundation]], NSF）自 1990 年代起逐步在同行评议中强化“智力价值”（Intellectual Merit）与“更广泛的影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）双重标准，使资助项目在形式上全面向巴斯德象限聚拢。
+> 樊春良考察指出，巴斯德象限不仅是认识论分类模型，更是特定历史阶段[[Social Contract of Science|科学社会契约]]的制度妥协产物。冷战结束后，科学面临从“默认信任”向“条件化正当性”的重大转型；斯托克斯提出用启发性基础研究，巧妙地为科学界构建了一道既回应经济与社会绩效要求、又捍卫基础机理探究主导权的制度缓冲带，使科学共同体在安全正当性消退的三十年间成功避免了沦为短期产业工程附庸的命运。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+
+> [!example] 应用实例
+> 国家科学基金会（[[National Science Foundation]], NSF）自 1990 年代起逐步在同行评议中强化“智力价值”（Intellectual Merit）与“更广泛的影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）双重标准，使资助项目在形式上全面向巴斯德象限聚拢。
 
 > [!theory-proposition] 命题四｜巴斯德象限是当代前沿工程科学与新型科研组织（[[Focused Research Organization|FRO]] / [[NSF X-Labs|X-Labs]]）的制度锚点
-> **解释** [[Michael Kratsios|克拉齐奥斯]]在 2026 年白宫战略报告中指出，当代科学技术最重大的突破（如 2024 年诺贝尔化学奖的 AlphaFold 蛋白质结构预测、2025 年诺贝尔物理学奖的超导量子电路）均深植于巴斯德象限。然而，这类耗资数千万美元、需数十人工程团队攻关五至十年的中等规模公共品科学，在既有大学单 PI 实验室（偏向玻尔象限与学位周期）与营利性企业（偏向爱迪生象限与短期[[Return on Investment|投资回报]]）之间形成了巨大的制度空白。必须依据巴斯德象限逻辑，发展[[Focused Research Organization|聚焦研究组织]]（FRO）、技术创新与伙伴关系理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）X 实验室等新型非营利载体，并推进组合式资助以承接中等规模工程科学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 6–7, 20–26)]]
->
-> **应用实例** 蛋白质结构预测 [[Critical Assessment of Structure Prediction|CASP]] 竞赛与[[Protein Data Bank|蛋白质数据库]]（PDB）基础设施；帕金森病微创脑机接口与全人类免疫记忆[[Decodification|解码]]平台等中等规模工程[[Science Programs|科学项目]]。
+> [[Michael Kratsios|克拉齐奥斯]]在 2026 年白宫战略报告中指出，当代科学技术最重大的突破（如 2024 年诺贝尔化学奖的 AlphaFold 蛋白质结构预测、2025 年诺贝尔物理学奖的超导量子电路）均深植于巴斯德象限。然而，这类耗资数千万美元、需数十人工程团队攻关五至十年的中等规模公共品科学，在既有大学单 PI 实验室（偏向玻尔象限与学位周期）与营利性企业（偏向爱迪生象限与短期[[Return on Investment|投资回报]]）之间形成了巨大的制度空白。必须依据巴斯德象限逻辑，发展[[Focused Research Organization|聚焦研究组织]]（FRO）、技术创新与伙伴关系理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）X 实验室等新型非营利载体，并推进组合式资助以承接中等规模工程科学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 6–7, 20–26)]]
+
+> [!example] 应用实例
+> 蛋白质结构预测 [[Critical Assessment of Structure Prediction|CASP]] 竞赛与[[Protein Data Bank|蛋白质数据库]]（PDB）基础设施；帕金森病微创脑机接口与全人类免疫记忆[[Decodification|解码]]平台等中等规模工程[[Science Programs|科学项目]]。
 
 ---
 

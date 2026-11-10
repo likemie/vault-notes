@@ -3,12 +3,12 @@ title: Screening Off
 aliases:
   - 筛选隔离
   - 条件独立屏蔽
-summary: 赖欣巴哈在因果分析与概率哲学中提出的核心构念，指当给定第三个共同原因变量时，原本显著相关的两个变量之间呈现条件独立，用于识别虚假相关并确证单向因果机制。
+summary: "赖欣巴哈在因果分析与概率哲学中提出的核心构念，指当给定第三个共同原因变量时，原本显著相关的两个变量之间呈现条件独立，用于识别虚假相关并确证单向因果机制。"
 type: concept
-domain: educational-philosophy
+domain: "educational-philosophy"
 related_count: 6
 related_level: 0
-related_stars: ☆
+related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
@@ -29,7 +29,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---

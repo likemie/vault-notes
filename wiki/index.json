@@ -5769,8 +5769,6 @@
     "path": "wiki/concepts/educational-philosophy/Screening Off.md",
     "aliases": [
       "筛选隔离",
-      "屏蔽",
-      "遮蔽",
       "条件独立屏蔽"
     ]
   },
@@ -13426,6 +13424,16 @@
       "扰乱者否决",
       "倒喝彩否决",
       "hecklers veto"
+    ]
+  },
+  {
+    "title": "Horizontal Comradeship",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Horizontal Comradeship.md",
+    "aliases": [
+      "横向同志情谊",
+      "平等手足情谊",
+      "横向情谊"
     ]
   },
   {

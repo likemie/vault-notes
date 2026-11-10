@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -120,24 +120,28 @@ updated: 2026-11-04
 ---
 
 > [!theory-proposition] 命题一｜契约稳定依赖于压倒性国家安全前提与高自治高嵌入对称结构
-> **解释** 当外部存在压倒一切的国家生存危机或体系性地缘对抗时，基础研究的长期潜能能够被直接折算为国家战略储备，从而赋予科学共同体极高的专业自治权与不设限的资源支持。科学精英深度嵌入最高安全决策，微观研究路径则免受官僚干涉，形成稳定的互惠平衡。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
->
-> **应用实例** 1957 年[[Sputnik Shock 1957|苏联卫星危机]]爆发后，学术界咨询精英通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）直通白宫，在[[Seaborg Report 1960|西博格报告]]中确立基础探索与高层次研究生培养同构的科教一体信条；同时依托国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）直通国会，设定每年 15% 的小科学预算增长基准，推动联邦资助重心由国防军事合同转向[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）与[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）的同行评议资助，形成 1957—1967 年的基础研究黄金期。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–40)]]
+> 当外部存在压倒一切的国家生存危机或体系性地缘对抗时，基础研究的长期潜能能够被直接折算为国家战略储备，从而赋予科学共同体极高的专业自治权与不设限的资源支持。科学精英深度嵌入最高安全决策，微观研究路径则免受官僚干涉，形成稳定的互惠平衡。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
+
+> [!example] 应用实例
+> 1957 年[[Sputnik Shock 1957|苏联卫星危机]]爆发后，学术界咨询精英通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）直通白宫，在[[Seaborg Report 1960|西博格报告]]中确立基础探索与高层次研究生培养同构的科教一体信条；同时依托国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（Committee on Science and Public Policy, COSPUP）直通国会，设定每年 15% 的小科学预算增长基准，推动联邦资助重心由国防军事合同转向[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）与[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）的同行评议资助，形成 1957—1967 年的基础研究黄金期。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–40)]]
 
 > [!theory-proposition] 命题二｜合法性拼合与多重功能过载促使科学正当性由自明滑向条件化
-> **解释** 当压倒一切的国家安全正当性分化后，国家开始将经济[[Competitiveness|竞争力]]、社会公平、环境保护与行政问责等多种[[Heterogeneity|异质性]]目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为由外部可测绩效换取的条件化正当性，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
->
-> **应用实例** 2010 年美国出台《政府绩效与成果法案现代化法案》（Government Performance and Results Act Modernization Act, GPRAMA）并将 NSF 更广泛的影响（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审指标硬化为刚性门槛，使科研项目必须就解决重大社会挑战提供刚性证明，传统由好奇心驱动的基础探索丧失了无条件免检地位。
+> 当压倒一切的国家安全正当性分化后，国家开始将经济[[Competitiveness|竞争力]]、社会公平、环境保护与行政问责等多种[[Heterogeneity|异质性]]目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为由外部可测绩效换取的条件化正当性，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
+
+> [!example] 应用实例
+> 2010 年美国出台《政府绩效与成果法案现代化法案》（Government Performance and Results Act Modernization Act, GPRAMA）并将 NSF 更广泛的影响（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审指标硬化为刚性门槛，使科研项目必须就解决重大社会挑战提供刚性证明，传统由好奇心驱动的基础探索丧失了无条件免检地位。
 
 > [!theory-proposition] 命题三｜国家在危机与激烈竞争情境下倾向于发展以能力获取为中心的技术型替代契约
-> **解释** 当地缘技术对抗急剧升温且关键新兴技术的突破主要发生于私营部门与产业生态时，国家倾向于弱化对传统学术体系漫长积累周期的依赖。政府通过行政统筹、跨部门动员、政府采购与强化安全审计，建立以技术能力快速掌控为核心的新型契约，科学由国家的认知中心降级为能力体系中的从属要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
->
-> **应用实例** 2025 年特朗普政府启动[[Genesis Mission|创世纪计划]]（The Genesis Mission）并颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）与量子技术的工程化落地。
+> 当地缘技术对抗急剧升温且关键新兴技术的突破主要发生于私营部门与产业生态时，国家倾向于弱化对传统学术体系漫长积累周期的依赖。政府通过行政统筹、跨部门动员、政府采购与强化安全审计，建立以技术能力快速掌控为核心的新型契约，科学由国家的认知中心降级为能力体系中的从属要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
+
+> [!example] 应用实例
+> 2025 年特朗普政府启动[[Genesis Mission|创世纪计划]]（The Genesis Mission）并颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）与量子技术的工程化落地。
 
 > [!theory-proposition] 命题四｜科学无止境边疆的制度基石动摇促发全球科研组织分化为三轨结构
-> **解释** [[Science, The Endless Frontier 1945|布什报告]]确立的科学无止境边疆是一整套具有高度约束力的制度性承诺，超越了单纯描绘知识无限性的自然隐喻。当国家撤销对长周期探索价值的默认信任、收紧时间容忍度并施加即时效用与合规审查时，无止境边疆退化为待正当化命题，促使科研组织载体分化为任务导向型（与国家安全深度绑定）、应用启发型（公私研发网络主流）与自由探索型（退缩为小众或私人慈善资助的边缘形态）三条并行轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
->
-> **应用实例** 2025 年后美国联邦研发资源全面向国防关键技术与重大工程计划倾斜，传统[[Research Universities|研究型大学]]中仅有少数从事战略应用的研究团队能稳定获得大额资助，纯粹好奇心驱动的纯理论探索在联邦资助收缩下被迫转向校友捐赠与私人基金会托底。
+> [[Science, The Endless Frontier 1945|布什报告]]确立的科学无止境边疆是一整套具有高度约束力的制度性承诺，超越了单纯描绘知识无限性的自然隐喻。当国家撤销对长周期探索价值的默认信任、收紧时间容忍度并施加即时效用与合规审查时，无止境边疆退化为待正当化命题，促使科研组织载体分化为任务导向型（与国家安全深度绑定）、应用启发型（公私研发网络主流）与自由探索型（退缩为小众或私人慈善资助的边缘形态）三条并行轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
+
+> [!example] 应用实例
+> 2025 年后美国联邦研发资源全面向国防关键技术与重大工程计划倾斜，传统[[Research Universities|研究型大学]]中仅有少数从事战略应用的研究团队能稳定获得大额资助，纯粹好奇心驱动的纯理论探索在联邦资助收缩下被迫转向校友捐赠与私人基金会托底。
 
 ---
 

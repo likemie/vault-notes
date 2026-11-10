@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch01"
 argument_key: "Argument_Anderson_2016_Verso_Ch01"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - theme/nationalism
   - theme/political-philosophy
 related_concepts:
+  - "[[Horizontal Comradeship]]"
   - "[[Modular Nationalism]]"
   - "[[Paradigm]]"
   - "[[Geopolitics]]"
@@ -76,7 +77,7 @@ updated: 2026-11-11
 > | **[[Imagined Community\|想象的共同体]]**<br>Imagined Community | 将民族界定为有限且享有主权的想象政治共同体，强调一切超越面对面原始村落的群体均取决于想象的具体风格（pp. 5–7）。 |
 > | **[[Modular Nationalism\|模块化文化人造物]]**<br>Modular Cultural Artefact | 说明民族形态自18世纪末定型后转变为可供后发社会普遍借鉴、移植并与多元意识形态星座嵌合的文化范型（p. 4）。 |
 > | **文化人造物类比亲属与宗教**<br>Kinship and Religion Analogy | 将民族范畴从自洽的政治意识形态分类中移出，归入具有深厚情感归属与存在意义的本体范畴（pp. 4–5）。 |
-> | **横向同志情谊**<br>Horizontal Comradeship | 解释民族内部跨越现实阶级剥削与财富不平等、维系成员舍生取义的心理基石（p. 7）。 |
+> | **[[Horizontal Comradeship|横向同志情谊]]**<br>Horizontal Comradeship | 解释民族内部跨越现实阶级剥削与财富不平等、维系成员舍生取义的心理基石（p. 7）。 |
 > | **民族主义三大悖论**<br>Three Paradoxes of Nationalism | 揭示困扰理论界的核心症结：历史学家的客观现代性对峙主观古老性、法理形式普遍性对峙实质特殊性、政治威力对峙哲学贫困（p. 5）。 |
 
 > [!warrant]- 概念工具支撑逻辑
@@ -203,7 +204,7 @@ updated: 2026-11-11
 >   即便规模最庞大、涵盖上亿人口的现代民族，也拥有清晰却具弹性的领土疆界，其外延存在着其他平等的民族国家。没有任何民族会将自身构想为包揽全人类的共同体；这与怀抱普遍皈依愿景、意图将全人类纳入单一信仰宇宙的普世宗教帝国（如基督教或伊斯兰教）形成鲜明对照（p. 7）。
 > - **政治主权性（Sovereign）**
 >   民族概念诞生于[[Enlightenment|启蒙运动]]与资产阶级政治革命摧毁神权秩序与世袭王朝合法性的历史关口。当人类即便面对最虔诚的普世信仰，也无法回避宗教多元并存的历史现实时，各民族追求在世俗秩序中掌控自身命运；主权国家成为现代人确认自身自由与政治自主的至高徽标（p. 7）。
-> - **横向同志情谊（Community）**
+> - **[[Horizontal Comradeship|横向同志情谊]]（Community）**
 >   无论现实社会内部存在多么深刻的阶级剥削、特权压迫与财富不平等，民族始终在心理图景中被构想为一种深沉、平等的兄弟纽带（horizontal comradeship）。这种跨越阶级藩篱的情感基石赋予了有限的政治疆界以非凡的崇高性（pp. 7–8）。
 
 > [!sub-claim] 3. 深沉平等的同志情谊驱使千百万人甘愿牺牲

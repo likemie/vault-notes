@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-theory.md",
+                "file": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-theory"
+              "title": "Argument_Anderson_2016_Verso_Ch01"
             }
           }
         ],
@@ -330,10 +330,21 @@
   },
   "active": "ae133a7235b97631",
   "lastOpenFiles": [
-    "wiki/templates/template-metax.md",
-    "wiki/templates/template-method.md",
-    "wiki/theories/political-economy-geopolitics/Imagined Community.md",
+    "wiki/persons/uk/Ernest Gellner.md",
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md",
+    "wiki/theories/political-economy-geopolitics/Imagined Community.md",
+    "wiki/concepts/political-economy-geopolitics/Horizontal Comradeship.md",
+    "tmp/callout-refinement/theory-proposition-step-dark-390.png",
+    "tmp/callout-refinement/theory-proposition-step-dark-1440.png",
+    "tmp/callout-refinement/theory-proposition-step-light-390.png",
+    "tmp/callout-refinement/theory-proposition-step-light-1440.png",
+    "tmp/callout-refinement/theory-proposition-step-check.mjs",
+    "tmp/callout-refinement/theory-proposition-step.html",
+    "wiki/templates/template-concept.md",
+    "wiki/templates/template-argument.md",
+    "wiki/templates/template-method.md",
+    "wiki/templates/template-metax.md",
+    "wiki/templates/template-theory.md",
     "wiki/concepts/educational-philosophy/Screening Off.md",
     "wiki/arguments/books/Popkewitz_2005_Palgrave/Argument_Popkewitz_2005_Palgrave.md",
     "wiki/facts/global/McKinsey Education Reports.md",
@@ -355,27 +366,16 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-004/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-003/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-002/batch-result.schema.json",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-001/prompt.md",
-    "wiki/persons/uk/Ernest Gellner.md",
     "wiki/concepts/political-economy-geopolitics/Modular Nationalism.md",
     "wiki/facts/uk/London Challenge.md",
     "wiki/persons/canada/Ben Levin.md",
-    "wiki/persons/us/Richard Elmore.md",
-    "wiki/concepts/educational-leadership-administration/Governance Platform.md",
-    "wiki/concepts/curriculum/Scripted Curriculum.md",
-    "wiki/concepts/educational-policy-reform/Deliverology.md",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig6_GBA_Cities.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig5_World_Major_Bay_Areas.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig3_China_Regional_Development_Areas.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig2_Tertiary_Enrollment_Comparison_2020.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig1_Tertiary_Enrollment_China.jpg",
-    "sources/Sarbiewska_2019_KiW/figures/Sarbiewska_2019_KiW_Fig2_Modified_Didactic_Triangle.jpg",
-    "sources/Sarbiewska_2019_KiW/figures/Sarbiewska_2019_KiW_Fig1_Classic_Didactic_Triangle.jpg",
-    "tmp/callout-refinement/theory-panels-dark-390.png",
-    "tmp/callout-refinement/theory-panels-light-1440.png",
     "未命名.canvas"
   ]
 }

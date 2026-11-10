@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -102,14 +102,16 @@ updated: 2026-10-30
 ---
 
 > [!theory-proposition] 命题一｜专门政策领域的规则与资源分配由立法委员会、行政官僚与商业利益集团构成的排他性铁三角支配
-> **解释** 在高度技术化和专业化的政策议题中，国会委员会需要行政官僚与专家的技术背书来制定法案，行政机构依靠国会获取稳定的财政预算，商业集团则通过向政治家提供选金与向专家提供研发支持，换取政策对自身产品（如教材、测试工具）的独占性认证。三者结成封闭同盟，使外部公众监督实质性失效。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
->
-> **应用实例** 在《[[Reading Excellence Act|卓越阅读法案]]》制定期间，[[National Institute of Child Health and Human Development|NICHD]] 负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）向[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]提供单一眼光的[[Experimental Research|实验研究]]证词，委员会主席比尔·古德林（Bill Goodling）据此起草排他性法条，而麦格劳-希尔出版集团等商业实体随即通过符合该标准的教材占领全国受资助学区的采购市场。
+> 在高度技术化和专业化的政策议题中，国会委员会需要行政官僚与专家的技术背书来制定法案，行政机构依靠国会获取稳定的财政预算，商业集团则通过向政治家提供选金与向专家提供研发支持，换取政策对自身产品（如教材、测试工具）的独占性认证。三者结成封闭同盟，使外部公众监督实质性失效。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
+
+> [!example] 应用实例
+> 在《[[Reading Excellence Act|卓越阅读法案]]》制定期间，[[National Institute of Child Health and Human Development|NICHD]] 负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）向[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]提供单一眼光的[[Experimental Research|实验研究]]证词，委员会主席比尔·古德林（Bill Goodling）据此起草排他性法条，而麦格劳-希尔出版集团等商业实体随即通过符合该标准的教材占领全国受资助学区的采购市场。
 
 > [!theory-proposition] 命题二｜次政府通过确立排他性[[Scientific Paradigm|科学范式]]与法定标准筑牢利益垄断门槛并挤出替代性专业主张
-> **解释** 次政府维系其政策支配地位的关键技术是建立统一标准。通过将特定受资助科研团队的研究界定为唯一受法律认可的客观有效知识，次政府不仅使公帑持续回流至同盟内部的研究人员手中，还将秉持其他[[Epistemology|认识论]]取向（如[[Qualitative Research|质性研究]]、批判读写、[[Whole Language|全语言]]）的学者与教师剥离于政策资源之外，巩固其利益合法性。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
->
-> **应用实例** NICHD 扶植的特定心理学与医学研究学者（如 Marilyn Adams 与 Barbara Foorman）持续主导联邦专家委员会并起草国家阅读报告，借由联邦法律对科学本位阅读研究的强制规范，将其他教育学院学者边缘化，并压制关于阅读社会文化维度的多元学术讨论。
+> 次政府维系其政策支配地位的关键技术是建立统一标准。通过将特定受资助科研团队的研究界定为唯一受法律认可的客观有效知识，次政府不仅使公帑持续回流至同盟内部的研究人员手中，还将秉持其他[[Epistemology|认识论]]取向（如[[Qualitative Research|质性研究]]、批判读写、[[Whole Language|全语言]]）的学者与教师剥离于政策资源之外，巩固其利益合法性。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
+
+> [!example] 应用实例
+> NICHD 扶植的特定心理学与医学研究学者（如 Marilyn Adams 与 Barbara Foorman）持续主导联邦专家委员会并起草国家阅读报告，借由联邦法律对科学本位阅读研究的强制规范，将其他教育学院学者边缘化，并压制关于阅读社会文化维度的多元学术讨论。
 
 ---
 

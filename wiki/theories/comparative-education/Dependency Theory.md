@@ -93,7 +93,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -146,30 +146,34 @@ updated: 2026-11-02
 ---
 
 > [!theory-proposition] 命题一｜拒绝现代化理论的内部“缺失”假定，教育欠发展是资本主义世界体系中心-边缘结构性支配的直接产物
-> **解释** 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项假设，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与[[Geopolitics|地缘政治]]从属。卡扎米亚斯指出，这一批判彻底打破了将学校视为[[Value Neutrality|价值中立]]育人机构的传统幻想。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
->
-> **应用实例** 20 世纪中叶西方援助机构向非洲与拉美大规模输出西方正规学校模型与课程方案，不仅未能解决受援国失业危机，反而造成大量农村劳动力脱离本土生产实践、盲目涌入城市贫民窟，进一步加深了对外部粮食与工业品的依附。
+> 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项假设，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与[[Geopolitics|地缘政治]]从属。卡扎米亚斯指出，这一批判彻底打破了将学校视为[[Value Neutrality|价值中立]]育人机构的传统幻想。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+
+> [!example] 应用实例
+> 20 世纪中叶西方援助机构向非洲与拉美大规模输出西方正规学校模型与课程方案，不仅未能解决受援国失业危机，反而造成大量农村劳动力脱离本土生产实践、盲目涌入城市贫民窟，进一步加深了对外部粮食与工业品的依附。
 
 ---
 
 > [!theory-proposition] 命题二｜跨国垄断资本与边缘买办精英结成[[Pact of Domination|支配同盟]]，将外围国家塑造成[[Conditioned State Theory|受限国家]]并推行双轨教育
-> **解释** 外围国家的国家机器缺乏自主性，沦为双重受限的受限国家（Conditioned State）：外部受制于跨国垄断资本的积累规则，内部受制于本土后封建寡头与买办资产阶级结成的排他性同盟。受限国家在推进教育扩张时展现出严重的阶级偏向：高等与中等教育获得不成比例的巨额财政投入以满足城市精英的文凭特权，而最基础的全民初等教育与成人扫盲长期滞后；整个教育系统由此分裂为服务富裕阶层的优质轨道与束缚底层的劣质初职公立轨道构成的外围双轨体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–84)]]
->
-> **应用实例** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）实证统计表明，拉美工业化初期高等教育增长 247.9%、中等教育增长 258.3%，而基础初等教育仅增长 167.6%，成人文盲绝对规模维持恒定，生动印证了受限国家优先满足精英利益的双轨教育特征。
+> 外围国家的国家机器缺乏自主性，沦为双重受限的受限国家（Conditioned State）：外部受制于跨国垄断资本的积累规则，内部受制于本土后封建寡头与买办资产阶级结成的排他性同盟。受限国家在推进教育扩张时展现出严重的阶级偏向：高等与中等教育获得不成比例的巨额财政投入以满足城市精英的文凭特权，而最基础的全民初等教育与成人扫盲长期滞后；整个教育系统由此分裂为服务富裕阶层的优质轨道与束缚底层的劣质初职公立轨道构成的外围双轨体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–84)]]
+
+> [!example] 应用实例
+> [[UNESCO|联合国教科文组织]]（UNESCO, 1974）实证统计表明，拉美工业化初期高等教育增长 247.9%、中等教育增长 258.3%，而基础初等教育仅增长 167.6%，成人文盲绝对规模维持恒定，生动印证了受限国家优先满足精英利益的双轨教育特征。
 
 ---
 
 > [!theory-proposition] 命题三｜后殖民时代的文化输出与学术规范构筑了隐性新殖民主义，导致边缘学者形成非自觉的学术依附
-> **解释** 领土殖民统治瓦解后，西方大都市学术中心、跨国出版垄断集团与[[Global Universities Rankings|全球大学排名]]机构接管了[[Epistemic Governance|知识治理]]权。中心国家通过设定“国际通行”的[[Positivism|实证主义]]研究标准、同行评议规则与知识产权壁垒，使全球南方的学术机构丧失本土议程设置权。边缘学者为了获得国际[[Scientific Credit|学术承认]]，不自觉地将西方理论与评估指标奉为普遍科学规范，陷入“心灵的奴役”（Servitude of the Mind），导致第三世界高等教育成为向中心输送学术原材料并回购理论消费品的依附性附庸。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
->
-> **应用实例** 亚洲与拉美高水平[[Research Universities|研究型大学]]长期以被纳入西方科技[[Document|文献]]索引（如 SCI、SSCI）作为教师晋升与院系评估的首要标准，客观上诱导本土学者将精力投向西方热点，忽视本国基层面临的贫困、文盲与社会不平等现实。
+> 领土殖民统治瓦解后，西方大都市学术中心、跨国出版垄断集团与[[Global Universities Rankings|全球大学排名]]机构接管了[[Epistemic Governance|知识治理]]权。中心国家通过设定“国际通行”的[[Positivism|实证主义]]研究标准、同行评议规则与知识产权壁垒，使全球南方的学术机构丧失本土议程设置权。边缘学者为了获得国际[[Scientific Credit|学术承认]]，不自觉地将西方理论与评估指标奉为普遍科学规范，陷入“心灵的奴役”（Servitude of the Mind），导致第三世界高等教育成为向中心输送学术原材料并回购理论消费品的依附性附庸。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
+
+> [!example] 应用实例
+> 亚洲与拉美高水平[[Research Universities|研究型大学]]长期以被纳入西方科技[[Document|文献]]索引（如 SCI、SSCI）作为教师晋升与院系评估的首要标准，客观上诱导本土学者将精力投向西方热点，忽视本国基层面临的贫困、文盲与社会不平等现实。
 
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]与[[Shadow State|影子国家]]侵蚀公共教育主权
-> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义规训与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Educational Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹[[National Education|国民教育]]与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
->
-> **应用实例** 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进[[School Vouchers|教育券]]制与私有化，严重摧毁了公立基础教育的公共性。
+> 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义规训与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Educational Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹[[National Education|国民教育]]与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+
+> [!example] 应用实例
+> 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进[[School Vouchers|教育券]]制与私有化，严重摧毁了公立基础教育的公共性。
 
 ---
 

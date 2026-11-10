@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-11
 title: Ergas Taxonomy of Technology Policy
 aliases:
   - 埃尔加斯技术政策分类
@@ -93,13 +93,13 @@ aliases:
 ---
 
 > [!theory-proposition] 命题一｜使命导向与扩散导向代表了不同[[Systems of Innovation|创新系统]]的能力分工
-> **解释** 使命导向政策依靠国家集中国家级资源开展前沿[[Big Science|大科学]]攻关，旨在开辟全新的[[Technological Trajectories|技术轨道]]；扩散导向政策则通过强大的中等职业技能培训和[[Technology Transfer|技术转移]]中介网络，确保先进技术迅速在中小企业中扩散普及。两者各具比较优势，反映了不同[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）体制下的[[Institutional Complementarity|制度互补性]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794)]]
+> 使命导向政策依靠国家集中国家级资源开展前沿[[Big Science|大科学]]攻关，旨在开辟全新的[[Technological Trajectories|技术轨道]]；扩散导向政策则通过强大的中等职业技能培训和[[Technology Transfer|技术转移]]中介网络，确保先进技术迅速在中小企业中扩散普及。两者各具比较优势，反映了不同[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）体制下的[[Institutional Complementarity|制度互补性]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794)]]
 
 > [!theory-proposition] 命题二｜[[New Public Management|新公共管理]]改革在削弱大科学使命的同时破坏了扩散能力底座
-> **解释** 1980 年代兴起的新公共管理改革对英美等国的使命导向政策推行短期成本效益紧缩与外包，迫使大型国家实验室削减前瞻研究；同时，这种只重微观合规的短视逻辑也破坏了扩散型体制所依赖的长期稳定公共资助机制，导致多数西方国家在 20 世纪末陷入协调能力不足的制度空心化。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–796)]]
+> 1980 年代兴起的新公共管理改革对英美等国的使命导向政策推行短期成本效益紧缩与外包，迫使大型国家实验室削减前瞻研究；同时，这种只重微观合规的短视逻辑也破坏了扩散型体制所依赖的长期稳定公共资助机制，导致多数西方国家在 20 世纪末陷入协调能力不足的制度空心化。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–796)]]
 
 > [!theory-proposition] 命题三｜应对 21 世纪[[Grand Challenges|重大挑战]]要求使命引领与敏捷扩散的辩证融合
-> **解释** 应对气候危机与老龄化照护等第三代社会–技术重大挑战，既需要传统使命导向政策所具备的宏观战略方向指引（[[Directionality of Innovation|创新的方向性]]），又需要传统扩散导向政策所具备的广泛社会渗透、基层以人为本的服务设计与[[Agile Governance|敏捷试错]]机制。第三代使命政策正是埃尔加斯二分法在更高历史阶段的辩证综合。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]
+> 应对气候危机与老龄化照护等第三代社会–技术重大挑战，既需要传统使命导向政策所具备的宏观战略方向指引（[[Directionality of Innovation|创新的方向性]]），又需要传统扩散导向政策所具备的广泛社会渗透、基层以人为本的服务设计与[[Agile Governance|敏捷试错]]机制。第三代使命政策正是埃尔加斯二分法在更高历史阶段的辩证综合。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]
 
 ---
 

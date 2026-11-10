@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -90,14 +90,16 @@ updated: 2026-11-04
 ---
 
 > [!theory-proposition] 命题一｜杰出成果数量与总产出规模呈现不可分割的线性正相关
-> **解释** 在创造性领域中，顶尖成果以大量平庸尝试甚至未达预期的探索论著为基石。西蒙顿模型预测，即便对于阿尔伯特·爱因斯坦（Albert Einstein）或巴勃罗·毕加索（Pablo Picasso）这类旷世奇才，其产出顶级代表作的比例与普通同行相比并无量级优势；其终身重大成就的总量之所以傲视群雄，核心在于其一生完成了远超常人数量级的作品探索，借助规模效应多次触碰概率上限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
->
-> **应用实例** 约翰·塞巴斯蒂安·巴赫（Johann Sebastian Bach）与沃尔夫冈·阿马德乌斯·莫扎特（Wolfgang Amadeus Mozart）流传于世的传世名曲数量最多，然而其一生所谱写的不常上演的世俗乐曲总量同样稳居欧洲音乐家榜首。
+> 在创造性领域中，顶尖成果以大量平庸尝试甚至未达预期的探索论著为基石。西蒙顿模型预测，即便对于阿尔伯特·爱因斯坦（Albert Einstein）或巴勃罗·毕加索（Pablo Picasso）这类旷世奇才，其产出顶级代表作的比例与普通同行相比并无量级优势；其终身重大成就的总量之所以傲视群雄，核心在于其一生完成了远超常人数量级的作品探索，借助规模效应多次触碰概率上限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+
+> [!example] 应用实例
+> 约翰·塞巴斯蒂安·巴赫（Johann Sebastian Bach）与沃尔夫冈·阿马德乌斯·莫扎特（Wolfgang Amadeus Mozart）流传于世的传世名曲数量最多，然而其一生所谱写的不常上演的世俗乐曲总量同样稳居欧洲音乐家榜首。
 
 > [!theory-proposition] 命题二｜个体在不同生涯阶段的单次突破概率保持恒定
-> **解释** 学者在职业生涯早期发表的研究，与在年过半百时完成的成果，其成为生涯最佳的概率完全相等。青年期突破密集直接源于青年学者为确立学术地位而投入了更为密集的研究频次。一旦资深科学家保持同等强度的发表节奏，其产出重磅突破的几率不会衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
->
-> **应用实例** 现代物理学家全样本发表序列显示，第 10 篇论著与第 40 篇论著各自获得单篇 1000 次以上引用的经验比例完全一致。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 55)]]
+> 学者在职业生涯早期发表的研究，与在年过半百时完成的成果，其成为生涯最佳的概率完全相等。青年期突破密集直接源于青年学者为确立学术地位而投入了更为密集的研究频次。一旦资深科学家保持同等强度的发表节奏，其产出重磅突破的几率不会衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 55–56)]]
+
+> [!example] 应用实例
+> 现代物理学家全样本发表序列显示，第 10 篇论著与第 40 篇论著各自获得单篇 1000 次以上引用的经验比例完全一致。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 55)]]
 
 ---
 

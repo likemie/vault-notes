@@ -66,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -109,19 +109,22 @@ updated: 2026-10-30
 ---
 
 > [!theory-proposition] 命题一｜全球高等教育是无边界且相互依存的单一网络化集体主体
-> **解释** 该命题确立了天下启发式框架的基础[[Ontology|本体论]]。区别于将[[International Education|国际教育]]视为离散主权国家间竞争或单向[[Technology Transfer|技术转移]]的传统[[Paradigm|范式]]，天下视角主张从全球整体尺度思考知识秩序，认为任何区域性或国家层面的学术实力发展都是全球知识网络生态演化的一部分。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
->
-> **应用实例** 在考察跨国高等教育区域化进程时，天下视角促使研究者聚焦区域校际网络如何共同提升应对气候变化与水资源安全等全球性挑战的协同行动能力。
+> 该命题确立了天下启发式框架的基础[[Ontology|本体论]]。区别于将[[International Education|国际教育]]视为离散主权国家间竞争或单向[[Technology Transfer|技术转移]]的传统[[Paradigm|范式]]，天下视角主张从全球整体尺度思考知识秩序，认为任何区域性或国家层面的学术实力发展都是全球知识网络生态演化的一部分。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
+
+> [!example] 应用实例
+> 在考察跨国高等教育区域化进程时，天下视角促使研究者聚焦区域校际网络如何共同提升应对气候变化与水资源安全等全球性挑战的协同行动能力。
 
 > [!theory-proposition] 命题二｜学术层级差异与平等共赢能够在多对多关系网络中辩证共生
-> **解释** 该命题突破了西方政治哲学中将等级（Hierarchy）与平等（Equality）截然对立的二元预设。天下启发式承认不同大学在科研实力、资源储备与[[Discourse|话语]]影响上的客观层级差序，但认为纵向知识领导力并不必然滑向霸权剥削；只要网络机制坚持多对多连接与自愿认同，高水平旗舰大学的议程引领便能与大众化院校的能力提升形成互补共赢。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1704)]]
->
-> **应用实例** [[Belt and Road Initiative|一带一路]]多边高教合作中，开放包容的[[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR）与精英筛选的[[Asian Universities Alliance|亚洲大学联盟]]（AUA）并行运作，正是天下观中兼顾大众横向互惠与精英纵向引领的制度化写照。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1701–1704)]]
+> 该命题突破了西方政治哲学中将等级（Hierarchy）与平等（Equality）截然对立的二元预设。天下启发式承认不同大学在科研实力、资源储备与[[Discourse|话语]]影响上的客观层级差序，但认为纵向知识领导力并不必然滑向霸权剥削；只要网络机制坚持多对多连接与自愿认同，高水平旗舰大学的议程引领便能与大众化院校的能力提升形成互补共赢。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1704)]]
+
+> [!example] 应用实例
+> [[Belt and Road Initiative|一带一路]]多边高教合作中，开放包容的[[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR）与精英筛选的[[Asian Universities Alliance|亚洲大学联盟]]（AUA）并行运作，正是天下观中兼顾大众横向互惠与精英纵向引领的制度化写照。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1701–1704)]]
 
 > [!theory-proposition] 命题三｜以世界为中心的天下观为跨国知识合作提供了非霸权的空间治理本体论
-> **解释** 周孟萱（Meng-Hsuan Chou）与德米尔约尔（Tolga Demiryol）在理论推进中强调，当代理论建构必须扬弃古代天下观中潜藏的以中原或单一国家为中心的朝贡等级制，建构起去中心化的“世界中心天下观”（world-centric tianxia）。这一本体论视空间治理为多中心、重叠互联与动态演进的网络，行动者通过知识合作织密网络密度，从而使自身在多边格局中的核心节点地位获得常态化确立。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1704–1705)]]
->
-> **应用实例** 中国高校在主导发起各类跨国大学联盟的同时，积极吸纳成员高校参与现有国际大学网络（如 IAU、APRU），并通过学科子联盟将部分主导权分散给伙伴高校，展现出以关系网络密度为导向的非排他性空间治理特征。
+> 周孟萱（Meng-Hsuan Chou）与德米尔约尔（Tolga Demiryol）在理论推进中强调，当代理论建构必须扬弃古代天下观中潜藏的以中原或单一国家为中心的朝贡等级制，建构起去中心化的“世界中心天下观”（world-centric tianxia）。这一本体论视空间治理为多中心、重叠互联与动态演进的网络，行动者通过知识合作织密网络密度，从而使自身在多边格局中的核心节点地位获得常态化确立。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1704–1705)]]
+
+> [!example] 应用实例
+> 中国高校在主导发起各类跨国大学联盟的同时，积极吸纳成员高校参与现有国际大学网络（如 IAU、APRU），并通过学科子联盟将部分主导权分散给伙伴高校，展现出以关系网络密度为导向的非排他性空间治理特征。
 
 ---
 

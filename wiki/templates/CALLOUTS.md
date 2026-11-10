@@ -34,7 +34,7 @@ updated: 2026-10-21
 
 | 形态 | 组件 | 设计 |
 | --- | --- | --- |
-| 文档型 | claim、warrant、def、citation-card、theory-proposition、question、implication、conclusion、case | 纸面底 + 左侧 3px 色轨；warrant 段首为衬线斜体 *because*；citation-card 原文用衬线斜体缩进；question 正文改衬线；case 条目以发丝线分隔、标签为强调色引导词 |
+| 文档型 | claim、warrant、def、citation-card、question、implication、conclusion、case | 纸面底 + 左侧 3px 色轨；warrant 段首为衬线斜体 *because*；citation-card 原文用衬线斜体缩进；question 正文改衬线；case 条目以发丝线分隔、标签为强调色引导词 |
 | 提示型 | note、info、tip、success、warning、abstract、danger 等 | Notion 式色调底 + 同色细框；图标 + 标题一行，不再重复英文徽章 |
 | 示例 | example | 纸面底 + 发丝框，眉标 EXAMPLE · 示例 + 衬线标题；只放举例、情境案例与示范，不放原文图表（图片用 `[!figure]-`）；可折叠 `-`，`\|notitle` 时只显示眉标 |
 | 引文/目录 | quote、index-list | quote 无底色、细竖线、衬线斜体；index-list 中性细框、紧凑列表 |
@@ -115,7 +115,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 | stat-cards | 仪表刻度底纹、大数字、底部强调线 |
 | finding-cards / evidence-grid | 铜色发现卡与编号证据卡，各有形态 |
 | dimension / theory-components / factors / chain-link | 保留阶梯、编号与推导结构，增加面板层次 |
-| theory-origin / theory-proposition / theory-framework / theory-hierarchy | 来源四格卡、命题解释实例卡、平面分析映射表与三级维度树 |
+| theory-origin / theory-proposition / theory-framework / theory-hierarchy | 来源四格卡、开放式命题与独立示例、平面分析映射表与三级维度树 |
 | timeline / phase / dev-timeline / thought-timeline | 沿原有节点轨道排列事件卡片 |
 | volume 系列 | 分层标题色带与结构面板 |
 | 对照与统计表格 | 加强表头层次，保留原有列配色及末行强调 |
@@ -276,7 +276,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 | 触发信号 | 首选 callout |
 |---|---|
 | 核心论点 / 主张 / 可争辩的判断 | `[!claim]` |
-| 理论命题及其解释和具体应用实例 | `[!theory-proposition]` |
+| 理论命题及其论证 | `[!theory-proposition]` |
 | 3–5 个链节的连续推导；前提→中间推论/机制→结论 | `[!chain-link]` |
 | 论证总结 / 核心主张摘要 / 章节收束 | `[!conclusion]` |
 | 推论 / 理论后果 / 政策后果 / 方法后果 | `[!implication]-` |
@@ -546,7 +546,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 | `[!dimension]` vs `[!feature]` vs `[!factors]` vs `[!theory-components]` | dimension = 分析**视角**；feature = 并列**属性**（该事物本身有什么）；factors = **影响变量**（什么条件作用于结果）；theory-components = 理论内部**构件** |
 | `[!proc]` vs `[!chain-link]` vs `[!phase]` | proc = **执行层**操作步骤（如何做）；chain-link = **逻辑层**3–5 个不可换序的连续推导；phase = **时间层**发展阶段。仅有顺序不等于论证链 |
 | `[!dimension]` vs `[!concept-lens]` | dimension = 分析**视角/层面**（≥3）；concept-lens = 固定三联（含义/用途/边界） |
-| `[!chain-link]` vs `[!proposition-chain]` vs `[!theory-proposition]` | chain-link = 围绕一个结论展开的逐层推导；proposition-chain = 原文形式化命题链；theory-proposition = Theory 页常用的命题、解释与应用实例。并列命题不用任一“chain” |
+| `[!chain-link]` vs `[!proposition-chain]` vs `[!theory-proposition]` | chain-link = 围绕一个结论展开的逐层推导；proposition-chain = 原文形式化命题链；theory-proposition = Theory 页的命题与论证。并列命题不用任一“chain” |
 | `[!implication]-` vs `[!conclusion]` | implication = 从发现**延伸出去**的后果；conclusion = 本论证的**收束** |
 | `[!design-notation]` vs `[!formula]` vs `[!designs]` vs `[!method-panel]` | design-notation = 实验设计的 **R/X/O 记号图示**（彩色徽章列表，标签蓝／R·NR 红／X 琥珀／O 绿）；formula = 数学/统计**公式**；designs = 设计类型的**文字列表**；method-panel = 研究设计各环节的**散文/表格说明** |
 
@@ -693,13 +693,14 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 > - **形成路径** 从问题与材料到概念、命题或机制的推理。
 ```
 
-`[!theory-proposition]` 用一个单元承载一条命题。标题是一句完整判断；正文只有“解释”和“应用实例”两个连续段落。解释交代含义、构件关系、条件、版本与来源，应用实例展示命题如何用于理解具体现象。不要把同一命题拆成前提、机制和推论列表；自拟实例要标为示例。
+`[!theory-proposition]` 用一个单元承载一条命题。标题是一句完整判断；沿用论证步骤的开放式标题、横向分隔线与内嵌正文。正文首段直接论证，省略“解释”或“解读”小标题，并交代含义、构件关系、条件、版本与来源。应用实例紧接该命题，另用一个 [!example] 展示命题如何用于理解具体现象。不要把同一命题拆成前提、机制和推论列表；自拟实例要标为示例。
 
 ```markdown
 > [!theory-proposition] 命题一｜<完整判断>
-> **解释** 用连贯文字说明判断为何成立，交代提出者与版本。[[Argument|(Author, Year, p. X)]]
->
-> **应用实例** 用一个具体情境展示这条命题怎样引导观察；自拟时写明“示例”。
+> 用连贯文字说明判断为何成立，交代提出者与版本。[[Argument|(Author, Year, p. X)]]
+
+> [!example] 应用实例
+> 用一个具体情境展示这条命题怎样引导观察；自拟时写明“示例”。
 ```
 
 `[!theory-framework]` 用于从理论转向研究分析。表头必须保留；标准四列表每行对应一条可追溯的命题或构件，依次区分理论依据、分析提问、观察材料、判读规则。维度不等于变量，材料也不等于结论。保持规整的四列矩阵表格结构，窄面板支持平滑横向滚动。扩展为五列以上时不套用固定列宽，内容按容器自适应排布。
@@ -737,7 +738,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 |---|---|
 | `[!logic-map]` | Mermaid 论证图、机制图、因果链 |
 | `[!mechanism-map]` | 理论机制图；图后需配 `[!theory-proposition]` 或散文解释 |
-| `[!theory-proposition]` | 理论页的命题单元：完整命题标题＋解释段落＋应用实例段落 |
+| `[!theory-proposition]` | 理论页的命题单元：完整命题标题与论证正文，应用实例另用 [!example] |
 | `[!proposition-chain]` | 旧式形式化命题链；仅在原文明确逐项推导且任务确需还原时使用 |
 | `[!argument-steps]` | 分步论证结构，适合全书或长篇论证 |
 | `[!chain-link]` | 深层论证链：围绕一个结论呈现 3–5 个连续链节；链节不可任意换序，后项必须以前项为逻辑前提 |

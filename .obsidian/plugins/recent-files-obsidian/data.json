@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
+      "basename": "Argument_Anderson_2016_Verso_Ch01",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
     },
     {
-      "basename": "template-metax",
-      "path": "wiki/templates/template-metax.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
+      "basename": "Ernest Gellner",
+      "path": "wiki/persons/uk/Ernest Gellner.md"
     },
     {
       "basename": "Imagined Community",
       "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
     },
     {
-      "basename": "Argument_Anderson_2016_Verso_Ch01",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "template-method",
+      "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "template-metax",
+      "path": "wiki/templates/template-metax.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
     },
     {
       "basename": "Screening Off",
@@ -187,18 +199,6 @@
     {
       "basename": "Yang_2017_MUE",
       "path": "sources/Yang_2017_MUE/Yang_2017_MUE.md"
-    },
-    {
-      "basename": "Argument_Lei_Ding_Chiu_2026_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md"
-    },
-    {
-      "basename": "Best Practice Approach in Comparative Education",
-      "path": "wiki/concepts/comparative-education/Best Practice Approach in Comparative Education.md"
-    },
-    {
-      "basename": "Sisu",
-      "path": "wiki/concepts/educational-psychology/Sisu.md"
     }
   ],
   "omittedPaths": [],

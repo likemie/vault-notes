@@ -104,7 +104,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-29"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -170,9 +170,9 @@ updated: 2026-10-31
 > [!sub-claim] 1. 队伍扩充推高宏观文献总量，个人年均发文稳停在两篇
 
 > [!mechanism] 宏观文献爆炸由科研队伍扩张驱动，个体年均产出保持认知稳态
-> 学界常依直觉假定，科学知识规模的宏观膨胀源于个体学者生产效率的普遍提高。[[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1963）在《小科学，[[Big Science|大科学]]》（*Little Science, Big Science*）中最早系统记录了科学出版物总量的指数级激增，并提出[[Price's Law|普赖斯平方根定律]]（$k \approx \sqrt{N}$），揭示在宏观扩张背后，学科半数文献始终由总科研人口平方根规模的核心精英群体所包揽。依托[[Microsoft Academic Graph|微软学术图谱]]（Microsoft Academic Graph, MAG）与科学引文索引（Web of Science）数据库，对跨越百年的 5,300 万名研究者与近 9,000 万篇文献的量化追踪证实，文献总量与科研人员规模确实同步呈指数级扩张（图 1-1a；Dong et al., 2014; Sinatra et al., 2016）。
+> 学界常依直觉假定，科学知识规模的宏观膨胀源于个体学者生产效率的普遍提高。[[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1963）在《小科学，[[Big Science|大科学]]》（*Little Science, Big Science*）中最早系统记录了科学出版物总量的指数级激增，并提出[[Price's Law|普赖斯平方根定律]]（$k \approx \sqrt{N}$），揭示在宏观扩张背后，学科半数文献始终由总科研人口平方根规模的核心精英群体所包揽。依托[[Microsoft Academic Graph|微软学术图谱]]（Microsoft Academic Graph, MAG）与科学引文索引（Web of Science）数据库，对跨越百年的 5,300 万名研究者与近 9,000 万篇文献的量化追踪证实，文献总量与科研人员规模确实同步呈指数级扩张（图 1-1a；Dong et al., 2014; [[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）。
 >
-> 然而，在学者个体微观层面，科学家的平均年产出率在整个 20 世纪牢固维持在每年约 2 篇左右（图 1-1b 蓝线）。直到进入 21 世纪的过去十五年间，学者年均署名文章数量才轻微上浮至约 2.5 篇。这一微小增幅的实质动力完全来自科研协作网络的结构性扩张：多位学者联合署名的成果占比急剧攀升，成果平均署名人数从 1900 年的每篇 1 人稳步增至 2015 年的每篇 3.5 人以上（图 1-1b 红线）。换言之，学者个体在单位时间内独立构思、实验验证与撰写文本的生理与认知负荷保持着高度稳态，宏观知识库的指数级扩张本质上是由接受专业学术训练的科研队伍基数膨胀所驱动（Dong et al., 2014; Sinatra et al., 2016; pp. 8–9）。
+> 然而，在学者个体微观层面，科学家的平均年产出率在整个 20 世纪牢固维持在每年约 2 篇左右（图 1-1b 蓝线）。直到进入 21 世纪的过去十五年间，学者年均署名文章数量才轻微上浮至约 2.5 篇。这一微小增幅的实质动力完全来自科研协作网络的结构性扩张：多位学者联合署名的成果占比急剧攀升，成果平均署名人数从 1900 年的每篇 1 人稳步增至 2015 年的每篇 3.5 人以上（图 1-1b 红线）。换言之，学者个体在单位时间内独立构思、实验验证与撰写文本的生理与认知负荷保持着高度稳态，宏观知识库的指数级扩张本质上是由接受专业学术训练的科研队伍基数膨胀所驱动（Dong et al., 2014; [[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]; pp. 8–9）。
 
 > [!figure]- 图1-1：科学家人数与学术文献数量的增长趋势
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_1-1_Exponential_Growth_Stable_Productivity.jpg)
@@ -357,9 +357,10 @@ updated: 2026-10-31
 > [!sub-claim] 1. 知名学者享有[[Benefit of the Doubt in Peer Review|疑罪从无特权]]，名字信号占据合著红利的大半
 
 > [!theory-proposition] 学术马太效应｜声望充当外生质量信号并在评审中诱发正向倾斜
-> **解释** [[Robert K. Merton|罗伯特·K·默顿]]（Robert K. Merton, 1968）首次将《新约·马太福音》的寓言引入科学社会学，提出了著名的[[Matthew Effect in Academia|学术马太效应]]：已有声誉的学者在科研成果评价中获得超额的信誉承认与资源青睐，而不知名学者的工作哪怕贡献相当也易被忽视。
->
-> **应用实例** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman, 1977）对 41 位美国诺贝尔奖得主的[[In-depth Interview|深度访谈]]证实，顶尖学者公开承认其知名度为手稿审稿与成果发表提供了压倒性的[[Benefit of the Doubt in Peer Review|疑罪从无特权]]（benefit of the doubt）（p. 28）。
+> [[Robert K. Merton|罗伯特·K·默顿]]（Robert K. Merton, 1968）首次将《新约·马太福音》的寓言引入科学社会学，提出了著名的[[Matthew Effect in Academia|学术马太效应]]：已有声誉的学者在科研成果评价中获得超额的信誉承认与资源青睐，而不知名学者的工作哪怕贡献相当也易被忽视。
+
+> [!example] 应用实例
+> [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman, 1977）对 41 位美国诺贝尔奖得主的[[In-depth Interview|深度访谈]]证实，顶尖学者公开承认其知名度为手稿审稿与成果发表提供了压倒性的[[Benefit of the Doubt in Peer Review|疑罪从无特权]]（benefit of the doubt）（p. 28）。
 
 > [!case] IETF 准自然实验：姓名信号解释 77% 的合著声望红利（Simcoe & Waguespack, 2011）
 > 在互联网工程任务组（Internet Engineering Task Force, IETF）网络协议标准评审的大规模准自然实验中（Simcoe & Waguespack, 2011），研究者分析了 1995 至 2005 年间的 14,357 份协议草案：知名学者的姓名能使草案最终被采纳为正式标准的概率显著提升 9.4 个百分点；然而当资深专家的姓名在展示中被等（et al.）缩写遮蔽时，这一采纳优势骤降了 7.2 个百分点。这表明在资深学者的合著红利中，约有 77% 完全由名字带来的外生声望信号驱动。更为关键的是，在经过评审委员会严格预审精读的技术工作组子集中，该姓名溢价完全消失，证实声望信号主要在审稿专家面临过载阅读负担时被用作快速判断质量的启发式替代品（pp. 29–30）。
@@ -445,8 +446,8 @@ updated: 2026-10-31
 > > [!axis] 天赋异禀假说：连环成功源于未观测的个体差异
 > > 另一种解释认为，连环成功反映的是个体未被观测的内在学术天赋在不同时期的持续显现——先发成功只是天赋的早期信号，声望机制本身缺乏独立的因果驱动力，无法解释成功的自我强化现象（pp. 35–36）。
 
-> [!case] HHMI 准自然实验：荣誉符号本身具有独立促进效应（Azoulay et al., 2011）
-> 霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）研究员评选提供了关键的准自然实验契机。HHMI 每年向入选学者提供高达 100 万美元的无限制资金，是生物医学界的最高荣誉。为了剥离 100 万美元物质资助对后续产出质量的改善，Azoulay et al. (2011) 专门比对了入选学者与实力接近的落选对照组学者在**获奖之前发表的历史代表作**。实证分析证实，HHMI 荣誉宣布之后，入选者此前发表的旧作被引量显著增长，直接确证了声望符号本身的独立促进效应，且这一促进效应在成果内在质量模糊性较高、获奖者此前相对资历较浅的群体中表现得最为显著（pp. 36–37）。
+> [!case] HHMI 准自然实验：荣誉符号本身具有独立促进效应（[[Argument_Azoulay_2011_RJE|Azoulay et al., 2011]]）
+> 霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）研究员评选提供了关键的准自然实验契机。HHMI 每年向入选学者提供高达 100 万美元的无限制资金，是生物医学界的最高荣誉。为了剥离 100 万美元物质资助对后续产出质量的改善，[[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] 专门比对了入选学者与实力接近的落选对照组学者在**获奖之前发表的历史代表作**。实证分析证实，HHMI 荣誉宣布之后，入选者此前发表的旧作被引量显著增长，直接确证了声望符号本身的独立促进效应，且这一促进效应在成果内在质量模糊性较高、获奖者此前相对资历较浅的群体中表现得最为显著（pp. 36–37）。
 
 > [!figure]- 图3-2：维基百科荣誉勋章随机田野实验揭示的马太效应因果证据
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-2_Matthew_Effect_Field_Experiment_Barnstars.jpg)

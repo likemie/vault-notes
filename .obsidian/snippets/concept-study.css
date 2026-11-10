@@ -9,8 +9,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
  margin: 0 !important;
 }
 
-/* Concept Proposition · 与论证步骤共用开放标题、横线与内嵌正文的版式。 */
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] {
+/* Proposition · 与论证步骤共用开放标题、横线与内嵌正文的版式。 */
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) {
  --cp-accent:var(--cs-accent,31,111,106);
  position:relative; container-type:inline-size; isolation:isolate;
  margin:2.6rem 0 1.2rem !important; padding:0 !important;
@@ -18,22 +18,22 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
  border:0 !important; border-radius:0 !important; box-shadow:none !important;
  overflow:visible !important; transform:none !important; animation:none !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:where(.theme-dark *) { --cp-accent:var(--cs-accent,102,190,178); }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::before,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::after { content:none !important; display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]):where(.theme-dark *) { --cp-accent:var(--cs-accent,102,190,178); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"])::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"])::after { content:none !important; display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title {
  display:flex; align-items:flex-start; gap:.75rem;
  margin:0 0 .9rem !important; padding:0 0 .7rem !important;
  border:0 !important; border-bottom:2px solid rgba(var(--cp-accent),.55) !important;
  background:none !important; box-shadow:none !important;
  transition:border-color 240ms ease !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title::before,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-icon { display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title .callout-title-inner {
  display:block !important; position:relative; min-width:0; flex:1; padding:0 !important; overflow-wrap:anywhere;
  font:650 1.42em/1.5 var(--ac-serif,"Songti SC",Georgia,serif) !important;
  letter-spacing:.005em !important; color:var(--text-normal) !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner::before {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title .callout-title-inner::before {
  content:"PROPOSITION" !important; display:block !important; position:static !important;
  width:auto !important; height:auto !important; margin:0 0 .65rem !important; padding:0 0 0 22px !important;
  font:700 10.5px/1.5 var(--ac-sans,var(--font-interface,sans-serif)) !important;
@@ -41,8 +41,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
  background:linear-gradient(rgb(var(--cp-accent)),rgb(var(--cp-accent))) left center / 12px 2px no-repeat !important;
  border:0 !important; border-radius:0 !important; box-shadow:none !important; transform:none !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner::after { display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title .callout-title-inner::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-content {
  margin:0 !important; padding:.85rem 1.1rem !important;
  border:0 !important; border-radius:10px !important;
  background:rgba(var(--cp-accent),.07) !important;
@@ -50,30 +50,37 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
  color:var(--text-normal) !important; font:400 .96em/1.8 var(--ac-sans,var(--font-text,sans-serif)) !important;
  overflow-wrap:anywhere; transition:background-color 240ms ease !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p { margin:.5rem 0 !important; padding:0 !important; color:inherit !important; font:inherit !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > :first-child { margin-top:0 !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > :last-child { margin-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-content > p { margin:.5rem 0 !important; padding:0 !important; color:inherit !important; font:inherit !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-content > :first-child { margin-top:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-content > :last-child { margin-bottom:0 !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p:first-child > strong:first-child {
  display:block; margin:0 0 .35rem !important; padding:0 !important;
  color:rgb(var(--cp-accent)) !important; font:600 1.04em/1.6 var(--ac-serif,"Songti SC",Georgia,serif) !important; letter-spacing:.01em;
  background:none !important; border:0 !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-fold { align-self:center; padding:.5rem !important; color:rgb(var(--cp-accent)) !important; opacity:.8; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"].is-collapsed > .callout-title { margin:0 !important; padding:0 !important; border-bottom:0 !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"].is-collapsed > .callout-content { display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] a:focus-visible { outline:2px solid rgb(var(--cp-accent)); outline-offset:3px; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title .callout-fold { align-self:center; padding:.5rem !important; color:rgb(var(--cp-accent)) !important; opacity:.8; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]).is-collapsed > .callout-title { margin:0 !important; padding:0 !important; border-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]).is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) a:focus-visible { outline:2px solid rgb(var(--cp-accent)); outline-offset:3px; }
 @container (max-width:580px) {
- html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner { font-size:1.18em !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content { padding:.8rem .95rem !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-title .callout-title-inner { font-size:1.18em !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-content { padding:.8rem .95rem !important; }
 }
 @media (hover:hover) {
- html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:hover > .callout-title,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:focus-within > .callout-title { border-bottom-color:rgba(var(--cp-accent),.8) !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:hover > .callout-content,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:focus-within > .callout-content { background:rgba(var(--cp-accent),.09) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]):hover > .callout-title,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]):focus-within > .callout-title { border-bottom-color:rgba(var(--cp-accent),.8) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]):hover > .callout-content,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]):focus-within > .callout-content { background:rgba(var(--cp-accent),.09) !important; }
 }
 @media (prefers-reduced-motion:reduce),print {
- html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"][data-callout],html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"][data-callout] *,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"][data-callout]::before,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"][data-callout]::after { transition:none !important; animation:none !important; transform:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"])[data-callout],html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"])[data-callout] *,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"])[data-callout]::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"])[data-callout]::after { transition:none !important; animation:none !important; transform:none !important; }
 }
-@media print { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] { break-inside:avoid; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content { background:none !important; box-shadow:none !important; } }
+@media print { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) { break-inside:avoid; } html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-proposition"],[data-callout="theory-proposition"]) > .callout-content { background:none !important; box-shadow:none !important; } }
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-proposition"] {
+ --cp-accent:82,92,153;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-proposition"]:where(.theme-dark *) {
+ --cp-accent:144,153,236;
+}
 
 /* 适用局限 · [!warning|limits]；其他 warning 保留既有样式。 */
 html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) {

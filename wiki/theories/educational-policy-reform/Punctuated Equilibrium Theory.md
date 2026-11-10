@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -125,24 +125,28 @@ updated: 2026-11-02
 ---
 
 > [!theory-proposition] 命题一｜政策垄断依赖排他性制度场所与积极[[Policy Image|政策形象]]的双重维系
-> **解释** 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是崇高的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
->
-> **应用实例** 美国长期以来各州自主制定课程标准的格局：1990 年代联邦自上而下推行国家标准的尝试遭遇惨败，保守派指责其侵蚀州权，自由派指责其加剧考试不公，促使分散割裂的各州标准垄断进一步固化。
+> 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是崇高的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+
+> [!example] 应用实例
+> 美国长期以来各州自主制定课程标准的格局：1990 年代联邦自上而下推行国家标准的尝试遭遇惨败，保守派指责其侵蚀州权，自由派指责其加剧考试不公，促使分散割裂的各州标准垄断进一步固化。
 
 > [!theory-proposition] 命题二｜政策形象的负面重构能够击穿制度防线并唤醒宏观政治注意力
-> **解释** 瓦解政策垄断的前提并非单纯等待客观危机的降临，而是[[Policy Entrepreneur|政策企业家]]策略性地重新界定议题形象。企业家通过动员具有震撼力的实证指标与宏观核心价值叙事，将原本象征正面价值的现状重构为引发公众恐慌的治理灾难。当政策形象发生根本翻转时，长期对该领域保持冷漠的高层政治领袖（如州长、总统、跨党派领袖）将分配宏观注意力，从而瓦解垄断子系统的封闭防御。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 4–5, 9–11)]]
->
-> **应用实例** 在 [[Common Core State Standards|CCSS]] 议程设置中，政策企业家动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）实证映射研究，揭露各州为应付统考考核竞相调低及格切分点（Race to the bottom）的丑闻，并援引 [[TIMSS]] 跨国数据批判美国课程“宽一英里、深一英寸”，成功将“各州地方自主”的正向形象摧毁并重塑为“削弱全美[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]与拉大社会阶层不平等”的危机叙事。
+> 瓦解政策垄断的前提并非单纯等待客观危机的降临，而是[[Policy Entrepreneur|政策企业家]]策略性地重新界定议题形象。企业家通过动员具有震撼力的实证指标与宏观核心价值叙事，将原本象征正面价值的现状重构为引发公众恐慌的治理灾难。当政策形象发生根本翻转时，长期对该领域保持冷漠的高层政治领袖（如州长、总统、跨党派领袖）将分配宏观注意力，从而瓦解垄断子系统的封闭防御。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 4–5, 9–11)]]
+
+> [!example] 应用实例
+> 在 [[Common Core State Standards|CCSS]] 议程设置中，政策企业家动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）实证映射研究，揭露各州为应付统考考核竞相调低及格切分点（Race to the bottom）的丑闻，并援引 [[TIMSS]] 跨国数据批判美国课程“宽一英里、深一英寸”，成功将“各州地方自主”的正向形象摧毁并重塑为“削弱全美[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]与拉大社会阶层不平等”的危机叙事。
 
 > [!theory-proposition] 命题三｜[[Venue Shopping|制度场所转换]]能够突破既有政策子系统的否决壁垒实现间断突变
-> **解释** 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]
->
-> **应用实例** 面对联邦国会立法场所的政治死局，CCSS 倡导者将行动阵地战略性地转移至[[National Governors Association|全国州长协会]]（National Governors Association, NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）构成的横向州际自愿联盟这一全新场所；随后更借助联邦教育部[[Race to the Top|力争上游计划]]（Race to the Top, RTTT）43.5 亿美元竞争性资助杠杆，迫使各州教育委员会在数月内打破分散垄断，促成 45 个州的历史性跨越。
+> 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]
+
+> [!example] 应用实例
+> 面对联邦国会立法场所的政治死局，CCSS 倡导者将行动阵地战略性地转移至[[National Governors Association|全国州长协会]]（National Governors Association, NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）构成的横向州际自愿联盟这一全新场所；随后更借助联邦教育部[[Race to the Top|力争上游计划]]（Race to the Top, RTTT）43.5 亿美元竞争性资助杠杆，迫使各州教育委员会在数月内打破分散垄断，促成 45 个州的历史性跨越。
 
 > [!theory-proposition] 命题四｜制度摩擦与有限注意力导致政策产出呈现厚尾与非线性跳跃
-> **解释** 政府系统的信息处理能力高度受制于认知与制度摩擦（Institutional Friction）。由于决策者无法对环境中所有的微小信号做出连续边际调整，政策压力在子系统中长期积累直至压垮制度门槛；一旦宏观注意力被外部危机或颠覆性叙事激活，政策系统将迅速从完全不反应（Under-reaction）切换为过度反应（Over-reaction），在实证分布上呈现出显著的尖峰厚尾特征（Leptokurtosis）与间断跳跃。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
->
-> **应用实例** 创新政策在长达四十年间深陷新古典“[[Market Failure|市场失灵]]/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
+> 政府系统的信息处理能力高度受制于认知与制度摩擦（Institutional Friction）。由于决策者无法对环境中所有的微小信号做出连续边际调整，政策压力在子系统中长期积累直至压垮制度门槛；一旦宏观注意力被外部危机或颠覆性叙事激活，政策系统将迅速从完全不反应（Under-reaction）切换为过度反应（Over-reaction），在实证分布上呈现出显著的尖峰厚尾特征（Leptokurtosis）与间断跳跃。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+
+> [!example] 应用实例
+> 创新政策在长达四十年间深陷新古典“[[Market Failure|市场失灵]]/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
 
 ---
 

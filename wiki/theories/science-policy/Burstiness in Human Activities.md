@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -79,10 +79,10 @@ updated: 2026-10-31
 ---
 
 > [!theory-proposition] 命题一｜人类活动时间间隔服从重尾幂律分布
-> **解释** 实证分析显示，无论是电子邮件收发、电话呼叫还是[[Document|文献]]产出，事件间隔时间 $\tau$ 均显著偏离泊松过程的指数衰减，展现为 $P(\tau) \propto \tau^{-\alpha}$（指数 $\alpha \approx 1$ 至 $2$）。这意味着个体绝大多数活动发生在极短的时间跳跃中，同时偶见极其漫长的时间间隙。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–75)]]
+> 实证分析显示，无论是电子邮件收发、电话呼叫还是[[Document|文献]]产出，事件间隔时间 $\tau$ 均显著偏离泊松过程的指数衰减，展现为 $P(\tau) \propto \tau^{-\alpha}$（指数 $\alpha \approx 1$ 至 $2$）。这意味着个体绝大多数活动发生在极短的时间跳跃中，同时偶见极其漫长的时间间隙。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–75)]]
 
 > [!theory-proposition] 命题二｜学术爆发期是人类突发动力学在高阶认知创造中的系统投射
-> **解释** 虽然[[Bibliometric Analysis|文献计量学]]中的学术爆发期测算基于成果被引影响力，但两者在数学逻辑上高度同构；科学家集中发表突破作的爆发窗口，体现了人类认知注意力在高价值方向上高度聚焦的突发动力学普适规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–75)]]
+> 虽然[[Bibliometric Analysis|文献计量学]]中的学术爆发期测算基于成果被引影响力，但两者在数学逻辑上高度同构；科学家集中发表突破作的爆发窗口，体现了人类认知注意力在高价值方向上高度聚焦的突发动力学普适规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–75)]]
 
 ---
 

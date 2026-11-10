@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-11
 title: Unbalanced Growth Theory
 aliases:
   - 非均衡增长理论
@@ -75,13 +75,13 @@ aliases:
 ---
 
 > [!theory-proposition] 命题一｜非均衡张力是激发组织学习与打破行政惯性的倒逼动力
-> **解释** 均衡状态往往维系了既有的利益格局与低效例规；而在特定战略前沿制造非均衡短缺或超前需求，能够创造强烈的经济与政治信号，倒逼官僚科层与市场主体为了解决眼前瓶颈而必须开展跨部门协同与技术探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
+> 均衡状态往往维系了既有的利益格局与低效例规；而在特定战略前沿制造非均衡短缺或超前需求，能够创造强烈的经济与政治信号，倒逼官僚科层与市场主体为了解决眼前瓶颈而必须开展跨部门协同与技术探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
 > [!theory-proposition] 命题二｜前后向产业联系是放大公共投资外溢效应的关键机制
-> **解释** 战略性公共投资不应追求自身孤立的财务自足，而应优先投向具有广泛前向联系（为其他产业提供关键技术基础设施）与后向联系（拉动庞大上游供应链采购）的先导领域，从而在全社会撬动数倍于初始投资的私人资本自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791)]]
+> 战略性公共投资不应追求自身孤立的财务自足，而应优先投向具有广泛前向联系（为其他产业提供关键技术基础设施）与后向联系（拉动庞大上游供应链采购）的先导领域，从而在全社会撬动数倍于初始投资的私人资本自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791)]]
 
 > [!theory-proposition] 命题三｜重大国家使命是非均衡增长理论在创新政策层面的现代形态
-> **解释** 21 世纪的使命导向政策（如碳中和、深空探测、数字基础设施重构）并非重回传统计划经济，而是非均衡增长战略的高级形态——通过人为确立超越部门常规的战略使命，打破现代政策的[[Complexity Paradox|复杂性悖论]]，引领全社会[[Technological Trajectories|技术轨道]]朝向绿色包容转型。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791, 796–798)]]
+> 21 世纪的使命导向政策（如碳中和、深空探测、数字基础设施重构）并非重回传统计划经济，而是非均衡增长战略的高级形态——通过人为确立超越部门常规的战略使命，打破现代政策的[[Complexity Paradox|复杂性悖论]]，引领全社会[[Technological Trajectories|技术轨道]]朝向绿色包容转型。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791, 796–798)]]
 
 ---
 

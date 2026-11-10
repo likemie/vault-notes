@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-11-11
 title: Three Generations of Mission-Oriented Policy
 aliases:
   - 三代使命导向政策理论
@@ -104,25 +104,25 @@ aliases:
 ---
 
 > [!theory-proposition] 命题一｜第一代使命政策：以国家后发追赶为核心的社会经济奠基（骆驼形态）
-> **解释** 19 世纪末至 20 世纪初的早期发展型国家（如德国、日本以及二战后初期的法国计划署）将后发追赶确立为最高国家意志。受东方天命思想与西方国家理性（Reason of State）思想驱动，国家承担起忍辱负重、动员全社会资源的责任。组织上依托韦伯式精英功绩制文官官僚，通过持续革新组织构架与高层超凡魅力网络，奠定了现代[[Research Universities|研究型大学]]、中央银行及社会保险制度的基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
->
-> **典型案例** 
+> 19 世纪末至 20 世纪初的早期发展型国家（如德国、日本以及二战后初期的法国计划署）将后发追赶确立为最高国家意志。受东方天命思想与西方国家理性（Reason of State）思想驱动，国家承担起忍辱负重、动员全社会资源的责任。组织上依托韦伯式精英功绩制文官官僚，通过持续革新组织构架与高层超凡魅力网络，奠定了现代[[Research Universities|研究型大学]]、中央银行及社会保险制度的基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
+
+> [!example] 典型案例
 > - **[[System Althoff|普鲁士阿尔托夫体制]]（System Althoff）** 1882 至 1907 年间由普鲁士文化部高级官员弗里德里希·阿尔托夫（Friedrich Althoff）主导，通过战略性学术人事任用与科研机构改革，打通大学与新兴化学及电气工业的合作网络，推动德国实现科技超越。
 > - **[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）** 依托[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy），在战后紧密协调重点工业部门引进吸收前沿技术。
 > - **法国二战后现代化委员会** 法国计划署（[[French Modernisation Commissions|Commissariat Général du Plan]]）推行[[Picking the Willing|挑选意愿者]]（Picking the willing）策略，动员最具进取心的大企业共商投资。
 
 > [!theory-proposition] 命题二｜第二代使命政策：以国家安全与[[Big Science|大科学]]突破为核心的技术攻关（狮子形态）
-> **解释** 20 世纪 40 至 60 年代的美欧国家在冷战和军备竞赛背景下，依靠单一层级化国家实验室部署大[[Science Programs|科学项目]]。这种模式由具备强烈主权意识的政客与极具远见的英雄式科技主管领导，创造了巨大的技术突破与产业外溢效应。然而，该模式对纯技术以外的社会问题（如城市衰落、环境污染）缺乏敏捷响应力，且在缺乏公共采购对接的民用领域难以自发扩散，最终因[[New Public Management|新公共管理]]（New Public Management, NPM）改革对成本效率的片面追求而走向衰落。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
->
-> **典型案例** 
+> 20 世纪 40 至 60 年代的美欧国家在冷战和军备竞赛背景下，依靠单一层级化国家实验室部署大[[Science Programs|科学项目]]。这种模式由具备强烈主权意识的政客与极具远见的英雄式科技主管领导，创造了巨大的技术突破与产业外溢效应。然而，该模式对纯技术以外的社会问题（如城市衰落、环境污染）缺乏敏捷响应力，且在缺乏公共采购对接的民用领域难以自发扩散，最终因[[New Public Management|新公共管理]]（New Public Management, NPM）改革对成本效率的片面追求而走向衰落。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+
+> [!example] 典型案例
 > - **美国[[Manhattan Project|曼哈顿工程]]与[[Apollo Program|阿波罗计划]]** 依托中央集权指挥链与海量公共财政投入，攻克特定物理与航空航天工程极限。
 > - **橡树岭国家实验室与[[DARPA|美国国防高级研究计划局]]（DARPA）** 在著名物理学家阿尔温·温伯格（[[Alvin Weinberg]]）等权威主管领导下，开创前沿反应堆与早期互联网技术。
 > - **[[CERN|欧洲核子研究组织]]（CERN）** 通过多国合作的大科学采购与供应链协同，催生了万维网（World Wide Web）等民用突破。
 
 > [!theory-proposition] 命题三｜第三代使命政策：以多元异质行动者与[[Agile Governance|敏捷试错]]为核心的社会–技术转型（儿童形态）
-> **解释** 21 世纪兴起的新一代使命政策致力于破解气候危机、老龄化照护与公共卫生等[[Wicked Problem|棘手问题]]（Wicked Problems）。其治理不再依赖单一集权的科层控制，而是展现出分布式的行动主体（多边组织、大型慈善基金会、草根社会运动与公民用户）。政策核心转向社会响应性、跨部门交叉设计与敏捷实验（包含[[Randomised Controlled Trials|随机对照试验]] [Randomised Controlled Trial, RCT]、以人为本的服务设计与原型快速迭代），体现了[[Friedrich Nietzsche|尼采]]哲学中儿童所象征的规则重塑、[[Creativity|创造性]]试错与共创活力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
->
-> **典型案例** 
+> 21 世纪兴起的新一代使命政策致力于破解气候危机、老龄化照护与公共卫生等[[Wicked Problem|棘手问题]]（Wicked Problems）。其治理不再依赖单一集权的科层控制，而是展现出分布式的行动主体（多边组织、大型慈善基金会、草根社会运动与公民用户）。政策核心转向社会响应性、跨部门交叉设计与敏捷实验（包含[[Randomised Controlled Trials|随机对照试验]] [Randomised Controlled Trial, RCT]、以人为本的服务设计与原型快速迭代），体现了[[Friedrich Nietzsche|尼采]]哲学中儿童所象征的规则重塑、[[Creativity|创造性]]试错与共创活力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+
+> [!example] 典型案例
 > - **[[Government Digital Service|英国政府数字服务局]]（GDS）** 打破传统寡头 IT 采购外包壁垒，由内部跨职能敏捷团队通过用户体验设计与快速迭代开发统一的 `gov.uk` 平台，节省逾 40 亿英镑。
 > - **[[EU|欧盟]]“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）战略使命** 围绕癌症攻坚、气候适应、海洋健康、智慧城市与土壤健康五大重大社会挑战组织跨学科研发网络；[[Argument_Brint_2023_IHE|Brint (2023, p. 10)]]指出，与美中两国聚焦关键产业与地缘竞争的科技规划相比，欧盟将 2021–2027 年近千亿欧元预算中过半资金倾斜于社会适应与环境可持续性（五大任务领域），展现了鲜明的第三代社会响应型使命特征。
 > - **德国能源转型（Energiewende）** 结合固定上网电价补贴、公民分布式能源合作社与电网智能改造，实现能源系统的结构性转型。
