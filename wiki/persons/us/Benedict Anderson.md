@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -86,6 +86,7 @@ updated: 2026-11-10
 > - **1983 — *Imagined Communities: Reflections on the Origin and Spread of Nationalism*** 提出民族是由印刷资本主义与大众媒介所构筑的想象共同体，成为全球被引用最多的社科经典之一。关联条目：[[Imagined Community]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006)]]
 > - **1998 — *The Spectre of Comparisons: Nationalism, Southeast Asia, and the World*** 深入探讨东南亚比较政治中的民族主义幽灵与政治现代性转型。
 > - **2005 — *Under Three Flags: Anarchism and the Anti-Colonial Imagination*** 考察 19 世纪末全球无政府主义网络与反殖民文学想象的互动。
+> - **2016 — *Imagined Communities* (Revised Edition)** 导论系统阐明民族作为有限且享有主权的文化人造物，提出民族主义的[[Modular Nationalism|模块化]]移植机制，并与格尔纳的发明说及勒南的遗忘论展开对话。关联条目：[[Modular Nationalism]]、[[Imagined Community]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7, xi–xv)]]
 
 ---
 
@@ -121,6 +122,8 @@ updated: 2026-11-10
 
 > [!person-network] 关系网络
 > - **博士导师** 乔治·卡辛（George Kahin）— 康奈尔大学东南亚研究先驱与现代印度尼西亚政治专家。
+> - **理论对话与论辩** [[Ernest Gellner|欧内斯特·格尔纳]] — 对话格尔纳“民族主义发明民族”命题，批评其将发明混同于伪造，强调共同体的根本分野在于被想象的具体风格。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+> - **思想溯源对话** [[Ernest Renan|欧内斯特·勒南]] — 引述勒南关于民族本质在于共享记忆与共同遗忘的双重命题，阐释集体自传叙事缝合历史断裂的机制。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. xiv)]]
 > - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
 > - **学术论辩对手** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其“情感国家”论断。
@@ -128,6 +131,12 @@ updated: 2026-11-10
 ---
 
 > [!debates] 民族主义解释[[Paradigm Wars|范式之争]]
+>
+> > [!axis] 发明伪饰论 vs 媒介文化想象论
+> > 争论民族究竟是统治阶层凭空制造的伪饰发明，还是大众依托媒介与心理认同生成的真实文化人造物。
+> >
+> > - **Gellner（1983）** 强调民族主义在原本不存在民族之地发明民族，突出其工具性与虚构性。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+> > - **Anderson（1983/2016）** 批评将发明简单等同于造假，论证共同体的根本分野取决于被想象的具体风格，超越真实与虚假的二元划分。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]
 >
 > > [!axis] 现代建构论与族群象征主义的分歧
 > > 安东尼·史密斯（Anthony D. Smith）等族群象征主义学者批评安德森过度强调现代印刷媒介的断裂性建构，忽视了前现代族群（ethnie）神话、符号与血缘记忆对现代民族认同的深层连续性制约。
@@ -142,6 +151,7 @@ updated: 2026-11-10
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Imagined Community]] | 理论 | 1983 年系统提出，界定民族为有限且主权的想象政治实体。 |
+> | [[Modular Nationalism]] | 概念 | 提出民族属性是可跨历史情境移植与组装的模块化文化人造物。 |
 > | [[Dunbar's Number]] | 概念 | 与安德森想象链接理论形成跨学科对话，提供大规模协作的神经人类学依据。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡作为超大规模科技攻坚与公民认同维系的核心理论构件。 |
 > | [[Official Knowledge]] | 概念 | 为批判性教育学解构国家教科书与历史叙事提供了奠基性[[Analytic Framework\|分析框架]]。 |

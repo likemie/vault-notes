@@ -24,12 +24,12 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
   - "[[Homophily]]"
-  - "[[Screening Off]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
@@ -84,7 +84,7 @@ updated: 2026-11-11
 > [!influence-path] 影响路径
 > - **理论路径** 开创了现代主义民族理论范式，与安东尼·史密斯的族群象征主义以及安德森的文化建构论构成当代学术论争的核心坐标系。
 > - **教育政治学路径** 揭示了国家公立学校系统垄断文化再生产、推行标准化语言在现代民族国家塑造中的枢纽作用。
-> - **批评与反思** 安德森批评其将发明简单等同于虚假与伪造，[[Screening Off|遮蔽]]了超越面对面原始村落的各类共同体在文化想象风格上的深层差异。
+> - **批评与反思** 安德森批评其将发明简单等同于虚假与伪造，遮蔽了超越面对面原始村落的各类共同体在文化想象风格上的深层差异。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 评析格尔纳的发明命题，指出其过度将发明划归为捏造和伪饰，从而错失了想象共同体的表象风格分析。
@@ -96,3 +96,30 @@ updated: 2026-11-11
 > 这一表述的缺陷在于，格尔纳急于论证民族主义披着虚假外衣，把发明径直等同于捏造与虚假，忽略了想象与创造的建设性维度。以这种方式，他暗示存在某种能够与民族相对立的真实共同体。事实上，一切超越直接面对面交往之原始村落的共同体，皆是被想象出来的。区分共同体的标准取决于其被想象的具体风格，超越了真实与虚伪的简单对立。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 >
 > *The drawback to this formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretences that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'. In this way he implies that 'true' communities exist which can be advantageously juxtaposed to nations. In fact, all communities larger than primordial villages of face-to-face contact (and perhaps even these) are imagined. Communities are to be distinguished, not by their falsity/genuineness, but by the style in which they are imagined.*
+
+---
+
+> [!person-network] 关系网络
+> - **学术对话与论辩对手** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森在《[[Imagined Community|想象的共同体]]》中对话格尔纳的发明命题，批评其将发明混同于虚构，指出民族共同体的分野在于想象的具体风格。
+> - **论敌** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义代表学者，批评格尔纳的工业功能主义割裂了前现代族群的历史连续性。
+
+---
+
+> [!debates] 学术争议
+>
+> > [!axis] 工业功能主义工具论 vs 媒介文化想象论
+> > 争论民族究竟是工业社会应对文化标准化需求的工具性制度发明，还是依托大众媒介与印刷资本主义生成的文化想象实体。
+> >
+> > - **Gellner（1983）** 强调工业化社会对流动劳动力的结构性需求迫使国家通过统一公共教育发明同质的高阶民族文化。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. xii)]]
+> > - **Anderson（1983/2016）** 批评其功能主义与工具主义取向，强调印刷资本主义与大众媒介所形塑的文化想象风格与横向同志情谊。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Imagined Community]] | 理论 | 提出“民族主义发明民族”命题，构成安德森想象共同体理论的核心对话基准。 |
+> | [[Paradigm]] | 概念 | 开创现代主义民族研究范式，将民族确立为现代工业转型的功能建构产物。 |
+> | [[Homophily]] | 概念 | 阐释工业社会要求文化与语言同质性以保障劳动力自由流动。 |
+> | 伦敦政治经济学院 | 组织 | 长期任教并担任哲学、逻辑与科学方法教授。 |
