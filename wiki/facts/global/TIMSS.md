@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -141,6 +141,7 @@ updated: 2026-11-02
 > - **国家课程病理诊断与议程设置催化** 跨国课程分析揭示不同教育体制的课程广度与深度差异。例如在推进美国 CCSS 运动中，TIMSS 比较课程数据被政策企业家转化为诊断美国各州数学标准缺乏连贯性与深度的核心实证工具，有力推动建立精简、连贯且严格之国家级标准的政策共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
 > - **微观治理指导效力不足** 定性跟踪研究表明，教育官员清醒认识到 TIMSS 仅具宏观参考价值；由于其依赖抽样、概括性强且解释空间过大，无法直接指导单体学校的教学微调与薄弱校干预，其实际治理价值显著低于覆盖全量学校的[[Vergleichsarbeiten|校际比较测试]]（VERA）与过程性[[School Inspection|学校督导]]。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 494–495)]]
 > - **作为学业自然成长基准的纵向实证功能** 德国实证教育研究者（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出，TIMSS 与 PISA 的跨期纵向跟踪为评估教学干预成效提供了客观的常态成长标尺：在学校真实情境下，一学年的平均学业能力进展仅在 $0.20–0.40$ 个标准差之间（每学期约 $0.15–0.20$）。这一基准有力纠正了宏观[[Research Synthesis|证据综合]]中脱离现实将 $d = 0.40$ 设为不可逾越“基线”的偏误，确立了 $0.20–0.30$ [[Effect Size|效应量]]在数理与科学教育中的实质政策价值。
+> - **课程体制集权度与学业一致性比较（Cogan et al., 2001; [[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）** 基于 TIMSS 对 54 个教育系统的课程轨迹比较证实，具备中央集权型课程体制且能够有效对齐各阶段课程流转的系统，往往能达成更高的学生学业一致性；国家依靠富有活力的制度中枢与统一教科书等中介工具规范学习轨迹，能显著降低系统内部的学业离散度。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 8)]]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
@@ -150,6 +151,7 @@ updated: 2026-11-02
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments\|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 33)]]（引述 Roppelt et al., 2013; Köller, 2012） | 德国大规模数理学业追踪与[[Meta-analysis\|元分析]]基准对比 | 宏观学业成长实证追踪与方法学审计 | 学期与学年常态能力成长幅度（$d$） | 证实学生全学年常态数理能力增长通常仅在 $0.20–0.40$ 个标准差（每学期 $0.15–0.20$） | 跨大规模评估稳定重现 | 击碎了哈蒂将 $d = 0.40$ 设定为排他性一学年成长基准的虚构神话，为客观评价教学法效应提供了现实依据 |
+> | [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023, p. 8)]]（引述 Cogan et al., 2001） | 54 个教育系统的数理课程轨迹 | 跨国课程比较与学业产出对齐分析 | 课程集权度、流转对齐度与学业一致性 | 证实具备中央集权型课程体制且各阶段课程对齐良好的系统，学生学业一致性显著更高 | 54 系统跨国比较 | 揭示国家制度中枢依靠统一教材规范学习轨迹对保障学业均质性的制度价值 |
 
 > [!stat-cards]- 关键实证数据
 > - **4** （年）为固定周期的常态化全球测评跨度。
@@ -215,3 +217,4 @@ updated: 2026-11-02
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊文献。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 引用 TIMSS 与 PISA 纵向常态成长实证数据反驳[[John Hattie|哈蒂]] 0.40 关节点神话的方法学审计文献。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 ACER 等机构垄断 TIMSS 核心合同引发欧洲抗议及 TIMSS 震荡催生 SINUS 的机制。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 援引 TIMSS 对 54 个教育系统的跨国课程轨迹比较（Cogan et al., 2001），论证中央集权型且流转对齐的课程体制在保障学生学业一致性上的制度优势（p. 8）。
